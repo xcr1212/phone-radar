@@ -1,5 +1,5 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-05-31T13:07:17.094Z",
+  "updatedAt": "2026-05-31T13:20:09.821Z",
   "news": [
     {
       "id": "auto-048c8cf9dd9e",
@@ -179,6 +179,24 @@ window.phoneRadarAuto = {
         "Samsung",
         "爆料",
         "自动抓取"
+      ]
+    },
+    {
+      "id": "x-508dca6062ce",
+      "title": "Apple Club：根据最近的报道，传闻中的 iPhone Ultra 可能会采用几乎不…",
+      "source": "Apple Club",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-05-31",
+      "url": "https://x.com/ApplesClubs/status/2060828597309583477",
+      "image": "",
+      "summary": "根据最近的报道，传闻中的 iPhone Ultra 可能会采用几乎不可见的显示屏折痕，从而解决折叠智能手机的最大问题之一。",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "X"
       ]
     },
     {
@@ -380,39 +398,57 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-807d7e18c363",
-      "title": "Huawei Mate 80 Pro Max camera beats iPhone 17 Pro Max in color accuracy",
-      "source": "Huawei Central",
+      "id": "weibo-192978422618",
+      "title": "数码闲聊站：去年底发布的新旗舰，截止W21(5.24): 单品激活100W——OPPO F…",
+      "source": "数码闲聊站",
       "brand": "Huawei",
       "model": "Huawei 相关机型",
       "type": "爆料",
-      "trust": "媒体汇总",
+      "trust": "高关注爆料源",
       "date": "2026-05-30",
-      "url": "https://www.huaweicentral.com/huawei-mate-80-pro-max-iphone-17-pro-max-camera/",
-      "image": "https://www.huaweicentral.com/wp-content/uploads/2026/05/camera-accuracy.jpg",
-      "summary": "Huawei Mate 80 Pro Max comes with a robust camera setup, including the second-generation multispectral lens that defeated iPhone 17 Pro Max in color accuracy. It seems the company…",
+      "url": "https://weibo.com/6048569942/R1O7UhXR5",
+      "image": "",
+      "summary": "去年底发布的新旗舰，截止W21(5.24): 单品激活100W——OPPO Find X9、小米17、vivo X300、华为Mate80 Pro Max、(vivo X300 Pro 99.6W) 单品激活150W——小米17 Pro(175W) 单品激活200W——小米17 Pro Max(192W) 单品激活400W——华为Mate80(393W)…",
       "tags": [
         "Huawei",
         "爆料",
-        "自动抓取"
+        "微博"
       ]
     },
     {
-      "id": "auto-a46ca9601321",
-      "title": "Huawei plans add-on zoom camera (teleconverters) for Mate 90",
-      "source": "Huawei Central",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
+      "id": "weibo-9a359065674c",
+      "title": "数码闲聊站：咳咳，提前摸到新机了，影像还可以",
+      "source": "数码闲聊站",
+      "brand": "行业",
+      "model": "智能手机市场",
       "type": "爆料",
-      "trust": "媒体汇总",
+      "trust": "高关注爆料源",
       "date": "2026-05-30",
-      "url": "https://www.huaweicentral.com/huawei-plans-add-on-zoom-camera-teleconverters-for-mate-90/",
-      "image": "https://www.huaweicentral.com/wp-content/uploads/2026/05/Huawei-Mate-90-zoom-lens.jpg",
-      "summary": "Huawei Mate 90 series will not only unlock a new chip breakthrough this year but could also take photography to the next level with add-on zoom camera technology or “external tele…",
+      "url": "https://weibo.com/6048569942/R1NlIyDZM",
+      "image": "https://wx1.sinaimg.cn/orj360/006BlblIgy1idnh1ehu6wj30jv09qgn9.jpg",
+      "summary": "咳咳，提前摸到新机了，影像还可以",
       "tags": [
-        "Huawei",
+        "行业",
         "爆料",
-        "自动抓取"
+        "微博"
+      ]
+    },
+    {
+      "id": "weibo-ea32966d0398",
+      "title": "数码闲聊站：为了上比大更大的万级大电池，耀子迭代线开了几块大尺寸屏幕，目前有一块6.89\"…",
+      "source": "数码闲聊站",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-05-30",
+      "url": "https://weibo.com/6048569942/R1MyuqrHS",
+      "image": "",
+      "summary": "为了上比大更大的万级大电池，耀子迭代线开了几块大尺寸屏幕，目前有一块6.89\"±2K OLED大直屏，一块7\"±1.5K OLED大直屏，大屏档集合！",
+      "tags": [
+        "行业",
+        "爆料",
+        "微博"
       ]
     },
     {
