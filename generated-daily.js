@@ -1,5 +1,5 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-05-31T12:19:40.732Z",
+  "updatedAt": "2026-05-31T12:34:40.759Z",
   "issueDate": "2026-05-31",
   "issue": "VOL.260531",
   "title": "手机情报日报",
@@ -328,28 +328,6 @@ window.phoneRadarDaily = {
       "hint": "看方向，不急着当购买依据。",
       "items": [
         {
-          "id": "auto-807d7e18c363",
-          "title": "iPhone 17 Pro Max 机模 / 配色信息曝光",
-          "originalTitle": "",
-          "source": "Huawei Central",
-          "brand": "Huawei",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-05-30",
-          "url": "https://www.huaweicentral.com/huawei-mate-80-pro-max-iphone-17-pro-max-camera/",
-          "image": "https://www.huaweicentral.com/wp-content/uploads/2026/05/camera-accuracy.jpg",
-          "verdict": "扫一眼",
-          "takeaway": "Huawei 影像能力相关宣传或案例，主要看是否透露拍摄能力变化。",
-          "detail": "iPhone 17 Pro Max 机模 / 配色信息曝光。来源提到未发布机型的机模/配色图，适合先判断外观方向、颜色变化和机身轮廓，但最终量产版本仍可能调整。",
-          "keyPoints": [
-            "外观 / 配色 / 尺寸",
-            "影像硬件"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "影响拍照体验，买旗舰机时值得关注。",
-          "action": "有具体参数就记录到参数库；没有参数就先收藏。"
-        },
-        {
           "id": "auto-013c61e5a517",
           "title": "Honor 600 Pro 对比 Xiaomi 17 Comparison：差异整理",
           "originalTitle": "",
@@ -370,6 +348,28 @@ window.phoneRadarDaily = {
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "影响购买预算，值得先看。",
+          "action": "有具体参数就记录到参数库；没有参数就先收藏。"
+        },
+        {
+          "id": "auto-1b60288f4ecc",
+          "title": "Honor 600 对比 Honor 600 Pro：差异整理",
+          "originalTitle": "",
+          "source": "Gizmochina",
+          "brand": "HONOR",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-05-31",
+          "url": "https://www.gizmochina.com/2026/05/31/honor-600-vs-honor-600-pro/",
+          "image": "https://www.gizmochina.com/wp-content/uploads/2026/05/image-187-300x198.png?x10805",
+          "verdict": "可略过",
+          "takeaway": "Honor 600 对比 Honor 600 Pro：重点看定位、配置差异和价格差，判断是否值得等更高端型号。",
+          "detail": "Honor 600 对比 Honor 600 Pro 的差异整理。重点看两款机型的定位、影像规格、屏幕尺寸、价格区间和发布时间是否拉开差距。",
+          "keyPoints": [
+            "屏幕形态",
+            "电池 / 充电"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "影响日常体验，尤其是游戏、拍照和长时间使用。",
           "action": "有具体参数就记录到参数库；没有参数就先收藏。"
         }
       ]
