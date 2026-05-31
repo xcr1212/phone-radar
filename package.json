@@ -1,0 +1,10 @@
+{
+  "name": "phone-radar",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "build": "node ./scripts/build-static.mjs",
+    "update-news": "node ./scripts/fetch-news.mjs",
+    "serve": "node ./scripts/server.mjs"
+  }
+}

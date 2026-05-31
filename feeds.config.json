@@ -1,0 +1,181 @@
+{
+  "maxItems": 120,
+  "requestTimeoutMs": 8000,
+  "concurrency": 6,
+  "browserSourceTimeoutMs": 12000,
+  "summaryLimit": 180,
+  "weiboSources": [
+    {
+      "name": "数码闲聊站",
+      "url": "https://weibo.com/n/%E6%95%B0%E7%A0%81%E9%97%B2%E8%81%8A%E7%AB%99",
+      "uid": "6048569942",
+      "brand": "行业",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "maxItems": 10
+    }
+  ],
+  "xSources": [
+    {
+      "name": "Apple Club",
+      "handle": "ApplesClubs",
+      "url": "https://x.com/ApplesClubs",
+      "brand": "iPhone",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "maxItems": 8
+    }
+  ],
+  "keywords": {
+    "iPhone": ["iphone", "ios", "apple intelligence", "a-series", "apple modem"],
+    "Samsung": ["galaxy", "one ui", "samsung"],
+    "Pixel": ["pixel", "tensor", "android feature drop"],
+    "Xiaomi": ["xiaomi", "redmi", "hyperos"],
+    "OPPO": ["oppo", "oneplus", "coloros"],
+    "vivo": ["vivo", "iqoo", "originos"],
+    "Huawei": ["huawei", "harmonyos"],
+    "HONOR": ["honor", "magic"]
+  },
+  "feeds": [
+    {
+      "name": "IT之家",
+      "url": "https://www.ithome.com/rss/",
+      "brand": "行业",
+      "type": "爆料",
+      "trust": "媒体汇总"
+    },
+    {
+      "name": "爱范儿",
+      "url": "https://www.ifanr.com/feed",
+      "brand": "行业",
+      "type": "评测",
+      "trust": "媒体汇总"
+    },
+    {
+      "name": "少数派",
+      "url": "https://sspai.com/feed",
+      "brand": "行业",
+      "type": "评测",
+      "trust": "媒体汇总"
+    },
+    {
+      "name": "Apple Newsroom",
+      "url": "https://www.apple.com/newsroom/rss-feed.rss",
+      "brand": "iPhone",
+      "type": "官方",
+      "trust": "官方确认"
+    },
+    {
+      "name": "MacRumors",
+      "url": "https://www.macrumors.com/macrumors.xml",
+      "brand": "iPhone",
+      "type": "爆料",
+      "trust": "媒体汇总"
+    },
+    {
+      "name": "9to5Mac",
+      "url": "https://9to5mac.com/feed/",
+      "brand": "iPhone",
+      "type": "爆料",
+      "trust": "媒体汇总"
+    },
+    {
+      "name": "9to5Google",
+      "url": "https://9to5google.com/feed/",
+      "brand": "Pixel",
+      "type": "爆料",
+      "trust": "媒体汇总"
+    },
+    {
+      "name": "GSMArena",
+      "url": "https://www.gsmarena.com/rss-news-reviews.php3",
+      "brand": "行业",
+      "type": "参数",
+      "trust": "媒体汇总"
+    },
+    {
+      "name": "PhoneArena",
+      "url": "https://www.phonearena.com/rss",
+      "brand": "行业",
+      "type": "评测",
+      "trust": "媒体汇总"
+    },
+    {
+      "name": "Android Police",
+      "url": "https://www.androidpolice.com/feed/",
+      "brand": "行业",
+      "type": "爆料",
+      "trust": "媒体汇总"
+    },
+    {
+      "name": "Android Central",
+      "url": "https://www.androidcentral.com/rss.xml",
+      "brand": "行业",
+      "type": "评测",
+      "trust": "媒体汇总"
+    },
+    {
+      "name": "Samsung Newsroom",
+      "url": "https://news.samsung.com/global/feed",
+      "brand": "Samsung",
+      "type": "官方",
+      "trust": "官方确认"
+    },
+    {
+      "name": "SamMobile",
+      "url": "https://www.sammobile.com/feed/",
+      "brand": "Samsung",
+      "type": "爆料",
+      "trust": "媒体汇总"
+    },
+    {
+      "name": "Google Blog",
+      "url": "https://blog.google/rss/",
+      "brand": "Pixel",
+      "type": "官方",
+      "trust": "官方确认"
+    },
+    {
+      "name": "Gizmochina",
+      "url": "https://www.gizmochina.com/feed/",
+      "brand": "行业",
+      "type": "爆料",
+      "trust": "媒体汇总"
+    },
+    {
+      "name": "Huawei Central",
+      "url": "https://www.huaweicentral.com/feed/",
+      "brand": "Huawei",
+      "type": "爆料",
+      "trust": "媒体汇总"
+    },
+    {
+      "name": "The Verge",
+      "url": "https://www.theverge.com/rss/index.xml",
+      "brand": "行业",
+      "type": "爆料",
+      "trust": "媒体汇总"
+    },
+    {
+      "name": "Counterpoint Research",
+      "url": "https://www.counterpointresearch.com/feed/",
+      "brand": "行业",
+      "type": "市场报告",
+      "trust": "官方确认"
+    },
+    {
+      "name": "iFixit News",
+      "url": "https://www.ifixit.com/News/feed",
+      "brand": "行业",
+      "type": "评测",
+      "trust": "媒体汇总"
+    },
+    {
+      "name": "Android Authority",
+      "url": "https://www.androidauthority.com/feed/",
+      "brand": "行业",
+      "type": "爆料",
+      "trust": "媒体汇总"
+    }
+  ]
+}

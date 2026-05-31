@@ -1,0 +1,236 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Phone Radar</title>
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body>
+    <header class="topbar">
+      <div class="brand-block">
+        <div class="brand-mark" aria-hidden="true">
+          <span></span>
+          <span></span>
+          <span></span>
+        </div>
+        <div>
+          <p class="eyebrow">个人数码情报面板</p>
+          <h1>Phone Radar</h1>
+        </div>
+      </div>
+
+      <div class="global-search">
+        <label for="searchInput">搜索</label>
+        <input id="searchInput" type="search" placeholder="iPhone、Pixel、芯片、屏幕..." />
+      </div>
+
+      <nav class="view-tabs" aria-label="主要视图">
+        <button class="tab-button is-active" type="button" data-view="digest">摘要</button>
+        <button class="tab-button" type="button" data-view="feed">资讯</button>
+        <button class="tab-button" type="button" data-view="devices">参数</button>
+        <button class="tab-button" type="button" data-view="sources">来源</button>
+      </nav>
+    </header>
+
+    <main class="workspace">
+      <aside class="left-rail" aria-label="筛选器">
+        <section class="filter-block">
+          <h2>筛选</h2>
+          <label>
+            品牌
+            <select id="brandFilter"></select>
+          </label>
+          <label>
+            类型
+            <select id="typeFilter"></select>
+          </label>
+          <label>
+            可信度
+            <select id="trustFilter"></select>
+          </label>
+          <label class="checkbox-row">
+            <input id="favoriteOnly" type="checkbox" />
+            仅看收藏
+          </label>
+        </section>
+
+        <section class="filter-block">
+          <h2>重点来源</h2>
+          <div id="sourceShortcuts" class="source-shortcuts"></div>
+        </section>
+      </aside>
+
+      <section class="content-pane">
+        <section id="digestView" class="app-view is-visible" aria-labelledby="digestHeading">
+          <div class="daily-hero">
+            <div class="daily-hero-main">
+              <p class="eyebrow">PHONE RADAR DAILY</p>
+              <h2 id="digestHeading">手机情报日报</h2>
+              <p id="dailyIntro" class="daily-intro">更新资讯后，这里会把值得看的内容整理成日报。</p>
+              <div id="heroStats" class="hero-stats" aria-label="日报概览"></div>
+            </div>
+            <div class="daily-meta">
+              <span id="dailyIssue">VOL.000</span>
+              <strong id="digestUpdatedAt">未更新</strong>
+              <small id="lastRefreshTime" class="last-refresh-time">上次刷新：--</small>
+              <small><span id="digestCount">0</span> 条重点</small>
+              <button id="notifyButton" class="notify-button" type="button">开启提醒</button>
+              <small id="notifyStatus">页面开着时可提醒重点爆料</small>
+            </div>
+          </div>
+
+          <div id="digestGroups" class="daily-strip"></div>
+          <div id="digestList" class="digest-list"></div>
+          <p id="emptyDigest" class="empty-state" hidden>还没有可摘要的资讯。先双击 update-news.bat 更新一次。</p>
+        </section>
+
+        <section id="feedView" class="app-view" aria-labelledby="feedHeading">
+          <div class="section-heading">
+            <div>
+              <p class="eyebrow">发布前 + 发布后</p>
+              <h2 id="feedHeading">最新追踪</h2>
+            </div>
+            <div class="counter-strip" aria-label="统计">
+              <span><strong id="totalCount">0</strong> 条</span>
+              <span><strong id="officialCount">0</strong> 官方</span>
+              <span><strong id="savedCount">0</strong> 收藏</span>
+            </div>
+          </div>
+
+          <div id="newsList" class="news-list"></div>
+          <p id="emptyFeed" class="empty-state" hidden>没有匹配的资讯。</p>
+        </section>
+
+        <section id="devicesView" class="app-view" aria-labelledby="devicesHeading">
+          <div class="section-heading">
+            <div>
+              <p class="eyebrow">官方参数 / 横向对比</p>
+              <h2 id="devicesHeading">机型参数库</h2>
+            </div>
+            <label class="compact-select">
+              状态
+              <select id="deviceStatusFilter">
+                <option value="全部">全部</option>
+                <option value="传闻参数">传闻参数</option>
+                <option value="官方参数">官方参数</option>
+              </select>
+            </label>
+          </div>
+
+          <div id="compareShelf" class="compare-shelf"></div>
+          <div id="deviceTable" class="spec-compare"></div>
+        </section>
+
+        <section id="sourcesView" class="app-view" aria-labelledby="sourcesHeading">
+          <div class="section-heading">
+            <div>
+              <p class="eyebrow">一手信息 / 高可信爆料 / 实测</p>
+              <h2 id="sourcesHeading">信息源清单</h2>
+            </div>
+          </div>
+          <div id="sourceGrid" class="source-grid"></div>
+        </section>
+      </section>
+
+      <aside class="right-rail" aria-label="操作面板">
+        <section class="insight-block">
+          <h2>今日焦点</h2>
+          <div id="focusList" class="focus-list"></div>
+        </section>
+
+        <section class="insight-block">
+          <h2>添加资讯</h2>
+          <form id="addNewsForm" class="stack-form">
+            <label>
+              标题
+              <input name="title" required placeholder="例如：iPhone 新机屏幕传闻" />
+            </label>
+            <label>
+              来源
+              <input name="source" required placeholder="例如：Bloomberg / 郭明錤" />
+            </label>
+            <div class="form-grid">
+              <label>
+                品牌
+                <select name="brand" required></select>
+              </label>
+              <label>
+                类型
+                <select name="type" required></select>
+              </label>
+            </div>
+            <label>
+              可信度
+              <select name="trust" required></select>
+            </label>
+            <label>
+              链接
+              <input name="url" type="url" placeholder="https://..." />
+            </label>
+            <label>
+              摘要
+              <textarea name="summary" rows="3" placeholder="记录关键信息、待验证点和影响。"></textarea>
+            </label>
+            <button class="primary-button" type="submit">加入面板</button>
+          </form>
+        </section>
+
+        <section class="insight-block">
+          <h2>添加机型</h2>
+          <form id="addDeviceForm" class="stack-form">
+            <div class="form-grid">
+              <label>
+                品牌
+                <select name="brand" required></select>
+              </label>
+              <label>
+                状态
+                <select name="status" required>
+                  <option>传闻参数</option>
+                  <option>官方参数</option>
+                </select>
+              </label>
+            </div>
+            <label>
+              机型
+              <input name="model" required placeholder="例如：iPhone 18 Pro" />
+            </label>
+            <label>
+              芯片
+              <input name="chip" placeholder="A 系列、Snapdragon、Tensor..." />
+            </label>
+            <label>
+              屏幕
+              <input name="display" placeholder="尺寸、刷新率、亮度..." />
+            </label>
+            <label>
+              影像
+              <input name="camera" placeholder="主摄、长焦、超广角..." />
+            </label>
+            <label>
+              电池/充电
+              <input name="battery" placeholder="容量、功率、无线充..." />
+            </label>
+            <label>
+              来源
+              <input name="source" placeholder="官方页、拆解、认证、爆料源..." />
+            </label>
+            <button class="secondary-button" type="submit">加入参数库</button>
+          </form>
+        </section>
+
+        <section class="insight-block">
+          <h2>本地数据</h2>
+          <button id="exportButton" class="secondary-button" type="button">导出 JSON</button>
+          <p class="small-note">你添加的内容会保存在当前浏览器。</p>
+        </section>
+      </aside>
+    </main>
+
+    <script src="./data.js"></script>
+    <script src="./generated-news.js"></script>
+    <script src="./generated-daily.js"></script>
+    <script src="./app.js"></script>
+  </body>
+</html>
