@@ -1,5 +1,5 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-05-31T17:21:06.182Z",
+  "updatedAt": "2026-05-31T19:40:43.224Z",
   "news": [
     {
       "id": "auto-d2451a62a709",
@@ -74,6 +74,24 @@ window.phoneRadarAuto = {
       ]
     },
     {
+      "id": "auto-f491706a787f",
+      "title": "Samsung expects the wider Galaxy Z Fold 8 to be an instant hit",
+      "source": "SamMobile",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-05-31",
+      "url": "https://www.sammobile.com/news/samsung-expects-the-wider-galaxy-z-fold-8-to-be-an-instant-hit/",
+      "image": "",
+      "summary": "Samsung is reportedly launching two variants of its Z Fold flagship this year. The much-rumored wider foldable will be launched as the Galaxy Z Fold 8 while the model we're alread…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
       "id": "auto-d9046b851726",
       "title": "Galaxy Z Fold 8 appears in the wild, reveals camera design",
       "source": "SamMobile",
@@ -85,6 +103,42 @@ window.phoneRadarAuto = {
       "url": "https://www.sammobile.com/news/galaxy-z-fold-8-appears-wild-camera-design/",
       "image": "https://www.sammobile.com/wp-content/uploads/2026/05/Samsung-Galaxy-Z-Fold-8-Leak-Inside-Case.jpg",
       "summary": "Samsung is expected to launch two book-style foldable phones in July: the Galaxy Z Fold 8 and the Galaxy Z Fold 8 Ultra. The Galaxy Z Fold 8 is expected to be the more affordable…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-5a910e322936",
+      "title": "Dimensity 7500 appears in Geekbench on Vivo S60 Vitality Edition",
+      "source": "Gizmochina",
+      "brand": "vivo",
+      "model": "vivo 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-05-31",
+      "url": "https://www.gizmochina.com/2026/05/31/dimensity-7500-appears-in-geekbench-on-vivo-s60-vitality-edition/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/05/gsmarena_004-300x200.jpg?x10805",
+      "summary": "MediaTek’s new Dimensity 7500 has finally shown up in Geekbench, giving us a rough idea of what kind of performance buyers can expect from the chip. The benchmark was recorded on…",
+      "tags": [
+        "vivo",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-92716328d69b",
+      "title": "Galaxy Z Fold 8 spotted in real life months ahead of launch",
+      "source": "Gizmochina",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-05-31",
+      "url": "https://www.gizmochina.com/2026/05/31/galaxy-z-fold-8-spotted-in-real-life-months-ahead-of-launch/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/05/1780156802-300x169.jpg?x10805",
+      "summary": "Someone may have already been carrying one of Samsung‘s next foldables around in public. A pair of blurry photos shared on a Korean online forum appear to show what could be the G…",
       "tags": [
         "Samsung",
         "爆料",
@@ -393,24 +447,6 @@ window.phoneRadarAuto = {
       "summary": "Apple‘s next Pro iPhone models could be getting one of the biggest camera hardware upgrades in years. According to recent supply-chain reports, the iPhone 18 Pro series is expecte…",
       "tags": [
         "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-8a6efbc04170",
-      "title": "40 Xiaomi devices have now received the HyperOS 3.1 update",
-      "source": "Gizmochina",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-05-30",
-      "url": "https://www.gizmochina.com/2026/05/30/hyperos-3-1-reaches-40-xiaomi-redmi-poco-devices/",
-      "image": "https://www.gizmochina.com/wp-content/uploads/2026/05/HyperOS-3.1-rollout-progress-300x200.png?x10805",
-      "summary": "Xiaomi’s HyperOS 3.1 update is now reaching a much wider range of devices, with a new report claiming that the software has already been released for 40 Xiaomi, Redmi, and Poco sm…",
-      "tags": [
-        "Xiaomi",
         "爆料",
         "自动抓取"
       ]
