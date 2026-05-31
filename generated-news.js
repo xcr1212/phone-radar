@@ -1,5 +1,5 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-05-31T12:34:40.759Z",
+  "updatedAt": "2026-05-31T12:49:40.734Z",
   "news": [
     {
       "id": "auto-048c8cf9dd9e",
@@ -33,24 +33,6 @@ window.phoneRadarAuto = {
       "summary": "IT之家 5 月 31 日消息，据科技媒体 Sammobile 今天报道，三星预计将在今年 7 月推出 Galaxy Z Fold 8 和 Z Fold 8 Ultra 两款折叠屏手机。前者定位预计较为亲民，采用更宽的机身比例。如今这款设备已经现身韩国街头，外观设计也随之曝光。 据报道，最近有人在韩国某餐厅内看到这款设备，并将两张较为模糊的照片发布到网络论…",
       "tags": [
         "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-139f26973971",
-      "title": "华为鸿蒙 3D 影像壁纸最新适配计划公开，覆盖 Mate 70、Pura 80 等系列机型",
-      "source": "IT之家",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-05-31",
-      "url": "https://www.ithome.com/0/957/782.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/5/d04891ff-4410-434b-9062-90345b3088b5.jpg?x-bce-process=image/format,f_auto/auto-orient,o_1",
-      "summary": "IT之家 5 月 31 日消息， 华为在 5 月 15 日向 Pura 90 Pro 系列手机推送了鸿蒙 HarmonyOS 6.1.0.120 SP30 版本升级 ，系统包大小约 2.89GB，带来了 3D 影像壁纸、截屏直达服务等功能。 据介绍，3D 影像壁纸功能可在手机晃动或用户双指滑动锁屏时，锁屏界面实时进行响应，呈现 3D 效果。 IT之家从华为…",
-      "tags": [
-        "Huawei",
         "爆料",
         "自动抓取"
       ]

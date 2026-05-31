@@ -1,11 +1,11 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-05-31T12:34:40.759Z",
+  "updatedAt": "2026-05-31T12:49:40.734Z",
   "issueDate": "2026-05-31",
   "issue": "VOL.260531",
   "title": "手机情报日报",
-  "intro": "今日筛出 15 条重点，其中 8 条是重点爆料，包含 7 条 iPhone 相关、1 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 16 条重点，其中 8 条是重点爆料，包含 7 条 iPhone 相关、1 条官方确认、0 条参数线索。",
   "stats": {
-    "total": 15,
+    "total": 16,
     "iphone": 7,
     "leaks": 8,
     "official": 1,
@@ -172,23 +172,23 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
-          "id": "auto-139f26973971",
-          "title": "华为鸿蒙 3D 影像壁纸最新适配计划公开，覆盖 Mate 70、Pura 80 等系列机型",
+          "id": "weibo-192978422618",
+          "title": "数码闲聊站：去年底发布的新旗舰，截止W21(5.24): 单品激活100W——OPPO F…",
           "originalTitle": "",
-          "source": "IT之家",
+          "source": "数码闲聊站",
           "brand": "Huawei",
           "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-05-31",
-          "url": "https://www.ithome.com/0/957/782.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/5/d04891ff-4410-434b-9062-90345b3088b5.jpg?x-bce-process=image/format,f_auto/auto-orient,o_1",
+          "trust": "高关注爆料源",
+          "date": "2026-05-30",
+          "url": "https://weibo.com/6048569942/R1O7UhXR5",
+          "image": "",
           "verdict": "先看",
-          "takeaway": "IT之家 5 月 31 日消息， 华为在 5 月 15 日向 Pura 90 Pro 系列手机推送了鸿蒙 HarmonyOS 6.1.0.120 SP30 版本升级 ，系统包大小约 2.89GB，带来了 3D 影像壁纸、截屏直达服务等功能。 据介绍，3D 影像壁纸功能可在手机晃动或用户双指滑动锁屏时，锁屏界面实时进行响应，呈现 3D 效果。 IT之家从华为…",
-          "detail": "IT之家 5 月 31 日消息， 华为在 5 月 15 日向 Pura 90 Pro 系列手机推送了鸿蒙 HarmonyOS 6.1.0.120 SP30 版本升级 ，系统包大小约 2.89GB，带来了 3D 影像壁纸、截屏直达服务等功能。 据介绍，3D 影像壁纸功能可在手机晃动或用户双指滑动锁屏时，锁屏界面实时进行响应，呈现 3D 效果。 IT之家从华为…",
+          "takeaway": "去年底发布的新旗舰，截止W21(5.24): 单品激活100W——OPPO Find X9、小米17、vivo X300、华为Mate80 Pro Max、(vivo X300 Pro 99.6W) 单品激活150W——小米17 Pro(175W) 单品激活200W——小米17 Pro Max(192W) 单品激活400W——华为Mate80(393W)…",
+          "detail": "去年底发布的新旗舰，截止W21(5.24): 单品激活100W——OPPO Find X9、小米17、vivo X300、华为Mate80 Pro Max、(vivo X300 Pro 99.6W) 单品激活150W——小米17 Pro(175W) 单品激活200W——小米17 Pro Max(192W) 单品激活400W——华为Mate80(393W)…",
           "keyPoints": [
-            "影像硬件"
+            "爆料来源"
           ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         }
@@ -370,6 +370,27 @@ window.phoneRadarDaily = {
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "影响日常体验，尤其是游戏、拍照和长时间使用。",
+          "action": "有具体参数就记录到参数库；没有参数就先收藏。"
+        },
+        {
+          "id": "auto-199c30bc01e6",
+          "title": "OnePlus Nord CE 6 Lite 对比 Moto G37 Power：差异整理",
+          "originalTitle": "",
+          "source": "Gizmochina",
+          "brand": "OPPO",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-05-30",
+          "url": "https://www.gizmochina.com/2026/05/30/oneplus-nord-ce-6-lite-vs-moto-g37-power/",
+          "image": "https://www.gizmochina.com/wp-content/uploads/2026/05/image-175-300x194.png?x10805",
+          "verdict": "可略过",
+          "takeaway": "OnePlus Nord CE 6 Lite 对比 Moto G37 Power：重点看定位、配置差异和价格差，判断是否值得等更高端型号。",
+          "detail": "OnePlus Nord CE 6 Lite 对比 Moto G37 Power 的差异整理。重点看两款机型的定位、影像规格、屏幕尺寸、价格区间和发布时间是否拉开差距。",
+          "keyPoints": [
+            "屏幕形态"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "影响手感和显示体验，适合和其他机型对比。",
           "action": "有具体参数就记录到参数库；没有参数就先收藏。"
         }
       ]
