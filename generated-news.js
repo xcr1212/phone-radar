@@ -1,5 +1,5 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-05-31T19:40:43.224Z",
+  "updatedAt": "2026-05-31T21:15:37.478Z",
   "news": [
     {
       "id": "auto-d2451a62a709",
@@ -105,6 +105,24 @@ window.phoneRadarAuto = {
       "summary": "Samsung is expected to launch two book-style foldable phones in July: the Galaxy Z Fold 8 and the Galaxy Z Fold 8 Ultra. The Galaxy Z Fold 8 is expected to be the more affordable…",
       "tags": [
         "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-865d7430e5fa",
+      "title": "iPhone Fold dummy spotted in white finish",
+      "source": "Gizmochina",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-05-31",
+      "url": "https://www.gizmochina.com/2026/05/31/iphone-fold-dummy-spotted-in-white-finish/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/05/006bWoNYly1idoo6ouotxj323c1jsk99-300x222.jpg?x10805",
+      "summary": "A dummy unit of Apple‘s foldable iPhone has surfaced online, offering what might be our first real-world look at the device’s overall shape. The dummy comes in a white finish and…",
+      "tags": [
+        "iPhone",
         "爆料",
         "自动抓取"
       ]
@@ -429,24 +447,6 @@ window.phoneRadarAuto = {
       "summary": "Choosing between the Oppo Find X9s and Samsung Galaxy S26 is not as straightforward as comparing a flagship to a compact premium phone. While Samsung focuses on refinement, softwa…",
       "tags": [
         "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-9eb3d7a616bb",
-      "title": "iPhone 18 Pro’s moving lens variable aperture system is not cheap; but Apple plans to absorb the cost",
-      "source": "Gizmochina",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-05-30",
-      "url": "https://www.gizmochina.com/2026/05/30/iphone-18-pros-moving-lens-camera-system-is-expensive-but-apple-plans-to-absorb-the-cost/",
-      "image": "https://www.gizmochina.com/wp-content/uploads/2025/10/iPhone-17-Pro-300x169.jpg?x10805",
-      "summary": "Apple‘s next Pro iPhone models could be getting one of the biggest camera hardware upgrades in years. According to recent supply-chain reports, the iPhone 18 Pro series is expecte…",
-      "tags": [
-        "iPhone",
         "爆料",
         "自动抓取"
       ]

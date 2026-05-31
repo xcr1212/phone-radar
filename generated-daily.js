@@ -1,11 +1,11 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-05-31T19:40:43.224Z",
+  "updatedAt": "2026-05-31T21:15:37.478Z",
   "issueDate": "2026-05-31",
   "issue": "VOL.260531",
   "title": "手机情报日报",
-  "intro": "今日筛出 20 条重点，其中 8 条是重点爆料，包含 6 条 iPhone 相关、1 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 19 条重点，其中 8 条是重点爆料，包含 6 条 iPhone 相关、1 条官方确认、0 条参数线索。",
   "stats": {
-    "total": 20,
+    "total": 19,
     "iphone": 6,
     "leaks": 8,
     "official": 1,
@@ -56,6 +56,27 @@ window.phoneRadarDaily = {
           "keyPoints": [
             "影像硬件",
             "成本 / 价格"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "auto-865d7430e5fa",
+          "title": "iPhone 折叠屏相关消息",
+          "originalTitle": "",
+          "source": "Gizmochina",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-05-31",
+          "url": "https://www.gizmochina.com/2026/05/31/iphone-fold-dummy-spotted-in-white-finish/",
+          "image": "https://www.gizmochina.com/wp-content/uploads/2026/05/006bWoNYly1idoo6ouotxj323c1jsk99-300x222.jpg?x10805",
+          "verdict": "先看",
+          "takeaway": "iPhone 折叠屏相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
+          "detail": "iPhone 折叠屏相关消息。重点看折痕、铰链、厚度、屏幕可靠性和重量是否有实质改善。",
+          "keyPoints": [
+            "外观 / 配色 / 尺寸"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
@@ -171,57 +192,6 @@ window.phoneRadarDaily = {
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "auto-3e343204b1c7",
-          "title": "Xiaomi 发布 / 上市相关消息",
-          "originalTitle": "",
-          "source": "Gizmochina",
-          "brand": "Xiaomi",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-05-31",
-          "url": "https://www.gizmochina.com/2026/05/31/xiaomi-17t-price-leaks-ahead-of-india-launch/",
-          "image": "https://www.gizmochina.com/wp-content/uploads/2026/05/Xiaomi-17T-and-17T-Pro-1-300x169.jpg?x10805",
-          "verdict": "先看",
-          "takeaway": "Xiaomi 发布 / 上市相关消息。如果涉及订阅、售价或硬件成本，才需要进一步看细节。",
-          "detail": "Xiaomi 发布 / 上市相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
-          "keyPoints": [
-            "成本 / 价格",
-            "爆料来源"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        }
-      ]
-    },
-    {
-      "id": "iphone",
-      "title": "iPhone 重点",
-      "hint": "不是硬件爆料，但和 iPhone 体验或路线有关。",
-      "items": [
-        {
-          "id": "auto-9eb3d7a616bb",
-          "title": "iPhone 18 Pro 价格 / 成本相关消息",
-          "originalTitle": "",
-          "source": "Gizmochina",
-          "brand": "iPhone",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-05-30",
-          "url": "https://www.gizmochina.com/2026/05/30/iphone-18-pros-moving-lens-camera-system-is-expensive-but-apple-plans-to-absorb-the-cost/",
-          "image": "https://www.gizmochina.com/wp-content/uploads/2025/10/iPhone-17-Pro-300x169.jpg?x10805",
-          "verdict": "先看",
-          "takeaway": "iPhone 18 Pro 价格 / 成本相关消息。如果涉及订阅、售价或硬件成本，才需要进一步看细节。",
-          "detail": "iPhone 18 Pro 价格 / 成本相关消息。这类消息通常来自供应链或分析师线索，重点关注是否意味着镜头、光圈、长焦或成本结构发生变化。",
-          "keyPoints": [
-            "影像硬件",
-            "成本 / 价格"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "影响拍照体验，买旗舰机时值得关注。",
-          "action": "有具体参数就记录到参数库；没有参数就先收藏。"
         }
       ]
     },
