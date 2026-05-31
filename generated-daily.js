@@ -1,12 +1,12 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-05-31T12:49:40.734Z",
+  "updatedAt": "2026-05-31T13:07:17.094Z",
   "issueDate": "2026-05-31",
   "issue": "VOL.260531",
   "title": "手机情报日报",
-  "intro": "今日筛出 16 条重点，其中 8 条是重点爆料，包含 7 条 iPhone 相关、1 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 19 条重点，其中 8 条是重点爆料，包含 6 条 iPhone 相关、1 条官方确认、0 条参数线索。",
   "stats": {
-    "total": 16,
-    "iphone": 7,
+    "total": 19,
+    "iphone": 6,
     "leaks": 8,
     "official": 1,
     "specs": 0
@@ -17,27 +17,6 @@ window.phoneRadarDaily = {
       "title": "重点爆料",
       "hint": "机模、配色、影像、屏幕、电池和芯片线索先看。",
       "items": [
-        {
-          "id": "x-508dca6062ce",
-          "title": "Apple Club：根据最近的报道，传闻中的 iPhone Ultra 可能会采用几乎不…",
-          "originalTitle": "",
-          "source": "Apple Club",
-          "brand": "iPhone",
-          "type": "爆料",
-          "trust": "高关注爆料源",
-          "date": "2026-05-31",
-          "url": "https://x.com/ApplesClubs/status/2060828597309583477",
-          "image": "",
-          "verdict": "先看",
-          "takeaway": "根据最近的报道，传闻中的 iPhone Ultra 可能会采用几乎不可见的显示屏折痕，从而解决折叠智能手机的最大问题之一。",
-          "detail": "根据最近的报道，传闻中的 iPhone Ultra 可能会采用几乎不可见的显示屏折痕，从而解决折叠智能手机的最大问题之一。",
-          "keyPoints": [
-            "屏幕形态"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
         {
           "id": "auto-280d075a8458",
           "title": "iPhone 18 Pro 机模 / 配色信息曝光",
@@ -172,23 +151,46 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
-          "id": "weibo-192978422618",
-          "title": "数码闲聊站：去年底发布的新旗舰，截止W21(5.24): 单品激活100W——OPPO F…",
+          "id": "auto-a1a23def0617",
+          "title": "Samsung 折叠屏相关消息",
           "originalTitle": "",
-          "source": "数码闲聊站",
-          "brand": "Huawei",
+          "source": "9to5Google",
+          "brand": "Samsung",
           "type": "爆料",
-          "trust": "高关注爆料源",
-          "date": "2026-05-30",
-          "url": "https://weibo.com/6048569942/R1O7UhXR5",
-          "image": "",
+          "trust": "媒体汇总",
+          "date": "2026-05-31",
+          "url": "https://9to5google.com/2026/05/30/galaxy-z-fold-8-wide-ultra-leak/",
+          "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/05/galaxy-z-fold-8-photo-leak-1.jpg?quality=82&strip=all&w=1600",
           "verdict": "先看",
-          "takeaway": "去年底发布的新旗舰，截止W21(5.24): 单品激活100W——OPPO Find X9、小米17、vivo X300、华为Mate80 Pro Max、(vivo X300 Pro 99.6W) 单品激活150W——小米17 Pro(175W) 单品激活200W——小米17 Pro Max(192W) 单品激活400W——华为Mate80(393W)…",
-          "detail": "去年底发布的新旗舰，截止W21(5.24): 单品激活100W——OPPO Find X9、小米17、vivo X300、华为Mate80 Pro Max、(vivo X300 Pro 99.6W) 单品激活150W——小米17 Pro(175W) 单品激活200W——小米17 Pro Max(192W) 单品激活400W——华为Mate80(393W)…",
+          "takeaway": "Samsung 影像能力相关宣传或案例，主要看是否透露拍摄能力变化。",
+          "detail": "Samsung 折叠屏相关消息。重点看折痕、铰链、厚度、屏幕可靠性和重量是否有实质改善。",
           "keyPoints": [
+            "影像硬件",
             "爆料来源"
           ],
-          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "auto-3e343204b1c7",
+          "title": "Xiaomi 发布 / 上市相关消息",
+          "originalTitle": "",
+          "source": "Gizmochina",
+          "brand": "Xiaomi",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-05-31",
+          "url": "https://www.gizmochina.com/2026/05/31/xiaomi-17t-price-leaks-ahead-of-india-launch/",
+          "image": "https://www.gizmochina.com/wp-content/uploads/2026/05/Xiaomi-17T-and-17T-Pro-1-300x169.jpg?x10805",
+          "verdict": "先看",
+          "takeaway": "Xiaomi 发布 / 上市相关消息。如果涉及订阅、售价或硬件成本，才需要进一步看细节。",
+          "detail": "Xiaomi 发布 / 上市相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
+          "keyPoints": [
+            "成本 / 价格",
+            "爆料来源"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         }
@@ -319,6 +321,27 @@ window.phoneRadarDaily = {
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是实际体验内容，买前适合重点看缺点和取舍。",
           "action": "中文源可以直接点开快读；看完只保留和购机有关的点。"
+        },
+        {
+          "id": "auto-4c8cca93ef1c",
+          "title": "Pixel 10 Pro Fold 折叠屏相关消息",
+          "originalTitle": "",
+          "source": "9to5Google",
+          "brand": "Pixel",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-05-22",
+          "url": "https://9to5google.com/2026/05/22/pixel-10-pro-fold-long-term-review/",
+          "image": "",
+          "verdict": "可略过",
+          "takeaway": "Pixel 影像能力相关宣传或案例，主要看是否透露拍摄能力变化。",
+          "detail": "Pixel 10 Pro Fold 折叠屏相关消息。重点看折痕、铰链、厚度、屏幕可靠性和重量是否有实质改善。",
+          "keyPoints": [
+            "影像硬件"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "影响拍照体验，买旗舰机时值得关注。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         }
       ]
     },
@@ -327,6 +350,28 @@ window.phoneRadarDaily = {
       "title": "行业趋势",
       "hint": "看方向，不急着当购买依据。",
       "items": [
+        {
+          "id": "auto-807d7e18c363",
+          "title": "iPhone 17 Pro Max 机模 / 配色信息曝光",
+          "originalTitle": "",
+          "source": "Huawei Central",
+          "brand": "Huawei",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-05-30",
+          "url": "https://www.huaweicentral.com/huawei-mate-80-pro-max-iphone-17-pro-max-camera/",
+          "image": "https://www.huaweicentral.com/wp-content/uploads/2026/05/camera-accuracy.jpg",
+          "verdict": "扫一眼",
+          "takeaway": "Huawei 影像能力相关宣传或案例，主要看是否透露拍摄能力变化。",
+          "detail": "iPhone 17 Pro Max 机模 / 配色信息曝光。来源提到未发布机型的机模/配色图，适合先判断外观方向、颜色变化和机身轮廓，但最终量产版本仍可能调整。",
+          "keyPoints": [
+            "外观 / 配色 / 尺寸",
+            "影像硬件"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "影响拍照体验，买旗舰机时值得关注。",
+          "action": "有具体参数就记录到参数库；没有参数就先收藏。"
+        },
         {
           "id": "auto-013c61e5a517",
           "title": "Honor 600 Pro 对比 Xiaomi 17 Comparison：差异整理",
@@ -391,6 +436,29 @@ window.phoneRadarDaily = {
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "影响手感和显示体验，适合和其他机型对比。",
+          "action": "有具体参数就记录到参数库；没有参数就先收藏。"
+        },
+        {
+          "id": "auto-f8a0309b63f9",
+          "title": "OnePlus Nord CE 6 Lite 对比 Realme Narzo 90：差异整理",
+          "originalTitle": "",
+          "source": "Gizmochina",
+          "brand": "OPPO",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-05-30",
+          "url": "https://www.gizmochina.com/2026/05/30/oneplus-nord-ce-6-lite-vs-realme-narzo-90/",
+          "image": "https://www.gizmochina.com/wp-content/uploads/2026/05/image-174-300x189.png?x10805",
+          "verdict": "可略过",
+          "takeaway": "OnePlus Nord CE 6 Lite 对比 Realme Narzo 90：重点看定位、配置差异和价格差，判断是否值得等更高端型号。",
+          "detail": "OnePlus Nord CE 6 Lite 对比 Realme Narzo 90 的差异整理。重点看两款机型的定位、影像规格、屏幕尺寸、价格区间和发布时间是否拉开差距。",
+          "keyPoints": [
+            "影像硬件",
+            "电池 / 充电",
+            "成本 / 价格"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "影响购买预算，值得先看。",
           "action": "有具体参数就记录到参数库；没有参数就先收藏。"
         }
       ]
