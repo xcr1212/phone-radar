@@ -1,6 +1,24 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-05-31T21:15:37.478Z",
+  "updatedAt": "2026-05-31T23:17:28.904Z",
   "news": [
+    {
+      "id": "auto-423f13027159",
+      "title": "消息称三星“宽折叠”将被命名为 Galaxy Z Fold 8 Ultra，与苹果首款折叠屏 iPhone Fold 展开竞争",
+      "source": "IT之家",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-05-31",
+      "url": "https://www.ithome.com/0/957/911.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/5/7a2d56bf-f025-4a75-99eb-3886f5c0df7e.png?x-bce-process=image/format,f_auto/auto-orient,o_1",
+      "summary": "IT之家 6 月 1 日消息，外媒 SAMMobile 发文，称三星今年推出的“宽折叠”预计将被命名为 Galaxy Z Fold 8 Ultra，而非此前传闻的 Galaxy Z Fold 8 Wide，该公司希望通过如此命名来强调产品战略属性。 事实上，三星已在旗下大量设备中采用“Ultra”命名，例如 Galaxy S26 Ultra、 Galaxy…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-d2451a62a709",
       "title": "单核 1243 分、多核 3569 分，天玑 7500 芯片现身 Geekbench",
@@ -67,6 +85,24 @@ window.phoneRadarAuto = {
       "url": "https://9to5google.com/2026/05/30/galaxy-z-fold-8-wide-ultra-leak/",
       "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/05/galaxy-z-fold-8-photo-leak-1.jpg?quality=82&strip=all&w=1600",
       "summary": "A new leak shows off the difference, in person, of the Galaxy Z Fold 8’s wider form factor versus the “Ultra” one we’re already used to. more…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-90fb25aa290a",
+      "title": "Samsung’s renaming its foldables to beat Apple, but the logic doesn’t quite fold",
+      "source": "SamMobile",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-05-31",
+      "url": "https://www.sammobile.com/news/samsungs-renaming-its-foldables-to-beat-apple-but-the-logic-doesnt-quite-fold/",
+      "image": "",
+      "summary": "Samsung has fully embraced the “Ultra” tagline to market some products in its portfolio as being the very best. The Galaxy S26 Ultra, for example, is the best flagship in this ser…",
       "tags": [
         "Samsung",
         "爆料",
@@ -429,24 +465,6 @@ window.phoneRadarAuto = {
       "summary": "Huawei‘s next big camera upgrade may not be a larger sensor or a longer zoom lens. According to a new leak from Digital Chat Station, the company is reportedly testing a more adva…",
       "tags": [
         "Huawei",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-6ca1944fccba",
-      "title": "Oppo Find X9s vs Samsung Galaxy S26: Full Comparison of Specs, Camera, Battery and Price",
-      "source": "Gizmochina",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-05-30",
-      "url": "https://www.gizmochina.com/2026/05/30/oppo-find-x9s-vs-samsung-galaxy-s26/",
-      "image": "https://www.gizmochina.com/wp-content/uploads/2026/05/image-169-300x203.png?x10805",
-      "summary": "Choosing between the Oppo Find X9s and Samsung Galaxy S26 is not as straightforward as comparing a flagship to a compact premium phone. While Samsung focuses on refinement, softwa…",
-      "tags": [
-        "Samsung",
         "爆料",
         "自动抓取"
       ]

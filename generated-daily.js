@@ -1,11 +1,11 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-05-31T21:15:37.478Z",
+  "updatedAt": "2026-05-31T23:17:28.904Z",
   "issueDate": "2026-05-31",
   "issue": "VOL.260531",
   "title": "手机情报日报",
-  "intro": "今日筛出 19 条重点，其中 8 条是重点爆料，包含 6 条 iPhone 相关、1 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 18 条重点，其中 8 条是重点爆料，包含 6 条 iPhone 相关、1 条官方确认、0 条参数线索。",
   "stats": {
-    "total": 19,
+    "total": 18,
     "iphone": 6,
     "leaks": 8,
     "official": 1,
@@ -150,6 +150,28 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
+          "id": "auto-423f13027159",
+          "title": "消息称三星“宽折叠”将被命名为 Galaxy Z Fold 8 Ultra，与苹果首款折叠屏 iPhone Fold 展开竞争",
+          "originalTitle": "",
+          "source": "IT之家",
+          "brand": "Samsung",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-05-31",
+          "url": "https://www.ithome.com/0/957/911.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/5/7a2d56bf-f025-4a75-99eb-3886f5c0df7e.png?x-bce-process=image/format,f_auto/auto-orient,o_1",
+          "verdict": "先看",
+          "takeaway": "IT之家 6 月 1 日消息，外媒 SAMMobile 发文，称三星今年推出的“宽折叠”预计将被命名为 Galaxy Z Fold 8 Ultra，而非此前传闻的 Galaxy Z Fold 8 Wide，该公司希望通过如此命名来强调产品战略属性。 事实上，三星已在旗下大量设备中采用“Ultra”命名，例如 Galaxy S26 Ultra、 Galaxy…",
+          "detail": "IT之家 6 月 1 日消息，外媒 SAMMobile 发文，称三星今年推出的“宽折叠”预计将被命名为 Galaxy Z Fold 8 Ultra，而非此前传闻的 Galaxy Z Fold 8 Wide，该公司希望通过如此命名来强调产品战略属性。 事实上，三星已在旗下大量设备中采用“Ultra”命名，例如 Galaxy S26 Ultra、 Galaxy…",
+          "keyPoints": [
+            "屏幕形态",
+            "爆料来源"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
           "id": "auto-b8b13a69fdac",
           "title": "三星 Galaxy Z Fold 8 宽折叠手机现身餐厅，后置双摄设计",
           "originalTitle": "",
@@ -166,28 +188,6 @@ window.phoneRadarDaily = {
           "keyPoints": [
             "外观 / 配色 / 尺寸",
             "屏幕形态"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "auto-a1a23def0617",
-          "title": "Samsung 折叠屏相关消息",
-          "originalTitle": "",
-          "source": "9to5Google",
-          "brand": "Samsung",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-05-31",
-          "url": "https://9to5google.com/2026/05/30/galaxy-z-fold-8-wide-ultra-leak/",
-          "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/05/galaxy-z-fold-8-photo-leak-1.jpg?quality=82&strip=all&w=1600",
-          "verdict": "先看",
-          "takeaway": "Samsung 影像能力相关宣传或案例，主要看是否透露拍摄能力变化。",
-          "detail": "Samsung 折叠屏相关消息。重点看折痕、铰链、厚度、屏幕可靠性和重量是否有实质改善。",
-          "keyPoints": [
-            "影像硬件",
-            "爆料来源"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
@@ -291,27 +291,6 @@ window.phoneRadarDaily = {
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是实际体验内容，买前适合重点看缺点和取舍。",
           "action": "中文源可以直接点开快读；看完只保留和购机有关的点。"
-        },
-        {
-          "id": "auto-4c8cca93ef1c",
-          "title": "Pixel 10 Pro Fold 折叠屏相关消息",
-          "originalTitle": "",
-          "source": "9to5Google",
-          "brand": "Pixel",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-05-22",
-          "url": "https://9to5google.com/2026/05/22/pixel-10-pro-fold-long-term-review/",
-          "image": "",
-          "verdict": "可略过",
-          "takeaway": "Pixel 影像能力相关宣传或案例，主要看是否透露拍摄能力变化。",
-          "detail": "Pixel 10 Pro Fold 折叠屏相关消息。重点看折痕、铰链、厚度、屏幕可靠性和重量是否有实质改善。",
-          "keyPoints": [
-            "影像硬件"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "影响拍照体验，买旗舰机时值得关注。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         }
       ]
     },
