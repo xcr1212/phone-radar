@@ -1,6 +1,24 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-05-31T13:20:09.821Z",
+  "updatedAt": "2026-05-31T15:39:23.935Z",
   "news": [
+    {
+      "id": "auto-d2451a62a709",
+      "title": "单核 1243 分、多核 3569 分，天玑 7500 芯片现身 Geekbench",
+      "source": "IT之家",
+      "brand": "vivo",
+      "model": "vivo 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-05-31",
+      "url": "https://www.ithome.com/0/957/891.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/5/da235fbd-8971-4507-9d48-f5f2d788088a.jpg?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 5 月 31 日消息，搭载天玑 7500 芯片的 vivo S60 元气版手机（型号 V2572A）前天现身 Geekbench 跑分数据库，测得单核 1243 分、多核 3569 分成绩。 据博主 @体验more 分享，官方宣称该芯片相比天玑 7400，CPU 单核性能提升 24%，多核性能提升 21%。跑分虽然没完全发挥出官方宣称的值，“但已…",
+      "tags": [
+        "vivo",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-048c8cf9dd9e",
       "title": "联芸科技：首款 UFS 3.1 主控已导入国内核心客户，企业级 PCIe 5.0 主控进入量产测试阶段",
@@ -69,6 +87,24 @@ window.phoneRadarAuto = {
       "summary": "Samsung is expected to launch two book-style foldable phones in July: the Galaxy Z Fold 8 and the Galaxy Z Fold 8 Ultra. The Galaxy Z Fold 8 is expected to be the more affordable…",
       "tags": [
         "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-a8698dfe0b87",
+      "title": "OnePlus Ace 6 Ultra vs OnePlus Ace 6: Are the Upgrades Really Worth the Extra Money?",
+      "source": "Gizmochina",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-05-31",
+      "url": "https://www.gizmochina.com/2026/05/31/oneplus-ace-6-ultra-vs-oneplus-ace-6/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/05/image-189-300x196.png?x10805",
+      "summary": "OnePlus Ace 6 Ultra and OnePlus Ace 6 may look similar at first glance, but they target two very different buyers. One focuses on delivering the latest hardware, a larger camera s…",
+      "tags": [
+        "OPPO",
         "爆料",
         "自动抓取"
       ]
@@ -179,24 +215,6 @@ window.phoneRadarAuto = {
         "Samsung",
         "爆料",
         "自动抓取"
-      ]
-    },
-    {
-      "id": "x-508dca6062ce",
-      "title": "Apple Club：根据最近的报道，传闻中的 iPhone Ultra 可能会采用几乎不…",
-      "source": "Apple Club",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-05-31",
-      "url": "https://x.com/ApplesClubs/status/2060828597309583477",
-      "image": "",
-      "summary": "根据最近的报道，传闻中的 iPhone Ultra 可能会采用几乎不可见的显示屏折痕，从而解决折叠智能手机的最大问题之一。",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "X"
       ]
     },
     {
@@ -398,57 +416,39 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "weibo-192978422618",
-      "title": "数码闲聊站：去年底发布的新旗舰，截止W21(5.24): 单品激活100W——OPPO F…",
-      "source": "数码闲聊站",
+      "id": "auto-807d7e18c363",
+      "title": "Huawei Mate 80 Pro Max camera beats iPhone 17 Pro Max in color accuracy",
+      "source": "Huawei Central",
       "brand": "Huawei",
       "model": "Huawei 相关机型",
       "type": "爆料",
-      "trust": "高关注爆料源",
+      "trust": "媒体汇总",
       "date": "2026-05-30",
-      "url": "https://weibo.com/6048569942/R1O7UhXR5",
-      "image": "",
-      "summary": "去年底发布的新旗舰，截止W21(5.24): 单品激活100W——OPPO Find X9、小米17、vivo X300、华为Mate80 Pro Max、(vivo X300 Pro 99.6W) 单品激活150W——小米17 Pro(175W) 单品激活200W——小米17 Pro Max(192W) 单品激活400W——华为Mate80(393W)…",
+      "url": "https://www.huaweicentral.com/huawei-mate-80-pro-max-iphone-17-pro-max-camera/",
+      "image": "https://www.huaweicentral.com/wp-content/uploads/2026/05/camera-accuracy.jpg",
+      "summary": "Huawei Mate 80 Pro Max comes with a robust camera setup, including the second-generation multispectral lens that defeated iPhone 17 Pro Max in color accuracy. It seems the company…",
       "tags": [
         "Huawei",
         "爆料",
-        "微博"
+        "自动抓取"
       ]
     },
     {
-      "id": "weibo-9a359065674c",
-      "title": "数码闲聊站：咳咳，提前摸到新机了，影像还可以",
-      "source": "数码闲聊站",
-      "brand": "行业",
-      "model": "智能手机市场",
+      "id": "auto-a46ca9601321",
+      "title": "Huawei plans add-on zoom camera (teleconverters) for Mate 90",
+      "source": "Huawei Central",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
       "type": "爆料",
-      "trust": "高关注爆料源",
+      "trust": "媒体汇总",
       "date": "2026-05-30",
-      "url": "https://weibo.com/6048569942/R1NlIyDZM",
-      "image": "https://wx1.sinaimg.cn/orj360/006BlblIgy1idnh1ehu6wj30jv09qgn9.jpg",
-      "summary": "咳咳，提前摸到新机了，影像还可以",
+      "url": "https://www.huaweicentral.com/huawei-plans-add-on-zoom-camera-teleconverters-for-mate-90/",
+      "image": "https://www.huaweicentral.com/wp-content/uploads/2026/05/Huawei-Mate-90-zoom-lens.jpg",
+      "summary": "Huawei Mate 90 series will not only unlock a new chip breakthrough this year but could also take photography to the next level with add-on zoom camera technology or “external tele…",
       "tags": [
-        "行业",
+        "Huawei",
         "爆料",
-        "微博"
-      ]
-    },
-    {
-      "id": "weibo-ea32966d0398",
-      "title": "数码闲聊站：为了上比大更大的万级大电池，耀子迭代线开了几块大尺寸屏幕，目前有一块6.89\"…",
-      "source": "数码闲聊站",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-05-30",
-      "url": "https://weibo.com/6048569942/R1MyuqrHS",
-      "image": "",
-      "summary": "为了上比大更大的万级大电池，耀子迭代线开了几块大尺寸屏幕，目前有一块6.89\"±2K OLED大直屏，一块7\"±1.5K OLED大直屏，大屏档集合！",
-      "tags": [
-        "行业",
-        "爆料",
-        "微博"
+        "自动抓取"
       ]
     },
     {
@@ -592,24 +592,6 @@ window.phoneRadarAuto = {
       "tags": [
         "Pixel",
         "评测",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-a47919996850",
-      "title": "Top 5 upcoming smartphone launches in June 2026",
-      "source": "Gizmochina",
-      "brand": "OPPO",
-      "model": "OPPO 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-05-29",
-      "url": "https://www.gizmochina.com/2026/05/29/top-5-upcoming-smartphone-launches-in-june-2026/",
-      "image": "https://www.gizmochina.com/wp-content/uploads/2026/05/upcoming-smartphones-in-June-2026-300x200.png?x10805",
-      "summary": "While May brought some top-tier flagships like the Oppo Find X9 Ultra and Vivo X300 Ultra, it wasn’t an exciting month for people seeking mid-range and budget smartphones. However…",
-      "tags": [
-        "OPPO",
-        "爆料",
         "自动抓取"
       ]
     },
