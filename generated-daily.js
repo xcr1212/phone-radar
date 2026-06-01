@@ -1,7 +1,7 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-05-31T23:17:28.904Z",
-  "issueDate": "2026-05-31",
-  "issue": "VOL.260531",
+  "updatedAt": "2026-06-01T05:15:52.352Z",
+  "issueDate": "2026-06-01",
+  "issue": "VOL.260601",
   "title": "手机情报日报",
   "intro": "今日筛出 18 条重点，其中 8 条是重点爆料，包含 6 条 iPhone 相关、1 条官方确认、0 条参数线索。",
   "stats": {
@@ -58,6 +58,30 @@ window.phoneRadarDaily = {
             "成本 / 价格"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "auto-1c39e0dde652",
+          "title": "消息称一加 Turbo 6X Pro 手机本周见，定位“千元夯机”",
+          "originalTitle": "",
+          "source": "IT之家",
+          "brand": "Samsung",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-06-01",
+          "url": "https://www.ithome.com/0/958/009.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/6/eb6cd371-c0e4-4974-b76d-4a0761f258a1.jpg?x-bce-process=image/format,f_auto",
+          "verdict": "先看",
+          "takeaway": "IT之家 6 月 1 日消息，据博主 @数码闲聊站 今日爆料， 一加 Turbo 6 X Pro 手机本周见，定位“千元夯机”。该机配备 1.5K 三星护眼直屏 +8 开头大电池 +IP69X 满级防水，屏幕支持 144Hz 超高刷，配色有亮点。 IT之家注意到，该博主曾在 5 月 29 日爆料，一加 Turbo6X 系列要上了，标准版是 144Hz LC…",
+          "detail": "IT之家 6 月 1 日消息，据博主 @数码闲聊站 今日爆料， 一加 Turbo 6 X Pro 手机本周见，定位“千元夯机”。该机配备 1.5K 三星护眼直屏 +8 开头大电池 +IP69X 满级防水，屏幕支持 144Hz 超高刷，配色有亮点。 IT之家注意到，该博主曾在 5 月 29 日爆料，一加 Turbo6X 系列要上了，标准版是 144Hz LC…",
+          "keyPoints": [
+            "外观 / 配色 / 尺寸",
+            "屏幕形态",
+            "电池 / 充电",
+            "爆料来源"
+          ],
+          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
@@ -150,46 +174,25 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
-          "id": "auto-423f13027159",
-          "title": "消息称三星“宽折叠”将被命名为 Galaxy Z Fold 8 Ultra，与苹果首款折叠屏 iPhone Fold 展开竞争",
+          "id": "auto-3b3136b8f9cd",
+          "title": "Samsung 屏幕规格相关消息",
           "originalTitle": "",
-          "source": "IT之家",
+          "source": "Gizmochina",
           "brand": "Samsung",
           "type": "爆料",
           "trust": "媒体汇总",
-          "date": "2026-05-31",
-          "url": "https://www.ithome.com/0/957/911.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/5/7a2d56bf-f025-4a75-99eb-3886f5c0df7e.png?x-bce-process=image/format,f_auto/auto-orient,o_1",
+          "date": "2026-06-01",
+          "url": "https://www.gizmochina.com/2026/06/01/oneplus-turbo-6x-pro-specs-price-leak/",
+          "image": "https://www.gizmochina.com/wp-content/uploads/2025/12/OnePlus-Turbo-6-series-launch-date-169x300.jpg?x10805",
           "verdict": "先看",
-          "takeaway": "IT之家 6 月 1 日消息，外媒 SAMMobile 发文，称三星今年推出的“宽折叠”预计将被命名为 Galaxy Z Fold 8 Ultra，而非此前传闻的 Galaxy Z Fold 8 Wide，该公司希望通过如此命名来强调产品战略属性。 事实上，三星已在旗下大量设备中采用“Ultra”命名，例如 Galaxy S26 Ultra、 Galaxy…",
-          "detail": "IT之家 6 月 1 日消息，外媒 SAMMobile 发文，称三星今年推出的“宽折叠”预计将被命名为 Galaxy Z Fold 8 Ultra，而非此前传闻的 Galaxy Z Fold 8 Wide，该公司希望通过如此命名来强调产品战略属性。 事实上，三星已在旗下大量设备中采用“Ultra”命名，例如 Galaxy S26 Ultra、 Galaxy…",
+          "takeaway": "Samsung 屏幕规格相关消息。如果涉及订阅、售价或硬件成本，才需要进一步看细节。",
+          "detail": "Samsung 屏幕规格相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
           "keyPoints": [
             "屏幕形态",
+            "成本 / 价格",
             "爆料来源"
           ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "auto-b8b13a69fdac",
-          "title": "三星 Galaxy Z Fold 8 宽折叠手机现身餐厅，后置双摄设计",
-          "originalTitle": "",
-          "source": "IT之家",
-          "brand": "Samsung",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-05-31",
-          "url": "https://www.ithome.com/0/957/838.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/5/b1cef09c-b02c-4134-b867-efcba5fce7d8.png?x-bce-process=image/format,f_auto",
-          "verdict": "先看",
-          "takeaway": "IT之家 5 月 31 日消息，据科技媒体 Sammobile 今天报道，三星预计将在今年 7 月推出 Galaxy Z Fold 8 和 Z Fold 8 Ultra 两款折叠屏手机。前者定位预计较为亲民，采用更宽的机身比例。如今这款设备已经现身韩国街头，外观设计也随之曝光。 据报道，最近有人在韩国某餐厅内看到这款设备，并将两张较为模糊的照片发布到网络论…",
-          "detail": "IT之家 5 月 31 日消息，据科技媒体 Sammobile 今天报道，三星预计将在今年 7 月推出 Galaxy Z Fold 8 和 Z Fold 8 Ultra 两款折叠屏手机。前者定位预计较为亲民，采用更宽的机身比例。如今这款设备已经现身韩国街头，外观设计也随之曝光。 据报道，最近有人在韩国某餐厅内看到这款设备，并将两张较为模糊的照片发布到网络论…",
-          "keyPoints": [
-            "外观 / 配色 / 尺寸",
-            "屏幕形态"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         }

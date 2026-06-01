@@ -1,18 +1,18 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-05-31T23:17:28.904Z",
+  "updatedAt": "2026-06-01T05:15:52.352Z",
   "news": [
     {
-      "id": "auto-423f13027159",
-      "title": "消息称三星“宽折叠”将被命名为 Galaxy Z Fold 8 Ultra，与苹果首款折叠屏 iPhone Fold 展开竞争",
+      "id": "auto-1c39e0dde652",
+      "title": "消息称一加 Turbo 6X Pro 手机本周见，定位“千元夯机”",
       "source": "IT之家",
       "brand": "Samsung",
       "model": "Samsung 相关机型",
       "type": "爆料",
       "trust": "媒体汇总",
-      "date": "2026-05-31",
-      "url": "https://www.ithome.com/0/957/911.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/5/7a2d56bf-f025-4a75-99eb-3886f5c0df7e.png?x-bce-process=image/format,f_auto/auto-orient,o_1",
-      "summary": "IT之家 6 月 1 日消息，外媒 SAMMobile 发文，称三星今年推出的“宽折叠”预计将被命名为 Galaxy Z Fold 8 Ultra，而非此前传闻的 Galaxy Z Fold 8 Wide，该公司希望通过如此命名来强调产品战略属性。 事实上，三星已在旗下大量设备中采用“Ultra”命名，例如 Galaxy S26 Ultra、 Galaxy…",
+      "date": "2026-06-01",
+      "url": "https://www.ithome.com/0/958/009.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/6/eb6cd371-c0e4-4974-b76d-4a0761f258a1.jpg?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 6 月 1 日消息，据博主 @数码闲聊站 今日爆料， 一加 Turbo 6 X Pro 手机本周见，定位“千元夯机”。该机配备 1.5K 三星护眼直屏 +8 开头大电池 +IP69X 满级防水，屏幕支持 144Hz 超高刷，配色有亮点。 IT之家注意到，该博主曾在 5 月 29 日爆料，一加 Turbo6X 系列要上了，标准版是 144Hz LC…",
       "tags": [
         "Samsung",
         "爆料",
@@ -20,53 +20,35 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-d2451a62a709",
-      "title": "单核 1243 分、多核 3569 分，天玑 7500 芯片现身 Geekbench",
-      "source": "IT之家",
-      "brand": "vivo",
-      "model": "vivo 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-05-31",
-      "url": "https://www.ithome.com/0/957/891.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/5/da235fbd-8971-4507-9d48-f5f2d788088a.jpg?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 5 月 31 日消息，搭载天玑 7500 芯片的 vivo S60 元气版手机（型号 V2572A）前天现身 Geekbench 跑分数据库，测得单核 1243 分、多核 3569 分成绩。 据博主 @体验more 分享，官方宣称该芯片相比天玑 7400，CPU 单核性能提升 24%，多核性能提升 21%。跑分虽然没完全发挥出官方宣称的值，“但已…",
-      "tags": [
-        "vivo",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-048c8cf9dd9e",
-      "title": "联芸科技：首款 UFS 3.1 主控已导入国内核心客户，企业级 PCIe 5.0 主控进入量产测试阶段",
-      "source": "IT之家",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-05-31",
-      "url": "https://www.ithome.com/0/957/861.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/5/56609d41-0528-46cd-900a-d382422ef3dd.png?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 5 月 31 日消息，联芸科技在接受调研时披露，公司自主研发的首款 UFS 3.1 嵌入式主控芯片已成功导入国内核心客户，并在多家主流终端手机厂商处完成测试，进展顺利，预计将于 2026 年起正式贡献量产营收，同时公司正积极拓展更多终端手机厂商客户。 联芸科技方面明确表示，公司将嵌入式 UFS 主控芯片定位为继 SSD 主控后数据存储主控领域的第…",
-      "tags": [
-        "行业",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-b8b13a69fdac",
-      "title": "三星 Galaxy Z Fold 8 宽折叠手机现身餐厅，后置双摄设计",
-      "source": "IT之家",
+      "id": "auto-3b3136b8f9cd",
+      "title": "OnePlus Turbo 6x Pro to feature Samsung OLED screen, price leaks",
+      "source": "Gizmochina",
       "brand": "Samsung",
       "model": "Samsung 相关机型",
       "type": "爆料",
       "trust": "媒体汇总",
-      "date": "2026-05-31",
-      "url": "https://www.ithome.com/0/957/838.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/5/b1cef09c-b02c-4134-b867-efcba5fce7d8.png?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 5 月 31 日消息，据科技媒体 Sammobile 今天报道，三星预计将在今年 7 月推出 Galaxy Z Fold 8 和 Z Fold 8 Ultra 两款折叠屏手机。前者定位预计较为亲民，采用更宽的机身比例。如今这款设备已经现身韩国街头，外观设计也随之曝光。 据报道，最近有人在韩国某餐厅内看到这款设备，并将两张较为模糊的照片发布到网络论…",
+      "date": "2026-06-01",
+      "url": "https://www.gizmochina.com/2026/06/01/oneplus-turbo-6x-pro-specs-price-leak/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2025/12/OnePlus-Turbo-6-series-launch-date-169x300.jpg?x10805",
+      "summary": "Chinese tipster Digital Chat Station has shared fresh details on the upcoming OnePlus Turbo 6X Pro, and this time the leak comes with a hands-on tease as the tipster claims to hav…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-b2c4a254684e",
+      "title": "Samsung’s upcoming wide Galaxy Z Fold 8 spied in public for the first time",
+      "source": "Android Authority",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-01",
+      "url": "https://www.androidauthority.com/samsung-galaxy-z-fold-8-wide-spotted-in-the-wild-3672943/",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2026/05/Galaxy-Z-Fold-8-Wide-real-life-1-1.jpg",
+      "summary": "Real-world testing for Samsung's next foldables appears to be well underway, as it should.",
       "tags": [
         "Samsung",
         "爆料",
@@ -429,42 +411,6 @@ window.phoneRadarAuto = {
       "summary": "The budget smartphone segment is getting more competitive than ever, and the OnePlus Nord CE 6 Lite and Realme Narzo 90 are perfect examples. One focuses on raw performance and ga…",
       "tags": [
         "OPPO",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-25ff132b1249",
-      "title": "OnePlus Nord CE 6 Lite vs Redmi Note 15: Which Mid-Range Phone Offers Better Value?",
-      "source": "Gizmochina",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-05-30",
-      "url": "https://www.gizmochina.com/2026/05/30/oneplus-nord-ce-6-lite-vs-redmi-note-15/",
-      "image": "https://www.gizmochina.com/wp-content/uploads/2026/05/image-173-300x186.png?x10805",
-      "summary": "Choosing between the OnePlus Nord CE 6 Lite and Redmi Note 15 is not as straightforward as their similar pricing suggests. Both target the competitive mid-range segment, but they…",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-a5b71dcd92c8",
-      "title": "Huawei Pura 100 series camera upgrade tipped: “Multi-Camera Fusion” tech uses all sensors simultaneously",
-      "source": "Gizmochina",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-05-30",
-      "url": "https://www.gizmochina.com/2026/05/30/huawei-pura-100-series-camera-upgrade-tipped-multi-camera-fusion-tech-uses-all-sensors-simultaneously/",
-      "image": "https://www.gizmochina.com/wp-content/uploads/2026/05/design-color-1-300x167.png?x10805",
-      "summary": "Huawei‘s next big camera upgrade may not be a larger sensor or a longer zoom lens. According to a new leak from Digital Chat Station, the company is reportedly testing a more adva…",
-      "tags": [
-        "Huawei",
         "爆料",
         "自动抓取"
       ]
