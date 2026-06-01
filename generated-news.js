@@ -1,20 +1,128 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-06-01T05:15:52.352Z",
+  "updatedAt": "2026-06-01T12:09:28.504Z",
   "news": [
     {
-      "id": "auto-1c39e0dde652",
-      "title": "消息称一加 Turbo 6X Pro 手机本周见，定位“千元夯机”",
+      "id": "auto-1d4b086ed9ab",
+      "title": "Counterpoint：2026 年智能手机出货量预计同比下降 13.9%，创 2013 年以来新低",
       "source": "IT之家",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-01",
+      "url": "https://www.ithome.com/0/958/369.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/6/7e80d00e-7db0-4657-b581-e00fbe15d443.png?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 6 月 1 日消息，全球市场调研机构 Counterpoint Research 最新智能手机市场展望追踪报告显示，全球智能手机市场正进入近年来较为明显的调整阶段。 IT之家获悉，2026 年全球智能手机出货量预计将同比下降 13.9%，降至约 10.8 亿部， 创下 2013 年以来的年度新低 ，且下滑幅度已超出今年 2 月预测的 12.4%。…",
+      "tags": [
+        "行业",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-2fb62b893a7e",
+      "title": "华为 nova 16 系列新机重点参数配置差异公布，一表看懂",
+      "source": "IT之家",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-01",
+      "url": "https://www.ithome.com/0/958/319.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/6/49bf4151-25f7-46f8-9e77-5e1b7f184943.jpg?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 6 月 1 日消息，华为 nova 16 系列新机已于今日正式发布，新机共四款机型， 定价 2699 元起 。 ▲ IT之家现场实拍：华为 nova 16 系列真机 目前，华为 nova 16 系列新机重点参数配置差异已公布，IT之家汇总如下： 型号 nova 16 nova 16 Pro nova 16 Ultra nova 16z 外观颜色…",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-f7bcb14b959f",
+      "title": "发布会一笔带过的“彩蛋”：华为 nova 16 系列手机（含 z）全系支持卫星通信功能",
+      "source": "IT之家",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-01",
+      "url": "https://www.ithome.com/0/958/304.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/6/111a1eea-e776-4f6f-a432-0eb3f2d3dd45.jpg?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 6 月 1 日消息，华为 nova 16 系列及全场景新品发布会已落下帷幕。此次发布会的主角 —— nova 16 系列共有四款机型， 定价 2699 元起 。 IT之家注意到，此次发布会上有一个一笔带过的“小彩蛋”—— nova 16 系列手机（含 z）全系支持卫星通信功能 ，标配畅连北斗卫星消息和运营商北斗卫星短信，Ultra 机型“系列独占…",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-60021047e3eb",
+      "title": "First 'Confirmed' iPhone Ultra Color Allegedly Revealed in Leaked Image",
+      "source": "MacRumors",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-01",
+      "url": "https://www.macrumors.com/2026/06/01/first-confirmed-iphone-ultra-color-leaked/",
+      "image": "https://images.macrumors.com/article-new/2026/06/iphone-fold-ultra-leak@2x-scaled.jpg",
+      "summary": "Apple is expected to launch its first foldable iPhone later this year. Rumors suggest the \"iPhone Ultra\" will come in two color options, and a leaker shared an image today that al…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-c5f3010999d6",
+      "title": "Why the Samsung Galaxy Z Fold 8 needs to borrow this one Galaxy S26 Ultra feature",
+      "source": "Android Police",
       "brand": "Samsung",
       "model": "Samsung 相关机型",
       "type": "爆料",
       "trust": "媒体汇总",
       "date": "2026-06-01",
-      "url": "https://www.ithome.com/0/958/009.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/6/eb6cd371-c0e4-4974-b76d-4a0761f258a1.jpg?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 6 月 1 日消息，据博主 @数码闲聊站 今日爆料， 一加 Turbo 6 X Pro 手机本周见，定位“千元夯机”。该机配备 1.5K 三星护眼直屏 +8 开头大电池 +IP69X 满级防水，屏幕支持 144Hz 超高刷，配色有亮点。 IT之家注意到，该博主曾在 5 月 29 日爆料，一加 Turbo6X 系列要上了，标准版是 144Hz LC…",
+      "url": "https://www.androidpolice.com/samsung-galaxy-z-fold-8-needs-to-borrow-one-galaxy-s26-ultra-feature/",
+      "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2026/05/samsung-galaxy-z-fold8-partially-unfolded-showing-a-privacy-display-effect-on-the-screen.png",
+      "summary": "Make it a private foldable",
       "tags": [
         "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-293daa52e193",
+      "title": "Galaxy Z Fold 8 leak pits Samsung’s wider foldable against the rumored Ultra",
+      "source": "Android Central",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-06-01",
+      "url": "https://www.androidcentral.com/phones/samsung-galaxy/galaxy-z-fold-8-leak-pits-samsungs-wider-foldable-against-the-rumored-ultra",
+      "image": "https://cdn.mos.cms.futurecdn.net/wm367SscxJD8YYmy6CRhpP-1280-80.jpg",
+      "summary": "Leaks confirm Samsung is giving the base Fold 8 a much-needed wider screen, but bizarrely reserving the old, cramped design for the camera-heavy Ultra model.",
+      "tags": [
+        "Samsung",
+        "评测",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-25a26f8b145c",
+      "title": "Oppo Find X10 Pro Max is still in the works, set to feature a single 200MP periscope telephoto sensor",
+      "source": "Gizmochina",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-01",
+      "url": "https://www.gizmochina.com/2026/06/01/oppo-find-x10-pro-max-200mp-periscope-camera-development/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/01/Oppo-Find-X9-Pro-300x225.jpg?x10805",
+      "summary": "Last month, tipster Digital Chat Station claimed that the Oppo Find X10 Pro Max had been either delayed or cancelled. However, in a newer Weibo post, the tipster stated that the r…",
+      "tags": [
+        "OPPO",
         "爆料",
         "自动抓取"
       ]
@@ -31,6 +139,42 @@ window.phoneRadarAuto = {
       "url": "https://www.gizmochina.com/2026/06/01/oneplus-turbo-6x-pro-specs-price-leak/",
       "image": "https://www.gizmochina.com/wp-content/uploads/2025/12/OnePlus-Turbo-6-series-launch-date-169x300.jpg?x10805",
       "summary": "Chinese tipster Digital Chat Station has shared fresh details on the upcoming OnePlus Turbo 6X Pro, and this time the leak comes with a hands-on tease as the tipster claims to hav…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-3cbff2811d8f",
+      "title": "Standard Huawei Mate 80 exceeds 4 million activated units",
+      "source": "Huawei Central",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-01",
+      "url": "https://www.huaweicentral.com/standard-huawei-mate-80-exceeds-4-million-activated-units/",
+      "image": "https://www.huaweicentral.com/wp-content/uploads/2026/06/Mate-80-activation-units-leak.jpg",
+      "summary": "Huawei Mate 80 series smartphones are doing great when it comes to sales, but the standard model of this flagship family has just excelled in shipments like no other sibling, acco…",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-34a0540d042d",
+      "title": "Leaked Galaxy Z Fold 8 looks nothing like the Fold we’re used to",
+      "source": "Android Authority",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-01",
+      "url": "https://www.androidauthority.com/samsung-galaxy-z-fold-8-dummy-unit-leak-3672980/",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2025/08/IMG_20250820_175646-scaled.jpg",
+      "summary": "Samsung's next Foldable might be the cutest.",
       "tags": [
         "Samsung",
         "爆料",
@@ -103,24 +247,6 @@ window.phoneRadarAuto = {
       "url": "https://www.sammobile.com/news/samsung-expects-the-wider-galaxy-z-fold-8-to-be-an-instant-hit/",
       "image": "",
       "summary": "Samsung is reportedly launching two variants of its Z Fold flagship this year. The much-rumored wider foldable will be launched as the Galaxy Z Fold 8 while the model we're alread…",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-d9046b851726",
-      "title": "Galaxy Z Fold 8 appears in the wild, reveals camera design",
-      "source": "SamMobile",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-05-31",
-      "url": "https://www.sammobile.com/news/galaxy-z-fold-8-appears-wild-camera-design/",
-      "image": "https://www.sammobile.com/wp-content/uploads/2026/05/Samsung-Galaxy-Z-Fold-8-Leak-Inside-Case.jpg",
-      "summary": "Samsung is expected to launch two book-style foldable phones in July: the Galaxy Z Fold 8 and the Galaxy Z Fold 8 Ultra. The Galaxy Z Fold 8 is expected to be the more affordable…",
       "tags": [
         "Samsung",
         "爆料",
@@ -322,132 +448,6 @@ window.phoneRadarAuto = {
       "tags": [
         "Samsung",
         "评测",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-161a0bdeecf0",
-      "title": "Third incident in 2026: Galaxy S25 FE reportedly explodes while charging",
-      "source": "Gizmochina",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-05-30",
-      "url": "https://www.gizmochina.com/2026/05/30/third-incident-in-2026-galaxy-s25-fe-reportedly-explodes-while-charging/",
-      "image": "https://www.gizmochina.com/wp-content/uploads/2026/05/Samsung-Galaxy-S25-FE-explosion_4-810w-1080h-300x169.jpg?x10805",
-      "summary": "A Samsung Galaxy S25 FE owner has claimed that their phone exploded while charging overnight, leaving behind a damaged bedroom, minor injuries, and a frightening experience for th…",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-4958182d5e98",
-      "title": "Phone 18 Pro dummy units reveal four color options, including “Dark Cherry”",
-      "source": "Gizmochina",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-05-30",
-      "url": "https://www.gizmochina.com/2026/05/30/phone-18-pro-dummy-units-reveal-four-color-options-including-dark-cherry/",
-      "image": "https://www.gizmochina.com/wp-content/uploads/2026/05/HJeNG2qbsAA8kFD-201x300.jpg?x10805",
-      "summary": "New dummy models of the iPhone 18 Pro have surfaced online, offering what may be the clearest look yet at Apple‘s upcoming color lineup. The images, shared by well-known leaker So…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-199c30bc01e6",
-      "title": "OnePlus Nord CE 6 Lite vs Moto G37 Power: Which One Gives More for Your Money?",
-      "source": "Gizmochina",
-      "brand": "OPPO",
-      "model": "OPPO 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-05-30",
-      "url": "https://www.gizmochina.com/2026/05/30/oneplus-nord-ce-6-lite-vs-moto-g37-power/",
-      "image": "https://www.gizmochina.com/wp-content/uploads/2026/05/image-175-300x194.png?x10805",
-      "summary": "OnePlus Nord CE 6 Lite and Moto G37 Power take two very different approaches to the budget smartphone market. One focuses on delivering stronger performance, a smoother display, a…",
-      "tags": [
-        "OPPO",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-63d94a0b6daa",
-      "title": "Motorola reveals everything about the Edge 70 Pro+, except the price, before launch",
-      "source": "Gizmochina",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-05-30",
-      "url": "https://www.gizmochina.com/2026/05/30/motorola-reveals-everything-about-the-edge-70-pro-except-the-price-before-launch/",
-      "image": "https://www.gizmochina.com/wp-content/uploads/2026/05/Motorola-Edge-70-Pro-colors-300x200.jpg?x10805",
-      "summary": "Motorola is set to launch the Motorola Edge 70 Pro+ in India on June 4th. Ahead of next week’s launch, a full product page for the Edge 70 Pro+ is now live on the official site, r…",
-      "tags": [
-        "行业",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-f8a0309b63f9",
-      "title": "OnePlus Nord CE 6 Lite vs Realme Narzo 90: Full Specs, Camera, Battery & Price Compared",
-      "source": "Gizmochina",
-      "brand": "OPPO",
-      "model": "OPPO 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-05-30",
-      "url": "https://www.gizmochina.com/2026/05/30/oneplus-nord-ce-6-lite-vs-realme-narzo-90/",
-      "image": "https://www.gizmochina.com/wp-content/uploads/2026/05/image-174-300x189.png?x10805",
-      "summary": "The budget smartphone segment is getting more competitive than ever, and the OnePlus Nord CE 6 Lite and Realme Narzo 90 are perfect examples. One focuses on raw performance and ga…",
-      "tags": [
-        "OPPO",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-807d7e18c363",
-      "title": "Huawei Mate 80 Pro Max camera beats iPhone 17 Pro Max in color accuracy",
-      "source": "Huawei Central",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-05-30",
-      "url": "https://www.huaweicentral.com/huawei-mate-80-pro-max-iphone-17-pro-max-camera/",
-      "image": "https://www.huaweicentral.com/wp-content/uploads/2026/05/camera-accuracy.jpg",
-      "summary": "Huawei Mate 80 Pro Max comes with a robust camera setup, including the second-generation multispectral lens that defeated iPhone 17 Pro Max in color accuracy. It seems the company…",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-a46ca9601321",
-      "title": "Huawei plans add-on zoom camera (teleconverters) for Mate 90",
-      "source": "Huawei Central",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-05-30",
-      "url": "https://www.huaweicentral.com/huawei-plans-add-on-zoom-camera-teleconverters-for-mate-90/",
-      "image": "https://www.huaweicentral.com/wp-content/uploads/2026/05/Huawei-Mate-90-zoom-lens.jpg",
-      "summary": "Huawei Mate 90 series will not only unlock a new chip breakthrough this year but could also take photography to the next level with add-on zoom camera technology or “external tele…",
-      "tags": [
-        "Huawei",
-        "爆料",
         "自动抓取"
       ]
     },

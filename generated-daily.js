@@ -1,12 +1,12 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-06-01T05:15:52.352Z",
+  "updatedAt": "2026-06-01T12:09:28.504Z",
   "issueDate": "2026-06-01",
   "issue": "VOL.260601",
   "title": "手机情报日报",
-  "intro": "今日筛出 18 条重点，其中 8 条是重点爆料，包含 6 条 iPhone 相关、1 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 18 条重点，其中 8 条是重点爆料，包含 7 条 iPhone 相关、1 条官方确认、0 条参数线索。",
   "stats": {
     "total": 18,
-    "iphone": 6,
+    "iphone": 7,
     "leaks": 8,
     "official": 1,
     "specs": 0
@@ -17,6 +17,28 @@ window.phoneRadarDaily = {
       "title": "重点爆料",
       "hint": "机模、配色、影像、屏幕、电池和芯片线索先看。",
       "items": [
+        {
+          "id": "auto-60021047e3eb",
+          "title": "iPhone 机模 / 配色信息曝光",
+          "originalTitle": "",
+          "source": "MacRumors",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-06-01",
+          "url": "https://www.macrumors.com/2026/06/01/first-confirmed-iphone-ultra-color-leaked/",
+          "image": "https://images.macrumors.com/article-new/2026/06/iphone-fold-ultra-leak@2x-scaled.jpg",
+          "verdict": "先看",
+          "takeaway": "iPhone 机模 / 配色信息曝光。已转成中文摘要展示，详细内容可打开原文核对。",
+          "detail": "iPhone 机模 / 配色信息曝光。来源提到未发布机型的机模/配色图，适合先判断外观方向、颜色变化和机身轮廓，但最终量产版本仍可能调整。",
+          "keyPoints": [
+            "外观 / 配色 / 尺寸",
+            "爆料来源"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
         {
           "id": "auto-280d075a8458",
           "title": "iPhone 18 Pro 机模 / 配色信息曝光",
@@ -58,30 +80,6 @@ window.phoneRadarDaily = {
             "成本 / 价格"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "auto-1c39e0dde652",
-          "title": "消息称一加 Turbo 6X Pro 手机本周见，定位“千元夯机”",
-          "originalTitle": "",
-          "source": "IT之家",
-          "brand": "Samsung",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-06-01",
-          "url": "https://www.ithome.com/0/958/009.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/6/eb6cd371-c0e4-4974-b76d-4a0761f258a1.jpg?x-bce-process=image/format,f_auto",
-          "verdict": "先看",
-          "takeaway": "IT之家 6 月 1 日消息，据博主 @数码闲聊站 今日爆料， 一加 Turbo 6 X Pro 手机本周见，定位“千元夯机”。该机配备 1.5K 三星护眼直屏 +8 开头大电池 +IP69X 满级防水，屏幕支持 144Hz 超高刷，配色有亮点。 IT之家注意到，该博主曾在 5 月 29 日爆料，一加 Turbo6X 系列要上了，标准版是 144Hz LC…",
-          "detail": "IT之家 6 月 1 日消息，据博主 @数码闲聊站 今日爆料， 一加 Turbo 6 X Pro 手机本周见，定位“千元夯机”。该机配备 1.5K 三星护眼直屏 +8 开头大电池 +IP69X 满级防水，屏幕支持 144Hz 超高刷，配色有亮点。 IT之家注意到，该博主曾在 5 月 29 日爆料，一加 Turbo6X 系列要上了，标准版是 144Hz LC…",
-          "keyPoints": [
-            "外观 / 配色 / 尺寸",
-            "屏幕形态",
-            "电池 / 充电",
-            "爆料来源"
-          ],
-          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
@@ -174,25 +172,23 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
-          "id": "auto-3b3136b8f9cd",
-          "title": "Samsung 屏幕规格相关消息",
+          "id": "auto-2fb62b893a7e",
+          "title": "华为 nova 16 系列新机重点参数配置差异公布，一表看懂",
           "originalTitle": "",
-          "source": "Gizmochina",
-          "brand": "Samsung",
+          "source": "IT之家",
+          "brand": "Huawei",
           "type": "爆料",
           "trust": "媒体汇总",
           "date": "2026-06-01",
-          "url": "https://www.gizmochina.com/2026/06/01/oneplus-turbo-6x-pro-specs-price-leak/",
-          "image": "https://www.gizmochina.com/wp-content/uploads/2025/12/OnePlus-Turbo-6-series-launch-date-169x300.jpg?x10805",
+          "url": "https://www.ithome.com/0/958/319.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/6/49bf4151-25f7-46f8-9e77-5e1b7f184943.jpg?x-bce-process=image/format,f_auto",
           "verdict": "先看",
-          "takeaway": "Samsung 屏幕规格相关消息。如果涉及订阅、售价或硬件成本，才需要进一步看细节。",
-          "detail": "Samsung 屏幕规格相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
+          "takeaway": "IT之家 6 月 1 日消息，华为 nova 16 系列新机已于今日正式发布，新机共四款机型， 定价 2699 元起 。 ▲ IT之家现场实拍：华为 nova 16 系列真机 目前，华为 nova 16 系列新机重点参数配置差异已公布，IT之家汇总如下： 型号 nova 16 nova 16 Pro nova 16 Ultra nova 16z 外观颜色…",
+          "detail": "IT之家 6 月 1 日消息，华为 nova 16 系列新机已于今日正式发布，新机共四款机型， 定价 2699 元起 。 ▲ IT之家现场实拍：华为 nova 16 系列真机 目前，华为 nova 16 系列新机重点参数配置差异已公布，IT之家汇总如下： 型号 nova 16 nova 16 Pro nova 16 Ultra nova 16z 外观颜色…",
           "keyPoints": [
-            "屏幕形态",
-            "成本 / 价格",
-            "爆料来源"
+            "外观 / 配色 / 尺寸"
           ],
-          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         }
@@ -203,6 +199,27 @@ window.phoneRadarDaily = {
       "title": "新机与官方发布",
       "hint": "能直接更新到参数库。",
       "items": [
+        {
+          "id": "auto-f7bcb14b959f",
+          "title": "发布会一笔带过的“彩蛋”：华为 nova 16 系列手机（含 z）全系支持卫星通信功能",
+          "originalTitle": "",
+          "source": "IT之家",
+          "brand": "Huawei",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-06-01",
+          "url": "https://www.ithome.com/0/958/304.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/6/111a1eea-e776-4f6f-a432-0eb3f2d3dd45.jpg?x-bce-process=image/format,f_auto",
+          "verdict": "先看",
+          "takeaway": "IT之家 6 月 1 日消息，华为 nova 16 系列及全场景新品发布会已落下帷幕。此次发布会的主角 —— nova 16 系列共有四款机型， 定价 2699 元起 。 IT之家注意到，此次发布会上有一个一笔带过的“小彩蛋”—— nova 16 系列手机（含 z）全系支持卫星通信功能 ，标配畅连北斗卫星消息和运营商北斗卫星短信，Ultra 机型“系列独占…",
+          "detail": "IT之家 6 月 1 日消息，华为 nova 16 系列及全场景新品发布会已落下帷幕。此次发布会的主角 —— nova 16 系列共有四款机型， 定价 2699 元起 。 IT之家注意到，此次发布会上有一个一笔带过的“小彩蛋”—— nova 16 系列手机（含 z）全系支持卫星通信功能 ，标配畅连北斗卫星消息和运营商北斗卫星短信，Ultra 机型“系列独占…",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "中文源可以直接点开快读；看完只保留和购机有关的点。"
+        },
         {
           "id": "auto-9a1655e85c50",
           "title": "Galaxy S26 影像能力相关消息",
@@ -223,28 +240,6 @@ window.phoneRadarDaily = {
           "confidence": "官方内容，可直接作为已确认信息记录。",
           "impact": "影响拍照体验，买旗舰机时值得关注。",
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
-        {
-          "id": "auto-d9046b851726",
-          "title": "Samsung 外观设计线索曝光",
-          "originalTitle": "",
-          "source": "SamMobile",
-          "brand": "Samsung",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-05-31",
-          "url": "https://www.sammobile.com/news/galaxy-z-fold-8-appears-wild-camera-design/",
-          "image": "https://www.sammobile.com/wp-content/uploads/2026/05/Samsung-Galaxy-Z-Fold-8-Leak-Inside-Case.jpg",
-          "verdict": "可略过",
-          "takeaway": "Samsung 外观设计线索曝光。重点看外观、颜色、尺寸是否和上一代有明显变化。",
-          "detail": "Samsung 外观设计线索曝光。这类内容主要看外观设计、按键布局、相机模组和尺寸变化，后续最好等更多渲染图或保护壳线索互相验证。",
-          "keyPoints": [
-            "外观 / 配色 / 尺寸",
-            "影像硬件"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "影响拍照体验，买旗舰机时值得关注。",
-          "action": "有具体参数就记录到参数库；没有参数就先收藏。"
         }
       ]
     },
@@ -294,6 +289,27 @@ window.phoneRadarDaily = {
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是实际体验内容，买前适合重点看缺点和取舍。",
           "action": "中文源可以直接点开快读；看完只保留和购机有关的点。"
+        },
+        {
+          "id": "auto-4c8cca93ef1c",
+          "title": "Pixel 10 Pro Fold 折叠屏相关消息",
+          "originalTitle": "",
+          "source": "9to5Google",
+          "brand": "Pixel",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-05-22",
+          "url": "https://9to5google.com/2026/05/22/pixel-10-pro-fold-long-term-review/",
+          "image": "",
+          "verdict": "可略过",
+          "takeaway": "Pixel 影像能力相关宣传或案例，主要看是否透露拍摄能力变化。",
+          "detail": "Pixel 10 Pro Fold 折叠屏相关消息。重点看折痕、铰链、厚度、屏幕可靠性和重量是否有实质改善。",
+          "keyPoints": [
+            "影像硬件"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "影响拍照体验，买旗舰机时值得关注。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         }
       ]
     },
@@ -303,26 +319,46 @@ window.phoneRadarDaily = {
       "hint": "看方向，不急着当购买依据。",
       "items": [
         {
-          "id": "auto-807d7e18c363",
-          "title": "iPhone 17 Pro Max 机模 / 配色信息曝光",
+          "id": "auto-1d4b086ed9ab",
+          "title": "Counterpoint：2026 年智能手机出货量预计同比下降 13.9%，创 2013 年以来新低",
           "originalTitle": "",
-          "source": "Huawei Central",
-          "brand": "Huawei",
+          "source": "IT之家",
+          "brand": "行业",
           "type": "爆料",
           "trust": "媒体汇总",
-          "date": "2026-05-30",
-          "url": "https://www.huaweicentral.com/huawei-mate-80-pro-max-iphone-17-pro-max-camera/",
-          "image": "https://www.huaweicentral.com/wp-content/uploads/2026/05/camera-accuracy.jpg",
+          "date": "2026-06-01",
+          "url": "https://www.ithome.com/0/958/369.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/6/7e80d00e-7db0-4657-b581-e00fbe15d443.png?x-bce-process=image/format,f_auto",
           "verdict": "扫一眼",
-          "takeaway": "Huawei 影像能力相关宣传或案例，主要看是否透露拍摄能力变化。",
-          "detail": "iPhone 17 Pro Max 机模 / 配色信息曝光。来源提到未发布机型的机模/配色图，适合先判断外观方向、颜色变化和机身轮廓，但最终量产版本仍可能调整。",
+          "takeaway": "IT之家 6 月 1 日消息，全球市场调研机构 Counterpoint Research 最新智能手机市场展望追踪报告显示，全球智能手机市场正进入近年来较为明显的调整阶段。 IT之家获悉，2026 年全球智能手机出货量预计将同比下降 13.9%，降至约 10.8 亿部， 创下 2013 年以来的年度新低 ，且下滑幅度已超出今年 2 月预测的 12.4%。…",
+          "detail": "IT之家 6 月 1 日消息，全球市场调研机构 Counterpoint Research 最新智能手机市场展望追踪报告显示，全球智能手机市场正进入近年来较为明显的调整阶段。 IT之家获悉，2026 年全球智能手机出货量预计将同比下降 13.9%，降至约 10.8 亿部， 创下 2013 年以来的年度新低 ，且下滑幅度已超出今年 2 月预测的 12.4%。…",
           "keyPoints": [
-            "外观 / 配色 / 尺寸",
-            "影像硬件"
+            "爆料"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "影响拍照体验，买旗舰机时值得关注。",
-          "action": "有具体参数就记录到参数库；没有参数就先收藏。"
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "中文源可以直接点开快读；看完只保留和购机有关的点。"
+        },
+        {
+          "id": "auto-c5f3010999d6",
+          "title": "Galaxy S26 Ultra fe 折叠屏相关消息",
+          "originalTitle": "",
+          "source": "Android Police",
+          "brand": "Samsung",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-06-01",
+          "url": "https://www.androidpolice.com/samsung-galaxy-z-fold-8-needs-to-borrow-one-galaxy-s26-ultra-feature/",
+          "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2026/05/samsung-galaxy-z-fold8-partially-unfolded-showing-a-privacy-display-effect-on-the-screen.png",
+          "verdict": "可略过",
+          "takeaway": "Galaxy S26 Ultra fe 折叠屏相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
+          "detail": "Galaxy S26 Ultra fe 折叠屏相关消息。重点看折痕、铰链、厚度、屏幕可靠性和重量是否有实质改善。",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         },
         {
           "id": "auto-a8698dfe0b87",
@@ -388,50 +424,6 @@ window.phoneRadarDaily = {
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "影响日常体验，尤其是游戏、拍照和长时间使用。",
-          "action": "有具体参数就记录到参数库；没有参数就先收藏。"
-        },
-        {
-          "id": "auto-199c30bc01e6",
-          "title": "OnePlus Nord CE 6 Lite 对比 Moto G37 Power：差异整理",
-          "originalTitle": "",
-          "source": "Gizmochina",
-          "brand": "OPPO",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-05-30",
-          "url": "https://www.gizmochina.com/2026/05/30/oneplus-nord-ce-6-lite-vs-moto-g37-power/",
-          "image": "https://www.gizmochina.com/wp-content/uploads/2026/05/image-175-300x194.png?x10805",
-          "verdict": "可略过",
-          "takeaway": "OnePlus Nord CE 6 Lite 对比 Moto G37 Power：重点看定位、配置差异和价格差，判断是否值得等更高端型号。",
-          "detail": "OnePlus Nord CE 6 Lite 对比 Moto G37 Power 的差异整理。重点看两款机型的定位、影像规格、屏幕尺寸、价格区间和发布时间是否拉开差距。",
-          "keyPoints": [
-            "屏幕形态"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "影响手感和显示体验，适合和其他机型对比。",
-          "action": "有具体参数就记录到参数库；没有参数就先收藏。"
-        },
-        {
-          "id": "auto-f8a0309b63f9",
-          "title": "OnePlus Nord CE 6 Lite 对比 Realme Narzo 90：差异整理",
-          "originalTitle": "",
-          "source": "Gizmochina",
-          "brand": "OPPO",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-05-30",
-          "url": "https://www.gizmochina.com/2026/05/30/oneplus-nord-ce-6-lite-vs-realme-narzo-90/",
-          "image": "https://www.gizmochina.com/wp-content/uploads/2026/05/image-174-300x189.png?x10805",
-          "verdict": "可略过",
-          "takeaway": "OnePlus Nord CE 6 Lite 对比 Realme Narzo 90：重点看定位、配置差异和价格差，判断是否值得等更高端型号。",
-          "detail": "OnePlus Nord CE 6 Lite 对比 Realme Narzo 90 的差异整理。重点看两款机型的定位、影像规格、屏幕尺寸、价格区间和发布时间是否拉开差距。",
-          "keyPoints": [
-            "影像硬件",
-            "电池 / 充电",
-            "成本 / 价格"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "影响购买预算，值得先看。",
           "action": "有具体参数就记录到参数库；没有参数就先收藏。"
         }
       ]
