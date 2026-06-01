@@ -1,5 +1,5 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-06-01T18:16:01.040Z",
+  "updatedAt": "2026-06-01T21:44:27.496Z",
   "news": [
     {
       "id": "auto-346623964677",
@@ -409,24 +409,6 @@ window.phoneRadarAuto = {
       "url": "https://www.gizmochina.com/2026/05/31/xiaomi-tv-fx-mini-led-series-lndia-launch-date/",
       "image": "https://www.gizmochina.com/wp-content/uploads/2026/05/image-180-300x124.png?x10805",
       "summary": "Xiaomi recently unveiled the Xiaomi 17T and 17T Pro for the global market. Now, the brand is all set to launch the Xiaomi 17T in India on June 4. Alongside the smartphone, Xiaomi…",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-3e343204b1c7",
-      "title": "Xiaomi 17T price leaks ahead of India launch",
-      "source": "Gizmochina",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-05-31",
-      "url": "https://www.gizmochina.com/2026/05/31/xiaomi-17t-price-leaks-ahead-of-india-launch/",
-      "image": "https://www.gizmochina.com/wp-content/uploads/2026/05/Xiaomi-17T-and-17T-Pro-1-300x169.jpg?x10805",
-      "summary": "Xiaomi is set to launch the Xiaomi 17T in India on June 4. Ahead of the launch, a new leak from tipster Abhishek Yadav has revealed the smartphone’s expected price in the country.…",
       "tags": [
         "Xiaomi",
         "爆料",

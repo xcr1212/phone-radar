@@ -1,11 +1,11 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-06-01T18:16:01.040Z",
+  "updatedAt": "2026-06-01T21:44:27.496Z",
   "issueDate": "2026-06-01",
   "issue": "VOL.260601",
   "title": "手机情报日报",
-  "intro": "今日筛出 17 条重点，其中 8 条是重点爆料，包含 8 条 iPhone 相关、1 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 18 条重点，其中 8 条是重点爆料，包含 8 条 iPhone 相关、1 条官方确认、0 条参数线索。",
   "stats": {
-    "total": 17,
+    "total": 18,
     "iphone": 8,
     "leaks": 8,
     "official": 1,
@@ -238,6 +238,27 @@ window.phoneRadarDaily = {
           ],
           "confidence": "官方内容，可直接作为已确认信息记录。",
           "impact": "影响拍照体验，买旗舰机时值得关注。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        },
+        {
+          "id": "auto-8cb8cf09c877",
+          "title": "Xiaomi 发布 / 上市相关消息",
+          "originalTitle": "",
+          "source": "Gizmochina",
+          "brand": "Xiaomi",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-05-31",
+          "url": "https://www.gizmochina.com/2026/05/31/xiaomi-tv-fx-mini-led-series-lndia-launch-date/",
+          "image": "https://www.gizmochina.com/wp-content/uploads/2026/05/image-180-300x124.png?x10805",
+          "verdict": "可略过",
+          "takeaway": "Xiaomi 有发布或新功能消息，适合确认是否和新机有关。",
+          "detail": "Xiaomi 发布 / 上市相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         }
       ]
