@@ -1,6 +1,24 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-06-01T21:44:27.496Z",
+  "updatedAt": "2026-06-01T23:44:17.329Z",
   "news": [
+    {
+      "id": "auto-05303bbf1990",
+      "title": "告别花哨配色？苹果首款折叠屏手机 iPhone Ultra 白色版机模曝光",
+      "source": "IT之家",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-01",
+      "url": "https://www.ithome.com/0/958/456.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/6/a45ef6ea-df16-4c19-ad3d-573f934ad0b3.jpg?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 6 月 2 日消息，苹果预计将于今年晚些时候推出旗下首款折叠屏 iPhone。有传闻称这款名为“iPhone Ultra”的机型将提供两种配色，一名爆料博主今日放出一张机模谍照，据称展示了其中一款配色。 博主 @i冰宇宙 在微博放出了这张图片，照片首度曝光了白色款苹果折叠手机。据悉该机型已进入小批量试产阶段，但图中机器大概率为模型机。另一位爆料博…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-346623964677",
       "title": "华为 nova 16 系列独占：小艺照相馆代言人专区“拍立得”“播放器”模板公开，可生成专属打卡照",
@@ -139,24 +157,6 @@ window.phoneRadarAuto = {
       "url": "https://9to5google.com/2026/06/01/galaxy-z-fold-8s-wider-new-form-factor-just-showed-up-in-the-wild/",
       "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/06/galaxy-z-fold-8-wide-wild.jpg?quality=82&strip=all&w=1200",
       "summary": "Samsung’s upcoming Galaxy Z Fold 8 is debuting a wider form factor we’ve not seen on Android in a few years and, ahead of its launch, the device has been spotted in the wild. more…",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-c5f3010999d6",
-      "title": "Why the Samsung Galaxy Z Fold 8 needs to borrow this one Galaxy S26 Ultra feature",
-      "source": "Android Police",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-01",
-      "url": "https://www.androidpolice.com/samsung-galaxy-z-fold-8-needs-to-borrow-one-galaxy-s26-ultra-feature/",
-      "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2026/05/samsung-galaxy-z-fold8-partially-unfolded-showing-a-privacy-display-effect-on-the-screen.png",
-      "summary": "Make it a private foldable",
       "tags": [
         "Samsung",
         "爆料",
@@ -398,24 +398,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-8cb8cf09c877",
-      "title": "Xiaomi TV FX Mini LED Series set to launch with Xiaomi 17T next week",
-      "source": "Gizmochina",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-05-31",
-      "url": "https://www.gizmochina.com/2026/05/31/xiaomi-tv-fx-mini-led-series-lndia-launch-date/",
-      "image": "https://www.gizmochina.com/wp-content/uploads/2026/05/image-180-300x124.png?x10805",
-      "summary": "Xiaomi recently unveiled the Xiaomi 17T and 17T Pro for the global market. Now, the brand is all set to launch the Xiaomi 17T in India on June 4. Alongside the smartphone, Xiaomi…",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-b55d58cf1377",
       "title": "Google isn’t the one ruining Android. It’s the apps you use every day",
       "source": "Android Authority",
@@ -627,24 +609,6 @@ window.phoneRadarAuto = {
       "summary": "The leaks continue, as Samsung’s new and wider Galaxy Z Fold 8 has just surfaced in a hardware hands-on with a frame that looks remarkably thin in real life. more…",
       "tags": [
         "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-c10e6c018f27",
-      "title": "iPhone 18 Pro could further a design trend I’ve finally come around on",
-      "source": "9to5Mac",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-05-26",
-      "url": "https://9to5mac.com/2026/05/26/iphone-18-pro-could-further-a-design-trend-ive-finally-come-around-on/",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/02/iphone-18-pro-mockup.jpg?quality=82&strip=all&w=1600",
-      "summary": "iPhone 18 Pro is coming this fall, and rumors indicate it will further a design trend started last year with iPhone 17 Pro: making the iPhone even thicker. Here’s why I’m actually…",
-      "tags": [
-        "iPhone",
         "爆料",
         "自动抓取"
       ]
