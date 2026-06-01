@@ -1,36 +1,18 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-06-01T12:09:28.504Z",
+  "updatedAt": "2026-06-01T18:16:01.040Z",
   "news": [
     {
-      "id": "auto-1d4b086ed9ab",
-      "title": "Counterpoint：2026 年智能手机出货量预计同比下降 13.9%，创 2013 年以来新低",
-      "source": "IT之家",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-01",
-      "url": "https://www.ithome.com/0/958/369.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/6/7e80d00e-7db0-4657-b581-e00fbe15d443.png?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 6 月 1 日消息，全球市场调研机构 Counterpoint Research 最新智能手机市场展望追踪报告显示，全球智能手机市场正进入近年来较为明显的调整阶段。 IT之家获悉，2026 年全球智能手机出货量预计将同比下降 13.9%，降至约 10.8 亿部， 创下 2013 年以来的年度新低 ，且下滑幅度已超出今年 2 月预测的 12.4%。…",
-      "tags": [
-        "行业",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-2fb62b893a7e",
-      "title": "华为 nova 16 系列新机重点参数配置差异公布，一表看懂",
+      "id": "auto-346623964677",
+      "title": "华为 nova 16 系列独占：小艺照相馆代言人专区“拍立得”“播放器”模板公开，可生成专属打卡照",
       "source": "IT之家",
       "brand": "Huawei",
       "model": "Huawei 相关机型",
       "type": "爆料",
       "trust": "媒体汇总",
       "date": "2026-06-01",
-      "url": "https://www.ithome.com/0/958/319.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/6/49bf4151-25f7-46f8-9e77-5e1b7f184943.jpg?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 6 月 1 日消息，华为 nova 16 系列新机已于今日正式发布，新机共四款机型， 定价 2699 元起 。 ▲ IT之家现场实拍：华为 nova 16 系列真机 目前，华为 nova 16 系列新机重点参数配置差异已公布，IT之家汇总如下： 型号 nova 16 nova 16 Pro nova 16 Ultra nova 16z 外观颜色…",
+      "url": "https://www.ithome.com/0/958/431.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/6/68a0ff25-d1fd-4909-98c1-1c45ad9683af.jpg?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 6 月 1 日消息，华为 nova 的十周年之作 —— nova 16 系列手机已于今日正式发布，定价 2699 元起。目前， 系列机型专属功能 —— 小艺照相馆代言人专区新增的“拍立得”和“播放器”两大类型模板已公开 。 据介绍，小艺照相馆代言人专区新增“拍立得”、“播放器”两大类型模板，用户点击“上传形象”按钮上传一张照片，就能生成专属打卡照…",
       "tags": [
         "Huawei",
         "爆料",
@@ -38,19 +20,55 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-f7bcb14b959f",
-      "title": "发布会一笔带过的“彩蛋”：华为 nova 16 系列手机（含 z）全系支持卫星通信功能",
+      "id": "auto-681249a1532f",
+      "title": "为星闪音频规模化铺路：华为 nova 16 系列手机（含 z）全系支持星闪 E2.0 功能",
       "source": "IT之家",
       "brand": "Huawei",
       "model": "Huawei 相关机型",
       "type": "爆料",
       "trust": "媒体汇总",
       "date": "2026-06-01",
-      "url": "https://www.ithome.com/0/958/304.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/6/111a1eea-e776-4f6f-a432-0eb3f2d3dd45.jpg?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 6 月 1 日消息，华为 nova 16 系列及全场景新品发布会已落下帷幕。此次发布会的主角 —— nova 16 系列共有四款机型， 定价 2699 元起 。 IT之家注意到，此次发布会上有一个一笔带过的“小彩蛋”—— nova 16 系列手机（含 z）全系支持卫星通信功能 ，标配畅连北斗卫星消息和运营商北斗卫星短信，Ultra 机型“系列独占…",
+      "url": "https://www.ithome.com/0/958/421.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/6/57e2d6a6-ac8c-43e2-958a-38adc893c715.jpg?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 6 月 1 日消息，华为 nova 16 系列及全场景新品发布会已落下帷幕。此次发布会的主角 —— nova 16 系列共有四款机型， 定价 2699 元起 。 ▲ IT之家现场实拍：华为 nova 16 系列真机 IT之家注意到，华为 nova 16 系列手机还有其他没有公开的亮点 —— 全系（含 z）支持星闪 E2.0 功能。 这意味着 no…",
       "tags": [
         "Huawei",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-337d7e399d80",
+      "title": "微信安卓版 8.0.74 测试版更新：朋友圈改版 / 合并发多图等功能还在灰度",
+      "source": "IT之家",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-01",
+      "url": "https://www.ithome.com/0/958/408.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/6/45ac49a7-e8b8-460f-8f92-914bb89e9ae3.png?x-bce-process=image/format,f_auto",
+      "summary": "从 8.0.72 直接到 8.0.74，在落后两个大版本的情况下，微信安卓版通过一次跳远，实现了版本号追齐 iOS。 在 5 月 29 日晚间， 微信安卓平台迎来 8.0.74 测试版 ，然而几小时后便撤包，直到昨晚（5 月 31 日）又重新发布链接，恢复正常下载。 经实测发现，本次微信安卓最新内测的重心不在于上线新花样，而是以灰度功能覆盖为主。 具体的更…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-6719b0828ee1",
+      "title": "Foldable 'iPhone Ultra' Rumored to Feature Vapor Chamber Cooling Despite Thin Design",
+      "source": "MacRumors",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-01",
+      "url": "https://www.macrumors.com/2026/06/01/foldable-iphone-rumored-to-feature-vapor-chamber/",
+      "image": "https://images.macrumors.com/article-new/2026/06/Vapor-Chamber-Plate.jpg",
+      "summary": "Apple's first foldable iPhone, known as the \" iPhone Ultra ,\" will feature impressive vapor chamber cooling and launch in September despite production difficulties, a known leaker…",
+      "tags": [
+        "iPhone",
         "爆料",
         "自动抓取"
       ]
@@ -69,6 +87,60 @@ window.phoneRadarAuto = {
       "summary": "Apple is expected to launch its first foldable iPhone later this year. Rumors suggest the \"iPhone Ultra\" will come in two color options, and a leaker shared an image today that al…",
       "tags": [
         "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-d824e404a4e3",
+      "title": "Leaker reveals new iPhone Ultra feature, release timing update",
+      "source": "9to5Mac",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-01",
+      "url": "https://9to5mac.com/2026/06/01/leaker-reveals-new-iphone-ultra-feature-release-timing-update/",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/03/iphone-fold-mockup-blue.jpg?quality=82&strip=all&w=1600",
+      "summary": "Weibo leaker Fixed Focus Digital has shared a new post about the iPhone Ultra today that reveals a feature not rumored before—a vapor chamber—alongside a release timing update. mo…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-aec8dcdff3d1",
+      "title": "Dummy model shows how the iPhone Ultra may look in white",
+      "source": "9to5Mac",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-01",
+      "url": "https://9to5mac.com/2026/06/01/dummy-model-shows-how-the-iphone-ultra-may-look-in-white/",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/Dummy-model-shows-how-the-iPhone-Ultra-may-look-in-white.jpg?quality=82&strip=all&w=1400",
+      "summary": "White has been reported to be one of the confirmed colors for the upcoming iPhone Ultra , and a new dummy model gives us a very basic idea of how it might look. While the automati…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-9858943cc2d6",
+      "title": "Galaxy Z Fold 8’s wider new form factor just showed up in the wild",
+      "source": "9to5Google",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-01",
+      "url": "https://9to5google.com/2026/06/01/galaxy-z-fold-8s-wider-new-form-factor-just-showed-up-in-the-wild/",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/06/galaxy-z-fold-8-wide-wild.jpg?quality=82&strip=all&w=1200",
+      "summary": "Samsung’s upcoming Galaxy Z Fold 8 is debuting a wider form factor we’ve not seen on Android in a few years and, ahead of its launch, the device has been spotted in the wild. more…",
+      "tags": [
+        "Samsung",
         "爆料",
         "自动抓取"
       ]
@@ -146,19 +218,19 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-3cbff2811d8f",
-      "title": "Standard Huawei Mate 80 exceeds 4 million activated units",
-      "source": "Huawei Central",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
+      "id": "auto-a6949e5a6093",
+      "title": "An affordable, long-lasting AirTag alternative is $15 right now",
+      "source": "The Verge",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
       "type": "爆料",
       "trust": "媒体汇总",
       "date": "2026-06-01",
-      "url": "https://www.huaweicentral.com/standard-huawei-mate-80-exceeds-4-million-activated-units/",
-      "image": "https://www.huaweicentral.com/wp-content/uploads/2026/06/Mate-80-activation-units-leak.jpg",
-      "summary": "Huawei Mate 80 series smartphones are doing great when it comes to sales, but the standard model of this flagship family has just excelled in shipments like no other sibling, acco…",
+      "url": "https://www.theverge.com/gadgets/940830/find-my-bluetooth-tracker-bose-qc-ultra-google-pixel-buds-deal-sale",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/finetrack2.png?quality=90&strip=all&crop=0,0,100,100",
+      "summary": "There are many solid Bluetooth trackers for iPhones that tap into Apple’s expansive Find My network. Some are thin, some are a bit chunkier. And, evidently, some look like tiny so…",
       "tags": [
-        "Huawei",
+        "iPhone",
         "爆料",
         "自动抓取"
       ]
@@ -211,42 +283,6 @@ window.phoneRadarAuto = {
       "url": "https://9to5google.com/2026/05/30/galaxy-z-fold-8-wide-ultra-leak/",
       "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/05/galaxy-z-fold-8-photo-leak-1.jpg?quality=82&strip=all&w=1600",
       "summary": "A new leak shows off the difference, in person, of the Galaxy Z Fold 8’s wider form factor versus the “Ultra” one we’re already used to. more…",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-90fb25aa290a",
-      "title": "Samsung’s renaming its foldables to beat Apple, but the logic doesn’t quite fold",
-      "source": "SamMobile",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-05-31",
-      "url": "https://www.sammobile.com/news/samsungs-renaming-its-foldables-to-beat-apple-but-the-logic-doesnt-quite-fold/",
-      "image": "",
-      "summary": "Samsung has fully embraced the “Ultra” tagline to market some products in its portfolio as being the very best. The Galaxy S26 Ultra, for example, is the best flagship in this ser…",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-f491706a787f",
-      "title": "Samsung expects the wider Galaxy Z Fold 8 to be an instant hit",
-      "source": "SamMobile",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-05-31",
-      "url": "https://www.sammobile.com/news/samsung-expects-the-wider-galaxy-z-fold-8-to-be-an-instant-hit/",
-      "image": "",
-      "summary": "Samsung is reportedly launching two variants of its Z Fold flagship this year. The much-rumored wider foldable will be launched as the Galaxy Z Fold 8 while the model we're alread…",
       "tags": [
         "Samsung",
         "爆料",
@@ -488,42 +524,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-280d075a8458",
-      "title": "First Look at iPhone 18 Pro Color Options Revealed by Dummy Models",
-      "source": "MacRumors",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-05-29",
-      "url": "https://www.macrumors.com/2026/05/29/first-look-at-iphone-18-pro-color-options-revealed/",
-      "image": "https://images.macrumors.com/article-new/2026/05/iphone-18-pro-color-dummies.jpeg",
-      "summary": "Leaker Sonny Dickson today shared images of iPhone 18 Pro dummy models in the device's four rumored colors, offering the first real-world look at what to expect from the lineup vi…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-fd387134742a",
-      "title": "iPhone 18 Pro's Camera Upgrade Will Cost Apple 50% More",
-      "source": "MacRumors",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-05-29",
-      "url": "https://www.macrumors.com/2026/05/29/iphone-18-pros-camera-upgrade-will-cost-more/",
-      "image": "https://images.macrumors.com/article-new/2026/04/iphone-17-pro-black-feature.jpg",
-      "summary": "The iPhone 18 Pro and &zwnj;iPhone 18 Pro&zwnj; Max's all-new variable aperture lens will cost Apple 50% more than the camera unit used in current models, according to supply chai…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-e8c9f2bf72e0",
       "title": "Kuo: Apple’s iPhone camera roadmap includes a costly upgrade",
       "source": "9to5Mac",
@@ -609,24 +609,6 @@ window.phoneRadarAuto = {
       "summary": "Android phones may soon match Apple suspiciously well.",
       "tags": [
         "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-0dda31256d16",
-      "title": "The Galaxy Z Fold 8 could be creaseless after all",
-      "source": "Android Authority",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-05-29",
-      "url": "https://www.androidauthority.com/galaxy-z-fold-8-crease-3672471/",
-      "image": "https://www.androidauthority.com/wp-content/uploads/2026/03/Z-Fold-7-vs-Fold-4-3-Fixed-scaled.jpeg",
-      "summary": "This goes against initial claims that the Z Fold 8 series would pack the same-old crease as its predecessors.",
-      "tags": [
-        "Samsung",
         "爆料",
         "自动抓取"
       ]

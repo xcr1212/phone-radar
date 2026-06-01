@@ -1,12 +1,12 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-06-01T12:09:28.504Z",
+  "updatedAt": "2026-06-01T18:16:01.040Z",
   "issueDate": "2026-06-01",
   "issue": "VOL.260601",
   "title": "手机情报日报",
-  "intro": "今日筛出 18 条重点，其中 8 条是重点爆料，包含 7 条 iPhone 相关、1 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 17 条重点，其中 8 条是重点爆料，包含 8 条 iPhone 相关、1 条官方确认、0 条参数线索。",
   "stats": {
-    "total": 18,
-    "iphone": 7,
+    "total": 17,
+    "iphone": 8,
     "leaks": 8,
     "official": 1,
     "specs": 0
@@ -40,19 +40,40 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
-          "id": "auto-280d075a8458",
+          "id": "auto-82c400b3efbd",
           "title": "iPhone 18 Pro 机模 / 配色信息曝光",
+          "originalTitle": "",
+          "source": "9to5Mac",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-05-29",
+          "url": "https://9to5mac.com/2026/05/29/iphone-18-pro-dummy-units-reveal-four-color-options-gallery/",
+          "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/05/iphone-18-pro-dummy-colors.jpg?quality=82&strip=all&w=1600",
+          "verdict": "先看",
+          "takeaway": "iPhone 18 Pro 机模 / 配色信息曝光。重点看外观、颜色、尺寸是否和上一代有明显变化。",
+          "detail": "iPhone 18 Pro 机模 / 配色信息曝光。来源提到未发布机型的机模/配色图，适合先判断外观方向、颜色变化和机身轮廓，但最终量产版本仍可能调整。",
+          "keyPoints": [
+            "外观 / 配色 / 尺寸"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "auto-6719b0828ee1",
+          "title": "iPhone 外观设计线索曝光",
           "originalTitle": "",
           "source": "MacRumors",
           "brand": "iPhone",
           "type": "爆料",
           "trust": "媒体汇总",
-          "date": "2026-05-29",
-          "url": "https://www.macrumors.com/2026/05/29/first-look-at-iphone-18-pro-color-options-revealed/",
-          "image": "https://images.macrumors.com/article-new/2026/05/iphone-18-pro-color-dummies.jpeg",
+          "date": "2026-06-01",
+          "url": "https://www.macrumors.com/2026/06/01/foldable-iphone-rumored-to-feature-vapor-chamber/",
+          "image": "https://images.macrumors.com/article-new/2026/06/Vapor-Chamber-Plate.jpg",
           "verdict": "先看",
-          "takeaway": "iPhone 18 Pro 机模 / 配色信息曝光。重点看外观、颜色、尺寸是否和上一代有明显变化。",
-          "detail": "iPhone 18 Pro 机模 / 配色信息曝光。来源提到未发布机型的机模/配色图，适合先判断外观方向、颜色变化和机身轮廓，但最终量产版本仍可能调整。",
+          "takeaway": "iPhone 外观设计线索曝光。重点看外观、颜色、尺寸是否和上一代有明显变化。",
+          "detail": "iPhone 外观设计线索曝光。这类内容主要看外观设计、按键布局、相机模组和尺寸变化，后续最好等更多渲染图或保护壳线索互相验证。",
           "keyPoints": [
             "外观 / 配色 / 尺寸",
             "爆料来源"
@@ -62,22 +83,21 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
-          "id": "auto-fd387134742a",
-          "title": "iPhone 18 Pro 相机升级成本或提高 50%",
+          "id": "auto-d824e404a4e3",
+          "title": "iPhone 发布 / 上市相关消息",
           "originalTitle": "",
-          "source": "MacRumors",
+          "source": "9to5Mac",
           "brand": "iPhone",
           "type": "爆料",
           "trust": "媒体汇总",
-          "date": "2026-05-29",
-          "url": "https://www.macrumors.com/2026/05/29/iphone-18-pros-camera-upgrade-will-cost-more/",
-          "image": "https://images.macrumors.com/article-new/2026/04/iphone-17-pro-black-feature.jpg",
+          "date": "2026-06-01",
+          "url": "https://9to5mac.com/2026/06/01/leaker-reveals-new-iphone-ultra-feature-release-timing-update/",
+          "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/03/iphone-fold-mockup-blue.jpg?quality=82&strip=all&w=1600",
           "verdict": "先看",
-          "takeaway": "传闻 iPhone 18 Pro 相机升级会让苹果零部件成本明显上升，后续要关注是否带来更强影像或价格变化。",
-          "detail": "iPhone 18 Pro 相机升级成本或提高 50%。这类消息通常来自供应链或分析师线索，重点关注是否意味着镜头、光圈、长焦或成本结构发生变化。",
+          "takeaway": "iPhone 有发布或新功能消息，适合确认是否和新机有关。",
+          "detail": "iPhone 发布 / 上市相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
           "keyPoints": [
-            "影像硬件",
-            "成本 / 价格"
+            "爆料来源"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
@@ -170,27 +190,6 @@ window.phoneRadarDaily = {
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "auto-2fb62b893a7e",
-          "title": "华为 nova 16 系列新机重点参数配置差异公布，一表看懂",
-          "originalTitle": "",
-          "source": "IT之家",
-          "brand": "Huawei",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-06-01",
-          "url": "https://www.ithome.com/0/958/319.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/6/49bf4151-25f7-46f8-9e77-5e1b7f184943.jpg?x-bce-process=image/format,f_auto",
-          "verdict": "先看",
-          "takeaway": "IT之家 6 月 1 日消息，华为 nova 16 系列新机已于今日正式发布，新机共四款机型， 定价 2699 元起 。 ▲ IT之家现场实拍：华为 nova 16 系列真机 目前，华为 nova 16 系列新机重点参数配置差异已公布，IT之家汇总如下： 型号 nova 16 nova 16 Pro nova 16 Ultra nova 16z 外观颜色…",
-          "detail": "IT之家 6 月 1 日消息，华为 nova 16 系列新机已于今日正式发布，新机共四款机型， 定价 2699 元起 。 ▲ IT之家现场实拍：华为 nova 16 系列真机 目前，华为 nova 16 系列新机重点参数配置差异已公布，IT之家汇总如下： 型号 nova 16 nova 16 Pro nova 16 Ultra nova 16z 外观颜色…",
-          "keyPoints": [
-            "外观 / 配色 / 尺寸"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         }
       ]
     },
@@ -200,19 +199,19 @@ window.phoneRadarDaily = {
       "hint": "能直接更新到参数库。",
       "items": [
         {
-          "id": "auto-f7bcb14b959f",
-          "title": "发布会一笔带过的“彩蛋”：华为 nova 16 系列手机（含 z）全系支持卫星通信功能",
+          "id": "auto-681249a1532f",
+          "title": "为星闪音频规模化铺路：华为 nova 16 系列手机（含 z）全系支持星闪 E2.0 功能",
           "originalTitle": "",
           "source": "IT之家",
           "brand": "Huawei",
           "type": "爆料",
           "trust": "媒体汇总",
           "date": "2026-06-01",
-          "url": "https://www.ithome.com/0/958/304.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/6/111a1eea-e776-4f6f-a432-0eb3f2d3dd45.jpg?x-bce-process=image/format,f_auto",
+          "url": "https://www.ithome.com/0/958/421.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/6/57e2d6a6-ac8c-43e2-958a-38adc893c715.jpg?x-bce-process=image/format,f_auto",
           "verdict": "先看",
-          "takeaway": "IT之家 6 月 1 日消息，华为 nova 16 系列及全场景新品发布会已落下帷幕。此次发布会的主角 —— nova 16 系列共有四款机型， 定价 2699 元起 。 IT之家注意到，此次发布会上有一个一笔带过的“小彩蛋”—— nova 16 系列手机（含 z）全系支持卫星通信功能 ，标配畅连北斗卫星消息和运营商北斗卫星短信，Ultra 机型“系列独占…",
-          "detail": "IT之家 6 月 1 日消息，华为 nova 16 系列及全场景新品发布会已落下帷幕。此次发布会的主角 —— nova 16 系列共有四款机型， 定价 2699 元起 。 IT之家注意到，此次发布会上有一个一笔带过的“小彩蛋”—— nova 16 系列手机（含 z）全系支持卫星通信功能 ，标配畅连北斗卫星消息和运营商北斗卫星短信，Ultra 机型“系列独占…",
+          "takeaway": "IT之家 6 月 1 日消息，华为 nova 16 系列及全场景新品发布会已落下帷幕。此次发布会的主角 —— nova 16 系列共有四款机型， 定价 2699 元起 。 ▲ IT之家现场实拍：华为 nova 16 系列真机 IT之家注意到，华为 nova 16 系列手机还有其他没有公开的亮点 —— 全系（含 z）支持星闪 E2.0 功能。 这意味着 no…",
+          "detail": "IT之家 6 月 1 日消息，华为 nova 16 系列及全场景新品发布会已落下帷幕。此次发布会的主角 —— nova 16 系列共有四款机型， 定价 2699 元起 。 ▲ IT之家现场实拍：华为 nova 16 系列真机 IT之家注意到，华为 nova 16 系列手机还有其他没有公开的亮点 —— 全系（含 z）支持星闪 E2.0 功能。 这意味着 no…",
           "keyPoints": [
             "爆料"
           ],
@@ -318,27 +317,6 @@ window.phoneRadarDaily = {
       "title": "行业趋势",
       "hint": "看方向，不急着当购买依据。",
       "items": [
-        {
-          "id": "auto-1d4b086ed9ab",
-          "title": "Counterpoint：2026 年智能手机出货量预计同比下降 13.9%，创 2013 年以来新低",
-          "originalTitle": "",
-          "source": "IT之家",
-          "brand": "行业",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-06-01",
-          "url": "https://www.ithome.com/0/958/369.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/6/7e80d00e-7db0-4657-b581-e00fbe15d443.png?x-bce-process=image/format,f_auto",
-          "verdict": "扫一眼",
-          "takeaway": "IT之家 6 月 1 日消息，全球市场调研机构 Counterpoint Research 最新智能手机市场展望追踪报告显示，全球智能手机市场正进入近年来较为明显的调整阶段。 IT之家获悉，2026 年全球智能手机出货量预计将同比下降 13.9%，降至约 10.8 亿部， 创下 2013 年以来的年度新低 ，且下滑幅度已超出今年 2 月预测的 12.4%。…",
-          "detail": "IT之家 6 月 1 日消息，全球市场调研机构 Counterpoint Research 最新智能手机市场展望追踪报告显示，全球智能手机市场正进入近年来较为明显的调整阶段。 IT之家获悉，2026 年全球智能手机出货量预计将同比下降 13.9%，降至约 10.8 亿部， 创下 2013 年以来的年度新低 ，且下滑幅度已超出今年 2 月预测的 12.4%。…",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "中文源可以直接点开快读；看完只保留和购机有关的点。"
-        },
         {
           "id": "auto-c5f3010999d6",
           "title": "Galaxy S26 Ultra fe 折叠屏相关消息",
