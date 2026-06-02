@@ -1,18 +1,18 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-06-02T05:00:14.951Z",
+  "updatedAt": "2026-06-02T10:54:43.949Z",
   "news": [
     {
-      "id": "auto-d79baaa8e5c9",
-      "title": "消息称 OPPO ColorOS 17 融入更多类液态玻璃 UI，苹果风格加倍",
+      "id": "auto-a6b9c817b8b6",
+      "title": "OPPO 中端新机曝光：9700mAh 单电芯 + 1.5K 直屏，定位 2000 元档",
       "source": "IT之家",
       "brand": "OPPO",
       "model": "OPPO 相关机型",
       "type": "爆料",
       "trust": "媒体汇总",
       "date": "2026-06-02",
-      "url": "https://www.ithome.com/0/958/649.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/6/5ad22027-b8bc-4a18-a9fb-b69234e01a88.jpg?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 6 月 2 日消息，博主 @数码闲聊站 发文，透露“自己有一个朋友”，这个“朋友”称 ColorOS 17 融入了更多类液态玻璃 UI，引入更和谐的圆角设计，更多光场渲染，通知弹窗 / 灵动岛 / 音乐播放场景都加了实时光效，苹果风格加倍。 另参考IT之家先前报道，有消息称 OPPO 将效仿苹果 20 周年纪念版 iPhone， 提前推出一款类似…",
+      "url": "https://www.ithome.com/0/958/828.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/6/0af57d84-b875-40f2-a668-dd34ed56e342.jpg?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 6 月 2 日消息，微博博主 @数码闲聊站 今日爆料，OPPO 正在测试一款定位中端的新机型，主打超长续航能力。 据他介绍，该机型采用单电芯设计，额定容量为 9700mAh，典型值预计在 10000mAh 左右，即进入“万级大电池”范畴。 早在 2025 年 11 月，该博主就曾透露欧加集团（OPPO、一加、realme）一款超大单电芯进入试产阶…",
       "tags": [
         "OPPO",
         "爆料",
@@ -20,71 +20,53 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-36174eef4295",
-      "title": "多家地方性银行推出微信提现手续费补贴活动，争夺用户零钱存款",
+      "id": "auto-1017724bce03",
+      "title": "曝华为鸿蒙 HarmonyOS 系统《王者荣耀》实况窗复活倒计时功能预计月底支持",
       "source": "IT之家",
-      "brand": "行业",
-      "model": "智能手机市场",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
       "type": "爆料",
       "trust": "媒体汇总",
       "date": "2026-06-02",
-      "url": "https://www.ithome.com/0/958/632.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/6/2d4cbe58-97fb-41ea-a109-7722d331722e.jpg?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 6 月 2 日消息，据界面新闻今日报道，多家银行近日宣布推出微信提现补贴活动。 广西农商联合银行介绍，活动期间，储蓄卡持卡人访问“微信支付提现笔笔省”小程序，有机会随机领取 1666 元、6666 元额度的广西农商专属提现券， 持卡人将微信零钱提现至该行储蓄卡时可抵扣相应额度的提现服务费 。 衡南农商银行表示，在该行手机银行成功签约微信提现手续费…",
+      "url": "https://www.ithome.com/0/958/790.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/6/166a410e-3ff0-41dd-a9c7-e749e1a18f06.jpg?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 6 月 2 日消息，据博主 @熠熠玩数码 今日透露，华为鸿蒙 HarmonyOS 系统的《王者荣耀》实况窗功能 预计这个月底版本支持 。 IT之家注：实况窗是华为推出的类似苹果 iOS 实时活动的功能，支持实时显示应用当前重要状态信息等。在去年 6 月的华为 Pura 80 系列及全场景新品发布会上，鸿蒙系统的全新实况窗（取消了此前位于手机左上角…",
       "tags": [
-        "行业",
+        "HONOR",
         "爆料",
         "自动抓取"
       ]
     },
     {
-      "id": "auto-54c8d4cbdc3c",
-      "title": "思特威推出 2 亿像素手机 CMOS 图像传感器 SCC62HS，预计 Q3 量产",
-      "source": "IT之家",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
+      "id": "auto-e0e7275d2d3c",
+      "title": "在视频时代，认真拍一张照片：OPPO Find X9 Ultra 影像漫谈",
+      "source": "少数派",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
+      "type": "评测",
       "trust": "媒体汇总",
       "date": "2026-06-02",
-      "url": "https://www.ithome.com/0/958/559.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/6/c7952d4b-f281-4e7c-bd4f-fe8e91d9a9cd.png?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 6 月 2 日消息，CMOS 图像传感器供应商思特威（SmartSens）推出了 2 亿像素 0.5μm 像素尺寸手机应用 CMOS 图像传感器 ——SCC62HS。 据介绍，SCC62HS 基于思特威 SmartClarity-SL 技术平台打造，采用 55nm Stacked BSI 工艺制程，并搭载思特威专利 PixGain HDR、SFC…",
+      "url": "https://sspai.com/post/110550",
+      "image": "",
+      "summary": "HDR 为静态图像的观看体验打开了一种新的可能。",
       "tags": [
-        "行业",
-        "爆料",
+        "OPPO",
+        "评测",
         "自动抓取"
       ]
     },
     {
-      "id": "auto-885d824efe52",
-      "title": "小米 17T Pro 手机官宣支持跨平台互通，兼容苹果隔空投送",
-      "source": "IT之家",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-02",
-      "url": "https://www.ithome.com/0/958/551.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/6/7cdf02e8-393c-4462-a427-b7f364595c7c.jpg?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 6 月 2 日消息，小米 @XiaomiHyperOS_ 昨日在 X 平台发布推文，分享了一段视频，在小米 17T Pro 手机上通过 Quick Share， 可以兼容隔空投送（AirDrop）内容到苹果 iPhone 17 上。 IT之家昨日报道，小米手机官方宣布， 全新小米 17T 系列手机国行将于 6 月 8 日正式发布 ，包含小米 17…",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-39fdc5e4bf83",
-      "title": "消息称苹果 iPhone 18 Pro 国行版打样电池容量约 4056mAh，美版机型约 4288mAh",
-      "source": "IT之家",
+      "id": "auto-d11402858eb8",
+      "title": "iPhone 18 Pro Battery Capacities Allegedly Leaked",
+      "source": "MacRumors",
       "brand": "iPhone",
       "model": "iPhone 相关机型",
       "type": "爆料",
       "trust": "媒体汇总",
       "date": "2026-06-02",
-      "url": "https://www.ithome.com/0/958/498.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/6/4eb56662-6754-46ca-94cd-8251766f0651.jpg?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 6 月 2 日消息，博主 @数码闲聊站 发文，透露苹果 iPhone 18 Pro 国行版打样电池容量约 4056mAh，美版打样电池容量约 4288mAh，而 Pro Max 电池容量“挤到五字头”。 该博主同时表示，苹果 iPhone 18 Pro 这代硬件加大电池，升级 2nm A20 Pro 处理器，同时引入 48Mp 可变光圈，原则上也…",
+      "url": "https://www.macrumors.com/2026/06/02/iphone-18-pro-battery-capacities-allegedly-leaked/",
+      "image": "https://images.macrumors.com/article-new/2026/01/Dynamic-Island-iPhone-18-Pro-Feature.jpg",
+      "summary": "Battery capacities for Apple's upcoming iPhone 18 Pro have allegedly surfaced, and the numbers suggest only a modest increase over the iPhone 17 Pro. According to prolific Weibo-b…",
       "tags": [
         "iPhone",
         "爆料",
@@ -105,6 +87,78 @@ window.phoneRadarAuto = {
       "summary": "A new Counterpoint Research report shows Apple saw iPhone shipments grow 8% year over year in Latin America during Q1 2026. Here are the details. more…",
       "tags": [
         "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-eea5e1d8e739",
+      "title": "New Galaxy Z Fold 8 Wide leak: Lighter design with better battery specs",
+      "source": "SamMobile",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-02",
+      "url": "https://www.sammobile.com/news/new-galaxy-z-fold-8-wide-leak-lighter-design-with-better-battery-specs/",
+      "image": "",
+      "summary": "Many Samsung fans and mobile tech enthusiasts in general are looking forward to the upcoming Galaxy Z Fold 8 Wide. For some, it's an intriguing new form factor and experiment, whi…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-65c4c19bdfbf",
+      "title": "Here’s how Galaxy Z Fold 8, Fold 8 Ultra look compared to each other",
+      "source": "SamMobile",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-02",
+      "url": "https://www.sammobile.com/news/heres-how-galaxy-z-fold-8-fold-8-ultra-look-compared-each-other/",
+      "image": "https://www.sammobile.com/wp-content/uploads/2026/06/Samsung-Galaxy-Z-Fold-8-And-Galaxy-Z-Fold-8-Ultra-Dummy-Units.jpeg",
+      "summary": "Samsung is expected to launch two flagship smartphones with book-style foldable displays next month, the Galaxy Z Fold 8 and the Galaxy Z Fold 8 Ultra. Leaks about them have alrea…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-bca1dcb228e3",
+      "title": "Global Oppo Reno 16 Pro, Reno 16, Reno 16 FS specifications and renders leaked",
+      "source": "Gizmochina",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-02",
+      "url": "https://www.gizmochina.com/2026/06/02/global-oppo-reno-16-series-specifications-renders-leake/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/06/Oppo-Reno-16-series-images-global-300x168.png?x10805",
+      "summary": "Last month, Oppo unveiled the Reno 16 and Reno 16 Pro in China. Around the same time, the global versions of these devices were spotted on multiple certification platforms across…",
+      "tags": [
+        "OPPO",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-4f530b80e24b",
+      "title": "Xiaomi 17T Pro joins the list with Google’s AirDrop-to-Quick Share file sharing",
+      "source": "Gizmochina",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-02",
+      "url": "https://www.gizmochina.com/2026/06/02/xiaomi-17t-pro-joins-the-list-with-googles-airdrop-to-quick-share-file-sharing/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/05/Xiaomi-17T-and-17T-Pro-1-300x169.jpg?x10805",
+      "summary": "The list of Android phones that can exchange files more easily with iPhones is still fairly short, but it is slowly growing. The recently launched Xiaomi 17T Pro has joined that l…",
+      "tags": [
+        "Xiaomi",
         "爆料",
         "自动抓取"
       ]
@@ -177,6 +231,60 @@ window.phoneRadarAuto = {
       "summary": "The iPhone 18 Pro has been making multiple headlines over the past few days. Its dummy units recently surfaced in four colors, including a new dark red option, while the device is…",
       "tags": [
         "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-a8dff221d338",
+      "title": "Huawei Mate X8 to adopt surprising design and hinge upgrades",
+      "source": "Huawei Central",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-02",
+      "url": "https://www.huaweicentral.com/huawei-mate-x8-design-and-hinge-upgrades/",
+      "image": "https://www.huaweicentral.com/wp-content/uploads/2026/06/mate-x8-img.jpg",
+      "summary": "Huawei Mate X8 will likely debut alongside the Mate 90 smartphones this year, and the flagship foldable is expected to undergo surprising design and hinge upgrades. The company ca…",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-4bafd1754434",
+      "title": "Huawei Mate 90 series sales date came into spotlight",
+      "source": "Huawei Central",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-02",
+      "url": "https://www.huaweicentral.com/huawei-mate-90-series-sales-date-came-into-spotlight/",
+      "image": "https://www.huaweicentral.com/wp-content/uploads/2026/06/Mate-90-series-leak.jpg",
+      "summary": "June 2026 is here, and news regarding the Huawei Mate 90 series launch + sales date continues to emerge online. Here’s another piece of information that claims to reveal when the…",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-a1d7115ea208",
+      "title": "Galaxy Z Fold 8 and Fold 8 Ultra dummies pose for the camera again, this time folded up",
+      "source": "Android Authority",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-02",
+      "url": "https://www.androidauthority.com/galaxy-z-fold-8-ultra-dummies-3673328/",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2025/07/Samsung-Galaxy-Z-Fold-7-Z-Flip-7-4-2.jpg",
+      "summary": "New leak lines up Galaxy Z Fold and Fold 8 Ultra side by side, once again.",
+      "tags": [
+        "Samsung",
         "爆料",
         "自动抓取"
       ]
@@ -429,78 +537,6 @@ window.phoneRadarAuto = {
       "summary": "MediaTek’s new Dimensity 7500 has finally shown up in Geekbench, giving us a rough idea of what kind of performance buyers can expect from the chip. The benchmark was recorded on…",
       "tags": [
         "vivo",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-92716328d69b",
-      "title": "Galaxy Z Fold 8 spotted in real life months ahead of launch",
-      "source": "Gizmochina",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-05-31",
-      "url": "https://www.gizmochina.com/2026/05/31/galaxy-z-fold-8-spotted-in-real-life-months-ahead-of-launch/",
-      "image": "https://www.gizmochina.com/wp-content/uploads/2026/05/1780156802-300x169.jpg?x10805",
-      "summary": "Someone may have already been carrying one of Samsung‘s next foldables around in public. A pair of blurry photos shared on a Korean online forum appear to show what could be the G…",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-a8698dfe0b87",
-      "title": "OnePlus Ace 6 Ultra vs OnePlus Ace 6: Are the Upgrades Really Worth the Extra Money?",
-      "source": "Gizmochina",
-      "brand": "OPPO",
-      "model": "OPPO 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-05-31",
-      "url": "https://www.gizmochina.com/2026/05/31/oneplus-ace-6-ultra-vs-oneplus-ace-6/",
-      "image": "https://www.gizmochina.com/wp-content/uploads/2026/05/image-189-300x196.png?x10805",
-      "summary": "OnePlus Ace 6 Ultra and OnePlus Ace 6 may look similar at first glance, but they target two very different buyers. One focuses on delivering the latest hardware, a larger camera s…",
-      "tags": [
-        "OPPO",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-013c61e5a517",
-      "title": "Honor 600 Pro vs Xiaomi 17 Comparison: Specs, Camera, Battery & Price",
-      "source": "Gizmochina",
-      "brand": "HONOR",
-      "model": "HONOR 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-05-31",
-      "url": "https://www.gizmochina.com/2026/05/31/honor-600-pro-vs-xiaomi-17/",
-      "image": "https://www.gizmochina.com/wp-content/uploads/2026/05/image-188-300x191.png?x10805",
-      "summary": "Honor 600 Pro and Xiaomi 17 represent two very different approaches to the flagship smartphone market. One focuses on delivering maximum value with a huge battery and premium feat…",
-      "tags": [
-        "HONOR",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-1b60288f4ecc",
-      "title": "Honor 600 vs Honor 600 Pro: Flagship Upgrades or Money Wasted?",
-      "source": "Gizmochina",
-      "brand": "HONOR",
-      "model": "HONOR 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-05-31",
-      "url": "https://www.gizmochina.com/2026/05/31/honor-600-vs-honor-600-pro/",
-      "image": "https://www.gizmochina.com/wp-content/uploads/2026/05/image-187-300x198.png?x10805",
-      "summary": "Honor 600 and Honor 600 Pro may look nearly identical on paper, but they target very different buyers. While both phones share the same premium display, massive battery, and 200MP…",
-      "tags": [
-        "HONOR",
         "爆料",
         "自动抓取"
       ]

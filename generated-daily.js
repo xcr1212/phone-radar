@@ -1,11 +1,11 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-06-02T05:00:14.951Z",
+  "updatedAt": "2026-06-02T10:54:43.949Z",
   "issueDate": "2026-06-02",
   "issue": "VOL.260602",
   "title": "手机情报日报",
-  "intro": "今日筛出 15 条重点，其中 8 条是重点爆料，包含 8 条 iPhone 相关、1 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 13 条重点，其中 8 条是重点爆料，包含 8 条 iPhone 相关、1 条官方确认、0 条参数线索。",
   "stats": {
-    "total": 15,
+    "total": 13,
     "iphone": 8,
     "leaks": 8,
     "official": 1,
@@ -17,30 +17,6 @@ window.phoneRadarDaily = {
       "title": "重点爆料",
       "hint": "机模、配色、影像、屏幕、电池和芯片线索先看。",
       "items": [
-        {
-          "id": "auto-39fdc5e4bf83",
-          "title": "消息称苹果 iPhone 18 Pro 国行版打样电池容量约 4056mAh，美版机型约 4288mAh",
-          "originalTitle": "",
-          "source": "IT之家",
-          "brand": "iPhone",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-06-02",
-          "url": "https://www.ithome.com/0/958/498.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/6/4eb56662-6754-46ca-94cd-8251766f0651.jpg?x-bce-process=image/format,f_auto",
-          "verdict": "先看",
-          "takeaway": "IT之家 6 月 2 日消息，博主 @数码闲聊站 发文，透露苹果 iPhone 18 Pro 国行版打样电池容量约 4056mAh，美版打样电池容量约 4288mAh，而 Pro Max 电池容量“挤到五字头”。 该博主同时表示，苹果 iPhone 18 Pro 这代硬件加大电池，升级 2nm A20 Pro 处理器，同时引入 48Mp 可变光圈，原则上也…",
-          "detail": "IT之家 6 月 2 日消息，博主 @数码闲聊站 发文，透露苹果 iPhone 18 Pro 国行版打样电池容量约 4056mAh，美版打样电池容量约 4288mAh，而 Pro Max 电池容量“挤到五字头”。 该博主同时表示，苹果 iPhone 18 Pro 这代硬件加大电池，升级 2nm A20 Pro 处理器，同时引入 48Mp 可变光圈，原则上也…",
-          "keyPoints": [
-            "影像硬件",
-            "电池 / 充电",
-            "芯片 / 性能",
-            "爆料来源"
-          ],
-          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
         {
           "id": "auto-472c287842f5",
           "title": "iPhone 相关消息",
@@ -100,6 +76,28 @@ window.phoneRadarDaily = {
           "detail": "iPhone 18 Pro 机模 / 配色信息曝光。来源提到未发布机型的机模/配色图，适合先判断外观方向、颜色变化和机身轮廓，但最终量产版本仍可能调整。",
           "keyPoints": [
             "外观 / 配色 / 尺寸"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "auto-d11402858eb8",
+          "title": "iPhone 18 Pro 电池 / 充电相关消息",
+          "originalTitle": "",
+          "source": "MacRumors",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-06-02",
+          "url": "https://www.macrumors.com/2026/06/02/iphone-18-pro-battery-capacities-allegedly-leaked/",
+          "image": "https://images.macrumors.com/article-new/2026/01/Dynamic-Island-iPhone-18-Pro-Feature.jpg",
+          "verdict": "先看",
+          "takeaway": "iPhone 18 Pro 电池 / 充电相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
+          "detail": "iPhone 18 Pro 电池 / 充电相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
+          "keyPoints": [
+            "电池 / 充电",
+            "爆料来源"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
@@ -221,6 +219,27 @@ window.phoneRadarDaily = {
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         },
         {
+          "id": "auto-4f530b80e24b",
+          "title": "Xiaomi 系统功能 / AI 体验相关消息",
+          "originalTitle": "",
+          "source": "Gizmochina",
+          "brand": "Xiaomi",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-06-02",
+          "url": "https://www.gizmochina.com/2026/06/02/xiaomi-17t-pro-joins-the-list-with-googles-airdrop-to-quick-share-file-sharing/",
+          "image": "https://www.gizmochina.com/wp-content/uploads/2026/05/Xiaomi-17T-and-17T-Pro-1-300x169.jpg?x10805",
+          "verdict": "可略过",
+          "takeaway": "Xiaomi 有系统功能或 AI 体验更新，适合关注后续是否影响日常使用。",
+          "detail": "Xiaomi 系统功能 / AI 体验相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        },
+        {
           "id": "auto-f9f06668a598",
           "title": "Xiaomi 影像能力相关消息",
           "originalTitle": "",
@@ -291,79 +310,6 @@ window.phoneRadarDaily = {
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是实际体验内容，买前适合重点看缺点和取舍。",
           "action": "中文源可以直接点开快读；看完只保留和购机有关的点。"
-        }
-      ]
-    },
-    {
-      "id": "market",
-      "title": "行业趋势",
-      "hint": "看方向，不急着当购买依据。",
-      "items": [
-        {
-          "id": "auto-a8698dfe0b87",
-          "title": "OnePlus Ace 6 Ultra 对比 OnePlus Ace 6：差异整理",
-          "originalTitle": "",
-          "source": "Gizmochina",
-          "brand": "OPPO",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-05-31",
-          "url": "https://www.gizmochina.com/2026/05/31/oneplus-ace-6-ultra-vs-oneplus-ace-6/",
-          "image": "https://www.gizmochina.com/wp-content/uploads/2026/05/image-189-300x196.png?x10805",
-          "verdict": "可略过",
-          "takeaway": "OnePlus Ace 6 Ultra 对比 OnePlus Ace 6：重点看定位、配置差异和价格差，判断是否值得等更高端型号。",
-          "detail": "OnePlus Ace 6 Ultra 对比 OnePlus Ace 6 的差异整理。重点看两款机型的定位、影像规格、屏幕尺寸、价格区间和发布时间是否拉开差距。",
-          "keyPoints": [
-            "影像硬件"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "影响拍照体验，买旗舰机时值得关注。",
-          "action": "有具体参数就记录到参数库；没有参数就先收藏。"
-        },
-        {
-          "id": "auto-013c61e5a517",
-          "title": "Honor 600 Pro 对比 Xiaomi 17 Comparison：差异整理",
-          "originalTitle": "",
-          "source": "Gizmochina",
-          "brand": "HONOR",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-05-31",
-          "url": "https://www.gizmochina.com/2026/05/31/honor-600-pro-vs-xiaomi-17/",
-          "image": "https://www.gizmochina.com/wp-content/uploads/2026/05/image-188-300x191.png?x10805",
-          "verdict": "可略过",
-          "takeaway": "Honor 600 Pro 对比 Xiaomi 17 Comparison：重点看定位、配置差异和价格差，判断是否值得等更高端型号。",
-          "detail": "Honor 600 Pro 对比 Xiaomi 17 Comparison 的差异整理。重点看两款机型的定位、影像规格、屏幕尺寸、价格区间和发布时间是否拉开差距。",
-          "keyPoints": [
-            "影像硬件",
-            "电池 / 充电",
-            "成本 / 价格"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "影响购买预算，值得先看。",
-          "action": "有具体参数就记录到参数库；没有参数就先收藏。"
-        },
-        {
-          "id": "auto-1b60288f4ecc",
-          "title": "Honor 600 对比 Honor 600 Pro：差异整理",
-          "originalTitle": "",
-          "source": "Gizmochina",
-          "brand": "HONOR",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-05-31",
-          "url": "https://www.gizmochina.com/2026/05/31/honor-600-vs-honor-600-pro/",
-          "image": "https://www.gizmochina.com/wp-content/uploads/2026/05/image-187-300x198.png?x10805",
-          "verdict": "可略过",
-          "takeaway": "Honor 600 对比 Honor 600 Pro：重点看定位、配置差异和价格差，判断是否值得等更高端型号。",
-          "detail": "Honor 600 对比 Honor 600 Pro 的差异整理。重点看两款机型的定位、影像规格、屏幕尺寸、价格区间和发布时间是否拉开差距。",
-          "keyPoints": [
-            "屏幕形态",
-            "电池 / 充电"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "影响日常体验，尤其是游戏、拍照和长时间使用。",
-          "action": "有具体参数就记录到参数库；没有参数就先收藏。"
         }
       ]
     }
