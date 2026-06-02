@@ -1,12 +1,12 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-06-02T14:30:50.013Z",
+  "updatedAt": "2026-06-02T16:55:20.524Z",
   "issueDate": "2026-06-02",
   "issue": "VOL.260602",
   "title": "手机情报日报",
-  "intro": "今日筛出 13 条重点，其中 8 条是重点爆料，包含 8 条 iPhone 相关、0 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 14 条重点，其中 8 条是重点爆料，包含 6 条 iPhone 相关、0 条官方确认、0 条参数线索。",
   "stats": {
-    "total": 13,
-    "iphone": 8,
+    "total": 14,
+    "iphone": 6,
     "leaks": 8,
     "official": 0,
     "specs": 0
@@ -26,7 +26,7 @@ window.phoneRadarDaily = {
           "type": "爆料",
           "trust": "媒体汇总",
           "date": "2026-06-02",
-          "time": "10:46",
+          "time": "02:46",
           "publishedAt": "2026-06-02T02:46:01.000Z",
           "url": "https://www.gizmochina.com/2026/06/02/iphone-18-pro-battery-size-china-vs-global/",
           "image": "https://www.gizmochina.com/wp-content/uploads/2026/05/iPhone-18-Pro-series-AI-generated-render-300x169.png?x10805",
@@ -41,30 +41,6 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
-          "id": "auto-60021047e3eb",
-          "title": "iPhone 机模 / 配色信息曝光",
-          "originalTitle": "",
-          "source": "MacRumors",
-          "brand": "iPhone",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-06-01",
-          "time": "19:39",
-          "publishedAt": "2026-06-01T11:39:16.000Z",
-          "url": "https://www.macrumors.com/2026/06/01/first-confirmed-iphone-ultra-color-leaked/",
-          "image": "https://images.macrumors.com/article-new/2026/06/iphone-fold-ultra-leak@2x-scaled.jpg",
-          "verdict": "先看",
-          "takeaway": "iPhone 机模 / 配色信息曝光。已转成中文摘要展示，详细内容可打开原文核对。",
-          "detail": "iPhone 机模 / 配色信息曝光。来源提到未发布机型的机模/配色图，适合先判断外观方向、颜色变化和机身轮廓，但最终量产版本仍可能调整。",
-          "keyPoints": [
-            "外观 / 配色 / 尺寸",
-            "爆料来源"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
           "id": "auto-3e2e8e2ef57e",
           "title": "iPhone 折叠屏相关消息",
           "originalTitle": "",
@@ -73,7 +49,7 @@ window.phoneRadarDaily = {
           "type": "爆料",
           "trust": "媒体汇总",
           "date": "2026-06-02",
-          "time": "20:46",
+          "time": "12:46",
           "publishedAt": "2026-06-02T12:46:44.000Z",
           "url": "https://www.macrumors.com/2026/06/02/foldable-iphone-will-feature-liquid-metal-hinge/",
           "image": "https://images.macrumors.com/article-new/2025/08/Apple-Foldable-Thumb.jpg",
@@ -96,7 +72,7 @@ window.phoneRadarDaily = {
           "type": "爆料",
           "trust": "媒体汇总",
           "date": "2026-06-02",
-          "time": "19:18",
+          "time": "11:18",
           "publishedAt": "2026-06-02T11:18:16.000Z",
           "url": "https://9to5mac.com/2026/06/02/iphone-18-pro-battery-capacity-could-offer-far-more-modest-gains-this-year/",
           "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/02/iphone-18-pro-mockup.jpg?quality=82&strip=all&w=1600",
@@ -120,7 +96,7 @@ window.phoneRadarDaily = {
           "type": "爆料",
           "trust": "媒体汇总",
           "date": "2026-06-01",
-          "time": "23:51",
+          "time": "15:51",
           "publishedAt": "2026-06-01T15:51:13.000Z",
           "url": "https://9to5mac.com/2026/06/01/leaker-reveals-new-iphone-ultra-feature-release-timing-update/",
           "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/03/iphone-fold-mockup-blue.jpg?quality=82&strip=all&w=1600",
@@ -135,24 +111,23 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
-          "id": "auto-6719b0828ee1",
-          "title": "iPhone 外观设计线索曝光",
+          "id": "auto-aec8dcdff3d1",
+          "title": "iPhone 机模 / 配色信息曝光",
           "originalTitle": "",
-          "source": "MacRumors",
+          "source": "9to5Mac",
           "brand": "iPhone",
           "type": "爆料",
           "trust": "媒体汇总",
           "date": "2026-06-01",
-          "time": "23:13",
-          "publishedAt": "2026-06-01T15:13:12.000Z",
-          "url": "https://www.macrumors.com/2026/06/01/foldable-iphone-rumored-to-feature-vapor-chamber/",
-          "image": "https://images.macrumors.com/article-new/2026/06/Vapor-Chamber-Plate.jpg",
+          "time": "12:41",
+          "publishedAt": "2026-06-01T12:41:25.000Z",
+          "url": "https://9to5mac.com/2026/06/01/dummy-model-shows-how-the-iphone-ultra-may-look-in-white/",
+          "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/Dummy-model-shows-how-the-iPhone-Ultra-may-look-in-white.jpg?quality=82&strip=all&w=1400",
           "verdict": "先看",
-          "takeaway": "iPhone 外观设计线索曝光。重点看外观、颜色、尺寸是否和上一代有明显变化。",
-          "detail": "iPhone 外观设计线索曝光。这类内容主要看外观设计、按键布局、相机模组和尺寸变化，后续最好等更多渲染图或保护壳线索互相验证。",
+          "takeaway": "iPhone 机模 / 配色信息曝光。重点看外观、颜色、尺寸是否和上一代有明显变化。",
+          "detail": "iPhone 机模 / 配色信息曝光。来源提到未发布机型的机模/配色图，适合先判断外观方向、颜色变化和机身轮廓，但最终量产版本仍可能调整。",
           "keyPoints": [
-            "外观 / 配色 / 尺寸",
-            "爆料来源"
+            "外观 / 配色 / 尺寸"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
@@ -167,7 +142,7 @@ window.phoneRadarDaily = {
           "type": "爆料",
           "trust": "媒体汇总",
           "date": "2026-06-02",
-          "time": "22:17",
+          "time": "14:17",
           "publishedAt": "2026-06-02T14:17:02.000Z",
           "url": "https://www.ithome.com/0/958/983.htm",
           "image": "https://img.ithome.com/newsuploadfiles/2026/6/1d6e755a-d5d7-4380-82b7-7c1391aae2cb.jpg?x-bce-process=image/format,f_auto",
@@ -190,7 +165,7 @@ window.phoneRadarDaily = {
           "type": "爆料",
           "trust": "媒体汇总",
           "date": "2026-06-02",
-          "time": "22:04",
+          "time": "14:04",
           "publishedAt": "2026-06-02T14:04:43.000Z",
           "url": "https://www.ithome.com/0/958/980.htm",
           "image": "https://img.ithome.com/newsuploadfiles/2026/6/e4d8c07b-d958-405e-b53d-f9a6f327caa3.jpg?x-bce-process=image/format,f_auto",
@@ -200,6 +175,31 @@ window.phoneRadarDaily = {
           "keyPoints": [
             "屏幕形态",
             "芯片 / 性能"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "auto-6a1837e9f5a1",
+          "title": "消息称三星 Galaxy Z Fold 8 折叠屏手机重 201 克，4800mAh 电池 +45W 快充",
+          "originalTitle": "",
+          "source": "IT之家",
+          "brand": "Samsung",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-06-02",
+          "time": "13:30",
+          "publishedAt": "2026-06-02T13:30:33.000Z",
+          "url": "https://www.ithome.com/0/958/966.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/6/bf71028e-d185-4ae0-b2e2-888755e6bb4c.jpg?x-bce-process=image/format,f_auto",
+          "verdict": "先看",
+          "takeaway": "IT之家 6 月 2 日消息，过去一周，三星 Galaxy Z Fold 8 和 Galaxy Z Fold 8 Ultra 接连出现大量爆料。据悉，机身更宽的“阔折叠”新机将命名为 Galaxy Z Fold 8，而用户熟悉的标准 Fold 形态将改名为 Galaxy Z Fold 8 Ultra。 博主“i 冰宇宙”今天带来了新机的更多信息：Galax…",
+          "detail": "IT之家 6 月 2 日消息，过去一周，三星 Galaxy Z Fold 8 和 Galaxy Z Fold 8 Ultra 接连出现大量爆料。据悉，机身更宽的“阔折叠”新机将命名为 Galaxy Z Fold 8，而用户熟悉的标准 Fold 形态将改名为 Galaxy Z Fold 8 Ultra。 博主“i 冰宇宙”今天带来了新机的更多信息：Galax…",
+          "keyPoints": [
+            "屏幕形态",
+            "电池 / 充电",
+            "爆料来源"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
@@ -234,29 +234,6 @@ window.phoneRadarDaily = {
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
-        {
-          "id": "newsnow-36c34df5f52a",
-          "title": "一日一技｜为什么你应该关闭 iOS 的键盘声音",
-          "originalTitle": "",
-          "source": "少数派热榜",
-          "brand": "iPhone",
-          "type": "评测",
-          "trust": "媒体汇总",
-          "date": "2026-06-02",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://sspai.com/post/109460",
-          "image": "",
-          "verdict": "扫一眼",
-          "takeaway": "一日一技｜为什么你应该关闭 iOS 的键盘声音",
-          "detail": "一日一技｜为什么你应该关闭 iOS 的键盘声音",
-          "keyPoints": [
-            "评测"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是实际体验内容，买前适合重点看缺点和取舍。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         }
       ]
     },
@@ -265,6 +242,29 @@ window.phoneRadarDaily = {
       "title": "新机与官方发布",
       "hint": "能直接更新到参数库。",
       "items": [
+        {
+          "id": "auto-2b2835fb43f6",
+          "title": "华为 nova 16 系列手机星闪能力公布，Pro / Ultra 还能连手写笔",
+          "originalTitle": "",
+          "source": "IT之家",
+          "brand": "Huawei",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-06-02",
+          "time": "14:48",
+          "publishedAt": "2026-06-02T14:48:35.000Z",
+          "url": "https://www.ithome.com/0/958/992.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/6/49bf4151-25f7-46f8-9e77-5e1b7f184943.jpg?x-bce-process=image/format,f_auto",
+          "verdict": "先看",
+          "takeaway": "IT之家 6 月 2 日消息，华为 nova 16 系列新机已于昨日正式发布，新机共四款机型， 全系支持星闪 E2.0 ，定价 2699 元起。 IT之家注意到，目前华为官网已公开 nova 16 系列手机星闪能力具体支持情况： 华为 nova 16 系列手机星闪支持情况 产品类型 产品系列 产品型号 星闪 星闪音频 星闪车钥匙 星闪精确查找 连接支持星闪…",
+          "detail": "IT之家 6 月 2 日消息，华为 nova 16 系列新机已于昨日正式发布，新机共四款机型， 全系支持星闪 E2.0 ，定价 2699 元起。 IT之家注意到，目前华为官网已公开 nova 16 系列手机星闪能力具体支持情况： 华为 nova 16 系列手机星闪支持情况 产品类型 产品系列 产品型号 星闪 星闪音频 星闪车钥匙 星闪精确查找 连接支持星闪…",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "中文源可以直接点开快读；看完只保留和购机有关的点。"
+        },
         {
           "id": "newsnow-c60bd69dc082",
           "title": "vivo S60系列发布：2899元起",
@@ -297,7 +297,7 @@ window.phoneRadarDaily = {
           "type": "爆料",
           "trust": "高可信爆料",
           "date": "2026-06-01",
-          "time": "15:32",
+          "time": "07:32",
           "publishedAt": "2026-06-01T07:32:01.000Z",
           "url": "https://www.coolapk.com/feed/72099577",
           "image": "http://image.coolapk.com/feed/2026/0601/15/4702274_6d9e5ab4_9119_6509_693@2160x2880.jpg",
@@ -334,6 +334,29 @@ window.phoneRadarDaily = {
           "verdict": "先看",
           "takeaway": "以旧换新入了，用了别的手机才知道小米的更好用[流泪]",
           "detail": "以旧换新入了，用了别的手机才知道小米的更好用[流泪]",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        },
+        {
+          "id": "newsnow-8b8c09069854",
+          "title": "兄弟们新手机到了 要不要更新系统 这是我目前用过最流畅的米系手机了",
+          "originalTitle": "",
+          "source": "酷安热榜",
+          "brand": "行业",
+          "type": "爆料",
+          "trust": "高关注爆料源",
+          "date": "2026-06-02",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://www.coolapk.com/feed/72106764",
+          "image": "",
+          "verdict": "扫一眼",
+          "takeaway": "兄弟们新手机到了 要不要更新系统 这是我目前用过最流畅的米系手机了",
+          "detail": "兄弟们新手机到了 要不要更新系统 这是我目前用过最流畅的米系手机了",
           "keyPoints": [
             "爆料"
           ],
