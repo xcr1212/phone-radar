@@ -1,5 +1,5 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-06-02T14:35:31.826Z",
+  "updatedAt": "2026-06-02T14:30:50.013Z",
   "news": [
     {
       "id": "auto-bb79ce24cf84",
@@ -718,6 +718,26 @@ window.phoneRadarAuto = {
       "tags": [
         "iPhone",
         "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-293daa52e193",
+      "title": "Galaxy Z Fold 8 leak pits Samsung’s wider foldable against the rumored Ultra",
+      "source": "Android Central",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-06-01",
+      "time": "17:05",
+      "publishedAt": "2026-06-01T09:05:00.000Z",
+      "url": "https://www.androidcentral.com/phones/samsung-galaxy/galaxy-z-fold-8-leak-pits-samsungs-wider-foldable-against-the-rumored-ultra",
+      "image": "https://cdn.mos.cms.futurecdn.net/wm367SscxJD8YYmy6CRhpP-1280-80.jpg",
+      "summary": "Leaks confirm Samsung is giving the base Fold 8 a much-needed wider screen, but bizarrely reserving the old, cramped design for the camera-heavy Ultra model.",
+      "tags": [
+        "Samsung",
+        "评测",
         "自动抓取"
       ]
     },
