@@ -1,5 +1,7 @@
 dist/
 node_modules/
+grabbed-specs/
+grabbed-specs-test/
 .env
 *.log
 npm-debug.log*

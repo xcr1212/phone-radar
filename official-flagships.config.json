@@ -1,0 +1,52 @@
+{
+  "sources": [
+    {
+      "brand": "iPhone",
+      "model": "iPhone 17 Pro Max",
+      "source": "Apple 中国官网",
+      "url": "https://www.apple.com.cn/iphone-17-pro/specs/"
+    },
+    {
+      "brand": "Xiaomi",
+      "model": "Xiaomi 17 Ultra",
+      "source": "小米官网",
+      "url": "https://www.mi.com/prod/xiaomi-17-ultra/specs"
+    },
+    {
+      "brand": "Huawei",
+      "model": "HUAWEI Mate 80",
+      "source": "华为官网",
+      "url": "https://consumer.huawei.com/cn/phones/mate80/specs/"
+    },
+    {
+      "brand": "OPPO",
+      "model": "OPPO Find X9 Pro",
+      "source": "OPPO 官网",
+      "url": "https://www.oppo.com/cn/smartphones/series-find-x/find-x9-pro/specs/"
+    },
+    {
+      "brand": "vivo",
+      "model": "vivo X300 Pro",
+      "source": "vivo 官网",
+      "url": "https://www.vivo.com.cn/vivo/param/x300pro/"
+    },
+    {
+      "brand": "OnePlus",
+      "model": "一加 15",
+      "source": "一加官网",
+      "url": "https://www.oneplus.com/cn/15"
+    },
+    {
+      "brand": "iQOO",
+      "model": "iQOO 15",
+      "source": "iQOO 官网",
+      "url": "https://www.vivo.com.cn/vivo/param/iqoo15"
+    },
+    {
+      "brand": "HONOR",
+      "model": "荣耀 Magic8 Pro",
+      "source": "荣耀官网",
+      "url": "https://www.honor.com/cn/phones/honor-magic8-pro/spec/"
+    }
+  ]
+}

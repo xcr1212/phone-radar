@@ -1,5 +1,5 @@
 import { createReadStream, existsSync } from "node:fs";
-import { stat } from "node:fs/promises";
+import { mkdir, readdir, readFile, stat } from "node:fs/promises";
 import { createServer } from "node:http";
 import { extname, join, normalize, resolve } from "node:path";
 import { spawn } from "node:child_process";
@@ -8,6 +8,8 @@ import { fileURLToPath } from "node:url";
 
 const rootDir = resolve(dirname(fileURLToPath(import.meta.url)), "..");
 const fetchScript = resolve(rootDir, "scripts", "fetch-news.mjs");
+const grabScript = resolve(rootDir, "scripts", "quick-grab.mjs");
+const grabOutputDir = resolve(rootDir, "grabbed-specs");
 const host = "127.0.0.1";
 const port = 8765;
 let updatePromise = null;
@@ -35,6 +37,24 @@ const server = createServer(async (request, response) => {
       }
 
       const result = await runUpdate();
+      sendJson(response, result.ok ? 200 : 500, result);
+      return;
+    }
+
+    if (url.pathname === "/api/grab-specs") {
+      if (request.method !== "POST") {
+        sendJson(response, 405, { ok: false, error: "method not allowed" });
+        return;
+      }
+
+      const body = await readRequestJson(request);
+      const targetUrl = String(body.url || "").trim();
+      if (!/^https?:\/\//i.test(targetUrl)) {
+        sendJson(response, 400, { ok: false, error: "请粘贴 http/https 开头的官方参数页链接" });
+        return;
+      }
+
+      const result = await runGrab(targetUrl);
       sendJson(response, result.ok ? 200 : 500, result);
       return;
     }
@@ -120,6 +140,90 @@ function runUpdate() {
   }
 
   return updatePromise;
+}
+
+async function runGrab(targetUrl) {
+  await mkdir(grabOutputDir, { recursive: true });
+  const startedAt = Date.now();
+
+  return new Promise((resolveGrab) => {
+    const child = spawn(process.execPath, [grabScript, targetUrl], {
+      cwd: rootDir,
+      windowsHide: true
+    });
+    let stdout = "";
+    let stderr = "";
+
+    child.stdout.on("data", (chunk) => {
+      stdout += chunk.toString();
+    });
+    child.stderr.on("data", (chunk) => {
+      stderr += chunk.toString();
+    });
+    child.on("close", async (code) => {
+      if (code !== 0) {
+        resolveGrab({ ok: false, code, error: stderr.trim() || stdout.trim() || "抓取失败" });
+        return;
+      }
+
+      try {
+        const markdownFile = await newestOutputFile(".md", startedAt);
+        const jsonFile = await newestOutputFile(".json", startedAt);
+        const markdown = await readFile(markdownFile, "utf8");
+        resolveGrab({
+          ok: true,
+          markdown,
+          markdownFile,
+          jsonFile,
+          folder: grabOutputDir,
+          stdout: stdout.trim()
+        });
+      } catch (error) {
+        resolveGrab({ ok: false, code, error: error.message, stdout: stdout.trim(), stderr: stderr.trim() });
+      }
+    });
+    child.on("error", (error) => {
+      resolveGrab({ ok: false, code: -1, error: error.message });
+    });
+  });
+}
+
+async function newestOutputFile(extension, startedAt) {
+  const files = await readdir(grabOutputDir);
+  const candidates = [];
+  for (const file of files) {
+    if (!file.endsWith(extension)) continue;
+    const filePath = resolve(grabOutputDir, file);
+    const fileStat = await stat(filePath);
+    if (fileStat.mtimeMs >= startedAt - 1000) {
+      candidates.push({ filePath, mtimeMs: fileStat.mtimeMs });
+    }
+  }
+
+  candidates.sort((a, b) => b.mtimeMs - a.mtimeMs);
+  if (!candidates[0]) throw new Error(`没有找到生成的 ${extension} 文件`);
+  return candidates[0].filePath;
+}
+
+function readRequestJson(request) {
+  return new Promise((resolveBody, rejectBody) => {
+    let raw = "";
+    request.on("data", (chunk) => {
+      raw += chunk.toString();
+      if (raw.length > 1024 * 1024) {
+        request.destroy();
+        rejectBody(new Error("request too large"));
+      }
+    });
+    request.on("end", () => {
+      try {
+        resolveBody(raw ? JSON.parse(raw) : {});
+      } catch {
+        resolveBody({});
+      }
+    });
+    request.on("error", rejectBody);
+  });
 }
 
 function sendJson(response, statusCode, payload) {

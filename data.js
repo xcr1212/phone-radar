@@ -1,7 +1,7 @@
 window.phoneRadarSeed = {
   brands: ["全部", "iPhone", "Samsung", "Pixel", "Xiaomi", "OPPO", "vivo", "Huawei", "HONOR", "行业"],
   types: ["全部", "爆料", "官方", "参数", "评测", "市场报告"],
-  trusts: ["全部", "官方确认", "监管/跑分", "高可信爆料", "媒体汇总", "待验证"],
+  trusts: ["全部", "官方确认", "监管/跑分", "高关注爆料源", "高可信爆料", "媒体汇总", "待验证"],
   sources: [
     {
       name: "Apple Newsroom",
@@ -11,6 +11,15 @@ window.phoneRadarSeed = {
       focus: "iPhone 发布、功能和价格信息",
       url: "https://www.apple.com/newsroom/topics/iphone/",
       cadence: "发布会和产品更新时"
+    },
+    {
+      name: "Apple iPhone",
+      group: "iPhone",
+      kind: "官方",
+      authority: "官方确认",
+      focus: "iPhone 官网机型、技术规格、售价和购买入口",
+      url: "https://www.apple.com.cn/iphone/",
+      cadence: "新品上线和价格调整时"
     },
     {
       name: "Apple Security Releases",
@@ -40,7 +49,7 @@ window.phoneRadarSeed = {
       cadence: "不定期"
     },
     {
-      name: "ApplesClubs",
+      name: "Apple Club",
       group: "iPhone",
       kind: "X 爆料博主",
       authority: "高可信爆料",
@@ -112,6 +121,15 @@ window.phoneRadarSeed = {
       cadence: "不定期"
     },
     {
+      name: "IT之家",
+      group: "行业",
+      kind: "中文科技媒体",
+      authority: "媒体汇总",
+      focus: "中文手机发布、价格、配置和行业动态",
+      url: "https://www.ithome.com/",
+      cadence: "高频更新"
+    },
+    {
       name: "Samsung Newsroom",
       group: "Samsung",
       kind: "官方",
@@ -137,6 +155,51 @@ window.phoneRadarSeed = {
       focus: "Pixel 手机、Feature Drop、Android 功能",
       url: "https://blog.google/products-and-platforms/devices/pixel/",
       cadence: "发布会和月度更新时"
+    },
+    {
+      name: "Xiaomi Newsroom",
+      group: "Xiaomi",
+      kind: "官方",
+      authority: "官方确认",
+      focus: "Xiaomi / Redmi 手机发布、影像技术、系统和品牌新闻",
+      url: "https://www.mi.com/global/discover/newsroom",
+      cadence: "发布会和产品更新时"
+    },
+    {
+      name: "OPPO Newsroom",
+      group: "OPPO",
+      kind: "官方",
+      authority: "官方确认",
+      focus: "OPPO Find / Reno、一加、ColorOS 和影像技术动态",
+      url: "https://www.oppo.com/en/newsroom/",
+      cadence: "发布会和产品更新时"
+    },
+    {
+      name: "vivo News",
+      group: "vivo",
+      kind: "官方",
+      authority: "官方确认",
+      focus: "vivo / iQOO 手机发布、影像和系统体验动态",
+      url: "https://www.vivo.com/en/about-vivo/news",
+      cadence: "发布会和产品更新时"
+    },
+    {
+      name: "HONOR News",
+      group: "HONOR",
+      kind: "官方",
+      authority: "官方确认",
+      focus: "HONOR Magic、数字系列、折叠屏和全球发布动态",
+      url: "https://www.honor.com/global/news/",
+      cadence: "发布会和产品更新时"
+    },
+    {
+      name: "Huawei Consumer News",
+      group: "Huawei",
+      kind: "官方",
+      authority: "官方确认",
+      focus: "华为手机、Pura / Mate、HarmonyOS 和消费者业务动态",
+      url: "https://consumer.huawei.com/en/press/news/",
+      cadence: "发布会和产品更新时"
     },
     {
       name: "9to5Google",
@@ -181,6 +244,15 @@ window.phoneRadarSeed = {
       authority: "媒体汇总",
       focus: "Android 手机评测、购机建议、Pixel 和 Galaxy 动态",
       url: "https://www.androidcentral.com/",
+      cadence: "高频更新"
+    },
+    {
+      name: "Android Authority",
+      group: "行业",
+      kind: "媒体 / 评测",
+      authority: "媒体汇总",
+      focus: "Android 手机、Galaxy、Pixel、系统体验和购机判断",
+      url: "https://www.androidauthority.com/",
       cadence: "高频更新"
     },
     {

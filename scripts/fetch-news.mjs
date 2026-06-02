@@ -12,18 +12,26 @@ const config = JSON.parse(await readFile(configPath, "utf8"));
 const nowDate = new Date();
 const now = nowDate.toISOString();
 const runDate = toLocalIsoDate(nowDate);
-const rssItems = (await mapWithConcurrency(config.feeds, config.concurrency || 6, fetchFeed)).flat();
-const browserItems = await fetchBrowserSources();
-const collected = [...rssItems, ...browserItems];
+const updateWindowStart = toLocalIsoDate(addLocalDays(nowDate, -1));
+const [rssItems, newsNowItems, coolapkUserItems, socialItems] = await Promise.all([
+  mapWithConcurrency(config.feeds || [], config.concurrency || 6, fetchFeed).then((items) => items.flat()),
+  fetchNewsNowSources(),
+  fetchCoolapkUserSources(),
+  fetchSocialSources()
+]);
+const collected = [...rssItems, ...newsNowItems, ...coolapkUserItems, ...socialItems];
 
 const uniqueItems = dedupe(collected)
+  .filter(isInUpdateWindow)
   .filter(isRelevant)
-  .sort((a, b) => b.date.localeCompare(a.date))
+  .sort(compareByPublishedAt)
   .slice(0, config.maxItems || 120);
 
 if (!collected.length) {
   console.warn("no feed items fetched; keeping existing generated files");
   process.exitCode = 1;
+} else if (!uniqueItems.length) {
+  console.log(`no items from ${updateWindowStart} to ${runDate}; keeping existing generated files`);
 } else {
   const output = `window.phoneRadarAuto = ${JSON.stringify({ updatedAt: now, news: uniqueItems }, null, 2)};\n`;
   const dailyOutput = `window.phoneRadarDaily = ${JSON.stringify(buildDailyReport(uniqueItems), null, 2)};\n`;
@@ -52,7 +60,7 @@ async function fetchFeed(feed) {
     }
 
     const xml = await response.text();
-    return parseFeed(xml).map((item) => normalizeItem(item, feed));
+    return parseFeed(xml, feed.url).map((item) => normalizeItem(item, feed));
   } catch (error) {
     const reason = error.name === "AbortError" ? "timeout" : error.message;
     console.warn(`skip ${feed.name}: ${reason}`);
@@ -62,14 +70,227 @@ async function fetchFeed(feed) {
   }
 }
 
-async function fetchBrowserSources() {
+async function fetchNewsNowSources() {
+  const sources = Array.isArray(config.newsNowSources) ? config.newsNowSources : [];
+  if (!sources.length) return [];
+
+  return (await mapWithConcurrency(sources, config.newsNowConcurrency || config.concurrency || 6, fetchNewsNowSource)).flat();
+}
+
+async function fetchNewsNowSource(source) {
+  const controller = new AbortController();
+  const timeout = setTimeout(() => controller.abort(), config.requestTimeoutMs || 8000);
+
+  try {
+    const response = await fetch(newsNowApiUrl(source.id), {
+      headers: {
+        "accept": "application/json,text/plain,*/*",
+        "referer": "https://newsnow.busiyi.world/",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+      },
+      signal: controller.signal
+    });
+
+    if (!response.ok) {
+      console.warn(`skip ${source.name}: HTTP ${response.status}`);
+      return [];
+    }
+
+    const payload = await response.json();
+    if (!Array.isArray(payload.items)) {
+      console.warn(`skip ${source.name}: invalid NewsNow response`);
+      return [];
+    }
+
+    if (!["success", "cache"].includes(payload.status)) {
+      console.warn(`skip ${source.name}: NewsNow status ${payload.status || "unknown"}`);
+      return [];
+    }
+
+    return payload.items.map((item) => normalizeNewsNowItem(item, source)).filter(Boolean);
+  } catch (error) {
+    const reason = error.name === "AbortError" ? "timeout" : error.message;
+    console.warn(`skip ${source.name}: ${reason}`);
+    return [];
+  } finally {
+    clearTimeout(timeout);
+  }
+}
+
+function newsNowApiUrl(sourceId) {
+  const base = String(config.newsNowApiBase || "https://newsnow.busiyi.world").replace(/\/+$/, "");
+  const url = new URL(`${base}/api/s`);
+  url.searchParams.set("id", sourceId);
+  url.searchParams.set("latest", "");
+  return url.href;
+}
+
+async function fetchCoolapkUserSources() {
+  const sources = Array.isArray(config.coolapkUserSources) ? config.coolapkUserSources : [];
+  if (!sources.length) return [];
+
+  return (await mapWithConcurrency(sources, config.coolapkConcurrency || 2, fetchCoolapkUserSource)).flat();
+}
+
+async function fetchCoolapkUserSource(source) {
+  const controller = new AbortController();
+  const timeout = setTimeout(() => controller.abort(), config.requestTimeoutMs || 8000);
+
+  try {
+    const response = await fetch(coolapkUserFeedUrl(source.uid), {
+      headers: coolapkHeaders(),
+      signal: controller.signal
+    });
+
+    if (!response.ok) {
+      console.warn(`skip ${source.name}: HTTP ${response.status}`);
+      return [];
+    }
+
+    const payload = await response.json();
+    if (!Array.isArray(payload.data)) {
+      console.warn(`skip ${source.name}: invalid Coolapk response`);
+      return [];
+    }
+
+    return payload.data
+      .slice(0, source.maxItems || 10)
+      .map((item) => normalizeCoolapkUserItem(item, source))
+      .filter(Boolean);
+  } catch (error) {
+    const reason = error.name === "AbortError" ? "timeout" : error.message;
+    console.warn(`skip ${source.name}: ${reason}`);
+    return [];
+  } finally {
+    clearTimeout(timeout);
+  }
+}
+
+function coolapkUserFeedUrl(uid) {
+  const url = new URL("https://api.coolapk.com/v6/user/feedList");
+  url.searchParams.set("uid", uid);
+  url.searchParams.set("page", "1");
+  return url.href;
+}
+
+function coolapkHeaders() {
+  return {
+    "X-Requested-With": "XMLHttpRequest",
+    "X-App-Id": "com.coolapk.market",
+    "X-App-Token": coolapkAppToken(),
+    "X-Sdk-Int": "29",
+    "X-Sdk-Locale": "zh-CN",
+    "X-App-Version": "11.0",
+    "X-Api-Version": "11",
+    "X-App-Code": "2101202",
+    "User-Agent": "Dalvik/2.1.0 (Linux; U; Android 10; Redmi K30 5G MIUI/V12.0.3.0.QGICMXM) (#Build; Redmi; Redmi K30 5G; QKQ1.191222.002 test-keys; 10) +CoolMarket/11.0-2101202"
+  };
+}
+
+function coolapkAppToken() {
+  const deviceId = [10, 6, 6, 6, 14].map((length) => Math.random().toString(36).substring(2, length)).join("-");
+  const nowSeconds = Math.round(Date.now() / 1000);
+  const source = `token://com.coolapk.market/c67ef5943784d09750dcfbb31020f0ab?${md5(String(nowSeconds))}$${deviceId}&com.coolapk.market`;
+  return `${md5(Buffer.from(source).toString("base64"))}${deviceId}0x${nowSeconds.toString(16)}`;
+}
+
+async function fetchSocialSources() {
   const weiboSources = Array.isArray(config.weiboSources) ? config.weiboSources : [];
   const xSources = Array.isArray(config.xSources) ? config.xSources : [];
   if (!weiboSources.length && !xSources.length) return [];
 
-  const weiboItems = (await mapWithConcurrency(weiboSources, 1, fetchWeiboSource)).flat();
-  const xItems = (await mapWithConcurrency(xSources, 1, fetchXSource)).flat();
-  return [...weiboItems, ...xItems];
+  const weiboResults = await mapWithConcurrency(weiboSources, 1, (source) => fetchSocialFeedSource(source, "weibo", normalizeWeiboPost));
+  const xResults = await mapWithConcurrency(xSources, 1, (source) => fetchSocialFeedSource(source, "x", normalizeXPost));
+  const feedItems = [...weiboResults.flat(), ...xResults.flat()];
+
+  if (!config.browserFallbackEnabled) return feedItems;
+
+  const weiboFallbackItems = (await mapWithConcurrency(
+    weiboSources.filter((_, index) => !weiboResults[index]?.length),
+    1,
+    fetchWeiboSource
+  )).flat();
+  const xFallbackItems = (await mapWithConcurrency(
+    xSources.filter((_, index) => !xResults[index]?.length),
+    1,
+    fetchXSource
+  )).flat();
+
+  return [...feedItems, ...weiboFallbackItems, ...xFallbackItems];
+}
+
+async function fetchSocialFeedSource(source, kind, normalizePost) {
+  const url = socialFeedUrl(source, kind);
+  if (!url) {
+    console.warn(`skip ${source.name}: no ${kind} RSS URL`);
+    return [];
+  }
+
+  const controller = new AbortController();
+  const timeout = setTimeout(() => controller.abort(), config.requestTimeoutMs || 8000);
+
+  try {
+    const response = await fetch(url, {
+      headers: {
+        "accept": "application/rss+xml,application/xml,text/xml,*/*",
+        "user-agent": "PhoneRadar/1.0 (+local personal news reader)"
+      },
+      signal: controller.signal
+    });
+
+    if (!response.ok) {
+      console.warn(`skip ${source.name}: RSS HTTP ${response.status}`);
+      return [];
+    }
+
+    const xml = await response.text();
+    const posts = parseFeed(xml)
+      .slice(0, source.maxItems || 10)
+      .map(feedItemToSocialPost)
+      .map((post) => normalizePost(post, source))
+      .filter(Boolean);
+
+    if (!posts.length) {
+      console.warn(`skip ${source.name}: no ${kind} RSS posts`);
+    }
+
+    return posts;
+  } catch (error) {
+    const reason = error.name === "AbortError" ? "timeout" : error.message;
+    console.warn(`skip ${source.name}: RSS ${reason}`);
+    return [];
+  } finally {
+    clearTimeout(timeout);
+  }
+}
+
+function socialFeedUrl(source, kind) {
+  if (source.rssUrl) return source.rssUrl;
+
+  const base = String(config.socialRssBase || "").replace(/\/+$/, "");
+  if (!base) return "";
+
+  if (kind === "weibo" && source.uid) {
+    return `${base}/weibo/user/${encodeURIComponent(source.uid)}?format=rss`;
+  }
+
+  if (kind === "x" && source.handle) {
+    const url = new URL(`${base}/twitter/user/${encodeURIComponent(source.handle)}`);
+    url.searchParams.set("format", "rss");
+    url.searchParams.set("count", String(source.maxItems || 8));
+    return url.href;
+  }
+
+  return "";
+}
+
+function feedItemToSocialPost(item) {
+  return {
+    url: item.url,
+    time: item.date,
+    text: item.summary || item.title,
+    image: item.image
+  };
 }
 
 async function fetchWeiboSource(source) {
@@ -80,14 +301,23 @@ async function fetchWeiboSource(source) {
     targetId = created.targetId;
     if (!targetId) throw new Error("no browser target");
 
-    await delay(source.loadDelayMs || 4000);
-    await cdpGet(`/scroll?target=${encodeURIComponent(targetId)}&y=2200`).catch(() => null);
-    await delay(source.scrollDelayMs || 1500);
+    await refreshAndScrollSource(targetId, source, {
+      loadDelayMs: 4000,
+      scrollDelayMs: 1500,
+      scrollPasses: 2,
+      scrollY: 2200
+    });
 
-    const extracted = await cdpEval(targetId, buildWeiboExtractor(source));
-    const posts = parseCdpValue(extracted)
-      .map((post) => normalizeWeiboPost(post, source))
-      .filter(Boolean);
+    let posts = await extractBrowserPosts(targetId, source, buildWeiboExtractor, normalizeWeiboPost);
+    if (!posts.length) {
+      await refreshAndScrollSource(targetId, source, {
+        loadDelayMs: 4000,
+        scrollDelayMs: 1500,
+        scrollPasses: 2,
+        scrollY: 2200
+      });
+      posts = await extractBrowserPosts(targetId, source, buildWeiboExtractor, normalizeWeiboPost);
+    }
 
     if (!posts.length) {
       console.warn(`skip ${source.name}: no weibo posts, check Chrome login`);
@@ -164,7 +394,8 @@ function normalizeWeiboPost(post, source) {
   if (!summary) return null;
 
   const inferredBrand = inferBrand(summary) || source.brand || "行业";
-  const date = weiboDateToIso(post.time);
+  const published = socialDateParts(post.time);
+  const date = published.date;
 
   return {
     id: `weibo-${hash(post.url || `${source.name}-${post.time}-${summary}`)}`,
@@ -175,8 +406,10 @@ function normalizeWeiboPost(post, source) {
     type: source.type || "爆料",
     trust: source.trust || "高关注爆料源",
     date,
+    time: published.time,
+    publishedAt: published.publishedAt,
     url: cleanText(post.url),
-    image: cleanImageUrl(post.image),
+    image: firstImageUrl(post.image),
     summary,
     tags: [inferredBrand, source.type || "爆料", "微博"]
   };
@@ -190,14 +423,23 @@ async function fetchXSource(source) {
     targetId = created.targetId;
     if (!targetId) throw new Error("no browser target");
 
-    await delay(source.loadDelayMs || 6000);
-    await cdpGet(`/scroll?target=${encodeURIComponent(targetId)}&y=1600`).catch(() => null);
-    await delay(source.scrollDelayMs || 1200);
+    await refreshAndScrollSource(targetId, source, {
+      loadDelayMs: 6000,
+      scrollDelayMs: 1200,
+      scrollPasses: 2,
+      scrollY: 1600
+    });
 
-    const extracted = await cdpEval(targetId, buildXExtractor(source));
-    const posts = parseCdpValue(extracted)
-      .map((post) => normalizeXPost(post, source))
-      .filter(Boolean);
+    let posts = await extractBrowserPosts(targetId, source, buildXExtractor, normalizeXPost);
+    if (!posts.length) {
+      await refreshAndScrollSource(targetId, source, {
+        loadDelayMs: 6000,
+        scrollDelayMs: 1200,
+        scrollPasses: 2,
+        scrollY: 1600
+      });
+      posts = await extractBrowserPosts(targetId, source, buildXExtractor, normalizeXPost);
+    }
 
     if (!posts.length) {
       console.warn(`skip ${source.name}: no X posts, check Chrome login or source relevance`);
@@ -211,6 +453,30 @@ async function fetchXSource(source) {
     if (targetId) {
       await cdpGet(`/close?target=${encodeURIComponent(targetId)}`).catch(() => null);
     }
+  }
+}
+
+async function extractBrowserPosts(targetId, source, buildExtractor, normalizePost) {
+  const extracted = await cdpEval(targetId, buildExtractor(source));
+  return parseCdpValue(extracted)
+    .map((post) => normalizePost(post, source))
+    .filter(Boolean);
+}
+
+async function refreshAndScrollSource(targetId, source, defaults) {
+  const loadDelayMs = Number(source.loadDelayMs || defaults.loadDelayMs || 4000);
+  const refreshDelayMs = Number(source.refreshDelayMs || loadDelayMs);
+  const scrollDelayMs = Number(source.scrollDelayMs || defaults.scrollDelayMs || 1200);
+  const scrollPasses = Math.max(1, Number(source.scrollPasses || defaults.scrollPasses || 1));
+  const scrollY = Number(source.scrollY || defaults.scrollY || 1600);
+
+  await delay(loadDelayMs);
+  await cdpPost(`/navigate?target=${encodeURIComponent(targetId)}`, source.url).catch(() => null);
+  await delay(refreshDelayMs);
+
+  for (let index = 0; index < scrollPasses; index += 1) {
+    await cdpGet(`/scroll?target=${encodeURIComponent(targetId)}&y=${encodeURIComponent(scrollY)}`).catch(() => null);
+    await delay(scrollDelayMs);
   }
 }
 
@@ -286,7 +552,8 @@ function normalizeXPost(post, source) {
   if (!summary || !isUsefulXPost(summary)) return null;
 
   const inferredBrand = inferBrand(summary) || source.brand || "iPhone";
-  const date = socialDateToIso(post.time);
+  const published = socialDateParts(post.time);
+  const date = published.date;
 
   return {
     id: `x-${hash(post.url || `${source.name}-${post.time}-${summary}`)}`,
@@ -297,8 +564,10 @@ function normalizeXPost(post, source) {
     type: source.type || "爆料",
     trust: source.trust || "高关注爆料源",
     date,
+    time: published.time,
+    publishedAt: published.publishedAt,
     url: cleanText(post.url),
-    image: cleanImageUrl(post.image),
+    image: firstImageUrl(post.image),
     summary,
     tags: [inferredBrand, source.type || "爆料", "X"]
   };
@@ -436,7 +705,7 @@ async function mapWithConcurrency(items, limit, mapper) {
   return results;
 }
 
-function parseFeed(xml) {
+function parseFeed(xml, baseUrl = "") {
   const blocks = blocksBetween(xml, "item");
   const entries = blocks.length ? blocks : blocksBetween(xml, "entry");
 
@@ -445,15 +714,16 @@ function parseFeed(xml) {
     url: linkFromBlock(block),
     date: textFromTag(block, "pubDate") || textFromTag(block, "updated") || textFromTag(block, "published"),
     summary: textFromTag(block, "description") || textFromTag(block, "summary") || textFromTag(block, "content"),
-    image: imageFromBlock(block)
+    image: imageFromBlock(block, baseUrl)
   }));
 }
 
 function normalizeItem(item, feed) {
   const title = cleanText(item.title);
-  const url = cleanText(item.url);
+  const url = normalizeFeedUrl(cleanText(item.url), feed.url);
   const summary = trimSummary(cleanText(item.summary), config.summaryLimit || 360);
-  const date = toIsoDate(item.date);
+  const published = dateParts(item.date);
+  const date = published.date;
   const inferredBrand = inferBrand(`${title} ${summary}`) || feed.brand;
 
   return {
@@ -465,11 +735,76 @@ function normalizeItem(item, feed) {
     type: feed.type,
     trust: feed.trust,
     date,
+    time: published.time,
+    publishedAt: published.publishedAt,
     url,
-    image: cleanImageUrl(item.image),
+    image: firstImageUrl(item.image),
     summary: summary || "自动抓取的资讯，建议打开来源阅读全文后再做判断。",
     tags: [inferredBrand, feed.type, "自动抓取"]
   };
+}
+
+function normalizeNewsNowItem(item, source) {
+  const title = cleanText(item.title);
+  const url = cleanText(item.url || item.mobileUrl || item.id);
+  if (!title || !url) return null;
+
+  const summary = trimSummary(cleanText(item.desc || item.summary || title), config.summaryLimit || 360);
+  const published = dateParts(item.pubDate || item.date || item.updatedTime);
+  const date = published.date;
+  const inferredBrand = inferBrand(`${title} ${summary}`) || source.brand || "行业";
+
+  return {
+    id: `newsnow-${hash(`${source.id}-${url || title}-${date}`)}`,
+    title,
+    source: source.name,
+    brand: inferredBrand,
+    model: inferredBrand === "行业" ? "智能手机市场" : `${inferredBrand} 相关机型`,
+    type: source.type || "爆料",
+    trust: source.trust || "媒体汇总",
+    date,
+    time: published.time,
+    publishedAt: published.publishedAt,
+    url,
+    image: firstImageUrl(item.cover, item.image, item.thumbnail, item.icon, item.extra?.cover, item.extra?.image),
+    summary: summary || "NewsNow 聚合热榜，建议打开来源阅读全文后再做判断。",
+    tags: [inferredBrand, source.type || "爆料", "NewsNow"]
+  };
+}
+
+function normalizeCoolapkUserItem(item, source) {
+  const summary = trimSummary(cleanText(item.message || item.editor_title || item.message_title), config.summaryLimit || 360);
+  if (!summary) return null;
+
+  const title = trimSummary(cleanText(item.message_title || item.editor_title || summary), 58);
+  const inferredBrand = inferBrand(`${title} ${summary} ${item.ttitle || ""}`) || source.brand || "行业";
+  const published = Number(item.dateline) ? dateParts(new Date(Number(item.dateline) * 1000)) : dateParts(item.pubDate);
+  const date = published.date;
+  const url = normalizeCoolapkUrl(item.url || (item.id ? `/feed/${item.id}` : source.url));
+
+  return {
+    id: `coolapk-user-${hash(`${source.uid}-${item.id || url}-${date}`)}`,
+    title: `${source.name}：${title}`,
+    source: source.name,
+    brand: inferredBrand,
+    model: inferredBrand === "行业" ? "智能手机市场" : `${inferredBrand} 相关机型`,
+    type: source.type || "爆料",
+    trust: source.trust || "高可信爆料",
+    date,
+    time: published.time,
+    publishedAt: published.publishedAt,
+    url,
+    image: firstImageUrl(item.pic, item.message_cover, item.media_pic, item.media, item.media_info),
+    summary,
+    tags: [inferredBrand, source.type || "爆料", "酷安博主"]
+  };
+}
+
+function normalizeCoolapkUrl(value) {
+  const url = cleanText(value);
+  if (!url) return "";
+  if (/^https?:\/\//i.test(url)) return url;
+  return `https://www.coolapk.com${url.startsWith("/") ? "" : "/"}${url}`;
 }
 
 function blocksBetween(xml, tagName) {
@@ -489,28 +824,82 @@ function linkFromBlock(block) {
   return textFromTag(block, "link");
 }
 
-function imageFromBlock(block) {
+function imageFromBlock(block, baseUrl = "") {
   const raw = decodeXml(block);
   const candidates = [
     ...attributeMatches(raw, /<(?:media:content|media:thumbnail)\b[^>]*(?:url)=["']([^"']+)["'][^>]*>/gi),
     ...attributeMatches(raw, /<enclosure\b[^>]*url=["']([^"']+)["'][^>]*type=["']image\/[^"']+["'][^>]*>/gi),
     ...attributeMatches(raw, /<enclosure\b[^>]*type=["']image\/[^"']+["'][^>]*url=["']([^"']+)["'][^>]*>/gi),
     ...attributeMatches(raw, /<itunes:image\b[^>]*href=["']([^"']+)["'][^>]*>/gi),
-    ...attributeMatches(raw, /<img\b[^>]*src=["']([^"']+)["'][^>]*>/gi)
+    ...attributeMatches(raw, /<meta\b[^>]*(?:property|name)=["'](?:og:image|twitter:image)["'][^>]*content=["']([^"']+)["'][^>]*>/gi),
+    ...attributeMatches(raw, /<meta\b[^>]*content=["']([^"']+)["'][^>]*(?:property|name)=["'](?:og:image|twitter:image)["'][^>]*>/gi),
+    ...attributeMatches(raw, /<img\b[^>]*(?:src|data-src|data-original|data-lazy-src)=["']([^"']+)["'][^>]*>/gi),
+    ...attributeMatches(raw, /<source\b[^>]*(?:src|data-src)=["']([^"']+)["'][^>]*>/gi),
+    ...attributeMatches(raw, /["'](?:image|thumbnail|thumbnailUrl)["']\s*:\s*["']([^"']+)["']/gi),
+    ...attributeMatches(raw, /<(?:img|source)\b[^>]*(?:srcset|data-srcset)=["']([^"']+)["'][^>]*>/gi).flatMap(imageUrlsFromSrcset)
   ];
 
-  return candidates.find((candidate) => cleanImageUrl(candidate)) || "";
+  return firstImageUrl(...candidates.map((candidate) => normalizeImageUrl(candidate, baseUrl)));
 }
 
 function attributeMatches(value, pattern) {
   return Array.from(value.matchAll(pattern), (match) => match[1]);
 }
 
-function cleanImageUrl(value) {
+function firstImageUrl(...values) {
+  for (const value of values.flatMap(expandImageValue)) {
+    const url = cleanImageUrl(value);
+    if (url) return url;
+  }
+  return "";
+}
+
+function expandImageValue(value) {
+  if (!value) return [];
+  if (Array.isArray(value)) return value.flatMap(expandImageValue);
+  if (typeof value === "object") return Object.values(value).flatMap(expandImageValue);
+  return [value];
+}
+
+function normalizeImageUrl(value, baseUrl) {
   const url = cleanText(value);
+  if (!url) return "";
+  if (/^https?:\/\//i.test(url) || url.startsWith("//")) return url;
+
+  try {
+    return new URL(url, baseUrl).href;
+  } catch {
+    return url;
+  }
+}
+
+function imageUrlsFromSrcset(value) {
+  return String(value || "")
+    .split(",")
+    .map((part) => part.trim().split(/\s+/)[0])
+    .filter(Boolean)
+    .reverse();
+}
+
+function cleanImageUrl(value) {
+  let url = cleanText(value);
+  if (url.startsWith("//")) url = `https:${url}`;
   if (!/^https?:\/\//i.test(url)) return "";
-  if (/(spacer|tracking|pixel|avatar|logo|icon)/i.test(url)) return "";
+  if (/(spacer|tracking|pixel|avatar|logo|icon|sprite|blank|placeholder)/i.test(url)) return "";
   return url;
+}
+
+function normalizeFeedUrl(value, baseUrl) {
+  if (!value) return "";
+  if (/^https?:\/\//i.test(value)) return value;
+  if (value.startsWith("//")) return `https:${value}`;
+  if (/^[\w.-]+\.[a-z]{2,}(?:\/|$)/i.test(value)) return `https://${value}`;
+
+  try {
+    return new URL(value, baseUrl).href;
+  } catch {
+    return value;
+  }
 }
 
 function cleanText(value) {
@@ -546,8 +935,98 @@ function toIsoDate(value) {
   return parsed.toISOString().slice(0, 10);
 }
 
+function dateParts(value) {
+  if (typeof value === "string" && /^\d{4}-\d{2}-\d{2}$/.test(value.trim())) {
+    return {
+      date: value.trim(),
+      time: "",
+      publishedAt: ""
+    };
+  }
+
+  const parsed = value instanceof Date ? new Date(value) : value ? new Date(value) : null;
+  if (!parsed || Number.isNaN(parsed.getTime())) {
+    return {
+      date: runDate,
+      time: "",
+      publishedAt: ""
+    };
+  }
+
+  const date = parsed;
+  return {
+    date: toLocalIsoDate(date),
+    time: toLocalTime(date),
+    publishedAt: date.toISOString()
+  };
+}
+
+function socialDateParts(value) {
+  return dateParts(socialDateTime(value));
+}
+
+function socialDateTime(value) {
+  const text = String(value || "").trim();
+  const date = new Date(nowDate);
+  const hourMatch = text.match(/(\d+)\s*(?:小时前|小时|h)/i);
+  if (hourMatch) {
+    date.setHours(date.getHours() - Number(hourMatch[1]));
+    return date;
+  }
+
+  const minuteMatch = text.match(/(\d+)\s*(?:分钟前|分钟|m)/i);
+  if (minuteMatch) {
+    date.setMinutes(date.getMinutes() - Number(minuteMatch[1]));
+    return date;
+  }
+
+  const secondMatch = text.match(/(\d+)\s*(?:秒前|秒|s)|刚刚/i);
+  if (secondMatch) return date;
+
+  const yesterdayMatch = text.match(/昨天\s*(\d{1,2}):(\d{2})/);
+  if (yesterdayMatch) {
+    date.setDate(date.getDate() - 1);
+    date.setHours(Number(yesterdayMatch[1]), Number(yesterdayMatch[2]), 0, 0);
+    return date;
+  }
+
+  const chineseMonthDayMatch = text.match(/(\d{1,2})月(\d{1,2})日(?:\s*(\d{1,2}):(\d{2}))?/);
+  if (chineseMonthDayMatch) {
+    date.setMonth(Number(chineseMonthDayMatch[1]) - 1, Number(chineseMonthDayMatch[2]));
+    if (chineseMonthDayMatch[3]) date.setHours(Number(chineseMonthDayMatch[3]), Number(chineseMonthDayMatch[4]), 0, 0);
+    return date;
+  }
+
+  const monthDayMatch = text.match(/(\d{1,2})-(\d{1,2})(?:\s*(\d{1,2}):(\d{2}))?/);
+  if (monthDayMatch) {
+    date.setMonth(Number(monthDayMatch[1]) - 1, Number(monthDayMatch[2]));
+    if (monthDayMatch[3]) date.setHours(Number(monthDayMatch[3]), Number(monthDayMatch[4]), 0, 0);
+    return date;
+  }
+
+  const parsed = new Date(text);
+  return Number.isNaN(parsed.getTime()) ? date : parsed;
+}
+
+function toLocalTime(date) {
+  const hours = String(date.getHours()).padStart(2, "0");
+  const minutes = String(date.getMinutes()).padStart(2, "0");
+  return `${hours}:${minutes}`;
+}
+
+function compareByPublishedAt(a, b) {
+  const left = Date.parse(a.publishedAt || a.date || "");
+  const right = Date.parse(b.publishedAt || b.date || "");
+  if (!Number.isNaN(left) && !Number.isNaN(right) && left !== right) return right - left;
+  return String(b.date || "").localeCompare(String(a.date || ""));
+}
+
 function hash(value) {
   return createHash("sha1").update(value).digest("hex").slice(0, 12);
+}
+
+function md5(value) {
+  return createHash("md5").update(value).digest("hex");
 }
 
 function dedupe(items) {
@@ -592,7 +1071,12 @@ function inferDirectBrand(text) {
 }
 
 function isRelevant(item) {
-  return isPhoneOnlyItem(item);
+  return isPhoneOnlyItem(item) || isTrustedCoolapkUserItem(item);
+}
+
+function isInUpdateWindow(item) {
+  const date = String(item.date || "");
+  return date >= updateWindowStart && date <= runDate;
 }
 
 function buildDailyReport(items) {
@@ -616,6 +1100,8 @@ function buildDailyReport(items) {
         type: item.type,
         trust: item.trust,
         date: item.date,
+        time: item.time,
+        publishedAt: item.publishedAt,
         url: item.url,
         image: item.image,
         verdict: verdictFor(score),
@@ -706,13 +1192,14 @@ function scoreNews(item) {
 
 function isUsefulDailyItem(item, score) {
   if (score < 4) return false;
-  if (!isPhoneOnlyItem(item)) return false;
+  if (!isPhoneOnlyItem(item) && !isTrustedCoolapkUserItem(item)) return false;
   if (hasOffTopicSignal(item)) return false;
   if (hasDailyNoiseSignal(item)) return false;
   return hasTitlePhoneSignal(item);
 }
 
 function hasTitlePhoneSignal(item) {
+  if (isTrustedCoolapkUserItem(item)) return true;
   if (hasStrongNonPhoneSignal(item)) return false;
   if (hasDailyNoiseSignal(item)) return false;
   if (item.source === "数码闲聊站") {
@@ -726,6 +1213,15 @@ function isPhoneOnlyItem(item) {
   if (hasStrongNonPhoneSignal(item)) return false;
   if (hasOffTopicSignal(item)) return false;
   return /(iphone|ios\b|galaxy\s?s\d|galaxy\s?z|pixel\s?\d|mate\s?\d|pura|xiaomi\s?\d|redmi|oppo\s?reno|oppo\s?find|oneplus|reno\s?\d|find\s?x|vivo\s?s\d|vivo\s?x\d|iqoo|honor\s?\d|magic\s?\d|edge\s?\d|三星.*手机|小米.*手机|红米.*手机|荣耀.*手机|华为.*手机|一加.*手机|手机|新机|旗舰机|折叠屏|直屏|曲屏|长焦|影像套装)/i.test(text);
+}
+
+function isTrustedCoolapkUserItem(item) {
+  if (!Array.isArray(item.tags) || !item.tags.includes("酷安博主")) return false;
+  if (hasStrongNonPhoneSignal(item) || hasOffTopicSignal(item) || hasDailyNoiseSignal(item)) return false;
+  if (item.brand && item.brand !== "行业") return true;
+
+  const text = `${item.title} ${item.summary}`.toLowerCase();
+  return /(手机|新机|旗舰|折叠屏|直屏|曲屏|长焦|影像|相机|电池|续航|充电|芯片|处理器|跑分|认证)/i.test(text);
 }
 
 function hasOffTopicSignal(item) {
@@ -973,4 +1469,10 @@ function toLocalIsoDate(date) {
   const month = String(date.getMonth() + 1).padStart(2, "0");
   const day = String(date.getDate()).padStart(2, "0");
   return `${year}-${month}-${day}`;
+}
+
+function addLocalDays(date, days) {
+  const copy = new Date(date);
+  copy.setDate(copy.getDate() + days);
+  return copy;
 }

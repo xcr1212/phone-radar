@@ -4,6 +4,8 @@
   "private": true,
   "scripts": {
     "build": "node ./scripts/build-static.mjs",
+    "grab": "node ./scripts/quick-grab.mjs",
+    "update-flagships": "node ./scripts/fetch-official-flagships.mjs",
     "update-news": "node ./scripts/fetch-news.mjs",
     "serve": "node ./scripts/server.mjs"
   }
