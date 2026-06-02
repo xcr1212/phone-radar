@@ -1,5 +1,5 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-06-02T16:55:20.524Z",
+  "updatedAt": "2026-06-02T21:24:21.518Z",
   "issueDate": "2026-06-02",
   "issue": "VOL.260602",
   "title": "手机情报日报",
@@ -266,29 +266,6 @@ window.phoneRadarDaily = {
           "action": "中文源可以直接点开快读；看完只保留和购机有关的点。"
         },
         {
-          "id": "newsnow-c60bd69dc082",
-          "title": "vivo S60系列发布：2899元起",
-          "originalTitle": "",
-          "source": "酷安热榜",
-          "brand": "vivo",
-          "type": "爆料",
-          "trust": "高关注爆料源",
-          "date": "2026-06-02",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://www.coolapk.com/feed/72044018",
-          "image": "",
-          "verdict": "先看",
-          "takeaway": "vivo S60系列发布：2899元起",
-          "detail": "vivo S60系列发布：2899元起",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
-        {
           "id": "coolapk-user-d805c2cc3a6f",
           "title": "JSCHEN小小狐：华为 nova 16 系列正式发布：2699 元起售",
           "originalTitle": "",
@@ -308,6 +285,36 @@ window.phoneRadarDaily = {
             "爆料"
           ],
           "confidence": "可信度较高，但仍属于发布前线索。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        }
+      ]
+    },
+    {
+      "id": "review",
+      "title": "评测与体验",
+      "hint": "买前再细看，平时扫一眼即可。",
+      "items": [
+        {
+          "id": "newsnow-f738a06e682c",
+          "title": "用了几天体验下来，k90pm确实是要吊打小米17pm的，这手机正确的叫法应该是小米k17promax。",
+          "originalTitle": "",
+          "source": "酷安热榜",
+          "brand": "Xiaomi",
+          "type": "爆料",
+          "trust": "高关注爆料源",
+          "date": "2026-06-02",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://www.coolapk.com/feed/72123633",
+          "image": "",
+          "verdict": "先看",
+          "takeaway": "用了几天体验下来，k90pm确实是要吊打小米17pm的，这手机正确的叫法应该是小米k17promax。",
+          "detail": "用了几天体验下来，k90pm确实是要吊打小米17pm的，这手机正确的叫法应该是小米k17promax。",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         }

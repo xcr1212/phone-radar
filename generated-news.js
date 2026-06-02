@@ -1,6 +1,86 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-06-02T16:55:20.524Z",
+  "updatedAt": "2026-06-02T21:24:21.518Z",
   "news": [
+    {
+      "id": "auto-ea37969c2d5c",
+      "title": "A thinner, lighter Motorola Edge 2026 has just popped up for pre-order",
+      "source": "Android Police",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-02",
+      "time": "18:06",
+      "publishedAt": "2026-06-02T18:06:32.000Z",
+      "url": "https://www.androidpolice.com/a-thinner-lighter-motorola-edge-has-just-popped-up-for-pre-order/",
+      "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2026/06/motorola-edge-2026.jpg",
+      "summary": "Coming to the US June 11",
+      "tags": [
+        "行业",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-9485eee1d98e",
+      "title": "June Android Drop: New personalization and safety features are here",
+      "source": "Google Blog",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "官方",
+      "trust": "官方确认",
+      "date": "2026-06-02",
+      "time": "18:00",
+      "publishedAt": "2026-06-02T18:00:00.000Z",
+      "url": "https://blog.google/products-and-platforms/platforms/android/android-drop-june-2026/",
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Final_Static_Asset_1.max-600x600.format-webp.webp",
+      "summary": "Plan outfits in Google Photos, get alerts for fake calls, and share pics with iPhone devices and more.",
+      "tags": [
+        "iPhone",
+        "官方",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-080501e46786",
+      "title": "Samsung’s Galaxy Z Fold 8 (Wide) specs tipped: Lighter than Fold 7, packs larger battery",
+      "source": "Gizmochina",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-02",
+      "time": "17:12",
+      "publishedAt": "2026-06-02T17:12:03.000Z",
+      "url": "https://www.gizmochina.com/2026/06/02/samsungs-galaxy-z-fold-8-wide-specs-tipped-lighter-than-fold-7/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/06/HJycRpzaAAAMxoc-300x169.jpg?x10805",
+      "summary": "Fresh leaks have offered a closer look at Samsung‘s upcoming Galaxy Z Fold 8 lineup, including the wider model. The inner panel of the Galaxy Z Fold 8 (Wide) is said to measure ar…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-5ceded74dd09",
+      "title": "Motorola Edge 2026 debuts with 6.3″ 120Hz AMOLED display, Dimensity 7450 & 50MP cameras",
+      "source": "Gizmochina",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-02",
+      "time": "16:56",
+      "publishedAt": "2026-06-02T16:56:12.000Z",
+      "url": "https://www.gizmochina.com/2026/06/02/motorola-edge-2026-launched-specs-price/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/06/Motorola-Edge-2026-2-300x188.png?x10805",
+      "summary": "Motorola has officially announced the 2026 iteration of its Edge smartphone for the North American market. The device brings a mix of premium hardware features and enhanced durabi…",
+      "tags": [
+        "行业",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-d668da5491c6",
       "title": "iPhones could get groundbreaking bill-splitting tool Android introduced in 2019",
@@ -57,26 +137,6 @@ window.phoneRadarAuto = {
       "summary": "IT之家 6 月 2 日消息，恒玄科技今日发文“揭秘”， OPPO Bubble 潮玩自拍屏搭载了恒玄 BES2800BP 芯片 。 采用 6nm 工艺，超低功耗 集成多核 CPU + 大容量存储，算力大幅提升 集成双模蓝牙和低功耗 Wi-Fi 6 据IT之家此前报道，在 5 月 25 日晚间的 OPPO Reno16 系列新品发布会上， OPPO Bub…",
       "tags": [
         "OPPO",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-14e71e8a5d84",
-      "title": "I'm still using the Galaxy S23 Ultra because Samsung won't make the compact flagship of my dreams",
-      "source": "Android Police",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-02",
-      "time": "15:15",
-      "publishedAt": "2026-06-02T15:15:11.000Z",
-      "url": "https://www.androidpolice.com/samsung-refuses-make-this-phone-so-stuck-with-galaxy-s23-ultra/",
-      "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2026/06/galaxy-27-pro-render.png",
-      "summary": "Samsung's Plus model still is not the compact Ultra alternative I want",
-      "tags": [
-        "Samsung",
         "爆料",
         "自动抓取"
       ]
@@ -197,26 +257,6 @@ window.phoneRadarAuto = {
       "summary": "IT之家 6 月 2 日消息，摩托罗拉现已在北美市场推出 Edge 2026 手机，新品定位中端，预计将成为 谷歌 Pixel 10a 的竞争对手。 据介绍， 这款手机配备一块 6.3 英寸 Extreme AMOLED 屏幕 ，分辨率为 Super HD，最高亮度可达 5200 尼特。搭载联发科天玑 7450 处理器， 拥有 8GB 内存和 128GB…",
       "tags": [
         "Pixel",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-0484f2a09e67",
-      "title": "Samsung's Galaxy Z Fold 8 leak reveals a bold bet: two foldables, two completely different designs",
-      "source": "Android Police",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-02",
-      "time": "13:38",
-      "publishedAt": "2026-06-02T13:38:45.000Z",
-      "url": "https://www.androidpolice.com/samsung-galaxy-z-fold-8-and-fold-8-ultra-leak-show-off-two-very-different-designs/",
-      "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2026/05/hands-holding-a-samsung-galaxy-z-fold-8-wide-on-a-blue-background.png",
-      "summary": "For once, Samsung's Ultra may not be the phone to buy",
-      "tags": [
-        "Samsung",
         "爆料",
         "自动抓取"
       ]
@@ -582,6 +622,26 @@ window.phoneRadarAuto = {
       ]
     },
     {
+      "id": "coolapk-user-11162b42a598",
+      "title": "竹本青：曝华为畅享100 Pro Max 已立项：内部代号\"叶问\"",
+      "source": "竹本青",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-06-02",
+      "time": "06:02",
+      "publishedAt": "2026-06-02T06:02:44.000Z",
+      "url": "https://www.coolapk.com/feed/72117985",
+      "image": "http://image.coolapk.com/feed/2026/0602/14/4248714_ab9e13ff_0161_3907_766@1438x391.jpg",
+      "summary": "【曝华为畅享100 Pro Max 已立项：内部代号\"叶问\"，有望年底发布】 ▫️内部代号\"叶问\" ▫️华系最大电池+麒麟8芯片 ▫️旗舰级ID设计 ▫️年底前后登场｜定位中端 4月，第三方数据显示，华为畅享90系列首销当日销量达250K+。 #今日热点# #鸿蒙6# #华为畅享90ProMax#",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
       "id": "auto-4f530b80e24b",
       "title": "Xiaomi 17T Pro joins the list with Google’s AirDrop-to-Quick Share file sharing",
       "source": "Gizmochina",
@@ -722,6 +782,26 @@ window.phoneRadarAuto = {
       ]
     },
     {
+      "id": "newsnow-f738a06e682c",
+      "title": "用了几天体验下来，k90pm确实是要吊打小米17pm的，这手机正确的叫法应该是小米k17promax。",
+      "source": "酷安热榜",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-06-02",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/72123633",
+      "image": "",
+      "summary": "用了几天体验下来，k90pm确实是要吊打小米17pm的，这手机正确的叫法应该是小米k17promax。",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
       "id": "newsnow-0c4831e55b1c",
       "title": "以旧换新入了，用了别的手机才知道小米的更好用[流泪]",
       "source": "酷安热榜",
@@ -735,26 +815,6 @@ window.phoneRadarAuto = {
       "url": "https://www.coolapk.com/feed/72093567",
       "image": "",
       "summary": "以旧换新入了，用了别的手机才知道小米的更好用[流泪]",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-1a1b80744e3b",
-      "title": "三台12turbo电池后盖鼓包后续来了，小米客服联系后让去线下售后做检测，我问他去检测什么，这一眼鼓包这么明显，他说去售后检测就对了，后续他们会给方案，于是专门请假半天去售后检测。到了售后小米师傅问来干啥，我说客服让来售后做电池检测，师傅说你这一眼电池鼓包都要爆出来了，还要检测啥？ 给我都问懵了。 然后小米客服打来电话，给出了专属解决方案：到小米售后自费更换电池[无奈] 我三台同期手机都出现同样的电池鼓包问题，这小米你敢说你们电池物料没问题？",
-      "source": "酷安热榜",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-06-02",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72102151",
-      "image": "",
-      "summary": "三台12turbo电池后盖鼓包后续来了，小米客服联系后让去线下售后做检测，我问他去检测什么，这一眼鼓包这么明显，他说去售后检测就对了，后续他们会给方案，于是专门请假半天去售后检测。到了售后小米师傅问来干啥，我说客服让来售后做电池检测，师傅说你这一眼电池鼓包都要爆出来了，还要检测啥？ 给我都问懵了。 然后小米客服打来电话，给出了专属解决方案：到小米售后自费更…",
       "tags": [
         "Xiaomi",
         "爆料",
@@ -782,26 +842,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-693af06d8284",
-      "title": "9010s 这个三年前辣鸡芯片经历 pura70 标准 pura80 标准 pura90 标准 nova15p/u mate70 pro/air 套娃辣鸡不能再辣鸡 都 2026年 买5年前 8gen1+性能手机，一直用同款旧芯片当韭菜套娃买制裁成啥样了🥴🐂🍺",
-      "source": "酷安热榜",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-06-02",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72104230",
-      "image": "",
-      "summary": "9010s 这个三年前辣鸡芯片经历 pura70 标准 pura80 标准 pura90 标准 nova15p/u mate70 pro/air 套娃辣鸡不能再辣鸡 都 2026年 买5年前 8gen1+性能手机，一直用同款旧芯片当韭菜套娃买制裁成啥样了🥴🐂🍺",
-      "tags": [
-        "行业",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
       "id": "newsnow-8b8c09069854",
       "title": "兄弟们新手机到了 要不要更新系统 这是我目前用过最流畅的米系手机了",
       "source": "酷安热榜",
@@ -817,26 +857,6 @@ window.phoneRadarAuto = {
       "summary": "兄弟们新手机到了 要不要更新系统 这是我目前用过最流畅的米系手机了",
       "tags": [
         "行业",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-c60bd69dc082",
-      "title": "vivo S60系列发布：2899元起",
-      "source": "酷安热榜",
-      "brand": "vivo",
-      "model": "vivo 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-06-02",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72044018",
-      "image": "",
-      "summary": "vivo S60系列发布：2899元起",
-      "tags": [
-        "vivo",
         "爆料",
         "NewsNow"
       ]
@@ -979,6 +999,26 @@ window.phoneRadarAuto = {
         "Samsung",
         "爆料",
         "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-ecb43367c88a",
+      "title": "JSCHEN小小狐：小米 17T 系列预热：双尺寸 / 四曲包裹式中框",
+      "source": "JSCHEN小小狐",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-06-01",
+      "time": "02:01",
+      "publishedAt": "2026-06-01T02:01:51.000Z",
+      "url": "https://www.coolapk.com/feed/72092811",
+      "image": "http://image.coolapk.com/feed/2026/0601/10/4702274_1bf57057_9485_7259_887@1500x1500.jpg",
+      "summary": "『小米 17T 系列预热：双尺寸 / 四曲包裹式中框』 ◇ 四曲包裹式中框（标准版塑料 / Pro 金属） ◇ 超大 R 角设计 ◇ 2D 直屏 + 超窄边框 ◇ 一体化金属镜头 Deco 全新小米 17T 系列，双尺寸，皆旗舰。 #今日热点# #小米17T# #小米17#",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "酷安博主"
       ]
     }
   ]
