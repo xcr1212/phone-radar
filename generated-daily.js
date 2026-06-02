@@ -1,11 +1,11 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-06-01T23:44:17.329Z",
-  "issueDate": "2026-06-01",
-  "issue": "VOL.260601",
+  "updatedAt": "2026-06-02T05:00:14.951Z",
+  "issueDate": "2026-06-02",
+  "issue": "VOL.260602",
   "title": "手机情报日报",
-  "intro": "今日筛出 16 条重点，其中 8 条是重点爆料，包含 8 条 iPhone 相关、1 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 15 条重点，其中 8 条是重点爆料，包含 8 条 iPhone 相关、1 条官方确认、0 条参数线索。",
   "stats": {
-    "total": 16,
+    "total": 15,
     "iphone": 8,
     "leaks": 8,
     "official": 1,
@@ -18,23 +18,45 @@ window.phoneRadarDaily = {
       "hint": "机模、配色、影像、屏幕、电池和芯片线索先看。",
       "items": [
         {
-          "id": "auto-05303bbf1990",
-          "title": "告别花哨配色？苹果首款折叠屏手机 iPhone Ultra 白色版机模曝光",
+          "id": "auto-39fdc5e4bf83",
+          "title": "消息称苹果 iPhone 18 Pro 国行版打样电池容量约 4056mAh，美版机型约 4288mAh",
           "originalTitle": "",
           "source": "IT之家",
           "brand": "iPhone",
           "type": "爆料",
           "trust": "媒体汇总",
-          "date": "2026-06-01",
-          "url": "https://www.ithome.com/0/958/456.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/6/a45ef6ea-df16-4c19-ad3d-573f934ad0b3.jpg?x-bce-process=image/format,f_auto",
+          "date": "2026-06-02",
+          "url": "https://www.ithome.com/0/958/498.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/6/4eb56662-6754-46ca-94cd-8251766f0651.jpg?x-bce-process=image/format,f_auto",
           "verdict": "先看",
-          "takeaway": "IT之家 6 月 2 日消息，苹果预计将于今年晚些时候推出旗下首款折叠屏 iPhone。有传闻称这款名为“iPhone Ultra”的机型将提供两种配色，一名爆料博主今日放出一张机模谍照，据称展示了其中一款配色。 博主 @i冰宇宙 在微博放出了这张图片，照片首度曝光了白色款苹果折叠手机。据悉该机型已进入小批量试产阶段，但图中机器大概率为模型机。另一位爆料博…",
-          "detail": "IT之家 6 月 2 日消息，苹果预计将于今年晚些时候推出旗下首款折叠屏 iPhone。有传闻称这款名为“iPhone Ultra”的机型将提供两种配色，一名爆料博主今日放出一张机模谍照，据称展示了其中一款配色。 博主 @i冰宇宙 在微博放出了这张图片，照片首度曝光了白色款苹果折叠手机。据悉该机型已进入小批量试产阶段，但图中机器大概率为模型机。另一位爆料博…",
+          "takeaway": "IT之家 6 月 2 日消息，博主 @数码闲聊站 发文，透露苹果 iPhone 18 Pro 国行版打样电池容量约 4056mAh，美版打样电池容量约 4288mAh，而 Pro Max 电池容量“挤到五字头”。 该博主同时表示，苹果 iPhone 18 Pro 这代硬件加大电池，升级 2nm A20 Pro 处理器，同时引入 48Mp 可变光圈，原则上也…",
+          "detail": "IT之家 6 月 2 日消息，博主 @数码闲聊站 发文，透露苹果 iPhone 18 Pro 国行版打样电池容量约 4056mAh，美版打样电池容量约 4288mAh，而 Pro Max 电池容量“挤到五字头”。 该博主同时表示，苹果 iPhone 18 Pro 这代硬件加大电池，升级 2nm A20 Pro 处理器，同时引入 48Mp 可变光圈，原则上也…",
           "keyPoints": [
-            "外观 / 配色 / 尺寸",
-            "屏幕形态",
+            "影像硬件",
+            "电池 / 充电",
+            "芯片 / 性能",
             "爆料来源"
+          ],
+          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "auto-472c287842f5",
+          "title": "iPhone 相关消息",
+          "originalTitle": "",
+          "source": "Gizmochina",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-06-02",
+          "url": "https://www.gizmochina.com/2026/06/02/iphone-18-pro-battery-size-china-vs-global/",
+          "image": "https://www.gizmochina.com/wp-content/uploads/2026/05/iPhone-18-Pro-series-AI-generated-render-300x169.png?x10805",
+          "verdict": "先看",
+          "takeaway": "iPhone 相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
+          "detail": "iPhone 相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
+          "keyPoints": [
+            "外观 / 配色 / 尺寸"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
@@ -169,28 +191,6 @@ window.phoneRadarDaily = {
           "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "auto-3cd4d7e4eea7",
-          "title": "iPhone 18 Pro 对比 iPhone Ultra：差异整理",
-          "originalTitle": "",
-          "source": "9to5Mac",
-          "brand": "iPhone",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-05-28",
-          "url": "https://9to5mac.com/2026/05/28/iphone-18-pro-vs-iphone-ultra-three-features-to-win-your-upgrade/",
-          "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/05/iphone-17-pro-blue-angle-two.jpg?quality=82&strip=all&w=1600",
-          "verdict": "先看",
-          "takeaway": "iPhone 18 Pro 对比 iPhone Ultra：重点看定位、配置差异和价格差，判断是否值得等更高端型号。",
-          "detail": "iPhone 18 Pro 对比 iPhone Ultra 的差异整理。重点看两款机型的定位、影像规格、屏幕尺寸、价格区间和发布时间是否拉开差距。",
-          "keyPoints": [
-            "成本 / 价格",
-            "爆料来源"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         }
       ]
     },
@@ -199,27 +199,6 @@ window.phoneRadarDaily = {
       "title": "新机与官方发布",
       "hint": "能直接更新到参数库。",
       "items": [
-        {
-          "id": "auto-681249a1532f",
-          "title": "为星闪音频规模化铺路：华为 nova 16 系列手机（含 z）全系支持星闪 E2.0 功能",
-          "originalTitle": "",
-          "source": "IT之家",
-          "brand": "Huawei",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-06-01",
-          "url": "https://www.ithome.com/0/958/421.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/6/57e2d6a6-ac8c-43e2-958a-38adc893c715.jpg?x-bce-process=image/format,f_auto",
-          "verdict": "先看",
-          "takeaway": "IT之家 6 月 1 日消息，华为 nova 16 系列及全场景新品发布会已落下帷幕。此次发布会的主角 —— nova 16 系列共有四款机型， 定价 2699 元起 。 ▲ IT之家现场实拍：华为 nova 16 系列真机 IT之家注意到，华为 nova 16 系列手机还有其他没有公开的亮点 —— 全系（含 z）支持星闪 E2.0 功能。 这意味着 no…",
-          "detail": "IT之家 6 月 1 日消息，华为 nova 16 系列及全场景新品发布会已落下帷幕。此次发布会的主角 —— nova 16 系列共有四款机型， 定价 2699 元起 。 ▲ IT之家现场实拍：华为 nova 16 系列真机 IT之家注意到，华为 nova 16 系列手机还有其他没有公开的亮点 —— 全系（含 z）支持星闪 E2.0 功能。 这意味着 no…",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "中文源可以直接点开快读；看完只保留和购机有关的点。"
-        },
         {
           "id": "auto-9a1655e85c50",
           "title": "Galaxy S26 影像能力相关消息",
@@ -240,6 +219,29 @@ window.phoneRadarDaily = {
           "confidence": "官方内容，可直接作为已确认信息记录。",
           "impact": "影响拍照体验，买旗舰机时值得关注。",
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        },
+        {
+          "id": "auto-f9f06668a598",
+          "title": "Xiaomi 影像能力相关消息",
+          "originalTitle": "",
+          "source": "Gizmochina",
+          "brand": "Xiaomi",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-06-02",
+          "url": "https://www.gizmochina.com/2026/06/02/redmi-k100-pro-camera-specs-battery-size-key-details-leak/",
+          "image": "https://www.gizmochina.com/wp-content/uploads/2025/10/REDMI-K90-Pro-Max-Review_1.mp4_20251031_111302.098-300x150.jpg?x10805",
+          "verdict": "可略过",
+          "takeaway": "Xiaomi 有系统功能或 AI 体验更新，适合关注后续是否影响日常使用。",
+          "detail": "Xiaomi 影像能力相关消息。重点看影像功能是否和新机硬件有关，如果只是拍摄案例或营销内容，参考价值会低一些。",
+          "keyPoints": [
+            "影像硬件",
+            "电池 / 充电",
+            "芯片 / 性能"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "影响性能和寿命判断，适合放进参数库。",
+          "action": "有具体参数就记录到参数库；没有参数就先收藏。"
         }
       ]
     },
@@ -289,27 +291,6 @@ window.phoneRadarDaily = {
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是实际体验内容，买前适合重点看缺点和取舍。",
           "action": "中文源可以直接点开快读；看完只保留和购机有关的点。"
-        },
-        {
-          "id": "auto-4c8cca93ef1c",
-          "title": "Pixel 10 Pro Fold 折叠屏相关消息",
-          "originalTitle": "",
-          "source": "9to5Google",
-          "brand": "Pixel",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-05-22",
-          "url": "https://9to5google.com/2026/05/22/pixel-10-pro-fold-long-term-review/",
-          "image": "",
-          "verdict": "可略过",
-          "takeaway": "Pixel 影像能力相关宣传或案例，主要看是否透露拍摄能力变化。",
-          "detail": "Pixel 10 Pro Fold 折叠屏相关消息。重点看折痕、铰链、厚度、屏幕可靠性和重量是否有实质改善。",
-          "keyPoints": [
-            "影像硬件"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "影响拍照体验，买旗舰机时值得关注。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         }
       ]
     },

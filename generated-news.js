@@ -1,18 +1,90 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-06-01T23:44:17.329Z",
+  "updatedAt": "2026-06-02T05:00:14.951Z",
   "news": [
     {
-      "id": "auto-05303bbf1990",
-      "title": "告别花哨配色？苹果首款折叠屏手机 iPhone Ultra 白色版机模曝光",
+      "id": "auto-d79baaa8e5c9",
+      "title": "消息称 OPPO ColorOS 17 融入更多类液态玻璃 UI，苹果风格加倍",
+      "source": "IT之家",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-02",
+      "url": "https://www.ithome.com/0/958/649.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/6/5ad22027-b8bc-4a18-a9fb-b69234e01a88.jpg?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 6 月 2 日消息，博主 @数码闲聊站 发文，透露“自己有一个朋友”，这个“朋友”称 ColorOS 17 融入了更多类液态玻璃 UI，引入更和谐的圆角设计，更多光场渲染，通知弹窗 / 灵动岛 / 音乐播放场景都加了实时光效，苹果风格加倍。 另参考IT之家先前报道，有消息称 OPPO 将效仿苹果 20 周年纪念版 iPhone， 提前推出一款类似…",
+      "tags": [
+        "OPPO",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-36174eef4295",
+      "title": "多家地方性银行推出微信提现手续费补贴活动，争夺用户零钱存款",
+      "source": "IT之家",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-02",
+      "url": "https://www.ithome.com/0/958/632.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/6/2d4cbe58-97fb-41ea-a109-7722d331722e.jpg?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 6 月 2 日消息，据界面新闻今日报道，多家银行近日宣布推出微信提现补贴活动。 广西农商联合银行介绍，活动期间，储蓄卡持卡人访问“微信支付提现笔笔省”小程序，有机会随机领取 1666 元、6666 元额度的广西农商专属提现券， 持卡人将微信零钱提现至该行储蓄卡时可抵扣相应额度的提现服务费 。 衡南农商银行表示，在该行手机银行成功签约微信提现手续费…",
+      "tags": [
+        "行业",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-54c8d4cbdc3c",
+      "title": "思特威推出 2 亿像素手机 CMOS 图像传感器 SCC62HS，预计 Q3 量产",
+      "source": "IT之家",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-02",
+      "url": "https://www.ithome.com/0/958/559.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/6/c7952d4b-f281-4e7c-bd4f-fe8e91d9a9cd.png?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 6 月 2 日消息，CMOS 图像传感器供应商思特威（SmartSens）推出了 2 亿像素 0.5μm 像素尺寸手机应用 CMOS 图像传感器 ——SCC62HS。 据介绍，SCC62HS 基于思特威 SmartClarity-SL 技术平台打造，采用 55nm Stacked BSI 工艺制程，并搭载思特威专利 PixGain HDR、SFC…",
+      "tags": [
+        "行业",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-885d824efe52",
+      "title": "小米 17T Pro 手机官宣支持跨平台互通，兼容苹果隔空投送",
+      "source": "IT之家",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-02",
+      "url": "https://www.ithome.com/0/958/551.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/6/7cdf02e8-393c-4462-a427-b7f364595c7c.jpg?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 6 月 2 日消息，小米 @XiaomiHyperOS_ 昨日在 X 平台发布推文，分享了一段视频，在小米 17T Pro 手机上通过 Quick Share， 可以兼容隔空投送（AirDrop）内容到苹果 iPhone 17 上。 IT之家昨日报道，小米手机官方宣布， 全新小米 17T 系列手机国行将于 6 月 8 日正式发布 ，包含小米 17…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-39fdc5e4bf83",
+      "title": "消息称苹果 iPhone 18 Pro 国行版打样电池容量约 4056mAh，美版机型约 4288mAh",
       "source": "IT之家",
       "brand": "iPhone",
       "model": "iPhone 相关机型",
       "type": "爆料",
       "trust": "媒体汇总",
-      "date": "2026-06-01",
-      "url": "https://www.ithome.com/0/958/456.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/6/a45ef6ea-df16-4c19-ad3d-573f934ad0b3.jpg?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 6 月 2 日消息，苹果预计将于今年晚些时候推出旗下首款折叠屏 iPhone。有传闻称这款名为“iPhone Ultra”的机型将提供两种配色，一名爆料博主今日放出一张机模谍照，据称展示了其中一款配色。 博主 @i冰宇宙 在微博放出了这张图片，照片首度曝光了白色款苹果折叠手机。据悉该机型已进入小批量试产阶段，但图中机器大概率为模型机。另一位爆料博…",
+      "date": "2026-06-02",
+      "url": "https://www.ithome.com/0/958/498.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/6/4eb56662-6754-46ca-94cd-8251766f0651.jpg?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 6 月 2 日消息，博主 @数码闲聊站 发文，透露苹果 iPhone 18 Pro 国行版打样电池容量约 4056mAh，美版打样电池容量约 4288mAh，而 Pro Max 电池容量“挤到五字头”。 该博主同时表示，苹果 iPhone 18 Pro 这代硬件加大电池，升级 2nm A20 Pro 处理器，同时引入 48Mp 可变光圈，原则上也…",
       "tags": [
         "iPhone",
         "爆料",
@@ -20,53 +92,89 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-346623964677",
-      "title": "华为 nova 16 系列独占：小艺照相馆代言人专区“拍立得”“播放器”模板公开，可生成专属打卡照",
-      "source": "IT之家",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-01",
-      "url": "https://www.ithome.com/0/958/431.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/6/68a0ff25-d1fd-4909-98c1-1c45ad9683af.jpg?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 6 月 1 日消息，华为 nova 的十周年之作 —— nova 16 系列手机已于今日正式发布，定价 2699 元起。目前， 系列机型专属功能 —— 小艺照相馆代言人专区新增的“拍立得”和“播放器”两大类型模板已公开 。 据介绍，小艺照相馆代言人专区新增“拍立得”、“播放器”两大类型模板，用户点击“上传形象”按钮上传一张照片，就能生成专属打卡照…",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-681249a1532f",
-      "title": "为星闪音频规模化铺路：华为 nova 16 系列手机（含 z）全系支持星闪 E2.0 功能",
-      "source": "IT之家",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-01",
-      "url": "https://www.ithome.com/0/958/421.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/6/57e2d6a6-ac8c-43e2-958a-38adc893c715.jpg?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 6 月 1 日消息，华为 nova 16 系列及全场景新品发布会已落下帷幕。此次发布会的主角 —— nova 16 系列共有四款机型， 定价 2699 元起 。 ▲ IT之家现场实拍：华为 nova 16 系列真机 IT之家注意到，华为 nova 16 系列手机还有其他没有公开的亮点 —— 全系（含 z）支持星闪 E2.0 功能。 这意味着 no…",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-337d7e399d80",
-      "title": "微信安卓版 8.0.74 测试版更新：朋友圈改版 / 合并发多图等功能还在灰度",
-      "source": "IT之家",
+      "id": "auto-210b42227405",
+      "title": "Counterpoint: iPhone shipments grew 8% in Latin America during Q1",
+      "source": "9to5Mac",
       "brand": "iPhone",
       "model": "iPhone 相关机型",
       "type": "爆料",
       "trust": "媒体汇总",
-      "date": "2026-06-01",
-      "url": "https://www.ithome.com/0/958/408.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/6/45ac49a7-e8b8-460f-8f92-914bb89e9ae3.png?x-bce-process=image/format,f_auto",
-      "summary": "从 8.0.72 直接到 8.0.74，在落后两个大版本的情况下，微信安卓版通过一次跳远，实现了版本号追齐 iOS。 在 5 月 29 日晚间， 微信安卓平台迎来 8.0.74 测试版 ，然而几小时后便撤包，直到昨晚（5 月 31 日）又重新发布链接，恢复正常下载。 经实测发现，本次微信安卓最新内测的重心不在于上线新花样，而是以灰度功能覆盖为主。 具体的更…",
+      "date": "2026-06-02",
+      "url": "https://9to5mac.com/2026/06/01/counterpoint-iphone-shipments-grew-8-in-latin-america-during-q1/",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/09/iphone-17-pro-max.jpg?quality=82&strip=all&w=1600",
+      "summary": "A new Counterpoint Research report shows Apple saw iPhone shipments grow 8% year over year in Latin America during Q1 2026. Here are the details. more…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-eae85e662133",
+      "title": "Vivo X500 Ultra may hit 10x optical zoom without teleconverter lens",
+      "source": "Gizmochina",
+      "brand": "vivo",
+      "model": "vivo 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-02",
+      "url": "https://www.gizmochina.com/2026/06/02/vivo-x500-ultra-may-hit-10x-optical-zoom-without-teleconverter-lens/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/04/vivo-X300-Ultra-Review_1.mp4_20260408_144417.444-1-300x150.jpg?x10805",
+      "summary": "A new leak suggests Vivo could be experimenting with a much longer zoom camera for its next Ultra flagship. According to the leak, Vivo is currently testing a 10x telephoto camera…",
+      "tags": [
+        "vivo",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-f9f06668a598",
+      "title": "Alleged Redmi K100 Pro’s camera specs, battery size, and several key details emerge",
+      "source": "Gizmochina",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-02",
+      "url": "https://www.gizmochina.com/2026/06/02/redmi-k100-pro-camera-specs-battery-size-key-details-leak/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2025/10/REDMI-K90-Pro-Max-Review_1.mp4_20251031_111302.098-300x150.jpg?x10805",
+      "summary": "Recent reports have suggested that there could be two Redmi K100 series phones powered by the Snapdragon 8 Elite Gen 5 chip. While these are expected to launch in September this y…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-746bb9436b9b",
+      "title": "Samsung Galaxy Z Fold 8 Ultra moniker reportedly spotted via Bluetooth SIG certification",
+      "source": "Gizmochina",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-02",
+      "url": "https://www.gizmochina.com/2026/06/02/galaxy-z-fold8-ultra-japan-bluetooth-sig-listing/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/06/Samsung-Galaxy-Z-Fold-8-Ultra-Bluetooth-SIG-certified-1024x390.png?x10805",
+      "summary": "Samsung’s upcoming Galaxy Z Fold 8 Ultra has reportedly surfaced in certification records, offering an early indication of the company’s plans for the next generation of foldable…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-472c287842f5",
+      "title": "Apple may ship two different iPhone 18 Pro batteries depending on the market",
+      "source": "Gizmochina",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-02",
+      "url": "https://www.gizmochina.com/2026/06/02/iphone-18-pro-battery-size-china-vs-global/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/05/iPhone-18-Pro-series-AI-generated-render-300x169.png?x10805",
+      "summary": "The iPhone 18 Pro has been making multiple headlines over the past few days. Its dummy units recently surfaced in four colors, including a new dark red option, while the device is…",
       "tags": [
         "iPhone",
         "爆料",
@@ -661,24 +769,6 @@ window.phoneRadarAuto = {
       "url": "https://9to5google.com/2026/05/24/pixel-11-glow-io-wink/",
       "image": "",
       "summary": "Amid leaks and rumors of “Pixel Glow” on the Pixel 11, many are pointing to a specific shot at Google I/O as the first “official” look at the feature. That’s almost surely not at…",
-      "tags": [
-        "Pixel",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-4c8cca93ef1c",
-      "title": "Pixel 10 Pro Fold long-term review: The even trickier second sequel [Video]",
-      "source": "9to5Google",
-      "brand": "Pixel",
-      "model": "Pixel 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-05-22",
-      "url": "https://9to5google.com/2026/05/22/pixel-10-pro-fold-long-term-review/",
-      "image": "",
-      "summary": "Another year, another spin at a foldable from Google, but as the Pixel 10 Pro Fold reaches six months on the market, just what is going well, and where could we get some improveme…",
       "tags": [
         "Pixel",
         "爆料",
