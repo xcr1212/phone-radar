@@ -1,6 +1,186 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-06-03T00:02:09.310Z",
+  "updatedAt": "2026-06-03T05:15:54.807Z",
   "news": [
+    {
+      "id": "auto-0518404beb06",
+      "title": "Xiaomi 18 tipped to feature a 6.4-inch 2K display, 7,000mAh-class battery",
+      "source": "Gizmochina",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-03",
+      "time": "04:53",
+      "publishedAt": "2026-06-03T04:53:11.000Z",
+      "url": "https://www.gizmochina.com/2026/06/03/xiaomi-18-series-key-details-tipped/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/03/Xiaomi-17-300x300.png?x10805",
+      "summary": "In September, Xiaomi is expected to unveil the Xiaomi 18 series as the world’s first smartphones powered by the next-generation Snapdragon 8 Elite Gen 6 flagship chipset. Today, r…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-5b631a6c599c",
+      "title": "Galaxy Z Fold 8 Ultra specs tipped: packs larger battery, weighs the same, gets even slimmer",
+      "source": "Gizmochina",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-03",
+      "time": "04:35",
+      "publishedAt": "2026-06-03T04:35:54.000Z",
+      "url": "https://www.gizmochina.com/2026/06/03/galaxy-z-fold-8-ultra-specs-tipped-packs-larger-battery-weighs-the-same-gets-even-slimmer/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/06/HJycRpzaAAAMxoc-1-300x169.jpg?x10805",
+      "summary": "Samsung‘s next foldable may finally address one of the most common complaints about the Galaxy Z Fold series. According to Ice Universe, the upcoming Galaxy Z Fold 8 Ultra is expe…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-f6a8dce813a5",
+      "title": "Honor 600 Vitality Edition with 8000 nits display begins sale",
+      "source": "Huawei Central",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-03",
+      "time": "04:35",
+      "publishedAt": "2026-06-03T04:35:44.000Z",
+      "url": "https://www.huaweicentral.com/honor-600-vitality-edition-with-8000-nits-display-begins-sale/",
+      "image": "https://www.huaweicentral.com/wp-content/uploads/2026/04/Honor-600-image.jpg",
+      "summary": "Honor 600 Vitality Edition has stepped onto the sale stage. The device made its debut last month in China after achieving booming success in the global markets. Now the company ha…",
+      "tags": [
+        "HONOR",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-9008d19b289d",
+      "title": "Galaxy Z Fold 8 comes with a bigger battery and faster charging",
+      "source": "SamMobile",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-03",
+      "time": "04:23",
+      "publishedAt": "2026-06-03T04:23:32.000Z",
+      "url": "https://www.sammobile.com/news/galaxy-z-fold-8-comes-with-a-bigger-battery-and-faster-charging/",
+      "image": "",
+      "summary": "Samsung will launch two book-style foldable phones this year: the Galaxy Z Fold 8 and the Galaxy Z Fold 8 Ultra. The Galaxy Z Fold 8 has a more compact footprint and a wider folda…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-87d2ab5b3a57",
+      "title": "Vivo X300 Pro outscores pricier X300 Ultra in DxOMark’s camera ranking",
+      "source": "Gizmochina",
+      "brand": "vivo",
+      "model": "vivo 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-03",
+      "time": "03:32",
+      "publishedAt": "2026-06-03T03:32:41.000Z",
+      "url": "https://www.gizmochina.com/2026/06/03/vivo-x300-pro-outscores-pricier-x300-ultra-in-dxomarks-camera-ranking/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/06/vivo-X300-Ultra-Review_1.mp4_20260408_144417.444-1-1024x512-1-300x169.png?x10805",
+      "summary": "DxOMark has finally published its review of the Vivo X300 Ultra, and the result is a little surprising at first glance. Despite being Vivo’s most expensive camera flagship and arg…",
+      "tags": [
+        "vivo",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-a5ad6944cfc0",
+      "title": "Vivo X500 Pro Max display details leaked, 8,000mAh+ battery tipped again",
+      "source": "Gizmochina",
+      "brand": "vivo",
+      "model": "vivo 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-03",
+      "time": "03:04",
+      "publishedAt": "2026-06-03T03:04:46.000Z",
+      "url": "https://www.gizmochina.com/2026/06/03/vivo-x500-pro-max-display-details-leaked-8000mah-battery-tipped/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/06/image-22.png?x10805",
+      "summary": "Recent reports have revealed that the next-generation Vivo X500 series will comprise three models: the standard, Pro, and Pro Max. It goes without saying that the Pro Max variant…",
+      "tags": [
+        "vivo",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-6fa3e025c77d",
+      "title": "【IT之家开箱】华为 nova 16 Pro 手机美图：四款配色齐聚，夏日美学大赏",
+      "source": "IT之家",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-03",
+      "time": "01:52",
+      "publishedAt": "2026-06-03T01:52:27.000Z",
+      "url": "https://www.ithome.com/0/959/088.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/6/7057bf31-cf50-4eb1-94b2-1092d934f679.jpg?x-bce-process=image/format,f_auto",
+      "summary": "6 月 1 日，华为举办了全场景新品发布会，推出了全新 nova 16 系列手机新品，新机由时代少年团代言，主打“夏日美学”，拥有昆仑玻璃、红枫原色镜头等配置，售价 2999 元起，6 月 5 日 10:08 正式开售。 目前，IT之家已经拿到了该系列四款配色的华为 nova 16 Pro 手机，现在就为大家送上开箱图赏。 华为 nova 16 Pro 采…",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-0268d3ee5018",
+      "title": "苹果专利自研相机液冷方案，有望根治 iPhone 相机发烫难题",
+      "source": "IT之家",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-03",
+      "time": "01:19",
+      "publishedAt": "2026-06-03T01:19:20.000Z",
+      "url": "https://www.ithome.com/0/959/076.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/6/7bfa0a16-ad62-4a6d-bc10-945fb3ce8d30.jpg?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 6 月 3 日消息，科技媒体 PatentlyApple 昨日（6 月 2 日）发布博文，报道称苹果获批一项相机模块散热专利， 用介电液体吸收图像传感器、执行器和相关电子元件产生的废热。 IT之家援引博文介绍，现代 iPhone 摄像头包含高帧率视频、计算摄影、ProRes（专业视频编码）、空间视频、夜景和快速自动对焦等功能，因此传感器、处理电路…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-9846abb7a966",
+      "title": "竹本青：【小米 17T系列 影像预热：全新支持「徕卡Live动态照片」】 ▫️徕卡经典／生动 双画质动态Live ▫️徕卡…",
+      "source": "竹本青",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-06-03",
+      "time": "01:01",
+      "publishedAt": "2026-06-03T01:01:50.000Z",
+      "url": "https://www.coolapk.com/feed/72131586",
+      "image": "http://image.coolapk.com/feed/2026/0603/09/4248714_cabb07fa_8611_7108_944-livepic@1440x1920.jpg",
+      "summary": "【小米 17T系列 影像预热：全新支持「徕卡Live动态照片」】 ▫️徕卡经典／生动 双画质动态Live ▫️徕卡Live Moment水印 #HyperOS3# #今日热点# #小米17TPro#",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "酷安博主"
+      ]
+    },
     {
       "id": "newsnow-a8388c3f050c",
       "title": "一日一技｜为什么你应该关闭 iOS 的键盘声音",
@@ -35,26 +215,6 @@ window.phoneRadarAuto = {
       "url": "https://www.coolapk.com/feed/72123633",
       "image": "",
       "summary": "用了几天体验下来，k90pm确实是要吊打小米17pm的，这手机正确的叫法应该是小米k17promax。",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-75c84f0a8c2d",
-      "title": "以旧换新入了，用了别的手机才知道小米的更好用[流泪]",
-      "source": "酷安热榜",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-06-03",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72093567",
-      "image": "",
-      "summary": "以旧换新入了，用了别的手机才知道小米的更好用[流泪]",
       "tags": [
         "Xiaomi",
         "爆料",
@@ -102,63 +262,43 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-94137f426ee0",
-      "title": "谷歌扩大 Quick Share 与 AirDrop 互传适配范围，覆盖更多安卓机型",
-      "source": "IT之家",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
+      "id": "newsnow-75c84f0a8c2d",
+      "title": "以旧换新入了，用了别的手机才知道小米的更好用[流泪]",
+      "source": "酷安热榜",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
       "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-02",
-      "time": "23:33",
-      "publishedAt": "2026-06-02T23:33:27.000Z",
-      "url": "https://www.ithome.com/0/959/044.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/6/9bb50b59-4124-4ebf-9cbe-5270174f6807.jpg?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 6 月 3 日消息，谷歌今日宣布，可让安卓与苹果手机用户通过隔空投送（AirDrop）互传文件的“快速共享（Quick Share）”功能，现已适配更多设备。 IT之家注意到，以下安卓机型现已支持 Quick Share： 三星 Galaxy S26、S26+、S26 Ultra Galaxy S25、S25+、S25 Ultra、S25 Edg…",
+      "trust": "高关注爆料源",
+      "date": "2026-06-03",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/72093567",
+      "image": "",
+      "summary": "以旧换新入了，用了别的手机才知道小米的更好用[流泪]",
       "tags": [
-        "Samsung",
+        "Xiaomi",
         "爆料",
-        "自动抓取"
+        "NewsNow"
       ]
     },
     {
-      "id": "auto-2b553e21a8f7",
-      "title": "IT早报 0603：多家地方性银行补贴微信提现手续费；微信正打通手机语音助手入口；360TB 数据近乎永久保存，我国“玻璃硬盘”量产；孙正义时隔 26 年再登亚洲首富...",
-      "source": "IT之家",
-      "brand": "行业",
-      "model": "智能手机市场",
+      "id": "newsnow-b19d1542fe20",
+      "title": "用了4年的iPhone13ProMax终于正式退役了，这真的是我用过最顺手的手机！除了信号偶尔不给力、当初选的内存有点小之外，几乎挑不出毛病～",
+      "source": "酷安热榜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
       "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-02",
-      "time": "23:31",
-      "publishedAt": "2026-06-02T23:31:09.000Z",
-      "url": "https://www.ithome.com/0/959/043.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/6/2d4cbe58-97fb-41ea-a109-7722d331722e.jpg?x-bce-process=image/format,f_auto",
-      "summary": "“IT早报”时间，大家好，现在是 2026 年 6 月 3 日星期三，今天的重要科技资讯有： 1、多家地方性银行推出微信提现手续费补贴活动，争夺用户零钱存款 广西农商联合银行介绍，活动期间，储蓄卡持卡人访问“微信支付提现笔笔省”小程序，有机会随机领取 1666 元、6666 元额度的广西农商专属提现券，持卡人将微信零钱提现至该行储蓄卡时可抵扣相应额度的提现…",
+      "trust": "高关注爆料源",
+      "date": "2026-06-03",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/72119077",
+      "image": "",
+      "summary": "用了4年的iPhone13ProMax终于正式退役了，这真的是我用过最顺手的手机！除了信号偶尔不给力、当初选的内存有点小之外，几乎挑不出毛病～",
       "tags": [
-        "行业",
+        "iPhone",
         "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-9c4e6d24d4f6",
-      "title": "三星 Galaxy Z Fold8 / Ultra 机模对比照片曝光，直观展示手机尺寸差异",
-      "source": "IT之家",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-02",
-      "time": "23:03",
-      "publishedAt": "2026-06-02T23:03:18.000Z",
-      "url": "https://www.ithome.com/0/959/034.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/6/728b6011-bd6b-4900-8672-a1476fde86f6.jpg?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 6 月 3 日消息，博主 @i冰宇宙 援引消息源“千奇百怪红油派”照片，展示了三星 Galaxy Z Fold8“宽折叠”与 Galaxy Z Fold8 Ultra 两款手机模型机并排摆放的照片，直观展示了机型尺寸差异。 IT之家注：此前消息称三星调整了 Galaxy Z Fold8 系列手机命名策略，原先的 Z Fold8 Wide“宽折叠”…",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
+        "NewsNow"
       ]
     },
     {
@@ -277,26 +417,6 @@ window.phoneRadarAuto = {
       "summary": "Amazon Prime Day is already around the corner, once again. Early deals are popping up, and the Google Pixel 10 series is one of the first Android devices getting a tempting Prime…",
       "tags": [
         "Pixel",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-67fefd9269d4",
-      "title": "OPPO Bubble 潮玩自拍屏官宣搭载恒玄 BES2800BP 芯片：6nm 工艺，集成 Wi-Fi 6",
-      "source": "IT之家",
-      "brand": "OPPO",
-      "model": "OPPO 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-02",
-      "time": "15:18",
-      "publishedAt": "2026-06-02T15:18:03.000Z",
-      "url": "https://www.ithome.com/0/958/999.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/6/c455b59b-b7e2-4ace-9e02-10301b5f5343.jpg?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 6 月 2 日消息，恒玄科技今日发文“揭秘”， OPPO Bubble 潮玩自拍屏搭载了恒玄 BES2800BP 芯片 。 采用 6nm 工艺，超低功耗 集成多核 CPU + 大容量存储，算力大幅提升 集成双模蓝牙和低功耗 Wi-Fi 6 据IT之家此前报道，在 5 月 25 日晚间的 OPPO Reno16 系列新品发布会上， OPPO Bub…",
-      "tags": [
-        "OPPO",
         "爆料",
         "自动抓取"
       ]
@@ -602,26 +722,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "coolapk-user-af4d0aa79fb4",
-      "title": "竹本青：酷态科CP25 电能块「双C线」正式发布：售价199元",
-      "source": "竹本青",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-06-02",
-      "time": "07:00",
-      "publishedAt": "2026-06-02T07:00:46.000Z",
-      "url": "https://www.coolapk.com/feed/72118963",
-      "image": "http://image.coolapk.com/feed/2026/0602/15/4248714_5b901782_4037_7313_570@1080x1790.jpg",
-      "summary": "【酷态科CP25 电能块「双C线」正式发布：符合新国标电芯安全测试标准，售价199元】 ▫️产品型号：LPB200NC ▫️接口数量：1C+2C线+1A ▫️电池容量：20000mAh ▫️额定容量：12000mAh（5V 3A） ● 功率（MAX）： C口/自带线1/2：输入45W、输出55W A口输出：33W 多口输出：20W ▫️符合新国标电芯安全测…",
-      "tags": [
-        "行业",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
       "id": "auto-e0e7275d2d3c",
       "title": "在视频时代，认真拍一张照片：OPPO Find X9 Ultra 影像漫谈",
       "source": "少数派",
@@ -638,26 +738,6 @@ window.phoneRadarAuto = {
       "tags": [
         "OPPO",
         "评测",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-65c4c19bdfbf",
-      "title": "Here’s how Galaxy Z Fold 8, Fold 8 Ultra look compared to each other",
-      "source": "SamMobile",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-02",
-      "time": "06:08",
-      "publishedAt": "2026-06-02T06:08:45.000Z",
-      "url": "https://www.sammobile.com/news/heres-how-galaxy-z-fold-8-fold-8-ultra-look-compared-each-other/",
-      "image": "https://www.sammobile.com/wp-content/uploads/2026/06/Samsung-Galaxy-Z-Fold-8-And-Galaxy-Z-Fold-8-Ultra-Dummy-Units.jpeg",
-      "summary": "Samsung is expected to launch two flagship smartphones with book-style foldable displays next month, the Galaxy Z Fold 8 and the Galaxy Z Fold 8 Ultra. Leaks about them have alrea…",
-      "tags": [
-        "Samsung",
-        "爆料",
         "自动抓取"
       ]
     },
@@ -682,26 +762,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "coolapk-user-11162b42a598",
-      "title": "竹本青：曝华为畅享100 Pro Max 已立项：内部代号\"叶问\"",
-      "source": "竹本青",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-06-02",
-      "time": "06:02",
-      "publishedAt": "2026-06-02T06:02:44.000Z",
-      "url": "https://www.coolapk.com/feed/72117985",
-      "image": "http://image.coolapk.com/feed/2026/0602/14/4248714_ab9e13ff_0161_3907_766@1438x391.jpg",
-      "summary": "【曝华为畅享100 Pro Max 已立项：内部代号\"叶问\"，有望年底发布】 ▫️内部代号\"叶问\" ▫️华系最大电池+麒麟8芯片 ▫️旗舰级ID设计 ▫️年底前后登场｜定位中端 4月，第三方数据显示，华为畅享90系列首销当日销量达250K+。 #今日热点# #鸿蒙6# #华为畅享90ProMax#",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
       "id": "auto-4f530b80e24b",
       "title": "Xiaomi 17T Pro joins the list with Google’s AirDrop-to-Quick Share file sharing",
       "source": "Gizmochina",
@@ -723,7 +783,7 @@ window.phoneRadarAuto = {
     },
     {
       "id": "auto-eae85e662133",
-      "title": "Vivo X500 Ultra may hit 10x optical zoom without teleconverter lens",
+      "title": "Vivo X500 Ultra may upgrade zoom from 3.7x to 10x periscope telephoto, hints tipster",
       "source": "Gizmochina",
       "brand": "vivo",
       "model": "vivo 相关机型",
@@ -733,7 +793,7 @@ window.phoneRadarAuto = {
       "time": "04:22",
       "publishedAt": "2026-06-02T04:22:46.000Z",
       "url": "https://www.gizmochina.com/2026/06/02/vivo-x500-ultra-may-hit-10x-optical-zoom-without-teleconverter-lens/",
-      "image": "https://www.gizmochina.com/wp-content/uploads/2026/04/vivo-X300-Ultra-Review_1.mp4_20260408_144417.444-1-300x150.jpg?x10805",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/06/vivo-X300-Ultra-Review_1.mp4_20260408_144417.444-1-1024x512-1-300x169.png?x10805",
       "summary": "A new leak suggests Vivo could be experimenting with a much longer zoom camera for its next Ultra flagship. According to the leak, Vivo is currently testing a 10x telephoto camera…",
       "tags": [
         "vivo",
