@@ -1,6 +1,166 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-06-02T21:24:21.518Z",
+  "updatedAt": "2026-06-03T00:02:09.310Z",
   "news": [
+    {
+      "id": "newsnow-a8388c3f050c",
+      "title": "一日一技｜为什么你应该关闭 iOS 的键盘声音",
+      "source": "少数派热榜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-06-03",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://sspai.com/post/109460",
+      "image": "",
+      "summary": "一日一技｜为什么你应该关闭 iOS 的键盘声音",
+      "tags": [
+        "iPhone",
+        "评测",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-d8eaecc1f73a",
+      "title": "用了几天体验下来，k90pm确实是要吊打小米17pm的，这手机正确的叫法应该是小米k17promax。",
+      "source": "酷安热榜",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-06-03",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/72123633",
+      "image": "",
+      "summary": "用了几天体验下来，k90pm确实是要吊打小米17pm的，这手机正确的叫法应该是小米k17promax。",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-75c84f0a8c2d",
+      "title": "以旧换新入了，用了别的手机才知道小米的更好用[流泪]",
+      "source": "酷安热榜",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-06-03",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/72093567",
+      "image": "",
+      "summary": "以旧换新入了，用了别的手机才知道小米的更好用[流泪]",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-02a4ed952f79",
+      "title": "如果让你选，你选这玩意还是iPhone17pm[喝茶][喝茶][受虐滑稽][受虐滑稽]",
+      "source": "酷安热榜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-06-03",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/72110257",
+      "image": "",
+      "summary": "如果让你选，你选这玩意还是iPhone17pm[喝茶][喝茶][受虐滑稽][受虐滑稽]",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-35259beadba3",
+      "title": "兄弟们新手机到了 要不要更新系统 这是我目前用过最流畅的米系手机了",
+      "source": "酷安热榜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-06-03",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/72106764",
+      "image": "",
+      "summary": "兄弟们新手机到了 要不要更新系统 这是我目前用过最流畅的米系手机了",
+      "tags": [
+        "行业",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "auto-94137f426ee0",
+      "title": "谷歌扩大 Quick Share 与 AirDrop 互传适配范围，覆盖更多安卓机型",
+      "source": "IT之家",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-02",
+      "time": "23:33",
+      "publishedAt": "2026-06-02T23:33:27.000Z",
+      "url": "https://www.ithome.com/0/959/044.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/6/9bb50b59-4124-4ebf-9cbe-5270174f6807.jpg?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 6 月 3 日消息，谷歌今日宣布，可让安卓与苹果手机用户通过隔空投送（AirDrop）互传文件的“快速共享（Quick Share）”功能，现已适配更多设备。 IT之家注意到，以下安卓机型现已支持 Quick Share： 三星 Galaxy S26、S26+、S26 Ultra Galaxy S25、S25+、S25 Ultra、S25 Edg…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-2b553e21a8f7",
+      "title": "IT早报 0603：多家地方性银行补贴微信提现手续费；微信正打通手机语音助手入口；360TB 数据近乎永久保存，我国“玻璃硬盘”量产；孙正义时隔 26 年再登亚洲首富...",
+      "source": "IT之家",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-02",
+      "time": "23:31",
+      "publishedAt": "2026-06-02T23:31:09.000Z",
+      "url": "https://www.ithome.com/0/959/043.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/6/2d4cbe58-97fb-41ea-a109-7722d331722e.jpg?x-bce-process=image/format,f_auto",
+      "summary": "“IT早报”时间，大家好，现在是 2026 年 6 月 3 日星期三，今天的重要科技资讯有： 1、多家地方性银行推出微信提现手续费补贴活动，争夺用户零钱存款 广西农商联合银行介绍，活动期间，储蓄卡持卡人访问“微信支付提现笔笔省”小程序，有机会随机领取 1666 元、6666 元额度的广西农商专属提现券，持卡人将微信零钱提现至该行储蓄卡时可抵扣相应额度的提现…",
+      "tags": [
+        "行业",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-9c4e6d24d4f6",
+      "title": "三星 Galaxy Z Fold8 / Ultra 机模对比照片曝光，直观展示手机尺寸差异",
+      "source": "IT之家",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-02",
+      "time": "23:03",
+      "publishedAt": "2026-06-02T23:03:18.000Z",
+      "url": "https://www.ithome.com/0/959/034.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/6/728b6011-bd6b-4900-8672-a1476fde86f6.jpg?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 6 月 3 日消息，博主 @i冰宇宙 援引消息源“千奇百怪红油派”照片，展示了三星 Galaxy Z Fold8“宽折叠”与 Galaxy Z Fold8 Ultra 两款手机模型机并排摆放的照片，直观展示了机型尺寸差异。 IT之家注：此前消息称三星调整了 Galaxy Z Fold8 系列手机命名策略，原先的 Z Fold8 Wide“宽折叠”…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-ea37969c2d5c",
       "title": "A thinner, lighter Motorola Edge 2026 has just popped up for pre-order",
@@ -162,66 +322,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-2b2835fb43f6",
-      "title": "华为 nova 16 系列手机星闪能力公布，Pro / Ultra 还能连手写笔",
-      "source": "IT之家",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-02",
-      "time": "14:48",
-      "publishedAt": "2026-06-02T14:48:35.000Z",
-      "url": "https://www.ithome.com/0/958/992.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/6/49bf4151-25f7-46f8-9e77-5e1b7f184943.jpg?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 6 月 2 日消息，华为 nova 16 系列新机已于昨日正式发布，新机共四款机型， 全系支持星闪 E2.0 ，定价 2699 元起。 IT之家注意到，目前华为官网已公开 nova 16 系列手机星闪能力具体支持情况： 华为 nova 16 系列手机星闪支持情况 产品类型 产品系列 产品型号 星闪 星闪音频 星闪车钥匙 星闪精确查找 连接支持星闪…",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-297f1c03f056",
-      "title": "内存涨价拖累手机销量，UBI Research 下调今年全球 OLED 材料需求预期",
-      "source": "IT之家",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-02",
-      "time": "14:38",
-      "publishedAt": "2026-06-02T14:38:45.000Z",
-      "url": "https://www.ithome.com/0/958/989.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2024/10/dbf0f5ac-d9aa-4253-bf1e-85b7cbb5a934.jpg?x-bce-process=image/format,f_auto/auto-orient,o_1",
-      "summary": "IT之家 6 月 2 日消息，据韩媒 The Elec 今晚报道，市场研究机构 UBI Research 下调了今年 全球 OLED 发光材料需求预期 。存储器价格上涨正在压缩智能手机销量，并进一步拖累 OLED 面板出货量。 UBI Research 周一表示，预计今年全球 OLED 面板厂商发光材料 采购额为 25.4 亿美元（IT之家注：现汇率约合…",
-      "tags": [
-        "行业",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-bb79ce24cf84",
-      "title": "华为 nova 16 系列手机确认独占时代少年团专属提示音，功能细节公布",
-      "source": "IT之家",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-02",
-      "time": "14:17",
-      "publishedAt": "2026-06-02T14:17:02.000Z",
-      "url": "https://www.ithome.com/0/958/983.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/6/1d6e755a-d5d7-4380-82b7-7c1391aae2cb.jpg?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 6 月 2 日消息，华为 nova 的十周年之作 —— nova 16 系列手机已于昨日正式发布，定价 2699 元起。目前， 系列机型独占功能 —— 时代少年团专属提示音细节已公开 。 ▲ IT之家现场实拍：华为 nova 16 系列真机 据介绍，时代少年团专属提示音是专门为华为 nova 16 系列手机打造的服务，包含以下场景：手机开始充电、…",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-15eea8219647",
       "title": "Galaxy Z Fold 8 ‘Wide’ fixes another foldable problem as more specs & photos leak [Gallery]",
       "source": "9to5Google",
@@ -242,26 +342,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-bb33ac3c7298",
-      "title": "摩托罗拉 Edge 2026 手机发布：天玑 7450 芯片，599 美元",
-      "source": "IT之家",
-      "brand": "Pixel",
-      "model": "Pixel 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-02",
-      "time": "14:04",
-      "publishedAt": "2026-06-02T14:04:43.000Z",
-      "url": "https://www.ithome.com/0/958/980.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/6/e4d8c07b-d958-405e-b53d-f9a6f327caa3.jpg?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 6 月 2 日消息，摩托罗拉现已在北美市场推出 Edge 2026 手机，新品定位中端，预计将成为 谷歌 Pixel 10a 的竞争对手。 据介绍， 这款手机配备一块 6.3 英寸 Extreme AMOLED 屏幕 ，分辨率为 Super HD，最高亮度可达 5200 尼特。搭载联发科天玑 7450 处理器， 拥有 8GB 内存和 128GB…",
-      "tags": [
-        "Pixel",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-3343baabccdf",
       "title": "Here’s when the Redmi Turbo 5 will launch in India",
       "source": "Gizmochina",
@@ -277,26 +357,6 @@ window.phoneRadarAuto = {
       "summary": "Redmi has finally put an end to speculation surrounding the arrival of the Turbo 5 in India. After teasing the handset for several days, the brand has now confirmed when the devic…",
       "tags": [
         "Xiaomi",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-6a1837e9f5a1",
-      "title": "消息称三星 Galaxy Z Fold 8 折叠屏手机重 201 克，4800mAh 电池 +45W 快充",
-      "source": "IT之家",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-02",
-      "time": "13:30",
-      "publishedAt": "2026-06-02T13:30:33.000Z",
-      "url": "https://www.ithome.com/0/958/966.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/6/bf71028e-d185-4ae0-b2e2-888755e6bb4c.jpg?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 6 月 2 日消息，过去一周，三星 Galaxy Z Fold 8 和 Galaxy Z Fold 8 Ultra 接连出现大量爆料。据悉，机身更宽的“阔折叠”新机将命名为 Galaxy Z Fold 8，而用户熟悉的标准 Fold 形态将改名为 Galaxy Z Fold 8 Ultra。 博主“i 冰宇宙”今天带来了新机的更多信息：Galax…",
-      "tags": [
-        "Samsung",
         "爆料",
         "自动抓取"
       ]
@@ -759,266 +819,6 @@ window.phoneRadarAuto = {
         "iPhone",
         "爆料",
         "自动抓取"
-      ]
-    },
-    {
-      "id": "newsnow-36c34df5f52a",
-      "title": "一日一技｜为什么你应该关闭 iOS 的键盘声音",
-      "source": "少数派热榜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "评测",
-      "trust": "媒体汇总",
-      "date": "2026-06-02",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://sspai.com/post/109460",
-      "image": "",
-      "summary": "一日一技｜为什么你应该关闭 iOS 的键盘声音",
-      "tags": [
-        "iPhone",
-        "评测",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-f738a06e682c",
-      "title": "用了几天体验下来，k90pm确实是要吊打小米17pm的，这手机正确的叫法应该是小米k17promax。",
-      "source": "酷安热榜",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-06-02",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72123633",
-      "image": "",
-      "summary": "用了几天体验下来，k90pm确实是要吊打小米17pm的，这手机正确的叫法应该是小米k17promax。",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-0c4831e55b1c",
-      "title": "以旧换新入了，用了别的手机才知道小米的更好用[流泪]",
-      "source": "酷安热榜",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-06-02",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72093567",
-      "image": "",
-      "summary": "以旧换新入了，用了别的手机才知道小米的更好用[流泪]",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-bddb1d5e8ce9",
-      "title": "如果让你选，你选这玩意还是iPhone17pm[喝茶][喝茶][受虐滑稽][受虐滑稽]",
-      "source": "酷安热榜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-06-02",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72110257",
-      "image": "",
-      "summary": "如果让你选，你选这玩意还是iPhone17pm[喝茶][喝茶][受虐滑稽][受虐滑稽]",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-8b8c09069854",
-      "title": "兄弟们新手机到了 要不要更新系统 这是我目前用过最流畅的米系手机了",
-      "source": "酷安热榜",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-06-02",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72106764",
-      "image": "",
-      "summary": "兄弟们新手机到了 要不要更新系统 这是我目前用过最流畅的米系手机了",
-      "tags": [
-        "行业",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "auto-d824e404a4e3",
-      "title": "Leaker reveals new iPhone Ultra feature, release timing update",
-      "source": "9to5Mac",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-01",
-      "time": "15:51",
-      "publishedAt": "2026-06-01T15:51:13.000Z",
-      "url": "https://9to5mac.com/2026/06/01/leaker-reveals-new-iphone-ultra-feature-release-timing-update/",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/03/iphone-fold-mockup-blue.jpg?quality=82&strip=all&w=1600",
-      "summary": "Weibo leaker Fixed Focus Digital has shared a new post about the iPhone Ultra today that reveals a feature not rumored before—a vapor chamber—alongside a release timing update. mo…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-9858943cc2d6",
-      "title": "Galaxy Z Fold 8’s wider new form factor just showed up in the wild",
-      "source": "9to5Google",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-01",
-      "time": "14:05",
-      "publishedAt": "2026-06-01T14:05:00.000Z",
-      "url": "https://9to5google.com/2026/06/01/galaxy-z-fold-8s-wider-new-form-factor-just-showed-up-in-the-wild/",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/06/galaxy-z-fold-8-wide-wild.jpg?quality=82&strip=all&w=1200",
-      "summary": "Samsung’s upcoming Galaxy Z Fold 8 is debuting a wider form factor we’ve not seen on Android in a few years and, ahead of its launch, the device has been spotted in the wild. more…",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-aec8dcdff3d1",
-      "title": "Dummy model shows how the iPhone Ultra may look in white",
-      "source": "9to5Mac",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-01",
-      "time": "12:41",
-      "publishedAt": "2026-06-01T12:41:25.000Z",
-      "url": "https://9to5mac.com/2026/06/01/dummy-model-shows-how-the-iphone-ultra-may-look-in-white/",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/Dummy-model-shows-how-the-iPhone-Ultra-may-look-in-white.jpg?quality=82&strip=all&w=1400",
-      "summary": "White has been reported to be one of the confirmed colors for the upcoming iPhone Ultra , and a new dummy model gives us a very basic idea of how it might look. While the automati…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-293daa52e193",
-      "title": "Galaxy Z Fold 8 leak pits Samsung’s wider foldable against the rumored Ultra",
-      "source": "Android Central",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "评测",
-      "trust": "媒体汇总",
-      "date": "2026-06-01",
-      "time": "09:05",
-      "publishedAt": "2026-06-01T09:05:00.000Z",
-      "url": "https://www.androidcentral.com/phones/samsung-galaxy/galaxy-z-fold-8-leak-pits-samsungs-wider-foldable-against-the-rumored-ultra",
-      "image": "https://cdn.mos.cms.futurecdn.net/wm367SscxJD8YYmy6CRhpP-1280-80.jpg",
-      "summary": "Leaks confirm Samsung is giving the base Fold 8 a much-needed wider screen, but bizarrely reserving the old, cramped design for the camera-heavy Ultra model.",
-      "tags": [
-        "Samsung",
-        "评测",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-34a0540d042d",
-      "title": "Leaked Galaxy Z Fold 8 looks nothing like the Fold we’re used to",
-      "source": "Android Authority",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-01",
-      "time": "07:53",
-      "publishedAt": "2026-06-01T07:53:03.000Z",
-      "url": "https://www.androidauthority.com/samsung-galaxy-z-fold-8-dummy-unit-leak-3672980/",
-      "image": "https://www.androidauthority.com/wp-content/uploads/2025/08/IMG_20250820_175646-scaled.jpg",
-      "summary": "Samsung's next Foldable might be the cutest.",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "coolapk-user-d805c2cc3a6f",
-      "title": "JSCHEN小小狐：华为 nova 16 系列正式发布：2699 元起售",
-      "source": "JSCHEN小小狐",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-06-01",
-      "time": "07:32",
-      "publishedAt": "2026-06-01T07:32:01.000Z",
-      "url": "https://www.coolapk.com/feed/72099577",
-      "image": "http://image.coolapk.com/feed/2026/0601/15/4702274_6d9e5ab4_9119_6509_693@2160x2880.jpg",
-      "summary": "『华为 nova 16 系列正式发布：2699 元起售』 nova 16z（麒麟 8020 / 线上专属） 12GB + 256GB —— 2699 元 12GB + 512GB —— 3199 元 nova 16（麒麟 9010S） 12GB + 256GB —— 2999 元 12GB + 512GB —— 3499 元 nova 16 Pro（麒麟…",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
-      "id": "auto-b2c4a254684e",
-      "title": "Samsung’s upcoming wide Galaxy Z Fold 8 spied in public for the first time",
-      "source": "Android Authority",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-01",
-      "time": "02:35",
-      "publishedAt": "2026-06-01T02:35:06.000Z",
-      "url": "https://www.androidauthority.com/samsung-galaxy-z-fold-8-wide-spotted-in-the-wild-3672943/",
-      "image": "https://www.androidauthority.com/wp-content/uploads/2026/05/Galaxy-Z-Fold-8-Wide-real-life-1-1.jpg",
-      "summary": "Real-world testing for Samsung's next foldables appears to be well underway, as it should.",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "coolapk-user-ecb43367c88a",
-      "title": "JSCHEN小小狐：小米 17T 系列预热：双尺寸 / 四曲包裹式中框",
-      "source": "JSCHEN小小狐",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-06-01",
-      "time": "02:01",
-      "publishedAt": "2026-06-01T02:01:51.000Z",
-      "url": "https://www.coolapk.com/feed/72092811",
-      "image": "http://image.coolapk.com/feed/2026/0601/10/4702274_1bf57057_9485_7259_887@1500x1500.jpg",
-      "summary": "『小米 17T 系列预热：双尺寸 / 四曲包裹式中框』 ◇ 四曲包裹式中框（标准版塑料 / Pro 金属） ◇ 超大 R 角设计 ◇ 2D 直屏 + 超窄边框 ◇ 一体化金属镜头 Deco 全新小米 17T 系列，双尺寸，皆旗舰。 #今日热点# #小米17T# #小米17#",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "酷安博主"
       ]
     }
   ]
