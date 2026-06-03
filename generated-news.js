@@ -1,6 +1,66 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-06-03T17:17:35.923Z",
+  "updatedAt": "2026-06-03T21:29:54.661Z",
   "news": [
+    {
+      "id": "auto-32e2b0a36db9",
+      "title": "WhatsApp’s revamped chat lists interface rolling out on iOS",
+      "source": "9to5Mac",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-03",
+      "time": "21:20",
+      "publishedAt": "2026-06-03T21:20:44.000Z",
+      "url": "https://9to5mac.com/2026/06/03/whatsapps-revamped-chat-lists-interface-rolling-out-on-ios/",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/08/whatsapp-glass.jpg?quality=82&strip=all&w=1600",
+      "summary": "WhatsApp is rolling out a new interface that makes it easier for iPhone users to manage and quickly switch between their different chat lists. Here are the details. more…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-30f51beb1fb8",
+      "title": "After this database listing, it looks like the 'Galaxy Z Fold 8 Ultra' is for real",
+      "source": "Android Central",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-06-03",
+      "time": "19:05",
+      "publishedAt": "2026-06-03T19:05:28.000Z",
+      "url": "https://www.androidcentral.com/phones/samsung-galaxy/after-this-database-listing-it-looks-like-the-galaxy-z-fold-8-ultra-is-for-real",
+      "image": "https://cdn.mos.cms.futurecdn.net/YooQHRMyh3tDARCzygZcBf-1280-80.jpg",
+      "summary": "An important certification for a \"Galaxy Z Fold 8 Ultra\" might've just cemented its existence.",
+      "tags": [
+        "Samsung",
+        "评测",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-dedd4e4f3e07",
+      "title": "The best Qi2 batteries for iPhone and Pixel",
+      "source": "The Verge",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-03",
+      "time": "17:38",
+      "publishedAt": "2026-06-03T17:38:47.000Z",
+      "url": "https://www.theverge.com/gadgets/939362/best-magsafe-qi2-2-batteries-power-banks",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/268545_Best_MagSafe_battery_CFaulkner_0001.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "summary": "Compact power banks have gotten a lot faster in the past year — and it’s not just their USB-C charging speeds that have received a boost. The newest Qi2.2-certified models can wir…",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-b5a1ba56ec55",
       "title": "对标杜比视界：苹果、谷歌联合推出 Eclipsa Video HDR 开源标准，有望率先应用于 iPhone 18 Pro 系列",
@@ -239,26 +299,6 @@ window.phoneRadarAuto = {
         "Xiaomi",
         "爆料",
         "自动抓取"
-      ]
-    },
-    {
-      "id": "coolapk-user-d8f40b32b3c4",
-      "title": "JSCHEN小小狐：去看了一下 17T 系列，Deco 尺寸挺克制的 马达体感应该都是 0809A，扬声器也一般 Pro 正面有 LI…",
-      "source": "JSCHEN小小狐",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-06-03",
-      "time": "11:21",
-      "publishedAt": "2026-06-03T11:21:11.000Z",
-      "url": "https://www.coolapk.com/feed/72142013",
-      "image": "http://image.coolapk.com/feed/2026/0603/19/4702274_382ea3e3_5663_7876_659-uhdr@2366x3503.jpg",
-      "summary": "去看了一下 17T 系列，Deco 尺寸挺克制的 马达体感应该都是 0809A，扬声器也一般 Pro 正面有 LIPO 四窄边，标准版就没有了 另外标杯的塑料中框确实有点以假乱真的意思 不知道是不是因为表面比常规磨砂塑料粗糙 #小米17TPro#",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "酷安博主"
       ]
     },
     {
@@ -502,26 +542,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "coolapk-user-447de2b768f3",
-      "title": "竹本青：REDMI 最新销量曝光：K90标准版近203万台",
-      "source": "竹本青",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-06-03",
-      "time": "06:04",
-      "publishedAt": "2026-06-03T06:04:24.000Z",
-      "url": "https://www.coolapk.com/feed/72136472",
-      "image": "http://image.coolapk.com/feed/2026/0603/14/4248714_9c947d2a_6663_4564_659@1439x693.jpg",
-      "summary": "【REDMI 最新销量曝光：K90标准版 近203万台，K90 Pro Max 超61万台】 截至2026 W21 REDMI K90 约202.95万 REDMI K90 Max 约23.81万 REDMI K90 Pro Max 约61.13万 REDMI Turbo 5系列 约164.77万 截至2026 W20 REDMI K90 约197.86万…",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
       "id": "auto-208504de6e9e",
       "title": "Huawei Mate 90 series may embrace a whole new camera design",
       "source": "Huawei Central",
@@ -762,26 +782,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-d8eaecc1f73a",
-      "title": "用了几天体验下来，k90pm确实是要比小米17pm更好用的，这手机正确的叫法应该是小米k17promax。",
-      "source": "酷安热榜",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-06-03",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72123633",
-      "image": "",
-      "summary": "用了几天体验下来，k90pm确实是要比小米17pm更好用的，这手机正确的叫法应该是小米k17promax。",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
       "id": "newsnow-6788cee69990",
       "title": "妹妹即将上大学了，这手机应该合适吧，虽然256内存刚好够用",
       "source": "酷安热榜",
@@ -802,27 +802,67 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-b19d1542fe20",
-      "title": "用了4年的iPhone13ProMax终于正式退役了，这真的是我用过最顺手的手机！除了信号偶尔不给力、当初选的内存有点小之外，几乎挑不出毛病～",
+      "id": "newsnow-d1d30886e3ab",
+      "title": "REDMI 最新销量曝光：K90标准版近203万台",
       "source": "酷安热榜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-06-03",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72119077",
+      "url": "https://www.coolapk.com/feed/72136472",
       "image": "",
-      "summary": "用了4年的iPhone13ProMax终于正式退役了，这真的是我用过最顺手的手机！除了信号偶尔不给力、当初选的内存有点小之外，几乎挑不出毛病～",
+      "summary": "REDMI 最新销量曝光：K90标准版近203万台",
       "tags": [
-        "iPhone",
+        "Xiaomi",
         "爆料",
         "NewsNow"
       ]
     },
     {
-      "id": "newsnow-04e9c73e8049",
+      "id": "newsnow-4d78fd4e6837",
+      "title": "时隔大半年又买了小米17，依旧发热严重，依旧功耗拉胯，我到底在期待什么[再见]至于为什么又换回小米17，因为x9p用了瞎眼，magic8系统太老年拍照丑，苹果用着不顺手， 不考虑功耗和发热小米确实最好用，但好像不得不考虑，或许我该试试小米17max…",
+      "source": "酷安热榜",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-06-03",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/72127390",
+      "image": "",
+      "summary": "时隔大半年又买了小米17，依旧发热严重，依旧功耗拉胯，我到底在期待什么[再见]至于为什么又换回小米17，因为x9p用了瞎眼，magic8系统太老年拍照丑，苹果用着不顺手， 不考虑功耗和发热小米确实最好用，但好像不得不考虑，或许我该试试小米17max…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-d8eaecc1f73a",
+      "title": "用了几天体验下来，k90pm确实是要比小米17pm更好用的，这手机正确的叫法应该是小米k17promax。",
+      "source": "酷安热榜",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-06-03",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/72123633",
+      "image": "",
+      "summary": "用了几天体验下来，k90pm确实是要比小米17pm更好用的，这手机正确的叫法应该是小米k17promax。",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-ea449dfe36b2",
       "title": "男子11年前买29.7万元手机懊悔不已",
       "source": "微博热搜",
       "brand": "行业",
@@ -832,7 +872,7 @@ window.phoneRadarAuto = {
       "date": "2026-06-03",
       "time": "",
       "publishedAt": "",
-      "url": "https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%9011%E5%B9%B4%E5%89%8D%E4%B9%B029.7%E4%B8%87%E5%85%83%E6%89%8B%E6%9C%BA%E6%87%8A%E6%82%94%E4%B8%8D%E5%B7%B2%23&t=31&band_rank=15&Refer=top",
+      "url": "https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%9011%E5%B9%B4%E5%89%8D%E4%B9%B029.7%E4%B8%87%E5%85%83%E6%89%8B%E6%9C%BA%E6%87%8A%E6%82%94%E4%B8%8D%E5%B7%B2%23&t=31&band_rank=19&Refer=top",
       "image": "",
       "summary": "男子11年前买29.7万元手机懊悔不已",
       "tags": [
@@ -1057,26 +1097,6 @@ window.phoneRadarAuto = {
       "summary": "Leaker Ice Universe reveals an impressive 201g weight alongside good battery and camera specs for Samsung's wide foldable.",
       "tags": [
         "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-3e2e8e2ef57e",
-      "title": "Leaker: Foldable 'iPhone Ultra' Will Feature Liquid Metal Hinge",
-      "source": "MacRumors",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-02",
-      "time": "12:46",
-      "publishedAt": "2026-06-02T12:46:44.000Z",
-      "url": "https://www.macrumors.com/2026/06/02/foldable-iphone-will-feature-liquid-metal-hinge/",
-      "image": "https://images.macrumors.com/article-new/2025/08/Apple-Foldable-Thumb.jpg",
-      "summary": "Apple's first foldable iPhone will feature an innovative liquid metal hinge and has now shipped prototype units to carriers around the world for testing, the leaker known as \" Fix…",
-      "tags": [
-        "iPhone",
         "爆料",
         "自动抓取"
       ]

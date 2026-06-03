@@ -1,5 +1,5 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-06-03T17:17:35.923Z",
+  "updatedAt": "2026-06-03T21:29:54.661Z",
   "issueDate": "2026-06-03",
   "issue": "VOL.260603",
   "title": "手机情报日报",
@@ -41,29 +41,6 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
-          "id": "auto-3e2e8e2ef57e",
-          "title": "iPhone 折叠屏相关消息",
-          "originalTitle": "",
-          "source": "MacRumors",
-          "brand": "iPhone",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-06-02",
-          "time": "12:46",
-          "publishedAt": "2026-06-02T12:46:44.000Z",
-          "url": "https://www.macrumors.com/2026/06/02/foldable-iphone-will-feature-liquid-metal-hinge/",
-          "image": "https://images.macrumors.com/article-new/2025/08/Apple-Foldable-Thumb.jpg",
-          "verdict": "先看",
-          "takeaway": "iPhone 折叠屏相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
-          "detail": "iPhone 折叠屏相关消息。重点看折痕、铰链、厚度、屏幕可靠性和重量是否有实质改善。",
-          "keyPoints": [
-            "爆料来源"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
           "id": "auto-ff3d65462d9d",
           "title": "iPhone 18 Pro 电池 / 充电相关消息",
           "originalTitle": "",
@@ -81,6 +58,30 @@ window.phoneRadarDaily = {
           "detail": "iPhone 18 Pro 电池 / 充电相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
           "keyPoints": [
             "电池 / 充电",
+            "爆料来源"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "auto-e7a48db23df7",
+          "title": "iPhone 折叠屏相关消息",
+          "originalTitle": "",
+          "source": "Android Authority",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-06-02",
+          "time": "10:59",
+          "publishedAt": "2026-06-02T10:59:00.000Z",
+          "url": "https://www.androidauthority.com/apple-iphone-fold-ultra-dummy-unit-leak-3673385/",
+          "image": "https://www.androidauthority.com/wp-content/uploads/2025/12/AI-generated-render-of-Apple-iPhone-Fold-3-scaled.jpg",
+          "verdict": "先看",
+          "takeaway": "iPhone 折叠屏相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
+          "detail": "iPhone 折叠屏相关消息。重点看折痕、铰链、厚度、屏幕可靠性和重量是否有实质改善。",
+          "keyPoints": [
+            "外观 / 配色 / 尺寸",
             "爆料来源"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
