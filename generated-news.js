@@ -1,6 +1,246 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-06-03T11:23:04.351Z",
+  "updatedAt": "2026-06-03T17:17:35.923Z",
   "news": [
+    {
+      "id": "auto-b5a1ba56ec55",
+      "title": "对标杜比视界：苹果、谷歌联合推出 Eclipsa Video HDR 开源标准，有望率先应用于 iPhone 18 Pro 系列",
+      "source": "IT之家",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-03",
+      "time": "16:16",
+      "publishedAt": "2026-06-03T16:16:18.000Z",
+      "url": "https://www.ithome.com/0/959/582.htm",
+      "image": "",
+      "summary": "IT之家 6 月 4 日消息，苹果、谷歌、NBC 环球联合 SMPTE（电影电视工程师协会）共同开发了一项名为 Eclipsa Video 的新 HDR 视频标准，正式规范名称为 SMPTE ST 2094-50。 值得一提的是，谷歌、三星此前还联合推出了空间音频标准 Eclipsa Audio，被视为杜比全景声（Dolby Atmos）的开源替代方案。而…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-9e611f4cc272",
+      "title": "I tested the Pixel 10a and the Nothing Phone 4a Pro, and found one is a fantastic buy",
+      "source": "Android Police",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-03",
+      "time": "16:15",
+      "publishedAt": "2026-06-03T16:15:12.000Z",
+      "url": "https://www.androidpolice.com/google-pixel-10a-vs-nothing-phone-4a-pro-comparison/",
+      "image": "",
+      "summary": "Which phone should get your $500?",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-0535b00b0d49",
+      "title": "‘Galaxy Z Fold 8 Ultra’ confirmed, likely leaving Samsung’s most interesting foldable with a boring name",
+      "source": "9to5Google",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-03",
+      "time": "16:12",
+      "publishedAt": "2026-06-03T16:12:17.000Z",
+      "url": "https://9to5google.com/2026/06/03/galaxy-z-fold-8-ultra-name-confirmed/",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2025/07/galaxy-z-fold-7-71.jpg?quality=82&strip=all&w=1600",
+      "summary": "Samsung is planning two Galaxy Z Fold 8 models for launch this year, and one is confirmed to have “Ultra” in the name. more…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-5bdc16623315",
+      "title": "Your next Pokémon obsession hits Android and iOS very soon",
+      "source": "Android Authority",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-03",
+      "time": "15:48",
+      "publishedAt": "2026-06-03T15:48:05.000Z",
+      "url": "https://www.androidauthority.com/pokemon-champions-android-launch-date-3673916/",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2026/06/Pokemon-Champions.jpg",
+      "summary": "Get ready to start battling.",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-9d9fa8050e96",
+      "title": "Deals: Amazon early Prime Day discounts, Pixel 10 series up to $615 off, Best Buy World Cup sale, more",
+      "source": "9to5Google",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-03",
+      "time": "15:37",
+      "publishedAt": "2026-06-03T15:37:36.000Z",
+      "url": "https://9to5google.com/2026/06/03/deals-amazon-early-prime-day-discounts-pixel-10/",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/06/9to5Google-Jun-3.webp?w=1600",
+      "summary": "Today’s 9to5Toys Lunch Break is headlined by Amazon’s early Amazon Prime Day deals and the ongoing Google Pixel 10 series at up to $300 off right now – just keep in mind these ope…",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-d80b83846de1",
+      "title": "Verizon quietly launches deal that gets you a free Google Pixel 10 Pro AND $100 gift card — they will even waive the activation fee",
+      "source": "Android Central",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-06-03",
+      "time": "15:18",
+      "publishedAt": "2026-06-03T15:18:30.000Z",
+      "url": "https://www.androidcentral.com/phones/google-pixel/verizon-google-pixel-10-pro-deal-free-phone-w-gift-card-2026",
+      "image": "https://cdn.mos.cms.futurecdn.net/49MtiP55A8HsE63TZPgVhT-1280-80.jpg",
+      "summary": "Add a line with an eligible unlimited plan and Verizon will give you a free Google Pixel 10 Pro and $100 gift card, just for kicks.",
+      "tags": [
+        "Pixel",
+        "评测",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-db188e8ca88f",
+      "title": "谷歌 Pixel 11 全系机型官方壁纸抢先看",
+      "source": "IT之家",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-03",
+      "time": "15:11",
+      "publishedAt": "2026-06-03T15:11:32.000Z",
+      "url": "https://www.ithome.com/0/959/573.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/6/9e7bc74c-6cd3-407c-946e-400e30709d37.jpg?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 6 月 3 日消息，Mystic Leaks 在 3 日（今天）晚间分享了一组属于谷歌 Pixel 11、Pixel 11 Pro、Pixel 11 Pro XL 机型的壁纸。此前，Pixel 11 Pro Fold 的壁纸已在 4 月的早期版本安卓 17 系统中曝光。 IT之家汇总如下： Pixel 11 Pixel 11 Pro Pixel…",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-e48e9ed192b9",
+      "title": "Pixel 11 wallpapers have leaked with very muted colors [Gallery]",
+      "source": "9to5Google",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-03",
+      "time": "14:55",
+      "publishedAt": "2026-06-03T14:55:00.000Z",
+      "url": "https://9to5google.com/2026/06/03/pixel-11-wallpapers-have-leaked-with-very-muted-colors-gallery/",
+      "image": "",
+      "summary": "Following some previous appearances, the entire library of Pixel 11 wallpapers have now made their way online, but they’re pretty subdued and, frankly, a little boring. more…",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-5b208b2275b3",
+      "title": "Pixel 11 leak reveals all the official wallpapers arriving with this year’s phone series",
+      "source": "Android Authority",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-03",
+      "time": "14:54",
+      "publishedAt": "2026-06-03T14:54:50.000Z",
+      "url": "https://www.androidauthority.com/pixel-11-series-wallpapers-3673921/",
+      "image": "",
+      "summary": "We sure hope you like neutral-tone ripples.",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-b7bd230f1dc2",
+      "title": "竹本青：【荣耀员工确认：600全系搭载红外遥控】 荣耀研发工程师曹工今日发文答疑，明确荣耀600全系列标配红外遥控功能，器…",
+      "source": "竹本青",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-06-03",
+      "time": "13:21",
+      "publishedAt": "2026-06-03T13:21:28.000Z",
+      "url": "https://www.coolapk.com/feed/72144198",
+      "image": "http://image.coolapk.com/feed/2026/0603/21/4248714_527f7738_2887_6909_627@1440x1534.jpg",
+      "summary": "【荣耀员工确认：600全系搭载红外遥控】 荣耀研发工程师曹工今日发文答疑，明确荣耀600全系列标配红外遥控功能，器件集成于机身背板影像模组区域。 #今日热点# #荣耀600Pro# #荣耀600#",
+      "tags": [
+        "HONOR",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-368fdaa5d8e9",
+      "title": "Huawei Mate X8 launch may delay, in favor of Mate 90?",
+      "source": "Huawei Central",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-03",
+      "time": "12:44",
+      "publishedAt": "2026-06-03T12:44:39.000Z",
+      "url": "https://www.huaweicentral.com/huawei-mate-x8-launch-may-delay-in-favor-of-mate-90/",
+      "image": "https://www.huaweicentral.com/wp-content/uploads/2026/06/Mate-X8-launch-leak.jpg",
+      "summary": "Huawei might take the decision for the Mate X8 foldable’s launch delay this year, in favor of the Mate 90 series flagship. While the company used to unveil both the top-tier smart…",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-8d746a343aa6",
+      "title": "Xiaomi 17T Series will welcome Leica Live Motion Photo feature",
+      "source": "Huawei Central",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-03",
+      "time": "12:26",
+      "publishedAt": "2026-06-03T12:26:34.000Z",
+      "url": "https://www.huaweicentral.com/xiaomi-17t-series-will-welcome-leica-live-motion-photo-feature/",
+      "image": "https://www.huaweicentral.com/wp-content/uploads/2026/06/Xiaomi17T-Pro.jpg",
+      "summary": "Xiaomi 17T Series made its debut globally last month and is now ready to step into China with a special Leica Live Motion Photo feature. The company is bringing an iconic feature…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "coolapk-user-d8f40b32b3c4",
       "title": "JSCHEN小小狐：去看了一下 17T 系列，Deco 尺寸挺克制的 马达体感应该都是 0809A，扬声器也一般 Pro 正面有 LI…",
@@ -33,7 +273,7 @@ window.phoneRadarAuto = {
       "time": "10:55",
       "publishedAt": "2026-06-03T10:55:53.000Z",
       "url": "https://www.gizmochina.com/2026/06/03/xiaomi-20000mah-22-5w-power-bank-2026-launches-with-built-in-usb-c-cable/",
-      "image": "https://www.gizmochina.com/wp-content/uploads/2026/06/804bd4c1-2e22-4f34-ab01-0944f59d3bf7-300x169.png?x10805",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/06/Screenshot-2026-06-03-162200-300x169.png?x10805",
       "summary": "Xiaomi has introduced a new 20,000mAh power bank in China, adding another option to its growing lineup of portable charging accessories. The device is now available through Xiaomi…",
       "tags": [
         "Xiaomi",
@@ -62,26 +302,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-de5e421eb020",
-      "title": "真我 realme P4R 5G 参数公布：8000mAh 电池、天玑 6300，海外 6 月 10 日发布",
-      "source": "IT之家",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-03",
-      "time": "10:36",
-      "publishedAt": "2026-06-03T10:36:35.000Z",
-      "url": "https://www.ithome.com/0/959/516.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/6/8efcb544-aa19-4428-b38c-2999b75b8ef3.jpg?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 6 月 3 日消息，真我即将于 6 月 10 日在海外发布 realme P4R 5G 手机，目前官网已经公布了新机的部分参数。 这台新机有银色、钛色、薰衣草色三种颜色可选，摄像头 deco 部分有一个环状灯条装饰，支持个性化设置。 IT之家整理汇总新机参数如下： 联发科 天玑 6300 处理器，5300mm² VC 均热板 8000mAh 容量…",
-      "tags": [
-        "行业",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "coolapk-user-bf40b9ddb73a",
       "title": "JSCHEN小小狐：有一说一，nova 16 这代质感进步挺大的 #华为nova16Pro# #华为Nova16Ultra#",
       "source": "JSCHEN小小狐",
@@ -103,7 +323,7 @@ window.phoneRadarAuto = {
     },
     {
       "id": "auto-e1edb69ebace",
-      "title": "Motorola’s new $600 Android phone is already embarrassing the Pixel 11",
+      "title": "Motorola’s new $600 Android phone just solved the Pixel hardware problem Google refuses to fix",
       "source": "Android Authority",
       "brand": "Pixel",
       "model": "Pixel 相关机型",
@@ -222,6 +442,26 @@ window.phoneRadarAuto = {
       ]
     },
     {
+      "id": "weibo-ccc5d52846c2",
+      "title": "数码闲聊站：OPPO和vivo的手持Pocket，200Mp 1/1.12\"超级大底主摄，…",
+      "source": "数码闲聊站",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-06-03",
+      "time": "07:20",
+      "publishedAt": "2026-06-03T07:20:00.000Z",
+      "url": "https://weibo.com/6048569942/R2pp6rwWd",
+      "image": "",
+      "summary": "OPPO和vivo的手持Pocket，200Mp 1/1.12\"超级大底主摄，可能会联名哈苏/蔡司，内置旗舰级芯片，支持生态互联，无缝存图修图发图； 荣耀是直接做了手机，Robot Phone内置可折叠云台臂+200Mp 4DoF云台主摄+端侧大模型，屏幕尺寸也比较友好，阿莱影像联名。 手机厂商来势汹汹，与大疆/影石分蛋糕，期待吗[笑而不语]",
+      "tags": [
+        "HONOR",
+        "爆料",
+        "微博"
+      ]
+    },
+    {
       "id": "auto-671de18d127d",
       "title": "Galaxy Z Fold 8 Ultra name confirmed for Samsung’s next book-style foldable",
       "source": "SamMobile",
@@ -322,6 +562,26 @@ window.phoneRadarAuto = {
       ]
     },
     {
+      "id": "weibo-5fcc8ff3c9fd",
+      "title": "数码闲聊站：小米18系列基本确定还是9月，vivo X500系列和OPPO Find X1…",
+      "source": "数码闲聊站",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-06-03",
+      "time": "05:36",
+      "publishedAt": "2026-06-03T05:36:00.000Z",
+      "url": "https://weibo.com/6048569942/R2oITik2D",
+      "image": "",
+      "summary": "小米18系列基本确定还是9月，vivo X500系列和OPPO Find X10系列争取9月，全员加速中[柯基]",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "微博"
+      ]
+    },
+    {
       "id": "auto-0518404beb06",
       "title": "Xiaomi 18 tipped to feature a 6.4-inch 2K display, 7,000mAh-class battery",
       "source": "Gizmochina",
@@ -382,23 +642,23 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-9008d19b289d",
-      "title": "Galaxy Z Fold 8 comes with a bigger battery and faster charging",
-      "source": "SamMobile",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
+      "id": "weibo-060b5aa1f6e3",
+      "title": "数码闲聊站：加加迭代线还有一套物料，200Mp大底主摄+50Mp小底超广角+50Mp小底潜…",
+      "source": "数码闲聊站",
+      "brand": "行业",
+      "model": "智能手机市场",
       "type": "爆料",
-      "trust": "媒体汇总",
+      "trust": "高关注爆料源",
       "date": "2026-06-03",
-      "time": "04:23",
-      "publishedAt": "2026-06-03T04:23:32.000Z",
-      "url": "https://www.sammobile.com/news/galaxy-z-fold-8-comes-with-a-bigger-battery-and-faster-charging/",
+      "time": "04:06",
+      "publishedAt": "2026-06-03T04:06:00.000Z",
+      "url": "https://weibo.com/6048569942/R2o8mmBnG",
       "image": "",
-      "summary": "Samsung will launch two book-style foldable phones this year: the Galaxy Z Fold 8 and the Galaxy Z Fold 8 Ultra. The Galaxy Z Fold 8 has a more compact footprint and a wider folda…",
+      "summary": "加加迭代线还有一套物料，200Mp大底主摄+50Mp小底超广角+50Mp小底潜望镜 你们喜欢2亿主摄还是2亿长焦？[柯基]",
       "tags": [
-        "Samsung",
+        "行业",
         "爆料",
-        "自动抓取"
+        "微博"
       ]
     },
     {
@@ -442,23 +702,43 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "coolapk-user-9846abb7a966",
-      "title": "竹本青：【小米 17T系列 影像预热：全新支持「徕卡Live动态照片」】 ▫️徕卡经典／生动 双画质动态Live ▫️徕卡…",
-      "source": "竹本青",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
+      "id": "weibo-e0d64e310e09",
+      "title": "数码闲聊站：独家，之前说过新一代小屏差不多6.4\"，接近你们想要的中屏，19.5:9大R角…",
+      "source": "数码闲聊站",
+      "brand": "行业",
+      "model": "智能手机市场",
       "type": "爆料",
-      "trust": "高可信爆料",
+      "trust": "高关注爆料源",
       "date": "2026-06-03",
-      "time": "01:01",
-      "publishedAt": "2026-06-03T01:01:50.000Z",
-      "url": "https://www.coolapk.com/feed/72131586",
-      "image": "http://image.coolapk.com/feed/2026/0603/09/4248714_cabb07fa_8611_7108_944-livepic@1440x1920.jpg",
-      "summary": "【小米 17T系列 影像预热：全新支持「徕卡Live动态照片」】 ▫️徕卡经典／生动 双画质动态Live ▫️徕卡Live Moment水印 #HyperOS3# #今日热点# #小米17TPro#",
+      "time": "02:30",
+      "publishedAt": "2026-06-03T02:30:00.000Z",
+      "url": "https://weibo.com/6048569942/R2nvomHjH",
+      "image": "",
+      "summary": "独家，之前说过新一代小屏差不多6.4\"，接近你们想要的中屏，19.5:9大R角极窄四等边纯直屏，等效2K超清显示，Pro系列有独占新技术，这代新屏/双2亿影像/硅电池/外围都有明显增强嗷~",
       "tags": [
-        "Xiaomi",
+        "行业",
         "爆料",
-        "酷安博主"
+        "微博"
+      ]
+    },
+    {
+      "id": "weibo-6143611a9467",
+      "title": "数码闲聊站：独家，PM工程机新开的2K屏幕是BOE，6.85英寸左右2.5D大直屏，目前设…",
+      "source": "数码闲聊站",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-06-03",
+      "time": "01:03",
+      "publishedAt": "2026-06-03T01:03:50.000Z",
+      "url": "https://weibo.com/6048569942/R2mWq4I8B",
+      "image": "",
+      "summary": "独家，PM工程机新开的2K屏幕是BOE，6.85英寸左右2.5D大直屏，目前设定是LIPO封装技术，144Hz超高刷，支持全亮度高频PWM调光等[笑哈哈]",
+      "tags": [
+        "行业",
+        "爆料",
+        "微博"
       ]
     },
     {
@@ -542,7 +822,7 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-19b94169527c",
+      "id": "newsnow-04e9c73e8049",
       "title": "男子11年前买29.7万元手机懊悔不已",
       "source": "微博热搜",
       "brand": "行业",
@@ -552,12 +832,32 @@ window.phoneRadarAuto = {
       "date": "2026-06-03",
       "time": "",
       "publishedAt": "",
-      "url": "https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%9011%E5%B9%B4%E5%89%8D%E4%B9%B029.7%E4%B8%87%E5%85%83%E6%89%8B%E6%9C%BA%E6%87%8A%E6%82%94%E4%B8%8D%E5%B7%B2%23&t=31&band_rank=30&Refer=top",
+      "url": "https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%9011%E5%B9%B4%E5%89%8D%E4%B9%B029.7%E4%B8%87%E5%85%83%E6%89%8B%E6%9C%BA%E6%87%8A%E6%82%94%E4%B8%8D%E5%B7%B2%23&t=31&band_rank=15&Refer=top",
       "image": "",
       "summary": "男子11年前买29.7万元手机懊悔不已",
       "tags": [
         "行业",
         "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-c34fbac3016c",
+      "title": "《给阿嬷的情书》主题曲《月下煮茶》因填词稀烂被各大知名填词人吐槽，重新填词后焕发新机，如何看待此事？",
+      "source": "知乎热榜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "市场报告",
+      "trust": "媒体汇总",
+      "date": "2026-06-03",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.zhihu.com/question/2044530953813545270",
+      "image": "",
+      "summary": "《给阿嬷的情书》主题曲《月下煮茶》因填词稀烂被各大知名填词人吐槽，重新填词后焕发新机，如何看待此事？",
+      "tags": [
+        "行业",
+        "市场报告",
         "NewsNow"
       ]
     },
@@ -579,46 +879,6 @@ window.phoneRadarAuto = {
         "行业",
         "爆料",
         "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-52c49215e6f4",
-      "title": "网友称11年前29.7万买的手机成摆设",
-      "source": "百度热搜",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-03",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.baidu.com/s?wd=%E7%BD%91%E5%8F%8B%E7%A7%B011%E5%B9%B4%E5%89%8D29.7%E4%B8%87%E4%B9%B0%E7%9A%84%E6%89%8B%E6%9C%BA%E6%88%90%E6%91%86%E8%AE%BE",
-      "image": "",
-      "summary": "网友称11年前29.7万买的手机成摆设",
-      "tags": [
-        "行业",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "auto-ea37969c2d5c",
-      "title": "A thinner, lighter Motorola Edge 2026 has just popped up for pre-order",
-      "source": "Android Police",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-02",
-      "time": "18:06",
-      "publishedAt": "2026-06-02T18:06:32.000Z",
-      "url": "https://www.androidpolice.com/a-thinner-lighter-motorola-edge-has-just-popped-up-for-pre-order/",
-      "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2026/06/motorola-edge-2026.jpg",
-      "summary": "Coming to the US June 11",
-      "tags": [
-        "行业",
-        "爆料",
-        "自动抓取"
       ]
     },
     {
@@ -882,26 +1142,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-d11402858eb8",
-      "title": "iPhone 18 Pro Battery Capacities Allegedly Leaked",
-      "source": "MacRumors",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-02",
-      "time": "08:54",
-      "publishedAt": "2026-06-02T08:54:46.000Z",
-      "url": "https://www.macrumors.com/2026/06/02/iphone-18-pro-battery-capacities-allegedly-leaked/",
-      "image": "https://images.macrumors.com/article-new/2026/01/Dynamic-Island-iPhone-18-Pro-Feature.jpg",
-      "summary": "Battery capacities for Apple's upcoming iPhone 18 Pro have allegedly surfaced, and the numbers suggest only a modest increase over the iPhone 17 Pro. According to prolific Weibo-b…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-a1d7115ea208",
       "title": "Galaxy Z Fold 8 and Fold 8 Ultra dummies pose for the camera again, this time folded up",
       "source": "Android Authority",
@@ -919,6 +1159,26 @@ window.phoneRadarAuto = {
         "Samsung",
         "爆料",
         "自动抓取"
+      ]
+    },
+    {
+      "id": "weibo-ab8f7a1c24b3",
+      "title": "数码闲聊站：阿绿一台万级大电池中端机测试中，单电芯额定9700mAh，典型值10000mA…",
+      "source": "数码闲聊站",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-06-02",
+      "time": "07:48",
+      "publishedAt": "2026-06-02T07:48:17.000Z",
+      "url": "https://weibo.com/6048569942/R2ga5ltG3",
+      "image": "",
+      "summary": "阿绿一台万级大电池中端机测试中，单电芯额定9700mAh，典型值10000mAh±，1.5K LTPS大R角直屏，4nm低功耗处理器，高分子抗摔材料机身，主打超长续航，估计定价在2K档……[偷乐]",
+      "tags": [
+        "行业",
+        "爆料",
+        "微博"
       ]
     },
     {
