@@ -1,11 +1,11 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-06-04T20:24:39.688Z",
+  "updatedAt": "2026-06-04T23:36:25.533Z",
   "issueDate": "2026-06-04",
   "issue": "VOL.260604",
   "title": "手机情报日报",
-  "intro": "今日筛出 13 条重点，其中 8 条是重点爆料，包含 7 条 iPhone 相关、0 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 12 条重点，其中 8 条是重点爆料，包含 7 条 iPhone 相关、0 条官方确认、0 条参数线索。",
   "stats": {
-    "total": 13,
+    "total": 12,
     "iphone": 7,
     "leaks": 8,
     "official": 0,
@@ -35,6 +35,29 @@ window.phoneRadarDaily = {
           "detail": "网传苹果即将发布首款折叠屏手机，确认液态金属铰链方案，新技术有哪些优劣？会给国产折叠屏带来哪些冲击？",
           "keyPoints": [
             "屏幕形态"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "auto-4d648a79e1b9",
+          "title": "iPhone 系统功能 / AI 体验相关消息",
+          "originalTitle": "",
+          "source": "MacRumors",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-06-04",
+          "time": "21:28",
+          "publishedAt": "2026-06-04T21:28:00.000Z",
+          "url": "https://www.macrumors.com/review/ugreen-magflow-air-nexode-air/",
+          "image": "https://images.macrumors.com/article-new/2026/05/ugreen-nano-overview.jpg",
+          "verdict": "先看",
+          "takeaway": "iPhone 有系统功能或 AI 体验更新，适合关注后续是否影响日常使用。",
+          "detail": "iPhone 系统功能 / AI 体验相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
+          "keyPoints": [
+            "外观 / 配色 / 尺寸"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
@@ -88,6 +111,29 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
+          "id": "auto-c89d6cc1d504",
+          "title": "消息称一加 16 和 iQOO 16 可能提档到 9 月发布",
+          "originalTitle": "",
+          "source": "IT之家",
+          "brand": "OPPO",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-06-04",
+          "time": "23:22",
+          "publishedAt": "2026-06-04T23:22:00.000Z",
+          "url": "https://www.ithome.com/0/960/192.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/6/69cf9d64-5bfc-4fdb-b35d-f7550fc53a4d.jpg?x-bce-process=image/format,f_auto",
+          "verdict": "先看",
+          "takeaway": "IT之家 6 月 5 日消息，博主 @数码闲聊站 昨日爆料称，子系有一家已经确定提档 Q3，一加 16 和 iQOO16 也有可能会提到 9 月，目前备案和产品进度都在往前拉。 IT之家注意到，该博主上个月曾爆料 一款 SM8975 / 骁龙 8 Elite Gen6 Pro 新机 ，被看作是一加 16 手机。据称，该机定位全能性能旗舰，目前工程机拥有独一…",
+          "detail": "IT之家 6 月 5 日消息，博主 @数码闲聊站 昨日爆料称，子系有一家已经确定提档 Q3，一加 16 和 iQOO16 也有可能会提到 9 月，目前备案和产品进度都在往前拉。 IT之家注意到，该博主上个月曾爆料 一款 SM8975 / 骁龙 8 Elite Gen6 Pro 新机 ，被看作是一加 16 手机。据称，该机定位全能性能旗舰，目前工程机拥有独一…",
+          "keyPoints": [
+            "爆料来源"
+          ],
+          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
           "id": "auto-218ebdb704f4",
           "title": "关海涛：在马来西亚市场，每三台折叠屏中有一台是荣耀折叠屏手机",
           "originalTitle": "",
@@ -103,29 +149,6 @@ window.phoneRadarDaily = {
           "verdict": "先看",
           "takeaway": "IT之家 6 月 4 日消息，荣耀全球首席营销官关海涛今晚发文，祝贺 MagicV6 折叠屏手机马来西亚成功上市。 关海涛表示， 在马来西亚市场，每三台折叠屏中有一台是荣耀的折叠屏手机 。 据IT之家今日早些时候报道， 国际数据公司 IDC 的 2026 年 Q1 国内折叠屏市场份额数据已公布 。华为该季度位居国内折叠屏手机出货份额第一，独占 60%，荣耀…",
           "detail": "IT之家 6 月 4 日消息，荣耀全球首席营销官关海涛今晚发文，祝贺 MagicV6 折叠屏手机马来西亚成功上市。 关海涛表示， 在马来西亚市场，每三台折叠屏中有一台是荣耀的折叠屏手机 。 据IT之家今日早些时候报道， 国际数据公司 IDC 的 2026 年 Q1 国内折叠屏市场份额数据已公布 。华为该季度位居国内折叠屏手机出货份额第一，独占 60%，荣耀…",
-          "keyPoints": [
-            "屏幕形态"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "auto-18a5d970fc6b",
-          "title": "华为 Pura X Max 横阔折手机首月销量曝光：合计近 35 万台，更贵的典藏版卖得更好",
-          "originalTitle": "",
-          "source": "IT之家",
-          "brand": "Huawei",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-06-04",
-          "time": "11:47",
-          "publishedAt": "2026-06-04T11:47:09.000Z",
-          "url": "https://www.ithome.com/0/960/108.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/6/75516e86-93ee-45f4-a5de-231696ce53f0.jpg?x-bce-process=image/format,f_auto",
-          "verdict": "先看",
-          "takeaway": "IT之家 6 月 4 日消息，长期关注国内手机市场份额的博主 @RD观测 今日分享了华为折叠屏手机首月销量情况：截至 2026 W21（IT之家注：5 月 18 日-5 月 24 日）， 华为 Pura X Max 约 14.52 万台、华为 Pura X Max 典藏版约 19.85 万台 。 从数据来看，华为 Pura X Max 系列横向阔折叠手机的…",
-          "detail": "IT之家 6 月 4 日消息，长期关注国内手机市场份额的博主 @RD观测 今日分享了华为折叠屏手机首月销量情况：截至 2026 W21（IT之家注：5 月 18 日-5 月 24 日）， 华为 Pura X Max 约 14.52 万台、华为 Pura X Max 典藏版约 19.85 万台 。 从数据来看，华为 Pura X Max 系列横向阔折叠手机的…",
           "keyPoints": [
             "屏幕形态"
           ],
@@ -175,29 +198,6 @@ window.phoneRadarDaily = {
           "keyPoints": [
             "影像硬件",
             "爆料来源"
-          ],
-          "confidence": "可信度较高，但仍属于发布前线索。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "coolapk-user-d8f40b32b3c4",
-          "title": "JSCHEN小小狐：去看了一下 17T 系列，Deco 尺寸挺克制的 马达体感应该都是 0809A，扬声器也一般 Pro 正面有 LI…",
-          "originalTitle": "",
-          "source": "JSCHEN小小狐",
-          "brand": "Xiaomi",
-          "type": "爆料",
-          "trust": "高可信爆料",
-          "date": "2026-06-03",
-          "time": "11:21",
-          "publishedAt": "2026-06-03T11:21:11.000Z",
-          "url": "https://www.coolapk.com/feed/72142013",
-          "image": "http://image.coolapk.com/feed/2026/0603/19/4702274_382ea3e3_5663_7876_659-uhdr@2366x3503.jpg",
-          "verdict": "先看",
-          "takeaway": "去看了一下 17T 系列，Deco 尺寸挺克制的 马达体感应该都是 0809A，扬声器也一般 Pro 正面有 LIPO 四窄边，标准版就没有了 另外标杯的塑料中框确实有点以假乱真的意思 不知道是不是因为表面比常规磨砂塑料粗糙 #小米17TPro#",
-          "detail": "去看了一下 17T 系列，Deco 尺寸挺克制的 马达体感应该都是 0809A，扬声器也一般 Pro 正面有 LIPO 四窄边，标准版就没有了 另外标杯的塑料中框确实有点以假乱真的意思 不知道是不是因为表面比常规磨砂塑料粗糙 #小米17TPro#",
-          "keyPoints": [
-            "外观 / 配色 / 尺寸"
           ],
           "confidence": "可信度较高，但仍属于发布前线索。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
@@ -278,29 +278,6 @@ window.phoneRadarDaily = {
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
-        {
-          "id": "newsnow-cc918e1abae7",
-          "title": "一日一技｜为什么你应该关闭 iOS 的键盘声音",
-          "originalTitle": "",
-          "source": "少数派热榜",
-          "brand": "iPhone",
-          "type": "评测",
-          "trust": "媒体汇总",
-          "date": "2026-06-04",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://sspai.com/post/109460",
-          "image": "",
-          "verdict": "扫一眼",
-          "takeaway": "一日一技｜为什么你应该关闭 iOS 的键盘声音",
-          "detail": "一日一技｜为什么你应该关闭 iOS 的键盘声音",
-          "keyPoints": [
-            "评测"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是实际体验内容，买前适合重点看缺点和取舍。",
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         }
       ]

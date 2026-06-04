@@ -1,6 +1,66 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-06-04T20:24:39.688Z",
+  "updatedAt": "2026-06-04T23:36:25.533Z",
   "news": [
+    {
+      "id": "auto-c89d6cc1d504",
+      "title": "消息称一加 16 和 iQOO 16 可能提档到 9 月发布",
+      "source": "IT之家",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-04",
+      "time": "23:22",
+      "publishedAt": "2026-06-04T23:22:00.000Z",
+      "url": "https://www.ithome.com/0/960/192.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/6/69cf9d64-5bfc-4fdb-b35d-f7550fc53a4d.jpg?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 6 月 5 日消息，博主 @数码闲聊站 昨日爆料称，子系有一家已经确定提档 Q3，一加 16 和 iQOO16 也有可能会提到 9 月，目前备案和产品进度都在往前拉。 IT之家注意到，该博主上个月曾爆料 一款 SM8975 / 骁龙 8 Elite Gen6 Pro 新机 ，被看作是一加 16 手机。据称，该机定位全能性能旗舰，目前工程机拥有独一…",
+      "tags": [
+        "OPPO",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-4d648a79e1b9",
+      "title": "Ugreen MagFlow Air and Nexode Air Review: A Power Bank and Charger Built for iPhone",
+      "source": "MacRumors",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-04",
+      "time": "21:28",
+      "publishedAt": "2026-06-04T21:28:00.000Z",
+      "url": "https://www.macrumors.com/review/ugreen-magflow-air-nexode-air/",
+      "image": "https://images.macrumors.com/article-new/2026/05/ugreen-nano-overview.jpg",
+      "summary": "iPhone accessory maker Ugreen recently came out with a new Nexode Air charger and MagFlow Air power bank, two products that are designed for Apple users. MagFlow Air The $60 MagFl…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-21a10a25b99e",
+      "title": "Thought OnePlus was struggling? The OnePlus 16 could be closer than anyone expected",
+      "source": "Android Central",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-06-04",
+      "time": "20:32",
+      "publishedAt": "2026-06-04T20:32:59.000Z",
+      "url": "https://www.androidcentral.com/phones/oneplus/oneplus-16-could-be-here-sooner-than-expected",
+      "image": "https://cdn.mos.cms.futurecdn.net/knTtyyXRVbhUCB9gBC86mW-1280-80.jpg",
+      "summary": "The OnePlus 16 may arrive sooner than previous flagship launches, according to a trusted source.",
+      "tags": [
+        "OPPO",
+        "评测",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-7684f0855a21",
       "title": "How to stop people seeing your PIN and password on the Galaxy S26 Ultra",
@@ -335,26 +395,6 @@ window.phoneRadarAuto = {
       "url": "https://www.huaweicentral.com/huawei-wide-non-foldable-phone-launch/",
       "image": "https://www.huaweicentral.com/wp-content/uploads/2026/06/wide-phone-launch-leak.jpg",
       "summary": "Huawei wide non-foldable phone has been making a buzz for a long time and it seems we now have a slightly more accurate launch time for this creation. Here’s another leak that now…",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-18a5d970fc6b",
-      "title": "华为 Pura X Max 横阔折手机首月销量曝光：合计近 35 万台，更贵的典藏版卖得更好",
-      "source": "IT之家",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-04",
-      "time": "11:47",
-      "publishedAt": "2026-06-04T11:47:09.000Z",
-      "url": "https://www.ithome.com/0/960/108.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/6/75516e86-93ee-45f4-a5de-231696ce53f0.jpg?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 6 月 4 日消息，长期关注国内手机市场份额的博主 @RD观测 今日分享了华为折叠屏手机首月销量情况：截至 2026 W21（IT之家注：5 月 18 日-5 月 24 日）， 华为 Pura X Max 约 14.52 万台、华为 Pura X Max 典藏版约 19.85 万台 。 从数据来看，华为 Pura X Max 系列横向阔折叠手机的…",
       "tags": [
         "Huawei",
         "爆料",
@@ -782,7 +822,7 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-18ff5d38e3c9",
+      "id": "newsnow-035dda56d562",
       "title": "iPhone改日期 空出20G",
       "source": "微博热搜",
       "brand": "iPhone",
@@ -792,7 +832,7 @@ window.phoneRadarAuto = {
       "date": "2026-06-04",
       "time": "",
       "publishedAt": "",
-      "url": "https://s.weibo.com/weibo?q=iPhone%E6%94%B9%E6%97%A5%E6%9C%9F%20%E7%A9%BA%E5%87%BA20G&t=31&band_rank=23&Refer=top",
+      "url": "https://s.weibo.com/weibo?q=iPhone%E6%94%B9%E6%97%A5%E6%9C%9F%20%E7%A9%BA%E5%87%BA20G&t=31&band_rank=24&Refer=top",
       "image": "",
       "summary": "iPhone改日期 空出20G",
       "tags": [
@@ -1178,26 +1218,6 @@ window.phoneRadarAuto = {
       "tags": [
         "Xiaomi",
         "评测",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-0518404beb06",
-      "title": "Xiaomi 18 tipped to feature a 6.4-inch 2K display, 7,000mAh-class battery",
-      "source": "Gizmochina",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-03",
-      "time": "04:53",
-      "publishedAt": "2026-06-03T04:53:11.000Z",
-      "url": "https://www.gizmochina.com/2026/06/03/xiaomi-18-series-key-details-tipped/",
-      "image": "https://www.gizmochina.com/wp-content/uploads/2026/03/Xiaomi-17-300x300.png?x10805",
-      "summary": "In September, Xiaomi is expected to unveil the Xiaomi 18 series as the world’s first smartphones powered by the next-generation Snapdragon 8 Elite Gen 6 flagship chipset. Today, r…",
-      "tags": [
-        "Xiaomi",
-        "爆料",
         "自动抓取"
       ]
     }
