@@ -1,11 +1,11 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-06-04T10:12:13.397Z",
+  "updatedAt": "2026-06-04T13:31:31.613Z",
   "issueDate": "2026-06-04",
   "issue": "VOL.260604",
   "title": "手机情报日报",
-  "intro": "今日筛出 13 条重点，其中 8 条是重点爆料，包含 2 条 iPhone 相关、0 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 11 条重点，其中 8 条是重点爆料，包含 2 条 iPhone 相关、0 条官方确认、0 条参数线索。",
   "stats": {
-    "total": 13,
+    "total": 11,
     "iphone": 2,
     "leaks": 8,
     "official": 0,
@@ -17,6 +17,76 @@ window.phoneRadarDaily = {
       "title": "重点爆料",
       "hint": "机模、配色、影像、屏幕、电池和芯片线索先看。",
       "items": [
+        {
+          "id": "auto-1a14546d8af8",
+          "title": "iPhone 相关消息",
+          "originalTitle": "",
+          "source": "MacRumors",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-06-04",
+          "time": "12:18",
+          "publishedAt": "2026-06-04T12:18:30.000Z",
+          "url": "https://www.macrumors.com/2026/06/04/iphone-18-pro-dark-cherry-chassis-leaked/",
+          "image": "https://images.macrumors.com/article-new/2026/06/iphone-18-pro-cherry@2x-scaled.jpg",
+          "verdict": "先看",
+          "takeaway": "iPhone 相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
+          "detail": "iPhone 相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
+          "keyPoints": [
+            "外观 / 配色 / 尺寸",
+            "爆料来源"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "auto-218ebdb704f4",
+          "title": "关海涛：在马来西亚市场，每三台折叠屏中有一台是荣耀折叠屏手机",
+          "originalTitle": "",
+          "source": "IT之家",
+          "brand": "HONOR",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-06-04",
+          "time": "13:28",
+          "publishedAt": "2026-06-04T13:28:03.000Z",
+          "url": "https://www.ithome.com/0/960/135.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/6/08905cb0-4e4f-4fad-b4cc-2b268aadd1c7.jpg?x-bce-process=image/format,f_auto",
+          "verdict": "先看",
+          "takeaway": "IT之家 6 月 4 日消息，荣耀全球首席营销官关海涛今晚发文，祝贺 MagicV6 折叠屏手机马来西亚成功上市。 关海涛表示， 在马来西亚市场，每三台折叠屏中有一台是荣耀的折叠屏手机 。 据IT之家今日早些时候报道， 国际数据公司 IDC 的 2026 年 Q1 国内折叠屏市场份额数据已公布 。华为该季度位居国内折叠屏手机出货份额第一，独占 60%，荣耀…",
+          "detail": "IT之家 6 月 4 日消息，荣耀全球首席营销官关海涛今晚发文，祝贺 MagicV6 折叠屏手机马来西亚成功上市。 关海涛表示， 在马来西亚市场，每三台折叠屏中有一台是荣耀的折叠屏手机 。 据IT之家今日早些时候报道， 国际数据公司 IDC 的 2026 年 Q1 国内折叠屏市场份额数据已公布 。华为该季度位居国内折叠屏手机出货份额第一，独占 60%，荣耀…",
+          "keyPoints": [
+            "屏幕形态"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "auto-18a5d970fc6b",
+          "title": "华为 Pura X Max 横阔折手机首月销量曝光：合计近 35 万台，更贵的典藏版卖得更好",
+          "originalTitle": "",
+          "source": "IT之家",
+          "brand": "Huawei",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-06-04",
+          "time": "11:47",
+          "publishedAt": "2026-06-04T11:47:09.000Z",
+          "url": "https://www.ithome.com/0/960/108.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/6/75516e86-93ee-45f4-a5de-231696ce53f0.jpg?x-bce-process=image/format,f_auto",
+          "verdict": "先看",
+          "takeaway": "IT之家 6 月 4 日消息，长期关注国内手机市场份额的博主 @RD观测 今日分享了华为折叠屏手机首月销量情况：截至 2026 W21（IT之家注：5 月 18 日-5 月 24 日）， 华为 Pura X Max 约 14.52 万台、华为 Pura X Max 典藏版约 19.85 万台 。 从数据来看，华为 Pura X Max 系列横向阔折叠手机的…",
+          "detail": "IT之家 6 月 4 日消息，长期关注国内手机市场份额的博主 @RD观测 今日分享了华为折叠屏手机首月销量情况：截至 2026 W21（IT之家注：5 月 18 日-5 月 24 日）， 华为 Pura X Max 约 14.52 万台、华为 Pura X Max 典藏版约 19.85 万台 。 从数据来看，华为 Pura X Max 系列横向阔折叠手机的…",
+          "keyPoints": [
+            "屏幕形态"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
         {
           "id": "auto-36a82ce4b231",
           "title": "华为 Pura X Max 横阔折手机获 HarmonyOS 6.1.0.125 升级，对单应用音量调节、限时水印功能上线",
@@ -35,29 +105,6 @@ window.phoneRadarDaily = {
           "detail": "IT之家 6 月 4 日消息，华为 Pura X Max 横向阔折叠手机推送了鸿蒙 HarmonyOS 6.1.0.125 SP13 版本升级，系统包大小约 1.67GB。据介绍，新版本带来了相机全新限时水印、对单应用音量调节等功能。 IT之家附华为 Pura X Max 本次更新内容如下： 相机 1.新增全新限时水印，基于美学色彩灵感设计，截至 2026…",
           "keyPoints": [
             "影像硬件"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "auto-0a19e3df55a7",
-          "title": "IDC：今年 Q1 华为、荣耀位居中国折叠屏手机市场份额前二位",
-          "originalTitle": "",
-          "source": "IT之家",
-          "brand": "HONOR",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-06-04",
-          "time": "08:19",
-          "publishedAt": "2026-06-04T08:19:08.000Z",
-          "url": "https://www.ithome.com/0/959/931.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/6/e634f9b6-a366-45d9-97ce-45f13cbf717a.jpg?x-bce-process=image/format,f_auto",
-          "verdict": "先看",
-          "takeaway": "IT之家 6 月 4 日消息，今天上午，荣耀全球首席营销官关海涛在微博上晒出国际数据公司 IDC 的 2026 年 Q1 国内折叠屏市场份额数据，并配文“向优秀学习”。 IT之家从数据中获悉，华为该季度位居国内折叠屏手机出货份额第一， 独占 60% ，荣耀则以 21% 份额 位居第二，OPPO、vivo、小米分列 3 至 5 位，份额分别为 6%、5%、4…",
-          "detail": "IT之家 6 月 4 日消息，今天上午，荣耀全球首席营销官关海涛在微博上晒出国际数据公司 IDC 的 2026 年 Q1 国内折叠屏市场份额数据，并配文“向优秀学习”。 IT之家从数据中获悉，华为该季度位居国内折叠屏手机出货份额第一， 独占 60% ，荣耀则以 21% 份额 位居第二，OPPO、vivo、小米分列 3 至 5 位，份额分别为 6%、5%、4…",
-          "keyPoints": [
-            "屏幕形态"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
@@ -83,54 +130,6 @@ window.phoneRadarDaily = {
             "影像硬件"
           ],
           "confidence": "可信度较高，但仍属于发布前线索。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "coolapk-user-583e66c384b6",
-          "title": "竹本青：OPPO／vivo 手持云台相机更多爆料：两亿超大底主摄",
-          "originalTitle": "",
-          "source": "竹本青",
-          "brand": "OPPO",
-          "type": "爆料",
-          "trust": "高可信爆料",
-          "date": "2026-06-03",
-          "time": "07:54",
-          "publishedAt": "2026-06-03T07:54:45.000Z",
-          "url": "https://www.coolapk.com/feed/72138258",
-          "image": "http://image.coolapk.com/feed/2026/0603/15/4248714_1a847851_3284_1375_761@1440x847.jpg",
-          "verdict": "先看",
-          "takeaway": "【OPPO／vivo Pocket 手持云台相机 更多爆料：两亿超大底主摄，旗舰级芯片】 ▫️200Mp 1/1.12\" 大底主摄 ▫️或联名哈苏/蔡司 ▫️内置旗舰级芯片 ▫️生态互联｜无缝存图/修图/发图 此前该博主爆料，vivo手持云台相机样机测试LYT901 1/1.1\" 2亿传感器。“处理器还不错，感觉在按手机影像的硬件思路做，排期暂定年底，对标…",
-          "detail": "【OPPO／vivo Pocket 手持云台相机 更多爆料：两亿超大底主摄，旗舰级芯片】 ▫️200Mp 1/1.12\" 大底主摄 ▫️或联名哈苏/蔡司 ▫️内置旗舰级芯片 ▫️生态互联｜无缝存图/修图/发图 此前该博主爆料，vivo手持云台相机样机测试LYT901 1/1.1\" 2亿传感器。“处理器还不错，感觉在按手机影像的硬件思路做，排期暂定年底，对标…",
-          "keyPoints": [
-            "影像硬件",
-            "芯片 / 性能",
-            "爆料来源"
-          ],
-          "confidence": "可信度较高，但仍属于发布前线索。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "newsnow-62ecd56e0b5a",
-          "title": "时隔大半年又买了小米17，依旧发热严重，依旧功耗拉胯，我到底在期待什么[再见]至于为什么又换回小米17，因为x9p用了瞎眼，magic8系统太老年拍照丑，苹果用着不顺手， 不考虑功耗和发热小米确实最好用，但好像不得不考虑，或许我该试试小米17max…",
-          "originalTitle": "",
-          "source": "酷安热榜",
-          "brand": "Xiaomi",
-          "type": "爆料",
-          "trust": "高关注爆料源",
-          "date": "2026-06-04",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://www.coolapk.com/feed/72127390",
-          "image": "",
-          "verdict": "先看",
-          "takeaway": "时隔大半年又买了小米17，依旧发热严重，依旧功耗拉胯，我到底在期待什么[再见]至于为什么又换回小米17，因为x9p用了瞎眼，magic8系统太老年拍照丑，苹果用着不顺手， 不考虑功耗和发热小米确实最好用，但好像不得不考虑，或许我该试试小米17max…",
-          "detail": "时隔大半年又买了小米17，依旧发热严重，依旧功耗拉胯，我到底在期待什么[再见]至于为什么又换回小米17，因为x9p用了瞎眼，magic8系统太老年拍照丑，苹果用着不顺手， 不考虑功耗和发热小米确实最好用，但好像不得不考虑，或许我该试试小米17max…",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
@@ -182,25 +181,27 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
-          "id": "auto-95c9c5eeb25f",
-          "title": "Xiaomi 发布 / 上市相关消息",
+          "id": "auto-d1f5e1488da3",
+          "title": "Xiaomi 屏幕规格相关消息",
           "originalTitle": "",
           "source": "Gizmochina",
           "brand": "Xiaomi",
           "type": "爆料",
           "trust": "媒体汇总",
           "date": "2026-06-04",
-          "time": "09:48",
-          "publishedAt": "2026-06-04T09:48:33.000Z",
-          "url": "https://www.gizmochina.com/2026/06/04/oneplus-16-iqoo-16-redmi-k100-september-launch-leak/",
-          "image": "https://www.gizmochina.com/wp-content/uploads/2025/11/OnePlus-15-300x188.png?x10805",
+          "time": "13:05",
+          "publishedAt": "2026-06-04T13:05:35.000Z",
+          "url": "https://www.gizmochina.com/2026/06/04/xiaomi-18-pro-to-feature-almost-twice-as-big-rear-screen-with-privacy-protection/",
+          "image": "https://www.gizmochina.com/wp-content/uploads/2025/09/Xiaomi-17-Pro-Max-Review_1.mp4_20250930_164941.855-300x150.jpg?x10805",
           "verdict": "先看",
-          "takeaway": "Xiaomi 有发布或新功能消息，适合确认是否和新机有关。",
-          "detail": "Xiaomi 发布 / 上市相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
+          "takeaway": "Xiaomi 屏幕规格相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
+          "detail": "Xiaomi 屏幕规格相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
           "keyPoints": [
+            "影像硬件",
+            "屏幕形态",
             "爆料来源"
           ],
-          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         }
@@ -212,49 +213,26 @@ window.phoneRadarDaily = {
       "hint": "不是硬件爆料，但和 iPhone 体验或路线有关。",
       "items": [
         {
-          "id": "auto-542d56896012",
-          "title": "iPhone 影像能力相关消息",
+          "id": "newsnow-8e71951617e2",
+          "title": "xdm我在闲鱼上了我的手机，这个人只说了两句话就拍了付款了，请问大家这有没有什么套路啊？？？#iPhone16ProMax#",
           "originalTitle": "",
-          "source": "Android Authority",
+          "source": "酷安热榜",
           "brand": "iPhone",
           "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-06-04",
-          "time": "07:14",
-          "publishedAt": "2026-06-04T07:14:16.000Z",
-          "url": "https://www.androidauthority.com/google-photos-android-saved-stickers-folder-collections-3674327/",
-          "image": "",
-          "verdict": "扫一眼",
-          "takeaway": "iPhone 影像能力相关宣传或案例，主要看是否透露拍摄能力变化。",
-          "detail": "iPhone 影像能力相关消息。重点看影像功能是否和新机硬件有关，如果只是拍摄案例或营销内容，参考价值会低一些。",
-          "keyPoints": [
-            "影像硬件"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "影响拍照体验，买旗舰机时值得关注。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
-        {
-          "id": "newsnow-cc918e1abae7",
-          "title": "一日一技｜为什么你应该关闭 iOS 的键盘声音",
-          "originalTitle": "",
-          "source": "少数派热榜",
-          "brand": "iPhone",
-          "type": "评测",
-          "trust": "媒体汇总",
+          "trust": "高关注爆料源",
           "date": "2026-06-04",
           "time": "",
           "publishedAt": "",
-          "url": "https://sspai.com/post/109460",
+          "url": "https://www.coolapk.com/feed/72145407",
           "image": "",
-          "verdict": "扫一眼",
-          "takeaway": "一日一技｜为什么你应该关闭 iOS 的键盘声音",
-          "detail": "一日一技｜为什么你应该关闭 iOS 的键盘声音",
+          "verdict": "先看",
+          "takeaway": "xdm我在闲鱼上了我的手机，这个人只说了两句话就拍了付款了，请问大家这有没有什么套路啊？？？#iPhone16ProMax#",
+          "detail": "xdm我在闲鱼上了我的手机，这个人只说了两句话就拍了付款了，请问大家这有没有什么套路啊？？？#iPhone16ProMax#",
           "keyPoints": [
-            "评测"
+            "爆料"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是实际体验内容，买前适合重点看缺点和取舍。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         }
       ]
@@ -303,29 +281,6 @@ window.phoneRadarDaily = {
           "verdict": "扫一眼",
           "takeaway": "妹妹即将上大学了，这手机应该合适吧，虽然256内存刚好够用",
           "detail": "妹妹即将上大学了，这手机应该合适吧，虽然256内存刚好够用",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
-        {
-          "id": "newsnow-7c04bca47f7b",
-          "title": "REDMI 最新销量曝光：K90标准版近203万台",
-          "originalTitle": "",
-          "source": "酷安热榜",
-          "brand": "Xiaomi",
-          "type": "爆料",
-          "trust": "高关注爆料源",
-          "date": "2026-06-04",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://www.coolapk.com/feed/72136472",
-          "image": "",
-          "verdict": "扫一眼",
-          "takeaway": "REDMI 最新销量曝光：K90标准版近203万台",
-          "detail": "REDMI 最新销量曝光：K90标准版近203万台",
           "keyPoints": [
             "爆料"
           ],

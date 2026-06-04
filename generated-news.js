@@ -1,6 +1,326 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-06-04T10:12:13.397Z",
+  "updatedAt": "2026-06-04T13:31:31.613Z",
   "news": [
+    {
+      "id": "auto-218ebdb704f4",
+      "title": "关海涛：在马来西亚市场，每三台折叠屏中有一台是荣耀折叠屏手机",
+      "source": "IT之家",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-04",
+      "time": "13:28",
+      "publishedAt": "2026-06-04T13:28:03.000Z",
+      "url": "https://www.ithome.com/0/960/135.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/6/08905cb0-4e4f-4fad-b4cc-2b268aadd1c7.jpg?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 6 月 4 日消息，荣耀全球首席营销官关海涛今晚发文，祝贺 MagicV6 折叠屏手机马来西亚成功上市。 关海涛表示， 在马来西亚市场，每三台折叠屏中有一台是荣耀的折叠屏手机 。 据IT之家今日早些时候报道， 国际数据公司 IDC 的 2026 年 Q1 国内折叠屏市场份额数据已公布 。华为该季度位居国内折叠屏手机出货份额第一，独占 60%，荣耀…",
+      "tags": [
+        "HONOR",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-99b671182538",
+      "title": "The Galaxy Z Fold 8 Ultra could get a useful accessory from the Galaxy Z Trifold",
+      "source": "Android Authority",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-04",
+      "time": "13:10",
+      "publishedAt": "2026-06-04T13:10:21.000Z",
+      "url": "https://www.androidauthority.com/galaxy-z-fold-8-trifold-standing-case-filing-3674518/",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2025/07/Galaxy-Z-fold-7-unfolded-flipped-on-table-hero-image-scaled.jpg",
+      "summary": "The upcoming \"Carbon Standing Case\" could make it easier to use the Galaxy Z Fold 8 and Z Fold 8 Ultra.",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-d1f5e1488da3",
+      "title": "Xiaomi 18 Pro to feature almost twice as big rear screen with privacy protection",
+      "source": "Gizmochina",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-04",
+      "time": "13:05",
+      "publishedAt": "2026-06-04T13:05:35.000Z",
+      "url": "https://www.gizmochina.com/2026/06/04/xiaomi-18-pro-to-feature-almost-twice-as-big-rear-screen-with-privacy-protection/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2025/09/Xiaomi-17-Pro-Max-Review_1.mp4_20250930_164941.855-300x150.jpg?x10805",
+      "summary": "A fresh leak today revealed the rear camera specs of the Xiaomi 18 Pro Max. The device is rumored to feature a 200MP main and a 200MP telephoto lens. Alongside these camera module…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-1fd62e3e19f2",
+      "title": "The slimmest Galaxy Z Fold 8 competitor is going global with a huge battery in tow",
+      "source": "Android Authority",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-04",
+      "time": "13:00",
+      "publishedAt": "2026-06-04T13:00:55.000Z",
+      "url": "https://www.androidauthority.com/honor-magic-v6-global-launch-3674524/",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2026/02/honor-magic-v6-hands-on-8-scaled.jpg",
+      "summary": "HONOR’s Magic V6 packs a record battery into an impossibly thin foldable.",
+      "tags": [
+        "HONOR",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-3cc2b34be8db",
+      "title": "Xiaomi 18 Pro Max to feature new-gen LOFIC-powered 200MP camera",
+      "source": "Huawei Central",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-04",
+      "time": "12:45",
+      "publishedAt": "2026-06-04T12:45:51.000Z",
+      "url": "https://www.huaweicentral.com/xiaomi-18-pro-max-to-feature-new-gen-lofic-powered-200mp-camera/",
+      "image": "https://www.huaweicentral.com/wp-content/uploads/2026/06/Xiaomi-18-Pro-Max-leak.jpg",
+      "summary": "Xiaomi 18 Pro Max is tipped to launch this year with a new generation LOFIC 200MP camera technology. While the company is busy launching new top-tier models in China and globally,…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-e56b5b38acc5",
+      "title": "I compared the old Pixel 8 to the new Pixel 10 and found shockingly few reasons to upgrade",
+      "source": "Android Police",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-04",
+      "time": "12:30",
+      "publishedAt": "2026-06-04T12:30:14.000Z",
+      "url": "https://www.androidpolice.com/using-a-pixel-8-in-2026-made-me-realize-how-unnecessary-the-pixel-10-is/",
+      "image": "",
+      "summary": "It's hard to justify upgrading from an older Pixel",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-1a14546d8af8",
+      "title": "iPhone 18 Pro: Dark Cherry, Light Blue, and Dark Gray Chassis Leaked",
+      "source": "MacRumors",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-04",
+      "time": "12:18",
+      "publishedAt": "2026-06-04T12:18:30.000Z",
+      "url": "https://www.macrumors.com/2026/06/04/iphone-18-pro-dark-cherry-chassis-leaked/",
+      "image": "https://images.macrumors.com/article-new/2026/06/iphone-18-pro-cherry@2x-scaled.jpg",
+      "summary": "The color options Apple is reportedly planning for the upcoming iPhone 18 Pro and ‌iPhone 18 Pro‌ Max have appeared online today in the form of images of chassis parts of unknown…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-b85ee5d6980f",
+      "title": "iPhone 18 Pro Max may not be thicker after all",
+      "source": "9to5Mac",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-04",
+      "time": "11:55",
+      "publishedAt": "2026-06-04T11:55:37.000Z",
+      "url": "https://9to5mac.com/2026/06/04/iphone-18-pro-max-may-not-be-thicker-after-all/",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/04/iphone-18-pro-colors-02.jpg?quality=82&strip=all&w=1600",
+      "summary": "Late last year a leaker suggested that the trend of the Pro model iPhones getting thicker would continue with the iPhone 18 Pro Max . However, a new report today gives the thickne…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-6633ed46b085",
+      "title": "Huawei’s wide non-foldable phone could debut after Mate 90 launch",
+      "source": "Huawei Central",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-04",
+      "time": "11:50",
+      "publishedAt": "2026-06-04T11:50:10.000Z",
+      "url": "https://www.huaweicentral.com/huawei-wide-non-foldable-phone-launch/",
+      "image": "https://www.huaweicentral.com/wp-content/uploads/2026/06/wide-phone-launch-leak.jpg",
+      "summary": "Huawei wide non-foldable phone has been making a buzz for a long time and it seems we now have a slightly more accurate launch time for this creation. Here’s another leak that now…",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-18a5d970fc6b",
+      "title": "华为 Pura X Max 横阔折手机首月销量曝光：合计近 35 万台，更贵的典藏版卖得更好",
+      "source": "IT之家",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-04",
+      "time": "11:47",
+      "publishedAt": "2026-06-04T11:47:09.000Z",
+      "url": "https://www.ithome.com/0/960/108.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/6/75516e86-93ee-45f4-a5de-231696ce53f0.jpg?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 6 月 4 日消息，长期关注国内手机市场份额的博主 @RD观测 今日分享了华为折叠屏手机首月销量情况：截至 2026 W21（IT之家注：5 月 18 日-5 月 24 日）， 华为 Pura X Max 约 14.52 万台、华为 Pura X Max 典藏版约 19.85 万台 。 从数据来看，华为 Pura X Max 系列横向阔折叠手机的…",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-de5460dfe020",
+      "title": "The OnePlus 16 could launch sooner than previous OnePlus flagships",
+      "source": "Android Authority",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-04",
+      "time": "11:44",
+      "publishedAt": "2026-06-04T11:44:59.000Z",
+      "url": "https://www.androidauthority.com/oneplus-16-early-launch-3674487/",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2025/11/OnePlus-15-sandstone-in-hand.jpg",
+      "summary": "The OnePlus 15 arrived sooner than usual, and the OnePlus 16 could land even earlier.",
+      "tags": [
+        "OPPO",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-760446b31a6b",
+      "title": "竹本青：【华为Pura X Max 最新销量曝光：全系超34万台，典藏版近20万台】 截至2026 W21 华为 Pura…",
+      "source": "竹本青",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-06-04",
+      "time": "11:41",
+      "publishedAt": "2026-06-04T11:41:07.000Z",
+      "url": "https://www.coolapk.com/feed/72160782",
+      "image": "http://image.coolapk.com/feed/2026/0604/19/4248714_348b3a90_3267_0762_16@1439x470.jpg",
+      "summary": "【华为Pura X Max 最新销量曝光：全系超34万台，典藏版近20万台】 截至2026 W21 华为 Pura X Max 约14.52万 华为 Pura X Max典藏版 约19.85万 截至2026 W19 华为 Pura X Max 约11.27万 华为 Pura X Max典藏版 约14.03万 #华为Pura90ProMax# #鸿蒙6#",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-5513510d597b",
+      "title": "MagicOS 10 phones getting Huawei-like privacy screen feature",
+      "source": "Huawei Central",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-04",
+      "time": "11:01",
+      "publishedAt": "2026-06-04T11:01:19.000Z",
+      "url": "https://www.huaweicentral.com/honor-magicos-10-anti-peeping-feature/",
+      "image": "https://www.huaweicentral.com/wp-content/uploads/2026/02/Honor-Magic-9.jpg",
+      "summary": "Honor is rolling out a new MagicOS 10 software update for its devices which introduces a Huawei-like screen privacy feature. The new firmware is coming to the Magic 8 flagship pho…",
+      "tags": [
+        "HONOR",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-15ea0e9d7507",
+      "title": "Forget the Galaxy S27 Ultra: This newly leaked Samsung phone is now my most anticipated upgrade",
+      "source": "Android Police",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-04",
+      "time": "11:00",
+      "publishedAt": "2026-06-04T11:00:13.000Z",
+      "url": "https://www.androidpolice.com/new-samsung-phone-leaking-its-overtaken-s27-ultra-as-anticipated-mobile/",
+      "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2026/06/two-samsung-galaxy-s27-concept-renders-with-triple-camera-bars-shown-in-silver-and-red-against-a-blue-background.png",
+      "summary": "The Galaxy S27 Pro is what I need",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-6c38fadd0042",
+      "title": "iPhone 18 Pro Max Device Thickness Allegedly Revealed",
+      "source": "MacRumors",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-04",
+      "time": "10:39",
+      "publishedAt": "2026-06-04T10:39:14.000Z",
+      "url": "https://www.macrumors.com/2026/06/04/iphone-18-pro-max-device-thickness-revealed/",
+      "image": "https://images.macrumors.com/article-new/2026/01/Dynamic-Island-iPhone-18-Pro-Feature.jpg",
+      "summary": "Apple's upcoming iPhone 18 Pro Max will be the same thickness as its predecessor, measuring in at 8.75mm. The latest information comes from Weibo-based leaker Ice Universe . The l…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-4b46172fa054",
+      "title": "Huawei Pura X Max Receives HarmonyOS 6.1.0.125 Update: Everything New Inside",
+      "source": "Gizmochina",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-04",
+      "time": "10:33",
+      "publishedAt": "2026-06-04T10:33:06.000Z",
+      "url": "https://www.gizmochina.com/2026/06/04/huawei-pura-x-max-harmonyos-6-1-0-125-update/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/06/image-39-300x154.png?x10805",
+      "summary": "Huawei has started rolling out a new software update for the Huawei Pura X Max foldable smartphone. The latest HarmonyOS 6.1.0.125 SP13 update arrives with a package size of aroun…",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-95c9c5eeb25f",
       "title": "OnePlus 16 and iQOO 16 may launch sooner than expected as September flagship battle heats up",
@@ -57,26 +377,6 @@ window.phoneRadarAuto = {
       "summary": "Let’s get it straight: the OPPO Find X9 Ultra did not disappoint. It’s genuinely a great camera phone. After carrying it on a five‑day trip to Japan and capturing over a thousand…",
       "tags": [
         "OPPO",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-0a19e3df55a7",
-      "title": "IDC：今年 Q1 华为、荣耀位居中国折叠屏手机市场份额前二位",
-      "source": "IT之家",
-      "brand": "HONOR",
-      "model": "HONOR 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-04",
-      "time": "08:19",
-      "publishedAt": "2026-06-04T08:19:08.000Z",
-      "url": "https://www.ithome.com/0/959/931.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/6/e634f9b6-a366-45d9-97ce-45f13cbf717a.jpg?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 6 月 4 日消息，今天上午，荣耀全球首席营销官关海涛在微博上晒出国际数据公司 IDC 的 2026 年 Q1 国内折叠屏市场份额数据，并配文“向优秀学习”。 IT之家从数据中获悉，华为该季度位居国内折叠屏手机出货份额第一， 独占 60% ，荣耀则以 21% 份额 位居第二，OPPO、vivo、小米分列 3 至 5 位，份额分别为 6%、5%、4…",
-      "tags": [
-        "HONOR",
         "爆料",
         "自动抓取"
       ]
@@ -422,21 +722,41 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-62ecd56e0b5a",
-      "title": "时隔大半年又买了小米17，依旧发热严重，依旧功耗拉胯，我到底在期待什么[再见]至于为什么又换回小米17，因为x9p用了瞎眼，magic8系统太老年拍照丑，苹果用着不顺手， 不考虑功耗和发热小米确实最好用，但好像不得不考虑，或许我该试试小米17max…",
+      "id": "newsnow-8e71951617e2",
+      "title": "xdm我在闲鱼上了我的手机，这个人只说了两句话就拍了付款了，请问大家这有没有什么套路啊？？？#iPhone16ProMax#",
       "source": "酷安热榜",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-06-04",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72127390",
+      "url": "https://www.coolapk.com/feed/72145407",
       "image": "",
-      "summary": "时隔大半年又买了小米17，依旧发热严重，依旧功耗拉胯，我到底在期待什么[再见]至于为什么又换回小米17，因为x9p用了瞎眼，magic8系统太老年拍照丑，苹果用着不顺手， 不考虑功耗和发热小米确实最好用，但好像不得不考虑，或许我该试试小米17max…",
+      "summary": "xdm我在闲鱼上了我的手机，这个人只说了两句话就拍了付款了，请问大家这有没有什么套路啊？？？#iPhone16ProMax#",
       "tags": [
-        "Xiaomi",
+        "iPhone",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-ba6976b713b9",
+      "title": "iPhone改日期 空出20G",
+      "source": "微博热搜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "待验证",
+      "date": "2026-06-04",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://s.weibo.com/weibo?q=iPhone%E6%94%B9%E6%97%A5%E6%9C%9F%20%E7%A9%BA%E5%87%BA20G&t=31&band_rank=21&Refer=top",
+      "image": "",
+      "summary": "iPhone改日期 空出20G",
+      "tags": [
+        "iPhone",
         "爆料",
         "NewsNow"
       ]
@@ -518,46 +838,6 @@ window.phoneRadarAuto = {
       "tags": [
         "Samsung",
         "评测",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-dedd4e4f3e07",
-      "title": "The best Qi2 batteries for iPhone and Pixel",
-      "source": "The Verge",
-      "brand": "Pixel",
-      "model": "Pixel 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-03",
-      "time": "17:38",
-      "publishedAt": "2026-06-03T17:38:47.000Z",
-      "url": "https://www.theverge.com/gadgets/939362/best-magsafe-qi2-2-batteries-power-banks",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/268545_Best_MagSafe_battery_CFaulkner_0001.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "summary": "Compact power banks have gotten a lot faster in the past year — and it’s not just their USB-C charging speeds that have received a boost. The newest Qi2.2-certified models can wir…",
-      "tags": [
-        "Pixel",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-9e611f4cc272",
-      "title": "I tested the Pixel 10a and the Nothing Phone 4a Pro, and found one is a fantastic buy",
-      "source": "Android Police",
-      "brand": "Pixel",
-      "model": "Pixel 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-03",
-      "time": "16:15",
-      "publishedAt": "2026-06-03T16:15:12.000Z",
-      "url": "https://www.androidpolice.com/google-pixel-10a-vs-nothing-phone-4a-pro-comparison/",
-      "image": "",
-      "summary": "Which phone should get your $500?",
-      "tags": [
-        "Pixel",
-        "爆料",
         "自动抓取"
       ]
     },
@@ -702,46 +982,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-368fdaa5d8e9",
-      "title": "Huawei Mate X8 launch may delay, in favor of Mate 90?",
-      "source": "Huawei Central",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-03",
-      "time": "12:44",
-      "publishedAt": "2026-06-03T12:44:39.000Z",
-      "url": "https://www.huaweicentral.com/huawei-mate-x8-launch-may-delay-in-favor-of-mate-90/",
-      "image": "https://www.huaweicentral.com/wp-content/uploads/2026/06/Mate-X8-launch-leak.jpg",
-      "summary": "Huawei might take the decision for the Mate X8 foldable’s launch delay this year, in favor of the Mate 90 series flagship. While the company used to unveil both the top-tier smart…",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-8d746a343aa6",
-      "title": "Xiaomi 17T Series will welcome Leica Live Motion Photo feature",
-      "source": "Huawei Central",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-03",
-      "time": "12:26",
-      "publishedAt": "2026-06-03T12:26:34.000Z",
-      "url": "https://www.huaweicentral.com/xiaomi-17t-series-will-welcome-leica-live-motion-photo-feature/",
-      "image": "https://www.huaweicentral.com/wp-content/uploads/2026/06/Xiaomi17T-Pro.jpg",
-      "summary": "Xiaomi 17T Series made its debut globally last month and is now ready to step into China with a special Leica Live Motion Photo feature. The company is bringing an iconic feature…",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "coolapk-user-d8f40b32b3c4",
       "title": "JSCHEN小小狐：去看了一下 17T 系列，Deco 尺寸挺克制的 马达体感应该都是 0809A，扬声器也一般 Pro 正面有 LI…",
       "source": "JSCHEN小小狐",
@@ -822,26 +1062,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "coolapk-user-5283cd0ece94",
-      "title": "竹本青：比亚迪与中国石化深化战略合作：共建智慧能源生态",
-      "source": "竹本青",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-06-03",
-      "time": "09:18",
-      "publishedAt": "2026-06-03T09:18:45.000Z",
-      "url": "https://www.coolapk.com/feed/72139811",
-      "image": "http://image.coolapk.com/feed/2026/0603/17/4248714_dd8d19a1_8324_2775_876@1298x866.jpg",
-      "summary": "【比亚迪与中国石化深化战略合作：共建智慧能源生态】 6月3日，比亚迪股份有限公司与中国石油化工集团有限公司正式签署战略合作框架协议。 双方将以“万站聚能、加油闪充”智慧能源生态建设为核心，围绕充电网络、车主生态及产业链上下游开展多层次、全方位的产业与资本合作，共同引领能源与交通产业的深度融合与转型升级。 本次签约建立在双方既有的成品油供应、综合加能站建设等…",
-      "tags": [
-        "行业",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
       "id": "auto-bf9e25d2c4af",
       "title": "Red Magic 11S Pro tops AnTuTu chart for May with the highest recorded score ever",
       "source": "Gizmochina",
@@ -859,26 +1079,6 @@ window.phoneRadarAuto = {
         "HONOR",
         "爆料",
         "自动抓取"
-      ]
-    },
-    {
-      "id": "coolapk-user-583e66c384b6",
-      "title": "竹本青：OPPO／vivo 手持云台相机更多爆料：两亿超大底主摄",
-      "source": "竹本青",
-      "brand": "OPPO",
-      "model": "OPPO 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-06-03",
-      "time": "07:54",
-      "publishedAt": "2026-06-03T07:54:45.000Z",
-      "url": "https://www.coolapk.com/feed/72138258",
-      "image": "http://image.coolapk.com/feed/2026/0603/15/4248714_1a847851_3284_1375_761@1440x847.jpg",
-      "summary": "【OPPO／vivo Pocket 手持云台相机 更多爆料：两亿超大底主摄，旗舰级芯片】 ▫️200Mp 1/1.12\" 大底主摄 ▫️或联名哈苏/蔡司 ▫️内置旗舰级芯片 ▫️生态互联｜无缝存图/修图/发图 此前该博主爆料，vivo手持云台相机样机测试LYT901 1/1.1\" 2亿传感器。“处理器还不错，感觉在按手机影像的硬件思路做，排期暂定年底，对标…",
-      "tags": [
-        "OPPO",
-        "爆料",
-        "酷安博主"
       ]
     },
     {
