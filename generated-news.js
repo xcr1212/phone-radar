@@ -1,6 +1,126 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-06-04T13:31:31.613Z",
+  "updatedAt": "2026-06-04T17:22:29.585Z",
   "news": [
+    {
+      "id": "auto-7e90a9aaa0d2",
+      "title": "2G 时代落幕：中国移动香港 6 月 23 日起不再支持 2G/3G 业务",
+      "source": "IT之家",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-04",
+      "time": "16:19",
+      "publishedAt": "2026-06-04T16:19:20.000Z",
+      "url": "https://www.ithome.com/0/960/182.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/6/27ccf87b-46ad-4d8e-a840-bc51fddc03b9.jpg?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 6 月 5 日消息，中国移动香港（CMHK）今晚发布公告，确认将于 2026 年 6 月 23 日起全面终止 2G 网络服务，此前该公司已于 2025 年 6 月底停止 3G 业务。 根据公告，自 2026 年 6 月 23 日起，CMHK 网络将不再支持 2G/3G 业务。为确保通话、短信及上网等通信服务不受影响，当前手机注册在 CMHK 网络…",
+      "tags": [
+        "行业",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-a4c3b1684b25",
+      "title": "I built the ultimate Cosmic Orange iPhone everyday carry [Video]",
+      "source": "9to5Mac",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-04",
+      "time": "16:06",
+      "publishedAt": "2026-06-04T16:06:40.000Z",
+      "url": "https://9to5mac.com/2026/06/04/i-built-the-ultimate-cosmic-orange-iphone-everyday-carry-video/",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/fernando.jpg?quality=82&strip=all&w=1600",
+      "summary": "When Apple unveiled the Cosmic Orange iPhone 17 Pro and Pro Max, I was a bit skeptical. Apple usually reserves more “professional” and dull colors for the Pro models and the more…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-674b27106f28",
+      "title": "Galaxy Z Flip 8 reportedly will bring back Snapdragon chips alongside Exynos",
+      "source": "9to5Google",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-04",
+      "time": "15:55",
+      "publishedAt": "2026-06-04T15:55:00.000Z",
+      "url": "https://9to5google.com/2026/06/04/galaxy-z-flip-8-reportedly-will-bring-back-snapdragon-chips-alongside-exynos/",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2025/07/galaxy-z-flip-7-25.jpg?quality=82&strip=all&w=1600",
+      "summary": "According to a new leak, Samsung’s upcoming Galaxy Z Flip 8 will be bringing back Snapdragon chips amid higher costs on the Exynos 2600. more…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-cfcdaafa10d9",
+      "title": "Galaxy Z Flip 8 could follow Galaxy S series with a dual-chip strategy",
+      "source": "Android Authority",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-04",
+      "time": "15:43",
+      "publishedAt": "2026-06-04T15:43:20.000Z",
+      "url": "https://www.androidauthority.com/galaxy-z-flip-8-dual-chip-3674561/",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2025/08/samsung-galaxy-z-flip-7-review-1-scaled.jpg",
+      "summary": "Samsung may not go all Exynos for the Galaxy Z Flip 8.",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-c0fe5348eb52",
+      "title": "华为 nova Y74 海外发布：搭载 6620mAh 大电池、6.67 英寸 90Hz 屏",
+      "source": "IT之家",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-04",
+      "time": "14:14",
+      "publishedAt": "2026-06-04T14:14:25.000Z",
+      "url": "https://www.ithome.com/0/960/159.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/6/5ade4e41-7b93-4e36-81a0-3641c8d28ad5.png?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 6 月 4 日消息，GSMArena 今日发现，华为在全球市场悄然推出了新款入门级 4G 手机 nova Y74。新机提供黑色与蓝色两种配色可选，售价及具体上市时间暂未公布。 该机配备 6.67 英寸屏幕与 6620mAh 电池，具体芯片型号暂未公布，但整体配置与此前在国内上市的畅享 90 Plus 基本一致。 屏幕方面，华为 nova Y74…",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-a9fbbd818823",
+      "title": "iPhone Ultra tipped to include a vapor chamber, liquid metal hinge",
+      "source": "Gizmochina",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-04",
+      "time": "14:00",
+      "publishedAt": "2026-06-04T14:00:29.000Z",
+      "url": "https://www.gizmochina.com/2026/06/04/iphone-ultra-tipped-to-include-vc-cooling-liquid-metal-hinge/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/06/iphone-ultra-prototype-300x169.jpg?x10805",
+      "summary": "Apple‘s first foldable iPhone is shaping up to be one of the company’s most ambitious hardware projects in years. While Apple has yet to confirm its plans, a new leak suggests the…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-218ebdb704f4",
       "title": "关海涛：在马来西亚市场，每三台折叠屏中有一台是荣耀折叠屏手机",
@@ -122,26 +242,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-1a14546d8af8",
-      "title": "iPhone 18 Pro: Dark Cherry, Light Blue, and Dark Gray Chassis Leaked",
-      "source": "MacRumors",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-04",
-      "time": "12:18",
-      "publishedAt": "2026-06-04T12:18:30.000Z",
-      "url": "https://www.macrumors.com/2026/06/04/iphone-18-pro-dark-cherry-chassis-leaked/",
-      "image": "https://images.macrumors.com/article-new/2026/06/iphone-18-pro-cherry@2x-scaled.jpg",
-      "summary": "The color options Apple is reportedly planning for the upcoming iPhone 18 Pro and ‌iPhone 18 Pro‌ Max have appeared online today in the form of images of chassis parts of unknown…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-b85ee5d6980f",
       "title": "iPhone 18 Pro Max may not be thicker after all",
       "source": "9to5Mac",
@@ -223,7 +323,7 @@ window.phoneRadarAuto = {
     },
     {
       "id": "coolapk-user-760446b31a6b",
-      "title": "竹本青：【华为Pura X Max 最新销量曝光：全系超34万台，典藏版近20万台】 截至2026 W21 华为 Pura…",
+      "title": "竹本青：华为Pura X Max 最新销量曝光：全系超34万台",
       "source": "竹本青",
       "brand": "Huawei",
       "model": "Huawei 相关机型",
@@ -257,26 +357,6 @@ window.phoneRadarAuto = {
       "summary": "Honor is rolling out a new MagicOS 10 software update for its devices which introduces a Huawei-like screen privacy feature. The new firmware is coming to the Magic 8 flagship pho…",
       "tags": [
         "HONOR",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-15ea0e9d7507",
-      "title": "Forget the Galaxy S27 Ultra: This newly leaked Samsung phone is now my most anticipated upgrade",
-      "source": "Android Police",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-04",
-      "time": "11:00",
-      "publishedAt": "2026-06-04T11:00:13.000Z",
-      "url": "https://www.androidpolice.com/new-samsung-phone-leaking-its-overtaken-s27-ultra-as-anticipated-mobile/",
-      "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2026/06/two-samsung-galaxy-s27-concept-renders-with-triple-camera-bars-shown-in-silver-and-red-against-a-blue-background.png",
-      "summary": "The Galaxy S27 Pro is what I need",
-      "tags": [
-        "Samsung",
         "爆料",
         "自动抓取"
       ]
@@ -337,26 +417,6 @@ window.phoneRadarAuto = {
       "summary": "In a recent Weibo post, reliable tipster Digital Chat Station (DCS) claimed that, apart from Xiaomi, Vivo and Oppo are also planning to launch their next-generation flagship smart…",
       "tags": [
         "Xiaomi",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-36a82ce4b231",
-      "title": "华为 Pura X Max 横阔折手机获 HarmonyOS 6.1.0.125 升级，对单应用音量调节、限时水印功能上线",
-      "source": "IT之家",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-04",
-      "time": "09:43",
-      "publishedAt": "2026-06-04T09:43:26.000Z",
-      "url": "https://www.ithome.com/0/960/065.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/6/f1a70c1a-f965-45e9-ba25-6ab213ad8829.jpg?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 6 月 4 日消息，华为 Pura X Max 横向阔折叠手机推送了鸿蒙 HarmonyOS 6.1.0.125 SP13 版本升级，系统包大小约 1.67GB。据介绍，新版本带来了相机全新限时水印、对单应用音量调节等功能。 IT之家附华为 Pura X Max 本次更新内容如下： 相机 1.新增全新限时水印，基于美学色彩灵感设计，截至 2026…",
-      "tags": [
-        "Huawei",
         "爆料",
         "自动抓取"
       ]
@@ -497,26 +557,6 @@ window.phoneRadarAuto = {
       "summary": "Leaks are consistently revealing new details about upcoming flagship phones, which are expected to break cover from September onward. Speaking of September, a recent leak revealed…",
       "tags": [
         "vivo",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-749aa747b62f",
-      "title": "Huawei Mate 90 series likely to follow Mate 70’s camera look",
-      "source": "Huawei Central",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-04",
-      "time": "03:34",
-      "publishedAt": "2026-06-04T03:34:12.000Z",
-      "url": "https://www.huaweicentral.com/huawei-mate-90-series-likely-to-follow-mate-70s-camera-look/",
-      "image": "https://www.huaweicentral.com/wp-content/uploads/2026/06/mate-90-design-img.jpg",
-      "summary": "Rumor Express for the Huawei Mate 90 series today revealed that the upcoming flagship lineup could follow the Mate 70’s camera look. Instead of a circular void in the middle, the…",
-      "tags": [
-        "Huawei",
         "爆料",
         "自动抓取"
       ]
@@ -682,6 +722,26 @@ window.phoneRadarAuto = {
       ]
     },
     {
+      "id": "newsnow-8e71951617e2",
+      "title": "xdm我在闲鱼上了我的手机，这个人只说了两句话就拍了付款了，请问大家这有没有什么套路啊？？？#iPhone16ProMax#",
+      "source": "酷安热榜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-06-04",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/72145407",
+      "image": "",
+      "summary": "xdm我在闲鱼上了我的手机，这个人只说了两句话就拍了付款了，请问大家这有没有什么套路啊？？？#iPhone16ProMax#",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
       "id": "newsnow-9a04ac18919c",
       "title": "妹妹即将上大学了，这手机应该合适吧，虽然256内存刚好够用",
       "source": "酷安热榜",
@@ -717,26 +777,6 @@ window.phoneRadarAuto = {
       "summary": "REDMI 最新销量曝光：K90标准版近203万台",
       "tags": [
         "Xiaomi",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-8e71951617e2",
-      "title": "xdm我在闲鱼上了我的手机，这个人只说了两句话就拍了付款了，请问大家这有没有什么套路啊？？？#iPhone16ProMax#",
-      "source": "酷安热榜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-06-04",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72145407",
-      "image": "",
-      "summary": "xdm我在闲鱼上了我的手机，这个人只说了两句话就拍了付款了，请问大家这有没有什么套路啊？？？#iPhone16ProMax#",
-      "tags": [
-        "iPhone",
         "爆料",
         "NewsNow"
       ]
@@ -782,23 +822,23 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-f2b05039971c",
-      "title": "Samsung’s confusing Galaxy Z Fold 8 naming convention all but confirmed",
-      "source": "Android Police",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
+      "id": "newsnow-4acb1dcdfd0d",
+      "title": "苹果回应“iPhone改日期空出20G”",
+      "source": "百度热搜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
       "type": "爆料",
       "trust": "媒体汇总",
-      "date": "2026-06-03",
-      "time": "21:41",
-      "publishedAt": "2026-06-03T21:41:36.000Z",
-      "url": "https://www.androidpolice.com/samsungs-z-fold-8-ultra-name-all-but-confirmed/",
-      "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2025/07/img_1278.jpg",
-      "summary": "Regulatory filings spill the details",
+      "date": "2026-06-04",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.baidu.com/s?wd=%E8%8B%B9%E6%9E%9C%E5%9B%9E%E5%BA%94%E2%80%9CiPhone%E6%94%B9%E6%97%A5%E6%9C%9F%E7%A9%BA%E5%87%BA20G%E2%80%9D",
+      "image": "",
+      "summary": "苹果回应“iPhone改日期空出20G”",
       "tags": [
-        "Samsung",
+        "iPhone",
         "爆料",
-        "自动抓取"
+        "NewsNow"
       ]
     },
     {
@@ -1175,26 +1215,6 @@ window.phoneRadarAuto = {
       "url": "https://www.gizmochina.com/2026/06/03/vivo-x300-pro-outscores-pricier-x300-ultra-in-dxomarks-camera-ranking/",
       "image": "https://www.gizmochina.com/wp-content/uploads/2026/06/vivo-X300-Ultra-Review_1.mp4_20260408_144417.444-1-1024x512-1-300x169.png?x10805",
       "summary": "DxOMark has finally published its review of the Vivo X300 Ultra, and the result is a little surprising at first glance. Despite being Vivo’s most expensive camera flagship and arg…",
-      "tags": [
-        "vivo",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-a5ad6944cfc0",
-      "title": "Vivo X500 Pro Max display details leaked, 8,000mAh+ battery tipped again",
-      "source": "Gizmochina",
-      "brand": "vivo",
-      "model": "vivo 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-03",
-      "time": "03:04",
-      "publishedAt": "2026-06-03T03:04:46.000Z",
-      "url": "https://www.gizmochina.com/2026/06/03/vivo-x500-pro-max-display-details-leaked-8000mah-battery-tipped/",
-      "image": "https://www.gizmochina.com/wp-content/uploads/2025/12/Screenshot-2025-12-10-205154-300x247.png?x10805",
-      "summary": "Recent reports have revealed that the next-generation Vivo X500 series will comprise three models: the standard, Pro, and Pro Max. It goes without saying that the Pro Max variant…",
       "tags": [
         "vivo",
         "爆料",

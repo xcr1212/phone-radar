@@ -1,12 +1,12 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-06-04T13:31:31.613Z",
+  "updatedAt": "2026-06-04T17:22:29.585Z",
   "issueDate": "2026-06-04",
   "issue": "VOL.260604",
   "title": "手机情报日报",
-  "intro": "今日筛出 11 条重点，其中 8 条是重点爆料，包含 2 条 iPhone 相关、0 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 14 条重点，其中 8 条是重点爆料，包含 3 条 iPhone 相关、0 条官方确认、0 条参数线索。",
   "stats": {
-    "total": 11,
-    "iphone": 2,
+    "total": 14,
+    "iphone": 3,
     "leaks": 8,
     "official": 0,
     "specs": 0
@@ -18,23 +18,22 @@ window.phoneRadarDaily = {
       "hint": "机模、配色、影像、屏幕、电池和芯片线索先看。",
       "items": [
         {
-          "id": "auto-1a14546d8af8",
+          "id": "auto-a9fbbd818823",
           "title": "iPhone 相关消息",
           "originalTitle": "",
-          "source": "MacRumors",
+          "source": "Gizmochina",
           "brand": "iPhone",
           "type": "爆料",
           "trust": "媒体汇总",
           "date": "2026-06-04",
-          "time": "12:18",
-          "publishedAt": "2026-06-04T12:18:30.000Z",
-          "url": "https://www.macrumors.com/2026/06/04/iphone-18-pro-dark-cherry-chassis-leaked/",
-          "image": "https://images.macrumors.com/article-new/2026/06/iphone-18-pro-cherry@2x-scaled.jpg",
+          "time": "14:00",
+          "publishedAt": "2026-06-04T14:00:29.000Z",
+          "url": "https://www.gizmochina.com/2026/06/04/iphone-ultra-tipped-to-include-vc-cooling-liquid-metal-hinge/",
+          "image": "https://www.gizmochina.com/wp-content/uploads/2026/06/iphone-ultra-prototype-300x169.jpg?x10805",
           "verdict": "先看",
           "takeaway": "iPhone 相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
           "detail": "iPhone 相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
           "keyPoints": [
-            "外观 / 配色 / 尺寸",
             "爆料来源"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
@@ -82,29 +81,6 @@ window.phoneRadarDaily = {
           "detail": "IT之家 6 月 4 日消息，长期关注国内手机市场份额的博主 @RD观测 今日分享了华为折叠屏手机首月销量情况：截至 2026 W21（IT之家注：5 月 18 日-5 月 24 日）， 华为 Pura X Max 约 14.52 万台、华为 Pura X Max 典藏版约 19.85 万台 。 从数据来看，华为 Pura X Max 系列横向阔折叠手机的…",
           "keyPoints": [
             "屏幕形态"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "auto-36a82ce4b231",
-          "title": "华为 Pura X Max 横阔折手机获 HarmonyOS 6.1.0.125 升级，对单应用音量调节、限时水印功能上线",
-          "originalTitle": "",
-          "source": "IT之家",
-          "brand": "Huawei",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-06-04",
-          "time": "09:43",
-          "publishedAt": "2026-06-04T09:43:26.000Z",
-          "url": "https://www.ithome.com/0/960/065.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/6/f1a70c1a-f965-45e9-ba25-6ab213ad8829.jpg?x-bce-process=image/format,f_auto",
-          "verdict": "先看",
-          "takeaway": "IT之家 6 月 4 日消息，华为 Pura X Max 横向阔折叠手机推送了鸿蒙 HarmonyOS 6.1.0.125 SP13 版本升级，系统包大小约 1.67GB。据介绍，新版本带来了相机全新限时水印、对单应用音量调节等功能。 IT之家附华为 Pura X Max 本次更新内容如下： 相机 1.新增全新限时水印，基于美学色彩灵感设计，截至 2026…",
-          "detail": "IT之家 6 月 4 日消息，华为 Pura X Max 横向阔折叠手机推送了鸿蒙 HarmonyOS 6.1.0.125 SP13 版本升级，系统包大小约 1.67GB。据介绍，新版本带来了相机全新限时水印、对单应用音量调节等功能。 IT之家附华为 Pura X Max 本次更新内容如下： 相机 1.新增全新限时水印，基于美学色彩灵感设计，截至 2026…",
-          "keyPoints": [
-            "影像硬件"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
@@ -181,6 +157,31 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
+          "id": "auto-674b27106f28",
+          "title": "Samsung 芯片 / 性能相关消息",
+          "originalTitle": "",
+          "source": "9to5Google",
+          "brand": "Samsung",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-06-04",
+          "time": "15:55",
+          "publishedAt": "2026-06-04T15:55:00.000Z",
+          "url": "https://9to5google.com/2026/06/04/galaxy-z-flip-8-reportedly-will-bring-back-snapdragon-chips-alongside-exynos/",
+          "image": "https://9to5google.com/wp-content/uploads/sites/4/2025/07/galaxy-z-flip-7-25.jpg?quality=82&strip=all&w=1600",
+          "verdict": "先看",
+          "takeaway": "Samsung 芯片或连接能力相关线索，可能影响性能和续航判断。",
+          "detail": "Samsung 芯片 / 性能相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
+          "keyPoints": [
+            "芯片 / 性能",
+            "成本 / 价格",
+            "爆料来源"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
           "id": "auto-d1f5e1488da3",
           "title": "Xiaomi 屏幕规格相关消息",
           "originalTitle": "",
@@ -234,6 +235,30 @@ window.phoneRadarDaily = {
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        },
+        {
+          "id": "auto-a4c3b1684b25",
+          "title": "iPhone 影像能力相关消息",
+          "originalTitle": "",
+          "source": "9to5Mac",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-06-04",
+          "time": "16:06",
+          "publishedAt": "2026-06-04T16:06:40.000Z",
+          "url": "https://9to5mac.com/2026/06/04/i-built-the-ultimate-cosmic-orange-iphone-everyday-carry-video/",
+          "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/fernando.jpg?quality=82&strip=all&w=1600",
+          "verdict": "先看",
+          "takeaway": "iPhone 影像能力相关宣传或案例，主要看是否透露拍摄能力变化。",
+          "detail": "iPhone 影像能力相关消息。重点看影像功能是否和新机硬件有关，如果只是拍摄案例或营销内容，参考价值会低一些。",
+          "keyPoints": [
+            "外观 / 配色 / 尺寸",
+            "影像硬件"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "影响拍照体验，买旗舰机时值得关注。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         }
       ]
     },
@@ -285,6 +310,52 @@ window.phoneRadarDaily = {
             "爆料"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        },
+        {
+          "id": "newsnow-7c04bca47f7b",
+          "title": "REDMI 最新销量曝光：K90标准版近203万台",
+          "originalTitle": "",
+          "source": "酷安热榜",
+          "brand": "Xiaomi",
+          "type": "爆料",
+          "trust": "高关注爆料源",
+          "date": "2026-06-04",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://www.coolapk.com/feed/72136472",
+          "image": "",
+          "verdict": "扫一眼",
+          "takeaway": "REDMI 最新销量曝光：K90标准版近203万台",
+          "detail": "REDMI 最新销量曝光：K90标准版近203万台",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        },
+        {
+          "id": "coolapk-user-760446b31a6b",
+          "title": "竹本青：华为Pura X Max 最新销量曝光：全系超34万台",
+          "originalTitle": "",
+          "source": "竹本青",
+          "brand": "Huawei",
+          "type": "爆料",
+          "trust": "高可信爆料",
+          "date": "2026-06-04",
+          "time": "11:41",
+          "publishedAt": "2026-06-04T11:41:07.000Z",
+          "url": "https://www.coolapk.com/feed/72160782",
+          "image": "http://image.coolapk.com/feed/2026/0604/19/4248714_348b3a90_3267_0762_16@1439x470.jpg",
+          "verdict": "扫一眼",
+          "takeaway": "【华为Pura X Max 最新销量曝光：全系超34万台，典藏版近20万台】 截至2026 W21 华为 Pura X Max 约14.52万 华为 Pura X Max典藏版 约19.85万 截至2026 W19 华为 Pura X Max 约11.27万 华为 Pura X Max典藏版 约14.03万 #华为Pura90ProMax# #鸿蒙6#",
+          "detail": "【华为Pura X Max 最新销量曝光：全系超34万台，典藏版近20万台】 截至2026 W21 华为 Pura X Max 约14.52万 华为 Pura X Max典藏版 约19.85万 截至2026 W19 华为 Pura X Max 约11.27万 华为 Pura X Max典藏版 约14.03万 #华为Pura90ProMax# #鸿蒙6#",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "可信度较高，但仍属于发布前线索。",
           "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         }
