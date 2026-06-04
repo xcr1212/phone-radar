@@ -1,6 +1,26 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-06-03T21:29:54.661Z",
+  "updatedAt": "2026-06-03T23:59:59.755Z",
   "news": [
+    {
+      "id": "auto-f2b05039971c",
+      "title": "Samsung’s confusing Galaxy Z Fold 8 naming convention all but confirmed",
+      "source": "Android Police",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-03",
+      "time": "21:41",
+      "publishedAt": "2026-06-03T21:41:36.000Z",
+      "url": "https://www.androidpolice.com/samsungs-z-fold-8-ultra-name-all-but-confirmed/",
+      "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2025/07/img_1278.jpg",
+      "summary": "Regulatory filings spill the details",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-32e2b0a36db9",
       "title": "WhatsApp’s revamped chat lists interface rolling out on iOS",
@@ -317,26 +337,6 @@ window.phoneRadarAuto = {
       "summary": "Xiaomi has introduced a new 20,000mAh power bank in China, adding another option to its growing lineup of portable charging accessories. The device is now available through Xiaomi…",
       "tags": [
         "Xiaomi",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-e7ec6eca8ae4",
-      "title": "时代的眼泪：11 年前 29.7 万元天价手机如今成摆设，机主称当年如果买黄金起码翻五倍",
-      "source": "IT之家",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-03",
-      "time": "10:51",
-      "publishedAt": "2026-06-03T10:51:59.000Z",
-      "url": "https://www.ithome.com/0/959/520.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/6/dc1ed9f2-2774-4754-9e54-6947317ecf92.jpg?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 6 月 3 日消息，北京网友 @赫兢棘 昨日发布视频，分享了自己 11 年前花费 29.7 万元买下的 VERTU（纬图）奢侈手机。他在视频简介里提到， 这款手机现在用不了了，已成摆设 。 机主表示：“当年这 29 万 7 买成黄金，翻五倍。”值得一提的是，他还在视频中晒出了手机配套的保护套， 称当年花费了 4 万元单独购入 。 IT之家查询获悉…",
-      "tags": [
-        "行业",
         "爆料",
         "自动抓取"
       ]
@@ -862,21 +862,21 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-ea449dfe36b2",
-      "title": "男子11年前买29.7万元手机懊悔不已",
-      "source": "微博热搜",
-      "brand": "行业",
-      "model": "智能手机市场",
+      "id": "newsnow-0e49a8244014",
+      "title": "大家都是怎么把一台手机钉下去的，一台手机用好几年都是怎么做到的，我主力机用两个月都难，除非备用机，但是换来换去好烦，我现在也想钉下去，求个心法[流泪] #iPhone17ProMax# #华为Mate80ProMax# #vivoX300Pro#",
+      "source": "酷安热榜",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
       "type": "爆料",
-      "trust": "待验证",
+      "trust": "高关注爆料源",
       "date": "2026-06-03",
       "time": "",
       "publishedAt": "",
-      "url": "https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%9011%E5%B9%B4%E5%89%8D%E4%B9%B029.7%E4%B8%87%E5%85%83%E6%89%8B%E6%9C%BA%E6%87%8A%E6%82%94%E4%B8%8D%E5%B7%B2%23&t=31&band_rank=19&Refer=top",
+      "url": "https://www.coolapk.com/feed/72134212",
       "image": "",
-      "summary": "男子11年前买29.7万元手机懊悔不已",
+      "summary": "大家都是怎么把一台手机钉下去的，一台手机用好几年都是怎么做到的，我主力机用两个月都难，除非备用机，但是换来换去好烦，我现在也想钉下去，求个心法[流泪] #iPhone17ProMax# #华为Mate80ProMax# #vivoX300Pro#",
       "tags": [
-        "行业",
+        "Huawei",
         "爆料",
         "NewsNow"
       ]
