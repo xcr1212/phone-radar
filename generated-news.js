@@ -1,6 +1,86 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-06-04T17:22:29.585Z",
+  "updatedAt": "2026-06-04T20:24:39.688Z",
   "news": [
+    {
+      "id": "auto-7684f0855a21",
+      "title": "How to stop people seeing your PIN and password on the Galaxy S26 Ultra",
+      "source": "SamMobile",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-04",
+      "time": "19:55",
+      "publishedAt": "2026-06-04T19:55:50.000Z",
+      "url": "https://www.sammobile.com/news/stop-people-seeing-galaxy-s26-ultra-pin-password-privacy-display/",
+      "image": "https://www.sammobile.com/wp-content/uploads/2026/06/Privacy-display-pin-pattern-protection.jpg",
+      "summary": "Typing your phone's PIN or password, or drawing your unlock pattern, somewhere public is one of those everyday moments where security matters. A glance at your screen is one thing…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-87700737f10f",
+      "title": "Instagram Plus launches on iPhone, here’s every new feature",
+      "source": "9to5Mac",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-04",
+      "time": "19:38",
+      "publishedAt": "2026-06-04T19:38:08.000Z",
+      "url": "https://9to5mac.com/2026/06/04/instagram-plus-launches-on-iphone-heres-every-new-feature/",
+      "image": "",
+      "summary": "Instagram Plus is a new optional subscription plan rolling out globally for Instagram users at $3.99/month, here’s every new feature it offers. more…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-2ef8aa0db90d",
+      "title": "Galaxy Z Flip 8 might use Snapdragon in some regions, while others get Exynos",
+      "source": "Gizmochina",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-04",
+      "time": "19:30",
+      "publishedAt": "2026-06-04T19:30:05.000Z",
+      "url": "https://www.gizmochina.com/2026/06/04/galaxy-z-flip-8-might-use-snapdragon-in-some-regions-while-others-get-exynos/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/06/Samsung-Galaxy-Z-Flip-8-Renders-01-1920x1080-1-300x169.jpg?x10805",
+      "summary": "Samsung may be gearing up for an interesting shift with the Galaxy Z Flip 8, if recent leaks are anything to go by. Instead of powering the phone exclusively with Exynos, the comp…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-a4c4cbbdb46d",
+      "title": "iPhone 18 Pro getting new display upgrade with two benefits, per rumors",
+      "source": "9to5Mac",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-04",
+      "time": "18:59",
+      "publishedAt": "2026-06-04T18:59:29.000Z",
+      "url": "https://9to5mac.com/2026/06/04/iphone-18-pro-getting-new-display-upgrade-with-two-benefits-per-rumors/",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/01/iphone-17-pro-dark.jpg?quality=82&strip=all&w=1600",
+      "summary": "iPhone 18 Pro and Pro Max are expected to have the same 6.3-inch and 6.9-inch sizes as their predecessors, but rumors indicate those displays will come with a key technology upgra…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-7e90a9aaa0d2",
       "title": "2G 时代落幕：中国移动香港 6 月 23 日起不再支持 2G/3G 业务",
@@ -217,26 +297,6 @@ window.phoneRadarAuto = {
       "summary": "Xiaomi 18 Pro Max is tipped to launch this year with a new generation LOFIC 200MP camera technology. While the company is busy launching new top-tier models in China and globally,…",
       "tags": [
         "Xiaomi",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-e56b5b38acc5",
-      "title": "I compared the old Pixel 8 to the new Pixel 10 and found shockingly few reasons to upgrade",
-      "source": "Android Police",
-      "brand": "Pixel",
-      "model": "Pixel 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-04",
-      "time": "12:30",
-      "publishedAt": "2026-06-04T12:30:14.000Z",
-      "url": "https://www.androidpolice.com/using-a-pixel-8-in-2026-made-me-realize-how-unnecessary-the-pixel-10-is/",
-      "image": "",
-      "summary": "It's hard to justify upgrading from an older Pixel",
-      "tags": [
-        "Pixel",
         "爆料",
         "自动抓取"
       ]
@@ -702,26 +762,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-8b5ffed7b8d0",
-      "title": "大家都是怎么把一台手机钉下去的，一台手机用好几年都是怎么做到的，我主力机用两个月都难，除非备用机，但是换来换去好烦，我现在也想钉下去，求个心法[流泪] #iPhone17ProMax# #华为Mate80ProMax# #vivoX300Pro#",
-      "source": "酷安热榜",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-06-04",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72134212",
-      "image": "",
-      "summary": "大家都是怎么把一台手机钉下去的，一台手机用好几年都是怎么做到的，我主力机用两个月都难，除非备用机，但是换来换去好烦，我现在也想钉下去，求个心法[流泪] #iPhone17ProMax# #华为Mate80ProMax# #vivoX300Pro#",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
       "id": "newsnow-8e71951617e2",
       "title": "xdm我在闲鱼上了我的手机，这个人只说了两句话就拍了付款了，请问大家这有没有什么套路啊？？？#iPhone16ProMax#",
       "source": "酷安热榜",
@@ -742,47 +782,7 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-9a04ac18919c",
-      "title": "妹妹即将上大学了，这手机应该合适吧，虽然256内存刚好够用",
-      "source": "酷安热榜",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-06-04",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72130766",
-      "image": "",
-      "summary": "妹妹即将上大学了，这手机应该合适吧，虽然256内存刚好够用",
-      "tags": [
-        "行业",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-7c04bca47f7b",
-      "title": "REDMI 最新销量曝光：K90标准版近203万台",
-      "source": "酷安热榜",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-06-04",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72136472",
-      "image": "",
-      "summary": "REDMI 最新销量曝光：K90标准版近203万台",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-ba6976b713b9",
+      "id": "newsnow-18ff5d38e3c9",
       "title": "iPhone改日期 空出20G",
       "source": "微博热搜",
       "brand": "iPhone",
@@ -792,12 +792,32 @@ window.phoneRadarAuto = {
       "date": "2026-06-04",
       "time": "",
       "publishedAt": "",
-      "url": "https://s.weibo.com/weibo?q=iPhone%E6%94%B9%E6%97%A5%E6%9C%9F%20%E7%A9%BA%E5%87%BA20G&t=31&band_rank=21&Refer=top",
+      "url": "https://s.weibo.com/weibo?q=iPhone%E6%94%B9%E6%97%A5%E6%9C%9F%20%E7%A9%BA%E5%87%BA20G&t=31&band_rank=23&Refer=top",
       "image": "",
       "summary": "iPhone改日期 空出20G",
       "tags": [
         "iPhone",
         "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-1031d0b9bf58",
+      "title": "网传苹果即将发布首款折叠屏手机，确认液态金属铰链方案，新技术有哪些优劣？会给国产折叠屏带来哪些冲击？",
+      "source": "知乎热榜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "市场报告",
+      "trust": "媒体汇总",
+      "date": "2026-06-04",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.zhihu.com/question/2045477936329744808",
+      "image": "",
+      "summary": "网传苹果即将发布首款折叠屏手机，确认液态金属铰链方案，新技术有哪些优劣？会给国产折叠屏带来哪些冲击？",
+      "tags": [
+        "iPhone",
+        "市场报告",
         "NewsNow"
       ]
     },
@@ -1177,46 +1197,6 @@ window.phoneRadarAuto = {
       "summary": "In September, Xiaomi is expected to unveil the Xiaomi 18 series as the world’s first smartphones powered by the next-generation Snapdragon 8 Elite Gen 6 flagship chipset. Today, r…",
       "tags": [
         "Xiaomi",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-5b631a6c599c",
-      "title": "Galaxy Z Fold 8 Ultra specs tipped: packs larger battery, weighs the same, gets even slimmer",
-      "source": "Gizmochina",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-03",
-      "time": "04:35",
-      "publishedAt": "2026-06-03T04:35:54.000Z",
-      "url": "https://www.gizmochina.com/2026/06/03/galaxy-z-fold-8-ultra-specs-tipped-packs-larger-battery-weighs-the-same-gets-even-slimmer/",
-      "image": "https://www.gizmochina.com/wp-content/uploads/2026/06/HJycRpzaAAAMxoc-1-300x169.jpg?x10805",
-      "summary": "Samsung‘s next foldable may finally address one of the most common complaints about the Galaxy Z Fold series. According to Ice Universe, the upcoming Galaxy Z Fold 8 Ultra is expe…",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-87d2ab5b3a57",
-      "title": "Vivo X300 Pro outscores pricier X300 Ultra in DxOMark’s camera ranking",
-      "source": "Gizmochina",
-      "brand": "vivo",
-      "model": "vivo 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-03",
-      "time": "03:32",
-      "publishedAt": "2026-06-03T03:32:41.000Z",
-      "url": "https://www.gizmochina.com/2026/06/03/vivo-x300-pro-outscores-pricier-x300-ultra-in-dxomarks-camera-ranking/",
-      "image": "https://www.gizmochina.com/wp-content/uploads/2026/06/vivo-X300-Ultra-Review_1.mp4_20260408_144417.444-1-1024x512-1-300x169.png?x10805",
-      "summary": "DxOMark has finally published its review of the Vivo X300 Ultra, and the result is a little surprising at first glance. Despite being Vivo’s most expensive camera flagship and arg…",
-      "tags": [
-        "vivo",
         "爆料",
         "自动抓取"
       ]

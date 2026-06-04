@@ -1,12 +1,12 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-06-04T17:22:29.585Z",
+  "updatedAt": "2026-06-04T20:24:39.688Z",
   "issueDate": "2026-06-04",
   "issue": "VOL.260604",
   "title": "手机情报日报",
-  "intro": "今日筛出 14 条重点，其中 8 条是重点爆料，包含 3 条 iPhone 相关、0 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 13 条重点，其中 8 条是重点爆料，包含 7 条 iPhone 相关、0 条官方确认、0 条参数线索。",
   "stats": {
-    "total": 14,
-    "iphone": 3,
+    "total": 13,
+    "iphone": 7,
     "leaks": 8,
     "official": 0,
     "specs": 0
@@ -17,6 +17,53 @@ window.phoneRadarDaily = {
       "title": "重点爆料",
       "hint": "机模、配色、影像、屏幕、电池和芯片线索先看。",
       "items": [
+        {
+          "id": "newsnow-1031d0b9bf58",
+          "title": "网传苹果即将发布首款折叠屏手机，确认液态金属铰链方案，新技术有哪些优劣？会给国产折叠屏带来哪些冲击？",
+          "originalTitle": "",
+          "source": "知乎热榜",
+          "brand": "iPhone",
+          "type": "市场报告",
+          "trust": "媒体汇总",
+          "date": "2026-06-04",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://www.zhihu.com/question/2045477936329744808",
+          "image": "",
+          "verdict": "先看",
+          "takeaway": "网传苹果即将发布首款折叠屏手机，确认液态金属铰链方案，新技术有哪些优劣？会给国产折叠屏带来哪些冲击？",
+          "detail": "网传苹果即将发布首款折叠屏手机，确认液态金属铰链方案，新技术有哪些优劣？会给国产折叠屏带来哪些冲击？",
+          "keyPoints": [
+            "屏幕形态"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "auto-a4c4cbbdb46d",
+          "title": "iPhone 18 Pro 屏幕规格相关消息",
+          "originalTitle": "",
+          "source": "9to5Mac",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-06-04",
+          "time": "18:59",
+          "publishedAt": "2026-06-04T18:59:29.000Z",
+          "url": "https://9to5mac.com/2026/06/04/iphone-18-pro-getting-new-display-upgrade-with-two-benefits-per-rumors/",
+          "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/01/iphone-17-pro-dark.jpg?quality=82&strip=all&w=1600",
+          "verdict": "先看",
+          "takeaway": "iPhone 18 Pro 屏幕规格相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
+          "detail": "iPhone 18 Pro 屏幕规格相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
+          "keyPoints": [
+            "屏幕形态",
+            "爆料来源"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
         {
           "id": "auto-a9fbbd818823",
           "title": "iPhone 相关消息",
@@ -155,56 +202,6 @@ window.phoneRadarDaily = {
           "confidence": "可信度较高，但仍属于发布前线索。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "auto-674b27106f28",
-          "title": "Samsung 芯片 / 性能相关消息",
-          "originalTitle": "",
-          "source": "9to5Google",
-          "brand": "Samsung",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-06-04",
-          "time": "15:55",
-          "publishedAt": "2026-06-04T15:55:00.000Z",
-          "url": "https://9to5google.com/2026/06/04/galaxy-z-flip-8-reportedly-will-bring-back-snapdragon-chips-alongside-exynos/",
-          "image": "https://9to5google.com/wp-content/uploads/sites/4/2025/07/galaxy-z-flip-7-25.jpg?quality=82&strip=all&w=1600",
-          "verdict": "先看",
-          "takeaway": "Samsung 芯片或连接能力相关线索，可能影响性能和续航判断。",
-          "detail": "Samsung 芯片 / 性能相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
-          "keyPoints": [
-            "芯片 / 性能",
-            "成本 / 价格",
-            "爆料来源"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "auto-d1f5e1488da3",
-          "title": "Xiaomi 屏幕规格相关消息",
-          "originalTitle": "",
-          "source": "Gizmochina",
-          "brand": "Xiaomi",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-06-04",
-          "time": "13:05",
-          "publishedAt": "2026-06-04T13:05:35.000Z",
-          "url": "https://www.gizmochina.com/2026/06/04/xiaomi-18-pro-to-feature-almost-twice-as-big-rear-screen-with-privacy-protection/",
-          "image": "https://www.gizmochina.com/wp-content/uploads/2025/09/Xiaomi-17-Pro-Max-Review_1.mp4_20250930_164941.855-300x150.jpg?x10805",
-          "verdict": "先看",
-          "takeaway": "Xiaomi 屏幕规格相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
-          "detail": "Xiaomi 屏幕规格相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
-          "keyPoints": [
-            "影像硬件",
-            "屏幕形态",
-            "爆料来源"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         }
       ]
     },
@@ -259,6 +256,52 @@ window.phoneRadarDaily = {
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "影响拍照体验，买旗舰机时值得关注。",
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        },
+        {
+          "id": "auto-87700737f10f",
+          "title": "iPhone 芯片 / 性能相关消息",
+          "originalTitle": "",
+          "source": "9to5Mac",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-06-04",
+          "time": "19:38",
+          "publishedAt": "2026-06-04T19:38:08.000Z",
+          "url": "https://9to5mac.com/2026/06/04/instagram-plus-launches-on-iphone-heres-every-new-feature/",
+          "image": "",
+          "verdict": "扫一眼",
+          "takeaway": "iPhone 有发布或新功能消息，适合确认是否和新机有关。",
+          "detail": "iPhone 芯片 / 性能相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        },
+        {
+          "id": "newsnow-cc918e1abae7",
+          "title": "一日一技｜为什么你应该关闭 iOS 的键盘声音",
+          "originalTitle": "",
+          "source": "少数派热榜",
+          "brand": "iPhone",
+          "type": "评测",
+          "trust": "媒体汇总",
+          "date": "2026-06-04",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://sspai.com/post/109460",
+          "image": "",
+          "verdict": "扫一眼",
+          "takeaway": "一日一技｜为什么你应该关闭 iOS 的键盘声音",
+          "detail": "一日一技｜为什么你应该关闭 iOS 的键盘声音",
+          "keyPoints": [
+            "评测"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是实际体验内容，买前适合重点看缺点和取舍。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         }
       ]
     },
@@ -267,75 +310,6 @@ window.phoneRadarDaily = {
       "title": "行业趋势",
       "hint": "看方向，不急着当购买依据。",
       "items": [
-        {
-          "id": "newsnow-8b5ffed7b8d0",
-          "title": "大家都是怎么把一台手机钉下去的，一台手机用好几年都是怎么做到的，我主力机用两个月都难，除非备用机，但是换来换去好烦，我现在也想钉下去，求个心法[流泪] #iPhone17ProMax# #华为Mate80ProMax# #vivoX300Pro#",
-          "originalTitle": "",
-          "source": "酷安热榜",
-          "brand": "Huawei",
-          "type": "爆料",
-          "trust": "高关注爆料源",
-          "date": "2026-06-04",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://www.coolapk.com/feed/72134212",
-          "image": "",
-          "verdict": "先看",
-          "takeaway": "大家都是怎么把一台手机钉下去的，一台手机用好几年都是怎么做到的，我主力机用两个月都难，除非备用机，但是换来换去好烦，我现在也想钉下去，求个心法[流泪] #iPhone17ProMax# #华为Mate80ProMax# #vivoX300Pro#",
-          "detail": "大家都是怎么把一台手机钉下去的，一台手机用好几年都是怎么做到的，我主力机用两个月都难，除非备用机，但是换来换去好烦，我现在也想钉下去，求个心法[流泪] #iPhone17ProMax# #华为Mate80ProMax# #vivoX300Pro#",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
-        {
-          "id": "newsnow-9a04ac18919c",
-          "title": "妹妹即将上大学了，这手机应该合适吧，虽然256内存刚好够用",
-          "originalTitle": "",
-          "source": "酷安热榜",
-          "brand": "行业",
-          "type": "爆料",
-          "trust": "高关注爆料源",
-          "date": "2026-06-04",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://www.coolapk.com/feed/72130766",
-          "image": "",
-          "verdict": "扫一眼",
-          "takeaway": "妹妹即将上大学了，这手机应该合适吧，虽然256内存刚好够用",
-          "detail": "妹妹即将上大学了，这手机应该合适吧，虽然256内存刚好够用",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
-        {
-          "id": "newsnow-7c04bca47f7b",
-          "title": "REDMI 最新销量曝光：K90标准版近203万台",
-          "originalTitle": "",
-          "source": "酷安热榜",
-          "brand": "Xiaomi",
-          "type": "爆料",
-          "trust": "高关注爆料源",
-          "date": "2026-06-04",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://www.coolapk.com/feed/72136472",
-          "image": "",
-          "verdict": "扫一眼",
-          "takeaway": "REDMI 最新销量曝光：K90标准版近203万台",
-          "detail": "REDMI 最新销量曝光：K90标准版近203万台",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
         {
           "id": "coolapk-user-760446b31a6b",
           "title": "竹本青：华为Pura X Max 最新销量曝光：全系超34万台",
