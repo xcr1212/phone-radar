@@ -1,5 +1,5 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-06-05T21:43:54.174Z",
+  "updatedAt": "2026-06-05T23:37:46.005Z",
   "news": [
     {
       "id": "auto-55e995e6827c",
@@ -337,26 +337,6 @@ window.phoneRadarAuto = {
       "summary": "A fresh round of accessory leaks from case maker Thinborne may have given us an early look at Samsung‘s next foldables, including the Galaxy Z Flip 8, Galaxy Z Fold 8, and the Gal…",
       "tags": [
         "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-01d59584262b",
-      "title": "vivo X 系列手机影像功能升级计划公布：将陆续推送蓝图调色盘、4K 超清 Live 等",
-      "source": "IT之家",
-      "brand": "vivo",
-      "model": "vivo 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-05",
-      "time": "10:11",
-      "publishedAt": "2026-06-05T10:11:44.000Z",
-      "url": "https://www.ithome.com/0/960/649.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/6/580cac74-b052-405b-86ff-22d955c3d68b.jpg?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 6 月 5 日消息，vivo 今日宣布，vivo X 系列旗舰影像体验持续升级， 蓝图调色盘、4K 超清 Live 、多款新水印风格 将陆续推送。 IT之家附升级内容与计划如下： 蓝图调色盘-相机 相机支持多风格调色盘调节拍照 将于 2026 年 7 月推送：X200、X200 Pro、X200s、X200 Pro mini 本次升级推送机型，蓝…",
-      "tags": [
-        "vivo",
         "爆料",
         "自动抓取"
       ]

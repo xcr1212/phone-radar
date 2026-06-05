@@ -1,12 +1,12 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-06-05T21:43:54.174Z",
+  "updatedAt": "2026-06-05T23:37:46.005Z",
   "issueDate": "2026-06-05",
   "issue": "VOL.260605",
   "title": "手机情报日报",
-  "intro": "今日筛出 9 条重点，其中 8 条是重点爆料，包含 6 条 iPhone 相关、0 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 10 条重点，其中 8 条是重点爆料，包含 7 条 iPhone 相关、0 条官方确认、0 条参数线索。",
   "stats": {
-    "total": 9,
-    "iphone": 6,
+    "total": 10,
+    "iphone": 7,
     "leaks": 8,
     "official": 0,
     "specs": 0
@@ -135,29 +135,6 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
-          "id": "auto-01d59584262b",
-          "title": "vivo X 系列手机影像功能升级计划公布：将陆续推送蓝图调色盘、4K 超清 Live 等",
-          "originalTitle": "",
-          "source": "IT之家",
-          "brand": "vivo",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-06-05",
-          "time": "10:11",
-          "publishedAt": "2026-06-05T10:11:44.000Z",
-          "url": "https://www.ithome.com/0/960/649.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/6/580cac74-b052-405b-86ff-22d955c3d68b.jpg?x-bce-process=image/format,f_auto",
-          "verdict": "先看",
-          "takeaway": "IT之家 6 月 5 日消息，vivo 今日宣布，vivo X 系列旗舰影像体验持续升级， 蓝图调色盘、4K 超清 Live 、多款新水印风格 将陆续推送。 IT之家附升级内容与计划如下： 蓝图调色盘-相机 相机支持多风格调色盘调节拍照 将于 2026 年 7 月推送：X200、X200 Pro、X200s、X200 Pro mini 本次升级推送机型，蓝…",
-          "detail": "IT之家 6 月 5 日消息，vivo 今日宣布，vivo X 系列旗舰影像体验持续升级， 蓝图调色盘、4K 超清 Live 、多款新水印风格 将陆续推送。 IT之家附升级内容与计划如下： 蓝图调色盘-相机 相机支持多风格调色盘调节拍照 将于 2026 年 7 月推送：X200、X200 Pro、X200s、X200 Pro mini 本次升级推送机型，蓝…",
-          "keyPoints": [
-            "影像硬件"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
           "id": "weibo-d094d05f2eb2",
           "title": "数码闲聊站：一加Turbo 6X Pro——1.5K+144Hz三星直屏+天玑7400 S…",
           "originalTitle": "",
@@ -208,6 +185,30 @@ window.phoneRadarDaily = {
           "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "coolapk-user-9c43aabe8419",
+          "title": "JSCHEN小小狐：一加万级大电池性能机评估中：SM8845 Pro",
+          "originalTitle": "",
+          "source": "JSCHEN小小狐",
+          "brand": "OPPO",
+          "type": "爆料",
+          "trust": "高可信爆料",
+          "date": "2026-06-05",
+          "time": "05:52",
+          "publishedAt": "2026-06-05T05:52:04.000Z",
+          "url": "https://www.coolapk.com/feed/72172883",
+          "image": "http://image.coolapk.com/feed/2026/0605/13/4702274_16e58554_8723_2408_201@1440x507.jpg",
+          "verdict": "先看",
+          "takeaway": "『一加万级大电池性能机评估中：SM8845 Pro』 ◇ 10000mAh 级大容量电池 ◇ SM8845 Pro（或命名骁龙 8 Gen6） ◇ 1.5K 185Hz LTPS 超高刷直屏 该机预计将归属一加 Ace 7 系列。 #今日热点# #一加Ace7# #一加Ace6#",
+          "detail": "『一加万级大电池性能机评估中：SM8845 Pro』 ◇ 10000mAh 级大容量电池 ◇ SM8845 Pro（或命名骁龙 8 Gen6） ◇ 1.5K 185Hz LTPS 超高刷直屏 该机预计将归属一加 Ace 7 系列。 #今日热点# #一加Ace7# #一加Ace6#",
+          "keyPoints": [
+            "屏幕形态",
+            "电池 / 充电"
+          ],
+          "confidence": "可信度较高，但仍属于发布前线索。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         }
       ]
     },
@@ -237,6 +238,30 @@ window.phoneRadarDaily = {
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        },
+        {
+          "id": "auto-a4c3b1684b25",
+          "title": "iPhone 影像能力相关消息",
+          "originalTitle": "",
+          "source": "9to5Mac",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-06-04",
+          "time": "16:06",
+          "publishedAt": "2026-06-04T16:06:40.000Z",
+          "url": "https://9to5mac.com/2026/06/04/i-built-the-ultimate-cosmic-orange-iphone-everyday-carry-video/",
+          "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/fernando.jpg?quality=82&strip=all&w=1600",
+          "verdict": "先看",
+          "takeaway": "iPhone 影像能力相关宣传或案例，主要看是否透露拍摄能力变化。",
+          "detail": "iPhone 影像能力相关消息。重点看影像功能是否和新机硬件有关，如果只是拍摄案例或营销内容，参考价值会低一些。",
+          "keyPoints": [
+            "外观 / 配色 / 尺寸",
+            "影像硬件"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "影响拍照体验，买旗舰机时值得关注。",
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         }
       ]
