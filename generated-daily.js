@@ -1,11 +1,11 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-06-05T10:16:27.220Z",
+  "updatedAt": "2026-06-05T13:27:33.928Z",
   "issueDate": "2026-06-05",
   "issue": "VOL.260605",
   "title": "手机情报日报",
-  "intro": "今日筛出 18 条重点，其中 8 条是重点爆料，包含 9 条 iPhone 相关、0 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 16 条重点，其中 8 条是重点爆料，包含 9 条 iPhone 相关、0 条官方确认、0 条参数线索。",
   "stats": {
-    "total": 18,
+    "total": 16,
     "iphone": 9,
     "leaks": 8,
     "official": 0,
@@ -333,83 +333,6 @@ window.phoneRadarDaily = {
       ]
     },
     {
-      "id": "launch",
-      "title": "新机与官方发布",
-      "hint": "能直接更新到参数库。",
-      "items": [
-        {
-          "id": "auto-c9265e3423f2",
-          "title": "Xiaomi 系统功能 / AI 体验相关消息",
-          "originalTitle": "",
-          "source": "Gizmochina",
-          "brand": "Xiaomi",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-06-05",
-          "time": "06:43",
-          "publishedAt": "2026-06-05T06:43:05.000Z",
-          "url": "https://www.gizmochina.com/2026/06/05/xiaomi-17t-series-includes-highest-silicon-content-in-xiaomis-history-retains-80-capacity-after-1600-cycles/",
-          "image": "https://www.gizmochina.com/wp-content/uploads/2026/06/Screenshot-2026-06-05-121119-300x169.png?x10805",
-          "verdict": "可略过",
-          "takeaway": "Xiaomi 有系统功能或 AI 体验更新，适合关注后续是否影响日常使用。",
-          "detail": "Xiaomi 系统功能 / AI 体验相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
-          "keyPoints": [
-            "影像硬件",
-            "电池 / 充电"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "影响日常体验，尤其是游戏、拍照和长时间使用。",
-          "action": "有具体参数就记录到参数库；没有参数就先收藏。"
-        },
-        {
-          "id": "auto-2e3de76d0628",
-          "title": "Galaxy S21 FE 芯片 / 性能相关消息",
-          "originalTitle": "",
-          "source": "SamMobile",
-          "brand": "Samsung",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-06-05",
-          "time": "06:21",
-          "publishedAt": "2026-06-05T06:21:14.000Z",
-          "url": "https://www.sammobile.com/news/samsung-expands-galaxy-s21-fes-may-2026-security-update-to-snapdragon-variant/",
-          "image": "",
-          "verdict": "可略过",
-          "takeaway": "Galaxy S21 FE 芯片 / 性能相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
-          "detail": "Galaxy S21 FE 芯片 / 性能相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
-          "keyPoints": [
-            "芯片 / 性能"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "影响性能和寿命判断，适合放进参数库。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
-        {
-          "id": "auto-f17139899d9e",
-          "title": "OPPO 芯片 / 性能相关消息",
-          "originalTitle": "",
-          "source": "Gizmochina",
-          "brand": "OPPO",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-06-05",
-          "time": "03:30",
-          "publishedAt": "2026-06-05T03:30:54.000Z",
-          "url": "https://www.gizmochina.com/2026/06/05/oneplus-turbo-6x-turbo-6x-pro-chipsets-configurations-key-details-confirmed/",
-          "image": "https://www.gizmochina.com/wp-content/uploads/2026/06/OnePlus-Turbo-6X-series-300x199.jpg?x10805",
-          "verdict": "可略过",
-          "takeaway": "OPPO 有系统功能或 AI 体验更新，适合关注后续是否影响日常使用。",
-          "detail": "OPPO 芯片 / 性能相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
-          "keyPoints": [
-            "芯片 / 性能"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "有具体参数就记录到参数库；没有参数就先收藏。"
-        }
-      ]
-    },
-    {
       "id": "market",
       "title": "行业趋势",
       "hint": "看方向，不急着当购买依据。",
@@ -434,6 +357,29 @@ window.phoneRadarDaily = {
             "爆料"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        },
+        {
+          "id": "coolapk-user-ee5bc823f230",
+          "title": "竹本青：追觅俞浩内部发文：心无旁骛做实业，坚持技术创新",
+          "originalTitle": "",
+          "source": "竹本青",
+          "brand": "行业",
+          "type": "爆料",
+          "trust": "高可信爆料",
+          "date": "2026-06-05",
+          "time": "10:51",
+          "publishedAt": "2026-06-05T10:51:21.000Z",
+          "url": "https://www.coolapk.com/feed/72177573",
+          "image": "http://image.coolapk.com/feed/2026/0605/18/4248714_99998010_6680_2915_836@863x588.jpg",
+          "verdict": "扫一眼",
+          "takeaway": "【追觅俞浩内部发文：将心无旁骛做实业，坚持技术创新】 6月5日，追觅科技创始人俞浩在公司内部发文。文中，俞浩透露2026年第一季度追觅扫地机器人斩获全球市场销量、销售额两项第一。 他还表示，未来将继续心无旁骛做实业，坚持技术创新，去啃全球最难的市场。 #追觅# #追觅手机# #今日热点#",
+          "detail": "【追觅俞浩内部发文：将心无旁骛做实业，坚持技术创新】 6月5日，追觅科技创始人俞浩在公司内部发文。文中，俞浩透露2026年第一季度追觅扫地机器人斩获全球市场销量、销售额两项第一。 他还表示，未来将继续心无旁骛做实业，坚持技术创新，去啃全球最难的市场。 #追觅# #追觅手机# #今日热点#",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "可信度较高，但仍属于发布前线索。",
           "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         },

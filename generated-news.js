@@ -1,6 +1,166 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-06-05T10:16:27.220Z",
+  "updatedAt": "2026-06-05T13:27:33.928Z",
   "news": [
+    {
+      "id": "auto-635500b1a1d6",
+      "title": "Fresh OnePlus Ace 7 leak upgrade specs to 10,000mAh-class battery and Snapdragon 8 Gen 6",
+      "source": "Gizmochina",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-05",
+      "time": "13:18",
+      "publishedAt": "2026-06-05T13:18:36.000Z",
+      "url": "https://www.gizmochina.com/2026/06/05/oneplus-ace-7-10000mah-battery-snapdragon-8-gen-6-185hz-display/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2025/10/OnePlus-Ace-6-color-options-300x169.png?x10805",
+      "summary": "The OnePlus Ace 7 has surfaced in the rumor mill once again, courtesy of prolific Weibo tipster Digital Chat Station (DCS), who has shared fresh details about the device. Accordin…",
+      "tags": [
+        "OPPO",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-962ffc78906b",
+      "title": "飞牛 fnOS：ARM 设备飞牛相册更新，支持 OPPO / 一加设备互联",
+      "source": "IT之家",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-05",
+      "time": "13:12",
+      "publishedAt": "2026-06-05T13:12:53.000Z",
+      "url": "https://www.ithome.com/0/960/718.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/6/d4975b43-539a-45f7-aedc-b487b97b4904.png?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 6 月 5 日消息，飞牛 fnOS 官方今日宣布，ARM 设备飞牛相册迎来重大更新， 支持 OPPO / 一加设备互联 （ X86 已支持 ）。 据介绍，OPPO 与飞牛互联支持以下功能： 无感发现： 手机可以自动识别局域网飞牛设备，快速完成连接与初始化 系统级入口： 控制中心直达，飞牛设备运行状态一目了然 后台无感备份： 即使本地是压缩过的缩略…",
+      "tags": [
+        "OPPO",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-7426b2eca188",
+      "title": "Galaxy Z Flip 8 won’t get Galaxy Z Fold 8’s charging upgrade",
+      "source": "SamMobile",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-05",
+      "time": "13:05",
+      "publishedAt": "2026-06-05T13:05:31.000Z",
+      "url": "https://www.sammobile.com/news/galaxy-z-flip-8-not-get-battery-charging-upgrade/",
+      "image": "",
+      "summary": "The Galaxy Z Flip 8 will debut alongside the Galaxy Z Fold 8 and the Galaxy Z Fold 8 Ultra next month. While it is expected to be slightly thinner and lighter than its predecessor…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-918bacb5ac14",
+      "title": "Xiaomi 17T Series coming to China with bigger battery than global models",
+      "source": "Huawei Central",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-05",
+      "time": "12:14",
+      "publishedAt": "2026-06-05T12:14:04.000Z",
+      "url": "https://www.huaweicentral.com/xiaomi-17t-series-battery-specs-china/",
+      "image": "https://www.huaweicentral.com/wp-content/uploads/2026/06/Xiaomi-battery.jpg",
+      "summary": "Xiaomi 17T series is coming to China, and the flagship lineup will feature a bigger battery than its global sibling. The company has dropped a new teaser for the upcoming models,…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-46453f8e2c9c",
+      "title": "英国拟立法要求科技公司高管为未成年防护负责，若整治不力或将入狱",
+      "source": "IT之家",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-05",
+      "time": "12:03",
+      "publishedAt": "2026-06-05T12:03:54.000Z",
+      "url": "https://www.ithome.com/0/960/705.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2025/3/b1321a46-d703-4d06-b2d9-036ddabfd356.jpg?x-bce-process=image/format,f_auto/auto-orient,o_1",
+      "summary": "IT之家 6 月 5 日消息，据英国《泰晤士报》4 日报道，英国政府拟立法要求科技公司高管为未成年防护负责。如果科技公司负责人不能阻止儿童在手机上看到裸露图片，英国政府将以 监禁作为威胁手段 。 这一计划预计下周公布，要求 谷歌、苹果等公司 阻止儿童通过移动设备发送、接收、查看或分享敏感图片。此类举措的目标是让儿童无法在设备上接触任何裸露内容，也包括色情内…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-02cc6b1274d5",
+      "title": "Huawei Mate 90 to launch in September? A leak says otherwise",
+      "source": "Huawei Central",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-05",
+      "time": "11:10",
+      "publishedAt": "2026-06-05T11:10:56.000Z",
+      "url": "https://www.huaweicentral.com/huawei-mate-90-to-launch-in-september-a-leak-says-otherwise/",
+      "image": "https://www.huaweicentral.com/wp-content/uploads/2026/06/launch-leak.jpg",
+      "summary": "Huawei Mate 90 series launch date continues to be part of the confusion and a new leak further added uncertainty on this matter. It says that the new-gen flagship smartphone lineu…",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-ee5bc823f230",
+      "title": "竹本青：追觅俞浩内部发文：心无旁骛做实业，坚持技术创新",
+      "source": "竹本青",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-06-05",
+      "time": "10:51",
+      "publishedAt": "2026-06-05T10:51:21.000Z",
+      "url": "https://www.coolapk.com/feed/72177573",
+      "image": "http://image.coolapk.com/feed/2026/0605/18/4248714_99998010_6680_2915_836@863x588.jpg",
+      "summary": "【追觅俞浩内部发文：将心无旁骛做实业，坚持技术创新】 6月5日，追觅科技创始人俞浩在公司内部发文。文中，俞浩透露2026年第一季度追觅扫地机器人斩获全球市场销量、销售额两项第一。 他还表示，未来将继续心无旁骛做实业，坚持技术创新，去啃全球最难的市场。 #追觅# #追觅手机# #今日热点#",
+      "tags": [
+        "行业",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-33713d3722a9",
+      "title": "Galaxy Z Fold 8, Fold 8 Ultra, and Flip 8 case images all but confirm Samsung’s design changes",
+      "source": "Gizmochina",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-05",
+      "time": "10:31",
+      "publishedAt": "2026-06-05T10:31:17.000Z",
+      "url": "https://www.gizmochina.com/2026/06/05/galaxy-z-fold-8-fold-8-ultra-and-flip-8-case-images-all-but-confirm-samsungs-design-changes/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/06/Firefly-1-300x169.jpg?x10805",
+      "summary": "A fresh round of accessory leaks from case maker Thinborne may have given us an early look at Samsung‘s next foldables, including the Galaxy Z Flip 8, Galaxy Z Fold 8, and the Gal…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-01d59584262b",
       "title": "vivo X 系列手机影像功能升级计划公布：将陆续推送蓝图调色盘、4K 超清 Live 等",
@@ -322,26 +482,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-7bcc12f1e3d1",
-      "title": "华为Pura X Max 最新销量曝光：全系超34万台",
-      "source": "酷安热榜",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-06-05",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72160782",
-      "image": "",
-      "summary": "华为Pura X Max 最新销量曝光：全系超34万台",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
       "id": "newsnow-492b28d2b128",
       "title": "【消息称微信正与华为、荣耀、小米等手机厂商合作推出A2A助手能力】",
       "source": "酷安热榜",
@@ -362,41 +502,21 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-5a18831cba93",
-      "title": "mate80pm就没有好看便宜的壳，不服来辩，带上链接[色]",
+      "id": "newsnow-7bcc12f1e3d1",
+      "title": "华为Pura X Max 最新销量曝光：全系超34万台",
       "source": "酷安热榜",
-      "brand": "行业",
-      "model": "智能手机市场",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-06-05",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72159523",
+      "url": "https://www.coolapk.com/feed/72160782",
       "image": "",
-      "summary": "mate80pm就没有好看便宜的壳，不服来辩，带上链接[色]",
+      "summary": "华为Pura X Max 最新销量曝光：全系超34万台",
       "tags": [
-        "行业",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-e8ebdff2a76e",
-      "title": "2岁娃近视300度只因长辈常用手机哄",
-      "source": "微博热搜",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "待验证",
-      "date": "2026-06-05",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://s.weibo.com/weibo?q=%232%E5%B2%81%E5%A8%83%E8%BF%91%E8%A7%86300%E5%BA%A6%E5%8F%AA%E5%9B%A0%E9%95%BF%E8%BE%88%E5%B8%B8%E7%94%A8%E6%89%8B%E6%9C%BA%E5%93%84%23&t=31&band_rank=21&Refer=top",
-      "image": "",
-      "summary": "2岁娃近视300度只因长辈常用手机哄",
-      "tags": [
-        "行业",
+        "Huawei",
         "爆料",
         "NewsNow"
       ]
@@ -662,26 +782,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-3cc2b34be8db",
-      "title": "Xiaomi 18 Pro Max to feature new-gen LOFIC-powered 200MP camera",
-      "source": "Huawei Central",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-04",
-      "time": "12:45",
-      "publishedAt": "2026-06-04T12:45:51.000Z",
-      "url": "https://www.huaweicentral.com/xiaomi-18-pro-max-to-feature-new-gen-lofic-powered-200mp-camera/",
-      "image": "https://www.huaweicentral.com/wp-content/uploads/2026/06/Xiaomi-18-Pro-Max-leak.jpg",
-      "summary": "Xiaomi 18 Pro Max is tipped to launch this year with a new generation LOFIC 200MP camera technology. While the company is busy launching new top-tier models in China and globally,…",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-b85ee5d6980f",
       "title": "iPhone 18 Pro Max may not be thicker after all",
       "source": "9to5Mac",
@@ -697,26 +797,6 @@ window.phoneRadarAuto = {
       "summary": "Late last year a leaker suggested that the trend of the Pro model iPhones getting thicker would continue with the iPhone 18 Pro Max . However, a new report today gives the thickne…",
       "tags": [
         "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-6633ed46b085",
-      "title": "Huawei’s wide non-foldable phone could debut after Mate 90 launch",
-      "source": "Huawei Central",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-04",
-      "time": "11:50",
-      "publishedAt": "2026-06-04T11:50:10.000Z",
-      "url": "https://www.huaweicentral.com/huawei-wide-non-foldable-phone-launch/",
-      "image": "https://www.huaweicentral.com/wp-content/uploads/2026/06/wide-phone-launch-leak.jpg",
-      "summary": "Huawei wide non-foldable phone has been making a buzz for a long time and it seems we now have a slightly more accurate launch time for this creation. Here’s another leak that now…",
-      "tags": [
-        "Huawei",
         "爆料",
         "自动抓取"
       ]
@@ -842,26 +922,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-93e339cf5867",
-      "title": "Xiaomi 17T for Rs 59,999 brings 120Hz display, Lecia-tuned 50MP triple cameras, 6,500mAh battery",
-      "source": "Gizmochina",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-04",
-      "time": "07:37",
-      "publishedAt": "2026-06-04T07:37:12.000Z",
-      "url": "https://www.gizmochina.com/2026/06/04/xiaomi-17t-india-launch-price-specifications/",
-      "image": "https://www.gizmochina.com/wp-content/uploads/2026/06/Xiaomi-17t-featured-300x170.png?x10805",
-      "summary": "Last week, Xiaomi unveiled the Xiaomi 17T and 17T Pro flagship phones for the global market. Today, the brand held a dedicated launch event to unveil the Xiaomi 17T as well as the…",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-542d56896012",
       "title": "Google Photos on Android finally gets this handy feature months after iPhone",
       "source": "Android Authority",
@@ -877,26 +937,6 @@ window.phoneRadarAuto = {
       "summary": "You can finally create a library of custom stickers in Google Photos on Android.",
       "tags": [
         "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-7c98ed0bc81f",
-      "title": "Motorola Edge 70 Pro+ launches with 50x zoom, wireless charging, and Dimensity 8500 Extreme",
-      "source": "Gizmochina",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-04",
-      "time": "06:42",
-      "publishedAt": "2026-06-04T06:42:13.000Z",
-      "url": "https://www.gizmochina.com/2026/06/04/motorola-edge-70-pro-plus-launched-india-price-specifications/",
-      "image": "https://www.gizmochina.com/wp-content/uploads/2026/06/Motorola-Edge-70-Pro-300x164.png?x10805",
-      "summary": "After unveiling the Edge 70 Pro in April, Motorola has now unveiled the Edge 70 Pro+ in India. Being a Pro+ edition, it comes with some upgraded features like a periscope telephot…",
-      "tags": [
-        "行业",
         "爆料",
         "自动抓取"
       ]
