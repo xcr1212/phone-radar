@@ -1,12 +1,12 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-06-05T20:12:44.589Z",
+  "updatedAt": "2026-06-05T21:43:54.174Z",
   "issueDate": "2026-06-05",
   "issue": "VOL.260605",
   "title": "手机情报日报",
-  "intro": "今日筛出 10 条重点，其中 8 条是重点爆料，包含 7 条 iPhone 相关、0 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 9 条重点，其中 8 条是重点爆料，包含 6 条 iPhone 相关、0 条官方确认、0 条参数线索。",
   "stats": {
-    "total": 10,
-    "iphone": 7,
+    "total": 9,
+    "iphone": 6,
     "leaks": 8,
     "official": 0,
     "specs": 0
@@ -232,29 +232,6 @@ window.phoneRadarDaily = {
           "verdict": "先看",
           "takeaway": "从安卓换iPhone 第一次用iPhone有什么需要注意的吗xdm？",
           "detail": "从安卓换iPhone 第一次用iPhone有什么需要注意的吗xdm？",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
-        {
-          "id": "newsnow-997c50562aed",
-          "title": "xdm我在闲鱼上了我的手机，这个人只说了两句话就拍了付款了，请问大家这有没有什么套路啊？？？#iPhone16ProMax#",
-          "originalTitle": "",
-          "source": "酷安热榜",
-          "brand": "iPhone",
-          "type": "爆料",
-          "trust": "高关注爆料源",
-          "date": "2026-06-05",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://www.coolapk.com/feed/72145407",
-          "image": "",
-          "verdict": "先看",
-          "takeaway": "xdm我在闲鱼上了我的手机，这个人只说了两句话就拍了付款了，请问大家这有没有什么套路啊？？？#iPhone16ProMax#",
-          "detail": "xdm我在闲鱼上了我的手机，这个人只说了两句话就拍了付款了，请问大家这有没有什么套路啊？？？#iPhone16ProMax#",
           "keyPoints": [
             "爆料"
           ],

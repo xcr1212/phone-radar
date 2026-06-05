@@ -1,6 +1,26 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-06-05T20:12:44.589Z",
+  "updatedAt": "2026-06-05T21:43:54.174Z",
   "news": [
+    {
+      "id": "auto-55e995e6827c",
+      "title": "Galaxy S27 Pro battery leak raises questions about Samsung’s S27 Ultra positioning",
+      "source": "Gizmochina",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-05",
+      "time": "21:06",
+      "publishedAt": "2026-06-05T21:06:08.000Z",
+      "url": "https://www.gizmochina.com/2026/06/05/galaxy-s27-pro-battery-leak-raises-questions-about-samsungs-s27-ultra-positioning/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/06/galaxy-s26-features-kv-300x169.jpg?x10805",
+      "summary": "Samsung‘s rumored Galaxy S27 Pro may still be months away, but it’s already looking like one of the company’s most interesting smartphone releases in quite some time. A new leak s…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-87f33fe212e7",
       "title": "Rumors kick up Xiaomi 18 Pro hype, and it's exactly what we expected",
@@ -702,26 +722,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-997c50562aed",
-      "title": "xdm我在闲鱼上了我的手机，这个人只说了两句话就拍了付款了，请问大家这有没有什么套路啊？？？#iPhone16ProMax#",
-      "source": "酷安热榜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-06-05",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72145407",
-      "image": "",
-      "summary": "xdm我在闲鱼上了我的手机，这个人只说了两句话就拍了付款了，请问大家这有没有什么套路啊？？？#iPhone16ProMax#",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
       "id": "auto-4d648a79e1b9",
       "title": "Ugreen MagFlow Air and Nexode Air Review: A Power Bank and Charger Built for iPhone",
       "source": "MacRumors",
@@ -1077,26 +1077,6 @@ window.phoneRadarAuto = {
       "summary": "Let’s get it straight: the OPPO Find X9 Ultra did not disappoint. It’s genuinely a great camera phone. After carrying it on a five‑day trip to Japan and capturing over a thousand…",
       "tags": [
         "OPPO",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-fb3c135e63a6",
-      "title": "Xiaomi launches FX Mini LED TVs with up to 75-inch option, Fire TV, and 4K displays",
-      "source": "Gizmochina",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-04",
-      "time": "07:59",
-      "publishedAt": "2026-06-04T07:59:15.000Z",
-      "url": "https://www.gizmochina.com/2026/06/04/xiaomi-fx-mini-led-tv-india-launch-price-specifications/",
-      "image": "https://www.gizmochina.com/wp-content/uploads/2026/06/image-34-300x193.png?x10805",
-      "summary": "Alongside the launch of the Xiaomi 17T smartphone, Xiaomi has also introduced its new FX Mini LED TV series in India. The lineup is aimed at users looking for a premium viewing ex…",
-      "tags": [
-        "Xiaomi",
         "爆料",
         "自动抓取"
       ]
