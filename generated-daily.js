@@ -1,5 +1,5 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-06-05T16:40:11.401Z",
+  "updatedAt": "2026-06-05T20:12:44.589Z",
   "issueDate": "2026-06-05",
   "issue": "VOL.260605",
   "title": "手机情报日报",
@@ -35,6 +35,29 @@ window.phoneRadarDaily = {
           "detail": "iPhone 18 Pro 机模 / 配色信息曝光。来源提到未发布机型的机模/配色图，适合先判断外观方向、颜色变化和机身轮廓，但最终量产版本仍可能调整。",
           "keyPoints": [
             "外观 / 配色 / 尺寸",
+            "爆料来源"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "auto-0e455e0dad4b",
+          "title": "iPhone 相关消息",
+          "originalTitle": "",
+          "source": "9to5Mac",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-06-05",
+          "time": "16:56",
+          "publishedAt": "2026-06-05T16:56:38.000Z",
+          "url": "https://9to5mac.com/2026/06/05/touch-id-coming-to-iphone-ultra-this-fall-heres-why/",
+          "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/03/iphone-fold-mockup-blue.jpg?quality=82&strip=all&w=1600",
+          "verdict": "先看",
+          "takeaway": "iPhone 相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
+          "detail": "iPhone 相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
+          "keyPoints": [
             "爆料来源"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
@@ -112,29 +135,6 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
-          "id": "auto-a9fbbd818823",
-          "title": "iPhone 相关消息",
-          "originalTitle": "",
-          "source": "Gizmochina",
-          "brand": "iPhone",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-06-04",
-          "time": "14:00",
-          "publishedAt": "2026-06-04T14:00:29.000Z",
-          "url": "https://www.gizmochina.com/2026/06/04/iphone-ultra-tipped-to-include-vc-cooling-liquid-metal-hinge/",
-          "image": "https://www.gizmochina.com/wp-content/uploads/2026/06/iphone-ultra-prototype-300x169.jpg?x10805",
-          "verdict": "先看",
-          "takeaway": "iPhone 相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
-          "detail": "iPhone 相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
-          "keyPoints": [
-            "爆料来源"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
           "id": "auto-01d59584262b",
           "title": "vivo X 系列手机影像功能升级计划公布：将陆续推送蓝图调色盘、4K 超清 Live 等",
           "originalTitle": "",
@@ -184,25 +184,28 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
-          "id": "newsnow-492b28d2b128",
-          "title": "【消息称微信正与华为、荣耀、小米等手机厂商合作推出A2A助手能力】",
+          "id": "coolapk-user-7f5dde78a5e7",
+          "title": "竹本青：【消息称 一加万级电池性能机 评估中：1.5K 185Hz直屏+骁龙8 Gen6】 数码闲聊站今日爆料，一加正在评…",
           "originalTitle": "",
-          "source": "酷安热榜",
-          "brand": "HONOR",
+          "source": "竹本青",
+          "brand": "OPPO",
           "type": "爆料",
-          "trust": "高关注爆料源",
+          "trust": "高可信爆料",
           "date": "2026-06-05",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://www.coolapk.com/feed/72154601",
-          "image": "",
+          "time": "06:46",
+          "publishedAt": "2026-06-05T06:46:33.000Z",
+          "url": "https://www.coolapk.com/feed/72173681",
+          "image": "http://image.coolapk.com/feed/2026/0605/14/4248714_7e7e0391_1991_5966_744@1440x371.jpg",
           "verdict": "先看",
-          "takeaway": "【消息称微信正与华为、荣耀、小米等手机厂商合作推出A2A助手能力】",
-          "detail": "【消息称微信正与华为、荣耀、小米等手机厂商合作推出A2A助手能力】",
+          "takeaway": "【消息称 一加万级电池性能机 评估中：1.5K 185Hz直屏+骁龙8 Gen6】 数码闲聊站今日爆料，一加正在评估10000mAh级电池性能机，平台测试骁龙8 Gen6，配备1.5K+185Hz LTPS大直屏。 #今日热点# #一加Ace7# #ColorOS16#",
+          "detail": "【消息称 一加万级电池性能机 评估中：1.5K 185Hz直屏+骁龙8 Gen6】 数码闲聊站今日爆料，一加正在评估10000mAh级电池性能机，平台测试骁龙8 Gen6，配备1.5K+185Hz LTPS大直屏。 #今日热点# #一加Ace7# #ColorOS16#",
           "keyPoints": [
+            "外观 / 配色 / 尺寸",
+            "屏幕形态",
+            "电池 / 充电",
             "爆料来源"
           ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         }
@@ -213,6 +216,29 @@ window.phoneRadarDaily = {
       "title": "iPhone 重点",
       "hint": "不是硬件爆料，但和 iPhone 体验或路线有关。",
       "items": [
+        {
+          "id": "newsnow-6159d630b93a",
+          "title": "从安卓换iPhone 第一次用iPhone有什么需要注意的吗xdm？",
+          "originalTitle": "",
+          "source": "酷安热榜",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "高关注爆料源",
+          "date": "2026-06-05",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://www.coolapk.com/feed/72181361",
+          "image": "",
+          "verdict": "先看",
+          "takeaway": "从安卓换iPhone 第一次用iPhone有什么需要注意的吗xdm？",
+          "detail": "从安卓换iPhone 第一次用iPhone有什么需要注意的吗xdm？",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        },
         {
           "id": "newsnow-997c50562aed",
           "title": "xdm我在闲鱼上了我的手机，这个人只说了两句话就拍了付款了，请问大家这有没有什么套路啊？？？#iPhone16ProMax#",
@@ -234,30 +260,6 @@ window.phoneRadarDaily = {
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
-        {
-          "id": "auto-a4c3b1684b25",
-          "title": "iPhone 影像能力相关消息",
-          "originalTitle": "",
-          "source": "9to5Mac",
-          "brand": "iPhone",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-06-04",
-          "time": "16:06",
-          "publishedAt": "2026-06-04T16:06:40.000Z",
-          "url": "https://9to5mac.com/2026/06/04/i-built-the-ultimate-cosmic-orange-iphone-everyday-carry-video/",
-          "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/fernando.jpg?quality=82&strip=all&w=1600",
-          "verdict": "先看",
-          "takeaway": "iPhone 影像能力相关宣传或案例，主要看是否透露拍摄能力变化。",
-          "detail": "iPhone 影像能力相关消息。重点看影像功能是否和新机硬件有关，如果只是拍摄案例或营销内容，参考价值会低一些。",
-          "keyPoints": [
-            "外观 / 配色 / 尺寸",
-            "影像硬件"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "影响拍照体验，买旗舰机时值得关注。",
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         }
       ]

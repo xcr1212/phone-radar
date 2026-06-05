@@ -1,6 +1,86 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-06-05T16:40:11.401Z",
+  "updatedAt": "2026-06-05T20:12:44.589Z",
   "news": [
+    {
+      "id": "auto-87f33fe212e7",
+      "title": "Rumors kick up Xiaomi 18 Pro hype, and it's exactly what we expected",
+      "source": "Android Central",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-06-05",
+      "time": "18:04",
+      "publishedAt": "2026-06-05T18:04:30.000Z",
+      "url": "https://www.androidcentral.com/phones/xiaomi/rumors-kick-up-xiaomi-18-pro-hype-and-its-exactly-what-we-expected",
+      "image": "https://cdn.mos.cms.futurecdn.net/ZjToJaKGDWtsTLngJrSPoK-1280-80.jpg",
+      "summary": "Xiaomi's next flagship series gets caught up in rumors, and they claim the Dynamic Back Display is returning with some sweet upgrades.",
+      "tags": [
+        "Xiaomi",
+        "评测",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-86a30646e2dd",
+      "title": "Early Prime Day Google Pixel deals 2026 — score $250 off Pixel 10 phones, weeks before the big sale starts",
+      "source": "Android Central",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-06-05",
+      "time": "17:04",
+      "publishedAt": "2026-06-05T17:04:25.000Z",
+      "url": "https://www.androidcentral.com/phones/google-pixel/early-prime-day-google-pixel-deals-2026",
+      "image": "https://cdn.mos.cms.futurecdn.net/BMPcRp4T7fJpKcsQriKWeb-1280-80.jpg",
+      "summary": "Weeks before Prime Day officially kicks off, Amazon is slashing up to 25% off Pixel 10 phones, wearables, and more.",
+      "tags": [
+        "Pixel",
+        "评测",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-84dd220faad9",
+      "title": "I refuse to buy the Galaxy Z Fold 8 unless Samsung finally fixes these infuriating foldable flaws",
+      "source": "Android Police",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-05",
+      "time": "17:00",
+      "publishedAt": "2026-06-05T17:00:12.000Z",
+      "url": "https://www.androidpolice.com/i-refuse-to-buy-galaxy-z-fold-8-unless-samsung-finally-fixes-foldable-flaws/",
+      "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2025/07/img_1265.jpg",
+      "summary": "Everyone wants to see Samsung make truly innovative foldable phones",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-0e455e0dad4b",
+      "title": "Touch ID coming to iPhone Ultra this fall, here’s why",
+      "source": "9to5Mac",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-05",
+      "time": "16:56",
+      "publishedAt": "2026-06-05T16:56:38.000Z",
+      "url": "https://9to5mac.com/2026/06/05/touch-id-coming-to-iphone-ultra-this-fall-heres-why/",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/03/iphone-fold-mockup-blue.jpg?quality=82&strip=all&w=1600",
+      "summary": "This fall, Apple is launching a new foldable iPhone that rumors say will be called iPhone Ultra . And one of the more curious features of iPhone Ultra is the use of Touch ID inste…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-0d1c54254b42",
       "title": "My favorite alternative to Google’s Pixelsnap Ring Stand is better in every way",
@@ -582,26 +662,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-997c50562aed",
-      "title": "xdm我在闲鱼上了我的手机，这个人只说了两句话就拍了付款了，请问大家这有没有什么套路啊？？？#iPhone16ProMax#",
-      "source": "酷安热榜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-06-05",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72145407",
-      "image": "",
-      "summary": "xdm我在闲鱼上了我的手机，这个人只说了两句话就拍了付款了，请问大家这有没有什么套路啊？？？#iPhone16ProMax#",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
       "id": "newsnow-5212584e2823",
       "title": "这机子被低估了，这是目前米系性能释放最强，夏天日用最爽的手机，是米系续航第一的手机",
       "source": "酷安热榜",
@@ -622,21 +682,41 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-492b28d2b128",
-      "title": "【消息称微信正与华为、荣耀、小米等手机厂商合作推出A2A助手能力】",
+      "id": "newsnow-6159d630b93a",
+      "title": "从安卓换iPhone 第一次用iPhone有什么需要注意的吗xdm？",
       "source": "酷安热榜",
-      "brand": "HONOR",
-      "model": "HONOR 相关机型",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-06-05",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72154601",
+      "url": "https://www.coolapk.com/feed/72181361",
       "image": "",
-      "summary": "【消息称微信正与华为、荣耀、小米等手机厂商合作推出A2A助手能力】",
+      "summary": "从安卓换iPhone 第一次用iPhone有什么需要注意的吗xdm？",
       "tags": [
-        "HONOR",
+        "iPhone",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-997c50562aed",
+      "title": "xdm我在闲鱼上了我的手机，这个人只说了两句话就拍了付款了，请问大家这有没有什么套路啊？？？#iPhone16ProMax#",
+      "source": "酷安热榜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-06-05",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/72145407",
+      "image": "",
+      "summary": "xdm我在闲鱼上了我的手机，这个人只说了两句话就拍了付款了，请问大家这有没有什么套路啊？？？#iPhone16ProMax#",
+      "tags": [
+        "iPhone",
         "爆料",
         "NewsNow"
       ]
