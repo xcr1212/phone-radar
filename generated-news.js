@@ -1,6 +1,86 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-06-05T13:27:33.928Z",
+  "updatedAt": "2026-06-05T16:40:11.401Z",
   "news": [
+    {
+      "id": "auto-0d1c54254b42",
+      "title": "My favorite alternative to Google’s Pixelsnap Ring Stand is better in every way",
+      "source": "9to5Google",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-05",
+      "time": "16:15",
+      "publishedAt": "2026-06-05T16:15:00.000Z",
+      "url": "https://9to5google.com/2026/06/05/my-favorite-alternative-to-googles-pixelsnap-ring-stand-is-better-in-every-way/",
+      "image": "",
+      "summary": "Google’s Pixelsnap Ring Stand grabbed attention when the magnetic Pixel 10 series launched last year, but I was never a huge fan of using it despite liking the actual concept. Tha…",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-53c206e54d90",
+      "title": "Don’t get your hopes up for this Galaxy Z Flip 8 upgrade",
+      "source": "Android Authority",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-05",
+      "time": "15:26",
+      "publishedAt": "2026-06-05T15:26:21.000Z",
+      "url": "https://www.androidauthority.com/galaxy-z-flip-8-charging-spec-3675057/",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2026/05/Samsung-Galaxy-Z-Flip-7-cat-cover-screen-scaled.jpg",
+      "summary": "This Galaxy Z Flip 8 certification suggests it may disappoint on one spec.",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-7e4c7add2336",
+      "title": "Foldable iPhone May Not Come in Black, Leaker Suggests",
+      "source": "MacRumors",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-05",
+      "time": "15:24",
+      "publishedAt": "2026-06-05T15:24:51.000Z",
+      "url": "https://www.macrumors.com/2026/06/05/foldable-iphone-may-not-come-in-black/",
+      "image": "https://images.macrumors.com/article-new/2025/08/Apple-Foldable-Thumb.jpg",
+      "summary": "Apple has yet to finalize whether its upcoming foldable iPhone will be available in black, according to a questionable new rumor. The Weibo leaker known as \" Instant Digital \" com…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-8e348b571845",
+      "title": "Apple’s iPhone Ultra could hurt Galaxy Z Flip 8 and Z Fold 8 sales",
+      "source": "SamMobile",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-05",
+      "time": "13:51",
+      "publishedAt": "2026-06-05T13:51:03.000Z",
+      "url": "https://www.sammobile.com/news/apples-iphone-ultra-could-hurt-galaxy-z-flip-8-and-z-fold-8-sales/",
+      "image": "",
+      "summary": "A few years ago, Samsung was the world’s biggest foldable smartphone brand by a substantial margin, shipping 10 million units in a single year. However, competition has intensifie…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-635500b1a1d6",
       "title": "Fresh OnePlus Ace 7 leak upgrade specs to 10,000mAh-class battery and Snapdragon 8 Gen 6",
@@ -362,6 +442,26 @@ window.phoneRadarAuto = {
       ]
     },
     {
+      "id": "weibo-4d83620d566d",
+      "title": "数码闲聊站：独家信息：10000mAh级大电池性能机评估中，目前测试平台是SM8845 P…",
+      "source": "数码闲聊站",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-06-05",
+      "time": "05:30",
+      "publishedAt": "2026-06-05T05:30:00.000Z",
+      "url": "https://weibo.com/6048569942/R2HxrFtQ3",
+      "image": "",
+      "summary": "独家信息，10000mAh级大电池性能机评估中，目前测试平台是SM8845 Pro/骁龙8 Gen6？1.5K+185Hz LTPS超高刷大直屏，喜欢吗[NO]",
+      "tags": [
+        "行业",
+        "爆料",
+        "微博"
+      ]
+    },
+    {
       "id": "auto-49f6370b4a20",
       "title": "Galaxy Z Flip 8 could come in Exynos and Snapdragon variants",
       "source": "SamMobile",
@@ -379,6 +479,26 @@ window.phoneRadarAuto = {
         "Samsung",
         "爆料",
         "自动抓取"
+      ]
+    },
+    {
+      "id": "weibo-5757a989bf7e",
+      "title": "数码闲聊站：小米17T全系7000mAh单电芯，标杯67W，大杯100W+50W；全系徕卡…",
+      "source": "数码闲聊站",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-06-05",
+      "time": "04:08",
+      "publishedAt": "2026-06-05T04:08:00.000Z",
+      "url": "https://weibo.com/6048569942/R2H0ahvpa",
+      "image": "https://tvax4.sinaimg.cn/mw2000/006BlblIgy1idu8fug2swj30xp0f2afc.jpg",
+      "summary": "小米17T全系7000mAh单电芯，标杯67W，大杯100W+50W；全系徕卡5X潜望长焦，支持30cm长焦微距；大杯独享144Hz极窄四边直屏+天玑9500，目前门店已经有样机可以体验了[吃瓜]",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "微博"
       ]
     },
     {
@@ -422,23 +542,23 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "coolapk-user-5754ec13edee",
-      "title": "竹本青：全系8+128GB 起步，标准版天玑7360、Pro版天玑7400；号称“1500元档续航流畅实力之选”，李忠你真…",
-      "source": "竹本青",
-      "brand": "OPPO",
-      "model": "OPPO 相关机型",
+      "id": "weibo-d094d05f2eb2",
+      "title": "数码闲聊站：一加Turbo 6X Pro——1.5K+144Hz三星直屏+天玑7400 S…",
+      "source": "数码闲聊站",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
       "type": "爆料",
-      "trust": "高可信爆料",
+      "trust": "高关注爆料源",
       "date": "2026-06-05",
-      "time": "02:42",
-      "publishedAt": "2026-06-05T02:42:29.000Z",
-      "url": "https://www.coolapk.com/feed/72169774",
-      "image": "http://image.coolapk.com/feed/2026/0605/10/4248714_ffc41666_7348_5467_462@1440x1550.jpg",
-      "summary": "全系8+128GB 起步，标准版天玑7360、Pro版天玑7400；号称“1500元档续航流畅实力之选”，李忠你真的厉害 #ColorOS16# #一加turbo6x#",
+      "time": "02:34",
+      "publishedAt": "2026-06-05T02:34:07.000Z",
+      "url": "https://weibo.com/6048569942/R2Go3v2X0",
+      "image": "https://tvax1.sinaimg.cn/mw2000/006BlblIgy1idu89e4y3pj32o01s0nk6.jpg",
+      "summary": "一加Turbo 6X Pro——1.5K+144Hz三星直屏+天玑7400 SUPER处理器+8000mAh电池，8+128GB/8+256GB/12+256GB 一加Turbo 6X——144Hz LCD+天玑7360 SUPER处理器+7000mAh电池，8+128GB/8+256GB/12+256GB",
       "tags": [
-        "OPPO",
+        "Samsung",
         "爆料",
-        "酷安博主"
+        "微博"
       ]
     },
     {
@@ -482,6 +602,26 @@ window.phoneRadarAuto = {
       ]
     },
     {
+      "id": "newsnow-5212584e2823",
+      "title": "这机子被低估了，这是目前米系性能释放最强，夏天日用最爽的手机，是米系续航第一的手机",
+      "source": "酷安热榜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-06-05",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/72174502",
+      "image": "",
+      "summary": "这机子被低估了，这是目前米系性能释放最强，夏天日用最爽的手机，是米系续航第一的手机",
+      "tags": [
+        "行业",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
       "id": "newsnow-492b28d2b128",
       "title": "【消息称微信正与华为、荣耀、小米等手机厂商合作推出A2A助手能力】",
       "source": "酷安热榜",
@@ -497,26 +637,6 @@ window.phoneRadarAuto = {
       "summary": "【消息称微信正与华为、荣耀、小米等手机厂商合作推出A2A助手能力】",
       "tags": [
         "HONOR",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-7bcc12f1e3d1",
-      "title": "华为Pura X Max 最新销量曝光：全系超34万台",
-      "source": "酷安热榜",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-06-05",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72160782",
-      "image": "",
-      "summary": "华为Pura X Max 最新销量曝光：全系超34万台",
-      "tags": [
-        "Huawei",
         "爆料",
         "NewsNow"
       ]
@@ -558,26 +678,6 @@ window.phoneRadarAuto = {
       "tags": [
         "OPPO",
         "评测",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-7684f0855a21",
-      "title": "How to stop people seeing your PIN and password on the Galaxy S26 Ultra",
-      "source": "SamMobile",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-04",
-      "time": "19:55",
-      "publishedAt": "2026-06-04T19:55:50.000Z",
-      "url": "https://www.sammobile.com/news/stop-people-seeing-galaxy-s26-ultra-pin-password-privacy-display/",
-      "image": "https://www.sammobile.com/wp-content/uploads/2026/06/Privacy-display-pin-pattern-protection.jpg",
-      "summary": "Typing your phone's PIN or password, or drawing your unlock pattern, somewhere public is one of those everyday moments where security matters. A glance at your screen is one thing…",
-      "tags": [
-        "Samsung",
-        "爆料",
         "自动抓取"
       ]
     },
@@ -822,26 +922,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-6c38fadd0042",
-      "title": "iPhone 18 Pro Max Device Thickness Allegedly Revealed",
-      "source": "MacRumors",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-04",
-      "time": "10:39",
-      "publishedAt": "2026-06-04T10:39:14.000Z",
-      "url": "https://www.macrumors.com/2026/06/04/iphone-18-pro-max-device-thickness-revealed/",
-      "image": "https://images.macrumors.com/article-new/2026/01/Dynamic-Island-iPhone-18-Pro-Feature.jpg",
-      "summary": "Apple's upcoming iPhone 18 Pro Max will be the same thickness as its predecessor, measuring in at 8.75mm. The latest information comes from Weibo-based leaker Ice Universe . The l…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-4b46172fa054",
       "title": "Huawei Pura X Max Receives HarmonyOS 6.1.0.125 Update: Everything New Inside",
       "source": "Gizmochina",
@@ -882,6 +962,26 @@ window.phoneRadarAuto = {
       ]
     },
     {
+      "id": "weibo-b9758d8ef12a",
+      "title": "数码闲聊站：子系有一家已经确定提档Q3，一加16和iQOO16也有可能会提到9月，目前备案…",
+      "source": "数码闲聊站",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-06-04",
+      "time": "09:21",
+      "publishedAt": "2026-06-04T09:21:00.000Z",
+      "url": "https://weibo.com/6048569942/R2zCIlhVU",
+      "image": "",
+      "summary": "子系有一家已经确定提档Q3，一加16和iQOO16也有可能会提到9月，目前备案和产品进度都在往前拉[笑而不语]",
+      "tags": [
+        "OPPO",
+        "爆料",
+        "微博"
+      ]
+    },
+    {
       "id": "auto-6b9925fc054c",
       "title": "OPPO Find X9 Ultra Global Version Camera Test: The Best Smartphone for Travel",
       "source": "Gizmochina",
@@ -919,6 +1019,26 @@ window.phoneRadarAuto = {
         "Xiaomi",
         "爆料",
         "自动抓取"
+      ]
+    },
+    {
+      "id": "weibo-88fc2a4eca46",
+      "title": "数码闲聊站：天玑2nm第一批只有OV在用，Mh第一批还是压宝高通2nm，且暂时没有天玑2n…",
+      "source": "数码闲聊站",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-06-04",
+      "time": "07:31",
+      "publishedAt": "2026-06-04T07:31:00.000Z",
+      "url": "https://weibo.com/6048569942/R2yU4doig",
+      "image": "",
+      "summary": "天玑2nm第一批只有OV在用，Mh第一批还是压宝高通2nm，且暂时没有天玑2nm新机规划…… 可能是因为高通有双版本SM8950/SM8975，前者相较于天玑有一定成本优势[吃瓜]",
+      "tags": [
+        "行业",
+        "爆料",
+        "微博"
       ]
     },
     {
