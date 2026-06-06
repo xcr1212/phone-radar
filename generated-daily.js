@@ -1,11 +1,11 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-06-06T17:34:54.848Z",
+  "updatedAt": "2026-06-06T19:46:26.384Z",
   "issueDate": "2026-06-06",
   "issue": "VOL.260606",
   "title": "手机情报日报",
-  "intro": "今日筛出 18 条重点，其中 8 条是重点爆料，包含 7 条 iPhone 相关、0 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 17 条重点，其中 8 条是重点爆料，包含 7 条 iPhone 相关、0 条官方确认、0 条参数线索。",
   "stats": {
-    "total": 18,
+    "total": 17,
     "iphone": 7,
     "leaks": 8,
     "official": 0,
@@ -284,40 +284,33 @@ window.phoneRadarDaily = {
       ]
     },
     {
-      "id": "launch",
-      "title": "新机与官方发布",
-      "hint": "能直接更新到参数库。",
-      "items": [
-        {
-          "id": "auto-86a30646e2dd",
-          "title": "Pixel 相关消息",
-          "originalTitle": "",
-          "source": "Android Central",
-          "brand": "Pixel",
-          "type": "评测",
-          "trust": "媒体汇总",
-          "date": "2026-06-05",
-          "time": "17:04",
-          "publishedAt": "2026-06-05T17:04:25.000Z",
-          "url": "https://www.androidcentral.com/phones/google-pixel/early-prime-day-google-pixel-deals-2026",
-          "image": "https://cdn.mos.cms.futurecdn.net/BMPcRp4T7fJpKcsQriKWeb-1280-80.jpg",
-          "verdict": "可略过",
-          "takeaway": "Pixel 相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
-          "detail": "Pixel 相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
-          "keyPoints": [
-            "评测"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是实际体验内容，买前适合重点看缺点和取舍。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        }
-      ]
-    },
-    {
       "id": "market",
       "title": "行业趋势",
       "hint": "看方向，不急着当购买依据。",
       "items": [
+        {
+          "id": "newsnow-f0047bd4cef1",
+          "title": "去年给老妈买的k80，在村里河边洗衣服的时候掉河里捞不起来了[捂脸][捂脸]现在很久没研究手机了，这几款哪个最好一点啊，有兄弟说一下吗[亲亲] #REDMITurbo5Max# #iQOOZ10Turbo+# #红米K90#",
+          "originalTitle": "",
+          "source": "酷安热榜",
+          "brand": "Xiaomi",
+          "type": "爆料",
+          "trust": "高关注爆料源",
+          "date": "2026-06-06",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://www.coolapk.com/feed/72190414",
+          "image": "",
+          "verdict": "先看",
+          "takeaway": "去年给老妈买的k80，在村里河边洗衣服的时候掉河里捞不起来了[捂脸][捂脸]现在很久没研究手机了，这几款哪个最好一点啊，有兄弟说一下吗[亲亲] #REDMITurbo5Max# #iQOOZ10Turbo+# #红米K90#",
+          "detail": "去年给老妈买的k80，在村里河边洗衣服的时候掉河里捞不起来了[捂脸][捂脸]现在很久没研究手机了，这几款哪个最好一点啊，有兄弟说一下吗[亲亲] #REDMITurbo5Max# #iQOOZ10Turbo+# #红米K90#",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        },
         {
           "id": "newsnow-4222aad58d5b",
           "title": "说实话下半年才是真正的神仙打架，高端三巨头同台唱戏[笑眼]#数码日常# #iPhone17ProMax# #小米17ProMax#",
@@ -334,6 +327,29 @@ window.phoneRadarDaily = {
           "verdict": "先看",
           "takeaway": "说实话下半年才是真正的神仙打架，高端三巨头同台唱戏[笑眼]#数码日常# #iPhone17ProMax# #小米17ProMax#",
           "detail": "说实话下半年才是真正的神仙打架，高端三巨头同台唱戏[笑眼]#数码日常# #iPhone17ProMax# #小米17ProMax#",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        },
+        {
+          "id": "newsnow-2a2cc35fc187",
+          "title": "23年认识的一个女生，被她吊了整整一整年，只接受你的好却不跟你确认关系，24年初气的臭骂她一顿，然后删了她，从此不再相信爱情，直到现在看到她发的抖音，还会心里咯噔一下，想起来很难过，都26年了，相当于都两年半了，怎么释怀啊兄弟们，有当过杰尼龟沸羊羊的兄弟吗出出主意[舒服]#华为Mate80ProMax# #华为Mate80# #华为Mate80Pro#",
+          "originalTitle": "",
+          "source": "酷安热榜",
+          "brand": "Huawei",
+          "type": "爆料",
+          "trust": "高关注爆料源",
+          "date": "2026-06-06",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://www.coolapk.com/feed/72196843",
+          "image": "",
+          "verdict": "扫一眼",
+          "takeaway": "23年认识的一个女生，被她吊了整整一整年，只接受你的好却不跟你确认关系，24年初气的臭骂她一顿，然后删了她，从此不再相信爱情，直到现在看到她发的抖音，还会心里咯噔一下，想起来很难过，都26年了，相当于都两年半了，怎么释怀啊兄弟们，有当过杰尼龟沸羊羊的兄弟吗出出主意[舒服]#华为Mate80ProMax# #华为Mate80# #华为Mate80Pro#",
+          "detail": "23年认识的一个女生，被她吊了整整一整年，只接受你的好却不跟你确认关系，24年初气的臭骂她一顿，然后删了她，从此不再相信爱情，直到现在看到她发的抖音，还会心里咯噔一下，想起来很难过，都26年了，相当于都两年半了，怎么释怀啊兄弟们，有当过杰尼龟沸羊羊的兄弟吗出出主意[舒服]#华为Mate80ProMax# #华为Mate80# #华为Mate80Pro#",
           "keyPoints": [
             "爆料"
           ],
@@ -409,52 +425,6 @@ window.phoneRadarDaily = {
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "影响手感和显示体验，适合和其他机型对比。",
           "action": "有具体参数就记录到参数库；没有参数就先收藏。"
-        },
-        {
-          "id": "auto-7c56b0f425dd",
-          "title": "Samsung 相关消息",
-          "originalTitle": "",
-          "source": "Android Authority",
-          "brand": "Samsung",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-06-06",
-          "time": "10:30",
-          "publishedAt": "2026-06-06T10:30:41.000Z",
-          "url": "https://www.androidauthority.com/motorola-razr-ultra-2026-vs-samsung-galaxy-z-flip-7-hands-on-comparison-3672416/",
-          "image": "https://www.androidauthority.com/wp-content/uploads/2026/05/Motorola-Razr-Ultra-Galaxy-Z-Flip-7-against-sky-scaled.jpg",
-          "verdict": "可略过",
-          "takeaway": "Samsung 相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
-          "detail": "Samsung 相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
-        {
-          "id": "newsnow-7447f380c57d",
-          "title": "没想到这年头买到这么新的mate10，扩容到8+1T，又能钉好几年了[惊讶]",
-          "originalTitle": "",
-          "source": "酷安热榜",
-          "brand": "行业",
-          "type": "爆料",
-          "trust": "高关注爆料源",
-          "date": "2026-06-06",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://www.coolapk.com/feed/72176597",
-          "image": "",
-          "verdict": "可略过",
-          "takeaway": "没想到这年头买到这么新的mate10，扩容到8+1T，又能钉好几年了[惊讶]",
-          "detail": "没想到这年头买到这么新的mate10，扩容到8+1T，又能钉好几年了[惊讶]",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         }
       ]
     }
