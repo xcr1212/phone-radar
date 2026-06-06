@@ -1,40 +1,20 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-06-06T08:46:41.439Z",
+  "updatedAt": "2026-06-06T11:44:41.753Z",
   "news": [
     {
-      "id": "auto-6c45b09d4c59",
-      "title": "苹果 iPhone Ultra 折叠手机机模曝光：2 种颜色",
-      "source": "IT之家",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-06",
-      "time": "04:22",
-      "publishedAt": "2026-06-06T04:22:44.000Z",
-      "url": "https://www.ithome.com/0/960/835.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/6/e60ba32e-8bb1-4323-ba97-6e0fe5711c66.jpg?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 6 月 6 日消息，消息源 @KaroulSahil 昨日（6 月 5 日）在 X 平台分享了一段视频， 展示了白色和深蓝色（接近黑色）版本苹果 iPhone 折叠手机（上市后预估名为 iPhone Ultra）。 IT之家此前报道，针对 iPhone Fold，苹果公司内部正研发两种颜色，其一是经典的银白色，其二是深靛蓝色，比较接近 iPhon…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-a706740abd5a",
-      "title": "消息称某厂迭代性能机保底 2K+165Hz 屏幕、尝试冲 2K+185Hz，预计为 iQOO Neo 12",
-      "source": "IT之家",
+      "id": "auto-7c56b0f425dd",
+      "title": "I used the Motorola Razr Ultra (2026) and the Galaxy Z Flip 7, and I only want one in my pocket",
+      "source": "Android Authority",
       "brand": "Samsung",
       "model": "Samsung 相关机型",
       "type": "爆料",
       "trust": "媒体汇总",
       "date": "2026-06-06",
-      "time": "03:07",
-      "publishedAt": "2026-06-06T03:07:54.000Z",
-      "url": "https://www.ithome.com/0/960/803.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/6/80ef6f37-2240-4ba4-b50f-fd21408d85cc.jpg?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 6 月 6 日消息，博主 @数码闲聊站 今天在微博透露，某厂迭代性能机的国产屏权限更高，新机大保底 2K+165Hz， 正在尝试冲 2K+185Hz 。 后续有用户在评论区询问：“这代没用三星了吗”，博主回复道：“数字旗舰机是三星”。 结合博主文中暗示及评论区猜测来看，预计该机为 iQOO Neo 12。 作为参考， iQOO Neo 11 手机…",
+      "time": "10:30",
+      "publishedAt": "2026-06-06T10:30:41.000Z",
+      "url": "https://www.androidauthority.com/motorola-razr-ultra-2026-vs-samsung-galaxy-z-flip-7-hands-on-comparison-3672416/",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2026/05/Motorola-Razr-Ultra-Galaxy-Z-Flip-7-against-sky-scaled.jpg",
+      "summary": "Motorola's style makes the phone work.",
       "tags": [
         "Samsung",
         "爆料",
@@ -42,43 +22,43 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-34f567c871fa",
-      "title": "微软 Edge 149 稳定版发布，停用集锦功能",
-      "source": "IT之家",
-      "brand": "行业",
-      "model": "智能手机市场",
+      "id": "auto-7e35ea1244ed",
+      "title": "Xiaomi reportedly working on wide foldable against Pura X Max",
+      "source": "Huawei Central",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
       "type": "爆料",
       "trust": "媒体汇总",
       "date": "2026-06-06",
-      "time": "02:48",
-      "publishedAt": "2026-06-06T02:48:41.000Z",
-      "url": "https://www.ithome.com/0/960/797.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/6/1727460f-ac5b-433e-9c23-ab3df5c42f9b.jpg?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 6 月 6 日消息，科技媒体 WinAero 今天（6 月 6 日）发布博文， 报道称微软发布 Microsoft Edge 149 稳定版，版本号为 149.0.4022.52。 新版工作区（Workspaces）为提升稳定性和性能，迁移到 V2 架构，已保存的工作区数据将从 OneDrive 和 SharePoint 转移到 Edge Syn…",
+      "time": "10:20",
+      "publishedAt": "2026-06-06T10:20:25.000Z",
+      "url": "https://www.huaweicentral.com/xiaomi-reportedly-working-on-wide-foldable-against-pura-x-max/",
+      "image": "https://www.huaweicentral.com/wp-content/uploads/2026/06/Xiaomi-wide-foldable-leak.jpg",
+      "summary": "Wide foldable phones are gaining a lot of traction in the market after Huawei launched the world’s first wide-screen Pura X Max, and it looks like Xiaomi is also planning to follo…",
       "tags": [
-        "行业",
+        "Huawei",
         "爆料",
         "自动抓取"
       ]
     },
     {
-      "id": "weibo-7f000326949b",
-      "title": "数码闲聊站：独家信息：迭代性能机的国产屏权限更高，新机大保底2K+165Hz，正在尝试冲2…",
-      "source": "数码闲聊站",
-      "brand": "行业",
-      "model": "智能手机市场",
+      "id": "auto-679354b7e1be",
+      "title": "2026 款小鹏 X9 获推 AIOS 6.2.0：新增辅助驾驶车道级渲染、终点车位选项等",
+      "source": "IT之家",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
       "type": "爆料",
-      "trust": "高关注爆料源",
+      "trust": "媒体汇总",
       "date": "2026-06-06",
-      "time": "02:40",
-      "publishedAt": "2026-06-06T02:40:00.000Z",
-      "url": "https://weibo.com/6048569942/R2PQWnrRy",
-      "image": "",
-      "summary": "独家信息，迭代性能机的国产屏权限更高，新机大保底2K+165Hz，正在尝试冲2K+185Hz👖",
+      "time": "09:48",
+      "publishedAt": "2026-06-06T09:48:05.000Z",
+      "url": "https://www.ithome.com/0/960/922.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/6/cfc2f468-a2e7-4480-884c-ec5e5dfa6216.jpg?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 6 月 6 日消息，小鹏 X9、小鹏 GX 产品负责人罗杰今日宣布， 2026 款小鹏 X9 AIOS 6.2.0 的推送已经启动 ，本轮升级 Ultra 和 Ultra SE 车主将收到 VLA 2.0 的第二个版本，智驾体验再次升级，座舱方面 26 款全系 X9 也将新增一系列实用功能。 罗杰表示，26 款 X9 Max 版车主最关心的 VL…",
       "tags": [
-        "行业",
+        "iPhone",
         "爆料",
-        "微博"
+        "自动抓取"
       ]
     },
     {
@@ -122,26 +102,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "weibo-f7d91b22fa3f",
-      "title": "数码闲聊站：独家，下一代安卓超大杯，阿绿有概率还是唯一双潜望镜+10X超长焦方案，并持续升…",
-      "source": "数码闲聊站",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-06-06",
-      "time": "01:07",
-      "publishedAt": "2026-06-06T01:07:06.000Z",
-      "url": "https://weibo.com/6048569942/R2Pfeo8tM",
-      "image": "",
-      "summary": "独家，下一代安卓超大杯，阿绿有概率还是唯一双潜望镜+10X超长焦方案，并持续升级[偷乐] Tips：安卓阵营原本有一家在评估10X，最新一版样机取消了，还是走2亿单潜望+ISZ路线",
-      "tags": [
-        "行业",
-        "爆料",
-        "微博"
-      ]
-    },
-    {
       "id": "newsnow-83187392e60c",
       "title": "一日一技｜为什么你应该关闭 iOS 的键盘声音",
       "source": "少数派热榜",
@@ -182,26 +142,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-12a5871b880f",
-      "title": "这机子被低估了，这是目前米系性能释放最强，夏天日用最爽的手机，是米系续航第一的手机",
-      "source": "酷安热榜",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-06-06",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72174502",
-      "image": "",
-      "summary": "这机子被低估了，这是目前米系性能释放最强，夏天日用最爽的手机，是米系续航第一的手机",
-      "tags": [
-        "行业",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
       "id": "newsnow-4222aad58d5b",
       "title": "说实话下半年才是真正的神仙打架，高端三巨头同台唱戏[笑眼]#数码日常# #iPhone17ProMax# #小米17ProMax#",
       "source": "酷安热榜",
@@ -222,21 +162,61 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-7152bdae557d",
-      "title": "侧躺玩手机受害者",
-      "source": "微博热搜",
+      "id": "newsnow-12a5871b880f",
+      "title": "这机子被低估了，这是目前米系性能释放最强，夏天日用最爽的手机，是米系续航第一的手机",
+      "source": "酷安热榜",
       "brand": "行业",
       "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-06-06",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/72174502",
+      "image": "",
+      "summary": "这机子被低估了，这是目前米系性能释放最强，夏天日用最爽的手机，是米系续航第一的手机",
+      "tags": [
+        "行业",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-7447f380c57d",
+      "title": "没想到这年头买到这么新的mate10，扩容到8+1T，又能钉好几年了[惊讶]",
+      "source": "酷安热榜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-06-06",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/72176597",
+      "image": "",
+      "summary": "没想到这年头买到这么新的mate10，扩容到8+1T，又能钉好几年了[惊讶]",
+      "tags": [
+        "行业",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-bd570d5f9149",
+      "title": "iPhoneUltra机模再曝光",
+      "source": "微博热搜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
       "type": "爆料",
       "trust": "待验证",
       "date": "2026-06-06",
       "time": "",
       "publishedAt": "",
-      "url": "https://s.weibo.com/weibo?q=%23%E4%BE%A7%E8%BA%BA%E7%8E%A9%E6%89%8B%E6%9C%BA%E5%8F%97%E5%AE%B3%E8%80%85%23&t=31&band_rank=29&Refer=top",
+      "url": "https://s.weibo.com/weibo?q=%23iPhoneUltra%E6%9C%BA%E6%A8%A1%E5%86%8D%E6%9B%9D%E5%85%89%23&t=31&band_rank=28&Refer=top",
       "image": "",
-      "summary": "侧躺玩手机受害者",
+      "summary": "iPhoneUltra机模再曝光",
       "tags": [
-        "行业",
+        "iPhone",
         "爆料",
         "NewsNow"
       ]
@@ -423,7 +403,7 @@ window.phoneRadarAuto = {
     },
     {
       "id": "auto-635500b1a1d6",
-      "title": "Fresh OnePlus Ace 7 leak upgrade specs to 10,000mAh-class battery and Snapdragon 8 Gen 6",
+      "title": "Fresh OnePlus Ace 7 leak reveals specs, 10,000mAh battery and Snapdragon 8 Gen 6 in cards",
       "source": "Gizmochina",
       "brand": "OPPO",
       "model": "OPPO 相关机型",
@@ -582,26 +562,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "coolapk-user-7f5dde78a5e7",
-      "title": "竹本青：【消息称 一加万级电池性能机 评估中：1.5K 185Hz直屏+骁龙8 Gen6】 数码闲聊站今日爆料，一加正在评…",
-      "source": "竹本青",
-      "brand": "OPPO",
-      "model": "OPPO 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-06-05",
-      "time": "06:46",
-      "publishedAt": "2026-06-05T06:46:33.000Z",
-      "url": "https://www.coolapk.com/feed/72173681",
-      "image": "http://image.coolapk.com/feed/2026/0605/14/4248714_7e7e0391_1991_5966_744@1440x371.jpg",
-      "summary": "【消息称 一加万级电池性能机 评估中：1.5K 185Hz直屏+骁龙8 Gen6】 数码闲聊站今日爆料，一加正在评估10000mAh级电池性能机，平台测试骁龙8 Gen6，配备1.5K+185Hz LTPS大直屏。 #今日热点# #一加Ace7# #ColorOS16#",
-      "tags": [
-        "OPPO",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
       "id": "auto-c9265e3423f2",
       "title": "Xiaomi 17T series includes highest silicon content in Xiaomi’s history, retains 80% capacity after 1600 cycles",
       "source": "Gizmochina",
@@ -682,46 +642,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "coolapk-user-4b11b8dde13c",
-      "title": "竹本青：因违反相关法律法规，追觅俞浩微博账号被禁言",
-      "source": "竹本青",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-06-05",
-      "time": "05:45",
-      "publishedAt": "2026-06-05T05:45:11.000Z",
-      "url": "https://www.coolapk.com/feed/72172782",
-      "image": "http://image.coolapk.com/feed/2026/0605/13/4248714_776af68a_8310_8123_735@1271x1157.jpg",
-      "summary": "【因违反相关法律法规，追觅俞浩微博账号被禁言】 6月5日，追觅科技创始人兼CEO俞浩微博账号显示，因违反相关法律法规，处于禁言状态。其账号更新内容停于6月1日。目前抖音、小红书等公开平台，俞浩账号仍处于正常状态。 #追觅# #追觅手机#",
-      "tags": [
-        "行业",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
-      "id": "weibo-4d83620d566d",
-      "title": "数码闲聊站：独家信息：10000mAh级大电池性能机评估中，目前测试平台是SM8845 P…",
-      "source": "数码闲聊站",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-06-05",
-      "time": "05:30",
-      "publishedAt": "2026-06-05T05:30:00.000Z",
-      "url": "https://weibo.com/6048569942/R2HxrFtQ3",
-      "image": "",
-      "summary": "独家信息，10000mAh级大电池性能机评估中，目前测试平台是SM8845 Pro/骁龙8 Gen6？1.5K+185Hz LTPS超高刷大直屏，喜欢吗[NO]",
-      "tags": [
-        "行业",
-        "爆料",
-        "微博"
-      ]
-    },
-    {
       "id": "auto-49f6370b4a20",
       "title": "Galaxy Z Flip 8 could come in Exynos and Snapdragon variants",
       "source": "SamMobile",
@@ -742,26 +662,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "weibo-5757a989bf7e",
-      "title": "数码闲聊站：小米17T全系7000mAh单电芯，标杯67W，大杯100W+50W；全系徕卡…",
-      "source": "数码闲聊站",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-06-05",
-      "time": "04:08",
-      "publishedAt": "2026-06-05T04:08:00.000Z",
-      "url": "https://weibo.com/6048569942/R2H0ahvpa",
-      "image": "https://tvax4.sinaimg.cn/mw2000/006BlblIgy1idu8fug2swj30xp0f2afc.jpg",
-      "summary": "小米17T全系7000mAh单电芯，标杯67W，大杯100W+50W；全系徕卡5X潜望长焦，支持30cm长焦微距；大杯独享144Hz极窄四边直屏+天玑9500，目前门店已经有样机可以体验了[吃瓜]",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "微博"
-      ]
-    },
-    {
       "id": "auto-f17139899d9e",
       "title": "OnePlus Turbo 6X, Turbo 6X Pro chipsets, configurations, and key details officially confirmed",
       "source": "Gizmochina",
@@ -779,26 +679,6 @@ window.phoneRadarAuto = {
         "OPPO",
         "爆料",
         "自动抓取"
-      ]
-    },
-    {
-      "id": "weibo-d094d05f2eb2",
-      "title": "数码闲聊站：一加Turbo 6X Pro——1.5K+144Hz三星直屏+天玑7400 S…",
-      "source": "数码闲聊站",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-06-05",
-      "time": "02:34",
-      "publishedAt": "2026-06-05T02:34:07.000Z",
-      "url": "https://weibo.com/6048569942/R2Go3v2X0",
-      "image": "https://tvax1.sinaimg.cn/mw2000/006BlblIgy1idu89e4y3pj32o01s0nk6.jpg",
-      "summary": "一加Turbo 6X Pro——1.5K+144Hz三星直屏+天玑7400 SUPER处理器+8000mAh电池，8+128GB/8+256GB/12+256GB 一加Turbo 6X——144Hz LCD+天玑7360 SUPER处理器+7000mAh电池，8+128GB/8+256GB/12+256GB",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "微博"
       ]
     }
   ]

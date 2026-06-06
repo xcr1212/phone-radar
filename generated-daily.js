@@ -1,12 +1,12 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-06-06T08:46:41.439Z",
+  "updatedAt": "2026-06-06T11:44:41.753Z",
   "issueDate": "2026-06-06",
   "issue": "VOL.260606",
   "title": "手机情报日报",
-  "intro": "今日筛出 10 条重点，其中 8 条是重点爆料，包含 5 条 iPhone 相关、0 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 16 条重点，其中 8 条是重点爆料，包含 8 条 iPhone 相关、0 条官方确认、0 条参数线索。",
   "stats": {
-    "total": 10,
-    "iphone": 5,
+    "total": 16,
+    "iphone": 8,
     "leaks": 8,
     "official": 0,
     "specs": 0
@@ -18,21 +18,44 @@ window.phoneRadarDaily = {
       "hint": "机模、配色、影像、屏幕、电池和芯片线索先看。",
       "items": [
         {
-          "id": "auto-6c45b09d4c59",
-          "title": "苹果 iPhone Ultra 折叠手机机模曝光：2 种颜色",
+          "id": "auto-679354b7e1be",
+          "title": "2026 款小鹏 X9 获推 AIOS 6.2.0：新增辅助驾驶车道级渲染、终点车位选项等",
           "originalTitle": "",
           "source": "IT之家",
           "brand": "iPhone",
           "type": "爆料",
           "trust": "媒体汇总",
           "date": "2026-06-06",
-          "time": "04:22",
-          "publishedAt": "2026-06-06T04:22:44.000Z",
-          "url": "https://www.ithome.com/0/960/835.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/6/e60ba32e-8bb1-4323-ba97-6e0fe5711c66.jpg?x-bce-process=image/format,f_auto",
+          "time": "09:48",
+          "publishedAt": "2026-06-06T09:48:05.000Z",
+          "url": "https://www.ithome.com/0/960/922.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/6/cfc2f468-a2e7-4480-884c-ec5e5dfa6216.jpg?x-bce-process=image/format,f_auto",
           "verdict": "先看",
-          "takeaway": "IT之家 6 月 6 日消息，消息源 @KaroulSahil 昨日（6 月 5 日）在 X 平台分享了一段视频， 展示了白色和深蓝色（接近黑色）版本苹果 iPhone 折叠手机（上市后预估名为 iPhone Ultra）。 IT之家此前报道，针对 iPhone Fold，苹果公司内部正研发两种颜色，其一是经典的银白色，其二是深靛蓝色，比较接近 iPhon…",
-          "detail": "IT之家 6 月 6 日消息，消息源 @KaroulSahil 昨日（6 月 5 日）在 X 平台分享了一段视频， 展示了白色和深蓝色（接近黑色）版本苹果 iPhone 折叠手机（上市后预估名为 iPhone Ultra）。 IT之家此前报道，针对 iPhone Fold，苹果公司内部正研发两种颜色，其一是经典的银白色，其二是深靛蓝色，比较接近 iPhon…",
+          "takeaway": "IT之家 6 月 6 日消息，小鹏 X9、小鹏 GX 产品负责人罗杰今日宣布， 2026 款小鹏 X9 AIOS 6.2.0 的推送已经启动 ，本轮升级 Ultra 和 Ultra SE 车主将收到 VLA 2.0 的第二个版本，智驾体验再次升级，座舱方面 26 款全系 X9 也将新增一系列实用功能。 罗杰表示，26 款 X9 Max 版车主最关心的 VL…",
+          "detail": "IT之家 6 月 6 日消息，小鹏 X9、小鹏 GX 产品负责人罗杰今日宣布， 2026 款小鹏 X9 AIOS 6.2.0 的推送已经启动 ，本轮升级 Ultra 和 Ultra SE 车主将收到 VLA 2.0 的第二个版本，智驾体验再次升级，座舱方面 26 款全系 X9 也将新增一系列实用功能。 罗杰表示，26 款 X9 Max 版车主最关心的 VL…",
+          "keyPoints": [
+            "外观 / 配色 / 尺寸"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "newsnow-bd570d5f9149",
+          "title": "iPhoneUltra机模再曝光",
+          "originalTitle": "",
+          "source": "微博热搜",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "待验证",
+          "date": "2026-06-06",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://s.weibo.com/weibo?q=%23iPhoneUltra%E6%9C%BA%E6%A8%A1%E5%86%8D%E6%9B%9D%E5%85%89%23&t=31&band_rank=28&Refer=top",
+          "image": "",
+          "verdict": "先看",
+          "takeaway": "iPhoneUltra机模再曝光",
+          "detail": "iPhoneUltra机模再曝光",
           "keyPoints": [
             "外观 / 配色 / 尺寸"
           ],
@@ -111,79 +134,6 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
-          "id": "auto-a706740abd5a",
-          "title": "消息称某厂迭代性能机保底 2K+165Hz 屏幕、尝试冲 2K+185Hz，预计为 iQOO Neo 12",
-          "originalTitle": "",
-          "source": "IT之家",
-          "brand": "Samsung",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-06-06",
-          "time": "03:07",
-          "publishedAt": "2026-06-06T03:07:54.000Z",
-          "url": "https://www.ithome.com/0/960/803.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/6/80ef6f37-2240-4ba4-b50f-fd21408d85cc.jpg?x-bce-process=image/format,f_auto",
-          "verdict": "先看",
-          "takeaway": "IT之家 6 月 6 日消息，博主 @数码闲聊站 今天在微博透露，某厂迭代性能机的国产屏权限更高，新机大保底 2K+165Hz， 正在尝试冲 2K+185Hz 。 后续有用户在评论区询问：“这代没用三星了吗”，博主回复道：“数字旗舰机是三星”。 结合博主文中暗示及评论区猜测来看，预计该机为 iQOO Neo 12。 作为参考， iQOO Neo 11 手机…",
-          "detail": "IT之家 6 月 6 日消息，博主 @数码闲聊站 今天在微博透露，某厂迭代性能机的国产屏权限更高，新机大保底 2K+165Hz， 正在尝试冲 2K+185Hz 。 后续有用户在评论区询问：“这代没用三星了吗”，博主回复道：“数字旗舰机是三星”。 结合博主文中暗示及评论区猜测来看，预计该机为 iQOO Neo 12。 作为参考， iQOO Neo 11 手机…",
-          "keyPoints": [
-            "屏幕形态",
-            "爆料来源"
-          ],
-          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "weibo-d094d05f2eb2",
-          "title": "数码闲聊站：一加Turbo 6X Pro——1.5K+144Hz三星直屏+天玑7400 S…",
-          "originalTitle": "",
-          "source": "数码闲聊站",
-          "brand": "Samsung",
-          "type": "爆料",
-          "trust": "高关注爆料源",
-          "date": "2026-06-05",
-          "time": "02:34",
-          "publishedAt": "2026-06-05T02:34:07.000Z",
-          "url": "https://weibo.com/6048569942/R2Go3v2X0",
-          "image": "https://tvax1.sinaimg.cn/mw2000/006BlblIgy1idu89e4y3pj32o01s0nk6.jpg",
-          "verdict": "先看",
-          "takeaway": "一加Turbo 6X Pro——1.5K+144Hz三星直屏+天玑7400 SUPER处理器+8000mAh电池，8+128GB/8+256GB/12+256GB 一加Turbo 6X——144Hz LCD+天玑7360 SUPER处理器+7000mAh电池，8+128GB/8+256GB/12+256GB",
-          "detail": "一加Turbo 6X Pro——1.5K+144Hz三星直屏+天玑7400 SUPER处理器+8000mAh电池，8+128GB/8+256GB/12+256GB 一加Turbo 6X——144Hz LCD+天玑7360 SUPER处理器+7000mAh电池，8+128GB/8+256GB/12+256GB",
-          "keyPoints": [
-            "屏幕形态",
-            "电池 / 充电",
-            "芯片 / 性能",
-            "爆料来源"
-          ],
-          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "auto-34f567c871fa",
-          "title": "微软 Edge 149 稳定版发布，停用集锦功能",
-          "originalTitle": "",
-          "source": "IT之家",
-          "brand": "行业",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-06-06",
-          "time": "02:48",
-          "publishedAt": "2026-06-06T02:48:41.000Z",
-          "url": "https://www.ithome.com/0/960/797.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/6/1727460f-ac5b-433e-9c23-ab3df5c42f9b.jpg?x-bce-process=image/format,f_auto",
-          "verdict": "先看",
-          "takeaway": "IT之家 6 月 6 日消息，科技媒体 WinAero 今天（6 月 6 日）发布博文， 报道称微软发布 Microsoft Edge 149 稳定版，版本号为 149.0.4022.52。 新版工作区（Workspaces）为提升稳定性和性能，迁移到 V2 架构，已保存的工作区数据将从 OneDrive 和 SharePoint 转移到 Edge Syn…",
-          "detail": "IT之家 6 月 6 日消息，科技媒体 WinAero 今天（6 月 6 日）发布博文， 报道称微软发布 Microsoft Edge 149 稳定版，版本号为 149.0.4022.52。 新版工作区（Workspaces）为提升稳定性和性能，迁移到 V2 架构，已保存的工作区数据将从 OneDrive 和 SharePoint 转移到 Edge Syn…",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
           "id": "coolapk-user-24bfded1abaa",
           "title": "竹本青：【OPPO或独占下代安卓超大杯配置：双潜望镜+10倍超长焦】 数码闲聊站今日爆料，下一代安卓超大杯，OPPO有概率…",
           "originalTitle": "",
@@ -205,6 +155,53 @@ window.phoneRadarDaily = {
             "爆料来源"
           ],
           "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "coolapk-user-9c43aabe8419",
+          "title": "JSCHEN小小狐：一加万级大电池性能机评估中：SM8845 Pro",
+          "originalTitle": "",
+          "source": "JSCHEN小小狐",
+          "brand": "OPPO",
+          "type": "爆料",
+          "trust": "高可信爆料",
+          "date": "2026-06-05",
+          "time": "05:52",
+          "publishedAt": "2026-06-05T05:52:04.000Z",
+          "url": "https://www.coolapk.com/feed/72172883",
+          "image": "http://image.coolapk.com/feed/2026/0605/13/4702274_16e58554_8723_2408_201@1440x507.jpg",
+          "verdict": "先看",
+          "takeaway": "『一加万级大电池性能机评估中：SM8845 Pro』 ◇ 10000mAh 级大容量电池 ◇ SM8845 Pro（或命名骁龙 8 Gen6） ◇ 1.5K 185Hz LTPS 超高刷直屏 该机预计将归属一加 Ace 7 系列。 #今日热点# #一加Ace7# #一加Ace6#",
+          "detail": "『一加万级大电池性能机评估中：SM8845 Pro』 ◇ 10000mAh 级大容量电池 ◇ SM8845 Pro（或命名骁龙 8 Gen6） ◇ 1.5K 185Hz LTPS 超高刷直屏 该机预计将归属一加 Ace 7 系列。 #今日热点# #一加Ace7# #一加Ace6#",
+          "keyPoints": [
+            "屏幕形态",
+            "电池 / 充电"
+          ],
+          "confidence": "可信度较高，但仍属于发布前线索。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "newsnow-12a5871b880f",
+          "title": "这机子被低估了，这是目前米系性能释放最强，夏天日用最爽的手机，是米系续航第一的手机",
+          "originalTitle": "",
+          "source": "酷安热榜",
+          "brand": "行业",
+          "type": "爆料",
+          "trust": "高关注爆料源",
+          "date": "2026-06-06",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://www.coolapk.com/feed/72174502",
+          "image": "",
+          "verdict": "先看",
+          "takeaway": "这机子被低估了，这是目前米系性能释放最强，夏天日用最爽的手机，是米系续航第一的手机",
+          "detail": "这机子被低估了，这是目前米系性能释放最强，夏天日用最爽的手机，是米系续航第一的手机",
+          "keyPoints": [
+            "电池 / 充电"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         }
@@ -237,6 +234,82 @@ window.phoneRadarDaily = {
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        },
+        {
+          "id": "newsnow-83187392e60c",
+          "title": "一日一技｜为什么你应该关闭 iOS 的键盘声音",
+          "originalTitle": "",
+          "source": "少数派热榜",
+          "brand": "iPhone",
+          "type": "评测",
+          "trust": "媒体汇总",
+          "date": "2026-06-06",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://sspai.com/post/109460",
+          "image": "",
+          "verdict": "扫一眼",
+          "takeaway": "一日一技｜为什么你应该关闭 iOS 的键盘声音",
+          "detail": "一日一技｜为什么你应该关闭 iOS 的键盘声音",
+          "keyPoints": [
+            "评测"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是实际体验内容，买前适合重点看缺点和取舍。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        },
+        {
+          "id": "auto-5af1bdf06cd8",
+          "title": "iPhone 17 Pro Max 屏幕规格相关消息",
+          "originalTitle": "",
+          "source": "Gizmochina",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-06-05",
+          "time": "06:32",
+          "publishedAt": "2026-06-05T06:32:22.000Z",
+          "url": "https://www.gizmochina.com/2026/06/05/rollme-visioncase-iphone-17-pro-max-case-hd-display-notifications/",
+          "image": "https://www.gizmochina.com/wp-content/uploads/2026/06/Rollme-VisionCase-for-iPhone-17-Pro-Max--300x218.png?x10805",
+          "verdict": "扫一眼",
+          "takeaway": "iPhone 17 Pro Max 屏幕规格相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
+          "detail": "iPhone 17 Pro Max 屏幕规格相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
+          "keyPoints": [
+            "屏幕形态"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "影响手感和显示体验，适合和其他机型对比。",
+          "action": "有具体参数就记录到参数库；没有参数就先收藏。"
+        }
+      ]
+    },
+    {
+      "id": "launch",
+      "title": "新机与官方发布",
+      "hint": "能直接更新到参数库。",
+      "items": [
+        {
+          "id": "auto-86a30646e2dd",
+          "title": "Pixel 相关消息",
+          "originalTitle": "",
+          "source": "Android Central",
+          "brand": "Pixel",
+          "type": "评测",
+          "trust": "媒体汇总",
+          "date": "2026-06-05",
+          "time": "17:04",
+          "publishedAt": "2026-06-05T17:04:25.000Z",
+          "url": "https://www.androidcentral.com/phones/google-pixel/early-prime-day-google-pixel-deals-2026",
+          "image": "https://cdn.mos.cms.futurecdn.net/BMPcRp4T7fJpKcsQriKWeb-1280-80.jpg",
+          "verdict": "可略过",
+          "takeaway": "Pixel 相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
+          "detail": "Pixel 相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
+          "keyPoints": [
+            "评测"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是实际体验内容，买前适合重点看缺点和取舍。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         }
       ]
     },
@@ -261,6 +334,75 @@ window.phoneRadarDaily = {
           "verdict": "先看",
           "takeaway": "说实话下半年才是真正的神仙打架，高端三巨头同台唱戏[笑眼]#数码日常# #iPhone17ProMax# #小米17ProMax#",
           "detail": "说实话下半年才是真正的神仙打架，高端三巨头同台唱戏[笑眼]#数码日常# #iPhone17ProMax# #小米17ProMax#",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        },
+        {
+          "id": "coolapk-user-ee5bc823f230",
+          "title": "竹本青：追觅俞浩内部发文：心无旁骛做实业，坚持技术创新",
+          "originalTitle": "",
+          "source": "竹本青",
+          "brand": "行业",
+          "type": "爆料",
+          "trust": "高可信爆料",
+          "date": "2026-06-05",
+          "time": "10:51",
+          "publishedAt": "2026-06-05T10:51:21.000Z",
+          "url": "https://www.coolapk.com/feed/72177573",
+          "image": "http://image.coolapk.com/feed/2026/0605/18/4248714_99998010_6680_2915_836@863x588.jpg",
+          "verdict": "扫一眼",
+          "takeaway": "【追觅俞浩内部发文：将心无旁骛做实业，坚持技术创新】 6月5日，追觅科技创始人俞浩在公司内部发文。文中，俞浩透露2026年第一季度追觅扫地机器人斩获全球市场销量、销售额两项第一。 他还表示，未来将继续心无旁骛做实业，坚持技术创新，去啃全球最难的市场。 #追觅# #追觅手机# #今日热点#",
+          "detail": "【追觅俞浩内部发文：将心无旁骛做实业，坚持技术创新】 6月5日，追觅科技创始人俞浩在公司内部发文。文中，俞浩透露2026年第一季度追觅扫地机器人斩获全球市场销量、销售额两项第一。 他还表示，未来将继续心无旁骛做实业，坚持技术创新，去啃全球最难的市场。 #追觅# #追觅手机# #今日热点#",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "可信度较高，但仍属于发布前线索。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        },
+        {
+          "id": "auto-7c56b0f425dd",
+          "title": "Samsung 相关消息",
+          "originalTitle": "",
+          "source": "Android Authority",
+          "brand": "Samsung",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-06-06",
+          "time": "10:30",
+          "publishedAt": "2026-06-06T10:30:41.000Z",
+          "url": "https://www.androidauthority.com/motorola-razr-ultra-2026-vs-samsung-galaxy-z-flip-7-hands-on-comparison-3672416/",
+          "image": "https://www.androidauthority.com/wp-content/uploads/2026/05/Motorola-Razr-Ultra-Galaxy-Z-Flip-7-against-sky-scaled.jpg",
+          "verdict": "可略过",
+          "takeaway": "Samsung 相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
+          "detail": "Samsung 相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        },
+        {
+          "id": "newsnow-7447f380c57d",
+          "title": "没想到这年头买到这么新的mate10，扩容到8+1T，又能钉好几年了[惊讶]",
+          "originalTitle": "",
+          "source": "酷安热榜",
+          "brand": "行业",
+          "type": "爆料",
+          "trust": "高关注爆料源",
+          "date": "2026-06-06",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://www.coolapk.com/feed/72176597",
+          "image": "",
+          "verdict": "可略过",
+          "takeaway": "没想到这年头买到这么新的mate10，扩容到8+1T，又能钉好几年了[惊讶]",
+          "detail": "没想到这年头买到这么新的mate10，扩容到8+1T，又能钉好几年了[惊讶]",
           "keyPoints": [
             "爆料"
           ],
