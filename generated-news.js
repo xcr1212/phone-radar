@@ -1,5 +1,5 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-06-06T19:46:26.384Z",
+  "updatedAt": "2026-06-06T21:17:38.812Z",
   "news": [
     {
       "id": "auto-ec84b76c1c69",
@@ -277,26 +277,6 @@ window.phoneRadarAuto = {
       "summary": "说实话下半年才是真正的神仙打架，高端三巨头同台唱戏[笑眼]#数码日常# #iPhone17ProMax# #小米17ProMax#",
       "tags": [
         "Xiaomi",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-12a5871b880f",
-      "title": "这机子被低估了，这是目前米系性能释放最强，夏天日用最爽的手机，是米系续航第一的手机",
-      "source": "酷安热榜",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-06-06",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72174502",
-      "image": "",
-      "summary": "这机子被低估了，这是目前米系性能释放最强，夏天日用最爽的手机，是米系续航第一的手机",
-      "tags": [
-        "行业",
         "爆料",
         "NewsNow"
       ]

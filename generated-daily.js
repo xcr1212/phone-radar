@@ -1,5 +1,5 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-06-06T19:46:26.384Z",
+  "updatedAt": "2026-06-06T21:17:38.812Z",
   "issueDate": "2026-06-06",
   "issue": "VOL.260606",
   "title": "手机情报日报",
@@ -160,29 +160,6 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
-          "id": "newsnow-12a5871b880f",
-          "title": "这机子被低估了，这是目前米系性能释放最强，夏天日用最爽的手机，是米系续航第一的手机",
-          "originalTitle": "",
-          "source": "酷安热榜",
-          "brand": "行业",
-          "type": "爆料",
-          "trust": "高关注爆料源",
-          "date": "2026-06-06",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://www.coolapk.com/feed/72174502",
-          "image": "",
-          "verdict": "先看",
-          "takeaway": "这机子被低估了，这是目前米系性能释放最强，夏天日用最爽的手机，是米系续航第一的手机",
-          "detail": "这机子被低估了，这是目前米系性能释放最强，夏天日用最爽的手机，是米系续航第一的手机",
-          "keyPoints": [
-            "电池 / 充电"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
           "id": "auto-40d8a988e909",
           "title": "OPPO 相关消息",
           "originalTitle": "",
@@ -200,6 +177,29 @@ window.phoneRadarDaily = {
           "detail": "OPPO 相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
           "keyPoints": [
             "爆料来源"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "auto-7e35ea1244ed",
+          "title": "Huawei 折叠屏相关消息",
+          "originalTitle": "",
+          "source": "Huawei Central",
+          "brand": "Huawei",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-06-06",
+          "time": "10:20",
+          "publishedAt": "2026-06-06T10:20:25.000Z",
+          "url": "https://www.huaweicentral.com/xiaomi-reportedly-working-on-wide-foldable-against-pura-x-max/",
+          "image": "https://www.huaweicentral.com/wp-content/uploads/2026/06/Xiaomi-wide-foldable-leak.jpg",
+          "verdict": "先看",
+          "takeaway": "Huawei 有系统功能或 AI 体验更新，适合关注后续是否影响日常使用。",
+          "detail": "Huawei 折叠屏相关消息。重点看折痕、铰链、厚度、屏幕可靠性和重量是否有实质改善。",
+          "keyPoints": [
+            "屏幕形态"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
