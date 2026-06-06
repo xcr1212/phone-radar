@@ -1,12 +1,12 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-06-06T11:44:41.753Z",
+  "updatedAt": "2026-06-06T14:07:33.881Z",
   "issueDate": "2026-06-06",
   "issue": "VOL.260606",
   "title": "手机情报日报",
-  "intro": "今日筛出 16 条重点，其中 8 条是重点爆料，包含 8 条 iPhone 相关、0 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 18 条重点，其中 8 条是重点爆料，包含 7 条 iPhone 相关、0 条官方确认、0 条参数线索。",
   "stats": {
-    "total": 16,
-    "iphone": 8,
+    "total": 18,
+    "iphone": 7,
     "leaks": 8,
     "official": 0,
     "specs": 0
@@ -33,29 +33,6 @@ window.phoneRadarDaily = {
           "verdict": "先看",
           "takeaway": "IT之家 6 月 6 日消息，小鹏 X9、小鹏 GX 产品负责人罗杰今日宣布， 2026 款小鹏 X9 AIOS 6.2.0 的推送已经启动 ，本轮升级 Ultra 和 Ultra SE 车主将收到 VLA 2.0 的第二个版本，智驾体验再次升级，座舱方面 26 款全系 X9 也将新增一系列实用功能。 罗杰表示，26 款 X9 Max 版车主最关心的 VL…",
           "detail": "IT之家 6 月 6 日消息，小鹏 X9、小鹏 GX 产品负责人罗杰今日宣布， 2026 款小鹏 X9 AIOS 6.2.0 的推送已经启动 ，本轮升级 Ultra 和 Ultra SE 车主将收到 VLA 2.0 的第二个版本，智驾体验再次升级，座舱方面 26 款全系 X9 也将新增一系列实用功能。 罗杰表示，26 款 X9 Max 版车主最关心的 VL…",
-          "keyPoints": [
-            "外观 / 配色 / 尺寸"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "newsnow-bd570d5f9149",
-          "title": "iPhoneUltra机模再曝光",
-          "originalTitle": "",
-          "source": "微博热搜",
-          "brand": "iPhone",
-          "type": "爆料",
-          "trust": "待验证",
-          "date": "2026-06-06",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://s.weibo.com/weibo?q=%23iPhoneUltra%E6%9C%BA%E6%A8%A1%E5%86%8D%E6%9B%9D%E5%85%89%23&t=31&band_rank=28&Refer=top",
-          "image": "",
-          "verdict": "先看",
-          "takeaway": "iPhoneUltra机模再曝光",
-          "detail": "iPhoneUltra机模再曝光",
           "keyPoints": [
             "外观 / 配色 / 尺寸"
           ],
@@ -204,6 +181,29 @@ window.phoneRadarDaily = {
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "auto-40d8a988e909",
+          "title": "OPPO 相关消息",
+          "originalTitle": "",
+          "source": "Android Police",
+          "brand": "OPPO",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-06-06",
+          "time": "13:30",
+          "publishedAt": "2026-06-06T13:30:10.000Z",
+          "url": "https://www.androidpolice.com/people-say-oneplus-is-dead-why-does-oneplus-16-sound-good/",
+          "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2026/06/oneplus-16-smartphone-floating-in-front-of-a-glowing-blue-16-surrounded-by-drifting-ash-particles-and-light-smoke.png",
+          "verdict": "先看",
+          "takeaway": "OPPO 相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
+          "detail": "OPPO 相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
+          "keyPoints": [
+            "爆料来源"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         }
       ]
     },
@@ -342,6 +342,29 @@ window.phoneRadarDaily = {
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         },
         {
+          "id": "coolapk-user-051141a334fb",
+          "title": "竹本青：【小米17 Max 首销7天数据曝光：同期约为小米17的25%，推测提前开售】 6月6日，博主「RD观测」分享第三…",
+          "originalTitle": "",
+          "source": "竹本青",
+          "brand": "Xiaomi",
+          "type": "爆料",
+          "trust": "高可信爆料",
+          "date": "2026-06-06",
+          "time": "12:19",
+          "publishedAt": "2026-06-06T12:19:51.000Z",
+          "url": "https://www.coolapk.com/feed/72196677",
+          "image": "http://image.coolapk.com/feed/2026/0606/20/4248714_adc1fb59_8388_6096_388@1439x699.jpg",
+          "verdict": "扫一眼",
+          "takeaway": "【小米17 Max 首销7天数据曝光：同期约为小米17的25%，推测提前开售】 6月6日，博主「RD观测」分享第三方统计的小米17 Max销售情况，以首销7日（5.25-5.31）为标准： ▫️同期销量约为小米17的25% ▫️在开售前（22-24日）累计激活达到万量级，推测存在提前开售情况 #今日热点# #小米17# #小米17Max#",
+          "detail": "【小米17 Max 首销7天数据曝光：同期约为小米17的25%，推测提前开售】 6月6日，博主「RD观测」分享第三方统计的小米17 Max销售情况，以首销7日（5.25-5.31）为标准： ▫️同期销量约为小米17的25% ▫️在开售前（22-24日）累计激活达到万量级，推测存在提前开售情况 #今日热点# #小米17# #小米17Max#",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "可信度较高，但仍属于发布前线索。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        },
+        {
           "id": "coolapk-user-ee5bc823f230",
           "title": "竹本青：追觅俞浩内部发文：心无旁骛做实业，坚持技术创新",
           "originalTitle": "",
@@ -403,6 +426,29 @@ window.phoneRadarDaily = {
           "verdict": "可略过",
           "takeaway": "没想到这年头买到这么新的mate10，扩容到8+1T，又能钉好几年了[惊讶]",
           "detail": "没想到这年头买到这么新的mate10，扩容到8+1T，又能钉好几年了[惊讶]",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        },
+        {
+          "id": "auto-8e348b571845",
+          "title": "Samsung 折叠屏相关消息",
+          "originalTitle": "",
+          "source": "SamMobile",
+          "brand": "Samsung",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-06-05",
+          "time": "13:51",
+          "publishedAt": "2026-06-05T13:51:03.000Z",
+          "url": "https://www.sammobile.com/news/apples-iphone-ultra-could-hurt-galaxy-z-flip-8-and-z-fold-8-sales/",
+          "image": "",
+          "verdict": "可略过",
+          "takeaway": "Samsung 折叠屏相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
+          "detail": "Samsung 折叠屏相关消息。重点看折痕、铰链、厚度、屏幕可靠性和重量是否有实质改善。",
           "keyPoints": [
             "爆料"
           ],

@@ -1,6 +1,46 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-06-06T11:44:41.753Z",
+  "updatedAt": "2026-06-06T14:07:33.881Z",
   "news": [
+    {
+      "id": "auto-40d8a988e909",
+      "title": "Everyone says OnePlus is dead, but I just saw the OnePlus 16 specs and changed my mind",
+      "source": "Android Police",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-06",
+      "time": "13:30",
+      "publishedAt": "2026-06-06T13:30:10.000Z",
+      "url": "https://www.androidpolice.com/people-say-oneplus-is-dead-why-does-oneplus-16-sound-good/",
+      "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2026/06/oneplus-16-smartphone-floating-in-front-of-a-glowing-blue-16-surrounded-by-drifting-ash-particles-and-light-smoke.png",
+      "summary": "Rumors of its demise are ... quite tempting?",
+      "tags": [
+        "OPPO",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-051141a334fb",
+      "title": "竹本青：【小米17 Max 首销7天数据曝光：同期约为小米17的25%，推测提前开售】 6月6日，博主「RD观测」分享第三…",
+      "source": "竹本青",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-06-06",
+      "time": "12:19",
+      "publishedAt": "2026-06-06T12:19:51.000Z",
+      "url": "https://www.coolapk.com/feed/72196677",
+      "image": "http://image.coolapk.com/feed/2026/0606/20/4248714_adc1fb59_8388_6096_388@1439x699.jpg",
+      "summary": "【小米17 Max 首销7天数据曝光：同期约为小米17的25%，推测提前开售】 6月6日，博主「RD观测」分享第三方统计的小米17 Max销售情况，以首销7日（5.25-5.31）为标准： ▫️同期销量约为小米17的25% ▫️在开售前（22-24日）累计激活达到万量级，推测存在提前开售情况 #今日热点# #小米17# #小米17Max#",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "酷安博主"
+      ]
+    },
     {
       "id": "auto-7c56b0f425dd",
       "title": "I used the Motorola Razr Ultra (2026) and the Galaxy Z Flip 7, and I only want one in my pocket",
@@ -202,26 +242,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-bd570d5f9149",
-      "title": "iPhoneUltra机模再曝光",
-      "source": "微博热搜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "待验证",
-      "date": "2026-06-06",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://s.weibo.com/weibo?q=%23iPhoneUltra%E6%9C%BA%E6%A8%A1%E5%86%8D%E6%9B%9D%E5%85%89%23&t=31&band_rank=28&Refer=top",
-      "image": "",
-      "summary": "iPhoneUltra机模再曝光",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
       "id": "auto-55e995e6827c",
       "title": "Galaxy S27 Pro battery leak raises questions about Samsung’s S27 Ultra positioning",
       "source": "Gizmochina",
@@ -278,26 +298,6 @@ window.phoneRadarAuto = {
       "tags": [
         "Pixel",
         "评测",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-84dd220faad9",
-      "title": "I refuse to buy the Galaxy Z Fold 8 unless Samsung finally fixes these infuriating foldable flaws",
-      "source": "Android Police",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-05",
-      "time": "17:00",
-      "publishedAt": "2026-06-05T17:00:12.000Z",
-      "url": "https://www.androidpolice.com/i-refuse-to-buy-galaxy-z-fold-8-unless-samsung-finally-fixes-foldable-flaws/",
-      "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2025/07/img_1265.jpg",
-      "summary": "Everyone wants to see Samsung make truly innovative foldable phones",
-      "tags": [
-        "Samsung",
-        "爆料",
         "自动抓取"
       ]
     },
@@ -457,26 +457,6 @@ window.phoneRadarAuto = {
       "summary": "Xiaomi 17T series is coming to China, and the flagship lineup will feature a bigger battery than its global sibling. The company has dropped a new teaser for the upcoming models,…",
       "tags": [
         "Xiaomi",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-02cc6b1274d5",
-      "title": "Huawei Mate 90 to launch in September? A leak says otherwise",
-      "source": "Huawei Central",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-05",
-      "time": "11:10",
-      "publishedAt": "2026-06-05T11:10:56.000Z",
-      "url": "https://www.huaweicentral.com/huawei-mate-90-to-launch-in-september-a-leak-says-otherwise/",
-      "image": "https://www.huaweicentral.com/wp-content/uploads/2026/06/launch-leak.jpg",
-      "summary": "Huawei Mate 90 series launch date continues to be part of the confusion and a new leak further added uncertainty on this matter. It says that the new-gen flagship smartphone lineu…",
-      "tags": [
-        "Huawei",
         "爆料",
         "自动抓取"
       ]
