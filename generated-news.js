@@ -1,5 +1,5 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-06-06T14:07:33.881Z",
+  "updatedAt": "2026-06-06T15:40:16.937Z",
   "news": [
     {
       "id": "auto-40d8a988e909",
@@ -238,6 +238,26 @@ window.phoneRadarAuto = {
       "tags": [
         "行业",
         "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-0dc43945ba27",
+      "title": "诺基亚发布首款微聊手机，售价 199 元，可视频通话，但连不了 WiFi，该机在当前市场生存空间大吗？",
+      "source": "知乎热榜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "市场报告",
+      "trust": "媒体汇总",
+      "date": "2026-06-06",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.zhihu.com/question/2043731506648934117",
+      "image": "",
+      "summary": "诺基亚发布首款微聊手机，售价 199 元，可视频通话，但连不了 WiFi，该机在当前市场生存空间大吗？",
+      "tags": [
+        "行业",
+        "市场报告",
         "NewsNow"
       ]
     },
