@@ -1,6 +1,246 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-06-05T23:37:46.005Z",
+  "updatedAt": "2026-06-06T04:19:54.392Z",
   "news": [
+    {
+      "id": "auto-a706740abd5a",
+      "title": "消息称某厂迭代性能机保底 2K+165Hz 屏幕、尝试冲 2K+185Hz，预计为 iQOO Neo 12",
+      "source": "IT之家",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-06",
+      "time": "03:07",
+      "publishedAt": "2026-06-06T03:07:54.000Z",
+      "url": "https://www.ithome.com/0/960/803.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/6/80ef6f37-2240-4ba4-b50f-fd21408d85cc.jpg?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 6 月 6 日消息，博主 @数码闲聊站 今天在微博透露，某厂迭代性能机的国产屏权限更高，新机大保底 2K+165Hz， 正在尝试冲 2K+185Hz 。 后续有用户在评论区询问：“这代没用三星了吗”，博主回复道：“数字旗舰机是三星”。 结合博主文中暗示及评论区猜测来看，预计该机为 iQOO Neo 12。 作为参考， iQOO Neo 11 手机…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-34f567c871fa",
+      "title": "微软 Edge 149 稳定版发布，停用集锦功能",
+      "source": "IT之家",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-06",
+      "time": "02:48",
+      "publishedAt": "2026-06-06T02:48:41.000Z",
+      "url": "https://www.ithome.com/0/960/797.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/6/1727460f-ac5b-433e-9c23-ab3df5c42f9b.jpg?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 6 月 6 日消息，科技媒体 WinAero 今天（6 月 6 日）发布博文， 报道称微软发布 Microsoft Edge 149 稳定版，版本号为 149.0.4022.52。 新版工作区（Workspaces）为提升稳定性和性能，迁移到 V2 架构，已保存的工作区数据将从 OneDrive 和 SharePoint 转移到 Edge Syn…",
+      "tags": [
+        "行业",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "weibo-7f000326949b",
+      "title": "数码闲聊站：独家信息：迭代性能机的国产屏权限更高，新机大保底2K+165Hz，正在尝试冲2…",
+      "source": "数码闲聊站",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-06-06",
+      "time": "02:40",
+      "publishedAt": "2026-06-06T02:40:00.000Z",
+      "url": "https://weibo.com/6048569942/R2PQWnrRy",
+      "image": "",
+      "summary": "独家信息，迭代性能机的国产屏权限更高，新机大保底2K+165Hz，正在尝试冲2K+185Hz👖",
+      "tags": [
+        "行业",
+        "爆料",
+        "微博"
+      ]
+    },
+    {
+      "id": "auto-69dd985c9bf6",
+      "title": "消息称 OPPO 或继续独占双潜望镜 +10X 超长焦，友商评估后放弃",
+      "source": "IT之家",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-06",
+      "time": "02:28",
+      "publishedAt": "2026-06-06T02:28:53.000Z",
+      "url": "https://www.ithome.com/0/960/791.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/6/37032008-beea-44c6-b17e-e4ae768d3d87.jpg?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 6 月 6 日消息，博主 @数码闲聊站 今日爆料，下一代安卓超大杯，OPPO 有概率还是唯一双潜望镜 +10X 超长焦方案，并持续升级。他透露， 安卓阵营原本有一家在评估 10X ，最新一版样机取消了，还是走 2 亿单潜望 +ISZ 路线。 作为参考，今年 4 月发布的 OPPO Find X9 Ultra ，搭载第五代骁龙 8 至尊版处理器、内…",
+      "tags": [
+        "OPPO",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-24bfded1abaa",
+      "title": "竹本青：【OPPO或独占下代安卓超大杯配置：双潜望镜+10倍超长焦】 数码闲聊站今日爆料，下一代安卓超大杯，OPPO有概率…",
+      "source": "竹本青",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-06-06",
+      "time": "02:00",
+      "publishedAt": "2026-06-06T02:00:41.000Z",
+      "url": "https://www.coolapk.com/feed/72186723",
+      "image": "http://image.coolapk.com/feed/2026/0606/10/4248714_1ff618d6_1240_0745_883@1439x524.jpg",
+      "summary": "【OPPO或独占下代安卓超大杯配置：双潜望镜+10倍超长焦】 数码闲聊站今日爆料，下一代安卓超大杯，OPPO有概率还是唯一双潜望镜+10X超长焦方案，并持续升级。 他还补充称，安卓阵营原本有一家在评估10X，最新一版已样机取消，还是走2亿单潜望+ISZ路线。 #ColorOS16# #OPPOFindX9Ultra#",
+      "tags": [
+        "OPPO",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-e0ab94b4890f",
+      "title": "Vivo X500 Ultra drops 10x zoom lens, leaving Oppo Find X10 Ultra as only flagship with dual periscope + 10x zoom",
+      "source": "Gizmochina",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-06",
+      "time": "01:59",
+      "publishedAt": "2026-06-06T01:59:28.000Z",
+      "url": "https://www.gizmochina.com/2026/06/06/oppo-find-x10-ultra-dual-periscope-10x-zoom-exclusive/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/05/OPPO-Find-X9-Ultra-Review_1.mp4_20260521_143613.765-300x150.jpg?x10805",
+      "summary": "Reliable tipster Digital Chat Station (DCS) has shared an interesting exclusive today claiming that the Oppo Find X10 Ultra could again be the only Android flagship in 2027 with d…",
+      "tags": [
+        "OPPO",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-ec49856ac40a",
+      "title": "曝苹果折叠 iPhone 配色悬而未决，黑色版本存疑背后是产能与成本考量？",
+      "source": "IT之家",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-06",
+      "time": "01:23",
+      "publishedAt": "2026-06-06T01:23:10.000Z",
+      "url": "https://www.ithome.com/0/960/780.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/6/65e2a805-b732-4c07-bb56-305174250446.png?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 6 月 6 日消息，博主 @刹那数码 前天在微博透露： 跟黑色有仇是吧，苹果还没确定折叠屏要不要黑色 结合IT之家此前援引 Macworld 消息 ，苹果正针对 iPhone Fold 折叠手机研发两种配色，其一是经典的银白色，第二款则是深靛蓝色，比较接近 iPhone 17 Pro 的深蓝色。该消息源还表示，折叠 iPhone 的颜色选择将少于…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "weibo-f7d91b22fa3f",
+      "title": "数码闲聊站：独家，下一代安卓超大杯，阿绿有概率还是唯一双潜望镜+10X超长焦方案，并持续升…",
+      "source": "数码闲聊站",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-06-06",
+      "time": "01:07",
+      "publishedAt": "2026-06-06T01:07:06.000Z",
+      "url": "https://weibo.com/6048569942/R2Pfeo8tM",
+      "image": "",
+      "summary": "独家，下一代安卓超大杯，阿绿有概率还是唯一双潜望镜+10X超长焦方案，并持续升级[偷乐] Tips：安卓阵营原本有一家在评估10X，最新一版样机取消了，还是走2亿单潜望+ISZ路线",
+      "tags": [
+        "行业",
+        "爆料",
+        "微博"
+      ]
+    },
+    {
+      "id": "newsnow-83187392e60c",
+      "title": "一日一技｜为什么你应该关闭 iOS 的键盘声音",
+      "source": "少数派热榜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-06-06",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://sspai.com/post/109460",
+      "image": "",
+      "summary": "一日一技｜为什么你应该关闭 iOS 的键盘声音",
+      "tags": [
+        "iPhone",
+        "评测",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-7c9e3cebedb3",
+      "title": "从安卓换iPhone 第一次用iPhone有什么需要注意的吗xdm？",
+      "source": "酷安热榜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-06-06",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/72181361",
+      "image": "",
+      "summary": "从安卓换iPhone 第一次用iPhone有什么需要注意的吗xdm？",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-12a5871b880f",
+      "title": "这机子被低估了，这是目前米系性能释放最强，夏天日用最爽的手机，是米系续航第一的手机",
+      "source": "酷安热榜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-06-06",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/72174502",
+      "image": "",
+      "summary": "这机子被低估了，这是目前米系性能释放最强，夏天日用最爽的手机，是米系续航第一的手机",
+      "tags": [
+        "行业",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-4222aad58d5b",
+      "title": "说实话下半年才是真正的神仙打架，高端三巨头同台唱戏[笑眼]#数码日常# #iPhone17ProMax# #小米17ProMax#",
+      "source": "酷安热榜",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-06-06",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/72177835",
+      "image": "",
+      "summary": "说实话下半年才是真正的神仙打架，高端三巨头同台唱戏[笑眼]#数码日常# #iPhone17ProMax# #小米17ProMax#",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "NewsNow"
+      ]
+    },
     {
       "id": "auto-55e995e6827c",
       "title": "Galaxy S27 Pro battery leak raises questions about Samsung’s S27 Ultra positioning",
@@ -202,26 +442,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-962ffc78906b",
-      "title": "飞牛 fnOS：ARM 设备飞牛相册更新，支持 OPPO / 一加设备互联",
-      "source": "IT之家",
-      "brand": "OPPO",
-      "model": "OPPO 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-05",
-      "time": "13:12",
-      "publishedAt": "2026-06-05T13:12:53.000Z",
-      "url": "https://www.ithome.com/0/960/718.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/6/d4975b43-539a-45f7-aedc-b487b97b4904.png?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 6 月 5 日消息，飞牛 fnOS 官方今日宣布，ARM 设备飞牛相册迎来重大更新， 支持 OPPO / 一加设备互联 （ X86 已支持 ）。 据介绍，OPPO 与飞牛互联支持以下功能： 无感发现： 手机可以自动识别局域网飞牛设备，快速完成连接与初始化 系统级入口： 控制中心直达，飞牛设备运行状态一目了然 后台无感备份： 即使本地是压缩过的缩略…",
-      "tags": [
-        "OPPO",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-7426b2eca188",
       "title": "Galaxy Z Flip 8 won’t get Galaxy Z Fold 8’s charging upgrade",
       "source": "SamMobile",
@@ -257,26 +477,6 @@ window.phoneRadarAuto = {
       "summary": "Xiaomi 17T series is coming to China, and the flagship lineup will feature a bigger battery than its global sibling. The company has dropped a new teaser for the upcoming models,…",
       "tags": [
         "Xiaomi",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-46453f8e2c9c",
-      "title": "英国拟立法要求科技公司高管为未成年防护负责，若整治不力或将入狱",
-      "source": "IT之家",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-05",
-      "time": "12:03",
-      "publishedAt": "2026-06-05T12:03:54.000Z",
-      "url": "https://www.ithome.com/0/960/705.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2025/3/b1321a46-d703-4d06-b2d9-036ddabfd356.jpg?x-bce-process=image/format,f_auto/auto-orient,o_1",
-      "summary": "IT之家 6 月 5 日消息，据英国《泰晤士报》4 日报道，英国政府拟立法要求科技公司高管为未成年防护负责。如果科技公司负责人不能阻止儿童在手机上看到裸露图片，英国政府将以 监禁作为威胁手段 。 这一计划预计下周公布，要求 谷歌、苹果等公司 阻止儿童通过移动设备发送、接收、查看或分享敏感图片。此类举措的目标是让儿童无法在设备上接触任何裸露内容，也包括色情内…",
-      "tags": [
-        "iPhone",
         "爆料",
         "自动抓取"
       ]
@@ -602,26 +802,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "coolapk-user-efdef208ad1a",
-      "title": "竹本青：小米17T Pro 屏幕预热：全新低功耗超级阳光屏",
-      "source": "竹本青",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-06-05",
-      "time": "03:01",
-      "publishedAt": "2026-06-05T03:01:57.000Z",
-      "url": "https://www.coolapk.com/feed/72170088",
-      "image": "http://image.coolapk.com/feed/2026/0605/11/4248714_b67b161e_8516_5389_141@2000x2667.jpg",
-      "summary": "【小米17T Pro 屏幕预热：全新低功耗超级阳光屏】 ▫️支持144Hz超高刷新率 ▫️3500nits最高峰值亮度 ▫️莱茵四重护眼认证 #今日热点# #小米17TPro# #HyperOS3#",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
       "id": "weibo-d094d05f2eb2",
       "title": "数码闲聊站：一加Turbo 6X Pro——1.5K+144Hz三星直屏+天玑7400 S…",
       "source": "数码闲聊站",
@@ -639,506 +819,6 @@ window.phoneRadarAuto = {
         "Samsung",
         "爆料",
         "微博"
-      ]
-    },
-    {
-      "id": "newsnow-097d2f2399a3",
-      "title": "一日一技｜为什么你应该关闭 iOS 的键盘声音",
-      "source": "少数派热榜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "评测",
-      "trust": "媒体汇总",
-      "date": "2026-06-05",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://sspai.com/post/109460",
-      "image": "",
-      "summary": "一日一技｜为什么你应该关闭 iOS 的键盘声音",
-      "tags": [
-        "iPhone",
-        "评测",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-5212584e2823",
-      "title": "这机子被低估了，这是目前米系性能释放最强，夏天日用最爽的手机，是米系续航第一的手机",
-      "source": "酷安热榜",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-06-05",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72174502",
-      "image": "",
-      "summary": "这机子被低估了，这是目前米系性能释放最强，夏天日用最爽的手机，是米系续航第一的手机",
-      "tags": [
-        "行业",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-6159d630b93a",
-      "title": "从安卓换iPhone 第一次用iPhone有什么需要注意的吗xdm？",
-      "source": "酷安热榜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-06-05",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72181361",
-      "image": "",
-      "summary": "从安卓换iPhone 第一次用iPhone有什么需要注意的吗xdm？",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "auto-4d648a79e1b9",
-      "title": "Ugreen MagFlow Air and Nexode Air Review: A Power Bank and Charger Built for iPhone",
-      "source": "MacRumors",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-04",
-      "time": "21:28",
-      "publishedAt": "2026-06-04T21:28:00.000Z",
-      "url": "https://www.macrumors.com/review/ugreen-magflow-air-nexode-air/",
-      "image": "https://images.macrumors.com/article-new/2026/05/ugreen-nano-overview.jpg",
-      "summary": "iPhone accessory maker Ugreen recently came out with a new Nexode Air charger and MagFlow Air power bank, two products that are designed for Apple users. MagFlow Air The $60 MagFl…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-21a10a25b99e",
-      "title": "Thought OnePlus was struggling? The OnePlus 16 could be closer than anyone expected",
-      "source": "Android Central",
-      "brand": "OPPO",
-      "model": "OPPO 相关机型",
-      "type": "评测",
-      "trust": "媒体汇总",
-      "date": "2026-06-04",
-      "time": "20:32",
-      "publishedAt": "2026-06-04T20:32:59.000Z",
-      "url": "https://www.androidcentral.com/phones/oneplus/oneplus-16-could-be-here-sooner-than-expected",
-      "image": "https://cdn.mos.cms.futurecdn.net/knTtyyXRVbhUCB9gBC86mW-1280-80.jpg",
-      "summary": "The OnePlus 16 may arrive sooner than previous flagship launches, according to a trusted source.",
-      "tags": [
-        "OPPO",
-        "评测",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-87700737f10f",
-      "title": "Instagram Plus launches on iPhone, here’s every new feature",
-      "source": "9to5Mac",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-04",
-      "time": "19:38",
-      "publishedAt": "2026-06-04T19:38:08.000Z",
-      "url": "https://9to5mac.com/2026/06/04/instagram-plus-launches-on-iphone-heres-every-new-feature/",
-      "image": "",
-      "summary": "Instagram Plus is a new optional subscription plan rolling out globally for Instagram users at $3.99/month, here’s every new feature it offers. more…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-2ef8aa0db90d",
-      "title": "Galaxy Z Flip 8 might use Snapdragon in some regions, while others get Exynos",
-      "source": "Gizmochina",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-04",
-      "time": "19:30",
-      "publishedAt": "2026-06-04T19:30:05.000Z",
-      "url": "https://www.gizmochina.com/2026/06/04/galaxy-z-flip-8-might-use-snapdragon-in-some-regions-while-others-get-exynos/",
-      "image": "https://www.gizmochina.com/wp-content/uploads/2026/06/galaxy-z-flip8-5k-render-3-01knvnwwwt30nsq7bew3k2gwvz-scaled-1-300x169.webp?x10805",
-      "summary": "Samsung may be gearing up for an interesting shift with the Galaxy Z Flip 8, if recent leaks are anything to go by. Instead of powering the phone exclusively with Exynos, the comp…",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-a4c4cbbdb46d",
-      "title": "iPhone 18 Pro getting new display upgrade with two benefits, per rumors",
-      "source": "9to5Mac",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-04",
-      "time": "18:59",
-      "publishedAt": "2026-06-04T18:59:29.000Z",
-      "url": "https://9to5mac.com/2026/06/04/iphone-18-pro-getting-new-display-upgrade-with-two-benefits-per-rumors/",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/01/iphone-17-pro-dark.jpg?quality=82&strip=all&w=1600",
-      "summary": "iPhone 18 Pro and Pro Max are expected to have the same 6.3-inch and 6.9-inch sizes as their predecessors, but rumors indicate those displays will come with a key technology upgra…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-a4c3b1684b25",
-      "title": "I built the ultimate Cosmic Orange iPhone everyday carry [Video]",
-      "source": "9to5Mac",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-04",
-      "time": "16:06",
-      "publishedAt": "2026-06-04T16:06:40.000Z",
-      "url": "https://9to5mac.com/2026/06/04/i-built-the-ultimate-cosmic-orange-iphone-everyday-carry-video/",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/fernando.jpg?quality=82&strip=all&w=1600",
-      "summary": "When Apple unveiled the Cosmic Orange iPhone 17 Pro and Pro Max, I was a bit skeptical. Apple usually reserves more “professional” and dull colors for the Pro models and the more…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-674b27106f28",
-      "title": "Galaxy Z Flip 8 reportedly will bring back Snapdragon chips alongside Exynos",
-      "source": "9to5Google",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-04",
-      "time": "15:55",
-      "publishedAt": "2026-06-04T15:55:00.000Z",
-      "url": "https://9to5google.com/2026/06/04/galaxy-z-flip-8-reportedly-will-bring-back-snapdragon-chips-alongside-exynos/",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2025/07/galaxy-z-flip-7-25.jpg?quality=82&strip=all&w=1600",
-      "summary": "According to a new leak, Samsung’s upcoming Galaxy Z Flip 8 will be bringing back Snapdragon chips amid higher costs on the Exynos 2600. more…",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-cfcdaafa10d9",
-      "title": "Galaxy Z Flip 8 could follow Galaxy S series with a dual-chip strategy",
-      "source": "Android Authority",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-04",
-      "time": "15:43",
-      "publishedAt": "2026-06-04T15:43:20.000Z",
-      "url": "https://www.androidauthority.com/galaxy-z-flip-8-dual-chip-3674561/",
-      "image": "https://www.androidauthority.com/wp-content/uploads/2025/08/samsung-galaxy-z-flip-7-review-1-scaled.jpg",
-      "summary": "Samsung may not go all Exynos for the Galaxy Z Flip 8.",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-a9fbbd818823",
-      "title": "iPhone Ultra tipped to include a vapor chamber, liquid metal hinge",
-      "source": "Gizmochina",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-04",
-      "time": "14:00",
-      "publishedAt": "2026-06-04T14:00:29.000Z",
-      "url": "https://www.gizmochina.com/2026/06/04/iphone-ultra-tipped-to-include-vc-cooling-liquid-metal-hinge/",
-      "image": "https://www.gizmochina.com/wp-content/uploads/2026/06/iphone-ultra-prototype-300x169.jpg?x10805",
-      "summary": "Apple‘s first foldable iPhone is shaping up to be one of the company’s most ambitious hardware projects in years. While Apple has yet to confirm its plans, a new leak suggests the…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-99b671182538",
-      "title": "The Galaxy Z Fold 8 Ultra could get a useful accessory from the Galaxy Z Trifold",
-      "source": "Android Authority",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-04",
-      "time": "13:10",
-      "publishedAt": "2026-06-04T13:10:21.000Z",
-      "url": "https://www.androidauthority.com/galaxy-z-fold-8-trifold-standing-case-filing-3674518/",
-      "image": "https://www.androidauthority.com/wp-content/uploads/2025/07/Galaxy-Z-fold-7-unfolded-flipped-on-table-hero-image-scaled.jpg",
-      "summary": "The upcoming \"Carbon Standing Case\" could make it easier to use the Galaxy Z Fold 8 and Z Fold 8 Ultra.",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-d1f5e1488da3",
-      "title": "Xiaomi 18 Pro to feature 2x bigger rear screen with privacy protection",
-      "source": "Gizmochina",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-04",
-      "time": "13:05",
-      "publishedAt": "2026-06-04T13:05:35.000Z",
-      "url": "https://www.gizmochina.com/2026/06/04/xiaomi-18-pro-to-feature-almost-twice-as-big-rear-screen-with-privacy-protection/",
-      "image": "https://www.gizmochina.com/wp-content/uploads/2025/09/Xiaomi-17-Pro-Max-Review_1.mp4_20250930_164941.855-300x150.jpg?x10805",
-      "summary": "A fresh leak today revealed the rear camera specs of the Xiaomi 18 Pro Max. The device is rumored to feature a 200MP main and a 200MP telephoto lens. Alongside these camera module…",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-1fd62e3e19f2",
-      "title": "The slimmest Galaxy Z Fold 8 competitor is going global with a huge battery in tow",
-      "source": "Android Authority",
-      "brand": "HONOR",
-      "model": "HONOR 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-04",
-      "time": "13:00",
-      "publishedAt": "2026-06-04T13:00:55.000Z",
-      "url": "https://www.androidauthority.com/honor-magic-v6-global-launch-3674524/",
-      "image": "https://www.androidauthority.com/wp-content/uploads/2026/02/honor-magic-v6-hands-on-8-scaled.jpg",
-      "summary": "HONOR’s Magic V6 packs a record battery into an impossibly thin foldable.",
-      "tags": [
-        "HONOR",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-b85ee5d6980f",
-      "title": "iPhone 18 Pro Max may not be thicker after all",
-      "source": "9to5Mac",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-04",
-      "time": "11:55",
-      "publishedAt": "2026-06-04T11:55:37.000Z",
-      "url": "https://9to5mac.com/2026/06/04/iphone-18-pro-max-may-not-be-thicker-after-all/",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/04/iphone-18-pro-colors-02.jpg?quality=82&strip=all&w=1600",
-      "summary": "Late last year a leaker suggested that the trend of the Pro model iPhones getting thicker would continue with the iPhone 18 Pro Max . However, a new report today gives the thickne…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-de5460dfe020",
-      "title": "The OnePlus 16 could launch sooner than previous OnePlus flagships",
-      "source": "Android Authority",
-      "brand": "OPPO",
-      "model": "OPPO 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-04",
-      "time": "11:44",
-      "publishedAt": "2026-06-04T11:44:59.000Z",
-      "url": "https://www.androidauthority.com/oneplus-16-early-launch-3674487/",
-      "image": "https://www.androidauthority.com/wp-content/uploads/2025/11/OnePlus-15-sandstone-in-hand.jpg",
-      "summary": "The OnePlus 15 arrived sooner than usual, and the OnePlus 16 could land even earlier.",
-      "tags": [
-        "OPPO",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-4b46172fa054",
-      "title": "Huawei Pura X Max Receives HarmonyOS 6.1.0.125 Update: Everything New Inside",
-      "source": "Gizmochina",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-04",
-      "time": "10:33",
-      "publishedAt": "2026-06-04T10:33:06.000Z",
-      "url": "https://www.gizmochina.com/2026/06/04/huawei-pura-x-max-harmonyos-6-1-0-125-update/",
-      "image": "https://www.gizmochina.com/wp-content/uploads/2026/06/image-39-300x154.png?x10805",
-      "summary": "Huawei has started rolling out a new software update for the Huawei Pura X Max foldable smartphone. The latest HarmonyOS 6.1.0.125 SP13 update arrives with a package size of aroun…",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-95c9c5eeb25f",
-      "title": "OnePlus 16 and iQOO 16 may launch sooner than expected as September flagship battle heats up",
-      "source": "Gizmochina",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-04",
-      "time": "09:48",
-      "publishedAt": "2026-06-04T09:48:33.000Z",
-      "url": "https://www.gizmochina.com/2026/06/04/oneplus-16-iqoo-16-redmi-k100-september-launch-leak/",
-      "image": "https://www.gizmochina.com/wp-content/uploads/2025/11/OnePlus-15-300x188.png?x10805",
-      "summary": "In a recent Weibo post, reliable tipster Digital Chat Station (DCS) claimed that, apart from Xiaomi, Vivo and Oppo are also planning to launch their next-generation flagship smart…",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "weibo-b9758d8ef12a",
-      "title": "数码闲聊站：子系有一家已经确定提档Q3，一加16和iQOO16也有可能会提到9月，目前备案…",
-      "source": "数码闲聊站",
-      "brand": "OPPO",
-      "model": "OPPO 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-06-04",
-      "time": "09:21",
-      "publishedAt": "2026-06-04T09:21:00.000Z",
-      "url": "https://weibo.com/6048569942/R2zCIlhVU",
-      "image": "",
-      "summary": "子系有一家已经确定提档Q3，一加16和iQOO16也有可能会提到9月，目前备案和产品进度都在往前拉[笑而不语]",
-      "tags": [
-        "OPPO",
-        "爆料",
-        "微博"
-      ]
-    },
-    {
-      "id": "auto-6b9925fc054c",
-      "title": "OPPO Find X9 Ultra Global Version Camera Test: The Best Smartphone for Travel",
-      "source": "Gizmochina",
-      "brand": "OPPO",
-      "model": "OPPO 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-04",
-      "time": "08:40",
-      "publishedAt": "2026-06-04T08:40:10.000Z",
-      "url": "https://www.gizmochina.com/2026/06/04/oppo-find-x9-ultra-global-version-camera-test-the-best-smartphone-for-travel/",
-      "image": "https://www.gizmochina.com/wp-content/uploads/2026/05/cover-300x169.png?x10805",
-      "summary": "Let’s get it straight: the OPPO Find X9 Ultra did not disappoint. It’s genuinely a great camera phone. After carrying it on a five‑day trip to Japan and capturing over a thousand…",
-      "tags": [
-        "OPPO",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "weibo-88fc2a4eca46",
-      "title": "数码闲聊站：天玑2nm第一批只有OV在用，Mh第一批还是压宝高通2nm，且暂时没有天玑2n…",
-      "source": "数码闲聊站",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-06-04",
-      "time": "07:31",
-      "publishedAt": "2026-06-04T07:31:00.000Z",
-      "url": "https://weibo.com/6048569942/R2yU4doig",
-      "image": "",
-      "summary": "天玑2nm第一批只有OV在用，Mh第一批还是压宝高通2nm，且暂时没有天玑2nm新机规划…… 可能是因为高通有双版本SM8950/SM8975，前者相较于天玑有一定成本优势[吃瓜]",
-      "tags": [
-        "行业",
-        "爆料",
-        "微博"
-      ]
-    },
-    {
-      "id": "auto-542d56896012",
-      "title": "Google Photos on Android finally gets this handy feature months after iPhone",
-      "source": "Android Authority",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-04",
-      "time": "07:14",
-      "publishedAt": "2026-06-04T07:14:16.000Z",
-      "url": "https://www.androidauthority.com/google-photos-android-saved-stickers-folder-collections-3674327/",
-      "image": "",
-      "summary": "You can finally create a library of custom stickers in Google Photos on Android.",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-c0646a947f39",
-      "title": "Apple’s new iPhone ad couldn’t try any harder to make Android phones look ancient [Video]",
-      "source": "9to5Google",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-04",
-      "time": "02:45",
-      "publishedAt": "2026-06-04T02:45:00.000Z",
-      "url": "https://9to5google.com/2026/06/03/apples-new-iphone-ad-couldnt-try-any-harder-to-make-android-phones-look-ancient-video/",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/06/apple-privacy-ad-android.jpg?quality=82&strip=all&w=1600",
-      "summary": "In its latest “Privacy on iPhone” ad, Apple goes pretty heavy-handed in its attempt to make Android phones look ancient and ugly. more…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-75509974d770",
-      "title": "Apple kicks off new ‘Privacy on iPhone’ campaign promoting Safari [Video]",
-      "source": "9to5Mac",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-04",
-      "time": "00:09",
-      "publishedAt": "2026-06-04T00:09:00.000Z",
-      "url": "https://9to5mac.com/2026/06/03/apple-kicks-off-new-privacy-on-iphone-campaign-promoting-safari-video/",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/safari-privacy-video.jpg?quality=82&strip=all&w=1600",
-      "summary": "Apple is kicking off a new advertising campaign today, highlighting its Safari browser. In particular, the campaign focuses on Safari’s privacy-focused features and how it “keeps…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
       ]
     }
   ]
