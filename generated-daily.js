@@ -1,5 +1,5 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-06-06T15:40:16.937Z",
+  "updatedAt": "2026-06-06T17:34:54.848Z",
   "issueDate": "2026-06-06",
   "issue": "VOL.260606",
   "title": "手机情报日报",
@@ -388,6 +388,29 @@ window.phoneRadarDaily = {
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         },
         {
+          "id": "auto-ec84b76c1c69",
+          "title": "OPPO 屏幕规格相关消息",
+          "originalTitle": "",
+          "source": "Gizmochina",
+          "brand": "OPPO",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-06-06",
+          "time": "17:14",
+          "publishedAt": "2026-06-06T17:14:24.000Z",
+          "url": "https://www.gizmochina.com/2026/06/06/iqoo-neo-12-2k-165hz-display-snapdragon-8-elite-gen-5/",
+          "image": "https://www.gizmochina.com/wp-content/uploads/2026/03/iQOO-Neo-11--300x169.webp?x10805",
+          "verdict": "可略过",
+          "takeaway": "OPPO 屏幕规格相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
+          "detail": "OPPO 屏幕规格相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
+          "keyPoints": [
+            "屏幕形态"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "影响手感和显示体验，适合和其他机型对比。",
+          "action": "有具体参数就记录到参数库；没有参数就先收藏。"
+        },
+        {
           "id": "auto-7c56b0f425dd",
           "title": "Samsung 相关消息",
           "originalTitle": "",
@@ -426,29 +449,6 @@ window.phoneRadarDaily = {
           "verdict": "可略过",
           "takeaway": "没想到这年头买到这么新的mate10，扩容到8+1T，又能钉好几年了[惊讶]",
           "detail": "没想到这年头买到这么新的mate10，扩容到8+1T，又能钉好几年了[惊讶]",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
-        {
-          "id": "auto-8e348b571845",
-          "title": "Samsung 折叠屏相关消息",
-          "originalTitle": "",
-          "source": "SamMobile",
-          "brand": "Samsung",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-06-05",
-          "time": "13:51",
-          "publishedAt": "2026-06-05T13:51:03.000Z",
-          "url": "https://www.sammobile.com/news/apples-iphone-ultra-could-hurt-galaxy-z-flip-8-and-z-fold-8-sales/",
-          "image": "",
-          "verdict": "可略过",
-          "takeaway": "Samsung 折叠屏相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
-          "detail": "Samsung 折叠屏相关消息。重点看折痕、铰链、厚度、屏幕可靠性和重量是否有实质改善。",
           "keyPoints": [
             "爆料"
           ],

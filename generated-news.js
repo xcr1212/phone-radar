@@ -1,6 +1,26 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-06-06T15:40:16.937Z",
+  "updatedAt": "2026-06-06T17:34:54.848Z",
   "news": [
+    {
+      "id": "auto-ec84b76c1c69",
+      "title": "iQOO Neo 12 could prove OnePlus wrong: A 2K screen at 165Hz may finally be real",
+      "source": "Gizmochina",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-06",
+      "time": "17:14",
+      "publishedAt": "2026-06-06T17:14:24.000Z",
+      "url": "https://www.gizmochina.com/2026/06/06/iqoo-neo-12-2k-165hz-display-snapdragon-8-elite-gen-5/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/03/iQOO-Neo-11--300x169.webp?x10805",
+      "summary": "Last year, OnePlus claimed that combining a 2K display with a 165Hz refresh rate was simply not possible. OnePlus China President Li Jie explained that no display manufacturer had…",
+      "tags": [
+        "OPPO",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-40d8a988e909",
       "title": "Everyone says OnePlus is dead, but I just saw the OnePlus 16 specs and changed my mind",
@@ -202,26 +222,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-12a5871b880f",
-      "title": "这机子被低估了，这是目前米系性能释放最强，夏天日用最爽的手机，是米系续航第一的手机",
-      "source": "酷安热榜",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-06-06",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72174502",
-      "image": "",
-      "summary": "这机子被低估了，这是目前米系性能释放最强，夏天日用最爽的手机，是米系续航第一的手机",
-      "tags": [
-        "行业",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
       "id": "newsnow-7447f380c57d",
       "title": "没想到这年头买到这么新的mate10，扩容到8+1T，又能钉好几年了[惊讶]",
       "source": "酷安热榜",
@@ -235,6 +235,26 @@ window.phoneRadarAuto = {
       "url": "https://www.coolapk.com/feed/72176597",
       "image": "",
       "summary": "没想到这年头买到这么新的mate10，扩容到8+1T，又能钉好几年了[惊讶]",
+      "tags": [
+        "行业",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-12a5871b880f",
+      "title": "这机子被低估了，这是目前米系性能释放最强，夏天日用最爽的手机，是米系续航第一的手机",
+      "source": "酷安热榜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-06-06",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/72174502",
+      "image": "",
+      "summary": "这机子被低估了，这是目前米系性能释放最强，夏天日用最爽的手机，是米系续航第一的手机",
       "tags": [
         "行业",
         "爆料",
