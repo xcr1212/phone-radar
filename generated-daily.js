@@ -1,11 +1,11 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-06-06T04:19:54.392Z",
+  "updatedAt": "2026-06-06T08:46:41.439Z",
   "issueDate": "2026-06-06",
   "issue": "VOL.260606",
   "title": "手机情报日报",
-  "intro": "今日筛出 9 条重点，其中 8 条是重点爆料，包含 5 条 iPhone 相关、0 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 10 条重点，其中 8 条是重点爆料，包含 5 条 iPhone 相关、0 条官方确认、0 条参数线索。",
   "stats": {
-    "total": 9,
+    "total": 10,
     "iphone": 5,
     "leaks": 8,
     "official": 0,
@@ -18,25 +18,23 @@ window.phoneRadarDaily = {
       "hint": "机模、配色、影像、屏幕、电池和芯片线索先看。",
       "items": [
         {
-          "id": "auto-ec49856ac40a",
-          "title": "曝苹果折叠 iPhone 配色悬而未决，黑色版本存疑背后是产能与成本考量？",
+          "id": "auto-6c45b09d4c59",
+          "title": "苹果 iPhone Ultra 折叠手机机模曝光：2 种颜色",
           "originalTitle": "",
           "source": "IT之家",
           "brand": "iPhone",
           "type": "爆料",
           "trust": "媒体汇总",
           "date": "2026-06-06",
-          "time": "01:23",
-          "publishedAt": "2026-06-06T01:23:10.000Z",
-          "url": "https://www.ithome.com/0/960/780.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/6/65e2a805-b732-4c07-bb56-305174250446.png?x-bce-process=image/format,f_auto",
+          "time": "04:22",
+          "publishedAt": "2026-06-06T04:22:44.000Z",
+          "url": "https://www.ithome.com/0/960/835.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/6/e60ba32e-8bb1-4323-ba97-6e0fe5711c66.jpg?x-bce-process=image/format,f_auto",
           "verdict": "先看",
-          "takeaway": "IT之家 6 月 6 日消息，博主 @刹那数码 前天在微博透露： 跟黑色有仇是吧，苹果还没确定折叠屏要不要黑色 结合IT之家此前援引 Macworld 消息 ，苹果正针对 iPhone Fold 折叠手机研发两种配色，其一是经典的银白色，第二款则是深靛蓝色，比较接近 iPhone 17 Pro 的深蓝色。该消息源还表示，折叠 iPhone 的颜色选择将少于…",
-          "detail": "IT之家 6 月 6 日消息，博主 @刹那数码 前天在微博透露： 跟黑色有仇是吧，苹果还没确定折叠屏要不要黑色 结合IT之家此前援引 Macworld 消息 ，苹果正针对 iPhone Fold 折叠手机研发两种配色，其一是经典的银白色，第二款则是深靛蓝色，比较接近 iPhone 17 Pro 的深蓝色。该消息源还表示，折叠 iPhone 的颜色选择将少于…",
+          "takeaway": "IT之家 6 月 6 日消息，消息源 @KaroulSahil 昨日（6 月 5 日）在 X 平台分享了一段视频， 展示了白色和深蓝色（接近黑色）版本苹果 iPhone 折叠手机（上市后预估名为 iPhone Ultra）。 IT之家此前报道，针对 iPhone Fold，苹果公司内部正研发两种颜色，其一是经典的银白色，其二是深靛蓝色，比较接近 iPhon…",
+          "detail": "IT之家 6 月 6 日消息，消息源 @KaroulSahil 昨日（6 月 5 日）在 X 平台分享了一段视频， 展示了白色和深蓝色（接近黑色）版本苹果 iPhone 折叠手机（上市后预估名为 iPhone Ultra）。 IT之家此前报道，针对 iPhone Fold，苹果公司内部正研发两种颜色，其一是经典的银白色，其二是深靛蓝色，比较接近 iPhon…",
           "keyPoints": [
-            "外观 / 配色 / 尺寸",
-            "屏幕形态",
-            "成本 / 价格"
+            "外观 / 配色 / 尺寸"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
@@ -137,31 +135,6 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
-          "id": "auto-69dd985c9bf6",
-          "title": "消息称 OPPO 或继续独占双潜望镜 +10X 超长焦，友商评估后放弃",
-          "originalTitle": "",
-          "source": "IT之家",
-          "brand": "OPPO",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-06-06",
-          "time": "02:28",
-          "publishedAt": "2026-06-06T02:28:53.000Z",
-          "url": "https://www.ithome.com/0/960/791.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/6/37032008-beea-44c6-b17e-e4ae768d3d87.jpg?x-bce-process=image/format,f_auto",
-          "verdict": "先看",
-          "takeaway": "IT之家 6 月 6 日消息，博主 @数码闲聊站 今日爆料，下一代安卓超大杯，OPPO 有概率还是唯一双潜望镜 +10X 超长焦方案，并持续升级。他透露， 安卓阵营原本有一家在评估 10X ，最新一版样机取消了，还是走 2 亿单潜望 +ISZ 路线。 作为参考，今年 4 月发布的 OPPO Find X9 Ultra ，搭载第五代骁龙 8 至尊版处理器、内…",
-          "detail": "IT之家 6 月 6 日消息，博主 @数码闲聊站 今日爆料，下一代安卓超大杯，OPPO 有概率还是唯一双潜望镜 +10X 超长焦方案，并持续升级。他透露， 安卓阵营原本有一家在评估 10X ，最新一版样机取消了，还是走 2 亿单潜望 +ISZ 路线。 作为参考，今年 4 月发布的 OPPO Find X9 Ultra ，搭载第五代骁龙 8 至尊版处理器、内…",
-          "keyPoints": [
-            "影像硬件",
-            "芯片 / 性能",
-            "爆料来源"
-          ],
-          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
           "id": "weibo-d094d05f2eb2",
           "title": "数码闲聊站：一加Turbo 6X Pro——1.5K+144Hz三星直屏+天玑7400 S…",
           "originalTitle": "",
@@ -209,6 +182,31 @@ window.phoneRadarDaily = {
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "coolapk-user-24bfded1abaa",
+          "title": "竹本青：【OPPO或独占下代安卓超大杯配置：双潜望镜+10倍超长焦】 数码闲聊站今日爆料，下一代安卓超大杯，OPPO有概率…",
+          "originalTitle": "",
+          "source": "竹本青",
+          "brand": "OPPO",
+          "type": "爆料",
+          "trust": "高可信爆料",
+          "date": "2026-06-06",
+          "time": "02:00",
+          "publishedAt": "2026-06-06T02:00:41.000Z",
+          "url": "https://www.coolapk.com/feed/72186723",
+          "image": "http://image.coolapk.com/feed/2026/0606/10/4248714_1ff618d6_1240_0745_883@1439x524.jpg",
+          "verdict": "先看",
+          "takeaway": "【OPPO或独占下代安卓超大杯配置：双潜望镜+10倍超长焦】 数码闲聊站今日爆料，下一代安卓超大杯，OPPO有概率还是唯一双潜望镜+10X超长焦方案，并持续升级。 他还补充称，安卓阵营原本有一家在评估10X，最新一版已样机取消，还是走2亿单潜望+ISZ路线。 #ColorOS16# #OPPOFindX9Ultra#",
+          "detail": "【OPPO或独占下代安卓超大杯配置：双潜望镜+10倍超长焦】 数码闲聊站今日爆料，下一代安卓超大杯，OPPO有概率还是唯一双潜望镜+10X超长焦方案，并持续升级。 他还补充称，安卓阵营原本有一家在评估10X，最新一版已样机取消，还是走2亿单潜望+ISZ路线。 #ColorOS16# #OPPOFindX9Ultra#",
+          "keyPoints": [
+            "外观 / 配色 / 尺寸",
+            "影像硬件",
+            "爆料来源"
+          ],
+          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         }
       ]
     },
@@ -233,6 +231,36 @@ window.phoneRadarDaily = {
           "verdict": "先看",
           "takeaway": "从安卓换iPhone 第一次用iPhone有什么需要注意的吗xdm？",
           "detail": "从安卓换iPhone 第一次用iPhone有什么需要注意的吗xdm？",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        }
+      ]
+    },
+    {
+      "id": "market",
+      "title": "行业趋势",
+      "hint": "看方向，不急着当购买依据。",
+      "items": [
+        {
+          "id": "newsnow-4222aad58d5b",
+          "title": "说实话下半年才是真正的神仙打架，高端三巨头同台唱戏[笑眼]#数码日常# #iPhone17ProMax# #小米17ProMax#",
+          "originalTitle": "",
+          "source": "酷安热榜",
+          "brand": "Xiaomi",
+          "type": "爆料",
+          "trust": "高关注爆料源",
+          "date": "2026-06-06",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://www.coolapk.com/feed/72177835",
+          "image": "",
+          "verdict": "先看",
+          "takeaway": "说实话下半年才是真正的神仙打架，高端三巨头同台唱戏[笑眼]#数码日常# #iPhone17ProMax# #小米17ProMax#",
+          "detail": "说实话下半年才是真正的神仙打架，高端三巨头同台唱戏[笑眼]#数码日常# #iPhone17ProMax# #小米17ProMax#",
           "keyPoints": [
             "爆料"
           ],

@@ -1,6 +1,26 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-06-06T04:19:54.392Z",
+  "updatedAt": "2026-06-06T08:46:41.439Z",
   "news": [
+    {
+      "id": "auto-6c45b09d4c59",
+      "title": "苹果 iPhone Ultra 折叠手机机模曝光：2 种颜色",
+      "source": "IT之家",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-06",
+      "time": "04:22",
+      "publishedAt": "2026-06-06T04:22:44.000Z",
+      "url": "https://www.ithome.com/0/960/835.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/6/e60ba32e-8bb1-4323-ba97-6e0fe5711c66.jpg?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 6 月 6 日消息，消息源 @KaroulSahil 昨日（6 月 5 日）在 X 平台分享了一段视频， 展示了白色和深蓝色（接近黑色）版本苹果 iPhone 折叠手机（上市后预估名为 iPhone Ultra）。 IT之家此前报道，针对 iPhone Fold，苹果公司内部正研发两种颜色，其一是经典的银白色，其二是深靛蓝色，比较接近 iPhon…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-a706740abd5a",
       "title": "消息称某厂迭代性能机保底 2K+165Hz 屏幕、尝试冲 2K+185Hz，预计为 iQOO Neo 12",
@@ -62,26 +82,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-69dd985c9bf6",
-      "title": "消息称 OPPO 或继续独占双潜望镜 +10X 超长焦，友商评估后放弃",
-      "source": "IT之家",
-      "brand": "OPPO",
-      "model": "OPPO 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-06",
-      "time": "02:28",
-      "publishedAt": "2026-06-06T02:28:53.000Z",
-      "url": "https://www.ithome.com/0/960/791.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/6/37032008-beea-44c6-b17e-e4ae768d3d87.jpg?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 6 月 6 日消息，博主 @数码闲聊站 今日爆料，下一代安卓超大杯，OPPO 有概率还是唯一双潜望镜 +10X 超长焦方案，并持续升级。他透露， 安卓阵营原本有一家在评估 10X ，最新一版样机取消了，还是走 2 亿单潜望 +ISZ 路线。 作为参考，今年 4 月发布的 OPPO Find X9 Ultra ，搭载第五代骁龙 8 至尊版处理器、内…",
-      "tags": [
-        "OPPO",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "coolapk-user-24bfded1abaa",
       "title": "竹本青：【OPPO或独占下代安卓超大杯配置：双潜望镜+10倍超长焦】 数码闲聊站今日爆料，下一代安卓超大杯，OPPO有概率…",
       "source": "竹本青",
@@ -117,26 +117,6 @@ window.phoneRadarAuto = {
       "summary": "Reliable tipster Digital Chat Station (DCS) has shared an interesting exclusive today claiming that the Oppo Find X10 Ultra could again be the only Android flagship in 2027 with d…",
       "tags": [
         "OPPO",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-ec49856ac40a",
-      "title": "曝苹果折叠 iPhone 配色悬而未决，黑色版本存疑背后是产能与成本考量？",
-      "source": "IT之家",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-06",
-      "time": "01:23",
-      "publishedAt": "2026-06-06T01:23:10.000Z",
-      "url": "https://www.ithome.com/0/960/780.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/6/65e2a805-b732-4c07-bb56-305174250446.png?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 6 月 6 日消息，博主 @刹那数码 前天在微博透露： 跟黑色有仇是吧，苹果还没确定折叠屏要不要黑色 结合IT之家此前援引 Macworld 消息 ，苹果正针对 iPhone Fold 折叠手机研发两种配色，其一是经典的银白色，第二款则是深靛蓝色，比较接近 iPhone 17 Pro 的深蓝色。该消息源还表示，折叠 iPhone 的颜色选择将少于…",
-      "tags": [
-        "iPhone",
         "爆料",
         "自动抓取"
       ]
@@ -237,6 +217,26 @@ window.phoneRadarAuto = {
       "summary": "说实话下半年才是真正的神仙打架，高端三巨头同台唱戏[笑眼]#数码日常# #iPhone17ProMax# #小米17ProMax#",
       "tags": [
         "Xiaomi",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-7152bdae557d",
+      "title": "侧躺玩手机受害者",
+      "source": "微博热搜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "待验证",
+      "date": "2026-06-06",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://s.weibo.com/weibo?q=%23%E4%BE%A7%E8%BA%BA%E7%8E%A9%E6%89%8B%E6%9C%BA%E5%8F%97%E5%AE%B3%E8%80%85%23&t=31&band_rank=29&Refer=top",
+      "image": "",
+      "summary": "侧躺玩手机受害者",
+      "tags": [
+        "行业",
         "爆料",
         "NewsNow"
       ]
@@ -577,26 +577,6 @@ window.phoneRadarAuto = {
       "summary": "Fresh leaks are giving us what may be our best look yet at Apple‘s iPhone 18 Pro lineup. Images shared online show alleged iPhone 18 Pro and Pro Max dummy units in four finishes:…",
       "tags": [
         "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-82cba2499620",
-      "title": "Huawei Pura X Max first-month sales reflect strong demand",
-      "source": "Huawei Central",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-05",
-      "time": "07:02",
-      "publishedAt": "2026-06-05T07:02:01.000Z",
-      "url": "https://www.huaweicentral.com/huawei-pura-x-max-first-month-sales-reflect-strong-demand/",
-      "image": "https://www.huaweicentral.com/wp-content/uploads/2026/06/Pura-X-Max-sales.jpg",
-      "summary": "Huawei Pura X Max has been on the market for more than 30 days, and the first-month sales details of the foldable are now out. The shipment figure suggests that the flagship wide-…",
-      "tags": [
-        "Huawei",
         "爆料",
         "自动抓取"
       ]
