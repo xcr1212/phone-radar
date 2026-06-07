@@ -1,13 +1,13 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-06-07T04:55:50.429Z",
+  "updatedAt": "2026-06-07T09:35:48.297Z",
   "issueDate": "2026-06-07",
   "issue": "VOL.260607",
   "title": "手机情报日报",
-  "intro": "今日筛出 13 条重点，其中 5 条是重点爆料，包含 2 条 iPhone 相关、0 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 14 条重点，其中 7 条是重点爆料，包含 1 条 iPhone 相关、0 条官方确认、0 条参数线索。",
   "stats": {
-    "total": 13,
-    "iphone": 2,
-    "leaks": 5,
+    "total": 14,
+    "iphone": 1,
+    "leaks": 7,
     "official": 0,
     "specs": 0
   },
@@ -17,6 +17,31 @@ window.phoneRadarDaily = {
       "title": "重点爆料",
       "hint": "机模、配色、影像、屏幕、电池和芯片线索先看。",
       "items": [
+        {
+          "id": "auto-8f159f41da55",
+          "title": "小米 17T 系列手机参数曝光：天玑 8500-Ultra / 天玑 9500 处理器，7000mAh 电池",
+          "originalTitle": "",
+          "source": "IT之家",
+          "brand": "Xiaomi",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-06-07",
+          "time": "07:51",
+          "publishedAt": "2026-06-07T07:51:51.000Z",
+          "url": "https://www.ithome.com/0/961/109.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/6/645d123b-aed2-4b4b-94e3-95def3a1a589.jpg?x-bce-process=image/format,f_auto",
+          "verdict": "先看",
+          "takeaway": "IT之家 6 月 7 日消息，小米 17T 系列手机将于 6 月 8 日正式发布，包含小米 17T Pro、小米 17T 两款手机，定位“全能影像旗舰”。博主 @体验more 今日曝光了两款新机的主要参数。 小米 17T 天玑 8500-Ultra 处理器 +LPDDR5X+UFS4.1 光影猎人 800 1/1.55 f/1.7 OIS+12MP f/2…",
+          "detail": "IT之家 6 月 7 日消息，小米 17T 系列手机将于 6 月 8 日正式发布，包含小米 17T Pro、小米 17T 两款手机，定位“全能影像旗舰”。博主 @体验more 今日曝光了两款新机的主要参数。 小米 17T 天玑 8500-Ultra 处理器 +LPDDR5X+UFS4.1 光影猎人 800 1/1.55 f/1.7 OIS+12MP f/2…",
+          "keyPoints": [
+            "影像硬件",
+            "电池 / 充电",
+            "芯片 / 性能"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
         {
           "id": "auto-eda0bfed301f",
           "title": "消息称小米机器人有望亮相 Xiaomi 17T 系列手机发布会",
@@ -41,27 +66,48 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
-          "id": "coolapk-user-24bfded1abaa",
-          "title": "竹本青：【OPPO或独占下代安卓超大杯配置：双潜望镜+10倍超长焦】 数码闲聊站今日爆料，下一代安卓超大杯，OPPO有概率…",
+          "id": "auto-6639948fda66",
+          "title": "不交 980 检测费就不退手机，高价回收二手手机骗局曝光",
           "originalTitle": "",
-          "source": "竹本青",
-          "brand": "OPPO",
+          "source": "IT之家",
+          "brand": "行业",
           "type": "爆料",
-          "trust": "高可信爆料",
-          "date": "2026-06-06",
-          "time": "02:00",
-          "publishedAt": "2026-06-06T02:00:41.000Z",
-          "url": "https://www.coolapk.com/feed/72186723",
-          "image": "http://image.coolapk.com/feed/2026/0606/10/4248714_1ff618d6_1240_0745_883@1439x524.jpg",
+          "trust": "媒体汇总",
+          "date": "2026-06-07",
+          "time": "08:17",
+          "publishedAt": "2026-06-07T08:17:14.000Z",
+          "url": "https://www.ithome.com/0/961/115.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/6/761a6845-fcec-429d-8543-21129d1c93e3.jpg?x-bce-process=image/format,f_auto",
           "verdict": "先看",
-          "takeaway": "【OPPO或独占下代安卓超大杯配置：双潜望镜+10倍超长焦】 数码闲聊站今日爆料，下一代安卓超大杯，OPPO有概率还是唯一双潜望镜+10X超长焦方案，并持续升级。 他还补充称，安卓阵营原本有一家在评估10X，最新一版已样机取消，还是走2亿单潜望+ISZ路线。 #ColorOS16# #OPPOFindX9Ultra#",
-          "detail": "【OPPO或独占下代安卓超大杯配置：双潜望镜+10倍超长焦】 数码闲聊站今日爆料，下一代安卓超大杯，OPPO有概率还是唯一双潜望镜+10X超长焦方案，并持续升级。 他还补充称，安卓阵营原本有一家在评估10X，最新一版已样机取消，还是走2亿单潜望+ISZ路线。 #ColorOS16# #OPPOFindX9Ultra#",
+          "takeaway": "IT之家 6 月 7 日消息，据央视新闻今天报道，市场上最近出现一种手机高价回收骗局，骗子首先会放出高价回收二手机诱饵，受害人真的去回收时会被无端压价，想要拿回手机时还会被高价验机费再摆一道。 前段时间，山东菏泽的李先生刷短视频时看到高价回收二手手机广告，线下实体回收最多给 1000 元的手机，对方声称能给到 2000 元。李先生一看价格合适就心动了， 立…",
+          "detail": "IT之家 6 月 7 日消息，据央视新闻今天报道，市场上最近出现一种手机高价回收骗局，骗子首先会放出高价回收二手机诱饵，受害人真的去回收时会被无端压价，想要拿回手机时还会被高价验机费再摆一道。 前段时间，山东菏泽的李先生刷短视频时看到高价回收二手手机广告，线下实体回收最多给 1000 元的手机，对方声称能给到 2000 元。李先生一看价格合适就心动了， 立…",
           "keyPoints": [
-            "外观 / 配色 / 尺寸",
-            "影像硬件",
-            "爆料来源"
+            "成本 / 价格"
           ],
-          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "newsnow-93e0f2bb5d3c",
+          "title": "这机子被低估了，这是目前米系性能释放最强，夏天日用最爽的手机，是米系续航第一的手机",
+          "originalTitle": "",
+          "source": "酷安热榜",
+          "brand": "行业",
+          "type": "爆料",
+          "trust": "高关注爆料源",
+          "date": "2026-06-07",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://www.coolapk.com/feed/72174502",
+          "image": "",
+          "verdict": "先看",
+          "takeaway": "这机子被低估了，这是目前米系性能释放最强，夏天日用最爽的手机，是米系续航第一的手机",
+          "detail": "这机子被低估了，这是目前米系性能释放最强，夏天日用最爽的手机，是米系续航第一的手机",
+          "keyPoints": [
+            "电池 / 充电"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
@@ -144,29 +190,6 @@ window.phoneRadarDaily = {
       "hint": "不是硬件爆料，但和 iPhone 体验或路线有关。",
       "items": [
         {
-          "id": "newsnow-1ccfe8e45570",
-          "title": "从安卓换iPhone 第一次用iPhone有什么需要注意的吗xdm？",
-          "originalTitle": "",
-          "source": "酷安热榜",
-          "brand": "iPhone",
-          "type": "爆料",
-          "trust": "高关注爆料源",
-          "date": "2026-06-07",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://www.coolapk.com/feed/72181361",
-          "image": "",
-          "verdict": "先看",
-          "takeaway": "从安卓换iPhone 第一次用iPhone有什么需要注意的吗xdm？",
-          "detail": "从安卓换iPhone 第一次用iPhone有什么需要注意的吗xdm？",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
-        {
           "id": "newsnow-88decb98c373",
           "title": "一日一技｜为什么你应该关闭 iOS 的键盘声音",
           "originalTitle": "",
@@ -196,52 +219,6 @@ window.phoneRadarDaily = {
       "title": "行业趋势",
       "hint": "看方向，不急着当购买依据。",
       "items": [
-        {
-          "id": "auto-08cf7eb14c69",
-          "title": "华为 nova 16 系列手机首销情况出炉，Pro 同期约为上一代的 170%",
-          "originalTitle": "",
-          "source": "IT之家",
-          "brand": "Huawei",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-06-07",
-          "time": "02:48",
-          "publishedAt": "2026-06-07T02:48:40.000Z",
-          "url": "https://www.ithome.com/0/961/035.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/6/3d760f2d-8f6c-49cc-80e8-98cabdbf1c1d.jpg?x-bce-process=image/format,f_auto",
-          "verdict": "先看",
-          "takeaway": "IT之家 6 月 7 日消息，长期关注国内手机市场份额的博主 @RD观测 今日分享了华为 nova 16 系列手机首销情况，以开售当日为标准（IT之家注：6 月 5 日）： 华为 nova 16 同期约为华为 nova 15 的 140% 华为 nova 16 Pro 同期约为华为 nova 15 Pro 的 170% 华为 nova 16 Ultra 同…",
-          "detail": "IT之家 6 月 7 日消息，长期关注国内手机市场份额的博主 @RD观测 今日分享了华为 nova 16 系列手机首销情况，以开售当日为标准（IT之家注：6 月 5 日）： 华为 nova 16 同期约为华为 nova 15 的 140% 华为 nova 16 Pro 同期约为华为 nova 15 Pro 的 170% 华为 nova 16 Ultra 同…",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "中文源可以直接点开快读；看完只保留和购机有关的点。"
-        },
-        {
-          "id": "auto-4595b51c3f12",
-          "title": "小米 17 Max 新机首销情况出炉，同期约为 17 的 25%",
-          "originalTitle": "",
-          "source": "IT之家",
-          "brand": "Xiaomi",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-06-07",
-          "time": "00:25",
-          "publishedAt": "2026-06-07T00:25:01.000Z",
-          "url": "https://www.ithome.com/0/961/003.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/6/f1c8c992-5ee4-464b-89fe-61ec62e80a9c.jpg?x-bce-process=image/format,f_auto",
-          "verdict": "先看",
-          "takeaway": "IT之家 6 月 7 日消息，长期关注国内手机市场份额的博主 @RD观测 昨晚分享了 小米 17 Max 新机首销情况：以首销 7 天为标准（IT之家注：5 月 25 日-5 月 31 日）， 小米 17 Max 同期约为小米 17 的 25% 。 博主表示，由于小米 17 Max 不是此前任何产品的迭代， 故对比只作为参考 。第三方数据源，仅供参考。 I…",
-          "detail": "IT之家 6 月 7 日消息，长期关注国内手机市场份额的博主 @RD观测 昨晚分享了 小米 17 Max 新机首销情况：以首销 7 天为标准（IT之家注：5 月 25 日-5 月 31 日）， 小米 17 Max 同期约为小米 17 的 25% 。 博主表示，由于小米 17 Max 不是此前任何产品的迭代， 故对比只作为参考 。第三方数据源，仅供参考。 I…",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "中文源可以直接点开快读；看完只保留和购机有关的点。"
-        },
         {
           "id": "newsnow-e49db2762cd5",
           "title": "给第一次买华为酷友们提醒一下，Mate 80 Pro Max 是4g手机不是5g手机，手机会显示5gA当不是5g手机。",
@@ -327,6 +304,52 @@ window.phoneRadarDaily = {
           "verdict": "扫一眼",
           "takeaway": "唉，玩机党真是难受，有苹果想要华为，有了 xmax 还想赎回 x，有了 x 又想要荣耀，荣耀玩过了又想要弄台小米（叠甲用），现在又想搞回iqoo，明明之前玩过 15 了但是现在还就是想要[喝酒][喝酒][喝酒]现在又看上了 p90 的芭乐色",
           "detail": "唉，玩机党真是难受，有苹果想要华为，有了 xmax 还想赎回 x，有了 x 又想要荣耀，荣耀玩过了又想要弄台小米（叠甲用），现在又想搞回iqoo，明明之前玩过 15 了但是现在还就是想要[喝酒][喝酒][喝酒]现在又看上了 p90 的芭乐色",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        },
+        {
+          "id": "coolapk-user-76467f5f1203",
+          "title": "竹本青：【华为nova 16系列 首销日销量曝光：Pro约为上代170%，Ultra约为上代35%】 6月7日，博主「RD…",
+          "originalTitle": "",
+          "source": "竹本青",
+          "brand": "Huawei",
+          "type": "爆料",
+          "trust": "高可信爆料",
+          "date": "2026-06-07",
+          "time": "02:47",
+          "publishedAt": "2026-06-07T02:47:56.000Z",
+          "url": "https://www.coolapk.com/feed/72204608",
+          "image": "http://image.coolapk.com/feed/2026/0607/10/4248714_77902c31_0475_8618_554@1271x699.jpg",
+          "verdict": "扫一眼",
+          "takeaway": "【华为nova 16系列 首销日销量曝光：Pro约为上代170%，Ultra约为上代35%】 6月7日，博主「RD观测」分享第三方统计的华为nova 16系列首销情况，以开售当日为标准，该系列市场表现如下： nova 16 —— 同期约为 nova 15的140% nova 16 Pro —— 同期约为 nova 15 Pro的170% nova 16 U…",
+          "detail": "【华为nova 16系列 首销日销量曝光：Pro约为上代170%，Ultra约为上代35%】 6月7日，博主「RD观测」分享第三方统计的华为nova 16系列首销情况，以开售当日为标准，该系列市场表现如下： nova 16 —— 同期约为 nova 15的140% nova 16 Pro —— 同期约为 nova 15 Pro的170% nova 16 U…",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "可信度较高，但仍属于发布前线索。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        },
+        {
+          "id": "newsnow-d3c722f45629",
+          "title": "没想到这年头买到这么新的mate10，扩容到8+1T，又能钉好几年了[惊讶]",
+          "originalTitle": "",
+          "source": "酷安热榜",
+          "brand": "行业",
+          "type": "爆料",
+          "trust": "高关注爆料源",
+          "date": "2026-06-07",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://www.coolapk.com/feed/72176597",
+          "image": "",
+          "verdict": "可略过",
+          "takeaway": "没想到这年头买到这么新的mate10，扩容到8+1T，又能钉好几年了[惊讶]",
+          "detail": "没想到这年头买到这么新的mate10，扩容到8+1T，又能钉好几年了[惊讶]",
           "keyPoints": [
             "爆料"
           ],

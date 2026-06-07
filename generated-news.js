@@ -1,6 +1,66 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-06-07T04:55:50.429Z",
+  "updatedAt": "2026-06-07T09:35:48.297Z",
   "news": [
+    {
+      "id": "auto-6639948fda66",
+      "title": "不交 980 检测费就不退手机，高价回收二手手机骗局曝光",
+      "source": "IT之家",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-07",
+      "time": "08:17",
+      "publishedAt": "2026-06-07T08:17:14.000Z",
+      "url": "https://www.ithome.com/0/961/115.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/6/761a6845-fcec-429d-8543-21129d1c93e3.jpg?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 6 月 7 日消息，据央视新闻今天报道，市场上最近出现一种手机高价回收骗局，骗子首先会放出高价回收二手机诱饵，受害人真的去回收时会被无端压价，想要拿回手机时还会被高价验机费再摆一道。 前段时间，山东菏泽的李先生刷短视频时看到高价回收二手手机广告，线下实体回收最多给 1000 元的手机，对方声称能给到 2000 元。李先生一看价格合适就心动了， 立…",
+      "tags": [
+        "行业",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-8f159f41da55",
+      "title": "小米 17T 系列手机参数曝光：天玑 8500-Ultra / 天玑 9500 处理器，7000mAh 电池",
+      "source": "IT之家",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-07",
+      "time": "07:51",
+      "publishedAt": "2026-06-07T07:51:51.000Z",
+      "url": "https://www.ithome.com/0/961/109.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/6/645d123b-aed2-4b4b-94e3-95def3a1a589.jpg?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 6 月 7 日消息，小米 17T 系列手机将于 6 月 8 日正式发布，包含小米 17T Pro、小米 17T 两款手机，定位“全能影像旗舰”。博主 @体验more 今日曝光了两款新机的主要参数。 小米 17T 天玑 8500-Ultra 处理器 +LPDDR5X+UFS4.1 光影猎人 800 1/1.55 f/1.7 OIS+12MP f/2…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-d3de78f96b7e",
+      "title": "2026 高考语文落下帷幕，卢伟冰晒出小米 Mimo 大模型写的北京卷作文",
+      "source": "IT之家",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-07",
+      "time": "05:00",
+      "publishedAt": "2026-06-07T05:00:54.000Z",
+      "url": "https://www.ithome.com/0/961/058.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/6/ada55444-b70d-4227-bad2-0b136b0569cc.png?x-bce-process=image/watermark,text_QUnnlJ_miJA,type_RlpMYW5UaW5nSGVpU0JHQg==,size_28,color_ffffffdd,skw_1,skc_00000051,g_7,blr_50,bls_50,x_11,y_11/format,f_auto",
+      "summary": "IT之家 6 月 7 日消息，2026 年全国统一高考今天开考，今天上午进行的是语文科目考试，教育部教育考试院命制的语文作文试题共 2 道，北京、上海、天津采用自主命题。目前各地作文题已公布。 IT之家注意到，小米集团合伙人 / 总裁、手机部总裁、小米品牌总经理卢伟冰刚刚发文， 晒出了使用小米 Mimo 大模型写的北京卷作文 ——《做规划与下功夫》 ，全文…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-eda0bfed301f",
       "title": "消息称小米机器人有望亮相 Xiaomi 17T 系列手机发布会",
@@ -17,26 +77,6 @@ window.phoneRadarAuto = {
       "summary": "IT之家 6 月 7 日消息，“新浪科技”在微博援引卢伟冰发布的视频，透露小米机器人有望在小米 17T 发布会中亮相。 IT之家注意到，小米机器人 已于今年 4 月亮相小米投资者日活动 ，这款机器人延续了 2022 年 CyberOne“铁大”具身人形设计，机身表面使用暗灰色面料，胸前印有醒目的小米标志，整体具有较强的科技感，不过具体技术细节暂不知悉。 而…",
       "tags": [
         "Xiaomi",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-08cf7eb14c69",
-      "title": "华为 nova 16 系列手机首销情况出炉，Pro 同期约为上一代的 170%",
-      "source": "IT之家",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-07",
-      "time": "02:48",
-      "publishedAt": "2026-06-07T02:48:40.000Z",
-      "url": "https://www.ithome.com/0/961/035.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/6/3d760f2d-8f6c-49cc-80e8-98cabdbf1c1d.jpg?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 6 月 7 日消息，长期关注国内手机市场份额的博主 @RD观测 今日分享了华为 nova 16 系列手机首销情况，以开售当日为标准（IT之家注：6 月 5 日）： 华为 nova 16 同期约为华为 nova 15 的 140% 华为 nova 16 Pro 同期约为华为 nova 15 Pro 的 170% 华为 nova 16 Ultra 同…",
-      "tags": [
-        "Huawei",
         "爆料",
         "自动抓取"
       ]
@@ -77,26 +117,6 @@ window.phoneRadarAuto = {
       "summary": "Ahead of its launch sometime later this year, Samsung’s Galaxy S26 FE has surfaced online early, showcasing a familiar, but slightly updated design. more…",
       "tags": [
         "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-4595b51c3f12",
-      "title": "小米 17 Max 新机首销情况出炉，同期约为 17 的 25%",
-      "source": "IT之家",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-07",
-      "time": "00:25",
-      "publishedAt": "2026-06-07T00:25:01.000Z",
-      "url": "https://www.ithome.com/0/961/003.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/6/f1c8c992-5ee4-464b-89fe-61ec62e80a9c.jpg?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 6 月 7 日消息，长期关注国内手机市场份额的博主 @RD观测 昨晚分享了 小米 17 Max 新机首销情况：以首销 7 天为标准（IT之家注：5 月 25 日-5 月 31 日）， 小米 17 Max 同期约为小米 17 的 25% 。 博主表示，由于小米 17 Max 不是此前任何产品的迭代， 故对比只作为参考 。第三方数据源，仅供参考。 I…",
-      "tags": [
-        "Xiaomi",
         "爆料",
         "自动抓取"
       ]
@@ -202,6 +222,26 @@ window.phoneRadarAuto = {
       ]
     },
     {
+      "id": "newsnow-93e0f2bb5d3c",
+      "title": "这机子被低估了，这是目前米系性能释放最强，夏天日用最爽的手机，是米系续航第一的手机",
+      "source": "酷安热榜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-06-07",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/72174502",
+      "image": "",
+      "summary": "这机子被低估了，这是目前米系性能释放最强，夏天日用最爽的手机，是米系续航第一的手机",
+      "tags": [
+        "行业",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
       "id": "newsnow-f0cb660d6884",
       "title": "唉，玩机党真是难受，有苹果想要华为，有了 xmax 还想赎回 x，有了 x 又想要荣耀，荣耀玩过了又想要弄台小米（叠甲用），现在又想搞回iqoo，明明之前玩过 15 了但是现在还就是想要[喝酒][喝酒][喝酒]现在又看上了 p90 的芭乐色",
       "source": "酷安热榜",
@@ -222,28 +262,48 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-1ccfe8e45570",
-      "title": "从安卓换iPhone 第一次用iPhone有什么需要注意的吗xdm？",
-      "source": "酷安热榜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
+      "id": "newsnow-c6ce62c52702",
+      "title": "华为 PuraXMax 首月销量近 35 万台，典藏版卖得更好，这释放了哪些市场信号？",
+      "source": "知乎热榜",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "市场报告",
+      "trust": "媒体汇总",
       "date": "2026-06-07",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72181361",
+      "url": "https://www.zhihu.com/question/2045967359232448046",
       "image": "",
-      "summary": "从安卓换iPhone 第一次用iPhone有什么需要注意的吗xdm？",
+      "summary": "华为 PuraXMax 首月销量近 35 万台，典藏版卖得更好，这释放了哪些市场信号？",
       "tags": [
-        "iPhone",
+        "Huawei",
+        "市场报告",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-86a63d86c0c8",
+      "title": "女生高考前刷手机刷到作文“答案”",
+      "source": "今日头条热榜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-07",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.toutiao.com/trending/7647946914349678643/",
+      "image": "",
+      "summary": "女生高考前刷手机刷到作文“答案”",
+      "tags": [
+        "行业",
         "爆料",
         "NewsNow"
       ]
     },
     {
-      "id": "newsnow-80e76822c586",
-      "title": "巡查组现场要求：把手机拿出来我看看",
+      "id": "newsnow-93a0da07c074",
+      "title": "女生高考前刷手机刷到作文“答案”",
       "source": "百度热搜",
       "brand": "行业",
       "model": "智能手机市场",
@@ -252,9 +312,9 @@ window.phoneRadarAuto = {
       "date": "2026-06-07",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.baidu.com/s?wd=%E5%B7%A1%E6%9F%A5%E7%BB%84%E7%8E%B0%E5%9C%BA%E8%A6%81%E6%B1%82%EF%BC%9A%E6%8A%8A%E6%89%8B%E6%9C%BA%E6%8B%BF%E5%87%BA%E6%9D%A5%E6%88%91%E7%9C%8B%E7%9C%8B",
+      "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E9%AB%98%E8%80%83%E5%89%8D%E5%88%B7%E6%89%8B%E6%9C%BA%E5%88%B7%E5%88%B0%E4%BD%9C%E6%96%87%E2%80%9C%E7%AD%94%E6%A1%88%E2%80%9D",
       "image": "",
-      "summary": "巡查组现场要求：把手机拿出来我看看",
+      "summary": "女生高考前刷手机刷到作文“答案”",
       "tags": [
         "行业",
         "爆料",
@@ -339,26 +399,6 @@ window.phoneRadarAuto = {
         "Huawei",
         "爆料",
         "自动抓取"
-      ]
-    },
-    {
-      "id": "coolapk-user-24bfded1abaa",
-      "title": "竹本青：【OPPO或独占下代安卓超大杯配置：双潜望镜+10倍超长焦】 数码闲聊站今日爆料，下一代安卓超大杯，OPPO有概率…",
-      "source": "竹本青",
-      "brand": "OPPO",
-      "model": "OPPO 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-06-06",
-      "time": "02:00",
-      "publishedAt": "2026-06-06T02:00:41.000Z",
-      "url": "https://www.coolapk.com/feed/72186723",
-      "image": "http://image.coolapk.com/feed/2026/0606/10/4248714_1ff618d6_1240_0745_883@1439x524.jpg",
-      "summary": "【OPPO或独占下代安卓超大杯配置：双潜望镜+10倍超长焦】 数码闲聊站今日爆料，下一代安卓超大杯，OPPO有概率还是唯一双潜望镜+10X超长焦方案，并持续升级。 他还补充称，安卓阵营原本有一家在评估10X，最新一版已样机取消，还是走2亿单潜望+ISZ路线。 #ColorOS16# #OPPOFindX9Ultra#",
-      "tags": [
-        "OPPO",
-        "爆料",
-        "酷安博主"
       ]
     },
     {
