@@ -1,12 +1,12 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-06-07T09:35:48.297Z",
+  "updatedAt": "2026-06-07T12:01:56.945Z",
   "issueDate": "2026-06-07",
   "issue": "VOL.260607",
   "title": "手机情报日报",
-  "intro": "今日筛出 14 条重点，其中 7 条是重点爆料，包含 1 条 iPhone 相关、0 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 16 条重点，其中 7 条是重点爆料，包含 4 条 iPhone 相关、0 条官方确认、0 条参数线索。",
   "stats": {
-    "total": 14,
-    "iphone": 1,
+    "total": 16,
+    "iphone": 4,
     "leaks": 7,
     "official": 0,
     "specs": 0
@@ -17,6 +17,29 @@ window.phoneRadarDaily = {
       "title": "重点爆料",
       "hint": "机模、配色、影像、屏幕、电池和芯片线索先看。",
       "items": [
+        {
+          "id": "auto-ae1964412a51",
+          "title": "iPhone 外观设计线索曝光",
+          "originalTitle": "",
+          "source": "MacRumors",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-06-07",
+          "time": "10:28",
+          "publishedAt": "2026-06-07T10:28:04.000Z",
+          "url": "https://www.macrumors.com/2026/06/07/best-look-yet-at-foldable-iphone-design-revealed/",
+          "image": "https://images.macrumors.com/article-new/2026/06/foldable-iphone-dummy-sonny-dickson.jpg",
+          "verdict": "先看",
+          "takeaway": "iPhone 外观设计线索曝光。重点看外观、颜色、尺寸是否和上一代有明显变化。",
+          "detail": "iPhone 外观设计线索曝光。这类内容主要看外观设计、按键布局、相机模组和尺寸变化，后续最好等更多渲染图或保护壳线索互相验证。",
+          "keyPoints": [
+            "外观 / 配色 / 尺寸"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
         {
           "id": "auto-8f159f41da55",
           "title": "小米 17T 系列手机参数曝光：天玑 8500-Ultra / 天玑 9500 处理器，7000mAh 电池",
@@ -37,29 +60,6 @@ window.phoneRadarDaily = {
             "影像硬件",
             "电池 / 充电",
             "芯片 / 性能"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "auto-eda0bfed301f",
-          "title": "消息称小米机器人有望亮相 Xiaomi 17T 系列手机发布会",
-          "originalTitle": "",
-          "source": "IT之家",
-          "brand": "Xiaomi",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-06-07",
-          "time": "04:36",
-          "publishedAt": "2026-06-07T04:36:08.000Z",
-          "url": "https://www.ithome.com/0/961/057.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/6/555e50e3-6801-4684-924e-dfdf4f1ae9c3.jpg?x-bce-process=image/format,f_auto",
-          "verdict": "先看",
-          "takeaway": "IT之家 6 月 7 日消息，“新浪科技”在微博援引卢伟冰发布的视频，透露小米机器人有望在小米 17T 发布会中亮相。 IT之家注意到，小米机器人 已于今年 4 月亮相小米投资者日活动 ，这款机器人延续了 2022 年 CyberOne“铁大”具身人形设计，机身表面使用暗灰色面料，胸前印有醒目的小米标志，整体具有较强的科技感，不过具体技术细节暂不知悉。 而…",
-          "detail": "IT之家 6 月 7 日消息，“新浪科技”在微博援引卢伟冰发布的视频，透露小米机器人有望在小米 17T 发布会中亮相。 IT之家注意到，小米机器人 已于今年 4 月亮相小米投资者日活动 ，这款机器人延续了 2022 年 CyberOne“铁大”具身人形设计，机身表面使用暗灰色面料，胸前印有醒目的小米标志，整体具有较强的科技感，不过具体技术细节暂不知悉。 而…",
-          "keyPoints": [
-            "爆料来源"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
@@ -190,6 +190,29 @@ window.phoneRadarDaily = {
       "hint": "不是硬件爆料，但和 iPhone 体验或路线有关。",
       "items": [
         {
+          "id": "newsnow-1485207ec103",
+          "title": "苹果第三方输入法哪家好用啊 最近用的百度但是感觉震动很粘手 有延迟 #iPhone17ProMax# #iPhone17Pro#",
+          "originalTitle": "",
+          "source": "酷安热榜",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "高关注爆料源",
+          "date": "2026-06-07",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://www.coolapk.com/feed/72198986",
+          "image": "",
+          "verdict": "先看",
+          "takeaway": "苹果第三方输入法哪家好用啊 最近用的百度但是感觉震动很粘手 有延迟 #iPhone17ProMax# #iPhone17Pro#",
+          "detail": "苹果第三方输入法哪家好用啊 最近用的百度但是感觉震动很粘手 有延迟 #iPhone17ProMax# #iPhone17Pro#",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        },
+        {
           "id": "newsnow-88decb98c373",
           "title": "一日一技｜为什么你应该关闭 iOS 的键盘声音",
           "originalTitle": "",
@@ -210,6 +233,29 @@ window.phoneRadarDaily = {
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是实际体验内容，买前适合重点看缺点和取舍。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        },
+        {
+          "id": "newsnow-b87ca2e231e7",
+          "title": "iPhone用户的崩溃瞬间",
+          "originalTitle": "",
+          "source": "微博热搜",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "待验证",
+          "date": "2026-06-07",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://s.weibo.com/weibo?q=iPhone%E7%94%A8%E6%88%B7%E7%9A%84%E5%B4%A9%E6%BA%83%E7%9E%AC%E9%97%B4&t=31&band_rank=5&Refer=top",
+          "image": "",
+          "verdict": "扫一眼",
+          "takeaway": "iPhone用户的崩溃瞬间",
+          "detail": "iPhone用户的崩溃瞬间",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         }
       ]
@@ -289,29 +335,6 @@ window.phoneRadarDaily = {
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         },
         {
-          "id": "newsnow-f0cb660d6884",
-          "title": "唉，玩机党真是难受，有苹果想要华为，有了 xmax 还想赎回 x，有了 x 又想要荣耀，荣耀玩过了又想要弄台小米（叠甲用），现在又想搞回iqoo，明明之前玩过 15 了但是现在还就是想要[喝酒][喝酒][喝酒]现在又看上了 p90 的芭乐色",
-          "originalTitle": "",
-          "source": "酷安热榜",
-          "brand": "HONOR",
-          "type": "爆料",
-          "trust": "高关注爆料源",
-          "date": "2026-06-07",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://www.coolapk.com/feed/72194521",
-          "image": "",
-          "verdict": "扫一眼",
-          "takeaway": "唉，玩机党真是难受，有苹果想要华为，有了 xmax 还想赎回 x，有了 x 又想要荣耀，荣耀玩过了又想要弄台小米（叠甲用），现在又想搞回iqoo，明明之前玩过 15 了但是现在还就是想要[喝酒][喝酒][喝酒]现在又看上了 p90 的芭乐色",
-          "detail": "唉，玩机党真是难受，有苹果想要华为，有了 xmax 还想赎回 x，有了 x 又想要荣耀，荣耀玩过了又想要弄台小米（叠甲用），现在又想搞回iqoo，明明之前玩过 15 了但是现在还就是想要[喝酒][喝酒][喝酒]现在又看上了 p90 的芭乐色",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
-        {
           "id": "coolapk-user-76467f5f1203",
           "title": "竹本青：【华为nova 16系列 首销日销量曝光：Pro约为上代170%，Ultra约为上代35%】 6月7日，博主「RD…",
           "originalTitle": "",
@@ -356,6 +379,29 @@ window.phoneRadarDaily = {
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        },
+        {
+          "id": "auto-ec84b76c1c69",
+          "title": "OPPO 屏幕规格相关消息",
+          "originalTitle": "",
+          "source": "Gizmochina",
+          "brand": "OPPO",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-06-06",
+          "time": "17:14",
+          "publishedAt": "2026-06-06T17:14:24.000Z",
+          "url": "https://www.gizmochina.com/2026/06/06/iqoo-neo-12-2k-165hz-display-snapdragon-8-elite-gen-5/",
+          "image": "https://www.gizmochina.com/wp-content/uploads/2026/03/iQOO-Neo-11--300x169.webp?x10805",
+          "verdict": "可略过",
+          "takeaway": "OPPO 屏幕规格相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
+          "detail": "OPPO 屏幕规格相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
+          "keyPoints": [
+            "屏幕形态"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "影响手感和显示体验，适合和其他机型对比。",
+          "action": "有具体参数就记录到参数库；没有参数就先收藏。"
         }
       ]
     }

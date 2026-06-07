@@ -1,6 +1,26 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-06-07T09:35:48.297Z",
+  "updatedAt": "2026-06-07T12:01:56.945Z",
   "news": [
+    {
+      "id": "auto-ae1964412a51",
+      "title": "Best Look at Foldable iPhone Design Revealed, May Only Come in White",
+      "source": "MacRumors",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-07",
+      "time": "10:28",
+      "publishedAt": "2026-06-07T10:28:04.000Z",
+      "url": "https://www.macrumors.com/2026/06/07/best-look-yet-at-foldable-iphone-design-revealed/",
+      "image": "https://images.macrumors.com/article-new/2026/06/foldable-iphone-dummy-sonny-dickson.jpg",
+      "summary": "Sonny Dickson today shared detailed images of a foldable iPhone dummy unit with what appears to be a finalized design, providing the best look yet at the device's look, with the s…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-6639948fda66",
       "title": "不交 980 检测费就不退手机，高价回收二手手机骗局曝光",
@@ -55,26 +75,6 @@ window.phoneRadarAuto = {
       "url": "https://www.ithome.com/0/961/058.htm",
       "image": "https://img.ithome.com/newsuploadfiles/2026/6/ada55444-b70d-4227-bad2-0b136b0569cc.png?x-bce-process=image/watermark,text_QUnnlJ_miJA,type_RlpMYW5UaW5nSGVpU0JHQg==,size_28,color_ffffffdd,skw_1,skc_00000051,g_7,blr_50,bls_50,x_11,y_11/format,f_auto",
       "summary": "IT之家 6 月 7 日消息，2026 年全国统一高考今天开考，今天上午进行的是语文科目考试，教育部教育考试院命制的语文作文试题共 2 道，北京、上海、天津采用自主命题。目前各地作文题已公布。 IT之家注意到，小米集团合伙人 / 总裁、手机部总裁、小米品牌总经理卢伟冰刚刚发文， 晒出了使用小米 Mimo 大模型写的北京卷作文 ——《做规划与下功夫》 ，全文…",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-eda0bfed301f",
-      "title": "消息称小米机器人有望亮相 Xiaomi 17T 系列手机发布会",
-      "source": "IT之家",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-07",
-      "time": "04:36",
-      "publishedAt": "2026-06-07T04:36:08.000Z",
-      "url": "https://www.ithome.com/0/961/057.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/6/555e50e3-6801-4684-924e-dfdf4f1ae9c3.jpg?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 6 月 7 日消息，“新浪科技”在微博援引卢伟冰发布的视频，透露小米机器人有望在小米 17T 发布会中亮相。 IT之家注意到，小米机器人 已于今年 4 月亮相小米投资者日活动 ，这款机器人延续了 2022 年 CyberOne“铁大”具身人形设计，机身表面使用暗灰色面料，胸前印有醒目的小米标志，整体具有较强的科技感，不过具体技术细节暂不知悉。 而…",
       "tags": [
         "Xiaomi",
         "爆料",
@@ -222,6 +222,26 @@ window.phoneRadarAuto = {
       ]
     },
     {
+      "id": "newsnow-1485207ec103",
+      "title": "苹果第三方输入法哪家好用啊 最近用的百度但是感觉震动很粘手 有延迟 #iPhone17ProMax# #iPhone17Pro#",
+      "source": "酷安热榜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-06-07",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/72198986",
+      "image": "",
+      "summary": "苹果第三方输入法哪家好用啊 最近用的百度但是感觉震动很粘手 有延迟 #iPhone17ProMax# #iPhone17Pro#",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
       "id": "newsnow-93e0f2bb5d3c",
       "title": "这机子被低估了，这是目前米系性能释放最强，夏天日用最爽的手机，是米系续航第一的手机",
       "source": "酷安热榜",
@@ -242,21 +262,41 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-f0cb660d6884",
-      "title": "唉，玩机党真是难受，有苹果想要华为，有了 xmax 还想赎回 x，有了 x 又想要荣耀，荣耀玩过了又想要弄台小米（叠甲用），现在又想搞回iqoo，明明之前玩过 15 了但是现在还就是想要[喝酒][喝酒][喝酒]现在又看上了 p90 的芭乐色",
-      "source": "酷安热榜",
-      "brand": "HONOR",
-      "model": "HONOR 相关机型",
+      "id": "newsnow-b87ca2e231e7",
+      "title": "iPhone用户的崩溃瞬间",
+      "source": "微博热搜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
       "type": "爆料",
-      "trust": "高关注爆料源",
+      "trust": "待验证",
       "date": "2026-06-07",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72194521",
+      "url": "https://s.weibo.com/weibo?q=iPhone%E7%94%A8%E6%88%B7%E7%9A%84%E5%B4%A9%E6%BA%83%E7%9E%AC%E9%97%B4&t=31&band_rank=5&Refer=top",
       "image": "",
-      "summary": "唉，玩机党真是难受，有苹果想要华为，有了 xmax 还想赎回 x，有了 x 又想要荣耀，荣耀玩过了又想要弄台小米（叠甲用），现在又想搞回iqoo，明明之前玩过 15 了但是现在还就是想要[喝酒][喝酒][喝酒]现在又看上了 p90 的芭乐色",
+      "summary": "iPhone用户的崩溃瞬间",
       "tags": [
-        "HONOR",
+        "iPhone",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-fcf2f2d9c696",
+      "title": "央视曝光手机高价回收骗局",
+      "source": "微博热搜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "待验证",
+      "date": "2026-06-07",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A7%86%E6%9B%9D%E5%85%89%E6%89%8B%E6%9C%BA%E9%AB%98%E4%BB%B7%E5%9B%9E%E6%94%B6%E9%AA%97%E5%B1%80%23&t=31&band_rank=30&Refer=top",
+      "image": "",
+      "summary": "央视曝光手机高价回收骗局",
+      "tags": [
+        "行业",
         "爆料",
         "NewsNow"
       ]
@@ -278,46 +318,6 @@ window.phoneRadarAuto = {
       "tags": [
         "Huawei",
         "市场报告",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-86a63d86c0c8",
-      "title": "女生高考前刷手机刷到作文“答案”",
-      "source": "今日头条热榜",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-07",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.toutiao.com/trending/7647946914349678643/",
-      "image": "",
-      "summary": "女生高考前刷手机刷到作文“答案”",
-      "tags": [
-        "行业",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-93a0da07c074",
-      "title": "女生高考前刷手机刷到作文“答案”",
-      "source": "百度热搜",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-07",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E9%AB%98%E8%80%83%E5%89%8D%E5%88%B7%E6%89%8B%E6%9C%BA%E5%88%B7%E5%88%B0%E4%BD%9C%E6%96%87%E2%80%9C%E7%AD%94%E6%A1%88%E2%80%9D",
-      "image": "",
-      "summary": "女生高考前刷手机刷到作文“答案”",
-      "tags": [
-        "行业",
-        "爆料",
         "NewsNow"
       ]
     },
