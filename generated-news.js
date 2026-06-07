@@ -1,6 +1,86 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-06-07T14:19:40.775Z",
+  "updatedAt": "2026-06-07T17:40:28.684Z",
   "news": [
+    {
+      "id": "auto-d7c0f26c3f88",
+      "title": "Seriously, how do we not have more Android phones with Qi2 yet?",
+      "source": "9to5Google",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-07",
+      "time": "16:00",
+      "publishedAt": "2026-06-07T16:00:00.000Z",
+      "url": "https://9to5google.com/2026/06/07/seriously-how-do-we-not-have-more-android-phones-with-qi2-yet/",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2025/10/baseus-picogo-qi2-25w-battery-1.jpg?quality=82&strip=all&w=1600",
+      "summary": "Ever since the Pixel 10 was released last year, Qi2 magnets have been a love-hate relationship – I love using them, but I hate that, somehow, the Pixel 10 is the only Android phon…",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-9f67a080ad9c",
+      "title": "First look: The Galaxy S26 FE just popped up with a real-world image",
+      "source": "Android Authority",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-07",
+      "time": "15:58",
+      "publishedAt": "2026-06-07T15:58:01.000Z",
+      "url": "https://www.androidauthority.com/galaxy-s26-fe-wpc-image-3675280/",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2026/06/Samsung-Galaxy-S26-FE-hero.jpg",
+      "summary": "Galaxy S26 FE has a new camera bump.",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-9dcacd389796",
+      "title": "TikTokers are swapping their iPhones for Nothing Phones, and I think I understand why",
+      "source": "Android Central",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-06-07",
+      "time": "15:07",
+      "publishedAt": "2026-06-07T15:07:00.000Z",
+      "url": "https://www.androidcentral.com/phones/nothing-phones/tiktokers-are-swapping-their-iphones-for-nothing-phones-and-i-think-i-understand-why",
+      "image": "https://cdn.mos.cms.futurecdn.net/2tk4rjThtHVrD7gvybUnxX-1280-80.jpg",
+      "summary": "The Nothing brand has been growing at an exponential rate, and it looks like a heavy TikTok influence is playing a big role.",
+      "tags": [
+        "iPhone",
+        "评测",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-2576843732fd",
+      "title": "Here’s your first real-life look at the Galaxy S26 FE",
+      "source": "Gizmochina",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-07",
+      "time": "14:25",
+      "publishedAt": "2026-06-07T14:25:09.000Z",
+      "url": "https://www.gizmochina.com/2026/06/07/heres-your-first-real-life-look-at-the-galaxy-s26-fe/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/02/Samsung-Galaxy-S26-300x300.jpg?x10805",
+      "summary": "Samsung‘s next Fan Edition phone is slowly coming into focus. The Galaxy S26 FE with model number SM-S741 has passed WPC (Wireless Power Consortium) certification, which also give…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-4f6a9d55c892",
       "title": "New dummy units give our closest look yet at the iPhone Fold",
@@ -142,26 +222,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-7ca14c11e865",
-      "title": "23年认识的一个女生，被她吊了整整一整年，只接受你的好却不跟你确认关系，24年初气的臭骂她一顿，然后删了她，从此不再相信爱情，直到现在看到她发的抖音，还会心里咯噔一下，想起来很难过，都26年了，相当于都两年半了，怎么释怀啊兄弟们，有当过杰尼龟沸羊羊的兄弟吗出出主意[舒服]#华为Mate80ProMax# #华为Mate80# #华为Mate80Pro#",
-      "source": "酷安热榜",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-06-07",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72196843",
-      "image": "",
-      "summary": "23年认识的一个女生，被她吊了整整一整年，只接受你的好却不跟你确认关系，24年初气的臭骂她一顿，然后删了她，从此不再相信爱情，直到现在看到她发的抖音，还会心里咯噔一下，想起来很难过，都26年了，相当于都两年半了，怎么释怀啊兄弟们，有当过杰尼龟沸羊羊的兄弟吗出出主意[舒服]#华为Mate80ProMax# #华为Mate80# #华为Mate80Pro#",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
       "id": "newsnow-e49db2762cd5",
       "title": "给第一次买华为酷友们提醒一下，Mate 80 Pro Max 是4g手机不是5g手机，手机会显示5gA当不是5g手机。",
       "source": "酷安热榜",
@@ -175,6 +235,26 @@ window.phoneRadarAuto = {
       "url": "https://www.coolapk.com/feed/72202905",
       "image": "",
       "summary": "给第一次买华为酷友们提醒一下，Mate 80 Pro Max 是4g手机不是5g手机，手机会显示5gA当不是5g手机。",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-7ca14c11e865",
+      "title": "23年认识的一个女生，被她吊了整整一整年，只接受你的好却不跟你确认关系，24年初气的臭骂她一顿，然后删了她，从此不再相信爱情，直到现在看到她发的抖音，还会心里咯噔一下，想起来很难过，都26年了，相当于都两年半了，怎么释怀啊兄弟们，有当过杰尼龟沸羊羊的兄弟吗出出主意[舒服]#华为Mate80ProMax# #华为Mate80# #华为Mate80Pro#",
+      "source": "酷安热榜",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-06-07",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/72196843",
+      "image": "",
+      "summary": "23年认识的一个女生，被她吊了整整一整年，只接受你的好却不跟你确认关系，24年初气的臭骂她一顿，然后删了她，从此不再相信爱情，直到现在看到她发的抖音，还会心里咯噔一下，想起来很难过，都26年了，相当于都两年半了，怎么释怀啊兄弟们，有当过杰尼龟沸羊羊的兄弟吗出出主意[舒服]#华为Mate80ProMax# #华为Mate80# #华为Mate80Pro#",
       "tags": [
         "Huawei",
         "爆料",
@@ -222,26 +302,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-eefca00e24be",
-      "title": "iPhone用户的崩溃瞬间",
-      "source": "微博热搜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "待验证",
-      "date": "2026-06-07",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://s.weibo.com/weibo?q=iPhone%E7%94%A8%E6%88%B7%E7%9A%84%E5%B4%A9%E6%BA%83%E7%9E%AC%E9%97%B4&t=31&band_rank=10&Refer=top",
-      "image": "",
-      "summary": "iPhone用户的崩溃瞬间",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
       "id": "newsnow-c6ce62c52702",
       "title": "华为 PuraXMax 首月销量近 35 万台，典藏版卖得更好，这释放了哪些市场信号？",
       "source": "知乎热榜",
@@ -262,19 +322,19 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-bf9d6cbe3206",
-      "title": "女生高举手机跑出考场 旁边杀出黑马",
-      "source": "百度热搜",
+      "id": "newsnow-8faa8001f8a5",
+      "title": "这下董亮的手机真的“没有”了",
+      "source": "抖音热点",
       "brand": "行业",
       "model": "智能手机市场",
       "type": "爆料",
-      "trust": "媒体汇总",
+      "trust": "待验证",
       "date": "2026-06-07",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E9%AB%98%E4%B8%BE%E6%89%8B%E6%9C%BA%E8%B7%91%E5%87%BA%E8%80%83%E5%9C%BA+%E6%97%81%E8%BE%B9%E6%9D%80%E5%87%BA%E9%BB%91%E9%A9%AC",
+      "url": "https://www.douyin.com/hot/2526282",
       "image": "",
-      "summary": "女生高举手机跑出考场 旁边杀出黑马",
+      "summary": "这下董亮的手机真的“没有”了",
       "tags": [
         "行业",
         "爆料",
@@ -342,26 +402,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "weibo-7f000326949b",
-      "title": "数码闲聊站：独家信息：迭代性能机的国产屏权限更高，新机大保底2K+165Hz，正在尝试冲2…",
-      "source": "数码闲聊站",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-06-06",
-      "time": "02:40",
-      "publishedAt": "2026-06-06T02:40:00.000Z",
-      "url": "https://weibo.com/6048569942/R2PQWnrRy",
-      "image": "",
-      "summary": "独家信息，迭代性能机的国产屏权限更高，新机大保底2K+165Hz，正在尝试冲2K+185Hz👖",
-      "tags": [
-        "行业",
-        "爆料",
-        "微博"
-      ]
-    },
-    {
       "id": "auto-e0ab94b4890f",
       "title": "Vivo X500 Ultra drops 10x zoom lens, leaving Oppo Find X10 Ultra as only flagship with dual periscope + 10x zoom",
       "source": "Gizmochina",
@@ -379,26 +419,6 @@ window.phoneRadarAuto = {
         "OPPO",
         "爆料",
         "自动抓取"
-      ]
-    },
-    {
-      "id": "weibo-f7d91b22fa3f",
-      "title": "数码闲聊站：独家，下一代安卓超大杯，阿绿有概率还是唯一双潜望镜+10X超长焦方案，并持续升…",
-      "source": "数码闲聊站",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-06-06",
-      "time": "01:07",
-      "publishedAt": "2026-06-06T01:07:06.000Z",
-      "url": "https://weibo.com/6048569942/R2Pfeo8tM",
-      "image": "",
-      "summary": "独家，下一代安卓超大杯，阿绿有概率还是唯一双潜望镜+10X超长焦方案，并持续升级[偷乐] Tips：安卓阵营原本有一家在评估10X，最新一版样机取消了，还是走2亿单潜望+ISZ路线",
-      "tags": [
-        "行业",
-        "爆料",
-        "微博"
       ]
     }
   ]

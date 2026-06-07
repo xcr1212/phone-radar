@@ -1,5 +1,5 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-06-07T14:19:40.775Z",
+  "updatedAt": "2026-06-07T17:40:28.684Z",
   "issueDate": "2026-06-07",
   "issue": "VOL.260607",
   "title": "手机情报日报",
@@ -112,25 +112,26 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
-          "id": "weibo-7f000326949b",
-          "title": "数码闲聊站：独家信息：迭代性能机的国产屏权限更高，新机大保底2K+165Hz，正在尝试冲2…",
+          "id": "auto-9f67a080ad9c",
+          "title": "Galaxy S26 FE 机模 / 配色信息曝光",
           "originalTitle": "",
-          "source": "数码闲聊站",
-          "brand": "行业",
+          "source": "Android Authority",
+          "brand": "Samsung",
           "type": "爆料",
-          "trust": "高关注爆料源",
-          "date": "2026-06-06",
-          "time": "02:40",
-          "publishedAt": "2026-06-06T02:40:00.000Z",
-          "url": "https://weibo.com/6048569942/R2PQWnrRy",
-          "image": "",
+          "trust": "媒体汇总",
+          "date": "2026-06-07",
+          "time": "15:58",
+          "publishedAt": "2026-06-07T15:58:01.000Z",
+          "url": "https://www.androidauthority.com/galaxy-s26-fe-wpc-image-3675280/",
+          "image": "https://www.androidauthority.com/wp-content/uploads/2026/06/Samsung-Galaxy-S26-FE-hero.jpg",
           "verdict": "先看",
-          "takeaway": "独家信息，迭代性能机的国产屏权限更高，新机大保底2K+165Hz，正在尝试冲2K+185Hz👖",
-          "detail": "独家信息，迭代性能机的国产屏权限更高，新机大保底2K+165Hz，正在尝试冲2K+185Hz👖",
+          "takeaway": "Galaxy S26 FE 机模 / 配色信息曝光。重点看外观、颜色、尺寸是否和上一代有明显变化。",
+          "detail": "Galaxy S26 FE 机模 / 配色信息曝光。来源提到未发布机型的机模/配色图，适合先判断外观方向、颜色变化和机身轮廓，但最终量产版本仍可能调整。",
           "keyPoints": [
-            "爆料来源"
+            "外观 / 配色 / 尺寸",
+            "影像硬件"
           ],
-          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
@@ -183,23 +184,22 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
-          "id": "weibo-f7d91b22fa3f",
-          "title": "数码闲聊站：独家，下一代安卓超大杯，阿绿有概率还是唯一双潜望镜+10X超长焦方案，并持续升…",
+          "id": "auto-e0ab94b4890f",
+          "title": "OPPO 相关消息",
           "originalTitle": "",
-          "source": "数码闲聊站",
-          "brand": "行业",
+          "source": "Gizmochina",
+          "brand": "OPPO",
           "type": "爆料",
-          "trust": "高关注爆料源",
+          "trust": "媒体汇总",
           "date": "2026-06-06",
-          "time": "01:07",
-          "publishedAt": "2026-06-06T01:07:06.000Z",
-          "url": "https://weibo.com/6048569942/R2Pfeo8tM",
-          "image": "",
+          "time": "01:59",
+          "publishedAt": "2026-06-06T01:59:28.000Z",
+          "url": "https://www.gizmochina.com/2026/06/06/oppo-find-x10-ultra-dual-periscope-10x-zoom-exclusive/",
+          "image": "https://www.gizmochina.com/wp-content/uploads/2026/05/OPPO-Find-X9-Ultra-Review_1.mp4_20260521_143613.765-300x150.jpg?x10805",
           "verdict": "先看",
-          "takeaway": "独家，下一代安卓超大杯，阿绿有概率还是唯一双潜望镜+10X超长焦方案，并持续升级[偷乐] Tips：安卓阵营原本有一家在评估10X，最新一版样机取消了，还是走2亿单潜望+ISZ路线",
-          "detail": "独家，下一代安卓超大杯，阿绿有概率还是唯一双潜望镜+10X超长焦方案，并持续升级[偷乐] Tips：安卓阵营原本有一家在评估10X，最新一版样机取消了，还是走2亿单潜望+ISZ路线",
+          "takeaway": "OPPO 相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
+          "detail": "OPPO 相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
           "keyPoints": [
-            "影像硬件",
             "爆料来源"
           ],
           "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
@@ -237,6 +237,29 @@ window.phoneRadarDaily = {
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         },
         {
+          "id": "auto-9dcacd389796",
+          "title": "iPhone 相关消息",
+          "originalTitle": "",
+          "source": "Android Central",
+          "brand": "iPhone",
+          "type": "评测",
+          "trust": "媒体汇总",
+          "date": "2026-06-07",
+          "time": "15:07",
+          "publishedAt": "2026-06-07T15:07:00.000Z",
+          "url": "https://www.androidcentral.com/phones/nothing-phones/tiktokers-are-swapping-their-iphones-for-nothing-phones-and-i-think-i-understand-why",
+          "image": "https://cdn.mos.cms.futurecdn.net/2tk4rjThtHVrD7gvybUnxX-1280-80.jpg",
+          "verdict": "扫一眼",
+          "takeaway": "iPhone 相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
+          "detail": "iPhone 相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
+          "keyPoints": [
+            "评测"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是实际体验内容，买前适合重点看缺点和取舍。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        },
+        {
           "id": "newsnow-88decb98c373",
           "title": "一日一技｜为什么你应该关闭 iOS 的键盘声音",
           "originalTitle": "",
@@ -257,29 +280,6 @@ window.phoneRadarDaily = {
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是实际体验内容，买前适合重点看缺点和取舍。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
-        {
-          "id": "newsnow-eefca00e24be",
-          "title": "iPhone用户的崩溃瞬间",
-          "originalTitle": "",
-          "source": "微博热搜",
-          "brand": "iPhone",
-          "type": "爆料",
-          "trust": "待验证",
-          "date": "2026-06-07",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://s.weibo.com/weibo?q=iPhone%E7%94%A8%E6%88%B7%E7%9A%84%E5%B4%A9%E6%BA%83%E7%9E%AC%E9%97%B4&t=31&band_rank=10&Refer=top",
-          "image": "",
-          "verdict": "扫一眼",
-          "takeaway": "iPhone用户的崩溃瞬间",
-          "detail": "iPhone用户的崩溃瞬间",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         }
       ]
@@ -359,6 +359,29 @@ window.phoneRadarDaily = {
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         },
         {
+          "id": "auto-2576843732fd",
+          "title": "Samsung 相关消息",
+          "originalTitle": "",
+          "source": "Gizmochina",
+          "brand": "Samsung",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-06-07",
+          "time": "14:25",
+          "publishedAt": "2026-06-07T14:25:09.000Z",
+          "url": "https://www.gizmochina.com/2026/06/07/heres-your-first-real-life-look-at-the-galaxy-s26-fe/",
+          "image": "https://www.gizmochina.com/wp-content/uploads/2026/02/Samsung-Galaxy-S26-300x300.jpg?x10805",
+          "verdict": "可略过",
+          "takeaway": "Samsung 相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
+          "detail": "Samsung 相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        },
+        {
           "id": "newsnow-d3c722f45629",
           "title": "没想到这年头买到这么新的mate10，扩容到8+1T，又能钉好几年了[惊讶]",
           "originalTitle": "",
@@ -403,29 +426,6 @@ window.phoneRadarDaily = {
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "影响手感和显示体验，适合和其他机型对比。",
           "action": "有具体参数就记录到参数库；没有参数就先收藏。"
-        },
-        {
-          "id": "auto-7c56b0f425dd",
-          "title": "Samsung 相关消息",
-          "originalTitle": "",
-          "source": "Android Authority",
-          "brand": "Samsung",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-06-06",
-          "time": "10:30",
-          "publishedAt": "2026-06-06T10:30:41.000Z",
-          "url": "https://www.androidauthority.com/motorola-razr-ultra-2026-vs-samsung-galaxy-z-flip-7-hands-on-comparison-3672416/",
-          "image": "https://www.androidauthority.com/wp-content/uploads/2026/05/Motorola-Razr-Ultra-Galaxy-Z-Flip-7-against-sky-scaled.jpg",
-          "verdict": "可略过",
-          "takeaway": "Samsung 相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
-          "detail": "Samsung 相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         }
       ]
     }
