@@ -1,5 +1,5 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-06-07T17:40:28.684Z",
+  "updatedAt": "2026-06-07T19:45:49.602Z",
   "news": [
     {
       "id": "auto-d7c0f26c3f88",
@@ -242,28 +242,8 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-7ca14c11e865",
-      "title": "23年认识的一个女生，被她吊了整整一整年，只接受你的好却不跟你确认关系，24年初气的臭骂她一顿，然后删了她，从此不再相信爱情，直到现在看到她发的抖音，还会心里咯噔一下，想起来很难过，都26年了，相当于都两年半了，怎么释怀啊兄弟们，有当过杰尼龟沸羊羊的兄弟吗出出主意[舒服]#华为Mate80ProMax# #华为Mate80# #华为Mate80Pro#",
-      "source": "酷安热榜",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-06-07",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72196843",
-      "image": "",
-      "summary": "23年认识的一个女生，被她吊了整整一整年，只接受你的好却不跟你确认关系，24年初气的臭骂她一顿，然后删了她，从此不再相信爱情，直到现在看到她发的抖音，还会心里咯噔一下，想起来很难过，都26年了，相当于都两年半了，怎么释怀啊兄弟们，有当过杰尼龟沸羊羊的兄弟吗出出主意[舒服]#华为Mate80ProMax# #华为Mate80# #华为Mate80Pro#",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-d3c722f45629",
-      "title": "没想到这年头买到这么新的mate10，扩容到8+1T，又能钉好几年了[惊讶]",
+      "id": "newsnow-9b9515a576d1",
+      "title": "兄弟们 有没和我一样眼睛敏感的，请问下最后都在用什么手机啊？",
       "source": "酷安热榜",
       "brand": "行业",
       "model": "智能手机市场",
@@ -272,9 +252,9 @@ window.phoneRadarAuto = {
       "date": "2026-06-07",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72176597",
+      "url": "https://www.coolapk.com/feed/72216029",
       "image": "",
-      "summary": "没想到这年头买到这么新的mate10，扩容到8+1T，又能钉好几年了[惊讶]",
+      "summary": "兄弟们 有没和我一样眼睛敏感的，请问下最后都在用什么手机啊？",
       "tags": [
         "行业",
         "爆料",
@@ -297,6 +277,46 @@ window.phoneRadarAuto = {
       "summary": "苹果第三方输入法哪家好用啊 最近用的百度但是感觉震动很粘手 有延迟 #iPhone17ProMax# #iPhone17Pro#",
       "tags": [
         "iPhone",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-7ca14c11e865",
+      "title": "23年认识的一个女生，被她吊了整整一整年，只接受你的好却不跟你确认关系，24年初气的臭骂她一顿，然后删了她，从此不再相信爱情，直到现在看到她发的抖音，还会心里咯噔一下，想起来很难过，都26年了，相当于都两年半了，怎么释怀啊兄弟们，有当过杰尼龟沸羊羊的兄弟吗出出主意[舒服]#华为Mate80ProMax# #华为Mate80# #华为Mate80Pro#",
+      "source": "酷安热榜",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-06-07",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/72196843",
+      "image": "",
+      "summary": "23年认识的一个女生，被她吊了整整一整年，只接受你的好却不跟你确认关系，24年初气的臭骂她一顿，然后删了她，从此不再相信爱情，直到现在看到她发的抖音，还会心里咯噔一下，想起来很难过，都26年了，相当于都两年半了，怎么释怀啊兄弟们，有当过杰尼龟沸羊羊的兄弟吗出出主意[舒服]#华为Mate80ProMax# #华为Mate80# #华为Mate80Pro#",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-bd25751ddcbe",
+      "title": "怎么说 开心的一个周末 因为见到了喜欢的人！不过多久能改一下锐化拍照比安卓黄的问题 但是我觉得我的15pm拍照还是蛮好看的 #周末时光# #手机摄影#",
+      "source": "酷安热榜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-06-07",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/72208111",
+      "image": "",
+      "summary": "怎么说 开心的一个周末 因为见到了喜欢的人！不过多久能改一下锐化拍照比安卓黄的问题 但是我觉得我的15pm拍照还是蛮好看的 #周末时光# #手机摄影#",
+      "tags": [
+        "行业",
         "爆料",
         "NewsNow"
       ]
@@ -359,6 +379,26 @@ window.phoneRadarAuto = {
         "OPPO",
         "爆料",
         "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-051141a334fb",
+      "title": "竹本青：小米17 Max 首销7天数据曝光：同期约为小米17的25%",
+      "source": "竹本青",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-06-06",
+      "time": "12:19",
+      "publishedAt": "2026-06-06T12:19:51.000Z",
+      "url": "https://www.coolapk.com/feed/72196677",
+      "image": "http://image.coolapk.com/feed/2026/0606/20/4248714_adc1fb59_8388_6096_388@1439x699.jpg",
+      "summary": "【小米17 Max 首销7天数据曝光：同期约为小米17的25%，推测提前开售】 6月6日，博主「RD观测」分享第三方统计的小米17 Max销售情况，以首销7日（5.25-5.31）为标准： ▫️同期销量约为小米17的25% ▫️在开售前（22-24日）累计激活达到万量级，推测存在提前开售情况 #今日热点# #小米17# #小米17Max#",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "酷安博主"
       ]
     },
     {

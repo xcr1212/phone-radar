@@ -1,5 +1,5 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-06-07T17:40:28.684Z",
+  "updatedAt": "2026-06-07T19:45:49.602Z",
   "issueDate": "2026-06-07",
   "issue": "VOL.260607",
   "title": "手机情报日报",
@@ -313,6 +313,29 @@ window.phoneRadarDaily = {
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         },
         {
+          "id": "newsnow-9b9515a576d1",
+          "title": "兄弟们 有没和我一样眼睛敏感的，请问下最后都在用什么手机啊？",
+          "originalTitle": "",
+          "source": "酷安热榜",
+          "brand": "行业",
+          "type": "爆料",
+          "trust": "高关注爆料源",
+          "date": "2026-06-07",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://www.coolapk.com/feed/72216029",
+          "image": "",
+          "verdict": "扫一眼",
+          "takeaway": "兄弟们 有没和我一样眼睛敏感的，请问下最后都在用什么手机啊？",
+          "detail": "兄弟们 有没和我一样眼睛敏感的，请问下最后都在用什么手机啊？",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        },
+        {
           "id": "newsnow-7ca14c11e865",
           "title": "23年认识的一个女生，被她吊了整整一整年，只接受你的好却不跟你确认关系，24年初气的臭骂她一顿，然后删了她，从此不再相信爱情，直到现在看到她发的抖音，还会心里咯噔一下，想起来很难过，都26年了，相当于都两年半了，怎么释怀啊兄弟们，有当过杰尼龟沸羊羊的兄弟吗出出主意[舒服]#华为Mate80ProMax# #华为Mate80# #华为Mate80Pro#",
           "originalTitle": "",
@@ -328,6 +351,29 @@ window.phoneRadarDaily = {
           "verdict": "扫一眼",
           "takeaway": "23年认识的一个女生，被她吊了整整一整年，只接受你的好却不跟你确认关系，24年初气的臭骂她一顿，然后删了她，从此不再相信爱情，直到现在看到她发的抖音，还会心里咯噔一下，想起来很难过，都26年了，相当于都两年半了，怎么释怀啊兄弟们，有当过杰尼龟沸羊羊的兄弟吗出出主意[舒服]#华为Mate80ProMax# #华为Mate80# #华为Mate80Pro#",
           "detail": "23年认识的一个女生，被她吊了整整一整年，只接受你的好却不跟你确认关系，24年初气的臭骂她一顿，然后删了她，从此不再相信爱情，直到现在看到她发的抖音，还会心里咯噔一下，想起来很难过，都26年了，相当于都两年半了，怎么释怀啊兄弟们，有当过杰尼龟沸羊羊的兄弟吗出出主意[舒服]#华为Mate80ProMax# #华为Mate80# #华为Mate80Pro#",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        },
+        {
+          "id": "newsnow-bd25751ddcbe",
+          "title": "怎么说 开心的一个周末 因为见到了喜欢的人！不过多久能改一下锐化拍照比安卓黄的问题 但是我觉得我的15pm拍照还是蛮好看的 #周末时光# #手机摄影#",
+          "originalTitle": "",
+          "source": "酷安热榜",
+          "brand": "行业",
+          "type": "爆料",
+          "trust": "高关注爆料源",
+          "date": "2026-06-07",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://www.coolapk.com/feed/72208111",
+          "image": "",
+          "verdict": "扫一眼",
+          "takeaway": "怎么说 开心的一个周末 因为见到了喜欢的人！不过多久能改一下锐化拍照比安卓黄的问题 但是我觉得我的15pm拍照还是蛮好看的 #周末时光# #手机摄影#",
+          "detail": "怎么说 开心的一个周末 因为见到了喜欢的人！不过多久能改一下锐化拍照比安卓黄的问题 但是我觉得我的15pm拍照还是蛮好看的 #周末时光# #手机摄影#",
           "keyPoints": [
             "爆料"
           ],
@@ -359,73 +405,27 @@ window.phoneRadarDaily = {
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         },
         {
-          "id": "auto-2576843732fd",
-          "title": "Samsung 相关消息",
+          "id": "coolapk-user-051141a334fb",
+          "title": "竹本青：小米17 Max 首销7天数据曝光：同期约为小米17的25%",
           "originalTitle": "",
-          "source": "Gizmochina",
-          "brand": "Samsung",
+          "source": "竹本青",
+          "brand": "Xiaomi",
           "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-06-07",
-          "time": "14:25",
-          "publishedAt": "2026-06-07T14:25:09.000Z",
-          "url": "https://www.gizmochina.com/2026/06/07/heres-your-first-real-life-look-at-the-galaxy-s26-fe/",
-          "image": "https://www.gizmochina.com/wp-content/uploads/2026/02/Samsung-Galaxy-S26-300x300.jpg?x10805",
-          "verdict": "可略过",
-          "takeaway": "Samsung 相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
-          "detail": "Samsung 相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
-        {
-          "id": "newsnow-d3c722f45629",
-          "title": "没想到这年头买到这么新的mate10，扩容到8+1T，又能钉好几年了[惊讶]",
-          "originalTitle": "",
-          "source": "酷安热榜",
-          "brand": "行业",
-          "type": "爆料",
-          "trust": "高关注爆料源",
-          "date": "2026-06-07",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://www.coolapk.com/feed/72176597",
-          "image": "",
-          "verdict": "可略过",
-          "takeaway": "没想到这年头买到这么新的mate10，扩容到8+1T，又能钉好几年了[惊讶]",
-          "detail": "没想到这年头买到这么新的mate10，扩容到8+1T，又能钉好几年了[惊讶]",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
-        {
-          "id": "auto-ec84b76c1c69",
-          "title": "OPPO 屏幕规格相关消息",
-          "originalTitle": "",
-          "source": "Gizmochina",
-          "brand": "OPPO",
-          "type": "爆料",
-          "trust": "媒体汇总",
+          "trust": "高可信爆料",
           "date": "2026-06-06",
-          "time": "17:14",
-          "publishedAt": "2026-06-06T17:14:24.000Z",
-          "url": "https://www.gizmochina.com/2026/06/06/iqoo-neo-12-2k-165hz-display-snapdragon-8-elite-gen-5/",
-          "image": "https://www.gizmochina.com/wp-content/uploads/2026/03/iQOO-Neo-11--300x169.webp?x10805",
-          "verdict": "可略过",
-          "takeaway": "OPPO 屏幕规格相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
-          "detail": "OPPO 屏幕规格相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
+          "time": "12:19",
+          "publishedAt": "2026-06-06T12:19:51.000Z",
+          "url": "https://www.coolapk.com/feed/72196677",
+          "image": "http://image.coolapk.com/feed/2026/0606/20/4248714_adc1fb59_8388_6096_388@1439x699.jpg",
+          "verdict": "扫一眼",
+          "takeaway": "【小米17 Max 首销7天数据曝光：同期约为小米17的25%，推测提前开售】 6月6日，博主「RD观测」分享第三方统计的小米17 Max销售情况，以首销7日（5.25-5.31）为标准： ▫️同期销量约为小米17的25% ▫️在开售前（22-24日）累计激活达到万量级，推测存在提前开售情况 #今日热点# #小米17# #小米17Max#",
+          "detail": "【小米17 Max 首销7天数据曝光：同期约为小米17的25%，推测提前开售】 6月6日，博主「RD观测」分享第三方统计的小米17 Max销售情况，以首销7日（5.25-5.31）为标准： ▫️同期销量约为小米17的25% ▫️在开售前（22-24日）累计激活达到万量级，推测存在提前开售情况 #今日热点# #小米17# #小米17Max#",
           "keyPoints": [
-            "屏幕形态"
+            "爆料"
           ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "影响手感和显示体验，适合和其他机型对比。",
-          "action": "有具体参数就记录到参数库；没有参数就先收藏。"
+          "confidence": "可信度较高，但仍属于发布前线索。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         }
       ]
     }
