@@ -1,6 +1,26 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-06-07T19:45:49.602Z",
+  "updatedAt": "2026-06-07T21:36:07.758Z",
   "news": [
+    {
+      "id": "auto-7f8b92c4cde6",
+      "title": "Surprise: The Galaxy S26 FE might be borrowing a design feature from Samsung's flagships",
+      "source": "Android Central",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-06-07",
+      "time": "20:08",
+      "publishedAt": "2026-06-07T20:08:22.000Z",
+      "url": "https://www.androidcentral.com/phones/samsung-galaxy/samsung-galaxy-s26-fe-leaks-reveal",
+      "image": "https://cdn.mos.cms.futurecdn.net/wtxvdX499hQ8iyMTHK6Yj4-1280-80.jpg",
+      "summary": "A new certification listing offers an early look at the upcoming Galaxy S26 FE.",
+      "tags": [
+        "Samsung",
+        "评测",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-d7c0f26c3f88",
       "title": "Seriously, how do we not have more Android phones with Qi2 yet?",
@@ -282,26 +302,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-7ca14c11e865",
-      "title": "23年认识的一个女生，被她吊了整整一整年，只接受你的好却不跟你确认关系，24年初气的臭骂她一顿，然后删了她，从此不再相信爱情，直到现在看到她发的抖音，还会心里咯噔一下，想起来很难过，都26年了，相当于都两年半了，怎么释怀啊兄弟们，有当过杰尼龟沸羊羊的兄弟吗出出主意[舒服]#华为Mate80ProMax# #华为Mate80# #华为Mate80Pro#",
-      "source": "酷安热榜",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-06-07",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72196843",
-      "image": "",
-      "summary": "23年认识的一个女生，被她吊了整整一整年，只接受你的好却不跟你确认关系，24年初气的臭骂她一顿，然后删了她，从此不再相信爱情，直到现在看到她发的抖音，还会心里咯噔一下，想起来很难过，都26年了，相当于都两年半了，怎么释怀啊兄弟们，有当过杰尼龟沸羊羊的兄弟吗出出主意[舒服]#华为Mate80ProMax# #华为Mate80# #华为Mate80Pro#",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
       "id": "newsnow-bd25751ddcbe",
       "title": "怎么说 开心的一个周末 因为见到了喜欢的人！不过多久能改一下锐化拍照比安卓黄的问题 但是我觉得我的15pm拍照还是蛮好看的 #周末时光# #手机摄影#",
       "source": "酷安热榜",
@@ -317,6 +317,26 @@ window.phoneRadarAuto = {
       "summary": "怎么说 开心的一个周末 因为见到了喜欢的人！不过多久能改一下锐化拍照比安卓黄的问题 但是我觉得我的15pm拍照还是蛮好看的 #周末时光# #手机摄影#",
       "tags": [
         "行业",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-7ca14c11e865",
+      "title": "23年认识的一个女生，被她吊了整整一整年，只接受你的好却不跟你确认关系，24年初气的臭骂她一顿，然后删了她，从此不再相信爱情，直到现在看到她发的抖音，还会心里咯噔一下，想起来很难过，都26年了，相当于都两年半了，怎么释怀啊兄弟们，有当过杰尼龟沸羊羊的兄弟吗出出主意[舒服]#华为Mate80ProMax# #华为Mate80# #华为Mate80Pro#",
+      "source": "酷安热榜",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-06-07",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/72196843",
+      "image": "",
+      "summary": "23年认识的一个女生，被她吊了整整一整年，只接受你的好却不跟你确认关系，24年初气的臭骂她一顿，然后删了她，从此不再相信爱情，直到现在看到她发的抖音，还会心里咯噔一下，想起来很难过，都26年了，相当于都两年半了，怎么释怀啊兄弟们，有当过杰尼龟沸羊羊的兄弟吗出出主意[舒服]#华为Mate80ProMax# #华为Mate80# #华为Mate80Pro#",
+      "tags": [
+        "Huawei",
         "爆料",
         "NewsNow"
       ]
