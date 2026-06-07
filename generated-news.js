@@ -1,6 +1,26 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-06-07T21:36:07.758Z",
+  "updatedAt": "2026-06-07T23:19:11.337Z",
   "news": [
+    {
+      "id": "auto-363d2d926f74",
+      "title": "苹果折叠屏 iPhone Fold 机模高清细节图曝光，或仅推出白色版本",
+      "source": "IT之家",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-07",
+      "time": "22:49",
+      "publishedAt": "2026-06-07T22:49:24.000Z",
+      "url": "https://www.ithome.com/0/961/193.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/6/b22587f9-d298-4a20-84d4-ff08b2345451.jpg?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 6 月 8 日消息，爆料人 Sonny Dickson 今日放出了一组折叠屏 iPhone（或名为 iPhone Fold）机模的高清细节图，该机外观设计看似已基本定型。消息同时透露，这款折叠机型或将仅推出白色版本。 机模主要用于线下展示，也供配件厂商参考。配件商需要高度还原机身尺寸，才能在新机正式发布前，批量生产手机壳等周边配件。今年 4 月，…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-7f8b92c4cde6",
       "title": "Surprise: The Galaxy S26 FE might be borrowing a design feature from Samsung's flagships",
@@ -162,26 +182,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-8f159f41da55",
-      "title": "小米 17T 系列手机参数曝光：天玑 8500-Ultra / 天玑 9500 处理器，7000mAh 电池",
-      "source": "IT之家",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-07",
-      "time": "07:51",
-      "publishedAt": "2026-06-07T07:51:51.000Z",
-      "url": "https://www.ithome.com/0/961/109.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/6/645d123b-aed2-4b4b-94e3-95def3a1a589.jpg?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 6 月 7 日消息，小米 17T 系列手机将于 6 月 8 日正式发布，包含小米 17T Pro、小米 17T 两款手机，定位“全能影像旗舰”。博主 @体验more 今日曝光了两款新机的主要参数。 小米 17T 天玑 8500-Ultra 处理器 +LPDDR5X+UFS4.1 光影猎人 800 1/1.55 f/1.7 OIS+12MP f/2…",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "coolapk-user-76467f5f1203",
       "title": "竹本青：【华为nova 16系列 首销日销量曝光：Pro约为上代170%，Ultra约为上代35%】 6月7日，博主「RD…",
       "source": "竹本青",
@@ -337,6 +337,26 @@ window.phoneRadarAuto = {
       "summary": "23年认识的一个女生，被她吊了整整一整年，只接受你的好却不跟你确认关系，24年初气的臭骂她一顿，然后删了她，从此不再相信爱情，直到现在看到她发的抖音，还会心里咯噔一下，想起来很难过，都26年了，相当于都两年半了，怎么释怀啊兄弟们，有当过杰尼龟沸羊羊的兄弟吗出出主意[舒服]#华为Mate80ProMax# #华为Mate80# #华为Mate80Pro#",
       "tags": [
         "Huawei",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-3c8620ce662d",
+      "title": "感觉自己摄影技术差的没救了，昨天拍妹子，相机拍了一堆废片，回去打开一开后期都欲望都没，倒是用手机稍微拍几张虽然一般但还能看[喷]#手机摄影#",
+      "source": "酷安热榜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-06-07",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/72205784",
+      "image": "",
+      "summary": "感觉自己摄影技术差的没救了，昨天拍妹子，相机拍了一堆废片，回去打开一开后期都欲望都没，倒是用手机稍微拍几张虽然一般但还能看[喷]#手机摄影#",
+      "tags": [
+        "行业",
         "爆料",
         "NewsNow"
       ]

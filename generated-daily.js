@@ -1,12 +1,12 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-06-07T21:36:07.758Z",
+  "updatedAt": "2026-06-07T23:19:11.337Z",
   "issueDate": "2026-06-07",
   "issue": "VOL.260607",
   "title": "手机情报日报",
-  "intro": "今日筛出 18 条重点，其中 8 条是重点爆料，包含 5 条 iPhone 相关、0 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 18 条重点，其中 8 条是重点爆料，包含 6 条 iPhone 相关、0 条官方确认、0 条参数线索。",
   "stats": {
     "total": 18,
-    "iphone": 5,
+    "iphone": 6,
     "leaks": 8,
     "official": 0,
     "specs": 0
@@ -17,6 +17,31 @@ window.phoneRadarDaily = {
       "title": "重点爆料",
       "hint": "机模、配色、影像、屏幕、电池和芯片线索先看。",
       "items": [
+        {
+          "id": "auto-363d2d926f74",
+          "title": "苹果折叠屏 iPhone Fold 机模高清细节图曝光，或仅推出白色版本",
+          "originalTitle": "",
+          "source": "IT之家",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-06-07",
+          "time": "22:49",
+          "publishedAt": "2026-06-07T22:49:24.000Z",
+          "url": "https://www.ithome.com/0/961/193.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/6/b22587f9-d298-4a20-84d4-ff08b2345451.jpg?x-bce-process=image/format,f_auto",
+          "verdict": "先看",
+          "takeaway": "IT之家 6 月 8 日消息，爆料人 Sonny Dickson 今日放出了一组折叠屏 iPhone（或名为 iPhone Fold）机模的高清细节图，该机外观设计看似已基本定型。消息同时透露，这款折叠机型或将仅推出白色版本。 机模主要用于线下展示，也供配件厂商参考。配件商需要高度还原机身尺寸，才能在新机正式发布前，批量生产手机壳等周边配件。今年 4 月，…",
+          "detail": "IT之家 6 月 8 日消息，爆料人 Sonny Dickson 今日放出了一组折叠屏 iPhone（或名为 iPhone Fold）机模的高清细节图，该机外观设计看似已基本定型。消息同时透露，这款折叠机型或将仅推出白色版本。 机模主要用于线下展示，也供配件厂商参考。配件商需要高度还原机身尺寸，才能在新机正式发布前，批量生产手机壳等周边配件。今年 4 月，…",
+          "keyPoints": [
+            "外观 / 配色 / 尺寸",
+            "屏幕形态",
+            "爆料来源"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
         {
           "id": "auto-4f6a9d55c892",
           "title": "iPhone 机模 / 配色信息曝光",
@@ -64,31 +89,6 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
-          "id": "auto-8f159f41da55",
-          "title": "小米 17T 系列手机参数曝光：天玑 8500-Ultra / 天玑 9500 处理器，7000mAh 电池",
-          "originalTitle": "",
-          "source": "IT之家",
-          "brand": "Xiaomi",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-06-07",
-          "time": "07:51",
-          "publishedAt": "2026-06-07T07:51:51.000Z",
-          "url": "https://www.ithome.com/0/961/109.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/6/645d123b-aed2-4b4b-94e3-95def3a1a589.jpg?x-bce-process=image/format,f_auto",
-          "verdict": "先看",
-          "takeaway": "IT之家 6 月 7 日消息，小米 17T 系列手机将于 6 月 8 日正式发布，包含小米 17T Pro、小米 17T 两款手机，定位“全能影像旗舰”。博主 @体验more 今日曝光了两款新机的主要参数。 小米 17T 天玑 8500-Ultra 处理器 +LPDDR5X+UFS4.1 光影猎人 800 1/1.55 f/1.7 OIS+12MP f/2…",
-          "detail": "IT之家 6 月 7 日消息，小米 17T 系列手机将于 6 月 8 日正式发布，包含小米 17T Pro、小米 17T 两款手机，定位“全能影像旗舰”。博主 @体验more 今日曝光了两款新机的主要参数。 小米 17T 天玑 8500-Ultra 处理器 +LPDDR5X+UFS4.1 光影猎人 800 1/1.55 f/1.7 OIS+12MP f/2…",
-          "keyPoints": [
-            "影像硬件",
-            "电池 / 充电",
-            "芯片 / 性能"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
           "id": "auto-6639948fda66",
           "title": "不交 980 检测费就不退手机，高价回收二手手机骗局曝光",
           "originalTitle": "",
@@ -106,6 +106,29 @@ window.phoneRadarDaily = {
           "detail": "IT之家 6 月 7 日消息，据央视新闻今天报道，市场上最近出现一种手机高价回收骗局，骗子首先会放出高价回收二手机诱饵，受害人真的去回收时会被无端压价，想要拿回手机时还会被高价验机费再摆一道。 前段时间，山东菏泽的李先生刷短视频时看到高价回收二手手机广告，线下实体回收最多给 1000 元的手机，对方声称能给到 2000 元。李先生一看价格合适就心动了， 立…",
           "keyPoints": [
             "成本 / 价格"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "newsnow-3c8620ce662d",
+          "title": "感觉自己摄影技术差的没救了，昨天拍妹子，相机拍了一堆废片，回去打开一开后期都欲望都没，倒是用手机稍微拍几张虽然一般但还能看[喷]#手机摄影#",
+          "originalTitle": "",
+          "source": "酷安热榜",
+          "brand": "行业",
+          "type": "爆料",
+          "trust": "高关注爆料源",
+          "date": "2026-06-07",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://www.coolapk.com/feed/72205784",
+          "image": "",
+          "verdict": "先看",
+          "takeaway": "感觉自己摄影技术差的没救了，昨天拍妹子，相机拍了一堆废片，回去打开一开后期都欲望都没，倒是用手机稍微拍几张虽然一般但还能看[喷]#手机摄影#",
+          "detail": "感觉自己摄影技术差的没救了，昨天拍妹子，相机拍了一堆废片，回去打开一开后期都欲望都没，倒是用手机稍微拍几张虽然一般但还能看[喷]#手机摄影#",
+          "keyPoints": [
+            "影像硬件"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
@@ -180,29 +203,6 @@ window.phoneRadarDaily = {
             "屏幕形态"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "auto-e0ab94b4890f",
-          "title": "OPPO 相关消息",
-          "originalTitle": "",
-          "source": "Gizmochina",
-          "brand": "OPPO",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-06-06",
-          "time": "01:59",
-          "publishedAt": "2026-06-06T01:59:28.000Z",
-          "url": "https://www.gizmochina.com/2026/06/06/oppo-find-x10-ultra-dual-periscope-10x-zoom-exclusive/",
-          "image": "https://www.gizmochina.com/wp-content/uploads/2026/05/OPPO-Find-X9-Ultra-Review_1.mp4_20260521_143613.765-300x150.jpg?x10805",
-          "verdict": "先看",
-          "takeaway": "OPPO 相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
-          "detail": "OPPO 相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
-          "keyPoints": [
-            "爆料来源"
-          ],
-          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         }
