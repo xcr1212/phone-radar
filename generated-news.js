@@ -1,6 +1,26 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-06-07T12:01:56.945Z",
+  "updatedAt": "2026-06-07T14:19:40.775Z",
   "news": [
+    {
+      "id": "auto-4f6a9d55c892",
+      "title": "New dummy units give our closest look yet at the iPhone Fold",
+      "source": "9to5Mac",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-07",
+      "time": "13:29",
+      "publishedAt": "2026-06-07T13:29:38.000Z",
+      "url": "https://9to5mac.com/2026/06/07/dummy-unit-iphone-fold-ultra-new-look/",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/iphone-foldable-dummy-photos.jpg?quality=82&strip=all&w=1600",
+      "summary": "We don’t know yet whether Apple will call it the iPhone Fold, iPhone Ultra, or something else — but everyone expects the company to announce its first foldable phone later this ye…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-ae1964412a51",
       "title": "Best Look at Foldable iPhone Design Revealed, May Only Come in White",
@@ -55,26 +75,6 @@ window.phoneRadarAuto = {
       "url": "https://www.ithome.com/0/961/109.htm",
       "image": "https://img.ithome.com/newsuploadfiles/2026/6/645d123b-aed2-4b4b-94e3-95def3a1a589.jpg?x-bce-process=image/format,f_auto",
       "summary": "IT之家 6 月 7 日消息，小米 17T 系列手机将于 6 月 8 日正式发布，包含小米 17T Pro、小米 17T 两款手机，定位“全能影像旗舰”。博主 @体验more 今日曝光了两款新机的主要参数。 小米 17T 天玑 8500-Ultra 处理器 +LPDDR5X+UFS4.1 光影猎人 800 1/1.55 f/1.7 OIS+12MP f/2…",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-d3de78f96b7e",
-      "title": "2026 高考语文落下帷幕，卢伟冰晒出小米 Mimo 大模型写的北京卷作文",
-      "source": "IT之家",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-07",
-      "time": "05:00",
-      "publishedAt": "2026-06-07T05:00:54.000Z",
-      "url": "https://www.ithome.com/0/961/058.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/6/ada55444-b70d-4227-bad2-0b136b0569cc.png?x-bce-process=image/watermark,text_QUnnlJ_miJA,type_RlpMYW5UaW5nSGVpU0JHQg==,size_28,color_ffffffdd,skw_1,skc_00000051,g_7,blr_50,bls_50,x_11,y_11/format,f_auto",
-      "summary": "IT之家 6 月 7 日消息，2026 年全国统一高考今天开考，今天上午进行的是语文科目考试，教育部教育考试院命制的语文作文试题共 2 道，北京、上海、天津采用自主命题。目前各地作文题已公布。 IT之家注意到，小米集团合伙人 / 总裁、手机部总裁、小米品牌总经理卢伟冰刚刚发文， 晒出了使用小米 Mimo 大模型写的北京卷作文 ——《做规划与下功夫》 ，全文…",
       "tags": [
         "Xiaomi",
         "爆料",
@@ -202,26 +202,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-b6286459508e",
-      "title": "去年给老妈买的k80，在村里河边洗衣服的时候掉河里捞不起来了[捂脸][捂脸]现在很久没研究手机了，这几款哪个最好一点啊，有兄弟说一下吗[亲亲] #REDMITurbo5Max# #iQOOZ10Turbo+# #红米K90#",
-      "source": "酷安热榜",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-06-07",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72190414",
-      "image": "",
-      "summary": "去年给老妈买的k80，在村里河边洗衣服的时候掉河里捞不起来了[捂脸][捂脸]现在很久没研究手机了，这几款哪个最好一点啊，有兄弟说一下吗[亲亲] #REDMITurbo5Max# #iQOOZ10Turbo+# #红米K90#",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
       "id": "newsnow-1485207ec103",
       "title": "苹果第三方输入法哪家好用啊 最近用的百度但是感觉震动很粘手 有延迟 #iPhone17ProMax# #iPhone17Pro#",
       "source": "酷安热榜",
@@ -242,27 +222,7 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-93e0f2bb5d3c",
-      "title": "这机子被低估了，这是目前米系性能释放最强，夏天日用最爽的手机，是米系续航第一的手机",
-      "source": "酷安热榜",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-06-07",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72174502",
-      "image": "",
-      "summary": "这机子被低估了，这是目前米系性能释放最强，夏天日用最爽的手机，是米系续航第一的手机",
-      "tags": [
-        "行业",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-b87ca2e231e7",
+      "id": "newsnow-eefca00e24be",
       "title": "iPhone用户的崩溃瞬间",
       "source": "微博热搜",
       "brand": "iPhone",
@@ -272,31 +232,11 @@ window.phoneRadarAuto = {
       "date": "2026-06-07",
       "time": "",
       "publishedAt": "",
-      "url": "https://s.weibo.com/weibo?q=iPhone%E7%94%A8%E6%88%B7%E7%9A%84%E5%B4%A9%E6%BA%83%E7%9E%AC%E9%97%B4&t=31&band_rank=5&Refer=top",
+      "url": "https://s.weibo.com/weibo?q=iPhone%E7%94%A8%E6%88%B7%E7%9A%84%E5%B4%A9%E6%BA%83%E7%9E%AC%E9%97%B4&t=31&band_rank=10&Refer=top",
       "image": "",
       "summary": "iPhone用户的崩溃瞬间",
       "tags": [
         "iPhone",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-fcf2f2d9c696",
-      "title": "央视曝光手机高价回收骗局",
-      "source": "微博热搜",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "待验证",
-      "date": "2026-06-07",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A7%86%E6%9B%9D%E5%85%89%E6%89%8B%E6%9C%BA%E9%AB%98%E4%BB%B7%E5%9B%9E%E6%94%B6%E9%AA%97%E5%B1%80%23&t=31&band_rank=30&Refer=top",
-      "image": "",
-      "summary": "央视曝光手机高价回收骗局",
-      "tags": [
-        "行业",
         "爆料",
         "NewsNow"
       ]
@@ -322,6 +262,26 @@ window.phoneRadarAuto = {
       ]
     },
     {
+      "id": "newsnow-bf9d6cbe3206",
+      "title": "女生高举手机跑出考场 旁边杀出黑马",
+      "source": "百度热搜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-07",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E9%AB%98%E4%B8%BE%E6%89%8B%E6%9C%BA%E8%B7%91%E5%87%BA%E8%80%83%E5%9C%BA+%E6%97%81%E8%BE%B9%E6%9D%80%E5%87%BA%E9%BB%91%E9%A9%AC",
+      "image": "",
+      "summary": "女生高举手机跑出考场 旁边杀出黑马",
+      "tags": [
+        "行业",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
       "id": "auto-ec84b76c1c69",
       "title": "iQOO Neo 12 could prove OnePlus wrong: A 2K screen at 165Hz may finally be real",
       "source": "Gizmochina",
@@ -335,26 +295,6 @@ window.phoneRadarAuto = {
       "url": "https://www.gizmochina.com/2026/06/06/iqoo-neo-12-2k-165hz-display-snapdragon-8-elite-gen-5/",
       "image": "https://www.gizmochina.com/wp-content/uploads/2026/03/iQOO-Neo-11--300x169.webp?x10805",
       "summary": "Last year, OnePlus claimed that combining a 2K display with a 165Hz refresh rate was simply not possible. OnePlus China President Li Jie explained that no display manufacturer had…",
-      "tags": [
-        "OPPO",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-40d8a988e909",
-      "title": "Everyone says OnePlus is dead, but I just saw the OnePlus 16 specs and changed my mind",
-      "source": "Android Police",
-      "brand": "OPPO",
-      "model": "OPPO 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-06",
-      "time": "13:30",
-      "publishedAt": "2026-06-06T13:30:10.000Z",
-      "url": "https://www.androidpolice.com/people-say-oneplus-is-dead-why-does-oneplus-16-sound-good/",
-      "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2026/06/oneplus-16-smartphone-floating-in-front-of-a-glowing-blue-16-surrounded-by-drifting-ash-particles-and-light-smoke.png",
-      "summary": "Rumors of its demise are ... quite tempting?",
       "tags": [
         "OPPO",
         "爆料",
@@ -402,6 +342,26 @@ window.phoneRadarAuto = {
       ]
     },
     {
+      "id": "weibo-7f000326949b",
+      "title": "数码闲聊站：独家信息：迭代性能机的国产屏权限更高，新机大保底2K+165Hz，正在尝试冲2…",
+      "source": "数码闲聊站",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-06-06",
+      "time": "02:40",
+      "publishedAt": "2026-06-06T02:40:00.000Z",
+      "url": "https://weibo.com/6048569942/R2PQWnrRy",
+      "image": "",
+      "summary": "独家信息，迭代性能机的国产屏权限更高，新机大保底2K+165Hz，正在尝试冲2K+185Hz👖",
+      "tags": [
+        "行业",
+        "爆料",
+        "微博"
+      ]
+    },
+    {
       "id": "auto-e0ab94b4890f",
       "title": "Vivo X500 Ultra drops 10x zoom lens, leaving Oppo Find X10 Ultra as only flagship with dual periscope + 10x zoom",
       "source": "Gizmochina",
@@ -419,6 +379,26 @@ window.phoneRadarAuto = {
         "OPPO",
         "爆料",
         "自动抓取"
+      ]
+    },
+    {
+      "id": "weibo-f7d91b22fa3f",
+      "title": "数码闲聊站：独家，下一代安卓超大杯，阿绿有概率还是唯一双潜望镜+10X超长焦方案，并持续升…",
+      "source": "数码闲聊站",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-06-06",
+      "time": "01:07",
+      "publishedAt": "2026-06-06T01:07:06.000Z",
+      "url": "https://weibo.com/6048569942/R2Pfeo8tM",
+      "image": "",
+      "summary": "独家，下一代安卓超大杯，阿绿有概率还是唯一双潜望镜+10X超长焦方案，并持续升级[偷乐] Tips：安卓阵营原本有一家在评估10X，最新一版样机取消了，还是走2亿单潜望+ISZ路线",
+      "tags": [
+        "行业",
+        "爆料",
+        "微博"
       ]
     }
   ]

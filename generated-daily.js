@@ -1,13 +1,13 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-06-07T12:01:56.945Z",
+  "updatedAt": "2026-06-07T14:19:40.775Z",
   "issueDate": "2026-06-07",
   "issue": "VOL.260607",
   "title": "手机情报日报",
-  "intro": "今日筛出 16 条重点，其中 7 条是重点爆料，包含 4 条 iPhone 相关、0 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 17 条重点，其中 8 条是重点爆料，包含 5 条 iPhone 相关、0 条官方确认、0 条参数线索。",
   "stats": {
-    "total": 16,
-    "iphone": 4,
-    "leaks": 7,
+    "total": 17,
+    "iphone": 5,
+    "leaks": 8,
     "official": 0,
     "specs": 0
   },
@@ -17,6 +17,29 @@ window.phoneRadarDaily = {
       "title": "重点爆料",
       "hint": "机模、配色、影像、屏幕、电池和芯片线索先看。",
       "items": [
+        {
+          "id": "auto-4f6a9d55c892",
+          "title": "iPhone 机模 / 配色信息曝光",
+          "originalTitle": "",
+          "source": "9to5Mac",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-06-07",
+          "time": "13:29",
+          "publishedAt": "2026-06-07T13:29:38.000Z",
+          "url": "https://9to5mac.com/2026/06/07/dummy-unit-iphone-fold-ultra-new-look/",
+          "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/iphone-foldable-dummy-photos.jpg?quality=82&strip=all&w=1600",
+          "verdict": "先看",
+          "takeaway": "iPhone 机模 / 配色信息曝光。已转成中文摘要展示，详细内容可打开原文核对。",
+          "detail": "iPhone 机模 / 配色信息曝光。来源提到未发布机型的机模/配色图，适合先判断外观方向、颜色变化和机身轮廓，但最终量产版本仍可能调整。",
+          "keyPoints": [
+            "外观 / 配色 / 尺寸"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
         {
           "id": "auto-ae1964412a51",
           "title": "iPhone 外观设计线索曝光",
@@ -89,25 +112,25 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
-          "id": "newsnow-93e0f2bb5d3c",
-          "title": "这机子被低估了，这是目前米系性能释放最强，夏天日用最爽的手机，是米系续航第一的手机",
+          "id": "weibo-7f000326949b",
+          "title": "数码闲聊站：独家信息：迭代性能机的国产屏权限更高，新机大保底2K+165Hz，正在尝试冲2…",
           "originalTitle": "",
-          "source": "酷安热榜",
+          "source": "数码闲聊站",
           "brand": "行业",
           "type": "爆料",
           "trust": "高关注爆料源",
-          "date": "2026-06-07",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://www.coolapk.com/feed/72174502",
+          "date": "2026-06-06",
+          "time": "02:40",
+          "publishedAt": "2026-06-06T02:40:00.000Z",
+          "url": "https://weibo.com/6048569942/R2PQWnrRy",
           "image": "",
           "verdict": "先看",
-          "takeaway": "这机子被低估了，这是目前米系性能释放最强，夏天日用最爽的手机，是米系续航第一的手机",
-          "detail": "这机子被低估了，这是目前米系性能释放最强，夏天日用最爽的手机，是米系续航第一的手机",
+          "takeaway": "独家信息，迭代性能机的国产屏权限更高，新机大保底2K+165Hz，正在尝试冲2K+185Hz👖",
+          "detail": "独家信息，迭代性能机的国产屏权限更高，新机大保底2K+165Hz，正在尝试冲2K+185Hz👖",
           "keyPoints": [
-            "电池 / 充电"
+            "爆料来源"
           ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
@@ -137,29 +160,6 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
-          "id": "auto-40d8a988e909",
-          "title": "OPPO 相关消息",
-          "originalTitle": "",
-          "source": "Android Police",
-          "brand": "OPPO",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-06-06",
-          "time": "13:30",
-          "publishedAt": "2026-06-06T13:30:10.000Z",
-          "url": "https://www.androidpolice.com/people-say-oneplus-is-dead-why-does-oneplus-16-sound-good/",
-          "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2026/06/oneplus-16-smartphone-floating-in-front-of-a-glowing-blue-16-surrounded-by-drifting-ash-particles-and-light-smoke.png",
-          "verdict": "先看",
-          "takeaway": "OPPO 相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
-          "detail": "OPPO 相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
-          "keyPoints": [
-            "爆料来源"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
           "id": "auto-7e35ea1244ed",
           "title": "Huawei 折叠屏相关消息",
           "originalTitle": "",
@@ -179,6 +179,30 @@ window.phoneRadarDaily = {
             "屏幕形态"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "weibo-f7d91b22fa3f",
+          "title": "数码闲聊站：独家，下一代安卓超大杯，阿绿有概率还是唯一双潜望镜+10X超长焦方案，并持续升…",
+          "originalTitle": "",
+          "source": "数码闲聊站",
+          "brand": "行业",
+          "type": "爆料",
+          "trust": "高关注爆料源",
+          "date": "2026-06-06",
+          "time": "01:07",
+          "publishedAt": "2026-06-06T01:07:06.000Z",
+          "url": "https://weibo.com/6048569942/R2Pfeo8tM",
+          "image": "",
+          "verdict": "先看",
+          "takeaway": "独家，下一代安卓超大杯，阿绿有概率还是唯一双潜望镜+10X超长焦方案，并持续升级[偷乐] Tips：安卓阵营原本有一家在评估10X，最新一版样机取消了，还是走2亿单潜望+ISZ路线",
+          "detail": "独家，下一代安卓超大杯，阿绿有概率还是唯一双潜望镜+10X超长焦方案，并持续升级[偷乐] Tips：安卓阵营原本有一家在评估10X，最新一版样机取消了，还是走2亿单潜望+ISZ路线",
+          "keyPoints": [
+            "影像硬件",
+            "爆料来源"
+          ],
+          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         }
@@ -236,7 +260,7 @@ window.phoneRadarDaily = {
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         },
         {
-          "id": "newsnow-b87ca2e231e7",
+          "id": "newsnow-eefca00e24be",
           "title": "iPhone用户的崩溃瞬间",
           "originalTitle": "",
           "source": "微博热搜",
@@ -246,7 +270,7 @@ window.phoneRadarDaily = {
           "date": "2026-06-07",
           "time": "",
           "publishedAt": "",
-          "url": "https://s.weibo.com/weibo?q=iPhone%E7%94%A8%E6%88%B7%E7%9A%84%E5%B4%A9%E6%BA%83%E7%9E%AC%E9%97%B4&t=31&band_rank=5&Refer=top",
+          "url": "https://s.weibo.com/weibo?q=iPhone%E7%94%A8%E6%88%B7%E7%9A%84%E5%B4%A9%E6%BA%83%E7%9E%AC%E9%97%B4&t=31&band_rank=10&Refer=top",
           "image": "",
           "verdict": "扫一眼",
           "takeaway": "iPhone用户的崩溃瞬间",
@@ -281,29 +305,6 @@ window.phoneRadarDaily = {
           "verdict": "先看",
           "takeaway": "给第一次买华为酷友们提醒一下，Mate 80 Pro Max 是4g手机不是5g手机，手机会显示5gA当不是5g手机。",
           "detail": "给第一次买华为酷友们提醒一下，Mate 80 Pro Max 是4g手机不是5g手机，手机会显示5gA当不是5g手机。",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
-        {
-          "id": "newsnow-b6286459508e",
-          "title": "去年给老妈买的k80，在村里河边洗衣服的时候掉河里捞不起来了[捂脸][捂脸]现在很久没研究手机了，这几款哪个最好一点啊，有兄弟说一下吗[亲亲] #REDMITurbo5Max# #iQOOZ10Turbo+# #红米K90#",
-          "originalTitle": "",
-          "source": "酷安热榜",
-          "brand": "Xiaomi",
-          "type": "爆料",
-          "trust": "高关注爆料源",
-          "date": "2026-06-07",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://www.coolapk.com/feed/72190414",
-          "image": "",
-          "verdict": "先看",
-          "takeaway": "去年给老妈买的k80，在村里河边洗衣服的时候掉河里捞不起来了[捂脸][捂脸]现在很久没研究手机了，这几款哪个最好一点啊，有兄弟说一下吗[亲亲] #REDMITurbo5Max# #iQOOZ10Turbo+# #红米K90#",
-          "detail": "去年给老妈买的k80，在村里河边洗衣服的时候掉河里捞不起来了[捂脸][捂脸]现在很久没研究手机了，这几款哪个最好一点啊，有兄弟说一下吗[亲亲] #REDMITurbo5Max# #iQOOZ10Turbo+# #红米K90#",
           "keyPoints": [
             "爆料"
           ],
@@ -402,6 +403,29 @@ window.phoneRadarDaily = {
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "影响手感和显示体验，适合和其他机型对比。",
           "action": "有具体参数就记录到参数库；没有参数就先收藏。"
+        },
+        {
+          "id": "auto-7c56b0f425dd",
+          "title": "Samsung 相关消息",
+          "originalTitle": "",
+          "source": "Android Authority",
+          "brand": "Samsung",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-06-06",
+          "time": "10:30",
+          "publishedAt": "2026-06-06T10:30:41.000Z",
+          "url": "https://www.androidauthority.com/motorola-razr-ultra-2026-vs-samsung-galaxy-z-flip-7-hands-on-comparison-3672416/",
+          "image": "https://www.androidauthority.com/wp-content/uploads/2026/05/Motorola-Razr-Ultra-Galaxy-Z-Flip-7-against-sky-scaled.jpg",
+          "verdict": "可略过",
+          "takeaway": "Samsung 相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
+          "detail": "Samsung 相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         }
       ]
     }
