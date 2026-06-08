@@ -1,9 +1,229 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-06-08T11:20:56.402Z",
+  "updatedAt": "2026-06-08T16:18:56.578Z",
   "news": [
     {
+      "id": "auto-c4a69b89ab7d",
+      "title": "WWDC 2026: All the news from Apple’s developers conference",
+      "source": "The Verge",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-08",
+      "time": "16:05",
+      "publishedAt": "2026-06-08T16:05:33.000Z",
+      "url": "https://www.theverge.com/tech/944110/wwdc-2026-news-announcements",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STK071_APPLE_E.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "summary": "Apple’s annual WWDC event is kicking off on June 8th with a keynote presentation starting at 1PM ET / 10AM PT, where Apple will announce major updates to iOS, macOS, and its other…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-c458aac9fe84",
+      "title": "TCL 华星官宣供屏小米 17T 系列手机：最新发光材料与 2D 纯直屏工艺，全系标配莱茵四重护眼认证",
+      "source": "IT之家",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-08",
+      "time": "15:59",
+      "publishedAt": "2026-06-08T15:59:51.000Z",
+      "url": "https://www.ithome.com/0/961/658.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/6/e620276a-4ccd-43fb-94dc-1b93fd2d41e8.jpg?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 6 月 8 日消息， 全新小米 17T 系列手机已于今日下午正式发布 。该系列手机定位全能影像旗舰，主打高清显示与专业影像适配， 是小米回归国内 T 系列赛道的主力中端旗舰产品 。 TCL 华星发文，确认本次小米 17T 系列手机由 TCL 华星参与供屏。据介绍， 小米 17T 系列全系采用最新发光材料与 2D 纯直屏工艺 ，其中小米 17T 配…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-46c203695b68",
+      "title": "竹本青：【酷比魔方掌玩mini 4 Pro 性能预热：搭载天玑7400，强过友商LCD屏新手机】 ▫️天玑7400｜安兔兔…",
+      "source": "竹本青",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-06-08",
+      "time": "15:33",
+      "publishedAt": "2026-06-08T15:33:33.000Z",
+      "url": "https://www.coolapk.com/feed/72235123",
+      "image": "http://image.coolapk.com/feed/2026/0608/23/4248714_108da14c_2812_6145_777@1440x835.jpg",
+      "summary": "【酷比魔方掌玩mini 4 Pro 性能预热：搭载天玑7400，强过友商LCD屏新手机】 ▫️天玑7400｜安兔兔跑分约85万 ▫️8.8英寸2.5K LCD高刷屏 ▫️295g/6.95mm｜金属机身 #今日热点# #酷比魔方# #酷比魔方掌玩mini4Pro#",
+      "tags": [
+        "行业",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "coolapk-user-290ed54c5dbb",
+      "title": "竹本青：【王腾回应“塑料中框回旋镖”：说的是2025年，今年各种元器件都在涨价】 小米17T系列 国行版今日正式发布，标准…",
+      "source": "竹本青",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-06-08",
+      "time": "13:35",
+      "publishedAt": "2026-06-08T13:35:33.000Z",
+      "url": "https://www.coolapk.com/feed/72233036",
+      "image": "http://image.coolapk.com/feed/2026/0608/21/4248714_425f1e30_5732_0402_234@1270x659.jpg",
+      "summary": "【王腾回应“塑料中框回旋镖”：说的是2025年，今年各种元器件都在涨价】 小米17T系列 国行版今日正式发布，标准版首发2999元起，机身采用塑料中框。 有网友翻出前小米高管王腾过往言论，其曾在25年表示，2500元以上机型不应使用塑料中框。此番反差被网友调侃为“回旋镖”。 对此，王腾本人今日回应：“好像很多人在提这条评论，我说的可是2025年，毕竟26年…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-2ee0fce8fd19",
+      "title": "小米手环 9 新内测固件 3.1.26 版本开推：功耗优化、睡眠监测算法升级，支持更多车钥匙",
+      "source": "IT之家",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-08",
+      "time": "12:55",
+      "publishedAt": "2026-06-08T12:55:05.000Z",
+      "url": "https://www.ithome.com/0/961/617.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/6/2ef58eb7-d470-4519-97ab-b2f46b604ec3.jpg?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 6 月 8 日消息，小米集团手机部副总裁、可穿戴部总经理张雷今日上午宣布， 小米手环 9 新版本先锋计划正式开启 。 本次更新带来多项实用升级：功耗策略全面优化，设备更省电、续航更持久；睡眠监测算法升级，并支持获取小米手机状态，睡眠数据更准确；消息隐私体验进一步增强，垂腕佩戴时可关闭消息详情展示，让通知更安心。同时修复了多项已知问题，系统运行更稳…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-e65483f8b3fc",
+      "title": "竹本青：【TCL华星认领：供屏小米 17T系列手机】 今日，小米正式发布全新17T系列手机，由TCL华星参与供屏，全系采用…",
+      "source": "竹本青",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-06-08",
+      "time": "12:48",
+      "publishedAt": "2026-06-08T12:48:42.000Z",
+      "url": "https://www.coolapk.com/feed/72232178",
+      "image": "http://image.coolapk.com/feed/2026/0608/20/4248714_90dab0ac_2921_0548_449@690x574.jpg",
+      "summary": "【TCL华星认领：供屏小米 17T系列手机】 今日，小米正式发布全新17T系列手机，由TCL华星参与供屏，全系采用最新发光材料与2D纯直屏工艺。 其中，小米17T配备6.59英寸屏幕，分辨率达2756×1268，搭配120Hz高刷新率；小米17T Pro搭载6.83英寸全新低功耗超级阳光屏，支持144Hz高刷，拥有2772×1280分辨率。 其他方面，屏幕…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-3e4752d54cdb",
+      "title": "荣耀手机 160 版本官宣新增「虚拟权限」，应用获取敏感信息系统将提供空白数据",
+      "source": "IT之家",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-08",
+      "time": "12:45",
+      "publishedAt": "2026-06-08T12:45:00.000Z",
+      "url": "https://www.ithome.com/0/961/616.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/6/ba0d08a5-83ae-4573-bd2d-d9055bd4cfe6.jpg?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 6 月 8 日消息，荣耀产品维护与升级 @荣耀小芳哥 今日发布视频，介绍了荣耀手机 160 版本新增的「虚拟权限」。 大家肯定遇到过这种难受的情况：需要提供权限才能使用某些应用。 现在打开虚拟权限后， 在应用尝试读取如“通话记录”等敏感信息时，系统将向其提供空白数据 ，有效保护了大家的数据隐私！ 体验路径：设置 > 隐私与安全 > 虚拟权限 IT…",
+      "tags": [
+        "HONOR",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-d481089884eb",
+      "title": "This Galaxy Z Fold 8 Ultra competitor was just spotted in the wild",
+      "source": "Android Authority",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-08",
+      "time": "12:29",
+      "publishedAt": "2026-06-08T12:29:31.000Z",
+      "url": "https://www.androidauthority.com/vivo-x-fold-6-real-world-images-ai-features-3675438/",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2025/07/Vivo-X-Fold-5-rear-camera-selfie-preview.jpg",
+      "summary": "It's coming this month, and it looks really promising.",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-83d90dc3bfb8",
+      "title": "竹本青：【小米回应南昌市SU7 Ultra起火事故：初步排除电池自燃引发起火，未造成人员伤亡】 小米公司发言人今晚发布通报…",
+      "source": "竹本青",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-06-08",
+      "time": "12:03",
+      "publishedAt": "2026-06-08T12:03:19.000Z",
+      "url": "https://www.coolapk.com/feed/72231389",
+      "image": "http://image.coolapk.com/feed/2026/0608/20/4248714_8eb7c59d_0198_3804_994@1440x763.jpg",
+      "summary": "【小米回应南昌市SU7 Ultra起火事故：初步排除电池自燃引发起火，未造成人员伤亡】 小米公司发言人今晚发布通报，回应南昌市英雄大桥SU7 Ultra起火。 官方表示，火情由消防部门及时控制，未造成人员伤亡；事发前车辆动力电池全程处于正常工作状态，未出现热失控信号，初步排除电池自燃引发起火。 原文如下： 2026年6月7日，一辆小米SU7 Ultra在江…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-56c5f6b6337e",
+      "title": "传音 Infinix Hot 70 Pro 5G 手机曝光：6000mAh 电池、天玑 7100 芯片，引入点阵背屏",
+      "source": "IT之家",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-08",
+      "time": "12:00",
+      "publishedAt": "2026-06-08T12:00:55.000Z",
+      "url": "https://www.ithome.com/0/961/611.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/6/2d95537a-cb5c-44db-a3a1-d0eda841fc77.png?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 6 月 8 日消息，据科技媒体 GizChina 今天报道，传音 Infinix Hot 70 Pro 5G 手机参数现已曝光，新机将配备联发科天玑 7100 芯片， 引入点阵背屏设计 。 据爆料，这台手机将搭载 6.76 英寸 HD+ 显示屏，支持 120Hz 高刷，采用打孔屏设计。机身背面配备 Dot Matrix 点阵屏幕，可显示通知消息、…",
+      "tags": [
+        "行业",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-15624445d640",
+      "title": "Xiaomi 17T Pro Global vs Chinese model: Where are the two phones different?",
+      "source": "Gizmochina",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-08",
+      "time": "11:34",
+      "publishedAt": "2026-06-08T11:34:04.000Z",
+      "url": "https://www.gizmochina.com/2026/06/08/xiaomi-17t-pro-global-vs-chinese-model-where-are-the-two-phones-different/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/06/Xiaomi-17T-Pro-Global-vs-Chinese-Model-300x200.jpg?x10805",
+      "summary": "After the global debut last month, Xiaomi has now announced its Xiaomi 17T series in China. The lineup includes both the standard 17T and the more powerful 17T Pro, marking the fi…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
       "id": "auto-88f32003f368",
-      "title": "Xiaomi shows its humanoid robot clicking photos from the Xiaomi 17T Pro",
+      "title": "Xiaomi shows humanoid robot capturing photos using Xiaomi 17T Pro",
       "source": "Gizmochina",
       "brand": "Xiaomi",
       "model": "Xiaomi 相关机型",
@@ -102,26 +322,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-05ca650c5aa8",
-      "title": "消息称三星将为欧版、韩版 Galaxy Z Flip8 小折叠手机配备 Exynos 2600 芯片",
-      "source": "IT之家",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-08",
-      "time": "09:31",
-      "publishedAt": "2026-06-08T09:31:12.000Z",
-      "url": "https://www.ithome.com/0/961/534.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/6/5c28b3cd-9ced-4e42-9f89-0ec4be76cad3.png?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 6 月 8 日消息，据韩媒 The Bell 报道，三星电子将在今年 8 月发布的 Galaxy Z Flip8 小折叠手机上， 采用 Exynos 2600 自研芯片 。 据业内人士透露，三星 MX 事业部将为 Galaxy Z Flip 系列新机采用 Exynos 芯片，目前 Flip8 已经开始初期量产，计划 8 月发布。 IT之家从原报道…",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-9a994ba06621",
       "title": "Samsung Galaxy S27 Pro battery size may have just leaked, and now we’re excited",
       "source": "Android Authority",
@@ -137,106 +337,6 @@ window.phoneRadarAuto = {
       "summary": "The battery upgrade everyone can appreciate.",
       "tags": [
         "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-81c6848706d8",
-      "title": "【IT之家评测室】小米 17T Pro 手机体验：以影像为抓手的全能旗舰",
-      "source": "IT之家",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-08",
-      "time": "08:50",
-      "publishedAt": "2026-06-08T08:50:46.000Z",
-      "url": "https://www.ithome.com/0/961/522.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/6/bd2d2518-cf6a-4363-9f58-6096500240ad.jpg?x-bce-process=image/format,f_auto",
-      "summary": "6 月 8 日，小米举办新品发布会，正式面向国内市场发布了小米 17T 系列手机，包含小米 17T 和小米 17T Pro，定位“全能影像旗舰”。两款手机此前已在海外发布。 其实，小米 T 系列自 2019 年首发小米 9T 以来，一直专注于海外高端市场，7 年迭代 7 代产品，累计用户超 1500 万。而这次小米 17T 系列是该系列首次面向国内市场发布…",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-2cdce95d06b8",
-      "title": "【IT之家开箱】小米 17T Pro 手机图赏：简洁设计，低调深沉",
-      "source": "IT之家",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-08",
-      "time": "08:33",
-      "publishedAt": "2026-06-08T08:33:41.000Z",
-      "url": "https://www.ithome.com/0/961/515.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/6/405401ea-1fb1-460c-849f-2144f2a22a49.jpg?x-bce-process=image/format,f_auto",
-      "summary": "6 月 8 日，小米举办新品发布会，正式面向国内市场发布了小米 17T 系列手机，包含小米 17T 和小米 17T Pro，定位“全能影像旗舰”。两款手机此前已在海外发布。而目前，IT之家已经拿到了 16GB+512GB 星云紫配色的小米 17T Pro，现在先为大家送上开箱图赏。 小米 17T Pro 的包装盒采用扁平的长方体设计，长度大约相当于过去标准…",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-2059dc945d8a",
-      "title": "荣耀研发工程师：「灵动胶囊」堆叠样式个性化设置随“系统管家服务”更新支持，已逐步推送",
-      "source": "IT之家",
-      "brand": "HONOR",
-      "model": "HONOR 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-08",
-      "time": "08:19",
-      "publishedAt": "2026-06-08T08:19:17.000Z",
-      "url": "https://www.ithome.com/0/961/500.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/6/dee80302-89fe-4aa4-af06-6db603e11581.jpg?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 6 月 8 日消息，荣耀研发工程师 @荣耀曹工 今日发文，解答了荣耀手机「灵动胶囊」堆叠样式个性化设置的更新进展： 「灵动胶囊」堆叠样式个性化设置入口跟随着“系统管家服务”应用市场更新支持，目前已经逐步开放推送。 从荣耀工程师分享的截图可以看到，「灵动胶囊」堆叠样式支持三种样式的个性化设置，包括默认、样式 1 和样式 2， 主要区别在于对灵动胶囊…",
-      "tags": [
-        "HONOR",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-5e60aa2079b1",
-      "title": "Galaxy Z Flip 8 will use the Exynos chip in some regions",
-      "source": "SamMobile",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-08",
-      "time": "08:02",
-      "publishedAt": "2026-06-08T08:02:17.000Z",
-      "url": "https://www.sammobile.com/news/galaxy-z-flip-8-exynos-chip-some-regions/",
-      "image": "",
-      "summary": "Samsung will launch three new foldable phones next month: the Galaxy Z Flip 8, Galaxy Z Fold 8, and Galaxy Z Fold 8 Ultra. While the Galaxy Z Fold 8 and Galaxy Z Fold 8 Ultra are…",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-f7c188676a1e",
-      "title": "算力需求爆发：电子布价格涨幅达 100%，年内已涨价 5 轮",
-      "source": "IT之家",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-08",
-      "time": "07:56",
-      "publishedAt": "2026-06-08T07:56:12.000Z",
-      "url": "https://www.ithome.com/0/961/470.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/6/ee381f31-bdc8-4fc6-8e92-494253632602.jpg?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 6 月 8 日消息，据央视财经今日报道，今年以来， 算力需求爆发 ，带动电子布价格大幅上涨。 IT之家注： 电子布，全称电子级玻璃纤维布 ，是电子工业中的关键基础材料，主要用于覆铜板和印制电路板的制造，再应用于数据中心服务器、智能手机和 5G 通信基站等各类电子产品。 报道称截至 6 月初，市场上常用规格的电子布 已经完成年内 5 轮提价 ，均价…",
-      "tags": [
-        "行业",
         "爆料",
         "自动抓取"
       ]
@@ -262,26 +362,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-37c921aee8a8",
-      "title": "腾讯 QQ 回应为何不显示华为 5A 在线状态，称该标识为鸿蒙系统定制无法获取",
-      "source": "IT之家",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-08",
-      "time": "07:25",
-      "publishedAt": "2026-06-08T07:25:20.000Z",
-      "url": "https://www.ithome.com/0/961/447.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2025/11/1992fd78-1e5f-471d-913d-f43495c4265d.jpg?x-bce-process=image/format,f_auto/auto-orient,o_1",
-      "summary": "IT之家 6 月 8 日消息，在去年 11 月 25 日的华为 Mate 80 系列 | Mate X7 及全场景新品线上发布会上，华为常务董事、产品投资委员会主任、终端 BG 董事长余承东正式宣布 Mate 80 系列手机支持 5A 速度 。 ▲ IT之家视频：华为 Mate 80 系列首发开箱 根据华为官方介绍，5A 只代表华为终端先进的通信技术，而非…",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "coolapk-user-5505b469ca6f",
       "title": "竹本青：【小米 17T系列 正式发布：标准版首销2999元起，Pro版首销3999元起】 小米 17T 12+256GB…",
       "source": "竹本青",
@@ -302,66 +382,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "coolapk-user-f599665c1faf",
-      "title": "竹本青：这啥发布会啊，剪的没有连续感，很奇怪的感觉 #小米17Pro#",
-      "source": "竹本青",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-06-08",
-      "time": "06:06",
-      "publishedAt": "2026-06-08T06:06:13.000Z",
-      "url": "https://www.coolapk.com/feed/72225296",
-      "image": "",
-      "summary": "这啥发布会啊，剪的没有连续感，很奇怪的感觉 #小米17Pro#",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
-      "id": "coolapk-user-5f54d04b9a2d",
-      "title": "竹本青：一加 Turbo 6X Pro 屏幕预热：1.5K 三星屏",
-      "source": "竹本青",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-06-08",
-      "time": "06:02",
-      "publishedAt": "2026-06-08T06:02:13.000Z",
-      "url": "https://www.coolapk.com/feed/72225235",
-      "image": "http://image.coolapk.com/feed/2026/0608/14/4248714_578a3120_8532_1611_969@1080x1762.jpg",
-      "summary": "【一加 Turbo 6X Pro 屏幕预热：1.5K 三星屏】 ▫️1.5K 144Hz三星直屏 ▫️全亮度类 DC 调光 ▫️医显共研明眸护眼 ▫️峰值亮度6500nits #今日热点# #一加Turbo6XPro#",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
-      "id": "auto-40bb3ad0052d",
-      "title": "Here’s our first clear look at Galaxy S26 FE",
-      "source": "SamMobile",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-08",
-      "time": "05:44",
-      "publishedAt": "2026-06-08T05:44:30.000Z",
-      "url": "https://www.sammobile.com/news/heres-our-first-clear-look-galaxy-s26-fe/",
-      "image": "https://www.sammobile.com/wp-content/uploads/2026/06/Samsung-Galaxy-S26-FE-Wireless-Power-Consortium-WPC-Certification-Image.jpg",
-      "summary": "According to multiple reports, Samsung’s next Galaxy S Fan Edition smartphone will be the Galaxy S26 FE, a successor to the Galaxy S25 FE from last year. Last week, alleged images…",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-b3738b533fa6",
       "title": "Huawei Mate 90 series to use a similar camera ring like Mate 80",
       "source": "Huawei Central",
@@ -377,26 +397,6 @@ window.phoneRadarAuto = {
       "summary": "Huawei Mate 90 series is coming in the second half of this year, and rumors indicate that it will carry a similar “camera ring” design on the back as its predecessors. For those l…",
       "tags": [
         "Huawei",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-53129a89bd0f",
-      "title": "Galaxy S27 Pro’s battery capacity might surprise you",
-      "source": "SamMobile",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-08",
-      "time": "05:28",
-      "publishedAt": "2026-06-08T05:28:53.000Z",
-      "url": "https://www.sammobile.com/news/galaxy-s27-pros-battery-capacity-surprise/",
-      "image": "",
-      "summary": "Samsung could launch four Galaxy S27 series phones this year: the Galaxy S27, Galaxy S27+, Galaxy S27 Pro, and Galaxy S27 Ultra. The Galaxy S27 Pro is expected to be similar to th…",
-      "tags": [
-        "Samsung",
         "爆料",
         "自动抓取"
       ]
@@ -439,46 +439,6 @@ window.phoneRadarAuto = {
         "Xiaomi",
         "爆料",
         "自动抓取"
-      ]
-    },
-    {
-      "id": "coolapk-user-e047d17909cd",
-      "title": "竹本青：爱加TV又一力作，隔了30分钟，又预热一样的内容 #一加Turbo6XPro# #一加Turbo6#",
-      "source": "竹本青",
-      "brand": "OPPO",
-      "model": "OPPO 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-06-08",
-      "time": "02:17",
-      "publishedAt": "2026-06-08T02:17:59.000Z",
-      "url": "https://www.coolapk.com/feed/72221502",
-      "image": "http://image.coolapk.com/feed/2026/0608/10/4248714_28814d01_5075_3183_919@1440x3824.jpg",
-      "summary": "爱加TV又一力作，隔了30分钟，又预热一样的内容 #一加Turbo6XPro# #一加Turbo6#",
-      "tags": [
-        "OPPO",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
-      "id": "coolapk-user-9050b6441601",
-      "title": "竹本青：【一加 Turbo 6X Pro 续航组合公布：8000mAh+80W有线】 ▫️6年耐用 8000mAh电池 ▫…",
-      "source": "竹本青",
-      "brand": "OPPO",
-      "model": "OPPO 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-06-08",
-      "time": "02:05",
-      "publishedAt": "2026-06-08T02:05:47.000Z",
-      "url": "https://www.coolapk.com/feed/72221218",
-      "image": "http://image.coolapk.com/feed/2026/0608/10/4248714_59eb66f5_4346_0824_381@1080x1942.jpg",
-      "summary": "【一加 Turbo 6X Pro 续航组合公布：8000mAh+80W有线】 ▫️6年耐用 8000mAh电池 ▫️80W有线｜旁路供电｜有线反向 #一加Turbo6XPro# #今日热点#",
-      "tags": [
-        "OPPO",
-        "爆料",
-        "酷安博主"
       ]
     },
     {
@@ -562,62 +522,42 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-503cafd6bf31",
-      "title": "怎么说 开心的一个周末 因为见到了喜欢的人！不过多久能改一下锐化拍照比安卓黄的问题 但是我觉得我的15pm拍照还是蛮好看的 #周末时光# #手机摄影#",
+      "id": "newsnow-6c51b578b90d",
+      "title": "看看友商线下机的颜值和代言人宣发，小米17T拿啥去打？[疑问][疑问][疑问]机子配色丑的要死，没有代言也没有宣发，我祝你成功吧[托腮][托腮][托腮] #vivos60# #OPPOReno16# #华为nova16#",
       "source": "酷安热榜",
-      "brand": "行业",
-      "model": "智能手机市场",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-06-08",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72208111",
+      "url": "https://www.coolapk.com/feed/72211847",
       "image": "",
-      "summary": "怎么说 开心的一个周末 因为见到了喜欢的人！不过多久能改一下锐化拍照比安卓黄的问题 但是我觉得我的15pm拍照还是蛮好看的 #周末时光# #手机摄影#",
+      "summary": "看看友商线下机的颜值和代言人宣发，小米17T拿啥去打？[疑问][疑问][疑问]机子配色丑的要死，没有代言也没有宣发，我祝你成功吧[托腮][托腮][托腮] #vivos60# #OPPOReno16# #华为nova16#",
       "tags": [
-        "行业",
+        "Huawei",
         "爆料",
         "NewsNow"
       ]
     },
     {
-      "id": "newsnow-385f0c07616f",
-      "title": "感觉自己摄影技术差的没救了，昨天拍妹子，相机拍了一堆废片，回去打开一开后期都欲望都没，倒是用手机稍微拍几张虽然一般但还能看[喷]#手机摄影#",
-      "source": "酷安热榜",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "高关注爆料源",
+      "id": "newsnow-2faca7cbcc6b",
+      "title": "2026 年第一季度鸿蒙在中国智能手机市场份额反超 iOS，安卓仍占 63%，这反映了怎样的市场格局？",
+      "source": "知乎热榜",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "市场报告",
+      "trust": "媒体汇总",
       "date": "2026-06-08",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72205784",
+      "url": "https://www.zhihu.com/question/2044003133102232324",
       "image": "",
-      "summary": "感觉自己摄影技术差的没救了，昨天拍妹子，相机拍了一堆废片，回去打开一开后期都欲望都没，倒是用手机稍微拍几张虽然一般但还能看[喷]#手机摄影#",
+      "summary": "2026 年第一季度鸿蒙在中国智能手机市场份额反超 iOS，安卓仍占 63%，这反映了怎样的市场格局？",
       "tags": [
-        "行业",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-15885ddb901b",
-      "title": "余承东谈为何有些手机越用越卡",
-      "source": "微博热搜",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "待验证",
-      "date": "2026-06-08",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://s.weibo.com/weibo?q=%23%E4%BD%99%E6%89%BF%E4%B8%9C%E8%B0%88%E4%B8%BA%E4%BD%95%E6%9C%89%E4%BA%9B%E6%89%8B%E6%9C%BA%E8%B6%8A%E7%94%A8%E8%B6%8A%E5%8D%A1%23&t=31&band_rank=9&Refer=top",
-      "image": "",
-      "summary": "余承东谈为何有些手机越用越卡",
-      "tags": [
-        "行业",
-        "爆料",
+        "Huawei",
+        "市场报告",
         "NewsNow"
       ]
     },
