@@ -1,12 +1,12 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-06-08T16:18:56.578Z",
+  "updatedAt": "2026-06-08T20:32:45.438Z",
   "issueDate": "2026-06-08",
   "issue": "VOL.260608",
   "title": "手机情报日报",
-  "intro": "今日筛出 18 条重点，其中 8 条是重点爆料，包含 6 条 iPhone 相关、0 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 20 条重点，其中 8 条是重点爆料，包含 5 条 iPhone 相关、0 条官方确认、0 条参数线索。",
   "stats": {
-    "total": 18,
-    "iphone": 6,
+    "total": 20,
+    "iphone": 5,
     "leaks": 8,
     "official": 0,
     "specs": 0
@@ -17,6 +17,29 @@ window.phoneRadarDaily = {
       "title": "重点爆料",
       "hint": "机模、配色、影像、屏幕、电池和芯片线索先看。",
       "items": [
+        {
+          "id": "auto-1f6038c86d7d",
+          "title": "苹果 Apple 智能重塑 iOS / macOS 27 Safari 浏览器：智能整合标签页、新增自定义扩展生成",
+          "originalTitle": "",
+          "source": "IT之家",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-06-08",
+          "time": "17:56",
+          "publishedAt": "2026-06-08T17:56:36.000Z",
+          "url": "https://www.ithome.com/0/961/674.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/6/7179351a-094b-4ac4-bea6-fc854064e5aa.png?x-bce-process=image/format,f_auto",
+          "verdict": "先看",
+          "takeaway": "IT之家 6 月 9 日消息，在目前正在进行的 WWDC26 中，苹果宣布对 Safari 浏览器进行 Apple 智能升级。 全新 Safari 浏览器能够检测打开的网页，自动整合标签页，便于用户查找，同时用户还可以用自然语言告诉 Safari 浏览器自己要关注的内容，内容更新时用户将会获得通知。 同时，苹果还为 Safari 浏览器引入自定义扩展生成功…",
+          "detail": "IT之家 6 月 9 日消息，在目前正在进行的 WWDC26 中，苹果宣布对 Safari 浏览器进行 Apple 智能升级。 全新 Safari 浏览器能够检测打开的网页，自动整合标签页，便于用户查找，同时用户还可以用自然语言告诉 Safari 浏览器自己要关注的内容，内容更新时用户将会获得通知。 同时，苹果还为 Safari 浏览器引入自定义扩展生成功…",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
         {
           "id": "auto-4f6a9d55c892",
           "title": "iPhone 机模 / 配色信息曝光",
@@ -33,29 +56,6 @@ window.phoneRadarDaily = {
           "verdict": "先看",
           "takeaway": "iPhone 机模 / 配色信息曝光。已转成中文摘要展示，详细内容可打开原文核对。",
           "detail": "iPhone 机模 / 配色信息曝光。来源提到未发布机型的机模/配色图，适合先判断外观方向、颜色变化和机身轮廓，但最终量产版本仍可能调整。",
-          "keyPoints": [
-            "外观 / 配色 / 尺寸"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "auto-ae1964412a51",
-          "title": "iPhone 外观设计线索曝光",
-          "originalTitle": "",
-          "source": "MacRumors",
-          "brand": "iPhone",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-06-07",
-          "time": "10:28",
-          "publishedAt": "2026-06-07T10:28:04.000Z",
-          "url": "https://www.macrumors.com/2026/06/07/best-look-yet-at-foldable-iphone-design-revealed/",
-          "image": "https://images.macrumors.com/article-new/2026/06/foldable-iphone-dummy-sonny-dickson.jpg",
-          "verdict": "先看",
-          "takeaway": "iPhone 外观设计线索曝光。重点看外观、颜色、尺寸是否和上一代有明显变化。",
-          "detail": "iPhone 外观设计线索曝光。这类内容主要看外观设计、按键布局、相机模组和尺寸变化，后续最好等更多渲染图或保护壳线索互相验证。",
           "keyPoints": [
             "外观 / 配色 / 尺寸"
           ],
@@ -83,52 +83,6 @@ window.phoneRadarDaily = {
             "影像硬件",
             "屏幕形态",
             "芯片 / 性能"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "auto-3e4752d54cdb",
-          "title": "荣耀手机 160 版本官宣新增「虚拟权限」，应用获取敏感信息系统将提供空白数据",
-          "originalTitle": "",
-          "source": "IT之家",
-          "brand": "HONOR",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-06-08",
-          "time": "12:45",
-          "publishedAt": "2026-06-08T12:45:00.000Z",
-          "url": "https://www.ithome.com/0/961/616.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/6/ba0d08a5-83ae-4573-bd2d-d9055bd4cfe6.jpg?x-bce-process=image/format,f_auto",
-          "verdict": "先看",
-          "takeaway": "IT之家 6 月 8 日消息，荣耀产品维护与升级 @荣耀小芳哥 今日发布视频，介绍了荣耀手机 160 版本新增的「虚拟权限」。 大家肯定遇到过这种难受的情况：需要提供权限才能使用某些应用。 现在打开虚拟权限后， 在应用尝试读取如“通话记录”等敏感信息时，系统将向其提供空白数据 ，有效保护了大家的数据隐私！ 体验路径：设置 > 隐私与安全 > 虚拟权限 IT…",
-          "detail": "IT之家 6 月 8 日消息，荣耀产品维护与升级 @荣耀小芳哥 今日发布视频，介绍了荣耀手机 160 版本新增的「虚拟权限」。 大家肯定遇到过这种难受的情况：需要提供权限才能使用某些应用。 现在打开虚拟权限后， 在应用尝试读取如“通话记录”等敏感信息时，系统将向其提供空白数据 ，有效保护了大家的数据隐私！ 体验路径：设置 > 隐私与安全 > 虚拟权限 IT…",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "newsnow-6c51b578b90d",
-          "title": "看看友商线下机的颜值和代言人宣发，小米17T拿啥去打？[疑问][疑问][疑问]机子配色丑的要死，没有代言也没有宣发，我祝你成功吧[托腮][托腮][托腮] #vivos60# #OPPOReno16# #华为nova16#",
-          "originalTitle": "",
-          "source": "酷安热榜",
-          "brand": "Huawei",
-          "type": "爆料",
-          "trust": "高关注爆料源",
-          "date": "2026-06-08",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://www.coolapk.com/feed/72211847",
-          "image": "",
-          "verdict": "先看",
-          "takeaway": "看看友商线下机的颜值和代言人宣发，小米17T拿啥去打？[疑问][疑问][疑问]机子配色丑的要死，没有代言也没有宣发，我祝你成功吧[托腮][托腮][托腮] #vivos60# #OPPOReno16# #华为nova16#",
-          "detail": "看看友商线下机的颜值和代言人宣发，小米17T拿啥去打？[疑问][疑问][疑问]机子配色丑的要死，没有代言也没有宣发，我祝你成功吧[托腮][托腮][托腮] #vivos60# #OPPOReno16# #华为nova16#",
-          "keyPoints": [
-            "外观 / 配色 / 尺寸"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
@@ -181,25 +135,71 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
-          "id": "auto-56c5f6b6337e",
-          "title": "传音 Infinix Hot 70 Pro 5G 手机曝光：6000mAh 电池、天玑 7100 芯片，引入点阵背屏",
+          "id": "coolapk-user-46c203695b68",
+          "title": "竹本青：【酷比魔方掌玩mini 4 Pro 性能预热：搭载天玑7400，强过友商LCD屏新手机】 ▫️天玑7400｜安兔兔…",
           "originalTitle": "",
-          "source": "IT之家",
+          "source": "竹本青",
           "brand": "行业",
+          "type": "爆料",
+          "trust": "高可信爆料",
+          "date": "2026-06-08",
+          "time": "15:33",
+          "publishedAt": "2026-06-08T15:33:33.000Z",
+          "url": "https://www.coolapk.com/feed/72235123",
+          "image": "http://image.coolapk.com/feed/2026/0608/23/4248714_108da14c_2812_6145_777@1440x835.jpg",
+          "verdict": "先看",
+          "takeaway": "【酷比魔方掌玩mini 4 Pro 性能预热：搭载天玑7400，强过友商LCD屏新手机】 ▫️天玑7400｜安兔兔跑分约85万 ▫️8.8英寸2.5K LCD高刷屏 ▫️295g/6.95mm｜金属机身 #今日热点# #酷比魔方# #酷比魔方掌玩mini4Pro#",
+          "detail": "【酷比魔方掌玩mini 4 Pro 性能预热：搭载天玑7400，强过友商LCD屏新手机】 ▫️天玑7400｜安兔兔跑分约85万 ▫️8.8英寸2.5K LCD高刷屏 ▫️295g/6.95mm｜金属机身 #今日热点# #酷比魔方# #酷比魔方掌玩mini4Pro#",
+          "keyPoints": [
+            "芯片 / 性能"
+          ],
+          "confidence": "可信度较高，但仍属于发布前线索。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "auto-9a994ba06621",
+          "title": "Galaxy S27 电池 / 充电相关消息",
+          "originalTitle": "",
+          "source": "Android Authority",
+          "brand": "Samsung",
           "type": "爆料",
           "trust": "媒体汇总",
           "date": "2026-06-08",
-          "time": "12:00",
-          "publishedAt": "2026-06-08T12:00:55.000Z",
-          "url": "https://www.ithome.com/0/961/611.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/6/2d95537a-cb5c-44db-a3a1-d0eda841fc77.png?x-bce-process=image/format,f_auto",
+          "time": "09:29",
+          "publishedAt": "2026-06-08T09:29:08.000Z",
+          "url": "https://www.androidauthority.com/samsung-galaxy-s27-pro-battery-leak-3675317/",
+          "image": "https://www.androidauthority.com/wp-content/uploads/2026/05/samsung-galaxy-s26-ultra-pine-tree-scaled.jpg",
           "verdict": "先看",
-          "takeaway": "IT之家 6 月 8 日消息，据科技媒体 GizChina 今天报道，传音 Infinix Hot 70 Pro 5G 手机参数现已曝光，新机将配备联发科天玑 7100 芯片， 引入点阵背屏设计 。 据爆料，这台手机将搭载 6.76 英寸 HD+ 显示屏，支持 120Hz 高刷，采用打孔屏设计。机身背面配备 Dot Matrix 点阵屏幕，可显示通知消息、…",
-          "detail": "IT之家 6 月 8 日消息，据科技媒体 GizChina 今天报道，传音 Infinix Hot 70 Pro 5G 手机参数现已曝光，新机将配备联发科天玑 7100 芯片， 引入点阵背屏设计 。 据爆料，这台手机将搭载 6.76 英寸 HD+ 显示屏，支持 120Hz 高刷，采用打孔屏设计。机身背面配备 Dot Matrix 点阵屏幕，可显示通知消息、…",
+          "takeaway": "Galaxy S27 电池 / 充电相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
+          "detail": "Galaxy S27 电池 / 充电相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
           "keyPoints": [
-            "屏幕形态",
             "电池 / 充电",
-            "芯片 / 性能",
+            "爆料来源"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "auto-b3738b533fa6",
+          "title": "Huawei 影像能力相关消息",
+          "originalTitle": "",
+          "source": "Huawei Central",
+          "brand": "Huawei",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-06-08",
+          "time": "05:30",
+          "publishedAt": "2026-06-08T05:30:28.000Z",
+          "url": "https://www.huaweicentral.com/huawei-mate-90-series-to-use-a-similar-camera-ring-like-mate-80/",
+          "image": "https://www.huaweicentral.com/wp-content/uploads/2026/06/Mate-90-camera-design-leak.jpg",
+          "verdict": "先看",
+          "takeaway": "Huawei 影像能力相关宣传或案例，主要看是否透露拍摄能力变化。",
+          "detail": "Huawei 影像能力相关消息。重点看影像功能是否和新机硬件有关，如果只是拍摄案例或营销内容，参考价值会低一些。",
+          "keyPoints": [
+            "外观 / 配色 / 尺寸",
+            "影像硬件",
             "爆料来源"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
@@ -235,29 +235,6 @@ window.phoneRadarDaily = {
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是实际体验内容，买前适合重点看缺点和取舍。",
           "action": "中文源可以直接点开快读；看完只保留和购机有关的点。"
-        },
-        {
-          "id": "newsnow-cf090000977a",
-          "title": "苹果第三方输入法哪家好用啊 最近用的百度但是感觉震动很粘手 有延迟 #iPhone17ProMax# #iPhone17Pro#",
-          "originalTitle": "",
-          "source": "酷安热榜",
-          "brand": "iPhone",
-          "type": "爆料",
-          "trust": "高关注爆料源",
-          "date": "2026-06-08",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://www.coolapk.com/feed/72198986",
-          "image": "",
-          "verdict": "先看",
-          "takeaway": "苹果第三方输入法哪家好用啊 最近用的百度但是感觉震动很粘手 有延迟 #iPhone17ProMax# #iPhone17Pro#",
-          "detail": "苹果第三方输入法哪家好用啊 最近用的百度但是感觉震动很粘手 有延迟 #iPhone17ProMax# #iPhone17Pro#",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         },
         {
           "id": "newsnow-18a4ef32c445",
@@ -336,26 +313,79 @@ window.phoneRadarDaily = {
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         },
         {
-          "id": "coolapk-user-5505b469ca6f",
-          "title": "竹本青：【小米 17T系列 正式发布：标准版首销2999元起，Pro版首销3999元起】 小米 17T 12+256GB…",
+          "id": "auto-88f32003f368",
+          "title": "Xiaomi 影像能力相关消息",
           "originalTitle": "",
-          "source": "竹本青",
+          "source": "Gizmochina",
           "brand": "Xiaomi",
           "type": "爆料",
-          "trust": "高可信爆料",
+          "trust": "媒体汇总",
           "date": "2026-06-08",
-          "time": "06:17",
-          "publishedAt": "2026-06-08T06:17:22.000Z",
-          "url": "https://www.coolapk.com/feed/72225490",
-          "image": "http://image.coolapk.com/feed/2026/0608/14/4248714_27d5a6d7_9504_689_20@2000x3633.jpg",
-          "verdict": "扫一眼",
-          "takeaway": "【小米 17T系列 正式发布：标准版首销2999元起，Pro版首销3999元起】 小米 17T 12+256GB —— 2999元 12+512GB —— 3499元 小米 17T Pro 12+256GB —— 3999元 12+512GB —— 4499元 16+512GB —— 4799元 ● 小米17T Pro 配置： 核心： ▫️6.83\"1.5…",
-          "detail": "【小米 17T系列 正式发布：标准版首销2999元起，Pro版首销3999元起】 小米 17T 12+256GB —— 2999元 12+512GB —— 3499元 小米 17T Pro 12+256GB —— 3999元 12+512GB —— 4499元 16+512GB —— 4799元 ● 小米17T Pro 配置： 核心： ▫️6.83\"1.5…",
+          "time": "10:53",
+          "publishedAt": "2026-06-08T10:53:15.000Z",
+          "url": "https://www.gizmochina.com/2026/06/08/xiaomi-humanoid-robot-17t-pro-camera-demo/",
+          "image": "https://www.gizmochina.com/wp-content/uploads/2026/06/Xiaomi-Humanoid-robot-with-Xiaomi-17T-Pro-300x200.jpg?x10805",
+          "verdict": "可略过",
+          "takeaway": "Xiaomi 影像能力相关宣传或案例，主要看是否透露拍摄能力变化。",
+          "detail": "Xiaomi 影像能力相关消息。重点看影像功能是否和新机硬件有关，如果只是拍摄案例或营销内容，参考价值会低一些。",
+          "keyPoints": [
+            "影像硬件"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "影响拍照体验，买旗舰机时值得关注。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        },
+        {
+          "id": "auto-3411228c4a38",
+          "title": "OPPO 发布 / 上市相关消息",
+          "originalTitle": "",
+          "source": "Gizmochina",
+          "brand": "OPPO",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-06-08",
+          "time": "03:11",
+          "publishedAt": "2026-06-08T03:11:22.000Z",
+          "url": "https://www.gizmochina.com/2026/06/08/oneplus-turbo-6x-pro-launch-date-key-specifications-officially-revealed/",
+          "image": "https://www.gizmochina.com/wp-content/uploads/2026/06/OnePlus-Turbo-6X-series-launch-date-300x169.jpg?x10805",
+          "verdict": "可略过",
+          "takeaway": "OPPO 有发布或新功能消息，适合确认是否和新机有关。",
+          "detail": "OPPO 发布 / 上市相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
           "keyPoints": [
             "爆料"
           ],
-          "confidence": "可信度较高，但仍属于发布前线索。",
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        }
+      ]
+    },
+    {
+      "id": "review",
+      "title": "评测与体验",
+      "hint": "买前再细看，平时扫一眼即可。",
+      "items": [
+        {
+          "id": "auto-7f8b92c4cde6",
+          "title": "Galaxy S26 FE 外观设计线索曝光",
+          "originalTitle": "",
+          "source": "Android Central",
+          "brand": "Samsung",
+          "type": "评测",
+          "trust": "媒体汇总",
+          "date": "2026-06-07",
+          "time": "20:08",
+          "publishedAt": "2026-06-07T20:08:22.000Z",
+          "url": "https://www.androidcentral.com/phones/samsung-galaxy/samsung-galaxy-s26-fe-leaks-reveal",
+          "image": "https://cdn.mos.cms.futurecdn.net/wtxvdX499hQ8iyMTHK6Yj4-1280-80.jpg",
+          "verdict": "可略过",
+          "takeaway": "Galaxy S26 FE 外观设计线索曝光。重点看外观、颜色、尺寸是否和上一代有明显变化。",
+          "detail": "Galaxy S26 FE 外观设计线索曝光。这类内容主要看外观设计、按键布局、相机模组和尺寸变化，后续最好等更多渲染图或保护壳线索互相验证。",
+          "keyPoints": [
+            "外观 / 配色 / 尺寸"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是实际体验内容，买前适合重点看缺点和取舍。",
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         }
       ]
@@ -365,52 +395,6 @@ window.phoneRadarDaily = {
       "title": "行业趋势",
       "hint": "看方向，不急着当购买依据。",
       "items": [
-        {
-          "id": "newsnow-4c5f427a43ea",
-          "title": "给第一次买华为酷友们提醒一下，Mate 80 Pro Max 是4g手机不是5g手机，手机会显示5gA当不是5g手机。",
-          "originalTitle": "",
-          "source": "酷安热榜",
-          "brand": "Huawei",
-          "type": "爆料",
-          "trust": "高关注爆料源",
-          "date": "2026-06-08",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://www.coolapk.com/feed/72202905",
-          "image": "",
-          "verdict": "先看",
-          "takeaway": "给第一次买华为酷友们提醒一下，Mate 80 Pro Max 是4g手机不是5g手机，手机会显示5gA当不是5g手机。",
-          "detail": "给第一次买华为酷友们提醒一下，Mate 80 Pro Max 是4g手机不是5g手机，手机会显示5gA当不是5g手机。",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
-        {
-          "id": "newsnow-5c3e800f709c",
-          "title": "兄弟们 有没和我一样眼睛敏感的，请问下最后都在用什么手机啊？",
-          "originalTitle": "",
-          "source": "酷安热榜",
-          "brand": "行业",
-          "type": "爆料",
-          "trust": "高关注爆料源",
-          "date": "2026-06-08",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://www.coolapk.com/feed/72216029",
-          "image": "",
-          "verdict": "扫一眼",
-          "takeaway": "兄弟们 有没和我一样眼睛敏感的，请问下最后都在用什么手机啊？",
-          "detail": "兄弟们 有没和我一样眼睛敏感的，请问下最后都在用什么手机啊？",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
         {
           "id": "newsnow-2faca7cbcc6b",
           "title": "2026 年第一季度鸿蒙在中国智能手机市场份额反超 iOS，安卓仍占 63%，这反映了怎样的市场格局？",
@@ -450,6 +434,75 @@ window.phoneRadarDaily = {
           "verdict": "可略过",
           "takeaway": "Samsung 折叠屏相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
           "detail": "Samsung 折叠屏相关消息。重点看折痕、铰链、厚度、屏幕可靠性和重量是否有实质改善。",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        },
+        {
+          "id": "auto-6e78c3872af4",
+          "title": "HONOR 相关消息",
+          "originalTitle": "",
+          "source": "Android Authority",
+          "brand": "HONOR",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-06-08",
+          "time": "09:53",
+          "publishedAt": "2026-06-08T09:53:43.000Z",
+          "url": "https://www.androidauthority.com/google-pixel-10-magic-cue-third-party-apps-preview-3675330/",
+          "image": "https://www.androidauthority.com/wp-content/uploads/2025/08/Magic-Cue-Suggestions-with-rainbow-graphic.jpg",
+          "verdict": "可略过",
+          "takeaway": "HONOR 相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
+          "detail": "HONOR 相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        },
+        {
+          "id": "auto-88353f40dee4",
+          "title": "Galaxy S26 电池 / 充电相关消息",
+          "originalTitle": "",
+          "source": "Android Authority",
+          "brand": "Samsung",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-06-08",
+          "time": "07:52",
+          "publishedAt": "2026-06-08T07:52:06.000Z",
+          "url": "https://www.androidauthority.com/samsung-galaxy-s26-new-performance-mode-3675304/",
+          "image": "https://www.androidauthority.com/wp-content/uploads/2026/03/samsung-galaxy-s26-display-app-drawer.jpg",
+          "verdict": "可略过",
+          "takeaway": "Galaxy S26 电池 / 充电相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
+          "detail": "Galaxy S26 电池 / 充电相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
+          "keyPoints": [
+            "电池 / 充电"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "影响日常体验，尤其是游戏、拍照和长时间使用。",
+          "action": "有具体参数就记录到参数库；没有参数就先收藏。"
+        },
+        {
+          "id": "auto-2576843732fd",
+          "title": "Samsung 相关消息",
+          "originalTitle": "",
+          "source": "Gizmochina",
+          "brand": "Samsung",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-06-07",
+          "time": "14:25",
+          "publishedAt": "2026-06-07T14:25:09.000Z",
+          "url": "https://www.gizmochina.com/2026/06/07/heres-your-first-real-life-look-at-the-galaxy-s26-fe/",
+          "image": "https://www.gizmochina.com/wp-content/uploads/2026/02/Samsung-Galaxy-S26-300x300.jpg?x10805",
+          "verdict": "可略过",
+          "takeaway": "Samsung 相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
+          "detail": "Samsung 相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
           "keyPoints": [
             "爆料"
           ],

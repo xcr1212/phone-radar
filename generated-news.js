@@ -1,20 +1,20 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-06-08T16:18:56.578Z",
+  "updatedAt": "2026-06-08T20:32:45.438Z",
   "news": [
     {
-      "id": "auto-c4a69b89ab7d",
-      "title": "WWDC 2026: All the news from Apple’s developers conference",
-      "source": "The Verge",
+      "id": "auto-1f6038c86d7d",
+      "title": "苹果 Apple 智能重塑 iOS / macOS 27 Safari 浏览器：智能整合标签页、新增自定义扩展生成",
+      "source": "IT之家",
       "brand": "iPhone",
       "model": "iPhone 相关机型",
       "type": "爆料",
       "trust": "媒体汇总",
       "date": "2026-06-08",
-      "time": "16:05",
-      "publishedAt": "2026-06-08T16:05:33.000Z",
-      "url": "https://www.theverge.com/tech/944110/wwdc-2026-news-announcements",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STK071_APPLE_E.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "summary": "Apple’s annual WWDC event is kicking off on June 8th with a keynote presentation starting at 1PM ET / 10AM PT, where Apple will announce major updates to iOS, macOS, and its other…",
+      "time": "17:56",
+      "publishedAt": "2026-06-08T17:56:36.000Z",
+      "url": "https://www.ithome.com/0/961/674.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/6/7179351a-094b-4ac4-bea6-fc854064e5aa.png?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 6 月 9 日消息，在目前正在进行的 WWDC26 中，苹果宣布对 Safari 浏览器进行 Apple 智能升级。 全新 Safari 浏览器能够检测打开的网页，自动整合标签页，便于用户查找，同时用户还可以用自然语言告诉 Safari 浏览器自己要关注的内容，内容更新时用户将会获得通知。 同时，苹果还为 Safari 浏览器引入自定义扩展生成功…",
       "tags": [
         "iPhone",
         "爆料",
@@ -82,26 +82,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-2ee0fce8fd19",
-      "title": "小米手环 9 新内测固件 3.1.26 版本开推：功耗优化、睡眠监测算法升级，支持更多车钥匙",
-      "source": "IT之家",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-08",
-      "time": "12:55",
-      "publishedAt": "2026-06-08T12:55:05.000Z",
-      "url": "https://www.ithome.com/0/961/617.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/6/2ef58eb7-d470-4519-97ab-b2f46b604ec3.jpg?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 6 月 8 日消息，小米集团手机部副总裁、可穿戴部总经理张雷今日上午宣布， 小米手环 9 新版本先锋计划正式开启 。 本次更新带来多项实用升级：功耗策略全面优化，设备更省电、续航更持久；睡眠监测算法升级，并支持获取小米手机状态，睡眠数据更准确；消息隐私体验进一步增强，垂腕佩戴时可关闭消息详情展示，让通知更安心。同时修复了多项已知问题，系统运行更稳…",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "coolapk-user-e65483f8b3fc",
       "title": "竹本青：【TCL华星认领：供屏小米 17T系列手机】 今日，小米正式发布全新17T系列手机，由TCL华星参与供屏，全系采用…",
       "source": "竹本青",
@@ -119,26 +99,6 @@ window.phoneRadarAuto = {
         "Xiaomi",
         "爆料",
         "酷安博主"
-      ]
-    },
-    {
-      "id": "auto-3e4752d54cdb",
-      "title": "荣耀手机 160 版本官宣新增「虚拟权限」，应用获取敏感信息系统将提供空白数据",
-      "source": "IT之家",
-      "brand": "HONOR",
-      "model": "HONOR 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-08",
-      "time": "12:45",
-      "publishedAt": "2026-06-08T12:45:00.000Z",
-      "url": "https://www.ithome.com/0/961/616.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/6/ba0d08a5-83ae-4573-bd2d-d9055bd4cfe6.jpg?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 6 月 8 日消息，荣耀产品维护与升级 @荣耀小芳哥 今日发布视频，介绍了荣耀手机 160 版本新增的「虚拟权限」。 大家肯定遇到过这种难受的情况：需要提供权限才能使用某些应用。 现在打开虚拟权限后， 在应用尝试读取如“通话记录”等敏感信息时，系统将向其提供空白数据 ，有效保护了大家的数据隐私！ 体验路径：设置 > 隐私与安全 > 虚拟权限 IT…",
-      "tags": [
-        "HONOR",
-        "爆料",
-        "自动抓取"
       ]
     },
     {
@@ -182,26 +142,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-56c5f6b6337e",
-      "title": "传音 Infinix Hot 70 Pro 5G 手机曝光：6000mAh 电池、天玑 7100 芯片，引入点阵背屏",
-      "source": "IT之家",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-08",
-      "time": "12:00",
-      "publishedAt": "2026-06-08T12:00:55.000Z",
-      "url": "https://www.ithome.com/0/961/611.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/6/2d95537a-cb5c-44db-a3a1-d0eda841fc77.png?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 6 月 8 日消息，据科技媒体 GizChina 今天报道，传音 Infinix Hot 70 Pro 5G 手机参数现已曝光，新机将配备联发科天玑 7100 芯片， 引入点阵背屏设计 。 据爆料，这台手机将搭载 6.76 英寸 HD+ 显示屏，支持 120Hz 高刷，采用打孔屏设计。机身背面配备 Dot Matrix 点阵屏幕，可显示通知消息、…",
-      "tags": [
-        "行业",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-15624445d640",
       "title": "Xiaomi 17T Pro Global vs Chinese model: Where are the two phones different?",
       "source": "Gizmochina",
@@ -235,26 +175,6 @@ window.phoneRadarAuto = {
       "url": "https://www.gizmochina.com/2026/06/08/xiaomi-humanoid-robot-17t-pro-camera-demo/",
       "image": "https://www.gizmochina.com/wp-content/uploads/2026/06/Xiaomi-Humanoid-robot-with-Xiaomi-17T-Pro-300x200.jpg?x10805",
       "summary": "After the global announcement, Xiaomi held a launch event today to introduce the Xiaomi 17T and Xiaomi 17T Pro in China. They start at 2,999 yuan (~ $445) and 3,999 yuan (~ $590),…",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-05f939323284",
-      "title": "小米 17T 国行版 / 外版细节差异：标准版电池大 500mAh，Pro 版新增 16GB 内存",
-      "source": "IT之家",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-08",
-      "time": "10:19",
-      "publishedAt": "2026-06-08T10:19:52.000Z",
-      "url": "https://www.ithome.com/0/961/562.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/6/bd2d2518-cf6a-4363-9f58-6096500240ad.jpg?x-bce-process=image/format,f_auto/auto-orient,o_1",
-      "summary": "IT之家 6 月 8 日消息，小米今天在中国大陆市场推出 17T 系列手机，提供 17T 标准版 / 17T Pro 两款机型，分别配备天玑 8500 Ultra / 天玑 9500 处理器， 暑期特惠价 2999 元起 。 ▲ IT之家评测室：小米 17T Pro 手机体验 IT之家搜集小米海外官网、17T 发布会信息后发现，小米 17T 国行版配备了…",
       "tags": [
         "Xiaomi",
         "爆料",
@@ -362,26 +282,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "coolapk-user-5505b469ca6f",
-      "title": "竹本青：【小米 17T系列 正式发布：标准版首销2999元起，Pro版首销3999元起】 小米 17T 12+256GB…",
-      "source": "竹本青",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-06-08",
-      "time": "06:17",
-      "publishedAt": "2026-06-08T06:17:22.000Z",
-      "url": "https://www.coolapk.com/feed/72225490",
-      "image": "http://image.coolapk.com/feed/2026/0608/14/4248714_27d5a6d7_9504_689_20@2000x3633.jpg",
-      "summary": "【小米 17T系列 正式发布：标准版首销2999元起，Pro版首销3999元起】 小米 17T 12+256GB —— 2999元 12+512GB —— 3499元 小米 17T Pro 12+256GB —— 3999元 12+512GB —— 4499元 16+512GB —— 4799元 ● 小米17T Pro 配置： 核心： ▫️6.83\"1.5…",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
       "id": "auto-b3738b533fa6",
       "title": "Huawei Mate 90 series to use a similar camera ring like Mate 80",
       "source": "Huawei Central",
@@ -458,86 +358,6 @@ window.phoneRadarAuto = {
       "tags": [
         "iPhone",
         "评测",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-5c3e800f709c",
-      "title": "兄弟们 有没和我一样眼睛敏感的，请问下最后都在用什么手机啊？",
-      "source": "酷安热榜",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-06-08",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72216029",
-      "image": "",
-      "summary": "兄弟们 有没和我一样眼睛敏感的，请问下最后都在用什么手机啊？",
-      "tags": [
-        "行业",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-4c5f427a43ea",
-      "title": "给第一次买华为酷友们提醒一下，Mate 80 Pro Max 是4g手机不是5g手机，手机会显示5gA当不是5g手机。",
-      "source": "酷安热榜",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-06-08",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72202905",
-      "image": "",
-      "summary": "给第一次买华为酷友们提醒一下，Mate 80 Pro Max 是4g手机不是5g手机，手机会显示5gA当不是5g手机。",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-cf090000977a",
-      "title": "苹果第三方输入法哪家好用啊 最近用的百度但是感觉震动很粘手 有延迟 #iPhone17ProMax# #iPhone17Pro#",
-      "source": "酷安热榜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-06-08",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72198986",
-      "image": "",
-      "summary": "苹果第三方输入法哪家好用啊 最近用的百度但是感觉震动很粘手 有延迟 #iPhone17ProMax# #iPhone17Pro#",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-6c51b578b90d",
-      "title": "看看友商线下机的颜值和代言人宣发，小米17T拿啥去打？[疑问][疑问][疑问]机子配色丑的要死，没有代言也没有宣发，我祝你成功吧[托腮][托腮][托腮] #vivos60# #OPPOReno16# #华为nova16#",
-      "source": "酷安热榜",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-06-08",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72211847",
-      "image": "",
-      "summary": "看看友商线下机的颜值和代言人宣发，小米17T拿啥去打？[疑问][疑问][疑问]机子配色丑的要死，没有代言也没有宣发，我祝你成功吧[托腮][托腮][托腮] #vivos60# #OPPOReno16# #华为nova16#",
-      "tags": [
-        "Huawei",
-        "爆料",
         "NewsNow"
       ]
     },
@@ -675,26 +495,6 @@ window.phoneRadarAuto = {
       "url": "https://9to5mac.com/2026/06/07/dummy-unit-iphone-fold-ultra-new-look/",
       "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/iphone-foldable-dummy-photos.jpg?quality=82&strip=all&w=1600",
       "summary": "We don’t know yet whether Apple will call it the iPhone Fold, iPhone Ultra, or something else — but everyone expects the company to announce its first foldable phone later this ye…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-ae1964412a51",
-      "title": "Best Look at Foldable iPhone Design Revealed, May Only Come in White",
-      "source": "MacRumors",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-07",
-      "time": "10:28",
-      "publishedAt": "2026-06-07T10:28:04.000Z",
-      "url": "https://www.macrumors.com/2026/06/07/best-look-yet-at-foldable-iphone-design-revealed/",
-      "image": "https://images.macrumors.com/article-new/2026/06/foldable-iphone-dummy-sonny-dickson.jpg",
-      "summary": "Sonny Dickson today shared detailed images of a foldable iPhone dummy unit with what appears to be a finalized design, providing the best look yet at the device's look, with the s…",
       "tags": [
         "iPhone",
         "爆料",
