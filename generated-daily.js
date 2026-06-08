@@ -1,12 +1,12 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-06-08T05:01:14.564Z",
+  "updatedAt": "2026-06-08T11:20:56.402Z",
   "issueDate": "2026-06-08",
   "issue": "VOL.260608",
   "title": "手机情报日报",
-  "intro": "今日筛出 19 条重点，其中 8 条是重点爆料，包含 5 条 iPhone 相关、0 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 19 条重点，其中 8 条是重点爆料，包含 6 条 iPhone 相关、0 条官方确认、0 条参数线索。",
   "stats": {
     "total": 19,
-    "iphone": 5,
+    "iphone": 6,
     "leaks": 8,
     "official": 0,
     "specs": 0
@@ -18,24 +18,24 @@ window.phoneRadarDaily = {
       "hint": "机模、配色、影像、屏幕、电池和芯片线索先看。",
       "items": [
         {
-          "id": "auto-6b4f8dd79419",
-          "title": "vivo X Fold6 折叠屏真机曝光，已定档本月发布",
+          "id": "auto-2cdce95d06b8",
+          "title": "【IT之家开箱】小米 17T Pro 手机图赏：简洁设计，低调深沉",
           "originalTitle": "",
           "source": "IT之家",
-          "brand": "vivo",
+          "brand": "Xiaomi",
           "type": "爆料",
           "trust": "媒体汇总",
           "date": "2026-06-08",
-          "time": "04:22",
-          "publishedAt": "2026-06-08T04:22:53.000Z",
-          "url": "https://www.ithome.com/0/961/305.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/6/2ebb1628-b3b2-474e-ae21-2c9c97be62d3.png?x-bce-process=image/format,f_auto",
+          "time": "08:33",
+          "publishedAt": "2026-06-08T08:33:41.000Z",
+          "url": "https://www.ithome.com/0/961/515.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/6/405401ea-1fb1-460c-849f-2144f2a22a49.jpg?x-bce-process=image/format,f_auto",
           "verdict": "先看",
-          "takeaway": "IT之家 6 月 8 日消息，据新浪娱乐，演员、歌手朱珠今日亮相法网女单决赛现场，手中这款折叠屏手机格外抢镜，预计为尚未发布的 vivo X Fold6。 可以看到，这款新机配色格外明亮，搭载圆形后置镜头模组，蔡司小蓝标位于镜头中部。与上代相比，新机整理外观更加圆润。 IT之家注意到，vivo 今日早些时候已经官宣 vivo X Fold6 折叠屏手机 6…",
-          "detail": "IT之家 6 月 8 日消息，据新浪娱乐，演员、歌手朱珠今日亮相法网女单决赛现场，手中这款折叠屏手机格外抢镜，预计为尚未发布的 vivo X Fold6。 可以看到，这款新机配色格外明亮，搭载圆形后置镜头模组，蔡司小蓝标位于镜头中部。与上代相比，新机整理外观更加圆润。 IT之家注意到，vivo 今日早些时候已经官宣 vivo X Fold6 折叠屏手机 6…",
+          "takeaway": "6 月 8 日，小米举办新品发布会，正式面向国内市场发布了小米 17T 系列手机，包含小米 17T 和小米 17T Pro，定位“全能影像旗舰”。两款手机此前已在海外发布。而目前，IT之家已经拿到了 16GB+512GB 星云紫配色的小米 17T Pro，现在先为大家送上开箱图赏。 小米 17T Pro 的包装盒采用扁平的长方体设计，长度大约相当于过去标准…",
+          "detail": "6 月 8 日，小米举办新品发布会，正式面向国内市场发布了小米 17T 系列手机，包含小米 17T 和小米 17T Pro，定位“全能影像旗舰”。两款手机此前已在海外发布。而目前，IT之家已经拿到了 16GB+512GB 星云紫配色的小米 17T Pro，现在先为大家送上开箱图赏。 小米 17T Pro 的包装盒采用扁平的长方体设计，长度大约相当于过去标准…",
           "keyPoints": [
             "外观 / 配色 / 尺寸",
-            "屏幕形态"
+            "影像硬件"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
@@ -88,51 +88,72 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
-          "id": "auto-87cecf44c2a7",
-          "title": "消息称 iQOO 测试 10000mAh 巨容量电池性能机",
-          "originalTitle": "",
-          "source": "IT之家",
-          "brand": "vivo",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-06-08",
-          "time": "03:05",
-          "publishedAt": "2026-06-08T03:05:11.000Z",
-          "url": "https://www.ithome.com/0/961/279.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/6/a97cfe65-c18c-4047-b5a3-3943cd550dcf.jpg?x-bce-process=image/format,f_auto",
-          "verdict": "先看",
-          "takeaway": "IT之家 6 月 8 日消息，博主 @数码闲聊站 今日爆料，某厂 10000mAh 巨容量电池性能机测试中。结合该博主的爆料习惯， 预计该机为 iQOO 旗下产品 。 IT之家注意到，该品牌已经推出多款电池大容量的手机，例如 iQOO Z11 电池容量已经达到 9020mAh， iQOO Neo11 内置 7500mAh 蓝海电池， iQOO 15T 则搭…",
-          "detail": "IT之家 6 月 8 日消息，博主 @数码闲聊站 今日爆料，某厂 10000mAh 巨容量电池性能机测试中。结合该博主的爆料习惯， 预计该机为 iQOO 旗下产品 。 IT之家注意到，该品牌已经推出多款电池大容量的手机，例如 iQOO Z11 电池容量已经达到 9020mAh， iQOO Neo11 内置 7500mAh 蓝海电池， iQOO 15T 则搭…",
-          "keyPoints": [
-            "电池 / 充电",
-            "爆料来源"
-          ],
-          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "auto-7ed515523629",
-          "title": "一加 Turbo 6X Pro 手机主要规格公布：8000mAh 电池、天玑 7400 SUPER 等",
+          "id": "auto-05ca650c5aa8",
+          "title": "消息称三星将为欧版、韩版 Galaxy Z Flip8 小折叠手机配备 Exynos 2600 芯片",
           "originalTitle": "",
           "source": "IT之家",
           "brand": "Samsung",
           "type": "爆料",
           "trust": "媒体汇总",
           "date": "2026-06-08",
-          "time": "01:39",
-          "publishedAt": "2026-06-08T01:39:47.000Z",
-          "url": "https://www.ithome.com/0/961/247.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/6/d112090a-da3c-40d2-8344-bb9fe37d40bb.jpg?x-bce-process=image/format,f_auto",
+          "time": "09:31",
+          "publishedAt": "2026-06-08T09:31:12.000Z",
+          "url": "https://www.ithome.com/0/961/534.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/6/5c28b3cd-9ced-4e42-9f89-0ec4be76cad3.png?x-bce-process=image/format,f_auto",
           "verdict": "先看",
-          "takeaway": "IT之家 6 月 8 日消息， 一加 Turbo 6 X 系列将于 6 月 10 日 14:30 正式发布，官方现已公布一加 Turbo 6X Pro 的主要规格。 IT之家整理如下： 8000mAh 超大电池 80W 超级闪充 天玑 7400 SUPER 处理器 ColorOS16 六年流畅 1.5K 三星护眼屏 全亮度类 DC 调光 IP66/68/6…",
-          "detail": "IT之家 6 月 8 日消息， 一加 Turbo 6 X 系列将于 6 月 10 日 14:30 正式发布，官方现已公布一加 Turbo 6X Pro 的主要规格。 IT之家整理如下： 8000mAh 超大电池 80W 超级闪充 天玑 7400 SUPER 处理器 ColorOS16 六年流畅 1.5K 三星护眼屏 全亮度类 DC 调光 IP66/68/6…",
+          "takeaway": "IT之家 6 月 8 日消息，据韩媒 The Bell 报道，三星电子将在今年 8 月发布的 Galaxy Z Flip8 小折叠手机上， 采用 Exynos 2600 自研芯片 。 据业内人士透露，三星 MX 事业部将为 Galaxy Z Flip 系列新机采用 Exynos 芯片，目前 Flip8 已经开始初期量产，计划 8 月发布。 IT之家从原报道…",
+          "detail": "IT之家 6 月 8 日消息，据韩媒 The Bell 报道，三星电子将在今年 8 月发布的 Galaxy Z Flip8 小折叠手机上， 采用 Exynos 2600 自研芯片 。 据业内人士透露，三星 MX 事业部将为 Galaxy Z Flip 系列新机采用 Exynos 芯片，目前 Flip8 已经开始初期量产，计划 8 月发布。 IT之家从原报道…",
           "keyPoints": [
-            "外观 / 配色 / 尺寸",
-            "电池 / 充电",
-            "芯片 / 性能"
+            "芯片 / 性能",
+            "爆料来源"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "auto-81c6848706d8",
+          "title": "【IT之家评测室】小米 17T Pro 手机体验：以影像为抓手的全能旗舰",
+          "originalTitle": "",
+          "source": "IT之家",
+          "brand": "Xiaomi",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-06-08",
+          "time": "08:50",
+          "publishedAt": "2026-06-08T08:50:46.000Z",
+          "url": "https://www.ithome.com/0/961/522.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/6/bd2d2518-cf6a-4363-9f58-6096500240ad.jpg?x-bce-process=image/format,f_auto",
+          "verdict": "先看",
+          "takeaway": "6 月 8 日，小米举办新品发布会，正式面向国内市场发布了小米 17T 系列手机，包含小米 17T 和小米 17T Pro，定位“全能影像旗舰”。两款手机此前已在海外发布。 其实，小米 T 系列自 2019 年首发小米 9T 以来，一直专注于海外高端市场，7 年迭代 7 代产品，累计用户超 1500 万。而这次小米 17T 系列是该系列首次面向国内市场发布…",
+          "detail": "6 月 8 日，小米举办新品发布会，正式面向国内市场发布了小米 17T 系列手机，包含小米 17T 和小米 17T Pro，定位“全能影像旗舰”。两款手机此前已在海外发布。 其实，小米 T 系列自 2019 年首发小米 9T 以来，一直专注于海外高端市场，7 年迭代 7 代产品，累计用户超 1500 万。而这次小米 17T 系列是该系列首次面向国内市场发布…",
+          "keyPoints": [
+            "影像硬件"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "coolapk-user-5f54d04b9a2d",
+          "title": "竹本青：一加 Turbo 6X Pro 屏幕预热：1.5K 三星屏",
+          "originalTitle": "",
+          "source": "竹本青",
+          "brand": "Samsung",
+          "type": "爆料",
+          "trust": "高可信爆料",
+          "date": "2026-06-08",
+          "time": "06:02",
+          "publishedAt": "2026-06-08T06:02:13.000Z",
+          "url": "https://www.coolapk.com/feed/72225235",
+          "image": "http://image.coolapk.com/feed/2026/0608/14/4248714_578a3120_8532_1611_969@1080x1762.jpg",
+          "verdict": "先看",
+          "takeaway": "【一加 Turbo 6X Pro 屏幕预热：1.5K 三星屏】 ▫️1.5K 144Hz三星直屏 ▫️全亮度类 DC 调光 ▫️医显共研明眸护眼 ▫️峰值亮度6500nits #今日热点# #一加Turbo6XPro#",
+          "detail": "【一加 Turbo 6X Pro 屏幕预热：1.5K 三星屏】 ▫️1.5K 144Hz三星直屏 ▫️全亮度类 DC 调光 ▫️医显共研明眸护眼 ▫️峰值亮度6500nits #今日热点# #一加Turbo6XPro#",
+          "keyPoints": [
+            "屏幕形态"
+          ],
+          "confidence": "可信度较高，但仍属于发布前线索。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
@@ -153,30 +174,6 @@ window.phoneRadarDaily = {
           "takeaway": "【一加 Turbo 6X Pro 续航组合公布：8000mAh+80W有线】 ▫️6年耐用 8000mAh电池 ▫️80W有线｜旁路供电｜有线反向 #一加Turbo6XPro# #今日热点#",
           "detail": "【一加 Turbo 6X Pro 续航组合公布：8000mAh+80W有线】 ▫️6年耐用 8000mAh电池 ▫️80W有线｜旁路供电｜有线反向 #一加Turbo6XPro# #今日热点#",
           "keyPoints": [
-            "电池 / 充电"
-          ],
-          "confidence": "可信度较高，但仍属于发布前线索。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "coolapk-user-8bb23b8020f1",
-          "title": "竹本青：一加Turbo 6X系列将于6月10日发布，定位1500元档",
-          "originalTitle": "",
-          "source": "竹本青",
-          "brand": "Samsung",
-          "type": "爆料",
-          "trust": "高可信爆料",
-          "date": "2026-06-08",
-          "time": "01:00",
-          "publishedAt": "2026-06-08T01:00:33.000Z",
-          "url": "https://www.coolapk.com/feed/72220263",
-          "image": "http://image.coolapk.com/feed/2026/0608/09/4248714_b5455c06_0432_7553_961@1920x1080.jpg",
-          "verdict": "先看",
-          "takeaway": "【一加Turbo 6X系列 官宣6月10日发布，定位1500元档】 ● 一加 Turbo 6X Pro SKU：跃马黑/心想事橙 8+128GB/8+256GB/12+256GB ▫️6.78\" 1.5K 144Hz 三星直屏 ▫️天玑7400 SUPER ▫️8000mAh电池+80W有线 ▫️前置16MP｜后置50MP+8MP ▫️塑料中框｜短焦指纹…",
-          "detail": "【一加Turbo 6X系列 官宣6月10日发布，定位1500元档】 ● 一加 Turbo 6X Pro SKU：跃马黑/心想事橙 8+128GB/8+256GB/12+256GB ▫️6.78\" 1.5K 144Hz 三星直屏 ▫️天玑7400 SUPER ▫️8000mAh电池+80W有线 ▫️前置16MP｜后置50MP+8MP ▫️塑料中框｜短焦指纹…",
-          "keyPoints": [
-            "屏幕形态",
             "电池 / 充电"
           ],
           "confidence": "可信度较高，但仍属于发布前线索。",
@@ -213,6 +210,29 @@ window.phoneRadarDaily = {
       "title": "iPhone 重点",
       "hint": "不是硬件爆料，但和 iPhone 体验或路线有关。",
       "items": [
+        {
+          "id": "auto-9442f37aac05",
+          "title": "苹果发布会最全预测：今晚你的 iPhone，会变成这个样子｜WWDC2026",
+          "originalTitle": "",
+          "source": "爱范儿",
+          "brand": "iPhone",
+          "type": "评测",
+          "trust": "媒体汇总",
+          "date": "2026-06-08",
+          "time": "09:41",
+          "publishedAt": "2026-06-08T09:41:11.000Z",
+          "url": "https://www.ifanr.com/1668275?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "image": "https://s3.ifanr.com/wp-content/uploads/2026/06/gift-768x1024.jpg",
+          "verdict": "先看",
+          "takeaway": "库克最后一舞",
+          "detail": "库克最后一舞",
+          "keyPoints": [
+            "评测"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是实际体验内容，买前适合重点看缺点和取舍。",
+          "action": "中文源可以直接点开快读；看完只保留和购机有关的点。"
+        },
         {
           "id": "newsnow-cf090000977a",
           "title": "苹果第三方输入法哪家好用啊 最近用的百度但是感觉震动很粘手 有延迟 #iPhone17ProMax# #iPhone17Pro#",
@@ -290,56 +310,72 @@ window.phoneRadarDaily = {
       "hint": "能直接更新到参数库。",
       "items": [
         {
-          "id": "auto-3411228c4a38",
-          "title": "OPPO 发布 / 上市相关消息",
+          "id": "coolapk-user-5505b469ca6f",
+          "title": "竹本青：【小米 17T系列 正式发布：标准版首销2999元起，Pro版首销3999元起】 小米 17T 12+256GB…",
           "originalTitle": "",
-          "source": "Gizmochina",
-          "brand": "OPPO",
+          "source": "竹本青",
+          "brand": "Xiaomi",
           "type": "爆料",
-          "trust": "媒体汇总",
+          "trust": "高可信爆料",
           "date": "2026-06-08",
-          "time": "03:11",
-          "publishedAt": "2026-06-08T03:11:22.000Z",
-          "url": "https://www.gizmochina.com/2026/06/08/oneplus-turbo-6x-pro-launch-date-key-specifications-officially-revealed/",
-          "image": "https://www.gizmochina.com/wp-content/uploads/2026/06/OnePlus-Turbo-6X-series-launch-date-300x169.jpg?x10805",
-          "verdict": "可略过",
-          "takeaway": "OPPO 有发布或新功能消息，适合确认是否和新机有关。",
-          "detail": "OPPO 发布 / 上市相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
+          "time": "06:17",
+          "publishedAt": "2026-06-08T06:17:22.000Z",
+          "url": "https://www.coolapk.com/feed/72225490",
+          "image": "http://image.coolapk.com/feed/2026/0608/14/4248714_27d5a6d7_9504_689_20@2000x3633.jpg",
+          "verdict": "扫一眼",
+          "takeaway": "【小米 17T系列 正式发布：标准版首销2999元起，Pro版首销3999元起】 小米 17T 12+256GB —— 2999元 12+512GB —— 3499元 小米 17T Pro 12+256GB —— 3999元 12+512GB —— 4499元 16+512GB —— 4799元 ● 小米17T Pro 配置： 核心： ▫️6.83\"1.5…",
+          "detail": "【小米 17T系列 正式发布：标准版首销2999元起，Pro版首销3999元起】 小米 17T 12+256GB —— 2999元 12+512GB —— 3499元 小米 17T Pro 12+256GB —— 3999元 12+512GB —— 4499元 16+512GB —— 4799元 ● 小米17T Pro 配置： 核心： ▫️6.83\"1.5…",
           "keyPoints": [
             "爆料"
           ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "confidence": "可信度较高，但仍属于发布前线索。",
           "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        }
-      ]
-    },
-    {
-      "id": "review",
-      "title": "评测与体验",
-      "hint": "买前再细看，平时扫一眼即可。",
-      "items": [
+        },
         {
-          "id": "auto-7f8b92c4cde6",
-          "title": "Galaxy S26 FE 外观设计线索曝光",
+          "id": "coolapk-user-f599665c1faf",
+          "title": "竹本青：这啥发布会啊，剪的没有连续感，很奇怪的感觉 #小米17Pro#",
           "originalTitle": "",
-          "source": "Android Central",
-          "brand": "Samsung",
-          "type": "评测",
-          "trust": "媒体汇总",
-          "date": "2026-06-07",
-          "time": "20:08",
-          "publishedAt": "2026-06-07T20:08:22.000Z",
-          "url": "https://www.androidcentral.com/phones/samsung-galaxy/samsung-galaxy-s26-fe-leaks-reveal",
-          "image": "https://cdn.mos.cms.futurecdn.net/wtxvdX499hQ8iyMTHK6Yj4-1280-80.jpg",
-          "verdict": "可略过",
-          "takeaway": "Galaxy S26 FE 外观设计线索曝光。重点看外观、颜色、尺寸是否和上一代有明显变化。",
-          "detail": "Galaxy S26 FE 外观设计线索曝光。这类内容主要看外观设计、按键布局、相机模组和尺寸变化，后续最好等更多渲染图或保护壳线索互相验证。",
+          "source": "竹本青",
+          "brand": "Xiaomi",
+          "type": "爆料",
+          "trust": "高可信爆料",
+          "date": "2026-06-08",
+          "time": "06:06",
+          "publishedAt": "2026-06-08T06:06:13.000Z",
+          "url": "https://www.coolapk.com/feed/72225296",
+          "image": "",
+          "verdict": "扫一眼",
+          "takeaway": "这啥发布会啊，剪的没有连续感，很奇怪的感觉 #小米17Pro#",
+          "detail": "这啥发布会啊，剪的没有连续感，很奇怪的感觉 #小米17Pro#",
           "keyPoints": [
-            "外观 / 配色 / 尺寸"
+            "爆料"
+          ],
+          "confidence": "可信度较高，但仍属于发布前线索。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        },
+        {
+          "id": "auto-88f32003f368",
+          "title": "Xiaomi 影像能力相关消息",
+          "originalTitle": "",
+          "source": "Gizmochina",
+          "brand": "Xiaomi",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-06-08",
+          "time": "10:53",
+          "publishedAt": "2026-06-08T10:53:15.000Z",
+          "url": "https://www.gizmochina.com/2026/06/08/xiaomi-humanoid-robot-17t-pro-camera-demo/",
+          "image": "https://www.gizmochina.com/wp-content/uploads/2026/06/Xiaomi-Humanoid-robot-with-Xiaomi-17T-Pro-300x200.jpg?x10805",
+          "verdict": "可略过",
+          "takeaway": "Xiaomi 影像能力相关宣传或案例，主要看是否透露拍摄能力变化。",
+          "detail": "Xiaomi 影像能力相关消息。重点看影像功能是否和新机硬件有关，如果只是拍摄案例或营销内容，参考价值会低一些。",
+          "keyPoints": [
+            "影像硬件"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是实际体验内容，买前适合重点看缺点和取舍。",
+          "impact": "影响拍照体验，买旗舰机时值得关注。",
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         }
       ]
@@ -419,29 +455,6 @@ window.phoneRadarDaily = {
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         },
         {
-          "id": "newsnow-77514aa94e77",
-          "title": "23年认识的一个女生，被她吊了整整一整年，只接受你的好却不跟你确认关系，24年初气的臭骂她一顿，然后删了她，从此不再相信爱情，直到现在看到她发的抖音，还会心里咯噔一下，想起来很难过，都26年了，相当于都两年半了，怎么释怀啊兄弟们，有当过杰尼龟沸羊羊的兄弟吗出出主意[舒服]#华为Mate80ProMax# #华为Mate80# #华为Mate80Pro#",
-          "originalTitle": "",
-          "source": "酷安热榜",
-          "brand": "Huawei",
-          "type": "爆料",
-          "trust": "高关注爆料源",
-          "date": "2026-06-08",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://www.coolapk.com/feed/72196843",
-          "image": "",
-          "verdict": "扫一眼",
-          "takeaway": "23年认识的一个女生，被她吊了整整一整年，只接受你的好却不跟你确认关系，24年初气的臭骂她一顿，然后删了她，从此不再相信爱情，直到现在看到她发的抖音，还会心里咯噔一下，想起来很难过，都26年了，相当于都两年半了，怎么释怀啊兄弟们，有当过杰尼龟沸羊羊的兄弟吗出出主意[舒服]#华为Mate80ProMax# #华为Mate80# #华为Mate80Pro#",
-          "detail": "23年认识的一个女生，被她吊了整整一整年，只接受你的好却不跟你确认关系，24年初气的臭骂她一顿，然后删了她，从此不再相信爱情，直到现在看到她发的抖音，还会心里咯噔一下，想起来很难过，都26年了，相当于都两年半了，怎么释怀啊兄弟们，有当过杰尼龟沸羊羊的兄弟吗出出主意[舒服]#华为Mate80ProMax# #华为Mate80# #华为Mate80Pro#",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
-        {
           "id": "coolapk-user-e047d17909cd",
           "title": "竹本青：爱加TV又一力作，隔了30分钟，又预热一样的内容 #一加Turbo6XPro# #一加Turbo6#",
           "originalTitle": "",
@@ -461,29 +474,6 @@ window.phoneRadarDaily = {
             "爆料"
           ],
           "confidence": "可信度较高，但仍属于发布前线索。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
-        {
-          "id": "auto-2576843732fd",
-          "title": "Samsung 相关消息",
-          "originalTitle": "",
-          "source": "Gizmochina",
-          "brand": "Samsung",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-06-07",
-          "time": "14:25",
-          "publishedAt": "2026-06-07T14:25:09.000Z",
-          "url": "https://www.gizmochina.com/2026/06/07/heres-your-first-real-life-look-at-the-galaxy-s26-fe/",
-          "image": "https://www.gizmochina.com/wp-content/uploads/2026/02/Samsung-Galaxy-S26-300x300.jpg?x10805",
-          "verdict": "可略过",
-          "takeaway": "Samsung 相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
-          "detail": "Samsung 相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         }
