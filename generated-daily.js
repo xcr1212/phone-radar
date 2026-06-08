@@ -1,13 +1,13 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-06-08T20:32:45.438Z",
+  "updatedAt": "2026-06-08T23:36:30.968Z",
   "issueDate": "2026-06-08",
   "issue": "VOL.260608",
   "title": "手机情报日报",
-  "intro": "今日筛出 20 条重点，其中 8 条是重点爆料，包含 5 条 iPhone 相关、0 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 18 条重点，其中 6 条是重点爆料，包含 5 条 iPhone 相关、0 条官方确认、0 条参数线索。",
   "stats": {
-    "total": 20,
+    "total": 18,
     "iphone": 5,
-    "leaks": 8,
+    "leaks": 6,
     "official": 0,
     "specs": 0
   },
@@ -17,29 +17,6 @@ window.phoneRadarDaily = {
       "title": "重点爆料",
       "hint": "机模、配色、影像、屏幕、电池和芯片线索先看。",
       "items": [
-        {
-          "id": "auto-1f6038c86d7d",
-          "title": "苹果 Apple 智能重塑 iOS / macOS 27 Safari 浏览器：智能整合标签页、新增自定义扩展生成",
-          "originalTitle": "",
-          "source": "IT之家",
-          "brand": "iPhone",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-06-08",
-          "time": "17:56",
-          "publishedAt": "2026-06-08T17:56:36.000Z",
-          "url": "https://www.ithome.com/0/961/674.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/6/7179351a-094b-4ac4-bea6-fc854064e5aa.png?x-bce-process=image/format,f_auto",
-          "verdict": "先看",
-          "takeaway": "IT之家 6 月 9 日消息，在目前正在进行的 WWDC26 中，苹果宣布对 Safari 浏览器进行 Apple 智能升级。 全新 Safari 浏览器能够检测打开的网页，自动整合标签页，便于用户查找，同时用户还可以用自然语言告诉 Safari 浏览器自己要关注的内容，内容更新时用户将会获得通知。 同时，苹果还为 Safari 浏览器引入自定义扩展生成功…",
-          "detail": "IT之家 6 月 9 日消息，在目前正在进行的 WWDC26 中，苹果宣布对 Safari 浏览器进行 Apple 智能升级。 全新 Safari 浏览器能够检测打开的网页，自动整合标签页，便于用户查找，同时用户还可以用自然语言告诉 Safari 浏览器自己要关注的内容，内容更新时用户将会获得通知。 同时，苹果还为 Safari 浏览器引入自定义扩展生成功…",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
         {
           "id": "auto-4f6a9d55c892",
           "title": "iPhone 机模 / 配色信息曝光",
@@ -60,100 +37,6 @@ window.phoneRadarDaily = {
             "外观 / 配色 / 尺寸"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "auto-c458aac9fe84",
-          "title": "TCL 华星官宣供屏小米 17T 系列手机：最新发光材料与 2D 纯直屏工艺，全系标配莱茵四重护眼认证",
-          "originalTitle": "",
-          "source": "IT之家",
-          "brand": "Xiaomi",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-06-08",
-          "time": "15:59",
-          "publishedAt": "2026-06-08T15:59:51.000Z",
-          "url": "https://www.ithome.com/0/961/658.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/6/e620276a-4ccd-43fb-94dc-1b93fd2d41e8.jpg?x-bce-process=image/format,f_auto",
-          "verdict": "先看",
-          "takeaway": "IT之家 6 月 8 日消息， 全新小米 17T 系列手机已于今日下午正式发布 。该系列手机定位全能影像旗舰，主打高清显示与专业影像适配， 是小米回归国内 T 系列赛道的主力中端旗舰产品 。 TCL 华星发文，确认本次小米 17T 系列手机由 TCL 华星参与供屏。据介绍， 小米 17T 系列全系采用最新发光材料与 2D 纯直屏工艺 ，其中小米 17T 配…",
-          "detail": "IT之家 6 月 8 日消息， 全新小米 17T 系列手机已于今日下午正式发布 。该系列手机定位全能影像旗舰，主打高清显示与专业影像适配， 是小米回归国内 T 系列赛道的主力中端旗舰产品 。 TCL 华星发文，确认本次小米 17T 系列手机由 TCL 华星参与供屏。据介绍， 小米 17T 系列全系采用最新发光材料与 2D 纯直屏工艺 ，其中小米 17T 配…",
-          "keyPoints": [
-            "影像硬件",
-            "屏幕形态",
-            "芯片 / 性能"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "coolapk-user-e65483f8b3fc",
-          "title": "竹本青：【TCL华星认领：供屏小米 17T系列手机】 今日，小米正式发布全新17T系列手机，由TCL华星参与供屏，全系采用…",
-          "originalTitle": "",
-          "source": "竹本青",
-          "brand": "Xiaomi",
-          "type": "爆料",
-          "trust": "高可信爆料",
-          "date": "2026-06-08",
-          "time": "12:48",
-          "publishedAt": "2026-06-08T12:48:42.000Z",
-          "url": "https://www.coolapk.com/feed/72232178",
-          "image": "http://image.coolapk.com/feed/2026/0608/20/4248714_90dab0ac_2921_0548_449@690x574.jpg",
-          "verdict": "先看",
-          "takeaway": "【TCL华星认领：供屏小米 17T系列手机】 今日，小米正式发布全新17T系列手机，由TCL华星参与供屏，全系采用最新发光材料与2D纯直屏工艺。 其中，小米17T配备6.59英寸屏幕，分辨率达2756×1268，搭配120Hz高刷新率；小米17T Pro搭载6.83英寸全新低功耗超级阳光屏，支持144Hz高刷，拥有2772×1280分辨率。 其他方面，屏幕…",
-          "detail": "【TCL华星认领：供屏小米 17T系列手机】 今日，小米正式发布全新17T系列手机，由TCL华星参与供屏，全系采用最新发光材料与2D纯直屏工艺。 其中，小米17T配备6.59英寸屏幕，分辨率达2756×1268，搭配120Hz高刷新率；小米17T Pro搭载6.83英寸全新低功耗超级阳光屏，支持144Hz高刷，拥有2772×1280分辨率。 其他方面，屏幕…",
-          "keyPoints": [
-            "屏幕形态"
-          ],
-          "confidence": "可信度较高，但仍属于发布前线索。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "coolapk-user-83d90dc3bfb8",
-          "title": "竹本青：【小米回应南昌市SU7 Ultra起火事故：初步排除电池自燃引发起火，未造成人员伤亡】 小米公司发言人今晚发布通报…",
-          "originalTitle": "",
-          "source": "竹本青",
-          "brand": "Xiaomi",
-          "type": "爆料",
-          "trust": "高可信爆料",
-          "date": "2026-06-08",
-          "time": "12:03",
-          "publishedAt": "2026-06-08T12:03:19.000Z",
-          "url": "https://www.coolapk.com/feed/72231389",
-          "image": "http://image.coolapk.com/feed/2026/0608/20/4248714_8eb7c59d_0198_3804_994@1440x763.jpg",
-          "verdict": "先看",
-          "takeaway": "【小米回应南昌市SU7 Ultra起火事故：初步排除电池自燃引发起火，未造成人员伤亡】 小米公司发言人今晚发布通报，回应南昌市英雄大桥SU7 Ultra起火。 官方表示，火情由消防部门及时控制，未造成人员伤亡；事发前车辆动力电池全程处于正常工作状态，未出现热失控信号，初步排除电池自燃引发起火。 原文如下： 2026年6月7日，一辆小米SU7 Ultra在江…",
-          "detail": "【小米回应南昌市SU7 Ultra起火事故：初步排除电池自燃引发起火，未造成人员伤亡】 小米公司发言人今晚发布通报，回应南昌市英雄大桥SU7 Ultra起火。 官方表示，火情由消防部门及时控制，未造成人员伤亡；事发前车辆动力电池全程处于正常工作状态，未出现热失控信号，初步排除电池自燃引发起火。 原文如下： 2026年6月7日，一辆小米SU7 Ultra在江…",
-          "keyPoints": [
-            "电池 / 充电"
-          ],
-          "confidence": "可信度较高，但仍属于发布前线索。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "coolapk-user-46c203695b68",
-          "title": "竹本青：【酷比魔方掌玩mini 4 Pro 性能预热：搭载天玑7400，强过友商LCD屏新手机】 ▫️天玑7400｜安兔兔…",
-          "originalTitle": "",
-          "source": "竹本青",
-          "brand": "行业",
-          "type": "爆料",
-          "trust": "高可信爆料",
-          "date": "2026-06-08",
-          "time": "15:33",
-          "publishedAt": "2026-06-08T15:33:33.000Z",
-          "url": "https://www.coolapk.com/feed/72235123",
-          "image": "http://image.coolapk.com/feed/2026/0608/23/4248714_108da14c_2812_6145_777@1440x835.jpg",
-          "verdict": "先看",
-          "takeaway": "【酷比魔方掌玩mini 4 Pro 性能预热：搭载天玑7400，强过友商LCD屏新手机】 ▫️天玑7400｜安兔兔跑分约85万 ▫️8.8英寸2.5K LCD高刷屏 ▫️295g/6.95mm｜金属机身 #今日热点# #酷比魔方# #酷比魔方掌玩mini4Pro#",
-          "detail": "【酷比魔方掌玩mini 4 Pro 性能预热：搭载天玑7400，强过友商LCD屏新手机】 ▫️天玑7400｜安兔兔跑分约85万 ▫️8.8英寸2.5K LCD高刷屏 ▫️295g/6.95mm｜金属机身 #今日热点# #酷比魔方# #酷比魔方掌玩mini4Pro#",
-          "keyPoints": [
-            "芯片 / 性能"
-          ],
-          "confidence": "可信度较高，但仍属于发布前线索。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
@@ -197,6 +80,78 @@ window.phoneRadarDaily = {
           "verdict": "先看",
           "takeaway": "Huawei 影像能力相关宣传或案例，主要看是否透露拍摄能力变化。",
           "detail": "Huawei 影像能力相关消息。重点看影像功能是否和新机硬件有关，如果只是拍摄案例或营销内容，参考价值会低一些。",
+          "keyPoints": [
+            "外观 / 配色 / 尺寸",
+            "影像硬件",
+            "爆料来源"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "auto-79a93ac68640",
+          "title": "Xiaomi 发布 / 上市相关消息",
+          "originalTitle": "",
+          "source": "Gizmochina",
+          "brand": "Xiaomi",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-06-08",
+          "time": "02:28",
+          "publishedAt": "2026-06-08T02:28:24.000Z",
+          "url": "https://www.gizmochina.com/2026/06/08/redmi-k100-pro-leak-185hz-display-200mp-camera-50w-wireless-charging/",
+          "image": "https://www.gizmochina.com/wp-content/uploads/2026/04/Redmi-K90-Max-Launch-Specs-Price-300x200.jpg?x10805",
+          "verdict": "先看",
+          "takeaway": "Xiaomi 有发布或新功能消息，适合确认是否和新机有关。",
+          "detail": "Xiaomi 发布 / 上市相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
+          "keyPoints": [
+            "爆料来源"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "auto-9f67a080ad9c",
+          "title": "Galaxy S26 FE 机模 / 配色信息曝光",
+          "originalTitle": "",
+          "source": "Android Authority",
+          "brand": "Samsung",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-06-07",
+          "time": "15:58",
+          "publishedAt": "2026-06-07T15:58:01.000Z",
+          "url": "https://www.androidauthority.com/galaxy-s26-fe-wpc-image-3675280/",
+          "image": "https://www.androidauthority.com/wp-content/uploads/2026/06/Samsung-Galaxy-S26-FE-hero.jpg",
+          "verdict": "先看",
+          "takeaway": "Galaxy S26 FE 机模 / 配色信息曝光。重点看外观、颜色、尺寸是否和上一代有明显变化。",
+          "detail": "Galaxy S26 FE 机模 / 配色信息曝光。来源提到未发布机型的机模/配色图，适合先判断外观方向、颜色变化和机身轮廓，但最终量产版本仍可能调整。",
+          "keyPoints": [
+            "外观 / 配色 / 尺寸",
+            "影像硬件"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "auto-436b2b4b0456",
+          "title": "Galaxy S26 FE 影像能力相关消息",
+          "originalTitle": "",
+          "source": "9to5Google",
+          "brand": "Samsung",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-06-07",
+          "time": "01:35",
+          "publishedAt": "2026-06-07T01:35:00.000Z",
+          "url": "https://9to5google.com/2026/06/06/samsung-galaxy-s26-fe-leak/",
+          "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/06/galaxy-s26-fe-wpc-1.jpg?quality=82&strip=all&w=1098",
+          "verdict": "先看",
+          "takeaway": "Samsung 影像能力相关宣传或案例，主要看是否透露拍摄能力变化。",
+          "detail": "Galaxy S26 FE 影像能力相关消息。重点看影像功能是否和新机硬件有关，如果只是拍摄案例或营销内容，参考价值会低一些。",
           "keyPoints": [
             "外观 / 配色 / 尺寸",
             "影像硬件",
@@ -260,6 +215,29 @@ window.phoneRadarDaily = {
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         },
         {
+          "id": "newsnow-236b84e2ba75",
+          "title": "国行iPhone 悬着的心终于死了",
+          "originalTitle": "",
+          "source": "微博热搜",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "待验证",
+          "date": "2026-06-08",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://s.weibo.com/weibo?q=%E5%9B%BD%E8%A1%8CiPhone%20%E6%82%AC%E7%9D%80%E7%9A%84%E5%BF%83%E7%BB%88%E4%BA%8E%E6%AD%BB%E4%BA%86&t=31&band_rank=6&Refer=top",
+          "image": "",
+          "verdict": "扫一眼",
+          "takeaway": "国行iPhone 悬着的心终于死了",
+          "detail": "国行iPhone 悬着的心终于死了",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        },
+        {
           "id": "auto-9dcacd389796",
           "title": "iPhone 相关消息",
           "originalTitle": "",
@@ -289,29 +267,6 @@ window.phoneRadarDaily = {
       "title": "新机与官方发布",
       "hint": "能直接更新到参数库。",
       "items": [
-        {
-          "id": "coolapk-user-290ed54c5dbb",
-          "title": "竹本青：【王腾回应“塑料中框回旋镖”：说的是2025年，今年各种元器件都在涨价】 小米17T系列 国行版今日正式发布，标准…",
-          "originalTitle": "",
-          "source": "竹本青",
-          "brand": "Xiaomi",
-          "type": "爆料",
-          "trust": "高可信爆料",
-          "date": "2026-06-08",
-          "time": "13:35",
-          "publishedAt": "2026-06-08T13:35:33.000Z",
-          "url": "https://www.coolapk.com/feed/72233036",
-          "image": "http://image.coolapk.com/feed/2026/0608/21/4248714_425f1e30_5732_0402_234@1270x659.jpg",
-          "verdict": "扫一眼",
-          "takeaway": "【王腾回应“塑料中框回旋镖”：说的是2025年，今年各种元器件都在涨价】 小米17T系列 国行版今日正式发布，标准版首发2999元起，机身采用塑料中框。 有网友翻出前小米高管王腾过往言论，其曾在25年表示，2500元以上机型不应使用塑料中框。此番反差被网友调侃为“回旋镖”。 对此，王腾本人今日回应：“好像很多人在提这条评论，我说的可是2025年，毕竟26年…",
-          "detail": "【王腾回应“塑料中框回旋镖”：说的是2025年，今年各种元器件都在涨价】 小米17T系列 国行版今日正式发布，标准版首发2999元起，机身采用塑料中框。 有网友翻出前小米高管王腾过往言论，其曾在25年表示，2500元以上机型不应使用塑料中框。此番反差被网友调侃为“回旋镖”。 对此，王腾本人今日回应：“好像很多人在提这条评论，我说的可是2025年，毕竟26年…",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "可信度较高，但仍属于发布前线索。",
-          "impact": "影响购买预算，值得先看。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
         {
           "id": "auto-88f32003f368",
           "title": "Xiaomi 影像能力相关消息",

@@ -1,106 +1,6 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-06-08T20:32:45.438Z",
+  "updatedAt": "2026-06-08T23:36:30.968Z",
   "news": [
-    {
-      "id": "auto-1f6038c86d7d",
-      "title": "苹果 Apple 智能重塑 iOS / macOS 27 Safari 浏览器：智能整合标签页、新增自定义扩展生成",
-      "source": "IT之家",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-08",
-      "time": "17:56",
-      "publishedAt": "2026-06-08T17:56:36.000Z",
-      "url": "https://www.ithome.com/0/961/674.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/6/7179351a-094b-4ac4-bea6-fc854064e5aa.png?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 6 月 9 日消息，在目前正在进行的 WWDC26 中，苹果宣布对 Safari 浏览器进行 Apple 智能升级。 全新 Safari 浏览器能够检测打开的网页，自动整合标签页，便于用户查找，同时用户还可以用自然语言告诉 Safari 浏览器自己要关注的内容，内容更新时用户将会获得通知。 同时，苹果还为 Safari 浏览器引入自定义扩展生成功…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-c458aac9fe84",
-      "title": "TCL 华星官宣供屏小米 17T 系列手机：最新发光材料与 2D 纯直屏工艺，全系标配莱茵四重护眼认证",
-      "source": "IT之家",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-08",
-      "time": "15:59",
-      "publishedAt": "2026-06-08T15:59:51.000Z",
-      "url": "https://www.ithome.com/0/961/658.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/6/e620276a-4ccd-43fb-94dc-1b93fd2d41e8.jpg?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 6 月 8 日消息， 全新小米 17T 系列手机已于今日下午正式发布 。该系列手机定位全能影像旗舰，主打高清显示与专业影像适配， 是小米回归国内 T 系列赛道的主力中端旗舰产品 。 TCL 华星发文，确认本次小米 17T 系列手机由 TCL 华星参与供屏。据介绍， 小米 17T 系列全系采用最新发光材料与 2D 纯直屏工艺 ，其中小米 17T 配…",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "coolapk-user-46c203695b68",
-      "title": "竹本青：【酷比魔方掌玩mini 4 Pro 性能预热：搭载天玑7400，强过友商LCD屏新手机】 ▫️天玑7400｜安兔兔…",
-      "source": "竹本青",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-06-08",
-      "time": "15:33",
-      "publishedAt": "2026-06-08T15:33:33.000Z",
-      "url": "https://www.coolapk.com/feed/72235123",
-      "image": "http://image.coolapk.com/feed/2026/0608/23/4248714_108da14c_2812_6145_777@1440x835.jpg",
-      "summary": "【酷比魔方掌玩mini 4 Pro 性能预热：搭载天玑7400，强过友商LCD屏新手机】 ▫️天玑7400｜安兔兔跑分约85万 ▫️8.8英寸2.5K LCD高刷屏 ▫️295g/6.95mm｜金属机身 #今日热点# #酷比魔方# #酷比魔方掌玩mini4Pro#",
-      "tags": [
-        "行业",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
-      "id": "coolapk-user-290ed54c5dbb",
-      "title": "竹本青：【王腾回应“塑料中框回旋镖”：说的是2025年，今年各种元器件都在涨价】 小米17T系列 国行版今日正式发布，标准…",
-      "source": "竹本青",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-06-08",
-      "time": "13:35",
-      "publishedAt": "2026-06-08T13:35:33.000Z",
-      "url": "https://www.coolapk.com/feed/72233036",
-      "image": "http://image.coolapk.com/feed/2026/0608/21/4248714_425f1e30_5732_0402_234@1270x659.jpg",
-      "summary": "【王腾回应“塑料中框回旋镖”：说的是2025年，今年各种元器件都在涨价】 小米17T系列 国行版今日正式发布，标准版首发2999元起，机身采用塑料中框。 有网友翻出前小米高管王腾过往言论，其曾在25年表示，2500元以上机型不应使用塑料中框。此番反差被网友调侃为“回旋镖”。 对此，王腾本人今日回应：“好像很多人在提这条评论，我说的可是2025年，毕竟26年…",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
-      "id": "coolapk-user-e65483f8b3fc",
-      "title": "竹本青：【TCL华星认领：供屏小米 17T系列手机】 今日，小米正式发布全新17T系列手机，由TCL华星参与供屏，全系采用…",
-      "source": "竹本青",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-06-08",
-      "time": "12:48",
-      "publishedAt": "2026-06-08T12:48:42.000Z",
-      "url": "https://www.coolapk.com/feed/72232178",
-      "image": "http://image.coolapk.com/feed/2026/0608/20/4248714_90dab0ac_2921_0548_449@690x574.jpg",
-      "summary": "【TCL华星认领：供屏小米 17T系列手机】 今日，小米正式发布全新17T系列手机，由TCL华星参与供屏，全系采用最新发光材料与2D纯直屏工艺。 其中，小米17T配备6.59英寸屏幕，分辨率达2756×1268，搭配120Hz高刷新率；小米17T Pro搭载6.83英寸全新低功耗超级阳光屏，支持144Hz高刷，拥有2772×1280分辨率。 其他方面，屏幕…",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "酷安博主"
-      ]
-    },
     {
       "id": "auto-d481089884eb",
       "title": "This Galaxy Z Fold 8 Ultra competitor was just spotted in the wild",
@@ -119,26 +19,6 @@ window.phoneRadarAuto = {
         "Samsung",
         "爆料",
         "自动抓取"
-      ]
-    },
-    {
-      "id": "coolapk-user-83d90dc3bfb8",
-      "title": "竹本青：【小米回应南昌市SU7 Ultra起火事故：初步排除电池自燃引发起火，未造成人员伤亡】 小米公司发言人今晚发布通报…",
-      "source": "竹本青",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-06-08",
-      "time": "12:03",
-      "publishedAt": "2026-06-08T12:03:19.000Z",
-      "url": "https://www.coolapk.com/feed/72231389",
-      "image": "http://image.coolapk.com/feed/2026/0608/20/4248714_8eb7c59d_0198_3804_994@1440x763.jpg",
-      "summary": "【小米回应南昌市SU7 Ultra起火事故：初步排除电池自燃引发起火，未造成人员伤亡】 小米公司发言人今晚发布通报，回应南昌市英雄大桥SU7 Ultra起火。 官方表示，火情由消防部门及时控制，未造成人员伤亡；事发前车辆动力电池全程处于正常工作状态，未出现热失控信号，初步排除电池自燃引发起火。 原文如下： 2026年6月7日，一辆小米SU7 Ultra在江…",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "酷安博主"
       ]
     },
     {
@@ -358,6 +238,26 @@ window.phoneRadarAuto = {
       "tags": [
         "iPhone",
         "评测",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-236b84e2ba75",
+      "title": "国行iPhone 悬着的心终于死了",
+      "source": "微博热搜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "待验证",
+      "date": "2026-06-08",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://s.weibo.com/weibo?q=%E5%9B%BD%E8%A1%8CiPhone%20%E6%82%AC%E7%9D%80%E7%9A%84%E5%BF%83%E7%BB%88%E4%BA%8E%E6%AD%BB%E4%BA%86&t=31&band_rank=6&Refer=top",
+      "image": "",
+      "summary": "国行iPhone 悬着的心终于死了",
+      "tags": [
+        "iPhone",
+        "爆料",
         "NewsNow"
       ]
     },
