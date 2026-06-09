@@ -1,6 +1,246 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-06-08T23:36:30.968Z",
+  "updatedAt": "2026-06-09T04:33:59.432Z",
   "news": [
+    {
+      "id": "auto-277be722b110",
+      "title": "荣耀 X80 Pro Max 手机规格曝光：骁龙 6 Gen 5 处理器 + 11000mAh 电池",
+      "source": "IT之家",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-09",
+      "time": "04:00",
+      "publishedAt": "2026-06-09T04:00:28.000Z",
+      "url": "https://www.ithome.com/0/961/851.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/6/d9465342-c613-479a-82e1-cea58f3ef3d7.jpg?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 6 月 9 日消息，博主 @数码闲聊站 发文，曝光了荣耀 X80 Pro Max 手机的规格信息，该机有望本月发布。 据其透露，该机提供闪电红 / 玄甲黑 / 月影白 / 元气橙四种配色，采用“旗舰级 ID 设计”，提供了满级防水和抗摔机身，正面配备一块 6.78 英寸 2788x1280 分辨率 OLED 面板，手机搭载高通骁龙 6 Gen 5…",
+      "tags": [
+        "HONOR",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-cbe59a64d4c5",
+      "title": "Honor Magic 9 could feature iPhone 17-like 1:1 selfie camera",
+      "source": "Huawei Central",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-09",
+      "time": "03:53",
+      "publishedAt": "2026-06-09T03:53:00.000Z",
+      "url": "https://www.huaweicentral.com/honor-magic-9-selfie-camera/",
+      "image": "https://www.huaweicentral.com/wp-content/uploads/2026/06/selfie-camera-leak.jpg",
+      "summary": "News about the Honor Magic 9 series suggests that the flagship lineup will follow Apple’s lead in upgrading the selfie camera. As 2026 is about to enter the second half, more bran…",
+      "tags": [
+        "HONOR",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-457275e4e29b",
+      "title": "竹本青：荣耀X80 Pro Max 被曝本月发布：11000mAh大电池",
+      "source": "竹本青",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-06-09",
+      "time": "03:33",
+      "publishedAt": "2026-06-09T03:33:26.000Z",
+      "url": "https://www.coolapk.com/feed/72243767",
+      "image": "http://image.coolapk.com/feed/2026/0609/11/4248714_649a7199_6005_1009_458@1272x868.jpg",
+      "summary": "【荣耀X80 Pro Max 被曝本月发布：11000mAh大电池，骁龙6 Gen5处理器】 ▫️6.8\"± 1.5K OLED直屏｜大R角/窄边框 ▫️骁龙6 Gen5处理器 ▫️11000mAh巨容量电池+90W快充 ▫️满级防水｜抗摔机身｜旗舰级ID设计 #今日热点# #MagicOS10# #荣耀X80#",
+      "tags": [
+        "HONOR",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-2529feb81474",
+      "title": "零刻为 SER8 迷你主机推送 BIOS 更新，修复驱动兼容性冲突",
+      "source": "IT之家",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-09",
+      "time": "03:08",
+      "publishedAt": "2026-06-09T03:08:28.000Z",
+      "url": "https://www.ithome.com/0/961/824.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/6/13148fbb-43f5-4b34-bc58-f834f3896c67.jpg?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 6 月 9 日消息，零刻 (Beelink) 本月 3 日表示，其已注意到搭载 AMD 锐龙 7 8745HS / 8845HS 处理器的 SER8 迷你主机在将操作系统或 AMD 官方驱动程序更新至新版本后可能会出现系统冻结、卡顿或随机重启的情况。 根据企业技术团队的确认，零刻表示该问题是因为 受影响 SER8 迷你主机的出厂默认芯片组驱动程序…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-4f9c4256f51e",
+      "title": "OnePlus to launch all-new ‘N Series’ in India by July",
+      "source": "Gizmochina",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-09",
+      "time": "02:36",
+      "publishedAt": "2026-06-09T02:36:20.000Z",
+      "url": "https://www.gizmochina.com/2026/06/09/oneplus-n-series-india-launch-july-price-under-20000/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2024/01/OnePlus-Nord-N30-SE-5G-Featured-300x200.jpeg?x10805",
+      "summary": "OnePlus could launch a brand-new lineup in India, called the OnePlus N Series, according to an exclusive tip by well-known leaker Yogesh Brar. The launch is expected to happen as…",
+      "tags": [
+        "OPPO",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-729633cf9974",
+      "title": "竹本青：小米商城全新会员体系将于6月15日全量上线",
+      "source": "竹本青",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-06-09",
+      "time": "02:35",
+      "publishedAt": "2026-06-09T02:35:27.000Z",
+      "url": "https://www.coolapk.com/feed/72242555",
+      "image": "http://image.coolapk.com/feed/2026/0609/10/4248714_362a4f3d_2525_0878_130@1080x4754.jpg",
+      "summary": "【小米商城全新会员体系：五大会员等级／四大成长维度，6月15日全量上线】 ▫️五等级：普通、白银、黄金、铂金、黑钻 ▫️四维度：消费分+活跃分+激励分+基础分 ▫️权益场景：购物、服务、影音娱乐等 ▫️原权益保障：原有 FRIEND 会员权益将平稳过渡，不受影响 #今日热点# #HyperOS3# #小米17#",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "coolapk-user-0f043ffe41f8",
+      "title": "竹本青：一加 Turbo 6X 屏幕预热：144Hz LCD",
+      "source": "竹本青",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-06-09",
+      "time": "02:32",
+      "publishedAt": "2026-06-09T02:32:28.000Z",
+      "url": "https://www.coolapk.com/feed/72242492",
+      "image": "http://image.coolapk.com/feed/2026/0609/10/4248714_1d9293df_2347_1854_10@1080x1440.jpg",
+      "summary": "【一加 Turbo 6X 屏幕预热：144Hz LCD】 ▫️无频闪硬件 DC调光 ▫️支持舒眠模式 ▫️支持雨水/油手/手套触控 #今日热点# #一加turbo6x# #ColorOS16#",
+      "tags": [
+        "OPPO",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "coolapk-user-c65262b0e351",
+      "title": "竹本青：一加 Turbo 6X 核心配置公布：天玑 7360 SUPER",
+      "source": "竹本青",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-06-09",
+      "time": "02:01",
+      "publishedAt": "2026-06-09T02:01:28.000Z",
+      "url": "https://www.coolapk.com/feed/72241724",
+      "image": "http://image.coolapk.com/feed/2026/0609/10/4248714_c528aa90_0487_0118_484@1080x2075.jpg",
+      "summary": "【一加 Turbo 6X 核心公布：144Hz LCD屏+天玑 7360 SUPER，号称五年依然流畅】 ▫️天玑7360 SUPER｜号称五年依然流畅 ▫️144Hz LCD屏｜硬件DC调光 ▫️7000mAh电池｜号称六年超耐用 ▫️通过军标试验 ＊五年流畅：仅8GB及以上内存版本机型支持 #今日热点# #ColorOS16# #一加turbo6x#",
+      "tags": [
+        "OPPO",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-5729f157692d",
+      "title": "macOS 27 Golden Gate will let you resize the iPhone Mirroring window",
+      "source": "9to5Mac",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-09",
+      "time": "01:31",
+      "publishedAt": "2026-06-09T01:31:31.000Z",
+      "url": "https://9to5mac.com/2026/06/08/macos-27-golden-gate-will-let-you-resize-the-iphone-mirroring-window/",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/macos-27-iphone-mirroring.jpg?quality=82&strip=all&w=1600",
+      "summary": "Among the new features in macOS 27 Golden Gate is the ability to resize the iPhone Mirroring window using additional aspect ratios. Here are the details. more…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-b3e150794172",
+      "title": "Xiaomi HyperOS leak reveals Xiaomi’s iPhone Ultra rival",
+      "source": "Gizmochina",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-09",
+      "time": "00:04",
+      "publishedAt": "2026-06-09T00:04:00.000Z",
+      "url": "https://www.gizmochina.com/2026/06/09/xiaomi-hyperos-leak-reveals-a-widescreen-foldable/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/04/Huawei-Pura-X-Max-2-300x175.png?x10805",
+      "summary": "Huawei has been experimenting with the widescreen foldable form factor for quite a while, and Apple is also doing the same for its first foldable handset. The wider design improve…",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "newsnow-70dd6308bf2f",
+      "title": "一日一技｜为什么你应该关闭 iOS 的键盘声音",
+      "source": "少数派热榜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-06-09",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://sspai.com/post/109460",
+      "image": "",
+      "summary": "一日一技｜为什么你应该关闭 iOS 的键盘声音",
+      "tags": [
+        "iPhone",
+        "评测",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-d59cb0af56b3",
+      "title": "iPhone17无缘苹果最强端侧大模型",
+      "source": "微博热搜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "待验证",
+      "date": "2026-06-09",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://s.weibo.com/weibo?q=%23iPhone17%E6%97%A0%E7%BC%98%E8%8B%B9%E6%9E%9C%E6%9C%80%E5%BC%BA%E7%AB%AF%E4%BE%A7%E5%A4%A7%E6%A8%A1%E5%9E%8B%23&t=31&band_rank=10&Refer=top",
+      "image": "",
+      "summary": "iPhone17无缘苹果最强端侧大模型",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "NewsNow"
+      ]
+    },
     {
       "id": "auto-d481089884eb",
       "title": "This Galaxy Z Fold 8 Ultra competitor was just spotted in the wild",
@@ -217,206 +457,6 @@ window.phoneRadarAuto = {
       "summary": "The Redmi K100 has been making headlines in the rumor mill for months. While the phone is tipped to launch in September, a new leak may have revealed much of its hardware well bef…",
       "tags": [
         "Xiaomi",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "newsnow-18a4ef32c445",
-      "title": "一日一技｜为什么你应该关闭 iOS 的键盘声音",
-      "source": "少数派热榜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "评测",
-      "trust": "媒体汇总",
-      "date": "2026-06-08",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://sspai.com/post/109460",
-      "image": "",
-      "summary": "一日一技｜为什么你应该关闭 iOS 的键盘声音",
-      "tags": [
-        "iPhone",
-        "评测",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-236b84e2ba75",
-      "title": "国行iPhone 悬着的心终于死了",
-      "source": "微博热搜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "待验证",
-      "date": "2026-06-08",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://s.weibo.com/weibo?q=%E5%9B%BD%E8%A1%8CiPhone%20%E6%82%AC%E7%9D%80%E7%9A%84%E5%BF%83%E7%BB%88%E4%BA%8E%E6%AD%BB%E4%BA%86&t=31&band_rank=6&Refer=top",
-      "image": "",
-      "summary": "国行iPhone 悬着的心终于死了",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-2faca7cbcc6b",
-      "title": "2026 年第一季度鸿蒙在中国智能手机市场份额反超 iOS，安卓仍占 63%，这反映了怎样的市场格局？",
-      "source": "知乎热榜",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "市场报告",
-      "trust": "媒体汇总",
-      "date": "2026-06-08",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.zhihu.com/question/2044003133102232324",
-      "image": "",
-      "summary": "2026 年第一季度鸿蒙在中国智能手机市场份额反超 iOS，安卓仍占 63%，这反映了怎样的市场格局？",
-      "tags": [
-        "Huawei",
-        "市场报告",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "auto-7f8b92c4cde6",
-      "title": "Surprise: The Galaxy S26 FE might be borrowing a design feature from Samsung's flagships",
-      "source": "Android Central",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "评测",
-      "trust": "媒体汇总",
-      "date": "2026-06-07",
-      "time": "20:08",
-      "publishedAt": "2026-06-07T20:08:22.000Z",
-      "url": "https://www.androidcentral.com/phones/samsung-galaxy/samsung-galaxy-s26-fe-leaks-reveal",
-      "image": "https://cdn.mos.cms.futurecdn.net/wtxvdX499hQ8iyMTHK6Yj4-1280-80.jpg",
-      "summary": "A new certification listing offers an early look at the upcoming Galaxy S26 FE.",
-      "tags": [
-        "Samsung",
-        "评测",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-d7c0f26c3f88",
-      "title": "Seriously, how do we not have more Android phones with Qi2 yet?",
-      "source": "9to5Google",
-      "brand": "Pixel",
-      "model": "Pixel 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-07",
-      "time": "16:00",
-      "publishedAt": "2026-06-07T16:00:00.000Z",
-      "url": "https://9to5google.com/2026/06/07/seriously-how-do-we-not-have-more-android-phones-with-qi2-yet/",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2025/10/baseus-picogo-qi2-25w-battery-1.jpg?quality=82&strip=all&w=1600",
-      "summary": "Ever since the Pixel 10 was released last year, Qi2 magnets have been a love-hate relationship – I love using them, but I hate that, somehow, the Pixel 10 is the only Android phon…",
-      "tags": [
-        "Pixel",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-9f67a080ad9c",
-      "title": "First look: The Galaxy S26 FE just popped up with a real-world image",
-      "source": "Android Authority",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-07",
-      "time": "15:58",
-      "publishedAt": "2026-06-07T15:58:01.000Z",
-      "url": "https://www.androidauthority.com/galaxy-s26-fe-wpc-image-3675280/",
-      "image": "https://www.androidauthority.com/wp-content/uploads/2026/06/Samsung-Galaxy-S26-FE-hero.jpg",
-      "summary": "Galaxy S26 FE has a new camera bump.",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-9dcacd389796",
-      "title": "TikTokers are swapping their iPhones for Nothing Phones, and I think I understand why",
-      "source": "Android Central",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "评测",
-      "trust": "媒体汇总",
-      "date": "2026-06-07",
-      "time": "15:07",
-      "publishedAt": "2026-06-07T15:07:00.000Z",
-      "url": "https://www.androidcentral.com/phones/nothing-phones/tiktokers-are-swapping-their-iphones-for-nothing-phones-and-i-think-i-understand-why",
-      "image": "https://cdn.mos.cms.futurecdn.net/2tk4rjThtHVrD7gvybUnxX-1280-80.jpg",
-      "summary": "The Nothing brand has been growing at an exponential rate, and it looks like a heavy TikTok influence is playing a big role.",
-      "tags": [
-        "iPhone",
-        "评测",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-2576843732fd",
-      "title": "Here’s your first real-life look at the Galaxy S26 FE",
-      "source": "Gizmochina",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-07",
-      "time": "14:25",
-      "publishedAt": "2026-06-07T14:25:09.000Z",
-      "url": "https://www.gizmochina.com/2026/06/07/heres-your-first-real-life-look-at-the-galaxy-s26-fe/",
-      "image": "https://www.gizmochina.com/wp-content/uploads/2026/02/Samsung-Galaxy-S26-300x300.jpg?x10805",
-      "summary": "Samsung‘s next Fan Edition phone is slowly coming into focus. The Galaxy S26 FE with model number SM-S741 has passed WPC (Wireless Power Consortium) certification, which also give…",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-4f6a9d55c892",
-      "title": "New dummy units give our closest look yet at the iPhone Fold",
-      "source": "9to5Mac",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-07",
-      "time": "13:29",
-      "publishedAt": "2026-06-07T13:29:38.000Z",
-      "url": "https://9to5mac.com/2026/06/07/dummy-unit-iphone-fold-ultra-new-look/",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/iphone-foldable-dummy-photos.jpg?quality=82&strip=all&w=1600",
-      "summary": "We don’t know yet whether Apple will call it the iPhone Fold, iPhone Ultra, or something else — but everyone expects the company to announce its first foldable phone later this ye…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-436b2b4b0456",
-      "title": "Galaxy S26 FE leaks in hands-on image with an updated, slightly funky camera bump",
-      "source": "9to5Google",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-07",
-      "time": "01:35",
-      "publishedAt": "2026-06-07T01:35:00.000Z",
-      "url": "https://9to5google.com/2026/06/06/samsung-galaxy-s26-fe-leak/",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/06/galaxy-s26-fe-wpc-1.jpg?quality=82&strip=all&w=1098",
-      "summary": "Ahead of its launch sometime later this year, Samsung’s Galaxy S26 FE has surfaced online early, showcasing a familiar, but slightly updated design. more…",
-      "tags": [
-        "Samsung",
         "爆料",
         "自动抓取"
       ]
