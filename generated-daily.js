@@ -1,12 +1,12 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-06-09T04:33:59.432Z",
+  "updatedAt": "2026-06-09T10:02:44.107Z",
   "issueDate": "2026-06-09",
   "issue": "VOL.260609",
   "title": "手机情报日报",
-  "intro": "今日筛出 18 条重点，其中 8 条是重点爆料，包含 5 条 iPhone 相关、0 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 20 条重点，其中 8 条是重点爆料，包含 3 条 iPhone 相关、0 条官方确认、0 条参数线索。",
   "stats": {
-    "total": 18,
-    "iphone": 5,
+    "total": 20,
+    "iphone": 3,
     "leaks": 8,
     "official": 0,
     "specs": 0
@@ -18,51 +18,72 @@ window.phoneRadarDaily = {
       "hint": "机模、配色、影像、屏幕、电池和芯片线索先看。",
       "items": [
         {
-          "id": "auto-2529feb81474",
-          "title": "零刻为 SER8 迷你主机推送 BIOS 更新，修复驱动兼容性冲突",
+          "id": "auto-5ab36c9a8cae",
+          "title": "消息称三星 Galaxy Z Fold 8 Wide 折叠屏手机将配备 432 PPI 外屏、403 PPI 内屏",
           "originalTitle": "",
           "source": "IT之家",
-          "brand": "iPhone",
+          "brand": "Samsung",
           "type": "爆料",
           "trust": "媒体汇总",
           "date": "2026-06-09",
-          "time": "03:08",
-          "publishedAt": "2026-06-09T03:08:28.000Z",
-          "url": "https://www.ithome.com/0/961/824.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/6/13148fbb-43f5-4b34-bc58-f834f3896c67.jpg?x-bce-process=image/format,f_auto",
+          "time": "09:59",
+          "publishedAt": "2026-06-09T09:59:08.000Z",
+          "url": "https://www.ithome.com/0/962/052.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/6/a9089ae2-f43a-4288-b31a-c6532761c21d.jpg?x-bce-process=image/format,f_auto",
           "verdict": "先看",
-          "takeaway": "IT之家 6 月 9 日消息，零刻 (Beelink) 本月 3 日表示，其已注意到搭载 AMD 锐龙 7 8745HS / 8845HS 处理器的 SER8 迷你主机在将操作系统或 AMD 官方驱动程序更新至新版本后可能会出现系统冻结、卡顿或随机重启的情况。 根据企业技术团队的确认，零刻表示该问题是因为 受影响 SER8 迷你主机的出厂默认芯片组驱动程序…",
-          "detail": "IT之家 6 月 9 日消息，零刻 (Beelink) 本月 3 日表示，其已注意到搭载 AMD 锐龙 7 8745HS / 8845HS 处理器的 SER8 迷你主机在将操作系统或 AMD 官方驱动程序更新至新版本后可能会出现系统冻结、卡顿或随机重启的情况。 根据企业技术团队的确认，零刻表示该问题是因为 受影响 SER8 迷你主机的出厂默认芯片组驱动程序…",
+          "takeaway": "IT之家 6 月 9 日消息，据 X 平台消息人士 @UniverseIce 上周（6 月 6 日）爆料，三星 Galaxy Z Fold 8 Wide 折叠屏手机将配备 432 PPI 的外屏与 304 PPI 内屏， 成为三星 Fold 系列史上像素密度最高的折叠手机 。 这名消息人士还在文中放出了一组对比数据，IT之家附详情如下： Galaxy Z…",
+          "detail": "IT之家 6 月 9 日消息，据 X 平台消息人士 @UniverseIce 上周（6 月 6 日）爆料，三星 Galaxy Z Fold 8 Wide 折叠屏手机将配备 432 PPI 的外屏与 304 PPI 内屏， 成为三星 Fold 系列史上像素密度最高的折叠手机 。 这名消息人士还在文中放出了一组对比数据，IT之家附详情如下： Galaxy Z…",
           "keyPoints": [
-            "芯片 / 性能"
+            "屏幕形态",
+            "爆料来源"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
-          "id": "auto-277be722b110",
-          "title": "荣耀 X80 Pro Max 手机规格曝光：骁龙 6 Gen 5 处理器 + 11000mAh 电池",
+          "id": "auto-2c292fc4405d",
+          "title": "一屏四用：vivo X Fold6 折叠屏新机全新原子工作台曝光",
           "originalTitle": "",
           "source": "IT之家",
-          "brand": "HONOR",
+          "brand": "vivo",
           "type": "爆料",
           "trust": "媒体汇总",
           "date": "2026-06-09",
-          "time": "04:00",
-          "publishedAt": "2026-06-09T04:00:28.000Z",
-          "url": "https://www.ithome.com/0/961/851.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/6/d9465342-c613-479a-82e1-cea58f3ef3d7.jpg?x-bce-process=image/format,f_auto",
+          "time": "09:33",
+          "publishedAt": "2026-06-09T09:33:44.000Z",
+          "url": "https://www.ithome.com/0/962/042.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/6/3f3e25be-fd69-456a-940d-6ff79aab1de5.jpg?x-bce-process=image/format,f_auto",
           "verdict": "先看",
-          "takeaway": "IT之家 6 月 9 日消息，博主 @数码闲聊站 发文，曝光了荣耀 X80 Pro Max 手机的规格信息，该机有望本月发布。 据其透露，该机提供闪电红 / 玄甲黑 / 月影白 / 元气橙四种配色，采用“旗舰级 ID 设计”，提供了满级防水和抗摔机身，正面配备一块 6.78 英寸 2788x1280 分辨率 OLED 面板，手机搭载高通骁龙 6 Gen 5…",
-          "detail": "IT之家 6 月 9 日消息，博主 @数码闲聊站 发文，曝光了荣耀 X80 Pro Max 手机的规格信息，该机有望本月发布。 据其透露，该机提供闪电红 / 玄甲黑 / 月影白 / 元气橙四种配色，采用“旗舰级 ID 设计”，提供了满级防水和抗摔机身，正面配备一块 6.78 英寸 2788x1280 分辨率 OLED 面板，手机搭载高通骁龙 6 Gen 5…",
+          "takeaway": "IT之家 6 月 9 日消息，博主 @V粉情报局 今日发布视频，介绍了 vivo X Fold6 折叠屏新机的全新原子工作台功能。 据介绍，vivo X Fold6 折叠屏新机的全新原子工作台支持串行模式， 可同时挂载五个应用 ，并且还能同时运行。另外，该功能显示效果也得到优化，前台应用的视野更大。 另外，vivo X Fold6 全新原子工作台还支持一屏…",
+          "detail": "IT之家 6 月 9 日消息，博主 @V粉情报局 今日发布视频，介绍了 vivo X Fold6 折叠屏新机的全新原子工作台功能。 据介绍，vivo X Fold6 折叠屏新机的全新原子工作台支持串行模式， 可同时挂载五个应用 ，并且还能同时运行。另外，该功能显示效果也得到优化，前台应用的视野更大。 另外，vivo X Fold6 全新原子工作台还支持一屏…",
           "keyPoints": [
-            "外观 / 配色 / 尺寸",
-            "屏幕形态",
-            "电池 / 充电",
-            "芯片 / 性能"
+            "屏幕形态"
           ],
-          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "auto-cedc0994f35c",
+          "title": "TrendForce 预测：全球智能手机产量 2026 年同比衰退 16.2%",
+          "originalTitle": "",
+          "source": "IT之家",
+          "brand": "行业",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-06-09",
+          "time": "06:29",
+          "publishedAt": "2026-06-09T06:29:30.000Z",
+          "url": "https://www.ithome.com/0/961/929.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/6/78032646-6da4-4e8a-a49a-7eab3d5b354a.jpg?x-bce-process=image/format,f_auto",
+          "verdict": "先看",
+          "takeaway": "IT之家 6 月 9 日消息，TrendForce（集邦）今日表示， 该研调机构预估全球智能手机产量在 2026 年将出现 16.2% 的显著同比衰退 。如果出现存储半导体价格涨势未见收敛的极端情境，由于手机制造商必须不断调整售价以转嫁成本，产量还有进一步萎缩的可能。 该机构的数据显示，全球智能手机产量在 2026Q1 达到约 2.84 亿支（部），较去年…",
+          "detail": "IT之家 6 月 9 日消息，TrendForce（集邦）今日表示， 该研调机构预估全球智能手机产量在 2026 年将出现 16.2% 的显著同比衰退 。如果出现存储半导体价格涨势未见收敛的极端情境，由于手机制造商必须不断调整售价以转嫁成本，产量还有进一步萎缩的可能。 该机构的数据显示，全球智能手机产量在 2026Q1 达到约 2.84 亿支（部），较去年…",
+          "keyPoints": [
+            "成本 / 价格"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
@@ -92,50 +113,48 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
-          "id": "coolapk-user-0f043ffe41f8",
-          "title": "竹本青：一加 Turbo 6X 屏幕预热：144Hz LCD",
+          "id": "auto-ee64722e9ca4",
+          "title": "Samsung 系统功能 / AI 体验相关消息",
           "originalTitle": "",
-          "source": "竹本青",
-          "brand": "OPPO",
+          "source": "Android Authority",
+          "brand": "Samsung",
           "type": "爆料",
-          "trust": "高可信爆料",
+          "trust": "媒体汇总",
           "date": "2026-06-09",
-          "time": "02:32",
-          "publishedAt": "2026-06-09T02:32:28.000Z",
-          "url": "https://www.coolapk.com/feed/72242492",
-          "image": "http://image.coolapk.com/feed/2026/0609/10/4248714_1d9293df_2347_1854_10@1080x1440.jpg",
+          "time": "08:14",
+          "publishedAt": "2026-06-09T08:14:42.000Z",
+          "url": "https://www.androidauthority.com/apple-ios-27-iphone-ultra-foldable-references-3675768/",
+          "image": "https://www.androidauthority.com/wp-content/uploads/2025/12/AI-generated-render-of-Apple-iPhone-Fold-3-scaled.jpg",
           "verdict": "先看",
-          "takeaway": "【一加 Turbo 6X 屏幕预热：144Hz LCD】 ▫️无频闪硬件 DC调光 ▫️支持舒眠模式 ▫️支持雨水/油手/手套触控 #今日热点# #一加turbo6x# #ColorOS16#",
-          "detail": "【一加 Turbo 6X 屏幕预热：144Hz LCD】 ▫️无频闪硬件 DC调光 ▫️支持舒眠模式 ▫️支持雨水/油手/手套触控 #今日热点# #一加turbo6x# #ColorOS16#",
+          "takeaway": "Samsung 有系统功能或 AI 体验更新，适合关注后续是否影响日常使用。",
+          "detail": "Samsung 系统功能 / AI 体验相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
           "keyPoints": [
-            "外观 / 配色 / 尺寸",
-            "屏幕形态"
+            "爆料来源"
           ],
-          "confidence": "可信度较高，但仍属于发布前线索。",
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
-          "id": "coolapk-user-c65262b0e351",
-          "title": "竹本青：一加 Turbo 6X 核心配置公布：天玑 7360 SUPER",
+          "id": "auto-e2cb927f3277",
+          "title": "Huawei 折叠屏相关消息",
           "originalTitle": "",
-          "source": "竹本青",
-          "brand": "OPPO",
+          "source": "Huawei Central",
+          "brand": "Huawei",
           "type": "爆料",
-          "trust": "高可信爆料",
+          "trust": "媒体汇总",
           "date": "2026-06-09",
-          "time": "02:01",
-          "publishedAt": "2026-06-09T02:01:28.000Z",
-          "url": "https://www.coolapk.com/feed/72241724",
-          "image": "http://image.coolapk.com/feed/2026/0609/10/4248714_c528aa90_0487_0118_484@1080x2075.jpg",
+          "time": "07:25",
+          "publishedAt": "2026-06-09T07:25:46.000Z",
+          "url": "https://www.huaweicentral.com/huawei-mate-xt-2-tri-fold-launch-time/",
+          "image": "https://www.huaweicentral.com/wp-content/uploads/2026/06/trifold-launch-leak.jpg",
           "verdict": "先看",
-          "takeaway": "【一加 Turbo 6X 核心公布：144Hz LCD屏+天玑 7360 SUPER，号称五年依然流畅】 ▫️天玑7360 SUPER｜号称五年依然流畅 ▫️144Hz LCD屏｜硬件DC调光 ▫️7000mAh电池｜号称六年超耐用 ▫️通过军标试验 ＊五年流畅：仅8GB及以上内存版本机型支持 #今日热点# #ColorOS16# #一加turbo6x#",
-          "detail": "【一加 Turbo 6X 核心公布：144Hz LCD屏+天玑 7360 SUPER，号称五年依然流畅】 ▫️天玑7360 SUPER｜号称五年依然流畅 ▫️144Hz LCD屏｜硬件DC调光 ▫️7000mAh电池｜号称六年超耐用 ▫️通过军标试验 ＊五年流畅：仅8GB及以上内存版本机型支持 #今日热点# #ColorOS16# #一加turbo6x#",
+          "takeaway": "Huawei 有发布或新功能消息，适合确认是否和新机有关。",
+          "detail": "Huawei 折叠屏相关消息。重点看折痕、铰链、厚度、屏幕可靠性和重量是否有实质改善。",
           "keyPoints": [
-            "外观 / 配色 / 尺寸",
-            "电池 / 充电"
+            "爆料来源"
           ],
-          "confidence": "可信度较高，但仍属于发布前线索。",
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
@@ -181,30 +200,6 @@ window.phoneRadarDaily = {
           "keyPoints": [
             "外观 / 配色 / 尺寸",
             "屏幕形态",
-            "爆料来源"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "auto-9a994ba06621",
-          "title": "Galaxy S27 电池 / 充电相关消息",
-          "originalTitle": "",
-          "source": "Android Authority",
-          "brand": "Samsung",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-06-08",
-          "time": "09:29",
-          "publishedAt": "2026-06-08T09:29:08.000Z",
-          "url": "https://www.androidauthority.com/samsung-galaxy-s27-pro-battery-leak-3675317/",
-          "image": "https://www.androidauthority.com/wp-content/uploads/2026/05/samsung-galaxy-s26-ultra-pine-tree-scaled.jpg",
-          "verdict": "先看",
-          "takeaway": "Galaxy S27 电池 / 充电相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
-          "detail": "Galaxy S27 电池 / 充电相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
-          "keyPoints": [
-            "电池 / 充电",
             "爆料来源"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
@@ -286,29 +281,6 @@ window.phoneRadarDaily = {
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是实际体验内容，买前适合重点看缺点和取舍。",
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
-        {
-          "id": "newsnow-d59cb0af56b3",
-          "title": "iPhone17无缘苹果最强端侧大模型",
-          "originalTitle": "",
-          "source": "微博热搜",
-          "brand": "iPhone",
-          "type": "爆料",
-          "trust": "待验证",
-          "date": "2026-06-09",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://s.weibo.com/weibo?q=%23iPhone17%E6%97%A0%E7%BC%98%E8%8B%B9%E6%9E%9C%E6%9C%80%E5%BC%BA%E7%AB%AF%E4%BE%A7%E5%A4%A7%E6%A8%A1%E5%9E%8B%23&t=31&band_rank=10&Refer=top",
-          "image": "",
-          "verdict": "扫一眼",
-          "takeaway": "iPhone17无缘苹果最强端侧大模型",
-          "detail": "iPhone17无缘苹果最强端侧大模型",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         }
       ]
     },
@@ -317,6 +289,29 @@ window.phoneRadarDaily = {
       "title": "新机与官方发布",
       "hint": "能直接更新到参数库。",
       "items": [
+        {
+          "id": "auto-5af106395bd8",
+          "title": "Samsung 折叠屏相关消息",
+          "originalTitle": "",
+          "source": "SamMobile",
+          "brand": "Samsung",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-06-09",
+          "time": "09:01",
+          "publishedAt": "2026-06-09T09:01:37.000Z",
+          "url": "https://www.sammobile.com/news/galaxy-z-fold-8-may-have-sharpest-screens-any-fold-yet/",
+          "image": "",
+          "verdict": "可略过",
+          "takeaway": "Samsung 折叠屏相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
+          "detail": "Samsung 折叠屏相关消息。重点看折痕、铰链、厚度、屏幕可靠性和重量是否有实质改善。",
+          "keyPoints": [
+            "屏幕形态"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "影响手感和显示体验，适合和其他机型对比。",
+          "action": "有具体参数就记录到参数库；没有参数就先收藏。"
+        },
         {
           "id": "auto-88f32003f368",
           "title": "Xiaomi 影像能力相关消息",
@@ -339,6 +334,36 @@ window.phoneRadarDaily = {
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "影响拍照体验，买旗舰机时值得关注。",
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        }
+      ]
+    },
+    {
+      "id": "review",
+      "title": "评测与体验",
+      "hint": "买前再细看，平时扫一眼即可。",
+      "items": [
+        {
+          "id": "auto-cc8f73a8082b",
+          "title": "Xiaomi 相关消息",
+          "originalTitle": "",
+          "source": "Android Central",
+          "brand": "Xiaomi",
+          "type": "评测",
+          "trust": "媒体汇总",
+          "date": "2026-06-09",
+          "time": "09:04",
+          "publishedAt": "2026-06-09T09:04:48.000Z",
+          "url": "https://www.androidcentral.com/phones/oneplus/oneplus-looks-ready-to-dive-deeper-into-the-budget-phone-battle",
+          "image": "https://cdn.mos.cms.futurecdn.net/PQh4PNuqFSwxaPn3h7nGvk-1280-80.jpg",
+          "verdict": "可略过",
+          "takeaway": "Xiaomi 相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
+          "detail": "Xiaomi 相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
+          "keyPoints": [
+            "成本 / 价格"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是实际体验内容，买前适合重点看缺点和取舍。",
+          "action": "有具体参数就记录到参数库；没有参数就先收藏。"
         }
       ]
     },
@@ -371,6 +396,98 @@ window.phoneRadarDaily = {
           "action": "有具体参数就记录到参数库；没有参数就先收藏。"
         },
         {
+          "id": "newsnow-34e8818c38cc",
+          "title": "老铁们，互有好感的女生用着这款手机看状态栏有认识品牌型号的吗？我想送她k90promax不知道合适不",
+          "originalTitle": "",
+          "source": "酷安热榜",
+          "brand": "行业",
+          "type": "爆料",
+          "trust": "高关注爆料源",
+          "date": "2026-06-09",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://www.coolapk.com/feed/72240744",
+          "image": "",
+          "verdict": "扫一眼",
+          "takeaway": "老铁们，互有好感的女生用着这款手机看状态栏有认识品牌型号的吗？我想送她k90promax不知道合适不",
+          "detail": "老铁们，互有好感的女生用着这款手机看状态栏有认识品牌型号的吗？我想送她k90promax不知道合适不",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        },
+        {
+          "id": "coolapk-user-14dd675cb9d5",
+          "title": "竹本青：曝华为Mate 80系列总销量已近650万台",
+          "originalTitle": "",
+          "source": "竹本青",
+          "brand": "Huawei",
+          "type": "爆料",
+          "trust": "高可信爆料",
+          "date": "2026-06-09",
+          "time": "06:06",
+          "publishedAt": "2026-06-09T06:06:14.000Z",
+          "url": "https://www.coolapk.com/feed/72246476",
+          "image": "http://image.coolapk.com/feed/2026/0609/14/4248714_dc5a3eb9_5173_0304_184@1440x564.jpg",
+          "verdict": "扫一眼",
+          "takeaway": "【曝华为Mate 80系列 总销量已近650万台】 截至2026 W22 —— 约649.42万 截至2026 W21 —— 约629.58万 截至2026 W20 —— 约609.35万 截至2026 W19 —— 约592.92万 截至2026 W18 —— 约578.16万 #华为Mate80ProMax# #鸿蒙6#",
+          "detail": "【曝华为Mate 80系列 总销量已近650万台】 截至2026 W22 —— 约649.42万 截至2026 W21 —— 约629.58万 截至2026 W20 —— 约609.35万 截至2026 W19 —— 约592.92万 截至2026 W18 —— 约578.16万 #华为Mate80ProMax# #鸿蒙6#",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "可信度较高，但仍属于发布前线索。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        },
+        {
+          "id": "coolapk-user-f589683a096e",
+          "title": "竹本青：【一加 Turbo 6X 三色官图公布：白/青/黑】 【白里挑一】万千底色，独一抹白 【踏青云】乘风而起，扶摇踏青…",
+          "originalTitle": "",
+          "source": "竹本青",
+          "brand": "OPPO",
+          "type": "爆料",
+          "trust": "高可信爆料",
+          "date": "2026-06-09",
+          "time": "06:01",
+          "publishedAt": "2026-06-09T06:01:56.000Z",
+          "url": "https://www.coolapk.com/feed/72246400",
+          "image": "http://image.coolapk.com/feed/2026/0609/14/4248714_44924366_4914_2788_209@1080x1440.jpg",
+          "verdict": "扫一眼",
+          "takeaway": "【一加 Turbo 6X 三色官图公布：白/青/黑】 【白里挑一】万千底色，独一抹白 【踏青云】乘风而起，扶摇踏青云 【星耀黑】深潜于渊，一跃动星河 #今日热点# #一加turbo6x# #ColorOS16#",
+          "detail": "【一加 Turbo 6X 三色官图公布：白/青/黑】 【白里挑一】万千底色，独一抹白 【踏青云】乘风而起，扶摇踏青云 【星耀黑】深潜于渊，一跃动星河 #今日热点# #一加turbo6x# #ColorOS16#",
+          "keyPoints": [
+            "外观 / 配色 / 尺寸"
+          ],
+          "confidence": "可信度较高，但仍属于发布前线索。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        },
+        {
+          "id": "coolapk-user-af4549a92744",
+          "title": "竹本青：【荣耀机器人模型／手办上架，售价99元起】 闪电／元气仔 手办 —— 99元 闪电／元气仔 模型 —— 199元…",
+          "originalTitle": "",
+          "source": "竹本青",
+          "brand": "HONOR",
+          "type": "爆料",
+          "trust": "高可信爆料",
+          "date": "2026-06-09",
+          "time": "05:43",
+          "publishedAt": "2026-06-09T05:43:30.000Z",
+          "url": "https://www.coolapk.com/feed/72246100",
+          "image": "http://image.coolapk.com/feed/2026/0609/13/4248714_7f6ee8ef_3808_8598_392@1440x1920.jpg",
+          "verdict": "扫一眼",
+          "takeaway": "【荣耀机器人模型／手办上架，售价99元起】 闪电／元气仔 手办 —— 99元 闪电／元气仔 模型 —— 199元 #今日热点# #MagicOS10#",
+          "detail": "【荣耀机器人模型／手办上架，售价99元起】 闪电／元气仔 手办 —— 99元 闪电／元气仔 模型 —— 199元 #今日热点# #MagicOS10#",
+          "keyPoints": [
+            "成本 / 价格"
+          ],
+          "confidence": "可信度较高，但仍属于发布前线索。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        },
+        {
           "id": "coolapk-user-729633cf9974",
           "title": "竹本青：小米商城全新会员体系将于6月15日全量上线",
           "originalTitle": "",
@@ -392,75 +509,6 @@ window.phoneRadarDaily = {
           "confidence": "可信度较高，但仍属于发布前线索。",
           "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
-        {
-          "id": "auto-d481089884eb",
-          "title": "Samsung 折叠屏相关消息",
-          "originalTitle": "",
-          "source": "Android Authority",
-          "brand": "Samsung",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-06-08",
-          "time": "12:29",
-          "publishedAt": "2026-06-08T12:29:31.000Z",
-          "url": "https://www.androidauthority.com/vivo-x-fold-6-real-world-images-ai-features-3675438/",
-          "image": "https://www.androidauthority.com/wp-content/uploads/2025/07/Vivo-X-Fold-5-rear-camera-selfie-preview.jpg",
-          "verdict": "可略过",
-          "takeaway": "Samsung 折叠屏相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
-          "detail": "Samsung 折叠屏相关消息。重点看折痕、铰链、厚度、屏幕可靠性和重量是否有实质改善。",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
-        {
-          "id": "auto-6e78c3872af4",
-          "title": "HONOR 相关消息",
-          "originalTitle": "",
-          "source": "Android Authority",
-          "brand": "HONOR",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-06-08",
-          "time": "09:53",
-          "publishedAt": "2026-06-08T09:53:43.000Z",
-          "url": "https://www.androidauthority.com/google-pixel-10-magic-cue-third-party-apps-preview-3675330/",
-          "image": "https://www.androidauthority.com/wp-content/uploads/2025/08/Magic-Cue-Suggestions-with-rainbow-graphic.jpg",
-          "verdict": "可略过",
-          "takeaway": "HONOR 相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
-          "detail": "HONOR 相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
-        {
-          "id": "auto-88353f40dee4",
-          "title": "Galaxy S26 电池 / 充电相关消息",
-          "originalTitle": "",
-          "source": "Android Authority",
-          "brand": "Samsung",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-06-08",
-          "time": "07:52",
-          "publishedAt": "2026-06-08T07:52:06.000Z",
-          "url": "https://www.androidauthority.com/samsung-galaxy-s26-new-performance-mode-3675304/",
-          "image": "https://www.androidauthority.com/wp-content/uploads/2026/03/samsung-galaxy-s26-display-app-drawer.jpg",
-          "verdict": "可略过",
-          "takeaway": "Galaxy S26 电池 / 充电相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
-          "detail": "Galaxy S26 电池 / 充电相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
-          "keyPoints": [
-            "电池 / 充电"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "影响日常体验，尤其是游戏、拍照和长时间使用。",
-          "action": "有具体参数就记录到参数库；没有参数就先收藏。"
         }
       ]
     }
