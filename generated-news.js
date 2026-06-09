@@ -1,22 +1,42 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-06-09T10:02:44.107Z",
+  "updatedAt": "2026-06-09T12:50:50.225Z",
   "news": [
     {
-      "id": "auto-bf1de85cdbc2",
-      "title": "First things to try on your new Samsung Galaxy S26 Ultra",
-      "source": "SamMobile",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
+      "id": "auto-fb38b10ec8e5",
+      "title": "macOS 27 Lets You Resize iPhone Mirroring in New Aspect Ratios",
+      "source": "MacRumors",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
       "type": "爆料",
       "trust": "媒体汇总",
       "date": "2026-06-09",
-      "time": "10:00",
-      "publishedAt": "2026-06-09T10:00:00.000Z",
-      "url": "https://www.sammobile.com/news/first-things-to-try-on-your-samsung-galaxy-s26-ultra/",
-      "image": "https://www.sammobile.com/wp-content/uploads/2026/05/Galaxy-S26-Ultra-Privacy-Display-conditions-1920x1387.jpg",
-      "summary": "Getting a new phone is exciting, but it can also be a little overwhelming. The Galaxy S26 Ultra comes with a lot going on under the hood, and some of its best features are not imm…",
+      "time": "11:25",
+      "publishedAt": "2026-06-09T11:25:04.000Z",
+      "url": "https://www.macrumors.com/2026/06/09/macos-27-lets-you-resize-iphone-mirroring/",
+      "image": "https://images.macrumors.com/article-new/2026/01/iphone-mirroring-blue.jpg",
+      "summary": "macOS 27 Golden Gate brings a major improvement to iPhone Mirroring, allowing users to resize the window beyond the iPhone's fixed aspect ratio for the first time. Until now, iPho…",
       "tags": [
-        "Samsung",
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-4776fe8d59d9",
+      "title": "华为用户久等了：鸿蒙 QQ 存储清理功能开启邀测报名，官方提醒存在误删风险",
+      "source": "IT之家",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-09",
+      "time": "11:17",
+      "publishedAt": "2026-06-09T11:17:16.000Z",
+      "url": "https://www.ithome.com/0/962/079.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/6/fb0532d6-11ca-4a96-a645-54f2185a9ed7.jpg?x-bce-process=image/format,f_auto/auto-orient,o_1",
+      "summary": "IT之家 6 月 9 日消息，近期，手机 QQ 鸿蒙版在华为鸿蒙设备上持续迭代，陆续补齐了多种核心功能，但存储空间管理这一直接影响日常使用体验的功能始终处于缺失状态。 随着用户使用时长增加，应用内缓存文件、聊天图片、视频等数据不断累积，“存储空间告急”成为不少鸿蒙用户的实际困扰。如今，这一局面终于迎来了转机。 腾讯 QQ 官方现已针对“鸿蒙手机 QQ 存储…",
+      "tags": [
+        "Huawei",
         "爆料",
         "自动抓取"
       ]
@@ -34,7 +54,7 @@ window.phoneRadarAuto = {
       "publishedAt": "2026-06-09T09:59:08.000Z",
       "url": "https://www.ithome.com/0/962/052.htm",
       "image": "https://img.ithome.com/newsuploadfiles/2026/6/a9089ae2-f43a-4288-b31a-c6532761c21d.jpg?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 6 月 9 日消息，据 X 平台消息人士 @UniverseIce 上周（6 月 6 日）爆料，三星 Galaxy Z Fold 8 Wide 折叠屏手机将配备 432 PPI 的外屏与 304 PPI 内屏， 成为三星 Fold 系列史上像素密度最高的折叠手机 。 这名消息人士还在文中放出了一组对比数据，IT之家附详情如下： Galaxy Z…",
+      "summary": "IT之家 6 月 9 日消息，据 X 平台消息人士 @UniverseIce 上周（6 月 6 日）爆料，三星 Galaxy Z Fold 8 Wide 折叠屏手机将配备 432 PPI 的外屏与 403 PPI 内屏， 成为三星 Fold 系列史上像素密度最高的折叠手机 。 这名消息人士还在文中放出了一组对比数据，IT之家附详情如下： Galaxy Z…",
       "tags": [
         "Samsung",
         "爆料",
@@ -202,26 +222,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-cedc0994f35c",
-      "title": "TrendForce 预测：全球智能手机产量 2026 年同比衰退 16.2%",
-      "source": "IT之家",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-09",
-      "time": "06:29",
-      "publishedAt": "2026-06-09T06:29:30.000Z",
-      "url": "https://www.ithome.com/0/961/929.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/6/78032646-6da4-4e8a-a49a-7eab3d5b354a.jpg?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 6 月 9 日消息，TrendForce（集邦）今日表示， 该研调机构预估全球智能手机产量在 2026 年将出现 16.2% 的显著同比衰退 。如果出现存储半导体价格涨势未见收敛的极端情境，由于手机制造商必须不断调整售价以转嫁成本，产量还有进一步萎缩的可能。 该机构的数据显示，全球智能手机产量在 2026Q1 达到约 2.84 亿支（部），较去年…",
-      "tags": [
-        "行业",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "coolapk-user-14dd675cb9d5",
       "title": "竹本青：曝华为Mate 80系列总销量已近650万台",
       "source": "竹本青",
@@ -362,26 +362,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "coolapk-user-729633cf9974",
-      "title": "竹本青：小米商城全新会员体系将于6月15日全量上线",
-      "source": "竹本青",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-06-09",
-      "time": "02:35",
-      "publishedAt": "2026-06-09T02:35:27.000Z",
-      "url": "https://www.coolapk.com/feed/72242555",
-      "image": "http://image.coolapk.com/feed/2026/0609/10/4248714_362a4f3d_2525_0878_130@1080x4754.jpg",
-      "summary": "【小米商城全新会员体系：五大会员等级／四大成长维度，6月15日全量上线】 ▫️五等级：普通、白银、黄金、铂金、黑钻 ▫️四维度：消费分+活跃分+激励分+基础分 ▫️权益场景：购物、服务、影音娱乐等 ▫️原权益保障：原有 FRIEND 会员权益将平稳过渡，不受影响 #今日热点# #HyperOS3# #小米17#",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
       "id": "auto-5729f157692d",
       "title": "macOS 27 Golden Gate will let you resize the iPhone Mirroring window",
       "source": "9to5Mac",
@@ -462,9 +442,9 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-2b88f38fb149",
-      "title": "“买手机现在也和买黄金一样了”",
-      "source": "百度热搜",
+      "id": "newsnow-9ca4eccf42d3",
+      "title": "妈妈给儿子的高考礼物是台新手机",
+      "source": "今日头条热榜",
       "brand": "行业",
       "model": "智能手机市场",
       "type": "爆料",
@@ -472,9 +452,9 @@ window.phoneRadarAuto = {
       "date": "2026-06-09",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.baidu.com/s?wd=%E2%80%9C%E4%B9%B0%E6%89%8B%E6%9C%BA%E7%8E%B0%E5%9C%A8%E4%B9%9F%E5%92%8C%E4%B9%B0%E9%BB%84%E9%87%91%E4%B8%80%E6%A0%B7%E4%BA%86%E2%80%9D",
+      "url": "https://www.toutiao.com/trending/7648427841440448518/",
       "image": "",
-      "summary": "“买手机现在也和买黄金一样了”",
+      "summary": "妈妈给儿子的高考礼物是台新手机",
       "tags": [
         "行业",
         "爆料",

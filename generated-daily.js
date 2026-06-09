@@ -1,12 +1,12 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-06-09T10:02:44.107Z",
+  "updatedAt": "2026-06-09T12:50:50.225Z",
   "issueDate": "2026-06-09",
   "issue": "VOL.260609",
   "title": "手机情报日报",
-  "intro": "今日筛出 20 条重点，其中 8 条是重点爆料，包含 3 条 iPhone 相关、0 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 20 条重点，其中 8 条是重点爆料，包含 4 条 iPhone 相关、0 条官方确认、0 条参数线索。",
   "stats": {
     "total": 20,
-    "iphone": 3,
+    "iphone": 4,
     "leaks": 8,
     "official": 0,
     "specs": 0
@@ -17,6 +17,29 @@ window.phoneRadarDaily = {
       "title": "重点爆料",
       "hint": "机模、配色、影像、屏幕、电池和芯片线索先看。",
       "items": [
+        {
+          "id": "auto-fb38b10ec8e5",
+          "title": "iPhone 系统功能 / AI 体验相关消息",
+          "originalTitle": "",
+          "source": "MacRumors",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-06-09",
+          "time": "11:25",
+          "publishedAt": "2026-06-09T11:25:04.000Z",
+          "url": "https://www.macrumors.com/2026/06/09/macos-27-lets-you-resize-iphone-mirroring/",
+          "image": "https://images.macrumors.com/article-new/2026/01/iphone-mirroring-blue.jpg",
+          "verdict": "先看",
+          "takeaway": "iPhone 系统功能 / AI 体验相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
+          "detail": "iPhone 系统功能 / AI 体验相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
         {
           "id": "auto-5ab36c9a8cae",
           "title": "消息称三星 Galaxy Z Fold 8 Wide 折叠屏手机将配备 432 PPI 外屏、403 PPI 内屏",
@@ -31,8 +54,8 @@ window.phoneRadarDaily = {
           "url": "https://www.ithome.com/0/962/052.htm",
           "image": "https://img.ithome.com/newsuploadfiles/2026/6/a9089ae2-f43a-4288-b31a-c6532761c21d.jpg?x-bce-process=image/format,f_auto",
           "verdict": "先看",
-          "takeaway": "IT之家 6 月 9 日消息，据 X 平台消息人士 @UniverseIce 上周（6 月 6 日）爆料，三星 Galaxy Z Fold 8 Wide 折叠屏手机将配备 432 PPI 的外屏与 304 PPI 内屏， 成为三星 Fold 系列史上像素密度最高的折叠手机 。 这名消息人士还在文中放出了一组对比数据，IT之家附详情如下： Galaxy Z…",
-          "detail": "IT之家 6 月 9 日消息，据 X 平台消息人士 @UniverseIce 上周（6 月 6 日）爆料，三星 Galaxy Z Fold 8 Wide 折叠屏手机将配备 432 PPI 的外屏与 304 PPI 内屏， 成为三星 Fold 系列史上像素密度最高的折叠手机 。 这名消息人士还在文中放出了一组对比数据，IT之家附详情如下： Galaxy Z…",
+          "takeaway": "IT之家 6 月 9 日消息，据 X 平台消息人士 @UniverseIce 上周（6 月 6 日）爆料，三星 Galaxy Z Fold 8 Wide 折叠屏手机将配备 432 PPI 的外屏与 403 PPI 内屏， 成为三星 Fold 系列史上像素密度最高的折叠手机 。 这名消息人士还在文中放出了一组对比数据，IT之家附详情如下： Galaxy Z…",
+          "detail": "IT之家 6 月 9 日消息，据 X 平台消息人士 @UniverseIce 上周（6 月 6 日）爆料，三星 Galaxy Z Fold 8 Wide 折叠屏手机将配备 432 PPI 的外屏与 403 PPI 内屏， 成为三星 Fold 系列史上像素密度最高的折叠手机 。 这名消息人士还在文中放出了一组对比数据，IT之家附详情如下： Galaxy Z…",
           "keyPoints": [
             "屏幕形态",
             "爆料来源"
@@ -59,29 +82,6 @@ window.phoneRadarDaily = {
           "detail": "IT之家 6 月 9 日消息，博主 @V粉情报局 今日发布视频，介绍了 vivo X Fold6 折叠屏新机的全新原子工作台功能。 据介绍，vivo X Fold6 折叠屏新机的全新原子工作台支持串行模式， 可同时挂载五个应用 ，并且还能同时运行。另外，该功能显示效果也得到优化，前台应用的视野更大。 另外，vivo X Fold6 全新原子工作台还支持一屏…",
           "keyPoints": [
             "屏幕形态"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "auto-cedc0994f35c",
-          "title": "TrendForce 预测：全球智能手机产量 2026 年同比衰退 16.2%",
-          "originalTitle": "",
-          "source": "IT之家",
-          "brand": "行业",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-06-09",
-          "time": "06:29",
-          "publishedAt": "2026-06-09T06:29:30.000Z",
-          "url": "https://www.ithome.com/0/961/929.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/6/78032646-6da4-4e8a-a49a-7eab3d5b354a.jpg?x-bce-process=image/format,f_auto",
-          "verdict": "先看",
-          "takeaway": "IT之家 6 月 9 日消息，TrendForce（集邦）今日表示， 该研调机构预估全球智能手机产量在 2026 年将出现 16.2% 的显著同比衰退 。如果出现存储半导体价格涨势未见收敛的极端情境，由于手机制造商必须不断调整售价以转嫁成本，产量还有进一步萎缩的可能。 该机构的数据显示，全球智能手机产量在 2026Q1 达到约 2.84 亿支（部），较去年…",
-          "detail": "IT之家 6 月 9 日消息，TrendForce（集邦）今日表示， 该研调机构预估全球智能手机产量在 2026 年将出现 16.2% 的显著同比衰退 。如果出现存储半导体价格涨势未见收敛的极端情境，由于手机制造商必须不断调整售价以转嫁成本，产量还有进一步萎缩的可能。 该机构的数据显示，全球智能手机产量在 2026Q1 达到约 2.84 亿支（部），较去年…",
-          "keyPoints": [
-            "成本 / 价格"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
@@ -488,25 +488,25 @@ window.phoneRadarDaily = {
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         },
         {
-          "id": "coolapk-user-729633cf9974",
-          "title": "竹本青：小米商城全新会员体系将于6月15日全量上线",
+          "id": "auto-fab42b424975",
+          "title": "Pixel 10 系统功能 / AI 体验相关消息",
           "originalTitle": "",
-          "source": "竹本青",
-          "brand": "Xiaomi",
+          "source": "Android Authority",
+          "brand": "OPPO",
           "type": "爆料",
-          "trust": "高可信爆料",
+          "trust": "媒体汇总",
           "date": "2026-06-09",
-          "time": "02:35",
-          "publishedAt": "2026-06-09T02:35:27.000Z",
-          "url": "https://www.coolapk.com/feed/72242555",
-          "image": "http://image.coolapk.com/feed/2026/0609/10/4248714_362a4f3d_2525_0878_130@1080x4754.jpg",
-          "verdict": "扫一眼",
-          "takeaway": "【小米商城全新会员体系：五大会员等级／四大成长维度，6月15日全量上线】 ▫️五等级：普通、白银、黄金、铂金、黑钻 ▫️四维度：消费分+活跃分+激励分+基础分 ▫️权益场景：购物、服务、影音娱乐等 ▫️原权益保障：原有 FRIEND 会员权益将平稳过渡，不受影响 #今日热点# #HyperOS3# #小米17#",
-          "detail": "【小米商城全新会员体系：五大会员等级／四大成长维度，6月15日全量上线】 ▫️五等级：普通、白银、黄金、铂金、黑钻 ▫️四维度：消费分+活跃分+激励分+基础分 ▫️权益场景：购物、服务、影音娱乐等 ▫️原权益保障：原有 FRIEND 会员权益将平稳过渡，不受影响 #今日热点# #HyperOS3# #小米17#",
+          "time": "07:20",
+          "publishedAt": "2026-06-09T07:20:09.000Z",
+          "url": "https://www.androidauthority.com/oneplus-15-airdop-via-quick-share-3675598/",
+          "image": "https://www.androidauthority.com/wp-content/uploads/2025/11/OnePlus-15-Ultra-Violet.jpg",
+          "verdict": "可略过",
+          "takeaway": "OPPO 有系统功能或 AI 体验更新，适合关注后续是否影响日常使用。",
+          "detail": "Pixel 10 系统功能 / AI 体验相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
           "keyPoints": [
             "爆料"
           ],
-          "confidence": "可信度较高，但仍属于发布前线索。",
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         }
