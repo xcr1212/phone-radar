@@ -1,5 +1,5 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-06-09T20:20:40.973Z",
+  "updatedAt": "2026-06-09T23:42:55.850Z",
   "issueDate": "2026-06-09",
   "issue": "VOL.260609",
   "title": "手机情报日报",
@@ -65,23 +65,48 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
-          "id": "auto-fb38b10ec8e5",
-          "title": "iPhone 系统功能 / AI 体验相关消息",
+          "id": "auto-2a651506f760",
+          "title": "OPPO Reno 16 国际版手机现身 Geekbench 跑分库，换用高通骁龙 7 Gen 4 处理器",
           "originalTitle": "",
-          "source": "MacRumors",
-          "brand": "iPhone",
+          "source": "IT之家",
+          "brand": "OPPO",
           "type": "爆料",
           "trust": "媒体汇总",
           "date": "2026-06-09",
-          "time": "11:25",
-          "publishedAt": "2026-06-09T11:25:04.000Z",
-          "url": "https://www.macrumors.com/2026/06/09/macos-27-lets-you-resize-iphone-mirroring/",
-          "image": "https://images.macrumors.com/article-new/2026/01/iphone-mirroring-blue.jpg",
+          "time": "23:32",
+          "publishedAt": "2026-06-09T23:32:38.000Z",
+          "url": "https://www.ithome.com/0/962/166.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/6/b37ddc37-f8e5-40be-a667-23d2ddbde044.jpg?x-bce-process=image/format,f_auto",
           "verdict": "先看",
-          "takeaway": "iPhone 系统功能 / AI 体验相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
-          "detail": "iPhone 系统功能 / AI 体验相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
+          "takeaway": "IT之家 6 月 10 日消息，OPPO Reno 16 国际版机型目前已现身 Geekbench 跑分平台，该版本机型为“CPH2865”， 搭载高通骁龙 7 Gen 4 处理器及 12GB RAM ，在 CPU 测试中单核成绩为 1240 分，多核成绩为 3994 分。 相比之下，国行 Reno 16 标准版 使用的是联发科天玑 8550 SUPER…",
+          "detail": "IT之家 6 月 10 日消息，OPPO Reno 16 国际版机型目前已现身 Geekbench 跑分平台，该版本机型为“CPH2865”， 搭载高通骁龙 7 Gen 4 处理器及 12GB RAM ，在 CPU 测试中单核成绩为 1240 分，多核成绩为 3994 分。 相比之下，国行 Reno 16 标准版 使用的是联发科天玑 8550 SUPER…",
           "keyPoints": [
-            "爆料"
+            "芯片 / 性能"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "auto-3c233fa52b62",
+          "title": "OPPO PYD110 新机入网：配备 7755mAh 额定容量大电池",
+          "originalTitle": "",
+          "source": "IT之家",
+          "brand": "OPPO",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-06-09",
+          "time": "16:13",
+          "publishedAt": "2026-06-09T16:13:30.000Z",
+          "url": "https://www.ithome.com/0/962/147.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/6/5e480ef9-1330-4d80-838f-94a391a6735b.png?x-bce-process=image/format,f_auto",
+          "verdict": "先看",
+          "takeaway": "IT之家 6 月 10 日消息，型号为 PYD110 的 OPPO 新机已通过电信设备进网许可，未公布证件照。 这款新机机身尺寸为 158.3 × 75.13 × 8.27 mm，重量 205 克，采用一块 6.59 英寸 AMOLED 显示屏，屏幕分辨率为 1256 × 2760，支持 107374 万色深。 核心配置方面，该机搭载主频 2.5 GHz…",
+          "detail": "IT之家 6 月 10 日消息，型号为 PYD110 的 OPPO 新机已通过电信设备进网许可，未公布证件照。 这款新机机身尺寸为 158.3 × 75.13 × 8.27 mm，重量 205 克，采用一块 6.59 英寸 AMOLED 显示屏，屏幕分辨率为 1256 × 2760，支持 107374 万色深。 核心配置方面，该机搭载主频 2.5 GHz…",
+          "keyPoints": [
+            "外观 / 配色 / 尺寸",
+            "屏幕形态",
+            "电池 / 充电"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
@@ -180,31 +205,6 @@ window.phoneRadarDaily = {
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "auto-b3e150794172",
-          "title": "Huawei 相关消息",
-          "originalTitle": "",
-          "source": "Gizmochina",
-          "brand": "Huawei",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-06-09",
-          "time": "00:04",
-          "publishedAt": "2026-06-09T00:04:00.000Z",
-          "url": "https://www.gizmochina.com/2026/06/09/xiaomi-hyperos-leak-reveals-a-widescreen-foldable/",
-          "image": "https://www.gizmochina.com/wp-content/uploads/2026/04/Huawei-Pura-X-Max-2-300x175.png?x10805",
-          "verdict": "先看",
-          "takeaway": "Huawei 相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
-          "detail": "Huawei 相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
-          "keyPoints": [
-            "外观 / 配色 / 尺寸",
-            "屏幕形态",
-            "爆料来源"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         }
       ]
     },
@@ -252,6 +252,29 @@ window.phoneRadarDaily = {
           "verdict": "先看",
           "takeaway": "曝iPhone 17系列中国区总销量已超3232万台",
           "detail": "曝iPhone 17系列中国区总销量已超3232万台",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        },
+        {
+          "id": "newsnow-d3c466d64d71",
+          "title": "我从未见过生命周期如此长的产品，iPhone17怎么做到的[吃瓜]",
+          "originalTitle": "",
+          "source": "酷安热榜",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "高关注爆料源",
+          "date": "2026-06-09",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://www.coolapk.com/feed/72228979",
+          "image": "",
+          "verdict": "先看",
+          "takeaway": "我从未见过生命周期如此长的产品，iPhone17怎么做到的[吃瓜]",
+          "detail": "我从未见过生命周期如此长的产品，iPhone17怎么做到的[吃瓜]",
           "keyPoints": [
             "爆料"
           ],
@@ -334,29 +357,6 @@ window.phoneRadarDaily = {
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "影响手感和显示体验，适合和其他机型对比。",
           "action": "有具体参数就记录到参数库；没有参数就先收藏。"
-        },
-        {
-          "id": "auto-88f32003f368",
-          "title": "Xiaomi 影像能力相关消息",
-          "originalTitle": "",
-          "source": "Gizmochina",
-          "brand": "Xiaomi",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-06-08",
-          "time": "10:53",
-          "publishedAt": "2026-06-08T10:53:15.000Z",
-          "url": "https://www.gizmochina.com/2026/06/08/xiaomi-humanoid-robot-17t-pro-camera-demo/",
-          "image": "https://www.gizmochina.com/wp-content/uploads/2026/06/Xiaomi-Humanoid-robot-with-Xiaomi-17T-Pro-300x200.jpg?x10805",
-          "verdict": "可略过",
-          "takeaway": "Xiaomi 影像能力相关宣传或案例，主要看是否透露拍摄能力变化。",
-          "detail": "Xiaomi 影像能力相关消息。重点看影像功能是否和新机硬件有关，如果只是拍摄案例或营销内容，参考价值会低一些。",
-          "keyPoints": [
-            "影像硬件"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "影响拍照体验，买旗舰机时值得关注。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         }
       ]
     },

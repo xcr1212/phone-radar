@@ -1,6 +1,46 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-06-09T20:20:40.973Z",
+  "updatedAt": "2026-06-09T23:42:55.850Z",
   "news": [
+    {
+      "id": "auto-2a651506f760",
+      "title": "OPPO Reno 16 国际版手机现身 Geekbench 跑分库，换用高通骁龙 7 Gen 4 处理器",
+      "source": "IT之家",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-09",
+      "time": "23:32",
+      "publishedAt": "2026-06-09T23:32:38.000Z",
+      "url": "https://www.ithome.com/0/962/166.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/6/b37ddc37-f8e5-40be-a667-23d2ddbde044.jpg?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 6 月 10 日消息，OPPO Reno 16 国际版机型目前已现身 Geekbench 跑分平台，该版本机型为“CPH2865”， 搭载高通骁龙 7 Gen 4 处理器及 12GB RAM ，在 CPU 测试中单核成绩为 1240 分，多核成绩为 3994 分。 相比之下，国行 Reno 16 标准版 使用的是联发科天玑 8550 SUPER…",
+      "tags": [
+        "OPPO",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-6db1f85832cf",
+      "title": "Report: iPhone production grew 20% in Q1, countering global smartphone dip",
+      "source": "9to5Mac",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-09",
+      "time": "23:24",
+      "publishedAt": "2026-06-09T23:24:21.000Z",
+      "url": "https://9to5mac.com/2026/06/09/report-iphone-production-grew-20-in-q1-countering-global-smartphone-dip/",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/iphone-17-pro-silver-front-back.jpg?quality=82&strip=all&w=1600",
+      "summary": "A new TrendForce report shows Apple’s iPhone production growing sharply in Q1, even as rising memory costs put pressure on the broader smartphone market. Here are the details. mor…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-efe99438bc6a",
       "title": "iPhone 18 Pro’s new C2 chip to bring three advantages over iPhone 17",
@@ -62,6 +102,46 @@ window.phoneRadarAuto = {
       ]
     },
     {
+      "id": "auto-1252d592671b",
+      "title": "HMD 旗下“诺基亚 TA-1743”功能机入网：配备 T9 键盘、支持双卡双待",
+      "source": "IT之家",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-09",
+      "time": "16:13",
+      "publishedAt": "2026-06-09T16:13:32.000Z",
+      "url": "https://www.ithome.com/0/962/148.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/5/9178055c-6265-43eb-a182-f7679f05406e.jpg?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 6 月 10 日消息，尽管一度有传言称 HMD Global 将放弃推出“诺基亚”品牌手机，不过目前又有一款 HMD Global 旗下型号为 TA-1743 的“诺基亚”品牌已通过电信设备进网许可， 但目前尚未公布证件照 。 ▲ 此前 HMD 推出的“诺基亚 200”功能机 这款 TA-1743 新机为 TD-LTE 数字移动电话机 ，采用 直…",
+      "tags": [
+        "行业",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-3c233fa52b62",
+      "title": "OPPO PYD110 新机入网：配备 7755mAh 额定容量大电池",
+      "source": "IT之家",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-09",
+      "time": "16:13",
+      "publishedAt": "2026-06-09T16:13:30.000Z",
+      "url": "https://www.ithome.com/0/962/147.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/6/5e480ef9-1330-4d80-838f-94a391a6735b.png?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 6 月 10 日消息，型号为 PYD110 的 OPPO 新机已通过电信设备进网许可，未公布证件照。 这款新机机身尺寸为 158.3 × 75.13 × 8.27 mm，重量 205 克，采用一块 6.59 英寸 AMOLED 显示屏，屏幕分辨率为 1256 × 2760，支持 107374 万色深。 核心配置方面，该机搭载主频 2.5 GHz…",
+      "tags": [
+        "OPPO",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
       "id": "auto-ff9ed310fff6",
       "title": "Nomad's New Stellar Orange Charger and Find My Card Match the iPhone 17 Pro",
       "source": "MacRumors",
@@ -117,26 +197,6 @@ window.phoneRadarAuto = {
       "summary": "IT之家 6 月 9 日消息， 一加 Turbo 6 X 系列手机已定档 6 月 10 日 14:30 正式发布，瞄准 1500 元档位。 IT之家注意到，一加手机官方今日下午公布了一加 Turbo 6X 手机三色官图，包括「白里挑一」、「踏青云」和「星耀黑」。 据介绍， 一加 Turbo 6X 配备 144Hz LCD 护眼屏 ，支持无频闪护眼特性； 内…",
       "tags": [
         "OPPO",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-fb38b10ec8e5",
-      "title": "macOS 27 Lets You Resize iPhone Mirroring in New Aspect Ratios",
-      "source": "MacRumors",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-09",
-      "time": "11:25",
-      "publishedAt": "2026-06-09T11:25:04.000Z",
-      "url": "https://www.macrumors.com/2026/06/09/macos-27-lets-you-resize-iphone-mirroring/",
-      "image": "https://images.macrumors.com/article-new/2026/01/iphone-mirroring-blue.jpg",
-      "summary": "macOS 27 Golden Gate brings a major improvement to iPhone Mirroring, allowing users to resize the window beyond the iPhone's fixed aspect ratio for the first time. Until now, iPho…",
-      "tags": [
-        "iPhone",
         "爆料",
         "自动抓取"
       ]
@@ -462,6 +522,26 @@ window.phoneRadarAuto = {
       ]
     },
     {
+      "id": "newsnow-d3c466d64d71",
+      "title": "我从未见过生命周期如此长的产品，iPhone17怎么做到的[吃瓜]",
+      "source": "酷安热榜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-06-09",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/72228979",
+      "image": "",
+      "summary": "我从未见过生命周期如此长的产品，iPhone17怎么做到的[吃瓜]",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
       "id": "newsnow-540e5bc11a09",
       "title": "曝华为Mate 80系列总销量已近650万台",
       "source": "酷安热榜",
@@ -482,7 +562,7 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-b7897b5f8703",
+      "id": "newsnow-524f8d5fa7b7",
       "title": "新手机回避症",
       "source": "微博热搜",
       "brand": "行业",
@@ -492,7 +572,7 @@ window.phoneRadarAuto = {
       "date": "2026-06-09",
       "time": "",
       "publishedAt": "",
-      "url": "https://s.weibo.com/weibo?q=%E6%96%B0%E6%89%8B%E6%9C%BA%E5%9B%9E%E9%81%BF%E7%97%87&t=31&band_rank=2&Refer=top",
+      "url": "https://s.weibo.com/weibo?q=%E6%96%B0%E6%89%8B%E6%9C%BA%E5%9B%9E%E9%81%BF%E7%97%87&t=31&band_rank=14&Refer=top",
       "image": "",
       "summary": "新手机回避症",
       "tags": [
