@@ -1,6 +1,66 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-06-09T12:50:50.225Z",
+  "updatedAt": "2026-06-09T16:47:26.448Z",
   "news": [
+    {
+      "id": "auto-ff9ed310fff6",
+      "title": "Nomad's New Stellar Orange Charger and Find My Card Match the iPhone 17 Pro",
+      "source": "MacRumors",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-09",
+      "time": "16:00",
+      "publishedAt": "2026-06-09T16:00:00.000Z",
+      "url": "https://www.macrumors.com/2026/06/09/nomad-stellar-orange-charger/",
+      "image": "https://images.macrumors.com/article-new/2026/06/nomad-orange-charger.jpg",
+      "summary": "Nomad today introduced two new products in its Stellar Orange colorway, expanding the number of accessories it offers in the unique shade. Stellar Orange matches the Cosmic Orange…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-8e10d11839a3",
+      "title": "Nomad debuts limited edition Stand One in color-matching Stellar Orange",
+      "source": "9to5Mac",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-09",
+      "time": "16:00",
+      "publishedAt": "2026-06-09T16:00:00.000Z",
+      "url": "https://9to5mac.com/2026/06/09/nomad-debuts-limited-edition-stand-one-in-color-matching-stellar-orange/",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/fernando-1.jpg?quality=82&strip=all&w=1600",
+      "summary": "The Cosmic Orange iPhone 17 Pro has been my favorite color variation in years. I love how the color just pops. I even recently wrote about my Cosmic Orange-themed everyday carry.…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-76d313981140",
+      "title": "一加 Turbo 6X 手机三色官图发布：搭载 144Hz LCD 护眼屏，6 月 10 日发布",
+      "source": "IT之家",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-09",
+      "time": "15:52",
+      "publishedAt": "2026-06-09T15:52:16.000Z",
+      "url": "https://www.ithome.com/0/962/145.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/6/fdd45870-5a1e-446a-8256-5b2893bf61c7.jpg?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 6 月 9 日消息， 一加 Turbo 6 X 系列手机已定档 6 月 10 日 14:30 正式发布，瞄准 1500 元档位。 IT之家注意到，一加手机官方今日下午公布了一加 Turbo 6X 手机三色官图，包括「白里挑一」、「踏青云」和「星耀黑」。 据介绍， 一加 Turbo 6X 配备 144Hz LCD 护眼屏 ，支持无频闪护眼特性； 内…",
+      "tags": [
+        "OPPO",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-fb38b10ec8e5",
       "title": "macOS 27 Lets You Resize iPhone Mirroring in New Aspect Ratios",
@@ -22,46 +82,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-4776fe8d59d9",
-      "title": "华为用户久等了：鸿蒙 QQ 存储清理功能开启邀测报名，官方提醒存在误删风险",
-      "source": "IT之家",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-09",
-      "time": "11:17",
-      "publishedAt": "2026-06-09T11:17:16.000Z",
-      "url": "https://www.ithome.com/0/962/079.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/6/fb0532d6-11ca-4a96-a645-54f2185a9ed7.jpg?x-bce-process=image/format,f_auto/auto-orient,o_1",
-      "summary": "IT之家 6 月 9 日消息，近期，手机 QQ 鸿蒙版在华为鸿蒙设备上持续迭代，陆续补齐了多种核心功能，但存储空间管理这一直接影响日常使用体验的功能始终处于缺失状态。 随着用户使用时长增加，应用内缓存文件、聊天图片、视频等数据不断累积，“存储空间告急”成为不少鸿蒙用户的实际困扰。如今，这一局面终于迎来了转机。 腾讯 QQ 官方现已针对“鸿蒙手机 QQ 存储…",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-5ab36c9a8cae",
-      "title": "消息称三星 Galaxy Z Fold 8 Wide 折叠屏手机将配备 432 PPI 外屏、403 PPI 内屏",
-      "source": "IT之家",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-09",
-      "time": "09:59",
-      "publishedAt": "2026-06-09T09:59:08.000Z",
-      "url": "https://www.ithome.com/0/962/052.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/6/a9089ae2-f43a-4288-b31a-c6532761c21d.jpg?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 6 月 9 日消息，据 X 平台消息人士 @UniverseIce 上周（6 月 6 日）爆料，三星 Galaxy Z Fold 8 Wide 折叠屏手机将配备 432 PPI 的外屏与 403 PPI 内屏， 成为三星 Fold 系列史上像素密度最高的折叠手机 。 这名消息人士还在文中放出了一组对比数据，IT之家附详情如下： Galaxy Z…",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-dff535554d14",
       "title": "Global Oppo Reno 16 Geekbench listing reveals Snapdragon chip, will be different from Chinese version",
       "source": "Gizmochina",
@@ -77,26 +97,6 @@ window.phoneRadarAuto = {
       "summary": "Last month, Oppo unveiled the Oppo Reno 16 and Reno 16 Pro in China. While the Dimensity 8500 Super chip powers the former, the latter comes equipped with the Dimensity 9500s. It…",
       "tags": [
         "OPPO",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-2c292fc4405d",
-      "title": "一屏四用：vivo X Fold6 折叠屏新机全新原子工作台曝光",
-      "source": "IT之家",
-      "brand": "vivo",
-      "model": "vivo 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-09",
-      "time": "09:33",
-      "publishedAt": "2026-06-09T09:33:44.000Z",
-      "url": "https://www.ithome.com/0/962/042.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/6/3f3e25be-fd69-456a-940d-6ff79aab1de5.jpg?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 6 月 9 日消息，博主 @V粉情报局 今日发布视频，介绍了 vivo X Fold6 折叠屏新机的全新原子工作台功能。 据介绍，vivo X Fold6 折叠屏新机的全新原子工作台支持串行模式， 可同时挂载五个应用 ，并且还能同时运行。另外，该功能显示效果也得到优化，前台应用的视野更大。 另外，vivo X Fold6 全新原子工作台还支持一屏…",
-      "tags": [
-        "vivo",
         "爆料",
         "自动抓取"
       ]
@@ -219,26 +219,6 @@ window.phoneRadarAuto = {
         "OPPO",
         "爆料",
         "自动抓取"
-      ]
-    },
-    {
-      "id": "coolapk-user-14dd675cb9d5",
-      "title": "竹本青：曝华为Mate 80系列总销量已近650万台",
-      "source": "竹本青",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-06-09",
-      "time": "06:06",
-      "publishedAt": "2026-06-09T06:06:14.000Z",
-      "url": "https://www.coolapk.com/feed/72246476",
-      "image": "http://image.coolapk.com/feed/2026/0609/14/4248714_dc5a3eb9_5173_0304_184@1440x564.jpg",
-      "summary": "【曝华为Mate 80系列 总销量已近650万台】 截至2026 W22 —— 约649.42万 截至2026 W21 —— 约629.58万 截至2026 W20 —— 约609.35万 截至2026 W19 —— 约592.92万 截至2026 W18 —— 约578.16万 #华为Mate80ProMax# #鸿蒙6#",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "酷安博主"
       ]
     },
     {
@@ -442,19 +422,39 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-9ca4eccf42d3",
-      "title": "妈妈给儿子的高考礼物是台新手机",
-      "source": "今日头条热榜",
-      "brand": "行业",
-      "model": "智能手机市场",
+      "id": "newsnow-540e5bc11a09",
+      "title": "曝华为Mate 80系列总销量已近650万台",
+      "source": "酷安热榜",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
       "type": "爆料",
-      "trust": "媒体汇总",
+      "trust": "高关注爆料源",
       "date": "2026-06-09",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.toutiao.com/trending/7648427841440448518/",
+      "url": "https://www.coolapk.com/feed/72246476",
       "image": "",
-      "summary": "妈妈给儿子的高考礼物是台新手机",
+      "summary": "曝华为Mate 80系列总销量已近650万台",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-ceb4d1e007c6",
+      "title": "新手机回避症",
+      "source": "微博热搜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "待验证",
+      "date": "2026-06-09",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://s.weibo.com/weibo?q=%E6%96%B0%E6%89%8B%E6%9C%BA%E5%9B%9E%E9%81%BF%E7%97%87&t=31&band_rank=6&Refer=top",
+      "image": "",
+      "summary": "新手机回避症",
       "tags": [
         "行业",
         "爆料",

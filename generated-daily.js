@@ -1,5 +1,5 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-06-09T12:50:50.225Z",
+  "updatedAt": "2026-06-09T16:47:26.448Z",
   "issueDate": "2026-06-09",
   "issue": "VOL.260609",
   "title": "手机情报日报",
@@ -18,6 +18,29 @@ window.phoneRadarDaily = {
       "hint": "机模、配色、影像、屏幕、电池和芯片线索先看。",
       "items": [
         {
+          "id": "auto-ff9ed310fff6",
+          "title": "iPhone 相关消息",
+          "originalTitle": "",
+          "source": "MacRumors",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-06-09",
+          "time": "16:00",
+          "publishedAt": "2026-06-09T16:00:00.000Z",
+          "url": "https://www.macrumors.com/2026/06/09/nomad-stellar-orange-charger/",
+          "image": "https://images.macrumors.com/article-new/2026/06/nomad-orange-charger.jpg",
+          "verdict": "先看",
+          "takeaway": "iPhone 相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
+          "detail": "iPhone 相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
+          "keyPoints": [
+            "外观 / 配色 / 尺寸"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
           "id": "auto-fb38b10ec8e5",
           "title": "iPhone 系统功能 / AI 体验相关消息",
           "originalTitle": "",
@@ -35,53 +58,6 @@ window.phoneRadarDaily = {
           "detail": "iPhone 系统功能 / AI 体验相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
           "keyPoints": [
             "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "auto-5ab36c9a8cae",
-          "title": "消息称三星 Galaxy Z Fold 8 Wide 折叠屏手机将配备 432 PPI 外屏、403 PPI 内屏",
-          "originalTitle": "",
-          "source": "IT之家",
-          "brand": "Samsung",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-06-09",
-          "time": "09:59",
-          "publishedAt": "2026-06-09T09:59:08.000Z",
-          "url": "https://www.ithome.com/0/962/052.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/6/a9089ae2-f43a-4288-b31a-c6532761c21d.jpg?x-bce-process=image/format,f_auto",
-          "verdict": "先看",
-          "takeaway": "IT之家 6 月 9 日消息，据 X 平台消息人士 @UniverseIce 上周（6 月 6 日）爆料，三星 Galaxy Z Fold 8 Wide 折叠屏手机将配备 432 PPI 的外屏与 403 PPI 内屏， 成为三星 Fold 系列史上像素密度最高的折叠手机 。 这名消息人士还在文中放出了一组对比数据，IT之家附详情如下： Galaxy Z…",
-          "detail": "IT之家 6 月 9 日消息，据 X 平台消息人士 @UniverseIce 上周（6 月 6 日）爆料，三星 Galaxy Z Fold 8 Wide 折叠屏手机将配备 432 PPI 的外屏与 403 PPI 内屏， 成为三星 Fold 系列史上像素密度最高的折叠手机 。 这名消息人士还在文中放出了一组对比数据，IT之家附详情如下： Galaxy Z…",
-          "keyPoints": [
-            "屏幕形态",
-            "爆料来源"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "auto-2c292fc4405d",
-          "title": "一屏四用：vivo X Fold6 折叠屏新机全新原子工作台曝光",
-          "originalTitle": "",
-          "source": "IT之家",
-          "brand": "vivo",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-06-09",
-          "time": "09:33",
-          "publishedAt": "2026-06-09T09:33:44.000Z",
-          "url": "https://www.ithome.com/0/962/042.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/6/3f3e25be-fd69-456a-940d-6ff79aab1de5.jpg?x-bce-process=image/format,f_auto",
-          "verdict": "先看",
-          "takeaway": "IT之家 6 月 9 日消息，博主 @V粉情报局 今日发布视频，介绍了 vivo X Fold6 折叠屏新机的全新原子工作台功能。 据介绍，vivo X Fold6 折叠屏新机的全新原子工作台支持串行模式， 可同时挂载五个应用 ，并且还能同时运行。另外，该功能显示效果也得到优化，前台应用的视野更大。 另外，vivo X Fold6 全新原子工作台还支持一屏…",
-          "detail": "IT之家 6 月 9 日消息，博主 @V粉情报局 今日发布视频，介绍了 vivo X Fold6 折叠屏新机的全新原子工作台功能。 据介绍，vivo X Fold6 折叠屏新机的全新原子工作台支持串行模式， 可同时挂载五个应用 ，并且还能同时运行。另外，该功能显示效果也得到优化，前台应用的视野更大。 另外，vivo X Fold6 全新原子工作台还支持一屏…",
-          "keyPoints": [
-            "屏幕形态"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
@@ -205,6 +181,30 @@ window.phoneRadarDaily = {
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "auto-9a994ba06621",
+          "title": "Galaxy S27 电池 / 充电相关消息",
+          "originalTitle": "",
+          "source": "Android Authority",
+          "brand": "Samsung",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-06-08",
+          "time": "09:29",
+          "publishedAt": "2026-06-08T09:29:08.000Z",
+          "url": "https://www.androidauthority.com/samsung-galaxy-s27-pro-battery-leak-3675317/",
+          "image": "https://www.androidauthority.com/wp-content/uploads/2026/05/samsung-galaxy-s26-ultra-pine-tree-scaled.jpg",
+          "verdict": "先看",
+          "takeaway": "Galaxy S27 电池 / 充电相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
+          "detail": "Galaxy S27 电池 / 充电相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
+          "keyPoints": [
+            "电池 / 充电",
+            "爆料来源"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         }
       ]
     },
@@ -237,29 +237,6 @@ window.phoneRadarDaily = {
           "action": "中文源可以直接点开快读；看完只保留和购机有关的点。"
         },
         {
-          "id": "auto-5729f157692d",
-          "title": "iPhone 相关消息",
-          "originalTitle": "",
-          "source": "9to5Mac",
-          "brand": "iPhone",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-06-09",
-          "time": "01:31",
-          "publishedAt": "2026-06-09T01:31:31.000Z",
-          "url": "https://9to5mac.com/2026/06/08/macos-27-golden-gate-will-let-you-resize-the-iphone-mirroring-window/",
-          "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/macos-27-iphone-mirroring.jpg?quality=82&strip=all&w=1600",
-          "verdict": "扫一眼",
-          "takeaway": "iPhone 相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
-          "detail": "iPhone 相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
-        {
           "id": "newsnow-70dd6308bf2f",
           "title": "一日一技｜为什么你应该关闭 iOS 的键盘声音",
           "originalTitle": "",
@@ -289,6 +266,29 @@ window.phoneRadarDaily = {
       "title": "新机与官方发布",
       "hint": "能直接更新到参数库。",
       "items": [
+        {
+          "id": "auto-76d313981140",
+          "title": "一加 Turbo 6X 手机三色官图发布：搭载 144Hz LCD 护眼屏，6 月 10 日发布",
+          "originalTitle": "",
+          "source": "IT之家",
+          "brand": "OPPO",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-06-09",
+          "time": "15:52",
+          "publishedAt": "2026-06-09T15:52:16.000Z",
+          "url": "https://www.ithome.com/0/962/145.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/6/fdd45870-5a1e-446a-8256-5b2893bf61c7.jpg?x-bce-process=image/format,f_auto",
+          "verdict": "先看",
+          "takeaway": "IT之家 6 月 9 日消息， 一加 Turbo 6 X 系列手机已定档 6 月 10 日 14:30 正式发布，瞄准 1500 元档位。 IT之家注意到，一加手机官方今日下午公布了一加 Turbo 6X 手机三色官图，包括「白里挑一」、「踏青云」和「星耀黑」。 据介绍， 一加 Turbo 6X 配备 144Hz LCD 护眼屏 ，支持无频闪护眼特性； 内…",
+          "detail": "IT之家 6 月 9 日消息， 一加 Turbo 6 X 系列手机已定档 6 月 10 日 14:30 正式发布，瞄准 1500 元档位。 IT之家注意到，一加手机官方今日下午公布了一加 Turbo 6X 手机三色官图，包括「白里挑一」、「踏青云」和「星耀黑」。 据介绍， 一加 Turbo 6X 配备 144Hz LCD 护眼屏 ，支持无频闪护眼特性； 内…",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "中文源可以直接点开快读；看完只保留和购机有关的点。"
+        },
         {
           "id": "auto-5af106395bd8",
           "title": "Samsung 折叠屏相关消息",
@@ -419,25 +419,25 @@ window.phoneRadarDaily = {
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         },
         {
-          "id": "coolapk-user-14dd675cb9d5",
-          "title": "竹本青：曝华为Mate 80系列总销量已近650万台",
+          "id": "newsnow-540e5bc11a09",
+          "title": "曝华为Mate 80系列总销量已近650万台",
           "originalTitle": "",
-          "source": "竹本青",
+          "source": "酷安热榜",
           "brand": "Huawei",
           "type": "爆料",
-          "trust": "高可信爆料",
+          "trust": "高关注爆料源",
           "date": "2026-06-09",
-          "time": "06:06",
-          "publishedAt": "2026-06-09T06:06:14.000Z",
+          "time": "",
+          "publishedAt": "",
           "url": "https://www.coolapk.com/feed/72246476",
-          "image": "http://image.coolapk.com/feed/2026/0609/14/4248714_dc5a3eb9_5173_0304_184@1440x564.jpg",
+          "image": "",
           "verdict": "扫一眼",
-          "takeaway": "【曝华为Mate 80系列 总销量已近650万台】 截至2026 W22 —— 约649.42万 截至2026 W21 —— 约629.58万 截至2026 W20 —— 约609.35万 截至2026 W19 —— 约592.92万 截至2026 W18 —— 约578.16万 #华为Mate80ProMax# #鸿蒙6#",
-          "detail": "【曝华为Mate 80系列 总销量已近650万台】 截至2026 W22 —— 约649.42万 截至2026 W21 —— 约629.58万 截至2026 W20 —— 约609.35万 截至2026 W19 —— 约592.92万 截至2026 W18 —— 约578.16万 #华为Mate80ProMax# #鸿蒙6#",
+          "takeaway": "曝华为Mate 80系列总销量已近650万台",
+          "detail": "曝华为Mate 80系列总销量已近650万台",
           "keyPoints": [
             "爆料"
           ],
-          "confidence": "可信度较高，但仍属于发布前线索。",
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         },
