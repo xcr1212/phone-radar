@@ -1,6 +1,66 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-06-09T16:47:26.448Z",
+  "updatedAt": "2026-06-09T20:20:40.973Z",
   "news": [
+    {
+      "id": "auto-efe99438bc6a",
+      "title": "iPhone 18 Pro’s new C2 chip to bring three advantages over iPhone 17",
+      "source": "9to5Mac",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-09",
+      "time": "20:06",
+      "publishedAt": "2026-06-09T20:06:27.000Z",
+      "url": "https://9to5mac.com/2026/06/09/iphone-18-pros-new-c2-chip-will-bring-three-advantages-over-iphone-17/",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/iphone-17-pro-silver-silent-action-button.jpg?quality=82&strip=all&w=1600",
+      "summary": "Apple is rumored to have a next-generation C2 chip coming to iPhone 18 Pro and Pro Max, shifting away from the Qualcomm 5G modem found in iPhone 17 Pro. Here are three new advanta…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-5cec40f7fba9",
+      "title": "Galaxy S26 Ultra’s Privacy Display made me realize I’m a snooper too",
+      "source": "SamMobile",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-09",
+      "time": "19:31",
+      "publishedAt": "2026-06-09T19:31:56.000Z",
+      "url": "https://www.sammobile.com/opinion/galaxy-s26-ultra-privacy-display-realized-i-am-snooper-too/",
+      "image": "",
+      "summary": "When I got the Galaxy S26 Ultra, I did what I imagine most people do with Privacy Display: I turned it on, felt a little safer, automated it a little, and didn't think much about…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-44484445469f",
+      "title": "Apple just showed Android makers how software updates should actually work",
+      "source": "Android Police",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-09",
+      "time": "19:00",
+      "publishedAt": "2026-06-09T19:00:12.000Z",
+      "url": "https://www.androidpolice.com/apple-just-made-a-mockery-of-the-awful-android-software-update-situation/",
+      "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2026/06/iphone-11-iphone-17-pro-max.JPG",
+      "summary": "If you want to stop stressing about software updates, buy an iPhone",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-ff9ed310fff6",
       "title": "Nomad's New Stellar Orange Charger and Find My Card Match the iPhone 17 Pro",
@@ -282,26 +342,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-cbe59a64d4c5",
-      "title": "Honor Magic 9 could feature iPhone 17-like 1:1 selfie camera",
-      "source": "Huawei Central",
-      "brand": "HONOR",
-      "model": "HONOR 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-09",
-      "time": "03:53",
-      "publishedAt": "2026-06-09T03:53:00.000Z",
-      "url": "https://www.huaweicentral.com/honor-magic-9-selfie-camera/",
-      "image": "https://www.huaweicentral.com/wp-content/uploads/2026/06/selfie-camera-leak.jpg",
-      "summary": "News about the Honor Magic 9 series suggests that the flagship lineup will follow Apple’s lead in upgrading the selfie camera. As 2026 is about to enter the second half, more bran…",
-      "tags": [
-        "HONOR",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "coolapk-user-457275e4e29b",
       "title": "竹本青：荣耀X80 Pro Max 被曝本月发布：11000mAh大电池",
       "source": "竹本青",
@@ -382,26 +422,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-70dd6308bf2f",
-      "title": "一日一技｜为什么你应该关闭 iOS 的键盘声音",
-      "source": "少数派热榜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "评测",
-      "trust": "媒体汇总",
-      "date": "2026-06-09",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://sspai.com/post/109460",
-      "image": "",
-      "summary": "一日一技｜为什么你应该关闭 iOS 的键盘声音",
-      "tags": [
-        "iPhone",
-        "评测",
-        "NewsNow"
-      ]
-    },
-    {
       "id": "newsnow-34e8818c38cc",
       "title": "老铁们，互有好感的女生用着这款手机看状态栏有认识品牌型号的吗？我想送她k90promax不知道合适不",
       "source": "酷安热榜",
@@ -417,6 +437,26 @@ window.phoneRadarAuto = {
       "summary": "老铁们，互有好感的女生用着这款手机看状态栏有认识品牌型号的吗？我想送她k90promax不知道合适不",
       "tags": [
         "行业",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-94c2a4903f2f",
+      "title": "曝iPhone 17系列中国区总销量已超3232万台",
+      "source": "酷安热榜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-06-09",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/72250301",
+      "image": "",
+      "summary": "曝iPhone 17系列中国区总销量已超3232万台",
+      "tags": [
+        "iPhone",
         "爆料",
         "NewsNow"
       ]
@@ -442,7 +482,7 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-ceb4d1e007c6",
+      "id": "newsnow-b7897b5f8703",
       "title": "新手机回避症",
       "source": "微博热搜",
       "brand": "行业",
@@ -452,7 +492,7 @@ window.phoneRadarAuto = {
       "date": "2026-06-09",
       "time": "",
       "publishedAt": "",
-      "url": "https://s.weibo.com/weibo?q=%E6%96%B0%E6%89%8B%E6%9C%BA%E5%9B%9E%E9%81%BF%E7%97%87&t=31&band_rank=6&Refer=top",
+      "url": "https://s.weibo.com/weibo?q=%E6%96%B0%E6%89%8B%E6%9C%BA%E5%9B%9E%E9%81%BF%E7%97%87&t=31&band_rank=2&Refer=top",
       "image": "",
       "summary": "新手机回避症",
       "tags": [
@@ -599,6 +639,26 @@ window.phoneRadarAuto = {
         "Samsung",
         "爆料",
         "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-cfb348faf9da",
+      "title": "JSCHEN小小狐：小米 17T 系列发布：定价 3299 元起 / 首销 2999 元起",
+      "source": "JSCHEN小小狐",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-06-08",
+      "time": "06:17",
+      "publishedAt": "2026-06-08T06:17:25.000Z",
+      "url": "https://www.coolapk.com/feed/72225492",
+      "image": "http://image.coolapk.com/feed/2026/0608/14/4702274_08bd3fbf_9441_5031_888@1440x1920.jpg",
+      "summary": "『小米 17T 系列发布：3299 起 / 首销 2999 起』 小米 17T： 12GB + 256GB —— 2999 元（原价 3299） 12GB + 512GB —— 3499 元（原价 3799） 小米 17T Pro： 12GB + 256GB —— 3999 元（原价 4299） 12GB + 512GB —— 4499 元（原价 4799…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "酷安博主"
       ]
     },
     {

@@ -1,12 +1,12 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-06-09T16:47:26.448Z",
+  "updatedAt": "2026-06-09T20:20:40.973Z",
   "issueDate": "2026-06-09",
   "issue": "VOL.260609",
   "title": "手机情报日报",
-  "intro": "今日筛出 20 条重点，其中 8 条是重点爆料，包含 4 条 iPhone 相关、0 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 21 条重点，其中 8 条是重点爆料，包含 5 条 iPhone 相关、0 条官方确认、0 条参数线索。",
   "stats": {
-    "total": 20,
-    "iphone": 4,
+    "total": 21,
+    "iphone": 5,
     "leaks": 8,
     "official": 0,
     "specs": 0
@@ -35,6 +35,30 @@ window.phoneRadarDaily = {
           "detail": "iPhone 相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
           "keyPoints": [
             "外观 / 配色 / 尺寸"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "auto-efe99438bc6a",
+          "title": "iPhone 18 Pro 芯片 / 性能相关消息",
+          "originalTitle": "",
+          "source": "9to5Mac",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-06-09",
+          "time": "20:06",
+          "publishedAt": "2026-06-09T20:06:27.000Z",
+          "url": "https://9to5mac.com/2026/06/09/iphone-18-pros-new-c2-chip-will-bring-three-advantages-over-iphone-17/",
+          "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/iphone-17-pro-silver-silent-action-button.jpg?quality=82&strip=all&w=1600",
+          "verdict": "先看",
+          "takeaway": "iPhone 芯片或连接能力相关线索，可能影响性能和续航判断。",
+          "detail": "iPhone 18 Pro 芯片 / 性能相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
+          "keyPoints": [
+            "芯片 / 性能",
+            "爆料来源"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
@@ -181,30 +205,6 @@ window.phoneRadarDaily = {
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "auto-9a994ba06621",
-          "title": "Galaxy S27 电池 / 充电相关消息",
-          "originalTitle": "",
-          "source": "Android Authority",
-          "brand": "Samsung",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-06-08",
-          "time": "09:29",
-          "publishedAt": "2026-06-08T09:29:08.000Z",
-          "url": "https://www.androidauthority.com/samsung-galaxy-s27-pro-battery-leak-3675317/",
-          "image": "https://www.androidauthority.com/wp-content/uploads/2026/05/samsung-galaxy-s26-ultra-pine-tree-scaled.jpg",
-          "verdict": "先看",
-          "takeaway": "Galaxy S27 电池 / 充电相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
-          "detail": "Galaxy S27 电池 / 充电相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
-          "keyPoints": [
-            "电池 / 充电",
-            "爆料来源"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         }
       ]
     },
@@ -237,26 +237,26 @@ window.phoneRadarDaily = {
           "action": "中文源可以直接点开快读；看完只保留和购机有关的点。"
         },
         {
-          "id": "newsnow-70dd6308bf2f",
-          "title": "一日一技｜为什么你应该关闭 iOS 的键盘声音",
+          "id": "newsnow-94c2a4903f2f",
+          "title": "曝iPhone 17系列中国区总销量已超3232万台",
           "originalTitle": "",
-          "source": "少数派热榜",
+          "source": "酷安热榜",
           "brand": "iPhone",
-          "type": "评测",
-          "trust": "媒体汇总",
+          "type": "爆料",
+          "trust": "高关注爆料源",
           "date": "2026-06-09",
           "time": "",
           "publishedAt": "",
-          "url": "https://sspai.com/post/109460",
+          "url": "https://www.coolapk.com/feed/72250301",
           "image": "",
-          "verdict": "扫一眼",
-          "takeaway": "一日一技｜为什么你应该关闭 iOS 的键盘声音",
-          "detail": "一日一技｜为什么你应该关闭 iOS 的键盘声音",
+          "verdict": "先看",
+          "takeaway": "曝iPhone 17系列中国区总销量已超3232万台",
+          "detail": "曝iPhone 17系列中国区总销量已超3232万台",
           "keyPoints": [
-            "评测"
+            "爆料"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是实际体验内容，买前适合重点看缺点和取舍。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         }
       ]
@@ -288,6 +288,29 @@ window.phoneRadarDaily = {
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
           "action": "中文源可以直接点开快读；看完只保留和购机有关的点。"
+        },
+        {
+          "id": "coolapk-user-cfb348faf9da",
+          "title": "JSCHEN小小狐：小米 17T 系列发布：定价 3299 元起 / 首销 2999 元起",
+          "originalTitle": "",
+          "source": "JSCHEN小小狐",
+          "brand": "Xiaomi",
+          "type": "爆料",
+          "trust": "高可信爆料",
+          "date": "2026-06-08",
+          "time": "06:17",
+          "publishedAt": "2026-06-08T06:17:25.000Z",
+          "url": "https://www.coolapk.com/feed/72225492",
+          "image": "http://image.coolapk.com/feed/2026/0608/14/4702274_08bd3fbf_9441_5031_888@1440x1920.jpg",
+          "verdict": "扫一眼",
+          "takeaway": "『小米 17T 系列发布：3299 起 / 首销 2999 起』 小米 17T： 12GB + 256GB —— 2999 元（原价 3299） 12GB + 512GB —— 3499 元（原价 3799） 小米 17T Pro： 12GB + 256GB —— 3999 元（原价 4299） 12GB + 512GB —— 4499 元（原价 4799…",
+          "detail": "『小米 17T 系列发布：3299 起 / 首销 2999 起』 小米 17T： 12GB + 256GB —— 2999 元（原价 3299） 12GB + 512GB —— 3499 元（原价 3799） 小米 17T Pro： 12GB + 256GB —— 3999 元（原价 4299） 12GB + 512GB —— 4499 元（原价 4799…",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "可信度较高，但仍属于发布前线索。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         },
         {
           "id": "auto-5af106395bd8",
@@ -372,29 +395,6 @@ window.phoneRadarDaily = {
       "title": "行业趋势",
       "hint": "看方向，不急着当购买依据。",
       "items": [
-        {
-          "id": "auto-cbe59a64d4c5",
-          "title": "iPhone 17 影像能力相关消息",
-          "originalTitle": "",
-          "source": "Huawei Central",
-          "brand": "HONOR",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-06-09",
-          "time": "03:53",
-          "publishedAt": "2026-06-09T03:53:00.000Z",
-          "url": "https://www.huaweicentral.com/honor-magic-9-selfie-camera/",
-          "image": "https://www.huaweicentral.com/wp-content/uploads/2026/06/selfie-camera-leak.jpg",
-          "verdict": "扫一眼",
-          "takeaway": "HONOR 影像能力相关宣传或案例，主要看是否透露拍摄能力变化。",
-          "detail": "iPhone 17 影像能力相关消息。重点看影像功能是否和新机硬件有关，如果只是拍摄案例或营销内容，参考价值会低一些。",
-          "keyPoints": [
-            "影像硬件"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "影响拍照体验，买旗舰机时值得关注。",
-          "action": "有具体参数就记录到参数库；没有参数就先收藏。"
-        },
         {
           "id": "newsnow-34e8818c38cc",
           "title": "老铁们，互有好感的女生用着这款手机看状态栏有认识品牌型号的吗？我想送她k90promax不知道合适不",
@@ -486,6 +486,29 @@ window.phoneRadarDaily = {
           "confidence": "可信度较高，但仍属于发布前线索。",
           "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        },
+        {
+          "id": "auto-5cec40f7fba9",
+          "title": "Galaxy S26 Ultra 屏幕规格相关消息",
+          "originalTitle": "",
+          "source": "SamMobile",
+          "brand": "Samsung",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-06-09",
+          "time": "19:31",
+          "publishedAt": "2026-06-09T19:31:56.000Z",
+          "url": "https://www.sammobile.com/opinion/galaxy-s26-ultra-privacy-display-realized-i-am-snooper-too/",
+          "image": "",
+          "verdict": "可略过",
+          "takeaway": "Galaxy S26 Ultra 屏幕规格相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
+          "detail": "Galaxy S26 Ultra 屏幕规格相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
+          "keyPoints": [
+            "屏幕形态"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "影响手感和显示体验，适合和其他机型对比。",
+          "action": "有具体参数就记录到参数库；没有参数就先收藏。"
         },
         {
           "id": "auto-fab42b424975",
