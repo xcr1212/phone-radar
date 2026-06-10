@@ -1,24 +1,304 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-06-10T04:48:07.275Z",
+  "updatedAt": "2026-06-10T10:32:26.293Z",
   "news": [
     {
-      "id": "coolapk-user-9082959edd67",
-      "title": "竹本青：【尚界Z7全网首拆直播，将于6月11日举行】 鸿蒙智行今天官宣，将在明日直播全网首拆尚界Z7。车身安全、智能、电池…",
+      "id": "auto-746ea6d758d5",
+      "title": "Counterpoint：2026 年 Q1 智能手机芯片出货下滑 8%，联发科 32% 稳居榜首、高通 23%、苹果 19%、紫光展锐 14%",
+      "source": "IT之家",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-10",
+      "time": "10:27",
+      "publishedAt": "2026-06-10T10:27:48.000Z",
+      "url": "https://www.ithome.com/0/962/610.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/6/124b4f4e-a64f-4b2a-8698-7a1f74997170.png?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 6 月 10 日消息，市场研究机构 Counterpoint 本周一公布了 2026 年第一季度全球智能手机 AP-SoC 市场份额数据报告。 数据显示，联发科今年第一季度以 32% 的份额位居榜首，高通以 23% 位列第二，苹果以 19% 排在第三，紫光展锐以 14% 占据第四，三星以 7% 排在第五，海思以 4% 位列第六。 从整体市场来看，…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-62dea7cb4fd6",
+      "title": "突破 500 万大关：消息称小米 17 系列手机销量截至 5 月底约 508 万台",
+      "source": "IT之家",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-10",
+      "time": "09:28",
+      "publishedAt": "2026-06-10T09:28:03.000Z",
+      "url": "https://www.ithome.com/0/962/537.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/6/9f6d2bb9-980c-4c3d-8cee-4e4ab4b6219e.jpg?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 6 月 10 日消息，长期关注国内手机市场份额的博主 @RD观测 今日分享了小米旗舰手机销量情况：截至 2026 W22（IT之家注：5 月 25 日-5 月 31 日）， 小米 17 系列约 508 万，突破 500 万大关 。 小米 17 系列约 508 万 小米 17 Max 约 5.33 万 小米 17 Ultra 约 21.96 万 博…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-884f51cf8fd2",
+      "title": "Galaxy Z Fold 8 Ultra real-life images, wallpapers leak",
+      "source": "SamMobile",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-10",
+      "time": "09:02",
+      "publishedAt": "2026-06-10T09:02:20.000Z",
+      "url": "https://www.sammobile.com/news/galaxy-z-fold-8-ultra-real-life-images-wallpapers-leak/",
+      "image": "https://www.sammobile.com/wp-content/uploads/2026/06/Samsung-Galaxy-Z-Fold-8-Cover-Display-Wallpaper-01.jpeg",
+      "summary": "With only a month and a half to go for the launch of Samsung’s next flagship smartphone with a book-style foldable display, the Galaxy Z Fold 8 Ultra, the frequency of the leaks a…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-509601928b4d",
+      "title": "OnePlus Turbo 6X, 6X Pro debuts with 144Hz display, up to 8,000mA battery, Dimensity power",
+      "source": "Gizmochina",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-10",
+      "time": "08:40",
+      "publishedAt": "2026-06-10T08:40:48.000Z",
+      "url": "https://www.gizmochina.com/2026/06/10/oneplus-turbo-6x-turbo-6x-pro-launched-china-specifications-price/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/06/OnePlus-Turbo-6X-series-300x199.jpg?x10805",
+      "summary": "OnePlus has expanded its Turbo series in China with the launch of the OnePlus Turbo 6X and Turbo 6X Pro. The two smartphones target different segments of buyers, with the Pro mode…",
+      "tags": [
+        "OPPO",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-9d7273fe4feb",
+      "title": "Xiaomi 17T vs Xiaomi 17T Pro: Are the Pro Upgrades Worth the Extra $200?",
+      "source": "Gizmochina",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-10",
+      "time": "08:38",
+      "publishedAt": "2026-06-10T08:38:30.000Z",
+      "url": "https://www.gizmochina.com/2026/06/10/xiaomi-17t-vs-xiaomi-17t-pro/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/06/image-54-300x198.png?x10805",
+      "summary": "Xiaomi 17T and Xiaomi 17T Pro may share the same family name, but the differences between them go far beyond a simple “Pro” badge. From a more powerful flagship chipset and faster…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-cd1fd596edc2",
+      "title": "This external SSD is my must-have iPhone 17 Pro accessory — here's why",
+      "source": "Android Central",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-06-10",
+      "time": "08:21",
+      "publishedAt": "2026-06-10T08:21:47.000Z",
+      "url": "https://www.androidcentral.com/accessories/storage/i-used-teamgroup-pd20m-ssd-more-than-any-others",
+      "image": "https://cdn.mos.cms.futurecdn.net/5yXSUnSYir9wLkz9xzi2Pb-1280-80.jpg",
+      "summary": "TeamGroup's PD20M is a MagSafe SSD that's easy to use, has a sleek design, and works great with the Pixel 10 Pro XL.",
+      "tags": [
+        "Pixel",
+        "评测",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-6c85ff71b78c",
+      "title": "Samsung preparing for Galaxy Z Flip 8 USA launch",
+      "source": "SamMobile",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-10",
+      "time": "08:14",
+      "publishedAt": "2026-06-10T08:14:12.000Z",
+      "url": "https://www.sammobile.com/news/samsung-preparing-galaxy-z-flip-8-usa-launch/",
+      "image": "https://www.sammobile.com/wp-content/uploads/2026/06/Samsung-Galaxy-Z-Flip-8-FCC-Certification-01.jpg",
+      "summary": "According to multiple reports, Samsung will debut its next lineup of smartphones with foldable displays, which is expected to offer three devices, Galaxy Z Fold 8 (Wide), Galaxy Z…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-0088345b0bd8",
+      "title": "竹本青：小米17 Pro系列背屏卡片上新：「米家摄像机」",
       "source": "竹本青",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
       "type": "爆料",
       "trust": "高可信爆料",
       "date": "2026-06-10",
-      "time": "04:16",
-      "publishedAt": "2026-06-10T04:16:34.000Z",
-      "url": "https://www.coolapk.com/feed/72264129",
-      "image": "http://image.coolapk.com/feed/2026/0610/12/4248714_cd439157_4992_3985_364@960x5928.jpg",
-      "summary": "【尚界Z7全网首拆直播，将于6月11日举行】 鸿蒙智行今天官宣，将在明日直播全网首拆尚界Z7。车身安全、智能、电池、底盘、座舱——五大板块边拆边讲，业内大咖联合解读。 #今日热点# #尚界Z7# #鸿蒙智行#",
+      "time": "08:06",
+      "publishedAt": "2026-06-10T08:06:43.000Z",
+      "url": "https://www.coolapk.com/feed/72267832",
+      "image": "http://image.coolapk.com/feed/2026/0610/16/4248714_c0fca87e_8802_0957_89@2000x2667.jpg",
+      "summary": "【小米17 Pro系列 手机背屏卡片上新：「米家摄像机」】 小米今日宣布，17 Pro系列背屏上线「米家摄像机」卡片。打开背屏随时看米家摄像机，查看前需人脸识别解锁，保护隐私安全。 #小米17ProMax# #HyperOS3# #今日热点#",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-c42496d17280",
+      "title": "Galaxy S27 spotted on GSMA database",
+      "source": "Gizmochina",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-10",
+      "time": "07:46",
+      "publishedAt": "2026-06-10T07:46:56.000Z",
+      "url": "https://www.gizmochina.com/2026/06/10/galaxy-s27-spotted-on-gsma-database/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/06/galaxy-s26-features-kv-1-300x169.jpg?x10805",
+      "summary": "The standard Galaxy S27 has appeared in the GSMA database under model number SM-S952U, marking the first official sign that development of the 2027 flagship series is underway. Th…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-9baa92f113a7",
+      "title": "竹本青：【一加 Turbo 6X系列 正式发布：标准版1499元起、Pro版1699元起】 一加 Turbo 6X 8GB…",
+      "source": "竹本青",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-06-10",
+      "time": "07:17",
+      "publishedAt": "2026-06-10T07:17:09.000Z",
+      "url": "https://www.coolapk.com/feed/72266928",
+      "image": "http://image.coolapk.com/feed/2026/0610/15/4248714_395d2d5a_6993_0472_528@1080x3990.jpg",
+      "summary": "【一加 Turbo 6X系列 正式发布：标准版1499元起、Pro版1699元起】 一加 Turbo 6X 8GB+128GB —— 1499元 8GB+256GB —— 1699元 12GB+256GB —— 1999元 一加 Turbo 6X Pro 8GB+128GB —— 1699元 8GB+256GB —— 1899元 12GB+256GB ——…",
+      "tags": [
+        "OPPO",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "coolapk-user-609c81123a39",
+      "title": "竹本青：荣耀YOYO与微信首个A2A合作上线",
+      "source": "竹本青",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-06-10",
+      "time": "07:02",
+      "publishedAt": "2026-06-10T07:02:09.000Z",
+      "url": "https://www.coolapk.com/feed/72266647",
+      "image": "http://image.coolapk.com/feed/2026/0610/15/4248714_cd974f06_5195_5362_362-livepic@1080x1920.jpg",
+      "summary": "【荣耀YOYO与微信首个A2A合作上线：一句话发消息、打语音/视频】 ▫️一句话发送微信消息、拨打语音/视频 ▫️唤醒即连线，无需手动切换 ▫️荣耀全量机型已推送 体验路径：长按电源键唤醒YOYO > 发送语音“给xx发微信／打微信语音电话／打微信视频电话” ＊YOYO智能体版本需更新至90.10.30.063及以上；微信版本需更新至8.0.72及以上；系…",
+      "tags": [
+        "HONOR",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-3828fed9c993",
+      "title": "Galaxy S27 appears in its first credible listing",
+      "source": "SamMobile",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-10",
+      "time": "06:34",
+      "publishedAt": "2026-06-10T06:34:06.000Z",
+      "url": "https://www.sammobile.com/news/galaxy-s27-appears-first-credible-listing/",
+      "image": "https://www.sammobile.com/wp-content/uploads/2026/06/Samsung-Galaxy-S27-SM-S952U-GSMA-Database.jpg",
+      "summary": "We have been hearing about Samsung’s next flagship non-foldable smartphone lineup, the Galaxy S27 series, since even before the Galaxy S25 lineup came out. However, there haven't…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-b1501e861099",
+      "title": "Mate 80 sold 6.49 million units, driving Huawei’s market share",
+      "source": "Huawei Central",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-10",
+      "time": "06:14",
+      "publishedAt": "2026-06-10T06:14:25.000Z",
+      "url": "https://www.huaweicentral.com/mate-80-sold-6-49-million-units-driving-huaweis-market-share/",
+      "image": "https://www.huaweicentral.com/wp-content/uploads/2026/06/Mate-80-sales-leak.jpg",
+      "summary": "Huawei Mate 80 series has sold 6.49 million units to date, and these booming sales are constantly contributing to the company’s position in the Chinese smartphone market. The OEM…",
       "tags": [
         "Huawei",
         "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-2c0fa3ba7a80",
+      "title": "竹本青：【小米澎湃OS：直播吧现已登陆超级岛】 ▫️第一时间掌握赛事最新战况 ▫️对战双方、实时比分常驻显示 ▫️多场景同…",
+      "source": "竹本青",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-06-10",
+      "time": "06:06",
+      "publishedAt": "2026-06-10T06:06:01.000Z",
+      "url": "https://www.coolapk.com/feed/72265793",
+      "image": "http://image.coolapk.com/feed/2026/0610/14/4248714_d0f1400b_1559_8803_393@1500x2000.jpg",
+      "summary": "【小米澎湃OS：直播吧现已登陆超级岛】 ▫️第一时间掌握赛事最新战况 ▫️对战双方、实时比分常驻显示 ▫️多场景同步追赛况 #今日热点# #HyperOS3#",
+      "tags": [
+        "Xiaomi",
+        "爆料",
         "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-5e76d5b81513",
+      "title": "Huawei Mate 90 series can use new 3D cooling fusion technology",
+      "source": "Huawei Central",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-10",
+      "time": "05:17",
+      "publishedAt": "2026-06-10T05:17:09.000Z",
+      "url": "https://www.huaweicentral.com/huawei-mate-90-series-cooling-technology/",
+      "image": "https://www.huaweicentral.com/wp-content/uploads/2026/06/cooling-tech-leak.jpg",
+      "summary": "An early report suggested that Huawei is planning to introduce the MEMS active cooling fan technology in the Mate 90 series. However, it looks like the company has more than one “…",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "自动抓取"
       ]
     },
     {
@@ -42,26 +322,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "coolapk-user-813199a38ce3",
-      "title": "竹本青：【荣耀600系列「校园网」专项优化上线】 ▫️校园网自动接入 ▫️流量消耗自动提醒 ▫️校园WiFi自动选网 ▫️…",
-      "source": "竹本青",
-      "brand": "HONOR",
-      "model": "HONOR 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-06-10",
-      "time": "01:35",
-      "publishedAt": "2026-06-10T01:35:55.000Z",
-      "url": "https://www.coolapk.com/feed/72261148",
-      "image": "http://image.coolapk.com/feed/2026/0610/09/4248714_6a8f3e3e_5352_7122_976@2000x3556.jpg",
-      "summary": "【荣耀600系列「校园网」专项优化上线】 ▫️校园网自动接入 ▫️流量消耗自动提醒 ▫️校园WiFi自动选网 ▫️荣耀「优速通」已覆盖1500+所高校 #今日热点# #荣耀600Pro# #MagicOS10#",
-      "tags": [
-        "HONOR",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
       "id": "newsnow-bfeb895c3a09",
       "title": "我从未见过生命周期如此长的产品，iPhone17怎么做到的[吃瓜]",
       "source": "酷安热榜",
@@ -75,6 +335,26 @@ window.phoneRadarAuto = {
       "url": "https://www.coolapk.com/feed/72228979",
       "image": "",
       "summary": "我从未见过生命周期如此长的产品，iPhone17怎么做到的[吃瓜]",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-ffd9a64d4b01",
+      "title": "曝iPhone 17系列中国区总销量已超3232万台",
+      "source": "酷安热榜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-06-10",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/72250301",
+      "image": "",
+      "summary": "曝iPhone 17系列中国区总销量已超3232万台",
       "tags": [
         "iPhone",
         "爆料",
@@ -102,46 +382,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-ffd9a64d4b01",
-      "title": "曝iPhone 17系列中国区总销量已超3232万台",
-      "source": "酷安热榜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-06-10",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72250301",
-      "image": "",
-      "summary": "曝iPhone 17系列中国区总销量已超3232万台",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-7a4298ecfce5",
-      "title": "为什么我觉得现在钱越来越不值钱了？什么东西都在涨价，钱的购买力一直在下降？不过平均工资还是没涨，外包还是普遍存在，还是被吸了一层。。。。。#如何看待手机市场全面涨价# #小米17Max#",
-      "source": "酷安热榜",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-06-10",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72240180",
-      "image": "",
-      "summary": "为什么我觉得现在钱越来越不值钱了？什么东西都在涨价，钱的购买力一直在下降？不过平均工资还是没涨，外包还是普遍存在，还是被吸了一层。。。。。#如何看待手机市场全面涨价# #小米17Max#",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
       "id": "newsnow-cb6f4ad3cec0",
       "title": "曝华为Mate 80系列总销量已近650万台",
       "source": "酷安热榜",
@@ -157,6 +397,46 @@ window.phoneRadarAuto = {
       "summary": "曝华为Mate 80系列总销量已近650万台",
       "tags": [
         "Huawei",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-a26a1e3fe97b",
+      "title": "手机拍照不要只会用原相机",
+      "source": "微博热搜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "待验证",
+      "date": "2026-06-10",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://s.weibo.com/weibo?q=%E6%89%8B%E6%9C%BA%E6%8B%8D%E7%85%A7%E4%B8%8D%E8%A6%81%E5%8F%AA%E4%BC%9A%E7%94%A8%E5%8E%9F%E7%9B%B8%E6%9C%BA&t=31&band_rank=18&Refer=top",
+      "image": "",
+      "summary": "手机拍照不要只会用原相机",
+      "tags": [
+        "行业",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-343797a5d260",
+      "title": "公布个人手机号的原市委书记主动投案",
+      "source": "今日头条热榜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-10",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.toutiao.com/trending/7649064838828900361/",
+      "image": "",
+      "summary": "公布个人手机号的原市委书记主动投案",
+      "tags": [
+        "行业",
         "爆料",
         "NewsNow"
       ]
@@ -302,26 +582,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-bf03ec5ac78c",
-      "title": "Apple’s entry in foldable race can put pressure on Huawei: Report",
-      "source": "Huawei Central",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-09",
-      "time": "09:29",
-      "publishedAt": "2026-06-09T09:29:01.000Z",
-      "url": "https://www.huaweicentral.com/apples-entry-in-foldable-race-can-put-pressure-on-huawei-report/",
-      "image": "https://www.huaweicentral.com/wp-content/uploads/2026/04/comparison2.jpg",
-      "summary": "Apple’s first foldable is coming this year, and this creation may pressure the top tech players in the folding phone market – Huawei and Samsung, as per a new report. The iPhone m…",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-cc8f73a8082b",
       "title": "OnePlus looks ready to dive deeper into the budget phone battle",
       "source": "Android Central",
@@ -342,26 +602,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-5af106395bd8",
-      "title": "Galaxy Z Fold 8 may have the sharpest screens of any Fold yet",
-      "source": "SamMobile",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-09",
-      "time": "09:01",
-      "publishedAt": "2026-06-09T09:01:37.000Z",
-      "url": "https://www.sammobile.com/news/galaxy-z-fold-8-may-have-sharpest-screens-any-fold-yet/",
-      "image": "",
-      "summary": "Samsung is expected to launch two new flagship phones with book-style foldable displays next month, the Galaxy Z Fold 8 (Wide) and the Galaxy Z Fold 8 Ultra. According to previous…",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-ee64722e9ca4",
       "title": "Apple may have pulled a Samsung by leaking iPhone Ultra details",
       "source": "Android Authority",
@@ -377,26 +617,6 @@ window.phoneRadarAuto = {
       "summary": "Even Apple's own operating system is leaking potential details about the iPhone Ultra.",
       "tags": [
         "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-e2cb927f3277",
-      "title": "Huawei Mate XT 2 tri-fold launch time may clash with iPhone Ultra",
-      "source": "Huawei Central",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-09",
-      "time": "07:25",
-      "publishedAt": "2026-06-09T07:25:46.000Z",
-      "url": "https://www.huaweicentral.com/huawei-mate-xt-2-tri-fold-launch-time/",
-      "image": "https://www.huaweicentral.com/wp-content/uploads/2026/06/trifold-launch-leak.jpg",
-      "summary": "iPhone Ultra will likely debut in the third quarter of this year, and it looks like Huawei is planning to launch its 2026 tri-fold – the Mate XT 2 at the same time. A new leak sug…",
-      "tags": [
-        "Huawei",
         "爆料",
         "自动抓取"
       ]
@@ -439,46 +659,6 @@ window.phoneRadarAuto = {
         "Xiaomi",
         "爆料",
         "自动抓取"
-      ]
-    },
-    {
-      "id": "weibo-390856ece66e",
-      "title": "数码闲聊站：独家信息：子系试产了几块万级大电池，目前最大方案是额定10760mAh，典型值…",
-      "source": "数码闲聊站",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-06-09",
-      "time": "05:03",
-      "publishedAt": "2026-06-09T05:03:00.000Z",
-      "url": "https://weibo.com/6048569942/R3j4trADN",
-      "image": "",
-      "summary": "独家信息，子系试产了几块万级大电池，目前最大方案是额定10760mAh，典型值11000mAh±，硅含量预计20％+，单电芯方案，支持百瓦闪充，有旗舰级性能手机采用~",
-      "tags": [
-        "行业",
-        "爆料",
-        "微博"
-      ]
-    },
-    {
-      "id": "weibo-6c44920aabaa",
-      "title": "数码闲聊站：荣耀X80 Pro Max： 6.8\"±2788*1280p OLED大R角窄…",
-      "source": "数码闲聊站",
-      "brand": "HONOR",
-      "model": "HONOR 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-06-09",
-      "time": "03:32",
-      "publishedAt": "2026-06-09T03:32:00.000Z",
-      "url": "https://weibo.com/6048569942/R3itxmIrw",
-      "image": "https://tvax4.sinaimg.cn/mw2000/006BlblIly1idyrpxv7btj30xv1iw7pd.jpg",
-      "summary": "荣耀X80 Pro Max： 6.8\"±2788*1280p OLED大R角窄边框直屏，骁龙6 Gen5处理器，11000mAh巨容量电池，90W快充，满级防水，抗摔机身，旗舰级ID设计……[二哈]",
-      "tags": [
-        "HONOR",
-        "爆料",
-        "微博"
       ]
     },
     {
