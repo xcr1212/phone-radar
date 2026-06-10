@@ -1,5 +1,5 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-06-10T18:42:10.254Z",
+  "updatedAt": "2026-06-10T22:20:12.847Z",
   "issueDate": "2026-06-10",
   "issue": "VOL.260610",
   "title": "手机情报日报",
@@ -241,8 +241,8 @@ window.phoneRadarDaily = {
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         },
         {
-          "id": "newsnow-ffd9a64d4b01",
-          "title": "曝iPhone 17系列中国区总销量已超3232万台",
+          "id": "newsnow-11d1ea34435b",
+          "title": "iPhone17和iPhone Air，价格相差一百",
           "originalTitle": "",
           "source": "酷安热榜",
           "brand": "iPhone",
@@ -251,11 +251,34 @@ window.phoneRadarDaily = {
           "date": "2026-06-10",
           "time": "",
           "publishedAt": "",
-          "url": "https://www.coolapk.com/feed/72250301",
+          "url": "https://www.coolapk.com/feed/72272177",
           "image": "",
           "verdict": "先看",
-          "takeaway": "曝iPhone 17系列中国区总销量已超3232万台",
-          "detail": "曝iPhone 17系列中国区总销量已超3232万台",
+          "takeaway": "iPhone17和iPhone Air，价格相差一百",
+          "detail": "iPhone17和iPhone Air，价格相差一百",
+          "keyPoints": [
+            "成本 / 价格"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "影响购买预算，值得先看。",
+          "action": "有具体参数就记录到参数库；没有参数就先收藏。"
+        },
+        {
+          "id": "auto-1392847fa4c1",
+          "title": "iPhone 相关消息",
+          "originalTitle": "",
+          "source": "9to5Mac",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-06-10",
+          "time": "18:51",
+          "publishedAt": "2026-06-10T18:51:24.000Z",
+          "url": "https://9to5mac.com/2026/06/10/iphone-18-pro-three-new-features-might-make-you-want-to-upgrade/",
+          "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/05/iphone-17-pro-blue-angle-two.jpg?quality=82&strip=all&w=1600",
+          "verdict": "扫一眼",
+          "takeaway": "iPhone 相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
+          "detail": "iPhone 相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
           "keyPoints": [
             "爆料"
           ],
@@ -285,29 +308,6 @@ window.phoneRadarDaily = {
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是实际体验内容，买前适合重点看缺点和取舍。",
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
-        {
-          "id": "auto-6db1f85832cf",
-          "title": "iPhone 相关消息",
-          "originalTitle": "",
-          "source": "9to5Mac",
-          "brand": "iPhone",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-06-09",
-          "time": "23:24",
-          "publishedAt": "2026-06-09T23:24:21.000Z",
-          "url": "https://9to5mac.com/2026/06/09/report-iphone-production-grew-20-in-q1-countering-global-smartphone-dip/",
-          "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/iphone-17-pro-silver-front-back.jpg?quality=82&strip=all&w=1600",
-          "verdict": "扫一眼",
-          "takeaway": "iPhone 相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
-          "detail": "iPhone 相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
-          "keyPoints": [
-            "成本 / 价格"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         }
       ]
     },
@@ -316,29 +316,6 @@ window.phoneRadarDaily = {
       "title": "新机与官方发布",
       "hint": "能直接更新到参数库。",
       "items": [
-        {
-          "id": "auto-6b1c2aecc4df",
-          "title": "真我 realme P4R 5G 手机海外发布：天玑 6300，售 18999 卢比起",
-          "originalTitle": "",
-          "source": "IT之家",
-          "brand": "行业",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-06-10",
-          "time": "11:13",
-          "publishedAt": "2026-06-10T11:13:07.000Z",
-          "url": "https://www.ithome.com/0/962/621.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/6/5efceab0-0134-4768-8c4e-15fa0b367784.jpg?x-bce-process=image/format,f_auto",
-          "verdict": "扫一眼",
-          "takeaway": "IT之家 6 月 10 日消息，真我 realme 今日在海外发布了 realme P4R 5G 手机， 售价 18999 卢比起 ： 4GB+128GB：售价 18999 卢比（现汇率约合 1347 元人民币） 6GB+128GB：售价 20999 卢比（现汇率约合 1489 元人民币） 6GB+256GB：售价 22999 卢比（现汇率约合 1631…",
-          "detail": "IT之家 6 月 10 日消息，真我 realme 今日在海外发布了 realme P4R 5G 手机， 售价 18999 卢比起 ： 4GB+128GB：售价 18999 卢比（现汇率约合 1347 元人民币） 6GB+128GB：售价 20999 卢比（现汇率约合 1489 元人民币） 6GB+256GB：售价 22999 卢比（现汇率约合 1631…",
-          "keyPoints": [
-            "成本 / 价格"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "中文源可以直接点开快读；看完只保留和购机有关的点。"
-        },
         {
           "id": "coolapk-user-9baa92f113a7",
           "title": "竹本青：【一加 Turbo 6X系列 正式发布：标准版1499元起、Pro版1699元起】 一加 Turbo 6X 8GB…",
@@ -431,6 +408,29 @@ window.phoneRadarDaily = {
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        },
+        {
+          "id": "auto-71ac726a4b44",
+          "title": "Xiaomi 发布 / 上市相关消息",
+          "originalTitle": "",
+          "source": "Gizmochina",
+          "brand": "Xiaomi",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-06-09",
+          "time": "05:48",
+          "publishedAt": "2026-06-09T05:48:07.000Z",
+          "url": "https://www.gizmochina.com/2026/06/09/redmi-turbo-5-india-specs-battery-charging-display-revealed/",
+          "image": "https://www.gizmochina.com/wp-content/uploads/2026/05/Redmi-Turbo-5-300x200.png?x10805",
+          "verdict": "可略过",
+          "takeaway": "Xiaomi 有发布或新功能消息，适合确认是否和新机有关。",
+          "detail": "Xiaomi 发布 / 上市相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         }
       ]
     },
@@ -485,6 +485,29 @@ window.phoneRadarDaily = {
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是实际体验内容，买前适合重点看缺点和取舍。",
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        },
+        {
+          "id": "auto-cc8f73a8082b",
+          "title": "Xiaomi 相关消息",
+          "originalTitle": "",
+          "source": "Android Central",
+          "brand": "Xiaomi",
+          "type": "评测",
+          "trust": "媒体汇总",
+          "date": "2026-06-09",
+          "time": "09:04",
+          "publishedAt": "2026-06-09T09:04:48.000Z",
+          "url": "https://www.androidcentral.com/phones/oneplus/oneplus-looks-ready-to-dive-deeper-into-the-budget-phone-battle",
+          "image": "https://cdn.mos.cms.futurecdn.net/PQh4PNuqFSwxaPn3h7nGvk-1280-80.jpg",
+          "verdict": "可略过",
+          "takeaway": "Xiaomi 相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
+          "detail": "Xiaomi 相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
+          "keyPoints": [
+            "成本 / 价格"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是实际体验内容，买前适合重点看缺点和取舍。",
+          "action": "有具体参数就记录到参数库；没有参数就先收藏。"
         }
       ]
     },
@@ -494,69 +517,23 @@ window.phoneRadarDaily = {
       "hint": "看方向，不急着当购买依据。",
       "items": [
         {
-          "id": "coolapk-user-0088345b0bd8",
-          "title": "竹本青：小米17 Pro系列背屏卡片上新：「米家摄像机」",
+          "id": "newsnow-367c8033e02f",
+          "title": "[捂脸][捂脸][捂脸]高考完当天就被小米偷家了，果然是针对高考生的手机。",
           "originalTitle": "",
-          "source": "竹本青",
+          "source": "酷安热榜",
           "brand": "Xiaomi",
           "type": "爆料",
-          "trust": "高可信爆料",
-          "date": "2026-06-10",
-          "time": "08:06",
-          "publishedAt": "2026-06-10T08:06:43.000Z",
-          "url": "https://www.coolapk.com/feed/72267832",
-          "image": "http://image.coolapk.com/feed/2026/0610/16/4248714_c0fca87e_8802_0957_89@2000x2667.jpg",
-          "verdict": "扫一眼",
-          "takeaway": "【小米17 Pro系列 手机背屏卡片上新：「米家摄像机」】 小米今日宣布，17 Pro系列背屏上线「米家摄像机」卡片。打开背屏随时看米家摄像机，查看前需人脸识别解锁，保护隐私安全。 #小米17ProMax# #HyperOS3# #今日热点#",
-          "detail": "【小米17 Pro系列 手机背屏卡片上新：「米家摄像机」】 小米今日宣布，17 Pro系列背屏上线「米家摄像机」卡片。打开背屏随时看米家摄像机，查看前需人脸识别解锁，保护隐私安全。 #小米17ProMax# #HyperOS3# #今日热点#",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "可信度较高，但仍属于发布前线索。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
-        {
-          "id": "newsnow-7454afb375cd",
-          "title": "老铁们，互有好感的女生用着这款手机看状态栏有认识品牌型号的吗？我想送她k90promax不知道合适不",
-          "originalTitle": "",
-          "source": "酷安热榜",
-          "brand": "行业",
-          "type": "爆料",
           "trust": "高关注爆料源",
           "date": "2026-06-10",
           "time": "",
           "publishedAt": "",
-          "url": "https://www.coolapk.com/feed/72240744",
+          "url": "https://www.coolapk.com/feed/72263472",
           "image": "",
-          "verdict": "扫一眼",
-          "takeaway": "老铁们，互有好感的女生用着这款手机看状态栏有认识品牌型号的吗？我想送她k90promax不知道合适不",
-          "detail": "老铁们，互有好感的女生用着这款手机看状态栏有认识品牌型号的吗？我想送她k90promax不知道合适不",
+          "verdict": "先看",
+          "takeaway": "[捂脸][捂脸][捂脸]高考完当天就被小米偷家了，果然是针对高考生的手机。",
+          "detail": "[捂脸][捂脸][捂脸]高考完当天就被小米偷家了，果然是针对高考生的手机。",
           "keyPoints": [
             "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
-        {
-          "id": "newsnow-f00c49af87b3",
-          "title": "感觉实在不行o请周润发来代言吧，刚刚好周润发也是哈苏佬，最近他还上手了x9u摄影师套装版[受虐滑稽] #ColorOS16# #OPPOFindX9Pro# #OPPOFindX9Ultra#",
-          "originalTitle": "",
-          "source": "酷安热榜",
-          "brand": "OPPO",
-          "type": "爆料",
-          "trust": "高关注爆料源",
-          "date": "2026-06-10",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://www.coolapk.com/feed/72259728",
-          "image": "",
-          "verdict": "扫一眼",
-          "takeaway": "感觉实在不行o请周润发来代言吧，刚刚好周润发也是哈苏佬，最近他还上手了x9u摄影师套装版[受虐滑稽] #ColorOS16# #OPPOFindX9Pro# #OPPOFindX9Ultra#",
-          "detail": "感觉实在不行o请周润发来代言吧，刚刚好周润发也是哈苏佬，最近他还上手了x9u摄影师套装版[受虐滑稽] #ColorOS16# #OPPOFindX9Pro# #OPPOFindX9Ultra#",
-          "keyPoints": [
-            "外观 / 配色 / 尺寸"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
@@ -601,6 +578,29 @@ window.phoneRadarDaily = {
           "verdict": "可略过",
           "takeaway": "Galaxy S25 FE 功能更新或覆盖范围扩大。已转成中文摘要展示，详细内容可打开原文核对。",
           "detail": "Galaxy S25 FE 功能更新或覆盖范围扩大。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        },
+        {
+          "id": "auto-fab42b424975",
+          "title": "Pixel 10 系统功能 / AI 体验相关消息",
+          "originalTitle": "",
+          "source": "Android Authority",
+          "brand": "OPPO",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-06-09",
+          "time": "07:20",
+          "publishedAt": "2026-06-09T07:20:09.000Z",
+          "url": "https://www.androidauthority.com/oneplus-15-airdop-via-quick-share-3675598/",
+          "image": "https://www.androidauthority.com/wp-content/uploads/2025/11/OnePlus-15-Ultra-Violet.jpg",
+          "verdict": "可略过",
+          "takeaway": "OPPO 有系统功能或 AI 体验更新，适合关注后续是否影响日常使用。",
+          "detail": "Pixel 10 系统功能 / AI 体验相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
           "keyPoints": [
             "爆料"
           ],

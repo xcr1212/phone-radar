@@ -1,6 +1,26 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-06-10T18:42:10.254Z",
+  "updatedAt": "2026-06-10T22:20:12.847Z",
   "news": [
+    {
+      "id": "auto-1392847fa4c1",
+      "title": "iPhone 18 Pro: Three new features might make you want to upgrade",
+      "source": "9to5Mac",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-10",
+      "time": "18:51",
+      "publishedAt": "2026-06-10T18:51:24.000Z",
+      "url": "https://9to5mac.com/2026/06/10/iphone-18-pro-three-new-features-might-make-you-want-to-upgrade/",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/05/iphone-17-pro-blue-angle-two.jpg?quality=82&strip=all&w=1600",
+      "summary": "iPhone 18 Pro is coming this fall , and three new features could be among the top upgrade motivators for Apple’s latest flagship model. more…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-51b93be57422",
       "title": "苹果 iPhone 18 标准版有望升级 12GB 内存，但代价是退回 M12+ 屏幕面板",
@@ -97,26 +117,6 @@ window.phoneRadarAuto = {
       "summary": "Samsung started rolling out the June 2026 security patch with the Galaxy S26 series, and now, the brand is offering it to the Galaxy S25 FE, the fourth device to get it. The updat…",
       "tags": [
         "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-6b1c2aecc4df",
-      "title": "真我 realme P4R 5G 手机海外发布：天玑 6300，售 18999 卢比起",
-      "source": "IT之家",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-10",
-      "time": "11:13",
-      "publishedAt": "2026-06-10T11:13:07.000Z",
-      "url": "https://www.ithome.com/0/962/621.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/6/5efceab0-0134-4768-8c4e-15fa0b367784.jpg?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 6 月 10 日消息，真我 realme 今日在海外发布了 realme P4R 5G 手机， 售价 18999 卢比起 ： 4GB+128GB：售价 18999 卢比（现汇率约合 1347 元人民币） 6GB+128GB：售价 20999 卢比（现汇率约合 1489 元人民币） 6GB+256GB：售价 22999 卢比（现汇率约合 1631…",
-      "tags": [
-        "行业",
         "爆料",
         "自动抓取"
       ]
@@ -239,26 +239,6 @@ window.phoneRadarAuto = {
         "Samsung",
         "爆料",
         "自动抓取"
-      ]
-    },
-    {
-      "id": "coolapk-user-0088345b0bd8",
-      "title": "竹本青：小米17 Pro系列背屏卡片上新：「米家摄像机」",
-      "source": "竹本青",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-06-10",
-      "time": "08:06",
-      "publishedAt": "2026-06-10T08:06:43.000Z",
-      "url": "https://www.coolapk.com/feed/72267832",
-      "image": "http://image.coolapk.com/feed/2026/0610/16/4248714_c0fca87e_8802_0957_89@2000x2667.jpg",
-      "summary": "【小米17 Pro系列 手机背屏卡片上新：「米家摄像机」】 小米今日宣布，17 Pro系列背屏上线「米家摄像机」卡片。打开背屏随时看米家摄像机，查看前需人脸识别解锁，保护隐私安全。 #小米17ProMax# #HyperOS3# #今日热点#",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "酷安博主"
       ]
     },
     {
@@ -422,8 +402,28 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-ffd9a64d4b01",
-      "title": "曝iPhone 17系列中国区总销量已超3232万台",
+      "id": "newsnow-367c8033e02f",
+      "title": "[捂脸][捂脸][捂脸]高考完当天就被小米偷家了，果然是针对高考生的手机。",
+      "source": "酷安热榜",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-06-10",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/72263472",
+      "image": "",
+      "summary": "[捂脸][捂脸][捂脸]高考完当天就被小米偷家了，果然是针对高考生的手机。",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-11d1ea34435b",
+      "title": "iPhone17和iPhone Air，价格相差一百",
       "source": "酷安热榜",
       "brand": "iPhone",
       "model": "iPhone 相关机型",
@@ -432,51 +432,11 @@ window.phoneRadarAuto = {
       "date": "2026-06-10",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72250301",
+      "url": "https://www.coolapk.com/feed/72272177",
       "image": "",
-      "summary": "曝iPhone 17系列中国区总销量已超3232万台",
+      "summary": "iPhone17和iPhone Air，价格相差一百",
       "tags": [
         "iPhone",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-7454afb375cd",
-      "title": "老铁们，互有好感的女生用着这款手机看状态栏有认识品牌型号的吗？我想送她k90promax不知道合适不",
-      "source": "酷安热榜",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-06-10",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72240744",
-      "image": "",
-      "summary": "老铁们，互有好感的女生用着这款手机看状态栏有认识品牌型号的吗？我想送她k90promax不知道合适不",
-      "tags": [
-        "行业",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-f00c49af87b3",
-      "title": "感觉实在不行o请周润发来代言吧，刚刚好周润发也是哈苏佬，最近他还上手了x9u摄影师套装版[受虐滑稽] #ColorOS16# #OPPOFindX9Pro# #OPPOFindX9Ultra#",
-      "source": "酷安热榜",
-      "brand": "OPPO",
-      "model": "OPPO 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-06-10",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72259728",
-      "image": "",
-      "summary": "感觉实在不行o请周润发来代言吧，刚刚好周润发也是哈苏佬，最近他还上手了x9u摄影师套装版[受虐滑稽] #ColorOS16# #OPPOFindX9Pro# #OPPOFindX9Ultra#",
-      "tags": [
-        "OPPO",
         "爆料",
         "NewsNow"
       ]
