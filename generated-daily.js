@@ -1,13 +1,13 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-06-10T16:07:59.096Z",
+  "updatedAt": "2026-06-10T18:42:10.254Z",
   "issueDate": "2026-06-10",
   "issue": "VOL.260610",
   "title": "手机情报日报",
-  "intro": "今日筛出 24 条重点，其中 7 条是重点爆料，包含 6 条 iPhone 相关、0 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 24 条重点，其中 8 条是重点爆料，包含 7 条 iPhone 相关、0 条官方确认、0 条参数线索。",
   "stats": {
     "total": 24,
-    "iphone": 6,
-    "leaks": 7,
+    "iphone": 7,
+    "leaks": 8,
     "official": 0,
     "specs": 0
   },
@@ -17,6 +17,31 @@ window.phoneRadarDaily = {
       "title": "重点爆料",
       "hint": "机模、配色、影像、屏幕、电池和芯片线索先看。",
       "items": [
+        {
+          "id": "auto-51b93be57422",
+          "title": "苹果 iPhone 18 标准版有望升级 12GB 内存，但代价是退回 M12+ 屏幕面板",
+          "originalTitle": "",
+          "source": "IT之家",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-06-10",
+          "time": "16:42",
+          "publishedAt": "2026-06-10T16:42:26.000Z",
+          "url": "https://www.ithome.com/0/962/691.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/6/0ff5b524-8366-4722-8d47-cd950afc59b3.png?x-bce-process=image/format,f_auto",
+          "verdict": "先看",
+          "takeaway": "IT之家 6 月 11 日消息，据科技媒体 Wccftech 今晚报道及行业分析师 Schrödinger 的消息，苹果在下一代 iPhone 18 标准版中面临产品策略权衡难题。 Schrödinger 表示，为应对 DRAM 涨价带来的供应链成本压力，苹果正考虑在对 iPhone 18 Pro Max 进行涨价，而对于价格更敏感的 iPhone 18…",
+          "detail": "IT之家 6 月 11 日消息，据科技媒体 Wccftech 今晚报道及行业分析师 Schrödinger 的消息，苹果在下一代 iPhone 18 标准版中面临产品策略权衡难题。 Schrödinger 表示，为应对 DRAM 涨价带来的供应链成本压力，苹果正考虑在对 iPhone 18 Pro Max 进行涨价，而对于价格更敏感的 iPhone 18…",
+          "keyPoints": [
+            "屏幕形态",
+            "成本 / 价格",
+            "爆料来源"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
         {
           "id": "coolapk-user-c7ed6d935e1b",
           "title": "JSCHEN小小狐：『影石 Luna Ultra 官宣今晚 19:30 正式发布』 「破局，新生」 影石 Luna Ultra 8K…",
@@ -362,6 +387,29 @@ window.phoneRadarDaily = {
           "action": "有具体参数就记录到参数库；没有参数就先收藏。"
         },
         {
+          "id": "auto-6c85ff71b78c",
+          "title": "Samsung 发布 / 上市相关消息",
+          "originalTitle": "",
+          "source": "SamMobile",
+          "brand": "Samsung",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-06-10",
+          "time": "08:14",
+          "publishedAt": "2026-06-10T08:14:12.000Z",
+          "url": "https://www.sammobile.com/news/samsung-preparing-galaxy-z-flip-8-usa-launch/",
+          "image": "https://www.sammobile.com/wp-content/uploads/2026/06/Samsung-Galaxy-Z-Flip-8-FCC-Certification-01.jpg",
+          "verdict": "可略过",
+          "takeaway": "Samsung 有发布或新功能消息，适合确认是否和新机有关。",
+          "detail": "Samsung 发布 / 上市相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
+          "keyPoints": [
+            "屏幕形态"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "影响手感和显示体验，适合和其他机型对比。",
+          "action": "有具体参数就记录到参数库；没有参数就先收藏。"
+        },
+        {
           "id": "auto-c42496d17280",
           "title": "Samsung 相关消息",
           "originalTitle": "",
@@ -437,29 +485,6 @@ window.phoneRadarDaily = {
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是实际体验内容，买前适合重点看缺点和取舍。",
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
-        {
-          "id": "auto-cc8f73a8082b",
-          "title": "Xiaomi 相关消息",
-          "originalTitle": "",
-          "source": "Android Central",
-          "brand": "Xiaomi",
-          "type": "评测",
-          "trust": "媒体汇总",
-          "date": "2026-06-09",
-          "time": "09:04",
-          "publishedAt": "2026-06-09T09:04:48.000Z",
-          "url": "https://www.androidcentral.com/phones/oneplus/oneplus-looks-ready-to-dive-deeper-into-the-budget-phone-battle",
-          "image": "https://cdn.mos.cms.futurecdn.net/PQh4PNuqFSwxaPn3h7nGvk-1280-80.jpg",
-          "verdict": "可略过",
-          "takeaway": "Xiaomi 相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
-          "detail": "Xiaomi 相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
-          "keyPoints": [
-            "成本 / 价格"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是实际体验内容，买前适合重点看缺点和取舍。",
-          "action": "有具体参数就记录到参数库；没有参数就先收藏。"
         }
       ]
     },
@@ -559,29 +584,6 @@ window.phoneRadarDaily = {
           "confidence": "可信度较高，但仍属于发布前线索。",
           "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
-        {
-          "id": "auto-b83bd8d7b7fc",
-          "title": "Galaxy S26 Ultra 影像能力相关消息",
-          "originalTitle": "",
-          "source": "SamMobile",
-          "brand": "Samsung",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-06-10",
-          "time": "13:35",
-          "publishedAt": "2026-06-10T13:35:39.000Z",
-          "url": "https://www.sammobile.com/news/samsung-galaxy-s26-ultra-200mp-camera-24mp-mode-explained/",
-          "image": "https://www.sammobile.com/wp-content/uploads/2026/06/Camera-Assistant-24MP-mode.jpg",
-          "verdict": "可略过",
-          "takeaway": "Samsung 有系统功能或 AI 体验更新，适合关注后续是否影响日常使用。",
-          "detail": "Galaxy S26 Ultra 影像能力相关消息。重点看影像功能是否和新机硬件有关，如果只是拍摄案例或营销内容，参考价值会低一些。",
-          "keyPoints": [
-            "影像硬件"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "影响拍照体验，买旗舰机时值得关注。",
-          "action": "有具体参数就记录到参数库；没有参数就先收藏。"
         },
         {
           "id": "auto-2db912e8b5f0",

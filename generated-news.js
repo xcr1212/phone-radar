@@ -1,6 +1,26 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-06-10T16:07:59.096Z",
+  "updatedAt": "2026-06-10T18:42:10.254Z",
   "news": [
+    {
+      "id": "auto-51b93be57422",
+      "title": "苹果 iPhone 18 标准版有望升级 12GB 内存，但代价是退回 M12+ 屏幕面板",
+      "source": "IT之家",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-10",
+      "time": "16:42",
+      "publishedAt": "2026-06-10T16:42:26.000Z",
+      "url": "https://www.ithome.com/0/962/691.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/6/0ff5b524-8366-4722-8d47-cd950afc59b3.png?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 6 月 11 日消息，据科技媒体 Wccftech 今晚报道及行业分析师 Schrödinger 的消息，苹果在下一代 iPhone 18 标准版中面临产品策略权衡难题。 Schrödinger 表示，为应对 DRAM 涨价带来的供应链成本压力，苹果正考虑在对 iPhone 18 Pro Max 进行涨价，而对于价格更敏感的 iPhone 18…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-63fbc78803db",
       "title": "Why your iOS and Android eSIM transfers always failed — and how to do it right every time",
@@ -38,26 +58,6 @@ window.phoneRadarAuto = {
       "tags": [
         "Samsung",
         "评测",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-b83bd8d7b7fc",
-      "title": "Samsung Galaxy S26 Ultra 200 MP camera’s 24MP mode explained",
-      "source": "SamMobile",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-10",
-      "time": "13:35",
-      "publishedAt": "2026-06-10T13:35:39.000Z",
-      "url": "https://www.sammobile.com/news/samsung-galaxy-s26-ultra-200mp-camera-24mp-mode-explained/",
-      "image": "https://www.sammobile.com/wp-content/uploads/2026/06/Camera-Assistant-24MP-mode.jpg",
-      "summary": "The Samsung Galaxy S26 Ultra’s wide camera shoots at 12MP by default, but there is a higher-resolution option that sits between that and the full 200MP mode: a 24MP shooting mode…",
-      "tags": [
-        "Samsung",
-        "爆料",
         "自动抓取"
       ]
     },
@@ -218,6 +218,26 @@ window.phoneRadarAuto = {
       "tags": [
         "Pixel",
         "评测",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-6c85ff71b78c",
+      "title": "Samsung preparing for Galaxy Z Flip 8 USA launch",
+      "source": "SamMobile",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-10",
+      "time": "08:14",
+      "publishedAt": "2026-06-10T08:14:12.000Z",
+      "url": "https://www.sammobile.com/news/samsung-preparing-galaxy-z-flip-8-usa-launch/",
+      "image": "https://www.sammobile.com/wp-content/uploads/2026/06/Samsung-Galaxy-Z-Flip-8-FCC-Certification-01.jpg",
+      "summary": "According to multiple reports, Samsung will debut its next lineup of smartphones with foldable displays, which is expected to offer three devices, Galaxy Z Fold 8 (Wide), Galaxy Z…",
+      "tags": [
+        "Samsung",
+        "爆料",
         "自动抓取"
       ]
     },
@@ -457,46 +477,6 @@ window.phoneRadarAuto = {
       "summary": "感觉实在不行o请周润发来代言吧，刚刚好周润发也是哈苏佬，最近他还上手了x9u摄影师套装版[受虐滑稽] #ColorOS16# #OPPOFindX9Pro# #OPPOFindX9Ultra#",
       "tags": [
         "OPPO",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-343797a5d260",
-      "title": "公布个人手机号的原市委书记主动投案",
-      "source": "今日头条热榜",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-10",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.toutiao.com/trending/7649064838828900361/",
-      "image": "",
-      "summary": "公布个人手机号的原市委书记主动投案",
-      "tags": [
-        "行业",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-13a35d48622b",
-      "title": "阿富汗禁止公务人员使用智能手机",
-      "source": "今日头条热榜",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-10",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.toutiao.com/trending/7649341485579124745/",
-      "image": "",
-      "summary": "阿富汗禁止公务人员使用智能手机",
-      "tags": [
-        "行业",
         "爆料",
         "NewsNow"
       ]
