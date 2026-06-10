@@ -1,13 +1,13 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-06-10T10:32:26.293Z",
+  "updatedAt": "2026-06-10T16:07:59.096Z",
   "issueDate": "2026-06-10",
   "issue": "VOL.260610",
   "title": "手机情报日报",
-  "intro": "今日筛出 22 条重点，其中 8 条是重点爆料，包含 5 条 iPhone 相关、0 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 24 条重点，其中 7 条是重点爆料，包含 6 条 iPhone 相关、0 条官方确认、0 条参数线索。",
   "stats": {
-    "total": 22,
-    "iphone": 5,
-    "leaks": 8,
+    "total": 24,
+    "iphone": 6,
+    "leaks": 7,
     "official": 0,
     "specs": 0
   },
@@ -41,29 +41,6 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
-          "id": "auto-ff9ed310fff6",
-          "title": "iPhone 相关消息",
-          "originalTitle": "",
-          "source": "MacRumors",
-          "brand": "iPhone",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-06-09",
-          "time": "16:00",
-          "publishedAt": "2026-06-09T16:00:00.000Z",
-          "url": "https://www.macrumors.com/2026/06/09/nomad-stellar-orange-charger/",
-          "image": "https://images.macrumors.com/article-new/2026/06/nomad-orange-charger.jpg",
-          "verdict": "先看",
-          "takeaway": "iPhone 相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
-          "detail": "iPhone 相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
-          "keyPoints": [
-            "外观 / 配色 / 尺寸"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
           "id": "auto-efe99438bc6a",
           "title": "iPhone 18 Pro 芯片 / 性能相关消息",
           "originalTitle": "",
@@ -88,64 +65,18 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
-          "id": "auto-746ea6d758d5",
-          "title": "Counterpoint：2026 年 Q1 智能手机芯片出货下滑 8%，联发科 32% 稳居榜首、高通 23%、苹果 19%、紫光展锐 14%",
-          "originalTitle": "",
-          "source": "IT之家",
-          "brand": "Samsung",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-06-10",
-          "time": "10:27",
-          "publishedAt": "2026-06-10T10:27:48.000Z",
-          "url": "https://www.ithome.com/0/962/610.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/6/124b4f4e-a64f-4b2a-8698-7a1f74997170.png?x-bce-process=image/format,f_auto",
-          "verdict": "先看",
-          "takeaway": "IT之家 6 月 10 日消息，市场研究机构 Counterpoint 本周一公布了 2026 年第一季度全球智能手机 AP-SoC 市场份额数据报告。 数据显示，联发科今年第一季度以 32% 的份额位居榜首，高通以 23% 位列第二，苹果以 19% 排在第三，紫光展锐以 14% 占据第四，三星以 7% 排在第五，海思以 4% 位列第六。 从整体市场来看，…",
-          "detail": "IT之家 6 月 10 日消息，市场研究机构 Counterpoint 本周一公布了 2026 年第一季度全球智能手机 AP-SoC 市场份额数据报告。 数据显示，联发科今年第一季度以 32% 的份额位居榜首，高通以 23% 位列第二，苹果以 19% 排在第三，紫光展锐以 14% 占据第四，三星以 7% 排在第五，海思以 4% 位列第六。 从整体市场来看，…",
-          "keyPoints": [
-            "芯片 / 性能"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "auto-62dea7cb4fd6",
-          "title": "突破 500 万大关：消息称小米 17 系列手机销量截至 5 月底约 508 万台",
-          "originalTitle": "",
-          "source": "IT之家",
-          "brand": "Xiaomi",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-06-10",
-          "time": "09:28",
-          "publishedAt": "2026-06-10T09:28:03.000Z",
-          "url": "https://www.ithome.com/0/962/537.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/6/9f6d2bb9-980c-4c3d-8cee-4e4ab4b6219e.jpg?x-bce-process=image/format,f_auto",
-          "verdict": "先看",
-          "takeaway": "IT之家 6 月 10 日消息，长期关注国内手机市场份额的博主 @RD观测 今日分享了小米旗舰手机销量情况：截至 2026 W22（IT之家注：5 月 25 日-5 月 31 日）， 小米 17 系列约 508 万，突破 500 万大关 。 小米 17 系列约 508 万 小米 17 Max 约 5.33 万 小米 17 Ultra 约 21.96 万 博…",
-          "detail": "IT之家 6 月 10 日消息，长期关注国内手机市场份额的博主 @RD观测 今日分享了小米旗舰手机销量情况：截至 2026 W22（IT之家注：5 月 25 日-5 月 31 日）， 小米 17 系列约 508 万，突破 500 万大关 。 小米 17 系列约 508 万 小米 17 Max 约 5.33 万 小米 17 Ultra 约 21.96 万 博…",
-          "keyPoints": [
-            "爆料来源"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "auto-884f51cf8fd2",
+          "id": "auto-9655e013b0fb",
           "title": "Samsung 折叠屏相关消息",
           "originalTitle": "",
-          "source": "SamMobile",
+          "source": "Android Central",
           "brand": "Samsung",
-          "type": "爆料",
+          "type": "评测",
           "trust": "媒体汇总",
           "date": "2026-06-10",
-          "time": "09:02",
-          "publishedAt": "2026-06-10T09:02:20.000Z",
-          "url": "https://www.sammobile.com/news/galaxy-z-fold-8-ultra-real-life-images-wallpapers-leak/",
-          "image": "https://www.sammobile.com/wp-content/uploads/2026/06/Samsung-Galaxy-Z-Fold-8-Cover-Display-Wallpaper-01.jpeg",
+          "time": "15:10",
+          "publishedAt": "2026-06-10T15:10:42.000Z",
+          "url": "https://www.androidcentral.com/phones/samsung-galaxy/samsung-galaxy-z-fold-8-ultra-vs-galaxy-z-fold-8",
+          "image": "https://cdn.mos.cms.futurecdn.net/5naTkQoLMYoejCq4GVAp3-1280-80.jpg",
           "verdict": "先看",
           "takeaway": "Samsung 折叠屏相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
           "detail": "Samsung 折叠屏相关消息。重点看折痕、铰链、厚度、屏幕可靠性和重量是否有实质改善。",
@@ -154,6 +85,32 @@ window.phoneRadarDaily = {
             "爆料来源"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "auto-e7c02319bc3e",
+          "title": "vivo 影像能力相关消息",
+          "originalTitle": "",
+          "source": "Gizmochina",
+          "brand": "vivo",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-06-10",
+          "time": "10:45",
+          "publishedAt": "2026-06-10T10:45:46.000Z",
+          "url": "https://www.gizmochina.com/2026/06/10/vivo-x500-specs-leak-dimensity-9500-7500mah-battery/",
+          "image": "https://www.gizmochina.com/wp-content/uploads/2026/05/image-139-300x207.png?x10805",
+          "verdict": "先看",
+          "takeaway": "vivo 有系统功能或 AI 体验更新，适合关注后续是否影响日常使用。",
+          "detail": "vivo 影像能力相关消息。重点看影像功能是否和新机硬件有关，如果只是拍摄案例或营销内容，参考价值会低一些。",
+          "keyPoints": [
+            "影像硬件",
+            "屏幕形态",
+            "电池 / 充电",
+            "芯片 / 性能"
+          ],
+          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
@@ -197,6 +154,31 @@ window.phoneRadarDaily = {
           "takeaway": "OPPO 有发布或新功能消息，适合确认是否和新机有关。",
           "detail": "OPPO 发布 / 上市相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
           "keyPoints": [
+            "爆料来源"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "auto-b3e150794172",
+          "title": "Huawei 相关消息",
+          "originalTitle": "",
+          "source": "Gizmochina",
+          "brand": "Huawei",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-06-09",
+          "time": "00:04",
+          "publishedAt": "2026-06-09T00:04:00.000Z",
+          "url": "https://www.gizmochina.com/2026/06/09/xiaomi-hyperos-leak-reveals-a-widescreen-foldable/",
+          "image": "https://www.gizmochina.com/wp-content/uploads/2026/04/Huawei-Pura-X-Max-2-300x175.png?x10805",
+          "verdict": "先看",
+          "takeaway": "Huawei 相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
+          "detail": "Huawei 相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
+          "keyPoints": [
+            "外观 / 配色 / 尺寸",
+            "屏幕形态",
             "爆料来源"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
@@ -255,6 +237,52 @@ window.phoneRadarDaily = {
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        },
+        {
+          "id": "auto-63fbc78803db",
+          "title": "iPhone 系统功能 / AI 体验相关消息",
+          "originalTitle": "",
+          "source": "Android Central",
+          "brand": "iPhone",
+          "type": "评测",
+          "trust": "媒体汇总",
+          "date": "2026-06-10",
+          "time": "15:25",
+          "publishedAt": "2026-06-10T15:25:05.000Z",
+          "url": "https://www.androidcentral.com/phones/carriers/guide-to-ios-android-esim-transfers-switching",
+          "image": "https://cdn.mos.cms.futurecdn.net/jZojSRR2gt4GaUjURMqMqX-1280-80.jpg",
+          "verdict": "扫一眼",
+          "takeaway": "iPhone 有系统功能或 AI 体验更新，适合关注后续是否影响日常使用。",
+          "detail": "iPhone 系统功能 / AI 体验相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
+          "keyPoints": [
+            "评测"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是实际体验内容，买前适合重点看缺点和取舍。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        },
+        {
+          "id": "auto-6db1f85832cf",
+          "title": "iPhone 相关消息",
+          "originalTitle": "",
+          "source": "9to5Mac",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-06-09",
+          "time": "23:24",
+          "publishedAt": "2026-06-09T23:24:21.000Z",
+          "url": "https://9to5mac.com/2026/06/09/report-iphone-production-grew-20-in-q1-countering-global-smartphone-dip/",
+          "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/iphone-17-pro-silver-front-back.jpg?quality=82&strip=all&w=1600",
+          "verdict": "扫一眼",
+          "takeaway": "iPhone 相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
+          "detail": "iPhone 相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
+          "keyPoints": [
+            "成本 / 价格"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         }
       ]
     },
@@ -263,6 +291,29 @@ window.phoneRadarDaily = {
       "title": "新机与官方发布",
       "hint": "能直接更新到参数库。",
       "items": [
+        {
+          "id": "auto-6b1c2aecc4df",
+          "title": "真我 realme P4R 5G 手机海外发布：天玑 6300，售 18999 卢比起",
+          "originalTitle": "",
+          "source": "IT之家",
+          "brand": "行业",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-06-10",
+          "time": "11:13",
+          "publishedAt": "2026-06-10T11:13:07.000Z",
+          "url": "https://www.ithome.com/0/962/621.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/6/5efceab0-0134-4768-8c4e-15fa0b367784.jpg?x-bce-process=image/format,f_auto",
+          "verdict": "扫一眼",
+          "takeaway": "IT之家 6 月 10 日消息，真我 realme 今日在海外发布了 realme P4R 5G 手机， 售价 18999 卢比起 ： 4GB+128GB：售价 18999 卢比（现汇率约合 1347 元人民币） 6GB+128GB：售价 20999 卢比（现汇率约合 1489 元人民币） 6GB+256GB：售价 22999 卢比（现汇率约合 1631…",
+          "detail": "IT之家 6 月 10 日消息，真我 realme 今日在海外发布了 realme P4R 5G 手机， 售价 18999 卢比起 ： 4GB+128GB：售价 18999 卢比（现汇率约合 1347 元人民币） 6GB+128GB：售价 20999 卢比（现汇率约合 1489 元人民币） 6GB+256GB：售价 22999 卢比（现汇率约合 1631…",
+          "keyPoints": [
+            "成本 / 价格"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "中文源可以直接点开快读；看完只保留和购机有关的点。"
+        },
         {
           "id": "coolapk-user-9baa92f113a7",
           "title": "竹本青：【一加 Turbo 6X系列 正式发布：标准版1499元起、Pro版1699元起】 一加 Turbo 6X 8GB…",
@@ -308,29 +359,6 @@ window.phoneRadarDaily = {
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "影响日常体验，尤其是游戏、拍照和长时间使用。",
-          "action": "有具体参数就记录到参数库；没有参数就先收藏。"
-        },
-        {
-          "id": "auto-6c85ff71b78c",
-          "title": "Samsung 发布 / 上市相关消息",
-          "originalTitle": "",
-          "source": "SamMobile",
-          "brand": "Samsung",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-06-10",
-          "time": "08:14",
-          "publishedAt": "2026-06-10T08:14:12.000Z",
-          "url": "https://www.sammobile.com/news/samsung-preparing-galaxy-z-flip-8-usa-launch/",
-          "image": "https://www.sammobile.com/wp-content/uploads/2026/06/Samsung-Galaxy-Z-Flip-8-FCC-Certification-01.jpg",
-          "verdict": "可略过",
-          "takeaway": "Samsung 有发布或新功能消息，适合确认是否和新机有关。",
-          "detail": "Samsung 发布 / 上市相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
-          "keyPoints": [
-            "屏幕形态"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "影响手感和显示体验，适合和其他机型对比。",
           "action": "有具体参数就记录到参数库；没有参数就先收藏。"
         },
         {
@@ -487,23 +515,23 @@ window.phoneRadarDaily = {
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         },
         {
-          "id": "newsnow-cb6f4ad3cec0",
-          "title": "曝华为Mate 80系列总销量已近650万台",
+          "id": "newsnow-f00c49af87b3",
+          "title": "感觉实在不行o请周润发来代言吧，刚刚好周润发也是哈苏佬，最近他还上手了x9u摄影师套装版[受虐滑稽] #ColorOS16# #OPPOFindX9Pro# #OPPOFindX9Ultra#",
           "originalTitle": "",
           "source": "酷安热榜",
-          "brand": "Huawei",
+          "brand": "OPPO",
           "type": "爆料",
           "trust": "高关注爆料源",
           "date": "2026-06-10",
           "time": "",
           "publishedAt": "",
-          "url": "https://www.coolapk.com/feed/72246476",
+          "url": "https://www.coolapk.com/feed/72259728",
           "image": "",
           "verdict": "扫一眼",
-          "takeaway": "曝华为Mate 80系列总销量已近650万台",
-          "detail": "曝华为Mate 80系列总销量已近650万台",
+          "takeaway": "感觉实在不行o请周润发来代言吧，刚刚好周润发也是哈苏佬，最近他还上手了x9u摄影师套装版[受虐滑稽] #ColorOS16# #OPPOFindX9Pro# #OPPOFindX9Ultra#",
+          "detail": "感觉实在不行o请周润发来代言吧，刚刚好周润发也是哈苏佬，最近他还上手了x9u摄影师套装版[受虐滑稽] #ColorOS16# #OPPOFindX9Pro# #OPPOFindX9Ultra#",
           "keyPoints": [
-            "爆料"
+            "外观 / 配色 / 尺寸"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
@@ -533,27 +561,50 @@ window.phoneRadarDaily = {
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         },
         {
-          "id": "auto-5cec40f7fba9",
-          "title": "Galaxy S26 Ultra 屏幕规格相关消息",
+          "id": "auto-b83bd8d7b7fc",
+          "title": "Galaxy S26 Ultra 影像能力相关消息",
           "originalTitle": "",
           "source": "SamMobile",
           "brand": "Samsung",
           "type": "爆料",
           "trust": "媒体汇总",
-          "date": "2026-06-09",
-          "time": "19:31",
-          "publishedAt": "2026-06-09T19:31:56.000Z",
-          "url": "https://www.sammobile.com/opinion/galaxy-s26-ultra-privacy-display-realized-i-am-snooper-too/",
-          "image": "",
+          "date": "2026-06-10",
+          "time": "13:35",
+          "publishedAt": "2026-06-10T13:35:39.000Z",
+          "url": "https://www.sammobile.com/news/samsung-galaxy-s26-ultra-200mp-camera-24mp-mode-explained/",
+          "image": "https://www.sammobile.com/wp-content/uploads/2026/06/Camera-Assistant-24MP-mode.jpg",
           "verdict": "可略过",
-          "takeaway": "Galaxy S26 Ultra 屏幕规格相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
-          "detail": "Galaxy S26 Ultra 屏幕规格相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
+          "takeaway": "Samsung 有系统功能或 AI 体验更新，适合关注后续是否影响日常使用。",
+          "detail": "Galaxy S26 Ultra 影像能力相关消息。重点看影像功能是否和新机硬件有关，如果只是拍摄案例或营销内容，参考价值会低一些。",
           "keyPoints": [
-            "屏幕形态"
+            "影像硬件"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "影响手感和显示体验，适合和其他机型对比。",
+          "impact": "影响拍照体验，买旗舰机时值得关注。",
           "action": "有具体参数就记录到参数库；没有参数就先收藏。"
+        },
+        {
+          "id": "auto-2db912e8b5f0",
+          "title": "Galaxy S25 FE 功能更新或覆盖范围扩大",
+          "originalTitle": "",
+          "source": "SamMobile",
+          "brand": "Samsung",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-06-10",
+          "time": "11:26",
+          "publishedAt": "2026-06-10T11:26:31.000Z",
+          "url": "https://www.sammobile.com/news/new-galaxy-s25-fe-update-brings-june-2026-security-patch/",
+          "image": "",
+          "verdict": "可略过",
+          "takeaway": "Galaxy S25 FE 功能更新或覆盖范围扩大。已转成中文摘要展示，详细内容可打开原文核对。",
+          "detail": "Galaxy S25 FE 功能更新或覆盖范围扩大。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         }
       ]
     }

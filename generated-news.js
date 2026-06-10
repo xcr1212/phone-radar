@@ -1,20 +1,60 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-06-10T10:32:26.293Z",
+  "updatedAt": "2026-06-10T16:07:59.096Z",
   "news": [
     {
-      "id": "auto-746ea6d758d5",
-      "title": "Counterpoint：2026 年 Q1 智能手机芯片出货下滑 8%，联发科 32% 稳居榜首、高通 23%、苹果 19%、紫光展锐 14%",
-      "source": "IT之家",
+      "id": "auto-63fbc78803db",
+      "title": "Why your iOS and Android eSIM transfers always failed — and how to do it right every time",
+      "source": "Android Central",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-06-10",
+      "time": "15:25",
+      "publishedAt": "2026-06-10T15:25:05.000Z",
+      "url": "https://www.androidcentral.com/phones/carriers/guide-to-ios-android-esim-transfers-switching",
+      "image": "https://cdn.mos.cms.futurecdn.net/jZojSRR2gt4GaUjURMqMqX-1280-80.jpg",
+      "summary": "You don't have to struggle with eSIM switching anymore — Android and iOS finally work together to make the process seamless. Here's how I do it.",
+      "tags": [
+        "iPhone",
+        "评测",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-9655e013b0fb",
+      "title": "Samsung Galaxy Z Fold 8 Ultra vs. Galaxy Z Fold 8 (Wide): Wide screens or flagship features?",
+      "source": "Android Central",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-06-10",
+      "time": "15:10",
+      "publishedAt": "2026-06-10T15:10:42.000Z",
+      "url": "https://www.androidcentral.com/phones/samsung-galaxy/samsung-galaxy-z-fold-8-ultra-vs-galaxy-z-fold-8",
+      "image": "https://cdn.mos.cms.futurecdn.net/5naTkQoLMYoejCq4GVAp3-1280-80.jpg",
+      "summary": "Samsung is rumored to be making a wider Galaxy Z Fold model to join the usual flagship foldable — here's what we know about them so far.",
+      "tags": [
+        "Samsung",
+        "评测",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-b83bd8d7b7fc",
+      "title": "Samsung Galaxy S26 Ultra 200 MP camera’s 24MP mode explained",
+      "source": "SamMobile",
       "brand": "Samsung",
       "model": "Samsung 相关机型",
       "type": "爆料",
       "trust": "媒体汇总",
       "date": "2026-06-10",
-      "time": "10:27",
-      "publishedAt": "2026-06-10T10:27:48.000Z",
-      "url": "https://www.ithome.com/0/962/610.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/6/124b4f4e-a64f-4b2a-8698-7a1f74997170.png?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 6 月 10 日消息，市场研究机构 Counterpoint 本周一公布了 2026 年第一季度全球智能手机 AP-SoC 市场份额数据报告。 数据显示，联发科今年第一季度以 32% 的份额位居榜首，高通以 23% 位列第二，苹果以 19% 排在第三，紫光展锐以 14% 占据第四，三星以 7% 排在第五，海思以 4% 位列第六。 从整体市场来看，…",
+      "time": "13:35",
+      "publishedAt": "2026-06-10T13:35:39.000Z",
+      "url": "https://www.sammobile.com/news/samsung-galaxy-s26-ultra-200mp-camera-24mp-mode-explained/",
+      "image": "https://www.sammobile.com/wp-content/uploads/2026/06/Camera-Assistant-24MP-mode.jpg",
+      "summary": "The Samsung Galaxy S26 Ultra’s wide camera shoots at 12MP by default, but there is a higher-resolution option that sits between that and the full 200MP mode: a 24MP shooting mode…",
       "tags": [
         "Samsung",
         "爆料",
@@ -22,21 +62,81 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-62dea7cb4fd6",
-      "title": "突破 500 万大关：消息称小米 17 系列手机销量截至 5 月底约 508 万台",
-      "source": "IT之家",
+      "id": "auto-ab6fbc1e14e5",
+      "title": "Xiaomi 17T vs OnePlus 15R Comparison: Which Phone Offers Better Value?",
+      "source": "Gizmochina",
       "brand": "Xiaomi",
       "model": "Xiaomi 相关机型",
       "type": "爆料",
       "trust": "媒体汇总",
       "date": "2026-06-10",
-      "time": "09:28",
-      "publishedAt": "2026-06-10T09:28:03.000Z",
-      "url": "https://www.ithome.com/0/962/537.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/6/9f6d2bb9-980c-4c3d-8cee-4e4ab4b6219e.jpg?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 6 月 10 日消息，长期关注国内手机市场份额的博主 @RD观测 今日分享了小米旗舰手机销量情况：截至 2026 W22（IT之家注：5 月 25 日-5 月 31 日）， 小米 17 系列约 508 万，突破 500 万大关 。 小米 17 系列约 508 万 小米 17 Max 约 5.33 万 小米 17 Ultra 约 21.96 万 博…",
+      "time": "12:38",
+      "publishedAt": "2026-06-10T12:38:03.000Z",
+      "url": "https://www.gizmochina.com/2026/06/10/xiaomi-17t-vs-oneplus-15r/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/06/image-57-300x197.png?x10805",
+      "summary": "The premium smartphone segment is becoming increasingly competitive, and the Xiaomi 17T and OnePlus 15R are two devices that prove flagship-level features no longer require flagsh…",
       "tags": [
         "Xiaomi",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-2db912e8b5f0",
+      "title": "New Galaxy S25 FE update brings June 2026 security patch",
+      "source": "SamMobile",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-10",
+      "time": "11:26",
+      "publishedAt": "2026-06-10T11:26:31.000Z",
+      "url": "https://www.sammobile.com/news/new-galaxy-s25-fe-update-brings-june-2026-security-patch/",
+      "image": "",
+      "summary": "Samsung started rolling out the June 2026 security patch with the Galaxy S26 series, and now, the brand is offering it to the Galaxy S25 FE, the fourth device to get it. The updat…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-6b1c2aecc4df",
+      "title": "真我 realme P4R 5G 手机海外发布：天玑 6300，售 18999 卢比起",
+      "source": "IT之家",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-10",
+      "time": "11:13",
+      "publishedAt": "2026-06-10T11:13:07.000Z",
+      "url": "https://www.ithome.com/0/962/621.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/6/5efceab0-0134-4768-8c4e-15fa0b367784.jpg?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 6 月 10 日消息，真我 realme 今日在海外发布了 realme P4R 5G 手机， 售价 18999 卢比起 ： 4GB+128GB：售价 18999 卢比（现汇率约合 1347 元人民币） 6GB+128GB：售价 20999 卢比（现汇率约合 1489 元人民币） 6GB+256GB：售价 22999 卢比（现汇率约合 1631…",
+      "tags": [
+        "行业",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-e7c02319bc3e",
+      "title": "Vivo X500 display, camera, chipset, and battery details leak",
+      "source": "Gizmochina",
+      "brand": "vivo",
+      "model": "vivo 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-10",
+      "time": "10:45",
+      "publishedAt": "2026-06-10T10:45:46.000Z",
+      "url": "https://www.gizmochina.com/2026/06/10/vivo-x500-specs-leak-dimensity-9500-7500mah-battery/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/05/image-139-300x207.png?x10805",
+      "summary": "The Vivo X500 series has been leaking in pieces for a while now, and the latest information from Digital Chat Station adds some specifics around the vanilla Vivo X500’s display, c…",
+      "tags": [
+        "vivo",
         "爆料",
         "自动抓取"
       ]
@@ -122,26 +222,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-6c85ff71b78c",
-      "title": "Samsung preparing for Galaxy Z Flip 8 USA launch",
-      "source": "SamMobile",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-10",
-      "time": "08:14",
-      "publishedAt": "2026-06-10T08:14:12.000Z",
-      "url": "https://www.sammobile.com/news/samsung-preparing-galaxy-z-flip-8-usa-launch/",
-      "image": "https://www.sammobile.com/wp-content/uploads/2026/06/Samsung-Galaxy-Z-Flip-8-FCC-Certification-01.jpg",
-      "summary": "According to multiple reports, Samsung will debut its next lineup of smartphones with foldable displays, which is expected to offer three devices, Galaxy Z Fold 8 (Wide), Galaxy Z…",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "coolapk-user-0088345b0bd8",
       "title": "竹本青：小米17 Pro系列背屏卡片上新：「米家摄像机」",
       "source": "竹本青",
@@ -219,26 +299,6 @@ window.phoneRadarAuto = {
         "HONOR",
         "爆料",
         "酷安博主"
-      ]
-    },
-    {
-      "id": "auto-3828fed9c993",
-      "title": "Galaxy S27 appears in its first credible listing",
-      "source": "SamMobile",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-10",
-      "time": "06:34",
-      "publishedAt": "2026-06-10T06:34:06.000Z",
-      "url": "https://www.sammobile.com/news/galaxy-s27-appears-first-credible-listing/",
-      "image": "https://www.sammobile.com/wp-content/uploads/2026/06/Samsung-Galaxy-S27-SM-S952U-GSMA-Database.jpg",
-      "summary": "We have been hearing about Samsung’s next flagship non-foldable smartphone lineup, the Galaxy S27 series, since even before the Galaxy S25 lineup came out. However, there haven't…",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
       ]
     },
     {
@@ -382,41 +442,21 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-cb6f4ad3cec0",
-      "title": "曝华为Mate 80系列总销量已近650万台",
+      "id": "newsnow-f00c49af87b3",
+      "title": "感觉实在不行o请周润发来代言吧，刚刚好周润发也是哈苏佬，最近他还上手了x9u摄影师套装版[受虐滑稽] #ColorOS16# #OPPOFindX9Pro# #OPPOFindX9Ultra#",
       "source": "酷安热榜",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-06-10",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72246476",
+      "url": "https://www.coolapk.com/feed/72259728",
       "image": "",
-      "summary": "曝华为Mate 80系列总销量已近650万台",
+      "summary": "感觉实在不行o请周润发来代言吧，刚刚好周润发也是哈苏佬，最近他还上手了x9u摄影师套装版[受虐滑稽] #ColorOS16# #OPPOFindX9Pro# #OPPOFindX9Ultra#",
       "tags": [
-        "Huawei",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-a26a1e3fe97b",
-      "title": "手机拍照不要只会用原相机",
-      "source": "微博热搜",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "待验证",
-      "date": "2026-06-10",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://s.weibo.com/weibo?q=%E6%89%8B%E6%9C%BA%E6%8B%8D%E7%85%A7%E4%B8%8D%E8%A6%81%E5%8F%AA%E4%BC%9A%E7%94%A8%E5%8E%9F%E7%9B%B8%E6%9C%BA&t=31&band_rank=18&Refer=top",
-      "image": "",
-      "summary": "手机拍照不要只会用原相机",
-      "tags": [
-        "行业",
+        "OPPO",
         "爆料",
         "NewsNow"
       ]
@@ -435,6 +475,26 @@ window.phoneRadarAuto = {
       "url": "https://www.toutiao.com/trending/7649064838828900361/",
       "image": "",
       "summary": "公布个人手机号的原市委书记主动投案",
+      "tags": [
+        "行业",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-13a35d48622b",
+      "title": "阿富汗禁止公务人员使用智能手机",
+      "source": "今日头条热榜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-10",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.toutiao.com/trending/7649341485579124745/",
+      "image": "",
+      "summary": "阿富汗禁止公务人员使用智能手机",
       "tags": [
         "行业",
         "爆料",
@@ -475,66 +535,6 @@ window.phoneRadarAuto = {
       "url": "https://9to5mac.com/2026/06/09/iphone-18-pros-new-c2-chip-will-bring-three-advantages-over-iphone-17/",
       "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/iphone-17-pro-silver-silent-action-button.jpg?quality=82&strip=all&w=1600",
       "summary": "Apple is rumored to have a next-generation C2 chip coming to iPhone 18 Pro and Pro Max, shifting away from the Qualcomm 5G modem found in iPhone 17 Pro. Here are three new advanta…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-5cec40f7fba9",
-      "title": "Galaxy S26 Ultra’s Privacy Display made me realize I’m a snooper too",
-      "source": "SamMobile",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-09",
-      "time": "19:31",
-      "publishedAt": "2026-06-09T19:31:56.000Z",
-      "url": "https://www.sammobile.com/opinion/galaxy-s26-ultra-privacy-display-realized-i-am-snooper-too/",
-      "image": "",
-      "summary": "When I got the Galaxy S26 Ultra, I did what I imagine most people do with Privacy Display: I turned it on, felt a little safer, automated it a little, and didn't think much about…",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-44484445469f",
-      "title": "Apple just showed Android makers how software updates should actually work",
-      "source": "Android Police",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-09",
-      "time": "19:00",
-      "publishedAt": "2026-06-09T19:00:12.000Z",
-      "url": "https://www.androidpolice.com/apple-just-made-a-mockery-of-the-awful-android-software-update-situation/",
-      "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2026/06/iphone-11-iphone-17-pro-max.JPG",
-      "summary": "If you want to stop stressing about software updates, buy an iPhone",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-ff9ed310fff6",
-      "title": "Nomad's New Stellar Orange Charger and Find My Card Match the iPhone 17 Pro",
-      "source": "MacRumors",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-09",
-      "time": "16:00",
-      "publishedAt": "2026-06-09T16:00:00.000Z",
-      "url": "https://www.macrumors.com/2026/06/09/nomad-stellar-orange-charger/",
-      "image": "https://images.macrumors.com/article-new/2026/06/nomad-orange-charger.jpg",
-      "summary": "Nomad today introduced two new products in its Stellar Orange colorway, expanding the number of accessories it offers in the unique shade. Stellar Orange matches the Cosmic Orange…",
       "tags": [
         "iPhone",
         "爆料",
