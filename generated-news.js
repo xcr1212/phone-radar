@@ -1,6 +1,46 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-06-11T16:20:36.621Z",
+  "updatedAt": "2026-06-11T20:35:19.940Z",
   "news": [
+    {
+      "id": "auto-c2366a3b7f92",
+      "title": "Mint Mobile gives all of its plans more data at no added cost, Pixel 10 is still $299",
+      "source": "9to5Google",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-11",
+      "time": "19:25",
+      "publishedAt": "2026-06-11T19:25:00.000Z",
+      "url": "https://9to5google.com/2026/06/11/mint-mobile-data-plan-boost-pixel-10-deal/",
+      "image": "",
+      "summary": "Mint Mobile is already well known as a budget-oriented carrier, but it’s now an even better deal as Mint is boosting all of its plans with even more data per month at no added cos…",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-9da6bb19140c",
+      "title": "Galaxy Z Fold 7 gets two more Galaxy S26 features in its latest update",
+      "source": "9to5Google",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-11",
+      "time": "17:55",
+      "publishedAt": "2026-06-11T17:55:00.000Z",
+      "url": "https://9to5google.com/2026/06/11/samsung-galaxy-z-fold-7-update-s26-features/",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2025/08/Galaxy-Z-Fold-7-screen-and-design-2.jpg?quality=82&strip=all&w=1600",
+      "summary": "The Galaxy Z Fold 7 may be last year’s foldable flagship, but it’s still getting features from the Galaxy S26 series. With the latest update for Galaxy Z Fold 7, two new features…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-91f55b8635b6",
       "title": "The Samsung Galaxy S26 Plus is so underrated that T-Mobile is now giving them away for free",
@@ -182,26 +222,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-c99323af8039",
-      "title": "iFixit 拆解证实特朗普 T1 手机是 HTC U24 Pro 换壳，仅电池等细节微调",
-      "source": "IT之家",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-11",
-      "time": "11:21",
-      "publishedAt": "2026-06-11T11:21:49.000Z",
-      "url": "https://www.ithome.com/0/963/161.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/6/8d2ce15d-1d60-4b11-8e0e-0eb96a403fc3.png?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 6 月 11 日消息，发布近一年后，特朗普 T1 手机终于“上市”。但目前只有极少数记者和 YouTube 博主拿到了样机，几乎没有任何证据表明普通消费者也收到了这款手机。 今日，知名拆解机构 iFixit 与 NBC 合作，拿到了一款特朗普 T1 媒体样机并进行拆解，最终证实该手机本质上就是 2024 年发布的 HTC U24 Pro（原机型由…",
-      "tags": [
-        "行业",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-9ed03b96c87e",
       "title": "Apple working with British police to tackle iPhone theft",
       "source": "9to5Mac",
@@ -262,26 +282,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "weibo-1c789d716cf2",
-      "title": "数码闲聊站：尬聊一下，这两种影像方案你们喜欢哪个？[并不简单] A，200Mp 1/1.1…",
-      "source": "数码闲聊站",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-06-11",
-      "time": "09:08",
-      "publishedAt": "2026-06-11T09:08:00.000Z",
-      "url": "https://weibo.com/6048569942/R3DwUCblk",
-      "image": "",
-      "summary": "尬聊一下，这两种影像方案你们喜欢哪个？[并不简单] A，200Mp 1/1.12\"主摄 200Mp 1/1.3\"长焦 B，200Mp 1/1.3\"主摄 200Mp 1/1.12\"长焦",
-      "tags": [
-        "行业",
-        "爆料",
-        "微博"
-      ]
-    },
-    {
       "id": "auto-328146bbe125",
       "title": "As a Samsung foldable fan, these are the 5 mistakes I hope the Galaxy Z Fold 8 doesn’t repeat",
       "source": "Android Authority",
@@ -319,26 +319,6 @@ window.phoneRadarAuto = {
         "Huawei",
         "爆料",
         "自动抓取"
-      ]
-    },
-    {
-      "id": "weibo-c3e0c56e5d2e",
-      "title": "数码闲聊站：咳咳，6.89\"±2K+185Hz OLED超高刷大直屏在尝试做四等边，如果搞…",
-      "source": "数码闲聊站",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-06-11",
-      "time": "07:37",
-      "publishedAt": "2026-06-11T07:37:00.000Z",
-      "url": "https://weibo.com/6048569942/R3CVYypfh",
-      "image": "",
-      "summary": "咳咳，6.89\"±2K+185Hz OLED超高刷大直屏在尝试做四等边，如果搞定的话，那就同期无敌了[二哈]",
-      "tags": [
-        "行业",
-        "爆料",
-        "微博"
       ]
     },
     {
@@ -422,21 +402,41 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-cab3042f8473",
-      "title": "[捂脸][捂脸][捂脸]高考完当天就被小米偷家了，果然是针对高考生的手机。",
+      "id": "newsnow-96dd90c4e1d8",
+      "title": "第一次用米系手机，说实话有点失望，真就参数没输过体验没赢过",
       "source": "酷安热榜",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
+      "brand": "行业",
+      "model": "智能手机市场",
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-06-11",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72263472",
+      "url": "https://www.coolapk.com/feed/72292498",
       "image": "",
-      "summary": "[捂脸][捂脸][捂脸]高考完当天就被小米偷家了，果然是针对高考生的手机。",
+      "summary": "第一次用米系手机，说实话有点失望，真就参数没输过体验没赢过",
       "tags": [
-        "Xiaomi",
+        "行业",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-19c08fabe441",
+      "title": "一台上市快两年的机器还能看到 WiFi7 的标志，感觉也是很爽的，我手头这么多新机器，也只有 Mate80promax 可以看到 WiFi7 标，你们说这种小细节算不算情绪价值。",
+      "source": "酷安热榜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-06-11",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/72286606",
+      "image": "",
+      "summary": "一台上市快两年的机器还能看到 WiFi7 的标志，感觉也是很爽的，我手头这么多新机器，也只有 Mate80promax 可以看到 WiFi7 标，你们说这种小细节算不算情绪价值。",
+      "tags": [
+        "行业",
         "爆料",
         "NewsNow"
       ]
@@ -562,46 +562,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-2db912e8b5f0",
-      "title": "New Galaxy S25 FE update brings June 2026 security patch",
-      "source": "SamMobile",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-10",
-      "time": "11:26",
-      "publishedAt": "2026-06-10T11:26:31.000Z",
-      "url": "https://www.sammobile.com/news/new-galaxy-s25-fe-update-brings-june-2026-security-patch/",
-      "image": "",
-      "summary": "Samsung started rolling out the June 2026 security patch with the Galaxy S26 series, and now, the brand is offering it to the Galaxy S25 FE, the fourth device to get it. The updat…",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "weibo-8a894090ce59",
-      "title": "数码闲聊站：突然抽查！看看你们的Live实况照片[doge] 下面是我最近用vivo S6…",
-      "source": "数码闲聊站",
-      "brand": "vivo",
-      "model": "vivo 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-06-10",
-      "time": "11:08",
-      "publishedAt": "2026-06-10T11:08:00.000Z",
-      "url": "https://weibo.com/6048569942/R3uT7DB37",
-      "image": "",
-      "summary": "突然抽查！看看你们的Live实况照片[doge] 下面是我最近用vivo S60随手拍的4K Live，确实帧帧都清晰，而且可以套各种影调风格",
-      "tags": [
-        "vivo",
-        "爆料",
-        "微博"
-      ]
-    },
-    {
       "id": "auto-e7c02319bc3e",
       "title": "Vivo X500 display, camera, chipset, and battery details leak",
       "source": "Gizmochina",
@@ -702,23 +662,23 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "weibo-f57b7e995d2f",
-      "title": "数码闲聊站：独家信息：200Mp潜望长焦已大批量采购，盲猜后续会在多个产品线批量应用，影像…",
-      "source": "数码闲聊站",
-      "brand": "行业",
-      "model": "智能手机市场",
+      "id": "coolapk-user-4985e4201394",
+      "title": "JSCHEN小小狐：『一加 Turbo 6X 系列发布：首销 1499 元起』 一加 Turbo 6X： 8GB + 128GB ——…",
+      "source": "JSCHEN小小狐",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
       "type": "爆料",
-      "trust": "高关注爆料源",
+      "trust": "高可信爆料",
       "date": "2026-06-10",
-      "time": "05:33",
-      "publishedAt": "2026-06-10T05:33:00.000Z",
-      "url": "https://weibo.com/6048569942/R3sH9iG32",
-      "image": "",
-      "summary": "独家信息，200Mp潜望长焦已大批量采购，盲猜后续会在多个产品线批量应用，影像发力中……[污]",
+      "time": "06:59",
+      "publishedAt": "2026-06-10T06:59:19.000Z",
+      "url": "https://www.coolapk.com/feed/72266624",
+      "image": "http://image.coolapk.com/feed/2026/0610/15/4702274_570dd0d7_5222_216_516@1895x4376.jpg",
+      "summary": "『一加 Turbo 6X 系列发布：首销 1499 元起』 一加 Turbo 6X： 8GB + 128GB —— 1499 元（原价 1699） 8GB + 256GB —— 1699 元（原价 1999） 12GB + 256GB —— 1999 元（原价 2299） 一加 Turbo 6X Pro： 8GB + 128GB —— 1699 元（原价…",
       "tags": [
-        "行业",
+        "OPPO",
         "爆料",
-        "微博"
+        "酷安博主"
       ]
     },
     {

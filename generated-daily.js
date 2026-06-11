@@ -1,15 +1,15 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-06-11T16:20:36.621Z",
+  "updatedAt": "2026-06-11T20:35:19.940Z",
   "issueDate": "2026-06-11",
   "issue": "VOL.260611",
   "title": "手机情报日报",
-  "intro": "今日筛出 21 条重点，其中 8 条是重点爆料，包含 5 条 iPhone 相关、0 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 23 条重点，其中 6 条是重点爆料，包含 5 条 iPhone 相关、0 条官方确认、1 条参数线索。",
   "stats": {
-    "total": 21,
+    "total": 23,
     "iphone": 5,
-    "leaks": 8,
+    "leaks": 6,
     "official": 0,
-    "specs": 0
+    "specs": 1
   },
   "sections": [
     {
@@ -88,100 +88,6 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
-          "id": "auto-c99323af8039",
-          "title": "iFixit 拆解证实特朗普 T1 手机是 HTC U24 Pro 换壳，仅电池等细节微调",
-          "originalTitle": "",
-          "source": "IT之家",
-          "brand": "行业",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-06-11",
-          "time": "11:21",
-          "publishedAt": "2026-06-11T11:21:49.000Z",
-          "url": "https://www.ithome.com/0/963/161.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/6/8d2ce15d-1d60-4b11-8e0e-0eb96a403fc3.png?x-bce-process=image/format,f_auto",
-          "verdict": "先看",
-          "takeaway": "IT之家 6 月 11 日消息，发布近一年后，特朗普 T1 手机终于“上市”。但目前只有极少数记者和 YouTube 博主拿到了样机，几乎没有任何证据表明普通消费者也收到了这款手机。 今日，知名拆解机构 iFixit 与 NBC 合作，拿到了一款特朗普 T1 媒体样机并进行拆解，最终证实该手机本质上就是 2024 年发布的 HTC U24 Pro（原机型由…",
-          "detail": "IT之家 6 月 11 日消息，发布近一年后，特朗普 T1 手机终于“上市”。但目前只有极少数记者和 YouTube 博主拿到了样机，几乎没有任何证据表明普通消费者也收到了这款手机。 今日，知名拆解机构 iFixit 与 NBC 合作，拿到了一款特朗普 T1 媒体样机并进行拆解，最终证实该手机本质上就是 2024 年发布的 HTC U24 Pro（原机型由…",
-          "keyPoints": [
-            "电池 / 充电"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "weibo-1c789d716cf2",
-          "title": "数码闲聊站：尬聊一下，这两种影像方案你们喜欢哪个？[并不简单] A，200Mp 1/1.1…",
-          "originalTitle": "",
-          "source": "数码闲聊站",
-          "brand": "行业",
-          "type": "爆料",
-          "trust": "高关注爆料源",
-          "date": "2026-06-11",
-          "time": "09:08",
-          "publishedAt": "2026-06-11T09:08:00.000Z",
-          "url": "https://weibo.com/6048569942/R3DwUCblk",
-          "image": "",
-          "verdict": "先看",
-          "takeaway": "尬聊一下，这两种影像方案你们喜欢哪个？[并不简单] A，200Mp 1/1.12\"主摄 200Mp 1/1.3\"长焦 B，200Mp 1/1.3\"主摄 200Mp 1/1.12\"长焦",
-          "detail": "尬聊一下，这两种影像方案你们喜欢哪个？[并不简单] A，200Mp 1/1.12\"主摄 200Mp 1/1.3\"长焦 B，200Mp 1/1.3\"主摄 200Mp 1/1.12\"长焦",
-          "keyPoints": [
-            "影像硬件",
-            "爆料来源"
-          ],
-          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "weibo-8a894090ce59",
-          "title": "数码闲聊站：突然抽查！看看你们的Live实况照片[doge] 下面是我最近用vivo S6…",
-          "originalTitle": "",
-          "source": "数码闲聊站",
-          "brand": "vivo",
-          "type": "爆料",
-          "trust": "高关注爆料源",
-          "date": "2026-06-10",
-          "time": "11:08",
-          "publishedAt": "2026-06-10T11:08:00.000Z",
-          "url": "https://weibo.com/6048569942/R3uT7DB37",
-          "image": "",
-          "verdict": "先看",
-          "takeaway": "突然抽查！看看你们的Live实况照片[doge] 下面是我最近用vivo S60随手拍的4K Live，确实帧帧都清晰，而且可以套各种影调风格",
-          "detail": "突然抽查！看看你们的Live实况照片[doge] 下面是我最近用vivo S60随手拍的4K Live，确实帧帧都清晰，而且可以套各种影调风格",
-          "keyPoints": [
-            "爆料来源"
-          ],
-          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "weibo-f57b7e995d2f",
-          "title": "数码闲聊站：独家信息：200Mp潜望长焦已大批量采购，盲猜后续会在多个产品线批量应用，影像…",
-          "originalTitle": "",
-          "source": "数码闲聊站",
-          "brand": "行业",
-          "type": "爆料",
-          "trust": "高关注爆料源",
-          "date": "2026-06-10",
-          "time": "05:33",
-          "publishedAt": "2026-06-10T05:33:00.000Z",
-          "url": "https://weibo.com/6048569942/R3sH9iG32",
-          "image": "",
-          "verdict": "先看",
-          "takeaway": "独家信息，200Mp潜望长焦已大批量采购，盲猜后续会在多个产品线批量应用，影像发力中……[污]",
-          "detail": "独家信息，200Mp潜望长焦已大批量采购，盲猜后续会在多个产品线批量应用，影像发力中……[污]",
-          "keyPoints": [
-            "影像硬件",
-            "爆料来源"
-          ],
-          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
           "id": "auto-38db390c6371",
           "title": "OPPO 屏幕规格相关消息",
           "originalTitle": "",
@@ -201,6 +107,56 @@ window.phoneRadarDaily = {
             "屏幕形态"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "auto-9655e013b0fb",
+          "title": "Samsung 折叠屏相关消息",
+          "originalTitle": "",
+          "source": "Android Central",
+          "brand": "Samsung",
+          "type": "评测",
+          "trust": "媒体汇总",
+          "date": "2026-06-10",
+          "time": "15:10",
+          "publishedAt": "2026-06-10T15:10:42.000Z",
+          "url": "https://www.androidcentral.com/phones/samsung-galaxy/samsung-galaxy-z-fold-8-ultra-vs-galaxy-z-fold-8",
+          "image": "https://cdn.mos.cms.futurecdn.net/5naTkQoLMYoejCq4GVAp3-1280-80.jpg",
+          "verdict": "先看",
+          "takeaway": "Samsung 折叠屏相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
+          "detail": "Samsung 折叠屏相关消息。重点看折痕、铰链、厚度、屏幕可靠性和重量是否有实质改善。",
+          "keyPoints": [
+            "屏幕形态",
+            "爆料来源"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "auto-e7c02319bc3e",
+          "title": "vivo 影像能力相关消息",
+          "originalTitle": "",
+          "source": "Gizmochina",
+          "brand": "vivo",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-06-10",
+          "time": "10:45",
+          "publishedAt": "2026-06-10T10:45:46.000Z",
+          "url": "https://www.gizmochina.com/2026/06/10/vivo-x500-specs-leak-dimensity-9500-7500mah-battery/",
+          "image": "https://www.gizmochina.com/wp-content/uploads/2026/05/image-139-300x207.png?x10805",
+          "verdict": "先看",
+          "takeaway": "vivo 有系统功能或 AI 体验更新，适合关注后续是否影响日常使用。",
+          "detail": "vivo 影像能力相关消息。重点看影像功能是否和新机硬件有关，如果只是拍摄案例或营销内容，参考价值会低一些。",
+          "keyPoints": [
+            "影像硬件",
+            "屏幕形态",
+            "电池 / 充电",
+            "芯片 / 性能"
+          ],
+          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         }
@@ -311,6 +267,52 @@ window.phoneRadarDaily = {
       "hint": "能直接更新到参数库。",
       "items": [
         {
+          "id": "coolapk-user-4985e4201394",
+          "title": "JSCHEN小小狐：『一加 Turbo 6X 系列发布：首销 1499 元起』 一加 Turbo 6X： 8GB + 128GB ——…",
+          "originalTitle": "",
+          "source": "JSCHEN小小狐",
+          "brand": "OPPO",
+          "type": "爆料",
+          "trust": "高可信爆料",
+          "date": "2026-06-10",
+          "time": "06:59",
+          "publishedAt": "2026-06-10T06:59:19.000Z",
+          "url": "https://www.coolapk.com/feed/72266624",
+          "image": "http://image.coolapk.com/feed/2026/0610/15/4702274_570dd0d7_5222_216_516@1895x4376.jpg",
+          "verdict": "扫一眼",
+          "takeaway": "『一加 Turbo 6X 系列发布：首销 1499 元起』 一加 Turbo 6X： 8GB + 128GB —— 1499 元（原价 1699） 8GB + 256GB —— 1699 元（原价 1999） 12GB + 256GB —— 1999 元（原价 2299） 一加 Turbo 6X Pro： 8GB + 128GB —— 1699 元（原价…",
+          "detail": "『一加 Turbo 6X 系列发布：首销 1499 元起』 一加 Turbo 6X： 8GB + 128GB —— 1499 元（原价 1699） 8GB + 256GB —— 1699 元（原价 1999） 12GB + 256GB —— 1999 元（原价 2299） 一加 Turbo 6X Pro： 8GB + 128GB —— 1699 元（原价…",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "可信度较高，但仍属于发布前线索。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        },
+        {
+          "id": "newsnow-19c08fabe441",
+          "title": "一台上市快两年的机器还能看到 WiFi7 的标志，感觉也是很爽的，我手头这么多新机器，也只有 Mate80promax 可以看到 WiFi7 标，你们说这种小细节算不算情绪价值。",
+          "originalTitle": "",
+          "source": "酷安热榜",
+          "brand": "行业",
+          "type": "爆料",
+          "trust": "高关注爆料源",
+          "date": "2026-06-11",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://www.coolapk.com/feed/72286606",
+          "image": "",
+          "verdict": "扫一眼",
+          "takeaway": "一台上市快两年的机器还能看到 WiFi7 的标志，感觉也是很爽的，我手头这么多新机器，也只有 Mate80promax 可以看到 WiFi7 标，你们说这种小细节算不算情绪价值。",
+          "detail": "一台上市快两年的机器还能看到 WiFi7 的标志，感觉也是很爽的，我手头这么多新机器，也只有 Mate80promax 可以看到 WiFi7 标，你们说这种小细节算不算情绪价值。",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        },
+        {
           "id": "auto-57353bdf0b8f",
           "title": "Huawei 折叠屏相关消息",
           "originalTitle": "",
@@ -349,6 +351,60 @@ window.phoneRadarDaily = {
           "verdict": "可略过",
           "takeaway": "Galaxy S25 功能更新或覆盖范围扩大。已转成中文摘要展示，详细内容可打开原文核对。",
           "detail": "Galaxy S25 功能更新或覆盖范围扩大。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        },
+        {
+          "id": "auto-509601928b4d",
+          "title": "OPPO 电池 / 充电相关消息",
+          "originalTitle": "",
+          "source": "Gizmochina",
+          "brand": "OPPO",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-06-10",
+          "time": "08:40",
+          "publishedAt": "2026-06-10T08:40:48.000Z",
+          "url": "https://www.gizmochina.com/2026/06/10/oneplus-turbo-6x-turbo-6x-pro-launched-china-specifications-price/",
+          "image": "https://www.gizmochina.com/wp-content/uploads/2026/06/OnePlus-Turbo-6X-series-300x199.jpg?x10805",
+          "verdict": "可略过",
+          "takeaway": "OPPO 电池 / 充电相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
+          "detail": "OPPO 电池 / 充电相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
+          "keyPoints": [
+            "屏幕形态",
+            "电池 / 充电"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "影响日常体验，尤其是游戏、拍照和长时间使用。",
+          "action": "有具体参数就记录到参数库；没有参数就先收藏。"
+        }
+      ]
+    },
+    {
+      "id": "specs",
+      "title": "参数、跑分、认证",
+      "hint": "适合验证芯片、屏幕、影像和电池。",
+      "items": [
+        {
+          "id": "newsnow-96dd90c4e1d8",
+          "title": "第一次用米系手机，说实话有点失望，真就参数没输过体验没赢过",
+          "originalTitle": "",
+          "source": "酷安热榜",
+          "brand": "行业",
+          "type": "爆料",
+          "trust": "高关注爆料源",
+          "date": "2026-06-11",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://www.coolapk.com/feed/72292498",
+          "image": "",
+          "verdict": "扫一眼",
+          "takeaway": "第一次用米系手机，说实话有点失望，真就参数没输过体验没赢过",
+          "detail": "第一次用米系手机，说实话有点失望，真就参数没输过体验没赢过",
           "keyPoints": [
             "爆料"
           ],
@@ -417,29 +473,6 @@ window.phoneRadarDaily = {
           "action": "中文源可以直接点开快读；看完只保留和购机有关的点。"
         },
         {
-          "id": "newsnow-cab3042f8473",
-          "title": "[捂脸][捂脸][捂脸]高考完当天就被小米偷家了，果然是针对高考生的手机。",
-          "originalTitle": "",
-          "source": "酷安热榜",
-          "brand": "Xiaomi",
-          "type": "爆料",
-          "trust": "高关注爆料源",
-          "date": "2026-06-11",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://www.coolapk.com/feed/72263472",
-          "image": "",
-          "verdict": "先看",
-          "takeaway": "[捂脸][捂脸][捂脸]高考完当天就被小米偷家了，果然是针对高考生的手机。",
-          "detail": "[捂脸][捂脸][捂脸]高考完当天就被小米偷家了，果然是针对高考生的手机。",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
-        {
           "id": "newsnow-e03b8cc2f508",
           "title": "酷友们，我真的服气，再买小米我是🐶，给大家点评一下今天我觉得是坑的这部手机。",
           "originalTitle": "",
@@ -486,6 +519,52 @@ window.phoneRadarDaily = {
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         },
         {
+          "id": "auto-c2366a3b7f92",
+          "title": "Pixel 10 价格 / 成本相关消息",
+          "originalTitle": "",
+          "source": "9to5Google",
+          "brand": "Pixel",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-06-11",
+          "time": "19:25",
+          "publishedAt": "2026-06-11T19:25:00.000Z",
+          "url": "https://9to5google.com/2026/06/11/mint-mobile-data-plan-boost-pixel-10-deal/",
+          "image": "",
+          "verdict": "可略过",
+          "takeaway": "Pixel 10 价格 / 成本相关消息。如果涉及订阅、售价或硬件成本，才需要进一步看细节。",
+          "detail": "Pixel 10 价格 / 成本相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
+          "keyPoints": [
+            "成本 / 价格"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        },
+        {
+          "id": "auto-9da6bb19140c",
+          "title": "Galaxy S26 fe 折叠屏相关消息",
+          "originalTitle": "",
+          "source": "9to5Google",
+          "brand": "Samsung",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-06-11",
+          "time": "17:55",
+          "publishedAt": "2026-06-11T17:55:00.000Z",
+          "url": "https://9to5google.com/2026/06/11/samsung-galaxy-z-fold-7-update-s26-features/",
+          "image": "https://9to5google.com/wp-content/uploads/sites/4/2025/08/Galaxy-Z-Fold-7-screen-and-design-2.jpg?quality=82&strip=all&w=1600",
+          "verdict": "可略过",
+          "takeaway": "Galaxy S26 fe 折叠屏相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
+          "detail": "Galaxy S26 fe 折叠屏相关消息。重点看折痕、铰链、厚度、屏幕可靠性和重量是否有实质改善。",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        },
+        {
           "id": "auto-6d16de755e2c",
           "title": "Pixel 相关消息",
           "originalTitle": "",
@@ -501,29 +580,6 @@ window.phoneRadarDaily = {
           "verdict": "可略过",
           "takeaway": "Pixel 相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
           "detail": "Pixel 相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
-        {
-          "id": "auto-2db912e8b5f0",
-          "title": "Galaxy S25 FE 功能更新或覆盖范围扩大",
-          "originalTitle": "",
-          "source": "SamMobile",
-          "brand": "Samsung",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-06-10",
-          "time": "11:26",
-          "publishedAt": "2026-06-10T11:26:31.000Z",
-          "url": "https://www.sammobile.com/news/new-galaxy-s25-fe-update-brings-june-2026-security-patch/",
-          "image": "",
-          "verdict": "可略过",
-          "takeaway": "Galaxy S25 FE 功能更新或覆盖范围扩大。已转成中文摘要展示，详细内容可打开原文核对。",
-          "detail": "Galaxy S25 FE 功能更新或覆盖范围扩大。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
           "keyPoints": [
             "爆料"
           ],
