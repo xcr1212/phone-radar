@@ -1,44 +1,204 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-06-11T04:58:31.262Z",
+  "updatedAt": "2026-06-11T10:58:23.172Z",
   "news": [
     {
-      "id": "coolapk-user-1ed028a681ac",
-      "title": "竹本青：荣耀Robot Phone 首支独立拍摄作品即将发布",
+      "id": "auto-9ed03b96c87e",
+      "title": "Apple working with British police to tackle iPhone theft",
+      "source": "9to5Mac",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-11",
+      "time": "10:55",
+      "publishedAt": "2026-06-11T10:55:24.000Z",
+      "url": "https://9to5mac.com/2026/06/11/apple-working-with-british-police-to-tackle-iphone-theft/",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/Apple-working-with-British-police-to-tackle-iPhone-theft.jpg?quality=82&strip=all&w=1600",
+      "summary": "The head of London’s Metropolitan Police has described how the service is working with Apple to tackle iPhone theft. The partnership includes sharing data with each other to measu…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-844391cde208",
+      "title": "Want a creaseless wide-foldable? An Android flagship option could be on the way",
+      "source": "Android Authority",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-11",
+      "time": "09:15",
+      "publishedAt": "2026-06-11T09:15:58.000Z",
+      "url": "https://www.androidauthority.com/oppo-find-n7-leak-3676651/",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2026/03/Oppo-Find-N6-top-down-no-crease-e1773224027591-500w-260h.jpg",
+      "summary": "The OPPO Find N7 could be the wide-foldable Android flagship you're looking for.",
+      "tags": [
+        "OPPO",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-7ccc25bc78c5",
+      "title": "竹本青：【魅族 FlymeAIOS 现已上线「足球盛典」限时水印】 6月11日，魅族科技官宣上线「足球盛典」限时水印。使用…",
       "source": "竹本青",
-      "brand": "HONOR",
-      "model": "HONOR 相关机型",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
       "type": "爆料",
       "trust": "高可信爆料",
       "date": "2026-06-11",
-      "time": "02:22",
-      "publishedAt": "2026-06-11T02:22:28.000Z",
-      "url": "https://www.coolapk.com/feed/72280654",
-      "image": "http://image.coolapk.com/feed/2026/0611/10/4248714_2a72e5b5_4743_1495_116@1440x991.jpg",
-      "summary": "【荣耀Robot Phone 机器人手机 即将发布首支独立拍摄作品】 6月11日，荣耀终端股份有限公司CEO 李健 官宣：荣耀正式成为第28届 上海国际电影节 官方手机摄影摄像合作伙伴。 荣耀也将首次发布由Robot Phone独立拍摄的成片，以电影级影像，记录和致敬全球电影人的高光时刻。 #今日热点# #荣耀ROBOTPHONE#",
+      "time": "09:11",
+      "publishedAt": "2026-06-11T09:11:29.000Z",
+      "url": "https://www.coolapk.com/feed/72287226",
+      "image": "http://image.coolapk.com/feed/2026/0611/17/4248714_b2908874_9088_4943_123@1080x1440.jpg",
+      "summary": "【魅族 FlymeAIOS 现已上线「足球盛典」限时水印】 6月11日，魅族科技官宣上线「足球盛典」限时水印。使用路径：相册 → 编辑 → 添加水印；使用时间：6月11日-7月20日。 #FlymeAIOS2# #魅族22# #今日热点#",
       "tags": [
-        "HONOR",
+        "iPhone",
         "爆料",
         "酷安博主"
       ]
     },
     {
-      "id": "coolapk-user-7514c2b0fb26",
-      "title": "竹本青：小米17系列最新销量曝光：全系约508万台",
-      "source": "竹本青",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
+      "id": "auto-328146bbe125",
+      "title": "As a Samsung foldable fan, these are the 5 mistakes I hope the Galaxy Z Fold 8 doesn’t repeat",
+      "source": "Android Authority",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
       "type": "爆料",
-      "trust": "高可信爆料",
+      "trust": "媒体汇总",
       "date": "2026-06-11",
-      "time": "01:15",
-      "publishedAt": "2026-06-11T01:15:42.000Z",
-      "url": "https://www.coolapk.com/feed/72279650",
-      "image": "http://image.coolapk.com/feed/2026/0611/09/4248714_b943d929_0541_045_194@1439x742.jpg",
-      "summary": "【小米 17系列 最新销量曝光：全系约508万台，Max 超5.3万台】 截至2026 W22 小米 17系列 约508万 小米 17 Max 约5.33万 小米 17 Ultra 约21.96万 截至2026 W21 小米 17系列 约495.13万 小米 17 Ultra 约21.67万 截至2026 W20 小米 17系列 约487.15万 小米 1…",
+      "time": "09:00",
+      "publishedAt": "2026-06-11T09:00:23.000Z",
+      "url": "https://www.androidauthority.com/samsung-galaxy-z-fold-8-mistakes-avoid-3673761/",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2025/07/samsung-galaxy-z-fold-7-open-lying-flat.jpg",
+      "summary": "With stronger competition than ever, the Z Fold 8 needs to justify its existence.",
       "tags": [
-        "Xiaomi",
+        "Samsung",
         "爆料",
-        "酷安博主"
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-cdd607fe01de",
+      "title": "魅族 Flyme 足球盛典限时水印官宣今日上线：三款样式，支持图库编辑切换",
+      "source": "IT之家",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-11",
+      "time": "08:32",
+      "publishedAt": "2026-06-11T08:32:19.000Z",
+      "url": "https://www.ithome.com/0/962/991.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/6/49311f92-2f2c-4041-a8cd-958a8e171361.png?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 6 月 11 日消息，武汉星纪魅族科技有限公司官方微博 @FlymeAIOS 宣布，Flyme 足球盛典限时水印今日上线。使用魅族手机拍摄完相片后，编辑 > 水印，添加即可。 从官方的预热海报可以看到， 魅族 Flyme 足球盛典限时水印可在 6 月 11 日-7 月 20 日期间使用 ，提供三种不同样式可选，并支持在图库编辑切换。 据IT之家此…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-d840e7767a57",
+      "title": "HarmonyOS 7 will be optimized for Tau’s Law Kirin chipsets: Report",
+      "source": "Huawei Central",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-11",
+      "time": "07:56",
+      "publishedAt": "2026-06-11T07:56:44.000Z",
+      "url": "https://www.huaweicentral.com/harmonyos-7-will-be-optimized-for-taus-law-kirin-chipsets-report/",
+      "image": "https://www.huaweicentral.com/wp-content/uploads/2026/06/HarmonyOS-7-leak-img.jpg",
+      "summary": "Huawei’s next-generation Kirin 5G chipsets for the Mate 90 will be more powerful than the 2025 versions, shifting away from the Moore Law to Tau’s Scaling Law, and it looks like t…",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-dee47cf18482",
+      "title": "Samsung Galaxy Z Fold 8 Wide, Fold 8 Ultra, Flip 8 bag BIS certification",
+      "source": "Gizmochina",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-11",
+      "time": "06:30",
+      "publishedAt": "2026-06-11T06:30:59.000Z",
+      "url": "https://www.gizmochina.com/2026/06/11/samsung-galaxy-z-fold-8-wide-ultra-flip-8-bis-certification/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/06/Samsungs-upcoming-foldables-bag-BIS-certification-1024x204.png?x10805",
+      "summary": "Samsung is expected to hold its next Galaxy Unpacked event on July 22, where the company is likely to unveil its next generation of foldable smartphones. Ahead of the anticipated…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-57353bdf0b8f",
+      "title": "Oppo Find N7’s wide foldable version tipped to launch in Q1 2027, key specifications emerge",
+      "source": "Gizmochina",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-11",
+      "time": "06:12",
+      "publishedAt": "2026-06-11T06:12:56.000Z",
+      "url": "https://www.gizmochina.com/2026/06/11/oppo-find-n7-wide-foldable-q1-2027-launch-specifications/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/03/OPPO-Find-N6_1.mp4_20260326_152207.020-300x150.jpg?x10805",
+      "summary": "While Huawei recently unveiled the Huawei Pura X Max with a wide foldable design, many brands are expected to launch foldable phones with a similar form factor in the coming years…",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-b8c58aa8b1ef",
+      "title": "Galaxy Z Fold 7’s new update brings June 2026 security patch",
+      "source": "SamMobile",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-11",
+      "time": "05:44",
+      "publishedAt": "2026-06-11T05:44:42.000Z",
+      "url": "https://www.sammobile.com/news/galaxy-z-fold-7s-new-update-brings-june-2026-security-patch/",
+      "image": "",
+      "summary": "Samsung has started rolling out the June 2026 security patch to its smartphones with foldable displays, and the first device to which the brand is offering it is the Galaxy Z Fold…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-8ccf74e0349f",
+      "title": "New Galaxy S25 update makes it more secure",
+      "source": "SamMobile",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-11",
+      "time": "05:30",
+      "publishedAt": "2026-06-11T05:30:12.000Z",
+      "url": "https://www.sammobile.com/news/new-galaxy-s25-update-makes-it-more-secure/",
+      "image": "",
+      "summary": "Usually, when Samsung releases an update to a Galaxy S series, the brand offers it first to the core models (base, Plus, Ultra, and Edge), and then to the Fan Edition version. How…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
       ]
     },
     {
@@ -102,46 +262,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-599a2d1eff1a",
-      "title": "我从未见过生命周期如此长的产品，iPhone17怎么做到的[吃瓜]",
-      "source": "酷安热榜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-06-11",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72228979",
-      "image": "",
-      "summary": "我从未见过生命周期如此长的产品，iPhone17怎么做到的[吃瓜]",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-09bc4e4c62fe",
-      "title": "曝iPhone18内存屏幕二选一",
-      "source": "微博热搜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "待验证",
-      "date": "2026-06-11",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://s.weibo.com/weibo?q=%23%E6%9B%9DiPhone18%E5%86%85%E5%AD%98%E5%B1%8F%E5%B9%95%E4%BA%8C%E9%80%89%E4%B8%80%23&t=31&band_rank=15&Refer=top",
-      "image": "",
-      "summary": "曝iPhone18内存屏幕二选一",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
       "id": "auto-1392847fa4c1",
       "title": "iPhone 18 Pro: Three new features might make you want to upgrade",
       "source": "9to5Mac",
@@ -154,7 +274,7 @@ window.phoneRadarAuto = {
       "publishedAt": "2026-06-10T18:51:24.000Z",
       "url": "https://9to5mac.com/2026/06/10/iphone-18-pro-three-new-features-might-make-you-want-to-upgrade/",
       "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/05/iphone-17-pro-blue-angle-two.jpg?quality=82&strip=all&w=1600",
-      "summary": "iPhone 18 Pro is coming this fall , and three new features could be among the top upgrade motivators for Apple’s latest flagship model. more…",
+      "summary": "iPhone 18 Pro is coming this fall , and three new features could be among the top upgrade motivators for Apple’s latest flagship model.",
       "tags": [
         "iPhone",
         "爆料",
@@ -262,26 +382,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-884f51cf8fd2",
-      "title": "Galaxy Z Fold 8 Ultra real-life images, wallpapers leak",
-      "source": "SamMobile",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-10",
-      "time": "09:02",
-      "publishedAt": "2026-06-10T09:02:20.000Z",
-      "url": "https://www.sammobile.com/news/galaxy-z-fold-8-ultra-real-life-images-wallpapers-leak/",
-      "image": "https://www.sammobile.com/wp-content/uploads/2026/06/Samsung-Galaxy-Z-Fold-8-Cover-Display-Wallpaper-01.jpeg",
-      "summary": "With only a month and a half to go for the launch of Samsung’s next flagship smartphone with a book-style foldable display, the Galaxy Z Fold 8 Ultra, the frequency of the leaks a…",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-509601928b4d",
       "title": "OnePlus Turbo 6X, 6X Pro debuts with 144Hz display, up to 8,000mA battery, Dimensity power",
       "source": "Gizmochina",
@@ -342,26 +442,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-6c85ff71b78c",
-      "title": "Samsung preparing for Galaxy Z Flip 8 USA launch",
-      "source": "SamMobile",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-10",
-      "time": "08:14",
-      "publishedAt": "2026-06-10T08:14:12.000Z",
-      "url": "https://www.sammobile.com/news/samsung-preparing-galaxy-z-flip-8-usa-launch/",
-      "image": "https://www.sammobile.com/wp-content/uploads/2026/06/Samsung-Galaxy-Z-Flip-8-FCC-Certification-01.jpg",
-      "summary": "According to multiple reports, Samsung will debut its next lineup of smartphones with foldable displays, which is expected to offer three devices, Galaxy Z Fold 8 (Wide), Galaxy Z…",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-c42496d17280",
       "title": "Galaxy S27 spotted on GSMA database",
       "source": "Gizmochina",
@@ -377,46 +457,6 @@ window.phoneRadarAuto = {
       "summary": "The standard Galaxy S27 has appeared in the GSMA database under model number SM-S952U, marking the first official sign that development of the 2027 flagship series is underway. Th…",
       "tags": [
         "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-b1501e861099",
-      "title": "Mate 80 sold 6.49 million units, driving Huawei’s market share",
-      "source": "Huawei Central",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-10",
-      "time": "06:14",
-      "publishedAt": "2026-06-10T06:14:25.000Z",
-      "url": "https://www.huaweicentral.com/mate-80-sold-6-49-million-units-driving-huaweis-market-share/",
-      "image": "https://www.huaweicentral.com/wp-content/uploads/2026/06/Mate-80-sales-leak.jpg",
-      "summary": "Huawei Mate 80 series has sold 6.49 million units to date, and these booming sales are constantly contributing to the company’s position in the Chinese smartphone market. The OEM…",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-5e76d5b81513",
-      "title": "Huawei Mate 90 series can use new 3D cooling fusion technology",
-      "source": "Huawei Central",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-10",
-      "time": "05:17",
-      "publishedAt": "2026-06-10T05:17:09.000Z",
-      "url": "https://www.huaweicentral.com/huawei-mate-90-series-cooling-technology/",
-      "image": "https://www.huaweicentral.com/wp-content/uploads/2026/06/cooling-tech-leak.jpg",
-      "summary": "An early report suggested that Huawei is planning to introduce the MEMS active cooling fan technology in the Mate 90 series. However, it looks like the company has more than one “…",
-      "tags": [
-        "Huawei",
         "爆料",
         "自动抓取"
       ]
