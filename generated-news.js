@@ -1,6 +1,66 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-06-11T20:35:19.940Z",
+  "updatedAt": "2026-06-11T23:53:26.898Z",
   "news": [
+    {
+      "id": "auto-58f74296b44e",
+      "title": "摩托罗拉推出 Moto G Max 手机：6.8 英寸 1.5K 屏、2 亿像素主摄",
+      "source": "IT之家",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-11",
+      "time": "23:38",
+      "publishedAt": "2026-06-11T23:38:27.000Z",
+      "url": "https://www.ithome.com/0/963/241.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/6/582d5ff4-5c4a-4fa0-b340-8e3d202effe1.png?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 6 月 12 日消息，摩托罗拉现已在巴西市场推出 Moto G Max 手机，新机配备 6.8 英寸屏幕、天玑 6400 芯片，定位中端。 据介绍，这款手机配备 6.8 英寸 AMOLED 屏幕，分辨率可达 1.5K，支持 120Hz 高刷， 峰值亮度 5000nits ，表面覆盖康宁大猩猩玻璃 7i。 性能方面， 这款手机搭载联发科天玑 640…",
+      "tags": [
+        "行业",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-d2d26c27b868",
+      "title": "Nobody understands smartphone design like Motorola, and I'm totally surprised by how good the Motorola Edge 2026 is",
+      "source": "Android Central",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-06-11",
+      "time": "20:58",
+      "publishedAt": "2026-06-11T20:58:41.000Z",
+      "url": "https://www.androidcentral.com/phones/motorola/motorola-edge-2026-review",
+      "image": "https://cdn.mos.cms.futurecdn.net/kW4vn2PhjX6Yh7M2B9xZSU-1280-80.jpg",
+      "summary": "The Motorola Edge 2026 might have the best year-over-year improvement of any smartphone released in 2026, making it a great choice for mid-range buyers.",
+      "tags": [
+        "行业",
+        "评测",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-96a7b2d17b4d",
+      "title": "iPhone Ultra is coming: Six new features in Apple’s top-tier model",
+      "source": "9to5Mac",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-11",
+      "time": "20:49",
+      "publishedAt": "2026-06-11T20:49:24.000Z",
+      "url": "https://9to5mac.com/2026/06/11/iphone-ultra-is-coming-six-new-features-in-apples-top-tier-model/",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/04/iphone-ultra-fold-mockup.jpg?quality=82&strip=all&w=1600",
+      "summary": "Apple’s first foldable iPhone is coming this fall , and rumors say it will be called iPhone Ultra. Here are six features to expect from Apple’s new high-end iPhone Ultra.",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-c2366a3b7f92",
       "title": "Mint Mobile gives all of its plans more data at no added cost, Pixel 10 is still $299",

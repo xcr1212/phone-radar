@@ -1,13 +1,13 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-06-11T20:35:19.940Z",
+  "updatedAt": "2026-06-11T23:53:26.898Z",
   "issueDate": "2026-06-11",
   "issue": "VOL.260611",
   "title": "手机情报日报",
-  "intro": "今日筛出 23 条重点，其中 6 条是重点爆料，包含 5 条 iPhone 相关、0 条官方确认、1 条参数线索。",
+  "intro": "今日筛出 24 条重点，其中 8 条是重点爆料，包含 6 条 iPhone 相关、0 条官方确认、1 条参数线索。",
   "stats": {
-    "total": 23,
-    "iphone": 5,
-    "leaks": 6,
+    "total": 24,
+    "iphone": 6,
+    "leaks": 8,
     "official": 0,
     "specs": 1
   },
@@ -41,6 +41,29 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
+          "id": "auto-96a7b2d17b4d",
+          "title": "iPhone 价格 / 成本相关消息",
+          "originalTitle": "",
+          "source": "9to5Mac",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-06-11",
+          "time": "20:49",
+          "publishedAt": "2026-06-11T20:49:24.000Z",
+          "url": "https://9to5mac.com/2026/06/11/iphone-ultra-is-coming-six-new-features-in-apples-top-tier-model/",
+          "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/04/iphone-ultra-fold-mockup.jpg?quality=82&strip=all&w=1600",
+          "verdict": "先看",
+          "takeaway": "iPhone 价格 / 成本相关消息。如果涉及订阅、售价或硬件成本，才需要进一步看细节。",
+          "detail": "iPhone 价格 / 成本相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
+          "keyPoints": [
+            "爆料来源"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
           "id": "auto-9e1662b8a8c8",
           "title": "消息称荣耀 X70 / X80 Pro Max 手机箭在弦上，本月下旬亮相",
           "originalTitle": "",
@@ -59,6 +82,30 @@ window.phoneRadarDaily = {
           "keyPoints": [
             "电池 / 充电",
             "爆料来源"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "auto-58f74296b44e",
+          "title": "摩托罗拉推出 Moto G Max 手机：6.8 英寸 1.5K 屏、2 亿像素主摄",
+          "originalTitle": "",
+          "source": "IT之家",
+          "brand": "行业",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-06-11",
+          "time": "23:38",
+          "publishedAt": "2026-06-11T23:38:27.000Z",
+          "url": "https://www.ithome.com/0/963/241.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/6/582d5ff4-5c4a-4fa0-b340-8e3d202effe1.png?x-bce-process=image/format,f_auto",
+          "verdict": "先看",
+          "takeaway": "IT之家 6 月 12 日消息，摩托罗拉现已在巴西市场推出 Moto G Max 手机，新机配备 6.8 英寸屏幕、天玑 6400 芯片，定位中端。 据介绍，这款手机配备 6.8 英寸 AMOLED 屏幕，分辨率可达 1.5K，支持 120Hz 高刷， 峰值亮度 5000nits ，表面覆盖康宁大猩猩玻璃 7i。 性能方面， 这款手机搭载联发科天玑 640…",
+          "detail": "IT之家 6 月 12 日消息，摩托罗拉现已在巴西市场推出 Moto G Max 手机，新机配备 6.8 英寸屏幕、天玑 6400 芯片，定位中端。 据介绍，这款手机配备 6.8 英寸 AMOLED 屏幕，分辨率可达 1.5K，支持 120Hz 高刷， 峰值亮度 5000nits ，表面覆盖康宁大猩猩玻璃 7i。 性能方面， 这款手机搭载联发科天玑 640…",
+          "keyPoints": [
+            "屏幕形态",
+            "芯片 / 性能"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
@@ -357,30 +404,6 @@ window.phoneRadarDaily = {
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
-        {
-          "id": "auto-509601928b4d",
-          "title": "OPPO 电池 / 充电相关消息",
-          "originalTitle": "",
-          "source": "Gizmochina",
-          "brand": "OPPO",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-06-10",
-          "time": "08:40",
-          "publishedAt": "2026-06-10T08:40:48.000Z",
-          "url": "https://www.gizmochina.com/2026/06/10/oneplus-turbo-6x-turbo-6x-pro-launched-china-specifications-price/",
-          "image": "https://www.gizmochina.com/wp-content/uploads/2026/06/OnePlus-Turbo-6X-series-300x199.jpg?x10805",
-          "verdict": "可略过",
-          "takeaway": "OPPO 电池 / 充电相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
-          "detail": "OPPO 电池 / 充电相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
-          "keyPoints": [
-            "屏幕形态",
-            "电池 / 充电"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "影响日常体验，尤其是游戏、拍照和长时间使用。",
-          "action": "有具体参数就记录到参数库；没有参数就先收藏。"
         }
       ]
     },
