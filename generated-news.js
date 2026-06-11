@@ -1,6 +1,206 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-06-11T10:58:23.172Z",
+  "updatedAt": "2026-06-11T16:20:36.621Z",
   "news": [
+    {
+      "id": "auto-91f55b8635b6",
+      "title": "The Samsung Galaxy S26 Plus is so underrated that T-Mobile is now giving them away for free",
+      "source": "Android Central",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-06-11",
+      "time": "14:49",
+      "publishedAt": "2026-06-11T14:49:49.000Z",
+      "url": "https://www.androidcentral.com/phones/t-mobile/the-samsung-galaxy-s26-plus-is-so-underrated-that-t-mobile-is-now-giving-them-away-for-free",
+      "image": "https://cdn.mos.cms.futurecdn.net/AgzdzpUDVUCDgjvHgWFfvf-1280-80.jpg",
+      "summary": "The Galaxy S26 Plus is often overlooked, but that simply means that the balanced flagship is subject to some pretty great deals.",
+      "tags": [
+        "Samsung",
+        "评测",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-511ff951da28",
+      "title": "Apple Bucks Smartphone Slump With Production Surge",
+      "source": "MacRumors",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-11",
+      "time": "14:28",
+      "publishedAt": "2026-06-11T14:28:30.000Z",
+      "url": "https://www.macrumors.com/2026/06/11/apple-bucks-smartphone-slump-with-production-surge/",
+      "image": "https://images.macrumors.com/article-new/2025/09/iphone-17-models.jpg",
+      "summary": "A new report from TrendForce claims Apple's iPhone production surged 19.7% year-over-year in the first quarter of 2026, even as the broader global smartphone market contracted 1.7…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-38db390c6371",
+      "title": "Oppo Find N7, the wide one, reportedly has a 7.6-inch display with less of a crease",
+      "source": "9to5Google",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-11",
+      "time": "14:25",
+      "publishedAt": "2026-06-11T14:25:00.000Z",
+      "url": "https://9to5google.com/2026/06/11/oppo-find-n7-leak/",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/04/oppo-find-n6-1.jpg?quality=82&strip=all&w=1600",
+      "summary": "Oppo’s Find N6 is arguably the single-best foldable on the market today, but there’s more in the pipeline. According to a new report, Oppo Find N7 might get a wider display and fu…",
+      "tags": [
+        "OPPO",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-7ac19e1c2cce",
+      "title": "竹本青：【REDMI 最新总销量曝光：K90标准版 超208万台，Turbo 5系列 近171万台】 截至2026 W22…",
+      "source": "竹本青",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-06-11",
+      "time": "14:15",
+      "publishedAt": "2026-06-11T14:15:21.000Z",
+      "url": "https://www.coolapk.com/feed/72292452",
+      "image": "http://image.coolapk.com/feed/2026/0611/22/4248714_3ae2e0bf_7320_4757_895@1271x617.jpg",
+      "summary": "【REDMI 最新总销量曝光：K90标准版 超208万台，Turbo 5系列 近171万台】 截至2026 W22 REDMI K90 约208.59万 REDMI K90 Max 约26.4万 REDMI K90 Pro Max 约64.61万 REDMI Turbo 5系列 约170.84万 截至2026 W21 REDMI K90 约202.95万…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-b1098c29c294",
+      "title": "单个像素 50 纳米：科研人员用银原子造出全球最小二维码，手机仍可扫描",
+      "source": "IT之家",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-11",
+      "time": "14:12",
+      "publishedAt": "2026-06-11T14:12:08.000Z",
+      "url": "https://www.ithome.com/0/963/203.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/6/3eefe483-1c4b-41e7-93d8-2e7a12bbf576.png?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 6 月 11 日消息，据 TechRadar 报道，澳大利亚莫纳什大学物理与天文学院与捷克科学院的研究人员可能刚刚打破了世界上最小二维码的吉尼斯世界纪录，他们制作的二维码每个像素边长仅 50 纳米，整体尺寸为 50×50 纳米。 据介绍，该二维码的每个像素都由单个银原子构成，研究人员在超高真空和低温条件下，使用一根仅有几个原子宽的微小探针，让银原…",
+      "tags": [
+        "行业",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-6d16de755e2c",
+      "title": "I used the Motorola Edge (2026) and Pixel 10a, and Google should be worried",
+      "source": "Android Authority",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-11",
+      "time": "13:00",
+      "publishedAt": "2026-06-11T13:00:42.000Z",
+      "url": "https://www.androidauthority.com/motorola-edge-2026-vs-google-pixel-10a-3676507/",
+      "image": "",
+      "summary": "A proper mid-range showdown between two solid phones.",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-8121299efb1f",
+      "title": "荣耀 WIN 系列手机官宣全面适配《无畏契约：源能行动》原生 165 高帧率模式",
+      "source": "IT之家",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-11",
+      "time": "12:41",
+      "publishedAt": "2026-06-11T12:41:53.000Z",
+      "url": "https://www.ithome.com/0/963/184.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/6/f96e1b70-81f2-4ea4-b39f-6ebcd83a081f.png?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 6 月 11 日消息， 荣耀 WIN 官方微博今日宣布，荣耀 WIN 系列手机全面适配《无畏契约：源能行动》原生 165 高帧率模式。 官方预热海报显示，支持《无畏契约：源能行动》原生 165 高帧率模式的具体机型包括 ：荣耀 WIN 和 荣耀 WIN RT 。 腾讯代理拳头英雄射击新作《无畏契约：源能行动》（简称“无畏契约手游”） 于 2025…",
+      "tags": [
+        "HONOR",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-9e1662b8a8c8",
+      "title": "消息称荣耀 X70 / X80 Pro Max 手机箭在弦上，本月下旬亮相",
+      "source": "IT之家",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-11",
+      "time": "12:32",
+      "publishedAt": "2026-06-11T12:32:02.000Z",
+      "url": "https://www.ithome.com/0/963/181.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/6/708cef02-b809-46ca-97d2-d2ab0f27ce06.png?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 6 月 11 日消息，博主 @旺仔百事通 今日发文透露，荣耀 X80 Pro Max 和荣耀 X70 Pro Max 箭在弦上， 本月下旬见 。 据博主分享，荣耀 X80 Pro Max 将主打耐用、抗造和续航。该机将配备超大电池， 支持 90W 有线充电和 27W 有线反向充电 、满级防水防尘，并采用超耐摔机身设计。 据IT之家此前报道， 博主…",
+      "tags": [
+        "HONOR",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-dd97391331ae",
+      "title": "New Galaxy Z TriFold update may be packing Priority Notifications and Files Summaries",
+      "source": "SamMobile",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-11",
+      "time": "11:49",
+      "publishedAt": "2026-06-11T11:49:28.000Z",
+      "url": "https://www.sammobile.com/news/new-galaxy-z-trifold-update-may-be-packing-priority-notifications-files-summaries/",
+      "image": "",
+      "summary": "The Galaxy Z TriFold units in South Korea are getting a new software update. According to the changelog, it brings the June 2026 security patch, which addresses 45 security vulner…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-c99323af8039",
+      "title": "iFixit 拆解证实特朗普 T1 手机是 HTC U24 Pro 换壳，仅电池等细节微调",
+      "source": "IT之家",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-11",
+      "time": "11:21",
+      "publishedAt": "2026-06-11T11:21:49.000Z",
+      "url": "https://www.ithome.com/0/963/161.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/6/8d2ce15d-1d60-4b11-8e0e-0eb96a403fc3.png?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 6 月 11 日消息，发布近一年后，特朗普 T1 手机终于“上市”。但目前只有极少数记者和 YouTube 博主拿到了样机，几乎没有任何证据表明普通消费者也收到了这款手机。 今日，知名拆解机构 iFixit 与 NBC 合作，拿到了一款特朗普 T1 媒体样机并进行拆解，最终证实该手机本质上就是 2024 年发布的 HTC U24 Pro（原机型由…",
+      "tags": [
+        "行业",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-9ed03b96c87e",
       "title": "Apple working with British police to tackle iPhone theft",
@@ -62,6 +262,26 @@ window.phoneRadarAuto = {
       ]
     },
     {
+      "id": "weibo-1c789d716cf2",
+      "title": "数码闲聊站：尬聊一下，这两种影像方案你们喜欢哪个？[并不简单] A，200Mp 1/1.1…",
+      "source": "数码闲聊站",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-06-11",
+      "time": "09:08",
+      "publishedAt": "2026-06-11T09:08:00.000Z",
+      "url": "https://weibo.com/6048569942/R3DwUCblk",
+      "image": "",
+      "summary": "尬聊一下，这两种影像方案你们喜欢哪个？[并不简单] A，200Mp 1/1.12\"主摄 200Mp 1/1.3\"长焦 B，200Mp 1/1.3\"主摄 200Mp 1/1.12\"长焦",
+      "tags": [
+        "行业",
+        "爆料",
+        "微博"
+      ]
+    },
+    {
       "id": "auto-328146bbe125",
       "title": "As a Samsung foldable fan, these are the 5 mistakes I hope the Galaxy Z Fold 8 doesn’t repeat",
       "source": "Android Authority",
@@ -77,26 +297,6 @@ window.phoneRadarAuto = {
       "summary": "With stronger competition than ever, the Z Fold 8 needs to justify its existence.",
       "tags": [
         "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-cdd607fe01de",
-      "title": "魅族 Flyme 足球盛典限时水印官宣今日上线：三款样式，支持图库编辑切换",
-      "source": "IT之家",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-11",
-      "time": "08:32",
-      "publishedAt": "2026-06-11T08:32:19.000Z",
-      "url": "https://www.ithome.com/0/962/991.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/6/49311f92-2f2c-4041-a8cd-958a8e171361.png?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 6 月 11 日消息，武汉星纪魅族科技有限公司官方微博 @FlymeAIOS 宣布，Flyme 足球盛典限时水印今日上线。使用魅族手机拍摄完相片后，编辑 > 水印，添加即可。 从官方的预热海报可以看到， 魅族 Flyme 足球盛典限时水印可在 6 月 11 日-7 月 20 日期间使用 ，提供三种不同样式可选，并支持在图库编辑切换。 据IT之家此…",
-      "tags": [
-        "iPhone",
         "爆料",
         "自动抓取"
       ]
@@ -119,6 +319,26 @@ window.phoneRadarAuto = {
         "Huawei",
         "爆料",
         "自动抓取"
+      ]
+    },
+    {
+      "id": "weibo-c3e0c56e5d2e",
+      "title": "数码闲聊站：咳咳，6.89\"±2K+185Hz OLED超高刷大直屏在尝试做四等边，如果搞…",
+      "source": "数码闲聊站",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-06-11",
+      "time": "07:37",
+      "publishedAt": "2026-06-11T07:37:00.000Z",
+      "url": "https://weibo.com/6048569942/R3CVYypfh",
+      "image": "",
+      "summary": "咳咳，6.89\"±2K+185Hz OLED超高刷大直屏在尝试做四等边，如果搞定的话，那就同期无敌了[二哈]",
+      "tags": [
+        "行业",
+        "爆料",
+        "微博"
       ]
     },
     {
@@ -362,6 +582,26 @@ window.phoneRadarAuto = {
       ]
     },
     {
+      "id": "weibo-8a894090ce59",
+      "title": "数码闲聊站：突然抽查！看看你们的Live实况照片[doge] 下面是我最近用vivo S6…",
+      "source": "数码闲聊站",
+      "brand": "vivo",
+      "model": "vivo 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-06-10",
+      "time": "11:08",
+      "publishedAt": "2026-06-10T11:08:00.000Z",
+      "url": "https://weibo.com/6048569942/R3uT7DB37",
+      "image": "",
+      "summary": "突然抽查！看看你们的Live实况照片[doge] 下面是我最近用vivo S60随手拍的4K Live，确实帧帧都清晰，而且可以套各种影调风格",
+      "tags": [
+        "vivo",
+        "爆料",
+        "微博"
+      ]
+    },
+    {
       "id": "auto-e7c02319bc3e",
       "title": "Vivo X500 display, camera, chipset, and battery details leak",
       "source": "Gizmochina",
@@ -459,6 +699,26 @@ window.phoneRadarAuto = {
         "Samsung",
         "爆料",
         "自动抓取"
+      ]
+    },
+    {
+      "id": "weibo-f57b7e995d2f",
+      "title": "数码闲聊站：独家信息：200Mp潜望长焦已大批量采购，盲猜后续会在多个产品线批量应用，影像…",
+      "source": "数码闲聊站",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-06-10",
+      "time": "05:33",
+      "publishedAt": "2026-06-10T05:33:00.000Z",
+      "url": "https://weibo.com/6048569942/R3sH9iG32",
+      "image": "",
+      "summary": "独家信息，200Mp潜望长焦已大批量采购，盲猜后续会在多个产品线批量应用，影像发力中……[污]",
+      "tags": [
+        "行业",
+        "爆料",
+        "微博"
       ]
     },
     {
