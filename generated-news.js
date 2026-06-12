@@ -1,6 +1,166 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-06-12T10:39:47.913Z",
+  "updatedAt": "2026-06-12T15:39:34.767Z",
   "news": [
+    {
+      "id": "auto-86da40acf368",
+      "title": "Deals: Google Pixel 10 Pro up to $420 off, 512GB Galaxy S26+ $400 off, up to $875 off Windows laptops/desktops, more",
+      "source": "9to5Google",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-12",
+      "time": "15:34",
+      "publishedAt": "2026-06-12T15:34:47.000Z",
+      "url": "https://9to5google.com/2026/06/12/deals-google-pixel-10-pro-galaxy-s26-windows-laptops/",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/06/9to5Google-Jun-12.webp?w=1600",
+      "summary": "Today’s 9to5Toys Lunch Break is headlined by the mid-range 256GB Google Pixel 10 Pro at up to $420 off alongside a sizable collection of Father’s Day Google deals you can browse t…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-8269c6fbc55e",
+      "title": "华为余承东：鸿蒙 HarmonyOS 成为中国第二大智能手机操作系统",
+      "source": "IT之家",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-12",
+      "time": "15:19",
+      "publishedAt": "2026-06-12T15:19:24.000Z",
+      "url": "https://www.ithome.com/0/963/721.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/6/80dcbfaf-1f88-43eb-9784-9ff7682fc7c4.jpg?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 6 月 12 日消息，在今日的华为开发者大会 HDC 2026 上，华为常务董事、产品投资评审委员会主任、终端 BG 董事长余承东发布了新一代鸿蒙 HarmonyOS 7 操作系统，围绕互联、智能、安全、流畅、空间感五个维度进行升级，同时迈向智能体时代。 余承东在 HDC 2026 现场宣布， 鸿蒙 HarmonyOS 已成为中国第二大智能手机操…",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-8281a679c22a",
+      "title": "Instagram and WhatsApp Down Today on iPhone",
+      "source": "MacRumors",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-12",
+      "time": "14:40",
+      "publishedAt": "2026-06-12T14:40:00.000Z",
+      "url": "https://www.macrumors.com/2026/06/12/instagram-facebook-messenger-whatsapp-down-iphone/",
+      "image": "https://images.macrumors.com/article-new/2021/03/Instagram-Feature-2.jpg",
+      "summary": "Meta platforms including Instagram, WhatsApp, Facebook, and Messenger are currently experiencing issues for some users around the world. Instagram, WhatsApp, Facebook, and Messeng…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-03c2ca9e2d0f",
+      "title": "I've used dozens of phones this year, and the Pixel 10a is the one I'd actually keep",
+      "source": "Android Police",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-12",
+      "time": "13:30",
+      "publishedAt": "2026-06-12T13:30:10.000Z",
+      "url": "https://www.androidpolice.com/ive-been-living-with-the-pixel-10a-and-googles-goldilocks-phone-is-hard-to-give-up/",
+      "image": "",
+      "summary": "Neither too much, or too little",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-02e10f819fe2",
+      "title": "What is the oldest phone you’d consider using daily? [Poll]",
+      "source": "9to5Google",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-12",
+      "time": "13:00",
+      "publishedAt": "2026-06-12T13:00:00.000Z",
+      "url": "https://9to5google.com/2026/06/12/what-is-the-oldest-phone-youd-consider-using-daily-poll/",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2025/07/random-Android-phones-1.jpg?quality=82&strip=all&w=1600",
+      "summary": "After a couple of years of trying to get my dad to switch from a battered and bruised iPhone 8, I wondered to myself why. If it ain’t (too) broke, don’t fix it, but I thought abou…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-8fe50c2f1998",
+      "title": "Galaxy phones can soon join iCloud Shared Albums from iPhones, Macs",
+      "source": "SamMobile",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-12",
+      "time": "12:41",
+      "publishedAt": "2026-06-12T12:41:40.000Z",
+      "url": "https://www.sammobile.com/news/galaxy-phones-soon-join-apple-icloud-shared-albums-iphone-mac/",
+      "image": "",
+      "summary": "Sharing information between Galaxy phones and iPhones used to be a huge hassle until a few years ago. Thankfully, Apple has gradually opened its walled garden to make file sharing…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-59ebbf5bb93b",
+      "title": "The Motorola Edge (2026) steals the Samsung Galaxy S26's thunder, and the S27 is going to have to learn a thing or two",
+      "source": "Android Police",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-12",
+      "time": "12:15",
+      "publishedAt": "2026-06-12T12:15:41.000Z",
+      "url": "https://www.androidpolice.com/motorola-edge-2026-steals-samsung-galaxy-s26s-thunder-s27-must-learn-a-thing-or-two/",
+      "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2026/06/motorola-edge-2026-in-front-of-a-samsung-galaxy-s26-on-an-abstract-background.png",
+      "summary": "Moto's coming for the small-phone crown",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-b5dad900cdf7",
+      "title": "HarmonyOS has become 2nd largest smartphone OS in China: Huawei",
+      "source": "Huawei Central",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-12",
+      "time": "11:26",
+      "publishedAt": "2026-06-12T11:26:07.000Z",
+      "url": "https://www.huaweicentral.com/harmonyos-has-become-2nd-largest-smartphone-os/",
+      "image": "https://www.huaweicentral.com/wp-content/uploads/2026/06/HarmonyOS-7.0.jpg",
+      "summary": "During the first day of the HDC 2026 event, Huawei said that HarmonyOS has become the 2nd-largest smartphone OS in China. While Android and iOS have been ruling the mobile operati…",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-41b2c36ccf82",
       "title": "I tried going back to the Pixel 10 Pro XL, but one missing feature makes it impossible to use",
@@ -17,26 +177,6 @@ window.phoneRadarAuto = {
       "summary": "My one wish for the Pixel 11 Pro XL: faster charging",
       "tags": [
         "Pixel",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-9fefbb3a53a7",
-      "title": "Samsung Galaxy S26 Ultra display tips and customisation tricks",
-      "source": "SamMobile",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-12",
-      "time": "10:00",
-      "publishedAt": "2026-06-12T10:00:00.000Z",
-      "url": "https://www.sammobile.com/news/samsung-galaxy-s26-ultra-display-tips-customisation-tricks/",
-      "image": "https://www.sammobile.com/wp-content/uploads/2026/06/Privacy-Display-S26-Ultra.jpg",
-      "summary": "The Samsung Galaxy S26 Ultra has a 6.9-inch Dynamic AMOLED 2X display with a peak brightness of 2600 nits and a refresh rate that scales between 1Hz and 120Hz. Out of the box it i…",
-      "tags": [
-        "Samsung",
         "爆料",
         "自动抓取"
       ]
@@ -103,7 +243,7 @@ window.phoneRadarAuto = {
     },
     {
       "id": "auto-d4e7daae7f33",
-      "title": "Galaxy S25 Edge discounted to almost half of its launch price in India",
+      "title": "Galaxy S25 Edge discounted to almost half of its original price in India",
       "source": "Gizmochina",
       "brand": "Samsung",
       "model": "Samsung 相关机型",
@@ -117,66 +257,6 @@ window.phoneRadarAuto = {
       "summary": "If you’ve been eyeing a premium Samsung flagship but holding off because of the price, now’s your chance to celebrate. The Galaxy S25 Edge has seen a jaw-dropping discount on Flip…",
       "tags": [
         "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-04577368d7f3",
-      "title": "鸿蒙 HarmonyOS 7 正式发布：从“万物互联”正式迈进“Agent 时代”，华为 Mate90 系列今秋首发搭载",
-      "source": "IT之家",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-12",
-      "time": "08:31",
-      "publishedAt": "2026-06-12T08:31:37.000Z",
-      "url": "https://www.ithome.com/0/963/594.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/6/45558eb8-3bc6-4d4b-8c25-050cd1d96b6a.jpg?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 6 月 12 日消息，在今日举行的华为开发者大会 2026（HDC 2026）上，华为常务董事、产品投资评审委员会主任、终端 BG 董事长余承东推出了全新的 HarmonyOS 7 全场景智能操作系统。 华为 Mate90 系列首发搭载 HarmonyOS 7 正式版，将于今年秋季发布（同时还将首发基于 τ 定律的麒麟 2026 芯片）。届时，H…",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "coolapk-user-9b28b83d2214",
-      "title": "竹本青：鸿蒙7正式版本将在今年秋季向消费者开放",
-      "source": "竹本青",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-06-12",
-      "time": "08:20",
-      "publishedAt": "2026-06-12T08:20:48.000Z",
-      "url": "https://www.coolapk.com/feed/72304386",
-      "image": "http://image.coolapk.com/feed/2026/0612/16/4248714_2640be74_3418_6855_642@2560x1068.jpg",
-      "summary": "【华为何刚：鸿蒙7正式版本将在今年秋季向消费者开放】 ● 正式版将由 Mate90系列 首发搭载 ● 首批Beta内测已启动：Mate80 Pro、Pura90 Pro Max、Mate X7、Pura X 、Pura X 典藏版、Mate XTs 非凡大师、nova15 Pro #今日热点# #鸿蒙6# #鸿蒙7#",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
-      "id": "auto-fae0b7a16482",
-      "title": "咪咕视频 x 华为鸿蒙首发手机直播专业体育赛事，用于中超、苏超、粤超",
-      "source": "IT之家",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-12",
-      "time": "08:19",
-      "publishedAt": "2026-06-12T08:19:31.000Z",
-      "url": "https://www.ithome.com/0/963/569.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/6/592d5b0e-9505-4132-b73a-613770d67889.jpg?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 6 月 12 日消息，在今日的华为开发者大会 HDC 2026 主题演讲中，咪咕视频宣布与华为鸿蒙高清直播合作， 首发手机直播专业体育赛事 。 咪咕视频演示了用鸿蒙手机直播乒乓球比赛， 带来 1K@50fps 画质 ，以及全链路高保真空间音频。 IT之家从大会获悉，双方未来将扩展合作，把鸿蒙手机直播带到 中超、苏超、粤超 等足球赛事中。 此外，鸿…",
-      "tags": [
-        "Huawei",
         "爆料",
         "自动抓取"
       ]
@@ -219,26 +299,6 @@ window.phoneRadarAuto = {
         "HONOR",
         "爆料",
         "酷安博主"
-      ]
-    },
-    {
-      "id": "auto-9b047da671ce",
-      "title": "X 系列累计突破 1.3 亿用户，荣耀 X80 Pro Max 官宣本月见",
-      "source": "IT之家",
-      "brand": "HONOR",
-      "model": "HONOR 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-12",
-      "time": "07:22",
-      "publishedAt": "2026-06-12T07:22:01.000Z",
-      "url": "https://www.ithome.com/0/963/502.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/6/da59a28c-05f9-45a7-891c-547b1f970181.jpg?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 6 月 12 日消息，荣耀手机官方今日宣布，荣耀 X80 Pro Max 箭在弦上，将于本月正式发布。据荣耀官方介绍，荣耀 X 系列机型全球用户数已经突破 1.3 亿人。 据博主 @旺仔百事通 分享，荣耀 X80 Pro Max 将主打耐用、抗造和续航。该机将配备超大电池， 支持 90W 有线充电和 27W 有线反向充电 、满级防水防尘，并采用超…",
-      "tags": [
-        "HONOR",
-        "爆料",
-        "自动抓取"
       ]
     },
     {
@@ -302,23 +362,23 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "coolapk-user-418a424cf75d",
-      "title": "竹本青：2026年第23周国内手机市场份额曝光：华为居首",
-      "source": "竹本青",
-      "brand": "HONOR",
-      "model": "HONOR 相关机型",
+      "id": "newsnow-311ab4097f73",
+      "title": "余承东：鸿蒙已成为中国第二大智能手机系统",
+      "source": "酷安热榜",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
       "type": "爆料",
-      "trust": "高可信爆料",
+      "trust": "高关注爆料源",
       "date": "2026-06-12",
-      "time": "06:04",
-      "publishedAt": "2026-06-12T06:04:24.000Z",
-      "url": "https://www.coolapk.com/feed/72302115",
-      "image": "http://image.coolapk.com/feed/2026/0612/14/4248714_f8fa2cd8_4263_6454_741@1270x877.jpg",
-      "summary": "【2026年第23周 国内手机市场份额曝光：华为、苹果、vivo分列前三，大盘略微上升】 1.华为 22.1% 2.苹果 19.3% 3.vivo 15.6%（含iQOO 4.3%） 4.OPPO 14.7%（含一加 2.8%，realme 0.7%） 5.小米 14.2% 6.荣耀 9.9% #今日热点# #HyperOS3# #ColorOS16#",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/72303282",
+      "image": "",
+      "summary": "余承东：鸿蒙已成为中国第二大智能手机系统",
       "tags": [
-        "HONOR",
+        "Huawei",
         "爆料",
-        "酷安博主"
+        "NewsNow"
       ]
     },
     {
@@ -357,26 +417,6 @@ window.phoneRadarAuto = {
       "summary": "一台上市快两年的机器还能看到 WiFi7 的标志，感觉也是很爽的，我手头这么多新机器，也只有 Mate80promax 可以看到 WiFi7 标，你们说这种小细节算不算情绪价值。",
       "tags": [
         "行业",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-311ab4097f73",
-      "title": "余承东：鸿蒙已成为中国第二大智能手机系统",
-      "source": "酷安热榜",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-06-12",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72303282",
-      "image": "",
-      "summary": "余承东：鸿蒙已成为中国第二大智能手机系统",
-      "tags": [
-        "Huawei",
         "爆料",
         "NewsNow"
       ]
@@ -522,26 +562,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-511ff951da28",
-      "title": "Apple Bucks Smartphone Slump With Production Surge",
-      "source": "MacRumors",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-11",
-      "time": "14:28",
-      "publishedAt": "2026-06-11T14:28:30.000Z",
-      "url": "https://www.macrumors.com/2026/06/11/apple-bucks-smartphone-slump-with-production-surge/",
-      "image": "https://images.macrumors.com/article-new/2025/09/iphone-17-models.jpg",
-      "summary": "A new report from TrendForce claims Apple's iPhone production surged 19.7% year-over-year in the first quarter of 2026, even as the broader global smartphone market contracted 1.7…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-38db390c6371",
       "title": "Oppo Find N7, the wide one, reportedly has a 7.6-inch display with less of a crease",
       "source": "9to5Google",
@@ -577,26 +597,6 @@ window.phoneRadarAuto = {
       "summary": "A proper mid-range showdown between two solid phones.",
       "tags": [
         "Pixel",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-dd97391331ae",
-      "title": "New Galaxy Z TriFold update may be packing Priority Notifications and Files Summaries",
-      "source": "SamMobile",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-11",
-      "time": "11:49",
-      "publishedAt": "2026-06-11T11:49:28.000Z",
-      "url": "https://www.sammobile.com/news/new-galaxy-z-trifold-update-may-be-packing-priority-notifications-files-summaries/",
-      "image": "",
-      "summary": "The Galaxy Z TriFold units in South Korea are getting a new software update. According to the changelog, it brings the June 2026 security patch, which addresses 45 security vulner…",
-      "tags": [
-        "Samsung",
         "爆料",
         "自动抓取"
       ]
