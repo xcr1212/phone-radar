@@ -1,6 +1,46 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-06-12T22:00:41.336Z",
+  "updatedAt": "2026-06-12T23:49:16.254Z",
   "news": [
+    {
+      "id": "auto-050d20bee3d6",
+      "title": "IT早报 0613：SpaceX 上市，马斯克成人类首个万亿美元富豪；华为鸿蒙 HarmonyOS 7 发布；《置身钉内》作者再发文；苹果 iPhone 18 Pro Max 机模曝光...",
+      "source": "IT之家",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-12",
+      "time": "23:26",
+      "publishedAt": "2026-06-12T23:26:23.000Z",
+      "url": "https://www.ithome.com/0/963/744.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/6/d40394fb-623e-43db-95d8-e7f346ef27ad.jpg?x-bce-process=image/format,f_auto",
+      "summary": "“IT早报”时间，大家好，现在是 2026 年 6 月 13 日星期六，今天的重要科技资讯有： 1、全球最大 IPO：马斯克 SpaceX 在纳斯达克敲钟上市，成为人类史上首位万亿美元富豪 马斯克旗下 SpaceX 6 月 12 日在纳斯达克正式挂牌上市，股票代码 SPCX。本次 IPO 以每股 135 美元发行 5.556 亿股，募资 750 亿美元，创…",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-ba9a79222907",
+      "title": "荣耀 MRK-AN00 新机入网：搭载 7900mAh 大容量电池",
+      "source": "IT之家",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-12",
+      "time": "22:03",
+      "publishedAt": "2026-06-12T22:03:24.000Z",
+      "url": "https://www.ithome.com/0/963/736.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/6/d0f6386d-d195-4240-9013-f2cc01b57778.png?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 6 月 13 日消息，型号为 MRK-AN00 的荣耀新机已通过电信设备进网许可，未公布证件照。 这款新机机身尺寸为 168.3×78.54× 8.3 mm，重量为 216.5 克，配备一块 6.872 英寸 TFT 显示屏，分辨率为 1592× 720，显示颜色可达 1670 万色，采用直板设计，搭载虚拟键盘。 核心配置方面，该机内置主频为 2…",
+      "tags": [
+        "HONOR",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-fa4cdab56630",
       "title": "Samsung's Galaxy S25 FE is finally worth taking a look at thanks to this aggressive discount",
@@ -117,26 +157,6 @@ window.phoneRadarAuto = {
       "summary": "During the first day of the HDC 2026 event, Huawei said that HarmonyOS has become the 2nd-largest smartphone OS in China. While Android and iOS have been ruling the mobile operati…",
       "tags": [
         "Huawei",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-41b2c36ccf82",
-      "title": "I tried going back to the Pixel 10 Pro XL, but one missing feature makes it impossible to use",
-      "source": "Android Authority",
-      "brand": "Pixel",
-      "model": "Pixel 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-12",
-      "time": "10:00",
-      "publishedAt": "2026-06-12T10:00:32.000Z",
-      "url": "https://www.androidauthority.com/pixel-11-needs-faster-charging-3674534/",
-      "image": "",
-      "summary": "My one wish for the Pixel 11 Pro XL: faster charging",
-      "tags": [
-        "Pixel",
         "爆料",
         "自动抓取"
       ]
@@ -342,26 +362,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-33d590b8f8eb",
-      "title": "#鸿蒙7# #华为Mate80ProMax# #HDC2026#",
-      "source": "酷安热榜",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-06-12",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72305399",
-      "image": "",
-      "summary": "#鸿蒙7# #华为Mate80ProMax# #HDC2026#",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
       "id": "newsnow-2168905cfe0f",
       "title": "今天和爸爸妈妈谈到了外嫁的问题 达成了惊人的一致 其实我发现四川女生外嫁的很少 主要是我们大四川太好了呜呜呜呜呜 还好男朋友也是四川的嘻嘻 其实好奇你们男生会因为喜欢的女生 而去到她的城市生活吗？插句题外话 之前觉得17p和17pm摄像头太丑了 现在看习惯了 觉得这种手机壳好美丽！！ #酷安夜话#",
       "source": "酷安热榜",
@@ -377,6 +377,26 @@ window.phoneRadarAuto = {
       "summary": "今天和爸爸妈妈谈到了外嫁的问题 达成了惊人的一致 其实我发现四川女生外嫁的很少 主要是我们大四川太好了呜呜呜呜呜 还好男朋友也是四川的嘻嘻 其实好奇你们男生会因为喜欢的女生 而去到她的城市生活吗？插句题外话 之前觉得17p和17pm摄像头太丑了 现在看习惯了 觉得这种手机壳好美丽！！ #酷安夜话#",
       "tags": [
         "行业",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-33d590b8f8eb",
+      "title": "#鸿蒙7# #华为Mate80ProMax# #HDC2026#",
+      "source": "酷安热榜",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-06-12",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/72305399",
+      "image": "",
+      "summary": "#鸿蒙7# #华为Mate80ProMax# #HDC2026#",
+      "tags": [
+        "Huawei",
         "爆料",
         "NewsNow"
       ]
