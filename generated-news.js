@@ -1,5 +1,5 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-06-12T18:19:39.217Z",
+  "updatedAt": "2026-06-12T22:00:41.336Z",
   "news": [
     {
       "id": "auto-fa4cdab56630",
@@ -57,26 +57,6 @@ window.phoneRadarAuto = {
       "summary": "IT之家 6 月 12 日消息，在今日的华为开发者大会 HDC 2026 上，华为常务董事、产品投资评审委员会主任、终端 BG 董事长余承东发布了新一代鸿蒙 HarmonyOS 7 操作系统，围绕互联、智能、安全、流畅、空间感五个维度进行升级，同时迈向智能体时代。 余承东在 HDC 2026 现场宣布， 鸿蒙 HarmonyOS 已成为中国第二大智能手机操…",
       "tags": [
         "Huawei",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-03c2ca9e2d0f",
-      "title": "I've used dozens of phones this year, and the Pixel 10a is the one I'd actually keep",
-      "source": "Android Police",
-      "brand": "Pixel",
-      "model": "Pixel 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-12",
-      "time": "13:30",
-      "publishedAt": "2026-06-12T13:30:10.000Z",
-      "url": "https://www.androidpolice.com/ive-been-living-with-the-pixel-10a-and-googles-goldilocks-phone-is-hard-to-give-up/",
-      "image": "",
-      "summary": "Neither too much, or too little",
-      "tags": [
-        "Pixel",
         "爆料",
         "自动抓取"
       ]
@@ -362,41 +342,21 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-96ff9efc9045",
-      "title": "第一次用米系手机，说实话有点失望，真就参数没输过体验没赢过",
+      "id": "newsnow-33d590b8f8eb",
+      "title": "#鸿蒙7# #华为Mate80ProMax# #HDC2026#",
       "source": "酷安热榜",
-      "brand": "行业",
-      "model": "智能手机市场",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-06-12",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72292498",
+      "url": "https://www.coolapk.com/feed/72305399",
       "image": "",
-      "summary": "第一次用米系手机，说实话有点失望，真就参数没输过体验没赢过",
+      "summary": "#鸿蒙7# #华为Mate80ProMax# #HDC2026#",
       "tags": [
-        "行业",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-8099a0bb0f02",
-      "title": "一台上市快两年的机器还能看到 WiFi7 的标志，感觉也是很爽的，我手头这么多新机器，也只有 Mate80promax 可以看到 WiFi7 标，你们说这种小细节算不算情绪价值。",
-      "source": "酷安热榜",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-06-12",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72286606",
-      "image": "",
-      "summary": "一台上市快两年的机器还能看到 WiFi7 的标志，感觉也是很爽的，我手头这么多新机器，也只有 Mate80promax 可以看到 WiFi7 标，你们说这种小细节算不算情绪价值。",
-      "tags": [
-        "行业",
+        "Huawei",
         "爆料",
         "NewsNow"
       ]
@@ -435,6 +395,26 @@ window.phoneRadarAuto = {
       "url": "https://www.coolapk.com/feed/72287272",
       "image": "",
       "summary": "在华为店上班的第四年，感觉太累了，各种业绩压力，现在已经不是单纯的卖手机了，考核的东西太多，但是看到这个工资又不舍得走#酷工作#",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-c0c26c6d1de9",
+      "title": "酷安安卓版的液态玻璃也快做完了，大家感受下效果，这下子iOS，鸿蒙，安卓都统一了[酷]",
+      "source": "酷安热榜",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-06-12",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/72306101",
+      "image": "",
+      "summary": "酷安安卓版的液态玻璃也快做完了，大家感受下效果，这下子iOS，鸿蒙，安卓都统一了[酷]",
       "tags": [
         "Huawei",
         "爆料",

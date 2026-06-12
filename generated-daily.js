@@ -1,15 +1,15 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-06-12T18:19:39.217Z",
+  "updatedAt": "2026-06-12T22:00:41.336Z",
   "issueDate": "2026-06-12",
   "issue": "VOL.260612",
   "title": "手机情报日报",
-  "intro": "今日筛出 15 条重点，其中 3 条是重点爆料，包含 2 条 iPhone 相关、0 条官方确认、1 条参数线索。",
+  "intro": "今日筛出 13 条重点，其中 3 条是重点爆料，包含 2 条 iPhone 相关、0 条官方确认、0 条参数线索。",
   "stats": {
-    "total": 15,
+    "total": 13,
     "iphone": 2,
     "leaks": 3,
     "official": 0,
-    "specs": 1
+    "specs": 0
   },
   "sections": [
     {
@@ -124,29 +124,6 @@ window.phoneRadarDaily = {
       "hint": "能直接更新到参数库。",
       "items": [
         {
-          "id": "newsnow-8099a0bb0f02",
-          "title": "一台上市快两年的机器还能看到 WiFi7 的标志，感觉也是很爽的，我手头这么多新机器，也只有 Mate80promax 可以看到 WiFi7 标，你们说这种小细节算不算情绪价值。",
-          "originalTitle": "",
-          "source": "酷安热榜",
-          "brand": "行业",
-          "type": "爆料",
-          "trust": "高关注爆料源",
-          "date": "2026-06-12",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://www.coolapk.com/feed/72286606",
-          "image": "",
-          "verdict": "扫一眼",
-          "takeaway": "一台上市快两年的机器还能看到 WiFi7 的标志，感觉也是很爽的，我手头这么多新机器，也只有 Mate80promax 可以看到 WiFi7 标，你们说这种小细节算不算情绪价值。",
-          "detail": "一台上市快两年的机器还能看到 WiFi7 的标志，感觉也是很爽的，我手头这么多新机器，也只有 Mate80promax 可以看到 WiFi7 标，你们说这种小细节算不算情绪价值。",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
-        {
           "id": "auto-35f6999b1450",
           "title": "Huawei 发布 / 上市相关消息",
           "originalTitle": "",
@@ -218,36 +195,6 @@ window.phoneRadarDaily = {
       ]
     },
     {
-      "id": "specs",
-      "title": "参数、跑分、认证",
-      "hint": "适合验证芯片、屏幕、影像和电池。",
-      "items": [
-        {
-          "id": "newsnow-96ff9efc9045",
-          "title": "第一次用米系手机，说实话有点失望，真就参数没输过体验没赢过",
-          "originalTitle": "",
-          "source": "酷安热榜",
-          "brand": "行业",
-          "type": "爆料",
-          "trust": "高关注爆料源",
-          "date": "2026-06-12",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://www.coolapk.com/feed/72292498",
-          "image": "",
-          "verdict": "扫一眼",
-          "takeaway": "第一次用米系手机，说实话有点失望，真就参数没输过体验没赢过",
-          "detail": "第一次用米系手机，说实话有点失望，真就参数没输过体验没赢过",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        }
-      ]
-    },
-    {
       "id": "market",
       "title": "行业趋势",
       "hint": "看方向，不急着当购买依据。",
@@ -291,6 +238,29 @@ window.phoneRadarDaily = {
           "verdict": "先看",
           "takeaway": "在华为店上班的第四年，感觉太累了，各种业绩压力，现在已经不是单纯的卖手机了，考核的东西太多，但是看到这个工资又不舍得走#酷工作#",
           "detail": "在华为店上班的第四年，感觉太累了，各种业绩压力，现在已经不是单纯的卖手机了，考核的东西太多，但是看到这个工资又不舍得走#酷工作#",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        },
+        {
+          "id": "newsnow-c0c26c6d1de9",
+          "title": "酷安安卓版的液态玻璃也快做完了，大家感受下效果，这下子iOS，鸿蒙，安卓都统一了[酷]",
+          "originalTitle": "",
+          "source": "酷安热榜",
+          "brand": "Huawei",
+          "type": "爆料",
+          "trust": "高关注爆料源",
+          "date": "2026-06-12",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://www.coolapk.com/feed/72306101",
+          "image": "",
+          "verdict": "先看",
+          "takeaway": "酷安安卓版的液态玻璃也快做完了，大家感受下效果，这下子iOS，鸿蒙，安卓都统一了[酷]",
+          "detail": "酷安安卓版的液态玻璃也快做完了，大家感受下效果，这下子iOS，鸿蒙，安卓都统一了[酷]",
           "keyPoints": [
             "爆料"
           ],
@@ -345,44 +315,21 @@ window.phoneRadarDaily = {
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         },
         {
-          "id": "newsnow-2168905cfe0f",
-          "title": "今天和爸爸妈妈谈到了外嫁的问题 达成了惊人的一致 其实我发现四川女生外嫁的很少 主要是我们大四川太好了呜呜呜呜呜 还好男朋友也是四川的嘻嘻 其实好奇你们男生会因为喜欢的女生 而去到她的城市生活吗？插句题外话 之前觉得17p和17pm摄像头太丑了 现在看习惯了 觉得这种手机壳好美丽！！ #酷安夜话#",
+          "id": "newsnow-33d590b8f8eb",
+          "title": "#鸿蒙7# #华为Mate80ProMax# #HDC2026#",
           "originalTitle": "",
           "source": "酷安热榜",
-          "brand": "行业",
+          "brand": "Huawei",
           "type": "爆料",
           "trust": "高关注爆料源",
           "date": "2026-06-12",
           "time": "",
           "publishedAt": "",
-          "url": "https://www.coolapk.com/feed/72277511",
+          "url": "https://www.coolapk.com/feed/72305399",
           "image": "",
           "verdict": "扫一眼",
-          "takeaway": "今天和爸爸妈妈谈到了外嫁的问题 达成了惊人的一致 其实我发现四川女生外嫁的很少 主要是我们大四川太好了呜呜呜呜呜 还好男朋友也是四川的嘻嘻 其实好奇你们男生会因为喜欢的女生 而去到她的城市生活吗？插句题外话 之前觉得17p和17pm摄像头太丑了 现在看习惯了 觉得这种手机壳好美丽！！ #酷安夜话#",
-          "detail": "今天和爸爸妈妈谈到了外嫁的问题 达成了惊人的一致 其实我发现四川女生外嫁的很少 主要是我们大四川太好了呜呜呜呜呜 还好男朋友也是四川的嘻嘻 其实好奇你们男生会因为喜欢的女生 而去到她的城市生活吗？插句题外话 之前觉得17p和17pm摄像头太丑了 现在看习惯了 觉得这种手机壳好美丽！！ #酷安夜话#",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
-        {
-          "id": "auto-fa4cdab56630",
-          "title": "Samsung 相关消息",
-          "originalTitle": "",
-          "source": "Android Police",
-          "brand": "Samsung",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-06-12",
-          "time": "17:41",
-          "publishedAt": "2026-06-12T17:41:31.000Z",
-          "url": "https://www.androidpolice.com/samsung-galaxy-s25-fe-aggressive-discount/",
-          "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2025/09/img_1894.jpg",
-          "verdict": "可略过",
-          "takeaway": "Samsung 相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
-          "detail": "Samsung 相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
+          "takeaway": "#鸿蒙7# #华为Mate80ProMax# #HDC2026#",
+          "detail": "#鸿蒙7# #华为Mate80ProMax# #HDC2026#",
           "keyPoints": [
             "爆料"
           ],
