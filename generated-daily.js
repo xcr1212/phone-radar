@@ -1,13 +1,13 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-06-12T15:39:34.767Z",
+  "updatedAt": "2026-06-12T18:19:39.217Z",
   "issueDate": "2026-06-12",
   "issue": "VOL.260612",
   "title": "手机情报日报",
-  "intro": "今日筛出 16 条重点，其中 4 条是重点爆料，包含 3 条 iPhone 相关、0 条官方确认、1 条参数线索。",
+  "intro": "今日筛出 15 条重点，其中 3 条是重点爆料，包含 2 条 iPhone 相关、0 条官方确认、1 条参数线索。",
   "stats": {
-    "total": 16,
-    "iphone": 3,
-    "leaks": 4,
+    "total": 15,
+    "iphone": 2,
+    "leaks": 3,
     "official": 0,
     "specs": 1
   },
@@ -17,29 +17,6 @@ window.phoneRadarDaily = {
       "title": "重点爆料",
       "hint": "机模、配色、影像、屏幕、电池和芯片线索先看。",
       "items": [
-        {
-          "id": "auto-8281a679c22a",
-          "title": "iPhone 芯片 / 性能相关消息",
-          "originalTitle": "",
-          "source": "MacRumors",
-          "brand": "iPhone",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-06-12",
-          "time": "14:40",
-          "publishedAt": "2026-06-12T14:40:00.000Z",
-          "url": "https://www.macrumors.com/2026/06/12/instagram-facebook-messenger-whatsapp-down-iphone/",
-          "image": "https://images.macrumors.com/article-new/2021/03/Instagram-Feature-2.jpg",
-          "verdict": "先看",
-          "takeaway": "iPhone 芯片 / 性能相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
-          "detail": "iPhone 芯片 / 性能相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
         {
           "id": "auto-96a7b2d17b4d",
           "title": "iPhone 价格 / 成本相关消息",
@@ -391,18 +368,18 @@ window.phoneRadarDaily = {
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         },
         {
-          "id": "auto-86da40acf368",
+          "id": "auto-fa4cdab56630",
           "title": "Samsung 相关消息",
           "originalTitle": "",
-          "source": "9to5Google",
+          "source": "Android Police",
           "brand": "Samsung",
           "type": "爆料",
           "trust": "媒体汇总",
           "date": "2026-06-12",
-          "time": "15:34",
-          "publishedAt": "2026-06-12T15:34:47.000Z",
-          "url": "https://9to5google.com/2026/06/12/deals-google-pixel-10-pro-galaxy-s26-windows-laptops/",
-          "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/06/9to5Google-Jun-12.webp?w=1600",
+          "time": "17:41",
+          "publishedAt": "2026-06-12T17:41:31.000Z",
+          "url": "https://www.androidpolice.com/samsung-galaxy-s25-fe-aggressive-discount/",
+          "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2025/09/img_1894.jpg",
           "verdict": "可略过",
           "takeaway": "Samsung 相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
           "detail": "Samsung 相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",

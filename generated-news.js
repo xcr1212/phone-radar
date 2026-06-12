@@ -1,6 +1,26 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-06-12T15:39:34.767Z",
+  "updatedAt": "2026-06-12T18:19:39.217Z",
   "news": [
+    {
+      "id": "auto-fa4cdab56630",
+      "title": "Samsung's Galaxy S25 FE is finally worth taking a look at thanks to this aggressive discount",
+      "source": "Android Police",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-12",
+      "time": "17:41",
+      "publishedAt": "2026-06-12T17:41:31.000Z",
+      "url": "https://www.androidpolice.com/samsung-galaxy-s25-fe-aggressive-discount/",
+      "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2025/09/img_1894.jpg",
+      "summary": "You won't want to miss this",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-86da40acf368",
       "title": "Deals: Google Pixel 10 Pro up to $420 off, 512GB Galaxy S26+ $400 off, up to $875 off Windows laptops/desktops, more",
@@ -37,26 +57,6 @@ window.phoneRadarAuto = {
       "summary": "IT之家 6 月 12 日消息，在今日的华为开发者大会 HDC 2026 上，华为常务董事、产品投资评审委员会主任、终端 BG 董事长余承东发布了新一代鸿蒙 HarmonyOS 7 操作系统，围绕互联、智能、安全、流畅、空间感五个维度进行升级，同时迈向智能体时代。 余承东在 HDC 2026 现场宣布， 鸿蒙 HarmonyOS 已成为中国第二大智能手机操…",
       "tags": [
         "Huawei",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-8281a679c22a",
-      "title": "Instagram and WhatsApp Down Today on iPhone",
-      "source": "MacRumors",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-12",
-      "time": "14:40",
-      "publishedAt": "2026-06-12T14:40:00.000Z",
-      "url": "https://www.macrumors.com/2026/06/12/instagram-facebook-messenger-whatsapp-down-iphone/",
-      "image": "https://images.macrumors.com/article-new/2021/03/Instagram-Feature-2.jpg",
-      "summary": "Meta platforms including Instagram, WhatsApp, Facebook, and Messenger are currently experiencing issues for some users around the world. Instagram, WhatsApp, Facebook, and Messeng…",
-      "tags": [
-        "iPhone",
         "爆料",
         "自动抓取"
       ]
@@ -115,26 +115,6 @@ window.phoneRadarAuto = {
       "url": "https://www.sammobile.com/news/galaxy-phones-soon-join-apple-icloud-shared-albums-iphone-mac/",
       "image": "",
       "summary": "Sharing information between Galaxy phones and iPhones used to be a huge hassle until a few years ago. Thankfully, Apple has gradually opened its walled garden to make file sharing…",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-59ebbf5bb93b",
-      "title": "The Motorola Edge (2026) steals the Samsung Galaxy S26's thunder, and the S27 is going to have to learn a thing or two",
-      "source": "Android Police",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-12",
-      "time": "12:15",
-      "publishedAt": "2026-06-12T12:15:41.000Z",
-      "url": "https://www.androidpolice.com/motorola-edge-2026-steals-samsung-galaxy-s26s-thunder-s27-must-learn-a-thing-or-two/",
-      "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2026/06/motorola-edge-2026-in-front-of-a-samsung-galaxy-s26-on-an-abstract-background.png",
-      "summary": "Moto's coming for the small-phone crown",
       "tags": [
         "Samsung",
         "爆料",
