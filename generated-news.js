@@ -1,6 +1,46 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-06-13T09:33:54.077Z",
+  "updatedAt": "2026-06-13T12:03:09.431Z",
   "news": [
+    {
+      "id": "auto-5180ff46eee6",
+      "title": "荣耀 Robot Phone 机器人手机上海电影节实拍画面公布，将于三季度上市",
+      "source": "IT之家",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-13",
+      "time": "10:39",
+      "publishedAt": "2026-06-13T10:39:37.000Z",
+      "url": "https://www.ithome.com/0/963/927.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/6/e5b3b16d-212e-486e-938d-da76a7716c04.jpg?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 6 月 13 日消息，荣耀手机官方今日发布了荣耀 Robot Phone 机器人手机的实拍画面，宣称为上影节评委团打造专属电影感大片。 官方还公布了上影节评委团官宣大片拍摄花絮。据介绍，该产品 融合了荣耀的移动影像以及阿莱 ARRI 的电影摄影技术 ，官方宣称“开启移动影像新篇章”。 荣耀机器人手机 Robot Phone 发布于今年 3 月，这…",
+      "tags": [
+        "HONOR",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-c1d820cee61c",
+      "title": "Mate 90 series launch month: Here’s when Huawei’s new flagship is coming",
+      "source": "Huawei Central",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-13",
+      "time": "09:58",
+      "publishedAt": "2026-06-13T09:58:20.000Z",
+      "url": "https://www.huaweicentral.com/huawei-mate-90-series-launch-month/",
+      "image": "https://www.huaweicentral.com/wp-content/uploads/2026/06/mate80-phones.jpg",
+      "summary": "Huawei’s new flagship Mate 90 smartphone series and companion models are coming this fall, and the launch month here is expected to be September rather than the November timeline…",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "coolapk-user-995997f4e785",
       "title": "竹本青：【消息称 iPhone 17系列 中国区销量已超3320万台】 6月13日，博主「RD观测」发布第三方统计数据：截…",
@@ -57,26 +97,6 @@ window.phoneRadarAuto = {
       "summary": "IT之家 6 月 13 日消息，一款型号为 23116PN5BC 的小米新机已通过电信设备进网许可。 从官方公布的参数来看，该机尺寸为 161.93×76.12×8.7 毫米，重量 223.7 克，配备一块 6.73 英寸显示屏，分辨率为 1440×3200 。 核心配置方面，该机搭载 8 核处理器，主频达到 3.3 GHz，提供 8GB 、 12GB 、…",
       "tags": [
         "Xiaomi",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-df716ed4e00b",
-      "title": "三星 Galaxy Z Fold8 Ultra 等 3 款折叠手机机模曝光",
-      "source": "IT之家",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-13",
-      "time": "05:41",
-      "publishedAt": "2026-06-13T05:41:06.000Z",
-      "url": "https://www.ithome.com/0/963/807.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/6/b4f3143a-97cd-4dfa-8744-f03152431c8d.png?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 6 月 13 日消息，消息源 @i冰宇宙 昨日（6 月 12 日）发布博文，分享了两张照片， 展示了三星 Galaxy Z Flip8、Galaxy Z Fold8、Galaxy Z Fold8 Ultra 三款折叠手机。 第一张图片通过贴膜展示，而第二张图片则展示了折叠手机本体，不过本次展示的可能只是机模或原型机。IT之家附上相关图片如下： 外…",
-      "tags": [
-        "Samsung",
         "爆料",
         "自动抓取"
       ]
@@ -217,26 +237,6 @@ window.phoneRadarAuto = {
       "summary": "买啥都不要买V手机，最后一部V 不能惯着厂商 ，少我一个用户无所谓 时间多了 大家都不支持了。我看你们蓝厂还能活多久 [弱][弱][弱][弱][弱] 丑恶的嘴脸 #vivoX300# #vivoX300Pro# #OriginOS6#",
       "tags": [
         "vivo",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-ce2c6d808c81",
-      "title": "鸿蒙成中国第二大智能手机操作系统",
-      "source": "今日头条热榜",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-13",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.toutiao.com/trending/7649891185179557929/",
-      "image": "",
-      "summary": "鸿蒙成中国第二大智能手机操作系统",
-      "tags": [
-        "Huawei",
         "爆料",
         "NewsNow"
       ]

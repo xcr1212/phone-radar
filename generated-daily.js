@@ -1,11 +1,11 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-06-13T09:33:54.077Z",
+  "updatedAt": "2026-06-13T12:03:09.431Z",
   "issueDate": "2026-06-13",
   "issue": "VOL.260613",
   "title": "手机情报日报",
-  "intro": "今日筛出 11 条重点，其中 4 条是重点爆料，包含 1 条 iPhone 相关、0 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 12 条重点，其中 4 条是重点爆料，包含 1 条 iPhone 相关、0 条官方确认、0 条参数线索。",
   "stats": {
-    "total": 11,
+    "total": 12,
     "iphone": 1,
     "leaks": 4,
     "official": 0,
@@ -41,23 +41,23 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
-          "id": "auto-df716ed4e00b",
-          "title": "三星 Galaxy Z Fold8 Ultra 等 3 款折叠手机机模曝光",
+          "id": "auto-5180ff46eee6",
+          "title": "荣耀 Robot Phone 机器人手机上海电影节实拍画面公布，将于三季度上市",
           "originalTitle": "",
           "source": "IT之家",
-          "brand": "Samsung",
+          "brand": "HONOR",
           "type": "爆料",
           "trust": "媒体汇总",
           "date": "2026-06-13",
-          "time": "05:41",
-          "publishedAt": "2026-06-13T05:41:06.000Z",
-          "url": "https://www.ithome.com/0/963/807.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/6/b4f3143a-97cd-4dfa-8744-f03152431c8d.png?x-bce-process=image/format,f_auto",
+          "time": "10:39",
+          "publishedAt": "2026-06-13T10:39:37.000Z",
+          "url": "https://www.ithome.com/0/963/927.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/6/e5b3b16d-212e-486e-938d-da76a7716c04.jpg?x-bce-process=image/format,f_auto",
           "verdict": "先看",
-          "takeaway": "IT之家 6 月 13 日消息，消息源 @i冰宇宙 昨日（6 月 12 日）发布博文，分享了两张照片， 展示了三星 Galaxy Z Flip8、Galaxy Z Fold8、Galaxy Z Fold8 Ultra 三款折叠手机。 第一张图片通过贴膜展示，而第二张图片则展示了折叠手机本体，不过本次展示的可能只是机模或原型机。IT之家附上相关图片如下： 外…",
-          "detail": "IT之家 6 月 13 日消息，消息源 @i冰宇宙 昨日（6 月 12 日）发布博文，分享了两张照片， 展示了三星 Galaxy Z Flip8、Galaxy Z Fold8、Galaxy Z Fold8 Ultra 三款折叠手机。 第一张图片通过贴膜展示，而第二张图片则展示了折叠手机本体，不过本次展示的可能只是机模或原型机。IT之家附上相关图片如下： 外…",
+          "takeaway": "IT之家 6 月 13 日消息，荣耀手机官方今日发布了荣耀 Robot Phone 机器人手机的实拍画面，宣称为上影节评委团打造专属电影感大片。 官方还公布了上影节评委团官宣大片拍摄花絮。据介绍，该产品 融合了荣耀的移动影像以及阿莱 ARRI 的电影摄影技术 ，官方宣称“开启移动影像新篇章”。 荣耀机器人手机 Robot Phone 发布于今年 3 月，这…",
+          "detail": "IT之家 6 月 13 日消息，荣耀手机官方今日发布了荣耀 Robot Phone 机器人手机的实拍画面，宣称为上影节评委团打造专属电影感大片。 官方还公布了上影节评委团官宣大片拍摄花絮。据介绍，该产品 融合了荣耀的移动影像以及阿莱 ARRI 的电影摄影技术 ，官方宣称“开启移动影像新篇章”。 荣耀机器人手机 Robot Phone 发布于今年 3 月，这…",
           "keyPoints": [
-            "外观 / 配色 / 尺寸"
+            "影像硬件"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
@@ -119,6 +119,29 @@ window.phoneRadarDaily = {
       "title": "新机与官方发布",
       "hint": "能直接更新到参数库。",
       "items": [
+        {
+          "id": "auto-c1d820cee61c",
+          "title": "Huawei 发布 / 上市相关消息",
+          "originalTitle": "",
+          "source": "Huawei Central",
+          "brand": "Huawei",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-06-13",
+          "time": "09:58",
+          "publishedAt": "2026-06-13T09:58:20.000Z",
+          "url": "https://www.huaweicentral.com/huawei-mate-90-series-launch-month/",
+          "image": "https://www.huaweicentral.com/wp-content/uploads/2026/06/mate80-phones.jpg",
+          "verdict": "可略过",
+          "takeaway": "Huawei 有发布或新功能消息，适合确认是否和新机有关。",
+          "detail": "Huawei 发布 / 上市相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        },
         {
           "id": "auto-ca644b9154a7",
           "title": "Galaxy S25 Edge 系统功能 / AI 体验相关消息",
