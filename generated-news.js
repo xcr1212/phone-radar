@@ -1,6 +1,86 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-06-13T14:24:58.889Z",
+  "updatedAt": "2026-06-13T17:45:15.306Z",
   "news": [
+    {
+      "id": "auto-99d146e3b1af",
+      "title": "Xiaomi 18 shows up in the IMEI database months before launch",
+      "source": "Gizmochina",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-13",
+      "time": "17:24",
+      "publishedAt": "2026-06-13T17:24:41.000Z",
+      "url": "https://www.gizmochina.com/2026/06/13/xiaomi-18-gsma-database-codename-madrid%ee%81%96%ee%80%bb%ee%83%81%ee%83%bb%ee%83%b9%ee%84%9d/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2025/09/Xiaomi-17-Pro-Max-Review_1.mp4_20250930_164941.855-300x150.jpg?x44794",
+      "summary": "The Xiaomi 18 series has been making headlines in the rumor mill for quite some time now. And today, the vanilla Xiaomi 18 has its first indication of existence, thanks to a new l…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-8ebba41e32e2",
+      "title": "Xiaomi is giving the Xiaomi 14 Pro a battery upgrade, but only in one country",
+      "source": "Gizmochina",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-13",
+      "time": "16:57",
+      "publishedAt": "2026-06-13T16:57:22.000Z",
+      "url": "https://www.gizmochina.com/2026/06/13/xiaomi-14-pro-battery-upgrade-service-china/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2023/10/Xiaomi-14-Pro-Titanium-Special-Edition-300x169.jpg?x44794",
+      "summary": "Xiaomi‘s battery upgrade program, which recently launched for the Xiaomi 13 series, could be coming to the Xiaomi 14 lineup next. A new network access certification has hinted at…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-7d8ea5b7b049",
+      "title": "Huawei Mate 90 series can bring five models including fan edition",
+      "source": "Huawei Central",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-13",
+      "time": "16:55",
+      "publishedAt": "2026-06-13T16:55:36.000Z",
+      "url": "https://www.huaweicentral.com/huawei-mate-90-series-can-bring-five-models-including-fan-edition/",
+      "image": "https://www.huaweicentral.com/wp-content/uploads/2026/03/huawei-mate-80-pro-max-wind-edition-img1.jpg",
+      "summary": "Huawei Mate 90 series could bring not four but up to five models together this year, including a fan version. While a similar move was expected last year, the company unveiled the…",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-348b523fd27f",
+      "title": "Should you wait for the Samsung Galaxy Z Fold 8?",
+      "source": "Android Central",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-06-13",
+      "time": "16:35",
+      "publishedAt": "2026-06-13T16:35:14.000Z",
+      "url": "https://www.androidcentral.com/phones/samsung-galaxy/should-you-wait-for-the-samsung-galaxy-z-fold-8",
+      "image": "https://cdn.mos.cms.futurecdn.net/xHJPowMRYVZ4CQudNDdf8e-1280-80.jpg",
+      "summary": "Leaks and rumors are pointing to another exciting year for Samsung's Galaxy Z Fold series, and the Z Fold 8 may just change things up in one of the biggest ways yet.",
+      "tags": [
+        "Samsung",
+        "评测",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-010bf1824a36",
       "title": "消息称三星首款“阔折叠”智能手机 UTG 玻璃盖板更厚：折痕可更浅",
@@ -14,7 +94,7 @@ window.phoneRadarAuto = {
       "publishedAt": "2026-06-13T14:18:41.000Z",
       "url": "https://www.ithome.com/0/963/979.htm",
       "image": "https://img.ithome.com/newsuploadfiles/2026/6/dd50479d-3d70-4090-a4fe-23839dccdc7d.jpg?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 6 月 13 日消息，据韩媒 ZDNET Korea 当地时间昨日消息，三星电子已将其预计 2026H2 推出的首款“阔折叠”形态智能手机的 OLED 屏幕 UTG 玻璃盖板厚度从此前尝试的 30μm 上调至 60μm。 IT之家了解到，更大的 UTG 玻璃厚度 有利于实现更浅折痕 ，同时 提升抗外部冲击能力 ；不过与此对应的， 折叠时破裂的风险…",
+      "summary": "IT之家 6 月 13 日消息，据韩媒 ZDNET Korea 当地时间昨日消息，三星电子已将其预计 2026H2 推出的首款“阔折叠”形态智能手机 （IT之家注：可能被称为 Galaxy Z Fold8 或 Galaxy Z Fold8 Wide） 的 OLED 屏幕 UTG 玻璃盖板厚度从此前尝试的 30μm 上调至 60μm。 IT之家了解到，更大的…",
       "tags": [
         "Samsung",
         "爆料",
@@ -23,7 +103,7 @@ window.phoneRadarAuto = {
     },
     {
       "id": "coolapk-user-9b500c9aa151",
-      "title": "竹本青：【荣耀李健：张雪机车820已进驻更多线下门店】 今日晚间，WSBK艾米利亚-罗马涅站第一回合正赛，张雪机车53号车…",
+      "title": "竹本青：【李健：张雪820已进驻更多荣耀线下门店】 今天晚间，WSBK艾米利亚-罗马涅站第一回合正赛，张雪机车53号车手…",
       "source": "竹本青",
       "brand": "HONOR",
       "model": "HONOR 相关机型",
@@ -34,7 +114,7 @@ window.phoneRadarAuto = {
       "publishedAt": "2026-06-13T12:50:56.000Z",
       "url": "https://www.coolapk.com/feed/72325795",
       "image": "http://image.coolapk.com/feed/2026/0613/20/4248714_f10e0105_5253_8521_394@2000x3555.jpg",
-      "summary": "【荣耀李健：张雪机车820已进驻更多线下门店】 今日晚间，WSBK艾米利亚-罗马涅站第一回合正赛，张雪机车53号车手 瓦伦丁·德比斯 再次夺冠登上领奖台。 赛后，荣耀公司CEO李健宣布，张雪机车820已进驻到了更多的荣耀线下门店。 #今日热点# #MagicOS10# #张雪机车#",
+      "summary": "【李健：张雪820已进驻更多荣耀线下门店】 今天晚间，WSBK艾米利亚-罗马涅站第一回合正赛，张雪机车53号车手 瓦伦丁·德比斯 再次夺冠登上领奖台。 赛后，荣耀公司CEO李健宣布，张雪820机车已进驻到了更多的荣耀线下门店。 #今日热点# #MagicOS10# #张雪机车#",
       "tags": [
         "HONOR",
         "爆料",
@@ -262,6 +342,26 @@ window.phoneRadarAuto = {
       ]
     },
     {
+      "id": "newsnow-9f3fcf13d333",
+      "title": "刚才看到有人说K90PM屏幕差，要不是我手机多我真信了，买了K90PM的谁在说你屏幕差，把我图摔他脸上K90PM的屏幕不算顶级也算很优秀的屏幕了，我说的[二哈盯]",
+      "source": "酷安热榜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-06-13",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/72324240",
+      "image": "",
+      "summary": "刚才看到有人说K90PM屏幕差，要不是我手机多我真信了，买了K90PM的谁在说你屏幕差，把我图摔他脸上K90PM的屏幕不算顶级也算很优秀的屏幕了，我说的[二哈盯]",
+      "tags": [
+        "行业",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
       "id": "newsnow-8546494d978d",
       "title": "买啥都不要买V手机，最后一部V 不能惯着厂商 ，少我一个用户无所谓 时间多了 大家都不支持了。我看你们蓝厂还能活多久 [弱][弱][弱][弱][弱] 丑恶的嘴脸 #vivoX300# #vivoX300Pro# #OriginOS6#",
       "source": "酷安热榜",
@@ -337,26 +437,6 @@ window.phoneRadarAuto = {
       "summary": "Sharing information between Galaxy phones and iPhones used to be a huge hassle until a few years ago. Thankfully, Apple has gradually opened its walled garden to make file sharing…",
       "tags": [
         "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-b5dad900cdf7",
-      "title": "HarmonyOS has become 2nd largest smartphone OS in China: Huawei",
-      "source": "Huawei Central",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-12",
-      "time": "11:26",
-      "publishedAt": "2026-06-12T11:26:07.000Z",
-      "url": "https://www.huaweicentral.com/harmonyos-has-become-2nd-largest-smartphone-os/",
-      "image": "https://www.huaweicentral.com/wp-content/uploads/2026/06/HarmonyOS-7.0.jpg",
-      "summary": "During the first day of the HDC 2026 event, Huawei said that HarmonyOS has become the 2nd-largest smartphone OS in China. While Android and iOS have been ruling the mobile operati…",
-      "tags": [
-        "Huawei",
         "爆料",
         "自动抓取"
       ]

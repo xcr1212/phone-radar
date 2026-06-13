@@ -1,13 +1,13 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-06-13T14:24:58.889Z",
+  "updatedAt": "2026-06-13T17:45:15.306Z",
   "issueDate": "2026-06-13",
   "issue": "VOL.260613",
   "title": "手机情报日报",
-  "intro": "今日筛出 13 条重点，其中 4 条是重点爆料，包含 1 条 iPhone 相关、0 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 17 条重点，其中 7 条是重点爆料，包含 1 条 iPhone 相关、0 条官方确认、0 条参数线索。",
   "stats": {
-    "total": 13,
+    "total": 17,
     "iphone": 1,
-    "leaks": 4,
+    "leaks": 7,
     "official": 0,
     "specs": 0
   },
@@ -54,8 +54,8 @@ window.phoneRadarDaily = {
           "url": "https://www.ithome.com/0/963/979.htm",
           "image": "https://img.ithome.com/newsuploadfiles/2026/6/dd50479d-3d70-4090-a4fe-23839dccdc7d.jpg?x-bce-process=image/format,f_auto",
           "verdict": "先看",
-          "takeaway": "IT之家 6 月 13 日消息，据韩媒 ZDNET Korea 当地时间昨日消息，三星电子已将其预计 2026H2 推出的首款“阔折叠”形态智能手机的 OLED 屏幕 UTG 玻璃盖板厚度从此前尝试的 30μm 上调至 60μm。 IT之家了解到，更大的 UTG 玻璃厚度 有利于实现更浅折痕 ，同时 提升抗外部冲击能力 ；不过与此对应的， 折叠时破裂的风险…",
-          "detail": "IT之家 6 月 13 日消息，据韩媒 ZDNET Korea 当地时间昨日消息，三星电子已将其预计 2026H2 推出的首款“阔折叠”形态智能手机的 OLED 屏幕 UTG 玻璃盖板厚度从此前尝试的 30μm 上调至 60μm。 IT之家了解到，更大的 UTG 玻璃厚度 有利于实现更浅折痕 ，同时 提升抗外部冲击能力 ；不过与此对应的， 折叠时破裂的风险…",
+          "takeaway": "IT之家 6 月 13 日消息，据韩媒 ZDNET Korea 当地时间昨日消息，三星电子已将其预计 2026H2 推出的首款“阔折叠”形态智能手机 （IT之家注：可能被称为 Galaxy Z Fold8 或 Galaxy Z Fold8 Wide） 的 OLED 屏幕 UTG 玻璃盖板厚度从此前尝试的 30μm 上调至 60μm。 IT之家了解到，更大的…",
+          "detail": "IT之家 6 月 13 日消息，据韩媒 ZDNET Korea 当地时间昨日消息，三星电子已将其预计 2026H2 推出的首款“阔折叠”形态智能手机 （IT之家注：可能被称为 Galaxy Z Fold8 或 Galaxy Z Fold8 Wide） 的 OLED 屏幕 UTG 玻璃盖板厚度从此前尝试的 30μm 上调至 60μm。 IT之家了解到，更大的…",
           "keyPoints": [
             "屏幕形态",
             "爆料来源"
@@ -110,6 +110,75 @@ window.phoneRadarDaily = {
           "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "newsnow-9f3fcf13d333",
+          "title": "刚才看到有人说K90PM屏幕差，要不是我手机多我真信了，买了K90PM的谁在说你屏幕差，把我图摔他脸上K90PM的屏幕不算顶级也算很优秀的屏幕了，我说的[二哈盯]",
+          "originalTitle": "",
+          "source": "酷安热榜",
+          "brand": "行业",
+          "type": "爆料",
+          "trust": "高关注爆料源",
+          "date": "2026-06-13",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://www.coolapk.com/feed/72324240",
+          "image": "",
+          "verdict": "先看",
+          "takeaway": "刚才看到有人说K90PM屏幕差，要不是我手机多我真信了，买了K90PM的谁在说你屏幕差，把我图摔他脸上K90PM的屏幕不算顶级也算很优秀的屏幕了，我说的[二哈盯]",
+          "detail": "刚才看到有人说K90PM屏幕差，要不是我手机多我真信了，买了K90PM的谁在说你屏幕差，把我图摔他脸上K90PM的屏幕不算顶级也算很优秀的屏幕了，我说的[二哈盯]",
+          "keyPoints": [
+            "屏幕形态"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "auto-99d146e3b1af",
+          "title": "Xiaomi 发布 / 上市相关消息",
+          "originalTitle": "",
+          "source": "Gizmochina",
+          "brand": "Xiaomi",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-06-13",
+          "time": "17:24",
+          "publishedAt": "2026-06-13T17:24:41.000Z",
+          "url": "https://www.gizmochina.com/2026/06/13/xiaomi-18-gsma-database-codename-madrid%ee%81%96%ee%80%bb%ee%83%81%ee%83%bb%ee%83%b9%ee%84%9d/",
+          "image": "https://www.gizmochina.com/wp-content/uploads/2025/09/Xiaomi-17-Pro-Max-Review_1.mp4_20250930_164941.855-300x150.jpg?x44794",
+          "verdict": "先看",
+          "takeaway": "Xiaomi 有发布或新功能消息，适合确认是否和新机有关。",
+          "detail": "Xiaomi 发布 / 上市相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
+          "keyPoints": [
+            "爆料来源"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "auto-348b523fd27f",
+          "title": "Samsung 折叠屏相关消息",
+          "originalTitle": "",
+          "source": "Android Central",
+          "brand": "Samsung",
+          "type": "评测",
+          "trust": "媒体汇总",
+          "date": "2026-06-13",
+          "time": "16:35",
+          "publishedAt": "2026-06-13T16:35:14.000Z",
+          "url": "https://www.androidcentral.com/phones/samsung-galaxy/should-you-wait-for-the-samsung-galaxy-z-fold-8",
+          "image": "https://cdn.mos.cms.futurecdn.net/xHJPowMRYVZ4CQudNDdf8e-1280-80.jpg",
+          "verdict": "先看",
+          "takeaway": "Samsung 有系统功能或 AI 体验更新，适合关注后续是否影响日常使用。",
+          "detail": "Samsung 折叠屏相关消息。重点看折痕、铰链、厚度、屏幕可靠性和重量是否有实质改善。",
+          "keyPoints": [
+            "爆料来源"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         }
       ]
     },
@@ -140,6 +209,29 @@ window.phoneRadarDaily = {
           "confidence": "可信度较高，但仍属于发布前线索。",
           "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        },
+        {
+          "id": "auto-8ebba41e32e2",
+          "title": "Xiaomi 电池 / 充电相关消息",
+          "originalTitle": "",
+          "source": "Gizmochina",
+          "brand": "Xiaomi",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-06-13",
+          "time": "16:57",
+          "publishedAt": "2026-06-13T16:57:22.000Z",
+          "url": "https://www.gizmochina.com/2026/06/13/xiaomi-14-pro-battery-upgrade-service-china/",
+          "image": "https://www.gizmochina.com/wp-content/uploads/2023/10/Xiaomi-14-Pro-Titanium-Special-Edition-300x169.jpg?x44794",
+          "verdict": "可略过",
+          "takeaway": "Xiaomi 电池 / 充电相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
+          "detail": "Xiaomi 电池 / 充电相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
+          "keyPoints": [
+            "电池 / 充电"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "影响日常体验，尤其是游戏、拍照和长时间使用。",
+          "action": "有具体参数就记录到参数库；没有参数就先收藏。"
         },
         {
           "id": "auto-c1d820cee61c",
