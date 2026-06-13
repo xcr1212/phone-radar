@@ -1,12 +1,12 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-06-13T17:45:15.306Z",
+  "updatedAt": "2026-06-13T19:54:00.109Z",
   "issueDate": "2026-06-13",
   "issue": "VOL.260613",
   "title": "手机情报日报",
-  "intro": "今日筛出 17 条重点，其中 7 条是重点爆料，包含 1 条 iPhone 相关、0 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 18 条重点，其中 7 条是重点爆料，包含 2 条 iPhone 相关、0 条官方确认、0 条参数线索。",
   "stats": {
-    "total": 17,
-    "iphone": 1,
+    "total": 18,
+    "iphone": 2,
     "leaks": 7,
     "official": 0,
     "specs": 0
@@ -88,6 +88,30 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
+          "id": "newsnow-020ddfba0207",
+          "title": "一加15T这块屏幕是最垃圾的天马屏幕之一，OPPO降低成本极致的产物。从我手上随便挑几台手机对比吧。",
+          "originalTitle": "",
+          "source": "酷安热榜",
+          "brand": "OPPO",
+          "type": "爆料",
+          "trust": "高关注爆料源",
+          "date": "2026-06-13",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://www.coolapk.com/feed/72322259",
+          "image": "",
+          "verdict": "先看",
+          "takeaway": "一加15T这块屏幕是最垃圾的天马屏幕之一，OPPO降低成本极致的产物。从我手上随便挑几台手机对比吧。",
+          "detail": "一加15T这块屏幕是最垃圾的天马屏幕之一，OPPO降低成本极致的产物。从我手上随便挑几台手机对比吧。",
+          "keyPoints": [
+            "屏幕形态",
+            "成本 / 价格"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
           "id": "coolapk-user-6b4899893bee",
           "title": "竹本青：【消息称 REDMI K100 开测10000mAh电池】 6月13日，博主数码闲聊站爆料，REDMI K100系…",
           "originalTitle": "",
@@ -108,29 +132,6 @@ window.phoneRadarDaily = {
             "爆料来源"
           ],
           "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "newsnow-9f3fcf13d333",
-          "title": "刚才看到有人说K90PM屏幕差，要不是我手机多我真信了，买了K90PM的谁在说你屏幕差，把我图摔他脸上K90PM的屏幕不算顶级也算很优秀的屏幕了，我说的[二哈盯]",
-          "originalTitle": "",
-          "source": "酷安热榜",
-          "brand": "行业",
-          "type": "爆料",
-          "trust": "高关注爆料源",
-          "date": "2026-06-13",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://www.coolapk.com/feed/72324240",
-          "image": "",
-          "verdict": "先看",
-          "takeaway": "刚才看到有人说K90PM屏幕差，要不是我手机多我真信了，买了K90PM的谁在说你屏幕差，把我图摔他脸上K90PM的屏幕不算顶级也算很优秀的屏幕了，我说的[二哈盯]",
-          "detail": "刚才看到有人说K90PM屏幕差，要不是我手机多我真信了，买了K90PM的谁在说你屏幕差，把我图摔他脸上K90PM的屏幕不算顶级也算很优秀的屏幕了，我说的[二哈盯]",
-          "keyPoints": [
-            "屏幕形态"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
@@ -179,6 +180,36 @@ window.phoneRadarDaily = {
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        }
+      ]
+    },
+    {
+      "id": "iphone",
+      "title": "iPhone 重点",
+      "hint": "不是硬件爆料，但和 iPhone 体验或路线有关。",
+      "items": [
+        {
+          "id": "auto-d95663882522",
+          "title": "iPhone 电池 / 充电相关消息",
+          "originalTitle": "",
+          "source": "9to5Mac",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-06-13",
+          "time": "18:15",
+          "publishedAt": "2026-06-13T18:15:00.000Z",
+          "url": "https://9to5mac.com/2026/06/13/belkin-ultracharge-pro-10000mah-magsafe-battery-hands-on/",
+          "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/Belkin-10k.jpg?quality=82&strip=all&w=1600",
+          "verdict": "扫一眼",
+          "takeaway": "iPhone 电池 / 充电相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
+          "detail": "iPhone 电池 / 充电相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
+          "keyPoints": [
+            "电池 / 充电"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "影响日常体验，尤其是游戏、拍照和长时间使用。",
+          "action": "有具体参数就记录到参数库；没有参数就先收藏。"
         }
       ]
     },
@@ -287,6 +318,52 @@ window.phoneRadarDaily = {
       "hint": "看方向，不急着当购买依据。",
       "items": [
         {
+          "id": "newsnow-705007a1b5b0",
+          "title": "Xiaomi 相关消息",
+          "originalTitle": "",
+          "source": "酷安热榜",
+          "brand": "Xiaomi",
+          "type": "爆料",
+          "trust": "高关注爆料源",
+          "date": "2026-06-13",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://www.coolapk.com/feed/72320884",
+          "image": "",
+          "verdict": "先看",
+          "takeaway": "Xiaomi 相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
+          "detail": "Xiaomi 相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        },
+        {
+          "id": "newsnow-8582989e2794",
+          "title": "#我在酷安晒女友# #华为鸿蒙# #iPhone17ProMax# 1000天纪念日｜见证我们的双向奔赴💕",
+          "originalTitle": "",
+          "source": "酷安热榜",
+          "brand": "Huawei",
+          "type": "爆料",
+          "trust": "高关注爆料源",
+          "date": "2026-06-13",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://www.coolapk.com/feed/72328886",
+          "image": "",
+          "verdict": "先看",
+          "takeaway": "#我在酷安晒女友# #华为鸿蒙# #iPhone17ProMax# 1000天纪念日｜见证我们的双向奔赴💕",
+          "detail": "#我在酷安晒女友# #华为鸿蒙# #iPhone17ProMax# 1000天纪念日｜见证我们的双向奔赴💕",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        },
+        {
           "id": "newsnow-37defbc3dafd",
           "title": "余承东：鸿蒙已成为中国第二大智能手机系统",
           "originalTitle": "",
@@ -302,52 +379,6 @@ window.phoneRadarDaily = {
           "verdict": "先看",
           "takeaway": "余承东：鸿蒙已成为中国第二大智能手机系统",
           "detail": "余承东：鸿蒙已成为中国第二大智能手机系统",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
-        {
-          "id": "newsnow-3008f6c7fe70",
-          "title": "在华为店上班的第四年，感觉太累了，各种业绩压力，现在已经不是单纯的卖手机了，考核的东西太多，但是看到这个工资又不舍得走#酷工作#",
-          "originalTitle": "",
-          "source": "酷安热榜",
-          "brand": "Huawei",
-          "type": "爆料",
-          "trust": "高关注爆料源",
-          "date": "2026-06-13",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://www.coolapk.com/feed/72287272",
-          "image": "",
-          "verdict": "先看",
-          "takeaway": "在华为店上班的第四年，感觉太累了，各种业绩压力，现在已经不是单纯的卖手机了，考核的东西太多，但是看到这个工资又不舍得走#酷工作#",
-          "detail": "在华为店上班的第四年，感觉太累了，各种业绩压力，现在已经不是单纯的卖手机了，考核的东西太多，但是看到这个工资又不舍得走#酷工作#",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
-        {
-          "id": "newsnow-8546494d978d",
-          "title": "买啥都不要买V手机，最后一部V 不能惯着厂商 ，少我一个用户无所谓 时间多了 大家都不支持了。我看你们蓝厂还能活多久 [弱][弱][弱][弱][弱] 丑恶的嘴脸 #vivoX300# #vivoX300Pro# #OriginOS6#",
-          "originalTitle": "",
-          "source": "酷安热榜",
-          "brand": "vivo",
-          "type": "爆料",
-          "trust": "高关注爆料源",
-          "date": "2026-06-13",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://www.coolapk.com/feed/72284543",
-          "image": "",
-          "verdict": "先看",
-          "takeaway": "买啥都不要买V手机，最后一部V 不能惯着厂商 ，少我一个用户无所谓 时间多了 大家都不支持了。我看你们蓝厂还能活多久 [弱][弱][弱][弱][弱] 丑恶的嘴脸 #vivoX300# #vivoX300Pro# #OriginOS6#",
-          "detail": "买啥都不要买V手机，最后一部V 不能惯着厂商 ，少我一个用户无所谓 时间多了 大家都不支持了。我看你们蓝厂还能活多久 [弱][弱][弱][弱][弱] 丑恶的嘴脸 #vivoX300# #vivoX300Pro# #OriginOS6#",
           "keyPoints": [
             "爆料"
           ],
@@ -379,6 +410,29 @@ window.phoneRadarDaily = {
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         },
         {
+          "id": "newsnow-aa990f50f777",
+          "title": "我错了，我以为能适应小厂的系统，结果两天就撑不住了，这手机哪里都好，就是系统烂，除了性能释放强，其余的都烂得不行，这玩意儿比澎湃还毒，小厂之所以是小厂还是有原因的，再也不碰了，还是换回K90了[流汗滑稽] #努比亚Z80Ultra#",
+          "originalTitle": "",
+          "source": "酷安热榜",
+          "brand": "行业",
+          "type": "爆料",
+          "trust": "高关注爆料源",
+          "date": "2026-06-13",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://www.coolapk.com/feed/72311431",
+          "image": "",
+          "verdict": "扫一眼",
+          "takeaway": "我错了，我以为能适应小厂的系统，结果两天就撑不住了，这手机哪里都好，就是系统烂，除了性能释放强，其余的都烂得不行，这玩意儿比澎湃还毒，小厂之所以是小厂还是有原因的，再也不碰了，还是换回K90了[流汗滑稽] #努比亚Z80Ultra#",
+          "detail": "我错了，我以为能适应小厂的系统，结果两天就撑不住了，这手机哪里都好，就是系统烂，除了性能释放强，其余的都烂得不行，这玩意儿比澎湃还毒，小厂之所以是小厂还是有原因的，再也不碰了，还是换回K90了[流汗滑稽] #努比亚Z80Ultra#",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "影响性能和寿命判断，适合放进参数库。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        },
+        {
           "id": "newsnow-060c7b62dd00",
           "title": "各位老哥好，本人刚高考完，想要更新手机，目前使用红米k40，目前偏向于gt8p这种水桶机",
           "originalTitle": "",
@@ -394,29 +448,6 @@ window.phoneRadarDaily = {
           "verdict": "扫一眼",
           "takeaway": "各位老哥好，本人刚高考完，想要更新手机，目前使用红米k40，目前偏向于gt8p这种水桶机",
           "detail": "各位老哥好，本人刚高考完，想要更新手机，目前使用红米k40，目前偏向于gt8p这种水桶机",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
-        {
-          "id": "newsnow-72fe68e706d1",
-          "title": "#鸿蒙7# #华为Mate80ProMax# #HDC2026#",
-          "originalTitle": "",
-          "source": "酷安热榜",
-          "brand": "Huawei",
-          "type": "爆料",
-          "trust": "高关注爆料源",
-          "date": "2026-06-13",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://www.coolapk.com/feed/72305399",
-          "image": "",
-          "verdict": "扫一眼",
-          "takeaway": "#鸿蒙7# #华为Mate80ProMax# #HDC2026#",
-          "detail": "#鸿蒙7# #华为Mate80ProMax# #HDC2026#",
           "keyPoints": [
             "爆料"
           ],
