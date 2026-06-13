@@ -1,5 +1,5 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-06-13T19:54:00.109Z",
+  "updatedAt": "2026-06-13T21:37:45.511Z",
   "news": [
     {
       "id": "auto-d95663882522",
@@ -302,26 +302,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-060c7b62dd00",
-      "title": "各位老哥好，本人刚高考完，想要更新手机，目前使用红米k40，目前偏向于gt8p这种水桶机",
-      "source": "酷安热榜",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-06-13",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72310871",
-      "image": "",
-      "summary": "各位老哥好，本人刚高考完，想要更新手机，目前使用红米k40，目前偏向于gt8p这种水桶机",
-      "tags": [
-        "行业",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
       "id": "newsnow-8582989e2794",
       "title": "#我在酷安晒女友# #华为鸿蒙# #iPhone17ProMax# 1000天纪念日｜见证我们的双向奔赴💕",
       "source": "酷安热榜",
@@ -342,6 +322,26 @@ window.phoneRadarAuto = {
       ]
     },
     {
+      "id": "newsnow-060c7b62dd00",
+      "title": "各位老哥好，本人刚高考完，想要更新手机，目前使用红米k40，目前偏向于gt8p这种水桶机",
+      "source": "酷安热榜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-06-13",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/72310871",
+      "image": "",
+      "summary": "各位老哥好，本人刚高考完，想要更新手机，目前使用红米k40，目前偏向于gt8p这种水桶机",
+      "tags": [
+        "行业",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
       "id": "newsnow-020ddfba0207",
       "title": "一加15T这块屏幕是最垃圾的天马屏幕之一，OPPO降低成本极致的产物。从我手上随便挑几台手机对比吧。",
       "source": "酷安热榜",
@@ -357,26 +357,6 @@ window.phoneRadarAuto = {
       "summary": "一加15T这块屏幕是最垃圾的天马屏幕之一，OPPO降低成本极致的产物。从我手上随便挑几台手机对比吧。",
       "tags": [
         "OPPO",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-37defbc3dafd",
-      "title": "余承东：鸿蒙已成为中国第二大智能手机系统",
-      "source": "酷安热榜",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-06-13",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72303282",
-      "image": "",
-      "summary": "余承东：鸿蒙已成为中国第二大智能手机系统",
-      "tags": [
-        "Huawei",
         "爆料",
         "NewsNow"
       ]

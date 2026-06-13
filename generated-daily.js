@@ -1,5 +1,5 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-06-13T19:54:00.109Z",
+  "updatedAt": "2026-06-13T21:37:45.511Z",
   "issueDate": "2026-06-13",
   "issue": "VOL.260613",
   "title": "手机情报日报",
@@ -364,29 +364,6 @@ window.phoneRadarDaily = {
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         },
         {
-          "id": "newsnow-37defbc3dafd",
-          "title": "余承东：鸿蒙已成为中国第二大智能手机系统",
-          "originalTitle": "",
-          "source": "酷安热榜",
-          "brand": "Huawei",
-          "type": "爆料",
-          "trust": "高关注爆料源",
-          "date": "2026-06-13",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://www.coolapk.com/feed/72303282",
-          "image": "",
-          "verdict": "先看",
-          "takeaway": "余承东：鸿蒙已成为中国第二大智能手机系统",
-          "detail": "余承东：鸿蒙已成为中国第二大智能手机系统",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
-        {
           "id": "coolapk-user-1c5cd7b074f5",
           "title": "JSCHEN小小狐：荣耀 X 系列用户突破 1.3 亿，X80 Pro Max 即将登场",
           "originalTitle": "",
@@ -452,6 +429,29 @@ window.phoneRadarDaily = {
             "爆料"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        },
+        {
+          "id": "coolapk-user-9b500c9aa151",
+          "title": "竹本青：【李健：张雪820已进驻更多荣耀线下门店】 今天晚间，WSBK艾米利亚-罗马涅站第一回合正赛，张雪机车53号车手…",
+          "originalTitle": "",
+          "source": "竹本青",
+          "brand": "HONOR",
+          "type": "爆料",
+          "trust": "高可信爆料",
+          "date": "2026-06-13",
+          "time": "12:50",
+          "publishedAt": "2026-06-13T12:50:56.000Z",
+          "url": "https://www.coolapk.com/feed/72325795",
+          "image": "http://image.coolapk.com/feed/2026/0613/20/4248714_f10e0105_5253_8521_394@2000x3555.jpg",
+          "verdict": "扫一眼",
+          "takeaway": "【李健：张雪820已进驻更多荣耀线下门店】 今天晚间，WSBK艾米利亚-罗马涅站第一回合正赛，张雪机车53号车手 瓦伦丁·德比斯 再次夺冠登上领奖台。 赛后，荣耀公司CEO李健宣布，张雪820机车已进驻到了更多的荣耀线下门店。 #今日热点# #MagicOS10# #张雪机车#",
+          "detail": "【李健：张雪820已进驻更多荣耀线下门店】 今天晚间，WSBK艾米利亚-罗马涅站第一回合正赛，张雪机车53号车手 瓦伦丁·德比斯 再次夺冠登上领奖台。 赛后，荣耀公司CEO李健宣布，张雪820机车已进驻到了更多的荣耀线下门店。 #今日热点# #MagicOS10# #张雪机车#",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "可信度较高，但仍属于发布前线索。",
           "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         }
