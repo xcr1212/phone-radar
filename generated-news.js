@@ -1,6 +1,86 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-06-13T04:50:47.322Z",
+  "updatedAt": "2026-06-13T09:33:54.077Z",
   "news": [
+    {
+      "id": "coolapk-user-995997f4e785",
+      "title": "竹本青：【消息称 iPhone 17系列 中国区销量已超3320万台】 6月13日，博主「RD观测」发布第三方统计数据：截…",
+      "source": "竹本青",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-06-13",
+      "time": "08:57",
+      "publishedAt": "2026-06-13T08:57:40.000Z",
+      "url": "https://www.coolapk.com/feed/72322230",
+      "image": "http://image.coolapk.com/feed/2026/0613/16/4248714_1e27945f_1059_7825_432@1439x1833.jpg",
+      "summary": "【消息称 iPhone 17系列 中国区销量已超3320万台】 6月13日，博主「RD观测」发布第三方统计数据：截至2026年第23周，iPhone 17系列在中国市场累计销量约3320.36万台。 前几周数据如下： 截至2026 W22 —— 约3232.74万 截至2026 W21 —— 约3148.82万 截至2026 W20 —— 约3040.55…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-b77768156894",
+      "title": "Global Oppo Reno 16 Pro spotted with Dimensity 8-series chip on Geekbench",
+      "source": "Gizmochina",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-13",
+      "time": "06:44",
+      "publishedAt": "2026-06-13T06:44:24.000Z",
+      "url": "https://www.gizmochina.com/2026/06/13/global-oppo-reno-16-pro-geekbench/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/05/Oppo-Reno-16-and-Reno-16-Pro-300x200.png?x44794",
+      "summary": "Last month, Oppo unveiled the Reno 16 and Reno 16 Pro in China, powered by the Dimensity 8550 Super and Dimensity 9500s chipsets, respectively. A recent Geekbench listing revealed…",
+      "tags": [
+        "OPPO",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-177be01668d0",
+      "title": "小米新机 23116PN5BC 入网：预计为 14 Pro 增大电池验证机，后续有望开放换新电池服务",
+      "source": "IT之家",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-13",
+      "time": "06:30",
+      "publishedAt": "2026-06-13T06:30:09.000Z",
+      "url": "https://www.ithome.com/0/963/734.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/6/4a46920d-e4fd-4826-b073-f44df4c93583.jpg?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 6 月 13 日消息，一款型号为 23116PN5BC 的小米新机已通过电信设备进网许可。 从官方公布的参数来看，该机尺寸为 161.93×76.12×8.7 毫米，重量 223.7 克，配备一块 6.73 英寸显示屏，分辨率为 1440×3200 。 核心配置方面，该机搭载 8 核处理器，主频达到 3.3 GHz，提供 8GB 、 12GB 、…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-df716ed4e00b",
+      "title": "三星 Galaxy Z Fold8 Ultra 等 3 款折叠手机机模曝光",
+      "source": "IT之家",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-13",
+      "time": "05:41",
+      "publishedAt": "2026-06-13T05:41:06.000Z",
+      "url": "https://www.ithome.com/0/963/807.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/6/b4f3143a-97cd-4dfa-8744-f03152431c8d.png?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 6 月 13 日消息，消息源 @i冰宇宙 昨日（6 月 12 日）发布博文，分享了两张照片， 展示了三星 Galaxy Z Flip8、Galaxy Z Fold8、Galaxy Z Fold8 Ultra 三款折叠手机。 第一张图片通过贴膜展示，而第二张图片则展示了折叠手机本体，不过本次展示的可能只是机模或原型机。IT之家附上相关图片如下： 外…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "coolapk-user-6b4899893bee",
       "title": "竹本青：【消息称 REDMI K100 开测10000mAh电池】 6月13日，博主数码闲聊站爆料，REDMI K100系…",
@@ -19,26 +99,6 @@ window.phoneRadarAuto = {
         "Xiaomi",
         "爆料",
         "酷安博主"
-      ]
-    },
-    {
-      "id": "auto-2f737476f7d9",
-      "title": "消息称某厂子系旗舰新测 10000mAh± 电池，预计为小米 REDMI K100 系列",
-      "source": "IT之家",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-13",
-      "time": "02:08",
-      "publishedAt": "2026-06-13T02:08:50.000Z",
-      "url": "https://www.ithome.com/0/963/776.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/6/549db7a8-16aa-45f1-b84d-7d535e91d357.png?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 6 月 13 日消息，据博主 @数码闲聊站 今日爆料，某厂子系迭代旗舰中杯新测 10000mAh± 电池。IT之家注意到，评论区网友推测为小米 REDMI K100 系列。 本月早些时候， 该博主曾曝光某厂新机的主要规格 ， 同样被网友推测为小米 REDMI K100 系列 。不过，该机预计搭载超 8000mAh 大电池，与新曝光的 10000m…",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "自动抓取"
       ]
     },
     {
@@ -62,26 +122,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-72fe68e706d1",
-      "title": "#鸿蒙7# #华为Mate80ProMax# #HDC2026#",
-      "source": "酷安热榜",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-06-13",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72305399",
-      "image": "",
-      "summary": "#鸿蒙7# #华为Mate80ProMax# #HDC2026#",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
       "id": "newsnow-37defbc3dafd",
       "title": "余承东：鸿蒙已成为中国第二大智能手机系统",
       "source": "酷安热榜",
@@ -95,6 +135,26 @@ window.phoneRadarAuto = {
       "url": "https://www.coolapk.com/feed/72303282",
       "image": "",
       "summary": "余承东：鸿蒙已成为中国第二大智能手机系统",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-72fe68e706d1",
+      "title": "#鸿蒙7# #华为Mate80ProMax# #HDC2026#",
+      "source": "酷安热榜",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-06-13",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/72305399",
+      "image": "",
+      "summary": "#鸿蒙7# #华为Mate80ProMax# #HDC2026#",
       "tags": [
         "Huawei",
         "爆料",
@@ -142,28 +202,28 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-019aa4473f4a",
-      "title": "司机夜间开车刷手机“盲开”七八百米",
-      "source": "今日头条热榜",
-      "brand": "行业",
-      "model": "智能手机市场",
+      "id": "newsnow-8546494d978d",
+      "title": "买啥都不要买V手机，最后一部V 不能惯着厂商 ，少我一个用户无所谓 时间多了 大家都不支持了。我看你们蓝厂还能活多久 [弱][弱][弱][弱][弱] 丑恶的嘴脸 #vivoX300# #vivoX300Pro# #OriginOS6#",
+      "source": "酷安热榜",
+      "brand": "vivo",
+      "model": "vivo 相关机型",
       "type": "爆料",
-      "trust": "媒体汇总",
+      "trust": "高关注爆料源",
       "date": "2026-06-13",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.toutiao.com/trending/7650655393462468627/",
+      "url": "https://www.coolapk.com/feed/72284543",
       "image": "",
-      "summary": "司机夜间开车刷手机“盲开”七八百米",
+      "summary": "买啥都不要买V手机，最后一部V 不能惯着厂商 ，少我一个用户无所谓 时间多了 大家都不支持了。我看你们蓝厂还能活多久 [弱][弱][弱][弱][弱] 丑恶的嘴脸 #vivoX300# #vivoX300Pro# #OriginOS6#",
       "tags": [
-        "行业",
+        "vivo",
         "爆料",
         "NewsNow"
       ]
     },
     {
-      "id": "newsnow-f237a3d085b0",
-      "title": "华为Mate 90系列或提档到9月",
+      "id": "newsnow-ce2c6d808c81",
+      "title": "鸿蒙成中国第二大智能手机操作系统",
       "source": "今日头条热榜",
       "brand": "Huawei",
       "model": "Huawei 相关机型",
@@ -172,53 +232,13 @@ window.phoneRadarAuto = {
       "date": "2026-06-13",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.toutiao.com/trending/7650503373456212011/",
+      "url": "https://www.toutiao.com/trending/7649891185179557929/",
       "image": "",
-      "summary": "华为Mate 90系列或提档到9月",
+      "summary": "鸿蒙成中国第二大智能手机操作系统",
       "tags": [
         "Huawei",
         "爆料",
         "NewsNow"
-      ]
-    },
-    {
-      "id": "auto-050d20bee3d6",
-      "title": "IT早报 0613：SpaceX 上市，马斯克成人类首个万亿美元富豪；华为鸿蒙 HarmonyOS 7 发布；《置身钉内》作者再发文；苹果 iPhone 18 Pro Max 机模曝光...",
-      "source": "IT之家",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-12",
-      "time": "23:26",
-      "publishedAt": "2026-06-12T23:26:23.000Z",
-      "url": "https://www.ithome.com/0/963/744.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/6/d40394fb-623e-43db-95d8-e7f346ef27ad.jpg?x-bce-process=image/format,f_auto",
-      "summary": "“IT早报”时间，大家好，现在是 2026 年 6 月 13 日星期六，今天的重要科技资讯有： 1、全球最大 IPO：马斯克 SpaceX 在纳斯达克敲钟上市，成为人类史上首位万亿美元富豪 马斯克旗下 SpaceX 6 月 12 日在纳斯达克正式挂牌上市，股票代码 SPCX。本次 IPO 以每股 135 美元发行 5.556 亿股，募资 750 亿美元，创…",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-ba9a79222907",
-      "title": "荣耀 MRK-AN00 新机入网：搭载 7900mAh 大容量电池",
-      "source": "IT之家",
-      "brand": "HONOR",
-      "model": "HONOR 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-12",
-      "time": "22:03",
-      "publishedAt": "2026-06-12T22:03:24.000Z",
-      "url": "https://www.ithome.com/0/963/736.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/6/d0f6386d-d195-4240-9013-f2cc01b57778.png?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 6 月 13 日消息，型号为 MRK-AN00 的荣耀新机已通过电信设备进网许可，未公布证件照。 这款新机机身尺寸为 168.3×78.54× 8.3 mm，重量为 216.5 克，配备一块 6.872 英寸 TFT 显示屏，分辨率为 1592× 720，显示颜色可达 1670 万色，采用直板设计，搭载虚拟键盘。 核心配置方面，该机内置主频为 2…",
-      "tags": [
-        "HONOR",
-        "爆料",
-        "自动抓取"
       ]
     },
     {
@@ -342,26 +362,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "weibo-6d7af63388b6",
-      "title": "数码闲聊站：华为Mate90系列新机最快9月登场，首发基于τ定律的麒麟2026芯片+鸿蒙O…",
-      "source": "数码闲聊站",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-06-12",
-      "time": "09:01",
-      "publishedAt": "2026-06-12T09:01:27.000Z",
-      "url": "https://weibo.com/6048569942/R3MUKCjrr",
-      "image": "https://tvax4.sinaimg.cn/mw2000/006BlblIgy1ie2mcyx9jej30xr0gc43a.jpg",
-      "summary": "华为Mate90系列新机最快9月登场，首发基于τ定律的麒麟2026芯片+鸿蒙OS7系统，满血发力[吃瓜]",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "微博"
-      ]
-    },
-    {
       "id": "auto-e4417ab9747e",
       "title": "New leak shows us how Samsung’s upcoming foldables could stack up to each other",
       "source": "Android Authority",
@@ -377,26 +377,6 @@ window.phoneRadarAuto = {
       "summary": "I am getting more excited for the wide Galaxy Z Fold 8 with each new leak.",
       "tags": [
         "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-35f6999b1450",
-      "title": "Mate 90 series launching this fall with stable HarmonyOS 7: Huawei",
-      "source": "Huawei Central",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-12",
-      "time": "08:41",
-      "publishedAt": "2026-06-12T08:41:09.000Z",
-      "url": "https://www.huaweicentral.com/mate-90-series-launching-this-fall-with-stable-harmonyos-7-huawei/",
-      "image": "https://www.huaweicentral.com/wp-content/uploads/2026/06/Mate-90-launch-leak.jpg",
-      "summary": "Huawei announced today that the Mate 90 series is coming with the stable HarmonyOS 7 version by this fall. The company has once again suggested when one can expect to witness the…",
-      "tags": [
-        "Huawei",
         "爆料",
         "自动抓取"
       ]
@@ -439,26 +419,6 @@ window.phoneRadarAuto = {
         "Xiaomi",
         "爆料",
         "自动抓取"
-      ]
-    },
-    {
-      "id": "coolapk-user-6dc3f9dc81b5",
-      "title": "竹本青：【荣耀X80 Pro Max 正式官宣：硬核实力，敬请期待】 荣耀手机今日宣布，X系列全球用户已超1.3亿位，全新…",
-      "source": "竹本青",
-      "brand": "HONOR",
-      "model": "HONOR 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-06-12",
-      "time": "08:02",
-      "publishedAt": "2026-06-12T08:02:24.000Z",
-      "url": "https://www.coolapk.com/feed/72304105",
-      "image": "http://image.coolapk.com/feed/2026/0612/16/4248714_9dda9d9f_1341_6952_47@2000x3556.jpg",
-      "summary": "【荣耀X80 Pro Max 正式官宣：硬核实力，敬请期待】 荣耀手机今日宣布，X系列全球用户已超1.3亿位，全新荣耀X80 Pro Max 将以硬核实力，再创新峰，敬请期待。 *累计销量数据：来源荣耀发货数据统计系统，取数时间为2013年12月至2026年6月。 #今日热点# #荣耀X80ProMax#",
-      "tags": [
-        "HONOR",
-        "爆料",
-        "酷安博主"
       ]
     },
     {
@@ -519,46 +479,6 @@ window.phoneRadarAuto = {
         "Samsung",
         "爆料",
         "自动抓取"
-      ]
-    },
-    {
-      "id": "weibo-c418135f7a9a",
-      "title": "数码闲聊站：大概6月下旬，一台骁龙8E满血性能机、一台天玑9500折叠屏、一台11000m…",
-      "source": "数码闲聊站",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-06-12",
-      "time": "04:01",
-      "publishedAt": "2026-06-12T04:01:55.000Z",
-      "url": "https://weibo.com/6048569942/R3KXazZ3g",
-      "image": "",
-      "summary": "大概6月下旬，一台骁龙8E满血性能机、一台天玑9500折叠屏、一台11000mAh巨容量中端机，懂自懂，应该都是你们期待的新机吧……[doge]",
-      "tags": [
-        "行业",
-        "爆料",
-        "微博"
-      ]
-    },
-    {
-      "id": "weibo-af59f6326c5f",
-      "title": "数码闲聊站：接下来的新机除了电池容量卷到10000mAh+，屏幕局部峰值亮度也来到1000…",
-      "source": "数码闲聊站",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-06-12",
-      "time": "02:38",
-      "publishedAt": "2026-06-12T02:38:09.000Z",
-      "url": "https://weibo.com/6048569942/R3KpaxArT",
-      "image": "",
-      "summary": "接下来的新机除了电池容量卷到10000mAh+，屏幕局部峰值亮度也来到10000nit，完全是数值怪的模样了……[二哈]",
-      "tags": [
-        "行业",
-        "爆料",
-        "微博"
       ]
     }
   ]
