@@ -1,6 +1,26 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-06-14T09:55:49.466Z",
+  "updatedAt": "2026-06-14T12:14:55.245Z",
   "news": [
+    {
+      "id": "auto-ff7a7de6fc63",
+      "title": "Xiaomi 17T Pro vs OnePlus 15: Don’t Buy Until You Read This Comparison",
+      "source": "Gizmochina",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-14",
+      "time": "12:00",
+      "publishedAt": "2026-06-14T12:00:52.000Z",
+      "url": "https://www.gizmochina.com/2026/06/14/xiaomi-17t-pro-vs-oneplus-15/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/06/image-69-300x193.png?x44794",
+      "summary": "Choosing between the Xiaomi 17T Pro and OnePlus 15 is not easy because both target the premium flagship segment with top-tier performance, large batteries, advanced displays, and…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-0d0c86ed8fd2",
       "title": "麦芒 TYH232U 新机入网：预计搭紫光展锐 T820 芯片、配 4950mAh 电池",
@@ -75,26 +95,6 @@ window.phoneRadarAuto = {
       "url": "https://www.ithome.com/0/964/068.htm",
       "image": "https://img.ithome.com/newsuploadfiles/2026/6/8fbbfd8d-35f5-4955-8380-e0117b0d73b8.jpg?x-bce-process=image/format,f_auto",
       "summary": "IT之家 6 月 14 日消息，据路透社报道，印度一家环保监管机构指控，塔塔集团旗下一家为苹果 iPhone 生产零部件的工厂排放废水，造成周边农田地下水遭到污染，并警告若塔塔方面无法给出合理解释，该工厂将被勒令停产。 印度塔塔电子是苹果推动 iPhone 生产基地实现供应链多元化布局的核心合作方，同时也是苹果在南亚地区仅次于中国台湾地区富士康的第二大供应…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-a8efcb834abb",
-      "title": "微信 iOS 版 8.0.75 最新官方正式版下载发布",
-      "source": "IT之家",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-14",
-      "time": "04:05",
-      "publishedAt": "2026-06-14T04:05:17.000Z",
-      "url": "https://www.ithome.com/0/964/052.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/6/78cd5f60-a01c-4014-86ac-8d1e11b5a61d.jpg?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 6 月 14 日消息，微信 iOS 平台迎来了 8.0.75 正式版更新，包体积为 813.1 MB。 官方更新日志为： 本次更新： - 解决了一些已知问题。 大家在 IT之家微信号 回复“ 微信 ”两字，即可获取当前最新官方内部版微信下载。 本文由机器人发布，IT之家稍后将为大家带来具体更新内容。如果你发现了日志中未提及的更新点，欢迎发在评论区…",
       "tags": [
         "iPhone",
         "爆料",
@@ -202,27 +202,7 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-8115d1e131ba",
-      "title": "#HyperOS3# #iPhone17#",
-      "source": "酷安热榜",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-06-14",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72320884",
-      "image": "",
-      "summary": "#HyperOS3# #iPhone17#",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-f238cadcfd5a",
+      "id": "newsnow-a66fc543a186",
       "title": "迪丽热巴手机壳从销量2涨到3000多",
       "source": "微博热搜",
       "brand": "行业",
@@ -232,7 +212,7 @@ window.phoneRadarAuto = {
       "date": "2026-06-14",
       "time": "",
       "publishedAt": "",
-      "url": "https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E6%89%8B%E6%9C%BA%E5%A3%B3%E4%BB%8E%E9%94%80%E9%87%8F2%E6%B6%A8%E5%88%B03000%E5%A4%9A%23&t=31&band_rank=17&Refer=top",
+      "url": "https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E6%89%8B%E6%9C%BA%E5%A3%B3%E4%BB%8E%E9%94%80%E9%87%8F2%E6%B6%A8%E5%88%B03000%E5%A4%9A%23&t=31&band_rank=26&Refer=top",
       "image": "",
       "summary": "迪丽热巴手机壳从销量2涨到3000多",
       "tags": [
@@ -242,22 +222,22 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-37aaba94ce44",
-      "title": "网传 iPhone 改日期可空出 20G，苹果回应不建议操作，这个邪修方法有用吗？技术层面有什么依据吗？",
-      "source": "知乎热榜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "市场报告",
+      "id": "newsnow-44049abdb1b4",
+      "title": "墨西哥球迷手机变酒瓶倒出龙舌兰",
+      "source": "百度热搜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
       "trust": "媒体汇总",
       "date": "2026-06-14",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.zhihu.com/question/2046000361807111269",
+      "url": "https://www.baidu.com/s?wd=%E5%A2%A8%E8%A5%BF%E5%93%A5%E7%90%83%E8%BF%B7%E6%89%8B%E6%9C%BA%E5%8F%98%E9%85%92%E7%93%B6%E5%80%92%E5%87%BA%E9%BE%99%E8%88%8C%E5%85%B0",
       "image": "",
-      "summary": "网传 iPhone 改日期可空出 20G，苹果回应不建议操作，这个邪修方法有用吗？技术层面有什么依据吗？",
+      "summary": "墨西哥球迷手机变酒瓶倒出龙舌兰",
       "tags": [
-        "iPhone",
-        "市场报告",
+        "行业",
+        "爆料",
         "NewsNow"
       ]
     },

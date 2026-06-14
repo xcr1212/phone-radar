@@ -1,12 +1,12 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-06-14T09:55:49.466Z",
+  "updatedAt": "2026-06-14T12:14:55.245Z",
   "issueDate": "2026-06-14",
   "issue": "VOL.260614",
   "title": "手机情报日报",
-  "intro": "今日筛出 20 条重点，其中 8 条是重点爆料，包含 5 条 iPhone 相关、0 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 18 条重点，其中 8 条是重点爆料，包含 3 条 iPhone 相关、0 条官方确认、0 条参数线索。",
   "stats": {
-    "total": 20,
-    "iphone": 5,
+    "total": 18,
+    "iphone": 3,
     "leaks": 8,
     "official": 0,
     "specs": 0
@@ -215,52 +215,6 @@ window.phoneRadarDaily = {
       "hint": "不是硬件爆料，但和 iPhone 体验或路线有关。",
       "items": [
         {
-          "id": "auto-a8efcb834abb",
-          "title": "微信 iOS 版 8.0.75 最新官方正式版下载发布",
-          "originalTitle": "",
-          "source": "IT之家",
-          "brand": "iPhone",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-06-14",
-          "time": "04:05",
-          "publishedAt": "2026-06-14T04:05:17.000Z",
-          "url": "https://www.ithome.com/0/964/052.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/6/78cd5f60-a01c-4014-86ac-8d1e11b5a61d.jpg?x-bce-process=image/format,f_auto",
-          "verdict": "先看",
-          "takeaway": "IT之家 6 月 14 日消息，微信 iOS 平台迎来了 8.0.75 正式版更新，包体积为 813.1 MB。 官方更新日志为： 本次更新： - 解决了一些已知问题。 大家在 IT之家微信号 回复“ 微信 ”两字，即可获取当前最新官方内部版微信下载。 本文由机器人发布，IT之家稍后将为大家带来具体更新内容。如果你发现了日志中未提及的更新点，欢迎发在评论区…",
-          "detail": "IT之家 6 月 14 日消息，微信 iOS 平台迎来了 8.0.75 正式版更新，包体积为 813.1 MB。 官方更新日志为： 本次更新： - 解决了一些已知问题。 大家在 IT之家微信号 回复“ 微信 ”两字，即可获取当前最新官方内部版微信下载。 本文由机器人发布，IT之家稍后将为大家带来具体更新内容。如果你发现了日志中未提及的更新点，欢迎发在评论区…",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "中文源可以直接点开快读；看完只保留和购机有关的点。"
-        },
-        {
-          "id": "newsnow-37aaba94ce44",
-          "title": "网传 iPhone 改日期可空出 20G，苹果回应不建议操作，这个邪修方法有用吗？技术层面有什么依据吗？",
-          "originalTitle": "",
-          "source": "知乎热榜",
-          "brand": "iPhone",
-          "type": "市场报告",
-          "trust": "媒体汇总",
-          "date": "2026-06-14",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://www.zhihu.com/question/2046000361807111269",
-          "image": "",
-          "verdict": "扫一眼",
-          "takeaway": "网传 iPhone 改日期可空出 20G，苹果回应不建议操作，这个邪修方法有用吗？技术层面有什么依据吗？",
-          "detail": "网传 iPhone 改日期可空出 20G，苹果回应不建议操作，这个邪修方法有用吗？技术层面有什么依据吗？",
-          "keyPoints": [
-            "市场报告"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "目前更像背景信息，对买手机影响不大。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
-        {
           "id": "auto-d95663882522",
           "title": "iPhone 电池 / 充电相关消息",
           "originalTitle": "",
@@ -413,29 +367,6 @@ window.phoneRadarDaily = {
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         },
         {
-          "id": "newsnow-8115d1e131ba",
-          "title": "Xiaomi 相关消息",
-          "originalTitle": "",
-          "source": "酷安热榜",
-          "brand": "Xiaomi",
-          "type": "爆料",
-          "trust": "高关注爆料源",
-          "date": "2026-06-14",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://www.coolapk.com/feed/72320884",
-          "image": "",
-          "verdict": "先看",
-          "takeaway": "Xiaomi 相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
-          "detail": "Xiaomi 相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
-        {
           "id": "newsnow-5430b1a128fe",
           "title": "我错了，我以为能适应小厂的系统，结果两天就撑不住了，这手机哪里都好，就是系统烂，除了性能释放强，其余的都烂得不行，这玩意儿比澎湃还毒，小厂之所以是小厂还是有原因的，再也不碰了，还是换回K90了[流汗滑稽] #努比亚Z80Ultra#",
           "originalTitle": "",
@@ -503,6 +434,29 @@ window.phoneRadarDaily = {
           "confidence": "可信度较高，但仍属于发布前线索。",
           "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        },
+        {
+          "id": "auto-ff7a7de6fc63",
+          "title": "Xiaomi 17T Pro 对比 OnePlus 15：差异整理",
+          "originalTitle": "",
+          "source": "Gizmochina",
+          "brand": "Xiaomi",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-06-14",
+          "time": "12:00",
+          "publishedAt": "2026-06-14T12:00:52.000Z",
+          "url": "https://www.gizmochina.com/2026/06/14/xiaomi-17t-pro-vs-oneplus-15/",
+          "image": "https://www.gizmochina.com/wp-content/uploads/2026/06/image-69-300x193.png?x44794",
+          "verdict": "可略过",
+          "takeaway": "Xiaomi 17T Pro 对比 OnePlus 15：重点看定位、配置差异和价格差，判断是否值得等更高端型号。",
+          "detail": "Xiaomi 17T Pro 对比 OnePlus 15 的差异整理。重点看两款机型的定位、影像规格、屏幕尺寸、价格区间和发布时间是否拉开差距。",
+          "keyPoints": [
+            "屏幕形态"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "影响手感和显示体验，适合和其他机型对比。",
+          "action": "有具体参数就记录到参数库；没有参数就先收藏。"
         }
       ]
     }
