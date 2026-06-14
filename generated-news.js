@@ -1,6 +1,86 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-06-14T05:06:14.134Z",
+  "updatedAt": "2026-06-14T09:55:49.466Z",
   "news": [
+    {
+      "id": "auto-0d0c86ed8fd2",
+      "title": "麦芒 TYH232U 新机入网：预计搭紫光展锐 T820 芯片、配 4950mAh 电池",
+      "source": "IT之家",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-14",
+      "time": "08:03",
+      "publishedAt": "2026-06-14T08:03:24.000Z",
+      "url": "https://www.ithome.com/0/963/737.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/6/73e42c72-a5ea-4f05-b472-653c1e43f903.png?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 6 月 14 日消息，麦芒旗下一款型号为“TYH232U”的新机已通过电信设备进网许可，未公布证件照。IT之家查询发现，中国电信于 2023 年 4 月入网一款“ 天翼一号 2023 款 ”手机，相应产品型号同样为“TYH232U”，不过后续该机并未有更多信息流出。 ▲ “天翼一号 2022 款”手机 综合电信设备进网信息，麦芒这款新机机身尺寸为…",
+      "tags": [
+        "行业",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-48ff2f3bdf36",
+      "title": "Nothing CEO 裴宇：内存现在是手机中最昂贵的组件，甚至能占到整机 BOM 成本的一半",
+      "source": "IT之家",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-14",
+      "time": "07:23",
+      "publishedAt": "2026-06-14T07:23:34.000Z",
+      "url": "https://www.ithome.com/0/964/082.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/6/f1d62d4b-bef2-4160-a7ff-b662f9587297.png?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 6 月 14 日消息，Nothing 联合创始人兼 CEO 裴宇（Carl Pei）当地时间 6 月 12 日在 X 平台发文，称 内存如今已成为智能手机中成本最高的组件 。 裴宇表示，内存比处理器更贵，比显示屏更贵， 甚至能占到整机物料清单 （Bill of Materials，BOM） 的 50% 以上 。 他以旗下的 Nothing Pho…",
+      "tags": [
+        "行业",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-c3c3b6329de0",
+      "title": "HMD C2 系列手机曝光：搭高通骁龙 4 Gen 4 处理器、6.78 英寸 AMOLED 面板",
+      "source": "IT之家",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-14",
+      "time": "06:43",
+      "publishedAt": "2026-06-14T06:43:06.000Z",
+      "url": "https://www.ithome.com/0/964/074.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/6/2fa8aa6a-1b44-4618-a567-7289b3c2d8c4.png?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 6 月 14 日消息，消息源 smashx_60 在 X 平台发文，曝光了 HMD Global 旗下 HMD C2/C2P 两款手机，两款手机均定位中端市场，其中 C2P 规格相对于 C2 更高一些。 其中，HMD C2 手机正面配备一块 6.78 英寸 FHD+ 90Hz AMOLED 打孔面板（峰值亮度 1000 尼特），匹配 50MP 自…",
+      "tags": [
+        "行业",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-a8df0ec36fa6",
+      "title": "苹果印度供应链又出事：塔塔 iPhone 零部件工厂被控污染农田水源",
+      "source": "IT之家",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-14",
+      "time": "06:27",
+      "publishedAt": "2026-06-14T06:27:10.000Z",
+      "url": "https://www.ithome.com/0/964/068.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/6/8fbbfd8d-35f5-4955-8380-e0117b0d73b8.jpg?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 6 月 14 日消息，据路透社报道，印度一家环保监管机构指控，塔塔集团旗下一家为苹果 iPhone 生产零部件的工厂排放废水，造成周边农田地下水遭到污染，并警告若塔塔方面无法给出合理解释，该工厂将被勒令停产。 印度塔塔电子是苹果推动 iPhone 生产基地实现供应链多元化布局的核心合作方，同时也是苹果在南亚地区仅次于中国台湾地区富士康的第二大供应…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-a8efcb834abb",
       "title": "微信 iOS 版 8.0.75 最新官方正式版下载发布",
@@ -17,26 +97,6 @@ window.phoneRadarAuto = {
       "summary": "IT之家 6 月 14 日消息，微信 iOS 平台迎来了 8.0.75 正式版更新，包体积为 813.1 MB。 官方更新日志为： 本次更新： - 解决了一些已知问题。 大家在 IT之家微信号 回复“ 微信 ”两字，即可获取当前最新官方内部版微信下载。 本文由机器人发布，IT之家稍后将为大家带来具体更新内容。如果你发现了日志中未提及的更新点，欢迎发在评论区…",
       "tags": [
         "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-18ab0eca8de5",
-      "title": "三星 Galaxy Z Flip8 / Fold8 系列手机屏幕保护膜对比照片曝光，直观展示手机尺寸差异",
-      "source": "IT之家",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-14",
-      "time": "03:32",
-      "publishedAt": "2026-06-14T03:32:44.000Z",
-      "url": "https://www.ithome.com/0/964/045.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/6/fd12e07d-02cc-400f-a0e8-8b6cf3b95bbc.jpg?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 6 月 14 日消息，近年来许多第三方壳膜制造商都会通过各种渠道获悉新品的具体尺寸规格，以便提前生产壳膜迅速抢占市场。 目前博主 @i冰宇宙 便在 X 平台 曝光了三星即将推出的 Galaxy Z Flip8/Fold8/Fold8 Ultra 三款手机的屏幕保护膜照片，直观的展示了系列手机屏幕尺寸差异。 IT之家注：此前消息称三星调整了 Gal…",
-      "tags": [
-        "Samsung",
         "爆料",
         "自动抓取"
       ]
@@ -75,6 +135,46 @@ window.phoneRadarAuto = {
       "url": "https://www.coolapk.com/feed/72328886",
       "image": "",
       "summary": "#我在酷安晒女友# #华为鸿蒙# #iPhone17ProMax# 1000天纪念日｜见证我们的双向奔赴💕",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-5cb148dd0ee5",
+      "title": "17岁小孩哥隐瞒瑕疵卖我摄像头有黑斑的手机。我决定起诉他。",
+      "source": "酷安热榜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-06-14",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/72330418",
+      "image": "",
+      "summary": "17岁小孩哥隐瞒瑕疵卖我摄像头有黑斑的手机。我决定起诉他。",
+      "tags": [
+        "行业",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-da07f98b0cb0",
+      "title": "我真是力竭了，再也不在网上和人争了[哈哈哈]事情是这样的，在抖音看到个经典的两三千安卓对比苹果 promax 拍照的视频，我就回复了一句两三千安卓比万元苹果真是闹麻了，结果上来就是一句 bro 起手，后来就开始攻击，说苹果 6 都比安卓拍照强，然后攻击我没有苹果，我拍出苹果给她看，她让我别拍别人手机，我用截图证明了是自己的之后又说我拿手机当身份证，后来又开始说我是贷款的[喷血] #华为Mate80ProMax# #小米17ProMax# #vivoX300Pro#",
+      "source": "酷安热榜",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-06-14",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/72328068",
+      "image": "",
+      "summary": "我真是力竭了，再也不在网上和人争了[哈哈哈]事情是这样的，在抖音看到个经典的两三千安卓对比苹果 promax 拍照的视频，我就回复了一句两三千安卓比万元苹果真是闹麻了，结果上来就是一句 bro 起手，后来就开始攻击，说苹果 6 都比安卓拍照强，然后攻击我没有苹果，我拍出苹果给她看，她让我别拍别人手机，我用截图证明了是自己的之后又说我拿手机当身份证，后来又开…",
       "tags": [
         "Huawei",
         "爆料",
@@ -122,8 +222,8 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-ddc0ed3a4d14",
-      "title": "迪丽热巴手机壳",
+      "id": "newsnow-f238cadcfd5a",
+      "title": "迪丽热巴手机壳从销量2涨到3000多",
       "source": "微博热搜",
       "brand": "行业",
       "model": "智能手机市场",
@@ -132,12 +232,32 @@ window.phoneRadarAuto = {
       "date": "2026-06-14",
       "time": "",
       "publishedAt": "",
-      "url": "https://s.weibo.com/weibo?q=%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E6%89%8B%E6%9C%BA%E5%A3%B3&t=31&band_rank=12&Refer=top",
+      "url": "https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E6%89%8B%E6%9C%BA%E5%A3%B3%E4%BB%8E%E9%94%80%E9%87%8F2%E6%B6%A8%E5%88%B03000%E5%A4%9A%23&t=31&band_rank=17&Refer=top",
       "image": "",
-      "summary": "迪丽热巴手机壳",
+      "summary": "迪丽热巴手机壳从销量2涨到3000多",
       "tags": [
         "行业",
         "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-37aaba94ce44",
+      "title": "网传 iPhone 改日期可空出 20G，苹果回应不建议操作，这个邪修方法有用吗？技术层面有什么依据吗？",
+      "source": "知乎热榜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "市场报告",
+      "trust": "媒体汇总",
+      "date": "2026-06-14",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.zhihu.com/question/2046000361807111269",
+      "image": "",
+      "summary": "网传 iPhone 改日期可空出 20G，苹果回应不建议操作，这个邪修方法有用吗？技术层面有什么依据吗？",
+      "tags": [
+        "iPhone",
+        "市场报告",
         "NewsNow"
       ]
     },
