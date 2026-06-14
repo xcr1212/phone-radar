@@ -1,11 +1,11 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-06-14T14:30:12.678Z",
+  "updatedAt": "2026-06-14T17:47:24.003Z",
   "issueDate": "2026-06-14",
   "issue": "VOL.260614",
   "title": "手机情报日报",
-  "intro": "今日筛出 14 条重点，其中 4 条是重点爆料，包含 2 条 iPhone 相关、0 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 15 条重点，其中 4 条是重点爆料，包含 2 条 iPhone 相关、0 条官方确认、0 条参数线索。",
   "stats": {
-    "total": 14,
+    "total": 15,
     "iphone": 2,
     "leaks": 4,
     "official": 0,
@@ -66,6 +66,29 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
+          "id": "auto-0e19d42a7244",
+          "title": "Samsung 折叠屏相关消息",
+          "originalTitle": "",
+          "source": "Gizmochina",
+          "brand": "Samsung",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-06-14",
+          "time": "16:34",
+          "publishedAt": "2026-06-14T16:34:06.000Z",
+          "url": "https://www.gizmochina.com/2026/06/14/galaxy-z-fold-9-could-finally-hide-the-crease-with-thicker-60-micron-utg/",
+          "image": "https://www.gizmochina.com/wp-content/uploads/2026/06/WDaGuBHbzJg93jRz2BxYpZ-1024-80.jpg-300x169.webp?x44794",
+          "verdict": "先看",
+          "takeaway": "Samsung 折叠屏相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
+          "detail": "Samsung 折叠屏相关消息。重点看折痕、铰链、厚度、屏幕可靠性和重量是否有实质改善。",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
           "id": "auto-99d146e3b1af",
           "title": "Xiaomi 发布 / 上市相关消息",
           "originalTitle": "",
@@ -81,29 +104,6 @@ window.phoneRadarDaily = {
           "verdict": "先看",
           "takeaway": "Xiaomi 有发布或新功能消息，适合确认是否和新机有关。",
           "detail": "Xiaomi 发布 / 上市相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
-          "keyPoints": [
-            "爆料来源"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "auto-348b523fd27f",
-          "title": "Samsung 折叠屏相关消息",
-          "originalTitle": "",
-          "source": "Android Central",
-          "brand": "Samsung",
-          "type": "评测",
-          "trust": "媒体汇总",
-          "date": "2026-06-13",
-          "time": "16:35",
-          "publishedAt": "2026-06-13T16:35:14.000Z",
-          "url": "https://www.androidcentral.com/phones/samsung-galaxy/should-you-wait-for-the-samsung-galaxy-z-fold-8",
-          "image": "https://cdn.mos.cms.futurecdn.net/xHJPowMRYVZ4CQudNDdf8e-1280-80.jpg",
-          "verdict": "先看",
-          "takeaway": "Samsung 有系统功能或 AI 体验更新，适合关注后续是否影响日常使用。",
-          "detail": "Samsung 折叠屏相关消息。重点看折痕、铰链、厚度、屏幕可靠性和重量是否有实质改善。",
           "keyPoints": [
             "爆料来源"
           ],
@@ -216,6 +216,36 @@ window.phoneRadarDaily = {
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        }
+      ]
+    },
+    {
+      "id": "review",
+      "title": "评测与体验",
+      "hint": "买前再细看，平时扫一眼即可。",
+      "items": [
+        {
+          "id": "auto-9d0c0a44b1d8",
+          "title": "Samsung 系统功能 / AI 体验相关消息",
+          "originalTitle": "",
+          "source": "Android Central",
+          "brand": "Samsung",
+          "type": "评测",
+          "trust": "媒体汇总",
+          "date": "2026-06-14",
+          "time": "14:54",
+          "publishedAt": "2026-06-14T14:54:00.000Z",
+          "url": "https://www.androidcentral.com/phones/samsung-galaxy/should-you-wait-for-the-samsung-galaxy-z-flip-8",
+          "image": "https://cdn.mos.cms.futurecdn.net/ix4uvYmAK342Xnm7fTkkZQ-1280-80.jpg",
+          "verdict": "可略过",
+          "takeaway": "Samsung 有系统功能或 AI 体验更新，适合关注后续是否影响日常使用。",
+          "detail": "Samsung 系统功能 / AI 体验相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
+          "keyPoints": [
+            "成本 / 价格"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是实际体验内容，买前适合重点看缺点和取舍。",
+          "action": "有具体参数就记录到参数库；没有参数就先收藏。"
         }
       ]
     },

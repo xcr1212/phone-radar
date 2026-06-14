@@ -1,6 +1,86 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-06-14T14:30:12.678Z",
+  "updatedAt": "2026-06-14T17:47:24.003Z",
   "news": [
+    {
+      "id": "auto-d8371c0a589e",
+      "title": "I used the Pixel 10a and OnePlus 15R, and one feels like a total steal",
+      "source": "Android Police",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-14",
+      "time": "17:30",
+      "publishedAt": "2026-06-14T17:30:11.000Z",
+      "url": "https://www.androidpolice.com/i-used-the-pixel-10a-and-oneplus-15r-and-one-feels-like-a-total-steal/",
+      "image": "",
+      "summary": "You'll have to stretch your budget, but it may be worth it",
+      "tags": [
+        "OPPO",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-0e19d42a7244",
+      "title": "Galaxy Z Fold 9 could finally hide the crease with thicker 60-micron UTG",
+      "source": "Gizmochina",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-14",
+      "time": "16:34",
+      "publishedAt": "2026-06-14T16:34:06.000Z",
+      "url": "https://www.gizmochina.com/2026/06/14/galaxy-z-fold-9-could-finally-hide-the-crease-with-thicker-60-micron-utg/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/06/WDaGuBHbzJg93jRz2BxYpZ-1024-80.jpg-300x169.webp?x44794",
+      "summary": "Samsung could be about to make its Galaxy Z Fold series feel more premium and durable. The company is reportedly testing a thicker layer of Ultra Thin Glass (UTG) on upcoming mode…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-5c0e7a6f33c5",
+      "title": "The ‘Galaxy Z Fold 8 Ultra’ has the potential to be a cruel joke",
+      "source": "9to5Google",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-14",
+      "time": "16:00",
+      "publishedAt": "2026-06-14T16:00:00.000Z",
+      "url": "https://9to5google.com/2026/06/14/galaxy-z-fold-8-ultra-problems/",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2025/07/galaxy-z-fold-7-35.jpg?quality=82&strip=all&w=1600",
+      "summary": "There are actual reasons to get excited about Samsung’s upcoming foldables but, the more I think about it, the more I’m realizing that there’s pretty strong potential for the “Gal…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-9d0c0a44b1d8",
+      "title": "Should you wait for the Samsung Galaxy Z Flip 8?",
+      "source": "Android Central",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-06-14",
+      "time": "14:54",
+      "publishedAt": "2026-06-14T14:54:00.000Z",
+      "url": "https://www.androidcentral.com/phones/samsung-galaxy/should-you-wait-for-the-samsung-galaxy-z-flip-8",
+      "image": "https://cdn.mos.cms.futurecdn.net/ix4uvYmAK342Xnm7fTkkZQ-1280-80.jpg",
+      "summary": "The Samsung Galaxy Z Flip 8 isn't that far away, but fears of a price hike make the decision to wait or to buy complicated. Here's what you need to know.",
+      "tags": [
+        "Samsung",
+        "评测",
+        "自动抓取"
+      ]
+    },
     {
       "id": "coolapk-user-13826d7f33e4",
       "title": "竹本青：几天前买的SU7 Ultra车模，最近很喜欢这种1:64的微缩场景，非常可爱 #小米SU7Ultra# #Hype…",
