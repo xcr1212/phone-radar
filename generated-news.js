@@ -1,6 +1,26 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-06-14T21:39:09.510Z",
+  "updatedAt": "2026-06-14T23:37:39.489Z",
   "news": [
+    {
+      "id": "auto-db86b1d5980e",
+      "title": "消息称三星 Galaxy Z Fold8“阔折叠”手机 UTG 玻璃层厚度达 60 微米，相对于 Ultra 机型更厚",
+      "source": "IT之家",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-14",
+      "time": "23:30",
+      "publishedAt": "2026-06-14T23:30:32.000Z",
+      "url": "https://www.ithome.com/0/964/199.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/6/29d0103e-d3af-447c-93b1-24355e7c2ccc.jpg?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 6 月 15 日消息，据韩媒 ZDNet 报道，三星 Galaxy Z Fold8 阔折叠将采用比 Fold8 Ultra 更厚的 UTG 玻璃层，作为比较，Fold8 Ultra 手机的 UTG 玻璃层厚度约为 45 微米，而 Fold8 玻璃层的厚度为 60 微米，提升了约 30%。 公开信息显示，UTG 厚度会直接影响屏幕折痕表现与耐用性。…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-d8371c0a589e",
       "title": "I used the Pixel 10a and OnePlus 15R, and one feels like a total steal",
@@ -117,26 +137,6 @@ window.phoneRadarAuto = {
       "summary": "Choosing between the Xiaomi 17T Pro and OnePlus 15 is not easy because both target the premium flagship segment with top-tier performance, large batteries, advanced displays, and…",
       "tags": [
         "Xiaomi",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-0d0c86ed8fd2",
-      "title": "麦芒 TYH232U 新机入网：预计搭紫光展锐 T820 芯片、配 4950mAh 电池",
-      "source": "IT之家",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-14",
-      "time": "08:03",
-      "publishedAt": "2026-06-14T08:03:24.000Z",
-      "url": "https://www.ithome.com/0/963/737.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/6/73e42c72-a5ea-4f05-b472-653c1e43f903.png?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 6 月 14 日消息，麦芒旗下一款型号为“TYH232U”的新机已通过电信设备进网许可，未公布证件照。IT之家查询发现，中国电信于 2023 年 4 月入网一款“ 天翼一号 2023 款 ”手机，相应产品型号同样为“TYH232U”，不过后续该机并未有更多信息流出。 ▲ “天翼一号 2022 款”手机 综合电信设备进网信息，麦芒这款新机机身尺寸为…",
-      "tags": [
-        "行业",
         "爆料",
         "自动抓取"
       ]
