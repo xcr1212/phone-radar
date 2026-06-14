@@ -1,13 +1,13 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-06-14T12:14:55.245Z",
+  "updatedAt": "2026-06-14T14:30:12.678Z",
   "issueDate": "2026-06-14",
   "issue": "VOL.260614",
   "title": "手机情报日报",
-  "intro": "今日筛出 18 条重点，其中 8 条是重点爆料，包含 3 条 iPhone 相关、0 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 14 条重点，其中 4 条是重点爆料，包含 2 条 iPhone 相关、0 条官方确认、0 条参数线索。",
   "stats": {
-    "total": 18,
-    "iphone": 3,
-    "leaks": 8,
+    "total": 14,
+    "iphone": 2,
+    "leaks": 4,
     "official": 0,
     "specs": 0
   },
@@ -17,29 +17,6 @@ window.phoneRadarDaily = {
       "title": "重点爆料",
       "hint": "机模、配色、影像、屏幕、电池和芯片线索先看。",
       "items": [
-        {
-          "id": "auto-a8df0ec36fa6",
-          "title": "苹果印度供应链又出事：塔塔 iPhone 零部件工厂被控污染农田水源",
-          "originalTitle": "",
-          "source": "IT之家",
-          "brand": "iPhone",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-06-14",
-          "time": "06:27",
-          "publishedAt": "2026-06-14T06:27:10.000Z",
-          "url": "https://www.ithome.com/0/964/068.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/6/8fbbfd8d-35f5-4955-8380-e0117b0d73b8.jpg?x-bce-process=image/format,f_auto",
-          "verdict": "先看",
-          "takeaway": "IT之家 6 月 14 日消息，据路透社报道，印度一家环保监管机构指控，塔塔集团旗下一家为苹果 iPhone 生产零部件的工厂排放废水，造成周边农田地下水遭到污染，并警告若塔塔方面无法给出合理解释，该工厂将被勒令停产。 印度塔塔电子是苹果推动 iPhone 生产基地实现供应链多元化布局的核心合作方，同时也是苹果在南亚地区仅次于中国台湾地区富士康的第二大供应…",
-          "detail": "IT之家 6 月 14 日消息，据路透社报道，印度一家环保监管机构指控，塔塔集团旗下一家为苹果 iPhone 生产零部件的工厂排放废水，造成周边农田地下水遭到污染，并警告若塔塔方面无法给出合理解释，该工厂将被勒令停产。 印度塔塔电子是苹果推动 iPhone 生产基地实现供应链多元化布局的核心合作方，同时也是苹果在南亚地区仅次于中国台湾地区富士康的第二大供应…",
-          "keyPoints": [
-            "爆料来源"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
         {
           "id": "coolapk-user-995997f4e785",
           "title": "竹本青：消息称 iPhone 17系列中国区销量已超3320万台",
@@ -60,30 +37,6 @@ window.phoneRadarDaily = {
             "爆料来源"
           ],
           "confidence": "可信度较高，但仍属于发布前线索。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "newsnow-3a19c9f237b9",
-          "title": "一加15T这块屏幕是最垃圾的天马屏幕之一，OPPO降低成本极致的产物。从我手上随便挑几台手机对比吧。",
-          "originalTitle": "",
-          "source": "酷安热榜",
-          "brand": "OPPO",
-          "type": "爆料",
-          "trust": "高关注爆料源",
-          "date": "2026-06-14",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://www.coolapk.com/feed/72322259",
-          "image": "",
-          "verdict": "先看",
-          "takeaway": "一加15T这块屏幕是最垃圾的天马屏幕之一，OPPO降低成本极致的产物。从我手上随便挑几台手机对比吧。",
-          "detail": "一加15T这块屏幕是最垃圾的天马屏幕之一，OPPO降低成本极致的产物。从我手上随便挑几台手机对比吧。",
-          "keyPoints": [
-            "屏幕形态",
-            "成本 / 价格"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
@@ -113,78 +66,6 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
-          "id": "auto-48ff2f3bdf36",
-          "title": "Nothing CEO 裴宇：内存现在是手机中最昂贵的组件，甚至能占到整机 BOM 成本的一半",
-          "originalTitle": "",
-          "source": "IT之家",
-          "brand": "行业",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-06-14",
-          "time": "07:23",
-          "publishedAt": "2026-06-14T07:23:34.000Z",
-          "url": "https://www.ithome.com/0/964/082.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/6/f1d62d4b-bef2-4160-a7ff-b662f9587297.png?x-bce-process=image/format,f_auto",
-          "verdict": "先看",
-          "takeaway": "IT之家 6 月 14 日消息，Nothing 联合创始人兼 CEO 裴宇（Carl Pei）当地时间 6 月 12 日在 X 平台发文，称 内存如今已成为智能手机中成本最高的组件 。 裴宇表示，内存比处理器更贵，比显示屏更贵， 甚至能占到整机物料清单 （Bill of Materials，BOM） 的 50% 以上 。 他以旗下的 Nothing Pho…",
-          "detail": "IT之家 6 月 14 日消息，Nothing 联合创始人兼 CEO 裴宇（Carl Pei）当地时间 6 月 12 日在 X 平台发文，称 内存如今已成为智能手机中成本最高的组件 。 裴宇表示，内存比处理器更贵，比显示屏更贵， 甚至能占到整机物料清单 （Bill of Materials，BOM） 的 50% 以上 。 他以旗下的 Nothing Pho…",
-          "keyPoints": [
-            "芯片 / 性能",
-            "成本 / 价格"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "auto-c3c3b6329de0",
-          "title": "HMD C2 系列手机曝光：搭高通骁龙 4 Gen 4 处理器、6.78 英寸 AMOLED 面板",
-          "originalTitle": "",
-          "source": "IT之家",
-          "brand": "行业",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-06-14",
-          "time": "06:43",
-          "publishedAt": "2026-06-14T06:43:06.000Z",
-          "url": "https://www.ithome.com/0/964/074.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/6/2fa8aa6a-1b44-4618-a567-7289b3c2d8c4.png?x-bce-process=image/format,f_auto",
-          "verdict": "先看",
-          "takeaway": "IT之家 6 月 14 日消息，消息源 smashx_60 在 X 平台发文，曝光了 HMD Global 旗下 HMD C2/C2P 两款手机，两款手机均定位中端市场，其中 C2P 规格相对于 C2 更高一些。 其中，HMD C2 手机正面配备一块 6.78 英寸 FHD+ 90Hz AMOLED 打孔面板（峰值亮度 1000 尼特），匹配 50MP 自…",
-          "detail": "IT之家 6 月 14 日消息，消息源 smashx_60 在 X 平台发文，曝光了 HMD Global 旗下 HMD C2/C2P 两款手机，两款手机均定位中端市场，其中 C2P 规格相对于 C2 更高一些。 其中，HMD C2 手机正面配备一块 6.78 英寸 FHD+ 90Hz AMOLED 打孔面板（峰值亮度 1000 尼特），匹配 50MP 自…",
-          "keyPoints": [
-            "屏幕形态",
-            "芯片 / 性能"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "coolapk-user-6b4899893bee",
-          "title": "竹本青：消息称 REDMI K100 开测10000mAh电池",
-          "originalTitle": "",
-          "source": "竹本青",
-          "brand": "Xiaomi",
-          "type": "爆料",
-          "trust": "高可信爆料",
-          "date": "2026-06-13",
-          "time": "02:57",
-          "publishedAt": "2026-06-13T02:57:41.000Z",
-          "url": "https://www.coolapk.com/feed/72316788",
-          "image": "http://image.coolapk.com/feed/2026/0613/11/4248714_7d89c304_0438_7711_947@3741x2215.jpg",
-          "verdict": "先看",
-          "takeaway": "【消息称 REDMI K100 开测10000mAh电池】 6月13日，博主数码闲聊站爆料，REDMI K100系列中杯新测10000mAh±电池。 但根据该博主此前爆料，中杯标准版新机将搭载8开头电池，这与新曝光的10000mAh± 规格差异明显。 #红米k90promax# #HyperOS3#",
-          "detail": "【消息称 REDMI K100 开测10000mAh电池】 6月13日，博主数码闲聊站爆料，REDMI K100系列中杯新测10000mAh±电池。 但根据该博主此前爆料，中杯标准版新机将搭载8开头电池，这与新曝光的10000mAh± 规格差异明显。 #红米k90promax# #HyperOS3#",
-          "keyPoints": [
-            "电池 / 充电",
-            "爆料来源"
-          ],
-          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
           "id": "auto-99d146e3b1af",
           "title": "Xiaomi 发布 / 上市相关消息",
           "originalTitle": "",
@@ -200,6 +81,29 @@ window.phoneRadarDaily = {
           "verdict": "先看",
           "takeaway": "Xiaomi 有发布或新功能消息，适合确认是否和新机有关。",
           "detail": "Xiaomi 发布 / 上市相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
+          "keyPoints": [
+            "爆料来源"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "auto-348b523fd27f",
+          "title": "Samsung 折叠屏相关消息",
+          "originalTitle": "",
+          "source": "Android Central",
+          "brand": "Samsung",
+          "type": "评测",
+          "trust": "媒体汇总",
+          "date": "2026-06-13",
+          "time": "16:35",
+          "publishedAt": "2026-06-13T16:35:14.000Z",
+          "url": "https://www.androidcentral.com/phones/samsung-galaxy/should-you-wait-for-the-samsung-galaxy-z-fold-8",
+          "image": "https://cdn.mos.cms.futurecdn.net/xHJPowMRYVZ4CQudNDdf8e-1280-80.jpg",
+          "verdict": "先看",
+          "takeaway": "Samsung 有系统功能或 AI 体验更新，适合关注后续是否影响日常使用。",
+          "detail": "Samsung 折叠屏相关消息。重点看折痕、铰链、厚度、屏幕可靠性和重量是否有实质改善。",
           "keyPoints": [
             "爆料来源"
           ],
@@ -413,6 +317,29 @@ window.phoneRadarDaily = {
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         },
         {
+          "id": "coolapk-user-13826d7f33e4",
+          "title": "竹本青：几天前买的SU7 Ultra车模，最近很喜欢这种1:64的微缩场景，非常可爱 #小米SU7Ultra# #Hype…",
+          "originalTitle": "",
+          "source": "竹本青",
+          "brand": "Xiaomi",
+          "type": "爆料",
+          "trust": "高可信爆料",
+          "date": "2026-06-14",
+          "time": "13:15",
+          "publishedAt": "2026-06-14T13:15:05.000Z",
+          "url": "https://www.coolapk.com/feed/72342278",
+          "image": "http://image.coolapk.com/feed/2026/0614/21/4248714_8986ab06_2885_4931_60@2880x2880.jpg",
+          "verdict": "扫一眼",
+          "takeaway": "几天前买的SU7 Ultra车模，最近很喜欢这种1:64的微缩场景，非常可爱 #小米SU7Ultra# #HyperOS3#",
+          "detail": "几天前买的SU7 Ultra车模，最近很喜欢这种1:64的微缩场景，非常可爱 #小米SU7Ultra# #HyperOS3#",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "可信度较高，但仍属于发布前线索。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        },
+        {
           "id": "coolapk-user-9b500c9aa151",
           "title": "竹本青：张雪820已进驻更多荣耀线下门店",
           "originalTitle": "",
@@ -434,29 +361,6 @@ window.phoneRadarDaily = {
           "confidence": "可信度较高，但仍属于发布前线索。",
           "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
-        {
-          "id": "auto-ff7a7de6fc63",
-          "title": "Xiaomi 17T Pro 对比 OnePlus 15：差异整理",
-          "originalTitle": "",
-          "source": "Gizmochina",
-          "brand": "Xiaomi",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-06-14",
-          "time": "12:00",
-          "publishedAt": "2026-06-14T12:00:52.000Z",
-          "url": "https://www.gizmochina.com/2026/06/14/xiaomi-17t-pro-vs-oneplus-15/",
-          "image": "https://www.gizmochina.com/wp-content/uploads/2026/06/image-69-300x193.png?x44794",
-          "verdict": "可略过",
-          "takeaway": "Xiaomi 17T Pro 对比 OnePlus 15：重点看定位、配置差异和价格差，判断是否值得等更高端型号。",
-          "detail": "Xiaomi 17T Pro 对比 OnePlus 15 的差异整理。重点看两款机型的定位、影像规格、屏幕尺寸、价格区间和发布时间是否拉开差距。",
-          "keyPoints": [
-            "屏幕形态"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "影响手感和显示体验，适合和其他机型对比。",
-          "action": "有具体参数就记录到参数库；没有参数就先收藏。"
         }
       ]
     }
