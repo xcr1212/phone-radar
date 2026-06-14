@@ -1,13 +1,13 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-06-14T17:47:24.003Z",
+  "updatedAt": "2026-06-14T19:57:44.770Z",
   "issueDate": "2026-06-14",
   "issue": "VOL.260614",
   "title": "手机情报日报",
-  "intro": "今日筛出 15 条重点，其中 4 条是重点爆料，包含 2 条 iPhone 相关、0 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 15 条重点，其中 5 条是重点爆料，包含 2 条 iPhone 相关、0 条官方确认、0 条参数线索。",
   "stats": {
     "total": 15,
     "iphone": 2,
-    "leaks": 4,
+    "leaks": 5,
     "official": 0,
     "specs": 0
   },
@@ -106,6 +106,29 @@ window.phoneRadarDaily = {
           "detail": "Xiaomi 发布 / 上市相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
           "keyPoints": [
             "爆料来源"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "newsnow-792efc7b156c",
+          "title": "女子手机放枕边充电凌晨突然爆炸",
+          "originalTitle": "",
+          "source": "今日头条热榜",
+          "brand": "行业",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-06-14",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://www.toutiao.com/trending/7651037840683941938/",
+          "image": "",
+          "verdict": "先看",
+          "takeaway": "女子手机放枕边充电凌晨突然爆炸",
+          "detail": "女子手机放枕边充电凌晨突然爆炸",
+          "keyPoints": [
+            "电池 / 充电"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
@@ -255,44 +278,21 @@ window.phoneRadarDaily = {
       "hint": "看方向，不急着当购买依据。",
       "items": [
         {
-          "id": "newsnow-579a39daf63d",
-          "title": "#我在酷安晒女友# #华为鸿蒙# #iPhone17ProMax# 1000天纪念日｜见证我们的双向奔赴💕",
+          "id": "newsnow-5cb148dd0ee5",
+          "title": "17岁小孩哥隐瞒瑕疵卖我摄像头有黑斑的手机。我决定起诉他。",
           "originalTitle": "",
           "source": "酷安热榜",
-          "brand": "Huawei",
+          "brand": "行业",
           "type": "爆料",
           "trust": "高关注爆料源",
           "date": "2026-06-14",
           "time": "",
           "publishedAt": "",
-          "url": "https://www.coolapk.com/feed/72328886",
+          "url": "https://www.coolapk.com/feed/72330418",
           "image": "",
-          "verdict": "先看",
-          "takeaway": "#我在酷安晒女友# #华为鸿蒙# #iPhone17ProMax# 1000天纪念日｜见证我们的双向奔赴💕",
-          "detail": "#我在酷安晒女友# #华为鸿蒙# #iPhone17ProMax# 1000天纪念日｜见证我们的双向奔赴💕",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
-        {
-          "id": "newsnow-da07f98b0cb0",
-          "title": "我真是力竭了，再也不在网上和人争了[哈哈哈]事情是这样的，在抖音看到个经典的两三千安卓对比苹果 promax 拍照的视频，我就回复了一句两三千安卓比万元苹果真是闹麻了，结果上来就是一句 bro 起手，后来就开始攻击，说苹果 6 都比安卓拍照强，然后攻击我没有苹果，我拍出苹果给她看，她让我别拍别人手机，我用截图证明了是自己的之后又说我拿手机当身份证，后来又开始说我是贷款的[喷血] #华为Mate80ProMax# #小米17ProMax# #vivoX300Pro#",
-          "originalTitle": "",
-          "source": "酷安热榜",
-          "brand": "Huawei",
-          "type": "爆料",
-          "trust": "高关注爆料源",
-          "date": "2026-06-14",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://www.coolapk.com/feed/72328068",
-          "image": "",
-          "verdict": "先看",
-          "takeaway": "我真是力竭了，再也不在网上和人争了[哈哈哈]事情是这样的，在抖音看到个经典的两三千安卓对比苹果 promax 拍照的视频，我就回复了一句两三千安卓比万元苹果真是闹麻了，结果上来就是一句 bro 起手，后来就开始攻击，说苹果 6 都比安卓拍照强，然后攻击我没有苹果，我拍出苹果给她看，她让我别拍别人手机，我用截图证明了是自己的之后又说我拿手机当身份证，后来又开…",
-          "detail": "我真是力竭了，再也不在网上和人争了[哈哈哈]事情是这样的，在抖音看到个经典的两三千安卓对比苹果 promax 拍照的视频，我就回复了一句两三千安卓比万元苹果真是闹麻了，结果上来就是一句 bro 起手，后来就开始攻击，说苹果 6 都比安卓拍照强，然后攻击我没有苹果，我拍出苹果给她看，她让我别拍别人手机，我用截图证明了是自己的之后又说我拿手机当身份证，后来又开…",
+          "verdict": "扫一眼",
+          "takeaway": "17岁小孩哥隐瞒瑕疵卖我摄像头有黑斑的手机。我决定起诉他。",
+          "detail": "17岁小孩哥隐瞒瑕疵卖我摄像头有黑斑的手机。我决定起诉他。",
           "keyPoints": [
             "爆料"
           ],
@@ -324,29 +324,6 @@ window.phoneRadarDaily = {
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         },
         {
-          "id": "newsnow-5cb148dd0ee5",
-          "title": "17岁小孩哥隐瞒瑕疵卖我摄像头有黑斑的手机。我决定起诉他。",
-          "originalTitle": "",
-          "source": "酷安热榜",
-          "brand": "行业",
-          "type": "爆料",
-          "trust": "高关注爆料源",
-          "date": "2026-06-14",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://www.coolapk.com/feed/72330418",
-          "image": "",
-          "verdict": "扫一眼",
-          "takeaway": "17岁小孩哥隐瞒瑕疵卖我摄像头有黑斑的手机。我决定起诉他。",
-          "detail": "17岁小孩哥隐瞒瑕疵卖我摄像头有黑斑的手机。我决定起诉他。",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
-        {
           "id": "coolapk-user-13826d7f33e4",
           "title": "竹本青：几天前买的SU7 Ultra车模，最近很喜欢这种1:64的微缩场景，非常可爱 #小米SU7Ultra# #Hype…",
           "originalTitle": "",
@@ -370,27 +347,50 @@ window.phoneRadarDaily = {
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         },
         {
-          "id": "coolapk-user-9b500c9aa151",
-          "title": "竹本青：张雪820已进驻更多荣耀线下门店",
+          "id": "auto-d8371c0a589e",
+          "title": "OPPO 相关消息",
           "originalTitle": "",
-          "source": "竹本青",
-          "brand": "HONOR",
+          "source": "Android Police",
+          "brand": "OPPO",
           "type": "爆料",
-          "trust": "高可信爆料",
-          "date": "2026-06-13",
-          "time": "12:50",
-          "publishedAt": "2026-06-13T12:50:56.000Z",
-          "url": "https://www.coolapk.com/feed/72325795",
-          "image": "http://image.coolapk.com/feed/2026/0613/20/4248714_f10e0105_5253_8521_394@2000x3555.jpg",
-          "verdict": "扫一眼",
-          "takeaway": "【李健：张雪820已进驻更多荣耀线下门店】 今天晚间，WSBK艾米利亚-罗马涅站第一回合正赛，张雪机车53号车手 瓦伦丁·德比斯 再次夺冠登上领奖台。 赛后，荣耀公司CEO李健宣布，张雪820机车已进驻到了更多的荣耀线下门店。 #今日热点# #MagicOS10# #张雪机车#",
-          "detail": "【李健：张雪820已进驻更多荣耀线下门店】 今天晚间，WSBK艾米利亚-罗马涅站第一回合正赛，张雪机车53号车手 瓦伦丁·德比斯 再次夺冠登上领奖台。 赛后，荣耀公司CEO李健宣布，张雪820机车已进驻到了更多的荣耀线下门店。 #今日热点# #MagicOS10# #张雪机车#",
+          "trust": "媒体汇总",
+          "date": "2026-06-14",
+          "time": "17:30",
+          "publishedAt": "2026-06-14T17:30:11.000Z",
+          "url": "https://www.androidpolice.com/i-used-the-pixel-10a-and-oneplus-15r-and-one-feels-like-a-total-steal/",
+          "image": "",
+          "verdict": "可略过",
+          "takeaway": "OPPO 相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
+          "detail": "OPPO 相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
           "keyPoints": [
             "爆料"
           ],
-          "confidence": "可信度较高，但仍属于发布前线索。",
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        },
+        {
+          "id": "auto-ff7a7de6fc63",
+          "title": "Xiaomi 17T Pro 对比 OnePlus 15：差异整理",
+          "originalTitle": "",
+          "source": "Gizmochina",
+          "brand": "Xiaomi",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-06-14",
+          "time": "12:00",
+          "publishedAt": "2026-06-14T12:00:52.000Z",
+          "url": "https://www.gizmochina.com/2026/06/14/xiaomi-17t-pro-vs-oneplus-15/",
+          "image": "https://www.gizmochina.com/wp-content/uploads/2026/06/image-69-300x193.png?x44794",
+          "verdict": "可略过",
+          "takeaway": "Xiaomi 17T Pro 对比 OnePlus 15：重点看定位、配置差异和价格差，判断是否值得等更高端型号。",
+          "detail": "Xiaomi 17T Pro 对比 OnePlus 15 的差异整理。重点看两款机型的定位、影像规格、屏幕尺寸、价格区间和发布时间是否拉开差距。",
+          "keyPoints": [
+            "屏幕形态"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "影响手感和显示体验，适合和其他机型对比。",
+          "action": "有具体参数就记录到参数库；没有参数就先收藏。"
         }
       ]
     }
