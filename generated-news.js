@@ -1,6 +1,206 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-06-15T12:42:25.985Z",
+  "updatedAt": "2026-06-15T18:46:47.760Z",
   "news": [
+    {
+      "id": "auto-4df7e9671b44",
+      "title": "Samsung’s extra-wide Galaxy Z Fold might come with a smoother internal display",
+      "source": "Android Authority",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-15",
+      "time": "18:17",
+      "publishedAt": "2026-06-15T18:17:04.000Z",
+      "url": "https://www.androidauthority.com/samsung-wide-fold-glass-3677592/",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2025/07/Galaxy-Z-Fold-7-unfolded-upright-on-table-hero-image-scaled.jpg",
+      "summary": "Thicker glass = smoother glass.",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-9baab45b529f",
+      "title": "No iPhone 18 This Year, Apple Supplier Comments Seemingly Confirm",
+      "source": "MacRumors",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-15",
+      "time": "17:51",
+      "publishedAt": "2026-06-15T17:51:57.000Z",
+      "url": "https://www.macrumors.com/2026/06/15/no-iphone-18-this-year-apple-supplier-confirms/",
+      "image": "https://images.macrumors.com/article-new/2025/09/iphone-17-rear-camera.jpg",
+      "summary": "Apple's standard iPhone 18 model will launch in early 2027, based on comments from a partner in the company's supply chain that appear to corroborate rumors of a delayed spring re…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-fc33d856beb4",
+      "title": "FCC listings reveal Samsung's Galaxy Unpacked lineup, except for one phone everyone's waiting for",
+      "source": "Android Police",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-15",
+      "time": "16:47",
+      "publishedAt": "2026-06-15T16:47:34.000Z",
+      "url": "https://www.androidpolice.com/fcc-listings-reveal-samsungs-galaxy-unpacked-lineup-except-for-one-phone-everyones-waiting-for/",
+      "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2025/01/galaxy-unpacked-thumbnail.png",
+      "summary": "Where's the Galaxy Z Fold 8 Wide?",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-f599a73b5613",
+      "title": "砍其他产品预算也要做：曝阔折叠将成 TOP6 品牌未来一段时间含金量和定位最高手机产品",
+      "source": "IT之家",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-15",
+      "time": "15:25",
+      "publishedAt": "2026-06-15T15:25:54.000Z",
+      "url": "https://www.ithome.com/0/964/600.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/6/cb12cb4c-38d7-409d-8d18-f2b475cdbc46.png?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 6 月 15 日消息，博主 @数码闲聊站 今日发文透露，阔折叠将会是未来一段时间内，TOP6 主流品牌含金量最高且定位最高的手机产品， 有些厂商甚至在砍其它产品的预算做阔折叠 。 有网友认为阔折叠销量只有华为一家独大了，博主表示：“ 苹果也是稳的，其它家目前还是未知数。 ” 参考IT之家过往报道来看，目前华为已率先发布了 Pura X 和 Pur…",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-dcda0a6d8273",
+      "title": "Galaxy Z Fold 8 ‘Wide’ reportedly has a stronger inner display than the ‘Ultra’",
+      "source": "9to5Google",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-15",
+      "time": "14:25",
+      "publishedAt": "2026-06-15T14:25:00.000Z",
+      "url": "https://9to5google.com/2026/06/15/galaxy-z-fold-8-wide-reportedly-has-a-stronger-inner-display-than-the-ultra/",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/04/galaxy-z-fold-8-wide-leak-renders-onl-1.jpg?quality=82&strip=all&w=1600",
+      "summary": "According to a new report, Samsung’s upcoming Galaxy Z Fold 8, the one otherwise known as “Wide,” will have better inner display ultra-thin glass than the device known as “Ultra.”",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-f844436111ad",
+      "title": "REDMI K90 Ultra tipped to pair Snapdragon 8 Elite with active cooling to compete with Snapdragon 8 Elite Gen 5 flagships",
+      "source": "Gizmochina",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-15",
+      "time": "14:16",
+      "publishedAt": "2026-06-15T14:16:27.000Z",
+      "url": "https://www.gizmochina.com/2026/06/15/redmi-k90-ultra-tipped-to-use-snapdragon-8-elite-active-cooling-to-compete-with-snapdragon-8-elite-gen-5-flagships/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/06/image-90-300x169.png?x44794",
+      "summary": "According to the reliable Chinese tipster @DigitalChatStation, the Redmi K90 Ultra (model number M332BF) will pack Qualcomm’s Snapdragon 8 Elite chipset along with a built-in air…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-c1810e2851a7",
+      "title": "vivo T5 Lite 5G 手机规格曝光：6.74 英寸 720P 120Hz LCD 屏幕，天玑 6300 芯片",
+      "source": "IT之家",
+      "brand": "vivo",
+      "model": "vivo 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-15",
+      "time": "14:14",
+      "publishedAt": "2026-06-15T14:14:50.000Z",
+      "url": "https://www.ithome.com/0/964/588.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/6/1220a94a-31a3-4883-97f1-dc6396747232.jpg?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 6 月 15 日消息，据科技媒体 XpertPick 今天报道，vivo 将在海外市场推出 T5 Lite 5G 手机，新机定位中低端入门市场，预计将在近期发售。 IT之家在此援引 XpertPick， 这款手机将搭载一块 6.74 英寸 720P LCD 屏幕 ，支持 120Hz 刷新率，最高亮度可达 1200nits。具备 6500mAh 电…",
+      "tags": [
+        "vivo",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-4e842df9cb05",
+      "title": "iPhone 18 Pro: Three new camera upgrades are coming",
+      "source": "9to5Mac",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-15",
+      "time": "13:52",
+      "publishedAt": "2026-06-15T13:52:28.000Z",
+      "url": "https://9to5mac.com/2026/06/15/iphone-18-pro-three-new-camera-upgrades-are-coming/",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/iphone-17-pro-blue-camera-array.jpg?quality=82&strip=all&w=1600",
+      "summary": "iPhone 18 Pro is just a few months away , and rumors indicate it could bring an especially noteworthy batch of camera upgrades. Here are the three main camera features currently r…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-a46612ae55a4",
+      "title": "iPhone 18 Pro casing likely to experience same pros & cons as its predecessor",
+      "source": "9to5Mac",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-15",
+      "time": "13:48",
+      "publishedAt": "2026-06-15T13:48:53.000Z",
+      "url": "https://9to5mac.com/2026/06/15/iphone-18-pro-casing-likely-to-experience-same-pros-cons-as-its-predecessor/",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/05/iphone-18-pro-colors.jpg?quality=82&strip=all&w=1600",
+      "summary": "The iPhone 17 Pro switched from the titanium casing of earlier models to aluminum alloy, with a resulting mix of pros and cons. A new report says that the iPhone 18 Pro will use t…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-d99c63ff88c1",
+      "title": "Leaker Warns iPhone 18 Pro New Colors May Face Same Durability Issues",
+      "source": "MacRumors",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-15",
+      "time": "12:56",
+      "publishedAt": "2026-06-15T12:56:50.000Z",
+      "url": "https://www.macrumors.com/2026/06/15/iphone-18-pro-may-face-same-durability-issues/",
+      "image": "https://images.macrumors.com/article-new/2026/04/Four-iPhone-18-Pro-Colors-Mock-Feature.jpg",
+      "summary": "A known Weibo leaker has reiterated that the iPhone 18 Pro will retain its aluminum alloy build, while issuing a specific warning that the new color options may be susceptible to…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-55f8198f4486",
       "title": "Galaxy S25 starts getting Notification Highlights with new update",
@@ -23,7 +223,7 @@ window.phoneRadarAuto = {
     },
     {
       "id": "coolapk-user-b021749be3cd",
-      "title": "竹本青：【大疆 Osmo Pocket 4P 双主摄口袋云台相机 正式发布，售价3799元起】 标准套装 —— 3799元…",
+      "title": "竹本青：大疆 Osmo Pocket 4P 双主摄口袋云台相机发布，售价3799元起",
       "source": "竹本青",
       "brand": "行业",
       "model": "智能手机市场",
@@ -34,7 +234,7 @@ window.phoneRadarAuto = {
       "publishedAt": "2026-06-15T12:01:02.000Z",
       "url": "https://www.coolapk.com/feed/72357324",
       "image": "http://image.coolapk.com/feed/2026/0615/20/4248714_3dd4f70f_5419_1036_397@900x1200.png",
-      "summary": "【大疆 Osmo Pocket 4P 双主摄口袋云台相机 正式发布，售价3799元起】 标准套装 —— 3799元（图4） Vlog套装 —— 4299元（图5） ● 主摄：1英寸 Lofic 37MP 等效20mm，f/2.0光圈，2倍无损 ——————————————— ● 中焦：1/1.28英寸 37MP 等效60mm，f/1.8光圈，12倍变焦 ●…",
+      "summary": "【大疆 Osmo Pocket 4P 双主摄口袋云台相机 正式发布，售价3799元起】 标准套装 —— 3799元（图4） Vlog套装 —— 4299元（图5） ● 主摄：1英寸 Lofic 等效20mm f/2.0光圈 2倍无损 ——————————————— ● 中焦：1/1.28英寸 37MP 等效60mm f/1.8光圈 12倍变焦 20cm微距…",
       "tags": [
         "行业",
         "爆料",
@@ -122,26 +322,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-438a1a265a58",
-      "title": "一加 N6 手机海外官宣，6 月 30 日发布",
-      "source": "IT之家",
-      "brand": "OPPO",
-      "model": "OPPO 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-15",
-      "time": "08:54",
-      "publishedAt": "2026-06-15T08:54:05.000Z",
-      "url": "https://www.ithome.com/0/964/489.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/6/3984614f-04d1-4db7-9058-80554f5d76a7.jpg?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 6 月 15 日消息，一加官方今天在印度宣布， OnePlus N6 手机将于 6 月 30 日正式发布 。 据一加印度副总裁 Ford 介绍， 这款手机的定价预计在 18000 印度卢比-25000 印度卢比（IT之家注：现汇率约合 1273 元- 1768 元人民币）之间 ，主打性价比用户群体。 同时，这款手机将瞄准 Z 世代用户群体，目前该…",
-      "tags": [
-        "OPPO",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-9ec63d52123e",
       "title": "Huawei Mate 80’s Kirin 9030 uses Chinese + Samsung memory",
       "source": "Huawei Central",
@@ -179,26 +359,6 @@ window.phoneRadarAuto = {
         "HONOR",
         "爆料",
         "酷安博主"
-      ]
-    },
-    {
-      "id": "auto-06f2cb2c0512",
-      "title": "New Galaxy Z Flip 8 leak reveals Exynos and Snapdragon market split",
-      "source": "SamMobile",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-15",
-      "time": "07:29",
-      "publishedAt": "2026-06-15T07:29:16.000Z",
-      "url": "https://www.sammobile.com/news/galaxy-z-flip-8-leak-reveals-exynos-snapdragon-market-split/",
-      "image": "",
-      "summary": "From the first-generation Galaxy Z Flip to the Galaxy Z Flip 6, Samsung used Qualcomm Snapdragon chipsets in all models of the lineup. That changed with the Galaxy Z Flip 7, which…",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
       ]
     },
     {
@@ -319,26 +479,6 @@ window.phoneRadarAuto = {
         "iPhone",
         "爆料",
         "NewsNow"
-      ]
-    },
-    {
-      "id": "auto-d8371c0a589e",
-      "title": "I used the Pixel 10a and OnePlus 15R, and one feels like a total steal",
-      "source": "Android Police",
-      "brand": "OPPO",
-      "model": "OPPO 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-14",
-      "time": "17:30",
-      "publishedAt": "2026-06-14T17:30:11.000Z",
-      "url": "https://www.androidpolice.com/i-used-the-pixel-10a-and-oneplus-15r-and-one-feels-like-a-total-steal/",
-      "image": "",
-      "summary": "You'll have to stretch your budget, but it may be worth it",
-      "tags": [
-        "OPPO",
-        "爆料",
-        "自动抓取"
       ]
     },
     {
