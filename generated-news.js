@@ -1,6 +1,46 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-06-15T18:46:47.760Z",
+  "updatedAt": "2026-06-15T22:28:41.107Z",
   "news": [
+    {
+      "id": "auto-fcfc9bf748eb",
+      "title": "More Galaxy Z Fold 8 ‘Ultra’ leaks confirm it looks just like a normal Samsung foldable",
+      "source": "9to5Google",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-15",
+      "time": "19:37",
+      "publishedAt": "2026-06-15T19:37:17.000Z",
+      "url": "https://9to5google.com/2026/06/15/galaxy-z-fold-8-ultra-fcc-leak/",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2025/08/Galaxy-Z-Fold-7-screen-and-design-2.jpg?quality=82&strip=all&w=1600",
+      "summary": "Previous reports indicated that Samsung has reassigned the standard naming scheme to a shorter, wider foldable. The latest leaks from internal FCC documentation depicting the Gala…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-af1d033317e9",
+      "title": "OnePlus N6 launching on June 30 as brand’s first N series phone",
+      "source": "Gizmochina",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-15",
+      "time": "19:06",
+      "publishedAt": "2026-06-15T19:06:53.000Z",
+      "url": "https://www.gizmochina.com/2026/06/15/oneplus-n6-launching-on-june-30-as-brands-first-n-series-phone/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/06/3984614f-04d1-4db7-9058-80554f5d76a7-300x169.jpg?x44794",
+      "summary": "OnePlus just announced it’s expanding in India with a fresh entry-level series. The first phone is the OnePlus N6, launching on June 30 in India. It’s aimed at younger buyers who…",
+      "tags": [
+        "OPPO",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-4df7e9671b44",
       "title": "Samsung’s extra-wide Galaxy Z Fold might come with a smoother internal display",
@@ -219,26 +259,6 @@ window.phoneRadarAuto = {
         "Samsung",
         "爆料",
         "自动抓取"
-      ]
-    },
-    {
-      "id": "coolapk-user-b021749be3cd",
-      "title": "竹本青：大疆 Osmo Pocket 4P 双主摄口袋云台相机发布，售价3799元起",
-      "source": "竹本青",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-06-15",
-      "time": "12:01",
-      "publishedAt": "2026-06-15T12:01:02.000Z",
-      "url": "https://www.coolapk.com/feed/72357324",
-      "image": "http://image.coolapk.com/feed/2026/0615/20/4248714_3dd4f70f_5419_1036_397@900x1200.png",
-      "summary": "【大疆 Osmo Pocket 4P 双主摄口袋云台相机 正式发布，售价3799元起】 标准套装 —— 3799元（图4） Vlog套装 —— 4299元（图5） ● 主摄：1英寸 Lofic 等效20mm f/2.0光圈 2倍无损 ——————————————— ● 中焦：1/1.28英寸 37MP 等效60mm f/1.8光圈 12倍变焦 20cm微距…",
-      "tags": [
-        "行业",
-        "爆料",
-        "酷安博主"
       ]
     },
     {
@@ -462,21 +482,41 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-798f84f081b3",
-      "title": "最近给对象拍了组照片，感觉 17pm 拍照还可以，和国产旗舰差距不大呀[呲牙] #iPhone17ProMax# #数码日常#",
+      "id": "newsnow-0463be954c75",
+      "title": "何意味，华为穿越到过去窃取苹果最新折叠的技术，制作出了Pura X Max是么？[流泪]#数码日常# #iPhone17ProMax# #华为鸿蒙#",
       "source": "酷安热榜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-06-15",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72344299",
+      "url": "https://www.coolapk.com/feed/72355450",
       "image": "",
-      "summary": "最近给对象拍了组照片，感觉 17pm 拍照还可以，和国产旗舰差距不大呀[呲牙] #iPhone17ProMax# #数码日常#",
+      "summary": "何意味，华为穿越到过去窃取苹果最新折叠的技术，制作出了Pura X Max是么？[流泪]#数码日常# #iPhone17ProMax# #华为鸿蒙#",
       "tags": [
-        "iPhone",
+        "Huawei",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-a659010bec14",
+      "title": "李想：今天的智能手机并不是真的智能",
+      "source": "今日头条热榜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-15",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.toutiao.com/trending/7650811553666662443/",
+      "image": "",
+      "summary": "李想：今天的智能手机并不是真的智能",
+      "tags": [
+        "行业",
         "爆料",
         "NewsNow"
       ]
