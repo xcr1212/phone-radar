@@ -1,24 +1,264 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-06-14T23:37:39.489Z",
+  "updatedAt": "2026-06-15T05:27:53.413Z",
   "news": [
     {
-      "id": "auto-db86b1d5980e",
-      "title": "消息称三星 Galaxy Z Fold8“阔折叠”手机 UTG 玻璃层厚度达 60 微米，相对于 Ultra 机型更厚",
+      "id": "coolapk-user-aa9a2358ee80",
+      "title": "JSCHEN小小狐：『华为自研传感器进展曝光：50Mp 小批量上机』 知名数码博主 数码闲聊站 发博爆料称，此前曝光的华为自研传感器家…",
+      "source": "JSCHEN小小狐",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-06-15",
+      "time": "05:22",
+      "publishedAt": "2026-06-15T05:22:36.000Z",
+      "url": "https://www.coolapk.com/feed/72351288",
+      "image": "http://image.coolapk.com/feed/2026/0615/13/4702274_dc222f02_0955_2786_951@1440x442.jpg",
+      "summary": "『华为自研传感器进展曝光：50Mp 小批量上机』 知名数码博主 数码闲聊站 发博爆料称，此前曝光的华为自研传感器家族中，50Mp 规格已“小批量上机”，且 200Mp 超大底传感器也已启动研制。 据悉，此前海思公开的自研 CIS「海思 CS5250（V200）」已应用于骁途 S7 Pro Max 运动相机（50Mp 1/1.3''）。此外，消息称华为还拥有…",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-501441d6c429",
+      "title": "Oppo Find X10 Pro leak hints at twin 200-megapixel cameras and a huge battery",
+      "source": "Gizmochina",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-15",
+      "time": "04:13",
+      "publishedAt": "2026-06-15T04:13:32.000Z",
+      "url": "https://www.gizmochina.com/2026/06/15/oppo-find-x10-pro-leaked-specifications/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/01/Oppo-Find-X9-Pro-300x225.jpg?x44794",
+      "summary": "Oppo’s next-generation flagship smartphone may have taken an early step into the spotlight. A new leak from well-known tipster Digital Chat Station has revealed the specifications…",
+      "tags": [
+        "OPPO",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-a37b2253e74e",
+      "title": "行业首款开源鸿蒙消费级人形机器人：松延动力 N2 亮相华为开发者大会 HDC 2026",
+      "source": "IT之家",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-15",
+      "time": "03:56",
+      "publishedAt": "2026-06-15T03:56:00.000Z",
+      "url": "https://www.ithome.com/0/964/325.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/6/5c834e19-de8a-4e57-9579-c8ce2ee1d576.png?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 6 月 15 日消息，行业首款开源鸿蒙消费级人形机器人 —— 松延动力的 OpenHarmony 版 N2 亮相上周末的华为开发者大会 HDC 2026。 松延动力表示，当前消费级人形机器人普遍面临应用生态与长期发展的多重痛点。多数产品仍停留在独立硬件终端的形态， 难以与手机、智慧屏、智能家居、教育硬件等主流智能设备实现深度互联互通 ，久而久之形…",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-59848d2612f5",
+      "title": "竹本青：【小米商城「新会员体系」已全量上线：五大等级／四大维度】 ▫️五等级：普通、白银、黄金、铂金、黑钻 ▫️四维度：消…",
+      "source": "竹本青",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-06-15",
+      "time": "03:11",
+      "publishedAt": "2026-06-15T03:11:54.000Z",
+      "url": "https://www.coolapk.com/feed/72349337",
+      "image": "http://image.coolapk.com/feed/2026/0615/11/4248714_506e277e_3112_9471_823@1080x4754.jpg",
+      "summary": "【小米商城「新会员体系」已全量上线：五大等级／四大维度】 ▫️五等级：普通、白银、黄金、铂金、黑钻 ▫️四维度：消费分+活跃分+激励分+基础分 ▫️权益场景：购物、服务、影音娱乐等 ▫️原权益保障：原有 FRIEND 会员权益将平稳过渡，不受影响 #今日热点# #HyperOS3# #小米17ProMax#",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "coolapk-user-8443f76cc0f2",
+      "title": "竹本青：vivo X Fold6 影像官方爆料：三星HPB主摄+索尼LYT 602潜望长焦",
+      "source": "竹本青",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-06-15",
+      "time": "03:02",
+      "publishedAt": "2026-06-15T03:02:11.000Z",
+      "url": "https://www.coolapk.com/feed/72349177",
+      "image": "http://image.coolapk.com/feed/2026/0615/11/4248714_f8e31fce_2512_4308_918@1440x2818.jpg",
+      "summary": "【vivo X Fold6 影像官方爆料：三星HPB主摄+索尼LYT 602潜望】 ● 主摄：2亿蓝图×三星HPB 1/1.4英寸，f/1.68光圈，CIPA 4.5防抖 ——————————————————— ● 长焦：蓝图×索尼LYT 602 蔡司APO色差控制标准，CIPA 4.5防抖 ▫️蔡司增距镜G2／蓝图影像芯片V3+ ▫️蓝厂人像全家桶 ▫️…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-2e1d871966b4",
+      "title": "小米 REDMI K90 至尊版配置曝光：“骁龙 8E + 最强风冷”硬刚 8E5，搭载 8K+ 大电池",
+      "source": "IT之家",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-15",
+      "time": "02:53",
+      "publishedAt": "2026-06-15T02:53:00.000Z",
+      "url": "https://www.ithome.com/0/964/300.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/6/9ea6840f-3e06-40a5-8cdb-0e65c08a496b.jpg?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 6 月 15 日消息，博主 @数码闲聊站 今日爆料了小米 REDMI 新款至尊版机型的配置，按照常规命名预计为 REDMI K90 至尊版。 WIN RT 验证了「骁龙 + 风扇 + 大电池」这套组合很吃香，马上红米的至尊版就是这套组合， 骁龙 8E+ 最强风冷硬刚 8E5，依然是 8K+ 大电池，外围看齐 Max ，新一代「性能夯机」预定 有网…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-f464a64eebf5",
+      "title": "vivo X Fold6 预热：折叠首发蔡司 APO 超级潜望长焦、三星 M14 内屏",
       "source": "IT之家",
       "brand": "Samsung",
       "model": "Samsung 相关机型",
       "type": "爆料",
       "trust": "媒体汇总",
-      "date": "2026-06-14",
-      "time": "23:30",
-      "publishedAt": "2026-06-14T23:30:32.000Z",
-      "url": "https://www.ithome.com/0/964/199.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/6/29d0103e-d3af-447c-93b1-24355e7c2ccc.jpg?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 6 月 15 日消息，据韩媒 ZDNet 报道，三星 Galaxy Z Fold8 阔折叠将采用比 Fold8 Ultra 更厚的 UTG 玻璃层，作为比较，Fold8 Ultra 手机的 UTG 玻璃层厚度约为 45 微米，而 Fold8 玻璃层的厚度为 60 微米，提升了约 30%。 公开信息显示，UTG 厚度会直接影响屏幕折痕表现与耐用性。…",
+      "date": "2026-06-15",
+      "time": "02:40",
+      "publishedAt": "2026-06-15T02:40:35.000Z",
+      "url": "https://www.ithome.com/0/964/294.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/6/d7b85222-de57-47ac-9689-1be87285dc02.png?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 6 月 15 日消息，vivo X Fold6 折叠屏手机将于本月发布，vivo 产品副总裁黄韬今日公布了这款新机的部分规格。 据其介绍，这款新机提供“蓝洞”配色，采用了更圆润的 R 角设计，搭配 2.5D 立边金属中框。影像方面，vivo X Fold6 目标打造最强折叠影像旗舰，更是一部“折叠小 V 单”。折叠超强大底真 2 亿， 折叠首发蔡…",
       "tags": [
         "Samsung",
         "爆料",
         "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-8c430cfad8aa",
+      "title": "竹本青：【vivo X Fold6「蓝洞」配色外观释出：三星M14内屏+蔡司APO潜望】 ▫️全新升级原子工作台 ▫️Or…",
+      "source": "竹本青",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-06-15",
+      "time": "02:26",
+      "publishedAt": "2026-06-15T02:26:14.000Z",
+      "url": "https://www.coolapk.com/feed/72348641",
+      "image": "http://image.coolapk.com/feed/2026/0615/10/4248714_4330a964_0903_9068_270@1544x2160.jpg",
+      "summary": "【vivo X Fold6「蓝洞」配色外观释出：三星M14内屏+蔡司APO潜望】 ▫️全新升级原子工作台 ▫️OriginOS 6 Fold ▫️蓝晶 x 天玑9500超能版 ▫️内外屏：最新、最强一代发光材料 ▫️内屏：三星M14发光材料 ▫️内外屏：5000nit峰值+1nit极暗 ▫️大底真2亿｜蔡司APO潜望长焦 ▫️蓝图影像芯片V3+ ▫️蔡司增…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "coolapk-user-fcd6baa5f402",
+      "title": "竹本青：【REDMI K90至尊版 核心曝光：骁龙8E+风冷散热】 ▫️骁龙8 Elite+主动风冷散热 ▫️8000mA…",
+      "source": "竹本青",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-06-15",
+      "time": "02:05",
+      "publishedAt": "2026-06-15T02:05:16.000Z",
+      "url": "https://www.coolapk.com/feed/72348288",
+      "image": "http://image.coolapk.com/feed/2026/0615/10/4248714_ebcf6157_9302_9717_583@1440x441.jpg",
+      "summary": "【REDMI K90至尊版 核心曝光：骁龙8E+风冷散热】 ▫️骁龙8 Elite+主动风冷散热 ▫️8000mAh+电池 ▫️外围配置看齐Max #今日热点# #HyperOS3# #REDMIK90Max#",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-d2dddbeac18f",
+      "title": "荣耀 X80 Pro Max 手机配色公布：元气橙、闪电红、月影白、玄甲黑，6 月 22 日发布",
+      "source": "IT之家",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-15",
+      "time": "01:55",
+      "publishedAt": "2026-06-15T01:55:09.000Z",
+      "url": "https://www.ithome.com/0/964/244.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/6/f05b463b-dd52-4295-b41f-b461d8b9a17e.jpg?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 6 月 15 日消息，荣耀 X80 Pro Max 手机将于 6 月 22 日 19:00 发布，官方今日公布新机的四款配色，分别为元气橙、闪电红、月影白、玄甲黑。 据此前官方公布信息，荣耀 X80 Pro Max 主打长续航， 搭载 11000mAh 荣耀最大电池 ，以及金标抗摔免费换屏。 IT之家注意到，博主 @数码闲聊站 此前曝光了 荣耀…",
+      "tags": [
+        "HONOR",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-b989107ba25b",
+      "title": "竹本青：享界G9官宣：鸿蒙智行首款科技豪华硬派SUV，三季度见",
+      "source": "竹本青",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-06-15",
+      "time": "01:01",
+      "publishedAt": "2026-06-15T01:01:48.000Z",
+      "url": "https://www.coolapk.com/feed/72347555",
+      "image": "http://image.coolapk.com/feed/2026/0615/09/4248714_fa822549_7277_9913_105@1029x8050.jpg",
+      "summary": "【余承东官宣享界G9：鸿蒙智行首款科技豪华硬派SUV，三季度见】 ● 全系标配800V高压平台 ● 全系搭载华为巨鲸电池平台 ● 可选装后挂式储物箱+拖挂 ● 车长5377mm／车宽2050mm ● 车高1897mm／轴距3160mm ● G9增程版： 最大可选择75.4kWh电池包 CLTC 纯电续航里程最长超400km CLTC 综合续航里程最长超13…",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "newsnow-798f84f081b3",
+      "title": "最近给对象拍了组照片，感觉 17pm 拍照还可以，和国产旗舰差距不大呀[呲牙] #iPhone17ProMax# #数码日常#",
+      "source": "酷安热榜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-06-15",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/72344299",
+      "image": "",
+      "summary": "最近给对象拍了组照片，感觉 17pm 拍照还可以，和国产旗舰差距不大呀[呲牙] #iPhone17ProMax# #数码日常#",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-9ab91e7f503f",
+      "title": "金价跌破900老板5个手机都忙不过来",
+      "source": "百度热搜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-15",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E8%B7%8C%E7%A0%B4900%E8%80%81%E6%9D%BF5%E4%B8%AA%E6%89%8B%E6%9C%BA%E9%83%BD%E5%BF%99%E4%B8%8D%E8%BF%87%E6%9D%A5",
+      "image": "",
+      "summary": "金价跌破900老板5个手机都忙不过来",
+      "tags": [
+        "行业",
+        "爆料",
+        "NewsNow"
       ]
     },
     {
@@ -102,26 +342,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "coolapk-user-13826d7f33e4",
-      "title": "竹本青：几天前买的SU7 Ultra车模，最近很喜欢这种1:64的微缩场景，非常可爱 #小米SU7Ultra# #Hype…",
-      "source": "竹本青",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-06-14",
-      "time": "13:15",
-      "publishedAt": "2026-06-14T13:15:05.000Z",
-      "url": "https://www.coolapk.com/feed/72342278",
-      "image": "http://image.coolapk.com/feed/2026/0614/21/4248714_8986ab06_2885_4931_60@2880x2880.jpg",
-      "summary": "几天前买的SU7 Ultra车模，最近很喜欢这种1:64的微缩场景，非常可爱 #小米SU7Ultra# #HyperOS3#",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
       "id": "auto-ff7a7de6fc63",
       "title": "Xiaomi 17T Pro vs OnePlus 15: Don’t Buy Until You Read This Comparison",
       "source": "Gizmochina",
@@ -137,266 +357,6 @@ window.phoneRadarAuto = {
       "summary": "Choosing between the Xiaomi 17T Pro and OnePlus 15 is not easy because both target the premium flagship segment with top-tier performance, large batteries, advanced displays, and…",
       "tags": [
         "Xiaomi",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "newsnow-5cb148dd0ee5",
-      "title": "17岁小孩哥隐瞒瑕疵卖我摄像头有黑斑的手机。我决定起诉他。",
-      "source": "酷安热榜",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-06-14",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72330418",
-      "image": "",
-      "summary": "17岁小孩哥隐瞒瑕疵卖我摄像头有黑斑的手机。我决定起诉他。",
-      "tags": [
-        "行业",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-5430b1a128fe",
-      "title": "我错了，我以为能适应小厂的系统，结果两天就撑不住了，这手机哪里都好，就是系统烂，除了性能释放强，其余的都烂得不行，这玩意儿比澎湃还毒，小厂之所以是小厂还是有原因的，再也不碰了，还是换回K90了[流汗滑稽] #努比亚Z80Ultra#",
-      "source": "酷安热榜",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-06-14",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72311431",
-      "image": "",
-      "summary": "我错了，我以为能适应小厂的系统，结果两天就撑不住了，这手机哪里都好，就是系统烂，除了性能释放强，其余的都烂得不行，这玩意儿比澎湃还毒，小厂之所以是小厂还是有原因的，再也不碰了，还是换回K90了[流汗滑稽] #努比亚Z80Ultra#",
-      "tags": [
-        "行业",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-da07f98b0cb0",
-      "title": "我真是力竭了，再也不在网上和人争了[哈哈哈]事情是这样的，在抖音看到个经典的两三千安卓对比苹果 promax 拍照的视频，我就回复了一句两三千安卓比万元苹果真是闹麻了，结果上来就是一句 bro 起手，后来就开始攻击，说苹果 6 都比安卓拍照强，然后攻击我没有苹果，我拍出苹果给她看，她让我别拍别人手机，我用截图证明了是自己的之后又说我拿手机当身份证，后来又开始说我是贷款的[喷血] #华为Mate80ProMax# #小米17ProMax# #vivoX300Pro#",
-      "source": "酷安热榜",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-06-14",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72328068",
-      "image": "",
-      "summary": "我真是力竭了，再也不在网上和人争了[哈哈哈]事情是这样的，在抖音看到个经典的两三千安卓对比苹果 promax 拍照的视频，我就回复了一句两三千安卓比万元苹果真是闹麻了，结果上来就是一句 bro 起手，后来就开始攻击，说苹果 6 都比安卓拍照强，然后攻击我没有苹果，我拍出苹果给她看，她让我别拍别人手机，我用截图证明了是自己的之后又说我拿手机当身份证，后来又开…",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-792efc7b156c",
-      "title": "女子手机放枕边充电凌晨突然爆炸",
-      "source": "今日头条热榜",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-14",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.toutiao.com/trending/7651037840683941938/",
-      "image": "",
-      "summary": "女子手机放枕边充电凌晨突然爆炸",
-      "tags": [
-        "行业",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "auto-d95663882522",
-      "title": "Hands-on: Belkin’s new 25W MagSafe battery packs 10,000mAh for your iPhone",
-      "source": "9to5Mac",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-13",
-      "time": "18:15",
-      "publishedAt": "2026-06-13T18:15:00.000Z",
-      "url": "https://9to5mac.com/2026/06/13/belkin-ultracharge-pro-10000mah-magsafe-battery-hands-on/",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/Belkin-10k.jpg?quality=82&strip=all&w=1600",
-      "summary": "Belkin has a beefy new 25W MagSafe battery on the market – packing a whopping 10,000mAh of capacity. It has two killer new features: a kickstand, and a second MagSafe ring. Initia…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-99d146e3b1af",
-      "title": "Xiaomi 18 shows up in the IMEI database months before launch",
-      "source": "Gizmochina",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-13",
-      "time": "17:24",
-      "publishedAt": "2026-06-13T17:24:41.000Z",
-      "url": "https://www.gizmochina.com/2026/06/13/xiaomi-18-gsma-database-codename-madrid%ee%81%96%ee%80%bb%ee%83%81%ee%83%bb%ee%83%b9%ee%84%9d/",
-      "image": "https://www.gizmochina.com/wp-content/uploads/2025/09/Xiaomi-17-Pro-Max-Review_1.mp4_20250930_164941.855-300x150.jpg?x44794",
-      "summary": "The Xiaomi 18 series has been making headlines in the rumor mill for quite some time now. And today, the vanilla Xiaomi 18 has its first indication of existence, thanks to a new l…",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-8ebba41e32e2",
-      "title": "Xiaomi is giving the Xiaomi 14 Pro a battery upgrade, but only in one country",
-      "source": "Gizmochina",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-13",
-      "time": "16:57",
-      "publishedAt": "2026-06-13T16:57:22.000Z",
-      "url": "https://www.gizmochina.com/2026/06/13/xiaomi-14-pro-battery-upgrade-service-china/",
-      "image": "https://www.gizmochina.com/wp-content/uploads/2023/10/Xiaomi-14-Pro-Titanium-Special-Edition-300x169.jpg?x44794",
-      "summary": "Xiaomi‘s battery upgrade program, which recently launched for the Xiaomi 13 series, could be coming to the Xiaomi 14 lineup next. A new network access certification has hinted at…",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-7d8ea5b7b049",
-      "title": "Huawei Mate 90 series can bring five models including fan edition",
-      "source": "Huawei Central",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-13",
-      "time": "16:55",
-      "publishedAt": "2026-06-13T16:55:36.000Z",
-      "url": "https://www.huaweicentral.com/huawei-mate-90-series-can-bring-five-models-including-fan-edition/",
-      "image": "https://www.huaweicentral.com/wp-content/uploads/2026/03/huawei-mate-80-pro-max-wind-edition-img1.jpg",
-      "summary": "Huawei Mate 90 series could bring not four but up to five models together this year, including a fan version. While a similar move was expected last year, the company unveiled the…",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-348b523fd27f",
-      "title": "Should you wait for the Samsung Galaxy Z Fold 8?",
-      "source": "Android Central",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "评测",
-      "trust": "媒体汇总",
-      "date": "2026-06-13",
-      "time": "16:35",
-      "publishedAt": "2026-06-13T16:35:14.000Z",
-      "url": "https://www.androidcentral.com/phones/samsung-galaxy/should-you-wait-for-the-samsung-galaxy-z-fold-8",
-      "image": "https://cdn.mos.cms.futurecdn.net/xHJPowMRYVZ4CQudNDdf8e-1280-80.jpg",
-      "summary": "Leaks and rumors are pointing to another exciting year for Samsung's Galaxy Z Fold series, and the Z Fold 8 may just change things up in one of the biggest ways yet.",
-      "tags": [
-        "Samsung",
-        "评测",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "coolapk-user-d508ed366a77",
-      "title": "竹本青：曝华为Mate 80系列销量已突破670万台",
-      "source": "竹本青",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-06-13",
-      "time": "12:35",
-      "publishedAt": "2026-06-13T12:35:02.000Z",
-      "url": "https://www.coolapk.com/feed/72325540",
-      "image": "http://image.coolapk.com/feed/2026/0613/20/4248714_bd5eb235_4249_5022_644@1270x1587.jpg",
-      "summary": "【曝华为Mate 80系列 销量已突破670万台】 6月13日，博主「RD观测」发布第三方统计数据：截至2026年第23周，华为Mate 80系列 累计销量约670.56万台。 前几周数据如下： 截至2026 W22 —— 约649.42万 截至2026 W21 —— 约629.58万 截至2026 W20 —— 约609.35万 #今日热点# #华为Ma…",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
-      "id": "auto-c1d820cee61c",
-      "title": "Mate 90 series launch month: Here’s when Huawei’s new flagship is coming",
-      "source": "Huawei Central",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-13",
-      "time": "09:58",
-      "publishedAt": "2026-06-13T09:58:20.000Z",
-      "url": "https://www.huaweicentral.com/huawei-mate-90-series-launch-month/",
-      "image": "https://www.huaweicentral.com/wp-content/uploads/2026/06/mate80-phones.jpg",
-      "summary": "Huawei’s new flagship Mate 90 smartphone series and companion models are coming this fall, and the launch month here is expected to be September rather than the November timeline…",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "coolapk-user-995997f4e785",
-      "title": "竹本青：消息称 iPhone 17系列中国区销量已超3320万台",
-      "source": "竹本青",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-06-13",
-      "time": "08:57",
-      "publishedAt": "2026-06-13T08:57:40.000Z",
-      "url": "https://www.coolapk.com/feed/72322230",
-      "image": "http://image.coolapk.com/feed/2026/0613/16/4248714_1e27945f_1059_7825_432@1439x1833.jpg",
-      "summary": "【消息称 iPhone 17系列 中国区销量已超3320万台】 6月13日，博主「RD观测」发布第三方统计数据：截至2026年第23周，iPhone 17系列在中国市场累计销量约3320.36万台。 前几周数据如下： 截至2026 W22 —— 约3232.74万 截至2026 W21 —— 约3148.82万 截至2026 W20 —— 约3040.55…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
-      "id": "auto-b77768156894",
-      "title": "Global Oppo Reno 16 Pro spotted with Dimensity 8-series chip on Geekbench",
-      "source": "Gizmochina",
-      "brand": "OPPO",
-      "model": "OPPO 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-13",
-      "time": "06:44",
-      "publishedAt": "2026-06-13T06:44:24.000Z",
-      "url": "https://www.gizmochina.com/2026/06/13/global-oppo-reno-16-pro-geekbench/",
-      "image": "https://www.gizmochina.com/wp-content/uploads/2026/05/Oppo-Reno-16-and-Reno-16-Pro-300x200.png?x44794",
-      "summary": "Last month, Oppo unveiled the Reno 16 and Reno 16 Pro in China, powered by the Dimensity 8550 Super and Dimensity 9500s chipsets, respectively. A recent Geekbench listing revealed…",
-      "tags": [
-        "OPPO",
         "爆料",
         "自动抓取"
       ]
