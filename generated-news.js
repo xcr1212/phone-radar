@@ -1,6 +1,66 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-06-16T21:19:00.202Z",
+  "updatedAt": "2026-06-16T23:47:35.059Z",
   "news": [
+    {
+      "id": "auto-ef9c5b342408",
+      "title": "消息称苹果“20 周年版 iPhone”将提供两种尺寸可选，搭载 A21 Pro 处理器",
+      "source": "IT之家",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-16",
+      "time": "23:43",
+      "publishedAt": "2026-06-16T23:43:31.000Z",
+      "url": "https://www.ithome.com/0/965/151.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/6/ce600f14-d424-4c0c-ae86-690a72aab2e6.png?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 6 月 17 日消息，据彭博社报道，苹果公司正在加速推进“20 周年版 iPhone”的开发工作，该产品预计将于明年秋季正式发布。结合此前多方爆料来看，这款纪念版机型很可能会采用真正意义上的“四边曲面无边框”设计，进一步提升屏占比与视觉沉浸感。 报道称，苹果计划推出两款 20 周年纪念版机型，尺寸预计对应今年秋季发布的 iPhone 18 Pro…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-7ffbf79cfbd1",
+      "title": "Pixel 10a gains a surprisingly useful feature from its Pixel 10 sibling",
+      "source": "Android Police",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-16",
+      "time": "23:05",
+      "publishedAt": "2026-06-16T23:05:57.000Z",
+      "url": "https://www.androidpolice.com/pixel-10a-gains-valuable-translate-feature-from-pixel-10-siblings/",
+      "image": "",
+      "summary": "You're going to want to get this update",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-af8e5f92cecb",
+      "title": "WhatsApp working on yet another ephemeral feature on iOS",
+      "source": "9to5Mac",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-16",
+      "time": "21:52",
+      "publishedAt": "2026-06-16T21:52:00.000Z",
+      "url": "https://9to5mac.com/2026/06/16/whatsapp-working-on-yet-another-ephemeral-feature-on-ios/",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/11/whatsapp-ios-26.jpg?quality=82&strip=all&w=1600",
+      "summary": "A few weeks ago, a WhatsApp beta build revealed work on disappearing messages that vanish after they’re read. Now, WhatsApp is developing another ephemeral messaging feature. Here…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-88935eabdb07",
       "title": "Apple supplier Tata avoids regulatory action after pollution warning in India",
@@ -322,26 +382,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-509f7e475c36",
-      "title": "荣耀 X80 Pro Max 手机官宣通过 SGS 金标五星严苛环境抗摔认证，行业首个推出免费换屏服务",
-      "source": "IT之家",
-      "brand": "HONOR",
-      "model": "HONOR 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-16",
-      "time": "11:07",
-      "publishedAt": "2026-06-16T11:07:24.000Z",
-      "url": "https://www.ithome.com/0/965/077.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/6/94cfb131-946c-4333-811f-72809daa54c3.jpg?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 6 月 16 日消息，荣耀手机官方今日继续预热 X80 Pro Max 手机。据介绍，新机通过 SGS 金标五星严苛环境抗摔认证，实现 3 米最高抗摔。 IT之家注意到，荣耀还为 X80 Pro Max 手机推出了配套保障服务 —— 行业首个免费换屏服务 ，宣称“摔坏包换”。 预热海报小字显示，免费换屏自权益生效之日起，至两年期限届满之日二十四时…",
-      "tags": [
-        "HONOR",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-d8dbd9982859",
       "title": "Reports of iPhone Ultra launch delays are ‘false,’ says leaker",
       "source": "9to5Mac",
@@ -357,26 +397,6 @@ window.phoneRadarAuto = {
       "summary": "Alongside question marks on whether the first folding iPhone will be branded as the iPhone Fold, iPhone Ultra , or something else, there’s also been uncertainty about the launch t…",
       "tags": [
         "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-db6d23a0f629",
-      "title": "华为余承东：Pura X Max 截止目前已超越华为历史上所有折叠屏手机同期销量",
-      "source": "IT之家",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-16",
-      "time": "10:41",
-      "publishedAt": "2026-06-16T10:41:26.000Z",
-      "url": "https://www.ithome.com/0/965/047.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/6/43730664-000d-4508-9e8a-c25cd35f18ad.jpg?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 6 月 16 日消息，华为常务董事、产品投资评审委员会主任、终端 BG 董事长余承东今日发布视频，谈及了华为 Pura X Max 横向阔折叠手机 √2:1 屏幕比例背后的故事。 余承东透露，Pura X Max 截止目前（首月），已超越华为历史上所有折叠屏手机同期的销量。他表示，从直屏换到折叠屏，屏幕变大了，手机用着非常爽。 但最初折叠屏被看作…",
-      "tags": [
-        "Huawei",
         "爆料",
         "自动抓取"
       ]
@@ -442,26 +462,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-17b165508c78",
-      "title": "消息称 OPPO、vivo 迭代直板 Ultra 机型初步排期明年 3 月-4 月，定位“万元档超影像旗舰”",
-      "source": "IT之家",
-      "brand": "OPPO",
-      "model": "OPPO 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-16",
-      "time": "10:08",
-      "publishedAt": "2026-06-16T10:08:40.000Z",
-      "url": "https://www.ithome.com/0/965/039.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/6/5cdc50a8-1000-4962-9601-d325b9e34845.jpg?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 6 月 16 日消息，博主 @数码闲聊站 今天在微博发文称： 之前说过蓝（预计指 vivo）绿（OPPO）正常迭代直板 Ultra，万元档超影像旗舰， 初步排期还是明年 3 月-4 月 。 盲猜还是一个 35mm 定制影像和全镜头，一个独家 10X 潜望超长焦，王牌 对王 牌 [滑稽] 后续有用户在评论区询问：“同时期的粮厂有没有影像旗舰或者其他…",
-      "tags": [
-        "OPPO",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-842ab53d6de0",
       "title": "Redmi Turbo 5 launches in India, but Chinese buyers are still getting the better deal",
       "source": "Gizmochina",
@@ -482,23 +482,23 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-a085565cd9c9",
-      "title": "Foldable iPhone Delay Rumors Are 'False,' Leaker Claims",
-      "source": "MacRumors",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
+      "id": "weibo-7d61d310720b",
+      "title": "数码闲聊站：之前说过蓝绿正常迭代直板Ultra，万元档超影像旗舰，初步排期还是明年3月-4…",
+      "source": "数码闲聊站",
+      "brand": "行业",
+      "model": "智能手机市场",
       "type": "爆料",
-      "trust": "媒体汇总",
+      "trust": "高关注爆料源",
       "date": "2026-06-16",
-      "time": "09:28",
-      "publishedAt": "2026-06-16T09:28:29.000Z",
-      "url": "https://www.macrumors.com/2026/06/16/foldable-iphone-delay-rumors-false-leaker/",
-      "image": "https://images.macrumors.com/article-new/2025/08/Apple-Foldable-Thumb.jpg",
-      "summary": "Suggestions that Apple's rumored foldable iPhone will be delayed are wide of the mark, claimed a Chinese leaker today. In a post on Weibo, the leaker known as Fixed Focus Digital…",
+      "time": "09:03",
+      "publishedAt": "2026-06-16T09:03:41.000Z",
+      "url": "https://weibo.com/6048569942/R4oDE5x9v",
+      "image": "",
+      "summary": "之前说过蓝绿正常迭代直板Ultra，万元档超影像旗舰，初步排期还是明年3月-4月。 盲猜还是一个35mm定制影像和全镜头，一个独家10X潜望超长焦，王 牌 对 王 牌 [笑而不语]",
       "tags": [
-        "iPhone",
+        "行业",
         "爆料",
-        "自动抓取"
+        "微博"
       ]
     },
     {
@@ -619,6 +619,46 @@ window.phoneRadarAuto = {
         "Xiaomi",
         "爆料",
         "自动抓取"
+      ]
+    },
+    {
+      "id": "weibo-fa0ef8a8e385",
+      "title": "数码闲聊站：独家，子系骁龙8 Elite Gen6 Pro新机，目前更多工程机还是测试18…",
+      "source": "数码闲聊站",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-06-16",
+      "time": "02:41",
+      "publishedAt": "2026-06-16T02:41:01.000Z",
+      "url": "https://weibo.com/6048569942/R4m8k1vWD",
+      "image": "",
+      "summary": "独家，子系骁龙8 Elite Gen6 Pro新机，目前更多工程机还是测试185Hz，2开头极限超高刷会影响显示，可能无法顺利落地。另外这块6.78\"1.5K BOE会升级亮度/色域/功耗等硬件参数，预定子系最窄物理四等边，目测＜1mm[NO]",
+      "tags": [
+        "行业",
+        "爆料",
+        "微博"
+      ]
+    },
+    {
+      "id": "weibo-316d2fb78bd8",
+      "title": "数码闲聊站：REDMI K90至尊版，本月底登场，3K档性能机 之前透露过是骁龙8E+内置…",
+      "source": "数码闲聊站",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-06-16",
+      "time": "01:06",
+      "publishedAt": "2026-06-16T01:06:15.000Z",
+      "url": "https://weibo.com/6048569942/R4lvR6vtF",
+      "image": "",
+      "summary": "REDMI K90至尊版，本月底登场，3K档性能机 之前透露过是骁龙8E+内置风扇，8K+百瓦闪充大电池，其它外围配置基本同Max，3D超声波指纹/满级防水/金属中框/对称双扬/大马达等等……",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "微博"
       ]
     },
     {
@@ -802,6 +842,26 @@ window.phoneRadarAuto = {
       ]
     },
     {
+      "id": "weibo-3391d2d0fd5c",
+      "title": "数码闲聊站：阔折叠将会是未来一段时间内，TOP6主流品牌含金量最高且定位最高的手机产品，有…",
+      "source": "数码闲聊站",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-06-15",
+      "time": "08:11",
+      "publishedAt": "2026-06-15T08:11:00.000Z",
+      "url": "https://weibo.com/6048569942/R4eRLn9Pb",
+      "image": "",
+      "summary": "阔折叠将会是未来一段时间内，TOP6主流品牌含金量最高且定位最高的手机产品，有些厂商甚至在砍其它产品的预算做阔折叠，很强势……[吃瓜]",
+      "tags": [
+        "行业",
+        "爆料",
+        "微博"
+      ]
+    },
+    {
       "id": "coolapk-user-633a81653564",
       "title": "JSCHEN小小狐：博主汇总荣耀 X80 Pro Max 主要参数规格",
       "source": "JSCHEN小小狐",
@@ -819,6 +879,26 @@ window.phoneRadarAuto = {
         "HONOR",
         "爆料",
         "酷安博主"
+      ]
+    },
+    {
+      "id": "weibo-54afb685785b",
+      "title": "数码闲聊站：荣耀X80 Pro Max，8+128GB起步价猜猜吧： 6.8\"2788*1…",
+      "source": "数码闲聊站",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-06-15",
+      "time": "06:38",
+      "publishedAt": "2026-06-15T06:38:00.000Z",
+      "url": "https://weibo.com/6048569942/R4eg14mC3",
+      "image": "",
+      "summary": "荣耀X80 Pro Max，8+128GB起步价猜猜吧： 6.8\"2788*1280p 120Hz OLED直屏，全屏激发2000nit，局部峰值亮度10000nit，3840Hz PWM调光，骁龙6 Gen5，11000mAh单芯电池+90W快充，前置8Mp，后置单摄50Mp OIS，塑料中框，光学指纹，IP66/IP68/IP69/IP69K，8.08…",
+      "tags": [
+        "HONOR",
+        "爆料",
+        "微博"
       ]
     },
     {
@@ -842,23 +922,23 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-501441d6c429",
-      "title": "Oppo Find X10 Pro leak hints at twin 200-megapixel cameras and a huge battery",
-      "source": "Gizmochina",
-      "brand": "OPPO",
-      "model": "OPPO 相关机型",
+      "id": "weibo-a5476bdfc714",
+      "title": "数码闲聊站：vivo X Fold6： 8.02英寸三星M14屏幕，5000nit局部峰值…",
+      "source": "数码闲聊站",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
       "type": "爆料",
-      "trust": "媒体汇总",
+      "trust": "高关注爆料源",
       "date": "2026-06-15",
-      "time": "04:13",
-      "publishedAt": "2026-06-15T04:13:32.000Z",
-      "url": "https://www.gizmochina.com/2026/06/15/oppo-find-x10-pro-leaked-specifications/",
-      "image": "https://www.gizmochina.com/wp-content/uploads/2026/01/Oppo-Find-X9-Pro-300x225.jpg?x44794",
-      "summary": "Oppo’s next-generation flagship smartphone may have taken an early step into the spotlight. A new leak from well-known tipster Digital Chat Station has revealed the specifications…",
+      "time": "03:26",
+      "publishedAt": "2026-06-15T03:26:00.000Z",
+      "url": "https://weibo.com/6048569942/R4d05esfI",
+      "image": "https://tvax1.sinaimg.cn/mw2000/006BlblIgy1ie5szsfzp2j30xu0hf0ya.jpg",
+      "summary": "vivo X Fold6： 8.02英寸三星M14屏幕，5000nit局部峰值亮度，圆润R角设计，天玑9500处理器，V3+影像芯片，200Mp HPB 1/1.4\" F1.68大底主摄，50Mp LYT602 1/1.95\"中底潜望长焦，可外挂200mm口红增距镜，全焦段变焦闪光灯……",
       "tags": [
-        "OPPO",
+        "Samsung",
         "爆料",
-        "自动抓取"
+        "微博"
       ]
     }
   ]
