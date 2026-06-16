@@ -1,6 +1,286 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-06-16T05:32:35.085Z",
+  "updatedAt": "2026-06-16T11:33:58.247Z",
   "news": [
+    {
+      "id": "auto-74ed5e3e6014",
+      "title": "Galaxy Z Fold 8 could have a significantly smoother foldable display",
+      "source": "SamMobile",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-16",
+      "time": "11:15",
+      "publishedAt": "2026-06-16T11:15:21.000Z",
+      "url": "https://www.sammobile.com/news/galaxy-z-fold-8-significantly-smoother-foldable-display/",
+      "image": "",
+      "summary": "Samsung is expected to announce three new foldable phones next month, and all of them are expected to offer faster performance and longer battery life. The Galaxy Z Fold 8 and Gal…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-509f7e475c36",
+      "title": "荣耀 X80 Pro Max 手机官宣通过 SGS 金标五星严苛环境抗摔认证，行业首个推出免费换屏服务",
+      "source": "IT之家",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-16",
+      "time": "11:07",
+      "publishedAt": "2026-06-16T11:07:24.000Z",
+      "url": "https://www.ithome.com/0/965/077.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/6/94cfb131-946c-4333-811f-72809daa54c3.jpg?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 6 月 16 日消息，荣耀手机官方今日继续预热 X80 Pro Max 手机。据介绍，新机通过 SGS 金标五星严苛环境抗摔认证，实现 3 米最高抗摔。 IT之家注意到，荣耀还为 X80 Pro Max 手机推出了配套保障服务 —— 行业首个免费换屏服务 ，宣称“摔坏包换”。 预热海报小字显示，免费换屏自权益生效之日起，至两年期限届满之日二十四时…",
+      "tags": [
+        "HONOR",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-d8dbd9982859",
+      "title": "Reports of iPhone Ultra launch delays are ‘false,’ says leaker",
+      "source": "9to5Mac",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-16",
+      "time": "11:01",
+      "publishedAt": "2026-06-16T11:01:13.000Z",
+      "url": "https://9to5mac.com/2026/06/16/reports-of-iphone-ultra-launch-delays-are-false-says-leaker/",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/03/iphone-fold-mockup-red.jpg?quality=82&strip=all&w=1600",
+      "summary": "Alongside question marks on whether the first folding iPhone will be branded as the iPhone Fold, iPhone Ultra , or something else, there’s also been uncertainty about the launch t…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-db6d23a0f629",
+      "title": "华为余承东：Pura X Max 截止目前已超越华为历史上所有折叠屏手机同期销量",
+      "source": "IT之家",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-16",
+      "time": "10:41",
+      "publishedAt": "2026-06-16T10:41:26.000Z",
+      "url": "https://www.ithome.com/0/965/047.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/6/43730664-000d-4508-9e8a-c25cd35f18ad.jpg?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 6 月 16 日消息，华为常务董事、产品投资评审委员会主任、终端 BG 董事长余承东今日发布视频，谈及了华为 Pura X Max 横向阔折叠手机 √2:1 屏幕比例背后的故事。 余承东透露，Pura X Max 截止目前（首月），已超越华为历史上所有折叠屏手机同期的销量。他表示，从直屏换到折叠屏，屏幕变大了，手机用着非常爽。 但最初折叠屏被看作…",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-09cb252fbe5f",
+      "title": "Motorola Edge 70 Pro+ vs Xiaomi 17T: The Winner Might Surprise You",
+      "source": "Gizmochina",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-16",
+      "time": "10:38",
+      "publishedAt": "2026-06-16T10:38:41.000Z",
+      "url": "https://www.gizmochina.com/2026/06/16/motorola-edge-70-pro-plus-vs-xiaomi-17t/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/06/image-76-300x192.png?x44794",
+      "summary": "Motorola Edge 70 Pro+ and Xiaomi 17T target premium smartphone buyers with powerful hardware, large batteries, and capable camera systems. While Motorola focuses on delivering exc…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-581acd16d4ef",
+      "title": "Vivo’s next Samsung Galaxy Z Fold rival just revealed its biggest strengths",
+      "source": "Android Central",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-06-16",
+      "time": "10:30",
+      "publishedAt": "2026-06-16T10:30:41.000Z",
+      "url": "https://www.androidcentral.com/phones/vivo/vivos-next-samsung-galaxy-z-fold-rival-just-revealed-its-biggest-strengths",
+      "image": "https://cdn.mos.cms.futurecdn.net/92bz8C5dwjhtQSscBdJ4k3-1280-80.jpg",
+      "summary": "Vivo's X Fold 6 packs flagship cameras and a brighter display into a foldable, but its China-first launch means many users could miss out.",
+      "tags": [
+        "Samsung",
+        "评测",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-37a469f05fb8",
+      "title": "Snapdragon chip confirmed for the Galaxy Z Fold 8",
+      "source": "SamMobile",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-16",
+      "time": "10:10",
+      "publishedAt": "2026-06-16T10:10:04.000Z",
+      "url": "https://www.sammobile.com/news/galaxy-z-fold-8-snapdragon-chip-confirmed/",
+      "image": "https://www.sammobile.com/wp-content/uploads/2026/06/Samsung-Galaxy-Z-Fold-8-Simplified-Diagram-FCC-Certification.jpg",
+      "summary": "The Galaxy Z Fold 8, which is expected to be unveiled next month, has been confirmed to feature a Qualcomm Snapdragon chip. While it was widely expected to use a Snapdragon proces…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-17b165508c78",
+      "title": "消息称 OPPO、vivo 迭代直板 Ultra 机型初步排期明年 3 月-4 月，定位“万元档超影像旗舰”",
+      "source": "IT之家",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-16",
+      "time": "10:08",
+      "publishedAt": "2026-06-16T10:08:40.000Z",
+      "url": "https://www.ithome.com/0/965/039.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/6/5cdc50a8-1000-4962-9601-d325b9e34845.jpg?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 6 月 16 日消息，博主 @数码闲聊站 今天在微博发文称： 之前说过蓝（预计指 vivo）绿（OPPO）正常迭代直板 Ultra，万元档超影像旗舰， 初步排期还是明年 3 月-4 月 。 盲猜还是一个 35mm 定制影像和全镜头，一个独家 10X 潜望超长焦，王牌 对王 牌 [滑稽] 后续有用户在评论区询问：“同时期的粮厂有没有影像旗舰或者其他…",
+      "tags": [
+        "OPPO",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-842ab53d6de0",
+      "title": "Redmi Turbo 5 launches in India, but Chinese buyers are still getting the better deal",
+      "source": "Gizmochina",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-16",
+      "time": "09:35",
+      "publishedAt": "2026-06-16T09:35:41.000Z",
+      "url": "https://www.gizmochina.com/2026/06/16/redmi-turbo-5-india-launch-price-specs-vs-china/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/06/Redmi-Turbo-5-launch-India-specs-price-300x200.jpg?x44794",
+      "summary": "Redmi has finally brought the Turbo 5 to India, nearly five months after the phone first went official in China back in January. It’s the first time a Turbo series has launched in…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-a085565cd9c9",
+      "title": "Foldable iPhone Delay Rumors Are 'False,' Leaker Claims",
+      "source": "MacRumors",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-16",
+      "time": "09:28",
+      "publishedAt": "2026-06-16T09:28:29.000Z",
+      "url": "https://www.macrumors.com/2026/06/16/foldable-iphone-delay-rumors-false-leaker/",
+      "image": "https://images.macrumors.com/article-new/2025/08/Apple-Foldable-Thumb.jpg",
+      "summary": "Suggestions that Apple's rumored foldable iPhone will be delayed are wide of the mark, claimed a Chinese leaker today. In a post on Weibo, the leaker known as Fixed Focus Digital…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-532959fffd61",
+      "title": "重回 Y2K：80 年代传奇 PC 厂商 Commodore 推出翻盖手机，助你“远离”互联网",
+      "source": "IT之家",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-16",
+      "time": "09:18",
+      "publishedAt": "2026-06-16T09:18:11.000Z",
+      "url": "https://www.ithome.com/0/964/998.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/6/1fa4766e-6e20-4c79-b44b-ea2424fa0cf5.png?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 6 月 16 日消息，上世纪 80 年代传奇 PC 厂商 Commodore 今天（16 日）推出了一款翻盖手机 Callback 8020，起售价 499 美元（IT之家注：现汇率约合 3379 元人民币），功能和配色都带着浓厚的 2000 年代初电子产品气质。 Callback 8020 的硬件并不强，设计目标也并非性能机器。 内屏尺寸为 3…",
+      "tags": [
+        "行业",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-7afbfa6a8682",
+      "title": "Xiaomi 17T Pro vs iPhone 17: Bigger Battery, Better Cameras, Lower Price?",
+      "source": "Gizmochina",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-16",
+      "time": "08:14",
+      "publishedAt": "2026-06-16T08:14:57.000Z",
+      "url": "https://www.gizmochina.com/2026/06/16/xiaomi-17t-pro-vs-iphone-17/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/06/image-75-300x180.png?x44794",
+      "summary": "Xiaomi 17T Pro and iPhone 17 represent two very different visions of a modern flagship smartphone. One focuses on delivering cutting-edge hardware, massive battery life, and featu…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-ef8676a9065d",
+      "title": "OnePlus 16 display could stop at 185Hz, bezels under 1mm",
+      "source": "Gizmochina",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-16",
+      "time": "07:32",
+      "publishedAt": "2026-06-16T07:32:54.000Z",
+      "url": "https://www.gizmochina.com/2026/06/16/oneplus-16-185hz-display-bezels-under-1mm/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/06/OnePlus-15-5G-phone-300x200.png?x44794",
+      "summary": "Tipster Digital Chat Station (DCS) is back with a fresh exclusive, and while the leaker did not name the phone directly, the details line up almost perfectly with everything we al…",
+      "tags": [
+        "OPPO",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-4896cc706d6f",
+      "title": "Galaxy Z Fold 8 FCC listing confirms key details about Samsung’s wide foldable",
+      "source": "Android Authority",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-16",
+      "time": "07:31",
+      "publishedAt": "2026-06-16T07:31:39.000Z",
+      "url": "https://www.androidauthority.com/samsung-galaxy-z-fold-8-wide-listing-3677724/",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2026/03/galaxy-z-fold-wide-cad-render-2.jpg",
+      "summary": "The listing all but confirms the choice of chipset.",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "coolapk-user-dad69780176a",
       "title": "竹本青：【理光 GR系列相机 官方建议零售价将于7月1日上调】 6月16日，理光相机官方发文称，因原材料、制造、物流成本大…",
@@ -62,106 +342,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "coolapk-user-47b5faecae19",
-      "title": "竹本青：【荣耀X80 Pro Max预热：满级防水+3米抗摔】 ▫️IP68/IP69/IP69K 防尘防水认证 ▫️SG…",
-      "source": "竹本青",
-      "brand": "HONOR",
-      "model": "HONOR 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-06-16",
-      "time": "03:05",
-      "publishedAt": "2026-06-16T03:05:16.000Z",
-      "url": "https://www.coolapk.com/feed/72366448",
-      "image": "http://image.coolapk.com/feed/2026/0616/11/4248714_8740a47e_9109_1577_642@2000x3556.jpg",
-      "summary": "【荣耀X80 Pro Max预热：满级防水+3米抗摔】 ▫️IP68/IP69/IP69K 防尘防水认证 ▫️SGS金标五星严苛环境抗摔认证 #今日热点# #荣耀X80ProMax#",
-      "tags": [
-        "HONOR",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
-      "id": "coolapk-user-ae3a9dba31d8",
-      "title": "竹本青：【荣耀 MagicOS11 超前点映：安卓首个「液态玻璃」登场，已开启尝鲜招募】 ▫️全新流光通透设计 ▫️真实的…",
-      "source": "竹本青",
-      "brand": "HONOR",
-      "model": "HONOR 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-06-16",
-      "time": "02:54",
-      "publishedAt": "2026-06-16T02:54:01.000Z",
-      "url": "https://www.coolapk.com/feed/72366224",
-      "image": "http://image.coolapk.com/feed/2026/0616/10/4248714_401cc4a4_8777_8805_821-livepic@1440x2560.jpg",
-      "summary": "【荣耀 MagicOS11 超前点映：安卓首个「液态玻璃」登场，已开启尝鲜招募】 ▫️全新流光通透设计 ▫️真实的流光注入每一次交互 ▫️科技拥有了灵动的呼吸感 先锋版小范围共创招募： ● 招募机型： 荣耀Magic8 荣耀Magic8 Pro Air 荣耀Magic8 Pro 荣耀Magic8 RSR 保时捷设计 ● 招募时间：6月16日-6月18日 ●…",
-      "tags": [
-        "HONOR",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
-      "id": "auto-c24538e84904",
-      "title": "三星昨日关停省流量 Max 服务，预估影响全球约 5000 万 Galaxy 手机用户",
-      "source": "IT之家",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-16",
-      "time": "02:51",
-      "publishedAt": "2026-06-16T02:51:16.000Z",
-      "url": "https://www.ithome.com/0/964/707.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/6/cff6fe50-1cfc-4bba-9115-abb7e63c16dc.png?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 6 月 16 日消息，科技媒体 NeoWin 发布博文，报道称三星已于昨日（6 月 15 日）关停 Samsung Max 应用服务，预估影响全球约 5000 万 Galaxy 手机用户。 IT之家注：三星于 2018 年 2 月 23 日推出 Samsung Max 应用，其前身是 Opera Max， 被三星收购后重做界面并接入 Galaxy…",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-d0d6ab7ebe47",
-      "title": "夏普推出 AQUOS R11 手机：独特背面呼吸灯设计、搭骁龙 8s Gen 4",
-      "source": "IT之家",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-16",
-      "time": "01:55",
-      "publishedAt": "2026-06-16T01:55:45.000Z",
-      "url": "https://www.ithome.com/0/964/674.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/6/60ad0535-ec81-476a-92ea-13955ba72890.jpg?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 6 月 16 日消息，夏普今天正式发布了 AQUOS R11 手机，该机定位中高端，搭载高通骁龙 8s Gen 4 处理器，将于 7 月 9 日起发售，但尚未公布无锁版（SIM Free 版本）价格。 该机造型简洁，延续了三宅设计（miyake design），提供“海军蓝”“象牙黄”“陶土红”三种配色可选，机身尺寸为 156x74x8.9mm，…",
-      "tags": [
-        "行业",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-bc75cebf54a9",
-      "title": "vivo X Fold6 折叠屏手机新品发布会定档 6 月 26 日",
-      "source": "IT之家",
-      "brand": "vivo",
-      "model": "vivo 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-16",
-      "time": "01:20",
-      "publishedAt": "2026-06-16T01:20:11.000Z",
-      "url": "https://www.ithome.com/0/964/659.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/6/42eb9af3-23d1-4989-af09-a87cf5bb3494.jpg?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 6 月 16 日消息，vivo X Fold6 折叠屏手机新品发布会定档 6 月 26 日 19:00，新品已开启线上全平台预约。 综合IT之家此前报道，这款新机提供 “蓝洞”配色 ，采用了更圆润的 R 角设计，搭配 2.5D 立边金属中框。 影像方面，vivo X Fold6 目标打造最强折叠影像旗舰，更是一部“折叠小 V 单”。折叠超强大底真…",
-      "tags": [
-        "vivo",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "newsnow-0ee3b754f7df",
       "title": "何意味，华为穿越到过去窃取苹果最新折叠的技术，制作出了Pura X Max是么？[流泪]#数码日常# #iPhone17ProMax# #华为鸿蒙#",
       "source": "酷安热榜",
@@ -195,6 +375,26 @@ window.phoneRadarAuto = {
       "url": "https://www.coolapk.com/feed/72361186",
       "image": "",
       "summary": "希望手机回归四微曲屏设计。",
+      "tags": [
+        "行业",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-45e933764a00",
+      "title": "女子玩手机憋尿3小时黄体破裂出血",
+      "source": "百度热搜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-16",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%8E%A9%E6%89%8B%E6%9C%BA%E6%86%8B%E5%B0%BF3%E5%B0%8F%E6%97%B6%E9%BB%84%E4%BD%93%E7%A0%B4%E8%A3%82%E5%87%BA%E8%A1%80",
+      "image": "",
+      "summary": "女子玩手机憋尿3小时黄体破裂出血",
       "tags": [
         "行业",
         "爆料",
@@ -402,26 +602,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-55f8198f4486",
-      "title": "Galaxy S25 starts getting Notification Highlights with new update",
-      "source": "SamMobile",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-15",
-      "time": "12:09",
-      "publishedAt": "2026-06-15T12:09:49.000Z",
-      "url": "https://www.sammobile.com/news/galaxy-s25-gets-notification-highlights-new-update/",
-      "image": "https://www.sammobile.com/wp-content/uploads/2026/06/Samsung-Galaxy-S25-Ultra-June-2026-Update-Notification-Highlights-India-1920x1387.jpg",
-      "summary": "Last week, Samsung released a new software update for the Galaxy S25 series in South Korea. Besides the June 2026 security patch, the update introduced the Notification Highlights…",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-fed6669b0995",
       "title": "Xiaomi 17T Pro vs Nothing Phone (4a) Pro: Specs, Camera, Battery, and Price Compared",
       "source": "Gizmochina",
@@ -457,46 +637,6 @@ window.phoneRadarAuto = {
       "summary": "Choosing between the Xiaomi 17T Pro and Google Pixel 10 comes down to priorities. One focuses on flagship-grade hardware, ultra-fast charging, and a large battery, while the other…",
       "tags": [
         "Xiaomi",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-7419fbbe75cf",
-      "title": "Galaxy S27’s Chinese OLED display fate to be decided this month",
-      "source": "SamMobile",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-15",
-      "time": "09:24",
-      "publishedAt": "2026-06-15T09:24:57.000Z",
-      "url": "https://www.sammobile.com/2026/06/15/galaxy-s27s-chinese-oled-display-fate-to-be-decided-this-month/",
-      "image": "",
-      "summary": "Samsung's flagship phones feature OLED panels supplied by Samsung Display, but that could be about to change with next year's Galaxy S lineup. Several reports have claimed that at…",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-9ec63d52123e",
-      "title": "Huawei Mate 80’s Kirin 9030 uses Chinese + Samsung memory",
-      "source": "Huawei Central",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-15",
-      "time": "08:50",
-      "publishedAt": "2026-06-15T08:50:57.000Z",
-      "url": "https://www.huaweicentral.com/huawei-mate-80s-kirin-9030-uses-chinese-samsung-memory/",
-      "image": "https://www.huaweicentral.com/wp-content/uploads/2026/06/chip-details1.jpg",
-      "summary": "Huawei Mate 80‘s Kirin 9030 series chip is still buzzing around, not for its major performance improvements but for its necessary specifications, which include Samsung memory solu…",
-      "tags": [
-        "Huawei",
         "爆料",
         "自动抓取"
       ]
