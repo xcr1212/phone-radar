@@ -1,11 +1,11 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-06-16T17:21:02.863Z",
+  "updatedAt": "2026-06-16T21:19:00.202Z",
   "issueDate": "2026-06-16",
   "issue": "VOL.260616",
   "title": "手机情报日报",
-  "intro": "今日筛出 14 条重点，其中 8 条是重点爆料，包含 6 条 iPhone 相关、0 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 15 条重点，其中 8 条是重点爆料，包含 6 条 iPhone 相关、0 条官方确认、0 条参数线索。",
   "stats": {
-    "total": 14,
+    "total": 15,
     "iphone": 6,
     "leaks": 8,
     "official": 0,
@@ -111,29 +111,6 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
-          "id": "auto-9baab45b529f",
-          "title": "iPhone 相关消息",
-          "originalTitle": "",
-          "source": "MacRumors",
-          "brand": "iPhone",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-06-15",
-          "time": "17:51",
-          "publishedAt": "2026-06-15T17:51:57.000Z",
-          "url": "https://www.macrumors.com/2026/06/15/no-iphone-18-this-year-apple-supplier-confirms/",
-          "image": "https://images.macrumors.com/article-new/2025/09/iphone-17-rear-camera.jpg",
-          "verdict": "先看",
-          "takeaway": "iPhone 相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
-          "detail": "iPhone 相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
-          "keyPoints": [
-            "爆料来源"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
           "id": "auto-509f7e475c36",
           "title": "荣耀 X80 Pro Max 手机官宣通过 SGS 金标五星严苛环境抗摔认证，行业首个推出免费换屏服务",
           "originalTitle": "",
@@ -202,6 +179,30 @@ window.phoneRadarDaily = {
           "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "coolapk-user-aa9a2358ee80",
+          "title": "JSCHEN小小狐：华为自研传感器进展曝光：50Mp 小批量上机",
+          "originalTitle": "",
+          "source": "JSCHEN小小狐",
+          "brand": "Huawei",
+          "type": "爆料",
+          "trust": "高可信爆料",
+          "date": "2026-06-15",
+          "time": "05:22",
+          "publishedAt": "2026-06-15T05:22:36.000Z",
+          "url": "https://www.coolapk.com/feed/72351288",
+          "image": "http://image.coolapk.com/feed/2026/0615/13/4702274_dc222f02_0955_2786_951@1440x442.jpg",
+          "verdict": "先看",
+          "takeaway": "『华为自研传感器进展曝光：50Mp 小批量上机』 知名数码博主 数码闲聊站 发博爆料称，此前曝光的华为自研传感器家族中，50Mp 规格已“小批量上机（手机）”，且 200Mp 超大底传感器当前也已启动研制，预计为 1/1.3''± 规格。 据悉，此前海思公开的自研 CIS「海思 CS5250（V200）」已应用于骁途 S7 Pro Max 运动相机（50M…",
+          "detail": "『华为自研传感器进展曝光：50Mp 小批量上机』 知名数码博主 数码闲聊站 发博爆料称，此前曝光的华为自研传感器家族中，50Mp 规格已“小批量上机（手机）”，且 200Mp 超大底传感器当前也已启动研制，预计为 1/1.3''± 规格。 据悉，此前海思公开的自研 CIS「海思 CS5250（V200）」已应用于骁途 S7 Pro Max 运动相机（50M…",
+          "keyPoints": [
+            "影像硬件",
+            "爆料来源"
+          ],
+          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         }
       ]
     },
@@ -231,6 +232,29 @@ window.phoneRadarDaily = {
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "影响日常体验，尤其是游戏、拍照和长时间使用。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        },
+        {
+          "id": "auto-a46612ae55a4",
+          "title": "iPhone 相关消息",
+          "originalTitle": "",
+          "source": "9to5Mac",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-06-15",
+          "time": "13:48",
+          "publishedAt": "2026-06-15T13:48:53.000Z",
+          "url": "https://9to5mac.com/2026/06/15/iphone-18-pro-casing-likely-to-experience-same-pros-cons-as-its-predecessor/",
+          "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/05/iphone-18-pro-colors.jpg?quality=82&strip=all&w=1600",
+          "verdict": "扫一眼",
+          "takeaway": "iPhone 相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
+          "detail": "iPhone 相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         }
       ]

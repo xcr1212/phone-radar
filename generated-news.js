@@ -1,6 +1,66 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-06-16T17:21:02.863Z",
+  "updatedAt": "2026-06-16T21:19:00.202Z",
   "news": [
+    {
+      "id": "auto-88935eabdb07",
+      "title": "Apple supplier Tata avoids regulatory action after pollution warning in India",
+      "source": "9to5Mac",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-16",
+      "time": "21:18",
+      "publishedAt": "2026-06-16T21:18:47.000Z",
+      "url": "https://9to5mac.com/2026/06/16/apple-supplier-tata-avoids-regulatory-action-after-pollution-warning-in-india/",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/02/apple-india-investment.jpg?quality=82&strip=all&w=1600",
+      "summary": "Apple supplier Tata says an Indian pollution regulator has dropped scrutiny of one of its iPhone component plants, after the company responded to concerns over possible wastewater…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-058bd62a710b",
+      "title": "Google’s June Pixel update is packed with dozens of fixes",
+      "source": "Android Authority",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-16",
+      "time": "20:30",
+      "publishedAt": "2026-06-16T20:30:38.000Z",
+      "url": "https://www.androidauthority.com/june-2026-pixel-software-update-3678162/",
+      "image": "",
+      "summary": "June 2026's Pixel update is here for the Pixel 6 and up.",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-031995a578b7",
+      "title": "June Pixel Drop brings a Pixel 10-exclusive feature to the Pixel 10a",
+      "source": "Android Authority",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-16",
+      "time": "18:00",
+      "publishedAt": "2026-06-16T18:00:41.000Z",
+      "url": "https://www.androidauthority.com/pixel-10a-voice-translate-june-pixel-drop-3677937/",
+      "image": "",
+      "summary": "Maybe Google will bring it to the Pixel 9 series in the near future.",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-a5398fa005bf",
       "title": "Apple's 2028 iPhones to Use 1.4nm A22 Pro Chips",
@@ -83,7 +143,7 @@ window.phoneRadarAuto = {
     },
     {
       "id": "auto-2bd5462bc216",
-      "title": "Sharepower is a magnetic power bank that snaps in half so you can share a charge",
+      "title": "Nimble’s SharePower power bank snaps in half so you can share a charge",
       "source": "9to5Mac",
       "brand": "iPhone",
       "model": "iPhone 相关机型",
@@ -93,8 +153,8 @@ window.phoneRadarAuto = {
       "time": "13:59",
       "publishedAt": "2026-06-16T13:59:15.000Z",
       "url": "https://9to5mac.com/2026/06/16/sharepower-is-a-magnetic-power-bank-that-snaps-in-half-so-you-can-share-a-charge/",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/nimble-sharepower.webp?w=1600",
-      "summary": "Nimble, the maker of many interesting iPhone accessories, is launching a new product called Sharepower, which it bills as the world’s first sharable battery. Nimble says Sharepowe…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/sharepower-nimble-iphone.webp?w=1600",
+      "summary": "Nimble, the maker of many interesting iPhone accessories, is launching a new product called SharePower, which it bills as the world’s first sharable battery. Nimble says SharePowe…",
       "tags": [
         "iPhone",
         "爆料",
@@ -562,26 +622,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-0ee3b754f7df",
-      "title": "何意味，华为穿越到过去窃取苹果最新折叠的技术，制作出了Pura X Max是么？[流泪]#数码日常# #iPhone17ProMax# #华为鸿蒙#",
-      "source": "酷安热榜",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-06-16",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72355450",
-      "image": "",
-      "summary": "何意味，华为穿越到过去窃取苹果最新折叠的技术，制作出了Pura X Max是么？[流泪]#数码日常# #iPhone17ProMax# #华为鸿蒙#",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
       "id": "auto-fcfc9bf748eb",
       "title": "More Galaxy Z Fold 8 ‘Ultra’ leaks confirm it looks just like a normal Samsung foldable",
       "source": "9to5Google",
@@ -637,26 +677,6 @@ window.phoneRadarAuto = {
       "summary": "Thicker glass = smoother glass.",
       "tags": [
         "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-9baab45b529f",
-      "title": "No iPhone 18 This Year, Apple Supplier Comments Seemingly Confirm",
-      "source": "MacRumors",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-15",
-      "time": "17:51",
-      "publishedAt": "2026-06-15T17:51:57.000Z",
-      "url": "https://www.macrumors.com/2026/06/15/no-iphone-18-this-year-apple-supplier-confirms/",
-      "image": "https://images.macrumors.com/article-new/2025/09/iphone-17-rear-camera.jpg",
-      "summary": "Apple's standard iPhone 18 model will launch in early 2027, based on comments from a partner in the company's supply chain that appear to corroborate rumors of a delayed spring re…",
-      "tags": [
-        "iPhone",
         "爆料",
         "自动抓取"
       ]
