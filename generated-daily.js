@@ -1,12 +1,12 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-06-16T11:33:58.247Z",
+  "updatedAt": "2026-06-16T17:21:02.863Z",
   "issueDate": "2026-06-16",
   "issue": "VOL.260616",
   "title": "手机情报日报",
-  "intro": "今日筛出 14 条重点，其中 8 条是重点爆料，包含 5 条 iPhone 相关、0 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 14 条重点，其中 8 条是重点爆料，包含 6 条 iPhone 相关、0 条官方确认、0 条参数线索。",
   "stats": {
     "total": 14,
-    "iphone": 5,
+    "iphone": 6,
     "leaks": 8,
     "official": 0,
     "specs": 0
@@ -42,24 +42,23 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
-          "id": "auto-d99c63ff88c1",
-          "title": "iPhone 18 Pro 机模 / 配色信息曝光",
+          "id": "auto-a5398fa005bf",
+          "title": "iPhone 芯片 / 性能相关消息",
           "originalTitle": "",
           "source": "MacRumors",
           "brand": "iPhone",
           "type": "爆料",
           "trust": "媒体汇总",
-          "date": "2026-06-15",
-          "time": "12:56",
-          "publishedAt": "2026-06-15T12:56:50.000Z",
-          "url": "https://www.macrumors.com/2026/06/15/iphone-18-pro-may-face-same-durability-issues/",
-          "image": "https://images.macrumors.com/article-new/2026/04/Four-iPhone-18-Pro-Colors-Mock-Feature.jpg",
+          "date": "2026-06-16",
+          "time": "17:03",
+          "publishedAt": "2026-06-16T17:03:42.000Z",
+          "url": "https://www.macrumors.com/2026/06/16/2028-iphones-a22-pro-chips/",
+          "image": "",
           "verdict": "先看",
-          "takeaway": "iPhone 18 Pro 机模 / 配色信息曝光。已转成中文摘要展示，详细内容可打开原文核对。",
-          "detail": "iPhone 18 Pro 机模 / 配色信息曝光。来源提到未发布机型的机模/配色图，适合先判断外观方向、颜色变化和机身轮廓，但最终量产版本仍可能调整。",
+          "takeaway": "iPhone 芯片或连接能力相关线索，可能影响性能和续航判断。",
+          "detail": "iPhone 芯片 / 性能相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
           "keyPoints": [
-            "外观 / 配色 / 尺寸",
-            "爆料来源"
+            "芯片 / 性能"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
@@ -135,30 +134,6 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
-          "id": "auto-532959fffd61",
-          "title": "重回 Y2K：80 年代传奇 PC 厂商 Commodore 推出翻盖手机，助你“远离”互联网",
-          "originalTitle": "",
-          "source": "IT之家",
-          "brand": "行业",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-06-16",
-          "time": "09:18",
-          "publishedAt": "2026-06-16T09:18:11.000Z",
-          "url": "https://www.ithome.com/0/964/998.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/6/1fa4766e-6e20-4c79-b44b-ea2424fa0cf5.png?x-bce-process=image/format,f_auto",
-          "verdict": "先看",
-          "takeaway": "IT之家 6 月 16 日消息，上世纪 80 年代传奇 PC 厂商 Commodore 今天（16 日）推出了一款翻盖手机 Callback 8020，起售价 499 美元（IT之家注：现汇率约合 3379 元人民币），功能和配色都带着浓厚的 2000 年代初电子产品气质。 Callback 8020 的硬件并不强，设计目标也并非性能机器。 内屏尺寸为 3…",
-          "detail": "IT之家 6 月 16 日消息，上世纪 80 年代传奇 PC 厂商 Commodore 今天（16 日）推出了一款翻盖手机 Callback 8020，起售价 499 美元（IT之家注：现汇率约合 3379 元人民币），功能和配色都带着浓厚的 2000 年代初电子产品气质。 Callback 8020 的硬件并不强，设计目标也并非性能机器。 内屏尺寸为 3…",
-          "keyPoints": [
-            "外观 / 配色 / 尺寸",
-            "成本 / 价格"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
           "id": "auto-509f7e475c36",
           "title": "荣耀 X80 Pro Max 手机官宣通过 SGS 金标五星严苛环境抗摔认证，行业首个推出免费换屏服务",
           "originalTitle": "",
@@ -203,6 +178,60 @@ window.phoneRadarDaily = {
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "auto-17b165508c78",
+          "title": "消息称 OPPO、vivo 迭代直板 Ultra 机型初步排期明年 3 月-4 月，定位“万元档超影像旗舰”",
+          "originalTitle": "",
+          "source": "IT之家",
+          "brand": "OPPO",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-06-16",
+          "time": "10:08",
+          "publishedAt": "2026-06-16T10:08:40.000Z",
+          "url": "https://www.ithome.com/0/965/039.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/6/5cdc50a8-1000-4962-9601-d325b9e34845.jpg?x-bce-process=image/format,f_auto",
+          "verdict": "先看",
+          "takeaway": "IT之家 6 月 16 日消息，博主 @数码闲聊站 今天在微博发文称： 之前说过蓝（预计指 vivo）绿（OPPO）正常迭代直板 Ultra，万元档超影像旗舰， 初步排期还是明年 3 月-4 月 。 盲猜还是一个 35mm 定制影像和全镜头，一个独家 10X 潜望超长焦，王牌 对王 牌 [滑稽] 后续有用户在评论区询问：“同时期的粮厂有没有影像旗舰或者其他…",
+          "detail": "IT之家 6 月 16 日消息，博主 @数码闲聊站 今天在微博发文称： 之前说过蓝（预计指 vivo）绿（OPPO）正常迭代直板 Ultra，万元档超影像旗舰， 初步排期还是明年 3 月-4 月 。 盲猜还是一个 35mm 定制影像和全镜头，一个独家 10X 潜望超长焦，王牌 对王 牌 [滑稽] 后续有用户在评论区询问：“同时期的粮厂有没有影像旗舰或者其他…",
+          "keyPoints": [
+            "影像硬件",
+            "爆料来源"
+          ],
+          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        }
+      ]
+    },
+    {
+      "id": "iphone",
+      "title": "iPhone 重点",
+      "hint": "不是硬件爆料，但和 iPhone 体验或路线有关。",
+      "items": [
+        {
+          "id": "auto-7f109fe61c84",
+          "title": "iPhone 电池 / 充电相关消息",
+          "originalTitle": "",
+          "source": "9to5Mac",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-06-16",
+          "time": "12:00",
+          "publishedAt": "2026-06-16T12:00:00.000Z",
+          "url": "https://9to5mac.com/2026/06/16/mophie-announces-three-new-premium-25w-magsafe-chargers-for-iphone-hands-on/",
+          "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/Mophie-FI.jpg?quality=82&strip=all&w=1600",
+          "verdict": "扫一眼",
+          "takeaway": "iPhone 电池 / 充电相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
+          "detail": "iPhone 电池 / 充电相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
+          "keyPoints": [
+            "电池 / 充电"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "影响日常体验，尤其是游戏、拍照和长时间使用。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         }
       ]
     },
@@ -211,29 +240,6 @@ window.phoneRadarDaily = {
       "title": "新机与官方发布",
       "hint": "能直接更新到参数库。",
       "items": [
-        {
-          "id": "auto-842ab53d6de0",
-          "title": "Xiaomi 发布 / 上市相关消息",
-          "originalTitle": "",
-          "source": "Gizmochina",
-          "brand": "Xiaomi",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-06-16",
-          "time": "09:35",
-          "publishedAt": "2026-06-16T09:35:41.000Z",
-          "url": "https://www.gizmochina.com/2026/06/16/redmi-turbo-5-india-launch-price-specs-vs-china/",
-          "image": "https://www.gizmochina.com/wp-content/uploads/2026/06/Redmi-Turbo-5-launch-India-specs-price-300x200.jpg?x44794",
-          "verdict": "可略过",
-          "takeaway": "Xiaomi 有发布或新功能消息，适合确认是否和新机有关。",
-          "detail": "Xiaomi 发布 / 上市相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
         {
           "id": "auto-c873659dd5ac",
           "title": "Xiaomi 电池 / 充电相关消息",
@@ -256,29 +262,6 @@ window.phoneRadarDaily = {
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "影响日常体验，尤其是游戏、拍照和长时间使用。",
           "action": "有具体参数就记录到参数库；没有参数就先收藏。"
-        },
-        {
-          "id": "auto-af1d033317e9",
-          "title": "OPPO 发布 / 上市相关消息",
-          "originalTitle": "",
-          "source": "Gizmochina",
-          "brand": "OPPO",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-06-15",
-          "time": "19:06",
-          "publishedAt": "2026-06-15T19:06:53.000Z",
-          "url": "https://www.gizmochina.com/2026/06/15/oneplus-n6-launching-on-june-30-as-brands-first-n-series-phone/",
-          "image": "https://www.gizmochina.com/wp-content/uploads/2026/06/3984614f-04d1-4db7-9058-80554f5d76a7-300x169.jpg?x44794",
-          "verdict": "可略过",
-          "takeaway": "OPPO 有发布或新功能消息，适合确认是否和新机有关。",
-          "detail": "OPPO 发布 / 上市相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         }
       ]
     },
@@ -313,6 +296,53 @@ window.phoneRadarDaily = {
           "action": "有具体参数就记录到参数库；没有参数就先收藏。"
         },
         {
+          "id": "auto-dcd8baa2fa80",
+          "title": "Huawei 屏幕规格相关消息",
+          "originalTitle": "",
+          "source": "Huawei Central",
+          "brand": "Huawei",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-06-16",
+          "time": "13:21",
+          "publishedAt": "2026-06-16T13:21:34.000Z",
+          "url": "https://www.huaweicentral.com/huawei-mate-90-to-bring-breakthrough-in-display-besides-chipset/",
+          "image": "https://www.huaweicentral.com/wp-content/uploads/2026/05/Mate80ProMax.jpg",
+          "verdict": "可略过",
+          "takeaway": "Huawei 芯片或连接能力相关线索，可能影响性能和续航判断。",
+          "detail": "Huawei 屏幕规格相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
+          "keyPoints": [
+            "屏幕形态",
+            "芯片 / 性能"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "影响手感和显示体验，适合和其他机型对比。",
+          "action": "有具体参数就记录到参数库；没有参数就先收藏。"
+        },
+        {
+          "id": "auto-3a71efcd5643",
+          "title": "Samsung 相关消息",
+          "originalTitle": "",
+          "source": "Gizmochina",
+          "brand": "Samsung",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-06-16",
+          "time": "12:11",
+          "publishedAt": "2026-06-16T12:11:48.000Z",
+          "url": "https://www.gizmochina.com/2026/06/16/motorola-edge-70-pro-plus-vs-samsung-galaxy-s25-fe/",
+          "image": "https://www.gizmochina.com/wp-content/uploads/2026/06/image-77-300x156.png?x44794",
+          "verdict": "可略过",
+          "takeaway": "Samsung 相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
+          "detail": "Samsung 相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        },
+        {
           "id": "auto-09cb252fbe5f",
           "title": "Xiaomi 相关消息",
           "originalTitle": "",
@@ -333,32 +363,6 @@ window.phoneRadarDaily = {
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "影响拍照体验，买旗舰机时值得关注。",
-          "action": "有具体参数就记录到参数库；没有参数就先收藏。"
-        },
-        {
-          "id": "auto-fed6669b0995",
-          "title": "Xiaomi 影像能力相关消息",
-          "originalTitle": "",
-          "source": "Gizmochina",
-          "brand": "Xiaomi",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-06-15",
-          "time": "11:16",
-          "publishedAt": "2026-06-15T11:16:09.000Z",
-          "url": "https://www.gizmochina.com/2026/06/15/xiaomi-17t-pro-vs-nothing-phone-4a-pro/",
-          "image": "https://www.gizmochina.com/wp-content/uploads/2026/06/image-74-300x189.png?x44794",
-          "verdict": "可略过",
-          "takeaway": "Xiaomi 影像能力相关宣传或案例，主要看是否透露拍摄能力变化。",
-          "detail": "Xiaomi 影像能力相关消息。重点看影像功能是否和新机硬件有关，如果只是拍摄案例或营销内容，参考价值会低一些。",
-          "keyPoints": [
-            "外观 / 配色 / 尺寸",
-            "影像硬件",
-            "屏幕形态",
-            "电池 / 充电"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "影响购买预算，值得先看。",
           "action": "有具体参数就记录到参数库；没有参数就先收藏。"
         }
       ]

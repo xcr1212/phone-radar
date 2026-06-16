@@ -1,6 +1,246 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-06-16T11:33:58.247Z",
+  "updatedAt": "2026-06-16T17:21:02.863Z",
   "news": [
+    {
+      "id": "auto-a5398fa005bf",
+      "title": "Apple's 2028 iPhones to Use 1.4nm A22 Pro Chips",
+      "source": "MacRumors",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-16",
+      "time": "17:03",
+      "publishedAt": "2026-06-16T17:03:42.000Z",
+      "url": "https://www.macrumors.com/2026/06/16/2028-iphones-a22-pro-chips/",
+      "image": "",
+      "summary": "Apple will transition from 2-nanometer chips to 1.4-nanometer chips with the high-end 2028 iPhone models, reports Bloomberg . Chip supplier Taiwan Semiconductor Manufacturing Co.…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-67493b00da1d",
+      "title": "The OnePlus 16 might finally give us the zero-bezel future we were promised",
+      "source": "Android Authority",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-16",
+      "time": "14:57",
+      "publishedAt": "2026-06-16T14:57:50.000Z",
+      "url": "https://www.androidauthority.com/oneplus-16-display-details-leaked-3677977/",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2025/11/OnePlus-15-lock-screen-standing.jpg",
+      "summary": "A new OnePlus 16 leak suggests the phone's bezels will be thinner than a millimeter.",
+      "tags": [
+        "OPPO",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-be6bbc52e4e4",
+      "title": "Samsung confirms Galaxy Z Flip 7, Fold 7 will have major roles in new Spider-Man movie",
+      "source": "Android Authority",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-16",
+      "time": "14:00",
+      "publishedAt": "2026-06-16T14:00:59.000Z",
+      "url": "https://www.androidauthority.com/spider-man-brand-new-day-samsung-galaxy-devices-3677735/",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2026/06/Spidey-Tracker-Display-on-the-Samsung-Galaxy-Z-Fold-7.jpg",
+      "summary": "Your friendly neighborhood Spider-Man needs help being found.",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-06a5d5de29c0",
+      "title": "Spider-Man: Brand New Day will be full of Samsung foldables, new trailer Wednesday",
+      "source": "9to5Google",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-16",
+      "time": "14:00",
+      "publishedAt": "2026-06-16T14:00:00.000Z",
+      "url": "https://9to5google.com/2026/06/16/spider-man-brand-new-day-samsung-spidey-tracker-trailer/",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/06/samsung-spider-man-brand-new-day-tracker-1.jpg?quality=82&strip=all&w=1600",
+      "summary": "Ahead of a new trailer for Sony & Marvel’s Spider-Man: Brand New Day arriving tomorrow, Samsung has confirmed that its Galaxy Z Flip and Z Fold devices will feature in the film, a…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-2bd5462bc216",
+      "title": "Sharepower is a magnetic power bank that snaps in half so you can share a charge",
+      "source": "9to5Mac",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-16",
+      "time": "13:59",
+      "publishedAt": "2026-06-16T13:59:15.000Z",
+      "url": "https://9to5mac.com/2026/06/16/sharepower-is-a-magnetic-power-bank-that-snaps-in-half-so-you-can-share-a-charge/",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/nimble-sharepower.webp?w=1600",
+      "summary": "Nimble, the maker of many interesting iPhone accessories, is launching a new product called Sharepower, which it bills as the world’s first sharable battery. Nimble says Sharepowe…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-19de3563b324",
+      "title": "GPU-Z 发布 2.70.0 更新，提升内核驱动安全性",
+      "source": "IT之家",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-16",
+      "time": "13:22",
+      "publishedAt": "2026-06-16T13:22:23.000Z",
+      "url": "https://www.ithome.com/0/965/101.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/6/7146dfff-0b29-498b-b04c-afb5fb6fff44.jpg?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 6 月 16 日消息，TechPower Up 今天为硬件检测软件 GPU-Z 发布 2.70.0 更新，主要提升内核驱动程序的安全性， 官方建议仍在使用旧版的用户尽快更新到最新版本 。 IT之家附本次更新详情如下： 改进内核驱动程序安全性 新增高通 Adreno 741 的 die size 信息 新增英伟达 RTX 6000D、RTX Pro…",
+      "tags": [
+        "行业",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-dcd8baa2fa80",
+      "title": "Huawei Mate 90 to bring breakthrough in display, besides chipset",
+      "source": "Huawei Central",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-16",
+      "time": "13:21",
+      "publishedAt": "2026-06-16T13:21:34.000Z",
+      "url": "https://www.huaweicentral.com/huawei-mate-90-to-bring-breakthrough-in-display-besides-chipset/",
+      "image": "https://www.huaweicentral.com/wp-content/uploads/2026/05/Mate80ProMax.jpg",
+      "summary": "Huawei Mate 90 series is ready to bring a significant breakthrough in terms of chipset, but the advancements won’t likely be limited to performance – they will reach the display s…",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-e20a3275e17d",
+      "title": "Xiaomi begins June 2026 security update rollout: Here are the devices getting it",
+      "source": "Gizmochina",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-16",
+      "time": "13:03",
+      "publishedAt": "2026-06-16T13:03:50.000Z",
+      "url": "https://www.gizmochina.com/2026/06/16/xiaomi-begins-june-2026-security-update-rollout-here-are-the-devices-getting-it/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/06/Xiaomi-15-series-phones-300x169.png?x44794",
+      "summary": "Xiaomi has started rolling out the June 2026 Android security patch to its devices. As the rollout has just begun, it’s currently limited to select high-end Xiaomi and Redmi smart…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-1edf9e19e4cb",
+      "title": "Huawei ramping up Mate 90 launch against 2026 iPhone lineup",
+      "source": "Huawei Central",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-16",
+      "time": "12:28",
+      "publishedAt": "2026-06-16T12:28:01.000Z",
+      "url": "https://www.huaweicentral.com/huawei-ramping-up-mate-90-launch-against-2026-iphone-lineup/",
+      "image": "https://www.huaweicentral.com/wp-content/uploads/2026/02/Mate80Pro-global.jpg",
+      "summary": "Huawei Mate 90 is no longer just a new flagship for 2026, but it has become a crucial focal point for the industry due to two reasons – the new chipset and its rumored launch time…",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-3a71efcd5643",
+      "title": "Motorola Edge 70 Pro+ vs Galaxy S25 FE: The Winner Might Surprise You",
+      "source": "Gizmochina",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-16",
+      "time": "12:11",
+      "publishedAt": "2026-06-16T12:11:48.000Z",
+      "url": "https://www.gizmochina.com/2026/06/16/motorola-edge-70-pro-plus-vs-samsung-galaxy-s25-fe/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/06/image-77-300x156.png?x44794",
+      "summary": "Motorola Edge 70 Pro+ and Samsung Galaxy S25 FE take two very different approaches to the premium smartphone segment. Motorola focuses on delivering top-tier hardware with a high-…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-7f109fe61c84",
+      "title": "Mophie announces three new premium 25W MagSafe chargers for iPhone: hands-on",
+      "source": "9to5Mac",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-16",
+      "time": "12:00",
+      "publishedAt": "2026-06-16T12:00:00.000Z",
+      "url": "https://9to5mac.com/2026/06/16/mophie-announces-three-new-premium-25w-magsafe-chargers-for-iphone-hands-on/",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/Mophie-FI.jpg?quality=82&strip=all&w=1600",
+      "summary": "Mophie’s been a mainstay in the charging tech industry, and today, they have an all new lineup of premium 25W MagSafe charging products for Apple users – available from Mophie.com…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-0539873c43b4",
+      "title": "Xiaomi 18 Pro and Xiaomi 18 will launch separately, per this leak",
+      "source": "Gizmochina",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-16",
+      "time": "11:51",
+      "publishedAt": "2026-06-16T11:51:41.000Z",
+      "url": "https://www.gizmochina.com/2026/06/16/xiaomi-18-pro-and-xiaomi-18-will-launch-separately-per-this-leak/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/02/HB11zWVbgAApv9Q-240x300.jpg?x44794",
+      "summary": "Xiaomi 18 recently surfaced in the GSMA product database, confirming its existence. Based on how Xiaomi rolls out its flagships, the new Xiaomi 18 series should reach buyers as ea…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-74ed5e3e6014",
       "title": "Galaxy Z Fold 8 could have a significantly smoother foldable display",
@@ -202,26 +442,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-532959fffd61",
-      "title": "重回 Y2K：80 年代传奇 PC 厂商 Commodore 推出翻盖手机，助你“远离”互联网",
-      "source": "IT之家",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-16",
-      "time": "09:18",
-      "publishedAt": "2026-06-16T09:18:11.000Z",
-      "url": "https://www.ithome.com/0/964/998.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/6/1fa4766e-6e20-4c79-b44b-ea2424fa0cf5.png?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 6 月 16 日消息，上世纪 80 年代传奇 PC 厂商 Commodore 今天（16 日）推出了一款翻盖手机 Callback 8020，起售价 499 美元（IT之家注：现汇率约合 3379 元人民币），功能和配色都带着浓厚的 2000 年代初电子产品气质。 Callback 8020 的硬件并不强，设计目标也并非性能机器。 内屏尺寸为 3…",
-      "tags": [
-        "行业",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-7afbfa6a8682",
       "title": "Xiaomi 17T Pro vs iPhone 17: Bigger Battery, Better Cameras, Lower Price?",
       "source": "Gizmochina",
@@ -362,46 +582,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-69a2f1d822c8",
-      "title": "希望手机回归四微曲屏设计。",
-      "source": "酷安热榜",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-06-16",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72361186",
-      "image": "",
-      "summary": "希望手机回归四微曲屏设计。",
-      "tags": [
-        "行业",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-45e933764a00",
-      "title": "女子玩手机憋尿3小时黄体破裂出血",
-      "source": "百度热搜",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-16",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%8E%A9%E6%89%8B%E6%9C%BA%E6%86%8B%E5%B0%BF3%E5%B0%8F%E6%97%B6%E9%BB%84%E4%BD%93%E7%A0%B4%E8%A3%82%E5%87%BA%E8%A1%80",
-      "image": "",
-      "summary": "女子玩手机憋尿3小时黄体破裂出血",
-      "tags": [
-        "行业",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
       "id": "auto-fcfc9bf748eb",
       "title": "More Galaxy Z Fold 8 ‘Ultra’ leaks confirm it looks just like a normal Samsung foldable",
       "source": "9to5Google",
@@ -482,26 +662,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-fc33d856beb4",
-      "title": "FCC listings reveal Samsung's Galaxy Unpacked lineup, except for one phone everyone's waiting for",
-      "source": "Android Police",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-15",
-      "time": "16:47",
-      "publishedAt": "2026-06-15T16:47:34.000Z",
-      "url": "https://www.androidpolice.com/fcc-listings-reveal-samsungs-galaxy-unpacked-lineup-except-for-one-phone-everyones-waiting-for/",
-      "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2025/01/galaxy-unpacked-thumbnail.png",
-      "summary": "Where's the Galaxy Z Fold 8 Wide?",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-dcda0a6d8273",
       "title": "Galaxy Z Fold 8 ‘Wide’ reportedly has a stronger inner display than the ‘Ultra’",
       "source": "9to5Google",
@@ -575,26 +735,6 @@ window.phoneRadarAuto = {
       "url": "https://9to5mac.com/2026/06/15/iphone-18-pro-casing-likely-to-experience-same-pros-cons-as-its-predecessor/",
       "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/05/iphone-18-pro-colors.jpg?quality=82&strip=all&w=1600",
       "summary": "The iPhone 17 Pro switched from the titanium casing of earlier models to aluminum alloy, with a resulting mix of pros and cons. A new report says that the iPhone 18 Pro will use t…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-d99c63ff88c1",
-      "title": "Leaker Warns iPhone 18 Pro New Colors May Face Same Durability Issues",
-      "source": "MacRumors",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-15",
-      "time": "12:56",
-      "publishedAt": "2026-06-15T12:56:50.000Z",
-      "url": "https://www.macrumors.com/2026/06/15/iphone-18-pro-may-face-same-durability-issues/",
-      "image": "https://images.macrumors.com/article-new/2026/04/Four-iPhone-18-Pro-Colors-Mock-Feature.jpg",
-      "summary": "A known Weibo leaker has reiterated that the iPhone 18 Pro will retain its aluminum alloy build, while issuing a specific warning that the new color options may be susceptible to…",
       "tags": [
         "iPhone",
         "爆料",
