@@ -1,15 +1,15 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-06-17T05:16:04.820Z",
+  "updatedAt": "2026-06-17T11:17:04.657Z",
   "issueDate": "2026-06-17",
   "issue": "VOL.260617",
   "title": "手机情报日报",
-  "intro": "今日筛出 14 条重点，其中 8 条是重点爆料，包含 6 条 iPhone 相关、0 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 18 条重点，其中 8 条是重点爆料，包含 5 条 iPhone 相关、0 条官方确认、1 条参数线索。",
   "stats": {
-    "total": 14,
-    "iphone": 6,
+    "total": 18,
+    "iphone": 5,
     "leaks": 8,
     "official": 0,
-    "specs": 0
+    "specs": 1
   },
   "sections": [
     {
@@ -18,47 +18,24 @@ window.phoneRadarDaily = {
       "hint": "机模、配色、影像、屏幕、电池和芯片线索先看。",
       "items": [
         {
-          "id": "auto-8ad75d4f9113",
-          "title": "古尔曼爆料苹果布局 2028 款 iPhone：升级 1.4nm 工艺，性能较 2nm 提升 15%",
-          "originalTitle": "",
-          "source": "IT之家",
-          "brand": "iPhone",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-06-17",
-          "time": "01:59",
-          "publishedAt": "2026-06-17T01:59:01.000Z",
-          "url": "https://www.ithome.com/0/965/205.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/6/57673cfe-bb6b-4556-b4aa-7b5f04553684.png?x-bce-process=image/format,f_auto",
-          "verdict": "先看",
-          "takeaway": "IT之家 6 月 17 日消息，在今天发布的 Power On 实时通讯中，彭博社马克 · 古尔曼（Mark Gurman）透露苹果公司计划为 2028 年的 iPhone 高端机型， 规划使用 1.4nm 工艺的 A22 Pro 芯片，性能较 2nm 工艺最高提升 15%。 代工厂商方面，台积电依然是苹果公司的首选合作伙伴，不过古尔曼透露苹果公司有意分流…",
-          "detail": "IT之家 6 月 17 日消息，在今天发布的 Power On 实时通讯中，彭博社马克 · 古尔曼（Mark Gurman）透露苹果公司计划为 2028 年的 iPhone 高端机型， 规划使用 1.4nm 工艺的 A22 Pro 芯片，性能较 2nm 工艺最高提升 15%。 代工厂商方面，台积电依然是苹果公司的首选合作伙伴，不过古尔曼透露苹果公司有意分流…",
-          "keyPoints": [
-            "芯片 / 性能",
-            "爆料来源"
-          ],
-          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "auto-8df7407a36ce",
-          "title": "【IT之家开箱】vivo X Fold6「盐湖」配色图赏：一眼清透的折叠旗舰美学",
+          "id": "auto-187ca3ca7944",
+          "title": "vivo X Fold6 折叠屏手机三色外观公布，6 月 26 日发布",
           "originalTitle": "",
           "source": "IT之家",
           "brand": "vivo",
           "type": "爆料",
           "trust": "媒体汇总",
           "date": "2026-06-17",
-          "time": "02:56",
-          "publishedAt": "2026-06-17T02:56:47.000Z",
-          "url": "https://www.ithome.com/0/965/261.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/6/005ada1c-9272-4909-b9ae-57fc4f869af7.jpg?x-bce-process=image/format,f_auto",
+          "time": "09:18",
+          "publishedAt": "2026-06-17T09:18:55.000Z",
+          "url": "https://www.ithome.com/0/965/565.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/6/42eb9af3-23d1-4989-af09-a87cf5bb3494.jpg?x-bce-process=image/format,f_auto",
           "verdict": "先看",
-          "takeaway": "IT之家 6 月 17 日消息，vivo X Fold6 折叠屏手机新品发布会 已定档 6 月 26 日 19:00 ，目前新机已开启全平台线上预约。随着发布时间临近，IT之家也率先拿到了新机“盐湖”配色版本，一起先睹为快。 这一次的“盐湖”配色，官方用一组意象来诠释：偶尔放空的白，是纯净盐湖的白，是天空之境的惬意，也是生活里一杯冰爽气泡水的轻盈感。整机在…",
-          "detail": "IT之家 6 月 17 日消息，vivo X Fold6 折叠屏手机新品发布会 已定档 6 月 26 日 19:00 ，目前新机已开启全平台线上预约。随着发布时间临近，IT之家也率先拿到了新机“盐湖”配色版本，一起先睹为快。 这一次的“盐湖”配色，官方用一组意象来诠释：偶尔放空的白，是纯净盐湖的白，是天空之境的惬意，也是生活里一杯冰爽气泡水的轻盈感。整机在…",
+          "takeaway": "IT之家 6 月 17 日消息，vivo X Fold6 折叠屏手机新品发布会定档 6 月 26 日 19:00 举行，这款新机已开启线上全平台预约。 IT之家注意到，vivo 官方今日发布视频，揭晓了这款手机的三款配色， 分别是「蓝洞 」「盐湖 」和「极夜 」 。 据IT之家此前报道，vivo X Fold6 目标打造最强折叠影像旗舰，更是一部“折叠小…",
+          "detail": "IT之家 6 月 17 日消息，vivo X Fold6 折叠屏手机新品发布会定档 6 月 26 日 19:00 举行，这款新机已开启线上全平台预约。 IT之家注意到，vivo 官方今日发布视频，揭晓了这款手机的三款配色， 分别是「蓝洞 」「盐湖 」和「极夜 」 。 据IT之家此前报道，vivo X Fold6 目标打造最强折叠影像旗舰，更是一部“折叠小…",
           "keyPoints": [
             "外观 / 配色 / 尺寸",
+            "影像硬件",
             "屏幕形态"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
@@ -66,27 +43,25 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
-          "id": "auto-657346541f27",
-          "title": "消息称小米首款阔折叠手机 MIX Fold 5 入网：支持 UWB 超宽带技术、为“万元档”价位",
+          "id": "auto-1a195b8adac4",
+          "title": "iPhone 相关消息",
           "originalTitle": "",
-          "source": "IT之家",
-          "brand": "Xiaomi",
+          "source": "MacRumors",
+          "brand": "iPhone",
           "type": "爆料",
           "trust": "媒体汇总",
           "date": "2026-06-17",
-          "time": "01:57",
-          "publishedAt": "2026-06-17T01:57:22.000Z",
-          "url": "https://www.ithome.com/0/965/204.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/6/68f157cc-9a27-4c0e-8672-241d61d58c2c.jpg?x-bce-process=image/format,f_auto",
+          "time": "08:48",
+          "publishedAt": "2026-06-17T08:48:06.000Z",
+          "url": "https://www.macrumors.com/2026/06/17/whatsapp-view-once-text-messages-iphone/",
+          "image": "https://images.macrumors.com/article-new/2026/05/Whatsapp-Feature.jpg",
           "verdict": "先看",
-          "takeaway": "IT之家 6 月 17 日消息，博主 @数码闲聊站 发文，透露“粮厂”旗下一款型号 2608BPX34C 的“神秘新机”入网，该博主同时透露该机系“粮厂今年定位最高的手机新品”，预计该机为小米首款阔折叠 MIX Fold 5。参考入网信息，该机支持独立 N79 频段，支持 UWB 超宽带技术。 另综合博主 @智慧皮卡丘，该机将采用横置相机模组设计，搭载自研…",
-          "detail": "IT之家 6 月 17 日消息，博主 @数码闲聊站 发文，透露“粮厂”旗下一款型号 2608BPX34C 的“神秘新机”入网，该博主同时透露该机系“粮厂今年定位最高的手机新品”，预计该机为小米首款阔折叠 MIX Fold 5。参考入网信息，该机支持独立 N79 频段，支持 UWB 超宽带技术。 另综合博主 @智慧皮卡丘，该机将采用横置相机模组设计，搭载自研…",
+          "takeaway": "iPhone 相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
+          "detail": "iPhone 相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
           "keyPoints": [
-            "外观 / 配色 / 尺寸",
-            "影像硬件",
-            "爆料来源"
+            "影像硬件"
           ],
-          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
@@ -137,48 +112,25 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
-          "id": "auto-06cac8088449",
-          "title": "屏幕峰值亮度突破 10000nits：荣耀 X80 Pro Max 手机官宣行业首发万级高亮屏",
+          "id": "auto-d20adf99254e",
+          "title": "消息称荣耀 MagicOS 11 系统将适配支持 Magic5 系列手机",
           "originalTitle": "",
           "source": "IT之家",
           "brand": "HONOR",
           "type": "爆料",
           "trust": "媒体汇总",
           "date": "2026-06-17",
-          "time": "02:07",
-          "publishedAt": "2026-06-17T02:07:34.000Z",
-          "url": "https://www.ithome.com/0/965/208.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/6/7704a7b3-a9d8-4c67-ab78-f0897ad6aeaa.jpg?x-bce-process=image/format,f_auto",
+          "time": "11:08",
+          "publishedAt": "2026-06-17T11:08:14.000Z",
+          "url": "https://www.ithome.com/0/965/628.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/6/9d584a21-23b0-4bc7-b6bc-bfe36d326a1e.jpg?x-bce-process=image/format,f_auto",
           "verdict": "先看",
-          "takeaway": "IT之家 6 月 17 日消息，荣耀手机官方今日宣布，荣耀 X80 Pro Max 手机行业首发万级高亮屏， 屏幕峰值亮度突破 10000nits 。 官方同步公布的海报显示，这款手机搭载 1.5K（2788×1280）120Hz 屏幕，亮度提升 67%（对比荣耀 X70），黑边 1.3mm。 此外，这台新机适配全新 荣耀蜂鸟架构 2.0 ，官方宣称刷短视…",
-          "detail": "IT之家 6 月 17 日消息，荣耀手机官方今日宣布，荣耀 X80 Pro Max 手机行业首发万级高亮屏， 屏幕峰值亮度突破 10000nits 。 官方同步公布的海报显示，这款手机搭载 1.5K（2788×1280）120Hz 屏幕，亮度提升 67%（对比荣耀 X70），黑边 1.3mm。 此外，这台新机适配全新 荣耀蜂鸟架构 2.0 ，官方宣称刷短视…",
-          "keyPoints": [
-            "屏幕形态"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "weibo-706e2556db95",
-          "title": "数码闲聊站：小米2608BPX34C旗舰新机是独立入网，早于尚未入网的小米18系列，可能会…",
-          "originalTitle": "",
-          "source": "数码闲聊站",
-          "brand": "Xiaomi",
-          "type": "爆料",
-          "trust": "高关注爆料源",
-          "date": "2026-06-17",
-          "time": "02:33",
-          "publishedAt": "2026-06-17T02:33:57.000Z",
-          "url": "https://weibo.com/6048569942/R4vvWEbWu",
-          "image": "",
-          "verdict": "先看",
-          "takeaway": "小米2608BPX34C旗舰新机是独立入网，早于尚未入网的小米18系列，可能会单独发布，因此大概率也是首发预装新一代澎湃OS，以及……[流鼻血]",
-          "detail": "小米2608BPX34C旗舰新机是独立入网，早于尚未入网的小米18系列，可能会单独发布，因此大概率也是首发预装新一代澎湃OS，以及……[流鼻血]",
+          "takeaway": "IT之家 6 月 17 日消息，荣耀 MagicOS 官方昨日宣布，安卓首个“液态玻璃”将在 MagicOS 11 登场。官方称 MagicOS 11 通过流光通透美学， 带来了行业首个支持动态场景的液态玻璃效果 。 目前， MagicOS 11 液态玻璃先锋版已开启小范围共创招募 ， 招募机型包括：Magic8、Magic8 Pro、Magic8 Pro…",
+          "detail": "IT之家 6 月 17 日消息，荣耀 MagicOS 官方昨日宣布，安卓首个“液态玻璃”将在 MagicOS 11 登场。官方称 MagicOS 11 通过流光通透美学， 带来了行业首个支持动态场景的液态玻璃效果 。 目前， MagicOS 11 液态玻璃先锋版已开启小范围共创招募 ， 招募机型包括：Magic8、Magic8 Pro、Magic8 Pro…",
           "keyPoints": [
             "爆料来源"
           ],
-          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
@@ -204,6 +156,52 @@ window.phoneRadarDaily = {
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "newsnow-8af4138c1f75",
+          "title": "曝小米首款阔折叠手机入网：定义超高端万元档",
+          "originalTitle": "",
+          "source": "酷安热榜",
+          "brand": "Xiaomi",
+          "type": "爆料",
+          "trust": "高关注爆料源",
+          "date": "2026-06-17",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://www.coolapk.com/feed/72382956",
+          "image": "",
+          "verdict": "先看",
+          "takeaway": "曝小米首款阔折叠手机入网：定义超高端万元档",
+          "detail": "曝小米首款阔折叠手机入网：定义超高端万元档",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "coolapk-user-f056d4d6bd93",
+          "title": "竹本青：【荣耀方飞爆料 MagicOS 11 更多液态玻璃界面效果：通透桌面/相册，材质自定义等】 ▫️流光通透桌面／相册…",
+          "originalTitle": "",
+          "source": "竹本青",
+          "brand": "HONOR",
+          "type": "爆料",
+          "trust": "高可信爆料",
+          "date": "2026-06-17",
+          "time": "07:09",
+          "publishedAt": "2026-06-17T07:09:47.000Z",
+          "url": "https://www.coolapk.com/feed/72388404",
+          "image": "http://image.coolapk.com/feed/2026/0617/15/4248714_48549a16_0167_2239_324-livepic@1082x1444.jpg",
+          "verdict": "先看",
+          "takeaway": "【荣耀方飞爆料 MagicOS 11 更多液态玻璃界面效果：通透桌面/相册，材质自定义等】 ▫️流光通透桌面／相册 ▫️流光锁屏音乐／来电 ▫️流光灵动胶囊 ▫️通透材质自定义 此外，方飞透露，MagicOS11 先锋版体验招募启动后，报名人数远超预期。 #今日热点# #MagicOS10# #MagicOS11#",
+          "detail": "【荣耀方飞爆料 MagicOS 11 更多液态玻璃界面效果：通透桌面/相册，材质自定义等】 ▫️流光通透桌面／相册 ▫️流光锁屏音乐／来电 ▫️流光灵动胶囊 ▫️通透材质自定义 此外，方飞透露，MagicOS11 先锋版体验招募启动后，报名人数远超预期。 #今日热点# #MagicOS10# #MagicOS11#",
+          "keyPoints": [
+            "爆料来源"
+          ],
+          "confidence": "可信度较高，但仍属于发布前线索。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         }
       ]
     },
@@ -212,29 +210,6 @@ window.phoneRadarDaily = {
       "title": "iPhone 重点",
       "hint": "不是硬件爆料，但和 iPhone 体验或路线有关。",
       "items": [
-        {
-          "id": "auto-3b0471bcd7d9",
-          "title": "微星为英特尔 600 / 700 / 800 系主板全面推送 HUDIMM 支持 BIOS",
-          "originalTitle": "",
-          "source": "IT之家",
-          "brand": "iPhone",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-06-17",
-          "time": "02:54",
-          "publishedAt": "2026-06-17T02:54:05.000Z",
-          "url": "https://www.ithome.com/0/965/255.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/6/4c740884-71db-4984-91a7-d2350f3a808d.jpg?x-bce-process=image/format,f_auto",
-          "verdict": "先看",
-          "takeaway": "IT之家 6 月 17 日消息，微星 (MSI) 昨日宣布为其英特尔 600 / 700 / 800 系列主板全面推送兼容支持 HUDIMM 内存模组的 BIOS 更新。最新固件可 确保 HUDIMM 开箱即用 ，实现无缝检测、最佳初始化、卓越稳定性， 用户无需进行任何手动配置 。 与采用双子通道、64-bit 设计的标准 DDR5 UDIMM 不同，HU…",
-          "detail": "IT之家 6 月 17 日消息，微星 (MSI) 昨日宣布为其英特尔 600 / 700 / 800 系列主板全面推送兼容支持 HUDIMM 内存模组的 BIOS 更新。最新固件可 确保 HUDIMM 开箱即用 ，实现无缝检测、最佳初始化、卓越稳定性， 用户无需进行任何手动配置 。 与采用双子通道、64-bit 设计的标准 DDR5 UDIMM 不同，HU…",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "中文源可以直接点开快读；看完只保留和购机有关的点。"
-        },
         {
           "id": "auto-af8e5f92cecb",
           "title": "iPhone 系统功能 / AI 体验相关消息",
@@ -284,6 +259,66 @@ window.phoneRadarDaily = {
       ]
     },
     {
+      "id": "launch",
+      "title": "新机与官方发布",
+      "hint": "能直接更新到参数库。",
+      "items": [
+        {
+          "id": "auto-c873659dd5ac",
+          "title": "Xiaomi 电池 / 充电相关消息",
+          "originalTitle": "",
+          "source": "Gizmochina",
+          "brand": "Xiaomi",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-06-16",
+          "time": "03:44",
+          "publishedAt": "2026-06-16T03:44:54.000Z",
+          "url": "https://www.gizmochina.com/2026/06/16/redmi-k90-ultra-june-launch-confirmed/",
+          "image": "https://www.gizmochina.com/wp-content/uploads/2026/06/64048f31ly1ie6vlaiknsj21qi2bce84-225x300.jpg?x44794",
+          "verdict": "可略过",
+          "takeaway": "Xiaomi 电池 / 充电相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
+          "detail": "Xiaomi 电池 / 充电相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
+          "keyPoints": [
+            "电池 / 充电"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "影响日常体验，尤其是游戏、拍照和长时间使用。",
+          "action": "有具体参数就记录到参数库；没有参数就先收藏。"
+        }
+      ]
+    },
+    {
+      "id": "specs",
+      "title": "参数、跑分、认证",
+      "hint": "适合验证芯片、屏幕、影像和电池。",
+      "items": [
+        {
+          "id": "coolapk-user-7fea2c2e0ac4",
+          "title": "JSCHEN小小狐：博主汇总天玑 9600 系列迭代旗舰主摄方案",
+          "originalTitle": "",
+          "source": "JSCHEN小小狐",
+          "brand": "Samsung",
+          "type": "爆料",
+          "trust": "高可信爆料",
+          "date": "2026-06-17",
+          "time": "08:34",
+          "publishedAt": "2026-06-17T08:34:55.000Z",
+          "url": "https://www.coolapk.com/feed/72389739",
+          "image": "http://image.coolapk.com/feed/2026/0617/16/4702274_8e0e8be6_5294_3912_557@1440x929.jpg",
+          "verdict": "扫一眼",
+          "takeaway": "『博主汇总天玑 9600 系列迭代旗舰主摄方案』 vivo X500 系列： ◇ 索尼 LYTIA L910 传感器 ◇ 5000 万像素，1/1.28'' 超大底 ◇ LOFIC 技术，动态范围 100dB± OPPO Find X10 系列： ◇ 三星 S5KHPC 传感器 ◇ 2 亿像素，1/1.3''± 超大底 ◇ UFCC 技术，FWC 160K…",
+          "detail": "『博主汇总天玑 9600 系列迭代旗舰主摄方案』 vivo X500 系列： ◇ 索尼 LYTIA L910 传感器 ◇ 5000 万像素，1/1.28'' 超大底 ◇ LOFIC 技术，动态范围 100dB± OPPO Find X10 系列： ◇ 三星 S5KHPC 传感器 ◇ 2 亿像素，1/1.3''± 超大底 ◇ UFCC 技术，FWC 160K…",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "可信度较高，但仍属于发布前线索。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        }
+      ]
+    },
+    {
       "id": "market",
       "title": "行业趋势",
       "hint": "看方向，不急着当购买依据。",
@@ -314,25 +349,48 @@ window.phoneRadarDaily = {
           "action": "有具体参数就记录到参数库；没有参数就先收藏。"
         },
         {
-          "id": "coolapk-user-3c37d480a347",
-          "title": "竹本青：【荣耀X80 Pro Max 系统预热：蜂鸟架构2.0，号称六年稳定流畅】 ▫️全新荣耀蜂鸟架构2.0 ▫️刷短视…",
+          "id": "auto-996eeb36d600",
+          "title": "Galaxy S26 Ultra 影像能力相关消息",
           "originalTitle": "",
-          "source": "竹本青",
-          "brand": "HONOR",
+          "source": "SamMobile",
+          "brand": "Samsung",
           "type": "爆料",
-          "trust": "高可信爆料",
+          "trust": "媒体汇总",
           "date": "2026-06-17",
-          "time": "02:01",
-          "publishedAt": "2026-06-17T02:01:02.000Z",
-          "url": "https://www.coolapk.com/feed/72383704",
-          "image": "http://image.coolapk.com/feed/2026/0617/10/4248714_6d3586de_1660_9415_881@2000x3556.jpg",
-          "verdict": "扫一眼",
-          "takeaway": "【荣耀X80 Pro Max 系统预热：蜂鸟架构2.0，号称六年稳定流畅】 ▫️全新荣耀蜂鸟架构2.0 ▫️刷短视频流畅性至高提升40% ▫️智能清理内存空间碎片 ▫️号称六年稳定流畅 #今日热点# #荣耀X80ProMax# #MagicOS10#",
-          "detail": "【荣耀X80 Pro Max 系统预热：蜂鸟架构2.0，号称六年稳定流畅】 ▫️全新荣耀蜂鸟架构2.0 ▫️刷短视频流畅性至高提升40% ▫️智能清理内存空间碎片 ▫️号称六年稳定流畅 #今日热点# #荣耀X80ProMax# #MagicOS10#",
+          "time": "11:00",
+          "publishedAt": "2026-06-17T11:00:00.000Z",
+          "url": "https://www.sammobile.com/news/samsung-galaxy-s26-ultra-vs-other-flagship-cameras/",
+          "image": "",
+          "verdict": "可略过",
+          "takeaway": "Samsung 影像能力相关宣传或案例，主要看是否透露拍摄能力变化。",
+          "detail": "Galaxy S26 Ultra 影像能力相关消息。重点看影像功能是否和新机硬件有关，如果只是拍摄案例或营销内容，参考价值会低一些。",
+          "keyPoints": [
+            "影像硬件"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "影响拍照体验，买旗舰机时值得关注。",
+          "action": "有具体参数就记录到参数库；没有参数就先收藏。"
+        },
+        {
+          "id": "auto-3e6efa835ee5",
+          "title": "Samsung 折叠屏相关消息",
+          "originalTitle": "",
+          "source": "SamMobile",
+          "brand": "Samsung",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-06-17",
+          "time": "10:35",
+          "publishedAt": "2026-06-17T10:35:04.000Z",
+          "url": "https://www.sammobile.com/news/see-the-five-reasons-why-the-galaxy-z-fold-8-ultra-should-excite-you/",
+          "image": "",
+          "verdict": "可略过",
+          "takeaway": "Samsung 折叠屏相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
+          "detail": "Samsung 折叠屏相关消息。重点看折痕、铰链、厚度、屏幕可靠性和重量是否有实质改善。",
           "keyPoints": [
             "爆料"
           ],
-          "confidence": "可信度较高，但仍属于发布前线索。",
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         },
@@ -358,6 +416,53 @@ window.phoneRadarDaily = {
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        },
+        {
+          "id": "auto-dcd8baa2fa80",
+          "title": "Huawei 屏幕规格相关消息",
+          "originalTitle": "",
+          "source": "Huawei Central",
+          "brand": "Huawei",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-06-16",
+          "time": "13:21",
+          "publishedAt": "2026-06-16T13:21:34.000Z",
+          "url": "https://www.huaweicentral.com/huawei-mate-90-to-bring-breakthrough-in-display-besides-chipset/",
+          "image": "https://www.huaweicentral.com/wp-content/uploads/2026/05/Mate80ProMax.jpg",
+          "verdict": "可略过",
+          "takeaway": "Huawei 芯片或连接能力相关线索，可能影响性能和续航判断。",
+          "detail": "Huawei 屏幕规格相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
+          "keyPoints": [
+            "屏幕形态",
+            "芯片 / 性能"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "影响手感和显示体验，适合和其他机型对比。",
+          "action": "有具体参数就记录到参数库；没有参数就先收藏。"
+        },
+        {
+          "id": "auto-09cb252fbe5f",
+          "title": "Xiaomi 相关消息",
+          "originalTitle": "",
+          "source": "Gizmochina",
+          "brand": "Xiaomi",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-06-16",
+          "time": "10:38",
+          "publishedAt": "2026-06-16T10:38:41.000Z",
+          "url": "https://www.gizmochina.com/2026/06/16/motorola-edge-70-pro-plus-vs-xiaomi-17t/",
+          "image": "https://www.gizmochina.com/wp-content/uploads/2026/06/image-76-300x192.png?x44794",
+          "verdict": "可略过",
+          "takeaway": "Xiaomi 相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
+          "detail": "Xiaomi 相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
+          "keyPoints": [
+            "影像硬件"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "影响拍照体验，买旗舰机时值得关注。",
+          "action": "有具体参数就记录到参数库；没有参数就先收藏。"
         }
       ]
     }
