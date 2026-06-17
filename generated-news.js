@@ -1,6 +1,86 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-06-17T11:17:04.657Z",
+  "updatedAt": "2026-06-17T16:03:18.762Z",
   "news": [
+    {
+      "id": "auto-9ccbd5a40f63",
+      "title": "Google solves the biggest headache of switching from iPhone to Android",
+      "source": "Android Police",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-17",
+      "time": "15:47",
+      "publishedAt": "2026-06-17T15:47:14.000Z",
+      "url": "https://www.androidpolice.com/google-solves-biggest-headache-switching-from-iphone-to-android/",
+      "image": "",
+      "summary": "Transfer more data than ever before",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-57697d491045",
+      "title": "Huawei Nova 16 vs Oppo Reno 15: Camera, Performance, Battery and Value Compared",
+      "source": "Gizmochina",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-17",
+      "time": "15:13",
+      "publishedAt": "2026-06-17T15:13:16.000Z",
+      "url": "https://www.gizmochina.com/2026/06/17/huawei-nova-16-vs-oppo-reno-15/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/06/image-80-300x185.png?x44794",
+      "summary": "Huawei Nova 16 and Oppo Reno 15 represent two very different approaches to the premium mid-range smartphone market. One focuses on massive battery life and hardware value, while t…",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-521e43559441",
+      "title": "New Galaxy Z Fold 8 series leak says will cost more than Galaxy Z Fold 7",
+      "source": "SamMobile",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-17",
+      "time": "13:38",
+      "publishedAt": "2026-06-17T13:38:10.000Z",
+      "url": "https://www.sammobile.com/news/new-galaxy-z-fold-8-series-leak-says-will-cost-more-than-galaxy-z-fold-7/",
+      "image": "",
+      "summary": "Samsung is expected to unveil its next-generation flagship foldable smartphone lineup next month. According to reports, it will have three models: the Galaxy Z Fold 8 Ultra (succe…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-57db9f600972",
+      "title": "亚洲最大单跨机库：上海波音新机库正式启用，可同时容纳 6 架飞机",
+      "source": "IT之家",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-17",
+      "time": "12:26",
+      "publishedAt": "2026-06-17T12:26:41.000Z",
+      "url": "https://www.ithome.com/0/965/643.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/6/204479ef-63a7-4515-9db7-15ef2c694fb3.png?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 6 月 17 日消息，据中国民航网消息，上海波音航空改装维修工程有限公司（以下简称“上海波音”）全新的先进机库今日在上海自贸区临港新片区的洋山特殊综合保税区正式启用。 这座新机库的投用，标志着这家以上海浦东国际机场为基地、已为全球航空业服务 20 年的企业，在产能扩张上迈出了重要一步。 作为波音公司、上海机场（集团）有限公司与中国东方航空股份有限…",
+      "tags": [
+        "行业",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-d20adf99254e",
       "title": "消息称荣耀 MagicOS 11 系统将适配支持 Magic5 系列手机",
@@ -17,26 +97,6 @@ window.phoneRadarAuto = {
       "summary": "IT之家 6 月 17 日消息，荣耀 MagicOS 官方昨日宣布，安卓首个“液态玻璃”将在 MagicOS 11 登场。官方称 MagicOS 11 通过流光通透美学， 带来了行业首个支持动态场景的液态玻璃效果 。 目前， MagicOS 11 液态玻璃先锋版已开启小范围共创招募 ， 招募机型包括：Magic8、Magic8 Pro、Magic8 Pro…",
       "tags": [
         "HONOR",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-996eeb36d600",
-      "title": "Samsung Galaxy S26 Ultra vs other flagship cameras: How they compare",
-      "source": "SamMobile",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-17",
-      "time": "11:00",
-      "publishedAt": "2026-06-17T11:00:00.000Z",
-      "url": "https://www.sammobile.com/news/samsung-galaxy-s26-ultra-vs-other-flagship-cameras/",
-      "image": "",
-      "summary": "The Samsung Galaxy S26 Ultra is built around one of the most capable camera systems Samsung has ever put in a phone. Its combination of sensor size, aperture, zoom capability, vid…",
-      "tags": [
-        "Samsung",
         "爆料",
         "自动抓取"
       ]
@@ -77,26 +137,6 @@ window.phoneRadarAuto = {
       "summary": "Samsung is due to expand its foldable lineup later this year. The company will introduce the Galaxy Z Fold 8 Ultra, a wider iteration of its popular flagship foldable, alongside t…",
       "tags": [
         "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-187ca3ca7944",
-      "title": "vivo X Fold6 折叠屏手机三色外观公布，6 月 26 日发布",
-      "source": "IT之家",
-      "brand": "vivo",
-      "model": "vivo 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-17",
-      "time": "09:18",
-      "publishedAt": "2026-06-17T09:18:55.000Z",
-      "url": "https://www.ithome.com/0/965/565.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/6/42eb9af3-23d1-4989-af09-a87cf5bb3494.jpg?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 6 月 17 日消息，vivo X Fold6 折叠屏手机新品发布会定档 6 月 26 日 19:00 举行，这款新机已开启线上全平台预约。 IT之家注意到，vivo 官方今日发布视频，揭晓了这款手机的三款配色， 分别是「蓝洞 」「盐湖 」和「极夜 」 。 据IT之家此前报道，vivo X Fold6 目标打造最强折叠影像旗舰，更是一部“折叠小…",
-      "tags": [
-        "vivo",
         "爆料",
         "自动抓取"
       ]
@@ -342,26 +382,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-7ffbf79cfbd1",
-      "title": "Pixel 10a gains a surprisingly useful feature from its Pixel 10 sibling",
-      "source": "Android Police",
-      "brand": "Pixel",
-      "model": "Pixel 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-16",
-      "time": "23:05",
-      "publishedAt": "2026-06-16T23:05:57.000Z",
-      "url": "https://www.androidpolice.com/pixel-10a-gains-valuable-translate-feature-from-pixel-10-siblings/",
-      "image": "",
-      "summary": "You're going to want to get this update",
-      "tags": [
-        "Pixel",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-af8e5f92cecb",
       "title": "WhatsApp working on yet another ephemeral feature on iOS",
       "source": "9to5Mac",
@@ -577,26 +597,6 @@ window.phoneRadarAuto = {
       "summary": "Xiaomi has started rolling out the June 2026 Android security patch to its devices. As the rollout has just begun, it’s currently limited to select high-end Xiaomi and Redmi smart…",
       "tags": [
         "Xiaomi",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-1edf9e19e4cb",
-      "title": "Huawei ramping up Mate 90 launch against 2026 iPhone lineup",
-      "source": "Huawei Central",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-16",
-      "time": "12:28",
-      "publishedAt": "2026-06-16T12:28:01.000Z",
-      "url": "https://www.huaweicentral.com/huawei-ramping-up-mate-90-launch-against-2026-iphone-lineup/",
-      "image": "https://www.huaweicentral.com/wp-content/uploads/2026/02/Mate80Pro-global.jpg",
-      "summary": "Huawei Mate 90 is no longer just a new flagship for 2026, but it has become a crucial focal point for the industry due to two reasons – the new chipset and its rumored launch time…",
-      "tags": [
-        "Huawei",
         "爆料",
         "自动抓取"
       ]

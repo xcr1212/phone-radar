@@ -1,11 +1,11 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-06-17T11:17:04.657Z",
+  "updatedAt": "2026-06-17T16:03:18.762Z",
   "issueDate": "2026-06-17",
   "issue": "VOL.260617",
   "title": "手机情报日报",
-  "intro": "今日筛出 18 条重点，其中 8 条是重点爆料，包含 5 条 iPhone 相关、0 条官方确认、1 条参数线索。",
+  "intro": "今日筛出 17 条重点，其中 8 条是重点爆料，包含 5 条 iPhone 相关、0 条官方确认、1 条参数线索。",
   "stats": {
-    "total": 18,
+    "total": 17,
     "iphone": 5,
     "leaks": 8,
     "official": 0,
@@ -17,31 +17,6 @@ window.phoneRadarDaily = {
       "title": "重点爆料",
       "hint": "机模、配色、影像、屏幕、电池和芯片线索先看。",
       "items": [
-        {
-          "id": "auto-187ca3ca7944",
-          "title": "vivo X Fold6 折叠屏手机三色外观公布，6 月 26 日发布",
-          "originalTitle": "",
-          "source": "IT之家",
-          "brand": "vivo",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-06-17",
-          "time": "09:18",
-          "publishedAt": "2026-06-17T09:18:55.000Z",
-          "url": "https://www.ithome.com/0/965/565.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/6/42eb9af3-23d1-4989-af09-a87cf5bb3494.jpg?x-bce-process=image/format,f_auto",
-          "verdict": "先看",
-          "takeaway": "IT之家 6 月 17 日消息，vivo X Fold6 折叠屏手机新品发布会定档 6 月 26 日 19:00 举行，这款新机已开启线上全平台预约。 IT之家注意到，vivo 官方今日发布视频，揭晓了这款手机的三款配色， 分别是「蓝洞 」「盐湖 」和「极夜 」 。 据IT之家此前报道，vivo X Fold6 目标打造最强折叠影像旗舰，更是一部“折叠小…",
-          "detail": "IT之家 6 月 17 日消息，vivo X Fold6 折叠屏手机新品发布会定档 6 月 26 日 19:00 举行，这款新机已开启线上全平台预约。 IT之家注意到，vivo 官方今日发布视频，揭晓了这款手机的三款配色， 分别是「蓝洞 」「盐湖 」和「极夜 」 。 据IT之家此前报道，vivo X Fold6 目标打造最强折叠影像旗舰，更是一部“折叠小…",
-          "keyPoints": [
-            "外观 / 配色 / 尺寸",
-            "影像硬件",
-            "屏幕形态"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
         {
           "id": "auto-1a195b8adac4",
           "title": "iPhone 相关消息",
@@ -202,6 +177,30 @@ window.phoneRadarDaily = {
           "confidence": "可信度较高，但仍属于发布前线索。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "auto-521e43559441",
+          "title": "Samsung 折叠屏相关消息",
+          "originalTitle": "",
+          "source": "SamMobile",
+          "brand": "Samsung",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-06-17",
+          "time": "13:38",
+          "publishedAt": "2026-06-17T13:38:10.000Z",
+          "url": "https://www.sammobile.com/news/new-galaxy-z-fold-8-series-leak-says-will-cost-more-than-galaxy-z-fold-7/",
+          "image": "",
+          "verdict": "先看",
+          "takeaway": "Samsung 折叠屏相关消息。如果涉及订阅、售价或硬件成本，才需要进一步看细节。",
+          "detail": "Samsung 折叠屏相关消息。重点看折痕、铰链、厚度、屏幕可靠性和重量是否有实质改善。",
+          "keyPoints": [
+            "成本 / 价格",
+            "爆料来源"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         }
       ]
     },
@@ -211,18 +210,18 @@ window.phoneRadarDaily = {
       "hint": "不是硬件爆料，但和 iPhone 体验或路线有关。",
       "items": [
         {
-          "id": "auto-af8e5f92cecb",
+          "id": "auto-9ccbd5a40f63",
           "title": "iPhone 系统功能 / AI 体验相关消息",
           "originalTitle": "",
-          "source": "9to5Mac",
+          "source": "Android Police",
           "brand": "iPhone",
           "type": "爆料",
           "trust": "媒体汇总",
-          "date": "2026-06-16",
-          "time": "21:52",
-          "publishedAt": "2026-06-16T21:52:00.000Z",
-          "url": "https://9to5mac.com/2026/06/16/whatsapp-working-on-yet-another-ephemeral-feature-on-ios/",
-          "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/11/whatsapp-ios-26.jpg?quality=82&strip=all&w=1600",
+          "date": "2026-06-17",
+          "time": "15:47",
+          "publishedAt": "2026-06-17T15:47:14.000Z",
+          "url": "https://www.androidpolice.com/google-solves-biggest-headache-switching-from-iphone-to-android/",
+          "image": "",
           "verdict": "扫一眼",
           "takeaway": "iPhone 系统功能 / AI 体验相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
           "detail": "iPhone 系统功能 / AI 体验相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
@@ -324,6 +323,29 @@ window.phoneRadarDaily = {
       "hint": "看方向，不急着当购买依据。",
       "items": [
         {
+          "id": "auto-57db9f600972",
+          "title": "亚洲最大单跨机库：上海波音新机库正式启用，可同时容纳 6 架飞机",
+          "originalTitle": "",
+          "source": "IT之家",
+          "brand": "行业",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-06-17",
+          "time": "12:26",
+          "publishedAt": "2026-06-17T12:26:41.000Z",
+          "url": "https://www.ithome.com/0/965/643.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/6/204479ef-63a7-4515-9db7-15ef2c694fb3.png?x-bce-process=image/format,f_auto",
+          "verdict": "扫一眼",
+          "takeaway": "IT之家 6 月 17 日消息，据中国民航网消息，上海波音航空改装维修工程有限公司（以下简称“上海波音”）全新的先进机库今日在上海自贸区临港新片区的洋山特殊综合保税区正式启用。 这座新机库的投用，标志着这家以上海浦东国际机场为基地、已为全球航空业服务 20 年的企业，在产能扩张上迈出了重要一步。 作为波音公司、上海机场（集团）有限公司与中国东方航空股份有限…",
+          "detail": "IT之家 6 月 17 日消息，据中国民航网消息，上海波音航空改装维修工程有限公司（以下简称“上海波音”）全新的先进机库今日在上海自贸区临港新片区的洋山特殊综合保税区正式启用。 这座新机库的投用，标志着这家以上海浦东国际机场为基地、已为全球航空业服务 20 年的企业，在产能扩张上迈出了重要一步。 作为波音公司、上海机场（集团）有限公司与中国东方航空股份有限…",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "中文源可以直接点开快读；看完只保留和购机有关的点。"
+        },
+        {
           "id": "auto-7afbfa6a8682",
           "title": "Xiaomi 17T Pro 对比 iPhone 17：差异整理",
           "originalTitle": "",
@@ -349,73 +371,28 @@ window.phoneRadarDaily = {
           "action": "有具体参数就记录到参数库；没有参数就先收藏。"
         },
         {
-          "id": "auto-996eeb36d600",
-          "title": "Galaxy S26 Ultra 影像能力相关消息",
+          "id": "auto-57697d491045",
+          "title": "Huawei Nova 16 对比 Oppo Reno 15：差异整理",
           "originalTitle": "",
-          "source": "SamMobile",
-          "brand": "Samsung",
+          "source": "Gizmochina",
+          "brand": "Huawei",
           "type": "爆料",
           "trust": "媒体汇总",
           "date": "2026-06-17",
-          "time": "11:00",
-          "publishedAt": "2026-06-17T11:00:00.000Z",
-          "url": "https://www.sammobile.com/news/samsung-galaxy-s26-ultra-vs-other-flagship-cameras/",
-          "image": "",
+          "time": "15:13",
+          "publishedAt": "2026-06-17T15:13:16.000Z",
+          "url": "https://www.gizmochina.com/2026/06/17/huawei-nova-16-vs-oppo-reno-15/",
+          "image": "https://www.gizmochina.com/wp-content/uploads/2026/06/image-80-300x185.png?x44794",
           "verdict": "可略过",
-          "takeaway": "Samsung 影像能力相关宣传或案例，主要看是否透露拍摄能力变化。",
-          "detail": "Galaxy S26 Ultra 影像能力相关消息。重点看影像功能是否和新机硬件有关，如果只是拍摄案例或营销内容，参考价值会低一些。",
+          "takeaway": "Huawei Nova 16 对比 Oppo Reno 15：重点看定位、配置差异和价格差，判断是否值得等更高端型号。",
+          "detail": "Huawei Nova 16 对比 Oppo Reno 15 的差异整理。重点看两款机型的定位、影像规格、屏幕尺寸、价格区间和发布时间是否拉开差距。",
           "keyPoints": [
-            "影像硬件"
+            "影像硬件",
+            "电池 / 充电"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "影响拍照体验，买旗舰机时值得关注。",
+          "impact": "影响日常体验，尤其是游戏、拍照和长时间使用。",
           "action": "有具体参数就记录到参数库；没有参数就先收藏。"
-        },
-        {
-          "id": "auto-3e6efa835ee5",
-          "title": "Samsung 折叠屏相关消息",
-          "originalTitle": "",
-          "source": "SamMobile",
-          "brand": "Samsung",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-06-17",
-          "time": "10:35",
-          "publishedAt": "2026-06-17T10:35:04.000Z",
-          "url": "https://www.sammobile.com/news/see-the-five-reasons-why-the-galaxy-z-fold-8-ultra-should-excite-you/",
-          "image": "",
-          "verdict": "可略过",
-          "takeaway": "Samsung 折叠屏相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
-          "detail": "Samsung 折叠屏相关消息。重点看折痕、铰链、厚度、屏幕可靠性和重量是否有实质改善。",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
-        {
-          "id": "auto-7ffbf79cfbd1",
-          "title": "Pixel 10a 系统功能 / AI 体验相关消息",
-          "originalTitle": "",
-          "source": "Android Police",
-          "brand": "Pixel",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-06-16",
-          "time": "23:05",
-          "publishedAt": "2026-06-16T23:05:57.000Z",
-          "url": "https://www.androidpolice.com/pixel-10a-gains-valuable-translate-feature-from-pixel-10-siblings/",
-          "image": "",
-          "verdict": "可略过",
-          "takeaway": "Pixel 有系统功能或 AI 体验更新，适合关注后续是否影响日常使用。",
-          "detail": "Pixel 10a 系统功能 / AI 体验相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         },
         {
           "id": "auto-dcd8baa2fa80",
