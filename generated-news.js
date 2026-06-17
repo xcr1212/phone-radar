@@ -1,6 +1,86 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-06-17T22:14:25.895Z",
+  "updatedAt": "2026-06-17T23:51:08.994Z",
   "news": [
+    {
+      "id": "auto-438d58762723",
+      "title": "谷歌升级安卓 17 版迁移工具：iPhone 转安卓手机可迁移完整 iMessage 历史",
+      "source": "IT之家",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-17",
+      "time": "23:10",
+      "publishedAt": "2026-06-17T23:10:35.000Z",
+      "url": "https://www.ithome.com/0/965/701.htm",
+      "image": "",
+      "summary": "IT之家 6 月 18 日消息，科技媒体 9to5Google 昨日（6 月 17 日）发布博文，报道称在昨日发布的安卓 17 版本中， 谷歌升级 Android Switch 工具，支持从苹果 iPhone 上迁移更多数据，大幅降低从 iPhone 迁移至安卓手机的数据丢失痛点。 IT之家注：Android Switch 是谷歌为安卓系统开发的数据迁移工…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-34c2d33b9e04",
+      "title": "微软工程师实测：苹果 WebKit 限制致 iOS 浏览器性能损失近三成",
+      "source": "IT之家",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-17",
+      "time": "22:59",
+      "publishedAt": "2026-06-17T22:59:28.000Z",
+      "url": "https://www.ithome.com/0/965/697.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/6/bf812959-1848-46d8-80db-70c5e067596a.jpg?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 6 月 18 日消息，微软工程师公布了一组基准测试数据：在苹果自家 iOS 系统的测速工具 Speedometer 3.1 性能测试中， 一款基于 Chromium 且采用微软自有渲染引擎的浏览器在 iOS 系统上的得分比 Safari 高出 28.6%。 IT之家注意到，微软 Edge 网页平台产品组经理凯尔 · 普弗勒格于当地时间周一发布了对…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-d1671e3db679",
+      "title": "消息称受全球内存芯片涨价影响，三星 Galaxy Z Flip8/Fold8 系列折叠屏手机定价将上涨",
+      "source": "IT之家",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-17",
+      "time": "22:50",
+      "publishedAt": "2026-06-17T22:50:48.000Z",
+      "url": "https://www.ithome.com/0/965/696.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/6/29d0103e-d3af-447c-93b1-24355e7c2ccc.jpg?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 6 月 18 日消息，消息源 Lanzuk 在 Naver 博客上透露，由于全球内存芯片价格上涨，三星 Galaxy Z Flip8 及 Fold8 系列手机定价相对现款机型将上涨。 根据初步估计，Galaxy Z Flip8 最终定价可能在 1200 美元（IT之家注：现汇率约合 8124 元人民币）左右，Galaxy Z Fold8“阔折叠”…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-f0b505a86afa",
+      "title": "消息称苹果 iPhone Air 2 明年春季发售：升级双摄、换用 A20 芯片",
+      "source": "IT之家",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-17",
+      "time": "22:39",
+      "publishedAt": "2026-06-17T22:39:51.000Z",
+      "url": "https://www.ithome.com/0/965/693.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/1/4be9cc77-03d7-4bf8-9b67-fe3e6d72beec.png?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 6 月 18 日消息，据彭博社报道，苹果旗下 iPhone Air 2 手机将于明年（2027 年）春季发售，目前该机已进入高级测试阶段（advanced testing phase）。 据介绍，该机在外观方面主要就是升级双摄，新增超广角相机模组。同时手机将引入 2nm 工艺 A20 芯片，有望获得更高的能效，进一步提升续航水平。 苹果现款 iP…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-fb9446e8ede7",
       "title": "OnePlus N6 claimed to offer three-day battery life thanks to 8,000mAh cell",
@@ -197,26 +277,6 @@ window.phoneRadarAuto = {
       "summary": "IT之家 6 月 17 日消息，据中国民航网消息，上海波音航空改装维修工程有限公司（以下简称“上海波音”）全新的先进机库今日在上海自贸区临港新片区的洋山特殊综合保税区正式启用。 这座新机库的投用，标志着这家以上海浦东国际机场为基地、已为全球航空业服务 20 年的企业，在产能扩张上迈出了重要一步。 作为波音公司、上海机场（集团）有限公司与中国东方航空股份有限…",
       "tags": [
         "行业",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-d20adf99254e",
-      "title": "消息称荣耀 MagicOS 11 系统将适配支持 Magic5 系列手机",
-      "source": "IT之家",
-      "brand": "HONOR",
-      "model": "HONOR 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-17",
-      "time": "11:08",
-      "publishedAt": "2026-06-17T11:08:14.000Z",
-      "url": "https://www.ithome.com/0/965/628.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/6/9d584a21-23b0-4bc7-b6bc-bfe36d326a1e.jpg?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 6 月 17 日消息，荣耀 MagicOS 官方昨日宣布，安卓首个“液态玻璃”将在 MagicOS 11 登场。官方称 MagicOS 11 通过流光通透美学， 带来了行业首个支持动态场景的液态玻璃效果 。 目前， MagicOS 11 液态玻璃先锋版已开启小范围共创招募 ， 招募机型包括：Magic8、Magic8 Pro、Magic8 Pro…",
-      "tags": [
-        "HONOR",
         "爆料",
         "自动抓取"
       ]
@@ -422,6 +482,26 @@ window.phoneRadarAuto = {
       ]
     },
     {
+      "id": "auto-a18d4a190fb1",
+      "title": "派早报：SpaceX 宣布收购 Cursor、字节跳动推出 Seedance 2.0 Mini 等",
+      "source": "少数派",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-06-17",
+      "time": "00:20",
+      "publishedAt": "2026-06-17T00:20:55.000Z",
+      "url": "https://sspai.com/post/111124",
+      "image": "",
+      "summary": "夏普推出 AQUOS R11 手机、理光宣布 GR 系列调整建议零售价等。",
+      "tags": [
+        "行业",
+        "评测",
+        "自动抓取"
+      ]
+    },
+    {
       "id": "newsnow-619e32e9f81a",
       "title": "有没有和 17pm 差不多的安卓手机。",
       "source": "酷安热榜",
@@ -455,6 +535,26 @@ window.phoneRadarAuto = {
       "url": "https://www.coolapk.com/feed/72393015",
       "image": "",
       "summary": "各品牌同段位手机对比:",
+      "tags": [
+        "行业",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-b76720bf3523",
+      "title": "今天女朋友过生日了，带她出来拍点美照，希望生日只有快乐，没有老一岁的烦恼[受虐滑稽]#人像摄影# #手机摄影# #我在酷安晒女友#",
+      "source": "酷安热榜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-06-17",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/72394015",
+      "image": "",
+      "summary": "今天女朋友过生日了，带她出来拍点美照，希望生日只有快乐，没有老一岁的烦恼[受虐滑稽]#人像摄影# #手机摄影# #我在酷安晒女友#",
       "tags": [
         "行业",
         "爆料",
@@ -778,26 +878,6 @@ window.phoneRadarAuto = {
       "tags": [
         "Samsung",
         "评测",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-842ab53d6de0",
-      "title": "Redmi Turbo 5 launches in India, but Chinese buyers are still getting the better deal",
-      "source": "Gizmochina",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-16",
-      "time": "09:35",
-      "publishedAt": "2026-06-16T09:35:41.000Z",
-      "url": "https://www.gizmochina.com/2026/06/16/redmi-turbo-5-india-launch-price-specs-vs-china/",
-      "image": "https://www.gizmochina.com/wp-content/uploads/2026/06/Redmi-Turbo-5-launch-India-specs-price-300x200.jpg?x44794",
-      "summary": "Redmi has finally brought the Turbo 5 to India, nearly five months after the phone first went official in China back in January. It’s the first time a Turbo series has launched in…",
-      "tags": [
-        "Xiaomi",
-        "爆料",
         "自动抓取"
       ]
     },
