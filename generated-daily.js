@@ -1,11 +1,11 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-06-17T16:03:18.762Z",
+  "updatedAt": "2026-06-17T18:34:03.047Z",
   "issueDate": "2026-06-17",
   "issue": "VOL.260617",
   "title": "手机情报日报",
-  "intro": "今日筛出 17 条重点，其中 8 条是重点爆料，包含 5 条 iPhone 相关、0 条官方确认、1 条参数线索。",
+  "intro": "今日筛出 16 条重点，其中 8 条是重点爆料，包含 5 条 iPhone 相关、0 条官方确认、1 条参数线索。",
   "stats": {
-    "total": 17,
+    "total": 16,
     "iphone": 5,
     "leaks": 8,
     "official": 0,
@@ -17,6 +17,30 @@ window.phoneRadarDaily = {
       "title": "重点爆料",
       "hint": "机模、配色、影像、屏幕、电池和芯片线索先看。",
       "items": [
+        {
+          "id": "auto-28a3393ed7d2",
+          "title": "iPhone 系统功能 / AI 体验相关消息",
+          "originalTitle": "",
+          "source": "MacRumors",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-06-17",
+          "time": "16:14",
+          "publishedAt": "2026-06-17T16:14:41.000Z",
+          "url": "https://www.macrumors.com/2026/06/17/webkit-rule-costs-ios-users-browser-performance/",
+          "image": "https://images.macrumors.com/article-new/2022/02/webkit-vs-chromium-feature.jpg",
+          "verdict": "先看",
+          "takeaway": "iPhone 系统功能 / AI 体验相关消息。如果涉及订阅、售价或硬件成本，才需要进一步看细节。",
+          "detail": "iPhone 系统功能 / AI 体验相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
+          "keyPoints": [
+            "外观 / 配色 / 尺寸",
+            "成本 / 价格"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
         {
           "id": "auto-1a195b8adac4",
           "title": "iPhone 相关消息",
@@ -41,23 +65,23 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
-          "id": "auto-a5398fa005bf",
-          "title": "iPhone 芯片 / 性能相关消息",
+          "id": "newsnow-c85344518ea5",
+          "title": "20周年iPhone新爆料",
           "originalTitle": "",
-          "source": "MacRumors",
+          "source": "微博热搜",
           "brand": "iPhone",
           "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-06-16",
-          "time": "17:03",
-          "publishedAt": "2026-06-16T17:03:42.000Z",
-          "url": "https://www.macrumors.com/2026/06/16/2028-iphones-a22-pro-chips/",
+          "trust": "待验证",
+          "date": "2026-06-17",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://s.weibo.com/weibo?q=%2320%E5%91%A8%E5%B9%B4iPhone%E6%96%B0%E7%88%86%E6%96%99%23&t=31&band_rank=28&Refer=top",
           "image": "",
           "verdict": "先看",
-          "takeaway": "iPhone 芯片或连接能力相关线索，可能影响性能和续航判断。",
-          "detail": "iPhone 芯片 / 性能相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
+          "takeaway": "20周年iPhone新爆料",
+          "detail": "20周年iPhone新爆料",
           "keyPoints": [
-            "芯片 / 性能"
+            "爆料来源"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
@@ -177,30 +201,6 @@ window.phoneRadarDaily = {
           "confidence": "可信度较高，但仍属于发布前线索。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "auto-521e43559441",
-          "title": "Samsung 折叠屏相关消息",
-          "originalTitle": "",
-          "source": "SamMobile",
-          "brand": "Samsung",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-06-17",
-          "time": "13:38",
-          "publishedAt": "2026-06-17T13:38:10.000Z",
-          "url": "https://www.sammobile.com/news/new-galaxy-z-fold-8-series-leak-says-will-cost-more-than-galaxy-z-fold-7/",
-          "image": "",
-          "verdict": "先看",
-          "takeaway": "Samsung 折叠屏相关消息。如果涉及订阅、售价或硬件成本，才需要进一步看细节。",
-          "detail": "Samsung 折叠屏相关消息。重点看折痕、铰链、厚度、屏幕可靠性和重量是否有实质改善。",
-          "keyPoints": [
-            "成本 / 价格",
-            "爆料来源"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         }
       ]
     },
@@ -209,29 +209,6 @@ window.phoneRadarDaily = {
       "title": "iPhone 重点",
       "hint": "不是硬件爆料，但和 iPhone 体验或路线有关。",
       "items": [
-        {
-          "id": "auto-9ccbd5a40f63",
-          "title": "iPhone 系统功能 / AI 体验相关消息",
-          "originalTitle": "",
-          "source": "Android Police",
-          "brand": "iPhone",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-06-17",
-          "time": "15:47",
-          "publishedAt": "2026-06-17T15:47:14.000Z",
-          "url": "https://www.androidpolice.com/google-solves-biggest-headache-switching-from-iphone-to-android/",
-          "image": "",
-          "verdict": "扫一眼",
-          "takeaway": "iPhone 系统功能 / AI 体验相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
-          "detail": "iPhone 系统功能 / AI 体验相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
         {
           "id": "auto-7f109fe61c84",
           "title": "iPhone 电池 / 充电相关消息",
@@ -254,36 +231,6 @@ window.phoneRadarDaily = {
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "影响日常体验，尤其是游戏、拍照和长时间使用。",
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        }
-      ]
-    },
-    {
-      "id": "launch",
-      "title": "新机与官方发布",
-      "hint": "能直接更新到参数库。",
-      "items": [
-        {
-          "id": "auto-c873659dd5ac",
-          "title": "Xiaomi 电池 / 充电相关消息",
-          "originalTitle": "",
-          "source": "Gizmochina",
-          "brand": "Xiaomi",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-06-16",
-          "time": "03:44",
-          "publishedAt": "2026-06-16T03:44:54.000Z",
-          "url": "https://www.gizmochina.com/2026/06/16/redmi-k90-ultra-june-launch-confirmed/",
-          "image": "https://www.gizmochina.com/wp-content/uploads/2026/06/64048f31ly1ie6vlaiknsj21qi2bce84-225x300.jpg?x44794",
-          "verdict": "可略过",
-          "takeaway": "Xiaomi 电池 / 充电相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
-          "detail": "Xiaomi 电池 / 充电相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
-          "keyPoints": [
-            "电池 / 充电"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "影响日常体验，尤其是游戏、拍照和长时间使用。",
-          "action": "有具体参数就记录到参数库；没有参数就先收藏。"
         }
       ]
     },
@@ -417,6 +364,29 @@ window.phoneRadarDaily = {
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "影响手感和显示体验，适合和其他机型对比。",
           "action": "有具体参数就记录到参数库；没有参数就先收藏。"
+        },
+        {
+          "id": "auto-3a71efcd5643",
+          "title": "Samsung 相关消息",
+          "originalTitle": "",
+          "source": "Gizmochina",
+          "brand": "Samsung",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-06-16",
+          "time": "12:11",
+          "publishedAt": "2026-06-16T12:11:48.000Z",
+          "url": "https://www.gizmochina.com/2026/06/16/motorola-edge-70-pro-plus-vs-samsung-galaxy-s25-fe/",
+          "image": "https://www.gizmochina.com/wp-content/uploads/2026/06/image-77-300x156.png?x44794",
+          "verdict": "可略过",
+          "takeaway": "Samsung 相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
+          "detail": "Samsung 相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         },
         {
           "id": "auto-09cb252fbe5f",

@@ -1,6 +1,66 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-06-17T16:03:18.762Z",
+  "updatedAt": "2026-06-17T18:34:03.047Z",
   "news": [
+    {
+      "id": "auto-cfe85a79b1d1",
+      "title": "While rivals play it safe, the OnePlus 15R gets a 16GB RAM upgrade",
+      "source": "Gizmochina",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-17",
+      "time": "16:41",
+      "publishedAt": "2026-06-17T16:41:48.000Z",
+      "url": "https://www.gizmochina.com/2026/06/17/oneplus-15r-16gb-ram-variant-india-price-specifications/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2025/12/OnePlus_15R_Review_GizmoChina_09-300x225.jpg?x44794",
+      "summary": "OnePlus has quietly introduced a new variant of the OnePlus 15R in India, giving buyers another option in the performance-focused smartphone lineup. While the handset remains unch…",
+      "tags": [
+        "OPPO",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-28a3393ed7d2",
+      "title": "Apple's WebKit Rules Reportedly Cost iOS Users Almost 30% Browser Performance",
+      "source": "MacRumors",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-17",
+      "time": "16:14",
+      "publishedAt": "2026-06-17T16:14:41.000Z",
+      "url": "https://www.macrumors.com/2026/06/17/webkit-rule-costs-ios-users-browser-performance/",
+      "image": "https://images.macrumors.com/article-new/2022/02/webkit-vs-chromium-feature.jpg",
+      "summary": "Microsoft engineers have published benchmark results showing that a Chromium-based browser using its own rendering engine scores 28.6% higher than Safari on Apple's own Speedomete…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-5973563601b1",
+      "title": "Pokémon Champions has brought the battle to Android and iOS",
+      "source": "Android Authority",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-17",
+      "time": "16:13",
+      "publishedAt": "2026-06-17T16:13:03.000Z",
+      "url": "https://www.androidauthority.com/pokemon-champions-launches-on-mobile-3678548/",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2026/06/pokemon-champions-on-mobile.jpg",
+      "summary": "TCPI is celebrating the launch by giving you a free Raichu and mega stones.",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-9ccbd5a40f63",
       "title": "Google solves the biggest headache of switching from iPhone to Android",
@@ -157,26 +217,6 @@ window.phoneRadarAuto = {
       "summary": "WhatsApp is working on a way to let users send text messages that can only be viewed once, similar to the feature already available for photos, videos, and voice notes. According…",
       "tags": [
         "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-53a7c4b35b47",
-      "title": "New Galaxy S26 FE leak gives us a clear look at its wallpaper",
-      "source": "SamMobile",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-17",
-      "time": "08:41",
-      "publishedAt": "2026-06-17T08:41:27.000Z",
-      "url": "https://www.sammobile.com/news/new-galaxy-s26-fe-leak-gives-clear-look-its-wallpaper/",
-      "image": "https://www.sammobile.com/wp-content/uploads/2026/06/Alleged-Samsung-Galaxy-S26-FE-Official-Wallpaper.jpeg",
-      "summary": "Earlier this month, we got our first look at Samsung’s upcoming Galaxy S26 FE, which also gave us a partial look at its wallpaper. Now, we have a clear look at one of its wallpape…",
-      "tags": [
-        "Samsung",
         "爆料",
         "自动抓取"
       ]
@@ -382,6 +422,26 @@ window.phoneRadarAuto = {
       ]
     },
     {
+      "id": "newsnow-c85344518ea5",
+      "title": "20周年iPhone新爆料",
+      "source": "微博热搜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "待验证",
+      "date": "2026-06-17",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://s.weibo.com/weibo?q=%2320%E5%91%A8%E5%B9%B4iPhone%E6%96%B0%E7%88%86%E6%96%99%23&t=31&band_rank=28&Refer=top",
+      "image": "",
+      "summary": "20周年iPhone新爆料",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
       "id": "auto-af8e5f92cecb",
       "title": "WhatsApp working on yet another ephemeral feature on iOS",
       "source": "9to5Mac",
@@ -457,26 +517,6 @@ window.phoneRadarAuto = {
       "summary": "Maybe Google will bring it to the Pixel 9 series in the near future.",
       "tags": [
         "Pixel",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-a5398fa005bf",
-      "title": "Apple's 2028 iPhones to Use 1.4nm A22 Pro Chips",
-      "source": "MacRumors",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-16",
-      "time": "17:03",
-      "publishedAt": "2026-06-16T17:03:42.000Z",
-      "url": "https://www.macrumors.com/2026/06/16/2028-iphones-a22-pro-chips/",
-      "image": "",
-      "summary": "Apple will transition from 2-nanometer chips to 1.4-nanometer chips with the high-end 2028 iPhone models, reports Bloomberg . Chip supplier Taiwan Semiconductor Manufacturing Co.…",
-      "tags": [
-        "iPhone",
         "爆料",
         "自动抓取"
       ]
@@ -797,46 +837,6 @@ window.phoneRadarAuto = {
       "summary": "The listing all but confirms the choice of chipset.",
       "tags": [
         "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-6ca21b72394f",
-      "title": "Tecno unveils Spark 50 Pro with long-lasting battery and 50MP Sony camera",
-      "source": "Gizmochina",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-16",
-      "time": "04:23",
-      "publishedAt": "2026-06-16T04:23:34.000Z",
-      "url": "https://www.gizmochina.com/2026/06/16/tecno-spark-50-pro-launch-6000mah-battery-50mp-sony-camera/",
-      "image": "https://www.gizmochina.com/wp-content/uploads/2026/06/Tecno-Spark-50-Pro-Specs-Launch-Price-300x200.jpg?x44794",
-      "summary": "After introducing the Spark 50 last month, Tecno has now announced the new Spark 50 Pro with an iPhone-inspired design. What’s more interesting about this phone is that it has two…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-c873659dd5ac",
-      "title": "Redmi K90 Ultra set for June debut with focus on gaming and long battery life",
-      "source": "Gizmochina",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-16",
-      "time": "03:44",
-      "publishedAt": "2026-06-16T03:44:54.000Z",
-      "url": "https://www.gizmochina.com/2026/06/16/redmi-k90-ultra-june-launch-confirmed/",
-      "image": "https://www.gizmochina.com/wp-content/uploads/2026/06/64048f31ly1ie6vlaiknsj21qi2bce84-225x300.jpg?x44794",
-      "summary": "Redmi has officially confirmed that the K90 Ultra will arrive later this month, adding a new option to its K90 series lineup. The company has positioned the device as a performanc…",
-      "tags": [
-        "Xiaomi",
         "爆料",
         "自动抓取"
       ]
