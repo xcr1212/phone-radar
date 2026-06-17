@@ -1,6 +1,66 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-06-17T18:34:03.047Z",
+  "updatedAt": "2026-06-17T22:14:25.895Z",
   "news": [
+    {
+      "id": "auto-fb9446e8ede7",
+      "title": "OnePlus N6 claimed to offer three-day battery life thanks to 8,000mAh cell",
+      "source": "Gizmochina",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-17",
+      "time": "20:30",
+      "publishedAt": "2026-06-17T20:30:59.000Z",
+      "url": "https://www.gizmochina.com/2026/06/17/oneplus-n6-claimed-to-offer-three-day-battery-life-thanks-to-8000mah-cell/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/06/ActivityBanner_Mumbai_Mobile-R-300x169.jpg?x44794",
+      "summary": "OnePlus is stepping up its game in India’s super-competitive budget smartphone segment with the upcoming OnePlus N6, the very first phone in its all-new N Series. The company is p…",
+      "tags": [
+        "OPPO",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-e460727cd8fb",
+      "title": "iPhone Air 2 coming next year with two key upgrades: report",
+      "source": "9to5Mac",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-17",
+      "time": "20:20",
+      "publishedAt": "2026-06-17T20:20:02.000Z",
+      "url": "https://9to5mac.com/2026/06/17/iphone-air-2-coming-next-year-with-two-key-upgrades-report/",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/10/iphone-air-sky-blue.jpg?quality=82&strip=all&w=1600",
+      "summary": "Apple is aiming to launch an iPhone Air 2 in the spring of 2027, Bloomberg reports today. The iPhone Air 2 will reportedly retain the same design as the current model, but with im…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-edcd876b9adf",
+      "title": "iPhone Air With Dual Lens Camera Coming in Spring 2027",
+      "source": "MacRumors",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-17",
+      "time": "20:18",
+      "publishedAt": "2026-06-17T20:18:16.000Z",
+      "url": "https://www.macrumors.com/2026/06/17/iphone-air-dual-lens-camera-2027/",
+      "image": "https://images.macrumors.com/article-new/2025/02/iphone-air-camera.jpg",
+      "summary": "Apple is working on a new iPhone Air that's expected to launch in spring 2027, reports Bloomberg . The updated &zwnj;iPhone Air&zwnj; could get an Ultra Wide lens in addition to t…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-cfe85a79b1d1",
       "title": "While rivals play it safe, the OnePlus 15R gets a 16GB RAM upgrade",
@@ -362,81 +422,41 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-a18d4a190fb1",
-      "title": "派早报：SpaceX 宣布收购 Cursor、字节跳动推出 Seedance 2.0 Mini 等",
-      "source": "少数派",
+      "id": "newsnow-619e32e9f81a",
+      "title": "有没有和 17pm 差不多的安卓手机。",
+      "source": "酷安热榜",
       "brand": "行业",
       "model": "智能手机市场",
-      "type": "评测",
-      "trust": "媒体汇总",
+      "type": "爆料",
+      "trust": "高关注爆料源",
       "date": "2026-06-17",
-      "time": "00:20",
-      "publishedAt": "2026-06-17T00:20:55.000Z",
-      "url": "https://sspai.com/post/111124",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/72387823",
       "image": "",
-      "summary": "夏普推出 AQUOS R11 手机、理光宣布 GR 系列调整建议零售价等。",
+      "summary": "有没有和 17pm 差不多的安卓手机。",
       "tags": [
         "行业",
-        "评测",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "newsnow-e7a18eecd0e2",
-      "title": "小米全新比例折叠屏新机入网，型号2608BPX34C，首发新一代OS系统",
-      "source": "酷安热榜",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-06-17",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72383307",
-      "image": "",
-      "summary": "小米全新比例折叠屏新机入网，型号2608BPX34C，首发新一代OS系统",
-      "tags": [
-        "Xiaomi",
         "爆料",
         "NewsNow"
       ]
     },
     {
-      "id": "newsnow-8af4138c1f75",
-      "title": "曝小米首款阔折叠手机入网：定义超高端万元档",
+      "id": "newsnow-b7f1f3a9c748",
+      "title": "各品牌同段位手机对比:",
       "source": "酷安热榜",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
+      "brand": "行业",
+      "model": "智能手机市场",
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-06-17",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72382956",
+      "url": "https://www.coolapk.com/feed/72393015",
       "image": "",
-      "summary": "曝小米首款阔折叠手机入网：定义超高端万元档",
+      "summary": "各品牌同段位手机对比:",
       "tags": [
-        "Xiaomi",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-c85344518ea5",
-      "title": "20周年iPhone新爆料",
-      "source": "微博热搜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "待验证",
-      "date": "2026-06-17",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://s.weibo.com/weibo?q=%2320%E5%91%A8%E5%B9%B4iPhone%E6%96%B0%E7%88%86%E6%96%99%23&t=31&band_rank=28&Refer=top",
-      "image": "",
-      "summary": "20周年iPhone新爆料",
-      "tags": [
-        "iPhone",
+        "行业",
         "爆料",
         "NewsNow"
       ]
@@ -777,46 +797,6 @@ window.phoneRadarAuto = {
       "summary": "Redmi has finally brought the Turbo 5 to India, nearly five months after the phone first went official in China back in January. It’s the first time a Turbo series has launched in…",
       "tags": [
         "Xiaomi",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-7afbfa6a8682",
-      "title": "Xiaomi 17T Pro vs iPhone 17: Bigger Battery, Better Cameras, Lower Price?",
-      "source": "Gizmochina",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-16",
-      "time": "08:14",
-      "publishedAt": "2026-06-16T08:14:57.000Z",
-      "url": "https://www.gizmochina.com/2026/06/16/xiaomi-17t-pro-vs-iphone-17/",
-      "image": "https://www.gizmochina.com/wp-content/uploads/2026/06/image-75-300x180.png?x44794",
-      "summary": "Xiaomi 17T Pro and iPhone 17 represent two very different visions of a modern flagship smartphone. One focuses on delivering cutting-edge hardware, massive battery life, and featu…",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-ef8676a9065d",
-      "title": "OnePlus 16 display could stop at 185Hz, bezels under 1mm",
-      "source": "Gizmochina",
-      "brand": "OPPO",
-      "model": "OPPO 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-16",
-      "time": "07:32",
-      "publishedAt": "2026-06-16T07:32:54.000Z",
-      "url": "https://www.gizmochina.com/2026/06/16/oneplus-16-185hz-display-bezels-under-1mm/",
-      "image": "https://www.gizmochina.com/wp-content/uploads/2026/06/OnePlus-15-5G-phone-300x200.png?x44794",
-      "summary": "Tipster Digital Chat Station (DCS) is back with a fresh exclusive, and while the leaker did not name the phone directly, the details line up almost perfectly with everything we al…",
-      "tags": [
-        "OPPO",
         "爆料",
         "自动抓取"
       ]

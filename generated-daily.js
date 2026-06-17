@@ -1,5 +1,5 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-06-17T18:34:03.047Z",
+  "updatedAt": "2026-06-17T22:14:25.895Z",
   "issueDate": "2026-06-17",
   "issue": "VOL.260617",
   "title": "手机情报日报",
@@ -18,24 +18,46 @@ window.phoneRadarDaily = {
       "hint": "机模、配色、影像、屏幕、电池和芯片线索先看。",
       "items": [
         {
-          "id": "auto-28a3393ed7d2",
+          "id": "auto-e460727cd8fb",
           "title": "iPhone 系统功能 / AI 体验相关消息",
+          "originalTitle": "",
+          "source": "9to5Mac",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-06-17",
+          "time": "20:20",
+          "publishedAt": "2026-06-17T20:20:02.000Z",
+          "url": "https://9to5mac.com/2026/06/17/iphone-air-2-coming-next-year-with-two-key-upgrades-report/",
+          "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/10/iphone-air-sky-blue.jpg?quality=82&strip=all&w=1600",
+          "verdict": "先看",
+          "takeaway": "iPhone 有系统功能或 AI 体验更新，适合关注后续是否影响日常使用。",
+          "detail": "iPhone 系统功能 / AI 体验相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
+          "keyPoints": [
+            "外观 / 配色 / 尺寸"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "auto-edcd876b9adf",
+          "title": "iPhone 影像能力相关消息",
           "originalTitle": "",
           "source": "MacRumors",
           "brand": "iPhone",
           "type": "爆料",
           "trust": "媒体汇总",
           "date": "2026-06-17",
-          "time": "16:14",
-          "publishedAt": "2026-06-17T16:14:41.000Z",
-          "url": "https://www.macrumors.com/2026/06/17/webkit-rule-costs-ios-users-browser-performance/",
-          "image": "https://images.macrumors.com/article-new/2022/02/webkit-vs-chromium-feature.jpg",
+          "time": "20:18",
+          "publishedAt": "2026-06-17T20:18:16.000Z",
+          "url": "https://www.macrumors.com/2026/06/17/iphone-air-dual-lens-camera-2027/",
+          "image": "https://images.macrumors.com/article-new/2025/02/iphone-air-camera.jpg",
           "verdict": "先看",
-          "takeaway": "iPhone 系统功能 / AI 体验相关消息。如果涉及订阅、售价或硬件成本，才需要进一步看细节。",
-          "detail": "iPhone 系统功能 / AI 体验相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
+          "takeaway": "iPhone 有系统功能或 AI 体验更新，适合关注后续是否影响日常使用。",
+          "detail": "iPhone 影像能力相关消息。重点看影像功能是否和新机硬件有关，如果只是拍摄案例或营销内容，参考价值会低一些。",
           "keyPoints": [
-            "外观 / 配色 / 尺寸",
-            "成本 / 价格"
+            "影像硬件"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
@@ -59,29 +81,6 @@ window.phoneRadarDaily = {
           "detail": "iPhone 相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
           "keyPoints": [
             "影像硬件"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "newsnow-c85344518ea5",
-          "title": "20周年iPhone新爆料",
-          "originalTitle": "",
-          "source": "微博热搜",
-          "brand": "iPhone",
-          "type": "爆料",
-          "trust": "待验证",
-          "date": "2026-06-17",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://s.weibo.com/weibo?q=%2320%E5%91%A8%E5%B9%B4iPhone%E6%96%B0%E7%88%86%E6%96%99%23&t=31&band_rank=28&Refer=top",
-          "image": "",
-          "verdict": "先看",
-          "takeaway": "20周年iPhone新爆料",
-          "detail": "20周年iPhone新爆料",
-          "keyPoints": [
-            "爆料来源"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
@@ -134,52 +133,6 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
-          "id": "newsnow-e7a18eecd0e2",
-          "title": "小米全新比例折叠屏新机入网，型号2608BPX34C，首发新一代OS系统",
-          "originalTitle": "",
-          "source": "酷安热榜",
-          "brand": "Xiaomi",
-          "type": "爆料",
-          "trust": "高关注爆料源",
-          "date": "2026-06-17",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://www.coolapk.com/feed/72383307",
-          "image": "",
-          "verdict": "先看",
-          "takeaway": "小米全新比例折叠屏新机入网，型号2608BPX34C，首发新一代OS系统",
-          "detail": "小米全新比例折叠屏新机入网，型号2608BPX34C，首发新一代OS系统",
-          "keyPoints": [
-            "屏幕形态"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "newsnow-8af4138c1f75",
-          "title": "曝小米首款阔折叠手机入网：定义超高端万元档",
-          "originalTitle": "",
-          "source": "酷安热榜",
-          "brand": "Xiaomi",
-          "type": "爆料",
-          "trust": "高关注爆料源",
-          "date": "2026-06-17",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://www.coolapk.com/feed/72382956",
-          "image": "",
-          "verdict": "先看",
-          "takeaway": "曝小米首款阔折叠手机入网：定义超高端万元档",
-          "detail": "曝小米首款阔折叠手机入网：定义超高端万元档",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
           "id": "coolapk-user-f056d4d6bd93",
           "title": "竹本青：【荣耀方飞爆料 MagicOS 11 更多液态玻璃界面效果：通透桌面/相册，材质自定义等】 ▫️流光通透桌面／相册…",
           "originalTitle": "",
@@ -199,6 +152,53 @@ window.phoneRadarDaily = {
             "爆料来源"
           ],
           "confidence": "可信度较高，但仍属于发布前线索。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "auto-521e43559441",
+          "title": "Samsung 折叠屏相关消息",
+          "originalTitle": "",
+          "source": "SamMobile",
+          "brand": "Samsung",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-06-17",
+          "time": "13:38",
+          "publishedAt": "2026-06-17T13:38:10.000Z",
+          "url": "https://www.sammobile.com/news/new-galaxy-z-fold-8-series-leak-says-will-cost-more-than-galaxy-z-fold-7/",
+          "image": "",
+          "verdict": "先看",
+          "takeaway": "Samsung 折叠屏相关消息。如果涉及订阅、售价或硬件成本，才需要进一步看细节。",
+          "detail": "Samsung 折叠屏相关消息。重点看折痕、铰链、厚度、屏幕可靠性和重量是否有实质改善。",
+          "keyPoints": [
+            "成本 / 价格",
+            "爆料来源"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "auto-031995a578b7",
+          "title": "Pixel 相关消息",
+          "originalTitle": "",
+          "source": "Android Authority",
+          "brand": "Pixel",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-06-16",
+          "time": "18:00",
+          "publishedAt": "2026-06-16T18:00:41.000Z",
+          "url": "https://www.androidauthority.com/pixel-10a-voice-translate-june-pixel-drop-3677937/",
+          "image": "",
+          "verdict": "先看",
+          "takeaway": "Pixel 相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
+          "detail": "Pixel 相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         }
@@ -293,28 +293,72 @@ window.phoneRadarDaily = {
           "action": "中文源可以直接点开快读；看完只保留和购机有关的点。"
         },
         {
-          "id": "auto-7afbfa6a8682",
-          "title": "Xiaomi 17T Pro 对比 iPhone 17：差异整理",
+          "id": "newsnow-619e32e9f81a",
+          "title": "有没有和 17pm 差不多的安卓手机。",
           "originalTitle": "",
-          "source": "Gizmochina",
-          "brand": "Xiaomi",
+          "source": "酷安热榜",
+          "brand": "行业",
           "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-06-16",
-          "time": "08:14",
-          "publishedAt": "2026-06-16T08:14:57.000Z",
-          "url": "https://www.gizmochina.com/2026/06/16/xiaomi-17t-pro-vs-iphone-17/",
-          "image": "https://www.gizmochina.com/wp-content/uploads/2026/06/image-75-300x180.png?x44794",
+          "trust": "高关注爆料源",
+          "date": "2026-06-17",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://www.coolapk.com/feed/72387823",
+          "image": "",
           "verdict": "扫一眼",
-          "takeaway": "Xiaomi 17T Pro 对比 iPhone 17：重点看定位、配置差异和价格差，判断是否值得等更高端型号。",
-          "detail": "Xiaomi 17T Pro 对比 iPhone 17 的差异整理。重点看两款机型的定位、影像规格、屏幕尺寸、价格区间和发布时间是否拉开差距。",
+          "takeaway": "有没有和 17pm 差不多的安卓手机。",
+          "detail": "有没有和 17pm 差不多的安卓手机。",
           "keyPoints": [
-            "影像硬件",
-            "电池 / 充电",
-            "成本 / 价格"
+            "爆料"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "影响购买预算，值得先看。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        },
+        {
+          "id": "newsnow-b7f1f3a9c748",
+          "title": "各品牌同段位手机对比:",
+          "originalTitle": "",
+          "source": "酷安热榜",
+          "brand": "行业",
+          "type": "爆料",
+          "trust": "高关注爆料源",
+          "date": "2026-06-17",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://www.coolapk.com/feed/72393015",
+          "image": "",
+          "verdict": "扫一眼",
+          "takeaway": "各品牌同段位手机对比:",
+          "detail": "各品牌同段位手机对比:",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        },
+        {
+          "id": "auto-fb9446e8ede7",
+          "title": "OPPO 电池 / 充电相关消息",
+          "originalTitle": "",
+          "source": "Gizmochina",
+          "brand": "OPPO",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-06-17",
+          "time": "20:30",
+          "publishedAt": "2026-06-17T20:30:59.000Z",
+          "url": "https://www.gizmochina.com/2026/06/17/oneplus-n6-claimed-to-offer-three-day-battery-life-thanks-to-8000mah-cell/",
+          "image": "https://www.gizmochina.com/wp-content/uploads/2026/06/ActivityBanner_Mumbai_Mobile-R-300x169.jpg?x44794",
+          "verdict": "可略过",
+          "takeaway": "OPPO 有系统功能或 AI 体验更新，适合关注后续是否影响日常使用。",
+          "detail": "OPPO 电池 / 充电相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
+          "keyPoints": [
+            "电池 / 充电"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "影响日常体验，尤其是游戏、拍照和长时间使用。",
           "action": "有具体参数就记录到参数库；没有参数就先收藏。"
         },
         {
@@ -363,52 +407,6 @@ window.phoneRadarDaily = {
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "影响手感和显示体验，适合和其他机型对比。",
-          "action": "有具体参数就记录到参数库；没有参数就先收藏。"
-        },
-        {
-          "id": "auto-3a71efcd5643",
-          "title": "Samsung 相关消息",
-          "originalTitle": "",
-          "source": "Gizmochina",
-          "brand": "Samsung",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-06-16",
-          "time": "12:11",
-          "publishedAt": "2026-06-16T12:11:48.000Z",
-          "url": "https://www.gizmochina.com/2026/06/16/motorola-edge-70-pro-plus-vs-samsung-galaxy-s25-fe/",
-          "image": "https://www.gizmochina.com/wp-content/uploads/2026/06/image-77-300x156.png?x44794",
-          "verdict": "可略过",
-          "takeaway": "Samsung 相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
-          "detail": "Samsung 相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
-        {
-          "id": "auto-09cb252fbe5f",
-          "title": "Xiaomi 相关消息",
-          "originalTitle": "",
-          "source": "Gizmochina",
-          "brand": "Xiaomi",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-06-16",
-          "time": "10:38",
-          "publishedAt": "2026-06-16T10:38:41.000Z",
-          "url": "https://www.gizmochina.com/2026/06/16/motorola-edge-70-pro-plus-vs-xiaomi-17t/",
-          "image": "https://www.gizmochina.com/wp-content/uploads/2026/06/image-76-300x192.png?x44794",
-          "verdict": "可略过",
-          "takeaway": "Xiaomi 相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
-          "detail": "Xiaomi 相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
-          "keyPoints": [
-            "影像硬件"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "影响拍照体验，买旗舰机时值得关注。",
           "action": "有具体参数就记录到参数库；没有参数就先收藏。"
         }
       ]
