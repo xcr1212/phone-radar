@@ -1,6 +1,206 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-06-18T10:47:39.502Z",
+  "updatedAt": "2026-06-18T15:52:50.799Z",
   "news": [
+    {
+      "id": "auto-f35cfa3eba4a",
+      "title": "iPhone 18 Pro is getting larger camera bump per leaks, here’s why",
+      "source": "9to5Mac",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-18",
+      "time": "15:09",
+      "publishedAt": "2026-06-18T15:09:13.000Z",
+      "url": "https://9to5mac.com/2026/06/18/iphone-18-pro-is-getting-larger-camera-bump-per-leaks-heres-why/",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/iphone-17-pro-dark-blue-camera-plateau.jpg?quality=82&strip=all&w=1600",
+      "summary": "iPhone 18 Pro and Pro Max are expected to have largely the same dimensions as their predecessors, except in one key area: the camera plateau. Here’s why iPhone 18 Pro’s camera bum…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-1dd78b9dc75e",
+      "title": "三星确认 Exynos 2700 芯片正在研发中，下一代旗舰智能手机率先采用",
+      "source": "IT之家",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-18",
+      "time": "14:52",
+      "publishedAt": "2026-06-18T14:52:35.000Z",
+      "url": "https://www.ithome.com/0/966/271.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/6/1c03fc88-5e9e-4008-ad92-abb83d08eda2.jpg?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 6 月 18 日消息，据《韩国经济日报》报道，三星电子半导体 LSI 事业部总裁 Park Yong-in 今日表示，尽管公司今年第一季度取得创纪录营收，但受制于市场环境变化与需求疲软，全年亏损已无可避免。 IT之家从原报道获悉，三星正在积极进军全新领域，包括大规模图像传感器订单项目、定制化芯片业务等，让未来营收更加丰富。 这名总裁还提到，三星正…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-2cb52c6dc5dd",
+      "title": "iPhone 18 Pro could start at $1,399 or more, per report",
+      "source": "9to5Mac",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-18",
+      "time": "13:58",
+      "publishedAt": "2026-06-18T13:58:44.000Z",
+      "url": "https://9to5mac.com/2026/06/18/iphone-18-pro-could-start-at-1399-or-more-per-report/",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/iphone-17-pro-silver-front-back.jpg?quality=82&strip=all&w=1600",
+      "summary": "Due to unprecedented cost increases for RAM and storage, Apple has confirmed that price increases are coming for its products. Here’s how much the iPhone 18 Pro is now expected to…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-f1cb52b52a5c",
+      "title": "Nothing’s Carl Pei says he's going to steal Apple’s customers “one bored iPhone user at a time”",
+      "source": "Android Central",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-06-18",
+      "time": "13:53",
+      "publishedAt": "2026-06-18T13:53:27.000Z",
+      "url": "https://www.androidcentral.com/phones/nothing-phones/carl-pei-tells-apple-hes-stealing-its-customers-as-if-imessage-isnt-holding-them-hostage",
+      "image": "https://cdn.mos.cms.futurecdn.net/EQoTnY6FMFvF56RgKzrAVd-1280-80.png",
+      "summary": "Nothing is taking its anti-Apple fight to US store shelves, but despite Carl Pei's bold talk, Apple's ecosystem remains a much tougher opponent than any Instagram stunt.",
+      "tags": [
+        "OPPO",
+        "评测",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-290bcadcd969",
+      "title": "Honor 600 Smart 5G debuts with 7,700mAh battery, 6.87-inch 120Hz display",
+      "source": "Gizmochina",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-18",
+      "time": "12:40",
+      "publishedAt": "2026-06-18T12:40:00.000Z",
+      "url": "https://www.gizmochina.com/2026/06/18/honor-600-smart-5g-debuts-with-7700mah-battery-6-87-inch-120hz-display/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/06/bg-300x177.jpg?x44794",
+      "summary": "After unveiling the Honor 600 Lite, Honor 600, and Honor 600 Pro for the global market, Honor is now back with yet another 600-series phone called the Honor 600 Smart 5G. Position…",
+      "tags": [
+        "HONOR",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-a34b83c15096",
+      "title": "Caviar launches magnetic backplates for the iPhone 17 Pro Max, including one with a T-Rex fossil",
+      "source": "Gizmochina",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-18",
+      "time": "12:24",
+      "publishedAt": "2026-06-18T12:24:07.000Z",
+      "url": "https://www.gizmochina.com/2026/06/18/caviar-launches-magnetic-backplates-for-the-iphone-17-pro-max/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/06/Caviar-Relict-iPhone-17-Pro-Max-1-300x169.jpg?x44794",
+      "summary": "Luxury device modifier Caviar has announced its latest lineup of Apple accessories, and this time, the company is stepping away from permanent chassis replacements. Design Details…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-052f74f7d05f",
+      "title": "This Galaxy Z Fold 8 rival could put Ultra flagships to shame with its huge battery",
+      "source": "Android Authority",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-18",
+      "time": "12:06",
+      "publishedAt": "2026-06-18T12:06:19.000Z",
+      "url": "https://www.androidauthority.com/vivo-galaxy-z-fold-8-rival-battery-size-3678904/",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2026/06/vivo-X-Fold-6-official-image.jpg",
+      "summary": "The X Fold 6's battery will put conventional Ultra and Pro Max phones to shame.",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-c55e384e49e7",
+      "title": "iQOO Z11i teasers begin, here’s expected specifications",
+      "source": "Gizmochina",
+      "brand": "vivo",
+      "model": "vivo 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-18",
+      "time": "11:52",
+      "publishedAt": "2026-06-18T11:52:12.000Z",
+      "url": "https://www.gizmochina.com/2026/06/18/iqoo-z11i-design-colors-confirmed/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/06/iQOO-Z11i-blue-1-1-300x184.jpg?x44794",
+      "summary": "So far, iQOO has launched three Z11-branded phones in China, namely the iQOO Z11x, Z11, and Z11 Turbo. Now, the brand has started teasing the arrival of the Z11i, which appears to…",
+      "tags": [
+        "vivo",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-04ba75473efd",
+      "title": "Huawei HarmonyOS Desktop PC chipset details surfaced",
+      "source": "Huawei Central",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-18",
+      "time": "11:34",
+      "publishedAt": "2026-06-18T11:34:34.000Z",
+      "url": "https://www.huaweicentral.com/huawei-harmonyos-desktop-pc-chipset-details-surfaced/",
+      "image": "https://www.huaweicentral.com/wp-content/uploads/2026/06/HarmonyOS-PC-chipset.jpg",
+      "summary": "Huawei HarmonyOS Desktop PC will be launching in September this year, probably alongside the Mate 90 series smartphones, and a new leak reveals the chipset information for this cr…",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-5968d4ece784",
+      "title": "Samsung confirms Exynos 2700, strongly hints at Galaxy S27 use",
+      "source": "SamMobile",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-18",
+      "time": "11:32",
+      "publishedAt": "2026-06-18T11:32:49.000Z",
+      "url": "https://www.sammobile.com/news/samsung-confirms-exynos-2700-strongly-hints-at-galaxy-s27-use/",
+      "image": "",
+      "summary": "Samsung is expected to use either the in-house developed Exynos 2700 or the Qualcomm Snapdragon 8 Elite Gen 6 Pro for Galaxy chipset in its next flagship non-foldable smartphone l…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-893cc49f9cce",
       "title": "Oppo Reno 16 series launch date officially revealed, official renders, variants confirmed",
@@ -42,6 +242,26 @@ window.phoneRadarAuto = {
       ]
     },
     {
+      "id": "weibo-373f543796b6",
+      "title": "数码闲聊站：尬聊一下，7英寸超大屏全能旗舰机想要吗？[doge]",
+      "source": "数码闲聊站",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-06-18",
+      "time": "09:41",
+      "publishedAt": "2026-06-18T09:41:33.000Z",
+      "url": "https://weibo.com/6048569942/R4HK0spFg",
+      "image": "",
+      "summary": "尬聊一下，7英寸超大屏全能旗舰机想要吗？[doge]",
+      "tags": [
+        "行业",
+        "爆料",
+        "微博"
+      ]
+    },
+    {
       "id": "auto-7d0870d44e00",
       "title": "12 Reasons to Wait for the iPhone 18 Pro",
       "source": "MacRumors",
@@ -77,26 +297,6 @@ window.phoneRadarAuto = {
       "summary": "For the past few years, Samsung has launched the base model in each new Galaxy S lineup with only minor upgrades over its predecessor. Unfortunately, the same could be true for th…",
       "tags": [
         "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-e339006c1e74",
-      "title": "vivo 海外预热 Y500 4G 手机：紫光展锐 T7300 芯片、8100mAh 电池",
-      "source": "IT之家",
-      "brand": "vivo",
-      "model": "vivo 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-18",
-      "time": "07:17",
-      "publishedAt": "2026-06-18T07:17:52.000Z",
-      "url": "https://www.ithome.com/0/966/024.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/6/e082219d-4fb0-4e89-a4d7-048aab1c2567.png?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 6 月 18 日消息，vivo 尼泊尔昨天在 Instagram 平台预热 Y500 4G 手机，新机相比国内版本设计有所不同，硬件配置也有调整。 据介绍，这款手机将配备一块 AMOLED 屏幕， 分辨率达到“1.5K”级别 ， 内置 8100mAh 电池 。后摄模组采用竖向双摄设计，闪光灯位于模组外边。 结合谷歌 Play Console 数据…",
-      "tags": [
-        "vivo",
         "爆料",
         "自动抓取"
       ]
@@ -222,23 +422,43 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "coolapk-user-719987d2c792",
-      "title": "竹本青：vivo X Fold6 官图公布：蓝/白/黑/黑金",
-      "source": "竹本青",
-      "brand": "vivo",
-      "model": "vivo 相关机型",
+      "id": "weibo-534847049366",
+      "title": "数码闲聊站：去年11月说过iPhone Air2正常迭代中，ID变化不大，测试48Mp双摄…",
+      "source": "数码闲聊站",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
       "type": "爆料",
-      "trust": "高可信爆料",
+      "trust": "高关注爆料源",
       "date": "2026-06-18",
-      "time": "02:49",
-      "publishedAt": "2026-06-18T02:49:25.000Z",
-      "url": "https://www.coolapk.com/feed/72402945",
-      "image": "http://image.coolapk.com/feed/2026/0618/10/4248714_589cf54f_0955_9014_73@2000x2800.jpg",
-      "summary": "【vivo X Fold6 官图公布：蓝/白/黑/黑金】 蓝洞｜灵感来自“深海大蓝洞” 盐湖｜灵感来自“天空之镜” 极夜｜灵感来自极圈的长夜 黑金｜浓黑为底，鎏金点睛 #今日热点# #vivoXFold6# #OriginOS6#",
+      "time": "02:31",
+      "publishedAt": "2026-06-18T02:31:00.000Z",
+      "url": "https://weibo.com/6048569942/R4EVfnove",
+      "image": "https://tvax2.sinaimg.cn/mw2000/006BlblIgy1ie969kx763j30xv0xm12b.jpg",
+      "summary": "去年11月说过iPhone Air2正常迭代中，ID变化不大，测试48Mp双摄影像，2nm A20系列芯片，电池听说会有大幅提升，排期调整至2027Q1 那么问题来了，改善了续航问题+增强影像以后，你们会考虑超薄iPhone Air吗？[吃瓜]",
       "tags": [
-        "vivo",
+        "iPhone",
         "爆料",
-        "酷安博主"
+        "微博"
+      ]
+    },
+    {
+      "id": "weibo-74bd8a94c760",
+      "title": "数码闲聊站：iPhone 18 Pro系列上了48Mp超大底可变光圈、2nm芯片、高速内存…",
+      "source": "数码闲聊站",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-06-18",
+      "time": "01:07",
+      "publishedAt": "2026-06-18T01:07:45.000Z",
+      "url": "https://weibo.com/6048569942/R4EnseuYx",
+      "image": "https://tvax1.sinaimg.cn/mw2000/006BlblIgy1ie96lutgitj30xu0goq8r.jpg",
+      "summary": "iPhone 18 Pro系列上了48Mp超大底可变光圈、2nm芯片、高速内存、大电池，理论上会涨价。 库克最近在接受采访时承认，受内存供应持续紧张和成本上涨影响，苹果产品涨价已不可避免；外媒估算，如果苹果选择保持现有利润，Pro可能需要涨价约270刀，折合人民币约1820[淡淡的]",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "微博"
       ]
     },
     {
@@ -259,6 +479,126 @@ window.phoneRadarAuto = {
         "Xiaomi",
         "爆料",
         "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-9bbf43c61c96",
+      "title": "Apple announces changes to iOS in Brazil",
+      "source": "Apple Newsroom",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "官方",
+      "trust": "官方确认",
+      "date": "2026-06-18",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.apple.com/newsroom/2026/06/apple-announces-changes-to-ios-in-brazil/",
+      "image": "",
+      "summary": "Apple today announced changes impacting iOS apps in Brazil that reflect a recent agreement with Brazil’s competition regulator, CADE.",
+      "tags": [
+        "iPhone",
+        "官方",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "newsnow-a4ff4adb0bad",
+      "title": "换了一圈手机，",
+      "source": "酷安热榜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-06-18",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/72390788",
+      "image": "",
+      "summary": "换了一圈手机，",
+      "tags": [
+        "行业",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-ba5d89ac39a6",
+      "title": "iPhone Air2 被曝明年Q1发布：电池大幅提升",
+      "source": "酷安热榜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-06-18",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/72402696",
+      "image": "",
+      "summary": "iPhone Air2 被曝明年Q1发布：电池大幅提升",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-db24aa51b754",
+      "title": "各品牌同段位手机对比:",
+      "source": "酷安热榜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-06-18",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/72393015",
+      "image": "",
+      "summary": "各品牌同段位手机对比:",
+      "tags": [
+        "行业",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-7a70f7441738",
+      "title": "有没有和 17pm 差不多的安卓手机。",
+      "source": "酷安热榜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-06-18",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/72387823",
+      "image": "",
+      "summary": "有没有和 17pm 差不多的安卓手机。",
+      "tags": [
+        "行业",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-75e839b2cf06",
+      "title": "我每个月工资不高，三千左右，现在存了一万块钱，要不要花掉 3500 元买个新手机？",
+      "source": "知乎热榜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "市场报告",
+      "trust": "媒体汇总",
+      "date": "2026-06-18",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.zhihu.com/question/2048362789551576432",
+      "image": "",
+      "summary": "我每个月工资不高，三千左右，现在存了一万块钱，要不要花掉 3500 元买个新手机？",
+      "tags": [
+        "行业",
+        "市场报告",
+        "NewsNow"
       ]
     },
     {
@@ -374,27 +714,7 @@ window.phoneRadarAuto = {
       "publishedAt": "2026-06-17T16:13:03.000Z",
       "url": "https://www.androidauthority.com/pokemon-champions-launches-on-mobile-3678548/",
       "image": "https://www.androidauthority.com/wp-content/uploads/2026/06/pokemon-champions-on-mobile.jpg",
-      "summary": "TCPI is celebrating the launch by giving you a free Raichu and mega stones.",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-9ccbd5a40f63",
-      "title": "Google solves the biggest headache of switching from iPhone to Android",
-      "source": "Android Police",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-17",
-      "time": "15:47",
-      "publishedAt": "2026-06-17T15:47:14.000Z",
-      "url": "https://www.androidpolice.com/google-solves-biggest-headache-switching-from-iphone-to-android/",
-      "image": "",
-      "summary": "Transfer more data than ever before",
+      "summary": "TPCI is celebrating the launch by giving you a free Raichu and mega stones.",
       "tags": [
         "iPhone",
         "爆料",
@@ -542,6 +862,26 @@ window.phoneRadarAuto = {
       ]
     },
     {
+      "id": "weibo-451ff2ab29eb",
+      "title": "数码闲聊站：之前超前瞻过了，天玑9600系阵营迭代新机，你们猜哪个的主摄更强？[并不简单]…",
+      "source": "数码闲聊站",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-06-17",
+      "time": "07:28",
+      "publishedAt": "2026-06-17T07:28:00.000Z",
+      "url": "https://weibo.com/6048569942/R4xriFJhS",
+      "image": "",
+      "summary": "之前超前瞻过了，天玑9600系阵营迭代新机，你们猜哪个的主摄更强？[并不简单] 一家压宝索尼LYT-L910，5000万像素+1/1.28\"超大底+LOFIC技术+动态范围100dB± 一家压宝三星HPC，2亿像素+1/1.3\"±超大底+UFCC技术+FWC 160Ke-动态范围96dB±",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "微博"
+      ]
+    },
+    {
       "id": "auto-57b9724a5ae6",
       "title": "HyperOS 4 may not debut on the Xiaomi 18 series first, rather this foldable",
       "source": "Gizmochina",
@@ -557,26 +897,6 @@ window.phoneRadarAuto = {
       "summary": "A new Xiaomi phone has been spotted in network certification records under the model number 2608BPX34C. This is the same model number that has been tied to Xiaomi’s upcoming folda…",
       "tags": [
         "Xiaomi",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-2b0bd3a6417b",
-      "title": "Huawei Pura X Max surpasses sales figures of all previous Huawei foldables",
-      "source": "Gizmochina",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-17",
-      "time": "02:56",
-      "publishedAt": "2026-06-17T02:56:36.000Z",
-      "url": "https://www.gizmochina.com/2026/06/17/huawei-pura-x-max-surpasses-sales-figures-of-all-previous-huawei-foldables/",
-      "image": "https://www.gizmochina.com/wp-content/uploads/2026/06/Huawei-Pura-X-Max-1024x512-1-300x169.jpg?x44794",
-      "summary": "Early sales of Huawei‘s first “wide-format” horizontal foldable have been impressive, suggesting that more people are warming up to foldables when they’re actually designed with r…",
-      "tags": [
-        "Huawei",
         "爆料",
         "自动抓取"
       ]
