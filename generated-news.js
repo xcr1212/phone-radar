@@ -1,6 +1,86 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-06-18T15:52:50.799Z",
+  "updatedAt": "2026-06-18T18:35:48.095Z",
   "news": [
+    {
+      "id": "auto-a9dacdfc28a6",
+      "title": "What makes the Samsung Galaxy S26 Ultra display stand out this year",
+      "source": "SamMobile",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-18",
+      "time": "18:00",
+      "publishedAt": "2026-06-18T18:00:00.000Z",
+      "url": "https://www.sammobile.com/news/what-makes-samsung-galaxy-s26-ultra-display-stand-out/",
+      "image": "",
+      "summary": "The Samsung Galaxy S26 Ultra has a 6.9-inch Dynamic AMOLED 2X display with a peak brightness of 2600 nits, a 1Hz to 120Hz adaptive refresh rate, and QHD+ resolution at 3120 x 1440…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-a9f695d00ce9",
+      "title": "This is still the best Samsung Galaxy S26 deal on the web, and nobody is talking about it",
+      "source": "Android Central",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-06-18",
+      "time": "17:30",
+      "publishedAt": "2026-06-18T17:30:44.000Z",
+      "url": "https://www.androidcentral.com/phones/samsung-galaxy/this-is-still-the-best-samsung-galaxy-s26-deal-on-the-web-and-nobody-is-talking-about-it",
+      "image": "https://cdn.mos.cms.futurecdn.net/tZxBXnAjYrSgQ4VdFxb9ME-1280-80.jpg",
+      "summary": "Mint Mobile is still running an offer that gives you $500 off the Galaxy S26 and 50% off a year of the Unlimited plan.",
+      "tags": [
+        "Samsung",
+        "评测",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-0c5d4a1b3afd",
+      "title": "The iPhone is holding Android back. [Video.]",
+      "source": "Android Police",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-18",
+      "time": "16:35",
+      "publishedAt": "2026-06-18T16:35:22.000Z",
+      "url": "https://www.androidpolice.com/video/the-iphone-is-holding-android-back-video/",
+      "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2026/06/the-iphone-is-holding-android-back2.jpg",
+      "summary": "It's been happening for a while.",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-196bcdf5935b",
+      "title": "竹本青：【曝比亚迪计划推动子品牌自负盈亏，仰望暂不在其中】 据《晚点 Auto》 今日报道，比亚迪正计划让旗下各子品牌自负…",
+      "source": "竹本青",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-06-18",
+      "time": "16:02",
+      "publishedAt": "2026-06-18T16:02:51.000Z",
+      "url": "https://www.coolapk.com/feed/72416430",
+      "image": "http://image.coolapk.com/feed/2026/0619/00/4248714_3bf4235d_9081_1563_820@1272x4192.jpg",
+      "summary": "【曝比亚迪计划推动子品牌自负盈亏，仰望暂不在其中】 据《晚点 Auto》 今日报道，比亚迪正计划让旗下各子品牌自负盈亏，仰望暂不在其中。一位接近此事的人士说，新机制下各品牌主体按需取用研发、生产、采购等集团资源，取用成本独立结算。 截至发稿，比亚迪没有回复媒体相关询问。 和这件事相关的是比亚迪准备将工程院拆分为王朝、海洋、方程豹、腾势、仰望五大品牌研究院。…",
+      "tags": [
+        "行业",
+        "爆料",
+        "酷安博主"
+      ]
+    },
     {
       "id": "auto-f35cfa3eba4a",
       "title": "iPhone 18 Pro is getting larger camera bump per leaks, here’s why",
@@ -337,26 +417,6 @@ window.phoneRadarAuto = {
       "summary": "Oppo has quietly introduced the Reno 15A in Japan, bringing a familiar set of specifications under a different name. The smartphone shares its model number and hardware with the O…",
       "tags": [
         "OPPO",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-ef6b4992d26d",
-      "title": "June 2026 security update hits the Galaxy Z Flip 6",
-      "source": "SamMobile",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-18",
-      "time": "06:55",
-      "publishedAt": "2026-06-18T06:55:59.000Z",
-      "url": "https://www.sammobile.com/news/galaxy-z-flip-6-june-2026-security-update-korea/",
-      "image": "https://www.sammobile.com/wp-content/uploads/2026/06/Samsung-Galaxy-Z-Flip-6-June-2026-Security-Update-South-Korea.jpg",
-      "summary": "Samsung has released a new software update for the Galaxy Z Flip 6. It brings a new security patch to the foldable phone. Similar updates were also released earlier today for the…",
-      "tags": [
-        "Samsung",
         "爆料",
         "自动抓取"
       ]
@@ -757,26 +817,6 @@ window.phoneRadarAuto = {
       "summary": "But you can't buy it in the US, just yet.",
       "tags": [
         "OPPO",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-1a195b8adac4",
-      "title": "WhatsApp Working on View-Once Text Messages for iPhone",
-      "source": "MacRumors",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-17",
-      "time": "08:48",
-      "publishedAt": "2026-06-17T08:48:06.000Z",
-      "url": "https://www.macrumors.com/2026/06/17/whatsapp-view-once-text-messages-iphone/",
-      "image": "https://images.macrumors.com/article-new/2026/05/Whatsapp-Feature.jpg",
-      "summary": "WhatsApp is working on a way to let users send text messages that can only be viewed once, similar to the feature already available for photos, videos, and voice notes. According…",
-      "tags": [
-        "iPhone",
         "爆料",
         "自动抓取"
       ]

@@ -1,5 +1,5 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-06-18T15:52:50.799Z",
+  "updatedAt": "2026-06-18T18:35:48.095Z",
   "issueDate": "2026-06-18",
   "issue": "VOL.260618",
   "title": "手机情报日报",
@@ -186,23 +186,23 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
-          "id": "auto-1a195b8adac4",
-          "title": "iPhone 相关消息",
+          "id": "auto-1dd78b9dc75e",
+          "title": "三星确认 Exynos 2700 芯片正在研发中，下一代旗舰智能手机率先采用",
           "originalTitle": "",
-          "source": "MacRumors",
-          "brand": "iPhone",
+          "source": "IT之家",
+          "brand": "Samsung",
           "type": "爆料",
           "trust": "媒体汇总",
-          "date": "2026-06-17",
-          "time": "08:48",
-          "publishedAt": "2026-06-17T08:48:06.000Z",
-          "url": "https://www.macrumors.com/2026/06/17/whatsapp-view-once-text-messages-iphone/",
-          "image": "https://images.macrumors.com/article-new/2026/05/Whatsapp-Feature.jpg",
+          "date": "2026-06-18",
+          "time": "14:52",
+          "publishedAt": "2026-06-18T14:52:35.000Z",
+          "url": "https://www.ithome.com/0/966/271.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/6/1c03fc88-5e9e-4008-ad92-abb83d08eda2.jpg?x-bce-process=image/format,f_auto",
           "verdict": "先看",
-          "takeaway": "iPhone 相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
-          "detail": "iPhone 相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
+          "takeaway": "IT之家 6 月 18 日消息，据《韩国经济日报》报道，三星电子半导体 LSI 事业部总裁 Park Yong-in 今日表示，尽管公司今年第一季度取得创纪录营收，但受制于市场环境变化与需求疲软，全年亏损已无可避免。 IT之家从原报道获悉，三星正在积极进军全新领域，包括大规模图像传感器订单项目、定制化芯片业务等，让未来营收更加丰富。 这名总裁还提到，三星正…",
+          "detail": "IT之家 6 月 18 日消息，据《韩国经济日报》报道，三星电子半导体 LSI 事业部总裁 Park Yong-in 今日表示，尽管公司今年第一季度取得创纪录营收，但受制于市场环境变化与需求疲软，全年亏损已无可避免。 IT之家从原报道获悉，三星正在积极进军全新领域，包括大规模图像传感器订单项目、定制化芯片业务等，让未来营收更加丰富。 这名总裁还提到，三星正…",
           "keyPoints": [
-            "影像硬件"
+            "芯片 / 性能"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
@@ -239,6 +239,29 @@ window.phoneRadarDaily = {
           "action": "中文源可以直接点开快读；看完只保留和购机有关的点。"
         },
         {
+          "id": "auto-2cb52c6dc5dd",
+          "title": "iPhone 相关消息",
+          "originalTitle": "",
+          "source": "9to5Mac",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-06-18",
+          "time": "13:58",
+          "publishedAt": "2026-06-18T13:58:44.000Z",
+          "url": "https://9to5mac.com/2026/06/18/iphone-18-pro-could-start-at-1399-or-more-per-report/",
+          "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/iphone-17-pro-silver-front-back.jpg?quality=82&strip=all&w=1600",
+          "verdict": "扫一眼",
+          "takeaway": "iPhone 相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
+          "detail": "iPhone 相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
+          "keyPoints": [
+            "成本 / 价格"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "影响购买预算，值得先看。",
+          "action": "有具体参数就记录到参数库；没有参数就先收藏。"
+        },
+        {
           "id": "auto-a34b83c15096",
           "title": "iPhone 17 Pro Max 发布 / 上市相关消息",
           "originalTitle": "",
@@ -260,60 +283,6 @@ window.phoneRadarDaily = {
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        }
-      ]
-    },
-    {
-      "id": "launch",
-      "title": "新机与官方发布",
-      "hint": "能直接更新到参数库。",
-      "items": [
-        {
-          "id": "auto-c55e384e49e7",
-          "title": "vivo 相关消息",
-          "originalTitle": "",
-          "source": "Gizmochina",
-          "brand": "vivo",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-06-18",
-          "time": "11:52",
-          "publishedAt": "2026-06-18T11:52:12.000Z",
-          "url": "https://www.gizmochina.com/2026/06/18/iqoo-z11i-design-colors-confirmed/",
-          "image": "https://www.gizmochina.com/wp-content/uploads/2026/06/iQOO-Z11i-blue-1-1-300x184.jpg?x44794",
-          "verdict": "可略过",
-          "takeaway": "vivo 相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
-          "detail": "vivo 相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
-        {
-          "id": "auto-1302ae50c1b9",
-          "title": "Galaxy S27 影像能力相关消息",
-          "originalTitle": "",
-          "source": "SamMobile",
-          "brand": "Samsung",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-06-18",
-          "time": "07:21",
-          "publishedAt": "2026-06-18T07:21:55.000Z",
-          "url": "https://www.sammobile.com/news/base-galaxy-s27-may-disappoint-no-major-display-camera-upgrades/",
-          "image": "",
-          "verdict": "可略过",
-          "takeaway": "Samsung 影像能力相关宣传或案例，主要看是否透露拍摄能力变化。",
-          "detail": "Galaxy S27 影像能力相关消息。重点看影像功能是否和新机硬件有关，如果只是拍摄案例或营销内容，参考价值会低一些。",
-          "keyPoints": [
-            "影像硬件",
-            "屏幕形态"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "影响拍照体验，买旗舰机时值得关注。",
-          "action": "有具体参数就记录到参数库；没有参数就先收藏。"
         }
       ]
     },
@@ -352,6 +321,29 @@ window.phoneRadarDaily = {
       "title": "评测与体验",
       "hint": "买前再细看，平时扫一眼即可。",
       "items": [
+        {
+          "id": "auto-a9f695d00ce9",
+          "title": "Samsung 相关消息",
+          "originalTitle": "",
+          "source": "Android Central",
+          "brand": "Samsung",
+          "type": "评测",
+          "trust": "媒体汇总",
+          "date": "2026-06-18",
+          "time": "17:30",
+          "publishedAt": "2026-06-18T17:30:44.000Z",
+          "url": "https://www.androidcentral.com/phones/samsung-galaxy/this-is-still-the-best-samsung-galaxy-s26-deal-on-the-web-and-nobody-is-talking-about-it",
+          "image": "https://cdn.mos.cms.futurecdn.net/tZxBXnAjYrSgQ4VdFxb9ME-1280-80.jpg",
+          "verdict": "可略过",
+          "takeaway": "Samsung 相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
+          "detail": "Samsung 相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
+          "keyPoints": [
+            "评测"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是实际体验内容，买前适合重点看缺点和取舍。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        },
         {
           "id": "auto-f1cb52b52a5c",
           "title": "OPPO 相关消息",
@@ -452,6 +444,29 @@ window.phoneRadarDaily = {
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         },
         {
+          "id": "auto-a9dacdfc28a6",
+          "title": "Galaxy S26 Ultra 屏幕规格相关消息",
+          "originalTitle": "",
+          "source": "SamMobile",
+          "brand": "Samsung",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-06-18",
+          "time": "18:00",
+          "publishedAt": "2026-06-18T18:00:00.000Z",
+          "url": "https://www.sammobile.com/news/what-makes-samsung-galaxy-s26-ultra-display-stand-out/",
+          "image": "",
+          "verdict": "可略过",
+          "takeaway": "Galaxy S26 Ultra 屏幕规格相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
+          "detail": "Galaxy S26 Ultra 屏幕规格相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
+          "keyPoints": [
+            "屏幕形态"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "影响手感和显示体验，适合和其他机型对比。",
+          "action": "有具体参数就记录到参数库；没有参数就先收藏。"
+        },
+        {
           "id": "auto-290bcadcd969",
           "title": "HONOR 电池 / 充电相关消息",
           "originalTitle": "",
@@ -496,29 +511,6 @@ window.phoneRadarDaily = {
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "影响日常体验，尤其是游戏、拍照和长时间使用。",
-          "action": "有具体参数就记录到参数库；没有参数就先收藏。"
-        },
-        {
-          "id": "auto-5968d4ece784",
-          "title": "Galaxy S27 芯片 / 性能相关消息",
-          "originalTitle": "",
-          "source": "SamMobile",
-          "brand": "Samsung",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-06-18",
-          "time": "11:32",
-          "publishedAt": "2026-06-18T11:32:49.000Z",
-          "url": "https://www.sammobile.com/news/samsung-confirms-exynos-2700-strongly-hints-at-galaxy-s27-use/",
-          "image": "",
-          "verdict": "可略过",
-          "takeaway": "Galaxy S27 芯片 / 性能相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
-          "detail": "Galaxy S27 芯片 / 性能相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
-          "keyPoints": [
-            "芯片 / 性能"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "影响性能和寿命判断，适合放进参数库。",
           "action": "有具体参数就记录到参数库；没有参数就先收藏。"
         }
       ]
