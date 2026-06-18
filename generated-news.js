@@ -1,44 +1,184 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-06-18T05:01:28.398Z",
+  "updatedAt": "2026-06-18T10:47:39.502Z",
   "news": [
     {
-      "id": "newsnow-58101141dfb6",
-      "title": "CounterPoint 报告 2026 年第 20 周全球手机销量：华为涨 23% 同比增幅最大",
-      "source": "IT之家热榜",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
+      "id": "auto-893cc49f9cce",
+      "title": "Oppo Reno 16 series launch date officially revealed, official renders, variants confirmed",
+      "source": "Gizmochina",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
       "type": "爆料",
       "trust": "媒体汇总",
       "date": "2026-06-18",
-      "time": "12:14",
-      "publishedAt": "2026-06-18T12:14:13.000Z",
-      "url": "https://www.ithome.com/0/965/897.htm",
-      "image": "",
-      "summary": "CounterPoint 报告 2026 年第 20 周全球手机销量：华为涨 23% 同比增幅最大",
+      "time": "10:04",
+      "publishedAt": "2026-06-18T10:04:20.000Z",
+      "url": "https://www.gizmochina.com/2026/06/18/oppo-reno-16-series-launch-date-renders-variants-confirmed/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/06/image-91-300x205.png?x44794",
+      "summary": "Oppo is gearing up to launch the Reno 16 series in multiple markets. Among these, Indonesia and Malaysia have already confirmed the launch dates. While the lineup will be announce…",
       "tags": [
-        "Huawei",
+        "OPPO",
         "爆料",
-        "NewsNow"
+        "自动抓取"
       ]
     },
     {
-      "id": "newsnow-b08fdd50e276",
-      "title": "vivo X Fold6 折叠屏手机“黑金”配色公布，6 月 26 日发布",
-      "source": "IT之家热榜",
+      "id": "auto-f33148794817",
+      "title": "Apple could fix the iPhone Air’s biggest issues with the iPhone Air 2",
+      "source": "Android Authority",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-18",
+      "time": "09:46",
+      "publishedAt": "2026-06-18T09:46:42.000Z",
+      "url": "https://www.androidauthority.com/iphone-air-2-dual-cameras-better-battery-3678873/",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2025/09/iPhone-Air-rear-hero.jpg",
+      "summary": "The iPhone Air 2 might get a dual-camera setup and better battery life.",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-7d0870d44e00",
+      "title": "12 Reasons to Wait for the iPhone 18 Pro",
+      "source": "MacRumors",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-18",
+      "time": "09:17",
+      "publishedAt": "2026-06-18T09:17:44.000Z",
+      "url": "https://www.macrumors.com/2026/06/18/12-reasons-wait-iphone-18-pro/",
+      "image": "https://images.macrumors.com/article-new/2026/01/Dynamic-Island-iPhone-18-Pro-Feature.jpg",
+      "summary": "We're only three months out from the launch of Apple's premium next-generation smartphone lineup, and while we're not expecting a sea change in terms of functionality, there are s…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-1302ae50c1b9",
+      "title": "Base Galaxy S27 may disappoint with no major display or camera upgrades",
+      "source": "SamMobile",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-18",
+      "time": "07:21",
+      "publishedAt": "2026-06-18T07:21:55.000Z",
+      "url": "https://www.sammobile.com/news/base-galaxy-s27-may-disappoint-no-major-display-camera-upgrades/",
+      "image": "",
+      "summary": "For the past few years, Samsung has launched the base model in each new Galaxy S lineup with only minor upgrades over its predecessor. Unfortunately, the same could be true for th…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-e339006c1e74",
+      "title": "vivo 海外预热 Y500 4G 手机：紫光展锐 T7300 芯片、8100mAh 电池",
+      "source": "IT之家",
       "brand": "vivo",
       "model": "vivo 相关机型",
       "type": "爆料",
       "trust": "媒体汇总",
       "date": "2026-06-18",
-      "time": "11:15",
-      "publishedAt": "2026-06-18T11:15:34.000Z",
-      "url": "https://www.ithome.com/0/965/838.htm",
-      "image": "",
-      "summary": "vivo X Fold6 折叠屏手机“黑金”配色公布，6 月 26 日发布",
+      "time": "07:17",
+      "publishedAt": "2026-06-18T07:17:52.000Z",
+      "url": "https://www.ithome.com/0/966/024.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/6/e082219d-4fb0-4e89-a4d7-048aab1c2567.png?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 6 月 18 日消息，vivo 尼泊尔昨天在 Instagram 平台预热 Y500 4G 手机，新机相比国内版本设计有所不同，硬件配置也有调整。 据介绍，这款手机将配备一块 AMOLED 屏幕， 分辨率达到“1.5K”级别 ， 内置 8100mAh 电池 。后摄模组采用竖向双摄设计，闪光灯位于模组外边。 结合谷歌 Play Console 数据…",
       "tags": [
         "vivo",
         "爆料",
-        "NewsNow"
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-e4f4edbf3adb",
+      "title": "Nothing Phone 杂谈：活下去再谈未来，然后呢？",
+      "source": "少数派",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-06-18",
+      "time": "07:00",
+      "publishedAt": "2026-06-18T07:00:00.000Z",
+      "url": "https://sspai.com/post/110442",
+      "image": "",
+      "summary": "我依然相信他们能给已成红海的手机市场带来变数与惊喜，正如标志性的透明后盖与微弱闪烁的灯光，每一次触碰都仿佛钟表倒转，回到光芒与图案代表个性的千禧年代。",
+      "tags": [
+        "行业",
+        "评测",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-9f318f9187c2",
+      "title": "Oppo Reno 15A launches with a 7,000mAh battery and 50MP triple cameras",
+      "source": "Gizmochina",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-18",
+      "time": "06:59",
+      "publishedAt": "2026-06-18T06:59:12.000Z",
+      "url": "https://www.gizmochina.com/2026/06/18/oppo-reno-15a-launched-price-specifications/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/06/Oppo-Reno-15A-featured-300x137.png?x44794",
+      "summary": "Oppo has quietly introduced the Reno 15A in Japan, bringing a familiar set of specifications under a different name. The smartphone shares its model number and hardware with the O…",
+      "tags": [
+        "OPPO",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-ef6b4992d26d",
+      "title": "June 2026 security update hits the Galaxy Z Flip 6",
+      "source": "SamMobile",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-18",
+      "time": "06:55",
+      "publishedAt": "2026-06-18T06:55:59.000Z",
+      "url": "https://www.sammobile.com/news/galaxy-z-flip-6-june-2026-security-update-korea/",
+      "image": "https://www.sammobile.com/wp-content/uploads/2026/06/Samsung-Galaxy-Z-Flip-6-June-2026-Security-Update-South-Korea.jpg",
+      "summary": "Samsung has released a new software update for the Galaxy Z Flip 6. It brings a new security patch to the foldable phone. Similar updates were also released earlier today for the…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-67d46e46d86d",
+      "title": "2026 最强智能眼镜发布，但「iPhone 时刻」还没到来",
+      "source": "爱范儿",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-06-18",
+      "time": "05:57",
+      "publishedAt": "2026-06-18T05:57:20.000Z",
+      "url": "https://www.ifanr.com/1669287?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "image": "https://s3.ifanr.com/wp-content/uploads/2026/06/Aura-1024x610.png",
+      "summary": "多年以后，当我戴上最新最潮的 Android XR 眼镜准备出门时，会回想起 2026 年 6 月 16 日的那一天。",
+      "tags": [
+        "iPhone",
+        "评测",
+        "自动抓取"
       ]
     },
     {
@@ -82,43 +222,23 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-3da85d8f846e",
-      "title": "Galaxy Z Fold 6 and Z Fold 6 Special Edition get a new software update",
-      "source": "SamMobile",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
+      "id": "coolapk-user-719987d2c792",
+      "title": "竹本青：vivo X Fold6 官图公布：蓝/白/黑/黑金",
+      "source": "竹本青",
+      "brand": "vivo",
+      "model": "vivo 相关机型",
       "type": "爆料",
-      "trust": "媒体汇总",
+      "trust": "高可信爆料",
       "date": "2026-06-18",
-      "time": "03:59",
-      "publishedAt": "2026-06-18T03:59:00.000Z",
-      "url": "https://www.sammobile.com/news/galaxy-z-fold-6-special-edition-june-2026-software-update/",
-      "image": "",
-      "summary": "After releasing a new software update for the Galaxy S24 series earlier today, Samsung has also released an update for the Galaxy Z Fold 6 and the Galaxy Z Fold 6 Special Edition.…",
+      "time": "02:49",
+      "publishedAt": "2026-06-18T02:49:25.000Z",
+      "url": "https://www.coolapk.com/feed/72402945",
+      "image": "http://image.coolapk.com/feed/2026/0618/10/4248714_589cf54f_0955_9014_73@2000x2800.jpg",
+      "summary": "【vivo X Fold6 官图公布：蓝/白/黑/黑金】 蓝洞｜灵感来自“深海大蓝洞” 盐湖｜灵感来自“天空之镜” 极夜｜灵感来自极圈的长夜 黑金｜浓黑为底，鎏金点睛 #今日热点# #vivoXFold6# #OriginOS6#",
       "tags": [
-        "Samsung",
+        "vivo",
         "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-57371daef735",
-      "title": "June 2026 update is rolling out to the Galaxy S24 series",
-      "source": "SamMobile",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-18",
-      "time": "03:23",
-      "publishedAt": "2026-06-18T03:23:49.000Z",
-      "url": "https://www.sammobile.com/news/galaxy-s24-june-2026-update-is-rolling-out/",
-      "image": "https://www.sammobile.com/wp-content/uploads/2026/06/Samsung-Galaxy-S24-Plus-Ultra-June-2026-Update-South-Korea.jpg",
-      "summary": "Earlier this month, Samsung detailed the June 2026 security patch and then started rolling it out to Galaxy devices. This week, the Galaxy S25 series received a new update that br…",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
+        "酷安博主"
       ]
     },
     {
@@ -139,126 +259,6 @@ window.phoneRadarAuto = {
         "Xiaomi",
         "爆料",
         "自动抓取"
-      ]
-    },
-    {
-      "id": "newsnow-a4ff4adb0bad",
-      "title": "换了一圈手机，",
-      "source": "酷安热榜",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-06-18",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72390788",
-      "image": "",
-      "summary": "换了一圈手机，",
-      "tags": [
-        "行业",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-db24aa51b754",
-      "title": "各品牌同段位手机对比:",
-      "source": "酷安热榜",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-06-18",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72393015",
-      "image": "",
-      "summary": "各品牌同段位手机对比:",
-      "tags": [
-        "行业",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-7a70f7441738",
-      "title": "有没有和 17pm 差不多的安卓手机。",
-      "source": "酷安热榜",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-06-18",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72387823",
-      "image": "",
-      "summary": "有没有和 17pm 差不多的安卓手机。",
-      "tags": [
-        "行业",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-ba5d89ac39a6",
-      "title": "iPhone Air2 被曝明年Q1发布：电池大幅提升",
-      "source": "酷安热榜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-06-18",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72402696",
-      "image": "",
-      "summary": "iPhone Air2 被曝明年Q1发布：电池大幅提升",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-baaa2a541812",
-      "title": "今天女朋友过生日了，带她出来拍点美照，希望生日只有快乐，没有老一岁的烦恼[受虐滑稽]#人像摄影# #手机摄影# #我在酷安晒女友#",
-      "source": "酷安热榜",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-06-18",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72394015",
-      "image": "",
-      "summary": "今天女朋友过生日了，带她出来拍点美照，希望生日只有快乐，没有老一岁的烦恼[受虐滑稽]#人像摄影# #手机摄影# #我在酷安晒女友#",
-      "tags": [
-        "行业",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-c85288e861d1",
-      "title": "iPhone18Pro或涨价270美元",
-      "source": "百度热搜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-18",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.baidu.com/s?wd=iPhone18Pro%E6%88%96%E6%B6%A8%E4%BB%B7270%E7%BE%8E%E5%85%83",
-      "image": "",
-      "summary": "iPhone18Pro或涨价270美元",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "NewsNow"
       ]
     },
     {
@@ -422,26 +422,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-521e43559441",
-      "title": "New Galaxy Z Fold 8 series leak says will cost more than Galaxy Z Fold 7",
-      "source": "SamMobile",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-17",
-      "time": "13:38",
-      "publishedAt": "2026-06-17T13:38:10.000Z",
-      "url": "https://www.sammobile.com/news/new-galaxy-z-fold-8-series-leak-says-will-cost-more-than-galaxy-z-fold-7/",
-      "image": "",
-      "summary": "Samsung is expected to unveil its next-generation flagship foldable smartphone lineup next month. According to reports, it will have three models: the Galaxy Z Fold 8 Ultra (succe…",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-7683399b8f05",
       "title": "What RAM crisis? OnePlus is beefing up the 15R with more RAM",
       "source": "Android Authority",
@@ -457,26 +437,6 @@ window.phoneRadarAuto = {
       "summary": "But you can't buy it in the US, just yet.",
       "tags": [
         "OPPO",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-3e6efa835ee5",
-      "title": "See the five reasons why the Galaxy Z Fold 8 Ultra should excite you",
-      "source": "SamMobile",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-17",
-      "time": "10:35",
-      "publishedAt": "2026-06-17T10:35:04.000Z",
-      "url": "https://www.sammobile.com/news/see-the-five-reasons-why-the-galaxy-z-fold-8-ultra-should-excite-you/",
-      "image": "",
-      "summary": "Samsung is due to expand its foldable lineup later this year. The company will introduce the Galaxy Z Fold 8 Ultra, a wider iteration of its popular flagship foldable, alongside t…",
-      "tags": [
-        "Samsung",
         "爆料",
         "自动抓取"
       ]
@@ -499,6 +459,26 @@ window.phoneRadarAuto = {
         "iPhone",
         "爆料",
         "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-7fea2c2e0ac4",
+      "title": "JSCHEN小小狐：博主汇总天玑 9600 系列迭代旗舰主摄方案",
+      "source": "JSCHEN小小狐",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-06-17",
+      "time": "08:34",
+      "publishedAt": "2026-06-17T08:34:55.000Z",
+      "url": "https://www.coolapk.com/feed/72389739",
+      "image": "http://image.coolapk.com/feed/2026/0617/16/4702274_8e0e8be6_5294_3912_557@1440x929.jpg",
+      "summary": "『博主汇总天玑 9600 系列迭代旗舰主摄方案』 vivo X500 系列： ◇ 索尼 LYTIA L910 传感器 ◇ 5000 万像素，1/1.28'' 超大底 ◇ LOFIC 技术，动态范围 100dB± OPPO Find X10 系列： ◇ 三星 S5KHPC 传感器 ◇ 2 亿像素，1/1.3''± 超大底 ◇ UFCC 技术，FWC 160K…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "酷安博主"
       ]
     },
     {
