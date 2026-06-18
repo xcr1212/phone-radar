@@ -1,22 +1,42 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-06-18T18:35:48.095Z",
+  "updatedAt": "2026-06-18T22:25:20.603Z",
   "news": [
     {
-      "id": "auto-a9dacdfc28a6",
-      "title": "What makes the Samsung Galaxy S26 Ultra display stand out this year",
-      "source": "SamMobile",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
+      "id": "auto-6e41008c01a3",
+      "title": "New unpatchable exploit targets Apple devices with A12 and A13 chips",
+      "source": "9to5Mac",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
       "type": "爆料",
       "trust": "媒体汇总",
       "date": "2026-06-18",
-      "time": "18:00",
-      "publishedAt": "2026-06-18T18:00:00.000Z",
-      "url": "https://www.sammobile.com/news/what-makes-samsung-galaxy-s26-ultra-display-stand-out/",
+      "time": "21:21",
+      "publishedAt": "2026-06-18T21:21:41.000Z",
+      "url": "https://9to5mac.com/2026/06/18/new-unpatchable-exploit-targets-apple-devices-with-a12-and-a13-chips/",
       "image": "",
-      "summary": "The Samsung Galaxy S26 Ultra has a 6.9-inch Dynamic AMOLED 2X display with a peak brightness of 2600 nits, a 1Hz to 120Hz adaptive refresh rate, and QHD+ resolution at 3120 x 1440…",
+      "summary": "Researchers at Paradigm Shift have published the technical details of usbliter8, a new unpatchable iPhone BootROM vulnerability that enables arbitrary code execution on devices po…",
       "tags": [
-        "Samsung",
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-edd1f2b9a0a6",
+      "title": "Report: iPhone sales rise 10% as global smartphone market declines for ninth straight week",
+      "source": "9to5Mac",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-18",
+      "time": "19:37",
+      "publishedAt": "2026-06-18T19:37:25.000Z",
+      "url": "https://9to5mac.com/2026/06/18/report-iphone-sales-rise-10-as-global-smartphone-market-declines-for-ninth-straight-week/",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/iphone-17-pro-cosmic-orange-front-back.jpg?quality=82&strip=all&w=1600",
+      "summary": "A new report from Counterpoint Research shows that while the smartphone market just had its ninth consecutive week of declining sales, Apple and Huawei saw double-digit increases…",
+      "tags": [
+        "Huawei",
         "爆料",
         "自动抓取"
       ]
@@ -422,6 +442,26 @@ window.phoneRadarAuto = {
       ]
     },
     {
+      "id": "auto-ef6b4992d26d",
+      "title": "June 2026 security update hits the Galaxy Z Flip 6",
+      "source": "SamMobile",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-18",
+      "time": "06:55",
+      "publishedAt": "2026-06-18T06:55:59.000Z",
+      "url": "https://www.sammobile.com/news/galaxy-z-flip-6-june-2026-security-update-korea/",
+      "image": "https://www.sammobile.com/wp-content/uploads/2026/06/Samsung-Galaxy-Z-Flip-6-June-2026-Security-Update-South-Korea.jpg",
+      "summary": "Samsung has released a new software update for the Galaxy Z Flip 6. It brings a new security patch to the foldable phone. Similar updates were also released earlier today for the…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
       "id": "auto-67d46e46d86d",
       "title": "2026 最强智能眼镜发布，但「iPhone 时刻」还没到来",
       "source": "爱范儿",
@@ -562,6 +602,46 @@ window.phoneRadarAuto = {
       ]
     },
     {
+      "id": "newsnow-401143997e7f",
+      "title": "iQOO Z11i 正式亮相，现已开启预约",
+      "source": "酷安热榜",
+      "brand": "vivo",
+      "model": "vivo 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-06-18",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/72402162",
+      "image": "",
+      "summary": "iQOO Z11i 正式亮相，现已开启预约",
+      "tags": [
+        "vivo",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-7ee3d7cd13c8",
+      "title": "#OriginOS6# #HyperOS3# 小米什么时候才能知道，岛是要遮住摄像头，从通知栏贴着手机边框弹出来的。害怕OS这样顶多算个黑底的通知，加了快捷方式那种。",
+      "source": "酷安热榜",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-06-18",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/72406179",
+      "image": "",
+      "summary": "#OriginOS6# #HyperOS3# 小米什么时候才能知道，岛是要遮住摄像头，从通知栏贴着手机边框弹出来的。害怕OS这样顶多算个黑底的通知，加了快捷方式那种。",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
       "id": "newsnow-a4ff4adb0bad",
       "title": "换了一圈手机，",
       "source": "酷安热榜",
@@ -575,66 +655,6 @@ window.phoneRadarAuto = {
       "url": "https://www.coolapk.com/feed/72390788",
       "image": "",
       "summary": "换了一圈手机，",
-      "tags": [
-        "行业",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-ba5d89ac39a6",
-      "title": "iPhone Air2 被曝明年Q1发布：电池大幅提升",
-      "source": "酷安热榜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-06-18",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72402696",
-      "image": "",
-      "summary": "iPhone Air2 被曝明年Q1发布：电池大幅提升",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-db24aa51b754",
-      "title": "各品牌同段位手机对比:",
-      "source": "酷安热榜",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-06-18",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72393015",
-      "image": "",
-      "summary": "各品牌同段位手机对比:",
-      "tags": [
-        "行业",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-7a70f7441738",
-      "title": "有没有和 17pm 差不多的安卓手机。",
-      "source": "酷安热榜",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-06-18",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72387823",
-      "image": "",
-      "summary": "有没有和 17pm 差不多的安卓手机。",
       "tags": [
         "行业",
         "爆料",
@@ -919,26 +939,6 @@ window.phoneRadarAuto = {
         "Samsung",
         "爆料",
         "微博"
-      ]
-    },
-    {
-      "id": "auto-57b9724a5ae6",
-      "title": "HyperOS 4 may not debut on the Xiaomi 18 series first, rather this foldable",
-      "source": "Gizmochina",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-17",
-      "time": "06:29",
-      "publishedAt": "2026-06-17T06:29:01.000Z",
-      "url": "https://www.gizmochina.com/2026/06/17/hyperos-4-may-not-debut-on-the-xiaomi-18-series-first-rather-this-foldable/",
-      "image": "https://www.gizmochina.com/wp-content/uploads/2024/09/Xiaomi-Mix-Fold-4-300x169.png?x44794",
-      "summary": "A new Xiaomi phone has been spotted in network certification records under the model number 2608BPX34C. This is the same model number that has been tied to Xiaomi’s upcoming folda…",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "自动抓取"
       ]
     },
     {

@@ -1,12 +1,12 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-06-18T18:35:48.095Z",
+  "updatedAt": "2026-06-18T22:25:20.603Z",
   "issueDate": "2026-06-18",
   "issue": "VOL.260618",
   "title": "手机情报日报",
-  "intro": "今日筛出 20 条重点，其中 8 条是重点爆料，包含 10 条 iPhone 相关、0 条官方确认、1 条参数线索。",
+  "intro": "今日筛出 21 条重点，其中 8 条是重点爆料，包含 9 条 iPhone 相关、0 条官方确认、1 条参数线索。",
   "stats": {
-    "total": 20,
-    "iphone": 10,
+    "total": 21,
+    "iphone": 9,
     "leaks": 8,
     "official": 0,
     "specs": 1
@@ -66,29 +66,6 @@ window.phoneRadarDaily = {
             "成本 / 价格"
           ],
           "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "newsnow-ba5d89ac39a6",
-          "title": "iPhone Air2 被曝明年Q1发布：电池大幅提升",
-          "originalTitle": "",
-          "source": "酷安热榜",
-          "brand": "iPhone",
-          "type": "爆料",
-          "trust": "高关注爆料源",
-          "date": "2026-06-18",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://www.coolapk.com/feed/72402696",
-          "image": "",
-          "verdict": "先看",
-          "takeaway": "iPhone Air2 被曝明年Q1发布：电池大幅提升",
-          "detail": "iPhone Air2 被曝明年Q1发布：电池大幅提升",
-          "keyPoints": [
-            "电池 / 充电"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
@@ -207,6 +184,29 @@ window.phoneRadarDaily = {
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "weibo-451ff2ab29eb",
+          "title": "数码闲聊站：之前超前瞻过了，天玑9600系阵营迭代新机，你们猜哪个的主摄更强？[并不简单]…",
+          "originalTitle": "",
+          "source": "数码闲聊站",
+          "brand": "Samsung",
+          "type": "爆料",
+          "trust": "高关注爆料源",
+          "date": "2026-06-17",
+          "time": "07:28",
+          "publishedAt": "2026-06-17T07:28:00.000Z",
+          "url": "https://weibo.com/6048569942/R4xriFJhS",
+          "image": "",
+          "verdict": "先看",
+          "takeaway": "之前超前瞻过了，天玑9600系阵营迭代新机，你们猜哪个的主摄更强？[并不简单] 一家压宝索尼LYT-L910，5000万像素+1/1.28\"超大底+LOFIC技术+动态范围100dB± 一家压宝三星HPC，2亿像素+1/1.3\"±超大底+UFCC技术+FWC 160Ke-动态范围96dB±",
+          "detail": "之前超前瞻过了，天玑9600系阵营迭代新机，你们猜哪个的主摄更强？[并不简单] 一家压宝索尼LYT-L910，5000万像素+1/1.28\"超大底+LOFIC技术+动态范围100dB± 一家压宝三星HPC，2亿像素+1/1.3\"±超大底+UFCC技术+FWC 160Ke-动态范围96dB±",
+          "keyPoints": [
+            "爆料来源"
+          ],
+          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         }
       ]
     },
@@ -279,6 +279,36 @@ window.phoneRadarDaily = {
           "detail": "iPhone 17 Pro Max 发布 / 上市相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
           "keyPoints": [
             "外观 / 配色 / 尺寸"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        }
+      ]
+    },
+    {
+      "id": "launch",
+      "title": "新机与官方发布",
+      "hint": "能直接更新到参数库。",
+      "items": [
+        {
+          "id": "auto-c55e384e49e7",
+          "title": "vivo 相关消息",
+          "originalTitle": "",
+          "source": "Gizmochina",
+          "brand": "vivo",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-06-18",
+          "time": "11:52",
+          "publishedAt": "2026-06-18T11:52:12.000Z",
+          "url": "https://www.gizmochina.com/2026/06/18/iqoo-z11i-design-colors-confirmed/",
+          "image": "https://www.gizmochina.com/wp-content/uploads/2026/06/iQOO-Z11i-blue-1-1-300x184.jpg?x44794",
+          "verdict": "可略过",
+          "takeaway": "vivo 相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
+          "detail": "vivo 相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
+          "keyPoints": [
+            "爆料"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
@@ -375,6 +405,52 @@ window.phoneRadarDaily = {
       "hint": "看方向，不急着当购买依据。",
       "items": [
         {
+          "id": "newsnow-7ee3d7cd13c8",
+          "title": "#OriginOS6# #HyperOS3# 小米什么时候才能知道，岛是要遮住摄像头，从通知栏贴着手机边框弹出来的。害怕OS这样顶多算个黑底的通知，加了快捷方式那种。",
+          "originalTitle": "",
+          "source": "酷安热榜",
+          "brand": "Xiaomi",
+          "type": "爆料",
+          "trust": "高关注爆料源",
+          "date": "2026-06-18",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://www.coolapk.com/feed/72406179",
+          "image": "",
+          "verdict": "先看",
+          "takeaway": "#OriginOS6# #HyperOS3# 小米什么时候才能知道，岛是要遮住摄像头，从通知栏贴着手机边框弹出来的。害怕OS这样顶多算个黑底的通知，加了快捷方式那种。",
+          "detail": "#OriginOS6# #HyperOS3# 小米什么时候才能知道，岛是要遮住摄像头，从通知栏贴着手机边框弹出来的。害怕OS这样顶多算个黑底的通知，加了快捷方式那种。",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        },
+        {
+          "id": "newsnow-401143997e7f",
+          "title": "iQOO Z11i 正式亮相，现已开启预约",
+          "originalTitle": "",
+          "source": "酷安热榜",
+          "brand": "vivo",
+          "type": "爆料",
+          "trust": "高关注爆料源",
+          "date": "2026-06-18",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://www.coolapk.com/feed/72402162",
+          "image": "",
+          "verdict": "扫一眼",
+          "takeaway": "iQOO Z11i 正式亮相，现已开启预约",
+          "detail": "iQOO Z11i 正式亮相，现已开启预约",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        },
+        {
           "id": "newsnow-a4ff4adb0bad",
           "title": "换了一圈手机，",
           "originalTitle": "",
@@ -398,73 +474,27 @@ window.phoneRadarDaily = {
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         },
         {
-          "id": "newsnow-db24aa51b754",
-          "title": "各品牌同段位手机对比:",
+          "id": "auto-edd1f2b9a0a6",
+          "title": "Huawei 系统功能 / AI 体验相关消息",
           "originalTitle": "",
-          "source": "酷安热榜",
-          "brand": "行业",
-          "type": "爆料",
-          "trust": "高关注爆料源",
-          "date": "2026-06-18",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://www.coolapk.com/feed/72393015",
-          "image": "",
-          "verdict": "扫一眼",
-          "takeaway": "各品牌同段位手机对比:",
-          "detail": "各品牌同段位手机对比:",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
-        {
-          "id": "newsnow-7a70f7441738",
-          "title": "有没有和 17pm 差不多的安卓手机。",
-          "originalTitle": "",
-          "source": "酷安热榜",
-          "brand": "行业",
-          "type": "爆料",
-          "trust": "高关注爆料源",
-          "date": "2026-06-18",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://www.coolapk.com/feed/72387823",
-          "image": "",
-          "verdict": "扫一眼",
-          "takeaway": "有没有和 17pm 差不多的安卓手机。",
-          "detail": "有没有和 17pm 差不多的安卓手机。",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
-        {
-          "id": "auto-a9dacdfc28a6",
-          "title": "Galaxy S26 Ultra 屏幕规格相关消息",
-          "originalTitle": "",
-          "source": "SamMobile",
-          "brand": "Samsung",
+          "source": "9to5Mac",
+          "brand": "Huawei",
           "type": "爆料",
           "trust": "媒体汇总",
           "date": "2026-06-18",
-          "time": "18:00",
-          "publishedAt": "2026-06-18T18:00:00.000Z",
-          "url": "https://www.sammobile.com/news/what-makes-samsung-galaxy-s26-ultra-display-stand-out/",
-          "image": "",
+          "time": "19:37",
+          "publishedAt": "2026-06-18T19:37:25.000Z",
+          "url": "https://9to5mac.com/2026/06/18/report-iphone-sales-rise-10-as-global-smartphone-market-declines-for-ninth-straight-week/",
+          "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/iphone-17-pro-cosmic-orange-front-back.jpg?quality=82&strip=all&w=1600",
           "verdict": "可略过",
-          "takeaway": "Galaxy S26 Ultra 屏幕规格相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
-          "detail": "Galaxy S26 Ultra 屏幕规格相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
+          "takeaway": "Huawei 有系统功能或 AI 体验更新，适合关注后续是否影响日常使用。",
+          "detail": "Huawei 系统功能 / AI 体验相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
           "keyPoints": [
-            "屏幕形态"
+            "爆料"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "影响手感和显示体验，适合和其他机型对比。",
-          "action": "有具体参数就记录到参数库；没有参数就先收藏。"
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         },
         {
           "id": "auto-290bcadcd969",
