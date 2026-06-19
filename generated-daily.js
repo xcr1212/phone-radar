@@ -1,5 +1,5 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-06-19T18:06:16.371Z",
+  "updatedAt": "2026-06-19T20:02:57.331Z",
   "issueDate": "2026-06-19",
   "issue": "VOL.260619",
   "title": "手机情报日报",
@@ -236,6 +236,29 @@ window.phoneRadarDaily = {
           "action": "中文源可以直接点开快读；看完只保留和购机有关的点。"
         },
         {
+          "id": "auto-009b13f7af8c",
+          "title": "iPhone 相关消息",
+          "originalTitle": "",
+          "source": "9to5Mac",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-06-19",
+          "time": "19:51",
+          "publishedAt": "2026-06-19T19:51:38.000Z",
+          "url": "https://9to5mac.com/2026/06/19/iphone-parts-factory-in-india-faces-new-health-probe-over-alleged-water-contamination/",
+          "image": "https://9to5mac.com/wp-content/uploads/sites/6/2023/03/apple-india.jpg?quality=82&strip=all&w=1600",
+          "verdict": "扫一眼",
+          "takeaway": "iPhone 相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
+          "detail": "iPhone 相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        },
+        {
           "id": "auto-b37be0b3ae65",
           "title": "iPhone 电池 / 充电相关消息",
           "originalTitle": "",
@@ -253,29 +276,6 @@ window.phoneRadarDaily = {
           "detail": "iPhone 电池 / 充电相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
           "keyPoints": [
             "电池 / 充电"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
-        {
-          "id": "auto-4c3de007afbd",
-          "title": "iPhone 相关消息",
-          "originalTitle": "",
-          "source": "9to5Mac",
-          "brand": "iPhone",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-06-19",
-          "time": "14:19",
-          "publishedAt": "2026-06-19T14:19:30.000Z",
-          "url": "https://9to5mac.com/2026/06/19/iphone-18-pro-six-new-features-are-coming-this-fall/",
-          "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/05/iphone-17-pro-silver-centered.jpg?quality=82&strip=all&w=1600",
-          "verdict": "扫一眼",
-          "takeaway": "iPhone 相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
-          "detail": "iPhone 相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
-          "keyPoints": [
-            "爆料"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
@@ -388,29 +388,6 @@ window.phoneRadarDaily = {
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         },
         {
-          "id": "newsnow-cd1090eca5d5",
-          "title": "理解不了，这个手机性价比这么低，一个个跟发了疯似的，不是之前3100，都无人问津。",
-          "originalTitle": "",
-          "source": "酷安热榜",
-          "brand": "行业",
-          "type": "爆料",
-          "trust": "高关注爆料源",
-          "date": "2026-06-19",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://www.coolapk.com/feed/72420165",
-          "image": "",
-          "verdict": "扫一眼",
-          "takeaway": "理解不了，这个手机性价比这么低，一个个跟发了疯似的，不是之前3100，都无人问津。",
-          "detail": "理解不了，这个手机性价比这么低，一个个跟发了疯似的，不是之前3100，都无人问津。",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
-        {
           "id": "coolapk-user-e289d9d96b67",
           "title": "竹本青：【华为Pura X Max 最新销量曝光：全系超41万台，典藏版近23.4万台】 华为 Pura X Max： 截…",
           "originalTitle": "",
@@ -426,6 +403,29 @@ window.phoneRadarDaily = {
           "verdict": "扫一眼",
           "takeaway": "【华为Pura X Max 最新销量曝光：全系超41万台，典藏版近23.4万台】 华为 Pura X Max： 截至2026 W23 —— 约18.1万 截至2026 W21 —— 约14.52万 截至2026 W19 —— 约11.27万 华为 Pura X Max典藏版： 截至2026 W23 —— 约23.38万 截至2026 W21 —— 约19.…",
           "detail": "【华为Pura X Max 最新销量曝光：全系超41万台，典藏版近23.4万台】 华为 Pura X Max： 截至2026 W23 —— 约18.1万 截至2026 W21 —— 约14.52万 截至2026 W19 —— 约11.27万 华为 Pura X Max典藏版： 截至2026 W23 —— 约23.38万 截至2026 W21 —— 约19.…",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "可信度较高，但仍属于发布前线索。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        },
+        {
+          "id": "coolapk-user-f70d93b10970",
+          "title": "竹本青：小米 17T系列首销三天销量曝光：全系超70000台",
+          "originalTitle": "",
+          "source": "竹本青",
+          "brand": "Xiaomi",
+          "type": "爆料",
+          "trust": "高可信爆料",
+          "date": "2026-06-19",
+          "time": "02:18",
+          "publishedAt": "2026-06-19T02:18:37.000Z",
+          "url": "https://www.coolapk.com/feed/72420469",
+          "image": "http://image.coolapk.com/feed/2026/0619/10/4248714_2b3989c5_5516_336_142@1438x726.jpg",
+          "verdict": "扫一眼",
+          "takeaway": "【小米 17T系列 首销三天销量曝光：全系超70000台】 博主「RD观测」昨日分享第三方统计小米 17T系列的首销情况，以首销三天（首销当日+接下来三天）为标准，市场表现如下： ▫️系列总销量超过70K ▫️17T 内占约60%，17T Pro内占约40% #小米17TPro# #HyperOS3# #今日热点#",
+          "detail": "【小米 17T系列 首销三天销量曝光：全系超70000台】 博主「RD观测」昨日分享第三方统计小米 17T系列的首销情况，以首销三天（首销当日+接下来三天）为标准，市场表现如下： ▫️系列总销量超过70K ▫️17T 内占约60%，17T Pro内占约40% #小米17TPro# #HyperOS3# #今日热点#",
           "keyPoints": [
             "爆料"
           ],
