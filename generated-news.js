@@ -1,24 +1,204 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-06-19T05:24:05.044Z",
+  "updatedAt": "2026-06-19T10:56:56.104Z",
   "news": [
     {
-      "id": "coolapk-user-f70d93b10970",
-      "title": "竹本青：小米 17T系列首销三天销量曝光：全系超70000台",
-      "source": "竹本青",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
+      "id": "auto-0a30d6ea0b68",
+      "title": "Your aging iPhone might be vulnerable to a flaw Apple can’t patch",
+      "source": "Android Authority",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
       "type": "爆料",
-      "trust": "高可信爆料",
+      "trust": "媒体汇总",
       "date": "2026-06-19",
-      "time": "02:18",
-      "publishedAt": "2026-06-19T02:18:37.000Z",
-      "url": "https://www.coolapk.com/feed/72420469",
-      "image": "http://image.coolapk.com/feed/2026/0619/10/4248714_2b3989c5_5516_336_142@1438x726.jpg",
-      "summary": "【小米 17T系列 首销三天销量曝光：全系超70000台】 博主「RD观测」昨日分享第三方统计小米 17T系列的首销情况，以首销三天（首销当日+接下来三天）为标准，市场表现如下： ▫️系列总销量超过70K ▫️17T 内占约60%，17T Pro内占约40% #小米17TPro# #HyperOS3# #今日热点#",
+      "time": "10:23",
+      "publishedAt": "2026-06-19T10:23:57.000Z",
+      "url": "https://www.androidauthority.com/iphone-usbliter8-exploit-3679320/",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2019/09/iPhone-11-Pro-Max-Rear-in-Hand-e1569854606506.jpg",
+      "summary": "Forget software updates: this iPhone bug is permanent.",
       "tags": [
-        "Xiaomi",
+        "iPhone",
         "爆料",
-        "酷安博主"
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-d47c62c9eb32",
+      "title": "Rising costs could force Samsung to keep things mild for the Galaxy S27 next year",
+      "source": "Android Central",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-06-19",
+      "time": "09:47",
+      "publishedAt": "2026-06-19T09:47:00.000Z",
+      "url": "https://www.androidcentral.com/phones/samsung-galaxy/rising-costs-could-force-samsung-to-keep-things-mild-for-the-galaxy-s27-next-year",
+      "image": "https://cdn.mos.cms.futurecdn.net/Xrm3wmAMUjL38yuq2yr6TE-1280-80.jpg",
+      "summary": "Base Galaxy S27 rumors suggested Samsung could hold back on upgrades to avoid \"rising costs.\"",
+      "tags": [
+        "Samsung",
+        "评测",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-1e3d50dac0eb",
+      "title": "This all-new OnePlus phone could deliver three days of battery life",
+      "source": "Android Authority",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-19",
+      "time": "09:28",
+      "publishedAt": "2026-06-19T09:28:49.000Z",
+      "url": "https://www.androidauthority.com/this-all-new-oneplus-phone-could-deliver-three-days-of-battery-life-3679286/",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2026/06/OnePlus-N6-official-image.jpg",
+      "summary": "OnePlus also says the battery should last for seven years before dropping to 80% effective capacity.",
+      "tags": [
+        "OPPO",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-9a49bc576df7",
+      "title": "苹果“20 周年版 iPhone”A21 Pro 被曝独享台积电 N2P 制程，标准版 A21 延续 N2 工艺",
+      "source": "IT之家",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-19",
+      "time": "09:14",
+      "publishedAt": "2026-06-19T09:14:47.000Z",
+      "url": "https://www.ithome.com/0/966/368.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/6/4db7b03a-79af-440c-bb1a-cbc851e1c123.jpg?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 6 月 19 日消息，台积电 2nm 工艺（N2）已如期于 2025 年第四季度实现量产，预计今年下半年还将推出优化版的 N2P 制程。 据中国台湾《工商时报》今日报道，台积电 N2P 今年将率先被高通和联发科采用，两家公司希望借此在今年晚些时候的新品上抢占相对于苹果的技术优势。 苹果预计会在 2027 年的 A21 Pro 芯片上导入 N2P…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-ebd1642f829b",
+      "title": "While Galaxy S26 Edge was cancelled, Apple marches on with iPhone Air 2",
+      "source": "SamMobile",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-19",
+      "time": "08:10",
+      "publishedAt": "2026-06-19T08:10:29.000Z",
+      "url": "https://www.sammobile.com/news/while-galaxy-s26-edge-cancelled-apple-iphone-air-2-plans/",
+      "image": "",
+      "summary": "After the Galaxy S25 Edge reportedly recorded disappointing sales, Samsung canceled the Galaxy S26 Edge and replaced it with the Galaxy S26+. Next year, Samsung also appears to ha…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-761df9840420",
+      "title": "iPhone price hike: Tim Cook says the “situation has become unsustainable”",
+      "source": "Gizmochina",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-19",
+      "time": "07:45",
+      "publishedAt": "2026-06-19T07:45:39.000Z",
+      "url": "https://www.gizmochina.com/2026/06/19/iphone-price-hike-tim-cook-says-the-situation-has-become-unsustainable/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2025/10/iPhone-17-Pro-300x169.jpg?x44794",
+      "summary": "Apple is feeling the heat from skyrocketing costs for key components, and it looks like iPhone users might finally see some price hikes after years of the company trying to avoid…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-ea6ef1744965",
+      "title": "Huawei Mate XT 2 tri-fold could launch before iPhone 18, again?",
+      "source": "Huawei Central",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-19",
+      "time": "07:03",
+      "publishedAt": "2026-06-19T07:03:05.000Z",
+      "url": "https://www.huaweicentral.com/huawei-mate-xt-2-tri-fold-could-launch-before-iphone-18-again/",
+      "image": "https://www.huaweicentral.com/wp-content/uploads/2026/06/MateXT2-launch-leak.jpg",
+      "summary": "Huawei Mate XT 2 tri-fold can once again launch ahead of Apple’s new iPhone lineup. A new piece of information says that the Chinese OEM could unveil its next-gen triple foldable…",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-e992eb73e3a9",
+      "title": "江苏发放手机消费专项补贴：6000 元以上也补 10%，最高 1000 元",
+      "source": "IT之家",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-19",
+      "time": "06:51",
+      "publishedAt": "2026-06-19T06:51:18.000Z",
+      "url": "https://www.ithome.com/0/966/347.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/6/d500db40-8ba4-4421-8041-6f89320ec6a4.jpg?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 6 月 19 日消息，为持续提振大宗消费、抢抓暑期消费窗口期，江苏省商务厅于 6 月 18 日正式发布通告，启动“苏新消费 · 品质数码”专项促消费活动。 根据活动安排，本次补贴自 2026 年 6 月 18 日 18 时正式投放，补贴资金总量有限，实行先到先得、用完即止机制。 个人消费者在江苏省内参与活动的线上平台或线下实体商户，购买单件最终销…",
+      "tags": [
+        "行业",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-ee1844cbba3d",
+      "title": "消息称荣耀正密集起诉多家手机壳电商商标侵权，或涉及超 400 家公司",
+      "source": "IT之家",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-19",
+      "time": "06:45",
+      "publishedAt": "2026-06-19T06:45:16.000Z",
+      "url": "https://www.ithome.com/0/966/346.htm",
+      "image": "",
+      "summary": "IT之家 6 月 19 日消息，据财闻今日报道，日前，荣耀正密集起诉多家手机壳电商，理由为商标侵权，本次荣耀起诉力度较大，或涉及超 400 家手机壳电商公司。 报道提到，具体来看，荣耀认为这些手机壳厂商在商品的标题中和介绍页面 大量使用“荣耀”二字或“Honor”标识 ，而这两个词是荣耀的注册商标，因此商家行为属于“品牌攀附”，侵犯了荣耀的商标权。 一位深…",
+      "tags": [
+        "HONOR",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-8d8377a24ebd",
+      "title": "Honor 600 Smart introduced with 7700mAh battery, 6.87′ big screen",
+      "source": "Huawei Central",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-19",
+      "time": "05:23",
+      "publishedAt": "2026-06-19T05:23:32.000Z",
+      "url": "https://www.huaweicentral.com/honor-600-smart-introduced-with-7700mah-battery/",
+      "image": "https://www.huaweicentral.com/wp-content/uploads/2026/06/Honor600Smart2.jpg",
+      "summary": "Honor has listed another interesting device – 600 Smart on its official global website with a massive 7700mAh battery and a large screen. The company has silently launched the han…",
+      "tags": [
+        "HONOR",
+        "爆料",
+        "自动抓取"
       ]
     },
     {
@@ -57,26 +237,6 @@ window.phoneRadarAuto = {
       "summary": "IT之家 6 月 19 日消息，科技媒体 digitalcitizen 昨日（6 月 18 日）发布博文，分享了一组三星 Galaxy A27 5G 手机的渲染图， 展示了海军蓝、石墨黑和柔粉色三种配色。 外观方面，手机边框与背板颜色统一，侧边圆润；背面相机模组采用竖向排列，三颗摄像头被一个药丸状的凸起区域包裹，右侧设有一颗 LED 闪光灯。 正面是一块平…",
       "tags": [
         "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-34967d4b1179",
-      "title": "iQOO Z11i 手机配色公布：青峰、沙漠金、墨影，下月发售",
-      "source": "IT之家",
-      "brand": "vivo",
-      "model": "vivo 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-19",
-      "time": "00:55",
-      "publishedAt": "2026-06-19T00:55:32.000Z",
-      "url": "https://www.ithome.com/0/966/301.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/6/c5eba344-9f95-4396-8d43-b9e82d0565e0.png?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 6 月 19 日消息， iQOO Z11 i 手机将于下月发售，官方昨日已公布这款新机的三款配色，分别为青峰、沙漠金、墨影。 青峰丨从青山云海奔涌而出的寒光。 沙漠金丨自大漠落日漫洒而来的万顷鎏光。 墨影丨由静夜深岩凝铸而成的深邃幽光。 从图上可以看到，这款新机背面采用双摄设计，但目前关于该机的具体规格暂不知悉。另参考商品图，该机正面采用 水滴屏…",
-      "tags": [
-        "vivo",
         "爆料",
         "自动抓取"
       ]
@@ -122,83 +282,23 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-f49393c53195",
-      "title": "iQOO Z11i 正式亮相，现已开启预约",
+      "id": "newsnow-b29f26b0e900",
+      "title": "用了半年的一加15边框严重掉漆，客服解决不了问题，踢皮球@一加手机社区 @一加手机社区 @一加服务",
       "source": "酷安热榜",
-      "brand": "vivo",
-      "model": "vivo 相关机型",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-06-19",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72402162",
+      "url": "https://www.coolapk.com/feed/72404986",
       "image": "",
-      "summary": "iQOO Z11i 正式亮相，现已开启预约",
+      "summary": "用了半年的一加15边框严重掉漆，客服解决不了问题，踢皮球@一加手机社区 @一加手机社区 @一加服务",
       "tags": [
-        "vivo",
+        "OPPO",
         "爆料",
         "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-6d2e82192ac7",
-      "title": "孩子烧光几十万手机爸爸问开不开心",
-      "source": "微博热搜",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "待验证",
-      "date": "2026-06-19",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://s.weibo.com/weibo?q=%23%E5%AD%A9%E5%AD%90%E7%83%A7%E5%85%89%E5%87%A0%E5%8D%81%E4%B8%87%E6%89%8B%E6%9C%BA%E7%88%B8%E7%88%B8%E9%97%AE%E5%BC%80%E4%B8%8D%E5%BC%80%E5%BF%83%23&t=31&band_rank=5&Refer=top",
-      "image": "",
-      "summary": "孩子烧光几十万手机爸爸问开不开心",
-      "tags": [
-        "行业",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-2b7bd0998afd",
-      "title": "孩子烧光几十万手机爸爸问开不开心",
-      "source": "百度热搜",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-19",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.baidu.com/s?wd=%E5%AD%A9%E5%AD%90%E7%83%A7%E5%85%89%E5%87%A0%E5%8D%81%E4%B8%87%E6%89%8B%E6%9C%BA%E7%88%B8%E7%88%B8%E9%97%AE%E5%BC%80%E4%B8%8D%E5%BC%80%E5%BF%83",
-      "image": "",
-      "summary": "孩子烧光几十万手机爸爸问开不开心",
-      "tags": [
-        "行业",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "auto-c5fe7a467ba9",
-      "title": "无法软件修复：苹果 A12/A13 芯片曝新漏洞，影响 iPhone 11 系列等",
-      "source": "IT之家",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-18",
-      "time": "23:04",
-      "publishedAt": "2026-06-18T23:04:34.000Z",
-      "url": "https://www.ithome.com/0/966/288.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/6/9b10efe6-d6fe-4433-b814-e959dbaf7f40.png?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 6 月 19 日消息，安全公司 Paradigm Shift 昨日（6 月 18 日）发布博文，宣布在苹果 A12 和 A13 芯片上发现 BootROM 漏洞， 将其命名为 usbliter8。 在受影响机型方面，该漏洞影响搭载 A12 和 A13 芯片的设备，涵盖 iPhone XS、iPhone XS Max、iPhone XR 和 iPh…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
       ]
     },
     {
@@ -317,26 +417,6 @@ window.phoneRadarAuto = {
       "summary": "iPhone 18 Pro and Pro Max are expected to have largely the same dimensions as their predecessors, except in one key area: the camera plateau. Here’s why iPhone 18 Pro’s camera bum…",
       "tags": [
         "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-1dd78b9dc75e",
-      "title": "三星确认 Exynos 2700 芯片正在研发中，下一代旗舰智能手机率先采用",
-      "source": "IT之家",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-18",
-      "time": "14:52",
-      "publishedAt": "2026-06-18T14:52:35.000Z",
-      "url": "https://www.ithome.com/0/966/271.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/6/1c03fc88-5e9e-4008-ad92-abb83d08eda2.jpg?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 6 月 18 日消息，据《韩国经济日报》报道，三星电子半导体 LSI 事业部总裁 Park Yong-in 今日表示，尽管公司今年第一季度取得创纪录营收，但受制于市场环境变化与需求疲软，全年亏损已无可避免。 IT之家从原报道获悉，三星正在积极进军全新领域，包括大规模图像传感器订单项目、定制化芯片业务等，让未来营收更加丰富。 这名总裁还提到，三星正…",
-      "tags": [
-        "Samsung",
         "爆料",
         "自动抓取"
       ]
@@ -482,26 +562,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-5968d4ece784",
-      "title": "Samsung confirms Exynos 2700, strongly hints at Galaxy S27 use",
-      "source": "SamMobile",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-18",
-      "time": "11:32",
-      "publishedAt": "2026-06-18T11:32:49.000Z",
-      "url": "https://www.sammobile.com/news/samsung-confirms-exynos-2700-strongly-hints-at-galaxy-s27-use/",
-      "image": "",
-      "summary": "Samsung is expected to use either the in-house developed Exynos 2700 or the Qualcomm Snapdragon 8 Elite Gen 6 Pro for Galaxy chipset in its next flagship non-foldable smartphone l…",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-893cc49f9cce",
       "title": "Oppo Reno 16 series launch date officially revealed, official renders, variants confirmed",
       "source": "Gizmochina",
@@ -542,26 +602,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "weibo-373f543796b6",
-      "title": "数码闲聊站：尬聊一下，7英寸超大屏全能旗舰机想要吗？[doge]",
-      "source": "数码闲聊站",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-06-18",
-      "time": "09:41",
-      "publishedAt": "2026-06-18T09:41:33.000Z",
-      "url": "https://weibo.com/6048569942/R4HK0spFg",
-      "image": "",
-      "summary": "尬聊一下，7英寸超大屏全能旗舰机想要吗？[doge]",
-      "tags": [
-        "行业",
-        "爆料",
-        "微博"
-      ]
-    },
-    {
       "id": "auto-7d0870d44e00",
       "title": "12 Reasons to Wait for the iPhone 18 Pro",
       "source": "MacRumors",
@@ -577,26 +617,6 @@ window.phoneRadarAuto = {
       "summary": "We're only three months out from the launch of Apple's premium next-generation smartphone lineup, and while we're not expecting a sea change in terms of functionality, there are s…",
       "tags": [
         "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-1302ae50c1b9",
-      "title": "Base Galaxy S27 may disappoint with no major display or camera upgrades",
-      "source": "SamMobile",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-18",
-      "time": "07:21",
-      "publishedAt": "2026-06-18T07:21:55.000Z",
-      "url": "https://www.sammobile.com/news/base-galaxy-s27-may-disappoint-no-major-display-camera-upgrades/",
-      "image": "",
-      "summary": "For the past few years, Samsung has launched the base model in each new Galaxy S lineup with only minor upgrades over its predecessor. Unfortunately, the same could be true for th…",
-      "tags": [
-        "Samsung",
         "爆料",
         "自动抓取"
       ]
@@ -642,26 +662,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-ef6b4992d26d",
-      "title": "June 2026 security update hits the Galaxy Z Flip 6",
-      "source": "SamMobile",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-18",
-      "time": "06:55",
-      "publishedAt": "2026-06-18T06:55:59.000Z",
-      "url": "https://www.sammobile.com/news/galaxy-z-flip-6-june-2026-security-update-korea/",
-      "image": "https://www.sammobile.com/wp-content/uploads/2026/06/Samsung-Galaxy-Z-Flip-6-June-2026-Security-Update-South-Korea.jpg",
-      "summary": "Samsung has released a new software update for the Galaxy Z Flip 6. It brings a new security patch to the foldable phone. Similar updates were also released earlier today for the…",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-67d46e46d86d",
       "title": "2026 最强智能眼镜发布，但「iPhone 时刻」还没到来",
       "source": "爱范儿",
@@ -678,26 +678,6 @@ window.phoneRadarAuto = {
       "tags": [
         "iPhone",
         "评测",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-f142321b15ff",
-      "title": "After Huawei, Apple to hike product prices due to memory cost boom",
-      "source": "Huawei Central",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-18",
-      "time": "04:54",
-      "publishedAt": "2026-06-18T04:54:27.000Z",
-      "url": "https://www.huaweicentral.com/apple-to-hike-product-prices-due-to-memory-cost-boom/",
-      "image": "https://www.huaweicentral.com/wp-content/uploads/2026/03/iPhone-18-Pro-models.jpg",
-      "summary": "Apple is on the verge of increasing its product prices due to the longstanding memory cost problems. While the iPhone maker was not expected to face the issue this early, it seems…",
-      "tags": [
-        "Huawei",
-        "爆料",
         "自动抓取"
       ]
     },
@@ -719,46 +699,6 @@ window.phoneRadarAuto = {
         "iPhone",
         "爆料",
         "自动抓取"
-      ]
-    },
-    {
-      "id": "weibo-534847049366",
-      "title": "数码闲聊站：去年11月说过iPhone Air2正常迭代中，ID变化不大，测试48Mp双摄…",
-      "source": "数码闲聊站",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-06-18",
-      "time": "02:31",
-      "publishedAt": "2026-06-18T02:31:00.000Z",
-      "url": "https://weibo.com/6048569942/R4EVfnove",
-      "image": "https://tvax2.sinaimg.cn/mw2000/006BlblIgy1ie969kx763j30xv0xm12b.jpg",
-      "summary": "去年11月说过iPhone Air2正常迭代中，ID变化不大，测试48Mp双摄影像，2nm A20系列芯片，电池听说会有大幅提升，排期调整至2027Q1 那么问题来了，改善了续航问题+增强影像以后，你们会考虑超薄iPhone Air吗？[吃瓜]",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "微博"
-      ]
-    },
-    {
-      "id": "weibo-74bd8a94c760",
-      "title": "数码闲聊站：iPhone 18 Pro系列上了48Mp超大底可变光圈、2nm芯片、高速内存…",
-      "source": "数码闲聊站",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-06-18",
-      "time": "01:07",
-      "publishedAt": "2026-06-18T01:07:45.000Z",
-      "url": "https://weibo.com/6048569942/R4EnseuYx",
-      "image": "https://tvax1.sinaimg.cn/mw2000/006BlblIgy1ie96lutgitj30xu0goq8r.jpg",
-      "summary": "iPhone 18 Pro系列上了48Mp超大底可变光圈、2nm芯片、高速内存、大电池，理论上会涨价。 库克最近在接受采访时承认，受内存供应持续紧张和成本上涨影响，苹果产品涨价已不可避免；外媒估算，如果苹果选择保持现有利润，Pro可能需要涨价约270刀，折合人民币约1820[淡淡的]",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "微博"
       ]
     },
     {
