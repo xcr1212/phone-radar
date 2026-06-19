@@ -1,6 +1,66 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-06-19T15:42:49.667Z",
+  "updatedAt": "2026-06-19T18:06:16.371Z",
   "news": [
+    {
+      "id": "auto-569019fdfcf3",
+      "title": "Samsung confirms Exynos 2700 development, eyes Galaxy S27 series",
+      "source": "Gizmochina",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-19",
+      "time": "16:17",
+      "publishedAt": "2026-06-19T16:17:28.000Z",
+      "url": "https://www.gizmochina.com/2026/06/19/samsung-confirms-exynos-2700-development-eyes-galaxy-s27-series/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/06/Exynos-2700-2-300x169.jpg?x44794",
+      "summary": "Samsung is apparently making solid progress on its next in-house flagship chipset. According to reports, the company is getting serious about using more Exynos processors in its p…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-94ad57c09e69",
+      "title": "Motorola Edge 70 Pro vs Google Pixel 10a: The Winner Is Surprisingly Cheaper",
+      "source": "Gizmochina",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-19",
+      "time": "15:56",
+      "publishedAt": "2026-06-19T15:56:14.000Z",
+      "url": "https://www.gizmochina.com/2026/06/19/motorola-edge-70-pro-vs-google-pixel-10a/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/06/image-100-300x164.png?x44794",
+      "summary": "Motorola Edge 70 Pro and Google Pixel 10a target buyers looking for a premium smartphone experience without stepping into flagship pricing. While Motorola focuses on high-end hard…",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-3680f922d4a3",
+      "title": "Samsung can avoid cheapening the Galaxy S27 with BOE panels, but it may not want to",
+      "source": "SamMobile",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-19",
+      "time": "15:44",
+      "publishedAt": "2026-06-19T15:44:57.000Z",
+      "url": "https://www.sammobile.com/news/samsung-can-avoid-cheapening-the-galaxy-s27-with-boe-panels-but-it-may-not-want-to/",
+      "image": "",
+      "summary": "Samsung's mid-range and entry-level phones haven't been immune to the company's cost-cutting endeavors. The company has taken significant steps to cut down on costs and improve ma…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-5a619f350999",
       "title": "Samsung Galaxy A27 vs Redmi 15: Is Samsung Really Worth Paying More For?",
@@ -223,7 +283,7 @@ window.phoneRadarAuto = {
     },
     {
       "id": "auto-9a49bc576df7",
-      "title": "苹果“20 周年版 iPhone”A21 Pro 被曝独享台积电 N2P 制程，标准版 A21 延续 N2 工艺",
+      "title": "“20 周年版 iPhone”A21 Pro 被曝独享台积电 N2P 制程，苹果与 Marvell 预计将成为 A14 首批客户",
       "source": "IT之家",
       "brand": "iPhone",
       "model": "iPhone 相关机型",
@@ -233,7 +293,7 @@ window.phoneRadarAuto = {
       "time": "09:14",
       "publishedAt": "2026-06-19T09:14:47.000Z",
       "url": "https://www.ithome.com/0/966/368.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/6/4db7b03a-79af-440c-bb1a-cbc851e1c123.jpg?x-bce-process=image/format,f_auto",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/6/4db7b03a-79af-440c-bb1a-cbc851e1c123.jpg",
       "summary": "IT之家 6 月 19 日消息，台积电 2nm 工艺（N2）已如期于 2025 年第四季度实现量产，预计今年下半年还将推出优化版的 N2P 制程。 据中国台湾《工商时报》今日报道，台积电 N2P 今年将率先被高通和联发科采用，两家公司希望借此在今年晚些时候的新品上抢占相对于苹果的技术优势。 苹果预计会在 2027 年的 A21 Pro 芯片上导入 N2P…",
       "tags": [
         "iPhone",
@@ -422,62 +482,22 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-b29f26b0e900",
-      "title": "用了半年的一加15边框严重掉漆，客服解决不了问题，踢皮球@一加手机社区 @一加手机社区 @一加服务",
-      "source": "酷安热榜",
-      "brand": "OPPO",
-      "model": "OPPO 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-06-19",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72404986",
-      "image": "",
-      "summary": "用了半年的一加15边框严重掉漆，客服解决不了问题，踢皮球@一加手机社区 @一加手机社区 @一加服务",
-      "tags": [
-        "OPPO",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-7892622c42b9",
-      "title": "20周年版iPhone被曝独享台积电制程",
+      "id": "newsnow-85dd4da1213e",
+      "title": "特朗普移动首款手机竟是中国制造",
       "source": "微博热搜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
+      "brand": "行业",
+      "model": "智能手机市场",
       "type": "爆料",
       "trust": "待验证",
       "date": "2026-06-19",
       "time": "",
       "publishedAt": "",
-      "url": "https://s.weibo.com/weibo?q=%2320%E5%91%A8%E5%B9%B4%E7%89%88iPhone%E8%A2%AB%E6%9B%9D%E7%8B%AC%E4%BA%AB%E5%8F%B0%E7%A7%AF%E7%94%B5%E5%88%B6%E7%A8%8B%23&t=31&band_rank=28&Refer=top",
+      "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%BB%E5%8A%A8%E9%A6%96%E6%AC%BE%E6%89%8B%E6%9C%BA%E7%AB%9F%E6%98%AF%E4%B8%AD%E5%9B%BD%E5%88%B6%E9%80%A0%23&t=31&band_rank=30&Refer=top",
       "image": "",
-      "summary": "20周年版iPhone被曝独享台积电制程",
+      "summary": "特朗普移动首款手机竟是中国制造",
       "tags": [
-        "iPhone",
+        "行业",
         "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-c6441f01535d",
-      "title": "库克称苹果将涨价，网传 iPhone 18 Pro 涨 270 美元，价格上涨有哪些原因？你还会买吗？",
-      "source": "知乎热榜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "市场报告",
-      "trust": "媒体汇总",
-      "date": "2026-06-19",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.zhihu.com/question/2050884243694118342",
-      "image": "",
-      "summary": "库克称苹果将涨价，网传 iPhone 18 Pro 涨 270 美元，价格上涨有哪些原因？你还会买吗？",
-      "tags": [
-        "iPhone",
-        "市场报告",
         "NewsNow"
       ]
     },

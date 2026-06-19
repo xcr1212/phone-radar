@@ -1,12 +1,12 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-06-19T15:42:49.667Z",
+  "updatedAt": "2026-06-19T18:06:16.371Z",
   "issueDate": "2026-06-19",
   "issue": "VOL.260619",
   "title": "手机情报日报",
-  "intro": "今日筛出 21 条重点，其中 8 条是重点爆料，包含 11 条 iPhone 相关、0 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 19 条重点，其中 8 条是重点爆料，包含 9 条 iPhone 相关、0 条官方确认、0 条参数线索。",
   "stats": {
-    "total": 21,
-    "iphone": 11,
+    "total": 19,
+    "iphone": 9,
     "leaks": 8,
     "official": 0,
     "specs": 0
@@ -19,7 +19,7 @@ window.phoneRadarDaily = {
       "items": [
         {
           "id": "auto-9a49bc576df7",
-          "title": "苹果“20 周年版 iPhone”A21 Pro 被曝独享台积电 N2P 制程，标准版 A21 延续 N2 工艺",
+          "title": "“20 周年版 iPhone”A21 Pro 被曝独享台积电 N2P 制程，苹果与 Marvell 预计将成为 A14 首批客户",
           "originalTitle": "",
           "source": "IT之家",
           "brand": "iPhone",
@@ -29,7 +29,7 @@ window.phoneRadarDaily = {
           "time": "09:14",
           "publishedAt": "2026-06-19T09:14:47.000Z",
           "url": "https://www.ithome.com/0/966/368.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/6/4db7b03a-79af-440c-bb1a-cbc851e1c123.jpg?x-bce-process=image/format,f_auto",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/6/4db7b03a-79af-440c-bb1a-cbc851e1c123.jpg",
           "verdict": "先看",
           "takeaway": "IT之家 6 月 19 日消息，台积电 2nm 工艺（N2）已如期于 2025 年第四季度实现量产，预计今年下半年还将推出优化版的 N2P 制程。 据中国台湾《工商时报》今日报道，台积电 N2P 今年将率先被高通和联发科采用，两家公司希望借此在今年晚些时候的新品上抢占相对于苹果的技术优势。 苹果预计会在 2027 年的 A21 Pro 芯片上导入 N2P…",
           "detail": "IT之家 6 月 19 日消息，台积电 2nm 工艺（N2）已如期于 2025 年第四季度实现量产，预计今年下半年还将推出优化版的 N2P 制程。 据中国台湾《工商时报》今日报道，台积电 N2P 今年将率先被高通和联发科采用，两家公司希望借此在今年晚些时候的新品上抢占相对于苹果的技术优势。 苹果预计会在 2027 年的 A21 Pro 芯片上导入 N2P…",
@@ -236,29 +236,6 @@ window.phoneRadarDaily = {
           "action": "中文源可以直接点开快读；看完只保留和购机有关的点。"
         },
         {
-          "id": "newsnow-c6441f01535d",
-          "title": "库克称苹果将涨价，网传 iPhone 18 Pro 涨 270 美元，价格上涨有哪些原因？你还会买吗？",
-          "originalTitle": "",
-          "source": "知乎热榜",
-          "brand": "iPhone",
-          "type": "市场报告",
-          "trust": "媒体汇总",
-          "date": "2026-06-19",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://www.zhihu.com/question/2050884243694118342",
-          "image": "",
-          "verdict": "扫一眼",
-          "takeaway": "库克称苹果将涨价，网传 iPhone 18 Pro 涨 270 美元，价格上涨有哪些原因？你还会买吗？",
-          "detail": "库克称苹果将涨价，网传 iPhone 18 Pro 涨 270 美元，价格上涨有哪些原因？你还会买吗？",
-          "keyPoints": [
-            "成本 / 价格"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "影响购买预算，值得先看。",
-          "action": "有具体参数就记录到参数库；没有参数就先收藏。"
-        },
-        {
           "id": "auto-b37be0b3ae65",
           "title": "iPhone 电池 / 充电相关消息",
           "originalTitle": "",
@@ -297,29 +274,6 @@ window.phoneRadarDaily = {
           "verdict": "扫一眼",
           "takeaway": "iPhone 相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
           "detail": "iPhone 相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
-        {
-          "id": "newsnow-7892622c42b9",
-          "title": "20周年版iPhone被曝独享台积电制程",
-          "originalTitle": "",
-          "source": "微博热搜",
-          "brand": "iPhone",
-          "type": "爆料",
-          "trust": "待验证",
-          "date": "2026-06-19",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://s.weibo.com/weibo?q=%2320%E5%91%A8%E5%B9%B4%E7%89%88iPhone%E8%A2%AB%E6%9B%9D%E7%8B%AC%E4%BA%AB%E5%8F%B0%E7%A7%AF%E7%94%B5%E5%88%B6%E7%A8%8B%23&t=31&band_rank=28&Refer=top",
-          "image": "",
-          "verdict": "扫一眼",
-          "takeaway": "20周年版iPhone被曝独享台积电制程",
-          "detail": "20周年版iPhone被曝独享台积电制程",
           "keyPoints": [
             "爆料"
           ],
@@ -387,29 +341,6 @@ window.phoneRadarDaily = {
       "title": "行业趋势",
       "hint": "看方向，不急着当购买依据。",
       "items": [
-        {
-          "id": "newsnow-b29f26b0e900",
-          "title": "用了半年的一加15边框严重掉漆，客服解决不了问题，踢皮球@一加手机社区 @一加手机社区 @一加服务",
-          "originalTitle": "",
-          "source": "酷安热榜",
-          "brand": "OPPO",
-          "type": "爆料",
-          "trust": "高关注爆料源",
-          "date": "2026-06-19",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://www.coolapk.com/feed/72404986",
-          "image": "",
-          "verdict": "先看",
-          "takeaway": "用了半年的一加15边框严重掉漆，客服解决不了问题，踢皮球@一加手机社区 @一加手机社区 @一加服务",
-          "detail": "用了半年的一加15边框严重掉漆，客服解决不了问题，踢皮球@一加手机社区 @一加手机社区 @一加服务",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
         {
           "id": "auto-7e89151a4cab",
           "title": "波音迟迟无法交付新机：美国服役近 40 年“空军一号”宣布退役，卡塔尔赠送 747 已完成改装测试",
@@ -503,23 +434,46 @@ window.phoneRadarDaily = {
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         },
         {
-          "id": "auto-5a619f350999",
-          "title": "Galaxy A27 对比 Redmi 15：差异整理",
+          "id": "auto-569019fdfcf3",
+          "title": "Galaxy S27 芯片 / 性能相关消息",
           "originalTitle": "",
           "source": "Gizmochina",
           "brand": "Samsung",
           "type": "爆料",
           "trust": "媒体汇总",
           "date": "2026-06-19",
-          "time": "15:11",
-          "publishedAt": "2026-06-19T15:11:25.000Z",
-          "url": "https://www.gizmochina.com/2026/06/19/samsung-galaxy-a27-vs-redmi-15/",
-          "image": "https://www.gizmochina.com/wp-content/uploads/2026/06/image-99-300x191.png?x44794",
+          "time": "16:17",
+          "publishedAt": "2026-06-19T16:17:28.000Z",
+          "url": "https://www.gizmochina.com/2026/06/19/samsung-confirms-exynos-2700-development-eyes-galaxy-s27-series/",
+          "image": "https://www.gizmochina.com/wp-content/uploads/2026/06/Exynos-2700-2-300x169.jpg?x44794",
           "verdict": "可略过",
-          "takeaway": "Galaxy A27 对比 Redmi 15：重点看定位、配置差异和价格差，判断是否值得等更高端型号。",
-          "detail": "Galaxy A27 对比 Redmi 15 的差异整理。重点看两款机型的定位、影像规格、屏幕尺寸、价格区间和发布时间是否拉开差距。",
+          "takeaway": "Galaxy S27 芯片 / 性能相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
+          "detail": "Galaxy S27 芯片 / 性能相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
           "keyPoints": [
-            "爆料"
+            "芯片 / 性能"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "影响性能和寿命判断，适合放进参数库。",
+          "action": "有具体参数就记录到参数库；没有参数就先收藏。"
+        },
+        {
+          "id": "auto-94ad57c09e69",
+          "title": "Pixel 相关消息",
+          "originalTitle": "",
+          "source": "Gizmochina",
+          "brand": "Pixel",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-06-19",
+          "time": "15:56",
+          "publishedAt": "2026-06-19T15:56:14.000Z",
+          "url": "https://www.gizmochina.com/2026/06/19/motorola-edge-70-pro-vs-google-pixel-10a/",
+          "image": "https://www.gizmochina.com/wp-content/uploads/2026/06/image-100-300x164.png?x44794",
+          "verdict": "可略过",
+          "takeaway": "Pixel 相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
+          "detail": "Pixel 相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
+          "keyPoints": [
+            "成本 / 价格"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
