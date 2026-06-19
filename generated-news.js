@@ -1,6 +1,166 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-06-19T10:56:56.104Z",
+  "updatedAt": "2026-06-19T15:42:49.667Z",
   "news": [
+    {
+      "id": "auto-5a619f350999",
+      "title": "Samsung Galaxy A27 vs Redmi 15: Is Samsung Really Worth Paying More For?",
+      "source": "Gizmochina",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-19",
+      "time": "15:11",
+      "publishedAt": "2026-06-19T15:11:25.000Z",
+      "url": "https://www.gizmochina.com/2026/06/19/samsung-galaxy-a27-vs-redmi-15/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/06/image-99-300x191.png?x44794",
+      "summary": "Choosing between the Samsung Galaxy A27 and Redmi 15 is not as simple as comparing specifications. Both devices target budget-conscious buyers, but they focus on different priorit…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-b37be0b3ae65",
+      "title": "These are my favorite MagSafe accessories for iPhone",
+      "source": "9to5Mac",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-19",
+      "time": "14:54",
+      "publishedAt": "2026-06-19T14:54:37.000Z",
+      "url": "https://9to5mac.com/2026/06/19/just-get-a-new-iphone-here-are-my-favorite-magsafe-accessories/",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/03/EU-confirms-Apple-can-make-a-portless-iPhone-without-USB-C.jpg?quality=82&strip=all&w=1600",
+      "summary": "There’s a robust ecosystem of MagSafe accessories for iPhone on the market, and these are some of my favorites.",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-4c3de007afbd",
+      "title": "iPhone 18 Pro: Six new features are coming this fall",
+      "source": "9to5Mac",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-19",
+      "time": "14:19",
+      "publishedAt": "2026-06-19T14:19:30.000Z",
+      "url": "https://9to5mac.com/2026/06/19/iphone-18-pro-six-new-features-are-coming-this-fall/",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/05/iphone-17-pro-silver-centered.jpg?quality=82&strip=all&w=1600",
+      "summary": "This fall’s iPhone 18 lineup will bring a brand new ‘iPhone Ultra’ foldable , but the most popular models will no doubt be the iPhone 18 Pro and Pro Max. Here are six new features…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-dc6b2f5d1760",
+      "title": "Samsung just confirmed the Exynos 2700 is coming, and the Galaxy S27 could have it",
+      "source": "Android Authority",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-19",
+      "time": "13:05",
+      "publishedAt": "2026-06-19T13:05:43.000Z",
+      "url": "https://www.androidauthority.com/samsung-confirm-exynos-2700-3679355/",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2026/03/samsung-galaxy-s26-base-review-back-phone-3-scaled.jpg",
+      "summary": "This also comes after we learned about a key Exynos 2700 change that could make for a cooler phone.",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-7e89151a4cab",
+      "title": "波音迟迟无法交付新机：美国服役近 40 年“空军一号”宣布退役，卡塔尔赠送 747 已完成改装测试",
+      "source": "IT之家",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-19",
+      "time": "12:59",
+      "publishedAt": "2026-06-19T12:59:24.000Z",
+      "url": "https://www.ithome.com/0/966/423.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/6/ffc74d11-c739-41a9-af4e-dc9820c93d1e.png?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 6 月 19 日消息，当地时间 2026 年 6 月 18 日凌晨，美国总统唐纳德 · 特朗普及其团队结束在法国出席七国集团峰会的行程后返回华盛顿。 落地后，随行人员在 X 上发帖，向已服役近 40 年的总统专机 SAM 29000（28000 仍作为过渡使用）告别。白宫通讯主任史蒂文 · 张配文写道：“干得漂亮，忠诚可靠的老伙计。最后一程。”…",
+      "tags": [
+        "行业",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-da14f7131f2b",
+      "title": "Honor will launch these three incredible devices this year",
+      "source": "Huawei Central",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-19",
+      "time": "12:45",
+      "publishedAt": "2026-06-19T12:45:01.000Z",
+      "url": "https://www.huaweicentral.com/honor-will-launch-these-three-incredible-devices-this-year/",
+      "image": "https://www.huaweicentral.com/wp-content/uploads/2026/06/Honor-incredible-devices-leak.jpg",
+      "summary": "Honor will likely launch at least three incredible devices by the end of this year. Apart from the flagship Magic 8 series, the company is focusing on the greatest creations of 20…",
+      "tags": [
+        "HONOR",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-e289d9d96b67",
+      "title": "竹本青：【华为Pura X Max 最新销量曝光：全系超41万台，典藏版近23.4万台】 华为 Pura X Max： 截…",
+      "source": "竹本青",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-06-19",
+      "time": "11:41",
+      "publishedAt": "2026-06-19T11:41:15.000Z",
+      "url": "https://www.coolapk.com/feed/72428730",
+      "image": "http://image.coolapk.com/feed/2026/0619/19/4248714_2b85d148_9563_6273_510@1439x498.jpg",
+      "summary": "【华为Pura X Max 最新销量曝光：全系超41万台，典藏版近23.4万台】 华为 Pura X Max： 截至2026 W23 —— 约18.1万 截至2026 W21 —— 约14.52万 截至2026 W19 —— 约11.27万 华为 Pura X Max典藏版： 截至2026 W23 —— 约23.38万 截至2026 W21 —— 约19.…",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-1446460aa3bd",
+      "title": "Report: iPhone 18 Pro Could Start at $1,399 Amid Price Hikes",
+      "source": "MacRumors",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-19",
+      "time": "11:03",
+      "publishedAt": "2026-06-19T11:03:15.000Z",
+      "url": "https://www.macrumors.com/2026/06/19/iphone-18-pro-could-start-at-1399/",
+      "image": "https://images.macrumors.com/article-new/2026/02/iPhone-18-Pro-Deep-Red-Feature.jpg",
+      "summary": "Apple this week confirmed that price increases are coming across its lineup due to rising memory chip costs, and now The Wall Street Journal has published its own analysis estimat…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-0a30d6ea0b68",
       "title": "Your aging iPhone might be vulnerable to a flaw Apple can’t patch",
@@ -103,7 +263,7 @@ window.phoneRadarAuto = {
     },
     {
       "id": "auto-761df9840420",
-      "title": "iPhone price hike: Tim Cook says the “situation has become unsustainable”",
+      "title": "DRAM shortage: Tim Cook confirms “price increases are unavoidable”",
       "source": "Gizmochina",
       "brand": "iPhone",
       "model": "iPhone 相关机型",
@@ -202,46 +362,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-766fd9f8f5ec",
-      "title": "消息称比亚迪计划推动子品牌自负盈亏，仰望暂不在其中",
-      "source": "IT之家",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-19",
-      "time": "01:10",
-      "publishedAt": "2026-06-19T01:10:26.000Z",
-      "url": "https://www.ithome.com/0/966/303.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/6/99cab6e8-69c8-4633-83ac-46f6921012af.png",
-      "summary": "IT之家 6 月 19 日消息，据《晚点 Auto》6 月 18 日报道，比亚迪正计划让旗下各子品牌 自负盈亏 ，仰望暂不在其中。一位接近此事的人士说，新机制下各品牌主体按需取用研发、生产、采购等集团资源，取用成本独立结算。 报道提到，和这件事相关的是比亚迪准备将工程院拆分为 王朝、海洋、方程豹、腾势、仰望 五大品牌研究院。据最先提及此进展的“极片 Lab…",
-      "tags": [
-        "行业",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-a8bcbf9f6c0b",
-      "title": "三星 Galaxy A27 5G 手机渲染图曝光：5000mAh 电池，3 种配色",
-      "source": "IT之家",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-19",
-      "time": "01:05",
-      "publishedAt": "2026-06-19T01:05:49.000Z",
-      "url": "https://www.ithome.com/0/966/302.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/6/b9276799-f4a0-42d2-8c0e-7fef20cd15b2.png",
-      "summary": "IT之家 6 月 19 日消息，科技媒体 digitalcitizen 昨日（6 月 18 日）发布博文，分享了一组三星 Galaxy A27 5G 手机的渲染图， 展示了海军蓝、石墨黑和柔粉色三种配色。 外观方面，手机边框与背板颜色统一，侧边圆润；背面相机模组采用竖向排列，三颗摄像头被一个药丸状的凸起区域包裹，右侧设有一颗 LED 闪光灯。 正面是一块平…",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-9bbf43c61c96",
       "title": "Apple announces changes to iOS in Brazil",
       "source": "Apple Newsroom",
@@ -259,6 +379,26 @@ window.phoneRadarAuto = {
         "iPhone",
         "官方",
         "自动抓取"
+      ]
+    },
+    {
+      "id": "newsnow-72b449ac4749",
+      "title": "最近被双持搞烦了，手机换来换去，微信消息倒来倒去，一会要适应大屏，一会要适应小屏，出门纠结带哪台，两台一起带又嫌弃重，实在感到不是很方便。",
+      "source": "酷安热榜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-06-19",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/72419411",
+      "image": "",
+      "summary": "最近被双持搞烦了，手机换来换去，微信消息倒来倒去，一会要适应大屏，一会要适应小屏，出门纠结带哪台，两台一起带又嫌弃重，实在感到不是很方便。",
+      "tags": [
+        "行业",
+        "爆料",
+        "NewsNow"
       ]
     },
     {
@@ -298,6 +438,46 @@ window.phoneRadarAuto = {
       "tags": [
         "OPPO",
         "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-7892622c42b9",
+      "title": "20周年版iPhone被曝独享台积电制程",
+      "source": "微博热搜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "待验证",
+      "date": "2026-06-19",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://s.weibo.com/weibo?q=%2320%E5%91%A8%E5%B9%B4%E7%89%88iPhone%E8%A2%AB%E6%9B%9D%E7%8B%AC%E4%BA%AB%E5%8F%B0%E7%A7%AF%E7%94%B5%E5%88%B6%E7%A8%8B%23&t=31&band_rank=28&Refer=top",
+      "image": "",
+      "summary": "20周年版iPhone被曝独享台积电制程",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-c6441f01535d",
+      "title": "库克称苹果将涨价，网传 iPhone 18 Pro 涨 270 美元，价格上涨有哪些原因？你还会买吗？",
+      "source": "知乎热榜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "市场报告",
+      "trust": "媒体汇总",
+      "date": "2026-06-19",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.zhihu.com/question/2050884243694118342",
+      "image": "",
+      "summary": "库克称苹果将涨价，网传 iPhone 18 Pro 涨 270 美元，价格上涨有哪些原因？你还会买吗？",
+      "tags": [
+        "iPhone",
+        "市场报告",
         "NewsNow"
       ]
     },
@@ -358,26 +538,6 @@ window.phoneRadarAuto = {
       "tags": [
         "Samsung",
         "评测",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-0c5d4a1b3afd",
-      "title": "The iPhone is holding Android back. [Video.]",
-      "source": "Android Police",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-18",
-      "time": "16:35",
-      "publishedAt": "2026-06-18T16:35:22.000Z",
-      "url": "https://www.androidpolice.com/video/the-iphone-is-holding-android-back-video/",
-      "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2026/06/the-iphone-is-holding-android-back2.jpg",
-      "summary": "It's been happening for a while.",
-      "tags": [
-        "iPhone",
-        "爆料",
         "自动抓取"
       ]
     },
@@ -537,26 +697,6 @@ window.phoneRadarAuto = {
       "summary": "So far, iQOO has launched three Z11-branded phones in China, namely the iQOO Z11x, Z11, and Z11 Turbo. Now, the brand has started teasing the arrival of the Z11i, which appears to…",
       "tags": [
         "vivo",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-04ba75473efd",
-      "title": "Huawei HarmonyOS Desktop PC chipset details surfaced",
-      "source": "Huawei Central",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-18",
-      "time": "11:34",
-      "publishedAt": "2026-06-18T11:34:34.000Z",
-      "url": "https://www.huaweicentral.com/huawei-harmonyos-desktop-pc-chipset-details-surfaced/",
-      "image": "https://www.huaweicentral.com/wp-content/uploads/2026/06/HarmonyOS-PC-chipset.jpg",
-      "summary": "Huawei HarmonyOS Desktop PC will be launching in September this year, probably alongside the Mate 90 series smartphones, and a new leak reveals the chipset information for this cr…",
-      "tags": [
-        "Huawei",
         "爆料",
         "自动抓取"
       ]
