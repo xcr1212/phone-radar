@@ -1,5 +1,5 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-06-19T20:02:57.331Z",
+  "updatedAt": "2026-06-19T21:34:05.854Z",
   "news": [
     {
       "id": "auto-009b13f7af8c",
