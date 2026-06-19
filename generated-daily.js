@@ -1,15 +1,15 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-06-18T22:25:20.603Z",
-  "issueDate": "2026-06-18",
-  "issue": "VOL.260618",
+  "updatedAt": "2026-06-19T05:24:05.044Z",
+  "issueDate": "2026-06-19",
+  "issue": "VOL.260619",
   "title": "手机情报日报",
-  "intro": "今日筛出 21 条重点，其中 8 条是重点爆料，包含 9 条 iPhone 相关、0 条官方确认、1 条参数线索。",
+  "intro": "今日筛出 20 条重点，其中 8 条是重点爆料，包含 10 条 iPhone 相关、0 条官方确认、0 条参数线索。",
   "stats": {
-    "total": 21,
-    "iphone": 9,
+    "total": 20,
+    "iphone": 10,
     "leaks": 8,
     "official": 0,
-    "specs": 1
+    "specs": 0
   },
   "sections": [
     {
@@ -17,6 +17,29 @@ window.phoneRadarDaily = {
       "title": "重点爆料",
       "hint": "机模、配色、影像、屏幕、电池和芯片线索先看。",
       "items": [
+        {
+          "id": "auto-c5fe7a467ba9",
+          "title": "无法软件修复：苹果 A12/A13 芯片曝新漏洞，影响 iPhone 11 系列等",
+          "originalTitle": "",
+          "source": "IT之家",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-06-18",
+          "time": "23:04",
+          "publishedAt": "2026-06-18T23:04:34.000Z",
+          "url": "https://www.ithome.com/0/966/288.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/6/9b10efe6-d6fe-4433-b814-e959dbaf7f40.png?x-bce-process=image/format,f_auto",
+          "verdict": "先看",
+          "takeaway": "IT之家 6 月 19 日消息，安全公司 Paradigm Shift 昨日（6 月 18 日）发布博文，宣布在苹果 A12 和 A13 芯片上发现 BootROM 漏洞， 将其命名为 usbliter8。 在受影响机型方面，该漏洞影响搭载 A12 和 A13 芯片的设备，涵盖 iPhone XS、iPhone XS Max、iPhone XR 和 iPh…",
+          "detail": "IT之家 6 月 19 日消息，安全公司 Paradigm Shift 昨日（6 月 18 日）发布博文，宣布在苹果 A12 和 A13 芯片上发现 BootROM 漏洞， 将其命名为 usbliter8。 在受影响机型方面，该漏洞影响搭载 A12 和 A13 芯片的设备，涵盖 iPhone XS、iPhone XS Max、iPhone XR 和 iPh…",
+          "keyPoints": [
+            "芯片 / 性能"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
         {
           "id": "weibo-534847049366",
           "title": "数码闲聊站：去年11月说过iPhone Air2正常迭代中，ID变化不大，测试48Mp双摄…",
@@ -94,6 +117,54 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
+          "id": "auto-a8bcbf9f6c0b",
+          "title": "三星 Galaxy A27 5G 手机渲染图曝光：5000mAh 电池，3 种配色",
+          "originalTitle": "",
+          "source": "IT之家",
+          "brand": "Samsung",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-06-19",
+          "time": "01:05",
+          "publishedAt": "2026-06-19T01:05:49.000Z",
+          "url": "https://www.ithome.com/0/966/302.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/6/b9276799-f4a0-42d2-8c0e-7fef20cd15b2.png",
+          "verdict": "先看",
+          "takeaway": "IT之家 6 月 19 日消息，科技媒体 digitalcitizen 昨日（6 月 18 日）发布博文，分享了一组三星 Galaxy A27 5G 手机的渲染图， 展示了海军蓝、石墨黑和柔粉色三种配色。 外观方面，手机边框与背板颜色统一，侧边圆润；背面相机模组采用竖向排列，三颗摄像头被一个药丸状的凸起区域包裹，右侧设有一颗 LED 闪光灯。 正面是一块平…",
+          "detail": "IT之家 6 月 19 日消息，科技媒体 digitalcitizen 昨日（6 月 18 日）发布博文，分享了一组三星 Galaxy A27 5G 手机的渲染图， 展示了海军蓝、石墨黑和柔粉色三种配色。 外观方面，手机边框与背板颜色统一，侧边圆润；背面相机模组采用竖向排列，三颗摄像头被一个药丸状的凸起区域包裹，右侧设有一颗 LED 闪光灯。 正面是一块平…",
+          "keyPoints": [
+            "外观 / 配色 / 尺寸",
+            "影像硬件",
+            "电池 / 充电"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "auto-34967d4b1179",
+          "title": "iQOO Z11i 手机配色公布：青峰、沙漠金、墨影，下月发售",
+          "originalTitle": "",
+          "source": "IT之家",
+          "brand": "vivo",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-06-19",
+          "time": "00:55",
+          "publishedAt": "2026-06-19T00:55:32.000Z",
+          "url": "https://www.ithome.com/0/966/301.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/6/c5eba344-9f95-4396-8d43-b9e82d0565e0.png?x-bce-process=image/format,f_auto",
+          "verdict": "先看",
+          "takeaway": "IT之家 6 月 19 日消息， iQOO Z11 i 手机将于下月发售，官方昨日已公布这款新机的三款配色，分别为青峰、沙漠金、墨影。 青峰丨从青山云海奔涌而出的寒光。 沙漠金丨自大漠落日漫洒而来的万顷鎏光。 墨影丨由静夜深岩凝铸而成的深邃幽光。 从图上可以看到，这款新机背面采用双摄设计，但目前关于该机的具体规格暂不知悉。另参考商品图，该机正面采用 水滴屏…",
+          "detail": "IT之家 6 月 19 日消息， iQOO Z11 i 手机将于下月发售，官方昨日已公布这款新机的三款配色，分别为青峰、沙漠金、墨影。 青峰丨从青山云海奔涌而出的寒光。 沙漠金丨自大漠落日漫洒而来的万顷鎏光。 墨影丨由静夜深岩凝铸而成的深邃幽光。 从图上可以看到，这款新机背面采用双摄设计，但目前关于该机的具体规格暂不知悉。另参考商品图，该机正面采用 水滴屏…",
+          "keyPoints": [
+            "外观 / 配色 / 尺寸"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
           "id": "auto-7d0870d44e00",
           "title": "iPhone 18 Pro 系统功能 / AI 体验相关消息",
           "originalTitle": "",
@@ -138,75 +209,6 @@ window.phoneRadarDaily = {
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "auto-edcd876b9adf",
-          "title": "iPhone 影像能力相关消息",
-          "originalTitle": "",
-          "source": "MacRumors",
-          "brand": "iPhone",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-06-17",
-          "time": "20:18",
-          "publishedAt": "2026-06-17T20:18:16.000Z",
-          "url": "https://www.macrumors.com/2026/06/17/iphone-air-dual-lens-camera-2027/",
-          "image": "https://images.macrumors.com/article-new/2025/02/iphone-air-camera.jpg",
-          "verdict": "先看",
-          "takeaway": "iPhone 有系统功能或 AI 体验更新，适合关注后续是否影响日常使用。",
-          "detail": "iPhone 影像能力相关消息。重点看影像功能是否和新机硬件有关，如果只是拍摄案例或营销内容，参考价值会低一些。",
-          "keyPoints": [
-            "影像硬件"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "auto-1dd78b9dc75e",
-          "title": "三星确认 Exynos 2700 芯片正在研发中，下一代旗舰智能手机率先采用",
-          "originalTitle": "",
-          "source": "IT之家",
-          "brand": "Samsung",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-06-18",
-          "time": "14:52",
-          "publishedAt": "2026-06-18T14:52:35.000Z",
-          "url": "https://www.ithome.com/0/966/271.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/6/1c03fc88-5e9e-4008-ad92-abb83d08eda2.jpg?x-bce-process=image/format,f_auto",
-          "verdict": "先看",
-          "takeaway": "IT之家 6 月 18 日消息，据《韩国经济日报》报道，三星电子半导体 LSI 事业部总裁 Park Yong-in 今日表示，尽管公司今年第一季度取得创纪录营收，但受制于市场环境变化与需求疲软，全年亏损已无可避免。 IT之家从原报道获悉，三星正在积极进军全新领域，包括大规模图像传感器订单项目、定制化芯片业务等，让未来营收更加丰富。 这名总裁还提到，三星正…",
-          "detail": "IT之家 6 月 18 日消息，据《韩国经济日报》报道，三星电子半导体 LSI 事业部总裁 Park Yong-in 今日表示，尽管公司今年第一季度取得创纪录营收，但受制于市场环境变化与需求疲软，全年亏损已无可避免。 IT之家从原报道获悉，三星正在积极进军全新领域，包括大规模图像传感器订单项目、定制化芯片业务等，让未来营收更加丰富。 这名总裁还提到，三星正…",
-          "keyPoints": [
-            "芯片 / 性能"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "weibo-451ff2ab29eb",
-          "title": "数码闲聊站：之前超前瞻过了，天玑9600系阵营迭代新机，你们猜哪个的主摄更强？[并不简单]…",
-          "originalTitle": "",
-          "source": "数码闲聊站",
-          "brand": "Samsung",
-          "type": "爆料",
-          "trust": "高关注爆料源",
-          "date": "2026-06-17",
-          "time": "07:28",
-          "publishedAt": "2026-06-17T07:28:00.000Z",
-          "url": "https://weibo.com/6048569942/R4xriFJhS",
-          "image": "",
-          "verdict": "先看",
-          "takeaway": "之前超前瞻过了，天玑9600系阵营迭代新机，你们猜哪个的主摄更强？[并不简单] 一家压宝索尼LYT-L910，5000万像素+1/1.28\"超大底+LOFIC技术+动态范围100dB± 一家压宝三星HPC，2亿像素+1/1.3\"±超大底+UFCC技术+FWC 160Ke-动态范围96dB±",
-          "detail": "之前超前瞻过了，天玑9600系阵营迭代新机，你们猜哪个的主摄更强？[并不简单] 一家压宝索尼LYT-L910，5000万像素+1/1.28\"超大底+LOFIC技术+动态范围100dB± 一家压宝三星HPC，2亿像素+1/1.3\"±超大底+UFCC技术+FWC 160Ke-动态范围96dB±",
-          "keyPoints": [
-            "爆料来源"
-          ],
-          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         }
       ]
     },
@@ -237,6 +239,29 @@ window.phoneRadarDaily = {
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是实际体验内容，买前适合重点看缺点和取舍。",
           "action": "中文源可以直接点开快读；看完只保留和购机有关的点。"
+        },
+        {
+          "id": "auto-0c5d4a1b3afd",
+          "title": "iPhone 影像能力相关消息",
+          "originalTitle": "",
+          "source": "Android Police",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-06-18",
+          "time": "16:35",
+          "publishedAt": "2026-06-18T16:35:22.000Z",
+          "url": "https://www.androidpolice.com/video/the-iphone-is-holding-android-back-video/",
+          "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2026/06/the-iphone-is-holding-android-back2.jpg",
+          "verdict": "扫一眼",
+          "takeaway": "iPhone 影像能力相关宣传或案例，主要看是否透露拍摄能力变化。",
+          "detail": "iPhone 影像能力相关消息。重点看影像功能是否和新机硬件有关，如果只是拍摄案例或营销内容，参考价值会低一些。",
+          "keyPoints": [
+            "影像硬件"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "影响拍照体验，买旗舰机时值得关注。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         },
         {
           "id": "auto-2cb52c6dc5dd",
@@ -281,66 +306,6 @@ window.phoneRadarDaily = {
             "外观 / 配色 / 尺寸"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        }
-      ]
-    },
-    {
-      "id": "launch",
-      "title": "新机与官方发布",
-      "hint": "能直接更新到参数库。",
-      "items": [
-        {
-          "id": "auto-c55e384e49e7",
-          "title": "vivo 相关消息",
-          "originalTitle": "",
-          "source": "Gizmochina",
-          "brand": "vivo",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-06-18",
-          "time": "11:52",
-          "publishedAt": "2026-06-18T11:52:12.000Z",
-          "url": "https://www.gizmochina.com/2026/06/18/iqoo-z11i-design-colors-confirmed/",
-          "image": "https://www.gizmochina.com/wp-content/uploads/2026/06/iQOO-Z11i-blue-1-1-300x184.jpg?x44794",
-          "verdict": "可略过",
-          "takeaway": "vivo 相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
-          "detail": "vivo 相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        }
-      ]
-    },
-    {
-      "id": "specs",
-      "title": "参数、跑分、认证",
-      "hint": "适合验证芯片、屏幕、影像和电池。",
-      "items": [
-        {
-          "id": "coolapk-user-7fea2c2e0ac4",
-          "title": "JSCHEN小小狐：博主汇总天玑 9600 系列迭代旗舰主摄方案",
-          "originalTitle": "",
-          "source": "JSCHEN小小狐",
-          "brand": "Samsung",
-          "type": "爆料",
-          "trust": "高可信爆料",
-          "date": "2026-06-17",
-          "time": "08:34",
-          "publishedAt": "2026-06-17T08:34:55.000Z",
-          "url": "https://www.coolapk.com/feed/72389739",
-          "image": "http://image.coolapk.com/feed/2026/0617/16/4702274_8e0e8be6_5294_3912_557@1440x929.jpg",
-          "verdict": "扫一眼",
-          "takeaway": "『博主汇总天玑 9600 系列迭代旗舰主摄方案』 vivo X500 系列： ◇ 索尼 LYTIA L910 传感器 ◇ 5000 万像素，1/1.28'' 超大底 ◇ LOFIC 技术，动态范围 100dB± OPPO Find X10 系列： ◇ 三星 S5KHPC 传感器 ◇ 2 亿像素，1/1.3''± 超大底 ◇ UFCC 技术，FWC 160K…",
-          "detail": "『博主汇总天玑 9600 系列迭代旗舰主摄方案』 vivo X500 系列： ◇ 索尼 LYTIA L910 传感器 ◇ 5000 万像素，1/1.28'' 超大底 ◇ LOFIC 技术，动态范围 100dB± OPPO Find X10 系列： ◇ 三星 S5KHPC 传感器 ◇ 2 亿像素，1/1.3''± 超大底 ◇ UFCC 技术，FWC 160K…",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "可信度较高，但仍属于发布前线索。",
           "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         }
@@ -405,21 +370,21 @@ window.phoneRadarDaily = {
       "hint": "看方向，不急着当购买依据。",
       "items": [
         {
-          "id": "newsnow-7ee3d7cd13c8",
-          "title": "#OriginOS6# #HyperOS3# 小米什么时候才能知道，岛是要遮住摄像头，从通知栏贴着手机边框弹出来的。害怕OS这样顶多算个黑底的通知，加了快捷方式那种。",
+          "id": "newsnow-cd1090eca5d5",
+          "title": "理解不了，这个手机性价比这么低，一个个跟发了疯似的，不是之前3100，都无人问津。",
           "originalTitle": "",
           "source": "酷安热榜",
-          "brand": "Xiaomi",
+          "brand": "行业",
           "type": "爆料",
           "trust": "高关注爆料源",
-          "date": "2026-06-18",
+          "date": "2026-06-19",
           "time": "",
           "publishedAt": "",
-          "url": "https://www.coolapk.com/feed/72406179",
+          "url": "https://www.coolapk.com/feed/72420165",
           "image": "",
-          "verdict": "先看",
-          "takeaway": "#OriginOS6# #HyperOS3# 小米什么时候才能知道，岛是要遮住摄像头，从通知栏贴着手机边框弹出来的。害怕OS这样顶多算个黑底的通知，加了快捷方式那种。",
-          "detail": "#OriginOS6# #HyperOS3# 小米什么时候才能知道，岛是要遮住摄像头，从通知栏贴着手机边框弹出来的。害怕OS这样顶多算个黑底的通知，加了快捷方式那种。",
+          "verdict": "扫一眼",
+          "takeaway": "理解不了，这个手机性价比这么低，一个个跟发了疯似的，不是之前3100，都无人问津。",
+          "detail": "理解不了，这个手机性价比这么低，一个个跟发了疯似的，不是之前3100，都无人问津。",
           "keyPoints": [
             "爆料"
           ],
@@ -428,14 +393,14 @@ window.phoneRadarDaily = {
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         },
         {
-          "id": "newsnow-401143997e7f",
+          "id": "newsnow-f49393c53195",
           "title": "iQOO Z11i 正式亮相，现已开启预约",
           "originalTitle": "",
           "source": "酷安热榜",
           "brand": "vivo",
           "type": "爆料",
           "trust": "高关注爆料源",
-          "date": "2026-06-18",
+          "date": "2026-06-19",
           "time": "",
           "publishedAt": "",
           "url": "https://www.coolapk.com/feed/72402162",
@@ -451,25 +416,25 @@ window.phoneRadarDaily = {
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         },
         {
-          "id": "newsnow-a4ff4adb0bad",
-          "title": "换了一圈手机，",
+          "id": "coolapk-user-f70d93b10970",
+          "title": "竹本青：小米 17T系列首销三天销量曝光：全系超70000台",
           "originalTitle": "",
-          "source": "酷安热榜",
-          "brand": "行业",
+          "source": "竹本青",
+          "brand": "Xiaomi",
           "type": "爆料",
-          "trust": "高关注爆料源",
-          "date": "2026-06-18",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://www.coolapk.com/feed/72390788",
-          "image": "",
+          "trust": "高可信爆料",
+          "date": "2026-06-19",
+          "time": "02:18",
+          "publishedAt": "2026-06-19T02:18:37.000Z",
+          "url": "https://www.coolapk.com/feed/72420469",
+          "image": "http://image.coolapk.com/feed/2026/0619/10/4248714_2b3989c5_5516_336_142@1438x726.jpg",
           "verdict": "扫一眼",
-          "takeaway": "换了一圈手机，",
-          "detail": "换了一圈手机，",
+          "takeaway": "【小米 17T系列 首销三天销量曝光：全系超70000台】 博主「RD观测」昨日分享第三方统计小米 17T系列的首销情况，以首销三天（首销当日+接下来三天）为标准，市场表现如下： ▫️系列总销量超过70K ▫️17T 内占约60%，17T Pro内占约40% #小米17TPro# #HyperOS3# #今日热点#",
+          "detail": "【小米 17T系列 首销三天销量曝光：全系超70000台】 博主「RD观测」昨日分享第三方统计小米 17T系列的首销情况，以首销三天（首销当日+接下来三天）为标准，市场表现如下： ▫️系列总销量超过70K ▫️17T 内占约60%，17T Pro内占约40% #小米17TPro# #HyperOS3# #今日热点#",
           "keyPoints": [
             "爆料"
           ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "confidence": "可信度较高，但仍属于发布前线索。",
           "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         },

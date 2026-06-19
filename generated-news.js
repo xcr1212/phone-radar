@@ -1,6 +1,206 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-06-18T22:25:20.603Z",
+  "updatedAt": "2026-06-19T05:24:05.044Z",
   "news": [
+    {
+      "id": "coolapk-user-f70d93b10970",
+      "title": "竹本青：小米 17T系列首销三天销量曝光：全系超70000台",
+      "source": "竹本青",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-06-19",
+      "time": "02:18",
+      "publishedAt": "2026-06-19T02:18:37.000Z",
+      "url": "https://www.coolapk.com/feed/72420469",
+      "image": "http://image.coolapk.com/feed/2026/0619/10/4248714_2b3989c5_5516_336_142@1438x726.jpg",
+      "summary": "【小米 17T系列 首销三天销量曝光：全系超70000台】 博主「RD观测」昨日分享第三方统计小米 17T系列的首销情况，以首销三天（首销当日+接下来三天）为标准，市场表现如下： ▫️系列总销量超过70K ▫️17T 内占约60%，17T Pro内占约40% #小米17TPro# #HyperOS3# #今日热点#",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-766fd9f8f5ec",
+      "title": "消息称比亚迪计划推动子品牌自负盈亏，仰望暂不在其中",
+      "source": "IT之家",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-19",
+      "time": "01:10",
+      "publishedAt": "2026-06-19T01:10:26.000Z",
+      "url": "https://www.ithome.com/0/966/303.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/6/99cab6e8-69c8-4633-83ac-46f6921012af.png",
+      "summary": "IT之家 6 月 19 日消息，据《晚点 Auto》6 月 18 日报道，比亚迪正计划让旗下各子品牌 自负盈亏 ，仰望暂不在其中。一位接近此事的人士说，新机制下各品牌主体按需取用研发、生产、采购等集团资源，取用成本独立结算。 报道提到，和这件事相关的是比亚迪准备将工程院拆分为 王朝、海洋、方程豹、腾势、仰望 五大品牌研究院。据最先提及此进展的“极片 Lab…",
+      "tags": [
+        "行业",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-a8bcbf9f6c0b",
+      "title": "三星 Galaxy A27 5G 手机渲染图曝光：5000mAh 电池，3 种配色",
+      "source": "IT之家",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-19",
+      "time": "01:05",
+      "publishedAt": "2026-06-19T01:05:49.000Z",
+      "url": "https://www.ithome.com/0/966/302.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/6/b9276799-f4a0-42d2-8c0e-7fef20cd15b2.png",
+      "summary": "IT之家 6 月 19 日消息，科技媒体 digitalcitizen 昨日（6 月 18 日）发布博文，分享了一组三星 Galaxy A27 5G 手机的渲染图， 展示了海军蓝、石墨黑和柔粉色三种配色。 外观方面，手机边框与背板颜色统一，侧边圆润；背面相机模组采用竖向排列，三颗摄像头被一个药丸状的凸起区域包裹，右侧设有一颗 LED 闪光灯。 正面是一块平…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-34967d4b1179",
+      "title": "iQOO Z11i 手机配色公布：青峰、沙漠金、墨影，下月发售",
+      "source": "IT之家",
+      "brand": "vivo",
+      "model": "vivo 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-19",
+      "time": "00:55",
+      "publishedAt": "2026-06-19T00:55:32.000Z",
+      "url": "https://www.ithome.com/0/966/301.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/6/c5eba344-9f95-4396-8d43-b9e82d0565e0.png?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 6 月 19 日消息， iQOO Z11 i 手机将于下月发售，官方昨日已公布这款新机的三款配色，分别为青峰、沙漠金、墨影。 青峰丨从青山云海奔涌而出的寒光。 沙漠金丨自大漠落日漫洒而来的万顷鎏光。 墨影丨由静夜深岩凝铸而成的深邃幽光。 从图上可以看到，这款新机背面采用双摄设计，但目前关于该机的具体规格暂不知悉。另参考商品图，该机正面采用 水滴屏…",
+      "tags": [
+        "vivo",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-9bbf43c61c96",
+      "title": "Apple announces changes to iOS in Brazil",
+      "source": "Apple Newsroom",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "官方",
+      "trust": "官方确认",
+      "date": "2026-06-19",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.apple.com/newsroom/2026/06/apple-announces-changes-to-ios-in-brazil/",
+      "image": "",
+      "summary": "Apple today announced changes impacting iOS apps in Brazil that reflect a recent agreement with Brazil’s competition regulator, CADE.",
+      "tags": [
+        "iPhone",
+        "官方",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "newsnow-cd1090eca5d5",
+      "title": "理解不了，这个手机性价比这么低，一个个跟发了疯似的，不是之前3100，都无人问津。",
+      "source": "酷安热榜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-06-19",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/72420165",
+      "image": "",
+      "summary": "理解不了，这个手机性价比这么低，一个个跟发了疯似的，不是之前3100，都无人问津。",
+      "tags": [
+        "行业",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-f49393c53195",
+      "title": "iQOO Z11i 正式亮相，现已开启预约",
+      "source": "酷安热榜",
+      "brand": "vivo",
+      "model": "vivo 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-06-19",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/72402162",
+      "image": "",
+      "summary": "iQOO Z11i 正式亮相，现已开启预约",
+      "tags": [
+        "vivo",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-6d2e82192ac7",
+      "title": "孩子烧光几十万手机爸爸问开不开心",
+      "source": "微博热搜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "待验证",
+      "date": "2026-06-19",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://s.weibo.com/weibo?q=%23%E5%AD%A9%E5%AD%90%E7%83%A7%E5%85%89%E5%87%A0%E5%8D%81%E4%B8%87%E6%89%8B%E6%9C%BA%E7%88%B8%E7%88%B8%E9%97%AE%E5%BC%80%E4%B8%8D%E5%BC%80%E5%BF%83%23&t=31&band_rank=5&Refer=top",
+      "image": "",
+      "summary": "孩子烧光几十万手机爸爸问开不开心",
+      "tags": [
+        "行业",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-2b7bd0998afd",
+      "title": "孩子烧光几十万手机爸爸问开不开心",
+      "source": "百度热搜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-19",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.baidu.com/s?wd=%E5%AD%A9%E5%AD%90%E7%83%A7%E5%85%89%E5%87%A0%E5%8D%81%E4%B8%87%E6%89%8B%E6%9C%BA%E7%88%B8%E7%88%B8%E9%97%AE%E5%BC%80%E4%B8%8D%E5%BC%80%E5%BF%83",
+      "image": "",
+      "summary": "孩子烧光几十万手机爸爸问开不开心",
+      "tags": [
+        "行业",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "auto-c5fe7a467ba9",
+      "title": "无法软件修复：苹果 A12/A13 芯片曝新漏洞，影响 iPhone 11 系列等",
+      "source": "IT之家",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-18",
+      "time": "23:04",
+      "publishedAt": "2026-06-18T23:04:34.000Z",
+      "url": "https://www.ithome.com/0/966/288.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/6/9b10efe6-d6fe-4433-b814-e959dbaf7f40.png?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 6 月 19 日消息，安全公司 Paradigm Shift 昨日（6 月 18 日）发布博文，宣布在苹果 A12 和 A13 芯片上发现 BootROM 漏洞， 将其命名为 usbliter8。 在受影响机型方面，该漏洞影响搭载 A12 和 A13 芯片的设备，涵盖 iPhone XS、iPhone XS Max、iPhone XR 和 iPh…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-6e41008c01a3",
       "title": "New unpatchable exploit targets Apple devices with A12 and A13 chips",
@@ -83,7 +283,7 @@ window.phoneRadarAuto = {
     },
     {
       "id": "coolapk-user-196bcdf5935b",
-      "title": "竹本青：【曝比亚迪计划推动子品牌自负盈亏，仰望暂不在其中】 据《晚点 Auto》 今日报道，比亚迪正计划让旗下各子品牌自负…",
+      "title": "竹本青：曝比亚迪计划推动子品牌自负盈亏，仰望暂不在其中",
       "source": "竹本青",
       "brand": "行业",
       "model": "智能手机市场",
@@ -578,386 +778,6 @@ window.phoneRadarAuto = {
       "tags": [
         "Xiaomi",
         "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-9bbf43c61c96",
-      "title": "Apple announces changes to iOS in Brazil",
-      "source": "Apple Newsroom",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "官方",
-      "trust": "官方确认",
-      "date": "2026-06-18",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.apple.com/newsroom/2026/06/apple-announces-changes-to-ios-in-brazil/",
-      "image": "",
-      "summary": "Apple today announced changes impacting iOS apps in Brazil that reflect a recent agreement with Brazil’s competition regulator, CADE.",
-      "tags": [
-        "iPhone",
-        "官方",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "newsnow-401143997e7f",
-      "title": "iQOO Z11i 正式亮相，现已开启预约",
-      "source": "酷安热榜",
-      "brand": "vivo",
-      "model": "vivo 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-06-18",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72402162",
-      "image": "",
-      "summary": "iQOO Z11i 正式亮相，现已开启预约",
-      "tags": [
-        "vivo",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-7ee3d7cd13c8",
-      "title": "#OriginOS6# #HyperOS3# 小米什么时候才能知道，岛是要遮住摄像头，从通知栏贴着手机边框弹出来的。害怕OS这样顶多算个黑底的通知，加了快捷方式那种。",
-      "source": "酷安热榜",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-06-18",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72406179",
-      "image": "",
-      "summary": "#OriginOS6# #HyperOS3# 小米什么时候才能知道，岛是要遮住摄像头，从通知栏贴着手机边框弹出来的。害怕OS这样顶多算个黑底的通知，加了快捷方式那种。",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-a4ff4adb0bad",
-      "title": "换了一圈手机，",
-      "source": "酷安热榜",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-06-18",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72390788",
-      "image": "",
-      "summary": "换了一圈手机，",
-      "tags": [
-        "行业",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-75e839b2cf06",
-      "title": "我每个月工资不高，三千左右，现在存了一万块钱，要不要花掉 3500 元买个新手机？",
-      "source": "知乎热榜",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "市场报告",
-      "trust": "媒体汇总",
-      "date": "2026-06-18",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.zhihu.com/question/2048362789551576432",
-      "image": "",
-      "summary": "我每个月工资不高，三千左右，现在存了一万块钱，要不要花掉 3500 元买个新手机？",
-      "tags": [
-        "行业",
-        "市场报告",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "auto-fb9446e8ede7",
-      "title": "OnePlus N6 claimed to offer three-day battery life thanks to 8,000mAh cell",
-      "source": "Gizmochina",
-      "brand": "OPPO",
-      "model": "OPPO 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-17",
-      "time": "20:30",
-      "publishedAt": "2026-06-17T20:30:59.000Z",
-      "url": "https://www.gizmochina.com/2026/06/17/oneplus-n6-claimed-to-offer-three-day-battery-life-thanks-to-8000mah-cell/",
-      "image": "https://www.gizmochina.com/wp-content/uploads/2026/06/ActivityBanner_Mumbai_Mobile-R-300x169.jpg?x44794",
-      "summary": "OnePlus is stepping up its game in India’s super-competitive budget smartphone segment with the upcoming OnePlus N6, the very first phone in its all-new N Series. The company is p…",
-      "tags": [
-        "OPPO",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-e460727cd8fb",
-      "title": "iPhone Air 2 coming next year with two key upgrades: report",
-      "source": "9to5Mac",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-17",
-      "time": "20:20",
-      "publishedAt": "2026-06-17T20:20:02.000Z",
-      "url": "https://9to5mac.com/2026/06/17/iphone-air-2-coming-next-year-with-two-key-upgrades-report/",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/10/iphone-air-sky-blue.jpg?quality=82&strip=all&w=1600",
-      "summary": "Apple is aiming to launch an iPhone Air 2 in the spring of 2027, Bloomberg reports today. The iPhone Air 2 will reportedly retain the same design as the current model, but with im…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-edcd876b9adf",
-      "title": "iPhone Air With Dual Lens Camera Coming in Spring 2027",
-      "source": "MacRumors",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-17",
-      "time": "20:18",
-      "publishedAt": "2026-06-17T20:18:16.000Z",
-      "url": "https://www.macrumors.com/2026/06/17/iphone-air-dual-lens-camera-2027/",
-      "image": "https://images.macrumors.com/article-new/2025/02/iphone-air-camera.jpg",
-      "summary": "Apple is working on a new iPhone Air that's expected to launch in spring 2027, reports Bloomberg . The updated &zwnj;iPhone Air&zwnj; could get an Ultra Wide lens in addition to t…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-cfe85a79b1d1",
-      "title": "While rivals play it safe, the OnePlus 15R gets a 16GB RAM upgrade",
-      "source": "Gizmochina",
-      "brand": "OPPO",
-      "model": "OPPO 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-17",
-      "time": "16:41",
-      "publishedAt": "2026-06-17T16:41:48.000Z",
-      "url": "https://www.gizmochina.com/2026/06/17/oneplus-15r-16gb-ram-variant-india-price-specifications/",
-      "image": "https://www.gizmochina.com/wp-content/uploads/2025/12/OnePlus_15R_Review_GizmoChina_09-300x225.jpg?x44794",
-      "summary": "OnePlus has quietly introduced a new variant of the OnePlus 15R in India, giving buyers another option in the performance-focused smartphone lineup. While the handset remains unch…",
-      "tags": [
-        "OPPO",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-28a3393ed7d2",
-      "title": "Apple's WebKit Rules Reportedly Cost iOS Users Almost 30% Browser Performance",
-      "source": "MacRumors",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-17",
-      "time": "16:14",
-      "publishedAt": "2026-06-17T16:14:41.000Z",
-      "url": "https://www.macrumors.com/2026/06/17/webkit-rule-costs-ios-users-browser-performance/",
-      "image": "https://images.macrumors.com/article-new/2022/02/webkit-vs-chromium-feature.jpg",
-      "summary": "Microsoft engineers have published benchmark results showing that a Chromium-based browser using its own rendering engine scores 28.6% higher than Safari on Apple's own Speedomete…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-5973563601b1",
-      "title": "Pokémon Champions has brought the battle to Android and iOS",
-      "source": "Android Authority",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-17",
-      "time": "16:13",
-      "publishedAt": "2026-06-17T16:13:03.000Z",
-      "url": "https://www.androidauthority.com/pokemon-champions-launches-on-mobile-3678548/",
-      "image": "https://www.androidauthority.com/wp-content/uploads/2026/06/pokemon-champions-on-mobile.jpg",
-      "summary": "TPCI is celebrating the launch by giving you a free Raichu and mega stones.",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-57697d491045",
-      "title": "Huawei Nova 16 vs Oppo Reno 15: Camera, Performance, Battery and Value Compared",
-      "source": "Gizmochina",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-17",
-      "time": "15:13",
-      "publishedAt": "2026-06-17T15:13:16.000Z",
-      "url": "https://www.gizmochina.com/2026/06/17/huawei-nova-16-vs-oppo-reno-15/",
-      "image": "https://www.gizmochina.com/wp-content/uploads/2026/06/image-80-300x185.png?x44794",
-      "summary": "Huawei Nova 16 and Oppo Reno 15 represent two very different approaches to the premium mid-range smartphone market. One focuses on massive battery life and hardware value, while t…",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-7683399b8f05",
-      "title": "What RAM crisis? OnePlus is beefing up the 15R with more RAM",
-      "source": "Android Authority",
-      "brand": "OPPO",
-      "model": "OPPO 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-17",
-      "time": "10:59",
-      "publishedAt": "2026-06-17T10:59:01.000Z",
-      "url": "https://www.androidauthority.com/oneplus-15r-new-16gb-ram-variant-3678369/",
-      "image": "https://www.androidauthority.com/wp-content/uploads/2025/12/oneplus-15r-review-3-scaled.jpg",
-      "summary": "But you can't buy it in the US, just yet.",
-      "tags": [
-        "OPPO",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "coolapk-user-7fea2c2e0ac4",
-      "title": "JSCHEN小小狐：博主汇总天玑 9600 系列迭代旗舰主摄方案",
-      "source": "JSCHEN小小狐",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-06-17",
-      "time": "08:34",
-      "publishedAt": "2026-06-17T08:34:55.000Z",
-      "url": "https://www.coolapk.com/feed/72389739",
-      "image": "http://image.coolapk.com/feed/2026/0617/16/4702274_8e0e8be6_5294_3912_557@1440x929.jpg",
-      "summary": "『博主汇总天玑 9600 系列迭代旗舰主摄方案』 vivo X500 系列： ◇ 索尼 LYTIA L910 传感器 ◇ 5000 万像素，1/1.28'' 超大底 ◇ LOFIC 技术，动态范围 100dB± OPPO Find X10 系列： ◇ 三星 S5KHPC 传感器 ◇ 2 亿像素，1/1.3''± 超大底 ◇ UFCC 技术，FWC 160K…",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
-      "id": "auto-24bc936b84bb",
-      "title": "Motorola Edge 70 Pro+ vs Nothing Phone (4a) Pro: One Clearly Offers Better Value",
-      "source": "Gizmochina",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-17",
-      "time": "08:33",
-      "publishedAt": "2026-06-17T08:33:08.000Z",
-      "url": "https://www.gizmochina.com/2026/06/17/motorola-edge-70-pro-plus-vs-nothing-phone-4a-pro/",
-      "image": "https://www.gizmochina.com/wp-content/uploads/2026/06/image-79-300x191.png?x44794",
-      "summary": "Motorola’s Edge 70 Pro+ and Nothing’s Phone (4a) Pro target buyers who want premium features without entering flagship price territory. Both devices offer high-refresh-rate AMOLED…",
-      "tags": [
-        "行业",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-038bf0904425",
-      "title": "The OnePlus 16 might be the closest we've come to a bezel-free phone",
-      "source": "Android Central",
-      "brand": "OPPO",
-      "model": "OPPO 相关机型",
-      "type": "评测",
-      "trust": "媒体汇总",
-      "date": "2026-06-17",
-      "time": "08:12",
-      "publishedAt": "2026-06-17T08:12:00.000Z",
-      "url": "https://www.androidcentral.com/phones/oneplus/the-oneplus-16-might-be-the-closest-weve-come-to-a-bezel-free-phone",
-      "image": "https://cdn.mos.cms.futurecdn.net/9zu6TMSPZfbyA5NtjUCZKe-1280-80.jpg",
-      "summary": "Bezels? What bezels?",
-      "tags": [
-        "OPPO",
-        "评测",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-bd7758ce5b13",
-      "title": "Motorola Edge 70 Pro+ vs OnePlus 15R: Which Phone Gives More for Your Money?",
-      "source": "Gizmochina",
-      "brand": "OPPO",
-      "model": "OPPO 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-17",
-      "time": "08:10",
-      "publishedAt": "2026-06-17T08:10:02.000Z",
-      "url": "https://www.gizmochina.com/2026/06/17/motorola-edge-70-pro-plus-vs-oneplus-15r/",
-      "image": "https://www.gizmochina.com/wp-content/uploads/2026/06/image-78-300x174.png?x44794",
-      "summary": "Motorola Edge 70 Pro+ and OnePlus 15R target buyers looking for flagship-level features without stepping into ultra-premium pricing. One focuses on delivering a versatile camera e…",
-      "tags": [
-        "OPPO",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "weibo-451ff2ab29eb",
-      "title": "数码闲聊站：之前超前瞻过了，天玑9600系阵营迭代新机，你们猜哪个的主摄更强？[并不简单]…",
-      "source": "数码闲聊站",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-06-17",
-      "time": "07:28",
-      "publishedAt": "2026-06-17T07:28:00.000Z",
-      "url": "https://weibo.com/6048569942/R4xriFJhS",
-      "image": "",
-      "summary": "之前超前瞻过了，天玑9600系阵营迭代新机，你们猜哪个的主摄更强？[并不简单] 一家压宝索尼LYT-L910，5000万像素+1/1.28\"超大底+LOFIC技术+动态范围100dB± 一家压宝三星HPC，2亿像素+1/1.3\"±超大底+UFCC技术+FWC 160Ke-动态范围96dB±",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "微博"
-      ]
-    },
-    {
-      "id": "auto-a18d4a190fb1",
-      "title": "派早报：SpaceX 宣布收购 Cursor、字节跳动推出 Seedance 2.0 Mini 等",
-      "source": "少数派",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "评测",
-      "trust": "媒体汇总",
-      "date": "2026-06-17",
-      "time": "00:20",
-      "publishedAt": "2026-06-17T00:20:55.000Z",
-      "url": "https://sspai.com/post/111124",
-      "image": "",
-      "summary": "夏普推出 AQUOS R11 手机、理光宣布 GR 系列调整建议零售价等。",
-      "tags": [
-        "行业",
-        "评测",
         "自动抓取"
       ]
     }
