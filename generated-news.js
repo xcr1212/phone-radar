@@ -1,6 +1,46 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-06-19T21:34:05.854Z",
+  "updatedAt": "2026-06-19T23:13:55.571Z",
   "news": [
+    {
+      "id": "newsnow-8f4dafa118b0",
+      "title": "国内首例：垣信卫星实现无改造手机直连卫星通话，通话质量比肩 5G",
+      "source": "IT之家热榜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-19",
+      "time": "22:37",
+      "publishedAt": "2026-06-19T22:37:59.000Z",
+      "url": "https://www.ithome.com/0/966/433.htm",
+      "image": "",
+      "summary": "国内首例：垣信卫星实现无改造手机直连卫星通话，通话质量比肩 5G",
+      "tags": [
+        "行业",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-10538140b04d",
+      "title": "波音迟迟无法交付新机：美国服役近 40 年“空军一号”宣布退役，卡塔尔赠送 747 已完成改装测试",
+      "source": "IT之家热榜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-19",
+      "time": "20:59",
+      "publishedAt": "2026-06-19T20:59:24.000Z",
+      "url": "https://www.ithome.com/0/966/423.htm",
+      "image": "",
+      "summary": "波音迟迟无法交付新机：美国服役近 40 年“空军一号”宣布退役，卡塔尔赠送 747 已完成改装测试",
+      "tags": [
+        "行业",
+        "爆料",
+        "NewsNow"
+      ]
+    },
     {
       "id": "auto-009b13f7af8c",
       "title": "iPhone parts factory in India faces new health probe over alleged water contamination",
@@ -162,46 +202,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-dc6b2f5d1760",
-      "title": "Samsung just confirmed the Exynos 2700 is coming, and the Galaxy S27 could have it",
-      "source": "Android Authority",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-19",
-      "time": "13:05",
-      "publishedAt": "2026-06-19T13:05:43.000Z",
-      "url": "https://www.androidauthority.com/samsung-confirm-exynos-2700-3679355/",
-      "image": "https://www.androidauthority.com/wp-content/uploads/2026/03/samsung-galaxy-s26-base-review-back-phone-3-scaled.jpg",
-      "summary": "This also comes after we learned about a key Exynos 2700 change that could make for a cooler phone.",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-7e89151a4cab",
-      "title": "波音迟迟无法交付新机：美国服役近 40 年“空军一号”宣布退役，卡塔尔赠送 747 已完成改装测试",
-      "source": "IT之家",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-19",
-      "time": "12:59",
-      "publishedAt": "2026-06-19T12:59:24.000Z",
-      "url": "https://www.ithome.com/0/966/423.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/6/ffc74d11-c739-41a9-af4e-dc9820c93d1e.png?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 6 月 19 日消息，当地时间 2026 年 6 月 18 日凌晨，美国总统唐纳德 · 特朗普及其团队结束在法国出席七国集团峰会的行程后返回华盛顿。 落地后，随行人员在 X 上发帖，向已服役近 40 年的总统专机 SAM 29000（28000 仍作为过渡使用）告别。白宫通讯主任史蒂文 · 张配文写道：“干得漂亮，忠诚可靠的老伙计。最后一程。”…",
-      "tags": [
-        "行业",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-da14f7131f2b",
       "title": "Honor will launch these three incredible devices this year",
       "source": "Huawei Central",
@@ -262,26 +262,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-0a30d6ea0b68",
-      "title": "Your aging iPhone might be vulnerable to a flaw Apple can’t patch",
-      "source": "Android Authority",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-19",
-      "time": "10:23",
-      "publishedAt": "2026-06-19T10:23:57.000Z",
-      "url": "https://www.androidauthority.com/iphone-usbliter8-exploit-3679320/",
-      "image": "https://www.androidauthority.com/wp-content/uploads/2019/09/iPhone-11-Pro-Max-Rear-in-Hand-e1569854606506.jpg",
-      "summary": "Forget software updates: this iPhone bug is permanent.",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-d47c62c9eb32",
       "title": "Rising costs could force Samsung to keep things mild for the Galaxy S27 next year",
       "source": "Android Central",
@@ -298,46 +278,6 @@ window.phoneRadarAuto = {
       "tags": [
         "Samsung",
         "评测",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-1e3d50dac0eb",
-      "title": "This all-new OnePlus phone could deliver three days of battery life",
-      "source": "Android Authority",
-      "brand": "OPPO",
-      "model": "OPPO 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-19",
-      "time": "09:28",
-      "publishedAt": "2026-06-19T09:28:49.000Z",
-      "url": "https://www.androidauthority.com/this-all-new-oneplus-phone-could-deliver-three-days-of-battery-life-3679286/",
-      "image": "https://www.androidauthority.com/wp-content/uploads/2026/06/OnePlus-N6-official-image.jpg",
-      "summary": "OnePlus also says the battery should last for seven years before dropping to 80% effective capacity.",
-      "tags": [
-        "OPPO",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-9a49bc576df7",
-      "title": "“20 周年版 iPhone”A21 Pro 被曝独享台积电 N2P 制程，苹果与 Marvell 预计将成为 A14 首批客户",
-      "source": "IT之家",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-19",
-      "time": "09:14",
-      "publishedAt": "2026-06-19T09:14:47.000Z",
-      "url": "https://www.ithome.com/0/966/368.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/6/4db7b03a-79af-440c-bb1a-cbc851e1c123.jpg",
-      "summary": "IT之家 6 月 19 日消息，台积电 2nm 工艺（N2）已如期于 2025 年第四季度实现量产，预计今年下半年还将推出优化版的 N2P 制程。 据中国台湾《工商时报》今日报道，台积电 N2P 今年将率先被高通和联发科采用，两家公司希望借此在今年晚些时候的新品上抢占相对于苹果的技术优势。 苹果预计会在 2027 年的 A21 Pro 芯片上导入 N2P…",
-      "tags": [
-        "iPhone",
-        "爆料",
         "自动抓取"
       ]
     },
@@ -397,46 +337,6 @@ window.phoneRadarAuto = {
       "summary": "Huawei Mate XT 2 tri-fold can once again launch ahead of Apple’s new iPhone lineup. A new piece of information says that the Chinese OEM could unveil its next-gen triple foldable…",
       "tags": [
         "Huawei",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-e992eb73e3a9",
-      "title": "江苏发放手机消费专项补贴：6000 元以上也补 10%，最高 1000 元",
-      "source": "IT之家",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-19",
-      "time": "06:51",
-      "publishedAt": "2026-06-19T06:51:18.000Z",
-      "url": "https://www.ithome.com/0/966/347.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/6/d500db40-8ba4-4421-8041-6f89320ec6a4.jpg?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 6 月 19 日消息，为持续提振大宗消费、抢抓暑期消费窗口期，江苏省商务厅于 6 月 18 日正式发布通告，启动“苏新消费 · 品质数码”专项促消费活动。 根据活动安排，本次补贴自 2026 年 6 月 18 日 18 时正式投放，补贴资金总量有限，实行先到先得、用完即止机制。 个人消费者在江苏省内参与活动的线上平台或线下实体商户，购买单件最终销…",
-      "tags": [
-        "行业",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-ee1844cbba3d",
-      "title": "消息称荣耀正密集起诉多家手机壳电商商标侵权，或涉及超 400 家公司",
-      "source": "IT之家",
-      "brand": "HONOR",
-      "model": "HONOR 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-19",
-      "time": "06:45",
-      "publishedAt": "2026-06-19T06:45:16.000Z",
-      "url": "https://www.ithome.com/0/966/346.htm",
-      "image": "",
-      "summary": "IT之家 6 月 19 日消息，据财闻今日报道，日前，荣耀正密集起诉多家手机壳电商，理由为商标侵权，本次荣耀起诉力度较大，或涉及超 400 家手机壳电商公司。 报道提到，具体来看，荣耀认为这些手机壳厂商在商品的标题中和介绍页面 大量使用“荣耀”二字或“Honor”标识 ，而这两个词是荣耀的注册商标，因此商家行为属于“品牌攀附”，侵犯了荣耀的商标权。 一位深…",
-      "tags": [
-        "HONOR",
         "爆料",
         "自动抓取"
       ]
@@ -722,26 +622,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-052f74f7d05f",
-      "title": "This Galaxy Z Fold 8 rival could put Ultra flagships to shame with its huge battery",
-      "source": "Android Authority",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-18",
-      "time": "12:06",
-      "publishedAt": "2026-06-18T12:06:19.000Z",
-      "url": "https://www.androidauthority.com/vivo-galaxy-z-fold-8-rival-battery-size-3678904/",
-      "image": "https://www.androidauthority.com/wp-content/uploads/2026/06/vivo-X-Fold-6-official-image.jpg",
-      "summary": "The X Fold 6's battery will put conventional Ultra and Pro Max phones to shame.",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-c55e384e49e7",
       "title": "iQOO Z11i teasers begin, here’s expected specifications",
       "source": "Gizmochina",
@@ -777,26 +657,6 @@ window.phoneRadarAuto = {
       "summary": "Oppo is gearing up to launch the Reno 16 series in multiple markets. Among these, Indonesia and Malaysia have already confirmed the launch dates. While the lineup will be announce…",
       "tags": [
         "OPPO",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-f33148794817",
-      "title": "Apple could fix the iPhone Air’s biggest issues with the iPhone Air 2",
-      "source": "Android Authority",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-18",
-      "time": "09:46",
-      "publishedAt": "2026-06-18T09:46:42.000Z",
-      "url": "https://www.androidauthority.com/iphone-air-2-dual-cameras-better-battery-3678873/",
-      "image": "https://www.androidauthority.com/wp-content/uploads/2025/09/iPhone-Air-rear-hero.jpg",
-      "summary": "The iPhone Air 2 might get a dual-camera setup and better battery life.",
-      "tags": [
-        "iPhone",
         "爆料",
         "自动抓取"
       ]

@@ -1,12 +1,12 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-06-19T21:34:05.854Z",
+  "updatedAt": "2026-06-19T23:13:55.571Z",
   "issueDate": "2026-06-19",
   "issue": "VOL.260619",
   "title": "手机情报日报",
-  "intro": "今日筛出 19 条重点，其中 8 条是重点爆料，包含 9 条 iPhone 相关、0 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 22 条重点，其中 8 条是重点爆料，包含 8 条 iPhone 相关、0 条官方确认、0 条参数线索。",
   "stats": {
-    "total": 19,
-    "iphone": 9,
+    "total": 22,
+    "iphone": 8,
     "leaks": 8,
     "official": 0,
     "specs": 0
@@ -17,30 +17,6 @@ window.phoneRadarDaily = {
       "title": "重点爆料",
       "hint": "机模、配色、影像、屏幕、电池和芯片线索先看。",
       "items": [
-        {
-          "id": "auto-9a49bc576df7",
-          "title": "“20 周年版 iPhone”A21 Pro 被曝独享台积电 N2P 制程，苹果与 Marvell 预计将成为 A14 首批客户",
-          "originalTitle": "",
-          "source": "IT之家",
-          "brand": "iPhone",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-06-19",
-          "time": "09:14",
-          "publishedAt": "2026-06-19T09:14:47.000Z",
-          "url": "https://www.ithome.com/0/966/368.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/6/4db7b03a-79af-440c-bb1a-cbc851e1c123.jpg",
-          "verdict": "先看",
-          "takeaway": "IT之家 6 月 19 日消息，台积电 2nm 工艺（N2）已如期于 2025 年第四季度实现量产，预计今年下半年还将推出优化版的 N2P 制程。 据中国台湾《工商时报》今日报道，台积电 N2P 今年将率先被高通和联发科采用，两家公司希望借此在今年晚些时候的新品上抢占相对于苹果的技术优势。 苹果预计会在 2027 年的 A21 Pro 芯片上导入 N2P…",
-          "detail": "IT之家 6 月 19 日消息，台积电 2nm 工艺（N2）已如期于 2025 年第四季度实现量产，预计今年下半年还将推出优化版的 N2P 制程。 据中国台湾《工商时报》今日报道，台积电 N2P 今年将率先被高通和联发科采用，两家公司希望借此在今年晚些时候的新品上抢占相对于苹果的技术优势。 苹果预计会在 2027 年的 A21 Pro 芯片上导入 N2P…",
-          "keyPoints": [
-            "芯片 / 性能",
-            "爆料来源"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
         {
           "id": "auto-f35cfa3eba4a",
           "title": "iPhone 18 Pro 影像能力相关消息",
@@ -136,29 +112,6 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
-          "id": "auto-ee1844cbba3d",
-          "title": "消息称荣耀正密集起诉多家手机壳电商商标侵权，或涉及超 400 家公司",
-          "originalTitle": "",
-          "source": "IT之家",
-          "brand": "HONOR",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-06-19",
-          "time": "06:45",
-          "publishedAt": "2026-06-19T06:45:16.000Z",
-          "url": "https://www.ithome.com/0/966/346.htm",
-          "image": "",
-          "verdict": "先看",
-          "takeaway": "IT之家 6 月 19 日消息，据财闻今日报道，日前，荣耀正密集起诉多家手机壳电商，理由为商标侵权，本次荣耀起诉力度较大，或涉及超 400 家手机壳电商公司。 报道提到，具体来看，荣耀认为这些手机壳厂商在商品的标题中和介绍页面 大量使用“荣耀”二字或“Honor”标识 ，而这两个词是荣耀的注册商标，因此商家行为属于“品牌攀附”，侵犯了荣耀的商标权。 一位深…",
-          "detail": "IT之家 6 月 19 日消息，据财闻今日报道，日前，荣耀正密集起诉多家手机壳电商，理由为商标侵权，本次荣耀起诉力度较大，或涉及超 400 家手机壳电商公司。 报道提到，具体来看，荣耀认为这些手机壳厂商在商品的标题中和介绍页面 大量使用“荣耀”二字或“Honor”标识 ，而这两个词是荣耀的注册商标，因此商家行为属于“品牌攀附”，侵犯了荣耀的商标权。 一位深…",
-          "keyPoints": [
-            "爆料来源"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
           "id": "coolapk-user-196bcdf5935b",
           "title": "竹本青：曝比亚迪计划推动子品牌自负盈亏，仰望暂不在其中",
           "originalTitle": "",
@@ -200,6 +153,52 @@ window.phoneRadarDaily = {
           "keyPoints": [
             "成本 / 价格",
             "爆料来源"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "auto-ebd1642f829b",
+          "title": "Galaxy S26 Edge 系统功能 / AI 体验相关消息",
+          "originalTitle": "",
+          "source": "SamMobile",
+          "brand": "Samsung",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-06-19",
+          "time": "08:10",
+          "publishedAt": "2026-06-19T08:10:29.000Z",
+          "url": "https://www.sammobile.com/news/while-galaxy-s26-edge-cancelled-apple-iphone-air-2-plans/",
+          "image": "",
+          "verdict": "先看",
+          "takeaway": "Samsung 有系统功能或 AI 体验更新，适合关注后续是否影响日常使用。",
+          "detail": "Galaxy S26 Edge 系统功能 / AI 体验相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "auto-893cc49f9cce",
+          "title": "OPPO 外观设计线索曝光",
+          "originalTitle": "",
+          "source": "Gizmochina",
+          "brand": "OPPO",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-06-18",
+          "time": "10:04",
+          "publishedAt": "2026-06-18T10:04:20.000Z",
+          "url": "https://www.gizmochina.com/2026/06/18/oppo-reno-16-series-launch-date-renders-variants-confirmed/",
+          "image": "https://www.gizmochina.com/wp-content/uploads/2026/06/image-91-300x205.png?x44794",
+          "verdict": "先看",
+          "takeaway": "OPPO 外观设计线索曝光。重点看外观、颜色、尺寸是否和上一代有明显变化。",
+          "detail": "OPPO 外观设计线索曝光。这类内容主要看外观设计、按键布局、相机模组和尺寸变化，后续最好等更多渲染图或保护壳线索互相验证。",
+          "keyPoints": [
+            "外观 / 配色 / 尺寸"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
@@ -312,27 +311,104 @@ window.phoneRadarDaily = {
       "hint": "能直接更新到参数库。",
       "items": [
         {
-          "id": "auto-e992eb73e3a9",
-          "title": "江苏发放手机消费专项补贴：6000 元以上也补 10%，最高 1000 元",
+          "id": "auto-ea6ef1744965",
+          "title": "iPhone 18 折叠屏相关消息",
           "originalTitle": "",
-          "source": "IT之家",
-          "brand": "行业",
+          "source": "Huawei Central",
+          "brand": "Huawei",
           "type": "爆料",
           "trust": "媒体汇总",
           "date": "2026-06-19",
-          "time": "06:51",
-          "publishedAt": "2026-06-19T06:51:18.000Z",
-          "url": "https://www.ithome.com/0/966/347.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/6/d500db40-8ba4-4421-8041-6f89320ec6a4.jpg?x-bce-process=image/format,f_auto",
-          "verdict": "扫一眼",
-          "takeaway": "IT之家 6 月 19 日消息，为持续提振大宗消费、抢抓暑期消费窗口期，江苏省商务厅于 6 月 18 日正式发布通告，启动“苏新消费 · 品质数码”专项促消费活动。 根据活动安排，本次补贴自 2026 年 6 月 18 日 18 时正式投放，补贴资金总量有限，实行先到先得、用完即止机制。 个人消费者在江苏省内参与活动的线上平台或线下实体商户，购买单件最终销…",
-          "detail": "IT之家 6 月 19 日消息，为持续提振大宗消费、抢抓暑期消费窗口期，江苏省商务厅于 6 月 18 日正式发布通告，启动“苏新消费 · 品质数码”专项促消费活动。 根据活动安排，本次补贴自 2026 年 6 月 18 日 18 时正式投放，补贴资金总量有限，实行先到先得、用完即止机制。 个人消费者在江苏省内参与活动的线上平台或线下实体商户，购买单件最终销…",
+          "time": "07:03",
+          "publishedAt": "2026-06-19T07:03:05.000Z",
+          "url": "https://www.huaweicentral.com/huawei-mate-xt-2-tri-fold-could-launch-before-iphone-18-again/",
+          "image": "https://www.huaweicentral.com/wp-content/uploads/2026/06/MateXT2-launch-leak.jpg",
+          "verdict": "可略过",
+          "takeaway": "Huawei 有系统功能或 AI 体验更新，适合关注后续是否影响日常使用。",
+          "detail": "iPhone 18 折叠屏相关消息。重点看折痕、铰链、厚度、屏幕可靠性和重量是否有实质改善。",
           "keyPoints": [
             "爆料"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "中文源可以直接点开快读；看完只保留和购机有关的点。"
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        },
+        {
+          "id": "auto-8d8377a24ebd",
+          "title": "HONOR 电池 / 充电相关消息",
+          "originalTitle": "",
+          "source": "Huawei Central",
+          "brand": "HONOR",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-06-19",
+          "time": "05:23",
+          "publishedAt": "2026-06-19T05:23:32.000Z",
+          "url": "https://www.huaweicentral.com/honor-600-smart-introduced-with-7700mah-battery/",
+          "image": "https://www.huaweicentral.com/wp-content/uploads/2026/06/Honor600Smart2.jpg",
+          "verdict": "可略过",
+          "takeaway": "HONOR 有发布或新功能消息，适合确认是否和新机有关。",
+          "detail": "HONOR 电池 / 充电相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
+          "keyPoints": [
+            "屏幕形态",
+            "电池 / 充电"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "影响日常体验，尤其是游戏、拍照和长时间使用。",
+          "action": "有具体参数就记录到参数库；没有参数就先收藏。"
+        },
+        {
+          "id": "auto-c55e384e49e7",
+          "title": "vivo 相关消息",
+          "originalTitle": "",
+          "source": "Gizmochina",
+          "brand": "vivo",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-06-18",
+          "time": "11:52",
+          "publishedAt": "2026-06-18T11:52:12.000Z",
+          "url": "https://www.gizmochina.com/2026/06/18/iqoo-z11i-design-colors-confirmed/",
+          "image": "https://www.gizmochina.com/wp-content/uploads/2026/06/iQOO-Z11i-blue-1-1-300x184.jpg?x44794",
+          "verdict": "可略过",
+          "takeaway": "vivo 相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
+          "detail": "vivo 相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        }
+      ]
+    },
+    {
+      "id": "review",
+      "title": "评测与体验",
+      "hint": "买前再细看，平时扫一眼即可。",
+      "items": [
+        {
+          "id": "auto-f1cb52b52a5c",
+          "title": "OPPO 相关消息",
+          "originalTitle": "",
+          "source": "Android Central",
+          "brand": "OPPO",
+          "type": "评测",
+          "trust": "媒体汇总",
+          "date": "2026-06-18",
+          "time": "13:53",
+          "publishedAt": "2026-06-18T13:53:27.000Z",
+          "url": "https://www.androidcentral.com/phones/nothing-phones/carl-pei-tells-apple-hes-stealing-its-customers-as-if-imessage-isnt-holding-them-hostage",
+          "image": "https://cdn.mos.cms.futurecdn.net/EQoTnY6FMFvF56RgKzrAVd-1280-80.png",
+          "verdict": "可略过",
+          "takeaway": "OPPO 相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
+          "detail": "OPPO 相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
+          "keyPoints": [
+            "评测"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是实际体验内容，买前适合重点看缺点和取舍。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         }
       ]
     },
@@ -341,29 +417,6 @@ window.phoneRadarDaily = {
       "title": "行业趋势",
       "hint": "看方向，不急着当购买依据。",
       "items": [
-        {
-          "id": "auto-7e89151a4cab",
-          "title": "波音迟迟无法交付新机：美国服役近 40 年“空军一号”宣布退役，卡塔尔赠送 747 已完成改装测试",
-          "originalTitle": "",
-          "source": "IT之家",
-          "brand": "行业",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-06-19",
-          "time": "12:59",
-          "publishedAt": "2026-06-19T12:59:24.000Z",
-          "url": "https://www.ithome.com/0/966/423.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/6/ffc74d11-c739-41a9-af4e-dc9820c93d1e.png?x-bce-process=image/format,f_auto",
-          "verdict": "扫一眼",
-          "takeaway": "IT之家 6 月 19 日消息，当地时间 2026 年 6 月 18 日凌晨，美国总统唐纳德 · 特朗普及其团队结束在法国出席七国集团峰会的行程后返回华盛顿。 落地后，随行人员在 X 上发帖，向已服役近 40 年的总统专机 SAM 29000（28000 仍作为过渡使用）告别。白宫通讯主任史蒂文 · 张配文写道：“干得漂亮，忠诚可靠的老伙计。最后一程。”…",
-          "detail": "IT之家 6 月 19 日消息，当地时间 2026 年 6 月 18 日凌晨，美国总统唐纳德 · 特朗普及其团队结束在法国出席七国集团峰会的行程后返回华盛顿。 落地后，随行人员在 X 上发帖，向已服役近 40 年的总统专机 SAM 29000（28000 仍作为过渡使用）告别。白宫通讯主任史蒂文 · 张配文写道：“干得漂亮，忠诚可靠的老伙计。最后一程。”…",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "中文源可以直接点开快读；看完只保留和购机有关的点。"
-        },
         {
           "id": "newsnow-72b449ac4749",
           "title": "最近被双持搞烦了，手机换来换去，微信消息倒来倒去，一会要适应大屏，一会要适应小屏，出门纠结带哪台，两台一起带又嫌弃重，实在感到不是很方便。",
@@ -472,6 +525,29 @@ window.phoneRadarDaily = {
           "verdict": "可略过",
           "takeaway": "Pixel 相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
           "detail": "Pixel 相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
+          "keyPoints": [
+            "成本 / 价格"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        },
+        {
+          "id": "auto-3680f922d4a3",
+          "title": "Samsung 相关消息",
+          "originalTitle": "",
+          "source": "SamMobile",
+          "brand": "Samsung",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-06-19",
+          "time": "15:44",
+          "publishedAt": "2026-06-19T15:44:57.000Z",
+          "url": "https://www.sammobile.com/news/samsung-can-avoid-cheapening-the-galaxy-s27-with-boe-panels-but-it-may-not-want-to/",
+          "image": "",
+          "verdict": "可略过",
+          "takeaway": "Samsung 相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
+          "detail": "Samsung 相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
           "keyPoints": [
             "成本 / 价格"
           ],
