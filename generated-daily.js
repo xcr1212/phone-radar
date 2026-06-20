@@ -1,13 +1,13 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-06-20T09:39:54.611Z",
+  "updatedAt": "2026-06-20T12:08:35.815Z",
   "issueDate": "2026-06-20",
   "issue": "VOL.260620",
   "title": "手机情报日报",
-  "intro": "今日筛出 18 条重点，其中 8 条是重点爆料，包含 5 条 iPhone 相关、1 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 16 条重点，其中 6 条是重点爆料，包含 5 条 iPhone 相关、1 条官方确认、0 条参数线索。",
   "stats": {
-    "total": 18,
+    "total": 16,
     "iphone": 5,
-    "leaks": 8,
+    "leaks": 6,
     "official": 1,
     "specs": 0
   },
@@ -53,35 +53,12 @@ window.phoneRadarDaily = {
           "time": "07:06",
           "publishedAt": "2026-06-20T07:06:22.000Z",
           "url": "https://www.ithome.com/0/966/516.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/6/9b1e3f68-d980-41b8-925f-f296c71683f2.png",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/6/9b1e3f68-d980-41b8-925f-f296c71683f2.png?x-bce-process=image/format,f_auto",
           "verdict": "先看",
-          "takeaway": "IT之家 6 月 20 日消息，消息源 smashx_60 现已曝光了 HMD 旗下 Luma2 手机，该机也将作为运营商 M-Kopa X4 定制机随套餐销售。 该机可选冰蓝、浅沙、午夜湖山中配色，配备一块 6.75 英寸 HD+ 120Hz IPS LCD 面板，匹配 8MP 自拍摄像头；手机背面配备 50MP 主摄和辅助摄像头。 该机配备 4GB L…",
-          "detail": "IT之家 6 月 20 日消息，消息源 smashx_60 现已曝光了 HMD 旗下 Luma2 手机，该机也将作为运营商 M-Kopa X4 定制机随套餐销售。 该机可选冰蓝、浅沙、午夜湖山中配色，配备一块 6.75 英寸 HD+ 120Hz IPS LCD 面板，匹配 8MP 自拍摄像头；手机背面配备 50MP 主摄和辅助摄像头。 该机配备 4GB L…",
+          "takeaway": "IT之家 6 月 20 日消息，消息源 smashx_60 现已曝光了 HMD 旗下 Luma2 手机，该机也将作为运营商 M-Kopa X4 定制机随套餐销售。 该机可选冰蓝、浅沙、午夜湖三种配色，配备一块 6.75 英寸 HD+ 120Hz IPS LCD 面板，匹配 8MP 自拍摄像头；手机背面配备 50MP 主摄和辅助摄像头。 该机配备 4GB L…",
+          "detail": "IT之家 6 月 20 日消息，消息源 smashx_60 现已曝光了 HMD 旗下 Luma2 手机，该机也将作为运营商 M-Kopa X4 定制机随套餐销售。 该机可选冰蓝、浅沙、午夜湖三种配色，配备一块 6.75 英寸 HD+ 120Hz IPS LCD 面板，匹配 8MP 自拍摄像头；手机背面配备 50MP 主摄和辅助摄像头。 该机配备 4GB L…",
           "keyPoints": [
             "外观 / 配色 / 尺寸"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "auto-ecd66985822f",
-          "title": "Pixel 10 等用户反馈升级谷歌安卓 17 后遇触控异常 / 5G 连接中断故障",
-          "originalTitle": "",
-          "source": "IT之家",
-          "brand": "Pixel",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-06-20",
-          "time": "01:01",
-          "publishedAt": "2026-06-20T01:01:55.000Z",
-          "url": "https://www.ithome.com/0/966/467.htm",
-          "image": "",
-          "verdict": "先看",
-          "takeaway": "IT之家 6 月 20 日消息，科技媒体 Android Authority 昨日（6 月 19 日）发布博文，报道称部分 Pixel 手机用户反馈，升级安卓 17 系统后，遇到触控异常以及 5G 连接中断故障。 一、触控异常 根据 Reddit 社区、X 社交平台用户反馈，Pixel 手机升级安卓 17 后遇到 2 种触控问题，其一是屏幕触控没有响应，其…",
-          "detail": "IT之家 6 月 20 日消息，科技媒体 Android Authority 昨日（6 月 19 日）发布博文，报道称部分 Pixel 手机用户反馈，升级安卓 17 系统后，遇到触控异常以及 5G 连接中断故障。 一、触控异常 根据 Reddit 社区、X 社交平台用户反馈，Pixel 手机升级安卓 17 后遇到 2 种触控问题，其一是屏幕触控没有响应，其…",
-          "keyPoints": [
-            "屏幕形态"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
@@ -135,53 +112,6 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
-          "id": "auto-cd500e0f4d16",
-          "title": "负面太多 Hold 不住了：特朗普手机公关公司 Poplar Group 宣布终止合作",
-          "originalTitle": "",
-          "source": "IT之家",
-          "brand": "行业",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-06-20",
-          "time": "01:17",
-          "publishedAt": "2026-06-20T01:17:43.000Z",
-          "url": "https://www.ithome.com/0/966/469.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/6/d6b68f19-2dde-4f6f-83d3-228c8daa9f78.png",
-          "verdict": "先看",
-          "takeaway": "IT之家 6 月 20 日消息，科技媒体 The Verge 昨日（6 月 19 日）发布博文，报道称特朗普手机（T1 phone）的公关团队已正式“离场”，Poplar Group 宣布不再协助 Trump Mobile 展开任何业务。 IT之家援引博文介绍，Poplar Group 于 2025 年 6 月接手 Trump Mobile 公关事宜，其创…",
-          "detail": "IT之家 6 月 20 日消息，科技媒体 The Verge 昨日（6 月 19 日）发布博文，报道称特朗普手机（T1 phone）的公关团队已正式“离场”，Poplar Group 宣布不再协助 Trump Mobile 展开任何业务。 IT之家援引博文介绍，Poplar Group 于 2025 年 6 月接手 Trump Mobile 公关事宜，其创…",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "newsnow-749e0dd04028",
-          "title": "给姥爷换了k90max，记录一下，姥爷的上一台手机是红米note11tpro，差一个月用了四年了，太老了有屏幕老化不够亮，电池鼓包问题，老人需求屏幕大，电池大的，本身想选iqo",
-          "originalTitle": "",
-          "source": "酷安热榜",
-          "brand": "行业",
-          "type": "爆料",
-          "trust": "高关注爆料源",
-          "date": "2026-06-20",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://www.coolapk.com/feed/72433825",
-          "image": "",
-          "verdict": "先看",
-          "takeaway": "给姥爷换了k90max，记录一下，姥爷的上一台手机是红米note11tpro，差一个月用了四年了，太老了有屏幕老化不够亮，电池鼓包问题，老人需求屏幕大，电池大的，本身想选iqo",
-          "detail": "给姥爷换了k90max，记录一下，姥爷的上一台手机是红米note11tpro，差一个月用了四年了，太老了有屏幕老化不够亮，电池鼓包问题，老人需求屏幕大，电池大的，本身想选iqo",
-          "keyPoints": [
-            "屏幕形态",
-            "电池 / 充电"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
           "id": "auto-d47c62c9eb32",
           "title": "Galaxy S27 价格 / 成本相关消息",
           "originalTitle": "",
@@ -200,6 +130,29 @@ window.phoneRadarDaily = {
           "keyPoints": [
             "成本 / 价格",
             "爆料来源"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "auto-ebd1642f829b",
+          "title": "Galaxy S26 Edge 系统功能 / AI 体验相关消息",
+          "originalTitle": "",
+          "source": "SamMobile",
+          "brand": "Samsung",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-06-19",
+          "time": "08:10",
+          "publishedAt": "2026-06-19T08:10:29.000Z",
+          "url": "https://www.sammobile.com/news/while-galaxy-s26-edge-cancelled-apple-iphone-air-2-plans/",
+          "image": "",
+          "verdict": "先看",
+          "takeaway": "Samsung 有系统功能或 AI 体验更新，适合关注后续是否影响日常使用。",
+          "detail": "Galaxy S26 Edge 系统功能 / AI 体验相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
+          "keyPoints": [
+            "爆料"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
@@ -259,21 +212,21 @@ window.phoneRadarDaily = {
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         },
         {
-          "id": "newsnow-1e9bf0347fa0",
-          "title": "史上最贵iPhone要来了吗",
+          "id": "newsnow-b33e77576c2a",
+          "title": "涨完价的iPhone还香吗",
           "originalTitle": "",
-          "source": "百度热搜",
+          "source": "微博热搜",
           "brand": "iPhone",
           "type": "爆料",
-          "trust": "媒体汇总",
+          "trust": "待验证",
           "date": "2026-06-20",
           "time": "",
           "publishedAt": "",
-          "url": "https://www.baidu.com/s?wd=%E5%8F%B2%E4%B8%8A%E6%9C%80%E8%B4%B5iPhone%E8%A6%81%E6%9D%A5%E4%BA%86%E5%90%97",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%B6%A8%E5%AE%8C%E4%BB%B7%E7%9A%84iPhone%E8%BF%98%E9%A6%99%E5%90%97%23&t=31&band_rank=18&Refer=top",
           "image": "",
           "verdict": "扫一眼",
-          "takeaway": "史上最贵iPhone要来了吗",
-          "detail": "史上最贵iPhone要来了吗",
+          "takeaway": "涨完价的iPhone还香吗",
+          "detail": "涨完价的iPhone还香吗",
           "keyPoints": [
             "爆料"
           ],
@@ -327,6 +280,29 @@ window.phoneRadarDaily = {
           "verdict": "先看",
           "takeaway": "小米这次脸都不要了，红米K70机主手机系统被强制更新连系统更新设置都直接给整消失了，机主直接被取消了拒绝更新系统的选项，",
           "detail": "小米这次脸都不要了，红米K70机主手机系统被强制更新连系统更新设置都直接给整消失了，机主直接被取消了拒绝更新系统的选项，",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        },
+        {
+          "id": "newsnow-59c19cb81301",
+          "title": "#HyperOS# 小米手机， 12G的运行内存，狗都不用，草，什么垃圾优化，4个后台卡到爆",
+          "originalTitle": "",
+          "source": "酷安热榜",
+          "brand": "Xiaomi",
+          "type": "爆料",
+          "trust": "高关注爆料源",
+          "date": "2026-06-20",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://www.coolapk.com/feed/72430253",
+          "image": "",
+          "verdict": "先看",
+          "takeaway": "#HyperOS# 小米手机， 12G的运行内存，狗都不用，草，什么垃圾优化，4个后台卡到爆",
+          "detail": "#HyperOS# 小米手机， 12G的运行内存，狗都不用，草，什么垃圾优化，4个后台卡到爆",
           "keyPoints": [
             "爆料"
           ],
@@ -424,29 +400,6 @@ window.phoneRadarDaily = {
           ],
           "confidence": "可信度较高，但仍属于发布前线索。",
           "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
-        {
-          "id": "auto-cc50695df661",
-          "title": "Galaxy S26 芯片 / 性能相关消息",
-          "originalTitle": "",
-          "source": "Android Authority",
-          "brand": "Samsung",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-06-20",
-          "time": "09:00",
-          "publishedAt": "2026-06-20T09:00:11.000Z",
-          "url": "https://www.androidauthority.com/samsung-exynos-2600-overheating-3677429/",
-          "image": "https://www.androidauthority.com/wp-content/uploads/2026/06/Galaxy-S26-Plus-playing-Asphalt-Legends.jpg",
-          "verdict": "可略过",
-          "takeaway": "Galaxy S26 芯片 / 性能相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
-          "detail": "Galaxy S26 芯片 / 性能相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
-          "keyPoints": [
-            "芯片 / 性能"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "影响性能和寿命判断，适合放进参数库。",
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         }
       ]

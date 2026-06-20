@@ -1,5 +1,5 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-06-20T09:39:54.611Z",
+  "updatedAt": "2026-06-20T12:08:35.815Z",
   "news": [
     {
       "id": "auto-cc50695df661",
@@ -33,8 +33,8 @@ window.phoneRadarAuto = {
       "time": "07:06",
       "publishedAt": "2026-06-20T07:06:22.000Z",
       "url": "https://www.ithome.com/0/966/516.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/6/9b1e3f68-d980-41b8-925f-f296c71683f2.png",
-      "summary": "IT之家 6 月 20 日消息，消息源 smashx_60 现已曝光了 HMD 旗下 Luma2 手机，该机也将作为运营商 M-Kopa X4 定制机随套餐销售。 该机可选冰蓝、浅沙、午夜湖山中配色，配备一块 6.75 英寸 HD+ 120Hz IPS LCD 面板，匹配 8MP 自拍摄像头；手机背面配备 50MP 主摄和辅助摄像头。 该机配备 4GB L…",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/6/9b1e3f68-d980-41b8-925f-f296c71683f2.png?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 6 月 20 日消息，消息源 smashx_60 现已曝光了 HMD 旗下 Luma2 手机，该机也将作为运营商 M-Kopa X4 定制机随套餐销售。 该机可选冰蓝、浅沙、午夜湖三种配色，配备一块 6.75 英寸 HD+ 120Hz IPS LCD 面板，匹配 8MP 自拍摄像头；手机背面配备 50MP 主摄和辅助摄像头。 该机配备 4GB L…",
       "tags": [
         "行业",
         "爆料",
@@ -122,46 +122,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-cd500e0f4d16",
-      "title": "负面太多 Hold 不住了：特朗普手机公关公司 Poplar Group 宣布终止合作",
-      "source": "IT之家",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-20",
-      "time": "01:17",
-      "publishedAt": "2026-06-20T01:17:43.000Z",
-      "url": "https://www.ithome.com/0/966/469.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/6/d6b68f19-2dde-4f6f-83d3-228c8daa9f78.png",
-      "summary": "IT之家 6 月 20 日消息，科技媒体 The Verge 昨日（6 月 19 日）发布博文，报道称特朗普手机（T1 phone）的公关团队已正式“离场”，Poplar Group 宣布不再协助 Trump Mobile 展开任何业务。 IT之家援引博文介绍，Poplar Group 于 2025 年 6 月接手 Trump Mobile 公关事宜，其创…",
-      "tags": [
-        "行业",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-ecd66985822f",
-      "title": "Pixel 10 等用户反馈升级谷歌安卓 17 后遇触控异常 / 5G 连接中断故障",
-      "source": "IT之家",
-      "brand": "Pixel",
-      "model": "Pixel 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-20",
-      "time": "01:01",
-      "publishedAt": "2026-06-20T01:01:55.000Z",
-      "url": "https://www.ithome.com/0/966/467.htm",
-      "image": "",
-      "summary": "IT之家 6 月 20 日消息，科技媒体 Android Authority 昨日（6 月 19 日）发布博文，报道称部分 Pixel 手机用户反馈，升级安卓 17 系统后，遇到触控异常以及 5G 连接中断故障。 一、触控异常 根据 Reddit 社区、X 社交平台用户反馈，Pixel 手机升级安卓 17 后遇到 2 种触控问题，其一是屏幕触控没有响应，其…",
-      "tags": [
-        "Pixel",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-9bbf43c61c96",
       "title": "Apple announces changes to iOS in Brazil",
       "source": "Apple Newsroom",
@@ -179,26 +139,6 @@ window.phoneRadarAuto = {
         "iPhone",
         "官方",
         "自动抓取"
-      ]
-    },
-    {
-      "id": "newsnow-c1acc375ece8",
-      "title": "最近被双持搞烦了，手机换来换去，微信消息倒来倒去，一会要适应大屏，一会要适应小屏，出门纠结带哪台，两台一起带又嫌弃重，实在感到不是很方便。",
-      "source": "酷安热榜",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-06-20",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72419411",
-      "image": "",
-      "summary": "最近被双持搞烦了，手机换来换去，微信消息倒来倒去，一会要适应大屏，一会要适应小屏，出门纠结带哪台，两台一起带又嫌弃重，实在感到不是很方便。",
-      "tags": [
-        "行业",
-        "爆料",
-        "NewsNow"
       ]
     },
     {
@@ -222,6 +162,26 @@ window.phoneRadarAuto = {
       ]
     },
     {
+      "id": "newsnow-c1acc375ece8",
+      "title": "最近被双持搞烦了，手机换来换去，微信消息倒来倒去，一会要适应大屏，一会要适应小屏，出门纠结带哪台，两台一起带又嫌弃重，实在感到不是很方便。",
+      "source": "酷安热榜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-06-20",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/72419411",
+      "image": "",
+      "summary": "最近被双持搞烦了，手机换来换去，微信消息倒来倒去，一会要适应大屏，一会要适应小屏，出门纠结带哪台，两台一起带又嫌弃重，实在感到不是很方便。",
+      "tags": [
+        "行业",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
       "id": "newsnow-a6b413145594",
       "title": "【消息称荣耀正密集起诉手机壳电商，或涉及超400家公司】",
       "source": "酷安热榜",
@@ -237,6 +197,26 @@ window.phoneRadarAuto = {
       "summary": "【消息称荣耀正密集起诉手机壳电商，或涉及超400家公司】",
       "tags": [
         "HONOR",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-59c19cb81301",
+      "title": "#HyperOS# 小米手机， 12G的运行内存，狗都不用，草，什么垃圾优化，4个后台卡到爆",
+      "source": "酷安热榜",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-06-20",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/72430253",
+      "image": "",
+      "summary": "#HyperOS# 小米手机， 12G的运行内存，狗都不用，草，什么垃圾优化，4个后台卡到爆",
+      "tags": [
+        "Xiaomi",
         "爆料",
         "NewsNow"
       ]
@@ -282,39 +262,19 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-749e0dd04028",
-      "title": "给姥爷换了k90max，记录一下，姥爷的上一台手机是红米note11tpro，差一个月用了四年了，太老了有屏幕老化不够亮，电池鼓包问题，老人需求屏幕大，电池大的，本身想选iqo",
-      "source": "酷安热榜",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-06-20",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72433825",
-      "image": "",
-      "summary": "给姥爷换了k90max，记录一下，姥爷的上一台手机是红米note11tpro，差一个月用了四年了，太老了有屏幕老化不够亮，电池鼓包问题，老人需求屏幕大，电池大的，本身想选iqo",
-      "tags": [
-        "行业",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-1e9bf0347fa0",
-      "title": "史上最贵iPhone要来了吗",
-      "source": "百度热搜",
+      "id": "newsnow-b33e77576c2a",
+      "title": "涨完价的iPhone还香吗",
+      "source": "微博热搜",
       "brand": "iPhone",
       "model": "iPhone 相关机型",
       "type": "爆料",
-      "trust": "媒体汇总",
+      "trust": "待验证",
       "date": "2026-06-20",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.baidu.com/s?wd=%E5%8F%B2%E4%B8%8A%E6%9C%80%E8%B4%B5iPhone%E8%A6%81%E6%9D%A5%E4%BA%86%E5%90%97",
+      "url": "https://s.weibo.com/weibo?q=%23%E6%B6%A8%E5%AE%8C%E4%BB%B7%E7%9A%84iPhone%E8%BF%98%E9%A6%99%E5%90%97%23&t=31&band_rank=18&Refer=top",
       "image": "",
-      "summary": "史上最贵iPhone要来了吗",
+      "summary": "涨完价的iPhone还香吗",
       "tags": [
         "iPhone",
         "爆料",
