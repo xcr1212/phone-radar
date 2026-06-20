@@ -1,12 +1,12 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-06-20T14:29:12.950Z",
+  "updatedAt": "2026-06-20T17:47:16.241Z",
   "issueDate": "2026-06-20",
   "issue": "VOL.260620",
   "title": "手机情报日报",
-  "intro": "今日筛出 17 条重点，其中 7 条是重点爆料，包含 5 条 iPhone 相关、1 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 16 条重点，其中 7 条是重点爆料，包含 4 条 iPhone 相关、1 条官方确认、0 条参数线索。",
   "stats": {
-    "total": 17,
-    "iphone": 5,
+    "total": 16,
+    "iphone": 4,
     "leaks": 7,
     "official": 1,
     "specs": 0
@@ -233,29 +233,6 @@ window.phoneRadarDaily = {
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
-        {
-          "id": "newsnow-ea656b8bbc59",
-          "title": "经销商说iPhone涨价猛销量必腰折",
-          "originalTitle": "",
-          "source": "微博热搜",
-          "brand": "iPhone",
-          "type": "爆料",
-          "trust": "待验证",
-          "date": "2026-06-20",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%BB%8F%E9%94%80%E5%95%86%E8%AF%B4iPhone%E6%B6%A8%E4%BB%B7%E7%8C%9B%E9%94%80%E9%87%8F%E5%BF%85%E8%85%B0%E6%8A%98%23&t=31&band_rank=18&Refer=top",
-          "image": "",
-          "verdict": "扫一眼",
-          "takeaway": "经销商说iPhone涨价猛销量必腰折",
-          "detail": "经销商说iPhone涨价猛销量必腰折",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "影响购买预算，值得先看。",
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         },
         {

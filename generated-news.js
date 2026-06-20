@@ -1,6 +1,26 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-06-20T14:29:12.950Z",
+  "updatedAt": "2026-06-20T17:47:16.241Z",
   "news": [
+    {
+      "id": "auto-2c11de768fe2",
+      "title": "I reviewed the Motorola Edge 70 Fusion, and it's the battery life superstar you've always wanted",
+      "source": "Android Police",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-20",
+      "time": "16:00",
+      "publishedAt": "2026-06-20T16:00:11.000Z",
+      "url": "https://www.androidpolice.com/motorola-edge-70-fusion-review/",
+      "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2026/06/moto-edge-70-fusion-back-angle.JPG",
+      "summary": "Let your phone charger gather dust",
+      "tags": [
+        "行业",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-5c773abf5c10",
       "title": "Honor 600 Smart: Check 6 major upgrades of this affordable phone",
@@ -202,26 +222,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-c1acc375ece8",
-      "title": "最近被双持搞烦了，手机换来换去，微信消息倒来倒去，一会要适应大屏，一会要适应小屏，出门纠结带哪台，两台一起带又嫌弃重，实在感到不是很方便。",
-      "source": "酷安热榜",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-06-20",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72419411",
-      "image": "",
-      "summary": "最近被双持搞烦了，手机换来换去，微信消息倒来倒去，一会要适应大屏，一会要适应小屏，出门纠结带哪台，两台一起带又嫌弃重，实在感到不是很方便。",
-      "tags": [
-        "行业",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
       "id": "newsnow-59c19cb81301",
       "title": "#HyperOS# 小米手机， 12G的运行内存，狗都不用，草，什么垃圾优化，4个后台卡到爆",
       "source": "酷安热榜",
@@ -237,6 +237,26 @@ window.phoneRadarAuto = {
       "summary": "#HyperOS# 小米手机， 12G的运行内存，狗都不用，草，什么垃圾优化，4个后台卡到爆",
       "tags": [
         "Xiaomi",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-c1acc375ece8",
+      "title": "最近被双持搞烦了，手机换来换去，微信消息倒来倒去，一会要适应大屏，一会要适应小屏，出门纠结带哪台，两台一起带又嫌弃重，实在感到不是很方便。",
+      "source": "酷安热榜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-06-20",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/72419411",
+      "image": "",
+      "summary": "最近被双持搞烦了，手机换来换去，微信消息倒来倒去，一会要适应大屏，一会要适应小屏，出门纠结带哪台，两台一起带又嫌弃重，实在感到不是很方便。",
+      "tags": [
+        "行业",
         "爆料",
         "NewsNow"
       ]
@@ -277,26 +297,6 @@ window.phoneRadarAuto = {
       "summary": "且行且珍惜吧！红米K90ProMax这种全能手机不会复刻了。",
       "tags": [
         "行业",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-ea656b8bbc59",
-      "title": "经销商说iPhone涨价猛销量必腰折",
-      "source": "微博热搜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "待验证",
-      "date": "2026-06-20",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://s.weibo.com/weibo?q=%23%E7%BB%8F%E9%94%80%E5%95%86%E8%AF%B4iPhone%E6%B6%A8%E4%BB%B7%E7%8C%9B%E9%94%80%E9%87%8F%E5%BF%85%E8%85%B0%E6%8A%98%23&t=31&band_rank=18&Refer=top",
-      "image": "",
-      "summary": "经销商说iPhone涨价猛销量必腰折",
-      "tags": [
-        "iPhone",
         "爆料",
         "NewsNow"
       ]
