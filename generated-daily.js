@@ -1,13 +1,13 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-06-20T04:40:27.151Z",
+  "updatedAt": "2026-06-20T09:39:54.611Z",
   "issueDate": "2026-06-20",
   "issue": "VOL.260620",
   "title": "手机情报日报",
-  "intro": "今日筛出 19 条重点，其中 7 条是重点爆料，包含 6 条 iPhone 相关、1 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 18 条重点，其中 8 条是重点爆料，包含 5 条 iPhone 相关、1 条官方确认、0 条参数线索。",
   "stats": {
-    "total": 19,
-    "iphone": 6,
-    "leaks": 7,
+    "total": 18,
+    "iphone": 5,
+    "leaks": 8,
     "official": 1,
     "specs": 0
   },
@@ -17,29 +17,6 @@ window.phoneRadarDaily = {
       "title": "重点爆料",
       "hint": "机模、配色、影像、屏幕、电池和芯片线索先看。",
       "items": [
-        {
-          "id": "newsnow-de2bd7618db9",
-          "title": "苹果计划涨价，库克称供应链过去四十多年从未见过如此情况，9 月的 iPhone18 系列会大幅加价吗？",
-          "originalTitle": "",
-          "source": "知乎热榜",
-          "brand": "iPhone",
-          "type": "市场报告",
-          "trust": "媒体汇总",
-          "date": "2026-06-20",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://www.zhihu.com/question/2050957003342733424",
-          "image": "",
-          "verdict": "先看",
-          "takeaway": "苹果计划涨价，库克称供应链过去四十多年从未见过如此情况，9 月的 iPhone18 系列会大幅加价吗？",
-          "detail": "苹果计划涨价，库克称供应链过去四十多年从未见过如此情况，9 月的 iPhone18 系列会大幅加价吗？",
-          "keyPoints": [
-            "爆料来源"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
         {
           "id": "auto-1446460aa3bd",
           "title": "iPhone 18 Pro 价格 / 成本相关消息",
@@ -65,6 +42,29 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
+          "id": "auto-1c2301b41130",
+          "title": "HMD Luma2 手机曝光：展锐 T7280 + 4GB RAM，将作为 M-Kopa X4 运营商定制机销售",
+          "originalTitle": "",
+          "source": "IT之家",
+          "brand": "行业",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-06-20",
+          "time": "07:06",
+          "publishedAt": "2026-06-20T07:06:22.000Z",
+          "url": "https://www.ithome.com/0/966/516.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/6/9b1e3f68-d980-41b8-925f-f296c71683f2.png",
+          "verdict": "先看",
+          "takeaway": "IT之家 6 月 20 日消息，消息源 smashx_60 现已曝光了 HMD 旗下 Luma2 手机，该机也将作为运营商 M-Kopa X4 定制机随套餐销售。 该机可选冰蓝、浅沙、午夜湖山中配色，配备一块 6.75 英寸 HD+ 120Hz IPS LCD 面板，匹配 8MP 自拍摄像头；手机背面配备 50MP 主摄和辅助摄像头。 该机配备 4GB L…",
+          "detail": "IT之家 6 月 20 日消息，消息源 smashx_60 现已曝光了 HMD 旗下 Luma2 手机，该机也将作为运营商 M-Kopa X4 定制机随套餐销售。 该机可选冰蓝、浅沙、午夜湖山中配色，配备一块 6.75 英寸 HD+ 120Hz IPS LCD 面板，匹配 8MP 自拍摄像头；手机背面配备 50MP 主摄和辅助摄像头。 该机配备 4GB L…",
+          "keyPoints": [
+            "外观 / 配色 / 尺寸"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
           "id": "auto-ecd66985822f",
           "title": "Pixel 10 等用户反馈升级谷歌安卓 17 后遇触控异常 / 5G 连接中断故障",
           "originalTitle": "",
@@ -82,6 +82,53 @@ window.phoneRadarDaily = {
           "detail": "IT之家 6 月 20 日消息，科技媒体 Android Authority 昨日（6 月 19 日）发布博文，报道称部分 Pixel 手机用户反馈，升级安卓 17 系统后，遇到触控异常以及 5G 连接中断故障。 一、触控异常 根据 Reddit 社区、X 社交平台用户反馈，Pixel 手机升级安卓 17 后遇到 2 种触控问题，其一是屏幕触控没有响应，其…",
           "keyPoints": [
             "屏幕形态"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "newsnow-a6b413145594",
+          "title": "【消息称荣耀正密集起诉手机壳电商，或涉及超400家公司】",
+          "originalTitle": "",
+          "source": "酷安热榜",
+          "brand": "HONOR",
+          "type": "爆料",
+          "trust": "高关注爆料源",
+          "date": "2026-06-20",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://www.coolapk.com/feed/72438898",
+          "image": "",
+          "verdict": "先看",
+          "takeaway": "【消息称荣耀正密集起诉手机壳电商，或涉及超400家公司】",
+          "detail": "【消息称荣耀正密集起诉手机壳电商，或涉及超400家公司】",
+          "keyPoints": [
+            "爆料来源"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "auto-bc3405ef331d",
+          "title": "8849 推出 Tank 5 三防手机：配 1080P 220 流明投影仪、搭天玑 9400e 处理器",
+          "originalTitle": "",
+          "source": "IT之家",
+          "brand": "行业",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-06-20",
+          "time": "06:57",
+          "publishedAt": "2026-06-20T06:57:05.000Z",
+          "url": "https://www.ithome.com/0/966/513.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/6/6284eee1-7159-4bdc-af60-8540b96a024a.png",
+          "verdict": "先看",
+          "takeaway": "IT之家 6 月 20 日消息，Unihertz 旗下子品牌 8849 现已推出一款 8849 Tank 5 三防手机，定价为 900 美元（IT之家注：现汇率约合 6106 元人民币）。 该机整体重量 715g，拥有 IP68 认证，配备了一块 6.73 英寸 3200 x 1440 分辨率 120Hz &nbsp;AMOLED 面板（峰值亮度 3000…",
+          "detail": "IT之家 6 月 20 日消息，Unihertz 旗下子品牌 8849 现已推出一款 8849 Tank 5 三防手机，定价为 900 美元（IT之家注：现汇率约合 6106 元人民币）。 该机整体重量 715g，拥有 IP68 认证，配备了一块 6.73 英寸 3200 x 1440 分辨率 120Hz &nbsp;AMOLED 面板（峰值亮度 3000…",
+          "keyPoints": [
+            "屏幕形态",
+            "芯片 / 性能"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
@@ -157,29 +204,6 @@ window.phoneRadarDaily = {
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "auto-ebd1642f829b",
-          "title": "Galaxy S26 Edge 系统功能 / AI 体验相关消息",
-          "originalTitle": "",
-          "source": "SamMobile",
-          "brand": "Samsung",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-06-19",
-          "time": "08:10",
-          "publishedAt": "2026-06-19T08:10:29.000Z",
-          "url": "https://www.sammobile.com/news/while-galaxy-s26-edge-cancelled-apple-iphone-air-2-plans/",
-          "image": "",
-          "verdict": "先看",
-          "takeaway": "Samsung 有系统功能或 AI 体验更新，适合关注后续是否影响日常使用。",
-          "detail": "Galaxy S26 Edge 系统功能 / AI 体验相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         }
       ]
     },
@@ -188,29 +212,6 @@ window.phoneRadarDaily = {
       "title": "iPhone 重点",
       "hint": "不是硬件爆料，但和 iPhone 体验或路线有关。",
       "items": [
-        {
-          "id": "auto-30b94f8667b5",
-          "title": "苹果印度 iPhone 零件工厂被控废水污染农田：井水 TDS 超标 1 倍，作物枯萎",
-          "originalTitle": "",
-          "source": "IT之家",
-          "brand": "iPhone",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-06-19",
-          "time": "23:51",
-          "publishedAt": "2026-06-19T23:51:14.000Z",
-          "url": "https://www.ithome.com/0/966/457.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/6/a63ad160-84d7-4f47-966e-2e7c9be254cd.png?x-bce-process=image/format,f_auto",
-          "verdict": "先看",
-          "takeaway": "IT之家 6 月 20 日消息，路透社昨日（6 月 19 日）发布博文，报告称印度泰米尔纳德邦卫生部门正调查苹果供应商塔塔电子（Tata Electronics）位于霍苏尔（Hosur）的 iPhone 零部件工厂废水排放问题。 IT之家援引博文介绍，该事件追溯到 2026 年 5 月，部分当地农民投诉称，工厂废水导致农田污染，引发皮肤问题。泰米尔纳德邦污…",
-          "detail": "IT之家 6 月 20 日消息，路透社昨日（6 月 19 日）发布博文，报告称印度泰米尔纳德邦卫生部门正调查苹果供应商塔塔电子（Tata Electronics）位于霍苏尔（Hosur）的 iPhone 零部件工厂废水排放问题。 IT之家援引博文介绍，该事件追溯到 2026 年 5 月，部分当地农民投诉称，工厂废水导致农田污染，引发皮肤问题。泰米尔纳德邦污…",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "中文源可以直接点开快读；看完只保留和购机有关的点。"
-        },
         {
           "id": "auto-9bbf43c61c96",
           "title": "iPhone 系统功能 / AI 体验相关消息",
@@ -258,6 +259,29 @@ window.phoneRadarDaily = {
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         },
         {
+          "id": "newsnow-1e9bf0347fa0",
+          "title": "史上最贵iPhone要来了吗",
+          "originalTitle": "",
+          "source": "百度热搜",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-06-20",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://www.baidu.com/s?wd=%E5%8F%B2%E4%B8%8A%E6%9C%80%E8%B4%B5iPhone%E8%A6%81%E6%9D%A5%E4%BA%86%E5%90%97",
+          "image": "",
+          "verdict": "扫一眼",
+          "takeaway": "史上最贵iPhone要来了吗",
+          "detail": "史上最贵iPhone要来了吗",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        },
+        {
           "id": "auto-b37be0b3ae65",
           "title": "iPhone 电池 / 充电相关消息",
           "originalTitle": "",
@@ -275,59 +299,6 @@ window.phoneRadarDaily = {
           "detail": "iPhone 电池 / 充电相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
           "keyPoints": [
             "电池 / 充电"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        }
-      ]
-    },
-    {
-      "id": "launch",
-      "title": "新机与官方发布",
-      "hint": "能直接更新到参数库。",
-      "items": [
-        {
-          "id": "auto-2cd0b7d8f45a",
-          "title": "受内存价格持续飙升影响，Nothing 宣布今年停更 CMF 系列手机",
-          "originalTitle": "",
-          "source": "IT之家",
-          "brand": "行业",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-06-19",
-          "time": "23:07",
-          "publishedAt": "2026-06-19T23:07:57.000Z",
-          "url": "https://www.ithome.com/0/966/450.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/6/a6f85aed-cf42-411c-93f8-df0144a8ddf7.jpg?x-bce-process=image/format,f_auto",
-          "verdict": "扫一眼",
-          "takeaway": "IT之家 6 月 20 日消息，Nothing 联合创始人 Akis Evangelidis 在 X 平台确认，受内存价格持续飙升影响，Nothing 旗下子品牌 CMF by Nothing 原定的 CMF Phone 2 Pro 迭代机型发布计划被迫取消，公司今年不会推出新的 CMF 手机。 IT之家注意到，Nothing CEO 裴宇上周 也发文透露…",
-          "detail": "IT之家 6 月 20 日消息，Nothing 联合创始人 Akis Evangelidis 在 X 平台确认，受内存价格持续飙升影响，Nothing 旗下子品牌 CMF by Nothing 原定的 CMF Phone 2 Pro 迭代机型发布计划被迫取消，公司今年不会推出新的 CMF 手机。 IT之家注意到，Nothing CEO 裴宇上周 也发文透露…",
-          "keyPoints": [
-            "成本 / 价格"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "影响购买预算，值得先看。",
-          "action": "有具体参数就记录到参数库；没有参数就先收藏。"
-        },
-        {
-          "id": "auto-ea6ef1744965",
-          "title": "iPhone 18 折叠屏相关消息",
-          "originalTitle": "",
-          "source": "Huawei Central",
-          "brand": "Huawei",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-06-19",
-          "time": "07:03",
-          "publishedAt": "2026-06-19T07:03:05.000Z",
-          "url": "https://www.huaweicentral.com/huawei-mate-xt-2-tri-fold-could-launch-before-iphone-18-again/",
-          "image": "https://www.huaweicentral.com/wp-content/uploads/2026/06/MateXT2-launch-leak.jpg",
-          "verdict": "可略过",
-          "takeaway": "Huawei 有系统功能或 AI 体验更新，适合关注后续是否影响日常使用。",
-          "detail": "iPhone 18 折叠屏相关消息。重点看折痕、铰链、厚度、屏幕可靠性和重量是否有实质改善。",
-          "keyPoints": [
-            "爆料"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
@@ -364,29 +335,6 @@ window.phoneRadarDaily = {
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         },
         {
-          "id": "auto-7e89151a4cab",
-          "title": "波音迟迟无法交付新机：美国服役近 40 年“空军一号”宣布退役，卡塔尔赠送 747 已完成改装测试",
-          "originalTitle": "",
-          "source": "IT之家",
-          "brand": "行业",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-06-19",
-          "time": "12:59",
-          "publishedAt": "2026-06-19T12:59:24.000Z",
-          "url": "https://www.ithome.com/0/966/423.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/6/ffc74d11-c739-41a9-af4e-dc9820c93d1e.png?x-bce-process=image/format,f_auto",
-          "verdict": "扫一眼",
-          "takeaway": "IT之家 6 月 19 日消息，当地时间 2026 年 6 月 18 日凌晨，美国总统唐纳德 · 特朗普及其团队结束在法国出席七国集团峰会的行程后返回华盛顿。 落地后，随行人员在 X 上发帖，向已服役近 40 年的总统专机 SAM 29000（28000 仍作为过渡使用）告别。白宫通讯主任史蒂文 · 张配文写道：“干得漂亮，忠诚可靠的老伙计。最后一程。”…",
-          "detail": "IT之家 6 月 19 日消息，当地时间 2026 年 6 月 18 日凌晨，美国总统唐纳德 · 特朗普及其团队结束在法国出席七国集团峰会的行程后返回华盛顿。 落地后，随行人员在 X 上发帖，向已服役近 40 年的总统专机 SAM 29000（28000 仍作为过渡使用）告别。白宫通讯主任史蒂文 · 张配文写道：“干得漂亮，忠诚可靠的老伙计。最后一程。”…",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "中文源可以直接点开快读；看完只保留和购机有关的点。"
-        },
-        {
           "id": "newsnow-c1acc375ece8",
           "title": "最近被双持搞烦了，手机换来换去，微信消息倒来倒去，一会要适应大屏，一会要适应小屏，出门纠结带哪台，两台一起带又嫌弃重，实在感到不是很方便。",
           "originalTitle": "",
@@ -410,8 +358,31 @@ window.phoneRadarDaily = {
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         },
         {
+          "id": "newsnow-6afd1d025cea",
+          "title": "且行且珍惜吧！红米K90ProMax这种全能手机不会复刻了。",
+          "originalTitle": "",
+          "source": "酷安热榜",
+          "brand": "行业",
+          "type": "爆料",
+          "trust": "高关注爆料源",
+          "date": "2026-06-20",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://www.coolapk.com/feed/72436222",
+          "image": "",
+          "verdict": "扫一眼",
+          "takeaway": "且行且珍惜吧！红米K90ProMax这种全能手机不会复刻了。",
+          "detail": "且行且珍惜吧！红米K90ProMax这种全能手机不会复刻了。",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        },
+        {
           "id": "coolapk-user-e289d9d96b67",
-          "title": "竹本青：【华为Pura X Max 最新销量曝光：全系超41万台，典藏版近23.4万台】 华为 Pura X Max： 截…",
+          "title": "竹本青：华为Pura X Max 最新销量曝光：全系超41万台",
           "originalTitle": "",
           "source": "竹本青",
           "brand": "Huawei",
@@ -456,26 +427,26 @@ window.phoneRadarDaily = {
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         },
         {
-          "id": "newsnow-30053a6a343a",
-          "title": "荣耀密集起诉手机壳电商",
+          "id": "auto-cc50695df661",
+          "title": "Galaxy S26 芯片 / 性能相关消息",
           "originalTitle": "",
-          "source": "微博热搜",
-          "brand": "HONOR",
+          "source": "Android Authority",
+          "brand": "Samsung",
           "type": "爆料",
-          "trust": "待验证",
+          "trust": "媒体汇总",
           "date": "2026-06-20",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%8D%A3%E8%80%80%E5%AF%86%E9%9B%86%E8%B5%B7%E8%AF%89%E6%89%8B%E6%9C%BA%E5%A3%B3%E7%94%B5%E5%95%86%23&t=31&band_rank=17&Refer=top",
-          "image": "",
+          "time": "09:00",
+          "publishedAt": "2026-06-20T09:00:11.000Z",
+          "url": "https://www.androidauthority.com/samsung-exynos-2600-overheating-3677429/",
+          "image": "https://www.androidauthority.com/wp-content/uploads/2026/06/Galaxy-S26-Plus-playing-Asphalt-Legends.jpg",
           "verdict": "可略过",
-          "takeaway": "荣耀密集起诉手机壳电商",
-          "detail": "荣耀密集起诉手机壳电商",
+          "takeaway": "Galaxy S26 芯片 / 性能相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
+          "detail": "Galaxy S26 芯片 / 性能相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
           "keyPoints": [
-            "爆料"
+            "芯片 / 性能"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "impact": "影响性能和寿命判断，适合放进参数库。",
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         }
       ]

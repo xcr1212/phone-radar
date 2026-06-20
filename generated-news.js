@@ -1,6 +1,86 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-06-20T04:40:27.151Z",
+  "updatedAt": "2026-06-20T09:39:54.611Z",
   "news": [
+    {
+      "id": "auto-cc50695df661",
+      "title": "Samsung still hasn’t fixed Exynos overheating issues, and it’s ruining my Galaxy S26",
+      "source": "Android Authority",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-20",
+      "time": "09:00",
+      "publishedAt": "2026-06-20T09:00:11.000Z",
+      "url": "https://www.androidauthority.com/samsung-exynos-2600-overheating-3677429/",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2026/06/Galaxy-S26-Plus-playing-Asphalt-Legends.jpg",
+      "summary": "Exynos vs. Snapdragon: Galaxy S26 gaming results are concerning.",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-1c2301b41130",
+      "title": "HMD Luma2 手机曝光：展锐 T7280 + 4GB RAM，将作为 M-Kopa X4 运营商定制机销售",
+      "source": "IT之家",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-20",
+      "time": "07:06",
+      "publishedAt": "2026-06-20T07:06:22.000Z",
+      "url": "https://www.ithome.com/0/966/516.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/6/9b1e3f68-d980-41b8-925f-f296c71683f2.png",
+      "summary": "IT之家 6 月 20 日消息，消息源 smashx_60 现已曝光了 HMD 旗下 Luma2 手机，该机也将作为运营商 M-Kopa X4 定制机随套餐销售。 该机可选冰蓝、浅沙、午夜湖山中配色，配备一块 6.75 英寸 HD+ 120Hz IPS LCD 面板，匹配 8MP 自拍摄像头；手机背面配备 50MP 主摄和辅助摄像头。 该机配备 4GB L…",
+      "tags": [
+        "行业",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-bc3405ef331d",
+      "title": "8849 推出 Tank 5 三防手机：配 1080P 220 流明投影仪、搭天玑 9400e 处理器",
+      "source": "IT之家",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-20",
+      "time": "06:57",
+      "publishedAt": "2026-06-20T06:57:05.000Z",
+      "url": "https://www.ithome.com/0/966/513.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/6/6284eee1-7159-4bdc-af60-8540b96a024a.png",
+      "summary": "IT之家 6 月 20 日消息，Unihertz 旗下子品牌 8849 现已推出一款 8849 Tank 5 三防手机，定价为 900 美元（IT之家注：现汇率约合 6106 元人民币）。 该机整体重量 715g，拥有 IP68 认证，配备了一块 6.73 英寸 3200 x 1440 分辨率 120Hz &nbsp;AMOLED 面板（峰值亮度 3000…",
+      "tags": [
+        "行业",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-5f36d9790e37",
+      "title": "Ugreen launches new 65W GaN charger with three ports, foldable prongs, all under 15mm",
+      "source": "Gizmochina",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-20",
+      "time": "06:54",
+      "publishedAt": "2026-06-20T06:54:39.000Z",
+      "url": "https://www.gizmochina.com/2026/06/20/ugreen-launches-new-65w-gan-with-three-ports-foldable-prongs-all-under-15mm/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/06/Ugreen-65W-Nexode-GaN-charger-300x200.jpg?x44794",
+      "summary": "Accessory maker Ugreen announced a 12.5mm compact 45W GaN charger in China a few days ago. It has a single USB-C port that can charge the iPhone 17 Pro from 0 to 67% in about half…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-e5f9e07b40c6",
       "title": "WhatsApp tests new animated message bubbles on iPhone",
@@ -142,6 +222,26 @@ window.phoneRadarAuto = {
       ]
     },
     {
+      "id": "newsnow-a6b413145594",
+      "title": "【消息称荣耀正密集起诉手机壳电商，或涉及超400家公司】",
+      "source": "酷安热榜",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-06-20",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/72438898",
+      "image": "",
+      "summary": "【消息称荣耀正密集起诉手机壳电商，或涉及超400家公司】",
+      "tags": [
+        "HONOR",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
       "id": "newsnow-8680d8915e06",
       "title": "最近被双持搞烦了，手机换来换去，微信消息倒来倒去，一会要适应大屏，一会要适应小屏，出门纠结带哪台，两台一起带又嫌弃重，实在感到不是很方便。",
       "source": "酷安热榜",
@@ -155,6 +255,26 @@ window.phoneRadarAuto = {
       "url": "https://www.coolapk.com/feed/72419407",
       "image": "",
       "summary": "最近被双持搞烦了，手机换来换去，微信消息倒来倒去，一会要适应大屏，一会要适应小屏，出门纠结带哪台，两台一起带又嫌弃重，实在感到不是很方便。",
+      "tags": [
+        "行业",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-6afd1d025cea",
+      "title": "且行且珍惜吧！红米K90ProMax这种全能手机不会复刻了。",
+      "source": "酷安热榜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-06-20",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/72436222",
+      "image": "",
+      "summary": "且行且珍惜吧！红米K90ProMax这种全能手机不会复刻了。",
       "tags": [
         "行业",
         "爆料",
@@ -182,83 +302,23 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-30053a6a343a",
-      "title": "荣耀密集起诉手机壳电商",
-      "source": "微博热搜",
-      "brand": "HONOR",
-      "model": "HONOR 相关机型",
-      "type": "爆料",
-      "trust": "待验证",
-      "date": "2026-06-20",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://s.weibo.com/weibo?q=%23%E8%8D%A3%E8%80%80%E5%AF%86%E9%9B%86%E8%B5%B7%E8%AF%89%E6%89%8B%E6%9C%BA%E5%A3%B3%E7%94%B5%E5%95%86%23&t=31&band_rank=17&Refer=top",
-      "image": "",
-      "summary": "荣耀密集起诉手机壳电商",
-      "tags": [
-        "HONOR",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-de2bd7618db9",
-      "title": "苹果计划涨价，库克称供应链过去四十多年从未见过如此情况，9 月的 iPhone18 系列会大幅加价吗？",
-      "source": "知乎热榜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "市场报告",
-      "trust": "媒体汇总",
-      "date": "2026-06-20",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.zhihu.com/question/2050957003342733424",
-      "image": "",
-      "summary": "苹果计划涨价，库克称供应链过去四十多年从未见过如此情况，9 月的 iPhone18 系列会大幅加价吗？",
-      "tags": [
-        "iPhone",
-        "市场报告",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "auto-30b94f8667b5",
-      "title": "苹果印度 iPhone 零件工厂被控废水污染农田：井水 TDS 超标 1 倍，作物枯萎",
-      "source": "IT之家",
+      "id": "newsnow-1e9bf0347fa0",
+      "title": "史上最贵iPhone要来了吗",
+      "source": "百度热搜",
       "brand": "iPhone",
       "model": "iPhone 相关机型",
       "type": "爆料",
       "trust": "媒体汇总",
-      "date": "2026-06-19",
-      "time": "23:51",
-      "publishedAt": "2026-06-19T23:51:14.000Z",
-      "url": "https://www.ithome.com/0/966/457.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/6/a63ad160-84d7-4f47-966e-2e7c9be254cd.png?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 6 月 20 日消息，路透社昨日（6 月 19 日）发布博文，报告称印度泰米尔纳德邦卫生部门正调查苹果供应商塔塔电子（Tata Electronics）位于霍苏尔（Hosur）的 iPhone 零部件工厂废水排放问题。 IT之家援引博文介绍，该事件追溯到 2026 年 5 月，部分当地农民投诉称，工厂废水导致农田污染，引发皮肤问题。泰米尔纳德邦污…",
+      "date": "2026-06-20",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.baidu.com/s?wd=%E5%8F%B2%E4%B8%8A%E6%9C%80%E8%B4%B5iPhone%E8%A6%81%E6%9D%A5%E4%BA%86%E5%90%97",
+      "image": "",
+      "summary": "史上最贵iPhone要来了吗",
       "tags": [
         "iPhone",
         "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-2cd0b7d8f45a",
-      "title": "受内存价格持续飙升影响，Nothing 宣布今年停更 CMF 系列手机",
-      "source": "IT之家",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-19",
-      "time": "23:07",
-      "publishedAt": "2026-06-19T23:07:57.000Z",
-      "url": "https://www.ithome.com/0/966/450.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/6/a6f85aed-cf42-411c-93f8-df0144a8ddf7.jpg?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 6 月 20 日消息，Nothing 联合创始人 Akis Evangelidis 在 X 平台确认，受内存价格持续飙升影响，Nothing 旗下子品牌 CMF by Nothing 原定的 CMF Phone 2 Pro 迭代机型发布计划被迫取消，公司今年不会推出新的 CMF 手机。 IT之家注意到，Nothing CEO 裴宇上周 也发文透露…",
-      "tags": [
-        "行业",
-        "爆料",
-        "自动抓取"
+        "NewsNow"
       ]
     },
     {
@@ -442,26 +502,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-7e89151a4cab",
-      "title": "波音迟迟无法交付新机：美国服役近 40 年“空军一号”宣布退役，卡塔尔赠送 747 已完成改装测试",
-      "source": "IT之家",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-19",
-      "time": "12:59",
-      "publishedAt": "2026-06-19T12:59:24.000Z",
-      "url": "https://www.ithome.com/0/966/423.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/6/ffc74d11-c739-41a9-af4e-dc9820c93d1e.png?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 6 月 19 日消息，当地时间 2026 年 6 月 18 日凌晨，美国总统唐纳德 · 特朗普及其团队结束在法国出席七国集团峰会的行程后返回华盛顿。 落地后，随行人员在 X 上发帖，向已服役近 40 年的总统专机 SAM 29000（28000 仍作为过渡使用）告别。白宫通讯主任史蒂文 · 张配文写道：“干得漂亮，忠诚可靠的老伙计。最后一程。”…",
-      "tags": [
-        "行业",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-da14f7131f2b",
       "title": "Honor will launch these three incredible devices this year",
       "source": "Huawei Central",
@@ -483,7 +523,7 @@ window.phoneRadarAuto = {
     },
     {
       "id": "coolapk-user-e289d9d96b67",
-      "title": "竹本青：【华为Pura X Max 最新销量曝光：全系超41万台，典藏版近23.4万台】 华为 Pura X Max： 截…",
+      "title": "竹本青：华为Pura X Max 最新销量曝光：全系超41万台",
       "source": "竹本青",
       "brand": "Huawei",
       "model": "Huawei 相关机型",
@@ -617,46 +657,6 @@ window.phoneRadarAuto = {
       "summary": "Apple is feeling the heat from skyrocketing costs for key components, and it looks like iPhone users might finally see some price hikes after years of the company trying to avoid…",
       "tags": [
         "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-ea6ef1744965",
-      "title": "Huawei Mate XT 2 tri-fold could launch before iPhone 18, again?",
-      "source": "Huawei Central",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-19",
-      "time": "07:03",
-      "publishedAt": "2026-06-19T07:03:05.000Z",
-      "url": "https://www.huaweicentral.com/huawei-mate-xt-2-tri-fold-could-launch-before-iphone-18-again/",
-      "image": "https://www.huaweicentral.com/wp-content/uploads/2026/06/MateXT2-launch-leak.jpg",
-      "summary": "Huawei Mate XT 2 tri-fold can once again launch ahead of Apple’s new iPhone lineup. A new piece of information says that the Chinese OEM could unveil its next-gen triple foldable…",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-8d8377a24ebd",
-      "title": "Honor 600 Smart introduced with 7700mAh battery, 6.87′ big screen",
-      "source": "Huawei Central",
-      "brand": "HONOR",
-      "model": "HONOR 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-19",
-      "time": "05:23",
-      "publishedAt": "2026-06-19T05:23:32.000Z",
-      "url": "https://www.huaweicentral.com/honor-600-smart-introduced-with-7700mah-battery/",
-      "image": "https://www.huaweicentral.com/wp-content/uploads/2026/06/Honor600Smart2.jpg",
-      "summary": "Honor has listed another interesting device – 600 Smart on its official global website with a massive 7700mAh battery and a large screen. The company has silently launched the han…",
-      "tags": [
-        "HONOR",
         "爆料",
         "自动抓取"
       ]
