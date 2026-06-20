@@ -1,20 +1,120 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-06-19T23:13:55.571Z",
+  "updatedAt": "2026-06-20T04:40:27.151Z",
   "news": [
     {
-      "id": "newsnow-8f4dafa118b0",
-      "title": "国内首例：垣信卫星实现无改造手机直连卫星通话，通话质量比肩 5G",
-      "source": "IT之家热榜",
+      "id": "auto-e5f9e07b40c6",
+      "title": "WhatsApp tests new animated message bubbles on iPhone",
+      "source": "9to5Mac",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-20",
+      "time": "02:25",
+      "publishedAt": "2026-06-20T02:25:20.000Z",
+      "url": "https://9to5mac.com/2026/06/19/whatsapp-tests-new-animated-message-bubbles-on-iphone/",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/11/whatsapp-ios-26.jpg?quality=82&strip=all&w=1600",
+      "summary": "The latest WhatsApp beta available on TestFlight brings back message animations on iOS, this time with a setting that lets users turn them off. Here are the details.",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-a93d7ca4ea4a",
+      "title": "AMD 回应称重视用户数据安全，非 PRO 锐龙处理器下月重新启用 TSME 内存加密",
+      "source": "IT之家",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-20",
+      "time": "02:25",
+      "publishedAt": "2026-06-20T02:25:10.000Z",
+      "url": "https://www.ithome.com/0/966/475.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/6/ac78888f-047e-432e-b2a8-a781a06aa999.png?x-bce-process=image/format,f_auto/auto-orient,o_1",
+      "summary": "IT之家 6 月 20 日消息，科技媒体 Tom's Hardware 今天（6 月 20 日）发布博文，报道称 AMD 确认下月（2026 年 7 月）通过 BIOS 更新方式， 在桌面锐龙 9000 非 PRO 系列等处理器上重新启用透明安全内存加密（TSME）。 IT之家此前报道，部分用户反馈 AMD 在 AGESA 1.2.7.0 固件中，悄然移除…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-cd500e0f4d16",
+      "title": "负面太多 Hold 不住了：特朗普手机公关公司 Poplar Group 宣布终止合作",
+      "source": "IT之家",
       "brand": "行业",
       "model": "智能手机市场",
       "type": "爆料",
       "trust": "媒体汇总",
-      "date": "2026-06-19",
-      "time": "22:37",
-      "publishedAt": "2026-06-19T22:37:59.000Z",
-      "url": "https://www.ithome.com/0/966/433.htm",
+      "date": "2026-06-20",
+      "time": "01:17",
+      "publishedAt": "2026-06-20T01:17:43.000Z",
+      "url": "https://www.ithome.com/0/966/469.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/6/d6b68f19-2dde-4f6f-83d3-228c8daa9f78.png",
+      "summary": "IT之家 6 月 20 日消息，科技媒体 The Verge 昨日（6 月 19 日）发布博文，报道称特朗普手机（T1 phone）的公关团队已正式“离场”，Poplar Group 宣布不再协助 Trump Mobile 展开任何业务。 IT之家援引博文介绍，Poplar Group 于 2025 年 6 月接手 Trump Mobile 公关事宜，其创…",
+      "tags": [
+        "行业",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-ecd66985822f",
+      "title": "Pixel 10 等用户反馈升级谷歌安卓 17 后遇触控异常 / 5G 连接中断故障",
+      "source": "IT之家",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-20",
+      "time": "01:01",
+      "publishedAt": "2026-06-20T01:01:55.000Z",
+      "url": "https://www.ithome.com/0/966/467.htm",
       "image": "",
-      "summary": "国内首例：垣信卫星实现无改造手机直连卫星通话，通话质量比肩 5G",
+      "summary": "IT之家 6 月 20 日消息，科技媒体 Android Authority 昨日（6 月 19 日）发布博文，报道称部分 Pixel 手机用户反馈，升级安卓 17 系统后，遇到触控异常以及 5G 连接中断故障。 一、触控异常 根据 Reddit 社区、X 社交平台用户反馈，Pixel 手机升级安卓 17 后遇到 2 种触控问题，其一是屏幕触控没有响应，其…",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-9bbf43c61c96",
+      "title": "Apple announces changes to iOS in Brazil",
+      "source": "Apple Newsroom",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "官方",
+      "trust": "官方确认",
+      "date": "2026-06-20",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.apple.com/newsroom/2026/06/apple-announces-changes-to-ios-in-brazil/",
+      "image": "",
+      "summary": "Apple today announced changes impacting iOS apps in Brazil that reflect a recent agreement with Brazil’s competition regulator, CADE.",
+      "tags": [
+        "iPhone",
+        "官方",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "newsnow-c1acc375ece8",
+      "title": "最近被双持搞烦了，手机换来换去，微信消息倒来倒去，一会要适应大屏，一会要适应小屏，出门纠结带哪台，两台一起带又嫌弃重，实在感到不是很方便。",
+      "source": "酷安热榜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-06-20",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/72419411",
+      "image": "",
+      "summary": "最近被双持搞烦了，手机换来换去，微信消息倒来倒去，一会要适应大屏，一会要适应小屏，出门纠结带哪台，两台一起带又嫌弃重，实在感到不是很方便。",
       "tags": [
         "行业",
         "爆料",
@@ -22,23 +122,143 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-10538140b04d",
-      "title": "波音迟迟无法交付新机：美国服役近 40 年“空军一号”宣布退役，卡塔尔赠送 747 已完成改装测试",
-      "source": "IT之家热榜",
+      "id": "newsnow-592dfb34433b",
+      "title": "小米这次脸都不要了，红米K70机主手机系统被强制更新连系统更新设置都直接给整消失了，机主直接被取消了拒绝更新系统的选项，",
+      "source": "酷安热榜",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-06-20",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/72427852",
+      "image": "",
+      "summary": "小米这次脸都不要了，红米K70机主手机系统被强制更新连系统更新设置都直接给整消失了，机主直接被取消了拒绝更新系统的选项，",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-8680d8915e06",
+      "title": "最近被双持搞烦了，手机换来换去，微信消息倒来倒去，一会要适应大屏，一会要适应小屏，出门纠结带哪台，两台一起带又嫌弃重，实在感到不是很方便。",
+      "source": "酷安热榜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-06-20",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/72419407",
+      "image": "",
+      "summary": "最近被双持搞烦了，手机换来换去，微信消息倒来倒去，一会要适应大屏，一会要适应小屏，出门纠结带哪台，两台一起带又嫌弃重，实在感到不是很方便。",
+      "tags": [
+        "行业",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-749e0dd04028",
+      "title": "给姥爷换了k90max，记录一下，姥爷的上一台手机是红米note11tpro，差一个月用了四年了，太老了有屏幕老化不够亮，电池鼓包问题，老人需求屏幕大，电池大的，本身想选iqo",
+      "source": "酷安热榜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-06-20",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/72433825",
+      "image": "",
+      "summary": "给姥爷换了k90max，记录一下，姥爷的上一台手机是红米note11tpro，差一个月用了四年了，太老了有屏幕老化不够亮，电池鼓包问题，老人需求屏幕大，电池大的，本身想选iqo",
+      "tags": [
+        "行业",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-30053a6a343a",
+      "title": "荣耀密集起诉手机壳电商",
+      "source": "微博热搜",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "爆料",
+      "trust": "待验证",
+      "date": "2026-06-20",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://s.weibo.com/weibo?q=%23%E8%8D%A3%E8%80%80%E5%AF%86%E9%9B%86%E8%B5%B7%E8%AF%89%E6%89%8B%E6%9C%BA%E5%A3%B3%E7%94%B5%E5%95%86%23&t=31&band_rank=17&Refer=top",
+      "image": "",
+      "summary": "荣耀密集起诉手机壳电商",
+      "tags": [
+        "HONOR",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-de2bd7618db9",
+      "title": "苹果计划涨价，库克称供应链过去四十多年从未见过如此情况，9 月的 iPhone18 系列会大幅加价吗？",
+      "source": "知乎热榜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "市场报告",
+      "trust": "媒体汇总",
+      "date": "2026-06-20",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.zhihu.com/question/2050957003342733424",
+      "image": "",
+      "summary": "苹果计划涨价，库克称供应链过去四十多年从未见过如此情况，9 月的 iPhone18 系列会大幅加价吗？",
+      "tags": [
+        "iPhone",
+        "市场报告",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "auto-30b94f8667b5",
+      "title": "苹果印度 iPhone 零件工厂被控废水污染农田：井水 TDS 超标 1 倍，作物枯萎",
+      "source": "IT之家",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-19",
+      "time": "23:51",
+      "publishedAt": "2026-06-19T23:51:14.000Z",
+      "url": "https://www.ithome.com/0/966/457.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/6/a63ad160-84d7-4f47-966e-2e7c9be254cd.png?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 6 月 20 日消息，路透社昨日（6 月 19 日）发布博文，报告称印度泰米尔纳德邦卫生部门正调查苹果供应商塔塔电子（Tata Electronics）位于霍苏尔（Hosur）的 iPhone 零部件工厂废水排放问题。 IT之家援引博文介绍，该事件追溯到 2026 年 5 月，部分当地农民投诉称，工厂废水导致农田污染，引发皮肤问题。泰米尔纳德邦污…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-2cd0b7d8f45a",
+      "title": "受内存价格持续飙升影响，Nothing 宣布今年停更 CMF 系列手机",
+      "source": "IT之家",
       "brand": "行业",
       "model": "智能手机市场",
       "type": "爆料",
       "trust": "媒体汇总",
       "date": "2026-06-19",
-      "time": "20:59",
-      "publishedAt": "2026-06-19T20:59:24.000Z",
-      "url": "https://www.ithome.com/0/966/423.htm",
-      "image": "",
-      "summary": "波音迟迟无法交付新机：美国服役近 40 年“空军一号”宣布退役，卡塔尔赠送 747 已完成改装测试",
+      "time": "23:07",
+      "publishedAt": "2026-06-19T23:07:57.000Z",
+      "url": "https://www.ithome.com/0/966/450.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/6/a6f85aed-cf42-411c-93f8-df0144a8ddf7.jpg?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 6 月 20 日消息，Nothing 联合创始人 Akis Evangelidis 在 X 平台确认，受内存价格持续飙升影响，Nothing 旗下子品牌 CMF by Nothing 原定的 CMF Phone 2 Pro 迭代机型发布计划被迫取消，公司今年不会推出新的 CMF 手机。 IT之家注意到，Nothing CEO 裴宇上周 也发文透露…",
       "tags": [
         "行业",
         "爆料",
-        "NewsNow"
+        "自动抓取"
       ]
     },
     {
@@ -202,6 +422,46 @@ window.phoneRadarAuto = {
       ]
     },
     {
+      "id": "auto-dc6b2f5d1760",
+      "title": "Samsung just confirmed the Exynos 2700 is coming, and the Galaxy S27 could have it",
+      "source": "Android Authority",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-19",
+      "time": "13:05",
+      "publishedAt": "2026-06-19T13:05:43.000Z",
+      "url": "https://www.androidauthority.com/samsung-confirm-exynos-2700-3679355/",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2026/03/samsung-galaxy-s26-base-review-back-phone-3-scaled.jpg",
+      "summary": "This also comes after we learned about a key Exynos 2700 change that could make for a cooler phone.",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-7e89151a4cab",
+      "title": "波音迟迟无法交付新机：美国服役近 40 年“空军一号”宣布退役，卡塔尔赠送 747 已完成改装测试",
+      "source": "IT之家",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-19",
+      "time": "12:59",
+      "publishedAt": "2026-06-19T12:59:24.000Z",
+      "url": "https://www.ithome.com/0/966/423.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/6/ffc74d11-c739-41a9-af4e-dc9820c93d1e.png?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 6 月 19 日消息，当地时间 2026 年 6 月 18 日凌晨，美国总统唐纳德 · 特朗普及其团队结束在法国出席七国集团峰会的行程后返回华盛顿。 落地后，随行人员在 X 上发帖，向已服役近 40 年的总统专机 SAM 29000（28000 仍作为过渡使用）告别。白宫通讯主任史蒂文 · 张配文写道：“干得漂亮，忠诚可靠的老伙计。最后一程。”…",
+      "tags": [
+        "行业",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
       "id": "auto-da14f7131f2b",
       "title": "Honor will launch these three incredible devices this year",
       "source": "Huawei Central",
@@ -262,6 +522,26 @@ window.phoneRadarAuto = {
       ]
     },
     {
+      "id": "auto-0a30d6ea0b68",
+      "title": "Your aging iPhone might be vulnerable to a flaw Apple can’t patch",
+      "source": "Android Authority",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-19",
+      "time": "10:23",
+      "publishedAt": "2026-06-19T10:23:57.000Z",
+      "url": "https://www.androidauthority.com/iphone-usbliter8-exploit-3679320/",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2019/09/iPhone-11-Pro-Max-Rear-in-Hand-e1569854606506.jpg",
+      "summary": "Forget software updates: this iPhone bug is permanent.",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
       "id": "auto-d47c62c9eb32",
       "title": "Rising costs could force Samsung to keep things mild for the Galaxy S27 next year",
       "source": "Android Central",
@@ -278,6 +558,26 @@ window.phoneRadarAuto = {
       "tags": [
         "Samsung",
         "评测",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-1e3d50dac0eb",
+      "title": "This all-new OnePlus phone could deliver three days of battery life",
+      "source": "Android Authority",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-19",
+      "time": "09:28",
+      "publishedAt": "2026-06-19T09:28:49.000Z",
+      "url": "https://www.androidauthority.com/this-all-new-oneplus-phone-could-deliver-three-days-of-battery-life-3679286/",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2026/06/OnePlus-N6-official-image.jpg",
+      "summary": "OnePlus also says the battery should last for seven years before dropping to 80% effective capacity.",
+      "tags": [
+        "OPPO",
+        "爆料",
         "自动抓取"
       ]
     },
@@ -379,406 +679,6 @@ window.phoneRadarAuto = {
         "Xiaomi",
         "爆料",
         "酷安博主"
-      ]
-    },
-    {
-      "id": "auto-9bbf43c61c96",
-      "title": "Apple announces changes to iOS in Brazil",
-      "source": "Apple Newsroom",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "官方",
-      "trust": "官方确认",
-      "date": "2026-06-19",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.apple.com/newsroom/2026/06/apple-announces-changes-to-ios-in-brazil/",
-      "image": "",
-      "summary": "Apple today announced changes impacting iOS apps in Brazil that reflect a recent agreement with Brazil’s competition regulator, CADE.",
-      "tags": [
-        "iPhone",
-        "官方",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "newsnow-72b449ac4749",
-      "title": "最近被双持搞烦了，手机换来换去，微信消息倒来倒去，一会要适应大屏，一会要适应小屏，出门纠结带哪台，两台一起带又嫌弃重，实在感到不是很方便。",
-      "source": "酷安热榜",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-06-19",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72419411",
-      "image": "",
-      "summary": "最近被双持搞烦了，手机换来换去，微信消息倒来倒去，一会要适应大屏，一会要适应小屏，出门纠结带哪台，两台一起带又嫌弃重，实在感到不是很方便。",
-      "tags": [
-        "行业",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-85dd4da1213e",
-      "title": "特朗普移动首款手机竟是中国制造",
-      "source": "微博热搜",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "待验证",
-      "date": "2026-06-19",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%BB%E5%8A%A8%E9%A6%96%E6%AC%BE%E6%89%8B%E6%9C%BA%E7%AB%9F%E6%98%AF%E4%B8%AD%E5%9B%BD%E5%88%B6%E9%80%A0%23&t=31&band_rank=30&Refer=top",
-      "image": "",
-      "summary": "特朗普移动首款手机竟是中国制造",
-      "tags": [
-        "行业",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "auto-6e41008c01a3",
-      "title": "New unpatchable exploit targets Apple devices with A12 and A13 chips",
-      "source": "9to5Mac",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-18",
-      "time": "21:21",
-      "publishedAt": "2026-06-18T21:21:41.000Z",
-      "url": "https://9to5mac.com/2026/06/18/new-unpatchable-exploit-targets-apple-devices-with-a12-and-a13-chips/",
-      "image": "",
-      "summary": "Researchers at Paradigm Shift have published the technical details of usbliter8, a new unpatchable iPhone BootROM vulnerability that enables arbitrary code execution on devices po…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-edd1f2b9a0a6",
-      "title": "Report: iPhone sales rise 10% as global smartphone market declines for ninth straight week",
-      "source": "9to5Mac",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-18",
-      "time": "19:37",
-      "publishedAt": "2026-06-18T19:37:25.000Z",
-      "url": "https://9to5mac.com/2026/06/18/report-iphone-sales-rise-10-as-global-smartphone-market-declines-for-ninth-straight-week/",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/iphone-17-pro-cosmic-orange-front-back.jpg?quality=82&strip=all&w=1600",
-      "summary": "A new report from Counterpoint Research shows that while the smartphone market just had its ninth consecutive week of declining sales, Apple and Huawei saw double-digit increases…",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-a9f695d00ce9",
-      "title": "This is still the best Samsung Galaxy S26 deal on the web, and nobody is talking about it",
-      "source": "Android Central",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "评测",
-      "trust": "媒体汇总",
-      "date": "2026-06-18",
-      "time": "17:30",
-      "publishedAt": "2026-06-18T17:30:44.000Z",
-      "url": "https://www.androidcentral.com/phones/samsung-galaxy/this-is-still-the-best-samsung-galaxy-s26-deal-on-the-web-and-nobody-is-talking-about-it",
-      "image": "https://cdn.mos.cms.futurecdn.net/tZxBXnAjYrSgQ4VdFxb9ME-1280-80.jpg",
-      "summary": "Mint Mobile is still running an offer that gives you $500 off the Galaxy S26 and 50% off a year of the Unlimited plan.",
-      "tags": [
-        "Samsung",
-        "评测",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "coolapk-user-196bcdf5935b",
-      "title": "竹本青：曝比亚迪计划推动子品牌自负盈亏，仰望暂不在其中",
-      "source": "竹本青",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-06-18",
-      "time": "16:02",
-      "publishedAt": "2026-06-18T16:02:51.000Z",
-      "url": "https://www.coolapk.com/feed/72416430",
-      "image": "http://image.coolapk.com/feed/2026/0619/00/4248714_3bf4235d_9081_1563_820@1272x4192.jpg",
-      "summary": "【曝比亚迪计划推动子品牌自负盈亏，仰望暂不在其中】 据《晚点 Auto》 今日报道，比亚迪正计划让旗下各子品牌自负盈亏，仰望暂不在其中。一位接近此事的人士说，新机制下各品牌主体按需取用研发、生产、采购等集团资源，取用成本独立结算。 截至发稿，比亚迪没有回复媒体相关询问。 和这件事相关的是比亚迪准备将工程院拆分为王朝、海洋、方程豹、腾势、仰望五大品牌研究院。…",
-      "tags": [
-        "行业",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
-      "id": "auto-f35cfa3eba4a",
-      "title": "iPhone 18 Pro is getting larger camera bump per leaks, here’s why",
-      "source": "9to5Mac",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-18",
-      "time": "15:09",
-      "publishedAt": "2026-06-18T15:09:13.000Z",
-      "url": "https://9to5mac.com/2026/06/18/iphone-18-pro-is-getting-larger-camera-bump-per-leaks-heres-why/",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/iphone-17-pro-dark-blue-camera-plateau.jpg?quality=82&strip=all&w=1600",
-      "summary": "iPhone 18 Pro and Pro Max are expected to have largely the same dimensions as their predecessors, except in one key area: the camera plateau. Here’s why iPhone 18 Pro’s camera bum…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-2cb52c6dc5dd",
-      "title": "iPhone 18 Pro could start at $1,399 or more, per report",
-      "source": "9to5Mac",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-18",
-      "time": "13:58",
-      "publishedAt": "2026-06-18T13:58:44.000Z",
-      "url": "https://9to5mac.com/2026/06/18/iphone-18-pro-could-start-at-1399-or-more-per-report/",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/iphone-17-pro-silver-front-back.jpg?quality=82&strip=all&w=1600",
-      "summary": "Due to unprecedented cost increases for RAM and storage, Apple has confirmed that price increases are coming for its products. Here’s how much the iPhone 18 Pro is now expected to…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-f1cb52b52a5c",
-      "title": "Nothing’s Carl Pei says he's going to steal Apple’s customers “one bored iPhone user at a time”",
-      "source": "Android Central",
-      "brand": "OPPO",
-      "model": "OPPO 相关机型",
-      "type": "评测",
-      "trust": "媒体汇总",
-      "date": "2026-06-18",
-      "time": "13:53",
-      "publishedAt": "2026-06-18T13:53:27.000Z",
-      "url": "https://www.androidcentral.com/phones/nothing-phones/carl-pei-tells-apple-hes-stealing-its-customers-as-if-imessage-isnt-holding-them-hostage",
-      "image": "https://cdn.mos.cms.futurecdn.net/EQoTnY6FMFvF56RgKzrAVd-1280-80.png",
-      "summary": "Nothing is taking its anti-Apple fight to US store shelves, but despite Carl Pei's bold talk, Apple's ecosystem remains a much tougher opponent than any Instagram stunt.",
-      "tags": [
-        "OPPO",
-        "评测",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-290bcadcd969",
-      "title": "Honor 600 Smart 5G debuts with 7,700mAh battery, 6.87-inch 120Hz display",
-      "source": "Gizmochina",
-      "brand": "HONOR",
-      "model": "HONOR 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-18",
-      "time": "12:40",
-      "publishedAt": "2026-06-18T12:40:00.000Z",
-      "url": "https://www.gizmochina.com/2026/06/18/honor-600-smart-5g-debuts-with-7700mah-battery-6-87-inch-120hz-display/",
-      "image": "https://www.gizmochina.com/wp-content/uploads/2026/06/bg-300x177.jpg?x44794",
-      "summary": "After unveiling the Honor 600 Lite, Honor 600, and Honor 600 Pro for the global market, Honor is now back with yet another 600-series phone called the Honor 600 Smart 5G. Position…",
-      "tags": [
-        "HONOR",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-a34b83c15096",
-      "title": "Caviar launches magnetic backplates for the iPhone 17 Pro Max, including one with a T-Rex fossil",
-      "source": "Gizmochina",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-18",
-      "time": "12:24",
-      "publishedAt": "2026-06-18T12:24:07.000Z",
-      "url": "https://www.gizmochina.com/2026/06/18/caviar-launches-magnetic-backplates-for-the-iphone-17-pro-max/",
-      "image": "https://www.gizmochina.com/wp-content/uploads/2026/06/Caviar-Relict-iPhone-17-Pro-Max-1-300x169.jpg?x44794",
-      "summary": "Luxury device modifier Caviar has announced its latest lineup of Apple accessories, and this time, the company is stepping away from permanent chassis replacements. Design Details…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-c55e384e49e7",
-      "title": "iQOO Z11i teasers begin, here’s expected specifications",
-      "source": "Gizmochina",
-      "brand": "vivo",
-      "model": "vivo 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-18",
-      "time": "11:52",
-      "publishedAt": "2026-06-18T11:52:12.000Z",
-      "url": "https://www.gizmochina.com/2026/06/18/iqoo-z11i-design-colors-confirmed/",
-      "image": "https://www.gizmochina.com/wp-content/uploads/2026/06/iQOO-Z11i-blue-1-1-300x184.jpg?x44794",
-      "summary": "So far, iQOO has launched three Z11-branded phones in China, namely the iQOO Z11x, Z11, and Z11 Turbo. Now, the brand has started teasing the arrival of the Z11i, which appears to…",
-      "tags": [
-        "vivo",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-893cc49f9cce",
-      "title": "Oppo Reno 16 series launch date officially revealed, official renders, variants confirmed",
-      "source": "Gizmochina",
-      "brand": "OPPO",
-      "model": "OPPO 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-18",
-      "time": "10:04",
-      "publishedAt": "2026-06-18T10:04:20.000Z",
-      "url": "https://www.gizmochina.com/2026/06/18/oppo-reno-16-series-launch-date-renders-variants-confirmed/",
-      "image": "https://www.gizmochina.com/wp-content/uploads/2026/06/image-91-300x205.png?x44794",
-      "summary": "Oppo is gearing up to launch the Reno 16 series in multiple markets. Among these, Indonesia and Malaysia have already confirmed the launch dates. While the lineup will be announce…",
-      "tags": [
-        "OPPO",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-7d0870d44e00",
-      "title": "12 Reasons to Wait for the iPhone 18 Pro",
-      "source": "MacRumors",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-18",
-      "time": "09:17",
-      "publishedAt": "2026-06-18T09:17:44.000Z",
-      "url": "https://www.macrumors.com/2026/06/18/12-reasons-wait-iphone-18-pro/",
-      "image": "https://images.macrumors.com/article-new/2026/01/Dynamic-Island-iPhone-18-Pro-Feature.jpg",
-      "summary": "We're only three months out from the launch of Apple's premium next-generation smartphone lineup, and while we're not expecting a sea change in terms of functionality, there are s…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-e4f4edbf3adb",
-      "title": "Nothing Phone 杂谈：活下去再谈未来，然后呢？",
-      "source": "少数派",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "评测",
-      "trust": "媒体汇总",
-      "date": "2026-06-18",
-      "time": "07:00",
-      "publishedAt": "2026-06-18T07:00:00.000Z",
-      "url": "https://sspai.com/post/110442",
-      "image": "",
-      "summary": "我依然相信他们能给已成红海的手机市场带来变数与惊喜，正如标志性的透明后盖与微弱闪烁的灯光，每一次触碰都仿佛钟表倒转，回到光芒与图案代表个性的千禧年代。",
-      "tags": [
-        "行业",
-        "评测",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-9f318f9187c2",
-      "title": "Oppo Reno 15A launches with a 7,000mAh battery and 50MP triple cameras",
-      "source": "Gizmochina",
-      "brand": "OPPO",
-      "model": "OPPO 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-18",
-      "time": "06:59",
-      "publishedAt": "2026-06-18T06:59:12.000Z",
-      "url": "https://www.gizmochina.com/2026/06/18/oppo-reno-15a-launched-price-specifications/",
-      "image": "https://www.gizmochina.com/wp-content/uploads/2026/06/Oppo-Reno-15A-featured-300x137.png?x44794",
-      "summary": "Oppo has quietly introduced the Reno 15A in Japan, bringing a familiar set of specifications under a different name. The smartphone shares its model number and hardware with the O…",
-      "tags": [
-        "OPPO",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-67d46e46d86d",
-      "title": "2026 最强智能眼镜发布，但「iPhone 时刻」还没到来",
-      "source": "爱范儿",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "评测",
-      "trust": "媒体汇总",
-      "date": "2026-06-18",
-      "time": "05:57",
-      "publishedAt": "2026-06-18T05:57:20.000Z",
-      "url": "https://www.ifanr.com/1669287?utm_source=rss&utm_medium=rss&utm_campaign=",
-      "image": "https://s3.ifanr.com/wp-content/uploads/2026/06/Aura-1024x610.png",
-      "summary": "多年以后，当我戴上最新最潮的 Android XR 眼镜准备出门时，会回想起 2026 年 6 月 16 日的那一天。",
-      "tags": [
-        "iPhone",
-        "评测",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-d8016fa4acc3",
-      "title": "iPhone Air 2 may be worth the wait as leaked upgrades point to a Q1 2027 launch",
-      "source": "Gizmochina",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-18",
-      "time": "04:23",
-      "publishedAt": "2026-06-18T04:23:12.000Z",
-      "url": "https://www.gizmochina.com/2026/06/18/iphone-air-2-leaked-upgrades-q1-2027/",
-      "image": "https://www.gizmochina.com/wp-content/uploads/2025/09/image-110-300x261.png?x44794",
-      "summary": "Apple’s ultra-thin iPhone Air appears set to get a successor, and early details suggest that the company is addressing some of the shortcomings that held back the first-generation…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-ba4e23db3900",
-      "title": "Is Redmi Turbo 5 Better Than OnePlus Nord 6?",
-      "source": "Gizmochina",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-18",
-      "time": "00:42",
-      "publishedAt": "2026-06-18T00:42:58.000Z",
-      "url": "https://www.gizmochina.com/2026/06/18/is-redmi-turbo-5-better-than-oneplus-nord-6/",
-      "image": "https://www.gizmochina.com/wp-content/uploads/2026/06/Redmi-Turbo-5-1-300x223.jpeg?x44794",
-      "summary": "Choosing a mid-range smartphone in 2026 has become tricky, as an ongoing RAM and storage pricing crisis is forcing companies to adjust their prices without warning. In this unpred…",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "自动抓取"
       ]
     }
   ]
