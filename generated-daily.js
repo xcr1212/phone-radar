@@ -1,5 +1,5 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-06-20T17:47:16.241Z",
+  "updatedAt": "2026-06-20T19:56:52.309Z",
   "issueDate": "2026-06-20",
   "issue": "VOL.260620",
   "title": "手机情报日报",
@@ -266,29 +266,6 @@ window.phoneRadarDaily = {
       "hint": "看方向，不急着当购买依据。",
       "items": [
         {
-          "id": "newsnow-592dfb34433b",
-          "title": "小米这次脸都不要了，红米K70机主手机系统被强制更新连系统更新设置都直接给整消失了，机主直接被取消了拒绝更新系统的选项，",
-          "originalTitle": "",
-          "source": "酷安热榜",
-          "brand": "Xiaomi",
-          "type": "爆料",
-          "trust": "高关注爆料源",
-          "date": "2026-06-20",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://www.coolapk.com/feed/72427852",
-          "image": "",
-          "verdict": "先看",
-          "takeaway": "小米这次脸都不要了，红米K70机主手机系统被强制更新连系统更新设置都直接给整消失了，机主直接被取消了拒绝更新系统的选项，",
-          "detail": "小米这次脸都不要了，红米K70机主手机系统被强制更新连系统更新设置都直接给整消失了，机主直接被取消了拒绝更新系统的选项，",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
-        {
           "id": "newsnow-59c19cb81301",
           "title": "#HyperOS# 小米手机， 12G的运行内存，狗都不用，草，什么垃圾优化，4个后台卡到爆",
           "originalTitle": "",
@@ -312,21 +289,44 @@ window.phoneRadarDaily = {
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         },
         {
-          "id": "newsnow-c1acc375ece8",
-          "title": "最近被双持搞烦了，手机换来换去，微信消息倒来倒去，一会要适应大屏，一会要适应小屏，出门纠结带哪台，两台一起带又嫌弃重，实在感到不是很方便。",
+          "id": "newsnow-592dfb34433b",
+          "title": "小米这次脸都不要了，红米K70机主手机系统被强制更新连系统更新设置都直接给整消失了，机主直接被取消了拒绝更新系统的选项，",
           "originalTitle": "",
           "source": "酷安热榜",
-          "brand": "行业",
+          "brand": "Xiaomi",
           "type": "爆料",
           "trust": "高关注爆料源",
           "date": "2026-06-20",
           "time": "",
           "publishedAt": "",
-          "url": "https://www.coolapk.com/feed/72419411",
+          "url": "https://www.coolapk.com/feed/72427852",
+          "image": "",
+          "verdict": "先看",
+          "takeaway": "小米这次脸都不要了，红米K70机主手机系统被强制更新连系统更新设置都直接给整消失了，机主直接被取消了拒绝更新系统的选项，",
+          "detail": "小米这次脸都不要了，红米K70机主手机系统被强制更新连系统更新设置都直接给整消失了，机主直接被取消了拒绝更新系统的选项，",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        },
+        {
+          "id": "newsnow-63dbe8e2f13d",
+          "title": "中奖了，过保花屏真真的出现了，老哥们都怎么解决的 #华为Mate70Pro# #华为Mate70Pro优享版# #华为Mate80ProMax#",
+          "originalTitle": "",
+          "source": "酷安热榜",
+          "brand": "Huawei",
+          "type": "爆料",
+          "trust": "高关注爆料源",
+          "date": "2026-06-20",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://www.coolapk.com/feed/72437433",
           "image": "",
           "verdict": "扫一眼",
-          "takeaway": "最近被双持搞烦了，手机换来换去，微信消息倒来倒去，一会要适应大屏，一会要适应小屏，出门纠结带哪台，两台一起带又嫌弃重，实在感到不是很方便。",
-          "detail": "最近被双持搞烦了，手机换来换去，微信消息倒来倒去，一会要适应大屏，一会要适应小屏，出门纠结带哪台，两台一起带又嫌弃重，实在感到不是很方便。",
+          "takeaway": "中奖了，过保花屏真真的出现了，老哥们都怎么解决的 #华为Mate70Pro# #华为Mate70Pro优享版# #华为Mate80ProMax#",
+          "detail": "中奖了，过保花屏真真的出现了，老哥们都怎么解决的 #华为Mate70Pro# #华为Mate70Pro优享版# #华为Mate80ProMax#",
           "keyPoints": [
             "爆料"
           ],

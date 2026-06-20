@@ -1,5 +1,5 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-06-20T17:47:16.241Z",
+  "updatedAt": "2026-06-20T19:56:52.309Z",
   "news": [
     {
       "id": "auto-2c11de768fe2",
@@ -182,46 +182,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-a6b413145594",
-      "title": "【消息称荣耀正密集起诉手机壳电商，或涉及超400家公司】",
-      "source": "酷安热榜",
-      "brand": "HONOR",
-      "model": "HONOR 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-06-20",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72438898",
-      "image": "",
-      "summary": "【消息称荣耀正密集起诉手机壳电商，或涉及超400家公司】",
-      "tags": [
-        "HONOR",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-592dfb34433b",
-      "title": "小米这次脸都不要了，红米K70机主手机系统被强制更新连系统更新设置都直接给整消失了，机主直接被取消了拒绝更新系统的选项，",
-      "source": "酷安热榜",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-06-20",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72427852",
-      "image": "",
-      "summary": "小米这次脸都不要了，红米K70机主手机系统被强制更新连系统更新设置都直接给整消失了，机主直接被取消了拒绝更新系统的选项，",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
       "id": "newsnow-59c19cb81301",
       "title": "#HyperOS# 小米手机， 12G的运行内存，狗都不用，草，什么垃圾优化，4个后台卡到爆",
       "source": "酷安热榜",
@@ -242,41 +202,41 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-c1acc375ece8",
-      "title": "最近被双持搞烦了，手机换来换去，微信消息倒来倒去，一会要适应大屏，一会要适应小屏，出门纠结带哪台，两台一起带又嫌弃重，实在感到不是很方便。",
+      "id": "newsnow-a6b413145594",
+      "title": "【消息称荣耀正密集起诉手机壳电商，或涉及超400家公司】",
       "source": "酷安热榜",
-      "brand": "行业",
-      "model": "智能手机市场",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-06-20",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72419411",
+      "url": "https://www.coolapk.com/feed/72438898",
       "image": "",
-      "summary": "最近被双持搞烦了，手机换来换去，微信消息倒来倒去，一会要适应大屏，一会要适应小屏，出门纠结带哪台，两台一起带又嫌弃重，实在感到不是很方便。",
+      "summary": "【消息称荣耀正密集起诉手机壳电商，或涉及超400家公司】",
       "tags": [
-        "行业",
+        "HONOR",
         "爆料",
         "NewsNow"
       ]
     },
     {
-      "id": "newsnow-8680d8915e06",
-      "title": "最近被双持搞烦了，手机换来换去，微信消息倒来倒去，一会要适应大屏，一会要适应小屏，出门纠结带哪台，两台一起带又嫌弃重，实在感到不是很方便。",
+      "id": "newsnow-63dbe8e2f13d",
+      "title": "中奖了，过保花屏真真的出现了，老哥们都怎么解决的 #华为Mate70Pro# #华为Mate70Pro优享版# #华为Mate80ProMax#",
       "source": "酷安热榜",
-      "brand": "行业",
-      "model": "智能手机市场",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-06-20",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72419407",
+      "url": "https://www.coolapk.com/feed/72437433",
       "image": "",
-      "summary": "最近被双持搞烦了，手机换来换去，微信消息倒来倒去，一会要适应大屏，一会要适应小屏，出门纠结带哪台，两台一起带又嫌弃重，实在感到不是很方便。",
+      "summary": "中奖了，过保花屏真真的出现了，老哥们都怎么解决的 #华为Mate70Pro# #华为Mate70Pro优享版# #华为Mate80ProMax#",
       "tags": [
-        "行业",
+        "Huawei",
         "爆料",
         "NewsNow"
       ]
@@ -297,6 +257,26 @@ window.phoneRadarAuto = {
       "summary": "且行且珍惜吧！红米K90ProMax这种全能手机不会复刻了。",
       "tags": [
         "行业",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-592dfb34433b",
+      "title": "小米这次脸都不要了，红米K70机主手机系统被强制更新连系统更新设置都直接给整消失了，机主直接被取消了拒绝更新系统的选项，",
+      "source": "酷安热榜",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-06-20",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/72427852",
+      "image": "",
+      "summary": "小米这次脸都不要了，红米K70机主手机系统被强制更新连系统更新设置都直接给整消失了，机主直接被取消了拒绝更新系统的选项，",
+      "tags": [
+        "Xiaomi",
         "爆料",
         "NewsNow"
       ]
