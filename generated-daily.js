@@ -1,13 +1,13 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-06-20T21:39:37.221Z",
+  "updatedAt": "2026-06-20T23:35:50.336Z",
   "issueDate": "2026-06-20",
   "issue": "VOL.260620",
   "title": "手机情报日报",
-  "intro": "今日筛出 16 条重点，其中 7 条是重点爆料，包含 4 条 iPhone 相关、1 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 17 条重点，其中 8 条是重点爆料，包含 4 条 iPhone 相关、1 条官方确认、0 条参数线索。",
   "stats": {
-    "total": 16,
+    "total": 17,
     "iphone": 4,
-    "leaks": 7,
+    "leaks": 8,
     "official": 1,
     "specs": 0
   },
@@ -82,6 +82,29 @@ window.phoneRadarDaily = {
           "detail": "【消息称荣耀正密集起诉手机壳电商，或涉及超400家公司】",
           "keyPoints": [
             "爆料来源"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "newsnow-1ee8e6928f9c",
+          "title": "《华为抄袭了一个从来没有发布过折叠屏厂商的折叠屏》[受虐滑稽]#鸿蒙6#",
+          "originalTitle": "",
+          "source": "酷安热榜",
+          "brand": "Huawei",
+          "type": "爆料",
+          "trust": "高关注爆料源",
+          "date": "2026-06-20",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://www.coolapk.com/feed/72446284",
+          "image": "",
+          "verdict": "先看",
+          "takeaway": "《华为抄袭了一个从来没有发布过折叠屏厂商的折叠屏》[受虐滑稽]#鸿蒙6#",
+          "detail": "《华为抄袭了一个从来没有发布过折叠屏厂商的折叠屏》[受虐滑稽]#鸿蒙6#",
+          "keyPoints": [
+            "屏幕形态"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
@@ -312,29 +335,6 @@ window.phoneRadarDaily = {
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         },
         {
-          "id": "newsnow-63dbe8e2f13d",
-          "title": "中奖了，过保花屏真真的出现了，老哥们都怎么解决的 #华为Mate70Pro# #华为Mate70Pro优享版# #华为Mate80ProMax#",
-          "originalTitle": "",
-          "source": "酷安热榜",
-          "brand": "Huawei",
-          "type": "爆料",
-          "trust": "高关注爆料源",
-          "date": "2026-06-20",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://www.coolapk.com/feed/72437433",
-          "image": "",
-          "verdict": "扫一眼",
-          "takeaway": "中奖了，过保花屏真真的出现了，老哥们都怎么解决的 #华为Mate70Pro# #华为Mate70Pro优享版# #华为Mate80ProMax#",
-          "detail": "中奖了，过保花屏真真的出现了，老哥们都怎么解决的 #华为Mate70Pro# #华为Mate70Pro优享版# #华为Mate80ProMax#",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
-        {
           "id": "newsnow-6afd1d025cea",
           "title": "且行且珍惜吧！红米K90ProMax这种全能手机不会复刻了。",
           "originalTitle": "",
@@ -350,6 +350,29 @@ window.phoneRadarDaily = {
           "verdict": "扫一眼",
           "takeaway": "且行且珍惜吧！红米K90ProMax这种全能手机不会复刻了。",
           "detail": "且行且珍惜吧！红米K90ProMax这种全能手机不会复刻了。",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        },
+        {
+          "id": "newsnow-63dbe8e2f13d",
+          "title": "中奖了，过保花屏真真的出现了，老哥们都怎么解决的 #华为Mate70Pro# #华为Mate70Pro优享版# #华为Mate80ProMax#",
+          "originalTitle": "",
+          "source": "酷安热榜",
+          "brand": "Huawei",
+          "type": "爆料",
+          "trust": "高关注爆料源",
+          "date": "2026-06-20",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://www.coolapk.com/feed/72437433",
+          "image": "",
+          "verdict": "扫一眼",
+          "takeaway": "中奖了，过保花屏真真的出现了，老哥们都怎么解决的 #华为Mate70Pro# #华为Mate70Pro优享版# #华为Mate80ProMax#",
+          "detail": "中奖了，过保花屏真真的出现了，老哥们都怎么解决的 #华为Mate70Pro# #华为Mate70Pro优享版# #华为Mate80ProMax#",
           "keyPoints": [
             "爆料"
           ],

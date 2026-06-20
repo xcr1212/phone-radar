@@ -1,6 +1,26 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-06-20T21:39:37.221Z",
+  "updatedAt": "2026-06-20T23:35:50.336Z",
   "news": [
+    {
+      "id": "auto-66d1563cade4",
+      "title": "消息称富士 X-T6 相机电池容量增大约 16%，同步升级 X Processor 6 图像处理器",
+      "source": "IT之家",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-20",
+      "time": "23:26",
+      "publishedAt": "2026-06-20T23:26:00.000Z",
+      "url": "https://www.ithome.com/0/966/588.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/6/a25516de-6bad-4c36-914f-d768d5837815.jpg?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 6 月 21 日消息，综合消息源 @E8M_8888 及外媒 FujiRumors，富士 X-T6 相机将配备全新 X Processor 6 图像处理器，预计将提升相机连拍速度。同时新机还将引入全新 NP-W255 电池，该电池由松下苏州生产，容量为 2550 mAh，相对于现款 NP-W235 电池（2200mAh）容量提升了约 16%。 I…",
+      "tags": [
+        "行业",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-2c11de768fe2",
       "title": "I reviewed the Motorola Edge 70 Fusion, and it's the battery life superstar you've always wanted",
@@ -222,26 +242,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-63dbe8e2f13d",
-      "title": "中奖了，过保花屏真真的出现了，老哥们都怎么解决的 #华为Mate70Pro# #华为Mate70Pro优享版# #华为Mate80ProMax#",
-      "source": "酷安热榜",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-06-20",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72437433",
-      "image": "",
-      "summary": "中奖了，过保花屏真真的出现了，老哥们都怎么解决的 #华为Mate70Pro# #华为Mate70Pro优享版# #华为Mate80ProMax#",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
       "id": "newsnow-6afd1d025cea",
       "title": "且行且珍惜吧！红米K90ProMax这种全能手机不会复刻了。",
       "source": "酷安热榜",
@@ -262,6 +262,26 @@ window.phoneRadarAuto = {
       ]
     },
     {
+      "id": "newsnow-63dbe8e2f13d",
+      "title": "中奖了，过保花屏真真的出现了，老哥们都怎么解决的 #华为Mate70Pro# #华为Mate70Pro优享版# #华为Mate80ProMax#",
+      "source": "酷安热榜",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-06-20",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/72437433",
+      "image": "",
+      "summary": "中奖了，过保花屏真真的出现了，老哥们都怎么解决的 #华为Mate70Pro# #华为Mate70Pro优享版# #华为Mate80ProMax#",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
       "id": "newsnow-592dfb34433b",
       "title": "小米这次脸都不要了，红米K70机主手机系统被强制更新连系统更新设置都直接给整消失了，机主直接被取消了拒绝更新系统的选项，",
       "source": "酷安热榜",
@@ -277,6 +297,26 @@ window.phoneRadarAuto = {
       "summary": "小米这次脸都不要了，红米K70机主手机系统被强制更新连系统更新设置都直接给整消失了，机主直接被取消了拒绝更新系统的选项，",
       "tags": [
         "Xiaomi",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-1ee8e6928f9c",
+      "title": "《华为抄袭了一个从来没有发布过折叠屏厂商的折叠屏》[受虐滑稽]#鸿蒙6#",
+      "source": "酷安热榜",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-06-20",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/72446284",
+      "image": "",
+      "summary": "《华为抄袭了一个从来没有发布过折叠屏厂商的折叠屏》[受虐滑稽]#鸿蒙6#",
+      "tags": [
+        "Huawei",
         "爆料",
         "NewsNow"
       ]
