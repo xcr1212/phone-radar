@@ -1,6 +1,46 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-06-20T12:08:35.815Z",
+  "updatedAt": "2026-06-20T14:29:12.950Z",
   "news": [
+    {
+      "id": "auto-5c773abf5c10",
+      "title": "Honor 600 Smart: Check 6 major upgrades of this affordable phone",
+      "source": "Huawei Central",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-20",
+      "time": "13:13",
+      "publishedAt": "2026-06-20T13:13:45.000Z",
+      "url": "https://www.huaweicentral.com/honor-600-smart-check-6-major-upgrades-of-this-affordable-phone/",
+      "image": "https://www.huaweicentral.com/wp-content/uploads/2026/06/Honor600Smart1.jpg",
+      "summary": "Honor 600 Smart is coming to the smartphone market as a new big battery model, and here are 6 major upgrades of this affordable handset that make it more alluring than any other N…",
+      "tags": [
+        "HONOR",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-99d8ad02a16f",
+      "title": "竹本青：【消息称OPPO Find N6 销量已超13.5万台】 截至2026 W23 —— 约13.57万 截至2026…",
+      "source": "竹本青",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-06-20",
+      "time": "12:12",
+      "publishedAt": "2026-06-20T12:12:08.000Z",
+      "url": "https://www.coolapk.com/feed/72445039",
+      "image": "http://image.coolapk.com/feed/2026/0620/20/4248714_a90450ce_7527_2945_654@1272x1583.jpg",
+      "summary": "【消息称OPPO Find N6 销量已超13.5万台】 截至2026 W23 —— 约13.57万 截至2026 W21 —— 约12.62万 截至2026 W19 —— 约11.68万 截至2026 W16 —— 约10.17万 #今日热点# #OPPOFindN6# #ColorOS16#",
+      "tags": [
+        "OPPO",
+        "爆料",
+        "酷安博主"
+      ]
+    },
     {
       "id": "auto-cc50695df661",
       "title": "Samsung still hasn’t fixed Exynos overheating issues, and it’s ruining my Galaxy S26",
@@ -102,26 +142,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-a93d7ca4ea4a",
-      "title": "AMD 回应称重视用户数据安全，非 PRO 锐龙处理器下月重新启用 TSME 内存加密",
-      "source": "IT之家",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-20",
-      "time": "02:25",
-      "publishedAt": "2026-06-20T02:25:10.000Z",
-      "url": "https://www.ithome.com/0/966/475.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/6/ac78888f-047e-432e-b2a8-a781a06aa999.png?x-bce-process=image/format,f_auto/auto-orient,o_1",
-      "summary": "IT之家 6 月 20 日消息，科技媒体 Tom's Hardware 今天（6 月 20 日）发布博文，报道称 AMD 确认下月（2026 年 7 月）通过 BIOS 更新方式， 在桌面锐龙 9000 非 PRO 系列等处理器上重新启用透明安全内存加密（TSME）。 IT之家此前报道，部分用户反馈 AMD 在 AGESA 1.2.7.0 固件中，悄然移除…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-9bbf43c61c96",
       "title": "Apple announces changes to iOS in Brazil",
       "source": "Apple Newsroom",
@@ -139,6 +159,26 @@ window.phoneRadarAuto = {
         "iPhone",
         "官方",
         "自动抓取"
+      ]
+    },
+    {
+      "id": "newsnow-a6b413145594",
+      "title": "【消息称荣耀正密集起诉手机壳电商，或涉及超400家公司】",
+      "source": "酷安热榜",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-06-20",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/72438898",
+      "image": "",
+      "summary": "【消息称荣耀正密集起诉手机壳电商，或涉及超400家公司】",
+      "tags": [
+        "HONOR",
+        "爆料",
+        "NewsNow"
       ]
     },
     {
@@ -177,26 +217,6 @@ window.phoneRadarAuto = {
       "summary": "最近被双持搞烦了，手机换来换去，微信消息倒来倒去，一会要适应大屏，一会要适应小屏，出门纠结带哪台，两台一起带又嫌弃重，实在感到不是很方便。",
       "tags": [
         "行业",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-a6b413145594",
-      "title": "【消息称荣耀正密集起诉手机壳电商，或涉及超400家公司】",
-      "source": "酷安热榜",
-      "brand": "HONOR",
-      "model": "HONOR 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-06-20",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72438898",
-      "image": "",
-      "summary": "【消息称荣耀正密集起诉手机壳电商，或涉及超400家公司】",
-      "tags": [
-        "HONOR",
         "爆料",
         "NewsNow"
       ]
@@ -262,8 +282,8 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-b33e77576c2a",
-      "title": "涨完价的iPhone还香吗",
+      "id": "newsnow-ea656b8bbc59",
+      "title": "经销商说iPhone涨价猛销量必腰折",
       "source": "微博热搜",
       "brand": "iPhone",
       "model": "iPhone 相关机型",
@@ -272,9 +292,9 @@ window.phoneRadarAuto = {
       "date": "2026-06-20",
       "time": "",
       "publishedAt": "",
-      "url": "https://s.weibo.com/weibo?q=%23%E6%B6%A8%E5%AE%8C%E4%BB%B7%E7%9A%84iPhone%E8%BF%98%E9%A6%99%E5%90%97%23&t=31&band_rank=18&Refer=top",
+      "url": "https://s.weibo.com/weibo?q=%23%E7%BB%8F%E9%94%80%E5%95%86%E8%AF%B4iPhone%E6%B6%A8%E4%BB%B7%E7%8C%9B%E9%94%80%E9%87%8F%E5%BF%85%E8%85%B0%E6%8A%98%23&t=31&band_rank=18&Refer=top",
       "image": "",
-      "summary": "涨完价的iPhone还香吗",
+      "summary": "经销商说iPhone涨价猛销量必腰折",
       "tags": [
         "iPhone",
         "爆料",
@@ -457,26 +477,6 @@ window.phoneRadarAuto = {
       "summary": "This also comes after we learned about a key Exynos 2700 change that could make for a cooler phone.",
       "tags": [
         "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-da14f7131f2b",
-      "title": "Honor will launch these three incredible devices this year",
-      "source": "Huawei Central",
-      "brand": "HONOR",
-      "model": "HONOR 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-19",
-      "time": "12:45",
-      "publishedAt": "2026-06-19T12:45:01.000Z",
-      "url": "https://www.huaweicentral.com/honor-will-launch-these-three-incredible-devices-this-year/",
-      "image": "https://www.huaweicentral.com/wp-content/uploads/2026/06/Honor-incredible-devices-leak.jpg",
-      "summary": "Honor will likely launch at least three incredible devices by the end of this year. Apart from the flagship Magic 8 series, the company is focusing on the greatest creations of 20…",
-      "tags": [
-        "HONOR",
         "爆料",
         "自动抓取"
       ]

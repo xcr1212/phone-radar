@@ -1,13 +1,13 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-06-20T12:08:35.815Z",
+  "updatedAt": "2026-06-20T14:29:12.950Z",
   "issueDate": "2026-06-20",
   "issue": "VOL.260620",
   "title": "手机情报日报",
-  "intro": "今日筛出 16 条重点，其中 6 条是重点爆料，包含 5 条 iPhone 相关、1 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 17 条重点，其中 7 条是重点爆料，包含 5 条 iPhone 相关、1 条官方确认、0 条参数线索。",
   "stats": {
-    "total": 16,
+    "total": 17,
     "iphone": 5,
-    "leaks": 6,
+    "leaks": 7,
     "official": 1,
     "specs": 0
   },
@@ -112,6 +112,30 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
+          "id": "coolapk-user-99d8ad02a16f",
+          "title": "竹本青：【消息称OPPO Find N6 销量已超13.5万台】 截至2026 W23 —— 约13.57万 截至2026…",
+          "originalTitle": "",
+          "source": "竹本青",
+          "brand": "OPPO",
+          "type": "爆料",
+          "trust": "高可信爆料",
+          "date": "2026-06-20",
+          "time": "12:12",
+          "publishedAt": "2026-06-20T12:12:08.000Z",
+          "url": "https://www.coolapk.com/feed/72445039",
+          "image": "http://image.coolapk.com/feed/2026/0620/20/4248714_a90450ce_7527_2945_654@1272x1583.jpg",
+          "verdict": "先看",
+          "takeaway": "【消息称OPPO Find N6 销量已超13.5万台】 截至2026 W23 —— 约13.57万 截至2026 W21 —— 约12.62万 截至2026 W19 —— 约11.68万 截至2026 W16 —— 约10.17万 #今日热点# #OPPOFindN6# #ColorOS16#",
+          "detail": "【消息称OPPO Find N6 销量已超13.5万台】 截至2026 W23 —— 约13.57万 截至2026 W21 —— 约12.62万 截至2026 W19 —— 约11.68万 截至2026 W16 —— 约10.17万 #今日热点# #OPPOFindN6# #ColorOS16#",
+          "keyPoints": [
+            "外观 / 配色 / 尺寸",
+            "爆料来源"
+          ],
+          "confidence": "可信度较高，但仍属于发布前线索。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
           "id": "auto-d47c62c9eb32",
           "title": "Galaxy S27 价格 / 成本相关消息",
           "originalTitle": "",
@@ -212,8 +236,8 @@ window.phoneRadarDaily = {
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         },
         {
-          "id": "newsnow-b33e77576c2a",
-          "title": "涨完价的iPhone还香吗",
+          "id": "newsnow-ea656b8bbc59",
+          "title": "经销商说iPhone涨价猛销量必腰折",
           "originalTitle": "",
           "source": "微博热搜",
           "brand": "iPhone",
@@ -222,16 +246,16 @@ window.phoneRadarDaily = {
           "date": "2026-06-20",
           "time": "",
           "publishedAt": "",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%B6%A8%E5%AE%8C%E4%BB%B7%E7%9A%84iPhone%E8%BF%98%E9%A6%99%E5%90%97%23&t=31&band_rank=18&Refer=top",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BB%8F%E9%94%80%E5%95%86%E8%AF%B4iPhone%E6%B6%A8%E4%BB%B7%E7%8C%9B%E9%94%80%E9%87%8F%E5%BF%85%E8%85%B0%E6%8A%98%23&t=31&band_rank=18&Refer=top",
           "image": "",
           "verdict": "扫一眼",
-          "takeaway": "涨完价的iPhone还香吗",
-          "detail": "涨完价的iPhone还香吗",
+          "takeaway": "经销商说iPhone涨价猛销量必腰折",
+          "detail": "经销商说iPhone涨价猛销量必腰折",
           "keyPoints": [
             "爆料"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "impact": "影响购买预算，值得先看。",
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         },
         {
