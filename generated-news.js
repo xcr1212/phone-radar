@@ -1,5 +1,5 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-06-21T17:51:50.541Z",
+  "updatedAt": "2026-06-21T20:01:38.120Z",
   "news": [
     {
       "id": "auto-0f448b6c4e54",
@@ -162,26 +162,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-a5a350b3c505",
-      "title": "三持了，工作压力大的时候，就爱买电子产品，分期也买[流泪][流泪][流泪] #华为Mate80Pro# #小米17ProMax#",
-      "source": "酷安热榜",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-06-21",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72445977",
-      "image": "",
-      "summary": "三持了，工作压力大的时候，就爱买电子产品，分期也买[流泪][流泪][流泪] #华为Mate80Pro# #小米17ProMax#",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
       "id": "newsnow-eb0429a63592",
       "title": "且行且珍惜吧！红米K90ProMax这种全能手机不会复刻了。",
       "source": "酷安热榜",
@@ -197,46 +177,6 @@ window.phoneRadarAuto = {
       "summary": "且行且珍惜吧！红米K90ProMax这种全能手机不会复刻了。",
       "tags": [
         "行业",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-de1f80703d5d",
-      "title": "#HyperOS# 小米手机， 12G的运行内存，狗都不用，草，什么垃圾优化，4个后台卡到爆",
-      "source": "酷安热榜",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-06-21",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72430253",
-      "image": "",
-      "summary": "#HyperOS# 小米手机， 12G的运行内存，狗都不用，草，什么垃圾优化，4个后台卡到爆",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-39b5e98a9acc",
-      "title": "【消息称荣耀正密集起诉手机壳电商，或涉及超400家公司】",
-      "source": "酷安热榜",
-      "brand": "HONOR",
-      "model": "HONOR 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-06-21",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72438898",
-      "image": "",
-      "summary": "【消息称荣耀正密集起诉手机壳电商，或涉及超400家公司】",
-      "tags": [
-        "HONOR",
         "爆料",
         "NewsNow"
       ]
@@ -262,8 +202,8 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-61c7cdf45691",
-      "title": "中奖了，过保花屏真真的出现了，老哥们都怎么解决的 #华为Mate70Pro# #华为Mate70Pro优享版# #华为Mate80ProMax#",
+      "id": "newsnow-a5a350b3c505",
+      "title": "三持了，工作压力大的时候，就爱买电子产品，分期也买[流泪][流泪][流泪] #华为Mate80Pro# #小米17ProMax#",
       "source": "酷安热榜",
       "brand": "Huawei",
       "model": "Huawei 相关机型",
@@ -272,11 +212,31 @@ window.phoneRadarAuto = {
       "date": "2026-06-21",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72437433",
+      "url": "https://www.coolapk.com/feed/72445977",
       "image": "",
-      "summary": "中奖了，过保花屏真真的出现了，老哥们都怎么解决的 #华为Mate70Pro# #华为Mate70Pro优享版# #华为Mate80ProMax#",
+      "summary": "三持了，工作压力大的时候，就爱买电子产品，分期也买[流泪][流泪][流泪] #华为Mate80Pro# #小米17ProMax#",
       "tags": [
         "Huawei",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-18d2e7f70b6b",
+      "title": "既然厂商这么爱涨价，不如复兴LCD屏节约一下屏幕成本，还能复兴LCD，LCD党那么多，肯定买的多。并且现在OLED也都是直屏了，OLED做曲屏的优势也没有了。",
+      "source": "酷安热榜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-06-21",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/72460977",
+      "image": "",
+      "summary": "既然厂商这么爱涨价，不如复兴LCD屏节约一下屏幕成本，还能复兴LCD，LCD党那么多，肯定买的多。并且现在OLED也都是直屏了，OLED做曲屏的优势也没有了。",
+      "tags": [
+        "行业",
         "爆料",
         "NewsNow"
       ]
@@ -379,6 +339,26 @@ window.phoneRadarAuto = {
         "iPhone",
         "爆料",
         "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-859e3e4375d2",
+      "title": "竹本青：【消息称荣耀正密集起诉手机壳电商，或涉及超400家公司】 据财闻报道，近日，一位深圳手机壳电商林先生（化名）告诉财…",
+      "source": "竹本青",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-06-20",
+      "time": "05:15",
+      "publishedAt": "2026-06-20T05:15:07.000Z",
+      "url": "https://www.coolapk.com/feed/72438898",
+      "image": "http://image.coolapk.com/feed/2026/0620/13/4248714_8c941b85_2505_3165_307@744x418.png",
+      "summary": "【消息称荣耀正密集起诉手机壳电商，或涉及超400家公司】 据财闻报道，近日，一位深圳手机壳电商林先生（化名）告诉财闻，荣耀正密集起诉多家手机壳电商，理由为商标侵权，本次荣耀起诉力度较大，或涉及超400家手机壳电商公司。 具体来看，荣耀认为这些手机壳厂商在商品的标题中和介绍页面大量使用“荣耀”二字或“Honor”标识，而这两个词是荣耀的注册商标，因此商家行为…",
+      "tags": [
+        "HONOR",
+        "爆料",
+        "酷安博主"
       ]
     },
     {

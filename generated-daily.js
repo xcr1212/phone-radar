@@ -1,13 +1,13 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-06-21T17:51:50.541Z",
+  "updatedAt": "2026-06-21T20:01:38.120Z",
   "issueDate": "2026-06-21",
   "issue": "VOL.260621",
   "title": "手机情报日报",
-  "intro": "今日筛出 14 条重点，其中 5 条是重点爆料，包含 4 条 iPhone 相关、1 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 15 条重点，其中 6 条是重点爆料，包含 4 条 iPhone 相关、1 条官方确认、0 条参数线索。",
   "stats": {
-    "total": 14,
+    "total": 15,
     "iphone": 4,
-    "leaks": 5,
+    "leaks": 6,
     "official": 1,
     "specs": 0
   },
@@ -89,23 +89,47 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
-          "id": "newsnow-39b5e98a9acc",
-          "title": "【消息称荣耀正密集起诉手机壳电商，或涉及超400家公司】",
+          "id": "coolapk-user-859e3e4375d2",
+          "title": "竹本青：【消息称荣耀正密集起诉手机壳电商，或涉及超400家公司】 据财闻报道，近日，一位深圳手机壳电商林先生（化名）告诉财…",
+          "originalTitle": "",
+          "source": "竹本青",
+          "brand": "HONOR",
+          "type": "爆料",
+          "trust": "高可信爆料",
+          "date": "2026-06-20",
+          "time": "05:15",
+          "publishedAt": "2026-06-20T05:15:07.000Z",
+          "url": "https://www.coolapk.com/feed/72438898",
+          "image": "http://image.coolapk.com/feed/2026/0620/13/4248714_8c941b85_2505_3165_307@744x418.png",
+          "verdict": "先看",
+          "takeaway": "【消息称荣耀正密集起诉手机壳电商，或涉及超400家公司】 据财闻报道，近日，一位深圳手机壳电商林先生（化名）告诉财闻，荣耀正密集起诉多家手机壳电商，理由为商标侵权，本次荣耀起诉力度较大，或涉及超400家手机壳电商公司。 具体来看，荣耀认为这些手机壳厂商在商品的标题中和介绍页面大量使用“荣耀”二字或“Honor”标识，而这两个词是荣耀的注册商标，因此商家行为…",
+          "detail": "【消息称荣耀正密集起诉手机壳电商，或涉及超400家公司】 据财闻报道，近日，一位深圳手机壳电商林先生（化名）告诉财闻，荣耀正密集起诉多家手机壳电商，理由为商标侵权，本次荣耀起诉力度较大，或涉及超400家手机壳电商公司。 具体来看，荣耀认为这些手机壳厂商在商品的标题中和介绍页面大量使用“荣耀”二字或“Honor”标识，而这两个词是荣耀的注册商标，因此商家行为…",
+          "keyPoints": [
+            "爆料来源"
+          ],
+          "confidence": "可信度较高，但仍属于发布前线索。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "newsnow-18d2e7f70b6b",
+          "title": "既然厂商这么爱涨价，不如复兴LCD屏节约一下屏幕成本，还能复兴LCD，LCD党那么多，肯定买的多。并且现在OLED也都是直屏了，OLED做曲屏的优势也没有了。",
           "originalTitle": "",
           "source": "酷安热榜",
-          "brand": "HONOR",
+          "brand": "行业",
           "type": "爆料",
           "trust": "高关注爆料源",
           "date": "2026-06-21",
           "time": "",
           "publishedAt": "",
-          "url": "https://www.coolapk.com/feed/72438898",
+          "url": "https://www.coolapk.com/feed/72460977",
           "image": "",
           "verdict": "先看",
-          "takeaway": "【消息称荣耀正密集起诉手机壳电商，或涉及超400家公司】",
-          "detail": "【消息称荣耀正密集起诉手机壳电商，或涉及超400家公司】",
+          "takeaway": "既然厂商这么爱涨价，不如复兴LCD屏节约一下屏幕成本，还能复兴LCD，LCD党那么多，肯定买的多。并且现在OLED也都是直屏了，OLED做曲屏的优势也没有了。",
+          "detail": "既然厂商这么爱涨价，不如复兴LCD屏节约一下屏幕成本，还能复兴LCD，LCD党那么多，肯定买的多。并且现在OLED也都是直屏了，OLED做曲屏的优势也没有了。",
           "keyPoints": [
-            "爆料来源"
+            "屏幕形态",
+            "成本 / 价格"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
@@ -226,29 +250,6 @@ window.phoneRadarDaily = {
       "hint": "看方向，不急着当购买依据。",
       "items": [
         {
-          "id": "newsnow-de1f80703d5d",
-          "title": "#HyperOS# 小米手机， 12G的运行内存，狗都不用，草，什么垃圾优化，4个后台卡到爆",
-          "originalTitle": "",
-          "source": "酷安热榜",
-          "brand": "Xiaomi",
-          "type": "爆料",
-          "trust": "高关注爆料源",
-          "date": "2026-06-21",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://www.coolapk.com/feed/72430253",
-          "image": "",
-          "verdict": "先看",
-          "takeaway": "#HyperOS# 小米手机， 12G的运行内存，狗都不用，草，什么垃圾优化，4个后台卡到爆",
-          "detail": "#HyperOS# 小米手机， 12G的运行内存，狗都不用，草，什么垃圾优化，4个后台卡到爆",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
-        {
           "id": "auto-4de4c2ce05ab",
           "title": "丰巢联合微信支付推出“刷掌取件”，全程无需使用手机",
           "originalTitle": "",
@@ -270,29 +271,6 @@ window.phoneRadarDaily = {
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
           "action": "中文源可以直接点开快读；看完只保留和购机有关的点。"
-        },
-        {
-          "id": "newsnow-a5a350b3c505",
-          "title": "三持了，工作压力大的时候，就爱买电子产品，分期也买[流泪][流泪][流泪] #华为Mate80Pro# #小米17ProMax#",
-          "originalTitle": "",
-          "source": "酷安热榜",
-          "brand": "Huawei",
-          "type": "爆料",
-          "trust": "高关注爆料源",
-          "date": "2026-06-21",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://www.coolapk.com/feed/72445977",
-          "image": "",
-          "verdict": "扫一眼",
-          "takeaway": "三持了，工作压力大的时候，就爱买电子产品，分期也买[流泪][流泪][流泪] #华为Mate80Pro# #小米17ProMax#",
-          "detail": "三持了，工作压力大的时候，就爱买电子产品，分期也买[流泪][流泪][流泪] #华为Mate80Pro# #小米17ProMax#",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         },
         {
           "id": "newsnow-eb0429a63592",
@@ -318,8 +296,8 @@ window.phoneRadarDaily = {
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         },
         {
-          "id": "newsnow-61c7cdf45691",
-          "title": "中奖了，过保花屏真真的出现了，老哥们都怎么解决的 #华为Mate70Pro# #华为Mate70Pro优享版# #华为Mate80ProMax#",
+          "id": "newsnow-a5a350b3c505",
+          "title": "三持了，工作压力大的时候，就爱买电子产品，分期也买[流泪][流泪][流泪] #华为Mate80Pro# #小米17ProMax#",
           "originalTitle": "",
           "source": "酷安热榜",
           "brand": "Huawei",
@@ -328,11 +306,11 @@ window.phoneRadarDaily = {
           "date": "2026-06-21",
           "time": "",
           "publishedAt": "",
-          "url": "https://www.coolapk.com/feed/72437433",
+          "url": "https://www.coolapk.com/feed/72445977",
           "image": "",
           "verdict": "扫一眼",
-          "takeaway": "中奖了，过保花屏真真的出现了，老哥们都怎么解决的 #华为Mate70Pro# #华为Mate70Pro优享版# #华为Mate80ProMax#",
-          "detail": "中奖了，过保花屏真真的出现了，老哥们都怎么解决的 #华为Mate70Pro# #华为Mate70Pro优享版# #华为Mate80ProMax#",
+          "takeaway": "三持了，工作压力大的时候，就爱买电子产品，分期也买[流泪][流泪][流泪] #华为Mate80Pro# #小米17ProMax#",
+          "detail": "三持了，工作压力大的时候，就爱买电子产品，分期也买[流泪][流泪][流泪] #华为Mate80Pro# #小米17ProMax#",
           "keyPoints": [
             "爆料"
           ],
@@ -361,6 +339,54 @@ window.phoneRadarDaily = {
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "影响拍照体验，买旗舰机时值得关注。",
+          "action": "有具体参数就记录到参数库；没有参数就先收藏。"
+        },
+        {
+          "id": "auto-f827b269fdc2",
+          "title": "Samsung 外观设计线索曝光",
+          "originalTitle": "",
+          "source": "Gizmochina",
+          "brand": "Samsung",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-06-21",
+          "time": "07:23",
+          "publishedAt": "2026-06-21T07:23:45.000Z",
+          "url": "https://www.gizmochina.com/2026/06/21/oppo-find-n7-design-tipped/",
+          "image": "https://www.gizmochina.com/wp-content/uploads/2026/03/OPPO-Find-N6_1.mp4_20260326_152207.020-300x150.jpg?x44794",
+          "verdict": "可略过",
+          "takeaway": "Samsung 外观设计线索曝光。重点看外观、颜色、尺寸是否和上一代有明显变化。",
+          "detail": "Samsung 外观设计线索曝光。这类内容主要看外观设计、按键布局、相机模组和尺寸变化，后续最好等更多渲染图或保护壳线索互相验证。",
+          "keyPoints": [
+            "外观 / 配色 / 尺寸",
+            "影像硬件",
+            "屏幕形态"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "影响拍照体验，买旗舰机时值得关注。",
+          "action": "有具体参数就记录到参数库；没有参数就先收藏。"
+        },
+        {
+          "id": "auto-5c773abf5c10",
+          "title": "HONOR 相关消息",
+          "originalTitle": "",
+          "source": "Huawei Central",
+          "brand": "HONOR",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-06-20",
+          "time": "13:13",
+          "publishedAt": "2026-06-20T13:13:45.000Z",
+          "url": "https://www.huaweicentral.com/honor-600-smart-check-6-major-upgrades-of-this-affordable-phone/",
+          "image": "https://www.huaweicentral.com/wp-content/uploads/2026/06/Honor600Smart1.jpg",
+          "verdict": "可略过",
+          "takeaway": "HONOR 相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
+          "detail": "HONOR 相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
+          "keyPoints": [
+            "电池 / 充电"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "影响日常体验，尤其是游戏、拍照和长时间使用。",
           "action": "有具体参数就记录到参数库；没有参数就先收藏。"
         }
       ]
