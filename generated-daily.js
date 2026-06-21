@@ -1,5 +1,5 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-06-21T10:04:52.454Z",
+  "updatedAt": "2026-06-21T12:21:15.827Z",
   "issueDate": "2026-06-21",
   "issue": "VOL.260621",
   "title": "手机情报日报",
@@ -226,6 +226,29 @@ window.phoneRadarDaily = {
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         },
         {
+          "id": "auto-4de4c2ce05ab",
+          "title": "丰巢联合微信支付推出“刷掌取件”，全程无需使用手机",
+          "originalTitle": "",
+          "source": "IT之家",
+          "brand": "行业",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-06-21",
+          "time": "10:30",
+          "publishedAt": "2026-06-21T10:30:13.000Z",
+          "url": "https://www.ithome.com/0/966/707.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/6/cd478e6c-c233-4eea-86fa-82ce6b2e3da2.png",
+          "verdict": "扫一眼",
+          "takeaway": "IT之家 6 月 21 日消息，在本周于上海举办的中国国际金融展上，丰巢与微信支付联合展示了“刷掌取件”功能。 官方表示，“刷掌取件”是丰巢与微信支付共同探索的末端服务创新项目。用户通过微信刷掌即可完成身份核验，系统自动识别并开启对应包裹的柜门， 全程无需使用手机 ，省去了掏手机、找取件码、扫码等步骤，取件效率明显提升，在取件高峰期还能有效缩短排队等待时间…",
+          "detail": "IT之家 6 月 21 日消息，在本周于上海举办的中国国际金融展上，丰巢与微信支付联合展示了“刷掌取件”功能。 官方表示，“刷掌取件”是丰巢与微信支付共同探索的末端服务创新项目。用户通过微信刷掌即可完成身份核验，系统自动识别并开启对应包裹的柜门， 全程无需使用手机 ，省去了掏手机、找取件码、扫码等步骤，取件效率明显提升，在取件高峰期还能有效缩短排队等待时间…",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "中文源可以直接点开快读；看完只保留和购机有关的点。"
+        },
+        {
           "id": "newsnow-a5a350b3c505",
           "title": "三持了，工作压力大的时候，就爱买电子产品，分期也买[流泪][流泪][流泪] #华为Mate80Pro# #小米17ProMax#",
           "originalTitle": "",
@@ -312,31 +335,6 @@ window.phoneRadarDaily = {
           "detail": "Pixel 10 影像能力相关消息。重点看影像功能是否和新机硬件有关，如果只是拍摄案例或营销内容，参考价值会低一些。",
           "keyPoints": [
             "影像硬件"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "影响拍照体验，买旗舰机时值得关注。",
-          "action": "有具体参数就记录到参数库；没有参数就先收藏。"
-        },
-        {
-          "id": "auto-f827b269fdc2",
-          "title": "Samsung 外观设计线索曝光",
-          "originalTitle": "",
-          "source": "Gizmochina",
-          "brand": "Samsung",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-06-21",
-          "time": "07:23",
-          "publishedAt": "2026-06-21T07:23:45.000Z",
-          "url": "https://www.gizmochina.com/2026/06/21/oppo-find-n7-design-tipped/",
-          "image": "https://www.gizmochina.com/wp-content/uploads/2026/03/OPPO-Find-N6_1.mp4_20260326_152207.020-300x150.jpg?x44794",
-          "verdict": "可略过",
-          "takeaway": "Samsung 外观设计线索曝光。重点看外观、颜色、尺寸是否和上一代有明显变化。",
-          "detail": "Samsung 外观设计线索曝光。这类内容主要看外观设计、按键布局、相机模组和尺寸变化，后续最好等更多渲染图或保护壳线索互相验证。",
-          "keyPoints": [
-            "外观 / 配色 / 尺寸",
-            "影像硬件",
-            "屏幕形态"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "影响拍照体验，买旗舰机时值得关注。",

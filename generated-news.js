@@ -1,6 +1,26 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-06-21T10:04:52.454Z",
+  "updatedAt": "2026-06-21T12:21:15.827Z",
   "news": [
+    {
+      "id": "auto-4de4c2ce05ab",
+      "title": "丰巢联合微信支付推出“刷掌取件”，全程无需使用手机",
+      "source": "IT之家",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-21",
+      "time": "10:30",
+      "publishedAt": "2026-06-21T10:30:13.000Z",
+      "url": "https://www.ithome.com/0/966/707.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/6/cd478e6c-c233-4eea-86fa-82ce6b2e3da2.png",
+      "summary": "IT之家 6 月 21 日消息，在本周于上海举办的中国国际金融展上，丰巢与微信支付联合展示了“刷掌取件”功能。 官方表示，“刷掌取件”是丰巢与微信支付共同探索的末端服务创新项目。用户通过微信刷掌即可完成身份核验，系统自动识别并开启对应包裹的柜门， 全程无需使用手机 ，省去了掏手机、找取件码、扫码等步骤，取件效率明显提升，在取件高峰期还能有效缩短排队等待时间…",
+      "tags": [
+        "行业",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-e3b866bc0e9f",
       "title": "I’ve had the Pixel 10 for 10 months, and I’m still confused by its best camera feature",
@@ -202,26 +222,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-61c7cdf45691",
-      "title": "中奖了，过保花屏真真的出现了，老哥们都怎么解决的 #华为Mate70Pro# #华为Mate70Pro优享版# #华为Mate80ProMax#",
-      "source": "酷安热榜",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-06-21",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72437433",
-      "image": "",
-      "summary": "中奖了，过保花屏真真的出现了，老哥们都怎么解决的 #华为Mate70Pro# #华为Mate70Pro优享版# #华为Mate80ProMax#",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
       "id": "newsnow-86d61ec89f5e",
       "title": "这都2026年了，还有人给内存卡和可拆卸电池招魂呢。我记得同性能同容量内存卡的价格，和手机存储升级的差价差不多；真用可拆卸电池设计的话，既做不到现在的防水等级，也没法做到现在的轻量化水平啊。不过有一点说得没错，就苹果那金子内存，真不如插内存卡[噗]",
       "source": "酷安热榜",
@@ -242,22 +242,22 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-47ee406b71d3",
-      "title": "虽然我玩手机玩的都恶心了，但我就是不想写作业，怎么办？",
-      "source": "知乎热榜",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "市场报告",
-      "trust": "媒体汇总",
+      "id": "newsnow-61c7cdf45691",
+      "title": "中奖了，过保花屏真真的出现了，老哥们都怎么解决的 #华为Mate70Pro# #华为Mate70Pro优享版# #华为Mate80ProMax#",
+      "source": "酷安热榜",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
       "date": "2026-06-21",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.zhihu.com/question/368308943",
+      "url": "https://www.coolapk.com/feed/72437433",
       "image": "",
-      "summary": "虽然我玩手机玩的都恶心了，但我就是不想写作业，怎么办？",
+      "summary": "中奖了，过保花屏真真的出现了，老哥们都怎么解决的 #华为Mate70Pro# #华为Mate70Pro优享版# #华为Mate80ProMax#",
       "tags": [
-        "行业",
-        "市场报告",
+        "Huawei",
+        "爆料",
         "NewsNow"
       ]
     },
