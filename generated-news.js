@@ -1,5 +1,5 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-06-21T16:10:28.241Z",
+  "updatedAt": "2026-06-21T17:51:50.541Z",
   "news": [
     {
       "id": "auto-0f448b6c4e54",
@@ -299,26 +299,6 @@ window.phoneRadarAuto = {
         "行业",
         "爆料",
         "NewsNow"
-      ]
-    },
-    {
-      "id": "auto-2c11de768fe2",
-      "title": "I reviewed the Motorola Edge 70 Fusion, and it's the battery life superstar you've always wanted",
-      "source": "Android Police",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-20",
-      "time": "16:00",
-      "publishedAt": "2026-06-20T16:00:11.000Z",
-      "url": "https://www.androidpolice.com/motorola-edge-70-fusion-review/",
-      "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2026/06/moto-edge-70-fusion-back-angle.JPG",
-      "summary": "Let your phone charger gather dust",
-      "tags": [
-        "行业",
-        "爆料",
-        "自动抓取"
       ]
     },
     {
