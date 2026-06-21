@@ -1,12 +1,12 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-06-21T05:17:58.082Z",
+  "updatedAt": "2026-06-21T10:04:52.454Z",
   "issueDate": "2026-06-21",
   "issue": "VOL.260621",
   "title": "手机情报日报",
-  "intro": "今日筛出 12 条重点，其中 4 条是重点爆料，包含 2 条 iPhone 相关、1 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 13 条重点，其中 4 条是重点爆料，包含 3 条 iPhone 相关、1 条官方确认、0 条参数线索。",
   "stats": {
-    "total": 12,
-    "iphone": 2,
+    "total": 13,
+    "iphone": 3,
     "leaks": 4,
     "official": 1,
     "specs": 0
@@ -17,6 +17,30 @@ window.phoneRadarDaily = {
       "title": "重点爆料",
       "hint": "机模、配色、影像、屏幕、电池和芯片线索先看。",
       "items": [
+        {
+          "id": "newsnow-86d61ec89f5e",
+          "title": "这都2026年了，还有人给内存卡和可拆卸电池招魂呢。我记得同性能同容量内存卡的价格，和手机存储升级的差价差不多；真用可拆卸电池设计的话，既做不到现在的防水等级，也没法做到现在的轻量化水平啊。不过有一点说得没错，就苹果那金子内存，真不如插内存卡[噗]",
+          "originalTitle": "",
+          "source": "酷安热榜",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "高关注爆料源",
+          "date": "2026-06-21",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://www.coolapk.com/feed/72449836",
+          "image": "",
+          "verdict": "先看",
+          "takeaway": "这都2026年了，还有人给内存卡和可拆卸电池招魂呢。我记得同性能同容量内存卡的价格，和手机存储升级的差价差不多；真用可拆卸电池设计的话，既做不到现在的防水等级，也没法做到现在的轻量化水平啊。不过有一点说得没错，就苹果那金子内存，真不如插内存卡[噗]",
+          "detail": "这都2026年了，还有人给内存卡和可拆卸电池招魂呢。我记得同性能同容量内存卡的价格，和手机存储升级的差价差不多；真用可拆卸电池设计的话，既做不到现在的防水等级，也没法做到现在的轻量化水平啊。不过有一点说得没错，就苹果那金子内存，真不如插内存卡[噗]",
+          "keyPoints": [
+            "电池 / 充电",
+            "成本 / 价格"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
         {
           "id": "auto-e0f8dee04ba3",
           "title": "消息称小米 18 系列手机背屏不变：搭定制 200Mp Lofic 主摄、大 R 角等效 2K 屏",
@@ -59,29 +83,6 @@ window.phoneRadarDaily = {
           "detail": "【消息称荣耀正密集起诉手机壳电商，或涉及超400家公司】",
           "keyPoints": [
             "爆料来源"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "newsnow-91703020a797",
-          "title": "《华为抄袭了一个从来没有发布过折叠屏厂商的折叠屏》[受虐滑稽]#鸿蒙6#",
-          "originalTitle": "",
-          "source": "酷安热榜",
-          "brand": "Huawei",
-          "type": "爆料",
-          "trust": "高关注爆料源",
-          "date": "2026-06-21",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://www.coolapk.com/feed/72446284",
-          "image": "",
-          "verdict": "先看",
-          "takeaway": "《华为抄袭了一个从来没有发布过折叠屏厂商的折叠屏》[受虐滑稽]#鸿蒙6#",
-          "detail": "《华为抄袭了一个从来没有发布过折叠屏厂商的折叠屏》[受虐滑稽]#鸿蒙6#",
-          "keyPoints": [
-            "屏幕形态"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
@@ -167,6 +168,36 @@ window.phoneRadarDaily = {
       ]
     },
     {
+      "id": "launch",
+      "title": "新机与官方发布",
+      "hint": "能直接更新到参数库。",
+      "items": [
+        {
+          "id": "auto-2b4dc728c26d",
+          "title": "OPPO 相关消息",
+          "originalTitle": "",
+          "source": "Gizmochina",
+          "brand": "OPPO",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-06-21",
+          "time": "09:47",
+          "publishedAt": "2026-06-21T09:47:56.000Z",
+          "url": "https://www.gizmochina.com/2026/06/21/oppo-reno-16-series-india-teasers-oppo-bubble-enco-air-5-launch/",
+          "image": "https://www.gizmochina.com/wp-content/uploads/2026/06/image-110-1024x739.png?x44794",
+          "verdict": "可略过",
+          "takeaway": "OPPO 相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
+          "detail": "OPPO 相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        }
+      ]
+    },
+    {
       "id": "market",
       "title": "行业趋势",
       "hint": "看方向，不急着当购买依据。",
@@ -187,52 +218,6 @@ window.phoneRadarDaily = {
           "verdict": "先看",
           "takeaway": "#HyperOS# 小米手机， 12G的运行内存，狗都不用，草，什么垃圾优化，4个后台卡到爆",
           "detail": "#HyperOS# 小米手机， 12G的运行内存，狗都不用，草，什么垃圾优化，4个后台卡到爆",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
-        {
-          "id": "newsnow-9bfc31580a59",
-          "title": "小米这次脸都不要了，红米K70机主手机系统被强制更新连系统更新设置都直接给整消失了，机主直接被取消了拒绝更新系统的选项，",
-          "originalTitle": "",
-          "source": "酷安热榜",
-          "brand": "Xiaomi",
-          "type": "爆料",
-          "trust": "高关注爆料源",
-          "date": "2026-06-21",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://www.coolapk.com/feed/72427852",
-          "image": "",
-          "verdict": "先看",
-          "takeaway": "小米这次脸都不要了，红米K70机主手机系统被强制更新连系统更新设置都直接给整消失了，机主直接被取消了拒绝更新系统的选项，",
-          "detail": "小米这次脸都不要了，红米K70机主手机系统被强制更新连系统更新设置都直接给整消失了，机主直接被取消了拒绝更新系统的选项，",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
-        {
-          "id": "newsnow-eb0429a63592",
-          "title": "且行且珍惜吧！红米K90ProMax这种全能手机不会复刻了。",
-          "originalTitle": "",
-          "source": "酷安热榜",
-          "brand": "行业",
-          "type": "爆料",
-          "trust": "高关注爆料源",
-          "date": "2026-06-21",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://www.coolapk.com/feed/72436222",
-          "image": "",
-          "verdict": "扫一眼",
-          "takeaway": "且行且珍惜吧！红米K90ProMax这种全能手机不会复刻了。",
-          "detail": "且行且珍惜吧！红米K90ProMax这种全能手机不会复刻了。",
           "keyPoints": [
             "爆料"
           ],
@@ -264,6 +249,29 @@ window.phoneRadarDaily = {
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         },
         {
+          "id": "newsnow-eb0429a63592",
+          "title": "且行且珍惜吧！红米K90ProMax这种全能手机不会复刻了。",
+          "originalTitle": "",
+          "source": "酷安热榜",
+          "brand": "行业",
+          "type": "爆料",
+          "trust": "高关注爆料源",
+          "date": "2026-06-21",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://www.coolapk.com/feed/72436222",
+          "image": "",
+          "verdict": "扫一眼",
+          "takeaway": "且行且珍惜吧！红米K90ProMax这种全能手机不会复刻了。",
+          "detail": "且行且珍惜吧！红米K90ProMax这种全能手机不会复刻了。",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        },
+        {
           "id": "newsnow-61c7cdf45691",
           "title": "中奖了，过保花屏真真的出现了，老哥们都怎么解决的 #华为Mate70Pro# #华为Mate70Pro优享版# #华为Mate80ProMax#",
           "originalTitle": "",
@@ -287,26 +295,51 @@ window.phoneRadarDaily = {
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         },
         {
-          "id": "auto-5c773abf5c10",
-          "title": "HONOR 相关消息",
+          "id": "auto-e3b866bc0e9f",
+          "title": "Pixel 10 影像能力相关消息",
           "originalTitle": "",
-          "source": "Huawei Central",
-          "brand": "HONOR",
+          "source": "Android Authority",
+          "brand": "Pixel",
           "type": "爆料",
           "trust": "媒体汇总",
-          "date": "2026-06-20",
-          "time": "13:13",
-          "publishedAt": "2026-06-20T13:13:45.000Z",
-          "url": "https://www.huaweicentral.com/honor-600-smart-check-6-major-upgrades-of-this-affordable-phone/",
-          "image": "https://www.huaweicentral.com/wp-content/uploads/2026/06/Honor600Smart1.jpg",
+          "date": "2026-06-21",
+          "time": "10:00",
+          "publishedAt": "2026-06-21T10:00:47.000Z",
+          "url": "https://www.androidauthority.com/10-months-later-pixel-10-best-camera-feature-missing-3673818/",
+          "image": "",
           "verdict": "可略过",
-          "takeaway": "HONOR 相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
-          "detail": "HONOR 相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
+          "takeaway": "Pixel 影像能力相关宣传或案例，主要看是否透露拍摄能力变化。",
+          "detail": "Pixel 10 影像能力相关消息。重点看影像功能是否和新机硬件有关，如果只是拍摄案例或营销内容，参考价值会低一些。",
           "keyPoints": [
-            "电池 / 充电"
+            "影像硬件"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "影响日常体验，尤其是游戏、拍照和长时间使用。",
+          "impact": "影响拍照体验，买旗舰机时值得关注。",
+          "action": "有具体参数就记录到参数库；没有参数就先收藏。"
+        },
+        {
+          "id": "auto-f827b269fdc2",
+          "title": "Samsung 外观设计线索曝光",
+          "originalTitle": "",
+          "source": "Gizmochina",
+          "brand": "Samsung",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-06-21",
+          "time": "07:23",
+          "publishedAt": "2026-06-21T07:23:45.000Z",
+          "url": "https://www.gizmochina.com/2026/06/21/oppo-find-n7-design-tipped/",
+          "image": "https://www.gizmochina.com/wp-content/uploads/2026/03/OPPO-Find-N6_1.mp4_20260326_152207.020-300x150.jpg?x44794",
+          "verdict": "可略过",
+          "takeaway": "Samsung 外观设计线索曝光。重点看外观、颜色、尺寸是否和上一代有明显变化。",
+          "detail": "Samsung 外观设计线索曝光。这类内容主要看外观设计、按键布局、相机模组和尺寸变化，后续最好等更多渲染图或保护壳线索互相验证。",
+          "keyPoints": [
+            "外观 / 配色 / 尺寸",
+            "影像硬件",
+            "屏幕形态"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "影响拍照体验，买旗舰机时值得关注。",
           "action": "有具体参数就记录到参数库；没有参数就先收藏。"
         }
       ]

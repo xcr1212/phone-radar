@@ -1,6 +1,66 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-06-21T05:17:58.082Z",
+  "updatedAt": "2026-06-21T10:04:52.454Z",
   "news": [
+    {
+      "id": "auto-e3b866bc0e9f",
+      "title": "I’ve had the Pixel 10 for 10 months, and I’m still confused by its best camera feature",
+      "source": "Android Authority",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-21",
+      "time": "10:00",
+      "publishedAt": "2026-06-21T10:00:47.000Z",
+      "url": "https://www.androidauthority.com/10-months-later-pixel-10-best-camera-feature-missing-3673818/",
+      "image": "",
+      "summary": "Auto Best Take? Are you there?",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-2b4dc728c26d",
+      "title": "Oppo Reno 16 series official teasers hint at devices",
+      "source": "Gizmochina",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-21",
+      "time": "09:47",
+      "publishedAt": "2026-06-21T09:47:56.000Z",
+      "url": "https://www.gizmochina.com/2026/06/21/oppo-reno-16-series-india-teasers-oppo-bubble-enco-air-5-launch/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/06/image-110-1024x739.png?x44794",
+      "summary": "Oppo is gearing up to launch the Reno 16 lineup in multiple markets, including Europe and Southeast Asia. Teasers for the series have also appeared in India through the company’s…",
+      "tags": [
+        "OPPO",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-f827b269fdc2",
+      "title": "Oppo Find N7 Wide to sport horizontal camera design, crease-free display",
+      "source": "Gizmochina",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-21",
+      "time": "07:23",
+      "publishedAt": "2026-06-21T07:23:45.000Z",
+      "url": "https://www.gizmochina.com/2026/06/21/oppo-find-n7-design-tipped/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/03/OPPO-Find-N6_1.mp4_20260326_152207.020-300x150.jpg?x44794",
+      "summary": "Foldable smartphones are entering a new phase, with several brands preparing wider-format devices to compete in the premium segment. While Samsung is expected to introduce the Gal…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-7d05e868857e",
       "title": "微软将移除 Edge 浏览器文件互传功能 Drop，重心转向 Copilot",
@@ -62,6 +122,26 @@ window.phoneRadarAuto = {
       ]
     },
     {
+      "id": "newsnow-a5a350b3c505",
+      "title": "三持了，工作压力大的时候，就爱买电子产品，分期也买[流泪][流泪][流泪] #华为Mate80Pro# #小米17ProMax#",
+      "source": "酷安热榜",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-06-21",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/72445977",
+      "image": "",
+      "summary": "三持了，工作压力大的时候，就爱买电子产品，分期也买[流泪][流泪][流泪] #华为Mate80Pro# #小米17ProMax#",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
       "id": "newsnow-eb0429a63592",
       "title": "且行且珍惜吧！红米K90ProMax这种全能手机不会复刻了。",
       "source": "酷安热榜",
@@ -97,26 +177,6 @@ window.phoneRadarAuto = {
       "summary": "#HyperOS# 小米手机， 12G的运行内存，狗都不用，草，什么垃圾优化，4个后台卡到爆",
       "tags": [
         "Xiaomi",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-a5a350b3c505",
-      "title": "三持了，工作压力大的时候，就爱买电子产品，分期也买[流泪][流泪][流泪] #华为Mate80Pro# #小米17ProMax#",
-      "source": "酷安热榜",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-06-21",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72445977",
-      "image": "",
-      "summary": "三持了，工作压力大的时候，就爱买电子产品，分期也买[流泪][流泪][流泪] #华为Mate80Pro# #小米17ProMax#",
-      "tags": [
-        "Huawei",
         "爆料",
         "NewsNow"
       ]
@@ -162,41 +222,21 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-9bfc31580a59",
-      "title": "小米这次脸都不要了，红米K70机主手机系统被强制更新连系统更新设置都直接给整消失了，机主直接被取消了拒绝更新系统的选项，",
+      "id": "newsnow-86d61ec89f5e",
+      "title": "这都2026年了，还有人给内存卡和可拆卸电池招魂呢。我记得同性能同容量内存卡的价格，和手机存储升级的差价差不多；真用可拆卸电池设计的话，既做不到现在的防水等级，也没法做到现在的轻量化水平啊。不过有一点说得没错，就苹果那金子内存，真不如插内存卡[噗]",
       "source": "酷安热榜",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-06-21",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72427852",
+      "url": "https://www.coolapk.com/feed/72449836",
       "image": "",
-      "summary": "小米这次脸都不要了，红米K70机主手机系统被强制更新连系统更新设置都直接给整消失了，机主直接被取消了拒绝更新系统的选项，",
+      "summary": "这都2026年了，还有人给内存卡和可拆卸电池招魂呢。我记得同性能同容量内存卡的价格，和手机存储升级的差价差不多；真用可拆卸电池设计的话，既做不到现在的防水等级，也没法做到现在的轻量化水平啊。不过有一点说得没错，就苹果那金子内存，真不如插内存卡[噗]",
       "tags": [
-        "Xiaomi",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-91703020a797",
-      "title": "《华为抄袭了一个从来没有发布过折叠屏厂商的折叠屏》[受虐滑稽]#鸿蒙6#",
-      "source": "酷安热榜",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-06-21",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72446284",
-      "image": "",
-      "summary": "《华为抄袭了一个从来没有发布过折叠屏厂商的折叠屏》[受虐滑稽]#鸿蒙6#",
-      "tags": [
-        "Huawei",
+        "iPhone",
         "爆料",
         "NewsNow"
       ]
@@ -219,26 +259,6 @@ window.phoneRadarAuto = {
         "行业",
         "市场报告",
         "NewsNow"
-      ]
-    },
-    {
-      "id": "auto-66d1563cade4",
-      "title": "消息称富士 X-T6 相机电池容量增大约 16%，同步升级 X Processor 6 图像处理器",
-      "source": "IT之家",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-20",
-      "time": "23:26",
-      "publishedAt": "2026-06-20T23:26:00.000Z",
-      "url": "https://www.ithome.com/0/966/588.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/6/a25516de-6bad-4c36-914f-d768d5837815.jpg?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 6 月 21 日消息，综合消息源 @E8M_8888 及外媒 FujiRumors，富士 X-T6 相机将配备全新 X Processor 6 图像处理器，预计将提升相机连拍速度。同时新机还将引入全新 NP-W255 电池，该电池由松下苏州生产，容量为 2550 mAh，相对于现款 NP-W235 电池（2200mAh）容量提升了约 16%。 I…",
-      "tags": [
-        "行业",
-        "爆料",
-        "自动抓取"
       ]
     },
     {
