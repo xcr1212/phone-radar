@@ -1,13 +1,13 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-06-21T21:41:38.918Z",
+  "updatedAt": "2026-06-21T23:44:07.338Z",
   "issueDate": "2026-06-21",
   "issue": "VOL.260621",
   "title": "手机情报日报",
-  "intro": "今日筛出 15 条重点，其中 6 条是重点爆料，包含 4 条 iPhone 相关、1 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 16 条重点，其中 7 条是重点爆料，包含 5 条 iPhone 相关、1 条官方确认、0 条参数线索。",
   "stats": {
-    "total": 15,
-    "iphone": 4,
-    "leaks": 6,
+    "total": 16,
+    "iphone": 5,
+    "leaks": 7,
     "official": 1,
     "specs": 0
   },
@@ -17,6 +17,30 @@ window.phoneRadarDaily = {
       "title": "重点爆料",
       "hint": "机模、配色、影像、屏幕、电池和芯片线索先看。",
       "items": [
+        {
+          "id": "auto-69cc03c2f6c0",
+          "title": "机型定位“降档”：消息称苹果 iPhone Air 2 手机仅采用 A20 标准版芯片",
+          "originalTitle": "",
+          "source": "IT之家",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-06-21",
+          "time": "22:48",
+          "publishedAt": "2026-06-21T22:48:40.000Z",
+          "url": "https://www.ithome.com/0/966/738.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/6/25af4601-b64d-4db0-895b-a8ff536ffb2e.jpg?x-bce-process=image/format,f_auto",
+          "verdict": "先看",
+          "takeaway": "IT之家 6 月 22 日消息，消息源 yeux1122 透露，苹果 iPhone Air 2 将采用标准版 A20 芯片，而非 iPhone 18 Pro 系列 / iPhone Fold 的 A20 Pro 芯片，这与初代 iPhone Air 呈现鲜明区别。 作为比较，初代 iPhone Air 搭载了经过“阉割”后的 A19 Pro 芯片（5 核图…",
+          "detail": "IT之家 6 月 22 日消息，消息源 yeux1122 透露，苹果 iPhone Air 2 将采用标准版 A20 芯片，而非 iPhone 18 Pro 系列 / iPhone Fold 的 A20 Pro 芯片，这与初代 iPhone Air 呈现鲜明区别。 作为比较，初代 iPhone Air 搭载了经过“阉割”后的 A19 Pro 芯片（5 核图…",
+          "keyPoints": [
+            "芯片 / 性能",
+            "爆料来源"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
         {
           "id": "auto-0f448b6c4e54",
           "title": "供应链公司称已向苹果首款折叠屏 iPhone 小批量供货，新机预计 9 月发布",

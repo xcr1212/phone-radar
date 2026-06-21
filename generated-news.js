@@ -1,6 +1,26 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-06-21T21:41:38.918Z",
+  "updatedAt": "2026-06-21T23:44:07.338Z",
   "news": [
+    {
+      "id": "auto-69cc03c2f6c0",
+      "title": "机型定位“降档”：消息称苹果 iPhone Air 2 手机仅采用 A20 标准版芯片",
+      "source": "IT之家",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-21",
+      "time": "22:48",
+      "publishedAt": "2026-06-21T22:48:40.000Z",
+      "url": "https://www.ithome.com/0/966/738.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/6/25af4601-b64d-4db0-895b-a8ff536ffb2e.jpg?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 6 月 22 日消息，消息源 yeux1122 透露，苹果 iPhone Air 2 将采用标准版 A20 芯片，而非 iPhone 18 Pro 系列 / iPhone Fold 的 A20 Pro 芯片，这与初代 iPhone Air 呈现鲜明区别。 作为比较，初代 iPhone Air 搭载了经过“阉割”后的 A19 Pro 芯片（5 核图…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-0f448b6c4e54",
       "title": "供应链公司称已向苹果首款折叠屏 iPhone 小批量供货，新机预计 9 月发布",
@@ -162,26 +182,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-eb0429a63592",
-      "title": "且行且珍惜吧！红米K90ProMax这种全能手机不会复刻了。",
-      "source": "酷安热榜",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-06-21",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72436222",
-      "image": "",
-      "summary": "且行且珍惜吧！红米K90ProMax这种全能手机不会复刻了。",
-      "tags": [
-        "行业",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
       "id": "newsnow-86d61ec89f5e",
       "title": "这都2026年了，还有人给内存卡和可拆卸电池招魂呢。我记得同性能同容量内存卡的价格，和手机存储升级的差价差不多；真用可拆卸电池设计的话，既做不到现在的防水等级，也没法做到现在的轻量化水平啊。不过有一点说得没错，就苹果那金子内存，真不如插内存卡[噗]",
       "source": "酷安热榜",
@@ -202,21 +202,21 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-a5a350b3c505",
-      "title": "三持了，工作压力大的时候，就爱买电子产品，分期也买[流泪][流泪][流泪] #华为Mate80Pro# #小米17ProMax#",
+      "id": "newsnow-eb0429a63592",
+      "title": "且行且珍惜吧！红米K90ProMax这种全能手机不会复刻了。",
       "source": "酷安热榜",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
+      "brand": "行业",
+      "model": "智能手机市场",
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-06-21",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72445977",
+      "url": "https://www.coolapk.com/feed/72436222",
       "image": "",
-      "summary": "三持了，工作压力大的时候，就爱买电子产品，分期也买[流泪][流泪][流泪] #华为Mate80Pro# #小米17ProMax#",
+      "summary": "且行且珍惜吧！红米K90ProMax这种全能手机不会复刻了。",
       "tags": [
-        "Huawei",
+        "行业",
         "爆料",
         "NewsNow"
       ]
@@ -237,6 +237,26 @@ window.phoneRadarAuto = {
       "summary": "既然厂商这么爱涨价，不如复兴LCD屏节约一下屏幕成本，还能复兴LCD，LCD党那么多，肯定买的多。并且现在OLED也都是直屏了，OLED做曲屏的优势也没有了。",
       "tags": [
         "行业",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-a5a350b3c505",
+      "title": "三持了，工作压力大的时候，就爱买电子产品，分期也买[流泪][流泪][流泪] #华为Mate80Pro# #小米17ProMax#",
+      "source": "酷安热榜",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-06-21",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/72445977",
+      "image": "",
+      "summary": "三持了，工作压力大的时候，就爱买电子产品，分期也买[流泪][流泪][流泪] #华为Mate80Pro# #小米17ProMax#",
+      "tags": [
+        "Huawei",
         "爆料",
         "NewsNow"
       ]
