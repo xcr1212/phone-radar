@@ -1,6 +1,66 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-06-21T12:21:15.827Z",
+  "updatedAt": "2026-06-21T16:10:28.241Z",
   "news": [
+    {
+      "id": "auto-0f448b6c4e54",
+      "title": "供应链公司称已向苹果首款折叠屏 iPhone 小批量供货，新机预计 9 月发布",
+      "source": "IT之家",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-21",
+      "time": "13:06",
+      "publishedAt": "2026-06-21T13:06:05.000Z",
+      "url": "https://www.ithome.com/0/966/724.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/6/b05a6bd2-201d-488e-a0c4-1aa5ff636b5a.jpg?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 6 月 21 日消息，据中国证券报消息，记者从一家苹果供应链公司获悉，该公司已于近期开始向首款折叠屏 iPhone 小批量供货。按照公司收到的目标指引， 该款产品将于 9 月发布 。 近日，有消息称苹果首款折叠屏 iPhone 已从原定的 2026 年秋季推迟至 2027 年初上市发售。对此，一位苹果供应链公司人士表示，截至目前，其得到的目标指引…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-feb78671a5f2",
+      "title": "荣耀 X80 Pro Max 手机现身中国电信终端产品库：第五代骁龙 6 移动平台、至高 12GB+512GB",
+      "source": "IT之家",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-21",
+      "time": "12:38",
+      "publishedAt": "2026-06-21T12:38:41.000Z",
+      "url": "https://www.ithome.com/0/966/720.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/6/d1d9f4db-4621-43dd-b504-9012e3525f0a.jpg?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 6 月 21 日消息， 荣耀 X80 Pro Max 手机已定档 6 月 22 日 19:00 发布 ，新机将提供四款配色，分别为元气橙、闪电红、月影白、玄甲黑。 IT之家注意到，型号为 BSN-AN00 的荣耀 X80 Pro Max 手机已现身中国电信终端产品库，拥有 6GB+128GB、8GB+128GB、8GB+256GB、8GB+512…",
+      "tags": [
+        "HONOR",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-aa3a8f2fe68b",
+      "title": "高通 SM8975 应用处理器被曝可选高 / 低 2 种移动连接系统配置",
+      "source": "IT之家",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-21",
+      "time": "12:27",
+      "publishedAt": "2026-06-21T12:27:15.000Z",
+      "url": "https://www.ithome.com/0/966/719.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/6/20c25431-0180-45eb-aebf-76a675b90c61.jpg",
+      "summary": "IT之家 6 月 21 日消息，X 平台用户 @Reptalicant 北京时间昨日爆料称，根据 Qualcomm（高通）今年 1 月的文档，该企业代号 SM8975 的新一代旗舰智能手机应用处理器（可能会被称为骁龙 8 Elite Gen 6 Pro）在移动连接系统（“无线网卡”）方面 可选高配 WCN8851 和低配 WCN8841 。 ▲ 图源：@R…",
+      "tags": [
+        "行业",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-4de4c2ce05ab",
       "title": "丰巢联合微信支付推出“刷掌取件”，全程无需使用手机",
@@ -77,46 +137,6 @@ window.phoneRadarAuto = {
       "summary": "Foldable smartphones are entering a new phase, with several brands preparing wider-format devices to compete in the premium segment. While Samsung is expected to introduce the Gal…",
       "tags": [
         "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-7d05e868857e",
-      "title": "微软将移除 Edge 浏览器文件互传功能 Drop，重心转向 Copilot",
-      "source": "IT之家",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-21",
-      "time": "02:30",
-      "publishedAt": "2026-06-21T02:30:38.000Z",
-      "url": "https://www.ithome.com/0/966/613.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/6/1477794f-48e2-45fd-93a6-231861448b13.jpg?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 6 月 21 日消息，微软证实，在 Edge 149 版本取消侧边栏和集锦功能支持后，将移除浏览器内广受好评的文件互传功能 Drop。微软正在砍掉 Edge 绝大多数独家特色功能，把重心全面投向 Copilot，推动人工智能全面接管这款浏览器。 据IT之家了解，微软 Edge 浏览器的整体市场份额并不算高，但忠实用户对其好感度极高，核心原因就是它…",
-      "tags": [
-        "行业",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-e0f8dee04ba3",
-      "title": "消息称小米 18 系列手机背屏不变：搭定制 200Mp Lofic 主摄、大 R 角等效 2K 屏",
-      "source": "IT之家",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-21",
-      "time": "02:12",
-      "publishedAt": "2026-06-21T02:12:15.000Z",
-      "url": "https://www.ithome.com/0/966/611.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/6/58d641db-9971-40d9-b345-b928a0113a13.jpg?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 6 月 21 日消息，博主 @智慧皮卡丘 发文，透露小米 18 系列手机暂定 9 月登场。系列手机背屏不变，配备定制 200Mp Lofic 主摄。手机正面将搭载“大 R 角等效 2K 屏”，同时屏幕亮度有所提升。系统方面，该机预计将搭载小米澎湃 OS 4，引入类似苹果风格的光感 UI。 ▲ IT之家图赏： 小米 17 Pro 系列手机 IT之家…",
-      "tags": [
-        "Xiaomi",
         "爆料",
         "自动抓取"
       ]
@@ -257,6 +277,26 @@ window.phoneRadarAuto = {
       "summary": "中奖了，过保花屏真真的出现了，老哥们都怎么解决的 #华为Mate70Pro# #华为Mate70Pro优享版# #华为Mate80ProMax#",
       "tags": [
         "Huawei",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-648db517410f",
+      "title": "高压线下接电话手机会爆炸吗",
+      "source": "抖音热点",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "待验证",
+      "date": "2026-06-21",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.douyin.com/hot/2542841",
+      "image": "",
+      "summary": "高压线下接电话手机会爆炸吗",
+      "tags": [
+        "行业",
         "爆料",
         "NewsNow"
       ]

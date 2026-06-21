@@ -1,13 +1,13 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-06-21T12:21:15.827Z",
+  "updatedAt": "2026-06-21T16:10:28.241Z",
   "issueDate": "2026-06-21",
   "issue": "VOL.260621",
   "title": "手机情报日报",
-  "intro": "今日筛出 13 条重点，其中 4 条是重点爆料，包含 3 条 iPhone 相关、1 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 14 条重点，其中 5 条是重点爆料，包含 4 条 iPhone 相关、1 条官方确认、0 条参数线索。",
   "stats": {
-    "total": 13,
-    "iphone": 3,
-    "leaks": 4,
+    "total": 14,
+    "iphone": 4,
+    "leaks": 5,
     "official": 1,
     "specs": 0
   },
@@ -17,6 +17,30 @@ window.phoneRadarDaily = {
       "title": "重点爆料",
       "hint": "机模、配色、影像、屏幕、电池和芯片线索先看。",
       "items": [
+        {
+          "id": "auto-0f448b6c4e54",
+          "title": "供应链公司称已向苹果首款折叠屏 iPhone 小批量供货，新机预计 9 月发布",
+          "originalTitle": "",
+          "source": "IT之家",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-06-21",
+          "time": "13:06",
+          "publishedAt": "2026-06-21T13:06:05.000Z",
+          "url": "https://www.ithome.com/0/966/724.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/6/b05a6bd2-201d-488e-a0c4-1aa5ff636b5a.jpg?x-bce-process=image/format,f_auto",
+          "verdict": "先看",
+          "takeaway": "IT之家 6 月 21 日消息，据中国证券报消息，记者从一家苹果供应链公司获悉，该公司已于近期开始向首款折叠屏 iPhone 小批量供货。按照公司收到的目标指引， 该款产品将于 9 月发布 。 近日，有消息称苹果首款折叠屏 iPhone 已从原定的 2026 年秋季推迟至 2027 年初上市发售。对此，一位苹果供应链公司人士表示，截至目前，其得到的目标指引…",
+          "detail": "IT之家 6 月 21 日消息，据中国证券报消息，记者从一家苹果供应链公司获悉，该公司已于近期开始向首款折叠屏 iPhone 小批量供货。按照公司收到的目标指引， 该款产品将于 9 月发布 。 近日，有消息称苹果首款折叠屏 iPhone 已从原定的 2026 年秋季推迟至 2027 年初上市发售。对此，一位苹果供应链公司人士表示，截至目前，其得到的目标指引…",
+          "keyPoints": [
+            "屏幕形态",
+            "爆料来源"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
         {
           "id": "newsnow-86d61ec89f5e",
           "title": "这都2026年了，还有人给内存卡和可拆卸电池招魂呢。我记得同性能同容量内存卡的价格，和手机存储升级的差价差不多；真用可拆卸电池设计的话，既做不到现在的防水等级，也没法做到现在的轻量化水平啊。不过有一点说得没错，就苹果那金子内存，真不如插内存卡[噗]",
@@ -42,24 +66,23 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
-          "id": "auto-e0f8dee04ba3",
-          "title": "消息称小米 18 系列手机背屏不变：搭定制 200Mp Lofic 主摄、大 R 角等效 2K 屏",
+          "id": "auto-feb78671a5f2",
+          "title": "荣耀 X80 Pro Max 手机现身中国电信终端产品库：第五代骁龙 6 移动平台、至高 12GB+512GB",
           "originalTitle": "",
           "source": "IT之家",
-          "brand": "Xiaomi",
+          "brand": "HONOR",
           "type": "爆料",
           "trust": "媒体汇总",
           "date": "2026-06-21",
-          "time": "02:12",
-          "publishedAt": "2026-06-21T02:12:15.000Z",
-          "url": "https://www.ithome.com/0/966/611.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/6/58d641db-9971-40d9-b345-b928a0113a13.jpg?x-bce-process=image/format,f_auto",
+          "time": "12:38",
+          "publishedAt": "2026-06-21T12:38:41.000Z",
+          "url": "https://www.ithome.com/0/966/720.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/6/d1d9f4db-4621-43dd-b504-9012e3525f0a.jpg?x-bce-process=image/format,f_auto",
           "verdict": "先看",
-          "takeaway": "IT之家 6 月 21 日消息，博主 @智慧皮卡丘 发文，透露小米 18 系列手机暂定 9 月登场。系列手机背屏不变，配备定制 200Mp Lofic 主摄。手机正面将搭载“大 R 角等效 2K 屏”，同时屏幕亮度有所提升。系统方面，该机预计将搭载小米澎湃 OS 4，引入类似苹果风格的光感 UI。 ▲ IT之家图赏： 小米 17 Pro 系列手机 IT之家…",
-          "detail": "IT之家 6 月 21 日消息，博主 @智慧皮卡丘 发文，透露小米 18 系列手机暂定 9 月登场。系列手机背屏不变，配备定制 200Mp Lofic 主摄。手机正面将搭载“大 R 角等效 2K 屏”，同时屏幕亮度有所提升。系统方面，该机预计将搭载小米澎湃 OS 4，引入类似苹果风格的光感 UI。 ▲ IT之家图赏： 小米 17 Pro 系列手机 IT之家…",
+          "takeaway": "IT之家 6 月 21 日消息， 荣耀 X80 Pro Max 手机已定档 6 月 22 日 19:00 发布 ，新机将提供四款配色，分别为元气橙、闪电红、月影白、玄甲黑。 IT之家注意到，型号为 BSN-AN00 的荣耀 X80 Pro Max 手机已现身中国电信终端产品库，拥有 6GB+128GB、8GB+128GB、8GB+256GB、8GB+512…",
+          "detail": "IT之家 6 月 21 日消息， 荣耀 X80 Pro Max 手机已定档 6 月 22 日 19:00 发布 ，新机将提供四款配色，分别为元气橙、闪电红、月影白、玄甲黑。 IT之家注意到，型号为 BSN-AN00 的荣耀 X80 Pro Max 手机已现身中国电信终端产品库，拥有 6GB+128GB、8GB+128GB、8GB+256GB、8GB+512…",
           "keyPoints": [
-            "屏幕形态",
-            "爆料来源"
+            "外观 / 配色 / 尺寸"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
