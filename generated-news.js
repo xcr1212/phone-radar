@@ -1,5 +1,5 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-06-22T18:17:56.953Z",
+  "updatedAt": "2026-06-22T22:15:57.141Z",
   "news": [
     {
       "id": "auto-6f571fa564ca",
@@ -282,26 +282,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "coolapk-user-e1127c21cea9",
-      "title": "竹本青：荣耀 X80 Pro Max 正式发布：1999元起",
-      "source": "竹本青",
-      "brand": "HONOR",
-      "model": "HONOR 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-06-22",
-      "time": "11:35",
-      "publishedAt": "2026-06-22T11:35:06.000Z",
-      "url": "https://www.coolapk.com/feed/72475432",
-      "image": "http://image.coolapk.com/feed/2026/0622/19/4248714_e35ba072_8385_1696_814@1795x4620.jpg",
-      "summary": "【荣耀 X80 Pro Max 正式发布：11000mAh电池+骁龙6 Gen5，1999元起】 8GB+128GB —— 1999元 8GB+256GB —— 2199元 8GB+512GB —— 2499元 12GB+512GB —— 2799元 核心： ● 6.8\" 1.5K 120Hz OLED直屏 ● 骁龙6 Gen5处理器 ● 11000mAh…",
-      "tags": [
-        "HONOR",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
       "id": "auto-f467426104f1",
       "title": "亿咖通科技拟 18 亿元收购 Flyme 软件业务，年内魅族现有手机将迎大规模系统升级",
       "source": "IT之家",
@@ -317,26 +297,6 @@ window.phoneRadarAuto = {
       "summary": "IT之家 6 月 22 日消息，亿咖通科技控股今日在纳斯达克宣布，已签署最终收购协议， 将收购 Flyme 软件业务 ，包括 Flyme Auto 智能座舱操作系统和跨终端 Flyme 操作系统两大核心产品。 亿咖通科技称，将通过收购由星纪魅族集团专项拆分设立的湖北骐光科技有限公司，获得相关软件业务及核心资产。 本次交易总金额为 18 亿元人民币 （约合…",
       "tags": [
         "行业",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-f887739e2352",
-      "title": "iPhone 17 Prices Could Go Up as Soon as This Month",
-      "source": "MacRumors",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-22",
-      "time": "10:39",
-      "publishedAt": "2026-06-22T10:39:50.000Z",
-      "url": "https://www.macrumors.com/2026/06/22/iphone-17-prices-could-go-up-this-month/",
-      "image": "https://images.macrumors.com/article-new/2025/09/iphone-17-pro-air.jpg",
-      "summary": "There is growing speculation that Apple may hike the prices of its iPhone 17 lineup as soon as this month, following CEO Tim Cook's recent comments about \"unavoidable\" price incre…",
-      "tags": [
-        "iPhone",
         "爆料",
         "自动抓取"
       ]
@@ -622,46 +582,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-ed14ab5d5fdc",
-      "title": "既然厂商这么爱涨价，不如复兴LCD屏节约一下屏幕成本，还能复兴LCD，LCD党那么多，肯定买的多。并且现在OLED也都是直屏了，OLED做曲屏的优势也没有了。",
-      "source": "酷安热榜",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-06-22",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72460977",
-      "image": "",
-      "summary": "既然厂商这么爱涨价，不如复兴LCD屏节约一下屏幕成本，还能复兴LCD，LCD党那么多，肯定买的多。并且现在OLED也都是直屏了，OLED做曲屏的优势也没有了。",
-      "tags": [
-        "行业",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-76f2ab58c947",
-      "title": "这都2026年了，还有人给内存卡和可拆卸电池招魂呢。我记得同性能同容量内存卡的价格，和手机存储升级的差价差不多；真用可拆卸电池设计的话，既做不到现在的防水等级，也没法做到现在的轻量化水平啊。不过有一点说得没错，就苹果那金子内存，真不如插内存卡[噗]",
-      "source": "酷安热榜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-06-22",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72449836",
-      "image": "",
-      "summary": "这都2026年了，还有人给内存卡和可拆卸电池招魂呢。我记得同性能同容量内存卡的价格，和手机存储升级的差价差不多；真用可拆卸电池设计的话，既做不到现在的防水等级，也没法做到现在的轻量化水平啊。不过有一点说得没错，就苹果那金子内存，真不如插内存卡[噗]",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
       "id": "newsnow-d31a8e3fb770",
       "title": "2026年第24周国内手机市场份额曝光：苹果第一",
       "source": "酷安热榜",
@@ -682,41 +602,21 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-a25055efb342",
-      "title": "且行且珍惜吧！红米K90ProMax这种全能手机不会复刻了。",
+      "id": "newsnow-7e8432c658b1",
+      "title": "我一直在想，爱回收和转转这些回收的好处在哪？广告满天飞，实际回收价格低到爆#ColorOS16# #OPPOFindX8#",
       "source": "酷安热榜",
-      "brand": "行业",
-      "model": "智能手机市场",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-06-22",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72436222",
+      "url": "https://www.coolapk.com/feed/72467325",
       "image": "",
-      "summary": "且行且珍惜吧！红米K90ProMax这种全能手机不会复刻了。",
+      "summary": "我一直在想，爱回收和转转这些回收的好处在哪？广告满天飞，实际回收价格低到爆#ColorOS16# #OPPOFindX8#",
       "tags": [
-        "行业",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-b385621a5283",
-      "title": "苹果或跳过iPhone19",
-      "source": "微博热搜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "待验证",
-      "date": "2026-06-22",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E6%88%96%E8%B7%B3%E8%BF%87iPhone19%23&t=31&band_rank=27&Refer=top",
-      "image": "",
-      "summary": "苹果或跳过iPhone19",
-      "tags": [
-        "iPhone",
+        "OPPO",
         "爆料",
         "NewsNow"
       ]

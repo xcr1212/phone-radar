@@ -1,12 +1,12 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-06-22T18:17:56.953Z",
+  "updatedAt": "2026-06-22T22:15:57.141Z",
   "issueDate": "2026-06-22",
   "issue": "VOL.260622",
   "title": "手机情报日报",
-  "intro": "今日筛出 15 条重点，其中 8 条是重点爆料，包含 10 条 iPhone 相关、1 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 19 条重点，其中 8 条是重点爆料，包含 8 条 iPhone 相关、1 条官方确认、0 条参数线索。",
   "stats": {
-    "total": 15,
-    "iphone": 10,
+    "total": 19,
+    "iphone": 8,
     "leaks": 8,
     "official": 1,
     "specs": 0
@@ -17,30 +17,6 @@ window.phoneRadarDaily = {
       "title": "重点爆料",
       "hint": "机模、配色、影像、屏幕、电池和芯片线索先看。",
       "items": [
-        {
-          "id": "newsnow-76f2ab58c947",
-          "title": "这都2026年了，还有人给内存卡和可拆卸电池招魂呢。我记得同性能同容量内存卡的价格，和手机存储升级的差价差不多；真用可拆卸电池设计的话，既做不到现在的防水等级，也没法做到现在的轻量化水平啊。不过有一点说得没错，就苹果那金子内存，真不如插内存卡[噗]",
-          "originalTitle": "",
-          "source": "酷安热榜",
-          "brand": "iPhone",
-          "type": "爆料",
-          "trust": "高关注爆料源",
-          "date": "2026-06-22",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://www.coolapk.com/feed/72449836",
-          "image": "",
-          "verdict": "先看",
-          "takeaway": "这都2026年了，还有人给内存卡和可拆卸电池招魂呢。我记得同性能同容量内存卡的价格，和手机存储升级的差价差不多；真用可拆卸电池设计的话，既做不到现在的防水等级，也没法做到现在的轻量化水平啊。不过有一点说得没错，就苹果那金子内存，真不如插内存卡[噗]",
-          "detail": "这都2026年了，还有人给内存卡和可拆卸电池招魂呢。我记得同性能同容量内存卡的价格，和手机存储升级的差价差不多；真用可拆卸电池设计的话，既做不到现在的防水等级，也没法做到现在的轻量化水平啊。不过有一点说得没错，就苹果那金子内存，真不如插内存卡[噗]",
-          "keyPoints": [
-            "电池 / 充电",
-            "成本 / 价格"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
         {
           "id": "auto-a83092a5f4b9",
           "title": "iPhone 18 Pro 影像能力相关消息",
@@ -137,29 +113,6 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
-          "id": "auto-f887739e2352",
-          "title": "iPhone 17 价格 / 成本相关消息",
-          "originalTitle": "",
-          "source": "MacRumors",
-          "brand": "iPhone",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-06-22",
-          "time": "10:39",
-          "publishedAt": "2026-06-22T10:39:50.000Z",
-          "url": "https://www.macrumors.com/2026/06/22/iphone-17-prices-could-go-up-this-month/",
-          "image": "https://images.macrumors.com/article-new/2025/09/iphone-17-pro-air.jpg",
-          "verdict": "先看",
-          "takeaway": "iPhone 17 价格 / 成本相关消息。如果涉及订阅、售价或硬件成本，才需要进一步看细节。",
-          "detail": "iPhone 17 价格 / 成本相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
-          "keyPoints": [
-            "成本 / 价格"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
           "id": "auto-0f709707d8df",
           "title": "消息称三星显示已获苹果量产认证，将为折叠屏 iPhone 独供 OLED 面板",
           "originalTitle": "",
@@ -205,6 +158,55 @@ window.phoneRadarDaily = {
             "爆料来源"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "auto-f467426104f1",
+          "title": "亿咖通科技拟 18 亿元收购 Flyme 软件业务，年内魅族现有手机将迎大规模系统升级",
+          "originalTitle": "",
+          "source": "IT之家",
+          "brand": "行业",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-06-22",
+          "time": "11:26",
+          "publishedAt": "2026-06-22T11:26:25.000Z",
+          "url": "https://www.ithome.com/0/967/183.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/6/e15ed7b2-5c10-4278-ba98-b53e8b7ef974.jpg",
+          "verdict": "先看",
+          "takeaway": "IT之家 6 月 22 日消息，亿咖通科技控股今日在纳斯达克宣布，已签署最终收购协议， 将收购 Flyme 软件业务 ，包括 Flyme Auto 智能座舱操作系统和跨终端 Flyme 操作系统两大核心产品。 亿咖通科技称，将通过收购由星纪魅族集团专项拆分设立的湖北骐光科技有限公司，获得相关软件业务及核心资产。 本次交易总金额为 18 亿元人民币 （约合…",
+          "detail": "IT之家 6 月 22 日消息，亿咖通科技控股今日在纳斯达克宣布，已签署最终收购协议， 将收购 Flyme 软件业务 ，包括 Flyme Auto 智能座舱操作系统和跨终端 Flyme 操作系统两大核心产品。 亿咖通科技称，将通过收购由星纪魅族集团专项拆分设立的湖北骐光科技有限公司，获得相关软件业务及核心资产。 本次交易总金额为 18 亿元人民币 （约合…",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "coolapk-user-9f41238afe3f",
+          "title": "竹本青：曝一加 16T评估骁龙8 Elite Gen6芯片",
+          "originalTitle": "",
+          "source": "竹本青",
+          "brand": "OPPO",
+          "type": "爆料",
+          "trust": "高可信爆料",
+          "date": "2026-06-22",
+          "time": "08:32",
+          "publishedAt": "2026-06-22T08:32:48.000Z",
+          "url": "https://www.coolapk.com/feed/72472829",
+          "image": "http://image.coolapk.com/feed/2026/0622/16/4248714_bb7e9be6_7167_447_540@1437x444.jpg",
+          "verdict": "先看",
+          "takeaway": "【曝一加 16T评估骁龙8 Elite Gen6芯片】 数码闲聊站最新爆料称，一加 16T正常开案中，芯片评估骁龙8 Elite Gen6，将搭载6.3英寸级超高刷直屏，其它规格尚未确定。 #今日热点# #一加15T# #ColorOS16#",
+          "detail": "【曝一加 16T评估骁龙8 Elite Gen6芯片】 数码闲聊站最新爆料称，一加 16T正常开案中，芯片评估骁龙8 Elite Gen6，将搭载6.3英寸级超高刷直屏，其它规格尚未确定。 #今日热点# #一加15T# #ColorOS16#",
+          "keyPoints": [
+            "外观 / 配色 / 尺寸",
+            "屏幕形态",
+            "芯片 / 性能",
+            "爆料来源"
+          ],
+          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         }
@@ -369,27 +371,122 @@ window.phoneRadarDaily = {
       "hint": "看方向，不急着当购买依据。",
       "items": [
         {
-          "id": "newsnow-a25055efb342",
-          "title": "且行且珍惜吧！红米K90ProMax这种全能手机不会复刻了。",
+          "id": "newsnow-7e8432c658b1",
+          "title": "我一直在想，爱回收和转转这些回收的好处在哪？广告满天飞，实际回收价格低到爆#ColorOS16# #OPPOFindX8#",
           "originalTitle": "",
           "source": "酷安热榜",
-          "brand": "行业",
+          "brand": "OPPO",
           "type": "爆料",
           "trust": "高关注爆料源",
           "date": "2026-06-22",
           "time": "",
           "publishedAt": "",
-          "url": "https://www.coolapk.com/feed/72436222",
+          "url": "https://www.coolapk.com/feed/72467325",
           "image": "",
-          "verdict": "扫一眼",
-          "takeaway": "且行且珍惜吧！红米K90ProMax这种全能手机不会复刻了。",
-          "detail": "且行且珍惜吧！红米K90ProMax这种全能手机不会复刻了。",
+          "verdict": "先看",
+          "takeaway": "我一直在想，爱回收和转转这些回收的好处在哪？广告满天飞，实际回收价格低到爆#ColorOS16# #OPPOFindX8#",
+          "detail": "我一直在想，爱回收和转转这些回收的好处在哪？广告满天飞，实际回收价格低到爆#ColorOS16# #OPPOFindX8#",
+          "keyPoints": [
+            "外观 / 配色 / 尺寸",
+            "成本 / 价格"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "影响购买预算，值得先看。",
+          "action": "有具体参数就记录到参数库；没有参数就先收藏。"
+        },
+        {
+          "id": "auto-613699d1a080",
+          "title": "Samsung 相关消息",
+          "originalTitle": "",
+          "source": "Android Police",
+          "brand": "Samsung",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-06-22",
+          "time": "17:54",
+          "publishedAt": "2026-06-22T17:54:41.000Z",
+          "url": "https://www.androidpolice.com/samsungs-galaxy-s27-pro-could-finally-fix-wrong-with-plus/",
+          "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2026/02/galaxy-s26-plus-screen.JPG",
+          "verdict": "可略过",
+          "takeaway": "Samsung 相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
+          "detail": "Samsung 相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
           "keyPoints": [
             "爆料"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        },
+        {
+          "id": "auto-e789cc1638c3",
+          "title": "OPPO 芯片 / 性能相关消息",
+          "originalTitle": "",
+          "source": "Gizmochina",
+          "brand": "OPPO",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-06-22",
+          "time": "17:11",
+          "publishedAt": "2026-06-22T17:11:50.000Z",
+          "url": "https://www.gizmochina.com/2026/06/22/oneplus-nord-6-vs-iqoo-neo-10/",
+          "image": "https://www.gizmochina.com/wp-content/uploads/2026/06/image-120-300x183.png?x44794",
+          "verdict": "可略过",
+          "takeaway": "OPPO 芯片 / 性能相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
+          "detail": "OPPO 芯片 / 性能相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
+          "keyPoints": [
+            "电池 / 充电",
+            "芯片 / 性能"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "影响性能和寿命判断，适合放进参数库。",
+          "action": "有具体参数就记录到参数库；没有参数就先收藏。"
+        },
+        {
+          "id": "auto-1d8b8c396242",
+          "title": "OPPO 影像能力相关消息",
+          "originalTitle": "",
+          "source": "Gizmochina",
+          "brand": "OPPO",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-06-22",
+          "time": "10:30",
+          "publishedAt": "2026-06-22T10:30:28.000Z",
+          "url": "https://www.gizmochina.com/2026/06/22/oneplus-nord-6-vs-nothing-phone-4a-pro/",
+          "image": "https://www.gizmochina.com/wp-content/uploads/2026/06/image-116-300x180.png?x44794",
+          "verdict": "可略过",
+          "takeaway": "OPPO 影像能力相关宣传或案例，主要看是否透露拍摄能力变化。",
+          "detail": "OPPO 影像能力相关消息。重点看影像功能是否和新机硬件有关，如果只是拍摄案例或营销内容，参考价值会低一些。",
+          "keyPoints": [
+            "影像硬件",
+            "电池 / 充电"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "影响日常体验，尤其是游戏、拍照和长时间使用。",
+          "action": "有具体参数就记录到参数库；没有参数就先收藏。"
+        },
+        {
+          "id": "auto-13b6798e7b4d",
+          "title": "Galaxy S26 FE 芯片 / 性能相关消息",
+          "originalTitle": "",
+          "source": "SamMobile",
+          "brand": "Samsung",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-06-22",
+          "time": "05:56",
+          "publishedAt": "2026-06-22T05:56:57.000Z",
+          "url": "https://www.sammobile.com/news/galaxy-s26-fe-reveal-true-potential-exynos-2500/",
+          "image": "https://www.sammobile.com/wp-content/uploads/2026/06/Samsung-Galaxy-S26-FE-vs-Galaxy-Z-Flip-7-CPU-Performance-Geekbench-Comparison.jpg",
+          "verdict": "可略过",
+          "takeaway": "Galaxy S26 FE 芯片 / 性能相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
+          "detail": "Galaxy S26 FE 芯片 / 性能相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
+          "keyPoints": [
+            "芯片 / 性能"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "影响性能和寿命判断，适合放进参数库。",
+          "action": "有具体参数就记录到参数库；没有参数就先收藏。"
         }
       ]
     }
