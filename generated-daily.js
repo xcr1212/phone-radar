@@ -1,12 +1,12 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-06-22T22:15:57.141Z",
+  "updatedAt": "2026-06-22T23:44:41.166Z",
   "issueDate": "2026-06-22",
   "issue": "VOL.260622",
   "title": "手机情报日报",
-  "intro": "今日筛出 19 条重点，其中 8 条是重点爆料，包含 8 条 iPhone 相关、1 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 19 条重点，其中 8 条是重点爆料，包含 7 条 iPhone 相关、1 条官方确认、0 条参数线索。",
   "stats": {
     "total": 19,
-    "iphone": 8,
+    "iphone": 7,
     "leaks": 8,
     "official": 1,
     "specs": 0
@@ -36,31 +36,6 @@ window.phoneRadarDaily = {
           "keyPoints": [
             "影像硬件",
             "爆料来源"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "auto-25f962b029d3",
-          "title": "吉尼斯世界纪录认证：荣耀 X80 Pro Max 手机创 26 小时 08 分 34 秒续航新纪录",
-          "originalTitle": "",
-          "source": "IT之家",
-          "brand": "HONOR",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-06-22",
-          "time": "10:31",
-          "publishedAt": "2026-06-22T10:31:36.000Z",
-          "url": "https://www.ithome.com/0/967/171.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/6/54dc6007-a688-4dd6-8e6e-6a3522853273.png?x-bce-process=image/format,f_auto",
-          "verdict": "先看",
-          "takeaway": "IT之家 6 月 22 日消息，吉尼斯世界纪录官方微博今日宣布，荣耀 X80 Pro Max 获得“最长时间的手机产品（续航）测试直播”吉尼斯世界纪录称号， 成绩定格在 26 小时 08 分 34 秒 。 荣耀 X80 Pro Max 手机将于今晚 19:00 发布，新机将提供四款配色，分别为元气橙、闪电红、月影白、玄甲黑。该机核心规格已曝光： 6.8 英…",
-          "detail": "IT之家 6 月 22 日消息，吉尼斯世界纪录官方微博今日宣布，荣耀 X80 Pro Max 获得“最长时间的手机产品（续航）测试直播”吉尼斯世界纪录称号， 成绩定格在 26 小时 08 分 34 秒 。 荣耀 X80 Pro Max 手机将于今晚 19:00 发布，新机将提供四款配色，分别为元气橙、闪电红、月影白、玄甲黑。该机核心规格已曝光： 6.8 英…",
-          "keyPoints": [
-            "外观 / 配色 / 尺寸",
-            "电池 / 充电",
-            "芯片 / 性能"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
@@ -209,6 +184,29 @@ window.phoneRadarDaily = {
           "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "newsnow-431cfd3711bf",
+          "title": "想问下各位大佬，手机长焦真的是伪需求吗？想征集下大家日常真实使用情况，平时拍照开长焦多不多？",
+          "originalTitle": "",
+          "source": "酷安热榜",
+          "brand": "行业",
+          "type": "爆料",
+          "trust": "高关注爆料源",
+          "date": "2026-06-22",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://www.coolapk.com/feed/72468609",
+          "image": "",
+          "verdict": "先看",
+          "takeaway": "想问下各位大佬，手机长焦真的是伪需求吗？想征集下大家日常真实使用情况，平时拍照开长焦多不多？",
+          "detail": "想问下各位大佬，手机长焦真的是伪需求吗？想征集下大家日常真实使用情况，平时拍照开长焦多不多？",
+          "keyPoints": [
+            "影像硬件"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         }
       ]
     },
@@ -217,29 +215,6 @@ window.phoneRadarDaily = {
       "title": "iPhone 重点",
       "hint": "不是硬件爆料，但和 iPhone 体验或路线有关。",
       "items": [
-        {
-          "id": "auto-ebc2eeb9de48",
-          "title": "48 位中国 iOS 应用开发者联名举报苹果，要求兑现“全球最低费率”承诺、开放外链支付",
-          "originalTitle": "",
-          "source": "IT之家",
-          "brand": "iPhone",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-06-22",
-          "time": "10:17",
-          "publishedAt": "2026-06-22T10:17:43.000Z",
-          "url": "https://www.ithome.com/0/967/167.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/6/4afdf7b3-6f8f-4752-9d2c-4039dc696bae.jpg?x-bce-process=image/format,f_auto",
-          "verdict": "先看",
-          "takeaway": "IT之家 6 月 22 日消息，一篇《 关于苹果公司滥用中国市场垄断地位的开发者联名举报信 》今日在微信平台爆火，元胞网络等 48 位中国 iOS 中小开发者向国家市场监督管理总局提交了《 关于苹果公司滥用中国市场垄断地位的开发者举报信 》。 在该举报信中，48 位开发者请求监管机关： 一是依法立案查处苹果限定交易、差别待遇、搭售、不公平高价等涉嫌违法行为…",
-          "detail": "IT之家 6 月 22 日消息，一篇《 关于苹果公司滥用中国市场垄断地位的开发者联名举报信 》今日在微信平台爆火，元胞网络等 48 位中国 iOS 中小开发者向国家市场监督管理总局提交了《 关于苹果公司滥用中国市场垄断地位的开发者举报信 》。 在该举报信中，48 位开发者请求监管机关： 一是依法立案查处苹果限定交易、差别待遇、搭售、不公平高价等涉嫌违法行为…",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "中文源可以直接点开快读；看完只保留和购机有关的点。"
-        },
         {
           "id": "auto-47a8407ee995",
           "title": "苹果计划涨价：欲购 iPhone，必承其贵",
@@ -332,6 +307,36 @@ window.phoneRadarDaily = {
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
           "action": "有具体参数就记录到参数库；没有参数就先收藏。"
+        }
+      ]
+    },
+    {
+      "id": "launch",
+      "title": "新机与官方发布",
+      "hint": "能直接更新到参数库。",
+      "items": [
+        {
+          "id": "auto-6e38d95bc745",
+          "title": "OPPO 相关消息",
+          "originalTitle": "",
+          "source": "Gizmochina",
+          "brand": "OPPO",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-06-22",
+          "time": "04:06",
+          "publishedAt": "2026-06-22T04:06:51.000Z",
+          "url": "https://www.gizmochina.com/2026/06/22/oneplus-15s-india-launch-cancelled-leak/",
+          "image": "https://www.gizmochina.com/wp-content/uploads/2026/04/OnePlus-15T-Review_1.mp4_20260402_142241.000-300x150.jpg?x44794",
+          "verdict": "可略过",
+          "takeaway": "OPPO 相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
+          "detail": "OPPO 相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         }
       ]
     },

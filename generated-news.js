@@ -1,5 +1,5 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-06-22T22:15:57.141Z",
+  "updatedAt": "2026-06-22T23:44:41.166Z",
   "news": [
     {
       "id": "auto-6f571fa564ca",
@@ -302,26 +302,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-25f962b029d3",
-      "title": "吉尼斯世界纪录认证：荣耀 X80 Pro Max 手机创 26 小时 08 分 34 秒续航新纪录",
-      "source": "IT之家",
-      "brand": "HONOR",
-      "model": "HONOR 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-22",
-      "time": "10:31",
-      "publishedAt": "2026-06-22T10:31:36.000Z",
-      "url": "https://www.ithome.com/0/967/171.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/6/54dc6007-a688-4dd6-8e6e-6a3522853273.png?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 6 月 22 日消息，吉尼斯世界纪录官方微博今日宣布，荣耀 X80 Pro Max 获得“最长时间的手机产品（续航）测试直播”吉尼斯世界纪录称号， 成绩定格在 26 小时 08 分 34 秒 。 荣耀 X80 Pro Max 手机将于今晚 19:00 发布，新机将提供四款配色，分别为元气橙、闪电红、月影白、玄甲黑。该机核心规格已曝光： 6.8 英…",
-      "tags": [
-        "HONOR",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-1d8b8c396242",
       "title": "OnePlus Nord 6 vs Nothing Phone (4a) Pro: Performance, Camera, and Battery Compared",
       "source": "Gizmochina",
@@ -337,26 +317,6 @@ window.phoneRadarAuto = {
       "summary": "OnePlus Nord 6 and Nothing Phone (4a) Pro take two very different approaches to the premium mid-range smartphone market. One focuses on raw performance, massive battery life, and…",
       "tags": [
         "OPPO",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-ebc2eeb9de48",
-      "title": "48 位中国 iOS 应用开发者联名举报苹果，要求兑现“全球最低费率”承诺、开放外链支付",
-      "source": "IT之家",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-22",
-      "time": "10:17",
-      "publishedAt": "2026-06-22T10:17:43.000Z",
-      "url": "https://www.ithome.com/0/967/167.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/6/4afdf7b3-6f8f-4752-9d2c-4039dc696bae.jpg?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 6 月 22 日消息，一篇《 关于苹果公司滥用中国市场垄断地位的开发者联名举报信 》今日在微信平台爆火，元胞网络等 48 位中国 iOS 中小开发者向国家市场监督管理总局提交了《 关于苹果公司滥用中国市场垄断地位的开发者举报信 》。 在该举报信中，48 位开发者请求监管机关： 一是依法立案查处苹果限定交易、差别待遇、搭售、不公平高价等涉嫌违法行为…",
-      "tags": [
-        "iPhone",
         "爆料",
         "自动抓取"
       ]
@@ -617,6 +577,26 @@ window.phoneRadarAuto = {
       "summary": "我一直在想，爱回收和转转这些回收的好处在哪？广告满天飞，实际回收价格低到爆#ColorOS16# #OPPOFindX8#",
       "tags": [
         "OPPO",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-431cfd3711bf",
+      "title": "想问下各位大佬，手机长焦真的是伪需求吗？想征集下大家日常真实使用情况，平时拍照开长焦多不多？",
+      "source": "酷安热榜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-06-22",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/72468609",
+      "image": "",
+      "summary": "想问下各位大佬，手机长焦真的是伪需求吗？想征集下大家日常真实使用情况，平时拍照开长焦多不多？",
+      "tags": [
+        "行业",
         "爆料",
         "NewsNow"
       ]
