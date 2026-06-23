@@ -1,6 +1,246 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-06-23T12:46:58.415Z",
+  "updatedAt": "2026-06-23T16:40:43.449Z",
   "news": [
+    {
+      "id": "auto-eb31340203ac",
+      "title": "Switching from iPhone just got easier as the Nothing Phone 4a Pro just hit its lowest price ever with this anti-Prime Day deal",
+      "source": "Android Central",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-06-23",
+      "time": "15:43",
+      "publishedAt": "2026-06-23T15:43:45.000Z",
+      "url": "https://www.androidcentral.com/phones/nothing-phones/nothing-phone-4a-pro-prime-day-2026-deal",
+      "image": "https://cdn.mos.cms.futurecdn.net/qeWbGE9fH2MRQL4aP9snAY-1280-80.jpg",
+      "summary": "The Nothing Phone 4a Pro is one of TikTok's favorite iPhone alternatives, and now Prime Day is giving you $90 off the usual asking price.",
+      "tags": [
+        "iPhone",
+        "评测",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-77c228923b7a",
+      "title": "传音 Tecno 推出 Camon Slim 新机：6.39mm 厚，配独特“背屏”",
+      "source": "IT之家",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-23",
+      "time": "15:40",
+      "publishedAt": "2026-06-23T15:40:47.000Z",
+      "url": "https://www.ithome.com/0/967/700.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/6/92dd04f3-f260-4221-80c5-e5299d6aec87.png",
+      "summary": "IT之家 6 月 23 日消息，传音旗下手机品牌 Tecno 日前在全球市场发布入门级新机 Camon Slim。新机主打超薄设计，机身厚度 仅为 6.39 毫米 ，并与 Spark Slim 共同组成 TECNO 的超薄手机阵容。 据IT之家了解，Camon Slim 在纤薄机身内塞入了一块 5600mAh 电池，并支持 60W 有线充电。新机正面配备…",
+      "tags": [
+        "行业",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-4b20176d3d75",
+      "title": "Galaxy Z Fold 8 and Flip 8 leak teases some fun color options",
+      "source": "Android Authority",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-23",
+      "time": "15:15",
+      "publishedAt": "2026-06-23T15:15:10.000Z",
+      "url": "https://www.androidauthority.com/galaxy-z-fold-8-flip-8-colors-3680456/",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2025/07/Samsung-Galaxy-Z-Fold-7-in-Blue-Shadow-and-Silver-Shadow-next-to-Galaxy-Z-Flip-7.jpg",
+      "summary": "Galaxy Z Flip 8, Fold 8, and Fold 8 Ultra could come in these colors.",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-a6ef4b3551af",
+      "title": "荣耀 MagicOS 11 液态玻璃尝鲜版先锋活动计划在 7 月 31 日前启动二期报名",
+      "source": "IT之家",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-23",
+      "time": "15:11",
+      "publishedAt": "2026-06-23T15:11:38.000Z",
+      "url": "https://www.ithome.com/0/967/696.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/6/aeacf532-e14c-4308-9394-0e3be0e35b68.jpg?x-bce-process=image/auto-orient,o_1",
+      "summary": "IT之家 6 月 23 日消息，荣耀 MagicOS 11 本月早些时候（6 月 16 日）官宣“超前点映”，安卓首个“液态玻璃”正式登场。本次 MagicOS 11 液态玻璃尝鲜版的招募机型包括： 荣耀 Magic8 荣耀 Magic8 Pro 荣耀 Magic8 Pro Air 荣耀 Magic8 RSR | 保时捷设计 IT之家注意到，目前 Magi…",
+      "tags": [
+        "HONOR",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-0bbef5820e55",
+      "title": "Galaxy Z Fold 8 Ultra gets a couple of unique colors as more details leak",
+      "source": "9to5Google",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-23",
+      "time": "14:56",
+      "publishedAt": "2026-06-23T14:56:19.000Z",
+      "url": "https://9to5google.com/2026/06/23/galaxy-z-fold-8-colors-leak/",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2025/07/galaxy-z-fold-7-11.jpg?quality=82&strip=all&w=1600",
+      "summary": "It will be interesting to see what Samsung plans to offer to differentiate the Galaxy Z Fold 8 and Galaxy Z Fold 8 Ultra. The latest concrete difference comes in half of the color…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-396500d762c0",
+      "title": "Hands-on: This case adds a customizable e-ink display to your iPhone [Video]",
+      "source": "9to5Mac",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-23",
+      "time": "14:38",
+      "publishedAt": "2026-06-23T14:38:16.000Z",
+      "url": "https://9to5mac.com/2026/06/23/hands-on-this-case-adds-a-customizable-e-ink-display-to-your-iphone-video/",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/Extrem-e-ink.jpg?quality=82&strip=all&w=1600",
+      "summary": "There are thousands, maybe even millions, of iPhone cases on the market. They come in all shapes, sizes, materials, and some are even multifunctional. But these days, it’s rare to…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-f0fd93ab7cf7",
+      "title": "二手平台 SellCell 预测：苹果首款折叠屏 iPhone 上市一年后或将贬值近 1300 美元",
+      "source": "IT之家",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-23",
+      "time": "14:17",
+      "publishedAt": "2026-06-23T14:17:30.000Z",
+      "url": "https://www.ithome.com/0/967/683.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/6/bb4c5013-dca5-4ab5-bbca-0dc6608d6b18.jpg?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 6 月 23 日消息，据科技媒体 macrumors 今天报道，二手设备交易平台 SellCell 最近发布研究报告，预测苹果首款折叠屏 iPhone 手机一年后的残值价格。 据报道，SellCell 收集了苹果、三星、谷歌、摩托罗拉和一加等品牌旗舰手机在 12 个月内的二手价格。结果显示，折叠屏手机通常在上市一年后贬值 64.6%，传统智能手机…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-d775d3880f31",
+      "title": "Prime pick: Samsung Galaxy S26 falls from $900 to record-low of just $699.99",
+      "source": "Android Authority",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-23",
+      "time": "14:01",
+      "publishedAt": "2026-06-23T14:01:04.000Z",
+      "url": "https://www.androidauthority.com/samsung-galaxy-s26-prime-day-deal-3680029/",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2026/03/samsung-galaxy-s26-display-app-drawer.jpg",
+      "summary": "The base model Galaxy S26 gets a standout Prime Day drop, beating its previous all-time low price by $100.",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-e820b7122ece",
+      "title": "The Samsung Galaxy S26 Ultra probably won't get a good Prime Day buy — I'm holding out hope these 3 Androids steal its thunder",
+      "source": "Android Police",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-23",
+      "time": "13:30",
+      "publishedAt": "2026-06-23T13:30:12.000Z",
+      "url": "https://www.androidpolice.com/samsung-galaxy-s26-ultra-wont-get-good-prime-day-buy-so-im-holding-out-hope-for-these-androids-to-steal-its-thunder/",
+      "image": "",
+      "summary": "Save money on an older phone",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-d0186ba62ab5",
+      "title": "Apple's Foldable iPhone Could Lose Almost $1,300 in Value in First Year, Study Suggests",
+      "source": "MacRumors",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-23",
+      "time": "13:08",
+      "publishedAt": "2026-06-23T13:08:20.000Z",
+      "url": "https://www.macrumors.com/2026/06/23/foldable-iphone-could-lose-1300-in-first-year/",
+      "image": "https://images.macrumors.com/article-new/2025/03/Foldable-iPhone-2023-Feature-1.jpg",
+      "summary": "A new resale value study suggests that a $2,000 foldable iPhone could lose as much as $1,292 of its value within its first 12 months on the market, based on current foldable depre…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-19f9061e23a9",
+      "title": "Should the iPhone Air 2 have an ultrawide or telephoto as the second camera? [Poll]",
+      "source": "9to5Mac",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-23",
+      "time": "13:08",
+      "publishedAt": "2026-06-23T13:08:03.000Z",
+      "url": "https://9to5mac.com/2026/06/23/should-the-iphone-air-2-have-an-ultrawide-or-telephoto-as-the-second-camera-poll/",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/11/iphone-air-2-camera-concept-blue.jpg?quality=82&strip=all&w=1600",
+      "summary": "A report from late last year said that the iPhone Air 2 would be getting a second camera , but it wasn’t clear at the time whether this would be an ultra-wide or telephoto. Bloomb…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-270e9a822bc0",
+      "title": "All the best Prime Day deals: Pixel 10, Galaxy gear, tech accessories, more",
+      "source": "9to5Google",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-23",
+      "time": "12:51",
+      "publishedAt": "2026-06-23T12:51:43.000Z",
+      "url": "https://9to5google.com/2026/06/23/best-prime-day-deals-pixel-galaxy/",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/06/Amazon-Prime-Day_green-2026.png?w=1600",
+      "summary": "The 2026 Amazon Prime Day sale is now flying with a countless number of price drops across just about every product category. We are tracking new all-time lows and up to $400 off…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-7fb0a87b5aad",
       "title": "Buying an iPhone Ultra could be an expensive experiment, warns resale site",
@@ -222,26 +462,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-92baea60da75",
-      "title": "realme 真我 P4x 4G 手机海外发布：8000mAh 电池、6.8 寸 720P 120Hz LCD 屏幕",
-      "source": "IT之家",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-23",
-      "time": "10:07",
-      "publishedAt": "2026-06-23T10:07:46.000Z",
-      "url": "https://www.ithome.com/0/967/615.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/6/38873c46-0d38-4aea-87a6-dd013efd694e.jpg?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 6 月 23 日消息，realme 真我现已在海外市场推出 P4x 4G 手机，相比去年 12 月发布的 5G 版机型在后盖、电池容量等方面有所调整。 据介绍，这款手机配备一块 6.8 英寸 720P LCD 屏幕，支持 120Hz 高刷，采用水滴屏设计。 搭载紫光展锐 T7250 八核心（2*A75+6*A55）处理器 。 规格方面， 这款手机…",
-      "tags": [
-        "行业",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-d10e4924bf4c",
       "title": "As much as the Galaxy S26 Ultra annoys me, one camera feature keeps me coming back",
       "source": "Android Authority",
@@ -257,26 +477,6 @@ window.phoneRadarAuto = {
       "summary": "Don't underestimate the power of great camera zoom.",
       "tags": [
         "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-1006bb465ea4",
-      "title": "曝某厂子系中端走量机暂定 7 月：主打 9K 级电池、骁龙 6 系芯片，预计为小米 REDMI Note 17 系列",
-      "source": "IT之家",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-23",
-      "time": "09:14",
-      "publishedAt": "2026-06-23T09:14:10.000Z",
-      "url": "https://www.ithome.com/0/967/569.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/6/e2b4e2d9-f48e-4854-a441-6a65e1c424a9.png?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 6 月 23 日消息，博主 @数码闲聊站 今天在微博透露，某厂的子系中端走量机暂定 7 月亮相。 据介绍，这款手机主打 9K 级大容量单电芯电池 +1.5K 大直屏 + 大音量双扬声器 + 满级防水防摔， 采用骁龙 6 系低功耗芯片 ，“万级大电池”的产品还要晚一点才会现身。 后续有用户在评论区询问：“也是 8G 运存起步吧”，博主回复称：“应该…",
-      "tags": [
-        "Xiaomi",
         "爆料",
         "自动抓取"
       ]
@@ -317,26 +517,6 @@ window.phoneRadarAuto = {
       "summary": "Some would love access to Pixel 10 smarts via the cloud. Others are happy with their aging devices' local capabilities.",
       "tags": [
         "Pixel",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-7cfcc9eeff6d",
-      "title": "捷克拟自 2027 年起禁止学生在校内使用手机",
-      "source": "IT之家",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-23",
-      "time": "08:49",
-      "publishedAt": "2026-06-23T08:49:01.000Z",
-      "url": "https://www.ithome.com/0/967/532.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/6/a514773b-f9f9-40d7-b567-1bbc55c39eb9.jpg?x-bce-process=image/watermark,text_QUnnlJ_miJA,type_RlpMYW5UaW5nSGVpU0JHQg==,size_28,color_ffffffdd,skw_1,skc_00000051,g_7,blr_50,bls_50,x_11,y_11/format,f_auto",
-      "summary": "IT之家 6 月 23 日消息，据央视新闻报道，当地时间 6 月 22 日，捷克总理巴比什在社交媒体表示，捷克政府已向议会提交一项法律草案， 计划从 2027 年 9 月起禁止所有处于义务教育阶段的学生在学校使用手机 。 根据法案，禁令不仅适用于课堂期间，也适用于课间休息时间，但出于健康原因或学校将手机用于教学目的等情况例外。 巴比什还表示，由于担心社交媒…",
-      "tags": [
-        "行业",
         "爆料",
         "自动抓取"
       ]
@@ -682,6 +862,26 @@ window.phoneRadarAuto = {
       ]
     },
     {
+      "id": "newsnow-94d2b9a41f12",
+      "title": "端午节出去玩看到路上iPhone的保有量特别大，直观感受就是：",
+      "source": "酷安热榜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-06-23",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/72456775",
+      "image": "",
+      "summary": "端午节出去玩看到路上iPhone的保有量特别大，直观感受就是：",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
       "id": "newsnow-54922207bb20",
       "title": "2026年第24周国内手机市场份额曝光：苹果第一",
       "source": "酷安热榜",
@@ -702,21 +902,21 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-94d2b9a41f12",
-      "title": "端午节出去玩看到路上iPhone的保有量特别大，直观感受就是：",
+      "id": "newsnow-100e557d3cfa",
+      "title": "新机第四天的电池健康度就97%了？这个正常的吗还是？前天还是99%，小米商城的货[喷血]，要不要退货？",
       "source": "酷安热榜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-06-23",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72456775",
+      "url": "https://www.coolapk.com/feed/72471618",
       "image": "",
-      "summary": "端午节出去玩看到路上iPhone的保有量特别大，直观感受就是：",
+      "summary": "新机第四天的电池健康度就97%了？这个正常的吗还是？前天还是99%，小米商城的货[喷血]，要不要退货？",
       "tags": [
-        "iPhone",
+        "Xiaomi",
         "爆料",
         "NewsNow"
       ]
@@ -757,26 +957,6 @@ window.phoneRadarAuto = {
       "summary": "OnePlus Nord 6 and iQOO Neo 10 bring flagship-level performance to the upper mid-range segment, but they take different approaches. While the Nord 6 focuses on battery life, durab…",
       "tags": [
         "OPPO",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-e0290cdce726",
-      "title": "Apple Approves Production of OLED Panels for Foldable iPhone",
-      "source": "MacRumors",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-22",
-      "time": "15:00",
-      "publishedAt": "2026-06-22T15:00:17.000Z",
-      "url": "https://www.macrumors.com/2026/06/22/production-of-panels-for-foldable-iphone-approved/",
-      "image": "https://images.macrumors.com/article-new/2025/03/Foldable-iPhone-2023-Feature-Iridescent-1.jpg",
-      "summary": "Samsung Display has received Apple's approval to begin module production of OLED panels for Apple's first foldable iPhone, according to a report today from TheElec . Citing indust…",
-      "tags": [
-        "Samsung",
         "爆料",
         "自动抓取"
       ]
@@ -837,46 +1017,6 @@ window.phoneRadarAuto = {
       "summary": "Multiple reports had earlier suggested that the iPhone Ultra (or iPhone Fold) launch could be delayed until later in the year or even early 2027. However, supply chain sources hav…",
       "tags": [
         "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-47a176309060",
-      "title": "Foldable iPhone 'Ultra' Still on Track for September Debut",
-      "source": "MacRumors",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-22",
-      "time": "13:27",
-      "publishedAt": "2026-06-22T13:27:51.000Z",
-      "url": "https://www.macrumors.com/2026/06/22/foldable-iphone-ultra-on-track-september-debut/",
-      "image": "https://images.macrumors.com/article-new/2025/08/Apple-Foldable-Thumb.jpg",
-      "summary": "Apple's first foldable iPhone remains on track for a September debut, despite rumors to the contrary, based on a new report by China Securities Journal (via DigiTimes ). According…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-7ff950cfc305",
-      "title": "The Galaxy S27 Pro could inherit one of the Ultra’s best display features",
-      "source": "Android Authority",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-22",
-      "time": "13:17",
-      "publishedAt": "2026-06-22T13:17:29.000Z",
-      "url": "https://www.androidauthority.com/samsung-galaxy-s27-pro-privacy-display-rumor-3679907/",
-      "image": "https://www.androidauthority.com/wp-content/uploads/2026/02/Samsung-Galaxy-S26-Ultra-Privacy-Display-Settings-scaled.jpg",
-      "summary": "Samsung might finally stop gatekeeping its best screen tech.",
-      "tags": [
-        "Samsung",
         "爆料",
         "自动抓取"
       ]
