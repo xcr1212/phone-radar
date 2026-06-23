@@ -1,11 +1,11 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-06-23T10:02:34.209Z",
+  "updatedAt": "2026-06-23T12:46:58.415Z",
   "issueDate": "2026-06-23",
   "issue": "VOL.260623",
   "title": "手机情报日报",
-  "intro": "今日筛出 14 条重点，其中 8 条是重点爆料，包含 8 条 iPhone 相关、1 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 16 条重点，其中 8 条是重点爆料，包含 8 条 iPhone 相关、1 条官方确认、0 条参数线索。",
   "stats": {
-    "total": 14,
+    "total": 16,
     "iphone": 8,
     "leaks": 8,
     "official": 1,
@@ -88,6 +88,29 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
+          "id": "auto-0bd925d86f03",
+          "title": "天马“认领”荣耀 X80 Pro Max 屏幕：定制 6.8 寸 1.5K OLED 护眼直屏，局部峰值亮度 10000nits",
+          "originalTitle": "",
+          "source": "IT之家",
+          "brand": "HONOR",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-06-23",
+          "time": "12:06",
+          "publishedAt": "2026-06-23T12:06:10.000Z",
+          "url": "https://www.ithome.com/0/967/651.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/6/26c4ee11-28ff-4364-a47c-0fc82a8aa46f.png?x-bce-process=image/format,f_auto",
+          "verdict": "先看",
+          "takeaway": "IT之家 6 月 23 日消息， 荣耀 X80 Pro Max 手机今天发布，天马微电子官方刚刚发文“认领”了该机的屏幕技术。 IT之家从“天马微电子”公众号获悉， 荣耀 X80 Pro Max 搭载天马专属定制 6.8 英寸 1.5K OLED 护眼直屏 ，支持 120Hz 自适应刷新率，覆盖 100% DCI-P3 广色域与 10.7 亿色，采用 1.…",
+          "detail": "IT之家 6 月 23 日消息， 荣耀 X80 Pro Max 手机今天发布，天马微电子官方刚刚发文“认领”了该机的屏幕技术。 IT之家从“天马微电子”公众号获悉， 荣耀 X80 Pro Max 搭载天马专属定制 6.8 英寸 1.5K OLED 护眼直屏 ，支持 120Hz 自适应刷新率，覆盖 100% DCI-P3 广色域与 10.7 亿色，采用 1.…",
+          "keyPoints": [
+            "屏幕形态"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
           "id": "auto-1006bb465ea4",
           "title": "曝某厂子系中端走量机暂定 7 月：主打 9K 级电池、骁龙 6 系芯片，预计为小米 REDMI Note 17 系列",
           "originalTitle": "",
@@ -114,69 +137,48 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
-          "id": "auto-0980e83442d6",
-          "title": "苹果首款折叠 iPhone 屏幕细节曝光：三星供应，外 M16 / 内 M14 OLED 面板",
+          "id": "coolapk-user-be8a23dbafbe",
+          "title": "竹本青：天马认领荣耀 X80 Pro Max 屏幕：定制6.8英寸直屏",
           "originalTitle": "",
-          "source": "IT之家",
-          "brand": "Samsung",
+          "source": "竹本青",
+          "brand": "HONOR",
           "type": "爆料",
-          "trust": "媒体汇总",
+          "trust": "高可信爆料",
           "date": "2026-06-23",
-          "time": "08:46",
-          "publishedAt": "2026-06-23T08:46:15.000Z",
-          "url": "https://www.ithome.com/0/967/529.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/6/f61b72c8-69a8-4dce-800c-23c8df46b8be.jpg",
+          "time": "10:48",
+          "publishedAt": "2026-06-23T10:48:09.000Z",
+          "url": "https://www.coolapk.com/feed/72490383",
+          "image": "http://image.coolapk.com/feed/2026/0623/18/4248714_f46dbeb8_1687_0236_564@1790x864.jpg",
           "verdict": "先看",
-          "takeaway": "IT之家 6 月 23 日消息，科技媒体 Wccftech 昨日（6 月 22 日）发布博文，报道称苹果首款折叠 iPhone（上市后预估名为 iPhone Ultra）屏幕采用双面板方案， 外屏采用三星 M16 OLED，内屏沿用 M14 OLED。 iPhone Ultra 外屏采用的 M16 OLED 面板将搭配封装彩色滤光片（COE）技术，该技术取…",
-          "detail": "IT之家 6 月 23 日消息，科技媒体 Wccftech 昨日（6 月 22 日）发布博文，报道称苹果首款折叠 iPhone（上市后预估名为 iPhone Ultra）屏幕采用双面板方案， 外屏采用三星 M16 OLED，内屏沿用 M14 OLED。 iPhone Ultra 外屏采用的 M16 OLED 面板将搭配封装彩色滤光片（COE）技术，该技术取…",
+          "takeaway": "【天马认领荣耀 X80 Pro Max屏幕：定制6.8英寸1.5K OLED直屏】 6月22日，荣耀 X80 Pro Max正式发布，天马作为荣耀长期深度合作伙伴，此次专属定制6.8英寸1.5K OLED护眼直屏。 新机屏幕支持120Hz自适应刷新率，搭配2788×1280分辨率、100% DCI-P3广色域与10.7亿色；1.3mm三边窄边框与94.85…",
+          "detail": "【天马认领荣耀 X80 Pro Max屏幕：定制6.8英寸1.5K OLED直屏】 6月22日，荣耀 X80 Pro Max正式发布，天马作为荣耀长期深度合作伙伴，此次专属定制6.8英寸1.5K OLED护眼直屏。 新机屏幕支持120Hz自适应刷新率，搭配2788×1280分辨率、100% DCI-P3广色域与10.7亿色；1.3mm三边窄边框与94.85…",
           "keyPoints": [
             "屏幕形态"
           ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "confidence": "可信度较高，但仍属于发布前线索。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
-          "id": "auto-cf330fdcb9d0",
-          "title": "曝华为 Mate 80 系列手机销量已破 700 万台，有望冲击千万里程碑",
+          "id": "auto-92baea60da75",
+          "title": "realme 真我 P4x 4G 手机海外发布：8000mAh 电池、6.8 寸 720P 120Hz LCD 屏幕",
           "originalTitle": "",
           "source": "IT之家",
-          "brand": "Huawei",
+          "brand": "行业",
           "type": "爆料",
           "trust": "媒体汇总",
           "date": "2026-06-23",
-          "time": "08:30",
-          "publishedAt": "2026-06-23T08:30:26.000Z",
-          "url": "https://www.ithome.com/0/967/521.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/6/dd63663b-3077-47c5-aed1-e6fe51fd7079.png?x-bce-process=image/format,f_auto",
+          "time": "10:07",
+          "publishedAt": "2026-06-23T10:07:46.000Z",
+          "url": "https://www.ithome.com/0/967/615.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/6/38873c46-0d38-4aea-87a6-dd013efd694e.jpg?x-bce-process=image/format,f_auto",
           "verdict": "先看",
-          "takeaway": "IT之家 6 月 23 日消息，据长期关注国内手机市场份额的数码博主 @RD观测 今日爆料，截至 2026 年第 24 周（6 月 8 日-6 月 14 日）， 华为 Mate 80 系列的 sell-out 销量约 697.04 万台 。 评论区有网友补充，截止到今天， 华为 Mate 80 系列销量已破 700 万 。网友进一步分析，距离 Mate 9…",
-          "detail": "IT之家 6 月 23 日消息，据长期关注国内手机市场份额的数码博主 @RD观测 今日爆料，截至 2026 年第 24 周（6 月 8 日-6 月 14 日）， 华为 Mate 80 系列的 sell-out 销量约 697.04 万台 。 评论区有网友补充，截止到今天， 华为 Mate 80 系列销量已破 700 万 。网友进一步分析，距离 Mate 9…",
+          "takeaway": "IT之家 6 月 23 日消息，realme 真我现已在海外市场推出 P4x 4G 手机，相比去年 12 月发布的 5G 版机型在后盖、电池容量等方面有所调整。 据介绍，这款手机配备一块 6.8 英寸 720P LCD 屏幕，支持 120Hz 高刷，采用水滴屏设计。 搭载紫光展锐 T7250 八核心（2*A75+6*A55）处理器 。 规格方面， 这款手机…",
+          "detail": "IT之家 6 月 23 日消息，realme 真我现已在海外市场推出 P4x 4G 手机，相比去年 12 月发布的 5G 版机型在后盖、电池容量等方面有所调整。 据介绍，这款手机配备一块 6.8 英寸 720P LCD 屏幕，支持 120Hz 高刷，采用水滴屏设计。 搭载紫光展锐 T7250 八核心（2*A75+6*A55）处理器 。 规格方面， 这款手机…",
           "keyPoints": [
-            "爆料来源"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "newsnow-2de41f581f57",
-          "title": "听说明年欧盟要执行电池可拆卸的标准。那明年，几大厂的手机要出口到那里的手机就要设计成可拆卸的。所以国行的版本到时候是会可拆卸还是不可拆？[惊讶]到时候会有全封闭党永不为奴吗？ #红米K80至尊版# #REDMITurbo5Max#",
-          "originalTitle": "",
-          "source": "酷安热榜",
-          "brand": "Xiaomi",
-          "type": "爆料",
-          "trust": "高关注爆料源",
-          "date": "2026-06-23",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://www.coolapk.com/feed/72458254",
-          "image": "",
-          "verdict": "先看",
-          "takeaway": "听说明年欧盟要执行电池可拆卸的标准。那明年，几大厂的手机要出口到那里的手机就要设计成可拆卸的。所以国行的版本到时候是会可拆卸还是不可拆？[惊讶]到时候会有全封闭党永不为奴吗？ #红米K80至尊版# #REDMITurbo5Max#",
-          "detail": "听说明年欧盟要执行电池可拆卸的标准。那明年，几大厂的手机要出口到那里的手机就要设计成可拆卸的。所以国行的版本到时候是会可拆卸还是不可拆？[惊讶]到时候会有全封闭党永不为奴吗？ #红米K80至尊版# #REDMITurbo5Max#",
-          "keyPoints": [
-            "电池 / 充电"
+            "屏幕形态",
+            "电池 / 充电",
+            "芯片 / 性能"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
@@ -330,6 +332,36 @@ window.phoneRadarDaily = {
       ]
     },
     {
+      "id": "launch",
+      "title": "新机与官方发布",
+      "hint": "能直接更新到参数库。",
+      "items": [
+        {
+          "id": "coolapk-user-e765ab49ce9e",
+          "title": "竹本青：曝华为Mate 80系列销量已超697万台",
+          "originalTitle": "",
+          "source": "竹本青",
+          "brand": "Huawei",
+          "type": "爆料",
+          "trust": "高可信爆料",
+          "date": "2026-06-23",
+          "time": "08:05",
+          "publishedAt": "2026-06-23T08:05:19.000Z",
+          "url": "https://www.coolapk.com/feed/72487981",
+          "image": "http://image.coolapk.com/feed/2026/0623/16/4248714_5442eca2_1917_8456_244@1439x1824.jpg",
+          "verdict": "扫一眼",
+          "takeaway": "【曝华为Mate 80系列 销量已超697万台】 6月23日，博主「RD观测」发布第三方统计数据：截至2026年第24周，华为Mate 80系列 累计销量约约697.04万台。 前几周数据如下： 截至2026 W23 —— 约670.56万 截至2026 W22 —— 约649.42万 截至2026 W21 —— 约629.58万 #今日热点# #华为Ma…",
+          "detail": "【曝华为Mate 80系列 销量已超697万台】 6月23日，博主「RD观测」发布第三方统计数据：截至2026年第24周，华为Mate 80系列 累计销量约约697.04万台。 前几周数据如下： 截至2026 W23 —— 约670.56万 截至2026 W22 —— 约649.42万 截至2026 W21 —— 约629.58万 #今日热点# #华为Ma…",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "可信度较高，但仍属于发布前线索。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        }
+      ]
+    },
+    {
       "id": "review",
       "title": "评测与体验",
       "hint": "买前再细看，平时扫一眼即可。",
@@ -356,6 +388,36 @@ window.phoneRadarDaily = {
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是实际体验内容，买前适合重点看缺点和取舍。",
           "action": "中文源可以直接点开快读；看完只保留和购机有关的点。"
+        }
+      ]
+    },
+    {
+      "id": "market",
+      "title": "行业趋势",
+      "hint": "看方向，不急着当购买依据。",
+      "items": [
+        {
+          "id": "newsnow-a1fb6b8639b9",
+          "title": "REDMI 17C 上架小米商城：799元起",
+          "originalTitle": "",
+          "source": "酷安热榜",
+          "brand": "Xiaomi",
+          "type": "爆料",
+          "trust": "高关注爆料源",
+          "date": "2026-06-23",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://www.coolapk.com/feed/72484484",
+          "image": "",
+          "verdict": "扫一眼",
+          "takeaway": "REDMI 17C 上架小米商城：799元起",
+          "detail": "REDMI 17C 上架小米商城：799元起",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         }
       ]
     }
