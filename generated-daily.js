@@ -1,12 +1,12 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-06-22T23:44:41.166Z",
-  "issueDate": "2026-06-22",
-  "issue": "VOL.260622",
+  "updatedAt": "2026-06-23T04:19:47.916Z",
+  "issueDate": "2026-06-23",
+  "issue": "VOL.260623",
   "title": "手机情报日报",
-  "intro": "今日筛出 19 条重点，其中 8 条是重点爆料，包含 7 条 iPhone 相关、1 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 19 条重点，其中 8 条是重点爆料，包含 8 条 iPhone 相关、1 条官方确认、0 条参数线索。",
   "stats": {
     "total": 19,
-    "iphone": 7,
+    "iphone": 8,
     "leaks": 8,
     "official": 1,
     "specs": 0
@@ -36,6 +36,31 @@ window.phoneRadarDaily = {
           "keyPoints": [
             "影像硬件",
             "爆料来源"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "auto-c0fa7f50960b",
+          "title": "小米 REDMI 17C 手机上架：6.88 英寸 120Hz 大屏、5160mAh 电池，799 元起",
+          "originalTitle": "",
+          "source": "IT之家",
+          "brand": "Xiaomi",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-06-23",
+          "time": "02:38",
+          "publishedAt": "2026-06-23T02:38:13.000Z",
+          "url": "https://www.ithome.com/0/967/326.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/6/7ff2199a-ed56-4171-b07c-13027c9d1af6.png?x-bce-process=image/format,f_auto",
+          "verdict": "先看",
+          "takeaway": "IT之家 6 月 23 日消息，小米 REDMI 17C 手机今日在电商平台上架，提供 4GB+64GB、4GB+128GB 两个版本，售价分别为 799 元和 899 元。 IT之家从官方介绍获悉，这款新机提供黑色、丹霞红、海风蓝三款配色， 配备 6.88 英寸护眼大屏 ，支持 120Hz 刷新率、240Hz 触控采样率、侧面指纹识别，采用全程 DC 调…",
+          "detail": "IT之家 6 月 23 日消息，小米 REDMI 17C 手机今日在电商平台上架，提供 4GB+64GB、4GB+128GB 两个版本，售价分别为 799 元和 899 元。 IT之家从官方介绍获悉，这款新机提供黑色、丹霞红、海风蓝三款配色， 配备 6.88 英寸护眼大屏 ，支持 120Hz 刷新率、240Hz 触控采样率、侧面指纹识别，采用全程 DC 调…",
+          "keyPoints": [
+            "外观 / 配色 / 尺寸",
+            "电池 / 充电",
+            "成本 / 价格"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
@@ -88,97 +113,23 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
-          "id": "auto-0f709707d8df",
-          "title": "消息称三星显示已获苹果量产认证，将为折叠屏 iPhone 独供 OLED 面板",
+          "id": "auto-738b50f520ff",
+          "title": "某厂 2nm 天玑小屏旗舰影像规格曝光，预计为 vivo X500 系列",
           "originalTitle": "",
           "source": "IT之家",
-          "brand": "Samsung",
+          "brand": "vivo",
           "type": "爆料",
           "trust": "媒体汇总",
-          "date": "2026-06-22",
-          "time": "15:14",
-          "publishedAt": "2026-06-22T15:14:47.000Z",
-          "url": "https://www.ithome.com/0/967/235.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/6/39c41a76-45e8-4a56-9259-d77fa7005864.jpg?x-bce-process=image/auto-orient,o_1",
+          "date": "2026-06-23",
+          "time": "01:29",
+          "publishedAt": "2026-06-23T01:29:04.000Z",
+          "url": "https://www.ithome.com/0/967/283.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/6/b058ad1d-5454-4f05-a2aa-63adede178d9.png",
           "verdict": "先看",
-          "takeaway": "IT之家 6 月 22 日消息，据韩媒 The Elec 今天（22 日）援引业内人士消息称，苹果已经批准三星显示 启动折叠 OLED 模组生产 。三星显示已启用 越南工厂的部分后段产线 ，首批约 300 万块面板计划在今年交付。 模组量产认证是面板供应商 正式供货前必须通过的审核 ，主要检验最终组装质量、产品性能和量产稳定性。消息称苹果要求良率至少达到…",
-          "detail": "IT之家 6 月 22 日消息，据韩媒 The Elec 今天（22 日）援引业内人士消息称，苹果已经批准三星显示 启动折叠 OLED 模组生产 。三星显示已启用 越南工厂的部分后段产线 ，首批约 300 万块面板计划在今年交付。 模组量产认证是面板供应商 正式供货前必须通过的审核 ，主要检验最终组装质量、产品性能和量产稳定性。消息称苹果要求良率至少达到…",
+          "takeaway": "IT之家 6 月 23 日消息，博主 @数码闲聊站 今日曝光某厂 2nm 天玑小屏旗舰的影像规格，评论区网友推测为 vivo X500 系列。 据其爆料，该机目前影像差不多就是 50Mp 1/1.28\" LOFIC 超大底主摄 +50Mp 小底超广角 +64Mp 85mm 新中底潜望长焦，非倒置结构， 支持高质量长焦微距 。 IT之家注意到，该博主此前还曝…",
+          "detail": "IT之家 6 月 23 日消息，博主 @数码闲聊站 今日曝光某厂 2nm 天玑小屏旗舰的影像规格，评论区网友推测为 vivo X500 系列。 据其爆料，该机目前影像差不多就是 50Mp 1/1.28\" LOFIC 超大底主摄 +50Mp 小底超广角 +64Mp 85mm 新中底潜望长焦，非倒置结构， 支持高质量长焦微距 。 IT之家注意到，该博主此前还曝…",
           "keyPoints": [
-            "屏幕形态",
-            "芯片 / 性能",
-            "爆料来源"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "auto-9cece93d3980",
-          "title": "消息称 vivo X Fold5 折叠屏手机累计销量超 52 万台：除华为外唯一突破 50 万台销量的大折",
-          "originalTitle": "",
-          "source": "IT之家",
-          "brand": "Huawei",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-06-22",
-          "time": "14:20",
-          "publishedAt": "2026-06-22T14:20:29.000Z",
-          "url": "https://www.ithome.com/0/967/227.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/6/8620b7ea-82bc-471f-957e-13dd408df536.jpg?x-bce-process=image/format,f_auto",
-          "verdict": "先看",
-          "takeaway": "IT之家 6 月 22 日消息，vivo X Fold6 折叠屏手机将于 6 月 26 日发布，长期关注国内手机市场份额的博主 @RD观测 今晚透露了 vivo X Fold5 的市场表现。 博主称，截至上月底，vivo X Fold5 的累计 Sell out 已经突破 52 万台。 这应该是除华为之外历史累计 Sell out 唯一突破 50 万台的大…",
-          "detail": "IT之家 6 月 22 日消息，vivo X Fold6 折叠屏手机将于 6 月 26 日发布，长期关注国内手机市场份额的博主 @RD观测 今晚透露了 vivo X Fold5 的市场表现。 博主称，截至上月底，vivo X Fold5 的累计 Sell out 已经突破 52 万台。 这应该是除华为之外历史累计 Sell out 唯一突破 50 万台的大…",
-          "keyPoints": [
-            "屏幕形态",
-            "爆料来源"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "auto-f467426104f1",
-          "title": "亿咖通科技拟 18 亿元收购 Flyme 软件业务，年内魅族现有手机将迎大规模系统升级",
-          "originalTitle": "",
-          "source": "IT之家",
-          "brand": "行业",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-06-22",
-          "time": "11:26",
-          "publishedAt": "2026-06-22T11:26:25.000Z",
-          "url": "https://www.ithome.com/0/967/183.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/6/e15ed7b2-5c10-4278-ba98-b53e8b7ef974.jpg",
-          "verdict": "先看",
-          "takeaway": "IT之家 6 月 22 日消息，亿咖通科技控股今日在纳斯达克宣布，已签署最终收购协议， 将收购 Flyme 软件业务 ，包括 Flyme Auto 智能座舱操作系统和跨终端 Flyme 操作系统两大核心产品。 亿咖通科技称，将通过收购由星纪魅族集团专项拆分设立的湖北骐光科技有限公司，获得相关软件业务及核心资产。 本次交易总金额为 18 亿元人民币 （约合…",
-          "detail": "IT之家 6 月 22 日消息，亿咖通科技控股今日在纳斯达克宣布，已签署最终收购协议， 将收购 Flyme 软件业务 ，包括 Flyme Auto 智能座舱操作系统和跨终端 Flyme 操作系统两大核心产品。 亿咖通科技称，将通过收购由星纪魅族集团专项拆分设立的湖北骐光科技有限公司，获得相关软件业务及核心资产。 本次交易总金额为 18 亿元人民币 （约合…",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "coolapk-user-9f41238afe3f",
-          "title": "竹本青：曝一加 16T评估骁龙8 Elite Gen6芯片",
-          "originalTitle": "",
-          "source": "竹本青",
-          "brand": "OPPO",
-          "type": "爆料",
-          "trust": "高可信爆料",
-          "date": "2026-06-22",
-          "time": "08:32",
-          "publishedAt": "2026-06-22T08:32:48.000Z",
-          "url": "https://www.coolapk.com/feed/72472829",
-          "image": "http://image.coolapk.com/feed/2026/0622/16/4248714_bb7e9be6_7167_447_540@1437x444.jpg",
-          "verdict": "先看",
-          "takeaway": "【曝一加 16T评估骁龙8 Elite Gen6芯片】 数码闲聊站最新爆料称，一加 16T正常开案中，芯片评估骁龙8 Elite Gen6，将搭载6.3英寸级超高刷直屏，其它规格尚未确定。 #今日热点# #一加15T# #ColorOS16#",
-          "detail": "【曝一加 16T评估骁龙8 Elite Gen6芯片】 数码闲聊站最新爆料称，一加 16T正常开案中，芯片评估骁龙8 Elite Gen6，将搭载6.3英寸级超高刷直屏，其它规格尚未确定。 #今日热点# #一加15T# #ColorOS16#",
-          "keyPoints": [
-            "外观 / 配色 / 尺寸",
-            "屏幕形态",
-            "芯片 / 性能",
+            "影像硬件",
             "爆料来源"
           ],
           "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
@@ -186,14 +137,60 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
-          "id": "newsnow-431cfd3711bf",
+          "id": "coolapk-user-f778b0de5c86",
+          "title": "竹本青：消息称荣耀新机开测硬件级防窥屏",
+          "originalTitle": "",
+          "source": "竹本青",
+          "brand": "HONOR",
+          "type": "爆料",
+          "trust": "高可信爆料",
+          "date": "2026-06-23",
+          "time": "04:15",
+          "publishedAt": "2026-06-23T04:15:28.000Z",
+          "url": "https://www.coolapk.com/feed/72485076",
+          "image": "http://image.coolapk.com/feed/2026/0623/12/4248714_f2bd47da_8127_5403_77@1440x530.jpg",
+          "verdict": "先看",
+          "takeaway": "【消息称荣耀新机开测硬件级防窥屏】 数码闲聊站最新爆料显示，三星S27 Pro、小米18 Pro系列及荣耀新机，均已进入硬件级防窥屏测试阶段。该博主还透露，三星计划2028年底向外供应防窥屏。 #今日热点# #MagicOS10#",
+          "detail": "【消息称荣耀新机开测硬件级防窥屏】 数码闲聊站最新爆料显示，三星S27 Pro、小米18 Pro系列及荣耀新机，均已进入硬件级防窥屏测试阶段。该博主还透露，三星计划2028年底向外供应防窥屏。 #今日热点# #MagicOS10#",
+          "keyPoints": [
+            "爆料来源"
+          ],
+          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "coolapk-user-5c0520536d77",
+          "title": "竹本青：vivo X500 Pro 影像配置曝光：85mm新潜望长焦",
+          "originalTitle": "",
+          "source": "竹本青",
+          "brand": "vivo",
+          "type": "爆料",
+          "trust": "高可信爆料",
+          "date": "2026-06-23",
+          "time": "01:09",
+          "publishedAt": "2026-06-23T01:09:00.000Z",
+          "url": "https://www.coolapk.com/feed/72482521",
+          "image": "http://image.coolapk.com/feed/2026/0623/09/4248714_519efad8_6938_9083_237@1439x419.jpg",
+          "verdict": "先看",
+          "takeaway": "【vivo X500 Pro 影像配置曝光：LOFIC大底主摄+85mm新潜望长焦】 ▫️50Mp 1/1.28\" LOFIC大底主摄 ▫️50Mp 小底超广角 ▫️64Mp 85mm新中底潜望长焦，非倒置结构，支持高质量长焦微距 #今日热点# #OriginOS6# #vivoX500#",
+          "detail": "【vivo X500 Pro 影像配置曝光：LOFIC大底主摄+85mm新潜望长焦】 ▫️50Mp 1/1.28\" LOFIC大底主摄 ▫️50Mp 小底超广角 ▫️64Mp 85mm新中底潜望长焦，非倒置结构，支持高质量长焦微距 #今日热点# #OriginOS6# #vivoX500#",
+          "keyPoints": [
+            "影像硬件"
+          ],
+          "confidence": "可信度较高，但仍属于发布前线索。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "newsnow-06c8196c9fd5",
           "title": "想问下各位大佬，手机长焦真的是伪需求吗？想征集下大家日常真实使用情况，平时拍照开长焦多不多？",
           "originalTitle": "",
           "source": "酷安热榜",
           "brand": "行业",
           "type": "爆料",
           "trust": "高关注爆料源",
-          "date": "2026-06-22",
+          "date": "2026-06-23",
           "time": "",
           "publishedAt": "",
           "url": "https://www.coolapk.com/feed/72468609",
@@ -239,14 +236,14 @@ window.phoneRadarDaily = {
           "action": "中文源可以直接点开快读；看完只保留和购机有关的点。"
         },
         {
-          "id": "newsnow-d31a8e3fb770",
+          "id": "newsnow-54922207bb20",
           "title": "2026年第24周国内手机市场份额曝光：苹果第一",
           "originalTitle": "",
           "source": "酷安热榜",
           "brand": "iPhone",
           "type": "爆料",
           "trust": "高关注爆料源",
-          "date": "2026-06-22",
+          "date": "2026-06-23",
           "time": "",
           "publishedAt": "",
           "url": "https://www.coolapk.com/feed/72470492",
@@ -262,6 +259,29 @@ window.phoneRadarDaily = {
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         },
         {
+          "id": "newsnow-94d2b9a41f12",
+          "title": "端午节出去玩看到路上iPhone的保有量特别大，直观感受就是：",
+          "originalTitle": "",
+          "source": "酷安热榜",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "高关注爆料源",
+          "date": "2026-06-23",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://www.coolapk.com/feed/72456775",
+          "image": "",
+          "verdict": "先看",
+          "takeaway": "端午节出去玩看到路上iPhone的保有量特别大，直观感受就是：",
+          "detail": "端午节出去玩看到路上iPhone的保有量特别大，直观感受就是：",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        },
+        {
           "id": "auto-9bbf43c61c96",
           "title": "iPhone 系统功能 / AI 体验相关消息",
           "originalTitle": "",
@@ -269,7 +289,7 @@ window.phoneRadarDaily = {
           "brand": "iPhone",
           "type": "官方",
           "trust": "官方确认",
-          "date": "2026-06-22",
+          "date": "2026-06-23",
           "time": "",
           "publishedAt": "",
           "url": "https://www.apple.com/newsroom/2026/06/apple-announces-changes-to-ios-in-brazil/",
@@ -311,36 +331,6 @@ window.phoneRadarDaily = {
       ]
     },
     {
-      "id": "launch",
-      "title": "新机与官方发布",
-      "hint": "能直接更新到参数库。",
-      "items": [
-        {
-          "id": "auto-6e38d95bc745",
-          "title": "OPPO 相关消息",
-          "originalTitle": "",
-          "source": "Gizmochina",
-          "brand": "OPPO",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-06-22",
-          "time": "04:06",
-          "publishedAt": "2026-06-22T04:06:51.000Z",
-          "url": "https://www.gizmochina.com/2026/06/22/oneplus-15s-india-launch-cancelled-leak/",
-          "image": "https://www.gizmochina.com/wp-content/uploads/2026/04/OnePlus-15T-Review_1.mp4_20260402_142241.000-300x150.jpg?x44794",
-          "verdict": "可略过",
-          "takeaway": "OPPO 相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
-          "detail": "OPPO 相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        }
-      ]
-    },
-    {
       "id": "review",
       "title": "评测与体验",
       "hint": "买前再细看，平时扫一眼即可。",
@@ -376,14 +366,14 @@ window.phoneRadarDaily = {
       "hint": "看方向，不急着当购买依据。",
       "items": [
         {
-          "id": "newsnow-7e8432c658b1",
+          "id": "newsnow-95ac1f573b18",
           "title": "我一直在想，爱回收和转转这些回收的好处在哪？广告满天飞，实际回收价格低到爆#ColorOS16# #OPPOFindX8#",
           "originalTitle": "",
           "source": "酷安热榜",
           "brand": "OPPO",
           "type": "爆料",
           "trust": "高关注爆料源",
-          "date": "2026-06-22",
+          "date": "2026-06-23",
           "time": "",
           "publishedAt": "",
           "url": "https://www.coolapk.com/feed/72467325",
@@ -398,6 +388,29 @@ window.phoneRadarDaily = {
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "影响购买预算，值得先看。",
           "action": "有具体参数就记录到参数库；没有参数就先收藏。"
+        },
+        {
+          "id": "newsnow-f8f94bebd73d",
+          "title": "6.3英寸手机型号好少啊[捂脸]选择范围太小了，各位都买的什么型号的呀[托腮]小米13用了三年，伤了我的心，不想买小米了[捂脸]夏天特别烫，简单刷个视频，烫的都拿不住。",
+          "originalTitle": "",
+          "source": "酷安热榜",
+          "brand": "Xiaomi",
+          "type": "爆料",
+          "trust": "高关注爆料源",
+          "date": "2026-06-23",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://www.coolapk.com/feed/72449390",
+          "image": "",
+          "verdict": "先看",
+          "takeaway": "6.3英寸手机型号好少啊[捂脸]选择范围太小了，各位都买的什么型号的呀[托腮]小米13用了三年，伤了我的心，不想买小米了[捂脸]夏天特别烫，简单刷个视频，烫的都拿不住。",
+          "detail": "6.3英寸手机型号好少啊[捂脸]选择范围太小了，各位都买的什么型号的呀[托腮]小米13用了三年，伤了我的心，不想买小米了[捂脸]夏天特别烫，简单刷个视频，烫的都拿不住。",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         },
         {
           "id": "auto-613699d1a080",
@@ -468,29 +481,6 @@ window.phoneRadarDaily = {
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "影响日常体验，尤其是游戏、拍照和长时间使用。",
-          "action": "有具体参数就记录到参数库；没有参数就先收藏。"
-        },
-        {
-          "id": "auto-13b6798e7b4d",
-          "title": "Galaxy S26 FE 芯片 / 性能相关消息",
-          "originalTitle": "",
-          "source": "SamMobile",
-          "brand": "Samsung",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-06-22",
-          "time": "05:56",
-          "publishedAt": "2026-06-22T05:56:57.000Z",
-          "url": "https://www.sammobile.com/news/galaxy-s26-fe-reveal-true-potential-exynos-2500/",
-          "image": "https://www.sammobile.com/wp-content/uploads/2026/06/Samsung-Galaxy-S26-FE-vs-Galaxy-Z-Flip-7-CPU-Performance-Geekbench-Comparison.jpg",
-          "verdict": "可略过",
-          "takeaway": "Galaxy S26 FE 芯片 / 性能相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
-          "detail": "Galaxy S26 FE 芯片 / 性能相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
-          "keyPoints": [
-            "芯片 / 性能"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "影响性能和寿命判断，适合放进参数库。",
           "action": "有具体参数就记录到参数库；没有参数就先收藏。"
         }
       ]

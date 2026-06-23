@@ -1,6 +1,206 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-06-22T23:44:41.166Z",
+  "updatedAt": "2026-06-23T04:19:47.916Z",
   "news": [
+    {
+      "id": "coolapk-user-f778b0de5c86",
+      "title": "竹本青：消息称荣耀新机开测硬件级防窥屏",
+      "source": "竹本青",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-06-23",
+      "time": "04:15",
+      "publishedAt": "2026-06-23T04:15:28.000Z",
+      "url": "https://www.coolapk.com/feed/72485076",
+      "image": "http://image.coolapk.com/feed/2026/0623/12/4248714_f2bd47da_8127_5403_77@1440x530.jpg",
+      "summary": "【消息称荣耀新机开测硬件级防窥屏】 数码闲聊站最新爆料显示，三星S27 Pro、小米18 Pro系列及荣耀新机，均已进入硬件级防窥屏测试阶段。该博主还透露，三星计划2028年底向外供应防窥屏。 #今日热点# #MagicOS10#",
+      "tags": [
+        "HONOR",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-c0fa7f50960b",
+      "title": "小米 REDMI 17C 手机上架：6.88 英寸 120Hz 大屏、5160mAh 电池，799 元起",
+      "source": "IT之家",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-23",
+      "time": "02:38",
+      "publishedAt": "2026-06-23T02:38:13.000Z",
+      "url": "https://www.ithome.com/0/967/326.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/6/7ff2199a-ed56-4171-b07c-13027c9d1af6.png?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 6 月 23 日消息，小米 REDMI 17C 手机今日在电商平台上架，提供 4GB+64GB、4GB+128GB 两个版本，售价分别为 799 元和 899 元。 IT之家从官方介绍获悉，这款新机提供黑色、丹霞红、海风蓝三款配色， 配备 6.88 英寸护眼大屏 ，支持 120Hz 刷新率、240Hz 触控采样率、侧面指纹识别，采用全程 DC 调…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-738b50f520ff",
+      "title": "某厂 2nm 天玑小屏旗舰影像规格曝光，预计为 vivo X500 系列",
+      "source": "IT之家",
+      "brand": "vivo",
+      "model": "vivo 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-23",
+      "time": "01:29",
+      "publishedAt": "2026-06-23T01:29:04.000Z",
+      "url": "https://www.ithome.com/0/967/283.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/6/b058ad1d-5454-4f05-a2aa-63adede178d9.png",
+      "summary": "IT之家 6 月 23 日消息，博主 @数码闲聊站 今日曝光某厂 2nm 天玑小屏旗舰的影像规格，评论区网友推测为 vivo X500 系列。 据其爆料，该机目前影像差不多就是 50Mp 1/1.28\" LOFIC 超大底主摄 +50Mp 小底超广角 +64Mp 85mm 新中底潜望长焦，非倒置结构， 支持高质量长焦微距 。 IT之家注意到，该博主此前还曝…",
+      "tags": [
+        "vivo",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-5c0520536d77",
+      "title": "竹本青：vivo X500 Pro 影像配置曝光：85mm新潜望长焦",
+      "source": "竹本青",
+      "brand": "vivo",
+      "model": "vivo 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-06-23",
+      "time": "01:09",
+      "publishedAt": "2026-06-23T01:09:00.000Z",
+      "url": "https://www.coolapk.com/feed/72482521",
+      "image": "http://image.coolapk.com/feed/2026/0623/09/4248714_519efad8_6938_9083_237@1439x419.jpg",
+      "summary": "【vivo X500 Pro 影像配置曝光：LOFIC大底主摄+85mm新潜望长焦】 ▫️50Mp 1/1.28\" LOFIC大底主摄 ▫️50Mp 小底超广角 ▫️64Mp 85mm新中底潜望长焦，非倒置结构，支持高质量长焦微距 #今日热点# #OriginOS6# #vivoX500#",
+      "tags": [
+        "vivo",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-9bbf43c61c96",
+      "title": "Apple announces changes to iOS in Brazil",
+      "source": "Apple Newsroom",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "官方",
+      "trust": "官方确认",
+      "date": "2026-06-23",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.apple.com/newsroom/2026/06/apple-announces-changes-to-ios-in-brazil/",
+      "image": "",
+      "summary": "Apple today announced changes impacting iOS apps in Brazil that reflect a recent agreement with Brazil’s competition regulator, CADE.",
+      "tags": [
+        "iPhone",
+        "官方",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "newsnow-54922207bb20",
+      "title": "2026年第24周国内手机市场份额曝光：苹果第一",
+      "source": "酷安热榜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-06-23",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/72470492",
+      "image": "",
+      "summary": "2026年第24周国内手机市场份额曝光：苹果第一",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-95ac1f573b18",
+      "title": "我一直在想，爱回收和转转这些回收的好处在哪？广告满天飞，实际回收价格低到爆#ColorOS16# #OPPOFindX8#",
+      "source": "酷安热榜",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-06-23",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/72467325",
+      "image": "",
+      "summary": "我一直在想，爱回收和转转这些回收的好处在哪？广告满天飞，实际回收价格低到爆#ColorOS16# #OPPOFindX8#",
+      "tags": [
+        "OPPO",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-94d2b9a41f12",
+      "title": "端午节出去玩看到路上iPhone的保有量特别大，直观感受就是：",
+      "source": "酷安热榜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-06-23",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/72456775",
+      "image": "",
+      "summary": "端午节出去玩看到路上iPhone的保有量特别大，直观感受就是：",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-06c8196c9fd5",
+      "title": "想问下各位大佬，手机长焦真的是伪需求吗？想征集下大家日常真实使用情况，平时拍照开长焦多不多？",
+      "source": "酷安热榜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-06-23",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/72468609",
+      "image": "",
+      "summary": "想问下各位大佬，手机长焦真的是伪需求吗？想征集下大家日常真实使用情况，平时拍照开长焦多不多？",
+      "tags": [
+        "行业",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-f8f94bebd73d",
+      "title": "6.3英寸手机型号好少啊[捂脸]选择范围太小了，各位都买的什么型号的呀[托腮]小米13用了三年，伤了我的心，不想买小米了[捂脸]夏天特别烫，简单刷个视频，烫的都拿不住。",
+      "source": "酷安热榜",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-06-23",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/72449390",
+      "image": "",
+      "summary": "6.3英寸手机型号好少啊[捂脸]选择范围太小了，各位都买的什么型号的呀[托腮]小米13用了三年，伤了我的心，不想买小米了[捂脸]夏天特别烫，简单刷个视频，烫的都拿不住。",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "NewsNow"
+      ]
+    },
     {
       "id": "auto-6f571fa564ca",
       "title": "MagSafe Monday: Upgrade your MagSafe travel gear with the new ESR summer collection",
@@ -57,26 +257,6 @@ window.phoneRadarAuto = {
       "summary": "OnePlus Nord 6 and iQOO Neo 10 bring flagship-level performance to the upper mid-range segment, but they take different approaches. While the Nord 6 focuses on battery life, durab…",
       "tags": [
         "OPPO",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-0f709707d8df",
-      "title": "消息称三星显示已获苹果量产认证，将为折叠屏 iPhone 独供 OLED 面板",
-      "source": "IT之家",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-22",
-      "time": "15:14",
-      "publishedAt": "2026-06-22T15:14:47.000Z",
-      "url": "https://www.ithome.com/0/967/235.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/6/39c41a76-45e8-4a56-9259-d77fa7005864.jpg?x-bce-process=image/auto-orient,o_1",
-      "summary": "IT之家 6 月 22 日消息，据韩媒 The Elec 今天（22 日）援引业内人士消息称，苹果已经批准三星显示 启动折叠 OLED 模组生产 。三星显示已启用 越南工厂的部分后段产线 ，首批约 300 万块面板计划在今年交付。 模组量产认证是面板供应商 正式供货前必须通过的审核 ，主要检验最终组装质量、产品性能和量产稳定性。消息称苹果要求良率至少达到…",
-      "tags": [
-        "Samsung",
         "爆料",
         "自动抓取"
       ]
@@ -139,26 +319,6 @@ window.phoneRadarAuto = {
         "行业",
         "爆料",
         "酷安博主"
-      ]
-    },
-    {
-      "id": "auto-9cece93d3980",
-      "title": "消息称 vivo X Fold5 折叠屏手机累计销量超 52 万台：除华为外唯一突破 50 万台销量的大折",
-      "source": "IT之家",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-22",
-      "time": "14:20",
-      "publishedAt": "2026-06-22T14:20:29.000Z",
-      "url": "https://www.ithome.com/0/967/227.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/6/8620b7ea-82bc-471f-957e-13dd408df536.jpg?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 6 月 22 日消息，vivo X Fold6 折叠屏手机将于 6 月 26 日发布，长期关注国内手机市场份额的博主 @RD观测 今晚透露了 vivo X Fold5 的市场表现。 博主称，截至上月底，vivo X Fold5 的累计 Sell out 已经突破 52 万台。 这应该是除华为之外历史累计 Sell out 唯一突破 50 万台的大…",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "自动抓取"
       ]
     },
     {
@@ -282,26 +442,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-f467426104f1",
-      "title": "亿咖通科技拟 18 亿元收购 Flyme 软件业务，年内魅族现有手机将迎大规模系统升级",
-      "source": "IT之家",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-22",
-      "time": "11:26",
-      "publishedAt": "2026-06-22T11:26:25.000Z",
-      "url": "https://www.ithome.com/0/967/183.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/6/e15ed7b2-5c10-4278-ba98-b53e8b7ef974.jpg",
-      "summary": "IT之家 6 月 22 日消息，亿咖通科技控股今日在纳斯达克宣布，已签署最终收购协议， 将收购 Flyme 软件业务 ，包括 Flyme Auto 智能座舱操作系统和跨终端 Flyme 操作系统两大核心产品。 亿咖通科技称，将通过收购由星纪魅族集团专项拆分设立的湖北骐光科技有限公司，获得相关软件业务及核心资产。 本次交易总金额为 18 亿元人民币 （约合…",
-      "tags": [
-        "行业",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-1d8b8c396242",
       "title": "OnePlus Nord 6 vs Nothing Phone (4a) Pro: Performance, Camera, and Battery Compared",
       "source": "Gizmochina",
@@ -342,26 +482,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "coolapk-user-9f41238afe3f",
-      "title": "竹本青：曝一加 16T评估骁龙8 Elite Gen6芯片",
-      "source": "竹本青",
-      "brand": "OPPO",
-      "model": "OPPO 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-06-22",
-      "time": "08:32",
-      "publishedAt": "2026-06-22T08:32:48.000Z",
-      "url": "https://www.coolapk.com/feed/72472829",
-      "image": "http://image.coolapk.com/feed/2026/0622/16/4248714_bb7e9be6_7167_447_540@1437x444.jpg",
-      "summary": "【曝一加 16T评估骁龙8 Elite Gen6芯片】 数码闲聊站最新爆料称，一加 16T正常开案中，芯片评估骁龙8 Elite Gen6，将搭载6.3英寸级超高刷直屏，其它规格尚未确定。 #今日热点# #一加15T# #ColorOS16#",
-      "tags": [
-        "OPPO",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
       "id": "auto-8b1fd2d66629",
       "title": "Another leak hints at an Ultra display feature for the Galaxy S27 Pro",
       "source": "SamMobile",
@@ -375,26 +495,6 @@ window.phoneRadarAuto = {
       "url": "https://www.sammobile.com/news/galaxy-s27-pro-leak-hints-ultra-display-feature/",
       "image": "",
       "summary": "The Galaxy S27 Pro is expected to launch alongside the Galaxy S27, Galaxy S27+, and the Galaxy S27 Ultra next year. Rumors suggest the phone will be a slightly more compact versio…",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-13b6798e7b4d",
-      "title": "Galaxy S26 FE could finally reveal true potential of the Exynos 2500",
-      "source": "SamMobile",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-22",
-      "time": "05:56",
-      "publishedAt": "2026-06-22T05:56:57.000Z",
-      "url": "https://www.sammobile.com/news/galaxy-s26-fe-reveal-true-potential-exynos-2500/",
-      "image": "https://www.sammobile.com/wp-content/uploads/2026/06/Samsung-Galaxy-S26-FE-vs-Galaxy-Z-Flip-7-CPU-Performance-Geekbench-Comparison.jpg",
-      "summary": "Samsung debuted its first 3nm chip, the Exynos 2500, last year with the Galaxy Z Flip 7. However, the chip could not showcase its true performance potential due to the compact for…",
       "tags": [
         "Samsung",
         "爆料",
@@ -518,146 +618,6 @@ window.phoneRadarAuto = {
       "tags": [
         "Huawei",
         "评测",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-9bbf43c61c96",
-      "title": "Apple announces changes to iOS in Brazil",
-      "source": "Apple Newsroom",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "官方",
-      "trust": "官方确认",
-      "date": "2026-06-22",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.apple.com/newsroom/2026/06/apple-announces-changes-to-ios-in-brazil/",
-      "image": "",
-      "summary": "Apple today announced changes impacting iOS apps in Brazil that reflect a recent agreement with Brazil’s competition regulator, CADE.",
-      "tags": [
-        "iPhone",
-        "官方",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "newsnow-d31a8e3fb770",
-      "title": "2026年第24周国内手机市场份额曝光：苹果第一",
-      "source": "酷安热榜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-06-22",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72470492",
-      "image": "",
-      "summary": "2026年第24周国内手机市场份额曝光：苹果第一",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-7e8432c658b1",
-      "title": "我一直在想，爱回收和转转这些回收的好处在哪？广告满天飞，实际回收价格低到爆#ColorOS16# #OPPOFindX8#",
-      "source": "酷安热榜",
-      "brand": "OPPO",
-      "model": "OPPO 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-06-22",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72467325",
-      "image": "",
-      "summary": "我一直在想，爱回收和转转这些回收的好处在哪？广告满天飞，实际回收价格低到爆#ColorOS16# #OPPOFindX8#",
-      "tags": [
-        "OPPO",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-431cfd3711bf",
-      "title": "想问下各位大佬，手机长焦真的是伪需求吗？想征集下大家日常真实使用情况，平时拍照开长焦多不多？",
-      "source": "酷安热榜",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-06-22",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72468609",
-      "image": "",
-      "summary": "想问下各位大佬，手机长焦真的是伪需求吗？想征集下大家日常真实使用情况，平时拍照开长焦多不多？",
-      "tags": [
-        "行业",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "auto-e3b866bc0e9f",
-      "title": "I’ve had the Pixel 10 for 10 months, and I’m still confused by its best camera feature",
-      "source": "Android Authority",
-      "brand": "Pixel",
-      "model": "Pixel 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-21",
-      "time": "10:00",
-      "publishedAt": "2026-06-21T10:00:47.000Z",
-      "url": "https://www.androidauthority.com/10-months-later-pixel-10-best-camera-feature-missing-3673818/",
-      "image": "",
-      "summary": "Auto Best Take? Are you there?",
-      "tags": [
-        "Pixel",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-2b4dc728c26d",
-      "title": "Oppo Reno 16 series official teasers hint at multiple devices",
-      "source": "Gizmochina",
-      "brand": "OPPO",
-      "model": "OPPO 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-21",
-      "time": "09:47",
-      "publishedAt": "2026-06-21T09:47:56.000Z",
-      "url": "https://www.gizmochina.com/2026/06/21/oppo-reno-16-series-india-teasers-oppo-bubble-enco-air-5-launch/",
-      "image": "https://www.gizmochina.com/wp-content/uploads/2026/06/image-110-300x216.png?x44794",
-      "summary": "Oppo is gearing up to launch the Reno 16 lineup in multiple markets, including Europe and Southeast Asia. Teasers for the series have also appeared in India through the company’s…",
-      "tags": [
-        "OPPO",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-f827b269fdc2",
-      "title": "Oppo Find N7 Wide to sport horizontal camera design, crease-free display",
-      "source": "Gizmochina",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-21",
-      "time": "07:23",
-      "publishedAt": "2026-06-21T07:23:45.000Z",
-      "url": "https://www.gizmochina.com/2026/06/21/oppo-find-n7-design-tipped/",
-      "image": "https://www.gizmochina.com/wp-content/uploads/2026/03/OPPO-Find-N6_1.mp4_20260326_152207.020-300x150.jpg?x44794",
-      "summary": "Foldable smartphones are entering a new phase, with several brands preparing wider-format devices to compete in the premium segment. While Samsung is expected to introduce the Gal…",
-      "tags": [
-        "Samsung",
-        "爆料",
         "自动抓取"
       ]
     }
