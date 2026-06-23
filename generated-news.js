@@ -1,6 +1,26 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-06-23T20:21:52.582Z",
+  "updatedAt": "2026-06-23T23:20:54.057Z",
   "news": [
+    {
+      "id": "auto-3851a020c059",
+      "title": "Chrome's autofill update makes filling out forms on your phone a breeze",
+      "source": "Android Police",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-23",
+      "time": "21:45",
+      "publishedAt": "2026-06-23T21:45:46.000Z",
+      "url": "https://www.androidpolice.com/chrome-android-gets-autofill-upgrade/",
+      "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2024/06/chrome-hero-dark-1.jpg",
+      "summary": "Chrome's biggest autofill upgrade is now on Android and iOS",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-42c6b6d4c232",
       "title": "iPhone 18 Pro: Three new features that already have me excited",
@@ -942,6 +962,26 @@ window.phoneRadarAuto = {
       ]
     },
     {
+      "id": "newsnow-c4c4f5651bcf",
+      "title": "辞职了兄弟们，工作没了，女朋友分了，之前给她买的骚紫色三星也还给我了，以后可以专心研究三星了[受虐滑稽][受虐滑稽] 看看我的动态，女朋友自用的，成色很新。不能留着了#三星GalaxyS23Ultra# #OneUI8.5#",
+      "source": "酷安热榜",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-06-23",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/72492643",
+      "image": "",
+      "summary": "辞职了兄弟们，工作没了，女朋友分了，之前给她买的骚紫色三星也还给我了，以后可以专心研究三星了[受虐滑稽][受虐滑稽] 看看我的动态，女朋友自用的，成色很新。不能留着了#三星GalaxyS23Ultra# #OneUI8.5#",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
       "id": "auto-6f571fa564ca",
       "title": "MagSafe Monday: Upgrade your MagSafe travel gear with the new ESR summer collection",
       "source": "9to5Mac",
@@ -1178,26 +1218,6 @@ window.phoneRadarAuto = {
       "tags": [
         "iPhone",
         "评测",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-bc8fa69f7d36",
-      "title": "Samsung Galaxy S27 Pro tipped to feature 6.47-inch display with hardware privacy screen",
-      "source": "Gizmochina",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-22",
-      "time": "03:13",
-      "publishedAt": "2026-06-22T03:13:02.000Z",
-      "url": "https://www.gizmochina.com/2026/06/22/samsung-galaxy-s27-pro-privacy-screen-leak/",
-      "image": "https://www.gizmochina.com/wp-content/uploads/2026/02/Galaxy-S26-Ultra-Privacy-Display-1-300x169.png?x44794",
-      "summary": "Samsung’s 2026 Galaxy S26 series was expected to introduce a Galaxy S26 Pro as part of a lineup restructuring. It was expected to replace the Galaxy S26 Plus. However, as we later…",
-      "tags": [
-        "Samsung",
-        "爆料",
         "自动抓取"
       ]
     },

@@ -1,12 +1,12 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-06-23T20:21:52.582Z",
+  "updatedAt": "2026-06-23T23:20:54.057Z",
   "issueDate": "2026-06-23",
   "issue": "VOL.260623",
   "title": "手机情报日报",
-  "intro": "今日筛出 16 条重点，其中 8 条是重点爆料，包含 9 条 iPhone 相关、1 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 16 条重点，其中 8 条是重点爆料，包含 8 条 iPhone 相关、1 条官方确认、0 条参数线索。",
   "stats": {
     "total": 16,
-    "iphone": 9,
+    "iphone": 8,
     "leaks": 8,
     "official": 1,
     "specs": 0
@@ -302,29 +302,6 @@ window.phoneRadarDaily = {
           "confidence": "官方内容，可直接作为已确认信息记录。",
           "impact": "可信度高，但如果不是配置/价格消息，只需要扫一眼。",
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
-        {
-          "id": "auto-eb31340203ac",
-          "title": "iPhone 价格 / 成本相关消息",
-          "originalTitle": "",
-          "source": "Android Central",
-          "brand": "iPhone",
-          "type": "评测",
-          "trust": "媒体汇总",
-          "date": "2026-06-23",
-          "time": "15:43",
-          "publishedAt": "2026-06-23T15:43:45.000Z",
-          "url": "https://www.androidcentral.com/phones/nothing-phones/nothing-phone-4a-pro-prime-day-2026-deal",
-          "image": "https://cdn.mos.cms.futurecdn.net/qeWbGE9fH2MRQL4aP9snAY-1280-80.jpg",
-          "verdict": "扫一眼",
-          "takeaway": "iPhone 价格 / 成本相关消息。如果涉及订阅、售价或硬件成本，才需要进一步看细节。",
-          "detail": "iPhone 价格 / 成本相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
-          "keyPoints": [
-            "成本 / 价格"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是实际体验内容，买前适合重点看缺点和取舍。",
-          "action": "有具体参数就记录到参数库；没有参数就先收藏。"
         }
       ]
     },
@@ -393,6 +370,29 @@ window.phoneRadarDaily = {
       "title": "行业趋势",
       "hint": "看方向，不急着当购买依据。",
       "items": [
+        {
+          "id": "newsnow-c4c4f5651bcf",
+          "title": "辞职了兄弟们，工作没了，女朋友分了，之前给她买的骚紫色三星也还给我了，以后可以专心研究三星了[受虐滑稽][受虐滑稽] 看看我的动态，女朋友自用的，成色很新。不能留着了#三星GalaxyS23Ultra# #OneUI8.5#",
+          "originalTitle": "",
+          "source": "酷安热榜",
+          "brand": "Samsung",
+          "type": "爆料",
+          "trust": "高关注爆料源",
+          "date": "2026-06-23",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://www.coolapk.com/feed/72492643",
+          "image": "",
+          "verdict": "先看",
+          "takeaway": "辞职了兄弟们，工作没了，女朋友分了，之前给她买的骚紫色三星也还给我了，以后可以专心研究三星了[受虐滑稽][受虐滑稽] 看看我的动态，女朋友自用的，成色很新。不能留着了#三星GalaxyS23Ultra# #OneUI8.5#",
+          "detail": "辞职了兄弟们，工作没了，女朋友分了，之前给她买的骚紫色三星也还给我了，以后可以专心研究三星了[受虐滑稽][受虐滑稽] 看看我的动态，女朋友自用的，成色很新。不能留着了#三星GalaxyS23Ultra# #OneUI8.5#",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        },
         {
           "id": "newsnow-a1fb6b8639b9",
           "title": "REDMI 17C 上架小米商城：799元起",
