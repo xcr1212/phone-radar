@@ -1,6 +1,506 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-06-23T04:19:47.916Z",
+  "updatedAt": "2026-06-23T10:02:34.209Z",
   "news": [
+    {
+      "id": "auto-d10e4924bf4c",
+      "title": "As much as the Galaxy S26 Ultra annoys me, one camera feature keeps me coming back",
+      "source": "Android Authority",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-23",
+      "time": "10:00",
+      "publishedAt": "2026-06-23T10:00:51.000Z",
+      "url": "https://www.androidauthority.com/samsung-galaxy-s26-ultra-camera-zoom-keeps-me-coming-back-3678483/",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2026/06/s26-ultra-on-a-table-scaled.jpg",
+      "summary": "Don't underestimate the power of great camera zoom.",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-1006bb465ea4",
+      "title": "曝某厂子系中端走量机暂定 7 月：主打 9K 级电池、骁龙 6 系芯片，预计为小米 REDMI Note 17 系列",
+      "source": "IT之家",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-23",
+      "time": "09:14",
+      "publishedAt": "2026-06-23T09:14:10.000Z",
+      "url": "https://www.ithome.com/0/967/569.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/6/e2b4e2d9-f48e-4854-a441-6a65e1c424a9.png?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 6 月 23 日消息，博主 @数码闲聊站 今天在微博透露，某厂的子系中端走量机暂定 7 月亮相。 据介绍，这款手机主打 9K 级大容量单电芯电池 +1.5K 大直屏 + 大音量双扬声器 + 满级防水防摔， 采用骁龙 6 系低功耗芯片 ，“万级大电池”的产品还要晚一点才会现身。 后续有用户在评论区询问：“也是 8G 运存起步吧”，博主回复称：“应该…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-488d2f1cb726",
+      "title": "New leak puts a name on every Galaxy Z Flip 8, Fold 8, and Fold 8 Ultra color",
+      "source": "SamMobile",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-23",
+      "time": "09:13",
+      "publishedAt": "2026-06-23T09:13:21.000Z",
+      "url": "https://www.sammobile.com/news/new-leak-puts-a-name-on-every-galaxy-z-flip-8-fold-8-and-fold-8-ultra-color/",
+      "image": "",
+      "summary": "Samsung hasn't confirmed when this summer's Unpacked event will take place, but details about the product lineup have already leaked in spades. A new leak is now painting a more c…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-ce9d698d4f9c",
+      "title": "Survey says older Pixel owners are divided on Google’s fancy cloud-based features",
+      "source": "Android Authority",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-23",
+      "time": "09:00",
+      "publishedAt": "2026-06-23T09:00:35.000Z",
+      "url": "https://www.androidauthority.com/google-pixel-ai-features-on-device-poll-results-3680277/",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2025/11/PXL_20251020_003437966.MP_-scaled-e1763354125603-500w-260h.jpg",
+      "summary": "Some would love access to Pixel 10 smarts via the cloud. Others are happy with their aging devices' local capabilities.",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-7cfcc9eeff6d",
+      "title": "捷克拟自 2027 年起禁止学生在校内使用手机",
+      "source": "IT之家",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-23",
+      "time": "08:49",
+      "publishedAt": "2026-06-23T08:49:01.000Z",
+      "url": "https://www.ithome.com/0/967/532.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/6/a514773b-f9f9-40d7-b567-1bbc55c39eb9.jpg?x-bce-process=image/watermark,text_QUnnlJ_miJA,type_RlpMYW5UaW5nSGVpU0JHQg==,size_28,color_ffffffdd,skw_1,skc_00000051,g_7,blr_50,bls_50,x_11,y_11/format,f_auto",
+      "summary": "IT之家 6 月 23 日消息，据央视新闻报道，当地时间 6 月 22 日，捷克总理巴比什在社交媒体表示，捷克政府已向议会提交一项法律草案， 计划从 2027 年 9 月起禁止所有处于义务教育阶段的学生在学校使用手机 。 根据法案，禁令不仅适用于课堂期间，也适用于课间休息时间，但出于健康原因或学校将手机用于教学目的等情况例外。 巴比什还表示，由于担心社交媒…",
+      "tags": [
+        "行业",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-0980e83442d6",
+      "title": "苹果首款折叠 iPhone 屏幕细节曝光：三星供应，外 M16 / 内 M14 OLED 面板",
+      "source": "IT之家",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-23",
+      "time": "08:46",
+      "publishedAt": "2026-06-23T08:46:15.000Z",
+      "url": "https://www.ithome.com/0/967/529.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/6/f61b72c8-69a8-4dce-800c-23c8df46b8be.jpg",
+      "summary": "IT之家 6 月 23 日消息，科技媒体 Wccftech 昨日（6 月 22 日）发布博文，报道称苹果首款折叠 iPhone（上市后预估名为 iPhone Ultra）屏幕采用双面板方案， 外屏采用三星 M16 OLED，内屏沿用 M14 OLED。 iPhone Ultra 外屏采用的 M16 OLED 面板将搭配封装彩色滤光片（COE）技术，该技术取…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-ebb8f52d5a66",
+      "title": "IDC：韩国 2026Q1 折叠屏智能手机出货 19 万部，同比实现三位数增长",
+      "source": "IT之家",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-23",
+      "time": "08:35",
+      "publishedAt": "2026-06-23T08:35:44.000Z",
+      "url": "https://www.ithome.com/0/967/523.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/6/9a23c537-1f97-4d44-a1a5-31734261faa8.png",
+      "summary": "IT之家 6 月 23 日消息，IDC 当地时间本月 22 日表示，韩国 2026Q1 智能手机出货总量约为 378 万部， 同比下降 0.5% ；消费者信心指数保持在 110 以上，但由于外部环境的不利影响消费者购买信心有所减弱。 ▲ 图源：IDC IDC 表示，韩国 2026Q1 智能手机出货中 5G 终端设备占比达到 95.5%； 价格超过 800…",
+      "tags": [
+        "行业",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-cf330fdcb9d0",
+      "title": "曝华为 Mate 80 系列手机销量已破 700 万台，有望冲击千万里程碑",
+      "source": "IT之家",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-23",
+      "time": "08:30",
+      "publishedAt": "2026-06-23T08:30:26.000Z",
+      "url": "https://www.ithome.com/0/967/521.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/6/dd63663b-3077-47c5-aed1-e6fe51fd7079.png?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 6 月 23 日消息，据长期关注国内手机市场份额的数码博主 @RD观测 今日爆料，截至 2026 年第 24 周（6 月 8 日-6 月 14 日）， 华为 Mate 80 系列的 sell-out 销量约 697.04 万台 。 评论区有网友补充，截止到今天， 华为 Mate 80 系列销量已破 700 万 。网友进一步分析，距离 Mate 9…",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-be53a34d7387",
+      "title": "This might be the only Android phone deal worth your Prime Day budget",
+      "source": "Android Central",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-06-23",
+      "time": "08:15",
+      "publishedAt": "2026-06-23T08:15:00.000Z",
+      "url": "https://www.androidcentral.com/phones/google-pixel/this-might-be-the-only-android-phone-deal-worth-your-prime-day-budget",
+      "image": "https://cdn.mos.cms.futurecdn.net/EyfSs7aN3efo95J6YnRt2a-1280-80.jpg",
+      "summary": "Prime Day is full of bad phone deals. This Pixel 10a deal isn't one of them.",
+      "tags": [
+        "Pixel",
+        "评测",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-40fae9d24d55",
+      "title": "竹本青：iPhone 17系列中国区最新销量曝光：突破3433万台",
+      "source": "竹本青",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-06-23",
+      "time": "08:10",
+      "publishedAt": "2026-06-23T08:10:05.000Z",
+      "url": "https://www.coolapk.com/feed/72488063",
+      "image": "http://image.coolapk.com/feed/2026/0623/16/4248714_41fab92c_2203_5796_706@3336x2484.jpg",
+      "summary": "【iPhone 17系列 中国区最新销量曝光：已突破3433万台】 6月23日，博主「RD观测」发布第三方统计数据：截至2026年第24周，iPhone 17系列在中国市场累计销量约3433.98万台。 前几周数据如下： 截至2026 W23 —— 约3320.36万 截至2026 W22 —— 约3232.74万 截至2026 W21 —— 约3148.…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "coolapk-user-e765ab49ce9e",
+      "title": "竹本青：曝华为Mate 80系列销量已超697万台",
+      "source": "竹本青",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-06-23",
+      "time": "08:05",
+      "publishedAt": "2026-06-23T08:05:19.000Z",
+      "url": "https://www.coolapk.com/feed/72487981",
+      "image": "http://image.coolapk.com/feed/2026/0623/16/4248714_5442eca2_1917_8456_244@1439x1824.jpg",
+      "summary": "【曝华为Mate 80系列 销量已超697万台】 6月23日，博主「RD观测」发布第三方统计数据：截至2026年第24周，华为Mate 80系列 累计销量约约697.04万台。 前几周数据如下： 截至2026 W23 —— 约670.56万 截至2026 W22 —— 约649.42万 截至2026 W21 —— 约629.58万 #今日热点# #华为Ma…",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-7ad3ff5632a8",
+      "title": "Alleged Redmi Note 17 series phone with 9,000mAh battery to launch next month",
+      "source": "Gizmochina",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-23",
+      "time": "07:57",
+      "publishedAt": "2026-06-23T07:57:05.000Z",
+      "url": "https://www.gizmochina.com/2026/06/23/redmi-note-17-series-phone-specs-leak/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/01/Redmi-Note-15-5G-India-Launch-300x183.png?x44794",
+      "summary": "Earlier today, Redmi silently unveiled the Redmi 17C, an entry-level 4G smartphone, in China. The brand is expected to unveil a couple of Note series mid-range offerings before it…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-a81e556984ac",
+      "title": "Vivo X500 Pro Mini specs leak again, 85mm periscope lens and Dimensity 9600 Pro in cards",
+      "source": "Gizmochina",
+      "brand": "vivo",
+      "model": "vivo 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-23",
+      "time": "07:44",
+      "publishedAt": "2026-06-23T07:44:51.000Z",
+      "url": "https://www.gizmochina.com/2026/06/23/vivo-x500-pro-mini-specs-leak-again-85mm-periscope-lens-and-dimensity-9600-pro-in-cards/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/05/image-139-300x207.png?x44794",
+      "summary": "A fresh leak adds new detail to the Vivo X500 Pro, one of four models tipped for the upcoming X500 series. According to tipster Digital Chat Station on Weibo, the device will be p…",
+      "tags": [
+        "vivo",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-7cc35201e199",
+      "title": "Save $500 as the Samsung Galaxy Z Fold 7 hits its best price ever",
+      "source": "Android Authority",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-23",
+      "time": "07:41",
+      "publishedAt": "2026-06-23T07:41:30.000Z",
+      "url": "https://www.androidauthority.com/samsung-galaxy-z-fold-7-prime-day-deal-3680114/",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2025/07/Galaxy-Z-Fold-7-tent-mode-on-table-hero-image-scaled.jpg",
+      "summary": "Amazon’s unmissable Prime Day deal drops the 256GB Galaxy Z Fold 7 to $1,499.99, beating its previous all-time low.",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-f037dcb1fba7",
+      "title": "Samsung flagship deal: The Galaxy S26 Plus just hit a fresh low at Amazon",
+      "source": "Android Authority",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-23",
+      "time": "07:40",
+      "publishedAt": "2026-06-23T07:40:46.000Z",
+      "url": "https://www.androidauthority.com/galaxy-s26-plus-prime-day-deal-3680037/",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2026/02/Samsung-Galaxy-S26-Plus-held-in-hand-.jpg",
+      "summary": "The Samsung Galaxy S26 Plus just hit $799.99 for Prime Day, beating the previous low on the unlocked 256GB model.",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-d3e6f5f6fe1b",
+      "title": "The highly anticipated Samsung Galaxy S26 Ultra Prime Day deal is a record $350 discount",
+      "source": "Android Authority",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-23",
+      "time": "07:39",
+      "publishedAt": "2026-06-23T07:39:14.000Z",
+      "url": "https://www.androidauthority.com/galaxy-26-ultra-prime-day-deal-3680023/",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2026/03/Samsung-Galaxy-S26-Ultra-lying-hero.jpg",
+      "summary": "Any chance to get the top Samsung phone for less than four figures is a rare one indeed.",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-12a8e70d1b19",
+      "title": "The Google Pixel 10 Pro Fold just hit its best price since Black Friday",
+      "source": "Android Authority",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-23",
+      "time": "07:34",
+      "publishedAt": "2026-06-23T07:34:10.000Z",
+      "url": "https://www.androidauthority.com/google-pixel-10-pro-fold-prime-day-deal-3679986/",
+      "image": "",
+      "summary": "The Pixel 10 Pro Fold is now $400 off in Amazon’s Prime Day sale, making the premium foldable a much more tempting prospect.",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-da97529642af",
+      "title": "Prime Day just pushed the Google Pixel 10 Pro to a new low of $699.99",
+      "source": "Android Authority",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-23",
+      "time": "07:33",
+      "publishedAt": "2026-06-23T07:33:41.000Z",
+      "url": "https://www.androidauthority.com/google-pixel-10-pro-prime-day-deal-3679984/",
+      "image": "",
+      "summary": "Compact flagship fans get a standout Pixel 10 Pro deal, with Amazon cutting $300 off the 128GB model for Prime Day.",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-5be742d5a223",
+      "title": "Google Pixel 10 falls to $549 in Prime Day price drop",
+      "source": "Android Authority",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-23",
+      "time": "07:33",
+      "publishedAt": "2026-06-23T07:33:04.000Z",
+      "url": "https://www.androidauthority.com/google-pixel-10-prime-day-3679977/",
+      "image": "",
+      "summary": "The Google Pixel 10 is $250 off for Prime Day 2026, matching its lowest price we've tracked this year on Amazon.",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-9ecc6f58a717",
+      "title": "Nothing 预热 Phone (4b) 手机，预计 7 月 7 日海外发布",
+      "source": "IT之家",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-23",
+      "time": "07:30",
+      "publishedAt": "2026-06-23T07:30:15.000Z",
+      "url": "https://www.ithome.com/0/967/474.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/6/d9ef07a8-e38d-4865-953c-2f6be345668e.jpg?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 6 月 23 日消息，据科技媒体 Smartprix 今天报道，Nothing 近期已在海外市场预热即将到来的 Phone (4b) 手机，不过官方披露的信息非常有限。 IT之家在此援引 Smartprix，这款手机将保留 Nothing 一脉相承的透明机身设计， 采用后置单摄设计 ， 带有 Glyph 灯效系统 。定价比 Phone (4a)…",
+      "tags": [
+        "行业",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-97fbe137fe33",
+      "title": "Honor small flagship phone could bring ARRI-based camera features",
+      "source": "Huawei Central",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-23",
+      "time": "07:12",
+      "publishedAt": "2026-06-23T07:12:29.000Z",
+      "url": "https://www.huaweicentral.com/honor-small-flagship-phone-could-bring-arri-based-camera-features/",
+      "image": "https://www.huaweicentral.com/wp-content/uploads/2026/06/Compact-phone-leak.jpg",
+      "summary": "Honor seemingly has a small model for its Magic 9 flagship phone series and just like other siblings, the mini handset is expected to bring ARRI-based camera features. The latest…",
+      "tags": [
+        "HONOR",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-4f28cca5fa16",
+      "title": "Motorola Edge 70 Max leak reveals a bold new direction for the Edge series",
+      "source": "Android Authority",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-23",
+      "time": "06:28",
+      "publishedAt": "2026-06-23T06:28:33.000Z",
+      "url": "https://www.androidauthority.com/motorola-edge-70-max-details-revealed-3680203/",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2026/06/Motorola-Edge-70-Max-in-black.jpg",
+      "summary": "Motorola may finally have something the big players should notice.",
+      "tags": [
+        "行业",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-ee21ff145334",
+      "title": "Samsung begins making OLED panels for first foldable iPhone",
+      "source": "SamMobile",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-23",
+      "time": "06:27",
+      "publishedAt": "2026-06-23T06:27:27.000Z",
+      "url": "https://www.sammobile.com/news/samsung-makes-oled-panels-first-foldable-apple-iphone-ultra/",
+      "image": "",
+      "summary": "Samsung Display has reportedly begun mass production of OLED panels for Apple’s upcoming foldable iPhone. The South Korean firm recently received final approval from Apple, althou…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-5f7a3f45d8f8",
+      "title": "Motorola Edge 70 Max leak reveals renders, Snapdragon 8 Gen 5, magnetic wireless charging",
+      "source": "Gizmochina",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-23",
+      "time": "05:09",
+      "publishedAt": "2026-06-23T05:09:36.000Z",
+      "url": "https://www.gizmochina.com/2026/06/23/motorola-edge-70-max-leaked-renders-specs/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/06/Motorola-Edge-70-Max-charging-300x218.jpg?x44794",
+      "summary": "Motorola’s Edge 70 series could soon gain another member. Leaked renders and details of the Motorola Edge 70 Max have surfaced online, offering an early look at what appears to be…",
+      "tags": [
+        "行业",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-cc3a068af788",
+      "title": "Redmi brings back 4/64GB configuration with the new Redmi 17C",
+      "source": "Gizmochina",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-23",
+      "time": "05:03",
+      "publishedAt": "2026-06-23T05:03:00.000Z",
+      "url": "https://www.gizmochina.com/2026/06/23/redmi-brings-back-4-64gb-configuration-with-the-new-redmi-17c/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/06/Redmi-17C-launch-specs-price-300x200.jpg?x44794",
+      "summary": "Xiaomi has launched the Redmi 17C in China, and the timing says a lot about where budget smartphones are heading. The phone succeeds the Redmi 15C, skipping a generation entirely,…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "coolapk-user-f778b0de5c86",
       "title": "竹本青：消息称荣耀新机开测硬件级防窥屏",
@@ -17,66 +517,6 @@ window.phoneRadarAuto = {
       "summary": "【消息称荣耀新机开测硬件级防窥屏】 数码闲聊站最新爆料显示，三星S27 Pro、小米18 Pro系列及荣耀新机，均已进入硬件级防窥屏测试阶段。该博主还透露，三星计划2028年底向外供应防窥屏。 #今日热点# #MagicOS10#",
       "tags": [
         "HONOR",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
-      "id": "auto-c0fa7f50960b",
-      "title": "小米 REDMI 17C 手机上架：6.88 英寸 120Hz 大屏、5160mAh 电池，799 元起",
-      "source": "IT之家",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-23",
-      "time": "02:38",
-      "publishedAt": "2026-06-23T02:38:13.000Z",
-      "url": "https://www.ithome.com/0/967/326.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/6/7ff2199a-ed56-4171-b07c-13027c9d1af6.png?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 6 月 23 日消息，小米 REDMI 17C 手机今日在电商平台上架，提供 4GB+64GB、4GB+128GB 两个版本，售价分别为 799 元和 899 元。 IT之家从官方介绍获悉，这款新机提供黑色、丹霞红、海风蓝三款配色， 配备 6.88 英寸护眼大屏 ，支持 120Hz 刷新率、240Hz 触控采样率、侧面指纹识别，采用全程 DC 调…",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-738b50f520ff",
-      "title": "某厂 2nm 天玑小屏旗舰影像规格曝光，预计为 vivo X500 系列",
-      "source": "IT之家",
-      "brand": "vivo",
-      "model": "vivo 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-23",
-      "time": "01:29",
-      "publishedAt": "2026-06-23T01:29:04.000Z",
-      "url": "https://www.ithome.com/0/967/283.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/6/b058ad1d-5454-4f05-a2aa-63adede178d9.png",
-      "summary": "IT之家 6 月 23 日消息，博主 @数码闲聊站 今日曝光某厂 2nm 天玑小屏旗舰的影像规格，评论区网友推测为 vivo X500 系列。 据其爆料，该机目前影像差不多就是 50Mp 1/1.28\" LOFIC 超大底主摄 +50Mp 小底超广角 +64Mp 85mm 新中底潜望长焦，非倒置结构， 支持高质量长焦微距 。 IT之家注意到，该博主此前还曝…",
-      "tags": [
-        "vivo",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "coolapk-user-5c0520536d77",
-      "title": "竹本青：vivo X500 Pro 影像配置曝光：85mm新潜望长焦",
-      "source": "竹本青",
-      "brand": "vivo",
-      "model": "vivo 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-06-23",
-      "time": "01:09",
-      "publishedAt": "2026-06-23T01:09:00.000Z",
-      "url": "https://www.coolapk.com/feed/72482521",
-      "image": "http://image.coolapk.com/feed/2026/0623/09/4248714_519efad8_6938_9083_237@1439x419.jpg",
-      "summary": "【vivo X500 Pro 影像配置曝光：LOFIC大底主摄+85mm新潜望长焦】 ▫️50Mp 1/1.28\" LOFIC大底主摄 ▫️50Mp 小底超广角 ▫️64Mp 85mm新中底潜望长焦，非倒置结构，支持高质量长焦微距 #今日热点# #OriginOS6# #vivoX500#",
-      "tags": [
-        "vivo",
         "爆料",
         "酷安博主"
       ]
@@ -102,6 +542,26 @@ window.phoneRadarAuto = {
       ]
     },
     {
+      "id": "newsnow-a1fb6b8639b9",
+      "title": "REDMI 17C 上架小米商城：799元起",
+      "source": "酷安热榜",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-06-23",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/72484484",
+      "image": "",
+      "summary": "REDMI 17C 上架小米商城：799元起",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
       "id": "newsnow-54922207bb20",
       "title": "2026年第24周国内手机市场份额曝光：苹果第一",
       "source": "酷安热榜",
@@ -115,6 +575,26 @@ window.phoneRadarAuto = {
       "url": "https://www.coolapk.com/feed/72470492",
       "image": "",
       "summary": "2026年第24周国内手机市场份额曝光：苹果第一",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-94d2b9a41f12",
+      "title": "端午节出去玩看到路上iPhone的保有量特别大，直观感受就是：",
+      "source": "酷安热榜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-06-23",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/72456775",
+      "image": "",
+      "summary": "端午节出去玩看到路上iPhone的保有量特别大，直观感受就是：",
       "tags": [
         "iPhone",
         "爆料",
@@ -142,48 +622,8 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-94d2b9a41f12",
-      "title": "端午节出去玩看到路上iPhone的保有量特别大，直观感受就是：",
-      "source": "酷安热榜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-06-23",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72456775",
-      "image": "",
-      "summary": "端午节出去玩看到路上iPhone的保有量特别大，直观感受就是：",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-06c8196c9fd5",
-      "title": "想问下各位大佬，手机长焦真的是伪需求吗？想征集下大家日常真实使用情况，平时拍照开长焦多不多？",
-      "source": "酷安热榜",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-06-23",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72468609",
-      "image": "",
-      "summary": "想问下各位大佬，手机长焦真的是伪需求吗？想征集下大家日常真实使用情况，平时拍照开长焦多不多？",
-      "tags": [
-        "行业",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-f8f94bebd73d",
-      "title": "6.3英寸手机型号好少啊[捂脸]选择范围太小了，各位都买的什么型号的呀[托腮]小米13用了三年，伤了我的心，不想买小米了[捂脸]夏天特别烫，简单刷个视频，烫的都拿不住。",
+      "id": "newsnow-2de41f581f57",
+      "title": "听说明年欧盟要执行电池可拆卸的标准。那明年，几大厂的手机要出口到那里的手机就要设计成可拆卸的。所以国行的版本到时候是会可拆卸还是不可拆？[惊讶]到时候会有全封闭党永不为奴吗？ #红米K80至尊版# #REDMITurbo5Max#",
       "source": "酷安热榜",
       "brand": "Xiaomi",
       "model": "Xiaomi 相关机型",
@@ -192,9 +632,9 @@ window.phoneRadarAuto = {
       "date": "2026-06-23",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72449390",
+      "url": "https://www.coolapk.com/feed/72458254",
       "image": "",
-      "summary": "6.3英寸手机型号好少啊[捂脸]选择范围太小了，各位都买的什么型号的呀[托腮]小米13用了三年，伤了我的心，不想买小米了[捂脸]夏天特别烫，简单刷个视频，烫的都拿不住。",
+      "summary": "听说明年欧盟要执行电池可拆卸的标准。那明年，几大厂的手机要出口到那里的手机就要设计成可拆卸的。所以国行的版本到时候是会可拆卸还是不可拆？[惊讶]到时候会有全封闭党永不为奴吗？ #红米K80至尊版# #REDMITurbo5Max#",
       "tags": [
         "Xiaomi",
         "爆料",
@@ -302,26 +742,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "coolapk-user-a4aa8af4f016",
-      "title": "竹本青：【亿咖通科技宣布收购Flyme软件业务，年内魅族手机将迎来大规模系统升级】 6月22日，亿咖通科技控股正式宣布，已…",
-      "source": "竹本青",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-06-22",
-      "time": "14:29",
-      "publishedAt": "2026-06-22T14:29:17.000Z",
-      "url": "https://www.coolapk.com/feed/72478033",
-      "image": "http://image.coolapk.com/feed/2026/0622/22/4248714_5815e345_8686_7833_983@1440x1180.jpg",
-      "summary": "【亿咖通科技宣布收购Flyme软件业务，年内魅族手机将迎来大规模系统升级】 6月22日，亿咖通科技控股正式宣布，已签署最终收购协议，将收购Flyme软件业务，包括Flyme Auto智能座舱操作系统和跨终端Flyme操作系统两大核心产品。 公司将通过收购由星纪魅族集团专项拆分设立的湖北骐光科技有限公司，获得相关软件业务及核心资产。本次交易总金额为18亿元人…",
-      "tags": [
-        "行业",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
       "id": "auto-a83092a5f4b9",
       "title": "New iPhone 18 Pro leak highlights big upgrade for most popular camera",
       "source": "9to5Mac",
@@ -357,26 +777,6 @@ window.phoneRadarAuto = {
       "summary": "Multiple reports had earlier suggested that the iPhone Ultra (or iPhone Fold) launch could be delayed until later in the year or even early 2027. However, supply chain sources hav…",
       "tags": [
         "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-75db6bb99224",
-      "title": "Hopefully you bought spare S Pens for your Galaxy Z Fold 5 or 6, they’re vanishing fast",
-      "source": "SamMobile",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-22",
-      "time": "13:54",
-      "publishedAt": "2026-06-22T13:54:11.000Z",
-      "url": "https://www.sammobile.com/news/spare-s-pen-for-galaxy-z-fold-5-or-6-they-are-vanishing-fast/",
-      "image": "https://www.sammobile.com/wp-content/uploads/2026/06/Screenshot-2026-06-22-at-16.52.37.png",
-      "summary": "The Galaxy Z Fold and the S Pen always felt like a match made in heaven. For the first few years after the original Fold's debut, it seemed impossible to bring the two together, u…",
-      "tags": [
-        "Samsung",
         "爆料",
         "自动抓取"
       ]
@@ -477,26 +877,6 @@ window.phoneRadarAuto = {
       "summary": "Recent reports suggest that OnePlus may have cancelled its plans to launch the OnePlus 15s, a compact flagship smartphone for the Indian market. For the uninitiated, the device wa…",
       "tags": [
         "OPPO",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-8b1fd2d66629",
-      "title": "Another leak hints at an Ultra display feature for the Galaxy S27 Pro",
-      "source": "SamMobile",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-22",
-      "time": "08:31",
-      "publishedAt": "2026-06-22T08:31:14.000Z",
-      "url": "https://www.sammobile.com/news/galaxy-s27-pro-leak-hints-ultra-display-feature/",
-      "image": "",
-      "summary": "The Galaxy S27 Pro is expected to launch alongside the Galaxy S27, Galaxy S27+, and the Galaxy S27 Ultra next year. Rumors suggest the phone will be a slightly more compact versio…",
-      "tags": [
-        "Samsung",
         "爆料",
         "自动抓取"
       ]
