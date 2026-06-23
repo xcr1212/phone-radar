@@ -1,11 +1,11 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-06-23T16:40:43.449Z",
+  "updatedAt": "2026-06-23T20:21:52.582Z",
   "issueDate": "2026-06-23",
   "issue": "VOL.260623",
   "title": "手机情报日报",
-  "intro": "今日筛出 17 条重点，其中 8 条是重点爆料，包含 9 条 iPhone 相关、1 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 16 条重点，其中 8 条是重点爆料，包含 9 条 iPhone 相关、1 条官方确认、0 条参数线索。",
   "stats": {
-    "total": 17,
+    "total": 16,
     "iphone": 9,
     "leaks": 8,
     "official": 1,
@@ -35,6 +35,29 @@ window.phoneRadarDaily = {
           "detail": "iPhone 18 Pro 影像能力相关消息。重点看影像功能是否和新机硬件有关，如果只是拍摄案例或营销内容，参考价值会低一些。",
           "keyPoints": [
             "影像硬件",
+            "爆料来源"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "auto-42c6b6d4c232",
+          "title": "iPhone 相关消息",
+          "originalTitle": "",
+          "source": "9to5Mac",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-06-23",
+          "time": "18:45",
+          "publishedAt": "2026-06-23T18:45:32.000Z",
+          "url": "https://9to5mac.com/2026/06/23/iphone-18-pro-three-new-features-that-already-have-me-excited/",
+          "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/02/iphone-18-pro-mockup.jpg?quality=82&strip=all&w=1600",
+          "verdict": "先看",
+          "takeaway": "iPhone 相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
+          "detail": "iPhone 相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
+          "keyPoints": [
             "爆料来源"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
@@ -180,30 +203,6 @@ window.phoneRadarDaily = {
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "auto-4b20176d3d75",
-          "title": "Samsung 机模 / 配色信息曝光",
-          "originalTitle": "",
-          "source": "Android Authority",
-          "brand": "Samsung",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-06-23",
-          "time": "15:15",
-          "publishedAt": "2026-06-23T15:15:10.000Z",
-          "url": "https://www.androidauthority.com/galaxy-z-fold-8-flip-8-colors-3680456/",
-          "image": "https://www.androidauthority.com/wp-content/uploads/2025/07/Samsung-Galaxy-Z-Fold-7-in-Blue-Shadow-and-Silver-Shadow-next-to-Galaxy-Z-Flip-7.jpg",
-          "verdict": "先看",
-          "takeaway": "Samsung 机模 / 配色信息曝光。重点看外观、颜色、尺寸是否和上一代有明显变化。",
-          "detail": "Samsung 机模 / 配色信息曝光。来源提到未发布机型的机模/配色图，适合先判断外观方向、颜色变化和机身轮廓，但最终量产版本仍可能调整。",
-          "keyPoints": [
-            "外观 / 配色 / 尺寸",
-            "爆料来源"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         }
       ]
     },
@@ -251,29 +250,6 @@ window.phoneRadarDaily = {
           "verdict": "先看",
           "takeaway": "端午节出去玩看到路上iPhone的保有量特别大，直观感受就是：",
           "detail": "端午节出去玩看到路上iPhone的保有量特别大，直观感受就是：",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
-        {
-          "id": "newsnow-54922207bb20",
-          "title": "2026年第24周国内手机市场份额曝光：苹果第一",
-          "originalTitle": "",
-          "source": "酷安热榜",
-          "brand": "iPhone",
-          "type": "爆料",
-          "trust": "高关注爆料源",
-          "date": "2026-06-23",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://www.coolapk.com/feed/72470492",
-          "image": "",
-          "verdict": "先看",
-          "takeaway": "2026年第24周国内手机市场份额曝光：苹果第一",
-          "detail": "2026年第24周国内手机市场份额曝光：苹果第一",
           "keyPoints": [
             "爆料"
           ],

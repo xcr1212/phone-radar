@@ -1,6 +1,66 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-06-23T16:40:43.449Z",
+  "updatedAt": "2026-06-23T20:21:52.582Z",
   "news": [
+    {
+      "id": "auto-42c6b6d4c232",
+      "title": "iPhone 18 Pro: Three new features that already have me excited",
+      "source": "9to5Mac",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-23",
+      "time": "18:45",
+      "publishedAt": "2026-06-23T18:45:32.000Z",
+      "url": "https://9to5mac.com/2026/06/23/iphone-18-pro-three-new-features-that-already-have-me-excited/",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/02/iphone-18-pro-mockup.jpg?quality=82&strip=all&w=1600",
+      "summary": "iPhone 18 Pro is still a few months away from launching, but out of the rumored new features so far, there are three upgrades I’m especially excited about.",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-068ed995cc4c",
+      "title": "Samsung’s Supergirl promotion lets you win a VIP tour of Warner Bros., 65-inch TV",
+      "source": "SamMobile",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-23",
+      "time": "17:07",
+      "publishedAt": "2026-06-23T17:07:08.000Z",
+      "url": "https://www.sammobile.com/news/samsungs-supergirl-promotion-lets-you-win-a-vip-tour-of-warner-bros-65-inch-tv/",
+      "image": "",
+      "summary": "Warner Bros. Pictures and DC Studios' latest superhero movie Supergirl is set to open on June 24. Samsung has announced a global partnership with these entertainment giants today…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-09ec888eca17",
+      "title": "Why wait for the iPhone Fold? This Pixel foldable survives rain and just got a massive $400 discount during Prime Day",
+      "source": "Android Central",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-06-23",
+      "time": "16:46",
+      "publishedAt": "2026-06-23T16:46:27.000Z",
+      "url": "https://www.androidcentral.com/phones/google-pixel/amazon-prime-day-2026-pixel-10-pro-fold-deal-lowest-price",
+      "image": "https://cdn.mos.cms.futurecdn.net/TaGESVJTdBrWSDwYBiLeGE-1280-80.jpg",
+      "summary": "No way this foldable is already down to its lowest price ever!",
+      "tags": [
+        "Pixel",
+        "评测",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-eb31340203ac",
       "title": "Switching from iPhone just got easier as the Nothing Phone 4a Pro just hit its lowest price ever with this anti-Prime Day deal",
@@ -482,26 +542,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-488d2f1cb726",
-      "title": "New leak puts a name on every Galaxy Z Flip 8, Fold 8, and Fold 8 Ultra color",
-      "source": "SamMobile",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-23",
-      "time": "09:13",
-      "publishedAt": "2026-06-23T09:13:21.000Z",
-      "url": "https://www.sammobile.com/news/new-leak-puts-a-name-on-every-galaxy-z-flip-8-fold-8-and-fold-8-ultra-color/",
-      "image": "",
-      "summary": "Samsung hasn't confirmed when this summer's Unpacked event will take place, but details about the product lineup have already leaked in spades. A new leak is now painting a more c…",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-ce9d698d4f9c",
       "title": "Survey says older Pixel owners are divided on Google’s fancy cloud-based features",
       "source": "Android Authority",
@@ -842,6 +882,26 @@ window.phoneRadarAuto = {
       ]
     },
     {
+      "id": "newsnow-100e557d3cfa",
+      "title": "新机第四天的电池健康度就97%了？这个正常的吗还是？前天还是99%，小米商城的货[喷血]，要不要退货？",
+      "source": "酷安热榜",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-06-23",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/72471618",
+      "image": "",
+      "summary": "新机第四天的电池健康度就97%了？这个正常的吗还是？前天还是99%，小米商城的货[喷血]，要不要退货？",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
       "id": "newsnow-a1fb6b8639b9",
       "title": "REDMI 17C 上架小米商城：799元起",
       "source": "酷安热榜",
@@ -877,46 +937,6 @@ window.phoneRadarAuto = {
       "summary": "端午节出去玩看到路上iPhone的保有量特别大，直观感受就是：",
       "tags": [
         "iPhone",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-54922207bb20",
-      "title": "2026年第24周国内手机市场份额曝光：苹果第一",
-      "source": "酷安热榜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-06-23",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72470492",
-      "image": "",
-      "summary": "2026年第24周国内手机市场份额曝光：苹果第一",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-100e557d3cfa",
-      "title": "新机第四天的电池健康度就97%了？这个正常的吗还是？前天还是99%，小米商城的货[喷血]，要不要退货？",
-      "source": "酷安热榜",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-06-23",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72471618",
-      "image": "",
-      "summary": "新机第四天的电池健康度就97%了？这个正常的吗还是？前天还是99%，小米商城的货[喷血]，要不要退货？",
-      "tags": [
-        "Xiaomi",
         "爆料",
         "NewsNow"
       ]
