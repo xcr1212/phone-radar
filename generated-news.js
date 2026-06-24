@@ -1,6 +1,246 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-06-24T04:35:11.771Z",
+  "updatedAt": "2026-06-24T09:50:32.080Z",
   "news": [
+    {
+      "id": "auto-603f4d704449",
+      "title": "在续航赛道狂奔：消息称某厂在研发 14000mAh 电池新机，预计归属荣耀旗下",
+      "source": "IT之家",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-24",
+      "time": "09:28",
+      "publishedAt": "2026-06-24T09:28:33.000Z",
+      "url": "https://www.ithome.com/0/968/074.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/6/1d2c6001-987e-4898-ab80-d41ea3b61251.png",
+      "summary": "IT之家 6 月 24 日消息，博主 @数码闲聊站 今日发文透露， 某厂正在研发 14000mAh 电池新机 ，且该项目已进入 NPI 阶段。这也表明手机厂商正发力续航赛道，在大电池方向狂奔。 从评论区讨论及博主的暗示表情符号来看，这款新机预计归属荣耀旗下， 重量预估在 220g ，但具体是何系列暂不知晓。值得一提的是， 博主还暗示华为也在做主打“超大电池…",
+      "tags": [
+        "HONOR",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-c6493b21d4e2",
+      "title": "OnePlus Nord 6 vs OPPO Reno 15: Which Mid-Premium Phone Offers Better Value?",
+      "source": "Gizmochina",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-24",
+      "time": "09:02",
+      "publishedAt": "2026-06-24T09:02:38.000Z",
+      "url": "https://www.gizmochina.com/2026/06/24/oneplus-nord-6-vs-oppo-reno-15/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/06/image-128-300x196.png?x44794",
+      "summary": "The mid-premium smartphone segment is becoming more competitive than ever, and the OnePlus Nord 6 and OPPO Reno 15 are two of the most interesting contenders. One focuses on raw p…",
+      "tags": [
+        "OPPO",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-ec64ce43c9da",
+      "title": "消息称苹果首款可折叠 iPhone 手机 7 月下旬量产，有望 9 月如期发布",
+      "source": "IT之家",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-24",
+      "time": "08:42",
+      "publishedAt": "2026-06-24T08:42:36.000Z",
+      "url": "https://www.ithome.com/0/968/020.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/6/4658a4b7-8422-4768-9de8-2aa8c5891bce.png?x-bce-process=image/format,f_auto/auto-orient,o_1",
+      "summary": "IT之家 6 月 24 日消息，韩媒 The Elec 今天发布消息称，苹果首款折叠屏 iPhone 将于 7 月底启动量产。在近期因铰链问题一度传出延期消息的背景下，苹果 仍准备按原计划于 9 月发布新机 。 供应链消息称，苹果已经敲定折叠屏 iPhone 的 显示屏、外壳和结构件等主要规格 ，产品也已进入量产准备阶段。首批产品将由 富士康负责生产 。苹…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-017dff2b249a",
+      "title": "小米 REDMI K90 至尊版手机官宣搭载骁龙 8 至尊版处理器，还有 Max 同款风冷散热加持",
+      "source": "IT之家",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-24",
+      "time": "08:24",
+      "publishedAt": "2026-06-24T08:24:34.000Z",
+      "url": "https://www.ithome.com/0/968/004.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/6/a048d75b-9651-418f-94ce-872395ef2dd0.jpg?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 6 月 24 日消息，小米 REDMI 红米手机官方今日宣布， REDMI K90 至尊版定档 6 月 30 日 19:00 发布。 根据官方最新预热，REDMI K90 至尊版手机将提供「太空银」配色，采用银色金属机身设计， 配备 6.83 英寸极窄边 + 大 R 角设计直屏 ，辅以铝合金 CNC 中框、阳极氧化工艺，主打旗舰质感。 小米 RE…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-a0b9d6b11209",
+      "title": "Galaxy Z Fold 8 leak reveals colors and storage for three upcoming foldables",
+      "source": "Android Central",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-06-24",
+      "time": "08:05",
+      "publishedAt": "2026-06-24T08:05:00.000Z",
+      "url": "https://www.androidcentral.com/phones/samsung-galaxy/galaxy-z-fold-8-leak-reveals-colors-and-storage-for-three-upcoming-foldables",
+      "image": "https://cdn.mos.cms.futurecdn.net/4jtRj7RFPxNCsXvhau5YeB-1280-80.jpg",
+      "summary": "A new leak suggests Samsung's 2026 foldables will offer more colors and up to 1TB of storage.",
+      "tags": [
+        "Samsung",
+        "评测",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-b7f15489d738",
+      "title": "三星预热 Galaxy M47 手机：骁龙 6 Gen 3 芯片、6.7 英寸 Super AMOLED 屏幕，6 月 29 日海外发布",
+      "source": "IT之家",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-24",
+      "time": "07:56",
+      "publishedAt": "2026-06-24T07:56:50.000Z",
+      "url": "https://www.ithome.com/0/967/974.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/6/15fdfa63-244f-4045-bb94-f1cf18969bd9.png?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 6 月 24 日消息，三星今天确认 Galaxy M47 手机将于 6 月 29 日在印度发布，新机定位中端，搭载骁龙 6 Gen 3 芯片，售价预计在 25000 印度卢比-30000 印度卢比（IT之家注：现汇率约合 1790 元- 2148 元人民币）之间。 据介绍，这款手机配备一块 6.7 英寸的 Super AMOLED 屏幕， 支持…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-b13ebbdcae3f",
+      "title": "消息称三星电子 Exynos 2700 芯片开发顺利，目标扩展至 S27 Ultra 机型",
+      "source": "IT之家",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-24",
+      "time": "07:53",
+      "publishedAt": "2026-06-24T07:53:19.000Z",
+      "url": "https://www.ithome.com/0/967/971.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/6/ace9071f-dd17-45d5-b562-0323a15b318b.png?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 6 月 24 日消息，韩媒 the bell 近日报道称，三星电子 DX 部系统 LSI 业务的 Exynos 2700 移动处理器开发进展顺利，这款基于 SF2P 工艺的芯片目标 2026Q4 量产。 报道指出， 三星电子 系统 LSI 业务的目标是让“兄弟单位”DX 部 MX 业务将该芯片应用到 Galaxy S27 系列的 Ultra 机型…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-78ce4fb5eca5",
+      "title": "中国信通院：5 月国内市场手机出货量 2763.9 万部，同比增长 16.5%",
+      "source": "IT之家",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-24",
+      "time": "07:50",
+      "publishedAt": "2026-06-24T07:50:22.000Z",
+      "url": "https://www.ithome.com/0/967/966.htm",
+      "image": "",
+      "summary": "IT之家 6 月 24 日消息，中国信通院今天公布的数据显示，2026 年 5 月，国内市场手机出货量 2763.9 万部，同比增长 16.5%，其中，5G 手机 2622.4 万部，同比增长 23.8%，占同期手机出货量的 94.9%。 IT之家从数据中获悉，2026 年 1-5 月，国内市场手机出货量 1.14 亿部，同比下降 3.6%，其中，5G 手…",
+      "tags": [
+        "行业",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-f73104bc2bdd",
+      "title": "小米服务：Xiaomi 14 Ultra 手机暂无“电池升级服务”上线计划",
+      "source": "IT之家",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-24",
+      "time": "07:24",
+      "publishedAt": "2026-06-24T07:24:04.000Z",
+      "url": "https://www.ithome.com/0/967/930.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/6/1dd019e5-a480-4d1c-9b84-345df7b0cfd3.jpg?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 6 月 24 日消息，小米官方今日发文宣布，将为 Xiaomi 14 和 Xiaomi 14 Pro 手机提供“电池升级服务”， 具体实施时间预计为今年第四季度 。 目前小米“电池升级服务”已支持 Xiaomi 13、Xiaomi 13 Pro 和 Xiaomi 13 Ultra 机型： Xiaomi 13：4500mAh → 4850mAh，容…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-2d341c10fd4d",
+      "title": "Alleged iQOO Neo 11S’ key specifications tipped, expected to go official soon",
+      "source": "Gizmochina",
+      "brand": "vivo",
+      "model": "vivo 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-24",
+      "time": "07:09",
+      "publishedAt": "2026-06-24T07:09:59.000Z",
+      "url": "https://www.gizmochina.com/2026/06/24/iqoo-neo-11s-key-specifications-tipped/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/03/iQOO-Neo-11--300x169.webp?x44794",
+      "summary": "iQOO is reportedly working on its next affordable flagship, which is believed to be the Neo 11S. A new leak, courtesy of tipster Digital Chat Station, has emerged to reveal key de…",
+      "tags": [
+        "vivo",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-76bfc155807d",
+      "title": "vivo Y05e 手机曝光：紫光展锐 T606 芯片、4GB 内存",
+      "source": "IT之家",
+      "brand": "vivo",
+      "model": "vivo 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-24",
+      "time": "06:57",
+      "publishedAt": "2026-06-24T06:57:32.000Z",
+      "url": "https://www.ithome.com/0/967/910.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/6/50c3630e-cff4-4578-b164-02bdd80ce48d.png?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 6 月 24 日消息，据科技媒体 XpertPick 今天报道，vivo 新机 Y05e 已经现身谷歌 Google Play Console 数据库，预计将在近期发布，定位入门级市场。 据介绍，这款手机的型号是 V2606，正面采用水滴屏设计， 屏幕分辨率为 720*1600（IT之家注：HD+） ，屏幕像素密度为 300dpi。 同时，这款手…",
+      "tags": [
+        "vivo",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-5db9bb4e2861",
+      "title": "Oppo Find X10 Ultra tipped to further improve 10x periscope with much larger sensor than X9 Ultra",
+      "source": "Gizmochina",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-24",
+      "time": "05:01",
+      "publishedAt": "2026-06-24T05:01:32.000Z",
+      "url": "https://www.gizmochina.com/2026/06/24/oppo-find-x10-ultra-tipped-to-further-improve-10x-periscope-with-much-larger-sensor-than-x9-ultra/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/04/Oppo-Find-X9-Ultra-300x169.png?x44794",
+      "summary": "Oppo is wasting no time pushing smartphone photography even further. Fresh leaks suggest the upcoming Find X10 Ultra will fix one of the few weak spots from its predecessor, the d…",
+      "tags": [
+        "OPPO",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-b28a40e1438b",
       "title": "Redmi K90 Ultra is launching next week with active cooling fan, price segment officially confirmed",
@@ -17,46 +257,6 @@ window.phoneRadarAuto = {
       "summary": "Redmi has confirmed that the Redmi K90 Ultra will launch in China on June 30, while also revealing several details about the upcoming handset ahead of its debut. Redmi describes t…",
       "tags": [
         "Xiaomi",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "weibo-2b08b1077cf8",
-      "title": "数码闲聊站：IMX06H正式命名——LYTIA 610，64Mp 1/2\"中底传感器，首次…",
-      "source": "数码闲聊站",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-06-24",
-      "time": "03:59",
-      "publishedAt": "2026-06-24T03:59:15.000Z",
-      "url": "https://weibo.com/6048569942/R5A43prS5",
-      "image": "https://tvax3.sinaimg.cn/mw2000/006BlblIgy1ieg9csenz5j30xu0ml470.jpg",
-      "summary": "IMX06H正式命名——LYTIA 610，64Mp 1/2\"中底传感器，首次支持RB2×2 OCL，兼顾高分辨率与自动对焦，支持4K 120fps/4K 60fps HDR视频，下一代旗舰的潜望长焦，猜猜哪家首发？[笑哈哈][偷乐]",
-      "tags": [
-        "行业",
-        "爆料",
-        "微博"
-      ]
-    },
-    {
-      "id": "auto-70f09b06a6f7",
-      "title": "vivo X Fold6 折叠屏手机参数公布：天玑 9500 超能版、2 亿像素 1/1.4\" 主摄、1/1.95\" 长焦",
-      "source": "IT之家",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-24",
-      "time": "03:22",
-      "publishedAt": "2026-06-24T03:22:19.000Z",
-      "url": "https://www.ithome.com/0/967/829.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/6/f0c3bd9e-576d-4710-8411-a91aace524b3.jpg?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 6 月 24 日消息，vivo X Fold6 折叠屏手机将于 6 月 26 日发布，vivo 通信科技有限公司产品经理韩伯啸今日公布了 vivo X Fold6 新机的主要参数。 vivo X Fold6 搭载 天玑 9500 超能版 处理器，标配 7000mAh 蓝海电池，折叠首发 三星 M14 发光材料内屏，外屏采用 第二代铠甲玻璃 ，抗刺…",
-      "tags": [
-        "Samsung",
         "爆料",
         "自动抓取"
       ]
@@ -82,26 +282,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-9b910247fafd",
-      "title": "索尼首款 RB2×2 OCL 像素结构手机图像传感器光喻 LYTIA 610 发布：1/2 英寸、64MP",
-      "source": "IT之家",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-24",
-      "time": "02:56",
-      "publishedAt": "2026-06-24T02:56:30.000Z",
-      "url": "https://www.ithome.com/0/967/823.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/6/00bf63a2-3618-420c-bd2f-9c69015887b2.jpg",
-      "summary": "IT之家 6 月 24 日消息，索尼半导体今日发布了一款用于手机的 CMOS 图像传感器“LYTIA 610”。该产品为 1/2 英寸型，有效像素约为 6,400 万，搭载“RB2×2 OCL（On Chip Lens）”像素结构。 据悉， 这一像素结构首次应用于索尼量产 CMOS 图像传感器产品中 ，“RB2×2 OCL”像素结构可以在单个传感器内，将用…",
-      "tags": [
-        "行业",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "coolapk-user-7b5b0ebf042d",
       "title": "竹本青：iQOO 性能新机曝光：天玑9500降频版+2K大直屏",
       "source": "竹本青",
@@ -119,66 +299,6 @@ window.phoneRadarAuto = {
         "vivo",
         "爆料",
         "酷安博主"
-      ]
-    },
-    {
-      "id": "auto-27333bf3e2b2",
-      "title": "小米：电池升级服务预计今年第四季度新增小米 14、14 Pro 手机支持",
-      "source": "IT之家",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-24",
-      "time": "02:35",
-      "publishedAt": "2026-06-24T02:35:28.000Z",
-      "url": "https://www.ithome.com/0/967/773.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/6/2c66ae57-eda8-48c2-956f-e210b8929096.png",
-      "summary": "IT之家 6 月 24 日消息，小米官方今日发文，就电池升级服务进行介绍。 据介绍，普通换新是更换同规格新电池， 电池升级是在原有基础上再进一步，更换容量更大的电池 。目前已支持小米 13、13 Pro、13 Ultra 机型： Xiaomi 13：4500mAh → 4850mAh，容量提升约 7.8% Xiaomi 13 Pro：4820mAh → 5…",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "weibo-9f65bda49a89",
-      "title": "数码闲聊站：咳咳，竞品工程机有一个D9500降频版，性能还是过关的，8开头单芯大电池+2K…",
-      "source": "数码闲聊站",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-06-24",
-      "time": "02:32",
-      "publishedAt": "2026-06-24T02:32:00.000Z",
-      "url": "https://weibo.com/6048569942/R5zuDgnCU",
-      "image": "",
-      "summary": "咳咳，竞品工程机有一个D9500降频版，性能还是过关的，8开头单芯大电池+2K 144Hz大直屏+3D超声波指纹+IP68/69，同样是挑战更低价位段的性能机，如果机子不砍，暂定暑假登场吧👖",
-      "tags": [
-        "行业",
-        "爆料",
-        "微博"
-      ]
-    },
-    {
-      "id": "auto-31bbd897a290",
-      "title": "21% 增幅：Omdia 预估 2026 全球智能手机平均售价 565 美元创新高",
-      "source": "IT之家",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-24",
-      "time": "00:57",
-      "publishedAt": "2026-06-24T00:57:23.000Z",
-      "url": "https://www.ithome.com/0/967/733.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/6/2d36acbd-335a-4113-80b7-8e694ee9d326.png",
-      "summary": "IT之家 6 月 24 日消息，市场调查机构 Omdia 昨日（6 月 23 日）发布博文，指出 2026 年全球智能手机正经历结构性转变，将出现“量跌价升”情况。 整体手机市场趋势而言，该机构认为受内存等零部件成本上升、地缘政治不确定性等因素影响，头部厂商为稳住产品利润，正在放弃低价走量策略，转向高端、高价值产品组合。 在出货量方面，该机构预估 2026…",
-      "tags": [
-        "行业",
-        "爆料",
-        "自动抓取"
       ]
     },
     {
@@ -262,41 +382,21 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-de189a1c5433",
-      "title": "REDMI 17C 上架小米商城：799元起",
+      "id": "newsnow-96d4002884a1",
+      "title": "iQOO 15系列开启第二轮涨价：标准版4999元起",
       "source": "酷安热榜",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
+      "brand": "vivo",
+      "model": "vivo 相关机型",
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-06-24",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72484484",
+      "url": "https://www.coolapk.com/feed/72501064",
       "image": "",
-      "summary": "REDMI 17C 上架小米商城：799元起",
+      "summary": "iQOO 15系列开启第二轮涨价：标准版4999元起",
       "tags": [
-        "Xiaomi",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-93314b1d7485",
-      "title": "老外问我这是相机还是手机",
-      "source": "微博热搜",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "待验证",
-      "date": "2026-06-24",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://s.weibo.com/weibo?q=%23%E8%80%81%E5%A4%96%E9%97%AE%E6%88%91%E8%BF%99%E6%98%AF%E7%9B%B8%E6%9C%BA%E8%BF%98%E6%98%AF%E6%89%8B%E6%9C%BA%23&t=31&band_rank=16&Refer=top",
-      "image": "",
-      "summary": "老外问我这是相机还是手机",
-      "tags": [
-        "行业",
+        "vivo",
         "爆料",
         "NewsNow"
       ]
@@ -482,26 +582,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-e820b7122ece",
-      "title": "The Samsung Galaxy S26 Ultra probably won't get a good Prime Day buy — I'm holding out hope these 3 Androids steal its thunder",
-      "source": "Android Police",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-23",
-      "time": "13:30",
-      "publishedAt": "2026-06-23T13:30:12.000Z",
-      "url": "https://www.androidpolice.com/samsung-galaxy-s26-ultra-wont-get-good-prime-day-buy-so-im-holding-out-hope-for-these-androids-to-steal-its-thunder/",
-      "image": "",
-      "summary": "Save money on an older phone",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-d0186ba62ab5",
       "title": "Apple's Foldable iPhone Could Lose Almost $1,300 in Value in First Year, Study Suggests",
       "source": "MacRumors",
@@ -642,26 +722,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-da3a493d38a4",
-      "title": "Galaxy S25 Ultra to be available with massive discount during Amazon Prime Day sale 2026",
-      "source": "SamMobile",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-23",
-      "time": "11:30",
-      "publishedAt": "2026-06-23T11:30:46.000Z",
-      "url": "https://www.sammobile.com/news/galaxy-s25-ultra-available-massive-discount-during-amazon-prime-day-sale-2026/",
-      "image": "https://www.sammobile.com/wp-content/uploads/2026/06/Samsung-Galaxy-S25-Ultra-To-Be-Available-In-India-Under-INR-100000-During-Amazon-Prime-Day-Sale-2026.jpg",
-      "summary": "Samsung launched the Galaxy S25 Ultra in India with a starting price of INR 1,29,999. On a few occasions, the phone was on sale in the country for under INR 1,00,000. If you someh…",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-91c66c01dc0a",
       "title": "iCloud class action lawsuit could see UK users share $4B payout",
       "source": "9to5Mac",
@@ -719,26 +779,6 @@ window.phoneRadarAuto = {
         "Samsung",
         "爆料",
         "自动抓取"
-      ]
-    },
-    {
-      "id": "weibo-610b92391abb",
-      "title": "数码闲聊站：苹果十周年端出了iPhone X，四等边全面屏+刘海屏设计，改变了未来几年的手…",
-      "source": "数码闲聊站",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-06-23",
-      "time": "09:08",
-      "publishedAt": "2026-06-23T09:08:00.000Z",
-      "url": "https://weibo.com/6048569942/R5sESbkR0",
-      "image": "https://tvax2.sinaimg.cn/mw2000/006BlblIgy1iee4wbnigxj32dc1s0az6.jpg",
-      "summary": "苹果十周年端出了iPhone X，四等边全面屏+刘海屏设计，改变了未来几年的手机设计。 明年苹果二十周年，会有什么样的创新设计？[并不简单]",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "微博"
       ]
     },
     {
@@ -882,86 +922,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "weibo-ebcd136d41fb",
-      "title": "数码闲聊站：子系中端走量机暂定是7月，主打9K级大容量单电芯+1.5K大直屏+大音量双扬+…",
-      "source": "数码闲聊站",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-06-23",
-      "time": "07:38",
-      "publishedAt": "2026-06-23T07:38:00.000Z",
-      "url": "https://weibo.com/6048569942/R5s4lfC89",
-      "image": "",
-      "summary": "子系中端走量机暂定是7月，主打9K级大容量单电芯+1.5K大直屏+大音量双扬+满级防水抗摔，骁龙6系低功耗芯片，万级大电池要晚一点嗷~",
-      "tags": [
-        "行业",
-        "爆料",
-        "微博"
-      ]
-    },
-    {
-      "id": "auto-12a8e70d1b19",
-      "title": "The Google Pixel 10 Pro Fold just hit its best price since Black Friday",
-      "source": "Android Authority",
-      "brand": "Pixel",
-      "model": "Pixel 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-23",
-      "time": "07:34",
-      "publishedAt": "2026-06-23T07:34:10.000Z",
-      "url": "https://www.androidauthority.com/google-pixel-10-pro-fold-prime-day-deal-3679986/",
-      "image": "",
-      "summary": "The Pixel 10 Pro Fold is now $400 off in Amazon’s Prime Day sale, making the premium foldable a much more tempting prospect.",
-      "tags": [
-        "Pixel",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-da97529642af",
-      "title": "Prime Day just pushed the Google Pixel 10 Pro to a new low of $699.99",
-      "source": "Android Authority",
-      "brand": "Pixel",
-      "model": "Pixel 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-23",
-      "time": "07:33",
-      "publishedAt": "2026-06-23T07:33:41.000Z",
-      "url": "https://www.androidauthority.com/google-pixel-10-pro-prime-day-deal-3679984/",
-      "image": "",
-      "summary": "Compact flagship fans get a standout Pixel 10 Pro deal, with Amazon cutting $300 off the 128GB model for Prime Day.",
-      "tags": [
-        "Pixel",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-5be742d5a223",
-      "title": "Google Pixel 10 falls to $549 in Prime Day price drop",
-      "source": "Android Authority",
-      "brand": "Pixel",
-      "model": "Pixel 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-23",
-      "time": "07:33",
-      "publishedAt": "2026-06-23T07:33:04.000Z",
-      "url": "https://www.androidauthority.com/google-pixel-10-prime-day-3679977/",
-      "image": "",
-      "summary": "The Google Pixel 10 is $250 off for Prime Day 2026, matching its lowest price we've tracked this year on Amazon.",
-      "tags": [
-        "Pixel",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-97fbe137fe33",
       "title": "Honor small flagship phone could bring ARRI-based camera features",
       "source": "Huawei Central",
@@ -977,26 +937,6 @@ window.phoneRadarAuto = {
       "summary": "Honor seemingly has a small model for its Magic 9 flagship phone series and just like other siblings, the mini handset is expected to bring ARRI-based camera features. The latest…",
       "tags": [
         "HONOR",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-4f28cca5fa16",
-      "title": "Motorola Edge 70 Max leak reveals a bold new direction for the Edge series",
-      "source": "Android Authority",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-23",
-      "time": "06:28",
-      "publishedAt": "2026-06-23T06:28:33.000Z",
-      "url": "https://www.androidauthority.com/motorola-edge-70-max-details-revealed-3680203/",
-      "image": "https://www.androidauthority.com/wp-content/uploads/2026/06/Motorola-Edge-70-Max-in-black.jpg",
-      "summary": "Motorola may finally have something the big players should notice.",
-      "tags": [
-        "行业",
         "爆料",
         "自动抓取"
       ]
@@ -1039,46 +979,6 @@ window.phoneRadarAuto = {
         "Xiaomi",
         "爆料",
         "自动抓取"
-      ]
-    },
-    {
-      "id": "weibo-712e88312f12",
-      "title": "数码闲聊站：一个独家超前瞻，TOP5某厂下代Pro系列双杯工程机都在评估200Mp潜望长焦…",
-      "source": "数码闲聊站",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-06-23",
-      "time": "02:31",
-      "publishedAt": "2026-06-23T02:31:00.000Z",
-      "url": "https://weibo.com/6048569942/R5q3JlFVl",
-      "image": "",
-      "summary": "一个独家超前瞻，TOP5某厂下代Pro系列双杯工程机都在评估200Mp潜望长焦，卷起来了[污]",
-      "tags": [
-        "行业",
-        "爆料",
-        "微博"
-      ]
-    },
-    {
-      "id": "weibo-f40dc047c3dc",
-      "title": "数码闲聊站：独家信息：2nm天玑小屏旗舰，目前影像差不多就是50Mp 1/1.28\" LO…",
-      "source": "数码闲聊站",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-06-23",
-      "time": "01:03",
-      "publishedAt": "2026-06-23T01:03:00.000Z",
-      "url": "https://weibo.com/6048569942/R5pu0CLYl",
-      "image": "",
-      "summary": "独家信息，2nm天玑小屏旗舰，目前影像差不多就是50Mp 1/1.28\" LOFIC超大底主摄+50Mp小底超广角+64Mp 85mm新中底潜望长焦，非倒置结构，支持高质量长焦微距……[笑哈哈]",
-      "tags": [
-        "行业",
-        "爆料",
-        "微博"
       ]
     }
   ]
