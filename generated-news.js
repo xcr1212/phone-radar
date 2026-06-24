@@ -1,6 +1,306 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-06-23T23:20:54.057Z",
+  "updatedAt": "2026-06-24T04:35:11.771Z",
   "news": [
+    {
+      "id": "auto-b28a40e1438b",
+      "title": "Redmi K90 Ultra is launching next week with active cooling fan, price segment officially confirmed",
+      "source": "Gizmochina",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-24",
+      "time": "04:05",
+      "publishedAt": "2026-06-24T04:05:04.000Z",
+      "url": "https://www.gizmochina.com/2026/06/24/redmi-k90-ultra-launch-date-design-key-specs-confirmed/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/06/Redmi-K90-Ultra-design-300x300.jpg?x44794",
+      "summary": "Redmi has confirmed that the Redmi K90 Ultra will launch in China on June 30, while also revealing several details about the upcoming handset ahead of its debut. Redmi describes t…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "weibo-2b08b1077cf8",
+      "title": "数码闲聊站：IMX06H正式命名——LYTIA 610，64Mp 1/2\"中底传感器，首次…",
+      "source": "数码闲聊站",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-06-24",
+      "time": "03:59",
+      "publishedAt": "2026-06-24T03:59:15.000Z",
+      "url": "https://weibo.com/6048569942/R5A43prS5",
+      "image": "https://tvax3.sinaimg.cn/mw2000/006BlblIgy1ieg9csenz5j30xu0ml470.jpg",
+      "summary": "IMX06H正式命名——LYTIA 610，64Mp 1/2\"中底传感器，首次支持RB2×2 OCL，兼顾高分辨率与自动对焦，支持4K 120fps/4K 60fps HDR视频，下一代旗舰的潜望长焦，猜猜哪家首发？[笑哈哈][偷乐]",
+      "tags": [
+        "行业",
+        "爆料",
+        "微博"
+      ]
+    },
+    {
+      "id": "auto-70f09b06a6f7",
+      "title": "vivo X Fold6 折叠屏手机参数公布：天玑 9500 超能版、2 亿像素 1/1.4\" 主摄、1/1.95\" 长焦",
+      "source": "IT之家",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-24",
+      "time": "03:22",
+      "publishedAt": "2026-06-24T03:22:19.000Z",
+      "url": "https://www.ithome.com/0/967/829.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/6/f0c3bd9e-576d-4710-8411-a91aace524b3.jpg?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 6 月 24 日消息，vivo X Fold6 折叠屏手机将于 6 月 26 日发布，vivo 通信科技有限公司产品经理韩伯啸今日公布了 vivo X Fold6 新机的主要参数。 vivo X Fold6 搭载 天玑 9500 超能版 处理器，标配 7000mAh 蓝海电池，折叠首发 三星 M14 发光材料内屏，外屏采用 第二代铠甲玻璃 ，抗刺…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-62ef84566aec",
+      "title": "竹本青：【小米服务：小米14、小米14 Pro预计今年Q4上线电池升级服务】 小米服务今日发文，就电池升级服务进行介绍，并…",
+      "source": "竹本青",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-06-24",
+      "time": "03:06",
+      "publishedAt": "2026-06-24T03:06:32.000Z",
+      "url": "https://www.coolapk.com/feed/72499444",
+      "image": "http://image.coolapk.com/feed/2026/0624/11/4248714_28dbfd67_0631_4611_878@1439x1278.jpg",
+      "summary": "【小米服务：小米14、小米14 Pro预计今年Q4上线电池升级服务】 小米服务今日发文，就电池升级服务进行介绍，并透露小米14、小米14 Pro 预计今年第四季度支持该服务。 据介绍，普通电池换新，是更换同规格新电池，帮助手机恢复原有续航状态。电池升级服务，则是在官方适配基础上，更换容量更大的新电池，让老机型获得更进一步的续航提升。 目前，小米13系列已率…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-9b910247fafd",
+      "title": "索尼首款 RB2×2 OCL 像素结构手机图像传感器光喻 LYTIA 610 发布：1/2 英寸、64MP",
+      "source": "IT之家",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-24",
+      "time": "02:56",
+      "publishedAt": "2026-06-24T02:56:30.000Z",
+      "url": "https://www.ithome.com/0/967/823.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/6/00bf63a2-3618-420c-bd2f-9c69015887b2.jpg",
+      "summary": "IT之家 6 月 24 日消息，索尼半导体今日发布了一款用于手机的 CMOS 图像传感器“LYTIA 610”。该产品为 1/2 英寸型，有效像素约为 6,400 万，搭载“RB2×2 OCL（On Chip Lens）”像素结构。 据悉， 这一像素结构首次应用于索尼量产 CMOS 图像传感器产品中 ，“RB2×2 OCL”像素结构可以在单个传感器内，将用…",
+      "tags": [
+        "行业",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-7b5b0ebf042d",
+      "title": "竹本青：iQOO 性能新机曝光：天玑9500降频版+2K大直屏",
+      "source": "竹本青",
+      "brand": "vivo",
+      "model": "vivo 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-06-24",
+      "time": "02:44",
+      "publishedAt": "2026-06-24T02:44:29.000Z",
+      "url": "https://www.coolapk.com/feed/72499119",
+      "image": "http://image.coolapk.com/feed/2026/0624/10/4248714_3e0f5ecf_9068_1741_702@1439x444.jpg",
+      "summary": "【iQOO 性能新机曝光：天玑9500降频版+2K大直屏，预计归属Neo11系列】 ▫️2K 144Hz大直屏 ▫️天玑9500降频版 ▫️8开头单芯电池 ▫️3D超声波指纹 ▫️IP68/69防尘防水 博主爆料称，该机将挑战更低价位段，如果不砍，暂定暑假登场。 #今日热点# #OriginOS6# #iQOONeo11#",
+      "tags": [
+        "vivo",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-27333bf3e2b2",
+      "title": "小米：电池升级服务预计今年第四季度新增小米 14、14 Pro 手机支持",
+      "source": "IT之家",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-24",
+      "time": "02:35",
+      "publishedAt": "2026-06-24T02:35:28.000Z",
+      "url": "https://www.ithome.com/0/967/773.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/6/2c66ae57-eda8-48c2-956f-e210b8929096.png",
+      "summary": "IT之家 6 月 24 日消息，小米官方今日发文，就电池升级服务进行介绍。 据介绍，普通换新是更换同规格新电池， 电池升级是在原有基础上再进一步，更换容量更大的电池 。目前已支持小米 13、13 Pro、13 Ultra 机型： Xiaomi 13：4500mAh → 4850mAh，容量提升约 7.8% Xiaomi 13 Pro：4820mAh → 5…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "weibo-9f65bda49a89",
+      "title": "数码闲聊站：咳咳，竞品工程机有一个D9500降频版，性能还是过关的，8开头单芯大电池+2K…",
+      "source": "数码闲聊站",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-06-24",
+      "time": "02:32",
+      "publishedAt": "2026-06-24T02:32:00.000Z",
+      "url": "https://weibo.com/6048569942/R5zuDgnCU",
+      "image": "",
+      "summary": "咳咳，竞品工程机有一个D9500降频版，性能还是过关的，8开头单芯大电池+2K 144Hz大直屏+3D超声波指纹+IP68/69，同样是挑战更低价位段的性能机，如果机子不砍，暂定暑假登场吧👖",
+      "tags": [
+        "行业",
+        "爆料",
+        "微博"
+      ]
+    },
+    {
+      "id": "auto-31bbd897a290",
+      "title": "21% 增幅：Omdia 预估 2026 全球智能手机平均售价 565 美元创新高",
+      "source": "IT之家",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-24",
+      "time": "00:57",
+      "publishedAt": "2026-06-24T00:57:23.000Z",
+      "url": "https://www.ithome.com/0/967/733.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/6/2d36acbd-335a-4113-80b7-8e694ee9d326.png",
+      "summary": "IT之家 6 月 24 日消息，市场调查机构 Omdia 昨日（6 月 23 日）发布博文，指出 2026 年全球智能手机正经历结构性转变，将出现“量跌价升”情况。 整体手机市场趋势而言，该机构认为受内存等零部件成本上升、地缘政治不确定性等因素影响，头部厂商为稳住产品利润，正在放弃低价走量策略，转向高端、高价值产品组合。 在出货量方面，该机构预估 2026…",
+      "tags": [
+        "行业",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-9bbf43c61c96",
+      "title": "Apple announces changes to iOS in Brazil",
+      "source": "Apple Newsroom",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "官方",
+      "trust": "官方确认",
+      "date": "2026-06-24",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.apple.com/newsroom/2026/06/apple-announces-changes-to-ios-in-brazil/",
+      "image": "",
+      "summary": "Apple today announced changes impacting iOS apps in Brazil that reflect a recent agreement with Brazil’s competition regulator, CADE.",
+      "tags": [
+        "iPhone",
+        "官方",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-629af00d319b",
+      "title": "Samsung Partners With Warner Bros. Pictures and DC Studios To Bring ‘Supergirl’ Experiences to Fans",
+      "source": "Samsung Newsroom",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "官方",
+      "trust": "官方确认",
+      "date": "2026-06-24",
+      "time": "00:00",
+      "publishedAt": "2026-06-24T00:00:00.000Z",
+      "url": "https://news.samsung.com/global/samsung-partners-with-warner-bros-pictures-and-dc-studios-to-bring-supergirl-experiences-to-fans",
+      "image": "https://img.global.news.samsung.com/global/wp-content/uploads/2026/06/23095450/Samsung-TVs-and-Displays-Samsung-Art-Store-Warner-Bros.-Pictures-DC-Studios-Supergirl_Thumb932-728x410.jpg",
+      "summary": "Samsung Electronics today announced a global partnership with Warner Bros. Pictures and DC Studios to mark the theatrical release of this summer’s epic new superhero adventure “Su…",
+      "tags": [
+        "Samsung",
+        "官方",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "newsnow-b36bd3af8d7c",
+      "title": "新机第四天的电池健康度就97%了？这个正常的吗还是？前天还是99%，小米商城的货[喷血]，要不要退货？",
+      "source": "酷安热榜",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-06-24",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/72471618",
+      "image": "",
+      "summary": "新机第四天的电池健康度就97%了？这个正常的吗还是？前天还是99%，小米商城的货[喷血]，要不要退货？",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-38c4d88f0400",
+      "title": "REDMI K90 至尊版将于6月30日发布：3K档",
+      "source": "酷安热榜",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-06-24",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/72497788",
+      "image": "",
+      "summary": "REDMI K90 至尊版将于6月30日发布：3K档",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-de189a1c5433",
+      "title": "REDMI 17C 上架小米商城：799元起",
+      "source": "酷安热榜",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-06-24",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/72484484",
+      "image": "",
+      "summary": "REDMI 17C 上架小米商城：799元起",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-93314b1d7485",
+      "title": "老外问我这是相机还是手机",
+      "source": "微博热搜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "待验证",
+      "date": "2026-06-24",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://s.weibo.com/weibo?q=%23%E8%80%81%E5%A4%96%E9%97%AE%E6%88%91%E8%BF%99%E6%98%AF%E7%9B%B8%E6%9C%BA%E8%BF%98%E6%98%AF%E6%89%8B%E6%9C%BA%23&t=31&band_rank=16&Refer=top",
+      "image": "",
+      "summary": "老外问我这是相机还是手机",
+      "tags": [
+        "行业",
+        "爆料",
+        "NewsNow"
+      ]
+    },
     {
       "id": "auto-3851a020c059",
       "title": "Chrome's autofill update makes filling out forms on your phone a breeze",
@@ -102,26 +402,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-77c228923b7a",
-      "title": "传音 Tecno 推出 Camon Slim 新机：6.39mm 厚，配独特“背屏”",
-      "source": "IT之家",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-23",
-      "time": "15:40",
-      "publishedAt": "2026-06-23T15:40:47.000Z",
-      "url": "https://www.ithome.com/0/967/700.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/6/92dd04f3-f260-4221-80c5-e5299d6aec87.png",
-      "summary": "IT之家 6 月 23 日消息，传音旗下手机品牌 Tecno 日前在全球市场发布入门级新机 Camon Slim。新机主打超薄设计，机身厚度 仅为 6.39 毫米 ，并与 Spark Slim 共同组成 TECNO 的超薄手机阵容。 据IT之家了解，Camon Slim 在纤薄机身内塞入了一块 5600mAh 电池，并支持 60W 有线充电。新机正面配备…",
-      "tags": [
-        "行业",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-4b20176d3d75",
       "title": "Galaxy Z Fold 8 and Flip 8 leak teases some fun color options",
       "source": "Android Authority",
@@ -137,26 +417,6 @@ window.phoneRadarAuto = {
       "summary": "Galaxy Z Flip 8, Fold 8, and Fold 8 Ultra could come in these colors.",
       "tags": [
         "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-a6ef4b3551af",
-      "title": "荣耀 MagicOS 11 液态玻璃尝鲜版先锋活动计划在 7 月 31 日前启动二期报名",
-      "source": "IT之家",
-      "brand": "HONOR",
-      "model": "HONOR 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-23",
-      "time": "15:11",
-      "publishedAt": "2026-06-23T15:11:38.000Z",
-      "url": "https://www.ithome.com/0/967/696.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/6/aeacf532-e14c-4308-9394-0e3be0e35b68.jpg?x-bce-process=image/auto-orient,o_1",
-      "summary": "IT之家 6 月 23 日消息，荣耀 MagicOS 11 本月早些时候（6 月 16 日）官宣“超前点映”，安卓首个“液态玻璃”正式登场。本次 MagicOS 11 液态玻璃尝鲜版的招募机型包括： 荣耀 Magic8 荣耀 Magic8 Pro 荣耀 Magic8 Pro Air 荣耀 Magic8 RSR | 保时捷设计 IT之家注意到，目前 Magi…",
-      "tags": [
-        "HONOR",
         "爆料",
         "自动抓取"
       ]
@@ -197,26 +457,6 @@ window.phoneRadarAuto = {
       "summary": "There are thousands, maybe even millions, of iPhone cases on the market. They come in all shapes, sizes, materials, and some are even multifunctional. But these days, it’s rare to…",
       "tags": [
         "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-f0fd93ab7cf7",
-      "title": "二手平台 SellCell 预测：苹果首款折叠屏 iPhone 上市一年后或将贬值近 1300 美元",
-      "source": "IT之家",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-23",
-      "time": "14:17",
-      "publishedAt": "2026-06-23T14:17:30.000Z",
-      "url": "https://www.ithome.com/0/967/683.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/6/bb4c5013-dca5-4ab5-bbca-0dc6608d6b18.jpg?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 6 月 23 日消息，据科技媒体 macrumors 今天报道，二手设备交易平台 SellCell 最近发布研究报告，预测苹果首款折叠屏 iPhone 手机一年后的残值价格。 据报道，SellCell 收集了苹果、三星、谷歌、摩托罗拉和一加等品牌旗舰手机在 12 个月内的二手价格。结果显示，折叠屏手机通常在上市一年后贬值 64.6%，传统智能手机…",
-      "tags": [
-        "Samsung",
         "爆料",
         "自动抓取"
       ]
@@ -342,46 +582,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-c9a4f234a8d0",
-      "title": "Retroid Pocket Nova 掌机预热：七色可选，上市时间待定",
-      "source": "IT之家",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-23",
-      "time": "12:26",
-      "publishedAt": "2026-06-23T12:26:33.000Z",
-      "url": "https://www.ithome.com/0/967/656.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/6/df11f861-8122-49da-be0d-aa148b1ab624.jpg?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 6 月 23 日消息，Retroid 今天在 X 平台公布了 Pocket Nova 掌机，新机拥有 7 种配色可选，发布时间暂未公布。 IT之家了解到， 这款掌机拥有水晶透明色、西瓜色、透明紫、冰蓝色、黑色、16 Bit、GC 配色可供选择 ，前 4 种是半透明外壳，采用同色按键设计，致敬经典掌机的复古风格；16 Bit 则是源自任天堂 SFC…",
-      "tags": [
-        "行业",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "coolapk-user-63e78af6e76c",
-      "title": "竹本青：【海备思推出 240W 氮化镓桌面充电站，售价499元】 ▫️4C+2A 六接口设计 ▫️低温／高性能／冷却 三模…",
-      "source": "竹本青",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-06-23",
-      "time": "12:12",
-      "publishedAt": "2026-06-23T12:12:44.000Z",
-      "url": "https://www.coolapk.com/feed/72491643",
-      "image": "http://image.coolapk.com/feed/2026/0623/20/4248714_fda50b6d_6754_0692_349@2380x3173.jpg",
-      "summary": "【海备思推出 240W 氮化镓桌面充电站，售价499元】 ▫️4C+2A 六接口设计 ▫️低温／高性能／冷却 三模式 ▫️LED彩屏显示+触控按键 ● 输出（MAX）： C1／C2：140W C3／C4：100W A1／A2：30W ————————————————— 多口输出：240W（仅高性能模式） 六口输出：205W ▫️兼容PD／AVS／PPS／U…",
-      "tags": [
-        "行业",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
       "id": "auto-eb9976d965f7",
       "title": "OnePlus Nord 6 vs Poco X8 Pro: Which Mid-Range Phone Should You Buy in 2026?",
       "source": "Gizmochina",
@@ -417,26 +617,6 @@ window.phoneRadarAuto = {
       "summary": "Huawei is one of the leading smartphone companies in China and every new Mate phone series gets a lot of attention – the current example is the Mate 80 lineup with sales hitting t…",
       "tags": [
         "Huawei",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-0bd925d86f03",
-      "title": "天马“认领”荣耀 X80 Pro Max 屏幕：定制 6.8 寸 1.5K OLED 护眼直屏，局部峰值亮度 10000nits",
-      "source": "IT之家",
-      "brand": "HONOR",
-      "model": "HONOR 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-23",
-      "time": "12:06",
-      "publishedAt": "2026-06-23T12:06:10.000Z",
-      "url": "https://www.ithome.com/0/967/651.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/6/26c4ee11-28ff-4364-a47c-0fc82a8aa46f.png?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 6 月 23 日消息， 荣耀 X80 Pro Max 手机今天发布，天马微电子官方刚刚发文“认领”了该机的屏幕技术。 IT之家从“天马微电子”公众号获悉， 荣耀 X80 Pro Max 搭载天马专属定制 6.8 英寸 1.5K OLED 护眼直屏 ，支持 120Hz 自适应刷新率，覆盖 100% DCI-P3 广色域与 10.7 亿色，采用 1.…",
-      "tags": [
-        "HONOR",
         "爆料",
         "自动抓取"
       ]
@@ -502,26 +682,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "coolapk-user-be8a23dbafbe",
-      "title": "竹本青：天马认领荣耀 X80 Pro Max 屏幕：定制6.8英寸直屏",
-      "source": "竹本青",
-      "brand": "HONOR",
-      "model": "HONOR 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-06-23",
-      "time": "10:48",
-      "publishedAt": "2026-06-23T10:48:09.000Z",
-      "url": "https://www.coolapk.com/feed/72490383",
-      "image": "http://image.coolapk.com/feed/2026/0623/18/4248714_f46dbeb8_1687_0236_564@1790x864.jpg",
-      "summary": "【天马认领荣耀 X80 Pro Max屏幕：定制6.8英寸1.5K OLED直屏】 6月22日，荣耀 X80 Pro Max正式发布，天马作为荣耀长期深度合作伙伴，此次专属定制6.8英寸1.5K OLED护眼直屏。 新机屏幕支持120Hz自适应刷新率，搭配2788×1280分辨率、100% DCI-P3广色域与10.7亿色；1.3mm三边窄边框与94.85…",
-      "tags": [
-        "HONOR",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
       "id": "auto-b6ef4d86b75d",
       "title": "School's out, but I'm getting a head start on back-to-school shopping for my little brother with this Pixel 10 deal I can't miss out on",
       "source": "Android Central",
@@ -562,6 +722,26 @@ window.phoneRadarAuto = {
       ]
     },
     {
+      "id": "weibo-610b92391abb",
+      "title": "数码闲聊站：苹果十周年端出了iPhone X，四等边全面屏+刘海屏设计，改变了未来几年的手…",
+      "source": "数码闲聊站",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-06-23",
+      "time": "09:08",
+      "publishedAt": "2026-06-23T09:08:00.000Z",
+      "url": "https://weibo.com/6048569942/R5sESbkR0",
+      "image": "https://tvax2.sinaimg.cn/mw2000/006BlblIgy1iee4wbnigxj32dc1s0az6.jpg",
+      "summary": "苹果十周年端出了iPhone X，四等边全面屏+刘海屏设计，改变了未来几年的手机设计。 明年苹果二十周年，会有什么样的创新设计？[并不简单]",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "微博"
+      ]
+    },
+    {
       "id": "auto-ce9d698d4f9c",
       "title": "Survey says older Pixel owners are divided on Google’s fancy cloud-based features",
       "source": "Android Authority",
@@ -599,46 +779,6 @@ window.phoneRadarAuto = {
         "Pixel",
         "评测",
         "自动抓取"
-      ]
-    },
-    {
-      "id": "coolapk-user-40fae9d24d55",
-      "title": "竹本青：iPhone 17系列中国区最新销量曝光：突破3433万台",
-      "source": "竹本青",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-06-23",
-      "time": "08:10",
-      "publishedAt": "2026-06-23T08:10:05.000Z",
-      "url": "https://www.coolapk.com/feed/72488063",
-      "image": "http://image.coolapk.com/feed/2026/0623/16/4248714_41fab92c_2203_5796_706@3336x2484.jpg",
-      "summary": "【iPhone 17系列 中国区最新销量曝光：已突破3433万台】 6月23日，博主「RD观测」发布第三方统计数据：截至2026年第24周，iPhone 17系列在中国市场累计销量约3433.98万台。 前几周数据如下： 截至2026 W23 —— 约3320.36万 截至2026 W22 —— 约3232.74万 截至2026 W21 —— 约3148.…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
-      "id": "coolapk-user-e765ab49ce9e",
-      "title": "竹本青：曝华为Mate 80系列销量已超697万台",
-      "source": "竹本青",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-06-23",
-      "time": "08:05",
-      "publishedAt": "2026-06-23T08:05:19.000Z",
-      "url": "https://www.coolapk.com/feed/72487981",
-      "image": "http://image.coolapk.com/feed/2026/0623/16/4248714_5442eca2_1917_8456_244@1439x1824.jpg",
-      "summary": "【曝华为Mate 80系列 销量已超697万台】 6月23日，博主「RD观测」发布第三方统计数据：截至2026年第24周，华为Mate 80系列 累计销量约约697.04万台。 前几周数据如下： 截至2026 W23 —— 约670.56万 截至2026 W22 —— 约649.42万 截至2026 W21 —— 约629.58万 #今日热点# #华为Ma…",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "酷安博主"
       ]
     },
     {
@@ -739,6 +879,26 @@ window.phoneRadarAuto = {
         "Samsung",
         "爆料",
         "自动抓取"
+      ]
+    },
+    {
+      "id": "weibo-ebcd136d41fb",
+      "title": "数码闲聊站：子系中端走量机暂定是7月，主打9K级大容量单电芯+1.5K大直屏+大音量双扬+…",
+      "source": "数码闲聊站",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-06-23",
+      "time": "07:38",
+      "publishedAt": "2026-06-23T07:38:00.000Z",
+      "url": "https://weibo.com/6048569942/R5s4lfC89",
+      "image": "",
+      "summary": "子系中端走量机暂定是7月，主打9K级大容量单电芯+1.5K大直屏+大音量双扬+满级防水抗摔，骁龙6系低功耗芯片，万级大电池要晚一点嗷~",
+      "tags": [
+        "行业",
+        "爆料",
+        "微博"
       ]
     },
     {
@@ -882,363 +1042,43 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-9bbf43c61c96",
-      "title": "Apple announces changes to iOS in Brazil",
-      "source": "Apple Newsroom",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "官方",
-      "trust": "官方确认",
-      "date": "2026-06-23",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.apple.com/newsroom/2026/06/apple-announces-changes-to-ios-in-brazil/",
-      "image": "",
-      "summary": "Apple today announced changes impacting iOS apps in Brazil that reflect a recent agreement with Brazil’s competition regulator, CADE.",
-      "tags": [
-        "iPhone",
-        "官方",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "newsnow-100e557d3cfa",
-      "title": "新机第四天的电池健康度就97%了？这个正常的吗还是？前天还是99%，小米商城的货[喷血]，要不要退货？",
-      "source": "酷安热榜",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
+      "id": "weibo-712e88312f12",
+      "title": "数码闲聊站：一个独家超前瞻，TOP5某厂下代Pro系列双杯工程机都在评估200Mp潜望长焦…",
+      "source": "数码闲聊站",
+      "brand": "行业",
+      "model": "智能手机市场",
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-06-23",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72471618",
+      "time": "02:31",
+      "publishedAt": "2026-06-23T02:31:00.000Z",
+      "url": "https://weibo.com/6048569942/R5q3JlFVl",
       "image": "",
-      "summary": "新机第四天的电池健康度就97%了？这个正常的吗还是？前天还是99%，小米商城的货[喷血]，要不要退货？",
+      "summary": "一个独家超前瞻，TOP5某厂下代Pro系列双杯工程机都在评估200Mp潜望长焦，卷起来了[污]",
       "tags": [
-        "Xiaomi",
+        "行业",
         "爆料",
-        "NewsNow"
+        "微博"
       ]
     },
     {
-      "id": "newsnow-a1fb6b8639b9",
-      "title": "REDMI 17C 上架小米商城：799元起",
-      "source": "酷安热榜",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
+      "id": "weibo-f40dc047c3dc",
+      "title": "数码闲聊站：独家信息：2nm天玑小屏旗舰，目前影像差不多就是50Mp 1/1.28\" LO…",
+      "source": "数码闲聊站",
+      "brand": "行业",
+      "model": "智能手机市场",
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-06-23",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72484484",
+      "time": "01:03",
+      "publishedAt": "2026-06-23T01:03:00.000Z",
+      "url": "https://weibo.com/6048569942/R5pu0CLYl",
       "image": "",
-      "summary": "REDMI 17C 上架小米商城：799元起",
+      "summary": "独家信息，2nm天玑小屏旗舰，目前影像差不多就是50Mp 1/1.28\" LOFIC超大底主摄+50Mp小底超广角+64Mp 85mm新中底潜望长焦，非倒置结构，支持高质量长焦微距……[笑哈哈]",
       "tags": [
-        "Xiaomi",
+        "行业",
         "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-94d2b9a41f12",
-      "title": "端午节出去玩看到路上iPhone的保有量特别大，直观感受就是：",
-      "source": "酷安热榜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-06-23",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72456775",
-      "image": "",
-      "summary": "端午节出去玩看到路上iPhone的保有量特别大，直观感受就是：",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-c4c4f5651bcf",
-      "title": "辞职了兄弟们，工作没了，女朋友分了，之前给她买的骚紫色三星也还给我了，以后可以专心研究三星了[受虐滑稽][受虐滑稽] 看看我的动态，女朋友自用的，成色很新。不能留着了#三星GalaxyS23Ultra# #OneUI8.5#",
-      "source": "酷安热榜",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-06-23",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72492643",
-      "image": "",
-      "summary": "辞职了兄弟们，工作没了，女朋友分了，之前给她买的骚紫色三星也还给我了，以后可以专心研究三星了[受虐滑稽][受虐滑稽] 看看我的动态，女朋友自用的，成色很新。不能留着了#三星GalaxyS23Ultra# #OneUI8.5#",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "auto-6f571fa564ca",
-      "title": "MagSafe Monday: Upgrade your MagSafe travel gear with the new ESR summer collection",
-      "source": "9to5Mac",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-22",
-      "time": "18:13",
-      "publishedAt": "2026-06-22T18:13:00.000Z",
-      "url": "https://9to5mac.com/2026/06/22/upgrade-your-magsafe-travel-gear-with-the-new-esr-summer-collection/",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/05/ESR-Summer-Series-2.jpg?quality=82&strip=all&w=1600",
-      "summary": "I grew up in a time when we outfitted our Nokia phones with awesome faceplates . My local flea market was a great place to get them. MagSafe and iPhone cases are about as close as…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-e789cc1638c3",
-      "title": "OnePlus Nord 6 vs iQOO Neo 10: Which Snapdragon 8s Gen 4 Phone Should You Buy?",
-      "source": "Gizmochina",
-      "brand": "OPPO",
-      "model": "OPPO 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-22",
-      "time": "17:11",
-      "publishedAt": "2026-06-22T17:11:50.000Z",
-      "url": "https://www.gizmochina.com/2026/06/22/oneplus-nord-6-vs-iqoo-neo-10/",
-      "image": "https://www.gizmochina.com/wp-content/uploads/2026/06/image-120-300x183.png?x44794",
-      "summary": "OnePlus Nord 6 and iQOO Neo 10 bring flagship-level performance to the upper mid-range segment, but they take different approaches. While the Nord 6 focuses on battery life, durab…",
-      "tags": [
-        "OPPO",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-70c09d031d78",
-      "title": "I've lost two Oura Rings, but Oura finally added an Android feature that iPhone users have had for years, and this upgraded version has given me peace of mind",
-      "source": "Android Central",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "评测",
-      "trust": "媒体汇总",
-      "date": "2026-06-22",
-      "time": "14:54",
-      "publishedAt": "2026-06-22T14:54:00.000Z",
-      "url": "https://www.androidcentral.com/wearables/oura-ring/oura-ring-locate-feature-android",
-      "image": "https://cdn.mos.cms.futurecdn.net/z7uXiFth8qRS7uGJo93mTf-1280-80.jpg",
-      "summary": "Oura Ring owners on Android missed out on a Find My Ring feature for years, but the new Locate feature is here, and it's a pretty great tool if you're prone to losing things.",
-      "tags": [
-        "iPhone",
-        "评测",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-a83092a5f4b9",
-      "title": "New iPhone 18 Pro leak highlights big upgrade for most popular camera",
-      "source": "9to5Mac",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-22",
-      "time": "14:03",
-      "publishedAt": "2026-06-22T14:03:34.000Z",
-      "url": "https://9to5mac.com/2026/06/22/new-iphone-18-pro-leak-highlights-big-upgrade-for-most-popular-camera/",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/iphone-17-pro-silver-front-back.jpg?quality=82&strip=all&w=1600",
-      "summary": "iPhone 18 Pro is rumored to offer an especially big leap in camera improvements, and a new leak points to the Main camera being a key highlight this year.",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-9c3537bf683b",
-      "title": "Suppliers expect iPhone Ultra to launch in September, despite reported delays",
-      "source": "9to5Mac",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-22",
-      "time": "13:54",
-      "publishedAt": "2026-06-22T13:54:26.000Z",
-      "url": "https://9to5mac.com/2026/06/22/suppliers-expect-iphone-ultra-to-launch-in-september-despite-reported-delays/",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/03/iphone-fold-mockup-purple.jpg?quality=82&strip=all&w=1600",
-      "summary": "Multiple reports had earlier suggested that the iPhone Ultra (or iPhone Fold) launch could be delayed until later in the year or even early 2027. However, supply chain sources hav…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-dc5ef1401163",
-      "title": "Samsung's Privacy Display may not stay exclusive to the Galaxy S26 Ultra for long",
-      "source": "Android Central",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "评测",
-      "trust": "媒体汇总",
-      "date": "2026-06-22",
-      "time": "12:03",
-      "publishedAt": "2026-06-22T12:03:28.000Z",
-      "url": "https://www.androidcentral.com/phones/samsung-galaxy/samsung-s27-pro-might-add-privacy-display",
-      "image": "https://cdn.mos.cms.futurecdn.net/bmBwfAjjnb3SV27iRx2b4G-1280-80.jpg",
-      "summary": "Samsung could bring its Privacy Display tech to the smaller Galaxy S27 'Pro' next year.",
-      "tags": [
-        "Samsung",
-        "评测",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-1d8b8c396242",
-      "title": "OnePlus Nord 6 vs Nothing Phone (4a) Pro: Performance, Camera, and Battery Compared",
-      "source": "Gizmochina",
-      "brand": "OPPO",
-      "model": "OPPO 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-22",
-      "time": "10:30",
-      "publishedAt": "2026-06-22T10:30:28.000Z",
-      "url": "https://www.gizmochina.com/2026/06/22/oneplus-nord-6-vs-nothing-phone-4a-pro/",
-      "image": "https://www.gizmochina.com/wp-content/uploads/2026/06/image-116-300x180.png?x44794",
-      "summary": "OnePlus Nord 6 and Nothing Phone (4a) Pro take two very different approaches to the premium mid-range smartphone market. One focuses on raw performance, massive battery life, and…",
-      "tags": [
-        "OPPO",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-7d81f1cc2793",
-      "title": "Forget OnePlus 15s, compact OnePlus 16T with Snapdragon 8 Elite Gen 6 in works",
-      "source": "Gizmochina",
-      "brand": "OPPO",
-      "model": "OPPO 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-22",
-      "time": "09:37",
-      "publishedAt": "2026-06-22T09:37:24.000Z",
-      "url": "https://www.gizmochina.com/2026/06/22/oneplus-16t-first-details-surface/",
-      "image": "https://www.gizmochina.com/wp-content/uploads/2026/03/OnePlus-15T-300x213.png?x44794",
-      "summary": "Recent reports suggest that OnePlus may have cancelled its plans to launch the OnePlus 15s, a compact flagship smartphone for the Indian market. For the uninitiated, the device wa…",
-      "tags": [
-        "OPPO",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-1984979628ef",
-      "title": "Coolpad Cool 80 debuts with an iPhone-inspired design for ~$120",
-      "source": "Gizmochina",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-22",
-      "time": "05:47",
-      "publishedAt": "2026-06-22T05:47:22.000Z",
-      "url": "https://www.gizmochina.com/2026/06/22/coolpad-cool-80-launched-price-specifications/",
-      "image": "https://www.gizmochina.com/wp-content/uploads/2026/06/Coolpad-Cool-80-231x300.jpg?x44794",
-      "summary": "Coolpad has introduced a new budget smartphone in China called the Coolpad Cool 80. Aimed at entry-level buyers, the device combines a familiar design with a capable chipset and a…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-012be89d0c9d",
-      "title": "Xiaomi 18 Pro series could offer Samsung-like Privacy Display feature",
-      "source": "Gizmochina",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-22",
-      "time": "04:52",
-      "publishedAt": "2026-06-22T04:52:11.000Z",
-      "url": "https://www.gizmochina.com/2026/06/22/xiaomi-18-pro-privacy-display-2k-screen-200mp-camera-leak/",
-      "image": "https://www.gizmochina.com/wp-content/uploads/2025/09/Xiaomi-17-Pro-Max-Review_1.mp4_20250930_164941.855-300x150.jpg?x44794",
-      "summary": "The Xiaomi 18 series is already beginning to surface through leaks months ahead of its expected debut. Recent information from well-known Chinese tipsters points to several upgrad…",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-6e38d95bc745",
-      "title": "This upcoming OnePlus flagship may have been cancelled",
-      "source": "Gizmochina",
-      "brand": "OPPO",
-      "model": "OPPO 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-22",
-      "time": "04:06",
-      "publishedAt": "2026-06-22T04:06:51.000Z",
-      "url": "https://www.gizmochina.com/2026/06/22/oneplus-15s-india-launch-cancelled-leak/",
-      "image": "https://www.gizmochina.com/wp-content/uploads/2026/04/OnePlus-15T-Review_1.mp4_20260402_142241.000-300x150.jpg?x44794",
-      "summary": "Last year, OnePlus launched its first compact flagship, the OnePlus 13T, in China. A tweaked version of the device later arrived in India as the OnePlus 13s. The company appeared…",
-      "tags": [
-        "OPPO",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-47a8407ee995",
-      "title": "苹果计划涨价：欲购 iPhone，必承其贵",
-      "source": "爱范儿",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "评测",
-      "trust": "媒体汇总",
-      "date": "2026-06-22",
-      "time": "03:34",
-      "publishedAt": "2026-06-22T03:34:36.000Z",
-      "url": "https://www.ifanr.com/1669568?utm_source=rss&utm_medium=rss&utm_campaign=",
-      "image": "https://s3.ifanr.com/wp-content/uploads/2026/06/site-banner-3.jpg",
-      "summary": "这是最好的一代，这是最贵的一代",
-      "tags": [
-        "iPhone",
-        "评测",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-1dca4eda528d",
-      "title": "nova 16 Ultra 体验：年轻人的第一台旗舰华为？",
-      "source": "爱范儿",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "评测",
-      "trust": "媒体汇总",
-      "date": "2026-06-22",
-      "time": "01:49",
-      "publishedAt": "2026-06-22T01:49:40.000Z",
-      "url": "https://www.ifanr.com/1669187?utm_source=rss&utm_medium=rss&utm_campaign=",
-      "image": "https://s3.ifanr.com/wp-content/uploads/2026/06/cover2-1024x682.png",
-      "summary": "华为 nova 16 Ultra，是一台谁的手机？",
-      "tags": [
-        "Huawei",
-        "评测",
-        "自动抓取"
+        "微博"
       ]
     }
   ]
