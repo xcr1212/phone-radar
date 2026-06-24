@@ -1,6 +1,26 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-06-24T21:45:34.658Z",
+  "updatedAt": "2026-06-24T23:33:53.171Z",
   "news": [
+    {
+      "id": "auto-197f0f52f8ba",
+      "title": "拿下微软、Meta 订单，高通预测到 2029 年数据中心芯片营收将达 150 亿美元",
+      "source": "IT之家",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-24",
+      "time": "23:33",
+      "publishedAt": "2026-06-24T23:33:19.000Z",
+      "url": "https://www.ithome.com/0/968/229.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/2/b13c6809-2e14-40e9-b149-1293196aad87.png?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 6 月 25 日消息，据路透社报道，高通公司表示，随着业务布局跳出核心智能手机芯片赛道，预计到 2029 年，其数据中心业务营收将达到 150 亿美元（IT之家注：现汇率约合 1020.06 亿元人民币）。受该消息提振，高通股票周三盘后交易涨幅超 12%。 首席财务官阿卡什 · 帕尔希瓦拉在投资者沟通会上称，2027 财年高通数据中心业务营收将达…",
+      "tags": [
+        "行业",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-c57c9c843c21",
       "title": "Google Home’s automation widget is busted on iOS, but a fix is in the works",
@@ -855,6 +875,26 @@ window.phoneRadarAuto = {
       "url": "https://www.coolapk.com/feed/72509986",
       "image": "",
       "summary": "手机真实的物料成本价。",
+      "tags": [
+        "行业",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-b8ab79752a58",
+      "title": "社牛小朋友蹭邻居爷爷手机看视频",
+      "source": "百度热搜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-24",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.baidu.com/s?wd=%E7%A4%BE%E7%89%9B%E5%B0%8F%E6%9C%8B%E5%8F%8B%E8%B9%AD%E9%82%BB%E5%B1%85%E7%88%B7%E7%88%B7%E6%89%8B%E6%9C%BA%E7%9C%8B%E8%A7%86%E9%A2%91",
+      "image": "",
+      "summary": "社牛小朋友蹭邻居爷爷手机看视频",
       "tags": [
         "行业",
         "爆料",
