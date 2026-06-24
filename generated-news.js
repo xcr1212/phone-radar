@@ -1,6 +1,306 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-06-24T12:29:32.213Z",
+  "updatedAt": "2026-06-24T16:32:48.305Z",
   "news": [
+    {
+      "id": "auto-eb5c86e70ed4",
+      "title": "消息称三星 Galaxy Z Flip8 小折叠手机国行、美版机型将搭载骁龙芯片",
+      "source": "IT之家",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-24",
+      "time": "15:25",
+      "publishedAt": "2026-06-24T15:25:44.000Z",
+      "url": "https://www.ithome.com/0/968/209.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/6/0fc8f669-0ce6-45c5-9aaf-35c62d1b71a5.jpg?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 6 月 24 日消息，消息人士 Ice Universe 今天在 X 平台爆料称， 三星 Galaxy Z Flip8 小折叠手机国行、美版机型将回归高通骁龙芯片 ，不使用 Exynos 2600。 作为参考，三星在 Galaxy Z Flip6 之前一直使用高通处理器，并从去年的 Flip7 开始首次为旗下小折叠手机选用 Exynos 芯片。…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-01a143e58305",
+      "title": "Galaxy Z Flip 8 chipset details for China and the US have leaked",
+      "source": "SamMobile",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-24",
+      "time": "15:05",
+      "publishedAt": "2026-06-24T15:05:50.000Z",
+      "url": "https://www.sammobile.com/news/galaxy-z-flip-8-chipset-details-china-usa-have-leaked/",
+      "image": "",
+      "summary": "Samsung’s next flagship smartphone with a clamshell foldable display, the Galaxy Z Flip 8, is expected to feature either the in-house developed Exynos 2600 or Qualcomm’s Snapdrago…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-07bfc954de8a",
+      "title": "iPhone 被盗怎么办？苹果更新官方支持文档，新增防诈骗提醒",
+      "source": "IT之家",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-24",
+      "time": "14:59",
+      "publishedAt": "2026-06-24T14:59:01.000Z",
+      "url": "https://www.ithome.com/0/968/201.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/6/efe4c294-8897-42c8-82bc-be15d55bd7ba.png?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 6 月 24 日消息，苹果今日更新了其官方支持页面，针对 iPhone 被盗的情况给出了更加详细的应对建议。 苹果新增加了一项警告，提醒用户当确认设备是被盗而非遗失时，不要在设备锁屏上显示自己的联系方式，以防被不法分子利用进行社会工程攻击。 苹果指出：“如果你的设备是被盗的，请不要填写你的联系信息。虽然你可能会看到一个输入电话号码或留言告知如何联…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-2c626022a859",
+      "title": "Galaxy Z Fold 8 Ultra may feature a display with significantly higher resolution",
+      "source": "SamMobile",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-24",
+      "time": "14:37",
+      "publishedAt": "2026-06-24T14:37:25.000Z",
+      "url": "https://www.sammobile.com/2026/06/24/galaxy-z-fold-8-ultra-may-feature-display-significantly-higher-resolution/",
+      "image": "",
+      "summary": "Samsung is expected to launch its next lineup of flagship smartphones with foldable displays next month. It is expected to offer three devices: Galaxy Z Fold 8 (Wide), Galaxy Z Fo…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-e2a641f6f657",
+      "title": "iPhone 18 Pro might cost less than expected, per report",
+      "source": "9to5Mac",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-24",
+      "time": "14:37",
+      "publishedAt": "2026-06-24T14:37:21.000Z",
+      "url": "https://9to5mac.com/2026/06/24/iphone-18-pro-might-cost-less-than-expected-per-report/",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/iphone-17-pro-silver-silent-action-button.jpg?quality=82&strip=all&w=1600",
+      "summary": "Apple CEO Tim Cook recently said that “price increases are unavoidable,” but a new analyst report offers good news for prospective iPhone 18 Pro buyers.",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-51f0a496befc",
+      "title": "Galaxy Z Fold 8 wallpapers leak, and I hope the phone’s colors look half as good",
+      "source": "9to5Google",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-24",
+      "time": "14:05",
+      "publishedAt": "2026-06-24T14:05:00.000Z",
+      "url": "https://9to5google.com/2026/06/24/galaxy-z-fold-8-wallpapers-leak-and-i-hope-the-phones-colors-look-half-as-good/",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2025/07/galaxy-z-fold-7-68.jpg?quality=82&strip=all&w=1600",
+      "summary": "A new leak has revealed the alleged wallpapers Samsung is bringing to the Galaxy Z Fold 8, with everything lining up with leaked colors for the actual phone. I just hope the phone…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-8096e49e8e1c",
+      "title": "Foldable iPhone 'Ultra' Set for Production in July Despite Hinge Issues",
+      "source": "MacRumors",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-24",
+      "time": "13:56",
+      "publishedAt": "2026-06-24T13:56:24.000Z",
+      "url": "https://www.macrumors.com/2026/06/24/foldable-iphone-ultra-set-for-production-july/",
+      "image": "https://images.macrumors.com/article-new/2025/08/Apple-Foldable-Thumb.jpg",
+      "summary": "Apple's rumored foldable iPhone \"Ultra\" is expected to begin mass production at the end of July, according to a new report by The Elec . Although some recent reports suggested the…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-49830a884840",
+      "title": "Can’t wait for the Galaxy Z Fold 8? Check out these newly leaked wallpapers",
+      "source": "Android Authority",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-24",
+      "time": "13:53",
+      "publishedAt": "2026-06-24T13:53:58.000Z",
+      "url": "https://www.androidauthority.com/samsung-galaxy-z-fold-8-wallpapers-3680924/",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2025/07/Samsung-Galaxy-Z-Fold-7-inner-display-showing-home-screen.jpg",
+      "summary": "Looks like Samsung is still all about swooping, colorful shapes.",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-d848a2465f6f",
+      "title": "Retroid Pocket Nova chip revealed: This handheld is basically a Galaxy S23 Ultra",
+      "source": "Android Authority",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-24",
+      "time": "13:50",
+      "publishedAt": "2026-06-24T13:50:07.000Z",
+      "url": "https://www.androidauthority.com/retroid-pocket-nova-chip-3680929/",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2026/06/Retroid-Pocket-Nova-device.jpg",
+      "summary": "The Pocket Nova's chipset means it should handle most demanding emulators just fine.",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-6a222c38e7a2",
+      "title": "四种配色，三星 Z Fold 8 折叠屏手机默认壁纸抢先看",
+      "source": "IT之家",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-24",
+      "time": "13:48",
+      "publishedAt": "2026-06-24T13:48:14.000Z",
+      "url": "https://www.ithome.com/0/968/188.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/6/ca46fa2e-f481-4920-a213-d7979c79789d.jpg?x-bce-process=image/resize,w_1080,h_2520/format,f_auto",
+      "summary": "IT之家 6 月 24 日消息，消息人士 Fahad Ali Javed 今天在 X 平台发文，曝光三星 Galaxy Z Fold 8 折叠屏手机的默认壁纸。 从外观来看，这套壁纸延续了三星 Fold 系列历年来的抽象艺术风格，以光影交织和渐变色彩展现折叠屏的形态特征。 IT之家附壁纸图片如下： ▲ 外屏 ▲ 内屏 结合目前传闻，Galaxy Z Fol…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-d809d93324a6",
+      "title": "Redmi K90 Ultra’s real-world gaming scores leave Snapdragon 8 Elite Gen 5 phones behind",
+      "source": "Gizmochina",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-24",
+      "time": "13:28",
+      "publishedAt": "2026-06-24T13:28:26.000Z",
+      "url": "https://www.gizmochina.com/2026/06/24/redmi-k90-ultras-real-world-gaming-scores-leave-snapdragon-8-elite-gen-5-phones-behind/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/06/Redmi-K90-Ultra-Gaming-300x200.jpg?x44794",
+      "summary": "Redmi confirmed the K90 Ultra’s June 30 launch in China just hours ago, and Weibo tipster Digital Chat Station has already published gaming results for the device. The K90 Ultra i…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-cf230272f57d",
+      "title": "iPhone Ultra 3D-printed hinge problems reportedly solved, ready for September launch",
+      "source": "9to5Mac",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-24",
+      "time": "13:05",
+      "publishedAt": "2026-06-24T13:05:08.000Z",
+      "url": "https://9to5mac.com/2026/06/24/iphone-ultra-3d-printed-hinge-problems-reportedly-solved-ready-for-september-launch/",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/03/iphone-fold-mockup-red.jpg?quality=82&strip=all&w=1600",
+      "summary": "Talk of a delayed launch for the upcoming iPhone Ultra now seems to have faded away, with all recent reports pointing to Apple’s foldable being unveiled during the September keyno…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-f27c854fe983",
+      "title": "意法半导体推出全球首款后量子密码移动安全芯片 ST54M，融合 NFC、eSIM 等",
+      "source": "IT之家",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-24",
+      "time": "13:04",
+      "publishedAt": "2026-06-24T13:04:28.000Z",
+      "url": "https://www.ithome.com/0/968/171.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/6/555553cd-1908-4f2e-bbf3-15e7aca69ff4.jpg",
+      "summary": "IT之家 6 月 24 日消息，意法半导体今天宣布推出全球首款后量子密码（PQC）移动安全芯片 ST54M，旨在帮助智能手机和电子设备厂商应对“量子时代”安全需求。 意法半导体表示，业内普遍预计，2030 年前后，后量子密码学将逐渐成为强制性安全要求。因此 ST54M 的推出具有里程碑意义， 可以帮助客户在数年时间内完成产品研发 、 验证和部署 。 硬件方…",
+      "tags": [
+        "行业",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-751475af669c",
+      "title": "Samsung accidentally confirms Galaxy Z Flip 8 chip choice",
+      "source": "Android Authority",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-24",
+      "time": "12:49",
+      "publishedAt": "2026-06-24T12:49:14.000Z",
+      "url": "https://www.androidauthority.com/samsung-galaxy-z-flip-8-fcc-snapdragon-3680839/",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2026/04/Samsung-Galaxy-Z-Flip-8-leaked-renders_2.jpg",
+      "summary": "Samsung just told us which chip will be appearing in the US Galaxy Z Flip 8.",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-4b46e473c75d",
+      "title": "Redmi Note 17, Note 17 Pro Max display, chipset, battery, and primary camera details tipped",
+      "source": "Gizmochina",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-24",
+      "time": "12:45",
+      "publishedAt": "2026-06-24T12:45:06.000Z",
+      "url": "https://www.gizmochina.com/2026/06/24/redmi-note-17-note-17-pro-max-key-specifications-tipped/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2025/08/Redmi-Note-15-Pro-camera-module-300x206.jpg?x44794",
+      "summary": "Redmi recently unveiled the Redmi 17C entry-level smartphone in China. Rumors suggest that the brand is also working on the Note 17 lineup, which may hit the Chinese market from n…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-78b19a4cfd6a",
       "title": "Vivo X500 Pro Max model number revealed, four X500 models reportedly planned for global release",
@@ -102,26 +402,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-603f4d704449",
-      "title": "在续航赛道狂奔：消息称某厂在研发 14000mAh 电池新机，预计归属荣耀旗下",
-      "source": "IT之家",
-      "brand": "HONOR",
-      "model": "HONOR 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-24",
-      "time": "09:28",
-      "publishedAt": "2026-06-24T09:28:33.000Z",
-      "url": "https://www.ithome.com/0/968/074.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/6/1d2c6001-987e-4898-ab80-d41ea3b61251.png",
-      "summary": "IT之家 6 月 24 日消息，博主 @数码闲聊站 今日发文透露， 某厂正在研发 14000mAh 电池新机 ，且该项目已进入 NPI 阶段。这也表明手机厂商正发力续航赛道，在大电池方向狂奔。 从评论区讨论及博主的暗示表情符号来看，这款新机预计归属荣耀旗下， 重量预估在 220g ，但具体是何系列暂不知晓。值得一提的是， 博主还暗示华为也在做主打“超大电池…",
-      "tags": [
-        "HONOR",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-c6493b21d4e2",
       "title": "OnePlus Nord 6 vs OPPO Reno 15: Which Mid-Premium Phone Offers Better Value?",
       "source": "Gizmochina",
@@ -137,46 +417,6 @@ window.phoneRadarAuto = {
       "summary": "The mid-premium smartphone segment is becoming more competitive than ever, and the OnePlus Nord 6 and OPPO Reno 15 are two of the most interesting contenders. One focuses on raw p…",
       "tags": [
         "OPPO",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-ec64ce43c9da",
-      "title": "消息称苹果首款可折叠 iPhone 手机 7 月下旬量产，有望 9 月如期发布",
-      "source": "IT之家",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-24",
-      "time": "08:42",
-      "publishedAt": "2026-06-24T08:42:36.000Z",
-      "url": "https://www.ithome.com/0/968/020.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/6/4658a4b7-8422-4768-9de8-2aa8c5891bce.png?x-bce-process=image/format,f_auto/auto-orient,o_1",
-      "summary": "IT之家 6 月 24 日消息，韩媒 The Elec 今天发布消息称，苹果首款折叠屏 iPhone 将于 7 月底启动量产。在近期因铰链问题一度传出延期消息的背景下，苹果 仍准备按原计划于 9 月发布新机 。 供应链消息称，苹果已经敲定折叠屏 iPhone 的 显示屏、外壳和结构件等主要规格 ，产品也已进入量产准备阶段。首批产品将由 富士康负责生产 。苹…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-017dff2b249a",
-      "title": "小米 REDMI K90 至尊版手机官宣搭载骁龙 8 至尊版处理器，还有 Max 同款风冷散热加持",
-      "source": "IT之家",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-24",
-      "time": "08:24",
-      "publishedAt": "2026-06-24T08:24:34.000Z",
-      "url": "https://www.ithome.com/0/968/004.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/6/a048d75b-9651-418f-94ce-872395ef2dd0.jpg?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 6 月 24 日消息，小米 REDMI 红米手机官方今日宣布， REDMI K90 至尊版定档 6 月 30 日 19:00 发布。 根据官方最新预热，REDMI K90 至尊版手机将提供「太空银」配色，采用银色金属机身设计， 配备 6.83 英寸极窄边 + 大 R 角设计直屏 ，辅以铝合金 CNC 中框、阳极氧化工艺，主打旗舰质感。 小米 RE…",
-      "tags": [
-        "Xiaomi",
         "爆料",
         "自动抓取"
       ]
@@ -202,46 +442,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-b7f15489d738",
-      "title": "三星预热 Galaxy M47 手机：骁龙 6 Gen 3 芯片、6.7 英寸 Super AMOLED 屏幕，6 月 29 日海外发布",
-      "source": "IT之家",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-24",
-      "time": "07:56",
-      "publishedAt": "2026-06-24T07:56:50.000Z",
-      "url": "https://www.ithome.com/0/967/974.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/6/15fdfa63-244f-4045-bb94-f1cf18969bd9.png?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 6 月 24 日消息，三星今天确认 Galaxy M47 手机将于 6 月 29 日在印度发布，新机定位中端，搭载骁龙 6 Gen 3 芯片，售价预计在 25000 印度卢比-30000 印度卢比（IT之家注：现汇率约合 1790 元- 2148 元人民币）之间。 据介绍，这款手机配备一块 6.7 英寸的 Super AMOLED 屏幕， 支持…",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-b13ebbdcae3f",
-      "title": "消息称三星电子 Exynos 2700 芯片开发顺利，目标扩展至 S27 Ultra 机型",
-      "source": "IT之家",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-24",
-      "time": "07:53",
-      "publishedAt": "2026-06-24T07:53:19.000Z",
-      "url": "https://www.ithome.com/0/967/971.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/6/ace9071f-dd17-45d5-b562-0323a15b318b.png?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 6 月 24 日消息，韩媒 the bell 近日报道称，三星电子 DX 部系统 LSI 业务的 Exynos 2700 移动处理器开发进展顺利，这款基于 SF2P 工艺的芯片目标 2026Q4 量产。 报道指出， 三星电子 系统 LSI 业务的目标是让“兄弟单位”DX 部 MX 业务将该芯片应用到 Galaxy S27 系列的 Ultra 机型…",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-2d341c10fd4d",
       "title": "Alleged iQOO Neo 11S’ key specifications tipped, expected to go official soon",
       "source": "Gizmochina",
@@ -257,6 +457,26 @@ window.phoneRadarAuto = {
       "summary": "iQOO is reportedly working on its next affordable flagship, which is believed to be the Neo 11S. A new leak, courtesy of tipster Digital Chat Station, has emerged to reveal key de…",
       "tags": [
         "vivo",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-3dc8b6194833",
+      "title": "All the best Prime Day deals: Pixel 10, Galaxy gear, tech accessories, more [Updated]",
+      "source": "9to5Google",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-24",
+      "time": "07:05",
+      "publishedAt": "2026-06-24T07:05:00.000Z",
+      "url": "https://9to5google.com/2026/06/24/best-prime-day-deals-pixel-galaxy/",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/06/Amazon-Prime-Day_green-2026.png?w=1600",
+      "summary": "The 2026 Amazon Prime Day sale is now flying with a countless number of price drops across just about every product category. We are tracking new all-time lows and up to $400 off…",
+      "tags": [
+        "Samsung",
         "爆料",
         "自动抓取"
       ]
@@ -382,21 +602,21 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-38c4d88f0400",
-      "title": "REDMI K90 至尊版将于6月30日发布：3K档",
+      "id": "newsnow-47aeece4f7a1",
+      "title": "新手机[受虐滑稽]留个尾巴",
       "source": "酷安热榜",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
+      "brand": "行业",
+      "model": "智能手机市场",
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-06-24",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72497788",
+      "url": "https://www.coolapk.com/feed/72502919",
       "image": "",
-      "summary": "REDMI K90 至尊版将于6月30日发布：3K档",
+      "summary": "新手机[受虐滑稽]留个尾巴",
       "tags": [
-        "Xiaomi",
+        "行业",
         "爆料",
         "NewsNow"
       ]
@@ -422,23 +642,23 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-3851a020c059",
-      "title": "Chrome's autofill update makes filling out forms on your phone a breeze",
-      "source": "Android Police",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
+      "id": "newsnow-38c4d88f0400",
+      "title": "REDMI K90 至尊版将于6月30日发布：3K档",
+      "source": "酷安热榜",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
       "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-23",
-      "time": "21:45",
-      "publishedAt": "2026-06-23T21:45:46.000Z",
-      "url": "https://www.androidpolice.com/chrome-android-gets-autofill-upgrade/",
-      "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2024/06/chrome-hero-dark-1.jpg",
-      "summary": "Chrome's biggest autofill upgrade is now on Android and iOS",
+      "trust": "高关注爆料源",
+      "date": "2026-06-24",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/72497788",
+      "image": "",
+      "summary": "REDMI K90 至尊版将于6月30日发布：3K档",
       "tags": [
-        "iPhone",
+        "Xiaomi",
         "爆料",
-        "自动抓取"
+        "NewsNow"
       ]
     },
     {
@@ -457,26 +677,6 @@ window.phoneRadarAuto = {
       "summary": "iPhone 18 Pro is still a few months away from launching, but out of the rumored new features so far, there are three upgrades I’m especially excited about.",
       "tags": [
         "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-068ed995cc4c",
-      "title": "Samsung’s Supergirl promotion lets you win a VIP tour of Warner Bros., 65-inch TV",
-      "source": "SamMobile",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-23",
-      "time": "17:07",
-      "publishedAt": "2026-06-23T17:07:08.000Z",
-      "url": "https://www.sammobile.com/news/samsungs-supergirl-promotion-lets-you-win-a-vip-tour-of-warner-bros-65-inch-tv/",
-      "image": "",
-      "summary": "Warner Bros. Pictures and DC Studios' latest superhero movie Supergirl is set to open on June 24. Samsung has announced a global partnership with these entertainment giants today…",
-      "tags": [
-        "Samsung",
         "爆料",
         "自动抓取"
       ]
@@ -602,26 +802,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-d0186ba62ab5",
-      "title": "Apple's Foldable iPhone Could Lose Almost $1,300 in Value in First Year, Study Suggests",
-      "source": "MacRumors",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-23",
-      "time": "13:08",
-      "publishedAt": "2026-06-23T13:08:20.000Z",
-      "url": "https://www.macrumors.com/2026/06/23/foldable-iphone-could-lose-1300-in-first-year/",
-      "image": "https://images.macrumors.com/article-new/2025/03/Foldable-iPhone-2023-Feature-1.jpg",
-      "summary": "A new resale value study suggests that a $2,000 foldable iPhone could lose as much as $1,292 of its value within its first 12 months on the market, based on current foldable depre…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-19f9061e23a9",
       "title": "Should the iPhone Air 2 have an ultrawide or telephoto as the second camera? [Poll]",
       "source": "9to5Mac",
@@ -637,26 +817,6 @@ window.phoneRadarAuto = {
       "summary": "A report from late last year said that the iPhone Air 2 would be getting a second camera , but it wasn’t clear at the time whether this would be an ultra-wide or telephoto. Bloomb…",
       "tags": [
         "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-270e9a822bc0",
-      "title": "All the best Prime Day deals: Pixel 10, Galaxy gear, tech accessories, more",
-      "source": "9to5Google",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-23",
-      "time": "12:51",
-      "publishedAt": "2026-06-23T12:51:43.000Z",
-      "url": "https://9to5google.com/2026/06/23/best-prime-day-deals-pixel-galaxy/",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/06/Amazon-Prime-Day_green-2026.png?w=1600",
-      "summary": "The 2026 Amazon Prime Day sale is now flying with a countless number of price drops across just about every product category. We are tracking new all-time lows and up to $400 off…",
-      "tags": [
-        "Samsung",
         "爆料",
         "自动抓取"
       ]
@@ -697,26 +857,6 @@ window.phoneRadarAuto = {
       "summary": "OnePlus Nord 6 and Poco X8 Pro bring flagship-inspired features to the upper mid-range segment. From powerful processors and AMOLED displays to massive batteries and fast charging…",
       "tags": [
         "OPPO",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-e9e27e1a2202",
-      "title": "Huawei Mate 80 series shows strong sales performance, hits 7 million",
-      "source": "Huawei Central",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-23",
-      "time": "12:06",
-      "publishedAt": "2026-06-23T12:06:21.000Z",
-      "url": "https://www.huaweicentral.com/huawei-mate-80-series-sales-7-million-units/",
-      "image": "https://www.huaweicentral.com/wp-content/uploads/2026/06/Mate80-sales.jpg",
-      "summary": "Huawei is one of the leading smartphone companies in China and every new Mate phone series gets a lot of attention – the current example is the Mate 80 lineup with sales hitting t…",
-      "tags": [
-        "Huawei",
         "爆料",
         "自动抓取"
       ]
@@ -822,26 +962,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-be53a34d7387",
-      "title": "This might be the only Android phone deal worth your Prime Day budget",
-      "source": "Android Central",
-      "brand": "Pixel",
-      "model": "Pixel 相关机型",
-      "type": "评测",
-      "trust": "媒体汇总",
-      "date": "2026-06-23",
-      "time": "08:15",
-      "publishedAt": "2026-06-23T08:15:00.000Z",
-      "url": "https://www.androidcentral.com/phones/google-pixel/this-might-be-the-only-android-phone-deal-worth-your-prime-day-budget",
-      "image": "https://cdn.mos.cms.futurecdn.net/EyfSs7aN3efo95J6YnRt2a-1280-80.jpg",
-      "summary": "Prime Day is full of bad phone deals. This Pixel 10a deal isn't one of them.",
-      "tags": [
-        "Pixel",
-        "评测",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-7ad3ff5632a8",
       "title": "Alleged Redmi Note 17 series phone with 9,000mAh battery to launch next month",
       "source": "Gizmochina",
@@ -877,46 +997,6 @@ window.phoneRadarAuto = {
       "summary": "A fresh leak adds new detail to the Vivo X500 Pro, one of four models tipped for the upcoming X500 series. According to tipster Digital Chat Station on Weibo, the device will be p…",
       "tags": [
         "vivo",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-5f7a3f45d8f8",
-      "title": "Motorola Edge 70 Max leak reveals renders, Snapdragon 8 Gen 5, magnetic wireless charging",
-      "source": "Gizmochina",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-23",
-      "time": "05:09",
-      "publishedAt": "2026-06-23T05:09:36.000Z",
-      "url": "https://www.gizmochina.com/2026/06/23/motorola-edge-70-max-leaked-renders-specs/",
-      "image": "https://www.gizmochina.com/wp-content/uploads/2026/06/Motorola-Edge-70-Max-charging-300x218.jpg?x44794",
-      "summary": "Motorola’s Edge 70 series could soon gain another member. Leaked renders and details of the Motorola Edge 70 Max have surfaced online, offering an early look at what appears to be…",
-      "tags": [
-        "行业",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-cc3a068af788",
-      "title": "Redmi brings back 4/64GB configuration with the new Redmi 17C",
-      "source": "Gizmochina",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-23",
-      "time": "05:03",
-      "publishedAt": "2026-06-23T05:03:00.000Z",
-      "url": "https://www.gizmochina.com/2026/06/23/redmi-brings-back-4-64gb-configuration-with-the-new-redmi-17c/",
-      "image": "https://www.gizmochina.com/wp-content/uploads/2026/06/Redmi-17C-launch-specs-price-300x200.jpg?x44794",
-      "summary": "Xiaomi has launched the Redmi 17C in China, and the timing says a lot about where budget smartphones are heading. The phone succeeds the Redmi 15C, skipping a generation entirely,…",
-      "tags": [
-        "Xiaomi",
         "爆料",
         "自动抓取"
       ]

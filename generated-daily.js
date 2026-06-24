@@ -1,12 +1,12 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-06-24T12:29:32.213Z",
+  "updatedAt": "2026-06-24T16:32:48.305Z",
   "issueDate": "2026-06-24",
   "issue": "VOL.260624",
   "title": "手机情报日报",
-  "intro": "今日筛出 16 条重点，其中 8 条是重点爆料，包含 8 条 iPhone 相关、2 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 15 条重点，其中 8 条是重点爆料，包含 7 条 iPhone 相关、2 条官方确认、0 条参数线索。",
   "stats": {
-    "total": 16,
-    "iphone": 8,
+    "total": 15,
+    "iphone": 7,
     "leaks": 8,
     "official": 2,
     "specs": 0
@@ -17,30 +17,6 @@ window.phoneRadarDaily = {
       "title": "重点爆料",
       "hint": "机模、配色、影像、屏幕、电池和芯片线索先看。",
       "items": [
-        {
-          "id": "auto-ec64ce43c9da",
-          "title": "消息称苹果首款可折叠 iPhone 手机 7 月下旬量产，有望 9 月如期发布",
-          "originalTitle": "",
-          "source": "IT之家",
-          "brand": "iPhone",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-06-24",
-          "time": "08:42",
-          "publishedAt": "2026-06-24T08:42:36.000Z",
-          "url": "https://www.ithome.com/0/968/020.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/6/4658a4b7-8422-4768-9de8-2aa8c5891bce.png?x-bce-process=image/format,f_auto/auto-orient,o_1",
-          "verdict": "先看",
-          "takeaway": "IT之家 6 月 24 日消息，韩媒 The Elec 今天发布消息称，苹果首款折叠屏 iPhone 将于 7 月底启动量产。在近期因铰链问题一度传出延期消息的背景下，苹果 仍准备按原计划于 9 月发布新机 。 供应链消息称，苹果已经敲定折叠屏 iPhone 的 显示屏、外壳和结构件等主要规格 ，产品也已进入量产准备阶段。首批产品将由 富士康负责生产 。苹…",
-          "detail": "IT之家 6 月 24 日消息，韩媒 The Elec 今天发布消息称，苹果首款折叠屏 iPhone 将于 7 月底启动量产。在近期因铰链问题一度传出延期消息的背景下，苹果 仍准备按原计划于 9 月发布新机 。 供应链消息称，苹果已经敲定折叠屏 iPhone 的 显示屏、外壳和结构件等主要规格 ，产品也已进入量产准备阶段。首批产品将由 富士康负责生产 。苹…",
-          "keyPoints": [
-            "屏幕形态",
-            "爆料来源"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
         {
           "id": "auto-45d748c0b91c",
           "title": "iPhone 18 Pro 影像能力相关消息",
@@ -66,25 +42,70 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
-          "id": "auto-017dff2b249a",
-          "title": "小米 REDMI K90 至尊版手机官宣搭载骁龙 8 至尊版处理器，还有 Max 同款风冷散热加持",
+          "id": "auto-6a222c38e7a2",
+          "title": "四种配色，三星 Z Fold 8 折叠屏手机默认壁纸抢先看",
           "originalTitle": "",
           "source": "IT之家",
-          "brand": "Xiaomi",
+          "brand": "Samsung",
           "type": "爆料",
           "trust": "媒体汇总",
           "date": "2026-06-24",
-          "time": "08:24",
-          "publishedAt": "2026-06-24T08:24:34.000Z",
-          "url": "https://www.ithome.com/0/968/004.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/6/a048d75b-9651-418f-94ce-872395ef2dd0.jpg?x-bce-process=image/format,f_auto",
+          "time": "13:48",
+          "publishedAt": "2026-06-24T13:48:14.000Z",
+          "url": "https://www.ithome.com/0/968/188.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/6/ca46fa2e-f481-4920-a213-d7979c79789d.jpg?x-bce-process=image/resize,w_1080,h_2520/format,f_auto",
           "verdict": "先看",
-          "takeaway": "IT之家 6 月 24 日消息，小米 REDMI 红米手机官方今日宣布， REDMI K90 至尊版定档 6 月 30 日 19:00 发布。 根据官方最新预热，REDMI K90 至尊版手机将提供「太空银」配色，采用银色金属机身设计， 配备 6.83 英寸极窄边 + 大 R 角设计直屏 ，辅以铝合金 CNC 中框、阳极氧化工艺，主打旗舰质感。 小米 RE…",
-          "detail": "IT之家 6 月 24 日消息，小米 REDMI 红米手机官方今日宣布， REDMI K90 至尊版定档 6 月 30 日 19:00 发布。 根据官方最新预热，REDMI K90 至尊版手机将提供「太空银」配色，采用银色金属机身设计， 配备 6.83 英寸极窄边 + 大 R 角设计直屏 ，辅以铝合金 CNC 中框、阳极氧化工艺，主打旗舰质感。 小米 RE…",
+          "takeaway": "IT之家 6 月 24 日消息，消息人士 Fahad Ali Javed 今天在 X 平台发文，曝光三星 Galaxy Z Fold 8 折叠屏手机的默认壁纸。 从外观来看，这套壁纸延续了三星 Fold 系列历年来的抽象艺术风格，以光影交织和渐变色彩展现折叠屏的形态特征。 IT之家附壁纸图片如下： ▲ 外屏 ▲ 内屏 结合目前传闻，Galaxy Z Fol…",
+          "detail": "IT之家 6 月 24 日消息，消息人士 Fahad Ali Javed 今天在 X 平台发文，曝光三星 Galaxy Z Fold 8 折叠屏手机的默认壁纸。 从外观来看，这套壁纸延续了三星 Fold 系列历年来的抽象艺术风格，以光影交织和渐变色彩展现折叠屏的形态特征。 IT之家附壁纸图片如下： ▲ 外屏 ▲ 内屏 结合目前传闻，Galaxy Z Fol…",
           "keyPoints": [
             "外观 / 配色 / 尺寸",
-            "屏幕形态",
-            "芯片 / 性能"
+            "屏幕形态"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "auto-8096e49e8e1c",
+          "title": "iPhone 折叠屏相关消息",
+          "originalTitle": "",
+          "source": "MacRumors",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-06-24",
+          "time": "13:56",
+          "publishedAt": "2026-06-24T13:56:24.000Z",
+          "url": "https://www.macrumors.com/2026/06/24/foldable-iphone-ultra-set-for-production-july/",
+          "image": "https://images.macrumors.com/article-new/2025/08/Apple-Foldable-Thumb.jpg",
+          "verdict": "先看",
+          "takeaway": "iPhone 折叠屏相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
+          "detail": "iPhone 折叠屏相关消息。重点看折痕、铰链、厚度、屏幕可靠性和重量是否有实质改善。",
+          "keyPoints": [
+            "爆料来源"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "auto-cf230272f57d",
+          "title": "iPhone 发布 / 上市相关消息",
+          "originalTitle": "",
+          "source": "9to5Mac",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-06-24",
+          "time": "13:05",
+          "publishedAt": "2026-06-24T13:05:08.000Z",
+          "url": "https://9to5mac.com/2026/06/24/iphone-ultra-3d-printed-hinge-problems-reportedly-solved-ready-for-september-launch/",
+          "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/03/iphone-fold-mockup-red.jpg?quality=82&strip=all&w=1600",
+          "verdict": "先看",
+          "takeaway": "iPhone 有发布或新功能消息，适合确认是否和新机有关。",
+          "detail": "iPhone 发布 / 上市相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
+          "keyPoints": [
+            "爆料"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
@@ -114,74 +135,26 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
-          "id": "auto-d0186ba62ab5",
-          "title": "iPhone 折叠屏相关消息",
-          "originalTitle": "",
-          "source": "MacRumors",
-          "brand": "iPhone",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-06-23",
-          "time": "13:08",
-          "publishedAt": "2026-06-23T13:08:20.000Z",
-          "url": "https://www.macrumors.com/2026/06/23/foldable-iphone-could-lose-1300-in-first-year/",
-          "image": "https://images.macrumors.com/article-new/2025/03/Foldable-iPhone-2023-Feature-1.jpg",
-          "verdict": "先看",
-          "takeaway": "iPhone 折叠屏相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
-          "detail": "iPhone 折叠屏相关消息。重点看折痕、铰链、厚度、屏幕可靠性和重量是否有实质改善。",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "auto-603f4d704449",
-          "title": "在续航赛道狂奔：消息称某厂在研发 14000mAh 电池新机，预计归属荣耀旗下",
-          "originalTitle": "",
-          "source": "IT之家",
-          "brand": "HONOR",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-06-24",
-          "time": "09:28",
-          "publishedAt": "2026-06-24T09:28:33.000Z",
-          "url": "https://www.ithome.com/0/968/074.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/6/1d2c6001-987e-4898-ab80-d41ea3b61251.png",
-          "verdict": "先看",
-          "takeaway": "IT之家 6 月 24 日消息，博主 @数码闲聊站 今日发文透露， 某厂正在研发 14000mAh 电池新机 ，且该项目已进入 NPI 阶段。这也表明手机厂商正发力续航赛道，在大电池方向狂奔。 从评论区讨论及博主的暗示表情符号来看，这款新机预计归属荣耀旗下， 重量预估在 220g ，但具体是何系列暂不知晓。值得一提的是， 博主还暗示华为也在做主打“超大电池…",
-          "detail": "IT之家 6 月 24 日消息，博主 @数码闲聊站 今日发文透露， 某厂正在研发 14000mAh 电池新机 ，且该项目已进入 NPI 阶段。这也表明手机厂商正发力续航赛道，在大电池方向狂奔。 从评论区讨论及博主的暗示表情符号来看，这款新机预计归属荣耀旗下， 重量预估在 220g ，但具体是何系列暂不知晓。值得一提的是， 博主还暗示华为也在做主打“超大电池…",
-          "keyPoints": [
-            "电池 / 充电",
-            "爆料来源"
-          ],
-          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "auto-b7f15489d738",
-          "title": "三星预热 Galaxy M47 手机：骁龙 6 Gen 3 芯片、6.7 英寸 Super AMOLED 屏幕，6 月 29 日海外发布",
+          "id": "auto-eb5c86e70ed4",
+          "title": "消息称三星 Galaxy Z Flip8 小折叠手机国行、美版机型将搭载骁龙芯片",
           "originalTitle": "",
           "source": "IT之家",
           "brand": "Samsung",
           "type": "爆料",
           "trust": "媒体汇总",
           "date": "2026-06-24",
-          "time": "07:56",
-          "publishedAt": "2026-06-24T07:56:50.000Z",
-          "url": "https://www.ithome.com/0/967/974.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/6/15fdfa63-244f-4045-bb94-f1cf18969bd9.png?x-bce-process=image/format,f_auto",
+          "time": "15:25",
+          "publishedAt": "2026-06-24T15:25:44.000Z",
+          "url": "https://www.ithome.com/0/968/209.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/6/0fc8f669-0ce6-45c5-9aaf-35c62d1b71a5.jpg?x-bce-process=image/format,f_auto",
           "verdict": "先看",
-          "takeaway": "IT之家 6 月 24 日消息，三星今天确认 Galaxy M47 手机将于 6 月 29 日在印度发布，新机定位中端，搭载骁龙 6 Gen 3 芯片，售价预计在 25000 印度卢比-30000 印度卢比（IT之家注：现汇率约合 1790 元- 2148 元人民币）之间。 据介绍，这款手机配备一块 6.7 英寸的 Super AMOLED 屏幕， 支持…",
-          "detail": "IT之家 6 月 24 日消息，三星今天确认 Galaxy M47 手机将于 6 月 29 日在印度发布，新机定位中端，搭载骁龙 6 Gen 3 芯片，售价预计在 25000 印度卢比-30000 印度卢比（IT之家注：现汇率约合 1790 元- 2148 元人民币）之间。 据介绍，这款手机配备一块 6.7 英寸的 Super AMOLED 屏幕， 支持…",
+          "takeaway": "IT之家 6 月 24 日消息，消息人士 Ice Universe 今天在 X 平台爆料称， 三星 Galaxy Z Flip8 小折叠手机国行、美版机型将回归高通骁龙芯片 ，不使用 Exynos 2600。 作为参考，三星在 Galaxy Z Flip6 之前一直使用高通处理器，并从去年的 Flip7 开始首次为旗下小折叠手机选用 Exynos 芯片。…",
+          "detail": "IT之家 6 月 24 日消息，消息人士 Ice Universe 今天在 X 平台爆料称， 三星 Galaxy Z Flip8 小折叠手机国行、美版机型将回归高通骁龙芯片 ，不使用 Exynos 2600。 作为参考，三星在 Galaxy Z Flip6 之前一直使用高通处理器，并从去年的 Flip7 开始首次为旗下小折叠手机选用 Exynos 芯片。…",
           "keyPoints": [
-            "屏幕形态",
             "芯片 / 性能",
-            "成本 / 价格"
+            "爆料来源"
           ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
@@ -207,6 +180,31 @@ window.phoneRadarDaily = {
           "confidence": "可信度较高，但仍属于发布前线索。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "coolapk-user-7b5b0ebf042d",
+          "title": "竹本青：iQOO 性能新机曝光：天玑9500降频版+2K大直屏",
+          "originalTitle": "",
+          "source": "竹本青",
+          "brand": "vivo",
+          "type": "爆料",
+          "trust": "高可信爆料",
+          "date": "2026-06-24",
+          "time": "02:44",
+          "publishedAt": "2026-06-24T02:44:29.000Z",
+          "url": "https://www.coolapk.com/feed/72499119",
+          "image": "http://image.coolapk.com/feed/2026/0624/10/4248714_3e0f5ecf_9068_1741_702@1439x444.jpg",
+          "verdict": "先看",
+          "takeaway": "【iQOO 性能新机曝光：天玑9500降频版+2K大直屏，预计归属Neo11系列】 ▫️2K 144Hz大直屏 ▫️天玑9500降频版 ▫️8开头单芯电池 ▫️3D超声波指纹 ▫️IP68/69防尘防水 博主爆料称，该机将挑战更低价位段，如果不砍，暂定暑假登场。 #今日热点# #OriginOS6# #iQOONeo11#",
+          "detail": "【iQOO 性能新机曝光：天玑9500降频版+2K大直屏，预计归属Neo11系列】 ▫️2K 144Hz大直屏 ▫️天玑9500降频版 ▫️8开头单芯电池 ▫️3D超声波指纹 ▫️IP68/69防尘防水 博主爆料称，该机将挑战更低价位段，如果不砍，暂定暑假登场。 #今日热点# #OriginOS6# #iQOONeo11#",
+          "keyPoints": [
+            "屏幕形态",
+            "电池 / 充电",
+            "爆料来源"
+          ],
+          "confidence": "可信度较高，但仍属于发布前线索。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         }
       ]
     },
@@ -215,6 +213,29 @@ window.phoneRadarDaily = {
       "title": "iPhone 重点",
       "hint": "不是硬件爆料，但和 iPhone 体验或路线有关。",
       "items": [
+        {
+          "id": "auto-07bfc954de8a",
+          "title": "iPhone 被盗怎么办？苹果更新官方支持文档，新增防诈骗提醒",
+          "originalTitle": "",
+          "source": "IT之家",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-06-24",
+          "time": "14:59",
+          "publishedAt": "2026-06-24T14:59:01.000Z",
+          "url": "https://www.ithome.com/0/968/201.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/6/efe4c294-8897-42c8-82bc-be15d55bd7ba.png?x-bce-process=image/format,f_auto",
+          "verdict": "先看",
+          "takeaway": "IT之家 6 月 24 日消息，苹果今日更新了其官方支持页面，针对 iPhone 被盗的情况给出了更加详细的应对建议。 苹果新增加了一项警告，提醒用户当确认设备是被盗而非遗失时，不要在设备锁屏上显示自己的联系方式，以防被不法分子利用进行社会工程攻击。 苹果指出：“如果你的设备是被盗的，请不要填写你的联系信息。虽然你可能会看到一个输入电话号码或留言告知如何联…",
+          "detail": "IT之家 6 月 24 日消息，苹果今日更新了其官方支持页面，针对 iPhone 被盗的情况给出了更加详细的应对建议。 苹果新增加了一项警告，提醒用户当确认设备是被盗而非遗失时，不要在设备锁屏上显示自己的联系方式，以防被不法分子利用进行社会工程攻击。 苹果指出：“如果你的设备是被盗的，请不要填写你的联系信息。虽然你可能会看到一个输入电话号码或留言告知如何联…",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "中文源可以直接点开快读；看完只保留和购机有关的点。"
+        },
         {
           "id": "auto-9bbf43c61c96",
           "title": "iPhone 系统功能 / AI 体验相关消息",
@@ -239,70 +260,22 @@ window.phoneRadarDaily = {
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         },
         {
-          "id": "auto-eb31340203ac",
-          "title": "iPhone 价格 / 成本相关消息",
-          "originalTitle": "",
-          "source": "Android Central",
-          "brand": "iPhone",
-          "type": "评测",
-          "trust": "媒体汇总",
-          "date": "2026-06-23",
-          "time": "15:43",
-          "publishedAt": "2026-06-23T15:43:45.000Z",
-          "url": "https://www.androidcentral.com/phones/nothing-phones/nothing-phone-4a-pro-prime-day-2026-deal",
-          "image": "https://cdn.mos.cms.futurecdn.net/qeWbGE9fH2MRQL4aP9snAY-1280-80.jpg",
-          "verdict": "扫一眼",
-          "takeaway": "iPhone 价格 / 成本相关消息。如果涉及订阅、售价或硬件成本，才需要进一步看细节。",
-          "detail": "iPhone 价格 / 成本相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
-          "keyPoints": [
-            "成本 / 价格"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是实际体验内容，买前适合重点看缺点和取舍。",
-          "action": "有具体参数就记录到参数库；没有参数就先收藏。"
-        },
-        {
-          "id": "auto-396500d762c0",
-          "title": "iPhone 影像能力相关消息",
+          "id": "auto-e2a641f6f657",
+          "title": "iPhone 18 Pro 价格 / 成本相关消息",
           "originalTitle": "",
           "source": "9to5Mac",
           "brand": "iPhone",
           "type": "爆料",
           "trust": "媒体汇总",
-          "date": "2026-06-23",
-          "time": "14:38",
-          "publishedAt": "2026-06-23T14:38:16.000Z",
-          "url": "https://9to5mac.com/2026/06/23/hands-on-this-case-adds-a-customizable-e-ink-display-to-your-iphone-video/",
-          "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/Extrem-e-ink.jpg?quality=82&strip=all&w=1600",
+          "date": "2026-06-24",
+          "time": "14:37",
+          "publishedAt": "2026-06-24T14:37:21.000Z",
+          "url": "https://9to5mac.com/2026/06/24/iphone-18-pro-might-cost-less-than-expected-per-report/",
+          "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/iphone-17-pro-silver-silent-action-button.jpg?quality=82&strip=all&w=1600",
           "verdict": "扫一眼",
-          "takeaway": "iPhone 影像能力相关宣传或案例，主要看是否透露拍摄能力变化。",
-          "detail": "iPhone 影像能力相关消息。重点看影像功能是否和新机硬件有关，如果只是拍摄案例或营销内容，参考价值会低一些。",
+          "takeaway": "iPhone 18 Pro 价格 / 成本相关消息。如果涉及订阅、售价或硬件成本，才需要进一步看细节。",
+          "detail": "iPhone 18 Pro 价格 / 成本相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
           "keyPoints": [
-            "影像硬件",
-            "屏幕形态"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "影响拍照体验，买旗舰机时值得关注。",
-          "action": "有具体参数就记录到参数库；没有参数就先收藏。"
-        },
-        {
-          "id": "auto-0edb1537fa80",
-          "title": "iPhone 17 Pro 价格 / 成本相关消息",
-          "originalTitle": "",
-          "source": "Gizmochina",
-          "brand": "iPhone",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-06-23",
-          "time": "11:35",
-          "publishedAt": "2026-06-23T11:35:58.000Z",
-          "url": "https://www.gizmochina.com/2026/06/23/top-5-alternatives-to-the-iphone-17-pro/",
-          "image": "https://www.gizmochina.com/wp-content/uploads/2026/04/Oppo-Find-X9-Ultra-300x169.png?x44794",
-          "verdict": "扫一眼",
-          "takeaway": "iPhone 17 Pro 价格 / 成本相关消息。如果涉及订阅、售价或硬件成本，才需要进一步看细节。",
-          "detail": "iPhone 17 Pro 价格 / 成本相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
-          "keyPoints": [
-            "芯片 / 性能",
             "成本 / 价格"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
@@ -370,6 +343,29 @@ window.phoneRadarDaily = {
       "hint": "看方向，不急着当购买依据。",
       "items": [
         {
+          "id": "newsnow-47aeece4f7a1",
+          "title": "新手机[受虐滑稽]留个尾巴",
+          "originalTitle": "",
+          "source": "酷安热榜",
+          "brand": "行业",
+          "type": "爆料",
+          "trust": "高关注爆料源",
+          "date": "2026-06-24",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://www.coolapk.com/feed/72502919",
+          "image": "",
+          "verdict": "扫一眼",
+          "takeaway": "新手机[受虐滑稽]留个尾巴",
+          "detail": "新手机[受虐滑稽]留个尾巴",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        },
+        {
           "id": "newsnow-96d4002884a1",
           "title": "iQOO 15系列开启第二轮涨价：标准版4999元起",
           "originalTitle": "",
@@ -391,31 +387,6 @@ window.phoneRadarDaily = {
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "影响购买预算，值得先看。",
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
-        {
-          "id": "auto-7944a8623ec1",
-          "title": "OnePlus Nord 6 对比 OnePlus Nord 5：差异整理",
-          "originalTitle": "",
-          "source": "Gizmochina",
-          "brand": "OPPO",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-06-24",
-          "time": "11:19",
-          "publishedAt": "2026-06-24T11:19:58.000Z",
-          "url": "https://www.gizmochina.com/2026/06/24/oneplus-nord-6-vs-oneplus-nord-5/",
-          "image": "https://www.gizmochina.com/wp-content/uploads/2026/06/image-129-300x192.png?x44794",
-          "verdict": "可略过",
-          "takeaway": "OnePlus Nord 6 对比 OnePlus Nord 5：重点看定位、配置差异和价格差，判断是否值得等更高端型号。",
-          "detail": "OnePlus Nord 6 对比 OnePlus Nord 5 的差异整理。重点看两款机型的定位、影像规格、屏幕尺寸、价格区间和发布时间是否拉开差距。",
-          "keyPoints": [
-            "屏幕形态",
-            "电池 / 充电",
-            "芯片 / 性能"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "影响性能和寿命判断，适合放进参数库。",
-          "action": "有具体参数就记录到参数库；没有参数就先收藏。"
         }
       ]
     }
