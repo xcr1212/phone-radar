@@ -1,6 +1,26 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-06-24T20:06:42.653Z",
+  "updatedAt": "2026-06-24T21:45:34.658Z",
   "news": [
+    {
+      "id": "auto-c57c9c843c21",
+      "title": "Google Home’s automation widget is busted on iOS, but a fix is in the works",
+      "source": "Android Authority",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-24",
+      "time": "20:08",
+      "publishedAt": "2026-06-24T20:08:56.000Z",
+      "url": "https://www.androidauthority.com/google-home-ios-widget-failing-3681108/",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2024/07/google-home-homescreen-widget-favorites-scaled.jpg",
+      "summary": "It doesn't seem like the issue is affecting Android users.",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-ad2332b786c7",
       "title": "iPhone 17 set to break a record no flagship has touched in 15 years",
@@ -57,6 +77,26 @@ window.phoneRadarAuto = {
       "summary": "The hinge issues have reportedly been fixed, and the iPhone Ultra is about to enter mass production.",
       "tags": [
         "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-2c9e30f2d533",
+      "title": "Google's Pixel 10 Pro gets a huge $315 price cut for Prime Day",
+      "source": "Android Police",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-24",
+      "time": "17:16",
+      "publishedAt": "2026-06-24T17:16:12.000Z",
+      "url": "https://www.androidpolice.com/prime-day-brings-the-pixel-10-pro-to-an-all-time-low/",
+      "image": "",
+      "summary": "Falling to its lowest price ever",
+      "tags": [
+        "Pixel",
         "爆料",
         "自动抓取"
       ]
@@ -702,26 +742,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-47aeece4f7a1",
-      "title": "新手机[受虐滑稽]留个尾巴",
-      "source": "酷安热榜",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-06-24",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72502919",
-      "image": "",
-      "summary": "新手机[受虐滑稽]留个尾巴",
-      "tags": [
-        "行业",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
       "id": "newsnow-9419527a584e",
       "title": "目前为止只有三个手机最值得买，性价比最高。",
       "source": "酷安热榜",
@@ -735,6 +755,26 @@ window.phoneRadarAuto = {
       "url": "https://www.coolapk.com/feed/72506336",
       "image": "",
       "summary": "目前为止只有三个手机最值得买，性价比最高。",
+      "tags": [
+        "行业",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-47aeece4f7a1",
+      "title": "新手机[受虐滑稽]留个尾巴",
+      "source": "酷安热榜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-06-24",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/72502919",
+      "image": "",
+      "summary": "新手机[受虐滑稽]留个尾巴",
       "tags": [
         "行业",
         "爆料",

@@ -1,5 +1,5 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-06-24T20:06:42.653Z",
+  "updatedAt": "2026-06-24T21:45:34.658Z",
   "issueDate": "2026-06-24",
   "issue": "VOL.260624",
   "title": "手机情报日报",
@@ -318,8 +318,8 @@ window.phoneRadarDaily = {
       "hint": "看方向，不急着当购买依据。",
       "items": [
         {
-          "id": "newsnow-47aeece4f7a1",
-          "title": "新手机[受虐滑稽]留个尾巴",
+          "id": "newsnow-9419527a584e",
+          "title": "目前为止只有三个手机最值得买，性价比最高。",
           "originalTitle": "",
           "source": "酷安热榜",
           "brand": "行业",
@@ -328,11 +328,11 @@ window.phoneRadarDaily = {
           "date": "2026-06-24",
           "time": "",
           "publishedAt": "",
-          "url": "https://www.coolapk.com/feed/72502919",
+          "url": "https://www.coolapk.com/feed/72506336",
           "image": "",
           "verdict": "扫一眼",
-          "takeaway": "新手机[受虐滑稽]留个尾巴",
-          "detail": "新手机[受虐滑稽]留个尾巴",
+          "takeaway": "目前为止只有三个手机最值得买，性价比最高。",
+          "detail": "目前为止只有三个手机最值得买，性价比最高。",
           "keyPoints": [
             "爆料"
           ],
