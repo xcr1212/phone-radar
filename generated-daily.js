@@ -1,12 +1,12 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-06-24T16:32:48.305Z",
+  "updatedAt": "2026-06-24T20:06:42.653Z",
   "issueDate": "2026-06-24",
   "issue": "VOL.260624",
   "title": "手机情报日报",
-  "intro": "今日筛出 15 条重点，其中 8 条是重点爆料，包含 7 条 iPhone 相关、2 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 13 条重点，其中 8 条是重点爆料，包含 6 条 iPhone 相关、2 条官方确认、0 条参数线索。",
   "stats": {
-    "total": 15,
-    "iphone": 7,
+    "total": 13,
+    "iphone": 6,
     "leaks": 8,
     "official": 2,
     "specs": 0
@@ -66,23 +66,23 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
-          "id": "auto-8096e49e8e1c",
+          "id": "auto-e3adcd703d21",
           "title": "iPhone 折叠屏相关消息",
           "originalTitle": "",
-          "source": "MacRumors",
+          "source": "Android Authority",
           "brand": "iPhone",
           "type": "爆料",
           "trust": "媒体汇总",
           "date": "2026-06-24",
-          "time": "13:56",
-          "publishedAt": "2026-06-24T13:56:24.000Z",
-          "url": "https://www.macrumors.com/2026/06/24/foldable-iphone-ultra-set-for-production-july/",
-          "image": "https://images.macrumors.com/article-new/2025/08/Apple-Foldable-Thumb.jpg",
+          "time": "17:27",
+          "publishedAt": "2026-06-24T17:27:14.000Z",
+          "url": "https://www.androidauthority.com/foldable-iphone-ultra-mass-production-3680994/",
+          "image": "https://www.androidauthority.com/wp-content/uploads/2026/06/iPhone-Ultra-in-two-colors.jpg",
           "verdict": "先看",
-          "takeaway": "iPhone 折叠屏相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
+          "takeaway": "iPhone 有发布或新功能消息，适合确认是否和新机有关。",
           "detail": "iPhone 折叠屏相关消息。重点看折痕、铰链、厚度、屏幕可靠性和重量是否有实质改善。",
           "keyPoints": [
-            "爆料来源"
+            "爆料"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
@@ -159,6 +159,29 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
+          "id": "coolapk-user-ef67ddea0a0e",
+          "title": "竹本青：【小米服务：14 Ultra暂无“电池升级服务”上线计划】 小米服务昨日发布说明，确认小米14、小米14 Pro支…",
+          "originalTitle": "",
+          "source": "竹本青",
+          "brand": "Xiaomi",
+          "type": "爆料",
+          "trust": "高可信爆料",
+          "date": "2026-06-24",
+          "time": "16:40",
+          "publishedAt": "2026-06-24T16:40:34.000Z",
+          "url": "https://www.coolapk.com/feed/72510714",
+          "image": "http://image.coolapk.com/feed/2026/0625/00/4248714_f5caaa60_9232_2836_823@1438x1536.jpg",
+          "verdict": "先看",
+          "takeaway": "【小米服务：14 Ultra暂无“电池升级服务”上线计划】 小米服务昨日发布说明，确认小米14、小米14 Pro支持电池升级服务，预计于今年第4季度正式上线。 针对小米14 Ultra，官方表示，该机标配小米首款金沙江电池，拥有超高能量密度，暂无计划上线；标配电池将在7月服务周提供8折活动。 #今日热点# #HyperOS3# #小米14Ultra#",
+          "detail": "【小米服务：14 Ultra暂无“电池升级服务”上线计划】 小米服务昨日发布说明，确认小米14、小米14 Pro支持电池升级服务，预计于今年第4季度正式上线。 针对小米14 Ultra，官方表示，该机标配小米首款金沙江电池，拥有超高能量密度，暂无计划上线；标配电池将在7月服务周提供8折活动。 #今日热点# #HyperOS3# #小米14Ultra#",
+          "keyPoints": [
+            "电池 / 充电"
+          ],
+          "confidence": "可信度较高，但仍属于发布前线索。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
           "id": "coolapk-user-62ef84566aec",
           "title": "竹本青：【小米服务：小米14、小米14 Pro预计今年Q4上线电池升级服务】 小米服务今日发文，就电池升级服务进行介绍，并…",
           "originalTitle": "",
@@ -176,31 +199,6 @@ window.phoneRadarDaily = {
           "detail": "【小米服务：小米14、小米14 Pro预计今年Q4上线电池升级服务】 小米服务今日发文，就电池升级服务进行介绍，并透露小米14、小米14 Pro 预计今年第四季度支持该服务。 据介绍，普通电池换新，是更换同规格新电池，帮助手机恢复原有续航状态。电池升级服务，则是在官方适配基础上，更换容量更大的新电池，让老机型获得更进一步的续航提升。 目前，小米13系列已率…",
           "keyPoints": [
             "电池 / 充电"
-          ],
-          "confidence": "可信度较高，但仍属于发布前线索。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "coolapk-user-7b5b0ebf042d",
-          "title": "竹本青：iQOO 性能新机曝光：天玑9500降频版+2K大直屏",
-          "originalTitle": "",
-          "source": "竹本青",
-          "brand": "vivo",
-          "type": "爆料",
-          "trust": "高可信爆料",
-          "date": "2026-06-24",
-          "time": "02:44",
-          "publishedAt": "2026-06-24T02:44:29.000Z",
-          "url": "https://www.coolapk.com/feed/72499119",
-          "image": "http://image.coolapk.com/feed/2026/0624/10/4248714_3e0f5ecf_9068_1741_702@1439x444.jpg",
-          "verdict": "先看",
-          "takeaway": "【iQOO 性能新机曝光：天玑9500降频版+2K大直屏，预计归属Neo11系列】 ▫️2K 144Hz大直屏 ▫️天玑9500降频版 ▫️8开头单芯电池 ▫️3D超声波指纹 ▫️IP68/69防尘防水 博主爆料称，该机将挑战更低价位段，如果不砍，暂定暑假登场。 #今日热点# #OriginOS6# #iQOONeo11#",
-          "detail": "【iQOO 性能新机曝光：天玑9500降频版+2K大直屏，预计归属Neo11系列】 ▫️2K 144Hz大直屏 ▫️天玑9500降频版 ▫️8开头单芯电池 ▫️3D超声波指纹 ▫️IP68/69防尘防水 博主爆料称，该机将挑战更低价位段，如果不砍，暂定暑假登场。 #今日热点# #OriginOS6# #iQOONeo11#",
-          "keyPoints": [
-            "屏幕形态",
-            "电池 / 充电",
-            "爆料来源"
           ],
           "confidence": "可信度较高，但仍属于发布前线索。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
@@ -258,29 +256,6 @@ window.phoneRadarDaily = {
           "confidence": "官方内容，可直接作为已确认信息记录。",
           "impact": "可信度高，但如果不是配置/价格消息，只需要扫一眼。",
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
-        {
-          "id": "auto-e2a641f6f657",
-          "title": "iPhone 18 Pro 价格 / 成本相关消息",
-          "originalTitle": "",
-          "source": "9to5Mac",
-          "brand": "iPhone",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-06-24",
-          "time": "14:37",
-          "publishedAt": "2026-06-24T14:37:21.000Z",
-          "url": "https://9to5mac.com/2026/06/24/iphone-18-pro-might-cost-less-than-expected-per-report/",
-          "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/iphone-17-pro-silver-silent-action-button.jpg?quality=82&strip=all&w=1600",
-          "verdict": "扫一眼",
-          "takeaway": "iPhone 18 Pro 价格 / 成本相关消息。如果涉及订阅、售价或硬件成本，才需要进一步看细节。",
-          "detail": "iPhone 18 Pro 价格 / 成本相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
-          "keyPoints": [
-            "成本 / 价格"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "影响购买预算，值得先看。",
-          "action": "有具体参数就记录到参数库；没有参数就先收藏。"
         }
       ]
     },
@@ -363,29 +338,6 @@ window.phoneRadarDaily = {
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
-        {
-          "id": "newsnow-96d4002884a1",
-          "title": "iQOO 15系列开启第二轮涨价：标准版4999元起",
-          "originalTitle": "",
-          "source": "酷安热榜",
-          "brand": "vivo",
-          "type": "爆料",
-          "trust": "高关注爆料源",
-          "date": "2026-06-24",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://www.coolapk.com/feed/72501064",
-          "image": "",
-          "verdict": "扫一眼",
-          "takeaway": "iQOO 15系列开启第二轮涨价：标准版4999元起",
-          "detail": "iQOO 15系列开启第二轮涨价：标准版4999元起",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "影响购买预算，值得先看。",
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         }
       ]

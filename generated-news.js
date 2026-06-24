@@ -1,6 +1,106 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-06-24T16:32:48.305Z",
+  "updatedAt": "2026-06-24T20:06:42.653Z",
   "news": [
+    {
+      "id": "auto-ad2332b786c7",
+      "title": "iPhone 17 set to break a record no flagship has touched in 15 years",
+      "source": "9to5Mac",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-24",
+      "time": "19:28",
+      "publishedAt": "2026-06-24T19:28:19.000Z",
+      "url": "https://9to5mac.com/2026/06/24/iphone-17-availability/",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2019/12/iPhone-4.png?w=1600",
+      "summary": "When Apple released the iPhone 17 in September, the timer started for the new flagship model breaking a record set 15 years ago. The record will take more than a year to break, bu…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-45aa37e43580",
+      "title": "The Samsung Galaxy Z Fold 8 Ultra could deliver a ‘significant’ display upgrade",
+      "source": "Android Authority",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-24",
+      "time": "17:35",
+      "publishedAt": "2026-06-24T17:35:47.000Z",
+      "url": "https://www.androidauthority.com/samsung-galaxy-z-fold-8-ultra-display-3681060/",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2025/08/Samsung-Galaxy-Z-Fold-7-pokemon-go.jpg",
+      "summary": "So many pixels.",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-e3adcd703d21",
+      "title": "Apple’s foldable iPhone Ultra looks on track for a September launch",
+      "source": "Android Authority",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-24",
+      "time": "17:27",
+      "publishedAt": "2026-06-24T17:27:14.000Z",
+      "url": "https://www.androidauthority.com/foldable-iphone-ultra-mass-production-3680994/",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2026/06/iPhone-Ultra-in-two-colors.jpg",
+      "summary": "The hinge issues have reportedly been fixed, and the iPhone Ultra is about to enter mass production.",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-ef67ddea0a0e",
+      "title": "竹本青：【小米服务：14 Ultra暂无“电池升级服务”上线计划】 小米服务昨日发布说明，确认小米14、小米14 Pro支…",
+      "source": "竹本青",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-06-24",
+      "time": "16:40",
+      "publishedAt": "2026-06-24T16:40:34.000Z",
+      "url": "https://www.coolapk.com/feed/72510714",
+      "image": "http://image.coolapk.com/feed/2026/0625/00/4248714_f5caaa60_9232_2836_823@1438x1536.jpg",
+      "summary": "【小米服务：14 Ultra暂无“电池升级服务”上线计划】 小米服务昨日发布说明，确认小米14、小米14 Pro支持电池升级服务，预计于今年第4季度正式上线。 针对小米14 Ultra，官方表示，该机标配小米首款金沙江电池，拥有超高能量密度，暂无计划上线；标配电池将在7月服务周提供8折活动。 #今日热点# #HyperOS3# #小米14Ultra#",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-ad0f4b14ef7e",
+      "title": "Galaxy Z Fold 8, Fold 8 Ultra, Flip 8 may go on sale on this date",
+      "source": "SamMobile",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-24",
+      "time": "16:37",
+      "publishedAt": "2026-06-24T16:37:04.000Z",
+      "url": "https://www.sammobile.com/news/galaxy-z-fold-8-fold-8-ultra-flip-8-may-go-on-sale-this-date/",
+      "image": "",
+      "summary": "Samsung is expected to launch its next lineup of flagship smartphones with foldable displays, which is said to offer three models — Galaxy Z Fold 8 (Wide), Galaxy Z Fold 8 Ultra,…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-eb5c86e70ed4",
       "title": "消息称三星 Galaxy Z Flip8 小折叠手机国行、美版机型将搭载骁龙芯片",
@@ -622,8 +722,28 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-96d4002884a1",
-      "title": "iQOO 15系列开启第二轮涨价：标准版4999元起",
+      "id": "newsnow-9419527a584e",
+      "title": "目前为止只有三个手机最值得买，性价比最高。",
+      "source": "酷安热榜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-06-24",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/72506336",
+      "image": "",
+      "summary": "目前为止只有三个手机最值得买，性价比最高。",
+      "tags": [
+        "行业",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-d4fff85e1b60",
+      "title": "【iQOO15系列涨价信息】",
       "source": "酷安热榜",
       "brand": "vivo",
       "model": "vivo 相关机型",
@@ -632,9 +752,9 @@ window.phoneRadarAuto = {
       "date": "2026-06-24",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72501064",
+      "url": "https://www.coolapk.com/feed/72498173",
       "image": "",
-      "summary": "iQOO 15系列开启第二轮涨价：标准版4999元起",
+      "summary": "【iQOO15系列涨价信息】",
       "tags": [
         "vivo",
         "爆料",
@@ -657,6 +777,46 @@ window.phoneRadarAuto = {
       "summary": "REDMI K90 至尊版将于6月30日发布：3K档",
       "tags": [
         "Xiaomi",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-96d4002884a1",
+      "title": "iQOO 15系列开启第二轮涨价：标准版4999元起",
+      "source": "酷安热榜",
+      "brand": "vivo",
+      "model": "vivo 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-06-24",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/72501064",
+      "image": "",
+      "summary": "iQOO 15系列开启第二轮涨价：标准版4999元起",
+      "tags": [
+        "vivo",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-4106b6fc0694",
+      "title": "手机真实的物料成本价。",
+      "source": "酷安热榜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-06-24",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/72509986",
+      "image": "",
+      "summary": "手机真实的物料成本价。",
+      "tags": [
+        "行业",
         "爆料",
         "NewsNow"
       ]
@@ -897,66 +1057,6 @@ window.phoneRadarAuto = {
       "summary": "A class action lawsuit accusing Apple of forcing iPhone owners to use iCloud could see British users share a £3B ($4B) payout if the case is won. A consumer organization sought pe…",
       "tags": [
         "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-b6ef4d86b75d",
-      "title": "School's out, but I'm getting a head start on back-to-school shopping for my little brother with this Pixel 10 deal I can't miss out on",
-      "source": "Android Central",
-      "brand": "Pixel",
-      "model": "Pixel 相关机型",
-      "type": "评测",
-      "trust": "媒体汇总",
-      "date": "2026-06-23",
-      "time": "10:15",
-      "publishedAt": "2026-06-23T10:15:00.000Z",
-      "url": "https://www.androidcentral.com/phones/google-pixel/google-pixel-10-amazon-prime-day-2026-deal",
-      "image": "https://cdn.mos.cms.futurecdn.net/EPYmBdbVc3bWcEy9sUsmrW-1280-80.jpg",
-      "summary": "The Pixel 10 is still one of our favorite phones, and this Prime Day deal is a great way to get ahead of back-to-school shopping.",
-      "tags": [
-        "Pixel",
-        "评测",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-d10e4924bf4c",
-      "title": "As much as the Galaxy S26 Ultra annoys me, one camera feature keeps me coming back",
-      "source": "Android Authority",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-23",
-      "time": "10:00",
-      "publishedAt": "2026-06-23T10:00:51.000Z",
-      "url": "https://www.androidauthority.com/samsung-galaxy-s26-ultra-camera-zoom-keeps-me-coming-back-3678483/",
-      "image": "https://www.androidauthority.com/wp-content/uploads/2026/06/s26-ultra-on-a-table-scaled.jpg",
-      "summary": "Don't underestimate the power of great camera zoom.",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-ce9d698d4f9c",
-      "title": "Survey says older Pixel owners are divided on Google’s fancy cloud-based features",
-      "source": "Android Authority",
-      "brand": "Pixel",
-      "model": "Pixel 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-23",
-      "time": "09:00",
-      "publishedAt": "2026-06-23T09:00:35.000Z",
-      "url": "https://www.androidauthority.com/google-pixel-ai-features-on-device-poll-results-3680277/",
-      "image": "https://www.androidauthority.com/wp-content/uploads/2025/11/PXL_20251020_003437966.MP_-scaled-e1763354125603-500w-260h.jpg",
-      "summary": "Some would love access to Pixel 10 smarts via the cloud. Others are happy with their aging devices' local capabilities.",
-      "tags": [
-        "Pixel",
         "爆料",
         "自动抓取"
       ]
