@@ -1,6 +1,106 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-06-24T09:50:32.080Z",
+  "updatedAt": "2026-06-24T12:29:32.213Z",
   "news": [
+    {
+      "id": "auto-78b19a4cfd6a",
+      "title": "Vivo X500 Pro Max model number revealed, four X500 models reportedly planned for global release",
+      "source": "Gizmochina",
+      "brand": "vivo",
+      "model": "vivo 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-24",
+      "time": "12:09",
+      "publishedAt": "2026-06-24T12:09:52.000Z",
+      "url": "https://www.gizmochina.com/2026/06/24/vivo-x500-pro-max-imei-database-listing/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2025/12/Screenshot-2025-12-10-205154-300x247.png?x44794",
+      "summary": "The rumor mill has been consistently leaking details about the upcoming Vivo X500 series flagship phones. In China, the lineup is expected to include three models with different d…",
+      "tags": [
+        "vivo",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-00350f51558e",
+      "title": "OnePlus could be reduced to an OPPO product line under alleged new plans",
+      "source": "Android Authority",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-24",
+      "time": "12:06",
+      "publishedAt": "2026-06-24T12:06:58.000Z",
+      "url": "https://www.androidauthority.com/oppo-oneplus-realme-product-series-restructuring-3680857/",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2025/11/OnePlus-15-side-buttons.jpg",
+      "summary": "A new report on the heels of realme India CEO's resignation spells out doom for OnePlus' independence.",
+      "tags": [
+        "OPPO",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-807225620305",
+      "title": "Galaxy Z Fold 8’s wallpaper leaks in high resolution",
+      "source": "SamMobile",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-24",
+      "time": "11:26",
+      "publishedAt": "2026-06-24T11:26:29.000Z",
+      "url": "https://www.sammobile.com/news/galaxy-z-fold-8-wallpaper-high-resolution-leaks/",
+      "image": "https://www.sammobile.com/wp-content/uploads/2026/06/Samsung-Galaxy-Z-Fold-8-Wallpaper-Unfolded-1920x1920.webp",
+      "summary": "The Galaxy Z Fold 8 is expected to be Samsung’s first widescreen book-style foldable phone, and it could go official next month. Ahead of its launch, its design and specifications…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-7944a8623ec1",
+      "title": "OnePlus Nord 6 vs OnePlus Nord 5: What’s New and Is It Worth Upgrading?",
+      "source": "Gizmochina",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-24",
+      "time": "11:19",
+      "publishedAt": "2026-06-24T11:19:58.000Z",
+      "url": "https://www.gizmochina.com/2026/06/24/oneplus-nord-6-vs-oneplus-nord-5/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/06/image-129-300x192.png?x44794",
+      "summary": "OnePlus has given the Nord 6 some major upgrades, including a faster Snapdragon 8s Gen 4 chip, a much larger battery, improved durability, and a brighter display. But with the Nor…",
+      "tags": [
+        "OPPO",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-45d748c0b91c",
+      "title": "iPhone 18 Pro’s camera plateau could look noticeably beefier than the iPhone 17 Pro’s",
+      "source": "Gizmochina",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-24",
+      "time": "10:06",
+      "publishedAt": "2026-06-24T10:06:26.000Z",
+      "url": "https://www.gizmochina.com/2026/06/24/iphone-18-pros-camera-plateau-could-look-noticeably-beefier-than-the-iphone-17-pros/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2025/10/iPhone-17-Pro-1024x576.jpg?x44794",
+      "summary": "Apple looks like it’s going for another meaningful camera hardware upgrade with the iPhone 18 Pro series. The latest leaks suggest a noticeably bigger cutout for the main camera,…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-603f4d704449",
       "title": "在续航赛道狂奔：消息称某厂在研发 14000mAh 电池新机，预计归属荣耀旗下",
@@ -142,46 +242,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-78ce4fb5eca5",
-      "title": "中国信通院：5 月国内市场手机出货量 2763.9 万部，同比增长 16.5%",
-      "source": "IT之家",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-24",
-      "time": "07:50",
-      "publishedAt": "2026-06-24T07:50:22.000Z",
-      "url": "https://www.ithome.com/0/967/966.htm",
-      "image": "",
-      "summary": "IT之家 6 月 24 日消息，中国信通院今天公布的数据显示，2026 年 5 月，国内市场手机出货量 2763.9 万部，同比增长 16.5%，其中，5G 手机 2622.4 万部，同比增长 23.8%，占同期手机出货量的 94.9%。 IT之家从数据中获悉，2026 年 1-5 月，国内市场手机出货量 1.14 亿部，同比下降 3.6%，其中，5G 手…",
-      "tags": [
-        "行业",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-f73104bc2bdd",
-      "title": "小米服务：Xiaomi 14 Ultra 手机暂无“电池升级服务”上线计划",
-      "source": "IT之家",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-24",
-      "time": "07:24",
-      "publishedAt": "2026-06-24T07:24:04.000Z",
-      "url": "https://www.ithome.com/0/967/930.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/6/1dd019e5-a480-4d1c-9b84-345df7b0cfd3.jpg?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 6 月 24 日消息，小米官方今日发文宣布，将为 Xiaomi 14 和 Xiaomi 14 Pro 手机提供“电池升级服务”， 具体实施时间预计为今年第四季度 。 目前小米“电池升级服务”已支持 Xiaomi 13、Xiaomi 13 Pro 和 Xiaomi 13 Ultra 机型： Xiaomi 13：4500mAh → 4850mAh，容…",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-2d341c10fd4d",
       "title": "Alleged iQOO Neo 11S’ key specifications tipped, expected to go official soon",
       "source": "Gizmochina",
@@ -195,26 +255,6 @@ window.phoneRadarAuto = {
       "url": "https://www.gizmochina.com/2026/06/24/iqoo-neo-11s-key-specifications-tipped/",
       "image": "https://www.gizmochina.com/wp-content/uploads/2026/03/iQOO-Neo-11--300x169.webp?x44794",
       "summary": "iQOO is reportedly working on its next affordable flagship, which is believed to be the Neo 11S. A new leak, courtesy of tipster Digital Chat Station, has emerged to reveal key de…",
-      "tags": [
-        "vivo",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-76bfc155807d",
-      "title": "vivo Y05e 手机曝光：紫光展锐 T606 芯片、4GB 内存",
-      "source": "IT之家",
-      "brand": "vivo",
-      "model": "vivo 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-24",
-      "time": "06:57",
-      "publishedAt": "2026-06-24T06:57:32.000Z",
-      "url": "https://www.ithome.com/0/967/910.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/6/50c3630e-cff4-4578-b164-02bdd80ce48d.png?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 6 月 24 日消息，据科技媒体 XpertPick 今天报道，vivo 新机 Y05e 已经现身谷歌 Google Play Console 数据库，预计将在近期发布，定位入门级市场。 据介绍，这款手机的型号是 V2606，正面采用水滴屏设计， 屏幕分辨率为 720*1600（IT之家注：HD+） ，屏幕像素密度为 300dpi。 同时，这款手…",
       "tags": [
         "vivo",
         "爆料",
@@ -339,26 +379,6 @@ window.phoneRadarAuto = {
         "Samsung",
         "官方",
         "自动抓取"
-      ]
-    },
-    {
-      "id": "newsnow-b36bd3af8d7c",
-      "title": "新机第四天的电池健康度就97%了？这个正常的吗还是？前天还是99%，小米商城的货[喷血]，要不要退货？",
-      "source": "酷安热榜",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-06-24",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72471618",
-      "image": "",
-      "summary": "新机第四天的电池健康度就97%了？这个正常的吗还是？前天还是99%，小米商城的货[喷血]，要不要退货？",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "NewsNow"
       ]
     },
     {
@@ -857,86 +877,6 @@ window.phoneRadarAuto = {
       "summary": "A fresh leak adds new detail to the Vivo X500 Pro, one of four models tipped for the upcoming X500 series. According to tipster Digital Chat Station on Weibo, the device will be p…",
       "tags": [
         "vivo",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-7cc35201e199",
-      "title": "Save $500 as the Samsung Galaxy Z Fold 7 hits its best price ever",
-      "source": "Android Authority",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-23",
-      "time": "07:41",
-      "publishedAt": "2026-06-23T07:41:30.000Z",
-      "url": "https://www.androidauthority.com/samsung-galaxy-z-fold-7-prime-day-deal-3680114/",
-      "image": "https://www.androidauthority.com/wp-content/uploads/2025/07/Galaxy-Z-Fold-7-tent-mode-on-table-hero-image-scaled.jpg",
-      "summary": "Amazon’s unmissable Prime Day deal drops the 256GB Galaxy Z Fold 7 to $1,499.99, beating its previous all-time low.",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-f037dcb1fba7",
-      "title": "Samsung flagship deal: The Galaxy S26 Plus just hit a fresh low at Amazon",
-      "source": "Android Authority",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-23",
-      "time": "07:40",
-      "publishedAt": "2026-06-23T07:40:46.000Z",
-      "url": "https://www.androidauthority.com/galaxy-s26-plus-prime-day-deal-3680037/",
-      "image": "https://www.androidauthority.com/wp-content/uploads/2026/02/Samsung-Galaxy-S26-Plus-held-in-hand-.jpg",
-      "summary": "The Samsung Galaxy S26 Plus just hit $799.99 for Prime Day, beating the previous low on the unlocked 256GB model.",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-d3e6f5f6fe1b",
-      "title": "The highly anticipated Samsung Galaxy S26 Ultra Prime Day deal is a record $350 discount",
-      "source": "Android Authority",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-23",
-      "time": "07:39",
-      "publishedAt": "2026-06-23T07:39:14.000Z",
-      "url": "https://www.androidauthority.com/galaxy-26-ultra-prime-day-deal-3680023/",
-      "image": "https://www.androidauthority.com/wp-content/uploads/2026/03/Samsung-Galaxy-S26-Ultra-lying-hero.jpg",
-      "summary": "Any chance to get the top Samsung phone for less than four figures is a rare one indeed.",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-97fbe137fe33",
-      "title": "Honor small flagship phone could bring ARRI-based camera features",
-      "source": "Huawei Central",
-      "brand": "HONOR",
-      "model": "HONOR 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-23",
-      "time": "07:12",
-      "publishedAt": "2026-06-23T07:12:29.000Z",
-      "url": "https://www.huaweicentral.com/honor-small-flagship-phone-could-bring-arri-based-camera-features/",
-      "image": "https://www.huaweicentral.com/wp-content/uploads/2026/06/Compact-phone-leak.jpg",
-      "summary": "Honor seemingly has a small model for its Magic 9 flagship phone series and just like other siblings, the mini handset is expected to bring ARRI-based camera features. The latest…",
-      "tags": [
-        "HONOR",
         "爆料",
         "自动抓取"
       ]

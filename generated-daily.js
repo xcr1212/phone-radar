@@ -1,12 +1,12 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-06-24T09:50:32.080Z",
+  "updatedAt": "2026-06-24T12:29:32.213Z",
   "issueDate": "2026-06-24",
   "issue": "VOL.260624",
   "title": "手机情报日报",
-  "intro": "今日筛出 16 条重点，其中 8 条是重点爆料，包含 7 条 iPhone 相关、2 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 16 条重点，其中 8 条是重点爆料，包含 8 条 iPhone 相关、2 条官方确认、0 条参数线索。",
   "stats": {
     "total": 16,
-    "iphone": 7,
+    "iphone": 8,
     "leaks": 8,
     "official": 2,
     "specs": 0
@@ -35,6 +35,30 @@ window.phoneRadarDaily = {
           "detail": "IT之家 6 月 24 日消息，韩媒 The Elec 今天发布消息称，苹果首款折叠屏 iPhone 将于 7 月底启动量产。在近期因铰链问题一度传出延期消息的背景下，苹果 仍准备按原计划于 9 月发布新机 。 供应链消息称，苹果已经敲定折叠屏 iPhone 的 显示屏、外壳和结构件等主要规格 ，产品也已进入量产准备阶段。首批产品将由 富士康负责生产 。苹…",
           "keyPoints": [
             "屏幕形态",
+            "爆料来源"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "auto-45d748c0b91c",
+          "title": "iPhone 18 Pro 影像能力相关消息",
+          "originalTitle": "",
+          "source": "Gizmochina",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-06-24",
+          "time": "10:06",
+          "publishedAt": "2026-06-24T10:06:26.000Z",
+          "url": "https://www.gizmochina.com/2026/06/24/iphone-18-pros-camera-plateau-could-look-noticeably-beefier-than-the-iphone-17-pros/",
+          "image": "https://www.gizmochina.com/wp-content/uploads/2025/10/iPhone-17-Pro-1024x576.jpg?x44794",
+          "verdict": "先看",
+          "takeaway": "iPhone 影像能力相关宣传或案例，主要看是否透露拍摄能力变化。",
+          "detail": "iPhone 18 Pro 影像能力相关消息。重点看影像功能是否和新机硬件有关，如果只是拍摄案例或营销内容，参考价值会低一些。",
+          "keyPoints": [
+            "影像硬件",
             "爆料来源"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
@@ -162,49 +186,25 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
-          "id": "auto-f73104bc2bdd",
-          "title": "小米服务：Xiaomi 14 Ultra 手机暂无“电池升级服务”上线计划",
+          "id": "coolapk-user-62ef84566aec",
+          "title": "竹本青：【小米服务：小米14、小米14 Pro预计今年Q4上线电池升级服务】 小米服务今日发文，就电池升级服务进行介绍，并…",
           "originalTitle": "",
-          "source": "IT之家",
+          "source": "竹本青",
           "brand": "Xiaomi",
           "type": "爆料",
-          "trust": "媒体汇总",
+          "trust": "高可信爆料",
           "date": "2026-06-24",
-          "time": "07:24",
-          "publishedAt": "2026-06-24T07:24:04.000Z",
-          "url": "https://www.ithome.com/0/967/930.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/6/1dd019e5-a480-4d1c-9b84-345df7b0cfd3.jpg?x-bce-process=image/format,f_auto",
+          "time": "03:06",
+          "publishedAt": "2026-06-24T03:06:32.000Z",
+          "url": "https://www.coolapk.com/feed/72499444",
+          "image": "http://image.coolapk.com/feed/2026/0624/11/4248714_28dbfd67_0631_4611_878@1439x1278.jpg",
           "verdict": "先看",
-          "takeaway": "IT之家 6 月 24 日消息，小米官方今日发文宣布，将为 Xiaomi 14 和 Xiaomi 14 Pro 手机提供“电池升级服务”， 具体实施时间预计为今年第四季度 。 目前小米“电池升级服务”已支持 Xiaomi 13、Xiaomi 13 Pro 和 Xiaomi 13 Ultra 机型： Xiaomi 13：4500mAh → 4850mAh，容…",
-          "detail": "IT之家 6 月 24 日消息，小米官方今日发文宣布，将为 Xiaomi 14 和 Xiaomi 14 Pro 手机提供“电池升级服务”， 具体实施时间预计为今年第四季度 。 目前小米“电池升级服务”已支持 Xiaomi 13、Xiaomi 13 Pro 和 Xiaomi 13 Ultra 机型： Xiaomi 13：4500mAh → 4850mAh，容…",
+          "takeaway": "【小米服务：小米14、小米14 Pro预计今年Q4上线电池升级服务】 小米服务今日发文，就电池升级服务进行介绍，并透露小米14、小米14 Pro 预计今年第四季度支持该服务。 据介绍，普通电池换新，是更换同规格新电池，帮助手机恢复原有续航状态。电池升级服务，则是在官方适配基础上，更换容量更大的新电池，让老机型获得更进一步的续航提升。 目前，小米13系列已率…",
+          "detail": "【小米服务：小米14、小米14 Pro预计今年Q4上线电池升级服务】 小米服务今日发文，就电池升级服务进行介绍，并透露小米14、小米14 Pro 预计今年第四季度支持该服务。 据介绍，普通电池换新，是更换同规格新电池，帮助手机恢复原有续航状态。电池升级服务，则是在官方适配基础上，更换容量更大的新电池，让老机型获得更进一步的续航提升。 目前，小米13系列已率…",
           "keyPoints": [
             "电池 / 充电"
           ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "auto-76bfc155807d",
-          "title": "vivo Y05e 手机曝光：紫光展锐 T606 芯片、4GB 内存",
-          "originalTitle": "",
-          "source": "IT之家",
-          "brand": "vivo",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-06-24",
-          "time": "06:57",
-          "publishedAt": "2026-06-24T06:57:32.000Z",
-          "url": "https://www.ithome.com/0/967/910.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/6/50c3630e-cff4-4578-b164-02bdd80ce48d.png?x-bce-process=image/format,f_auto",
-          "verdict": "先看",
-          "takeaway": "IT之家 6 月 24 日消息，据科技媒体 XpertPick 今天报道，vivo 新机 Y05e 已经现身谷歌 Google Play Console 数据库，预计将在近期发布，定位入门级市场。 据介绍，这款手机的型号是 V2606，正面采用水滴屏设计， 屏幕分辨率为 720*1600（IT之家注：HD+） ，屏幕像素密度为 300dpi。 同时，这款手…",
-          "detail": "IT之家 6 月 24 日消息，据科技媒体 XpertPick 今天报道，vivo 新机 Y05e 已经现身谷歌 Google Play Console 数据库，预计将在近期发布，定位入门级市场。 据介绍，这款手机的型号是 V2606，正面采用水滴屏设计， 屏幕分辨率为 720*1600（IT之家注：HD+） ，屏幕像素密度为 300dpi。 同时，这款手…",
-          "keyPoints": [
-            "屏幕形态",
-            "芯片 / 性能"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "confidence": "可信度较高，但仍属于发布前线索。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         }
@@ -370,29 +370,6 @@ window.phoneRadarDaily = {
       "hint": "看方向，不急着当购买依据。",
       "items": [
         {
-          "id": "auto-78ce4fb5eca5",
-          "title": "中国信通院：5 月国内市场手机出货量 2763.9 万部，同比增长 16.5%",
-          "originalTitle": "",
-          "source": "IT之家",
-          "brand": "行业",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-06-24",
-          "time": "07:50",
-          "publishedAt": "2026-06-24T07:50:22.000Z",
-          "url": "https://www.ithome.com/0/967/966.htm",
-          "image": "",
-          "verdict": "扫一眼",
-          "takeaway": "IT之家 6 月 24 日消息，中国信通院今天公布的数据显示，2026 年 5 月，国内市场手机出货量 2763.9 万部，同比增长 16.5%，其中，5G 手机 2622.4 万部，同比增长 23.8%，占同期手机出货量的 94.9%。 IT之家从数据中获悉，2026 年 1-5 月，国内市场手机出货量 1.14 亿部，同比下降 3.6%，其中，5G 手…",
-          "detail": "IT之家 6 月 24 日消息，中国信通院今天公布的数据显示，2026 年 5 月，国内市场手机出货量 2763.9 万部，同比增长 16.5%，其中，5G 手机 2622.4 万部，同比增长 23.8%，占同期手机出货量的 94.9%。 IT之家从数据中获悉，2026 年 1-5 月，国内市场手机出货量 1.14 亿部，同比下降 3.6%，其中，5G 手…",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "中文源可以直接点开快读；看完只保留和购机有关的点。"
-        },
-        {
           "id": "newsnow-96d4002884a1",
           "title": "iQOO 15系列开启第二轮涨价：标准版4999元起",
           "originalTitle": "",
@@ -414,6 +391,31 @@ window.phoneRadarDaily = {
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "影响购买预算，值得先看。",
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        },
+        {
+          "id": "auto-7944a8623ec1",
+          "title": "OnePlus Nord 6 对比 OnePlus Nord 5：差异整理",
+          "originalTitle": "",
+          "source": "Gizmochina",
+          "brand": "OPPO",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-06-24",
+          "time": "11:19",
+          "publishedAt": "2026-06-24T11:19:58.000Z",
+          "url": "https://www.gizmochina.com/2026/06/24/oneplus-nord-6-vs-oneplus-nord-5/",
+          "image": "https://www.gizmochina.com/wp-content/uploads/2026/06/image-129-300x192.png?x44794",
+          "verdict": "可略过",
+          "takeaway": "OnePlus Nord 6 对比 OnePlus Nord 5：重点看定位、配置差异和价格差，判断是否值得等更高端型号。",
+          "detail": "OnePlus Nord 6 对比 OnePlus Nord 5 的差异整理。重点看两款机型的定位、影像规格、屏幕尺寸、价格区间和发布时间是否拉开差距。",
+          "keyPoints": [
+            "屏幕形态",
+            "电池 / 充电",
+            "芯片 / 性能"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "影响性能和寿命判断，适合放进参数库。",
+          "action": "有具体参数就记录到参数库；没有参数就先收藏。"
         }
       ]
     }
