@@ -1,22 +1,302 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-06-25T04:33:38.683Z",
+  "updatedAt": "2026-06-25T09:43:34.765Z",
   "news": [
     {
-      "id": "auto-f04f919fe2b9",
-      "title": "保修 2 年：三星 Galaxy A27 5G 手机零售包装曝光",
+      "id": "auto-d0e736c34d0c",
+      "title": "iPhone Ultra 2 Gets Green Light for Development, Says Leaker",
+      "source": "MacRumors",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-25",
+      "time": "09:27",
+      "publishedAt": "2026-06-25T09:27:05.000Z",
+      "url": "https://www.macrumors.com/2026/06/25/iphone-ultra-2-development-approved-by-apple/",
+      "image": "https://images.macrumors.com/article-new/2025/12/3D-Printed-iPhone-Fold-Thumb-2.jpg",
+      "summary": "Apple's second-generation foldable iPhone has officially been given the go-ahead for development, a prominent Chinese leaker claimed today. In a post on Weibo , the account known…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-e4df95e08348",
+      "title": "Struggling with an older iPhone? This $399 Prime Day deal will make you switch instantly",
+      "source": "Android Central",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-06-25",
+      "time": "09:13",
+      "publishedAt": "2026-06-25T09:13:45.000Z",
+      "url": "https://www.androidcentral.com/phones/google-pixel/struggling-with-an-older-iphone-this-usd399-prime-day-deal-will-make-you-switch-instantly",
+      "image": "https://cdn.mos.cms.futurecdn.net/EyfSs7aN3efo95J6YnRt2a-1280-80.jpg",
+      "summary": "You don't need to shell out over $1,000 to get a great phone — the Pixel 10a does it at $399. This is without a doubt the best mid-ranger around, and if you're coming from an olde…",
+      "tags": [
+        "Pixel",
+        "评测",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-ef93abe9c552",
+      "title": "iPhone Ultra 2 confirmed with wider folding screen, but iPhone Air 3’s future is uncertain",
+      "source": "Gizmochina",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-25",
+      "time": "09:11",
+      "publishedAt": "2026-06-25T09:11:10.000Z",
+      "url": "https://www.gizmochina.com/2026/06/25/iphone-ultra-2-confirmed-with-wider-folding-screen-but-iphone-air-3s-future-is-uncertain/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2025/12/iPhone-Fold-Render-1-300x200.jpg?x44794",
+      "summary": "Apple hasn’t even launched its first foldable iPhone yet, but leaks about its successor have started making rounds on the internet. Tipster Digital Chat Station (DCS) today shared…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-3f225e056b05",
+      "title": "The Galaxy S8 and Note 8 are almost 10 years old, but just got a surprise update",
+      "source": "Android Authority",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-25",
+      "time": "08:49",
+      "publishedAt": "2026-06-25T08:49:27.000Z",
+      "url": "https://www.androidauthority.com/samsung-surprising-software-update-galaxy-s8-note-8-3681288/",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2025/02/Samsung-Galaxy-S8-display-scaled.jpg",
+      "summary": "It's not a big update, but it still comes a few years after the phones officially received their last updates.",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-96cfae1c7e5b",
+      "title": "竹本青：【荣耀下一代终端操作系统定名 AgenticOS，将于7月正式发布】 在昨天的MWC 2026上海展上，荣耀产品线…",
+      "source": "竹本青",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-06-25",
+      "time": "08:43",
+      "publishedAt": "2026-06-25T08:43:45.000Z",
+      "url": "https://www.coolapk.com/feed/72518450",
+      "image": "http://image.coolapk.com/feed/2026/0625/16/4248714_0c70869f_7022_2716_403@1080x1524.jpg",
+      "summary": "【荣耀下一代终端操作系统定名 AgenticOS，将于7月正式发布】 在昨天的MWC 2026上海展上，荣耀产品线总裁方飞发布主题演讲，并官宣下一代终端操作系统——AgenticOS，将在7月正式发布。 据介绍，新系统具备四大特性： ● 意图驱动： 以意图为中心，而非以应用为中心 ● 自然交互： 以感官为入口，声音/手势/眼神/动作都输入 ● 主动智能：…",
+      "tags": [
+        "HONOR",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-f8b3b9a3ddba",
+      "title": "旗下首款 S Pro 智能手机：三星 Galaxy S27 Pro 现身 GSMA 数据库",
       "source": "IT之家",
       "brand": "Samsung",
       "model": "Samsung 相关机型",
       "type": "爆料",
       "trust": "媒体汇总",
       "date": "2026-06-25",
-      "time": "04:01",
-      "publishedAt": "2026-06-25T04:01:10.000Z",
-      "url": "https://www.ithome.com/0/968/376.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/6/32fb37ee-3f17-4c41-add1-629752cebfe1.jpg?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 6 月 25 日消息，科技媒体 Android Authority 昨日（6 月 24 日）发布博文，报道称肯尼亚电商网站 Phoneporium 在其 Instagram 上分享图片，展示了三星 Galaxy A27 5G 手机零售包装。 颜色方面，根据曝光的零售包装图，共有黑色、蓝色和浅绿色三种颜色。售价方面，6GB 内存加 128GB 存储…",
+      "time": "08:13",
+      "publishedAt": "2026-06-25T08:13:16.000Z",
+      "url": "https://www.ithome.com/0/968/532.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/6/5980e67b-9438-4ca5-a260-e1a5c68439ac.png",
+      "summary": "IT之家 6 月 25 日消息，OvrPlus 今日发现，三款尚未发布的三星设备出现在了 GSMA 数据库中，型号分别为 SM-S956U、SM-S957B/DS 和 SM-S958U。 其中，SM-S956U 对应 Galaxy S27 Plus，SM-S958U 对应 Galaxy S27 Ultra，而 SM-S957B/DS 则被明确标注为 Gal…",
       "tags": [
         "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-897c67b8896f",
+      "title": "竹本青：曝苹果第二代阔折叠立项确定： iPhone Ultra2",
+      "source": "竹本青",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-06-25",
+      "time": "08:01",
+      "publishedAt": "2026-06-25T08:01:48.000Z",
+      "url": "https://www.coolapk.com/feed/72517899",
+      "image": "http://image.coolapk.com/feed/2026/0625/16/4248714_1dd3da6b_4507_0798_435@1440x1117.jpg",
+      "summary": "【曝苹果第二代阔折叠立项确定： iPhone Ultra2，大概率复用初代屏幕】 6月25日，博主数码闲聊站曝光iPhone三大机型最新进度： ● iPhone Ultra2 第二代阔折叠立项确定，大概率复用今年的屏幕 ● iPhone Air3 目前未开模 ● iPhone Plus线 目前没有“复活”相关动作 据此前媒体报道，苹果首款阔折叠iPhone…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-660150236bfa",
+      "title": "消息称苹果 iPhone Ultra 2 第二代阔折叠立项确定，Air 3 目前还没开模",
+      "source": "IT之家",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-25",
+      "time": "07:41",
+      "publishedAt": "2026-06-25T07:41:26.000Z",
+      "url": "https://www.ithome.com/0/968/495.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/6/dd92e874-c4dc-4e12-a98c-230839632825.png?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 6 月 25 日消息，博主 @数码闲聊站 今日发文透露： iPhone Ultra 2 第二代阔折叠立项确定 ，大概率复用今年的屏幕； iPhone Air 3 目前还没开模，估计要看 Air 2 销量， 如果卖得不好，超薄这条线危了 。 韩媒 The Elec 发布消息称，苹果首款折叠屏 iPhone 将于 7 月底启动量产。在近期因铰链问题一…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-cf56fcd237cb",
+      "title": "5 Best Wireless Chargers for iPhone 17 in the US",
+      "source": "Gizmochina",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-25",
+      "time": "07:15",
+      "publishedAt": "2026-06-25T07:15:05.000Z",
+      "url": "https://www.gizmochina.com/2026/06/25/5-best-wireless-chargers-for-iphone-17-in-the-us/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2025/06/67a00242-d501-4cb5-8b45-2513fc94b57b-1-300x199.jpg?x44794",
+      "summary": "Plugging the smartphone into a wall adapter when the battery dips into the red is never a convenient option. That is one reason why wireless chargers have evolved into a big categ…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-9a737f6113ff",
+      "title": "Honor Magic 8 series weekly sales step up, hits 1.33 million in 24th week",
+      "source": "Huawei Central",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-25",
+      "time": "07:12",
+      "publishedAt": "2026-06-25T07:12:33.000Z",
+      "url": "https://www.huaweicentral.com/honor-magic-8-series-weekly-sales-step-up-hits-1-33-million-in-24th-week/",
+      "image": "https://www.huaweicentral.com/wp-content/uploads/2026/06/Magic-8-sales-leak.jpg",
+      "summary": "Honor is currently working on the 2026 flagship smartphone lineup and in the meantime, the Magic 8 series continues to show impressive performance in the sales market, reaching 1.…",
+      "tags": [
+        "HONOR",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-8219343572a4",
+      "title": "已修复：三星 7.8 分漏洞披露，影响 Galaxy S9 至 S25 系列手机",
+      "source": "IT之家",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-25",
+      "time": "07:10",
+      "publishedAt": "2026-06-25T07:10:08.000Z",
+      "url": "https://www.ithome.com/0/968/457.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/6/d57b923b-4a5d-4f49-a806-e04249e4bb20.png",
+      "summary": "IT之家 6 月 25 日消息，网络安全公司 LucidBit Labs 于 6 月 22 日披露指出，三星安卓内核存在约 8 年 CVE-2026-20971 漏洞，CVSS 评分为 7.8， 影响 Galaxy S9 系列到 Galaxy S25 系列等多款设备。 该公司指出该漏洞位于 PROCA 与 FIVE 相关代码内，属于 use-after-f…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-1b4e1d4fbe5f",
+      "title": "A 14,000mAh battery phone could be on the way, but there’s a catch",
+      "source": "Android Authority",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-25",
+      "time": "07:01",
+      "publishedAt": "2026-06-25T07:01:08.000Z",
+      "url": "https://www.androidauthority.com/honor-14000mah-phone-3681249/",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2025/04/HONOR-Power-rear-cover-official.jpg",
+      "summary": "A phone with almost double the capacity of the OnePlus 15's huge 7,300mAh battery? Yep, it's in the works.",
+      "tags": [
+        "OPPO",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-1672bba401bd",
+      "title": "Samsung confirms the existence of the Galaxy S27 Pro",
+      "source": "SamMobile",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-25",
+      "time": "06:14",
+      "publishedAt": "2026-06-25T06:14:34.000Z",
+      "url": "https://www.sammobile.com/news/samsung-confirms-the-existence-of-the-galaxy-s27-pro/",
+      "image": "https://www.sammobile.com/wp-content/uploads/2026/06/Samsung-Galaxy-S27-Plus-Pro-Ultra-GSMA-Database-Entries.jpg",
+      "summary": "It has long been rumored that Samsung could launch at least four Galaxy S27 series phones next year. While three of them will succeed the Galaxy S26, Galaxy S26+, and Galaxy S26 U…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-c7b453589217",
+      "title": "把心情贴在手机背面：XTREM INNO 极稚墨水屏手机壳体验",
+      "source": "少数派",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-06-25",
+      "time": "06:08",
+      "publishedAt": "2026-06-25T06:08:44.000Z",
+      "url": "https://sspai.com/post/111483",
+      "image": "",
+      "summary": "手机主屏幕的个性化，如今越发受到重视。遍观各大手机操作系统的更新，几乎都会提到主屏幕装扮方式的增加——从壁纸、时钟再到图标、挂件，几乎没有哪个角落是不能按自己喜好调整的。对比之下，手机背面反而成为了「 ...",
+      "tags": [
+        "行业",
+        "评测",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-8b6da7173f9d",
+      "title": "iQOO Neo 12 tipped with 2K 185Hz display testing, may pack 9,000mAh battery",
+      "source": "Gizmochina",
+      "brand": "vivo",
+      "model": "vivo 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-25",
+      "time": "05:14",
+      "publishedAt": "2026-06-25T05:14:21.000Z",
+      "url": "https://www.gizmochina.com/2026/06/25/iqoo-neo-12-key-specifications-tipped/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/03/iQOO-Neo-11--300x169.webp?x44794",
+      "summary": "iQOO’s flagship lineup for this year includes at least three models. While the brand is expected to announce the Dimensity 9500-powered iQOO Neo 11S (tentative name) next month in…",
+      "tags": [
+        "vivo",
         "爆料",
         "自动抓取"
       ]
@@ -62,46 +342,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-cb6466209006",
-      "title": "vivo Y600 Pro 手机推出限时权益：免费换屏、换电池，进水免费修",
-      "source": "IT之家",
-      "brand": "vivo",
-      "model": "vivo 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-25",
-      "time": "01:36",
-      "publishedAt": "2026-06-25T01:36:57.000Z",
-      "url": "https://www.ithome.com/0/968/268.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/6/a79e8af3-90ce-4475-91da-1495dd760119.jpg",
-      "summary": "IT之家 6 月 25 日消息， vivo Y600 Pro 手机今日宣布推出限时权益：免费换屏、免费换电池、进水免费修，活动时间为 6 月 26 日至 7 月 5 日。 具体如下： 免费换屏：两年内屏幕破裂可免费更换屏幕一次 免费换电池：四年内电池电量低于 80% 时可免费更换电池一次 进水免费修：一年内设备因意外进水导致的损坏可免费维修一次 IT之家注…",
-      "tags": [
-        "vivo",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-b86f0d5bf4c8",
-      "title": "消息称某厂新机搭载 6.83 英寸 2K 大直屏、骁龙 8 Elite Gen5，预计为 iQOO Neo 12",
-      "source": "IT之家",
-      "brand": "vivo",
-      "model": "vivo 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-25",
-      "time": "01:21",
-      "publishedAt": "2026-06-25T01:21:44.000Z",
-      "url": "https://www.ithome.com/0/968/262.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/6/994a0608-ac15-45ea-9009-6b91ba342c78.png?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 6 月 25 日消息，博主 @数码闲聊站 今日曝光某厂“N 大迭代”新机的部分规格，评论区网友推测为 iQOO Neo 12。 据其爆料，这款新机搭载 6.83 英寸 ±2K 大直屏， 刷新率大保底 165Hz，同步测试 185Hz ，搭载骁龙 8 Elite Gen5 处理器 + 独显芯片，目前工程机电池容量超 9000mAh，同步测巨容量方案…",
-      "tags": [
-        "vivo",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "coolapk-user-9f94a022e37e",
       "title": "竹本青：iQOO Neo12 新机爆料：2K大直屏，骁龙8E5双芯",
       "source": "竹本青",
@@ -115,26 +355,6 @@ window.phoneRadarAuto = {
       "url": "https://www.coolapk.com/feed/72512723",
       "image": "http://image.coolapk.com/feed/2026/0625/09/4248714_7c89922d_9880_6651_72@1440x449.jpg",
       "summary": "【iQOO Neo12 新机爆料：2K大直屏，骁龙8E5双芯，电池9开头】 ▫️6.83\"±2K直屏，保底165Hz ▫️骁龙8 Elite Gen5+独显芯 ▫️电池9开头+百瓦有线 ▫️3D超声波指纹｜满级防水 #今日热点# #OriginOS6# #iQOONeo11#",
-      "tags": [
-        "vivo",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
-      "id": "coolapk-user-178b760b29d6",
-      "title": "竹本青：vivo Y600 Pro 推出限时购机权益",
-      "source": "竹本青",
-      "brand": "vivo",
-      "model": "vivo 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-06-25",
-      "time": "01:03",
-      "publishedAt": "2026-06-25T01:03:15.000Z",
-      "url": "https://www.coolapk.com/feed/72512639",
-      "image": "http://image.coolapk.com/feed/2026/0625/09/4248714_9f8393d1_9393_8549_839@2000x2666.jpg",
-      "summary": "【vivo Y600 Pro 推出限时购机权益：两年碎屏保+四年电池保+一年进水保】 ● 两年碎屏保：两年内，屏幕破裂可免费更换屏幕一次 ● 四年电池保：四年内，电池电量低于80%时可免费更换电池一次 ● 一年进水保：一年内，设备因意外进水导致的损坏可免费维修一次 活动时间：6月26日-7月5日 #今日热点# #vivoY600Pro# #OriginOS…",
       "tags": [
         "vivo",
         "爆料",
@@ -222,26 +442,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-9a6fb7084410",
-      "title": "【iQOO15系列涨价信息】",
-      "source": "酷安热榜",
-      "brand": "vivo",
-      "model": "vivo 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-06-25",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72498173",
-      "image": "",
-      "summary": "【iQOO15系列涨价信息】",
-      "tags": [
-        "vivo",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
       "id": "newsnow-672dd6c7d8b4",
       "title": "iQOO 15系列开启第二轮涨价：标准版4999元起",
       "source": "酷安热榜",
@@ -255,6 +455,26 @@ window.phoneRadarAuto = {
       "url": "https://www.coolapk.com/feed/72501064",
       "image": "",
       "summary": "iQOO 15系列开启第二轮涨价：标准版4999元起",
+      "tags": [
+        "vivo",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-9a6fb7084410",
+      "title": "【iQOO15系列涨价信息】",
+      "source": "酷安热榜",
+      "brand": "vivo",
+      "model": "vivo 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-06-25",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/72498173",
+      "image": "",
+      "summary": "【iQOO15系列涨价信息】",
       "tags": [
         "vivo",
         "爆料",
@@ -359,26 +579,6 @@ window.phoneRadarAuto = {
         "Pixel",
         "爆料",
         "自动抓取"
-      ]
-    },
-    {
-      "id": "coolapk-user-ef67ddea0a0e",
-      "title": "竹本青：小米14 Ultra暂无“电池升级服务”上线计划",
-      "source": "竹本青",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-06-24",
-      "time": "16:40",
-      "publishedAt": "2026-06-24T16:40:34.000Z",
-      "url": "https://www.coolapk.com/feed/72510714",
-      "image": "http://image.coolapk.com/feed/2026/0625/00/4248714_f5caaa60_9232_2836_823@1438x1536.jpg",
-      "summary": "【小米服务：14 Ultra暂无“电池升级服务”上线计划】 小米服务昨日发布说明，确认小米14、小米14 Pro支持电池升级服务，预计于今年第4季度正式上线。 针对小米14 Ultra，官方表示，该机标配小米首款金沙江电池，拥有超高能量密度，暂无计划上线；标配电池将在7月服务周提供8折活动。 #今日热点# #HyperOS3# #小米14Ultra#",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "酷安博主"
       ]
     },
     {
@@ -657,26 +857,6 @@ window.phoneRadarAuto = {
       "summary": "A new report on the heels of realme India CEO's resignation spells out doom for OnePlus' independence.",
       "tags": [
         "OPPO",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-807225620305",
-      "title": "Galaxy Z Fold 8’s wallpaper leaks in high resolution",
-      "source": "SamMobile",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-24",
-      "time": "11:26",
-      "publishedAt": "2026-06-24T11:26:29.000Z",
-      "url": "https://www.sammobile.com/news/galaxy-z-fold-8-wallpaper-high-resolution-leaks/",
-      "image": "https://www.sammobile.com/wp-content/uploads/2026/06/Samsung-Galaxy-Z-Fold-8-Wallpaper-Unfolded-1920x1920.webp",
-      "summary": "The Galaxy Z Fold 8 is expected to be Samsung’s first widescreen book-style foldable phone, and it could go official next month. Ahead of its launch, its design and specifications…",
-      "tags": [
-        "Samsung",
         "爆料",
         "自动抓取"
       ]
