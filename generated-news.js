@@ -1,6 +1,226 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-06-25T09:43:34.765Z",
+  "updatedAt": "2026-06-25T12:32:53.594Z",
   "news": [
+    {
+      "id": "auto-e42355d49600",
+      "title": "Prime Day delivers the steepest discount ever on the Google Pixel 10 Pro Fold",
+      "source": "Android Police",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-25",
+      "time": "11:33",
+      "publishedAt": "2026-06-25T11:33:12.000Z",
+      "url": "https://www.androidpolice.com/google-pixel-10-pro-fold-drops-to-its-lowest-price-for-prime-day/",
+      "image": "",
+      "summary": "Amazon is not playing around here",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-402dd558fe7f",
+      "title": "New Galaxy S23 software update makes it more secure",
+      "source": "SamMobile",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-25",
+      "time": "11:15",
+      "publishedAt": "2026-06-25T11:15:15.000Z",
+      "url": "https://www.sammobile.com/news/new-galaxy-s23-software-update-makes-it-more-secure/",
+      "image": "",
+      "summary": "Samsung, after releasing the June 2026 security patch for the Galaxy S26, Galaxy S25, and Galaxy S24, is now offering the latest security update to the Galaxy S23 lineup. At the m…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-29db60a78299",
+      "title": "iPhone Ultra 2 already given go-ahead, iPhone Air 3 not, says leaker",
+      "source": "9to5Mac",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-25",
+      "time": "11:14",
+      "publishedAt": "2026-06-25T11:14:29.000Z",
+      "url": "https://9to5mac.com/2026/06/25/iphone-ultra-2-already-given-go-ahead-iphone-air-3-not-says-leaker/",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/iphone-fold-ultra-ios-27-leak.jpg?quality=82&strip=all&w=1600",
+      "summary": "We may still be waiting for the launch of the iPhone Ultra , but a leaker with a decent track record claims that Apple has already made the decision to go ahead with a second-gene…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-b18dce622596",
+      "title": "Samsung accidentally confirms the Galaxy S27 Pro months ahead of launch",
+      "source": "Android Authority",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-25",
+      "time": "11:09",
+      "publishedAt": "2026-06-25T11:09:24.000Z",
+      "url": "https://www.androidauthority.com/galaxy-s27-pro-gsma-listing-3681415/",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2026/02/Samsung-Galaxy-S26-Plus-Camera-Sky-Blue.jpg",
+      "summary": "The Galaxy S27 Pro has appeared in the GSMA database, making it almost official.",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-3d87c0c57f88",
+      "title": "I said 'wow' when I first saw the Oppo Reno16 Pro, and I think you will too",
+      "source": "Android Police",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-25",
+      "time": "11:00",
+      "publishedAt": "2026-06-25T11:00:12.000Z",
+      "url": "https://www.androidpolice.com/the-oppo-reno16-pro-3d-rear-panel-design-game-changer/",
+      "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2026/06/oppo-reno16-pro-back.JPG",
+      "summary": "Something truly different",
+      "tags": [
+        "OPPO",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-83f2d3978f77",
+      "title": "Samsung Galaxy S27 Pro spotted in GSMA database, confirming four-model S27 lineup",
+      "source": "Gizmochina",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-25",
+      "time": "10:45",
+      "publishedAt": "2026-06-25T10:45:24.000Z",
+      "url": "https://www.gizmochina.com/2026/06/25/samsung-galaxy-s27-pro-spotted-in-gsma-database-confirming-four-model-s27-lineup/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/04/Samsung-Galaxy-S26-Ultra-300x160.jpg?x44794",
+      "summary": "If it wasn’t for the Galaxy S26 series, the upcoming Samsung Galaxy S27 series is almost confirmed to get a new member. Three unreleased Samsung devices have shown up in the GSMA…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-bbf4a7656cd9",
+      "title": "You might not need the Galaxy S26 Ultra after seeing this record-smashing Prime Day deal",
+      "source": "Android Central",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-06-25",
+      "time": "10:15",
+      "publishedAt": "2026-06-25T10:15:00.000Z",
+      "url": "https://www.androidcentral.com/phones/samsung-galaxy/samsung-galaxy-s26-deal-prime-day-2026",
+      "image": "https://cdn.mos.cms.futurecdn.net/5RcL2twzvS3RNbq8ai2mqa-1280-80.jpg",
+      "summary": "The Prime Day deal cuts the Galaxy S26 to its best price yet.",
+      "tags": [
+        "Samsung",
+        "评测",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-d6bfe39453db",
+      "title": "魅族 Flyme Auto 3.0 智能座舱系统官宣今年登场",
+      "source": "IT之家",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-25",
+      "time": "10:13",
+      "publishedAt": "2026-06-25T10:13:15.000Z",
+      "url": "https://www.ithome.com/0/968/647.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/6/c9b138ed-4529-4417-91c8-9cb8f2ec6854.jpg?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 6 月 25 日消息，魅族 FlymeAIOS 官方微博今日发布图文，回顾了 Flyme 的 14 年发展历程。官方表示，更新不会停 —— 2026 年的规划显示， 年内手机大规模升级，Flyme Auto 3.0 即将登场 。 据IT之家此前报道， 魅族 Flyme Auto 车载软件系统发布于 2023 年 3 月 ，支持无缝接力、手机辅助…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-6b04545f04cf",
+      "title": "竹本青：酷比魔方iPlay 70 Max Pro亮相：13英寸LCD屏",
+      "source": "竹本青",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-06-25",
+      "time": "10:07",
+      "publishedAt": "2026-06-25T10:07:23.000Z",
+      "url": "https://www.coolapk.com/feed/72519628",
+      "image": "http://image.coolapk.com/feed/2026/0625/18/4248714_caa488f1_2098_2313_723@830x659.jpg",
+      "summary": "【酷比魔方iPlay 70 Max Pro亮相：13英寸LCD屏，紫光展锐T7300，4G双卡双待】 ▫️13\"2.5K 400nits LCD屏 ▫️紫光展锐 T7300芯片 ▫️10000mAh电池+30W快充 ▫️4G全网通双卡双待 ▫️BOX音腔四扬声器 ▫️前置5MP／后置13MP ▫️双频WiFi6｜多模卫星导航 ▫️内置轻办公PC模式 ▫️配…",
+      "tags": [
+        "行业",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-ea71963965f2",
+      "title": "Apple already working on 2nd foldable ahead of iPhone Ultra debut",
+      "source": "Huawei Central",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-25",
+      "time": "10:02",
+      "publishedAt": "2026-06-25T10:02:07.000Z",
+      "url": "https://www.huaweicentral.com/apple-iphone-ultra-2nd-foldable/",
+      "image": "https://www.huaweicentral.com/wp-content/uploads/2026/06/iPhone-Ultra2-leak.jpg",
+      "summary": "Apple has seemingly started working on the 2nd-generation foldable device before the launch of the iPhone Ultra. It looks like the company has doubts about whether its first-ever…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-2301e12ba3ff",
+      "title": "Survey says most readers love the Galaxy S26 Ultra’s most divisive feature",
+      "source": "Android Authority",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-25",
+      "time": "10:00",
+      "publishedAt": "2026-06-25T10:00:52.000Z",
+      "url": "https://www.androidauthority.com/galaxy-s26-ultra-privacy-display-poll-results-3681293/",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2026/05/Samsung-Galaxy-S26-Ultra-showing-One-UI-lock-screen.jpg",
+      "summary": "Samsung's Privacy Display gamble is seemingly paying off.",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-d0e736c34d0c",
       "title": "iPhone Ultra 2 Gets Green Light for Development, Says Leaker",
@@ -94,7 +314,7 @@ window.phoneRadarAuto = {
       "publishedAt": "2026-06-25T08:43:45.000Z",
       "url": "https://www.coolapk.com/feed/72518450",
       "image": "http://image.coolapk.com/feed/2026/0625/16/4248714_0c70869f_7022_2716_403@1080x1524.jpg",
-      "summary": "【荣耀下一代终端操作系统定名 AgenticOS，将于7月正式发布】 在昨天的MWC 2026上海展上，荣耀产品线总裁方飞发布主题演讲，并官宣下一代终端操作系统——AgenticOS，将在7月正式发布。 据介绍，新系统具备四大特性： ● 意图驱动： 以意图为中心，而非以应用为中心 ● 自然交互： 以感官为入口，声音/手势/眼神/动作都输入 ● 主动智能：…",
+      "summary": "【荣耀下一代终端操作系统定名 AgenticOS，将于7月正式发布】 在昨天的MWC 2026上海展上，荣耀产品线总裁方飞发布主题演讲，并官宣下一代终端操作系统——AgenticOS，将在7月正式发布。 荣耀CEO李健补充透露，AgenticOS的完整技术框架发布后，阶段性成果将随MagicOS 11正式与用户见面。 据官方介绍，新系统具备四大特性： ●…",
       "tags": [
         "HONOR",
         "爆料",
@@ -142,26 +362,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-660150236bfa",
-      "title": "消息称苹果 iPhone Ultra 2 第二代阔折叠立项确定，Air 3 目前还没开模",
-      "source": "IT之家",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-25",
-      "time": "07:41",
-      "publishedAt": "2026-06-25T07:41:26.000Z",
-      "url": "https://www.ithome.com/0/968/495.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/6/dd92e874-c4dc-4e12-a98c-230839632825.png?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 6 月 25 日消息，博主 @数码闲聊站 今日发文透露： iPhone Ultra 2 第二代阔折叠立项确定 ，大概率复用今年的屏幕； iPhone Air 3 目前还没开模，估计要看 Air 2 销量， 如果卖得不好，超薄这条线危了 。 韩媒 The Elec 发布消息称，苹果首款折叠屏 iPhone 将于 7 月底启动量产。在近期因铰链问题一…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-cf56fcd237cb",
       "title": "5 Best Wireless Chargers for iPhone 17 in the US",
       "source": "Gizmochina",
@@ -197,26 +397,6 @@ window.phoneRadarAuto = {
       "summary": "Honor is currently working on the 2026 flagship smartphone lineup and in the meantime, the Magic 8 series continues to show impressive performance in the sales market, reaching 1.…",
       "tags": [
         "HONOR",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-8219343572a4",
-      "title": "已修复：三星 7.8 分漏洞披露，影响 Galaxy S9 至 S25 系列手机",
-      "source": "IT之家",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-25",
-      "time": "07:10",
-      "publishedAt": "2026-06-25T07:10:08.000Z",
-      "url": "https://www.ithome.com/0/968/457.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/6/d57b923b-4a5d-4f49-a806-e04249e4bb20.png",
-      "summary": "IT之家 6 月 25 日消息，网络安全公司 LucidBit Labs 于 6 月 22 日披露指出，三星安卓内核存在约 8 年 CVE-2026-20971 漏洞，CVSS 评分为 7.8， 影响 Galaxy S9 系列到 Galaxy S25 系列等多款设备。 该公司指出该漏洞位于 PROCA 与 FIVE 相关代码内，属于 use-after-f…",
-      "tags": [
-        "Samsung",
         "爆料",
         "自动抓取"
       ]
@@ -342,26 +522,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "coolapk-user-9f94a022e37e",
-      "title": "竹本青：iQOO Neo12 新机爆料：2K大直屏，骁龙8E5双芯",
-      "source": "竹本青",
-      "brand": "vivo",
-      "model": "vivo 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-06-25",
-      "time": "01:11",
-      "publishedAt": "2026-06-25T01:11:22.000Z",
-      "url": "https://www.coolapk.com/feed/72512723",
-      "image": "http://image.coolapk.com/feed/2026/0625/09/4248714_7c89922d_9880_6651_72@1440x449.jpg",
-      "summary": "【iQOO Neo12 新机爆料：2K大直屏，骁龙8E5双芯，电池9开头】 ▫️6.83\"±2K直屏，保底165Hz ▫️骁龙8 Elite Gen5+独显芯 ▫️电池9开头+百瓦有线 ▫️3D超声波指纹｜满级防水 #今日热点# #OriginOS6# #iQOONeo11#",
-      "tags": [
-        "vivo",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
       "id": "auto-9bbf43c61c96",
       "title": "Apple announces changes to iOS in Brazil",
       "source": "Apple Newsroom",
@@ -379,26 +539,6 @@ window.phoneRadarAuto = {
         "iPhone",
         "官方",
         "自动抓取"
-      ]
-    },
-    {
-      "id": "newsnow-013f01a23046",
-      "title": "目前为止只有三个手机最值得买，性价比最高。",
-      "source": "酷安热榜",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-06-25",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72506336",
-      "image": "",
-      "summary": "目前为止只有三个手机最值得买，性价比最高。",
-      "tags": [
-        "行业",
-        "爆料",
-        "NewsNow"
       ]
     },
     {
@@ -455,26 +595,6 @@ window.phoneRadarAuto = {
       "url": "https://www.coolapk.com/feed/72501064",
       "image": "",
       "summary": "iQOO 15系列开启第二轮涨价：标准版4999元起",
-      "tags": [
-        "vivo",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-9a6fb7084410",
-      "title": "【iQOO15系列涨价信息】",
-      "source": "酷安热榜",
-      "brand": "vivo",
-      "model": "vivo 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-06-25",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72498173",
-      "image": "",
-      "summary": "【iQOO15系列涨价信息】",
       "tags": [
         "vivo",
         "爆料",
@@ -557,86 +677,6 @@ window.phoneRadarAuto = {
       "summary": "The hinge issues have reportedly been fixed, and the iPhone Ultra is about to enter mass production.",
       "tags": [
         "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-2c9e30f2d533",
-      "title": "Google's Pixel 10 Pro gets a huge $315 price cut for Prime Day",
-      "source": "Android Police",
-      "brand": "Pixel",
-      "model": "Pixel 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-24",
-      "time": "17:16",
-      "publishedAt": "2026-06-24T17:16:12.000Z",
-      "url": "https://www.androidpolice.com/prime-day-brings-the-pixel-10-pro-to-an-all-time-low/",
-      "image": "",
-      "summary": "Falling to its lowest price ever",
-      "tags": [
-        "Pixel",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-ad0f4b14ef7e",
-      "title": "Galaxy Z Fold 8, Fold 8 Ultra, Flip 8 may go on sale on this date",
-      "source": "SamMobile",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-24",
-      "time": "16:37",
-      "publishedAt": "2026-06-24T16:37:04.000Z",
-      "url": "https://www.sammobile.com/news/galaxy-z-fold-8-fold-8-ultra-flip-8-may-go-on-sale-this-date/",
-      "image": "",
-      "summary": "Samsung is expected to launch its next lineup of flagship smartphones with foldable displays, which is said to offer three models — Galaxy Z Fold 8 (Wide), Galaxy Z Fold 8 Ultra,…",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-01a143e58305",
-      "title": "Galaxy Z Flip 8 chipset details for China and the US have leaked",
-      "source": "SamMobile",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-24",
-      "time": "15:05",
-      "publishedAt": "2026-06-24T15:05:50.000Z",
-      "url": "https://www.sammobile.com/news/galaxy-z-flip-8-chipset-details-china-usa-have-leaked/",
-      "image": "",
-      "summary": "Samsung’s next flagship smartphone with a clamshell foldable display, the Galaxy Z Flip 8, is expected to feature either the in-house developed Exynos 2600 or Qualcomm’s Snapdrago…",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-2c626022a859",
-      "title": "Galaxy Z Fold 8 Ultra may feature a display with significantly higher resolution",
-      "source": "SamMobile",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-24",
-      "time": "14:37",
-      "publishedAt": "2026-06-24T14:37:25.000Z",
-      "url": "https://www.sammobile.com/2026/06/24/galaxy-z-fold-8-ultra-may-feature-display-significantly-higher-resolution/",
-      "image": "",
-      "summary": "Samsung is expected to launch its next lineup of flagship smartphones with foldable displays next month. It is expected to offer three devices: Galaxy Z Fold 8 (Wide), Galaxy Z Fo…",
-      "tags": [
-        "Samsung",
         "爆料",
         "自动抓取"
       ]

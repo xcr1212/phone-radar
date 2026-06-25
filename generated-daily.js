@@ -1,14 +1,14 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-06-25T09:43:34.765Z",
+  "updatedAt": "2026-06-25T12:32:53.594Z",
   "issueDate": "2026-06-25",
   "issue": "VOL.260625",
   "title": "手机情报日报",
-  "intro": "今日筛出 13 条重点，其中 8 条是重点爆料，包含 7 条 iPhone 相关、2 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 14 条重点，其中 8 条是重点爆料，包含 7 条 iPhone 相关、1 条官方确认、0 条参数线索。",
   "stats": {
-    "total": 13,
+    "total": 14,
     "iphone": 7,
     "leaks": 8,
-    "official": 2,
+    "official": 1,
     "specs": 0
   },
   "sections": [
@@ -17,30 +17,6 @@ window.phoneRadarDaily = {
       "title": "重点爆料",
       "hint": "机模、配色、影像、屏幕、电池和芯片线索先看。",
       "items": [
-        {
-          "id": "auto-660150236bfa",
-          "title": "消息称苹果 iPhone Ultra 2 第二代阔折叠立项确定，Air 3 目前还没开模",
-          "originalTitle": "",
-          "source": "IT之家",
-          "brand": "iPhone",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-06-25",
-          "time": "07:41",
-          "publishedAt": "2026-06-25T07:41:26.000Z",
-          "url": "https://www.ithome.com/0/968/495.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/6/dd92e874-c4dc-4e12-a98c-230839632825.png?x-bce-process=image/format,f_auto",
-          "verdict": "先看",
-          "takeaway": "IT之家 6 月 25 日消息，博主 @数码闲聊站 今日发文透露： iPhone Ultra 2 第二代阔折叠立项确定 ，大概率复用今年的屏幕； iPhone Air 3 目前还没开模，估计要看 Air 2 销量， 如果卖得不好，超薄这条线危了 。 韩媒 The Elec 发布消息称，苹果首款折叠屏 iPhone 将于 7 月底启动量产。在近期因铰链问题一…",
-          "detail": "IT之家 6 月 25 日消息，博主 @数码闲聊站 今日发文透露： iPhone Ultra 2 第二代阔折叠立项确定 ，大概率复用今年的屏幕； iPhone Air 3 目前还没开模，估计要看 Air 2 销量， 如果卖得不好，超薄这条线危了 。 韩媒 The Elec 发布消息称，苹果首款折叠屏 iPhone 将于 7 月底启动量产。在近期因铰链问题一…",
-          "keyPoints": [
-            "屏幕形态",
-            "爆料来源"
-          ],
-          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
         {
           "id": "coolapk-user-897c67b8896f",
           "title": "竹本青：曝苹果第二代阔折叠立项确定： iPhone Ultra2",
@@ -83,6 +59,29 @@ window.phoneRadarDaily = {
           "detail": "iPhone 18 Pro 影像能力相关消息。重点看影像功能是否和新机硬件有关，如果只是拍摄案例或营销内容，参考价值会低一些。",
           "keyPoints": [
             "影像硬件",
+            "爆料来源"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "auto-29db60a78299",
+          "title": "iPhone 系统功能 / AI 体验相关消息",
+          "originalTitle": "",
+          "source": "9to5Mac",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-06-25",
+          "time": "11:14",
+          "publishedAt": "2026-06-25T11:14:29.000Z",
+          "url": "https://9to5mac.com/2026/06/25/iphone-ultra-2-already-given-go-ahead-iphone-air-3-not-says-leaker/",
+          "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/iphone-fold-ultra-ios-27-leak.jpg?quality=82&strip=all&w=1600",
+          "verdict": "先看",
+          "takeaway": "iPhone 有系统功能或 AI 体验更新，适合关注后续是否影响日常使用。",
+          "detail": "iPhone 系统功能 / AI 体验相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
+          "keyPoints": [
             "爆料来源"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
@@ -183,27 +182,25 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
-          "id": "coolapk-user-9f94a022e37e",
-          "title": "竹本青：iQOO Neo12 新机爆料：2K大直屏，骁龙8E5双芯",
+          "id": "newsnow-4982899b8c79",
+          "title": "实锤澎湃3就是功耗换流畅，米系的骁龙8e5机型瞬时功耗轻松突破18w～20w，你还想手机凉快？想都别想，蓝厂黑厂都是想方设法减少发热以达到更好的持续输出性能，金凡就是想用最快的速度让你手机发烫，一发烫就原形毕露卡成ppt，3秒真男人频率拉满干就完事儿了，3秒之后你别管，反正金凡有各种办法能让你的电池迅速达到40度以上",
           "originalTitle": "",
-          "source": "竹本青",
-          "brand": "vivo",
+          "source": "酷安热榜",
+          "brand": "行业",
           "type": "爆料",
-          "trust": "高可信爆料",
+          "trust": "高关注爆料源",
           "date": "2026-06-25",
-          "time": "01:11",
-          "publishedAt": "2026-06-25T01:11:22.000Z",
-          "url": "https://www.coolapk.com/feed/72512723",
-          "image": "http://image.coolapk.com/feed/2026/0625/09/4248714_7c89922d_9880_6651_72@1440x449.jpg",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://www.coolapk.com/feed/72502837",
+          "image": "",
           "verdict": "先看",
-          "takeaway": "【iQOO Neo12 新机爆料：2K大直屏，骁龙8E5双芯，电池9开头】 ▫️6.83\"±2K直屏，保底165Hz ▫️骁龙8 Elite Gen5+独显芯 ▫️电池9开头+百瓦有线 ▫️3D超声波指纹｜满级防水 #今日热点# #OriginOS6# #iQOONeo11#",
-          "detail": "【iQOO Neo12 新机爆料：2K大直屏，骁龙8E5双芯，电池9开头】 ▫️6.83\"±2K直屏，保底165Hz ▫️骁龙8 Elite Gen5+独显芯 ▫️电池9开头+百瓦有线 ▫️3D超声波指纹｜满级防水 #今日热点# #OriginOS6# #iQOONeo11#",
+          "takeaway": "实锤澎湃3就是功耗换流畅，米系的骁龙8e5机型瞬时功耗轻松突破18w～20w，你还想手机凉快？想都别想，蓝厂黑厂都是想方设法减少发热以达到更好的持续输出性能，金凡就是想用最快的速度让你手机发烫，一发烫就原形毕露卡成ppt，3秒真男人频率拉满干就完事儿了，3秒之后你别管，反正金凡有各种办法能让你的电池迅速达到40度以上",
+          "detail": "实锤澎湃3就是功耗换流畅，米系的骁龙8e5机型瞬时功耗轻松突破18w～20w，你还想手机凉快？想都别想，蓝厂黑厂都是想方设法减少发热以达到更好的持续输出性能，金凡就是想用最快的速度让你手机发烫，一发烫就原形毕露卡成ppt，3秒真男人频率拉满干就完事儿了，3秒之后你别管，反正金凡有各种办法能让你的电池迅速达到40度以上",
           "keyPoints": [
-            "屏幕形态",
-            "电池 / 充电",
-            "爆料来源"
+            "电池 / 充电"
           ],
-          "confidence": "可信度较高，但仍属于发布前线索。",
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         }
@@ -215,27 +212,27 @@ window.phoneRadarDaily = {
       "hint": "不是硬件爆料，但和 iPhone 体验或路线有关。",
       "items": [
         {
-          "id": "auto-9bbf43c61c96",
-          "title": "iPhone 系统功能 / AI 体验相关消息",
+          "id": "auto-e2a641f6f657",
+          "title": "iPhone 18 Pro 价格 / 成本相关消息",
           "originalTitle": "",
-          "source": "Apple Newsroom",
+          "source": "9to5Mac",
           "brand": "iPhone",
-          "type": "官方",
-          "trust": "官方确认",
-          "date": "2026-06-25",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://www.apple.com/newsroom/2026/06/apple-announces-changes-to-ios-in-brazil/",
-          "image": "",
-          "verdict": "先看",
-          "takeaway": "iPhone 系统功能 / AI 体验相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
-          "detail": "iPhone 系统功能 / AI 体验相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-06-24",
+          "time": "14:37",
+          "publishedAt": "2026-06-24T14:37:21.000Z",
+          "url": "https://9to5mac.com/2026/06/24/iphone-18-pro-might-cost-less-than-expected-per-report/",
+          "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/iphone-17-pro-silver-silent-action-button.jpg?quality=82&strip=all&w=1600",
+          "verdict": "扫一眼",
+          "takeaway": "iPhone 18 Pro 价格 / 成本相关消息。如果涉及订阅、售价或硬件成本，才需要进一步看细节。",
+          "detail": "iPhone 18 Pro 价格 / 成本相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
           "keyPoints": [
-            "官方"
+            "成本 / 价格"
           ],
-          "confidence": "官方内容，可直接作为已确认信息记录。",
-          "impact": "可信度高，但如果不是配置/价格消息，只需要扫一眼。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "影响购买预算，值得先看。",
+          "action": "有具体参数就记录到参数库；没有参数就先收藏。"
         }
       ]
     },
@@ -281,8 +278,8 @@ window.phoneRadarDaily = {
           "url": "https://www.coolapk.com/feed/72518450",
           "image": "http://image.coolapk.com/feed/2026/0625/16/4248714_0c70869f_7022_2716_403@1080x1524.jpg",
           "verdict": "扫一眼",
-          "takeaway": "【荣耀下一代终端操作系统定名 AgenticOS，将于7月正式发布】 在昨天的MWC 2026上海展上，荣耀产品线总裁方飞发布主题演讲，并官宣下一代终端操作系统——AgenticOS，将在7月正式发布。 据介绍，新系统具备四大特性： ● 意图驱动： 以意图为中心，而非以应用为中心 ● 自然交互： 以感官为入口，声音/手势/眼神/动作都输入 ● 主动智能：…",
-          "detail": "【荣耀下一代终端操作系统定名 AgenticOS，将于7月正式发布】 在昨天的MWC 2026上海展上，荣耀产品线总裁方飞发布主题演讲，并官宣下一代终端操作系统——AgenticOS，将在7月正式发布。 据介绍，新系统具备四大特性： ● 意图驱动： 以意图为中心，而非以应用为中心 ● 自然交互： 以感官为入口，声音/手势/眼神/动作都输入 ● 主动智能：…",
+          "takeaway": "【荣耀下一代终端操作系统定名 AgenticOS，将于7月正式发布】 在昨天的MWC 2026上海展上，荣耀产品线总裁方飞发布主题演讲，并官宣下一代终端操作系统——AgenticOS，将在7月正式发布。 荣耀CEO李健补充透露，AgenticOS的完整技术框架发布后，阶段性成果将随MagicOS 11正式与用户见面。 据官方介绍，新系统具备四大特性： ●…",
+          "detail": "【荣耀下一代终端操作系统定名 AgenticOS，将于7月正式发布】 在昨天的MWC 2026上海展上，荣耀产品线总裁方飞发布主题演讲，并官宣下一代终端操作系统——AgenticOS，将在7月正式发布。 荣耀CEO李健补充透露，AgenticOS的完整技术框架发布后，阶段性成果将随MagicOS 11正式与用户见面。 据官方介绍，新系统具备四大特性： ●…",
           "keyPoints": [
             "爆料"
           ],
@@ -321,27 +318,50 @@ window.phoneRadarDaily = {
       "hint": "看方向，不急着当购买依据。",
       "items": [
         {
-          "id": "auto-8219343572a4",
-          "title": "已修复：三星 7.8 分漏洞披露，影响 Galaxy S9 至 S25 系列手机",
+          "id": "newsnow-b56903143ed5",
+          "title": "新手机[受虐滑稽]留个尾巴",
           "originalTitle": "",
-          "source": "IT之家",
-          "brand": "Samsung",
+          "source": "酷安热榜",
+          "brand": "行业",
           "type": "爆料",
-          "trust": "媒体汇总",
+          "trust": "高关注爆料源",
           "date": "2026-06-25",
-          "time": "07:10",
-          "publishedAt": "2026-06-25T07:10:08.000Z",
-          "url": "https://www.ithome.com/0/968/457.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/6/d57b923b-4a5d-4f49-a806-e04249e4bb20.png",
-          "verdict": "先看",
-          "takeaway": "IT之家 6 月 25 日消息，网络安全公司 LucidBit Labs 于 6 月 22 日披露指出，三星安卓内核存在约 8 年 CVE-2026-20971 漏洞，CVSS 评分为 7.8， 影响 Galaxy S9 系列到 Galaxy S25 系列等多款设备。 该公司指出该漏洞位于 PROCA 与 FIVE 相关代码内，属于 use-after-f…",
-          "detail": "IT之家 6 月 25 日消息，网络安全公司 LucidBit Labs 于 6 月 22 日披露指出，三星安卓内核存在约 8 年 CVE-2026-20971 漏洞，CVSS 评分为 7.8， 影响 Galaxy S9 系列到 Galaxy S25 系列等多款设备。 该公司指出该漏洞位于 PROCA 与 FIVE 相关代码内，属于 use-after-f…",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://www.coolapk.com/feed/72502919",
+          "image": "",
+          "verdict": "扫一眼",
+          "takeaway": "新手机[受虐滑稽]留个尾巴",
+          "detail": "新手机[受虐滑稽]留个尾巴",
           "keyPoints": [
             "爆料"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "中文源可以直接点开快读；看完只保留和购机有关的点。"
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        },
+        {
+          "id": "newsnow-672dd6c7d8b4",
+          "title": "iQOO 15系列开启第二轮涨价：标准版4999元起",
+          "originalTitle": "",
+          "source": "酷安热榜",
+          "brand": "vivo",
+          "type": "爆料",
+          "trust": "高关注爆料源",
+          "date": "2026-06-25",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://www.coolapk.com/feed/72501064",
+          "image": "",
+          "verdict": "扫一眼",
+          "takeaway": "iQOO 15系列开启第二轮涨价：标准版4999元起",
+          "detail": "iQOO 15系列开启第二轮涨价：标准版4999元起",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "影响购买预算，值得先看。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         }
       ]
     }
