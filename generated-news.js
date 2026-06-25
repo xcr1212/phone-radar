@@ -1,6 +1,86 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-06-25T16:35:52.350Z",
+  "updatedAt": "2026-06-25T20:22:00.774Z",
   "news": [
+    {
+      "id": "auto-88f96105f531",
+      "title": "The Galaxy S26 Ultra scores a record-smashing discount during Prime Day — is it finally worth the price now?",
+      "source": "Android Central",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-06-25",
+      "time": "18:38",
+      "publishedAt": "2026-06-25T18:38:03.000Z",
+      "url": "https://www.androidcentral.com/phones/samsung-galaxy/prime-day-samsung-galaxy-s26-ultra-deal-2026",
+      "image": "https://cdn.mos.cms.futurecdn.net/yNho4HCfVrHX897csGGyrY-1280-80.jpg",
+      "summary": "The Samsung Galaxy S26 Ultra has received a remarkable 29% discount during Prime Day, which makes the prospect of buying the premium phone more compelling than ever before.",
+      "tags": [
+        "Samsung",
+        "评测",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-d04cacdd7714",
+      "title": "Oppo Reno 16 will start at €899 with solid specs, but no magnets for its neat ‘Bubble’ screen [Gallery]",
+      "source": "9to5Google",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-25",
+      "time": "18:10",
+      "publishedAt": "2026-06-25T18:10:00.000Z",
+      "url": "https://9to5google.com/2026/06/25/oppo-reno-16-bubble-screen/",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/06/oppo-bubble-reno-16-2.webp?w=1200",
+      "summary": "Oppo has just launched its new Reno 16 series which offers some solid upper-mid-range specs and a nice design, but also a neat “Bubble” screen accessory that, man, would just be s…",
+      "tags": [
+        "OPPO",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-f200b89d28df",
+      "title": "The Google Pixel 4a is in the news again, but for all the wrong reasons",
+      "source": "Android Authority",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-25",
+      "time": "17:17",
+      "publishedAt": "2026-06-25T17:17:10.000Z",
+      "url": "https://www.androidauthority.com/pixel-4a-boot-loop-3681534/",
+      "image": "",
+      "summary": "Several users have reported a Pixel 4a bug where the phone refuses to go past the boot screen.",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-544608323ef8",
+      "title": "It’s (almost) official: Samsung is adding a Pro model to the Galaxy S27 Lineup",
+      "source": "Android Police",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-25",
+      "time": "16:39",
+      "publishedAt": "2026-06-25T16:39:36.000Z",
+      "url": "https://www.androidpolice.com/its-almost-official-samsung-is-adding-a-pro-model-to-the-galaxy-s27-lineup/",
+      "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2026/06/samsung-galaxy-s23-ultra-review.jpeg",
+      "summary": "There's some proof that the Samsung Galaxy S27 Pro, the Schrodinger’s cat of phones, might actually exist.",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-f4888b3f092a",
       "title": "苹果代工厂塔塔电子被黑，部分 iPhone 18 Pro 与 A20 Pro 资料确认泄露",
@@ -222,26 +302,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-e42355d49600",
-      "title": "Prime Day delivers the steepest discount ever on the Google Pixel 10 Pro Fold",
-      "source": "Android Police",
-      "brand": "Pixel",
-      "model": "Pixel 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-25",
-      "time": "11:33",
-      "publishedAt": "2026-06-25T11:33:12.000Z",
-      "url": "https://www.androidpolice.com/google-pixel-10-pro-fold-drops-to-its-lowest-price-for-prime-day/",
-      "image": "",
-      "summary": "Amazon is not playing around here",
-      "tags": [
-        "Pixel",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-29db60a78299",
       "title": "iPhone Ultra 2 already given go-ahead, iPhone Air 3 not, says leaker",
       "source": "9to5Mac",
@@ -277,26 +337,6 @@ window.phoneRadarAuto = {
       "summary": "The Galaxy S27 Pro has appeared in the GSMA database, making it almost official.",
       "tags": [
         "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-3d87c0c57f88",
-      "title": "I said 'wow' when I first saw the Oppo Reno16 Pro, and I think you will too",
-      "source": "Android Police",
-      "brand": "OPPO",
-      "model": "OPPO 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-25",
-      "time": "11:00",
-      "publishedAt": "2026-06-25T11:00:12.000Z",
-      "url": "https://www.androidpolice.com/the-oppo-reno16-pro-3d-rear-panel-design-game-changer/",
-      "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2026/06/oppo-reno16-pro-back.JPG",
-      "summary": "Something truly different",
-      "tags": [
-        "OPPO",
         "爆料",
         "自动抓取"
       ]
@@ -338,26 +378,6 @@ window.phoneRadarAuto = {
       "tags": [
         "Samsung",
         "评测",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-d6bfe39453db",
-      "title": "魅族 Flyme Auto 3.0 智能座舱系统官宣今年登场",
-      "source": "IT之家",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-25",
-      "time": "10:13",
-      "publishedAt": "2026-06-25T10:13:15.000Z",
-      "url": "https://www.ithome.com/0/968/647.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/6/c9b138ed-4529-4417-91c8-9cb8f2ec6854.jpg?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 6 月 25 日消息，魅族 FlymeAIOS 官方微博今日发布图文，回顾了 Flyme 的 14 年发展历程。官方表示，更新不会停 —— 2026 年的规划显示， 年内手机大规模升级，Flyme Auto 3.0 即将登场 。 据IT之家此前报道， 魅族 Flyme Auto 车载软件系统发布于 2023 年 3 月 ，支持无缝接力、手机辅助…",
-      "tags": [
-        "iPhone",
-        "爆料",
         "自动抓取"
       ]
     },
@@ -722,8 +742,8 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-b56903143ed5",
-      "title": "新手机[受虐滑稽]留个尾巴",
+      "id": "newsnow-27b161992bbf",
+      "title": "手机价格现在很高吗？那我当年3500买的塑料边框k50至尊版算是什么[流泪] #红米K50至尊版# #红米k90promax#",
       "source": "酷安热榜",
       "brand": "行业",
       "model": "智能手机市场",
@@ -732,9 +752,9 @@ window.phoneRadarAuto = {
       "date": "2026-06-25",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72502919",
+      "url": "https://www.coolapk.com/feed/72509846",
       "image": "",
-      "summary": "新手机[受虐滑稽]留个尾巴",
+      "summary": "手机价格现在很高吗？那我当年3500买的塑料边框k50至尊版算是什么[流泪] #红米K50至尊版# #红米k90promax#",
       "tags": [
         "行业",
         "爆料",
@@ -742,41 +762,41 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-4982899b8c79",
-      "title": "实锤澎湃3就是功耗换流畅，米系的骁龙8e5机型瞬时功耗轻松突破18w～20w，你还想手机凉快？想都别想，蓝厂黑厂都是想方设法减少发热以达到更好的持续输出性能，金凡就是想用最快的速度让你手机发烫，一发烫就原形毕露卡成ppt，3秒真男人频率拉满干就完事儿了，3秒之后你别管，反正金凡有各种办法能让你的电池迅速达到40度以上",
+      "id": "newsnow-be8d81e22f16",
+      "title": "保真保真！中国大区渠道商最新开会的消息，下个月中 iPhone17 全系列调价[受虐滑稽]，全球市场统一调动，最高浮动 300 刀乐。",
       "source": "酷安热榜",
-      "brand": "行业",
-      "model": "智能手机市场",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-06-25",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72502837",
+      "url": "https://www.coolapk.com/feed/72523857",
       "image": "",
-      "summary": "实锤澎湃3就是功耗换流畅，米系的骁龙8e5机型瞬时功耗轻松突破18w～20w，你还想手机凉快？想都别想，蓝厂黑厂都是想方设法减少发热以达到更好的持续输出性能，金凡就是想用最快的速度让你手机发烫，一发烫就原形毕露卡成ppt，3秒真男人频率拉满干就完事儿了，3秒之后你别管，反正金凡有各种办法能让你的电池迅速达到40度以上",
+      "summary": "保真保真！中国大区渠道商最新开会的消息，下个月中 iPhone17 全系列调价[受虐滑稽]，全球市场统一调动，最高浮动 300 刀乐。",
       "tags": [
-        "行业",
+        "iPhone",
         "爆料",
         "NewsNow"
       ]
     },
     {
-      "id": "newsnow-672dd6c7d8b4",
-      "title": "iQOO 15系列开启第二轮涨价：标准版4999元起",
+      "id": "newsnow-c48b2eb4b2d1",
+      "title": "REDMI K90 至尊版预热：对称双扬，T1+信号增强芯",
       "source": "酷安热榜",
-      "brand": "vivo",
-      "model": "vivo 相关机型",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-06-25",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72501064",
+      "url": "https://www.coolapk.com/feed/72516349",
       "image": "",
-      "summary": "iQOO 15系列开启第二轮涨价：标准版4999元起",
+      "summary": "REDMI K90 至尊版预热：对称双扬，T1+信号增强芯",
       "tags": [
-        "vivo",
+        "Xiaomi",
         "爆料",
         "NewsNow"
       ]
@@ -802,7 +822,7 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-fa225e3a3a84",
+      "id": "newsnow-27c7dccb1ee7",
       "title": "苹果涨价iPhone未涨",
       "source": "微博热搜",
       "brand": "iPhone",
@@ -812,7 +832,7 @@ window.phoneRadarAuto = {
       "date": "2026-06-25",
       "time": "",
       "publishedAt": "",
-      "url": "https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E6%B6%A8%E4%BB%B7iPhone%E6%9C%AA%E6%B6%A8%23&t=31&band_rank=9&Refer=top",
+      "url": "https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E6%B6%A8%E4%BB%B7iPhone%E6%9C%AA%E6%B6%A8%23&t=31&band_rank=21&Refer=top",
       "image": "",
       "summary": "苹果涨价iPhone未涨",
       "tags": [
@@ -1178,26 +1198,6 @@ window.phoneRadarAuto = {
       "tags": [
         "Samsung",
         "评测",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-2d341c10fd4d",
-      "title": "Alleged iQOO Neo 11S’ key specifications tipped, expected to go official soon",
-      "source": "Gizmochina",
-      "brand": "vivo",
-      "model": "vivo 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-24",
-      "time": "07:09",
-      "publishedAt": "2026-06-24T07:09:59.000Z",
-      "url": "https://www.gizmochina.com/2026/06/24/iqoo-neo-11s-key-specifications-tipped/",
-      "image": "https://www.gizmochina.com/wp-content/uploads/2026/03/iQOO-Neo-11--300x169.webp?x44794",
-      "summary": "iQOO is reportedly working on its next affordable flagship, which is believed to be the Neo 11S. A new leak, courtesy of tipster Digital Chat Station, has emerged to reveal key de…",
-      "tags": [
-        "vivo",
-        "爆料",
         "自动抓取"
       ]
     },

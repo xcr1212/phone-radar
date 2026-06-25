@@ -1,12 +1,12 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-06-25T16:35:52.350Z",
+  "updatedAt": "2026-06-25T20:22:00.774Z",
   "issueDate": "2026-06-25",
   "issue": "VOL.260625",
   "title": "手机情报日报",
-  "intro": "今日筛出 12 条重点，其中 8 条是重点爆料，包含 8 条 iPhone 相关、1 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 13 条重点，其中 8 条是重点爆料，包含 9 条 iPhone 相关、1 条官方确认、0 条参数线索。",
   "stats": {
-    "total": 12,
-    "iphone": 8,
+    "total": 13,
+    "iphone": 9,
     "leaks": 8,
     "official": 1,
     "specs": 0
@@ -208,6 +208,36 @@ window.phoneRadarDaily = {
       ]
     },
     {
+      "id": "iphone",
+      "title": "iPhone 重点",
+      "hint": "不是硬件爆料，但和 iPhone 体验或路线有关。",
+      "items": [
+        {
+          "id": "newsnow-be8d81e22f16",
+          "title": "保真保真！中国大区渠道商最新开会的消息，下个月中 iPhone17 全系列调价[受虐滑稽]，全球市场统一调动，最高浮动 300 刀乐。",
+          "originalTitle": "",
+          "source": "酷安热榜",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "高关注爆料源",
+          "date": "2026-06-25",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://www.coolapk.com/feed/72523857",
+          "image": "",
+          "verdict": "先看",
+          "takeaway": "保真保真！中国大区渠道商最新开会的消息，下个月中 iPhone17 全系列调价[受虐滑稽]，全球市场统一调动，最高浮动 300 刀乐。",
+          "detail": "保真保真！中国大区渠道商最新开会的消息，下个月中 iPhone17 全系列调价[受虐滑稽]，全球市场统一调动，最高浮动 300 刀乐。",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        }
+      ]
+    },
+    {
       "id": "launch",
       "title": "新机与官方发布",
       "hint": "能直接更新到参数库。",
@@ -266,8 +296,8 @@ window.phoneRadarDaily = {
       "hint": "看方向，不急着当购买依据。",
       "items": [
         {
-          "id": "newsnow-b56903143ed5",
-          "title": "新手机[受虐滑稽]留个尾巴",
+          "id": "newsnow-27b161992bbf",
+          "title": "手机价格现在很高吗？那我当年3500买的塑料边框k50至尊版算是什么[流泪] #红米K50至尊版# #红米k90promax#",
           "originalTitle": "",
           "source": "酷安热榜",
           "brand": "行业",
@@ -276,39 +306,39 @@ window.phoneRadarDaily = {
           "date": "2026-06-25",
           "time": "",
           "publishedAt": "",
-          "url": "https://www.coolapk.com/feed/72502919",
+          "url": "https://www.coolapk.com/feed/72509846",
           "image": "",
           "verdict": "扫一眼",
-          "takeaway": "新手机[受虐滑稽]留个尾巴",
-          "detail": "新手机[受虐滑稽]留个尾巴",
+          "takeaway": "手机价格现在很高吗？那我当年3500买的塑料边框k50至尊版算是什么[流泪] #红米K50至尊版# #红米k90promax#",
+          "detail": "手机价格现在很高吗？那我当年3500买的塑料边框k50至尊版算是什么[流泪] #红米K50至尊版# #红米k90promax#",
           "keyPoints": [
-            "爆料"
+            "成本 / 价格"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+          "impact": "影响购买预算，值得先看。",
+          "action": "有具体参数就记录到参数库；没有参数就先收藏。"
         },
         {
-          "id": "newsnow-672dd6c7d8b4",
-          "title": "iQOO 15系列开启第二轮涨价：标准版4999元起",
+          "id": "newsnow-c48b2eb4b2d1",
+          "title": "REDMI K90 至尊版预热：对称双扬，T1+信号增强芯",
           "originalTitle": "",
           "source": "酷安热榜",
-          "brand": "vivo",
+          "brand": "Xiaomi",
           "type": "爆料",
           "trust": "高关注爆料源",
           "date": "2026-06-25",
           "time": "",
           "publishedAt": "",
-          "url": "https://www.coolapk.com/feed/72501064",
+          "url": "https://www.coolapk.com/feed/72516349",
           "image": "",
           "verdict": "扫一眼",
-          "takeaway": "iQOO 15系列开启第二轮涨价：标准版4999元起",
-          "detail": "iQOO 15系列开启第二轮涨价：标准版4999元起",
+          "takeaway": "REDMI K90 至尊版预热：对称双扬，T1+信号增强芯",
+          "detail": "REDMI K90 至尊版预热：对称双扬，T1+信号增强芯",
           "keyPoints": [
             "爆料"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "影响购买预算，值得先看。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         }
       ]
