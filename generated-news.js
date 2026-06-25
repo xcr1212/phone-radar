@@ -1,6 +1,226 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-06-25T12:32:53.594Z",
+  "updatedAt": "2026-06-25T16:35:52.350Z",
   "news": [
+    {
+      "id": "auto-f4888b3f092a",
+      "title": "苹果代工厂塔塔电子被黑，部分 iPhone 18 Pro 与 A20 Pro 资料确认泄露",
+      "source": "IT之家",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-25",
+      "time": "15:30",
+      "publishedAt": "2026-06-25T15:30:06.000Z",
+      "url": "https://www.ithome.com/0/968/710.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/6/028690be-cf82-42bc-bf8d-750f8455216e.png",
+      "summary": "IT之家 6 月 25 日消息，塔塔电子位于印度的工厂遭遇一起大规模网络攻击。AppleInsider 证实，此次攻击导致超过 630GB 的机密数据被窃取，其中包括尚未发布的 iPhone 18 Pro 与 iPhone 18 Pro Max 的主板设计图纸，以及多款苹果自研芯片的数据手册。 有网络安全研究人员发现，勒索软件组织“World Leaks”…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-6b2999d8431e",
+      "title": "Galaxy Z Fold 8 release date leaks, hands-on impressions make ‘Ultra’ seem pointless",
+      "source": "9to5Google",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-25",
+      "time": "15:15",
+      "publishedAt": "2026-06-25T15:15:00.000Z",
+      "url": "https://9to5google.com/2026/06/25/galaxy-z-fold-8-release-date-leaks-hands-on-impressions-make-ultra-seem-pointless/",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2025/07/galaxy-z-fold-7-62.jpg?quality=82&strip=all&w=1600",
+      "summary": "Continued Galaxy Z Fold 8 leaks are revealing more and more about Samsung’s upcoming foldable series, this time including some pre-order perks, the on-the-shelf release date, and…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-2b701accd647",
+      "title": "华硕率先发布测试版 BIOS，为 AMD 锐龙 9000 非 PRO 处理器恢复 TSME 内存加密支持",
+      "source": "IT之家",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-25",
+      "time": "15:10",
+      "publishedAt": "2026-06-25T15:10:00.000Z",
+      "url": "https://www.ithome.com/0/968/708.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/6/7601c2ba-d32d-40c9-a918-8953ff90436d.jpg?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 6 月 25 日消息，华硕今日在其官方论坛上为多款 AM5 主板发布了测试版 BIOS 更新，其中包含 AMD AGESA ComboAM5 PI 1.3.0.1b Patch A 补丁，其更新日志中明确提到“支持 GNR TSME 功能”。 这里的“GNR”指代的是 AMD Ryzen 9000 系列桌面处理器（代号 Granite Ridge…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-287246d0e473",
+      "title": "紫光同芯联合中国联通首发 eSIM 智能受理方案：无需人工介入扫码操作，缩短业务办理时长",
+      "source": "IT之家",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-25",
+      "time": "14:58",
+      "publishedAt": "2026-06-25T14:58:25.000Z",
+      "url": "https://www.ithome.com/0/968/705.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/6/18f5c76f-2da3-4647-978e-4d94f89df454.png?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 6 月 25 日消息，新紫光集团宣布，旗下产业公司紫光同芯在 MWC 上海联合中国联通，首发 eSIM 终端智能受理创新解决方案。 官方表示，现阶段国内线下营业厅 eSIM 手机业务普遍采用二维码、条形码技术完成业务数据传输。营业厅工作人员需借助扫码枪扫描设备条码，多次扫码采集终端硬件信息；用户需单独扫描专属二维码完成 eSIM 电子码号下载。…",
+      "tags": [
+        "行业",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-bbb66f085bad",
+      "title": "Xiaomi 17T Pro vs Vivo X300: Which $900 Flagship Delivers Better Value?",
+      "source": "Gizmochina",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-25",
+      "time": "14:13",
+      "publishedAt": "2026-06-25T14:13:52.000Z",
+      "url": "https://www.gizmochina.com/2026/06/25/xiaomi-17t-pro-vs-vivo-x300/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/06/image-138-300x184.png?x44794",
+      "summary": "Both the Xiaomi 17T Pro and Vivo X300 target premium flagship buyers with top-tier hardware, flagship MediaTek processors, premium displays, and versatile camera systems. While bo…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-2201fc490b79",
+      "title": "Bigme 大我 HiBreak Dual 2 官宣，号称全球首款大双屏彩色墨水屏手机",
+      "source": "IT之家",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-25",
+      "time": "14:12",
+      "publishedAt": "2026-06-25T14:12:40.000Z",
+      "url": "https://www.ithome.com/0/968/695.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/6/c802c992-8945-4882-9117-9a543cfb4f0a.jpg?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 6 月 25 日消息，今天晚间，Bigme 大我通过公众号宣布：全球首款大双屏彩色墨水屏手机 ——HiBreak Dual 2 即将面世。 这款手机内置天玑 8300 处理器，搭载 6.13 英寸彩色墨水屏 / 黑白墨水屏（主屏）和 5.0 英寸 LCD 屏（背屏）。此前官方披露的消息称，该机 安兔兔跑分超 160 万 。 据IT之家此前报道，今…",
+      "tags": [
+        "行业",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-f853781dfa54",
+      "title": "This Pixel 10 Pro Prime Day deal price made my jaw drop, and I'd be surprised if Amazon doesn't run out of stock",
+      "source": "Android Central",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-06-25",
+      "time": "13:50",
+      "publishedAt": "2026-06-25T13:50:12.000Z",
+      "url": "https://www.androidcentral.com/phones/google-pixel/this-pixel-10-pro-prime-day-deal-price-made-my-jaw-drop-and-id-be-surprised-if-amazon-doesnt-run-out-of-stock",
+      "image": "https://cdn.mos.cms.futurecdn.net/49MtiP55A8HsE63TZPgVhT-1280-80.jpg",
+      "summary": "Smaller flagship for under $700, and at its lowest price ever? This certainly doesn't feel like 2026 pricing!",
+      "tags": [
+        "Pixel",
+        "评测",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-bdde1ea4f76c",
+      "title": "Oppo Reno 16 Pro, Reno 16, Reno 16F launched with Oppo Bubble accessory, topnotch cameras, Snap Key",
+      "source": "Gizmochina",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-25",
+      "time": "13:11",
+      "publishedAt": "2026-06-25T13:11:22.000Z",
+      "url": "https://www.gizmochina.com/2026/06/25/oppo-reno-16-series-launched-price-specifications/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/06/Oppo-Reno-16-5G-300x207.png?x44794",
+      "summary": "Oppo has unveiled the Reno 16 series in multiple markets, such as Thailand and Malaysia, bringing three new smartphones to the market: the Reno 16 Pro 5G, Reno 16 5G, and Reno 16…",
+      "tags": [
+        "OPPO",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-7e9e73d89298",
+      "title": "竹本青：【REDMI K90／Turbo 5系列 最新销量曝光：合计超510万台，K90近223万台】 REDMI K90…",
+      "source": "竹本青",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-06-25",
+      "time": "13:06",
+      "publishedAt": "2026-06-25T13:06:24.000Z",
+      "url": "https://www.coolapk.com/feed/72521990",
+      "image": "http://image.coolapk.com/feed/2026/0625/21/4248714_9413a9d5_2783_7719_313@1270x628.jpg",
+      "summary": "【REDMI K90／Turbo 5系列 最新销量曝光：合计超510万台，K90近223万台】 REDMI K90 截至2026 W24 —— 约222.81万 截至2026 W23 —— 约215.05万 截至2026 W22 —— 约208.59万 REDMI K90 Max 截至2026 W24 —— 约32.8万 截至2026 W23 —— 约28…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-2988fe26bad3",
+      "title": "Xiaomi 17T Pro vs iQOO 15: Which 2026 Flagship Offers Better Value?",
+      "source": "Gizmochina",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-25",
+      "time": "12:44",
+      "publishedAt": "2026-06-25T12:44:51.000Z",
+      "url": "https://www.gizmochina.com/2026/06/25/xiaomi-17t-pro-vs-iqoo-15/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/06/image-135-300x190.png?x44794",
+      "summary": "Xiaomi 17T Pro and iQOO 15 represent two different approaches to the 2026 flagship smartphone experience. While Xiaomi focuses on premium Leica-powered photography and multimedia,…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-d8b00f32f64b",
+      "title": "Some people tried the Galaxy Z Fold 8 and they have this to say",
+      "source": "SamMobile",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-25",
+      "time": "12:39",
+      "publishedAt": "2026-06-25T12:39:55.000Z",
+      "url": "https://www.sammobile.com/news/some-people-tried-the-galaxy-z-fold-8-and-they-have-this-to-say/",
+      "image": "",
+      "summary": "Samsung is going to launch two models of the Galaxy Z Fold 8 this year. The Galaxy Z Fold 8 Ultra is the Galaxy Z Fold 7's successor while the Galaxy Z Fold 8 is the wider model t…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-e42355d49600",
       "title": "Prime Day delivers the steepest discount ever on the Google Pixel 10 Pro Fold",
@@ -17,26 +237,6 @@ window.phoneRadarAuto = {
       "summary": "Amazon is not playing around here",
       "tags": [
         "Pixel",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-402dd558fe7f",
-      "title": "New Galaxy S23 software update makes it more secure",
-      "source": "SamMobile",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-25",
-      "time": "11:15",
-      "publishedAt": "2026-06-25T11:15:15.000Z",
-      "url": "https://www.sammobile.com/news/new-galaxy-s23-software-update-makes-it-more-secure/",
-      "image": "",
-      "summary": "Samsung, after releasing the June 2026 security patch for the Galaxy S26, Galaxy S25, and Galaxy S24, is now offering the latest security update to the Galaxy S23 lineup. At the m…",
-      "tags": [
-        "Samsung",
         "爆料",
         "自动抓取"
       ]
@@ -203,7 +403,7 @@ window.phoneRadarAuto = {
     },
     {
       "id": "auto-2301e12ba3ff",
-      "title": "Survey says most readers love the Galaxy S26 Ultra’s most divisive feature",
+      "title": "Is the Galaxy S26 Ultra’s Privacy Display really worth it? Here’s what our readers say",
       "source": "Android Authority",
       "brand": "Samsung",
       "model": "Samsung 相关机型",
@@ -322,26 +522,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-f8b3b9a3ddba",
-      "title": "旗下首款 S Pro 智能手机：三星 Galaxy S27 Pro 现身 GSMA 数据库",
-      "source": "IT之家",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-25",
-      "time": "08:13",
-      "publishedAt": "2026-06-25T08:13:16.000Z",
-      "url": "https://www.ithome.com/0/968/532.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/6/5980e67b-9438-4ca5-a260-e1a5c68439ac.png",
-      "summary": "IT之家 6 月 25 日消息，OvrPlus 今日发现，三款尚未发布的三星设备出现在了 GSMA 数据库中，型号分别为 SM-S956U、SM-S957B/DS 和 SM-S958U。 其中，SM-S956U 对应 Galaxy S27 Plus，SM-S958U 对应 Galaxy S27 Ultra，而 SM-S957B/DS 则被明确标注为 Gal…",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "coolapk-user-897c67b8896f",
       "title": "竹本青：曝苹果第二代阔折叠立项确定： iPhone Ultra2",
       "source": "竹本青",
@@ -402,6 +582,26 @@ window.phoneRadarAuto = {
       ]
     },
     {
+      "id": "auto-b98c391f1933",
+      "title": "All the best Prime Day deals: Pixel 10, Galaxy gear, tech accessories, more [Day 3 Update]",
+      "source": "9to5Google",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-25",
+      "time": "07:05",
+      "publishedAt": "2026-06-25T07:05:00.000Z",
+      "url": "https://9to5google.com/2026/06/25/best-prime-day-deals-pixel-galaxy/",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/06/Amazon-Prime-Day_green-2026.png?w=1600",
+      "summary": "The 2026 Amazon Prime Day sale is now flying with a countless number of price drops across just about every product category. We are tracking new all-time lows and up to $400 off…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
       "id": "auto-1b4e1d4fbe5f",
       "title": "A 14,000mAh battery phone could be on the way, but there’s a catch",
       "source": "Android Authority",
@@ -417,26 +617,6 @@ window.phoneRadarAuto = {
       "summary": "A phone with almost double the capacity of the OnePlus 15's huge 7,300mAh battery? Yep, it's in the works.",
       "tags": [
         "OPPO",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-1672bba401bd",
-      "title": "Samsung confirms the existence of the Galaxy S27 Pro",
-      "source": "SamMobile",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-25",
-      "time": "06:14",
-      "publishedAt": "2026-06-25T06:14:34.000Z",
-      "url": "https://www.sammobile.com/news/samsung-confirms-the-existence-of-the-galaxy-s27-pro/",
-      "image": "https://www.sammobile.com/wp-content/uploads/2026/06/Samsung-Galaxy-S27-Plus-Pro-Ultra-GSMA-Database-Entries.jpg",
-      "summary": "It has long been rumored that Samsung could launch at least four Galaxy S27 series phones next year. While three of them will succeed the Galaxy S26, Galaxy S26+, and Galaxy S26 U…",
-      "tags": [
-        "Samsung",
         "爆料",
         "自动抓取"
       ]
@@ -602,6 +782,46 @@ window.phoneRadarAuto = {
       ]
     },
     {
+      "id": "newsnow-8a1fb2af1198",
+      "title": "REDMI K90至尊版续航组合公布：8550mAh+100W",
+      "source": "酷安热榜",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-06-25",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/72514072",
+      "image": "",
+      "summary": "REDMI K90至尊版续航组合公布：8550mAh+100W",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-fa225e3a3a84",
+      "title": "苹果涨价iPhone未涨",
+      "source": "微博热搜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "待验证",
+      "date": "2026-06-25",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E6%B6%A8%E4%BB%B7iPhone%E6%9C%AA%E6%B6%A8%23&t=31&band_rank=9&Refer=top",
+      "image": "",
+      "summary": "苹果涨价iPhone未涨",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
       "id": "auto-c57c9c843c21",
       "title": "Google Home’s automation widget is busted on iOS, but a fix is in the works",
       "source": "Android Authority",
@@ -694,7 +914,7 @@ window.phoneRadarAuto = {
       "publishedAt": "2026-06-24T14:37:21.000Z",
       "url": "https://9to5mac.com/2026/06/24/iphone-18-pro-might-cost-less-than-expected-per-report/",
       "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/iphone-17-pro-silver-silent-action-button.jpg?quality=82&strip=all&w=1600",
-      "summary": "Apple CEO Tim Cook recently said that “price increases are unavoidable,” but a new analyst report offers good news for prospective iPhone 18 Pro buyers.",
+      "summary": "Apple CEO Tim Cook recently said that “price increases are unavoidable,” but a new analyst report could offer good news for prospective iPhone 18 Pro buyers.",
       "tags": [
         "iPhone",
         "爆料",
@@ -717,26 +937,6 @@ window.phoneRadarAuto = {
       "summary": "A new leak has revealed the alleged wallpapers Samsung is bringing to the Galaxy Z Fold 8, with everything lining up with leaked colors for the actual phone. I just hope the phone…",
       "tags": [
         "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-8096e49e8e1c",
-      "title": "Foldable iPhone 'Ultra' Set for Production in July Despite Hinge Issues",
-      "source": "MacRumors",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-24",
-      "time": "13:56",
-      "publishedAt": "2026-06-24T13:56:24.000Z",
-      "url": "https://www.macrumors.com/2026/06/24/foldable-iphone-ultra-set-for-production-july/",
-      "image": "https://images.macrumors.com/article-new/2025/08/Apple-Foldable-Thumb.jpg",
-      "summary": "Apple's rumored foldable iPhone \"Ultra\" is expected to begin mass production at the end of July, according to a new report by The Elec . Although some recent reports suggested the…",
-      "tags": [
-        "iPhone",
         "爆料",
         "自动抓取"
       ]
@@ -997,66 +1197,6 @@ window.phoneRadarAuto = {
       "summary": "iQOO is reportedly working on its next affordable flagship, which is believed to be the Neo 11S. A new leak, courtesy of tipster Digital Chat Station, has emerged to reveal key de…",
       "tags": [
         "vivo",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-3dc8b6194833",
-      "title": "All the best Prime Day deals: Pixel 10, Galaxy gear, tech accessories, more [Updated]",
-      "source": "9to5Google",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-24",
-      "time": "07:05",
-      "publishedAt": "2026-06-24T07:05:00.000Z",
-      "url": "https://9to5google.com/2026/06/24/best-prime-day-deals-pixel-galaxy/",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/06/Amazon-Prime-Day_green-2026.png?w=1600",
-      "summary": "The 2026 Amazon Prime Day sale is now flying with a countless number of price drops across just about every product category. We are tracking new all-time lows and up to $400 off…",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-5db9bb4e2861",
-      "title": "Oppo Find X10 Ultra tipped to further improve 10x periscope with much larger sensor than X9 Ultra",
-      "source": "Gizmochina",
-      "brand": "OPPO",
-      "model": "OPPO 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-24",
-      "time": "05:01",
-      "publishedAt": "2026-06-24T05:01:32.000Z",
-      "url": "https://www.gizmochina.com/2026/06/24/oppo-find-x10-ultra-tipped-to-further-improve-10x-periscope-with-much-larger-sensor-than-x9-ultra/",
-      "image": "https://www.gizmochina.com/wp-content/uploads/2026/04/Oppo-Find-X9-Ultra-300x169.png?x44794",
-      "summary": "Oppo is wasting no time pushing smartphone photography even further. Fresh leaks suggest the upcoming Find X10 Ultra will fix one of the few weak spots from its predecessor, the d…",
-      "tags": [
-        "OPPO",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-b28a40e1438b",
-      "title": "Redmi K90 Ultra is launching next week with active cooling fan, price segment officially confirmed",
-      "source": "Gizmochina",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-24",
-      "time": "04:05",
-      "publishedAt": "2026-06-24T04:05:04.000Z",
-      "url": "https://www.gizmochina.com/2026/06/24/redmi-k90-ultra-launch-date-design-key-specs-confirmed/",
-      "image": "https://www.gizmochina.com/wp-content/uploads/2026/06/Redmi-K90-Ultra-design-300x300.jpg?x44794",
-      "summary": "Redmi has confirmed that the Redmi K90 Ultra will launch in China on June 30, while also revealing several details about the upcoming handset ahead of its debut. Redmi describes t…",
-      "tags": [
-        "Xiaomi",
         "爆料",
         "自动抓取"
       ]

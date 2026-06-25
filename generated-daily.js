@@ -1,12 +1,12 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-06-25T12:32:53.594Z",
+  "updatedAt": "2026-06-25T16:35:52.350Z",
   "issueDate": "2026-06-25",
   "issue": "VOL.260625",
   "title": "手机情报日报",
-  "intro": "今日筛出 14 条重点，其中 8 条是重点爆料，包含 7 条 iPhone 相关、1 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 12 条重点，其中 8 条是重点爆料，包含 8 条 iPhone 相关、1 条官方确认、0 条参数线索。",
   "stats": {
-    "total": 14,
-    "iphone": 7,
+    "total": 12,
+    "iphone": 8,
     "leaks": 8,
     "official": 1,
     "specs": 0
@@ -17,6 +17,53 @@ window.phoneRadarDaily = {
       "title": "重点爆料",
       "hint": "机模、配色、影像、屏幕、电池和芯片线索先看。",
       "items": [
+        {
+          "id": "auto-f4888b3f092a",
+          "title": "苹果代工厂塔塔电子被黑，部分 iPhone 18 Pro 与 A20 Pro 资料确认泄露",
+          "originalTitle": "",
+          "source": "IT之家",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-06-25",
+          "time": "15:30",
+          "publishedAt": "2026-06-25T15:30:06.000Z",
+          "url": "https://www.ithome.com/0/968/710.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/6/028690be-cf82-42bc-bf8d-750f8455216e.png",
+          "verdict": "先看",
+          "takeaway": "IT之家 6 月 25 日消息，塔塔电子位于印度的工厂遭遇一起大规模网络攻击。AppleInsider 证实，此次攻击导致超过 630GB 的机密数据被窃取，其中包括尚未发布的 iPhone 18 Pro 与 iPhone 18 Pro Max 的主板设计图纸，以及多款苹果自研芯片的数据手册。 有网络安全研究人员发现，勒索软件组织“World Leaks”…",
+          "detail": "IT之家 6 月 25 日消息，塔塔电子位于印度的工厂遭遇一起大规模网络攻击。AppleInsider 证实，此次攻击导致超过 630GB 的机密数据被窃取，其中包括尚未发布的 iPhone 18 Pro 与 iPhone 18 Pro Max 的主板设计图纸，以及多款苹果自研芯片的数据手册。 有网络安全研究人员发现，勒索软件组织“World Leaks”…",
+          "keyPoints": [
+            "芯片 / 性能",
+            "爆料来源"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "auto-2b701accd647",
+          "title": "华硕率先发布测试版 BIOS，为 AMD 锐龙 9000 非 PRO 处理器恢复 TSME 内存加密支持",
+          "originalTitle": "",
+          "source": "IT之家",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-06-25",
+          "time": "15:10",
+          "publishedAt": "2026-06-25T15:10:00.000Z",
+          "url": "https://www.ithome.com/0/968/708.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/6/7601c2ba-d32d-40c9-a918-8953ff90436d.jpg?x-bce-process=image/format,f_auto",
+          "verdict": "先看",
+          "takeaway": "IT之家 6 月 25 日消息，华硕今日在其官方论坛上为多款 AM5 主板发布了测试版 BIOS 更新，其中包含 AMD AGESA ComboAM5 PI 1.3.0.1b Patch A 补丁，其更新日志中明确提到“支持 GNR TSME 功能”。 这里的“GNR”指代的是 AMD Ryzen 9000 系列桌面处理器（代号 Granite Ridge…",
+          "detail": "IT之家 6 月 25 日消息，华硕今日在其官方论坛上为多款 AM5 主板发布了测试版 BIOS 更新，其中包含 AMD AGESA ComboAM5 PI 1.3.0.1b Patch A 补丁，其更新日志中明确提到“支持 GNR TSME 功能”。 这里的“GNR”指代的是 AMD Ryzen 9000 系列桌面处理器（代号 Granite Ridge…",
+          "keyPoints": [
+            "芯片 / 性能"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
         {
           "id": "coolapk-user-897c67b8896f",
           "title": "竹本青：曝苹果第二代阔折叠立项确定： iPhone Ultra2",
@@ -157,82 +204,6 @@ window.phoneRadarDaily = {
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "auto-c7b453589217",
-          "title": "把心情贴在手机背面：XTREM INNO 极稚墨水屏手机壳体验",
-          "originalTitle": "",
-          "source": "少数派",
-          "brand": "行业",
-          "type": "评测",
-          "trust": "媒体汇总",
-          "date": "2026-06-25",
-          "time": "06:08",
-          "publishedAt": "2026-06-25T06:08:44.000Z",
-          "url": "https://sspai.com/post/111483",
-          "image": "",
-          "verdict": "先看",
-          "takeaway": "手机主屏幕的个性化，如今越发受到重视。遍观各大手机操作系统的更新，几乎都会提到主屏幕装扮方式的增加——从壁纸、时钟再到图标、挂件，几乎没有哪个角落是不能按自己喜好调整的。对比之下，手机背面反而成为了「 ...",
-          "detail": "手机主屏幕的个性化，如今越发受到重视。遍观各大手机操作系统的更新，几乎都会提到主屏幕装扮方式的增加——从壁纸、时钟再到图标、挂件，几乎没有哪个角落是不能按自己喜好调整的。对比之下，手机背面反而成为了「 ...",
-          "keyPoints": [
-            "屏幕形态"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "newsnow-4982899b8c79",
-          "title": "实锤澎湃3就是功耗换流畅，米系的骁龙8e5机型瞬时功耗轻松突破18w～20w，你还想手机凉快？想都别想，蓝厂黑厂都是想方设法减少发热以达到更好的持续输出性能，金凡就是想用最快的速度让你手机发烫，一发烫就原形毕露卡成ppt，3秒真男人频率拉满干就完事儿了，3秒之后你别管，反正金凡有各种办法能让你的电池迅速达到40度以上",
-          "originalTitle": "",
-          "source": "酷安热榜",
-          "brand": "行业",
-          "type": "爆料",
-          "trust": "高关注爆料源",
-          "date": "2026-06-25",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://www.coolapk.com/feed/72502837",
-          "image": "",
-          "verdict": "先看",
-          "takeaway": "实锤澎湃3就是功耗换流畅，米系的骁龙8e5机型瞬时功耗轻松突破18w～20w，你还想手机凉快？想都别想，蓝厂黑厂都是想方设法减少发热以达到更好的持续输出性能，金凡就是想用最快的速度让你手机发烫，一发烫就原形毕露卡成ppt，3秒真男人频率拉满干就完事儿了，3秒之后你别管，反正金凡有各种办法能让你的电池迅速达到40度以上",
-          "detail": "实锤澎湃3就是功耗换流畅，米系的骁龙8e5机型瞬时功耗轻松突破18w～20w，你还想手机凉快？想都别想，蓝厂黑厂都是想方设法减少发热以达到更好的持续输出性能，金凡就是想用最快的速度让你手机发烫，一发烫就原形毕露卡成ppt，3秒真男人频率拉满干就完事儿了，3秒之后你别管，反正金凡有各种办法能让你的电池迅速达到40度以上",
-          "keyPoints": [
-            "电池 / 充电"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        }
-      ]
-    },
-    {
-      "id": "iphone",
-      "title": "iPhone 重点",
-      "hint": "不是硬件爆料，但和 iPhone 体验或路线有关。",
-      "items": [
-        {
-          "id": "auto-e2a641f6f657",
-          "title": "iPhone 18 Pro 价格 / 成本相关消息",
-          "originalTitle": "",
-          "source": "9to5Mac",
-          "brand": "iPhone",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-06-24",
-          "time": "14:37",
-          "publishedAt": "2026-06-24T14:37:21.000Z",
-          "url": "https://9to5mac.com/2026/06/24/iphone-18-pro-might-cost-less-than-expected-per-report/",
-          "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/iphone-17-pro-silver-silent-action-button.jpg?quality=82&strip=all&w=1600",
-          "verdict": "扫一眼",
-          "takeaway": "iPhone 18 Pro 价格 / 成本相关消息。如果涉及订阅、售价或硬件成本，才需要进一步看细节。",
-          "detail": "iPhone 18 Pro 价格 / 成本相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
-          "keyPoints": [
-            "成本 / 价格"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "影响购买预算，值得先看。",
-          "action": "有具体参数就记录到参数库；没有参数就先收藏。"
         }
       ]
     },
@@ -241,29 +212,6 @@ window.phoneRadarDaily = {
       "title": "新机与官方发布",
       "hint": "能直接更新到参数库。",
       "items": [
-        {
-          "id": "auto-f8b3b9a3ddba",
-          "title": "旗下首款 S Pro 智能手机：三星 Galaxy S27 Pro 现身 GSMA 数据库",
-          "originalTitle": "",
-          "source": "IT之家",
-          "brand": "Samsung",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-06-25",
-          "time": "08:13",
-          "publishedAt": "2026-06-25T08:13:16.000Z",
-          "url": "https://www.ithome.com/0/968/532.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/6/5980e67b-9438-4ca5-a260-e1a5c68439ac.png",
-          "verdict": "先看",
-          "takeaway": "IT之家 6 月 25 日消息，OvrPlus 今日发现，三款尚未发布的三星设备出现在了 GSMA 数据库中，型号分别为 SM-S956U、SM-S957B/DS 和 SM-S958U。 其中，SM-S956U 对应 Galaxy S27 Plus，SM-S958U 对应 Galaxy S27 Ultra，而 SM-S957B/DS 则被明确标注为 Gal…",
-          "detail": "IT之家 6 月 25 日消息，OvrPlus 今日发现，三款尚未发布的三星设备出现在了 GSMA 数据库中，型号分别为 SM-S956U、SM-S957B/DS 和 SM-S958U。 其中，SM-S956U 对应 Galaxy S27 Plus，SM-S958U 对应 Galaxy S27 Ultra，而 SM-S957B/DS 则被明确标注为 Gal…",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "中文源可以直接点开快读；看完只保留和购机有关的点。"
-        },
         {
           "id": "coolapk-user-96cfae1c7e5b",
           "title": "竹本青：【荣耀下一代终端操作系统定名 AgenticOS，将于7月正式发布】 在昨天的MWC 2026上海展上，荣耀产品线…",
