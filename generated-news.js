@@ -1,6 +1,26 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-06-25T20:22:00.774Z",
+  "updatedAt": "2026-06-25T23:44:39.280Z",
   "news": [
+    {
+      "id": "auto-0de715a396c1",
+      "title": "WhatsApp channels are finally getting search on iPhone",
+      "source": "9to5Mac",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-25",
+      "time": "21:45",
+      "publishedAt": "2026-06-25T21:45:37.000Z",
+      "url": "https://9to5mac.com/2026/06/25/whatsapp-channels-are-finally-getting-search-on-iphone/",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/11/whatsapp-ios-26.jpg?quality=82&strip=all&w=1600",
+      "summary": "Nearly a year and a half after bringing channel update search to Android, WhatsApp is now rolling out the feature to iPhone users. Here’s how it works.",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-88f96105f531",
       "title": "The Galaxy S26 Ultra scores a record-smashing discount during Prime Day — is it finally worth the price now?",
@@ -822,7 +842,7 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-27c7dccb1ee7",
+      "id": "newsnow-6b26e158a1ba",
       "title": "苹果涨价iPhone未涨",
       "source": "微博热搜",
       "brand": "iPhone",
@@ -832,7 +852,7 @@ window.phoneRadarAuto = {
       "date": "2026-06-25",
       "time": "",
       "publishedAt": "",
-      "url": "https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E6%B6%A8%E4%BB%B7iPhone%E6%9C%AA%E6%B6%A8%23&t=31&band_rank=21&Refer=top",
+      "url": "https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E6%B6%A8%E4%BB%B7iPhone%E6%9C%AA%E6%B6%A8%23&t=31&band_rank=10&Refer=top",
       "image": "",
       "summary": "苹果涨价iPhone未涨",
       "tags": [
@@ -1158,46 +1178,6 @@ window.phoneRadarAuto = {
       "tags": [
         "iPhone",
         "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-c6493b21d4e2",
-      "title": "OnePlus Nord 6 vs OPPO Reno 15: Which Mid-Premium Phone Offers Better Value?",
-      "source": "Gizmochina",
-      "brand": "OPPO",
-      "model": "OPPO 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-24",
-      "time": "09:02",
-      "publishedAt": "2026-06-24T09:02:38.000Z",
-      "url": "https://www.gizmochina.com/2026/06/24/oneplus-nord-6-vs-oppo-reno-15/",
-      "image": "https://www.gizmochina.com/wp-content/uploads/2026/06/image-128-300x196.png?x44794",
-      "summary": "The mid-premium smartphone segment is becoming more competitive than ever, and the OnePlus Nord 6 and OPPO Reno 15 are two of the most interesting contenders. One focuses on raw p…",
-      "tags": [
-        "OPPO",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-a0b9d6b11209",
-      "title": "Galaxy Z Fold 8 leak reveals colors and storage for three upcoming foldables",
-      "source": "Android Central",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "评测",
-      "trust": "媒体汇总",
-      "date": "2026-06-24",
-      "time": "08:05",
-      "publishedAt": "2026-06-24T08:05:00.000Z",
-      "url": "https://www.androidcentral.com/phones/samsung-galaxy/galaxy-z-fold-8-leak-reveals-colors-and-storage-for-three-upcoming-foldables",
-      "image": "https://cdn.mos.cms.futurecdn.net/4jtRj7RFPxNCsXvhau5YeB-1280-80.jpg",
-      "summary": "A new leak suggests Samsung's 2026 foldables will offer more colors and up to 1TB of storage.",
-      "tags": [
-        "Samsung",
-        "评测",
         "自动抓取"
       ]
     },
