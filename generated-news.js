@@ -1,6 +1,126 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-06-26T09:51:33.831Z",
+  "updatedAt": "2026-06-26T12:26:23.393Z",
   "news": [
+    {
+      "id": "auto-9a2e668bf945",
+      "title": "7999 元起 vivo X Fold6 折叠屏手机发布：全新“原子工作台”功能、天玑 9500 超能版、2 亿像素 1/1.4\" 主摄",
+      "source": "IT之家",
+      "brand": "vivo",
+      "model": "vivo 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-26",
+      "time": "12:15",
+      "publishedAt": "2026-06-26T12:15:06.000Z",
+      "url": "https://www.ithome.com/0/969/232.htm",
+      "image": "https://img14.360buyimg.com/pop/jfs/t1/465657/21/4615/87572/6a3e6cf8F754c15b9/0083320320e4fa2e.jpg",
+      "summary": "IT之家 6 月 26 日消息，vivo X Fold6 折叠屏手机在今天的发布会正式登场，7999 元起。 标准版 12GB RAM + 256GB 存储空间：7999 元 12GB RAM + 512GB 存储空间：8999 元 16GB RAM + 512GB 存储空间：9999 元 16GB RAM + 1TB 存储空间：10999 元 折叠专业影…",
+      "tags": [
+        "vivo",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-dd681de4a272",
+      "title": "JSCHEN小小狐：vivo X Fold 6 正式发布：售价 7999 元起",
+      "source": "JSCHEN小小狐",
+      "brand": "vivo",
+      "model": "vivo 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-06-26",
+      "time": "12:13",
+      "publishedAt": "2026-06-26T12:13:49.000Z",
+      "url": "https://www.coolapk.com/feed/72535799",
+      "image": "http://image.coolapk.com/feed/2026/0626/20/4702274_3d830039_6019_4792_298@2649x3130.jpg",
+      "summary": "『vivo X Fold 6 正式发布：售价 7999 元起』 12GB + 256GB —— 7999 元 12GB + 512GB —— 8999 元 16GB + 512GB —— 9999 元 16GB + 1TB —— 10999 元 「折叠专业影像套装」 16GB + 1TB —— 11999 元 ◇ 外观 蓝洞（玻璃）、盐湖、极夜、黑金 铝合…",
+      "tags": [
+        "vivo",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "coolapk-user-12142d6dfe87",
+      "title": "竹本青：【vivo X Fold6 正式发布，售价7999元起】 12+256GB —— 7999元 12+512GB —…",
+      "source": "竹本青",
+      "brand": "vivo",
+      "model": "vivo 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-06-26",
+      "time": "12:13",
+      "publishedAt": "2026-06-26T12:13:47.000Z",
+      "url": "https://www.coolapk.com/feed/72535797",
+      "image": "http://image.coolapk.com/feed/2026/0626/20/4248714_3d5c3483_6345_0036_691@2000x2364.jpg",
+      "summary": "【vivo X Fold6 正式发布，售价7999元起】 12+256GB —— 7999元 12+512GB —— 8999元 16+512GB —— 9999元 16+1TB —— 10999元 16+1TB —— 11299元（限量黑金版） 核心： ● 天玑 9500超能版｜蓝图V3+ ● 7000mAh+80W有线+40W无线 ● 超可靠轻量铰链+…",
+      "tags": [
+        "vivo",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-d26b4437d0c1",
+      "title": "诈骗案件高发，韩国 7 月起办新手机号须进行人脸识别身份认证",
+      "source": "IT之家",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-26",
+      "time": "10:59",
+      "publishedAt": "2026-06-26T10:59:38.000Z",
+      "url": "https://www.ithome.com/0/969/215.htm",
+      "image": "",
+      "summary": "IT之家 6 月 26 日消息，据韩联社报道，韩国政府为打击非法一次性手机和电信诈骗等民生犯罪而推进的“移动通信服务面部认证制度”， 将于今年 7 月正式实施 。 韩国要求该国三大移动运营商 SK Telecom Co.、KT Corp.和 LG Uplus Inc.，以及移动虚拟网络运营商，执行这一额外的验证步骤，以防止通过身份盗窃激活新号码。 韩国政府…",
+      "tags": [
+        "行业",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-d08d52b702ed",
+      "title": "A Galaxy S27 Pro database listing makes it feel like everything's coming together",
+      "source": "Android Central",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-06-26",
+      "time": "10:17",
+      "publishedAt": "2026-06-26T10:17:00.000Z",
+      "url": "https://www.androidcentral.com/phones/samsung-galaxy/leaked-galaxy-s27-pro-database-listing-feels-like-everythings-coming-together",
+      "image": "https://cdn.mos.cms.futurecdn.net/AgzdzpUDVUCDgjvHgWFfvf-1280-80.jpg",
+      "summary": "Galaxy S27 Pro reportedly appeared in an important database, which pushes it into the limelight as Samsung's fourth model looks a little more real.",
+      "tags": [
+        "Samsung",
+        "评测",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-dbc14d002950",
+      "title": "iQOO 16T is in the works, first details emerge",
+      "source": "Gizmochina",
+      "brand": "vivo",
+      "model": "vivo 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-26",
+      "time": "10:11",
+      "publishedAt": "2026-06-26T10:11:29.000Z",
+      "url": "https://www.gizmochina.com/2026/06/26/iqoo-16t-in-works/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/05/iQOO-15T-1-300x200.png?x44794",
+      "summary": "iQOO has a couple of new flagship phones lined up for the Chinese market. Next month, the brand is expected to unveil the iQOO Neo 11S powered by the Dimensity 9500. In September…",
+      "tags": [
+        "vivo",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-48d5019a0348",
       "title": "The Galaxy Z Fold 8 is almost here, but why wait when the Z Fold 7 is over $500 off?",
@@ -182,66 +302,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-2e4c5010d753",
-      "title": "谷歌酝酿安卓 17 新特性：扫码验证手机系统是否被篡改",
-      "source": "IT之家",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-26",
-      "time": "07:23",
-      "publishedAt": "2026-06-26T07:23:48.000Z",
-      "url": "https://www.ithome.com/0/969/048.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/6/b6918699-eee4-4c87-83ab-468a8736b9fb.png?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 6 月 26 日消息，科技媒体 Android Authority 昨日（6 月 25 日）发布博文，报道称在安卓 17 系统中， 谷歌正酝酿系统验证（OS Verification）功能，需要两台手机搭配使用。 IT之家曾于 5 月报道，安卓用户可以通过该功能，查看当前手机系统是否属于谷歌认可、广泛分发的官方安卓版本，减少用户被伪装系统误导的风…",
-      "tags": [
-        "行业",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-0b8911304b9e",
-      "title": "老年人微信账号遭广告营销群“轰炸”引热议：退一个群又被拉一个、一数竟有 77 万条未读消息",
-      "source": "IT之家",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-26",
-      "time": "07:01",
-      "publishedAt": "2026-06-26T07:01:27.000Z",
-      "url": "https://www.ithome.com/0/969/022.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/6/7355120a-e549-487d-a3d7-fd9ec52590d9.jpg",
-      "summary": "IT之家 6 月 26 日消息，据“南方日报”报道，近期广东一网友小林曝光自己奶奶的微信账号遭大量广告营销群轰炸，导致手机异常卡顿，统计后“竟发现有 77 万条未读消息”。 IT之家参考报道获悉，相应广告营销群系通过添加企业微信联系人后被拉入，认证主体多为杂货店。群内成员均为陌生人，每群仅十至二十人，且被拉入时既无通知，也无需本人确认。 后续，小林和母亲一…",
-      "tags": [
-        "行业",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-bbfe1238a529",
-      "title": "消息称苹果 iPhone 18 Pro / Max 及 Ultra 阔折叠均为“万元机”",
-      "source": "IT之家",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-26",
-      "time": "06:50",
-      "publishedAt": "2026-06-26T06:50:36.000Z",
-      "url": "https://www.ithome.com/0/969/019.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/6/4526f7b2-f099-40e6-8923-5a00524b58c0.jpg?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 6 月 26 日消息，博主 @数码闲聊站 发文，透露苹果 iPhone 18 Pro 系列不涨价的可能性极低，预计今年 9 月发布的 iPhone 18 Pro 手机定价为 9999 元起，包括 18 Pro/18 Pro Max 及苹果首款折叠屏手机 iPhone Ultra 均为“万元机”。 IT之家注意到，该博主还在评论区透露 iPhone…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-2f78e672e379",
       "title": "Alleged Redmi Note 17 Pro bags important certification, July launch expected",
       "source": "Gizmochina",
@@ -319,26 +379,6 @@ window.phoneRadarAuto = {
         "Xiaomi",
         "爆料",
         "自动抓取"
-      ]
-    },
-    {
-      "id": "coolapk-user-2534cedc21fe",
-      "title": "竹本青：高通阵营迭代新机骁龙8系芯片方案曝光",
-      "source": "竹本青",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-06-26",
-      "time": "03:04",
-      "publishedAt": "2026-06-26T03:04:15.000Z",
-      "url": "https://www.coolapk.com/feed/72528676",
-      "image": "http://image.coolapk.com/feed/2026/0626/11/4248714_94b7b171_3054_2813_537@1440x1014.jpg",
-      "summary": "【高通阵营迭代新机 骁龙8系芯片方案曝光】 ● SM8975 2nm，命名暂定骁龙8 Elite Gen6 Pro，2+3+3新一代Oryan CPU架构，共享16MB L2，频率更激进，A850 GPU 18MB GMEM，支持LPDDR6/5X，峰值性能刷新高。 ● SM8950 2nm，命名暂定骁龙8 Elite Gen6，2+3+3新一代Oryan…",
-      "tags": [
-        "行业",
-        "爆料",
-        "酷安博主"
       ]
     },
     {
@@ -442,21 +482,21 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-5d8237d309b3",
-      "title": "iPhone18Pro起售价或9999元",
-      "source": "微博热搜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
+      "id": "newsnow-6205fcbe17da",
+      "title": "涨声一片！受全球DRAM与NAND芯片成本持续上涨影响，本周苹果、iQOO、Xbox主机全线上调售价。",
+      "source": "酷安热榜",
+      "brand": "vivo",
+      "model": "vivo 相关机型",
       "type": "爆料",
-      "trust": "待验证",
+      "trust": "高关注爆料源",
       "date": "2026-06-26",
       "time": "",
       "publishedAt": "",
-      "url": "https://s.weibo.com/weibo?q=%23iPhone18Pro%E8%B5%B7%E5%94%AE%E4%BB%B7%E6%88%969999%E5%85%83%23&t=31&band_rank=30&Refer=top",
+      "url": "https://www.coolapk.com/feed/72532691",
       "image": "",
-      "summary": "iPhone18Pro起售价或9999元",
+      "summary": "涨声一片！受全球DRAM与NAND芯片成本持续上涨影响，本周苹果、iQOO、Xbox主机全线上调售价。",
       "tags": [
-        "iPhone",
+        "vivo",
         "爆料",
         "NewsNow"
       ]
@@ -562,26 +602,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-544608323ef8",
-      "title": "It’s (almost) official: Samsung is adding a Pro model to the Galaxy S27 Lineup",
-      "source": "Android Police",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-25",
-      "time": "16:39",
-      "publishedAt": "2026-06-25T16:39:36.000Z",
-      "url": "https://www.androidpolice.com/its-almost-official-samsung-is-adding-a-pro-model-to-the-galaxy-s27-lineup/",
-      "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2026/06/samsung-galaxy-s23-ultra-review.jpeg",
-      "summary": "There's some proof that the Samsung Galaxy S27 Pro, the Schrodinger’s cat of phones, might actually exist.",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-6b2999d8431e",
       "title": "Galaxy Z Fold 8 release date leaks, hands-on impressions make ‘Ultra’ seem pointless",
       "source": "9to5Google",
@@ -682,26 +702,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-d8b00f32f64b",
-      "title": "Some people tried the Galaxy Z Fold 8 and they have this to say",
-      "source": "SamMobile",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-25",
-      "time": "12:39",
-      "publishedAt": "2026-06-25T12:39:55.000Z",
-      "url": "https://www.sammobile.com/news/some-people-tried-the-galaxy-z-fold-8-and-they-have-this-to-say/",
-      "image": "",
-      "summary": "Samsung is going to launch two models of the Galaxy Z Fold 8 this year. The Galaxy Z Fold 8 Ultra is the Galaxy Z Fold 7's successor while the Galaxy Z Fold 8 is the wider model t…",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-29db60a78299",
       "title": "iPhone Ultra 2 already given go-ahead, iPhone Air 3 not, says leaker",
       "source": "9to5Mac",
@@ -778,26 +778,6 @@ window.phoneRadarAuto = {
       "tags": [
         "Samsung",
         "评测",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-ea71963965f2",
-      "title": "Apple already working on 2nd foldable ahead of iPhone Ultra debut",
-      "source": "Huawei Central",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-25",
-      "time": "10:02",
-      "publishedAt": "2026-06-25T10:02:07.000Z",
-      "url": "https://www.huaweicentral.com/apple-iphone-ultra-2nd-foldable/",
-      "image": "https://www.huaweicentral.com/wp-content/uploads/2026/06/iPhone-Ultra2-leak.jpg",
-      "summary": "Apple has seemingly started working on the 2nd-generation foldable device before the launch of the iPhone Ultra. It looks like the company has doubts about whether its first-ever…",
-      "tags": [
-        "iPhone",
-        "爆料",
         "自动抓取"
       ]
     },
