@@ -1,12 +1,12 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-06-26T12:26:23.393Z",
+  "updatedAt": "2026-06-26T16:27:46.786Z",
   "issueDate": "2026-06-26",
   "issue": "VOL.260626",
   "title": "手机情报日报",
-  "intro": "今日筛出 13 条重点，其中 8 条是重点爆料，包含 3 条 iPhone 相关、0 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 11 条重点，其中 8 条是重点爆料，包含 4 条 iPhone 相关、0 条官方确认、0 条参数线索。",
   "stats": {
-    "total": 13,
-    "iphone": 3,
+    "total": 11,
+    "iphone": 4,
     "leaks": 8,
     "official": 0,
     "specs": 0
@@ -43,6 +43,54 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
+          "id": "auto-4c4d87072e6d",
+          "title": "iPhone 18 Pro 价格 / 成本相关消息",
+          "originalTitle": "",
+          "source": "MacRumors",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-06-26",
+          "time": "16:16",
+          "publishedAt": "2026-06-26T16:16:31.000Z",
+          "url": "https://www.macrumors.com/2026/06/26/the-macrumors-show-iphone-18-pro-pricing-problem/",
+          "image": "",
+          "verdict": "先看",
+          "takeaway": "iPhone 18 Pro 价格 / 成本相关消息。如果涉及订阅、售价或硬件成本，才需要进一步看细节。",
+          "detail": "iPhone 18 Pro 价格 / 成本相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
+          "keyPoints": [
+            "成本 / 价格",
+            "爆料来源"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "auto-a9c6226050ac",
+          "title": "iPhone 18 Pro 折叠屏相关消息",
+          "originalTitle": "",
+          "source": "MacRumors",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-06-26",
+          "time": "14:14",
+          "publishedAt": "2026-06-26T14:14:02.000Z",
+          "url": "https://www.macrumors.com/2026/06/26/iphone-18-pro-and-foldable-to-get-price-hikes/",
+          "image": "https://images.macrumors.com/article-new/2026/04/iphone-17-pro-black-feature.jpg",
+          "verdict": "先看",
+          "takeaway": "iPhone 18 Pro 折叠屏相关消息。如果涉及订阅、售价或硬件成本，才需要进一步看细节。",
+          "detail": "iPhone 18 Pro 折叠屏相关消息。重点看折痕、铰链、厚度、屏幕可靠性和重量是否有实质改善。",
+          "keyPoints": [
+            "成本 / 价格",
+            "爆料来源"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
           "id": "auto-29db60a78299",
           "title": "iPhone 系统功能 / AI 体验相关消息",
           "originalTitle": "",
@@ -58,29 +106,6 @@ window.phoneRadarDaily = {
           "verdict": "先看",
           "takeaway": "iPhone 有系统功能或 AI 体验更新，适合关注后续是否影响日常使用。",
           "detail": "iPhone 系统功能 / AI 体验相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
-          "keyPoints": [
-            "爆料来源"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "auto-d0e736c34d0c",
-          "title": "iPhone 相关消息",
-          "originalTitle": "",
-          "source": "MacRumors",
-          "brand": "iPhone",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-06-25",
-          "time": "09:27",
-          "publishedAt": "2026-06-25T09:27:05.000Z",
-          "url": "https://www.macrumors.com/2026/06/25/iphone-ultra-2-development-approved-by-apple/",
-          "image": "https://images.macrumors.com/article-new/2025/12/3D-Printed-iPhone-Fold-Thumb-2.jpg",
-          "verdict": "先看",
-          "takeaway": "iPhone 相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
-          "detail": "iPhone 相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
           "keyPoints": [
             "爆料来源"
           ],
@@ -113,29 +138,6 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
-          "id": "auto-c6ecab07c90c",
-          "title": "努比亚 Neo 5 Max 巨屏手机现身 MWC26 上海：搭 7.5 英寸 1.5K LCD 面板、主攻海外市场",
-          "originalTitle": "",
-          "source": "IT之家",
-          "brand": "行业",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-06-26",
-          "time": "08:28",
-          "publishedAt": "2026-06-26T08:28:47.000Z",
-          "url": "https://www.ithome.com/0/969/077.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/6/840f7a3c-76c9-4e53-b120-dba3c7851ae5.jpg",
-          "verdict": "先看",
-          "takeaway": "IT之家 6 月 26 日消息，MWC26 上海于 6 月 24 日正式启幕，IT之家注意到，努比亚在展馆内展示了一款 Neo 5 Max 巨屏手机，不过官方透露该机主攻海外市场，并不会在国内上市销售。 该机正面配备一块 7.5 英寸 1.5K LCD 面板，手机背面采用墨绿配色，带有足球图案，镜头采用八边形设计。官方强调这款手机可以搭配便携手柄作为掌机使…",
-          "detail": "IT之家 6 月 26 日消息，MWC26 上海于 6 月 24 日正式启幕，IT之家注意到，努比亚在展馆内展示了一款 Neo 5 Max 巨屏手机，不过官方透露该机主攻海外市场，并不会在国内上市销售。 该机正面配备一块 7.5 英寸 1.5K LCD 面板，手机背面采用墨绿配色，带有足球图案，镜头采用八边形设计。官方强调这款手机可以搭配便携手柄作为掌机使…",
-          "keyPoints": [
-            "外观 / 配色 / 尺寸"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
           "id": "auto-9a2e668bf945",
           "title": "7999 元起 vivo X Fold6 折叠屏手机发布：全新“原子工作台”功能、天玑 9500 超能版、2 亿像素 1/1.4\" 主摄",
           "originalTitle": "",
@@ -149,34 +151,10 @@ window.phoneRadarDaily = {
           "url": "https://www.ithome.com/0/969/232.htm",
           "image": "https://img14.360buyimg.com/pop/jfs/t1/465657/21/4615/87572/6a3e6cf8F754c15b9/0083320320e4fa2e.jpg",
           "verdict": "先看",
-          "takeaway": "IT之家 6 月 26 日消息，vivo X Fold6 折叠屏手机在今天的发布会正式登场，7999 元起。 标准版 12GB RAM + 256GB 存储空间：7999 元 12GB RAM + 512GB 存储空间：8999 元 16GB RAM + 512GB 存储空间：9999 元 16GB RAM + 1TB 存储空间：10999 元 折叠专业影…",
-          "detail": "IT之家 6 月 26 日消息，vivo X Fold6 折叠屏手机在今天的发布会正式登场，7999 元起。 标准版 12GB RAM + 256GB 存储空间：7999 元 12GB RAM + 512GB 存储空间：8999 元 16GB RAM + 512GB 存储空间：9999 元 16GB RAM + 1TB 存储空间：10999 元 折叠专业影…",
+          "takeaway": "IT之家 6 月 26 日消息，vivo X Fold6 折叠屏手机在今天的发布会正式登场，7999 元起。 标准版 12GB RAM + 256GB 存储空间：7999 元 12GB RAM + 512GB 存储空间：8999 元 16GB RAM + 512GB 存储空间：9999 元 16GB RAM + 1TB 存储空间：10999 元 黑金限定版…",
+          "detail": "IT之家 6 月 26 日消息，vivo X Fold6 折叠屏手机在今天的发布会正式登场，7999 元起。 标准版 12GB RAM + 256GB 存储空间：7999 元 12GB RAM + 512GB 存储空间：8999 元 16GB RAM + 512GB 存储空间：9999 元 16GB RAM + 1TB 存储空间：10999 元 黑金限定版…",
           "keyPoints": [
             "屏幕形态"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "newsnow-7d82f6c58732",
-          "title": "vivo X Fold6 预热汇总：7000mAh电池，蔡司2亿主摄+蔡司APO超级长焦",
-          "originalTitle": "",
-          "source": "酷安热榜",
-          "brand": "vivo",
-          "type": "爆料",
-          "trust": "高关注爆料源",
-          "date": "2026-06-26",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://www.coolapk.com/feed/72528609",
-          "image": "",
-          "verdict": "先看",
-          "takeaway": "vivo X Fold6 预热汇总：7000mAh电池，蔡司2亿主摄+蔡司APO超级长焦",
-          "detail": "vivo X Fold6 预热汇总：7000mAh电池，蔡司2亿主摄+蔡司APO超级长焦",
-          "keyPoints": [
-            "影像硬件",
-            "电池 / 充电"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
@@ -203,6 +181,30 @@ window.phoneRadarDaily = {
             "成本 / 价格"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "coolapk-user-dd681de4a272",
+          "title": "JSCHEN小小狐：vivo X Fold 6 正式发布：售价 7999 元起",
+          "originalTitle": "",
+          "source": "JSCHEN小小狐",
+          "brand": "vivo",
+          "type": "爆料",
+          "trust": "高可信爆料",
+          "date": "2026-06-26",
+          "time": "12:13",
+          "publishedAt": "2026-06-26T12:13:49.000Z",
+          "url": "https://www.coolapk.com/feed/72535799",
+          "image": "http://image.coolapk.com/feed/2026/0626/20/4702274_3d830039_6019_4792_298@2649x3130.jpg",
+          "verdict": "先看",
+          "takeaway": "『vivo X Fold 6 正式发布：售价 7999 元起』 12GB + 256GB —— 7999 元 12GB + 512GB —— 8999 元 16GB + 512GB —— 9999 元 16GB + 1TB —— 10999 元 16GB + 1TB 黑金版 —— 11299 元 「折叠专业影像套装」 16GB + 1TB —— 11999…",
+          "detail": "『vivo X Fold 6 正式发布：售价 7999 元起』 12GB + 256GB —— 7999 元 12GB + 512GB —— 8999 元 16GB + 512GB —— 9999 元 16GB + 1TB —— 10999 元 16GB + 1TB 黑金版 —— 11299 元 「折叠专业影像套装」 16GB + 1TB —— 11999…",
+          "keyPoints": [
+            "影像硬件",
+            "成本 / 价格"
+          ],
+          "confidence": "可信度较高，但仍属于发布前线索。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         }
@@ -239,63 +241,10 @@ window.phoneRadarDaily = {
       ]
     },
     {
-      "id": "review",
-      "title": "评测与体验",
-      "hint": "买前再细看，平时扫一眼即可。",
-      "items": [
-        {
-          "id": "coolapk-user-9dd22ab9498e",
-          "title": "竹本青：OPPO与Verifone达成专利合作",
-          "originalTitle": "",
-          "source": "竹本青",
-          "brand": "OPPO",
-          "type": "爆料",
-          "trust": "高可信爆料",
-          "date": "2026-06-26",
-          "time": "08:56",
-          "publishedAt": "2026-06-26T08:56:22.000Z",
-          "url": "https://www.coolapk.com/feed/72533123",
-          "image": "http://image.coolapk.com/feed/2026/0626/16/4248714_6d566859_4115_5369_2@720x480.jpg",
-          "verdict": "扫一眼",
-          "takeaway": "【OPPO与Verifone达成专利合作，将落地Verifone POS终端】 近日，OPPO与支付技术企业Verifone，签署全球专利许可协议，OPPO将向Verifone许可蜂窝通信标准必要专利，以提升其POS机设备的用户体验。 总部位于美国纽约的跨国公司Verifone，专注于为电子支付交易和销售点增值服务提供技术支持，向金融、零售、酒店、石油、政…",
-          "detail": "【OPPO与Verifone达成专利合作，将落地Verifone POS终端】 近日，OPPO与支付技术企业Verifone，签署全球专利许可协议，OPPO将向Verifone许可蜂窝通信标准必要专利，以提升其POS机设备的用户体验。 总部位于美国纽约的跨国公司Verifone，专注于为电子支付交易和销售点增值服务提供技术支持，向金融、零售、酒店、石油、政…",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "可信度较高，但仍属于发布前线索。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        }
-      ]
-    },
-    {
       "id": "market",
       "title": "行业趋势",
       "hint": "看方向，不急着当购买依据。",
       "items": [
-        {
-          "id": "newsnow-cd75a2832f57",
-          "title": "小鹏L03 启源Q06 用来跑网约车 极限二选一 大家帮忙推荐一下谢谢[受虐滑稽]#红米k90promax# #iPhone17ProMax# #华为Mate80ProMax#",
-          "originalTitle": "",
-          "source": "酷安热榜",
-          "brand": "Huawei",
-          "type": "爆料",
-          "trust": "高关注爆料源",
-          "date": "2026-06-26",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://www.coolapk.com/feed/72521029",
-          "image": "",
-          "verdict": "先看",
-          "takeaway": "小鹏L03 启源Q06 用来跑网约车 极限二选一 大家帮忙推荐一下谢谢[受虐滑稽]#红米k90promax# #iPhone17ProMax# #华为Mate80ProMax#",
-          "detail": "小鹏L03 启源Q06 用来跑网约车 极限二选一 大家帮忙推荐一下谢谢[受虐滑稽]#红米k90promax# #iPhone17ProMax# #华为Mate80ProMax#",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
         {
           "id": "newsnow-0f672c7e4620",
           "title": "2026年第25周国内手机市场份额曝光：华为居首",
@@ -320,27 +269,27 @@ window.phoneRadarDaily = {
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         },
         {
-          "id": "newsnow-d4578e40e020",
-          "title": "手机价格现在很高吗？那我当年3500买的塑料边框k50至尊版算是什么[流泪] #红米K50至尊版# #红米k90promax#",
+          "id": "newsnow-cd75a2832f57",
+          "title": "小鹏L03 启源Q06 用来跑网约车 极限二选一 大家帮忙推荐一下谢谢[受虐滑稽]#红米k90promax# #iPhone17ProMax# #华为Mate80ProMax#",
           "originalTitle": "",
           "source": "酷安热榜",
-          "brand": "行业",
+          "brand": "Huawei",
           "type": "爆料",
           "trust": "高关注爆料源",
           "date": "2026-06-26",
           "time": "",
           "publishedAt": "",
-          "url": "https://www.coolapk.com/feed/72509846",
+          "url": "https://www.coolapk.com/feed/72521029",
           "image": "",
-          "verdict": "扫一眼",
-          "takeaway": "手机价格现在很高吗？那我当年3500买的塑料边框k50至尊版算是什么[流泪] #红米K50至尊版# #红米k90promax#",
-          "detail": "手机价格现在很高吗？那我当年3500买的塑料边框k50至尊版算是什么[流泪] #红米K50至尊版# #红米k90promax#",
+          "verdict": "先看",
+          "takeaway": "小鹏L03 启源Q06 用来跑网约车 极限二选一 大家帮忙推荐一下谢谢[受虐滑稽]#红米k90promax# #iPhone17ProMax# #华为Mate80ProMax#",
+          "detail": "小鹏L03 启源Q06 用来跑网约车 极限二选一 大家帮忙推荐一下谢谢[受虐滑稽]#红米k90promax# #iPhone17ProMax# #华为Mate80ProMax#",
           "keyPoints": [
-            "成本 / 价格"
+            "爆料"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "影响购买预算，值得先看。",
-          "action": "有具体参数就记录到参数库；没有参数就先收藏。"
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         }
       ]
     }

@@ -1,6 +1,146 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-06-26T12:26:23.393Z",
+  "updatedAt": "2026-06-26T16:27:46.786Z",
   "news": [
+    {
+      "id": "auto-4c4d87072e6d",
+      "title": "The MacRumors Show: iPhone 18 Pro Has a Pricing Problem",
+      "source": "MacRumors",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-26",
+      "time": "16:16",
+      "publishedAt": "2026-06-26T16:16:31.000Z",
+      "url": "https://www.macrumors.com/2026/06/26/the-macrumors-show-iphone-18-pro-pricing-problem/",
+      "image": "",
+      "summary": "On this week's episode of The MacRumors Show , we discuss potential price rises for the iPhone 18 lineup following Apple's wave of hikes yesterday, as well as plans for the Apple…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-c7fd292c1793",
+      "title": "Prime Day deals – Last chance: Pixel 10 $519, NXTPAPER tab $140, Google TV Streamer $72 low, Echo, Galaxy, TVs, more",
+      "source": "9to5Google",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-26",
+      "time": "15:46",
+      "publishedAt": "2026-06-26T15:46:12.000Z",
+      "url": "https://9to5google.com/2026/06/26/prime-day-deals-last-chance-pixel-10/",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/06/Prime-Day-deals-last-chance-Google-samsung.webp?w=1600",
+      "summary": "Amazon’s 2026 Prime Day is in its final hours, and today’s 9to5Toys Lunch Break is headlined by your last chance to save Pixel 10 now starting from $519, the Google TV Streamer 4K…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-3c5fcfb86c00",
+      "title": "New iPhone Ultra report has latest pricing and release timing updates",
+      "source": "9to5Mac",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-26",
+      "time": "15:11",
+      "publishedAt": "2026-06-26T15:11:10.000Z",
+      "url": "https://9to5mac.com/2026/06/26/new-iphone-ultra-report-has-latest-pricing-and-release-timing-updates/",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/04/IMG_0033.jpeg?quality=82&strip=all&w=1600",
+      "summary": "Apple’s highly anticipated foldable iPhone is launching this fall, but a new report today claims you might have to wait a little longer (and save up a ton of money) to actually bu…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-a9c6226050ac",
+      "title": "iPhone 18 Pro and Foldable iPhone Tipped to Get Price Hikes Too",
+      "source": "MacRumors",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-26",
+      "time": "14:14",
+      "publishedAt": "2026-06-26T14:14:02.000Z",
+      "url": "https://www.macrumors.com/2026/06/26/iphone-18-pro-and-foldable-to-get-price-hikes/",
+      "image": "https://images.macrumors.com/article-new/2026/04/iphone-17-pro-black-feature.jpg",
+      "summary": "Apple's iPhone 18 Pro lineup and its first foldable iPhone will launch at higher prices than originally predicted this September, according to several known Chinese leakers. The l…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-3bc1d2a972c3",
+      "title": "竹本青：“骁龙865同档位定制处理器”，这是什么鬼处理器，有没有懂的酷友 #掌机玩家# #数码日常#",
+      "source": "竹本青",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-06-26",
+      "time": "14:11",
+      "publishedAt": "2026-06-26T14:11:14.000Z",
+      "url": "https://www.coolapk.com/feed/72537612",
+      "image": "",
+      "summary": "“骁龙865同档位定制处理器”，这是什么鬼处理器，有没有懂的酷友 #掌机玩家# #数码日常#",
+      "tags": [
+        "行业",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "coolapk-user-36dc6ebe07ad",
+      "title": "竹本青：【AYANEO Pocket MICRO 2 安卓掌机发布：骁龙865同档位定制处理器，首发1599元起】 6GB…",
+      "source": "竹本青",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-06-26",
+      "time": "14:08",
+      "publishedAt": "2026-06-26T14:08:14.000Z",
+      "url": "https://www.coolapk.com/feed/72537562",
+      "image": "http://image.coolapk.com/feed/2026/0626/22/4248714_602a899e_2878_5206_268@1080x608.jpg",
+      "summary": "【AYANEO Pocket MICRO 2 安卓掌机发布：骁龙865同档位定制处理器，首发1599元起】 6GB+128GB —— 1599元（黑/白色） 8GB+256GB —— 1899元（黑/白色） 8GB+256GB —— 2099元（限定紫色） ▫️3.5\"3:2 LCD屏｜960x640，PPI 330 ▫️高通骁龙 865同档位定制处理器（…",
+      "tags": [
+        "行业",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-1ec19ea9a4b0",
+      "title": "OnePlus N6 leak shows generous box contents as launch draws near",
+      "source": "Android Central",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-06-26",
+      "time": "13:06",
+      "publishedAt": "2026-06-26T13:06:21.000Z",
+      "url": "https://www.androidcentral.com/phones/oneplus/oneplus-n6-leak-shows-generous-box-contents-as-launch-draws-near",
+      "image": "https://cdn.mos.cms.futurecdn.net/uWLF7RLnxPB7k9DPmAmrpH-1280-80.jpg",
+      "summary": "The OnePlus N6 could buck the trend by shipping with a charger and case in the box, proving budget phones can still deliver real value.",
+      "tags": [
+        "OPPO",
+        "评测",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-9a2e668bf945",
       "title": "7999 元起 vivo X Fold6 折叠屏手机发布：全新“原子工作台”功能、天玑 9500 超能版、2 亿像素 1/1.4\" 主摄",
@@ -14,7 +154,7 @@ window.phoneRadarAuto = {
       "publishedAt": "2026-06-26T12:15:06.000Z",
       "url": "https://www.ithome.com/0/969/232.htm",
       "image": "https://img14.360buyimg.com/pop/jfs/t1/465657/21/4615/87572/6a3e6cf8F754c15b9/0083320320e4fa2e.jpg",
-      "summary": "IT之家 6 月 26 日消息，vivo X Fold6 折叠屏手机在今天的发布会正式登场，7999 元起。 标准版 12GB RAM + 256GB 存储空间：7999 元 12GB RAM + 512GB 存储空间：8999 元 16GB RAM + 512GB 存储空间：9999 元 16GB RAM + 1TB 存储空间：10999 元 折叠专业影…",
+      "summary": "IT之家 6 月 26 日消息，vivo X Fold6 折叠屏手机在今天的发布会正式登场，7999 元起。 标准版 12GB RAM + 256GB 存储空间：7999 元 12GB RAM + 512GB 存储空间：8999 元 16GB RAM + 512GB 存储空间：9999 元 16GB RAM + 1TB 存储空间：10999 元 黑金限定版…",
       "tags": [
         "vivo",
         "爆料",
@@ -34,7 +174,7 @@ window.phoneRadarAuto = {
       "publishedAt": "2026-06-26T12:13:49.000Z",
       "url": "https://www.coolapk.com/feed/72535799",
       "image": "http://image.coolapk.com/feed/2026/0626/20/4702274_3d830039_6019_4792_298@2649x3130.jpg",
-      "summary": "『vivo X Fold 6 正式发布：售价 7999 元起』 12GB + 256GB —— 7999 元 12GB + 512GB —— 8999 元 16GB + 512GB —— 9999 元 16GB + 1TB —— 10999 元 「折叠专业影像套装」 16GB + 1TB —— 11999 元 ◇ 外观 蓝洞（玻璃）、盐湖、极夜、黑金 铝合…",
+      "summary": "『vivo X Fold 6 正式发布：售价 7999 元起』 12GB + 256GB —— 7999 元 12GB + 512GB —— 8999 元 16GB + 512GB —— 9999 元 16GB + 1TB —— 10999 元 16GB + 1TB 黑金版 —— 11299 元 「折叠专业影像套装」 16GB + 1TB —— 11999…",
       "tags": [
         "vivo",
         "爆料",
@@ -242,26 +382,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-c6ecab07c90c",
-      "title": "努比亚 Neo 5 Max 巨屏手机现身 MWC26 上海：搭 7.5 英寸 1.5K LCD 面板、主攻海外市场",
-      "source": "IT之家",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-26",
-      "time": "08:28",
-      "publishedAt": "2026-06-26T08:28:47.000Z",
-      "url": "https://www.ithome.com/0/969/077.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/6/840f7a3c-76c9-4e53-b120-dba3c7851ae5.jpg",
-      "summary": "IT之家 6 月 26 日消息，MWC26 上海于 6 月 24 日正式启幕，IT之家注意到，努比亚在展馆内展示了一款 Neo 5 Max 巨屏手机，不过官方透露该机主攻海外市场，并不会在国内上市销售。 该机正面配备一块 7.5 英寸 1.5K LCD 面板，手机背面采用墨绿配色，带有足球图案，镜头采用八边形设计。官方强调这款手机可以搭配便携手柄作为掌机使…",
-      "tags": [
-        "行业",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "coolapk-user-a4701095e904",
       "title": "竹本青：大疆新品 Mic Mini 2S 正式亮相 ，将于7月2日发布",
       "source": "竹本青",
@@ -302,6 +422,26 @@ window.phoneRadarAuto = {
       ]
     },
     {
+      "id": "auto-b7262df77be6",
+      "title": "All the best Prime Day deals: Pixel 10, Galaxy gear, tech accessories, more [Last Day Update]",
+      "source": "9to5Google",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-26",
+      "time": "07:05",
+      "publishedAt": "2026-06-26T07:05:00.000Z",
+      "url": "https://9to5google.com/2026/06/26/best-prime-day-deals-pixel-galaxy/",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/06/Amazon-Prime-Day_green-2026.png?w=1600",
+      "summary": "The 2026 Amazon Prime Day sale is now flying with a countless number of price drops across just about every product category. We are tracking new all-time lows and up to $400 off…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
       "id": "auto-2f78e672e379",
       "title": "Alleged Redmi Note 17 Pro bags important certification, July launch expected",
       "source": "Gizmochina",
@@ -317,26 +457,6 @@ window.phoneRadarAuto = {
       "summary": "Redmi is reportedly working on the Redmi Note 17 family for the Chinese market. At present, there is no clarity on how many models will be part of the lineup, but recent reports h…",
       "tags": [
         "Xiaomi",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-63fa4c52c77e",
-      "title": "Samsung faces a tougher foldable battle as Apple greenlights iPhone Ultra 2",
-      "source": "SamMobile",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-26",
-      "time": "06:32",
-      "publishedAt": "2026-06-26T06:32:00.000Z",
-      "url": "https://www.sammobile.com/news/samsung-faces-foldable-battle-apple-iphone-ultra-2-greenlighted/",
-      "image": "",
-      "summary": "Samsung will face its toughest battle in the foldable smartphone space this year, as Apple is expected to launch its first foldable iPhone. Ahead of its launch, the iPhone maker h…",
-      "tags": [
-        "Samsung",
         "爆料",
         "自动抓取"
       ]
@@ -402,8 +522,8 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-7d82f6c58732",
-      "title": "vivo X Fold6 预热汇总：7000mAh电池，蔡司2亿主摄+蔡司APO超级长焦",
+      "id": "newsnow-6205fcbe17da",
+      "title": "涨声一片！受全球DRAM与NAND芯片成本持续上涨影响，本周苹果、iQOO、Xbox主机全线上调售价。",
       "source": "酷安热榜",
       "brand": "vivo",
       "model": "vivo 相关机型",
@@ -412,9 +532,9 @@ window.phoneRadarAuto = {
       "date": "2026-06-26",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72528609",
+      "url": "https://www.coolapk.com/feed/72532691",
       "image": "",
-      "summary": "vivo X Fold6 预热汇总：7000mAh电池，蔡司2亿主摄+蔡司APO超级长焦",
+      "summary": "涨声一片！受全球DRAM与NAND芯片成本持续上涨影响，本周苹果、iQOO、Xbox主机全线上调售价。",
       "tags": [
         "vivo",
         "爆料",
@@ -442,26 +562,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-cd75a2832f57",
-      "title": "小鹏L03 启源Q06 用来跑网约车 极限二选一 大家帮忙推荐一下谢谢[受虐滑稽]#红米k90promax# #iPhone17ProMax# #华为Mate80ProMax#",
-      "source": "酷安热榜",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-06-26",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72521029",
-      "image": "",
-      "summary": "小鹏L03 启源Q06 用来跑网约车 极限二选一 大家帮忙推荐一下谢谢[受虐滑稽]#红米k90promax# #iPhone17ProMax# #华为Mate80ProMax#",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
       "id": "newsnow-0f672c7e4620",
       "title": "2026年第25周国内手机市场份额曝光：华为居首",
       "source": "酷安热榜",
@@ -482,41 +582,81 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-6205fcbe17da",
-      "title": "涨声一片！受全球DRAM与NAND芯片成本持续上涨影响，本周苹果、iQOO、Xbox主机全线上调售价。",
+      "id": "newsnow-cd75a2832f57",
+      "title": "小鹏L03 启源Q06 用来跑网约车 极限二选一 大家帮忙推荐一下谢谢[受虐滑稽]#红米k90promax# #iPhone17ProMax# #华为Mate80ProMax#",
       "source": "酷安热榜",
-      "brand": "vivo",
-      "model": "vivo 相关机型",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-06-26",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72532691",
+      "url": "https://www.coolapk.com/feed/72521029",
       "image": "",
-      "summary": "涨声一片！受全球DRAM与NAND芯片成本持续上涨影响，本周苹果、iQOO、Xbox主机全线上调售价。",
+      "summary": "小鹏L03 启源Q06 用来跑网约车 极限二选一 大家帮忙推荐一下谢谢[受虐滑稽]#红米k90promax# #iPhone17ProMax# #华为Mate80ProMax#",
       "tags": [
-        "vivo",
+        "Huawei",
         "爆料",
         "NewsNow"
       ]
     },
     {
-      "id": "newsnow-0d9b253bcebc",
-      "title": "曝iPhone18Pro定价9999元起",
-      "source": "百度热搜",
+      "id": "newsnow-c845bf7e28f6",
+      "title": "高通阵营迭代新机骁龙8系芯片方案曝光",
+      "source": "酷安热榜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-06-26",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/72528676",
+      "image": "",
+      "summary": "高通阵营迭代新机骁龙8系芯片方案曝光",
+      "tags": [
+        "行业",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-79c33f8eec76",
+      "title": "iPhone未涨价原因",
+      "source": "微博热搜",
       "brand": "iPhone",
       "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "待验证",
+      "date": "2026-06-26",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://s.weibo.com/weibo?q=%23iPhone%E6%9C%AA%E6%B6%A8%E4%BB%B7%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=26&Refer=top",
+      "image": "",
+      "summary": "iPhone未涨价原因",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-25f5570b54de",
+      "title": "手机计步器其实是个隐形地震仪",
+      "source": "百度热搜",
+      "brand": "行业",
+      "model": "智能手机市场",
       "type": "爆料",
       "trust": "媒体汇总",
       "date": "2026-06-26",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.baidu.com/s?wd=%E6%9B%9DiPhone18Pro%E5%AE%9A%E4%BB%B79999%E5%85%83%E8%B5%B7",
+      "url": "https://www.baidu.com/s?wd=%E6%89%8B%E6%9C%BA%E8%AE%A1%E6%AD%A5%E5%99%A8%E5%85%B6%E5%AE%9E%E6%98%AF%E4%B8%AA%E9%9A%90%E5%BD%A2%E5%9C%B0%E9%9C%87%E4%BB%AA",
       "image": "",
-      "summary": "曝iPhone18Pro定价9999元起",
+      "summary": "手机计步器其实是个隐形地震仪",
       "tags": [
-        "iPhone",
+        "行业",
         "爆料",
         "NewsNow"
       ]
@@ -802,26 +942,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-d0e736c34d0c",
-      "title": "iPhone Ultra 2 Gets Green Light for Development, Says Leaker",
-      "source": "MacRumors",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-25",
-      "time": "09:27",
-      "publishedAt": "2026-06-25T09:27:05.000Z",
-      "url": "https://www.macrumors.com/2026/06/25/iphone-ultra-2-development-approved-by-apple/",
-      "image": "https://images.macrumors.com/article-new/2025/12/3D-Printed-iPhone-Fold-Thumb-2.jpg",
-      "summary": "Apple's second-generation foldable iPhone has officially been given the go-ahead for development, a prominent Chinese leaker claimed today. In a post on Weibo , the account known…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-e4df95e08348",
       "title": "Struggling with an older phone? This $399 Prime Day deal will make you want to switch instantly",
       "source": "Android Central",
@@ -902,26 +1022,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-b98c391f1933",
-      "title": "All the best Prime Day deals: Pixel 10, Galaxy gear, tech accessories, more [Day 3 Update]",
-      "source": "9to5Google",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-25",
-      "time": "07:05",
-      "publishedAt": "2026-06-25T07:05:00.000Z",
-      "url": "https://9to5google.com/2026/06/25/best-prime-day-deals-pixel-galaxy/",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/06/Amazon-Prime-Day_green-2026.png?w=1600",
-      "summary": "The 2026 Amazon Prime Day sale is now flying with a countless number of price drops across just about every product category. We are tracking new all-time lows and up to $400 off…",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-1b4e1d4fbe5f",
       "title": "A 14,000mAh battery phone could be on the way, but there’s a catch",
       "source": "Android Authority",
@@ -977,46 +1077,6 @@ window.phoneRadarAuto = {
       "summary": "iQOO’s flagship lineup for this year includes at least three models. While the brand is expected to announce the Dimensity 9500-powered iQOO Neo 11S (tentative name) next month in…",
       "tags": [
         "vivo",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-50c9d1e66da2",
-      "title": "Oppo Find X10 Ultra, Find X10 Pro Max display details leaked, reveal biggest upgrade yet",
-      "source": "Gizmochina",
-      "brand": "OPPO",
-      "model": "OPPO 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-25",
-      "time": "03:49",
-      "publishedAt": "2026-06-25T03:49:29.000Z",
-      "url": "https://www.gizmochina.com/2026/06/25/oppo-find-x10-ultra-find-x10-pro-max-display-details-leaked/",
-      "image": "https://www.gizmochina.com/wp-content/uploads/2026/01/Oppo-Find-X9-Pro-300x225.jpg?x44794",
-      "summary": "Speculation is rife that Oppo could be planning to launch the Find X10 series in China this September. The rumor mill has consistently leaked details about the lineup’s specificat…",
-      "tags": [
-        "OPPO",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-f80f109567cb",
-      "title": "Redmi K90 Ultra confirmed to pack 165Hz display, 8,550mAh battery, 100W charging",
-      "source": "Gizmochina",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-25",
-      "time": "03:29",
-      "publishedAt": "2026-06-25T03:29:10.000Z",
-      "url": "https://www.gizmochina.com/2026/06/25/redmi-k90-ultra-display-battery-charging-details-confirmed/",
-      "image": "https://www.gizmochina.com/wp-content/uploads/2026/06/Redmi-K90-Ultra-design-300x300.jpg?x44794",
-      "summary": "The Redmi K90 Ultra has been teased extensively ahead of its June 30 launch, with Redmi gradually confirming several key specifications. While the smartphone is expected to delive…",
-      "tags": [
-        "Xiaomi",
         "爆料",
         "自动抓取"
       ]
