@@ -1,12 +1,12 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-06-26T16:27:46.786Z",
+  "updatedAt": "2026-06-26T20:08:10.735Z",
   "issueDate": "2026-06-26",
   "issue": "VOL.260626",
   "title": "手机情报日报",
-  "intro": "今日筛出 11 条重点，其中 8 条是重点爆料，包含 4 条 iPhone 相关、0 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 9 条重点，其中 8 条是重点爆料，包含 7 条 iPhone 相关、0 条官方确认、0 条参数线索。",
   "stats": {
-    "total": 11,
-    "iphone": 4,
+    "total": 9,
+    "iphone": 7,
     "leaks": 8,
     "official": 0,
     "specs": 0
@@ -18,32 +18,56 @@ window.phoneRadarDaily = {
       "hint": "机模、配色、影像、屏幕、电池和芯片线索先看。",
       "items": [
         {
-          "id": "auto-0f13720377bc",
-          "title": "vivo Y6a 手机悄悄上架：7200mAh 电池，骁龙 4 Gen 2 + 8G + 256G 售 1999 元",
+          "id": "weibo-32ed21186ded",
+          "title": "数码闲聊站：2nm Pro安卓旗舰预测是6000±，超大底双2亿影像、LOFIC超大底影像…",
           "originalTitle": "",
-          "source": "IT之家",
-          "brand": "vivo",
+          "source": "数码闲聊站",
+          "brand": "iPhone",
           "type": "爆料",
-          "trust": "媒体汇总",
+          "trust": "高关注爆料源",
           "date": "2026-06-26",
-          "time": "09:09",
-          "publishedAt": "2026-06-26T09:09:08.000Z",
-          "url": "https://www.ithome.com/0/969/097.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/6/879cbdb1-3058-4b11-bdfd-55974f82a3f8.jpg",
+          "time": "07:12",
+          "publishedAt": "2026-06-26T07:12:00.000Z",
+          "url": "https://weibo.com/6048569942/R5UbhjQ0w",
+          "image": "",
           "verdict": "先看",
-          "takeaway": "IT之家 6 月 26 日消息，vivo 现已在官网悄悄上架了一款 Y6a 手机，该机搭载高通骁龙 4 Gen2 芯片，匹配 8GB RAM 和 256GB 存储空间， 定价为 1999 元 。 该机可选三种配色，厚度 8.39mm，拥有“6 分钟 IP69 / 24 小时 IP68 防水能力”，正面配备一块 6.75 英寸 &nbsp; &nbsp;15…",
-          "detail": "IT之家 6 月 26 日消息，vivo 现已在官网悄悄上架了一款 Y6a 手机，该机搭载高通骁龙 4 Gen2 芯片，匹配 8GB RAM 和 256GB 存储空间， 定价为 1999 元 。 该机可选三种配色，厚度 8.39mm，拥有“6 分钟 IP69 / 24 小时 IP68 防水能力”，正面配备一块 6.75 英寸 &nbsp; &nbsp;15…",
+          "takeaway": "2nm Pro安卓旗舰预测是6000±，超大底双2亿影像、LOFIC超大底影像、长焦微距、等效2K小直屏、大屏8K级大电池、小屏7K级大电池、3D人脸识别、3D超声波指纹…… 预测定价比苹果便宜4000±，优势大不大？[doge]",
+          "detail": "2nm Pro安卓旗舰预测是6000±，超大底双2亿影像、LOFIC超大底影像、长焦微距、等效2K小直屏、大屏8K级大电池、小屏7K级大电池、3D人脸识别、3D超声波指纹…… 预测定价比苹果便宜4000±，优势大不大？[doge]",
           "keyPoints": [
-            "外观 / 配色 / 尺寸",
+            "影像硬件",
+            "屏幕形态",
             "电池 / 充电",
-            "芯片 / 性能"
+            "爆料来源"
           ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
-          "id": "auto-4c4d87072e6d",
+          "id": "weibo-6e93891ae855",
+          "title": "数码闲聊站：iPhone 18 Pro系列不涨价的可能性极低，前代8999，如果维持一定即…",
+          "originalTitle": "",
+          "source": "数码闲聊站",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "高关注爆料源",
+          "date": "2026-06-26",
+          "time": "05:36",
+          "publishedAt": "2026-06-26T05:36:00.000Z",
+          "url": "https://weibo.com/6048569942/R5Tyjm8g5",
+          "image": "",
+          "verdict": "先看",
+          "takeaway": "iPhone 18 Pro系列不涨价的可能性极低，前代8999，如果维持一定即有利润，可能是9999起步，那么苹果9月发布的18 Pro/18 Pro Max/Ultra阔折叠，全都是万元机……[吃瓜]",
+          "detail": "iPhone 18 Pro系列不涨价的可能性极低，前代8999，如果维持一定即有利润，可能是9999起步，那么苹果9月发布的18 Pro/18 Pro Max/Ultra阔折叠，全都是万元机……[吃瓜]",
+          "keyPoints": [
+            "爆料来源"
+          ],
+          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "auto-1ce1291863bc",
           "title": "iPhone 18 Pro 价格 / 成本相关消息",
           "originalTitle": "",
           "source": "MacRumors",
@@ -51,18 +75,41 @@ window.phoneRadarDaily = {
           "type": "爆料",
           "trust": "媒体汇总",
           "date": "2026-06-26",
-          "time": "16:16",
-          "publishedAt": "2026-06-26T16:16:31.000Z",
-          "url": "https://www.macrumors.com/2026/06/26/the-macrumors-show-iphone-18-pro-pricing-problem/",
-          "image": "",
+          "time": "19:17",
+          "publishedAt": "2026-06-26T19:17:59.000Z",
+          "url": "https://www.macrumors.com/2026/06/26/iphone-18-pro-price-increase-estimate/",
+          "image": "https://images.macrumors.com/article-new/2026/01/Dynamic-Island-iPhone-18-Pro-Feature.jpg",
           "verdict": "先看",
           "takeaway": "iPhone 18 Pro 价格 / 成本相关消息。如果涉及订阅、售价或硬件成本，才需要进一步看细节。",
-          "detail": "iPhone 18 Pro 价格 / 成本相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
+          "detail": "iPhone 18 Pro 价格 / 成本相关消息。重点看折痕、铰链、厚度、屏幕可靠性和重量是否有实质改善。",
           "keyPoints": [
-            "成本 / 价格",
-            "爆料来源"
+            "成本 / 价格"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "auto-77dcfaf37389",
+          "title": "iPhone 18 芯片 / 性能相关消息",
+          "originalTitle": "",
+          "source": "MacRumors",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-06-26",
+          "time": "16:57",
+          "publishedAt": "2026-06-26T16:57:31.000Z",
+          "url": "https://www.macrumors.com/2026/06/26/iphone-18-9gb-ram/",
+          "image": "https://images.macrumors.com/article-new/2025/09/iphone-17-ceramic-shield.jpg",
+          "verdict": "先看",
+          "takeaway": "iPhone 芯片或连接能力相关线索，可能影响性能和续航判断。",
+          "detail": "iPhone 18 芯片 / 性能相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
+          "keyPoints": [
+            "芯片 / 性能",
+            "爆料来源"
+          ],
+          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
@@ -159,84 +206,6 @@ window.phoneRadarDaily = {
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "newsnow-6205fcbe17da",
-          "title": "涨声一片！受全球DRAM与NAND芯片成本持续上涨影响，本周苹果、iQOO、Xbox主机全线上调售价。",
-          "originalTitle": "",
-          "source": "酷安热榜",
-          "brand": "vivo",
-          "type": "爆料",
-          "trust": "高关注爆料源",
-          "date": "2026-06-26",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://www.coolapk.com/feed/72532691",
-          "image": "",
-          "verdict": "先看",
-          "takeaway": "涨声一片！受全球DRAM与NAND芯片成本持续上涨影响，本周苹果、iQOO、Xbox主机全线上调售价。",
-          "detail": "涨声一片！受全球DRAM与NAND芯片成本持续上涨影响，本周苹果、iQOO、Xbox主机全线上调售价。",
-          "keyPoints": [
-            "芯片 / 性能",
-            "成本 / 价格"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "coolapk-user-dd681de4a272",
-          "title": "JSCHEN小小狐：vivo X Fold 6 正式发布：售价 7999 元起",
-          "originalTitle": "",
-          "source": "JSCHEN小小狐",
-          "brand": "vivo",
-          "type": "爆料",
-          "trust": "高可信爆料",
-          "date": "2026-06-26",
-          "time": "12:13",
-          "publishedAt": "2026-06-26T12:13:49.000Z",
-          "url": "https://www.coolapk.com/feed/72535799",
-          "image": "http://image.coolapk.com/feed/2026/0626/20/4702274_3d830039_6019_4792_298@2649x3130.jpg",
-          "verdict": "先看",
-          "takeaway": "『vivo X Fold 6 正式发布：售价 7999 元起』 12GB + 256GB —— 7999 元 12GB + 512GB —— 8999 元 16GB + 512GB —— 9999 元 16GB + 1TB —— 10999 元 16GB + 1TB 黑金版 —— 11299 元 「折叠专业影像套装」 16GB + 1TB —— 11999…",
-          "detail": "『vivo X Fold 6 正式发布：售价 7999 元起』 12GB + 256GB —— 7999 元 12GB + 512GB —— 8999 元 16GB + 512GB —— 9999 元 16GB + 1TB —— 10999 元 16GB + 1TB 黑金版 —— 11299 元 「折叠专业影像套装」 16GB + 1TB —— 11999…",
-          "keyPoints": [
-            "影像硬件",
-            "成本 / 价格"
-          ],
-          "confidence": "可信度较高，但仍属于发布前线索。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        }
-      ]
-    },
-    {
-      "id": "launch",
-      "title": "新机与官方发布",
-      "hint": "能直接更新到参数库。",
-      "items": [
-        {
-          "id": "coolapk-user-12142d6dfe87",
-          "title": "竹本青：【vivo X Fold6 正式发布，售价7999元起】 12+256GB —— 7999元 12+512GB —…",
-          "originalTitle": "",
-          "source": "竹本青",
-          "brand": "vivo",
-          "type": "爆料",
-          "trust": "高可信爆料",
-          "date": "2026-06-26",
-          "time": "12:13",
-          "publishedAt": "2026-06-26T12:13:47.000Z",
-          "url": "https://www.coolapk.com/feed/72535797",
-          "image": "http://image.coolapk.com/feed/2026/0626/20/4248714_3d5c3483_6345_0036_691@2000x2364.jpg",
-          "verdict": "扫一眼",
-          "takeaway": "【vivo X Fold6 正式发布，售价7999元起】 12+256GB —— 7999元 12+512GB —— 8999元 16+512GB —— 9999元 16+1TB —— 10999元 16+1TB —— 11299元（限量黑金版） 核心： ● 天玑 9500超能版｜蓝图V3+ ● 7000mAh+80W有线+40W无线 ● 超可靠轻量铰链+…",
-          "detail": "【vivo X Fold6 正式发布，售价7999元起】 12+256GB —— 7999元 12+512GB —— 8999元 16+512GB —— 9999元 16+1TB —— 10999元 16+1TB —— 11299元（限量黑金版） 核心： ● 天玑 9500超能版｜蓝图V3+ ● 7000mAh+80W有线+40W无线 ● 超可靠轻量铰链+…",
-          "keyPoints": [
-            "成本 / 价格"
-          ],
-          "confidence": "可信度较高，但仍属于发布前线索。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         }
       ]
     },
@@ -261,29 +230,6 @@ window.phoneRadarDaily = {
           "verdict": "先看",
           "takeaway": "2026年第25周国内手机市场份额曝光：华为居首",
           "detail": "2026年第25周国内手机市场份额曝光：华为居首",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
-        {
-          "id": "newsnow-cd75a2832f57",
-          "title": "小鹏L03 启源Q06 用来跑网约车 极限二选一 大家帮忙推荐一下谢谢[受虐滑稽]#红米k90promax# #iPhone17ProMax# #华为Mate80ProMax#",
-          "originalTitle": "",
-          "source": "酷安热榜",
-          "brand": "Huawei",
-          "type": "爆料",
-          "trust": "高关注爆料源",
-          "date": "2026-06-26",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://www.coolapk.com/feed/72521029",
-          "image": "",
-          "verdict": "先看",
-          "takeaway": "小鹏L03 启源Q06 用来跑网约车 极限二选一 大家帮忙推荐一下谢谢[受虐滑稽]#红米k90promax# #iPhone17ProMax# #华为Mate80ProMax#",
-          "detail": "小鹏L03 启源Q06 用来跑网约车 极限二选一 大家帮忙推荐一下谢谢[受虐滑稽]#红米k90promax# #iPhone17ProMax# #华为Mate80ProMax#",
           "keyPoints": [
             "爆料"
           ],

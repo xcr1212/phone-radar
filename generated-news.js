@@ -1,6 +1,66 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-06-26T16:27:46.786Z",
+  "updatedAt": "2026-06-26T20:08:10.735Z",
   "news": [
+    {
+      "id": "auto-1ce1291863bc",
+      "title": "iPhone 18 Pro and Pro Max May See $200 Price Increase",
+      "source": "MacRumors",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-26",
+      "time": "19:17",
+      "publishedAt": "2026-06-26T19:17:59.000Z",
+      "url": "https://www.macrumors.com/2026/06/26/iphone-18-pro-price-increase-estimate/",
+      "image": "https://images.macrumors.com/article-new/2026/01/Dynamic-Island-iPhone-18-Pro-Feature.jpg",
+      "summary": "Apple's iPhone 18 Pro models could be up to $200 more expensive, according to a prediction from analytics firm IDC. IDC expected Apple to raise iPhone 18 prices, but prior to yest…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-90bc2f281570",
+      "title": "Google’s official Qi2 wireless charging stand for Pixel 10 is almost worth buying right now",
+      "source": "9to5Google",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-26",
+      "time": "19:15",
+      "publishedAt": "2026-06-26T19:15:00.000Z",
+      "url": "https://9to5google.com/2026/06/26/googles-official-qi2-wireless-charging-stand-for-pixel-10-is-almost-worth-buying-right-now/",
+      "image": "",
+      "summary": "If you’ve been eyeing Google’s official Pixelsnap Stand Qi2 wireless charger, it’s currently 20% off in the final hours of Amazon’s Prime Day sales.",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-77dcfaf37389",
+      "title": "2027 iPhone 18 and iPhone 18e to Get 9GB RAM and A20 Chip",
+      "source": "MacRumors",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-26",
+      "time": "16:57",
+      "publishedAt": "2026-06-26T16:57:31.000Z",
+      "url": "https://www.macrumors.com/2026/06/26/iphone-18-9gb-ram/",
+      "image": "https://images.macrumors.com/article-new/2025/09/iphone-17-ceramic-shield.jpg",
+      "summary": "The lower-end iPhone 18 models set to launch in spring 2027 will feature 9GB DRAM, up from 8GB, according to Apple analyst Ming-Chi Kuo . Kuo says the A20 chip Apple plans to use…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-4c4d87072e6d",
       "title": "The MacRumors Show: iPhone 18 Pro Has a Pricing Problem",
@@ -162,46 +222,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "coolapk-user-dd681de4a272",
-      "title": "JSCHEN小小狐：vivo X Fold 6 正式发布：售价 7999 元起",
-      "source": "JSCHEN小小狐",
-      "brand": "vivo",
-      "model": "vivo 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-06-26",
-      "time": "12:13",
-      "publishedAt": "2026-06-26T12:13:49.000Z",
-      "url": "https://www.coolapk.com/feed/72535799",
-      "image": "http://image.coolapk.com/feed/2026/0626/20/4702274_3d830039_6019_4792_298@2649x3130.jpg",
-      "summary": "『vivo X Fold 6 正式发布：售价 7999 元起』 12GB + 256GB —— 7999 元 12GB + 512GB —— 8999 元 16GB + 512GB —— 9999 元 16GB + 1TB —— 10999 元 16GB + 1TB 黑金版 —— 11299 元 「折叠专业影像套装」 16GB + 1TB —— 11999…",
-      "tags": [
-        "vivo",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
-      "id": "coolapk-user-12142d6dfe87",
-      "title": "竹本青：【vivo X Fold6 正式发布，售价7999元起】 12+256GB —— 7999元 12+512GB —…",
-      "source": "竹本青",
-      "brand": "vivo",
-      "model": "vivo 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-06-26",
-      "time": "12:13",
-      "publishedAt": "2026-06-26T12:13:47.000Z",
-      "url": "https://www.coolapk.com/feed/72535797",
-      "image": "http://image.coolapk.com/feed/2026/0626/20/4248714_3d5c3483_6345_0036_691@2000x2364.jpg",
-      "summary": "【vivo X Fold6 正式发布，售价7999元起】 12+256GB —— 7999元 12+512GB —— 8999元 16+512GB —— 9999元 16+1TB —— 10999元 16+1TB —— 11299元（限量黑金版） 核心： ● 天玑 9500超能版｜蓝图V3+ ● 7000mAh+80W有线+40W无线 ● 超可靠轻量铰链+…",
-      "tags": [
-        "vivo",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
       "id": "auto-d26b4437d0c1",
       "title": "诈骗案件高发，韩国 7 月起办新手机号须进行人脸识别身份认证",
       "source": "IT之家",
@@ -278,26 +298,6 @@ window.phoneRadarAuto = {
       "tags": [
         "Samsung",
         "评测",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-0f13720377bc",
-      "title": "vivo Y6a 手机悄悄上架：7200mAh 电池，骁龙 4 Gen 2 + 8G + 256G 售 1999 元",
-      "source": "IT之家",
-      "brand": "vivo",
-      "model": "vivo 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-26",
-      "time": "09:09",
-      "publishedAt": "2026-06-26T09:09:08.000Z",
-      "url": "https://www.ithome.com/0/969/097.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/6/879cbdb1-3058-4b11-bdfd-55974f82a3f8.jpg",
-      "summary": "IT之家 6 月 26 日消息，vivo 现已在官网悄悄上架了一款 Y6a 手机，该机搭载高通骁龙 4 Gen2 芯片，匹配 8GB RAM 和 256GB 存储空间， 定价为 1999 元 。 该机可选三种配色，厚度 8.39mm，拥有“6 分钟 IP69 / 24 小时 IP68 防水能力”，正面配备一块 6.75 英寸 &nbsp; &nbsp;15…",
-      "tags": [
-        "vivo",
-        "爆料",
         "自动抓取"
       ]
     },
@@ -422,6 +422,26 @@ window.phoneRadarAuto = {
       ]
     },
     {
+      "id": "weibo-32ed21186ded",
+      "title": "数码闲聊站：2nm Pro安卓旗舰预测是6000±，超大底双2亿影像、LOFIC超大底影像…",
+      "source": "数码闲聊站",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-06-26",
+      "time": "07:12",
+      "publishedAt": "2026-06-26T07:12:00.000Z",
+      "url": "https://weibo.com/6048569942/R5UbhjQ0w",
+      "image": "",
+      "summary": "2nm Pro安卓旗舰预测是6000±，超大底双2亿影像、LOFIC超大底影像、长焦微距、等效2K小直屏、大屏8K级大电池、小屏7K级大电池、3D人脸识别、3D超声波指纹…… 预测定价比苹果便宜4000±，优势大不大？[doge]",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "微博"
+      ]
+    },
+    {
       "id": "auto-b7262df77be6",
       "title": "All the best Prime Day deals: Pixel 10, Galaxy gear, tech accessories, more [Last Day Update]",
       "source": "9to5Google",
@@ -482,6 +502,26 @@ window.phoneRadarAuto = {
       ]
     },
     {
+      "id": "weibo-6e93891ae855",
+      "title": "数码闲聊站：iPhone 18 Pro系列不涨价的可能性极低，前代8999，如果维持一定即…",
+      "source": "数码闲聊站",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-06-26",
+      "time": "05:36",
+      "publishedAt": "2026-06-26T05:36:00.000Z",
+      "url": "https://weibo.com/6048569942/R5Tyjm8g5",
+      "image": "",
+      "summary": "iPhone 18 Pro系列不涨价的可能性极低，前代8999，如果维持一定即有利润，可能是9999起步，那么苹果9月发布的18 Pro/18 Pro Max/Ultra阔折叠，全都是万元机……[吃瓜]",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "微博"
+      ]
+    },
+    {
       "id": "auto-9542134d7d59",
       "title": "Xiaomi 18 Pro core specs leak reveals dual 200MP cameras, Snapdragon 8 Elite Gen 6, and more",
       "source": "Gizmochina",
@@ -499,6 +539,26 @@ window.phoneRadarAuto = {
         "Xiaomi",
         "爆料",
         "自动抓取"
+      ]
+    },
+    {
+      "id": "weibo-93d5dbe0bcdf",
+      "title": "数码闲聊站：高通阵营迭代新机的8系芯片方案： ——SM8975，2nm，命名暂定骁龙8 E…",
+      "source": "数码闲聊站",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-06-26",
+      "time": "02:33",
+      "publishedAt": "2026-06-26T02:33:00.000Z",
+      "url": "https://weibo.com/6048569942/R5Sm28IZq",
+      "image": "",
+      "summary": "高通阵营迭代新机的8系芯片方案： ——SM8975，2nm，命名暂定骁龙8 Elite Gen6 Pro，2+3+3新一代Oryan CPU架构，共享16MB L2，频率更激进，A850 GPU 18MB GMEM，支持LPDDR6/5X，峰值性能刷新高。 ——SM8950，2nm，命名暂定骁龙8 Elite Gen6，2+3+3新一代Oryan CPU架…",
+      "tags": [
+        "行业",
+        "爆料",
+        "微博"
       ]
     },
     {
@@ -542,26 +602,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-d4578e40e020",
-      "title": "手机价格现在很高吗？那我当年3500买的塑料边框k50至尊版算是什么[流泪] #红米K50至尊版# #红米k90promax#",
-      "source": "酷安热榜",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-06-26",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72509846",
-      "image": "",
-      "summary": "手机价格现在很高吗？那我当年3500买的塑料边框k50至尊版算是什么[流泪] #红米K50至尊版# #红米k90promax#",
-      "tags": [
-        "行业",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
       "id": "newsnow-0f672c7e4620",
       "title": "2026年第25周国内手机市场份额曝光：华为居首",
       "source": "酷安热榜",
@@ -575,26 +615,6 @@ window.phoneRadarAuto = {
       "url": "https://www.coolapk.com/feed/72529457",
       "image": "",
       "summary": "2026年第25周国内手机市场份额曝光：华为居首",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-cd75a2832f57",
-      "title": "小鹏L03 启源Q06 用来跑网约车 极限二选一 大家帮忙推荐一下谢谢[受虐滑稽]#红米k90promax# #iPhone17ProMax# #华为Mate80ProMax#",
-      "source": "酷安热榜",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-06-26",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72521029",
-      "image": "",
-      "summary": "小鹏L03 启源Q06 用来跑网约车 极限二选一 大家帮忙推荐一下谢谢[受虐滑稽]#红米k90promax# #iPhone17ProMax# #华为Mate80ProMax#",
       "tags": [
         "Huawei",
         "爆料",
@@ -617,26 +637,6 @@ window.phoneRadarAuto = {
       "summary": "高通阵营迭代新机骁龙8系芯片方案曝光",
       "tags": [
         "行业",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-79c33f8eec76",
-      "title": "iPhone未涨价原因",
-      "source": "微博热搜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "待验证",
-      "date": "2026-06-26",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://s.weibo.com/weibo?q=%23iPhone%E6%9C%AA%E6%B6%A8%E4%BB%B7%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=26&Refer=top",
-      "image": "",
-      "summary": "iPhone未涨价原因",
-      "tags": [
-        "iPhone",
         "爆料",
         "NewsNow"
       ]
@@ -1058,26 +1058,6 @@ window.phoneRadarAuto = {
       "tags": [
         "行业",
         "评测",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-8b6da7173f9d",
-      "title": "iQOO Neo 12 tipped with 2K 185Hz display testing, may pack 9,000mAh battery",
-      "source": "Gizmochina",
-      "brand": "vivo",
-      "model": "vivo 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-25",
-      "time": "05:14",
-      "publishedAt": "2026-06-25T05:14:21.000Z",
-      "url": "https://www.gizmochina.com/2026/06/25/iqoo-neo-12-key-specifications-tipped/",
-      "image": "https://www.gizmochina.com/wp-content/uploads/2026/03/iQOO-Neo-11--300x169.webp?x44794",
-      "summary": "iQOO’s flagship lineup for this year includes at least three models. While the brand is expected to announce the Dimensity 9500-powered iQOO Neo 11S (tentative name) next month in…",
-      "tags": [
-        "vivo",
-        "爆料",
         "自动抓取"
       ]
     }
