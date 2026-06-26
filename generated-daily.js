@@ -1,12 +1,12 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-06-26T21:40:04.346Z",
+  "updatedAt": "2026-06-26T23:34:18.856Z",
   "issueDate": "2026-06-26",
   "issue": "VOL.260626",
   "title": "手机情报日报",
-  "intro": "今日筛出 9 条重点，其中 8 条是重点爆料，包含 7 条 iPhone 相关、0 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 8 条重点，其中 8 条是重点爆料，包含 8 条 iPhone 相关、0 条官方确认、0 条参数线索。",
   "stats": {
-    "total": 9,
-    "iphone": 7,
+    "total": 8,
+    "iphone": 8,
     "leaks": 8,
     "official": 0,
     "specs": 0
@@ -17,6 +17,30 @@ window.phoneRadarDaily = {
       "title": "重点爆料",
       "hint": "机模、配色、影像、屏幕、电池和芯片线索先看。",
       "items": [
+        {
+          "id": "auto-66639bdb538b",
+          "title": "郭明錤称苹果 iPhone 18 标准版配 9GB 内存、A20 芯片",
+          "originalTitle": "",
+          "source": "IT之家",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-06-26",
+          "time": "23:03",
+          "publishedAt": "2026-06-26T23:03:22.000Z",
+          "url": "https://www.ithome.com/0/969/274.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/6/06203972-9495-48d3-b0ab-cdabb030a188.png",
+          "verdict": "先看",
+          "takeaway": "IT之家 6 月 27 日消息，天风国际证券分析师郭明錤今天（6 月 27 日）在 X 平台发布推文， 爆料称苹果 iPhone 18 将配备 9GB 内存（6 颗 1.5GB 芯片），以及 A20 芯片。 内存容量方面，郭明錤表示 2027 年上半年低端 iPhone 机型（预估指 iPhone 18 和 iPhone 18e）均采用 9GB DRAM…",
+          "detail": "IT之家 6 月 27 日消息，天风国际证券分析师郭明錤今天（6 月 27 日）在 X 平台发布推文， 爆料称苹果 iPhone 18 将配备 9GB 内存（6 颗 1.5GB 芯片），以及 A20 芯片。 内存容量方面，郭明錤表示 2027 年上半年低端 iPhone 机型（预估指 iPhone 18 和 iPhone 18e）均采用 9GB DRAM…",
+          "keyPoints": [
+            "芯片 / 性能",
+            "爆料来源"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
         {
           "id": "weibo-32ed21186ded",
           "title": "数码闲聊站：2nm Pro安卓旗舰预测是6000±，超大底双2亿影像、LOFIC超大底影像…",
@@ -183,59 +207,6 @@ window.phoneRadarDaily = {
           "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "auto-9a2e668bf945",
-          "title": "7999 元起 vivo X Fold6 折叠屏手机发布：全新“原子工作台”功能、天玑 9500 超能版、2 亿像素 1/1.4\" 主摄",
-          "originalTitle": "",
-          "source": "IT之家",
-          "brand": "vivo",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-06-26",
-          "time": "12:15",
-          "publishedAt": "2026-06-26T12:15:06.000Z",
-          "url": "https://www.ithome.com/0/969/232.htm",
-          "image": "https://img14.360buyimg.com/pop/jfs/t1/465657/21/4615/87572/6a3e6cf8F754c15b9/0083320320e4fa2e.jpg",
-          "verdict": "先看",
-          "takeaway": "IT之家 6 月 26 日消息，vivo X Fold6 折叠屏手机在今天的发布会正式登场，7999 元起。 标准版 12GB RAM + 256GB 存储空间：7999 元 12GB RAM + 512GB 存储空间：8999 元 16GB RAM + 512GB 存储空间：9999 元 16GB RAM + 1TB 存储空间：10999 元 黑金限定版…",
-          "detail": "IT之家 6 月 26 日消息，vivo X Fold6 折叠屏手机在今天的发布会正式登场，7999 元起。 标准版 12GB RAM + 256GB 存储空间：7999 元 12GB RAM + 512GB 存储空间：8999 元 16GB RAM + 512GB 存储空间：9999 元 16GB RAM + 1TB 存储空间：10999 元 黑金限定版…",
-          "keyPoints": [
-            "屏幕形态"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        }
-      ]
-    },
-    {
-      "id": "market",
-      "title": "行业趋势",
-      "hint": "看方向，不急着当购买依据。",
-      "items": [
-        {
-          "id": "newsnow-0f672c7e4620",
-          "title": "2026年第25周国内手机市场份额曝光：华为居首",
-          "originalTitle": "",
-          "source": "酷安热榜",
-          "brand": "Huawei",
-          "type": "爆料",
-          "trust": "高关注爆料源",
-          "date": "2026-06-26",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://www.coolapk.com/feed/72529457",
-          "image": "",
-          "verdict": "先看",
-          "takeaway": "2026年第25周国内手机市场份额曝光：华为居首",
-          "detail": "2026年第25周国内手机市场份额曝光：华为居首",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         }
       ]
     }

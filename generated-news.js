@@ -1,6 +1,46 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-06-26T21:40:04.346Z",
+  "updatedAt": "2026-06-26T23:34:18.856Z",
   "news": [
+    {
+      "id": "auto-d561dc64d0b7",
+      "title": "18.2% 涨幅：IDC 预估苹果 iPhone 18 Pro 起价上涨 200 美元",
+      "source": "IT之家",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-26",
+      "time": "23:15",
+      "publishedAt": "2026-06-26T23:15:42.000Z",
+      "url": "https://www.ithome.com/0/969/277.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/6/fcd235d7-aecb-4039-b98f-61107574543d.png?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 6 月 27 日消息，市场调查机构 IDC 昨日（6 月 26 日）预测，苹果 iPhone 18 Pro、iPhone 18 Pro Max 两款机型的价格将上涨 200 美元（IT之家注：现汇率约合 1362 元人民币）， 涨幅 16.68%~18.2%。 该机构最初预估 iPhone 18 Pro、iPhone 18 Pro Max 两款机…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-66639bdb538b",
+      "title": "郭明錤称苹果 iPhone 18 标准版配 9GB 内存、A20 芯片",
+      "source": "IT之家",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-26",
+      "time": "23:03",
+      "publishedAt": "2026-06-26T23:03:22.000Z",
+      "url": "https://www.ithome.com/0/969/274.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/6/06203972-9495-48d3-b0ab-cdabb030a188.png",
+      "summary": "IT之家 6 月 27 日消息，天风国际证券分析师郭明錤今天（6 月 27 日）在 X 平台发布推文， 爆料称苹果 iPhone 18 将配备 9GB 内存（6 颗 1.5GB 芯片），以及 A20 芯片。 内存容量方面，郭明錤表示 2027 年上半年低端 iPhone 机型（预估指 iPhone 18 和 iPhone 18e）均采用 9GB DRAM…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-1ce1291863bc",
       "title": "iPhone 18 Pro and Pro Max May See $200 Price Increase",
@@ -642,6 +682,26 @@ window.phoneRadarAuto = {
       ]
     },
     {
+      "id": "newsnow-597804a1cb39",
+      "title": "一加 16 配置差不多出来了，没有友商的大马达 0916，没有 2k，可能是为了成本和堆电池？拉完了 #一加15# #iQOO15#",
+      "source": "酷安热榜",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-06-26",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/72513259",
+      "image": "",
+      "summary": "一加 16 配置差不多出来了，没有友商的大马达 0916，没有 2k，可能是为了成本和堆电池？拉完了 #一加15# #iQOO15#",
+      "tags": [
+        "OPPO",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
       "id": "newsnow-25f5570b54de",
       "title": "手机计步器其实是个隐形地震仪",
       "source": "百度热搜",
@@ -938,26 +998,6 @@ window.phoneRadarAuto = {
       "tags": [
         "Samsung",
         "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-e4df95e08348",
-      "title": "Struggling with an older phone? This $399 Prime Day deal will make you want to switch instantly",
-      "source": "Android Central",
-      "brand": "Pixel",
-      "model": "Pixel 相关机型",
-      "type": "评测",
-      "trust": "媒体汇总",
-      "date": "2026-06-25",
-      "time": "09:13",
-      "publishedAt": "2026-06-25T09:13:45.000Z",
-      "url": "https://www.androidcentral.com/phones/google-pixel/struggling-with-an-older-iphone-this-usd399-prime-day-deal-will-make-you-switch-instantly",
-      "image": "https://cdn.mos.cms.futurecdn.net/EyfSs7aN3efo95J6YnRt2a-1280-80.jpg",
-      "summary": "You don't need to shell out over $1,000 to get a great phone — the Pixel 10a does it at $399. This is without a doubt the best mid-ranger around, and if you're coming from an olde…",
-      "tags": [
-        "Pixel",
-        "评测",
         "自动抓取"
       ]
     },
