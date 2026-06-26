@@ -1,23 +1,303 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-06-26T04:39:09.552Z",
+  "updatedAt": "2026-06-26T09:51:33.831Z",
   "news": [
     {
-      "id": "auto-e525cbdbf7e5",
-      "title": "特朗普 T1 手机开放销售，结算页需额外支付 41.75 美元的“设备税”",
+      "id": "auto-48d5019a0348",
+      "title": "The Galaxy Z Fold 8 is almost here, but why wait when the Z Fold 7 is over $500 off?",
+      "source": "Android Central",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-06-26",
+      "time": "09:10",
+      "publishedAt": "2026-06-26T09:10:00.000Z",
+      "url": "https://www.androidcentral.com/phones/samsung-galaxy/samsung-galaxy-z-fold-7-prime-day-2026-deal",
+      "image": "https://cdn.mos.cms.futurecdn.net/uQSNHarYqtCMB9R36fWydT-1280-80.jpg",
+      "summary": "Samsung's Galaxy Z Fold 7 has fallen to $1,470 ahead of the expected Galaxy Z Fold 8 launch.",
+      "tags": [
+        "Samsung",
+        "评测",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-0f13720377bc",
+      "title": "vivo Y6a 手机悄悄上架：7200mAh 电池，骁龙 4 Gen 2 + 8G + 256G 售 1999 元",
+      "source": "IT之家",
+      "brand": "vivo",
+      "model": "vivo 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-26",
+      "time": "09:09",
+      "publishedAt": "2026-06-26T09:09:08.000Z",
+      "url": "https://www.ithome.com/0/969/097.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/6/879cbdb1-3058-4b11-bdfd-55974f82a3f8.jpg",
+      "summary": "IT之家 6 月 26 日消息，vivo 现已在官网悄悄上架了一款 Y6a 手机，该机搭载高通骁龙 4 Gen2 芯片，匹配 8GB RAM 和 256GB 存储空间， 定价为 1999 元 。 该机可选三种配色，厚度 8.39mm，拥有“6 分钟 IP69 / 24 小时 IP68 防水能力”，正面配备一块 6.75 英寸 &nbsp; &nbsp;15…",
+      "tags": [
+        "vivo",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-2f30fc2b2f37",
+      "title": "Nearly 10 years later, the Galaxy S8 series and Note 8 receive a surprise update",
+      "source": "Gizmochina",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-26",
+      "time": "09:08",
+      "publishedAt": "2026-06-26T09:08:38.000Z",
+      "url": "https://www.gizmochina.com/2026/06/26/amsung-galaxy-s8-note-8-software-update-2026/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2021/01/Galaxy-S8-Plus-Featured-300x192.jpg?x44794",
+      "summary": "Samsung has rolled out an unexpected software update for the Galaxy S8, Galaxy S8+, and Galaxy Note 8, nearly a decade after these smartphones first debuted. While the update does…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-b800e2f273ff",
+      "title": "OnePlus N6 could ship with more in the box than many flagships",
+      "source": "Android Authority",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-26",
+      "time": "09:04",
+      "publishedAt": "2026-06-26T09:04:58.000Z",
+      "url": "https://www.androidauthority.com/oneplus-n6-box-contents-power-adapter-silicone-case-3681749/",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2026/06/OnePlus-N6-official-image.jpg",
+      "summary": "A power adapter and a silicone case in the box in 2026? Well done, OnePlus.",
+      "tags": [
+        "OPPO",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-9dd22ab9498e",
+      "title": "竹本青：OPPO与Verifone达成专利合作",
+      "source": "竹本青",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-06-26",
+      "time": "08:56",
+      "publishedAt": "2026-06-26T08:56:22.000Z",
+      "url": "https://www.coolapk.com/feed/72533123",
+      "image": "http://image.coolapk.com/feed/2026/0626/16/4248714_6d566859_4115_5369_2@720x480.jpg",
+      "summary": "【OPPO与Verifone达成专利合作，将落地Verifone POS终端】 近日，OPPO与支付技术企业Verifone，签署全球专利许可协议，OPPO将向Verifone许可蜂窝通信标准必要专利，以提升其POS机设备的用户体验。 总部位于美国纽约的跨国公司Verifone，专注于为电子支付交易和销售点增值服务提供技术支持，向金融、零售、酒店、石油、政…",
+      "tags": [
+        "OPPO",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-cd5fadbc0fc9",
+      "title": "Huawei Nova 16 sales seeing sharp jump of 210000 units in a week",
+      "source": "Huawei Central",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-26",
+      "time": "08:45",
+      "publishedAt": "2026-06-26T08:45:17.000Z",
+      "url": "https://www.huaweicentral.com/huawei-nova-16-sales-seeing-sharp-jump-of-210000-units-in-a-week/",
+      "image": "https://www.huaweicentral.com/wp-content/uploads/2026/06/nova16-sales-img.jpg",
+      "summary": "Mate 80 flagship has shown impressive performance in the sales market but the Huawei Nova 16 series is not lagging in the race either and showed a hike of 210000 units in just a w…",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-c6ecab07c90c",
+      "title": "努比亚 Neo 5 Max 巨屏手机现身 MWC26 上海：搭 7.5 英寸 1.5K LCD 面板、主攻海外市场",
       "source": "IT之家",
       "brand": "行业",
       "model": "智能手机市场",
       "type": "爆料",
       "trust": "媒体汇总",
       "date": "2026-06-26",
-      "time": "04:16",
-      "publishedAt": "2026-06-26T04:16:24.000Z",
-      "url": "https://www.ithome.com/0/968/868.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/6/ec26f1e2-54b0-406d-a2d2-2c8ba4f06988.png",
-      "summary": "IT之家 6 月 26 日消息，科技媒体 Android Authority 今天（6 月 26 日）发布博文，报道称在不少早期预购用户仍未收到设备的情况下， 特朗普移动（Trump Mobile）已悄然开放 T1 手机公开销售。 该媒体记者阿达米亚 · 夏尔马（Adamya Sharma）表示其也是首批预购者之一，支付了 100 美元订金，但在发稿前依然…",
+      "time": "08:28",
+      "publishedAt": "2026-06-26T08:28:47.000Z",
+      "url": "https://www.ithome.com/0/969/077.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/6/840f7a3c-76c9-4e53-b120-dba3c7851ae5.jpg",
+      "summary": "IT之家 6 月 26 日消息，MWC26 上海于 6 月 24 日正式启幕，IT之家注意到，努比亚在展馆内展示了一款 Neo 5 Max 巨屏手机，不过官方透露该机主攻海外市场，并不会在国内上市销售。 该机正面配备一块 7.5 英寸 1.5K LCD 面板，手机背面采用墨绿配色，带有足球图案，镜头采用八边形设计。官方强调这款手机可以搭配便携手柄作为掌机使…",
       "tags": [
         "行业",
         "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-a4701095e904",
+      "title": "竹本青：大疆新品 Mic Mini 2S 正式亮相 ，将于7月2日发布",
+      "source": "竹本青",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-06-26",
+      "time": "08:17",
+      "publishedAt": "2026-06-26T08:17:45.000Z",
+      "url": "https://www.coolapk.com/feed/72532621",
+      "image": "http://image.coolapk.com/feed/2026/0626/16/4248714_ef829112_1864_2552_92-livepic@1080x1080.jpg",
+      "summary": "【大疆新品 Mic Mini 2S 正式亮相 ，将于7月2日发布】 一拖二，含充电盒 —— 未公布 一拖二，含充电盒（手机版） —— 未公布 一拖一 —— 未公布 发射器 —— 未公布 ▫️发射器重约12克 ▫️三种音色预设 ▫️防爆音+响度均衡 ▫️内置约14.5GB ▫️发射器：11小时续航 ▫️接收器：10小时续航 ▫️搭配充电盒：40小时续航 ▫️…",
+      "tags": [
+        "行业",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-1088e9228ddf",
+      "title": "Oppo Reno 16 FS unveiled with 120Hz AMOLED display, triple 50MP cameras, 6,500mAh battery",
+      "source": "Gizmochina",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-26",
+      "time": "07:43",
+      "publishedAt": "2026-06-26T07:43:38.000Z",
+      "url": "https://www.gizmochina.com/2026/06/26/oppo-reno-16-fs-launched-price-specfications/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/06/image-144-300x169.png?x44794",
+      "summary": "Apart from unveiling the Oppo Reno 16F, Reno 16, and Reno 16 Pro, the brand has also introduced the Oppo Reno 16 FS for the European market. The new model sits below the Reno 16 s…",
+      "tags": [
+        "OPPO",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-2e4c5010d753",
+      "title": "谷歌酝酿安卓 17 新特性：扫码验证手机系统是否被篡改",
+      "source": "IT之家",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-26",
+      "time": "07:23",
+      "publishedAt": "2026-06-26T07:23:48.000Z",
+      "url": "https://www.ithome.com/0/969/048.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/6/b6918699-eee4-4c87-83ab-468a8736b9fb.png?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 6 月 26 日消息，科技媒体 Android Authority 昨日（6 月 25 日）发布博文，报道称在安卓 17 系统中， 谷歌正酝酿系统验证（OS Verification）功能，需要两台手机搭配使用。 IT之家曾于 5 月报道，安卓用户可以通过该功能，查看当前手机系统是否属于谷歌认可、广泛分发的官方安卓版本，减少用户被伪装系统误导的风…",
+      "tags": [
+        "行业",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-0b8911304b9e",
+      "title": "老年人微信账号遭广告营销群“轰炸”引热议：退一个群又被拉一个、一数竟有 77 万条未读消息",
+      "source": "IT之家",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-26",
+      "time": "07:01",
+      "publishedAt": "2026-06-26T07:01:27.000Z",
+      "url": "https://www.ithome.com/0/969/022.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/6/7355120a-e549-487d-a3d7-fd9ec52590d9.jpg",
+      "summary": "IT之家 6 月 26 日消息，据“南方日报”报道，近期广东一网友小林曝光自己奶奶的微信账号遭大量广告营销群轰炸，导致手机异常卡顿，统计后“竟发现有 77 万条未读消息”。 IT之家参考报道获悉，相应广告营销群系通过添加企业微信联系人后被拉入，认证主体多为杂货店。群内成员均为陌生人，每群仅十至二十人，且被拉入时既无通知，也无需本人确认。 后续，小林和母亲一…",
+      "tags": [
+        "行业",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-bbfe1238a529",
+      "title": "消息称苹果 iPhone 18 Pro / Max 及 Ultra 阔折叠均为“万元机”",
+      "source": "IT之家",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-26",
+      "time": "06:50",
+      "publishedAt": "2026-06-26T06:50:36.000Z",
+      "url": "https://www.ithome.com/0/969/019.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/6/4526f7b2-f099-40e6-8923-5a00524b58c0.jpg?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 6 月 26 日消息，博主 @数码闲聊站 发文，透露苹果 iPhone 18 Pro 系列不涨价的可能性极低，预计今年 9 月发布的 iPhone 18 Pro 手机定价为 9999 元起，包括 18 Pro/18 Pro Max 及苹果首款折叠屏手机 iPhone Ultra 均为“万元机”。 IT之家注意到，该博主还在评论区透露 iPhone…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-2f78e672e379",
+      "title": "Alleged Redmi Note 17 Pro bags important certification, July launch expected",
+      "source": "Gizmochina",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-26",
+      "time": "06:44",
+      "publishedAt": "2026-06-26T06:44:30.000Z",
+      "url": "https://www.gizmochina.com/2026/06/26/redmi-note-17-pro-3c-certified/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/04/Redmi-Note-15-SE-5G-300x188.png?x44794",
+      "summary": "Redmi is reportedly working on the Redmi Note 17 family for the Chinese market. At present, there is no clarity on how many models will be part of the lineup, but recent reports h…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-63fa4c52c77e",
+      "title": "Samsung faces a tougher foldable battle as Apple greenlights iPhone Ultra 2",
+      "source": "SamMobile",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-26",
+      "time": "06:32",
+      "publishedAt": "2026-06-26T06:32:00.000Z",
+      "url": "https://www.sammobile.com/news/samsung-faces-foldable-battle-apple-iphone-ultra-2-greenlighted/",
+      "image": "",
+      "summary": "Samsung will face its toughest battle in the foldable smartphone space this year, as Apple is expected to launch its first foldable iPhone. Ahead of its launch, the iPhone maker h…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-3d377f6e7662",
+      "title": "我在 MWC 上找到了折叠屏最该有的样子",
+      "source": "爱范儿",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-06-26",
+      "time": "06:10",
+      "publishedAt": "2026-06-26T06:10:33.000Z",
+      "url": "https://www.ifanr.com/1670141?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "image": "https://s3.ifanr.com/wp-content/uploads/2026/06/vivo20260626.jpg",
+      "summary": "让折叠屏展开以后，不再只是大号手机，而是千人千面的「原子工作台」。",
+      "tags": [
+        "行业",
+        "评测",
         "自动抓取"
       ]
     },
@@ -42,28 +322,8 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "coolapk-user-60bbe02b5903",
-      "title": "竹本青：【2026年第25周 国内手机市场份额曝光：华为、苹果、vivo分列前三，大盘上涨约7%】 1.华为 —— 20.…",
-      "source": "竹本青",
-      "brand": "HONOR",
-      "model": "HONOR 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-06-26",
-      "time": "04:02",
-      "publishedAt": "2026-06-26T04:02:23.000Z",
-      "url": "https://www.coolapk.com/feed/72529457",
-      "image": "http://image.coolapk.com/feed/2026/0626/12/4248714_ba844fa3_6542_841_40@1438x1083.jpg",
-      "summary": "【2026年第25周 国内手机市场份额曝光：华为、苹果、vivo分列前三，大盘上涨约7%】 1.华为 —— 20.7% 2.苹果 —— 17.9% 3.vivo —— 16.6%（含iQOO 5.6%） 4.OPPO —— 16.6%（含一加 4.1%，realme 0.7%） 5.小米 —— 15.0% 6.荣耀 —— 9.5% #今日热点# #鸿蒙6#…",
-      "tags": [
-        "HONOR",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
       "id": "coolapk-user-2534cedc21fe",
-      "title": "竹本青：【高通阵营迭代新机 骁龙8系芯片方案曝光】 ● SM8975 2nm，命名暂定骁龙8 Elite Gen6 Pro…",
+      "title": "竹本青：高通阵营迭代新机骁龙8系芯片方案曝光",
       "source": "竹本青",
       "brand": "行业",
       "model": "智能手机市场",
@@ -79,66 +339,6 @@ window.phoneRadarAuto = {
         "行业",
         "爆料",
         "酷安博主"
-      ]
-    },
-    {
-      "id": "auto-a42e166d863e",
-      "title": "安卓最强 2nm 芯片：高通阵营迭代新机 8 系芯片方案曝光，骁龙 8 Elite Gen6 可选 Pro 版",
-      "source": "IT之家",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-26",
-      "time": "02:55",
-      "publishedAt": "2026-06-26T02:55:53.000Z",
-      "url": "https://www.ithome.com/0/968/800.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/6/4c60f0c4-024e-4799-9f94-8c983a0b3ff8.jpg",
-      "summary": "IT之家 6 月 26 日消息，博主 @数码闲聊站 今日曝光了高通阵营迭代新机的 8 系芯片方案： SM8975，2nm， 命名暂定骁龙 8 Elite Gen6 Pro ，2+3+3 新一代 Oryan CPU 架构，共享 16MB L2，频率更激进，A850 GPU 18MB GMEM，支持 LPDDR6/5X，峰值性能刷新高。 SM8950，2nm，…",
-      "tags": [
-        "行业",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-0e0b1ddc1a11",
-      "title": "黑爵带来像素点阵屏机械键盘 Pixel68：三模连接，399 元起",
-      "source": "IT之家",
-      "brand": "Pixel",
-      "model": "Pixel 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-26",
-      "time": "02:19",
-      "publishedAt": "2026-06-26T02:19:10.000Z",
-      "url": "https://www.ithome.com/0/968/785.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/6/5aa7f9cd-cf1f-40b4-8141-e5e38c072701.jpg?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 6 月 26 日消息，黑爵 (AJAZZ) 昨日宣布推出三模机械键盘 Pixel68。这一型号采用 65% 配列，强调桌搭属性， 后方集成了由 52×5=260 LED 灯珠构成的 10.6\" 像素点阵屏 ，支持用户自定义显示效果。 Pixel68 机身为 ABS 塑料材质，右上方集成旋钮，内部采用 Gasket 固定结构， 包含 5 层填充和…",
-      "tags": [
-        "Pixel",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-2c245b6791b5",
-      "title": "开源固件 Coreboot 26.06 更新发布，支持英特尔 Nova Lake、AMD Strix Halo 平台",
-      "source": "IT之家",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-26",
-      "time": "01:42",
-      "publishedAt": "2026-06-26T01:42:12.000Z",
-      "url": "https://www.ithome.com/0/968/767.htm",
-      "image": "",
-      "summary": "IT之家 6 月 26 日消息，据科技媒体 Phoronix 昨天报道，开源固件 Coreboot（曾用名：LinuxBIOS）现已发布 26.06 更新，为英特尔 Nova Lake、AMD Strix Halo 等新平台提供支持，增加实用性。 据报道，英特尔工程师已经在正式发布前， 为 Coreboot 加入了 Nova Lake 平台初步支持 。整合…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
       ]
     },
     {
@@ -159,6 +359,26 @@ window.phoneRadarAuto = {
         "iPhone",
         "官方",
         "自动抓取"
+      ]
+    },
+    {
+      "id": "newsnow-7d82f6c58732",
+      "title": "vivo X Fold6 预热汇总：7000mAh电池，蔡司2亿主摄+蔡司APO超级长焦",
+      "source": "酷安热榜",
+      "brand": "vivo",
+      "model": "vivo 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-06-26",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/72528609",
+      "image": "",
+      "summary": "vivo X Fold6 预热汇总：7000mAh电池，蔡司2亿主摄+蔡司APO超级长焦",
+      "tags": [
+        "vivo",
+        "爆料",
+        "NewsNow"
       ]
     },
     {
@@ -202,39 +422,59 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-7d82f6c58732",
-      "title": "vivo X Fold6 预热汇总：7000mAh电池，蔡司2亿主摄+蔡司APO超级长焦",
+      "id": "newsnow-0f672c7e4620",
+      "title": "2026年第25周国内手机市场份额曝光：华为居首",
       "source": "酷安热榜",
-      "brand": "vivo",
-      "model": "vivo 相关机型",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-06-26",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72528609",
+      "url": "https://www.coolapk.com/feed/72529457",
       "image": "",
-      "summary": "vivo X Fold6 预热汇总：7000mAh电池，蔡司2亿主摄+蔡司APO超级长焦",
+      "summary": "2026年第25周国内手机市场份额曝光：华为居首",
       "tags": [
-        "vivo",
+        "Huawei",
         "爆料",
         "NewsNow"
       ]
     },
     {
-      "id": "newsnow-4d6558f82055",
-      "title": "保真保真！中国大区渠道商最新开会的消息，下个月中 iPhone17 全系列调价[受虐滑稽]，全球市场统一调动，最高浮动 300 刀乐。",
-      "source": "酷安热榜",
+      "id": "newsnow-5d8237d309b3",
+      "title": "iPhone18Pro起售价或9999元",
+      "source": "微博热搜",
       "brand": "iPhone",
       "model": "iPhone 相关机型",
       "type": "爆料",
-      "trust": "高关注爆料源",
+      "trust": "待验证",
       "date": "2026-06-26",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72523857",
+      "url": "https://s.weibo.com/weibo?q=%23iPhone18Pro%E8%B5%B7%E5%94%AE%E4%BB%B7%E6%88%969999%E5%85%83%23&t=31&band_rank=30&Refer=top",
       "image": "",
-      "summary": "保真保真！中国大区渠道商最新开会的消息，下个月中 iPhone17 全系列调价[受虐滑稽]，全球市场统一调动，最高浮动 300 刀乐。",
+      "summary": "iPhone18Pro起售价或9999元",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-0d9b253bcebc",
+      "title": "曝iPhone18Pro定价9999元起",
+      "source": "百度热搜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-26",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.baidu.com/s?wd=%E6%9B%9DiPhone18Pro%E5%AE%9A%E4%BB%B79999%E5%85%83%E8%B5%B7",
+      "image": "",
+      "summary": "曝iPhone18Pro定价9999元起",
       "tags": [
         "iPhone",
         "爆料",
@@ -677,26 +917,6 @@ window.phoneRadarAuto = {
       "summary": "Plugging the smartphone into a wall adapter when the battery dips into the red is never a convenient option. That is one reason why wireless chargers have evolved into a big categ…",
       "tags": [
         "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-9a737f6113ff",
-      "title": "Honor Magic 8 series weekly sales step up, hits 1.33 million in 24th week",
-      "source": "Huawei Central",
-      "brand": "HONOR",
-      "model": "HONOR 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-25",
-      "time": "07:12",
-      "publishedAt": "2026-06-25T07:12:33.000Z",
-      "url": "https://www.huaweicentral.com/honor-magic-8-series-weekly-sales-step-up-hits-1-33-million-in-24th-week/",
-      "image": "https://www.huaweicentral.com/wp-content/uploads/2026/06/Magic-8-sales-leak.jpg",
-      "summary": "Honor is currently working on the 2026 flagship smartphone lineup and in the meantime, the Magic 8 series continues to show impressive performance in the sales market, reaching 1.…",
-      "tags": [
-        "HONOR",
         "爆料",
         "自动抓取"
       ]
