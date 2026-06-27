@@ -1,11 +1,11 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-06-27T21:19:14.613Z",
+  "updatedAt": "2026-06-27T23:16:39.915Z",
   "issueDate": "2026-06-27",
   "issue": "VOL.260627",
   "title": "手机情报日报",
-  "intro": "今日筛出 15 条重点，其中 8 条是重点爆料，包含 5 条 iPhone 相关、1 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 16 条重点，其中 8 条是重点爆料，包含 5 条 iPhone 相关、1 条官方确认、0 条参数线索。",
   "stats": {
-    "total": 15,
+    "total": 16,
     "iphone": 5,
     "leaks": 8,
     "official": 1,
@@ -112,24 +112,23 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
-          "id": "auto-720a09bab8ad",
-          "title": "随 Galaxy S28 登场：曝三星酝酿首款卷轴屏手机，可拉伸至 10 英寸",
+          "id": "newsnow-a875aed4fa0c",
+          "title": "荣耀直板新机曝光：评估14000mAh电池",
           "originalTitle": "",
-          "source": "IT之家",
-          "brand": "Samsung",
+          "source": "酷安热榜",
+          "brand": "HONOR",
           "type": "爆料",
-          "trust": "媒体汇总",
+          "trust": "高关注爆料源",
           "date": "2026-06-27",
-          "time": "07:15",
-          "publishedAt": "2026-06-27T07:15:07.000Z",
-          "url": "https://www.ithome.com/0/969/367.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/6/a69895a5-77a1-4a92-b896-6f5718a34225.png",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://www.coolapk.com/feed/72542518",
+          "image": "",
           "verdict": "先看",
-          "takeaway": "IT之家 6 月 27 日消息，韩媒每日经济新闻社昨日（6 月 26 日）发布博文，报道称三星显示（Samsung Display）正在推动卷轴屏市场布局， 计划 2028 年随 Galaxy S28 系列手机，首次推出商业化卷轴手机。 该媒体指出卷轴手机目前仍处于早期起步阶段，谁先进入供应链，谁就更可能拿到后续技术标准与客户资源。与折叠屏相比，卷轴屏的结…",
-          "detail": "IT之家 6 月 27 日消息，韩媒每日经济新闻社昨日（6 月 26 日）发布博文，报道称三星显示（Samsung Display）正在推动卷轴屏市场布局， 计划 2028 年随 Galaxy S28 系列手机，首次推出商业化卷轴手机。 该媒体指出卷轴手机目前仍处于早期起步阶段，谁先进入供应链，谁就更可能拿到后续技术标准与客户资源。与折叠屏相比，卷轴屏的结…",
+          "takeaway": "荣耀直板新机曝光：评估14000mAh电池",
+          "detail": "荣耀直板新机曝光：评估14000mAh电池",
           "keyPoints": [
-            "屏幕形态",
-            "爆料来源"
+            "电池 / 充电"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
@@ -159,29 +158,6 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
-          "id": "newsnow-a875aed4fa0c",
-          "title": "荣耀直板新机曝光：评估14000mAh电池",
-          "originalTitle": "",
-          "source": "酷安热榜",
-          "brand": "HONOR",
-          "type": "爆料",
-          "trust": "高关注爆料源",
-          "date": "2026-06-27",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://www.coolapk.com/feed/72542518",
-          "image": "",
-          "verdict": "先看",
-          "takeaway": "荣耀直板新机曝光：评估14000mAh电池",
-          "detail": "荣耀直板新机曝光：评估14000mAh电池",
-          "keyPoints": [
-            "电池 / 充电"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
           "id": "coolapk-user-e664f25de324",
           "title": "JSCHEN小小狐：vivo X500e曝光：6.59英寸屏幕，骁龙8系芯片",
           "originalTitle": "",
@@ -201,6 +177,30 @@ window.phoneRadarDaily = {
             "影像硬件",
             "屏幕形态",
             "芯片 / 性能"
+          ],
+          "confidence": "可信度较高，但仍属于发布前线索。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "coolapk-user-dd681de4a272",
+          "title": "JSCHEN小小狐：vivo X Fold 6 正式发布：售价 7999 元起",
+          "originalTitle": "",
+          "source": "JSCHEN小小狐",
+          "brand": "vivo",
+          "type": "爆料",
+          "trust": "高可信爆料",
+          "date": "2026-06-26",
+          "time": "12:13",
+          "publishedAt": "2026-06-26T12:13:49.000Z",
+          "url": "https://www.coolapk.com/feed/72535799",
+          "image": "http://image.coolapk.com/feed/2026/0626/20/4702274_3d830039_6019_4792_298@2649x3130.jpg",
+          "verdict": "先看",
+          "takeaway": "『vivo X Fold 6 正式发布：售价 7999 元起』 12GB + 256GB —— 7999 元 12GB + 512GB —— 8999 元 16GB + 512GB —— 9999 元 16GB + 1TB —— 10999 元 16GB + 1TB 黑金版 —— 11299 元 「折叠专业影像套装」 16GB + 1TB —— 11999…",
+          "detail": "『vivo X Fold 6 正式发布：售价 7999 元起』 12GB + 256GB —— 7999 元 12GB + 512GB —— 8999 元 16GB + 512GB —— 9999 元 16GB + 1TB —— 10999 元 16GB + 1TB 黑金版 —— 11299 元 「折叠专业影像套装」 16GB + 1TB —— 11999…",
+          "keyPoints": [
+            "影像硬件",
+            "成本 / 价格"
           ],
           "confidence": "可信度较高，但仍属于发布前线索。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
@@ -389,6 +389,29 @@ window.phoneRadarDaily = {
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "影响性能和寿命判断，适合放进参数库。",
           "action": "有具体参数就记录到参数库；没有参数就先收藏。"
+        },
+        {
+          "id": "newsnow-72af7ac0309b",
+          "title": "来个老哥来劝劝我，现在想换PuraXMax想疯了，mate 80 pm在我手里已经不香了，有点得陇望蜀了。[流泪]",
+          "originalTitle": "",
+          "source": "酷安热榜",
+          "brand": "行业",
+          "type": "爆料",
+          "trust": "高关注爆料源",
+          "date": "2026-06-27",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://www.coolapk.com/feed/72546599",
+          "image": "",
+          "verdict": "可略过",
+          "takeaway": "来个老哥来劝劝我，现在想换PuraXMax想疯了，mate 80 pm在我手里已经不香了，有点得陇望蜀了。[流泪]",
+          "detail": "来个老哥来劝劝我，现在想换PuraXMax想疯了，mate 80 pm在我手里已经不香了，有点得陇望蜀了。[流泪]",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         }
       ]
     }

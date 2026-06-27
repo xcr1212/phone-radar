@@ -1,5 +1,5 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-06-27T21:19:14.613Z",
+  "updatedAt": "2026-06-27T23:16:39.915Z",
   "news": [
     {
       "id": "auto-aaa43bc90712",
@@ -242,26 +242,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-720a09bab8ad",
-      "title": "随 Galaxy S28 登场：曝三星酝酿首款卷轴屏手机，可拉伸至 10 英寸",
-      "source": "IT之家",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-27",
-      "time": "07:15",
-      "publishedAt": "2026-06-27T07:15:07.000Z",
-      "url": "https://www.ithome.com/0/969/367.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/6/a69895a5-77a1-4a92-b896-6f5718a34225.png",
-      "summary": "IT之家 6 月 27 日消息，韩媒每日经济新闻社昨日（6 月 26 日）发布博文，报道称三星显示（Samsung Display）正在推动卷轴屏市场布局， 计划 2028 年随 Galaxy S28 系列手机，首次推出商业化卷轴手机。 该媒体指出卷轴手机目前仍处于早期起步阶段，谁先进入供应链，谁就更可能拿到后续技术标准与客户资源。与折叠屏相比，卷轴屏的结…",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-b80822a07abb",
       "title": "OnePlus N6 unboxed days before launch; 45W charger, case, screen protector included",
       "source": "Gizmochina",
@@ -382,21 +362,21 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-5bc31e532739",
-      "title": "能不能来些人劝劝我，我最近很想有一部iphone16pm，甚至想把现在这个手机换成16pm，我明知换过去会出现信号不好网速卡，充电慢发烫续航不够，但是我还是想换，这真的快成执念了，在去年首发x9pro时候我就是想买个二手的16pm那时候没那么多钱克制住了，我可能对苹果还是有一些幻想，想着他可能用着更舒服什么的，来个人劝劝我，如果我真的换了会有哪些正面提升，哪些负面#数码日常# #OPPOFindX9Pro# #iPhone16ProMax#",
+      "id": "newsnow-a7b39f9993cb",
+      "title": "蹭拍几张旗袍小姐姐的美照，300u负片模式直出，调色盘有微调，氛围感还是不错的[欢呼] #vivoX300Ultra#",
       "source": "酷安热榜",
-      "brand": "OPPO",
-      "model": "OPPO 相关机型",
+      "brand": "vivo",
+      "model": "vivo 相关机型",
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-06-27",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72539952",
+      "url": "https://www.coolapk.com/feed/72532828",
       "image": "",
-      "summary": "能不能来些人劝劝我，我最近很想有一部iphone16pm，甚至想把现在这个手机换成16pm，我明知换过去会出现信号不好网速卡，充电慢发烫续航不够，但是我还是想换，这真的快成执念了，在去年首发x9pro时候我就是想买个二手的16pm那时候没那么多钱克制住了，我可能对苹果还是有一些幻想，想着他可能用着更舒服什么的，来个人劝劝我，如果我真的换了会有哪些正面提升，…",
+      "summary": "蹭拍几张旗袍小姐姐的美照，300u负片模式直出，调色盘有微调，氛围感还是不错的[欢呼] #vivoX300Ultra#",
       "tags": [
-        "OPPO",
+        "vivo",
         "爆料",
         "NewsNow"
       ]
@@ -422,26 +402,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-a7b39f9993cb",
-      "title": "蹭拍几张旗袍小姐姐的美照，300u负片模式直出，调色盘有微调，氛围感还是不错的[欢呼] #vivoX300Ultra#",
-      "source": "酷安热榜",
-      "brand": "vivo",
-      "model": "vivo 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-06-27",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72532828",
-      "image": "",
-      "summary": "蹭拍几张旗袍小姐姐的美照，300u负片模式直出，调色盘有微调，氛围感还是不错的[欢呼] #vivoX300Ultra#",
-      "tags": [
-        "vivo",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
       "id": "newsnow-af9ad4a52d3f",
       "title": "轮到我了，我的手机屏幕也出现竖线了，粉红色的，正看着视频呢，这条线就突然闪了两下就出来了。图1是用的别人发的图，只有一个手机没办法拍照，但位置和颜色是一模一样的。",
       "source": "酷安热榜",
@@ -457,6 +417,26 @@ window.phoneRadarAuto = {
       "summary": "轮到我了，我的手机屏幕也出现竖线了，粉红色的，正看着视频呢，这条线就突然闪了两下就出来了。图1是用的别人发的图，只有一个手机没办法拍照，但位置和颜色是一模一样的。",
       "tags": [
         "行业",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-5bc31e532739",
+      "title": "能不能来些人劝劝我，我最近很想有一部iphone16pm，甚至想把现在这个手机换成16pm，我明知换过去会出现信号不好网速卡，充电慢发烫续航不够，但是我还是想换，这真的快成执念了，在去年首发x9pro时候我就是想买个二手的16pm那时候没那么多钱克制住了，我可能对苹果还是有一些幻想，想着他可能用着更舒服什么的，来个人劝劝我，如果我真的换了会有哪些正面提升，哪些负面#数码日常# #OPPOFindX9Pro# #iPhone16ProMax#",
+      "source": "酷安热榜",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-06-27",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/72539952",
+      "image": "",
+      "summary": "能不能来些人劝劝我，我最近很想有一部iphone16pm，甚至想把现在这个手机换成16pm，我明知换过去会出现信号不好网速卡，充电慢发烫续航不够，但是我还是想换，这真的快成执念了，在去年首发x9pro时候我就是想买个二手的16pm那时候没那么多钱克制住了，我可能对苹果还是有一些幻想，想着他可能用着更舒服什么的，来个人劝劝我，如果我真的换了会有哪些正面提升，…",
+      "tags": [
+        "OPPO",
         "爆料",
         "NewsNow"
       ]
