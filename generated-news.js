@@ -1,6 +1,66 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-06-27T04:15:39.052Z",
+  "updatedAt": "2026-06-27T07:28:09.944Z",
   "news": [
+    {
+      "id": "auto-720a09bab8ad",
+      "title": "随 Galaxy S28 登场：曝三星酝酿首款卷轴屏手机，可拉伸至 10 英寸",
+      "source": "IT之家",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-27",
+      "time": "07:15",
+      "publishedAt": "2026-06-27T07:15:07.000Z",
+      "url": "https://www.ithome.com/0/969/367.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/6/a69895a5-77a1-4a92-b896-6f5718a34225.png",
+      "summary": "IT之家 6 月 27 日消息，韩媒每日经济新闻社昨日（6 月 26 日）发布博文，报道称三星显示（Samsung Display）正在推动卷轴屏市场布局， 计划 2028 年随 Galaxy S28 系列手机，首次推出商业化卷轴手机。 该媒体指出卷轴手机目前仍处于早期起步阶段，谁先进入供应链，谁就更可能拿到后续技术标准与客户资源。与折叠屏相比，卷轴屏的结…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-b978ab44c340",
+      "title": "竹本青：【曝美光高管吐槽苹果涨价：芯片成本涨45美元，终端加价250美元】 6月27日，据多家媒体报道，海外财经投资类网红…",
+      "source": "竹本青",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-06-27",
+      "time": "07:05",
+      "publishedAt": "2026-06-27T07:05:36.000Z",
+      "url": "https://www.coolapk.com/feed/72546384",
+      "image": "http://image.coolapk.com/feed/2026/0627/15/4248714_f8378a16_3935_6072_784@1169x1763.jpg",
+      "summary": "【曝美光高管吐槽苹果涨价：芯片成本涨45美元，终端加价250美元】 6月27日，据多家媒体报道，海外财经投资类网红账号爆出美光科技高管公开吐槽苹果定价模式： 十多年来，苹果长期以5美元采购存储芯片，简单封装后，以99美元的存储升级价卖给消费者，还嘲笑美光想把单价涨到7美元。如今芯片采购价涨到50美元，苹果直接向消费者加价250美元，把成本压力成倍转嫁给用户…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-b80822a07abb",
+      "title": "OnePlus N6 unboxed days before launch; 45W charger, case, screen protector included",
+      "source": "Gizmochina",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-27",
+      "time": "06:16",
+      "publishedAt": "2026-06-27T06:16:05.000Z",
+      "url": "https://www.gizmochina.com/2026/06/27/oneplus-n6-unboxed-days-before-launch-45w-charger-case-screen-protector-included/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/06/HLuEnN2a0AA-hs0-300x169.jpg?x44794",
+      "summary": "OnePlus’s new budget N series offering, the OnePlus N6, is expected to drop in India on June 30, and early unboxing leaks are already giving us a pretty good look at what’s coming…",
+      "tags": [
+        "OPPO",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-2b801a2e4cca",
       "title": "OnePlus Nord 6 vs OnePlus 13R: Which OnePlus Phone Offers Better Value?",
@@ -222,26 +282,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-f34d6301caca",
-      "title": "一次很不愉快的小米售后，因为小米10pro指纹掉了，刚刚去小米之家校准，售后的说不支持处理，说我的机子在外面修过，我说没在外面修过，两年前在另外一家小米之家换过摄像头镜片后，出现不定时关机，后面对方帮我修了下换了下不知道什么配件就好了，后面掉过一次指纹，售后校准之后就好了（校准非常快一两分钟就搞定，自己校准会出现识别率低），对方还是说规定不支持，我问为什么直接不理人，我说那我付费校准总可以了吧。对方说不行规定不支持，还说你的老机型了。我心里一下子就火大了，老机型就不配售后吗哪怕是付费吗？我说那脱粉了，当他们面把还在途中的17u退了。自己在网上二十几买个校准砝码。从小米note开始十几年米粉，这次真的是让人非常不愉快。因为眼睛敏感，如果一个机子屏幕适合，我会用很多年，就是小米10pro这样，我可不想以后还遇到这样的，那就直接避开这个品牌，手机又不是非他不可... 查看更多",
-      "source": "酷安热榜",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-06-27",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72518994",
-      "image": "",
-      "summary": "一次很不愉快的小米售后，因为小米10pro指纹掉了，刚刚去小米之家校准，售后的说不支持处理，说我的机子在外面修过，我说没在外面修过，两年前在另外一家小米之家换过摄像头镜片后，出现不定时关机，后面对方帮我修了下换了下不知道什么配件就好了，后面掉过一次指纹，售后校准之后就好了（校准非常快一两分钟就搞定，自己校准会出现识别率低），对方还是说规定不支持，我问为什么…",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
       "id": "newsnow-1fd5d9cd9ffd",
       "title": "涨声一片！受全球DRAM与NAND芯片成本持续上涨影响，本周苹果、iQOO、Xbox主机全线上调售价。",
       "source": "酷安热榜",
@@ -339,46 +379,6 @@ window.phoneRadarAuto = {
         "OPPO",
         "爆料",
         "NewsNow"
-      ]
-    },
-    {
-      "id": "auto-d561dc64d0b7",
-      "title": "18.2% 涨幅：IDC 预估苹果 iPhone 18 Pro 起价上涨 200 美元",
-      "source": "IT之家",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-26",
-      "time": "23:15",
-      "publishedAt": "2026-06-26T23:15:42.000Z",
-      "url": "https://www.ithome.com/0/969/277.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/6/fcd235d7-aecb-4039-b98f-61107574543d.png?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 6 月 27 日消息，市场调查机构 IDC 昨日（6 月 26 日）预测，苹果 iPhone 18 Pro、iPhone 18 Pro Max 两款机型的价格将上涨 200 美元（IT之家注：现汇率约合 1362 元人民币）， 涨幅 16.68%~18.2%。 该机构最初预估 iPhone 18 Pro、iPhone 18 Pro Max 两款机…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-66639bdb538b",
-      "title": "郭明錤称苹果 iPhone 18 标准版配 9GB 内存、A20 芯片",
-      "source": "IT之家",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-26",
-      "time": "23:03",
-      "publishedAt": "2026-06-26T23:03:22.000Z",
-      "url": "https://www.ithome.com/0/969/274.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/6/06203972-9495-48d3-b0ab-cdabb030a188.png",
-      "summary": "IT之家 6 月 27 日消息，天风国际证券分析师郭明錤今天（6 月 27 日）在 X 平台发布推文， 爆料称苹果 iPhone 18 将配备 9GB 内存（6 颗 1.5GB 芯片），以及 A20 芯片。 内存容量方面，郭明錤表示 2027 年上半年低端 iPhone 机型（预估指 iPhone 18 和 iPhone 18e）均采用 9GB DRAM…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
       ]
     },
     {
@@ -839,26 +839,6 @@ window.phoneRadarAuto = {
         "Xiaomi",
         "爆料",
         "自动抓取"
-      ]
-    },
-    {
-      "id": "weibo-93d5dbe0bcdf",
-      "title": "数码闲聊站：高通阵营迭代新机的8系芯片方案： ——SM8975，2nm，命名暂定骁龙8 E…",
-      "source": "数码闲聊站",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-06-26",
-      "time": "02:33",
-      "publishedAt": "2026-06-26T02:33:00.000Z",
-      "url": "https://weibo.com/6048569942/R5Sm28IZq",
-      "image": "",
-      "summary": "高通阵营迭代新机的8系芯片方案： ——SM8975，2nm，命名暂定骁龙8 Elite Gen6 Pro，2+3+3新一代Oryan CPU架构，共享16MB L2，频率更激进，A850 GPU 18MB GMEM，支持LPDDR6/5X，峰值性能刷新高。 ——SM8950，2nm，命名暂定骁龙8 Elite Gen6，2+3+3新一代Oryan CPU架…",
-      "tags": [
-        "行业",
-        "爆料",
-        "微博"
       ]
     }
   ]
