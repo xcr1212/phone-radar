@@ -1,5 +1,5 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-06-27T15:38:18.626Z",
+  "updatedAt": "2026-06-27T17:30:36.480Z",
   "news": [
     {
       "id": "auto-defc183c8ea1",
@@ -222,6 +222,26 @@ window.phoneRadarAuto = {
       ]
     },
     {
+      "id": "coolapk-user-b978ab44c340",
+      "title": "竹本青：曝美光高管吐槽苹果把成本压力成倍转嫁给用户",
+      "source": "竹本青",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-06-27",
+      "time": "07:05",
+      "publishedAt": "2026-06-27T07:05:36.000Z",
+      "url": "https://www.coolapk.com/feed/72546384",
+      "image": "http://image.coolapk.com/feed/2026/0627/16/4248714_5ca565b1_7512_2818_753@1260x1849.jpg",
+      "summary": "【曝美光高管吐槽苹果定价模式：芯片成本涨45美元，终端加价250美元】 6月27日资讯，昨日海外财经投资类网红账号 @BluthCapital 爆出美光科技高管公开吐槽苹果定价模式： “十多年来，苹果长期以5美元采购存储芯片，简单封装后，以99美元的存储升级价卖给消费者，还嘲笑美光想把单价涨到7美元。如今芯片采购价涨到50美元，苹果直接向消费者加价250美…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
       "id": "auto-b80822a07abb",
       "title": "OnePlus N6 unboxed days before launch; 45W charger, case, screen protector included",
       "source": "Gizmochina",
@@ -259,26 +279,6 @@ window.phoneRadarAuto = {
         "OPPO",
         "爆料",
         "自动抓取"
-      ]
-    },
-    {
-      "id": "coolapk-user-7b0a1a7605f3",
-      "title": "竹本青：【vivo X500E 曝光：X系列新成员，6.59英寸中屏+骁龙8系处理器】 ▫️6.59英寸中屏／小方块Dec…",
-      "source": "竹本青",
-      "brand": "vivo",
-      "model": "vivo 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-06-27",
-      "time": "03:38",
-      "publishedAt": "2026-06-27T03:38:00.000Z",
-      "url": "https://www.coolapk.com/feed/72543719",
-      "image": "http://image.coolapk.com/feed/2026/0627/11/4248714_454a4866_1479_3447_167@1423x379.jpg",
-      "summary": "【vivo X500E 曝光：X系列新成员，6.59英寸中屏+骁龙8系处理器】 ▫️6.59英寸中屏／小方块Deco ▫️骁龙8系处理器 ▫️蔡司影像+IMX8中底潜望长焦 #今日热点# #vivoX500# #OriginOS6#",
-      "tags": [
-        "vivo",
-        "爆料",
-        "酷安博主"
       ]
     },
     {
@@ -339,86 +339,6 @@ window.phoneRadarAuto = {
         "iPhone",
         "官方",
         "自动抓取"
-      ]
-    },
-    {
-      "id": "newsnow-1fd5d9cd9ffd",
-      "title": "涨声一片！受全球DRAM与NAND芯片成本持续上涨影响，本周苹果、iQOO、Xbox主机全线上调售价。",
-      "source": "酷安热榜",
-      "brand": "vivo",
-      "model": "vivo 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-06-27",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72532691",
-      "image": "",
-      "summary": "涨声一片！受全球DRAM与NAND芯片成本持续上涨影响，本周苹果、iQOO、Xbox主机全线上调售价。",
-      "tags": [
-        "vivo",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-5bc31e532739",
-      "title": "能不能来些人劝劝我，我最近很想有一部iphone16pm，甚至想把现在这个手机换成16pm，我明知换过去会出现信号不好网速卡，充电慢发烫续航不够，但是我还是想换，这真的快成执念了，在去年首发x9pro时候我就是想买个二手的16pm那时候没那么多钱克制住了，我可能对苹果还是有一些幻想，想着他可能用着更舒服什么的，来个人劝劝我，如果我真的换了会有哪些正面提升，哪些负面#数码日常# #OPPOFindX9Pro# #iPhone16ProMax#",
-      "source": "酷安热榜",
-      "brand": "OPPO",
-      "model": "OPPO 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-06-27",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72539952",
-      "image": "",
-      "summary": "能不能来些人劝劝我，我最近很想有一部iphone16pm，甚至想把现在这个手机换成16pm，我明知换过去会出现信号不好网速卡，充电慢发烫续航不够，但是我还是想换，这真的快成执念了，在去年首发x9pro时候我就是想买个二手的16pm那时候没那么多钱克制住了，我可能对苹果还是有一些幻想，想着他可能用着更舒服什么的，来个人劝劝我，如果我真的换了会有哪些正面提升，…",
-      "tags": [
-        "OPPO",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-a7b39f9993cb",
-      "title": "蹭拍几张旗袍小姐姐的美照，300u负片模式直出，调色盘有微调，氛围感还是不错的[欢呼] #vivoX300Ultra#",
-      "source": "酷安热榜",
-      "brand": "vivo",
-      "model": "vivo 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-06-27",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72532828",
-      "image": "",
-      "summary": "蹭拍几张旗袍小姐姐的美照，300u负片模式直出，调色盘有微调，氛围感还是不错的[欢呼] #vivoX300Ultra#",
-      "tags": [
-        "vivo",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-fdca7222b537",
-      "title": "2026年第25周国内手机市场份额曝光：华为居首",
-      "source": "酷安热榜",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-06-27",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72529457",
-      "image": "",
-      "summary": "2026年第25周国内手机市场份额曝光：华为居首",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "NewsNow"
       ]
     },
     {
