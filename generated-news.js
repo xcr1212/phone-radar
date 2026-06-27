@@ -1,6 +1,86 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-06-27T10:22:50.982Z",
+  "updatedAt": "2026-06-27T14:05:51.059Z",
   "news": [
+    {
+      "id": "auto-defc183c8ea1",
+      "title": "vivo 产品副总裁黄韬：对 vivo X Fold6 销量非常有信心，预计销量较上一代提升 30% 以上",
+      "source": "IT之家",
+      "brand": "vivo",
+      "model": "vivo 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-27",
+      "time": "13:40",
+      "publishedAt": "2026-06-27T13:40:37.000Z",
+      "url": "https://www.ithome.com/0/969/509.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/6/250cd9fa-ae75-4c98-89db-3984ed8b1a61.jpg",
+      "summary": "IT之家 6 月 27 日消息，vivo X Fold6 折叠屏手机昨晚正式发布，售价 7999 元起。 vivo 产品副总裁黄韬在发布会后接受媒体采访，他表示 vivo X Fold6 各方面提升非常大，而且价格很有诚意，他对这次新品非常有信心，预计销量较上代提升 30% 以上。 作为 Pro 级的产品，（vivo X Fold6）价格是非常非常有诚意的…",
+      "tags": [
+        "vivo",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-4ae55ce678e8",
+      "title": "央视曝数码产品网络测评乱象：特供样机、固件作弊、云端调控三重手段",
+      "source": "IT之家",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-27",
+      "time": "13:13",
+      "publishedAt": "2026-06-27T13:13:48.000Z",
+      "url": "https://www.ithome.com/0/969/499.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/6/d47e3fed-006f-406d-847e-ddf6062a782c.jpg?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 6 月 27 日消息，据央视新闻今日报道，记者调查发现，网络测评乱象在数码产品测评中同样存在，由于这个领域的高度技术化，长期以来处于“无人能实锤作弊乱象”的灰色地带。网络安全专家通过技术手段，揭开了手机厂商与测评博主之间存在的作弊内幕。 据介绍，边亮是一位网络安全专家，他长期关注数码产品领域。在工作中，边亮意外发现了针对测评博主的“特殊调教”内幕…",
+      "tags": [
+        "行业",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-0bb55c0d3ae1",
+      "title": "Vivo X500e tipped to pack Snapdragon 8-series, Zeiss-tuned cameras, new design",
+      "source": "Gizmochina",
+      "brand": "vivo",
+      "model": "vivo 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-27",
+      "time": "12:42",
+      "publishedAt": "2026-06-27T12:42:37.000Z",
+      "url": "https://www.gizmochina.com/2026/06/27/vivo-x500e-key-specifications-leaked/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/06/Vivo-X300-FE-300x225.jpg?x44794",
+      "summary": "Reports have revealed that the upcoming Vivo X500 series will include four models, such as the X500e, X500, X500 Pro (or Pro Mini), and X500 Pro Max. Except for the X500e, all of…",
+      "tags": [
+        "vivo",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-20dd4f2b0a95",
+      "title": "JSCHEN小小狐：城站 - 德清西区间跑了一圈 巧的是来回两趟都是地方铁路的车底 #手机摄影#",
+      "source": "JSCHEN小小狐",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-06-27",
+      "time": "11:38",
+      "publishedAt": "2026-06-27T11:38:33.000Z",
+      "url": "https://www.coolapk.com/feed/72549939",
+      "image": "http://image.coolapk.com/feed/2026/0627/19/4702274_cf607cba_0310_1615_172-uhdr@2365x3504.jpg",
+      "summary": "城站 - 德清西区间跑了一圈 巧的是来回两趟都是地方铁路的车底 #手机摄影#",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "酷安博主"
+      ]
+    },
     {
       "id": "auto-127a48377de3",
       "title": "Best Magnetic Power Banks for iPhone 17 & Galaxy S26 in June 2026",
@@ -142,26 +222,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "coolapk-user-b978ab44c340",
-      "title": "竹本青：曝美光高管吐槽苹果把成本压力成倍转嫁给用户",
-      "source": "竹本青",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-06-27",
-      "time": "07:05",
-      "publishedAt": "2026-06-27T07:05:36.000Z",
-      "url": "https://www.coolapk.com/feed/72546384",
-      "image": "http://image.coolapk.com/feed/2026/0627/16/4248714_5ca565b1_7512_2818_753@1260x1849.jpg",
-      "summary": "【曝美光高管吐槽苹果定价模式：芯片成本涨45美元，终端加价250美元】 6月27日资讯，昨日海外财经投资类网红账号 @BluthCapital 爆出美光科技高管公开吐槽苹果定价模式： “十多年来，苹果长期以5美元采购存储芯片，简单封装后，以99美元的存储升级价卖给消费者，还嘲笑美光想把单价涨到7美元。如今芯片采购价涨到50美元，苹果直接向消费者加价250美…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
       "id": "auto-b80822a07abb",
       "title": "OnePlus N6 unboxed days before launch; 45W charger, case, screen protector included",
       "source": "Gizmochina",
@@ -222,26 +282,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-9987d5cf3978",
-      "title": "消息称某厂新机搭载 6.59 英寸中屏、骁龙 8 系处理器，预计为 vivo X500E",
-      "source": "IT之家",
-      "brand": "vivo",
-      "model": "vivo 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-27",
-      "time": "03:26",
-      "publishedAt": "2026-06-27T03:26:36.000Z",
-      "url": "https://www.ithome.com/0/969/332.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/6/3c4fdd80-dcb3-4c42-a665-ba11b1a604c1.png",
-      "summary": "IT之家 6 月 27 日消息，据博主 @数码闲聊站 今日爆料，某厂 X 系列 E 新成员搭载 6.59 英寸中屏，左上角小方块 Deco， 配备骁龙 8 系处理器 ，后置蔡司影像 +IMX8 中底潜望长焦。据评论区网友推测，该机为 vivo X500E。 IT之家注意到，vivo 新一代旗舰预计由 X300 系列跳过“数字 4”， 直接命名为 X500…",
-      "tags": [
-        "vivo",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "coolapk-user-e664f25de324",
       "title": "JSCHEN小小狐：vivo X500e曝光：6.59英寸屏幕，骁龙8系芯片",
       "source": "JSCHEN小小狐",
@@ -257,26 +297,6 @@ window.phoneRadarAuto = {
       "summary": "『vivo X500e 曝光：6.59'' 中屏 / 骁龙 8 系芯』 ◇ 6.59 英寸 1.5K LTPS + LIPO 封装 ◇ 骁龙 8 系移动平台 ◇ 蔡司影像 + 1/1.95'' IMX8 潜望长焦 ◇ 左上角小方块 Deco｜3D 超声波指纹 #今日热点# #vivoX500# #vivoS50Promini#",
       "tags": [
         "vivo",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
-      "id": "coolapk-user-a23517124965",
-      "title": "竹本青：荣耀直板新机曝光：评估14000mAh电池",
-      "source": "竹本青",
-      "brand": "HONOR",
-      "model": "HONOR 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-06-27",
-      "time": "02:09",
-      "publishedAt": "2026-06-27T02:09:07.000Z",
-      "url": "https://www.coolapk.com/feed/72542518",
-      "image": "http://image.coolapk.com/feed/2026/0627/10/4248714_b00b2c81_6147_0564_883@1439x475.jpg",
-      "summary": "【曝荣耀直板新机评估14000mAh电池】 博主数码闲聊站今日爆料称，荣耀直板新机电池硅含量冲击30％，量产线测试12000mAh电池，实验室评估最大14000mAh±电池。 #今日热点# #荣耀WIN2# #MagicOS10#",
-      "tags": [
-        "HONOR",
         "爆料",
         "酷安博主"
       ]
@@ -363,7 +383,7 @@ window.phoneRadarAuto = {
     },
     {
       "id": "newsnow-a7b39f9993cb",
-      "title": "蹭拍几张古风小姐姐的美照，300u负片模式直出，调色盘有微调，氛围感还是不错的[欢呼] #vivoX300Ultra#",
+      "title": "蹭拍几张旗袍小姐姐的美照，300u负片模式直出，调色盘有微调，氛围感还是不错的[欢呼] #vivoX300Ultra#",
       "source": "酷安热榜",
       "brand": "vivo",
       "model": "vivo 相关机型",
@@ -374,7 +394,7 @@ window.phoneRadarAuto = {
       "publishedAt": "",
       "url": "https://www.coolapk.com/feed/72532828",
       "image": "",
-      "summary": "蹭拍几张古风小姐姐的美照，300u负片模式直出，调色盘有微调，氛围感还是不错的[欢呼] #vivoX300Ultra#",
+      "summary": "蹭拍几张旗袍小姐姐的美照，300u负片模式直出，调色盘有微调，氛围感还是不错的[欢呼] #vivoX300Ultra#",
       "tags": [
         "vivo",
         "爆料",
@@ -397,26 +417,6 @@ window.phoneRadarAuto = {
       "summary": "2026年第25周国内手机市场份额曝光：华为居首",
       "tags": [
         "Huawei",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-0d8352397c59",
-      "title": "一加 16 配置差不多出来了，没有友商的大马达 0916，没有 2k，可能是为了成本和堆电池？拉完了 #一加15# #iQOO15#",
-      "source": "酷安热榜",
-      "brand": "OPPO",
-      "model": "OPPO 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-06-27",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72513259",
-      "image": "",
-      "summary": "一加 16 配置差不多出来了，没有友商的大马达 0916，没有 2k，可能是为了成本和堆电池？拉完了 #一加15# #iQOO15#",
-      "tags": [
-        "OPPO",
         "爆料",
         "NewsNow"
       ]
@@ -579,6 +579,26 @@ window.phoneRadarAuto = {
         "OPPO",
         "评测",
         "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-dd681de4a272",
+      "title": "JSCHEN小小狐：vivo X Fold 6 正式发布：售价 7999 元起",
+      "source": "JSCHEN小小狐",
+      "brand": "vivo",
+      "model": "vivo 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-06-26",
+      "time": "12:13",
+      "publishedAt": "2026-06-26T12:13:49.000Z",
+      "url": "https://www.coolapk.com/feed/72535799",
+      "image": "http://image.coolapk.com/feed/2026/0626/20/4702274_3d830039_6019_4792_298@2649x3130.jpg",
+      "summary": "『vivo X Fold 6 正式发布：售价 7999 元起』 12GB + 256GB —— 7999 元 12GB + 512GB —— 8999 元 16GB + 512GB —— 9999 元 16GB + 1TB —— 10999 元 16GB + 1TB 黑金版 —— 11299 元 「折叠专业影像套装」 16GB + 1TB —— 11999…",
+      "tags": [
+        "vivo",
+        "爆料",
+        "酷安博主"
       ]
     },
     {

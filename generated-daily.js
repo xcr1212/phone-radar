@@ -1,12 +1,12 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-06-27T10:22:50.982Z",
+  "updatedAt": "2026-06-27T14:05:51.059Z",
   "issueDate": "2026-06-27",
   "issue": "VOL.260627",
   "title": "手机情报日报",
-  "intro": "今日筛出 13 条重点，其中 8 条是重点爆料，包含 6 条 iPhone 相关、1 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 16 条重点，其中 8 条是重点爆料，包含 5 条 iPhone 相关、1 条官方确认、0 条参数线索。",
   "stats": {
-    "total": 13,
-    "iphone": 6,
+    "total": 16,
+    "iphone": 5,
     "leaks": 8,
     "official": 1,
     "specs": 0
@@ -17,30 +17,6 @@ window.phoneRadarDaily = {
       "title": "重点爆料",
       "hint": "机模、配色、影像、屏幕、电池和芯片线索先看。",
       "items": [
-        {
-          "id": "coolapk-user-b978ab44c340",
-          "title": "竹本青：曝美光高管吐槽苹果把成本压力成倍转嫁给用户",
-          "originalTitle": "",
-          "source": "竹本青",
-          "brand": "iPhone",
-          "type": "爆料",
-          "trust": "高可信爆料",
-          "date": "2026-06-27",
-          "time": "07:05",
-          "publishedAt": "2026-06-27T07:05:36.000Z",
-          "url": "https://www.coolapk.com/feed/72546384",
-          "image": "http://image.coolapk.com/feed/2026/0627/16/4248714_5ca565b1_7512_2818_753@1260x1849.jpg",
-          "verdict": "先看",
-          "takeaway": "【曝美光高管吐槽苹果定价模式：芯片成本涨45美元，终端加价250美元】 6月27日资讯，昨日海外财经投资类网红账号 @BluthCapital 爆出美光科技高管公开吐槽苹果定价模式： “十多年来，苹果长期以5美元采购存储芯片，简单封装后，以99美元的存储升级价卖给消费者，还嘲笑美光想把单价涨到7美元。如今芯片采购价涨到50美元，苹果直接向消费者加价250美…",
-          "detail": "【曝美光高管吐槽苹果定价模式：芯片成本涨45美元，终端加价250美元】 6月27日资讯，昨日海外财经投资类网红账号 @BluthCapital 爆出美光科技高管公开吐槽苹果定价模式： “十多年来，苹果长期以5美元采购存储芯片，简单封装后，以99美元的存储升级价卖给消费者，还嘲笑美光想把单价涨到7美元。如今芯片采购价涨到50美元，苹果直接向消费者加价250美…",
-          "keyPoints": [
-            "芯片 / 性能",
-            "成本 / 价格"
-          ],
-          "confidence": "可信度较高，但仍属于发布前线索。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
         {
           "id": "auto-1ce1291863bc",
           "title": "iPhone 18 Pro 价格 / 成本相关消息",
@@ -160,31 +136,6 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
-          "id": "auto-9987d5cf3978",
-          "title": "消息称某厂新机搭载 6.59 英寸中屏、骁龙 8 系处理器，预计为 vivo X500E",
-          "originalTitle": "",
-          "source": "IT之家",
-          "brand": "vivo",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-06-27",
-          "time": "03:26",
-          "publishedAt": "2026-06-27T03:26:36.000Z",
-          "url": "https://www.ithome.com/0/969/332.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/6/3c4fdd80-dcb3-4c42-a665-ba11b1a604c1.png",
-          "verdict": "先看",
-          "takeaway": "IT之家 6 月 27 日消息，据博主 @数码闲聊站 今日爆料，某厂 X 系列 E 新成员搭载 6.59 英寸中屏，左上角小方块 Deco， 配备骁龙 8 系处理器 ，后置蔡司影像 +IMX8 中底潜望长焦。据评论区网友推测，该机为 vivo X500E。 IT之家注意到，vivo 新一代旗舰预计由 X300 系列跳过“数字 4”， 直接命名为 X500…",
-          "detail": "IT之家 6 月 27 日消息，据博主 @数码闲聊站 今日爆料，某厂 X 系列 E 新成员搭载 6.59 英寸中屏，左上角小方块 Deco， 配备骁龙 8 系处理器 ，后置蔡司影像 +IMX8 中底潜望长焦。据评论区网友推测，该机为 vivo X500E。 IT之家注意到，vivo 新一代旗舰预计由 X300 系列跳过“数字 4”， 直接命名为 X500…",
-          "keyPoints": [
-            "影像硬件",
-            "芯片 / 性能",
-            "爆料来源"
-          ],
-          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
           "id": "newsnow-1fd5d9cd9ffd",
           "title": "涨声一片！受全球DRAM与NAND芯片成本持续上涨影响，本周苹果、iQOO、Xbox主机全线上调售价。",
           "originalTitle": "",
@@ -205,6 +156,53 @@ window.phoneRadarDaily = {
             "成本 / 价格"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "newsnow-5bc31e532739",
+          "title": "能不能来些人劝劝我，我最近很想有一部iphone16pm，甚至想把现在这个手机换成16pm，我明知换过去会出现信号不好网速卡，充电慢发烫续航不够，但是我还是想换，这真的快成执念了，在去年首发x9pro时候我就是想买个二手的16pm那时候没那么多钱克制住了，我可能对苹果还是有一些幻想，想着他可能用着更舒服什么的，来个人劝劝我，如果我真的换了会有哪些正面提升，哪些负面#数码日常# #OPPOFindX9Pro# #iPhone16ProMax#",
+          "originalTitle": "",
+          "source": "酷安热榜",
+          "brand": "OPPO",
+          "type": "爆料",
+          "trust": "高关注爆料源",
+          "date": "2026-06-27",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://www.coolapk.com/feed/72539952",
+          "image": "",
+          "verdict": "先看",
+          "takeaway": "能不能来些人劝劝我，我最近很想有一部iphone16pm，甚至想把现在这个手机换成16pm，我明知换过去会出现信号不好网速卡，充电慢发烫续航不够，但是我还是想换，这真的快成执念了，在去年首发x9pro时候我就是想买个二手的16pm那时候没那么多钱克制住了，我可能对苹果还是有一些幻想，想着他可能用着更舒服什么的，来个人劝劝我，如果我真的换了会有哪些正面提升，…",
+          "detail": "能不能来些人劝劝我，我最近很想有一部iphone16pm，甚至想把现在这个手机换成16pm，我明知换过去会出现信号不好网速卡，充电慢发烫续航不够，但是我还是想换，这真的快成执念了，在去年首发x9pro时候我就是想买个二手的16pm那时候没那么多钱克制住了，我可能对苹果还是有一些幻想，想着他可能用着更舒服什么的，来个人劝劝我，如果我真的换了会有哪些正面提升，…",
+          "keyPoints": [
+            "电池 / 充电"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "coolapk-user-7b0a1a7605f3",
+          "title": "竹本青：【vivo X500E 曝光：X系列新成员，6.59英寸中屏+骁龙8系处理器】 ▫️6.59英寸中屏／小方块Dec…",
+          "originalTitle": "",
+          "source": "竹本青",
+          "brand": "vivo",
+          "type": "爆料",
+          "trust": "高可信爆料",
+          "date": "2026-06-27",
+          "time": "03:38",
+          "publishedAt": "2026-06-27T03:38:00.000Z",
+          "url": "https://www.coolapk.com/feed/72543719",
+          "image": "http://image.coolapk.com/feed/2026/0627/11/4248714_454a4866_1479_3447_167@1423x379.jpg",
+          "verdict": "先看",
+          "takeaway": "【vivo X500E 曝光：X系列新成员，6.59英寸中屏+骁龙8系处理器】 ▫️6.59英寸中屏／小方块Deco ▫️骁龙8系处理器 ▫️蔡司影像+IMX8中底潜望长焦 #今日热点# #vivoX500# #OriginOS6#",
+          "detail": "【vivo X500E 曝光：X系列新成员，6.59英寸中屏+骁龙8系处理器】 ▫️6.59英寸中屏／小方块Deco ▫️骁龙8系处理器 ▫️蔡司影像+IMX8中底潜望长焦 #今日热点# #vivoX500# #OriginOS6#",
+          "keyPoints": [
+            "影像硬件",
+            "芯片 / 性能"
+          ],
+          "confidence": "可信度较高，但仍属于发布前线索。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         }
@@ -264,6 +262,36 @@ window.phoneRadarDaily = {
       ]
     },
     {
+      "id": "launch",
+      "title": "新机与官方发布",
+      "hint": "能直接更新到参数库。",
+      "items": [
+        {
+          "id": "auto-90bc2f281570",
+          "title": "Pixel 10 电池 / 充电相关消息",
+          "originalTitle": "",
+          "source": "9to5Google",
+          "brand": "Pixel",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-06-26",
+          "time": "19:15",
+          "publishedAt": "2026-06-26T19:15:00.000Z",
+          "url": "https://9to5google.com/2026/06/26/googles-official-qi2-wireless-charging-stand-for-pixel-10-is-almost-worth-buying-right-now/",
+          "image": "",
+          "verdict": "可略过",
+          "takeaway": "Pixel 10 电池 / 充电相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
+          "detail": "Pixel 10 电池 / 充电相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
+          "keyPoints": [
+            "电池 / 充电"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "影响日常体验，尤其是游戏、拍照和长时间使用。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        }
+      ]
+    },
+    {
       "id": "market",
       "title": "行业趋势",
       "hint": "看方向，不急着当购买依据。",
@@ -292,6 +320,29 @@ window.phoneRadarDaily = {
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         },
         {
+          "id": "coolapk-user-20dd4f2b0a95",
+          "title": "JSCHEN小小狐：城站 - 德清西区间跑了一圈 巧的是来回两趟都是地方铁路的车底 #手机摄影#",
+          "originalTitle": "",
+          "source": "JSCHEN小小狐",
+          "brand": "Xiaomi",
+          "type": "爆料",
+          "trust": "高可信爆料",
+          "date": "2026-06-27",
+          "time": "11:38",
+          "publishedAt": "2026-06-27T11:38:33.000Z",
+          "url": "https://www.coolapk.com/feed/72549939",
+          "image": "http://image.coolapk.com/feed/2026/0627/19/4702274_cf607cba_0310_1615_172-uhdr@2365x3504.jpg",
+          "verdict": "扫一眼",
+          "takeaway": "城站 - 德清西区间跑了一圈 巧的是来回两趟都是地方铁路的车底 #手机摄影#",
+          "detail": "城站 - 德清西区间跑了一圈 巧的是来回两趟都是地方铁路的车底 #手机摄影#",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "可信度较高，但仍属于发布前线索。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        },
+        {
           "id": "coolapk-user-e525a9198cdf",
           "title": "竹本青：荣耀X80 Pro Max首销日战报：2026年安卓新品销量第一",
           "originalTitle": "",
@@ -316,7 +367,7 @@ window.phoneRadarDaily = {
         },
         {
           "id": "newsnow-a7b39f9993cb",
-          "title": "蹭拍几张古风小姐姐的美照，300u负片模式直出，调色盘有微调，氛围感还是不错的[欢呼] #vivoX300Ultra#",
+          "title": "蹭拍几张旗袍小姐姐的美照，300u负片模式直出，调色盘有微调，氛围感还是不错的[欢呼] #vivoX300Ultra#",
           "originalTitle": "",
           "source": "酷安热榜",
           "brand": "vivo",
@@ -328,14 +379,39 @@ window.phoneRadarDaily = {
           "url": "https://www.coolapk.com/feed/72532828",
           "image": "",
           "verdict": "扫一眼",
-          "takeaway": "蹭拍几张古风小姐姐的美照，300u负片模式直出，调色盘有微调，氛围感还是不错的[欢呼] #vivoX300Ultra#",
-          "detail": "蹭拍几张古风小姐姐的美照，300u负片模式直出，调色盘有微调，氛围感还是不错的[欢呼] #vivoX300Ultra#",
+          "takeaway": "蹭拍几张旗袍小姐姐的美照，300u负片模式直出，调色盘有微调，氛围感还是不错的[欢呼] #vivoX300Ultra#",
+          "detail": "蹭拍几张旗袍小姐姐的美照，300u负片模式直出，调色盘有微调，氛围感还是不错的[欢呼] #vivoX300Ultra#",
           "keyPoints": [
             "爆料"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        },
+        {
+          "id": "auto-0bb55c0d3ae1",
+          "title": "vivo 外观设计线索曝光",
+          "originalTitle": "",
+          "source": "Gizmochina",
+          "brand": "vivo",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-06-27",
+          "time": "12:42",
+          "publishedAt": "2026-06-27T12:42:37.000Z",
+          "url": "https://www.gizmochina.com/2026/06/27/vivo-x500e-key-specifications-leaked/",
+          "image": "https://www.gizmochina.com/wp-content/uploads/2026/06/Vivo-X300-FE-300x225.jpg?x44794",
+          "verdict": "可略过",
+          "takeaway": "vivo 外观设计线索曝光。重点看外观、颜色、尺寸是否和上一代有明显变化。",
+          "detail": "vivo 外观设计线索曝光。这类内容主要看外观设计、按键布局、相机模组和尺寸变化，后续最好等更多渲染图或保护壳线索互相验证。",
+          "keyPoints": [
+            "外观 / 配色 / 尺寸",
+            "影像硬件",
+            "芯片 / 性能"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "影响性能和寿命判断，适合放进参数库。",
+          "action": "有具体参数就记录到参数库；没有参数就先收藏。"
         }
       ]
     }
