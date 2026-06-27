@@ -1,14 +1,14 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-06-27T07:28:09.944Z",
+  "updatedAt": "2026-06-27T10:22:50.982Z",
   "issueDate": "2026-06-27",
   "issue": "VOL.260627",
   "title": "手机情报日报",
-  "intro": "今日筛出 8 条重点，其中 8 条是重点爆料，包含 7 条 iPhone 相关、0 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 13 条重点，其中 8 条是重点爆料，包含 6 条 iPhone 相关、1 条官方确认、0 条参数线索。",
   "stats": {
-    "total": 8,
-    "iphone": 7,
+    "total": 13,
+    "iphone": 6,
     "leaks": 8,
-    "official": 0,
+    "official": 1,
     "specs": 0
   },
   "sections": [
@@ -18,81 +18,8 @@ window.phoneRadarDaily = {
       "hint": "机模、配色、影像、屏幕、电池和芯片线索先看。",
       "items": [
         {
-          "id": "auto-4cc87c45b609",
-          "title": "苹果 iPhone 18 Pro 芯片 A20 Pro 爆料：更强散热和 NPU，支持 96-bit 位宽 LPDDR6 内存",
-          "originalTitle": "",
-          "source": "IT之家",
-          "brand": "iPhone",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-06-27",
-          "time": "02:51",
-          "publishedAt": "2026-06-27T02:51:14.000Z",
-          "url": "https://www.ithome.com/0/969/326.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/6/8c2e229b-b837-4044-9076-b28e9d7b65be.png?x-bce-process=image/format,f_auto",
-          "verdict": "先看",
-          "takeaway": "IT之家 6 月 27 日消息，消息源 @Reptalicant 昨日（6 月 26 日）在 X 平台发布推文，分享了苹果 iPhone 18 Pro 主板信息， 显示 A20 Pro 芯片将采用 WMCM 封装，替代 A19 Pro 芯片所采用的 PoP 方案。 IT之家注：PoP（封装叠封）是一种把存储芯片直接堆叠在主芯片封装上的方案，优点是节省主板空…",
-          "detail": "IT之家 6 月 27 日消息，消息源 @Reptalicant 昨日（6 月 26 日）在 X 平台发布推文，分享了苹果 iPhone 18 Pro 主板信息， 显示 A20 Pro 芯片将采用 WMCM 封装，替代 A19 Pro 芯片所采用的 PoP 方案。 IT之家注：PoP（封装叠封）是一种把存储芯片直接堆叠在主芯片封装上的方案，优点是节省主板空…",
-          "keyPoints": [
-            "芯片 / 性能",
-            "爆料来源"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "weibo-32ed21186ded",
-          "title": "数码闲聊站：2nm Pro安卓旗舰预测是6000±，超大底双2亿影像、LOFIC超大底影像…",
-          "originalTitle": "",
-          "source": "数码闲聊站",
-          "brand": "iPhone",
-          "type": "爆料",
-          "trust": "高关注爆料源",
-          "date": "2026-06-26",
-          "time": "07:12",
-          "publishedAt": "2026-06-26T07:12:00.000Z",
-          "url": "https://weibo.com/6048569942/R5UbhjQ0w",
-          "image": "",
-          "verdict": "先看",
-          "takeaway": "2nm Pro安卓旗舰预测是6000±，超大底双2亿影像、LOFIC超大底影像、长焦微距、等效2K小直屏、大屏8K级大电池、小屏7K级大电池、3D人脸识别、3D超声波指纹…… 预测定价比苹果便宜4000±，优势大不大？[doge]",
-          "detail": "2nm Pro安卓旗舰预测是6000±，超大底双2亿影像、LOFIC超大底影像、长焦微距、等效2K小直屏、大屏8K级大电池、小屏7K级大电池、3D人脸识别、3D超声波指纹…… 预测定价比苹果便宜4000±，优势大不大？[doge]",
-          "keyPoints": [
-            "影像硬件",
-            "屏幕形态",
-            "电池 / 充电",
-            "爆料来源"
-          ],
-          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "weibo-6e93891ae855",
-          "title": "数码闲聊站：iPhone 18 Pro系列不涨价的可能性极低，前代8999，如果维持一定即…",
-          "originalTitle": "",
-          "source": "数码闲聊站",
-          "brand": "iPhone",
-          "type": "爆料",
-          "trust": "高关注爆料源",
-          "date": "2026-06-26",
-          "time": "05:36",
-          "publishedAt": "2026-06-26T05:36:00.000Z",
-          "url": "https://weibo.com/6048569942/R5Tyjm8g5",
-          "image": "",
-          "verdict": "先看",
-          "takeaway": "iPhone 18 Pro系列不涨价的可能性极低，前代8999，如果维持一定即有利润，可能是9999起步，那么苹果9月发布的18 Pro/18 Pro Max/Ultra阔折叠，全都是万元机……[吃瓜]",
-          "detail": "iPhone 18 Pro系列不涨价的可能性极低，前代8999，如果维持一定即有利润，可能是9999起步，那么苹果9月发布的18 Pro/18 Pro Max/Ultra阔折叠，全都是万元机……[吃瓜]",
-          "keyPoints": [
-            "爆料来源"
-          ],
-          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
           "id": "coolapk-user-b978ab44c340",
-          "title": "竹本青：【曝美光高管吐槽苹果涨价：芯片成本涨45美元，终端加价250美元】 6月27日，据多家媒体报道，海外财经投资类网红…",
+          "title": "竹本青：曝美光高管吐槽苹果把成本压力成倍转嫁给用户",
           "originalTitle": "",
           "source": "竹本青",
           "brand": "iPhone",
@@ -102,10 +29,10 @@ window.phoneRadarDaily = {
           "time": "07:05",
           "publishedAt": "2026-06-27T07:05:36.000Z",
           "url": "https://www.coolapk.com/feed/72546384",
-          "image": "http://image.coolapk.com/feed/2026/0627/15/4248714_f8378a16_3935_6072_784@1169x1763.jpg",
+          "image": "http://image.coolapk.com/feed/2026/0627/16/4248714_5ca565b1_7512_2818_753@1260x1849.jpg",
           "verdict": "先看",
-          "takeaway": "【曝美光高管吐槽苹果涨价：芯片成本涨45美元，终端加价250美元】 6月27日，据多家媒体报道，海外财经投资类网红账号爆出美光科技高管公开吐槽苹果定价模式： 十多年来，苹果长期以5美元采购存储芯片，简单封装后，以99美元的存储升级价卖给消费者，还嘲笑美光想把单价涨到7美元。如今芯片采购价涨到50美元，苹果直接向消费者加价250美元，把成本压力成倍转嫁给用户…",
-          "detail": "【曝美光高管吐槽苹果涨价：芯片成本涨45美元，终端加价250美元】 6月27日，据多家媒体报道，海外财经投资类网红账号爆出美光科技高管公开吐槽苹果定价模式： 十多年来，苹果长期以5美元采购存储芯片，简单封装后，以99美元的存储升级价卖给消费者，还嘲笑美光想把单价涨到7美元。如今芯片采购价涨到50美元，苹果直接向消费者加价250美元，把成本压力成倍转嫁给用户…",
+          "takeaway": "【曝美光高管吐槽苹果定价模式：芯片成本涨45美元，终端加价250美元】 6月27日资讯，昨日海外财经投资类网红账号 @BluthCapital 爆出美光科技高管公开吐槽苹果定价模式： “十多年来，苹果长期以5美元采购存储芯片，简单封装后，以99美元的存储升级价卖给消费者，还嘲笑美光想把单价涨到7美元。如今芯片采购价涨到50美元，苹果直接向消费者加价250美…",
+          "detail": "【曝美光高管吐槽苹果定价模式：芯片成本涨45美元，终端加价250美元】 6月27日资讯，昨日海外财经投资类网红账号 @BluthCapital 爆出美光科技高管公开吐槽苹果定价模式： “十多年来，苹果长期以5美元采购存储芯片，简单封装后，以99美元的存储升级价卖给消费者，还嘲笑美光想把单价涨到7美元。如今芯片采购价涨到50美元，苹果直接向消费者加价250美…",
           "keyPoints": [
             "芯片 / 性能",
             "成本 / 价格"
@@ -186,6 +113,29 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
+          "id": "auto-dee04d1bf090",
+          "title": "消息称三星有望为 Galaxy A 系列重启 s 后缀手机",
+          "originalTitle": "",
+          "source": "IT之家",
+          "brand": "Samsung",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-06-27",
+          "time": "07:32",
+          "publishedAt": "2026-06-27T07:32:22.000Z",
+          "url": "https://www.ithome.com/0/969/373.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/6/c8031910-abb4-4019-8068-47987b8c9fe5.png?x-bce-process=image/format,f_auto",
+          "verdict": "先看",
+          "takeaway": "IT之家 6 月 27 日消息，科技媒体 sammyguru 昨日（6 月 26 日）发布博文，报道称基于 Wi-Fi 联盟数据库信息， 三星有望为 Galaxy A 系列重启推出 s 后缀机型。 IT之家查询公开资料，在以往 Galaxy A 系列命名规则中，s 后缀通常代表机型的升级 / 半代改款，该系列最后一款带 s 后缀的机型为 Galaxy A0…",
+          "detail": "IT之家 6 月 27 日消息，科技媒体 sammyguru 昨日（6 月 26 日）发布博文，报道称基于 Wi-Fi 联盟数据库信息， 三星有望为 Galaxy A 系列重启推出 s 后缀机型。 IT之家查询公开资料，在以往 Galaxy A 系列命名规则中，s 后缀通常代表机型的升级 / 半代改款，该系列最后一款带 s 后缀的机型为 Galaxy A0…",
+          "keyPoints": [
+            "爆料来源"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
           "id": "auto-720a09bab8ad",
           "title": "随 Galaxy S28 登场：曝三星酝酿首款卷轴屏手机，可拉伸至 10 英寸",
           "originalTitle": "",
@@ -208,6 +158,184 @@ window.phoneRadarDaily = {
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "auto-9987d5cf3978",
+          "title": "消息称某厂新机搭载 6.59 英寸中屏、骁龙 8 系处理器，预计为 vivo X500E",
+          "originalTitle": "",
+          "source": "IT之家",
+          "brand": "vivo",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-06-27",
+          "time": "03:26",
+          "publishedAt": "2026-06-27T03:26:36.000Z",
+          "url": "https://www.ithome.com/0/969/332.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/6/3c4fdd80-dcb3-4c42-a665-ba11b1a604c1.png",
+          "verdict": "先看",
+          "takeaway": "IT之家 6 月 27 日消息，据博主 @数码闲聊站 今日爆料，某厂 X 系列 E 新成员搭载 6.59 英寸中屏，左上角小方块 Deco， 配备骁龙 8 系处理器 ，后置蔡司影像 +IMX8 中底潜望长焦。据评论区网友推测，该机为 vivo X500E。 IT之家注意到，vivo 新一代旗舰预计由 X300 系列跳过“数字 4”， 直接命名为 X500…",
+          "detail": "IT之家 6 月 27 日消息，据博主 @数码闲聊站 今日爆料，某厂 X 系列 E 新成员搭载 6.59 英寸中屏，左上角小方块 Deco， 配备骁龙 8 系处理器 ，后置蔡司影像 +IMX8 中底潜望长焦。据评论区网友推测，该机为 vivo X500E。 IT之家注意到，vivo 新一代旗舰预计由 X300 系列跳过“数字 4”， 直接命名为 X500…",
+          "keyPoints": [
+            "影像硬件",
+            "芯片 / 性能",
+            "爆料来源"
+          ],
+          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "newsnow-1fd5d9cd9ffd",
+          "title": "涨声一片！受全球DRAM与NAND芯片成本持续上涨影响，本周苹果、iQOO、Xbox主机全线上调售价。",
+          "originalTitle": "",
+          "source": "酷安热榜",
+          "brand": "vivo",
+          "type": "爆料",
+          "trust": "高关注爆料源",
+          "date": "2026-06-27",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://www.coolapk.com/feed/72532691",
+          "image": "",
+          "verdict": "先看",
+          "takeaway": "涨声一片！受全球DRAM与NAND芯片成本持续上涨影响，本周苹果、iQOO、Xbox主机全线上调售价。",
+          "detail": "涨声一片！受全球DRAM与NAND芯片成本持续上涨影响，本周苹果、iQOO、Xbox主机全线上调售价。",
+          "keyPoints": [
+            "芯片 / 性能",
+            "成本 / 价格"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        }
+      ]
+    },
+    {
+      "id": "iphone",
+      "title": "iPhone 重点",
+      "hint": "不是硬件爆料，但和 iPhone 体验或路线有关。",
+      "items": [
+        {
+          "id": "auto-9bbf43c61c96",
+          "title": "iPhone 系统功能 / AI 体验相关消息",
+          "originalTitle": "",
+          "source": "Apple Newsroom",
+          "brand": "iPhone",
+          "type": "官方",
+          "trust": "官方确认",
+          "date": "2026-06-27",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://www.apple.com/newsroom/2026/06/apple-announces-changes-to-ios-in-brazil/",
+          "image": "",
+          "verdict": "先看",
+          "takeaway": "iPhone 系统功能 / AI 体验相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
+          "detail": "iPhone 系统功能 / AI 体验相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
+          "keyPoints": [
+            "官方"
+          ],
+          "confidence": "官方内容，可直接作为已确认信息记录。",
+          "impact": "可信度高，但如果不是配置/价格消息，只需要扫一眼。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        },
+        {
+          "id": "auto-3c5fcfb86c00",
+          "title": "iPhone 发布 / 上市相关消息",
+          "originalTitle": "",
+          "source": "9to5Mac",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-06-26",
+          "time": "15:11",
+          "publishedAt": "2026-06-26T15:11:10.000Z",
+          "url": "https://9to5mac.com/2026/06/26/new-iphone-ultra-report-has-latest-pricing-and-release-timing-updates/",
+          "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/04/IMG_0033.jpeg?quality=82&strip=all&w=1600",
+          "verdict": "扫一眼",
+          "takeaway": "iPhone 发布 / 上市相关消息。如果涉及订阅、售价或硬件成本，才需要进一步看细节。",
+          "detail": "iPhone 发布 / 上市相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
+          "keyPoints": [
+            "成本 / 价格"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        }
+      ]
+    },
+    {
+      "id": "market",
+      "title": "行业趋势",
+      "hint": "看方向，不急着当购买依据。",
+      "items": [
+        {
+          "id": "newsnow-fdca7222b537",
+          "title": "2026年第25周国内手机市场份额曝光：华为居首",
+          "originalTitle": "",
+          "source": "酷安热榜",
+          "brand": "Huawei",
+          "type": "爆料",
+          "trust": "高关注爆料源",
+          "date": "2026-06-27",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://www.coolapk.com/feed/72529457",
+          "image": "",
+          "verdict": "先看",
+          "takeaway": "2026年第25周国内手机市场份额曝光：华为居首",
+          "detail": "2026年第25周国内手机市场份额曝光：华为居首",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        },
+        {
+          "id": "coolapk-user-e525a9198cdf",
+          "title": "竹本青：荣耀X80 Pro Max首销日战报：2026年安卓新品销量第一",
+          "originalTitle": "",
+          "source": "竹本青",
+          "brand": "HONOR",
+          "type": "爆料",
+          "trust": "高可信爆料",
+          "date": "2026-06-27",
+          "time": "07:58",
+          "publishedAt": "2026-06-27T07:58:38.000Z",
+          "url": "https://www.coolapk.com/feed/72547037",
+          "image": "http://image.coolapk.com/feed/2026/0627/15/4248714_68c27051_7115_0299_629@2000x3556.jpg",
+          "verdict": "扫一眼",
+          "takeaway": "【荣耀X80 Pro Max 首销日战报：2026年安卓新品销量第一】 荣耀手机今天官宣，X80 Pro Max 获得2026年安卓新品首销日销量第一。 数据来源：荣耀大数据分析平台、腾讯数据 数据时间：2026年1月1日-2026年6月26日 #今日热点# #荣耀X80ProMax# #MagicOS10#",
+          "detail": "【荣耀X80 Pro Max 首销日战报：2026年安卓新品销量第一】 荣耀手机今天官宣，X80 Pro Max 获得2026年安卓新品首销日销量第一。 数据来源：荣耀大数据分析平台、腾讯数据 数据时间：2026年1月1日-2026年6月26日 #今日热点# #荣耀X80ProMax# #MagicOS10#",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "可信度较高，但仍属于发布前线索。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        },
+        {
+          "id": "newsnow-a7b39f9993cb",
+          "title": "蹭拍几张古风小姐姐的美照，300u负片模式直出，调色盘有微调，氛围感还是不错的[欢呼] #vivoX300Ultra#",
+          "originalTitle": "",
+          "source": "酷安热榜",
+          "brand": "vivo",
+          "type": "爆料",
+          "trust": "高关注爆料源",
+          "date": "2026-06-27",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://www.coolapk.com/feed/72532828",
+          "image": "",
+          "verdict": "扫一眼",
+          "takeaway": "蹭拍几张古风小姐姐的美照，300u负片模式直出，调色盘有微调，氛围感还是不错的[欢呼] #vivoX300Ultra#",
+          "detail": "蹭拍几张古风小姐姐的美照，300u负片模式直出，调色盘有微调，氛围感还是不错的[欢呼] #vivoX300Ultra#",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         }
       ]
     }

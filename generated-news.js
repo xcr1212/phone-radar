@@ -1,6 +1,126 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-06-27T07:28:09.944Z",
+  "updatedAt": "2026-06-27T10:22:50.982Z",
   "news": [
+    {
+      "id": "auto-127a48377de3",
+      "title": "Best Magnetic Power Banks for iPhone 17 & Galaxy S26 in June 2026",
+      "source": "Gizmochina",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-27",
+      "time": "09:14",
+      "publishedAt": "2026-06-27T09:14:49.000Z",
+      "url": "https://www.gizmochina.com/2026/06/27/best-magnetic-power-banks-for-iphone-17-galaxy-s26-in-june-2026/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/06/Belkin-BoostCharge-Magnetic-Power-Bank-300x169.png?x44794",
+      "summary": "Magnetic power banks have become one of the easiest ways to keep a phone alive during a long day. They snap to the back of a compatible phone, align the charging coil, and remove…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-3a0c7b21f7fb",
+      "title": "Vivo X300 Ultra vs Vivo X300 FE: What’s the Difference and Which Should You Buy?",
+      "source": "Gizmochina",
+      "brand": "vivo",
+      "model": "vivo 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-27",
+      "time": "09:03",
+      "publishedAt": "2026-06-27T09:03:57.000Z",
+      "url": "https://www.gizmochina.com/2026/06/27/vivo-x300-ultra-vs-vivo-x300-fe/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/06/image-156-300x189.png?x44794",
+      "summary": "Vivo X300 Ultra and Vivo X300 FE may share the same family name, but they are built for very different buyers. The X300 Ultra is Vivo’s ultimate flagship, packed with every premiu…",
+      "tags": [
+        "vivo",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-0c9e4409271a",
+      "title": "全新猛士 M817 上市：华为乾崑 ADS 5、可选 896 线激光雷达，29.99 万-39.99 万元",
+      "source": "IT之家",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-27",
+      "time": "09:00",
+      "publishedAt": "2026-06-27T09:00:57.000Z",
+      "url": "https://www.ithome.com/0/969/429.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/6/d149e2e8-1196-4f2c-9a2c-67f82185528e.jpg",
+      "summary": "IT之家 6 月 27 日消息，今天下午，全新猛士 M817 正式上市。IT之家汇总各版本车型价格信息如下： Mate 1.5T PHEV：29.99 万元 Mate+ 1.5T PHEV：32.99 万元 Max 2.0T PHEV：34.99 万元 Max+ 2.0T PHEV：36.99 万元 Ultra 2.0T PHEV：39.99 万元 全新猛…",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-03430017cef5",
+      "title": "Vivo X300 vs Vivo X300 Ultra: Which Vivo Flagship Should You Buy?",
+      "source": "Gizmochina",
+      "brand": "vivo",
+      "model": "vivo 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-27",
+      "time": "08:00",
+      "publishedAt": "2026-06-27T08:00:26.000Z",
+      "url": "https://www.gizmochina.com/2026/06/27/vivo-x300-vs-vivo-x300-ultra/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/06/image-155-300x182.png?x44794",
+      "summary": "Vivo’s X-series continues to push smartphone photography and flagship performance to new heights. The Vivo X300 focuses on delivering premium features in a compact flagship, while…",
+      "tags": [
+        "vivo",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-e525a9198cdf",
+      "title": "竹本青：荣耀X80 Pro Max首销日战报：2026年安卓新品销量第一",
+      "source": "竹本青",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-06-27",
+      "time": "07:58",
+      "publishedAt": "2026-06-27T07:58:38.000Z",
+      "url": "https://www.coolapk.com/feed/72547037",
+      "image": "http://image.coolapk.com/feed/2026/0627/15/4248714_68c27051_7115_0299_629@2000x3556.jpg",
+      "summary": "【荣耀X80 Pro Max 首销日战报：2026年安卓新品销量第一】 荣耀手机今天官宣，X80 Pro Max 获得2026年安卓新品首销日销量第一。 数据来源：荣耀大数据分析平台、腾讯数据 数据时间：2026年1月1日-2026年6月26日 #今日热点# #荣耀X80ProMax# #MagicOS10#",
+      "tags": [
+        "HONOR",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-dee04d1bf090",
+      "title": "消息称三星有望为 Galaxy A 系列重启 s 后缀手机",
+      "source": "IT之家",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-27",
+      "time": "07:32",
+      "publishedAt": "2026-06-27T07:32:22.000Z",
+      "url": "https://www.ithome.com/0/969/373.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/6/c8031910-abb4-4019-8068-47987b8c9fe5.png?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 6 月 27 日消息，科技媒体 sammyguru 昨日（6 月 26 日）发布博文，报道称基于 Wi-Fi 联盟数据库信息， 三星有望为 Galaxy A 系列重启推出 s 后缀机型。 IT之家查询公开资料，在以往 Galaxy A 系列命名规则中，s 后缀通常代表机型的升级 / 半代改款，该系列最后一款带 s 后缀的机型为 Galaxy A0…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-720a09bab8ad",
       "title": "随 Galaxy S28 登场：曝三星酝酿首款卷轴屏手机，可拉伸至 10 英寸",
@@ -23,7 +143,7 @@ window.phoneRadarAuto = {
     },
     {
       "id": "coolapk-user-b978ab44c340",
-      "title": "竹本青：【曝美光高管吐槽苹果涨价：芯片成本涨45美元，终端加价250美元】 6月27日，据多家媒体报道，海外财经投资类网红…",
+      "title": "竹本青：曝美光高管吐槽苹果把成本压力成倍转嫁给用户",
       "source": "竹本青",
       "brand": "iPhone",
       "model": "iPhone 相关机型",
@@ -33,8 +153,8 @@ window.phoneRadarAuto = {
       "time": "07:05",
       "publishedAt": "2026-06-27T07:05:36.000Z",
       "url": "https://www.coolapk.com/feed/72546384",
-      "image": "http://image.coolapk.com/feed/2026/0627/15/4248714_f8378a16_3935_6072_784@1169x1763.jpg",
-      "summary": "【曝美光高管吐槽苹果涨价：芯片成本涨45美元，终端加价250美元】 6月27日，据多家媒体报道，海外财经投资类网红账号爆出美光科技高管公开吐槽苹果定价模式： 十多年来，苹果长期以5美元采购存储芯片，简单封装后，以99美元的存储升级价卖给消费者，还嘲笑美光想把单价涨到7美元。如今芯片采购价涨到50美元，苹果直接向消费者加价250美元，把成本压力成倍转嫁给用户…",
+      "image": "http://image.coolapk.com/feed/2026/0627/16/4248714_5ca565b1_7512_2818_753@1260x1849.jpg",
+      "summary": "【曝美光高管吐槽苹果定价模式：芯片成本涨45美元，终端加价250美元】 6月27日资讯，昨日海外财经投资类网红账号 @BluthCapital 爆出美光科技高管公开吐槽苹果定价模式： “十多年来，苹果长期以5美元采购存储芯片，简单封装后，以99美元的存储升级价卖给消费者，还嘲笑美光想把单价涨到7美元。如今芯片采购价涨到50美元，苹果直接向消费者加价250美…",
       "tags": [
         "iPhone",
         "爆料",
@@ -123,7 +243,7 @@ window.phoneRadarAuto = {
     },
     {
       "id": "coolapk-user-e664f25de324",
-      "title": "JSCHEN小小狐：『vivo X500e 曝光：6.59'' 中屏 / 骁龙 8 系芯』 ◇ 6.59 英寸 1.5K LTPS +…",
+      "title": "JSCHEN小小狐：vivo X500e曝光：6.59英寸屏幕，骁龙8系芯片",
       "source": "JSCHEN小小狐",
       "brand": "vivo",
       "model": "vivo 相关机型",
@@ -142,48 +262,8 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "weibo-5010cece0dab",
-      "title": "数码闲聊站：听说蓝粉想要X系列上6.59英寸中屏？左上角小方块Deco？骁龙8系处理器？蔡…",
-      "source": "数码闲聊站",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-06-27",
-      "time": "03:06",
-      "publishedAt": "2026-06-27T03:06:00.000Z",
-      "url": "https://weibo.com/6048569942/R61ZVjA2Y",
-      "image": "",
-      "summary": "听说蓝粉想要X系列上6.59英寸中屏？左上角小方块Deco？骁龙8系处理器？蔡司影像+IMX8中底潜望长焦？E新成员满足你们[doge][笑哈哈][doge][笑哈哈][doge][笑哈哈]",
-      "tags": [
-        "行业",
-        "爆料",
-        "微博"
-      ]
-    },
-    {
-      "id": "auto-4cc87c45b609",
-      "title": "苹果 iPhone 18 Pro 芯片 A20 Pro 爆料：更强散热和 NPU，支持 96-bit 位宽 LPDDR6 内存",
-      "source": "IT之家",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-27",
-      "time": "02:51",
-      "publishedAt": "2026-06-27T02:51:14.000Z",
-      "url": "https://www.ithome.com/0/969/326.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/6/8c2e229b-b837-4044-9076-b28e9d7b65be.png?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 6 月 27 日消息，消息源 @Reptalicant 昨日（6 月 26 日）在 X 平台发布推文，分享了苹果 iPhone 18 Pro 主板信息， 显示 A20 Pro 芯片将采用 WMCM 封装，替代 A19 Pro 芯片所采用的 PoP 方案。 IT之家注：PoP（封装叠封）是一种把存储芯片直接堆叠在主芯片封装上的方案，优点是节省主板空…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "coolapk-user-a23517124965",
-      "title": "竹本青：【曝荣耀直板新机评估14000mAh电池】 博主数码闲聊站今日爆料称，荣耀直板新机电池硅含量冲击30％，量产线测试…",
+      "title": "竹本青：荣耀直板新机曝光：评估14000mAh电池",
       "source": "竹本青",
       "brand": "HONOR",
       "model": "HONOR 相关机型",
@@ -199,26 +279,6 @@ window.phoneRadarAuto = {
         "HONOR",
         "爆料",
         "酷安博主"
-      ]
-    },
-    {
-      "id": "auto-3260cbfa08b2",
-      "title": "消息称荣耀新机量产线测试 12000mAh 电池，实验室评估最大 14000mAh±",
-      "source": "IT之家",
-      "brand": "HONOR",
-      "model": "HONOR 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-27",
-      "time": "01:52",
-      "publishedAt": "2026-06-27T01:52:22.000Z",
-      "url": "https://www.ithome.com/0/969/313.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/6/085906c7-8a60-400e-acf7-171db1f6637b.png?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 6 月 27 日消息，博主 @数码闲聊站 今日爆料称，荣耀直板机的硅含量也在冲 30％， 量产线测试有 12000mAh ，实验室评估最大 14000mAh±，短期内应该不会有手机厂商超过它。除非，另一家头部大厂的新电池体系落地。 IT之家注意到，目前已经有部分厂商陆续推出搭载 10000mAh 电池的新机。例如 荣耀 WIN 系列手机于去年 1…",
-      "tags": [
-        "HONOR",
-        "爆料",
-        "自动抓取"
       ]
     },
     {
@@ -239,26 +299,6 @@ window.phoneRadarAuto = {
         "Samsung",
         "评测",
         "自动抓取"
-      ]
-    },
-    {
-      "id": "weibo-10ad991d0965",
-      "title": "数码闲聊站：耀子直板机的硅含量也在冲30％，量产线测试有12000mAh，实验室评估最大1…",
-      "source": "数码闲聊站",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-06-27",
-      "time": "01:33",
-      "publishedAt": "2026-06-27T01:33:51.000Z",
-      "url": "https://weibo.com/6048569942/R61owf0GV",
-      "image": "",
-      "summary": "耀子直板机的硅含量也在冲30％，量产线测试有12000mAh，实验室评估最大14000mAh±，短期内应该不会有手机厂商超过它。 除非……另一家头部大厂的新电池体系落地[流鼻血]",
-      "tags": [
-        "行业",
-        "爆料",
-        "微博"
       ]
     },
     {
@@ -322,26 +362,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-fdca7222b537",
-      "title": "2026年第25周国内手机市场份额曝光：华为居首",
-      "source": "酷安热榜",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-06-27",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72529457",
-      "image": "",
-      "summary": "2026年第25周国内手机市场份额曝光：华为居首",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
       "id": "newsnow-a7b39f9993cb",
       "title": "蹭拍几张古风小姐姐的美照，300u负片模式直出，调色盘有微调，氛围感还是不错的[欢呼] #vivoX300Ultra#",
       "source": "酷安热榜",
@@ -357,6 +377,26 @@ window.phoneRadarAuto = {
       "summary": "蹭拍几张古风小姐姐的美照，300u负片模式直出，调色盘有微调，氛围感还是不错的[欢呼] #vivoX300Ultra#",
       "tags": [
         "vivo",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-fdca7222b537",
+      "title": "2026年第25周国内手机市场份额曝光：华为居首",
+      "source": "酷安热榜",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-06-27",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/72529457",
+      "image": "",
+      "summary": "2026年第25周国内手机市场份额曝光：华为居首",
+      "tags": [
+        "Huawei",
         "爆料",
         "NewsNow"
       ]
@@ -522,46 +562,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "coolapk-user-3bc1d2a972c3",
-      "title": "竹本青：“骁龙865同档位定制处理器”，这是什么鬼处理器，有没有懂的酷友 #掌机玩家# #数码日常#",
-      "source": "竹本青",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-06-26",
-      "time": "14:11",
-      "publishedAt": "2026-06-26T14:11:14.000Z",
-      "url": "https://www.coolapk.com/feed/72537612",
-      "image": "",
-      "summary": "“骁龙865同档位定制处理器”，这是什么鬼处理器，有没有懂的酷友 #掌机玩家# #数码日常#",
-      "tags": [
-        "行业",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
-      "id": "coolapk-user-36dc6ebe07ad",
-      "title": "竹本青：【AYANEO Pocket MICRO 2 安卓掌机发布：骁龙865同档位定制处理器，首发1599元起】 6GB…",
-      "source": "竹本青",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-06-26",
-      "time": "14:08",
-      "publishedAt": "2026-06-26T14:08:14.000Z",
-      "url": "https://www.coolapk.com/feed/72537562",
-      "image": "http://image.coolapk.com/feed/2026/0626/22/4248714_602a899e_2878_5206_268@1080x608.jpg",
-      "summary": "【AYANEO Pocket MICRO 2 安卓掌机发布：骁龙865同档位定制处理器，首发1599元起】 6GB+128GB —— 1599元（黑/白色） 8GB+256GB —— 1899元（黑/白色） 8GB+256GB —— 2099元（限定紫色） ▫️3.5\"3:2 LCD屏｜960x640，PPI 330 ▫️高通骁龙 865同档位定制处理器（…",
-      "tags": [
-        "行业",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
       "id": "auto-1ec19ea9a4b0",
       "title": "OnePlus N6 leak shows generous box contents as launch draws near",
       "source": "Android Central",
@@ -682,26 +682,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-cd5fadbc0fc9",
-      "title": "Huawei Nova 16 sales seeing sharp jump of 210000 units in a week",
-      "source": "Huawei Central",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-26",
-      "time": "08:45",
-      "publishedAt": "2026-06-26T08:45:17.000Z",
-      "url": "https://www.huaweicentral.com/huawei-nova-16-sales-seeing-sharp-jump-of-210000-units-in-a-week/",
-      "image": "https://www.huaweicentral.com/wp-content/uploads/2026/06/nova16-sales-img.jpg",
-      "summary": "Mate 80 flagship has shown impressive performance in the sales market but the Huawei Nova 16 series is not lagging in the race either and showed a hike of 210000 units in just a w…",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-1088e9228ddf",
       "title": "Oppo Reno 16 FS unveiled with 120Hz AMOLED display, triple 50MP cameras, 6,500mAh battery",
       "source": "Gizmochina",
@@ -719,26 +699,6 @@ window.phoneRadarAuto = {
         "OPPO",
         "爆料",
         "自动抓取"
-      ]
-    },
-    {
-      "id": "weibo-32ed21186ded",
-      "title": "数码闲聊站：2nm Pro安卓旗舰预测是6000±，超大底双2亿影像、LOFIC超大底影像…",
-      "source": "数码闲聊站",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-06-26",
-      "time": "07:12",
-      "publishedAt": "2026-06-26T07:12:00.000Z",
-      "url": "https://weibo.com/6048569942/R5UbhjQ0w",
-      "image": "",
-      "summary": "2nm Pro安卓旗舰预测是6000±，超大底双2亿影像、LOFIC超大底影像、长焦微距、等效2K小直屏、大屏8K级大电池、小屏7K级大电池、3D人脸识别、3D超声波指纹…… 预测定价比苹果便宜4000±，优势大不大？[doge]",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "微博"
       ]
     },
     {
@@ -799,26 +759,6 @@ window.phoneRadarAuto = {
         "行业",
         "评测",
         "自动抓取"
-      ]
-    },
-    {
-      "id": "weibo-6e93891ae855",
-      "title": "数码闲聊站：iPhone 18 Pro系列不涨价的可能性极低，前代8999，如果维持一定即…",
-      "source": "数码闲聊站",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-06-26",
-      "time": "05:36",
-      "publishedAt": "2026-06-26T05:36:00.000Z",
-      "url": "https://weibo.com/6048569942/R5Tyjm8g5",
-      "image": "",
-      "summary": "iPhone 18 Pro系列不涨价的可能性极低，前代8999，如果维持一定即有利润，可能是9999起步，那么苹果9月发布的18 Pro/18 Pro Max/Ultra阔折叠，全都是万元机……[吃瓜]",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "微博"
       ]
     },
     {
