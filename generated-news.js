@@ -1,5 +1,5 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-06-27T19:43:24.442Z",
+  "updatedAt": "2026-06-27T21:19:14.613Z",
   "news": [
     {
       "id": "auto-aaa43bc90712",
@@ -362,21 +362,21 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-a875aed4fa0c",
-      "title": "荣耀直板新机曝光：评估14000mAh电池",
+      "id": "newsnow-72af7ac0309b",
+      "title": "来个老哥来劝劝我，现在想换PuraXMax想疯了，mate 80 pm在我手里已经不香了，有点得陇望蜀了。[流泪]",
       "source": "酷安热榜",
-      "brand": "HONOR",
-      "model": "HONOR 相关机型",
+      "brand": "行业",
+      "model": "智能手机市场",
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-06-27",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72542518",
+      "url": "https://www.coolapk.com/feed/72546599",
       "image": "",
-      "summary": "荣耀直板新机曝光：评估14000mAh电池",
+      "summary": "来个老哥来劝劝我，现在想换PuraXMax想疯了，mate 80 pm在我手里已经不香了，有点得陇望蜀了。[流泪]",
       "tags": [
-        "HONOR",
+        "行业",
         "爆料",
         "NewsNow"
       ]
@@ -402,6 +402,26 @@ window.phoneRadarAuto = {
       ]
     },
     {
+      "id": "newsnow-a875aed4fa0c",
+      "title": "荣耀直板新机曝光：评估14000mAh电池",
+      "source": "酷安热榜",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-06-27",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/72542518",
+      "image": "",
+      "summary": "荣耀直板新机曝光：评估14000mAh电池",
+      "tags": [
+        "HONOR",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
       "id": "newsnow-a7b39f9993cb",
       "title": "蹭拍几张旗袍小姐姐的美照，300u负片模式直出，调色盘有微调，氛围感还是不错的[欢呼] #vivoX300Ultra#",
       "source": "酷安热榜",
@@ -417,26 +437,6 @@ window.phoneRadarAuto = {
       "summary": "蹭拍几张旗袍小姐姐的美照，300u负片模式直出，调色盘有微调，氛围感还是不错的[欢呼] #vivoX300Ultra#",
       "tags": [
         "vivo",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-72af7ac0309b",
-      "title": "来个老哥来劝劝我，现在想换PuraXMax想疯了，mate 80 pm在我手里已经不香了，有点得陇望蜀了。[流泪]",
-      "source": "酷安热榜",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-06-27",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72546599",
-      "image": "",
-      "summary": "来个老哥来劝劝我，现在想换PuraXMax想疯了，mate 80 pm在我手里已经不香了，有点得陇望蜀了。[流泪]",
-      "tags": [
-        "行业",
         "爆料",
         "NewsNow"
       ]
