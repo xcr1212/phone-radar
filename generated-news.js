@@ -1,6 +1,46 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-06-27T17:30:36.480Z",
+  "updatedAt": "2026-06-27T19:43:24.442Z",
   "news": [
+    {
+      "id": "auto-aaa43bc90712",
+      "title": "Redmi Note 17, 17 Pro, 17 Pro Max key specifications tipped again",
+      "source": "Gizmochina",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-27",
+      "time": "19:41",
+      "publishedAt": "2026-06-27T19:41:23.000Z",
+      "url": "https://www.gizmochina.com/2026/06/27/redmi-note-17-note-17-pro-note-17-pro-max-key-specifications-leaked-again/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/01/Redmi-Note-15-series-Chinese-New-Year-Edition-300x169.jpg?x44794",
+      "summary": "Redmi is expected to unveil the Redmi Note 17 series next month in China. The lineup is said to include three models: the Note 17, Note 17 Pro, and Note 17 Pro Max. A recent leak…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-2d8316787d1f",
+      "title": "Thin phones should stay in 2025; Apple may repeat its mistake, but I hope Samsung won't",
+      "source": "Android Police",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-27",
+      "time": "19:00",
+      "publishedAt": "2026-06-27T19:00:11.000Z",
+      "url": "https://www.androidpolice.com/i-hope-samsungs-galaxy-edge-is-over/",
+      "image": "",
+      "summary": "Why we don't need a Galaxy S26 Edge",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-defc183c8ea1",
       "title": "vivo 产品副总裁黄韬：对 vivo X Fold6 销量非常有信心，预计销量较上一代提升 30% 以上",
@@ -222,26 +262,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "coolapk-user-b978ab44c340",
-      "title": "竹本青：曝美光高管吐槽苹果把成本压力成倍转嫁给用户",
-      "source": "竹本青",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-06-27",
-      "time": "07:05",
-      "publishedAt": "2026-06-27T07:05:36.000Z",
-      "url": "https://www.coolapk.com/feed/72546384",
-      "image": "http://image.coolapk.com/feed/2026/0627/16/4248714_5ca565b1_7512_2818_753@1260x1849.jpg",
-      "summary": "【曝美光高管吐槽苹果定价模式：芯片成本涨45美元，终端加价250美元】 6月27日资讯，昨日海外财经投资类网红账号 @BluthCapital 爆出美光科技高管公开吐槽苹果定价模式： “十多年来，苹果长期以5美元采购存储芯片，简单封装后，以99美元的存储升级价卖给消费者，还嘲笑美光想把单价涨到7美元。如今芯片采购价涨到50美元，苹果直接向消费者加价250美…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
       "id": "auto-b80822a07abb",
       "title": "OnePlus N6 unboxed days before launch; 45W charger, case, screen protector included",
       "source": "Gizmochina",
@@ -339,6 +359,146 @@ window.phoneRadarAuto = {
         "iPhone",
         "官方",
         "自动抓取"
+      ]
+    },
+    {
+      "id": "newsnow-a875aed4fa0c",
+      "title": "荣耀直板新机曝光：评估14000mAh电池",
+      "source": "酷安热榜",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-06-27",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/72542518",
+      "image": "",
+      "summary": "荣耀直板新机曝光：评估14000mAh电池",
+      "tags": [
+        "HONOR",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-5bc31e532739",
+      "title": "能不能来些人劝劝我，我最近很想有一部iphone16pm，甚至想把现在这个手机换成16pm，我明知换过去会出现信号不好网速卡，充电慢发烫续航不够，但是我还是想换，这真的快成执念了，在去年首发x9pro时候我就是想买个二手的16pm那时候没那么多钱克制住了，我可能对苹果还是有一些幻想，想着他可能用着更舒服什么的，来个人劝劝我，如果我真的换了会有哪些正面提升，哪些负面#数码日常# #OPPOFindX9Pro# #iPhone16ProMax#",
+      "source": "酷安热榜",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-06-27",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/72539952",
+      "image": "",
+      "summary": "能不能来些人劝劝我，我最近很想有一部iphone16pm，甚至想把现在这个手机换成16pm，我明知换过去会出现信号不好网速卡，充电慢发烫续航不够，但是我还是想换，这真的快成执念了，在去年首发x9pro时候我就是想买个二手的16pm那时候没那么多钱克制住了，我可能对苹果还是有一些幻想，想着他可能用着更舒服什么的，来个人劝劝我，如果我真的换了会有哪些正面提升，…",
+      "tags": [
+        "OPPO",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-a7b39f9993cb",
+      "title": "蹭拍几张旗袍小姐姐的美照，300u负片模式直出，调色盘有微调，氛围感还是不错的[欢呼] #vivoX300Ultra#",
+      "source": "酷安热榜",
+      "brand": "vivo",
+      "model": "vivo 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-06-27",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/72532828",
+      "image": "",
+      "summary": "蹭拍几张旗袍小姐姐的美照，300u负片模式直出，调色盘有微调，氛围感还是不错的[欢呼] #vivoX300Ultra#",
+      "tags": [
+        "vivo",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-72af7ac0309b",
+      "title": "来个老哥来劝劝我，现在想换PuraXMax想疯了，mate 80 pm在我手里已经不香了，有点得陇望蜀了。[流泪]",
+      "source": "酷安热榜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-06-27",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/72546599",
+      "image": "",
+      "summary": "来个老哥来劝劝我，现在想换PuraXMax想疯了，mate 80 pm在我手里已经不香了，有点得陇望蜀了。[流泪]",
+      "tags": [
+        "行业",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-af9ad4a52d3f",
+      "title": "轮到我了，我的手机屏幕也出现竖线了，粉红色的，正看着视频呢，这条线就突然闪了两下就出来了。图1是用的别人发的图，只有一个手机没办法拍照，但位置和颜色是一模一样的。",
+      "source": "酷安热榜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-06-27",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/72526807",
+      "image": "",
+      "summary": "轮到我了，我的手机屏幕也出现竖线了，粉红色的，正看着视频呢，这条线就突然闪了两下就出来了。图1是用的别人发的图，只有一个手机没办法拍照，但位置和颜色是一模一样的。",
+      "tags": [
+        "行业",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-f0d43a594c11",
+      "title": "开始点名手机系统特调了，有这个特调机制为啥不用在普通人身上，更好的体验[受虐滑稽][受虐滑稽][受虐滑稽]#HyperOS3# #ColorOS16# #OriginOS6#",
+      "source": "酷安热榜",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-06-27",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/72551959",
+      "image": "",
+      "summary": "开始点名手机系统特调了，有这个特调机制为啥不用在普通人身上，更好的体验[受虐滑稽][受虐滑稽][受虐滑稽]#HyperOS3# #ColorOS16# #OriginOS6#",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-901dd70a1ef2",
+      "title": "女孩向警察借手机刷单 民警识破骗局",
+      "source": "百度热搜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-27",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%A9%E5%90%91%E8%AD%A6%E5%AF%9F%E5%80%9F%E6%89%8B%E6%9C%BA%E5%88%B7%E5%8D%95+%E6%B0%91%E8%AD%A6%E8%AF%86%E7%A0%B4%E9%AA%97%E5%B1%80",
+      "image": "",
+      "summary": "女孩向警察借手机刷单 民警识破骗局",
+      "tags": [
+        "行业",
+        "爆料",
+        "NewsNow"
       ]
     },
     {
