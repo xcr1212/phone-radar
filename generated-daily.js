@@ -1,12 +1,12 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-06-28T11:58:33.250Z",
+  "updatedAt": "2026-06-28T14:15:07.049Z",
   "issueDate": "2026-06-28",
   "issue": "VOL.260628",
   "title": "手机情报日报",
-  "intro": "今日筛出 19 条重点，其中 8 条是重点爆料，包含 5 条 iPhone 相关、1 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 19 条重点，其中 8 条是重点爆料，包含 6 条 iPhone 相关、1 条官方确认、0 条参数线索。",
   "stats": {
     "total": 19,
-    "iphone": 5,
+    "iphone": 6,
     "leaks": 8,
     "official": 1,
     "specs": 0
@@ -17,6 +17,29 @@ window.phoneRadarDaily = {
       "title": "重点爆料",
       "hint": "机模、配色、影像、屏幕、电池和芯片线索先看。",
       "items": [
+        {
+          "id": "coolapk-user-887ad60838d5",
+          "title": "竹本青：【大疆辟谣“全系涨价3%-8%”：网传消息不实，无调价计划】 6月28日，蓝鲸新闻消息，市场流传消息称，大疆全系产…",
+          "originalTitle": "",
+          "source": "竹本青",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "高可信爆料",
+          "date": "2026-06-28",
+          "time": "12:45",
+          "publishedAt": "2026-06-28T12:45:04.000Z",
+          "url": "https://www.coolapk.com/feed/72565091",
+          "image": "http://image.coolapk.com/feed/2026/0628/20/4248714_6f2df135_0838_3771_910@2160x1620.jpg",
+          "verdict": "先看",
+          "takeaway": "【大疆辟谣“全系涨价3%-8%”：网传消息不实，无调价计划】 6月28日，蓝鲸新闻消息，市场流传消息称，大疆全系产品将于2026年7月15日起调价，涨幅3%-8%。 针对该说法，大疆方面向蓝鲸科技记者回应表示，消息不实，纯属谣言；目前大疆官方指导价保持稳定，没有网传的全系调价计划。 #今日热点# #大疆# #DJIOsmoPocket4P#",
+          "detail": "【大疆辟谣“全系涨价3%-8%”：网传消息不实，无调价计划】 6月28日，蓝鲸新闻消息，市场流传消息称，大疆全系产品将于2026年7月15日起调价，涨幅3%-8%。 针对该说法，大疆方面向蓝鲸科技记者回应表示，消息不实，纯属谣言；目前大疆官方指导价保持稳定，没有网传的全系调价计划。 #今日热点# #大疆# #DJIOsmoPocket4P#",
+          "keyPoints": [
+            "爆料来源"
+          ],
+          "confidence": "可信度较高，但仍属于发布前线索。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
         {
           "id": "auto-24b8d9a06a09",
           "title": "iPhone 18 芯片 / 性能相关消息",
@@ -41,25 +64,71 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
-          "id": "newsnow-953e1dea7dac",
-          "title": "荣耀直板新机曝光：评估14000mAh电池",
+          "id": "auto-eeac4ed0ca02",
+          "title": "消息称华为 Mate 90 系列仍聚焦 9 月发布，7-8 月期间会有其他补充机型推出",
           "originalTitle": "",
-          "source": "酷安热榜",
-          "brand": "HONOR",
+          "source": "IT之家",
+          "brand": "Huawei",
           "type": "爆料",
-          "trust": "高关注爆料源",
+          "trust": "媒体汇总",
           "date": "2026-06-28",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://www.coolapk.com/feed/72542518",
-          "image": "",
+          "time": "12:22",
+          "publishedAt": "2026-06-28T12:22:57.000Z",
+          "url": "https://www.ithome.com/0/969/710.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/6/39098b73-ed16-4572-aa4d-0a6c65521eaa.png?x-bce-process=image/format,f_auto",
           "verdict": "先看",
-          "takeaway": "荣耀直板新机曝光：评估14000mAh电池",
-          "detail": "荣耀直板新机曝光：评估14000mAh电池",
+          "takeaway": "IT之家 6 月 28 日消息，博主 @RuryRen 今日发文透露，称华为 Mate 90 系列仍聚焦 9 月发布， 但 7-8 月期间会有其他补充机型推出 。 博主没有透露具体的机型所指， 评论区已有网友猜测是 Pura 90s 系列手机 ，预计包含 Pura 90s Pro 和 Pura 90s Pro Max 等机型。遗憾的是，目前关于 Pura…",
+          "detail": "IT之家 6 月 28 日消息，博主 @RuryRen 今日发文透露，称华为 Mate 90 系列仍聚焦 9 月发布， 但 7-8 月期间会有其他补充机型推出 。 博主没有透露具体的机型所指， 评论区已有网友猜测是 Pura 90s 系列手机 ，预计包含 Pura 90s Pro 和 Pura 90s Pro Max 等机型。遗憾的是，目前关于 Pura…",
           "keyPoints": [
-            "电池 / 充电"
+            "爆料来源"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "auto-2cc9954d4293",
+          "title": "诺基亚时代经典产品线命名回归，HMD Asha 305 神秘新机现身官网",
+          "originalTitle": "",
+          "source": "IT之家",
+          "brand": "行业",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-06-28",
+          "time": "14:12",
+          "publishedAt": "2026-06-28T14:12:42.000Z",
+          "url": "https://www.ithome.com/0/969/726.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/6/4f18b208-be22-4b81-8a19-ee8058640e5a.jpg?x-bce-process=image/format,f_auto",
+          "verdict": "先看",
+          "takeaway": "IT之家 6 月 28 日消息，据外媒 Nokiamob 报道，HMD Global 旗下一款型号为 TA-1779 的新手机认证文件现已悄悄现身官网，相关文件中直接出现了“HMD Asha 305”的名称，这意味着 HMD 正计划让诺基亚当年的“Asha”产品线重新回归，但尽管如此， 相应手机预计也不会带有诺基亚品牌 Logo，而是“HMD Asha”…",
+          "detail": "IT之家 6 月 28 日消息，据外媒 Nokiamob 报道，HMD Global 旗下一款型号为 TA-1779 的新手机认证文件现已悄悄现身官网，相关文件中直接出现了“HMD Asha 305”的名称，这意味着 HMD 正计划让诺基亚当年的“Asha”产品线重新回归，但尽管如此， 相应手机预计也不会带有诺基亚品牌 Logo，而是“HMD Asha”…",
+          "keyPoints": [
+            "芯片 / 性能"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "coolapk-user-6a3347a09413",
+          "title": "竹本青：智慧家庭屏6进了夕夕活动，168块钱还可以吧 发布几年了，原价好像是349块钱，有连续对话，但屏幕是带鱼，显示东西…",
+          "originalTitle": "",
+          "source": "竹本青",
+          "brand": "Xiaomi",
+          "type": "爆料",
+          "trust": "高可信爆料",
+          "date": "2026-06-28",
+          "time": "13:16",
+          "publishedAt": "2026-06-28T13:16:34.000Z",
+          "url": "https://www.coolapk.com/feed/72565516",
+          "image": "http://image.coolapk.com/feed/2026/0628/21/4248714_92c7e8be_2593_1613_216@1272x1822.jpg",
+          "verdict": "先看",
+          "takeaway": "智慧家庭屏6进了夕夕活动，168块钱还可以吧 发布几年了，原价好像是349块钱，有连续对话，但屏幕是带鱼，显示东西可能占不满 #小米智能家庭屏6# #超级小爱#",
+          "detail": "智慧家庭屏6进了夕夕活动，168块钱还可以吧 发布几年了，原价好像是349块钱，有连续对话，但屏幕是带鱼，显示东西可能占不满 #小米智能家庭屏6# #超级小爱#",
+          "keyPoints": [
+            "屏幕形态"
+          ],
+          "confidence": "可信度较高，但仍属于发布前线索。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
@@ -131,75 +200,6 @@ window.phoneRadarDaily = {
             "爆料"
           ],
           "confidence": "可信度较高，但仍属于发布前线索。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "auto-b3878426a40c",
-          "title": "Huawei 折叠屏相关消息",
-          "originalTitle": "",
-          "source": "Huawei Central",
-          "brand": "Huawei",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-06-28",
-          "time": "06:38",
-          "publishedAt": "2026-06-28T06:38:09.000Z",
-          "url": "https://www.huaweicentral.com/galaxy-z-fold-8-wide-to-launch-in-july-3-months-after-huawei-pura-x-max/",
-          "image": "https://www.huaweicentral.com/wp-content/uploads/2026/05/PuraXMax-image.jpg",
-          "verdict": "先看",
-          "takeaway": "Huawei 有发布或新功能消息，适合确认是否和新机有关。",
-          "detail": "Huawei 折叠屏相关消息。重点看折痕、铰链、厚度、屏幕可靠性和重量是否有实质改善。",
-          "keyPoints": [
-            "爆料来源"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "auto-e6d44e066918",
-          "title": "OPPO 屏幕规格相关消息",
-          "originalTitle": "",
-          "source": "Gizmochina",
-          "brand": "OPPO",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-06-28",
-          "time": "05:47",
-          "publishedAt": "2026-06-28T05:47:26.000Z",
-          "url": "https://www.gizmochina.com/2026/06/28/oneplus-nord-7-oneplus-16r-185hz-refresh-rate-display-leak/",
-          "image": "https://www.gizmochina.com/wp-content/uploads/2025/12/OnePlus_15R_Review_GizmoChina_09-300x225.jpg?x44794",
-          "verdict": "先看",
-          "takeaway": "OPPO 屏幕规格相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
-          "detail": "OPPO 屏幕规格相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
-          "keyPoints": [
-            "屏幕形态"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "auto-aaa43bc90712",
-          "title": "Xiaomi 系统功能 / AI 体验相关消息",
-          "originalTitle": "",
-          "source": "Gizmochina",
-          "brand": "Xiaomi",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-06-27",
-          "time": "19:41",
-          "publishedAt": "2026-06-27T19:41:23.000Z",
-          "url": "https://www.gizmochina.com/2026/06/27/redmi-note-17-note-17-pro-note-17-pro-max-key-specifications-leaked-again/",
-          "image": "https://www.gizmochina.com/wp-content/uploads/2026/01/Redmi-Note-15-series-Chinese-New-Year-Edition-300x169.jpg?x44794",
-          "verdict": "先看",
-          "takeaway": "Xiaomi 有系统功能或 AI 体验更新，适合关注后续是否影响日常使用。",
-          "detail": "Xiaomi 系统功能 / AI 体验相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
-          "keyPoints": [
-            "爆料来源"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         }
@@ -340,6 +340,29 @@ window.phoneRadarDaily = {
       "hint": "看方向，不急着当购买依据。",
       "items": [
         {
+          "id": "newsnow-03eb3c624b4a",
+          "title": "【5月国内手机市场份额曝光：华为、苹果、OPPO分列前三，大盘上涨约20%】",
+          "originalTitle": "",
+          "source": "酷安热榜",
+          "brand": "Huawei",
+          "type": "爆料",
+          "trust": "高关注爆料源",
+          "date": "2026-06-28",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://www.coolapk.com/feed/72558382",
+          "image": "",
+          "verdict": "先看",
+          "takeaway": "【5月国内手机市场份额曝光：华为、苹果、OPPO分列前三，大盘上涨约20%】",
+          "detail": "【5月国内手机市场份额曝光：华为、苹果、OPPO分列前三，大盘上涨约20%】",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        },
+        {
           "id": "auto-1e3354e3a3ee",
           "title": "字节跳动为努比亚 M153“豆包手机”赠送每月 68 元标准版会员额度权益，有效期至 12 月 31 日",
           "originalTitle": "",
@@ -384,29 +407,6 @@ window.phoneRadarDaily = {
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
           "action": "中文源可以直接点开快读；看完只保留和购机有关的点。"
-        },
-        {
-          "id": "coolapk-user-e248563b48ee",
-          "title": "竹本青：【5月国内手机市场份额曝光：华为、苹果、OPPO分列前三，大盘上涨约20%】 ● 5月：大盘上涨约20% 1.华为…",
-          "originalTitle": "",
-          "source": "竹本青",
-          "brand": "HONOR",
-          "type": "爆料",
-          "trust": "高可信爆料",
-          "date": "2026-06-28",
-          "time": "04:03",
-          "publishedAt": "2026-06-28T04:03:12.000Z",
-          "url": "https://www.coolapk.com/feed/72558382",
-          "image": "http://image.coolapk.com/feed/2026/0628/12/4248714_f6581fe0_9391_4766_798@1439x1008.jpg",
-          "verdict": "扫一眼",
-          "takeaway": "【5月国内手机市场份额曝光：华为、苹果、OPPO分列前三，大盘上涨约20%】 ● 5月：大盘上涨约20% 1.华为 —— 22.7% 2.苹果 —— 18.8% 3.OPPO —— 16.3%（含一加 2.6%，realme 0.8%） 4.vivo —— 14.5%（含iQOO 3.6%） 5.小米 —— 14.0％ 6.荣耀 —— 10.2% ● 4月…",
-          "detail": "【5月国内手机市场份额曝光：华为、苹果、OPPO分列前三，大盘上涨约20%】 ● 5月：大盘上涨约20% 1.华为 —— 22.7% 2.苹果 —— 18.8% 3.OPPO —— 16.3%（含一加 2.6%，realme 0.8%） 4.vivo —— 14.5%（含iQOO 3.6%） 5.小米 —— 14.0％ 6.荣耀 —— 10.2% ● 4月…",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "可信度较高，但仍属于发布前线索。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         },
         {
           "id": "coolapk-user-20dd4f2b0a95",
@@ -455,27 +455,27 @@ window.phoneRadarDaily = {
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         },
         {
-          "id": "auto-f1c17efc7176",
-          "title": "Galaxy S26 Ultra 电池 / 充电相关消息",
+          "id": "auto-e66602561dd3",
+          "title": "Samsung 折叠屏相关消息",
           "originalTitle": "",
-          "source": "Android Authority",
+          "source": "Android Police",
           "brand": "Samsung",
           "type": "爆料",
           "trust": "媒体汇总",
           "date": "2026-06-28",
-          "time": "10:00",
-          "publishedAt": "2026-06-28T10:00:09.000Z",
-          "url": "https://www.androidauthority.com/i-was-wrong-galaxy-s26-ultra-battery-3679891/",
-          "image": "https://www.androidauthority.com/wp-content/uploads/2026/04/Galaxy-S26-Ultra-rock-background-scaled.jpeg",
+          "time": "13:00",
+          "publishedAt": "2026-06-28T13:00:10.000Z",
+          "url": "https://www.androidpolice.com/vertu-alphafold-three-times-price-galaxy-z-fold7-cant-see-why/",
+          "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2026/06/vertu-alphafold-hand.JPG",
           "verdict": "可略过",
-          "takeaway": "Galaxy S26 Ultra 电池 / 充电相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
-          "detail": "Galaxy S26 Ultra 电池 / 充电相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
+          "takeaway": "Samsung 折叠屏相关消息。如果涉及订阅、售价或硬件成本，才需要进一步看细节。",
+          "detail": "Samsung 折叠屏相关消息。重点看折痕、铰链、厚度、屏幕可靠性和重量是否有实质改善。",
           "keyPoints": [
-            "电池 / 充电"
+            "成本 / 价格"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "影响日常体验，尤其是游戏、拍照和长时间使用。",
-          "action": "有具体参数就记录到参数库；没有参数就先收藏。"
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         }
       ]
     }

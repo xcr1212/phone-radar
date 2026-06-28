@@ -1,6 +1,126 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-06-28T11:58:33.250Z",
+  "updatedAt": "2026-06-28T14:15:07.049Z",
   "news": [
+    {
+      "id": "auto-2cc9954d4293",
+      "title": "诺基亚时代经典产品线命名回归，HMD Asha 305 神秘新机现身官网",
+      "source": "IT之家",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-28",
+      "time": "14:12",
+      "publishedAt": "2026-06-28T14:12:42.000Z",
+      "url": "https://www.ithome.com/0/969/726.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/6/4f18b208-be22-4b81-8a19-ee8058640e5a.jpg?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 6 月 28 日消息，据外媒 Nokiamob 报道，HMD Global 旗下一款型号为 TA-1779 的新手机认证文件现已悄悄现身官网，相关文件中直接出现了“HMD Asha 305”的名称，这意味着 HMD 正计划让诺基亚当年的“Asha”产品线重新回归，但尽管如此， 相应手机预计也不会带有诺基亚品牌 Logo，而是“HMD Asha”…",
+      "tags": [
+        "行业",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-6a3347a09413",
+      "title": "竹本青：智慧家庭屏6进了夕夕活动，168块钱还可以吧 发布几年了，原价好像是349块钱，有连续对话，但屏幕是带鱼，显示东西…",
+      "source": "竹本青",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-06-28",
+      "time": "13:16",
+      "publishedAt": "2026-06-28T13:16:34.000Z",
+      "url": "https://www.coolapk.com/feed/72565516",
+      "image": "http://image.coolapk.com/feed/2026/0628/21/4248714_92c7e8be_2593_1613_216@1272x1822.jpg",
+      "summary": "智慧家庭屏6进了夕夕活动，168块钱还可以吧 发布几年了，原价好像是349块钱，有连续对话，但屏幕是带鱼，显示东西可能占不满 #小米智能家庭屏6# #超级小爱#",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-e66602561dd3",
+      "title": "Vertu's Alphafold costs three times more than the Galaxy Z Fold7, but so far I can't see why",
+      "source": "Android Police",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-28",
+      "time": "13:00",
+      "publishedAt": "2026-06-28T13:00:10.000Z",
+      "url": "https://www.androidpolice.com/vertu-alphafold-three-times-price-galaxy-z-fold7-cant-see-why/",
+      "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2026/06/vertu-alphafold-hand.JPG",
+      "summary": "It's a nice foldable, but nicer than phones that cost $2,000?",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-bf07be916216",
+      "title": "华为用户久等了：消息称星闪音箱将至，有望在今年下半年亮相",
+      "source": "IT之家",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-28",
+      "time": "12:46",
+      "publishedAt": "2026-06-28T12:46:22.000Z",
+      "url": "https://www.ithome.com/0/969/714.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/6/19c57d9a-324d-4597-b39f-44d4f5e7ace1.png?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 6 月 28 日消息，博主 @Adak封狼居胥 今日发文回复了网友的提问，关于音箱类产品何时支持星闪技术，博主透露：“ 今年下半年。 ” 如此来看，星闪生态将再次得到拓展，华为手机用户在不久的将来可以购买并体验到星闪音箱类产品。根据官方描述， 星闪音频物理层传输速率可达 16Mbps ，带宽能力超传统技术，充足的通道容量就能够承载 48kHz/2…",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-887ad60838d5",
+      "title": "竹本青：【大疆辟谣“全系涨价3%-8%”：网传消息不实，无调价计划】 6月28日，蓝鲸新闻消息，市场流传消息称，大疆全系产…",
+      "source": "竹本青",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-06-28",
+      "time": "12:45",
+      "publishedAt": "2026-06-28T12:45:04.000Z",
+      "url": "https://www.coolapk.com/feed/72565091",
+      "image": "http://image.coolapk.com/feed/2026/0628/20/4248714_6f2df135_0838_3771_910@2160x1620.jpg",
+      "summary": "【大疆辟谣“全系涨价3%-8%”：网传消息不实，无调价计划】 6月28日，蓝鲸新闻消息，市场流传消息称，大疆全系产品将于2026年7月15日起调价，涨幅3%-8%。 针对该说法，大疆方面向蓝鲸科技记者回应表示，消息不实，纯属谣言；目前大疆官方指导价保持稳定，没有网传的全系调价计划。 #今日热点# #大疆# #DJIOsmoPocket4P#",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-eeac4ed0ca02",
+      "title": "消息称华为 Mate 90 系列仍聚焦 9 月发布，7-8 月期间会有其他补充机型推出",
+      "source": "IT之家",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-28",
+      "time": "12:22",
+      "publishedAt": "2026-06-28T12:22:57.000Z",
+      "url": "https://www.ithome.com/0/969/710.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/6/39098b73-ed16-4572-aa4d-0a6c65521eaa.png?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 6 月 28 日消息，博主 @RuryRen 今日发文透露，称华为 Mate 90 系列仍聚焦 9 月发布， 但 7-8 月期间会有其他补充机型推出 。 博主没有透露具体的机型所指， 评论区已有网友猜测是 Pura 90s 系列手机 ，预计包含 Pura 90s Pro 和 Pura 90s Pro Max 等机型。遗憾的是，目前关于 Pura…",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-1e3354e3a3ee",
       "title": "字节跳动为努比亚 M153“豆包手机”赠送每月 68 元标准版会员额度权益，有效期至 12 月 31 日",
@@ -182,26 +302,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "coolapk-user-e248563b48ee",
-      "title": "竹本青：【5月国内手机市场份额曝光：华为、苹果、OPPO分列前三，大盘上涨约20%】 ● 5月：大盘上涨约20% 1.华为…",
-      "source": "竹本青",
-      "brand": "HONOR",
-      "model": "HONOR 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-06-28",
-      "time": "04:03",
-      "publishedAt": "2026-06-28T04:03:12.000Z",
-      "url": "https://www.coolapk.com/feed/72558382",
-      "image": "http://image.coolapk.com/feed/2026/0628/12/4248714_f6581fe0_9391_4766_798@1439x1008.jpg",
-      "summary": "【5月国内手机市场份额曝光：华为、苹果、OPPO分列前三，大盘上涨约20%】 ● 5月：大盘上涨约20% 1.华为 —— 22.7% 2.苹果 —— 18.8% 3.OPPO —— 16.3%（含一加 2.6%，realme 0.8%） 4.vivo —— 14.5%（含iQOO 3.6%） 5.小米 —— 14.0％ 6.荣耀 —— 10.2% ● 4月…",
-      "tags": [
-        "HONOR",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
       "id": "auto-9892b45c79c0",
       "title": "MagSafe battery banks: Best picks for your iPhone 17, iPhone Air, and more",
       "source": "9to5Mac",
@@ -322,6 +422,26 @@ window.phoneRadarAuto = {
       ]
     },
     {
+      "id": "newsnow-03eb3c624b4a",
+      "title": "【5月国内手机市场份额曝光：华为、苹果、OPPO分列前三，大盘上涨约20%】",
+      "source": "酷安热榜",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-06-28",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/72558382",
+      "image": "",
+      "summary": "【5月国内手机市场份额曝光：华为、苹果、OPPO分列前三，大盘上涨约20%】",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
       "id": "newsnow-01c8af841906",
       "title": "蹭拍几张旗袍小姐姐的美照，300u负片模式直出，调色盘有微调，氛围感还是不错的[欢呼] #vivoX300Ultra#",
       "source": "酷安热榜",
@@ -342,42 +462,22 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-953e1dea7dac",
-      "title": "荣耀直板新机曝光：评估14000mAh电池",
-      "source": "酷安热榜",
-      "brand": "HONOR",
-      "model": "HONOR 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-06-28",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72542518",
-      "image": "",
-      "summary": "荣耀直板新机曝光：评估14000mAh电池",
-      "tags": [
-        "HONOR",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-04c92db8e9f9",
-      "title": "男生考前2月戒手机 成绩提高1万多名",
-      "source": "百度热搜",
+      "id": "newsnow-14bb04260e7a",
+      "title": "央视曝光手机测评黑幕，厂商与博主联手造假，特调机三层作弊，真实体验与宣传天差地别，哪些信息值得关注？",
+      "source": "知乎热榜",
       "brand": "行业",
       "model": "智能手机市场",
-      "type": "爆料",
+      "type": "市场报告",
       "trust": "媒体汇总",
       "date": "2026-06-28",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.baidu.com/s?wd=%E7%94%B7%E7%94%9F%E8%80%83%E5%89%8D2%E6%9C%88%E6%88%92%E6%89%8B%E6%9C%BA+%E6%88%90%E7%BB%A9%E6%8F%90%E9%AB%981%E4%B8%87%E5%A4%9A%E5%90%8D",
+      "url": "https://www.zhihu.com/question/2054487183839474287",
       "image": "",
-      "summary": "男生考前2月戒手机 成绩提高1万多名",
+      "summary": "央视曝光手机测评黑幕，厂商与博主联手造假，特调机三层作弊，真实体验与宣传天差地别，哪些信息值得关注？",
       "tags": [
         "行业",
-        "爆料",
+        "市场报告",
         "NewsNow"
       ]
     },
