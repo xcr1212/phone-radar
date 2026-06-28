@@ -1,5 +1,5 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-06-28T19:45:14.945Z",
+  "updatedAt": "2026-06-28T21:19:17.793Z",
   "news": [
     {
       "id": "auto-9fa6354dac42",
@@ -422,26 +422,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-a60c301fc8a7",
-      "title": "万把块钱的东西，居然还阉割软件方面的功能，[强][强][强]。还有小v也太智能了！ #OriginOS6# #vivo# #vivoX300Pro#",
-      "source": "酷安热榜",
-      "brand": "vivo",
-      "model": "vivo 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-06-28",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72563189",
-      "image": "",
-      "summary": "万把块钱的东西，居然还阉割软件方面的功能，[强][强][强]。还有小v也太智能了！ #OriginOS6# #vivo# #vivoX300Pro#",
-      "tags": [
-        "vivo",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
       "id": "newsnow-03eb3c624b4a",
       "title": "【5月国内手机市场份额曝光：华为、苹果、OPPO分列前三，大盘上涨约20%】",
       "source": "酷安热榜",
@@ -457,6 +437,26 @@ window.phoneRadarAuto = {
       "summary": "【5月国内手机市场份额曝光：华为、苹果、OPPO分列前三，大盘上涨约20%】",
       "tags": [
         "Huawei",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-a60c301fc8a7",
+      "title": "万把块钱的东西，居然还阉割软件方面的功能，[强][强][强]。还有小v也太智能了！ #OriginOS6# #vivo# #vivoX300Pro#",
+      "source": "酷安热榜",
+      "brand": "vivo",
+      "model": "vivo 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-06-28",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/72563189",
+      "image": "",
+      "summary": "万把块钱的东西，居然还阉割软件方面的功能，[强][强][强]。还有小v也太智能了！ #OriginOS6# #vivo# #vivoX300Pro#",
+      "tags": [
+        "vivo",
         "爆料",
         "NewsNow"
       ]
