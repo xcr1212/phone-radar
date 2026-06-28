@@ -1,5 +1,5 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-06-28T15:40:54.069Z",
+  "updatedAt": "2026-06-28T17:35:18.588Z",
   "news": [
     {
       "id": "auto-0c7a5d1d14bb",
@@ -497,26 +497,6 @@ window.phoneRadarAuto = {
       "summary": "Redmi is expected to unveil the Redmi Note 17 series next month in China. The lineup is said to include three models: the Note 17, Note 17 Pro, and Note 17 Pro Max. A recent leak…",
       "tags": [
         "Xiaomi",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-2d8316787d1f",
-      "title": "Thin phones should stay in 2025; Apple may repeat its mistake, but I hope Samsung won't",
-      "source": "Android Police",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-27",
-      "time": "19:00",
-      "publishedAt": "2026-06-27T19:00:11.000Z",
-      "url": "https://www.androidpolice.com/i-hope-samsungs-galaxy-edge-is-over/",
-      "image": "",
-      "summary": "Why we don't need a Galaxy S26 Edge",
-      "tags": [
-        "Samsung",
         "爆料",
         "自动抓取"
       ]
