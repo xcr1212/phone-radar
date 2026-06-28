@@ -1,6 +1,26 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-06-28T17:35:18.588Z",
+  "updatedAt": "2026-06-28T19:45:14.945Z",
   "news": [
+    {
+      "id": "auto-9fa6354dac42",
+      "title": "Vivo X300 FE Review: A Compact Flagship with No Competition",
+      "source": "Gizmochina",
+      "brand": "vivo",
+      "model": "vivo 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-28",
+      "time": "19:35",
+      "publishedAt": "2026-06-28T19:35:31.000Z",
+      "url": "https://www.gizmochina.com/2026/06/28/vivo-x300-fe-review/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/06/Vivo-X300-FE-featured-300x225.jpg?x44794",
+      "summary": "For years, compact smartphones have come with compromises. If you wanted a phone that was genuinely comfortable to use with one hand, you usually had to settle for a smaller batte…",
+      "tags": [
+        "vivo",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-0c7a5d1d14bb",
       "title": "消息称 vivo X300 系列手机销量超 300 万台，Ultra 机型破 20 万",
@@ -222,26 +242,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "coolapk-user-6fa02741c8cb",
-      "title": "竹本青：【iPhone 17系列 中国区最新销量曝光：已超3558万台】 6月28日，博主「RD观测」发布第三方统计数据：…",
-      "source": "竹本青",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-06-28",
-      "time": "08:19",
-      "publishedAt": "2026-06-28T08:19:53.000Z",
-      "url": "https://www.coolapk.com/feed/72561663",
-      "image": "http://image.coolapk.com/feed/2026/0628/16/4248714_aaa7b742_4792_654_223@2160x1684.jpg",
-      "summary": "【iPhone 17系列 中国区最新销量曝光：已超3558万台】 6月28日，博主「RD观测」发布第三方统计数据：截至2026年第25周，iPhone 17系列在中国市场累计销量约3538.55万台。 前几周数据如下： 截至2026 W24 —— 约3433.98万 截至2026 W23 —— 约3320.36万 截至2026 W22 —— 约3232.7…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
       "id": "auto-b3878426a40c",
       "title": "Galaxy Z Fold 8 wide to launch in July, 3 months after Huawei Pura X Max",
       "source": "Huawei Central",
@@ -382,28 +382,8 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-87f36febc894",
-      "title": "开始点名手机系统特调了，有这个特调机制为啥不用在普通人身上，更好的体验[受虐滑稽][受虐滑稽][受虐滑稽]#HyperOS3# #ColorOS16# #OriginOS6#",
-      "source": "酷安热榜",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-06-28",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72551959",
-      "image": "",
-      "summary": "开始点名手机系统特调了，有这个特调机制为啥不用在普通人身上，更好的体验[受虐滑稽][受虐滑稽][受虐滑稽]#HyperOS3# #ColorOS16# #OriginOS6#",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-9c36baec0f2a",
-      "title": "来个老哥来劝劝我，现在想换PuraXMax想疯了，mate 80 pm在我手里已经不香了，有点得陇望蜀了。[流泪]",
+      "id": "newsnow-c8a01598fdf2",
+      "title": "本人于昨晚酒后失去理智，导致自己的红米k90promax 16+512忘记放在哪儿了，可能是用塑料袋装着的，也可能被别人捡走了，但我记得就在昨晚丢的，如有人捡到，请把手机还我，我愿用3300人民币交换[傲慢][傲慢][傲慢][傲慢]",
       "source": "酷安热榜",
       "brand": "行业",
       "model": "智能手机市场",
@@ -412,11 +392,51 @@ window.phoneRadarAuto = {
       "date": "2026-06-28",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72546599",
+      "url": "https://www.coolapk.com/feed/72563229",
       "image": "",
-      "summary": "来个老哥来劝劝我，现在想换PuraXMax想疯了，mate 80 pm在我手里已经不香了，有点得陇望蜀了。[流泪]",
+      "summary": "本人于昨晚酒后失去理智，导致自己的红米k90promax 16+512忘记放在哪儿了，可能是用塑料袋装着的，也可能被别人捡走了，但我记得就在昨晚丢的，如有人捡到，请把手机还我，我愿用3300人民币交换[傲慢][傲慢][傲慢][傲慢]",
       "tags": [
         "行业",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-419565524d0e",
+      "title": "【iPhone 17系列 中国区最新销量曝光：已超3558万台】",
+      "source": "酷安热榜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-06-28",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/72561663",
+      "image": "",
+      "summary": "【iPhone 17系列 中国区最新销量曝光：已超3558万台】",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-a60c301fc8a7",
+      "title": "万把块钱的东西，居然还阉割软件方面的功能，[强][强][强]。还有小v也太智能了！ #OriginOS6# #vivo# #vivoX300Pro#",
+      "source": "酷安热榜",
+      "brand": "vivo",
+      "model": "vivo 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-06-28",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/72563189",
+      "image": "",
+      "summary": "万把块钱的东西，居然还阉割软件方面的功能，[强][强][强]。还有小v也太智能了！ #OriginOS6# #vivo# #vivoX300Pro#",
+      "tags": [
+        "vivo",
         "爆料",
         "NewsNow"
       ]

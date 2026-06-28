@@ -1,12 +1,12 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-06-28T17:35:18.588Z",
+  "updatedAt": "2026-06-28T19:45:14.945Z",
   "issueDate": "2026-06-28",
   "issue": "VOL.260628",
   "title": "手机情报日报",
-  "intro": "今日筛出 18 条重点，其中 8 条是重点爆料，包含 6 条 iPhone 相关、1 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 17 条重点，其中 8 条是重点爆料，包含 5 条 iPhone 相关、1 条官方确认、0 条参数线索。",
   "stats": {
-    "total": 18,
-    "iphone": 6,
+    "total": 17,
+    "iphone": 5,
     "leaks": 8,
     "official": 1,
     "specs": 0
@@ -212,25 +212,25 @@ window.phoneRadarDaily = {
       "hint": "不是硬件爆料，但和 iPhone 体验或路线有关。",
       "items": [
         {
-          "id": "coolapk-user-6fa02741c8cb",
-          "title": "竹本青：【iPhone 17系列 中国区最新销量曝光：已超3558万台】 6月28日，博主「RD观测」发布第三方统计数据：…",
+          "id": "newsnow-419565524d0e",
+          "title": "【iPhone 17系列 中国区最新销量曝光：已超3558万台】",
           "originalTitle": "",
-          "source": "竹本青",
+          "source": "酷安热榜",
           "brand": "iPhone",
           "type": "爆料",
-          "trust": "高可信爆料",
+          "trust": "高关注爆料源",
           "date": "2026-06-28",
-          "time": "08:19",
-          "publishedAt": "2026-06-28T08:19:53.000Z",
+          "time": "",
+          "publishedAt": "",
           "url": "https://www.coolapk.com/feed/72561663",
-          "image": "http://image.coolapk.com/feed/2026/0628/16/4248714_aaa7b742_4792_654_223@2160x1684.jpg",
+          "image": "",
           "verdict": "先看",
-          "takeaway": "【iPhone 17系列 中国区最新销量曝光：已超3558万台】 6月28日，博主「RD观测」发布第三方统计数据：截至2026年第25周，iPhone 17系列在中国市场累计销量约3538.55万台。 前几周数据如下： 截至2026 W24 —— 约3433.98万 截至2026 W23 —— 约3320.36万 截至2026 W22 —— 约3232.7…",
-          "detail": "【iPhone 17系列 中国区最新销量曝光：已超3558万台】 6月28日，博主「RD观测」发布第三方统计数据：截至2026年第25周，iPhone 17系列在中国市场累计销量约3538.55万台。 前几周数据如下： 截至2026 W24 —— 约3433.98万 截至2026 W23 —— 约3320.36万 截至2026 W22 —— 约3232.7…",
+          "takeaway": "【iPhone 17系列 中国区最新销量曝光：已超3558万台】",
+          "detail": "【iPhone 17系列 中国区最新销量曝光：已超3558万台】",
           "keyPoints": [
             "爆料"
           ],
-          "confidence": "可信度较高，但仍属于发布前线索。",
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         },
@@ -279,59 +279,6 @@ window.phoneRadarDaily = {
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "影响购买预算，值得先看。",
           "action": "有具体参数就记录到参数库；没有参数就先收藏。"
-        },
-        {
-          "id": "auto-9892b45c79c0",
-          "title": "iPhone 17 电池 / 充电相关消息",
-          "originalTitle": "",
-          "source": "9to5Mac",
-          "brand": "iPhone",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-06-28",
-          "time": "03:22",
-          "publishedAt": "2026-06-28T03:22:16.000Z",
-          "url": "https://9to5mac.com/2026/06/27/favorite-magsafe-iphone-battery-banks-right-now/",
-          "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/09/MagSafe.jpg?quality=82&strip=all&w=1600",
-          "verdict": "扫一眼",
-          "takeaway": "iPhone 有系统功能或 AI 体验更新，适合关注后续是否影响日常使用。",
-          "detail": "iPhone 17 电池 / 充电相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
-          "keyPoints": [
-            "电池 / 充电"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "影响日常体验，尤其是游戏、拍照和长时间使用。",
-          "action": "有具体参数就记录到参数库；没有参数就先收藏。"
-        }
-      ]
-    },
-    {
-      "id": "review",
-      "title": "评测与体验",
-      "hint": "买前再细看，平时扫一眼即可。",
-      "items": [
-        {
-          "id": "newsnow-87f36febc894",
-          "title": "开始点名手机系统特调了，有这个特调机制为啥不用在普通人身上，更好的体验[受虐滑稽][受虐滑稽][受虐滑稽]#HyperOS3# #ColorOS16# #OriginOS6#",
-          "originalTitle": "",
-          "source": "酷安热榜",
-          "brand": "Xiaomi",
-          "type": "爆料",
-          "trust": "高关注爆料源",
-          "date": "2026-06-28",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://www.coolapk.com/feed/72551959",
-          "image": "",
-          "verdict": "先看",
-          "takeaway": "开始点名手机系统特调了，有这个特调机制为啥不用在普通人身上，更好的体验[受虐滑稽][受虐滑稽][受虐滑稽]#HyperOS3# #ColorOS16# #OriginOS6#",
-          "detail": "开始点名手机系统特调了，有这个特调机制为啥不用在普通人身上，更好的体验[受虐滑稽][受虐滑稽][受虐滑稽]#HyperOS3# #ColorOS16# #OriginOS6#",
-          "keyPoints": [
-            "外观 / 配色 / 尺寸"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         }
       ]
     },
@@ -452,6 +399,29 @@ window.phoneRadarDaily = {
             "爆料"
           ],
           "confidence": "可信度较高，但仍属于发布前线索。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        },
+        {
+          "id": "newsnow-c8a01598fdf2",
+          "title": "本人于昨晚酒后失去理智，导致自己的红米k90promax 16+512忘记放在哪儿了，可能是用塑料袋装着的，也可能被别人捡走了，但我记得就在昨晚丢的，如有人捡到，请把手机还我，我愿用3300人民币交换[傲慢][傲慢][傲慢][傲慢]",
+          "originalTitle": "",
+          "source": "酷安热榜",
+          "brand": "行业",
+          "type": "爆料",
+          "trust": "高关注爆料源",
+          "date": "2026-06-28",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://www.coolapk.com/feed/72563229",
+          "image": "",
+          "verdict": "扫一眼",
+          "takeaway": "本人于昨晚酒后失去理智，导致自己的红米k90promax 16+512忘记放在哪儿了，可能是用塑料袋装着的，也可能被别人捡走了，但我记得就在昨晚丢的，如有人捡到，请把手机还我，我愿用3300人民币交换[傲慢][傲慢][傲慢][傲慢]",
+          "detail": "本人于昨晚酒后失去理智，导致自己的红米k90promax 16+512忘记放在哪儿了，可能是用塑料袋装着的，也可能被别人捡走了，但我记得就在昨晚丢的，如有人捡到，请把手机还我，我愿用3300人民币交换[傲慢][傲慢][傲慢][傲慢]",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         }
