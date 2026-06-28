@@ -1,5 +1,5 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-06-28T09:32:17.910Z",
+  "updatedAt": "2026-06-28T11:58:33.250Z",
   "issueDate": "2026-06-28",
   "issue": "VOL.260628",
   "title": "手机情报日报",
@@ -340,6 +340,29 @@ window.phoneRadarDaily = {
       "hint": "看方向，不急着当购买依据。",
       "items": [
         {
+          "id": "auto-1e3354e3a3ee",
+          "title": "字节跳动为努比亚 M153“豆包手机”赠送每月 68 元标准版会员额度权益，有效期至 12 月 31 日",
+          "originalTitle": "",
+          "source": "IT之家",
+          "brand": "行业",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-06-28",
+          "time": "11:56",
+          "publishedAt": "2026-06-28T11:56:55.000Z",
+          "url": "https://www.ithome.com/0/969/707.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/6/0e514052-adca-4c81-ace2-3434f840fefd.jpg?x-bce-process=image/format,f_auto",
+          "verdict": "扫一眼",
+          "takeaway": "IT之家 6 月 28 日消息，据豆包手机助手社区，字节跳动宣布向努比亚 M153“豆包手机”用户赠送价值 68 元 / 月的标准版会员使用额度，有效期至 2026 年 12 月 31 日，权益支持登陆该豆包账号的设备全端通用。 官方表示，相应会员默认按 M153 设备登陆的豆包账户进行发放，若单台设备登陆过多个豆包 UID，将为近期使用豆包手机助手最活跃…",
+          "detail": "IT之家 6 月 28 日消息，据豆包手机助手社区，字节跳动宣布向努比亚 M153“豆包手机”用户赠送价值 68 元 / 月的标准版会员使用额度，有效期至 2026 年 12 月 31 日，权益支持登陆该豆包账号的设备全端通用。 官方表示，相应会员默认按 M153 设备登陆的豆包账户进行发放，若单台设备登陆过多个豆包 UID，将为近期使用豆包手机助手最活跃…",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "中文源可以直接点开快读；看完只保留和购机有关的点。"
+        },
+        {
           "id": "auto-da18e4349d4e",
           "title": "HMD 神秘功能机设计图曝光：外形设计类似经典黑莓手机、翻盖支持触控",
           "originalTitle": "",
@@ -432,50 +455,27 @@ window.phoneRadarDaily = {
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         },
         {
-          "id": "auto-b343cf8434c2",
-          "title": "Samsung 相关消息",
+          "id": "auto-f1c17efc7176",
+          "title": "Galaxy S26 Ultra 电池 / 充电相关消息",
           "originalTitle": "",
           "source": "Android Authority",
           "brand": "Samsung",
           "type": "爆料",
           "trust": "媒体汇总",
           "date": "2026-06-28",
-          "time": "09:00",
-          "publishedAt": "2026-06-28T09:00:15.000Z",
-          "url": "https://www.androidauthority.com/buy-pixel-10a-instead-of-galaxy-a57-reasons-3679789/",
-          "image": "",
+          "time": "10:00",
+          "publishedAt": "2026-06-28T10:00:09.000Z",
+          "url": "https://www.androidauthority.com/i-was-wrong-galaxy-s26-ultra-battery-3679891/",
+          "image": "https://www.androidauthority.com/wp-content/uploads/2026/04/Galaxy-S26-Ultra-rock-background-scaled.jpeg",
           "verdict": "可略过",
-          "takeaway": "Samsung 相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
-          "detail": "Samsung 相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
+          "takeaway": "Galaxy S26 Ultra 电池 / 充电相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
+          "detail": "Galaxy S26 Ultra 电池 / 充电相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
           "keyPoints": [
-            "爆料"
+            "电池 / 充电"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
-        {
-          "id": "newsnow-9c36baec0f2a",
-          "title": "来个老哥来劝劝我，现在想换PuraXMax想疯了，mate 80 pm在我手里已经不香了，有点得陇望蜀了。[流泪]",
-          "originalTitle": "",
-          "source": "酷安热榜",
-          "brand": "行业",
-          "type": "爆料",
-          "trust": "高关注爆料源",
-          "date": "2026-06-28",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://www.coolapk.com/feed/72546599",
-          "image": "",
-          "verdict": "可略过",
-          "takeaway": "来个老哥来劝劝我，现在想换PuraXMax想疯了，mate 80 pm在我手里已经不香了，有点得陇望蜀了。[流泪]",
-          "detail": "来个老哥来劝劝我，现在想换PuraXMax想疯了，mate 80 pm在我手里已经不香了，有点得陇望蜀了。[流泪]",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+          "impact": "影响日常体验，尤其是游戏、拍照和长时间使用。",
+          "action": "有具体参数就记录到参数库；没有参数就先收藏。"
         }
       ]
     }

@@ -1,6 +1,46 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-06-28T09:32:17.910Z",
+  "updatedAt": "2026-06-28T11:58:33.250Z",
   "news": [
+    {
+      "id": "auto-1e3354e3a3ee",
+      "title": "字节跳动为努比亚 M153“豆包手机”赠送每月 68 元标准版会员额度权益，有效期至 12 月 31 日",
+      "source": "IT之家",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-28",
+      "time": "11:56",
+      "publishedAt": "2026-06-28T11:56:55.000Z",
+      "url": "https://www.ithome.com/0/969/707.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/6/0e514052-adca-4c81-ace2-3434f840fefd.jpg?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 6 月 28 日消息，据豆包手机助手社区，字节跳动宣布向努比亚 M153“豆包手机”用户赠送价值 68 元 / 月的标准版会员使用额度，有效期至 2026 年 12 月 31 日，权益支持登陆该豆包账号的设备全端通用。 官方表示，相应会员默认按 M153 设备登陆的豆包账户进行发放，若单台设备登陆过多个豆包 UID，将为近期使用豆包手机助手最活跃…",
+      "tags": [
+        "行业",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-f1c17efc7176",
+      "title": "I was wrong — the Galaxy S26 Ultra’s battery life is fantastic",
+      "source": "Android Authority",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-28",
+      "time": "10:00",
+      "publishedAt": "2026-06-28T10:00:09.000Z",
+      "url": "https://www.androidauthority.com/i-was-wrong-galaxy-s26-ultra-battery-3679891/",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2026/04/Galaxy-S26-Ultra-rock-background-scaled.jpeg",
+      "summary": "The Galaxy S26 Ultra is a battery life champ, from endurance to charging.",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-b343cf8434c2",
       "title": "5 reasons why I’d buy the Pixel 10a instead of the Galaxy A57",
@@ -322,19 +362,19 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-3c68ac78e4c8",
-      "title": "手机代码发现测评博主名字",
-      "source": "微博热搜",
+      "id": "newsnow-04c92db8e9f9",
+      "title": "男生考前2月戒手机 成绩提高1万多名",
+      "source": "百度热搜",
       "brand": "行业",
       "model": "智能手机市场",
       "type": "爆料",
-      "trust": "待验证",
+      "trust": "媒体汇总",
       "date": "2026-06-28",
       "time": "",
       "publishedAt": "",
-      "url": "https://s.weibo.com/weibo?q=%E6%89%8B%E6%9C%BA%E4%BB%A3%E7%A0%81%E5%8F%91%E7%8E%B0%E6%B5%8B%E8%AF%84%E5%8D%9A%E4%B8%BB%E5%90%8D%E5%AD%97&t=31&band_rank=20&Refer=top",
+      "url": "https://www.baidu.com/s?wd=%E7%94%B7%E7%94%9F%E8%80%83%E5%89%8D2%E6%9C%88%E6%88%92%E6%89%8B%E6%9C%BA+%E6%88%90%E7%BB%A9%E6%8F%90%E9%AB%981%E4%B8%87%E5%A4%9A%E5%90%8D",
       "image": "",
-      "summary": "手机代码发现测评博主名字",
+      "summary": "男生考前2月戒手机 成绩提高1万多名",
       "tags": [
         "行业",
         "爆料",
