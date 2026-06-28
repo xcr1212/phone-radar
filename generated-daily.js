@@ -1,12 +1,12 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-06-28T04:49:37.176Z",
+  "updatedAt": "2026-06-28T09:32:17.910Z",
   "issueDate": "2026-06-28",
   "issue": "VOL.260628",
   "title": "手机情报日报",
-  "intro": "今日筛出 17 条重点，其中 8 条是重点爆料，包含 3 条 iPhone 相关、1 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 19 条重点，其中 8 条是重点爆料，包含 5 条 iPhone 相关、1 条官方确认、0 条参数线索。",
   "stats": {
-    "total": 17,
-    "iphone": 3,
+    "total": 19,
+    "iphone": 5,
     "leaks": 8,
     "official": 1,
     "specs": 0
@@ -17,31 +17,6 @@ window.phoneRadarDaily = {
       "title": "重点爆料",
       "hint": "机模、配色、影像、屏幕、电池和芯片线索先看。",
       "items": [
-        {
-          "id": "auto-17d5cff0461f",
-          "title": "vivo X Fold6 折叠屏手机维修备件价格公布：内屏组件 3780 元，主板 3700 元起",
-          "originalTitle": "",
-          "source": "IT之家",
-          "brand": "vivo",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-06-28",
-          "time": "01:18",
-          "publishedAt": "2026-06-28T01:18:19.000Z",
-          "url": "https://www.ithome.com/0/969/551.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/6/b33e7e51-67a3-4136-91a9-f7a9883482b1.png?x-bce-process=image/format,f_auto",
-          "verdict": "先看",
-          "takeaway": "IT之家 6 月 28 日消息，vivo X Fold6 折叠屏手机于 6 月 26 日发布，售价 7999 元起。目前，这款新机的维修备件价格已经在官网公布。 ▲ IT之家开箱：vivo X Fold6「盐湖」配色 IT之家整理如下： 外屏外层玻璃维修 299 元 外屏组件 920 元 外屏组件（留件价）620 元 内屏组件 3780 元，首次维修 7.…",
-          "detail": "IT之家 6 月 28 日消息，vivo X Fold6 折叠屏手机于 6 月 26 日发布，售价 7999 元起。目前，这款新机的维修备件价格已经在官网公布。 ▲ IT之家开箱：vivo X Fold6「盐湖」配色 IT之家整理如下： 外屏外层玻璃维修 299 元 外屏组件 920 元 外屏组件（留件价）620 元 内屏组件 3780 元，首次维修 7.…",
-          "keyPoints": [
-            "外观 / 配色 / 尺寸",
-            "屏幕形态",
-            "成本 / 价格"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
         {
           "id": "auto-24b8d9a06a09",
           "title": "iPhone 18 芯片 / 性能相关消息",
@@ -58,76 +33,6 @@ window.phoneRadarDaily = {
           "verdict": "先看",
           "takeaway": "iPhone 18 芯片 / 性能相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
           "detail": "iPhone 18 芯片 / 性能相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
-          "keyPoints": [
-            "爆料来源"
-          ],
-          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "auto-820f0b3481d3",
-          "title": "荣耀 X80 Pro Max 手机首销日“战绩”出炉，获 2026 年安卓新品销量第一",
-          "originalTitle": "",
-          "source": "IT之家",
-          "brand": "HONOR",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-06-28",
-          "time": "01:57",
-          "publishedAt": "2026-06-28T01:57:24.000Z",
-          "url": "https://www.ithome.com/0/969/562.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/6/661e8fad-fb0f-4ed5-bdea-6dcf3f49814d.png?x-bce-process=image/format,f_auto",
-          "verdict": "先看",
-          "takeaway": "IT之家 6 月 28 日消息，荣耀终端股份有限公司 PC 产品经理 @HONOR-tim彭 昨晚发文分享了 荣耀 X80 Pro Max 手机首销日“战绩”—— 获 2026 年安卓新品首销日销量第一 。 据IT之家此前报道， 荣耀 X80 Pro Max 手机已于今年 6 月 26 日开售 。新机搭载第五代骁龙 6 移动平台、内置 11000mAh 荣…",
-          "detail": "IT之家 6 月 28 日消息，荣耀终端股份有限公司 PC 产品经理 @HONOR-tim彭 昨晚发文分享了 荣耀 X80 Pro Max 手机首销日“战绩”—— 获 2026 年安卓新品首销日销量第一 。 据IT之家此前报道， 荣耀 X80 Pro Max 手机已于今年 6 月 26 日开售 。新机搭载第五代骁龙 6 移动平台、内置 11000mAh 荣…",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "auto-fe0bd952bc3e",
-          "title": "消息称荣耀 Robot Phone 机器人手机将在 8 月上市，后续还会迭代",
-          "originalTitle": "",
-          "source": "IT之家",
-          "brand": "HONOR",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-06-28",
-          "time": "01:43",
-          "publishedAt": "2026-06-28T01:43:37.000Z",
-          "url": "https://www.ithome.com/0/969/559.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/6/9fcd52e4-4ddc-41f2-bc92-0e3c26b037f2.png?x-bce-process=image/format,f_auto",
-          "verdict": "先看",
-          "takeaway": "IT之家 6 月 28 日消息，博主 @旺仔百事通 昨晚发文透露，称荣耀 Robot Phone 机器人手机 将在 8 月上市 。 有网友询问这台手机后续是否还会迭代，博主明确表示：“ 会。 ” 荣耀机器人手机 Robot Phone 发布于今年 3 月，这台手机顶部的三轴云台相机配备 2 亿像素传感器，可以向前 / 向后翻转，方便用户拍摄自己或拍摄物体；…",
-          "detail": "IT之家 6 月 28 日消息，博主 @旺仔百事通 昨晚发文透露，称荣耀 Robot Phone 机器人手机 将在 8 月上市 。 有网友询问这台手机后续是否还会迭代，博主明确表示：“ 会。 ” 荣耀机器人手机 Robot Phone 发布于今年 3 月，这台手机顶部的三轴云台相机配备 2 亿像素传感器，可以向前 / 向后翻转，方便用户拍摄自己或拍摄物体；…",
-          "keyPoints": [
-            "影像硬件",
-            "爆料来源"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "auto-5f014d8f7baf",
-          "title": "消息称某安卓阵营大厂迭代旗舰线在评估华为 Pura 90 系列手机升杯策略，分标准版、Pro 和 Pro Max",
-          "originalTitle": "",
-          "source": "IT之家",
-          "brand": "Huawei",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-06-28",
-          "time": "01:33",
-          "publishedAt": "2026-06-28T01:33:00.000Z",
-          "url": "https://www.ithome.com/0/969/556.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/6/70e7a8d7-cdc7-4bba-a53a-cee9da0d7386.png",
-          "verdict": "先看",
-          "takeaway": "IT之家 6 月 28 日消息，博主 @数码闲聊站 昨日发文透露，某安卓阵营大厂的迭代旗舰线在评估华为 Pura 90 系列手机升杯策略： 中端系列升为正代旗舰标准版（无后缀）， 原本的标准版叫 Pro，Pro 加料叫 Pro Max ，有一家安卓大厂存在这个计划…… 博主目前暂未公布该系列旗舰机型具体的品牌所指，因此具体情况仍待观察。有网友总结：“名字加…",
-          "detail": "IT之家 6 月 28 日消息，博主 @数码闲聊站 昨日发文透露，某安卓阵营大厂的迭代旗舰线在评估华为 Pura 90 系列手机升杯策略： 中端系列升为正代旗舰标准版（无后缀）， 原本的标准版叫 Pro，Pro 加料叫 Pro Max ，有一家安卓大厂存在这个计划…… 博主目前暂未公布该系列旗舰机型具体的品牌所指，因此具体情况仍待观察。有网友总结：“名字加…",
           "keyPoints": [
             "爆料来源"
           ],
@@ -205,6 +110,98 @@ window.phoneRadarDaily = {
           "confidence": "可信度较高，但仍属于发布前线索。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "coolapk-user-5f6dc6cd5faf",
+          "title": "竹本青：【博主“小白测评”回应央视曝光手机测评作弊乱象：一直在升级规避措施，希望厂商能有所收敛】 据央视新闻昨日报道，网络…",
+          "originalTitle": "",
+          "source": "竹本青",
+          "brand": "行业",
+          "type": "爆料",
+          "trust": "高可信爆料",
+          "date": "2026-06-28",
+          "time": "05:56",
+          "publishedAt": "2026-06-28T05:56:10.000Z",
+          "url": "https://www.coolapk.com/feed/72559773",
+          "image": "http://image.coolapk.com/feed/2026/0628/14/4248714_a923aaaf_7451_5931_254@2160x2432.jpg",
+          "verdict": "先看",
+          "takeaway": "【博主“小白测评”回应央视曝光手机测评作弊乱象：一直在升级规避措施，希望厂商能有所收敛】 据央视新闻昨日报道，网络测评乱象在数码产品测评中同样存在，针对手机测评博主的“特殊调教”内幕情况已经存在很长时间，属于行业内“潜规则”。 网络安全专家以针对小白KOL(网红博主)的作弊程序举例：当系统识别到某博主启动测评时，就会进入“作弊模式”，自动拉高CPU性能、调…",
+          "detail": "【博主“小白测评”回应央视曝光手机测评作弊乱象：一直在升级规避措施，希望厂商能有所收敛】 据央视新闻昨日报道，网络测评乱象在数码产品测评中同样存在，针对手机测评博主的“特殊调教”内幕情况已经存在很长时间，属于行业内“潜规则”。 网络安全专家以针对小白KOL(网红博主)的作弊程序举例：当系统识别到某博主启动测评时，就会进入“作弊模式”，自动拉高CPU性能、调…",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "可信度较高，但仍属于发布前线索。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "auto-b3878426a40c",
+          "title": "Huawei 折叠屏相关消息",
+          "originalTitle": "",
+          "source": "Huawei Central",
+          "brand": "Huawei",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-06-28",
+          "time": "06:38",
+          "publishedAt": "2026-06-28T06:38:09.000Z",
+          "url": "https://www.huaweicentral.com/galaxy-z-fold-8-wide-to-launch-in-july-3-months-after-huawei-pura-x-max/",
+          "image": "https://www.huaweicentral.com/wp-content/uploads/2026/05/PuraXMax-image.jpg",
+          "verdict": "先看",
+          "takeaway": "Huawei 有发布或新功能消息，适合确认是否和新机有关。",
+          "detail": "Huawei 折叠屏相关消息。重点看折痕、铰链、厚度、屏幕可靠性和重量是否有实质改善。",
+          "keyPoints": [
+            "爆料来源"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "auto-e6d44e066918",
+          "title": "OPPO 屏幕规格相关消息",
+          "originalTitle": "",
+          "source": "Gizmochina",
+          "brand": "OPPO",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-06-28",
+          "time": "05:47",
+          "publishedAt": "2026-06-28T05:47:26.000Z",
+          "url": "https://www.gizmochina.com/2026/06/28/oneplus-nord-7-oneplus-16r-185hz-refresh-rate-display-leak/",
+          "image": "https://www.gizmochina.com/wp-content/uploads/2025/12/OnePlus_15R_Review_GizmoChina_09-300x225.jpg?x44794",
+          "verdict": "先看",
+          "takeaway": "OPPO 屏幕规格相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
+          "detail": "OPPO 屏幕规格相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
+          "keyPoints": [
+            "屏幕形态"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "auto-aaa43bc90712",
+          "title": "Xiaomi 系统功能 / AI 体验相关消息",
+          "originalTitle": "",
+          "source": "Gizmochina",
+          "brand": "Xiaomi",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-06-27",
+          "time": "19:41",
+          "publishedAt": "2026-06-27T19:41:23.000Z",
+          "url": "https://www.gizmochina.com/2026/06/27/redmi-note-17-note-17-pro-note-17-pro-max-key-specifications-leaked-again/",
+          "image": "https://www.gizmochina.com/wp-content/uploads/2026/01/Redmi-Note-15-series-Chinese-New-Year-Edition-300x169.jpg?x44794",
+          "verdict": "先看",
+          "takeaway": "Xiaomi 有系统功能或 AI 体验更新，适合关注后续是否影响日常使用。",
+          "detail": "Xiaomi 系统功能 / AI 体验相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
+          "keyPoints": [
+            "爆料来源"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         }
       ]
     },
@@ -213,6 +210,29 @@ window.phoneRadarDaily = {
       "title": "iPhone 重点",
       "hint": "不是硬件爆料，但和 iPhone 体验或路线有关。",
       "items": [
+        {
+          "id": "coolapk-user-6fa02741c8cb",
+          "title": "竹本青：【iPhone 17系列 中国区最新销量曝光：已超3558万台】 6月28日，博主「RD观测」发布第三方统计数据：…",
+          "originalTitle": "",
+          "source": "竹本青",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "高可信爆料",
+          "date": "2026-06-28",
+          "time": "08:19",
+          "publishedAt": "2026-06-28T08:19:53.000Z",
+          "url": "https://www.coolapk.com/feed/72561663",
+          "image": "http://image.coolapk.com/feed/2026/0628/16/4248714_aaa7b742_4792_654_223@2160x1684.jpg",
+          "verdict": "先看",
+          "takeaway": "【iPhone 17系列 中国区最新销量曝光：已超3558万台】 6月28日，博主「RD观测」发布第三方统计数据：截至2026年第25周，iPhone 17系列在中国市场累计销量约3538.55万台。 前几周数据如下： 截至2026 W24 —— 约3433.98万 截至2026 W23 —— 约3320.36万 截至2026 W22 —— 约3232.7…",
+          "detail": "【iPhone 17系列 中国区最新销量曝光：已超3558万台】 6月28日，博主「RD观测」发布第三方统计数据：截至2026年第25周，iPhone 17系列在中国市场累计销量约3538.55万台。 前几周数据如下： 截至2026 W24 —— 约3433.98万 截至2026 W23 —— 约3320.36万 截至2026 W22 —— 约3232.7…",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "可信度较高，但仍属于发布前线索。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        },
         {
           "id": "auto-9bbf43c61c96",
           "title": "iPhone 系统功能 / AI 体验相关消息",
@@ -235,6 +255,29 @@ window.phoneRadarDaily = {
           "confidence": "官方内容，可直接作为已确认信息记录。",
           "impact": "可信度高，但如果不是配置/价格消息，只需要扫一眼。",
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        },
+        {
+          "id": "auto-a95ecbbcf55a",
+          "title": "iPhone 相关消息",
+          "originalTitle": "",
+          "source": "Gizmochina",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-06-28",
+          "time": "06:14",
+          "publishedAt": "2026-06-28T06:14:19.000Z",
+          "url": "https://www.gizmochina.com/2026/06/28/iphone-18-pro-price-hike-200-idc-prediction/",
+          "image": "https://www.gizmochina.com/wp-content/uploads/2025/09/image-121-300x162.png?x44794",
+          "verdict": "扫一眼",
+          "takeaway": "iPhone 相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
+          "detail": "iPhone 相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
+          "keyPoints": [
+            "成本 / 价格"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "影响购买预算，值得先看。",
+          "action": "有具体参数就记录到参数库；没有参数就先收藏。"
         },
         {
           "id": "auto-9892b45c79c0",
@@ -297,6 +340,29 @@ window.phoneRadarDaily = {
       "hint": "看方向，不急着当购买依据。",
       "items": [
         {
+          "id": "auto-da18e4349d4e",
+          "title": "HMD 神秘功能机设计图曝光：外形设计类似经典黑莓手机、翻盖支持触控",
+          "originalTitle": "",
+          "source": "IT之家",
+          "brand": "行业",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-06-28",
+          "time": "08:58",
+          "publishedAt": "2026-06-28T08:58:24.000Z",
+          "url": "https://www.ithome.com/0/969/671.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/6/41c8f421-83aa-47fc-b35a-f31c43af128e.png?x-bce-process=image/format,f_auto",
+          "verdict": "扫一眼",
+          "takeaway": "IT之家 6 月 28 日消息，消息源 smashx_60 现已曝光了 HMD Global 旗下一款神秘功能机设计图，不过目前暂不知悉该机具体型号。 IT之家参考相应设计图，该机整体风格接近于当年的黑莓功能机，手机整体造型圆润，正面配备一块横向比例面板，匹配 T9 数字键盘。同时该机设计图中还显示该机有望采用翻盖设计，其翻盖支持触控屏操作。 规格方面，该…",
+          "detail": "IT之家 6 月 28 日消息，消息源 smashx_60 现已曝光了 HMD Global 旗下一款神秘功能机设计图，不过目前暂不知悉该机具体型号。 IT之家参考相应设计图，该机整体风格接近于当年的黑莓功能机，手机整体造型圆润，正面配备一块横向比例面板，匹配 T9 数字键盘。同时该机设计图中还显示该机有望采用翻盖设计，其翻盖支持触控屏操作。 规格方面，该…",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "中文源可以直接点开快读；看完只保留和购机有关的点。"
+        },
+        {
           "id": "coolapk-user-e248563b48ee",
           "title": "竹本青：【5月国内手机市场份额曝光：华为、苹果、OPPO分列前三，大盘上涨约20%】 ● 5月：大盘上涨约20% 1.华为…",
           "originalTitle": "",
@@ -343,29 +409,6 @@ window.phoneRadarDaily = {
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         },
         {
-          "id": "coolapk-user-e525a9198cdf",
-          "title": "竹本青：荣耀X80 Pro Max首销日战报：2026年安卓新品销量第一",
-          "originalTitle": "",
-          "source": "竹本青",
-          "brand": "HONOR",
-          "type": "爆料",
-          "trust": "高可信爆料",
-          "date": "2026-06-27",
-          "time": "07:58",
-          "publishedAt": "2026-06-27T07:58:38.000Z",
-          "url": "https://www.coolapk.com/feed/72547037",
-          "image": "http://image.coolapk.com/feed/2026/0627/15/4248714_68c27051_7115_0299_629@2000x3556.jpg",
-          "verdict": "扫一眼",
-          "takeaway": "【荣耀X80 Pro Max 首销日战报：2026年安卓新品销量第一】 荣耀手机今天官宣，X80 Pro Max 获得2026年安卓新品首销日销量第一。 数据来源：荣耀大数据分析平台、腾讯数据 数据时间：2026年1月1日-2026年6月26日 #今日热点# #荣耀X80ProMax# #MagicOS10#",
-          "detail": "【荣耀X80 Pro Max 首销日战报：2026年安卓新品销量第一】 荣耀手机今天官宣，X80 Pro Max 获得2026年安卓新品首销日销量第一。 数据来源：荣耀大数据分析平台、腾讯数据 数据时间：2026年1月1日-2026年6月26日 #今日热点# #荣耀X80ProMax# #MagicOS10#",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "可信度较高，但仍属于发布前线索。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
-        {
           "id": "newsnow-01c8af841906",
           "title": "蹭拍几张旗袍小姐姐的美照，300u负片模式直出，调色盘有微调，氛围感还是不错的[欢呼] #vivoX300Ultra#",
           "originalTitle": "",
@@ -381,6 +424,29 @@ window.phoneRadarDaily = {
           "verdict": "扫一眼",
           "takeaway": "蹭拍几张旗袍小姐姐的美照，300u负片模式直出，调色盘有微调，氛围感还是不错的[欢呼] #vivoX300Ultra#",
           "detail": "蹭拍几张旗袍小姐姐的美照，300u负片模式直出，调色盘有微调，氛围感还是不错的[欢呼] #vivoX300Ultra#",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        },
+        {
+          "id": "auto-b343cf8434c2",
+          "title": "Samsung 相关消息",
+          "originalTitle": "",
+          "source": "Android Authority",
+          "brand": "Samsung",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-06-28",
+          "time": "09:00",
+          "publishedAt": "2026-06-28T09:00:15.000Z",
+          "url": "https://www.androidauthority.com/buy-pixel-10a-instead-of-galaxy-a57-reasons-3679789/",
+          "image": "",
+          "verdict": "可略过",
+          "takeaway": "Samsung 相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
+          "detail": "Samsung 相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
           "keyPoints": [
             "爆料"
           ],
@@ -410,31 +476,6 @@ window.phoneRadarDaily = {
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
-        {
-          "id": "auto-0bb55c0d3ae1",
-          "title": "vivo 外观设计线索曝光",
-          "originalTitle": "",
-          "source": "Gizmochina",
-          "brand": "vivo",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-06-27",
-          "time": "12:42",
-          "publishedAt": "2026-06-27T12:42:37.000Z",
-          "url": "https://www.gizmochina.com/2026/06/27/vivo-x500e-key-specifications-leaked/",
-          "image": "https://www.gizmochina.com/wp-content/uploads/2026/06/Vivo-X300-FE-300x225.jpg?x44794",
-          "verdict": "可略过",
-          "takeaway": "vivo 外观设计线索曝光。重点看外观、颜色、尺寸是否和上一代有明显变化。",
-          "detail": "vivo 外观设计线索曝光。这类内容主要看外观设计、按键布局、相机模组和尺寸变化，后续最好等更多渲染图或保护壳线索互相验证。",
-          "keyPoints": [
-            "外观 / 配色 / 尺寸",
-            "影像硬件",
-            "芯片 / 性能"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "影响性能和寿命判断，适合放进参数库。",
-          "action": "有具体参数就记录到参数库；没有参数就先收藏。"
         }
       ]
     }
