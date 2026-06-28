@@ -1,6 +1,26 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-06-28T14:15:07.049Z",
+  "updatedAt": "2026-06-28T15:40:54.069Z",
   "news": [
+    {
+      "id": "auto-0c7a5d1d14bb",
+      "title": "消息称 vivo X300 系列手机销量超 300 万台，Ultra 机型破 20 万",
+      "source": "IT之家",
+      "brand": "vivo",
+      "model": "vivo 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-28",
+      "time": "14:16",
+      "publishedAt": "2026-06-28T14:16:23.000Z",
+      "url": "https://www.ithome.com/0/969/727.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/6/08f0d747-a817-4817-acc2-8adb31339a32.jpg",
+      "summary": "IT之家 6 月 28 日消息，长期关注国内手机市场份额的数码博主 @RD观测 今日爆料，截至 2026 年第 25 周（6 月 15 日至 6 月 21 日）， vivo X300 系列手机的 sell-out 销量达到 311.09 万台 ，突破 300 万大关。 其中， vivo X300 Ultra 销量达到 20.12 万台 。 ▲ IT之家开箱…",
+      "tags": [
+        "vivo",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-2cc9954d4293",
       "title": "诺基亚时代经典产品线命名回归，HMD Asha 305 神秘新机现身官网",
@@ -322,26 +342,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "coolapk-user-039c02a1f074",
-      "title": "竹本青：【博主称小米玄戒将推出自研智驾芯片，发布时间未知】 6月28日，博主\"粮厂研究员Will\"回复网友，确认小米有玄戒…",
-      "source": "竹本青",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-06-28",
-      "time": "02:54",
-      "publishedAt": "2026-06-28T02:54:59.000Z",
-      "url": "https://www.coolapk.com/feed/72557475",
-      "image": "http://image.coolapk.com/feed/2026/0628/10/4248714_178b0025_5298_8098_536@1271x448.jpg",
-      "summary": "【博主称小米玄戒将推出自研智驾芯片，发布时间未知】 6月28日，博主\"粮厂研究员Will\"回复网友，确认小米有玄戒自研智驾芯片项目，但具体发布时间需等待小米官方宣布。 #今日热点# #HyperOS3# #小米YU7#",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
       "id": "auto-24b8d9a06a09",
       "title": "iPhone 18 to get 9GB RAM instead of rumored 12GB",
       "source": "Gizmochina",
@@ -442,21 +442,21 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-01c8af841906",
-      "title": "蹭拍几张旗袍小姐姐的美照，300u负片模式直出，调色盘有微调，氛围感还是不错的[欢呼] #vivoX300Ultra#",
+      "id": "newsnow-62c3d03cf0f9",
+      "title": "iPhone 换华为阔折感受",
       "source": "酷安热榜",
-      "brand": "vivo",
-      "model": "vivo 相关机型",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-06-28",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72532828",
+      "url": "https://www.coolapk.com/feed/72557272",
       "image": "",
-      "summary": "蹭拍几张旗袍小姐姐的美照，300u负片模式直出，调色盘有微调，氛围感还是不错的[欢呼] #vivoX300Ultra#",
+      "summary": "iPhone 换华为阔折感受",
       "tags": [
-        "vivo",
+        "Huawei",
         "爆料",
         "NewsNow"
       ]
@@ -602,6 +602,26 @@ window.phoneRadarAuto = {
       ]
     },
     {
+      "id": "weibo-4f470f901d11",
+      "title": "数码闲聊站：大胆猜测一下，小米18系列9月首发骁龙8E6/骁龙8E6 Pro，vivo X…",
+      "source": "数码闲聊站",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-06-27",
+      "time": "08:46",
+      "publishedAt": "2026-06-27T08:46:00.000Z",
+      "url": "https://weibo.com/6048569942/R64dVyqPg",
+      "image": "",
+      "summary": "大胆猜测一下，小米18系列9月首发骁龙8E6/骁龙8E6 Pro，vivo X500系列9月首发天玑9600*/天玑9600 Pro，其它家是尽可能争取9月。 然后这波安卓迭代旗舰还是小米打头阵，先给这波新机定个价格锚点[卡皮巴拉]",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "微博"
+      ]
+    },
+    {
       "id": "auto-03430017cef5",
       "title": "Vivo X300 vs Vivo X300 Ultra: Which Vivo Flagship Should You Buy?",
       "source": "Gizmochina",
@@ -682,6 +702,26 @@ window.phoneRadarAuto = {
       ]
     },
     {
+      "id": "weibo-5010cece0dab",
+      "title": "数码闲聊站：听说蓝粉想要X系列上6.59英寸中屏？左上角小方块Deco？骁龙8系处理器？蔡…",
+      "source": "数码闲聊站",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-06-27",
+      "time": "03:06",
+      "publishedAt": "2026-06-27T03:06:00.000Z",
+      "url": "https://weibo.com/6048569942/R61ZVjA2Y",
+      "image": "",
+      "summary": "听说蓝粉想要X系列上6.59英寸中屏？左上角小方块Deco？骁龙8系处理器？蔡司影像+IMX8中底潜望长焦？E新成员满足你们[doge][笑哈哈][doge][笑哈哈][doge][笑哈哈]",
+      "tags": [
+        "行业",
+        "爆料",
+        "微博"
+      ]
+    },
+    {
       "id": "auto-b222959b6eaa",
       "title": "Hurry! There's still time to grab one of Samsung's best smartphones of 2026 at an all-time low",
       "source": "Android Central",
@@ -699,6 +739,26 @@ window.phoneRadarAuto = {
         "Samsung",
         "评测",
         "自动抓取"
+      ]
+    },
+    {
+      "id": "weibo-10ad991d0965",
+      "title": "数码闲聊站：耀子直板机的硅含量也在冲30％，量产线测试有12000mAh，实验室评估最大1…",
+      "source": "数码闲聊站",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-06-27",
+      "time": "01:33",
+      "publishedAt": "2026-06-27T01:33:51.000Z",
+      "url": "https://weibo.com/6048569942/R61owf0GV",
+      "image": "",
+      "summary": "耀子直板机的硅含量也在冲30％，量产线测试有12000mAh，实验室评估最大14000mAh±，短期内应该不会有手机厂商超过它。 除非……另一家头部大厂的新电池体系落地[流鼻血]",
+      "tags": [
+        "行业",
+        "爆料",
+        "微博"
       ]
     }
   ]

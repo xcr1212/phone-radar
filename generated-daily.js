@@ -1,11 +1,11 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-06-28T14:15:07.049Z",
+  "updatedAt": "2026-06-28T15:40:54.069Z",
   "issueDate": "2026-06-28",
   "issue": "VOL.260628",
   "title": "手机情报日报",
-  "intro": "今日筛出 19 条重点，其中 8 条是重点爆料，包含 6 条 iPhone 相关、1 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 18 条重点，其中 8 条是重点爆料，包含 6 条 iPhone 相关、1 条官方确认、0 条参数线索。",
   "stats": {
-    "total": 19,
+    "total": 18,
     "iphone": 6,
     "leaks": 8,
     "official": 1,
@@ -64,6 +64,29 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
+          "id": "auto-0c7a5d1d14bb",
+          "title": "消息称 vivo X300 系列手机销量超 300 万台，Ultra 机型破 20 万",
+          "originalTitle": "",
+          "source": "IT之家",
+          "brand": "vivo",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-06-28",
+          "time": "14:16",
+          "publishedAt": "2026-06-28T14:16:23.000Z",
+          "url": "https://www.ithome.com/0/969/727.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/6/08f0d747-a817-4817-acc2-8adb31339a32.jpg",
+          "verdict": "先看",
+          "takeaway": "IT之家 6 月 28 日消息，长期关注国内手机市场份额的数码博主 @RD观测 今日爆料，截至 2026 年第 25 周（6 月 15 日至 6 月 21 日）， vivo X300 系列手机的 sell-out 销量达到 311.09 万台 ，突破 300 万大关。 其中， vivo X300 Ultra 销量达到 20.12 万台 。 ▲ IT之家开箱…",
+          "detail": "IT之家 6 月 28 日消息，长期关注国内手机市场份额的数码博主 @RD观测 今日爆料，截至 2026 年第 25 周（6 月 15 日至 6 月 21 日）， vivo X300 系列手机的 sell-out 销量达到 311.09 万台 ，突破 300 万大关。 其中， vivo X300 Ultra 销量达到 20.12 万台 。 ▲ IT之家开箱…",
+          "keyPoints": [
+            "爆料来源"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
           "id": "auto-eeac4ed0ca02",
           "title": "消息称华为 Mate 90 系列仍聚焦 9 月发布，7-8 月期间会有其他补充机型推出",
           "originalTitle": "",
@@ -83,6 +106,30 @@ window.phoneRadarDaily = {
             "爆料来源"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "weibo-4f470f901d11",
+          "title": "数码闲聊站：大胆猜测一下，小米18系列9月首发骁龙8E6/骁龙8E6 Pro，vivo X…",
+          "originalTitle": "",
+          "source": "数码闲聊站",
+          "brand": "Xiaomi",
+          "type": "爆料",
+          "trust": "高关注爆料源",
+          "date": "2026-06-27",
+          "time": "08:46",
+          "publishedAt": "2026-06-27T08:46:00.000Z",
+          "url": "https://weibo.com/6048569942/R64dVyqPg",
+          "image": "",
+          "verdict": "先看",
+          "takeaway": "大胆猜测一下，小米18系列9月首发骁龙8E6/骁龙8E6 Pro，vivo X500系列9月首发天玑9600*/天玑9600 Pro，其它家是尽可能争取9月。 然后这波安卓迭代旗舰还是小米打头阵，先给这波新机定个价格锚点[卡皮巴拉]",
+          "detail": "大胆猜测一下，小米18系列9月首发骁龙8E6/骁龙8E6 Pro，vivo X500系列9月首发天玑9600*/天玑9600 Pro，其它家是尽可能争取9月。 然后这波安卓迭代旗舰还是小米打头阵，先给这波新机定个价格锚点[卡皮巴拉]",
+          "keyPoints": [
+            "成本 / 价格",
+            "爆料来源"
+          ],
+          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
@@ -133,29 +180,6 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
-          "id": "coolapk-user-039c02a1f074",
-          "title": "竹本青：【博主称小米玄戒将推出自研智驾芯片，发布时间未知】 6月28日，博主\"粮厂研究员Will\"回复网友，确认小米有玄戒…",
-          "originalTitle": "",
-          "source": "竹本青",
-          "brand": "Xiaomi",
-          "type": "爆料",
-          "trust": "高可信爆料",
-          "date": "2026-06-28",
-          "time": "02:54",
-          "publishedAt": "2026-06-28T02:54:59.000Z",
-          "url": "https://www.coolapk.com/feed/72557475",
-          "image": "http://image.coolapk.com/feed/2026/0628/10/4248714_178b0025_5298_8098_536@1271x448.jpg",
-          "verdict": "先看",
-          "takeaway": "【博主称小米玄戒将推出自研智驾芯片，发布时间未知】 6月28日，博主\"粮厂研究员Will\"回复网友，确认小米有玄戒自研智驾芯片项目，但具体发布时间需等待小米官方宣布。 #今日热点# #HyperOS3# #小米YU7#",
-          "detail": "【博主称小米玄戒将推出自研智驾芯片，发布时间未知】 6月28日，博主\"粮厂研究员Will\"回复网友，确认小米有玄戒自研智驾芯片项目，但具体发布时间需等待小米官方宣布。 #今日热点# #HyperOS3# #小米YU7#",
-          "keyPoints": [
-            "芯片 / 性能"
-          ],
-          "confidence": "可信度较高，但仍属于发布前线索。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
           "id": "coolapk-user-e664f25de324",
           "title": "JSCHEN小小狐：vivo X500e曝光：6.59英寸屏幕，骁龙8系芯片",
           "originalTitle": "",
@@ -175,29 +199,6 @@ window.phoneRadarDaily = {
             "影像硬件",
             "屏幕形态",
             "芯片 / 性能"
-          ],
-          "confidence": "可信度较高，但仍属于发布前线索。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "coolapk-user-5f6dc6cd5faf",
-          "title": "竹本青：【博主“小白测评”回应央视曝光手机测评作弊乱象：一直在升级规避措施，希望厂商能有所收敛】 据央视新闻昨日报道，网络…",
-          "originalTitle": "",
-          "source": "竹本青",
-          "brand": "行业",
-          "type": "爆料",
-          "trust": "高可信爆料",
-          "date": "2026-06-28",
-          "time": "05:56",
-          "publishedAt": "2026-06-28T05:56:10.000Z",
-          "url": "https://www.coolapk.com/feed/72559773",
-          "image": "http://image.coolapk.com/feed/2026/0628/14/4248714_a923aaaf_7451_5931_254@2160x2432.jpg",
-          "verdict": "先看",
-          "takeaway": "【博主“小白测评”回应央视曝光手机测评作弊乱象：一直在升级规避措施，希望厂商能有所收敛】 据央视新闻昨日报道，网络测评乱象在数码产品测评中同样存在，针对手机测评博主的“特殊调教”内幕情况已经存在很长时间，属于行业内“潜规则”。 网络安全专家以针对小白KOL(网红博主)的作弊程序举例：当系统识别到某博主启动测评时，就会进入“作弊模式”，自动拉高CPU性能、调…",
-          "detail": "【博主“小白测评”回应央视曝光手机测评作弊乱象：一直在升级规避措施，希望厂商能有所收敛】 据央视新闻昨日报道，网络测评乱象在数码产品测评中同样存在，针对手机测评博主的“特殊调教”内幕情况已经存在很长时间，属于行业内“潜规则”。 网络安全专家以针对小白KOL(网红博主)的作弊程序举例：当系统识别到某博主启动测评时，就会进入“作弊模式”，自动拉高CPU性能、调…",
-          "keyPoints": [
-            "爆料"
           ],
           "confidence": "可信度较高，但仍属于发布前线索。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
@@ -363,6 +364,29 @@ window.phoneRadarDaily = {
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         },
         {
+          "id": "newsnow-62c3d03cf0f9",
+          "title": "iPhone 换华为阔折感受",
+          "originalTitle": "",
+          "source": "酷安热榜",
+          "brand": "Huawei",
+          "type": "爆料",
+          "trust": "高关注爆料源",
+          "date": "2026-06-28",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://www.coolapk.com/feed/72557272",
+          "image": "",
+          "verdict": "先看",
+          "takeaway": "iPhone 换华为阔折感受",
+          "detail": "iPhone 换华为阔折感受",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        },
+        {
           "id": "auto-1e3354e3a3ee",
           "title": "字节跳动为努比亚 M153“豆包手机”赠送每月 68 元标准版会员额度权益，有效期至 12 月 31 日",
           "originalTitle": "",
@@ -428,52 +452,6 @@ window.phoneRadarDaily = {
             "爆料"
           ],
           "confidence": "可信度较高，但仍属于发布前线索。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
-        {
-          "id": "newsnow-01c8af841906",
-          "title": "蹭拍几张旗袍小姐姐的美照，300u负片模式直出，调色盘有微调，氛围感还是不错的[欢呼] #vivoX300Ultra#",
-          "originalTitle": "",
-          "source": "酷安热榜",
-          "brand": "vivo",
-          "type": "爆料",
-          "trust": "高关注爆料源",
-          "date": "2026-06-28",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://www.coolapk.com/feed/72532828",
-          "image": "",
-          "verdict": "扫一眼",
-          "takeaway": "蹭拍几张旗袍小姐姐的美照，300u负片模式直出，调色盘有微调，氛围感还是不错的[欢呼] #vivoX300Ultra#",
-          "detail": "蹭拍几张旗袍小姐姐的美照，300u负片模式直出，调色盘有微调，氛围感还是不错的[欢呼] #vivoX300Ultra#",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
-        {
-          "id": "auto-e66602561dd3",
-          "title": "Samsung 折叠屏相关消息",
-          "originalTitle": "",
-          "source": "Android Police",
-          "brand": "Samsung",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-06-28",
-          "time": "13:00",
-          "publishedAt": "2026-06-28T13:00:10.000Z",
-          "url": "https://www.androidpolice.com/vertu-alphafold-three-times-price-galaxy-z-fold7-cant-see-why/",
-          "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2026/06/vertu-alphafold-hand.JPG",
-          "verdict": "可略过",
-          "takeaway": "Samsung 折叠屏相关消息。如果涉及订阅、售价或硬件成本，才需要进一步看细节。",
-          "detail": "Samsung 折叠屏相关消息。重点看折痕、铰链、厚度、屏幕可靠性和重量是否有实质改善。",
-          "keyPoints": [
-            "成本 / 价格"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         }
