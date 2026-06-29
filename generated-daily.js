@@ -1,12 +1,12 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-06-29T21:43:46.910Z",
+  "updatedAt": "2026-06-29T23:15:58.416Z",
   "issueDate": "2026-06-29",
   "issue": "VOL.260629",
   "title": "手机情报日报",
-  "intro": "今日筛出 17 条重点，其中 8 条是重点爆料，包含 9 条 iPhone 相关、1 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 16 条重点，其中 8 条是重点爆料，包含 10 条 iPhone 相关、1 条官方确认、0 条参数线索。",
   "stats": {
-    "total": 17,
-    "iphone": 9,
+    "total": 16,
+    "iphone": 10,
     "leaks": 8,
     "official": 1,
     "specs": 0
@@ -17,6 +17,29 @@ window.phoneRadarDaily = {
       "title": "重点爆料",
       "hint": "机模、配色、影像、屏幕、电池和芯片线索先看。",
       "items": [
+        {
+          "id": "auto-f14a2e73031c",
+          "title": "苹果印度供应商塔塔电子被黑，消息称涉 iPhone 18 Pro 机密文件现身暗网",
+          "originalTitle": "",
+          "source": "IT之家",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-06-29",
+          "time": "22:56",
+          "publishedAt": "2026-06-29T22:56:09.000Z",
+          "url": "https://www.ithome.com/0/970/245.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/6/028690be-cf82-42bc-bf8d-750f8455216e.png",
+          "verdict": "先看",
+          "takeaway": "IT之家 6 月 30 日消息，北京时间今天（30 日）凌晨，据路透社援引文件和知情人士消息称，勒索软件组织 World Leaks 从苹果印度供应商塔塔电子窃取数据后，将 iPhone 18 Pro 系列的敏感零部件和供应商清单、测试照片 等文件上传至暗网，或令外界直接看清苹果尚未发布机型的供应链构成。 苹果依靠遍布全球的供应商网络生产 iPhone，零…",
+          "detail": "IT之家 6 月 30 日消息，北京时间今天（30 日）凌晨，据路透社援引文件和知情人士消息称，勒索软件组织 World Leaks 从苹果印度供应商塔塔电子窃取数据后，将 iPhone 18 Pro 系列的敏感零部件和供应商清单、测试照片 等文件上传至暗网，或令外界直接看清苹果尚未发布机型的供应链构成。 苹果依靠遍布全球的供应商网络生产 iPhone，零…",
+          "keyPoints": [
+            "爆料来源"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
         {
           "id": "auto-4786f999bfd9",
           "title": "iPhone 18 Pro 影像能力相关消息",
@@ -180,29 +203,6 @@ window.phoneRadarDaily = {
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "auto-7a88aa3626b9",
-          "title": "Galaxy S25 Ultra 系统功能 / AI 体验相关消息",
-          "originalTitle": "",
-          "source": "SamMobile",
-          "brand": "Samsung",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-06-29",
-          "time": "20:18",
-          "publishedAt": "2026-06-29T20:18:34.000Z",
-          "url": "https://www.sammobile.com/news/galaxy-s25-ultra-available-unbelievable-price-india-soon/",
-          "image": "",
-          "verdict": "先看",
-          "takeaway": "Samsung 有系统功能或 AI 体验更新，适合关注后续是否影响日常使用。",
-          "detail": "Galaxy S25 Ultra 系统功能 / AI 体验相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
-          "keyPoints": [
-            "成本 / 价格"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         }
       ]
     },
@@ -303,29 +303,6 @@ window.phoneRadarDaily = {
           "verdict": "先看",
           "takeaway": "还是那句话销量说明一切，没发布之前就说过 小底10x只是噱头，远没有增距镜实用，销量证明我说对了，小底10x 根本没和裁切拉开多少差距，5分和7分的差距而已，为了这一点多花1000-2000 不如上增距镜 效果吊打小底10x #OPPOFindX8Ultra# #vivoX300Ultra# #vivox200ultra#",
           "detail": "还是那句话销量说明一切，没发布之前就说过 小底10x只是噱头，远没有增距镜实用，销量证明我说对了，小底10x 根本没和裁切拉开多少差距，5分和7分的差距而已，为了这一点多花1000-2000 不如上增距镜 效果吊打小底10x #OPPOFindX8Ultra# #vivoX300Ultra# #vivox200ultra#",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
-        {
-          "id": "auto-a53f082a4c07",
-          "title": "Galaxy S21 FE 功能更新或覆盖范围扩大",
-          "originalTitle": "",
-          "source": "SamMobile",
-          "brand": "Samsung",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-06-29",
-          "time": "21:27",
-          "publishedAt": "2026-06-29T21:27:20.000Z",
-          "url": "https://www.sammobile.com/news/new-galaxy-s21-fe-update-brings-june-2026-security-patch/",
-          "image": "",
-          "verdict": "可略过",
-          "takeaway": "Galaxy S21 FE 功能更新或覆盖范围扩大。已转成中文摘要展示，详细内容可打开原文核对。",
-          "detail": "Galaxy S21 FE 功能更新或覆盖范围扩大。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
           "keyPoints": [
             "爆料"
           ],

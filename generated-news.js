@@ -1,6 +1,26 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-06-29T21:43:46.910Z",
+  "updatedAt": "2026-06-29T23:15:58.416Z",
   "news": [
+    {
+      "id": "auto-f14a2e73031c",
+      "title": "苹果印度供应商塔塔电子被黑，消息称涉 iPhone 18 Pro 机密文件现身暗网",
+      "source": "IT之家",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-29",
+      "time": "22:56",
+      "publishedAt": "2026-06-29T22:56:09.000Z",
+      "url": "https://www.ithome.com/0/970/245.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/6/028690be-cf82-42bc-bf8d-750f8455216e.png",
+      "summary": "IT之家 6 月 30 日消息，北京时间今天（30 日）凌晨，据路透社援引文件和知情人士消息称，勒索软件组织 World Leaks 从苹果印度供应商塔塔电子窃取数据后，将 iPhone 18 Pro 系列的敏感零部件和供应商清单、测试照片 等文件上传至暗网，或令外界直接看清苹果尚未发布机型的供应链构成。 苹果依靠遍布全球的供应商网络生产 iPhone，零…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-a53f082a4c07",
       "title": "New Galaxy S21 FE update brings June 2026 security patch",
