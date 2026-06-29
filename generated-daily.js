@@ -1,12 +1,12 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-06-29T18:22:23.464Z",
+  "updatedAt": "2026-06-29T21:43:46.910Z",
   "issueDate": "2026-06-29",
   "issue": "VOL.260629",
   "title": "手机情报日报",
-  "intro": "今日筛出 17 条重点，其中 8 条是重点爆料，包含 10 条 iPhone 相关、1 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 17 条重点，其中 8 条是重点爆料，包含 9 条 iPhone 相关、1 条官方确认、0 条参数线索。",
   "stats": {
     "total": 17,
-    "iphone": 10,
+    "iphone": 9,
     "leaks": 8,
     "official": 1,
     "specs": 0
@@ -18,30 +18,31 @@ window.phoneRadarDaily = {
       "hint": "机模、配色、影像、屏幕、电池和芯片线索先看。",
       "items": [
         {
-          "id": "newsnow-787de1741da9",
-          "title": "苹果2027年手机产品线曝光：第二代阔折叠等",
+          "id": "auto-4786f999bfd9",
+          "title": "iPhone 18 Pro 影像能力相关消息",
           "originalTitle": "",
-          "source": "酷安热榜",
+          "source": "The Verge",
           "brand": "iPhone",
           "type": "爆料",
-          "trust": "高关注爆料源",
+          "trust": "媒体汇总",
           "date": "2026-06-29",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://www.coolapk.com/feed/72571989",
-          "image": "",
+          "time": "20:18",
+          "publishedAt": "2026-06-29T20:18:26.000Z",
+          "url": "https://www.theverge.com/tech/959229/iphone-18-pro-leak-apple-dark-web",
+          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/DSC02122.webp?quality=90&strip=all&crop=0,0,100,100",
           "verdict": "先看",
-          "takeaway": "苹果2027年手机产品线曝光：第二代阔折叠等",
-          "detail": "苹果2027年手机产品线曝光：第二代阔折叠等",
+          "takeaway": "iPhone 影像能力相关宣传或案例，主要看是否透露拍摄能力变化。",
+          "detail": "iPhone 18 Pro 影像能力相关消息。重点看影像功能是否和新机硬件有关，如果只是拍摄案例或营销内容，参考价值会低一些。",
           "keyPoints": [
-            "爆料"
+            "影像硬件",
+            "爆料来源"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
-          "id": "auto-2dd0013d72e4",
+          "id": "auto-b1749671e453",
           "title": "iPhone 相关消息",
           "originalTitle": "",
           "source": "MacRumors",
@@ -49,10 +50,10 @@ window.phoneRadarDaily = {
           "type": "爆料",
           "trust": "媒体汇总",
           "date": "2026-06-29",
-          "time": "15:05",
-          "publishedAt": "2026-06-29T15:05:12.000Z",
-          "url": "https://www.macrumors.com/2026/06/29/iphone-18-pro-has-10-rumored-features/",
-          "image": "https://images.macrumors.com/article-new/2026/04/Four-iPhone-18-Pro-Colors-Mock-Feature.jpg",
+          "time": "18:46",
+          "publishedAt": "2026-06-29T18:46:01.000Z",
+          "url": "https://www.macrumors.com/2026/06/29/apple-tata-leak-iphone-18-pro/",
+          "image": "https://images.macrumors.com/article-new/2026/02/iPhone-18-Pro-Deep-Red-Feature.jpg",
           "verdict": "先看",
           "takeaway": "iPhone 相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
           "detail": "iPhone 相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
@@ -181,25 +182,25 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
-          "id": "coolapk-user-13f85ba2ad05",
-          "title": "竹本青：神牛透明取景相机 C100 正式发布：智能透明显示屏，199元起",
+          "id": "auto-7a88aa3626b9",
+          "title": "Galaxy S25 Ultra 系统功能 / AI 体验相关消息",
           "originalTitle": "",
-          "source": "竹本青",
-          "brand": "行业",
+          "source": "SamMobile",
+          "brand": "Samsung",
           "type": "爆料",
-          "trust": "高可信爆料",
+          "trust": "媒体汇总",
           "date": "2026-06-29",
-          "time": "09:05",
-          "publishedAt": "2026-06-29T09:05:38.000Z",
-          "url": "https://www.coolapk.com/feed/72575411",
-          "image": "http://image.coolapk.com/feed/2026/0629/17/4248714_e5a09b27_3931_8438_389@1080x1440.jpg",
+          "time": "20:18",
+          "publishedAt": "2026-06-29T20:18:34.000Z",
+          "url": "https://www.sammobile.com/news/galaxy-s25-ultra-available-unbelievable-price-india-soon/",
+          "image": "",
           "verdict": "先看",
-          "takeaway": "【神牛透明取景相机 C100 正式发布：智能透明显示屏，199元起】 标配 —— 199元 标配+4g内存卡 —— 222元 标配+8g内存卡 —— 226元 标配+16g内存卡 —— 235元 标配+32g内存卡 —— 241元 ● 透明构图取景设计 ● 智能显示屏，透光率>50% ● 16:9／4:3／3:2／1:1 构图比例 ● 支持测光功能 ● 连…",
-          "detail": "【神牛透明取景相机 C100 正式发布：智能透明显示屏，199元起】 标配 —— 199元 标配+4g内存卡 —— 222元 标配+8g内存卡 —— 226元 标配+16g内存卡 —— 235元 标配+32g内存卡 —— 241元 ● 透明构图取景设计 ● 智能显示屏，透光率>50% ● 16:9／4:3／3:2／1:1 构图比例 ● 支持测光功能 ● 连…",
+          "takeaway": "Samsung 有系统功能或 AI 体验更新，适合关注后续是否影响日常使用。",
+          "detail": "Galaxy S25 Ultra 系统功能 / AI 体验相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
           "keyPoints": [
-            "影像硬件"
+            "成本 / 价格"
           ],
-          "confidence": "可信度较高，但仍属于发布前线索。",
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         }
@@ -210,29 +211,6 @@ window.phoneRadarDaily = {
       "title": "iPhone 重点",
       "hint": "不是硬件爆料，但和 iPhone 体验或路线有关。",
       "items": [
-        {
-          "id": "newsnow-5d21c4991f58",
-          "title": "iPhone 17系列中国区最新销量曝光：已超3558万台",
-          "originalTitle": "",
-          "source": "酷安热榜",
-          "brand": "iPhone",
-          "type": "爆料",
-          "trust": "高关注爆料源",
-          "date": "2026-06-29",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://www.coolapk.com/feed/72561663",
-          "image": "",
-          "verdict": "先看",
-          "takeaway": "iPhone 17系列中国区最新销量曝光：已超3558万台",
-          "detail": "iPhone 17系列中国区最新销量曝光：已超3558万台",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
         {
           "id": "auto-9bbf43c61c96",
           "title": "iPhone 系统功能 / AI 体验相关消息",
@@ -305,26 +283,26 @@ window.phoneRadarDaily = {
       ]
     },
     {
-      "id": "market",
-      "title": "行业趋势",
-      "hint": "看方向，不急着当购买依据。",
+      "id": "launch",
+      "title": "新机与官方发布",
+      "hint": "能直接更新到参数库。",
       "items": [
         {
-          "id": "newsnow-a1b95d0b9198",
-          "title": "5月国内手机市场份额曝光：华为苹果OPPO前三",
+          "id": "newsnow-199e13eba7d8",
+          "title": "还是那句话销量说明一切，没发布之前就说过 小底10x只是噱头，远没有增距镜实用，销量证明我说对了，小底10x 根本没和裁切拉开多少差距，5分和7分的差距而已，为了这一点多花1000-2000 不如上增距镜 效果吊打小底10x #OPPOFindX8Ultra# #vivoX300Ultra# #vivox200ultra#",
           "originalTitle": "",
           "source": "酷安热榜",
-          "brand": "Huawei",
+          "brand": "OPPO",
           "type": "爆料",
           "trust": "高关注爆料源",
           "date": "2026-06-29",
           "time": "",
           "publishedAt": "",
-          "url": "https://www.coolapk.com/feed/72558382",
+          "url": "https://www.coolapk.com/feed/72575379",
           "image": "",
           "verdict": "先看",
-          "takeaway": "5月国内手机市场份额曝光：华为苹果OPPO前三",
-          "detail": "5月国内手机市场份额曝光：华为苹果OPPO前三",
+          "takeaway": "还是那句话销量说明一切，没发布之前就说过 小底10x只是噱头，远没有增距镜实用，销量证明我说对了，小底10x 根本没和裁切拉开多少差距，5分和7分的差距而已，为了这一点多花1000-2000 不如上增距镜 效果吊打小底10x #OPPOFindX8Ultra# #vivoX300Ultra# #vivox200ultra#",
+          "detail": "还是那句话销量说明一切，没发布之前就说过 小底10x只是噱头，远没有增距镜实用，销量证明我说对了，小底10x 根本没和裁切拉开多少差距，5分和7分的差距而已，为了这一点多花1000-2000 不如上增距镜 效果吊打小底10x #OPPOFindX8Ultra# #vivoX300Ultra# #vivox200ultra#",
           "keyPoints": [
             "爆料"
           ],
@@ -332,6 +310,36 @@ window.phoneRadarDaily = {
           "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         },
+        {
+          "id": "auto-a53f082a4c07",
+          "title": "Galaxy S21 FE 功能更新或覆盖范围扩大",
+          "originalTitle": "",
+          "source": "SamMobile",
+          "brand": "Samsung",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-06-29",
+          "time": "21:27",
+          "publishedAt": "2026-06-29T21:27:20.000Z",
+          "url": "https://www.sammobile.com/news/new-galaxy-s21-fe-update-brings-june-2026-security-patch/",
+          "image": "",
+          "verdict": "可略过",
+          "takeaway": "Galaxy S21 FE 功能更新或覆盖范围扩大。已转成中文摘要展示，详细内容可打开原文核对。",
+          "detail": "Galaxy S21 FE 功能更新或覆盖范围扩大。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        }
+      ]
+    },
+    {
+      "id": "market",
+      "title": "行业趋势",
+      "hint": "看方向，不急着当购买依据。",
+      "items": [
         {
           "id": "newsnow-986092bd3637",
           "title": "拼多多百亿补贴买到二手机了，成都发货设备查找都没关[汗]#鸿蒙NEXT# #鸿蒙6#",

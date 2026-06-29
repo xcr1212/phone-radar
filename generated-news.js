@@ -1,6 +1,166 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-06-29T18:22:23.464Z",
+  "updatedAt": "2026-06-29T21:43:46.910Z",
   "news": [
+    {
+      "id": "auto-a53f082a4c07",
+      "title": "New Galaxy S21 FE update brings June 2026 security patch",
+      "source": "SamMobile",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-29",
+      "time": "21:27",
+      "publishedAt": "2026-06-29T21:27:20.000Z",
+      "url": "https://www.sammobile.com/news/new-galaxy-s21-fe-update-brings-june-2026-security-patch/",
+      "image": "",
+      "summary": "Samsung launched the Galaxy S21 FE in January 2022 and promised to offer it four major OS upgrades and security updates for five years. By the end of 2025, the brand demoted the p…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-7a88aa3626b9",
+      "title": "Galaxy S25 Ultra to be available at an unbelievable price in India soon",
+      "source": "SamMobile",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-29",
+      "time": "20:18",
+      "publishedAt": "2026-06-29T20:18:34.000Z",
+      "url": "https://www.sammobile.com/news/galaxy-s25-ultra-available-unbelievable-price-india-soon/",
+      "image": "",
+      "summary": "A few days ago, we reported that Samsung's Galaxy S25 Ultra would be available in India for under INR 1,00,000 during Amazon's Prime Day sale, down from its launch price of INR 1,…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-4786f999bfd9",
+      "title": "Leaked iPhone 18 Pro photos reportedly wound up on the dark web",
+      "source": "The Verge",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-29",
+      "time": "20:18",
+      "publishedAt": "2026-06-29T20:18:26.000Z",
+      "url": "https://www.theverge.com/tech/959229/iphone-18-pro-leak-apple-dark-web",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/DSC02122.webp?quality=90&strip=all&crop=0,0,100,100",
+      "summary": "Leaked iPhone 18 Pro photos and parts lists appeared on the dark web following a data breach affecting one of Apple's key suppliers, according to a report from Reuters. The leaked…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-428612f954a5",
+      "title": "MagSafe Monday: The ESR OmniLock mount proves MagSafe is not just for charging",
+      "source": "9to5Mac",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-29",
+      "time": "20:00",
+      "publishedAt": "2026-06-29T20:00:00.000Z",
+      "url": "https://9to5mac.com/2026/06/29/esr-omnilock-for-magsafe-car-mount/",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/05/ESR-Omnilock-1.jpg?quality=82&strip=all&w=1600",
+      "summary": "MagSafe is typically known for charging only, but there are use cases for it as just a mounting technology/use case. If you don’t want to charge your iPhone in your car or you hav…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-a75e42a2fde6",
+      "title": "Galaxy Z Fold 8 Ultra could get a big camera upgrade, while Flip 8 may miss out",
+      "source": "Android Authority",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-29",
+      "time": "19:56",
+      "publishedAt": "2026-06-29T19:56:33.000Z",
+      "url": "https://www.androidauthority.com/galaxy-z-fold-8-flip-8-camera-specs-3682537/",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2025/07/Samsung-Galaxy-Z-Fold-7-in-Mint-showing-rear-camera-module.jpg",
+      "summary": "A leak spills the beans on the camera specs for Samsung's next foldables.",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-1e0e68448c2a",
+      "title": "Galaxy Z Fold 8 Ultra name pops up attached to upcoming accessories",
+      "source": "Android Authority",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-29",
+      "time": "19:00",
+      "publishedAt": "2026-06-29T19:00:00.000Z",
+      "url": "https://www.androidauthority.com/samsung-galaxy-z-fold-8-ultra-cases-3682493/",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2025/07/Samsung-Galaxy-Z-Fold-7-in-hand-showing-apps-scaled.jpg",
+      "summary": "The WPC has certified some cases for Samsung's upcoming foldables.",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-41c55b6b5bf6",
+      "title": "Photos of iPhone 18 Pro drop tests and other sensitive info hits the dark web",
+      "source": "9to5Mac",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-29",
+      "time": "18:46",
+      "publishedAt": "2026-06-29T18:46:39.000Z",
+      "url": "https://9to5mac.com/2026/06/29/iphone-18-pro-drop-tests-dark-web/",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/04/iphone-18-pro-colors.jpg?quality=82&strip=all&w=1600",
+      "summary": "Last week, it transpired that Apple supplier Tata Electronics had been the subject of a data breach , with hundreds of gigabytes of files leaking online. While the files include a…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-b1749671e453",
+      "title": "Apple 'Concerned' Over iPhone 18 Pro Data Leak From Supplier Tata",
+      "source": "MacRumors",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-29",
+      "time": "18:46",
+      "publishedAt": "2026-06-29T18:46:01.000Z",
+      "url": "https://www.macrumors.com/2026/06/29/apple-tata-leak-iphone-18-pro/",
+      "image": "https://images.macrumors.com/article-new/2026/02/iPhone-18-Pro-Deep-Red-Feature.jpg",
+      "summary": "Apple is \"concerned\" about a recent data leak from Tata Electronics, one of its manufacturing partners in India, reports Reuters . Tata Electronics was the target of a cyberattack…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-9709eef089d6",
       "title": "Samsung’s confusing ‘Galaxy Z Fold 8 Ultra’ name is basically official in latest leak [Gallery]",
@@ -102,26 +262,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-66b9c992cc9e",
-      "title": "Galaxy A27 hides a message: Samsung stopped chasing thinner phones",
-      "source": "SamMobile",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-29",
-      "time": "14:35",
-      "publishedAt": "2026-06-29T14:35:19.000Z",
-      "url": "https://www.sammobile.com/opinion/galaxy-a27-hides-a-message-samsung-stopped-chasing-thinner-phones/",
-      "image": "",
-      "summary": "Samsung has spent the past couple of years aggressively slimming down its phones. And it is not just standout devices like the Galaxy S25 Edge or the Galaxy Z TriFold that have pu…",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-21dc994fdb62",
       "title": "Leaker outlines iPhone lineup for next year, with six new models coming",
       "source": "9to5Mac",
@@ -137,26 +277,6 @@ window.phoneRadarAuto = {
       "summary": "Apple is rumored to have more new iPhones launching in 2027 than ever before, and a new post from leaker Digital Chat Station corroborates that. Here’s what he says is coming.",
       "tags": [
         "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-5c78dfd5be43",
-      "title": "First foldable iPhone could launch a month after the Galaxy Z Fold 8",
-      "source": "SamMobile",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-29",
-      "time": "13:14",
-      "publishedAt": "2026-06-29T13:14:26.000Z",
-      "url": "https://www.sammobile.com/news/first-foldable-iphone-launch-month-after-galaxy-z-fold-8/",
-      "image": "",
-      "summary": "It is widely reported that Samsung will hold an event on July 22, 2026, to unveil its next-generation foldable smartphones. Apple is also expected to enter the foldable smartphone…",
-      "tags": [
-        "Samsung",
         "爆料",
         "自动抓取"
       ]
@@ -382,26 +502,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "coolapk-user-13f85ba2ad05",
-      "title": "竹本青：神牛透明取景相机 C100 正式发布：智能透明显示屏，199元起",
-      "source": "竹本青",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-06-29",
-      "time": "09:05",
-      "publishedAt": "2026-06-29T09:05:38.000Z",
-      "url": "https://www.coolapk.com/feed/72575411",
-      "image": "http://image.coolapk.com/feed/2026/0629/17/4248714_e5a09b27_3931_8438_389@1080x1440.jpg",
-      "summary": "【神牛透明取景相机 C100 正式发布：智能透明显示屏，199元起】 标配 —— 199元 标配+4g内存卡 —— 222元 标配+8g内存卡 —— 226元 标配+16g内存卡 —— 235元 标配+32g内存卡 —— 241元 ● 透明构图取景设计 ● 智能显示屏，透光率>50% ● 16:9／4:3／3:2／1:1 构图比例 ● 支持测光功能 ● 连…",
-      "tags": [
-        "行业",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
       "id": "auto-6e84195be238",
       "title": "Your next iPhone, Pixel, Xiaomi device could wirelessly charge at 50W with the same charger",
       "source": "Android Authority",
@@ -622,28 +722,8 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-787de1741da9",
-      "title": "苹果2027年手机产品线曝光：第二代阔折叠等",
-      "source": "酷安热榜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-06-29",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72571989",
-      "image": "",
-      "summary": "苹果2027年手机产品线曝光：第二代阔折叠等",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-a1b95d0b9198",
-      "title": "5月国内手机市场份额曝光：华为苹果OPPO前三",
+      "id": "newsnow-986092bd3637",
+      "title": "拼多多百亿补贴买到二手机了，成都发货设备查找都没关[汗]#鸿蒙NEXT# #鸿蒙6#",
       "source": "酷安热榜",
       "brand": "Huawei",
       "model": "Huawei 相关机型",
@@ -652,31 +732,11 @@ window.phoneRadarAuto = {
       "date": "2026-06-29",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72558382",
+      "url": "https://www.coolapk.com/feed/72561845",
       "image": "",
-      "summary": "5月国内手机市场份额曝光：华为苹果OPPO前三",
+      "summary": "拼多多百亿补贴买到二手机了，成都发货设备查找都没关[汗]#鸿蒙NEXT# #鸿蒙6#",
       "tags": [
         "Huawei",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-5d21c4991f58",
-      "title": "iPhone 17系列中国区最新销量曝光：已超3558万台",
-      "source": "酷安热榜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-06-29",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72561663",
-      "image": "",
-      "summary": "iPhone 17系列中国区最新销量曝光：已超3558万台",
-      "tags": [
-        "iPhone",
         "爆料",
         "NewsNow"
       ]
@@ -702,21 +762,21 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-986092bd3637",
-      "title": "拼多多百亿补贴买到二手机了，成都发货设备查找都没关[汗]#鸿蒙NEXT# #鸿蒙6#",
+      "id": "newsnow-199e13eba7d8",
+      "title": "还是那句话销量说明一切，没发布之前就说过 小底10x只是噱头，远没有增距镜实用，销量证明我说对了，小底10x 根本没和裁切拉开多少差距，5分和7分的差距而已，为了这一点多花1000-2000 不如上增距镜 效果吊打小底10x #OPPOFindX8Ultra# #vivoX300Ultra# #vivox200ultra#",
       "source": "酷安热榜",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-06-29",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72561845",
+      "url": "https://www.coolapk.com/feed/72575379",
       "image": "",
-      "summary": "拼多多百亿补贴买到二手机了，成都发货设备查找都没关[汗]#鸿蒙NEXT# #鸿蒙6#",
+      "summary": "还是那句话销量说明一切，没发布之前就说过 小底10x只是噱头，远没有增距镜实用，销量证明我说对了，小底10x 根本没和裁切拉开多少差距，5分和7分的差距而已，为了这一点多花1000-2000 不如上增距镜 效果吊打小底10x #OPPOFindX8Ultra# #vivoX300Ultra# #vivox200ultra#",
       "tags": [
-        "Huawei",
+        "OPPO",
         "爆料",
         "NewsNow"
       ]
