@@ -1,6 +1,26 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-06-29T16:10:10.321Z",
+  "updatedAt": "2026-06-29T18:22:23.464Z",
   "news": [
+    {
+      "id": "auto-9709eef089d6",
+      "title": "Samsung’s confusing ‘Galaxy Z Fold 8 Ultra’ name is basically official in latest leak [Gallery]",
+      "source": "9to5Google",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-29",
+      "time": "16:45",
+      "publishedAt": "2026-06-29T16:45:00.000Z",
+      "url": "https://9to5google.com/2026/06/29/samsungs-confusing-galaxy-z-fold-8-ultra-name-is-basically-official-in-latest-leak-gallery/",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2025/07/galaxy-z-fold-flip-7-3.jpg?quality=82&strip=all&w=1600",
+      "summary": "Samsung’s new Galaxy Z Fold 8 series is set to include two devices, the Fold 8 and the Fold 8 “Ultra,” branding that’s still incredibly confusing, but essentially official thanks…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-5307f29b8e55",
       "title": "Xiaomi 18 sees a battery upgrade rumor that's passable at best",
@@ -362,26 +382,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-91b5f3cac647",
-      "title": "消息称 iQOO Ultra 系列手机“大概率”暂停一代",
-      "source": "IT之家",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-29",
-      "time": "09:26",
-      "publishedAt": "2026-06-29T09:26:32.000Z",
-      "url": "https://www.ithome.com/0/970/096.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/6/9600d81e-62c5-43bb-b95c-224b72a48f78.png",
-      "summary": "IT之家 6 月 29 日消息，博主 @数码闲聊站 今日发文透露， 称某厂子系 Ultra 大概率也暂停一代 。结合评论区讨论及暗示符号来看， 博主指的是 iQOO Ultra 系列 。 有网友表示此举是“缓一缓应对储存涨价”，博主回复称：“其实最早官方也说过， Ultra 产品线不会固定更新，有突破性技术时才会迭代 。” 另外，还有网友询问 REDMI…",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "coolapk-user-13f85ba2ad05",
       "title": "竹本青：神牛透明取景相机 C100 正式发布：智能透明显示屏，199元起",
       "source": "竹本青",
@@ -519,26 +519,6 @@ window.phoneRadarAuto = {
         "Xiaomi",
         "爆料",
         "自动抓取"
-      ]
-    },
-    {
-      "id": "coolapk-user-ab67a4267c9c",
-      "title": "竹本青：18e怎么还是60hz…… #iPhone17e#",
-      "source": "竹本青",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-06-29",
-      "time": "04:28",
-      "publishedAt": "2026-06-29T04:28:14.000Z",
-      "url": "https://www.coolapk.com/feed/72572151",
-      "image": "",
-      "summary": "18e怎么还是60hz…… #iPhone17e#",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "酷安博主"
       ]
     },
     {
@@ -737,26 +717,6 @@ window.phoneRadarAuto = {
       "summary": "拼多多百亿补贴买到二手机了，成都发货设备查找都没关[汗]#鸿蒙NEXT# #鸿蒙6#",
       "tags": [
         "Huawei",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-230f3049cf2a",
-      "title": "怕iPhone涨价的用户已紧急换新",
-      "source": "微博热搜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "待验证",
-      "date": "2026-06-29",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://s.weibo.com/weibo?q=%23%E6%80%95iPhone%E6%B6%A8%E4%BB%B7%E7%9A%84%E7%94%A8%E6%88%B7%E5%B7%B2%E7%B4%A7%E6%80%A5%E6%8D%A2%E6%96%B0%23&t=31&band_rank=20&Refer=top",
-      "image": "",
-      "summary": "怕iPhone涨价的用户已紧急换新",
-      "tags": [
-        "iPhone",
         "爆料",
         "NewsNow"
       ]
