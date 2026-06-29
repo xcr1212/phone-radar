@@ -1,6 +1,326 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-06-29T04:58:43.897Z",
+  "updatedAt": "2026-06-29T11:23:24.254Z",
   "news": [
+    {
+      "id": "auto-1c8e463259d5",
+      "title": "Apple’s 2027 iPhone Lineup Leaks: iPhone Air 2, iPhone 18 Series, and iPhone 19 Pro Already in the Works",
+      "source": "Gizmochina",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-29",
+      "time": "11:19",
+      "publishedAt": "2026-06-29T11:19:45.000Z",
+      "url": "https://www.gizmochina.com/2026/06/29/apple-iphone-2027-lineup-leak-air-2-iphone-18-19-pro-ultra-2/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2025/09/iphone-17-lineup-all-models-300x169.png?x44794",
+      "summary": "Apple‘s 2027 iPhone lineup is making it to the leak mill today, courtesy of tipster Digital Chat Station (DCS). The insider shared details about what Apple is planning for next ye…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-c0779331e654",
+      "title": "Apple may struggle to get clearance for Chinese RAM, even for Chinese iPhones",
+      "source": "9to5Mac",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-29",
+      "time": "11:06",
+      "publishedAt": "2026-06-29T11:06:40.000Z",
+      "url": "https://9to5mac.com/2026/06/29/apple-may-struggle-to-get-clearance-for-chinese-ram-even-for-chinese-iphones/",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/Apple-may-struggle-to-get-clearance-for-Chinese-RAM-even-for-Chinese-iPhones.jpg?quality=82&strip=all&w=1600",
+      "summary": "We learned yesterday that Apple is trying to persuade the Trump administration to allow it to buy memory chips from two Chinese companies blacklisted by the Pentagon, CXMT and YMT…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-b19cce09d75e",
+      "title": "Video shows Huawei Mate 40 Pro running HarmonyOS NEXT, but there’s a catch",
+      "source": "Huawei Central",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-29",
+      "time": "10:10",
+      "publishedAt": "2026-06-29T10:10:10.000Z",
+      "url": "https://www.huaweicentral.com/video-reveals-huawei-mate-40-pro-running-harmonyos-next/",
+      "image": "https://www.huaweicentral.com/wp-content/uploads/2026/06/Mate40Pro.jpg",
+      "summary": "Huawei has been considering rolling out the HarmonyOS NEXT upgrade to the Mate 40 Pro, and a leak reveals that the work has already started on this matter. However, things are not…",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-1fe459eca10b",
+      "title": "After 10 months with the Pixel 10 Pro, I can’t stand these 3 issues",
+      "source": "Android Authority",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-29",
+      "time": "10:00",
+      "publishedAt": "2026-06-29T10:00:49.000Z",
+      "url": "https://www.androidauthority.com/google-pixel-10-pro-ten-months-later-issues-3680886/",
+      "image": "",
+      "summary": "Sorry Pixel, it's not me, it's definitely you.",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-c6f3afb6c4c8",
+      "title": "iPhone 18e Won't Get ProMotion Display, Says Leaker",
+      "source": "MacRumors",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-29",
+      "time": "09:54",
+      "publishedAt": "2026-06-29T09:54:29.000Z",
+      "url": "https://www.macrumors.com/2026/06/29/iphone-18e-wont-get-promotion-display-says-leaker/",
+      "image": "https://images.macrumors.com/article-new/2026/03/iphone-17e-rear-camera.jpg",
+      "summary": "Apple's upcoming iPhone 18e will have the same display refresh rate as the existing iPhone 17e, according to a prominent Chinese leaker. Discussing Apple's product plans for 2027…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-c4af1e27a0b0",
+      "title": "I can’t believe how good the Samsung Galaxy S24 Ultra still is in 2026",
+      "source": "Android Authority",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-29",
+      "time": "09:30",
+      "publishedAt": "2026-06-29T09:30:42.000Z",
+      "url": "https://www.androidauthority.com/cant-believe-how-good-samsung-galaxy-s24-ultra-is-2026-3678478/",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2024/01/Samsung-Galaxy-S24-Ultra-back-standing-against-books.jpg",
+      "summary": "The S24 Ultra is aging like a fine wine.",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-91b5f3cac647",
+      "title": "消息称 iQOO Ultra 系列手机“大概率”暂停一代",
+      "source": "IT之家",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-29",
+      "time": "09:26",
+      "publishedAt": "2026-06-29T09:26:32.000Z",
+      "url": "https://www.ithome.com/0/970/096.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/6/9600d81e-62c5-43bb-b95c-224b72a48f78.png",
+      "summary": "IT之家 6 月 29 日消息，博主 @数码闲聊站 今日发文透露， 称某厂子系 Ultra 大概率也暂停一代 。结合评论区讨论及暗示符号来看， 博主指的是 iQOO Ultra 系列 。 有网友表示此举是“缓一缓应对储存涨价”，博主回复称：“其实最早官方也说过， Ultra 产品线不会固定更新，有突破性技术时才会迭代 。” 另外，还有网友询问 REDMI…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-5d33cd91b002",
+      "title": "Samsung adds more camera suppliers for Galaxy Z Flip 8 and Z Fold 8 series",
+      "source": "SamMobile",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-29",
+      "time": "09:19",
+      "publishedAt": "2026-06-29T09:19:57.000Z",
+      "url": "https://www.sammobile.com/news/galaxy-z-flip-8-fold-8-ultra-more-camera-suppliers/",
+      "image": "",
+      "summary": "Samsung has reportedly optimized the camera supply chain for its upcoming foldable phones: the Galaxy Z Flip 8, Galaxy Z Fold 8, and Galaxy Z Fold 8 Ultra. All three phones now ha…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-13f85ba2ad05",
+      "title": "竹本青：神牛透明取景相机 C100 正式发布：智能透明显示屏，199元起",
+      "source": "竹本青",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-06-29",
+      "time": "09:05",
+      "publishedAt": "2026-06-29T09:05:38.000Z",
+      "url": "https://www.coolapk.com/feed/72575411",
+      "image": "http://image.coolapk.com/feed/2026/0629/17/4248714_e5a09b27_3931_8438_389@1080x1440.jpg",
+      "summary": "【神牛透明取景相机 C100 正式发布：智能透明显示屏，199元起】 标配 —— 199元 标配+4g内存卡 —— 222元 标配+8g内存卡 —— 226元 标配+16g内存卡 —— 235元 标配+32g内存卡 —— 241元 ● 透明构图取景设计 ● 智能显示屏，透光率>50% ● 16:9／4:3／3:2／1:1 构图比例 ● 支持测光功能 ● 连…",
+      "tags": [
+        "行业",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-3cc0021a890e",
+      "title": "七彩虹为英特尔 800 系主板推出内存增强模式，基准测试提升 10+ %",
+      "source": "IT之家",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-29",
+      "time": "08:51",
+      "publishedAt": "2026-06-29T08:51:32.000Z",
+      "url": "https://www.ithome.com/0/970/072.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/6/26f346bb-3c1f-4353-9d65-f857c4f97de8.jpg",
+      "summary": "IT之家 6 月 29 日消息，七彩虹今日宣布将为旗下部分英特尔 800 系主板推出内存增强模式 (COLORFUL Memory Tuning) 功能。 其 支持在 BIOS 内一键开启 ， 提供多档位优化设置选择 ，率先由 BATTLE-AX B860M-PLUS S WIFI7 V20 主板搭载。 ▲ BATTLE-AX B860M-PLUS S W…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-422541abc7c6",
+      "title": "Galaxy Z Fold 8 Ultra could bring display brightness upgrades",
+      "source": "SamMobile",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-29",
+      "time": "08:32",
+      "publishedAt": "2026-06-29T08:32:38.000Z",
+      "url": "https://www.sammobile.com/news/galaxy-z-fold-8-ultra-display-brightness-upgrades-rumor/",
+      "image": "",
+      "summary": "The most interesting of the three upcoming Samsung foldable phones is the Galaxy Z Fold 8, thanks to its wider form factor. However, the Galaxy Z Fold 8 Ultra will be the most fea…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-6e84195be238",
+      "title": "Your next iPhone, Pixel, Xiaomi device could wirelessly charge at 50W with the same charger",
+      "source": "Android Authority",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-29",
+      "time": "08:25",
+      "publishedAt": "2026-06-29T08:25:09.000Z",
+      "url": "https://www.androidauthority.com/qi-50w-wireless-charging-standard-plans-3682173/",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2025/10/ugreen-qi2-25w-charger-3-in-1-stand-1.jpg",
+      "summary": "The tech industry is uniting behind an open, high-speed Qi 50W standard to eliminate proprietary wireless fast chargers.",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-88e44013ad4c",
+      "title": "iQOO 16 Ultra reportedly canceled, here’s why",
+      "source": "Gizmochina",
+      "brand": "vivo",
+      "model": "vivo 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-29",
+      "time": "08:22",
+      "publishedAt": "2026-06-29T08:22:01.000Z",
+      "url": "https://www.gizmochina.com/2026/06/29/iqoo-16-ultra-reportedly-canceled-heres-why/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/01/iQOO-15-Ultra-color-300x156.png?x44794",
+      "summary": "After unveiling the iQOO 15 in October last year, the brand followed it up with other models, such as the iQOO 15 Ultra and iQOO 15T in China this year. Several reports have revea…",
+      "tags": [
+        "vivo",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-0aa3668df853",
+      "title": "竹本青：OPPO Find X9系列最新总销量曝光：全系超251万",
+      "source": "竹本青",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-06-29",
+      "time": "07:25",
+      "publishedAt": "2026-06-29T07:25:34.000Z",
+      "url": "https://www.coolapk.com/feed/72574153",
+      "image": "http://image.coolapk.com/feed/2026/0629/15/4248714_ea7f40bc_7933_4966_664@2948x2812.jpg",
+      "summary": "【OPPO Find X9系列 最新总销量曝光：全系超251万，Ultra约12.61万】 OPPO Find X9系列 截至2026 W25 —— 约251.9万台 截至2026 W24 —— 约241.34万台 截至2026 W23 —— 约230.08万台 OPPO Find X9 Ultra 截至2026 W25 —— 约12.61万台 截至202…",
+      "tags": [
+        "OPPO",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-92fb5cb4c199",
+      "title": "Vivo X Fold6 vs Samsung Galaxy Z Fold 7: Which Premium Foldable Offers Better Value?",
+      "source": "Gizmochina",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-29",
+      "time": "07:09",
+      "publishedAt": "2026-06-29T07:09:00.000Z",
+      "url": "https://www.gizmochina.com/2026/06/29/vivo-x-fold6-vs-samsung-galaxy-z-fold-7/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/06/image-167-300x194.png?x44794",
+      "summary": "The premium foldable smartphone market is more competitive than ever, and the Vivo X Fold6 is taking on Samsung’s latest Galaxy Z Fold 7 with flagship hardware at a much lower pri…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-580f7ffca26d",
+      "title": "iQOO Z11i is launching this week, here’s what to expect?",
+      "source": "Gizmochina",
+      "brand": "vivo",
+      "model": "vivo 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-29",
+      "time": "06:23",
+      "publishedAt": "2026-06-29T06:23:37.000Z",
+      "url": "https://www.gizmochina.com/2026/06/29/iqoo-z11i-launch-date-expected-specifications/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/06/iQOO-Z11i-launch-date--300x197.jpg?x44794",
+      "summary": "Last week, iQOO started teasing the iQOO Z11i in China. This will be the fourth Z11-series phone to hit the home market after the iQOO Z11x, Z11, and Z11 Turbo. The company has no…",
+      "tags": [
+        "vivo",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-45e831da7344",
       "title": "Xiaomi 18 battery confirmed at 7,200mAh, up from the previous generation",
@@ -39,66 +359,6 @@ window.phoneRadarAuto = {
         "iPhone",
         "爆料",
         "酷安博主"
-      ]
-    },
-    {
-      "id": "auto-bdbc96f339e2",
-      "title": "苹果 2027 年产品线曝光，消息称 iPhone 19 Pro 系列、Ultra 2 阔折叠已开模测试",
-      "source": "IT之家",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-29",
-      "time": "04:17",
-      "publishedAt": "2026-06-29T04:17:24.000Z",
-      "url": "https://www.ithome.com/0/969/886.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/6/15830359-97d2-4a04-8030-b466922523b7.png",
-      "summary": "IT之家 6 月 29 日消息，博主 @数码闲聊站 今日发文曝光了苹果 2027 年产品线： iPhone Air 2 6.55\"1.5K 120Hz LTPO OLED✓ iPhone 18 6.3\"1.5K 120Hz LTPO OLED✓ iPhone 18e 6.12\"1.5K 60Hz LTPS OLED✓ iPhone 19 Pro 系列已开模…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "coolapk-user-30a145169a26",
-      "title": "竹本青：【苹果2027年手机产品线曝光：第二代阔折叠，18标准版，19 Pro系列等】 iPhone Air2｜6.55\"…",
-      "source": "竹本青",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-06-29",
-      "time": "04:14",
-      "publishedAt": "2026-06-29T04:14:55.000Z",
-      "url": "https://www.coolapk.com/feed/72571989",
-      "image": "http://image.coolapk.com/feed/2026/0629/12/4248714_354eae4d_6493_8609_591@1271x677.jpg",
-      "summary": "【苹果2027年手机产品线曝光：第二代阔折叠，18标准版，19 Pro系列等】 iPhone Air2｜6.55\"1.5K 120Hz LTPO OLED iPhone 18｜6.3\"1.5K 120Hz LTPO OLED iPhone 18e｜6.12\"1.5K 60Hz LTPS OLED iPhone 19 Pro系列｜已开模测试 iPhone U…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
-      "id": "weibo-ceb15b754cb8",
-      "title": "数码闲聊站：苹果2027年产品线： iPhone Air2 6.55\"1.5K 120Hz…",
-      "source": "数码闲聊站",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-06-29",
-      "time": "04:08",
-      "publishedAt": "2026-06-29T04:08:00.000Z",
-      "url": "https://weibo.com/6048569942/R6lg5bgUl",
-      "image": "",
-      "summary": "苹果2027年产品线： iPhone Air2 6.55\"1.5K 120Hz LTPO OLED✓ iPhone 18 6.3\"1.5K 120Hz LTPO OLED✓ iPhone 18e 6.12\"1.5K 60Hz LTPS OLED✓ iPhone 19 Pro系列已开模测试✓ iPhone Ultra2阔折叠已开模测试✓",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "微博"
       ]
     },
     {
@@ -142,26 +402,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-7cfffb5f9aa3",
-      "title": "华为 Mate 40 Pro 鸿蒙 NEXT 测试机曝光，系统基于 OpenHarmony 4.1 打造",
-      "source": "IT之家",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-29",
-      "time": "03:45",
-      "publishedAt": "2026-06-29T03:45:32.000Z",
-      "url": "https://www.ithome.com/0/969/873.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/6/35b4b8e3-d459-43bb-b2b2-015086e4f9c4.jpg",
-      "summary": "IT之家 6 月 29 日消息，B站 UP 主 @才羽モモイMomoi 昨晚发布视频，分享了华为 Mate 40 Pro 鸿蒙 HarmonyOS NEXT 测试机。 该机的系统基于 OpenHarmony 4.1 打造 ，属于较为老旧的版本（目前正式版系统基于 OpenHarmony 6.1 打造）。 视频展示了 Mate 40 Pro HarmonyO…",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-918d32f918ff",
       "title": "Huawei rumored to unveil new smartphones in July and August",
       "source": "Huawei Central",
@@ -177,46 +417,6 @@ window.phoneRadarAuto = {
       "summary": "Huawei is focusing heavily on the Mate 90 series, but looks like the company has more new smartphones in the pipeline for July and August. A new rumor says that while the flagship…",
       "tags": [
         "Huawei",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "coolapk-user-65386a83f5da",
-      "title": "竹本青：OPPO Reno16「半夏青」新色亮相，7月3日上市",
-      "source": "竹本青",
-      "brand": "OPPO",
-      "model": "OPPO 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-06-29",
-      "time": "03:01",
-      "publishedAt": "2026-06-29T03:01:33.000Z",
-      "url": "https://www.coolapk.com/feed/72571105",
-      "image": "http://image.coolapk.com/feed/2026/0629/11/4248714_43a21795_2091_4834_563@1500x2667.jpg",
-      "summary": "【OPPO Reno16「半夏青」新色亮相，将于7月3日上市】 12GB+256GB —— 3499元 12GB+512GB —— 3999元 16GB+512GB —— 4299元 ▫️3D冰透悬浮工艺后盖 ▫️2亿 HP5主摄｜金属中框 ▫️天玑8550 SUPER 处理器 ▫️6.32\"1.5K OLED直屏 ▫️6700mAh+80W有线 #今日热…",
-      "tags": [
-        "OPPO",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
-      "id": "auto-d4b1c87919a4",
-      "title": "消息称某厂 2nm 中杯工程机电池为 7200mAh±，预计为小米 18",
-      "source": "IT之家",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-29",
-      "time": "02:50",
-      "publishedAt": "2026-06-29T02:50:42.000Z",
-      "url": "https://www.ithome.com/0/969/811.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/6/7c047ac6-0f4e-49bf-af81-420e7fa6ce7b.png?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 6 月 29 日消息，博主 @数码闲聊站 今日爆料，某厂 2nm 中杯工程机电池容量为 7200mAh±。结合该博主此前的爆料习惯，预计这款新机为小米 18。 IT之家注意到，该博主此前曾带来某厂“母系中杯”新机的最新消息，同样被认为是小米 18 标准版。据其爆料，这款新机没有大杯同款显示新技术，但有同款超清显示、同款极窄四等边、同款 2nm 旗…",
-      "tags": [
-        "Xiaomi",
         "爆料",
         "自动抓取"
       ]
@@ -242,86 +442,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-0449273565af",
-      "title": "iQOO Z11i 手机 7 月 3 日开售：青峰、沙漠金、墨影配色，水滴屏设计",
-      "source": "IT之家",
-      "brand": "vivo",
-      "model": "vivo 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-29",
-      "time": "02:12",
-      "publishedAt": "2026-06-29T02:12:14.000Z",
-      "url": "https://www.ithome.com/0/969/795.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/6/d6bf088e-ba73-4779-9281-b01e1f949545.jpg?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 6 月 29 日消息，iQOO 今日宣布，Z 系列家族新成员 iQOO Z11 i 已开启预约，7 月 3 日 10 点正式开售。 官方此前已公布这款新机的三款配色，分别为 青峰、沙漠金、墨影 。从图上可以看到，这款新机背面采用双摄设计，正面采用水滴屏设计，但目前关于该机的具体规格暂不知悉。 IT之家注意到，目前，iQOO 已经推出 Z11x、Z…",
-      "tags": [
-        "vivo",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-bef6ddd4ebc6",
-      "title": "小米 REDMI K90 至尊版天际蓝配色公布，明日发布",
-      "source": "IT之家",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-29",
-      "time": "01:15",
-      "publishedAt": "2026-06-29T01:15:36.000Z",
-      "url": "https://www.ithome.com/0/969/756.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/6/3947e225-2da0-44a6-97d7-f50e04cf9865.jpg",
-      "summary": "IT之家 6 月 29 日消息，小米今日公布 REDMI K90 至尊版天际蓝配色，新机将于 6 月 30 日晚 7 点发布。据介绍，这款配色采用低饱和蓝色，流转金属光泽，平整金属 Deco。 根据此前官方预热，REDMI K90 至尊版手机还将提供「太空银」配色，采用银色金属机身设计，配备 6.83 英寸极窄边 + 大 R 角设计直屏，辅以铝合金 CNC…",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "weibo-6a9fade7b8f1",
-      "title": "数码闲聊站：独家信息：PM工程机是6.85\"±2K+144Hz LTPO，开模用了Lipo…",
-      "source": "数码闲聊站",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-06-29",
-      "time": "01:02",
-      "publishedAt": "2026-06-29T01:02:38.000Z",
-      "url": "https://weibo.com/6048569942/R6k2Q9LNA",
-      "image": "",
-      "summary": "独家信息，PM工程机是6.85\"±2K+144Hz LTPO，开模用了Lipo技术，理论是极窄四等边，大R角形态，2.5D直屏，工程机是BOE方案[笑哈哈]",
-      "tags": [
-        "行业",
-        "爆料",
-        "微博"
-      ]
-    },
-    {
-      "id": "auto-734f76c7b7ca",
-      "title": "海外用户 5 年后辣评谷歌 Pixel 6 手机：第一代 Tensor 芯片实在太糟、各种小 Bug 不断，以后再也不买",
-      "source": "IT之家",
-      "brand": "Pixel",
-      "model": "Pixel 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-29",
-      "time": "00:16",
-      "publishedAt": "2026-06-29T00:16:53.000Z",
-      "url": "https://www.ithome.com/0/969/744.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/6/8858bdd2-5036-4710-b1d3-64b5825115b1.jpg?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 6 月 29 日消息，Reddit 网友“ PresentSpecific5666 ”今天发布长文，对 5 年前的谷歌 Pixel 6 手机做出辛辣点评，直言“以后再也不会选购”。 这名用户表示，他和他的妻子都是在 Sprint 并入 T-Mobile 时免费拿到 Pixel 6 手机，当时他心想：“反正这手机是免费的，也没什么好抱怨的”。然而就…",
-      "tags": [
-        "Pixel",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-9bbf43c61c96",
       "title": "Apple announces changes to iOS in Brazil",
       "source": "Apple Newsroom",
@@ -339,26 +459,6 @@ window.phoneRadarAuto = {
         "iPhone",
         "官方",
         "自动抓取"
-      ]
-    },
-    {
-      "id": "newsnow-5d21c4991f58",
-      "title": "iPhone 17系列中国区最新销量曝光：已超3558万台",
-      "source": "酷安热榜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-06-29",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72561663",
-      "image": "",
-      "summary": "iPhone 17系列中国区最新销量曝光：已超3558万台",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "NewsNow"
       ]
     },
     {
@@ -382,22 +482,62 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-bd84ba53e6cd",
-      "title": "湖南一学校当众砸毁上百部手机，称没收多年无人认领，目的是警示学生，如何看待这一做法？能起到警示作用吗？",
-      "source": "知乎热榜",
+      "id": "newsnow-5d21c4991f58",
+      "title": "iPhone 17系列中国区最新销量曝光：已超3558万台",
+      "source": "酷安热榜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-06-29",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/72561663",
+      "image": "",
+      "summary": "iPhone 17系列中国区最新销量曝光：已超3558万台",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-787de1741da9",
+      "title": "苹果2027年手机产品线曝光：第二代阔折叠等",
+      "source": "酷安热榜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-06-29",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/72571989",
+      "image": "",
+      "summary": "苹果2027年手机产品线曝光：第二代阔折叠等",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-4dc7458be2ad",
+      "title": "“手机痴呆症”盯上中青年",
+      "source": "百度热搜",
       "brand": "行业",
       "model": "智能手机市场",
-      "type": "市场报告",
+      "type": "爆料",
       "trust": "媒体汇总",
       "date": "2026-06-29",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.zhihu.com/question/2053888509925124063",
+      "url": "https://www.baidu.com/s?wd=%E2%80%9C%E6%89%8B%E6%9C%BA%E7%97%B4%E5%91%86%E7%97%87%E2%80%9D%E7%9B%AF%E4%B8%8A%E4%B8%AD%E9%9D%92%E5%B9%B4",
       "image": "",
-      "summary": "湖南一学校当众砸毁上百部手机，称没收多年无人认领，目的是警示学生，如何看待这一做法？能起到警示作用吗？",
+      "summary": "“手机痴呆症”盯上中青年",
       "tags": [
         "行业",
-        "市场报告",
+        "爆料",
         "NewsNow"
       ]
     },
