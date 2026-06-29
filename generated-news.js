@@ -1,6 +1,246 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-06-29T11:23:24.254Z",
+  "updatedAt": "2026-06-29T16:10:10.321Z",
   "news": [
+    {
+      "id": "auto-5307f29b8e55",
+      "title": "Xiaomi 18 sees a battery upgrade rumor that's passable at best",
+      "source": "Android Central",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-06-29",
+      "time": "16:07",
+      "publishedAt": "2026-06-29T16:07:12.000Z",
+      "url": "https://www.androidcentral.com/phones/xiaomi/this-one-rumored-xiaomi-18-upgrade-is-passable-at-best-for-its-battery",
+      "image": "https://cdn.mos.cms.futurecdn.net/LthmhoVLw7tTYfoeG3HDyd-1280-80.jpg",
+      "summary": "Rumors discussed what the Xiaomi 18's battery could look like, and it might be a good thing for overseas parties.",
+      "tags": [
+        "Xiaomi",
+        "评测",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-7c67117c18bb",
+      "title": "竹本青：【百度地图上线荣耀 MagicOS 10 灵动胶囊】 ▫️转弯提示、路况变化、电子眼预警 ▫️临时切换应用，一览关…",
+      "source": "竹本青",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-06-29",
+      "time": "15:39",
+      "publishedAt": "2026-06-29T15:39:23.000Z",
+      "url": "https://www.coolapk.com/feed/72580730",
+      "image": "http://image.coolapk.com/feed/2026/0629/23/4248714_4f2e3d2e_7561_4797_560@1080x1440.jpg",
+      "summary": "【百度地图上线荣耀 MagicOS 10 灵动胶囊】 ▫️转弯提示、路况变化、电子眼预警 ▫️临时切换应用，一览关键信息 ▫️轻点胶囊，一键回到导航 #MagicOS10# #灵动胶囊# #今日热点#",
+      "tags": [
+        "HONOR",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-9ed374e1331f",
+      "title": "New Galaxy Z Fold 8 leak gives us a fresh look at its design",
+      "source": "SamMobile",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-29",
+      "time": "15:11",
+      "publishedAt": "2026-06-29T15:11:55.000Z",
+      "url": "https://www.sammobile.com/news/new-galaxy-z-fold-8-leak-gives-fresh-look-design/",
+      "image": "https://www.sammobile.com/wp-content/uploads/2026/06/Alleged-Samsung-Galaxy-Z-Fold-8-Case-01.jpeg",
+      "summary": "Samsung is expected to launch its next lineup of flagship smartphones with foldable displays on July 22, 2026, which is less than a month from now. It is said to have three device…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-2dd0013d72e4",
+      "title": "iPhone 18 Pro is Just a Few Months Away With These 10 New Features",
+      "source": "MacRumors",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-29",
+      "time": "15:05",
+      "publishedAt": "2026-06-29T15:05:12.000Z",
+      "url": "https://www.macrumors.com/2026/06/29/iphone-18-pro-has-10-rumored-features/",
+      "image": "https://images.macrumors.com/article-new/2026/04/Four-iPhone-18-Pro-Colors-Mock-Feature.jpg",
+      "summary": "The next-generation iPhone 18 Pro and iPhone 18 Pro Max are now just a few months away, and there are plenty of rumors about the devices. Apple is expected to unveil the iPhone 18…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-66b9c992cc9e",
+      "title": "Galaxy A27 hides a message: Samsung stopped chasing thinner phones",
+      "source": "SamMobile",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-29",
+      "time": "14:35",
+      "publishedAt": "2026-06-29T14:35:19.000Z",
+      "url": "https://www.sammobile.com/opinion/galaxy-a27-hides-a-message-samsung-stopped-chasing-thinner-phones/",
+      "image": "",
+      "summary": "Samsung has spent the past couple of years aggressively slimming down its phones. And it is not just standout devices like the Galaxy S25 Edge or the Galaxy Z TriFold that have pu…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-21dc994fdb62",
+      "title": "Leaker outlines iPhone lineup for next year, with six new models coming",
+      "source": "9to5Mac",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-29",
+      "time": "13:50",
+      "publishedAt": "2026-06-29T13:50:22.000Z",
+      "url": "https://9to5mac.com/2026/06/29/leaker-outlines-iphone-lineup-for-next-year-with-six-new-models-coming/",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/09/iphone-17-pro-max-cosmic-orange-fi-2.jpg?quality=82&strip=all&w=1600",
+      "summary": "Apple is rumored to have more new iPhones launching in 2027 than ever before, and a new post from leaker Digital Chat Station corroborates that. Here’s what he says is coming.",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-5c78dfd5be43",
+      "title": "First foldable iPhone could launch a month after the Galaxy Z Fold 8",
+      "source": "SamMobile",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-29",
+      "time": "13:14",
+      "publishedAt": "2026-06-29T13:14:26.000Z",
+      "url": "https://www.sammobile.com/news/first-foldable-iphone-launch-month-after-galaxy-z-fold-8/",
+      "image": "",
+      "summary": "It is widely reported that Samsung will hold an event on July 22, 2026, to unveil its next-generation foldable smartphones. Apple is also expected to enter the foldable smartphone…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-68728310fd94",
+      "title": "Confirmed: This highly-anticipated Galaxy Z Fold 8 rival is getting a global launch",
+      "source": "Android Authority",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-29",
+      "time": "12:53",
+      "publishedAt": "2026-06-29T12:53:12.000Z",
+      "url": "https://www.androidauthority.com/vivo-x-fold-6-global-launch-3682314/",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2026/06/vivo-X-Fold-6-official-image-weibo.jpg",
+      "summary": "One of the better Galaxy Z Fold 8 challengers is indeed getting a global release.",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-2045cc413d7b",
+      "title": "波兰联合美国 FBI 逮捕 SIM 卡置换攻击犯罪团伙，涉案金额约 500 万美元",
+      "source": "IT之家",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-29",
+      "time": "12:17",
+      "publishedAt": "2026-06-29T12:17:40.000Z",
+      "url": "https://www.ithome.com/0/970/182.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/6/8ea80da0-4691-4dac-9aca-f372b5463bac.jpg?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 6 月 29 日消息，波兰中央网络犯罪局发文，宣布联合美国 FBI 成功逮捕 4 名涉嫌实施 SIM Swap（SIM 卡置换攻击）的犯罪团伙成员。 IT之家注：所谓 SIM Swap，指的是攻击者非法将受害者的手机号码转移到自己控制的 SIM 卡或 eSIM 上，从而直接接管受害者的手机号。 参考警方通告，该团伙通过专业软件配合社会工程学手段，…",
+      "tags": [
+        "行业",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-59a1817cb768",
+      "title": "竹本青：【小米 17系列 最新总销量曝光：全系近545万台，Ultra约22.85万台】 小米 17系列 截至2026 W…",
+      "source": "竹本青",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-06-29",
+      "time": "12:11",
+      "publishedAt": "2026-06-29T12:11:25.000Z",
+      "url": "https://www.coolapk.com/feed/72577737",
+      "image": "http://image.coolapk.com/feed/2026/0629/20/4248714_9cb70ab5_5083_8607_539@2946x2814.jpg",
+      "summary": "【小米 17系列 最新总销量曝光：全系近545万台，Ultra约22.85万台】 小米 17系列 截至2026 W25 —— 约544.96万 截至2026 W24 —— 约531.72万 截至2026 W23 —— 约517.2万 截至2026 W22 —— 约508万 小米 17 Ultra 截至2026 W25 —— 约22.85万 截至2026 W…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-a779298c6381",
+      "title": "Leaked A20 Pro Image Hints at iPhone 18 Pro Performance Gains",
+      "source": "MacRumors",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-29",
+      "time": "11:57",
+      "publishedAt": "2026-06-29T11:57:34.000Z",
+      "url": "https://www.macrumors.com/2026/06/29/leaked-a20-pro-image-iphone-18-pro-performance/",
+      "image": "https://images.macrumors.com/article-new/2025/10/A20-Chip-Feature-2.jpg",
+      "summary": "An alleged image of the iPhone 18 Pro motherboard has leaked online, showing the A20 Pro chip will use a new packaging technology that should offer notable performance gains over…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-e6d3ef95629a",
+      "title": "Huawei Mate 90 series expected to launch in September",
+      "source": "Gizmochina",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-29",
+      "time": "11:28",
+      "publishedAt": "2026-06-29T11:28:18.000Z",
+      "url": "https://www.gizmochina.com/2026/06/29/huawei-mate-90-series-to-launch-in-september-earlier-than-usual-november-release/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/06/kv-pad-300x169.jpg?x44794",
+      "summary": "Huawei is playing its cards carefully in the competitive flagship smartphone market. Instead of putting all its weight behind one big launch, the company is spreading out its prem…",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-1c8e463259d5",
       "title": "Apple’s 2027 iPhone Lineup Leaks: iPhone Air 2, iPhone 18 Series, and iPhone 19 Pro Already in the Works",
@@ -142,26 +382,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-5d33cd91b002",
-      "title": "Samsung adds more camera suppliers for Galaxy Z Flip 8 and Z Fold 8 series",
-      "source": "SamMobile",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-29",
-      "time": "09:19",
-      "publishedAt": "2026-06-29T09:19:57.000Z",
-      "url": "https://www.sammobile.com/news/galaxy-z-flip-8-fold-8-ultra-more-camera-suppliers/",
-      "image": "",
-      "summary": "Samsung has reportedly optimized the camera supply chain for its upcoming foldable phones: the Galaxy Z Flip 8, Galaxy Z Fold 8, and Galaxy Z Fold 8 Ultra. All three phones now ha…",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "coolapk-user-13f85ba2ad05",
       "title": "竹本青：神牛透明取景相机 C100 正式发布：智能透明显示屏，199元起",
       "source": "竹本青",
@@ -179,46 +399,6 @@ window.phoneRadarAuto = {
         "行业",
         "爆料",
         "酷安博主"
-      ]
-    },
-    {
-      "id": "auto-3cc0021a890e",
-      "title": "七彩虹为英特尔 800 系主板推出内存增强模式，基准测试提升 10+ %",
-      "source": "IT之家",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-29",
-      "time": "08:51",
-      "publishedAt": "2026-06-29T08:51:32.000Z",
-      "url": "https://www.ithome.com/0/970/072.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/6/26f346bb-3c1f-4353-9d65-f857c4f97de8.jpg",
-      "summary": "IT之家 6 月 29 日消息，七彩虹今日宣布将为旗下部分英特尔 800 系主板推出内存增强模式 (COLORFUL Memory Tuning) 功能。 其 支持在 BIOS 内一键开启 ， 提供多档位优化设置选择 ，率先由 BATTLE-AX B860M-PLUS S WIFI7 V20 主板搭载。 ▲ BATTLE-AX B860M-PLUS S W…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-422541abc7c6",
-      "title": "Galaxy Z Fold 8 Ultra could bring display brightness upgrades",
-      "source": "SamMobile",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-29",
-      "time": "08:32",
-      "publishedAt": "2026-06-29T08:32:38.000Z",
-      "url": "https://www.sammobile.com/news/galaxy-z-fold-8-ultra-display-brightness-upgrades-rumor/",
-      "image": "",
-      "summary": "The most interesting of the three upcoming Samsung foldable phones is the Galaxy Z Fold 8, thanks to its wider form factor. However, the Galaxy Z Fold 8 Ultra will be the most fea…",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
       ]
     },
     {
@@ -462,6 +642,26 @@ window.phoneRadarAuto = {
       ]
     },
     {
+      "id": "newsnow-787de1741da9",
+      "title": "苹果2027年手机产品线曝光：第二代阔折叠等",
+      "source": "酷安热榜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-06-29",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/72571989",
+      "image": "",
+      "summary": "苹果2027年手机产品线曝光：第二代阔折叠等",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
       "id": "newsnow-a1b95d0b9198",
       "title": "5月国内手机市场份额曝光：华为苹果OPPO前三",
       "source": "酷安热榜",
@@ -502,41 +702,61 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-787de1741da9",
-      "title": "苹果2027年手机产品线曝光：第二代阔折叠等",
+      "id": "newsnow-72f84ac14f08",
+      "title": "REDMI K90至尊版「天际蓝」新配色亮相",
       "source": "酷安热榜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-06-29",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72571989",
+      "url": "https://www.coolapk.com/feed/72569870",
       "image": "",
-      "summary": "苹果2027年手机产品线曝光：第二代阔折叠等",
+      "summary": "REDMI K90至尊版「天际蓝」新配色亮相",
       "tags": [
-        "iPhone",
+        "Xiaomi",
         "爆料",
         "NewsNow"
       ]
     },
     {
-      "id": "newsnow-4dc7458be2ad",
-      "title": "“手机痴呆症”盯上中青年",
-      "source": "百度热搜",
-      "brand": "行业",
-      "model": "智能手机市场",
+      "id": "newsnow-986092bd3637",
+      "title": "拼多多百亿补贴买到二手机了，成都发货设备查找都没关[汗]#鸿蒙NEXT# #鸿蒙6#",
+      "source": "酷安热榜",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
       "type": "爆料",
-      "trust": "媒体汇总",
+      "trust": "高关注爆料源",
       "date": "2026-06-29",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.baidu.com/s?wd=%E2%80%9C%E6%89%8B%E6%9C%BA%E7%97%B4%E5%91%86%E7%97%87%E2%80%9D%E7%9B%AF%E4%B8%8A%E4%B8%AD%E9%9D%92%E5%B9%B4",
+      "url": "https://www.coolapk.com/feed/72561845",
       "image": "",
-      "summary": "“手机痴呆症”盯上中青年",
+      "summary": "拼多多百亿补贴买到二手机了，成都发货设备查找都没关[汗]#鸿蒙NEXT# #鸿蒙6#",
       "tags": [
-        "行业",
+        "Huawei",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-230f3049cf2a",
+      "title": "怕iPhone涨价的用户已紧急换新",
+      "source": "微博热搜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "待验证",
+      "date": "2026-06-29",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://s.weibo.com/weibo?q=%23%E6%80%95iPhone%E6%B6%A8%E4%BB%B7%E7%9A%84%E7%94%A8%E6%88%B7%E5%B7%B2%E7%B4%A7%E6%80%A5%E6%8D%A2%E6%96%B0%23&t=31&band_rank=20&Refer=top",
+      "image": "",
+      "summary": "怕iPhone涨价的用户已紧急换新",
+      "tags": [
+        "iPhone",
         "爆料",
         "NewsNow"
       ]
@@ -557,26 +777,6 @@ window.phoneRadarAuto = {
       "summary": "For years, compact smartphones have come with compromises. If you wanted a phone that was genuinely comfortable to use with one hand, you usually had to settle for a smaller batte…",
       "tags": [
         "vivo",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-e66602561dd3",
-      "title": "Vertu's Alphafold costs three times more than the Galaxy Z Fold7, but so far I can't see why",
-      "source": "Android Police",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-28",
-      "time": "13:00",
-      "publishedAt": "2026-06-28T13:00:10.000Z",
-      "url": "https://www.androidpolice.com/vertu-alphafold-three-times-price-galaxy-z-fold7-cant-see-why/",
-      "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2026/06/vertu-alphafold-hand.JPG",
-      "summary": "It's a nice foldable, but nicer than phones that cost $2,000?",
-      "tags": [
-        "Samsung",
         "爆料",
         "自动抓取"
       ]
@@ -617,26 +817,6 @@ window.phoneRadarAuto = {
       "summary": "Pixel software still makes all the difference.",
       "tags": [
         "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-b3878426a40c",
-      "title": "Galaxy Z Fold 8 wide to launch in July, 3 months after Huawei Pura X Max",
-      "source": "Huawei Central",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-28",
-      "time": "06:38",
-      "publishedAt": "2026-06-28T06:38:09.000Z",
-      "url": "https://www.huaweicentral.com/galaxy-z-fold-8-wide-to-launch-in-july-3-months-after-huawei-pura-x-max/",
-      "image": "https://www.huaweicentral.com/wp-content/uploads/2026/05/PuraXMax-image.jpg",
-      "summary": "Huawei was the first to unveil a wide-folding smartphone – Pura X Max, and Samsung is next in line to reveal its device in this segment with Galaxy Z Fold 8 wide. Recently, rumors…",
-      "tags": [
-        "Huawei",
         "爆料",
         "自动抓取"
       ]
