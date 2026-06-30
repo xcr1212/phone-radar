@@ -1,6 +1,106 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-06-30T20:18:15.137Z",
+  "updatedAt": "2026-06-30T23:37:37.591Z",
   "news": [
+    {
+      "id": "auto-caae8a4df1da",
+      "title": "IT早报 0701：寒武纪成科创板首支万亿市值股票；11.98~99 万元优必选超仿生人形机器人 U1 发布；小米 REDMI K90 至尊版手机发布；iPhone 18 工厂照首秀...",
+      "source": "IT之家",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-30",
+      "time": "23:30",
+      "publishedAt": "2026-06-30T23:30:32.000Z",
+      "url": "https://www.ithome.com/0/970/806.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/6/e5bb15fb-6749-4a22-92be-b8187b1cef64.jpg?x-bce-process=image/format,f_auto",
+      "summary": "“IT早报”时间，大家好，现在是 2026 年 7 月 1 日星期三，今天的重要科技资讯有： 1、科创板首支万亿市值股票诞生，寒武纪年初至今累计上涨 75% 算力芯片龙头寒武纪 6 月 30 日盘中涨幅扩大至 7%，成为科创板首支总市值突破 1 万亿个股，位居 A 股总市值第 9 位，该股年初至今累计上涨超 75%。>> 查看详情 2、11.98~99 万…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-3a21137ad76e",
+      "title": "Samsung hits restart with a viral marketing campaign ahead of the Galaxy Z Fold 8, Flip 8",
+      "source": "Android Central",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-06-30",
+      "time": "23:30",
+      "publishedAt": "2026-06-30T23:30:00.000Z",
+      "url": "https://www.androidcentral.com/phones/samsung-galaxy/samsung-hits-restart-with-a-cryptic-social-campaign-ahead-of-the-galaxy-z-fold-8-flip-8",
+      "image": "https://cdn.mos.cms.futurecdn.net/2kWuw6f5DH4oNFJTE2JBtS-1280-80.jpg",
+      "summary": "Samsung wiped the posts from its Instagram accounts as it launched a new social campaign for the Galaxy Z Flip 8 and the Fold 8.",
+      "tags": [
+        "Samsung",
+        "评测",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-64a1c00ea277",
+      "title": "Galaxy Z Fold 8 pre-Unpacked campaign starts with clever short videos, most featuring food",
+      "source": "SamMobile",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-30",
+      "time": "23:30",
+      "publishedAt": "2026-06-30T23:30:00.000Z",
+      "url": "https://www.sammobile.com/news/galaxy-z-fold-8-pre-unpacked-campaign-clever-short-videos/",
+      "image": "",
+      "summary": "Samsung is gearing up for its next big launch event of the year, and what better way to build hype than with a few pre-launch teasers? The company has released a series of playful…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-cc53380d9110",
+      "title": "苹果 iPhone 18 Pro / Max 爆料：自研 C2 基带、支持 eSIM、主摄升级索尼 IMX905",
+      "source": "IT之家",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-30",
+      "time": "23:21",
+      "publishedAt": "2026-06-30T23:21:51.000Z",
+      "url": "https://www.ithome.com/0/970/803.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/7/55f9521b-6598-4471-9a70-5318fc3b6221.jpg?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 7 月 1 日消息，科技媒体 AppleInsider 昨日（6 月 30 日）发布博文，进一步挖掘从塔塔电子流出的文件， 发现更多关于 iPhone 18 Pro 和 iPhone 18 Pro Max 两款机型的细节。 基带方面，消息称基于披露文件内容，苹果公司计划分区域部署 iPhone 基带。在美国市场由于需要支持 mmWave 毫米波，…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-708c21398dd4",
+      "title": "This iconic iPhone design will get closer to retirement with iPhone 18 Pro",
+      "source": "9to5Mac",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-30",
+      "time": "20:22",
+      "publishedAt": "2026-06-30T20:22:58.000Z",
+      "url": "https://9to5mac.com/2026/06/30/this-iconic-iphone-design-will-get-closer-to-retirement-with-iphone-18-pro/",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/01/iphone-18-pro-smaller-dynamic-island.jpg?quality=82&strip=all&w=1600",
+      "summary": "Almost a decade ago, Apple introduced the iPhone X with what became an iconic design trait: the notch cutout. And this fall with iPhone 18 Pro , what’s now called the Dynamic Isla…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-24fe33a50ecd",
       "title": "Galaxy Z Fold 8 series camera details leak, but they don’t sound very ‘Ultra’",
@@ -77,26 +177,6 @@ window.phoneRadarAuto = {
       "summary": "This leak may have just exposed the Galaxy Z Fold 8's specs.",
       "tags": [
         "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-4fcbc168b708",
-      "title": "Xbox weighs canceling Blade game and shuttering Arkane",
-      "source": "The Verge",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-30",
-      "time": "16:38",
-      "publishedAt": "2026-06-30T16:38:18.000Z",
-      "url": "https://www.theverge.com/report/959467/microsoft-xbox-cancel-blade-game-arkane-studios-closure",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/yXT9Lzrt7E8-HD.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "summary": "Microsoft is set to announce a wave of layoffs for its Xbox studios and employees next week. Sources familiar with Microsoft's plans tell The Verge that the layoffs will lead to s…",
-      "tags": [
-        "iPhone",
         "爆料",
         "自动抓取"
       ]
@@ -479,26 +559,6 @@ window.phoneRadarAuto = {
         "Xiaomi",
         "爆料",
         "微博"
-      ]
-    },
-    {
-      "id": "auto-a65c2da47268",
-      "title": "小米 REDMI K90 至尊版手机性能铁三角公开：骁龙 8 至尊版 + 独显芯片 D2 + 满血存储",
-      "source": "IT之家",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-30",
-      "time": "11:12",
-      "publishedAt": "2026-06-30T11:12:50.000Z",
-      "url": "https://www.ithome.com/0/970/725.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/6/6b8a6055-2229-4a3e-9cc3-2321938c284e.jpg?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 6 月 30 日消息，在今晚的 REDMI K90 至尊版手机发布会上，小米中国区市场部总经理魏思琪公开了新机的性能铁三角： 骁龙 8 至尊版处理器 + 独显芯片 D2 + 满血存储（LPDDR5XUltra+UFS4.1） 。 另外，REDMI K90 至尊版手机还搭载 K90 Max 同款风冷散热，拥有同款大尺寸风扇，同款涡流风道，直立式进风…",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "自动抓取"
       ]
     },
     {
@@ -962,7 +1022,7 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-e9a4bebc715d",
+      "id": "newsnow-43f8ab0da8b3",
       "title": "iPhone18Pro遭泄密",
       "source": "微博热搜",
       "brand": "iPhone",
@@ -972,7 +1032,7 @@ window.phoneRadarAuto = {
       "date": "2026-06-30",
       "time": "",
       "publishedAt": "",
-      "url": "https://s.weibo.com/weibo?q=%23iPhone18Pro%E9%81%AD%E6%B3%84%E5%AF%86%23&t=31&band_rank=19&Refer=top",
+      "url": "https://s.weibo.com/weibo?q=%23iPhone18Pro%E9%81%AD%E6%B3%84%E5%AF%86%23&t=31&band_rank=10&Refer=top",
       "image": "",
       "summary": "iPhone18Pro遭泄密",
       "tags": [
@@ -1075,26 +1135,6 @@ window.phoneRadarAuto = {
       "url": "https://9to5mac.com/2026/06/29/iphone-18-pro-drop-tests-dark-web/",
       "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/04/iphone-18-pro-colors.jpg?quality=82&strip=all&w=1600",
       "summary": "Last week, it transpired that Apple supplier Tata Electronics had been the subject of a data breach , with hundreds of gigabytes of files leaking online. While the files include a…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-b1749671e453",
-      "title": "Apple 'Concerned' Over iPhone 18 Pro Data Leak From Supplier Tata",
-      "source": "MacRumors",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-29",
-      "time": "18:46",
-      "publishedAt": "2026-06-29T18:46:01.000Z",
-      "url": "https://www.macrumors.com/2026/06/29/apple-tata-leak-iphone-18-pro/",
-      "image": "https://images.macrumors.com/article-new/2026/02/iPhone-18-Pro-Deep-Red-Feature.jpg",
-      "summary": "Apple is \"concerned\" about a recent data leak from Tata Electronics, one of its manufacturing partners in India, reports Reuters . Tata Electronics was the target of a cyberattack…",
       "tags": [
         "iPhone",
         "爆料",
@@ -1377,26 +1417,6 @@ window.phoneRadarAuto = {
       "summary": "Tipster Digital Chat Station has shared that the Xiaomi 18 engineering prototype is running a 7,200mAh battery. That’s a slight increase from the Xiaomi 17‘s 7,000mAh cell. For a…",
       "tags": [
         "Xiaomi",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-e368dd0d511d",
-      "title": "Vivo X500 series leak reveals four models; X500 Pro Max tipped to pack LPDDR6 RAM",
-      "source": "Gizmochina",
-      "brand": "vivo",
-      "model": "vivo 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-29",
-      "time": "04:04",
-      "publishedAt": "2026-06-29T04:04:40.000Z",
-      "url": "https://www.gizmochina.com/2026/06/29/vivo-x500-series-four-models-x500-pro-max-display-lpddr6-battery-leak/",
-      "image": "https://www.gizmochina.com/wp-content/uploads/2025/12/Vivo-X300-Pro-1-300x188.png?x44794",
-      "summary": "Over the weekend, tipster Digital Chat Station revealed key details about the upcoming Vivo X500e. Now, a new leak courtesy of tipster Smart Pikachu suggests that the lineup will…",
-      "tags": [
-        "vivo",
         "爆料",
         "自动抓取"
       ]

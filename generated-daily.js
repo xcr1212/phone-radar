@@ -1,12 +1,12 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-06-30T20:18:15.137Z",
+  "updatedAt": "2026-06-30T23:37:37.591Z",
   "issueDate": "2026-06-30",
   "issue": "VOL.260630",
   "title": "手机情报日报",
-  "intro": "今日筛出 12 条重点，其中 8 条是重点爆料，包含 11 条 iPhone 相关、1 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 12 条重点，其中 8 条是重点爆料，包含 12 条 iPhone 相关、1 条官方确认、0 条参数线索。",
   "stats": {
     "total": 12,
-    "iphone": 11,
+    "iphone": 12,
     "leaks": 8,
     "official": 1,
     "specs": 0
@@ -36,6 +36,29 @@ window.phoneRadarDaily = {
           "keyPoints": [
             "外观 / 配色 / 尺寸",
             "影像硬件",
+            "爆料来源"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "auto-cc53380d9110",
+          "title": "苹果 iPhone 18 Pro / Max 爆料：自研 C2 基带、支持 eSIM、主摄升级索尼 IMX905",
+          "originalTitle": "",
+          "source": "IT之家",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-06-30",
+          "time": "23:21",
+          "publishedAt": "2026-06-30T23:21:51.000Z",
+          "url": "https://www.ithome.com/0/970/803.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/7/55f9521b-6598-4471-9a70-5318fc3b6221.jpg?x-bce-process=image/format,f_auto",
+          "verdict": "先看",
+          "takeaway": "IT之家 7 月 1 日消息，科技媒体 AppleInsider 昨日（6 月 30 日）发布博文，进一步挖掘从塔塔电子流出的文件， 发现更多关于 iPhone 18 Pro 和 iPhone 18 Pro Max 两款机型的细节。 基带方面，消息称基于披露文件内容，苹果公司计划分区域部署 iPhone 基带。在美国市场由于需要支持 mmWave 毫米波，…",
+          "detail": "IT之家 7 月 1 日消息，科技媒体 AppleInsider 昨日（6 月 30 日）发布博文，进一步挖掘从塔塔电子流出的文件， 发现更多关于 iPhone 18 Pro 和 iPhone 18 Pro Max 两款机型的细节。 基带方面，消息称基于披露文件内容，苹果公司计划分区域部署 iPhone 基带。在美国市场由于需要支持 mmWave 毫米波，…",
+          "keyPoints": [
             "爆料来源"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
@@ -137,25 +160,25 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
-          "id": "auto-b1749671e453",
+          "id": "auto-21dc994fdb62",
           "title": "iPhone 相关消息",
           "originalTitle": "",
-          "source": "MacRumors",
+          "source": "9to5Mac",
           "brand": "iPhone",
           "type": "爆料",
           "trust": "媒体汇总",
           "date": "2026-06-29",
-          "time": "18:46",
-          "publishedAt": "2026-06-29T18:46:01.000Z",
-          "url": "https://www.macrumors.com/2026/06/29/apple-tata-leak-iphone-18-pro/",
-          "image": "https://images.macrumors.com/article-new/2026/02/iPhone-18-Pro-Deep-Red-Feature.jpg",
+          "time": "13:50",
+          "publishedAt": "2026-06-29T13:50:22.000Z",
+          "url": "https://9to5mac.com/2026/06/29/leaker-outlines-iphone-lineup-for-next-year-with-six-new-models-coming/",
+          "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/09/iphone-17-pro-max-cosmic-orange-fi-2.jpg?quality=82&strip=all&w=1600",
           "verdict": "先看",
           "takeaway": "iPhone 相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
           "detail": "iPhone 相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
           "keyPoints": [
             "爆料来源"
           ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
@@ -179,30 +202,6 @@ window.phoneRadarDaily = {
             "爆料来源"
           ],
           "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "auto-a65c2da47268",
-          "title": "小米 REDMI K90 至尊版手机性能铁三角公开：骁龙 8 至尊版 + 独显芯片 D2 + 满血存储",
-          "originalTitle": "",
-          "source": "IT之家",
-          "brand": "Xiaomi",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-06-30",
-          "time": "11:12",
-          "publishedAt": "2026-06-30T11:12:50.000Z",
-          "url": "https://www.ithome.com/0/970/725.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/6/6b8a6055-2229-4a3e-9cc3-2321938c284e.jpg?x-bce-process=image/format,f_auto",
-          "verdict": "先看",
-          "takeaway": "IT之家 6 月 30 日消息，在今晚的 REDMI K90 至尊版手机发布会上，小米中国区市场部总经理魏思琪公开了新机的性能铁三角： 骁龙 8 至尊版处理器 + 独显芯片 D2 + 满血存储（LPDDR5XUltra+UFS4.1） 。 另外，REDMI K90 至尊版手机还搭载 K90 Max 同款风冷散热，拥有同款大尺寸风扇，同款涡流风道，直立式进风…",
-          "detail": "IT之家 6 月 30 日消息，在今晚的 REDMI K90 至尊版手机发布会上，小米中国区市场部总经理魏思琪公开了新机的性能铁三角： 骁龙 8 至尊版处理器 + 独显芯片 D2 + 满血存储（LPDDR5XUltra+UFS4.1） 。 另外，REDMI K90 至尊版手机还搭载 K90 Max 同款风冷散热，拥有同款大尺寸风扇，同款涡流风道，直立式进风…",
-          "keyPoints": [
-            "外观 / 配色 / 尺寸",
-            "芯片 / 性能"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         }
