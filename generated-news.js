@@ -1,60 +1,20 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-06-30T04:33:31.345Z",
+  "updatedAt": "2026-06-30T10:00:07.103Z",
   "news": [
     {
-      "id": "coolapk-user-ade7f896ae9d",
-      "title": "竹本青：【一加 15 开启第二轮涨价：5099元起，全版本累计上涨1100元】 12+256GB —— 5099元 (较发…",
-      "source": "竹本青",
-      "brand": "OPPO",
-      "model": "OPPO 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-06-30",
-      "time": "04:02",
-      "publishedAt": "2026-06-30T04:02:57.000Z",
-      "url": "https://www.coolapk.com/feed/72585712",
-      "image": "http://image.coolapk.com/feed/2026/0630/12/4248714_54daca87_2522_4226_857@1398x1129.png",
-      "summary": "【一加 15 开启第二轮涨价：5099元起，全版本累计上涨1100元】 12+256GB —— 5099元 (较发售价↑1100元） 16+256GB —— 5399元 (较发售价↑1100元） 12+512GB —— 5699元 (较发售价↑1100元） 16+512GB —— 5999元 (较发售价↑1100元） 16+1TB —— 6499元 (较发…",
-      "tags": [
-        "OPPO",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
-      "id": "auto-c6da5e38550c",
-      "title": "一加 15 系列手机迎来第二轮调价：累计已上涨 1100 元，现价 5099~6499 元",
-      "source": "IT之家",
-      "brand": "OPPO",
-      "model": "OPPO 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-30",
-      "time": "03:50",
-      "publishedAt": "2026-06-30T03:50:38.000Z",
-      "url": "https://www.ithome.com/0/970/424.htm",
-      "image": "https://img14.360buyimg.com/pop/jfs/t1/468016/18/6720/99882/6a424adfF4d8ebad9/00837d07d054f0c9.jpg",
-      "summary": "IT之家 6 月 30 日消息， 一加 15 系列手机今日迎来第二轮官方调价，现价 5099~6499 元，同时可领 1100 元以旧换新折扣券。 12+256GB 版本：3999 → 5099 元 16+256GB 版本：4299 → 5399 元 12+512GB 版本：4599 → 5699 元 16+512GB 版本：4899 → 5999 元 1…",
-      "tags": [
-        "OPPO",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-e7d898e3f335",
-      "title": "Galaxy Z Fold 8 specifications get leaked by a reliable tipster",
+      "id": "auto-d1368c54a660",
+      "title": "Galaxy S27 may use Samsung Display OLED after BOE deal collapses",
       "source": "SamMobile",
       "brand": "Samsung",
       "model": "Samsung 相关机型",
       "type": "爆料",
       "trust": "媒体汇总",
       "date": "2026-06-30",
-      "time": "03:23",
-      "publishedAt": "2026-06-30T03:23:18.000Z",
-      "url": "https://www.sammobile.com/news/galaxy-z-fold-8-specifications-leaked-reliable-tipster/",
+      "time": "09:46",
+      "publishedAt": "2026-06-30T09:46:41.000Z",
+      "url": "https://www.sammobile.com/news/galaxy-s27-may-use-samsung-display-oled-after-boe-deal-collapses/",
       "image": "",
-      "summary": "Most of the specifications of Samsung’s upcoming foldable phones have leaked over the past couple of months. Now, a tipster with an extremely reliable track record has revealed th…",
+      "summary": "For years now, Samsung has been sourcing OLED displays for its Galaxy S smartphones exclusively from one of its subsidiaries, Samsung Display. However, last month, a report claime…",
       "tags": [
         "Samsung",
         "爆料",
@@ -62,61 +22,341 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "coolapk-user-9d75c1988795",
-      "title": "竹本青：中兴畅行70 Plus 开售：900P LCD高刷屏+紫光展锐 T8300，1999元起",
+      "id": "auto-9e499b91e793",
+      "title": "iQOO 15R Long-Term Review: Four Months Later, Is It Still Worth Buying?",
+      "source": "Gizmochina",
+      "brand": "vivo",
+      "model": "vivo 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-30",
+      "time": "09:44",
+      "publishedAt": "2026-06-30T09:44:23.000Z",
+      "url": "https://www.gizmochina.com/2026/06/30/iqoo-15r-review/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/06/iQOO-15R-3--300x225.jpg?x44794",
+      "summary": "Most smartphone reviews are written within a week or two of a phone’s launch, when everything still feels fresh. But that’s rarely how people use their phones. A smartphone is som…",
+      "tags": [
+        "vivo",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-c6f13b399d53",
+      "title": "Oppo Bubble selfie screen now works with iPhones",
+      "source": "Gizmochina",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-30",
+      "time": "09:30",
+      "publishedAt": "2026-06-30T09:30:26.000Z",
+      "url": "https://www.gizmochina.com/2026/06/30/oppo-bubble-selfie-screen-now-works-with-iphones/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/06/images-stick-stick-1-main.mo-1-1e4218.png-300x169.jpg?x44794",
+      "summary": "Oppo is expanding its quirky Bubble selfie screen to iPhone users, giving people a stylish new way to take better photos and add some personality to their phones. Originally launc…",
+      "tags": [
+        "OPPO",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-1ee00f950bc0",
+      "title": "Should You Wait to Upgrade from Pixel 10 to Pixel 11?",
+      "source": "Gizmochina",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-30",
+      "time": "09:29",
+      "publishedAt": "2026-06-30T09:29:14.000Z",
+      "url": "https://www.gizmochina.com/2026/06/30/should-you-wait-to-upgrade-from-pixel-10-to-pixel-11/",
+      "image": "",
+      "summary": "It is a familiar situation for anyone in the market for a new smartphone: do you buy the current model available today, or do you wait a few months for the next version? Right now…",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-2fc883985e34",
+      "title": "竹本青：【小米集团开通「小米辟谣」账号：官方辟谣阵地，将深入参与网络谣言澄清】 6月30日，小米集团在中央网信办违法和不良…",
       "source": "竹本青",
-      "brand": "行业",
-      "model": "智能手机市场",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
       "type": "爆料",
       "trust": "高可信爆料",
       "date": "2026-06-30",
-      "time": "03:12",
-      "publishedAt": "2026-06-30T03:12:40.000Z",
-      "url": "https://www.coolapk.com/feed/72585065",
-      "image": "http://image.coolapk.com/feed/2026/0630/11/4248714_3e50a391_9156_8728_59@1440x810.jpg",
-      "summary": "【中兴畅行70 Plus 现已开售：900P LCD高刷屏+紫光展锐 T8300，1999元起】 8GB+128GB —— 1999元 8GB+256GB —— 2099元 ● 中国移动 × 中兴通讯携手打造 ● 紫光展锐 T8300处理器 ● 6.75\" 900P 120Hz LCD屏 ● 6050mAh电池+45W快充 ● 灵犀2.0 全场景智能体 ●…",
+      "time": "09:14",
+      "publishedAt": "2026-06-30T09:14:51.000Z",
+      "url": "https://www.coolapk.com/feed/72589633",
+      "image": "http://image.coolapk.com/feed/2026/0630/17/4248714_f84a3f51_0889_2139_805@1439x881.jpg",
+      "summary": "【小米集团开通「小米辟谣」账号：官方辟谣阵地，将深入参与网络谣言澄清】 6月30日，小米集团在中央网信办违法和不良信息举报中心指导下，正式上线官方辟谣账号「小米辟谣」。 目前，「小米辟谣」已正式开通官方微博，大众可通过该账号核实并查阅小米的辟谣声明，反馈有关小米的各类谣言线索。 未来，小米也将通过「小米辟谣」持续与各方互动，持续使用法律武器维护公司合法商誉…",
       "tags": [
-        "行业",
+        "Xiaomi",
         "爆料",
         "酷安博主"
       ]
     },
     {
-      "id": "auto-2861f24bdfe1",
-      "title": "OPPO ColorOS 小布助手接入微信，一句话发消息、打电话",
+      "id": "auto-56e851bd1147",
+      "title": "苹果涨价后很贵，但以后的 iPhone 可能会更贵",
+      "source": "爱范儿",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-06-30",
+      "time": "09:00",
+      "publishedAt": "2026-06-30T09:00:05.000Z",
+      "url": "https://www.ifanr.com/1670412?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "image": "https://s3.ifanr.com/wp-content/uploads/2026/06/cover-1-1024x561.png",
+      "summary": "这次，等等党等不来胜利",
+      "tags": [
+        "iPhone",
+        "评测",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-ef546032abe5",
+      "title": "2026 苹果最抢手颜色：樱桃红 iPhone 18 Pro 测试照片流出",
       "source": "IT之家",
-      "brand": "HONOR",
-      "model": "HONOR 相关机型",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
       "type": "爆料",
       "trust": "媒体汇总",
       "date": "2026-06-30",
-      "time": "03:02",
-      "publishedAt": "2026-06-30T03:02:00.000Z",
-      "url": "https://www.ithome.com/0/970/331.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/6/1d78cb69-d05c-4abf-aaaa-eecde7b5462b.png",
-      "summary": "IT之家 6 月 30 日消息，OPPO ColorOS 今日官宣， 小布助手接入微信 A2A（Agent-to-Agent） ，带来一句话 发消息、打电话的能力。 用户可以语音唤醒小布助手， 自动打开微信给联系人发消息、打微信电话 ，重名的联系人也可以确认后再发送。 据IT之家此前报道，微信正在与华为、荣耀、小米、OPPO、vivo 等手机厂商合作推出…",
+      "time": "08:26",
+      "publishedAt": "2026-06-30T08:26:25.000Z",
+      "url": "https://www.ithome.com/0/970/596.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/6/a223eeb8-49ca-41de-84c9-a97811487c47.png",
+      "summary": "IT之家 6 月 30 日消息，消息源 @earlyappleleaks 今天（6 月 30 日）在 X 平台发布推文，分享了一段从印度塔塔电子泄露的视频， 展示了正在测试的樱桃红 iPhone 18 Pro，预估上市后成为 2026 最抢手颜色。 和 今早曝光的 iPhone 18 Pro 跌落测试 类似，本次曝光的樱桃红 iPhone 18 Pro 处…",
       "tags": [
-        "HONOR",
+        "iPhone",
         "爆料",
         "自动抓取"
       ]
     },
     {
-      "id": "auto-cb858127b989",
-      "title": "三星 Galaxy Z Fold8 Ultra 折叠手机影像规格曝光：升级 5000 万像素超广角",
+      "id": "auto-7770bec737fb",
+      "title": "小米 REDMI K90 至尊版手机完整规格曝光：6.83 英寸 1.5K 165Hz 直屏、8550mAh 电池...",
       "source": "IT之家",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-30",
+      "time": "08:19",
+      "publishedAt": "2026-06-30T08:19:08.000Z",
+      "url": "https://www.ithome.com/0/970/592.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/6/d904baec-11b6-4b0b-8368-70ed7e6be28a.jpg?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 6 月 30 日消息，博主 @数码闲聊站 现已曝光了小米 REDMI K90 至尊版手机的规格信息，IT之家综合官方预热，整理该机具体参数如下。 该机可选天际蓝、太空银等配色，拥有 IP68/IP69 认证，正面配备一块 6.83 英寸 M10 基材 1.5K 分辨率 165Hz 直屏（3500nits 峰值亮度），匹配大 R 角设计，手机使用铝…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-45403c3f836c",
+      "title": "Vivo X Fold 6 vs Google Pixel 10 Pro Fold: The Winner May Surprise You",
+      "source": "Gizmochina",
+      "brand": "vivo",
+      "model": "vivo 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-30",
+      "time": "08:12",
+      "publishedAt": "2026-06-30T08:12:56.000Z",
+      "url": "https://www.gizmochina.com/2026/06/30/vivo-x-fold-6-vs-google-pixel-10-pro-fold/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/06/image-174-300x195.png?x44794",
+      "summary": "Foldable smartphones have reached a point where buyers expect flagship performance, premium cameras, long battery life, and durable designs without compromise. The Vivo X Fold 6 a…",
+      "tags": [
+        "vivo",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-a74bbfafb8c9",
+      "title": "Future Galaxy phones could get Qi2 50W wireless charging",
+      "source": "SamMobile",
       "brand": "Samsung",
       "model": "Samsung 相关机型",
       "type": "爆料",
       "trust": "媒体汇总",
       "date": "2026-06-30",
-      "time": "02:42",
-      "publishedAt": "2026-06-30T02:42:51.000Z",
-      "url": "https://www.ithome.com/0/970/313.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/6/317f262d-bf5f-4db3-9c64-acf8f54f0320.png?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 6 月 30 日消息，韩媒 Sisa Journal 昨日（6 月 29 日）发布博文，分享了 三星 Galaxy Z Flip8、Galaxy Z Fold8（宽折叠手机）、Galaxy Z Fold8 Ultra（Fold7 继任者）三款折叠手机的影像规格。 IT之家援引博文介绍，Galaxy Z Fold8 Ultra 影像方面最大的亮点，…",
+      "time": "08:01",
+      "publishedAt": "2026-06-30T08:01:43.000Z",
+      "url": "https://www.sammobile.com/news/future-galaxy-phones-qi2-50w-wireless-charging/",
+      "image": "https://www.sammobile.com/wp-content/uploads/2025/01/Samsung-S2MIW06-PMIC-Fast-Wireless-Charging-Chip.jpg",
+      "summary": "Samsung is moving toward faster magnetic wireless charging for its phones. Currently, the Galaxy S26 Ultra is the company’s fastest wireless charging phone, featuring 25W wireless…",
       "tags": [
         "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-4786f999bfd9",
+      "title": "Leaked iPhone 18 Pro photos reportedly wound up on the dark web",
+      "source": "The Verge",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-30",
+      "time": "07:42",
+      "publishedAt": "2026-06-30T07:42:16.000Z",
+      "url": "https://www.theverge.com/tech/959229/iphone-18-pro-leak-apple-dark-web",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/DSC02122.webp?quality=90&strip=all&crop=0,0,100,100",
+      "summary": "Leaked iPhone 18 Pro photos and parts lists appeared on the dark web following a data breach affecting one of Apple's key suppliers, according to a report from Reuters. The leaked…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-56df9137f7a3",
+      "title": "消息称苹果 iPhone 18 Pro 性能 / 散热大升级：不再是双层主板夹 SoC、A20 Pro 有望采用 WMCM 封装",
+      "source": "IT之家",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-30",
+      "time": "07:39",
+      "publishedAt": "2026-06-30T07:39:22.000Z",
+      "url": "https://www.ithome.com/0/970/575.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/6/df34ba2f-f0dc-43cd-9808-1548943052d2.jpg",
+      "summary": "IT之家 6 月 30 日消息，博主 @数码闲聊站 援引苹果 iPhone 18 Pro 系列手机泄露视频，透露今年系列手机不再是双层主板夹 SoC，在散热方面迎来大升级；同时 A20 Pro 芯片“疑似是 WMCM 封装”，可令系列手机性能体验迎来明显升级。 除此之外，该博主还在评论区透露 iPhone 18 Pro 系列手机摄像头传感器升级不大，主要是…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-102a3d4c3320",
+      "title": "英国监管机构拟针对苹果谷歌出台新规：开放平台外支付与 iOS NFC 功能",
+      "source": "IT之家",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-30",
+      "time": "07:34",
+      "publishedAt": "2026-06-30T07:34:21.000Z",
+      "url": "https://www.ithome.com/0/970/574.htm",
+      "image": "",
+      "summary": "IT之家 6 月 30 日消息，北京时间 30 日（今天）下午，英国政府通过官网发布公报，英国竞争与市场管理局（CMA）正就针对苹果和谷歌的新规征求意见。据IT之家了解，CMA 计划允许英国应用开发者 把用户引导至应用商店之外付款 ，不再受两大平台目前设置的限制。 苹果和谷歌的“引导”要求 所谓“引导”，是指开发者可以 直接向用户介绍应用商店之外的付款或服…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-0ab2fabb29b9",
+      "title": "一加 N6 手机海外发布：6.8 寸 720P LCD 屏、天玑 6360 Apex 芯片，起售价 22999 卢比",
+      "source": "IT之家",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-30",
+      "time": "07:33",
+      "publishedAt": "2026-06-30T07:33:58.000Z",
+      "url": "https://www.ithome.com/0/970/573.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/6/f4edf38b-2622-4245-af92-408b0cc98407.png?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 6 月 30 日消息，一加今天在印度推出 OnePlus N6 手机，新机定位入门级，主打大电池、耐用设计及氧 OS（OxygenOS）系统体验，7 月 4 日开售。 外观方面，这款手机提供薄荷绿、午夜黑两种配色， 正面配备一块 6.8 英寸 LCD 屏幕 ， 分辨率为 720P ，支持 120Hz 高刷，峰值亮度可达 1200nits。背面则是…",
+      "tags": [
+        "OPPO",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-c51dccba51af",
+      "title": "Vivo X Fold6 vs OPPO Find N6: The Ultimate Foldable Flagship Comparison",
+      "source": "Gizmochina",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-30",
+      "time": "07:25",
+      "publishedAt": "2026-06-30T07:25:31.000Z",
+      "url": "https://www.gizmochina.com/2026/06/30/vivo-x-fold6-vs-oppo-find-n6/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/06/image-173-300x194.png?x44794",
+      "summary": "Foldable smartphones continue to evolve rapidly, and the Vivo X Fold6 and OPPO Find N6 represent two of the most advanced options available. Both target power users with flagship…",
+      "tags": [
+        "OPPO",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-09249360c281",
+      "title": "Snapdragon chip for Galaxy S27 and Galaxy Z Fold 9 to debut in September",
+      "source": "SamMobile",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-30",
+      "time": "06:01",
+      "publishedAt": "2026-06-30T06:01:56.000Z",
+      "url": "https://www.sammobile.com/news/galaxy-s27-z-fold-9-snapdragon-chip-launch-september-2026/",
+      "image": "https://www.sammobile.com/wp-content/uploads/2026/06/Qualcomm-Snapdragon-Summit-2026-Dates-Location.jpg",
+      "summary": "Qualcomm has revealed the date for its Snapdragon Summit 2026 event. This is where the company is expected to unveil its next-generation high-end chips for laptops, smartphones, a…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-e65db6f5657e",
+      "title": "Apple’s biggest leak in years shows the iPhone 18 Pro surviving a drop test (Updated: Leaker denies)",
+      "source": "Android Authority",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-30",
+      "time": "04:58",
+      "publishedAt": "2026-06-30T04:58:28.000Z",
+      "url": "https://www.androidauthority.com/apple-iphone-18-pro-drop-test-video-images-leak-3682690/",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2026/06/iPhone-18-Pro-Drop-Test-1.jpg",
+      "summary": "Android phones leak every year, but Apple's latest leak is on another level.",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-2cb4660719a4",
+      "title": "Apple iPhone 18 Pro photos, data leaks via Tata cyberattack",
+      "source": "Huawei Central",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-30",
+      "time": "04:55",
+      "publishedAt": "2026-06-30T04:55:34.000Z",
+      "url": "https://www.huaweicentral.com/apple-iphone-18-pro-photos-data-leaks-via-tata-cyberattack/",
+      "image": "https://www.huaweicentral.com/wp-content/uploads/2026/03/iPhone-18-Pro-models.jpg",
+      "summary": "Apple will likely launch its iPhone 18 Pro series by September, though some photos and supply chain data of this flagship have leaked already following a major cyberattack. The ul…",
+      "tags": [
+        "iPhone",
         "爆料",
         "自动抓取"
       ]
@@ -159,106 +399,6 @@ window.phoneRadarAuto = {
         "Samsung",
         "爆料",
         "自动抓取"
-      ]
-    },
-    {
-      "id": "coolapk-user-bd4801a8ee8d",
-      "title": "竹本青：【ColorOS 小布助手现已接入微信A2A】 ▫️一句话发送微信消息、拨打语音/视频 ▫️模糊识别联系人 ▫️精…",
-      "source": "竹本青",
-      "brand": "OPPO",
-      "model": "OPPO 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-06-30",
-      "time": "02:11",
-      "publishedAt": "2026-06-30T02:11:22.000Z",
-      "url": "https://www.coolapk.com/feed/72584234",
-      "image": "http://image.coolapk.com/feed/2026/0630/10/4248714_0f8b22a7_5433_0131_596-livepic@1080x1922.jpg",
-      "summary": "【ColorOS 小布助手现已接入微信A2A】 ▫️一句话发送微信消息、拨打语音/视频 ▫️模糊识别联系人 ▫️精准识别多个重名联系人 #ColorOS16# #今日热点# #微信#",
-      "tags": [
-        "OPPO",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
-      "id": "auto-9fd7ff4ec2e9",
-      "title": "苹果代工厂塔塔电子被黑之际，iPhone 18 Pro Max 跌落测试视频流出",
-      "source": "IT之家",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-30",
-      "time": "02:04",
-      "publishedAt": "2026-06-30T02:04:44.000Z",
-      "url": "https://www.ithome.com/0/970/299.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/6/35c83794-b172-4d64-a834-ff12f2871d91.png?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 6 月 30 日消息，北京时间今天凌晨，爆料人 EvLeaks 公布了一段 iPhone 18 Pro Max 的“跌落测试”神秘视频，出镜的机型为银灰色版本。 不久前，Jon4Lakers 分享了一组 iPhone 18 Pro Max 机模照片， 展示了深樱桃色（Dark Cherry）、浅蓝色和深灰版本。 苹果 iPhone 18 Pro…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-ecd4d623c815",
-      "title": "即日起，深圳地铁全线网正式上线国际银行卡“拍卡过闸”服务",
-      "source": "IT之家",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-30",
-      "time": "01:48",
-      "publishedAt": "2026-06-30T01:48:36.000Z",
-      "url": "https://www.ithome.com/0/970/292.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/6/68c81750-4fe5-4e98-b6be-b8ef349ba6f0.png?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 6 月 30 日消息，据深圳地铁官方公众号，6 月 30 日起，深圳地铁全线网正式上线国际银行卡拍卡过闸（Tap to Ride）服务。 用户持中国银联（UnionPay）、维萨（Visa）、万事达（MasterCard）、美国运通（AE）、日本吉士美（JCB）等发行的国际银行卡（IT之家注：含手机 Pay），直接在贴有“Tap to Ride”…",
-      "tags": [
-        "行业",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-0c0c6b876336",
-      "title": "三星 Galaxy Z Fold8 阔折叠手机详细规格曝光：展开厚度仅 4.5mm，重量 201 克",
-      "source": "IT之家",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-30",
-      "time": "01:37",
-      "publishedAt": "2026-06-30T01:37:30.000Z",
-      "url": "https://www.ithome.com/0/970/288.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/6/8deccb85-beb3-4978-973c-43b8d74c3c40.png",
-      "summary": "IT之家 6 月 30 日消息，爆料人 Ahmed Qwaider 昨日在 X 上放出了三星首款宽折叠屏手机 Galaxy Z Fold8 详细尺寸与核心规格，与另一位知名爆料人 @冰宇宙 本月初披露的信息完全吻合。 据爆料，三星 Galaxy Z Fold8 在展开状态下厚度仅为 4.5 毫米，折叠后厚度为 9.7 毫米，整机重量控制在 201 克。另外…",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "coolapk-user-0f1285f02379",
-      "title": "竹本青：2026骁龙峰会将于9月22日-24日在夏威夷举行",
-      "source": "竹本青",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-06-30",
-      "time": "01:14",
-      "publishedAt": "2026-06-30T01:14:59.000Z",
-      "url": "https://www.coolapk.com/feed/72583595",
-      "image": "http://image.coolapk.com/feed/2026/0630/09/4248714_079ba087_2908_0088_913@1439x1799.jpg",
-      "summary": "【2026 高通骁龙峰会定档，将发布骁龙8 Elite Gen6系列 2nm旗舰芯片】 高通今日官宣，2026 骁龙峰会将于9月22日-24日在夏威夷举行。 据悉，本次峰会高通将推出骁龙8 Elite Gen6系列移动平台，这也是高通首次采用台积电2nm工艺的旗舰手机芯片。 此前，博主数码闲聊站 已曝光该系列芯片部分规格： ● SM8975 2nm，命名暂…",
-      "tags": [
-        "行业",
-        "爆料",
-        "酷安博主"
       ]
     },
     {
@@ -322,66 +462,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-bf1e670ffc08",
-      "title": "拼多多百亿补贴买到二手机了，成都发货设备查找都没关[汗]#鸿蒙NEXT# #鸿蒙6#",
-      "source": "酷安热榜",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-06-30",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72561845",
-      "image": "",
-      "summary": "拼多多百亿补贴买到二手机了，成都发货设备查找都没关[汗]#鸿蒙NEXT# #鸿蒙6#",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-6351c86a0172",
-      "title": "#鸿蒙6# 各位尊贵的鸿蒙机主，能让我看看你们手机里还有多少卓易通应用吗[偷看]",
-      "source": "酷安热榜",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-06-30",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72581808",
-      "image": "",
-      "summary": "#鸿蒙6# 各位尊贵的鸿蒙机主，能让我看看你们手机里还有多少卓易通应用吗[偷看]",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-b98980d0b75c",
-      "title": "iPhone18ProMax跌落测试视频泄露",
-      "source": "微博热搜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "待验证",
-      "date": "2026-06-30",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://s.weibo.com/weibo?q=%23iPhone18ProMax%E8%B7%8C%E8%90%BD%E6%B5%8B%E8%AF%95%E8%A7%86%E9%A2%91%E6%B3%84%E9%9C%B2%23&t=31&band_rank=8&Refer=top",
-      "image": "",
-      "summary": "iPhone18ProMax跌落测试视频泄露",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
       "id": "auto-2aee812e9d0a",
       "title": "Stop paying monthly for cloud storage with up to 70% off pCloud Lifetime this 4th of July",
       "source": "9to5Mac",
@@ -395,66 +475,6 @@ window.phoneRadarAuto = {
       "url": "https://9to5mac.com/2026/06/29/stop-paying-monthly-cloud-storage-up-to-70-off-pcloud-lifetime-4th-of-july/",
       "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/pcloud.webp?w=1600",
       "summary": "For Apple users, storage never feels finished. iPhone photo libraries keep growing, Macs fill up with large projects and downloads, and the monthly services meant to solve the pro…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-a53f082a4c07",
-      "title": "New Galaxy S21 FE update brings June 2026 security patch",
-      "source": "SamMobile",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-29",
-      "time": "21:27",
-      "publishedAt": "2026-06-29T21:27:20.000Z",
-      "url": "https://www.sammobile.com/news/new-galaxy-s21-fe-update-brings-june-2026-security-patch/",
-      "image": "",
-      "summary": "Samsung launched the Galaxy S21 FE in January 2022 and promised to offer it four major OS upgrades and security updates for five years. By the end of 2025, the brand demoted the p…",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-7a88aa3626b9",
-      "title": "Galaxy S25 Ultra to be available at an unbelievable price in India soon",
-      "source": "SamMobile",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-29",
-      "time": "20:18",
-      "publishedAt": "2026-06-29T20:18:34.000Z",
-      "url": "https://www.sammobile.com/news/galaxy-s25-ultra-available-unbelievable-price-india-soon/",
-      "image": "",
-      "summary": "A few days ago, we reported that Samsung's Galaxy S25 Ultra would be available in India for under INR 1,00,000 during Amazon's Prime Day sale, down from its launch price of INR 1,…",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-4786f999bfd9",
-      "title": "Leaked iPhone 18 Pro photos reportedly wound up on the dark web",
-      "source": "The Verge",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-29",
-      "time": "20:18",
-      "publishedAt": "2026-06-29T20:18:26.000Z",
-      "url": "https://www.theverge.com/tech/959229/iphone-18-pro-leak-apple-dark-web",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/DSC02122.webp?quality=90&strip=all&crop=0,0,100,100",
-      "summary": "Leaked iPhone 18 Pro photos and parts lists appeared on the dark web following a data breach affecting one of Apple's key suppliers, according to a report from Reuters. The leaked…",
       "tags": [
         "iPhone",
         "爆料",
@@ -598,26 +618,6 @@ window.phoneRadarAuto = {
       "tags": [
         "Xiaomi",
         "评测",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-9ed374e1331f",
-      "title": "New Galaxy Z Fold 8 leak gives us a fresh look at its design",
-      "source": "SamMobile",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-29",
-      "time": "15:11",
-      "publishedAt": "2026-06-29T15:11:55.000Z",
-      "url": "https://www.sammobile.com/news/new-galaxy-z-fold-8-leak-gives-fresh-look-design/",
-      "image": "https://www.sammobile.com/wp-content/uploads/2026/06/Alleged-Samsung-Galaxy-Z-Fold-8-Case-01.jpeg",
-      "summary": "Samsung is expected to launch its next lineup of flagship smartphones with foldable displays on July 22, 2026, which is less than a month from now. It is said to have three device…",
-      "tags": [
-        "Samsung",
-        "爆料",
         "自动抓取"
       ]
     },
