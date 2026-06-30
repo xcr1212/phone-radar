@@ -1,6 +1,106 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-06-30T16:31:20.906Z",
+  "updatedAt": "2026-06-30T20:18:15.137Z",
   "news": [
+    {
+      "id": "auto-24fe33a50ecd",
+      "title": "Galaxy Z Fold 8 series camera details leak, but they don’t sound very ‘Ultra’",
+      "source": "9to5Google",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-30",
+      "time": "18:20",
+      "publishedAt": "2026-06-30T18:20:00.000Z",
+      "url": "https://9to5google.com/2026/06/30/galaxy-z-fold-8-series-camera-details-leak-but-they-dont-sound-very-ultra/",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2025/07/galaxy-z-fold-7-28.jpg?quality=82&strip=all&w=1600",
+      "summary": "Samsung’s upcoming Galaxy Z Fold 8 series is bringing some new camera setups and some upgrades, but nothing fitting of the “Ultra” branding.",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-4e91de2dcb3e",
+      "title": "OnePlus is now pushing its users to buy Oppo products in some regions",
+      "source": "9to5Google",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-30",
+      "time": "17:40",
+      "publishedAt": "2026-06-30T17:40:00.000Z",
+      "url": "https://9to5google.com/2026/06/30/oneplus-is-now-pushing-its-users-to-buy-oppo-products-in-some-regions/",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2025/11/oneplus-15-review-05.jpg?quality=82&strip=all&w=1600",
+      "summary": "The slow, agonizing death of OnePlus continues, with the OnePlus website now displaying a prominent banner pushing existing customers over to Oppo products instead.",
+      "tags": [
+        "OPPO",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-3f64b6060df3",
+      "title": "Galaxy Z Fold 8 Ultra camera spec leak: 12MP UW replaced with 50MP one",
+      "source": "Gizmochina",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-30",
+      "time": "16:54",
+      "publishedAt": "2026-06-30T16:54:06.000Z",
+      "url": "https://www.gizmochina.com/2026/06/30/galaxy-z-fold-8-ultra-camera-spec-leak-reveals-a-meaningful-upgrade/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/06/maxresdefault-300x169.jpg?x44794",
+      "summary": "Samsung is getting ready to launch its next generation of foldables, and the latest leak points to a significant camera upgrade for the Ultra model. According to a report out of S…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-b4a374f0532d",
+      "title": "Galaxy Z Fold 8 specs leak details high-res displays and a lighter body",
+      "source": "Android Authority",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-30",
+      "time": "16:49",
+      "publishedAt": "2026-06-30T16:49:40.000Z",
+      "url": "https://www.androidauthority.com/galaxy-z-fold-8-specs-revealed-3683002/",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2025/07/samsung-galaxy-z-fold-7-cameras-close-up.jpg",
+      "summary": "This leak may have just exposed the Galaxy Z Fold 8's specs.",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-4fcbc168b708",
+      "title": "Xbox weighs canceling Blade game and shuttering Arkane",
+      "source": "The Verge",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-06-30",
+      "time": "16:38",
+      "publishedAt": "2026-06-30T16:38:18.000Z",
+      "url": "https://www.theverge.com/report/959467/microsoft-xbox-cancel-blade-game-arkane-studios-closure",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/yXT9Lzrt7E8-HD.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "summary": "Microsoft is set to announce a wave of layoffs for its Xbox studios and employees next week. Sources familiar with Microsoft's plans tell The Verge that the layoffs will lead to s…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-abcc4d9edd6d",
       "title": "Google releases ‘Pixel Audio Services’ for Pixel 10 on Play Store",
@@ -117,26 +217,6 @@ window.phoneRadarAuto = {
       "summary": "Leaks about Samsung's next-generation flagship smartphones with foldable displays — the Galaxy Z Fold 8, Galaxy Z Fold 8 Ultra, and Galaxy Z Flip 8 — have already revealed their r…",
       "tags": [
         "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-f5414c1cbd2e",
-      "title": "iPhone 18 Pro ‘drop test’ leaks get yanked from X",
-      "source": "The Verge",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-30",
-      "time": "14:10",
-      "publishedAt": "2026-06-30T14:10:02.000Z",
-      "url": "https://www.theverge.com/tech/959474/iphone-18-pro-leaked-videos-pulled",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STK071_APPLE_E.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "summary": "Videos purporting to show the iPhone 18 Pro undergoing a drop test were removed from X shortly after they surfaced, as spotted earlier by MacRumors. An account imitating leaker Ev…",
-      "tags": [
-        "iPhone",
         "爆料",
         "自动抓取"
       ]
@@ -382,26 +462,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-c225ac775b56",
-      "title": "Galaxy Z Flip 8 may be the final Galaxy Z Flip phone, another leak says",
-      "source": "SamMobile",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-30",
-      "time": "11:23",
-      "publishedAt": "2026-06-30T11:23:10.000Z",
-      "url": "https://www.sammobile.com/news/galaxy-z-flip-8-may-be-final-galaxy-z-flip-phone-another-leak-says/",
-      "image": "",
-      "summary": "Samsung launched its first smartphone with a clamshell foldable display, the Galaxy Z Flip, in 2020. Since then, the brand has released a new Galaxy Z Flip model every year. The c…",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "weibo-c172458ebf03",
       "title": "数码闲聊站：REDMI K90至尊版，这价格可还行？ 12GB+256GB——2799元…",
       "source": "数码闲聊站",
@@ -419,26 +479,6 @@ window.phoneRadarAuto = {
         "Xiaomi",
         "爆料",
         "微博"
-      ]
-    },
-    {
-      "id": "coolapk-user-e05ffbdd47ae",
-      "title": "竹本青：REDMI K90 至尊版发布，首销售价2799元起",
-      "source": "竹本青",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-06-30",
-      "time": "11:13",
-      "publishedAt": "2026-06-30T11:13:32.000Z",
-      "url": "https://www.coolapk.com/feed/72591295",
-      "image": "http://image.coolapk.com/feed/2026/0630/19/4248714_2ab2efc4_8516_6228_813@1440x2926.jpg",
-      "summary": "【REDMI K90 至尊版 正式发布，首销售价2799元起】 12GB+256GB —— 2799元 16GB+256GB —— 2799元 12GB+512GB —— 3299元 16GB+512GB —— 3499元 核心： ● 6.83”1.5K 165Hz LTPS直屏 ● 骁龙8至尊版+独显芯D2 ● LPDDR5X+UFS 4.1 ● 855…",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "酷安博主"
       ]
     },
     {
@@ -542,26 +582,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-d1368c54a660",
-      "title": "Galaxy S27 may use Samsung Display OLED after BOE deal collapses",
-      "source": "SamMobile",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-30",
-      "time": "09:46",
-      "publishedAt": "2026-06-30T09:46:41.000Z",
-      "url": "https://www.sammobile.com/news/galaxy-s27-may-use-samsung-display-oled-after-boe-deal-collapses/",
-      "image": "",
-      "summary": "For years now, Samsung has been sourcing OLED displays for its Galaxy S smartphones exclusively from one of its subsidiaries, Samsung Display. However, last month, a report claime…",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-9e499b91e793",
       "title": "iQOO 15R Long-Term Review: Four Months Later, Is It Still Worth Buying?",
       "source": "Gizmochina",
@@ -593,7 +613,7 @@ window.phoneRadarAuto = {
       "time": "09:30",
       "publishedAt": "2026-06-30T09:30:26.000Z",
       "url": "https://www.gizmochina.com/2026/06/30/oppo-bubble-selfie-screen-now-works-with-iphones/",
-      "image": "https://www.gizmochina.com/wp-content/uploads/2026/06/001RJIkpgy1iemk7ef95pj60u0212hdu02-300x169.jpg?x44794",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/06/images-stick-stick-1-main.mo-1-1e4218.png-300x169.jpg?x44794",
       "summary": "Oppo is expanding its quirky Bubble selfie screen to iPhone users, giving people a stylish new way to take better photos and add some personality to their phones. Originally launc…",
       "tags": [
         "OPPO",
@@ -859,6 +879,106 @@ window.phoneRadarAuto = {
         "iPhone",
         "官方",
         "自动抓取"
+      ]
+    },
+    {
+      "id": "newsnow-20c1592e0df4",
+      "title": "REDMI K90 至尊版发布，首销售价2799元起",
+      "source": "酷安热榜",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-06-30",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/72591295",
+      "image": "",
+      "summary": "REDMI K90 至尊版发布，首销售价2799元起",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-857af1e16704",
+      "title": "iPhone 18 Pro Max 跌落测试视频曝光",
+      "source": "酷安热榜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-06-30",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/72585885",
+      "image": "",
+      "summary": "iPhone 18 Pro Max 跌落测试视频曝光",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-d3b5732d2b0c",
+      "title": "这个手机到底怎么拍人，还是说安卓真的不能拍人[受虐滑稽] #人像摄影# #小米15Ultra#",
+      "source": "酷安热榜",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-06-30",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/72577810",
+      "image": "",
+      "summary": "这个手机到底怎么拍人，还是说安卓真的不能拍人[受虐滑稽] #人像摄影# #小米15Ultra#",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-46bc9fe31af8",
+      "title": "有需要小米15手机壳的吗？150全出了，好几个官方的，和耐尔金啥的，一大麻袋其他的[流汗滑稽]",
+      "source": "酷安热榜",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-06-30",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/72586077",
+      "image": "",
+      "summary": "有需要小米15手机壳的吗？150全出了，好几个官方的，和耐尔金啥的，一大麻袋其他的[流汗滑稽]",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-e9a4bebc715d",
+      "title": "iPhone18Pro遭泄密",
+      "source": "微博热搜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "待验证",
+      "date": "2026-06-30",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://s.weibo.com/weibo?q=%23iPhone18Pro%E9%81%AD%E6%B3%84%E5%AF%86%23&t=31&band_rank=19&Refer=top",
+      "image": "",
+      "summary": "iPhone18Pro遭泄密",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "NewsNow"
       ]
     },
     {
