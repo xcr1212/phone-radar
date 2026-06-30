@@ -1,14 +1,14 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-06-30T12:23:15.196Z",
+  "updatedAt": "2026-06-30T16:31:20.906Z",
   "issueDate": "2026-06-30",
   "issue": "VOL.260630",
   "title": "手机情报日报",
-  "intro": "今日筛出 15 条重点，其中 8 条是重点爆料，包含 10 条 iPhone 相关、1 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 10 条重点，其中 8 条是重点爆料，包含 9 条 iPhone 相关、0 条官方确认、0 条参数线索。",
   "stats": {
-    "total": 15,
-    "iphone": 10,
+    "total": 10,
+    "iphone": 9,
     "leaks": 8,
-    "official": 1,
+    "official": 0,
     "specs": 0
   },
   "sections": [
@@ -18,22 +18,24 @@ window.phoneRadarDaily = {
       "hint": "机模、配色、影像、屏幕、电池和芯片线索先看。",
       "items": [
         {
-          "id": "auto-ef546032abe5",
-          "title": "2026 苹果最抢手颜色：樱桃红 iPhone 18 Pro 测试照片流出",
+          "id": "auto-0c9ae3f12d91",
+          "title": "苹果 iPhone 18 Pro“樱桃红”配色卡托曝光，消息称系列手机还可选“银灰”“浅蓝”配色",
           "originalTitle": "",
           "source": "IT之家",
           "brand": "iPhone",
           "type": "爆料",
           "trust": "媒体汇总",
           "date": "2026-06-30",
-          "time": "08:26",
-          "publishedAt": "2026-06-30T08:26:25.000Z",
-          "url": "https://www.ithome.com/0/970/596.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/6/a223eeb8-49ca-41de-84c9-a97811487c47.png",
+          "time": "13:47",
+          "publishedAt": "2026-06-30T13:47:13.000Z",
+          "url": "https://www.ithome.com/0/970/759.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/6/c2d1a857-28d5-4407-a2ef-b1c10de3df14.jpg",
           "verdict": "先看",
-          "takeaway": "IT之家 6 月 30 日消息，消息源 @earlyappleleaks 今天（6 月 30 日）在 X 平台发布推文，分享了一段从印度塔塔电子泄露的视频， 展示了正在测试的樱桃红 iPhone 18 Pro，预估上市后成为 2026 最抢手颜色。 和 今早曝光的 iPhone 18 Pro 跌落测试 类似，本次曝光的樱桃红 iPhone 18 Pro 处…",
-          "detail": "IT之家 6 月 30 日消息，消息源 @earlyappleleaks 今天（6 月 30 日）在 X 平台发布推文，分享了一段从印度塔塔电子泄露的视频， 展示了正在测试的樱桃红 iPhone 18 Pro，预估上市后成为 2026 最抢手颜色。 和 今早曝光的 iPhone 18 Pro 跌落测试 类似，本次曝光的樱桃红 iPhone 18 Pro 处…",
+          "takeaway": "IT之家 6 月 30 日消息， 博主 @刹那数码 发布图片 ，展示了苹果 iPhone 18 Pro 的“樱桃红”配色卡托，并在评论区透露系列手机另外两个配色为“银灰”、“浅蓝”，本次系列机型并未提供“黑灰色”。 参考IT之家今天下午报道，在本次印度塔塔电子泄露事件中也意外曝光了“樱桃红”配色 iPhone 18 Pro 相机按钮测试视频，目前苹果公司正…",
+          "detail": "IT之家 6 月 30 日消息， 博主 @刹那数码 发布图片 ，展示了苹果 iPhone 18 Pro 的“樱桃红”配色卡托，并在评论区透露系列手机另外两个配色为“银灰”、“浅蓝”，本次系列机型并未提供“黑灰色”。 参考IT之家今天下午报道，在本次印度塔塔电子泄露事件中也意外曝光了“樱桃红”配色 iPhone 18 Pro 相机按钮测试视频，目前苹果公司正…",
           "keyPoints": [
+            "外观 / 配色 / 尺寸",
+            "影像硬件",
             "爆料来源"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
@@ -41,23 +43,70 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
-          "id": "auto-51ad1b97e925",
+          "id": "weibo-0dbda526bbaf",
+          "title": "数码闲聊站：iPhone 18 Pro系列今年真是爆水管，主板BOM和工厂资料都被黑客泄露…",
+          "originalTitle": "",
+          "source": "数码闲聊站",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "高关注爆料源",
+          "date": "2026-06-30",
+          "time": "02:30",
+          "publishedAt": "2026-06-30T02:30:00.000Z",
+          "url": "https://weibo.com/6048569942/R6u2NwENE",
+          "image": "",
+          "verdict": "先看",
+          "takeaway": "iPhone 18 Pro系列今年真是爆水管，主板BOM和工厂资料都被黑客泄露了，主要能看到散热大升级，不再是双层主板夹SOC，A20 Pro疑似是WMCM封装，性能体验可能会有明显升级[吃瓜]",
+          "detail": "iPhone 18 Pro系列今年真是爆水管，主板BOM和工厂资料都被黑客泄露了，主要能看到散热大升级，不再是双层主板夹SOC，A20 Pro疑似是WMCM封装，性能体验可能会有明显升级[吃瓜]",
+          "keyPoints": [
+            "爆料来源"
+          ],
+          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "auto-adedd86807b8",
           "title": "iPhone 18 Pro 机模 / 配色信息曝光",
           "originalTitle": "",
-          "source": "Android Authority",
+          "source": "MacRumors",
           "brand": "iPhone",
           "type": "爆料",
           "trust": "媒体汇总",
           "date": "2026-06-30",
-          "time": "11:26",
-          "publishedAt": "2026-06-30T11:26:46.000Z",
-          "url": "https://www.androidauthority.com/iphone-18-pro-color-dynamic-island-leak-3682857/",
-          "image": "https://www.androidauthority.com/wp-content/uploads/2026/02/Apple-iPhone-17-series-iPhone-17-iPhone-Air-iPhone-17-Pro-iPhone-17-Pro-Max.jpg",
+          "time": "12:23",
+          "publishedAt": "2026-06-30T12:23:52.000Z",
+          "url": "https://www.macrumors.com/2026/06/30/iphone-18-pro-sim-tray-dark-cherry-color/",
+          "image": "https://images.macrumors.com/article-new/2026/06/iphone-18-pro-dark-cherry-sim-tray@2x-scaled.jpg",
           "verdict": "先看",
-          "takeaway": "iPhone 18 Pro 机模 / 配色信息曝光。已转成中文摘要展示，详细内容可打开原文核对。",
+          "takeaway": "iPhone 有系统功能或 AI 体验更新，适合关注后续是否影响日常使用。",
           "detail": "iPhone 18 Pro 机模 / 配色信息曝光。来源提到未发布机型的机模/配色图，适合先判断外观方向、颜色变化和机身轮廓，但最终量产版本仍可能调整。",
           "keyPoints": [
             "外观 / 配色 / 尺寸",
+            "爆料来源"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "auto-f5414c1cbd2e",
+          "title": "iPhone 相关消息",
+          "originalTitle": "",
+          "source": "The Verge",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-06-30",
+          "time": "14:10",
+          "publishedAt": "2026-06-30T14:10:02.000Z",
+          "url": "https://www.theverge.com/tech/959474/iphone-18-pro-leaked-videos-pulled",
+          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STK071_APPLE_E.jpg?quality=90&strip=all&crop=0,0,100,100",
+          "verdict": "先看",
+          "takeaway": "iPhone 相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
+          "detail": "iPhone 相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
+          "keyPoints": [
+            "影像硬件",
             "爆料来源"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
@@ -112,29 +161,6 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
-          "id": "auto-b1749671e453",
-          "title": "iPhone 相关消息",
-          "originalTitle": "",
-          "source": "MacRumors",
-          "brand": "iPhone",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-06-29",
-          "time": "18:46",
-          "publishedAt": "2026-06-29T18:46:01.000Z",
-          "url": "https://www.macrumors.com/2026/06/29/apple-tata-leak-iphone-18-pro/",
-          "image": "https://images.macrumors.com/article-new/2026/02/iPhone-18-Pro-Deep-Red-Feature.jpg",
-          "verdict": "先看",
-          "takeaway": "iPhone 相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
-          "detail": "iPhone 相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
-          "keyPoints": [
-            "爆料来源"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
           "id": "auto-1c8e463259d5",
           "title": "iPhone 18 系统功能 / AI 体验相关消息",
           "originalTitle": "",
@@ -180,30 +206,6 @@ window.phoneRadarDaily = {
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "coolapk-user-e05ffbdd47ae",
-          "title": "竹本青：REDMI K90 至尊版发布，首销售价2799元起",
-          "originalTitle": "",
-          "source": "竹本青",
-          "brand": "Xiaomi",
-          "type": "爆料",
-          "trust": "高可信爆料",
-          "date": "2026-06-30",
-          "time": "11:13",
-          "publishedAt": "2026-06-30T11:13:32.000Z",
-          "url": "https://www.coolapk.com/feed/72591295",
-          "image": "http://image.coolapk.com/feed/2026/0630/19/4248714_2ab2efc4_8516_6228_813@1440x2926.jpg",
-          "verdict": "先看",
-          "takeaway": "【REDMI K90 至尊版 正式发布，首销售价2799元起】 12GB+256GB —— 2799元 16GB+256GB —— 2799元 12GB+512GB —— 3299元 16GB+512GB —— 3499元 核心： ● 6.83”1.5K 165Hz LTPS直屏 ● 骁龙8至尊版+独显芯D2 ● LPDDR5X+UFS 4.1 ● 855…",
-          "detail": "【REDMI K90 至尊版 正式发布，首销售价2799元起】 12GB+256GB —— 2799元 16GB+256GB —— 2799元 12GB+512GB —— 3299元 16GB+512GB —— 3499元 核心： ● 6.83”1.5K 165Hz LTPS直屏 ● 骁龙8至尊版+独显芯D2 ● LPDDR5X+UFS 4.1 ● 855…",
-          "keyPoints": [
-            "屏幕形态",
-            "成本 / 价格"
-          ],
-          "confidence": "可信度较高，但仍属于发布前线索。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         }
       ]
     },
@@ -212,6 +214,29 @@ window.phoneRadarDaily = {
       "title": "iPhone 重点",
       "hint": "不是硬件爆料，但和 iPhone 体验或路线有关。",
       "items": [
+        {
+          "id": "auto-219a84251a74",
+          "title": "苹果发起 DMCA 维权，全网清除 iPhone 18 Pro 泄露素材",
+          "originalTitle": "",
+          "source": "IT之家",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-06-30",
+          "time": "13:11",
+          "publishedAt": "2026-06-30T13:11:23.000Z",
+          "url": "https://www.ithome.com/0/970/751.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/6/35c83794-b172-4d64-a834-ff12f2871d91.png",
+          "verdict": "先看",
+          "takeaway": "IT之家 6 月 30 日消息，苹果正追查所有泄露从塔塔集团窃取的 iPhone 18 Pro 实拍视频与图片的相关人员，并通过《数字千年版权法》（DMCA）投诉下架各大社交平台相关帖子。 印度塔塔集团旗下一家 iPhone 组装工厂遭遇黑客入侵，超 630GB 数据被盗，其中包含苹果内部资料。随着这批数据在网络上大肆传播，苹果如今正全力清除全网相关泄露内…",
+          "detail": "IT之家 6 月 30 日消息，苹果正追查所有泄露从塔塔集团窃取的 iPhone 18 Pro 实拍视频与图片的相关人员，并通过《数字千年版权法》（DMCA）投诉下架各大社交平台相关帖子。 印度塔塔集团旗下一家 iPhone 组装工厂遭遇黑客入侵，超 630GB 数据被盗，其中包含苹果内部资料。随着这批数据在网络上大肆传播，苹果如今正全力清除全网相关泄露内…",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "中文源可以直接点开快读；看完只保留和购机有关的点。"
+        },
         {
           "id": "auto-56e851bd1147",
           "title": "苹果涨价后很贵，但以后的 iPhone 可能会更贵",
@@ -234,151 +259,6 @@ window.phoneRadarDaily = {
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是实际体验内容，买前适合重点看缺点和取舍。",
           "action": "中文源可以直接点开快读；看完只保留和购机有关的点。"
-        },
-        {
-          "id": "newsnow-857af1e16704",
-          "title": "iPhone 18 Pro Max 跌落测试视频曝光",
-          "originalTitle": "",
-          "source": "酷安热榜",
-          "brand": "iPhone",
-          "type": "爆料",
-          "trust": "高关注爆料源",
-          "date": "2026-06-30",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://www.coolapk.com/feed/72585885",
-          "image": "",
-          "verdict": "先看",
-          "takeaway": "iPhone 18 Pro Max 跌落测试视频曝光",
-          "detail": "iPhone 18 Pro Max 跌落测试视频曝光",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
-        {
-          "id": "newsnow-e76ccd76311b",
-          "title": "兄弟们，17弯了似马当作活马医了，强迫症难受死了[受虐滑稽][受虐滑稽] ，只能骗自己变成了更贴合脸颊的样子#iPhone17# #iPhone17Pro#",
-          "originalTitle": "",
-          "source": "酷安热榜",
-          "brand": "iPhone",
-          "type": "爆料",
-          "trust": "高关注爆料源",
-          "date": "2026-06-30",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://www.coolapk.com/feed/72572959",
-          "image": "",
-          "verdict": "先看",
-          "takeaway": "兄弟们，17弯了似马当作活马医了，强迫症难受死了[受虐滑稽][受虐滑稽] ，只能骗自己变成了更贴合脸颊的样子#iPhone17# #iPhone17Pro#",
-          "detail": "兄弟们，17弯了似马当作活马医了，强迫症难受死了[受虐滑稽][受虐滑稽] ，只能骗自己变成了更贴合脸颊的样子#iPhone17# #iPhone17Pro#",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
-        {
-          "id": "auto-9bbf43c61c96",
-          "title": "iPhone 系统功能 / AI 体验相关消息",
-          "originalTitle": "",
-          "source": "Apple Newsroom",
-          "brand": "iPhone",
-          "type": "官方",
-          "trust": "官方确认",
-          "date": "2026-06-30",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://www.apple.com/newsroom/2026/06/apple-announces-changes-to-ios-in-brazil/",
-          "image": "",
-          "verdict": "先看",
-          "takeaway": "iPhone 系统功能 / AI 体验相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
-          "detail": "iPhone 系统功能 / AI 体验相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
-          "keyPoints": [
-            "官方"
-          ],
-          "confidence": "官方内容，可直接作为已确认信息记录。",
-          "impact": "可信度高，但如果不是配置/价格消息，只需要扫一眼。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        }
-      ]
-    },
-    {
-      "id": "market",
-      "title": "行业趋势",
-      "hint": "看方向，不急着当购买依据。",
-      "items": [
-        {
-          "id": "newsnow-bf1e670ffc08",
-          "title": "拼多多百亿补贴买到二手机了，成都发货设备查找都没关[汗]#鸿蒙NEXT# #鸿蒙6#",
-          "originalTitle": "",
-          "source": "酷安热榜",
-          "brand": "Huawei",
-          "type": "爆料",
-          "trust": "高关注爆料源",
-          "date": "2026-06-30",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://www.coolapk.com/feed/72561845",
-          "image": "",
-          "verdict": "先看",
-          "takeaway": "拼多多百亿补贴买到二手机了，成都发货设备查找都没关[汗]#鸿蒙NEXT# #鸿蒙6#",
-          "detail": "拼多多百亿补贴买到二手机了，成都发货设备查找都没关[汗]#鸿蒙NEXT# #鸿蒙6#",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
-        {
-          "id": "newsnow-6351c86a0172",
-          "title": "#鸿蒙6# 各位尊贵的鸿蒙机主，能让我看看你们手机里还有多少卓易通应用吗[偷看]",
-          "originalTitle": "",
-          "source": "酷安热榜",
-          "brand": "Huawei",
-          "type": "爆料",
-          "trust": "高关注爆料源",
-          "date": "2026-06-30",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://www.coolapk.com/feed/72581808",
-          "image": "",
-          "verdict": "先看",
-          "takeaway": "#鸿蒙6# 各位尊贵的鸿蒙机主，能让我看看你们手机里还有多少卓易通应用吗[偷看]",
-          "detail": "#鸿蒙6# 各位尊贵的鸿蒙机主，能让我看看你们手机里还有多少卓易通应用吗[偷看]",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
-        {
-          "id": "newsnow-d3b5732d2b0c",
-          "title": "这个手机到底怎么拍人，还是说安卓真的不能拍人[受虐滑稽] #人像摄影# #小米15Ultra#",
-          "originalTitle": "",
-          "source": "酷安热榜",
-          "brand": "Xiaomi",
-          "type": "爆料",
-          "trust": "高关注爆料源",
-          "date": "2026-06-30",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://www.coolapk.com/feed/72577810",
-          "image": "",
-          "verdict": "先看",
-          "takeaway": "这个手机到底怎么拍人，还是说安卓真的不能拍人[受虐滑稽] #人像摄影# #小米15Ultra#",
-          "detail": "这个手机到底怎么拍人，还是说安卓真的不能拍人[受虐滑稽] #人像摄影# #小米15Ultra#",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         }
       ]
     }
