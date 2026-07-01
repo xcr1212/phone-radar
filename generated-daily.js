@@ -1,12 +1,12 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-07-01T21:48:34.720Z",
+  "updatedAt": "2026-07-01T23:42:18.062Z",
   "issueDate": "2026-07-01",
   "issue": "VOL.260701",
   "title": "手机情报日报",
-  "intro": "今日筛出 22 条重点，其中 8 条是重点爆料，包含 10 条 iPhone 相关、1 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 20 条重点，其中 8 条是重点爆料，包含 11 条 iPhone 相关、1 条官方确认、0 条参数线索。",
   "stats": {
-    "total": 22,
-    "iphone": 10,
+    "total": 20,
+    "iphone": 11,
     "leaks": 8,
     "official": 1,
     "specs": 0
@@ -17,6 +17,29 @@ window.phoneRadarDaily = {
       "title": "重点爆料",
       "hint": "机模、配色、影像、屏幕、电池和芯片线索先看。",
       "items": [
+        {
+          "id": "auto-cd32fb5d5d42",
+          "title": "CounterPoint 称 iPhone Ultra 改写 2026 全球折叠面板供应格局，苹果首年贡献 29% 采购份额",
+          "originalTitle": "",
+          "source": "IT之家",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-07-01",
+          "time": "23:28",
+          "publishedAt": "2026-07-01T23:28:49.000Z",
+          "url": "https://www.ithome.com/0/971/402.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/7/94cd6103-6b4d-49cc-a618-5a1f7e5c858d.png?x-bce-process=image/format,f_auto",
+          "verdict": "先看",
+          "takeaway": "IT之家 7 月 2 日消息，市场调查机构 CounterPoint Research 今天（7 月 2 日）发布博文，预估苹果首款折叠手机（上市后预估名为 iPhone Ultra）上市后， 在 2026 年全球折叠手机屏幕出货量占比中，将斩获 29% 的订单。 该机构指出迈入 2026 年后，全球折叠屏智能手机面板市场将结束调整阶段，全年出货量预计约…",
+          "detail": "IT之家 7 月 2 日消息，市场调查机构 CounterPoint Research 今天（7 月 2 日）发布博文，预估苹果首款折叠手机（上市后预估名为 iPhone Ultra）上市后， 在 2026 年全球折叠手机屏幕出货量占比中，将斩获 29% 的订单。 该机构指出迈入 2026 年后，全球折叠屏智能手机面板市场将结束调整阶段，全年出货量预计约…",
+          "keyPoints": [
+            "屏幕形态"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
         {
           "id": "auto-a1e525711dd9",
           "title": "研究：苹果 iPhone 普及与美国生育率下滑存在关联",
@@ -178,30 +201,6 @@ window.phoneRadarDaily = {
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "auto-d41bb79a469a",
-          "title": "vivo 影像能力相关消息",
-          "originalTitle": "",
-          "source": "Gizmochina",
-          "brand": "vivo",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-07-01",
-          "time": "07:15",
-          "publishedAt": "2026-07-01T07:15:16.000Z",
-          "url": "https://www.gizmochina.com/2026/07/01/vivo-x500-pro-max-camera-specifications-leak/",
-          "image": "https://www.gizmochina.com/wp-content/uploads/2025/12/Vivo-X300-Pro-1-300x188.png?x44794",
-          "verdict": "先看",
-          "takeaway": "vivo 有系统功能或 AI 体验更新，适合关注后续是否影响日常使用。",
-          "detail": "vivo 影像能力相关消息。重点看影像功能是否和新机硬件有关，如果只是拍摄案例或营销内容，参考价值会低一些。",
-          "keyPoints": [
-            "影像硬件",
-            "爆料来源"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         }
       ]
     },
@@ -210,6 +209,29 @@ window.phoneRadarDaily = {
       "title": "iPhone 重点",
       "hint": "不是硬件爆料，但和 iPhone 体验或路线有关。",
       "items": [
+        {
+          "id": "auto-a6ef8a964ea2",
+          "title": "苹果更新 Final Cut Camera 至 2.3 版：iPhone 17 Pro / Max 新增“纯净 HDMI 输出”",
+          "originalTitle": "",
+          "source": "IT之家",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-07-01",
+          "time": "23:38",
+          "publishedAt": "2026-07-01T23:38:12.000Z",
+          "url": "https://www.ithome.com/0/971/403.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/7/d5e0c563-826e-438a-b7db-ba2dec8ea1b3.png?x-bce-process=image/format,f_auto",
+          "verdict": "先看",
+          "takeaway": "IT之家 7 月 2 日消息，苹果公司昨日（7 月 1 日）更新 Final Cut Camera 应用， 在最新 2.3 版本中为 iPhone 17 Pro 和 iPhone 17 Pro Max 新增“纯净 HDMI 输出”功能。 IT之家附上 2.3 版本 Final Cut Camera 更新日志内容如下： 使用“纯净 HDMI 输出”，将无叠层…",
+          "detail": "IT之家 7 月 2 日消息，苹果公司昨日（7 月 1 日）更新 Final Cut Camera 应用， 在最新 2.3 版本中为 iPhone 17 Pro 和 iPhone 17 Pro Max 新增“纯净 HDMI 输出”功能。 IT之家附上 2.3 版本 Final Cut Camera 更新日志内容如下： 使用“纯净 HDMI 输出”，将无叠层…",
+          "keyPoints": [
+            "影像硬件"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "影响拍照体验，买旗舰机时值得关注。",
+          "action": "有具体参数就记录到参数库；没有参数就先收藏。"
+        },
         {
           "id": "auto-1dc23f5e24c1",
           "title": "早报｜苹果iPhone 18 Pro大规模泄露/SK海力士启动赴美IPO/Claude Sonnet 5正式上线",
@@ -324,29 +346,6 @@ window.phoneRadarDaily = {
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
-        {
-          "id": "auto-708c21398dd4",
-          "title": "iPhone 18 Pro 外观设计线索曝光",
-          "originalTitle": "",
-          "source": "9to5Mac",
-          "brand": "iPhone",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-06-30",
-          "time": "20:22",
-          "publishedAt": "2026-06-30T20:22:58.000Z",
-          "url": "https://9to5mac.com/2026/06/30/this-iconic-iphone-design-will-get-closer-to-retirement-with-iphone-18-pro/",
-          "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/01/iphone-18-pro-smaller-dynamic-island.jpg?quality=82&strip=all&w=1600",
-          "verdict": "扫一眼",
-          "takeaway": "iPhone 18 Pro 外观设计线索曝光。重点看外观、颜色、尺寸是否和上一代有明显变化。",
-          "detail": "iPhone 18 Pro 外观设计线索曝光。这类内容主要看外观设计、按键布局、相机模组和尺寸变化，后续最好等更多渲染图或保护壳线索互相验证。",
-          "keyPoints": [
-            "外观 / 配色 / 尺寸"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         }
       ]
     },
@@ -396,29 +395,6 @@ window.phoneRadarDaily = {
           "detail": "REDMI K90 至尊版发布，首销售价2799元起",
           "keyPoints": [
             "成本 / 价格"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
-        {
-          "id": "auto-80d233e6b6c0",
-          "title": "Galaxy S23 FE 功能更新或覆盖范围扩大",
-          "originalTitle": "",
-          "source": "SamMobile",
-          "brand": "Samsung",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-07-01",
-          "time": "07:40",
-          "publishedAt": "2026-07-01T07:40:15.000Z",
-          "url": "https://www.sammobile.com/news/galaxy-s23-fe-june-2026-security-update-released/",
-          "image": "",
-          "verdict": "可略过",
-          "takeaway": "Galaxy S23 FE 功能更新或覆盖范围扩大。已转成中文摘要展示，详细内容可打开原文核对。",
-          "detail": "Galaxy S23 FE 功能更新或覆盖范围扩大。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
-          "keyPoints": [
-            "爆料"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
@@ -522,30 +498,6 @@ window.phoneRadarDaily = {
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
-        {
-          "id": "auto-ec5073a0bef1",
-          "title": "HONOR 折叠屏相关消息",
-          "originalTitle": "",
-          "source": "Android Authority",
-          "brand": "HONOR",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-07-01",
-          "time": "12:24",
-          "publishedAt": "2026-07-01T12:24:15.000Z",
-          "url": "https://www.androidauthority.com/honor-magic-v6-available-europe-3683346/",
-          "image": "https://www.androidauthority.com/wp-content/uploads/2026/02/honor-magic-v6-hands-on-1-scaled.jpg",
-          "verdict": "可略过",
-          "takeaway": "HONOR 折叠屏相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
-          "detail": "HONOR 折叠屏相关消息。重点看折痕、铰链、厚度、屏幕可靠性和重量是否有实质改善。",
-          "keyPoints": [
-            "电池 / 充电",
-            "成本 / 价格"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "影响购买预算，值得先看。",
-          "action": "有具体参数就记录到参数库；没有参数就先收藏。"
         }
       ]
     }

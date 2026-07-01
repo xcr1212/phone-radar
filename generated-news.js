@@ -1,6 +1,46 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-07-01T21:48:34.720Z",
+  "updatedAt": "2026-07-01T23:42:18.062Z",
   "news": [
+    {
+      "id": "auto-a6ef8a964ea2",
+      "title": "苹果更新 Final Cut Camera 至 2.3 版：iPhone 17 Pro / Max 新增“纯净 HDMI 输出”",
+      "source": "IT之家",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-01",
+      "time": "23:38",
+      "publishedAt": "2026-07-01T23:38:12.000Z",
+      "url": "https://www.ithome.com/0/971/403.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/7/d5e0c563-826e-438a-b7db-ba2dec8ea1b3.png?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 7 月 2 日消息，苹果公司昨日（7 月 1 日）更新 Final Cut Camera 应用， 在最新 2.3 版本中为 iPhone 17 Pro 和 iPhone 17 Pro Max 新增“纯净 HDMI 输出”功能。 IT之家附上 2.3 版本 Final Cut Camera 更新日志内容如下： 使用“纯净 HDMI 输出”，将无叠层…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-cd32fb5d5d42",
+      "title": "CounterPoint 称 iPhone Ultra 改写 2026 全球折叠面板供应格局，苹果首年贡献 29% 采购份额",
+      "source": "IT之家",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-01",
+      "time": "23:28",
+      "publishedAt": "2026-07-01T23:28:49.000Z",
+      "url": "https://www.ithome.com/0/971/402.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/7/94cd6103-6b4d-49cc-a618-5a1f7e5c858d.png?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 7 月 2 日消息，市场调查机构 CounterPoint Research 今天（7 月 2 日）发布博文，预估苹果首款折叠手机（上市后预估名为 iPhone Ultra）上市后， 在 2026 年全球折叠手机屏幕出货量占比中，将斩获 29% 的订单。 该机构指出迈入 2026 年后，全球折叠屏智能手机面板市场将结束调整阶段，全年出货量预计约…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-038aff7db1b8",
       "title": "iPhone Fold expected to fuel rebound in foldable phone panel shipments, per report",
