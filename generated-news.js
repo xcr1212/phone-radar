@@ -1,6 +1,66 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-07-01T20:13:54.182Z",
+  "updatedAt": "2026-07-01T21:48:34.720Z",
   "news": [
+    {
+      "id": "auto-038aff7db1b8",
+      "title": "iPhone Fold expected to fuel rebound in foldable phone panel shipments, per report",
+      "source": "9to5Mac",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-01",
+      "time": "20:51",
+      "publishedAt": "2026-07-01T20:51:04.000Z",
+      "url": "https://9to5mac.com/2026/07/01/iphone-fold-expected-to-fuel-rebound-in-foldable-phone-panel-shipments-per-report/",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/03/iphone-fold-mockup-blue.jpg?quality=82&strip=all&w=1600",
+      "summary": "According to Counterpoint Research, Apple’s entry into the foldable phone market will help drive a strong rebound in foldable smartphone panel shipments this year. Here are the de…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-aad15b0e0a2d",
+      "title": "Latest Galaxy Z Fold 8 renders show why you may prefer this shape over the Galaxy S26 Ultra",
+      "source": "Android Authority",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-01",
+      "time": "20:34",
+      "publishedAt": "2026-07-01T20:34:57.000Z",
+      "url": "https://www.androidauthority.com/galaxy-z-fold-8-comparison-render-3683541/",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2026/04/Galaxy-S26-Ultra-Z-Fold-7-bottom-scaled.jpeg",
+      "summary": "Get another good look at the Galaxy Z Fold 8 ahead of launch.",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-840f8ee238a3",
+      "title": "Google has a fix for the Pixel 4a’s boot loop problem, and it’s coming soon",
+      "source": "Android Authority",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-01",
+      "time": "20:15",
+      "publishedAt": "2026-07-01T20:15:46.000Z",
+      "url": "https://www.androidauthority.com/pixel-4a-boot-loop-fix-3683547/",
+      "image": "",
+      "summary": "The boot loop cure is set to arrive sometime this month.",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "coolapk-user-9a5a2bebc898",
       "title": "竹本青：【奇瑞犀牛电池安全保障计划正式发布：三项“兜底”承诺，全系满足最新国家标准】 ● 全系满足最新国家标准 奇瑞所有搭…",
@@ -857,26 +917,6 @@ window.phoneRadarAuto = {
       "summary": "Foldable smartphones continue to evolve rapidly, and the Vivo X Fold6 and OPPO Find N6 represent two of the most advanced options available. Both target power users with flagship…",
       "tags": [
         "OPPO",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-e65db6f5657e",
-      "title": "Apple’s biggest leak in years shows the iPhone 18 Pro surviving a drop test (Updated: Leaker denies)",
-      "source": "Android Authority",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-30",
-      "time": "04:58",
-      "publishedAt": "2026-06-30T04:58:28.000Z",
-      "url": "https://www.androidauthority.com/apple-iphone-18-pro-drop-test-video-images-leak-3682690/",
-      "image": "https://www.androidauthority.com/wp-content/uploads/2026/06/iPhone-18-Pro-Drop-Test-1.jpg",
-      "summary": "Android phones leak every year, but Apple's latest leak is on another level.",
-      "tags": [
-        "iPhone",
         "爆料",
         "自动抓取"
       ]

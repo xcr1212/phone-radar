@@ -1,5 +1,5 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-07-01T20:13:54.182Z",
+  "updatedAt": "2026-07-01T21:48:34.720Z",
   "issueDate": "2026-07-01",
   "issue": "VOL.260701",
   "title": "手机情报日报",
@@ -111,29 +111,6 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
-          "id": "auto-e65db6f5657e",
-          "title": "iPhone 18 Pro 功能更新或覆盖范围扩大",
-          "originalTitle": "",
-          "source": "Android Authority",
-          "brand": "iPhone",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-06-30",
-          "time": "04:58",
-          "publishedAt": "2026-06-30T04:58:28.000Z",
-          "url": "https://www.androidauthority.com/apple-iphone-18-pro-drop-test-video-images-leak-3682690/",
-          "image": "https://www.androidauthority.com/wp-content/uploads/2026/06/iPhone-18-Pro-Drop-Test-1.jpg",
-          "verdict": "先看",
-          "takeaway": "iPhone 18 Pro 功能更新或覆盖范围扩大。已转成中文摘要展示，详细内容可打开原文核对。",
-          "detail": "iPhone 18 Pro 功能更新或覆盖范围扩大。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
-          "keyPoints": [
-            "爆料来源"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
           "id": "coolapk-user-a19fce8f9b96",
           "title": "JSCHEN小小狐：vivo X500 Pro Max 最新一版影像规格曝光",
           "originalTitle": "",
@@ -176,6 +153,29 @@ window.phoneRadarDaily = {
             "电池 / 充电"
           ],
           "confidence": "可信度较高，但仍属于发布前线索。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "auto-aad15b0e0a2d",
+          "title": "Galaxy S26 Ultra 外观设计线索曝光",
+          "originalTitle": "",
+          "source": "Android Authority",
+          "brand": "Samsung",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-07-01",
+          "time": "20:34",
+          "publishedAt": "2026-07-01T20:34:57.000Z",
+          "url": "https://www.androidauthority.com/galaxy-z-fold-8-comparison-render-3683541/",
+          "image": "https://www.androidauthority.com/wp-content/uploads/2026/04/Galaxy-S26-Ultra-Z-Fold-7-bottom-scaled.jpeg",
+          "verdict": "先看",
+          "takeaway": "Galaxy S26 Ultra 外观设计线索曝光。重点看外观、颜色、尺寸是否和上一代有明显变化。",
+          "detail": "Galaxy S26 Ultra 外观设计线索曝光。这类内容主要看外观设计、按键布局、相机模组和尺寸变化，后续最好等更多渲染图或保护壳线索互相验证。",
+          "keyPoints": [
+            "外观 / 配色 / 尺寸"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
@@ -303,6 +303,29 @@ window.phoneRadarDaily = {
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         },
         {
+          "id": "auto-038aff7db1b8",
+          "title": "iPhone 折叠屏相关消息",
+          "originalTitle": "",
+          "source": "9to5Mac",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-07-01",
+          "time": "20:51",
+          "publishedAt": "2026-07-01T20:51:04.000Z",
+          "url": "https://9to5mac.com/2026/07/01/iphone-fold-expected-to-fuel-rebound-in-foldable-phone-panel-shipments-per-report/",
+          "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/03/iphone-fold-mockup-blue.jpg?quality=82&strip=all&w=1600",
+          "verdict": "扫一眼",
+          "takeaway": "iPhone 折叠屏相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
+          "detail": "iPhone 折叠屏相关消息。重点看折痕、铰链、厚度、屏幕可靠性和重量是否有实质改善。",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        },
+        {
           "id": "auto-708c21398dd4",
           "title": "iPhone 18 Pro 外观设计线索曝光",
           "originalTitle": "",
@@ -400,29 +423,6 @@ window.phoneRadarDaily = {
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
-        {
-          "id": "auto-abcc4d9edd6d",
-          "title": "Pixel 10 发布 / 上市相关消息",
-          "originalTitle": "",
-          "source": "9to5Google",
-          "brand": "Pixel",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-06-30",
-          "time": "15:59",
-          "publishedAt": "2026-06-30T15:59:24.000Z",
-          "url": "https://9to5google.com/2026/06/30/pixel-audio-services-play-store/",
-          "image": "",
-          "verdict": "可略过",
-          "takeaway": "Pixel 有发布或新功能消息，适合确认是否和新机有关。",
-          "detail": "Pixel 10 发布 / 上市相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         }
       ]
     },
@@ -501,6 +501,29 @@ window.phoneRadarDaily = {
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         },
         {
+          "id": "auto-840f8ee238a3",
+          "title": "Pixel 相关消息",
+          "originalTitle": "",
+          "source": "Android Authority",
+          "brand": "Pixel",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-07-01",
+          "time": "20:15",
+          "publishedAt": "2026-07-01T20:15:46.000Z",
+          "url": "https://www.androidauthority.com/pixel-4a-boot-loop-fix-3683547/",
+          "image": "",
+          "verdict": "可略过",
+          "takeaway": "Pixel 相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
+          "detail": "Pixel 相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        },
+        {
           "id": "auto-ec5073a0bef1",
           "title": "HONOR 折叠屏相关消息",
           "originalTitle": "",
@@ -522,29 +545,6 @@ window.phoneRadarDaily = {
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "影响购买预算，值得先看。",
-          "action": "有具体参数就记录到参数库；没有参数就先收藏。"
-        },
-        {
-          "id": "auto-4e91de2dcb3e",
-          "title": "OPPO 相关消息",
-          "originalTitle": "",
-          "source": "9to5Google",
-          "brand": "OPPO",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-06-30",
-          "time": "17:40",
-          "publishedAt": "2026-06-30T17:40:00.000Z",
-          "url": "https://9to5google.com/2026/06/30/oneplus-is-now-pushing-its-users-to-buy-oppo-products-in-some-regions/",
-          "image": "https://9to5google.com/wp-content/uploads/sites/4/2025/11/oneplus-15-review-05.jpg?quality=82&strip=all&w=1600",
-          "verdict": "可略过",
-          "takeaway": "OPPO 相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
-          "detail": "OPPO 相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
-          "keyPoints": [
-            "屏幕形态"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "影响手感和显示体验，适合和其他机型对比。",
           "action": "有具体参数就记录到参数库；没有参数就先收藏。"
         }
       ]
