@@ -1,5 +1,5 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-07-01T12:47:30.648Z",
+  "updatedAt": "2026-07-01T16:39:12.193Z",
   "issueDate": "2026-07-01",
   "issue": "VOL.260701",
   "title": "手机情报日报",
@@ -17,6 +17,29 @@ window.phoneRadarDaily = {
       "title": "重点爆料",
       "hint": "机模、配色、影像、屏幕、电池和芯片线索先看。",
       "items": [
+        {
+          "id": "auto-a1e525711dd9",
+          "title": "研究：苹果 iPhone 普及与美国生育率下滑存在关联",
+          "originalTitle": "",
+          "source": "IT之家",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-07-01",
+          "time": "14:19",
+          "publishedAt": "2026-07-01T14:19:55.000Z",
+          "url": "https://www.ithome.com/0/971/375.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/7/ecf11223-717d-4a60-9716-ed6b843d5bd0.png?x-bce-process=image/format,f_auto",
+          "verdict": "先看",
+          "takeaway": "IT之家 7 月 1 日消息，据 MacWorld 报道，美国生育率已跌至历史低位。美国政府数据网站 GovFacts 的数据显示，该国自 2007 年起生育率就长期低于人口更替水平。如今，美国国家经济研究局的科研人员认为，他们找到了生育率下滑的诱因 —— 苹果 iPhone。 2007 年 iPhone 首发至 2011 年期间，AT&T 是这款手机的独…",
+          "detail": "IT之家 7 月 1 日消息，据 MacWorld 报道，美国生育率已跌至历史低位。美国政府数据网站 GovFacts 的数据显示，该国自 2007 年起生育率就长期低于人口更替水平。如今，美国国家经济研究局的科研人员认为，他们找到了生育率下滑的诱因 —— 苹果 iPhone。 2007 年 iPhone 首发至 2011 年期间，AT&T 是这款手机的独…",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
         {
           "id": "auto-53cade9c6d23",
           "title": "苹果史上最恶劣泄密事件：iPhone 18 Pro 要「凉」了？",
@@ -41,43 +64,20 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
-          "id": "newsnow-633151ba0593",
-          "title": "iPhone18Pro还有银灰浅蓝配色",
-          "originalTitle": "",
-          "source": "微博热搜",
-          "brand": "iPhone",
-          "type": "爆料",
-          "trust": "待验证",
-          "date": "2026-07-01",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://s.weibo.com/weibo?q=%23iPhone18Pro%E8%BF%98%E6%9C%89%E9%93%B6%E7%81%B0%E6%B5%85%E8%93%9D%E9%85%8D%E8%89%B2%23&t=31&band_rank=19&Refer=top",
-          "image": "",
-          "verdict": "先看",
-          "takeaway": "iPhone18Pro还有银灰浅蓝配色",
-          "detail": "iPhone18Pro还有银灰浅蓝配色",
-          "keyPoints": [
-            "外观 / 配色 / 尺寸"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "auto-adedd86807b8",
+          "id": "auto-f143677126e1",
           "title": "iPhone 18 Pro 机模 / 配色信息曝光",
           "originalTitle": "",
-          "source": "MacRumors",
+          "source": "9to5Mac",
           "brand": "iPhone",
           "type": "爆料",
           "trust": "媒体汇总",
-          "date": "2026-06-30",
-          "time": "12:23",
-          "publishedAt": "2026-06-30T12:23:52.000Z",
-          "url": "https://www.macrumors.com/2026/06/30/iphone-18-pro-sim-tray-dark-cherry-color/",
-          "image": "https://images.macrumors.com/article-new/2026/06/iphone-18-pro-dark-cherry-sim-tray@2x-scaled.jpg",
+          "date": "2026-07-01",
+          "time": "13:40",
+          "publishedAt": "2026-07-01T13:40:09.000Z",
+          "url": "https://9to5mac.com/2026/07/01/iphone-18-pro-to-offer-only-these-three-colors-per-leaker/",
+          "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/05/iphone-17-pro-silver-centered.jpg?quality=82&strip=all&w=1600",
           "verdict": "先看",
-          "takeaway": "iPhone 有系统功能或 AI 体验更新，适合关注后续是否影响日常使用。",
+          "takeaway": "iPhone 18 Pro 机模 / 配色信息曝光。已转成中文摘要展示，详细内容可打开原文核对。",
           "detail": "iPhone 18 Pro 机模 / 配色信息曝光。来源提到未发布机型的机模/配色图，适合先判断外观方向、颜色变化和机身轮廓，但最终量产版本仍可能调整。",
           "keyPoints": [
             "外观 / 配色 / 尺寸",
@@ -88,23 +88,22 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
-          "id": "auto-3d15161e8772",
-          "title": "iPhone 18 Pro 影像能力相关消息",
+          "id": "auto-7cc0e1c505d6",
+          "title": "iPhone 相关消息",
           "originalTitle": "",
           "source": "MacRumors",
           "brand": "iPhone",
           "type": "爆料",
           "trust": "媒体汇总",
-          "date": "2026-06-30",
-          "time": "11:08",
-          "publishedAt": "2026-06-30T11:08:42.000Z",
-          "url": "https://www.macrumors.com/2026/06/30/apple-crackdown-iphone-18-pro-leak-video-gone/",
-          "image": "https://images.macrumors.com/article-new/2026/01/Dynamic-Island-iPhone-18-Pro-Feature.jpg",
+          "date": "2026-07-01",
+          "time": "14:13",
+          "publishedAt": "2026-07-01T14:13:49.000Z",
+          "url": "https://www.macrumors.com/2026/07/01/apple-has-cut-iphone-17-production/",
+          "image": "https://images.macrumors.com/article-new/2025/09/better-iphone-17-lineup.jpg",
           "verdict": "先看",
-          "takeaway": "iPhone 影像能力相关宣传或案例，主要看是否透露拍摄能力变化。",
-          "detail": "iPhone 18 Pro 影像能力相关消息。重点看影像功能是否和新机硬件有关，如果只是拍摄案例或营销内容，参考价值会低一些。",
+          "takeaway": "iPhone 相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
+          "detail": "iPhone 相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
           "keyPoints": [
-            "影像硬件",
             "爆料来源"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
@@ -335,6 +334,29 @@ window.phoneRadarDaily = {
       "hint": "能直接更新到参数库。",
       "items": [
         {
+          "id": "auto-3c1fc3115c4d",
+          "title": "华为鸿蒙 HarmonyOS 7 花粉 Beta 适配机型公布，含 Mate 60、Pura 70、畅享 70X 等",
+          "originalTitle": "",
+          "source": "IT之家",
+          "brand": "Huawei",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-07-01",
+          "time": "15:20",
+          "publishedAt": "2026-07-01T15:20:32.000Z",
+          "url": "https://www.ithome.com/0/971/387.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/6/8cbe2680-dd60-46c3-8a17-01e65a97145c.jpg?x-bce-process=image/auto-orient,o_1",
+          "verdict": "先看",
+          "takeaway": "IT之家 7 月 1 日消息，在 6 月 12 日启幕的华为开发者大会 HDC 2026 上， 华为鸿蒙 HarmonyOS 7 系统正式发布 ，官方也同步开启开发者 Beta 1 版公开招募。 华为开发者官网显示，鸿蒙 HarmonyOS 7（API 26）开发者 Beta 1 公开招募活动的报名周期为 2026 年 6 月 12 日-2026 年 7…",
+          "detail": "IT之家 7 月 1 日消息，在 6 月 12 日启幕的华为开发者大会 HDC 2026 上， 华为鸿蒙 HarmonyOS 7 系统正式发布 ，官方也同步开启开发者 Beta 1 版公开招募。 华为开发者官网显示，鸿蒙 HarmonyOS 7（API 26）开发者 Beta 1 公开招募活动的报名周期为 2026 年 6 月 12 日-2026 年 7…",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "中文源可以直接点开快读；看完只保留和购机有关的点。"
+        },
+        {
           "id": "newsnow-f8a1c4cbd5d8",
           "title": "REDMI K90 至尊版发布，首销售价2799元起",
           "originalTitle": "",
@@ -426,31 +448,6 @@ window.phoneRadarDaily = {
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "影响日常体验，尤其是游戏、拍照和长时间使用。",
           "action": "有具体参数就记录到参数库；没有参数就先收藏。"
-        },
-        {
-          "id": "auto-2eb59111ef5d",
-          "title": "Xiaomi 电池 / 充电相关消息",
-          "originalTitle": "",
-          "source": "Gizmochina",
-          "brand": "Xiaomi",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-06-30",
-          "time": "13:53",
-          "publishedAt": "2026-06-30T13:53:49.000Z",
-          "url": "https://www.gizmochina.com/2026/06/30/xiaomi-redmi-k90-ultra-launched-specs-price/",
-          "image": "https://www.gizmochina.com/wp-content/uploads/2026/06/Redmi-K90-Ultra-2-300x188.png?x44794",
-          "verdict": "可略过",
-          "takeaway": "Xiaomi 电池 / 充电相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
-          "detail": "Xiaomi 电池 / 充电相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
-          "keyPoints": [
-            "屏幕形态",
-            "电池 / 充电",
-            "芯片 / 性能"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "影响性能和寿命判断，适合放进参数库。",
-          "action": "有具体参数就记录到参数库；没有参数就先收藏。"
         }
       ]
     },
@@ -459,29 +456,6 @@ window.phoneRadarDaily = {
       "title": "行业趋势",
       "hint": "看方向，不急着当购买依据。",
       "items": [
-        {
-          "id": "newsnow-78c44b4b3dd9",
-          "title": "这个手机到底怎么拍人，还是说安卓真的不能拍人[受虐滑稽] #人像摄影# #小米15Ultra#",
-          "originalTitle": "",
-          "source": "酷安热榜",
-          "brand": "Xiaomi",
-          "type": "爆料",
-          "trust": "高关注爆料源",
-          "date": "2026-07-01",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://www.coolapk.com/feed/72577810",
-          "image": "",
-          "verdict": "先看",
-          "takeaway": "这个手机到底怎么拍人，还是说安卓真的不能拍人[受虐滑稽] #人像摄影# #小米15Ultra#",
-          "detail": "这个手机到底怎么拍人，还是说安卓真的不能拍人[受虐滑稽] #人像摄影# #小米15Ultra#",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
         {
           "id": "coolapk-user-0b87b1069e4f",
           "title": "竹本青：【2026年上半年酷安机型热度榜出炉：华为 Mate 80 Pro Max登顶榜首】 榜首 —— 华为 Mate…",
@@ -502,6 +476,29 @@ window.phoneRadarDaily = {
             "爆料"
           ],
           "confidence": "可信度较高，但仍属于发布前线索。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        },
+        {
+          "id": "newsnow-06ce244bf0ad",
+          "title": "骁龙8E6系列新旗舰手机起步价或将6000元以上",
+          "originalTitle": "",
+          "source": "酷安热榜",
+          "brand": "行业",
+          "type": "爆料",
+          "trust": "高关注爆料源",
+          "date": "2026-07-01",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://www.coolapk.com/feed/72602305",
+          "image": "",
+          "verdict": "扫一眼",
+          "takeaway": "骁龙8E6系列新旗舰手机起步价或将6000元以上",
+          "detail": "骁龙8E6系列新旗舰手机起步价或将6000元以上",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         },

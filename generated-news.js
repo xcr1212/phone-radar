@@ -1,6 +1,106 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-07-01T12:47:30.648Z",
+  "updatedAt": "2026-07-01T16:39:12.193Z",
   "news": [
+    {
+      "id": "auto-3c1fc3115c4d",
+      "title": "华为鸿蒙 HarmonyOS 7 花粉 Beta 适配机型公布，含 Mate 60、Pura 70、畅享 70X 等",
+      "source": "IT之家",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-01",
+      "time": "15:20",
+      "publishedAt": "2026-07-01T15:20:32.000Z",
+      "url": "https://www.ithome.com/0/971/387.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/6/8cbe2680-dd60-46c3-8a17-01e65a97145c.jpg?x-bce-process=image/auto-orient,o_1",
+      "summary": "IT之家 7 月 1 日消息，在 6 月 12 日启幕的华为开发者大会 HDC 2026 上， 华为鸿蒙 HarmonyOS 7 系统正式发布 ，官方也同步开启开发者 Beta 1 版公开招募。 华为开发者官网显示，鸿蒙 HarmonyOS 7（API 26）开发者 Beta 1 公开招募活动的报名周期为 2026 年 6 月 12 日-2026 年 7…",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-a1e525711dd9",
+      "title": "研究：苹果 iPhone 普及与美国生育率下滑存在关联",
+      "source": "IT之家",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-01",
+      "time": "14:19",
+      "publishedAt": "2026-07-01T14:19:55.000Z",
+      "url": "https://www.ithome.com/0/971/375.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/7/ecf11223-717d-4a60-9716-ed6b843d5bd0.png?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 7 月 1 日消息，据 MacWorld 报道，美国生育率已跌至历史低位。美国政府数据网站 GovFacts 的数据显示，该国自 2007 年起生育率就长期低于人口更替水平。如今，美国国家经济研究局的科研人员认为，他们找到了生育率下滑的诱因 —— 苹果 iPhone。 2007 年 iPhone 首发至 2011 年期间，AT&T 是这款手机的独…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-7cc0e1c505d6",
+      "title": "Apple Has Reportedly Cut iPhone 17 Lineup Production",
+      "source": "MacRumors",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-01",
+      "time": "14:13",
+      "publishedAt": "2026-07-01T14:13:49.000Z",
+      "url": "https://www.macrumors.com/2026/07/01/apple-has-cut-iphone-17-production/",
+      "image": "https://images.macrumors.com/article-new/2025/09/better-iphone-17-lineup.jpg",
+      "summary": "Soaring demand for the iPhone 17 lineup seems to have finally come to an end, amid rumors that Apple has finally lowered expectations and reduced production plans by 15%. In a pai…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-f143677126e1",
+      "title": "iPhone 18 Pro to offer only these three colors, per leaker",
+      "source": "9to5Mac",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-01",
+      "time": "13:40",
+      "publishedAt": "2026-07-01T13:40:09.000Z",
+      "url": "https://9to5mac.com/2026/07/01/iphone-18-pro-to-offer-only-these-three-colors-per-leaker/",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/05/iphone-17-pro-silver-centered.jpg?quality=82&strip=all&w=1600",
+      "summary": "iPhone 18 Pro is just a couple months away from launching, and more details on the new product keep leaking—including colors. Here are the three new iPhone 18 Pro colors according…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-aa7ee42451cd",
+      "title": "Samsung accidentally reveals Galaxy Z Flip 8 and Fold 8 launch date",
+      "source": "SamMobile",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-01",
+      "time": "13:22",
+      "publishedAt": "2026-07-01T13:22:02.000Z",
+      "url": "https://www.sammobile.com/news/galaxy-z-flip-8-fold-8-launch-date-accidentally-revealed/",
+      "image": "https://www.sammobile.com/wp-content/uploads/2026/07/Samsung-Galaxy-Z-Flip-8-Fold-8-Ultra-Launch-Date-Leak.jpg",
+      "summary": "Samsung started teasing its next-generation foldable phones, the Galaxy Z Flip 8, Galaxy Z Fold 8, and Galaxy Z Fold 8 Ultra, earlier today. While the company hasn’t officially an…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-4d85c7f869f6",
       "title": "The iPhone contributed to ‘a collapse in US fertility,’ claims scientific study",
@@ -82,26 +182,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-4c3f8b6a71ab",
-      "title": "零刻 ME Pro 四盘位 H255 新品 NAS 迷你主机发布：AMD 锐龙处理器、最高 136TB 存储，2739 元起",
-      "source": "IT之家",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-01",
-      "time": "09:49",
-      "publishedAt": "2026-07-01T09:49:05.000Z",
-      "url": "https://www.ithome.com/0/971/288.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/7/c0bb12b6-3fd2-4a97-8613-6d428cd580a3.jpg?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 7 月 1 日消息，零刻 ME Pro 系列 NAS 迷你主机推出 AMD 平台版本，搭载 AMD 锐龙 R7 H255 处理器，四盘位存储： 首发价 2739 元起（准系统无内存硬盘） 32GB DDR5+500GB SSD 版本首发价 5599 元 新机最高支持 136TB 存储，配备 4 个 M.2 插槽和 4 个机械硬盘插槽；配备 8 核…",
-      "tags": [
-        "行业",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-80d233e6b6c0",
       "title": "Galaxy S23 FE finally gets the June 2026 security update",
       "source": "SamMobile",
@@ -115,26 +195,6 @@ window.phoneRadarAuto = {
       "url": "https://www.sammobile.com/news/galaxy-s23-fe-june-2026-security-update-released/",
       "image": "",
       "summary": "Samsung has released a new software update for the Galaxy S23 FE, bringing the June 2026 security patch to the Fan Edition phone. A similar security update was released for the ot…",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-3a22e8ad2a2c",
-      "title": "Samsung’s latest Instagram stunt is all about the Galaxy Z Fold 8 Wide",
-      "source": "Android Police",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-01",
-      "time": "07:34",
-      "publishedAt": "2026-07-01T07:34:11.000Z",
-      "url": "https://www.androidpolice.com/samsungs-latest-instagram-stunt-galaxy-z-fold-8-wide/",
-      "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2026/05/hands-holding-a-samsung-galaxy-z-fold-8-wide-on-a-blue-background.png",
-      "summary": "A new shape is coming",
       "tags": [
         "Samsung",
         "爆料",
@@ -342,41 +402,21 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-78c44b4b3dd9",
-      "title": "这个手机到底怎么拍人，还是说安卓真的不能拍人[受虐滑稽] #人像摄影# #小米15Ultra#",
+      "id": "newsnow-06ce244bf0ad",
+      "title": "骁龙8E6系列新旗舰手机起步价或将6000元以上",
       "source": "酷安热榜",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
+      "brand": "行业",
+      "model": "智能手机市场",
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-07-01",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72577810",
+      "url": "https://www.coolapk.com/feed/72602305",
       "image": "",
-      "summary": "这个手机到底怎么拍人，还是说安卓真的不能拍人[受虐滑稽] #人像摄影# #小米15Ultra#",
+      "summary": "骁龙8E6系列新旗舰手机起步价或将6000元以上",
       "tags": [
-        "Xiaomi",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-633151ba0593",
-      "title": "iPhone18Pro还有银灰浅蓝配色",
-      "source": "微博热搜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "待验证",
-      "date": "2026-07-01",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://s.weibo.com/weibo?q=%23iPhone18Pro%E8%BF%98%E6%9C%89%E9%93%B6%E7%81%B0%E6%B5%85%E8%93%9D%E9%85%8D%E8%89%B2%23&t=31&band_rank=19&Refer=top",
-      "image": "",
-      "summary": "iPhone18Pro还有银灰浅蓝配色",
-      "tags": [
-        "iPhone",
+        "行业",
         "爆料",
         "NewsNow"
       ]
@@ -602,26 +642,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-adedd86807b8",
-      "title": "Alleged iPhone 18 Pro Sim Tray Again Shows Dark Cherry Color",
-      "source": "MacRumors",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-30",
-      "time": "12:23",
-      "publishedAt": "2026-06-30T12:23:52.000Z",
-      "url": "https://www.macrumors.com/2026/06/30/iphone-18-pro-sim-tray-dark-cherry-color/",
-      "image": "https://images.macrumors.com/article-new/2026/06/iphone-18-pro-dark-cherry-sim-tray@2x-scaled.jpg",
-      "summary": "Apple's upcoming iPhone 18 Pro models are expected to introduce new color options, including a dark cherry color, and today we may have been given another peek at the rumored fini…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-ec0c9d500bd3",
       "title": "The Galaxy S27 won’t use a cheaper screen after all, and that’s bad news",
       "source": "Android Authority",
@@ -655,26 +675,6 @@ window.phoneRadarAuto = {
       "url": "https://www.androidauthority.com/iphone-18-pro-color-dynamic-island-leak-3682857/",
       "image": "https://www.androidauthority.com/wp-content/uploads/2026/02/Apple-iPhone-17-series-iPhone-17-iPhone-Air-iPhone-17-Pro-iPhone-17-Pro-Max.jpg",
       "summary": "A massive data breach at Tata Electronics has seemingly exposed Apple's finalized Cherry Red color and internal schematics.",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-3d15161e8772",
-      "title": "Apple Crackdown Suspected After iPhone 18 Pro Leak Videos Disappear",
-      "source": "MacRumors",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-06-30",
-      "time": "11:08",
-      "publishedAt": "2026-06-30T11:08:42.000Z",
-      "url": "https://www.macrumors.com/2026/06/30/apple-crackdown-iphone-18-pro-leak-video-gone/",
-      "image": "https://images.macrumors.com/article-new/2026/01/Dynamic-Island-iPhone-18-Pro-Feature.jpg",
-      "summary": "Apple could be taking action to limit the spread of leaked iPhone 18 Pro video footage that surfaced online following a recent cyberattack targeting Tata Electronics, one of Apple…",
       "tags": [
         "iPhone",
         "爆料",
