@@ -1,24 +1,84 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-07-01T10:13:04.942Z",
+  "updatedAt": "2026-07-01T12:47:30.648Z",
   "news": [
     {
-      "id": "auto-77c4e82e86c8",
-      "title": "How the Galaxy S26 Ultra camera experience is enhanced by Super Steady and Horizontal Lock",
-      "source": "SamMobile",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
+      "id": "auto-4d85c7f869f6",
+      "title": "The iPhone contributed to ‘a collapse in US fertility,’ claims scientific study",
+      "source": "9to5Mac",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
       "type": "爆料",
       "trust": "媒体汇总",
       "date": "2026-07-01",
-      "time": "10:00",
-      "publishedAt": "2026-07-01T10:00:00.000Z",
-      "url": "https://www.sammobile.com/news/how-galaxy-s26-ultra-camera-experience-enhanced-super-steady-horizontal-lock/",
-      "image": "",
-      "summary": "The Samsung Galaxy S26 Ultra has two video tools that keep handheld footage smooth and level even when you are moving: Super Steady[1] and Horizontal Lock. The two do different jo…",
+      "time": "12:27",
+      "publishedAt": "2026-07-01T12:27:21.000Z",
+      "url": "https://9to5mac.com/2026/07/01/the-iphone-contributed-to-a-collapse-in-us-fertility-claims-scientific-study/",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/The-iPhone-contributed-to-a-collapse-in-US-fertility-claims-scientific-study.jpg?quality=82&strip=all&w=1600",
+      "summary": "The launch of the iPhone was one factor contributing to a historically low birth rate in the United States, according to a new scientific study. Specifically, the study claims tha…",
       "tags": [
-        "Samsung",
+        "iPhone",
         "爆料",
         "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-ec5073a0bef1",
+      "title": "Even more people can now buy this thin Galaxy Z Fold 8 Ultra competitor with a huge battery",
+      "source": "Android Authority",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-01",
+      "time": "12:24",
+      "publishedAt": "2026-07-01T12:24:15.000Z",
+      "url": "https://www.androidauthority.com/honor-magic-v6-available-europe-3683346/",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2026/02/honor-magic-v6-hands-on-1-scaled.jpg",
+      "summary": "The HONOR Magic V6 is an amazing foldable with an eye-watering price tag.",
+      "tags": [
+        "HONOR",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-401e45510f52",
+      "title": "The end is near? OnePlus is quietly steering customers toward OPPO products",
+      "source": "Android Authority",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-01",
+      "time": "11:48",
+      "publishedAt": "2026-07-01T11:48:14.000Z",
+      "url": "https://www.androidauthority.com/oneplus-website-redirecting-to-oppo-3683330/",
+      "image": "",
+      "summary": "The slow death of OnePlus continues as official site points buyers toward OPPO.",
+      "tags": [
+        "OPPO",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-0b87b1069e4f",
+      "title": "竹本青：【2026年上半年酷安机型热度榜出炉：华为 Mate 80 Pro Max登顶榜首】 榜首 —— 华为 Mate…",
+      "source": "竹本青",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-07-01",
+      "time": "10:47",
+      "publishedAt": "2026-07-01T10:47:58.000Z",
+      "url": "https://www.coolapk.com/feed/72605899",
+      "image": "http://image.coolapk.com/feed/2026/0701/18/4248714_9ff4a118_2877_5555_388@1000x1360.jpg",
+      "summary": "【2026年上半年酷安机型热度榜出炉：华为 Mate 80 Pro Max登顶榜首】 榜首 —— 华为 Mate 80 Pro Max 第二—— REDMI K90 Pro Max 第三 —— 一加 15 第四 —— iPhone Air 第五 —— iPhone 17 Pro Max 第六 —— 小米17 Pro Max 第七 —— iPhone 17…",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "酷安博主"
       ]
     },
     {
@@ -42,26 +102,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-b397c045bb2d",
-      "title": "消息称新一轮涨价 AOVMHh 都逃不掉，骁龙 8E6 新旗舰预计起步 6K+",
-      "source": "IT之家",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-01",
-      "time": "07:40",
-      "publishedAt": "2026-07-01T07:40:34.000Z",
-      "url": "https://www.ithome.com/0/971/115.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/7/37b0bfdd-c4b9-4723-b564-9d3fa1fd3082.jpg?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 7 月 1 日消息，随着存储价格的不断走高，目前手机行业的产品定价也水涨船高。 博主 @数码闲聊站 今日爆料称，行业的共识是存储涨价是个长周期事件，当前涨幅高达 4 倍，随着库存消耗殆尽， 新一轮涨价从 Q2 已经开始，AOVMHh 都逃不掉 ： 最近部分骁龙 8E5 老旗舰已涨到 5K， 骁龙 8E6 新旗舰预计起步 6K+，骁龙 8E6 Pr…",
-      "tags": [
-        "行业",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-80d233e6b6c0",
       "title": "Galaxy S23 FE finally gets the June 2026 security update",
       "source": "SamMobile",
@@ -77,26 +117,6 @@ window.phoneRadarAuto = {
       "summary": "Samsung has released a new software update for the Galaxy S23 FE, bringing the June 2026 security patch to the Fan Edition phone. A similar security update was released for the ot…",
       "tags": [
         "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-9165d38b9122",
-      "title": "2026 年 6 月全球桌面浏览器排行：谷歌 Chrome 72.24%、微软 Edge 10.45%、火狐 Firefox 6.31%",
-      "source": "IT之家",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-01",
-      "time": "07:37",
-      "publishedAt": "2026-07-01T07:37:01.000Z",
-      "url": "https://www.ithome.com/0/971/106.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/7/28cede85-785f-44af-9fcd-9a8cad0f33da.jpg",
-      "summary": "IT之家 7 月 1 日消息，根据市场调查机构 Statcounter 公布的最新报告，2026 年 6 月全球桌面浏览器市场中，Chrome 依然稳居第一，占比 72.24%，Edge 以 10.45% 的份额占据第二，Firefox 以 6.31% 位居第三。 全球桌面平台 Chrome 占比 72.24%，环比下降 2.81 个百分点 Edge 占比…",
-      "tags": [
-        "行业",
         "爆料",
         "自动抓取"
       ]
@@ -182,26 +202,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "coolapk-user-22d87c6e6361",
-      "title": "竹本青：骁龙8E6系列新旗舰手机起步价或将6000元以上",
-      "source": "竹本青",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-07-01",
-      "time": "06:10",
-      "publishedAt": "2026-07-01T06:10:06.000Z",
-      "url": "https://www.coolapk.com/feed/72602305",
-      "image": "http://image.coolapk.com/feed/2026/0701/14/4248714_33fa88f7_6205_4192_44@1439x684.jpg",
-      "summary": "【高通骁龙8E6系列 新旗舰手机 起步价或将6000元以上】 数码闲聊站今日发文称，存储涨价是行业共识的长周期事件，随着库存消耗殆尽，新一轮涨价从Q2已经开始，各手机厂商都“逃不掉”： 最近部分骁龙8E5老旗舰已涨到5K，骁龙8E6新旗舰预计起步6K+，骁龙8E6 Pro可能更夸张；因此未来也会有不少新机沿用骁龙8E5留守5K档内。 #今日热点# #如何看…",
-      "tags": [
-        "行业",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
       "id": "auto-3318af2a3add",
       "title": "Huawei begins testing eSIM capability for Mate 90 models",
       "source": "Huawei Central",
@@ -219,46 +219,6 @@ window.phoneRadarAuto = {
         "Huawei",
         "爆料",
         "自动抓取"
-      ]
-    },
-    {
-      "id": "coolapk-user-e2047f17abd4",
-      "title": "竹本青：小米米家手持风扇全新绿色开启众筹，售价169元",
-      "source": "竹本青",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-07-01",
-      "time": "03:24",
-      "publishedAt": "2026-07-01T03:24:09.000Z",
-      "url": "https://www.coolapk.com/feed/72600187",
-      "image": "http://image.coolapk.com/feed/2026/0701/11/4248714_667f6207_6247_1075_997@1080x1440.jpg",
-      "summary": "【小米米家手持风扇 全新绿色 开启众筹，售价169元】 众筹价 —— 169元 建议零售价 —— 249元 ▫️可滑动1~100 挡无级调节风速 ▫️250m³/h风量｜LED 数显屏 ▫️内置5000mAh电池（锂离子） ▫️万转直流电机+斜流叶轮+智能算法 ▫️风速8.5m/s｜送风距离达5米 ▫️最大挡噪音≤69dB(A) ▫️40H小时续航｜支持充…",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
-      "id": "coolapk-user-ed100543733c",
-      "title": "竹本青：iQOO Pad5c 上市：第三代骁龙8s，售价2699元起",
-      "source": "竹本青",
-      "brand": "vivo",
-      "model": "vivo 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-07-01",
-      "time": "03:02",
-      "publishedAt": "2026-07-01T03:02:45.000Z",
-      "url": "https://www.coolapk.com/feed/72599858",
-      "image": "http://image.coolapk.com/feed/2026/0701/11/4248714_fe23718e_4962_3034_799@1939x4274.jpg",
-      "summary": "【iQOO Pad5c 正式上市：第三代骁龙8s+12.1英寸LCD屏，售价2699元起】 8GB+128GB —— 2699元 8GB+256GB —— 2999元 12GB+256GB —— 3499元 核心： ● 12.1\" 2.8K 144Hz LCD屏 ● 第三代骁龙8s处理器 ● LPDDR5X+UFS4.1 ● 10000mAh电池+44W快…",
-      "tags": [
-        "vivo",
-        "爆料",
-        "酷安博主"
       ]
     },
     {
@@ -397,6 +357,26 @@ window.phoneRadarAuto = {
       "summary": "这个手机到底怎么拍人，还是说安卓真的不能拍人[受虐滑稽] #人像摄影# #小米15Ultra#",
       "tags": [
         "Xiaomi",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-633151ba0593",
+      "title": "iPhone18Pro还有银灰浅蓝配色",
+      "source": "微博热搜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "待验证",
+      "date": "2026-07-01",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://s.weibo.com/weibo?q=%23iPhone18Pro%E8%BF%98%E6%9C%89%E9%93%B6%E7%81%B0%E6%B5%85%E8%93%9D%E9%85%8D%E8%89%B2%23&t=31&band_rank=19&Refer=top",
+      "image": "",
+      "summary": "iPhone18Pro还有银灰浅蓝配色",
+      "tags": [
+        "iPhone",
         "爆料",
         "NewsNow"
       ]

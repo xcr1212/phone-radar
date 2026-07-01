@@ -1,12 +1,12 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-07-01T10:13:04.942Z",
+  "updatedAt": "2026-07-01T12:47:30.648Z",
   "issueDate": "2026-07-01",
   "issue": "VOL.260701",
   "title": "手机情报日报",
-  "intro": "今日筛出 20 条重点，其中 8 条是重点爆料，包含 9 条 iPhone 相关、1 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 23 条重点，其中 8 条是重点爆料，包含 10 条 iPhone 相关、1 条官方确认、0 条参数线索。",
   "stats": {
-    "total": 20,
-    "iphone": 9,
+    "total": 23,
+    "iphone": 10,
     "leaks": 8,
     "official": 1,
     "specs": 0
@@ -35,6 +35,29 @@ window.phoneRadarDaily = {
           "detail": "iPhone 史上最强散热",
           "keyPoints": [
             "评测"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "newsnow-633151ba0593",
+          "title": "iPhone18Pro还有银灰浅蓝配色",
+          "originalTitle": "",
+          "source": "微博热搜",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "待验证",
+          "date": "2026-07-01",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://s.weibo.com/weibo?q=%23iPhone18Pro%E8%BF%98%E6%9C%89%E9%93%B6%E7%81%B0%E6%B5%85%E8%93%9D%E9%85%8D%E8%89%B2%23&t=31&band_rank=19&Refer=top",
+          "image": "",
+          "verdict": "先看",
+          "takeaway": "iPhone18Pro还有银灰浅蓝配色",
+          "detail": "iPhone18Pro还有银灰浅蓝配色",
+          "keyPoints": [
+            "外观 / 配色 / 尺寸"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
@@ -112,79 +135,6 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
-          "id": "auto-b397c045bb2d",
-          "title": "消息称新一轮涨价 AOVMHh 都逃不掉，骁龙 8E6 新旗舰预计起步 6K+",
-          "originalTitle": "",
-          "source": "IT之家",
-          "brand": "行业",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-07-01",
-          "time": "07:40",
-          "publishedAt": "2026-07-01T07:40:34.000Z",
-          "url": "https://www.ithome.com/0/971/115.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/7/37b0bfdd-c4b9-4723-b564-9d3fa1fd3082.jpg?x-bce-process=image/format,f_auto",
-          "verdict": "先看",
-          "takeaway": "IT之家 7 月 1 日消息，随着存储价格的不断走高，目前手机行业的产品定价也水涨船高。 博主 @数码闲聊站 今日爆料称，行业的共识是存储涨价是个长周期事件，当前涨幅高达 4 倍，随着库存消耗殆尽， 新一轮涨价从 Q2 已经开始，AOVMHh 都逃不掉 ： 最近部分骁龙 8E5 老旗舰已涨到 5K， 骁龙 8E6 新旗舰预计起步 6K+，骁龙 8E6 Pr…",
-          "detail": "IT之家 7 月 1 日消息，随着存储价格的不断走高，目前手机行业的产品定价也水涨船高。 博主 @数码闲聊站 今日爆料称，行业的共识是存储涨价是个长周期事件，当前涨幅高达 4 倍，随着库存消耗殆尽， 新一轮涨价从 Q2 已经开始，AOVMHh 都逃不掉 ： 最近部分骁龙 8E5 老旗舰已涨到 5K， 骁龙 8E6 新旗舰预计起步 6K+，骁龙 8E6 Pr…",
-          "keyPoints": [
-            "成本 / 价格",
-            "爆料来源"
-          ],
-          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "coolapk-user-e2047f17abd4",
-          "title": "竹本青：小米米家手持风扇全新绿色开启众筹，售价169元",
-          "originalTitle": "",
-          "source": "竹本青",
-          "brand": "Xiaomi",
-          "type": "爆料",
-          "trust": "高可信爆料",
-          "date": "2026-07-01",
-          "time": "03:24",
-          "publishedAt": "2026-07-01T03:24:09.000Z",
-          "url": "https://www.coolapk.com/feed/72600187",
-          "image": "http://image.coolapk.com/feed/2026/0701/11/4248714_667f6207_6247_1075_997@1080x1440.jpg",
-          "verdict": "先看",
-          "takeaway": "【小米米家手持风扇 全新绿色 开启众筹，售价169元】 众筹价 —— 169元 建议零售价 —— 249元 ▫️可滑动1~100 挡无级调节风速 ▫️250m³/h风量｜LED 数显屏 ▫️内置5000mAh电池（锂离子） ▫️万转直流电机+斜流叶轮+智能算法 ▫️风速8.5m/s｜送风距离达5米 ▫️最大挡噪音≤69dB(A) ▫️40H小时续航｜支持充…",
-          "detail": "【小米米家手持风扇 全新绿色 开启众筹，售价169元】 众筹价 —— 169元 建议零售价 —— 249元 ▫️可滑动1~100 挡无级调节风速 ▫️250m³/h风量｜LED 数显屏 ▫️内置5000mAh电池（锂离子） ▫️万转直流电机+斜流叶轮+智能算法 ▫️风速8.5m/s｜送风距离达5米 ▫️最大挡噪音≤69dB(A) ▫️40H小时续航｜支持充…",
-          "keyPoints": [
-            "电池 / 充电",
-            "成本 / 价格"
-          ],
-          "confidence": "可信度较高，但仍属于发布前线索。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "coolapk-user-ed100543733c",
-          "title": "竹本青：iQOO Pad5c 上市：第三代骁龙8s，售价2699元起",
-          "originalTitle": "",
-          "source": "竹本青",
-          "brand": "vivo",
-          "type": "爆料",
-          "trust": "高可信爆料",
-          "date": "2026-07-01",
-          "time": "03:02",
-          "publishedAt": "2026-07-01T03:02:45.000Z",
-          "url": "https://www.coolapk.com/feed/72599858",
-          "image": "http://image.coolapk.com/feed/2026/0701/11/4248714_fe23718e_4962_3034_799@1939x4274.jpg",
-          "verdict": "先看",
-          "takeaway": "【iQOO Pad5c 正式上市：第三代骁龙8s+12.1英寸LCD屏，售价2699元起】 8GB+128GB —— 2699元 8GB+256GB —— 2999元 12GB+256GB —— 3499元 核心： ● 12.1\" 2.8K 144Hz LCD屏 ● 第三代骁龙8s处理器 ● LPDDR5X+UFS4.1 ● 10000mAh电池+44W快…",
-          "detail": "【iQOO Pad5c 正式上市：第三代骁龙8s+12.1英寸LCD屏，售价2699元起】 8GB+128GB —— 2699元 8GB+256GB —— 2999元 12GB+256GB —— 3499元 核心： ● 12.1\" 2.8K 144Hz LCD屏 ● 第三代骁龙8s处理器 ● LPDDR5X+UFS4.1 ● 10000mAh电池+44W快…",
-          "keyPoints": [
-            "电池 / 充电",
-            "芯片 / 性能",
-            "成本 / 价格"
-          ],
-          "confidence": "可信度较高，但仍属于发布前线索。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
           "id": "coolapk-user-a19fce8f9b96",
           "title": "JSCHEN小小狐：vivo X500 Pro Max 最新一版影像规格曝光",
           "originalTitle": "",
@@ -204,6 +154,54 @@ window.phoneRadarDaily = {
             "影像硬件"
           ],
           "confidence": "可信度较高，但仍属于发布前线索。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "auto-d41bb79a469a",
+          "title": "vivo 影像能力相关消息",
+          "originalTitle": "",
+          "source": "Gizmochina",
+          "brand": "vivo",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-07-01",
+          "time": "07:15",
+          "publishedAt": "2026-07-01T07:15:16.000Z",
+          "url": "https://www.gizmochina.com/2026/07/01/vivo-x500-pro-max-camera-specifications-leak/",
+          "image": "https://www.gizmochina.com/wp-content/uploads/2025/12/Vivo-X300-Pro-1-300x188.png?x44794",
+          "verdict": "先看",
+          "takeaway": "vivo 有系统功能或 AI 体验更新，适合关注后续是否影响日常使用。",
+          "detail": "vivo 影像能力相关消息。重点看影像功能是否和新机硬件有关，如果只是拍摄案例或营销内容，参考价值会低一些。",
+          "keyPoints": [
+            "影像硬件",
+            "爆料来源"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "auto-24fe33a50ecd",
+          "title": "Samsung 折叠屏相关消息",
+          "originalTitle": "",
+          "source": "9to5Google",
+          "brand": "Samsung",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-06-30",
+          "time": "18:20",
+          "publishedAt": "2026-06-30T18:20:00.000Z",
+          "url": "https://9to5google.com/2026/06/30/galaxy-z-fold-8-series-camera-details-leak-but-they-dont-sound-very-ultra/",
+          "image": "https://9to5google.com/wp-content/uploads/sites/4/2025/07/galaxy-z-fold-7-28.jpg?quality=82&strip=all&w=1600",
+          "verdict": "先看",
+          "takeaway": "Samsung 有系统功能或 AI 体验更新，适合关注后续是否影响日常使用。",
+          "detail": "Samsung 折叠屏相关消息。重点看折痕、铰链、厚度、屏幕可靠性和重量是否有实质改善。",
+          "keyPoints": [
+            "影像硬件",
+            "爆料来源"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         }
@@ -381,6 +379,78 @@ window.phoneRadarDaily = {
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        },
+        {
+          "id": "auto-abcc4d9edd6d",
+          "title": "Pixel 10 发布 / 上市相关消息",
+          "originalTitle": "",
+          "source": "9to5Google",
+          "brand": "Pixel",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-06-30",
+          "time": "15:59",
+          "publishedAt": "2026-06-30T15:59:24.000Z",
+          "url": "https://9to5google.com/2026/06/30/pixel-audio-services-play-store/",
+          "image": "",
+          "verdict": "可略过",
+          "takeaway": "Pixel 有发布或新功能消息，适合确认是否和新机有关。",
+          "detail": "Pixel 10 发布 / 上市相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        },
+        {
+          "id": "auto-b3e2ae98185d",
+          "title": "OPPO 电池 / 充电相关消息",
+          "originalTitle": "",
+          "source": "Gizmochina",
+          "brand": "OPPO",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-06-30",
+          "time": "14:03",
+          "publishedAt": "2026-06-30T14:03:41.000Z",
+          "url": "https://www.gizmochina.com/2026/06/30/oneplus-n6-5g-debuts-as-premium-looking-entry-level-phone-with-8000mah-battery-dimensity-6360-apex-chip/",
+          "image": "https://www.gizmochina.com/wp-content/uploads/2026/06/Screenshot-2026-06-30-182844-300x169.png?x44794",
+          "verdict": "可略过",
+          "takeaway": "OPPO 芯片或连接能力相关线索，可能影响性能和续航判断。",
+          "detail": "OPPO 电池 / 充电相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
+          "keyPoints": [
+            "电池 / 充电",
+            "芯片 / 性能"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "影响日常体验，尤其是游戏、拍照和长时间使用。",
+          "action": "有具体参数就记录到参数库；没有参数就先收藏。"
+        },
+        {
+          "id": "auto-2eb59111ef5d",
+          "title": "Xiaomi 电池 / 充电相关消息",
+          "originalTitle": "",
+          "source": "Gizmochina",
+          "brand": "Xiaomi",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-06-30",
+          "time": "13:53",
+          "publishedAt": "2026-06-30T13:53:49.000Z",
+          "url": "https://www.gizmochina.com/2026/06/30/xiaomi-redmi-k90-ultra-launched-specs-price/",
+          "image": "https://www.gizmochina.com/wp-content/uploads/2026/06/Redmi-K90-Ultra-2-300x188.png?x44794",
+          "verdict": "可略过",
+          "takeaway": "Xiaomi 电池 / 充电相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
+          "detail": "Xiaomi 电池 / 充电相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
+          "keyPoints": [
+            "屏幕形态",
+            "电池 / 充电",
+            "芯片 / 性能"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "影响性能和寿命判断，适合放进参数库。",
+          "action": "有具体参数就记录到参数库；没有参数就先收藏。"
         }
       ]
     },
@@ -413,27 +483,27 @@ window.phoneRadarDaily = {
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         },
         {
-          "id": "auto-9165d38b9122",
-          "title": "2026 年 6 月全球桌面浏览器排行：谷歌 Chrome 72.24%、微软 Edge 10.45%、火狐 Firefox 6.31%",
+          "id": "coolapk-user-0b87b1069e4f",
+          "title": "竹本青：【2026年上半年酷安机型热度榜出炉：华为 Mate 80 Pro Max登顶榜首】 榜首 —— 华为 Mate…",
           "originalTitle": "",
-          "source": "IT之家",
-          "brand": "行业",
+          "source": "竹本青",
+          "brand": "Huawei",
           "type": "爆料",
-          "trust": "媒体汇总",
+          "trust": "高可信爆料",
           "date": "2026-07-01",
-          "time": "07:37",
-          "publishedAt": "2026-07-01T07:37:01.000Z",
-          "url": "https://www.ithome.com/0/971/106.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/7/28cede85-785f-44af-9fcd-9a8cad0f33da.jpg",
+          "time": "10:47",
+          "publishedAt": "2026-07-01T10:47:58.000Z",
+          "url": "https://www.coolapk.com/feed/72605899",
+          "image": "http://image.coolapk.com/feed/2026/0701/18/4248714_9ff4a118_2877_5555_388@1000x1360.jpg",
           "verdict": "扫一眼",
-          "takeaway": "IT之家 7 月 1 日消息，根据市场调查机构 Statcounter 公布的最新报告，2026 年 6 月全球桌面浏览器市场中，Chrome 依然稳居第一，占比 72.24%，Edge 以 10.45% 的份额占据第二，Firefox 以 6.31% 位居第三。 全球桌面平台 Chrome 占比 72.24%，环比下降 2.81 个百分点 Edge 占比…",
-          "detail": "IT之家 7 月 1 日消息，根据市场调查机构 Statcounter 公布的最新报告，2026 年 6 月全球桌面浏览器市场中，Chrome 依然稳居第一，占比 72.24%，Edge 以 10.45% 的份额占据第二，Firefox 以 6.31% 位居第三。 全球桌面平台 Chrome 占比 72.24%，环比下降 2.81 个百分点 Edge 占比…",
+          "takeaway": "【2026年上半年酷安机型热度榜出炉：华为 Mate 80 Pro Max登顶榜首】 榜首 —— 华为 Mate 80 Pro Max 第二—— REDMI K90 Pro Max 第三 —— 一加 15 第四 —— iPhone Air 第五 —— iPhone 17 Pro Max 第六 —— 小米17 Pro Max 第七 —— iPhone 17…",
+          "detail": "【2026年上半年酷安机型热度榜出炉：华为 Mate 80 Pro Max登顶榜首】 榜首 —— 华为 Mate 80 Pro Max 第二—— REDMI K90 Pro Max 第三 —— 一加 15 第四 —— iPhone Air 第五 —— iPhone 17 Pro Max 第六 —— 小米17 Pro Max 第七 —— iPhone 17…",
           "keyPoints": [
             "爆料"
           ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "confidence": "可信度较高，但仍属于发布前线索。",
           "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "中文源可以直接点开快读；看完只保留和购机有关的点。"
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         },
         {
           "id": "coolapk-user-0c42092a2c97",
@@ -459,26 +529,27 @@ window.phoneRadarDaily = {
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         },
         {
-          "id": "auto-77c4e82e86c8",
-          "title": "Galaxy S26 Ultra 影像能力相关消息",
+          "id": "auto-ec5073a0bef1",
+          "title": "HONOR 折叠屏相关消息",
           "originalTitle": "",
-          "source": "SamMobile",
-          "brand": "Samsung",
+          "source": "Android Authority",
+          "brand": "HONOR",
           "type": "爆料",
           "trust": "媒体汇总",
           "date": "2026-07-01",
-          "time": "10:00",
-          "publishedAt": "2026-07-01T10:00:00.000Z",
-          "url": "https://www.sammobile.com/news/how-galaxy-s26-ultra-camera-experience-enhanced-super-steady-horizontal-lock/",
-          "image": "",
+          "time": "12:24",
+          "publishedAt": "2026-07-01T12:24:15.000Z",
+          "url": "https://www.androidauthority.com/honor-magic-v6-available-europe-3683346/",
+          "image": "https://www.androidauthority.com/wp-content/uploads/2026/02/honor-magic-v6-hands-on-1-scaled.jpg",
           "verdict": "可略过",
-          "takeaway": "Samsung 影像能力相关宣传或案例，主要看是否透露拍摄能力变化。",
-          "detail": "Galaxy S26 Ultra 影像能力相关消息。重点看影像功能是否和新机硬件有关，如果只是拍摄案例或营销内容，参考价值会低一些。",
+          "takeaway": "HONOR 折叠屏相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
+          "detail": "HONOR 折叠屏相关消息。重点看折痕、铰链、厚度、屏幕可靠性和重量是否有实质改善。",
           "keyPoints": [
-            "影像硬件"
+            "电池 / 充电",
+            "成本 / 价格"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "影响拍照体验，买旗舰机时值得关注。",
+          "impact": "影响购买预算，值得先看。",
           "action": "有具体参数就记录到参数库；没有参数就先收藏。"
         },
         {
