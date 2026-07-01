@@ -1,6 +1,26 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-07-01T16:39:12.193Z",
+  "updatedAt": "2026-07-01T20:13:54.182Z",
   "news": [
+    {
+      "id": "coolapk-user-9a5a2bebc898",
+      "title": "竹本青：【奇瑞犀牛电池安全保障计划正式发布：三项“兜底”承诺，全系满足最新国家标准】 ● 全系满足最新国家标准 奇瑞所有搭…",
+      "source": "竹本青",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-07-01",
+      "time": "18:34",
+      "publishedAt": "2026-07-01T18:34:29.000Z",
+      "url": "https://www.coolapk.com/feed/72611484",
+      "image": "http://image.coolapk.com/feed/2026/0702/02/4248714_21852509_0866_8555_910@1957x4236.jpg",
+      "summary": "【奇瑞犀牛电池安全保障计划正式发布：三项“兜底”承诺，全系满足最新国家标准】 ● 全系满足最新国家标准 奇瑞所有搭载犀牛电池的已售及在售车型，其动力电池安全性能均满足最新国家标准。 ● 动力电池安全承诺 奇瑞所有已售及在售车型，若因动力电池自身原因导致整车发生热失控损毁，奇瑞将赔付同款新车。 ● 三电终身质保承诺 针对首任购车车主且车辆使用性质为非营运的，…",
+      "tags": [
+        "行业",
+        "爆料",
+        "酷安博主"
+      ]
+    },
     {
       "id": "auto-3c1fc3115c4d",
       "title": "华为鸿蒙 HarmonyOS 7 花粉 Beta 适配机型公布，含 Mate 60、Pura 70、畅享 70X 等",
@@ -159,26 +179,6 @@ window.phoneRadarAuto = {
         "OPPO",
         "爆料",
         "自动抓取"
-      ]
-    },
-    {
-      "id": "coolapk-user-0b87b1069e4f",
-      "title": "竹本青：【2026年上半年酷安机型热度榜出炉：华为 Mate 80 Pro Max登顶榜首】 榜首 —— 华为 Mate…",
-      "source": "竹本青",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-07-01",
-      "time": "10:47",
-      "publishedAt": "2026-07-01T10:47:58.000Z",
-      "url": "https://www.coolapk.com/feed/72605899",
-      "image": "http://image.coolapk.com/feed/2026/0701/18/4248714_9ff4a118_2877_5555_388@1000x1360.jpg",
-      "summary": "【2026年上半年酷安机型热度榜出炉：华为 Mate 80 Pro Max登顶榜首】 榜首 —— 华为 Mate 80 Pro Max 第二—— REDMI K90 Pro Max 第三 —— 一加 15 第四 —— iPhone Air 第五 —— iPhone 17 Pro Max 第六 —— 小米17 Pro Max 第七 —— iPhone 17…",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "酷安博主"
       ]
     },
     {
@@ -362,6 +362,26 @@ window.phoneRadarAuto = {
       ]
     },
     {
+      "id": "newsnow-d33431bac95e",
+      "title": "iPhone 18 Pro Max 跌落测试视频曝光",
+      "source": "酷安热榜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-07-01",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/72585885",
+      "image": "",
+      "summary": "iPhone 18 Pro Max 跌落测试视频曝光",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
       "id": "newsnow-f8a1c4cbd5d8",
       "title": "REDMI K90 至尊版发布，首销售价2799元起",
       "source": "酷安热榜",
@@ -382,21 +402,21 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-d33431bac95e",
-      "title": "iPhone 18 Pro Max 跌落测试视频曝光",
+      "id": "newsnow-eadc7a8c22f9",
+      "title": "三星预热 Galaxy Z Fold 8：全新形态",
       "source": "酷安热榜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-07-01",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72585885",
+      "url": "https://www.coolapk.com/feed/72604712",
       "image": "",
-      "summary": "iPhone 18 Pro Max 跌落测试视频曝光",
+      "summary": "三星预热 Galaxy Z Fold 8：全新形态",
       "tags": [
-        "iPhone",
+        "Samsung",
         "爆料",
         "NewsNow"
       ]

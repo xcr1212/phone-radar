@@ -1,11 +1,11 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-07-01T16:39:12.193Z",
+  "updatedAt": "2026-07-01T20:13:54.182Z",
   "issueDate": "2026-07-01",
   "issue": "VOL.260701",
   "title": "手机情报日报",
-  "intro": "今日筛出 23 条重点，其中 8 条是重点爆料，包含 10 条 iPhone 相关、1 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 22 条重点，其中 8 条是重点爆料，包含 10 条 iPhone 相关、1 条官方确认、0 条参数线索。",
   "stats": {
-    "total": 23,
+    "total": 22,
     "iphone": 10,
     "leaks": 8,
     "official": 1,
@@ -157,6 +157,29 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
+          "id": "coolapk-user-9a5a2bebc898",
+          "title": "竹本青：【奇瑞犀牛电池安全保障计划正式发布：三项“兜底”承诺，全系满足最新国家标准】 ● 全系满足最新国家标准 奇瑞所有搭…",
+          "originalTitle": "",
+          "source": "竹本青",
+          "brand": "行业",
+          "type": "爆料",
+          "trust": "高可信爆料",
+          "date": "2026-07-01",
+          "time": "18:34",
+          "publishedAt": "2026-07-01T18:34:29.000Z",
+          "url": "https://www.coolapk.com/feed/72611484",
+          "image": "http://image.coolapk.com/feed/2026/0702/02/4248714_21852509_0866_8555_910@1957x4236.jpg",
+          "verdict": "先看",
+          "takeaway": "【奇瑞犀牛电池安全保障计划正式发布：三项“兜底”承诺，全系满足最新国家标准】 ● 全系满足最新国家标准 奇瑞所有搭载犀牛电池的已售及在售车型，其动力电池安全性能均满足最新国家标准。 ● 动力电池安全承诺 奇瑞所有已售及在售车型，若因动力电池自身原因导致整车发生热失控损毁，奇瑞将赔付同款新车。 ● 三电终身质保承诺 针对首任购车车主且车辆使用性质为非营运的，…",
+          "detail": "【奇瑞犀牛电池安全保障计划正式发布：三项“兜底”承诺，全系满足最新国家标准】 ● 全系满足最新国家标准 奇瑞所有搭载犀牛电池的已售及在售车型，其动力电池安全性能均满足最新国家标准。 ● 动力电池安全承诺 奇瑞所有已售及在售车型，若因动力电池自身原因导致整车发生热失控损毁，奇瑞将赔付同款新车。 ● 三电终身质保承诺 针对首任购车车主且车辆使用性质为非营运的，…",
+          "keyPoints": [
+            "电池 / 充电"
+          ],
+          "confidence": "可信度较高，但仍属于发布前线索。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
           "id": "auto-d41bb79a469a",
           "title": "vivo 影像能力相关消息",
           "originalTitle": "",
@@ -172,30 +195,6 @@ window.phoneRadarDaily = {
           "verdict": "先看",
           "takeaway": "vivo 有系统功能或 AI 体验更新，适合关注后续是否影响日常使用。",
           "detail": "vivo 影像能力相关消息。重点看影像功能是否和新机硬件有关，如果只是拍摄案例或营销内容，参考价值会低一些。",
-          "keyPoints": [
-            "影像硬件",
-            "爆料来源"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "auto-24fe33a50ecd",
-          "title": "Samsung 折叠屏相关消息",
-          "originalTitle": "",
-          "source": "9to5Google",
-          "brand": "Samsung",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-06-30",
-          "time": "18:20",
-          "publishedAt": "2026-06-30T18:20:00.000Z",
-          "url": "https://9to5google.com/2026/06/30/galaxy-z-fold-8-series-camera-details-leak-but-they-dont-sound-very-ultra/",
-          "image": "https://9to5google.com/wp-content/uploads/sites/4/2025/07/galaxy-z-fold-7-28.jpg?quality=82&strip=all&w=1600",
-          "verdict": "先看",
-          "takeaway": "Samsung 有系统功能或 AI 体验更新，适合关注后续是否影响日常使用。",
-          "detail": "Samsung 折叠屏相关消息。重点看折痕、铰链、厚度、屏幕可靠性和重量是否有实质改善。",
           "keyPoints": [
             "影像硬件",
             "爆料来源"
@@ -424,30 +423,6 @@ window.phoneRadarDaily = {
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
-        {
-          "id": "auto-b3e2ae98185d",
-          "title": "OPPO 电池 / 充电相关消息",
-          "originalTitle": "",
-          "source": "Gizmochina",
-          "brand": "OPPO",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-06-30",
-          "time": "14:03",
-          "publishedAt": "2026-06-30T14:03:41.000Z",
-          "url": "https://www.gizmochina.com/2026/06/30/oneplus-n6-5g-debuts-as-premium-looking-entry-level-phone-with-8000mah-battery-dimensity-6360-apex-chip/",
-          "image": "https://www.gizmochina.com/wp-content/uploads/2026/06/Screenshot-2026-06-30-182844-300x169.png?x44794",
-          "verdict": "可略过",
-          "takeaway": "OPPO 芯片或连接能力相关线索，可能影响性能和续航判断。",
-          "detail": "OPPO 电池 / 充电相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
-          "keyPoints": [
-            "电池 / 充电",
-            "芯片 / 性能"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "影响日常体验，尤其是游戏、拍照和长时间使用。",
-          "action": "有具体参数就记录到参数库；没有参数就先收藏。"
         }
       ]
     },
@@ -457,25 +432,25 @@ window.phoneRadarDaily = {
       "hint": "看方向，不急着当购买依据。",
       "items": [
         {
-          "id": "coolapk-user-0b87b1069e4f",
-          "title": "竹本青：【2026年上半年酷安机型热度榜出炉：华为 Mate 80 Pro Max登顶榜首】 榜首 —— 华为 Mate…",
+          "id": "newsnow-eadc7a8c22f9",
+          "title": "三星预热 Galaxy Z Fold 8：全新形态",
           "originalTitle": "",
-          "source": "竹本青",
-          "brand": "Huawei",
+          "source": "酷安热榜",
+          "brand": "Samsung",
           "type": "爆料",
-          "trust": "高可信爆料",
+          "trust": "高关注爆料源",
           "date": "2026-07-01",
-          "time": "10:47",
-          "publishedAt": "2026-07-01T10:47:58.000Z",
-          "url": "https://www.coolapk.com/feed/72605899",
-          "image": "http://image.coolapk.com/feed/2026/0701/18/4248714_9ff4a118_2877_5555_388@1000x1360.jpg",
-          "verdict": "扫一眼",
-          "takeaway": "【2026年上半年酷安机型热度榜出炉：华为 Mate 80 Pro Max登顶榜首】 榜首 —— 华为 Mate 80 Pro Max 第二—— REDMI K90 Pro Max 第三 —— 一加 15 第四 —— iPhone Air 第五 —— iPhone 17 Pro Max 第六 —— 小米17 Pro Max 第七 —— iPhone 17…",
-          "detail": "【2026年上半年酷安机型热度榜出炉：华为 Mate 80 Pro Max登顶榜首】 榜首 —— 华为 Mate 80 Pro Max 第二—— REDMI K90 Pro Max 第三 —— 一加 15 第四 —— iPhone Air 第五 —— iPhone 17 Pro Max 第六 —— 小米17 Pro Max 第七 —— iPhone 17…",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://www.coolapk.com/feed/72604712",
+          "image": "",
+          "verdict": "先看",
+          "takeaway": "三星预热 Galaxy Z Fold 8：全新形态",
+          "detail": "三星预热 Galaxy Z Fold 8：全新形态",
           "keyPoints": [
             "爆料"
           ],
-          "confidence": "可信度较高，但仍属于发布前线索。",
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         },
