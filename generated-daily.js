@@ -1,12 +1,12 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-07-02T21:31:59.032Z",
+  "updatedAt": "2026-07-02T23:21:11.150Z",
   "issueDate": "2026-07-02",
   "issue": "VOL.260702",
   "title": "手机情报日报",
-  "intro": "今日筛出 10 条重点，其中 8 条是重点爆料，包含 10 条 iPhone 相关、0 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 9 条重点，其中 8 条是重点爆料，包含 9 条 iPhone 相关、0 条官方确认、0 条参数线索。",
   "stats": {
-    "total": 10,
-    "iphone": 10,
+    "total": 9,
+    "iphone": 9,
     "leaks": 8,
     "official": 0,
     "specs": 0
@@ -226,29 +226,6 @@ window.phoneRadarDaily = {
           "verdict": "先看",
           "takeaway": "你一定有过这样的经历：在小红书刷到一篇感兴趣的笔记，复制链接想稍后再看，结果淹没在聊天记录里再也找不到了。微信群里有人分享了一个公众号文章，随手复制了链接，等真正有空时却想不起存到了哪里。收到快递取件 ...",
           "detail": "你一定有过这样的经历：在小红书刷到一篇感兴趣的笔记，复制链接想稍后再看，结果淹没在聊天记录里再也找不到了。微信群里有人分享了一个公众号文章，随手复制了链接，等真正有空时却想不起存到了哪里。收到快递取件 ...",
-          "keyPoints": [
-            "评测"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是实际体验内容，买前适合重点看缺点和取舍。",
-          "action": "中文源可以直接点开快读；看完只保留和购机有关的点。"
-        },
-        {
-          "id": "auto-1dc23f5e24c1",
-          "title": "早报｜苹果iPhone 18 Pro大规模泄露/SK海力士启动赴美IPO/Claude Sonnet 5正式上线",
-          "originalTitle": "",
-          "source": "爱范儿",
-          "brand": "iPhone",
-          "type": "评测",
-          "trust": "媒体汇总",
-          "date": "2026-07-01",
-          "time": "00:02",
-          "publishedAt": "2026-07-01T00:02:41.000Z",
-          "url": "https://www.ifanr.com/1670629?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "image": "https://s3.ifanr.com/images/ep/cover-images/qi_zi_hang_che_ye_yao_hou_kong_fan_cover.jpg",
-          "verdict": "先看",
-          "takeaway": "· WPS 回应 C 盘占用争议 · 网易 CC 直播 8 月 31 日停止运营 · 寒武纪盘中市值突破 1 万亿元",
-          "detail": "· WPS 回应 C 盘占用争议 · 网易 CC 直播 8 月 31 日停止运营 · 寒武纪盘中市值突破 1 万亿元",
           "keyPoints": [
             "评测"
           ],

@@ -1,5 +1,5 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-07-02T21:31:59.032Z",
+  "updatedAt": "2026-07-02T23:21:11.150Z",
   "news": [
     {
       "id": "auto-029e2a8c0138",
@@ -822,26 +822,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-c864deec2e61",
-      "title": "小米卢伟冰称「失控的成本已经席卷了整个手机市场，而千元机毫无疑问受伤最严重」，如何看待这一言论？",
-      "source": "知乎热榜",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "市场报告",
-      "trust": "媒体汇总",
-      "date": "2026-07-02",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.zhihu.com/question/2055964863189537048",
-      "image": "",
-      "summary": "小米卢伟冰称「失控的成本已经席卷了整个手机市场，而千元机毫无疑问受伤最严重」，如何看待这一言论？",
-      "tags": [
-        "Xiaomi",
-        "市场报告",
-        "NewsNow"
-      ]
-    },
-    {
       "id": "newsnow-f8e26eeae8af",
       "title": "因印度供应商遭网络攻击，iPhone18 Pro Max 银灰色曝光，有哪些亮点？此泄露暴露出哪些问题？",
       "source": "知乎热榜",
@@ -862,6 +842,26 @@ window.phoneRadarAuto = {
       ]
     },
     {
+      "id": "newsnow-c864deec2e61",
+      "title": "小米卢伟冰称「失控的成本已经席卷了整个手机市场，而千元机毫无疑问受伤最严重」，如何看待这一言论？",
+      "source": "知乎热榜",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "市场报告",
+      "trust": "媒体汇总",
+      "date": "2026-07-02",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.zhihu.com/question/2055964863189537048",
+      "image": "",
+      "summary": "小米卢伟冰称「失控的成本已经席卷了整个手机市场，而千元机毫无疑问受伤最严重」，如何看待这一言论？",
+      "tags": [
+        "Xiaomi",
+        "市场报告",
+        "NewsNow"
+      ]
+    },
+    {
       "id": "newsnow-7667238c2caa",
       "title": "女子走路玩手机掉进大锅全身湿透",
       "source": "今日头条热榜",
@@ -877,6 +877,26 @@ window.phoneRadarAuto = {
       "summary": "女子走路玩手机掉进大锅全身湿透",
       "tags": [
         "行业",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-7f79df3e25aa",
+      "title": "苹果折叠屏手机备货至1000万台",
+      "source": "百度热搜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-02",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.baidu.com/s?wd=%E8%8B%B9%E6%9E%9C%E6%8A%98%E5%8F%A0%E5%B1%8F%E6%89%8B%E6%9C%BA%E5%A4%87%E8%B4%A7%E8%87%B31000%E4%B8%87%E5%8F%B0",
+      "image": "",
+      "summary": "苹果折叠屏手机备货至1000万台",
+      "tags": [
+        "iPhone",
         "爆料",
         "NewsNow"
       ]
