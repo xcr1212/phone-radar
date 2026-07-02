@@ -1,6 +1,26 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-07-02T18:03:00.269Z",
+  "updatedAt": "2026-07-02T19:51:02.431Z",
   "news": [
+    {
+      "id": "auto-8fd127ff83c3",
+      "title": "Galaxy S27 Pro and Ultra leak hints at a big shake-up for the selfie camera",
+      "source": "Android Authority",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-02",
+      "time": "18:37",
+      "publishedAt": "2026-07-02T18:37:00.000Z",
+      "url": "https://www.androidauthority.com/galaxy-s27-pro-ultra-front-camera-upgrade-3683931/",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2026/03/Samsung-Galaxy-S26-Ultra-display.jpg",
+      "summary": "This feature could see its first change since the Galaxy S23.",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-5ea5d4945adf",
       "title": "Samsung quietly brings back its BEST Galaxy S26 Ultra deal for the 4th of July weekend — with or without trade",
@@ -682,6 +702,26 @@ window.phoneRadarAuto = {
       ]
     },
     {
+      "id": "newsnow-7da3d0bec422",
+      "title": "手机刚刚签收快递，背面后盖缝隙大的离谱，左上角和右下角太明显了，不想要了，准备退了",
+      "source": "酷安热榜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-07-02",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/72612722",
+      "image": "",
+      "summary": "手机刚刚签收快递，背面后盖缝隙大的离谱，左上角和右下角太明显了，不想要了，准备退了",
+      "tags": [
+        "行业",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
       "id": "newsnow-9389f8a7b4ff",
       "title": "iPhone 18 Pro Max 跌落测试视频曝光",
       "source": "酷安热榜",
@@ -722,6 +762,26 @@ window.phoneRadarAuto = {
       ]
     },
     {
+      "id": "newsnow-ef9ba8c86d95",
+      "title": "用了这么久的iPhone，第一次清晰感受到杀后台的痛，看地球啥的我都无所谓，切出去微信通话没了，我真蚌埠住了 [喝酒]",
+      "source": "酷安热榜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-07-02",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/72598835",
+      "image": "",
+      "summary": "用了这么久的iPhone，第一次清晰感受到杀后台的痛，看地球啥的我都无所谓，切出去微信通话没了，我真蚌埠住了 [喝酒]",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
       "id": "newsnow-696685e1b238",
       "title": "手机坏了换了新手机，不是我非要踩一捧一，华为确实比iPhone流畅太多了#iPhoneAir#",
       "source": "酷安热榜",
@@ -737,106 +797,6 @@ window.phoneRadarAuto = {
       "summary": "手机坏了换了新手机，不是我非要踩一捧一，华为确实比iPhone流畅太多了#iPhoneAir#",
       "tags": [
         "Huawei",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-84ea288c4ca1",
-      "title": "骁龙8E6系列新旗舰手机起步价或将6000元以上",
-      "source": "酷安热榜",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-07-02",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72602305",
-      "image": "",
-      "summary": "骁龙8E6系列新旗舰手机起步价或将6000元以上",
-      "tags": [
-        "行业",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-173f67664565",
-      "title": "TCL华星宣布独家供屏REDMI K90至尊版",
-      "source": "酷安热榜",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-07-02",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72608757",
-      "image": "",
-      "summary": "TCL华星宣布独家供屏REDMI K90至尊版",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-6f21d6e2a753",
-      "title": "REDMI K90 至尊版发布，首销售价2799元起",
-      "source": "酷安热榜",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-07-02",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72591295",
-      "image": "",
-      "summary": "REDMI K90 至尊版发布，首销售价2799元起",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-e9ff1386f5e5",
-      "title": "三星预热 Galaxy Z Fold 8：全新形态",
-      "source": "酷安热榜",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-07-02",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72604712",
-      "image": "",
-      "summary": "三星预热 Galaxy Z Fold 8：全新形态",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-8bdbe3e662f0",
-      "title": "我宣布第20260701届手机壁纸&桌面搭配&主题大赛现在开始[doge] 刷到这条的请把你们的最好看壁纸&锁屏发出来[滑稽][斗鸡眼滑稽] 顺便也把你们桌面布局和锁屏发出来[cos滑稽] 顺便给酷友们分享几张壁纸[受虐滑稽] 投币自取[酷币][酷币][酷币]",
-      "source": "酷安热榜",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-07-02",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72607254",
-      "image": "",
-      "summary": "我宣布第20260701届手机壁纸&桌面搭配&主题大赛现在开始[doge] 刷到这条的请把你们的最好看壁纸&锁屏发出来[滑稽][斗鸡眼滑稽] 顺便也把你们桌面布局和锁屏发出来[cos滑稽] 顺便给酷友们分享几张壁纸[受虐滑稽] 投币自取[酷币][酷币][酷币]",
-      "tags": [
-        "行业",
         "爆料",
         "NewsNow"
       ]
@@ -858,26 +818,6 @@ window.phoneRadarAuto = {
       "tags": [
         "Xiaomi",
         "市场报告",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-7667238c2caa",
-      "title": "女子走路玩手机掉进大锅全身湿透",
-      "source": "今日头条热榜",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-02",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.toutiao.com/trending/7656853302915252262/",
-      "image": "",
-      "summary": "女子走路玩手机掉进大锅全身湿透",
-      "tags": [
-        "行业",
-        "爆料",
         "NewsNow"
       ]
     },
@@ -1102,6 +1042,26 @@ window.phoneRadarAuto = {
       ]
     },
     {
+      "id": "auto-53cade9c6d23",
+      "title": "苹果史上最恶劣泄密事件：iPhone 18 Pro 要「凉」了？",
+      "source": "爱范儿",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-07-01",
+      "time": "06:14",
+      "publishedAt": "2026-07-01T06:14:16.000Z",
+      "url": "https://www.ifanr.com/1670580?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "image": "https://s3.ifanr.com/wp-content/uploads/2026/06/cherry-1-1024x704.jpeg",
+      "summary": "iPhone 史上最强散热",
+      "tags": [
+        "iPhone",
+        "评测",
+        "自动抓取"
+      ]
+    },
+    {
       "id": "auto-aab2fe9a5e62",
       "title": "Samsung drops first official Galaxy Z Fold 8 teasers, ‘New Shape, New Joy’ [Gallery]",
       "source": "9to5Google",
@@ -1139,6 +1099,26 @@ window.phoneRadarAuto = {
         "vivo",
         "爆料",
         "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-1dc23f5e24c1",
+      "title": "早报｜苹果iPhone 18 Pro大规模泄露/SK海力士启动赴美IPO/Claude Sonnet 5正式上线",
+      "source": "爱范儿",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-07-01",
+      "time": "00:02",
+      "publishedAt": "2026-07-01T00:02:41.000Z",
+      "url": "https://www.ifanr.com/1670629?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "image": "https://s3.ifanr.com/images/ep/cover-images/qi_zi_hang_che_ye_yao_hou_kong_fan_cover.jpg",
+      "summary": "· WPS 回应 C 盘占用争议 · 网易 CC 直播 8 月 31 日停止运营 · 寒武纪盘中市值突破 1 万亿元",
+      "tags": [
+        "iPhone",
+        "评测",
+        "自动抓取"
       ]
     }
   ]
