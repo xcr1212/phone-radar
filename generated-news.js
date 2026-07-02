@@ -1,6 +1,26 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-07-02T19:51:02.431Z",
+  "updatedAt": "2026-07-02T21:31:59.032Z",
   "news": [
+    {
+      "id": "auto-029e2a8c0138",
+      "title": "iPhone Fold could help raise average foldable phone prices by 18%, per report",
+      "source": "9to5Mac",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-02",
+      "time": "20:54",
+      "publishedAt": "2026-07-02T20:54:29.000Z",
+      "url": "https://9to5mac.com/2026/07/02/iphone-fold-could-help-raise-average-foldable-phone-prices-by-18-per-report/",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/03/iphone-fold-mockup-blue.jpg?quality=82&strip=all&w=1600",
+      "summary": "According to Counterpoint Research, Apple’s entry into the foldable smartphone market will be one of the factors driving an 18% increase in average sale prices in the category in…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-8fd127ff83c3",
       "title": "Galaxy S27 Pro and Ultra leak hints at a big shake-up for the selfie camera",
@@ -822,21 +842,41 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-7f79df3e25aa",
-      "title": "苹果折叠屏手机备货至1000万台",
-      "source": "百度热搜",
+      "id": "newsnow-f8e26eeae8af",
+      "title": "因印度供应商遭网络攻击，iPhone18 Pro Max 银灰色曝光，有哪些亮点？此泄露暴露出哪些问题？",
+      "source": "知乎热榜",
       "brand": "iPhone",
       "model": "iPhone 相关机型",
+      "type": "市场报告",
+      "trust": "媒体汇总",
+      "date": "2026-07-02",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.zhihu.com/question/2055321023403095974",
+      "image": "",
+      "summary": "因印度供应商遭网络攻击，iPhone18 Pro Max 银灰色曝光，有哪些亮点？此泄露暴露出哪些问题？",
+      "tags": [
+        "iPhone",
+        "市场报告",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-7667238c2caa",
+      "title": "女子走路玩手机掉进大锅全身湿透",
+      "source": "今日头条热榜",
+      "brand": "行业",
+      "model": "智能手机市场",
       "type": "爆料",
       "trust": "媒体汇总",
       "date": "2026-07-02",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.baidu.com/s?wd=%E8%8B%B9%E6%9E%9C%E6%8A%98%E5%8F%A0%E5%B1%8F%E6%89%8B%E6%9C%BA%E5%A4%87%E8%B4%A7%E8%87%B31000%E4%B8%87%E5%8F%B0",
+      "url": "https://www.toutiao.com/trending/7656853302915252262/",
       "image": "",
-      "summary": "苹果折叠屏手机备货至1000万台",
+      "summary": "女子走路玩手机掉进大锅全身湿透",
       "tags": [
-        "iPhone",
+        "行业",
         "爆料",
         "NewsNow"
       ]
