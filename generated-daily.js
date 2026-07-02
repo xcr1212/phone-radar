@@ -1,12 +1,12 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-07-02T09:31:12.665Z",
+  "updatedAt": "2026-07-02T12:20:40.547Z",
   "issueDate": "2026-07-02",
   "issue": "VOL.260702",
   "title": "手机情报日报",
-  "intro": "今日筛出 20 条重点，其中 8 条是重点爆料，包含 9 条 iPhone 相关、1 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 18 条重点，其中 8 条是重点爆料，包含 10 条 iPhone 相关、1 条官方确认、0 条参数线索。",
   "stats": {
-    "total": 20,
-    "iphone": 9,
+    "total": 18,
+    "iphone": 10,
     "leaks": 8,
     "official": 1,
     "specs": 0
@@ -65,6 +65,52 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
+          "id": "auto-08e3c0bfd564",
+          "title": "iPhone 影像能力相关消息",
+          "originalTitle": "",
+          "source": "MacRumors",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-07-02",
+          "time": "11:39",
+          "publishedAt": "2026-07-02T11:39:23.000Z",
+          "url": "https://www.macrumors.com/2026/07/02/iphone-photography-awards-winners-revealed-2026/",
+          "image": "https://images.macrumors.com/article-new/2025/09/iphone-17-pro-dark-blue-1.jpg",
+          "verdict": "先看",
+          "takeaway": "iPhone 影像能力相关宣传或案例，主要看是否透露拍摄能力变化。",
+          "detail": "iPhone 影像能力相关消息。重点看影像功能是否和新机硬件有关，如果只是拍摄案例或营销内容，参考价值会低一些。",
+          "keyPoints": [
+            "影像硬件"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "auto-a76014418a5e",
+          "title": "iPhone 折叠屏相关消息",
+          "originalTitle": "",
+          "source": "MacRumors",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-07-02",
+          "time": "10:05",
+          "publishedAt": "2026-07-02T10:05:03.000Z",
+          "url": "https://www.macrumors.com/2026/07/02/apple-ramps-foldable-iphone-ultra-production-10m/",
+          "image": "https://images.macrumors.com/article-new/2025/08/Apple-Foldable-Thumb.jpg",
+          "verdict": "先看",
+          "takeaway": "iPhone 折叠屏相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
+          "detail": "iPhone 折叠屏相关消息。重点看折痕、铰链、厚度、屏幕可靠性和重量是否有实质改善。",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
           "id": "auto-2852fa161ba2",
           "title": "iPhone 18 Pro Max 电池 / 充电相关消息",
           "originalTitle": "",
@@ -83,29 +129,6 @@ window.phoneRadarDaily = {
           "keyPoints": [
             "电池 / 充电",
             "爆料来源"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "auto-30675403c21a",
-          "title": "iPhone 折叠屏相关消息",
-          "originalTitle": "",
-          "source": "9to5Mac",
-          "brand": "iPhone",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-07-02",
-          "time": "04:24",
-          "publishedAt": "2026-07-02T04:24:35.000Z",
-          "url": "https://9to5mac.com/2026/07/01/apple-reportedly-orders-10m-foldable-iphone-ultra-models-which-could-sell-for-around-2500/",
-          "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/04/iphone-ultra-fold-mockup.jpg?quality=82&strip=all&w=1600",
-          "verdict": "先看",
-          "takeaway": "iPhone 折叠屏相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
-          "detail": "iPhone 折叠屏相关消息。重点看折痕、铰链、厚度、屏幕可靠性和重量是否有实质改善。",
-          "keyPoints": [
-            "爆料"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
@@ -135,71 +158,50 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
-          "id": "auto-aad15b0e0a2d",
-          "title": "Galaxy S26 Ultra 外观设计线索曝光",
+          "id": "auto-235b394d6158",
+          "title": "Nothing Phone（4b）手机外观官宣，还将推出印度板球超级联赛 RCB 球队联名款",
           "originalTitle": "",
-          "source": "Android Authority",
-          "brand": "Samsung",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-07-01",
-          "time": "20:34",
-          "publishedAt": "2026-07-01T20:34:57.000Z",
-          "url": "https://www.androidauthority.com/galaxy-z-fold-8-comparison-render-3683541/",
-          "image": "https://www.androidauthority.com/wp-content/uploads/2026/04/Galaxy-S26-Ultra-Z-Fold-7-bottom-scaled.jpeg",
-          "verdict": "先看",
-          "takeaway": "Galaxy S26 Ultra 外观设计线索曝光。重点看外观、颜色、尺寸是否和上一代有明显变化。",
-          "detail": "Galaxy S26 Ultra 外观设计线索曝光。这类内容主要看外观设计、按键布局、相机模组和尺寸变化，后续最好等更多渲染图或保护壳线索互相验证。",
-          "keyPoints": [
-            "外观 / 配色 / 尺寸"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "auto-d41bb79a469a",
-          "title": "vivo 影像能力相关消息",
-          "originalTitle": "",
-          "source": "Gizmochina",
-          "brand": "vivo",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-07-01",
-          "time": "07:15",
-          "publishedAt": "2026-07-01T07:15:16.000Z",
-          "url": "https://www.gizmochina.com/2026/07/01/vivo-x500-pro-max-camera-specifications-leak/",
-          "image": "https://www.gizmochina.com/wp-content/uploads/2025/12/Vivo-X300-Pro-1-300x188.png?x44794",
-          "verdict": "先看",
-          "takeaway": "vivo 有系统功能或 AI 体验更新，适合关注后续是否影响日常使用。",
-          "detail": "vivo 影像能力相关消息。重点看影像功能是否和新机硬件有关，如果只是拍摄案例或营销内容，参考价值会低一些。",
-          "keyPoints": [
-            "影像硬件",
-            "爆料来源"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "newsnow-88f3c6d064c6",
-          "title": "消息称某厂子系新开 6.8 英寸 1.5K OLED 三星直屏，预计为 iQOO",
-          "originalTitle": "",
-          "source": "IT之家热榜",
-          "brand": "Samsung",
+          "source": "IT之家",
+          "brand": "行业",
           "type": "爆料",
           "trust": "媒体汇总",
           "date": "2026-07-02",
-          "time": "16:00",
-          "publishedAt": "2026-07-02T16:00:10.000Z",
-          "url": "https://www.ithome.com/0/971/623.htm",
-          "image": "",
+          "time": "12:13",
+          "publishedAt": "2026-07-02T12:13:51.000Z",
+          "url": "https://www.ithome.com/0/971/890.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/7/2943fd80-c4be-4ffc-89ba-dc0d6f34691f.jpg?x-bce-process=image/format,f_auto",
           "verdict": "先看",
-          "takeaway": "消息称某厂子系新开 6.8 英寸 1.5K OLED 三星直屏，预计为 iQOO",
-          "detail": "消息称某厂子系新开 6.8 英寸 1.5K OLED 三星直屏，预计为 iQOO",
+          "takeaway": "IT之家 7 月 2 日消息，Nothing 现已在 X 平台官宣了 Nothing Phone（4b）手机外观，并宣布将为该机推出一款印度板球超级联赛“班加罗尔皇家挑战者”球队（RCB 球队）联名款。 综合官方预热及各大博主爆料，该机正面配备一块 6.7 英寸 120Hz AMOLED 面板，后置居左相机模组（主摄为 50MP），同时带有竖向灯阵设计。其…",
+          "detail": "IT之家 7 月 2 日消息，Nothing 现已在 X 平台官宣了 Nothing Phone（4b）手机外观，并宣布将为该机推出一款印度板球超级联赛“班加罗尔皇家挑战者”球队（RCB 球队）联名款。 综合官方预热及各大博主爆料，该机正面配备一块 6.7 英寸 120Hz AMOLED 面板，后置居左相机模组（主摄为 50MP），同时带有竖向灯阵设计。其…",
           "keyPoints": [
+            "外观 / 配色 / 尺寸",
+            "影像硬件",
             "屏幕形态",
             "爆料来源"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "newsnow-c1c2728b6f41",
+          "title": "终于升级了24G的内存了，12G的内存老给我杀后台，由于这个主板是我捡漏的开发版，第一次打磨芯片差点给我干废了，不过还好有惊无险[捂脸]现在这个手机流畅度有了质的提升，再加上解容模块，直接就可以从上班7.30一直用到下班6点，还能再战几年，强烈推荐改[呲牙] #小米13pro# #手机扩容# #魔改电池#",
+          "originalTitle": "",
+          "source": "酷安热榜",
+          "brand": "Xiaomi",
+          "type": "爆料",
+          "trust": "高关注爆料源",
+          "date": "2026-07-02",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://www.coolapk.com/feed/72604236",
+          "image": "",
+          "verdict": "先看",
+          "takeaway": "终于升级了24G的内存了，12G的内存老给我杀后台，由于这个主板是我捡漏的开发版，第一次打磨芯片差点给我干废了，不过还好有惊无险[捂脸]现在这个手机流畅度有了质的提升，再加上解容模块，直接就可以从上班7.30一直用到下班6点，还能再战几年，强烈推荐改[呲牙] #小米13pro# #手机扩容# #魔改电池#",
+          "detail": "终于升级了24G的内存了，12G的内存老给我杀后台，由于这个主板是我捡漏的开发版，第一次打磨芯片差点给我干废了，不过还好有惊无险[捂脸]现在这个手机流畅度有了质的提升，再加上解容模块，直接就可以从上班7.30一直用到下班6点，还能再战几年，强烈推荐改[呲牙] #小米13pro# #手机扩容# #魔改电池#",
+          "keyPoints": [
+            "电池 / 充电",
+            "芯片 / 性能"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
@@ -212,6 +214,29 @@ window.phoneRadarDaily = {
       "title": "iPhone 重点",
       "hint": "不是硬件爆料，但和 iPhone 体验或路线有关。",
       "items": [
+        {
+          "id": "auto-e7805ad95131",
+          "title": "iOS 剪贴板管理工具 Procut：换个方式收藏碎片化信息",
+          "originalTitle": "",
+          "source": "少数派",
+          "brand": "iPhone",
+          "type": "评测",
+          "trust": "媒体汇总",
+          "date": "2026-07-02",
+          "time": "09:35",
+          "publishedAt": "2026-07-02T09:35:25.000Z",
+          "url": "https://sspai.com/post/110950",
+          "image": "",
+          "verdict": "先看",
+          "takeaway": "你一定有过这样的经历：在小红书刷到一篇感兴趣的笔记，复制链接想稍后再看，结果淹没在聊天记录里再也找不到了。微信群里有人分享了一个公众号文章，随手复制了链接，等真正有空时却想不起存到了哪里。收到快递取件 ...",
+          "detail": "你一定有过这样的经历：在小红书刷到一篇感兴趣的笔记，复制链接想稍后再看，结果淹没在聊天记录里再也找不到了。微信群里有人分享了一个公众号文章，随手复制了链接，等真正有空时却想不起存到了哪里。收到快递取件 ...",
+          "keyPoints": [
+            "评测"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是实际体验内容，买前适合重点看缺点和取舍。",
+          "action": "中文源可以直接点开快读；看完只保留和购机有关的点。"
+        },
         {
           "id": "auto-1dc23f5e24c1",
           "title": "早报｜苹果iPhone 18 Pro大规模泄露/SK海力士启动赴美IPO/Claude Sonnet 5正式上线",
@@ -280,29 +305,6 @@ window.phoneRadarDaily = {
           "confidence": "官方内容，可直接作为已确认信息记录。",
           "impact": "可信度高，但如果不是配置/价格消息，只需要扫一眼。",
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
-        {
-          "id": "newsnow-f8e26eeae8af",
-          "title": "因印度供应商遭网络攻击，iPhone18 Pro Max 银灰色曝光，有哪些亮点？此泄露暴露出哪些问题？",
-          "originalTitle": "",
-          "source": "知乎热榜",
-          "brand": "iPhone",
-          "type": "市场报告",
-          "trust": "媒体汇总",
-          "date": "2026-07-02",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://www.zhihu.com/question/2055321023403095974",
-          "image": "",
-          "verdict": "扫一眼",
-          "takeaway": "因印度供应商遭网络攻击，iPhone18 Pro Max 银灰色曝光，有哪些亮点？此泄露暴露出哪些问题？",
-          "detail": "因印度供应商遭网络攻击，iPhone18 Pro Max 银灰色曝光，有哪些亮点？此泄露暴露出哪些问题？",
-          "keyPoints": [
-            "市场报告"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "目前更像背景信息，对买手机影响不大。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         }
       ]
     },
@@ -329,29 +331,6 @@ window.phoneRadarDaily = {
           "detail": "REDMI K90 至尊版发布，首销售价2799元起",
           "keyPoints": [
             "成本 / 价格"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
-        {
-          "id": "auto-47d0d86a6fa9",
-          "title": "Samsung 折叠屏相关消息",
-          "originalTitle": "",
-          "source": "Android Authority",
-          "brand": "Samsung",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-07-02",
-          "time": "06:18",
-          "publishedAt": "2026-07-02T06:18:56.000Z",
-          "url": "https://www.androidauthority.com/samsung-galaxy-z-fold-8-flip-8-thinborne-cases-3683621/",
-          "image": "https://www.androidauthority.com/wp-content/uploads/2026/07/Samsung-Galaxy-Z-Fold-8-Ultra-thinborne-case-scaled-1.jpg",
-          "verdict": "可略过",
-          "takeaway": "Samsung 有发布或新功能消息，适合确认是否和新机有关。",
-          "detail": "Samsung 折叠屏相关消息。重点看折痕、铰链、厚度、屏幕可靠性和重量是否有实质改善。",
-          "keyPoints": [
-            "爆料"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
@@ -478,29 +457,6 @@ window.phoneRadarDaily = {
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
-        {
-          "id": "auto-6ffca2734074",
-          "title": "Galaxy S27 屏幕规格相关消息",
-          "originalTitle": "",
-          "source": "SamMobile",
-          "brand": "Samsung",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-07-02",
-          "time": "06:53",
-          "publishedAt": "2026-07-02T06:53:41.000Z",
-          "url": "https://www.sammobile.com/news/every-galaxy-s27-model-privacy-display-feature/",
-          "image": "",
-          "verdict": "可略过",
-          "takeaway": "Galaxy S27 屏幕规格相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
-          "detail": "Galaxy S27 屏幕规格相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
-          "keyPoints": [
-            "屏幕形态"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "影响手感和显示体验，适合和其他机型对比。",
-          "action": "有具体参数就记录到参数库；没有参数就先收藏。"
         }
       ]
     }

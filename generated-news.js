@@ -1,24 +1,204 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-07-02T09:31:12.665Z",
+  "updatedAt": "2026-07-02T12:20:40.547Z",
   "news": [
     {
-      "id": "newsnow-88f3c6d064c6",
-      "title": "消息称某厂子系新开 6.8 英寸 1.5K OLED 三星直屏，预计为 iQOO",
-      "source": "IT之家热榜",
+      "id": "auto-20444a490269",
+      "title": "7 hidden Pixel 10 features you should turn on right away (and one to avoid entirely)",
+      "source": "Android Police",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-02",
+      "time": "12:15",
+      "publishedAt": "2026-07-02T12:15:12.000Z",
+      "url": "https://www.androidpolice.com/hidden-pixel-10-features-to-turn-on/",
+      "image": "",
+      "summary": "The Pixel 10 features you shouldn't ignore",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-235b394d6158",
+      "title": "Nothing Phone（4b）手机外观官宣，还将推出印度板球超级联赛 RCB 球队联名款",
+      "source": "IT之家",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-02",
+      "time": "12:13",
+      "publishedAt": "2026-07-02T12:13:51.000Z",
+      "url": "https://www.ithome.com/0/971/890.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/7/2943fd80-c4be-4ffc-89ba-dc0d6f34691f.jpg?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 7 月 2 日消息，Nothing 现已在 X 平台官宣了 Nothing Phone（4b）手机外观，并宣布将为该机推出一款印度板球超级联赛“班加罗尔皇家挑战者”球队（RCB 球队）联名款。 综合官方预热及各大博主爆料，该机正面配备一块 6.7 英寸 120Hz AMOLED 面板，后置居左相机模组（主摄为 50MP），同时带有竖向灯阵设计。其…",
+      "tags": [
+        "行业",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-6f4d6c8bef57",
+      "title": "Galaxy Z Fold 8 vs Z Fold 8 Ultra: How are the two different?",
+      "source": "SamMobile",
       "brand": "Samsung",
       "model": "Samsung 相关机型",
       "type": "爆料",
       "trust": "媒体汇总",
       "date": "2026-07-02",
-      "time": "16:00",
-      "publishedAt": "2026-07-02T16:00:10.000Z",
-      "url": "https://www.ithome.com/0/971/623.htm",
+      "time": "12:09",
+      "publishedAt": "2026-07-02T12:09:03.000Z",
+      "url": "https://www.sammobile.com/news/galaxy-z-fold-8-vs-fold-8-ultra-specs-comparison-differences/",
       "image": "",
-      "summary": "消息称某厂子系新开 6.8 英寸 1.5K OLED 三星直屏，预计为 iQOO",
+      "summary": "Samsung is expected to launch two book-style foldable phones later this month: the Galaxy Z Fold 8 and the Galaxy Z Fold 8 Ultra. Both are flagship devices featuring large foldabl…",
       "tags": [
         "Samsung",
         "爆料",
-        "NewsNow"
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-262ae8404e66",
+      "title": "The Vivo X300 Pro is great, but these 5 phones deliver more value",
+      "source": "Gizmochina",
+      "brand": "vivo",
+      "model": "vivo 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-02",
+      "time": "11:53",
+      "publishedAt": "2026-07-02T11:53:34.000Z",
+      "url": "https://www.gizmochina.com/2026/07/02/5-best-alternatives-to-vivo-x300-pro/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/07/Vivo-X300-Pro-5G-phone-300x169.png?x44794",
+      "summary": "Vivo X300 Pro is an absolute beast. Launched in 2025, this premium smartphone features a high-quality AMOLED display, a powerful Dimensity 9500 processor, and a high-end triple ca…",
+      "tags": [
+        "vivo",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-08e3c0bfd564",
+      "title": "iPhone Photography Awards Highlight Best Images of 2026",
+      "source": "MacRumors",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-02",
+      "time": "11:39",
+      "publishedAt": "2026-07-02T11:39:23.000Z",
+      "url": "https://www.macrumors.com/2026/07/02/iphone-photography-awards-winners-revealed-2026/",
+      "image": "https://images.macrumors.com/article-new/2025/09/iphone-17-pro-dark-blue-1.jpg",
+      "summary": "For the last 19 years, the iPhone Photography Awards (IPPA) has selected the best photographs captured with an iPhone, and the 2026 award winners were announced today . The IPPA 2…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-17665d514eb3",
+      "title": "Check out all the winning shots in the 2026 iPhone Photography Awards",
+      "source": "9to5Mac",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-02",
+      "time": "10:54",
+      "publishedAt": "2026-07-02T10:54:09.000Z",
+      "url": "https://9to5mac.com/2026/07/02/check-out-all-the-winning-shots-in-the-2026-iphone-photography-awards/",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/Check-out-all-the-winning-shots-in-the-2026-iPhone-Photography-Awards.jpg?quality=82&strip=all&w=1600",
+      "summary": "The iPhone Photography Awards competition has been running now for 19 years, and the 2026 winners have just been announced. In addition to four overall winners, there are first pl…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-a76014418a5e",
+      "title": "Apple Ramps Foldable iPhone 'Ultra' Production to 10 Million Units",
+      "source": "MacRumors",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-02",
+      "time": "10:05",
+      "publishedAt": "2026-07-02T10:05:03.000Z",
+      "url": "https://www.macrumors.com/2026/07/02/apple-ramps-foldable-iphone-ultra-production-10m/",
+      "image": "https://images.macrumors.com/article-new/2025/08/Apple-Foldable-Thumb.jpg",
+      "summary": "Apple has told suppliers to prepare to make approximately 10 million foldable iPhones this year, up from a previous forecast of about 7-8 million units a few months ago, reports N…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-24dc35a01f58",
+      "title": "4 reasons why I’m ditching the Pixel 10 Pro for a small Android phone you probably can’t buy",
+      "source": "Android Authority",
+      "brand": "vivo",
+      "model": "vivo 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-02",
+      "time": "10:00",
+      "publishedAt": "2026-07-02T10:00:21.000Z",
+      "url": "https://www.androidauthority.com/why-i-ditched-pixel-10-pro-for-vivo-x300-fe-3675745/",
+      "image": "",
+      "summary": "The vivo X300 FE eats the Pixel 10 Pro for breakfast, and doesn't even burp.",
+      "tags": [
+        "vivo",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-cf1d15bfad7f",
+      "title": "I spent a week refusing to unfold my Samsung Galaxy Z Flip 7; I didn't expect to love it",
+      "source": "Android Police",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-02",
+      "time": "10:00",
+      "publishedAt": "2026-07-02T10:00:11.000Z",
+      "url": "https://www.androidpolice.com/i-spent-week-refusing-unfold-my-samsung-galaxy-z-flip-7-phone-i-love-it/",
+      "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2026/06/samsung-galaxy-z-flip-7-cover-display-showing-clock.jpg",
+      "summary": "This simple tweak made my Flip phone's cover screen functional",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-e7805ad95131",
+      "title": "iOS 剪贴板管理工具 Procut：换个方式收藏碎片化信息",
+      "source": "少数派",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-07-02",
+      "time": "09:35",
+      "publishedAt": "2026-07-02T09:35:25.000Z",
+      "url": "https://sspai.com/post/110950",
+      "image": "",
+      "summary": "你一定有过这样的经历：在小红书刷到一篇感兴趣的笔记，复制链接想稍后再看，结果淹没在聊天记录里再也找不到了。微信群里有人分享了一个公众号文章，随手复制了链接，等真正有空时却想不起存到了哪里。收到快递取件 ...",
+      "tags": [
+        "iPhone",
+        "评测",
+        "自动抓取"
       ]
     },
     {
@@ -39,6 +219,46 @@ window.phoneRadarAuto = {
         "iPhone",
         "爆料",
         "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-3e9e3bfb6aae",
+      "title": "JSCHEN小小狐：荣耀 WIN 2 小杯曝光：骁龙8 Elite / 1.5K 185Hz",
+      "source": "JSCHEN小小狐",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-07-02",
+      "time": "08:11",
+      "publishedAt": "2026-07-02T08:11:04.000Z",
+      "url": "https://www.coolapk.com/feed/72618115",
+      "image": "http://image.coolapk.com/feed/2026/0702/16/4702274_13737948_9863_6393_888@1440x600.jpg",
+      "summary": "『荣耀 WIN 2 小杯曝光：8 Elite / 1.5K 185Hz』 ◇ 骁龙 8 Elite 移动平台 + 内置风扇 ◇ 6.83\" 1.5K 185Hz 直屏（非新开） ◇ 电池或较 10000mAh 略微增大 ◇ 金属中框 + 3D 超声波屏幕指纹 #今日热点# #荣耀WIN2# #荣耀WINRT#",
+      "tags": [
+        "HONOR",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "coolapk-user-3a7f7087a43d",
+      "title": "JSCHEN小小狐：OPPO Find X10 Ultra 影像曝光：中底超长焦",
+      "source": "JSCHEN小小狐",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-07-02",
+      "time": "08:05",
+      "publishedAt": "2026-07-02T08:05:57.000Z",
+      "url": "https://www.coolapk.com/feed/72618058",
+      "image": "http://image.coolapk.com/feed/2026/0702/16/4702274_a0b59f6d_9556_4656_160@1440x598.jpg",
+      "summary": "『OPPO Find X10 Ultra 影像曝光：中底超长焦』 ◇ 200Mp 1/1.3\"± 潜望长焦（至高 HPC） ◇ 50Mp 1/1.95\"± S5KGNB 潜望超长焦 ◇ 100Mp 1/2.5''± 1:1 方形前摄（三星） *据悉，该机早期曾评估 200Mp 1/1.12\" 潜望长焦，最终是否采用该方案当前待定。 #今日热点# #OPPO…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "酷安博主"
       ]
     },
     {
@@ -182,6 +402,26 @@ window.phoneRadarAuto = {
       ]
     },
     {
+      "id": "newsnow-696685e1b238",
+      "title": "手机坏了换了新手机，不是我非要踩一捧一，华为确实比iPhone流畅太多了#iPhoneAir#",
+      "source": "酷安热榜",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-07-02",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/72600901",
+      "image": "",
+      "summary": "手机坏了换了新手机，不是我非要踩一捧一，华为确实比iPhone流畅太多了#iPhoneAir#",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
       "id": "newsnow-84ea288c4ca1",
       "title": "骁龙8E6系列新旗舰手机起步价或将6000元以上",
       "source": "酷安热榜",
@@ -202,21 +442,21 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-696685e1b238",
-      "title": "手机坏了换了新手机，不是我非要踩一捧一，华为确实比iPhone流畅太多了#iPhoneAir#",
+      "id": "newsnow-c1c2728b6f41",
+      "title": "终于升级了24G的内存了，12G的内存老给我杀后台，由于这个主板是我捡漏的开发版，第一次打磨芯片差点给我干废了，不过还好有惊无险[捂脸]现在这个手机流畅度有了质的提升，再加上解容模块，直接就可以从上班7.30一直用到下班6点，还能再战几年，强烈推荐改[呲牙] #小米13pro# #手机扩容# #魔改电池#",
       "source": "酷安热榜",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-07-02",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72600901",
+      "url": "https://www.coolapk.com/feed/72604236",
       "image": "",
-      "summary": "手机坏了换了新手机，不是我非要踩一捧一，华为确实比iPhone流畅太多了#iPhoneAir#",
+      "summary": "终于升级了24G的内存了，12G的内存老给我杀后台，由于这个主板是我捡漏的开发版，第一次打磨芯片差点给我干废了，不过还好有惊无险[捂脸]现在这个手机流畅度有了质的提升，再加上解容模块，直接就可以从上班7.30一直用到下班6点，还能再战几年，强烈推荐改[呲牙] #小米13pro# #手机扩容# #魔改电池#",
       "tags": [
-        "Huawei",
+        "Xiaomi",
         "爆料",
         "NewsNow"
       ]
@@ -298,6 +538,26 @@ window.phoneRadarAuto = {
       "tags": [
         "行业",
         "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-c864deec2e61",
+      "title": "小米卢伟冰称「失控的成本已经席卷了整个手机市场，而千元机毫无疑问受伤最严重」，如何看待这一言论？",
+      "source": "知乎热榜",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "市场报告",
+      "trust": "媒体汇总",
+      "date": "2026-07-02",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.zhihu.com/question/2055964863189537048",
+      "image": "",
+      "summary": "小米卢伟冰称「失控的成本已经席卷了整个手机市场，而千元机毫无疑问受伤最严重」，如何看待这一言论？",
+      "tags": [
+        "Xiaomi",
+        "市场报告",
         "NewsNow"
       ]
     },
@@ -417,26 +677,6 @@ window.phoneRadarAuto = {
       "summary": "iPhone 18 Pro is just a couple months away from launching, and more details on the new product keep leaking—including colors. Here are the three new iPhone 18 Pro colors according…",
       "tags": [
         "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-aa7ee42451cd",
-      "title": "Samsung accidentally reveals Galaxy Z Flip 8 and Fold 8 launch date",
-      "source": "SamMobile",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-01",
-      "time": "13:22",
-      "publishedAt": "2026-07-01T13:22:02.000Z",
-      "url": "https://www.sammobile.com/news/galaxy-z-flip-8-fold-8-launch-date-accidentally-revealed/",
-      "image": "https://www.sammobile.com/wp-content/uploads/2026/07/Samsung-Galaxy-Z-Flip-8-Fold-8-Ultra-Launch-Date-Leak.jpg",
-      "summary": "Samsung started teasing its next-generation foldable phones, the Galaxy Z Flip 8, Galaxy Z Fold 8, and Galaxy Z Fold 8 Ultra, earlier today. While the company hasn’t officially an…",
-      "tags": [
-        "Samsung",
         "爆料",
         "自动抓取"
       ]
@@ -579,6 +819,26 @@ window.phoneRadarAuto = {
         "Samsung",
         "爆料",
         "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-a19fce8f9b96",
+      "title": "JSCHEN小小狐：vivo X500 Pro Max 最新一版影像规格曝光",
+      "source": "JSCHEN小小狐",
+      "brand": "vivo",
+      "model": "vivo 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-07-01",
+      "time": "01:06",
+      "publishedAt": "2026-07-01T01:06:49.000Z",
+      "url": "https://www.coolapk.com/feed/72598374",
+      "image": "http://image.coolapk.com/feed/2026/0701/09/4702274_e279aad5_8008_0566_555@1440x590.jpg",
+      "summary": "『vivo X500 Pro Max 最新一版影像规格曝光』 ◇ 50Mp 1/1.28\" LYTIA L910 LOFIC 主摄 ◇ 200Mp 1/1.4\" 85mm 潜望式长焦 ◇ 50Mp 小底超广角（或 1/2.76''±） ◇ 防抖镜组升级 + 高质量长焦微距 #今日热点# #vivoX500ProMax# #vivoX500#",
+      "tags": [
+        "vivo",
+        "爆料",
+        "酷安博主"
       ]
     },
     {
