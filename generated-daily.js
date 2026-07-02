@@ -1,12 +1,12 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-07-02T04:20:44.892Z",
+  "updatedAt": "2026-07-02T09:31:12.665Z",
   "issueDate": "2026-07-02",
   "issue": "VOL.260702",
   "title": "手机情报日报",
-  "intro": "今日筛出 14 条重点，其中 8 条是重点爆料，包含 7 条 iPhone 相关、1 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 20 条重点，其中 8 条是重点爆料，包含 9 条 iPhone 相关、1 条官方确认、0 条参数线索。",
   "stats": {
-    "total": 14,
-    "iphone": 7,
+    "total": 20,
+    "iphone": 9,
     "leaks": 8,
     "official": 1,
     "specs": 0
@@ -17,30 +17,6 @@ window.phoneRadarDaily = {
       "title": "重点爆料",
       "hint": "机模、配色、影像、屏幕、电池和芯片线索先看。",
       "items": [
-        {
-          "id": "auto-e629becd2651",
-          "title": "近年来最密集发布节奏：消息称苹果今明两年拟推出至少 5 款 iPhone 新机",
-          "originalTitle": "",
-          "source": "IT之家",
-          "brand": "iPhone",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-07-02",
-          "time": "03:30",
-          "publishedAt": "2026-07-02T03:30:05.000Z",
-          "url": "https://www.ithome.com/0/971/499.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/7/55f9521b-6598-4471-9a70-5318fc3b6221.jpg",
-          "verdict": "先看",
-          "takeaway": "IT之家 7 月 2 日消息，《日经亚洲》2 日（今天）援引知情人士消息称，苹果准备 在今年下半年至 2027 年上半年密集推出至少 5 款新 iPhone ，同时上调折叠屏 iPhone 的生产目标。面对席卷整个行业的零部件供应紧张，苹果希望借助更强的供应链控制力扩大市场份额。 知情人士透露，苹果已要求供应商为 今年生产约 1000 万部折叠屏 iPho…",
-          "detail": "IT之家 7 月 2 日消息，《日经亚洲》2 日（今天）援引知情人士消息称，苹果准备 在今年下半年至 2027 年上半年密集推出至少 5 款新 iPhone ，同时上调折叠屏 iPhone 的生产目标。面对席卷整个行业的零部件供应紧张，苹果希望借助更强的供应链控制力扩大市场份额。 知情人士透露，苹果已要求供应商为 今年生产约 1000 万部折叠屏 iPho…",
-          "keyPoints": [
-            "屏幕形态",
-            "爆料来源"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
         {
           "id": "auto-53cade9c6d23",
           "title": "苹果史上最恶劣泄密事件：iPhone 18 Pro 要「凉」了？",
@@ -89,6 +65,53 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
+          "id": "auto-2852fa161ba2",
+          "title": "iPhone 18 Pro Max 电池 / 充电相关消息",
+          "originalTitle": "",
+          "source": "Gizmochina",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-07-02",
+          "time": "08:15",
+          "publishedAt": "2026-07-02T08:15:57.000Z",
+          "url": "https://www.gizmochina.com/2026/07/02/iphone-18-pro-max-battery-leak-e-sim-variant-could-pack-nearly-5500mah/",
+          "image": "https://www.gizmochina.com/wp-content/uploads/2025/10/iPhone-17-Pro-300x169.jpg?x44794",
+          "verdict": "先看",
+          "takeaway": "iPhone 18 Pro Max 电池 / 充电相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
+          "detail": "iPhone 18 Pro Max 电池 / 充电相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
+          "keyPoints": [
+            "电池 / 充电",
+            "爆料来源"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "auto-30675403c21a",
+          "title": "iPhone 折叠屏相关消息",
+          "originalTitle": "",
+          "source": "9to5Mac",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-07-02",
+          "time": "04:24",
+          "publishedAt": "2026-07-02T04:24:35.000Z",
+          "url": "https://9to5mac.com/2026/07/01/apple-reportedly-orders-10m-foldable-iphone-ultra-models-which-could-sell-for-around-2500/",
+          "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/04/iphone-ultra-fold-mockup.jpg?quality=82&strip=all&w=1600",
+          "verdict": "先看",
+          "takeaway": "iPhone 折叠屏相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
+          "detail": "iPhone 折叠屏相关消息。重点看折痕、铰链、厚度、屏幕可靠性和重量是否有实质改善。",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
           "id": "auto-7cc0e1c505d6",
           "title": "iPhone 相关消息",
           "originalTitle": "",
@@ -112,21 +135,21 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
-          "id": "auto-0a717d19b7db",
-          "title": "三星 Galaxy Z Fold8 宽折叠手机渲染图曝光，有望 7 月 22 日发布",
+          "id": "auto-aad15b0e0a2d",
+          "title": "Galaxy S26 Ultra 外观设计线索曝光",
           "originalTitle": "",
-          "source": "IT之家",
+          "source": "Android Authority",
           "brand": "Samsung",
           "type": "爆料",
           "trust": "媒体汇总",
-          "date": "2026-07-02",
-          "time": "03:36",
-          "publishedAt": "2026-07-02T03:36:35.000Z",
-          "url": "https://www.ithome.com/0/971/501.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/7/06035234-da2f-4155-b692-e673331cb4c2.png?x-bce-process=image/format,f_auto",
+          "date": "2026-07-01",
+          "time": "20:34",
+          "publishedAt": "2026-07-01T20:34:57.000Z",
+          "url": "https://www.androidauthority.com/galaxy-z-fold-8-comparison-render-3683541/",
+          "image": "https://www.androidauthority.com/wp-content/uploads/2026/04/Galaxy-S26-Ultra-Z-Fold-7-bottom-scaled.jpeg",
           "verdict": "先看",
-          "takeaway": "IT之家 7 月 2 日消息，消息源 @i冰宇宙 昨日（7 月 1 日）发布微博，分享了一组渲染图，展示了三星 Galaxy Z Fold8 宽折叠手机， 并对比了 Galaxy S26 Ultra 手机，该机有望 7 月 22 日发布。 IT之家此前报道，三星 Galaxy Z Fold8 在展开状态下厚度仅为 4.5 毫米，折叠后厚度为 9.7 毫米，…",
-          "detail": "IT之家 7 月 2 日消息，消息源 @i冰宇宙 昨日（7 月 1 日）发布微博，分享了一组渲染图，展示了三星 Galaxy Z Fold8 宽折叠手机， 并对比了 Galaxy S26 Ultra 手机，该机有望 7 月 22 日发布。 IT之家此前报道，三星 Galaxy Z Fold8 在展开状态下厚度仅为 4.5 毫米，折叠后厚度为 9.7 毫米，…",
+          "takeaway": "Galaxy S26 Ultra 外观设计线索曝光。重点看外观、颜色、尺寸是否和上一代有明显变化。",
+          "detail": "Galaxy S26 Ultra 外观设计线索曝光。这类内容主要看外观设计、按键布局、相机模组和尺寸变化，后续最好等更多渲染图或保护壳线索互相验证。",
           "keyPoints": [
             "外观 / 配色 / 尺寸"
           ],
@@ -135,24 +158,23 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
-          "id": "auto-b779eb105087",
-          "title": "消息称三星 Galaxy A18 智能手机 4G 和 5G 版本分别采用联发科、高通处理器",
+          "id": "auto-d41bb79a469a",
+          "title": "vivo 影像能力相关消息",
           "originalTitle": "",
-          "source": "IT之家",
-          "brand": "Samsung",
+          "source": "Gizmochina",
+          "brand": "vivo",
           "type": "爆料",
           "trust": "媒体汇总",
-          "date": "2026-07-02",
-          "time": "02:18",
-          "publishedAt": "2026-07-02T02:18:26.000Z",
-          "url": "https://www.ithome.com/0/971/450.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/7/9f7e8c56-15aa-4228-96a6-c798b91ce959.jpg",
+          "date": "2026-07-01",
+          "time": "07:15",
+          "publishedAt": "2026-07-01T07:15:16.000Z",
+          "url": "https://www.gizmochina.com/2026/07/01/vivo-x500-pro-max-camera-specifications-leak/",
+          "image": "https://www.gizmochina.com/wp-content/uploads/2025/12/Vivo-X300-Pro-1-300x188.png?x44794",
           "verdict": "先看",
-          "takeaway": "IT之家 7 月 2 日消息，韩媒 ZDNET Korea 当地时间昨日表示，三星电子 MX 业务计划在其入门级智能手机 Galaxy A18 的 4G 版本中采用联发科技处理器 、 5G 版本则导入高通主芯片 ，两者都将配备刚性 OLED 屏幕。 作为参考，Galaxy A1 系列上代 A17 的主 SoC 分别是联发科技 Helios G99 (4G)…",
-          "detail": "IT之家 7 月 2 日消息，韩媒 ZDNET Korea 当地时间昨日表示，三星电子 MX 业务计划在其入门级智能手机 Galaxy A18 的 4G 版本中采用联发科技处理器 、 5G 版本则导入高通主芯片 ，两者都将配备刚性 OLED 屏幕。 作为参考，Galaxy A1 系列上代 A17 的主 SoC 分别是联发科技 Helios G99 (4G)…",
+          "takeaway": "vivo 有系统功能或 AI 体验更新，适合关注后续是否影响日常使用。",
+          "detail": "vivo 影像能力相关消息。重点看影像功能是否和新机硬件有关，如果只是拍摄案例或营销内容，参考价值会低一些。",
           "keyPoints": [
-            "屏幕形态",
-            "芯片 / 性能",
+            "影像硬件",
             "爆料来源"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
@@ -160,46 +182,24 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
-          "id": "auto-a30105a6f452",
-          "title": "三星在韩推出 Galaxy Jump5 智能手机，为运营商 KT 独占型号",
+          "id": "newsnow-88f3c6d064c6",
+          "title": "消息称某厂子系新开 6.8 英寸 1.5K OLED 三星直屏，预计为 iQOO",
           "originalTitle": "",
-          "source": "IT之家",
+          "source": "IT之家热榜",
           "brand": "Samsung",
           "type": "爆料",
           "trust": "媒体汇总",
           "date": "2026-07-02",
-          "time": "02:02",
-          "publishedAt": "2026-07-02T02:02:35.000Z",
-          "url": "https://www.ithome.com/0/971/446.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/7/ea8d18be-7c26-4cd8-9888-ac6e1c8770e0.png",
+          "time": "16:00",
+          "publishedAt": "2026-07-02T16:00:10.000Z",
+          "url": "https://www.ithome.com/0/971/623.htm",
+          "image": "",
           "verdict": "先看",
-          "takeaway": "IT之家 7 月 2 日消息，韩国电信运营商 KT 当地时间今日宣布联手三星电子推出独占机型 Galaxy Jump5。 这一智能手机据称基于全球市场发售的 Galaxy A27 5G 打造， 改变了 Jump 系列脱胎于 Galaxy M 的传统 。 Galaxy Jump5 搭载对角线长度 169.1mm 的 FHD+ Super AMOLED 屏幕，…",
-          "detail": "IT之家 7 月 2 日消息，韩国电信运营商 KT 当地时间今日宣布联手三星电子推出独占机型 Galaxy Jump5。 这一智能手机据称基于全球市场发售的 Galaxy A27 5G 打造， 改变了 Jump 系列脱胎于 Galaxy M 的传统 。 Galaxy Jump5 搭载对角线长度 169.1mm 的 FHD+ Super AMOLED 屏幕，…",
+          "takeaway": "消息称某厂子系新开 6.8 英寸 1.5K OLED 三星直屏，预计为 iQOO",
+          "detail": "消息称某厂子系新开 6.8 英寸 1.5K OLED 三星直屏，预计为 iQOO",
           "keyPoints": [
-            "屏幕形态"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "auto-436290c04617",
-          "title": "小米卢伟冰：手机行业正在经历近十年以来最严峻时刻，千元机受伤最严重",
-          "originalTitle": "",
-          "source": "IT之家",
-          "brand": "Xiaomi",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-07-02",
-          "time": "01:18",
-          "publishedAt": "2026-07-02T01:18:20.000Z",
-          "url": "https://www.ithome.com/0/971/435.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/7/ac5982e2-3d07-4310-a387-a26160db6d98.png?x-bce-process=image/format,f_auto",
-          "verdict": "先看",
-          "takeaway": "IT之家 7 月 2 日消息，小米 REDMI Note 17 系列手机官宣将于本月发布，小米集团合伙人、总裁、手机部总裁、小米品牌总经理卢伟冰宣布， REDMI Note 销量正式突破 5 亿台 。 卢伟冰表示， 手机行业正在经历近十年以来最严峻时刻，失控的成本已经席卷了整个手机市场 ，而千元机毫无疑问受伤最严重。不少原先的千元机飘档，曾经的标配也变成稀…",
-          "detail": "IT之家 7 月 2 日消息，小米 REDMI Note 17 系列手机官宣将于本月发布，小米集团合伙人、总裁、手机部总裁、小米品牌总经理卢伟冰宣布， REDMI Note 销量正式突破 5 亿台 。 卢伟冰表示， 手机行业正在经历近十年以来最严峻时刻，失控的成本已经席卷了整个手机市场 ，而千元机毫无疑问受伤最严重。不少原先的千元机飘档，曾经的标配也变成稀…",
-          "keyPoints": [
-            "成本 / 价格"
+            "屏幕形态",
+            "爆料来源"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
@@ -280,6 +280,29 @@ window.phoneRadarDaily = {
           "confidence": "官方内容，可直接作为已确认信息记录。",
           "impact": "可信度高，但如果不是配置/价格消息，只需要扫一眼。",
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        },
+        {
+          "id": "newsnow-f8e26eeae8af",
+          "title": "因印度供应商遭网络攻击，iPhone18 Pro Max 银灰色曝光，有哪些亮点？此泄露暴露出哪些问题？",
+          "originalTitle": "",
+          "source": "知乎热榜",
+          "brand": "iPhone",
+          "type": "市场报告",
+          "trust": "媒体汇总",
+          "date": "2026-07-02",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://www.zhihu.com/question/2055321023403095974",
+          "image": "",
+          "verdict": "扫一眼",
+          "takeaway": "因印度供应商遭网络攻击，iPhone18 Pro Max 银灰色曝光，有哪些亮点？此泄露暴露出哪些问题？",
+          "detail": "因印度供应商遭网络攻击，iPhone18 Pro Max 银灰色曝光，有哪些亮点？此泄露暴露出哪些问题？",
+          "keyPoints": [
+            "市场报告"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "目前更像背景信息，对买手机影响不大。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         }
       ]
     },
@@ -310,6 +333,29 @@ window.phoneRadarDaily = {
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        },
+        {
+          "id": "auto-47d0d86a6fa9",
+          "title": "Samsung 折叠屏相关消息",
+          "originalTitle": "",
+          "source": "Android Authority",
+          "brand": "Samsung",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-07-02",
+          "time": "06:18",
+          "publishedAt": "2026-07-02T06:18:56.000Z",
+          "url": "https://www.androidauthority.com/samsung-galaxy-z-fold-8-flip-8-thinborne-cases-3683621/",
+          "image": "https://www.androidauthority.com/wp-content/uploads/2026/07/Samsung-Galaxy-Z-Fold-8-Ultra-thinborne-case-scaled-1.jpg",
+          "verdict": "可略过",
+          "takeaway": "Samsung 有发布或新功能消息，适合确认是否和新机有关。",
+          "detail": "Samsung 折叠屏相关消息。重点看折痕、铰链、厚度、屏幕可靠性和重量是否有实质改善。",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         }
       ]
     },
@@ -318,6 +364,29 @@ window.phoneRadarDaily = {
       "title": "行业趋势",
       "hint": "看方向，不急着当购买依据。",
       "items": [
+        {
+          "id": "newsnow-696685e1b238",
+          "title": "手机坏了换了新手机，不是我非要踩一捧一，华为确实比iPhone流畅太多了#iPhoneAir#",
+          "originalTitle": "",
+          "source": "酷安热榜",
+          "brand": "Huawei",
+          "type": "爆料",
+          "trust": "高关注爆料源",
+          "date": "2026-07-02",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://www.coolapk.com/feed/72600901",
+          "image": "",
+          "verdict": "先看",
+          "takeaway": "手机坏了换了新手机，不是我非要踩一捧一，华为确实比iPhone流畅太多了#iPhoneAir#",
+          "detail": "手机坏了换了新手机，不是我非要踩一捧一，华为确实比iPhone流畅太多了#iPhoneAir#",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        },
         {
           "id": "newsnow-e9ff1386f5e5",
           "title": "三星预热 Galaxy Z Fold 8：全新形态",
@@ -342,27 +411,96 @@ window.phoneRadarDaily = {
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         },
         {
-          "id": "coolapk-user-837d73e8fcbf",
-          "title": "竹本青：华为HarmonyOS6 终端设备数突破7000万",
+          "id": "newsnow-84ea288c4ca1",
+          "title": "骁龙8E6系列新旗舰手机起步价或将6000元以上",
           "originalTitle": "",
-          "source": "竹本青",
-          "brand": "Huawei",
+          "source": "酷安热榜",
+          "brand": "行业",
           "type": "爆料",
-          "trust": "高可信爆料",
+          "trust": "高关注爆料源",
           "date": "2026-07-02",
-          "time": "01:01",
-          "publishedAt": "2026-07-02T01:01:26.000Z",
-          "url": "https://www.coolapk.com/feed/72612791",
-          "image": "http://image.coolapk.com/feed/2026/0702/09/4248714_de9115d4_4085_9664_157@1080x1920.jpg",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://www.coolapk.com/feed/72602305",
+          "image": "",
           "verdict": "扫一眼",
-          "takeaway": "【华为HarmonyOS6 终端设备数突破7000万】 华为今日官宣，HarmonyOS6 终端设备数突破7000万。此前6月，高管余承东表示，鸿蒙操作系统已成为中国第二大智能手机操作系统。 26年7月2日：鸿蒙6 终端设备数超7000万 26年6月12日：鸿蒙6 终端设备数超6600万 26年5月14日：支持鸿蒙6 终端数量超6000万 26年4月20日…",
-          "detail": "【华为HarmonyOS6 终端设备数突破7000万】 华为今日官宣，HarmonyOS6 终端设备数突破7000万。此前6月，高管余承东表示，鸿蒙操作系统已成为中国第二大智能手机操作系统。 26年7月2日：鸿蒙6 终端设备数超7000万 26年6月12日：鸿蒙6 终端设备数超6600万 26年5月14日：支持鸿蒙6 终端数量超6000万 26年4月20日…",
+          "takeaway": "骁龙8E6系列新旗舰手机起步价或将6000元以上",
+          "detail": "骁龙8E6系列新旗舰手机起步价或将6000元以上",
           "keyPoints": [
             "爆料"
           ],
-          "confidence": "可信度较高，但仍属于发布前线索。",
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        },
+        {
+          "id": "newsnow-173f67664565",
+          "title": "TCL华星宣布独家供屏REDMI K90至尊版",
+          "originalTitle": "",
+          "source": "酷安热榜",
+          "brand": "Xiaomi",
+          "type": "爆料",
+          "trust": "高关注爆料源",
+          "date": "2026-07-02",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://www.coolapk.com/feed/72608757",
+          "image": "",
+          "verdict": "扫一眼",
+          "takeaway": "TCL华星宣布独家供屏REDMI K90至尊版",
+          "detail": "TCL华星宣布独家供屏REDMI K90至尊版",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        },
+        {
+          "id": "newsnow-8bdbe3e662f0",
+          "title": "我宣布第20260701届手机壁纸&桌面搭配&主题大赛现在开始[doge] 刷到这条的请把你们的最好看壁纸&锁屏发出来[滑稽][斗鸡眼滑稽] 顺便也把你们桌面布局和锁屏发出来[cos滑稽] 顺便给酷友们分享几张壁纸[受虐滑稽] 投币自取[酷币][酷币][酷币]",
+          "originalTitle": "",
+          "source": "酷安热榜",
+          "brand": "行业",
+          "type": "爆料",
+          "trust": "高关注爆料源",
+          "date": "2026-07-02",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://www.coolapk.com/feed/72607254",
+          "image": "",
+          "verdict": "扫一眼",
+          "takeaway": "我宣布第20260701届手机壁纸&桌面搭配&主题大赛现在开始[doge] 刷到这条的请把你们的最好看壁纸&锁屏发出来[滑稽][斗鸡眼滑稽] 顺便也把你们桌面布局和锁屏发出来[cos滑稽] 顺便给酷友们分享几张壁纸[受虐滑稽] 投币自取[酷币][酷币][酷币]",
+          "detail": "我宣布第20260701届手机壁纸&桌面搭配&主题大赛现在开始[doge] 刷到这条的请把你们的最好看壁纸&锁屏发出来[滑稽][斗鸡眼滑稽] 顺便也把你们桌面布局和锁屏发出来[cos滑稽] 顺便给酷友们分享几张壁纸[受虐滑稽] 投币自取[酷币][酷币][酷币]",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        },
+        {
+          "id": "auto-6ffca2734074",
+          "title": "Galaxy S27 屏幕规格相关消息",
+          "originalTitle": "",
+          "source": "SamMobile",
+          "brand": "Samsung",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-07-02",
+          "time": "06:53",
+          "publishedAt": "2026-07-02T06:53:41.000Z",
+          "url": "https://www.sammobile.com/news/every-galaxy-s27-model-privacy-display-feature/",
+          "image": "",
+          "verdict": "可略过",
+          "takeaway": "Galaxy S27 屏幕规格相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
+          "detail": "Galaxy S27 屏幕规格相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
+          "keyPoints": [
+            "屏幕形态"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "影响手感和显示体验，适合和其他机型对比。",
+          "action": "有具体参数就记录到参数库；没有参数就先收藏。"
         }
       ]
     }

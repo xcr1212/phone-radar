@@ -1,6 +1,126 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-07-02T04:20:44.892Z",
+  "updatedAt": "2026-07-02T09:31:12.665Z",
   "news": [
+    {
+      "id": "newsnow-88f3c6d064c6",
+      "title": "消息称某厂子系新开 6.8 英寸 1.5K OLED 三星直屏，预计为 iQOO",
+      "source": "IT之家热榜",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-02",
+      "time": "16:00",
+      "publishedAt": "2026-07-02T16:00:10.000Z",
+      "url": "https://www.ithome.com/0/971/623.htm",
+      "image": "",
+      "summary": "消息称某厂子系新开 6.8 英寸 1.5K OLED 三星直屏，预计为 iQOO",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "auto-2852fa161ba2",
+      "title": "iPhone 18 Pro Max battery leak: e-SIM variant could pack nearly 5,500mAh",
+      "source": "Gizmochina",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-02",
+      "time": "08:15",
+      "publishedAt": "2026-07-02T08:15:57.000Z",
+      "url": "https://www.gizmochina.com/2026/07/02/iphone-18-pro-max-battery-leak-e-sim-variant-could-pack-nearly-5500mah/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2025/10/iPhone-17-Pro-300x169.jpg?x44794",
+      "summary": "There’s a lot of excitement building around the iPhone 18 series, especially with fresh rumors about meaningful battery life improvements on the Pro Max. A new leak shared on Weib…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-6ffca2734074",
+      "title": "Every Galaxy S27 model could feature Privacy Display",
+      "source": "SamMobile",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-02",
+      "time": "06:53",
+      "publishedAt": "2026-07-02T06:53:41.000Z",
+      "url": "https://www.sammobile.com/news/every-galaxy-s27-model-privacy-display-feature/",
+      "image": "",
+      "summary": "Samsung introduced a groundbreaking privacy feature called Privacy Display with the Galaxy S26 Ultra this year. Due to its practicality and popularity, the company may be planning…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-47d0d86a6fa9",
+      "title": "More Galaxy Z Fold 8, Fold 8 Ultra, and Z Flip 8 cases appear online ahead of launch",
+      "source": "Android Authority",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-02",
+      "time": "06:18",
+      "publishedAt": "2026-07-02T06:18:56.000Z",
+      "url": "https://www.androidauthority.com/samsung-galaxy-z-fold-8-flip-8-thinborne-cases-3683621/",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2026/07/Samsung-Galaxy-Z-Fold-8-Ultra-thinborne-case-scaled-1.jpg",
+      "summary": "Samsung's foldables are still a few weeks away, but that isn't stopping one company from posting its cases.",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-1dcb6c9faedf",
+      "title": "Standard Mate 80 becomes best-selling Huawei phone in H1 2026",
+      "source": "Huawei Central",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-02",
+      "time": "04:25",
+      "publishedAt": "2026-07-02T04:25:12.000Z",
+      "url": "https://www.huaweicentral.com/standard-mate-80-becomes-best-selling-huawei-phone-in-h1-2026/",
+      "image": "https://www.huaweicentral.com/wp-content/uploads/2026/07/Huawei-phone-sales.jpg",
+      "summary": "Mate 80 series continues to remain at the top of the Chinese phone market, and among all four models, the standard version has ranked as the best-selling Huawei device in H1 2026.…",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-30675403c21a",
+      "title": "Apple reportedly orders 10M foldable iPhone Ultra models, which could sell for around $2500",
+      "source": "9to5Mac",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-02",
+      "time": "04:24",
+      "publishedAt": "2026-07-02T04:24:35.000Z",
+      "url": "https://9to5mac.com/2026/07/01/apple-reportedly-orders-10m-foldable-iphone-ultra-models-which-could-sell-for-around-2500/",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/04/iphone-ultra-fold-mockup.jpg?quality=82&strip=all&w=1600",
+      "summary": "Apple plans to manufacture and sell around 10 million foldable iPhone Ultra models, according to a new report. That’s roughly a third more than the average build targets previousl…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-bc17510759a0",
       "title": "Redmi Note 17 series confirmed for July as Note lineup crosses 500 million global sales",
@@ -19,246 +139,6 @@ window.phoneRadarAuto = {
         "Xiaomi",
         "爆料",
         "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-0a717d19b7db",
-      "title": "三星 Galaxy Z Fold8 宽折叠手机渲染图曝光，有望 7 月 22 日发布",
-      "source": "IT之家",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-02",
-      "time": "03:36",
-      "publishedAt": "2026-07-02T03:36:35.000Z",
-      "url": "https://www.ithome.com/0/971/501.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/7/06035234-da2f-4155-b692-e673331cb4c2.png?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 7 月 2 日消息，消息源 @i冰宇宙 昨日（7 月 1 日）发布微博，分享了一组渲染图，展示了三星 Galaxy Z Fold8 宽折叠手机， 并对比了 Galaxy S26 Ultra 手机，该机有望 7 月 22 日发布。 IT之家此前报道，三星 Galaxy Z Fold8 在展开状态下厚度仅为 4.5 毫米，折叠后厚度为 9.7 毫米，…",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-e629becd2651",
-      "title": "近年来最密集发布节奏：消息称苹果今明两年拟推出至少 5 款 iPhone 新机",
-      "source": "IT之家",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-02",
-      "time": "03:30",
-      "publishedAt": "2026-07-02T03:30:05.000Z",
-      "url": "https://www.ithome.com/0/971/499.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/7/55f9521b-6598-4471-9a70-5318fc3b6221.jpg",
-      "summary": "IT之家 7 月 2 日消息，《日经亚洲》2 日（今天）援引知情人士消息称，苹果准备 在今年下半年至 2027 年上半年密集推出至少 5 款新 iPhone ，同时上调折叠屏 iPhone 的生产目标。面对席卷整个行业的零部件供应紧张，苹果希望借助更强的供应链控制力扩大市场份额。 知情人士透露，苹果已要求供应商为 今年生产约 1000 万部折叠屏 iPho…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "coolapk-user-ec857cc1807e",
-      "title": "竹本青：超级小爱接入微信A2A：一句话发微信、打视频",
-      "source": "竹本青",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-07-02",
-      "time": "03:02",
-      "publishedAt": "2026-07-02T03:02:33.000Z",
-      "url": "https://www.coolapk.com/feed/72614272",
-      "image": "http://image.coolapk.com/feed/2026/0702/11/4248714_43ba9e80_1352_1929_129@1080x1440.jpg",
-      "summary": "【小米超级小爱 接入微信A2A：一句话发微信、打视频】 7月2日，小米澎湃OS 宣布超级小爱上线「一句话发微信」功能：唤醒超级小爱，一句话即可发送微信消息，拨打语音、视频。 * 使用该功能需将超级小爱升级至V7.13.23版本，微信升级至V8.0.74版本。 #今日热点# #超级小爱# #HyperOS3#",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
-      "id": "coolapk-user-6eef7545bfc1",
-      "title": "竹本青：安兔兔称某设备发布会宣传跑分存疑",
-      "source": "竹本青",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-07-02",
-      "time": "02:39",
-      "publishedAt": "2026-07-02T02:39:27.000Z",
-      "url": "https://www.coolapk.com/feed/72613948",
-      "image": "http://image.coolapk.com/feed/2026/0702/11/4248714_73ea0e8c_4220_6557_711@1440x654.jpg",
-      "summary": "【安兔兔称某设备发布会宣传跑分存疑：无联网校验记录、品牌方无法提供有效截图】 安兔兔昨日发文称，为了验证成绩的真实性，安兔兔在V11版本中加入了跑分联网校验策略。经核查，某设备发布会上所宣传的跑分并无联网校验记录，且品牌方无法提供有效跑分截图，跑分存疑，该成绩安兔兔不予认可。 同时，安兔兔决定未来三个月内平均分榜单不会收录该设备的成绩，望该品牌引以为戒。…",
-      "tags": [
-        "行业",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
-      "id": "coolapk-user-f54908048e94",
-      "title": "竹本青：iQOO Z11i 预热：120Hz电竞屏+6500mAh电池",
-      "source": "竹本青",
-      "brand": "vivo",
-      "model": "vivo 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-07-02",
-      "time": "02:20",
-      "publishedAt": "2026-07-02T02:20:40.000Z",
-      "url": "https://www.coolapk.com/feed/72613719",
-      "image": "http://image.coolapk.com/feed/2026/0702/10/4248714_3ce21b8a_8831_5019_762@2000x2667.jpg",
-      "summary": "【iQOO Z11i 官方预热汇总：120Hz电竞屏+6500mAh电池】 ● 120Hz电竞屏，通过莱茵低蓝光认证 ● 6500mAh电池，从早到晚不断电 ● IP65+SGS五星整机抗跌耐摔认证 #今日热点# #iQOOZ11i# #OriginOS6#",
-      "tags": [
-        "vivo",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
-      "id": "auto-b779eb105087",
-      "title": "消息称三星 Galaxy A18 智能手机 4G 和 5G 版本分别采用联发科、高通处理器",
-      "source": "IT之家",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-02",
-      "time": "02:18",
-      "publishedAt": "2026-07-02T02:18:26.000Z",
-      "url": "https://www.ithome.com/0/971/450.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/7/9f7e8c56-15aa-4228-96a6-c798b91ce959.jpg",
-      "summary": "IT之家 7 月 2 日消息，韩媒 ZDNET Korea 当地时间昨日表示，三星电子 MX 业务计划在其入门级智能手机 Galaxy A18 的 4G 版本中采用联发科技处理器 、 5G 版本则导入高通主芯片 ，两者都将配备刚性 OLED 屏幕。 作为参考，Galaxy A1 系列上代 A17 的主 SoC 分别是联发科技 Helios G99 (4G)…",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-a30105a6f452",
-      "title": "三星在韩推出 Galaxy Jump5 智能手机，为运营商 KT 独占型号",
-      "source": "IT之家",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-02",
-      "time": "02:02",
-      "publishedAt": "2026-07-02T02:02:35.000Z",
-      "url": "https://www.ithome.com/0/971/446.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/7/ea8d18be-7c26-4cd8-9888-ac6e1c8770e0.png",
-      "summary": "IT之家 7 月 2 日消息，韩国电信运营商 KT 当地时间今日宣布联手三星电子推出独占机型 Galaxy Jump5。 这一智能手机据称基于全球市场发售的 Galaxy A27 5G 打造， 改变了 Jump 系列脱胎于 Galaxy M 的传统 。 Galaxy Jump5 搭载对角线长度 169.1mm 的 FHD+ Super AMOLED 屏幕，…",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "coolapk-user-056130406b03",
-      "title": "竹本青：【卢伟冰：REDMI Note 17系列 将是26年中端手机新标杆】 7月2日，小米高管卢伟冰发文预热 REDMI…",
-      "source": "竹本青",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-07-02",
-      "time": "01:32",
-      "publishedAt": "2026-07-02T01:32:19.000Z",
-      "url": "https://www.coolapk.com/feed/72613127",
-      "image": "http://image.coolapk.com/feed/2026/0702/09/4248714_563616ef_5938_2763_332@1272x1409.jpg",
-      "summary": "【卢伟冰：REDMI Note 17系列 将是26年中端手机新标杆】 7月2日，小米高管卢伟冰发文预热 REDMI Note 17系列：手机行业正在经历近十年以来最严峻时刻，失控的成本已经席卷了整个手机市场，而千元机毫无疑问受伤最严重。 不少原先的千元机飘档，曾经的标配也变成稀有，OLED屏、满级防水、高强度玻璃在千元机上越来越少见了。 消费者在问：千元还…",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
-      "id": "auto-436290c04617",
-      "title": "小米卢伟冰：手机行业正在经历近十年以来最严峻时刻，千元机受伤最严重",
-      "source": "IT之家",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-02",
-      "time": "01:18",
-      "publishedAt": "2026-07-02T01:18:20.000Z",
-      "url": "https://www.ithome.com/0/971/435.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/7/ac5982e2-3d07-4310-a387-a26160db6d98.png?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 7 月 2 日消息，小米 REDMI Note 17 系列手机官宣将于本月发布，小米集团合伙人、总裁、手机部总裁、小米品牌总经理卢伟冰宣布， REDMI Note 销量正式突破 5 亿台 。 卢伟冰表示， 手机行业正在经历近十年以来最严峻时刻，失控的成本已经席卷了整个手机市场 ，而千元机毫无疑问受伤最严重。不少原先的千元机飘档，曾经的标配也变成稀…",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-ff277e925f46",
-      "title": "小米 REDMI Note 系列 12 年全球累计销量破 5 亿台，Note 17 系列本月见",
-      "source": "IT之家",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-02",
-      "time": "01:11",
-      "publishedAt": "2026-07-02T01:11:14.000Z",
-      "url": "https://www.ithome.com/0/971/431.htm",
-      "image": "https://qimg.ithome.com/newfiles/2026/7/35252bed-5597-4dae-b8c4-85671675e3ff.jpg?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 7 月 2 日消息，今天上午，@REDMI红米手机 官微宣布：REDMI Note 系列 12 年 全球累计销量突破 5 亿台 ，新一代“小金刚”机型 —— Note 17 系列将于本月发布 ，持续推动品质、屏幕、续航、体验升级。 此前 @数码闲聊站 的消息称，某厂的子系中端走量机暂定 7 月亮相，主打 9K 级大容量单电芯电池 +1.5K 大直…",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "coolapk-user-837d73e8fcbf",
-      "title": "竹本青：华为HarmonyOS6 终端设备数突破7000万",
-      "source": "竹本青",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-07-02",
-      "time": "01:01",
-      "publishedAt": "2026-07-02T01:01:26.000Z",
-      "url": "https://www.coolapk.com/feed/72612791",
-      "image": "http://image.coolapk.com/feed/2026/0702/09/4248714_de9115d4_4085_9664_157@1080x1920.jpg",
-      "summary": "【华为HarmonyOS6 终端设备数突破7000万】 华为今日官宣，HarmonyOS6 终端设备数突破7000万。此前6月，高管余承东表示，鸿蒙操作系统已成为中国第二大智能手机操作系统。 26年7月2日：鸿蒙6 终端设备数超7000万 26年6月12日：鸿蒙6 终端设备数超6600万 26年5月14日：支持鸿蒙6 终端数量超6000万 26年4月20日…",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
-      "id": "coolapk-user-1edc20684c4c",
-      "title": "竹本青：REDMI全新Note 17系列将于本月发布",
-      "source": "竹本青",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-07-02",
-      "time": "01:00",
-      "publishedAt": "2026-07-02T01:00:58.000Z",
-      "url": "https://www.coolapk.com/feed/72612787",
-      "image": "http://image.coolapk.com/feed/2026/0702/09/4248714_9ebaa4fa_4056_6551_107@1080x1440.jpg",
-      "summary": "【REDMI Note系列 全球累销超5亿台，全新Note 17系列 本月发布】 REDMI 手机 今天发文宣布，Note系列 历经12年，全球累计销量已突破5亿台；新一代小金刚Note 17系列本月发布，将持续推动品质、屏幕、续航、体验升级。 此前，数码闲聊站曝光某厂子系中端走量机配置，预计归属于REDMI Note 17系列： ▫️9K级单电芯电池 ▫…",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "酷安博主"
       ]
     },
     {
@@ -302,26 +182,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-6f21d6e2a753",
-      "title": "REDMI K90 至尊版发布，首销售价2799元起",
-      "source": "酷安热榜",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-07-02",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72591295",
-      "image": "",
-      "summary": "REDMI K90 至尊版发布，首销售价2799元起",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
       "id": "newsnow-84ea288c4ca1",
       "title": "骁龙8E6系列新旗舰手机起步价或将6000元以上",
       "source": "酷安热榜",
@@ -337,6 +197,66 @@ window.phoneRadarAuto = {
       "summary": "骁龙8E6系列新旗舰手机起步价或将6000元以上",
       "tags": [
         "行业",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-696685e1b238",
+      "title": "手机坏了换了新手机，不是我非要踩一捧一，华为确实比iPhone流畅太多了#iPhoneAir#",
+      "source": "酷安热榜",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-07-02",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/72600901",
+      "image": "",
+      "summary": "手机坏了换了新手机，不是我非要踩一捧一，华为确实比iPhone流畅太多了#iPhoneAir#",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-173f67664565",
+      "title": "TCL华星宣布独家供屏REDMI K90至尊版",
+      "source": "酷安热榜",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-07-02",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/72608757",
+      "image": "",
+      "summary": "TCL华星宣布独家供屏REDMI K90至尊版",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-6f21d6e2a753",
+      "title": "REDMI K90 至尊版发布，首销售价2799元起",
+      "source": "酷安热榜",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-07-02",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/72591295",
+      "image": "",
+      "summary": "REDMI K90 至尊版发布，首销售价2799元起",
+      "tags": [
+        "Xiaomi",
         "爆料",
         "NewsNow"
       ]
@@ -462,26 +382,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "coolapk-user-9a5a2bebc898",
-      "title": "竹本青：奇瑞犀牛电池安全保障计划正式发布",
-      "source": "竹本青",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-07-01",
-      "time": "18:34",
-      "publishedAt": "2026-07-01T18:34:29.000Z",
-      "url": "https://www.coolapk.com/feed/72611484",
-      "image": "http://image.coolapk.com/feed/2026/0702/02/4248714_21852509_0866_8555_910@1957x4236.jpg",
-      "summary": "【奇瑞犀牛电池安全保障计划正式发布：三项“兜底”承诺，全系满足最新国家标准】 ● 全系满足最新国家标准 奇瑞所有搭载犀牛电池的已售及在售车型，其动力电池安全性能均满足最新国家标准。 ● 动力电池安全承诺 奇瑞所有已售及在售车型，若因动力电池自身原因导致整车发生热失控损毁，奇瑞将赔付同款新车。 ● 三电终身质保承诺 针对首任购车车主且车辆使用性质为非营运的，…",
-      "tags": [
-        "行业",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
       "id": "auto-7cc0e1c505d6",
       "title": "Apple Has Reportedly Cut iPhone 17 Lineup Production",
       "source": "MacRumors",
@@ -602,26 +502,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-80d233e6b6c0",
-      "title": "Galaxy S23 FE finally gets the June 2026 security update",
-      "source": "SamMobile",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-01",
-      "time": "07:40",
-      "publishedAt": "2026-07-01T07:40:15.000Z",
-      "url": "https://www.sammobile.com/news/galaxy-s23-fe-june-2026-security-update-released/",
-      "image": "",
-      "summary": "Samsung has released a new software update for the Galaxy S23 FE, bringing the June 2026 security patch to the Fan Edition phone. A similar security update was released for the ot…",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-99d573ebe162",
       "title": "Samsung's wide foldable just got its first detailed specs leak",
       "source": "Android Central",
@@ -682,26 +562,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-3318af2a3add",
-      "title": "Huawei begins testing eSIM capability for Mate 90 models",
-      "source": "Huawei Central",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-01",
-      "time": "04:06",
-      "publishedAt": "2026-07-01T04:06:31.000Z",
-      "url": "https://www.huaweicentral.com/huawei-begins-testing-esim-capability-for-mate-90-models/",
-      "image": "https://www.huaweicentral.com/wp-content/uploads/2026/07/eSIM-leak.jpg",
-      "summary": "Huawei is testing eSIM tech capability for the upcoming Mate 90 series. The company introduced the first eSIM-based smartphone last year in November. Now it is preparing to bring…",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-aab2fe9a5e62",
       "title": "Samsung drops first official Galaxy Z Fold 8 teasers, ‘New Shape, New Joy’ [Gallery]",
       "source": "9to5Google",
@@ -719,26 +579,6 @@ window.phoneRadarAuto = {
         "Samsung",
         "爆料",
         "自动抓取"
-      ]
-    },
-    {
-      "id": "coolapk-user-a19fce8f9b96",
-      "title": "JSCHEN小小狐：vivo X500 Pro Max 最新一版影像规格曝光",
-      "source": "JSCHEN小小狐",
-      "brand": "vivo",
-      "model": "vivo 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-07-01",
-      "time": "01:06",
-      "publishedAt": "2026-07-01T01:06:49.000Z",
-      "url": "https://www.coolapk.com/feed/72598374",
-      "image": "http://image.coolapk.com/feed/2026/0701/09/4702274_e279aad5_8008_0566_555@1440x590.jpg",
-      "summary": "『vivo X500 Pro Max 最新一版影像规格曝光』 ◇ 50Mp 1/1.28\" LYTIA L910 LOFIC 主摄 ◇ 200Mp 1/1.4\" 85mm 潜望式长焦 ◇ 50Mp 小底超广角（或 1/2.76''±） ◇ 防抖镜组升级 + 高质量长焦微距 #今日热点# #vivoX500ProMax# #vivoX500#",
-      "tags": [
-        "vivo",
-        "爆料",
-        "酷安博主"
       ]
     },
     {
