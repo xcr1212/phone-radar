@@ -1,6 +1,46 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-07-02T16:16:21.223Z",
+  "updatedAt": "2026-07-02T18:03:00.269Z",
   "news": [
+    {
+      "id": "auto-5ea5d4945adf",
+      "title": "Samsung quietly brings back its BEST Galaxy S26 Ultra deal for the 4th of July weekend — with or without trade",
+      "source": "Android Central",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-07-02",
+      "time": "17:57",
+      "publishedAt": "2026-07-02T17:57:01.000Z",
+      "url": "https://www.androidcentral.com/phones/samsung-galaxy/samsung-quietly-brings-back-its-best-galaxy-s26-ultra-deal-for-the-4th-of-july-weekend-with-or-without-trade",
+      "image": "https://cdn.mos.cms.futurecdn.net/nVQgmuzQpnE7vRDcQuaqoY-1280-80.jpg",
+      "summary": "Samsung has resurrected a deal that gives you a straight $350 off the Galaxy S26 Ultra when you buy the phone unlocked on its website.",
+      "tags": [
+        "Samsung",
+        "评测",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-ffe8dc0c0a2d",
+      "title": "Galaxy S26 Ultra is $949 for its 512GB model right now, but not for everyone",
+      "source": "9to5Google",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-02",
+      "time": "17:55",
+      "publishedAt": "2026-07-02T17:55:00.000Z",
+      "url": "https://9to5google.com/2026/07/02/samsung-galaxy-s26-ultra-950-deal/",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/02/galaxy-s26-ultra-8.jpg?quality=82&strip=all&w=1600",
+      "summary": "If you’ve been eyeing Samsung’s Galaxy S26 Ultra, a current deal brings the 512GB model down to just $949, over $500, but it won’t appear for everyone.",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-a50f980d10b3",
       "title": "iPhone 18 Pro Could Use Qualcomm Modem in the US and C2 Elsewhere",
@@ -17,26 +57,6 @@ window.phoneRadarAuto = {
       "summary": "Stolen data from Apple manufacturing partner Tata Electronics appears to reveal that the iPhone 18 Pro will use different modem chips depending on the market it is sold in, with U…",
       "tags": [
         "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-61ab425d8530",
-      "title": "Switching to the Samsung Galaxy S26 Ultra: How to transfer your data",
-      "source": "SamMobile",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-02",
-      "time": "16:00",
-      "publishedAt": "2026-07-02T16:00:00.000Z",
-      "url": "https://www.sammobile.com/news/switching-to-samsung-galaxy-s26-ultra-how-to-transfer-data/",
-      "image": "",
-      "summary": "Moving to a new phone used to mean leaving things behind. On the Samsung Galaxy S26 Ultra, the Smart Switch tool is built to carry your old phone across with you — photos, message…",
-      "tags": [
-        "Samsung",
         "爆料",
         "自动抓取"
       ]
@@ -482,26 +502,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-cf1d15bfad7f",
-      "title": "I spent a week refusing to unfold my Samsung Galaxy Z Flip 7; I didn't expect to love it",
-      "source": "Android Police",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-02",
-      "time": "10:00",
-      "publishedAt": "2026-07-02T10:00:11.000Z",
-      "url": "https://www.androidpolice.com/i-spent-week-refusing-unfold-my-samsung-galaxy-z-flip-7-phone-i-love-it/",
-      "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2026/06/samsung-galaxy-z-flip-7-cover-display-showing-clock.jpg",
-      "summary": "This simple tweak made my Flip phone's cover screen functional",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-e7805ad95131",
       "title": "iOS 剪贴板管理工具 Procut：换个方式收藏碎片化信息",
       "source": "少数派",
@@ -842,26 +842,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-f8e26eeae8af",
-      "title": "因印度供应商遭网络攻击，iPhone18 Pro Max 银灰色曝光，有哪些亮点？此泄露暴露出哪些问题？",
-      "source": "知乎热榜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "市场报告",
-      "trust": "媒体汇总",
-      "date": "2026-07-02",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.zhihu.com/question/2055321023403095974",
-      "image": "",
-      "summary": "因印度供应商遭网络攻击，iPhone18 Pro Max 银灰色曝光，有哪些亮点？此泄露暴露出哪些问题？",
-      "tags": [
-        "iPhone",
-        "市场报告",
-        "NewsNow"
-      ]
-    },
-    {
       "id": "newsnow-c864deec2e61",
       "title": "小米卢伟冰称「失控的成本已经席卷了整个手机市场，而千元机毫无疑问受伤最严重」，如何看待这一言论？",
       "source": "知乎热榜",
@@ -1122,26 +1102,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-53cade9c6d23",
-      "title": "苹果史上最恶劣泄密事件：iPhone 18 Pro 要「凉」了？",
-      "source": "爱范儿",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "评测",
-      "trust": "媒体汇总",
-      "date": "2026-07-01",
-      "time": "06:14",
-      "publishedAt": "2026-07-01T06:14:16.000Z",
-      "url": "https://www.ifanr.com/1670580?utm_source=rss&utm_medium=rss&utm_campaign=",
-      "image": "https://s3.ifanr.com/wp-content/uploads/2026/06/cherry-1-1024x704.jpeg",
-      "summary": "iPhone 史上最强散热",
-      "tags": [
-        "iPhone",
-        "评测",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-aab2fe9a5e62",
       "title": "Samsung drops first official Galaxy Z Fold 8 teasers, ‘New Shape, New Joy’ [Gallery]",
       "source": "9to5Google",
@@ -1179,26 +1139,6 @@ window.phoneRadarAuto = {
         "vivo",
         "爆料",
         "酷安博主"
-      ]
-    },
-    {
-      "id": "auto-1dc23f5e24c1",
-      "title": "早报｜苹果iPhone 18 Pro大规模泄露/SK海力士启动赴美IPO/Claude Sonnet 5正式上线",
-      "source": "爱范儿",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "评测",
-      "trust": "媒体汇总",
-      "date": "2026-07-01",
-      "time": "00:02",
-      "publishedAt": "2026-07-01T00:02:41.000Z",
-      "url": "https://www.ifanr.com/1670629?utm_source=rss&utm_medium=rss&utm_campaign=",
-      "image": "https://s3.ifanr.com/images/ep/cover-images/qi_zi_hang_che_ye_yao_hou_kong_fan_cover.jpg",
-      "summary": "· WPS 回应 C 盘占用争议 · 网易 CC 直播 8 月 31 日停止运营 · 寒武纪盘中市值突破 1 万亿元",
-      "tags": [
-        "iPhone",
-        "评测",
-        "自动抓取"
       ]
     }
   ]
