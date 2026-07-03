@@ -1,6 +1,86 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-07-03T14:31:39.051Z",
+  "updatedAt": "2026-07-03T17:47:06.317Z",
   "news": [
+    {
+      "id": "auto-faa506c46ee8",
+      "title": "The MacRumors Show: Latest iPhone 18 Pro Leaks and Rumors",
+      "source": "MacRumors",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-03",
+      "time": "16:13",
+      "publishedAt": "2026-07-03T16:13:58.000Z",
+      "url": "https://www.macrumors.com/2026/07/03/the-macrumors-show-latest-iphone-18-pro-rumors/",
+      "image": "",
+      "summary": "On this week's episode of The MacRumors Show , we discuss the latest leaks and rumors surrounding the iPhone 18 Pro . Subscribe to The MacRumors Show YouTube channel for more vide…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-8887a5775d5b",
+      "title": "Yes, the Pixel 11 will be more of the same, for better or worse [Video]",
+      "source": "9to5Google",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-03",
+      "time": "16:00",
+      "publishedAt": "2026-07-03T16:00:00.000Z",
+      "url": "https://9to5google.com/2026/07/03/yes-the-pixel-11-will-be-more-of-the-same-for-better-or-worse-video/",
+      "image": "",
+      "summary": "On paper, the upcoming Pixel 11 series looks like more of the same. For the modern smartphone enthusiast, “more of the same” usually triggers an immediate eye-roll. Are we setting…",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-d6f59d6e9054",
+      "title": "华为 Mate 80 Pro 性能解禁：麒麟 9030 Pro GPU 相比 9020 提升 76%，《原神》能效表现优于高通骁龙 8 Gen3",
+      "source": "IT之家",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-03",
+      "time": "15:10",
+      "publishedAt": "2026-07-03T15:10:03.000Z",
+      "url": "https://www.ithome.com/0/972/456.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/7/259d3251-7ab3-4f6e-816b-420dac2ba66e.jpg",
+      "summary": "IT之家 7 月 3 日消息，华为去年发布了 Mate 80 系列旗舰手机，搭载华为自研的麒麟 9030 及麒麟 9030 Pro 处理器。今日，B站 up 主 @极客湾 放出了一期针对华为 Mate 80 Pro 的性能分析报告。 据介绍，这两款芯片均基于同一种 Die，估算约有 150 亿晶体管，规模与苹果 A15、高通骁龙 8 Gen2 接近。 其中…",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-e9f70fe3037b",
+      "title": "消息称某厂中杯工程机搭载 50Mp 主摄 +50Mp 超广角 +64Mp 潜望长焦，预计为 vivo X500",
+      "source": "IT之家",
+      "brand": "vivo",
+      "model": "vivo 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-03",
+      "time": "14:42",
+      "publishedAt": "2026-07-03T14:42:37.000Z",
+      "url": "https://www.ithome.com/0/972/452.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/7/623d8b99-9dac-4beb-8375-a3a202a769bf.png?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 7 月 3 日消息，博主 @数码闲聊站 今日曝光某厂中杯工程机影像，预计为 vivo X500 标准版。 据其爆料，该机工程机搭载 50Mp 1/1.28\" Sony 超大底主摄 +50Mp 小底超广角 +64Mp 1/2\" Sony 中底潜望长焦，提供 70mm 焦段， 长焦微距待确定 ，据称“大概率有”。 IT之家注意到，该博主此前还曝光了某…",
+      "tags": [
+        "vivo",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-5250d993c63b",
       "title": "Huawei Pura phones to create problems for Apple by skipping price hike",
@@ -103,7 +183,7 @@ window.phoneRadarAuto = {
     },
     {
       "id": "auto-6d819ac09873",
-      "title": "OxygenOS and Realme UI to discontinue, OnePlus and Realme phones to run ColorOS",
+      "title": "OxygenOS and Realme UI to discontinue, OnePlus and Realme phones to run ColorOS instead",
       "source": "Gizmochina",
       "brand": "OPPO",
       "model": "OPPO 相关机型",
@@ -123,7 +203,7 @@ window.phoneRadarAuto = {
     },
     {
       "id": "auto-26a7e9a3b94c",
-      "title": "The end of an era: New report points to the death of OnePlus’ Oxygen OS",
+      "title": "The end of an era: OnePlus’ Oxygen OS could soon be history",
       "source": "Android Authority",
       "brand": "OPPO",
       "model": "OPPO 相关机型",
@@ -822,46 +902,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-36921193ae40",
-      "title": "怎么还有人说我骗人啊，我再傻 我也不可能咒我自己得癌症吧，还有，我确实很喜欢用小米手机啊。有人就说我是博同情蜜✔，还有人说我根本没得病 是虚假热度，我现在给你们理一下。。我从读小学一年级的时候，我比同年级的所有同学都早读一年，也就导致我比所有同班同学的年龄都要大一岁，其次，我得病的时候差不多是五年级那个样子，毕竟这么久了，我也记不到太准确的时间线，五年级得病了以后，我就去治疗。治疗了以后，回到了同学校的六年级继续读，一直读到初一都没有复发，后边差不多是初一下学期中旬的那个样子，在学校出现了头晕呕吐的原因，当时去复查，就发现复发了。复发了就只能去治疗，治疗拖拖拖，拖了回来，还是继续读初一下册那个样子。但是那个时候就是一班新的同学了，因为我不能跟着以前的老同学继续读，而这之间相差差不多快两年的样子了，这也就导致我比同班同学又大了一岁，就是说大了两岁，然后我现在是在家休养的状态... 查看更多",
-      "source": "酷安热榜",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-07-03",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72629396",
-      "image": "",
-      "summary": "怎么还有人说我骗人啊，我再傻 我也不可能咒我自己得癌症吧，还有，我确实很喜欢用小米手机啊。有人就说我是博同情蜜✔，还有人说我根本没得病 是虚假热度，我现在给你们理一下。。我从读小学一年级的时候，我比同年级的所有同学都早读一年，也就导致我比所有同班同学的年龄都要大一岁，其次，我得病的时候差不多是五年级那个样子，毕竟这么久了，我也记不到太准确的时间线，五年级得…",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-2a13262545c7",
-      "title": "iQOO Z11i 正式开售：首销1199元起",
-      "source": "酷安热榜",
-      "brand": "vivo",
-      "model": "vivo 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-07-03",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72627323",
-      "image": "",
-      "summary": "iQOO Z11i 正式开售：首销1199元起",
-      "tags": [
-        "vivo",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
       "id": "newsnow-1b7eb5ce0c47",
       "title": "教育部：坚决杜绝用手机布置作业",
       "source": "今日头条热榜",
@@ -895,6 +935,26 @@ window.phoneRadarAuto = {
       "url": "https://www.baidu.com/s?wd=%E6%95%99%E8%82%B2%E9%83%A8%EF%BC%9A%E5%9D%9A%E5%86%B3%E6%9D%9C%E7%BB%9D%E7%94%A8%E6%89%8B%E6%9C%BA%E5%B8%83%E7%BD%AE%E4%BD%9C%E4%B8%9A",
       "image": "",
       "summary": "教育部：坚决杜绝用手机布置作业",
+      "tags": [
+        "行业",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-f2ac7e335240",
+      "title": "一天3款新车上市 造手机的都沉默了",
+      "source": "百度热搜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-03",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.baidu.com/s?wd=%E4%B8%80%E5%A4%A93%E6%AC%BE%E6%96%B0%E8%BD%A6%E4%B8%8A%E5%B8%82+%E9%80%A0%E6%89%8B%E6%9C%BA%E7%9A%84%E9%83%BD%E6%B2%89%E9%BB%98%E4%BA%86",
+      "image": "",
+      "summary": "一天3款新车上市 造手机的都沉默了",
       "tags": [
         "行业",
         "爆料",
@@ -1357,26 +1417,6 @@ window.phoneRadarAuto = {
       "summary": "Apple plans to manufacture and sell around 10 million foldable iPhone Ultra models, according to a new report. That’s roughly a third more than the average build targets previousl…",
       "tags": [
         "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-bc17510759a0",
-      "title": "Redmi Note 17 series confirmed for July as Note lineup crosses 500 million global sales",
-      "source": "Gizmochina",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-02",
-      "time": "04:17",
-      "publishedAt": "2026-07-02T04:17:47.000Z",
-      "url": "https://www.gizmochina.com/2026/07/02/redmi-note-17-series-july-launch-note-series-500-million-sale/",
-      "image": "https://www.gizmochina.com/wp-content/uploads/2026/07/Redmi-Note-17-series-incoming-225x300.jpg?x44794",
-      "summary": "The Redmi Note series has reached a major milestone, with global cumulative sales crossing 500 million units after 12 years in the market. Alongside the announcement, Redmi has co…",
-      "tags": [
-        "Xiaomi",
         "爆料",
         "自动抓取"
       ]

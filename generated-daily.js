@@ -1,12 +1,12 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-07-03T14:31:39.051Z",
+  "updatedAt": "2026-07-03T17:47:06.317Z",
   "issueDate": "2026-07-03",
   "issue": "VOL.260703",
   "title": "手机情报日报",
-  "intro": "今日筛出 11 条重点，其中 8 条是重点爆料，包含 9 条 iPhone 相关、0 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 9 条重点，其中 8 条是重点爆料，包含 8 条 iPhone 相关、0 条官方确认、0 条参数线索。",
   "stats": {
-    "total": 11,
-    "iphone": 9,
+    "total": 9,
+    "iphone": 8,
     "leaks": 8,
     "official": 0,
     "specs": 0
@@ -58,6 +58,29 @@ window.phoneRadarDaily = {
           "detail": "iPhone 18 Pro Max 电池曝光：5187mAh",
           "keyPoints": [
             "电池 / 充电"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "auto-faa506c46ee8",
+          "title": "iPhone 相关消息",
+          "originalTitle": "",
+          "source": "MacRumors",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-07-03",
+          "time": "16:13",
+          "publishedAt": "2026-07-03T16:13:58.000Z",
+          "url": "https://www.macrumors.com/2026/07/03/the-macrumors-show-latest-iphone-18-pro-rumors/",
+          "image": "",
+          "verdict": "先看",
+          "takeaway": "iPhone 相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
+          "detail": "iPhone 相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
+          "keyPoints": [
+            "爆料来源"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
@@ -179,32 +202,6 @@ window.phoneRadarDaily = {
           "confidence": "可信度较高，但仍属于发布前线索。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "auto-f9fccce1c98b",
-          "title": "消息称某厂性能新机搭载骁龙 8E5 处理器、185Hz 直屏，预计为一加旗下",
-          "originalTitle": "",
-          "source": "IT之家",
-          "brand": "OPPO",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-07-03",
-          "time": "13:07",
-          "publishedAt": "2026-07-03T13:07:03.000Z",
-          "url": "https://www.ithome.com/0/972/438.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/7/6d470a3e-d42a-46ec-ab23-93eeb06de6e6.png?x-bce-process=image/format,f_auto",
-          "verdict": "先看",
-          "takeaway": "IT之家 7 月 3 日消息，博主 @数码闲聊站 今日曝光某厂子系性能线迭代新机部分规格，预计为一加旗下新品。 据其爆料，该系列工程机搭载骁龙 8E5 (SM8850)、骁龙 8E5 XX 版 (SM8850Q) 处理器，正面配备一块 6.78 英寸 1.5K 185Hz 超高刷直屏 ，内置 9000mAh± 电池，支持 100/120W 满血闪充、风扇散…",
-          "detail": "IT之家 7 月 3 日消息，博主 @数码闲聊站 今日曝光某厂子系性能线迭代新机部分规格，预计为一加旗下新品。 据其爆料，该系列工程机搭载骁龙 8E5 (SM8850)、骁龙 8E5 XX 版 (SM8850Q) 处理器，正面配备一块 6.78 英寸 1.5K 185Hz 超高刷直屏 ，内置 9000mAh± 电池，支持 100/120W 满血闪充、风扇散…",
-          "keyPoints": [
-            "屏幕形态",
-            "电池 / 充电",
-            "芯片 / 性能",
-            "爆料来源"
-          ],
-          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         }
       ]
     },
@@ -235,52 +232,6 @@ window.phoneRadarDaily = {
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是实际体验内容，买前适合重点看缺点和取舍。",
           "action": "中文源可以直接点开快读；看完只保留和购机有关的点。"
-        },
-        {
-          "id": "auto-e7805ad95131",
-          "title": "iOS 剪贴板管理工具 Procut：换个方式收藏碎片化信息",
-          "originalTitle": "",
-          "source": "少数派",
-          "brand": "iPhone",
-          "type": "评测",
-          "trust": "媒体汇总",
-          "date": "2026-07-02",
-          "time": "09:35",
-          "publishedAt": "2026-07-02T09:35:25.000Z",
-          "url": "https://sspai.com/post/110950",
-          "image": "",
-          "verdict": "先看",
-          "takeaway": "你一定有过这样的经历：在小红书刷到一篇感兴趣的笔记，复制链接想稍后再看，结果淹没在聊天记录里再也找不到了。微信群里有人分享了一个公众号文章，随手复制了链接，等真正有空时却想不起存到了哪里。收到快递取件 ...",
-          "detail": "你一定有过这样的经历：在小红书刷到一篇感兴趣的笔记，复制链接想稍后再看，结果淹没在聊天记录里再也找不到了。微信群里有人分享了一个公众号文章，随手复制了链接，等真正有空时却想不起存到了哪里。收到快递取件 ...",
-          "keyPoints": [
-            "评测"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是实际体验内容，买前适合重点看缺点和取舍。",
-          "action": "中文源可以直接点开快读；看完只保留和购机有关的点。"
-        },
-        {
-          "id": "newsnow-7214292e13c8",
-          "title": "用了这么久的iPhone，第一次清晰感受到杀后台的痛，看地球啥的我都无所谓，切出去微信通话没了，我真蚌埠住了 [喝酒]",
-          "originalTitle": "",
-          "source": "酷安热榜",
-          "brand": "iPhone",
-          "type": "爆料",
-          "trust": "高关注爆料源",
-          "date": "2026-07-03",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://www.coolapk.com/feed/72598835",
-          "image": "",
-          "verdict": "先看",
-          "takeaway": "用了这么久的iPhone，第一次清晰感受到杀后台的痛，看地球啥的我都无所谓，切出去微信通话没了，我真蚌埠住了 [喝酒]",
-          "detail": "用了这么久的iPhone，第一次清晰感受到杀后台的痛，看地球啥的我都无所谓，切出去微信通话没了，我真蚌埠住了 [喝酒]",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         }
       ]
     }
