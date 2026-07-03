@@ -1,6 +1,26 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-07-03T21:31:15.777Z",
+  "updatedAt": "2026-07-03T23:18:05.798Z",
   "news": [
+    {
+      "id": "auto-28300dc6bdd7",
+      "title": "V2612A 新机入网：预估 vivo S12 增大电池验证机，7015mAh 增幅 70.89%",
+      "source": "IT之家",
+      "brand": "vivo",
+      "model": "vivo 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-03",
+      "time": "22:02",
+      "publishedAt": "2026-07-03T22:02:54.000Z",
+      "url": "https://www.ithome.com/0/972/463.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/7/2cda41f2-9290-4ee0-af20-229a4436e4ac.jpg?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 7 月 4 日消息，型号为 V2612A 的 vivo 5G 数字移动电话机已通过电信设备进网许可，暂未公布证件照。 IT之家查询公开资料，该型号对应 vivo S12 机型，于 2021 年 12 月发布，额定电池容量 4105mAh，而最新认证机型显示额定容量为 7015mAh，增幅 70.89%。 认证信息显示该机机身尺寸为 157.52×…",
+      "tags": [
+        "vivo",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-5cb56ae6980d",
       "title": "Galaxy Z Fold 8 looks pricier in these rumors, which isn't shocking in the least",
@@ -995,26 +1015,6 @@ window.phoneRadarAuto = {
       "url": "https://www.baidu.com/s?wd=%E4%B8%80%E5%A4%A93%E6%AC%BE%E6%96%B0%E8%BD%A6%E4%B8%8A%E5%B8%82+%E9%80%A0%E6%89%8B%E6%9C%BA%E7%9A%84%E9%83%BD%E6%B2%89%E9%BB%98%E4%BA%86",
       "image": "",
       "summary": "一天3款新车上市 造手机的都沉默了",
-      "tags": [
-        "行业",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-154c25625668",
-      "title": "教育部：坚决杜绝用手机布置作业",
-      "source": "百度热搜",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-03",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.baidu.com/s?wd=%E6%95%99%E8%82%B2%E9%83%A8%EF%BC%9A%E5%9D%9A%E5%86%B3%E6%9D%9C%E7%BB%9D%E7%94%A8%E6%89%8B%E6%9C%BA%E5%B8%83%E7%BD%AE%E4%BD%9C%E4%B8%9A",
-      "image": "",
-      "summary": "教育部：坚决杜绝用手机布置作业",
       "tags": [
         "行业",
         "爆料",
