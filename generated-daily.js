@@ -1,12 +1,12 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-07-03T19:48:47.803Z",
+  "updatedAt": "2026-07-03T21:31:15.777Z",
   "issueDate": "2026-07-03",
   "issue": "VOL.260703",
   "title": "手机情报日报",
-  "intro": "今日筛出 8 条重点，其中 8 条是重点爆料，包含 7 条 iPhone 相关、0 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 8 条重点，其中 8 条是重点爆料，包含 8 条 iPhone 相关、0 条官方确认、0 条参数线索。",
   "stats": {
     "total": 8,
-    "iphone": 7,
+    "iphone": 8,
     "leaks": 8,
     "official": 0,
     "specs": 0
@@ -17,6 +17,31 @@ window.phoneRadarDaily = {
       "title": "重点爆料",
       "hint": "机模、配色、影像、屏幕、电池和芯片线索先看。",
       "items": [
+        {
+          "id": "weibo-0c149ae95bb0",
+          "title": "数码闲聊站：独家信息：子系新旗舰的质感有加强，除了果味大R角纯直屏+横向大矩阵金属Deco…",
+          "originalTitle": "",
+          "source": "数码闲聊站",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "高关注爆料源",
+          "date": "2026-07-03",
+          "time": "04:15",
+          "publishedAt": "2026-07-03T04:15:45.000Z",
+          "url": "https://weibo.com/6048569942/R6X1dhNK7",
+          "image": "",
+          "verdict": "先看",
+          "takeaway": "独家信息，子系新旗舰的质感有加强，除了果味大R角纯直屏+横向大矩阵金属Deco，工程机配色参考iPhone 18 Pro系列，同时金属中框和玻璃背板也做了同色处理，全面对标hhhhh~",
+          "detail": "独家信息，子系新旗舰的质感有加强，除了果味大R角纯直屏+横向大矩阵金属Deco，工程机配色参考iPhone 18 Pro系列，同时金属中框和玻璃背板也做了同色处理，全面对标hhhhh~",
+          "keyPoints": [
+            "外观 / 配色 / 尺寸",
+            "屏幕形态",
+            "爆料来源"
+          ],
+          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
         {
           "id": "auto-16aa7d9db9b1",
           "title": "iPhone 18 Pro 系列手机遭泄密后，印度政府宣布调查苹果供应商塔塔电子数据泄露事件",
@@ -176,30 +201,6 @@ window.phoneRadarDaily = {
             "爆料"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "coolapk-user-792b1a9927ee",
-          "title": "JSCHEN小小狐：REDMI K100 系列曝光：质感增强 / 果味设计",
-          "originalTitle": "",
-          "source": "JSCHEN小小狐",
-          "brand": "Xiaomi",
-          "type": "爆料",
-          "trust": "高可信爆料",
-          "date": "2026-07-03",
-          "time": "04:37",
-          "publishedAt": "2026-07-03T04:37:24.000Z",
-          "url": "https://www.coolapk.com/feed/72629262",
-          "image": "http://image.coolapk.com/feed/2026/0703/12/4702274_44850fd4_3443_6695_800@1440x581.jpg",
-          "verdict": "先看",
-          "takeaway": "『REDMI K100 系列曝光：质感增强 / 果味设计』 ◇ 大 R 角纯直屏 + 横向大矩阵金属 Deco ◇ 工程机配色参考 iPhone 18 Pro 系列 ◇ 金属中框 / 玻璃背板同色处理 #今日热点# #REDMIK100ProMax#",
-          "detail": "『REDMI K100 系列曝光：质感增强 / 果味设计』 ◇ 大 R 角纯直屏 + 横向大矩阵金属 Deco ◇ 工程机配色参考 iPhone 18 Pro 系列 ◇ 金属中框 / 玻璃背板同色处理 #今日热点# #REDMIK100ProMax#",
-          "keyPoints": [
-            "外观 / 配色 / 尺寸",
-            "屏幕形态"
-          ],
-          "confidence": "可信度较高，但仍属于发布前线索。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         }
