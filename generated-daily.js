@@ -1,12 +1,12 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-07-03T07:35:08.192Z",
+  "updatedAt": "2026-07-03T10:49:19.549Z",
   "issueDate": "2026-07-03",
   "issue": "VOL.260703",
   "title": "手机情报日报",
-  "intro": "今日筛出 15 条重点，其中 8 条是重点爆料，包含 9 条 iPhone 相关、1 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 15 条重点，其中 8 条是重点爆料，包含 11 条 iPhone 相关、1 条官方确认、0 条参数线索。",
   "stats": {
     "total": 15,
-    "iphone": 9,
+    "iphone": 11,
     "leaks": 8,
     "official": 1,
     "specs": 0
@@ -135,7 +135,7 @@ window.phoneRadarDaily = {
         },
         {
           "id": "coolapk-user-792b1a9927ee",
-          "title": "JSCHEN小小狐：『REDMI K100 系列曝光：质感增强 / 果味设计』 ◇ 大 R 角纯直屏 + 横向大矩阵金属 Deco ◇…",
+          "title": "JSCHEN小小狐：REDMI K100 系列曝光：质感增强 / 果味设计",
           "originalTitle": "",
           "source": "JSCHEN小小狐",
           "brand": "Xiaomi",
@@ -158,48 +158,49 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
-          "id": "auto-ec3e8d206d89",
-          "title": "早报｜曝苹果计划生产1000万台折叠iPhone/任天堂回应全员涨薪10%传闻/华为鸿蒙6终端设备突破7000万",
+          "id": "auto-2162db9c8662",
+          "title": "消息称某厂 7 英寸 185Hz 超大直屏开案，预计为荣耀新机",
           "originalTitle": "",
-          "source": "爱范儿",
-          "brand": "Huawei",
-          "type": "评测",
+          "source": "IT之家",
+          "brand": "HONOR",
+          "type": "爆料",
           "trust": "媒体汇总",
           "date": "2026-07-03",
-          "time": "00:06",
-          "publishedAt": "2026-07-03T00:06:06.000Z",
-          "url": "https://www.ifanr.com/1670862?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "image": "https://s3.ifanr.com/images/ep/cover-images/tiao_wang_he_jing_de_ren_cover.jpg",
+          "time": "09:47",
+          "publishedAt": "2026-07-03T09:47:48.000Z",
+          "url": "https://www.ithome.com/0/972/348.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/7/68a8e96c-6a6e-45b2-b4ed-bb7da0bd387e.png?x-bce-process=image/format,f_auto",
           "verdict": "先看",
-          "takeaway": "· Counterpoint：预计苹果首款折叠屏手机将贡献 29% 面板采购份额 · SK 海力士计划投资约 514 亿美元新建 NAND 工厂 · 奇瑞发布犀牛电池安全保障计划，承诺因电池热失控损毁赔付新车",
-          "detail": "· Counterpoint：预计苹果首款折叠屏手机将贡献 29% 面板采购份额 · SK 海力士计划投资约 514 亿美元新建 NAND 工厂 · 奇瑞发布犀牛电池安全保障计划，承诺因电池热失控损毁赔付新车",
+          "takeaway": "IT之家 7 月 3 日消息，博主 @数码闲聊站 今日爆料，除了 2nm 性能机的新开大直屏 6.89 英寸 2K+185Hz 新机，某厂 7 英寸 185Hz 超大直屏最近也开案了。结合该博主此前的爆料习惯，预计为荣耀旗下新机。 值得一提的是，该博主今年 5 月爆料称， 荣耀迭代线开了几块大尺寸屏幕 ，目前有一块 6.89 英寸 ±2K OLED 大直屏…",
+          "detail": "IT之家 7 月 3 日消息，博主 @数码闲聊站 今日爆料，除了 2nm 性能机的新开大直屏 6.89 英寸 2K+185Hz 新机，某厂 7 英寸 185Hz 超大直屏最近也开案了。结合该博主此前的爆料习惯，预计为荣耀旗下新机。 值得一提的是，该博主今年 5 月爆料称， 荣耀迭代线开了几块大尺寸屏幕 ，目前有一块 6.89 英寸 ±2K OLED 大直屏…",
           "keyPoints": [
+            "外观 / 配色 / 尺寸",
             "屏幕形态",
-            "电池 / 充电"
+            "爆料来源"
           ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
-          "id": "newsnow-3c34ed6034ca",
-          "title": "终于升级了24G的内存了，12G的内存老给我杀后台，由于这个主板是我捡漏的开发版，第一次打磨芯片差点给我干废了，不过还好有惊无险[捂脸]现在这个手机流畅度有了质的提升，再加上解容模块，直接就可以从上班7.30一直用到下班6点，还能再战几年，强烈推荐改[呲牙] #小米13pro# #手机扩容# #魔改电池#",
+          "id": "auto-38a5e656f35e",
+          "title": "屏幕亮度降档：消息称三星 Galaxy A38 智能手机将复用 A27 显示面板",
           "originalTitle": "",
-          "source": "酷安热榜",
-          "brand": "Xiaomi",
+          "source": "IT之家",
+          "brand": "Samsung",
           "type": "爆料",
-          "trust": "高关注爆料源",
+          "trust": "媒体汇总",
           "date": "2026-07-03",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://www.coolapk.com/feed/72604236",
-          "image": "",
+          "time": "09:26",
+          "publishedAt": "2026-07-03T09:26:24.000Z",
+          "url": "https://www.ithome.com/0/972/344.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/7/8e4c3d4f-1059-43bd-adcc-2905fb2d2ede.jpg?x-bce-process=image/format,f_auto",
           "verdict": "先看",
-          "takeaway": "终于升级了24G的内存了，12G的内存老给我杀后台，由于这个主板是我捡漏的开发版，第一次打磨芯片差点给我干废了，不过还好有惊无险[捂脸]现在这个手机流畅度有了质的提升，再加上解容模块，直接就可以从上班7.30一直用到下班6点，还能再战几年，强烈推荐改[呲牙] #小米13pro# #手机扩容# #魔改电池#",
-          "detail": "终于升级了24G的内存了，12G的内存老给我杀后台，由于这个主板是我捡漏的开发版，第一次打磨芯片差点给我干废了，不过还好有惊无险[捂脸]现在这个手机流畅度有了质的提升，再加上解容模块，直接就可以从上班7.30一直用到下班6点，还能再战几年，强烈推荐改[呲牙] #小米13pro# #手机扩容# #魔改电池#",
+          "takeaway": "IT之家 7 月 3 日消息，韩媒 ZDNET Korea 当地时间今日援引业内消息人士的话报道称，三星电子 MX 业务计划明年推出的 Galaxy A38 智能手机将复用 Galaxy A27 机型上的 OLED 显示面板 。 IT之家了解到，Galaxy A37 和 A27 均采用 6.7\" 1080×2340 120Hz OLED 打孔屏，但两者存在…",
+          "detail": "IT之家 7 月 3 日消息，韩媒 ZDNET Korea 当地时间今日援引业内消息人士的话报道称，三星电子 MX 业务计划明年推出的 Galaxy A38 智能手机将复用 Galaxy A27 机型上的 OLED 显示面板 。 IT之家了解到，Galaxy A37 和 A27 均采用 6.7\" 1080×2340 120Hz OLED 打孔屏，但两者存在…",
           "keyPoints": [
-            "电池 / 充电",
-            "芯片 / 性能"
+            "屏幕形态",
+            "爆料来源"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
@@ -212,6 +213,29 @@ window.phoneRadarDaily = {
       "title": "iPhone 重点",
       "hint": "不是硬件爆料，但和 iPhone 体验或路线有关。",
       "items": [
+        {
+          "id": "auto-8899d7310eee",
+          "title": "快捷指令｜让 iPhone 用上锤子的「大爆炸」",
+          "originalTitle": "",
+          "source": "少数派",
+          "brand": "iPhone",
+          "type": "评测",
+          "trust": "媒体汇总",
+          "date": "2026-07-03",
+          "time": "07:00",
+          "publishedAt": "2026-07-03T07:00:00.000Z",
+          "url": "https://sspai.com/post/111405",
+          "image": "",
+          "verdict": "先看",
+          "takeaway": "敬「少许的牺牲是必要的」。",
+          "detail": "敬「少许的牺牲是必要的」。",
+          "keyPoints": [
+            "评测"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是实际体验内容，买前适合重点看缺点和取舍。",
+          "action": "中文源可以直接点开快读；看完只保留和购机有关的点。"
+        },
         {
           "id": "auto-e7805ad95131",
           "title": "iOS 剪贴板管理工具 Procut：换个方式收藏碎片化信息",
@@ -282,6 +306,29 @@ window.phoneRadarDaily = {
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         },
         {
+          "id": "newsnow-eba7427f7d18",
+          "title": "每次路上看到有人拿着iPhone air，我都要忍不住在心里说一句，真有品味，可惜我没有，因为我在等iPhone Air2代[捂脸]",
+          "originalTitle": "",
+          "source": "酷安热榜",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "高关注爆料源",
+          "date": "2026-07-03",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://www.coolapk.com/feed/72630134",
+          "image": "",
+          "verdict": "先看",
+          "takeaway": "每次路上看到有人拿着iPhone air，我都要忍不住在心里说一句，真有品味，可惜我没有，因为我在等iPhone Air2代[捂脸]",
+          "detail": "每次路上看到有人拿着iPhone air，我都要忍不住在心里说一句，真有品味，可惜我没有，因为我在等iPhone Air2代[捂脸]",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        },
+        {
           "id": "auto-9bbf43c61c96",
           "title": "iPhone 系统功能 / AI 体验相关消息",
           "originalTitle": "",
@@ -307,85 +354,32 @@ window.phoneRadarDaily = {
       ]
     },
     {
-      "id": "launch",
-      "title": "新机与官方发布",
-      "hint": "能直接更新到参数库。",
-      "items": [
-        {
-          "id": "auto-744bfe3bded2",
-          "title": "Xiaomi 发布 / 上市相关消息",
-          "originalTitle": "",
-          "source": "Gizmochina",
-          "brand": "Xiaomi",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-07-03",
-          "time": "05:12",
-          "publishedAt": "2026-07-03T05:12:32.000Z",
-          "url": "https://www.gizmochina.com/2026/07/03/redmi-k100-pro-max-launch-timeframe-leak/",
-          "image": "https://www.gizmochina.com/wp-content/uploads/2025/10/REDMI-K90-Pro-Max-Review_1.mp4_20251031_111302.098-300x150.jpg?x44794",
-          "verdict": "可略过",
-          "takeaway": "Xiaomi 有发布或新功能消息，适合确认是否和新机有关。",
-          "detail": "Xiaomi 发布 / 上市相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        }
-      ]
-    },
-    {
       "id": "market",
       "title": "行业趋势",
       "hint": "看方向，不急着当购买依据。",
       "items": [
         {
-          "id": "auto-336102ea3353",
-          "title": "HMD Touch“混合型手机”国内入网：64MB 内存、3.2 英寸小屏",
+          "id": "coolapk-user-ab2b0ca20056",
+          "title": "竹本青：【一加手机官宣：将继续与《无畏契约手游》 全国大赛合作】 一加手机今天正式宣布，将继续与《无畏契约：源能行动》全国…",
           "originalTitle": "",
-          "source": "IT之家",
-          "brand": "行业",
+          "source": "竹本青",
+          "brand": "OPPO",
           "type": "爆料",
-          "trust": "媒体汇总",
+          "trust": "高可信爆料",
           "date": "2026-07-03",
-          "time": "07:31",
-          "publishedAt": "2026-07-03T07:31:51.000Z",
-          "url": "https://www.ithome.com/0/972/286.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2025/10/dd30fe4c-1449-42d3-a608-3d42b42f5cdf.jpg?x-bce-process=image/auto-orient,o_1",
+          "time": "07:59",
+          "publishedAt": "2026-07-03T07:59:07.000Z",
+          "url": "https://www.coolapk.com/feed/72631579",
+          "image": "http://image.coolapk.com/feed/2026/0703/15/4248714_564c0cf7_5545_8994_344@2000x1125.jpg",
           "verdict": "扫一眼",
-          "takeaway": "IT之家 7 月 3 日消息， HMD 去年 10 月在海外推出了一款所谓的“混合型手机” —— HMD Touch 4G ， 其并非传统意义上的智能手机，但又比功能手机更加智能 。HMD Touch 4G 实质上是诺基亚 Asha 系列的现代重生，通过基于云端的浏览器应用程序为用户提供部分智能功能。 据IT之家小伙伴投稿，这款手机于今年 6 月在国内入网…",
-          "detail": "IT之家 7 月 3 日消息， HMD 去年 10 月在海外推出了一款所谓的“混合型手机” —— HMD Touch 4G ， 其并非传统意义上的智能手机，但又比功能手机更加智能 。HMD Touch 4G 实质上是诺基亚 Asha 系列的现代重生，通过基于云端的浏览器应用程序为用户提供部分智能功能。 据IT之家小伙伴投稿，这款手机于今年 6 月在国内入网…",
+          "takeaway": "【一加手机官宣：将继续与《无畏契约手游》 全国大赛合作】 一加手机今天正式宣布，将继续与《无畏契约：源能行动》全国大赛展开合作，一加15成为该赛事官方指定手机。 #今日热点# #无畏契约：源能行动#",
+          "detail": "【一加手机官宣：将继续与《无畏契约手游》 全国大赛合作】 一加手机今天正式宣布，将继续与《无畏契约：源能行动》全国大赛展开合作，一加15成为该赛事官方指定手机。 #今日热点# #无畏契约：源能行动#",
           "keyPoints": [
             "爆料"
           ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "confidence": "可信度较高，但仍属于发布前线索。",
           "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "中文源可以直接点开快读；看完只保留和购机有关的点。"
-        },
-        {
-          "id": "auto-76b2acca3df4",
-          "title": "Xiaomi 电池 / 充电相关消息",
-          "originalTitle": "",
-          "source": "Gizmochina",
-          "brand": "Xiaomi",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-07-03",
-          "time": "07:34",
-          "publishedAt": "2026-07-03T07:34:54.000Z",
-          "url": "https://www.gizmochina.com/2026/07/03/redmi-17-5g-sirim-ncc-certification-battery-charging-memory/",
-          "image": "https://www.gizmochina.com/wp-content/uploads/2026/07/Redmi-15-5G-300x169.png?x44794",
-          "verdict": "可略过",
-          "takeaway": "Xiaomi 电池 / 充电相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
-          "detail": "Xiaomi 电池 / 充电相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
-          "keyPoints": [
-            "电池 / 充电"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "影响日常体验，尤其是游戏、拍照和长时间使用。",
-          "action": "有具体参数就记录到参数库；没有参数就先收藏。"
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         }
       ]
     }
