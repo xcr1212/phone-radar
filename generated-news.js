@@ -1,6 +1,226 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-07-03T10:49:19.549Z",
+  "updatedAt": "2026-07-03T14:31:39.051Z",
   "news": [
+    {
+      "id": "auto-5250d993c63b",
+      "title": "Huawei Pura phones to create problems for Apple by skipping price hike",
+      "source": "Huawei Central",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-03",
+      "time": "13:30",
+      "publishedAt": "2026-07-03T13:30:49.000Z",
+      "url": "https://www.huaweicentral.com/huawei-pura-phones-price-hike/",
+      "image": "https://www.huaweicentral.com/wp-content/uploads/2026/06/Pura-70-Ultra.jpg",
+      "summary": "July 2026 is here and Huawei announced “price hike” adoption for its devices but it looks like Pura phones may not undergo this challenge. A new input suggests that the company co…",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-f096b407a7de",
+      "title": "竹本青：大疆、影石互诉专利侵权，深圳中院案件8月3日开庭",
+      "source": "竹本青",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-07-03",
+      "time": "13:19",
+      "publishedAt": "2026-07-03T13:19:26.000Z",
+      "url": "https://www.coolapk.com/feed/72635883",
+      "image": "http://image.coolapk.com/feed/2026/0703/21/4248714_03c63a10_4681_1916_54@3585x2312.jpg",
+      "summary": "【大疆、影石互诉专利侵权，深圳中院案件8月3日开庭】 近日，影石在国内对大疆发起 6 项专利反诉，指控其全景相机及云台设备等主力产品侵权。影石同步向国家知识产权局就大疆相关专利提起无效宣告请求。 数周前，大疆在国内就影石 Luna系列 产品涉嫌专利侵权正式提起诉讼。在这些诉讼中，大疆指控影石涉嫌侵犯了其持有多年的多项发明专利，其中，由广东省深圳市中级人民法…",
+      "tags": [
+        "行业",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-2ed9bc3b1fed",
+      "title": "Jon Prosser responds to Apple lawsuit by blaming the other guy",
+      "source": "The Verge",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-03",
+      "time": "13:12",
+      "publishedAt": "2026-07-03T13:12:35.000Z",
+      "url": "https://www.theverge.com/tech/961285/jon-prosser-apple-lawsuit-response-ios-leak",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/videoframe_44382.png?quality=90&strip=all&crop=0,0,100,100",
+      "summary": "YouTuber Jon Prosser has finally filed a formal response to Apple's lawsuit made against him and another defendant over allegedly stealing iOS secrets. In his response, Prosser de…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-f9fccce1c98b",
+      "title": "消息称某厂性能新机搭载骁龙 8E5 处理器、185Hz 直屏，预计为一加旗下",
+      "source": "IT之家",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-03",
+      "time": "13:07",
+      "publishedAt": "2026-07-03T13:07:03.000Z",
+      "url": "https://www.ithome.com/0/972/438.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/7/6d470a3e-d42a-46ec-ab23-93eeb06de6e6.png?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 7 月 3 日消息，博主 @数码闲聊站 今日曝光某厂子系性能线迭代新机部分规格，预计为一加旗下新品。 据其爆料，该系列工程机搭载骁龙 8E5 (SM8850)、骁龙 8E5 XX 版 (SM8850Q) 处理器，正面配备一块 6.78 英寸 1.5K 185Hz 超高刷直屏 ，内置 9000mAh± 电池，支持 100/120W 满血闪充、风扇散…",
+      "tags": [
+        "OPPO",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-bc9ab0245ff6",
+      "title": "Galaxy Z Fold 8 Ultra, Fold 8, Flip 8 designs leak via Thinborne cases",
+      "source": "SamMobile",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-03",
+      "time": "12:35",
+      "publishedAt": "2026-07-03T12:35:30.000Z",
+      "url": "https://www.sammobile.com/news/galaxy-z-fold-8-ultra-fold-8-flip-8-designs-leak-via-thinborne-cases/",
+      "image": "https://www.sammobile.com/wp-content/uploads/2026/07/Samsung-Galaxy-Z-Fold-8-Thinborne-Case.jpg",
+      "summary": "Leaks revealing the design of Samsung's upcoming flagship foldable phones — the Galaxy Z Fold 8 Ultra, Galaxy Z Fold 8, and Galaxy Z Flip 8 — just keep coming. We've already seen…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-6d819ac09873",
+      "title": "OxygenOS and Realme UI to discontinue, OnePlus and Realme phones to run ColorOS",
+      "source": "Gizmochina",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-03",
+      "time": "12:35",
+      "publishedAt": "2026-07-03T12:35:14.000Z",
+      "url": "https://www.gizmochina.com/2026/07/03/oxygenos-and-realme-ui-to-discontinue-oneplus-and-realme-phones-to-run-coloros/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2025/12/OxygenOS-16-300x169.webp?x44794",
+      "summary": "A new report says OxygenOS and Realme UI are on the verge of discontinuation, and future OnePlus and Realme phones may run ColorOS instead. According to a report from Smartprix, w…",
+      "tags": [
+        "OPPO",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-26a7e9a3b94c",
+      "title": "The end of an era: New report points to the death of OnePlus’ Oxygen OS",
+      "source": "Android Authority",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-03",
+      "time": "12:20",
+      "publishedAt": "2026-07-03T12:20:42.000Z",
+      "url": "https://www.androidauthority.com/oppo-oneplus-oxygen-os-color-os-consolidation-leak-3684055/",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2025/10/Photo-of-OxygenOS-16-running-on-a-OnePlus-13-scaled.jpg",
+      "summary": "A sweeping OPPO consolidation plan will reportedly fold Oxygen OS and realme UI into Color OS across future devices globally.",
+      "tags": [
+        "OPPO",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-e52876d95aa4",
+      "title": "Report claims OxygenOS and Realme UI set to be discontinued",
+      "source": "9to5Google",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-03",
+      "time": "12:18",
+      "publishedAt": "2026-07-03T12:18:18.000Z",
+      "url": "https://9to5google.com/2026/07/03/report-claims-oxygenos-and-realme-ui-set-to-be-discontinued/",
+      "image": "",
+      "summary": "The woes for OnePlus continue as a new report suggests that OxygenOS is being discontinued alongside Realme UI.",
+      "tags": [
+        "OPPO",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-42947c567775",
+      "title": "After daily driving the Galaxy Z Flip 7, I won't buy the Flip 8 unless Samsung fixes this",
+      "source": "Android Police",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-03",
+      "time": "12:00",
+      "publishedAt": "2026-07-03T12:00:10.000Z",
+      "url": "https://www.androidpolice.com/after-using-galaxy-flip-7-im-not-buying-the-flip-8-unless-samsung-fixes-this/",
+      "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2026/06/samsung-galaxy-z-flip-7-cover-display-widget.jpg",
+      "summary": "The next-gen flip phone only needs a few refinements to become a worthy successor",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-16aa7d9db9b1",
+      "title": "iPhone 18 Pro 系列手机遭泄密后，印度政府宣布调查苹果供应商塔塔电子数据泄露事件",
+      "source": "IT之家",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-03",
+      "time": "11:29",
+      "publishedAt": "2026-07-03T11:29:21.000Z",
+      "url": "https://www.ithome.com/0/972/420.htm",
+      "image": "",
+      "summary": "IT之家 7 月 3 日消息，塔塔电子位于印度的工厂上月遭遇一起大规模网络攻击，此次攻击导致超过 630GB 的机密数据被窃取，其中包括尚未发布的 iPhone 18 Pro 系列新机主板设计图纸，以及多款苹果自研芯片的数据手册。 据路透社报道，印度电子信息技术部秘书 S.克里希南（ S.Krishnan ）在周四发表了印度政府针对该事件的 首次公开评论…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-ba19b6f9fe7a",
+      "title": "摩托罗拉推出官方旅行 eSIM 应用：新用户可享 1GB 免费流量，覆盖超 160 个国家地区",
+      "source": "IT之家",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-03",
+      "time": "11:16",
+      "publishedAt": "2026-07-03T11:16:09.000Z",
+      "url": "https://www.ithome.com/0/972/417.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/7/b7ea1714-0cca-46dc-b6e1-d78bac37bcd1.png?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 7 月 3 日消息，据科技媒体 Wired 报道，摩托罗拉 7 月 1 日宣布与嵌入式连接解决方案提供商 Gigs 合作，面向安卓用户正式推出其官方旅行 eSIM 应用 Global Connect。 该应用旨在为海外出行用户提供便捷的数据流量服务，是摩托罗拉在智能手机中集成原生旅行 eSIM 体验的首次尝试。 Global Connect 应用…",
+      "tags": [
+        "行业",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-dc3ca6c45359",
       "title": "Huawei Pura X Max Collector’s Edition selling better than base version",
@@ -37,26 +257,6 @@ window.phoneRadarAuto = {
       "summary": "US Mobile is doing it big with this discount",
       "tags": [
         "Pixel",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-21cd04476ccc",
-      "title": "回归 OPPO ColorOS：消息称一加 OxygenOS、真我 realme UI 将停止开发",
-      "source": "IT之家",
-      "brand": "OPPO",
-      "model": "OPPO 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-03",
-      "time": "10:01",
-      "publishedAt": "2026-07-03T10:01:22.000Z",
-      "url": "https://www.ithome.com/0/972/369.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/7/0ca9d806-287b-485e-a012-1bd4a7357ca6.png",
-      "summary": "IT之家 7 月 3 日消息，据 smartprix 消息，业内人士透露，OPPO 已经对其智能手机业务启动了全面整合，氧 OS（OxygenOS）与真我 realme UI 将停止开发。 一加和真我品牌将使用同一套安卓定制系统，内部人士确认，未来的设备将停止搭载氧 OS 和真我 realme UI， 并在全球范围内全面转用 ColorOS 。 报道称一加…",
-      "tags": [
-        "OPPO",
         "爆料",
         "自动抓取"
       ]
@@ -322,26 +522,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-336102ea3353",
-      "title": "HMD Touch“混合型手机”国内入网：64MB 内存、3.2 英寸小屏",
-      "source": "IT之家",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-03",
-      "time": "07:31",
-      "publishedAt": "2026-07-03T07:31:51.000Z",
-      "url": "https://www.ithome.com/0/972/286.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2025/10/dd30fe4c-1449-42d3-a608-3d42b42f5cdf.jpg?x-bce-process=image/auto-orient,o_1",
-      "summary": "IT之家 7 月 3 日消息， HMD 去年 10 月在海外推出了一款所谓的“混合型手机” —— HMD Touch 4G ， 其并非传统意义上的智能手机，但又比功能手机更加智能 。HMD Touch 4G 实质上是诺基亚 Asha 系列的现代重生，通过基于云端的浏览器应用程序为用户提供部分智能功能。 据IT之家小伙伴投稿，这款手机于今年 6 月在国内入网…",
-      "tags": [
-        "行业",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "coolapk-user-704717b1c782",
       "title": "JSCHEN小小狐：一加 16 影像方案曝光：2 亿主摄/长焦二选一",
       "source": "JSCHEN小小狐",
@@ -502,26 +682,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "coolapk-user-f95e3de420b6",
-      "title": "竹本青：vivo X500 影像配置曝光： 1/1.28\"索尼主摄",
-      "source": "竹本青",
-      "brand": "vivo",
-      "model": "vivo 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-07-03",
-      "time": "02:59",
-      "publishedAt": "2026-07-03T02:59:58.000Z",
-      "url": "https://www.coolapk.com/feed/72628019",
-      "image": "http://image.coolapk.com/feed/2026/0703/11/4248714_5fb0ddf6_7649_607_380@1272x384.jpg",
-      "summary": "【vivo X500 影像配置曝光： 1/1.28\"索尼主摄+70mm中底潜望】 ● X500 影像爆料： 50Mp 1/1.28\" 索尼主摄； 50Mp 小底超广角； 64Mp 1/2\" 70mm 索尼潜望，或有长焦微距。 ● X500 Pro 影像爆料： 50Mp 1/1.28\" LOFIC大底主摄； 50Mp 小底超广角； 64Mp 85mm 新中底…",
-      "tags": [
-        "vivo",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
       "id": "auto-ec3e8d206d89",
       "title": "早报｜曝苹果计划生产1000万台折叠iPhone/任天堂回应全员涨薪10%传闻/华为鸿蒙6终端设备突破7000万",
       "source": "爱范儿",
@@ -602,6 +762,26 @@ window.phoneRadarAuto = {
       ]
     },
     {
+      "id": "newsnow-eba7427f7d18",
+      "title": "每次路上看到有人拿着iPhone air，我都要忍不住在心里说一句，真有品味，可惜我没有，因为我在等iPhone Air2代[捂脸]",
+      "source": "酷安热榜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-07-03",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/72630134",
+      "image": "",
+      "summary": "每次路上看到有人拿着iPhone air，我都要忍不住在心里说一句，真有品味，可惜我没有，因为我在等iPhone Air2代[捂脸]",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
       "id": "newsnow-193744ff3014",
       "title": "iPhone 18 Pro Max 电池曝光：5187mAh",
       "source": "酷安热榜",
@@ -642,21 +822,21 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-eba7427f7d18",
-      "title": "每次路上看到有人拿着iPhone air，我都要忍不住在心里说一句，真有品味，可惜我没有，因为我在等iPhone Air2代[捂脸]",
+      "id": "newsnow-36921193ae40",
+      "title": "怎么还有人说我骗人啊，我再傻 我也不可能咒我自己得癌症吧，还有，我确实很喜欢用小米手机啊。有人就说我是博同情蜜✔，还有人说我根本没得病 是虚假热度，我现在给你们理一下。。我从读小学一年级的时候，我比同年级的所有同学都早读一年，也就导致我比所有同班同学的年龄都要大一岁，其次，我得病的时候差不多是五年级那个样子，毕竟这么久了，我也记不到太准确的时间线，五年级得病了以后，我就去治疗。治疗了以后，回到了同学校的六年级继续读，一直读到初一都没有复发，后边差不多是初一下学期中旬的那个样子，在学校出现了头晕呕吐的原因，当时去复查，就发现复发了。复发了就只能去治疗，治疗拖拖拖，拖了回来，还是继续读初一下册那个样子。但是那个时候就是一班新的同学了，因为我不能跟着以前的老同学继续读，而这之间相差差不多快两年的样子了，这也就导致我比同班同学又大了一岁，就是说大了两岁，然后我现在是在家休养的状态... 查看更多",
       "source": "酷安热榜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-07-03",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72630134",
+      "url": "https://www.coolapk.com/feed/72629396",
       "image": "",
-      "summary": "每次路上看到有人拿着iPhone air，我都要忍不住在心里说一句，真有品味，可惜我没有，因为我在等iPhone Air2代[捂脸]",
+      "summary": "怎么还有人说我骗人啊，我再傻 我也不可能咒我自己得癌症吧，还有，我确实很喜欢用小米手机啊。有人就说我是博同情蜜✔，还有人说我根本没得病 是虚假热度，我现在给你们理一下。。我从读小学一年级的时候，我比同年级的所有同学都早读一年，也就导致我比所有同班同学的年龄都要大一岁，其次，我得病的时候差不多是五年级那个样子，毕竟这么久了，我也记不到太准确的时间线，五年级得…",
       "tags": [
-        "iPhone",
+        "Xiaomi",
         "爆料",
         "NewsNow"
       ]
@@ -682,6 +862,26 @@ window.phoneRadarAuto = {
       ]
     },
     {
+      "id": "newsnow-1b7eb5ce0c47",
+      "title": "教育部：坚决杜绝用手机布置作业",
+      "source": "今日头条热榜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-03",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.toutiao.com/trending/7658188046671773723/",
+      "image": "",
+      "summary": "教育部：坚决杜绝用手机布置作业",
+      "tags": [
+        "行业",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
       "id": "newsnow-154c25625668",
       "title": "教育部：坚决杜绝用手机布置作业",
       "source": "百度热搜",
@@ -695,26 +895,6 @@ window.phoneRadarAuto = {
       "url": "https://www.baidu.com/s?wd=%E6%95%99%E8%82%B2%E9%83%A8%EF%BC%9A%E5%9D%9A%E5%86%B3%E6%9D%9C%E7%BB%9D%E7%94%A8%E6%89%8B%E6%9C%BA%E5%B8%83%E7%BD%AE%E4%BD%9C%E4%B8%9A",
       "image": "",
       "summary": "教育部：坚决杜绝用手机布置作业",
-      "tags": [
-        "行业",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-0db85c2de492",
-      "title": "千元手机明年或许买不到了",
-      "source": "百度热搜",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-03",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.baidu.com/s?wd=%E5%8D%83%E5%85%83%E6%89%8B%E6%9C%BA%E6%98%8E%E5%B9%B4%E6%88%96%E8%AE%B8%E4%B9%B0%E4%B8%8D%E5%88%B0%E4%BA%86",
-      "image": "",
-      "summary": "千元手机明年或许买不到了",
       "tags": [
         "行业",
         "爆料",
@@ -837,26 +1017,6 @@ window.phoneRadarAuto = {
       "summary": "A new report from Macworld based on social media leaks claims to know iPhone 18 Pro Max’s exact battery capacity, and it seems impressive.",
       "tags": [
         "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-c5574771b070",
-      "title": "Galaxy S27 series could bring a new 16MP front camera!",
-      "source": "SamMobile",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-02",
-      "time": "15:27",
-      "publishedAt": "2026-07-02T15:27:01.000Z",
-      "url": "https://www.sammobile.com/news/samsung-galaxy-s27-pro-ultra-new-16mp-front-camera/",
-      "image": "",
-      "summary": "Samsung may be making big changes to the camera setup on its next Galaxy S flagship: according to our friends over at GalaxyClub, the Galaxy S27 Pro and the Galaxy S27 Ultra will…",
-      "tags": [
-        "Samsung",
         "爆料",
         "自动抓取"
       ]
