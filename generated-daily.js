@@ -1,12 +1,12 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-07-03T04:07:22.327Z",
+  "updatedAt": "2026-07-03T07:35:08.192Z",
   "issueDate": "2026-07-03",
   "issue": "VOL.260703",
   "title": "手机情报日报",
-  "intro": "今日筛出 14 条重点，其中 8 条是重点爆料，包含 11 条 iPhone 相关、1 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 15 条重点，其中 8 条是重点爆料，包含 9 条 iPhone 相关、1 条官方确认、0 条参数线索。",
   "stats": {
-    "total": 14,
-    "iphone": 11,
+    "total": 15,
+    "iphone": 9,
     "leaks": 8,
     "official": 1,
     "specs": 0
@@ -18,93 +18,23 @@ window.phoneRadarDaily = {
       "hint": "机模、配色、影像、屏幕、电池和芯片线索先看。",
       "items": [
         {
-          "id": "auto-de732559d26d",
-          "title": "苹果 iPhone 18 Pro Max 电池首曝：5187mAh 容量，欣旺达生产",
+          "id": "newsnow-193744ff3014",
+          "title": "iPhone 18 Pro Max 电池曝光：5187mAh",
           "originalTitle": "",
-          "source": "IT之家",
+          "source": "酷安热榜",
           "brand": "iPhone",
           "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-07-03",
-          "time": "02:44",
-          "publishedAt": "2026-07-03T02:44:48.000Z",
-          "url": "https://www.ithome.com/0/972/045.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/7/dddd5bd0-ba2a-44f8-86f9-214839f32011.png?x-bce-process=image/format,f_auto",
-          "verdict": "先看",
-          "takeaway": "IT之家 7 月 3 日消息，消息源 @phonefuturist 今天（7 月 3 日）在 X 平台发布推文， 分享了一组图片，首次展示了适用于苹果 iPhone 18 Pro Max 的电池电芯细节。 本次曝光的图片中，共展示了 2 款电池电芯，均由欣旺达电子股份有限公司生产。电池容量方面，型号 A3166 配备 3.903V 5187mAh 容量电池…",
-          "detail": "IT之家 7 月 3 日消息，消息源 @phonefuturist 今天（7 月 3 日）在 X 平台发布推文， 分享了一组图片，首次展示了适用于苹果 iPhone 18 Pro Max 的电池电芯细节。 本次曝光的图片中，共展示了 2 款电池电芯，均由欣旺达电子股份有限公司生产。电池容量方面，型号 A3166 配备 3.903V 5187mAh 容量电池…",
-          "keyPoints": [
-            "电池 / 充电"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "coolapk-user-995c4d217116",
-          "title": "JSCHEN小小狐：『iPhone 18 Pro Max 电池曝光：5187mAh』 ◇ 额定容量 5187mAh ◇ 电池电压 3.…",
-          "originalTitle": "",
-          "source": "JSCHEN小小狐",
-          "brand": "iPhone",
-          "type": "爆料",
-          "trust": "高可信爆料",
-          "date": "2026-07-03",
-          "time": "03:13",
-          "publishedAt": "2026-07-03T03:13:37.000Z",
-          "url": "https://www.coolapk.com/feed/72628213",
-          "image": "http://image.coolapk.com/feed/2026/0703/11/4702274_93d64516_8416_8476_740@1092x1440.jpg",
-          "verdict": "先看",
-          "takeaway": "『iPhone 18 Pro Max 电池曝光：5187mAh』 ◇ 额定容量 5187mAh ◇ 电池电压 3.903V ◇ 欣旺达电子生产 #今日热点# #iPhone18ProMax# #iPhone18#",
-          "detail": "『iPhone 18 Pro Max 电池曝光：5187mAh』 ◇ 额定容量 5187mAh ◇ 电池电压 3.903V ◇ 欣旺达电子生产 #今日热点# #iPhone18ProMax# #iPhone18#",
-          "keyPoints": [
-            "电池 / 充电"
-          ],
-          "confidence": "可信度较高，但仍属于发布前线索。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "auto-94641a90c390",
-          "title": "浅紫色三星 Galaxy Z Fold8 折叠手机渲染图曝光，配色接近 S22 系列幻夜紫",
-          "originalTitle": "",
-          "source": "IT之家",
-          "brand": "Samsung",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-07-03",
-          "time": "01:39",
-          "publishedAt": "2026-07-03T01:39:50.000Z",
-          "url": "https://www.ithome.com/0/972/005.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/7/b6fdf9b7-a99d-4282-b58c-d4f1562b1315.png",
-          "verdict": "先看",
-          "takeaway": "IT之家 7 月 3 日消息，科技媒体 Android Headline 昨日（7 月 2 日）发布博文，分享了一组图片， 展示了适用于三星 Galaxy Z Fold8、Galaxy Z Fold8 Ultra 以及 Galaxy ＺFlip8 三款折叠手机的屏幕贴膜。 Galaxy Z Fold8 宽折叠手机 本次曝光的贴膜渲染图并未透露更多有用信息，…",
-          "detail": "IT之家 7 月 3 日消息，科技媒体 Android Headline 昨日（7 月 2 日）发布博文，分享了一组图片， 展示了适用于三星 Galaxy Z Fold8、Galaxy Z Fold8 Ultra 以及 Galaxy ＺFlip8 三款折叠手机的屏幕贴膜。 Galaxy Z Fold8 宽折叠手机 本次曝光的贴膜渲染图并未透露更多有用信息，…",
-          "keyPoints": [
-            "外观 / 配色 / 尺寸",
-            "屏幕形态"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "newsnow-8b9c15064612",
-          "title": "苹果折叠屏手机备货至1000万台",
-          "originalTitle": "",
-          "source": "抖音热点",
-          "brand": "iPhone",
-          "type": "爆料",
-          "trust": "待验证",
+          "trust": "高关注爆料源",
           "date": "2026-07-03",
           "time": "",
           "publishedAt": "",
-          "url": "https://www.douyin.com/hot/2555855",
+          "url": "https://www.coolapk.com/feed/72628213",
           "image": "",
           "verdict": "先看",
-          "takeaway": "苹果折叠屏手机备货至1000万台",
-          "detail": "苹果折叠屏手机备货至1000万台",
+          "takeaway": "iPhone 18 Pro Max 电池曝光：5187mAh",
+          "detail": "iPhone 18 Pro Max 电池曝光：5187mAh",
           "keyPoints": [
-            "屏幕形态"
+            "电池 / 充电"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
@@ -198,6 +128,78 @@ window.phoneRadarDaily = {
           "detail": "iPhone 折叠屏相关消息。重点看折痕、铰链、厚度、屏幕可靠性和重量是否有实质改善。",
           "keyPoints": [
             "爆料"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "coolapk-user-792b1a9927ee",
+          "title": "JSCHEN小小狐：『REDMI K100 系列曝光：质感增强 / 果味设计』 ◇ 大 R 角纯直屏 + 横向大矩阵金属 Deco ◇…",
+          "originalTitle": "",
+          "source": "JSCHEN小小狐",
+          "brand": "Xiaomi",
+          "type": "爆料",
+          "trust": "高可信爆料",
+          "date": "2026-07-03",
+          "time": "04:37",
+          "publishedAt": "2026-07-03T04:37:24.000Z",
+          "url": "https://www.coolapk.com/feed/72629262",
+          "image": "http://image.coolapk.com/feed/2026/0703/12/4702274_44850fd4_3443_6695_800@1440x581.jpg",
+          "verdict": "先看",
+          "takeaway": "『REDMI K100 系列曝光：质感增强 / 果味设计』 ◇ 大 R 角纯直屏 + 横向大矩阵金属 Deco ◇ 工程机配色参考 iPhone 18 Pro 系列 ◇ 金属中框 / 玻璃背板同色处理 #今日热点# #REDMIK100ProMax#",
+          "detail": "『REDMI K100 系列曝光：质感增强 / 果味设计』 ◇ 大 R 角纯直屏 + 横向大矩阵金属 Deco ◇ 工程机配色参考 iPhone 18 Pro 系列 ◇ 金属中框 / 玻璃背板同色处理 #今日热点# #REDMIK100ProMax#",
+          "keyPoints": [
+            "外观 / 配色 / 尺寸",
+            "屏幕形态"
+          ],
+          "confidence": "可信度较高，但仍属于发布前线索。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "auto-ec3e8d206d89",
+          "title": "早报｜曝苹果计划生产1000万台折叠iPhone/任天堂回应全员涨薪10%传闻/华为鸿蒙6终端设备突破7000万",
+          "originalTitle": "",
+          "source": "爱范儿",
+          "brand": "Huawei",
+          "type": "评测",
+          "trust": "媒体汇总",
+          "date": "2026-07-03",
+          "time": "00:06",
+          "publishedAt": "2026-07-03T00:06:06.000Z",
+          "url": "https://www.ifanr.com/1670862?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "image": "https://s3.ifanr.com/images/ep/cover-images/tiao_wang_he_jing_de_ren_cover.jpg",
+          "verdict": "先看",
+          "takeaway": "· Counterpoint：预计苹果首款折叠屏手机将贡献 29% 面板采购份额 · SK 海力士计划投资约 514 亿美元新建 NAND 工厂 · 奇瑞发布犀牛电池安全保障计划，承诺因电池热失控损毁赔付新车",
+          "detail": "· Counterpoint：预计苹果首款折叠屏手机将贡献 29% 面板采购份额 · SK 海力士计划投资约 514 亿美元新建 NAND 工厂 · 奇瑞发布犀牛电池安全保障计划，承诺因电池热失控损毁赔付新车",
+          "keyPoints": [
+            "屏幕形态",
+            "电池 / 充电"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "newsnow-3c34ed6034ca",
+          "title": "终于升级了24G的内存了，12G的内存老给我杀后台，由于这个主板是我捡漏的开发版，第一次打磨芯片差点给我干废了，不过还好有惊无险[捂脸]现在这个手机流畅度有了质的提升，再加上解容模块，直接就可以从上班7.30一直用到下班6点，还能再战几年，强烈推荐改[呲牙] #小米13pro# #手机扩容# #魔改电池#",
+          "originalTitle": "",
+          "source": "酷安热榜",
+          "brand": "Xiaomi",
+          "type": "爆料",
+          "trust": "高关注爆料源",
+          "date": "2026-07-03",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://www.coolapk.com/feed/72604236",
+          "image": "",
+          "verdict": "先看",
+          "takeaway": "终于升级了24G的内存了，12G的内存老给我杀后台，由于这个主板是我捡漏的开发版，第一次打磨芯片差点给我干废了，不过还好有惊无险[捂脸]现在这个手机流畅度有了质的提升，再加上解容模块，直接就可以从上班7.30一直用到下班6点，还能再战几年，强烈推荐改[呲牙] #小米13pro# #手机扩容# #魔改电池#",
+          "detail": "终于升级了24G的内存了，12G的内存老给我杀后台，由于这个主板是我捡漏的开发版，第一次打磨芯片差点给我干废了，不过还好有惊无险[捂脸]现在这个手机流畅度有了质的提升，再加上解容模块，直接就可以从上班7.30一直用到下班6点，还能再战几年，强烈推荐改[呲牙] #小米13pro# #手机扩容# #魔改电池#",
+          "keyPoints": [
+            "电池 / 充电",
+            "芯片 / 性能"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
@@ -310,58 +312,80 @@ window.phoneRadarDaily = {
       "hint": "能直接更新到参数库。",
       "items": [
         {
-          "id": "auto-3ec083eb59c0",
-          "title": "vivo 电池 / 充电相关消息",
+          "id": "auto-744bfe3bded2",
+          "title": "Xiaomi 发布 / 上市相关消息",
           "originalTitle": "",
           "source": "Gizmochina",
-          "brand": "vivo",
+          "brand": "Xiaomi",
           "type": "爆料",
           "trust": "媒体汇总",
           "date": "2026-07-03",
-          "time": "03:07",
-          "publishedAt": "2026-07-03T03:07:12.000Z",
-          "url": "https://www.gizmochina.com/2026/07/03/iqoo-z11i-launched-price-specifications/",
-          "image": "https://www.gizmochina.com/wp-content/uploads/2026/06/iQOO-Z11i-launch-date--300x197.jpg?x44794",
+          "time": "05:12",
+          "publishedAt": "2026-07-03T05:12:32.000Z",
+          "url": "https://www.gizmochina.com/2026/07/03/redmi-k100-pro-max-launch-timeframe-leak/",
+          "image": "https://www.gizmochina.com/wp-content/uploads/2025/10/REDMI-K90-Pro-Max-Review_1.mp4_20251031_111302.098-300x150.jpg?x44794",
           "verdict": "可略过",
-          "takeaway": "vivo 有发布或新功能消息，适合确认是否和新机有关。",
-          "detail": "vivo 电池 / 充电相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
+          "takeaway": "Xiaomi 有发布或新功能消息，适合确认是否和新机有关。",
+          "detail": "Xiaomi 发布 / 上市相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
           "keyPoints": [
-            "电池 / 充电",
-            "芯片 / 性能"
+            "爆料"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "影响性能和寿命判断，适合放进参数库。",
-          "action": "有具体参数就记录到参数库；没有参数就先收藏。"
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         }
       ]
     },
     {
-      "id": "review",
-      "title": "评测与体验",
-      "hint": "买前再细看，平时扫一眼即可。",
+      "id": "market",
+      "title": "行业趋势",
+      "hint": "看方向，不急着当购买依据。",
       "items": [
         {
-          "id": "auto-5ea5d4945adf",
-          "title": "Samsung 相关消息",
+          "id": "auto-336102ea3353",
+          "title": "HMD Touch“混合型手机”国内入网：64MB 内存、3.2 英寸小屏",
           "originalTitle": "",
-          "source": "Android Central",
-          "brand": "Samsung",
-          "type": "评测",
+          "source": "IT之家",
+          "brand": "行业",
+          "type": "爆料",
           "trust": "媒体汇总",
-          "date": "2026-07-02",
-          "time": "17:57",
-          "publishedAt": "2026-07-02T17:57:01.000Z",
-          "url": "https://www.androidcentral.com/phones/samsung-galaxy/samsung-quietly-brings-back-its-best-galaxy-s26-ultra-deal-for-the-4th-of-july-weekend-with-or-without-trade",
-          "image": "https://cdn.mos.cms.futurecdn.net/nVQgmuzQpnE7vRDcQuaqoY-1280-80.jpg",
-          "verdict": "可略过",
-          "takeaway": "Samsung 相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
-          "detail": "Samsung 相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
+          "date": "2026-07-03",
+          "time": "07:31",
+          "publishedAt": "2026-07-03T07:31:51.000Z",
+          "url": "https://www.ithome.com/0/972/286.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2025/10/dd30fe4c-1449-42d3-a608-3d42b42f5cdf.jpg?x-bce-process=image/auto-orient,o_1",
+          "verdict": "扫一眼",
+          "takeaway": "IT之家 7 月 3 日消息， HMD 去年 10 月在海外推出了一款所谓的“混合型手机” —— HMD Touch 4G ， 其并非传统意义上的智能手机，但又比功能手机更加智能 。HMD Touch 4G 实质上是诺基亚 Asha 系列的现代重生，通过基于云端的浏览器应用程序为用户提供部分智能功能。 据IT之家小伙伴投稿，这款手机于今年 6 月在国内入网…",
+          "detail": "IT之家 7 月 3 日消息， HMD 去年 10 月在海外推出了一款所谓的“混合型手机” —— HMD Touch 4G ， 其并非传统意义上的智能手机，但又比功能手机更加智能 。HMD Touch 4G 实质上是诺基亚 Asha 系列的现代重生，通过基于云端的浏览器应用程序为用户提供部分智能功能。 据IT之家小伙伴投稿，这款手机于今年 6 月在国内入网…",
           "keyPoints": [
-            "评测"
+            "爆料"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是实际体验内容，买前适合重点看缺点和取舍。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "中文源可以直接点开快读；看完只保留和购机有关的点。"
+        },
+        {
+          "id": "auto-76b2acca3df4",
+          "title": "Xiaomi 电池 / 充电相关消息",
+          "originalTitle": "",
+          "source": "Gizmochina",
+          "brand": "Xiaomi",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-07-03",
+          "time": "07:34",
+          "publishedAt": "2026-07-03T07:34:54.000Z",
+          "url": "https://www.gizmochina.com/2026/07/03/redmi-17-5g-sirim-ncc-certification-battery-charging-memory/",
+          "image": "https://www.gizmochina.com/wp-content/uploads/2026/07/Redmi-15-5G-300x169.png?x44794",
+          "verdict": "可略过",
+          "takeaway": "Xiaomi 电池 / 充电相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
+          "detail": "Xiaomi 电池 / 充电相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
+          "keyPoints": [
+            "电池 / 充电"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "影响日常体验，尤其是游戏、拍照和长时间使用。",
+          "action": "有具体参数就记录到参数库；没有参数就先收藏。"
         }
       ]
     }
