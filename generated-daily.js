@@ -1,12 +1,12 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-07-03T17:47:06.317Z",
+  "updatedAt": "2026-07-03T19:48:47.803Z",
   "issueDate": "2026-07-03",
   "issue": "VOL.260703",
   "title": "手机情报日报",
-  "intro": "今日筛出 9 条重点，其中 8 条是重点爆料，包含 8 条 iPhone 相关、0 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 8 条重点，其中 8 条是重点爆料，包含 7 条 iPhone 相关、0 条官方确认、0 条参数线索。",
   "stats": {
-    "total": 9,
-    "iphone": 8,
+    "total": 8,
+    "iphone": 7,
     "leaks": 8,
     "official": 0,
     "specs": 0
@@ -41,25 +41,25 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
-          "id": "newsnow-193744ff3014",
-          "title": "iPhone 18 Pro Max 电池曝光：5187mAh",
+          "id": "coolapk-user-995c4d217116",
+          "title": "JSCHEN小小狐：iPhone 18 Pro Max 电池曝光：5187mAh",
           "originalTitle": "",
-          "source": "酷安热榜",
+          "source": "JSCHEN小小狐",
           "brand": "iPhone",
           "type": "爆料",
-          "trust": "高关注爆料源",
+          "trust": "高可信爆料",
           "date": "2026-07-03",
-          "time": "",
-          "publishedAt": "",
+          "time": "03:13",
+          "publishedAt": "2026-07-03T03:13:37.000Z",
           "url": "https://www.coolapk.com/feed/72628213",
-          "image": "",
+          "image": "http://image.coolapk.com/feed/2026/0703/12/4702274_42300786_2624_5475_607@1093x1201.jpg",
           "verdict": "先看",
-          "takeaway": "iPhone 18 Pro Max 电池曝光：5187mAh",
-          "detail": "iPhone 18 Pro Max 电池曝光：5187mAh",
+          "takeaway": "『iPhone 18 Pro Max 电池曝光：5187mAh』 ◇ 额定容量 5187mAh ◇ 电池电压 3.903V ◇ 欣旺达电子生产 消息源：phonefuturist（X 平台） #今日热点# #iPhone18ProMax# #iPhone18#",
+          "detail": "『iPhone 18 Pro Max 电池曝光：5187mAh』 ◇ 额定容量 5187mAh ◇ 电池电压 3.903V ◇ 欣旺达电子生产 消息源：phonefuturist（X 平台） #今日热点# #iPhone18ProMax# #iPhone18#",
           "keyPoints": [
             "电池 / 充电"
           ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "confidence": "可信度较高，但仍属于发布前线索。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
@@ -202,36 +202,6 @@ window.phoneRadarDaily = {
           "confidence": "可信度较高，但仍属于发布前线索。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        }
-      ]
-    },
-    {
-      "id": "iphone",
-      "title": "iPhone 重点",
-      "hint": "不是硬件爆料，但和 iPhone 体验或路线有关。",
-      "items": [
-        {
-          "id": "auto-8899d7310eee",
-          "title": "快捷指令｜让 iPhone 用上锤子的「大爆炸」",
-          "originalTitle": "",
-          "source": "少数派",
-          "brand": "iPhone",
-          "type": "评测",
-          "trust": "媒体汇总",
-          "date": "2026-07-03",
-          "time": "07:00",
-          "publishedAt": "2026-07-03T07:00:00.000Z",
-          "url": "https://sspai.com/post/111405",
-          "image": "",
-          "verdict": "先看",
-          "takeaway": "敬「少许的牺牲是必要的」。",
-          "detail": "敬「少许的牺牲是必要的」。",
-          "keyPoints": [
-            "评测"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是实际体验内容，买前适合重点看缺点和取舍。",
-          "action": "中文源可以直接点开快读；看完只保留和购机有关的点。"
         }
       ]
     }

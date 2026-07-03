@@ -1,6 +1,26 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-07-03T17:47:06.317Z",
+  "updatedAt": "2026-07-03T19:48:47.803Z",
   "news": [
+    {
+      "id": "auto-5cb56ae6980d",
+      "title": "Galaxy Z Fold 8 looks pricier in these rumors, which isn't shocking in the least",
+      "source": "Android Central",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-07-03",
+      "time": "17:49",
+      "publishedAt": "2026-07-03T17:49:03.000Z",
+      "url": "https://www.androidcentral.com/phones/samsung-galaxy/galaxy-z-fold-8-looks-pricier-in-these-rumors-which-isnt-shocking-in-the-least",
+      "image": "https://cdn.mos.cms.futurecdn.net/iwBMJN5TQLHQ9TfGqpRVST-1280-80.jpg",
+      "summary": "Price hikes were rumored for Samsung's next wave of products, and the totals vary from staggering to small hops.",
+      "tags": [
+        "Samsung",
+        "评测",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-faa506c46ee8",
       "title": "The MacRumors Show: Latest iPhone 18 Pro Leaks and Rumors",
@@ -337,26 +357,6 @@ window.phoneRadarAuto = {
       "summary": "US Mobile is doing it big with this discount",
       "tags": [
         "Pixel",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-9b286129a635",
-      "title": "7 Samsung ecosystem features that make the Galaxy S26 Ultra work better",
-      "source": "SamMobile",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-03",
-      "time": "10:00",
-      "publishedAt": "2026-07-03T10:00:00.000Z",
-      "url": "https://www.sammobile.com/news/7-samsung-ecosystem-features-make-galaxy-s26-ultra-work-better/",
-      "image": "",
-      "summary": "The Samsung Galaxy S26 Ultra is a capable phone on its own, but it becomes even more useful when paired with other Samsung devices. Samsung has built a connected ecosystem where t…",
-      "tags": [
-        "Samsung",
         "爆料",
         "自动抓取"
       ]
@@ -742,6 +742,26 @@ window.phoneRadarAuto = {
       ]
     },
     {
+      "id": "coolapk-user-995c4d217116",
+      "title": "JSCHEN小小狐：iPhone 18 Pro Max 电池曝光：5187mAh",
+      "source": "JSCHEN小小狐",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-07-03",
+      "time": "03:13",
+      "publishedAt": "2026-07-03T03:13:37.000Z",
+      "url": "https://www.coolapk.com/feed/72628213",
+      "image": "http://image.coolapk.com/feed/2026/0703/12/4702274_42300786_2624_5475_607@1093x1201.jpg",
+      "summary": "『iPhone 18 Pro Max 电池曝光：5187mAh』 ◇ 额定容量 5187mAh ◇ 电池电压 3.903V ◇ 欣旺达电子生产 消息源：phonefuturist（X 平台） #今日热点# #iPhone18ProMax# #iPhone18#",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
       "id": "auto-3ec083eb59c0",
       "title": "iQOO Z11i launches with 120Hz LCD, Snapdragon 4 Gen 2 and 6,500mAh battery",
       "source": "Gizmochina",
@@ -802,46 +822,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-7214292e13c8",
-      "title": "用了这么久的iPhone，第一次清晰感受到杀后台的痛，看地球啥的我都无所谓，切出去微信通话没了，我真蚌埠住了 [喝酒]",
-      "source": "酷安热榜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-07-03",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72598835",
-      "image": "",
-      "summary": "用了这么久的iPhone，第一次清晰感受到杀后台的痛，看地球啥的我都无所谓，切出去微信通话没了，我真蚌埠住了 [喝酒]",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-ce3f7944d477",
-      "title": "iPhone 18 Pro Max 跌落测试视频曝光",
-      "source": "酷安热榜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-07-03",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72585885",
-      "image": "",
-      "summary": "iPhone 18 Pro Max 跌落测试视频曝光",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
       "id": "newsnow-eba7427f7d18",
       "title": "每次路上看到有人拿着iPhone air，我都要忍不住在心里说一句，真有品味，可惜我没有，因为我在等iPhone Air2代[捂脸]",
       "source": "酷安热榜",
@@ -862,28 +842,28 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-193744ff3014",
-      "title": "iPhone 18 Pro Max 电池曝光：5187mAh",
+      "id": "newsnow-9528e32272cc",
+      "title": "华为手机痛点不在芯片性能，而在于软件适配——个人观点，不喜勿喷。",
       "source": "酷安热榜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-07-03",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72628213",
+      "url": "https://www.coolapk.com/feed/72636165",
       "image": "",
-      "summary": "iPhone 18 Pro Max 电池曝光：5187mAh",
+      "summary": "华为手机痛点不在芯片性能，而在于软件适配——个人观点，不喜勿喷。",
       "tags": [
-        "iPhone",
+        "Huawei",
         "爆料",
         "NewsNow"
       ]
     },
     {
-      "id": "newsnow-3c34ed6034ca",
-      "title": "终于升级了24G的内存了，12G的内存老给我杀后台，由于这个主板是我捡漏的开发版，第一次打磨芯片差点给我干废了，不过还好有惊无险[捂脸]现在这个手机流畅度有了质的提升，再加上解容模块，直接就可以从上班7.30一直用到下班6点，还能再战几年，强烈推荐改[呲牙] #小米13pro# #手机扩容# #魔改电池#",
+      "id": "newsnow-36921193ae40",
+      "title": "怎么还有人说我骗人啊，我再傻 我也不可能咒我自己得癌症吧，还有，我确实很喜欢用小米手机啊。有人就说我是博同情蜜✔，还有人说我根本没得病 是虚假热度，我现在给你们理一下。。我从读小学一年级的时候，我比同年级的所有同学都早读一年，也就导致我比所有同班同学的年龄都要大一岁，其次，我得病的时候差不多是五年级那个样子，毕竟这么久了，我也记不到太准确的时间线，五年级得病了以后，我就去治疗。治疗了以后，回到了同学校的六年级继续读，一直读到初一都没有复发，后边差不多是初一下学期中旬的那个样子，在学校出现了头晕呕吐的原因，当时去复查，就发现复发了。复发了就只能去治疗，治疗拖拖拖，拖了回来，还是继续读初一下册那个样子。但是那个时候就是一班新的同学了，因为我不能跟着以前的老同学继续读，而这之间相差差不多快两年的样子了，这也就导致我比同班同学又大了一岁，就是说大了两岁，然后我现在是在家休养的状态... 查看更多",
       "source": "酷安热榜",
       "brand": "Xiaomi",
       "model": "Xiaomi 相关机型",
@@ -892,9 +872,9 @@ window.phoneRadarAuto = {
       "date": "2026-07-03",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72604236",
+      "url": "https://www.coolapk.com/feed/72629396",
       "image": "",
-      "summary": "终于升级了24G的内存了，12G的内存老给我杀后台，由于这个主板是我捡漏的开发版，第一次打磨芯片差点给我干废了，不过还好有惊无险[捂脸]现在这个手机流畅度有了质的提升，再加上解容模块，直接就可以从上班7.30一直用到下班6点，还能再战几年，强烈推荐改[呲牙] #小米13pro# #手机扩容# #魔改电池#",
+      "summary": "怎么还有人说我骗人啊，我再傻 我也不可能咒我自己得癌症吧，还有，我确实很喜欢用小米手机啊。有人就说我是博同情蜜✔，还有人说我根本没得病 是虚假热度，我现在给你们理一下。。我从读小学一年级的时候，我比同年级的所有同学都早读一年，也就导致我比所有同班同学的年龄都要大一岁，其次，我得病的时候差不多是五年级那个样子，毕竟这么久了，我也记不到太准确的时间线，五年级得…",
       "tags": [
         "Xiaomi",
         "爆料",
@@ -922,26 +902,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-154c25625668",
-      "title": "教育部：坚决杜绝用手机布置作业",
-      "source": "百度热搜",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-03",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.baidu.com/s?wd=%E6%95%99%E8%82%B2%E9%83%A8%EF%BC%9A%E5%9D%9A%E5%86%B3%E6%9D%9C%E7%BB%9D%E7%94%A8%E6%89%8B%E6%9C%BA%E5%B8%83%E7%BD%AE%E4%BD%9C%E4%B8%9A",
-      "image": "",
-      "summary": "教育部：坚决杜绝用手机布置作业",
-      "tags": [
-        "行业",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
       "id": "newsnow-f2ac7e335240",
       "title": "一天3款新车上市 造手机的都沉默了",
       "source": "百度热搜",
@@ -955,6 +915,26 @@ window.phoneRadarAuto = {
       "url": "https://www.baidu.com/s?wd=%E4%B8%80%E5%A4%A93%E6%AC%BE%E6%96%B0%E8%BD%A6%E4%B8%8A%E5%B8%82+%E9%80%A0%E6%89%8B%E6%9C%BA%E7%9A%84%E9%83%BD%E6%B2%89%E9%BB%98%E4%BA%86",
       "image": "",
       "summary": "一天3款新车上市 造手机的都沉默了",
+      "tags": [
+        "行业",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-154c25625668",
+      "title": "教育部：坚决杜绝用手机布置作业",
+      "source": "百度热搜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-03",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.baidu.com/s?wd=%E6%95%99%E8%82%B2%E9%83%A8%EF%BC%9A%E5%9D%9A%E5%86%B3%E6%9D%9C%E7%BB%9D%E7%94%A8%E6%89%8B%E6%9C%BA%E5%B8%83%E7%BD%AE%E4%BD%9C%E4%B8%9A",
+      "image": "",
+      "summary": "教育部：坚决杜绝用手机布置作业",
       "tags": [
         "行业",
         "爆料",
@@ -1077,6 +1057,26 @@ window.phoneRadarAuto = {
       "summary": "A new report from Macworld based on social media leaks claims to know iPhone 18 Pro Max’s exact battery capacity, and it seems impressive.",
       "tags": [
         "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-c5574771b070",
+      "title": "Galaxy S27 series could bring a new 16MP front camera!",
+      "source": "SamMobile",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-02",
+      "time": "15:27",
+      "publishedAt": "2026-07-02T15:27:01.000Z",
+      "url": "https://www.sammobile.com/news/samsung-galaxy-s27-pro-ultra-new-16mp-front-camera/",
+      "image": "",
+      "summary": "Samsung may be making big changes to the camera setup on its next Galaxy S flagship: according to our friends over at GalaxyClub, the Galaxy S27 Pro and the Galaxy S27 Ultra will…",
+      "tags": [
+        "Samsung",
         "爆料",
         "自动抓取"
       ]
