@@ -1,5 +1,5 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-07-04T15:29:55.100Z",
+  "updatedAt": "2026-07-04T17:18:29.388Z",
   "news": [
     {
       "id": "auto-4dd6cdd881d4",
@@ -402,21 +402,21 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-058f5e85fefe",
-      "title": "曝霉霉婚礼上唯一允许带手机的人",
-      "source": "微博热搜",
-      "brand": "行业",
-      "model": "智能手机市场",
+      "id": "newsnow-bf9f25c8df25",
+      "title": "K90至尊就是目前最流畅的澎湃，最流畅的米系手机，彻底解决了K90 Pro Max和小米17全系列日用极其容易发烫，发烫后掉帧卡顿的问题，主动散热就是力大飞砖，这流畅度在米系机型里面确实是登顶了，跟天玑9500的K90 max相比，至尊更流畅，max续航更好。",
+      "source": "酷安热榜",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
       "type": "爆料",
-      "trust": "待验证",
+      "trust": "高关注爆料源",
       "date": "2026-07-04",
       "time": "",
       "publishedAt": "",
-      "url": "https://s.weibo.com/weibo?q=%E6%9B%9D%E9%9C%89%E9%9C%89%E5%A9%9A%E7%A4%BC%E4%B8%8A%E5%94%AF%E4%B8%80%E5%85%81%E8%AE%B8%E5%B8%A6%E6%89%8B%E6%9C%BA%E7%9A%84%E4%BA%BA&t=31&band_rank=24&Refer=top",
+      "url": "https://www.coolapk.com/feed/72647704",
       "image": "",
-      "summary": "曝霉霉婚礼上唯一允许带手机的人",
+      "summary": "K90至尊就是目前最流畅的澎湃，最流畅的米系手机，彻底解决了K90 Pro Max和小米17全系列日用极其容易发烫，发烫后掉帧卡顿的问题，主动散热就是力大飞砖，这流畅度在米系机型里面确实是登顶了，跟天玑9500的K90 max相比，至尊更流畅，max续航更好。",
       "tags": [
-        "行业",
+        "Xiaomi",
         "爆料",
         "NewsNow"
       ]
