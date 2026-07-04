@@ -1,12 +1,12 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-07-04T10:24:54.921Z",
+  "updatedAt": "2026-07-04T13:56:55.074Z",
   "issueDate": "2026-07-04",
   "issue": "VOL.260704",
   "title": "手机情报日报",
-  "intro": "今日筛出 12 条重点，其中 8 条是重点爆料，包含 8 条 iPhone 相关、1 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 11 条重点，其中 8 条是重点爆料，包含 7 条 iPhone 相关、1 条官方确认、0 条参数线索。",
   "stats": {
-    "total": 12,
-    "iphone": 8,
+    "total": 11,
+    "iphone": 7,
     "leaks": 8,
     "official": 1,
     "specs": 0
@@ -18,51 +18,25 @@ window.phoneRadarDaily = {
       "hint": "机模、配色、影像、屏幕、电池和芯片线索先看。",
       "items": [
         {
-          "id": "auto-a86b9120e054",
-          "title": "消息称国行苹果 iPhone 18 Pro Max 电池 5391mAh，增幅 11.78%",
+          "id": "coolapk-user-b1b3a300e0ad",
+          "title": "JSCHEN小小狐：『曝 iPhone 18 Pro 1/2TB 版本采用 QLC 颗粒』 知名芯片分析师 Reptalicant 根…",
           "originalTitle": "",
-          "source": "IT之家",
+          "source": "JSCHEN小小狐",
           "brand": "iPhone",
           "type": "爆料",
-          "trust": "媒体汇总",
+          "trust": "高可信爆料",
           "date": "2026-07-04",
-          "time": "05:15",
-          "publishedAt": "2026-07-04T05:15:35.000Z",
-          "url": "https://www.ithome.com/0/972/527.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/7/607e9055-b8e5-43f0-8e48-079cb880bc45.png?x-bce-process=image/format,f_auto",
+          "time": "12:33",
+          "publishedAt": "2026-07-04T12:33:05.000Z",
+          "url": "https://www.coolapk.com/feed/72648889",
+          "image": "http://image.coolapk.com/feed/2026/0704/20/4702274_9861706b_8384_7412_642@1270x1314.jpg",
           "verdict": "先看",
-          "takeaway": "IT之家 7 月 4 日消息，数码博主 @数码闲聊站 今天（7 月 4 日）发布微博，发现苹果电池供应商的 3C 入网信息， 透露苹果国行 iPhone 18 Pro 系列的电池信息。 IT之家附上推文内容如下： 刚刚查了苹果电池供应商的 3C 入网信息，iPhone 18 Pro 系列电池可能是这样？ iPhone 18 Pro—— 国行 4056mAh…",
-          "detail": "IT之家 7 月 4 日消息，数码博主 @数码闲聊站 今天（7 月 4 日）发布微博，发现苹果电池供应商的 3C 入网信息， 透露苹果国行 iPhone 18 Pro 系列的电池信息。 IT之家附上推文内容如下： 刚刚查了苹果电池供应商的 3C 入网信息，iPhone 18 Pro 系列电池可能是这样？ iPhone 18 Pro—— 国行 4056mAh…",
+          "takeaway": "『曝 iPhone 18 Pro 1/2TB 版本采用 QLC 颗粒』 知名芯片分析师 Reptalicant 根据此前印度最新泄露的相关原理图和 BOM 表，分析得到了 iPhone 18 Pro 的存储方案及规格，具体如下： 「全系苹果 S6E 存储方案」 ◇ 3nm 工艺 ◇ PCIe 5.0 × 1 ◇ 理论可达 UFS 5.0 级速度 ◇ 功耗约…",
+          "detail": "『曝 iPhone 18 Pro 1/2TB 版本采用 QLC 颗粒』 知名芯片分析师 Reptalicant 根据此前印度最新泄露的相关原理图和 BOM 表，分析得到了 iPhone 18 Pro 的存储方案及规格，具体如下： 「全系苹果 S6E 存储方案」 ◇ 3nm 工艺 ◇ PCIe 5.0 × 1 ◇ 理论可达 UFS 5.0 级速度 ◇ 功耗约…",
           "keyPoints": [
-            "电池 / 充电",
-            "爆料来源"
+            "芯片 / 性能"
           ],
-          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "auto-d4d9e0754fb3",
-          "title": "抢跑苹果官方：奢侈品牌 Caviar 官宣定制版 iPhone Ultra 折叠屏手机，13840 美元起",
-          "originalTitle": "",
-          "source": "IT之家",
-          "brand": "iPhone",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-07-04",
-          "time": "03:56",
-          "publishedAt": "2026-07-04T03:56:13.000Z",
-          "url": "https://www.ithome.com/0/972/521.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/7/87de9412-bee0-425b-9eb0-0335d6343773.png?x-bce-process=image/format,f_auto",
-          "verdict": "先看",
-          "takeaway": "IT之家 7 月 4 日消息，在苹果正式官宣折叠屏 iPhone 之前，奢华设备定制商 Caviar 就已经提前展开布局。Caviar 根据供应链传闻和泄露渲染图，围绕暂称 iPhone Ultra 的折叠屏设备推出“Flagship（旗舰）”定制系列。 “Flagship”系列共包括四款机型， 每款限量 19 部 。Caviar 表示，由于苹果高端产品的…",
-          "detail": "IT之家 7 月 4 日消息，在苹果正式官宣折叠屏 iPhone 之前，奢华设备定制商 Caviar 就已经提前展开布局。Caviar 根据供应链传闻和泄露渲染图，围绕暂称 iPhone Ultra 的折叠屏设备推出“Flagship（旗舰）”定制系列。 “Flagship”系列共包括四款机型， 每款限量 19 部 。Caviar 表示，由于苹果高端产品的…",
-          "keyPoints": [
-            "外观 / 配色 / 尺寸",
-            "屏幕形态",
-            "爆料来源"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "confidence": "可信度较高，但仍属于发布前线索。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
@@ -206,6 +180,29 @@ window.phoneRadarDaily = {
           "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "auto-a8ca70baecf1",
+          "title": "曝谷歌 Pixel 系列手机将迎重大底层升级，Linux 内核有望更新",
+          "originalTitle": "",
+          "source": "IT之家",
+          "brand": "Pixel",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-07-04",
+          "time": "06:53",
+          "publishedAt": "2026-07-04T06:53:52.000Z",
+          "url": "https://www.ithome.com/0/972/573.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/7/47e67e92-36c3-40d2-b1a9-798028415730.png?x-bce-process=image/format,f_auto",
+          "verdict": "先看",
+          "takeaway": "IT之家 7 月 4 日消息，据科技媒体 Android Police 前天报道，谷歌会不定期为 Pixel 系列手机升级 Linux 内核。虽然这种更新通常不会带来新功能，但往往能提升设备的流畅性、安全性。 据爆料人士 Mystic Leaks 所述，谷歌正计划为近期发布的 Pixel 手机升级 Linux 内核。其中 Pixel 7、8、9 系列机型有…",
+          "detail": "IT之家 7 月 4 日消息，据科技媒体 Android Police 前天报道，谷歌会不定期为 Pixel 系列手机升级 Linux 内核。虽然这种更新通常不会带来新功能，但往往能提升设备的流畅性、安全性。 据爆料人士 Mystic Leaks 所述，谷歌正计划为近期发布的 Pixel 手机升级 Linux 内核。其中 Pixel 7、8、9 系列机型有…",
+          "keyPoints": [
+            "爆料来源"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         }
       ]
     },
@@ -238,25 +235,25 @@ window.phoneRadarDaily = {
           "action": "中文源可以直接点开快读；看完只保留和购机有关的点。"
         },
         {
-          "id": "newsnow-b752ca46352d",
-          "title": "每次路上看到有人拿着iPhone air，我都要忍不住在心里说一句，真有品味，可惜我没有，因为我在等iPhone Air2代[捂脸]",
+          "id": "coolapk-user-1db37419eeb5",
+          "title": "竹本青：【iPhone 17系列 中国区最新销量曝光：已超3630万台】 7月4日，博主「RD观测」发布第三方统计数据：截…",
           "originalTitle": "",
-          "source": "酷安热榜",
+          "source": "竹本青",
           "brand": "iPhone",
           "type": "爆料",
-          "trust": "高关注爆料源",
+          "trust": "高可信爆料",
           "date": "2026-07-04",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://www.coolapk.com/feed/72630134",
-          "image": "",
+          "time": "12:09",
+          "publishedAt": "2026-07-04T12:09:37.000Z",
+          "url": "https://www.coolapk.com/feed/72648594",
+          "image": "http://image.coolapk.com/feed/2026/0704/20/4248714_9c1723af_6977_0042_71@2160x1666.jpg",
           "verdict": "先看",
-          "takeaway": "每次路上看到有人拿着iPhone air，我都要忍不住在心里说一句，真有品味，可惜我没有，因为我在等iPhone Air2代[捂脸]",
-          "detail": "每次路上看到有人拿着iPhone air，我都要忍不住在心里说一句，真有品味，可惜我没有，因为我在等iPhone Air2代[捂脸]",
+          "takeaway": "【iPhone 17系列 中国区最新销量曝光：已超3630万台】 7月4日，博主「RD观测」发布第三方统计数据：截至2026年第26周，iPhone 17系列在中国市场累计销量约3630.44万台。 前几周数据如下： 截至2026 W25 —— 约3538.55万 截至2026 W24 —— 约3433.98万 截至2026 W23 —— 约3320.36…",
+          "detail": "【iPhone 17系列 中国区最新销量曝光：已超3630万台】 7月4日，博主「RD观测」发布第三方统计数据：截至2026年第26周，iPhone 17系列在中国市场累计销量约3630.44万台。 前几周数据如下： 截至2026 W25 —— 约3538.55万 截至2026 W24 —— 约3433.98万 截至2026 W23 —— 约3320.36…",
           "keyPoints": [
             "爆料"
           ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "confidence": "可信度较高，但仍属于发布前线索。",
           "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         },
@@ -282,36 +279,6 @@ window.phoneRadarDaily = {
           "confidence": "官方内容，可直接作为已确认信息记录。",
           "impact": "可信度高，但如果不是配置/价格消息，只需要扫一眼。",
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        }
-      ]
-    },
-    {
-      "id": "market",
-      "title": "行业趋势",
-      "hint": "看方向，不急着当购买依据。",
-      "items": [
-        {
-          "id": "auto-20ca7b81e67a",
-          "title": "工信部：前 5 月规上电子信息制造业营收 7.52 万亿增 17.1%，手机产量 5.62 亿台",
-          "originalTitle": "",
-          "source": "IT之家",
-          "brand": "行业",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-07-04",
-          "time": "09:12",
-          "publishedAt": "2026-07-04T09:12:35.000Z",
-          "url": "https://www.ithome.com/0/972/612.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/5/a5e11881-ddde-422a-89e1-afe02c366669.jpg?x-bce-process=image/watermark,text_QUnnlJ_miJA,type_RlpMYW5UaW5nSGVpU0JHQg==,size_28,color_ffffffdd,skw_1,skc_00000051,g_7,blr_50,bls_50,x_11,y_11",
-          "verdict": "扫一眼",
-          "takeaway": "IT之家 7 月 4 日消息，工信部 7 月 3 日公布 2026 年 1-5 月我国电子信息制造业运行情况。2026 年 1-5 月，我国电子信息制造业生产增长较快，出口稳中有进，效益显著提升，投资增速加快，行业整体发展态势良好。 IT之家整理主要内容如下： 一、生产增长较快 1-5 月份，规模以上电子信息制造业增加值同比增长 14.6%，增速分别比同期…",
-          "detail": "IT之家 7 月 4 日消息，工信部 7 月 3 日公布 2026 年 1-5 月我国电子信息制造业运行情况。2026 年 1-5 月，我国电子信息制造业生产增长较快，出口稳中有进，效益显著提升，投资增速加快，行业整体发展态势良好。 IT之家整理主要内容如下： 一、生产增长较快 1-5 月份，规模以上电子信息制造业增加值同比增长 14.6%，增速分别比同期…",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "中文源可以直接点开快读；看完只保留和购机有关的点。"
         }
       ]
     }

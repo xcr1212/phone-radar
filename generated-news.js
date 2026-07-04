@@ -1,6 +1,86 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-07-04T10:24:54.921Z",
+  "updatedAt": "2026-07-04T13:56:55.074Z",
   "news": [
+    {
+      "id": "auto-52ac7648bbf5",
+      "title": "Redmi is reportedly working on a 7-inch performance phone",
+      "source": "Gizmochina",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-04",
+      "time": "13:42",
+      "publishedAt": "2026-07-04T13:42:22.000Z",
+      "url": "https://www.gizmochina.com/2026/07/04/redmi-7-inch-display-leak-large-screen-phone/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/06/Redmi-K90-Ultra-300x188.png?x44794",
+      "summary": "A new leak suggests that Xiaomi‘s sub-brand Redmi may be gearing up to release a phone with an unusually large 7-inch display. Words for this come from tipster Digital Chat Statio…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-ee2a51c5b808",
+      "title": "竹本青：【vivo X300E 详细配置曝光：1.5K中直屏，骁龙8 Gen5，中底潜望镜】 ▫️6.59\"1.5K OL…",
+      "source": "竹本青",
+      "brand": "vivo",
+      "model": "vivo 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-07-04",
+      "time": "13:21",
+      "publishedAt": "2026-07-04T13:21:47.000Z",
+      "url": "https://www.coolapk.com/feed/72649471",
+      "image": "http://image.coolapk.com/feed/2026/0704/21/4248714_1b950b6e_1305_894_255@1270x751.jpg",
+      "summary": "【vivo X300E 详细配置曝光：1.5K中直屏，骁龙8 Gen5，中底潜望镜】 ▫️6.59\"1.5K OLED直屏 ▫️骁龙8 Gen5处理器 ▫️7100mAh±电池+90W有线 前置｜50Mp 主摄｜50Mp 大底主摄 潜望｜50Mp IMX8中底 超广｜8Mp ▫️后置左上小方块Deco ▫️或配备金属中框、超声波指纹 ▫️厚7.99mm/重…",
+      "tags": [
+        "vivo",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "coolapk-user-b1b3a300e0ad",
+      "title": "JSCHEN小小狐：『曝 iPhone 18 Pro 1/2TB 版本采用 QLC 颗粒』 知名芯片分析师 Reptalicant 根…",
+      "source": "JSCHEN小小狐",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-07-04",
+      "time": "12:33",
+      "publishedAt": "2026-07-04T12:33:05.000Z",
+      "url": "https://www.coolapk.com/feed/72648889",
+      "image": "http://image.coolapk.com/feed/2026/0704/20/4702274_9861706b_8384_7412_642@1270x1314.jpg",
+      "summary": "『曝 iPhone 18 Pro 1/2TB 版本采用 QLC 颗粒』 知名芯片分析师 Reptalicant 根据此前印度最新泄露的相关原理图和 BOM 表，分析得到了 iPhone 18 Pro 的存储方案及规格，具体如下： 「全系苹果 S6E 存储方案」 ◇ 3nm 工艺 ◇ PCIe 5.0 × 1 ◇ 理论可达 UFS 5.0 级速度 ◇ 功耗约…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "coolapk-user-1db37419eeb5",
+      "title": "竹本青：【iPhone 17系列 中国区最新销量曝光：已超3630万台】 7月4日，博主「RD观测」发布第三方统计数据：截…",
+      "source": "竹本青",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-07-04",
+      "time": "12:09",
+      "publishedAt": "2026-07-04T12:09:37.000Z",
+      "url": "https://www.coolapk.com/feed/72648594",
+      "image": "http://image.coolapk.com/feed/2026/0704/20/4248714_9c1723af_6977_0042_71@2160x1666.jpg",
+      "summary": "【iPhone 17系列 中国区最新销量曝光：已超3630万台】 7月4日，博主「RD观测」发布第三方统计数据：截至2026年第26周，iPhone 17系列在中国市场累计销量约3630.44万台。 前几周数据如下： 截至2026 W25 —— 约3538.55万 截至2026 W24 —— 约3433.98万 截至2026 W23 —— 约3320.36…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "酷安博主"
+      ]
+    },
     {
       "id": "auto-fa1ea3751544",
       "title": "Huawei shows how Kirin 2026 chip can differ from Kirin 9030 Pro",
@@ -202,26 +282,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-a86b9120e054",
-      "title": "消息称国行苹果 iPhone 18 Pro Max 电池 5391mAh，增幅 11.78%",
-      "source": "IT之家",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-04",
-      "time": "05:15",
-      "publishedAt": "2026-07-04T05:15:35.000Z",
-      "url": "https://www.ithome.com/0/972/527.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/7/607e9055-b8e5-43f0-8e48-079cb880bc45.png?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 7 月 4 日消息，数码博主 @数码闲聊站 今天（7 月 4 日）发布微博，发现苹果电池供应商的 3C 入网信息， 透露苹果国行 iPhone 18 Pro 系列的电池信息。 IT之家附上推文内容如下： 刚刚查了苹果电池供应商的 3C 入网信息，iPhone 18 Pro 系列电池可能是这样？ iPhone 18 Pro—— 国行 4056mAh…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "coolapk-user-72b18dadfdf7",
       "title": "竹本青：【vivo X Fold6 首销日销量曝光：约为上代90%】 7月4日，博主「RD观测」分享第三方统计数据：viv…",
       "source": "竹本青",
@@ -259,46 +319,6 @@ window.phoneRadarAuto = {
         "iPhone",
         "爆料",
         "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-d4d9e0754fb3",
-      "title": "抢跑苹果官方：奢侈品牌 Caviar 官宣定制版 iPhone Ultra 折叠屏手机，13840 美元起",
-      "source": "IT之家",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-04",
-      "time": "03:56",
-      "publishedAt": "2026-07-04T03:56:13.000Z",
-      "url": "https://www.ithome.com/0/972/521.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/7/87de9412-bee0-425b-9eb0-0335d6343773.png?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 7 月 4 日消息，在苹果正式官宣折叠屏 iPhone 之前，奢华设备定制商 Caviar 就已经提前展开布局。Caviar 根据供应链传闻和泄露渲染图，围绕暂称 iPhone Ultra 的折叠屏设备推出“Flagship（旗舰）”定制系列。 “Flagship”系列共包括四款机型， 每款限量 19 部 。Caviar 表示，由于苹果高端产品的…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "coolapk-user-7b924e08b6b2",
-      "title": "竹本青：小米第三座青年公寓开放入住，累计已建成12栋公寓",
-      "source": "竹本青",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-07-04",
-      "time": "02:46",
-      "publishedAt": "2026-07-04T02:46:09.000Z",
-      "url": "https://www.coolapk.com/feed/72641715",
-      "image": "http://image.coolapk.com/feed/2026/0704/10/4248714_6425b14f_3159_0749_321@2000x1431.jpg",
-      "summary": "【小米第三座青年公寓开放入住，累计已建成12栋公寓、超4200套房源】 7月4日，小米公司宣布武汉小米青年公寓正式开放入住。这也是继北京、南京之后，小米落地的第三座青年公寓，累计已建成12栋公寓、建筑面积21万㎡、提供超4200套房源。 据介绍，小米青年公寓从设计初期便邀请员工参与共创，以工程师思维优化居住体验，旨在提升员工的幸福感，为有才华、有梦想的年轻…",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "酷安博主"
       ]
     },
     {
@@ -362,6 +382,26 @@ window.phoneRadarAuto = {
       ]
     },
     {
+      "id": "newsnow-5412e49608cd",
+      "title": "呜呜呜，以后再也不卖给江西的了，验货了之后直接给我手机后盖划了几刀，然后拍视频给我，然后拒绝签收了[流泪]。这种怎么破啊",
+      "source": "酷安热榜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-07-04",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/72642643",
+      "image": "",
+      "summary": "呜呜呜，以后再也不卖给江西的了，验货了之后直接给我手机后盖划了几刀，然后拍视频给我，然后拒绝签收了[流泪]。这种怎么破啊",
+      "tags": [
+        "行业",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
       "id": "newsnow-7acbf080c4f1",
       "title": "华为手机痛点不在芯片性能，而在于软件适配——个人观点，不喜勿喷。",
       "source": "酷安热榜",
@@ -382,27 +422,7 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-b752ca46352d",
-      "title": "每次路上看到有人拿着iPhone air，我都要忍不住在心里说一句，真有品味，可惜我没有，因为我在等iPhone Air2代[捂脸]",
-      "source": "酷安热榜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-07-04",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72630134",
-      "image": "",
-      "summary": "每次路上看到有人拿着iPhone air，我都要忍不住在心里说一句，真有品味，可惜我没有，因为我在等iPhone Air2代[捂脸]",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-bbff738b178f",
+      "id": "newsnow-b5a556ba85b1",
       "title": "曝霉霉婚礼上唯一允许带手机的人",
       "source": "微博热搜",
       "brand": "行业",
@@ -412,7 +432,7 @@ window.phoneRadarAuto = {
       "date": "2026-07-04",
       "time": "",
       "publishedAt": "",
-      "url": "https://s.weibo.com/weibo?q=%E6%9B%9D%E9%9C%89%E9%9C%89%E5%A9%9A%E7%A4%BC%E4%B8%8A%E5%94%AF%E4%B8%80%E5%85%81%E8%AE%B8%E5%B8%A6%E6%89%8B%E6%9C%BA%E7%9A%84%E4%BA%BA&t=31&band_rank=21&Refer=top",
+      "url": "https://s.weibo.com/weibo?q=%E6%9B%9D%E9%9C%89%E9%9C%89%E5%A9%9A%E7%A4%BC%E4%B8%8A%E5%94%AF%E4%B8%80%E5%85%81%E8%AE%B8%E5%B8%A6%E6%89%8B%E6%9C%BA%E7%9A%84%E4%BA%BA&t=31&band_rank=15&Refer=top",
       "image": "",
       "summary": "曝霉霉婚礼上唯一允许带手机的人",
       "tags": [
@@ -442,21 +462,21 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-0779053fd29b",
-      "title": "人形机器人的“iPhone时刻”来了吗",
-      "source": "今日头条热榜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
+      "id": "newsnow-1c558f314333",
+      "title": "曝赛琳娜是霉霉婚礼唯一能带手机者",
+      "source": "百度热搜",
+      "brand": "行业",
+      "model": "智能手机市场",
       "type": "爆料",
       "trust": "媒体汇总",
       "date": "2026-07-04",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.toutiao.com/trending/7658500001101778458/",
+      "url": "https://www.baidu.com/s?wd=%E6%9B%9D%E8%B5%9B%E7%90%B3%E5%A8%9C%E6%98%AF%E9%9C%89%E9%9C%89%E5%A9%9A%E7%A4%BC%E5%94%AF%E4%B8%80%E8%83%BD%E5%B8%A6%E6%89%8B%E6%9C%BA%E8%80%85",
       "image": "",
-      "summary": "人形机器人的“iPhone时刻”来了吗",
+      "summary": "曝赛琳娜是霉霉婚礼唯一能带手机者",
       "tags": [
-        "iPhone",
+        "行业",
         "爆料",
         "NewsNow"
       ]
@@ -695,46 +715,6 @@ window.phoneRadarAuto = {
       "url": "https://www.androidpolice.com/after-using-galaxy-flip-7-im-not-buying-the-flip-8-unless-samsung-fixes-this/",
       "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2026/06/samsung-galaxy-z-flip-7-cover-display-widget.jpg",
       "summary": "The next-gen flip phone only needs a few refinements to become a worthy successor",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-fbb15ff3d640",
-      "title": "The Pixel 10 can now be yours for $250",
-      "source": "Android Police",
-      "brand": "Pixel",
-      "model": "Pixel 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-03",
-      "time": "10:04",
-      "publishedAt": "2026-07-03T10:04:13.000Z",
-      "url": "https://www.androidpolice.com/the-pixel-10-can-now-be-your-for-250/",
-      "image": "",
-      "summary": "US Mobile is doing it big with this discount",
-      "tags": [
-        "Pixel",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-7cb61094d870",
-      "title": "Samsung Galaxy S27 may copy the iPhone's best selfie camera trick",
-      "source": "Android Police",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-03",
-      "time": "09:54",
-      "publishedAt": "2026-07-03T09:54:39.000Z",
-      "url": "https://www.androidpolice.com/samsung-galaxy-s27-may-copy-iphones-best-selfie-camera-trick/",
-      "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2026/03/galaxy-s26-ultra-screen.JPG",
-      "summary": "A square-shaped front camera",
       "tags": [
         "Samsung",
         "爆料",
