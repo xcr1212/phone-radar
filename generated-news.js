@@ -1,6 +1,106 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-07-04T07:13:44.489Z",
+  "updatedAt": "2026-07-04T10:24:54.921Z",
   "news": [
+    {
+      "id": "auto-fa1ea3751544",
+      "title": "Huawei shows how Kirin 2026 chip can differ from Kirin 9030 Pro",
+      "source": "Huawei Central",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-04",
+      "time": "09:13",
+      "publishedAt": "2026-07-04T09:13:21.000Z",
+      "url": "https://www.huaweicentral.com/huawei-shows-how-kirin-2026-chip-can-differ-from-kirin-9030-pro/",
+      "image": "https://www.huaweicentral.com/wp-content/uploads/2026/07/chip-tech.jpg",
+      "summary": "Huawei is developing Kirin 2026 chip, and ahead of its official debut with the Mate 90 series, the company has revealed how the new mobile SoC differs from the Kirin 9030 Pro. It…",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-20ca7b81e67a",
+      "title": "工信部：前 5 月规上电子信息制造业营收 7.52 万亿增 17.1%，手机产量 5.62 亿台",
+      "source": "IT之家",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-04",
+      "time": "09:12",
+      "publishedAt": "2026-07-04T09:12:35.000Z",
+      "url": "https://www.ithome.com/0/972/612.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/5/a5e11881-ddde-422a-89e1-afe02c366669.jpg?x-bce-process=image/watermark,text_QUnnlJ_miJA,type_RlpMYW5UaW5nSGVpU0JHQg==,size_28,color_ffffffdd,skw_1,skc_00000051,g_7,blr_50,bls_50,x_11,y_11",
+      "summary": "IT之家 7 月 4 日消息，工信部 7 月 3 日公布 2026 年 1-5 月我国电子信息制造业运行情况。2026 年 1-5 月，我国电子信息制造业生产增长较快，出口稳中有进，效益显著提升，投资增速加快，行业整体发展态势良好。 IT之家整理主要内容如下： 一、生产增长较快 1-5 月份，规模以上电子信息制造业增加值同比增长 14.6%，增速分别比同期…",
+      "tags": [
+        "行业",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-50863009bc23",
+      "title": "消息称一加迭代新机测试 2 亿主摄、5000 万潜望长焦，预计为一加 16",
+      "source": "IT之家",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-04",
+      "time": "08:59",
+      "publishedAt": "2026-07-04T08:59:28.000Z",
+      "url": "https://www.ithome.com/0/972/608.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/7/a25d58b1-6ae7-41db-bc18-c8ca3cfd4e7e.png?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 7 月 4 日消息，博主 @数码闲聊站 昨日曝光了一加迭代新机的影像规格，评论区网友推测为一加 16。 据其爆料，该机测试 200Mp 1/1.4\" 大底主摄 +50Mp 小底超广角 +50Mp 3.5X 小底潜望长焦，采用母系影像同款影调。该博主反问：“如果最后选了这套镜头方案，可以接受吗？”。 IT之家注意到，该博主今年 5 月曾曝光子系品牌…",
+      "tags": [
+        "OPPO",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-9fc9583b1499",
+      "title": "坚决杜绝用手机布置作业，教育部部署中小学、幼儿园暑期工作",
+      "source": "IT之家",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-04",
+      "time": "08:11",
+      "publishedAt": "2026-07-04T08:11:36.000Z",
+      "url": "https://www.ithome.com/0/972/602.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/7/a54fc537-5c47-4bed-ac5a-6706c4da2d1e.jpg?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 7 月 4 日消息，7 月 3 日，教育部办公厅印发《关于做好 2026 年中小学、幼儿园暑期安全工作的通知》进行部署。除了常规的安全提醒外，教育部还提到坚决杜绝用手机布置作业。 《通知》要求，严格作业考试管理，落实“双减”有关政策要求，严控暑期作业总量， 坚决杜绝用手机布置作业、要求学生利用手机完成作业或要求家长检查批改作业等现象 ，严禁在暑期…",
+      "tags": [
+        "行业",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-d09989585977",
+      "title": "Huawei Mate 90 Pro Max/RS can get surprising selfie camera upgrade",
+      "source": "Huawei Central",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-04",
+      "time": "07:22",
+      "publishedAt": "2026-07-04T07:22:59.000Z",
+      "url": "https://www.huaweicentral.com/huawei-mate-90-pro-max-rs-selfie-camera-upgrade/",
+      "image": "https://www.huaweicentral.com/wp-content/uploads/2026/07/camera-leak.jpg",
+      "summary": "Huawei could upgrade the selfie camera on its upcoming flagship series models – Mate 90 Pro Max and RS Ultimate. According to a new leak, the tech giant is exploring some incredib…",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-257bdc792fc3",
       "title": "消息称某厂子系将推 7 英寸巨屏性能机，预计为小米 REDMI",
@@ -122,26 +222,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "weibo-921a3da394de",
-      "title": "数码闲聊站：几个月前的供应链信息，iPhone 18 Pro Max国行版电池会来到500…",
-      "source": "数码闲聊站",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-07-04",
-      "time": "04:26",
-      "publishedAt": "2026-07-04T04:26:00.000Z",
-      "url": "https://weibo.com/6048569942/R76vS6HYz",
-      "image": "https://tvax2.sinaimg.cn/mw2000/006BlblIgy1ierosed89qj30xv0gxgrd.jpg",
-      "summary": "几个月前的供应链信息，iPhone 18 Pro Max国行版电池会来到5000mAh档位，如果最终落点是5391mAh，配合2nm A20 Pro，续航估计会有明显提升，单品销量估计也会很恐怖…… Tips：iPhone 17 Pro Max国行单品激活1500W+，iPhone 17 Pro国行单品激活1000W，iPhone 17国行单品激活1100…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "微博"
-      ]
-    },
-    {
       "id": "coolapk-user-72b18dadfdf7",
       "title": "竹本青：【vivo X Fold6 首销日销量曝光：约为上代90%】 7月4日，博主「RD观测」分享第三方统计数据：viv…",
       "source": "竹本青",
@@ -203,7 +283,7 @@ window.phoneRadarAuto = {
     },
     {
       "id": "coolapk-user-7b924e08b6b2",
-      "title": "竹本青：【小米第三座青年公寓开放入住，累计已建成12栋公寓、超4200套房源】 7月4日，小米公司宣布武汉小米青年公寓正式…",
+      "title": "竹本青：小米第三座青年公寓开放入住，累计已建成12栋公寓",
       "source": "竹本青",
       "brand": "Xiaomi",
       "model": "Xiaomi 相关机型",
@@ -219,26 +299,6 @@ window.phoneRadarAuto = {
         "Xiaomi",
         "爆料",
         "酷安博主"
-      ]
-    },
-    {
-      "id": "weibo-4fdf87bb2b71",
-      "title": "数码闲聊站：vivo X300E详细参数，感受一下： 6.59英寸1.5K OLED直屏，…",
-      "source": "数码闲聊站",
-      "brand": "vivo",
-      "model": "vivo 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-07-04",
-      "time": "02:35",
-      "publishedAt": "2026-07-04T02:35:00.000Z",
-      "url": "https://weibo.com/6048569942/R75MOvC1y",
-      "image": "https://tvax2.sinaimg.cn/mw2000/006BlblIgy1ierngbsxxtj30xu0s4doh.jpg",
-      "summary": "vivo X300E详细参数，感受一下： 6.59英寸1.5K OLED直屏，骁龙8 Gen5处理器，前置50Mp，后置50Mp大底主摄+8Mp超广角+50Mp IMX8中底潜望镜，蔡司影像，7015mAh/7100mAh±电池+90W快充，左上角小方块Deco，金属中框？超声波指纹？7.99mm/203g",
-      "tags": [
-        "vivo",
-        "爆料",
-        "微博"
       ]
     },
     {
@@ -263,7 +323,7 @@ window.phoneRadarAuto = {
     },
     {
       "id": "coolapk-user-93fd53f87274",
-      "title": "JSCHEN小小狐：『博主分析 iPhone 18 Pro 系列电池入网信息』 知名数码博主 数码闲聊站 发博表示，根据苹果电池供应商…",
+      "title": "JSCHEN小小狐：博主分析 iPhone 18 Pro 系列电池入网信息",
       "source": "JSCHEN小小狐",
       "brand": "iPhone",
       "model": "iPhone 相关机型",
@@ -279,46 +339,6 @@ window.phoneRadarAuto = {
         "iPhone",
         "爆料",
         "酷安博主"
-      ]
-    },
-    {
-      "id": "weibo-6167712e475b",
-      "title": "数码闲聊站：刚刚查了苹果电池供应商的3C入网信息，iPhone 18 Pro系列电池可能是…",
-      "source": "数码闲聊站",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-07-04",
-      "time": "01:06",
-      "publishedAt": "2026-07-04T01:06:13.000Z",
-      "url": "https://weibo.com/6048569942/R75cMohOS",
-      "image": "https://tvax3.sinaimg.cn/mw2000/006BlblIgy1ierogucwc7j31bx1hjqh0.jpg",
-      "summary": "刚刚查了苹果电池供应商的3C入网信息，iPhone 18 Pro系列电池可能是这样？ iPhone 18 Pro——国行4056mAh/美版4288mAh iPhone 17 Pro——国行3988mAh/美版4252mAh iPhone 18 Pro Max——国行5391mAh/美版5567mAh iPhone 17 Pro Max——国行4823mA…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "微博"
-      ]
-    },
-    {
-      "id": "auto-1cd3caccd0c6",
-      "title": "微软 Edge 150 浏览器稳定版发布：支持谷歌账号登录",
-      "source": "IT之家",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-04",
-      "time": "00:08",
-      "publishedAt": "2026-07-04T00:08:53.000Z",
-      "url": "https://www.ithome.com/0/972/479.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/7/e81db78d-d6f2-4793-b3ee-91fd6d4b3652.jpg",
-      "summary": "IT之家 7 月 4 日消息，科技媒体 Windows Central 昨日（7 月 3 日）发布博文，报道称在 Microsoft Edge 150.0.4078.48 浏览器稳定版中， 微软开放谷歌账号登录。 在支持平台方面，IT之家援引博文介绍，Edge 150 是支持苹果 macOS 12 Monterey 系统的最后一个版本，151 及后续版本门…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
       ]
     },
     {
@@ -382,7 +402,7 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-d4b2ab418ed9",
+      "id": "newsnow-bbff738b178f",
       "title": "曝霉霉婚礼上唯一允许带手机的人",
       "source": "微博热搜",
       "brand": "行业",
@@ -392,12 +412,32 @@ window.phoneRadarAuto = {
       "date": "2026-07-04",
       "time": "",
       "publishedAt": "",
-      "url": "https://s.weibo.com/weibo?q=%E6%9B%9D%E9%9C%89%E9%9C%89%E5%A9%9A%E7%A4%BC%E4%B8%8A%E5%94%AF%E4%B8%80%E5%85%81%E8%AE%B8%E5%B8%A6%E6%89%8B%E6%9C%BA%E7%9A%84%E4%BA%BA&t=31&band_rank=13&Refer=top",
+      "url": "https://s.weibo.com/weibo?q=%E6%9B%9D%E9%9C%89%E9%9C%89%E5%A9%9A%E7%A4%BC%E4%B8%8A%E5%94%AF%E4%B8%80%E5%85%81%E8%AE%B8%E5%B8%A6%E6%89%8B%E6%9C%BA%E7%9A%84%E4%BA%BA&t=31&band_rank=21&Refer=top",
       "image": "",
       "summary": "曝霉霉婚礼上唯一允许带手机的人",
       "tags": [
         "行业",
         "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-3589f03802ba",
+      "title": "如何看待苹果手机信息泄露，程度堪比马圣开源？",
+      "source": "知乎热榜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "市场报告",
+      "trust": "媒体汇总",
+      "date": "2026-07-04",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.zhihu.com/question/2055966649900183829",
+      "image": "",
+      "summary": "如何看待苹果手机信息泄露，程度堪比马圣开源？",
+      "tags": [
+        "iPhone",
+        "市场报告",
         "NewsNow"
       ]
     },
@@ -422,21 +462,21 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-fc84a474206b",
-      "title": "一天3款新车上市 造手机的都沉默了",
-      "source": "百度热搜",
-      "brand": "行业",
-      "model": "智能手机市场",
+      "id": "newsnow-2138bfac603a",
+      "title": "印度正调查泄密iPhone事件",
+      "source": "抖音热点",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
       "type": "爆料",
-      "trust": "媒体汇总",
+      "trust": "待验证",
       "date": "2026-07-04",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.baidu.com/s?wd=%E4%B8%80%E5%A4%A93%E6%AC%BE%E6%96%B0%E8%BD%A6%E4%B8%8A%E5%B8%82+%E9%80%A0%E6%89%8B%E6%9C%BA%E7%9A%84%E9%83%BD%E6%B2%89%E9%BB%98%E4%BA%86",
+      "url": "https://www.douyin.com/hot/2557979",
       "image": "",
-      "summary": "一天3款新车上市 造手机的都沉默了",
+      "summary": "印度正调查泄密iPhone事件",
       "tags": [
-        "行业",
+        "iPhone",
         "爆料",
         "NewsNow"
       ]
@@ -517,26 +557,6 @@ window.phoneRadarAuto = {
       "summary": "On paper, the upcoming Pixel 11 series looks like more of the same. For the modern smartphone enthusiast, “more of the same” usually triggers an immediate eye-roll. Are we setting…",
       "tags": [
         "Pixel",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-5250d993c63b",
-      "title": "Huawei Pura phones to create problems for Apple by skipping price hike",
-      "source": "Huawei Central",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-03",
-      "time": "13:30",
-      "publishedAt": "2026-07-03T13:30:49.000Z",
-      "url": "https://www.huaweicentral.com/huawei-pura-phones-price-hike/",
-      "image": "https://www.huaweicentral.com/wp-content/uploads/2026/06/Pura-70-Ultra.jpg",
-      "summary": "July 2026 is here and Huawei announced “price hike” adoption for its devices but it looks like Pura phones may not undergo this challenge. A new input suggests that the company co…",
-      "tags": [
-        "Huawei",
         "爆料",
         "自动抓取"
       ]
@@ -682,26 +702,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-dc3ca6c45359",
-      "title": "Huawei Pura X Max Collector’s Edition selling better than base version",
-      "source": "Huawei Central",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-03",
-      "time": "10:18",
-      "publishedAt": "2026-07-03T10:18:05.000Z",
-      "url": "https://www.huaweicentral.com/huawei-pura-x-max-collectors-edition-selling-better/",
-      "image": "https://www.huaweicentral.com/wp-content/uploads/2026/04/PuraXMax-imag.jpg",
-      "summary": "Huawei Pura X Max has debuted as the wide foldable champion in the market but it looks like its Collector’s Edition is selling better than the vanilla version. A new market report…",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-fbb15ff3d640",
       "title": "The Pixel 10 can now be yours for $250",
       "source": "Android Police",
@@ -779,26 +779,6 @@ window.phoneRadarAuto = {
         "Samsung",
         "评测",
         "自动抓取"
-      ]
-    },
-    {
-      "id": "weibo-3591339bd12c",
-      "title": "数码闲聊站：独家信息：除了2nm性能机的新开大直屏6.89英寸2K+185Hz，7英寸18…",
-      "source": "数码闲聊站",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-07-03",
-      "time": "09:06",
-      "publishedAt": "2026-07-03T09:06:00.000Z",
-      "url": "https://weibo.com/6048569942/R6YV1yPZX",
-      "image": "",
-      "summary": "独家信息，除了2nm性能机的新开大直屏6.89英寸2K+185Hz，7英寸185Hz超大直屏最近也开案了，新机等我再摸摸，耀子懂你们需求吧[二哈]",
-      "tags": [
-        "行业",
-        "爆料",
-        "微博"
       ]
     },
     {
@@ -982,26 +962,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "weibo-c7a221baa2d7",
-      "title": "数码闲聊站：200Mp 1/1.4\"大底主摄+50Mp小底超广角+50Mp 3.5X小底潜…",
-      "source": "数码闲聊站",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-07-03",
-      "time": "05:41",
-      "publishedAt": "2026-07-03T05:41:08.000Z",
-      "url": "https://weibo.com/6048569942/R6XzSrQlL",
-      "image": "https://tvax4.sinaimg.cn/mw2000/006BlblIgy1ieqqsr1f68j30xu0ej78z.jpg",
-      "summary": "200Mp 1/1.4\"大底主摄+50Mp小底超广角+50Mp 3.5X小底潜望长焦，母系影像同款影调，如果最后选了这套镜头方案，可以接受吗[NO]",
-      "tags": [
-        "行业",
-        "爆料",
-        "微博"
-      ]
-    },
-    {
       "id": "auto-744bfe3bded2",
       "title": "Redmi K100 Pro Max may debut in 2027, while August launch may see Redmi K100, K100 Pro",
       "source": "Gizmochina",
@@ -1039,26 +999,6 @@ window.phoneRadarAuto = {
         "Xiaomi",
         "爆料",
         "酷安博主"
-      ]
-    },
-    {
-      "id": "weibo-0c149ae95bb0",
-      "title": "数码闲聊站：独家信息：子系新旗舰的质感有加强，除了果味大R角纯直屏+横向大矩阵金属Deco…",
-      "source": "数码闲聊站",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-07-03",
-      "time": "04:15",
-      "publishedAt": "2026-07-03T04:15:45.000Z",
-      "url": "https://weibo.com/6048569942/R6X1dhNK7",
-      "image": "",
-      "summary": "独家信息，子系新旗舰的质感有加强，除了果味大R角纯直屏+横向大矩阵金属Deco，工程机配色参考iPhone 18 Pro系列，同时金属中框和玻璃背板也做了同色处理，全面对标hhhhh~",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "微博"
       ]
     },
     {
@@ -1119,46 +1059,6 @@ window.phoneRadarAuto = {
         "vivo",
         "爆料",
         "自动抓取"
-      ]
-    },
-    {
-      "id": "weibo-cd1653ee140b",
-      "title": "数码闲聊站：独家信息：中杯工程机影像是50Mp 1/1.28\" Sony超大底主摄+50M…",
-      "source": "数码闲聊站",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-07-03",
-      "time": "02:38",
-      "publishedAt": "2026-07-03T02:38:00.000Z",
-      "url": "https://weibo.com/6048569942/R6WnxmMAn",
-      "image": "",
-      "summary": "独家信息，中杯工程机影像是50Mp 1/1.28\" Sony超大底主摄+50Mp小底超广角+64Mp 1/2\" Sony中底潜望长焦，70mm焦段，长焦微距待确定，大概率有，这套方案够用吗[笑哈哈]",
-      "tags": [
-        "行业",
-        "爆料",
-        "微博"
-      ]
-    },
-    {
-      "id": "weibo-0e3d88c0f556",
-      "title": "数码闲聊站：独家信息：子系性能线迭代新机，工程机有骁龙8E5(SM8850)、骁龙8E5…",
-      "source": "数码闲聊站",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-07-03",
-      "time": "01:09",
-      "publishedAt": "2026-07-03T01:09:04.000Z",
-      "url": "https://weibo.com/6048569942/R6VNruoPH",
-      "image": "",
-      "summary": "独家信息，子系性能线迭代新机，工程机有骁龙8E5(SM8850)、骁龙8E5 XX版(SM8850Q)，6.78\"1.5K 185Hz超高刷直屏，9000mAh±电池，100/120W满血闪充，风扇散热，简约ID[NO] Pro可能会上一颗50Mp 3.5X JN5潜望镜(待定)",
-      "tags": [
-        "行业",
-        "爆料",
-        "微博"
       ]
     },
     {
