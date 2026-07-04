@@ -1,5 +1,5 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-07-04T17:18:29.388Z",
+  "updatedAt": "2026-07-04T19:35:41.548Z",
   "news": [
     {
       "id": "auto-4dd6cdd881d4",
@@ -362,46 +362,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-5412e49608cd",
-      "title": "呜呜呜，以后再也不卖给江西的了，验货了之后直接给我手机后盖划了几刀，然后拍视频给我，然后拒绝签收了[流泪]。这种怎么破啊",
-      "source": "酷安热榜",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-07-04",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72642643",
-      "image": "",
-      "summary": "呜呜呜，以后再也不卖给江西的了，验货了之后直接给我手机后盖划了几刀，然后拍视频给我，然后拒绝签收了[流泪]。这种怎么破啊",
-      "tags": [
-        "行业",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-7acbf080c4f1",
-      "title": "华为手机痛点不在芯片性能，而在于软件适配——个人观点，不喜勿喷。",
-      "source": "酷安热榜",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-07-04",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72636165",
-      "image": "",
-      "summary": "华为手机痛点不在芯片性能，而在于软件适配——个人观点，不喜勿喷。",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
       "id": "newsnow-bf9f25c8df25",
       "title": "K90至尊就是目前最流畅的澎湃，最流畅的米系手机，彻底解决了K90 Pro Max和小米17全系列日用极其容易发烫，发烫后掉帧卡顿的问题，主动散热就是力大飞砖，这流畅度在米系机型里面确实是登顶了，跟天玑9500的K90 max相比，至尊更流畅，max续航更好。",
       "source": "酷安热榜",
@@ -417,6 +377,26 @@ window.phoneRadarAuto = {
       "summary": "K90至尊就是目前最流畅的澎湃，最流畅的米系手机，彻底解决了K90 Pro Max和小米17全系列日用极其容易发烫，发烫后掉帧卡顿的问题，主动散热就是力大飞砖，这流畅度在米系机型里面确实是登顶了，跟天玑9500的K90 max相比，至尊更流畅，max续航更好。",
       "tags": [
         "Xiaomi",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-32b6eab83716",
+      "title": "我还是觉得vivo出片啊#vivoX300Ultra#这玩意咋还不让发",
+      "source": "酷安热榜",
+      "brand": "vivo",
+      "model": "vivo 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-07-04",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/72645046",
+      "image": "",
+      "summary": "我还是觉得vivo出片啊#vivoX300Ultra#这玩意咋还不让发",
+      "tags": [
+        "vivo",
         "爆料",
         "NewsNow"
       ]
@@ -482,7 +462,7 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-0bdea819b6b1",
+      "id": "auto-cd64f01609fb",
       "title": "Did Apple just push Samsung into upgrading its specs?",
       "source": "SamMobile",
       "brand": "Samsung",
@@ -492,7 +472,7 @@ window.phoneRadarAuto = {
       "date": "2026-07-03",
       "time": "23:30",
       "publishedAt": "2026-07-03T23:30:36.000Z",
-      "url": "https://www.sammobile.com/news/did-apple-just-push-samsung-into-upgrading-its-specs/",
+      "url": "https://www.sammobile.com/opinion/did-apple-just-push-samsung-into-upgrading-its-specs/",
       "image": "",
       "summary": "According to recent rumors, the iPhone 18 series will pack bigger batteries than the Galaxy S26 series, and possibly even next year's Galaxy S27 series. Apple, the company that sp…",
       "tags": [
