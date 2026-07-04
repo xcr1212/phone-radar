@@ -1,6 +1,186 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-07-04T04:00:49.188Z",
+  "updatedAt": "2026-07-04T07:13:44.489Z",
   "news": [
+    {
+      "id": "auto-257bdc792fc3",
+      "title": "消息称某厂子系将推 7 英寸巨屏性能机，预计为小米 REDMI",
+      "source": "IT之家",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-04",
+      "time": "07:02",
+      "publishedAt": "2026-07-04T07:02:32.000Z",
+      "url": "https://www.ithome.com/0/972/578.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/7/f7ec16af-23b0-43f6-8580-c0ecb05e50f4.png",
+      "summary": "IT之家 7 月 4 日消息，据博主 @数码闲聊站 今日爆料，某厂子系下一代将推出 6.59 英寸中屏 Pro、 7 英寸巨屏性能机 。结合该博主此前的爆料习惯，预计为小米 REDMI 品牌。 IT之家注意到，该博主今年 2 月曾爆料有 2 家厂商在评估 7 英寸巨屏新机，不过并未透露具体品牌名称以及产品型号。随后，该博主在 4 月 2 日爆料，某厂子系迭…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-a8ca70baecf1",
+      "title": "曝谷歌 Pixel 系列手机将迎重大底层升级，Linux 内核有望更新",
+      "source": "IT之家",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-04",
+      "time": "06:53",
+      "publishedAt": "2026-07-04T06:53:52.000Z",
+      "url": "https://www.ithome.com/0/972/573.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/7/47e67e92-36c3-40d2-b1a9-798028415730.png?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 7 月 4 日消息，据科技媒体 Android Police 前天报道，谷歌会不定期为 Pixel 系列手机升级 Linux 内核。虽然这种更新通常不会带来新功能，但往往能提升设备的流畅性、安全性。 据爆料人士 Mystic Leaks 所述，谷歌正计划为近期发布的 Pixel 手机升级 Linux 内核。其中 Pixel 7、8、9 系列机型有…",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-35adf37c0137",
+      "title": "JSCHEN小小狐：『博主汇总 vivo X300E 详细参数: 骁龙8 Gen5』 ◇ 6.59 英寸 1.5K LTPS OLED…",
+      "source": "JSCHEN小小狐",
+      "brand": "vivo",
+      "model": "vivo 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-07-04",
+      "time": "06:20",
+      "publishedAt": "2026-07-04T06:20:38.000Z",
+      "url": "https://www.coolapk.com/feed/72644401",
+      "image": "http://image.coolapk.com/feed/2026/0704/14/4702274_f5d8f8ae_6036_8609_522@1440x833.jpg",
+      "summary": "『博主汇总 vivo X300E 详细参数: 骁龙8 Gen5』 ◇ 6.59 英寸 1.5K LTPS OLED 直屏 ◇ 骁龙 8 Gen5 移动平台 ◇ 50Mp 1/1.56'' 大底主摄 ◇ 50Mp 1/1.95'' IMX8 中底潜望 ◇ 8Mp 超广角 + 前置 50Mp，蔡司影像 ◇ 7015mAh/7100mAh± 电池，90W 快充…",
+      "tags": [
+        "vivo",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-36cbfd50da08",
+      "title": "Vivo X300e full specifications leak: Snapdragon 8 Gen 5, Zeiss cameras, and a massive Battery",
+      "source": "Gizmochina",
+      "brand": "vivo",
+      "model": "vivo 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-04",
+      "time": "06:15",
+      "publishedAt": "2026-07-04T06:15:40.000Z",
+      "url": "https://www.gizmochina.com/2026/07/04/vivo-x300e-full-specifications-leak-snapdragon-8-gen-5-zeiss-cameras-and-a-massive-battery/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/06/Vivo-X300-FE-green--225x300.jpg?x44794",
+      "summary": "The Vivo X300 series is big, with five models already in the lineup. The company, however, isn’t done yet. We previously reported that the X300e appeared in the IMEI database alon…",
+      "tags": [
+        "vivo",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-8eb040266f90",
+      "title": "Huawei could use 200MP self-developed main camera for Mate 90",
+      "source": "Huawei Central",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-04",
+      "time": "06:11",
+      "publishedAt": "2026-07-04T06:11:07.000Z",
+      "url": "https://www.huaweicentral.com/huawei-mate-90-200mp-main-camera/",
+      "image": "https://www.huaweicentral.com/wp-content/uploads/2026/07/camera-leak.jpg",
+      "summary": "Huawei Mate 90 series is in the development phase, and the company could use a self-developed 200MP main camera for this flagship alongside cutting-edge imaging technologies. A ne…",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-a86b9120e054",
+      "title": "消息称国行苹果 iPhone 18 Pro Max 电池 5391mAh，增幅 11.78%",
+      "source": "IT之家",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-04",
+      "time": "05:15",
+      "publishedAt": "2026-07-04T05:15:35.000Z",
+      "url": "https://www.ithome.com/0/972/527.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/7/607e9055-b8e5-43f0-8e48-079cb880bc45.png?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 7 月 4 日消息，数码博主 @数码闲聊站 今天（7 月 4 日）发布微博，发现苹果电池供应商的 3C 入网信息， 透露苹果国行 iPhone 18 Pro 系列的电池信息。 IT之家附上推文内容如下： 刚刚查了苹果电池供应商的 3C 入网信息，iPhone 18 Pro 系列电池可能是这样？ iPhone 18 Pro—— 国行 4056mAh…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "weibo-921a3da394de",
+      "title": "数码闲聊站：几个月前的供应链信息，iPhone 18 Pro Max国行版电池会来到500…",
+      "source": "数码闲聊站",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-07-04",
+      "time": "04:26",
+      "publishedAt": "2026-07-04T04:26:00.000Z",
+      "url": "https://weibo.com/6048569942/R76vS6HYz",
+      "image": "https://tvax2.sinaimg.cn/mw2000/006BlblIgy1ierosed89qj30xv0gxgrd.jpg",
+      "summary": "几个月前的供应链信息，iPhone 18 Pro Max国行版电池会来到5000mAh档位，如果最终落点是5391mAh，配合2nm A20 Pro，续航估计会有明显提升，单品销量估计也会很恐怖…… Tips：iPhone 17 Pro Max国行单品激活1500W+，iPhone 17 Pro国行单品激活1000W，iPhone 17国行单品激活1100…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "微博"
+      ]
+    },
+    {
+      "id": "coolapk-user-72b18dadfdf7",
+      "title": "竹本青：【vivo X Fold6 首销日销量曝光：约为上代90%】 7月4日，博主「RD观测」分享第三方统计数据：viv…",
+      "source": "竹本青",
+      "brand": "vivo",
+      "model": "vivo 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-07-04",
+      "time": "04:24",
+      "publishedAt": "2026-07-04T04:24:53.000Z",
+      "url": "https://www.coolapk.com/feed/72643004",
+      "image": "http://image.coolapk.com/feed/2026/0704/12/4248714_d14cfeb4_9093_0187_159@1272x660.jpg",
+      "summary": "【vivo X Fold6 首销日销量曝光：约为上代90%】 7月4日，博主「RD观测」分享第三方统计数据：vivo X Fold6 首销当日销量，约为前代X Fold5 同期的90%。 #今日热点# #vivoXFold6# #vivoXFold5#",
+      "tags": [
+        "vivo",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-2adbc3d85daf",
+      "title": "iPhone 18 Pro and Pro Max battery capacities confirmed via 3C certification",
+      "source": "Gizmochina",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-04",
+      "time": "04:21",
+      "publishedAt": "2026-07-04T04:21:00.000Z",
+      "url": "https://www.gizmochina.com/2026/07/04/iphone-18-pro-and-pro-max-battery-capacities-confirmed-via-3c-certification/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/02/iPhone-18-Pro-Deep-Red-Feature_l_large-300x168.jpg?x44794",
+      "summary": "New 3C certification filings for Apple’s upcoming iPhone 18 Pro and iPhone 18 Pro Max confirm their battery capacity, months before launch. These filings are usually a reliable so…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-d4d9e0754fb3",
       "title": "抢跑苹果官方：奢侈品牌 Caviar 官宣定制版 iPhone Ultra 折叠屏手机，13840 美元起",
@@ -23,7 +203,7 @@ window.phoneRadarAuto = {
     },
     {
       "id": "coolapk-user-7b924e08b6b2",
-      "title": "竹本青：【小米第三座青年公寓开放入住，累计已提供超4200套房源】 7月4日，小米公司宣布武汉小米青年公寓正式开放入住。这…",
+      "title": "竹本青：【小米第三座青年公寓开放入住，累计已建成12栋公寓、超4200套房源】 7月4日，小米公司宣布武汉小米青年公寓正式…",
       "source": "竹本青",
       "brand": "Xiaomi",
       "model": "Xiaomi 相关机型",
@@ -33,8 +213,8 @@ window.phoneRadarAuto = {
       "time": "02:46",
       "publishedAt": "2026-07-04T02:46:09.000Z",
       "url": "https://www.coolapk.com/feed/72641715",
-      "image": "http://image.coolapk.com/feed/2026/0704/10/4248714_28b82926_3159_0745_12@1271x1287.jpg",
-      "summary": "【小米第三座青年公寓开放入住，累计已提供超4200套房源】 7月4日，小米公司宣布武汉小米青年公寓正式开放入住。这也是继北京、南京之后，小米落地的第三座青年公寓，累计已建成12栋公寓、建筑面积21万㎡、提供超4200套房源。 据介绍，小米青年公寓从设计初期便邀请员工参与共创，以工程师思维优化居住体验，旨在提升员工的幸福感，为有才华、有梦想的年轻人，打造身心…",
+      "image": "http://image.coolapk.com/feed/2026/0704/10/4248714_6425b14f_3159_0749_321@2000x1431.jpg",
+      "summary": "【小米第三座青年公寓开放入住，累计已建成12栋公寓、超4200套房源】 7月4日，小米公司宣布武汉小米青年公寓正式开放入住。这也是继北京、南京之后，小米落地的第三座青年公寓，累计已建成12栋公寓、建筑面积21万㎡、提供超4200套房源。 据介绍，小米青年公寓从设计初期便邀请员工参与共创，以工程师思维优化居住体验，旨在提升员工的幸福感，为有才华、有梦想的年轻…",
       "tags": [
         "Xiaomi",
         "爆料",
@@ -202,28 +382,8 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-82c0c7b34f8f",
-      "title": "怎么还有人说我骗人啊，我再傻 我也不可能咒我自己得癌症吧，还有，我确实很喜欢用小米手机啊。有人就说我是博同情蜜✔，还有人说我根本没得病 是虚假热度，我现在给你们理一下。。我从读小学一年级的时候，我比同年级的所有同学都早读一年，也就导致我比所有同班同学的年龄都要大一岁，其次，我得病的时候差不多是五年级那个样子，毕竟这么久了，我也记不到太准确的时间线，五年级得病了以后，我就去治疗。治疗了以后，回到了同学校的六年级继续读，一直读到初一都没有复发，后边差不多是初一下学期中旬的那个样子，在学校出现了头晕呕吐的原因，当时去复查，就发现复发了。复发了就只能去治疗，治疗拖拖拖，拖了回来，还是继续读初一下册那个样子。但是那个时候就是一班新的同学了，因为我不能跟着以前的老同学继续读，而这之间相差差不多快两年的样子了，这也就导致我比同班同学又大了一岁，就是说大了两岁，然后我现在是在家休养的状态... 查看更多",
-      "source": "酷安热榜",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-07-04",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72629396",
-      "image": "",
-      "summary": "怎么还有人说我骗人啊，我再傻 我也不可能咒我自己得癌症吧，还有，我确实很喜欢用小米手机啊。有人就说我是博同情蜜✔，还有人说我根本没得病 是虚假热度，我现在给你们理一下。。我从读小学一年级的时候，我比同年级的所有同学都早读一年，也就导致我比所有同班同学的年龄都要大一岁，其次，我得病的时候差不多是五年级那个样子，毕竟这么久了，我也记不到太准确的时间线，五年级得…",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-cc5ce9c1322d",
-      "title": "迪丽热巴一出现全场的手机就醒了",
+      "id": "newsnow-d4b2ab418ed9",
+      "title": "曝霉霉婚礼上唯一允许带手机的人",
       "source": "微博热搜",
       "brand": "行业",
       "model": "智能手机市场",
@@ -232,9 +392,9 @@ window.phoneRadarAuto = {
       "date": "2026-07-04",
       "time": "",
       "publishedAt": "",
-      "url": "https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E4%B8%80%E5%87%BA%E7%8E%B0%E5%85%A8%E5%9C%BA%E7%9A%84%E6%89%8B%E6%9C%BA%E5%B0%B1%E9%86%92%E4%BA%86%23&t=31&band_rank=14&Refer=top",
+      "url": "https://s.weibo.com/weibo?q=%E6%9B%9D%E9%9C%89%E9%9C%89%E5%A9%9A%E7%A4%BC%E4%B8%8A%E5%94%AF%E4%B8%80%E5%85%81%E8%AE%B8%E5%B8%A6%E6%89%8B%E6%9C%BA%E7%9A%84%E4%BA%BA&t=31&band_rank=13&Refer=top",
       "image": "",
-      "summary": "迪丽热巴一出现全场的手机就醒了",
+      "summary": "曝霉霉婚礼上唯一允许带手机的人",
       "tags": [
         "行业",
         "爆料",
@@ -242,23 +402,43 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-d397c8443835",
-      "title": "苹果 iPhone Air 2 再曝：面容 ID 组件缩小为 48MP 双摄腾出空间，A20 Pro 芯片",
-      "source": "IT之家",
+      "id": "newsnow-0779053fd29b",
+      "title": "人形机器人的“iPhone时刻”来了吗",
+      "source": "今日头条热榜",
       "brand": "iPhone",
       "model": "iPhone 相关机型",
       "type": "爆料",
       "trust": "媒体汇总",
-      "date": "2026-07-03",
-      "time": "23:53",
-      "publishedAt": "2026-07-03T23:53:23.000Z",
-      "url": "https://www.ithome.com/0/972/476.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/7/259d0f3b-273f-452a-ba01-43753ce30c8b.jpg",
-      "summary": "IT之家 7 月 4 日消息，爆料人乔恩 · 普罗瑟（Jon Prosser）今天在最新一期 fpt.视频中为我们带来了 iPhone Air 2 最新情报，显示该机将新增第二颗后置摄像头，搭载 A20 Pro 芯片。 据介绍，iPhone Air 2 将使用与初代 iPhone Air 相同的钛合金机身，定位轻薄旗舰，配备 A20 Pro 芯片，而非此前…",
+      "date": "2026-07-04",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.toutiao.com/trending/7658500001101778458/",
+      "image": "",
+      "summary": "人形机器人的“iPhone时刻”来了吗",
       "tags": [
         "iPhone",
         "爆料",
-        "自动抓取"
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-fc84a474206b",
+      "title": "一天3款新车上市 造手机的都沉默了",
+      "source": "百度热搜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-04",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.baidu.com/s?wd=%E4%B8%80%E5%A4%A93%E6%AC%BE%E6%96%B0%E8%BD%A6%E4%B8%8A%E5%B8%82+%E9%80%A0%E6%89%8B%E6%9C%BA%E7%9A%84%E9%83%BD%E6%B2%89%E9%BB%98%E4%BA%86",
+      "image": "",
+      "summary": "一天3款新车上市 造手机的都沉默了",
+      "tags": [
+        "行业",
+        "爆料",
+        "NewsNow"
       ]
     },
     {
@@ -277,26 +457,6 @@ window.phoneRadarAuto = {
       "summary": "According to recent rumors, the iPhone 18 series will pack bigger batteries than the Galaxy S26 series, and possibly even next year's Galaxy S27 series. Apple, the company that sp…",
       "tags": [
         "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-28300dc6bdd7",
-      "title": "V2612A 新机入网：预估 vivo X300E 手机，7015mAh 电池",
-      "source": "IT之家",
-      "brand": "vivo",
-      "model": "vivo 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-03",
-      "time": "22:02",
-      "publishedAt": "2026-07-03T22:02:54.000Z",
-      "url": "https://www.ithome.com/0/972/463.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/7/b1688126-ffa1-4aa1-b28f-e527e306d30b.png?x-bce-process=image/format,f_auto",
-      "summary": "更新：消息源 @数码闲聊站 今天发布微博，预估该机为 vivo X300 E 手机。 IT之家 7 月 4 日消息，型号为 V2612A 的 vivo 5G 数字移动电话机已通过电信设备进网许可，暂未公布证件照。 图源：vivo 官网截图 IT之家查询公开资料，该型号对应 vivo S12 机型，于 2021 年 12 月发布，额定电池容量 4105mAh…",
-      "tags": [
-        "vivo",
         "爆料",
         "自动抓取"
       ]
@@ -357,26 +517,6 @@ window.phoneRadarAuto = {
       "summary": "On paper, the upcoming Pixel 11 series looks like more of the same. For the modern smartphone enthusiast, “more of the same” usually triggers an immediate eye-roll. Are we setting…",
       "tags": [
         "Pixel",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-d6f59d6e9054",
-      "title": "华为 Mate 80 Pro 性能解禁：麒麟 9030 Pro GPU 相比 9020 提升 76%，《原神》能效表现优于高通骁龙 8 Gen3",
-      "source": "IT之家",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-03",
-      "time": "15:10",
-      "publishedAt": "2026-07-03T15:10:03.000Z",
-      "url": "https://www.ithome.com/0/972/456.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/7/259d3251-7ab3-4f6e-816b-420dac2ba66e.jpg",
-      "summary": "IT之家 7 月 3 日消息，华为去年发布了 Mate 80 系列旗舰手机，搭载华为自研的麒麟 9030 及麒麟 9030 Pro 处理器。今日，B站 up 主 @极客湾 放出了一期针对华为 Mate 80 Pro 的性能分析报告。 据介绍，这两款芯片均基于同一种 Die，估算约有 150 亿晶体管，规模与苹果 A15、高通骁龙 8 Gen2 接近。 其中…",
-      "tags": [
-        "Huawei",
         "爆料",
         "自动抓取"
       ]

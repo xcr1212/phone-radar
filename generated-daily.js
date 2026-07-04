@@ -1,5 +1,5 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-07-04T04:00:49.188Z",
+  "updatedAt": "2026-07-04T07:13:44.489Z",
   "issueDate": "2026-07-04",
   "issue": "VOL.260704",
   "title": "手机情报日报",
@@ -36,6 +36,30 @@ window.phoneRadarDaily = {
           "keyPoints": [
             "外观 / 配色 / 尺寸",
             "屏幕形态",
+            "爆料来源"
+          ],
+          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "auto-a86b9120e054",
+          "title": "消息称国行苹果 iPhone 18 Pro Max 电池 5391mAh，增幅 11.78%",
+          "originalTitle": "",
+          "source": "IT之家",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-07-04",
+          "time": "05:15",
+          "publishedAt": "2026-07-04T05:15:35.000Z",
+          "url": "https://www.ithome.com/0/972/527.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/7/607e9055-b8e5-43f0-8e48-079cb880bc45.png?x-bce-process=image/format,f_auto",
+          "verdict": "先看",
+          "takeaway": "IT之家 7 月 4 日消息，数码博主 @数码闲聊站 今天（7 月 4 日）发布微博，发现苹果电池供应商的 3C 入网信息， 透露苹果国行 iPhone 18 Pro 系列的电池信息。 IT之家附上推文内容如下： 刚刚查了苹果电池供应商的 3C 入网信息，iPhone 18 Pro 系列电池可能是这样？ iPhone 18 Pro—— 国行 4056mAh…",
+          "detail": "IT之家 7 月 4 日消息，数码博主 @数码闲聊站 今天（7 月 4 日）发布微博，发现苹果电池供应商的 3C 入网信息， 透露苹果国行 iPhone 18 Pro 系列的电池信息。 IT之家附上推文内容如下： 刚刚查了苹果电池供应商的 3C 入网信息，iPhone 18 Pro 系列电池可能是这样？ iPhone 18 Pro—— 国行 4056mAh…",
+          "keyPoints": [
+            "电池 / 充电",
             "爆料来源"
           ],
           "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
@@ -91,26 +115,26 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
-          "id": "auto-d397c8443835",
-          "title": "苹果 iPhone Air 2 再曝：面容 ID 组件缩小为 48MP 双摄腾出空间，A20 Pro 芯片",
+          "id": "weibo-921a3da394de",
+          "title": "数码闲聊站：几个月前的供应链信息，iPhone 18 Pro Max国行版电池会来到500…",
           "originalTitle": "",
-          "source": "IT之家",
+          "source": "数码闲聊站",
           "brand": "iPhone",
           "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-07-03",
-          "time": "23:53",
-          "publishedAt": "2026-07-03T23:53:23.000Z",
-          "url": "https://www.ithome.com/0/972/476.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/7/259d0f3b-273f-452a-ba01-43753ce30c8b.jpg",
+          "trust": "高关注爆料源",
+          "date": "2026-07-04",
+          "time": "04:26",
+          "publishedAt": "2026-07-04T04:26:00.000Z",
+          "url": "https://weibo.com/6048569942/R76vS6HYz",
+          "image": "https://tvax2.sinaimg.cn/mw2000/006BlblIgy1ierosed89qj30xv0gxgrd.jpg",
           "verdict": "先看",
-          "takeaway": "IT之家 7 月 4 日消息，爆料人乔恩 · 普罗瑟（Jon Prosser）今天在最新一期 fpt.视频中为我们带来了 iPhone Air 2 最新情报，显示该机将新增第二颗后置摄像头，搭载 A20 Pro 芯片。 据介绍，iPhone Air 2 将使用与初代 iPhone Air 相同的钛合金机身，定位轻薄旗舰，配备 A20 Pro 芯片，而非此前…",
-          "detail": "IT之家 7 月 4 日消息，爆料人乔恩 · 普罗瑟（Jon Prosser）今天在最新一期 fpt.视频中为我们带来了 iPhone Air 2 最新情报，显示该机将新增第二颗后置摄像头，搭载 A20 Pro 芯片。 据介绍，iPhone Air 2 将使用与初代 iPhone Air 相同的钛合金机身，定位轻薄旗舰，配备 A20 Pro 芯片，而非此前…",
+          "takeaway": "几个月前的供应链信息，iPhone 18 Pro Max国行版电池会来到5000mAh档位，如果最终落点是5391mAh，配合2nm A20 Pro，续航估计会有明显提升，单品销量估计也会很恐怖…… Tips：iPhone 17 Pro Max国行单品激活1500W+，iPhone 17 Pro国行单品激活1000W，iPhone 17国行单品激活1100…",
+          "detail": "几个月前的供应链信息，iPhone 18 Pro Max国行版电池会来到5000mAh档位，如果最终落点是5391mAh，配合2nm A20 Pro，续航估计会有明显提升，单品销量估计也会很恐怖…… Tips：iPhone 17 Pro Max国行单品激活1500W+，iPhone 17 Pro国行单品激活1000W，iPhone 17国行单品激活1100…",
           "keyPoints": [
-            "芯片 / 性能",
+            "电池 / 充电",
             "爆料来源"
           ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
@@ -182,29 +206,6 @@ window.phoneRadarDaily = {
             "电池 / 充电"
           ],
           "confidence": "可信度较高，但仍属于发布前线索。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "auto-faa506c46ee8",
-          "title": "iPhone 相关消息",
-          "originalTitle": "",
-          "source": "MacRumors",
-          "brand": "iPhone",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-07-03",
-          "time": "16:13",
-          "publishedAt": "2026-07-03T16:13:58.000Z",
-          "url": "https://www.macrumors.com/2026/07/03/the-macrumors-show-latest-iphone-18-pro-rumors/",
-          "image": "",
-          "verdict": "先看",
-          "takeaway": "iPhone 相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
-          "detail": "iPhone 相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
-          "keyPoints": [
-            "爆料来源"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         }
