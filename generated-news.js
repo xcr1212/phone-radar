@@ -1,6 +1,26 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-07-04T13:56:55.074Z",
+  "updatedAt": "2026-07-04T15:29:55.100Z",
   "news": [
+    {
+      "id": "auto-4dd6cdd881d4",
+      "title": "Galaxy Z Fold 8 prices leak – the all-new ‘Wide’ is cheaper than the unchanged ‘Ultra’",
+      "source": "9to5Google",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-04",
+      "time": "14:00",
+      "publishedAt": "2026-07-04T14:00:00.000Z",
+      "url": "https://9to5google.com/2026/07/04/samsung-galaxy-z-fold-8-price-leak/",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/04/galaxy-z-fold-8-wide-leak-renders-onl-1.jpg?quality=82&strip=all&w=1600",
+      "summary": "Peak ironic comedy. That’s how I’d describe leaked prices for the Galaxy Z Fold 8 series, as Samsung’s all-new “Wide” device is going to be cheaper than the “Ultra,” which is gett…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-52ac7648bbf5",
       "title": "Redmi is reportedly working on a 7-inch performance phone",
@@ -177,46 +197,6 @@ window.phoneRadarAuto = {
       "summary": "Huawei could upgrade the selfie camera on its upcoming flagship series models – Mate 90 Pro Max and RS Ultimate. According to a new leak, the tech giant is exploring some incredib…",
       "tags": [
         "Huawei",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-257bdc792fc3",
-      "title": "消息称某厂子系将推 7 英寸巨屏性能机，预计为小米 REDMI",
-      "source": "IT之家",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-04",
-      "time": "07:02",
-      "publishedAt": "2026-07-04T07:02:32.000Z",
-      "url": "https://www.ithome.com/0/972/578.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/7/f7ec16af-23b0-43f6-8580-c0ecb05e50f4.png",
-      "summary": "IT之家 7 月 4 日消息，据博主 @数码闲聊站 今日爆料，某厂子系下一代将推出 6.59 英寸中屏 Pro、 7 英寸巨屏性能机 。结合该博主此前的爆料习惯，预计为小米 REDMI 品牌。 IT之家注意到，该博主今年 2 月曾爆料有 2 家厂商在评估 7 英寸巨屏新机，不过并未透露具体品牌名称以及产品型号。随后，该博主在 4 月 2 日爆料，某厂子系迭…",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-a8ca70baecf1",
-      "title": "曝谷歌 Pixel 系列手机将迎重大底层升级，Linux 内核有望更新",
-      "source": "IT之家",
-      "brand": "Pixel",
-      "model": "Pixel 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-04",
-      "time": "06:53",
-      "publishedAt": "2026-07-04T06:53:52.000Z",
-      "url": "https://www.ithome.com/0/972/573.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/7/47e67e92-36c3-40d2-b1a9-798028415730.png?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 7 月 4 日消息，据科技媒体 Android Police 前天报道，谷歌会不定期为 Pixel 系列手机升级 Linux 内核。虽然这种更新通常不会带来新功能，但往往能提升设备的流畅性、安全性。 据爆料人士 Mystic Leaks 所述，谷歌正计划为近期发布的 Pixel 手机升级 Linux 内核。其中 Pixel 7、8、9 系列机型有…",
-      "tags": [
-        "Pixel",
         "爆料",
         "自动抓取"
       ]
@@ -422,7 +402,7 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-b5a556ba85b1",
+      "id": "newsnow-058f5e85fefe",
       "title": "曝霉霉婚礼上唯一允许带手机的人",
       "source": "微博热搜",
       "brand": "行业",
@@ -432,7 +412,7 @@ window.phoneRadarAuto = {
       "date": "2026-07-04",
       "time": "",
       "publishedAt": "",
-      "url": "https://s.weibo.com/weibo?q=%E6%9B%9D%E9%9C%89%E9%9C%89%E5%A9%9A%E7%A4%BC%E4%B8%8A%E5%94%AF%E4%B8%80%E5%85%81%E8%AE%B8%E5%B8%A6%E6%89%8B%E6%9C%BA%E7%9A%84%E4%BA%BA&t=31&band_rank=15&Refer=top",
+      "url": "https://s.weibo.com/weibo?q=%E6%9B%9D%E9%9C%89%E9%9C%89%E5%A9%9A%E7%A4%BC%E4%B8%8A%E5%94%AF%E4%B8%80%E5%85%81%E8%AE%B8%E5%B8%A6%E6%89%8B%E6%9C%BA%E7%9A%84%E4%BA%BA&t=31&band_rank=24&Refer=top",
       "image": "",
       "summary": "曝霉霉婚礼上唯一允许带手机的人",
       "tags": [
@@ -599,26 +579,6 @@ window.phoneRadarAuto = {
         "行业",
         "爆料",
         "酷安博主"
-      ]
-    },
-    {
-      "id": "auto-2ed9bc3b1fed",
-      "title": "Jon Prosser responds to Apple lawsuit by blaming the other guy",
-      "source": "The Verge",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-03",
-      "time": "13:12",
-      "publishedAt": "2026-07-03T13:12:35.000Z",
-      "url": "https://www.theverge.com/tech/961285/jon-prosser-apple-lawsuit-response-ios-leak",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/videoframe_44382.png?quality=90&strip=all&crop=0,0,100,100",
-      "summary": "YouTuber Jon Prosser has finally filed a formal response to Apple's lawsuit made against him and another defendant over allegedly stealing iOS secrets. In his response, Prosser de…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
       ]
     },
     {

@@ -1,11 +1,11 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-07-04T13:56:55.074Z",
+  "updatedAt": "2026-07-04T15:29:55.100Z",
   "issueDate": "2026-07-04",
   "issue": "VOL.260704",
   "title": "手机情报日报",
-  "intro": "今日筛出 11 条重点，其中 8 条是重点爆料，包含 7 条 iPhone 相关、1 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 13 条重点，其中 8 条是重点爆料，包含 7 条 iPhone 相关、1 条官方确认、0 条参数线索。",
   "stats": {
-    "total": 11,
+    "total": 13,
     "iphone": 7,
     "leaks": 8,
     "official": 1,
@@ -159,46 +159,47 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
-          "id": "auto-257bdc792fc3",
-          "title": "消息称某厂子系将推 7 英寸巨屏性能机，预计为小米 REDMI",
+          "id": "auto-ec3e8d206d89",
+          "title": "早报｜曝苹果计划生产1000万台折叠iPhone/任天堂回应全员涨薪10%传闻/华为鸿蒙6终端设备突破7000万",
           "originalTitle": "",
-          "source": "IT之家",
-          "brand": "Xiaomi",
-          "type": "爆料",
+          "source": "爱范儿",
+          "brand": "Huawei",
+          "type": "评测",
           "trust": "媒体汇总",
-          "date": "2026-07-04",
-          "time": "07:02",
-          "publishedAt": "2026-07-04T07:02:32.000Z",
-          "url": "https://www.ithome.com/0/972/578.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/7/f7ec16af-23b0-43f6-8580-c0ecb05e50f4.png",
+          "date": "2026-07-03",
+          "time": "00:06",
+          "publishedAt": "2026-07-03T00:06:06.000Z",
+          "url": "https://www.ifanr.com/1670862?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "image": "https://s3.ifanr.com/images/ep/cover-images/tiao_wang_he_jing_de_ren_cover.jpg",
           "verdict": "先看",
-          "takeaway": "IT之家 7 月 4 日消息，据博主 @数码闲聊站 今日爆料，某厂子系下一代将推出 6.59 英寸中屏 Pro、 7 英寸巨屏性能机 。结合该博主此前的爆料习惯，预计为小米 REDMI 品牌。 IT之家注意到，该博主今年 2 月曾爆料有 2 家厂商在评估 7 英寸巨屏新机，不过并未透露具体品牌名称以及产品型号。随后，该博主在 4 月 2 日爆料，某厂子系迭…",
-          "detail": "IT之家 7 月 4 日消息，据博主 @数码闲聊站 今日爆料，某厂子系下一代将推出 6.59 英寸中屏 Pro、 7 英寸巨屏性能机 。结合该博主此前的爆料习惯，预计为小米 REDMI 品牌。 IT之家注意到，该博主今年 2 月曾爆料有 2 家厂商在评估 7 英寸巨屏新机，不过并未透露具体品牌名称以及产品型号。随后，该博主在 4 月 2 日爆料，某厂子系迭…",
+          "takeaway": "· Counterpoint：预计苹果首款折叠屏手机将贡献 29% 面板采购份额 · SK 海力士计划投资约 514 亿美元新建 NAND 工厂 · 奇瑞发布犀牛电池安全保障计划，承诺因电池热失控损毁赔付新车",
+          "detail": "· Counterpoint：预计苹果首款折叠屏手机将贡献 29% 面板采购份额 · SK 海力士计划投资约 514 亿美元新建 NAND 工厂 · 奇瑞发布犀牛电池安全保障计划，承诺因电池热失控损毁赔付新车",
           "keyPoints": [
-            "爆料来源"
+            "屏幕形态",
+            "电池 / 充电"
           ],
-          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
-          "id": "auto-a8ca70baecf1",
-          "title": "曝谷歌 Pixel 系列手机将迎重大底层升级，Linux 内核有望更新",
+          "id": "newsnow-7acbf080c4f1",
+          "title": "华为手机痛点不在芯片性能，而在于软件适配——个人观点，不喜勿喷。",
           "originalTitle": "",
-          "source": "IT之家",
-          "brand": "Pixel",
+          "source": "酷安热榜",
+          "brand": "Huawei",
           "type": "爆料",
-          "trust": "媒体汇总",
+          "trust": "高关注爆料源",
           "date": "2026-07-04",
-          "time": "06:53",
-          "publishedAt": "2026-07-04T06:53:52.000Z",
-          "url": "https://www.ithome.com/0/972/573.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/7/47e67e92-36c3-40d2-b1a9-798028415730.png?x-bce-process=image/format,f_auto",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://www.coolapk.com/feed/72636165",
+          "image": "",
           "verdict": "先看",
-          "takeaway": "IT之家 7 月 4 日消息，据科技媒体 Android Police 前天报道，谷歌会不定期为 Pixel 系列手机升级 Linux 内核。虽然这种更新通常不会带来新功能，但往往能提升设备的流畅性、安全性。 据爆料人士 Mystic Leaks 所述，谷歌正计划为近期发布的 Pixel 手机升级 Linux 内核。其中 Pixel 7、8、9 系列机型有…",
-          "detail": "IT之家 7 月 4 日消息，据科技媒体 Android Police 前天报道，谷歌会不定期为 Pixel 系列手机升级 Linux 内核。虽然这种更新通常不会带来新功能，但往往能提升设备的流畅性、安全性。 据爆料人士 Mystic Leaks 所述，谷歌正计划为近期发布的 Pixel 手机升级 Linux 内核。其中 Pixel 7、8、9 系列机型有…",
+          "takeaway": "华为手机痛点不在芯片性能，而在于软件适配——个人观点，不喜勿喷。",
+          "detail": "华为手机痛点不在芯片性能，而在于软件适配——个人观点，不喜勿喷。",
           "keyPoints": [
-            "爆料来源"
+            "芯片 / 性能"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
@@ -279,6 +280,59 @@ window.phoneRadarDaily = {
           "confidence": "官方内容，可直接作为已确认信息记录。",
           "impact": "可信度高，但如果不是配置/价格消息，只需要扫一眼。",
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        }
+      ]
+    },
+    {
+      "id": "market",
+      "title": "行业趋势",
+      "hint": "看方向，不急着当购买依据。",
+      "items": [
+        {
+          "id": "auto-20ca7b81e67a",
+          "title": "工信部：前 5 月规上电子信息制造业营收 7.52 万亿增 17.1%，手机产量 5.62 亿台",
+          "originalTitle": "",
+          "source": "IT之家",
+          "brand": "行业",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-07-04",
+          "time": "09:12",
+          "publishedAt": "2026-07-04T09:12:35.000Z",
+          "url": "https://www.ithome.com/0/972/612.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/5/a5e11881-ddde-422a-89e1-afe02c366669.jpg?x-bce-process=image/watermark,text_QUnnlJ_miJA,type_RlpMYW5UaW5nSGVpU0JHQg==,size_28,color_ffffffdd,skw_1,skc_00000051,g_7,blr_50,bls_50,x_11,y_11",
+          "verdict": "扫一眼",
+          "takeaway": "IT之家 7 月 4 日消息，工信部 7 月 3 日公布 2026 年 1-5 月我国电子信息制造业运行情况。2026 年 1-5 月，我国电子信息制造业生产增长较快，出口稳中有进，效益显著提升，投资增速加快，行业整体发展态势良好。 IT之家整理主要内容如下： 一、生产增长较快 1-5 月份，规模以上电子信息制造业增加值同比增长 14.6%，增速分别比同期…",
+          "detail": "IT之家 7 月 4 日消息，工信部 7 月 3 日公布 2026 年 1-5 月我国电子信息制造业运行情况。2026 年 1-5 月，我国电子信息制造业生产增长较快，出口稳中有进，效益显著提升，投资增速加快，行业整体发展态势良好。 IT之家整理主要内容如下： 一、生产增长较快 1-5 月份，规模以上电子信息制造业增加值同比增长 14.6%，增速分别比同期…",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "中文源可以直接点开快读；看完只保留和购机有关的点。"
+        },
+        {
+          "id": "auto-9fc9583b1499",
+          "title": "坚决杜绝用手机布置作业，教育部部署中小学、幼儿园暑期工作",
+          "originalTitle": "",
+          "source": "IT之家",
+          "brand": "行业",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-07-04",
+          "time": "08:11",
+          "publishedAt": "2026-07-04T08:11:36.000Z",
+          "url": "https://www.ithome.com/0/972/602.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/7/a54fc537-5c47-4bed-ac5a-6706c4da2d1e.jpg?x-bce-process=image/format,f_auto",
+          "verdict": "扫一眼",
+          "takeaway": "IT之家 7 月 4 日消息，7 月 3 日，教育部办公厅印发《关于做好 2026 年中小学、幼儿园暑期安全工作的通知》进行部署。除了常规的安全提醒外，教育部还提到坚决杜绝用手机布置作业。 《通知》要求，严格作业考试管理，落实“双减”有关政策要求，严控暑期作业总量， 坚决杜绝用手机布置作业、要求学生利用手机完成作业或要求家长检查批改作业等现象 ，严禁在暑期…",
+          "detail": "IT之家 7 月 4 日消息，7 月 3 日，教育部办公厅印发《关于做好 2026 年中小学、幼儿园暑期安全工作的通知》进行部署。除了常规的安全提醒外，教育部还提到坚决杜绝用手机布置作业。 《通知》要求，严格作业考试管理，落实“双减”有关政策要求，严控暑期作业总量， 坚决杜绝用手机布置作业、要求学生利用手机完成作业或要求家长检查批改作业等现象 ，严禁在暑期…",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "中文源可以直接点开快读；看完只保留和购机有关的点。"
         }
       ]
     }
