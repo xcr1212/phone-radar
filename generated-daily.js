@@ -1,5 +1,5 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-07-05T11:47:19.740Z",
+  "updatedAt": "2026-07-05T14:08:33.449Z",
   "issueDate": "2026-07-05",
   "issue": "VOL.260705",
   "title": "手机情报日报",
@@ -88,23 +88,26 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
-          "id": "auto-81d652ca6afd",
-          "title": "vivo X Fold6 折叠屏手机首销情况曝光，同期约为上一代的 90%",
+          "id": "auto-9a5f3ea4a833",
+          "title": "消息称 HMD Skyline 2 手机仍将发布：相机模组设计与初代相同、搭骁龙 7s Gen 4 处理器",
           "originalTitle": "",
           "source": "IT之家",
-          "brand": "vivo",
+          "brand": "行业",
           "type": "爆料",
           "trust": "媒体汇总",
           "date": "2026-07-05",
-          "time": "03:50",
-          "publishedAt": "2026-07-05T03:50:50.000Z",
-          "url": "https://www.ithome.com/0/972/726.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/7/02d02d0d-5602-4f74-9668-badb121c590f.png?x-bce-process=image/format,f_auto",
+          "time": "13:02",
+          "publishedAt": "2026-07-05T13:02:09.000Z",
+          "url": "https://www.ithome.com/0/972/840.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/7/8ce6e7ae-0217-48fe-a2cc-cf7159a0d028.jpg?x-bce-process=image/format,f_auto",
           "verdict": "先看",
-          "takeaway": "IT之家 7 月 5 日消息，据长期关注国内手机市场份额的数码博主 @RD观测 昨日曝光了 vivo X Fold6 大折叠屏手机的首销情况：以首销当日为标准， vivo X Fold6 同期约为 vivo X Fold5 的 90% 。 博主表示，作为第一台 MTK 大折叠屏旗舰， 整体涨价 1000-1500 元的情况下 ，还算可以，后面也可以看看持续…",
-          "detail": "IT之家 7 月 5 日消息，据长期关注国内手机市场份额的数码博主 @RD观测 昨日曝光了 vivo X Fold6 大折叠屏手机的首销情况：以首销当日为标准， vivo X Fold6 同期约为 vivo X Fold5 的 90% 。 博主表示，作为第一台 MTK 大折叠屏旗舰， 整体涨价 1000-1500 元的情况下 ，还算可以，后面也可以看看持续…",
+          "takeaway": "IT之家 7 月 5 日消息，消息源 smashx_60 发文，确认先前 HMD Skyline 2“被砍”消息系误解，只是 砍掉了其中的 GT 机型 ，标准版机型仍将发布。 消息源同步更新了该机最新工程机的规格信息和背部相机模组谍照，相对于去年 5 月曝光的配置主要将 SoC 从骁龙 7s Gen 3 换成 7s Gen 4，其他规格不变。 具体来看，该…",
+          "detail": "IT之家 7 月 5 日消息，消息源 smashx_60 发文，确认先前 HMD Skyline 2“被砍”消息系误解，只是 砍掉了其中的 GT 机型 ，标准版机型仍将发布。 消息源同步更新了该机最新工程机的规格信息和背部相机模组谍照，相对于去年 5 月曝光的配置主要将 SoC 从骁龙 7s Gen 3 换成 7s Gen 4，其他规格不变。 具体来看，该…",
           "keyPoints": [
-            "屏幕形态"
+            "外观 / 配色 / 尺寸",
+            "影像硬件",
+            "芯片 / 性能",
+            "爆料来源"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
@@ -186,7 +189,7 @@ window.phoneRadarDaily = {
         },
         {
           "id": "coolapk-user-847489662e28",
-          "title": "竹本青：【OPPO被指红包雨“砍奖”，中奖者称7次中奖仅给1个奖品】 据新浪科技《BUG》栏目今日报道，近日，OPPO又因…",
+          "title": "竹本青：OPPO被指红包雨“砍奖”：中奖者称7次中奖仅给1个奖品",
           "originalTitle": "",
           "source": "竹本青",
           "brand": "OPPO",
@@ -332,36 +335,6 @@ window.phoneRadarDaily = {
       ]
     },
     {
-      "id": "launch",
-      "title": "新机与官方发布",
-      "hint": "能直接更新到参数库。",
-      "items": [
-        {
-          "id": "auto-4797abbc4b88",
-          "title": "小米 REDMI K90 至尊版手机开启澎湃 HyperOS 系统正式版内测招募",
-          "originalTitle": "",
-          "source": "IT之家",
-          "brand": "Xiaomi",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-07-05",
-          "time": "05:06",
-          "publishedAt": "2026-07-05T05:06:44.000Z",
-          "url": "https://www.ithome.com/0/972/735.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/7/b4dc9526-cc60-437e-8e47-e1f5a19efa11.jpg",
-          "verdict": "先看",
-          "takeaway": "IT之家 7 月 5 日消息，小米社区显示， REDMI K90 至尊版手机已开启澎湃 HyperOS 系统正式版内测招募。 IT之家注：小米澎湃 OS 正式版内测是正式版发布前的测试版本， 用于测试一些未发布功能的稳定性 ，并收集用户反馈。正式版内测会根据项目需要和实际情况按需发布，存在不稳定和停版的可能。 小米官方表示，正式版内测存在不稳定因素， 参与…",
-          "detail": "IT之家 7 月 5 日消息，小米社区显示， REDMI K90 至尊版手机已开启澎湃 HyperOS 系统正式版内测招募。 IT之家注：小米澎湃 OS 正式版内测是正式版发布前的测试版本， 用于测试一些未发布功能的稳定性 ，并收集用户反馈。正式版内测会根据项目需要和实际情况按需发布，存在不稳定和停版的可能。 小米官方表示，正式版内测存在不稳定因素， 参与…",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "中文源可以直接点开快读；看完只保留和购机有关的点。"
-        }
-      ]
-    },
-    {
       "id": "market",
       "title": "行业趋势",
       "hint": "看方向，不急着当购买依据。",
@@ -436,6 +409,29 @@ window.phoneRadarDaily = {
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         },
         {
+          "id": "coolapk-user-a1be14efe241",
+          "title": "竹本青：【小米 17系列 最新总销量曝光：全系超554万，Ultra近23.1万】 小米 17系列 截至2026 W26…",
+          "originalTitle": "",
+          "source": "竹本青",
+          "brand": "Xiaomi",
+          "type": "爆料",
+          "trust": "高可信爆料",
+          "date": "2026-07-05",
+          "time": "13:22",
+          "publishedAt": "2026-07-05T13:22:55.000Z",
+          "url": "https://www.coolapk.com/feed/72662542",
+          "image": "http://image.coolapk.com/feed/2026/0705/21/4248714_b0c3da23_7774_0889_327@2930x2829.jpg",
+          "verdict": "扫一眼",
+          "takeaway": "【小米 17系列 最新总销量曝光：全系超554万，Ultra近23.1万】 小米 17系列 截至2026 W26 —— 约554.01万 截至2026 W25 —— 约544.96万 截至2026 W24 —— 约531.72万 截至2026 W23 —— 约517.2万 小米 17 Ultra 截至2026 W26 —— 约23.07万 截至2026 W…",
+          "detail": "【小米 17系列 最新总销量曝光：全系超554万，Ultra近23.1万】 小米 17系列 截至2026 W26 —— 约554.01万 截至2026 W25 —— 约544.96万 截至2026 W24 —— 约531.72万 截至2026 W23 —— 约517.2万 小米 17 Ultra 截至2026 W26 —— 约23.07万 截至2026 W…",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "可信度较高，但仍属于发布前线索。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        },
+        {
           "id": "coolapk-user-72b18dadfdf7",
           "title": "竹本青：vivo X Fold6 首销日销量曝光：约为上代同期90%",
           "originalTitle": "",
@@ -459,26 +455,26 @@ window.phoneRadarDaily = {
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         },
         {
-          "id": "auto-5f42f321e85a",
-          "title": "Galaxy M47 电池 / 充电相关消息",
+          "id": "auto-a75e188c9856",
+          "title": "Vivo X300 Pro 对比 Vivo X300 Ultra：差异整理",
           "originalTitle": "",
           "source": "Gizmochina",
-          "brand": "Samsung",
+          "brand": "vivo",
           "type": "爆料",
           "trust": "媒体汇总",
           "date": "2026-07-05",
-          "time": "11:09",
-          "publishedAt": "2026-07-05T11:09:45.000Z",
-          "url": "https://www.gizmochina.com/2026/07/05/oneplus-n6-vs-samsung-galaxy-m47/",
-          "image": "https://www.gizmochina.com/wp-content/uploads/2026/07/image-22-300x196.png?x44794",
+          "time": "13:05",
+          "publishedAt": "2026-07-05T13:05:47.000Z",
+          "url": "https://www.gizmochina.com/2026/07/05/vivo-x300-pro-vs-vivo-x300-ultra-is-the-ultra-worth-the-extra-500/",
+          "image": "https://www.gizmochina.com/wp-content/uploads/2026/07/image-25-300x176.png?x44794",
           "verdict": "可略过",
-          "takeaway": "Galaxy M47 电池 / 充电相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
-          "detail": "Galaxy M47 电池 / 充电相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
+          "takeaway": "Vivo X300 Pro 对比 Vivo X300 Ultra：重点看定位、配置差异和价格差，判断是否值得等更高端型号。",
+          "detail": "Vivo X300 Pro 对比 Vivo X300 Ultra 的差异整理。重点看两款机型的定位、影像规格、屏幕尺寸、价格区间和发布时间是否拉开差距。",
           "keyPoints": [
-            "电池 / 充电"
+            "成本 / 价格"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "影响日常体验，尤其是游戏、拍照和长时间使用。",
+          "impact": "影响购买预算，值得先看。",
           "action": "有具体参数就记录到参数库；没有参数就先收藏。"
         }
       ]

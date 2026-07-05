@@ -1,6 +1,106 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-07-05T11:47:19.740Z",
+  "updatedAt": "2026-07-05T14:08:33.449Z",
   "news": [
+    {
+      "id": "coolapk-user-a1be14efe241",
+      "title": "竹本青：【小米 17系列 最新总销量曝光：全系超554万，Ultra近23.1万】 小米 17系列 截至2026 W26…",
+      "source": "竹本青",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-07-05",
+      "time": "13:22",
+      "publishedAt": "2026-07-05T13:22:55.000Z",
+      "url": "https://www.coolapk.com/feed/72662542",
+      "image": "http://image.coolapk.com/feed/2026/0705/21/4248714_b0c3da23_7774_0889_327@2930x2829.jpg",
+      "summary": "【小米 17系列 最新总销量曝光：全系超554万，Ultra近23.1万】 小米 17系列 截至2026 W26 —— 约554.01万 截至2026 W25 —— 约544.96万 截至2026 W24 —— 约531.72万 截至2026 W23 —— 约517.2万 小米 17 Ultra 截至2026 W26 —— 约23.07万 截至2026 W…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-a75e188c9856",
+      "title": "Vivo X300 Pro vs Vivo X300 Ultra: Is the Ultra Worth the Extra $500?",
+      "source": "Gizmochina",
+      "brand": "vivo",
+      "model": "vivo 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-05",
+      "time": "13:05",
+      "publishedAt": "2026-07-05T13:05:47.000Z",
+      "url": "https://www.gizmochina.com/2026/07/05/vivo-x300-pro-vs-vivo-x300-ultra-is-the-ultra-worth-the-extra-500/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/07/image-25-300x176.png?x44794",
+      "summary": "If you’re deciding between the Vivo X300 Pro and Vivo X300 Ultra, the biggest question isn’t which phone is better; it’s whether the Ultra’s much higher price delivers enough extr…",
+      "tags": [
+        "vivo",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-9a5f3ea4a833",
+      "title": "消息称 HMD Skyline 2 手机仍将发布：相机模组设计与初代相同、搭骁龙 7s Gen 4 处理器",
+      "source": "IT之家",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-05",
+      "time": "13:02",
+      "publishedAt": "2026-07-05T13:02:09.000Z",
+      "url": "https://www.ithome.com/0/972/840.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/7/8ce6e7ae-0217-48fe-a2cc-cf7159a0d028.jpg?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 7 月 5 日消息，消息源 smashx_60 发文，确认先前 HMD Skyline 2“被砍”消息系误解，只是 砍掉了其中的 GT 机型 ，标准版机型仍将发布。 消息源同步更新了该机最新工程机的规格信息和背部相机模组谍照，相对于去年 5 月曝光的配置主要将 SoC 从骁龙 7s Gen 3 换成 7s Gen 4，其他规格不变。 具体来看，该…",
+      "tags": [
+        "行业",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-b415c3421b66",
+      "title": "Samsung Galaxy M47 vs Motorola Edge 70 Fusion: Specs, Camera, Battery & Price Compared",
+      "source": "Gizmochina",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-05",
+      "time": "12:06",
+      "publishedAt": "2026-07-05T12:06:56.000Z",
+      "url": "https://www.gizmochina.com/2026/07/05/samsung-galaxy-m47-vs-motorola-edge-70-fusion/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/07/image-24-300x198.png?x44794",
+      "summary": "Samsung Galaxy M47 and Motorola Edge 70 Fusion compete in the popular mid-range smartphone segment, both offering premium features at an affordable price. While the Galaxy M47 foc…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-7468bbe36ec5",
+      "title": "After months with the Galaxy S26 Ultra, there are only 3 things I want from the S27 Ultra",
+      "source": "Android Authority",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-05",
+      "time": "12:00",
+      "publishedAt": "2026-07-05T12:00:00.000Z",
+      "url": "https://www.androidauthority.com/galaxy-s26-ultra-user-what-i-want-from-s27-ultra-3683177/",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2026/04/Galaxy-S26-Ultra-rock-background-scaled.jpeg",
+      "summary": "The Galaxy S26 Ultra is great, but I need the next phone to change the cameras.",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-5f42f321e85a",
       "title": "OnePlus N6 vs Samsung Galaxy M47 Comparison: Battery Beast or Better All-Rounder?",
@@ -23,7 +123,7 @@ window.phoneRadarAuto = {
     },
     {
       "id": "coolapk-user-847489662e28",
-      "title": "竹本青：【OPPO被指红包雨“砍奖”，中奖者称7次中奖仅给1个奖品】 据新浪科技《BUG》栏目今日报道，近日，OPPO又因…",
+      "title": "竹本青：OPPO被指红包雨“砍奖”：中奖者称7次中奖仅给1个奖品",
       "source": "竹本青",
       "brand": "OPPO",
       "model": "OPPO 相关机型",
@@ -157,46 +257,6 @@ window.phoneRadarAuto = {
       "summary": "IT之家 7 月 5 日消息，据 FoxNews 报道，为庆祝美国建国 250 周年，一座名为“AMERICA250”的大型时间胶囊于昨天正式封存，计划于 2276 年美国建国 500 周年时开启。 相应时间胶囊收录了来自美国各州具有代表性的物品，用于记录当代社会的面貌，参考 FoxNews 视频，一部星宇橙（Cosmic Orange）配色的 iPhon…",
       "tags": [
         "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-4797abbc4b88",
-      "title": "小米 REDMI K90 至尊版手机开启澎湃 HyperOS 系统正式版内测招募",
-      "source": "IT之家",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-05",
-      "time": "05:06",
-      "publishedAt": "2026-07-05T05:06:44.000Z",
-      "url": "https://www.ithome.com/0/972/735.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/7/b4dc9526-cc60-437e-8e47-e1f5a19efa11.jpg",
-      "summary": "IT之家 7 月 5 日消息，小米社区显示， REDMI K90 至尊版手机已开启澎湃 HyperOS 系统正式版内测招募。 IT之家注：小米澎湃 OS 正式版内测是正式版发布前的测试版本， 用于测试一些未发布功能的稳定性 ，并收集用户反馈。正式版内测会根据项目需要和实际情况按需发布，存在不稳定和停版的可能。 小米官方表示，正式版内测存在不稳定因素， 参与…",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-81d652ca6afd",
-      "title": "vivo X Fold6 折叠屏手机首销情况曝光，同期约为上一代的 90%",
-      "source": "IT之家",
-      "brand": "vivo",
-      "model": "vivo 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-05",
-      "time": "03:50",
-      "publishedAt": "2026-07-05T03:50:50.000Z",
-      "url": "https://www.ithome.com/0/972/726.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/7/02d02d0d-5602-4f74-9668-badb121c590f.png?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 7 月 5 日消息，据长期关注国内手机市场份额的数码博主 @RD观测 昨日曝光了 vivo X Fold6 大折叠屏手机的首销情况：以首销当日为标准， vivo X Fold6 同期约为 vivo X Fold5 的 90% 。 博主表示，作为第一台 MTK 大折叠屏旗舰， 整体涨价 1000-1500 元的情况下 ，还算可以，后面也可以看看持续…",
-      "tags": [
-        "vivo",
         "爆料",
         "自动抓取"
       ]
