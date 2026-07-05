@@ -1,6 +1,66 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-07-05T15:37:45.238Z",
+  "updatedAt": "2026-07-05T17:31:49.261Z",
   "news": [
+    {
+      "id": "auto-15def25a53de",
+      "title": "'iPhone Ultra' Likely to 'Repeat the iPhone X Story'",
+      "source": "MacRumors",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-05",
+      "time": "17:28",
+      "publishedAt": "2026-07-05T17:28:32.000Z",
+      "url": "https://www.macrumors.com/2026/07/05/foldable-iphone-to-repeat-iphone-x-story/",
+      "image": "https://images.macrumors.com/article-new/2022/09/iPhone-X-2022-Upload.jpg",
+      "summary": "Apple will likely \"repeat the iPhone X story\" by unveiling its foldable iPhone at the same time as the iPhone 18 Pro and iPhone 18 Pro Max, but starting foldable iPhone pre-orders…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-c080f6906151",
+      "title": "Vivo X300 vs Vivo X300 FE: The Hidden Differences That Matter",
+      "source": "Gizmochina",
+      "brand": "vivo",
+      "model": "vivo 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-05",
+      "time": "16:48",
+      "publishedAt": "2026-07-05T16:48:59.000Z",
+      "url": "https://www.gizmochina.com/2026/07/05/vivo-x300-vs-vivo-x300-fe/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/07/image-26-300x194.png?x44794",
+      "summary": "Vivo X300 and Vivo X300 FE may share the same flagship DNA, but they take different approaches to winning buyers. The X300 prioritizes top-tier cameras and premium hardware, while…",
+      "tags": [
+        "vivo",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-04777501050d",
+      "title": "竹本青：【REDMI K90标准版、Note15系列 正式调价，涨幅200-300元】 ● K90 标准版 12+256G…",
+      "source": "竹本青",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-07-05",
+      "time": "16:19",
+      "publishedAt": "2026-07-05T16:19:14.000Z",
+      "url": "https://www.coolapk.com/feed/72664971",
+      "image": "http://image.coolapk.com/feed/2026/0706/01/4248714_fc3e813b_0937_3943_536@2136x1602.jpg",
+      "summary": "【REDMI K90标准版、Note15系列 正式调价，涨幅200-300元】 ● K90 标准版 12+256GB：2599元 → 2799元（涨200元） 12+512GB：3099元 → 3399元（涨300元） 16+512GB：3499元 → 3699元（涨200元） 16+1TB：3999元 → 4199元（涨200元） ● Note15 标准…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "酷安博主"
+      ]
+    },
     {
       "id": "auto-eabc94dc6d73",
       "title": "郭明錤称苹果折叠屏手机可能重演 iPhone X 剧本：同场发布、较晚开卖，供应紧张延续至年底",
@@ -582,6 +642,26 @@ window.phoneRadarAuto = {
       ]
     },
     {
+      "id": "weibo-a4fd7d2b6c78",
+      "title": "数码闲聊站：看了下最新的排期表，安卓迭代OS最快是8月发布，有些是9月-10月，可能和旗舰…",
+      "source": "数码闲聊站",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-07-04",
+      "time": "09:06",
+      "publishedAt": "2026-07-04T09:06:50.000Z",
+      "url": "https://weibo.com/6048569942/R78lRqTi8",
+      "image": "https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png",
+      "summary": "看了下最新的排期表，安卓迭代OS最快是8月发布，有些是9月-10月，可能和旗舰新机一起发。 那么问题来了，安卓迭代OS你们期待哪个？[doge] 网页链接",
+      "tags": [
+        "行业",
+        "爆料",
+        "微博"
+      ]
+    },
+    {
       "id": "auto-d09989585977",
       "title": "Huawei Mate 90 Pro Max/RS can get surprising selfie camera upgrade",
       "source": "Huawei Central",
@@ -662,6 +742,26 @@ window.phoneRadarAuto = {
       ]
     },
     {
+      "id": "weibo-921a3da394de",
+      "title": "数码闲聊站：几个月前的供应链信息，iPhone 18 Pro Max国行版电池会来到500…",
+      "source": "数码闲聊站",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-07-04",
+      "time": "04:26",
+      "publishedAt": "2026-07-04T04:26:00.000Z",
+      "url": "https://weibo.com/6048569942/R76vS6HYz",
+      "image": "https://tvax2.sinaimg.cn/mw2000/006BlblIgy1ierosed89qj30xv0gxgrd.jpg",
+      "summary": "几个月前的供应链信息，iPhone 18 Pro Max国行版电池会来到5000mAh档位，如果最终落点是5391mAh，配合2nm A20 Pro，续航估计会有明显提升，单品销量估计也会很恐怖…… Tips：iPhone 17 Pro Max国行单品激活1500W+，iPhone 17 Pro国行单品激活1000W，iPhone 17国行单品激活1100…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "微博"
+      ]
+    },
+    {
       "id": "auto-2adbc3d85daf",
       "title": "iPhone 18 Pro and Pro Max battery capacities confirmed via 3C certification",
       "source": "Gizmochina",
@@ -679,6 +779,26 @@ window.phoneRadarAuto = {
         "iPhone",
         "爆料",
         "自动抓取"
+      ]
+    },
+    {
+      "id": "weibo-4fdf87bb2b71",
+      "title": "数码闲聊站：vivo X300E详细参数，感受一下： 6.59英寸1.5K OLED直屏，…",
+      "source": "数码闲聊站",
+      "brand": "vivo",
+      "model": "vivo 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-07-04",
+      "time": "02:35",
+      "publishedAt": "2026-07-04T02:35:00.000Z",
+      "url": "https://weibo.com/6048569942/R75MOvC1y",
+      "image": "https://tvax2.sinaimg.cn/mw2000/006BlblIgy1ierngbsxxtj30xu0s4doh.jpg",
+      "summary": "vivo X300E详细参数，感受一下： 6.59英寸1.5K OLED直屏，骁龙8 Gen5处理器，前置50Mp，后置50Mp大底主摄+8Mp超广角+50Mp IMX8中底潜望镜，蔡司影像，7015mAh/7100mAh±电池+90W快充，左上角小方块Deco，金属中框？超声波指纹？7.99mm/203g",
+      "tags": [
+        "vivo",
+        "爆料",
+        "微博"
       ]
     },
     {
@@ -719,6 +839,26 @@ window.phoneRadarAuto = {
         "iPhone",
         "爆料",
         "酷安博主"
+      ]
+    },
+    {
+      "id": "weibo-6167712e475b",
+      "title": "数码闲聊站：刚刚查了苹果电池供应商的3C入网信息，iPhone 18 Pro系列电池可能是…",
+      "source": "数码闲聊站",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-07-04",
+      "time": "01:06",
+      "publishedAt": "2026-07-04T01:06:13.000Z",
+      "url": "https://weibo.com/6048569942/R75cMohOS",
+      "image": "https://tvax3.sinaimg.cn/mw2000/006BlblIgy1ierogucwc7j31bx1hjqh0.jpg",
+      "summary": "刚刚查了苹果电池供应商的3C入网信息，iPhone 18 Pro系列电池可能是这样？ iPhone 18 Pro——国行4056mAh/美版4288mAh iPhone 17 Pro——国行3988mAh/美版4252mAh iPhone 18 Pro Max——国行5391mAh/美版5567mAh iPhone 17 Pro Max——国行4823mA…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "微博"
       ]
     }
   ]

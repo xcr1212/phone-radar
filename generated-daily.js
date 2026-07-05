@@ -1,11 +1,11 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-07-05T15:37:45.238Z",
+  "updatedAt": "2026-07-05T17:31:49.261Z",
   "issueDate": "2026-07-05",
   "issue": "VOL.260705",
   "title": "手机情报日报",
-  "intro": "今日筛出 19 条重点，其中 8 条是重点爆料，包含 8 条 iPhone 相关、1 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 14 条重点，其中 8 条是重点爆料，包含 8 条 iPhone 相关、1 条官方确认、0 条参数线索。",
   "stats": {
-    "total": 19,
+    "total": 14,
     "iphone": 8,
     "leaks": 8,
     "official": 1,
@@ -41,6 +41,54 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
+          "id": "weibo-921a3da394de",
+          "title": "数码闲聊站：几个月前的供应链信息，iPhone 18 Pro Max国行版电池会来到500…",
+          "originalTitle": "",
+          "source": "数码闲聊站",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "高关注爆料源",
+          "date": "2026-07-04",
+          "time": "04:26",
+          "publishedAt": "2026-07-04T04:26:00.000Z",
+          "url": "https://weibo.com/6048569942/R76vS6HYz",
+          "image": "https://tvax2.sinaimg.cn/mw2000/006BlblIgy1ierosed89qj30xv0gxgrd.jpg",
+          "verdict": "先看",
+          "takeaway": "几个月前的供应链信息，iPhone 18 Pro Max国行版电池会来到5000mAh档位，如果最终落点是5391mAh，配合2nm A20 Pro，续航估计会有明显提升，单品销量估计也会很恐怖…… Tips：iPhone 17 Pro Max国行单品激活1500W+，iPhone 17 Pro国行单品激活1000W，iPhone 17国行单品激活1100…",
+          "detail": "几个月前的供应链信息，iPhone 18 Pro Max国行版电池会来到5000mAh档位，如果最终落点是5391mAh，配合2nm A20 Pro，续航估计会有明显提升，单品销量估计也会很恐怖…… Tips：iPhone 17 Pro Max国行单品激活1500W+，iPhone 17 Pro国行单品激活1000W，iPhone 17国行单品激活1100…",
+          "keyPoints": [
+            "电池 / 充电",
+            "爆料来源"
+          ],
+          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "weibo-6167712e475b",
+          "title": "数码闲聊站：刚刚查了苹果电池供应商的3C入网信息，iPhone 18 Pro系列电池可能是…",
+          "originalTitle": "",
+          "source": "数码闲聊站",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "高关注爆料源",
+          "date": "2026-07-04",
+          "time": "01:06",
+          "publishedAt": "2026-07-04T01:06:13.000Z",
+          "url": "https://weibo.com/6048569942/R75cMohOS",
+          "image": "https://tvax3.sinaimg.cn/mw2000/006BlblIgy1ierogucwc7j31bx1hjqh0.jpg",
+          "verdict": "先看",
+          "takeaway": "刚刚查了苹果电池供应商的3C入网信息，iPhone 18 Pro系列电池可能是这样？ iPhone 18 Pro——国行4056mAh/美版4288mAh iPhone 17 Pro——国行3988mAh/美版4252mAh iPhone 18 Pro Max——国行5391mAh/美版5567mAh iPhone 17 Pro Max——国行4823mA…",
+          "detail": "刚刚查了苹果电池供应商的3C入网信息，iPhone 18 Pro系列电池可能是这样？ iPhone 18 Pro——国行4056mAh/美版4288mAh iPhone 17 Pro——国行3988mAh/美版4252mAh iPhone 18 Pro Max——国行5391mAh/美版5567mAh iPhone 17 Pro Max——国行4823mA…",
+          "keyPoints": [
+            "电池 / 充电",
+            "爆料来源"
+          ],
+          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
           "id": "coolapk-user-93fd53f87274",
           "title": "JSCHEN小小狐：博主分析 iPhone 18 Pro 系列电池入网信息",
           "originalTitle": "",
@@ -61,6 +109,29 @@ window.phoneRadarDaily = {
             "爆料来源"
           ],
           "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "auto-15def25a53de",
+          "title": "iPhone 相关消息",
+          "originalTitle": "",
+          "source": "MacRumors",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-07-05",
+          "time": "17:28",
+          "publishedAt": "2026-07-05T17:28:32.000Z",
+          "url": "https://www.macrumors.com/2026/07/05/foldable-iphone-to-repeat-iphone-x-story/",
+          "image": "https://images.macrumors.com/article-new/2022/09/iPhone-X-2022-Upload.jpg",
+          "verdict": "先看",
+          "takeaway": "iPhone 相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
+          "detail": "iPhone 相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
@@ -114,99 +185,28 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
-          "id": "coolapk-user-901cd9637d15",
-          "title": "竹本青：除了续航不行，其他都挺好使",
+          "id": "weibo-4fdf87bb2b71",
+          "title": "数码闲聊站：vivo X300E详细参数，感受一下： 6.59英寸1.5K OLED直屏，…",
           "originalTitle": "",
-          "source": "竹本青",
-          "brand": "OPPO",
-          "type": "爆料",
-          "trust": "高可信爆料",
-          "date": "2026-07-05",
-          "time": "14:24",
-          "publishedAt": "2026-07-05T14:24:17.000Z",
-          "url": "https://www.coolapk.com/feed/72663388",
-          "image": "",
-          "verdict": "先看",
-          "takeaway": "除了续航不行，其他都挺好使",
-          "detail": "除了续航不行，其他都挺好使",
-          "keyPoints": [
-            "电池 / 充电"
-          ],
-          "confidence": "可信度较高，但仍属于发布前线索。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "coolapk-user-ee2a51c5b808",
-          "title": "竹本青：【vivo X300E 详细配置曝光：1.5K中直屏，骁龙8 Gen5，中底潜望镜】 ▫️6.59\"1.5K OL…",
-          "originalTitle": "",
-          "source": "竹本青",
+          "source": "数码闲聊站",
           "brand": "vivo",
           "type": "爆料",
-          "trust": "高可信爆料",
+          "trust": "高关注爆料源",
           "date": "2026-07-04",
-          "time": "13:21",
-          "publishedAt": "2026-07-04T13:21:47.000Z",
-          "url": "https://www.coolapk.com/feed/72649471",
-          "image": "http://image.coolapk.com/feed/2026/0704/21/4248714_1b950b6e_1305_894_255@1270x751.jpg",
+          "time": "02:35",
+          "publishedAt": "2026-07-04T02:35:00.000Z",
+          "url": "https://weibo.com/6048569942/R75MOvC1y",
+          "image": "https://tvax2.sinaimg.cn/mw2000/006BlblIgy1ierngbsxxtj30xu0s4doh.jpg",
           "verdict": "先看",
-          "takeaway": "【vivo X300E 详细配置曝光：1.5K中直屏，骁龙8 Gen5，中底潜望镜】 ▫️6.59\"1.5K OLED直屏 ▫️骁龙8 Gen5处理器 ▫️7100mAh±电池+90W有线 前置｜50Mp 主摄｜50Mp 大底主摄 潜望｜50Mp IMX8中底 超广｜8Mp ▫️后置左上小方块Deco ▫️或配备金属中框、超声波指纹 ▫️厚7.99mm/重…",
-          "detail": "【vivo X300E 详细配置曝光：1.5K中直屏，骁龙8 Gen5，中底潜望镜】 ▫️6.59\"1.5K OLED直屏 ▫️骁龙8 Gen5处理器 ▫️7100mAh±电池+90W有线 前置｜50Mp 主摄｜50Mp 大底主摄 潜望｜50Mp IMX8中底 超广｜8Mp ▫️后置左上小方块Deco ▫️或配备金属中框、超声波指纹 ▫️厚7.99mm/重…",
+          "takeaway": "vivo X300E详细参数，感受一下： 6.59英寸1.5K OLED直屏，骁龙8 Gen5处理器，前置50Mp，后置50Mp大底主摄+8Mp超广角+50Mp IMX8中底潜望镜，蔡司影像，7015mAh/7100mAh±电池+90W快充，左上角小方块Deco，金属中框？超声波指纹？7.99mm/203g",
+          "detail": "vivo X300E详细参数，感受一下： 6.59英寸1.5K OLED直屏，骁龙8 Gen5处理器，前置50Mp，后置50Mp大底主摄+8Mp超广角+50Mp IMX8中底潜望镜，蔡司影像，7015mAh/7100mAh±电池+90W快充，左上角小方块Deco，金属中框？超声波指纹？7.99mm/203g",
           "keyPoints": [
             "影像硬件",
             "屏幕形态",
             "电池 / 充电",
             "芯片 / 性能"
           ],
-          "confidence": "可信度较高，但仍属于发布前线索。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "coolapk-user-35adf37c0137",
-          "title": "JSCHEN小小狐：博主汇总 vivo X300E 详细参数：骁龙8 Gen5",
-          "originalTitle": "",
-          "source": "JSCHEN小小狐",
-          "brand": "vivo",
-          "type": "爆料",
-          "trust": "高可信爆料",
-          "date": "2026-07-04",
-          "time": "06:20",
-          "publishedAt": "2026-07-04T06:20:38.000Z",
-          "url": "https://www.coolapk.com/feed/72644401",
-          "image": "http://image.coolapk.com/feed/2026/0704/14/4702274_f5d8f8ae_6036_8609_522@1440x833.jpg",
-          "verdict": "先看",
-          "takeaway": "『博主汇总 vivo X300E 详细参数: 骁龙8 Gen5』 ◇ 6.59 英寸 1.5K LTPS OLED 直屏 ◇ 骁龙 8 Gen5 移动平台 ◇ 50Mp 1/1.56'' 大底主摄 ◇ 50Mp 1/1.95'' IMX8 中底潜望 ◇ 8Mp 超广角 + 前置 50Mp，蔡司影像 ◇ 7015mAh/7100mAh± 电池，90W 快充…",
-          "detail": "『博主汇总 vivo X300E 详细参数: 骁龙8 Gen5』 ◇ 6.59 英寸 1.5K LTPS OLED 直屏 ◇ 骁龙 8 Gen5 移动平台 ◇ 50Mp 1/1.56'' 大底主摄 ◇ 50Mp 1/1.95'' IMX8 中底潜望 ◇ 8Mp 超广角 + 前置 50Mp，蔡司影像 ◇ 7015mAh/7100mAh± 电池，90W 快充…",
-          "keyPoints": [
-            "影像硬件",
-            "屏幕形态",
-            "电池 / 充电"
-          ],
-          "confidence": "可信度较高，但仍属于发布前线索。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "coolapk-user-847489662e28",
-          "title": "竹本青：OPPO被指红包雨“砍奖”：中奖者称7次中奖仅给1个奖品",
-          "originalTitle": "",
-          "source": "竹本青",
-          "brand": "OPPO",
-          "type": "爆料",
-          "trust": "高可信爆料",
-          "date": "2026-07-05",
-          "time": "10:14",
-          "publishedAt": "2026-07-05T10:14:49.000Z",
-          "url": "https://www.coolapk.com/feed/72660300",
-          "image": "http://image.coolapk.com/feed/2026/0705/18/4248714_dc444a35_6487_7945_866@550x397.jpg",
-          "verdict": "先看",
-          "takeaway": "【OPPO被指红包雨“砍奖”，中奖者称7次中奖仅给1个奖品】 据新浪科技《BUG》栏目今日报道，近日，OPPO又因6·18大促期间的红包雨奖品发放事宜，触怒了多数获奖人。 事因OPPO公布了红包名单。但该名单最新规定同一用户获得多份奖品仅发放“价值最高”的一件的做法，很快引发了大量获奖人的不满。 据多位获奖人对《BUG》栏目透露，自己在该红包雨活动期间，连…",
-          "detail": "【OPPO被指红包雨“砍奖”，中奖者称7次中奖仅给1个奖品】 据新浪科技《BUG》栏目今日报道，近日，OPPO又因6·18大促期间的红包雨奖品发放事宜，触怒了多数获奖人。 事因OPPO公布了红包名单。但该名单最新规定同一用户获得多份奖品仅发放“价值最高”的一件的做法，很快引发了大量获奖人的不满。 据多位获奖人对《BUG》栏目透露，自己在该红包雨活动期间，连…",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "可信度较高，但仍属于发布前线索。",
+          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         }
@@ -285,75 +285,6 @@ window.phoneRadarDaily = {
           "confidence": "可信度较高，但仍属于发布前线索。",
           "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
-        {
-          "id": "newsnow-ff053d70e8f3",
-          "title": "印度工厂泄露 iPhone18Pro 机密，这如何影响苹果在印度的布局？",
-          "originalTitle": "",
-          "source": "知乎热榜",
-          "brand": "iPhone",
-          "type": "市场报告",
-          "trust": "媒体汇总",
-          "date": "2026-07-05",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://www.zhihu.com/question/2056716909140354522",
-          "image": "",
-          "verdict": "扫一眼",
-          "takeaway": "印度工厂泄露 iPhone18Pro 机密，这如何影响苹果在印度的布局？",
-          "detail": "印度工厂泄露 iPhone18Pro 机密，这如何影响苹果在印度的布局？",
-          "keyPoints": [
-            "市场报告"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "目前更像背景信息，对买手机影响不大。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
-        {
-          "id": "auto-f9464a78a381",
-          "title": "iPhone 相关消息",
-          "originalTitle": "",
-          "source": "9to5Mac",
-          "brand": "iPhone",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-07-05",
-          "time": "03:07",
-          "publishedAt": "2026-07-05T03:07:08.000Z",
-          "url": "https://9to5mac.com/2026/07/04/iphone-17-pro-max-included-in-america-250-time-capsule/",
-          "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/10/iphone-17-pro-cosmic-orange-fernando.jpg?quality=82&strip=all&w=1600",
-          "verdict": "扫一眼",
-          "takeaway": "iPhone 相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
-          "detail": "iPhone 相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
-        {
-          "id": "auto-2adbc3d85daf",
-          "title": "iPhone 18 Pro 电池 / 充电相关消息",
-          "originalTitle": "",
-          "source": "Gizmochina",
-          "brand": "iPhone",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-07-04",
-          "time": "04:21",
-          "publishedAt": "2026-07-04T04:21:00.000Z",
-          "url": "https://www.gizmochina.com/2026/07/04/iphone-18-pro-and-pro-max-battery-capacities-confirmed-via-3c-certification/",
-          "image": "https://www.gizmochina.com/wp-content/uploads/2026/02/iPhone-18-Pro-Deep-Red-Feature_l_large-300x168.jpg?x44794",
-          "verdict": "扫一眼",
-          "takeaway": "iPhone 18 Pro 电池 / 充电相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
-          "detail": "iPhone 18 Pro 电池 / 充电相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
-          "keyPoints": [
-            "电池 / 充电"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "影响日常体验，尤其是游戏、拍照和长时间使用。",
-          "action": "有具体参数就记录到参数库；没有参数就先收藏。"
         }
       ]
     },
@@ -430,52 +361,6 @@ window.phoneRadarDaily = {
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
-        {
-          "id": "coolapk-user-a1be14efe241",
-          "title": "竹本青：【小米 17系列 最新总销量曝光：全系超554万，Ultra近23.1万】 小米 17系列 截至2026 W26…",
-          "originalTitle": "",
-          "source": "竹本青",
-          "brand": "Xiaomi",
-          "type": "爆料",
-          "trust": "高可信爆料",
-          "date": "2026-07-05",
-          "time": "13:22",
-          "publishedAt": "2026-07-05T13:22:55.000Z",
-          "url": "https://www.coolapk.com/feed/72662542",
-          "image": "http://image.coolapk.com/feed/2026/0705/21/4248714_b0c3da23_7774_0889_327@2930x2829.jpg",
-          "verdict": "扫一眼",
-          "takeaway": "【小米 17系列 最新总销量曝光：全系超554万，Ultra近23.1万】 小米 17系列 截至2026 W26 —— 约554.01万 截至2026 W25 —— 约544.96万 截至2026 W24 —— 约531.72万 截至2026 W23 —— 约517.2万 小米 17 Ultra 截至2026 W26 —— 约23.07万 截至2026 W…",
-          "detail": "【小米 17系列 最新总销量曝光：全系超554万，Ultra近23.1万】 小米 17系列 截至2026 W26 —— 约554.01万 截至2026 W25 —— 约544.96万 截至2026 W24 —— 约531.72万 截至2026 W23 —— 约517.2万 小米 17 Ultra 截至2026 W26 —— 约23.07万 截至2026 W…",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "可信度较高，但仍属于发布前线索。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
-        {
-          "id": "auto-a75e188c9856",
-          "title": "Vivo X300 Pro 对比 Vivo X300 Ultra：差异整理",
-          "originalTitle": "",
-          "source": "Gizmochina",
-          "brand": "vivo",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-07-05",
-          "time": "13:05",
-          "publishedAt": "2026-07-05T13:05:47.000Z",
-          "url": "https://www.gizmochina.com/2026/07/05/vivo-x300-pro-vs-vivo-x300-ultra-is-the-ultra-worth-the-extra-500/",
-          "image": "https://www.gizmochina.com/wp-content/uploads/2026/07/image-25-300x176.png?x44794",
-          "verdict": "可略过",
-          "takeaway": "Vivo X300 Pro 对比 Vivo X300 Ultra：重点看定位、配置差异和价格差，判断是否值得等更高端型号。",
-          "detail": "Vivo X300 Pro 对比 Vivo X300 Ultra 的差异整理。重点看两款机型的定位、影像规格、屏幕尺寸、价格区间和发布时间是否拉开差距。",
-          "keyPoints": [
-            "成本 / 价格"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "影响购买预算，值得先看。",
-          "action": "有具体参数就记录到参数库；没有参数就先收藏。"
         }
       ]
     }
