@@ -1,12 +1,12 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-07-05T04:19:18.901Z",
+  "updatedAt": "2026-07-05T09:22:03.218Z",
   "issueDate": "2026-07-05",
   "issue": "VOL.260705",
   "title": "手机情报日报",
-  "intro": "今日筛出 18 条重点，其中 8 条是重点爆料，包含 9 条 iPhone 相关、1 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 20 条重点，其中 8 条是重点爆料，包含 8 条 iPhone 相关、1 条官方确认、0 条参数线索。",
   "stats": {
-    "total": 18,
-    "iphone": 9,
+    "total": 20,
+    "iphone": 8,
     "leaks": 8,
     "official": 1,
     "specs": 0
@@ -18,8 +18,31 @@ window.phoneRadarDaily = {
       "hint": "机模、配色、影像、屏幕、电池和芯片线索先看。",
       "items": [
         {
+          "id": "auto-ad396152c73b",
+          "title": "苹果 iPhone 17 Pro Max 手机被封入“美国建国 250 周年纪念时间胶囊”，计划 2276 年开启待后人查看",
+          "originalTitle": "",
+          "source": "IT之家",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-07-05",
+          "time": "06:56",
+          "publishedAt": "2026-07-05T06:56:52.000Z",
+          "url": "https://www.ithome.com/0/972/770.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/7/6095f352-49fb-4ff5-ba47-bb148ea5717e.png",
+          "verdict": "先看",
+          "takeaway": "IT之家 7 月 5 日消息，据 FoxNews 报道，为庆祝美国建国 250 周年，一座名为“AMERICA250”的大型时间胶囊于昨天正式封存，计划于 2276 年美国建国 500 周年时开启。 相应时间胶囊收录了来自美国各州具有代表性的物品，用于记录当代社会的面貌，参考 FoxNews 视频，一部星宇橙（Cosmic Orange）配色的 iPhon…",
+          "detail": "IT之家 7 月 5 日消息，据 FoxNews 报道，为庆祝美国建国 250 周年，一座名为“AMERICA250”的大型时间胶囊于昨天正式封存，计划于 2276 年美国建国 500 周年时开启。 相应时间胶囊收录了来自美国各州具有代表性的物品，用于记录当代社会的面貌，参考 FoxNews 视频，一部星宇橙（Cosmic Orange）配色的 iPhon…",
+          "keyPoints": [
+            "外观 / 配色 / 尺寸"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
           "id": "coolapk-user-b1b3a300e0ad",
-          "title": "JSCHEN小小狐：『曝 iPhone 18 Pro 1/2TB 版本采用 QLC 颗粒』 知名芯片分析师 Reptalicant 根…",
+          "title": "JSCHEN小小狐：曝 iPhone 18 Pro 1TB / 2TB 版本采用 QLC 闪存颗粒",
           "originalTitle": "",
           "source": "JSCHEN小小狐",
           "brand": "iPhone",
@@ -65,29 +88,6 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
-          "id": "newsnow-c545d8b90e44",
-          "title": "iPhone18Pro配苹果史上最大电池",
-          "originalTitle": "",
-          "source": "百度热搜",
-          "brand": "iPhone",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-07-05",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://www.baidu.com/s?wd=iPhone18Pro%E9%85%8D%E8%8B%B9%E6%9E%9C%E5%8F%B2%E4%B8%8A%E6%9C%80%E5%A4%A7%E7%94%B5%E6%B1%A0",
-          "image": "",
-          "verdict": "先看",
-          "takeaway": "iPhone18Pro配苹果史上最大电池",
-          "detail": "iPhone18Pro配苹果史上最大电池",
-          "keyPoints": [
-            "电池 / 充电"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
           "id": "auto-81d652ca6afd",
           "title": "vivo X Fold6 折叠屏手机首销情况曝光，同期约为上一代的 90%",
           "originalTitle": "",
@@ -107,30 +107,6 @@ window.phoneRadarDaily = {
             "屏幕形态"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "auto-7bd3818c26bd",
-          "title": "IT早报 0705：史上最大苹果 iPhone 18 Pro Max 电池首曝；宇树科技陈立称关节电机核心技术全部自研；华为“韬定律”V2 版本发布；三星 DRAM 拟涨价 20%...",
-          "originalTitle": "",
-          "source": "IT之家",
-          "brand": "Huawei",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-07-04",
-          "time": "23:29",
-          "publishedAt": "2026-07-04T23:29:50.000Z",
-          "url": "https://www.ithome.com/0/972/684.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/7/fea707be-6d2a-40ef-89b3-7aeafe782c7e.jpg?x-bce-process=image/format,f_auto",
-          "verdict": "先看",
-          "takeaway": "“IT早报”时间，大家好，现在是 2026 年 7 月 5 日星期日，今天的重要科技资讯有： 1、消息称国行苹果 iPhone 18 Pro Max 电池 5391mAh，增幅 11.78% 数码博主 @数码闲聊站 7 月 4 日发布微博，发现苹果电池供应商的 3C 入网信息，透露苹果国行 iPhone 18 Pro 系列的电池信息。>> 查看详情 2、宇…",
-          "detail": "“IT早报”时间，大家好，现在是 2026 年 7 月 5 日星期日，今天的重要科技资讯有： 1、消息称国行苹果 iPhone 18 Pro Max 电池 5391mAh，增幅 11.78% 数码博主 @数码闲聊站 7 月 4 日发布微博，发现苹果电池供应商的 3C 入网信息，透露苹果国行 iPhone 18 Pro 系列的电池信息。>> 查看详情 2、宇…",
-          "keyPoints": [
-            "电池 / 充电",
-            "爆料来源"
-          ],
-          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
@@ -185,7 +161,7 @@ window.phoneRadarDaily = {
         },
         {
           "id": "coolapk-user-35adf37c0137",
-          "title": "JSCHEN小小狐：『博主汇总 vivo X300E 详细参数: 骁龙8 Gen5』 ◇ 6.59 英寸 1.5K LTPS OLED…",
+          "title": "JSCHEN小小狐：博主汇总 vivo X300E 详细参数：骁龙8 Gen5",
           "originalTitle": "",
           "source": "JSCHEN小小狐",
           "brand": "vivo",
@@ -205,6 +181,30 @@ window.phoneRadarDaily = {
             "电池 / 充电"
           ],
           "confidence": "可信度较高，但仍属于发布前线索。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "auto-4dd6cdd881d4",
+          "title": "Samsung 折叠屏相关消息",
+          "originalTitle": "",
+          "source": "9to5Google",
+          "brand": "Samsung",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-07-04",
+          "time": "14:00",
+          "publishedAt": "2026-07-04T14:00:00.000Z",
+          "url": "https://9to5google.com/2026/07/04/samsung-galaxy-z-fold-8-price-leak/",
+          "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/04/galaxy-z-fold-8-wide-leak-renders-onl-1.jpg?quality=82&strip=all&w=1600",
+          "verdict": "先看",
+          "takeaway": "Samsung 折叠屏相关消息。如果涉及订阅、售价或硬件成本，才需要进一步看细节。",
+          "detail": "Samsung 折叠屏相关消息。重点看折痕、铰链、厚度、屏幕可靠性和重量是否有实质改善。",
+          "keyPoints": [
+            "成本 / 价格",
+            "爆料来源"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         }
@@ -240,7 +240,7 @@ window.phoneRadarDaily = {
         },
         {
           "id": "coolapk-user-1db37419eeb5",
-          "title": "竹本青：【iPhone 17系列 中国区最新销量曝光：已超3630万台】 7月4日，博主「RD观测」发布第三方统计数据：截…",
+          "title": "竹本青：iPhone 17系列中国区最新销量曝光：已超3630万台",
           "originalTitle": "",
           "source": "竹本青",
           "brand": "iPhone",
@@ -259,29 +259,6 @@ window.phoneRadarDaily = {
           ],
           "confidence": "可信度较高，但仍属于发布前线索。",
           "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
-        {
-          "id": "newsnow-9df514a3a031",
-          "title": "如何看待苹果手机信息泄露，程度堪比马圣开源？",
-          "originalTitle": "",
-          "source": "知乎热榜",
-          "brand": "iPhone",
-          "type": "市场报告",
-          "trust": "媒体汇总",
-          "date": "2026-07-05",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://www.zhihu.com/question/2055966649900183829",
-          "image": "",
-          "verdict": "扫一眼",
-          "takeaway": "如何看待苹果手机信息泄露，程度堪比马圣开源？",
-          "detail": "如何看待苹果手机信息泄露，程度堪比马圣开源？",
-          "keyPoints": [
-            "市场报告"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "目前更像背景信息，对买手机影响不大。",
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         },
         {
@@ -308,8 +285,8 @@ window.phoneRadarDaily = {
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         },
         {
-          "id": "newsnow-8e1133a19320",
-          "title": "iPhone17销量冲击4000万台大关",
+          "id": "newsnow-3d1c03487a20",
+          "title": "iPhone17计划2276年重启",
           "originalTitle": "",
           "source": "微博热搜",
           "brand": "iPhone",
@@ -318,11 +295,11 @@ window.phoneRadarDaily = {
           "date": "2026-07-05",
           "time": "",
           "publishedAt": "",
-          "url": "https://s.weibo.com/weibo?q=%23iPhone17%E9%94%80%E9%87%8F%E5%86%B2%E5%87%BB4000%E4%B8%87%E5%8F%B0%E5%A4%A7%E5%85%B3%23&t=31&band_rank=15&Refer=top",
+          "url": "https://s.weibo.com/weibo?q=%23iPhone17%E8%AE%A1%E5%88%922276%E5%B9%B4%E9%87%8D%E5%90%AF%23&t=31&band_rank=7&Refer=top",
           "image": "",
           "verdict": "扫一眼",
-          "takeaway": "iPhone17销量冲击4000万台大关",
-          "detail": "iPhone17销量冲击4000万台大关",
+          "takeaway": "iPhone17计划2276年重启",
+          "detail": "iPhone17计划2276年重启",
           "keyPoints": [
             "爆料"
           ],
@@ -356,10 +333,63 @@ window.phoneRadarDaily = {
       ]
     },
     {
+      "id": "launch",
+      "title": "新机与官方发布",
+      "hint": "能直接更新到参数库。",
+      "items": [
+        {
+          "id": "auto-4797abbc4b88",
+          "title": "小米 REDMI K90 至尊版手机开启澎湃 HyperOS 系统正式版内测招募",
+          "originalTitle": "",
+          "source": "IT之家",
+          "brand": "Xiaomi",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-07-05",
+          "time": "05:06",
+          "publishedAt": "2026-07-05T05:06:44.000Z",
+          "url": "https://www.ithome.com/0/972/735.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/7/b4dc9526-cc60-437e-8e47-e1f5a19efa11.jpg",
+          "verdict": "先看",
+          "takeaway": "IT之家 7 月 5 日消息，小米社区显示， REDMI K90 至尊版手机已开启澎湃 HyperOS 系统正式版内测招募。 IT之家注：小米澎湃 OS 正式版内测是正式版发布前的测试版本， 用于测试一些未发布功能的稳定性 ，并收集用户反馈。正式版内测会根据项目需要和实际情况按需发布，存在不稳定和停版的可能。 小米官方表示，正式版内测存在不稳定因素， 参与…",
+          "detail": "IT之家 7 月 5 日消息，小米社区显示， REDMI K90 至尊版手机已开启澎湃 HyperOS 系统正式版内测招募。 IT之家注：小米澎湃 OS 正式版内测是正式版发布前的测试版本， 用于测试一些未发布功能的稳定性 ，并收集用户反馈。正式版内测会根据项目需要和实际情况按需发布，存在不稳定和停版的可能。 小米官方表示，正式版内测存在不稳定因素， 参与…",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "中文源可以直接点开快读；看完只保留和购机有关的点。"
+        }
+      ]
+    },
+    {
       "id": "market",
       "title": "行业趋势",
       "hint": "看方向，不急着当购买依据。",
       "items": [
+        {
+          "id": "newsnow-539e7c5ecc69",
+          "title": "自从玩酷安后，换手机的频率越来越高[流泪]本质上还是自己的消费习惯，我要改变，从k90至尊开始#REDMIK90至尊版# #HyperOS3# #数码日常#",
+          "originalTitle": "",
+          "source": "酷安热榜",
+          "brand": "Xiaomi",
+          "type": "爆料",
+          "trust": "高关注爆料源",
+          "date": "2026-07-05",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://www.coolapk.com/feed/72640972",
+          "image": "",
+          "verdict": "先看",
+          "takeaway": "自从玩酷安后，换手机的频率越来越高[流泪]本质上还是自己的消费习惯，我要改变，从k90至尊开始#REDMIK90至尊版# #HyperOS3# #数码日常#",
+          "detail": "自从玩酷安后，换手机的频率越来越高[流泪]本质上还是自己的消费习惯，我要改变，从k90至尊开始#REDMIK90至尊版# #HyperOS3# #数码日常#",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        },
         {
           "id": "auto-754e9a2f5cea",
           "title": "AYANEO：Pocket PLAY 手机项目仍在调优改进，将继续加快开发进程",
@@ -431,7 +461,7 @@ window.phoneRadarDaily = {
         },
         {
           "id": "coolapk-user-72b18dadfdf7",
-          "title": "竹本青：【vivo X Fold6 首销日销量曝光：约为上代90%】 7月4日，博主「RD观测」分享第三方统计数据：viv…",
+          "title": "竹本青：vivo X Fold6 首销日销量曝光：约为上代同期90%",
           "originalTitle": "",
           "source": "竹本青",
           "brand": "vivo",
@@ -443,14 +473,39 @@ window.phoneRadarDaily = {
           "url": "https://www.coolapk.com/feed/72643004",
           "image": "http://image.coolapk.com/feed/2026/0704/12/4248714_d14cfeb4_9093_0187_159@1272x660.jpg",
           "verdict": "扫一眼",
-          "takeaway": "【vivo X Fold6 首销日销量曝光：约为上代90%】 7月4日，博主「RD观测」分享第三方统计数据：vivo X Fold6 首销当日销量，约为前代X Fold5 同期的90%。 #今日热点# #vivoXFold6# #vivoXFold5#",
-          "detail": "【vivo X Fold6 首销日销量曝光：约为上代90%】 7月4日，博主「RD观测」分享第三方统计数据：vivo X Fold6 首销当日销量，约为前代X Fold5 同期的90%。 #今日热点# #vivoXFold6# #vivoXFold5#",
+          "takeaway": "【vivo X Fold6 首销日销量曝光：约为上代同期90%】 7月4日，博主「RD观测」分享第三方统计数据：vivo X Fold6 首销当日销量，约为前代X Fold5 同期的90%。 #今日热点# #vivoXFold6# #vivoXFold5#",
+          "detail": "【vivo X Fold6 首销日销量曝光：约为上代同期90%】 7月4日，博主「RD观测」分享第三方统计数据：vivo X Fold6 首销当日销量，约为前代X Fold5 同期的90%。 #今日热点# #vivoXFold6# #vivoXFold5#",
           "keyPoints": [
             "爆料"
           ],
           "confidence": "可信度较高，但仍属于发布前线索。",
           "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        },
+        {
+          "id": "auto-b2888ba23ed0",
+          "title": "OPPO 影像能力相关消息",
+          "originalTitle": "",
+          "source": "Gizmochina",
+          "brand": "OPPO",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-07-05",
+          "time": "08:46",
+          "publishedAt": "2026-07-05T08:46:13.000Z",
+          "url": "https://www.gizmochina.com/2026/07/05/oppo-reno16-vs-nothing-phone-4a/",
+          "image": "https://www.gizmochina.com/wp-content/uploads/2026/07/image-19-300x196.png?x44794",
+          "verdict": "可略过",
+          "takeaway": "OPPO 影像能力相关宣传或案例，主要看是否透露拍摄能力变化。",
+          "detail": "OPPO 影像能力相关消息。重点看影像功能是否和新机硬件有关，如果只是拍摄案例或营销内容，参考价值会低一些。",
+          "keyPoints": [
+            "影像硬件",
+            "电池 / 充电",
+            "成本 / 价格"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "影响购买预算，值得先看。",
+          "action": "有具体参数就记录到参数库；没有参数就先收藏。"
         }
       ]
     }

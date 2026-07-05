@@ -1,6 +1,86 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-07-05T04:19:18.901Z",
+  "updatedAt": "2026-07-05T09:22:03.218Z",
   "news": [
+    {
+      "id": "auto-bddcaf5eca76",
+      "title": "奶奶删了 77 万条未读又来 3 万，微信承诺异常企业微信拉群将强制确认",
+      "source": "IT之家",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-05",
+      "time": "08:50",
+      "publishedAt": "2026-07-05T08:50:26.000Z",
+      "url": "https://www.ithome.com/0/972/803.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/7/5374f2a7-6528-447c-8515-68af121eb568.png?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 7 月 5 日消息，88 岁的奶奶，手机里竟有 77 万多条未读消息！央视新闻今日发布老年人遭遇“数字围猎”相关报道。 报道称，这半年多，给奶奶删微信消息，也成了孙女每次来养老院探望她时的固定节目。然而，本周五，他们再次来探望奶奶时却发现，上次已经删干净的微信， 又冒出了 3 万多条未读消息 。 打开奶奶的微信界面，全是企业微信群。这些群，都是奶…",
+      "tags": [
+        "行业",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-b2888ba23ed0",
+      "title": "OPPO Reno16 vs Nothing Phone (4a): Full Comparison of Specs, Cameras & Battery",
+      "source": "Gizmochina",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-05",
+      "time": "08:46",
+      "publishedAt": "2026-07-05T08:46:13.000Z",
+      "url": "https://www.gizmochina.com/2026/07/05/oppo-reno16-vs-nothing-phone-4a/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/07/image-19-300x196.png?x44794",
+      "summary": "When two smartphones target very different price points, the comparison becomes even more interesting. The OPPO Reno16 brings premium hardware with a flagship-inspired camera syst…",
+      "tags": [
+        "OPPO",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-ad396152c73b",
+      "title": "苹果 iPhone 17 Pro Max 手机被封入“美国建国 250 周年纪念时间胶囊”，计划 2276 年开启待后人查看",
+      "source": "IT之家",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-05",
+      "time": "06:56",
+      "publishedAt": "2026-07-05T06:56:52.000Z",
+      "url": "https://www.ithome.com/0/972/770.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/7/6095f352-49fb-4ff5-ba47-bb148ea5717e.png",
+      "summary": "IT之家 7 月 5 日消息，据 FoxNews 报道，为庆祝美国建国 250 周年，一座名为“AMERICA250”的大型时间胶囊于昨天正式封存，计划于 2276 年美国建国 500 周年时开启。 相应时间胶囊收录了来自美国各州具有代表性的物品，用于记录当代社会的面貌，参考 FoxNews 视频，一部星宇橙（Cosmic Orange）配色的 iPhon…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-4797abbc4b88",
+      "title": "小米 REDMI K90 至尊版手机开启澎湃 HyperOS 系统正式版内测招募",
+      "source": "IT之家",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-05",
+      "time": "05:06",
+      "publishedAt": "2026-07-05T05:06:44.000Z",
+      "url": "https://www.ithome.com/0/972/735.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/7/b4dc9526-cc60-437e-8e47-e1f5a19efa11.jpg",
+      "summary": "IT之家 7 月 5 日消息，小米社区显示， REDMI K90 至尊版手机已开启澎湃 HyperOS 系统正式版内测招募。 IT之家注：小米澎湃 OS 正式版内测是正式版发布前的测试版本， 用于测试一些未发布功能的稳定性 ，并收集用户反馈。正式版内测会根据项目需要和实际情况按需发布，存在不稳定和停版的可能。 小米官方表示，正式版内测存在不稳定因素， 参与…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-81d652ca6afd",
       "title": "vivo X Fold6 折叠屏手机首销情况曝光，同期约为上一代的 90%",
@@ -102,6 +182,26 @@ window.phoneRadarAuto = {
       ]
     },
     {
+      "id": "newsnow-539e7c5ecc69",
+      "title": "自从玩酷安后，换手机的频率越来越高[流泪]本质上还是自己的消费习惯，我要改变，从k90至尊开始#REDMIK90至尊版# #HyperOS3# #数码日常#",
+      "source": "酷安热榜",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-07-05",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/72640972",
+      "image": "",
+      "summary": "自从玩酷安后，换手机的频率越来越高[流泪]本质上还是自己的消费习惯，我要改变，从k90至尊开始#REDMIK90至尊版# #HyperOS3# #数码日常#",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
       "id": "newsnow-be42cbceba58",
       "title": "REDMI K90 Max \"地漏\"",
       "source": "酷安热榜",
@@ -122,8 +222,8 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-8e1133a19320",
-      "title": "iPhone17销量冲击4000万台大关",
+      "id": "newsnow-3d1c03487a20",
+      "title": "iPhone17计划2276年重启",
       "source": "微博热搜",
       "brand": "iPhone",
       "model": "iPhone 相关机型",
@@ -132,31 +232,11 @@ window.phoneRadarAuto = {
       "date": "2026-07-05",
       "time": "",
       "publishedAt": "",
-      "url": "https://s.weibo.com/weibo?q=%23iPhone17%E9%94%80%E9%87%8F%E5%86%B2%E5%87%BB4000%E4%B8%87%E5%8F%B0%E5%A4%A7%E5%85%B3%23&t=31&band_rank=15&Refer=top",
+      "url": "https://s.weibo.com/weibo?q=%23iPhone17%E8%AE%A1%E5%88%922276%E5%B9%B4%E9%87%8D%E5%90%AF%23&t=31&band_rank=7&Refer=top",
       "image": "",
-      "summary": "iPhone17销量冲击4000万台大关",
+      "summary": "iPhone17计划2276年重启",
       "tags": [
         "iPhone",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-6f8e350968c2",
-      "title": "赛琳娜在霉霉婚礼上用手机",
-      "source": "微博热搜",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "待验证",
-      "date": "2026-07-05",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://s.weibo.com/weibo?q=%23%E8%B5%9B%E7%90%B3%E5%A8%9C%E5%9C%A8%E9%9C%89%E9%9C%89%E5%A9%9A%E7%A4%BC%E4%B8%8A%E7%94%A8%E6%89%8B%E6%9C%BA%23&t=31&band_rank=26&Refer=top",
-      "image": "",
-      "summary": "赛琳娜在霉霉婚礼上用手机",
-      "tags": [
-        "行业",
         "爆料",
         "NewsNow"
       ]
@@ -182,63 +262,43 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-9df514a3a031",
-      "title": "如何看待苹果手机信息泄露，程度堪比马圣开源？",
+      "id": "newsnow-27d9a3352434",
+      "title": "如何看待极客湾麒麟 9030 芯片性能详细解析（Mate 80 Pro）视频上线？",
       "source": "知乎热榜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
+      "brand": "行业",
+      "model": "智能手机市场",
       "type": "市场报告",
       "trust": "媒体汇总",
       "date": "2026-07-05",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.zhihu.com/question/2055966649900183829",
+      "url": "https://www.zhihu.com/question/2056487235072029858",
       "image": "",
-      "summary": "如何看待苹果手机信息泄露，程度堪比马圣开源？",
+      "summary": "如何看待极客湾麒麟 9030 芯片性能详细解析（Mate 80 Pro）视频上线？",
       "tags": [
-        "iPhone",
+        "行业",
         "市场报告",
         "NewsNow"
       ]
     },
     {
-      "id": "newsnow-c545d8b90e44",
-      "title": "iPhone18Pro配苹果史上最大电池",
-      "source": "百度热搜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
+      "id": "newsnow-43e3f2ce745e",
+      "title": "心梗老人看牙被全口拔光，医院拿走手机刷光 18800 元还欠 6200 元，医院做法存在哪些违规或失当之处？",
+      "source": "知乎热榜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "市场报告",
       "trust": "媒体汇总",
       "date": "2026-07-05",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.baidu.com/s?wd=iPhone18Pro%E9%85%8D%E8%8B%B9%E6%9E%9C%E5%8F%B2%E4%B8%8A%E6%9C%80%E5%A4%A7%E7%94%B5%E6%B1%A0",
+      "url": "https://www.zhihu.com/question/2056861703225042408",
       "image": "",
-      "summary": "iPhone18Pro配苹果史上最大电池",
+      "summary": "心梗老人看牙被全口拔光，医院拿走手机刷光 18800 元还欠 6200 元，医院做法存在哪些违规或失当之处？",
       "tags": [
-        "iPhone",
-        "爆料",
+        "行业",
+        "市场报告",
         "NewsNow"
-      ]
-    },
-    {
-      "id": "auto-7bd3818c26bd",
-      "title": "IT早报 0705：史上最大苹果 iPhone 18 Pro Max 电池首曝；宇树科技陈立称关节电机核心技术全部自研；华为“韬定律”V2 版本发布；三星 DRAM 拟涨价 20%...",
-      "source": "IT之家",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-04",
-      "time": "23:29",
-      "publishedAt": "2026-07-04T23:29:50.000Z",
-      "url": "https://www.ithome.com/0/972/684.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/7/fea707be-6d2a-40ef-89b3-7aeafe782c7e.jpg?x-bce-process=image/format,f_auto",
-      "summary": "“IT早报”时间，大家好，现在是 2026 年 7 月 5 日星期日，今天的重要科技资讯有： 1、消息称国行苹果 iPhone 18 Pro Max 电池 5391mAh，增幅 11.78% 数码博主 @数码闲聊站 7 月 4 日发布微博，发现苹果电池供应商的 3C 入网信息，透露苹果国行 iPhone 18 Pro 系列的电池信息。>> 查看详情 2、宇…",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "自动抓取"
       ]
     },
     {
@@ -303,7 +363,7 @@ window.phoneRadarAuto = {
     },
     {
       "id": "coolapk-user-b1b3a300e0ad",
-      "title": "JSCHEN小小狐：『曝 iPhone 18 Pro 1/2TB 版本采用 QLC 颗粒』 知名芯片分析师 Reptalicant 根…",
+      "title": "JSCHEN小小狐：曝 iPhone 18 Pro 1TB / 2TB 版本采用 QLC 闪存颗粒",
       "source": "JSCHEN小小狐",
       "brand": "iPhone",
       "model": "iPhone 相关机型",
@@ -323,7 +383,7 @@ window.phoneRadarAuto = {
     },
     {
       "id": "coolapk-user-1db37419eeb5",
-      "title": "竹本青：【iPhone 17系列 中国区最新销量曝光：已超3630万台】 7月4日，博主「RD观测」发布第三方统计数据：截…",
+      "title": "竹本青：iPhone 17系列中国区最新销量曝光：已超3630万台",
       "source": "竹本青",
       "brand": "iPhone",
       "model": "iPhone 相关机型",
@@ -383,7 +443,7 @@ window.phoneRadarAuto = {
     },
     {
       "id": "coolapk-user-35adf37c0137",
-      "title": "JSCHEN小小狐：『博主汇总 vivo X300E 详细参数: 骁龙8 Gen5』 ◇ 6.59 英寸 1.5K LTPS OLED…",
+      "title": "JSCHEN小小狐：博主汇总 vivo X300E 详细参数：骁龙8 Gen5",
       "source": "JSCHEN小小狐",
       "brand": "vivo",
       "model": "vivo 相关机型",
@@ -443,7 +503,7 @@ window.phoneRadarAuto = {
     },
     {
       "id": "coolapk-user-72b18dadfdf7",
-      "title": "竹本青：【vivo X Fold6 首销日销量曝光：约为上代90%】 7月4日，博主「RD观测」分享第三方统计数据：viv…",
+      "title": "竹本青：vivo X Fold6 首销日销量曝光：约为上代同期90%",
       "source": "竹本青",
       "brand": "vivo",
       "model": "vivo 相关机型",
@@ -454,7 +514,7 @@ window.phoneRadarAuto = {
       "publishedAt": "2026-07-04T04:24:53.000Z",
       "url": "https://www.coolapk.com/feed/72643004",
       "image": "http://image.coolapk.com/feed/2026/0704/12/4248714_d14cfeb4_9093_0187_159@1272x660.jpg",
-      "summary": "【vivo X Fold6 首销日销量曝光：约为上代90%】 7月4日，博主「RD观测」分享第三方统计数据：vivo X Fold6 首销当日销量，约为前代X Fold5 同期的90%。 #今日热点# #vivoXFold6# #vivoXFold5#",
+      "summary": "【vivo X Fold6 首销日销量曝光：约为上代同期90%】 7月4日，博主「RD观测」分享第三方统计数据：vivo X Fold6 首销当日销量，约为前代X Fold5 同期的90%。 #今日热点# #vivoXFold6# #vivoXFold5#",
       "tags": [
         "vivo",
         "爆料",
