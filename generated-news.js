@@ -1,6 +1,46 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-07-05T14:08:33.449Z",
+  "updatedAt": "2026-07-05T15:37:45.238Z",
   "news": [
+    {
+      "id": "auto-eabc94dc6d73",
+      "title": "郭明錤称苹果折叠屏手机可能重演 iPhone X 剧本：同场发布、较晚开卖，供应紧张延续至年底",
+      "source": "IT之家",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-05",
+      "time": "14:37",
+      "publishedAt": "2026-07-05T14:37:24.000Z",
+      "url": "https://www.ithome.com/0/972/859.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/7/a600f6b1-0535-48e3-8825-83aa8a22bfed.jpg",
+      "summary": "IT之家 7 月 5 日消息，天风国际证券分析师郭明錤今晚在 X 平台发文，称折叠 iPhone 可能重演 iPhone X 剧本： 同场发布、延后开售，供应吃紧延续至年底 。 据其最新产业调查，折叠 iPhone 在 2H26（2026 年下半年）的组装出货量约 700‒800 万部，其中 3Q26（2026 年第三季度）出货量为 50‒100 万部（占…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-901cd9637d15",
+      "title": "竹本青：除了续航不行，其他都挺好使",
+      "source": "竹本青",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-07-05",
+      "time": "14:24",
+      "publishedAt": "2026-07-05T14:24:17.000Z",
+      "url": "https://www.coolapk.com/feed/72663388",
+      "image": "",
+      "summary": "除了续航不行，其他都挺好使",
+      "tags": [
+        "OPPO",
+        "爆料",
+        "酷安博主"
+      ]
+    },
     {
       "id": "coolapk-user-a1be14efe241",
       "title": "竹本青：【小米 17系列 最新总销量曝光：全系超554万，Ultra近23.1万】 小米 17系列 截至2026 W26…",
@@ -242,26 +282,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-ad396152c73b",
-      "title": "苹果 iPhone 17 Pro Max 手机被封入“美国建国 250 周年纪念时间胶囊”，计划 2276 年开启待后人查看",
-      "source": "IT之家",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-05",
-      "time": "06:56",
-      "publishedAt": "2026-07-05T06:56:52.000Z",
-      "url": "https://www.ithome.com/0/972/770.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/7/6095f352-49fb-4ff5-ba47-bb148ea5717e.png",
-      "summary": "IT之家 7 月 5 日消息，据 FoxNews 报道，为庆祝美国建国 250 周年，一座名为“AMERICA250”的大型时间胶囊于昨天正式封存，计划于 2276 年美国建国 500 周年时开启。 相应时间胶囊收录了来自美国各州具有代表性的物品，用于记录当代社会的面貌，参考 FoxNews 视频，一部星宇橙（Cosmic Orange）配色的 iPhon…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-f9464a78a381",
       "title": "iPhone 17 Pro Max buried in America’s 250th anniversary time capsule: to be opened in 2276",
       "source": "9to5Mac",
@@ -362,26 +382,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-2095ddf86b70",
-      "title": "苹果印度工厂这个泄密怎么个事？是不是代表着可以买到2500块的华强北iPhone18了？如果能买到，我建议华强北增加内置信号放大器，增加120瓦快充，扩大和增加电池的使用时间。就叫iPhone18 Pro Max Ultra。",
-      "source": "酷安热榜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-07-05",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72651421",
-      "image": "",
-      "summary": "苹果印度工厂这个泄密怎么个事？是不是代表着可以买到2500块的华强北iPhone18了？如果能买到，我建议华强北增加内置信号放大器，增加120瓦快充，扩大和增加电池的使用时间。就叫iPhone18 Pro Max Ultra。",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
       "id": "newsnow-762a674dbc9a",
       "title": "曝 iPhone 18 Pro 1TB / 2TB 版本采用 QLC 闪存颗粒",
       "source": "酷安热榜",
@@ -422,26 +422,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-c4850abe44fa",
-      "title": "寒门女孩高考 699 分报考清华却被网暴，劝学生别沉迷手机为何引来几十万点赞的负面评论？",
-      "source": "知乎热榜",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "市场报告",
-      "trust": "媒体汇总",
-      "date": "2026-07-05",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.zhihu.com/question/2056771003376722999",
-      "image": "",
-      "summary": "寒门女孩高考 699 分报考清华却被网暴，劝学生别沉迷手机为何引来几十万点赞的负面评论？",
-      "tags": [
-        "行业",
-        "市场报告",
-        "NewsNow"
-      ]
-    },
-    {
       "id": "newsnow-43e3f2ce745e",
       "title": "心梗老人看牙被全口拔光，医院拿走手机刷光 18800 元还欠 6200 元，医院做法存在哪些违规或失当之处？",
       "source": "知乎热榜",
@@ -455,6 +435,46 @@ window.phoneRadarAuto = {
       "url": "https://www.zhihu.com/question/2056861703225042408",
       "image": "",
       "summary": "心梗老人看牙被全口拔光，医院拿走手机刷光 18800 元还欠 6200 元，医院做法存在哪些违规或失当之处？",
+      "tags": [
+        "行业",
+        "市场报告",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-ff053d70e8f3",
+      "title": "印度工厂泄露 iPhone18Pro 机密，这如何影响苹果在印度的布局？",
+      "source": "知乎热榜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "市场报告",
+      "trust": "媒体汇总",
+      "date": "2026-07-05",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.zhihu.com/question/2056716909140354522",
+      "image": "",
+      "summary": "印度工厂泄露 iPhone18Pro 机密，这如何影响苹果在印度的布局？",
+      "tags": [
+        "iPhone",
+        "市场报告",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-c4850abe44fa",
+      "title": "寒门女孩高考 699 分报考清华却被网暴，劝学生别沉迷手机为何引来几十万点赞的负面评论？",
+      "source": "知乎热榜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "市场报告",
+      "trust": "媒体汇总",
+      "date": "2026-07-05",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.zhihu.com/question/2056771003376722999",
+      "image": "",
+      "summary": "寒门女孩高考 699 分报考清华却被网暴，劝学生别沉迷手机为何引来几十万点赞的负面评论？",
       "tags": [
         "行业",
         "市场报告",
@@ -639,26 +659,6 @@ window.phoneRadarAuto = {
         "Huawei",
         "爆料",
         "自动抓取"
-      ]
-    },
-    {
-      "id": "coolapk-user-72b18dadfdf7",
-      "title": "竹本青：vivo X Fold6 首销日销量曝光：约为上代同期90%",
-      "source": "竹本青",
-      "brand": "vivo",
-      "model": "vivo 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-07-04",
-      "time": "04:24",
-      "publishedAt": "2026-07-04T04:24:53.000Z",
-      "url": "https://www.coolapk.com/feed/72643004",
-      "image": "http://image.coolapk.com/feed/2026/0704/12/4248714_d14cfeb4_9093_0187_159@1272x660.jpg",
-      "summary": "【vivo X Fold6 首销日销量曝光：约为上代同期90%】 7月4日，博主「RD观测」分享第三方统计数据：vivo X Fold6 首销当日销量，约为前代X Fold5 同期的90%。 #今日热点# #vivoXFold6# #vivoXFold5#",
-      "tags": [
-        "vivo",
-        "爆料",
-        "酷安博主"
       ]
     },
     {

@@ -1,5 +1,5 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-07-05T14:08:33.449Z",
+  "updatedAt": "2026-07-05T15:37:45.238Z",
   "issueDate": "2026-07-05",
   "issue": "VOL.260705",
   "title": "手机情报日报",
@@ -18,46 +18,23 @@ window.phoneRadarDaily = {
       "hint": "机模、配色、影像、屏幕、电池和芯片线索先看。",
       "items": [
         {
-          "id": "auto-ad396152c73b",
-          "title": "苹果 iPhone 17 Pro Max 手机被封入“美国建国 250 周年纪念时间胶囊”，计划 2276 年开启待后人查看",
+          "id": "auto-eabc94dc6d73",
+          "title": "郭明錤称苹果折叠屏手机可能重演 iPhone X 剧本：同场发布、较晚开卖，供应紧张延续至年底",
           "originalTitle": "",
           "source": "IT之家",
           "brand": "iPhone",
           "type": "爆料",
           "trust": "媒体汇总",
           "date": "2026-07-05",
-          "time": "06:56",
-          "publishedAt": "2026-07-05T06:56:52.000Z",
-          "url": "https://www.ithome.com/0/972/770.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/7/6095f352-49fb-4ff5-ba47-bb148ea5717e.png",
+          "time": "14:37",
+          "publishedAt": "2026-07-05T14:37:24.000Z",
+          "url": "https://www.ithome.com/0/972/859.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/7/a600f6b1-0535-48e3-8825-83aa8a22bfed.jpg",
           "verdict": "先看",
-          "takeaway": "IT之家 7 月 5 日消息，据 FoxNews 报道，为庆祝美国建国 250 周年，一座名为“AMERICA250”的大型时间胶囊于昨天正式封存，计划于 2276 年美国建国 500 周年时开启。 相应时间胶囊收录了来自美国各州具有代表性的物品，用于记录当代社会的面貌，参考 FoxNews 视频，一部星宇橙（Cosmic Orange）配色的 iPhon…",
-          "detail": "IT之家 7 月 5 日消息，据 FoxNews 报道，为庆祝美国建国 250 周年，一座名为“AMERICA250”的大型时间胶囊于昨天正式封存，计划于 2276 年美国建国 500 周年时开启。 相应时间胶囊收录了来自美国各州具有代表性的物品，用于记录当代社会的面貌，参考 FoxNews 视频，一部星宇橙（Cosmic Orange）配色的 iPhon…",
+          "takeaway": "IT之家 7 月 5 日消息，天风国际证券分析师郭明錤今晚在 X 平台发文，称折叠 iPhone 可能重演 iPhone X 剧本： 同场发布、延后开售，供应吃紧延续至年底 。 据其最新产业调查，折叠 iPhone 在 2H26（2026 年下半年）的组装出货量约 700‒800 万部，其中 3Q26（2026 年第三季度）出货量为 50‒100 万部（占…",
+          "detail": "IT之家 7 月 5 日消息，天风国际证券分析师郭明錤今晚在 X 平台发文，称折叠 iPhone 可能重演 iPhone X 剧本： 同场发布、延后开售，供应吃紧延续至年底 。 据其最新产业调查，折叠 iPhone 在 2H26（2026 年下半年）的组装出货量约 700‒800 万部，其中 3Q26（2026 年第三季度）出货量为 50‒100 万部（占…",
           "keyPoints": [
-            "外观 / 配色 / 尺寸"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "newsnow-2095ddf86b70",
-          "title": "苹果印度工厂这个泄密怎么个事？是不是代表着可以买到2500块的华强北iPhone18了？如果能买到，我建议华强北增加内置信号放大器，增加120瓦快充，扩大和增加电池的使用时间。就叫iPhone18 Pro Max Ultra。",
-          "originalTitle": "",
-          "source": "酷安热榜",
-          "brand": "iPhone",
-          "type": "爆料",
-          "trust": "高关注爆料源",
-          "date": "2026-07-05",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://www.coolapk.com/feed/72651421",
-          "image": "",
-          "verdict": "先看",
-          "takeaway": "苹果印度工厂这个泄密怎么个事？是不是代表着可以买到2500块的华强北iPhone18了？如果能买到，我建议华强北增加内置信号放大器，增加120瓦快充，扩大和增加电池的使用时间。就叫iPhone18 Pro Max Ultra。",
-          "detail": "苹果印度工厂这个泄密怎么个事？是不是代表着可以买到2500块的华强北iPhone18了？如果能买到，我建议华强北增加内置信号放大器，增加120瓦快充，扩大和增加电池的使用时间。就叫iPhone18 Pro Max Ultra。",
-          "keyPoints": [
-            "电池 / 充电"
+            "屏幕形态"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
@@ -133,6 +110,29 @@ window.phoneRadarDaily = {
             "电池 / 充电"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "coolapk-user-901cd9637d15",
+          "title": "竹本青：除了续航不行，其他都挺好使",
+          "originalTitle": "",
+          "source": "竹本青",
+          "brand": "OPPO",
+          "type": "爆料",
+          "trust": "高可信爆料",
+          "date": "2026-07-05",
+          "time": "14:24",
+          "publishedAt": "2026-07-05T14:24:17.000Z",
+          "url": "https://www.coolapk.com/feed/72663388",
+          "image": "",
+          "verdict": "先看",
+          "takeaway": "除了续航不行，其他都挺好使",
+          "detail": "除了续航不行，其他都挺好使",
+          "keyPoints": [
+            "电池 / 充电"
+          ],
+          "confidence": "可信度较高，但仍属于发布前线索。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
@@ -287,6 +287,29 @@ window.phoneRadarDaily = {
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         },
         {
+          "id": "newsnow-ff053d70e8f3",
+          "title": "印度工厂泄露 iPhone18Pro 机密，这如何影响苹果在印度的布局？",
+          "originalTitle": "",
+          "source": "知乎热榜",
+          "brand": "iPhone",
+          "type": "市场报告",
+          "trust": "媒体汇总",
+          "date": "2026-07-05",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://www.zhihu.com/question/2056716909140354522",
+          "image": "",
+          "verdict": "扫一眼",
+          "takeaway": "印度工厂泄露 iPhone18Pro 机密，这如何影响苹果在印度的布局？",
+          "detail": "印度工厂泄露 iPhone18Pro 机密，这如何影响苹果在印度的布局？",
+          "keyPoints": [
+            "市场报告"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "目前更像背景信息，对买手机影响不大。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        },
+        {
           "id": "auto-f9464a78a381",
           "title": "iPhone 相关消息",
           "originalTitle": "",
@@ -424,29 +447,6 @@ window.phoneRadarDaily = {
           "verdict": "扫一眼",
           "takeaway": "【小米 17系列 最新总销量曝光：全系超554万，Ultra近23.1万】 小米 17系列 截至2026 W26 —— 约554.01万 截至2026 W25 —— 约544.96万 截至2026 W24 —— 约531.72万 截至2026 W23 —— 约517.2万 小米 17 Ultra 截至2026 W26 —— 约23.07万 截至2026 W…",
           "detail": "【小米 17系列 最新总销量曝光：全系超554万，Ultra近23.1万】 小米 17系列 截至2026 W26 —— 约554.01万 截至2026 W25 —— 约544.96万 截至2026 W24 —— 约531.72万 截至2026 W23 —— 约517.2万 小米 17 Ultra 截至2026 W26 —— 约23.07万 截至2026 W…",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "可信度较高，但仍属于发布前线索。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
-        {
-          "id": "coolapk-user-72b18dadfdf7",
-          "title": "竹本青：vivo X Fold6 首销日销量曝光：约为上代同期90%",
-          "originalTitle": "",
-          "source": "竹本青",
-          "brand": "vivo",
-          "type": "爆料",
-          "trust": "高可信爆料",
-          "date": "2026-07-04",
-          "time": "04:24",
-          "publishedAt": "2026-07-04T04:24:53.000Z",
-          "url": "https://www.coolapk.com/feed/72643004",
-          "image": "http://image.coolapk.com/feed/2026/0704/12/4248714_d14cfeb4_9093_0187_159@1272x660.jpg",
-          "verdict": "扫一眼",
-          "takeaway": "【vivo X Fold6 首销日销量曝光：约为上代同期90%】 7月4日，博主「RD观测」分享第三方统计数据：vivo X Fold6 首销当日销量，约为前代X Fold5 同期的90%。 #今日热点# #vivoXFold6# #vivoXFold5#",
-          "detail": "【vivo X Fold6 首销日销量曝光：约为上代同期90%】 7月4日，博主「RD观测」分享第三方统计数据：vivo X Fold6 首销当日销量，约为前代X Fold5 同期的90%。 #今日热点# #vivoXFold6# #vivoXFold5#",
           "keyPoints": [
             "爆料"
           ],
