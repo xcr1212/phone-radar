@@ -1,6 +1,26 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-07-05T21:19:06.572Z",
+  "updatedAt": "2026-07-05T23:17:28.483Z",
   "news": [
+    {
+      "id": "auto-c912f8991ecc",
+      "title": "小米 17 系列手机最新销量数据曝光：全系突破 550 万台，Ultra 约 23.07 万",
+      "source": "IT之家",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-05",
+      "time": "23:01",
+      "publishedAt": "2026-07-05T23:01:28.000Z",
+      "url": "https://www.ithome.com/0/972/869.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/7/33e07dc9-21f2-473d-9a69-96e701a3dcdf.png",
+      "summary": "IT之家 7 月 6 日消息，据长期关注国内手机市场份额的数码博主 @RD观测 昨晚爆料，截至 2026 年第 26 周（6 月 22 日-6 月 28 日）， 小米 17 系列旗舰的销量突破 550 万台 。 小米 17 系列约 554.01 万 小米 17 Ultra 约 23.07 万 另外，小米面向中端推出的 17T 系列手机销量也来到了 18 万…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-6b31fbb80669",
       "title": "Report: iPhone Ultra to have incredibly limited availability at launch, may ship slightly later",
@@ -462,8 +482,8 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-27d9a3352434",
-      "title": "如何看待极客湾麒麟 9030 芯片性能详细解析（Mate 80 Pro）视频上线？",
+      "id": "newsnow-43e3f2ce745e",
+      "title": "心梗老人看牙被全口拔光，医院拿走手机刷光 18800 元还欠 6200 元，医院做法存在哪些违规或失当之处？",
       "source": "知乎热榜",
       "brand": "行业",
       "model": "智能手机市场",
@@ -472,9 +492,9 @@ window.phoneRadarAuto = {
       "date": "2026-07-05",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.zhihu.com/question/2056487235072029858",
+      "url": "https://www.zhihu.com/question/2056861703225042408",
       "image": "",
-      "summary": "如何看待极客湾麒麟 9030 芯片性能详细解析（Mate 80 Pro）视频上线？",
+      "summary": "心梗老人看牙被全口拔光，医院拿走手机刷光 18800 元还欠 6200 元，医院做法存在哪些违规或失当之处？",
       "tags": [
         "行业",
         "市场报告",
