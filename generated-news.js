@@ -1,5 +1,5 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-07-05T17:31:49.261Z",
+  "updatedAt": "2026-07-05T19:41:24.495Z",
   "news": [
     {
       "id": "auto-15def25a53de",
@@ -43,7 +43,7 @@ window.phoneRadarAuto = {
     },
     {
       "id": "coolapk-user-04777501050d",
-      "title": "竹本青：【REDMI K90标准版、Note15系列 正式调价，涨幅200-300元】 ● K90 标准版 12+256G…",
+      "title": "竹本青：【REDMI K90 标准版、Note 15系列 正式调价，涨幅200-300元】 7月6日，REDMI 四款手机…",
       "source": "竹本青",
       "brand": "Xiaomi",
       "model": "Xiaomi 相关机型",
@@ -54,7 +54,7 @@ window.phoneRadarAuto = {
       "publishedAt": "2026-07-05T16:19:14.000Z",
       "url": "https://www.coolapk.com/feed/72664971",
       "image": "http://image.coolapk.com/feed/2026/0706/01/4248714_fc3e813b_0937_3943_536@2136x1602.jpg",
-      "summary": "【REDMI K90标准版、Note15系列 正式调价，涨幅200-300元】 ● K90 标准版 12+256GB：2599元 → 2799元（涨200元） 12+512GB：3099元 → 3399元（涨300元） 16+512GB：3499元 → 3699元（涨200元） 16+1TB：3999元 → 4199元（涨200元） ● Note15 标准…",
+      "summary": "【REDMI K90 标准版、Note 15系列 正式调价，涨幅200-300元】 7月6日，REDMI 四款手机同步涨价，分别为K90 标准版、Note 15、Note 15 Pro、Note 15 Pro+，具体价格调整如下： ● K90 标准版 12+256GB：2599元 → 2799元（涨200元） 16+256GB：2899元 → 3099元（…",
       "tags": [
         "Xiaomi",
         "爆料",
@@ -382,86 +382,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-7816e1d408bc",
-      "title": "K90至尊就是目前最流畅的澎湃，最流畅的米系手机，彻底解决了K90 Pro Max和小米17全系列日用极其容易发烫，发烫后掉帧卡顿的问题，主动散热就是力大飞砖，这流畅度在米系机型里面确实是登顶了，跟天玑9500的K90 max相比，至尊更流畅，max续航更好。",
-      "source": "酷安热榜",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-07-05",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72647704",
-      "image": "",
-      "summary": "K90至尊就是目前最流畅的澎湃，最流畅的米系手机，彻底解决了K90 Pro Max和小米17全系列日用极其容易发烫，发烫后掉帧卡顿的问题，主动散热就是力大飞砖，这流畅度在米系机型里面确实是登顶了，跟天玑9500的K90 max相比，至尊更流畅，max续航更好。",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-539e7c5ecc69",
-      "title": "自从玩酷安后，换手机的频率越来越高[流泪]本质上还是自己的消费习惯，我要改变，从k90至尊开始#REDMIK90至尊版# #HyperOS3# #数码日常#",
-      "source": "酷安热榜",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-07-05",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72640972",
-      "image": "",
-      "summary": "自从玩酷安后，换手机的频率越来越高[流泪]本质上还是自己的消费习惯，我要改变，从k90至尊开始#REDMIK90至尊版# #HyperOS3# #数码日常#",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-be42cbceba58",
-      "title": "REDMI K90 Max \"地漏\"",
-      "source": "酷安热榜",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-07-05",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72639262",
-      "image": "",
-      "summary": "REDMI K90 Max \"地漏\"",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-762a674dbc9a",
-      "title": "曝 iPhone 18 Pro 1TB / 2TB 版本采用 QLC 闪存颗粒",
-      "source": "酷安热榜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-07-05",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72648889",
-      "image": "",
-      "summary": "曝 iPhone 18 Pro 1TB / 2TB 版本采用 QLC 闪存颗粒",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
       "id": "newsnow-27d9a3352434",
       "title": "如何看待极客湾麒麟 9030 芯片性能详细解析（Mate 80 Pro）视频上线？",
       "source": "知乎热榜",
@@ -475,26 +395,6 @@ window.phoneRadarAuto = {
       "url": "https://www.zhihu.com/question/2056487235072029858",
       "image": "",
       "summary": "如何看待极客湾麒麟 9030 芯片性能详细解析（Mate 80 Pro）视频上线？",
-      "tags": [
-        "行业",
-        "市场报告",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-43e3f2ce745e",
-      "title": "心梗老人看牙被全口拔光，医院拿走手机刷光 18800 元还欠 6200 元，医院做法存在哪些违规或失当之处？",
-      "source": "知乎热榜",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "市场报告",
-      "trust": "媒体汇总",
-      "date": "2026-07-05",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.zhihu.com/question/2056861703225042408",
-      "image": "",
-      "summary": "心梗老人看牙被全口拔光，医院拿走手机刷光 18800 元还欠 6200 元，医院做法存在哪些违规或失当之处？",
       "tags": [
         "行业",
         "市场报告",
@@ -517,6 +417,26 @@ window.phoneRadarAuto = {
       "summary": "印度工厂泄露 iPhone18Pro 机密，这如何影响苹果在印度的布局？",
       "tags": [
         "iPhone",
+        "市场报告",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-43e3f2ce745e",
+      "title": "心梗老人看牙被全口拔光，医院拿走手机刷光 18800 元还欠 6200 元，医院做法存在哪些违规或失当之处？",
+      "source": "知乎热榜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "市场报告",
+      "trust": "媒体汇总",
+      "date": "2026-07-05",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.zhihu.com/question/2056861703225042408",
+      "image": "",
+      "summary": "心梗老人看牙被全口拔光，医院拿走手机刷光 18800 元还欠 6200 元，医院做法存在哪些违规或失当之处？",
+      "tags": [
+        "行业",
         "市场报告",
         "NewsNow"
       ]
@@ -597,6 +517,26 @@ window.phoneRadarAuto = {
       "summary": "【vivo X300E 详细配置曝光：1.5K中直屏，骁龙8 Gen5，中底潜望镜】 ▫️6.59\"1.5K OLED直屏 ▫️骁龙8 Gen5处理器 ▫️7100mAh±电池+90W有线 前置｜50Mp 主摄｜50Mp 大底主摄 潜望｜50Mp IMX8中底 超广｜8Mp ▫️后置左上小方块Deco ▫️或配备金属中框、超声波指纹 ▫️厚7.99mm/重…",
       "tags": [
         "vivo",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "coolapk-user-b1b3a300e0ad",
+      "title": "JSCHEN小小狐：曝 iPhone 18 Pro 1TB / 2TB 版本采用 QLC 闪存颗粒",
+      "source": "JSCHEN小小狐",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-07-04",
+      "time": "12:33",
+      "publishedAt": "2026-07-04T12:33:05.000Z",
+      "url": "https://www.coolapk.com/feed/72648889",
+      "image": "http://image.coolapk.com/feed/2026/0704/20/4702274_9861706b_8384_7412_642@1270x1314.jpg",
+      "summary": "『曝 iPhone 18 Pro 1/2TB 版本采用 QLC 颗粒』 知名芯片分析师 Reptalicant 根据此前印度最新泄露的相关原理图和 BOM 表，分析得到了 iPhone 18 Pro 的存储方案及规格，具体如下： 「全系苹果 S6E 存储方案」 ◇ 3nm 工艺 ◇ PCIe 5.0 × 1 ◇ 理论可达 UFS 5.0 级速度 ◇ 功耗约…",
+      "tags": [
+        "iPhone",
         "爆料",
         "酷安博主"
       ]

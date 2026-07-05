@@ -1,12 +1,12 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-07-05T17:31:49.261Z",
+  "updatedAt": "2026-07-05T19:41:24.495Z",
   "issueDate": "2026-07-05",
   "issue": "VOL.260705",
   "title": "手机情报日报",
-  "intro": "今日筛出 14 条重点，其中 8 条是重点爆料，包含 8 条 iPhone 相关、1 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 14 条重点，其中 8 条是重点爆料，包含 9 条 iPhone 相关、1 条官方确认、0 条参数线索。",
   "stats": {
     "total": 14,
-    "iphone": 8,
+    "iphone": 9,
     "leaks": 8,
     "official": 1,
     "specs": 0
@@ -89,6 +89,29 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
+          "id": "coolapk-user-b1b3a300e0ad",
+          "title": "JSCHEN小小狐：曝 iPhone 18 Pro 1TB / 2TB 版本采用 QLC 闪存颗粒",
+          "originalTitle": "",
+          "source": "JSCHEN小小狐",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "高可信爆料",
+          "date": "2026-07-04",
+          "time": "12:33",
+          "publishedAt": "2026-07-04T12:33:05.000Z",
+          "url": "https://www.coolapk.com/feed/72648889",
+          "image": "http://image.coolapk.com/feed/2026/0704/20/4702274_9861706b_8384_7412_642@1270x1314.jpg",
+          "verdict": "先看",
+          "takeaway": "『曝 iPhone 18 Pro 1/2TB 版本采用 QLC 颗粒』 知名芯片分析师 Reptalicant 根据此前印度最新泄露的相关原理图和 BOM 表，分析得到了 iPhone 18 Pro 的存储方案及规格，具体如下： 「全系苹果 S6E 存储方案」 ◇ 3nm 工艺 ◇ PCIe 5.0 × 1 ◇ 理论可达 UFS 5.0 级速度 ◇ 功耗约…",
+          "detail": "『曝 iPhone 18 Pro 1/2TB 版本采用 QLC 颗粒』 知名芯片分析师 Reptalicant 根据此前印度最新泄露的相关原理图和 BOM 表，分析得到了 iPhone 18 Pro 的存储方案及规格，具体如下： 「全系苹果 S6E 存储方案」 ◇ 3nm 工艺 ◇ PCIe 5.0 × 1 ◇ 理论可达 UFS 5.0 级速度 ◇ 功耗约…",
+          "keyPoints": [
+            "芯片 / 性能"
+          ],
+          "confidence": "可信度较高，但仍属于发布前线索。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
           "id": "coolapk-user-93fd53f87274",
           "title": "JSCHEN小小狐：博主分析 iPhone 18 Pro 系列电池入网信息",
           "originalTitle": "",
@@ -162,29 +185,6 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
-          "id": "newsnow-7816e1d408bc",
-          "title": "K90至尊就是目前最流畅的澎湃，最流畅的米系手机，彻底解决了K90 Pro Max和小米17全系列日用极其容易发烫，发烫后掉帧卡顿的问题，主动散热就是力大飞砖，这流畅度在米系机型里面确实是登顶了，跟天玑9500的K90 max相比，至尊更流畅，max续航更好。",
-          "originalTitle": "",
-          "source": "酷安热榜",
-          "brand": "Xiaomi",
-          "type": "爆料",
-          "trust": "高关注爆料源",
-          "date": "2026-07-05",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://www.coolapk.com/feed/72647704",
-          "image": "",
-          "verdict": "先看",
-          "takeaway": "K90至尊就是目前最流畅的澎湃，最流畅的米系手机，彻底解决了K90 Pro Max和小米17全系列日用极其容易发烫，发烫后掉帧卡顿的问题，主动散热就是力大飞砖，这流畅度在米系机型里面确实是登顶了，跟天玑9500的K90 max相比，至尊更流畅，max续航更好。",
-          "detail": "K90至尊就是目前最流畅的澎湃，最流畅的米系手机，彻底解决了K90 Pro Max和小米17全系列日用极其容易发烫，发烫后掉帧卡顿的问题，主动散热就是力大飞砖，这流畅度在米系机型里面确实是登顶了，跟天玑9500的K90 max相比，至尊更流畅，max续航更好。",
-          "keyPoints": [
-            "电池 / 充电"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
           "id": "weibo-4fdf87bb2b71",
           "title": "数码闲聊站：vivo X300E详细参数，感受一下： 6.59英寸1.5K OLED直屏，…",
           "originalTitle": "",
@@ -217,29 +217,6 @@ window.phoneRadarDaily = {
       "title": "iPhone 重点",
       "hint": "不是硬件爆料，但和 iPhone 体验或路线有关。",
       "items": [
-        {
-          "id": "newsnow-762a674dbc9a",
-          "title": "曝 iPhone 18 Pro 1TB / 2TB 版本采用 QLC 闪存颗粒",
-          "originalTitle": "",
-          "source": "酷安热榜",
-          "brand": "iPhone",
-          "type": "爆料",
-          "trust": "高关注爆料源",
-          "date": "2026-07-05",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://www.coolapk.com/feed/72648889",
-          "image": "",
-          "verdict": "先看",
-          "takeaway": "曝 iPhone 18 Pro 1TB / 2TB 版本采用 QLC 闪存颗粒",
-          "detail": "曝 iPhone 18 Pro 1TB / 2TB 版本采用 QLC 闪存颗粒",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
         {
           "id": "auto-9bbf43c61c96",
           "title": "iPhone 系统功能 / AI 体验相关消息",
@@ -285,6 +262,29 @@ window.phoneRadarDaily = {
           "confidence": "可信度较高，但仍属于发布前线索。",
           "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        },
+        {
+          "id": "newsnow-ff053d70e8f3",
+          "title": "印度工厂泄露 iPhone18Pro 机密，这如何影响苹果在印度的布局？",
+          "originalTitle": "",
+          "source": "知乎热榜",
+          "brand": "iPhone",
+          "type": "市场报告",
+          "trust": "媒体汇总",
+          "date": "2026-07-05",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://www.zhihu.com/question/2056716909140354522",
+          "image": "",
+          "verdict": "扫一眼",
+          "takeaway": "印度工厂泄露 iPhone18Pro 机密，这如何影响苹果在印度的布局？",
+          "detail": "印度工厂泄露 iPhone18Pro 机密，这如何影响苹果在印度的布局？",
+          "keyPoints": [
+            "市场报告"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "目前更像背景信息，对买手机影响不大。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         }
       ]
     },
@@ -294,27 +294,27 @@ window.phoneRadarDaily = {
       "hint": "看方向，不急着当购买依据。",
       "items": [
         {
-          "id": "newsnow-539e7c5ecc69",
-          "title": "自从玩酷安后，换手机的频率越来越高[流泪]本质上还是自己的消费习惯，我要改变，从k90至尊开始#REDMIK90至尊版# #HyperOS3# #数码日常#",
+          "id": "coolapk-user-04777501050d",
+          "title": "竹本青：【REDMI K90 标准版、Note 15系列 正式调价，涨幅200-300元】 7月6日，REDMI 四款手机…",
           "originalTitle": "",
-          "source": "酷安热榜",
+          "source": "竹本青",
           "brand": "Xiaomi",
           "type": "爆料",
-          "trust": "高关注爆料源",
+          "trust": "高可信爆料",
           "date": "2026-07-05",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://www.coolapk.com/feed/72640972",
-          "image": "",
-          "verdict": "先看",
-          "takeaway": "自从玩酷安后，换手机的频率越来越高[流泪]本质上还是自己的消费习惯，我要改变，从k90至尊开始#REDMIK90至尊版# #HyperOS3# #数码日常#",
-          "detail": "自从玩酷安后，换手机的频率越来越高[流泪]本质上还是自己的消费习惯，我要改变，从k90至尊开始#REDMIK90至尊版# #HyperOS3# #数码日常#",
+          "time": "16:19",
+          "publishedAt": "2026-07-05T16:19:14.000Z",
+          "url": "https://www.coolapk.com/feed/72664971",
+          "image": "http://image.coolapk.com/feed/2026/0706/01/4248714_fc3e813b_0937_3943_536@2136x1602.jpg",
+          "verdict": "扫一眼",
+          "takeaway": "【REDMI K90 标准版、Note 15系列 正式调价，涨幅200-300元】 7月6日，REDMI 四款手机同步涨价，分别为K90 标准版、Note 15、Note 15 Pro、Note 15 Pro+，具体价格调整如下： ● K90 标准版 12+256GB：2599元 → 2799元（涨200元） 16+256GB：2899元 → 3099元（…",
+          "detail": "【REDMI K90 标准版、Note 15系列 正式调价，涨幅200-300元】 7月6日，REDMI 四款手机同步涨价，分别为K90 标准版、Note 15、Note 15 Pro、Note 15 Pro+，具体价格调整如下： ● K90 标准版 12+256GB：2599元 → 2799元（涨200元） 16+256GB：2899元 → 3099元（…",
           "keyPoints": [
-            "爆料"
+            "成本 / 价格"
           ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+          "confidence": "可信度较高，但仍属于发布前线索。",
+          "impact": "影响购买预算，值得先看。",
+          "action": "有具体参数就记录到参数库；没有参数就先收藏。"
         },
         {
           "id": "coolapk-user-7a011460bb99",
@@ -340,25 +340,25 @@ window.phoneRadarDaily = {
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         },
         {
-          "id": "newsnow-be42cbceba58",
-          "title": "REDMI K90 Max \"地漏\"",
+          "id": "coolapk-user-a1be14efe241",
+          "title": "竹本青：【小米 17系列 最新总销量曝光：全系超554万，Ultra近23.1万】 小米 17系列 截至2026 W26…",
           "originalTitle": "",
-          "source": "酷安热榜",
+          "source": "竹本青",
           "brand": "Xiaomi",
           "type": "爆料",
-          "trust": "高关注爆料源",
+          "trust": "高可信爆料",
           "date": "2026-07-05",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://www.coolapk.com/feed/72639262",
-          "image": "",
+          "time": "13:22",
+          "publishedAt": "2026-07-05T13:22:55.000Z",
+          "url": "https://www.coolapk.com/feed/72662542",
+          "image": "http://image.coolapk.com/feed/2026/0705/21/4248714_b0c3da23_7774_0889_327@2930x2829.jpg",
           "verdict": "扫一眼",
-          "takeaway": "REDMI K90 Max \"地漏\"",
-          "detail": "REDMI K90 Max \"地漏\"",
+          "takeaway": "【小米 17系列 最新总销量曝光：全系超554万，Ultra近23.1万】 小米 17系列 截至2026 W26 —— 约554.01万 截至2026 W25 —— 约544.96万 截至2026 W24 —— 约531.72万 截至2026 W23 —— 约517.2万 小米 17 Ultra 截至2026 W26 —— 约23.07万 截至2026 W…",
+          "detail": "【小米 17系列 最新总销量曝光：全系超554万，Ultra近23.1万】 小米 17系列 截至2026 W26 —— 约554.01万 截至2026 W25 —— 约544.96万 截至2026 W24 —— 约531.72万 截至2026 W23 —— 约517.2万 小米 17 Ultra 截至2026 W26 —— 约23.07万 截至2026 W…",
           "keyPoints": [
             "爆料"
           ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "confidence": "可信度较高，但仍属于发布前线索。",
           "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         }
