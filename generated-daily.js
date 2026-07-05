@@ -1,11 +1,11 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-07-05T09:22:03.218Z",
+  "updatedAt": "2026-07-05T11:47:19.740Z",
   "issueDate": "2026-07-05",
   "issue": "VOL.260705",
   "title": "手机情报日报",
-  "intro": "今日筛出 20 条重点，其中 8 条是重点爆料，包含 8 条 iPhone 相关、1 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 19 条重点，其中 8 条是重点爆料，包含 8 条 iPhone 相关、1 条官方确认、0 条参数线索。",
   "stats": {
-    "total": 20,
+    "total": 19,
     "iphone": 8,
     "leaks": 8,
     "official": 1,
@@ -41,25 +41,25 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
-          "id": "coolapk-user-b1b3a300e0ad",
-          "title": "JSCHEN小小狐：曝 iPhone 18 Pro 1TB / 2TB 版本采用 QLC 闪存颗粒",
+          "id": "newsnow-2095ddf86b70",
+          "title": "苹果印度工厂这个泄密怎么个事？是不是代表着可以买到2500块的华强北iPhone18了？如果能买到，我建议华强北增加内置信号放大器，增加120瓦快充，扩大和增加电池的使用时间。就叫iPhone18 Pro Max Ultra。",
           "originalTitle": "",
-          "source": "JSCHEN小小狐",
+          "source": "酷安热榜",
           "brand": "iPhone",
           "type": "爆料",
-          "trust": "高可信爆料",
-          "date": "2026-07-04",
-          "time": "12:33",
-          "publishedAt": "2026-07-04T12:33:05.000Z",
-          "url": "https://www.coolapk.com/feed/72648889",
-          "image": "http://image.coolapk.com/feed/2026/0704/20/4702274_9861706b_8384_7412_642@1270x1314.jpg",
+          "trust": "高关注爆料源",
+          "date": "2026-07-05",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://www.coolapk.com/feed/72651421",
+          "image": "",
           "verdict": "先看",
-          "takeaway": "『曝 iPhone 18 Pro 1/2TB 版本采用 QLC 颗粒』 知名芯片分析师 Reptalicant 根据此前印度最新泄露的相关原理图和 BOM 表，分析得到了 iPhone 18 Pro 的存储方案及规格，具体如下： 「全系苹果 S6E 存储方案」 ◇ 3nm 工艺 ◇ PCIe 5.0 × 1 ◇ 理论可达 UFS 5.0 级速度 ◇ 功耗约…",
-          "detail": "『曝 iPhone 18 Pro 1/2TB 版本采用 QLC 颗粒』 知名芯片分析师 Reptalicant 根据此前印度最新泄露的相关原理图和 BOM 表，分析得到了 iPhone 18 Pro 的存储方案及规格，具体如下： 「全系苹果 S6E 存储方案」 ◇ 3nm 工艺 ◇ PCIe 5.0 × 1 ◇ 理论可达 UFS 5.0 级速度 ◇ 功耗约…",
+          "takeaway": "苹果印度工厂这个泄密怎么个事？是不是代表着可以买到2500块的华强北iPhone18了？如果能买到，我建议华强北增加内置信号放大器，增加120瓦快充，扩大和增加电池的使用时间。就叫iPhone18 Pro Max Ultra。",
+          "detail": "苹果印度工厂这个泄密怎么个事？是不是代表着可以买到2500块的华强北iPhone18了？如果能买到，我建议华强北增加内置信号放大器，增加120瓦快充，扩大和增加电池的使用时间。就叫iPhone18 Pro Max Ultra。",
           "keyPoints": [
-            "芯片 / 性能"
+            "电池 / 充电"
           ],
-          "confidence": "可信度较高，但仍属于发布前线索。",
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
@@ -185,26 +185,25 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
-          "id": "auto-4dd6cdd881d4",
-          "title": "Samsung 折叠屏相关消息",
+          "id": "coolapk-user-847489662e28",
+          "title": "竹本青：【OPPO被指红包雨“砍奖”，中奖者称7次中奖仅给1个奖品】 据新浪科技《BUG》栏目今日报道，近日，OPPO又因…",
           "originalTitle": "",
-          "source": "9to5Google",
-          "brand": "Samsung",
+          "source": "竹本青",
+          "brand": "OPPO",
           "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-07-04",
-          "time": "14:00",
-          "publishedAt": "2026-07-04T14:00:00.000Z",
-          "url": "https://9to5google.com/2026/07/04/samsung-galaxy-z-fold-8-price-leak/",
-          "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/04/galaxy-z-fold-8-wide-leak-renders-onl-1.jpg?quality=82&strip=all&w=1600",
+          "trust": "高可信爆料",
+          "date": "2026-07-05",
+          "time": "10:14",
+          "publishedAt": "2026-07-05T10:14:49.000Z",
+          "url": "https://www.coolapk.com/feed/72660300",
+          "image": "http://image.coolapk.com/feed/2026/0705/18/4248714_dc444a35_6487_7945_866@550x397.jpg",
           "verdict": "先看",
-          "takeaway": "Samsung 折叠屏相关消息。如果涉及订阅、售价或硬件成本，才需要进一步看细节。",
-          "detail": "Samsung 折叠屏相关消息。重点看折痕、铰链、厚度、屏幕可靠性和重量是否有实质改善。",
+          "takeaway": "【OPPO被指红包雨“砍奖”，中奖者称7次中奖仅给1个奖品】 据新浪科技《BUG》栏目今日报道，近日，OPPO又因6·18大促期间的红包雨奖品发放事宜，触怒了多数获奖人。 事因OPPO公布了红包名单。但该名单最新规定同一用户获得多份奖品仅发放“价值最高”的一件的做法，很快引发了大量获奖人的不满。 据多位获奖人对《BUG》栏目透露，自己在该红包雨活动期间，连…",
+          "detail": "【OPPO被指红包雨“砍奖”，中奖者称7次中奖仅给1个奖品】 据新浪科技《BUG》栏目今日报道，近日，OPPO又因6·18大促期间的红包雨奖品发放事宜，触怒了多数获奖人。 事因OPPO公布了红包名单。但该名单最新规定同一用户获得多份奖品仅发放“价值最高”的一件的做法，很快引发了大量获奖人的不满。 据多位获奖人对《BUG》栏目透露，自己在该红包雨活动期间，连…",
           "keyPoints": [
-            "成本 / 价格",
-            "爆料来源"
+            "爆料"
           ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "confidence": "可信度较高，但仍属于发布前线索。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         }
@@ -215,6 +214,29 @@ window.phoneRadarDaily = {
       "title": "iPhone 重点",
       "hint": "不是硬件爆料，但和 iPhone 体验或路线有关。",
       "items": [
+        {
+          "id": "newsnow-762a674dbc9a",
+          "title": "曝 iPhone 18 Pro 1TB / 2TB 版本采用 QLC 闪存颗粒",
+          "originalTitle": "",
+          "source": "酷安热榜",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "高关注爆料源",
+          "date": "2026-07-05",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://www.coolapk.com/feed/72648889",
+          "image": "",
+          "verdict": "先看",
+          "takeaway": "曝 iPhone 18 Pro 1TB / 2TB 版本采用 QLC 闪存颗粒",
+          "detail": "曝 iPhone 18 Pro 1TB / 2TB 版本采用 QLC 闪存颗粒",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        },
         {
           "id": "auto-9bbf43c61c96",
           "title": "iPhone 系统功能 / AI 体验相关消息",
@@ -277,29 +299,6 @@ window.phoneRadarDaily = {
           "verdict": "扫一眼",
           "takeaway": "iPhone 相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
           "detail": "iPhone 相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
-        {
-          "id": "newsnow-3d1c03487a20",
-          "title": "iPhone17计划2276年重启",
-          "originalTitle": "",
-          "source": "微博热搜",
-          "brand": "iPhone",
-          "type": "爆料",
-          "trust": "待验证",
-          "date": "2026-07-05",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://s.weibo.com/weibo?q=%23iPhone17%E8%AE%A1%E5%88%922276%E5%B9%B4%E9%87%8D%E5%90%AF%23&t=31&band_rank=7&Refer=top",
-          "image": "",
-          "verdict": "扫一眼",
-          "takeaway": "iPhone17计划2276年重启",
-          "detail": "iPhone17计划2276年重启",
           "keyPoints": [
             "爆料"
           ],
@@ -391,29 +390,6 @@ window.phoneRadarDaily = {
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         },
         {
-          "id": "auto-754e9a2f5cea",
-          "title": "AYANEO：Pocket PLAY 手机项目仍在调优改进，将继续加快开发进程",
-          "originalTitle": "",
-          "source": "IT之家",
-          "brand": "行业",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-07-05",
-          "time": "03:15",
-          "publishedAt": "2026-07-05T03:15:28.000Z",
-          "url": "https://www.ithome.com/0/972/720.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/7/0ce2637b-dfe0-4a47-b687-f5aa19a8a5c7.png?x-bce-process=image/format,f_auto",
-          "verdict": "扫一眼",
-          "takeaway": "IT之家 7 月 5 日消息，AYANEO 在 7 月 3 日晚举行了新一期产品分享会，介绍了多款已公布产品的最新进展，同时带来近期新品预告。 IT之家注意到，在此次 AYANEO 产品分享会上，官方还提及了 Pocket PLAY 手机项目。AYANEO 官方表示，项目整体研发进展顺利，团队仍在不断打磨产品细节、调优改进，同时也将继续加快开发进程。 目前…",
-          "detail": "IT之家 7 月 5 日消息，AYANEO 在 7 月 3 日晚举行了新一期产品分享会，介绍了多款已公布产品的最新进展，同时带来近期新品预告。 IT之家注意到，在此次 AYANEO 产品分享会上，官方还提及了 Pocket PLAY 手机项目。AYANEO 官方表示，项目整体研发进展顺利，团队仍在不断打磨产品细节、调优改进，同时也将继续加快开发进程。 目前…",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "中文源可以直接点开快读；看完只保留和购机有关的点。"
-        },
-        {
           "id": "coolapk-user-7a011460bb99",
           "title": "JSCHEN小小狐：跑了趟嘉兴，结果出发时没带伞 下车被雨浇了个透…… #手机摄影#",
           "originalTitle": "",
@@ -483,28 +459,26 @@ window.phoneRadarDaily = {
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         },
         {
-          "id": "auto-b2888ba23ed0",
-          "title": "OPPO 影像能力相关消息",
+          "id": "auto-5f42f321e85a",
+          "title": "Galaxy M47 电池 / 充电相关消息",
           "originalTitle": "",
           "source": "Gizmochina",
-          "brand": "OPPO",
+          "brand": "Samsung",
           "type": "爆料",
           "trust": "媒体汇总",
           "date": "2026-07-05",
-          "time": "08:46",
-          "publishedAt": "2026-07-05T08:46:13.000Z",
-          "url": "https://www.gizmochina.com/2026/07/05/oppo-reno16-vs-nothing-phone-4a/",
-          "image": "https://www.gizmochina.com/wp-content/uploads/2026/07/image-19-300x196.png?x44794",
+          "time": "11:09",
+          "publishedAt": "2026-07-05T11:09:45.000Z",
+          "url": "https://www.gizmochina.com/2026/07/05/oneplus-n6-vs-samsung-galaxy-m47/",
+          "image": "https://www.gizmochina.com/wp-content/uploads/2026/07/image-22-300x196.png?x44794",
           "verdict": "可略过",
-          "takeaway": "OPPO 影像能力相关宣传或案例，主要看是否透露拍摄能力变化。",
-          "detail": "OPPO 影像能力相关消息。重点看影像功能是否和新机硬件有关，如果只是拍摄案例或营销内容，参考价值会低一些。",
+          "takeaway": "Galaxy M47 电池 / 充电相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
+          "detail": "Galaxy M47 电池 / 充电相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
           "keyPoints": [
-            "影像硬件",
-            "电池 / 充电",
-            "成本 / 价格"
+            "电池 / 充电"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "影响购买预算，值得先看。",
+          "impact": "影响日常体验，尤其是游戏、拍照和长时间使用。",
           "action": "有具体参数就记录到参数库；没有参数就先收藏。"
         }
       ]

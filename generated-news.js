@@ -1,6 +1,106 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-07-05T09:22:03.218Z",
+  "updatedAt": "2026-07-05T11:47:19.740Z",
   "news": [
+    {
+      "id": "auto-5f42f321e85a",
+      "title": "OnePlus N6 vs Samsung Galaxy M47 Comparison: Battery Beast or Better All-Rounder?",
+      "source": "Gizmochina",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-05",
+      "time": "11:09",
+      "publishedAt": "2026-07-05T11:09:45.000Z",
+      "url": "https://www.gizmochina.com/2026/07/05/oneplus-n6-vs-samsung-galaxy-m47/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/07/image-22-300x196.png?x44794",
+      "summary": "Choosing between the OnePlus N6 and the Samsung Galaxy M47 isn’t as straightforward as it seems. While the OnePlus N6 grabs attention with its massive 8000mAh battery, the Galaxy…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-847489662e28",
+      "title": "竹本青：【OPPO被指红包雨“砍奖”，中奖者称7次中奖仅给1个奖品】 据新浪科技《BUG》栏目今日报道，近日，OPPO又因…",
+      "source": "竹本青",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-07-05",
+      "time": "10:14",
+      "publishedAt": "2026-07-05T10:14:49.000Z",
+      "url": "https://www.coolapk.com/feed/72660300",
+      "image": "http://image.coolapk.com/feed/2026/0705/18/4248714_dc444a35_6487_7945_866@550x397.jpg",
+      "summary": "【OPPO被指红包雨“砍奖”，中奖者称7次中奖仅给1个奖品】 据新浪科技《BUG》栏目今日报道，近日，OPPO又因6·18大促期间的红包雨奖品发放事宜，触怒了多数获奖人。 事因OPPO公布了红包名单。但该名单最新规定同一用户获得多份奖品仅发放“价值最高”的一件的做法，很快引发了大量获奖人的不满。 据多位获奖人对《BUG》栏目透露，自己在该红包雨活动期间，连…",
+      "tags": [
+        "OPPO",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-984ca300fe25",
+      "title": "Galaxy S27 Pro/Ultra may finally upgrade selfie with 16MP square sensor; bring Apple’s Center Stage to Android",
+      "source": "Gizmochina",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-05",
+      "time": "09:45",
+      "publishedAt": "2026-07-05T09:45:47.000Z",
+      "url": "https://www.gizmochina.com/2026/07/05/galaxy-s27-pro-ultra-may-finally-upgrade-selfie-with-16mp-square-sensor-bring-apples-center-stage-to-android/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/07/Samsung-Galaxy-S27-Ultra-Ai-render--300x169.png?x44794",
+      "summary": "Apple’s Center Stage (launched with the iPhone 17) uses a special square-shaped sensor and smart software to automatically adjust framing. It lets you switch between portrait and…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-7268f1298b7e",
+      "title": "OPPO Reno16 vs OnePlus Nord 6 Comparison: The Winner May Surprise You",
+      "source": "Gizmochina",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-05",
+      "time": "09:37",
+      "publishedAt": "2026-07-05T09:37:27.000Z",
+      "url": "https://www.gizmochina.com/2026/07/05/oppo-reno16-vs-oneplus-nord-6/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/07/image-20-300x189.png?x44794",
+      "summary": "Choosing between the OPPO Reno16 and the OnePlus Nord 6 isn’t as simple as comparing price tags. While the Reno16 focuses on premium cameras and refined design, the Nord 6 packs f…",
+      "tags": [
+        "OPPO",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-698689248ece",
+      "title": "Forget the Pixel 10a — this is the affordable Android phone most people need",
+      "source": "Android Authority",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-05",
+      "time": "09:30",
+      "publishedAt": "2026-07-05T09:30:25.000Z",
+      "url": "https://www.androidauthority.com/pixel-10a-vs-oneplus-nord-ce-6-hands-on-3682869/",
+      "image": "",
+      "summary": "The Pixel 10a is good, but for everyday use, the Nord CE 6 is just better.",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-bddcaf5eca76",
       "title": "奶奶删了 77 万条未读又来 3 万，微信承诺异常企业微信拉群将强制确认",
@@ -97,26 +197,6 @@ window.phoneRadarAuto = {
       "summary": "IT之家 7 月 5 日消息，据长期关注国内手机市场份额的数码博主 @RD观测 昨日曝光了 vivo X Fold6 大折叠屏手机的首销情况：以首销当日为标准， vivo X Fold6 同期约为 vivo X Fold5 的 90% 。 博主表示，作为第一台 MTK 大折叠屏旗舰， 整体涨价 1000-1500 元的情况下 ，还算可以，后面也可以看看持续…",
       "tags": [
         "vivo",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-754e9a2f5cea",
-      "title": "AYANEO：Pocket PLAY 手机项目仍在调优改进，将继续加快开发进程",
-      "source": "IT之家",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-05",
-      "time": "03:15",
-      "publishedAt": "2026-07-05T03:15:28.000Z",
-      "url": "https://www.ithome.com/0/972/720.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/7/0ce2637b-dfe0-4a47-b687-f5aa19a8a5c7.png?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 7 月 5 日消息，AYANEO 在 7 月 3 日晚举行了新一期产品分享会，介绍了多款已公布产品的最新进展，同时带来近期新品预告。 IT之家注意到，在此次 AYANEO 产品分享会上，官方还提及了 Pocket PLAY 手机项目。AYANEO 官方表示，项目整体研发进展顺利，团队仍在不断打磨产品细节、调优改进，同时也将继续加快开发进程。 目前…",
-      "tags": [
-        "行业",
         "爆料",
         "自动抓取"
       ]
@@ -222,19 +302,19 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-3d1c03487a20",
-      "title": "iPhone17计划2276年重启",
-      "source": "微博热搜",
+      "id": "newsnow-2095ddf86b70",
+      "title": "苹果印度工厂这个泄密怎么个事？是不是代表着可以买到2500块的华强北iPhone18了？如果能买到，我建议华强北增加内置信号放大器，增加120瓦快充，扩大和增加电池的使用时间。就叫iPhone18 Pro Max Ultra。",
+      "source": "酷安热榜",
       "brand": "iPhone",
       "model": "iPhone 相关机型",
       "type": "爆料",
-      "trust": "待验证",
+      "trust": "高关注爆料源",
       "date": "2026-07-05",
       "time": "",
       "publishedAt": "",
-      "url": "https://s.weibo.com/weibo?q=%23iPhone17%E8%AE%A1%E5%88%922276%E5%B9%B4%E9%87%8D%E5%90%AF%23&t=31&band_rank=7&Refer=top",
+      "url": "https://www.coolapk.com/feed/72651421",
       "image": "",
-      "summary": "iPhone17计划2276年重启",
+      "summary": "苹果印度工厂这个泄密怎么个事？是不是代表着可以买到2500块的华强北iPhone18了？如果能买到，我建议华强北增加内置信号放大器，增加120瓦快充，扩大和增加电池的使用时间。就叫iPhone18 Pro Max Ultra。",
       "tags": [
         "iPhone",
         "爆料",
@@ -242,22 +322,22 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-c4850abe44fa",
-      "title": "寒门女孩高考 699 分报考清华却被网暴，劝学生别沉迷手机为何引来几十万点赞的负面评论？",
-      "source": "知乎热榜",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "市场报告",
-      "trust": "媒体汇总",
+      "id": "newsnow-762a674dbc9a",
+      "title": "曝 iPhone 18 Pro 1TB / 2TB 版本采用 QLC 闪存颗粒",
+      "source": "酷安热榜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
       "date": "2026-07-05",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.zhihu.com/question/2056771003376722999",
+      "url": "https://www.coolapk.com/feed/72648889",
       "image": "",
-      "summary": "寒门女孩高考 699 分报考清华却被网暴，劝学生别沉迷手机为何引来几十万点赞的负面评论？",
+      "summary": "曝 iPhone 18 Pro 1TB / 2TB 版本采用 QLC 闪存颗粒",
       "tags": [
-        "行业",
-        "市场报告",
+        "iPhone",
+        "爆料",
         "NewsNow"
       ]
     },
@@ -275,6 +355,26 @@ window.phoneRadarAuto = {
       "url": "https://www.zhihu.com/question/2056487235072029858",
       "image": "",
       "summary": "如何看待极客湾麒麟 9030 芯片性能详细解析（Mate 80 Pro）视频上线？",
+      "tags": [
+        "行业",
+        "市场报告",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-c4850abe44fa",
+      "title": "寒门女孩高考 699 分报考清华却被网暴，劝学生别沉迷手机为何引来几十万点赞的负面评论？",
+      "source": "知乎热榜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "市场报告",
+      "trust": "媒体汇总",
+      "date": "2026-07-05",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.zhihu.com/question/2056771003376722999",
+      "image": "",
+      "summary": "寒门女孩高考 699 分报考清华却被网暴，劝学生别沉迷手机为何引来几十万点赞的负面评论？",
       "tags": [
         "行业",
         "市场报告",
@@ -357,26 +457,6 @@ window.phoneRadarAuto = {
       "summary": "【vivo X300E 详细配置曝光：1.5K中直屏，骁龙8 Gen5，中底潜望镜】 ▫️6.59\"1.5K OLED直屏 ▫️骁龙8 Gen5处理器 ▫️7100mAh±电池+90W有线 前置｜50Mp 主摄｜50Mp 大底主摄 潜望｜50Mp IMX8中底 超广｜8Mp ▫️后置左上小方块Deco ▫️或配备金属中框、超声波指纹 ▫️厚7.99mm/重…",
       "tags": [
         "vivo",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
-      "id": "coolapk-user-b1b3a300e0ad",
-      "title": "JSCHEN小小狐：曝 iPhone 18 Pro 1TB / 2TB 版本采用 QLC 闪存颗粒",
-      "source": "JSCHEN小小狐",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-07-04",
-      "time": "12:33",
-      "publishedAt": "2026-07-04T12:33:05.000Z",
-      "url": "https://www.coolapk.com/feed/72648889",
-      "image": "http://image.coolapk.com/feed/2026/0704/20/4702274_9861706b_8384_7412_642@1270x1314.jpg",
-      "summary": "『曝 iPhone 18 Pro 1/2TB 版本采用 QLC 颗粒』 知名芯片分析师 Reptalicant 根据此前印度最新泄露的相关原理图和 BOM 表，分析得到了 iPhone 18 Pro 的存储方案及规格，具体如下： 「全系苹果 S6E 存储方案」 ◇ 3nm 工艺 ◇ PCIe 5.0 × 1 ◇ 理论可达 UFS 5.0 级速度 ◇ 功耗约…",
-      "tags": [
-        "iPhone",
         "爆料",
         "酷安博主"
       ]
