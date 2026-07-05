@@ -1,14 +1,14 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-07-05T19:41:24.495Z",
+  "updatedAt": "2026-07-05T21:19:06.572Z",
   "issueDate": "2026-07-05",
   "issue": "VOL.260705",
   "title": "手机情报日报",
-  "intro": "今日筛出 14 条重点，其中 8 条是重点爆料，包含 9 条 iPhone 相关、1 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 12 条重点，其中 8 条是重点爆料，包含 9 条 iPhone 相关、0 条官方确认、0 条参数线索。",
   "stats": {
-    "total": 14,
+    "total": 12,
     "iphone": 9,
     "leaks": 8,
-    "official": 1,
+    "official": 0,
     "specs": 0
   },
   "sections": [
@@ -136,6 +136,29 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
+          "id": "auto-6b31fbb80669",
+          "title": "iPhone 系统功能 / AI 体验相关消息",
+          "originalTitle": "",
+          "source": "9to5Mac",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-07-05",
+          "time": "20:38",
+          "publishedAt": "2026-07-05T20:38:55.000Z",
+          "url": "https://9to5mac.com/2026/07/05/iphone-fold-low-supply-at-launch-delayed-release/",
+          "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/03/iphone-fold-mockup-purple.jpg?quality=82&strip=all&w=1600",
+          "verdict": "先看",
+          "takeaway": "iPhone 有系统功能或 AI 体验更新，适合关注后续是否影响日常使用。",
+          "detail": "iPhone 系统功能 / AI 体验相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
+          "keyPoints": [
+            "爆料来源"
+          ],
+          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
           "id": "auto-15def25a53de",
           "title": "iPhone 相关消息",
           "originalTitle": "",
@@ -183,32 +206,6 @@ window.phoneRadarDaily = {
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "weibo-4fdf87bb2b71",
-          "title": "数码闲聊站：vivo X300E详细参数，感受一下： 6.59英寸1.5K OLED直屏，…",
-          "originalTitle": "",
-          "source": "数码闲聊站",
-          "brand": "vivo",
-          "type": "爆料",
-          "trust": "高关注爆料源",
-          "date": "2026-07-04",
-          "time": "02:35",
-          "publishedAt": "2026-07-04T02:35:00.000Z",
-          "url": "https://weibo.com/6048569942/R75MOvC1y",
-          "image": "https://tvax2.sinaimg.cn/mw2000/006BlblIgy1ierngbsxxtj30xu0s4doh.jpg",
-          "verdict": "先看",
-          "takeaway": "vivo X300E详细参数，感受一下： 6.59英寸1.5K OLED直屏，骁龙8 Gen5处理器，前置50Mp，后置50Mp大底主摄+8Mp超广角+50Mp IMX8中底潜望镜，蔡司影像，7015mAh/7100mAh±电池+90W快充，左上角小方块Deco，金属中框？超声波指纹？7.99mm/203g",
-          "detail": "vivo X300E详细参数，感受一下： 6.59英寸1.5K OLED直屏，骁龙8 Gen5处理器，前置50Mp，后置50Mp大底主摄+8Mp超广角+50Mp IMX8中底潜望镜，蔡司影像，7015mAh/7100mAh±电池+90W快充，左上角小方块Deco，金属中框？超声波指纹？7.99mm/203g",
-          "keyPoints": [
-            "影像硬件",
-            "屏幕形态",
-            "电池 / 充电",
-            "芯片 / 性能"
-          ],
-          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         }
       ]
     },
@@ -217,29 +214,6 @@ window.phoneRadarDaily = {
       "title": "iPhone 重点",
       "hint": "不是硬件爆料，但和 iPhone 体验或路线有关。",
       "items": [
-        {
-          "id": "auto-9bbf43c61c96",
-          "title": "iPhone 系统功能 / AI 体验相关消息",
-          "originalTitle": "",
-          "source": "Apple Newsroom",
-          "brand": "iPhone",
-          "type": "官方",
-          "trust": "官方确认",
-          "date": "2026-07-05",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://www.apple.com/newsroom/2026/06/apple-announces-changes-to-ios-in-brazil/",
-          "image": "",
-          "verdict": "先看",
-          "takeaway": "iPhone 系统功能 / AI 体验相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
-          "detail": "iPhone 系统功能 / AI 体验相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
-          "keyPoints": [
-            "官方"
-          ],
-          "confidence": "官方内容，可直接作为已确认信息记录。",
-          "impact": "可信度高，但如果不是配置/价格消息，只需要扫一眼。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
         {
           "id": "coolapk-user-1db37419eeb5",
           "title": "竹本青：iPhone 17系列中国区最新销量曝光：已超3630万台",
@@ -332,29 +306,6 @@ window.phoneRadarDaily = {
           "verdict": "扫一眼",
           "takeaway": "跑了趟嘉兴，结果出发时没带伞 下车被雨浇了个透…… #手机摄影#",
           "detail": "跑了趟嘉兴，结果出发时没带伞 下车被雨浇了个透…… #手机摄影#",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "可信度较高，但仍属于发布前线索。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
-        {
-          "id": "coolapk-user-a1be14efe241",
-          "title": "竹本青：【小米 17系列 最新总销量曝光：全系超554万，Ultra近23.1万】 小米 17系列 截至2026 W26…",
-          "originalTitle": "",
-          "source": "竹本青",
-          "brand": "Xiaomi",
-          "type": "爆料",
-          "trust": "高可信爆料",
-          "date": "2026-07-05",
-          "time": "13:22",
-          "publishedAt": "2026-07-05T13:22:55.000Z",
-          "url": "https://www.coolapk.com/feed/72662542",
-          "image": "http://image.coolapk.com/feed/2026/0705/21/4248714_b0c3da23_7774_0889_327@2930x2829.jpg",
-          "verdict": "扫一眼",
-          "takeaway": "【小米 17系列 最新总销量曝光：全系超554万，Ultra近23.1万】 小米 17系列 截至2026 W26 —— 约554.01万 截至2026 W25 —— 约544.96万 截至2026 W24 —— 约531.72万 截至2026 W23 —— 约517.2万 小米 17 Ultra 截至2026 W26 —— 约23.07万 截至2026 W…",
-          "detail": "【小米 17系列 最新总销量曝光：全系超554万，Ultra近23.1万】 小米 17系列 截至2026 W26 —— 约554.01万 截至2026 W25 —— 约544.96万 截至2026 W24 —— 约531.72万 截至2026 W23 —— 约517.2万 小米 17 Ultra 截至2026 W26 —— 约23.07万 截至2026 W…",
           "keyPoints": [
             "爆料"
           ],

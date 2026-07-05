@@ -1,6 +1,26 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-07-05T19:41:24.495Z",
+  "updatedAt": "2026-07-05T21:19:06.572Z",
   "news": [
+    {
+      "id": "auto-6b31fbb80669",
+      "title": "Report: iPhone Ultra to have incredibly limited availability at launch, may ship slightly later",
+      "source": "9to5Mac",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-05",
+      "time": "20:38",
+      "publishedAt": "2026-07-05T20:38:55.000Z",
+      "url": "https://9to5mac.com/2026/07/05/iphone-fold-low-supply-at-launch-delayed-release/",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/03/iphone-fold-mockup-purple.jpg?quality=82&strip=all&w=1600",
+      "summary": "According to supply chain analyst Ming-Chi Kuo , Apple is likely to have very limited supply for iPhone Ultra at its time of announcement in September. This means it’s plausible t…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-15def25a53de",
       "title": "'iPhone Ultra' Likely to 'Repeat the iPhone X Story'",
@@ -382,22 +402,22 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-27d9a3352434",
-      "title": "如何看待极客湾麒麟 9030 芯片性能详细解析（Mate 80 Pro）视频上线？",
-      "source": "知乎热榜",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "市场报告",
-      "trust": "媒体汇总",
+      "id": "newsnow-7816e1d408bc",
+      "title": "K90至尊就是目前最流畅的澎湃，最流畅的米系手机，彻底解决了K90 Pro Max和小米17全系列日用极其容易发烫，发烫后掉帧卡顿的问题，主动散热就是力大飞砖，这流畅度在米系机型里面确实是登顶了，跟天玑9500的K90 max相比，至尊更流畅，max续航更好。",
+      "source": "酷安热榜",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
       "date": "2026-07-05",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.zhihu.com/question/2056487235072029858",
+      "url": "https://www.coolapk.com/feed/72647704",
       "image": "",
-      "summary": "如何看待极客湾麒麟 9030 芯片性能详细解析（Mate 80 Pro）视频上线？",
+      "summary": "K90至尊就是目前最流畅的澎湃，最流畅的米系手机，彻底解决了K90 Pro Max和小米17全系列日用极其容易发烫，发烫后掉帧卡顿的问题，主动散热就是力大飞砖，这流畅度在米系机型里面确实是登顶了，跟天玑9500的K90 max相比，至尊更流畅，max续航更好。",
       "tags": [
-        "行业",
-        "市场报告",
+        "Xiaomi",
+        "爆料",
         "NewsNow"
       ]
     },
@@ -422,26 +442,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-43e3f2ce745e",
-      "title": "心梗老人看牙被全口拔光，医院拿走手机刷光 18800 元还欠 6200 元，医院做法存在哪些违规或失当之处？",
-      "source": "知乎热榜",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "市场报告",
-      "trust": "媒体汇总",
-      "date": "2026-07-05",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.zhihu.com/question/2056861703225042408",
-      "image": "",
-      "summary": "心梗老人看牙被全口拔光，医院拿走手机刷光 18800 元还欠 6200 元，医院做法存在哪些违规或失当之处？",
-      "tags": [
-        "行业",
-        "市场报告",
-        "NewsNow"
-      ]
-    },
-    {
       "id": "newsnow-c4850abe44fa",
       "title": "寒门女孩高考 699 分报考清华却被网暴，劝学生别沉迷手机为何引来几十万点赞的负面评论？",
       "source": "知乎热榜",
@@ -455,6 +455,26 @@ window.phoneRadarAuto = {
       "url": "https://www.zhihu.com/question/2056771003376722999",
       "image": "",
       "summary": "寒门女孩高考 699 分报考清华却被网暴，劝学生别沉迷手机为何引来几十万点赞的负面评论？",
+      "tags": [
+        "行业",
+        "市场报告",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-27d9a3352434",
+      "title": "如何看待极客湾麒麟 9030 芯片性能详细解析（Mate 80 Pro）视频上线？",
+      "source": "知乎热榜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "市场报告",
+      "trust": "媒体汇总",
+      "date": "2026-07-05",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.zhihu.com/question/2056487235072029858",
+      "image": "",
+      "summary": "如何看待极客湾麒麟 9030 芯片性能详细解析（Mate 80 Pro）视频上线？",
       "tags": [
         "行业",
         "市场报告",
