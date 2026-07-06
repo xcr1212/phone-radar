@@ -1,11 +1,11 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-07-06T18:20:06.511Z",
+  "updatedAt": "2026-07-06T21:46:39.138Z",
   "issueDate": "2026-07-06",
   "issue": "VOL.260706",
   "title": "手机情报日报",
-  "intro": "今日筛出 16 条重点，其中 8 条是重点爆料，包含 7 条 iPhone 相关、0 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 17 条重点，其中 8 条是重点爆料，包含 7 条 iPhone 相关、0 条官方确认、0 条参数线索。",
   "stats": {
-    "total": 16,
+    "total": 17,
     "iphone": 7,
     "leaks": 8,
     "official": 0,
@@ -259,33 +259,86 @@ window.phoneRadarDaily = {
       ]
     },
     {
-      "id": "market",
-      "title": "行业趋势",
-      "hint": "看方向，不急着当购买依据。",
+      "id": "launch",
+      "title": "新机与官方发布",
+      "hint": "能直接更新到参数库。",
       "items": [
         {
-          "id": "newsnow-7234f3c77c39",
-          "title": "小米官宣集体涨价 7月6号0点开始 涨价幅度还不少 兄弟们怎么看？ 真的越等越贵[捂脸]#如何看待手机市场全面涨价# #REDMINote15Pro+# #红米Note15#",
+          "id": "auto-74cb144af15b",
+          "title": "Pixel 相关消息",
           "originalTitle": "",
-          "source": "酷安热榜",
-          "brand": "Xiaomi",
-          "type": "爆料",
-          "trust": "高关注爆料源",
+          "source": "Android Central",
+          "brand": "Pixel",
+          "type": "评测",
+          "trust": "媒体汇总",
           "date": "2026-07-06",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://www.coolapk.com/feed/72654334",
-          "image": "",
-          "verdict": "先看",
-          "takeaway": "小米官宣集体涨价 7月6号0点开始 涨价幅度还不少 兄弟们怎么看？ 真的越等越贵[捂脸]#如何看待手机市场全面涨价# #REDMINote15Pro+# #红米Note15#",
-          "detail": "小米官宣集体涨价 7月6号0点开始 涨价幅度还不少 兄弟们怎么看？ 真的越等越贵[捂脸]#如何看待手机市场全面涨价# #REDMINote15Pro+# #红米Note15#",
+          "time": "17:13",
+          "publishedAt": "2026-07-06T17:13:00.000Z",
+          "url": "https://www.androidcentral.com/phones/google-pixel/t-mobile-will-apparently-give-you-a-free-google-pixel-10-with-most-plans-but-what-does-this-mean",
+          "image": "https://cdn.mos.cms.futurecdn.net/fQh232p5B2NsQY3NqTQvue-1280-80.jpg",
+          "verdict": "可略过",
+          "takeaway": "Pixel 相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
+          "detail": "Pixel 相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
+          "keyPoints": [
+            "评测"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是实际体验内容，买前适合重点看缺点和取舍。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        },
+        {
+          "id": "auto-b669024e48a5",
+          "title": "Vivo X300e 对比 Vivo X300 FE：差异整理",
+          "originalTitle": "",
+          "source": "Gizmochina",
+          "brand": "vivo",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-07-06",
+          "time": "14:16",
+          "publishedAt": "2026-07-06T14:16:25.000Z",
+          "url": "https://www.gizmochina.com/2026/07/06/vivo-x300e-vs-vivo-x300-fe-comparison/",
+          "image": "https://www.gizmochina.com/wp-content/uploads/2026/07/Vivo-X300e-vs-Vivo-X300-FE-300x166.png?x44794",
+          "verdict": "可略过",
+          "takeaway": "Vivo X300e 对比 Vivo X300 FE：重点看定位、配置差异和价格差，判断是否值得等更高端型号。",
+          "detail": "Vivo X300e 对比 Vivo X300 FE 的差异整理。重点看两款机型的定位、影像规格、屏幕尺寸、价格区间和发布时间是否拉开差距。",
           "keyPoints": [
             "爆料"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "影响购买预算，值得先看。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         },
+        {
+          "id": "auto-d6f1d6794c2a",
+          "title": "vivo 相关消息",
+          "originalTitle": "",
+          "source": "Gizmochina",
+          "brand": "vivo",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-07-06",
+          "time": "13:36",
+          "publishedAt": "2026-07-06T13:36:42.000Z",
+          "url": "https://www.gizmochina.com/2026/07/06/iqoo-z11-india-officially-teased/",
+          "image": "https://www.gizmochina.com/wp-content/uploads/2026/07/iQOO-Z11-teaser-240x300.jpg?x44794",
+          "verdict": "可略过",
+          "takeaway": "vivo 相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
+          "detail": "vivo 相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        }
+      ]
+    },
+    {
+      "id": "market",
+      "title": "行业趋势",
+      "hint": "看方向，不急着当购买依据。",
+      "items": [
         {
           "id": "newsnow-526be5b71f49",
           "title": "家人们，因为我换手机了，所以我就把oppo手机薅羊毛焚诀给你们[t耐克嘴]",
@@ -302,29 +355,6 @@ window.phoneRadarDaily = {
           "verdict": "先看",
           "takeaway": "家人们，因为我换手机了，所以我就把oppo手机薅羊毛焚诀给你们[t耐克嘴]",
           "detail": "家人们，因为我换手机了，所以我就把oppo手机薅羊毛焚诀给你们[t耐克嘴]",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
-        {
-          "id": "newsnow-98b4a4160968",
-          "title": "REDMI K90 标准版、Note 15系列正式调价，涨幅200-300元",
-          "originalTitle": "",
-          "source": "酷安热榜",
-          "brand": "Xiaomi",
-          "type": "爆料",
-          "trust": "高关注爆料源",
-          "date": "2026-07-06",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://www.coolapk.com/feed/72664971",
-          "image": "",
-          "verdict": "扫一眼",
-          "takeaway": "REDMI K90 标准版、Note 15系列正式调价，涨幅200-300元",
-          "detail": "REDMI K90 标准版、Note 15系列正式调价，涨幅200-300元",
           "keyPoints": [
             "爆料"
           ],

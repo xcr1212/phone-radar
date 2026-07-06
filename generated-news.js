@@ -1,6 +1,26 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-07-06T18:20:06.511Z",
+  "updatedAt": "2026-07-06T21:46:39.138Z",
   "news": [
+    {
+      "id": "auto-eb646d65a3b4",
+      "title": "Microsoft is selling off four Xbox studios as part of significant gaming cuts",
+      "source": "The Verge",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-06",
+      "time": "21:00",
+      "publishedAt": "2026-07-06T21:00:47.000Z",
+      "url": "https://www.theverge.com/news/961546/xbox-layoffs-studio-sales-2026",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2279118333.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "summary": "Microsoft is laying off 4,800 employees today, and more than 30 percent of the job losses are in the company's Xbox division. The significant gaming cuts will affect nearly every…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-0396368df776",
       "title": "Big Samsung Galaxy Z Fold 8 display upgrade leaked ahead of launch",
@@ -175,26 +195,6 @@ window.phoneRadarAuto = {
       "url": "https://9to5mac.com/2026/07/06/iphone-18-pro-max-vs-pro-leak-reveals-apples-plan-to-differentiate-models/",
       "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/iphone-18-pro-pro-max-mockup-di.jpg?quality=82&strip=all&w=1600",
       "summary": "Every year, the iPhone Pro models share nearly every feature in common apart from screen size. But at times, Apple gives the Pro Max model a special advantage, and a new leak indi…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-eb646d65a3b4",
-      "title": "Microsoft is selling off four Xbox studios as part of significant gaming cuts",
-      "source": "The Verge",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-06",
-      "time": "13:47",
-      "publishedAt": "2026-07-06T13:47:55.000Z",
-      "url": "https://www.theverge.com/news/961546/xbox-layoffs-studio-sales-2026",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2279118333.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "summary": "Microsoft is laying off 4,800 employees today, and more than 30 percent of the job losses are in the company's Xbox division. The significant gaming cuts will affect nearly every…",
       "tags": [
         "iPhone",
         "爆料",
@@ -822,21 +822,21 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-98b4a4160968",
-      "title": "REDMI K90 标准版、Note 15系列正式调价，涨幅200-300元",
+      "id": "newsnow-526be5b71f49",
+      "title": "家人们，因为我换手机了，所以我就把oppo手机薅羊毛焚诀给你们[t耐克嘴]",
       "source": "酷安热榜",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-07-06",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72664971",
+      "url": "https://www.coolapk.com/feed/72661828",
       "image": "",
-      "summary": "REDMI K90 标准版、Note 15系列正式调价，涨幅200-300元",
+      "summary": "家人们，因为我换手机了，所以我就把oppo手机薅羊毛焚诀给你们[t耐克嘴]",
       "tags": [
-        "Xiaomi",
+        "OPPO",
         "爆料",
         "NewsNow"
       ]
@@ -858,66 +858,6 @@ window.phoneRadarAuto = {
       "tags": [
         "行业",
         "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-7234f3c77c39",
-      "title": "小米官宣集体涨价 7月6号0点开始 涨价幅度还不少 兄弟们怎么看？ 真的越等越贵[捂脸]#如何看待手机市场全面涨价# #REDMINote15Pro+# #红米Note15#",
-      "source": "酷安热榜",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-07-06",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72654334",
-      "image": "",
-      "summary": "小米官宣集体涨价 7月6号0点开始 涨价幅度还不少 兄弟们怎么看？ 真的越等越贵[捂脸]#如何看待手机市场全面涨价# #REDMINote15Pro+# #红米Note15#",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-526be5b71f49",
-      "title": "家人们，因为我换手机了，所以我就把oppo手机薅羊毛焚诀给你们[t耐克嘴]",
-      "source": "酷安热榜",
-      "brand": "OPPO",
-      "model": "OPPO 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-07-06",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72661828",
-      "image": "",
-      "summary": "家人们，因为我换手机了，所以我就把oppo手机薅羊毛焚诀给你们[t耐克嘴]",
-      "tags": [
-        "OPPO",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-a672493e3c07",
-      "title": "华为 PuraXMax 折叠手机销量突破 45 万台，典藏版卖得更好反映了哪些消费趋势？",
-      "source": "知乎热榜",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "市场报告",
-      "trust": "媒体汇总",
-      "date": "2026-07-06",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.zhihu.com/question/2056128489472915373",
-      "image": "",
-      "summary": "华为 PuraXMax 折叠手机销量突破 45 万台，典藏版卖得更好反映了哪些消费趋势？",
-      "tags": [
-        "Huawei",
-        "市场报告",
         "NewsNow"
       ]
     },
