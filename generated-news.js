@@ -1,6 +1,26 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-07-06T21:46:39.138Z",
+  "updatedAt": "2026-07-06T23:31:21.843Z",
   "news": [
+    {
+      "id": "auto-eeff489393fc",
+      "title": "IT早报 0707：曝华为 Mate 90 或搭载基于韬定律的新麒麟芯片；小米 REDMI K90 上涨 200 元；金山办公回应 WPS 滥收费质疑；优必选回应仿生机器人续航争议...",
+      "source": "IT之家",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-06",
+      "time": "23:18",
+      "publishedAt": "2026-07-06T23:18:16.000Z",
+      "url": "https://www.ithome.com/0/973/320.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/7/9e455524-5f38-4bb7-9ddd-90109628fa7e.png?x-bce-process=image/format,f_auto",
+      "summary": "“IT早报”时间，大家好，现在是 2026 年 7 月 7 日星期二，今天的重要科技资讯有： 1、消息称华为 Mate 90 系列手机有望搭载基于韬定律的新麒麟芯片 据科创板日报从知情人士处获悉，将于今年秋季发布的华为 Mate 90 系列手机，计划搭载基于韬定律的新麒麟芯片。华为公司董事、半导体业务部总裁何庭波曾表示，将于今年秋季面世的麒麟手机芯片率先采…",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-eb646d65a3b4",
       "title": "Microsoft is selling off four Xbox studios as part of significant gaming cuts",
@@ -442,26 +462,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-c11ae1947b56",
-      "title": "Expect to pay more for the Samsung Galaxy Z Fold 8 and Flip 8",
-      "source": "Android Police",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-06",
-      "time": "10:14",
-      "publishedAt": "2026-07-06T10:14:32.000Z",
-      "url": "https://www.androidpolice.com/samsungs-new-foldables-will-get-a-big-price-increase/",
-      "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2025/07/img_1353.jpg",
-      "summary": "A Korean report claims the two phone ranges will see big price increases",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-ab3ec7f6452d",
       "title": "Exynos or Snapdragon? Galaxy S27 Pro’s chipset may have leaked",
       "source": "SamMobile",
@@ -842,6 +842,26 @@ window.phoneRadarAuto = {
       ]
     },
     {
+      "id": "newsnow-9d2bfb14610e",
+      "title": "天玑9500日用卡顿发烫的头条了我已经刷到不知道多少个了，很多X300用户甚至说还没有X200系列流畅，体验还不如天玑9400，包括但不限于X300系列、Find X9系列、红米K90 Max，有机主可以来说一下吗是真的吗[受虐滑稽]，是不是天玑9500真的有问题，天玑9400机型都没有这么多说卡顿发烫的，天玑9500真的是还不如骁龙上一代8e和天玑9400吗。",
+      "source": "酷安热榜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-07-06",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/72675349",
+      "image": "",
+      "summary": "天玑9500日用卡顿发烫的头条了我已经刷到不知道多少个了，很多X300用户甚至说还没有X200系列流畅，体验还不如天玑9400，包括但不限于X300系列、Find X9系列、红米K90 Max，有机主可以来说一下吗是真的吗[受虐滑稽]，是不是天玑9500真的有问题，天玑9400机型都没有这么多说卡顿发烫的，天玑9500真的是还不如骁龙上一代8e和天玑940…",
+      "tags": [
+        "行业",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
       "id": "newsnow-9489926ad272",
       "title": "兄弟们，买了一个17。然后配了一个这种类似于 pro 系列的手机壳，这个出去会被人说装吗？我看抖音走17改17pro 评论区全是说虚荣、装。。。。我这种壳算吗？大家觉得。。。",
       "source": "酷安热榜",
@@ -862,6 +882,26 @@ window.phoneRadarAuto = {
       ]
     },
     {
+      "id": "newsnow-4c2e9c97d072",
+      "title": "揭秘iPhone18被开源过程",
+      "source": "B站热搜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-06",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://search.bilibili.com/all?keyword=%E6%8F%AD%E7%A7%98iPhone18%E8%A2%AB%E5%BC%80%E6%BA%90%E8%BF%87%E7%A8%8B",
+      "image": "",
+      "summary": "揭秘iPhone18被开源过程",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
       "id": "auto-6b31fbb80669",
       "title": "Report: iPhone Ultra to have incredibly limited availability at launch, may ship slightly later",
       "source": "9to5Mac",
@@ -875,26 +915,6 @@ window.phoneRadarAuto = {
       "url": "https://9to5mac.com/2026/07/05/iphone-fold-low-supply-at-launch-delayed-release/",
       "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/03/iphone-fold-mockup-purple.jpg?quality=82&strip=all&w=1600",
       "summary": "According to supply chain analyst Ming-Chi Kuo , Apple is likely to have very limited supply for iPhone Ultra at its time of announcement in September. This means it’s plausible t…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-15def25a53de",
-      "title": "'iPhone Ultra' Likely to 'Repeat the iPhone X Story' With Delayed Launch",
-      "source": "MacRumors",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-05",
-      "time": "17:28",
-      "publishedAt": "2026-07-05T17:28:32.000Z",
-      "url": "https://www.macrumors.com/2026/07/05/foldable-iphone-to-repeat-iphone-x-story/",
-      "image": "https://images.macrumors.com/article-new/2022/09/iPhone-X-2022-Upload.jpg",
-      "summary": "Apple will likely \"repeat the iPhone X story\" by unveiling its foldable iPhone at the same time as the iPhone 18 Pro and iPhone 18 Pro Max, but starting foldable iPhone pre-orders…",
       "tags": [
         "iPhone",
         "爆料",

@@ -1,5 +1,5 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-07-06T21:46:39.138Z",
+  "updatedAt": "2026-07-06T23:31:21.843Z",
   "issueDate": "2026-07-06",
   "issue": "VOL.260706",
   "title": "手机情报日报",
@@ -110,23 +110,25 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
-          "id": "auto-15def25a53de",
-          "title": "iPhone 发布 / 上市相关消息",
+          "id": "auto-eeff489393fc",
+          "title": "IT早报 0707：曝华为 Mate 90 或搭载基于韬定律的新麒麟芯片；小米 REDMI K90 上涨 200 元；金山办公回应 WPS 滥收费质疑；优必选回应仿生机器人续航争议...",
           "originalTitle": "",
-          "source": "MacRumors",
-          "brand": "iPhone",
+          "source": "IT之家",
+          "brand": "Huawei",
           "type": "爆料",
           "trust": "媒体汇总",
-          "date": "2026-07-05",
-          "time": "17:28",
-          "publishedAt": "2026-07-05T17:28:32.000Z",
-          "url": "https://www.macrumors.com/2026/07/05/foldable-iphone-to-repeat-iphone-x-story/",
-          "image": "https://images.macrumors.com/article-new/2022/09/iPhone-X-2022-Upload.jpg",
+          "date": "2026-07-06",
+          "time": "23:18",
+          "publishedAt": "2026-07-06T23:18:16.000Z",
+          "url": "https://www.ithome.com/0/973/320.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/7/9e455524-5f38-4bb7-9ddd-90109628fa7e.png?x-bce-process=image/format,f_auto",
           "verdict": "先看",
-          "takeaway": "iPhone 有发布或新功能消息，适合确认是否和新机有关。",
-          "detail": "iPhone 发布 / 上市相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
+          "takeaway": "“IT早报”时间，大家好，现在是 2026 年 7 月 7 日星期二，今天的重要科技资讯有： 1、消息称华为 Mate 90 系列手机有望搭载基于韬定律的新麒麟芯片 据科创板日报从知情人士处获悉，将于今年秋季发布的华为 Mate 90 系列手机，计划搭载基于韬定律的新麒麟芯片。华为公司董事、半导体业务部总裁何庭波曾表示，将于今年秋季面世的麒麟手机芯片率先采…",
+          "detail": "“IT早报”时间，大家好，现在是 2026 年 7 月 7 日星期二，今天的重要科技资讯有： 1、消息称华为 Mate 90 系列手机有望搭载基于韬定律的新麒麟芯片 据科创板日报从知情人士处获悉，将于今年秋季发布的华为 Mate 90 系列手机，计划搭载基于韬定律的新麒麟芯片。华为公司董事、半导体业务部总裁何庭波曾表示，将于今年秋季面世的麒麟手机芯片率先采…",
           "keyPoints": [
-            "爆料"
+            "电池 / 充电",
+            "芯片 / 性能",
+            "爆料来源"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
@@ -255,6 +257,29 @@ window.phoneRadarDaily = {
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是实际体验内容，买前适合重点看缺点和取舍。",
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        },
+        {
+          "id": "newsnow-4c2e9c97d072",
+          "title": "揭秘iPhone18被开源过程",
+          "originalTitle": "",
+          "source": "B站热搜",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-07-06",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://search.bilibili.com/all?keyword=%E6%8F%AD%E7%A7%98iPhone18%E8%A2%AB%E5%BC%80%E6%BA%90%E8%BF%87%E7%A8%8B",
+          "image": "",
+          "verdict": "扫一眼",
+          "takeaway": "揭秘iPhone18被开源过程",
+          "detail": "揭秘iPhone18被开源过程",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         }
       ]
     },
@@ -302,29 +327,6 @@ window.phoneRadarDaily = {
           "verdict": "可略过",
           "takeaway": "Vivo X300e 对比 Vivo X300 FE：重点看定位、配置差异和价格差，判断是否值得等更高端型号。",
           "detail": "Vivo X300e 对比 Vivo X300 FE 的差异整理。重点看两款机型的定位、影像规格、屏幕尺寸、价格区间和发布时间是否拉开差距。",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
-        {
-          "id": "auto-d6f1d6794c2a",
-          "title": "vivo 相关消息",
-          "originalTitle": "",
-          "source": "Gizmochina",
-          "brand": "vivo",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-07-06",
-          "time": "13:36",
-          "publishedAt": "2026-07-06T13:36:42.000Z",
-          "url": "https://www.gizmochina.com/2026/07/06/iqoo-z11-india-officially-teased/",
-          "image": "https://www.gizmochina.com/wp-content/uploads/2026/07/iQOO-Z11-teaser-240x300.jpg?x44794",
-          "verdict": "可略过",
-          "takeaway": "vivo 相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
-          "detail": "vivo 相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
           "keyPoints": [
             "爆料"
           ],
