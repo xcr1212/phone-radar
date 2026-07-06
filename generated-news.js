@@ -1,6 +1,466 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-07-06T04:38:10.057Z",
+  "updatedAt": "2026-07-06T11:01:52.137Z",
   "news": [
+    {
+      "id": "auto-5596ba5c9d4e",
+      "title": "Pura 90 Pro Max to be the first global 5G Huawei phone in a while",
+      "source": "Huawei Central",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-06",
+      "time": "10:40",
+      "publishedAt": "2026-07-06T10:40:44.000Z",
+      "url": "https://www.huaweicentral.com/pura-90-pro-max-to-be-the-first-global-5g-huawei-phone-in-a-while/",
+      "image": "https://www.huaweicentral.com/wp-content/uploads/2026/07/TKDN-certificate.jpg",
+      "summary": "Pura 90 Pro Max is all set to step into the overseas market and it’s going to be the first global Huawei phone with 5G capability. After using 4G network for its international han…",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-e61ccb0dc2c4",
+      "title": "Vivo X300e clears all major certifications, launch imminent",
+      "source": "Gizmochina",
+      "brand": "vivo",
+      "model": "vivo 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-06",
+      "time": "10:24",
+      "publishedAt": "2026-07-06T10:24:49.000Z",
+      "url": "https://www.gizmochina.com/2026/07/06/vivo-x300e-3c-certified/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/06/Vivo-X300-FE-black-300x225.jpg?x44794",
+      "summary": "A Vivo device bearing the model number V2612A was recently approved by China’s TENAA certification platform, revealing its key specifications. Soon after, Chinese tech bloggers cl…",
+      "tags": [
+        "vivo",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-3916aaa201f3",
+      "title": "OnePlus is allegedly honoring warranties with vouchers nobody asked for, and users aren’t happy",
+      "source": "Android Authority",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-06",
+      "time": "10:16",
+      "publishedAt": "2026-07-06T10:16:51.000Z",
+      "url": "https://www.androidauthority.com/oneplus-eu-warranty-swapped-for-useless-voucher-3684328/",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2026/04/OnePlus-Nord-6-outdoors-scaled.jpg",
+      "summary": "These €100 vouchers can't be redeemed because nearly everything is out of stock or already discounted.",
+      "tags": [
+        "HONOR",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-c11ae1947b56",
+      "title": "Expect to pay more for the Samsung Galaxy Z Fold 8 and Flip 8",
+      "source": "Android Police",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-06",
+      "time": "10:14",
+      "publishedAt": "2026-07-06T10:14:32.000Z",
+      "url": "https://www.androidpolice.com/samsungs-new-foldables-will-get-a-big-price-increase/",
+      "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2025/07/img_1353.jpg",
+      "summary": "A Korean report claims the two phone ranges will see big price increases",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-ea4460e5acaa",
+      "title": "消息称华为明年将推出“完全无竞品”的小阔折手机",
+      "source": "IT之家",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-06",
+      "time": "09:55",
+      "publishedAt": "2026-07-06T09:55:00.000Z",
+      "url": "https://www.ithome.com/0/973/225.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/7/c420a3c2-9a2a-49ca-bf8d-5a59c08393a1.png?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 7 月 6 日消息，博主 @数码闲聊站 今日曝光华为折叠屏手机战略：阔折叠打友商的大折叠，三折叠打友商的阔折叠，最后再来一个大折叠收尾， 明年还有一个完全无竞品的小阔折 。 其中，用户关注度较高的为明年推出的小阔折手机，预计为华为 Pura X 阔折叠手机的迭代机型。 华为 Pura X 发布于去年 3 月 ，搭载 3.5 英寸 1:1 比例外屏…",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-ab3ec7f6452d",
+      "title": "Exynos or Snapdragon? Galaxy S27 Pro’s chipset may have leaked",
+      "source": "SamMobile",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-06",
+      "time": "09:25",
+      "publishedAt": "2026-07-06T09:25:13.000Z",
+      "url": "https://www.sammobile.com/news/galaxy-s27-pro-exynos-2700-snapdragon-chip-leak/",
+      "image": "",
+      "summary": "Samsung is expected to launch four Galaxy S27 series phones early next year. The Galaxy S27 Pro could be the newest addition to the lineup, and it is rumored to be a relatively co…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-b6d80da7e8b5",
+      "title": "vivo G5i/G5z 手机上架官网：第二代骁龙 4、支持系统深度定制，2199 元起",
+      "source": "IT之家",
+      "brand": "vivo",
+      "model": "vivo 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-06",
+      "time": "09:06",
+      "publishedAt": "2026-07-06T09:06:48.000Z",
+      "url": "https://www.ithome.com/0/973/204.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/7/aa4653e9-b815-47ce-907b-eea2c64497a3.jpg?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 7 月 6 日消息，vivo G5i、vivo G5z 两款新机今日上架 vivo 官网，两款机型设备型号均为 V2531A， 售价 2199 元起 ： 6GB+128GB：2199 元 8GB+256GB：2899 元 IT之家注意到，商品页面显示，vivo G5i、vivo G5z 支持系统深度定制 、海量接口自选，并提供个性主题定制、机身镌…",
+      "tags": [
+        "vivo",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-89520ef3124b",
+      "title": "Crease visibility on the Galaxy Z Fold 8 series could match the industry’s best",
+      "source": "SamMobile",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-06",
+      "time": "08:51",
+      "publishedAt": "2026-07-06T08:51:18.000Z",
+      "url": "https://www.sammobile.com/news/galaxy-z-fold-8-ultra-crease-visibility-match-industry-best/",
+      "image": "https://www.sammobile.com/wp-content/uploads/2026/01/Samsung-Display-Crease-Less-Foldable-OLED-Panel-Comparison-CES-2026-1920x1080.jpg",
+      "summary": "Earlier this year, Samsung Display showcased a new foldable OLED panel featuring its Advanced Crease-Less technology. It was widely expected that this panel would be used in the G…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-39165517f4cf",
+      "title": "竹本青：曝 OPPO Find X10 Ultra 评估微云台镜组",
+      "source": "竹本青",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-07-06",
+      "time": "08:45",
+      "publishedAt": "2026-07-06T08:45:22.000Z",
+      "url": "https://www.coolapk.com/feed/72672570",
+      "image": "http://image.coolapk.com/feed/2026/0706/16/4248714_6317baad_7521_6911_827@1439x375.jpg",
+      "summary": "【曝 OPPO Find X10 Ultra 评估微云台镜组】 7月6日，数码闲聊站爆料称，OPPO Find X10 Ultra除了主摄评估200Mp 1/1.12\" LOFIC ，镜组同步评估微云台结构，光学防抖角度更大。 #今日热点# #ColorOS16# #OPPOFindX10Ultra#",
+      "tags": [
+        "OPPO",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-72d8cca04462",
+      "title": "消息称某厂 Ultra 迭代旗舰机评估 200Mp 主摄、微云台结构，预计为 OPPO Find X10 Ultra",
+      "source": "IT之家",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-06",
+      "time": "07:51",
+      "publishedAt": "2026-07-06T07:51:55.000Z",
+      "url": "https://www.ithome.com/0/973/131.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/7/3d6441bb-9487-421f-b232-98efbd4abfd4.png?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 7 月 6 日消息，博主 @数码闲聊站 今日发布某厂 Ultra 迭代旗舰机超前瞻爆料，预计为 OPPO Find X10 Ultra。 据其爆料，这款旗舰新机的影像除了主摄评估 200Mp 1/1.12\" LOFIC Sensor，镜组同步评估 微云台结构 ，光学防抖角度更大。 在此之前，该博主还在 6 月爆料某厂旗舰迭代机搭载 6.89 英寸…",
+      "tags": [
+        "OPPO",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-45213c04b410",
+      "title": "消息称小米完成关键人事任命：原深圳区域总部总经理葛维严接掌手机相机部",
+      "source": "IT之家",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-06",
+      "time": "07:46",
+      "publishedAt": "2026-07-06T07:46:42.000Z",
+      "url": "https://www.ithome.com/0/973/126.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/7/51b63104-d9f3-4ee3-bc93-3b4bbd9e5a07.png?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 7 月 6 日消息，据蓝鲸新闻今日援引知情人士消息，小米集团手机部近期完成一项关键人事任命：原小米深圳区域总经理葛维严已正式接掌手机相机部， 出任总经理一职 。 据知情人士透露，该任命已在内部传达，属正常轮岗调整。 葛维严后续将向手机部副总裁 、 硬件工程部总经理许春利汇报 ，后者长期负责小米终端硬件研发，曾主导 MIX Fold 2 折叠屏手机…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-fe85fbd2e05e",
+      "title": "Galaxy S27 Ultra reportedly being tested with 5,600mAh and 5,800mAh batteries",
+      "source": "Gizmochina",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-06",
+      "time": "07:43",
+      "publishedAt": "2026-07-06T07:43:21.000Z",
+      "url": "https://www.gizmochina.com/2026/07/06/galaxy-s27-ultra-reportedly-being-tested-with-5600mah-and-5800mah-batteries/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/07/Samsung-Galaxy-S27-Ultra-Ai-render-1024x577-1-300x169.webp?x44794",
+      "summary": "Battery life has become one of the biggest battlegrounds for smartphones. For years, Samsung has been fairly conservative with the battery in its Galaxy S Ultra models, and many f…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-a49ce1171236",
+      "title": "预防电信诈骗：韩国实施手机入网新规，进行人脸识别等多重身份核验",
+      "source": "IT之家",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-06",
+      "time": "07:42",
+      "publishedAt": "2026-07-06T07:42:37.000Z",
+      "url": "https://www.ithome.com/0/973/120.htm",
+      "image": "",
+      "summary": "IT之家 7 月 6 日消息，据韩联社报道，韩国今日起升级手机入网身份核验方式。今后新办理入网或携号转网业务时， 用户无法仅凭身份证完成办理，须进行人脸识别等多重身份核验 。 据韩国科学技术信息通信部消息，韩国三大移动通信运营商及虚拟运营商即日起在所有线上、线下办理渠道正式启用升级版身份核验机制，取代以往仅核验身份证的方式。 根据新规，新办入网和携号转网的…",
+      "tags": [
+        "行业",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-0430348aeacf",
+      "title": "Huawei Global teases Pura 90s Pro Max with 20x zoom camera",
+      "source": "Huawei Central",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-06",
+      "time": "07:12",
+      "publishedAt": "2026-07-06T07:12:51.000Z",
+      "url": "https://www.huaweicentral.com/huawei-pura-90s-pro-max/",
+      "image": "https://www.huaweicentral.com/wp-content/uploads/2026/07/Pura90s-Pro-Max.jpg",
+      "summary": "Huawei has confirmed the Pura 90 series global debut for next week and at the same time, it has teased one of the models from the lineup – Pura 90s Pro Max. Looks like the company…",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-509f2ee27961",
+      "title": "Global Vivo X500 Pro Max bags an important certification",
+      "source": "Gizmochina",
+      "brand": "vivo",
+      "model": "vivo 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-06",
+      "time": "07:04",
+      "publishedAt": "2026-07-06T07:04:58.000Z",
+      "url": "https://www.gizmochina.com/2026/07/06/vivo-x500-pro-max-global-tkdn-certification/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2025/12/Screenshot-2025-12-10-205154-300x247.png?x44794",
+      "summary": "Vivo is reportedly working on the Vivo X500 series for multiple markets. Reports suggest that it may break cover in September in China, and it now appears that its global launch m…",
+      "tags": [
+        "vivo",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-71f5f6404d66",
+      "title": "iPhone Air 当主力机用了三个多月后，我为什么还是换不掉它",
+      "source": "少数派",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-07-06",
+      "time": "07:00",
+      "publishedAt": "2026-07-06T07:00:00.000Z",
+      "url": "https://sspai.com/post/111113",
+      "image": "",
+      "summary": "但恰恰是这些取舍让我重新开始思考：什么才是真正重要的体验。",
+      "tags": [
+        "iPhone",
+        "评测",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-0c0a509a4d7f",
+      "title": "Galaxy Z Fold 8 and Fold 8 Ultra tipped to match OPPO’s nearly invisible crease",
+      "source": "Android Authority",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-06",
+      "time": "06:45",
+      "publishedAt": "2026-07-06T06:45:37.000Z",
+      "url": "https://www.androidauthority.com/samsung-galaxy-z-fold-8-crease-3684302/",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2025/07/Samsung-Galaxy-Z-Fold-7-flat-on-table-showing-inner-display-crease.jpg",
+      "summary": "Samsung has reportedly changed the hinge to nearly eliminate the crease.",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-7757826ecab3",
+      "title": "Prices of Galaxy Z Flip 8, Z Fold 8, and Z Fold 8 Ultra leak for another country",
+      "source": "SamMobile",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-06",
+      "time": "06:28",
+      "publishedAt": "2026-07-06T06:28:36.000Z",
+      "url": "https://www.sammobile.com/news/galaxy-z-flip-8-z-fold-8-ultra-korea-prices-leak/",
+      "image": "",
+      "summary": "Last week, the European prices for Samsung’s upcoming foldable phones leaked. Now, pricing information for the Galaxy Z Flip 8, Galaxy Z Fold 8, and the Galaxy Z Fold 8 Ultra has…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-65106efaffe7",
+      "title": "Huawei Pura 90 series global launch scheduled for July 14",
+      "source": "Huawei Central",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-06",
+      "time": "06:13",
+      "publishedAt": "2026-07-06T06:13:50.000Z",
+      "url": "https://www.huaweicentral.com/huawei-pura-90-series-global-launch-scheduled-for-july-14/",
+      "image": "https://www.huaweicentral.com/wp-content/uploads/2026/07/Pura90-series.jpg",
+      "summary": "Huawei has finally announced the Pura 90 series global launch timeline set for July 14. It has been more than two months since the flagship debuted at its home ground. Now, the 20…",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-375023819d5f",
+      "title": "Huawei announces Pura 90 series global launch for next week",
+      "source": "Gizmochina",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-06",
+      "time": "06:00",
+      "publishedAt": "2026-07-06T06:00:39.000Z",
+      "url": "https://www.gizmochina.com/2026/07/06/huawei-announces-pura-90-series-global-launch-for-next-week/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/04/Huawei-Pura-90-Pro-Design-and-Colors-300x200.jpg?x44794",
+      "summary": "Huawei has confirmed it will host a flagship launch event themed “Now is Your Moment” in Kuala Lumpur, Malaysia, on July 14. At the event, the company will introduce the Pura 90 s…",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-03dda435bd94",
+      "title": "Huawei could optimize three punch hole design for Mate 90",
+      "source": "Huawei Central",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-06",
+      "time": "05:43",
+      "publishedAt": "2026-07-06T05:43:31.000Z",
+      "url": "https://www.huaweicentral.com/huawei-could-optimize-three-punch-hole-design-for-mate-90/",
+      "image": "https://www.huaweicentral.com/wp-content/uploads/2026/07/Mate90-leak.jpg",
+      "summary": "Huawei has been using the “three-punch-hole” screen design in its top Mate smartphones for the past couple of years, but the Mate 90 series may adopt changes in this segment. A ne…",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-35cb09e0e9d1",
+      "title": "Here’s the first look at the Redmi Note 17 and Note 17 Pro",
+      "source": "Gizmochina",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-06",
+      "time": "05:32",
+      "publishedAt": "2026-07-06T05:32:04.000Z",
+      "url": "https://www.gizmochina.com/2026/07/06/redmi-note-17-note-17-pro-first-look-design-leak/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/07/Redmi-Note-17-300x226.jpg?x44794",
+      "summary": "Redmi is all set to announce the Redmi Note 17 series this month. Reports suggest that the lineup may include at least four models, such as the Redmi Note 17R, Note 17, Note 17 Pr…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-b6178e06de85",
+      "title": "Upcoming iQOO Z-series Dimensity 7500 phone spotted on Geekbench",
+      "source": "Gizmochina",
+      "brand": "vivo",
+      "model": "vivo 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-06",
+      "time": "05:13",
+      "publishedAt": "2026-07-06T05:13:15.000Z",
+      "url": "https://www.gizmochina.com/2026/07/06/iqoo-z-series-dimensity-7500-geekbench-ai-listing/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/03/Screenshot-2026-03-27-014855-300x146.png?x44794",
+      "summary": "iQOO is reportedly working on a new Z-series phone called the iQOO Z11 Lite. The unannounced phone was spotted with model number I2510 and the Dimensity 6300 chip on Geekbench bac…",
+      "tags": [
+        "vivo",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "coolapk-user-838eb29c462b",
       "title": "竹本青：【iQOO16 影像配置曝光，或为子系最佳】 ● 同档唯一 50Mp 1/1.3\"主摄 ● 同档唯一 50Mp 中…",
@@ -19,26 +479,6 @@ window.phoneRadarAuto = {
         "vivo",
         "爆料",
         "酷安博主"
-      ]
-    },
-    {
-      "id": "auto-b99ce627071a",
-      "title": "华为 Pura 90 系列手机国际版官宣，定档 7 月 14 日在马来西亚吉隆坡发布",
-      "source": "IT之家",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-06",
-      "time": "04:05",
-      "publishedAt": "2026-07-06T04:05:22.000Z",
-      "url": "https://www.ithome.com/0/972/993.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/7/09881cda-1b46-4531-9086-e02b7d8d06c0.jpg",
-      "summary": "IT之家 7 月 6 日消息，华为官方今日宣布，将于 7 月 14 日在马来西亚吉隆坡举行主题为“Now is Your Moment”的旗舰产品发布会， 届时将面向国际市场推出 Pura 90 系列手机 。 据IT之家此前报道，在今年 4 月的华为 Pura 系列及全场景新品发布会上，华为常务董事、产品投资评审委员会主任、终端 BG 董事长余承东 正式发…",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "自动抓取"
       ]
     },
     {
@@ -79,26 +519,6 @@ window.phoneRadarAuto = {
         "Xiaomi",
         "爆料",
         "酷安博主"
-      ]
-    },
-    {
-      "id": "auto-4e53c7d2d0ec",
-      "title": "消息称华为下半年还有 Mate XT 2 三折叠手机新品：形态有创新，将搭载最新旗舰处理器",
-      "source": "IT之家",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-06",
-      "time": "03:17",
-      "publishedAt": "2026-07-06T03:17:36.000Z",
-      "url": "https://www.ithome.com/0/972/952.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/7/7fdf95b1-f6fa-46e6-bc71-330237760edc.png?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 7 月 6 日消息，博主 @数码闲聊站 今日曝光了华为下半年的折叠屏手机新品相关信息，包括三折叠和常规大折叠，都将搭载最新一代的旗舰处理器， 定位万元档超高端 。结合评论区讨论来看，预计是华为 Mate XT 2 和 Mate X8。 博主透露， 三折叠手机的形态又有创新 ，大折叠手机则是常规比例， 尺寸做到了 8.15\"+ 6.5\"± 英寸 ，…",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "自动抓取"
       ]
     },
     {
@@ -162,126 +582,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-bd648c2b06bc",
-      "title": "售价 29.99 万元起，全新猛士 M817 开启首批交付",
-      "source": "IT之家",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-06",
-      "time": "02:20",
-      "publishedAt": "2026-07-06T02:20:31.000Z",
-      "url": "https://www.ithome.com/0/972/915.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/7/52d8f726-7b6c-435d-b742-b3b27a0f4a73.png?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 7 月 6 日消息，全新猛士 M817 今日开启首批用户交付，该车于 6 月 27 日上市，共 5 款车型，售价区间 29.99-39.99 万元。该车搭载乾崑智驾 ADS 5 驾驶辅助系统、插混动力，最大综合续航可达 1450km。 IT之家汇总各版本车型价格信息如下： Mate 1.5T PHEV：29.99 万元 Mate+ 1.5T PH…",
-      "tags": [
-        "行业",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-7bdb3ce23b8b",
-      "title": "像买手机流量包一样看高清卫星图，吉林一号在线地图访问服务上线",
-      "source": "IT之家",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-06",
-      "time": "02:18",
-      "publishedAt": "2026-07-06T02:18:17.000Z",
-      "url": "https://www.ithome.com/0/972/914.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/7/4775575b-0642-43d3-9d09-cde6080e7085.png",
-      "summary": "IT之家 7 月 6 日消息，吉林一号网今日官宣上线全新“ 在线地图访问服务 ”。以“卫星影像流量化”的产品形态，为用户提供更灵活、更高效、更经济的卫星影像获取与使用体验。 用户无需等待交付，无需整景采购 —— 即用即取，按需付费 。 “吉林一号在线地图访问”服务面向具有在线浏览或 API 集成需求的用户，提供两种标准化产品。 一是“卫星影像流量” ，用户…",
-      "tags": [
-        "行业",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-967e6f5403d1",
-      "title": "小米官方“龙虾”Xiaomi miclaw 封测新增 17T 系列手机 2 款机型",
-      "source": "IT之家",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-06",
-      "time": "01:43",
-      "publishedAt": "2026-07-06T01:43:53.000Z",
-      "url": "https://www.ithome.com/0/972/905.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/7/8a9f5fb1-c934-466b-b3d4-388314a7ad40.jpg?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 7 月 6 日消息，据小米官方账号“玩转小米澎湃 OS”在小米社区发布的最新信息，小米官方“龙虾”Xiaomi miclaw 封测 新增小米 17T 系列手机的 2 款机型 （ 报名问卷申请 ）。 官方介绍称，作为技术探索项目，当前产品在稳定性、功耗表现、复杂场景执行成功率方面仍在持续优化，仅面向科技发烧友、极客用户开放小规模测试。部分高复杂度任…",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-646b32d43117",
-      "title": "小米 REDMI 部分产品官方调价：K90 涨价 200 元、Note 15 系列上涨 300 元",
-      "source": "IT之家",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-06",
-      "time": "01:19",
-      "publishedAt": "2026-07-06T01:19:16.000Z",
-      "url": "https://www.ithome.com/0/972/898.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/7/a5848507-60d4-453a-8858-6a626a44a2bb.jpg",
-      "summary": "IT之家 7 月 6 日消息，小米 REDMI 部分产品迎来官方调价： REDMI K90 标准版涨价 200 元 12GB+256GB 规格：2799 元（原价 2599 元） 16GB+256GB 规格：3099 元（原价 2899 元） 12GB+512GB 规格：3399 元（原价 3199 元） 16GB+512GB 规格：3699 元（原价 3…",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "coolapk-user-36f759912390",
-      "title": "竹本青：小米 18 Pro Max 核心参数曝光：防窥直屏／双2亿影像",
-      "source": "竹本青",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-07-06",
-      "time": "01:07",
-      "publishedAt": "2026-07-06T01:07:15.000Z",
-      "url": "https://www.coolapk.com/feed/72667213",
-      "image": "http://image.coolapk.com/feed/2026/0706/09/4248714_b15fcbee_0034_957_657@1439x425.jpg",
-      "summary": "【小米 18 Pro Max 核心曝光：6.9英寸防窥直屏，骁龙8E6 Pro平台，双2亿影像】 ▫️6.9\" LIPO 定制超清直屏 ▫️硬件级防窥+大R角+四等边 ▫️骁龙8 Elite Gen6 Pro平台 ▫️主摄｜200Mp 1/1.28\"，首发新一代LOFIC ▫️长焦｜200Mp 1/1.56\"，3X±焦段，F2.4±光圈，支持近距离长焦微距…",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
-      "id": "auto-c62bb12b847e",
-      "title": "小米 REDMI K100 系列手机获入网许可，消息称支持 100W 有线闪充",
-      "source": "IT之家",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-06",
-      "time": "00:37",
-      "publishedAt": "2026-07-06T00:37:19.000Z",
-      "url": "https://www.ithome.com/0/972/885.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/7/e2c2888b-8c97-4b6d-85e7-719f69c318ed.png?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 7 月 6 日消息，型号为 M511CD 的小米新机已获入网许可。据博主 @李昂昂昂啊 分享，该机为 REDMI K100 系列， 将支持 100W 有线闪充 。 博主表示， 今年下半年的 REDMI K100 系列会全面提速 。 据IT之家此前报道， 小米 REDMI K100 系列手机的核心配置已曝光 ，新机会搭载骁龙 8E5 双芯平台、配备…",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-9bbf43c61c96",
       "title": "Apple announces changes to iOS in Brazil",
       "source": "Apple Newsroom",
@@ -322,26 +622,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-7234f3c77c39",
-      "title": "小米官宣集体涨价 7月6号0点开始 涨价幅度还不少 兄弟们怎么看？ 真的越等越贵[捂脸]#如何看待手机市场全面涨价# #REDMINote15Pro+# #红米Note15#",
-      "source": "酷安热榜",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-07-06",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72654334",
-      "image": "",
-      "summary": "小米官宣集体涨价 7月6号0点开始 涨价幅度还不少 兄弟们怎么看？ 真的越等越贵[捂脸]#如何看待手机市场全面涨价# #REDMINote15Pro+# #红米Note15#",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
       "id": "newsnow-9489926ad272",
       "title": "兄弟们，买了一个17。然后配了一个这种类似于 pro 系列的手机壳，这个出去会被人说装吗？我看抖音走17改17pro 评论区全是说虚荣、装。。。。我这种壳算吗？大家觉得。。。",
       "source": "酷安热榜",
@@ -362,8 +642,8 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-393482d92d21",
-      "title": "自从玩酷安后，换手机的频率越来越高[流泪]本质上还是自己的消费习惯，我要改变，从k90至尊开始#REDMIK90至尊版# #HyperOS3# #数码日常#",
+      "id": "newsnow-7234f3c77c39",
+      "title": "小米官宣集体涨价 7月6号0点开始 涨价幅度还不少 兄弟们怎么看？ 真的越等越贵[捂脸]#如何看待手机市场全面涨价# #REDMINote15Pro+# #红米Note15#",
       "source": "酷安热榜",
       "brand": "Xiaomi",
       "model": "Xiaomi 相关机型",
@@ -372,11 +652,91 @@ window.phoneRadarAuto = {
       "date": "2026-07-06",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72640972",
+      "url": "https://www.coolapk.com/feed/72654334",
       "image": "",
-      "summary": "自从玩酷安后，换手机的频率越来越高[流泪]本质上还是自己的消费习惯，我要改变，从k90至尊开始#REDMIK90至尊版# #HyperOS3# #数码日常#",
+      "summary": "小米官宣集体涨价 7月6号0点开始 涨价幅度还不少 兄弟们怎么看？ 真的越等越贵[捂脸]#如何看待手机市场全面涨价# #REDMINote15Pro+# #红米Note15#",
       "tags": [
         "Xiaomi",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-a8c24a824a49",
+      "title": "小米 18 Pro Max 核心参数曝光：防窥直屏／双2亿影像",
+      "source": "酷安热榜",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-07-06",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/72667213",
+      "image": "",
+      "summary": "小米 18 Pro Max 核心参数曝光：防窥直屏／双2亿影像",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-0ff58853e66a",
+      "title": "曝 iPhone 18 Pro 1TB / 2TB 版本采用 QLC 闪存颗粒",
+      "source": "酷安热榜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-07-06",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/72648889",
+      "image": "",
+      "summary": "曝 iPhone 18 Pro 1TB / 2TB 版本采用 QLC 闪存颗粒",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-c41d3e70074c",
+      "title": "曝华为Mate90正在芯片装测",
+      "source": "微博热搜",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "待验证",
+      "date": "2026-07-06",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://s.weibo.com/weibo?q=%23%E6%9B%9D%E5%8D%8E%E4%B8%BAMate90%E6%AD%A3%E5%9C%A8%E8%8A%AF%E7%89%87%E8%A3%85%E6%B5%8B%23&t=31&band_rank=10&Refer=top",
+      "image": "",
+      "summary": "曝华为Mate90正在芯片装测",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-4c2e9c97d072",
+      "title": "揭秘iPhone18被开源过程",
+      "source": "B站热搜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-06",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://search.bilibili.com/all?keyword=%E6%8F%AD%E7%A7%98iPhone18%E8%A2%AB%E5%BC%80%E6%BA%90%E8%BF%87%E7%A8%8B",
+      "image": "",
+      "summary": "揭秘iPhone18被开源过程",
+      "tags": [
+        "iPhone",
         "爆料",
         "NewsNow"
       ]
