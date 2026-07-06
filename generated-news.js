@@ -1,6 +1,106 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-07-06T15:54:01.524Z",
+  "updatedAt": "2026-07-06T18:20:06.511Z",
   "news": [
+    {
+      "id": "auto-0396368df776",
+      "title": "Big Samsung Galaxy Z Fold 8 display upgrade leaked ahead of launch",
+      "source": "Android Central",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-07-06",
+      "time": "17:16",
+      "publishedAt": "2026-07-06T17:16:19.000Z",
+      "url": "https://www.androidcentral.com/phones/samsung-galaxy/big-samsung-galaxy-z-fold-8-display-upgrade-leaked-ahead-of-launch",
+      "image": "https://cdn.mos.cms.futurecdn.net/wJS2cEbtY9VxafNeAhQ4t3-1280-80.jpg",
+      "summary": "The crease has been the one thing holding foldables back, and Samsung may have finally done something about it.",
+      "tags": [
+        "Samsung",
+        "评测",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-74cb144af15b",
+      "title": "T-Mobile will apparently give you a FREE Google Pixel 10 with \"most plans\" — but what does this mean?",
+      "source": "Android Central",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-07-06",
+      "time": "17:13",
+      "publishedAt": "2026-07-06T17:13:00.000Z",
+      "url": "https://www.androidcentral.com/phones/google-pixel/t-mobile-will-apparently-give-you-a-free-google-pixel-10-with-most-plans-but-what-does-this-mean",
+      "image": "https://cdn.mos.cms.futurecdn.net/fQh232p5B2NsQY3NqTQvue-1280-80.jpg",
+      "summary": "T-Mobile has launched a promotion that gets you a free phone when you add a line on \"most plans\", including the top-rated Google Pixel 10.",
+      "tags": [
+        "Pixel",
+        "评测",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-7493bf391401",
+      "title": "Former Xbox studios Double Fine and Compulsion will keep games after going indie",
+      "source": "The Verge",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-06",
+      "time": "16:49",
+      "publishedAt": "2026-07-06T16:49:42.000Z",
+      "url": "https://www.theverge.com/games/961749/xbox-layoffs-compulsion-double-fine-indie",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/ss_d78da4dbc35620193f7c14e0e5e68f7020adfd43.1920x1080.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "summary": "Microsoft is spinning off four of its Xbox game studios - Compulsion Games, Double Fine Productions, Ninja Theory, and Undead Labs - as part of the restructuring announced today.…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-b982d644ec27",
+      "title": "Samsung Galaxy Z Fold 8 leak teases a nearly invisible crease",
+      "source": "Android Police",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-06",
+      "time": "16:25",
+      "publishedAt": "2026-07-06T16:25:46.000Z",
+      "url": "https://www.androidpolice.com/galaxy-z-fold-8-leak-teases-a-nearly-invisible-crease/",
+      "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2025/07/samsung-galaxy-z-fold-7-open-on-stand.jpg",
+      "summary": "Rumored to be as flat as the Oppo Find N6",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-06a639867a50",
+      "title": "iPhone 17 Pro Max Sealed in Time Capsule Until 2276",
+      "source": "MacRumors",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-06",
+      "time": "16:11",
+      "publishedAt": "2026-07-06T16:11:30.000Z",
+      "url": "https://www.macrumors.com/2026/07/06/iphone-17-pro-max-sealed-in-time-capsule/",
+      "image": "https://images.macrumors.com/article-new/2025/09/iPhone-17-Pro-Cosmic-Orange.jpg",
+      "summary": "An iPhone 17 Pro Max in Cosmic Orange has been sealed inside a 250 year time capsule as part of America's Semiquincentennial celebrations, with the device not due to be seen again…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-1451b6938065",
       "title": "消息称小米 REDMI Turbo 5 系列手机销量超 200 万台",
@@ -23,7 +123,7 @@ window.phoneRadarAuto = {
     },
     {
       "id": "auto-fd7de85c323e",
-      "title": "Here's How the iPhone 18 Pro Max Will Compare to the iPhone 18 Pro",
+      "title": "iPhone 18 Pro vs. iPhone 18 Pro Max: Here's What the Latest Leak Says",
       "source": "MacRumors",
       "brand": "iPhone",
       "model": "iPhone 相关机型",
@@ -362,26 +462,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-ea4460e5acaa",
-      "title": "消息称华为明年将推出“完全无竞品”的小阔折手机",
-      "source": "IT之家",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-06",
-      "time": "09:55",
-      "publishedAt": "2026-07-06T09:55:00.000Z",
-      "url": "https://www.ithome.com/0/973/225.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/7/c420a3c2-9a2a-49ca-bf8d-5a59c08393a1.png?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 7 月 6 日消息，博主 @数码闲聊站 今日曝光华为折叠屏手机战略：阔折叠打友商的大折叠，三折叠打友商的阔折叠，最后再来一个大折叠收尾， 明年还有一个完全无竞品的小阔折 。 其中，用户关注度较高的为明年推出的小阔折手机，预计为华为 Pura X 阔折叠手机的迭代机型。 华为 Pura X 发布于去年 3 月 ，搭载 3.5 英寸 1:1 比例外屏…",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-ab3ec7f6452d",
       "title": "Exynos or Snapdragon? Galaxy S27 Pro’s chipset may have leaked",
       "source": "SamMobile",
@@ -397,26 +477,6 @@ window.phoneRadarAuto = {
       "summary": "Samsung is expected to launch four Galaxy S27 series phones early next year. The Galaxy S27 Pro could be the newest addition to the lineup, and it is rumored to be a relatively co…",
       "tags": [
         "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-b6d80da7e8b5",
-      "title": "vivo G5i/G5z 手机上架官网：第二代骁龙 4、支持系统深度定制，2199 元起",
-      "source": "IT之家",
-      "brand": "vivo",
-      "model": "vivo 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-06",
-      "time": "09:06",
-      "publishedAt": "2026-07-06T09:06:48.000Z",
-      "url": "https://www.ithome.com/0/973/204.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/7/aa4653e9-b815-47ce-907b-eea2c64497a3.jpg?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 7 月 6 日消息，vivo G5i、vivo G5z 两款新机今日上架 vivo 官网，两款机型设备型号均为 V2531A， 售价 2199 元起 ： 6GB+128GB：2199 元 8GB+256GB：2899 元 IT之家注意到，商品页面显示，vivo G5i、vivo G5z 支持系统深度定制 、海量接口自选，并提供个性主题定制、机身镌…",
-      "tags": [
-        "vivo",
         "爆料",
         "自动抓取"
       ]
@@ -682,26 +742,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "coolapk-user-838eb29c462b",
-      "title": "竹本青：【iQOO16 影像配置曝光，或为子系最佳】 ● 同档唯一 50Mp 1/1.3\"主摄 ● 同档唯一 50Mp 中…",
-      "source": "竹本青",
-      "brand": "vivo",
-      "model": "vivo 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-07-06",
-      "time": "04:24",
-      "publishedAt": "2026-07-06T04:24:21.000Z",
-      "url": "https://www.coolapk.com/feed/72669514",
-      "image": "http://image.coolapk.com/feed/2026/0706/12/4248714_87b88ab8_1860_9332_407@1440x550.jpg",
-      "summary": "【iQOO16 影像配置曝光，或为子系最佳】 ● 同档唯一 50Mp 1/1.3\"主摄 ● 同档唯一 50Mp 中底潜望镜 ● 同档唯二 50Mp 凑数超广角 ● vivo下放算法+风格化影调 #今日热点# #iQOO15# #OriginOS6#",
-      "tags": [
-        "vivo",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
       "id": "auto-0ed00dbbf5be",
       "title": "Xiaomi 18 Pro Max leak reconfirms 2nm chip, dual 200MP cameras, and larger battery",
       "source": "Gizmochina",
@@ -862,6 +902,26 @@ window.phoneRadarAuto = {
       ]
     },
     {
+      "id": "newsnow-a672493e3c07",
+      "title": "华为 PuraXMax 折叠手机销量突破 45 万台，典藏版卖得更好反映了哪些消费趋势？",
+      "source": "知乎热榜",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "市场报告",
+      "trust": "媒体汇总",
+      "date": "2026-07-06",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.zhihu.com/question/2056128489472915373",
+      "image": "",
+      "summary": "华为 PuraXMax 折叠手机销量突破 45 万台，典藏版卖得更好反映了哪些消费趋势？",
+      "tags": [
+        "Huawei",
+        "市场报告",
+        "NewsNow"
+      ]
+    },
+    {
       "id": "auto-6b31fbb80669",
       "title": "Report: iPhone Ultra to have incredibly limited availability at launch, may ship slightly later",
       "source": "9to5Mac",
@@ -883,7 +943,7 @@ window.phoneRadarAuto = {
     },
     {
       "id": "auto-15def25a53de",
-      "title": "'iPhone Ultra' Likely to 'Repeat the iPhone X Story'",
+      "title": "'iPhone Ultra' Likely to 'Repeat the iPhone X Story' With Delayed Launch",
       "source": "MacRumors",
       "brand": "iPhone",
       "model": "iPhone 相关机型",

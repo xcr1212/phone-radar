@@ -1,12 +1,12 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-07-06T15:54:01.524Z",
+  "updatedAt": "2026-07-06T18:20:06.511Z",
   "issueDate": "2026-07-06",
   "issue": "VOL.260706",
   "title": "手机情报日报",
-  "intro": "今日筛出 16 条重点，其中 8 条是重点爆料，包含 5 条 iPhone 相关、0 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 16 条重点，其中 8 条是重点爆料，包含 7 条 iPhone 相关、0 条官方确认、0 条参数线索。",
   "stats": {
     "total": 16,
-    "iphone": 5,
+    "iphone": 7,
     "leaks": 8,
     "official": 0,
     "specs": 0
@@ -18,8 +18,31 @@ window.phoneRadarDaily = {
       "hint": "机模、配色、影像、屏幕、电池和芯片线索先看。",
       "items": [
         {
-          "id": "auto-fd7de85c323e",
+          "id": "auto-06a639867a50",
           "title": "iPhone 相关消息",
+          "originalTitle": "",
+          "source": "MacRumors",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-07-06",
+          "time": "16:11",
+          "publishedAt": "2026-07-06T16:11:30.000Z",
+          "url": "https://www.macrumors.com/2026/07/06/iphone-17-pro-max-sealed-in-time-capsule/",
+          "image": "https://images.macrumors.com/article-new/2025/09/iPhone-17-Pro-Cosmic-Orange.jpg",
+          "verdict": "先看",
+          "takeaway": "iPhone 相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
+          "detail": "iPhone 相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "auto-fd7de85c323e",
+          "title": "iPhone 18 Pro 对比 iPhone 18 Pro Max：差异整理",
           "originalTitle": "",
           "source": "MacRumors",
           "brand": "iPhone",
@@ -31,8 +54,8 @@ window.phoneRadarDaily = {
           "url": "https://www.macrumors.com/2026/07/06/iphone-18-pro-vs-pro-max-rumors/",
           "image": "https://images.macrumors.com/article-new/2026/07/iPhone-18-Pro-and-Pro-Max-Feature.jpg",
           "verdict": "先看",
-          "takeaway": "iPhone 相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
-          "detail": "iPhone 相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
+          "takeaway": "iPhone 18 Pro 对比 iPhone 18 Pro Max：重点看定位、配置差异和价格差，判断是否值得等更高端型号。",
+          "detail": "iPhone 18 Pro 对比 iPhone 18 Pro Max 的差异整理。重点看两款机型的定位、影像规格、屏幕尺寸、价格区间和发布时间是否拉开差距。",
           "keyPoints": [
             "爆料来源"
           ],
@@ -87,6 +110,29 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
+          "id": "auto-15def25a53de",
+          "title": "iPhone 发布 / 上市相关消息",
+          "originalTitle": "",
+          "source": "MacRumors",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-07-05",
+          "time": "17:28",
+          "publishedAt": "2026-07-05T17:28:32.000Z",
+          "url": "https://www.macrumors.com/2026/07/05/foldable-iphone-to-repeat-iphone-x-story/",
+          "image": "https://images.macrumors.com/article-new/2022/09/iPhone-X-2022-Upload.jpg",
+          "verdict": "先看",
+          "takeaway": "iPhone 有发布或新功能消息，适合确认是否和新机有关。",
+          "detail": "iPhone 发布 / 上市相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
           "id": "auto-1451b6938065",
           "title": "消息称小米 REDMI Turbo 5 系列手机销量超 200 万台",
           "originalTitle": "",
@@ -106,30 +152,6 @@ window.phoneRadarDaily = {
             "爆料来源"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "auto-ea4460e5acaa",
-          "title": "消息称华为明年将推出“完全无竞品”的小阔折手机",
-          "originalTitle": "",
-          "source": "IT之家",
-          "brand": "Huawei",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-07-06",
-          "time": "09:55",
-          "publishedAt": "2026-07-06T09:55:00.000Z",
-          "url": "https://www.ithome.com/0/973/225.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/7/c420a3c2-9a2a-49ca-bf8d-5a59c08393a1.png?x-bce-process=image/format,f_auto",
-          "verdict": "先看",
-          "takeaway": "IT之家 7 月 6 日消息，博主 @数码闲聊站 今日曝光华为折叠屏手机战略：阔折叠打友商的大折叠，三折叠打友商的阔折叠，最后再来一个大折叠收尾， 明年还有一个完全无竞品的小阔折 。 其中，用户关注度较高的为明年推出的小阔折手机，预计为华为 Pura X 阔折叠手机的迭代机型。 华为 Pura X 发布于去年 3 月 ，搭载 3.5 英寸 1:1 比例外屏…",
-          "detail": "IT之家 7 月 6 日消息，博主 @数码闲聊站 今日曝光华为折叠屏手机战略：阔折叠打友商的大折叠，三折叠打友商的阔折叠，最后再来一个大折叠收尾， 明年还有一个完全无竞品的小阔折 。 其中，用户关注度较高的为明年推出的小阔折手机，预计为华为 Pura X 阔折叠手机的迭代机型。 华为 Pura X 发布于去年 3 月 ，搭载 3.5 英寸 1:1 比例外屏…",
-          "keyPoints": [
-            "屏幕形态",
-            "爆料来源"
-          ],
-          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
@@ -178,29 +200,6 @@ window.phoneRadarDaily = {
             "爆料来源"
           ],
           "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "coolapk-user-838eb29c462b",
-          "title": "竹本青：【iQOO16 影像配置曝光，或为子系最佳】 ● 同档唯一 50Mp 1/1.3\"主摄 ● 同档唯一 50Mp 中…",
-          "originalTitle": "",
-          "source": "竹本青",
-          "brand": "vivo",
-          "type": "爆料",
-          "trust": "高可信爆料",
-          "date": "2026-07-06",
-          "time": "04:24",
-          "publishedAt": "2026-07-06T04:24:21.000Z",
-          "url": "https://www.coolapk.com/feed/72669514",
-          "image": "http://image.coolapk.com/feed/2026/0706/12/4248714_87b88ab8_1860_9332_407@1440x550.jpg",
-          "verdict": "先看",
-          "takeaway": "【iQOO16 影像配置曝光，或为子系最佳】 ● 同档唯一 50Mp 1/1.3\"主摄 ● 同档唯一 50Mp 中底潜望镜 ● 同档唯二 50Mp 凑数超广角 ● vivo下放算法+风格化影调 #今日热点# #iQOO15# #OriginOS6#",
-          "detail": "【iQOO16 影像配置曝光，或为子系最佳】 ● 同档唯一 50Mp 1/1.3\"主摄 ● 同档唯一 50Mp 中底潜望镜 ● 同档唯二 50Mp 凑数超广角 ● vivo下放算法+风格化影调 #今日热点# #iQOO15# #OriginOS6#",
-          "keyPoints": [
-            "影像硬件"
-          ],
-          "confidence": "可信度较高，但仍属于发布前线索。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         }
@@ -264,29 +263,6 @@ window.phoneRadarDaily = {
       "title": "行业趋势",
       "hint": "看方向，不急着当购买依据。",
       "items": [
-        {
-          "id": "auto-b6d80da7e8b5",
-          "title": "vivo G5i/G5z 手机上架官网：第二代骁龙 4、支持系统深度定制，2199 元起",
-          "originalTitle": "",
-          "source": "IT之家",
-          "brand": "vivo",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-07-06",
-          "time": "09:06",
-          "publishedAt": "2026-07-06T09:06:48.000Z",
-          "url": "https://www.ithome.com/0/973/204.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/7/aa4653e9-b815-47ce-907b-eea2c64497a3.jpg?x-bce-process=image/format,f_auto",
-          "verdict": "先看",
-          "takeaway": "IT之家 7 月 6 日消息，vivo G5i、vivo G5z 两款新机今日上架 vivo 官网，两款机型设备型号均为 V2531A， 售价 2199 元起 ： 6GB+128GB：2199 元 8GB+256GB：2899 元 IT之家注意到，商品页面显示，vivo G5i、vivo G5z 支持系统深度定制 、海量接口自选，并提供个性主题定制、机身镌…",
-          "detail": "IT之家 7 月 6 日消息，vivo G5i、vivo G5z 两款新机今日上架 vivo 官网，两款机型设备型号均为 V2531A， 售价 2199 元起 ： 6GB+128GB：2199 元 8GB+256GB：2899 元 IT之家注意到，商品页面显示，vivo G5i、vivo G5z 支持系统深度定制 、海量接口自选，并提供个性主题定制、机身镌…",
-          "keyPoints": [
-            "成本 / 价格"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "中文源可以直接点开快读；看完只保留和购机有关的点。"
-        },
         {
           "id": "newsnow-7234f3c77c39",
           "title": "小米官宣集体涨价 7月6号0点开始 涨价幅度还不少 兄弟们怎么看？ 真的越等越贵[捂脸]#如何看待手机市场全面涨价# #REDMINote15Pro+# #红米Note15#",
@@ -395,6 +371,29 @@ window.phoneRadarDaily = {
           "verdict": "扫一眼",
           "takeaway": "？？？？ 【动态】【REDMI K90／Turbo 5系列...",
           "detail": "？？？？ 【动态】【REDMI K90／Turbo 5系列...",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "可信度较高，但仍属于发布前线索。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        },
+        {
+          "id": "coolapk-user-c0007cfc1e0d",
+          "title": "竹本青：【REDMI K90／Turbo 5系列 最新销量曝光：合计近553.4万，Turbo 5系列超200万】 RED…",
+          "originalTitle": "",
+          "source": "竹本青",
+          "brand": "Xiaomi",
+          "type": "爆料",
+          "trust": "高可信爆料",
+          "date": "2026-07-06",
+          "time": "11:42",
+          "publishedAt": "2026-07-06T11:42:05.000Z",
+          "url": "https://www.coolapk.com/feed/72674898",
+          "image": "http://image.coolapk.com/feed/2026/0706/19/4248714_4e91b642_8124_0239_546@1440x718.jpg",
+          "verdict": "扫一眼",
+          "takeaway": "【REDMI K90／Turbo 5系列 最新销量曝光：合计近553.4万，Turbo 5系列超200万】 REDMI K90 截至2026 W26 —— 约239.13万 截至2026 W25 —— 约232.97万 截至2026 W24 —— 约222.81万 截至2026 W23 —— 约215.05万 REDMI K90 Max 截至2026 W2…",
+          "detail": "【REDMI K90／Turbo 5系列 最新销量曝光：合计近553.4万，Turbo 5系列超200万】 REDMI K90 截至2026 W26 —— 约239.13万 截至2026 W25 —— 约232.97万 截至2026 W24 —— 约222.81万 截至2026 W23 —— 约215.05万 REDMI K90 Max 截至2026 W2…",
           "keyPoints": [
             "爆料"
           ],
