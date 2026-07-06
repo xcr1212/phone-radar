@@ -1,6 +1,286 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-07-06T11:01:52.137Z",
+  "updatedAt": "2026-07-06T15:54:01.524Z",
   "news": [
+    {
+      "id": "auto-1451b6938065",
+      "title": "消息称小米 REDMI Turbo 5 系列手机销量超 200 万台",
+      "source": "IT之家",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-06",
+      "time": "15:24",
+      "publishedAt": "2026-07-06T15:24:32.000Z",
+      "url": "https://www.ithome.com/0/973/301.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/7/276643a1-a563-4335-b06d-ca0261c1aa68.jpg?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 7 月 6 日消息，据长期关注国内手机市场份额的数码博主 @RD观测 爆料，截至 2026 年第 26 周（6.22-6.28）， REDMI Turbo 5 系列手机销量 （Sold Out） 超 200 万台 （约 200.42 万）。 博主还公布了 REDMI K90 系列手机的销量： REDMI K90：约 239.13 万 REDMI…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-fd7de85c323e",
+      "title": "Here's How the iPhone 18 Pro Max Will Compare to the iPhone 18 Pro",
+      "source": "MacRumors",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-06",
+      "time": "14:17",
+      "publishedAt": "2026-07-06T14:17:54.000Z",
+      "url": "https://www.macrumors.com/2026/07/06/iphone-18-pro-vs-pro-max-rumors/",
+      "image": "https://images.macrumors.com/article-new/2026/07/iPhone-18-Pro-and-Pro-Max-Feature.jpg",
+      "summary": "Apple is expected to unveil the iPhone 18 Pro and iPhone 18 Pro Max in September. The devices will have a lot in common, but the latest leak suggests that the Pro Max model will t…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-b669024e48a5",
+      "title": "Vivo X300e vs Vivo X300 FE: Should you wait for the X300e?",
+      "source": "Gizmochina",
+      "brand": "vivo",
+      "model": "vivo 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-06",
+      "time": "14:16",
+      "publishedAt": "2026-07-06T14:16:25.000Z",
+      "url": "https://www.gizmochina.com/2026/07/06/vivo-x300e-vs-vivo-x300-fe-comparison/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/07/Vivo-X300e-vs-Vivo-X300-FE-300x166.png?x44794",
+      "summary": "Just when it seemed that Vivo was done with the Vivo X300 series as it gears up for the Vivo X500 series launch in September, recent reports have revealed the existence of a new X…",
+      "tags": [
+        "vivo",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-c579f03e7111",
+      "title": "iPhone 18 Pro Max vs Pro: Leak reveals Apple’s plan to differentiate models",
+      "source": "9to5Mac",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-06",
+      "time": "14:10",
+      "publishedAt": "2026-07-06T14:10:02.000Z",
+      "url": "https://9to5mac.com/2026/07/06/iphone-18-pro-max-vs-pro-leak-reveals-apples-plan-to-differentiate-models/",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/iphone-18-pro-pro-max-mockup-di.jpg?quality=82&strip=all&w=1600",
+      "summary": "Every year, the iPhone Pro models share nearly every feature in common apart from screen size. But at times, Apple gives the Pro Max model a special advantage, and a new leak indi…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-eb646d65a3b4",
+      "title": "Microsoft is selling off four Xbox studios as part of significant gaming cuts",
+      "source": "The Verge",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-06",
+      "time": "13:47",
+      "publishedAt": "2026-07-06T13:47:55.000Z",
+      "url": "https://www.theverge.com/news/961546/xbox-layoffs-studio-sales-2026",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2279118333.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "summary": "Microsoft is laying off 4,800 employees today, and more than 30 percent of the job losses are in the company's Xbox division. The significant gaming cuts will affect nearly every…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-d6f1d6794c2a",
+      "title": "iQOO Z11 series phone officially teased, here’s what to expect",
+      "source": "Gizmochina",
+      "brand": "vivo",
+      "model": "vivo 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-06",
+      "time": "13:36",
+      "publishedAt": "2026-07-06T13:36:42.000Z",
+      "url": "https://www.gizmochina.com/2026/07/06/iqoo-z11-india-officially-teased/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/07/iQOO-Z11-teaser-240x300.jpg?x44794",
+      "summary": "While iQOO has launched multiple Z11-series phones in China, the Indian market has only received a single device dubbed the iQOO Z11x. Now, the brand has officially started teasin…",
+      "tags": [
+        "vivo",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-178af92e2f55",
+      "title": "Apple radio chips switch likely to take five more years, suggests Broadcom deal",
+      "source": "9to5Mac",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-06",
+      "time": "13:25",
+      "publishedAt": "2026-07-06T13:25:26.000Z",
+      "url": "https://9to5mac.com/2026/07/06/apple-radio-chips-switch-likely-to-take-five-more-years-suggests-broadcom-deal/",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/03/c2-02.jpeg?quality=82&strip=all&w=1600",
+      "summary": "The next generation of Apple radio chips is expected to debut in the iPhone 18 Pro and iPhone Ultra , but a new deal suggests the company doesn’t expect to complete a switch to it…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-b0c2a2945f38",
+      "title": "iQOO 16 India launch could be skipped because of this reason",
+      "source": "Gizmochina",
+      "brand": "vivo",
+      "model": "vivo 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-06",
+      "time": "12:57",
+      "publishedAt": "2026-07-06T12:57:01.000Z",
+      "url": "https://www.gizmochina.com/2026/07/06/iqoo-16-india-launch-could-be-skipped-because-of-this-reason/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2025/12/iQOO-15-halo-300x225.jpg?x44794",
+      "summary": "The rumor mill has been actively leaking details about the iQOO 16, which is expected to break cover in October this year in China. iQOO usually follows a pattern of first announc…",
+      "tags": [
+        "vivo",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-54f98dc4f46f",
+      "title": "iPhone 18 Pro Battery Capacities Revealed by Regulatory Filings",
+      "source": "MacRumors",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-06",
+      "time": "12:41",
+      "publishedAt": "2026-07-06T12:41:44.000Z",
+      "url": "https://www.macrumors.com/2026/07/06/iphone-18-pro-battery-capacities-revealed/",
+      "image": "https://images.macrumors.com/article-new/2026/04/iphone-17-pro-black-feature.jpg",
+      "summary": "New Chinese regulatory certification filings appear to confirm the battery capacities of Apple's upcoming iPhone 18 Pro and &zwnj;iPhone 18 Pro&zwnj; Max models. According to new…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-06a807845c50",
+      "title": "Leak suggests Samsung’s upcoming Galaxy S27 Pro faces a serious hardware identity crisis",
+      "source": "Android Authority",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-06",
+      "time": "12:15",
+      "publishedAt": "2026-07-06T12:15:57.000Z",
+      "url": "https://www.androidauthority.com/samsung-galaxy-s27-pro-exynos-snapdragon-split-leak-3684410/",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2026/04/Samsung-Galaxy-S26-vs-Ultra-3-scaled.jpg",
+      "summary": "The new model could promise Ultra-level specs without the S Pen, but a regional chip split may ruin the illusion.",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-44c0929c877f",
+      "title": "竹本青：？？？？ 【动态】【REDMI K90／Turbo 5系列...",
+      "source": "竹本青",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-07-06",
+      "time": "12:04",
+      "publishedAt": "2026-07-06T12:04:26.000Z",
+      "url": "https://www.coolapk.com/feed/72675160",
+      "image": "http://image.coolapk.com/feed/2026/0706/20/4248714_39ac6ed7_9465_4488_600@1272x3052.jpg",
+      "summary": "？？？？ 【动态】【REDMI K90／Turbo 5系列...",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-83d5c8b8a337",
+      "title": "Here’s how to turn any iPhone into a dumb phone for you or your kids",
+      "source": "9to5Mac",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-06",
+      "time": "11:49",
+      "publishedAt": "2026-07-06T11:49:48.000Z",
+      "url": "https://9to5mac.com/2026/07/06/heres-how-to-turn-any-iphone-into-a-dumb-phone-for-you-or-your-kids/",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/Heres-how-to-turn-any-iPhone-into-a-dumb-phone-for-you-or-your-kids.jpg?quality=82&strip=all&w=1600",
+      "summary": "One of the big challenges for parents these days is that you may want to give your kids access to a phone for emergencies or tracking before you are willing to give them access to…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-c0007cfc1e0d",
+      "title": "竹本青：【REDMI K90／Turbo 5系列 最新销量曝光：合计近553.4万，Turbo 5系列超200万】 RED…",
+      "source": "竹本青",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-07-06",
+      "time": "11:42",
+      "publishedAt": "2026-07-06T11:42:05.000Z",
+      "url": "https://www.coolapk.com/feed/72674898",
+      "image": "http://image.coolapk.com/feed/2026/0706/19/4248714_4e91b642_8124_0239_546@1440x718.jpg",
+      "summary": "【REDMI K90／Turbo 5系列 最新销量曝光：合计近553.4万，Turbo 5系列超200万】 REDMI K90 截至2026 W26 —— 约239.13万 截至2026 W25 —— 约232.97万 截至2026 W24 —— 约222.81万 截至2026 W23 —— 约215.05万 REDMI K90 Max 截至2026 W2…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-7e129c4cfe20",
+      "title": "Limited initial availability of the iPhone Ultra may be a feature, not a bug",
+      "source": "9to5Mac",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-06",
+      "time": "11:20",
+      "publishedAt": "2026-07-06T11:20:23.000Z",
+      "url": "https://9to5mac.com/2026/07/06/limited-initial-availability-of-the-iphone-ultra-may-be-a-feature-not-a-bug/",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/iphone-fold-ultra-ios-27-leak.jpg?quality=82&strip=all&w=1600",
+      "summary": "After conflicting reports about when the iPhone Ultra would launch, there’s now a clear consensus that it will be announced in September alongside the iPhone 18 Pro. It does, howe…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-5596ba5c9d4e",
       "title": "Pura 90 Pro Max to be the first global 5G Huawei phone in a while",
@@ -182,46 +462,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-72d8cca04462",
-      "title": "消息称某厂 Ultra 迭代旗舰机评估 200Mp 主摄、微云台结构，预计为 OPPO Find X10 Ultra",
-      "source": "IT之家",
-      "brand": "OPPO",
-      "model": "OPPO 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-06",
-      "time": "07:51",
-      "publishedAt": "2026-07-06T07:51:55.000Z",
-      "url": "https://www.ithome.com/0/973/131.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/7/3d6441bb-9487-421f-b232-98efbd4abfd4.png?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 7 月 6 日消息，博主 @数码闲聊站 今日发布某厂 Ultra 迭代旗舰机超前瞻爆料，预计为 OPPO Find X10 Ultra。 据其爆料，这款旗舰新机的影像除了主摄评估 200Mp 1/1.12\" LOFIC Sensor，镜组同步评估 微云台结构 ，光学防抖角度更大。 在此之前，该博主还在 6 月爆料某厂旗舰迭代机搭载 6.89 英寸…",
-      "tags": [
-        "OPPO",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-45213c04b410",
-      "title": "消息称小米完成关键人事任命：原深圳区域总部总经理葛维严接掌手机相机部",
-      "source": "IT之家",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-06",
-      "time": "07:46",
-      "publishedAt": "2026-07-06T07:46:42.000Z",
-      "url": "https://www.ithome.com/0/973/126.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/7/51b63104-d9f3-4ee3-bc93-3b4bbd9e5a07.png?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 7 月 6 日消息，据蓝鲸新闻今日援引知情人士消息，小米集团手机部近期完成一项关键人事任命：原小米深圳区域总经理葛维严已正式接掌手机相机部， 出任总经理一职 。 据知情人士透露，该任命已在内部传达，属正常轮岗调整。 葛维严后续将向手机部副总裁 、 硬件工程部总经理许春利汇报 ，后者长期负责小米终端硬件研发，曾主导 MIX Fold 2 折叠屏手机…",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-fe85fbd2e05e",
       "title": "Galaxy S27 Ultra reportedly being tested with 5,600mAh and 5,800mAh batteries",
       "source": "Gizmochina",
@@ -237,26 +477,6 @@ window.phoneRadarAuto = {
       "summary": "Battery life has become one of the biggest battlegrounds for smartphones. For years, Samsung has been fairly conservative with the battery in its Galaxy S Ultra models, and many f…",
       "tags": [
         "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-a49ce1171236",
-      "title": "预防电信诈骗：韩国实施手机入网新规，进行人脸识别等多重身份核验",
-      "source": "IT之家",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-06",
-      "time": "07:42",
-      "publishedAt": "2026-07-06T07:42:37.000Z",
-      "url": "https://www.ithome.com/0/973/120.htm",
-      "image": "",
-      "summary": "IT之家 7 月 6 日消息，据韩联社报道，韩国今日起升级手机入网身份核验方式。今后新办理入网或携号转网业务时， 用户无法仅凭身份证完成办理，须进行人脸识别等多重身份核验 。 据韩国科学技术信息通信部消息，韩国三大移动通信运营商及虚拟运营商即日起在所有线上、线下办理渠道正式启用升级版身份核验机制，取代以往仅核验身份证的方式。 根据新规，新办入网和携号转网的…",
-      "tags": [
-        "行业",
         "爆料",
         "自动抓取"
       ]
@@ -482,86 +702,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "coolapk-user-d32c6910495b",
-      "title": "竹本青：万茜成为华为天生会画品牌大使",
-      "source": "竹本青",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-07-06",
-      "time": "04:04",
-      "publishedAt": "2026-07-06T04:04:30.000Z",
-      "url": "https://www.coolapk.com/feed/72669254",
-      "image": "http://image.coolapk.com/feed/2026/0706/12/4248714_89ef1857_0669_8513_704@1667x2500.jpg",
-      "summary": "【万茜成为华为天生会画品牌大使】 7月6日，华为终端官方宣布，演员万茜正式成为华为天生会画品牌大使。 此前，万茜曾以华为天生会画体验官身份，参与多项活动，此次升级为品牌大使，标志着双方合作进一步深化。 #鸿蒙6# #今日热点# #鸿蒙7#",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
-      "id": "coolapk-user-952942181eb7",
-      "title": "竹本青：小米人事调整：葛维严出任手机相机部总经理",
-      "source": "竹本青",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-07-06",
-      "time": "03:50",
-      "publishedAt": "2026-07-06T03:50:30.000Z",
-      "url": "https://www.coolapk.com/feed/72669089",
-      "image": "http://image.coolapk.com/feed/2026/0706/11/4248714_ae5d8a9c_9829_082_647@2277x1280.jpg",
-      "summary": "【小米人事调整：葛维严出任手机相机部总经理】 7月6日，据蓝鲸科技报道，小米集团手机部近期完成一项关键人事任命：原小米深圳区域总经理葛维严已正式接掌手机相机部，出任总经理一职。 据知情人士透露，该任命已在内部传达，属于正常轮岗调整，葛维严后续将向手机部副总裁、硬件工程部总经理许春利汇报——后者长期坐镇终端硬件研发，曾主导小米MIX Fold 2的机构设计及…",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
-      "id": "coolapk-user-7474bf2eeeb6",
-      "title": "竹本青：曝华为下半年发布全新三折叠+大折叠",
-      "source": "竹本青",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-07-06",
-      "time": "02:52",
-      "publishedAt": "2026-07-06T02:52:23.000Z",
-      "url": "https://www.coolapk.com/feed/72668366",
-      "image": "http://image.coolapk.com/feed/2026/0706/10/4248714_4e11d534_6342_8972_485@1438x429.jpg",
-      "summary": "【曝华为下半年发布全新三折叠+大折叠：N代旗舰芯，万元超高端】 ● 三折叠：形态再创新，N代旗舰芯系列 ● 大折叠：8.15\"+6.5\"±，N代旗舰芯系列 最高1/1.3\"超大底+潜望镜+小型化镜组 电池设定6开头 #今日热点# #鸿蒙6# #华为MateX7#",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
-      "id": "coolapk-user-70e11dcf1280",
-      "title": "竹本青：时隔一年，王乔微博更新了 #OriginOS6# #vivox200ultra#",
-      "source": "竹本青",
-      "brand": "vivo",
-      "model": "vivo 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-07-06",
-      "time": "02:46",
-      "publishedAt": "2026-07-06T02:46:00.000Z",
-      "url": "https://www.coolapk.com/feed/72668265",
-      "image": "http://image.coolapk.com/feed/2026/0706/10/4248714_c31268f4_5959_021_33@1438x1720.jpg",
-      "summary": "时隔一年，王乔微博更新了 #OriginOS6# #vivox200ultra#",
-      "tags": [
-        "vivo",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
       "id": "auto-0ed00dbbf5be",
       "title": "Xiaomi 18 Pro Max leak reconfirms 2nm chip, dual 200MP cameras, and larger battery",
       "source": "Gizmochina",
@@ -599,6 +739,46 @@ window.phoneRadarAuto = {
         "iPhone",
         "官方",
         "自动抓取"
+      ]
+    },
+    {
+      "id": "newsnow-12f0c7929e2c",
+      "title": "iOS 剪贴板管理工具 Procut：换个方式收藏碎片化信息",
+      "source": "少数派热榜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-07-06",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://sspai.com/post/110950",
+      "image": "",
+      "summary": "iOS 剪贴板管理工具 Procut：换个方式收藏碎片化信息",
+      "tags": [
+        "iPhone",
+        "评测",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-a8c24a824a49",
+      "title": "小米 18 Pro Max 核心参数曝光：防窥直屏／双2亿影像",
+      "source": "酷安热榜",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-07-06",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/72667213",
+      "image": "",
+      "summary": "小米 18 Pro Max 核心参数曝光：防窥直屏／双2亿影像",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "NewsNow"
       ]
     },
     {
@@ -662,81 +842,21 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-a8c24a824a49",
-      "title": "小米 18 Pro Max 核心参数曝光：防窥直屏／双2亿影像",
+      "id": "newsnow-526be5b71f49",
+      "title": "家人们，因为我换手机了，所以我就把oppo手机薅羊毛焚诀给你们[t耐克嘴]",
       "source": "酷安热榜",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-07-06",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72667213",
+      "url": "https://www.coolapk.com/feed/72661828",
       "image": "",
-      "summary": "小米 18 Pro Max 核心参数曝光：防窥直屏／双2亿影像",
+      "summary": "家人们，因为我换手机了，所以我就把oppo手机薅羊毛焚诀给你们[t耐克嘴]",
       "tags": [
-        "Xiaomi",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-0ff58853e66a",
-      "title": "曝 iPhone 18 Pro 1TB / 2TB 版本采用 QLC 闪存颗粒",
-      "source": "酷安热榜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-07-06",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72648889",
-      "image": "",
-      "summary": "曝 iPhone 18 Pro 1TB / 2TB 版本采用 QLC 闪存颗粒",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-c41d3e70074c",
-      "title": "曝华为Mate90正在芯片装测",
-      "source": "微博热搜",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "待验证",
-      "date": "2026-07-06",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://s.weibo.com/weibo?q=%23%E6%9B%9D%E5%8D%8E%E4%B8%BAMate90%E6%AD%A3%E5%9C%A8%E8%8A%AF%E7%89%87%E8%A3%85%E6%B5%8B%23&t=31&band_rank=10&Refer=top",
-      "image": "",
-      "summary": "曝华为Mate90正在芯片装测",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-4c2e9c97d072",
-      "title": "揭秘iPhone18被开源过程",
-      "source": "B站热搜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-06",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://search.bilibili.com/all?keyword=%E6%8F%AD%E7%A7%98iPhone18%E8%A2%AB%E5%BC%80%E6%BA%90%E8%BF%87%E7%A8%8B",
-      "image": "",
-      "summary": "揭秘iPhone18被开源过程",
-      "tags": [
-        "iPhone",
+        "OPPO",
         "爆料",
         "NewsNow"
       ]

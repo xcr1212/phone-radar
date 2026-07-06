@@ -1,12 +1,12 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-07-06T11:01:52.137Z",
+  "updatedAt": "2026-07-06T15:54:01.524Z",
   "issueDate": "2026-07-06",
   "issue": "VOL.260706",
   "title": "手机情报日报",
-  "intro": "今日筛出 13 条重点，其中 8 条是重点爆料，包含 4 条 iPhone 相关、0 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 16 条重点，其中 8 条是重点爆料，包含 5 条 iPhone 相关、0 条官方确认、0 条参数线索。",
   "stats": {
-    "total": 13,
-    "iphone": 4,
+    "total": 16,
+    "iphone": 5,
     "leaks": 8,
     "official": 0,
     "specs": 0
@@ -17,6 +17,52 @@ window.phoneRadarDaily = {
       "title": "重点爆料",
       "hint": "机模、配色、影像、屏幕、电池和芯片线索先看。",
       "items": [
+        {
+          "id": "auto-fd7de85c323e",
+          "title": "iPhone 相关消息",
+          "originalTitle": "",
+          "source": "MacRumors",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-07-06",
+          "time": "14:17",
+          "publishedAt": "2026-07-06T14:17:54.000Z",
+          "url": "https://www.macrumors.com/2026/07/06/iphone-18-pro-vs-pro-max-rumors/",
+          "image": "https://images.macrumors.com/article-new/2026/07/iPhone-18-Pro-and-Pro-Max-Feature.jpg",
+          "verdict": "先看",
+          "takeaway": "iPhone 相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
+          "detail": "iPhone 相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
+          "keyPoints": [
+            "爆料来源"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "auto-54f98dc4f46f",
+          "title": "iPhone 18 Pro 电池 / 充电相关消息",
+          "originalTitle": "",
+          "source": "MacRumors",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-07-06",
+          "time": "12:41",
+          "publishedAt": "2026-07-06T12:41:44.000Z",
+          "url": "https://www.macrumors.com/2026/07/06/iphone-18-pro-battery-capacities-revealed/",
+          "image": "https://images.macrumors.com/article-new/2026/04/iphone-17-pro-black-feature.jpg",
+          "verdict": "先看",
+          "takeaway": "iPhone 18 Pro 电池 / 充电相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
+          "detail": "iPhone 18 Pro 电池 / 充电相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
+          "keyPoints": [
+            "电池 / 充电"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
         {
           "id": "auto-6b31fbb80669",
           "title": "iPhone 系统功能 / AI 体验相关消息",
@@ -41,23 +87,23 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
-          "id": "auto-15def25a53de",
-          "title": "iPhone 相关消息",
+          "id": "auto-1451b6938065",
+          "title": "消息称小米 REDMI Turbo 5 系列手机销量超 200 万台",
           "originalTitle": "",
-          "source": "MacRumors",
-          "brand": "iPhone",
+          "source": "IT之家",
+          "brand": "Xiaomi",
           "type": "爆料",
           "trust": "媒体汇总",
-          "date": "2026-07-05",
-          "time": "17:28",
-          "publishedAt": "2026-07-05T17:28:32.000Z",
-          "url": "https://www.macrumors.com/2026/07/05/foldable-iphone-to-repeat-iphone-x-story/",
-          "image": "https://images.macrumors.com/article-new/2022/09/iPhone-X-2022-Upload.jpg",
+          "date": "2026-07-06",
+          "time": "15:24",
+          "publishedAt": "2026-07-06T15:24:32.000Z",
+          "url": "https://www.ithome.com/0/973/301.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/7/276643a1-a563-4335-b06d-ca0261c1aa68.jpg?x-bce-process=image/format,f_auto",
           "verdict": "先看",
-          "takeaway": "iPhone 相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
-          "detail": "iPhone 相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
+          "takeaway": "IT之家 7 月 6 日消息，据长期关注国内手机市场份额的数码博主 @RD观测 爆料，截至 2026 年第 26 周（6.22-6.28）， REDMI Turbo 5 系列手机销量 （Sold Out） 超 200 万台 （约 200.42 万）。 博主还公布了 REDMI K90 系列手机的销量： REDMI K90：约 239.13 万 REDMI…",
+          "detail": "IT之家 7 月 6 日消息，据长期关注国内手机市场份额的数码博主 @RD观测 爆料，截至 2026 年第 26 周（6.22-6.28）， REDMI Turbo 5 系列手机销量 （Sold Out） 超 200 万台 （约 200.42 万）。 博主还公布了 REDMI K90 系列手机的销量： REDMI K90：约 239.13 万 REDMI…",
           "keyPoints": [
-            "爆料"
+            "爆料来源"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
@@ -84,55 +130,6 @@ window.phoneRadarDaily = {
             "爆料来源"
           ],
           "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "auto-72d8cca04462",
-          "title": "消息称某厂 Ultra 迭代旗舰机评估 200Mp 主摄、微云台结构，预计为 OPPO Find X10 Ultra",
-          "originalTitle": "",
-          "source": "IT之家",
-          "brand": "OPPO",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-07-06",
-          "time": "07:51",
-          "publishedAt": "2026-07-06T07:51:55.000Z",
-          "url": "https://www.ithome.com/0/973/131.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/7/3d6441bb-9487-421f-b232-98efbd4abfd4.png?x-bce-process=image/format,f_auto",
-          "verdict": "先看",
-          "takeaway": "IT之家 7 月 6 日消息，博主 @数码闲聊站 今日发布某厂 Ultra 迭代旗舰机超前瞻爆料，预计为 OPPO Find X10 Ultra。 据其爆料，这款旗舰新机的影像除了主摄评估 200Mp 1/1.12\" LOFIC Sensor，镜组同步评估 微云台结构 ，光学防抖角度更大。 在此之前，该博主还在 6 月爆料某厂旗舰迭代机搭载 6.89 英寸…",
-          "detail": "IT之家 7 月 6 日消息，博主 @数码闲聊站 今日发布某厂 Ultra 迭代旗舰机超前瞻爆料，预计为 OPPO Find X10 Ultra。 据其爆料，这款旗舰新机的影像除了主摄评估 200Mp 1/1.12\" LOFIC Sensor，镜组同步评估 微云台结构 ，光学防抖角度更大。 在此之前，该博主还在 6 月爆料某厂旗舰迭代机搭载 6.89 英寸…",
-          "keyPoints": [
-            "影像硬件",
-            "爆料来源"
-          ],
-          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "auto-45213c04b410",
-          "title": "消息称小米完成关键人事任命：原深圳区域总部总经理葛维严接掌手机相机部",
-          "originalTitle": "",
-          "source": "IT之家",
-          "brand": "Xiaomi",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-07-06",
-          "time": "07:46",
-          "publishedAt": "2026-07-06T07:46:42.000Z",
-          "url": "https://www.ithome.com/0/973/126.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/7/51b63104-d9f3-4ee3-bc93-3b4bbd9e5a07.png?x-bce-process=image/format,f_auto",
-          "verdict": "先看",
-          "takeaway": "IT之家 7 月 6 日消息，据蓝鲸新闻今日援引知情人士消息，小米集团手机部近期完成一项关键人事任命：原小米深圳区域总经理葛维严已正式接掌手机相机部， 出任总经理一职 。 据知情人士透露，该任命已在内部传达，属正常轮岗调整。 葛维严后续将向手机部副总裁 、 硬件工程部总经理许春利汇报 ，后者长期负责小米终端硬件研发，曾主导 MIX Fold 2 折叠屏手机…",
-          "detail": "IT之家 7 月 6 日消息，据蓝鲸新闻今日援引知情人士消息，小米集团手机部近期完成一项关键人事任命：原小米深圳区域总经理葛维严已正式接掌手机相机部， 出任总经理一职 。 据知情人士透露，该任命已在内部传达，属正常轮岗调整。 葛维严后续将向手机部副总裁 、 硬件工程部总经理许春利汇报 ，后者长期负责小米终端硬件研发，曾主导 MIX Fold 2 折叠屏手机…",
-          "keyPoints": [
-            "影像硬件",
-            "屏幕形态",
-            "爆料来源"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
@@ -185,25 +182,25 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
-          "id": "auto-a49ce1171236",
-          "title": "预防电信诈骗：韩国实施手机入网新规，进行人脸识别等多重身份核验",
+          "id": "coolapk-user-838eb29c462b",
+          "title": "竹本青：【iQOO16 影像配置曝光，或为子系最佳】 ● 同档唯一 50Mp 1/1.3\"主摄 ● 同档唯一 50Mp 中…",
           "originalTitle": "",
-          "source": "IT之家",
-          "brand": "行业",
+          "source": "竹本青",
+          "brand": "vivo",
           "type": "爆料",
-          "trust": "媒体汇总",
+          "trust": "高可信爆料",
           "date": "2026-07-06",
-          "time": "07:42",
-          "publishedAt": "2026-07-06T07:42:37.000Z",
-          "url": "https://www.ithome.com/0/973/120.htm",
-          "image": "",
+          "time": "04:24",
+          "publishedAt": "2026-07-06T04:24:21.000Z",
+          "url": "https://www.coolapk.com/feed/72669514",
+          "image": "http://image.coolapk.com/feed/2026/0706/12/4248714_87b88ab8_1860_9332_407@1440x550.jpg",
           "verdict": "先看",
-          "takeaway": "IT之家 7 月 6 日消息，据韩联社报道，韩国今日起升级手机入网身份核验方式。今后新办理入网或携号转网业务时， 用户无法仅凭身份证完成办理，须进行人脸识别等多重身份核验 。 据韩国科学技术信息通信部消息，韩国三大移动通信运营商及虚拟运营商即日起在所有线上、线下办理渠道正式启用升级版身份核验机制，取代以往仅核验身份证的方式。 根据新规，新办入网和携号转网的…",
-          "detail": "IT之家 7 月 6 日消息，据韩联社报道，韩国今日起升级手机入网身份核验方式。今后新办理入网或携号转网业务时， 用户无法仅凭身份证完成办理，须进行人脸识别等多重身份核验 。 据韩国科学技术信息通信部消息，韩国三大移动通信运营商及虚拟运营商即日起在所有线上、线下办理渠道正式启用升级版身份核验机制，取代以往仅核验身份证的方式。 根据新规，新办入网和携号转网的…",
+          "takeaway": "【iQOO16 影像配置曝光，或为子系最佳】 ● 同档唯一 50Mp 1/1.3\"主摄 ● 同档唯一 50Mp 中底潜望镜 ● 同档唯二 50Mp 凑数超广角 ● vivo下放算法+风格化影调 #今日热点# #iQOO15# #OriginOS6#",
+          "detail": "【iQOO16 影像配置曝光，或为子系最佳】 ● 同档唯一 50Mp 1/1.3\"主摄 ● 同档唯一 50Mp 中底潜望镜 ● 同档唯二 50Mp 凑数超广角 ● vivo下放算法+风格化影调 #今日热点# #iQOO15# #OriginOS6#",
           "keyPoints": [
-            "爆料"
+            "影像硬件"
           ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "confidence": "可信度较高，但仍属于发布前线索。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         }
@@ -238,26 +235,26 @@ window.phoneRadarDaily = {
           "action": "中文源可以直接点开快读；看完只保留和购机有关的点。"
         },
         {
-          "id": "newsnow-0ff58853e66a",
-          "title": "曝 iPhone 18 Pro 1TB / 2TB 版本采用 QLC 闪存颗粒",
+          "id": "newsnow-12f0c7929e2c",
+          "title": "iOS 剪贴板管理工具 Procut：换个方式收藏碎片化信息",
           "originalTitle": "",
-          "source": "酷安热榜",
+          "source": "少数派热榜",
           "brand": "iPhone",
-          "type": "爆料",
-          "trust": "高关注爆料源",
+          "type": "评测",
+          "trust": "媒体汇总",
           "date": "2026-07-06",
           "time": "",
           "publishedAt": "",
-          "url": "https://www.coolapk.com/feed/72648889",
+          "url": "https://sspai.com/post/110950",
           "image": "",
-          "verdict": "先看",
-          "takeaway": "曝 iPhone 18 Pro 1TB / 2TB 版本采用 QLC 闪存颗粒",
-          "detail": "曝 iPhone 18 Pro 1TB / 2TB 版本采用 QLC 闪存颗粒",
+          "verdict": "扫一眼",
+          "takeaway": "iOS 剪贴板管理工具 Procut：换个方式收藏碎片化信息",
+          "detail": "iOS 剪贴板管理工具 Procut：换个方式收藏碎片化信息",
           "keyPoints": [
-            "爆料"
+            "评测"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "impact": "这是实际体验内容，买前适合重点看缺点和取舍。",
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         }
       ]
@@ -314,6 +311,29 @@ window.phoneRadarDaily = {
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         },
         {
+          "id": "newsnow-526be5b71f49",
+          "title": "家人们，因为我换手机了，所以我就把oppo手机薅羊毛焚诀给你们[t耐克嘴]",
+          "originalTitle": "",
+          "source": "酷安热榜",
+          "brand": "OPPO",
+          "type": "爆料",
+          "trust": "高关注爆料源",
+          "date": "2026-07-06",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://www.coolapk.com/feed/72661828",
+          "image": "",
+          "verdict": "先看",
+          "takeaway": "家人们，因为我换手机了，所以我就把oppo手机薅羊毛焚诀给你们[t耐克嘴]",
+          "detail": "家人们，因为我换手机了，所以我就把oppo手机薅羊毛焚诀给你们[t耐克嘴]",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        },
+        {
           "id": "newsnow-98b4a4160968",
           "title": "REDMI K90 标准版、Note 15系列正式调价，涨幅200-300元",
           "originalTitle": "",
@@ -333,6 +353,52 @@ window.phoneRadarDaily = {
             "爆料"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        },
+        {
+          "id": "newsnow-9489926ad272",
+          "title": "兄弟们，买了一个17。然后配了一个这种类似于 pro 系列的手机壳，这个出去会被人说装吗？我看抖音走17改17pro 评论区全是说虚荣、装。。。。我这种壳算吗？大家觉得。。。",
+          "originalTitle": "",
+          "source": "酷安热榜",
+          "brand": "行业",
+          "type": "爆料",
+          "trust": "高关注爆料源",
+          "date": "2026-07-06",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://www.coolapk.com/feed/72662897",
+          "image": "",
+          "verdict": "扫一眼",
+          "takeaway": "兄弟们，买了一个17。然后配了一个这种类似于 pro 系列的手机壳，这个出去会被人说装吗？我看抖音走17改17pro 评论区全是说虚荣、装。。。。我这种壳算吗？大家觉得。。。",
+          "detail": "兄弟们，买了一个17。然后配了一个这种类似于 pro 系列的手机壳，这个出去会被人说装吗？我看抖音走17改17pro 评论区全是说虚荣、装。。。。我这种壳算吗？大家觉得。。。",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        },
+        {
+          "id": "coolapk-user-44c0929c877f",
+          "title": "竹本青：？？？？ 【动态】【REDMI K90／Turbo 5系列...",
+          "originalTitle": "",
+          "source": "竹本青",
+          "brand": "Xiaomi",
+          "type": "爆料",
+          "trust": "高可信爆料",
+          "date": "2026-07-06",
+          "time": "12:04",
+          "publishedAt": "2026-07-06T12:04:26.000Z",
+          "url": "https://www.coolapk.com/feed/72675160",
+          "image": "http://image.coolapk.com/feed/2026/0706/20/4248714_39ac6ed7_9465_4488_600@1272x3052.jpg",
+          "verdict": "扫一眼",
+          "takeaway": "？？？？ 【动态】【REDMI K90／Turbo 5系列...",
+          "detail": "？？？？ 【动态】【REDMI K90／Turbo 5系列...",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "可信度较高，但仍属于发布前线索。",
           "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         }
