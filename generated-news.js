@@ -1,6 +1,286 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-07-07T04:16:05.156Z",
+  "updatedAt": "2026-07-07T07:53:44.346Z",
   "news": [
+    {
+      "id": "coolapk-user-f7edb66e5134",
+      "title": "JSCHEN小小狐：『消息称华为阔直屏打样天马 / 万级大电池开模』 知名数码博主 数码闲聊站 发博表示，此前爆料的华为阔屏直板机，当…",
+      "source": "JSCHEN小小狐",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-07-07",
+      "time": "07:52",
+      "publishedAt": "2026-07-07T07:52:52.000Z",
+      "url": "https://www.coolapk.com/feed/72685591",
+      "image": "http://image.coolapk.com/feed/2026/0707/15/4702274_dfe67f01_0771_1171_658@1440x408.jpg",
+      "summary": "『消息称华为阔直屏打样天马 / 万级大电池开模』 知名数码博主 数码闲聊站 发博表示，此前爆料的华为阔屏直板机，当前打样显示屏来自天马。 据悉，该机已知信息如下： ◇ 6.39'' 屏幕，比例约 16:9 ◇ 麒麟 9 系处理器 ◇ 7000+mAh 电池 ◇ 超大底主摄 + 长焦 此外，他还表示华为已开模「万级大电池」，其具体容量数值将高于 10000m…",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-2363aadf6580",
+      "title": "华为 Pura 90s Pro Max 手机海外官宣：XMAGE 影像、100 倍变焦",
+      "source": "IT之家",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-07",
+      "time": "07:51",
+      "publishedAt": "2026-07-07T07:51:30.000Z",
+      "url": "https://www.ithome.com/0/973/605.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/7/09881cda-1b46-4531-9086-e02b7d8d06c0.jpg?x-bce-process=image/auto-orient,o_1",
+      "summary": "IT之家 7 月 7 日消息，华为官方已于昨日宣布，将于 7 月 14 日在马来西亚吉隆坡举行主题为“Now is Your Moment”的旗舰产品发布会， 届时将面向国际市场推出 Pura 90 系列手机 。 IT之家注意到华为官方放出了一段宣传视频，预热了即将在海外发布的新机。 画面展示了一张由 Pura 90s Pro Max 拍摄的样张 ，并附上…",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-3f7abafc2567",
+      "title": "竹本青：【荣耀X80 Pro Max 首销战报：连续十日安卓手机销量第一】 荣耀手机今天官宣，X80 Pro Max 连续…",
+      "source": "竹本青",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-07-07",
+      "time": "07:47",
+      "publishedAt": "2026-07-07T07:47:55.000Z",
+      "url": "https://www.coolapk.com/feed/72685539",
+      "image": "http://image.coolapk.com/feed/2026/0707/15/4248714_d29d4735_0473_6355_897@1440x2562.jpg",
+      "summary": "【荣耀X80 Pro Max 首销战报：连续十日安卓手机销量第一】 荣耀手机今天官宣，X80 Pro Max 连续十日获得安卓手机销量第一。 数据来源：荣耀大数据分析平台、腾讯数据 数据时间：2026年6月26日-2026年7月6日 #今日热点# #荣耀X80ProMax#",
+      "tags": [
+        "HONOR",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-84faf302f2e0",
+      "title": "Honor wide foldable may take on Pura X Max in camera and battery",
+      "source": "Huawei Central",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-07",
+      "time": "07:37",
+      "publishedAt": "2026-07-07T07:37:33.000Z",
+      "url": "https://www.huaweicentral.com/honor-wide-foldable-camera-battery-details/",
+      "image": "https://www.huaweicentral.com/wp-content/uploads/2026/07/Honorwidefoldable-leak.jpg",
+      "summary": "Honor is in the news headlines for working on a wide foldable phone and the latest leak on this topic has revealed the screen, camera, and battery details of the device. Perhaps t…",
+      "tags": [
+        "HONOR",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-7fb691d22839",
+      "title": "iQOO Z11 Lite 手机曝光，预计为 vivo Y6t“套娃机型”",
+      "source": "IT之家",
+      "brand": "vivo",
+      "model": "vivo 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-07",
+      "time": "07:03",
+      "publishedAt": "2026-07-07T07:03:11.000Z",
+      "url": "https://www.ithome.com/0/973/564.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/7/dd165302-cbb9-4740-a0f5-23ee4f106a0a.jpg?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 7 月 7 日消息，iQOO 印度官方账号在 X 平台发文，展示了一款面向印度市场的 iQOO Z11 Lite 手机。 虽然其并未透露该机具体规格参数，不过IT之家注意到，该机外形酷似 vivo 今年 4 月推出的 Y6t 手机，该机在国内市场 6GB RAM + 128GB 存储空间版本定价 1399 元、6GB RAM + 256GB 存储…",
+      "tags": [
+        "vivo",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-33cb8635a618",
+      "title": "曝某厂子系 7 英寸 2K 直屏 + 天玑 9 芯片新机暂定 1 月前后登场，预计是小米 REDMI Turbo 6 Max",
+      "source": "IT之家",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-07",
+      "time": "07:00",
+      "publishedAt": "2026-07-07T07:00:21.000Z",
+      "url": "https://www.ithome.com/0/973/556.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/7/928900fe-f8bd-43f2-a30b-d2e0a292e62b.png",
+      "summary": "IT之家 7 月 7 日消息，博主 @数码闲聊站 今日发文透露，某厂子系 7 英寸 2K 直屏 + 天玑 9 芯片 + 万级大电池的性能机， 排期暂定 1 月前后登场 。博主并未明说具体机型，但结合暗示符号来看，新机归属小米 REDMI 品牌。 参考评论网友讨论来看，这款手机预计属于 REDMI Turbo 系列， 有望为 Turbo 6 Max 。 参考…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-436aac407a0c",
+      "title": "竹本青：苹果 iPhone Air2 或搭载3500mAh电池",
+      "source": "竹本青",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-07-07",
+      "time": "06:57",
+      "publishedAt": "2026-07-07T06:57:05.000Z",
+      "url": "https://www.coolapk.com/feed/72684888",
+      "image": "http://image.coolapk.com/feed/2026/0707/14/4248714_3f98da72_7424_1578_571@1440x441.jpg",
+      "summary": "【iPhone Air2 或搭载3500mAh电池，将于明年Q1发布】 ● 6.55\"1.5K 120Hz LTPO 灵动岛屏 ● 预测3500mAh±电池 ● 2nm A20系列芯片 ● 48Mp主摄／超广角双摄 ● 3D人脸识别｜ID变化不大 据该博主此前爆料，Air2 排期2027年第1季度，Air3 则尚未开模。 #今日热点# #iPhoneAir…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-686cfaa22cac",
+      "title": "三星 Galaxy F70 Pro 手机曝光：6.7 英寸 FHD+ 120Hz 面板、搭骁龙 6 Gen 3 处理器",
+      "source": "IT之家",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-07",
+      "time": "06:37",
+      "publishedAt": "2026-07-07T06:37:02.000Z",
+      "url": "https://www.ithome.com/0/973/519.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/7/d387fc9c-6152-43a6-a374-c7934b4f0a4d.jpg?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 7 月 7 日消息，消息源 Mohammed Khatri 发文，透露三星旗下一款 Galaxy F70 Pro 手机已现身蓝牙技术联盟（Bluetooth SIG）网站，这意味着该机即将在近期上市。 消息源同时透露，该机本质上是三星 Galaxy M47 的“套娃机型”，其有望配备一块 6.7 英寸 FHD+ 120Hz Super AMOLE…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-8ccc07c127fb",
+      "title": "Redmi Turbo 6 Max tipped to feature 7-inch 2K display, new Dimensity 9-series chip",
+      "source": "Gizmochina",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-07",
+      "time": "06:31",
+      "publishedAt": "2026-07-07T06:31:25.000Z",
+      "url": "https://www.gizmochina.com/2026/07/07/redmi-turbo-6-max-launch-timeframe-key-specs-leak/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/02/Redmi-Turbo-5-Max-300x188.png?x44794",
+      "summary": "Redmi is working on a couple of new smartphones for the Chinese market. Apart from this month’s Note 17 series launch, the brand is reportedly preparing to unveil the Redmi K100 s…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-58f69b82bc41",
+      "title": "消息称苹果 iPhone Air 2 搭 3500mAh 电池，配 6.55 英寸 120Hz 灵动岛屏幕",
+      "source": "IT之家",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-07",
+      "time": "06:29",
+      "publishedAt": "2026-07-07T06:29:30.000Z",
+      "url": "https://www.ithome.com/0/973/513.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/7/aa8e0889-30b7-47ba-b967-d3546a4ea5f0.jpg?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 7 月 7 日消息，博主 @数码闲聊站发文，透露苹果 iPhone Air 2 或许是明年唯一超轻薄旗舰，该机有望搭载 2nm 工艺 A20 系列芯片，匹配 6.55 英寸 120Hz 灵动岛屏幕，搭 48Mp 主摄 / 超广角双镜头，供应链预测电池容量为 3500mAh±。 苹果现款 iPhone Air 初代于 2025 年 10 月正式发售…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-69bbe64c6742",
+      "title": "苹果 iPhone 18 Pro 逻辑板曝光：A20 Pro 芯片、LPDDR6 内存等",
+      "source": "IT之家",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-07",
+      "time": "06:10",
+      "publishedAt": "2026-07-07T06:10:55.000Z",
+      "url": "https://www.ithome.com/0/973/508.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/7/2a991894-24b9-445b-996f-7134cdf51d12.png?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 7 月 7 日消息，消息源 @TECHINFOSOCIALS 今天（7 月 7 日）在 X 平台发布推文，分享了 3 张图片， 展示了苹果 iPhone 18 Pro 系列的高分辨率主板图片，进一步呈现 A20 Pro 芯片细节。 相比较 6 月曝光的封装、NPU 等细节 ，本次曝光更清晰呈现 iPhone 18 Pro 和 iPhone 18…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-640ea093362f",
+      "title": "iQOO Z11 Lite design revealed ahead of launch",
+      "source": "Gizmochina",
+      "brand": "vivo",
+      "model": "vivo 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-07",
+      "time": "05:58",
+      "publishedAt": "2026-07-07T05:58:39.000Z",
+      "url": "https://www.gizmochina.com/2026/07/07/iqoo-z11-lite-teaser-released/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/07/image-29-300x212.png?x44794",
+      "summary": "Yesterday, iQOO India chief Nipun Maurya rolled out the first teaser of an upcoming Z-series phone. Today, he is back with a new X post to reveal that the upcoming device will be…",
+      "tags": [
+        "vivo",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-6f2bb898b533",
+      "title": "The first 5 things to buy if you just got a Xiaomi 17T or 17T Pro",
+      "source": "Gizmochina",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-07",
+      "time": "04:40",
+      "publishedAt": "2026-07-07T04:40:18.000Z",
+      "url": "https://www.gizmochina.com/2026/07/07/best-accessories-xiaomi-17t-17t-pro-case-charger-screen-protector/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/05/Xiaomi-17T-and-17T-Pro-300x200.png?x44794",
+      "summary": "Xiaomi unveiled its new 17T series globally in May. Like previous T-series phones, the Xiaomi 17T and 17T Pro are meant to bridge the gap between flagship killers and ultra-premiu…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-2af3652ec235",
+      "title": "竹本青：REDMI Turbo6系列被曝明年1月发布：万级大电池",
+      "source": "竹本青",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-07-07",
+      "time": "04:30",
+      "publishedAt": "2026-07-07T04:30:15.000Z",
+      "url": "https://www.coolapk.com/feed/72683197",
+      "image": "http://image.coolapk.com/feed/2026/0707/12/4248714_745a2ead_8614_0841_26@1272x335.jpg",
+      "summary": "【小米首款万级大电池：REDMI Turbo6系列 被曝明年1月发布】 7月7日，数码闲聊站今日爆料，子系7英寸2K直屏+天玑9芯片+万级大电池的性能机，排期暂定2027年1月前后登场。 根据该博主爆料习惯与“~”符号，推测为REDMI Turbo6系列。 #REDMITurbo5Max# #HyperOS3#",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "酷安博主"
+      ]
+    },
     {
       "id": "auto-fd73d852881b",
       "title": "微星首家完成长鑫 DDR5 内存 AMD 平台深度适配，频率率先突破 DDR5-8000",
@@ -53,7 +333,7 @@ window.phoneRadarAuto = {
       "time": "04:08",
       "publishedAt": "2026-07-07T04:08:11.000Z",
       "url": "https://www.gizmochina.com/2026/07/07/alleged-vivo-x500-iqoo-16-radio-certified/",
-      "image": "https://www.gizmochina.com/wp-content/uploads/2026/07/Vivo-V2606A-radio-certified.png?x44794",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/06/Vivo-X300-300x225.jpg?x44794",
       "summary": "Vivo is expected to unveil the Vivo X500 series of flagship phones in September this year. Therefore, with just a few months remaining before the launch, the X500 series models ar…",
       "tags": [
         "vivo",
@@ -99,106 +379,6 @@ window.phoneRadarAuto = {
         "HONOR",
         "爆料",
         "酷安博主"
-      ]
-    },
-    {
-      "id": "auto-c720c7b5a2f1",
-      "title": "荣耀布局自研 Android 手机输入法，目前正招募“开发专家”",
-      "source": "IT之家",
-      "brand": "HONOR",
-      "model": "HONOR 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-07",
-      "time": "02:35",
-      "publishedAt": "2026-07-07T02:35:59.000Z",
-      "url": "https://www.ithome.com/0/973/394.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/7/21379b9e-f910-4675-9234-b2a133a5c01a.jpg?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 7 月 7 日消息，荣耀官网 7 月 6 日更新的一则招聘信息显示，荣耀终端有限公司正在招募“输入法 Android 开发专家”。 该岗位的职责描述表明，荣耀计划从底层开始构建一套完全自研的输入法系统，涵盖端侧 UX 交互框架、输入引擎（含语音、键盘、手写）、个人化词库的端云同步，以及时延与功耗优化等多个核心模块。 在任职要求方面，荣耀特别强调应…",
-      "tags": [
-        "HONOR",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "coolapk-user-705f48269f19",
-      "title": "竹本青：【任天堂 Switch2 可换电池版 今夏起在欧洲逐步上市：功能、性能与原版无差异】 欧洲任天堂昨日发布声明，确认…",
-      "source": "竹本青",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-07-07",
-      "time": "01:52",
-      "publishedAt": "2026-07-07T01:52:27.000Z",
-      "url": "https://www.coolapk.com/feed/72681306",
-      "image": "http://image.coolapk.com/feed/2026/0707/09/4248714_9c1adfbc_9145_7812_818@979x1348.jpg",
-      "summary": "【任天堂 Switch2 可换电池版 今夏起在欧洲逐步上市：功能、性能与原版无差异】 欧洲任天堂昨日发布声明，确认在当地推出可更换电池的新款Switch2： 自2026年夏季开始，为迎接将于2027年2月中旬生效的欧洲新电池法规，部分任天堂产品（注：包含Switch2主机、Joy-Con2手柄等）将逐步替代为可更换电池的改良版。现有原版机型与这款可换电池新…",
-      "tags": [
-        "行业",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
-      "id": "auto-4ac794732f77",
-      "title": "曝尼康 DL 紧凑型数码相机有望复活，配 1 英寸传感器和变焦镜头",
-      "source": "IT之家",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-07",
-      "time": "01:50",
-      "publishedAt": "2026-07-07T01:50:17.000Z",
-      "url": "https://www.ithome.com/0/973/361.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/7/c7a4de83-f4bc-4267-9c00-07d455bb508c.png?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 7 月 7 日消息，NikonRumors 上周末爆料称， 尼康可能会复活被取消的 DL 紧凑型数码相机 。相机机身设计和镜头规格可以与最初公布的 DL1 8-50 和 DL 24-85 非常相似，或者合并成一个稍厚的 24-70 版本。 爆料称新机的其他亮点包括： 堆栈式 2400 万像素 1 英寸传感器 支持尼康 Flexible Color…",
-      "tags": [
-        "行业",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-319ca4042f89",
-      "title": "大的要来了：蓝厂神秘新机入网，爆料为 vivo X500 或 iQOO 16",
-      "source": "IT之家",
-      "brand": "vivo",
-      "model": "vivo 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-07",
-      "time": "01:30",
-      "publishedAt": "2026-07-07T01:30:58.000Z",
-      "url": "https://www.ithome.com/0/973/351.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/7/697f10b3-40c1-4925-9cc5-2be4455ed4c0.png",
-      "summary": "IT之家 7 月 7 日消息，一款型号为 V2606A 的 vivo 新机于 7 月 1 日入网，博主 @数码闲聊站 爆料称： 蓝厂神秘新机入网，型号 V2606A，支持 N79 5G 频段，产品定位不低，推测属于旗舰迭代线， vivo X500 系列或者 iQOO16，大的要来了 该博主曾曝光某厂中杯工程机影像，预计为 vivo X500 标准版。 据爆…",
-      "tags": [
-        "vivo",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-ba0f78d8f91b",
-      "title": "即日起，安卓备份数据将占用谷歌账号存储空间",
-      "source": "IT之家",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-07",
-      "time": "00:15",
-      "publishedAt": "2026-07-07T00:15:20.000Z",
-      "url": "https://www.ithome.com/0/973/330.htm",
-      "image": "",
-      "summary": "IT之家 7 月 7 日消息，据外媒 Engadget 报道，自 7 月 7 日起，谷歌将调整账号存储空间的计算规则：安卓系统备份中的全部数据都会占用谷歌账号存储空间。 此前，只有 上传至 Google 相册的媒体文件、彩信中的照片和视频 会计入容量上限。新用户将立即适配新规，现有用户则会在未来几个月分批收到更新。 谷歌发言人回应称，系统备份可以把手机数据…",
-      "tags": [
-        "行业",
-        "爆料",
-        "自动抓取"
       ]
     },
     {
@@ -322,26 +502,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-786e1bf76e4d",
-      "title": "家人们，因为我换手机了，所以我就把oppo手机薅羊毛焚诀给你们[t耐克嘴]",
-      "source": "酷安热榜",
-      "brand": "OPPO",
-      "model": "OPPO 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-07-07",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72661828",
-      "image": "",
-      "summary": "家人们，因为我换手机了，所以我就把oppo手机薅羊毛焚诀给你们[t耐克嘴]",
-      "tags": [
-        "OPPO",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
       "id": "newsnow-6c1f855e53f4",
       "title": "这里没人认识，说说今年吧，也好久没打开这个手机了",
       "source": "酷安热榜",
@@ -362,21 +522,41 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-c5418758868f",
-      "title": "手机0-2k价位小米排名第一！",
+      "id": "newsnow-786e1bf76e4d",
+      "title": "家人们，因为我换手机了，所以我就把oppo手机薅羊毛焚诀给你们[t耐克嘴]",
       "source": "酷安热榜",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-07-07",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72668849",
+      "url": "https://www.coolapk.com/feed/72661828",
       "image": "",
-      "summary": "手机0-2k价位小米排名第一！",
+      "summary": "家人们，因为我换手机了，所以我就把oppo手机薅羊毛焚诀给你们[t耐克嘴]",
       "tags": [
-        "Xiaomi",
+        "OPPO",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-b7fdd1ff6a3e",
+      "title": "荣耀将自研手机输入法：已开始招聘",
+      "source": "酷安热榜",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-07-07",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/72682670",
+      "image": "",
+      "summary": "荣耀将自研手机输入法：已开始招聘",
+      "tags": [
+        "HONOR",
         "爆料",
         "NewsNow"
       ]
@@ -762,26 +942,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-ab3ec7f6452d",
-      "title": "Exynos or Snapdragon? Galaxy S27 Pro’s chipset may have leaked",
-      "source": "SamMobile",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-06",
-      "time": "09:25",
-      "publishedAt": "2026-07-06T09:25:13.000Z",
-      "url": "https://www.sammobile.com/news/galaxy-s27-pro-exynos-2700-snapdragon-chip-leak/",
-      "image": "",
-      "summary": "Samsung is expected to launch four Galaxy S27 series phones early next year. The Galaxy S27 Pro could be the newest addition to the lineup, and it is rumored to be a relatively co…",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-fe85fbd2e05e",
       "title": "Galaxy S27 Ultra reportedly being tested with 5,600mAh and 5,800mAh batteries",
       "source": "Gizmochina",
@@ -882,26 +1042,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-65106efaffe7",
-      "title": "Huawei Pura 90 series global launch scheduled for July 14",
-      "source": "Huawei Central",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-06",
-      "time": "06:13",
-      "publishedAt": "2026-07-06T06:13:50.000Z",
-      "url": "https://www.huaweicentral.com/huawei-pura-90-series-global-launch-scheduled-for-july-14/",
-      "image": "https://www.huaweicentral.com/wp-content/uploads/2026/07/Pura90-series.jpg",
-      "summary": "Huawei has finally announced the Pura 90 series global launch timeline set for July 14. It has been more than two months since the flagship debuted at its home ground. Now, the 20…",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-375023819d5f",
       "title": "Huawei announces Pura 90 series global launch for next week",
       "source": "Gizmochina",
@@ -915,26 +1055,6 @@ window.phoneRadarAuto = {
       "url": "https://www.gizmochina.com/2026/07/06/huawei-announces-pura-90-series-global-launch-for-next-week/",
       "image": "https://www.gizmochina.com/wp-content/uploads/2026/04/Huawei-Pura-90-Pro-Design-and-Colors-300x200.jpg?x44794",
       "summary": "Huawei has confirmed it will host a flagship launch event themed “Now is Your Moment” in Kuala Lumpur, Malaysia, on July 14. At the event, the company will introduce the Pura 90 s…",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-03dda435bd94",
-      "title": "Huawei could optimize three punch hole design for Mate 90",
-      "source": "Huawei Central",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-06",
-      "time": "05:43",
-      "publishedAt": "2026-07-06T05:43:31.000Z",
-      "url": "https://www.huaweicentral.com/huawei-could-optimize-three-punch-hole-design-for-mate-90/",
-      "image": "https://www.huaweicentral.com/wp-content/uploads/2026/07/Mate90-leak.jpg",
-      "summary": "Huawei has been using the “three-punch-hole” screen design in its top Mate smartphones for the past couple of years, but the Mate 90 series may adopt changes in this segment. A ne…",
       "tags": [
         "Huawei",
         "爆料",
