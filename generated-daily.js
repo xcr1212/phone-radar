@@ -1,5 +1,5 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-07-07T18:19:25.735Z",
+  "updatedAt": "2026-07-07T21:40:08.923Z",
   "issueDate": "2026-07-07",
   "issue": "VOL.260707",
   "title": "手机情报日报",
@@ -18,8 +18,8 @@ window.phoneRadarDaily = {
       "hint": "机模、配色、影像、屏幕、电池和芯片线索先看。",
       "items": [
         {
-          "id": "newsnow-ea0c32c9b2af",
-          "title": "苹果 iPhone Air2 或搭载3500mAh电池",
+          "id": "newsnow-eca6ac818104",
+          "title": "iPhone Air2电池3500mAh±，2nm A20系列芯片，6.55英寸120Hz灵动岛屏幕，48Mp主摄超广角双镜头，3D人脸识别，或许是明年唯一超轻薄旗舰，家人们心动吗？价格小涨 1000 如何？",
           "originalTitle": "",
           "source": "酷安热榜",
           "brand": "iPhone",
@@ -28,13 +28,16 @@ window.phoneRadarDaily = {
           "date": "2026-07-07",
           "time": "",
           "publishedAt": "",
-          "url": "https://www.coolapk.com/feed/72684888",
+          "url": "https://www.coolapk.com/feed/72685018",
           "image": "",
           "verdict": "先看",
-          "takeaway": "苹果 iPhone Air2 或搭载3500mAh电池",
-          "detail": "苹果 iPhone Air2 或搭载3500mAh电池",
+          "takeaway": "iPhone Air2电池3500mAh±，2nm A20系列芯片，6.55英寸120Hz灵动岛屏幕，48Mp主摄超广角双镜头，3D人脸识别，或许是明年唯一超轻薄旗舰，家人们心动吗？价格小涨 1000 如何？",
+          "detail": "iPhone Air2电池3500mAh±，2nm A20系列芯片，6.55英寸120Hz灵动岛屏幕，48Mp主摄超广角双镜头，3D人脸识别，或许是明年唯一超轻薄旗舰，家人们心动吗？价格小涨 1000 如何？",
           "keyPoints": [
-            "电池 / 充电"
+            "屏幕形态",
+            "电池 / 充电",
+            "芯片 / 性能",
+            "成本 / 价格"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",

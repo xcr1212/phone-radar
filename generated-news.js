@@ -1,6 +1,26 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-07-07T18:19:25.735Z",
+  "updatedAt": "2026-07-07T21:40:08.923Z",
   "news": [
+    {
+      "id": "auto-1edda7e779d3",
+      "title": "Google's Pixel 11 Event Set for August 12, a Month Before Apple Debuts Foldable iPhone",
+      "source": "MacRumors",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-07",
+      "time": "18:48",
+      "publishedAt": "2026-07-07T18:48:20.000Z",
+      "url": "https://www.macrumors.com/2026/07/07/google-pixel-11-event/",
+      "image": "",
+      "summary": "Google will introduce its latest Pixel smartphones at an August 12 event, debuting the updated devices about a month ahead of when Apple is expected to announce new iPhone models.…",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-ceb6c94c77e9",
       "title": "Google announces Pixel 11 launch event in August",
@@ -882,6 +902,26 @@ window.phoneRadarAuto = {
       ]
     },
     {
+      "id": "newsnow-bdfc5c5316da",
+      "title": "我记得酷友总结过一个图，要避开闲鱼的重灾区，重灾区有江西南昌这个地方吗？此人给的价格我还可以接受，要是不能卖这个地方的话，我在等等。 #一加15# #红米k90promax# #REDMIK90至尊版#",
+      "source": "酷安热榜",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-07-07",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/72687248",
+      "image": "",
+      "summary": "我记得酷友总结过一个图，要避开闲鱼的重灾区，重灾区有江西南昌这个地方吗？此人给的价格我还可以接受，要是不能卖这个地方的话，我在等等。 #一加15# #红米k90promax# #REDMIK90至尊版#",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
       "id": "newsnow-6eb312d1a8e6",
       "title": "#SmartisanOS# #手机美化# #锤子桌面#",
       "source": "酷安热榜",
@@ -922,6 +962,46 @@ window.phoneRadarAuto = {
       ]
     },
     {
+      "id": "newsnow-eca6ac818104",
+      "title": "iPhone Air2电池3500mAh±，2nm A20系列芯片，6.55英寸120Hz灵动岛屏幕，48Mp主摄超广角双镜头，3D人脸识别，或许是明年唯一超轻薄旗舰，家人们心动吗？价格小涨 1000 如何？",
+      "source": "酷安热榜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-07-07",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/72685018",
+      "image": "",
+      "summary": "iPhone Air2电池3500mAh±，2nm A20系列芯片，6.55英寸120Hz灵动岛屏幕，48Mp主摄超广角双镜头，3D人脸识别，或许是明年唯一超轻薄旗舰，家人们心动吗？价格小涨 1000 如何？",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-e48c58f91068",
+      "title": "朋友们，这个系统有点陌生。我在双击电源键刷NFC交通卡的时候，它真的不能顺便一起把NFC打开吗？还要我手动打开一遍。相比之下，我的旧手机colorOS13就可以双击直接刷卡，非常丝滑。求教。 #HyperOS3# #ColorOS13# #小米15Ultra#",
+      "source": "酷安热榜",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-07-07",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/72674856",
+      "image": "",
+      "summary": "朋友们，这个系统有点陌生。我在双击电源键刷NFC交通卡的时候，它真的不能顺便一起把NFC打开吗？还要我手动打开一遍。相比之下，我的旧手机colorOS13就可以双击直接刷卡，非常丝滑。求教。 #HyperOS3# #ColorOS13# #小米15Ultra#",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
       "id": "newsnow-6c1f855e53f4",
       "title": "这里没人认识，说说今年吧，也好久没打开这个手机了",
       "source": "酷安热榜",
@@ -937,46 +1017,6 @@ window.phoneRadarAuto = {
       "summary": "这里没人认识，说说今年吧，也好久没打开这个手机了",
       "tags": [
         "行业",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-786e1bf76e4d",
-      "title": "家人们，因为我换手机了，所以我就把oppo手机薅羊毛焚诀给你们[t耐克嘴]",
-      "source": "酷安热榜",
-      "brand": "OPPO",
-      "model": "OPPO 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-07-07",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72661828",
-      "image": "",
-      "summary": "家人们，因为我换手机了，所以我就把oppo手机薅羊毛焚诀给你们[t耐克嘴]",
-      "tags": [
-        "OPPO",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-ea0c32c9b2af",
-      "title": "苹果 iPhone Air2 或搭载3500mAh电池",
-      "source": "酷安热榜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-07-07",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72684888",
-      "image": "",
-      "summary": "苹果 iPhone Air2 或搭载3500mAh电池",
-      "tags": [
-        "iPhone",
         "爆料",
         "NewsNow"
       ]
@@ -1018,26 +1058,6 @@ window.phoneRadarAuto = {
       "tags": [
         "Pixel",
         "评测",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-06a639867a50",
-      "title": "iPhone 17 Pro Max Sealed in Time Capsule Until 2276",
-      "source": "MacRumors",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-06",
-      "time": "16:11",
-      "publishedAt": "2026-07-06T16:11:30.000Z",
-      "url": "https://www.macrumors.com/2026/07/06/iphone-17-pro-max-sealed-in-time-capsule/",
-      "image": "https://images.macrumors.com/article-new/2025/09/iPhone-17-Pro-Cosmic-Orange.jpg",
-      "summary": "An iPhone 17 Pro Max in Cosmic Orange has been sealed inside a 250 year time capsule as part of America's Semiquincentennial celebrations, with the device not due to be seen again…",
-      "tags": [
-        "iPhone",
-        "爆料",
         "自动抓取"
       ]
     },
@@ -1355,46 +1375,6 @@ window.phoneRadarAuto = {
       "url": "https://www.gizmochina.com/2026/07/06/redmi-note-17-note-17-pro-first-look-design-leak/",
       "image": "https://www.gizmochina.com/wp-content/uploads/2026/07/Redmi-Note-17-300x226.jpg?x44794",
       "summary": "Redmi is all set to announce the Redmi Note 17 series this month. Reports suggest that the lineup may include at least four models, such as the Redmi Note 17R, Note 17, Note 17 Pr…",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-b6178e06de85",
-      "title": "Upcoming iQOO Z-series Dimensity 7500 phone spotted on Geekbench",
-      "source": "Gizmochina",
-      "brand": "vivo",
-      "model": "vivo 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-06",
-      "time": "05:13",
-      "publishedAt": "2026-07-06T05:13:15.000Z",
-      "url": "https://www.gizmochina.com/2026/07/06/iqoo-z-series-dimensity-7500-geekbench-ai-listing/",
-      "image": "https://www.gizmochina.com/wp-content/uploads/2026/03/Screenshot-2026-03-27-014855-300x146.png?x44794",
-      "summary": "iQOO is reportedly working on a new Z-series phone called the iQOO Z11 Lite. The unannounced phone was spotted with model number I2510 and the Dimensity 6300 chip on Geekbench bac…",
-      "tags": [
-        "vivo",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-0ed00dbbf5be",
-      "title": "Xiaomi 18 Pro Max leak reconfirms 2nm chip, dual 200MP cameras, and larger battery",
-      "source": "Gizmochina",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-06",
-      "time": "02:21",
-      "publishedAt": "2026-07-06T02:21:46.000Z",
-      "url": "https://www.gizmochina.com/2026/07/06/xiaomi-18-pro-max-leak-reconfirms-2nm-chip-dual-200mp-cameras-and-larger-battery/",
-      "image": "https://www.gizmochina.com/wp-content/uploads/2025/09/Xiaomi-17-Pro-Max-Review_1.mp4_20250930_164941.855-300x150.jpg?x44794",
-      "summary": "Xiaomi‘s next big-screen flagship is once again in the spotlight, thanks to a fresh leak from well-known tipster Digital Chat Station (DCS) on Weibo. The post shares new details a…",
       "tags": [
         "Xiaomi",
         "爆料",
