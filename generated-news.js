@@ -1,5 +1,5 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-07-07T21:40:08.923Z",
+  "updatedAt": "2026-07-07T23:14:32.130Z",
   "news": [
     {
       "id": "auto-1edda7e779d3",
@@ -537,26 +537,6 @@ window.phoneRadarAuto = {
       "summary": "Motorola has started teasing a new smartphone for the Indian market, with a dedicated Flipkart microsite now live ahead of its official debut. While the company has not revealed t…",
       "tags": [
         "行业",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-82843701ed86",
-      "title": "Early Galaxy Z Fold 8 rival has battery and camera features Samsung needs to steal",
-      "source": "Android Police",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-07",
-      "time": "11:01",
-      "publishedAt": "2026-07-07T11:01:30.000Z",
-      "url": "https://www.androidpolice.com/samsung-galaxy-z-fold-8-rival-has-two-traits-id-love-samsung-to-steal/",
-      "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2026/07/vivo-x-fold-6-beside-a-samsung-galaxy-z-fold8.png",
-      "summary": "Long-lasting and long-reaching, please",
-      "tags": [
-        "Samsung",
         "爆料",
         "自动抓取"
       ]
