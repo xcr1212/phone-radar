@@ -1,24 +1,384 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-07-06T23:31:21.843Z",
+  "updatedAt": "2026-07-07T04:16:05.156Z",
   "news": [
     {
-      "id": "auto-eeff489393fc",
-      "title": "IT早报 0707：曝华为 Mate 90 或搭载基于韬定律的新麒麟芯片；小米 REDMI K90 上涨 200 元；金山办公回应 WPS 滥收费质疑；优必选回应仿生机器人续航争议...",
+      "id": "auto-fd73d852881b",
+      "title": "微星首家完成长鑫 DDR5 内存 AMD 平台深度适配，频率率先突破 DDR5-8000",
       "source": "IT之家",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-07",
+      "time": "04:10",
+      "publishedAt": "2026-07-07T04:10:53.000Z",
+      "url": "https://www.ithome.com/0/973/469.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/7/931185be-53ef-4d49-a353-9782e7a8f17c.png",
+      "summary": "IT之家 7 月 7 日消息，微星官方昨日宣布，其研发团队已率先完成对长鑫存储 DDR5 内存颗粒在 AMD 平台上的深度适配与调校，成功将国产内存颗粒在 AMD 平台上的稳定运行频率提升至 8000 至 8200 MT/s 区间。微星也成为首家公开完成此项验证，并同步向玩家 开放测试版 BIOS 的主板品牌。 过去，采用长鑫存储颗粒的 DDR5 内存在…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-d3347cc39e39",
+      "title": "Huawei Pura 90 series to debut globally as ‘Pura 90s’",
+      "source": "Huawei Central",
       "brand": "Huawei",
       "model": "Huawei 相关机型",
       "type": "爆料",
       "trust": "媒体汇总",
-      "date": "2026-07-06",
-      "time": "23:18",
-      "publishedAt": "2026-07-06T23:18:16.000Z",
-      "url": "https://www.ithome.com/0/973/320.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/7/9e455524-5f38-4bb7-9ddd-90109628fa7e.png?x-bce-process=image/format,f_auto",
-      "summary": "“IT早报”时间，大家好，现在是 2026 年 7 月 7 日星期二，今天的重要科技资讯有： 1、消息称华为 Mate 90 系列手机有望搭载基于韬定律的新麒麟芯片 据科创板日报从知情人士处获悉，将于今年秋季发布的华为 Mate 90 系列手机，计划搭载基于韬定律的新麒麟芯片。华为公司董事、半导体业务部总裁何庭波曾表示，将于今年秋季面世的麒麟手机芯片率先采…",
+      "date": "2026-07-07",
+      "time": "04:08",
+      "publishedAt": "2026-07-07T04:08:51.000Z",
+      "url": "https://www.huaweicentral.com/huawei-pura-90-series-to-debut-globally-as-pura-90s/",
+      "image": "https://www.huaweicentral.com/wp-content/uploads/2026/07/Pura-90s-series-leak.jpg",
+      "summary": "Huawei Pura 90 series is ready to step on the global stage, but there’s a catch with its name – it will likely launch globally as the Pura 90s lineup. A new leak suggests that the…",
       "tags": [
         "Huawei",
         "爆料",
         "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-7ee106199c6e",
+      "title": "Alleged Vivo X500, iQOO 16 bag first certification ahead of rumored September launch",
+      "source": "Gizmochina",
+      "brand": "vivo",
+      "model": "vivo 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-07",
+      "time": "04:08",
+      "publishedAt": "2026-07-07T04:08:11.000Z",
+      "url": "https://www.gizmochina.com/2026/07/07/alleged-vivo-x500-iqoo-16-radio-certified/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/07/Vivo-V2606A-radio-certified.png?x44794",
+      "summary": "Vivo is expected to unveil the Vivo X500 series of flagship phones in September this year. Therefore, with just a few months remaining before the launch, the X500 series models ar…",
+      "tags": [
+        "vivo",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-fb9dddffca7d",
+      "title": "竹本青：曝苹果折叠机由蓝思供应UTG盖板，富士康组装",
+      "source": "竹本青",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-07-07",
+      "time": "03:03",
+      "publishedAt": "2026-07-07T03:03:10.000Z",
+      "url": "https://www.coolapk.com/feed/72682161",
+      "image": "http://image.coolapk.com/feed/2026/0707/11/4248714_2882225d_3598_5814_880@1440x1190.jpg",
+      "summary": "【苹果首款折叠机量产在即：蓝思科技供应UTG盖板，富士康负责整机组装】 据蓝鲸科技报道，苹果首款折叠屏机的UTG超薄柔性玻璃盖板（折叠屏最外层防护盖板），将由蓝思科技（300433.SZ）供应。 除屏幕玻璃盖板外，记者还获悉，苹果首款折叠屏整机组装由富士康负责。同时，随着量产爬坡启动，富士康已全面进入投产筹备状态。 有厂区员工告诉记者，负责折叠屏 iPho…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "coolapk-user-c49b1a207dba",
+      "title": "竹本青：曝荣耀阔折叠电池设定7000mAh以上",
+      "source": "竹本青",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-07-07",
+      "time": "02:46",
+      "publishedAt": "2026-07-07T02:46:29.000Z",
+      "url": "https://www.coolapk.com/feed/72681926",
+      "image": "http://image.coolapk.com/feed/2026/0707/10/4248714_37ac6b41_2388_9099_712@1272x393.jpg",
+      "summary": "【目标同档最大，曝荣耀阔折叠电池设定7000mAh以上】 ● 内屏7.6\"±，外屏5.5\"± ● 横向跑道Deco设计 ● 2亿大底影像+潜望镜 ● 电池设定7K++ 该博主此前爆料，OPPO和荣耀将争夺首个2nm芯片安卓大阔折。 #今日热点# #荣耀# #MagicOS10#",
+      "tags": [
+        "HONOR",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-c720c7b5a2f1",
+      "title": "荣耀布局自研 Android 手机输入法，目前正招募“开发专家”",
+      "source": "IT之家",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-07",
+      "time": "02:35",
+      "publishedAt": "2026-07-07T02:35:59.000Z",
+      "url": "https://www.ithome.com/0/973/394.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/7/21379b9e-f910-4675-9234-b2a133a5c01a.jpg?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 7 月 7 日消息，荣耀官网 7 月 6 日更新的一则招聘信息显示，荣耀终端有限公司正在招募“输入法 Android 开发专家”。 该岗位的职责描述表明，荣耀计划从底层开始构建一套完全自研的输入法系统，涵盖端侧 UX 交互框架、输入引擎（含语音、键盘、手写）、个人化词库的端云同步，以及时延与功耗优化等多个核心模块。 在任职要求方面，荣耀特别强调应…",
+      "tags": [
+        "HONOR",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-705f48269f19",
+      "title": "竹本青：【任天堂 Switch2 可换电池版 今夏起在欧洲逐步上市：功能、性能与原版无差异】 欧洲任天堂昨日发布声明，确认…",
+      "source": "竹本青",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-07-07",
+      "time": "01:52",
+      "publishedAt": "2026-07-07T01:52:27.000Z",
+      "url": "https://www.coolapk.com/feed/72681306",
+      "image": "http://image.coolapk.com/feed/2026/0707/09/4248714_9c1adfbc_9145_7812_818@979x1348.jpg",
+      "summary": "【任天堂 Switch2 可换电池版 今夏起在欧洲逐步上市：功能、性能与原版无差异】 欧洲任天堂昨日发布声明，确认在当地推出可更换电池的新款Switch2： 自2026年夏季开始，为迎接将于2027年2月中旬生效的欧洲新电池法规，部分任天堂产品（注：包含Switch2主机、Joy-Con2手柄等）将逐步替代为可更换电池的改良版。现有原版机型与这款可换电池新…",
+      "tags": [
+        "行业",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-4ac794732f77",
+      "title": "曝尼康 DL 紧凑型数码相机有望复活，配 1 英寸传感器和变焦镜头",
+      "source": "IT之家",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-07",
+      "time": "01:50",
+      "publishedAt": "2026-07-07T01:50:17.000Z",
+      "url": "https://www.ithome.com/0/973/361.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/7/c7a4de83-f4bc-4267-9c00-07d455bb508c.png?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 7 月 7 日消息，NikonRumors 上周末爆料称， 尼康可能会复活被取消的 DL 紧凑型数码相机 。相机机身设计和镜头规格可以与最初公布的 DL1 8-50 和 DL 24-85 非常相似，或者合并成一个稍厚的 24-70 版本。 爆料称新机的其他亮点包括： 堆栈式 2400 万像素 1 英寸传感器 支持尼康 Flexible Color…",
+      "tags": [
+        "行业",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-319ca4042f89",
+      "title": "大的要来了：蓝厂神秘新机入网，爆料为 vivo X500 或 iQOO 16",
+      "source": "IT之家",
+      "brand": "vivo",
+      "model": "vivo 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-07",
+      "time": "01:30",
+      "publishedAt": "2026-07-07T01:30:58.000Z",
+      "url": "https://www.ithome.com/0/973/351.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/7/697f10b3-40c1-4925-9cc5-2be4455ed4c0.png",
+      "summary": "IT之家 7 月 7 日消息，一款型号为 V2606A 的 vivo 新机于 7 月 1 日入网，博主 @数码闲聊站 爆料称： 蓝厂神秘新机入网，型号 V2606A，支持 N79 5G 频段，产品定位不低，推测属于旗舰迭代线， vivo X500 系列或者 iQOO16，大的要来了 该博主曾曝光某厂中杯工程机影像，预计为 vivo X500 标准版。 据爆…",
+      "tags": [
+        "vivo",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-ba0f78d8f91b",
+      "title": "即日起，安卓备份数据将占用谷歌账号存储空间",
+      "source": "IT之家",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-07",
+      "time": "00:15",
+      "publishedAt": "2026-07-07T00:15:20.000Z",
+      "url": "https://www.ithome.com/0/973/330.htm",
+      "image": "",
+      "summary": "IT之家 7 月 7 日消息，据外媒 Engadget 报道，自 7 月 7 日起，谷歌将调整账号存储空间的计算规则：安卓系统备份中的全部数据都会占用谷歌账号存储空间。 此前，只有 上传至 Google 相册的媒体文件、彩信中的照片和视频 会计入容量上限。新用户将立即适配新规，现有用户则会在未来几个月分批收到更新。 谷歌发言人回应称，系统备份可以把手机数据…",
+      "tags": [
+        "行业",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-9bbf43c61c96",
+      "title": "Apple announces changes to iOS in Brazil",
+      "source": "Apple Newsroom",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "官方",
+      "trust": "官方确认",
+      "date": "2026-07-07",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.apple.com/newsroom/2026/06/apple-announces-changes-to-ios-in-brazil/",
+      "image": "",
+      "summary": "Apple today announced changes impacting iOS apps in Brazil that reflect a recent agreement with Brazil’s competition regulator, CADE.",
+      "tags": [
+        "iPhone",
+        "官方",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "newsnow-79379f67779b",
+      "title": "快捷指令｜让 iPhone 用上锤子的「大爆炸」",
+      "source": "少数派热榜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-07-07",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://sspai.com/post/111405",
+      "image": "",
+      "summary": "快捷指令｜让 iPhone 用上锤子的「大爆炸」",
+      "tags": [
+        "iPhone",
+        "评测",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-fefff9433ae3",
+      "title": "iOS 剪贴板管理工具 Procut：换个方式收藏碎片化信息",
+      "source": "少数派热榜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-07-07",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://sspai.com/post/110950",
+      "image": "",
+      "summary": "iOS 剪贴板管理工具 Procut：换个方式收藏碎片化信息",
+      "tags": [
+        "iPhone",
+        "评测",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-02544ba16eea",
+      "title": "小米 18 Pro Max 核心参数曝光：防窥直屏／双2亿影像",
+      "source": "酷安热榜",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-07-07",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/72667213",
+      "image": "",
+      "summary": "小米 18 Pro Max 核心参数曝光：防窥直屏／双2亿影像",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-6eb312d1a8e6",
+      "title": "#SmartisanOS# #手机美化# #锤子桌面#",
+      "source": "酷安热榜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-07-07",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/72676473",
+      "image": "",
+      "summary": "#SmartisanOS# #手机美化# #锤子桌面#",
+      "tags": [
+        "行业",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-4100e1f3711d",
+      "title": "天玑9500日用卡顿发烫的头条了我已经刷到不知道多少个了，很多X300用户甚至说还没有X200系列流畅，体验还不如天玑9400，包括但不限于X300系列、Find X9系列、红米K90 Max，有机主可以来说一下吗是真的吗[受虐滑稽]，是不是天玑9500真的有问题，天玑9400机型都没有这么多说卡顿发烫的，天玑9500真的是还不如骁龙上一代8e和天玑9400吗。",
+      "source": "酷安热榜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-07-07",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/72675349",
+      "image": "",
+      "summary": "天玑9500日用卡顿发烫的头条了我已经刷到不知道多少个了，很多X300用户甚至说还没有X200系列流畅，体验还不如天玑9400，包括但不限于X300系列、Find X9系列、红米K90 Max，有机主可以来说一下吗是真的吗[受虐滑稽]，是不是天玑9500真的有问题，天玑9400机型都没有这么多说卡顿发烫的，天玑9500真的是还不如骁龙上一代8e和天玑940…",
+      "tags": [
+        "行业",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-786e1bf76e4d",
+      "title": "家人们，因为我换手机了，所以我就把oppo手机薅羊毛焚诀给你们[t耐克嘴]",
+      "source": "酷安热榜",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-07-07",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/72661828",
+      "image": "",
+      "summary": "家人们，因为我换手机了，所以我就把oppo手机薅羊毛焚诀给你们[t耐克嘴]",
+      "tags": [
+        "OPPO",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-6c1f855e53f4",
+      "title": "这里没人认识，说说今年吧，也好久没打开这个手机了",
+      "source": "酷安热榜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-07-07",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/72669162",
+      "image": "",
+      "summary": "这里没人认识，说说今年吧，也好久没打开这个手机了",
+      "tags": [
+        "行业",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-c5418758868f",
+      "title": "手机0-2k价位小米排名第一！",
+      "source": "酷安热榜",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-07-07",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/72668849",
+      "image": "",
+      "summary": "手机0-2k价位小米排名第一！",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "NewsNow"
       ]
     },
     {
@@ -137,26 +497,6 @@ window.phoneRadarAuto = {
       "summary": "An iPhone 17 Pro Max in Cosmic Orange has been sealed inside a 250 year time capsule as part of America's Semiquincentennial celebrations, with the device not due to be seen again…",
       "tags": [
         "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-1451b6938065",
-      "title": "消息称小米 REDMI Turbo 5 系列手机销量超 200 万台",
-      "source": "IT之家",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-06",
-      "time": "15:24",
-      "publishedAt": "2026-07-06T15:24:32.000Z",
-      "url": "https://www.ithome.com/0/973/301.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/7/276643a1-a563-4335-b06d-ca0261c1aa68.jpg?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 7 月 6 日消息，据长期关注国内手机市场份额的数码博主 @RD观测 爆料，截至 2026 年第 26 周（6.22-6.28）， REDMI Turbo 5 系列手机销量 （Sold Out） 超 200 万台 （约 200.42 万）。 博主还公布了 REDMI K90 系列手机的销量： REDMI K90：约 239.13 万 REDMI…",
-      "tags": [
-        "Xiaomi",
         "爆料",
         "自动抓取"
       ]
@@ -322,26 +662,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "coolapk-user-44c0929c877f",
-      "title": "竹本青：？？？？ 【动态】【REDMI K90／Turbo 5系列...",
-      "source": "竹本青",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-07-06",
-      "time": "12:04",
-      "publishedAt": "2026-07-06T12:04:26.000Z",
-      "url": "https://www.coolapk.com/feed/72675160",
-      "image": "http://image.coolapk.com/feed/2026/0706/20/4248714_39ac6ed7_9465_4488_600@1272x3052.jpg",
-      "summary": "？？？？ 【动态】【REDMI K90／Turbo 5系列...",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
       "id": "auto-83d5c8b8a337",
       "title": "Here’s how to turn any iPhone into a dumb phone for you or your kids",
       "source": "9to5Mac",
@@ -359,26 +679,6 @@ window.phoneRadarAuto = {
         "iPhone",
         "爆料",
         "自动抓取"
-      ]
-    },
-    {
-      "id": "coolapk-user-c0007cfc1e0d",
-      "title": "竹本青：【REDMI K90／Turbo 5系列 最新销量曝光：合计近553.4万，Turbo 5系列超200万】 RED…",
-      "source": "竹本青",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-07-06",
-      "time": "11:42",
-      "publishedAt": "2026-07-06T11:42:05.000Z",
-      "url": "https://www.coolapk.com/feed/72674898",
-      "image": "http://image.coolapk.com/feed/2026/0706/19/4248714_4e91b642_8124_0239_546@1440x718.jpg",
-      "summary": "【REDMI K90／Turbo 5系列 最新销量曝光：合计近553.4万，Turbo 5系列超200万】 REDMI K90 截至2026 W26 —— 约239.13万 截至2026 W25 —— 约232.97万 截至2026 W24 —— 约222.81万 截至2026 W23 —— 约215.05万 REDMI K90 Max 截至2026 W2…",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "酷安博主"
       ]
     },
     {
@@ -482,46 +782,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-89520ef3124b",
-      "title": "Crease visibility on the Galaxy Z Fold 8 series could match the industry’s best",
-      "source": "SamMobile",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-06",
-      "time": "08:51",
-      "publishedAt": "2026-07-06T08:51:18.000Z",
-      "url": "https://www.sammobile.com/news/galaxy-z-fold-8-ultra-crease-visibility-match-industry-best/",
-      "image": "https://www.sammobile.com/wp-content/uploads/2026/01/Samsung-Display-Crease-Less-Foldable-OLED-Panel-Comparison-CES-2026-1920x1080.jpg",
-      "summary": "Earlier this year, Samsung Display showcased a new foldable OLED panel featuring its Advanced Crease-Less technology. It was widely expected that this panel would be used in the G…",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "coolapk-user-39165517f4cf",
-      "title": "竹本青：曝 OPPO Find X10 Ultra 评估微云台镜组",
-      "source": "竹本青",
-      "brand": "OPPO",
-      "model": "OPPO 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-07-06",
-      "time": "08:45",
-      "publishedAt": "2026-07-06T08:45:22.000Z",
-      "url": "https://www.coolapk.com/feed/72672570",
-      "image": "http://image.coolapk.com/feed/2026/0706/16/4248714_6317baad_7521_6911_827@1439x375.jpg",
-      "summary": "【曝 OPPO Find X10 Ultra 评估微云台镜组】 7月6日，数码闲聊站爆料称，OPPO Find X10 Ultra除了主摄评估200Mp 1/1.12\" LOFIC ，镜组同步评估微云台结构，光学防抖角度更大。 #今日热点# #ColorOS16# #OPPOFindX10Ultra#",
-      "tags": [
-        "OPPO",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
       "id": "auto-fe85fbd2e05e",
       "title": "Galaxy S27 Ultra reportedly being tested with 5,600mAh and 5,800mAh batteries",
       "source": "Gizmochina",
@@ -615,26 +875,6 @@ window.phoneRadarAuto = {
       "url": "https://www.androidauthority.com/samsung-galaxy-z-fold-8-crease-3684302/",
       "image": "https://www.androidauthority.com/wp-content/uploads/2025/07/Samsung-Galaxy-Z-Fold-7-flat-on-table-showing-inner-display-crease.jpg",
       "summary": "Samsung has reportedly changed the hinge to nearly eliminate the crease.",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-7757826ecab3",
-      "title": "Prices of Galaxy Z Flip 8, Z Fold 8, and Z Fold 8 Ultra leak for another country",
-      "source": "SamMobile",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-06",
-      "time": "06:28",
-      "publishedAt": "2026-07-06T06:28:36.000Z",
-      "url": "https://www.sammobile.com/news/galaxy-z-flip-8-z-fold-8-ultra-korea-prices-leak/",
-      "image": "",
-      "summary": "Last week, the European prices for Samsung’s upcoming foldable phones leaked. Now, pricing information for the Galaxy Z Flip 8, Galaxy Z Fold 8, and the Galaxy Z Fold 8 Ultra has…",
       "tags": [
         "Samsung",
         "爆料",
@@ -757,366 +997,6 @@ window.phoneRadarAuto = {
       "summary": "Xiaomi‘s next big-screen flagship is once again in the spotlight, thanks to a fresh leak from well-known tipster Digital Chat Station (DCS) on Weibo. The post shares new details a…",
       "tags": [
         "Xiaomi",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-9bbf43c61c96",
-      "title": "Apple announces changes to iOS in Brazil",
-      "source": "Apple Newsroom",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "官方",
-      "trust": "官方确认",
-      "date": "2026-07-06",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.apple.com/newsroom/2026/06/apple-announces-changes-to-ios-in-brazil/",
-      "image": "",
-      "summary": "Apple today announced changes impacting iOS apps in Brazil that reflect a recent agreement with Brazil’s competition regulator, CADE.",
-      "tags": [
-        "iPhone",
-        "官方",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "newsnow-12f0c7929e2c",
-      "title": "iOS 剪贴板管理工具 Procut：换个方式收藏碎片化信息",
-      "source": "少数派热榜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "评测",
-      "trust": "媒体汇总",
-      "date": "2026-07-06",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://sspai.com/post/110950",
-      "image": "",
-      "summary": "iOS 剪贴板管理工具 Procut：换个方式收藏碎片化信息",
-      "tags": [
-        "iPhone",
-        "评测",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-a8c24a824a49",
-      "title": "小米 18 Pro Max 核心参数曝光：防窥直屏／双2亿影像",
-      "source": "酷安热榜",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-07-06",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72667213",
-      "image": "",
-      "summary": "小米 18 Pro Max 核心参数曝光：防窥直屏／双2亿影像",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-526be5b71f49",
-      "title": "家人们，因为我换手机了，所以我就把oppo手机薅羊毛焚诀给你们[t耐克嘴]",
-      "source": "酷安热榜",
-      "brand": "OPPO",
-      "model": "OPPO 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-07-06",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72661828",
-      "image": "",
-      "summary": "家人们，因为我换手机了，所以我就把oppo手机薅羊毛焚诀给你们[t耐克嘴]",
-      "tags": [
-        "OPPO",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-9d2bfb14610e",
-      "title": "天玑9500日用卡顿发烫的头条了我已经刷到不知道多少个了，很多X300用户甚至说还没有X200系列流畅，体验还不如天玑9400，包括但不限于X300系列、Find X9系列、红米K90 Max，有机主可以来说一下吗是真的吗[受虐滑稽]，是不是天玑9500真的有问题，天玑9400机型都没有这么多说卡顿发烫的，天玑9500真的是还不如骁龙上一代8e和天玑9400吗。",
-      "source": "酷安热榜",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-07-06",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72675349",
-      "image": "",
-      "summary": "天玑9500日用卡顿发烫的头条了我已经刷到不知道多少个了，很多X300用户甚至说还没有X200系列流畅，体验还不如天玑9400，包括但不限于X300系列、Find X9系列、红米K90 Max，有机主可以来说一下吗是真的吗[受虐滑稽]，是不是天玑9500真的有问题，天玑9400机型都没有这么多说卡顿发烫的，天玑9500真的是还不如骁龙上一代8e和天玑940…",
-      "tags": [
-        "行业",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-9489926ad272",
-      "title": "兄弟们，买了一个17。然后配了一个这种类似于 pro 系列的手机壳，这个出去会被人说装吗？我看抖音走17改17pro 评论区全是说虚荣、装。。。。我这种壳算吗？大家觉得。。。",
-      "source": "酷安热榜",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-07-06",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72662897",
-      "image": "",
-      "summary": "兄弟们，买了一个17。然后配了一个这种类似于 pro 系列的手机壳，这个出去会被人说装吗？我看抖音走17改17pro 评论区全是说虚荣、装。。。。我这种壳算吗？大家觉得。。。",
-      "tags": [
-        "行业",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-4c2e9c97d072",
-      "title": "揭秘iPhone18被开源过程",
-      "source": "B站热搜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-06",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://search.bilibili.com/all?keyword=%E6%8F%AD%E7%A7%98iPhone18%E8%A2%AB%E5%BC%80%E6%BA%90%E8%BF%87%E7%A8%8B",
-      "image": "",
-      "summary": "揭秘iPhone18被开源过程",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "auto-6b31fbb80669",
-      "title": "Report: iPhone Ultra to have incredibly limited availability at launch, may ship slightly later",
-      "source": "9to5Mac",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-05",
-      "time": "20:38",
-      "publishedAt": "2026-07-05T20:38:55.000Z",
-      "url": "https://9to5mac.com/2026/07/05/iphone-fold-low-supply-at-launch-delayed-release/",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/03/iphone-fold-mockup-purple.jpg?quality=82&strip=all&w=1600",
-      "summary": "According to supply chain analyst Ming-Chi Kuo , Apple is likely to have very limited supply for iPhone Ultra at its time of announcement in September. This means it’s plausible t…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-c080f6906151",
-      "title": "Vivo X300 vs Vivo X300 FE: The Hidden Differences That Matter",
-      "source": "Gizmochina",
-      "brand": "vivo",
-      "model": "vivo 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-05",
-      "time": "16:48",
-      "publishedAt": "2026-07-05T16:48:59.000Z",
-      "url": "https://www.gizmochina.com/2026/07/05/vivo-x300-vs-vivo-x300-fe/",
-      "image": "https://www.gizmochina.com/wp-content/uploads/2026/07/image-26-300x194.png?x44794",
-      "summary": "Vivo X300 and Vivo X300 FE may share the same flagship DNA, but they take different approaches to winning buyers. The X300 prioritizes top-tier cameras and premium hardware, while…",
-      "tags": [
-        "vivo",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-a75e188c9856",
-      "title": "Vivo X300 Pro vs Vivo X300 Ultra: Is the Ultra Worth the Extra $500?",
-      "source": "Gizmochina",
-      "brand": "vivo",
-      "model": "vivo 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-05",
-      "time": "13:05",
-      "publishedAt": "2026-07-05T13:05:47.000Z",
-      "url": "https://www.gizmochina.com/2026/07/05/vivo-x300-pro-vs-vivo-x300-ultra-is-the-ultra-worth-the-extra-500/",
-      "image": "https://www.gizmochina.com/wp-content/uploads/2026/07/image-25-300x176.png?x44794",
-      "summary": "If you’re deciding between the Vivo X300 Pro and Vivo X300 Ultra, the biggest question isn’t which phone is better; it’s whether the Ultra’s much higher price delivers enough extr…",
-      "tags": [
-        "vivo",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-b415c3421b66",
-      "title": "Samsung Galaxy M47 vs Motorola Edge 70 Fusion: Specs, Camera, Battery & Price Compared",
-      "source": "Gizmochina",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-05",
-      "time": "12:06",
-      "publishedAt": "2026-07-05T12:06:56.000Z",
-      "url": "https://www.gizmochina.com/2026/07/05/samsung-galaxy-m47-vs-motorola-edge-70-fusion/",
-      "image": "https://www.gizmochina.com/wp-content/uploads/2026/07/image-24-300x198.png?x44794",
-      "summary": "Samsung Galaxy M47 and Motorola Edge 70 Fusion compete in the popular mid-range smartphone segment, both offering premium features at an affordable price. While the Galaxy M47 foc…",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-7468bbe36ec5",
-      "title": "After months with the Galaxy S26 Ultra, there are only 3 things I want from the S27 Ultra",
-      "source": "Android Authority",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-05",
-      "time": "12:00",
-      "publishedAt": "2026-07-05T12:00:00.000Z",
-      "url": "https://www.androidauthority.com/galaxy-s26-ultra-user-what-i-want-from-s27-ultra-3683177/",
-      "image": "https://www.androidauthority.com/wp-content/uploads/2026/04/Galaxy-S26-Ultra-rock-background-scaled.jpeg",
-      "summary": "The Galaxy S26 Ultra is great, but I need the next phone to change the cameras.",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-5f42f321e85a",
-      "title": "OnePlus N6 vs Samsung Galaxy M47 Comparison: Battery Beast or Better All-Rounder?",
-      "source": "Gizmochina",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-05",
-      "time": "11:09",
-      "publishedAt": "2026-07-05T11:09:45.000Z",
-      "url": "https://www.gizmochina.com/2026/07/05/oneplus-n6-vs-samsung-galaxy-m47/",
-      "image": "https://www.gizmochina.com/wp-content/uploads/2026/07/image-22-300x196.png?x44794",
-      "summary": "Choosing between the OnePlus N6 and the Samsung Galaxy M47 isn’t as straightforward as it seems. While the OnePlus N6 grabs attention with its massive 8000mAh battery, the Galaxy…",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-984ca300fe25",
-      "title": "Galaxy S27 Pro/Ultra may finally upgrade selfie with 16MP square sensor; bring Apple’s Center Stage to Android",
-      "source": "Gizmochina",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-05",
-      "time": "09:45",
-      "publishedAt": "2026-07-05T09:45:47.000Z",
-      "url": "https://www.gizmochina.com/2026/07/05/galaxy-s27-pro-ultra-may-finally-upgrade-selfie-with-16mp-square-sensor-bring-apples-center-stage-to-android/",
-      "image": "https://www.gizmochina.com/wp-content/uploads/2026/07/Samsung-Galaxy-S27-Ultra-Ai-render--300x169.png?x44794",
-      "summary": "Apple’s Center Stage (launched with the iPhone 17) uses a special square-shaped sensor and smart software to automatically adjust framing. It lets you switch between portrait and…",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-7268f1298b7e",
-      "title": "OPPO Reno16 vs OnePlus Nord 6 Comparison: The Winner May Surprise You",
-      "source": "Gizmochina",
-      "brand": "OPPO",
-      "model": "OPPO 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-05",
-      "time": "09:37",
-      "publishedAt": "2026-07-05T09:37:27.000Z",
-      "url": "https://www.gizmochina.com/2026/07/05/oppo-reno16-vs-oneplus-nord-6/",
-      "image": "https://www.gizmochina.com/wp-content/uploads/2026/07/image-20-300x189.png?x44794",
-      "summary": "Choosing between the OPPO Reno16 and the OnePlus Nord 6 isn’t as simple as comparing price tags. While the Reno16 focuses on premium cameras and refined design, the Nord 6 packs f…",
-      "tags": [
-        "OPPO",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-698689248ece",
-      "title": "Forget the Pixel 10a — this is the affordable Android phone most people need",
-      "source": "Android Authority",
-      "brand": "Pixel",
-      "model": "Pixel 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-05",
-      "time": "09:30",
-      "publishedAt": "2026-07-05T09:30:25.000Z",
-      "url": "https://www.androidauthority.com/pixel-10a-vs-oneplus-nord-ce-6-hands-on-3682869/",
-      "image": "",
-      "summary": "The Pixel 10a is good, but for everyday use, the Nord CE 6 is just better.",
-      "tags": [
-        "Pixel",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-b2888ba23ed0",
-      "title": "OPPO Reno16 vs Nothing Phone (4a): Full Comparison of Specs, Cameras & Battery",
-      "source": "Gizmochina",
-      "brand": "OPPO",
-      "model": "OPPO 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-05",
-      "time": "08:46",
-      "publishedAt": "2026-07-05T08:46:13.000Z",
-      "url": "https://www.gizmochina.com/2026/07/05/oppo-reno16-vs-nothing-phone-4a/",
-      "image": "https://www.gizmochina.com/wp-content/uploads/2026/07/image-19-300x196.png?x44794",
-      "summary": "When two smartphones target very different price points, the comparison becomes even more interesting. The OPPO Reno16 brings premium hardware with a flagship-inspired camera syst…",
-      "tags": [
-        "OPPO",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-f9464a78a381",
-      "title": "iPhone 17 Pro Max buried in America’s 250th anniversary time capsule: to be opened in 2276",
-      "source": "9to5Mac",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-05",
-      "time": "03:07",
-      "publishedAt": "2026-07-05T03:07:08.000Z",
-      "url": "https://9to5mac.com/2026/07/04/iphone-17-pro-max-included-in-america-250-time-capsule/",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/10/iphone-17-pro-cosmic-orange-fernando.jpg?quality=82&strip=all&w=1600",
-      "summary": "In celebration of America’s 250th anniversary, a gigantic time capsule has been buried with numerous items from every state to commemorate our current era – one of them being an i…",
-      "tags": [
-        "iPhone",
         "爆料",
         "自动抓取"
       ]
