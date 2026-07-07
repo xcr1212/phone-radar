@@ -1,12 +1,12 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-07-07T11:18:57.211Z",
+  "updatedAt": "2026-07-07T15:13:41.935Z",
   "issueDate": "2026-07-07",
   "issue": "VOL.260707",
   "title": "手机情报日报",
-  "intro": "今日筛出 8 条重点，其中 8 条是重点爆料，包含 7 条 iPhone 相关、0 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 9 条重点，其中 8 条是重点爆料，包含 4 条 iPhone 相关、0 条官方确认、0 条参数线索。",
   "stats": {
-    "total": 8,
-    "iphone": 7,
+    "total": 9,
+    "iphone": 4,
     "leaks": 8,
     "official": 0,
     "specs": 0
@@ -18,23 +18,23 @@ window.phoneRadarDaily = {
       "hint": "机模、配色、影像、屏幕、电池和芯片线索先看。",
       "items": [
         {
-          "id": "auto-c622529e8376",
-          "title": "消息称苹果首款折叠屏 iPhone 已在量产阶段，代工龙头富士康启动大规模招工",
+          "id": "auto-7b6e9bb7f5fa",
+          "title": "iPhone 相关消息",
           "originalTitle": "",
-          "source": "IT之家",
+          "source": "MacRumors",
           "brand": "iPhone",
           "type": "爆料",
           "trust": "媒体汇总",
           "date": "2026-07-07",
-          "time": "08:14",
-          "publishedAt": "2026-07-07T08:14:47.000Z",
-          "url": "https://www.ithome.com/0/973/615.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/7/104ed704-c869-49b8-84d3-aada539d1547.jpg",
+          "time": "14:56",
+          "publishedAt": "2026-07-07T14:56:30.000Z",
+          "url": "https://www.macrumors.com/2026/07/07/iphone-18-pro-could-be-noticeably-thicker/",
+          "image": "https://images.macrumors.com/article-new/2025/09/iPhone-17-Pro-Side-Profile.jpg",
           "verdict": "先看",
-          "takeaway": "IT之家 7 月 7 日消息，据上海证券报今日报道，多方消息表明，苹果首款折叠屏 iPhone 落地进度提速。记者从产业人士处求证获悉， 该款折叠屏 iPhone 已经在量产阶段 。 报道还提到， 代工龙头富士康率先启动大规模招工 ，为新机生产储备人力。 IT之家注意到，7 月 7 日，赣州富士康发布公众号招聘文章，要求招聘 18 至 50 岁员工，主要从…",
-          "detail": "IT之家 7 月 7 日消息，据上海证券报今日报道，多方消息表明，苹果首款折叠屏 iPhone 落地进度提速。记者从产业人士处求证获悉， 该款折叠屏 iPhone 已经在量产阶段 。 报道还提到， 代工龙头富士康率先启动大规模招工 ，为新机生产储备人力。 IT之家注意到，7 月 7 日，赣州富士康发布公众号招聘文章，要求招聘 18 至 50 岁员工，主要从…",
+          "takeaway": "iPhone 相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
+          "detail": "iPhone 相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
           "keyPoints": [
-            "屏幕形态",
+            "影像硬件",
             "爆料来源"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
@@ -63,6 +63,30 @@ window.phoneRadarDaily = {
             "爆料来源"
           ],
           "confidence": "可信度较高，但仍属于发布前线索。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "auto-ccd80564180e",
+          "title": "谷歌 Pixel 11 系列手机价格曝光：取消 128GB 版、全系 256GB 起步，999 欧元起",
+          "originalTitle": "",
+          "source": "IT之家",
+          "brand": "Pixel",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-07-07",
+          "time": "14:53",
+          "publishedAt": "2026-07-07T14:53:30.000Z",
+          "url": "https://www.ithome.com/0/973/802.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/7/6904c2dd-34a8-4a4c-a245-1999558e4def.jpg?x-bce-process=image/format,f_auto",
+          "verdict": "先看",
+          "takeaway": "IT之家 7 月 7 日消息，消息人士 billbil-kun 今天在 Dealabs 平台发文，为我们带来谷歌 Pixel 11 系列手机的售价信息。 据介绍，谷歌 Pixel 11 系列手机将彻底取消 128GB 版本， 全系机型都将升级至 256GB 起步 ，Pro、Pro XL 和 Pro Fold 机型额外提供 1TB 版本。 配色方面，Pixe…",
+          "detail": "IT之家 7 月 7 日消息，消息人士 billbil-kun 今天在 Dealabs 平台发文，为我们带来谷歌 Pixel 11 系列手机的售价信息。 据介绍，谷歌 Pixel 11 系列手机将彻底取消 128GB 版本， 全系机型都将升级至 256GB 起步 ，Pro、Pro XL 和 Pro Fold 机型额外提供 1TB 版本。 配色方面，Pixe…",
+          "keyPoints": [
+            "外观 / 配色 / 尺寸",
+            "成本 / 价格"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
@@ -113,98 +137,104 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
-          "id": "auto-06a639867a50",
-          "title": "iPhone 相关消息",
+          "id": "auto-3cb585f22993",
+          "title": "三星回顾 Galaxy Z 系列折叠屏手机演变史：UTG 玻璃、IPX8 防水、柔性铰链共同提升耐用性",
           "originalTitle": "",
-          "source": "MacRumors",
-          "brand": "iPhone",
+          "source": "IT之家",
+          "brand": "Samsung",
           "type": "爆料",
           "trust": "媒体汇总",
-          "date": "2026-07-06",
-          "time": "16:11",
-          "publishedAt": "2026-07-06T16:11:30.000Z",
-          "url": "https://www.macrumors.com/2026/07/06/iphone-17-pro-max-sealed-in-time-capsule/",
-          "image": "https://images.macrumors.com/article-new/2025/09/iPhone-17-Pro-Cosmic-Orange.jpg",
+          "date": "2026-07-07",
+          "time": "13:08",
+          "publishedAt": "2026-07-07T13:08:31.000Z",
+          "url": "https://www.ithome.com/0/973/778.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/7/13c1cb31-c309-4ce8-a579-54c5d1bf172c.png",
           "verdict": "先看",
-          "takeaway": "iPhone 相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
-          "detail": "iPhone 相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
+          "takeaway": "IT之家 7 月 7 日消息，三星官方昨日发布博文，回顾 Galaxy Z Fold 系列手机的演变史，并介绍历年来提升折叠屏手机耐用性的技术。 IT之家在此援引官方博文，三星从 2020 年的 Galaxy Z Flip 小折叠手机开始使用 UTG 超薄柔性玻璃，取代早期产品的聚合物（CPI）盖板。这种技术不仅带来了更加出色的触控体验，同时提升了设备的耐…",
+          "detail": "IT之家 7 月 7 日消息，三星官方昨日发布博文，回顾 Galaxy Z Fold 系列手机的演变史，并介绍历年来提升折叠屏手机耐用性的技术。 IT之家在此援引官方博文，三星从 2020 年的 Galaxy Z Flip 小折叠手机开始使用 UTG 超薄柔性玻璃，取代早期产品的聚合物（CPI）盖板。这种技术不仅带来了更加出色的触控体验，同时提升了设备的耐…",
+          "keyPoints": [
+            "屏幕形态"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "auto-abd13b7ce26a",
+          "title": "华为 Pura 90 Pro 系列手机获鸿蒙 HarmonyOS 6.1.0.130 升级，支持前置相机自动添加水印",
+          "originalTitle": "",
+          "source": "IT之家",
+          "brand": "Huawei",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-07-07",
+          "time": "12:03",
+          "publishedAt": "2026-07-07T12:03:04.000Z",
+          "url": "https://www.ithome.com/0/973/762.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/5/d04891ff-4410-434b-9062-90345b3088b5.jpg?x-bce-process=image/format,f_auto/auto-orient,o_1",
+          "verdict": "先看",
+          "takeaway": "IT之家 7 月 7 日消息，华为 Pura 90 Pro 系列手机已开启鸿蒙 HarmonyOS 6.1.0.130 SP16 升级，系统包大小约 5.31GB，带来了前置相机自动添加水印、魔法移图贴纸等功能。 IT之家附华为 Pura 90 Pro 系列手机此次更新内容如下： 相机 前置相机新增自动添加水印功能，使用前置相机拍照可自动添加时间、地点等水…",
+          "detail": "IT之家 7 月 7 日消息，华为 Pura 90 Pro 系列手机已开启鸿蒙 HarmonyOS 6.1.0.130 SP16 升级，系统包大小约 5.31GB，带来了前置相机自动添加水印、魔法移图贴纸等功能。 IT之家附华为 Pura 90 Pro 系列手机此次更新内容如下： 相机 前置相机新增自动添加水印功能，使用前置相机拍照可自动添加时间、地点等水…",
+          "keyPoints": [
+            "影像硬件"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "newsnow-02544ba16eea",
+          "title": "小米 18 Pro Max 核心参数曝光：防窥直屏／双2亿影像",
+          "originalTitle": "",
+          "source": "酷安热榜",
+          "brand": "Xiaomi",
+          "type": "爆料",
+          "trust": "高关注爆料源",
+          "date": "2026-07-07",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://www.coolapk.com/feed/72667213",
+          "image": "",
+          "verdict": "先看",
+          "takeaway": "小米 18 Pro Max 核心参数曝光：防窥直屏／双2亿影像",
+          "detail": "小米 18 Pro Max 核心参数曝光：防窥直屏／双2亿影像",
+          "keyPoints": [
+            "影像硬件",
+            "屏幕形态"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        }
+      ]
+    },
+    {
+      "id": "launch",
+      "title": "新机与官方发布",
+      "hint": "能直接更新到参数库。",
+      "items": [
+        {
+          "id": "auto-357874fdcc57",
+          "title": "小米 REDMI Note 17 系列手机发布会时间“抢跑”，定档 7 月 14 日 19:00 直播",
+          "originalTitle": "",
+          "source": "IT之家",
+          "brand": "Xiaomi",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-07-07",
+          "time": "13:16",
+          "publishedAt": "2026-07-07T13:16:17.000Z",
+          "url": "https://www.ithome.com/0/973/780.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/7/337b68ef-b407-47c2-909c-8cd80b76b75d.jpg",
+          "verdict": "先看",
+          "takeaway": "IT之家 7 月 7 日消息，7 月 2 日上午，小米 REDMI 红米手机宣布：REDMI Note 系列 12 年全球累计销量突破 5 亿台，新一代“小金刚”机型 —— Note 17 系列将于本月发布 。 IT之家注意到，REDMI 红米手机官方公众号页面提前泄露了 Note 17 系列手机发布会时间 —— 新品发布会直播将于 7 月 14 日（星期…",
+          "detail": "IT之家 7 月 7 日消息，7 月 2 日上午，小米 REDMI 红米手机宣布：REDMI Note 系列 12 年全球累计销量突破 5 亿台，新一代“小金刚”机型 —— Note 17 系列将于本月发布 。 IT之家注意到，REDMI 红米手机官方公众号页面提前泄露了 Note 17 系列手机发布会时间 —— 新品发布会直播将于 7 月 14 日（星期…",
           "keyPoints": [
             "爆料"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "auto-fd7de85c323e",
-          "title": "iPhone 18 Pro 对比 iPhone 18 Pro Max：差异整理",
-          "originalTitle": "",
-          "source": "MacRumors",
-          "brand": "iPhone",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-07-06",
-          "time": "14:17",
-          "publishedAt": "2026-07-06T14:17:54.000Z",
-          "url": "https://www.macrumors.com/2026/07/06/iphone-18-pro-vs-pro-max-rumors/",
-          "image": "https://images.macrumors.com/article-new/2026/07/iPhone-18-Pro-and-Pro-Max-Feature.jpg",
-          "verdict": "先看",
-          "takeaway": "iPhone 18 Pro 对比 iPhone 18 Pro Max：重点看定位、配置差异和价格差，判断是否值得等更高端型号。",
-          "detail": "iPhone 18 Pro 对比 iPhone 18 Pro Max 的差异整理。重点看两款机型的定位、影像规格、屏幕尺寸、价格区间和发布时间是否拉开差距。",
-          "keyPoints": [
-            "爆料来源"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "auto-54f98dc4f46f",
-          "title": "iPhone 18 Pro 电池 / 充电相关消息",
-          "originalTitle": "",
-          "source": "MacRumors",
-          "brand": "iPhone",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-07-06",
-          "time": "12:41",
-          "publishedAt": "2026-07-06T12:41:44.000Z",
-          "url": "https://www.macrumors.com/2026/07/06/iphone-18-pro-battery-capacities-revealed/",
-          "image": "https://images.macrumors.com/article-new/2026/04/iphone-17-pro-black-feature.jpg",
-          "verdict": "先看",
-          "takeaway": "iPhone 18 Pro 电池 / 充电相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
-          "detail": "iPhone 18 Pro 电池 / 充电相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
-          "keyPoints": [
-            "电池 / 充电"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "auto-ebc4da737d37",
-          "title": "vivo Y500 4G 手机海外发布，配 8100mAh 大电池、紫光展锐 T7300 芯片",
-          "originalTitle": "",
-          "source": "IT之家",
-          "brand": "vivo",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-07-07",
-          "time": "08:39",
-          "publishedAt": "2026-07-07T08:39:25.000Z",
-          "url": "https://www.ithome.com/0/973/628.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/7/d056fd7a-9c6b-4788-8d32-e048d5e4f0b4.jpg?x-bce-process=image/format,f_auto",
-          "verdict": "先看",
-          "takeaway": "IT之家 7 月 7 日消息，vivo 现已在尼泊尔和巴基斯坦市场推出 Y500 4G 手机。新品主打中低端市场，具备 120Hz 高刷 OLED 屏、紫光展锐 T7300 芯片。 据介绍， 这款手机配备一块 6.83 英寸的 AMOLED 屏幕 ，分辨率为 2800*1260，支持 120Hz 高刷，峰值亮度可达 5000nits。 规格方面， 这款手机…",
-          "detail": "IT之家 7 月 7 日消息，vivo 现已在尼泊尔和巴基斯坦市场推出 Y500 4G 手机。新品主打中低端市场，具备 120Hz 高刷 OLED 屏、紫光展锐 T7300 芯片。 据介绍， 这款手机配备一块 6.83 英寸的 AMOLED 屏幕 ，分辨率为 2800*1260，支持 120Hz 高刷，峰值亮度可达 5000nits。 规格方面， 这款手机…",
-          "keyPoints": [
-            "屏幕形态",
-            "电池 / 充电",
-            "芯片 / 性能"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "中文源可以直接点开快读；看完只保留和购机有关的点。"
         }
       ]
     }
