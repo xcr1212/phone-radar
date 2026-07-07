@@ -1,6 +1,186 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-07-07T15:13:41.935Z",
+  "updatedAt": "2026-07-07T18:19:25.735Z",
   "news": [
+    {
+      "id": "auto-ceb6c94c77e9",
+      "title": "Google announces Pixel 11 launch event in August",
+      "source": "The Verge",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-07",
+      "time": "17:49",
+      "publishedAt": "2026-07-07T17:49:13.000Z",
+      "url": "https://www.theverge.com/tech/962313/made-by-google-pixel-11-launch-event",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Screenshot-2026-07-07-at-10.21.32-AM.png?quality=90&strip=all&crop=0,0,100,100",
+      "summary": "Google is hosting its next Made by Google launch event for Pixel hardware on August 12th in New York City, according to an invitation sent by Google to The Verge. Unusually, the e…",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-d6d04f5ac995",
+      "title": "Pixel 11 leak reveals double the storage and a price hike you won't like",
+      "source": "Android Central",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-07-07",
+      "time": "17:45",
+      "publishedAt": "2026-07-07T17:45:00.000Z",
+      "url": "https://www.androidcentral.com/phones/google-pixel/pixel-11-leak-reveals-double-the-storage-and-a-price-hike-you-wont-like",
+      "image": "https://cdn.mos.cms.futurecdn.net/doJDZPCzosxSSjBcR9JyZ3-1280-80.jpg",
+      "summary": "Pixel 11 could double its base storage to 256GB, but leaked prices suggest you'll pay more for the upgrade.",
+      "tags": [
+        "Pixel",
+        "评测",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-ec912c85aee9",
+      "title": "Weibo leaker says iPhone 18 Pro thickness will be ‘surprising’",
+      "source": "9to5Mac",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-07",
+      "time": "17:42",
+      "publishedAt": "2026-07-07T17:42:20.000Z",
+      "url": "https://9to5mac.com/2026/07/07/weibo-leaker-says-iphone-18-pro-thickness-will-be-surprising/",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/05/iphone-18-pro-colors.jpg?quality=82&strip=all&w=1600",
+      "summary": "Days after materials from Apple supplier Tata surfaced online, prominent Weibo leaker “Fixed Focus Digital” doubled down on his earlier claim that the iPhone 18 Pro will be thicke…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-4ad510529030",
+      "title": "Google just confirmed when the Pixel 11 is coming",
+      "source": "Android Central",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-07-07",
+      "time": "17:17",
+      "publishedAt": "2026-07-07T17:17:56.000Z",
+      "url": "https://www.androidcentral.com/phones/google-pixel/pixel-11-event-announced",
+      "image": "https://cdn.mos.cms.futurecdn.net/sNcLVBd4KQqwb8S9fpazg8-1280-80.jpg",
+      "summary": "Google has confirmed a Made by Google event in New York on August 12 at 6 p.m. ET for the Pixel 11 series.",
+      "tags": [
+        "Pixel",
+        "评测",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-b8ba309747f7",
+      "title": "Google sets the date for next month’s Pixel 11 launch event",
+      "source": "Android Authority",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-07",
+      "time": "16:58",
+      "publishedAt": "2026-07-07T16:58:08.000Z",
+      "url": "https://www.androidauthority.com/pixel-11-launch-date-3684941/",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2023/10/made-by-google-stock-event-banner-scaled.jpg",
+      "summary": "We're just weeks away from the debut of the latest Pixel handsets!",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-f3841302d152",
+      "title": "Pixel 11 leak reveals the trade-off Google is making with its next flagship",
+      "source": "Android Police",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-07",
+      "time": "15:46",
+      "publishedAt": "2026-07-07T15:46:58.000Z",
+      "url": "https://www.androidpolice.com/pixel-11-leak-reveals-trade-off-google-making-next-flagship/",
+      "image": "",
+      "summary": "More storage, but at a higher price",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-d35f1da29ece",
+      "title": "三星预热全新形态新品：预计为 Galaxy Z Fold8 阔折叠手机，搭载第五代骁龙 8 至尊版定制版芯片",
+      "source": "IT之家",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-07",
+      "time": "15:40",
+      "publishedAt": "2026-07-07T15:40:56.000Z",
+      "url": "https://www.ithome.com/0/973/809.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/7/df619a07-1007-40d6-88db-9e61e76b6927.jpg?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 7 月 7 日消息，三星 GALAXY 盖乐世官方微博昨晚发布视频， 预热了全新形态新品 。 从官方微博来看，这款新品将搭载 第五代骁龙 8 至尊版定制版芯片 （即第五代骁龙 8 至尊版 For Galaxy 芯片）。 官方预热视频画面显示，这款新品的比例比较特殊，与此前曝光的 Galaxy Z Fold8 阔折叠手机类似。 评论区也有网友猜测是…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-ca23b8d6a3e8",
+      "title": "Your chance to nab that new, wide Samsung Galaxy Z Fold 8 is nearly here",
+      "source": "Android Authority",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-07",
+      "time": "15:32",
+      "publishedAt": "2026-07-07T15:32:57.000Z",
+      "url": "https://www.androidauthority.com/samsung-foldable-pre-registration-3684881/",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2025/08/Samsung-Galaxy-Z-Fold-7-split-screen-spotify-chrome.jpg",
+      "summary": "Pre-registration for Samsung's latest foldables and wearables has been tipped for this week.",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-edc84b08f721",
+      "title": "The Samsung Galaxy S26 Ultra gets a $270 price drop at Amazon",
+      "source": "Android Authority",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-07",
+      "time": "15:29",
+      "publishedAt": "2026-07-07T15:29:13.000Z",
+      "url": "https://www.androidauthority.com/deal-samsung-galaxy-s26-ultra-3684904/",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2026/03/Samsung-Galaxy-S26-ultra-standing-hero.jpg",
+      "summary": "Samsung's top-tier handset drops to $1,030 on Amazon, a 21% cut from RRP on Samsung’s latest flagship phone.",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-c187e4aaf5bc",
       "title": "Honor’s wide Galaxy Z Fold 8 rival laughs at Samsung’s tiny battery in leak, Robot Phone in August",
@@ -402,26 +582,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-0dd6e9ca59a8",
-      "title": "Nothing Phone（4b）手机发布：家族式 Glyph Bar 灯阵设计、骁龙 6 Gen 4 处理器，329 欧元起",
-      "source": "IT之家",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-07",
-      "time": "10:25",
-      "publishedAt": "2026-07-07T10:25:34.000Z",
-      "url": "https://www.ithome.com/0/973/720.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/7/f92cb7ff-449c-49d1-ad6e-5aef33844382.png?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 7 月 7 日消息，在今天的 Nothing 发布会中，Nothing Phone（4b）手机正式发布，定价为 329 欧元（IT之家注：现汇率约合 2557 元人民币）起。 该机厚度 8.6mm，重量 210g，提供 IP64 认证。手机正面配备一块 6.77 英寸 1080x2344 分辨率 120Hz AMOLED 面板，匹配 16MP 自…",
-      "tags": [
-        "行业",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-ac3a3b15612b",
       "title": "These Xiaomi 18 Pro Max leaks make me think the brand wants to go all-in this year",
       "source": "Android Central",
@@ -438,26 +598,6 @@ window.phoneRadarAuto = {
       "tags": [
         "Xiaomi",
         "评测",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-3b1b1f5afe9c",
-      "title": "上市 4 年后，Nothing Phone（1）手机正式结束系统更新",
-      "source": "IT之家",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-07",
-      "time": "10:07",
-      "publishedAt": "2026-07-07T10:07:25.000Z",
-      "url": "https://www.ithome.com/0/973/699.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/7/bf04ad1a-3733-43cf-bb35-b605359894b4.jpg?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 7 月 7 日消息，Nothing 宣布旗下 Nothing Phone（1）的软件支持周期已正式结束，目前官方已为这款手机推送最后的安全补丁（2026 年 7 月 Android 安全补丁）。 此次更新标志着 Nothing Phone（1）完成了其承诺的软件支持计划。根据此前发布的官方公告，Nothing 曾承诺为该机型提供三次 Androi…",
-      "tags": [
-        "行业",
-        "爆料",
         "自动抓取"
       ]
     },
@@ -582,26 +722,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "coolapk-user-436aac407a0c",
-      "title": "竹本青：苹果 iPhone Air2 或搭载3500mAh电池",
-      "source": "竹本青",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-07-07",
-      "time": "06:57",
-      "publishedAt": "2026-07-07T06:57:05.000Z",
-      "url": "https://www.coolapk.com/feed/72684888",
-      "image": "http://image.coolapk.com/feed/2026/0707/14/4248714_3f98da72_7424_1578_571@1440x441.jpg",
-      "summary": "【iPhone Air2 或搭载3500mAh电池，将于明年Q1发布】 ● 6.55\"1.5K 120Hz LTPO 灵动岛屏 ● 预测3500mAh±电池 ● 2nm A20系列芯片 ● 48Mp主摄／超广角双摄 ● 3D人脸识别｜ID变化不大 据该博主此前爆料，Air2 排期2027年第1季度，Air3 则尚未开模。 #今日热点# #iPhoneAir…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
       "id": "auto-8ccc07c127fb",
       "title": "Redmi Turbo 6 Max tipped to feature 7-inch 2K display, new Dimensity 9-series chip",
       "source": "Gizmochina",
@@ -659,26 +779,6 @@ window.phoneRadarAuto = {
         "Xiaomi",
         "爆料",
         "自动抓取"
-      ]
-    },
-    {
-      "id": "coolapk-user-2af3652ec235",
-      "title": "竹本青：REDMI Turbo6系列被曝明年1月发布：万级大电池",
-      "source": "竹本青",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-07-07",
-      "time": "04:30",
-      "publishedAt": "2026-07-07T04:30:15.000Z",
-      "url": "https://www.coolapk.com/feed/72683197",
-      "image": "http://image.coolapk.com/feed/2026/0707/12/4248714_745a2ead_8614_0841_26@1272x335.jpg",
-      "summary": "【小米首款万级大电池：REDMI Turbo6系列 被曝明年1月发布】 7月7日，数码闲聊站今日爆料，子系7英寸2K直屏+天玑9芯片+万级大电池的性能机，排期暂定2027年1月前后登场。 根据该博主爆料习惯与“~”符号，推测为REDMI Turbo6系列。 #REDMITurbo5Max# #HyperOS3#",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "酷安博主"
       ]
     },
     {
@@ -822,26 +922,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-4100e1f3711d",
-      "title": "天玑9500日用卡顿发烫的头条了我已经刷到不知道多少个了，很多X300用户甚至说还没有X200系列流畅，体验还不如天玑9400，包括但不限于X300系列、Find X9系列、红米K90 Max，有机主可以来说一下吗是真的吗[受虐滑稽]，是不是天玑9500真的有问题，天玑9400机型都没有这么多说卡顿发烫的，天玑9500真的是还不如骁龙上一代8e和天玑9400吗。",
-      "source": "酷安热榜",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-07-07",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72675349",
-      "image": "",
-      "summary": "天玑9500日用卡顿发烫的头条了我已经刷到不知道多少个了，很多X300用户甚至说还没有X200系列流畅，体验还不如天玑9400，包括但不限于X300系列、Find X9系列、红米K90 Max，有机主可以来说一下吗是真的吗[受虐滑稽]，是不是天玑9500真的有问题，天玑9400机型都没有这么多说卡顿发烫的，天玑9500真的是还不如骁龙上一代8e和天玑940…",
-      "tags": [
-        "行业",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
       "id": "newsnow-6c1f855e53f4",
       "title": "这里没人认识，说说今年吧，也好久没打开这个手机了",
       "source": "酷安热榜",
@@ -877,6 +957,26 @@ window.phoneRadarAuto = {
       "summary": "家人们，因为我换手机了，所以我就把oppo手机薅羊毛焚诀给你们[t耐克嘴]",
       "tags": [
         "OPPO",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-ea0c32c9b2af",
+      "title": "苹果 iPhone Air2 或搭载3500mAh电池",
+      "source": "酷安热榜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-07-07",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/72684888",
+      "image": "",
+      "summary": "苹果 iPhone Air2 或搭载3500mAh电池",
+      "tags": [
+        "iPhone",
         "爆料",
         "NewsNow"
       ]
@@ -1178,6 +1278,26 @@ window.phoneRadarAuto = {
       "tags": [
         "vivo",
         "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-71f5f6404d66",
+      "title": "iPhone Air 当主力机用了三个多月后，我为什么还是换不掉它",
+      "source": "少数派",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-07-06",
+      "time": "07:00",
+      "publishedAt": "2026-07-06T07:00:00.000Z",
+      "url": "https://sspai.com/post/111113",
+      "image": "",
+      "summary": "但恰恰是这些取舍让我重新开始思考：什么才是真正重要的体验。",
+      "tags": [
+        "iPhone",
+        "评测",
         "自动抓取"
       ]
     },

@@ -1,12 +1,12 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-07-07T15:13:41.935Z",
+  "updatedAt": "2026-07-07T18:19:25.735Z",
   "issueDate": "2026-07-07",
   "issue": "VOL.260707",
   "title": "手机情报日报",
-  "intro": "今日筛出 9 条重点，其中 8 条是重点爆料，包含 4 条 iPhone 相关、0 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 9 条重点，其中 8 条是重点爆料，包含 5 条 iPhone 相关、0 条官方确认、0 条参数线索。",
   "stats": {
     "total": 9,
-    "iphone": 4,
+    "iphone": 5,
     "leaks": 8,
     "official": 0,
     "specs": 0
@@ -17,6 +17,29 @@ window.phoneRadarDaily = {
       "title": "重点爆料",
       "hint": "机模、配色、影像、屏幕、电池和芯片线索先看。",
       "items": [
+        {
+          "id": "newsnow-ea0c32c9b2af",
+          "title": "苹果 iPhone Air2 或搭载3500mAh电池",
+          "originalTitle": "",
+          "source": "酷安热榜",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "高关注爆料源",
+          "date": "2026-07-07",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://www.coolapk.com/feed/72684888",
+          "image": "",
+          "verdict": "先看",
+          "takeaway": "苹果 iPhone Air2 或搭载3500mAh电池",
+          "detail": "苹果 iPhone Air2 或搭载3500mAh电池",
+          "keyPoints": [
+            "电池 / 充电"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
         {
           "id": "auto-7b6e9bb7f5fa",
           "title": "iPhone 相关消息",
@@ -38,31 +61,6 @@ window.phoneRadarDaily = {
             "爆料来源"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "coolapk-user-436aac407a0c",
-          "title": "竹本青：苹果 iPhone Air2 或搭载3500mAh电池",
-          "originalTitle": "",
-          "source": "竹本青",
-          "brand": "iPhone",
-          "type": "爆料",
-          "trust": "高可信爆料",
-          "date": "2026-07-07",
-          "time": "06:57",
-          "publishedAt": "2026-07-07T06:57:05.000Z",
-          "url": "https://www.coolapk.com/feed/72684888",
-          "image": "http://image.coolapk.com/feed/2026/0707/14/4248714_3f98da72_7424_1578_571@1440x441.jpg",
-          "verdict": "先看",
-          "takeaway": "【iPhone Air2 或搭载3500mAh电池，将于明年Q1发布】 ● 6.55\"1.5K 120Hz LTPO 灵动岛屏 ● 预测3500mAh±电池 ● 2nm A20系列芯片 ● 48Mp主摄／超广角双摄 ● 3D人脸识别｜ID变化不大 据该博主此前爆料，Air2 排期2027年第1季度，Air3 则尚未开模。 #今日热点# #iPhoneAir…",
-          "detail": "【iPhone Air2 或搭载3500mAh电池，将于明年Q1发布】 ● 6.55\"1.5K 120Hz LTPO 灵动岛屏 ● 预测3500mAh±电池 ● 2nm A20系列芯片 ● 48Mp主摄／超广角双摄 ● 3D人脸识别｜ID变化不大 据该博主此前爆料，Air2 排期2027年第1季度，Air3 则尚未开模。 #今日热点# #iPhoneAir…",
-          "keyPoints": [
-            "电池 / 充电",
-            "芯片 / 性能",
-            "爆料来源"
-          ],
-          "confidence": "可信度较高，但仍属于发布前线索。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
@@ -137,6 +135,29 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
+          "id": "auto-d35f1da29ece",
+          "title": "三星预热全新形态新品：预计为 Galaxy Z Fold8 阔折叠手机，搭载第五代骁龙 8 至尊版定制版芯片",
+          "originalTitle": "",
+          "source": "IT之家",
+          "brand": "Samsung",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-07-07",
+          "time": "15:40",
+          "publishedAt": "2026-07-07T15:40:56.000Z",
+          "url": "https://www.ithome.com/0/973/809.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/7/df619a07-1007-40d6-88db-9e61e76b6927.jpg?x-bce-process=image/format,f_auto",
+          "verdict": "先看",
+          "takeaway": "IT之家 7 月 7 日消息，三星 GALAXY 盖乐世官方微博昨晚发布视频， 预热了全新形态新品 。 从官方微博来看，这款新品将搭载 第五代骁龙 8 至尊版定制版芯片 （即第五代骁龙 8 至尊版 For Galaxy 芯片）。 官方预热视频画面显示，这款新品的比例比较特殊，与此前曝光的 Galaxy Z Fold8 阔折叠手机类似。 评论区也有网友猜测是…",
+          "detail": "IT之家 7 月 7 日消息，三星 GALAXY 盖乐世官方微博昨晚发布视频， 预热了全新形态新品 。 从官方微博来看，这款新品将搭载 第五代骁龙 8 至尊版定制版芯片 （即第五代骁龙 8 至尊版 For Galaxy 芯片）。 官方预热视频画面显示，这款新品的比例比较特殊，与此前曝光的 Galaxy Z Fold8 阔折叠手机类似。 评论区也有网友猜测是…",
+          "keyPoints": [
+            "芯片 / 性能"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
           "id": "auto-3cb585f22993",
           "title": "三星回顾 Galaxy Z 系列折叠屏手机演变史：UTG 玻璃、IPX8 防水、柔性铰链共同提升耐用性",
           "originalTitle": "",
@@ -181,59 +202,35 @@ window.phoneRadarDaily = {
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "newsnow-02544ba16eea",
-          "title": "小米 18 Pro Max 核心参数曝光：防窥直屏／双2亿影像",
-          "originalTitle": "",
-          "source": "酷安热榜",
-          "brand": "Xiaomi",
-          "type": "爆料",
-          "trust": "高关注爆料源",
-          "date": "2026-07-07",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://www.coolapk.com/feed/72667213",
-          "image": "",
-          "verdict": "先看",
-          "takeaway": "小米 18 Pro Max 核心参数曝光：防窥直屏／双2亿影像",
-          "detail": "小米 18 Pro Max 核心参数曝光：防窥直屏／双2亿影像",
-          "keyPoints": [
-            "影像硬件",
-            "屏幕形态"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         }
       ]
     },
     {
-      "id": "launch",
-      "title": "新机与官方发布",
-      "hint": "能直接更新到参数库。",
+      "id": "iphone",
+      "title": "iPhone 重点",
+      "hint": "不是硬件爆料，但和 iPhone 体验或路线有关。",
       "items": [
         {
-          "id": "auto-357874fdcc57",
-          "title": "小米 REDMI Note 17 系列手机发布会时间“抢跑”，定档 7 月 14 日 19:00 直播",
+          "id": "auto-71f5f6404d66",
+          "title": "iPhone Air 当主力机用了三个多月后，我为什么还是换不掉它",
           "originalTitle": "",
-          "source": "IT之家",
-          "brand": "Xiaomi",
-          "type": "爆料",
+          "source": "少数派",
+          "brand": "iPhone",
+          "type": "评测",
           "trust": "媒体汇总",
-          "date": "2026-07-07",
-          "time": "13:16",
-          "publishedAt": "2026-07-07T13:16:17.000Z",
-          "url": "https://www.ithome.com/0/973/780.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/7/337b68ef-b407-47c2-909c-8cd80b76b75d.jpg",
+          "date": "2026-07-06",
+          "time": "07:00",
+          "publishedAt": "2026-07-06T07:00:00.000Z",
+          "url": "https://sspai.com/post/111113",
+          "image": "",
           "verdict": "先看",
-          "takeaway": "IT之家 7 月 7 日消息，7 月 2 日上午，小米 REDMI 红米手机宣布：REDMI Note 系列 12 年全球累计销量突破 5 亿台，新一代“小金刚”机型 —— Note 17 系列将于本月发布 。 IT之家注意到，REDMI 红米手机官方公众号页面提前泄露了 Note 17 系列手机发布会时间 —— 新品发布会直播将于 7 月 14 日（星期…",
-          "detail": "IT之家 7 月 7 日消息，7 月 2 日上午，小米 REDMI 红米手机宣布：REDMI Note 系列 12 年全球累计销量突破 5 亿台，新一代“小金刚”机型 —— Note 17 系列将于本月发布 。 IT之家注意到，REDMI 红米手机官方公众号页面提前泄露了 Note 17 系列手机发布会时间 —— 新品发布会直播将于 7 月 14 日（星期…",
+          "takeaway": "但恰恰是这些取舍让我重新开始思考：什么才是真正重要的体验。",
+          "detail": "但恰恰是这些取舍让我重新开始思考：什么才是真正重要的体验。",
           "keyPoints": [
-            "爆料"
+            "评测"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "impact": "这是实际体验内容，买前适合重点看缺点和取舍。",
           "action": "中文源可以直接点开快读；看完只保留和购机有关的点。"
         }
       ]
