@@ -1,5 +1,5 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-07-08T21:30:34.321Z",
+  "updatedAt": "2026-07-08T23:30:06.010Z",
   "news": [
     {
       "id": "auto-f6437f5c2050",
@@ -542,26 +542,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "coolapk-user-cb24f0123d22",
-      "title": "竹本青：REDMI产品经理回应Note 17系列售价：做好心理准备",
-      "source": "竹本青",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-07-08",
-      "time": "08:40",
-      "publishedAt": "2026-07-08T08:40:36.000Z",
-      "url": "https://www.coolapk.com/feed/72699851",
-      "image": "http://image.coolapk.com/feed/2026/0708/16/4248714_800ccba0_0083_0993_817@1272x1900.jpg",
-      "summary": "【REDMI产品经理回应Note 17系列售价：做好心理准备】 REDMI Note 17系列今天官宣7月14日发布，产品经理“笋寸”同步放出新机海报，评价ID和CMF都堪称 Note 史上最佳。 有网友该帖下询问新机售价是否会上涨，其直接回复：“做好心理准备”。 #HyperOS3# #红米note17Pro# #今日热点#",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
       "id": "auto-300a436f28a4",
       "title": "Vivo X500 Pro / Pro Mini leak reveals a massive battery size along with premium camera hardware",
       "source": "Gizmochina",
@@ -779,6 +759,186 @@ window.phoneRadarAuto = {
         "iPhone",
         "官方",
         "自动抓取"
+      ]
+    },
+    {
+      "id": "newsnow-c4d624662b17",
+      "title": "快捷指令｜让 iPhone 用上锤子的「大爆炸」",
+      "source": "少数派热榜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-07-08",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://sspai.com/post/111405",
+      "image": "",
+      "summary": "快捷指令｜让 iPhone 用上锤子的「大爆炸」",
+      "tags": [
+        "iPhone",
+        "评测",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-bb543d91a204",
+      "title": "iOS 剪贴板管理工具 Procut：换个方式收藏碎片化信息",
+      "source": "少数派热榜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-07-08",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://sspai.com/post/110950",
+      "image": "",
+      "summary": "iOS 剪贴板管理工具 Procut：换个方式收藏碎片化信息",
+      "tags": [
+        "iPhone",
+        "评测",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-b95dc9ffb94b",
+      "title": "iPhone 折叠这次能打得过华为吗？",
+      "source": "酷安热榜",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-07-08",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/72700381",
+      "image": "",
+      "summary": "iPhone 折叠这次能打得过华为吗？",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-68ed127ac17d",
+      "title": "REDMI产品经理回应Note 17系列售价：做好心理准备",
+      "source": "酷安热榜",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-07-08",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/72699851",
+      "image": "",
+      "summary": "REDMI产品经理回应Note 17系列售价：做好心理准备",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-b085e40780ac",
+      "title": "看到有人说iPhone折叠屏售价在2300美金-2500美金，按照以往国行的定价规律推算一下，这机器的起售价很有可能在18999人民币，这一算感觉有点吓人了，所以买么各位。",
+      "source": "酷安热榜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-07-08",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/72681803",
+      "image": "",
+      "summary": "看到有人说iPhone折叠屏售价在2300美金-2500美金，按照以往国行的定价规律推算一下，这机器的起售价很有可能在18999人民币，这一算感觉有点吓人了，所以买么各位。",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-426e1a6b26ff",
+      "title": "我天天坐地铁观察iPhone，我一直在想为什么🍎更沉浸，我看了好久，我以前以为是安卓屏幕问题，软件分辨率问题，后来我发现换了鸿蒙屏幕和分辨率更高了（对比同款手机4.3系统过）但是还是没有iPhone的沉浸感，最后我观察得出结论：",
+      "source": "酷安热榜",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-07-08",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/72704152",
+      "image": "",
+      "summary": "我天天坐地铁观察iPhone，我一直在想为什么🍎更沉浸，我看了好久，我以前以为是安卓屏幕问题，软件分辨率问题，后来我发现换了鸿蒙屏幕和分辨率更高了（对比同款手机4.3系统过）但是还是没有iPhone的沉浸感，最后我观察得出结论：",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-36d1519df5a3",
+      "title": "K90宇宙齐活，计划做个视频看看谁更强，大家有啥想知道的可以留言。 #红米k90promax# #REDMIK90Max#",
+      "source": "酷安热榜",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-07-08",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/72685141",
+      "image": "",
+      "summary": "K90宇宙齐活，计划做个视频看看谁更强，大家有啥想知道的可以留言。 #红米k90promax# #REDMIK90Max#",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-13a2fbc22d06",
+      "title": "看了评测感觉热血沸腾起来了，实话实讲 mate80promax 的流畅度是否真的完爆骁龙 8e5 跟 a19pro。",
+      "source": "酷安热榜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-07-08",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/72689614",
+      "image": "",
+      "summary": "看了评测感觉热血沸腾起来了，实话实讲 mate80promax 的流畅度是否真的完爆骁龙 8e5 跟 a19pro。",
+      "tags": [
+        "行业",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-c1a898a1ce96",
+      "title": "苹果追查 iPhone18Pro 泄密人员并下架爆料内容，此次事件暴露出苹果对产品信息管控的哪些问题？",
+      "source": "知乎热榜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "市场报告",
+      "trust": "媒体汇总",
+      "date": "2026-07-08",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.zhihu.com/question/2055448788882437948",
+      "image": "",
+      "summary": "苹果追查 iPhone18Pro 泄密人员并下架爆料内容，此次事件暴露出苹果对产品信息管控的哪些问题？",
+      "tags": [
+        "iPhone",
+        "市场报告",
+        "NewsNow"
       ]
     },
     {
