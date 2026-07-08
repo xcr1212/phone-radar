@@ -1,6 +1,206 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-07-08T10:30:10.886Z",
+  "updatedAt": "2026-07-08T14:40:06.149Z",
   "news": [
+    {
+      "id": "auto-a47e3b156503",
+      "title": "Galaxy Z Fold 8 leaks in official-looking renders, confirming some final details",
+      "source": "9to5Google",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-08",
+      "time": "14:05",
+      "publishedAt": "2026-07-08T14:05:45.000Z",
+      "url": "https://9to5google.com/2026/07/08/galaxy-z-fold-8-leaks-in-official-looking-renders-confirming-some-final-details/",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/03/galaxy-z-wide-fold-onl-2.jpg?quality=82&strip=all&w=1481",
+      "summary": "Samsung’s next Galaxy Unpacked is officially set for July 22nd , but thanks to some all-too-common leaks, you don’t need to wait to find out what that wider Galaxy Z Fold 8 might…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-41f0459f4230",
+      "title": "Leaked Galaxy Z Fold 8 renders leave little to the imagination",
+      "source": "SamMobile",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-08",
+      "time": "13:49",
+      "publishedAt": "2026-07-08T13:49:26.000Z",
+      "url": "https://www.sammobile.com/news/leaked-galaxy-z-fold-8-renders-leave-little-to-imagination/",
+      "image": "https://www.sammobile.com/wp-content/uploads/2026/07/Exclusive-Samsung-Galaxy-Z-Fold-8-AH-51.webp",
+      "summary": "Samsung is expected to unveil its next-generation flagship foldable smartphones — Galaxy Z Fold 8 Ultra, Galaxy Z Fold 8, and Galaxy Z Flip 8 — on July 22, 2026. While previous le…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-b86f8b2f0a59",
+      "title": "HMD Skyline 2 手机海报曝光：延续现款机型设计，预计可选蓝 / 黄 / 黑三种配色",
+      "source": "IT之家",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-08",
+      "time": "13:47",
+      "publishedAt": "2026-07-08T13:47:42.000Z",
+      "url": "https://www.ithome.com/0/974/256.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/7/9d423346-b336-4a14-abc1-7523e7db8e2f.jpg?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 7 月 8 日消息，消息源 smashx_60 现已曝光了 HMD Skyline 2 手机的海报，显示该机延续现款初代 Skyline 手机设计，目前已知该机可选蓝、黄、黑三种配色。 该机规格先前已遭消息源曝光，爆料显示该机正面配备一块 6.55 英寸 FHD+ 144Hz OLED 面板（峰值亮度 1200 尼特），匹配 50MP 自拍摄像头…",
+      "tags": [
+        "行业",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-13a18617334c",
+      "title": "Cream, graphite, and pink Galaxy Z Flip 8 leaks in renders",
+      "source": "SamMobile",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-08",
+      "time": "13:40",
+      "publishedAt": "2026-07-08T13:40:36.000Z",
+      "url": "https://www.sammobile.com/news/cream-graphite-and-pink-galaxy-z-flip-8-leaks-in-renders/",
+      "image": "https://www.sammobile.com/wp-content/uploads/2026/07/Samsung-Galaxy-Z-Flip-8-leaked-render-colors-1.webp",
+      "summary": "The Galaxy Z Flip 8, soon to be announced at Unpacked, should debut in at least four color options. Three of those standard colors have now been spotted in freshly leaked renders.…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-ae209ade1520",
+      "title": "三星 Galaxy Z Flip8 折叠手机官方渲染图流出，三款配色亮相",
+      "source": "IT之家",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-08",
+      "time": "12:52",
+      "publishedAt": "2026-07-08T12:52:09.000Z",
+      "url": "https://www.ithome.com/0/974/241.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/7/b8c40c42-70c3-4f90-94b4-376453d50a11.png?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 7 月 8 日消息，外媒 AndroidHeadlines 带来了三星 Galaxy Z Flip8 的官方渲染图，共有三款配色。 从图片可以看到，Galaxy Z Flip8 的外观已经完整亮相，不仅展示了机身各个角度，还首次公开了三款官方配色。 这三种颜色分别为 Cream（奶油色）、Graphite（石墨色）和 Pink（粉色）。此外，还有…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-d41b25d64a23",
+      "title": "No delay to iPhone Ultra, says supply-chain report",
+      "source": "9to5Mac",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-08",
+      "time": "12:14",
+      "publishedAt": "2026-07-08T12:14:11.000Z",
+      "url": "https://9to5mac.com/2026/07/08/no-delay-to-iphone-ultra-says-supply-chain-report/",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/10/iphone-ultra-fold.jpg?quality=82&strip=all&w=1600",
+      "summary": "More supply chain sources have rejected claims of delays to iPhone Ultra production, reporting that it appears to be on track for a September release. However, the latest report d…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-f75468d14730",
+      "title": "Huawei announces four gradient colors of Pura 90s Pro",
+      "source": "Huawei Central",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-08",
+      "time": "11:50",
+      "publishedAt": "2026-07-08T11:50:55.000Z",
+      "url": "https://www.huaweicentral.com/huawei-announces-four-gradient-colors-of-pura-90s-pro/",
+      "image": "https://www.huaweicentral.com/wp-content/uploads/2026/07/Pura90sPro-img.jpg",
+      "summary": "Here comes one more interesting teaser of the Huawei Pura 90s series, and it mainly talks about the colors of the second model in the family – Pura 90s Pro. The company has announ…",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-05db6b4a9d5d",
+      "title": "小米 REDMI 产品经理回应 Note 17 系列手机是否会涨价：做好心理准备",
+      "source": "IT之家",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-08",
+      "time": "11:14",
+      "publishedAt": "2026-07-08T11:14:02.000Z",
+      "url": "https://www.ithome.com/0/974/219.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/7/de847fea-4f77-4517-82b6-97284bb54f2e.jpg?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 7 月 8 日消息，今天上午，REDMI 红米手机官微宣布：“国民小金刚”Note 17 系列定档 7 月 14 日 19 时发布。该机号称升配不升档，守住中端体验基线，主打超长续航更持久耐用。 IT之家注意到，小米 REDMI 产品经理 @笋寸 今日也更新微博预热了这款新机。她表示：“ID 和 CMF 都堪称 Note 史上最佳。” 有网友询问…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-7f34643e2d42",
+      "title": "Samsung Galaxy Unpacked Event Set for July 22 With Foldable iPhone Rival Expected to Debut",
+      "source": "MacRumors",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-08",
+      "time": "11:11",
+      "publishedAt": "2026-07-08T11:11:16.000Z",
+      "url": "https://www.macrumors.com/2026/07/08/samsung-galaxy-unpacked-event-july-22-rival-apple/",
+      "image": "https://images.macrumors.com/article-new/2026/07/samsung-galaxy-unpacked-july-2026.jpg",
+      "summary": "Samsung has announced it will introduce its latest Galaxy smartphones at a July 22 event, including what is believed to be a Galaxy Z Fold 8 with new passport-style dimensions sim…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-44bd0c083776",
+      "title": "iPhone Air 2: 4 Massive Upgrades Over the First-Generation iPhone Air",
+      "source": "Gizmochina",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-08",
+      "time": "10:38",
+      "publishedAt": "2026-07-08T10:38:09.000Z",
+      "url": "https://www.gizmochina.com/2026/07/08/iphone-air-2-leaked-upgrades/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2025/11/iPhone-Air-2-300x300.jpg?x44794",
+      "summary": "Apple’s ultra-slim iPhone Air captured widespread attention with its remarkably thin profile, yet early buyers frequently criticized its limited battery life and basic camera capa…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-2fe38bf9ce10",
       "title": "Apple’s most anticipated device this year marks Samsung as the industry leader",
@@ -23,7 +223,7 @@ window.phoneRadarAuto = {
     },
     {
       "id": "auto-60a702be43e9",
-      "title": "REDMI Note 17 spotted on Geekbench with Snapdragon 6s Gen 4",
+      "title": "REDMI Note 17 spotted on Geekbench with Snapdragon 6s Gen 4 chip",
       "source": "Gizmochina",
       "brand": "Xiaomi",
       "model": "Xiaomi 相关机型",
@@ -53,8 +253,8 @@ window.phoneRadarAuto = {
       "time": "09:30",
       "publishedAt": "2026-07-08T09:30:51.000Z",
       "url": "https://www.ithome.com/0/974/160.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/7/4dce2ea2-0f25-4a84-8a45-fc32d5ad5865.jpg",
-      "summary": "IT之家 7 月 8 日消息，小米 REDMI 红米手机官方微博今日放出了 REDMI Note 17 Pro 的新配色 ——「晴空蓝」外观图，宣称灵感源自清晨天空， 主打细腻渐变与微雾质感 。 今天上午，REDMI 红米手机官微宣布：“国民小金刚”Note 17 系列定档 7 月 14 日 19 时。该机号称升配不升档，守住中端体验基线，主打超长续航更持…",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/7/4dce2ea2-0f25-4a84-8a45-fc32d5ad5865.jpg?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 7 月 8 日消息，小米 REDMI 红米手机官方微博今日放出了 REDMI Note 17 Pro 的新配色 ——「晴空蓝」外观图，宣称灵感源自清晨天空， 主打细腻渐变与微雾质感 。 今天上午，REDMI 红米手机官微宣布：“国民小金刚”Note 17 系列定档 7 月 14 日 19 时发布。该机号称升配不升档，守住中端体验基线，主打超长续航…",
       "tags": [
         "Xiaomi",
         "爆料",
@@ -62,23 +262,23 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-080b11c68d00",
-      "title": "华为 Pura X Max 横阔折手机获 HarmonyOS 6.1.0.130 升级，图库新增一句话图片处理能力",
-      "source": "IT之家",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
+      "id": "weibo-3f284a29a641",
+      "title": "数码闲聊站：两家中杯旗舰的影像方案，你们喜欢哪个？[并不简单] A，200Mp 1/1.2…",
+      "source": "数码闲聊站",
+      "brand": "行业",
+      "model": "智能手机市场",
       "type": "爆料",
-      "trust": "媒体汇总",
+      "trust": "高关注爆料源",
       "date": "2026-07-08",
-      "time": "09:09",
-      "publishedAt": "2026-07-08T09:09:57.000Z",
-      "url": "https://www.ithome.com/0/974/149.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/5/e0c44c31-b808-47ee-8dd5-528d1937400f.jpg?x-bce-process=image/auto-orient,o_1",
-      "summary": "IT之家 7 月 8 日消息，华为 Pura X Max 横向阔折叠手机推送了鸿蒙 HarmonyOS 6.1.0.130 SP16 版本升级，系统包大小约 4.63GB。据介绍，新版本带来了前置相机自动添加水印、图库一句话图片处理能力等功能。 IT之家附华为 Pura X Max 本次更新内容如下： 相机 前置相机新增自动添加水印功能，使用前置相机拍照可…",
+      "time": "09:20",
+      "publishedAt": "2026-07-08T09:20:39.000Z",
+      "url": "https://weibo.com/6048569942/R7K9shsMd",
+      "image": "",
+      "summary": "两家中杯旗舰的影像方案，你们喜欢哪个？[并不简单] A，200Mp 1/1.28\"超大底主摄+50Mp小底超广角+200Mp 1/1.56\" HP5大底长焦 B，50Mp 1/1.28\"超大底主摄+50Mp小底超广角+64Mp 1/2\" LYT610中底长焦",
       "tags": [
-        "Huawei",
+        "行业",
         "爆料",
-        "自动抓取"
+        "微博"
       ]
     },
     {
@@ -142,66 +342,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-ac55271b3962",
-      "title": "索尼黑卡 RX10V 相机外观谍照曝光：搭蔡司 24-600mm 镜头、升级自动对焦功能",
-      "source": "IT之家",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-08",
-      "time": "08:03",
-      "publishedAt": "2026-07-08T08:03:20.000Z",
-      "url": "https://www.ithome.com/0/974/089.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/7/e7bc603a-5fa2-43a6-8c7a-f99ea6d04805.jpg",
-      "summary": "IT之家 7 月 8 日消息，索尼官方已宣布将于北京时间 7 月 9 日 22:00 发布新款 RX10 系列黑卡相机，主题为“经典焕新”，预计为 RX10V 机型。 目前外媒 SonyAlphaRumors 已曝光这款相机外观谍照（下图中左侧机型），新机相对于已有 9 年之久的 RX10IV（右侧机型）拿掉了机顶的显示屏，相机模式转盘同步移至机顶右侧。…",
-      "tags": [
-        "行业",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-47b480e6dfda",
-      "title": "摩托罗拉在印度推出 Moto G77 Power 手机：7000mAh 电池、天玑 6400 芯片",
-      "source": "IT之家",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-08",
-      "time": "07:55",
-      "publishedAt": "2026-07-08T07:55:04.000Z",
-      "url": "https://www.ithome.com/0/974/080.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/7/b26a7b29-e61b-4f62-aed5-fea5191560ca.png?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 7 月 8 日消息，摩托罗拉在印度推出了 Moto G77 Power 手机，为其不断扩充的 Power 长续航产品线再添一款大电池手机，这款新机主打续航与耐用性。 Moto G77 Power 延续了摩托罗拉近期所有 Power 系列机型统一的设计语言，摄像头模组、后盖造型以及整机外观，都和早前发布的 G56 Power、G57 Power 高…",
-      "tags": [
-        "行业",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-b7eb43632d5c",
-      "title": "小米 REDMI Note 17 手机跑分曝光：高通骁龙 6s Gen4 芯片 +12GB 内存",
-      "source": "IT之家",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-08",
-      "time": "07:35",
-      "publishedAt": "2026-07-08T07:35:40.000Z",
-      "url": "https://www.ithome.com/0/974/064.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/7/eab9ce43-91f5-4a07-aa8f-3924a1894d6d.jpg?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 7 月 8 日消息，科技媒体 NotebookCheck 今天（7 月 8 日）发布博文，报道称型号为 2607DRA18C 的小米手机现身 GeekBench 跑分库， 6.7.1 版本单核成绩为 1027 分，多核成绩为 3002 分，预估关联 REDMI Note 17 手机（不过有博主认为是 Pro 机型）。 IT之家查询公开资料，小米…",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-300a436f28a4",
       "title": "Vivo X500 Pro / Pro Mini leak reveals a massive battery size along with premium camera hardware",
       "source": "Gizmochina",
@@ -262,26 +402,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "coolapk-user-da52f20abe79",
-      "title": "竹本青：REDMI Note 17 Pro 将支持满级防水",
-      "source": "竹本青",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-07-08",
-      "time": "06:02",
-      "publishedAt": "2026-07-08T06:02:21.000Z",
-      "url": "https://www.coolapk.com/feed/72697932",
-      "image": "http://image.coolapk.com/feed/2026/0708/14/4248714_754cba41_0539_862_266@960x1280.jpg",
-      "summary": "【REDMI Note 17 Pro 宣布支持满级防水】 ▫️IP66 / IP68 / IP69 / IP69K 防水认证 ▫️通过南德 2米 72小时 防水认证 #今日热点# #HyperOS3# #红米note17Pro#",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
       "id": "auto-67fd0d198c08",
       "title": "马斯克不造 iPhone，但他想让手机替你赚钱",
       "source": "爱范儿",
@@ -322,23 +442,23 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-7903905c2d0c",
-      "title": "Samsung schedules July 22 Unpacked event for Galaxy Z Flip 8 and Fold 8",
-      "source": "SamMobile",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
+      "id": "weibo-f5693b0b0158",
+      "title": "数码闲聊站：手机厂的Pocket云台相机，可能会上3nm骁龙8系芯片，再加上超级大底主摄，…",
+      "source": "数码闲聊站",
+      "brand": "行业",
+      "model": "智能手机市场",
       "type": "爆料",
-      "trust": "媒体汇总",
+      "trust": "高关注爆料源",
       "date": "2026-07-08",
-      "time": "03:57",
-      "publishedAt": "2026-07-08T03:57:08.000Z",
-      "url": "https://www.sammobile.com/news/samsung-galaxy-unpacked-event-july-22-2026-z-flip-fold-8/",
+      "time": "04:43",
+      "publishedAt": "2026-07-08T04:43:00.000Z",
+      "url": "https://weibo.com/6048569942/R7IkL8yc5",
       "image": "",
-      "summary": "Samsung has revealed the invitation for its next Galaxy Unpacked event. The company released a short teaser video confirming July 22, 2026, as the date for its next launch event,…",
+      "summary": "手机厂的Pocket云台相机，可能会上3nm骁龙8系芯片，再加上超级大底主摄，给大疆和影石一点小小的机圈震撼，期待吗[doge]",
       "tags": [
-        "Samsung",
+        "行业",
         "爆料",
-        "自动抓取"
+        "微博"
       ]
     },
     {
@@ -399,6 +519,26 @@ window.phoneRadarAuto = {
         "vivo",
         "爆料",
         "酷安博主"
+      ]
+    },
+    {
+      "id": "weibo-6bc49b07cc22",
+      "title": "数码闲聊站：独家信息：2nm天玑小屏旗舰，之前透露过电池是6开头，目前没定案，基础设定65…",
+      "source": "数码闲聊站",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-07-08",
+      "time": "03:06",
+      "publishedAt": "2026-07-08T03:06:00.000Z",
+      "url": "https://weibo.com/6048569942/R7HHo2MMq",
+      "image": "",
+      "summary": "独家信息，2nm天玑小屏旗舰，之前透露过电池是6开头，目前没定案，基础设定6500-6600mAh±，努力向7靠拢，毕竟影像怼了85mm 64Mp新潜望长焦和LOFIC超大底主摄，堆叠吃满压力了[笑哈哈]",
+      "tags": [
+        "行业",
+        "爆料",
+        "微博"
       ]
     },
     {
@@ -542,28 +682,8 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-b6dff04f93a9",
-      "title": "小米 18 Pro Max 核心参数曝光：防窥直屏／双2亿影像",
-      "source": "酷安热榜",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-07-08",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72667213",
-      "image": "",
-      "summary": "小米 18 Pro Max 核心参数曝光：防窥直屏／双2亿影像",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-9f8069567441",
-      "title": "【点评】标准版，PRO版，PROmax都用了个遍了。先来个和mate系和Pura90PRO的对比~",
+      "id": "newsnow-13a2fbc22d06",
+      "title": "看了评测感觉热血沸腾起来了，实话实讲 mate80promax 的流畅度是否真的完爆骁龙 8e5 跟 a19pro。",
       "source": "酷安热榜",
       "brand": "行业",
       "model": "智能手机市场",
@@ -572,49 +692,9 @@ window.phoneRadarAuto = {
       "date": "2026-07-08",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72690964",
+      "url": "https://www.coolapk.com/feed/72689614",
       "image": "",
-      "summary": "【点评】标准版，PRO版，PROmax都用了个遍了。先来个和mate系和Pura90PRO的对比~",
-      "tags": [
-        "行业",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-5eae184f10a3",
-      "title": "千万不要侧躺玩手机",
-      "source": "微博热搜",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "待验证",
-      "date": "2026-07-08",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://s.weibo.com/weibo?q=%E5%8D%83%E4%B8%87%E4%B8%8D%E8%A6%81%E4%BE%A7%E8%BA%BA%E7%8E%A9%E6%89%8B%E6%9C%BA&t=31&band_rank=4&Refer=top",
-      "image": "",
-      "summary": "千万不要侧躺玩手机",
-      "tags": [
-        "行业",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-e3cd1378c147",
-      "title": "广西洪灾村民用发电机给老人手机充电",
-      "source": "今日头条热榜",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-08",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.toutiao.com/trending/7659763348170653746/",
-      "image": "",
-      "summary": "广西洪灾村民用发电机给老人手机充电",
+      "summary": "看了评测感觉热血沸腾起来了，实话实讲 mate80promax 的流畅度是否真的完爆骁龙 8e5 跟 a19pro。",
       "tags": [
         "行业",
         "爆料",
@@ -635,26 +715,6 @@ window.phoneRadarAuto = {
       "url": "https://www.macrumors.com/2026/07/07/google-pixel-11-event/",
       "image": "",
       "summary": "Google will introduce its latest Pixel smartphones at an August 12 event, debuting the updated devices about a month ahead of when Apple is expected to announce new iPhone models.…",
-      "tags": [
-        "Pixel",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-ceb6c94c77e9",
-      "title": "Google announces Pixel 11 launch event in August",
-      "source": "The Verge",
-      "brand": "Pixel",
-      "model": "Pixel 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-07",
-      "time": "17:49",
-      "publishedAt": "2026-07-07T17:49:13.000Z",
-      "url": "https://www.theverge.com/tech/962313/made-by-google-pixel-11-launch-event",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Screenshot-2026-07-07-at-10.21.32-AM.png?quality=90&strip=all&crop=0,0,100,100",
-      "summary": "Google is hosting its next Made by Google launch event for Pixel hardware on August 12th in New York City, according to an invitation sent by Google to The Verge. Unusually, the e…",
       "tags": [
         "Pixel",
         "爆料",
@@ -735,26 +795,6 @@ window.phoneRadarAuto = {
       "url": "https://www.androidauthority.com/pixel-11-launch-date-3684941/",
       "image": "https://www.androidauthority.com/wp-content/uploads/2023/10/made-by-google-stock-event-banner-scaled.jpg",
       "summary": "We're just weeks away from the debut of the latest Pixel handsets!",
-      "tags": [
-        "Pixel",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-f3841302d152",
-      "title": "Pixel 11 leak reveals the trade-off Google is making with its next flagship",
-      "source": "Android Police",
-      "brand": "Pixel",
-      "model": "Pixel 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-07",
-      "time": "15:46",
-      "publishedAt": "2026-07-07T15:46:58.000Z",
-      "url": "https://www.androidpolice.com/pixel-11-leak-reveals-trade-off-google-making-next-flagship/",
-      "image": "",
-      "summary": "More storage, but at a higher price",
       "tags": [
         "Pixel",
         "爆料",
@@ -942,26 +982,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-b2eb03548103",
-      "title": "Want the Galaxy Z Fold 8 or Z Flip 8 first? Mark tomorrow on your calendar",
-      "source": "SamMobile",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-07",
-      "time": "11:59",
-      "publishedAt": "2026-07-07T11:59:02.000Z",
-      "url": "https://www.sammobile.com/news/galaxy-z-fold-8-z-flip-8-pre-reservation-date-leaks/",
-      "image": "",
-      "summary": "According to multiple reports, Samsung will hold a Galaxy Unpacked event on July 22, 2026, where the brand will launch its new flagship smartphones with foldable displays, the Gal…",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-079de4dbd237",
       "title": "Motorola Edge 70 Max teasers begin in Flipkart, expected to pack Snapdragon 8 Gen 5",
       "source": "Gizmochina",
@@ -1042,23 +1062,23 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-81b182f1dda4",
-      "title": "iPhone Air 2 Could Get an 11% Battery Capacity Boost",
-      "source": "MacRumors",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
+      "id": "weibo-a5572fe596bb",
+      "title": "数码闲聊站：目前红米/一加/iQOO都完成了新一轮调价，骁龙8E机型来到3K档，8E5机型…",
+      "source": "数码闲聊站",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
       "type": "爆料",
-      "trust": "媒体汇总",
+      "trust": "高关注爆料源",
       "date": "2026-07-07",
-      "time": "10:04",
-      "publishedAt": "2026-07-07T10:04:21.000Z",
-      "url": "https://www.macrumors.com/2026/07/07/iphone-air-2-battery-capacity-3500mah/",
-      "image": "https://images.macrumors.com/article-new/2025/02/iphone-air-camera.jpg",
-      "summary": "Apple is reportedly working on a second-generation iPhone Air that's expected to launch in spring 2027, and one of Apple's main aims is to improve battery life. We now have the fi…",
+      "time": "09:18",
+      "publishedAt": "2026-07-07T09:18:00.000Z",
+      "url": "https://weibo.com/6048569942/R7AHT0MYb",
+      "image": "",
+      "summary": "目前红米/一加/iQOO都完成了新一轮调价，骁龙8E机型来到3K档，8E5机型来到5K档。 基本对应之前的预测，子系骁龙8E6 Pro大屏旗舰迭代，12+256GB定价是6K档位；骁龙8E5大屏次旗舰迭代，12+256GB定价是4K档位。 以上预测为中位数，最终价格上下浮动一点[吃瓜]",
       "tags": [
-        "iPhone",
+        "OPPO",
         "爆料",
-        "自动抓取"
+        "微博"
       ]
     },
     {
@@ -1122,6 +1142,26 @@ window.phoneRadarAuto = {
       ]
     },
     {
+      "id": "weibo-a3da0fd0e50e",
+      "title": "数码闲聊站：两个零碎的小信息，①阔直屏打样好像是TM；②万级大电池已开模，数值是10000…",
+      "source": "数码闲聊站",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-07-07",
+      "time": "07:36",
+      "publishedAt": "2026-07-07T07:36:44.000Z",
+      "url": "https://weibo.com/6048569942/R7A2MgTvT",
+      "image": "",
+      "summary": "两个零碎的小信息，①阔直屏打样好像是TM；②万级大电池已开模，数值是10000mAh以上[污]",
+      "tags": [
+        "行业",
+        "爆料",
+        "微博"
+      ]
+    },
+    {
       "id": "auto-8ccc07c127fb",
       "title": "Redmi Turbo 6 Max tipped to feature 7-inch 2K display, new Dimensity 9-series chip",
       "source": "Gizmochina",
@@ -1139,6 +1179,26 @@ window.phoneRadarAuto = {
         "Xiaomi",
         "爆料",
         "自动抓取"
+      ]
+    },
+    {
+      "id": "weibo-940d3bfaa83d",
+      "title": "数码闲聊站：iPhone Air2，供应链预测电池3500mAh±，2nm A20系列芯片…",
+      "source": "数码闲聊站",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-07-07",
+      "time": "06:07",
+      "publishedAt": "2026-07-07T06:07:00.000Z",
+      "url": "https://weibo.com/6048569942/R7zsmexgd",
+      "image": "",
+      "summary": "iPhone Air2，供应链预测电池3500mAh±，2nm A20系列芯片，6.55英寸120Hz灵动岛屏幕，48Mp主摄超广角双镜头，3D人脸识别，或许是明年唯一超轻薄旗舰，你们会冲吗[笑而不语]",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "微博"
       ]
     },
     {
