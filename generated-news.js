@@ -1,6 +1,66 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-07-08T17:51:20.162Z",
+  "updatedAt": "2026-07-08T19:55:08.305Z",
   "news": [
+    {
+      "id": "auto-084806db62ec",
+      "title": "The best part of the Galaxy Z Fold 8 Ultra has leaked, and it’s this purple [Gallery]",
+      "source": "9to5Google",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-08",
+      "time": "18:55",
+      "publishedAt": "2026-07-08T18:55:00.000Z",
+      "url": "https://9to5google.com/2026/07/08/galaxy-z-fold-8-ultra-purple-color-leak/",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/07/galaxy-z-fold-8-ultra-leak-ah-7.webp?w=1600",
+      "summary": "The Galaxy Z Fold 8 Ultra is going to be pretty disappointing; that much is clear . But, taking the sting out just a bit is a new deep purple color for the Galaxy Z Fold 8 Ultra t…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-c41fa214e1d8",
+      "title": "Microsoft’s Xbox reset is pivoting Obsidian to make Fallout instead of Avowed",
+      "source": "The Verge",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-08",
+      "time": "18:50",
+      "publishedAt": "2026-07-08T18:50:27.000Z",
+      "url": "https://www.theverge.com/games/963024/microsoft-xbox-reset-obsidian-fallout-layoffs",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/ss_9c317dc153b2905648f0b78301cde36f17001327.1920x1080.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "summary": "As part of Microsoft's big Xbox \"reset,\" which includes layoffs affecting 3,200 staffers, jettisoning studios, and shifting investments to focus on \"higher priority projects,\" Obs…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-75e62ad18133",
+      "title": "Why wait for the Z Fold 8? Last year's Galaxy Z Fold 7 is still amazing, and it's a whopping $500 OFF with new deal",
+      "source": "Android Central",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-07-08",
+      "time": "18:00",
+      "publishedAt": "2026-07-08T18:00:53.000Z",
+      "url": "https://www.androidcentral.com/phones/samsung-galaxy/why-wait-for-the-z-fold-8-last-years-galaxy-z-fold-7-is-still-amazing-and-its-a-whopping-usd500-off-with-new-deal",
+      "image": "https://cdn.mos.cms.futurecdn.net/L9Qphtkffet32e9BYXYMYT-1280-80.jpg",
+      "summary": "Samsung's newest foldables are expected to launch in a few weeks, but why wait when the Galaxy Z Fold 7 is $500 off?",
+      "tags": [
+        "Samsung",
+        "评测",
+        "自动抓取"
+      ]
+    },
     {
       "id": "coolapk-user-ed6d11b3a070",
       "title": "竹本青：【REDMI Note 17 Pro 屏幕预热：1.5K 旗舰直屏，峰值亮度3500nits】 ▫️REDMI N…",
@@ -442,26 +502,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "coolapk-user-cb24f0123d22",
-      "title": "竹本青：REDMI产品经理回应Note 17系列售价：做好心理准备",
-      "source": "竹本青",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-07-08",
-      "time": "08:40",
-      "publishedAt": "2026-07-08T08:40:36.000Z",
-      "url": "https://www.coolapk.com/feed/72699851",
-      "image": "http://image.coolapk.com/feed/2026/0708/16/4248714_800ccba0_0083_0993_817@1272x1900.jpg",
-      "summary": "【REDMI产品经理回应Note 17系列售价：做好心理准备】 REDMI Note 17系列今天官宣7月14日发布，产品经理“笋寸”同步放出新机海报，评价ID和CMF都堪称 Note 史上最佳。 有网友该帖下询问新机售价是否会上涨，其直接回复：“做好心理准备”。 #HyperOS3# #红米note17Pro# #今日热点#",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
       "id": "auto-300a436f28a4",
       "title": "Vivo X500 Pro / Pro Mini leak reveals a massive battery size along with premium camera hardware",
       "source": "Gizmochina",
@@ -722,61 +762,61 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-e11566addd0e",
-      "title": "我记得酷友总结过一个图，要避开闲鱼的重灾区，重灾区有江西南昌这个地方吗？此人给的价格我还可以接受，要是不能卖这个地方的话，我在等等。 #一加15# #红米k90promax# #REDMIK90至尊版#",
+      "id": "newsnow-b95dc9ffb94b",
+      "title": "iPhone 折叠这次能打得过华为吗？",
       "source": "酷安热榜",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-07-08",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72687248",
+      "url": "https://www.coolapk.com/feed/72700381",
       "image": "",
-      "summary": "我记得酷友总结过一个图，要避开闲鱼的重灾区，重灾区有江西南昌这个地方吗？此人给的价格我还可以接受，要是不能卖这个地方的话，我在等等。 #一加15# #红米k90promax# #REDMIK90至尊版#",
+      "summary": "iPhone 折叠这次能打得过华为吗？",
       "tags": [
-        "Xiaomi",
+        "Huawei",
         "爆料",
         "NewsNow"
       ]
     },
     {
-      "id": "newsnow-730dab6711ad",
-      "title": "#SmartisanOS# #手机美化# #锤子桌面#",
+      "id": "newsnow-b085e40780ac",
+      "title": "看到有人说iPhone折叠屏售价在2300美金-2500美金，按照以往国行的定价规律推算一下，这机器的起售价很有可能在18999人民币，这一算感觉有点吓人了，所以买么各位。",
       "source": "酷安热榜",
-      "brand": "行业",
-      "model": "智能手机市场",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-07-08",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72676473",
+      "url": "https://www.coolapk.com/feed/72681803",
       "image": "",
-      "summary": "#SmartisanOS# #手机美化# #锤子桌面#",
+      "summary": "看到有人说iPhone折叠屏售价在2300美金-2500美金，按照以往国行的定价规律推算一下，这机器的起售价很有可能在18999人民币，这一算感觉有点吓人了，所以买么各位。",
       "tags": [
-        "行业",
+        "iPhone",
         "爆料",
         "NewsNow"
       ]
     },
     {
-      "id": "newsnow-69d875e2f14a",
-      "title": "REDMI Note 17系列正式亮相，将于7月14日发布",
+      "id": "newsnow-426e1a6b26ff",
+      "title": "我天天坐地铁观察iPhone，我一直在想为什么🍎更沉浸，我看了好久，我以前以为是安卓屏幕问题，软件分辨率问题，后来我发现换了鸿蒙屏幕和分辨率更高了（对比同款手机4.3系统过）但是还是没有iPhone的沉浸感，最后我观察得出结论：",
       "source": "酷安热榜",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-07-08",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72694468",
+      "url": "https://www.coolapk.com/feed/72704152",
       "image": "",
-      "summary": "REDMI Note 17系列正式亮相，将于7月14日发布",
+      "summary": "我天天坐地铁观察iPhone，我一直在想为什么🍎更沉浸，我看了好久，我以前以为是安卓屏幕问题，软件分辨率问题，后来我发现换了鸿蒙屏幕和分辨率更高了（对比同款手机4.3系统过）但是还是没有iPhone的沉浸感，最后我观察得出结论：",
       "tags": [
-        "Xiaomi",
+        "Huawei",
         "爆料",
         "NewsNow"
       ]
@@ -802,6 +842,26 @@ window.phoneRadarAuto = {
       ]
     },
     {
+      "id": "newsnow-68ed127ac17d",
+      "title": "REDMI产品经理回应Note 17系列售价：做好心理准备",
+      "source": "酷安热榜",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-07-08",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/72699851",
+      "image": "",
+      "summary": "REDMI产品经理回应Note 17系列售价：做好心理准备",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
       "id": "newsnow-c1a898a1ce96",
       "title": "苹果追查 iPhone18Pro 泄密人员并下架爆料内容，此次事件暴露出苹果对产品信息管控的哪些问题？",
       "source": "知乎热榜",
@@ -818,26 +878,6 @@ window.phoneRadarAuto = {
       "tags": [
         "iPhone",
         "市场报告",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-76f665cac6bb",
-      "title": "南宁一村民用发电机供全村手机充电",
-      "source": "百度热搜",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-08",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.baidu.com/s?wd=%E5%8D%97%E5%AE%81%E4%B8%80%E6%9D%91%E6%B0%91%E7%94%A8%E5%8F%91%E7%94%B5%E6%9C%BA%E4%BE%9B%E5%85%A8%E6%9D%91%E6%89%8B%E6%9C%BA%E5%85%85%E7%94%B5",
-      "image": "",
-      "summary": "南宁一村民用发电机供全村手机充电",
-      "tags": [
-        "行业",
-        "爆料",
         "NewsNow"
       ]
     },
