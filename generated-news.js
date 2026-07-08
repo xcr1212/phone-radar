@@ -1,20 +1,260 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-07-08T06:38:05.229Z",
+  "updatedAt": "2026-07-08T10:30:10.886Z",
   "news": [
     {
-      "id": "auto-fbbe853b9039",
-      "title": "Jolla Phone (2026) 手机今日开启发售：搭载旗鱼系统，主打隐私保护",
+      "id": "auto-2fe38bf9ce10",
+      "title": "Apple’s most anticipated device this year marks Samsung as the industry leader",
+      "source": "SamMobile",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-08",
+      "time": "10:09",
+      "publishedAt": "2026-07-08T10:09:10.000Z",
+      "url": "https://www.sammobile.com/opinion/apple-foldable-iphone-marks-samsung-as-industry-leader/",
+      "image": "",
+      "summary": "You probably have read about it already: Apple is expected to announce its first foldable iPhone in September, a product that has been rumored for years. And Samsung, the company…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-60a702be43e9",
+      "title": "REDMI Note 17 spotted on Geekbench with Snapdragon 6s Gen 4",
+      "source": "Gizmochina",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-08",
+      "time": "10:01",
+      "publishedAt": "2026-07-08T10:01:46.000Z",
+      "url": "https://www.gizmochina.com/2026/07/08/redmi-note-17-spotted-on-geekbench-with-snapdragon-6s-gen-4/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/07/70cf98bcly1ievvab7emej20u02mg7c1-2-300x169.jpg?x44794",
+      "summary": "The REDMI Note 17 series is set to launch on July 14 in China, but leaks around the chipsets of the base and Pro models have been all over the place. According to a recent report…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-6a47a5c7a253",
+      "title": "小米 REDMI Note 17 Pro 新配色「晴空蓝」外观公布：细腻渐变 + 微雾质感，7 月 14 日发布",
+      "source": "IT之家",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-08",
+      "time": "09:30",
+      "publishedAt": "2026-07-08T09:30:51.000Z",
+      "url": "https://www.ithome.com/0/974/160.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/7/4dce2ea2-0f25-4a84-8a45-fc32d5ad5865.jpg",
+      "summary": "IT之家 7 月 8 日消息，小米 REDMI 红米手机官方微博今日放出了 REDMI Note 17 Pro 的新配色 ——「晴空蓝」外观图，宣称灵感源自清晨天空， 主打细腻渐变与微雾质感 。 今天上午，REDMI 红米手机官微宣布：“国民小金刚”Note 17 系列定档 7 月 14 日 19 时。该机号称升配不升档，守住中端体验基线，主打超长续航更持…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-080b11c68d00",
+      "title": "华为 Pura X Max 横阔折手机获 HarmonyOS 6.1.0.130 升级，图库新增一句话图片处理能力",
+      "source": "IT之家",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-08",
+      "time": "09:09",
+      "publishedAt": "2026-07-08T09:09:57.000Z",
+      "url": "https://www.ithome.com/0/974/149.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/5/e0c44c31-b808-47ee-8dd5-528d1937400f.jpg?x-bce-process=image/auto-orient,o_1",
+      "summary": "IT之家 7 月 8 日消息，华为 Pura X Max 横向阔折叠手机推送了鸿蒙 HarmonyOS 6.1.0.130 SP16 版本升级，系统包大小约 4.63GB。据介绍，新版本带来了前置相机自动添加水印、图库一句话图片处理能力等功能。 IT之家附华为 Pura X Max 本次更新内容如下： 相机 前置相机新增自动添加水印功能，使用前置相机拍照可…",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-87061d5f4c00",
+      "title": "Why the Pixel 11 price leak is worse than you think",
+      "source": "Android Authority",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-08",
+      "time": "09:00",
+      "publishedAt": "2026-07-08T09:00:18.000Z",
+      "url": "https://www.androidauthority.com/pixel-11-price-leak-worse-than-you-think-3684900/",
+      "image": "",
+      "summary": "Pesky Pixel price hikes.",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-4347ec0fd5d2",
+      "title": "Samsung just confirmed Galaxy Z Fold 8 chip, and there’s good news",
+      "source": "Android Authority",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-08",
+      "time": "08:52",
+      "publishedAt": "2026-07-08T08:52:11.000Z",
+      "url": "https://www.androidauthority.com/samsung-galaxy-z-fold-8-chip-3685145/",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2026/07/Samsung-Galaxy-Snapdragon-chip-Z-Fold-8-tease-screenshot.jpg",
+      "summary": "A brand-new form factor powered by the Snapdragon 8 Elite Gen 5 for Galaxy.",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-cb24f0123d22",
+      "title": "竹本青：REDMI产品经理回应Note 17系列售价：做好心理准备",
+      "source": "竹本青",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-07-08",
+      "time": "08:40",
+      "publishedAt": "2026-07-08T08:40:36.000Z",
+      "url": "https://www.coolapk.com/feed/72699851",
+      "image": "http://image.coolapk.com/feed/2026/0708/16/4248714_800ccba0_0083_0993_817@1272x1900.jpg",
+      "summary": "【REDMI产品经理回应Note 17系列售价：做好心理准备】 REDMI Note 17系列今天官宣7月14日发布，产品经理“笋寸”同步放出新机海报，评价ID和CMF都堪称 Note 史上最佳。 有网友该帖下询问新机售价是否会上涨，其直接回复：“做好心理准备”。 #HyperOS3# #红米note17Pro# #今日热点#",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-ac55271b3962",
+      "title": "索尼黑卡 RX10V 相机外观谍照曝光：搭蔡司 24-600mm 镜头、升级自动对焦功能",
       "source": "IT之家",
       "brand": "行业",
       "model": "智能手机市场",
       "type": "爆料",
       "trust": "媒体汇总",
       "date": "2026-07-08",
-      "time": "06:08",
-      "publishedAt": "2026-07-08T06:08:18.000Z",
-      "url": "https://www.ithome.com/0/974/007.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/7/3b7be850-f4c7-425d-89c6-2b22f53349bf.jpg",
-      "summary": "IT之家 7 月 8 日消息，@JollaHQ 今天（7 月 8 日）在 X 平台发布推文， 宣布今天将发售 Jolla Phone (2026) ，并计划在 YouTube 频道上开启首批用户交付直播。 IT之家注：Jolla Phone (2026) 由芬兰科技公司 Jolla 推出的一款 Linux 手机，主打“数字主权”与极致隐私保护，是 2013…",
+      "time": "08:03",
+      "publishedAt": "2026-07-08T08:03:20.000Z",
+      "url": "https://www.ithome.com/0/974/089.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/7/e7bc603a-5fa2-43a6-8c7a-f99ea6d04805.jpg",
+      "summary": "IT之家 7 月 8 日消息，索尼官方已宣布将于北京时间 7 月 9 日 22:00 发布新款 RX10 系列黑卡相机，主题为“经典焕新”，预计为 RX10V 机型。 目前外媒 SonyAlphaRumors 已曝光这款相机外观谍照（下图中左侧机型），新机相对于已有 9 年之久的 RX10IV（右侧机型）拿掉了机顶的显示屏，相机模式转盘同步移至机顶右侧。…",
+      "tags": [
+        "行业",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-47b480e6dfda",
+      "title": "摩托罗拉在印度推出 Moto G77 Power 手机：7000mAh 电池、天玑 6400 芯片",
+      "source": "IT之家",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-08",
+      "time": "07:55",
+      "publishedAt": "2026-07-08T07:55:04.000Z",
+      "url": "https://www.ithome.com/0/974/080.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/7/b26a7b29-e61b-4f62-aed5-fea5191560ca.png?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 7 月 8 日消息，摩托罗拉在印度推出了 Moto G77 Power 手机，为其不断扩充的 Power 长续航产品线再添一款大电池手机，这款新机主打续航与耐用性。 Moto G77 Power 延续了摩托罗拉近期所有 Power 系列机型统一的设计语言，摄像头模组、后盖造型以及整机外观，都和早前发布的 G56 Power、G57 Power 高…",
+      "tags": [
+        "行业",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-b7eb43632d5c",
+      "title": "小米 REDMI Note 17 手机跑分曝光：高通骁龙 6s Gen4 芯片 +12GB 内存",
+      "source": "IT之家",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-08",
+      "time": "07:35",
+      "publishedAt": "2026-07-08T07:35:40.000Z",
+      "url": "https://www.ithome.com/0/974/064.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/7/eab9ce43-91f5-4a07-aa8f-3924a1894d6d.jpg?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 7 月 8 日消息，科技媒体 NotebookCheck 今天（7 月 8 日）发布博文，报道称型号为 2607DRA18C 的小米手机现身 GeekBench 跑分库， 6.7.1 版本单核成绩为 1027 分，多核成绩为 3002 分，预估关联 REDMI Note 17 手机（不过有博主认为是 Pro 机型）。 IT之家查询公开资料，小米…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-300a436f28a4",
+      "title": "Vivo X500 Pro / Pro Mini leak reveals a massive battery size along with premium camera hardware",
+      "source": "Gizmochina",
+      "brand": "vivo",
+      "model": "vivo 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-08",
+      "time": "07:21",
+      "publishedAt": "2026-07-08T07:21:54.000Z",
+      "url": "https://www.gizmochina.com/2026/07/08/vivo-x500-pro-specifications-leak/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/05/image-139-300x207.png?x44794",
+      "summary": "While many brands are working on offering 200-megapixel cameras on their next-generation flagship phones, Vivo seems to be taking a different approach with its X500 series. While…",
+      "tags": [
+        "vivo",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-15dbfc328cf7",
+      "title": "我的出行好伙伴，用 iPhone 一站式解决旅途痛点",
+      "source": "少数派",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-07-08",
+      "time": "07:14",
+      "publishedAt": "2026-07-08T07:14:26.000Z",
+      "url": "https://sspai.com/post/112044",
+      "image": "",
+      "summary": "暑期将至，许多「大朋友、小朋友」都会选择在最近两个月内出游。在旅行的过程中，我们难免会遇到各种各样的问题，也会遇到各种各样令人心烦的琐事。如果你恰好在使用iPhone，不妨看看我如何从出发前、在路上、 ...",
+      "tags": [
+        "iPhone",
+        "评测",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-b8910a701e4a",
+      "title": "Motorola Edge 70 Max teaser strongly hints at MagSafe-style charging",
+      "source": "Android Authority",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-08",
+      "time": "06:41",
+      "publishedAt": "2026-07-08T06:41:14.000Z",
+      "url": "https://www.androidauthority.com/motorola-edge-70-max-magnetic-wireless-charging-teaser-3685130/",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2026/07/Motorola-Edge-70-Max-magnetic-wireless-charging-Flipkart-scaled-1.jpg",
+      "summary": "No case needed. According to this teaser image, at least.",
       "tags": [
         "行业",
         "爆料",
@@ -23,7 +263,7 @@ window.phoneRadarAuto = {
     },
     {
       "id": "coolapk-user-da52f20abe79",
-      "title": "竹本青：【REDMI Note 17 Pro 宣布支持满级防水】 ▫️IP66 / IP68 / IP69 / IP69K…",
+      "title": "竹本青：REDMI Note 17 Pro 将支持满级防水",
       "source": "竹本青",
       "brand": "Xiaomi",
       "model": "Xiaomi 相关机型",
@@ -62,26 +302,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-b42f0ae92591",
-      "title": "曝手机厂 Pocket 云台相机可能会上 3nm 骁龙 8 系芯片，给大疆和影石一点小小的机圈震撼",
-      "source": "IT之家",
-      "brand": "OPPO",
-      "model": "OPPO 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-08",
-      "time": "04:59",
-      "publishedAt": "2026-07-08T04:59:32.000Z",
-      "url": "https://www.ithome.com/0/973/981.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/7/b943beee-b272-434e-b1f7-b4efb2e6cb4c.jpg?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 7 月 8 日消息，根据此前多方爆料，OPPO 和 vivo 的手持云台相机产品有望在四季度发布，vivo 向界面新闻确认已在 2025 年底内部立项 Vlog 相机，而 OPPO 新品代号“扶摇”。 博主 @数码闲聊站 今日表示：手机厂的 Pocket 云台相机， 可能会上 3nm 骁龙 8 系芯片 ，再加上超级大底主摄，给大疆和影石一点小小的…",
-      "tags": [
-        "OPPO",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-5259de23e17f",
       "title": "Huawei Pura 90s Pro Max teaser hypes beautiful gradient color",
       "source": "Huawei Central",
@@ -97,46 +317,6 @@ window.phoneRadarAuto = {
       "summary": "Huawei has dropped another teaser for the Pura 90s Pro Max launching globally next week, and this warm-up video reveals the device’s beautiful gradient color. The company will con…",
       "tags": [
         "Huawei",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "coolapk-user-1c806f028823",
-      "title": "竹本青：【小米服务形象升级门店，十店陆续启幕】 ▫️沉浸空间 ▫️透明维修 ▫️智能叫号 ▫️VIP休憩室 更多门店即将登…",
-      "source": "竹本青",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-07-08",
-      "time": "04:30",
-      "publishedAt": "2026-07-08T04:30:35.000Z",
-      "url": "https://www.coolapk.com/feed/72696944",
-      "image": "http://image.coolapk.com/feed/2026/0708/12/4248714_f8e9cd48_5028_774_855@2560x1440.jpg",
-      "summary": "【小米服务形象升级门店，十店陆续启幕】 ▫️沉浸空间 ▫️透明维修 ▫️智能叫号 ▫️VIP休憩室 更多门店即将登陆全国多城 #今日热点# #HyperOS3# #小米#",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
-      "id": "auto-6acecf10892f",
-      "title": "“手机斩杀线”：Omdia 称 2026Q1 全球 400 美元以下手机的存储芯片物料占比逼近 60%",
-      "source": "IT之家",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-08",
-      "time": "04:01",
-      "publishedAt": "2026-07-08T04:01:50.000Z",
-      "url": "https://www.ithome.com/0/973/971.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/7/41d90933-b02f-40ba-bde5-637515ca02f4.png",
-      "summary": "IT之家 7 月 8 日消息，市场调查机构 Omdia 昨日（7 月 7 日）发布博文，研究认为受 DRAM 内存和 NAND 闪存价格上涨影响， 预估 2026 年全球售价低于 400 美元（IT之家注：现汇率约合 2721 元人民币）智能手机出货量同比下降超过 22%。 该机构指出在 99 美元（现汇率约合 673.4 元人民币）以下价格段，2025…",
-      "tags": [
-        "行业",
         "爆料",
         "自动抓取"
       ]
@@ -175,46 +355,6 @@ window.phoneRadarAuto = {
       "url": "https://www.androidauthority.com/samsung-galaxy-z-fold-8-reservations-pre-order-launch-3685108/",
       "image": "https://www.androidauthority.com/wp-content/uploads/2026/03/samsung-galaxy-z-fold-8-wide-render-leak-blue-background-scaled.jpg",
       "summary": "Samsung has cut reservation credits and drastically scaled back the accompanying sweepstakes.",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-74a1a4205adf",
-      "title": "多位果链企业人士称“没听说”苹果首款折叠屏 iPhone 延期发售，预计 9 月可正常交付",
-      "source": "IT之家",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-08",
-      "time": "03:47",
-      "publishedAt": "2026-07-08T03:47:27.000Z",
-      "url": "https://www.ithome.com/0/973/946.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/7/ab02b1f9-540f-4b26-b8ae-2955e25fdab7.jpg",
-      "summary": "IT之家 7 月 8 日消息，近期有市场传闻称，苹果首款折叠机产品或因产品组装复杂、良率较低等原因延期发售。财联社记者采访多位苹果链企业人士获悉，苹果折叠机产品方案早已确定，目前 相关企业已进入生产旺季，相关产品正常量产中 。多位人士还表示，9 月交付应该“没问题”，对于产品延期发售的传闻， 则表示“没听说” 。 昨天有消息称，苹果首款折叠屏 iPhone…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-9acb14527b45",
-      "title": "三星 Galaxy A18 手机渲染图曝光，5G 版将改用高通芯片",
-      "source": "IT之家",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-08",
-      "time": "03:39",
-      "publishedAt": "2026-07-08T03:39:23.000Z",
-      "url": "https://www.ithome.com/0/973/932.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/7/37e78778-e1db-4a26-a007-cd4c69c0e9ee.jpg?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 7 月 8 日消息，科技媒体 smartphonechecker 昨日（7 月 7 日）发布博文，分享了一组渲染图，基于三星向手机配件厂商供应的 CAD 数据构建，展示了三星 Galaxy A18 手机。 外观方面，Galaxy A18 5G 机身尺寸为 164.4 × 77.8 × 7.84mm，含后摄凸起厚度为 9.74mm。相比较三星 Ga…",
       "tags": [
         "Samsung",
         "爆料",
@@ -262,26 +402,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "coolapk-user-1cb2c2345790",
-      "title": "竹本青：REDMI Note 17 Pro 抗摔预热：康宁GGV2玻璃",
-      "source": "竹本青",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-07-08",
-      "time": "03:01",
-      "publishedAt": "2026-07-08T03:01:48.000Z",
-      "url": "https://www.coolapk.com/feed/72695846",
-      "image": "http://image.coolapk.com/feed/2026/0708/11/4248714_503f6d55_9706_5433_118@1440x1920.jpg",
-      "summary": "【REDMI Note 17 Pro 抗摔预热：搭载康宁GGV2玻璃】 ● 康宁®大猩猩®玻璃 Victus®2 ● SGS／CQC金标双五星抗摔认证 ● 挑战3米大理石抗摔 #今日热点# #HyperOS3# #红米note17Pro#",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
       "id": "auto-e03c3e89ea6d",
       "title": "The countdown to the Pixel 11 launch has officially begun",
       "source": "Android Police",
@@ -319,6 +439,186 @@ window.phoneRadarAuto = {
         "iPhone",
         "官方",
         "自动抓取"
+      ]
+    },
+    {
+      "id": "newsnow-c4d624662b17",
+      "title": "快捷指令｜让 iPhone 用上锤子的「大爆炸」",
+      "source": "少数派热榜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-07-08",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://sspai.com/post/111405",
+      "image": "",
+      "summary": "快捷指令｜让 iPhone 用上锤子的「大爆炸」",
+      "tags": [
+        "iPhone",
+        "评测",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-bb543d91a204",
+      "title": "iOS 剪贴板管理工具 Procut：换个方式收藏碎片化信息",
+      "source": "少数派热榜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-07-08",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://sspai.com/post/110950",
+      "image": "",
+      "summary": "iOS 剪贴板管理工具 Procut：换个方式收藏碎片化信息",
+      "tags": [
+        "iPhone",
+        "评测",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-e11566addd0e",
+      "title": "我记得酷友总结过一个图，要避开闲鱼的重灾区，重灾区有江西南昌这个地方吗？此人给的价格我还可以接受，要是不能卖这个地方的话，我在等等。 #一加15# #红米k90promax# #REDMIK90至尊版#",
+      "source": "酷安热榜",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-07-08",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/72687248",
+      "image": "",
+      "summary": "我记得酷友总结过一个图，要避开闲鱼的重灾区，重灾区有江西南昌这个地方吗？此人给的价格我还可以接受，要是不能卖这个地方的话，我在等等。 #一加15# #红米k90promax# #REDMIK90至尊版#",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-730dab6711ad",
+      "title": "#SmartisanOS# #手机美化# #锤子桌面#",
+      "source": "酷安热榜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-07-08",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/72676473",
+      "image": "",
+      "summary": "#SmartisanOS# #手机美化# #锤子桌面#",
+      "tags": [
+        "行业",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-69d875e2f14a",
+      "title": "REDMI Note 17系列正式亮相，将于7月14日发布",
+      "source": "酷安热榜",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-07-08",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/72694468",
+      "image": "",
+      "summary": "REDMI Note 17系列正式亮相，将于7月14日发布",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-b6dff04f93a9",
+      "title": "小米 18 Pro Max 核心参数曝光：防窥直屏／双2亿影像",
+      "source": "酷安热榜",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-07-08",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/72667213",
+      "image": "",
+      "summary": "小米 18 Pro Max 核心参数曝光：防窥直屏／双2亿影像",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-9f8069567441",
+      "title": "【点评】标准版，PRO版，PROmax都用了个遍了。先来个和mate系和Pura90PRO的对比~",
+      "source": "酷安热榜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-07-08",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/72690964",
+      "image": "",
+      "summary": "【点评】标准版，PRO版，PROmax都用了个遍了。先来个和mate系和Pura90PRO的对比~",
+      "tags": [
+        "行业",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-5eae184f10a3",
+      "title": "千万不要侧躺玩手机",
+      "source": "微博热搜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "待验证",
+      "date": "2026-07-08",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://s.weibo.com/weibo?q=%E5%8D%83%E4%B8%87%E4%B8%8D%E8%A6%81%E4%BE%A7%E8%BA%BA%E7%8E%A9%E6%89%8B%E6%9C%BA&t=31&band_rank=4&Refer=top",
+      "image": "",
+      "summary": "千万不要侧躺玩手机",
+      "tags": [
+        "行业",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-e3cd1378c147",
+      "title": "广西洪灾村民用发电机给老人手机充电",
+      "source": "今日头条热榜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-08",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.toutiao.com/trending/7659763348170653746/",
+      "image": "",
+      "summary": "广西洪灾村民用发电机给老人手机充电",
+      "tags": [
+        "行业",
+        "爆料",
+        "NewsNow"
       ]
     },
     {
@@ -662,26 +962,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-3337f794dbd1",
-      "title": "Samsung’s latest Galaxy Z Fold 8 teaser hints at the chip we’ve been expecting",
-      "source": "SamMobile",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-07",
-      "time": "11:16",
-      "publishedAt": "2026-07-07T11:16:36.000Z",
-      "url": "https://www.sammobile.com/news/samsungs-latest-galaxy-z-fold-8-teaser-hints-at-the-chip-weve-been-expecting/",
-      "image": "https://www.sammobile.com/wp-content/uploads/2026/07/Samsungs-teaser-for-Galaxy-Z-Fold-8-hinting-that-it-will-be-powered-by-Qualcomm-Snapdragon-8-Elite-Gen-5-for-Galaxy-chipset-03.jpg",
-      "summary": "According to multiple reports, Samsung will launch its first smartphone with a book-style foldable display featuring a 4:3 aspect ratio, the Galaxy Z Fold 8, later this month, alo…",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-079de4dbd237",
       "title": "Motorola Edge 70 Max teasers begin in Flipkart, expected to pack Snapdragon 8 Gen 5",
       "source": "Gizmochina",
@@ -839,26 +1119,6 @@ window.phoneRadarAuto = {
         "Huawei",
         "爆料",
         "酷安博主"
-      ]
-    },
-    {
-      "id": "auto-84faf302f2e0",
-      "title": "Honor wide foldable may take on Pura X Max in camera and battery",
-      "source": "Huawei Central",
-      "brand": "HONOR",
-      "model": "HONOR 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-07",
-      "time": "07:37",
-      "publishedAt": "2026-07-07T07:37:33.000Z",
-      "url": "https://www.huaweicentral.com/honor-wide-foldable-camera-battery-details/",
-      "image": "https://www.huaweicentral.com/wp-content/uploads/2026/07/Honorwidefoldable-leak.jpg",
-      "summary": "Honor is in the news headlines for working on a wide foldable phone and the latest leak on this topic has revealed the screen, camera, and battery details of the device. Perhaps t…",
-      "tags": [
-        "HONOR",
-        "爆料",
-        "自动抓取"
       ]
     },
     {
