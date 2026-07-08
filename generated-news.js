@@ -1,6 +1,146 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-07-08T14:40:06.149Z",
+  "updatedAt": "2026-07-08T17:51:20.162Z",
   "news": [
+    {
+      "id": "coolapk-user-ed6d11b3a070",
+      "title": "竹本青：【REDMI Note 17 Pro 屏幕预热：1.5K 旗舰直屏，峰值亮度3500nits】 ▫️REDMI N…",
+      "source": "竹本青",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-07-08",
+      "time": "17:18",
+      "publishedAt": "2026-07-08T17:18:02.000Z",
+      "url": "https://www.coolapk.com/feed/72706263",
+      "image": "http://image.coolapk.com/feed/2026/0709/01/4248714_436af135_1080_9227_665@1080x1440.jpg",
+      "summary": "【REDMI Note 17 Pro 屏幕预热：1.5K 旗舰直屏，峰值亮度3500nits】 ▫️REDMI Note 最强屏幕 ▫️1.5K 直屏／旗舰级发光材料 ▫️3500nits 局部峰值+1nit 暗光 ▫️支持小米青山护眼技术 #今日热点# #HyperOS3# #红米note17Pro#",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-7cde3ad60db8",
+      "title": "Galaxy Z Fold 8 and Fold 8 Ultra renders spoil Samsung’s big reveal",
+      "source": "Android Authority",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-08",
+      "time": "16:37",
+      "publishedAt": "2026-07-08T16:37:49.000Z",
+      "url": "https://www.androidauthority.com/samsung-galaxy-z-fold-8-leaked-renders-3685353/",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2025/07/samsung-galaxy-z-fold-7-rear-hero.jpg",
+      "summary": "The Fold 8 lineup just unfolded itself before Samsung could.",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-624ceeb887c0",
+      "title": "Mario Kart Tour will soon reach the end of the rainbow road as servers shut down",
+      "source": "Android Authority",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-08",
+      "time": "16:29",
+      "publishedAt": "2026-07-08T16:29:14.000Z",
+      "url": "https://www.androidauthority.com/mario-kart-tour-end-date-3685388/",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2019/09/Mario-Kart-Tour-Featured.jpg",
+      "summary": "It's game over for Mario Kart Tour on Android and iOS.",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-f5b9061473eb",
+      "title": "New Galaxy Z Flip 8 renders show Samsung’s foldable in all its glory",
+      "source": "Android Authority",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-08",
+      "time": "15:39",
+      "publishedAt": "2026-07-08T15:39:11.000Z",
+      "url": "https://www.androidauthority.com/galaxy-z-flip-8-july-renders-3685323/",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2025/08/samsung-galaxy-z-flip-7-review-16-scaled.jpg",
+      "summary": "Which color do you think looks best?",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-e4147b92dcd9",
+      "title": "Amazon is discounting the entire Galaxy S26 lineup again — it's not Prime Day, but it's close",
+      "source": "Android Central",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-07-08",
+      "time": "15:27",
+      "publishedAt": "2026-07-08T15:27:21.000Z",
+      "url": "https://www.androidcentral.com/phones/samsung-galaxy/amazon-is-discounting-the-entire-galaxy-s26-lineup-again-its-not-prime-day-but-its-close",
+      "image": "https://cdn.mos.cms.futurecdn.net/FHy6yN58spznQ3VRme3iB3-1280-80.jpg",
+      "summary": "For a limited time, Amazon has decided to slash prices on the entire Samsung Galaxy S26 lineup.",
+      "tags": [
+        "Samsung",
+        "评测",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-fb63ee0d8e7b",
+      "title": "Why Samsung’s Galaxy Z Fold is becoming my dream phone as an old-school gamer",
+      "source": "SamMobile",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-08",
+      "time": "15:18",
+      "publishedAt": "2026-07-08T15:18:00.000Z",
+      "url": "https://www.sammobile.com/opinion/why-samsung-galaxy-z-fold-is-becoming-my-dream-phone-old-school-gamer/",
+      "image": "",
+      "summary": "I've always fancied the idea of old PC games making the jump to mobile. Once smartphones took off, I couldn't help wondering if one day we'd be carrying full-fledged MMORPGs (Mass…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-013dc763f56c",
+      "title": "小米卢伟冰：成本暴涨对千元机影响最大，更考验产品定义",
+      "source": "IT之家",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-08",
+      "time": "15:09",
+      "publishedAt": "2026-07-08T15:09:04.000Z",
+      "url": "https://www.ithome.com/0/974/270.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/7/f22501ed-4c6b-4cdf-869f-1d11dd3ad8b1.jpg?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 7 月 8 日消息，今天上午，REDMI 红米手机官微宣布：“国民小金刚”Note 17 系列定档 7 月 14 日 19 时发布。该机号称升配不升档，主打长续航和耐用。 小米集团合伙人 / 总裁、手机部总裁、小米品牌总经理卢伟冰今日发文预热了这款新机，并分享了自己对于现阶段千元机的观点。他表示， 成本暴涨对千元机影响最大，更考验产品定义 。 卢…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-a47e3b156503",
       "title": "Galaxy Z Fold 8 leaks in official-looking renders, confirming some final details",
@@ -235,26 +375,6 @@ window.phoneRadarAuto = {
       "url": "https://www.gizmochina.com/2026/07/08/redmi-note-17-spotted-on-geekbench-with-snapdragon-6s-gen-4/",
       "image": "https://www.gizmochina.com/wp-content/uploads/2026/07/70cf98bcly1ievvab7emej20u02mg7c1-2-300x169.jpg?x44794",
       "summary": "The REDMI Note 17 series is set to launch on July 14 in China, but leaks around the chipsets of the base and Pro models have been all over the place. According to a recent report…",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-6a47a5c7a253",
-      "title": "小米 REDMI Note 17 Pro 新配色「晴空蓝」外观公布：细腻渐变 + 微雾质感，7 月 14 日发布",
-      "source": "IT之家",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-08",
-      "time": "09:30",
-      "publishedAt": "2026-07-08T09:30:51.000Z",
-      "url": "https://www.ithome.com/0/974/160.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/7/4dce2ea2-0f25-4a84-8a45-fc32d5ad5865.jpg?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 7 月 8 日消息，小米 REDMI 红米手机官方微博今日放出了 REDMI Note 17 Pro 的新配色 ——「晴空蓝」外观图，宣称灵感源自清晨天空， 主打细腻渐变与微雾质感 。 今天上午，REDMI 红米手机官微宣布：“国民小金刚”Note 17 系列定档 7 月 14 日 19 时发布。该机号称升配不升档，守住中端体验基线，主打超长续航…",
       "tags": [
         "Xiaomi",
         "爆料",
@@ -542,26 +662,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-e03c3e89ea6d",
-      "title": "The countdown to the Pixel 11 launch has officially begun",
-      "source": "Android Police",
-      "brand": "Pixel",
-      "model": "Pixel 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-08",
-      "time": "01:48",
-      "publishedAt": "2026-07-08T01:48:50.000Z",
-      "url": "https://www.androidpolice.com/the-countdown-to-pixel-11-launch-has-officially-begun/",
-      "image": "",
-      "summary": "And it's happening in New York City",
-      "tags": [
-        "Pixel",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-9bbf43c61c96",
       "title": "Apple announces changes to iOS in Brazil",
       "source": "Apple Newsroom",
@@ -695,6 +795,46 @@ window.phoneRadarAuto = {
       "url": "https://www.coolapk.com/feed/72689614",
       "image": "",
       "summary": "看了评测感觉热血沸腾起来了，实话实讲 mate80promax 的流畅度是否真的完爆骁龙 8e5 跟 a19pro。",
+      "tags": [
+        "行业",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-c1a898a1ce96",
+      "title": "苹果追查 iPhone18Pro 泄密人员并下架爆料内容，此次事件暴露出苹果对产品信息管控的哪些问题？",
+      "source": "知乎热榜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "市场报告",
+      "trust": "媒体汇总",
+      "date": "2026-07-08",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.zhihu.com/question/2055448788882437948",
+      "image": "",
+      "summary": "苹果追查 iPhone18Pro 泄密人员并下架爆料内容，此次事件暴露出苹果对产品信息管控的哪些问题？",
+      "tags": [
+        "iPhone",
+        "市场报告",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-76f665cac6bb",
+      "title": "南宁一村民用发电机供全村手机充电",
+      "source": "百度热搜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-08",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.baidu.com/s?wd=%E5%8D%97%E5%AE%81%E4%B8%80%E6%9D%91%E6%B0%91%E7%94%A8%E5%8F%91%E7%94%B5%E6%9C%BA%E4%BE%9B%E5%85%A8%E6%9D%91%E6%89%8B%E6%9C%BA%E5%85%85%E7%94%B5",
+      "image": "",
+      "summary": "南宁一村民用发电机供全村手机充电",
       "tags": [
         "行业",
         "爆料",
@@ -857,26 +997,6 @@ window.phoneRadarAuto = {
       "summary": "Honor is, like everyone else, jumping on the wide foldable idea in the not-too-distant future, but with a battery that makes the Galaxy Z Fold 8 look like a joke.",
       "tags": [
         "HONOR",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-7b6e9bb7f5fa",
-      "title": "iPhone 18 Pro Could Be Noticeably Thicker Than iPhone 17 Pro",
-      "source": "MacRumors",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-07",
-      "time": "14:56",
-      "publishedAt": "2026-07-07T14:56:30.000Z",
-      "url": "https://www.macrumors.com/2026/07/07/iphone-18-pro-could-be-noticeably-thicker/",
-      "image": "https://images.macrumors.com/article-new/2025/09/iPhone-17-Pro-Side-Profile.jpg",
-      "summary": "The iPhone 18 Pro 's aluminum frame and camera housing are both set to grow thicker than the iPhone 17 Pro 's, according to new posts from the leaker known as \"Fixed Focus Digital…",
-      "tags": [
-        "iPhone",
         "爆料",
         "自动抓取"
       ]

@@ -1,12 +1,12 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-07-08T14:40:06.149Z",
+  "updatedAt": "2026-07-08T17:51:20.162Z",
   "issueDate": "2026-07-08",
   "issue": "VOL.260708",
   "title": "手机情报日报",
-  "intro": "今日筛出 8 条重点，其中 8 条是重点爆料，包含 3 条 iPhone 相关、0 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 8 条重点，其中 8 条是重点爆料，包含 4 条 iPhone 相关、0 条官方确认、0 条参数线索。",
   "stats": {
     "total": 8,
-    "iphone": 3,
+    "iphone": 4,
     "leaks": 8,
     "official": 0,
     "specs": 0
@@ -44,30 +44,6 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
-          "id": "auto-7b6e9bb7f5fa",
-          "title": "iPhone 相关消息",
-          "originalTitle": "",
-          "source": "MacRumors",
-          "brand": "iPhone",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-07-07",
-          "time": "14:56",
-          "publishedAt": "2026-07-07T14:56:30.000Z",
-          "url": "https://www.macrumors.com/2026/07/07/iphone-18-pro-could-be-noticeably-thicker/",
-          "image": "https://images.macrumors.com/article-new/2025/09/iPhone-17-Pro-Side-Profile.jpg",
-          "verdict": "先看",
-          "takeaway": "iPhone 相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
-          "detail": "iPhone 相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
-          "keyPoints": [
-            "影像硬件",
-            "爆料来源"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
           "id": "auto-ae209ade1520",
           "title": "三星 Galaxy Z Flip8 折叠手机官方渲染图流出，三款配色亮相",
           "originalTitle": "",
@@ -91,24 +67,46 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
-          "id": "auto-6a47a5c7a253",
-          "title": "小米 REDMI Note 17 Pro 新配色「晴空蓝」外观公布：细腻渐变 + 微雾质感，7 月 14 日发布",
+          "id": "newsnow-c1a898a1ce96",
+          "title": "苹果追查 iPhone18Pro 泄密人员并下架爆料内容，此次事件暴露出苹果对产品信息管控的哪些问题？",
           "originalTitle": "",
-          "source": "IT之家",
-          "brand": "Xiaomi",
-          "type": "爆料",
+          "source": "知乎热榜",
+          "brand": "iPhone",
+          "type": "市场报告",
           "trust": "媒体汇总",
           "date": "2026-07-08",
-          "time": "09:30",
-          "publishedAt": "2026-07-08T09:30:51.000Z",
-          "url": "https://www.ithome.com/0/974/160.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/7/4dce2ea2-0f25-4a84-8a45-fc32d5ad5865.jpg?x-bce-process=image/format,f_auto",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://www.zhihu.com/question/2055448788882437948",
+          "image": "",
           "verdict": "先看",
-          "takeaway": "IT之家 7 月 8 日消息，小米 REDMI 红米手机官方微博今日放出了 REDMI Note 17 Pro 的新配色 ——「晴空蓝」外观图，宣称灵感源自清晨天空， 主打细腻渐变与微雾质感 。 今天上午，REDMI 红米手机官微宣布：“国民小金刚”Note 17 系列定档 7 月 14 日 19 时发布。该机号称升配不升档，守住中端体验基线，主打超长续航…",
-          "detail": "IT之家 7 月 8 日消息，小米 REDMI 红米手机官方微博今日放出了 REDMI Note 17 Pro 的新配色 ——「晴空蓝」外观图，宣称灵感源自清晨天空， 主打细腻渐变与微雾质感 。 今天上午，REDMI 红米手机官微宣布：“国民小金刚”Note 17 系列定档 7 月 14 日 19 时发布。该机号称升配不升档，守住中端体验基线，主打超长续航…",
+          "takeaway": "苹果追查 iPhone18Pro 泄密人员并下架爆料内容，此次事件暴露出苹果对产品信息管控的哪些问题？",
+          "detail": "苹果追查 iPhone18Pro 泄密人员并下架爆料内容，此次事件暴露出苹果对产品信息管控的哪些问题？",
           "keyPoints": [
-            "外观 / 配色 / 尺寸",
-            "电池 / 充电"
+            "爆料来源"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "auto-ec912c85aee9",
+          "title": "iPhone 相关消息",
+          "originalTitle": "",
+          "source": "9to5Mac",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-07-07",
+          "time": "17:42",
+          "publishedAt": "2026-07-07T17:42:20.000Z",
+          "url": "https://9to5mac.com/2026/07/07/weibo-leaker-says-iphone-18-pro-thickness-will-be-surprising/",
+          "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/05/iphone-18-pro-colors.jpg?quality=82&strip=all&w=1600",
+          "verdict": "先看",
+          "takeaway": "iPhone 相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
+          "detail": "iPhone 相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
+          "keyPoints": [
+            "爆料来源"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
