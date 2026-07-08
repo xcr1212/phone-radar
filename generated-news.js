@@ -1,6 +1,386 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-07-07T23:14:32.130Z",
+  "updatedAt": "2026-07-08T03:43:26.708Z",
   "news": [
+    {
+      "id": "auto-9acb14527b45",
+      "title": "三星 Galaxy A18 手机渲染图曝光，5G 版将改用高通芯片",
+      "source": "IT之家",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-08",
+      "time": "03:39",
+      "publishedAt": "2026-07-08T03:39:23.000Z",
+      "url": "https://www.ithome.com/0/973/932.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/7/37e78778-e1db-4a26-a007-cd4c69c0e9ee.jpg?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 7 月 8 日消息，科技媒体 smartphonechecker 昨日（7 月 7 日）发布博文，分享了一组渲染图，基于三星向手机配件厂商供应的 CAD 数据构建，展示了三星 Galaxy A18 手机。 外观方面，Galaxy A18 5G 机身尺寸为 164.4 × 77.8 × 7.84mm，含后摄凸起厚度为 9.74mm。相比较三星 Ga…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-84ff88314b76",
+      "title": "Redmi Note 17 series gets July 14 launch date as design, battery and key details surface",
+      "source": "Gizmochina",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-08",
+      "time": "03:35",
+      "publishedAt": "2026-07-08T03:35:58.000Z",
+      "url": "https://www.gizmochina.com/2026/07/08/redmi-note-17-series-launch-date-design-specifications/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/07/Redmi-Note-17-series-launch-date-225x300.jpg?x44794",
+      "summary": "Redmi has confirmed that the Note 17 series will make its debut in China on July 14. Alongside the launch date, the company has also revealed the first look at the upcoming smartp…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-d3fd03a03174",
+      "title": "JSCHEN小小狐：vivo X500 Pro 电池曝光：努力向 7 开头靠拢",
+      "source": "JSCHEN小小狐",
+      "brand": "vivo",
+      "model": "vivo 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-07-08",
+      "time": "03:23",
+      "publishedAt": "2026-07-08T03:23:04.000Z",
+      "url": "https://www.coolapk.com/feed/72696107",
+      "image": "http://image.coolapk.com/feed/2026/0708/11/4702274_214c3b4c_0983_0939_844@1440x581.jpg",
+      "summary": "『vivo X500 Pro 电池曝光：努力向 7 开头靠拢』 ◇ 基础设定 6500-6600mAh± ◇ 努力向 7000mAh 靠拢 vivo X500 Pro 已知信息如下： · 6.37± 英寸 1.5K LTPO 小尺寸直屏 · 2nm 天玑 9600 系列移动平台 · 50Mp 1/1.28'' LYTIA L910 LOFIC 主摄 · 6…",
+      "tags": [
+        "vivo",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "coolapk-user-1cb2c2345790",
+      "title": "竹本青：REDMI Note 17 Pro 抗摔预热：康宁GGV2玻璃",
+      "source": "竹本青",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-07-08",
+      "time": "03:01",
+      "publishedAt": "2026-07-08T03:01:48.000Z",
+      "url": "https://www.coolapk.com/feed/72695846",
+      "image": "http://image.coolapk.com/feed/2026/0708/11/4248714_503f6d55_9706_5433_118@1440x1920.jpg",
+      "summary": "【REDMI Note 17 Pro 抗摔预热：搭载康宁GGV2玻璃】 ● 康宁®大猩猩®玻璃 Victus®2 ● SGS／CQC金标双五星抗摔认证 ● 挑战3米大理石抗摔 #今日热点# #HyperOS3# #红米note17Pro#",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "coolapk-user-a8f9f3a1cbad",
+      "title": "竹本青：REDMI Note 17 Pro 新配色「晴空蓝」亮相",
+      "source": "竹本青",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-07-08",
+      "time": "02:01",
+      "publishedAt": "2026-07-08T02:01:30.000Z",
+      "url": "https://www.coolapk.com/feed/72695070",
+      "image": "http://image.coolapk.com/feed/2026/0708/10/4248714_d6035d49_6088_2435_331@1080x1080.jpg",
+      "summary": "【REDMI Note 17 Pro 新配色「晴空蓝」亮相】 官方介绍，该配色灵感源自清晨天空，用浅蓝色调、细腻渐变、微雾质感，把云层与晨光交融的轻盈感，留在掌心。 #今日热点# #红米note17Pro# #HyperOS3#",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-279adc7fb489",
+      "title": "澳大利亚最大电信公司 Telstra 服务故障，打车付不了钱、列车暂停运营",
+      "source": "IT之家",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-08",
+      "time": "01:54",
+      "publishedAt": "2026-07-08T01:54:39.000Z",
+      "url": "https://www.ithome.com/0/973/868.htm",
+      "image": "",
+      "summary": "IT之家 7 月 8 日消息，据路透社报道，当地时间 8 日（今天），澳大利亚最大电信公司 Telstra 发生服务中断，导致出租车支付系统和部分列车服务受到影响。澳大利亚政府称，此次故障波及 大量手机通话和连接 。 受通信故障影响，连接澳大利亚第二大城市 墨尔本和周边城镇的列车服务暂停 ，运营方建议乘客在条件允许的情况下推迟出行。 澳大利亚媒体报道称，由…",
+      "tags": [
+        "行业",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-e03c3e89ea6d",
+      "title": "The countdown to the Pixel 11 launch has officially begun",
+      "source": "Android Police",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-08",
+      "time": "01:48",
+      "publishedAt": "2026-07-08T01:48:50.000Z",
+      "url": "https://www.androidpolice.com/the-countdown-to-pixel-11-launch-has-officially-begun/",
+      "image": "",
+      "summary": "And it's happening in New York City",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-8760233a4fb1",
+      "title": "竹本青：【卢伟冰：Note 17系列 达成 REDMI最大电量，多维度保障为意外兜底】 ● 品质底线不妥协，以扎实用料挑战…",
+      "source": "竹本青",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-07-08",
+      "time": "01:12",
+      "publishedAt": "2026-07-08T01:12:34.000Z",
+      "url": "https://www.coolapk.com/feed/72694579",
+      "image": "http://image.coolapk.com/feed/2026/0708/09/4248714_517e8b92_3152_9465_30@1439x1601.jpg",
+      "summary": "【卢伟冰：Note 17系列 达成 REDMI最大电量，多维度保障为意外兜底】 ● 品质底线不妥协，以扎实用料挑战档位最强抗摔、最强防水，高筑耐用品质护城河； ● 续航能力大升级，顶级电池材料体系 + 空间架构优化，达成 REDMI 最大电量； ● 超长期多维度保障组合，为意外兜底，为安心加码，降低长期用机成本。 #今日热点# #HyperOS3# #红米…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-1f6dbce307c7",
+      "title": "小米 REDMI Note 17 系列手机发布定档 7 月 14 日，外观正式公开",
+      "source": "IT之家",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-08",
+      "time": "01:08",
+      "publishedAt": "2026-07-08T01:08:28.000Z",
+      "url": "https://www.ithome.com/0/973/851.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/7/c5e3c1cd-5091-47ac-94e9-8603ca44c879.jpg?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 7 月 8 日消息，今天上午，@REDMI红米手机 官微宣布：国民小金刚 Note 17 系列定档 7 月 14 日 19 时。该机号称升配不升档，守住中端体验基线；金刚品质更抗摔防水，超长续航更持久耐用。与此同时，官方公布了这款新机的外观设计。 延伸阅读 据IT之家此前报道，小米 Redmi Note 系列在 12 年间的全球累计销量已突破 5…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-dfb5b632b777",
+      "title": "竹本青：REDMI Note 17系列正式亮相，将于7月14日发布",
+      "source": "竹本青",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-07-08",
+      "time": "01:00",
+      "publishedAt": "2026-07-08T01:00:50.000Z",
+      "url": "https://www.coolapk.com/feed/72694468",
+      "image": "http://image.coolapk.com/feed/2026/0708/09/4248714_5eb7e196_2447_8159_947@2000x2667.jpg",
+      "summary": "【REDMI Note 17系列 正式亮相，将于7月14日发布】 7月8日，REDMI手机宣布 Note 17系列 定档 7月14日。新机号称“升配不升档，守住中端体验基线”，将带来更抗摔防水、超长续航的体验。 此前，有博主爆料称，REDMI Note 17系列 将搭载骁龙 6系平台，主打9K级单电芯电池+1.5K 大直屏+大音量双扬+满级防水防摔。 #今…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-9bbf43c61c96",
+      "title": "Apple announces changes to iOS in Brazil",
+      "source": "Apple Newsroom",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "官方",
+      "trust": "官方确认",
+      "date": "2026-07-08",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.apple.com/newsroom/2026/06/apple-announces-changes-to-ios-in-brazil/",
+      "image": "",
+      "summary": "Apple today announced changes impacting iOS apps in Brazil that reflect a recent agreement with Brazil’s competition regulator, CADE.",
+      "tags": [
+        "iPhone",
+        "官方",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "newsnow-c4d624662b17",
+      "title": "快捷指令｜让 iPhone 用上锤子的「大爆炸」",
+      "source": "少数派热榜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-07-08",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://sspai.com/post/111405",
+      "image": "",
+      "summary": "快捷指令｜让 iPhone 用上锤子的「大爆炸」",
+      "tags": [
+        "iPhone",
+        "评测",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-bb543d91a204",
+      "title": "iOS 剪贴板管理工具 Procut：换个方式收藏碎片化信息",
+      "source": "少数派热榜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-07-08",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://sspai.com/post/110950",
+      "image": "",
+      "summary": "iOS 剪贴板管理工具 Procut：换个方式收藏碎片化信息",
+      "tags": [
+        "iPhone",
+        "评测",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-e11566addd0e",
+      "title": "我记得酷友总结过一个图，要避开闲鱼的重灾区，重灾区有江西南昌这个地方吗？此人给的价格我还可以接受，要是不能卖这个地方的话，我在等等。 #一加15# #红米k90promax# #REDMIK90至尊版#",
+      "source": "酷安热榜",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-07-08",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/72687248",
+      "image": "",
+      "summary": "我记得酷友总结过一个图，要避开闲鱼的重灾区，重灾区有江西南昌这个地方吗？此人给的价格我还可以接受，要是不能卖这个地方的话，我在等等。 #一加15# #红米k90promax# #REDMIK90至尊版#",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-730dab6711ad",
+      "title": "#SmartisanOS# #手机美化# #锤子桌面#",
+      "source": "酷安热榜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-07-08",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/72676473",
+      "image": "",
+      "summary": "#SmartisanOS# #手机美化# #锤子桌面#",
+      "tags": [
+        "行业",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-4b306d600d8f",
+      "title": "iPhone Air2电池3500mAh±，2nm A20系列芯片，6.55英寸120Hz灵动岛屏幕，48Mp主摄超广角双镜头，3D人脸识别，或许是明年唯一超轻薄旗舰，家人们心动吗？价格小涨 1000 如何？",
+      "source": "酷安热榜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-07-08",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/72685018",
+      "image": "",
+      "summary": "iPhone Air2电池3500mAh±，2nm A20系列芯片，6.55英寸120Hz灵动岛屏幕，48Mp主摄超广角双镜头，3D人脸识别，或许是明年唯一超轻薄旗舰，家人们心动吗？价格小涨 1000 如何？",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-b6dff04f93a9",
+      "title": "小米 18 Pro Max 核心参数曝光：防窥直屏／双2亿影像",
+      "source": "酷安热榜",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-07-08",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/72667213",
+      "image": "",
+      "summary": "小米 18 Pro Max 核心参数曝光：防窥直屏／双2亿影像",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-d73c6d6d4946",
+      "title": "朋友们，这个系统有点陌生。我在双击电源键刷NFC交通卡的时候，它真的不能顺便一起把NFC打开吗？还要我手动打开一遍。相比之下，我的旧手机colorOS13就可以双击直接刷卡，非常丝滑。求教。 #HyperOS3# #ColorOS13# #小米15Ultra#",
+      "source": "酷安热榜",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-07-08",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/72674856",
+      "image": "",
+      "summary": "朋友们，这个系统有点陌生。我在双击电源键刷NFC交通卡的时候，它真的不能顺便一起把NFC打开吗？还要我手动打开一遍。相比之下，我的旧手机colorOS13就可以双击直接刷卡，非常丝滑。求教。 #HyperOS3# #ColorOS13# #小米15Ultra#",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-9f8069567441",
+      "title": "【点评】标准版，PRO版，PROmax都用了个遍了。先来个和mate系和Pura90PRO的对比~",
+      "source": "酷安热榜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-07-08",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/72690964",
+      "image": "",
+      "summary": "【点评】标准版，PRO版，PROmax都用了个遍了。先来个和mate系和Pura90PRO的对比~",
+      "tags": [
+        "行业",
+        "爆料",
+        "NewsNow"
+      ]
+    },
     {
       "id": "auto-1edda7e779d3",
       "title": "Google's Pixel 11 Event Set for August 12, a Month Before Apple Debuts Foldable iPhone",
@@ -142,26 +522,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-d35f1da29ece",
-      "title": "三星预热全新形态新品：预计为 Galaxy Z Fold8 阔折叠手机，搭载第五代骁龙 8 至尊版定制版芯片",
-      "source": "IT之家",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-07",
-      "time": "15:40",
-      "publishedAt": "2026-07-07T15:40:56.000Z",
-      "url": "https://www.ithome.com/0/973/809.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/7/df619a07-1007-40d6-88db-9e61e76b6927.jpg?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 7 月 7 日消息，三星 GALAXY 盖乐世官方微博昨晚发布视频， 预热了全新形态新品 。 从官方微博来看，这款新品将搭载 第五代骁龙 8 至尊版定制版芯片 （即第五代骁龙 8 至尊版 For Galaxy 芯片）。 官方预热视频画面显示，这款新品的比例比较特殊，与此前曝光的 Galaxy Z Fold8 阔折叠手机类似。 评论区也有网友猜测是…",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-ca23b8d6a3e8",
       "title": "Your chance to nab that new, wide Samsung Galaxy Z Fold 8 is nearly here",
       "source": "Android Authority",
@@ -242,66 +602,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-ccd80564180e",
-      "title": "谷歌 Pixel 11 系列手机价格曝光：取消 128GB 版、全系 256GB 起步，999 欧元起",
-      "source": "IT之家",
-      "brand": "Pixel",
-      "model": "Pixel 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-07",
-      "time": "14:53",
-      "publishedAt": "2026-07-07T14:53:30.000Z",
-      "url": "https://www.ithome.com/0/973/802.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/7/6904c2dd-34a8-4a4c-a245-1999558e4def.jpg?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 7 月 7 日消息，消息人士 billbil-kun 今天在 Dealabs 平台发文，为我们带来谷歌 Pixel 11 系列手机的售价信息。 据介绍，谷歌 Pixel 11 系列手机将彻底取消 128GB 版本， 全系机型都将升级至 256GB 起步 ，Pro、Pro XL 和 Pro Fold 机型额外提供 1TB 版本。 配色方面，Pixe…",
-      "tags": [
-        "Pixel",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "coolapk-user-c8bca8b357ae",
-      "title": "竹本青：【微信员工回应“临时好友”功能：今年已上线“面对面收照片和文件”能力】 7月7日，针对“微信能不能出一个临时好友功…",
-      "source": "竹本青",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-07-07",
-      "time": "14:29",
-      "publishedAt": "2026-07-07T14:29:50.000Z",
-      "url": "https://www.coolapk.com/feed/72690854",
-      "image": "http://image.coolapk.com/feed/2026/0707/22/4248714_4d7d485c_4589_5105_993@1272x1479.jpg",
-      "summary": "【微信员工回应“临时好友”功能：今年已上线“面对面收照片和文件”能力】 7月7日，针对“微信能不能出一个临时好友功能”相关热搜，微信员工“客村小蒋”发文回应： 有朋友已经发现了需要和陌生人临时发一些文件的解法，微信在今年春节前后有一个新能力“面对面收照片和文件”，在微信扫一扫的“我的二维码”就可以找到。 不用加好友，不同系统（iOS、安卓、鸿蒙）之间扫码就…",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
-      "id": "auto-457b46821b25",
-      "title": "华硕 ProArt B850-Creator WiFi Neo 主板上市：双 5GbE，2399 元",
-      "source": "IT之家",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-07",
-      "time": "14:17",
-      "publishedAt": "2026-07-07T14:17:02.000Z",
-      "url": "https://www.ithome.com/0/973/795.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/7/cf6251e1-c958-4fbf-94d5-0bbcb8f03e31.jpg?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 7 月 7 日消息，华硕 (ASUS) 现已在电商平台上架了 ProArt B850-Creator WiFi Neo 主板，售价 2399 元。 这一面向内容创作者的型号 提供了 2 个 5GbE RJ45 高速有线网口 ，配备 64MB BIOS Flash 芯片， 预留雷电 4 / USB4 接针 。 ProArt B850-Creator…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-6e1d7ebd508e",
       "title": "Google Pixel 11 prices leak, complete with major base storage shakeup",
       "source": "Android Authority",
@@ -337,46 +637,6 @@ window.phoneRadarAuto = {
       "summary": "A new leak reveals that Google is probably raising Pixel 11 series prices, finally ditching the 128GB storage option, and also aiming for a release date in August.",
       "tags": [
         "Pixel",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-357874fdcc57",
-      "title": "小米 REDMI Note 17 系列手机发布会时间“抢跑”，定档 7 月 14 日 19:00 直播",
-      "source": "IT之家",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-07",
-      "time": "13:16",
-      "publishedAt": "2026-07-07T13:16:17.000Z",
-      "url": "https://www.ithome.com/0/973/780.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/7/337b68ef-b407-47c2-909c-8cd80b76b75d.jpg",
-      "summary": "IT之家 7 月 7 日消息，7 月 2 日上午，小米 REDMI 红米手机宣布：REDMI Note 系列 12 年全球累计销量突破 5 亿台，新一代“小金刚”机型 —— Note 17 系列将于本月发布 。 IT之家注意到，REDMI 红米手机官方公众号页面提前泄露了 Note 17 系列手机发布会时间 —— 新品发布会直播将于 7 月 14 日（星期…",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-3cb585f22993",
-      "title": "三星回顾 Galaxy Z 系列折叠屏手机演变史：UTG 玻璃、IPX8 防水、柔性铰链共同提升耐用性",
-      "source": "IT之家",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-07",
-      "time": "13:08",
-      "publishedAt": "2026-07-07T13:08:31.000Z",
-      "url": "https://www.ithome.com/0/973/778.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/7/13c1cb31-c309-4ce8-a579-54c5d1bf172c.png",
-      "summary": "IT之家 7 月 7 日消息，三星官方昨日发布博文，回顾 Galaxy Z Fold 系列手机的演变史，并介绍历年来提升折叠屏手机耐用性的技术。 IT之家在此援引官方博文，三星从 2020 年的 Galaxy Z Flip 小折叠手机开始使用 UTG 超薄柔性玻璃，取代早期产品的聚合物（CPI）盖板。这种技术不仅带来了更加出色的触控体验，同时提升了设备的耐…",
-      "tags": [
-        "Samsung",
         "爆料",
         "自动抓取"
       ]
@@ -442,26 +702,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-abd13b7ce26a",
-      "title": "华为 Pura 90 Pro 系列手机获鸿蒙 HarmonyOS 6.1.0.130 升级，支持前置相机自动添加水印",
-      "source": "IT之家",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-07",
-      "time": "12:03",
-      "publishedAt": "2026-07-07T12:03:04.000Z",
-      "url": "https://www.ithome.com/0/973/762.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/5/d04891ff-4410-434b-9062-90345b3088b5.jpg?x-bce-process=image/format,f_auto/auto-orient,o_1",
-      "summary": "IT之家 7 月 7 日消息，华为 Pura 90 Pro 系列手机已开启鸿蒙 HarmonyOS 6.1.0.130 SP16 升级，系统包大小约 5.31GB，带来了前置相机自动添加水印、魔法移图贴纸等功能。 IT之家附华为 Pura 90 Pro 系列手机此次更新内容如下： 相机 前置相机新增自动添加水印功能，使用前置相机拍照可自动添加时间、地点等水…",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-b2eb03548103",
       "title": "Want the Galaxy Z Fold 8 or Z Flip 8 first? Mark tomorrow on your calendar",
       "source": "SamMobile",
@@ -477,26 +717,6 @@ window.phoneRadarAuto = {
       "summary": "According to multiple reports, Samsung will hold a Galaxy Unpacked event on July 22, 2026, where the brand will launch its new flagship smartphones with foldable displays, the Gal…",
       "tags": [
         "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-54a8a6558d6c",
-      "title": "扫描公共二维码竟跳转至涉黄网站，央视曝二维码黑灰产业渗透公共用品",
-      "source": "IT之家",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-07",
-      "time": "11:40",
-      "publishedAt": "2026-07-07T11:40:12.000Z",
-      "url": "https://www.ithome.com/0/973/755.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/7/c0fb6970-8624-4951-a073-d945a6427ecc.jpg",
-      "summary": "IT之家 7 月 7 日消息，用手机扫身边的二维码早已是我们习以为常的动作。但据央视新闻报道，今年 3 月，有网友发帖反映，自己在苏州上方山森林公园游玩时，扫描了园区接驳车上的一个二维码，没想到页面竟弹出涉黄内容。 无独有偶，今年 2 月底，北京也有网友截图反映，自己在扫描街边一个公共设施上的二维码时，页面被跳转到了涉黄网站。 IT之家注意到，多地网友也都…",
-      "tags": [
-        "行业",
         "爆料",
         "自动抓取"
       ]
@@ -674,29 +894,9 @@ window.phoneRadarAuto = {
       "publishedAt": "2026-07-07T07:52:52.000Z",
       "url": "https://www.coolapk.com/feed/72685591",
       "image": "http://image.coolapk.com/feed/2026/0707/15/4702274_dfe67f01_0771_1171_658@1440x408.jpg",
-      "summary": "『消息称华为阔直屏打样天马 / 万级大电池开模』 知名数码博主 数码闲聊站 发博表示，此前爆料的华为阔屏直板机，当前疑似打样天马显示屏。 据悉，该机已知信息如下： ◇ 6.39'' 屏幕，比例约 16:9 ◇ 麒麟 9 系处理器 ◇ 7000+mAh 电池 ◇ 超大底主摄 + 长焦 此外，他还提到华为当前已开模「万级大电池」，并表示其容量数值将高于 100…",
+      "summary": "『消息称华为阔直屏打样天马 / 万级大电池开模』 知名数码博主 数码闲聊站 发博表示，此前爆料的华为阔屏直板机，当前疑似打样天马显示屏。 据悉，该机已知信息如下： ◇ 6.39'' 屏幕，比例约 16:9 ◇ 麒麟 9 系旗舰处理器 ◇ 7000+mAh 大电池 ◇ 50Mp 1/1.3'' 超大底主摄 ◇ 50Mp 小底潜望 + 红枫 ◇ 整机「相对轻薄…",
       "tags": [
         "Huawei",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
-      "id": "coolapk-user-3f7abafc2567",
-      "title": "竹本青：荣耀X80 Pro Max 战报：连续十日安卓手机销量第一",
-      "source": "竹本青",
-      "brand": "HONOR",
-      "model": "HONOR 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-07-07",
-      "time": "07:47",
-      "publishedAt": "2026-07-07T07:47:55.000Z",
-      "url": "https://www.coolapk.com/feed/72685539",
-      "image": "http://image.coolapk.com/feed/2026/0707/15/4248714_d29d4735_0473_6355_897@1440x2562.jpg",
-      "summary": "【荣耀X80 Pro Max 再发首销战报：连续十日安卓手机销量第一】 荣耀手机今天宣布，X80 Pro Max 连续十日获得安卓手机销量第一。此前6月27日，该机官宣登顶2026年安卓新品首销日销量第一。 数据来源：荣耀大数据分析平台、腾讯数据 数据时间：2026年6月26日-2026年7月6日 #今日热点# #荣耀X80ProMax#",
-      "tags": [
-        "HONOR",
         "爆料",
         "酷安博主"
       ]
@@ -817,546 +1017,6 @@ window.phoneRadarAuto = {
       "summary": "Vivo is expected to unveil the Vivo X500 series of flagship phones in September this year. Therefore, with just a few months remaining before the launch, the X500 series models ar…",
       "tags": [
         "vivo",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-9bbf43c61c96",
-      "title": "Apple announces changes to iOS in Brazil",
-      "source": "Apple Newsroom",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "官方",
-      "trust": "官方确认",
-      "date": "2026-07-07",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.apple.com/newsroom/2026/06/apple-announces-changes-to-ios-in-brazil/",
-      "image": "",
-      "summary": "Apple today announced changes impacting iOS apps in Brazil that reflect a recent agreement with Brazil’s competition regulator, CADE.",
-      "tags": [
-        "iPhone",
-        "官方",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "newsnow-79379f67779b",
-      "title": "快捷指令｜让 iPhone 用上锤子的「大爆炸」",
-      "source": "少数派热榜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "评测",
-      "trust": "媒体汇总",
-      "date": "2026-07-07",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://sspai.com/post/111405",
-      "image": "",
-      "summary": "快捷指令｜让 iPhone 用上锤子的「大爆炸」",
-      "tags": [
-        "iPhone",
-        "评测",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-fefff9433ae3",
-      "title": "iOS 剪贴板管理工具 Procut：换个方式收藏碎片化信息",
-      "source": "少数派热榜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "评测",
-      "trust": "媒体汇总",
-      "date": "2026-07-07",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://sspai.com/post/110950",
-      "image": "",
-      "summary": "iOS 剪贴板管理工具 Procut：换个方式收藏碎片化信息",
-      "tags": [
-        "iPhone",
-        "评测",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-bdfc5c5316da",
-      "title": "我记得酷友总结过一个图，要避开闲鱼的重灾区，重灾区有江西南昌这个地方吗？此人给的价格我还可以接受，要是不能卖这个地方的话，我在等等。 #一加15# #红米k90promax# #REDMIK90至尊版#",
-      "source": "酷安热榜",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-07-07",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72687248",
-      "image": "",
-      "summary": "我记得酷友总结过一个图，要避开闲鱼的重灾区，重灾区有江西南昌这个地方吗？此人给的价格我还可以接受，要是不能卖这个地方的话，我在等等。 #一加15# #红米k90promax# #REDMIK90至尊版#",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-6eb312d1a8e6",
-      "title": "#SmartisanOS# #手机美化# #锤子桌面#",
-      "source": "酷安热榜",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-07-07",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72676473",
-      "image": "",
-      "summary": "#SmartisanOS# #手机美化# #锤子桌面#",
-      "tags": [
-        "行业",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-02544ba16eea",
-      "title": "小米 18 Pro Max 核心参数曝光：防窥直屏／双2亿影像",
-      "source": "酷安热榜",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-07-07",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72667213",
-      "image": "",
-      "summary": "小米 18 Pro Max 核心参数曝光：防窥直屏／双2亿影像",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-eca6ac818104",
-      "title": "iPhone Air2电池3500mAh±，2nm A20系列芯片，6.55英寸120Hz灵动岛屏幕，48Mp主摄超广角双镜头，3D人脸识别，或许是明年唯一超轻薄旗舰，家人们心动吗？价格小涨 1000 如何？",
-      "source": "酷安热榜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-07-07",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72685018",
-      "image": "",
-      "summary": "iPhone Air2电池3500mAh±，2nm A20系列芯片，6.55英寸120Hz灵动岛屏幕，48Mp主摄超广角双镜头，3D人脸识别，或许是明年唯一超轻薄旗舰，家人们心动吗？价格小涨 1000 如何？",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-e48c58f91068",
-      "title": "朋友们，这个系统有点陌生。我在双击电源键刷NFC交通卡的时候，它真的不能顺便一起把NFC打开吗？还要我手动打开一遍。相比之下，我的旧手机colorOS13就可以双击直接刷卡，非常丝滑。求教。 #HyperOS3# #ColorOS13# #小米15Ultra#",
-      "source": "酷安热榜",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-07-07",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72674856",
-      "image": "",
-      "summary": "朋友们，这个系统有点陌生。我在双击电源键刷NFC交通卡的时候，它真的不能顺便一起把NFC打开吗？还要我手动打开一遍。相比之下，我的旧手机colorOS13就可以双击直接刷卡，非常丝滑。求教。 #HyperOS3# #ColorOS13# #小米15Ultra#",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-6c1f855e53f4",
-      "title": "这里没人认识，说说今年吧，也好久没打开这个手机了",
-      "source": "酷安热榜",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-07-07",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72669162",
-      "image": "",
-      "summary": "这里没人认识，说说今年吧，也好久没打开这个手机了",
-      "tags": [
-        "行业",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "auto-0396368df776",
-      "title": "Big Samsung Galaxy Z Fold 8 display upgrade leaked ahead of launch",
-      "source": "Android Central",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "评测",
-      "trust": "媒体汇总",
-      "date": "2026-07-06",
-      "time": "17:16",
-      "publishedAt": "2026-07-06T17:16:19.000Z",
-      "url": "https://www.androidcentral.com/phones/samsung-galaxy/big-samsung-galaxy-z-fold-8-display-upgrade-leaked-ahead-of-launch",
-      "image": "https://cdn.mos.cms.futurecdn.net/wJS2cEbtY9VxafNeAhQ4t3-1280-80.jpg",
-      "summary": "The crease has been the one thing holding foldables back, and Samsung may have finally done something about it.",
-      "tags": [
-        "Samsung",
-        "评测",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-74cb144af15b",
-      "title": "T-Mobile will apparently give you a FREE Google Pixel 10 with \"most plans\" — but what does this mean?",
-      "source": "Android Central",
-      "brand": "Pixel",
-      "model": "Pixel 相关机型",
-      "type": "评测",
-      "trust": "媒体汇总",
-      "date": "2026-07-06",
-      "time": "17:13",
-      "publishedAt": "2026-07-06T17:13:00.000Z",
-      "url": "https://www.androidcentral.com/phones/google-pixel/t-mobile-will-apparently-give-you-a-free-google-pixel-10-with-most-plans-but-what-does-this-mean",
-      "image": "https://cdn.mos.cms.futurecdn.net/fQh232p5B2NsQY3NqTQvue-1280-80.jpg",
-      "summary": "T-Mobile has launched a promotion that gets you a free phone when you add a line on \"most plans\", including the top-rated Google Pixel 10.",
-      "tags": [
-        "Pixel",
-        "评测",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-b669024e48a5",
-      "title": "Vivo X300e vs Vivo X300 FE: Should you wait for the X300e?",
-      "source": "Gizmochina",
-      "brand": "vivo",
-      "model": "vivo 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-06",
-      "time": "14:16",
-      "publishedAt": "2026-07-06T14:16:25.000Z",
-      "url": "https://www.gizmochina.com/2026/07/06/vivo-x300e-vs-vivo-x300-fe-comparison/",
-      "image": "https://www.gizmochina.com/wp-content/uploads/2026/07/Vivo-X300e-vs-Vivo-X300-FE-300x166.png?x44794",
-      "summary": "Just when it seemed that Vivo was done with the Vivo X300 series as it gears up for the Vivo X500 series launch in September, recent reports have revealed the existence of a new X…",
-      "tags": [
-        "vivo",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-c579f03e7111",
-      "title": "iPhone 18 Pro Max vs Pro: Leak reveals Apple’s plan to differentiate models",
-      "source": "9to5Mac",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-06",
-      "time": "14:10",
-      "publishedAt": "2026-07-06T14:10:02.000Z",
-      "url": "https://9to5mac.com/2026/07/06/iphone-18-pro-max-vs-pro-leak-reveals-apples-plan-to-differentiate-models/",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/iphone-18-pro-pro-max-mockup-di.jpg?quality=82&strip=all&w=1600",
-      "summary": "Every year, the iPhone Pro models share nearly every feature in common apart from screen size. But at times, Apple gives the Pro Max model a special advantage, and a new leak indi…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-d6f1d6794c2a",
-      "title": "iQOO Z11 series phone officially teased, here’s what to expect",
-      "source": "Gizmochina",
-      "brand": "vivo",
-      "model": "vivo 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-06",
-      "time": "13:36",
-      "publishedAt": "2026-07-06T13:36:42.000Z",
-      "url": "https://www.gizmochina.com/2026/07/06/iqoo-z11-india-officially-teased/",
-      "image": "https://www.gizmochina.com/wp-content/uploads/2026/07/iQOO-Z11-teaser-240x300.jpg?x44794",
-      "summary": "While iQOO has launched multiple Z11-series phones in China, the Indian market has only received a single device dubbed the iQOO Z11x. Now, the brand has officially started teasin…",
-      "tags": [
-        "vivo",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-178af92e2f55",
-      "title": "Apple radio chips switch likely to take five more years, suggests Broadcom deal",
-      "source": "9to5Mac",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-06",
-      "time": "13:25",
-      "publishedAt": "2026-07-06T13:25:26.000Z",
-      "url": "https://9to5mac.com/2026/07/06/apple-radio-chips-switch-likely-to-take-five-more-years-suggests-broadcom-deal/",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/03/c2-02.jpeg?quality=82&strip=all&w=1600",
-      "summary": "The next generation of Apple radio chips is expected to debut in the iPhone 18 Pro and iPhone Ultra , but a new deal suggests the company doesn’t expect to complete a switch to it…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-b0c2a2945f38",
-      "title": "iQOO 16 India launch could be skipped because of this reason",
-      "source": "Gizmochina",
-      "brand": "vivo",
-      "model": "vivo 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-06",
-      "time": "12:57",
-      "publishedAt": "2026-07-06T12:57:01.000Z",
-      "url": "https://www.gizmochina.com/2026/07/06/iqoo-16-india-launch-could-be-skipped-because-of-this-reason/",
-      "image": "https://www.gizmochina.com/wp-content/uploads/2025/12/iQOO-15-halo-300x225.jpg?x44794",
-      "summary": "The rumor mill has been actively leaking details about the iQOO 16, which is expected to break cover in October this year in China. iQOO usually follows a pattern of first announc…",
-      "tags": [
-        "vivo",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-06a807845c50",
-      "title": "Leak suggests Samsung’s upcoming Galaxy S27 Pro faces a serious hardware identity crisis",
-      "source": "Android Authority",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-06",
-      "time": "12:15",
-      "publishedAt": "2026-07-06T12:15:57.000Z",
-      "url": "https://www.androidauthority.com/samsung-galaxy-s27-pro-exynos-snapdragon-split-leak-3684410/",
-      "image": "https://www.androidauthority.com/wp-content/uploads/2026/04/Samsung-Galaxy-S26-vs-Ultra-3-scaled.jpg",
-      "summary": "The new model could promise Ultra-level specs without the S Pen, but a regional chip split may ruin the illusion.",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-83d5c8b8a337",
-      "title": "Here’s how to turn any iPhone into a dumb phone for you or your kids",
-      "source": "9to5Mac",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-06",
-      "time": "11:49",
-      "publishedAt": "2026-07-06T11:49:48.000Z",
-      "url": "https://9to5mac.com/2026/07/06/heres-how-to-turn-any-iphone-into-a-dumb-phone-for-you-or-your-kids/",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/Heres-how-to-turn-any-iPhone-into-a-dumb-phone-for-you-or-your-kids.jpg?quality=82&strip=all&w=1600",
-      "summary": "One of the big challenges for parents these days is that you may want to give your kids access to a phone for emergencies or tracking before you are willing to give them access to…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-7e129c4cfe20",
-      "title": "Limited initial availability of the iPhone Ultra may be a feature, not a bug",
-      "source": "9to5Mac",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-06",
-      "time": "11:20",
-      "publishedAt": "2026-07-06T11:20:23.000Z",
-      "url": "https://9to5mac.com/2026/07/06/limited-initial-availability-of-the-iphone-ultra-may-be-a-feature-not-a-bug/",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/iphone-fold-ultra-ios-27-leak.jpg?quality=82&strip=all&w=1600",
-      "summary": "After conflicting reports about when the iPhone Ultra would launch, there’s now a clear consensus that it will be announced in September alongside the iPhone 18 Pro. It does, howe…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-e61ccb0dc2c4",
-      "title": "Vivo X300e clears all major certifications, launch imminent",
-      "source": "Gizmochina",
-      "brand": "vivo",
-      "model": "vivo 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-06",
-      "time": "10:24",
-      "publishedAt": "2026-07-06T10:24:49.000Z",
-      "url": "https://www.gizmochina.com/2026/07/06/vivo-x300e-3c-certified/",
-      "image": "https://www.gizmochina.com/wp-content/uploads/2026/06/Vivo-X300-FE-black-300x225.jpg?x44794",
-      "summary": "A Vivo device bearing the model number V2612A was recently approved by China’s TENAA certification platform, revealing its key specifications. Soon after, Chinese tech bloggers cl…",
-      "tags": [
-        "vivo",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-3916aaa201f3",
-      "title": "OnePlus is allegedly honoring warranties with vouchers nobody asked for, and users aren’t happy",
-      "source": "Android Authority",
-      "brand": "HONOR",
-      "model": "HONOR 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-06",
-      "time": "10:16",
-      "publishedAt": "2026-07-06T10:16:51.000Z",
-      "url": "https://www.androidauthority.com/oneplus-eu-warranty-swapped-for-useless-voucher-3684328/",
-      "image": "https://www.androidauthority.com/wp-content/uploads/2026/04/OnePlus-Nord-6-outdoors-scaled.jpg",
-      "summary": "These €100 vouchers can't be redeemed because nearly everything is out of stock or already discounted.",
-      "tags": [
-        "HONOR",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-fe85fbd2e05e",
-      "title": "Galaxy S27 Ultra reportedly being tested with 5,600mAh and 5,800mAh batteries",
-      "source": "Gizmochina",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-06",
-      "time": "07:43",
-      "publishedAt": "2026-07-06T07:43:21.000Z",
-      "url": "https://www.gizmochina.com/2026/07/06/galaxy-s27-ultra-reportedly-being-tested-with-5600mah-and-5800mah-batteries/",
-      "image": "https://www.gizmochina.com/wp-content/uploads/2026/07/Samsung-Galaxy-S27-Ultra-Ai-render-1024x577-1-300x169.webp?x44794",
-      "summary": "Battery life has become one of the biggest battlegrounds for smartphones. For years, Samsung has been fairly conservative with the battery in its Galaxy S Ultra models, and many f…",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-509f2ee27961",
-      "title": "Global Vivo X500 Pro Max bags an important certification",
-      "source": "Gizmochina",
-      "brand": "vivo",
-      "model": "vivo 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-06",
-      "time": "07:04",
-      "publishedAt": "2026-07-06T07:04:58.000Z",
-      "url": "https://www.gizmochina.com/2026/07/06/vivo-x500-pro-max-global-tkdn-certification/",
-      "image": "https://www.gizmochina.com/wp-content/uploads/2025/12/Screenshot-2025-12-10-205154-300x247.png?x44794",
-      "summary": "Vivo is reportedly working on the Vivo X500 series for multiple markets. Reports suggest that it may break cover in September in China, and it now appears that its global launch m…",
-      "tags": [
-        "vivo",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-71f5f6404d66",
-      "title": "iPhone Air 当主力机用了三个多月后，我为什么还是换不掉它",
-      "source": "少数派",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "评测",
-      "trust": "媒体汇总",
-      "date": "2026-07-06",
-      "time": "07:00",
-      "publishedAt": "2026-07-06T07:00:00.000Z",
-      "url": "https://sspai.com/post/111113",
-      "image": "",
-      "summary": "但恰恰是这些取舍让我重新开始思考：什么才是真正重要的体验。",
-      "tags": [
-        "iPhone",
-        "评测",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-0c0a509a4d7f",
-      "title": "Galaxy Z Fold 8 and Fold 8 Ultra tipped to match OPPO’s nearly invisible crease",
-      "source": "Android Authority",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-06",
-      "time": "06:45",
-      "publishedAt": "2026-07-06T06:45:37.000Z",
-      "url": "https://www.androidauthority.com/samsung-galaxy-z-fold-8-crease-3684302/",
-      "image": "https://www.androidauthority.com/wp-content/uploads/2025/07/Samsung-Galaxy-Z-Fold-7-flat-on-table-showing-inner-display-crease.jpg",
-      "summary": "Samsung has reportedly changed the hinge to nearly eliminate the crease.",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-375023819d5f",
-      "title": "Huawei announces Pura 90 series global launch for next week",
-      "source": "Gizmochina",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-06",
-      "time": "06:00",
-      "publishedAt": "2026-07-06T06:00:39.000Z",
-      "url": "https://www.gizmochina.com/2026/07/06/huawei-announces-pura-90-series-global-launch-for-next-week/",
-      "image": "https://www.gizmochina.com/wp-content/uploads/2026/04/Huawei-Pura-90-Pro-Design-and-Colors-300x200.jpg?x44794",
-      "summary": "Huawei has confirmed it will host a flagship launch event themed “Now is Your Moment” in Kuala Lumpur, Malaysia, on July 14. At the event, the company will introduce the Pura 90 s…",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-35cb09e0e9d1",
-      "title": "Here’s the first look at the Redmi Note 17 and Note 17 Pro",
-      "source": "Gizmochina",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-06",
-      "time": "05:32",
-      "publishedAt": "2026-07-06T05:32:04.000Z",
-      "url": "https://www.gizmochina.com/2026/07/06/redmi-note-17-note-17-pro-first-look-design-leak/",
-      "image": "https://www.gizmochina.com/wp-content/uploads/2026/07/Redmi-Note-17-300x226.jpg?x44794",
-      "summary": "Redmi is all set to announce the Redmi Note 17 series this month. Reports suggest that the lineup may include at least four models, such as the Redmi Note 17R, Note 17, Note 17 Pr…",
-      "tags": [
-        "Xiaomi",
         "爆料",
         "自动抓取"
       ]
