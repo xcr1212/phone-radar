@@ -1,12 +1,12 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-07-08T19:55:08.305Z",
+  "updatedAt": "2026-07-08T21:30:34.321Z",
   "issueDate": "2026-07-08",
   "issue": "VOL.260708",
   "title": "手机情报日报",
-  "intro": "今日筛出 8 条重点，其中 8 条是重点爆料，包含 5 条 iPhone 相关、0 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 8 条重点，其中 8 条是重点爆料，包含 3 条 iPhone 相关、0 条官方确认、0 条参数线索。",
   "stats": {
     "total": 8,
-    "iphone": 5,
+    "iphone": 3,
     "leaks": 8,
     "official": 0,
     "specs": 0
@@ -17,30 +17,6 @@ window.phoneRadarDaily = {
       "title": "重点爆料",
       "hint": "机模、配色、影像、屏幕、电池和芯片线索先看。",
       "items": [
-        {
-          "id": "newsnow-b085e40780ac",
-          "title": "看到有人说iPhone折叠屏售价在2300美金-2500美金，按照以往国行的定价规律推算一下，这机器的起售价很有可能在18999人民币，这一算感觉有点吓人了，所以买么各位。",
-          "originalTitle": "",
-          "source": "酷安热榜",
-          "brand": "iPhone",
-          "type": "爆料",
-          "trust": "高关注爆料源",
-          "date": "2026-07-08",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://www.coolapk.com/feed/72681803",
-          "image": "",
-          "verdict": "先看",
-          "takeaway": "看到有人说iPhone折叠屏售价在2300美金-2500美金，按照以往国行的定价规律推算一下，这机器的起售价很有可能在18999人民币，这一算感觉有点吓人了，所以买么各位。",
-          "detail": "看到有人说iPhone折叠屏售价在2300美金-2500美金，按照以往国行的定价规律推算一下，这机器的起售价很有可能在18999人民币，这一算感觉有点吓人了，所以买么各位。",
-          "keyPoints": [
-            "屏幕形态",
-            "成本 / 价格"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
         {
           "id": "weibo-940d3bfaa83d",
           "title": "数码闲聊站：iPhone Air2，供应链预测电池3500mAh±，2nm A20系列芯片…",
@@ -91,23 +67,23 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
-          "id": "newsnow-c1a898a1ce96",
-          "title": "苹果追查 iPhone18Pro 泄密人员并下架爆料内容，此次事件暴露出苹果对产品信息管控的哪些问题？",
+          "id": "auto-f6437f5c2050",
+          "title": "iPhone 系统功能 / AI 体验相关消息",
           "originalTitle": "",
-          "source": "知乎热榜",
+          "source": "MacRumors",
           "brand": "iPhone",
-          "type": "市场报告",
+          "type": "爆料",
           "trust": "媒体汇总",
           "date": "2026-07-08",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://www.zhihu.com/question/2055448788882437948",
-          "image": "",
+          "time": "19:59",
+          "publishedAt": "2026-07-08T19:59:19.000Z",
+          "url": "https://www.macrumors.com/2026/07/08/mario-kart-tour-shutting-down/",
+          "image": "https://images.macrumors.com/article-new/2026/07/mario-kart-tour.jpg",
           "verdict": "先看",
-          "takeaway": "苹果追查 iPhone18Pro 泄密人员并下架爆料内容，此次事件暴露出苹果对产品信息管控的哪些问题？",
-          "detail": "苹果追查 iPhone18Pro 泄密人员并下架爆料内容，此次事件暴露出苹果对产品信息管控的哪些问题？",
+          "takeaway": "iPhone 系统功能 / AI 体验相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
+          "detail": "iPhone 系统功能 / AI 体验相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
           "keyPoints": [
-            "爆料来源"
+            "爆料"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
@@ -129,29 +105,6 @@ window.phoneRadarDaily = {
           "verdict": "先看",
           "takeaway": "iPhone 相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
           "detail": "iPhone 相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
-          "keyPoints": [
-            "爆料来源"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "auto-0c603e8bc45b",
-          "title": "iPhone 系统功能 / AI 体验相关消息",
-          "originalTitle": "",
-          "source": "9to5Mac",
-          "brand": "iPhone",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-07-07",
-          "time": "11:00",
-          "publishedAt": "2026-07-07T11:00:35.000Z",
-          "url": "https://9to5mac.com/2026/07/07/leaker-backs-reports-of-two-iphone-air-2-improvements-with-more-detail/",
-          "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/11/iphone-air-2-cameras.jpg?quality=82&strip=all&w=1600",
-          "verdict": "先看",
-          "takeaway": "iPhone 有系统功能或 AI 体验更新，适合关注后续是否影响日常使用。",
-          "detail": "iPhone 系统功能 / AI 体验相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
           "keyPoints": [
             "爆料来源"
           ],
@@ -204,6 +157,53 @@ window.phoneRadarDaily = {
             "电池 / 充电"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "weibo-a5572fe596bb",
+          "title": "数码闲聊站：目前红米/一加/iQOO都完成了新一轮调价，骁龙8E机型来到3K档，8E5机型…",
+          "originalTitle": "",
+          "source": "数码闲聊站",
+          "brand": "OPPO",
+          "type": "爆料",
+          "trust": "高关注爆料源",
+          "date": "2026-07-07",
+          "time": "09:18",
+          "publishedAt": "2026-07-07T09:18:00.000Z",
+          "url": "https://weibo.com/6048569942/R7AHT0MYb",
+          "image": "",
+          "verdict": "先看",
+          "takeaway": "目前红米/一加/iQOO都完成了新一轮调价，骁龙8E机型来到3K档，8E5机型来到5K档。 基本对应之前的预测，子系骁龙8E6 Pro大屏旗舰迭代，12+256GB定价是6K档位；骁龙8E5大屏次旗舰迭代，12+256GB定价是4K档位。 以上预测为中位数，最终价格上下浮动一点[吃瓜]",
+          "detail": "目前红米/一加/iQOO都完成了新一轮调价，骁龙8E机型来到3K档，8E5机型来到5K档。 基本对应之前的预测，子系骁龙8E6 Pro大屏旗舰迭代，12+256GB定价是6K档位；骁龙8E5大屏次旗舰迭代，12+256GB定价是4K档位。 以上预测为中位数，最终价格上下浮动一点[吃瓜]",
+          "keyPoints": [
+            "成本 / 价格",
+            "爆料来源"
+          ],
+          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "coolapk-user-ed6d11b3a070",
+          "title": "竹本青：【REDMI Note 17 Pro 屏幕预热：1.5K 旗舰直屏，峰值亮度3500nits】 ▫️REDMI N…",
+          "originalTitle": "",
+          "source": "竹本青",
+          "brand": "Xiaomi",
+          "type": "爆料",
+          "trust": "高可信爆料",
+          "date": "2026-07-08",
+          "time": "17:18",
+          "publishedAt": "2026-07-08T17:18:02.000Z",
+          "url": "https://www.coolapk.com/feed/72706263",
+          "image": "http://image.coolapk.com/feed/2026/0709/01/4248714_436af135_1080_9227_665@1080x1440.jpg",
+          "verdict": "先看",
+          "takeaway": "【REDMI Note 17 Pro 屏幕预热：1.5K 旗舰直屏，峰值亮度3500nits】 ▫️REDMI Note 最强屏幕 ▫️1.5K 直屏／旗舰级发光材料 ▫️3500nits 局部峰值+1nit 暗光 ▫️支持小米青山护眼技术 #今日热点# #HyperOS3# #红米note17Pro#",
+          "detail": "【REDMI Note 17 Pro 屏幕预热：1.5K 旗舰直屏，峰值亮度3500nits】 ▫️REDMI Note 最强屏幕 ▫️1.5K 直屏／旗舰级发光材料 ▫️3500nits 局部峰值+1nit 暗光 ▫️支持小米青山护眼技术 #今日热点# #HyperOS3# #红米note17Pro#",
+          "keyPoints": [
+            "屏幕形态"
+          ],
+          "confidence": "可信度较高，但仍属于发布前线索。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         }
