@@ -1,11 +1,11 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-07-09T04:12:54.602Z",
+  "updatedAt": "2026-07-09T07:52:25.578Z",
   "issueDate": "2026-07-09",
   "issue": "VOL.260709",
   "title": "手机情报日报",
-  "intro": "今日筛出 9 条重点，其中 8 条是重点爆料，包含 4 条 iPhone 相关、0 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 12 条重点，其中 8 条是重点爆料，包含 4 条 iPhone 相关、0 条官方确认、0 条参数线索。",
   "stats": {
-    "total": 9,
+    "total": 12,
     "iphone": 4,
     "leaks": 8,
     "official": 0,
@@ -18,47 +18,23 @@ window.phoneRadarDaily = {
       "hint": "机模、配色、影像、屏幕、电池和芯片线索先看。",
       "items": [
         {
-          "id": "auto-0a826cd4824a",
-          "title": "消息称苹果 iPhone 18 Pro 的 A20 Pro 芯片沿用 LPDDR5X 架构，升级 6 通道 96-bit 位宽",
+          "id": "auto-e9f08411c450",
+          "title": "CounterPoint：苹果 iPhone 18 Pro Max 硬件成本比上一代大涨近 300 美元，2nm A20 Pro 芯片与存储涨价成主因",
           "originalTitle": "",
           "source": "IT之家",
           "brand": "iPhone",
           "type": "爆料",
           "trust": "媒体汇总",
           "date": "2026-07-09",
-          "time": "02:01",
-          "publishedAt": "2026-07-09T02:01:14.000Z",
-          "url": "https://www.ithome.com/0/974/336.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/7/21994b79-03e5-4a49-9e54-5a93bb5cf9b8.jpg",
+          "time": "04:22",
+          "publishedAt": "2026-07-09T04:22:10.000Z",
+          "url": "https://www.ithome.com/0/974/466.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/7/9c352bef-7624-4a00-be24-0ea5dee059a4.png?x-bce-process=image/format,f_auto",
           "verdict": "先看",
-          "takeaway": "IT之家 7 月 9 日消息，科技媒体 Wccftech 昨日（7 月 8 日）发布博文，报道称苹果 iPhone 18 Pro 和 iPhone 18 Pro Max 上装备的 A20 Pro 芯片不会升级至 LPDDR6，会继续采用 LPDDR5X 内存，但会升级内存性能。 IT之家查询公开资料，A19 Pro 芯片采用 4 通道 LPDDR5X 内存…",
-          "detail": "IT之家 7 月 9 日消息，科技媒体 Wccftech 昨日（7 月 8 日）发布博文，报道称苹果 iPhone 18 Pro 和 iPhone 18 Pro Max 上装备的 A20 Pro 芯片不会升级至 LPDDR6，会继续采用 LPDDR5X 内存，但会升级内存性能。 IT之家查询公开资料，A19 Pro 芯片采用 4 通道 LPDDR5X 内存…",
+          "takeaway": "IT之家 7 月 9 日消息，Counterpoint Research 于当地时间 7 月 8 日发布了一份物料清单（BoM）成本对比报告。 Counterpoint Research 分析师指出，预计今年 9 月发布的 iPhone 18 Pro Max（12GB+1TB 版本），其硬件成本相比上一代 iPhone 17 Pro Max 将上涨近 30…",
+          "detail": "IT之家 7 月 9 日消息，Counterpoint Research 于当地时间 7 月 8 日发布了一份物料清单（BoM）成本对比报告。 Counterpoint Research 分析师指出，预计今年 9 月发布的 iPhone 18 Pro Max（12GB+1TB 版本），其硬件成本相比上一代 iPhone 17 Pro Max 将上涨近 30…",
           "keyPoints": [
             "芯片 / 性能",
-            "爆料来源"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "newsnow-9b894836dac1",
-          "title": "看到有人说iPhone折叠屏售价在2300美金-2500美金，按照以往国行的定价规律推算一下，这机器的起售价很有可能在18999人民币，这一算感觉有点吓人了，所以买么各位。",
-          "originalTitle": "",
-          "source": "酷安热榜",
-          "brand": "iPhone",
-          "type": "爆料",
-          "trust": "高关注爆料源",
-          "date": "2026-07-09",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://www.coolapk.com/feed/72681803",
-          "image": "",
-          "verdict": "先看",
-          "takeaway": "看到有人说iPhone折叠屏售价在2300美金-2500美金，按照以往国行的定价规律推算一下，这机器的起售价很有可能在18999人民币，这一算感觉有点吓人了，所以买么各位。",
-          "detail": "看到有人说iPhone折叠屏售价在2300美金-2500美金，按照以往国行的定价规律推算一下，这机器的起售价很有可能在18999人民币，这一算感觉有点吓人了，所以买么各位。",
-          "keyPoints": [
-            "屏幕形态",
             "成本 / 价格"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
@@ -89,48 +65,69 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
-          "id": "auto-4b6f80389273",
-          "title": "思特威发布全新 50MP 手机 CMOS 新品 SC570XS，搭载 Lofic HDR 3.0 技术",
+          "id": "auto-6a361caa9737",
+          "title": "消息称“全球首款机器人手机”荣耀 Robot Phone 手机 8 月上市，Magic9 系列暂定 10 月登场",
           "originalTitle": "",
           "source": "IT之家",
-          "brand": "Pixel",
+          "brand": "HONOR",
           "type": "爆料",
           "trust": "媒体汇总",
           "date": "2026-07-09",
-          "time": "02:41",
-          "publishedAt": "2026-07-09T02:41:45.000Z",
-          "url": "https://www.ithome.com/0/974/378.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/7/2807a215-71c3-4a60-9f93-9e7d824b665f.png",
+          "time": "07:29",
+          "publishedAt": "2026-07-09T07:29:32.000Z",
+          "url": "https://www.ithome.com/0/974/526.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/7/f4ad0851-be33-4877-9bfe-57c86e31bf13.jpg?x-bce-process=image/format,f_auto",
           "verdict": "先看",
-          "takeaway": "IT之家 7 月 9 日消息，思特威今日发布 5000 万像素 1.0μm 像素尺寸超高动态范围 CMOS 图像传感器 —— SC570XS ，面向中高端智能手机及消费类影像应用打造。 基于思特威 SmartClarity-XL Pro 技术平台，SC570XS 采用 22nm Stack 工艺制程，集成思特威 Lofic HDR 3.0、SFCPixel…",
-          "detail": "IT之家 7 月 9 日消息，思特威今日发布 5000 万像素 1.0μm 像素尺寸超高动态范围 CMOS 图像传感器 —— SC570XS ，面向中高端智能手机及消费类影像应用打造。 基于思特威 SmartClarity-XL Pro 技术平台，SC570XS 采用 22nm Stack 工艺制程，集成思特威 Lofic HDR 3.0、SFCPixel…",
+          "takeaway": "IT之家 7 月 9 日消息，博主 @智慧皮卡丘 发文，透露荣耀 Robot Phone 和 Magic9 系列手机“暂定分开发”，其中 Robot Phone 将于下月（8 月）上市，而 Magic9 系列将于 10 月上市，同时博主还在评论区透露 Magic9 系列手机继续主打防抖。 参考IT之家先前报道，荣耀 Robot Phone 于今年 3 月发…",
+          "detail": "IT之家 7 月 9 日消息，博主 @智慧皮卡丘 发文，透露荣耀 Robot Phone 和 Magic9 系列手机“暂定分开发”，其中 Robot Phone 将于下月（8 月）上市，而 Magic9 系列将于 10 月上市，同时博主还在评论区透露 Magic9 系列手机继续主打防抖。 参考IT之家先前报道，荣耀 Robot Phone 于今年 3 月发…",
           "keyPoints": [
-            "外观 / 配色 / 尺寸",
-            "影像硬件"
+            "爆料来源"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
-          "id": "auto-074a17cb3829",
-          "title": "REDMI Note 17 Pro 搭载 9000mAh 小米金沙江电池，支持 67W 快充 + 22.5W 有线反充",
+          "id": "auto-5805bdcb24e2",
+          "title": "增幅超 50%：消息称三星 Galaxy S26 系列手机 7 月产量上调至 150 万部",
           "originalTitle": "",
           "source": "IT之家",
-          "brand": "Xiaomi",
+          "brand": "Samsung",
           "type": "爆料",
           "trust": "媒体汇总",
           "date": "2026-07-09",
-          "time": "01:04",
-          "publishedAt": "2026-07-09T01:04:44.000Z",
-          "url": "https://www.ithome.com/0/974/314.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/7/585ec3b1-fb6b-4352-a635-8c19e7a79914.jpg?x-bce-process=image/format,f_auto",
+          "time": "07:26",
+          "publishedAt": "2026-07-09T07:26:35.000Z",
+          "url": "https://www.ithome.com/0/974/523.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/2/ed59fe99-7517-4014-a08b-bda7fe796d5e.jpg?x-bce-process=image/auto-orient,o_1",
           "verdict": "先看",
-          "takeaway": "IT之家 7 月 9 日消息，小米 REDMI Note 17 系列已经官宣 7 月 14 日发布，小米官方今日继续为新机进行预热宣传。 据介绍，Note 17 Pro 搭载了 9000mAh 小米金沙江电池，通过 TÜV 南德电池多维五星品质认证，支持 67W 有线充电，22.5W 有线反充。 小米表示，REDMI Note 17 系列定位“国民小金刚”…",
-          "detail": "IT之家 7 月 9 日消息，小米 REDMI Note 17 系列已经官宣 7 月 14 日发布，小米官方今日继续为新机进行预热宣传。 据介绍，Note 17 Pro 搭载了 9000mAh 小米金沙江电池，通过 TÜV 南德电池多维五星品质认证，支持 67W 有线充电，22.5W 有线反充。 小米表示，REDMI Note 17 系列定位“国民小金刚”…",
+          "takeaway": "IT之家 7 月 9 日消息，韩媒 ETNews 今天（7 月 9 日）发布博文，报道称三星上调 7 月 Galaxy S26 系列手机产量， 从原定约 100 万部上调至 150 万部以上，增幅超过 50%。 消息源称三星已向元件供应商提出增产请求，而且不排除根据市场后续销量继续扩产的可能。 IT之家援引博文介绍，本次扩产的原因，该媒体认为主要来自 2…",
+          "detail": "IT之家 7 月 9 日消息，韩媒 ETNews 今天（7 月 9 日）发布博文，报道称三星上调 7 月 Galaxy S26 系列手机产量， 从原定约 100 万部上调至 150 万部以上，增幅超过 50%。 消息源称三星已向元件供应商提出增产请求，而且不排除根据市场后续销量继续扩产的可能。 IT之家援引博文介绍，本次扩产的原因，该媒体认为主要来自 2…",
           "keyPoints": [
-            "电池 / 充电",
-            "芯片 / 性能"
+            "爆料来源"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "auto-fe59f98962c4",
+          "title": "三星 Galaxy Z Fold8 Ultra 折叠手机渲染图曝光：主打紫色",
+          "originalTitle": "",
+          "source": "IT之家",
+          "brand": "Samsung",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-07-09",
+          "time": "04:48",
+          "publishedAt": "2026-07-09T04:48:11.000Z",
+          "url": "https://www.ithome.com/0/974/474.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/7/d06bc349-282f-44a6-a467-533bb0fc099a.png?x-bce-process=image/format,f_auto",
+          "verdict": "先看",
+          "takeaway": "IT之家 7 月 9 日消息，科技媒体 Android Headline 昨日（7 月 8 日）发布博文，在 分享 Galaxy Z Flip8 折叠手机渲染图后 ，再次分享了一组渲染图， 展示三星 Galaxy Z Fold8 Ultra 手机渲染图。 颜色方面，三星 Galaxy Z Fold8 Ultra 会有白色、黑色和紫色三种颜色，而绿色版将作为…",
+          "detail": "IT之家 7 月 9 日消息，科技媒体 Android Headline 昨日（7 月 8 日）发布博文，在 分享 Galaxy Z Flip8 折叠手机渲染图后 ，再次分享了一组渲染图， 展示三星 Galaxy Z Fold8 Ultra 手机渲染图。 颜色方面，三星 Galaxy Z Fold8 Ultra 会有白色、黑色和紫色三种颜色，而绿色版将作为…",
+          "keyPoints": [
+            "外观 / 配色 / 尺寸"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
@@ -186,23 +183,23 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
-          "id": "auto-fd9a8912e0a3",
-          "title": "新研究：父母手机成瘾或将影响亲子关系",
+          "id": "auto-3b06566c7274",
+          "title": "努比亚 Air Pro 手机海外发布：5.99mm 厚度、172g 重量，天玑 7100 + 8G + 512G",
           "originalTitle": "",
           "source": "IT之家",
           "brand": "行业",
           "type": "爆料",
           "trust": "媒体汇总",
           "date": "2026-07-09",
-          "time": "02:57",
-          "publishedAt": "2026-07-09T02:57:46.000Z",
-          "url": "https://www.ithome.com/0/974/406.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/7/e996d1e4-8e9d-41cb-b437-7c0e5ebf8602.jpg?x-bce-process=image/watermark,text_QUnnlJ_miJA,type_RlpMYW5UaW5nSGVpU0JHQg==,size_28,color_ffffffdd,skw_1,skc_00000051,g_9,blr_50,bls_50,x_11,y_11",
+          "time": "06:38",
+          "publishedAt": "2026-07-09T06:38:27.000Z",
+          "url": "https://www.ithome.com/0/974/496.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/7/d2938669-5559-4f42-81cb-bbf1abfebbea.jpg?x-bce-process=image/format,f_auto",
           "verdict": "先看",
-          "takeaway": "IT之家 7 月 9 日消息，据彭博社 8 日报道，一项新研究显示，父母过度依赖屏幕和智能手机，可能给孩子的发展和心理健康带来 长期负面影响 。 这项研究上月在同行评审期刊《心理学前沿》上刊登。研究发现，照护者若不能合理使用电子设备，不仅可能 加重孩子的“不安全依恋” ，还可能让本来健康的亲子关系变得 更焦虑、更回避 。 研究团队调查了美国 600 名 1…",
-          "detail": "IT之家 7 月 9 日消息，据彭博社 8 日报道，一项新研究显示，父母过度依赖屏幕和智能手机，可能给孩子的发展和心理健康带来 长期负面影响 。 这项研究上月在同行评审期刊《心理学前沿》上刊登。研究发现，照护者若不能合理使用电子设备，不仅可能 加重孩子的“不安全依恋” ，还可能让本来健康的亲子关系变得 更焦虑、更回避 。 研究团队调查了美国 600 名 1…",
+          "takeaway": "IT之家 7 月 9 日消息，努比亚现已在德国市场悄悄推出了一款努比亚 Air Pro 手机，该机主打“轻薄”，匹配天玑 7100 芯片、8GB RAM 及 512GB 存储空间，定价为 432.89 欧元（IT之家注：现汇率约合 3363 元人民币）。作为参考，努比亚去年 9 月 在海外推出的 nubia Air 手机 搭载展锐 T8300 处理器，定价…",
+          "detail": "IT之家 7 月 9 日消息，努比亚现已在德国市场悄悄推出了一款努比亚 Air Pro 手机，该机主打“轻薄”，匹配天玑 7100 芯片、8GB RAM 及 512GB 存储空间，定价为 432.89 欧元（IT之家注：现汇率约合 3363 元人民币）。作为参考，努比亚去年 9 月 在海外推出的 nubia Air 手机 搭载展锐 T8300 处理器，定价…",
           "keyPoints": [
-            "屏幕形态"
+            "芯片 / 性能"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
@@ -237,6 +234,89 @@ window.phoneRadarDaily = {
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是实际体验内容，买前适合重点看缺点和取舍。",
           "action": "中文源可以直接点开快读；看完只保留和购机有关的点。"
+        },
+        {
+          "id": "auto-67fd0d198c08",
+          "title": "马斯克不造 iPhone，但他想让手机替你赚钱",
+          "originalTitle": "",
+          "source": "爱范儿",
+          "brand": "iPhone",
+          "type": "评测",
+          "trust": "媒体汇总",
+          "date": "2026-07-08",
+          "time": "05:00",
+          "publishedAt": "2026-07-08T05:00:03.000Z",
+          "url": "https://www.ifanr.com/1671272?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "image": "https://s3.ifanr.com/wp-content/uploads/2026/07/banner.png",
+          "verdict": "先看",
+          "takeaway": "你呀，总能给我整点新花样。",
+          "detail": "你呀，总能给我整点新花样。",
+          "keyPoints": [
+            "评测"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是实际体验内容，买前适合重点看缺点和取舍。",
+          "action": "中文源可以直接点开快读；看完只保留和购机有关的点。"
+        }
+      ]
+    },
+    {
+      "id": "launch",
+      "title": "新机与官方发布",
+      "hint": "能直接更新到参数库。",
+      "items": [
+        {
+          "id": "newsnow-9126a14a4191",
+          "title": "“摸着苹果过河”[强]“没发布就是没有吗”[强]“鸿蒙6的流畅度相比iOS还有差距”",
+          "originalTitle": "",
+          "source": "酷安热榜",
+          "brand": "Huawei",
+          "type": "爆料",
+          "trust": "高关注爆料源",
+          "date": "2026-07-09",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://www.coolapk.com/feed/72705056",
+          "image": "",
+          "verdict": "先看",
+          "takeaway": "“摸着苹果过河”[强]“没发布就是没有吗”[强]“鸿蒙6的流畅度相比iOS还有差距”",
+          "detail": "“摸着苹果过河”[强]“没发布就是没有吗”[强]“鸿蒙6的流畅度相比iOS还有差距”",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        }
+      ]
+    },
+    {
+      "id": "market",
+      "title": "行业趋势",
+      "hint": "看方向，不急着当购买依据。",
+      "items": [
+        {
+          "id": "auto-9a70027aa79e",
+          "title": "华为 Pura 80 Pro、Pro+、Ultra 官方翻新版上架：4299 元起，相比全新手机降价 2200~3700 元",
+          "originalTitle": "",
+          "source": "IT之家",
+          "brand": "Huawei",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-07-09",
+          "time": "04:42",
+          "publishedAt": "2026-07-09T04:42:49.000Z",
+          "url": "https://www.ithome.com/0/974/472.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/7/a6971015-d51d-4446-a70f-68f7225be89d.png?x-bce-process=image/format,f_auto",
+          "verdict": "先看",
+          "takeaway": "IT之家 7 月 9 日消息，有用户发现华为官方商城近日上架了 Pura 80 Pro、Pura 80 Pro+ 以及 Pura 80 Ultra 三款机型的官方翻新版。 IT之家汇总价格如下： 【华为官方翻新】HUAWEI Pura 80 Pro（釉白、釉金、釉黑）： 12GB+256GB 版本 4299 元 12GB+512GB 版本 4599 元 1…",
+          "detail": "IT之家 7 月 9 日消息，有用户发现华为官方商城近日上架了 Pura 80 Pro、Pura 80 Pro+ 以及 Pura 80 Ultra 三款机型的官方翻新版。 IT之家汇总价格如下： 【华为官方翻新】HUAWEI Pura 80 Pro（釉白、釉金、釉黑）： 12GB+256GB 版本 4299 元 12GB+512GB 版本 4599 元 1…",
+          "keyPoints": [
+            "成本 / 价格"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "影响购买预算，值得先看。",
+          "action": "有具体参数就记录到参数库；没有参数就先收藏。"
         }
       ]
     }
