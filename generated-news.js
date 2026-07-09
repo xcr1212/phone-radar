@@ -1,6 +1,326 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-07-09T11:17:59.297Z",
+  "updatedAt": "2026-07-09T15:32:38.507Z",
   "news": [
+    {
+      "id": "auto-749b955adbd3",
+      "title": "With great foldable power: Spider-Man teases the Galaxy Z Fold 8",
+      "source": "Android Authority",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-09",
+      "time": "15:29",
+      "publishedAt": "2026-07-09T15:29:16.000Z",
+      "url": "https://www.androidauthority.com/galaxy-z-fold-8-spider-man-teaser-3685841/",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2026/07/Galaxy-Z-Fold-8-dummy.jpg",
+      "summary": "Samsung and Spider-Man team up for a spectacular Galaxy Z Fold 8 tease.",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-a310feac9e04",
+      "title": "The Xiaomi 18 Pro could be Xiaomi's biggest flagship upgrade in years",
+      "source": "Android Central",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-07-09",
+      "time": "15:06",
+      "publishedAt": "2026-07-09T15:06:00.000Z",
+      "url": "https://www.androidcentral.com/phones/xiaomi/the-xiaomi-18-pro-could-be-xiaomis-biggest-flagship-upgrade-in-years",
+      "image": "https://cdn.mos.cms.futurecdn.net/hx6VupHdtGJUsiXymugQvL-1280-80.jpg",
+      "summary": "The Xiaomi 18 Pro could pair a huge 7,000mAh battery, dual 200MP cameras, and Qualcomm's next flagship chip.",
+      "tags": [
+        "Xiaomi",
+        "评测",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-177909366567",
+      "title": "JSCHEN小小狐：『索尼黑卡超长焦旗舰 RX10 Ⅴ 发布：15199 元』 ◆ 影像系统 约 2010 万像素一英寸堆栈式传感器…",
+      "source": "JSCHEN小小狐",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-07-09",
+      "time": "14:57",
+      "publishedAt": "2026-07-09T14:57:58.000Z",
+      "url": "https://www.coolapk.com/feed/72718169",
+      "image": "http://image.coolapk.com/feed/2026/0709/22/4702274_4211b72e_9075_6483_489@750x977.jpg",
+      "summary": "『索尼黑卡超长焦旗舰 RX10 Ⅴ 发布：15199 元』 ◆ 影像系统 约 2010 万像素一英寸堆栈式传感器 BIONZ XR2 影像处理器 575 个相位检测对焦点 每秒最高 60 次 AF / AE 24-600mm f/2.4-4.0 25X 蔡司镜头 对焦距离：3cm（广角）/ 72cm（长焦） 放大倍率：0.42 倍（广角）/ 0.49 倍（…",
+      "tags": [
+        "行业",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-443c21d862fc",
+      "title": "Rumored iPhone 18 Pro Max specs point to Apple’s heaviest iPhone in years",
+      "source": "9to5Mac",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-09",
+      "time": "14:18",
+      "publishedAt": "2026-07-09T14:18:57.000Z",
+      "url": "https://9to5mac.com/2026/07/09/rumored-iphone-18-pro-max-specs-point-to-apples-heaviest-iphone-in-years/",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/iphone-18-pro-pro-max-mockup-di.jpg?quality=82&strip=all&w=1600",
+      "summary": "A few days after rumors about the iPhone 18 Pro Max’s thickness began circulating once again, a new report suggests that Apple’s next flagship could also be its heaviest iPhone in…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-11f8725df20c",
+      "title": "Galaxy Z Fold 8 battery: The upgrade you’ve been waiting for",
+      "source": "SamMobile",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-09",
+      "time": "14:13",
+      "publishedAt": "2026-07-09T14:13:31.000Z",
+      "url": "https://www.sammobile.com/news/samsung-galaxy-z-fold-8-battery-upgrade-details/",
+      "image": "",
+      "summary": "Samsung has launched every new Galaxy Z Fold device with a long list of upgrades. However, one thing has remained unchanged over the past five generations: the battery capacity. T…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-af41c9975b37",
+      "title": "JSCHEN小小狐：白天去上海松江转了一圈 居然没下雨，这就是台风前的平静吗 #手机摄影#",
+      "source": "JSCHEN小小狐",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-07-09",
+      "time": "14:00",
+      "publishedAt": "2026-07-09T14:00:25.000Z",
+      "url": "https://www.coolapk.com/feed/72717282",
+      "image": "http://image.coolapk.com/feed/2026/0709/22/4702274_368f638b_5623_1535_637-uhdr@2365x3504.jpg",
+      "summary": "白天去上海松江转了一圈 居然没下雨，这就是台风前的平静吗 #手机摄影#",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "coolapk-user-aa7d554c4982",
+      "title": "JSCHEN小小狐：『思特威推出 SC570XS：50Mp 1/1.56'' LOFIC』 ◇ 5000 万像素，1/1.56''，1…",
+      "source": "JSCHEN小小狐",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-07-09",
+      "time": "13:41",
+      "publishedAt": "2026-07-09T13:41:21.000Z",
+      "url": "https://www.coolapk.com/feed/72717026",
+      "image": "http://image.coolapk.com/feed/2026/0709/21/4702274_5f0213b5_4480_4109_377@2350x1115.jpg",
+      "summary": "『思特威推出 SC570XS：50Mp 1/1.56'' LOFIC』 ◇ 5000 万像素，1/1.56''，1.0μm ◇ 先进的 22nm Stack 工艺制程 ◇ 100% 全像素对焦（AllPix ADAF） ◇ 约 0.82e- 低噪声（SFCPixel-2） ◇ 111dB* 动态范围（Lofic HDR 3.0） ◇ 4K 60fps HD…",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-d10a1734ba2c",
+      "title": "iPhone manufacturing in India gets a tariff boost",
+      "source": "9to5Mac",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-09",
+      "time": "13:32",
+      "publishedAt": "2026-07-09T13:32:54.000Z",
+      "url": "https://9to5mac.com/2026/07/09/iphone-manufacturing-in-india-gets-a-tariff-boost/",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/02/apple-india-investment.jpg?quality=82&strip=all&w=1600",
+      "summary": "As reported by Reuters , India continued its push to become a larger electronics manufacturing hub today by removing import duties on select parts used in smartphones and other de…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-5fe4cde83550",
+      "title": "Samsung shares first official glimpse at wide Galaxy Z Fold 8, with Spider-Man’s help",
+      "source": "9to5Google",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-09",
+      "time": "13:25",
+      "publishedAt": "2026-07-09T13:25:00.000Z",
+      "url": "https://9to5google.com/2026/07/09/samsung-galaxy-z-fold-8-spider-man-teaser/",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/06/galaxy-z-fold-8-series-ice-leak-5.jpg?quality=82&strip=all&w=1600",
+      "summary": "Samsung has dropped a new Galaxy Z Fold 8 teaser, offering a quick glimpse of the wider new form factor with the help of everyone’s favorite public menace.",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-1f4bcca53f2e",
+      "title": "realme Narzo 100x 手机规格曝光：8000mAh 电池、天玑 6300 处理器、背面配氛围灯",
+      "source": "IT之家",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-09",
+      "time": "13:21",
+      "publishedAt": "2026-07-09T13:21:24.000Z",
+      "url": "https://www.ithome.com/0/974/752.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/7/0e6b35cd-9ce0-4f35-908a-54e200b9b914.jpg",
+      "summary": "IT之家 7 月 9 日消息，realme 发文，宣布将于 7 月 15 日在海外推出 Narzo 100x 手机，该机最大亮点在于配备了 8000mAh 电池，定价预计为 1.5 万印度卢比（IT之家注：现汇率约合 1074 元人民币）起。 该机提供闪光橙、午夜黑配色可选，拥有 IP65 及 MIL-STD-810H 认证，手机厚度 8.8mm，正面配备…",
+      "tags": [
+        "行业",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-081b40cf4e6d",
+      "title": "竹本青：下半年苹果发布、双11大促；突然想起来24年8月发的15号Ultra，到现在还是很有力啊",
+      "source": "竹本青",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-07-09",
+      "time": "13:00",
+      "publishedAt": "2026-07-09T13:00:20.000Z",
+      "url": "https://www.coolapk.com/feed/72716481",
+      "image": "",
+      "summary": "下半年苹果发布、双11大促；突然想起来24年8月发的15号Ultra，到现在还是很有力啊",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-5c94bf5fea13",
+      "title": "Honor ROBOT PHONE coming in August, Magic 9 to debut in October",
+      "source": "Huawei Central",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-09",
+      "time": "12:47",
+      "publishedAt": "2026-07-09T12:47:10.000Z",
+      "url": "https://www.huaweicentral.com/honor-robot-phone-coming-in-august-magic-9-to-debut-in-october/",
+      "image": "https://www.huaweicentral.com/wp-content/uploads/2026/02/Honor-brand1.jpg",
+      "summary": "Honor is preparing new smartphones for the second half of this year – one is the ROBOT PHONE coming in August, while the other is the Magic 9 series tentatively scheduled for Octo…",
+      "tags": [
+        "HONOR",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-f877cd47d502",
+      "title": "One of the first Snapdragon 8 Elite Gen 6 flagship phones could be a spec monster",
+      "source": "Android Authority",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-09",
+      "time": "12:22",
+      "publishedAt": "2026-07-09T12:22:03.000Z",
+      "url": "https://www.androidauthority.com/xiaomi-18-pro-leaked-specs-3685790/",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2026/07/Xiaomi-17-Pro_1.jpg",
+      "summary": "The Xiaomi 18 Pro could pack in at least two 200MP cameras, a ~7,000mAh battery, and more in a compact form factor.",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-9f1226e6a1f4",
+      "title": "号称“全球首款大双屏彩色墨水屏手机”BIGME 大我 HiBreak Dual 2 规格公布：80FPS 帧率、提供 12/16GB RAM",
+      "source": "IT之家",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-09",
+      "time": "11:54",
+      "publishedAt": "2026-07-09T11:54:36.000Z",
+      "url": "https://www.ithome.com/0/974/728.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/7/0956704f-96cb-47f5-891c-75613adc09c8.jpg",
+      "summary": "IT之家 7 月 9 日消息，BIGME 大我现已公布了旗下“全球首款大双屏彩色墨水屏手机”HiBreak Dual 2 的规格信息，该机将于明天晚上 9 点开启众筹，早早鸟价格为 699 美元（IT之家注：现汇率约合 4756 元人民币）。 该机正面搭载一块 6.13 英寸彩色墨水屏面板（亦可选黑白墨水屏版本），墨水屏帧率高达 80FPS ， 适合长时间…",
+      "tags": [
+        "行业",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-3c04e0529f83",
+      "title": "Huawei unveils Pura 80 Pro and Ultra refurbished models",
+      "source": "Huawei Central",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-09",
+      "time": "11:36",
+      "publishedAt": "2026-07-09T11:36:43.000Z",
+      "url": "https://www.huaweicentral.com/huawei-unveils-pura-80-pro-and-ultra-refurbished-models/",
+      "image": "https://www.huaweicentral.com/wp-content/uploads/2026/03/Pura-phones.jpg",
+      "summary": "Huawei has shelved Pura 80 Pro/Pro+, and Ultra refurbished models on its sale rack with an eye-catching discount. If you have been looking for an affordable flagship, then this is…",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-d0d6df09f5dc",
+      "title": "Google Chrome finally brings an iOS-only feature to Android with new update",
+      "source": "Android Authority",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-09",
+      "time": "11:36",
+      "publishedAt": "2026-07-09T11:36:00.000Z",
+      "url": "https://www.androidauthority.com/chrome-android-dedicated-back-button-3685780/",
+      "image": "",
+      "summary": "Google is finally adding a dedicated back button to Chrome for Android.",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-c0e5dd66d071",
       "title": "Galaxy Z Fold 8 Ultra could get some Galaxy S26 Ultra camera features",
@@ -77,26 +397,6 @@ window.phoneRadarAuto = {
       "summary": "Samsung needs to show me something this year.",
       "tags": [
         "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-19e1645f6d8d",
-      "title": "因电池容量提升，消息称苹果 iPhone 18 Pro Max 手机厚度将达 9mm",
-      "source": "IT之家",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-09",
-      "time": "10:24",
-      "publishedAt": "2026-07-09T10:24:36.000Z",
-      "url": "https://www.ithome.com/0/974/699.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/7/2ec333bd-f1fc-40c1-8a5f-5e9fd4f0f9d7.jpg?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 7 月 9 日消息，博主 @i冰宇宙 发文，透露苹果 iPhone 18 Pro Max 厚度达 9mm，重量 240g，内置 5500mAh 电池（预计这里的容量为美版纯 eSIM 版本）。 作为参考，苹果 iPhone 17 Pro Max 厚度为 8.75mm，重量 231g，国行电池容量为 4823mAh，美版纯 eSIM 版本电池容量…",
-      "tags": [
-        "iPhone",
         "爆料",
         "自动抓取"
       ]
@@ -222,26 +522,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-908d2f30c740",
-      "title": "中国银联 × 小米联合推出 NFC 全链路反诈功能，REDMI Note 17 系列手机确认搭载",
-      "source": "IT之家",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-09",
-      "time": "08:51",
-      "publishedAt": "2026-07-09T08:51:22.000Z",
-      "url": "https://www.ithome.com/0/974/631.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/7/a3fb2d9e-cb79-4139-a259-9600709bfa2e.jpg?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 7 月 9 日消息，中国银联今日宣布，联合小米在行业率先推出了 NFC 全链路反诈功能。 随后 REDMI 红米手机宣布，REDMI 和中国银联在行业率先推出 NFC 全链路反诈功能， 全新 Note 17 系列也将搭载 。 据中国银联风险控制部业务经理张晓兰介绍，NFC 本身是一项近距离无线通信技术，也是目前非常成熟的一项能力，应用范围广泛，大…",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-e3336a3d088d",
       "title": "Xiaomi 18 Pro’s latest leak sums up all its core specs",
       "source": "Gizmochina",
@@ -302,46 +582,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-49dc1314352d",
-      "title": "Google’s answer to the Galaxy S26 and Galaxy Z Fold 8 launches next month",
-      "source": "SamMobile",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-09",
-      "time": "08:19",
-      "publishedAt": "2026-07-09T08:19:03.000Z",
-      "url": "https://www.sammobile.com/news/google-pixel-11-pro-fold-xl-launch-next-month-rival-galaxy-s26-z-fold-8-ultra/",
-      "image": "",
-      "summary": "As Samsung prepares to unveil its next-generation foldable phones, Google is also gearing up to launch its next-generation Pixel smartphones. Google is expected to unveil four new…",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-8ddcd5cce06e",
-      "title": "三星 Galaxy M67 手机现身 Geekbench 跑分库：搭 Exynos 2200 处理器，配 8GB RAM",
-      "source": "IT之家",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-09",
-      "time": "08:15",
-      "publishedAt": "2026-07-09T08:15:53.000Z",
-      "url": "https://www.ithome.com/0/974/562.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/7/5a7fe781-b4ea-4cdd-80a9-9175e440e2bb.jpg",
-      "summary": "IT之家 7 月 9 日消息，三星旗下 Galaxy M67 手机目前已现身 Geekbench 跑分库，该机具体型号为 SM-M676K，搭载了有些古老的 Exynos 2200 处理器，匹配 8GB RAM，在单核测试中获得 1589 分，多核测试中获得 3923 分。 作为参考，Exynos 2200 处理器于 2022 年发布，曾应用于 Galax…",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-056e13fdda8d",
       "title": "Samsung just confirmed the Galaxy Z Fold 8 is getting a massive silicon upgrade",
       "source": "Android Central",
@@ -358,46 +598,6 @@ window.phoneRadarAuto = {
       "tags": [
         "Samsung",
         "评测",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-6a361caa9737",
-      "title": "消息称“全球首款机器人手机”荣耀 Robot Phone 手机 8 月上市，Magic9 系列暂定 10 月登场",
-      "source": "IT之家",
-      "brand": "HONOR",
-      "model": "HONOR 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-09",
-      "time": "07:29",
-      "publishedAt": "2026-07-09T07:29:32.000Z",
-      "url": "https://www.ithome.com/0/974/526.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/7/f4ad0851-be33-4877-9bfe-57c86e31bf13.jpg?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 7 月 9 日消息，博主 @智慧皮卡丘 发文，透露荣耀 Robot Phone 和 Magic9 系列手机“暂定分开发”，其中 Robot Phone 将于下月（8 月）上市，而 Magic9 系列将于 10 月上市，同时博主还在评论区透露 Magic9 系列手机继续主打防抖。 参考IT之家先前报道，荣耀 Robot Phone 于今年 3 月发…",
-      "tags": [
-        "HONOR",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-5805bdcb24e2",
-      "title": "增幅超 50%：消息称三星 Galaxy S26 系列手机 7 月产量上调至 150 万部",
-      "source": "IT之家",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-09",
-      "time": "07:26",
-      "publishedAt": "2026-07-09T07:26:35.000Z",
-      "url": "https://www.ithome.com/0/974/523.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/2/ed59fe99-7517-4014-a08b-bda7fe796d5e.jpg?x-bce-process=image/auto-orient,o_1",
-      "summary": "IT之家 7 月 9 日消息，韩媒 ETNews 今天（7 月 9 日）发布博文，报道称三星上调 7 月 Galaxy S26 系列手机产量， 从原定约 100 万部上调至 150 万部以上，增幅超过 50%。 消息源称三星已向元件供应商提出增产请求，而且不排除根据市场后续销量继续扩产的可能。 IT之家援引博文介绍，本次扩产的原因，该媒体认为主要来自 2…",
-      "tags": [
-        "Samsung",
-        "爆料",
         "自动抓取"
       ]
     },
@@ -439,26 +639,6 @@ window.phoneRadarAuto = {
         "Xiaomi",
         "爆料",
         "自动抓取"
-      ]
-    },
-    {
-      "id": "coolapk-user-af0fac1bdfff",
-      "title": "竹本青：REDMI Note17 Pro 官宣支持五年流畅",
-      "source": "竹本青",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-07-09",
-      "time": "06:04",
-      "publishedAt": "2026-07-09T06:04:30.000Z",
-      "url": "https://www.coolapk.com/feed/72711390",
-      "image": "http://image.coolapk.com/feed/2026/0709/14/4248714_1fce1002_7068_9268_748@1080x1440.jpg",
-      "summary": "【REDMI Note17 Pro 官宣支持五年流畅】 ▫️优化前台应用调度 ▫️大幅加快启动速度 ▫️预测性能需求 ▫️实时动态调节 ▫️多项内存管理技术 ▫️九大高频场景流畅度第一梯队 #今日热点# #红米note17Pro# #HyperOS3#",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "酷安博主"
       ]
     },
     {
@@ -622,26 +802,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-034e341dfbec",
-      "title": "iPhone 折叠这次能打得过华为吗？",
-      "source": "酷安热榜",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-07-09",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72700381",
-      "image": "",
-      "summary": "iPhone 折叠这次能打得过华为吗？",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
       "id": "newsnow-9715f7084d1c",
       "title": "当断网断电的时候，你就会很慌，二楼也会被淹没，当你的父母看到在外地上学的孩子无法联系上的时候，该有多么着急！手机带卫星通话短报文的，不要老觉得他没用！#MagicOS10# #ColorOS16#",
       "source": "酷安热榜",
@@ -662,8 +822,8 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-9126a14a4191",
-      "title": "“摸着苹果过河”[强]“没发布就是没有吗”[强]“鸿蒙6的流畅度相比iOS还有差距”",
+      "id": "newsnow-034e341dfbec",
+      "title": "iPhone 折叠这次能打得过华为吗？",
       "source": "酷安热榜",
       "brand": "Huawei",
       "model": "Huawei 相关机型",
@@ -672,11 +832,51 @@ window.phoneRadarAuto = {
       "date": "2026-07-09",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72705056",
+      "url": "https://www.coolapk.com/feed/72700381",
       "image": "",
-      "summary": "“摸着苹果过河”[强]“没发布就是没有吗”[强]“鸿蒙6的流畅度相比iOS还有差距”",
+      "summary": "iPhone 折叠这次能打得过华为吗？",
       "tags": [
         "Huawei",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-46b4e276ede4",
+      "title": "REDMI Note17 Pro 官宣支持五年流畅",
+      "source": "酷安热榜",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-07-09",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/72711390",
+      "image": "",
+      "summary": "REDMI Note17 Pro 官宣支持五年流畅",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-ccce97a39fdc",
+      "title": "女子手机丢失卡内余额几乎被转空",
+      "source": "今日头条热榜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-09",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.toutiao.com/trending/7659699872316571702/",
+      "image": "",
+      "summary": "女子手机丢失卡内余额几乎被转空",
+      "tags": [
+        "行业",
         "爆料",
         "NewsNow"
       ]
@@ -702,26 +902,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-27003f84941b",
-      "title": "Get a $30 credit when you reserve Samsung’s upcoming Galaxy phones",
-      "source": "The Verge",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-08",
-      "time": "19:45",
-      "publishedAt": "2026-07-08T19:45:38.000Z",
-      "url": "https://www.theverge.com/gadgets/962999/samsung-unpacked-z-fold-flip-wide-reserve-credit-preorder",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/samsung-galaxy-unpacked-invite-wide-fold.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "summary": "Even though they haven’t been officially announced yet, Samsung is giving you a chance to save some cash when you preorder what we’re expecting to be the brand’s updated Galaxy Z…",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-084806db62ec",
       "title": "The best part of the Galaxy Z Fold 8 Ultra has leaked, and it’s this purple [Gallery]",
       "source": "9to5Google",
@@ -737,26 +917,6 @@ window.phoneRadarAuto = {
       "summary": "The Galaxy Z Fold 8 Ultra is going to be pretty disappointing; that much is clear . But, taking the sting out just a bit is a new deep purple color for the Galaxy Z Fold 8 Ultra t…",
       "tags": [
         "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-c41fa214e1d8",
-      "title": "Microsoft’s Xbox reset is pivoting Obsidian to make Fallout instead of Avowed",
-      "source": "The Verge",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-08",
-      "time": "18:50",
-      "publishedAt": "2026-07-08T18:50:27.000Z",
-      "url": "https://www.theverge.com/games/963024/microsoft-xbox-reset-obsidian-fallout-layoffs",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/ss_9c317dc153b2905648f0b78301cde36f17001327.1920x1080.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "summary": "As part of Microsoft's big Xbox \"reset,\" which includes layoffs affecting 3,200 staffers, jettisoning studios, and shifting investments to focus on \"higher priority projects,\" Obs…",
-      "tags": [
-        "iPhone",
         "爆料",
         "自动抓取"
       ]
@@ -897,26 +1057,6 @@ window.phoneRadarAuto = {
       "summary": "More supply chain sources have rejected claims of delays to iPhone Ultra production, reporting that it appears to be on track for a September release. However, the latest report d…",
       "tags": [
         "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-f75468d14730",
-      "title": "Huawei announces four gradient colors of Pura 90s Pro",
-      "source": "Huawei Central",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-08",
-      "time": "11:50",
-      "publishedAt": "2026-07-08T11:50:55.000Z",
-      "url": "https://www.huaweicentral.com/huawei-announces-four-gradient-colors-of-pura-90s-pro/",
-      "image": "https://www.huaweicentral.com/wp-content/uploads/2026/07/Pura90sPro-img.jpg",
-      "summary": "Here comes one more interesting teaser of the Huawei Pura 90s series, and it mainly talks about the colors of the second model in the family – Pura 90s Pro. The company has announ…",
-      "tags": [
-        "Huawei",
         "爆料",
         "自动抓取"
       ]
