@@ -1,6 +1,46 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-07-09T20:03:23.092Z",
+  "updatedAt": "2026-07-09T21:43:08.754Z",
   "news": [
+    {
+      "id": "auto-23877fa55855",
+      "title": "The Galaxy Z Flip 8 might be the last Galaxy Z Flip phone from Samsung",
+      "source": "Android Central",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-07-09",
+      "time": "21:28",
+      "publishedAt": "2026-07-09T21:28:25.000Z",
+      "url": "https://www.androidcentral.com/phones/samsung-galaxy/galaxy-z-flip-8-might-be-the-last-galaxy-z-flip-phone",
+      "image": "https://cdn.mos.cms.futurecdn.net/eYx5LNjvm63eMxc7P7nuNP-1280-80.jpg",
+      "summary": "The Galaxy Z Flip 8 might mark the end of an era for Samsung's small foldables.",
+      "tags": [
+        "Samsung",
+        "评测",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-2aed6ca3a78a",
+      "title": "Samsung's new teaser with Spider-Man all but confirms the wider Galaxy Z Fold 8",
+      "source": "Android Central",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-07-09",
+      "time": "21:07",
+      "publishedAt": "2026-07-09T21:07:14.000Z",
+      "url": "https://www.androidcentral.com/phones/samsung-galaxy/samsungs-new-teaser-with-spider-man-all-but-confirms-the-wider-galaxy-z-fold-8",
+      "image": "https://cdn.mos.cms.futurecdn.net/4JVjEKkZXFD73xDrabj4Do-1280-80.jpg",
+      "summary": "A \"brand new shape\" teaser is Samsung's way of telling you exactly what's coming without technically telling you anything.",
+      "tags": [
+        "Samsung",
+        "评测",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-6b3d5603bd61",
       "title": "Chrome on Android finally gets a back button, reshuffling top menu",
@@ -962,26 +1002,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-46b4e276ede4",
-      "title": "REDMI Note17 Pro 官宣支持五年流畅",
-      "source": "酷安热榜",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-07-09",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72711390",
-      "image": "",
-      "summary": "REDMI Note17 Pro 官宣支持五年流畅",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
       "id": "newsnow-9715f7084d1c",
       "title": "当断网断电的时候，你就会很慌，二楼也会被淹没，当你的父母看到在外地上学的孩子无法联系上的时候，该有多么着急！手机带卫星通话短报文的，不要老觉得他没用！#MagicOS10# #ColorOS16#",
       "source": "酷安热榜",
@@ -997,6 +1017,26 @@ window.phoneRadarAuto = {
       "summary": "当断网断电的时候，你就会很慌，二楼也会被淹没，当你的父母看到在外地上学的孩子无法联系上的时候，该有多么着急！手机带卫星通话短报文的，不要老觉得他没用！#MagicOS10# #ColorOS16#",
       "tags": [
         "OPPO",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-46b4e276ede4",
+      "title": "REDMI Note17 Pro 官宣支持五年流畅",
+      "source": "酷安热榜",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-07-09",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/72711390",
+      "image": "",
+      "summary": "REDMI Note17 Pro 官宣支持五年流畅",
+      "tags": [
+        "Xiaomi",
         "爆料",
         "NewsNow"
       ]
