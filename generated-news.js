@@ -1,6 +1,46 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-07-09T18:07:41.133Z",
+  "updatedAt": "2026-07-09T20:03:23.092Z",
   "news": [
+    {
+      "id": "auto-6b3d5603bd61",
+      "title": "Chrome on Android finally gets a back button, reshuffling top menu",
+      "source": "Android Police",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-09",
+      "time": "19:39",
+      "publishedAt": "2026-07-09T19:39:27.000Z",
+      "url": "https://www.androidpolice.com/chrome-on-android-finally-gets-a-back-button-reshuffling-top-menu/",
+      "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2024/07/google-chrome-canary-ap24-hero.jpg",
+      "summary": "Android catches up to iOS",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-d6b4a8d85cd7",
+      "title": "iPhone 18 Pro could bring three controversial design changes",
+      "source": "9to5Mac",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-09",
+      "time": "19:00",
+      "publishedAt": "2026-07-09T19:00:25.000Z",
+      "url": "https://9to5mac.com/2026/07/09/iphone-18-pro-could-bring-three-controversial-design-changes/",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/02/iphone-18-pro-mockup.jpg?quality=82&strip=all&w=1600",
+      "summary": "We’re just two months away from Apple announcing the iPhone 18 Pro. Rumors suggest Apple could have three design changes in store that could be unpopular among some iPhone 18 Pro…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-38b7624ec8d6",
       "title": "iPhone 18 Pro Max margins could still drop even with $200 price hike",
@@ -922,26 +962,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-9715f7084d1c",
-      "title": "当断网断电的时候，你就会很慌，二楼也会被淹没，当你的父母看到在外地上学的孩子无法联系上的时候，该有多么着急！手机带卫星通话短报文的，不要老觉得他没用！#MagicOS10# #ColorOS16#",
-      "source": "酷安热榜",
-      "brand": "OPPO",
-      "model": "OPPO 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-07-09",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72708676",
-      "image": "",
-      "summary": "当断网断电的时候，你就会很慌，二楼也会被淹没，当你的父母看到在外地上学的孩子无法联系上的时候，该有多么着急！手机带卫星通话短报文的，不要老觉得他没用！#MagicOS10# #ColorOS16#",
-      "tags": [
-        "OPPO",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
       "id": "newsnow-46b4e276ede4",
       "title": "REDMI Note17 Pro 官宣支持五年流畅",
       "source": "酷安热榜",
@@ -962,21 +982,41 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-034e341dfbec",
-      "title": "iPhone 折叠这次能打得过华为吗？",
+      "id": "newsnow-9715f7084d1c",
+      "title": "当断网断电的时候，你就会很慌，二楼也会被淹没，当你的父母看到在外地上学的孩子无法联系上的时候，该有多么着急！手机带卫星通话短报文的，不要老觉得他没用！#MagicOS10# #ColorOS16#",
       "source": "酷安热榜",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-07-09",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72700381",
+      "url": "https://www.coolapk.com/feed/72708676",
       "image": "",
-      "summary": "iPhone 折叠这次能打得过华为吗？",
+      "summary": "当断网断电的时候，你就会很慌，二楼也会被淹没，当你的父母看到在外地上学的孩子无法联系上的时候，该有多么着急！手机带卫星通话短报文的，不要老觉得他没用！#MagicOS10# #ColorOS16#",
       "tags": [
-        "Huawei",
+        "OPPO",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-64b68bf0918e",
+      "title": "崩溃了，我真的崩溃了。oppo的12g运行内存完全不够用，会卡！这玩意平时很流畅，开几个软件没及时关闭，内存一满就卡。用vivo和苹果我就没清过后台。之前待办事项回收通知的问题也是杀后台导致的，太无语了这oppo手机！！！！！我可以接受你杀后台，但你最起码待办事项的通知给我留着，别回收吧。还有就是你杀后台给我杀好了呀，杀后台还卡顿，那你杀了个寂寞。但是vivo的温控点差劲，发热就卡。等vivo啥时候把温控放开一点，我就重回vivo #ColorOS16#我基本上每个换机都是好评，只有这个OPPO我实在好评不下去了，2026年了，八至尊的芯片居然还频繁卡顿哪怕因为12g运行内存少，但它也不应该让它卡顿，你可以优化好，怎么着也得前台进程优先吧",
+      "source": "酷安热榜",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-07-09",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/72710262",
+      "image": "",
+      "summary": "崩溃了，我真的崩溃了。oppo的12g运行内存完全不够用，会卡！这玩意平时很流畅，开几个软件没及时关闭，内存一满就卡。用vivo和苹果我就没清过后台。之前待办事项回收通知的问题也是杀后台导致的，太无语了这oppo手机！！！！！我可以接受你杀后台，但你最起码待办事项的通知给我留着，别回收吧。还有就是你杀后台给我杀好了呀，杀后台还卡顿，那你杀了个寂寞。但是vi…",
+      "tags": [
+        "OPPO",
         "爆料",
         "NewsNow"
       ]

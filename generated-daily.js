@@ -1,11 +1,11 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-07-09T18:07:41.133Z",
+  "updatedAt": "2026-07-09T20:03:23.092Z",
   "issueDate": "2026-07-09",
   "issue": "VOL.260709",
   "title": "手机情报日报",
-  "intro": "今日筛出 10 条重点，其中 8 条是重点爆料，包含 5 条 iPhone 相关、0 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 9 条重点，其中 8 条是重点爆料，包含 5 条 iPhone 相关、0 条官方确认、0 条参数线索。",
   "stats": {
-    "total": 10,
+    "total": 9,
     "iphone": 5,
     "leaks": 8,
     "official": 0,
@@ -17,6 +17,30 @@ window.phoneRadarDaily = {
       "title": "重点爆料",
       "hint": "机模、配色、影像、屏幕、电池和芯片线索先看。",
       "items": [
+        {
+          "id": "auto-d6b4a8d85cd7",
+          "title": "iPhone 18 Pro 外观设计线索曝光",
+          "originalTitle": "",
+          "source": "9to5Mac",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-07-09",
+          "time": "19:00",
+          "publishedAt": "2026-07-09T19:00:25.000Z",
+          "url": "https://9to5mac.com/2026/07/09/iphone-18-pro-could-bring-three-controversial-design-changes/",
+          "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/02/iphone-18-pro-mockup.jpg?quality=82&strip=all&w=1600",
+          "verdict": "先看",
+          "takeaway": "iPhone 18 Pro 外观设计线索曝光。重点看外观、颜色、尺寸是否和上一代有明显变化。",
+          "detail": "iPhone 18 Pro 外观设计线索曝光。这类内容主要看外观设计、按键布局、相机模组和尺寸变化，后续最好等更多渲染图或保护壳线索互相验证。",
+          "keyPoints": [
+            "外观 / 配色 / 尺寸",
+            "爆料来源"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
         {
           "id": "auto-443c21d862fc",
           "title": "iPhone 相关消息",
@@ -139,23 +163,24 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
-          "id": "newsnow-034e341dfbec",
-          "title": "iPhone 折叠这次能打得过华为吗？",
+          "id": "newsnow-64b68bf0918e",
+          "title": "崩溃了，我真的崩溃了。oppo的12g运行内存完全不够用，会卡！这玩意平时很流畅，开几个软件没及时关闭，内存一满就卡。用vivo和苹果我就没清过后台。之前待办事项回收通知的问题也是杀后台导致的，太无语了这oppo手机！！！！！我可以接受你杀后台，但你最起码待办事项的通知给我留着，别回收吧。还有就是你杀后台给我杀好了呀，杀后台还卡顿，那你杀了个寂寞。但是vivo的温控点差劲，发热就卡。等vivo啥时候把温控放开一点，我就重回vivo #ColorOS16#我基本上每个换机都是好评，只有这个OPPO我实在好评不下去了，2026年了，八至尊的芯片居然还频繁卡顿哪怕因为12g运行内存少，但它也不应该让它卡顿，你可以优化好，怎么着也得前台进程优先吧",
           "originalTitle": "",
           "source": "酷安热榜",
-          "brand": "Huawei",
+          "brand": "OPPO",
           "type": "爆料",
           "trust": "高关注爆料源",
           "date": "2026-07-09",
           "time": "",
           "publishedAt": "",
-          "url": "https://www.coolapk.com/feed/72700381",
+          "url": "https://www.coolapk.com/feed/72710262",
           "image": "",
           "verdict": "先看",
-          "takeaway": "iPhone 折叠这次能打得过华为吗？",
-          "detail": "iPhone 折叠这次能打得过华为吗？",
+          "takeaway": "崩溃了，我真的崩溃了。oppo的12g运行内存完全不够用，会卡！这玩意平时很流畅，开几个软件没及时关闭，内存一满就卡。用vivo和苹果我就没清过后台。之前待办事项回收通知的问题也是杀后台导致的，太无语了这oppo手机！！！！！我可以接受你杀后台，但你最起码待办事项的通知给我留着，别回收吧。还有就是你杀后台给我杀好了呀，杀后台还卡顿，那你杀了个寂寞。但是vi…",
+          "detail": "崩溃了，我真的崩溃了。oppo的12g运行内存完全不够用，会卡！这玩意平时很流畅，开几个软件没及时关闭，内存一满就卡。用vivo和苹果我就没清过后台。之前待办事项回收通知的问题也是杀后台导致的，太无语了这oppo手机！！！！！我可以接受你杀后台，但你最起码待办事项的通知给我留着，别回收吧。还有就是你杀后台给我杀好了呀，杀后台还卡顿，那你杀了个寂寞。但是vi…",
           "keyPoints": [
-            "爆料"
+            "外观 / 配色 / 尺寸",
+            "芯片 / 性能"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
@@ -185,30 +210,6 @@ window.phoneRadarDaily = {
           "confidence": "可信度较高，但仍属于发布前线索。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "weibo-cc5c47860772",
-          "title": "数码闲聊站：1.5K+144Hz OLED三星M14直屏、7英寸三星OLED高刷屏，今年的…",
-          "originalTitle": "",
-          "source": "数码闲聊站",
-          "brand": "Samsung",
-          "type": "爆料",
-          "trust": "高关注爆料源",
-          "date": "2026-07-09",
-          "time": "10:05",
-          "publishedAt": "2026-07-09T10:05:00.000Z",
-          "url": "https://weibo.com/6048569942/R7TRXdYYg",
-          "image": "",
-          "verdict": "先看",
-          "takeaway": "1.5K+144Hz OLED三星M14直屏、7英寸三星OLED高刷屏，今年的中端机都在普及三星……[doge]",
-          "detail": "1.5K+144Hz OLED三星M14直屏、7英寸三星OLED高刷屏，今年的中端机都在普及三星……[doge]",
-          "keyPoints": [
-            "屏幕形态",
-            "爆料来源"
-          ],
-          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         }
       ]
     },
@@ -233,29 +234,6 @@ window.phoneRadarDaily = {
           "verdict": "先看",
           "takeaway": "暑期将至，许多「大朋友、小朋友」都会选择在最近两个月内出游。在旅行的过程中，我们难免会遇到各种各样的问题，也会遇到各种各样令人心烦的琐事。如果你恰好在使用iPhone，不妨看看我如何从出发前、在路上、 ...",
           "detail": "暑期将至，许多「大朋友、小朋友」都会选择在最近两个月内出游。在旅行的过程中，我们难免会遇到各种各样的问题，也会遇到各种各样令人心烦的琐事。如果你恰好在使用iPhone，不妨看看我如何从出发前、在路上、 ...",
-          "keyPoints": [
-            "评测"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是实际体验内容，买前适合重点看缺点和取舍。",
-          "action": "中文源可以直接点开快读；看完只保留和购机有关的点。"
-        },
-        {
-          "id": "auto-67fd0d198c08",
-          "title": "马斯克不造 iPhone，但他想让手机替你赚钱",
-          "originalTitle": "",
-          "source": "爱范儿",
-          "brand": "iPhone",
-          "type": "评测",
-          "trust": "媒体汇总",
-          "date": "2026-07-08",
-          "time": "05:00",
-          "publishedAt": "2026-07-08T05:00:03.000Z",
-          "url": "https://www.ifanr.com/1671272?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "image": "https://s3.ifanr.com/wp-content/uploads/2026/07/banner.png",
-          "verdict": "先看",
-          "takeaway": "你呀，总能给我整点新花样。",
-          "detail": "你呀，总能给我整点新花样。",
           "keyPoints": [
             "评测"
           ],
