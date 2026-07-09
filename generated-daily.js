@@ -1,12 +1,12 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-07-09T15:32:38.507Z",
+  "updatedAt": "2026-07-09T18:07:41.133Z",
   "issueDate": "2026-07-09",
   "issue": "VOL.260709",
   "title": "手机情报日报",
-  "intro": "今日筛出 9 条重点，其中 8 条是重点爆料，包含 4 条 iPhone 相关、0 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 10 条重点，其中 8 条是重点爆料，包含 5 条 iPhone 相关、0 条官方确认、0 条参数线索。",
   "stats": {
-    "total": 9,
-    "iphone": 4,
+    "total": 10,
+    "iphone": 5,
     "leaks": 8,
     "official": 0,
     "specs": 0
@@ -113,30 +113,6 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
-          "id": "auto-edb608021b9f",
-          "title": "曝华为 Pura X Max 系列横阔折手机销量已破 50 万台，新机售价 10999 元起",
-          "originalTitle": "",
-          "source": "IT之家",
-          "brand": "Huawei",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-07-09",
-          "time": "10:56",
-          "publishedAt": "2026-07-09T10:56:05.000Z",
-          "url": "https://www.ithome.com/0/974/704.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/7/2175e1e6-0179-4441-8396-3b6fc62110c7.png?x-bce-process=image/format,f_auto",
-          "verdict": "先看",
-          "takeaway": "IT之家 7 月 9 日消息，长期关注国内手机市场份额的博主 @RD观测 今日分享了华为折叠屏手机的销量情况：截至 2026 W26（IT之家注：6 月 22 日-6 月 28 日）， 华为 Pura X Max 约 23.54 万台、Pura X Max 典藏版约 28.09 万台 。 从数据来看，华为 Pura X Max 系列横向阔折叠手机的总销量已…",
-          "detail": "IT之家 7 月 9 日消息，长期关注国内手机市场份额的博主 @RD观测 今日分享了华为折叠屏手机的销量情况：截至 2026 W26（IT之家注：6 月 22 日-6 月 28 日）， 华为 Pura X Max 约 23.54 万台、Pura X Max 典藏版约 28.09 万台 。 从数据来看，华为 Pura X Max 系列横向阔折叠手机的总销量已…",
-          "keyPoints": [
-            "屏幕形态",
-            "成本 / 价格"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
           "id": "weibo-d0bea41af285",
           "title": "数码闲聊站：小米本月两大新品： 小米澎程SkyNomad，大致外观来了，十字大灯，机盖上有…",
           "originalTitle": "",
@@ -209,6 +185,30 @@ window.phoneRadarDaily = {
           "confidence": "可信度较高，但仍属于发布前线索。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "weibo-cc5c47860772",
+          "title": "数码闲聊站：1.5K+144Hz OLED三星M14直屏、7英寸三星OLED高刷屏，今年的…",
+          "originalTitle": "",
+          "source": "数码闲聊站",
+          "brand": "Samsung",
+          "type": "爆料",
+          "trust": "高关注爆料源",
+          "date": "2026-07-09",
+          "time": "10:05",
+          "publishedAt": "2026-07-09T10:05:00.000Z",
+          "url": "https://weibo.com/6048569942/R7TRXdYYg",
+          "image": "",
+          "verdict": "先看",
+          "takeaway": "1.5K+144Hz OLED三星M14直屏、7英寸三星OLED高刷屏，今年的中端机都在普及三星……[doge]",
+          "detail": "1.5K+144Hz OLED三星M14直屏、7英寸三星OLED高刷屏，今年的中端机都在普及三星……[doge]",
+          "keyPoints": [
+            "屏幕形态",
+            "爆料来源"
+          ],
+          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         }
       ]
     },
@@ -233,6 +233,29 @@ window.phoneRadarDaily = {
           "verdict": "先看",
           "takeaway": "暑期将至，许多「大朋友、小朋友」都会选择在最近两个月内出游。在旅行的过程中，我们难免会遇到各种各样的问题，也会遇到各种各样令人心烦的琐事。如果你恰好在使用iPhone，不妨看看我如何从出发前、在路上、 ...",
           "detail": "暑期将至，许多「大朋友、小朋友」都会选择在最近两个月内出游。在旅行的过程中，我们难免会遇到各种各样的问题，也会遇到各种各样令人心烦的琐事。如果你恰好在使用iPhone，不妨看看我如何从出发前、在路上、 ...",
+          "keyPoints": [
+            "评测"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是实际体验内容，买前适合重点看缺点和取舍。",
+          "action": "中文源可以直接点开快读；看完只保留和购机有关的点。"
+        },
+        {
+          "id": "auto-67fd0d198c08",
+          "title": "马斯克不造 iPhone，但他想让手机替你赚钱",
+          "originalTitle": "",
+          "source": "爱范儿",
+          "brand": "iPhone",
+          "type": "评测",
+          "trust": "媒体汇总",
+          "date": "2026-07-08",
+          "time": "05:00",
+          "publishedAt": "2026-07-08T05:00:03.000Z",
+          "url": "https://www.ifanr.com/1671272?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "image": "https://s3.ifanr.com/wp-content/uploads/2026/07/banner.png",
+          "verdict": "先看",
+          "takeaway": "你呀，总能给我整点新花样。",
+          "detail": "你呀，总能给我整点新花样。",
           "keyPoints": [
             "评测"
           ],

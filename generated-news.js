@@ -1,6 +1,146 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-07-09T15:32:38.507Z",
+  "updatedAt": "2026-07-09T18:07:41.133Z",
   "news": [
+    {
+      "id": "auto-38b7624ec8d6",
+      "title": "iPhone 18 Pro Max margins could still drop even with $200 price hike",
+      "source": "Gizmochina",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-09",
+      "time": "16:40",
+      "publishedAt": "2026-07-09T16:40:44.000Z",
+      "url": "https://www.gizmochina.com/2026/07/09/iphone-18-pro-max-margins-could-still-drop-even-with-200-price-hike/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/07/Apple-iPhone-18-Pro-Max-300x300.jpg?x44794",
+      "summary": "The iPhone 18 Pro Max may cost more to build than last year’s model, according to a new report from market research firm Counterpoint Research. The firm says the hardware cost for…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-31136d8fcd2d",
+      "title": "Samsung boosts Galaxy S26 production on the fears of more expensive sequels",
+      "source": "9to5Google",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-09",
+      "time": "16:20",
+      "publishedAt": "2026-07-09T16:20:00.000Z",
+      "url": "https://9to5google.com/2026/07/09/samsung-boosts-galaxy-s26-production-on-the-fears-of-more-expensive-sequels/",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/02/Galaxy-S26-family-1-1.jpg?quality=82&strip=all&w=1600",
+      "summary": "As RAMageddon rages on, Samsung is reportedly boosting production of its existing Galaxy S26 series to meet growing demand as customers hope to buy devices before price hikes and…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-d2035fb18b78",
+      "title": "Cheap Android phones could be in trouble — grab this free Google Pixel 10a from Verizon before it's too late",
+      "source": "Android Central",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-07-09",
+      "time": "16:16",
+      "publishedAt": "2026-07-09T16:16:11.000Z",
+      "url": "https://www.androidcentral.com/phones/google-pixel/cheap-android-phones-could-be-in-trouble-grab-this-free-google-pixel-10a-from-verizon-before-its-too-late",
+      "image": "https://cdn.mos.cms.futurecdn.net/zczHPYT4T5GSimx9YcuPXa-1280-80.jpg",
+      "summary": "Verizon will give you a free Google Pixel 10a when you add a line with one of its regular unlimited plans. It's as simple as that.",
+      "tags": [
+        "Pixel",
+        "评测",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-fee8710b3fb7",
+      "title": "I switched to an iPhone only to realize that Gboard runs terribly on Android",
+      "source": "Android Police",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-09",
+      "time": "16:15",
+      "publishedAt": "2026-07-09T16:15:10.000Z",
+      "url": "https://www.androidpolice.com/switched-to-iphone-realized-gboard-runs-terribly-on-android/",
+      "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2026/04/20260429_160826.jpg",
+      "summary": "The iPhone keyboard completely changed my expectations",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-963d9c2193ad",
+      "title": "Even Spider-Man can’t wait to get his hands on Samsung’s wider Galaxy Z Fold 8",
+      "source": "SamMobile",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-09",
+      "time": "16:13",
+      "publishedAt": "2026-07-09T16:13:22.000Z",
+      "url": "https://www.sammobile.com/news/even-spider-man-cant-wait-to-get-his-hands-on-samsungs-wider-galaxy-z-fold-8/",
+      "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f4af.png",
+      "summary": "Samsung has teamed up with Sony to promote its latest foldable phones alongside the studio's upcoming superhero movie, Spider-Man: Brand New Day, set to hit theaters on July 31. T…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-aeacd1523cd6",
+      "title": "iPhone 18 Pro Max component costs could jump by nearly $300, per report",
+      "source": "9to5Mac",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-09",
+      "time": "15:58",
+      "publishedAt": "2026-07-09T15:58:43.000Z",
+      "url": "https://9to5mac.com/2026/07/09/iphone-18-pro-max-component-costs-could-jump-by-nearly-300-per-report/",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/04/iphone-18-pro-colors-02.jpg?quality=82&strip=all&w=1600",
+      "summary": "Counterpoint Research has published a new estimate of the iPhone 18 Pro Max’s bill of materials, suggesting that Apple’s next flagship could cost significantly more to build than…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-1bbcba871494",
+      "title": "Samsung's Spider-Man stunt just confirmed the Galaxy Z Fold 8 Wide is real",
+      "source": "Android Police",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-09",
+      "time": "15:38",
+      "publishedAt": "2026-07-09T15:38:36.000Z",
+      "url": "https://www.androidpolice.com/samsungs-spider-man-stunt-just-confirmed-the-galaxy-z-fold-8-wide-is-real/",
+      "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2026/07/spider-man-galazy-z-fold-8-wide.png",
+      "summary": "Yes, Jonah Jameson, there's a photo",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-749b955adbd3",
       "title": "With great foldable power: Spider-Man teases the Galaxy Z Fold 8",
@@ -362,26 +502,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-edb608021b9f",
-      "title": "曝华为 Pura X Max 系列横阔折手机销量已破 50 万台，新机售价 10999 元起",
-      "source": "IT之家",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-09",
-      "time": "10:56",
-      "publishedAt": "2026-07-09T10:56:05.000Z",
-      "url": "https://www.ithome.com/0/974/704.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/7/2175e1e6-0179-4441-8396-3b6fc62110c7.png?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 7 月 9 日消息，长期关注国内手机市场份额的博主 @RD观测 今日分享了华为折叠屏手机的销量情况：截至 2026 W26（IT之家注：6 月 22 日-6 月 28 日）， 华为 Pura X Max 约 23.54 万台、Pura X Max 典藏版约 28.09 万台 。 从数据来看，华为 Pura X Max 系列横向阔折叠手机的总销量已…",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-8b969c72be0a",
       "title": "6 things Samsung needs to do with the Galaxy Z Flip 8 to finally beat Motorola",
       "source": "Android Authority",
@@ -419,26 +539,6 @@ window.phoneRadarAuto = {
         "Samsung",
         "爆料",
         "微博"
-      ]
-    },
-    {
-      "id": "auto-4cb549d514f9",
-      "title": "New Galaxy S25 update brings July 2026 security patch",
-      "source": "SamMobile",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-09",
-      "time": "09:40",
-      "publishedAt": "2026-07-09T09:40:22.000Z",
-      "url": "https://www.sammobile.com/news/new-galaxy-s25-update-brings-july-2026-security-patch/",
-      "image": "",
-      "summary": "Samsung has released a software update for the Galaxy S25, Galaxy S25+, and Galaxy S25 Ultra in its home country, South Korea. It brings the July 2026 security patch, which fixes…",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
       ]
     },
     {
@@ -762,6 +862,26 @@ window.phoneRadarAuto = {
       ]
     },
     {
+      "id": "newsnow-9b2417d59f6b",
+      "title": "iPhone Air 当主力机用了三个多月后，我为什么还是换不掉它",
+      "source": "少数派热榜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-07-09",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://sspai.com/post/111113",
+      "image": "",
+      "summary": "iPhone Air 当主力机用了三个多月后，我为什么还是换不掉它",
+      "tags": [
+        "iPhone",
+        "评测",
+        "NewsNow"
+      ]
+    },
+    {
       "id": "newsnow-f3b4e70cff30",
       "title": "快捷指令｜让 iPhone 用上锤子的「大爆炸」",
       "source": "少数派热榜",
@@ -822,26 +942,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-034e341dfbec",
-      "title": "iPhone 折叠这次能打得过华为吗？",
-      "source": "酷安热榜",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-07-09",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72700381",
-      "image": "",
-      "summary": "iPhone 折叠这次能打得过华为吗？",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
       "id": "newsnow-46b4e276ede4",
       "title": "REDMI Note17 Pro 官宣支持五年流畅",
       "source": "酷安热榜",
@@ -857,6 +957,26 @@ window.phoneRadarAuto = {
       "summary": "REDMI Note17 Pro 官宣支持五年流畅",
       "tags": [
         "Xiaomi",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-034e341dfbec",
+      "title": "iPhone 折叠这次能打得过华为吗？",
+      "source": "酷安热榜",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-07-09",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/72700381",
+      "image": "",
+      "summary": "iPhone 折叠这次能打得过华为吗？",
+      "tags": [
+        "Huawei",
         "爆料",
         "NewsNow"
       ]
@@ -1057,26 +1177,6 @@ window.phoneRadarAuto = {
       "summary": "More supply chain sources have rejected claims of delays to iPhone Ultra production, reporting that it appears to be on track for a September release. However, the latest report d…",
       "tags": [
         "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-7f34643e2d42",
-      "title": "Samsung Galaxy Unpacked Event Set for July 22 With Foldable iPhone Rival Expected to Debut",
-      "source": "MacRumors",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-08",
-      "time": "11:11",
-      "publishedAt": "2026-07-08T11:11:16.000Z",
-      "url": "https://www.macrumors.com/2026/07/08/samsung-galaxy-unpacked-event-july-22-rival-apple/",
-      "image": "https://images.macrumors.com/article-new/2026/07/samsung-galaxy-unpacked-july-2026.jpg",
-      "summary": "Samsung has announced it will introduce its latest Galaxy smartphones at a July 22 event, including what is believed to be a Galaxy Z Fold 8 with new passport-style dimensions sim…",
-      "tags": [
-        "Samsung",
         "爆料",
         "自动抓取"
       ]
