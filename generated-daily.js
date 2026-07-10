@@ -1,11 +1,11 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-07-10T21:19:32.121Z",
+  "updatedAt": "2026-07-10T23:12:28.359Z",
   "issueDate": "2026-07-10",
   "issue": "VOL.260710",
   "title": "手机情报日报",
-  "intro": "今日筛出 11 条重点，其中 8 条是重点爆料，包含 9 条 iPhone 相关、1 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 10 条重点，其中 8 条是重点爆料，包含 9 条 iPhone 相关、1 条官方确认、0 条参数线索。",
   "stats": {
-    "total": 11,
+    "total": 10,
     "iphone": 9,
     "leaks": 8,
     "official": 1,
@@ -17,6 +17,29 @@ window.phoneRadarDaily = {
       "title": "重点爆料",
       "hint": "机模、配色、影像、屏幕、电池和芯片线索先看。",
       "items": [
+        {
+          "id": "auto-0087addde8de",
+          "title": "报道称欧版苹果 iPhone 18 Pro 豁免欧盟新规，不会改为可拆卸电池",
+          "originalTitle": "",
+          "source": "IT之家",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-07-10",
+          "time": "23:11",
+          "publishedAt": "2026-07-10T23:11:25.000Z",
+          "url": "https://www.ithome.com/0/975/373.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/7/207c1ce3-a8b3-4cb3-9b53-9b12845b1218.png?x-bce-process=image/format,f_auto",
+          "verdict": "先看",
+          "takeaway": "IT之家 7 月 11 日消息，科技媒体 AppleInsider 昨日（7 月 10 日）发布博文，报道称 欧版 iPhone 18 Pro 以及 iPhone 18 Pro Max 不会改为可拆卸电池，适用于欧盟计划 2027 年执行的新电池豁免条款。 IT之家援引博文介绍，欧盟正在推进《Commission Regulation (EU) 2023/…",
+          "detail": "IT之家 7 月 11 日消息，科技媒体 AppleInsider 昨日（7 月 10 日）发布博文，报道称 欧版 iPhone 18 Pro 以及 iPhone 18 Pro Max 不会改为可拆卸电池，适用于欧盟计划 2027 年执行的新电池豁免条款。 IT之家援引博文介绍，欧盟正在推进《Commission Regulation (EU) 2023/…",
+          "keyPoints": [
+            "电池 / 充电"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
         {
           "id": "weibo-1999ad40fa05",
           "title": "数码闲聊站：iPhone Ultra阔折叠的电池？苹果电池供应商最近入网备案了两款新电池：…",
@@ -182,29 +205,6 @@ window.phoneRadarDaily = {
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "auto-443c21d862fc",
-          "title": "iPhone 相关消息",
-          "originalTitle": "",
-          "source": "9to5Mac",
-          "brand": "iPhone",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-07-09",
-          "time": "14:18",
-          "publishedAt": "2026-07-09T14:18:57.000Z",
-          "url": "https://9to5mac.com/2026/07/09/rumored-iphone-18-pro-max-specs-point-to-apples-heaviest-iphone-in-years/",
-          "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/iphone-18-pro-pro-max-mockup-di.jpg?quality=82&strip=all&w=1600",
-          "verdict": "先看",
-          "takeaway": "iPhone 相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
-          "detail": "iPhone 相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
-          "keyPoints": [
-            "爆料来源"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         }
       ]
     },
@@ -261,29 +261,6 @@ window.phoneRadarDaily = {
           "detail": "这手机是真的烫啊，真受不了了，挂个 QQ 音乐在后台都巨烫，老哥有没有什么免解释的优化方案#小米17ProMax# #HyperOS3# #HyperOS4#",
           "keyPoints": [
             "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
-        {
-          "id": "newsnow-a391e2bad581",
-          "title": "当断网断电的时候，你就会很慌，二楼也会被淹没，当你的父母看到在外地上学的孩子无法联系上的时候，该有多么着急！手机带卫星通话短报文的，不要老觉得他没用！#MagicOS10# #ColorOS16#",
-          "originalTitle": "",
-          "source": "酷安热榜",
-          "brand": "OPPO",
-          "type": "爆料",
-          "trust": "高关注爆料源",
-          "date": "2026-07-10",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://www.coolapk.com/feed/72708676",
-          "image": "",
-          "verdict": "先看",
-          "takeaway": "当断网断电的时候，你就会很慌，二楼也会被淹没，当你的父母看到在外地上学的孩子无法联系上的时候，该有多么着急！手机带卫星通话短报文的，不要老觉得他没用！#MagicOS10# #ColorOS16#",
-          "detail": "当断网断电的时候，你就会很慌，二楼也会被淹没，当你的父母看到在外地上学的孩子无法联系上的时候，该有多么着急！手机带卫星通话短报文的，不要老觉得他没用！#MagicOS10# #ColorOS16#",
-          "keyPoints": [
-            "外观 / 配色 / 尺寸"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "当作提前信号，别急着下结论，等第二个来源验证。",

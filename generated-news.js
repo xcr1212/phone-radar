@@ -1,6 +1,46 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-07-10T21:19:32.121Z",
+  "updatedAt": "2026-07-10T23:12:28.359Z",
   "news": [
+    {
+      "id": "auto-0087addde8de",
+      "title": "报道称欧版苹果 iPhone 18 Pro 豁免欧盟新规，不会改为可拆卸电池",
+      "source": "IT之家",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-10",
+      "time": "23:11",
+      "publishedAt": "2026-07-10T23:11:25.000Z",
+      "url": "https://www.ithome.com/0/975/373.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/7/207c1ce3-a8b3-4cb3-9b53-9b12845b1218.png?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 7 月 11 日消息，科技媒体 AppleInsider 昨日（7 月 10 日）发布博文，报道称 欧版 iPhone 18 Pro 以及 iPhone 18 Pro Max 不会改为可拆卸电池，适用于欧盟计划 2027 年执行的新电池豁免条款。 IT之家援引博文介绍，欧盟正在推进《Commission Regulation (EU) 2023/…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-c39440a5f11b",
+      "title": "Latest Galaxy Z Fold 8 leak offers your clearest look yet at Samsung’s new foldables",
+      "source": "Android Authority",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-10",
+      "time": "21:28",
+      "publishedAt": "2026-07-10T21:28:47.000Z",
+      "url": "https://www.androidauthority.com/samsung-galaxy-z-fold-8-z-flip-8-renders-3686550/",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2025/08/IMG_20250820_175625-scaled.jpg",
+      "summary": "Samsung's new foldables are launching soon, but the leaks keep coming.",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-fe0933d10f52",
       "title": "Worries over a pricier Galaxy S27 might've caused S26 sales to surge for Samsung",
@@ -882,6 +922,26 @@ window.phoneRadarAuto = {
       ]
     },
     {
+      "id": "newsnow-9bf05575ee51",
+      "title": "夜半三更，万籁俱寂。余独坐灯下，编译橙狐Recovery。历时数刻，终成。遂满怀欣喜，将其写入手机之中，期冀新成。",
+      "source": "酷安热榜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-07-10",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/72720202",
+      "image": "",
+      "summary": "夜半三更，万籁俱寂。余独坐灯下，编译橙狐Recovery。历时数刻，终成。遂满怀欣喜，将其写入手机之中，期冀新成。",
+      "tags": [
+        "行业",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
       "id": "newsnow-a391e2bad581",
       "title": "当断网断电的时候，你就会很慌，二楼也会被淹没，当你的父母看到在外地上学的孩子无法联系上的时候，该有多么着急！手机带卫星通话短报文的，不要老觉得他没用！#MagicOS10# #ColorOS16#",
       "source": "酷安热榜",
@@ -898,6 +958,26 @@ window.phoneRadarAuto = {
       "tags": [
         "OPPO",
         "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-517e5671b126",
+      "title": "一位家长说自己不限制孩子玩手机，等到孩子玩腻了、感觉无聊了就不玩了，请问这有可能吗？",
+      "source": "知乎热榜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "市场报告",
+      "trust": "媒体汇总",
+      "date": "2026-07-10",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.zhihu.com/question/2056407322340103396",
+      "image": "",
+      "summary": "一位家长说自己不限制孩子玩手机，等到孩子玩腻了、感觉无聊了就不玩了，请问这有可能吗？",
+      "tags": [
+        "行业",
+        "市场报告",
         "NewsNow"
       ]
     },
