@@ -1,6 +1,46 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-07-10T18:00:34.926Z",
+  "updatedAt": "2026-07-10T19:50:15.233Z",
   "news": [
+    {
+      "id": "auto-fe0933d10f52",
+      "title": "Worries over a pricier Galaxy S27 might've caused S26 sales to surge for Samsung",
+      "source": "Android Central",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-07-10",
+      "time": "18:37",
+      "publishedAt": "2026-07-10T18:37:56.000Z",
+      "url": "https://www.androidcentral.com/phones/samsung-galaxy/worries-over-a-pricier-galaxy-s27-mightve-caused-s26-sales-to-surge-for-samsung",
+      "image": "https://cdn.mos.cms.futurecdn.net/2AeU4mLjfZYpvZTr9mS5bE-1280-80.jpg",
+      "summary": "The Galaxy S26 series sees a massive spike in sales in South Korea for Samsung, and it could be due to concerns over its next phone line.",
+      "tags": [
+        "Samsung",
+        "评测",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-71d2e0f4c5dd",
+      "title": "Google Pixel 11 Pro Fold appears at the FCC ahead of August launch",
+      "source": "Android Authority",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-10",
+      "time": "18:19",
+      "publishedAt": "2026-07-10T18:19:26.000Z",
+      "url": "https://www.androidauthority.com/pixel-11-pro-fold-fcc-listing-3686494/",
+      "image": "",
+      "summary": "Pixel 11 Pro Fold's launch feels closer than ever.",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-599f537717f5",
       "title": "The best Mint Mobile deals of July 2026 — 50% off wireless, Galaxy S26 deals",
@@ -482,26 +522,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "coolapk-user-5205eef88b46",
-      "title": "JSCHEN小小狐：？？？标准版 4 Gen2 是何意味 我怎么记得 3 年前的红米 12 就是这颗 U 还有 E4 Pro 基材又是…",
-      "source": "JSCHEN小小狐",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-07-10",
-      "time": "09:10",
-      "publishedAt": "2026-07-10T09:10:46.000Z",
-      "url": "https://www.coolapk.com/feed/72726761",
-      "image": "http://image.coolapk.com/feed/2026/0710/17/4702274_c2851836_4644_8709_805@2560x1440.jpg",
-      "summary": "？？？标准版 4 Gen2 是何意味 我怎么记得 3 年前的红米 12 就是这颗 U 还有 E4 Pro 基材又是从哪儿挖出来的",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
       "id": "auto-b4eafb6561f3",
       "title": "Samsung could use third-party display components in some Galaxy S27 phones",
       "source": "SamMobile",
@@ -779,6 +799,166 @@ window.phoneRadarAuto = {
         "iPhone",
         "官方",
         "自动抓取"
+      ]
+    },
+    {
+      "id": "newsnow-0bf68e343c59",
+      "title": "iPhone Air 当主力机用了三个多月后，我为什么还是换不掉它",
+      "source": "少数派热榜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-07-10",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://sspai.com/post/111113",
+      "image": "",
+      "summary": "iPhone Air 当主力机用了三个多月后，我为什么还是换不掉它",
+      "tags": [
+        "iPhone",
+        "评测",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-2f9094343aca",
+      "title": "快捷指令｜让 iPhone 用上锤子的「大爆炸」",
+      "source": "少数派热榜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-07-10",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://sspai.com/post/111405",
+      "image": "",
+      "summary": "快捷指令｜让 iPhone 用上锤子的「大爆炸」",
+      "tags": [
+        "iPhone",
+        "评测",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-7382d3dd5ce7",
+      "title": "iOS 剪贴板管理工具 Procut：换个方式收藏碎片化信息",
+      "source": "少数派热榜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-07-10",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://sspai.com/post/110950",
+      "image": "",
+      "summary": "iOS 剪贴板管理工具 Procut：换个方式收藏碎片化信息",
+      "tags": [
+        "iPhone",
+        "评测",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-fee623e8b81c",
+      "title": "亲妹妹初中毕业了，我出4000，旧手机卖800她再做几天兼职还我400，只为一个苹果17，女生是真都喜欢苹果啊[捂脸][捂脸][捂脸]不过问问大家这17连个长焦都没有，日常真好用吗？",
+      "source": "酷安热榜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-07-10",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/72696885",
+      "image": "",
+      "summary": "亲妹妹初中毕业了，我出4000，旧手机卖800她再做几天兼职还我400，只为一个苹果17，女生是真都喜欢苹果啊[捂脸][捂脸][捂脸]不过问问大家这17连个长焦都没有，日常真好用吗？",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-878b3b2484d0",
+      "title": "这手机是真的烫啊，真受不了了，挂个 QQ 音乐在后台都巨烫，老哥有没有什么免解释的优化方案#小米17ProMax# #HyperOS3# #HyperOS4#",
+      "source": "酷安热榜",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-07-10",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/72719462",
+      "image": "",
+      "summary": "这手机是真的烫啊，真受不了了，挂个 QQ 音乐在后台都巨烫，老哥有没有什么免解释的优化方案#小米17ProMax# #HyperOS3# #HyperOS4#",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-a391e2bad581",
+      "title": "当断网断电的时候，你就会很慌，二楼也会被淹没，当你的父母看到在外地上学的孩子无法联系上的时候，该有多么着急！手机带卫星通话短报文的，不要老觉得他没用！#MagicOS10# #ColorOS16#",
+      "source": "酷安热榜",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-07-10",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/72708676",
+      "image": "",
+      "summary": "当断网断电的时候，你就会很慌，二楼也会被淹没，当你的父母看到在外地上学的孩子无法联系上的时候，该有多么着急！手机带卫星通话短报文的，不要老觉得他没用！#MagicOS10# #ColorOS16#",
+      "tags": [
+        "OPPO",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-517e5671b126",
+      "title": "一位家长说自己不限制孩子玩手机，等到孩子玩腻了、感觉无聊了就不玩了，请问这有可能吗？",
+      "source": "知乎热榜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "市场报告",
+      "trust": "媒体汇总",
+      "date": "2026-07-10",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.zhihu.com/question/2056407322340103396",
+      "image": "",
+      "summary": "一位家长说自己不限制孩子玩手机，等到孩子玩腻了、感觉无聊了就不玩了，请问这有可能吗？",
+      "tags": [
+        "行业",
+        "市场报告",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-4b0e1f3ffa7b",
+      "title": "太空经济的“iPhone时刻”要来了吗",
+      "source": "今日头条热榜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-10",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.toutiao.com/trending/7660854338671087130/",
+      "image": "",
+      "summary": "太空经济的“iPhone时刻”要来了吗",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "NewsNow"
       ]
     },
     {
