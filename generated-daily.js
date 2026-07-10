@@ -1,14 +1,14 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-07-10T14:50:36.076Z",
+  "updatedAt": "2026-07-10T18:00:34.926Z",
   "issueDate": "2026-07-10",
   "issue": "VOL.260710",
   "title": "手机情报日报",
-  "intro": "今日筛出 8 条重点，其中 8 条是重点爆料，包含 8 条 iPhone 相关、0 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 12 条重点，其中 8 条是重点爆料，包含 8 条 iPhone 相关、1 条官方确认、0 条参数线索。",
   "stats": {
-    "total": 8,
+    "total": 12,
     "iphone": 8,
     "leaks": 8,
-    "official": 0,
+    "official": 1,
     "specs": 0
   },
   "sections": [
@@ -38,52 +38,6 @@ window.phoneRadarDaily = {
             "爆料来源"
           ],
           "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "newsnow-fee623e8b81c",
-          "title": "亲妹妹初中毕业了，我出4000，旧手机卖800她再做几天兼职还我400，只为一个苹果17，女生是真都喜欢苹果啊[捂脸][捂脸][捂脸]不过问问大家这17连个长焦都没有，日常真好用吗？",
-          "originalTitle": "",
-          "source": "酷安热榜",
-          "brand": "iPhone",
-          "type": "爆料",
-          "trust": "高关注爆料源",
-          "date": "2026-07-10",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://www.coolapk.com/feed/72696885",
-          "image": "",
-          "verdict": "先看",
-          "takeaway": "亲妹妹初中毕业了，我出4000，旧手机卖800她再做几天兼职还我400，只为一个苹果17，女生是真都喜欢苹果啊[捂脸][捂脸][捂脸]不过问问大家这17连个长焦都没有，日常真好用吗？",
-          "detail": "亲妹妹初中毕业了，我出4000，旧手机卖800她再做几天兼职还我400，只为一个苹果17，女生是真都喜欢苹果啊[捂脸][捂脸][捂脸]不过问问大家这17连个长焦都没有，日常真好用吗？",
-          "keyPoints": [
-            "影像硬件"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "newsnow-589cf53390a1",
-          "title": "机构：iPhone 18 Pro Max 硬件成本比上代涨近300美元",
-          "originalTitle": "",
-          "source": "酷安热榜",
-          "brand": "iPhone",
-          "type": "爆料",
-          "trust": "高关注爆料源",
-          "date": "2026-07-10",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://www.coolapk.com/feed/72712150",
-          "image": "",
-          "verdict": "先看",
-          "takeaway": "机构：iPhone 18 Pro Max 硬件成本比上代涨近300美元",
-          "detail": "机构：iPhone 18 Pro Max 硬件成本比上代涨近300美元",
-          "keyPoints": [
-            "成本 / 价格"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
@@ -205,6 +159,160 @@ window.phoneRadarDaily = {
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "auto-443c21d862fc",
+          "title": "iPhone 相关消息",
+          "originalTitle": "",
+          "source": "9to5Mac",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-07-09",
+          "time": "14:18",
+          "publishedAt": "2026-07-09T14:18:57.000Z",
+          "url": "https://9to5mac.com/2026/07/09/rumored-iphone-18-pro-max-specs-point-to-apples-heaviest-iphone-in-years/",
+          "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/iphone-18-pro-pro-max-mockup-di.jpg?quality=82&strip=all&w=1600",
+          "verdict": "先看",
+          "takeaway": "iPhone 相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
+          "detail": "iPhone 相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
+          "keyPoints": [
+            "爆料来源"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "auto-d809fd407c9d",
+          "title": "消息称一加迭代新机硅电池来到 25％±，容量达 10000mAh±",
+          "originalTitle": "",
+          "source": "IT之家",
+          "brand": "OPPO",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-07-10",
+          "time": "12:59",
+          "publishedAt": "2026-07-10T12:59:05.000Z",
+          "url": "https://www.ithome.com/0/975/343.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/7/e28a9c73-27c0-4521-827e-12d51edf882d.png?x-bce-process=image/format,f_auto",
+          "verdict": "先看",
+          "takeaway": "IT之家 7 月 10 日消息，据博主 @数码闲聊站 今日爆料，一加迭代线的硅电池来到 25％±，目前有 9000mAh±/120W、10000mAh±/100W 方案，均搭载骁龙 8 系性能平台 +185Hz 超高刷直屏，全系定义超高刷 + 超强性能 + 超大电池，补齐部分外围。 IT之家注意到，该博主今年 5 月曾曝光子系品牌一款 SM8975 / 骁…",
+          "detail": "IT之家 7 月 10 日消息，据博主 @数码闲聊站 今日爆料，一加迭代线的硅电池来到 25％±，目前有 9000mAh±/120W、10000mAh±/100W 方案，均搭载骁龙 8 系性能平台 +185Hz 超高刷直屏，全系定义超高刷 + 超强性能 + 超大电池，补齐部分外围。 IT之家注意到，该博主今年 5 月曾曝光子系品牌一款 SM8975 / 骁…",
+          "keyPoints": [
+            "屏幕形态",
+            "电池 / 充电",
+            "爆料来源"
+          ],
+          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        }
+      ]
+    },
+    {
+      "id": "iphone",
+      "title": "iPhone 重点",
+      "hint": "不是硬件爆料，但和 iPhone 体验或路线有关。",
+      "items": [
+        {
+          "id": "auto-9bbf43c61c96",
+          "title": "iPhone 系统功能 / AI 体验相关消息",
+          "originalTitle": "",
+          "source": "Apple Newsroom",
+          "brand": "iPhone",
+          "type": "官方",
+          "trust": "官方确认",
+          "date": "2026-07-10",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://www.apple.com/newsroom/2026/06/apple-announces-changes-to-ios-in-brazil/",
+          "image": "",
+          "verdict": "先看",
+          "takeaway": "iPhone 系统功能 / AI 体验相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
+          "detail": "iPhone 系统功能 / AI 体验相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
+          "keyPoints": [
+            "官方"
+          ],
+          "confidence": "官方内容，可直接作为已确认信息记录。",
+          "impact": "可信度高，但如果不是配置/价格消息，只需要扫一眼。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        }
+      ]
+    },
+    {
+      "id": "market",
+      "title": "行业趋势",
+      "hint": "看方向，不急着当购买依据。",
+      "items": [
+        {
+          "id": "coolapk-user-b2643984b069",
+          "title": "竹本青：2026年第27周国内手机市场份额曝光：大盘略下降",
+          "originalTitle": "",
+          "source": "竹本青",
+          "brand": "HONOR",
+          "type": "爆料",
+          "trust": "高可信爆料",
+          "date": "2026-07-10",
+          "time": "05:59",
+          "publishedAt": "2026-07-10T05:59:06.000Z",
+          "url": "https://www.coolapk.com/feed/72724414",
+          "image": "http://image.coolapk.com/feed/2026/0710/13/4248714_e779608d_3145_7602_810@1440x1005.jpg",
+          "verdict": "扫一眼",
+          "takeaway": "【2026年第27周 国内手机市场份额曝光：华为保持榜首，大盘略下降】 ● 2026 W27：大盘略微下降 1.华为 —— 19.6% 2.苹果 —— 18.0% 3.OPPO —— 16.6%（含一加 3.4%，realme 0.7%） 4.vivo —— 16.3%（含iQOO 4.4%） 5.小米 —— 14.3% 6.荣耀 —— 11.4% ● 2…",
+          "detail": "【2026年第27周 国内手机市场份额曝光：华为保持榜首，大盘略下降】 ● 2026 W27：大盘略微下降 1.华为 —— 19.6% 2.苹果 —— 18.0% 3.OPPO —— 16.6%（含一加 3.4%，realme 0.7%） 4.vivo —— 16.3%（含iQOO 4.4%） 5.小米 —— 14.3% 6.荣耀 —— 11.4% ● 2…",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "可信度较高，但仍属于发布前线索。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        },
+        {
+          "id": "coolapk-user-af41c9975b37",
+          "title": "JSCHEN小小狐：白天去上海松江转了一圈 居然没下雨，这就是台风前的平静吗 #手机摄影#",
+          "originalTitle": "",
+          "source": "JSCHEN小小狐",
+          "brand": "Xiaomi",
+          "type": "爆料",
+          "trust": "高可信爆料",
+          "date": "2026-07-09",
+          "time": "14:00",
+          "publishedAt": "2026-07-09T14:00:25.000Z",
+          "url": "https://www.coolapk.com/feed/72717282",
+          "image": "http://image.coolapk.com/feed/2026/0709/22/4702274_368f638b_5623_1535_637-uhdr@2365x3504.jpg",
+          "verdict": "扫一眼",
+          "takeaway": "白天去上海松江转了一圈 居然没下雨，这就是台风前的平静吗 #手机摄影#",
+          "detail": "白天去上海松江转了一圈 居然没下雨，这就是台风前的平静吗 #手机摄影#",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "可信度较高，但仍属于发布前线索。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        },
+        {
+          "id": "coolapk-user-aa7d554c4982",
+          "title": "JSCHEN小小狐：思特威推出 SC570XS：50Mp 1/1.56'' LOFIC",
+          "originalTitle": "",
+          "source": "JSCHEN小小狐",
+          "brand": "Pixel",
+          "type": "爆料",
+          "trust": "高可信爆料",
+          "date": "2026-07-09",
+          "time": "13:41",
+          "publishedAt": "2026-07-09T13:41:21.000Z",
+          "url": "https://www.coolapk.com/feed/72717026",
+          "image": "http://image.coolapk.com/feed/2026/0709/21/4702274_5f0213b5_4480_4109_377@2350x1115.jpg",
+          "verdict": "扫一眼",
+          "takeaway": "『思特威推出 SC570XS：50Mp 1/1.56'' LOFIC』 ◇ 5000 万像素，1/1.56''，1.0μm ◇ 先进的 22nm Stack 工艺制程 ◇ 100% 全像素对焦（AllPix ADAF） ◇ 约 0.82e- 低噪声（SFCPixel-2） ◇ 111dB* 动态范围（Lofic HDR 3.0） ◇ 4K 60fps HD…",
+          "detail": "『思特威推出 SC570XS：50Mp 1/1.56'' LOFIC』 ◇ 5000 万像素，1/1.56''，1.0μm ◇ 先进的 22nm Stack 工艺制程 ◇ 100% 全像素对焦（AllPix ADAF） ◇ 约 0.82e- 低噪声（SFCPixel-2） ◇ 111dB* 动态范围（Lofic HDR 3.0） ◇ 4K 60fps HD…",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "可信度较高，但仍属于发布前线索。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         }
       ]
     }

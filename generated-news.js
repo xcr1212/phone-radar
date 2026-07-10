@@ -1,6 +1,46 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-07-10T14:50:36.076Z",
+  "updatedAt": "2026-07-10T18:00:34.926Z",
   "news": [
+    {
+      "id": "auto-599f537717f5",
+      "title": "The best Mint Mobile deals of July 2026 — 50% off wireless, Galaxy S26 deals",
+      "source": "Android Central",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-07-10",
+      "time": "16:52",
+      "publishedAt": "2026-07-10T16:52:58.000Z",
+      "url": "https://www.androidcentral.com/phones/mint-mobile/best-mint-mobile-deals-2026",
+      "image": "https://cdn.mos.cms.futurecdn.net/qrdipKgSyWzR63oKrddy4Y-1280-80.jpg",
+      "summary": "Mint Mobile has always been touted as an affordable alternative to the traditional wireless carrier. Here are some ways you can make that cheap plan even cheaper.",
+      "tags": [
+        "Samsung",
+        "评测",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-07ebcff576d7",
+      "title": "What went wrong with OnePlus? [Video]",
+      "source": "9to5Google",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-10",
+      "time": "16:00",
+      "publishedAt": "2026-07-10T16:00:00.000Z",
+      "url": "https://9to5google.com/2026/07/10/what-went-wrong-with-oneplus-video/",
+      "image": "",
+      "summary": "From a darling of the early Android era to a husk on the brink of becoming completely irrelevant, just what went wrong for OnePlus?",
+      "tags": [
+        "OPPO",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-591ad78666f1",
       "title": "Big news! Mint Mobile just got the Samsung Galaxy S26 back in stock, and it's still one of the best phone deals on the web",
@@ -213,7 +253,7 @@ window.phoneRadarAuto = {
       "time": "12:29",
       "publishedAt": "2026-07-10T12:29:41.000Z",
       "url": "https://www.coolapk.com/feed/72729236",
-      "image": "http://image.coolapk.com/feed/2026/0710/20/4248714_e96d2287_6579_289_542@2560x1868.jpg",
+      "image": "http://image.coolapk.com/feed/2026/0711/00/4248714_304324c4_1930_4179_533@2560x1868.jpg",
       "summary": "【滴滴上线“靠谱好车”租车服务】 ● 筛选4年内车辆，一车一洗 ● 价格高于特定平台的八折，触发差价减免 ● 取车享8个小时免费等待 ● 不限制自驾里程、区域 ● 还车时代劳加油、充电 #今日热点# #滴滴# #滴滴出行#",
       "tags": [
         "行业",
@@ -642,26 +682,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "coolapk-user-263775e10df9",
-      "title": "竹本青：酷友还是太全面了……[受虐滑稽] #HyperOS3# #沙雕乐园# #数码日常#",
-      "source": "竹本青",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-07-10",
-      "time": "05:12",
-      "publishedAt": "2026-07-10T05:12:44.000Z",
-      "url": "https://www.coolapk.com/feed/72723831",
-      "image": "http://image.coolapk.com/feed/2026/0710/13/4248714_2080e8c2_0363_0358_282@1440x2235.jpg",
-      "summary": "酷友还是太全面了……[受虐滑稽] #HyperOS3# #沙雕乐园# #数码日常#",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
       "id": "auto-483aa30031ac",
       "title": "Apple is undecided on whether to use liquid metal or 3D printing for its foldable hinge system",
       "source": "Gizmochina",
@@ -759,186 +779,6 @@ window.phoneRadarAuto = {
         "iPhone",
         "官方",
         "自动抓取"
-      ]
-    },
-    {
-      "id": "newsnow-0bf68e343c59",
-      "title": "iPhone Air 当主力机用了三个多月后，我为什么还是换不掉它",
-      "source": "少数派热榜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "评测",
-      "trust": "媒体汇总",
-      "date": "2026-07-10",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://sspai.com/post/111113",
-      "image": "",
-      "summary": "iPhone Air 当主力机用了三个多月后，我为什么还是换不掉它",
-      "tags": [
-        "iPhone",
-        "评测",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-2f9094343aca",
-      "title": "快捷指令｜让 iPhone 用上锤子的「大爆炸」",
-      "source": "少数派热榜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "评测",
-      "trust": "媒体汇总",
-      "date": "2026-07-10",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://sspai.com/post/111405",
-      "image": "",
-      "summary": "快捷指令｜让 iPhone 用上锤子的「大爆炸」",
-      "tags": [
-        "iPhone",
-        "评测",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-7382d3dd5ce7",
-      "title": "iOS 剪贴板管理工具 Procut：换个方式收藏碎片化信息",
-      "source": "少数派热榜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "评测",
-      "trust": "媒体汇总",
-      "date": "2026-07-10",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://sspai.com/post/110950",
-      "image": "",
-      "summary": "iOS 剪贴板管理工具 Procut：换个方式收藏碎片化信息",
-      "tags": [
-        "iPhone",
-        "评测",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-fee623e8b81c",
-      "title": "亲妹妹初中毕业了，我出4000，旧手机卖800她再做几天兼职还我400，只为一个苹果17，女生是真都喜欢苹果啊[捂脸][捂脸][捂脸]不过问问大家这17连个长焦都没有，日常真好用吗？",
-      "source": "酷安热榜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-07-10",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72696885",
-      "image": "",
-      "summary": "亲妹妹初中毕业了，我出4000，旧手机卖800她再做几天兼职还我400，只为一个苹果17，女生是真都喜欢苹果啊[捂脸][捂脸][捂脸]不过问问大家这17连个长焦都没有，日常真好用吗？",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-01348b9329f9",
-      "title": "REDMI Note17 Pro 官宣支持五年流畅",
-      "source": "酷安热榜",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-07-10",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72711390",
-      "image": "",
-      "summary": "REDMI Note17 Pro 官宣支持五年流畅",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-a391e2bad581",
-      "title": "当断网断电的时候，你就会很慌，二楼也会被淹没，当你的父母看到在外地上学的孩子无法联系上的时候，该有多么着急！手机带卫星通话短报文的，不要老觉得他没用！#MagicOS10# #ColorOS16#",
-      "source": "酷安热榜",
-      "brand": "OPPO",
-      "model": "OPPO 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-07-10",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72708676",
-      "image": "",
-      "summary": "当断网断电的时候，你就会很慌，二楼也会被淹没，当你的父母看到在外地上学的孩子无法联系上的时候，该有多么着急！手机带卫星通话短报文的，不要老觉得他没用！#MagicOS10# #ColorOS16#",
-      "tags": [
-        "OPPO",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-589cf53390a1",
-      "title": "机构：iPhone 18 Pro Max 硬件成本比上代涨近300美元",
-      "source": "酷安热榜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-07-10",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72712150",
-      "image": "",
-      "summary": "机构：iPhone 18 Pro Max 硬件成本比上代涨近300美元",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-821c2adfc813",
-      "title": "崩溃了，我真的崩溃了。oppo的12g运行内存完全不够用，会卡！这玩意平时很流畅，开几个软件没及时关闭，内存一满就卡。用vivo和苹果我就没清过后台。之前待办事项回收通知的问题也是杀后台导致的，太无语了这oppo手机！！！！！我可以接受你杀后台，但你最起码待办事项的通知给我留着，别回收吧。还有就是你杀后台给我杀好了呀，杀后台还卡顿，那你杀了个寂寞。但是vivo的温控点差劲，发热就卡。等vivo啥时候把温控放开一点，我就重回vivo #ColorOS16#我基本上每个换机都是好评，只有这个OPPO我实在好评不下去了，2026年了，八至尊的芯片居然还频繁卡顿哪怕因为12g运行内存少，但它也不应该让它卡顿，你可以优化好，怎么着也得前台进程优先吧",
-      "source": "酷安热榜",
-      "brand": "OPPO",
-      "model": "OPPO 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-07-10",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72710262",
-      "image": "",
-      "summary": "崩溃了，我真的崩溃了。oppo的12g运行内存完全不够用，会卡！这玩意平时很流畅，开几个软件没及时关闭，内存一满就卡。用vivo和苹果我就没清过后台。之前待办事项回收通知的问题也是杀后台导致的，太无语了这oppo手机！！！！！我可以接受你杀后台，但你最起码待办事项的通知给我留着，别回收吧。还有就是你杀后台给我杀好了呀，杀后台还卡顿，那你杀了个寂寞。但是vi…",
-      "tags": [
-        "OPPO",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-517e5671b126",
-      "title": "一位家长说自己不限制孩子玩手机，等到孩子玩腻了、感觉无聊了就不玩了，请问这有可能吗？",
-      "source": "知乎热榜",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "市场报告",
-      "trust": "媒体汇总",
-      "date": "2026-07-10",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.zhihu.com/question/2056407322340103396",
-      "image": "",
-      "summary": "一位家长说自己不限制孩子玩手机，等到孩子玩腻了、感觉无聊了就不玩了，请问这有可能吗？",
-      "tags": [
-        "行业",
-        "市场报告",
-        "NewsNow"
       ]
     },
     {
@@ -1357,26 +1197,6 @@ window.phoneRadarAuto = {
       "summary": "Until OPPO clarifies its future, you should probably avoid OnePlus.",
       "tags": [
         "OPPO",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-be7b38fee143",
-      "title": "iPhone 18 Pro Max Said to Be Thicker and Heavier Than Predecessor",
-      "source": "MacRumors",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-09",
-      "time": "08:59",
-      "publishedAt": "2026-07-09T08:59:23.000Z",
-      "url": "https://www.macrumors.com/2026/07/09/iphone-18-pro-max-thicker-heavier/",
-      "image": "https://images.macrumors.com/article-new/2025/09/iPhone-17-Pro-Cosmic-Orange.jpg",
-      "summary": "Apple's upcoming iPhone 18 Pro Max could be noticeably thicker and heavier than its predecessor, suggesting a trade-off behind the device's rumored larger battery. Chinese leaker…",
-      "tags": [
-        "iPhone",
         "爆料",
         "自动抓取"
       ]
