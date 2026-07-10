@@ -1,6 +1,306 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-07-10T07:51:55.057Z",
+  "updatedAt": "2026-07-10T11:18:35.057Z",
   "news": [
+    {
+      "id": "auto-1716c562204d",
+      "title": "Apple foldable to bring dual-cell battery, but smaller than iPhone 18 Pro Max",
+      "source": "Huawei Central",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-10",
+      "time": "11:15",
+      "publishedAt": "2026-07-10T11:15:11.000Z",
+      "url": "https://www.huaweicentral.com/apple-iphone-foldable-to-bring-dual-cell-battery/",
+      "image": "https://www.huaweicentral.com/wp-content/uploads/2026/07/iPhone-Ultra-fold-leak.jpg",
+      "summary": "Apple iPhone foldable is making a buzz for its arrival in the market but ahead of its launch, key specs like battery details began surfacing on the internet. A new input hints tha…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-09cc8441dfbc",
+      "title": "Galaxy Z Fold 8 Ultra will be Samsung’s best foldable yet, so why am I not buying it?",
+      "source": "SamMobile",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-10",
+      "time": "11:04",
+      "publishedAt": "2026-07-10T11:04:13.000Z",
+      "url": "https://www.sammobile.com/opinion/galaxy-z-fold-8-ultra-best-samsung-foldable-but-i-am-not-buying/",
+      "image": "",
+      "summary": "I’ve always been a fan of Samsung’s Galaxy S Ultra lineup. Like many Samsung fans, I see it as the company’s ultimate smartphone. It has everything I want from a flagship: a large…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-2c84c71f21de",
+      "title": "Motorola phones with silicon-carbon batteries beat Pixels, iPhones for battery health",
+      "source": "Android Authority",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-10",
+      "time": "11:00",
+      "publishedAt": "2026-07-10T11:00:55.000Z",
+      "url": "https://www.androidauthority.com/motorola-silicon-carbon-batteries-battery-health-3686117/",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2026/06/Motorola-Razr-Ultra-2026-cover-screen-close.jpg",
+      "summary": "Some of Motorola's new phones have silicon-carbon batteries, but what should you expect in terms of degradation?",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-007578ce0b2d",
+      "title": "Survey says a third of OnePlus loyalists would look elsewhere if OPPO takes over",
+      "source": "Android Authority",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-10",
+      "time": "10:48",
+      "publishedAt": "2026-07-10T10:48:34.000Z",
+      "url": "https://www.androidauthority.com/oneplus-oppo-product-line-poll-results-3686217/",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2026/04/OnePlus-Nord-6.jpg",
+      "summary": "Are you one of them?",
+      "tags": [
+        "OPPO",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-b871c7f14032",
+      "title": "Apple Reportedly Slashes iPhone 17 Demand Forecast Amid Rising Costs",
+      "source": "MacRumors",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-10",
+      "time": "10:37",
+      "publishedAt": "2026-07-10T10:37:58.000Z",
+      "url": "https://www.macrumors.com/2026/07/10/apple-slashes-iphone-17-demand-forecast/",
+      "image": "https://images.macrumors.com/article-new/2025/09/iPhone-17-Review-Thumb-3.jpg",
+      "summary": "Apple has significantly lowered its demand expectations for the standard iPhone 17 because of rising hardware costs, a Chinese leaker claimed today. According to the account \" Fix…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-9dee2cb05994",
+      "title": "BIGME 大我“全球首款 60 帧 / 秒刷新率 25.3 英寸彩墨屏显示器”B251 PRO 开售，10999 元",
+      "source": "IT之家",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-10",
+      "time": "10:28",
+      "publishedAt": "2026-07-10T10:28:32.000Z",
+      "url": "https://www.ithome.com/0/975/312.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/7/f65c3a55-d2e0-4180-b527-ed4201a9d10c.png?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 7 月 10 日消息，BIGME 大我 B251 PRO 25.3 英寸彩墨屏显示器今日起在国内上市， 售价 10999 元。 据介绍，这是 全球首款 60 帧 / 秒刷新率 25.3 英寸彩墨屏显示器 ，主打护眼体验，支持手机投屏和横竖屏旋转功能。 IT之家获悉，这款显示器配备一块 3200x1800 分辨率 Kaleido 3 彩色墨水屏面板…",
+      "tags": [
+        "行业",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-39d93f4eb88a",
+      "title": "Four months later, Samsung’s Galaxy S26 series continues selling like hot cakes",
+      "source": "Android Authority",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-10",
+      "time": "10:12",
+      "publishedAt": "2026-07-10T10:12:57.000Z",
+      "url": "https://www.androidauthority.com/samsung-galaxy-s26-production-plans-july-3686213/",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2026/02/Samsung-Galaxy-S26-S26-PLus-S26-Ultra-lay-down.jpg",
+      "summary": "Samsung is selling more phones than it can make.",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-60d1c4002743",
+      "title": "I’ve used Pixel phones for years. Why the upcoming Pixel 11 has me seriously worried",
+      "source": "Android Authority",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-10",
+      "time": "10:00",
+      "publishedAt": "2026-07-10T10:00:09.000Z",
+      "url": "https://www.androidauthority.com/pixel-11-series-hardware-worries-3684423/",
+      "image": "",
+      "summary": "Prospective Pixel 11 buyers shouldn't settle for anything less than the very best.",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-fdffce058ae4",
+      "title": "Foldable iPhone Ultra Battery Capacity Allegedly Registered by Supplier",
+      "source": "MacRumors",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-10",
+      "time": "09:44",
+      "publishedAt": "2026-07-10T09:44:38.000Z",
+      "url": "https://www.macrumors.com/2026/07/10/foldable-iphone-ultra-battery-capacity-revealed/",
+      "image": "https://images.macrumors.com/article-new/2025/08/Apple-Foldable-Thumb.jpg",
+      "summary": "Apple's battery supplier has registered two new battery cells believed to be destined for the company's rumored foldable iPhone, according to a prolific Chinese leaker. In a post…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-7c1002b6b401",
+      "title": "竹本青：【小米澎程N90、N70系列 通过工信部申报】 小米澎程 N90 Max（图2、图3） 小米澎程 N90 Max…",
+      "source": "竹本青",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-07-10",
+      "time": "09:34",
+      "publishedAt": "2026-07-10T09:34:18.000Z",
+      "url": "https://www.coolapk.com/feed/72727070",
+      "image": "http://image.coolapk.com/feed/2026/0710/18/4248714_6e8281f1_8044_2821_984@1440x364.jpg",
+      "summary": "【小米澎程N90、N70系列 通过工信部申报】 小米澎程 N90 Max（图2、图3） 小米澎程 N90 Max 露营版（图4、图5） 小米澎程 N70（图6、图7） 小米澎程 N70 Max（图8、图9） ● 小米澎程 N90 Max 插电式增程混合动力多用途乘用车，提供 7 座、5 座两种版本选择，车身外形尺寸长 5285 mm、宽 1998 mm、高…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "coolapk-user-5205eef88b46",
+      "title": "JSCHEN小小狐：？？？标准版 4 Gen2 是何意味 我怎么记得 3 年前的红米 12 就是这颗 U 还有 E4 Pro 基材又是…",
+      "source": "JSCHEN小小狐",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-07-10",
+      "time": "09:10",
+      "publishedAt": "2026-07-10T09:10:46.000Z",
+      "url": "https://www.coolapk.com/feed/72726761",
+      "image": "http://image.coolapk.com/feed/2026/0710/17/4702274_c2851836_4644_8709_805@2560x1440.jpg",
+      "summary": "？？？标准版 4 Gen2 是何意味 我怎么记得 3 年前的红米 12 就是这颗 U 还有 E4 Pro 基材又是从哪儿挖出来的",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-b4eafb6561f3",
+      "title": "Samsung could use third-party display components in some Galaxy S27 phones",
+      "source": "SamMobile",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-10",
+      "time": "08:51",
+      "publishedAt": "2026-07-10T08:51:24.000Z",
+      "url": "https://www.sammobile.com/news/samsung-third-party-display-components-galaxy-s27-report/",
+      "image": "",
+      "summary": "Samsung usually uses in-house display driver ICs (DDIs) in its high-end Galaxy S and Galaxy Z series phones. However, due to rising component costs, especially memory chips, Samsu…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-1a2be9fc8d9f",
+      "title": "Motorola Edge 70 Max leak points to a battery that puts Google and Samsung to shame",
+      "source": "Android Authority",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-10",
+      "time": "08:36",
+      "publishedAt": "2026-07-10T08:36:33.000Z",
+      "url": "https://www.androidauthority.com/motorola-edge-70-max-battery-amoled-leak-3686113/",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2026/06/Motorola-Edge-70-Max-in-sage-green.jpg",
+      "summary": "It's the biggest battery among the previously launched Motorola Edge phones.",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-5d66ca5e2710",
+      "title": "Redmi K100 Pro series may arrive sooner as standard K100 misses early certifications",
+      "source": "Gizmochina",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-10",
+      "time": "08:34",
+      "publishedAt": "2026-07-10T08:34:21.000Z",
+      "url": "https://www.gizmochina.com/2026/07/10/redmi-k100-pro-max-k100-series-launch-certification-100w-charging/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/06/Redmi-K90-Ultra-300x188.png?x44794",
+      "summary": "The Redmi K100 series is expected to arrive with a revised launch strategy, as the latest information suggests that the Pro Max model could debut before the standard version. Prev…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-9272277a858d",
+      "title": "《蓝色星原：旅谣》开启「旅迹测试」招募：支持 PC、华为鸿蒙、安卓、苹果 iOS 平台",
+      "source": "IT之家",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-10",
+      "time": "07:56",
+      "publishedAt": "2026-07-10T07:56:32.000Z",
+      "url": "https://www.ithome.com/0/975/092.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/7/c4981089-34ec-4420-9938-6718ab1773ea.jpg",
+      "summary": "IT之家 7 月 10 日消息，蛮啾《蓝色星原：旅谣》今日正式开启「旅迹测试」公开招募, 支持 PC、华为鸿蒙、安卓、苹果 iOS 平台。 本次测试为限量计费删档测试，玩家需填写公开招募问卷以获取测试资格。招募时间从今日 9:00 持续至 8 月 20 日 23:59。招募结束后，官方将通过站内信等方式通知获得资格的玩家。 以鸿蒙版为例，华为用户在应用商店…",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-204e5d231717",
       "title": "苹果 iPhone Ultra 阔折叠？消息称苹果供应商入网备案 4883mAh 电池",
@@ -62,46 +362,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-ee6649b16f4c",
-      "title": "苹果首款折叠手机：白色版 iPhone Ultra 机模曝光",
-      "source": "IT之家",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-10",
-      "time": "06:53",
-      "publishedAt": "2026-07-10T06:53:15.000Z",
-      "url": "https://www.ithome.com/0/975/052.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/7/64e32319-011b-47a0-ad35-ba8064cbc4cf.jpg",
-      "summary": "IT之家 7 月 10 日消息，消息源 @theapplehub 今天（7 月 10 日）在 X 平台发布推文， 分享了一段视频，展示了白色苹果首款折叠手机（上市后预估名为 iPhone Ultra）机模。 和IT之家此前报道过的黑色 iPhone Ultra 类似 ，本次曝光的机模屏幕中间有明显的折痕，消息源表示最终零售产品会有明显改善。 IT之家查询公…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-823ce414609e",
-      "title": "HMD Arc 2 手机发布：6.52 寸 720P LCD 水滴屏、紫光展锐 T603 芯片，2290 泰铢",
-      "source": "IT之家",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-10",
-      "time": "06:32",
-      "publishedAt": "2026-07-10T06:32:15.000Z",
-      "url": "https://www.ithome.com/0/975/032.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/7/62888286-6706-4e48-9784-457bb9694389.png?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 7 月 10 日消息，HMD Global 昨天在泰国推出 Arc 2 智能手机。新机定位入门，提供符合欧洲标准的安全保障，定价 2290 泰铢（现汇率约合 466.3 元人民币）起。 据介绍， 这款手机配备一块 6.52 英寸的 LCD 水滴屏 ，分辨率为 720P（HD+），刷新率 60Hz。搭载紫光展锐 T603 处理器，采用 12nm 制…",
-      "tags": [
-        "行业",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-1b9f366cb867",
       "title": "Galaxy Z Fold 8, Fold 8 Ultra prices leak for US, and there might be bad news",
       "source": "Android Authority",
@@ -117,26 +377,6 @@ window.phoneRadarAuto = {
       "summary": "It looks like a price hike is on the cards once again.",
       "tags": [
         "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-8b0e3e18cb08",
-      "title": "不用上传云端：谷歌原生安卓支持本地备份短信 / 通话记录等",
-      "source": "IT之家",
-      "brand": "Pixel",
-      "model": "Pixel 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-10",
-      "time": "06:03",
-      "publishedAt": "2026-07-10T06:03:04.000Z",
-      "url": "https://www.ithome.com/0/975/003.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/7/29e182eb-60f6-49ed-8134-4c067b55c6b1.png",
-      "summary": "IT之家 7 月 10 日消息，科技媒体 9to5Google 昨日（7 月 9 日）发布博文，报道称在 Pixel 10 等手机上，谷歌调整原生文档备份选项，支持用户根据使用需求， 选择是否云端备份短信和彩信、通话记录和设备设置。 该媒体指出在此前安卓版本中，谷歌会自动同步上传短信和彩信、通话记录和设备设置，而在 26.25 版本 Google Play…",
-      "tags": [
-        "Pixel",
         "爆料",
         "自动抓取"
       ]
@@ -199,26 +439,6 @@ window.phoneRadarAuto = {
         "HONOR",
         "爆料",
         "酷安博主"
-      ]
-    },
-    {
-      "id": "auto-c44223b79d3d",
-      "title": "摩托罗拉 Edge 70 Max 手机渲染图曝光：第五代骁龙 8 处理器，7100mAh 电池",
-      "source": "IT之家",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-10",
-      "time": "05:52",
-      "publishedAt": "2026-07-10T05:52:04.000Z",
-      "url": "https://www.ithome.com/0/975/001.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/7/525ad64d-6b59-4a24-b323-277e2f876dd9.png?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 7 月 10 日消息，消息源 Roland Quandt 昨日（7 月 9 日）在 Bluesky 平台发布动态，分享了一组渲染图， 展示了摩托罗拉 Edge 70 Max 手机，配备高通第五代骁龙 8 处理器。 外观方面，IT之家此前报道，摩托罗拉 Edge 70 Max 手机沿用家族式设计语言，采用直屏方案，屏幕边框较窄，前置镜头为居中打孔方…",
-      "tags": [
-        "行业",
-        "爆料",
-        "自动抓取"
       ]
     },
     {
@@ -362,26 +582,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "coolapk-user-8b51cb276569",
-      "title": "竹本青：REDMI Note 17标准版搭载8000mAh电池和45W快充",
-      "source": "竹本青",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-07-10",
-      "time": "04:01",
-      "publishedAt": "2026-07-10T04:01:38.000Z",
-      "url": "https://www.coolapk.com/feed/72722978",
-      "image": "http://image.coolapk.com/feed/2026/0710/12/4248714_021741fe_6097_7196_881@1080x1440.jpg",
-      "summary": "【REDMI Note 17标准版 续航组合公布：8000mAh+45W快充】 ▫️8000mAh电池+45W有线 ▫️支持22.5W反向充电 ▫️首销购机赠送电池保 #今日热点# #红米Note17# #HyperOS3#",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
       "id": "auto-f634b0e00563",
       "title": "Redmi Note 17 gets a giant 7-inch OLED display and 8000mAh battery ahead of launch",
       "source": "Gizmochina",
@@ -502,6 +702,26 @@ window.phoneRadarAuto = {
       ]
     },
     {
+      "id": "newsnow-fee623e8b81c",
+      "title": "亲妹妹初中毕业了，我出4000，旧手机卖800她再做几天兼职还我400，只为一个苹果17，女生是真都喜欢苹果啊[捂脸][捂脸][捂脸]不过问问大家这17连个长焦都没有，日常真好用吗？",
+      "source": "酷安热榜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-07-10",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/72696885",
+      "image": "",
+      "summary": "亲妹妹初中毕业了，我出4000，旧手机卖800她再做几天兼职还我400，只为一个苹果17，女生是真都喜欢苹果啊[捂脸][捂脸][捂脸]不过问问大家这17连个长焦都没有，日常真好用吗？",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
       "id": "newsnow-a391e2bad581",
       "title": "当断网断电的时候，你就会很慌，二楼也会被淹没，当你的父母看到在外地上学的孩子无法联系上的时候，该有多么着急！手机带卫星通话短报文的，不要老觉得他没用！#MagicOS10# #ColorOS16#",
       "source": "酷安热榜",
@@ -542,8 +762,8 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-fee623e8b81c",
-      "title": "亲妹妹初中毕业了，我出4000，旧手机卖800她再做几天兼职还我400，只为一个苹果17，女生是真都喜欢苹果啊[捂脸][捂脸][捂脸]不过问问大家这17连个长焦都没有，日常真好用吗？",
+      "id": "newsnow-589cf53390a1",
+      "title": "机构：iPhone 18 Pro Max 硬件成本比上代涨近300美元",
       "source": "酷安热榜",
       "brand": "iPhone",
       "model": "iPhone 相关机型",
@@ -552,9 +772,9 @@ window.phoneRadarAuto = {
       "date": "2026-07-10",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72696885",
+      "url": "https://www.coolapk.com/feed/72712150",
       "image": "",
-      "summary": "亲妹妹初中毕业了，我出4000，旧手机卖800她再做几天兼职还我400，只为一个苹果17，女生是真都喜欢苹果啊[捂脸][捂脸][捂脸]不过问问大家这17连个长焦都没有，日常真好用吗？",
+      "summary": "机构：iPhone 18 Pro Max 硬件成本比上代涨近300美元",
       "tags": [
         "iPhone",
         "爆料",
@@ -577,26 +797,6 @@ window.phoneRadarAuto = {
       "summary": "崩溃了，我真的崩溃了。oppo的12g运行内存完全不够用，会卡！这玩意平时很流畅，开几个软件没及时关闭，内存一满就卡。用vivo和苹果我就没清过后台。之前待办事项回收通知的问题也是杀后台导致的，太无语了这oppo手机！！！！！我可以接受你杀后台，但你最起码待办事项的通知给我留着，别回收吧。还有就是你杀后台给我杀好了呀，杀后台还卡顿，那你杀了个寂寞。但是vi…",
       "tags": [
         "OPPO",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-589cf53390a1",
-      "title": "机构：iPhone 18 Pro Max 硬件成本比上代涨近300美元",
-      "source": "酷安热榜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-07-10",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72712150",
-      "image": "",
-      "summary": "机构：iPhone 18 Pro Max 硬件成本比上代涨近300美元",
-      "tags": [
-        "iPhone",
         "爆料",
         "NewsNow"
       ]
@@ -762,26 +962,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-fee8710b3fb7",
-      "title": "I switched to an iPhone only to realize that Gboard runs terribly on Android",
-      "source": "Android Police",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-09",
-      "time": "16:15",
-      "publishedAt": "2026-07-09T16:15:10.000Z",
-      "url": "https://www.androidpolice.com/switched-to-iphone-realized-gboard-runs-terribly-on-android/",
-      "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2026/04/20260429_160826.jpg",
-      "summary": "The iPhone keyboard completely changed my expectations",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-963d9c2193ad",
       "title": "Even Spider-Man can’t wait to get his hands on Samsung’s wider Galaxy Z Fold 8",
       "source": "SamMobile",
@@ -817,26 +997,6 @@ window.phoneRadarAuto = {
       "summary": "Counterpoint Research has published a new estimate of the iPhone 18 Pro Max’s bill of materials, suggesting that Apple’s next flagship could cost significantly more to build than…",
       "tags": [
         "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-1bbcba871494",
-      "title": "Samsung's Spider-Man stunt just confirmed the Galaxy Z Fold 8 Wide is real",
-      "source": "Android Police",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-09",
-      "time": "15:38",
-      "publishedAt": "2026-07-09T15:38:36.000Z",
-      "url": "https://www.androidpolice.com/samsungs-spider-man-stunt-just-confirmed-the-galaxy-z-fold-8-wide-is-real/",
-      "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2026/07/spider-man-galazy-z-fold-8-wide.png",
-      "summary": "Yes, Jonah Jameson, there's a photo",
-      "tags": [
-        "Samsung",
         "爆料",
         "自动抓取"
       ]
@@ -897,26 +1057,6 @@ window.phoneRadarAuto = {
       "summary": "A new rumor published on Weibo suggests that the iPhone 18 Pro Max could be the heaviest iPhone in years. Here are the details.",
       "tags": [
         "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-11f8725df20c",
-      "title": "Galaxy Z Fold 8 battery: The upgrade you’ve been waiting for",
-      "source": "SamMobile",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-09",
-      "time": "14:13",
-      "publishedAt": "2026-07-09T14:13:31.000Z",
-      "url": "https://www.sammobile.com/news/samsung-galaxy-z-fold-8-battery-upgrade-details/",
-      "image": "",
-      "summary": "Samsung has launched every new Galaxy Z Fold device with a long list of upgrades. However, one thing has remained unchanged over the past five generations: the battery capacity. T…",
-      "tags": [
-        "Samsung",
         "爆料",
         "自动抓取"
       ]
@@ -1359,26 +1499,6 @@ window.phoneRadarAuto = {
         "Samsung",
         "爆料",
         "自动抓取"
-      ]
-    },
-    {
-      "id": "weibo-d0bea41af285",
-      "title": "数码闲聊站：小米本月两大新品： 小米澎程SkyNomad，大致外观来了，十字大灯，机盖上有…",
-      "source": "数码闲聊站",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-07-09",
-      "time": "01:02",
-      "publishedAt": "2026-07-09T01:02:48.000Z",
-      "url": "https://weibo.com/6048569942/R7QjSmaMx",
-      "image": "https://tvax3.sinaimg.cn/mw2000/006BlblIgy1iexgoyp5puj31o0280k6e.jpg",
-      "summary": "小米本月两大新品： 小米澎程SkyNomad，大致外观来了，十字大灯，机盖上有小米logo，同时标有SkyNomad，顶部激光雷达，传闻有车顶帐篷，可变大空间SUV； 红米Note17 Pro，1.5K OLED直屏+1nit低亮度显示+9000mAh单电芯电池+67W快充。",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "微博"
       ]
     },
     {

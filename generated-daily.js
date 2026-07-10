@@ -1,11 +1,11 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-07-10T07:51:55.057Z",
+  "updatedAt": "2026-07-10T11:18:35.057Z",
   "issueDate": "2026-07-10",
   "issue": "VOL.260710",
   "title": "手机情报日报",
-  "intro": "今日筛出 9 条重点，其中 8 条是重点爆料，包含 9 条 iPhone 相关、1 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 10 条重点，其中 8 条是重点爆料，包含 9 条 iPhone 相关、1 条官方确认、0 条参数线索。",
   "stats": {
-    "total": 9,
+    "total": 10,
     "iphone": 9,
     "leaks": 8,
     "official": 1,
@@ -17,30 +17,6 @@ window.phoneRadarDaily = {
       "title": "重点爆料",
       "hint": "机模、配色、影像、屏幕、电池和芯片线索先看。",
       "items": [
-        {
-          "id": "auto-ee6649b16f4c",
-          "title": "苹果首款折叠手机：白色版 iPhone Ultra 机模曝光",
-          "originalTitle": "",
-          "source": "IT之家",
-          "brand": "iPhone",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-07-10",
-          "time": "06:53",
-          "publishedAt": "2026-07-10T06:53:15.000Z",
-          "url": "https://www.ithome.com/0/975/052.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/7/64e32319-011b-47a0-ad35-ba8064cbc4cf.jpg",
-          "verdict": "先看",
-          "takeaway": "IT之家 7 月 10 日消息，消息源 @theapplehub 今天（7 月 10 日）在 X 平台发布推文， 分享了一段视频，展示了白色苹果首款折叠手机（上市后预估名为 iPhone Ultra）机模。 和IT之家此前报道过的黑色 iPhone Ultra 类似 ，本次曝光的机模屏幕中间有明显的折痕，消息源表示最终零售产品会有明显改善。 IT之家查询公…",
-          "detail": "IT之家 7 月 10 日消息，消息源 @theapplehub 今天（7 月 10 日）在 X 平台发布推文， 分享了一段视频，展示了白色苹果首款折叠手机（上市后预估名为 iPhone Ultra）机模。 和IT之家此前报道过的黑色 iPhone Ultra 类似 ，本次曝光的机模屏幕中间有明显的折痕，消息源表示最终零售产品会有明显改善。 IT之家查询公…",
-          "keyPoints": [
-            "外观 / 配色 / 尺寸",
-            "屏幕形态"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
         {
           "id": "auto-204e5d231717",
           "title": "苹果 iPhone Ultra 阔折叠？消息称苹果供应商入网备案 4883mAh 电池",
@@ -137,6 +113,54 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
+          "id": "auto-b871c7f14032",
+          "title": "iPhone 17 价格 / 成本相关消息",
+          "originalTitle": "",
+          "source": "MacRumors",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-07-10",
+          "time": "10:37",
+          "publishedAt": "2026-07-10T10:37:58.000Z",
+          "url": "https://www.macrumors.com/2026/07/10/apple-slashes-iphone-17-demand-forecast/",
+          "image": "https://images.macrumors.com/article-new/2025/09/iPhone-17-Review-Thumb-3.jpg",
+          "verdict": "先看",
+          "takeaway": "iPhone 17 价格 / 成本相关消息。如果涉及订阅、售价或硬件成本，才需要进一步看细节。",
+          "detail": "iPhone 17 价格 / 成本相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
+          "keyPoints": [
+            "成本 / 价格",
+            "爆料来源"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "auto-fdffce058ae4",
+          "title": "iPhone 折叠屏相关消息",
+          "originalTitle": "",
+          "source": "MacRumors",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-07-10",
+          "time": "09:44",
+          "publishedAt": "2026-07-10T09:44:38.000Z",
+          "url": "https://www.macrumors.com/2026/07/10/foldable-iphone-ultra-battery-capacity-revealed/",
+          "image": "https://images.macrumors.com/article-new/2025/08/Apple-Foldable-Thumb.jpg",
+          "verdict": "先看",
+          "takeaway": "iPhone 折叠屏相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
+          "detail": "iPhone 折叠屏相关消息。重点看折痕、铰链、厚度、屏幕可靠性和重量是否有实质改善。",
+          "keyPoints": [
+            "电池 / 充电",
+            "爆料来源"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
           "id": "auto-d6b4a8d85cd7",
           "title": "iPhone 18 Pro 外观设计线索曝光",
           "originalTitle": "",
@@ -182,30 +206,6 @@ window.phoneRadarDaily = {
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "auto-be7b38fee143",
-          "title": "iPhone 18 Pro Max 系统功能 / AI 体验相关消息",
-          "originalTitle": "",
-          "source": "MacRumors",
-          "brand": "iPhone",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-07-09",
-          "time": "08:59",
-          "publishedAt": "2026-07-09T08:59:23.000Z",
-          "url": "https://www.macrumors.com/2026/07/09/iphone-18-pro-max-thicker-heavier/",
-          "image": "https://images.macrumors.com/article-new/2025/09/iPhone-17-Pro-Cosmic-Orange.jpg",
-          "verdict": "先看",
-          "takeaway": "iPhone 有系统功能或 AI 体验更新，适合关注后续是否影响日常使用。",
-          "detail": "iPhone 18 Pro Max 系统功能 / AI 体验相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
-          "keyPoints": [
-            "电池 / 充电",
-            "爆料来源"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         }
       ]
     },
@@ -236,6 +236,36 @@ window.phoneRadarDaily = {
           "confidence": "官方内容，可直接作为已确认信息记录。",
           "impact": "可信度高，但如果不是配置/价格消息，只需要扫一眼。",
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        }
+      ]
+    },
+    {
+      "id": "market",
+      "title": "行业趋势",
+      "hint": "看方向，不急着当购买依据。",
+      "items": [
+        {
+          "id": "auto-9272277a858d",
+          "title": "《蓝色星原：旅谣》开启「旅迹测试」招募：支持 PC、华为鸿蒙、安卓、苹果 iOS 平台",
+          "originalTitle": "",
+          "source": "IT之家",
+          "brand": "Huawei",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-07-10",
+          "time": "07:56",
+          "publishedAt": "2026-07-10T07:56:32.000Z",
+          "url": "https://www.ithome.com/0/975/092.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/7/c4981089-34ec-4420-9938-6718ab1773ea.jpg",
+          "verdict": "先看",
+          "takeaway": "IT之家 7 月 10 日消息，蛮啾《蓝色星原：旅谣》今日正式开启「旅迹测试」公开招募, 支持 PC、华为鸿蒙、安卓、苹果 iOS 平台。 本次测试为限量计费删档测试，玩家需填写公开招募问卷以获取测试资格。招募时间从今日 9:00 持续至 8 月 20 日 23:59。招募结束后，官方将通过站内信等方式通知获得资格的玩家。 以鸿蒙版为例，华为用户在应用商店…",
+          "detail": "IT之家 7 月 10 日消息，蛮啾《蓝色星原：旅谣》今日正式开启「旅迹测试」公开招募, 支持 PC、华为鸿蒙、安卓、苹果 iOS 平台。 本次测试为限量计费删档测试，玩家需填写公开招募问卷以获取测试资格。招募时间从今日 9:00 持续至 8 月 20 日 23:59。招募结束后，官方将通过站内信等方式通知获得资格的玩家。 以鸿蒙版为例，华为用户在应用商店…",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "中文源可以直接点开快读；看完只保留和购机有关的点。"
         }
       ]
     }
