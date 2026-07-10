@@ -1,12 +1,12 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-07-10T04:13:26.241Z",
+  "updatedAt": "2026-07-10T07:51:55.057Z",
   "issueDate": "2026-07-10",
   "issue": "VOL.260710",
   "title": "手机情报日报",
-  "intro": "今日筛出 15 条重点，其中 8 条是重点爆料，包含 5 条 iPhone 相关、1 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 9 条重点，其中 8 条是重点爆料，包含 9 条 iPhone 相关、1 条官方确认、0 条参数线索。",
   "stats": {
-    "total": 15,
-    "iphone": 5,
+    "total": 9,
+    "iphone": 9,
     "leaks": 8,
     "official": 1,
     "specs": 0
@@ -17,6 +17,102 @@ window.phoneRadarDaily = {
       "title": "重点爆料",
       "hint": "机模、配色、影像、屏幕、电池和芯片线索先看。",
       "items": [
+        {
+          "id": "auto-ee6649b16f4c",
+          "title": "苹果首款折叠手机：白色版 iPhone Ultra 机模曝光",
+          "originalTitle": "",
+          "source": "IT之家",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-07-10",
+          "time": "06:53",
+          "publishedAt": "2026-07-10T06:53:15.000Z",
+          "url": "https://www.ithome.com/0/975/052.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/7/64e32319-011b-47a0-ad35-ba8064cbc4cf.jpg",
+          "verdict": "先看",
+          "takeaway": "IT之家 7 月 10 日消息，消息源 @theapplehub 今天（7 月 10 日）在 X 平台发布推文， 分享了一段视频，展示了白色苹果首款折叠手机（上市后预估名为 iPhone Ultra）机模。 和IT之家此前报道过的黑色 iPhone Ultra 类似 ，本次曝光的机模屏幕中间有明显的折痕，消息源表示最终零售产品会有明显改善。 IT之家查询公…",
+          "detail": "IT之家 7 月 10 日消息，消息源 @theapplehub 今天（7 月 10 日）在 X 平台发布推文， 分享了一段视频，展示了白色苹果首款折叠手机（上市后预估名为 iPhone Ultra）机模。 和IT之家此前报道过的黑色 iPhone Ultra 类似 ，本次曝光的机模屏幕中间有明显的折痕，消息源表示最终零售产品会有明显改善。 IT之家查询公…",
+          "keyPoints": [
+            "外观 / 配色 / 尺寸",
+            "屏幕形态"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "auto-204e5d231717",
+          "title": "苹果 iPhone Ultra 阔折叠？消息称苹果供应商入网备案 4883mAh 电池",
+          "originalTitle": "",
+          "source": "IT之家",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-07-10",
+          "time": "07:50",
+          "publishedAt": "2026-07-10T07:50:17.000Z",
+          "url": "https://www.ithome.com/0/975/089.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/7/1c193389-9e20-4404-99a1-72160f1a48d6.png",
+          "verdict": "先看",
+          "takeaway": "IT之家 7 月 10 日消息，博主 @数码闲聊站 今日爆料，苹果电池供应商最近入网备案了两款新电池： 1921mAh+2962mAh＝4883mAh (min)，至于是否为苹果 iPhone Ultra 阔折叠，还有待进一步确认。 此前有消息称苹果首款折叠屏 iPhone 将于 7 月底启动量产。在近期因铰链问题一度传出延期消息的背景下， 苹果仍准备按原…",
+          "detail": "IT之家 7 月 10 日消息，博主 @数码闲聊站 今日爆料，苹果电池供应商最近入网备案了两款新电池： 1921mAh+2962mAh＝4883mAh (min)，至于是否为苹果 iPhone Ultra 阔折叠，还有待进一步确认。 此前有消息称苹果首款折叠屏 iPhone 将于 7 月底启动量产。在近期因铰链问题一度传出延期消息的背景下， 苹果仍准备按原…",
+          "keyPoints": [
+            "屏幕形态",
+            "电池 / 充电",
+            "爆料来源"
+          ],
+          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "weibo-1999ad40fa05",
+          "title": "数码闲聊站：iPhone Ultra阔折叠的电池？苹果电池供应商最近入网备案了两款新电池：…",
+          "originalTitle": "",
+          "source": "数码闲聊站",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "高关注爆料源",
+          "date": "2026-07-10",
+          "time": "07:32",
+          "publishedAt": "2026-07-10T07:32:00.000Z",
+          "url": "https://weibo.com/6048569942/R82ilujPp",
+          "image": "",
+          "verdict": "先看",
+          "takeaway": "iPhone Ultra阔折叠的电池？苹果电池供应商最近入网备案了两款新电池： 1921mAh+2962mAh＝4883mAh(min) 之前我说过供应链预测容量也是4800-5000mAh，有待进一步确认[卡皮巴拉]",
+          "detail": "iPhone Ultra阔折叠的电池？苹果电池供应商最近入网备案了两款新电池： 1921mAh+2962mAh＝4883mAh(min) 之前我说过供应链预测容量也是4800-5000mAh，有待进一步确认[卡皮巴拉]",
+          "keyPoints": [
+            "电池 / 充电",
+            "爆料来源"
+          ],
+          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "newsnow-fee623e8b81c",
+          "title": "亲妹妹初中毕业了，我出4000，旧手机卖800她再做几天兼职还我400，只为一个苹果17，女生是真都喜欢苹果啊[捂脸][捂脸][捂脸]不过问问大家这17连个长焦都没有，日常真好用吗？",
+          "originalTitle": "",
+          "source": "酷安热榜",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "高关注爆料源",
+          "date": "2026-07-10",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://www.coolapk.com/feed/72696885",
+          "image": "",
+          "verdict": "先看",
+          "takeaway": "亲妹妹初中毕业了，我出4000，旧手机卖800她再做几天兼职还我400，只为一个苹果17，女生是真都喜欢苹果啊[捂脸][捂脸][捂脸]不过问问大家这17连个长焦都没有，日常真好用吗？",
+          "detail": "亲妹妹初中毕业了，我出4000，旧手机卖800她再做几天兼职还我400，只为一个苹果17，女生是真都喜欢苹果啊[捂脸][捂脸][捂脸]不过问问大家这17连个长焦都没有，日常真好用吗？",
+          "keyPoints": [
+            "影像硬件"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
         {
           "id": "newsnow-589cf53390a1",
           "title": "机构：iPhone 18 Pro Max 硬件成本比上代涨近300美元",
@@ -110,104 +206,6 @@ window.phoneRadarDaily = {
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "auto-da6dd7d4cc03",
-          "title": "小米卢伟冰爆料 REDMI Note 17 标准版手机：红米最大 7 寸 OLED 屏、同档罕有 8000mAh 电池",
-          "originalTitle": "",
-          "source": "IT之家",
-          "brand": "Xiaomi",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-07-10",
-          "time": "03:11",
-          "publishedAt": "2026-07-10T03:11:40.000Z",
-          "url": "https://www.ithome.com/0/974/930.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/7/f6d026ed-d41f-4aa0-82ae-ed25bdc7ccd5.jpg?x-bce-process=image/format,f_auto",
-          "verdict": "先看",
-          "takeaway": "IT之家 7 月 10 日消息，小米集团合伙人 / 总裁、手机部总裁、小米品牌总经理卢伟冰今天在微博发文，为我们带来 REDMI Note 17 标准版手机的参数爆料。 据介绍， 这款手机将升级红米最大 7 英寸 OLED 大屏 ， 支持 120Hz 高刷 ，全局亮度可达 1200nits，支持小米青山护眼， 还拥有同档位罕见的 8000mAh 大电池 。…",
-          "detail": "IT之家 7 月 10 日消息，小米集团合伙人 / 总裁、手机部总裁、小米品牌总经理卢伟冰今天在微博发文，为我们带来 REDMI Note 17 标准版手机的参数爆料。 据介绍， 这款手机将升级红米最大 7 英寸 OLED 大屏 ， 支持 120Hz 高刷 ，全局亮度可达 1200nits，支持小米青山护眼， 还拥有同档位罕见的 8000mAh 大电池 。…",
-          "keyPoints": [
-            "屏幕形态",
-            "电池 / 充电",
-            "爆料来源"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "newsnow-821c2adfc813",
-          "title": "崩溃了，我真的崩溃了。oppo的12g运行内存完全不够用，会卡！这玩意平时很流畅，开几个软件没及时关闭，内存一满就卡。用vivo和苹果我就没清过后台。之前待办事项回收通知的问题也是杀后台导致的，太无语了这oppo手机！！！！！我可以接受你杀后台，但你最起码待办事项的通知给我留着，别回收吧。还有就是你杀后台给我杀好了呀，杀后台还卡顿，那你杀了个寂寞。但是vivo的温控点差劲，发热就卡。等vivo啥时候把温控放开一点，我就重回vivo #ColorOS16#我基本上每个换机都是好评，只有这个OPPO我实在好评不下去了，2026年了，八至尊的芯片居然还频繁卡顿哪怕因为12g运行内存少，但它也不应该让它卡顿，你可以优化好，怎么着也得前台进程优先吧",
-          "originalTitle": "",
-          "source": "酷安热榜",
-          "brand": "OPPO",
-          "type": "爆料",
-          "trust": "高关注爆料源",
-          "date": "2026-07-10",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://www.coolapk.com/feed/72710262",
-          "image": "",
-          "verdict": "先看",
-          "takeaway": "崩溃了，我真的崩溃了。oppo的12g运行内存完全不够用，会卡！这玩意平时很流畅，开几个软件没及时关闭，内存一满就卡。用vivo和苹果我就没清过后台。之前待办事项回收通知的问题也是杀后台导致的，太无语了这oppo手机！！！！！我可以接受你杀后台，但你最起码待办事项的通知给我留着，别回收吧。还有就是你杀后台给我杀好了呀，杀后台还卡顿，那你杀了个寂寞。但是vi…",
-          "detail": "崩溃了，我真的崩溃了。oppo的12g运行内存完全不够用，会卡！这玩意平时很流畅，开几个软件没及时关闭，内存一满就卡。用vivo和苹果我就没清过后台。之前待办事项回收通知的问题也是杀后台导致的，太无语了这oppo手机！！！！！我可以接受你杀后台，但你最起码待办事项的通知给我留着，别回收吧。还有就是你杀后台给我杀好了呀，杀后台还卡顿，那你杀了个寂寞。但是vi…",
-          "keyPoints": [
-            "外观 / 配色 / 尺寸",
-            "芯片 / 性能"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "weibo-d0bea41af285",
-          "title": "数码闲聊站：小米本月两大新品： 小米澎程SkyNomad，大致外观来了，十字大灯，机盖上有…",
-          "originalTitle": "",
-          "source": "数码闲聊站",
-          "brand": "Xiaomi",
-          "type": "爆料",
-          "trust": "高关注爆料源",
-          "date": "2026-07-09",
-          "time": "01:02",
-          "publishedAt": "2026-07-09T01:02:48.000Z",
-          "url": "https://weibo.com/6048569942/R7QjSmaMx",
-          "image": "https://tvax3.sinaimg.cn/mw2000/006BlblIgy1iexgoyp5puj31o0280k6e.jpg",
-          "verdict": "先看",
-          "takeaway": "小米本月两大新品： 小米澎程SkyNomad，大致外观来了，十字大灯，机盖上有小米logo，同时标有SkyNomad，顶部激光雷达，传闻有车顶帐篷，可变大空间SUV； 红米Note17 Pro，1.5K OLED直屏+1nit低亮度显示+9000mAh单电芯电池+67W快充。",
-          "detail": "小米本月两大新品： 小米澎程SkyNomad，大致外观来了，十字大灯，机盖上有小米logo，同时标有SkyNomad，顶部激光雷达，传闻有车顶帐篷，可变大空间SUV； 红米Note17 Pro，1.5K OLED直屏+1nit低亮度显示+9000mAh单电芯电池+67W快充。",
-          "keyPoints": [
-            "外观 / 配色 / 尺寸",
-            "屏幕形态",
-            "电池 / 充电",
-            "爆料来源"
-          ],
-          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "coolapk-user-8b51cb276569",
-          "title": "竹本青：REDMI Note 17标准版搭载8000mAh电池和45W快充",
-          "originalTitle": "",
-          "source": "竹本青",
-          "brand": "Xiaomi",
-          "type": "爆料",
-          "trust": "高可信爆料",
-          "date": "2026-07-10",
-          "time": "04:01",
-          "publishedAt": "2026-07-10T04:01:38.000Z",
-          "url": "https://www.coolapk.com/feed/72722978",
-          "image": "http://image.coolapk.com/feed/2026/0710/12/4248714_021741fe_6097_7196_881@1080x1440.jpg",
-          "verdict": "先看",
-          "takeaway": "【REDMI Note 17标准版 续航组合公布：8000mAh+45W快充】 ▫️8000mAh电池+45W有线 ▫️支持22.5W反向充电 ▫️首销购机赠送电池保 #今日热点# #红米Note17# #HyperOS3#",
-          "detail": "【REDMI Note 17标准版 续航组合公布：8000mAh+45W快充】 ▫️8000mAh电池+45W有线 ▫️支持22.5W反向充电 ▫️首销购机赠送电池保 #今日热点# #红米Note17# #HyperOS3#",
-          "keyPoints": [
-            "电池 / 充电"
-          ],
-          "confidence": "可信度较高，但仍属于发布前线索。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         }
       ]
     },
@@ -237,158 +235,6 @@ window.phoneRadarDaily = {
           ],
           "confidence": "官方内容，可直接作为已确认信息记录。",
           "impact": "可信度高，但如果不是配置/价格消息，只需要扫一眼。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        }
-      ]
-    },
-    {
-      "id": "launch",
-      "title": "新机与官方发布",
-      "hint": "能直接更新到参数库。",
-      "items": [
-        {
-          "id": "coolapk-user-d950c6f7a499",
-          "title": "竹本青：【OPPO法务部：一网民恶意造谣一加 Ace 3被警方行政处罚】 7月10日，OPPO法务部发布“关于高某恶意造谣…",
-          "originalTitle": "",
-          "source": "竹本青",
-          "brand": "OPPO",
-          "type": "爆料",
-          "trust": "高可信爆料",
-          "date": "2026-07-10",
-          "time": "04:05",
-          "publishedAt": "2026-07-10T04:05:08.000Z",
-          "url": "https://www.coolapk.com/feed/72723020",
-          "image": "http://image.coolapk.com/feed/2026/0710/12/4248714_f71cdac8_6307_6856_401@1439x902.jpg",
-          "verdict": "扫一眼",
-          "takeaway": "【OPPO法务部：一网民恶意造谣一加 Ace 3被警方行政处罚】 7月10日，OPPO法务部发布“关于高某恶意造谣一加 Ace 3 被警方行政处罚”的信息通报： 近期，开封一网民高某多次在抖音、快手、微博等平台恶意造谣并散布我司一加Ace 3产品质量相关的不实信息，误导公众并严重损害我司品牌声誉。 我司第一时间向公安机关报案，经警方调查，高某行为违反治安管…",
-          "detail": "【OPPO法务部：一网民恶意造谣一加 Ace 3被警方行政处罚】 7月10日，OPPO法务部发布“关于高某恶意造谣一加 Ace 3 被警方行政处罚”的信息通报： 近期，开封一网民高某多次在抖音、快手、微博等平台恶意造谣并散布我司一加Ace 3产品质量相关的不实信息，误导公众并严重损害我司品牌声誉。 我司第一时间向公安机关报案，经警方调查，高某行为违反治安管…",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "可信度较高，但仍属于发布前线索。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        }
-      ]
-    },
-    {
-      "id": "market",
-      "title": "行业趋势",
-      "hint": "看方向，不急着当购买依据。",
-      "items": [
-        {
-          "id": "auto-42e6c8b3e99e",
-          "title": "vivo 印度与 Dixon 设立合资企业获批，将在当地制造手机等产品",
-          "originalTitle": "",
-          "source": "IT之家",
-          "brand": "vivo",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-07-10",
-          "time": "03:38",
-          "publishedAt": "2026-07-10T03:38:31.000Z",
-          "url": "https://www.ithome.com/0/974/939.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/7/47b0bc3a-4bef-4987-9832-ab824792d2f5.jpg?x-bce-process=image/format,f_auto",
-          "verdict": "先看",
-          "takeaway": "IT之家 7 月 10 日消息，印度 EMS（电子制造服务）企业 Dixon 当地时间昨日表示， 印度商务和工业部工业和国内贸易促进署正式批准 Dixon 与 vivo 印度设立一家 51:49 合资企业 。 这家合资企业将在印度开展包括智能手机在内的电子设备 OEM 业务，处理来自 vivo 印度甚至其它电子产品企业的订单。 IT之家注意到，Dixon…",
-          "detail": "IT之家 7 月 10 日消息，印度 EMS（电子制造服务）企业 Dixon 当地时间昨日表示， 印度商务和工业部工业和国内贸易促进署正式批准 Dixon 与 vivo 印度设立一家 51:49 合资企业 。 这家合资企业将在印度开展包括智能手机在内的电子设备 OEM 业务，处理来自 vivo 印度甚至其它电子产品企业的订单。 IT之家注意到，Dixon…",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "中文源可以直接点开快读；看完只保留和购机有关的点。"
-        },
-        {
-          "id": "newsnow-a391e2bad581",
-          "title": "当断网断电的时候，你就会很慌，二楼也会被淹没，当你的父母看到在外地上学的孩子无法联系上的时候，该有多么着急！手机带卫星通话短报文的，不要老觉得他没用！#MagicOS10# #ColorOS16#",
-          "originalTitle": "",
-          "source": "酷安热榜",
-          "brand": "OPPO",
-          "type": "爆料",
-          "trust": "高关注爆料源",
-          "date": "2026-07-10",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://www.coolapk.com/feed/72708676",
-          "image": "",
-          "verdict": "先看",
-          "takeaway": "当断网断电的时候，你就会很慌，二楼也会被淹没，当你的父母看到在外地上学的孩子无法联系上的时候，该有多么着急！手机带卫星通话短报文的，不要老觉得他没用！#MagicOS10# #ColorOS16#",
-          "detail": "当断网断电的时候，你就会很慌，二楼也会被淹没，当你的父母看到在外地上学的孩子无法联系上的时候，该有多么着急！手机带卫星通话短报文的，不要老觉得他没用！#MagicOS10# #ColorOS16#",
-          "keyPoints": [
-            "外观 / 配色 / 尺寸"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
-        {
-          "id": "coolapk-user-af41c9975b37",
-          "title": "JSCHEN小小狐：白天去上海松江转了一圈 居然没下雨，这就是台风前的平静吗 #手机摄影#",
-          "originalTitle": "",
-          "source": "JSCHEN小小狐",
-          "brand": "Xiaomi",
-          "type": "爆料",
-          "trust": "高可信爆料",
-          "date": "2026-07-09",
-          "time": "14:00",
-          "publishedAt": "2026-07-09T14:00:25.000Z",
-          "url": "https://www.coolapk.com/feed/72717282",
-          "image": "http://image.coolapk.com/feed/2026/0709/22/4702274_368f638b_5623_1535_637-uhdr@2365x3504.jpg",
-          "verdict": "扫一眼",
-          "takeaway": "白天去上海松江转了一圈 居然没下雨，这就是台风前的平静吗 #手机摄影#",
-          "detail": "白天去上海松江转了一圈 居然没下雨，这就是台风前的平静吗 #手机摄影#",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "可信度较高，但仍属于发布前线索。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
-        {
-          "id": "coolapk-user-aa7d554c4982",
-          "title": "JSCHEN小小狐：思特威推出 SC570XS：50Mp 1/1.56'' LOFIC",
-          "originalTitle": "",
-          "source": "JSCHEN小小狐",
-          "brand": "Pixel",
-          "type": "爆料",
-          "trust": "高可信爆料",
-          "date": "2026-07-09",
-          "time": "13:41",
-          "publishedAt": "2026-07-09T13:41:21.000Z",
-          "url": "https://www.coolapk.com/feed/72717026",
-          "image": "http://image.coolapk.com/feed/2026/0709/21/4702274_5f0213b5_4480_4109_377@2350x1115.jpg",
-          "verdict": "扫一眼",
-          "takeaway": "『思特威推出 SC570XS：50Mp 1/1.56'' LOFIC』 ◇ 5000 万像素，1/1.56''，1.0μm ◇ 先进的 22nm Stack 工艺制程 ◇ 100% 全像素对焦（AllPix ADAF） ◇ 约 0.82e- 低噪声（SFCPixel-2） ◇ 111dB* 动态范围（Lofic HDR 3.0） ◇ 4K 60fps HD…",
-          "detail": "『思特威推出 SC570XS：50Mp 1/1.56'' LOFIC』 ◇ 5000 万像素，1/1.56''，1.0μm ◇ 先进的 22nm Stack 工艺制程 ◇ 100% 全像素对焦（AllPix ADAF） ◇ 约 0.82e- 低噪声（SFCPixel-2） ◇ 111dB* 动态范围（Lofic HDR 3.0） ◇ 4K 60fps HD…",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "可信度较高，但仍属于发布前线索。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
-        {
-          "id": "newsnow-01348b9329f9",
-          "title": "REDMI Note17 Pro 官宣支持五年流畅",
-          "originalTitle": "",
-          "source": "酷安热榜",
-          "brand": "Xiaomi",
-          "type": "爆料",
-          "trust": "高关注爆料源",
-          "date": "2026-07-10",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://www.coolapk.com/feed/72711390",
-          "image": "",
-          "verdict": "扫一眼",
-          "takeaway": "REDMI Note17 Pro 官宣支持五年流畅",
-          "detail": "REDMI Note17 Pro 官宣支持五年流畅",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         }
       ]

@@ -1,9 +1,329 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-07-10T04:13:26.241Z",
+  "updatedAt": "2026-07-10T07:51:55.057Z",
   "news": [
     {
+      "id": "auto-204e5d231717",
+      "title": "苹果 iPhone Ultra 阔折叠？消息称苹果供应商入网备案 4883mAh 电池",
+      "source": "IT之家",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-10",
+      "time": "07:50",
+      "publishedAt": "2026-07-10T07:50:17.000Z",
+      "url": "https://www.ithome.com/0/975/089.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/7/1c193389-9e20-4404-99a1-72160f1a48d6.png",
+      "summary": "IT之家 7 月 10 日消息，博主 @数码闲聊站 今日爆料，苹果电池供应商最近入网备案了两款新电池： 1921mAh+2962mAh＝4883mAh (min)，至于是否为苹果 iPhone Ultra 阔折叠，还有待进一步确认。 此前有消息称苹果首款折叠屏 iPhone 将于 7 月底启动量产。在近期因铰链问题一度传出延期消息的背景下， 苹果仍准备按原…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-5c66a6e6c456",
+      "title": "Is Samsung quietly putting the Galaxy Z Fold 8 on display early? Leak shows it off with a photo",
+      "source": "Android Authority",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-10",
+      "time": "07:47",
+      "publishedAt": "2026-07-10T07:47:20.000Z",
+      "url": "https://www.androidauthority.com/samsung-galaxy-z-fold-8-retail-display-leak-3686120/",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2026/07/Samsung-Galaxy-Z-Fold-8-Hands-on-in-Korea_1.jpg",
+      "summary": "A sneaky (alleged) retail leak from Korea suggests the tech giant might be breaking tradition to drum up early interest.",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "weibo-1999ad40fa05",
+      "title": "数码闲聊站：iPhone Ultra阔折叠的电池？苹果电池供应商最近入网备案了两款新电池：…",
+      "source": "数码闲聊站",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-07-10",
+      "time": "07:32",
+      "publishedAt": "2026-07-10T07:32:00.000Z",
+      "url": "https://weibo.com/6048569942/R82ilujPp",
+      "image": "",
+      "summary": "iPhone Ultra阔折叠的电池？苹果电池供应商最近入网备案了两款新电池： 1921mAh+2962mAh＝4883mAh(min) 之前我说过供应链预测容量也是4800-5000mAh，有待进一步确认[卡皮巴拉]",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "微博"
+      ]
+    },
+    {
+      "id": "auto-ee6649b16f4c",
+      "title": "苹果首款折叠手机：白色版 iPhone Ultra 机模曝光",
+      "source": "IT之家",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-10",
+      "time": "06:53",
+      "publishedAt": "2026-07-10T06:53:15.000Z",
+      "url": "https://www.ithome.com/0/975/052.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/7/64e32319-011b-47a0-ad35-ba8064cbc4cf.jpg",
+      "summary": "IT之家 7 月 10 日消息，消息源 @theapplehub 今天（7 月 10 日）在 X 平台发布推文， 分享了一段视频，展示了白色苹果首款折叠手机（上市后预估名为 iPhone Ultra）机模。 和IT之家此前报道过的黑色 iPhone Ultra 类似 ，本次曝光的机模屏幕中间有明显的折痕，消息源表示最终零售产品会有明显改善。 IT之家查询公…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-823ce414609e",
+      "title": "HMD Arc 2 手机发布：6.52 寸 720P LCD 水滴屏、紫光展锐 T603 芯片，2290 泰铢",
+      "source": "IT之家",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-10",
+      "time": "06:32",
+      "publishedAt": "2026-07-10T06:32:15.000Z",
+      "url": "https://www.ithome.com/0/975/032.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/7/62888286-6706-4e48-9784-457bb9694389.png?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 7 月 10 日消息，HMD Global 昨天在泰国推出 Arc 2 智能手机。新机定位入门，提供符合欧洲标准的安全保障，定价 2290 泰铢（现汇率约合 466.3 元人民币）起。 据介绍， 这款手机配备一块 6.52 英寸的 LCD 水滴屏 ，分辨率为 720P（HD+），刷新率 60Hz。搭载紫光展锐 T603 处理器，采用 12nm 制…",
+      "tags": [
+        "行业",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-1b9f366cb867",
+      "title": "Galaxy Z Fold 8, Fold 8 Ultra prices leak for US, and there might be bad news",
+      "source": "Android Authority",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-10",
+      "time": "06:08",
+      "publishedAt": "2026-07-10T06:08:12.000Z",
+      "url": "https://www.androidauthority.com/samsung-galaxy-z-fold-8-us-price-leak-3686093/",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2025/07/samsung-galaxy-z-fold-7-open-on-table.jpg",
+      "summary": "It looks like a price hike is on the cards once again.",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-8b0e3e18cb08",
+      "title": "不用上传云端：谷歌原生安卓支持本地备份短信 / 通话记录等",
+      "source": "IT之家",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-10",
+      "time": "06:03",
+      "publishedAt": "2026-07-10T06:03:04.000Z",
+      "url": "https://www.ithome.com/0/975/003.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/7/29e182eb-60f6-49ed-8134-4c067b55c6b1.png",
+      "summary": "IT之家 7 月 10 日消息，科技媒体 9to5Google 昨日（7 月 9 日）发布博文，报道称在 Pixel 10 等手机上，谷歌调整原生文档备份选项，支持用户根据使用需求， 选择是否云端备份短信和彩信、通话记录和设备设置。 该媒体指出在此前安卓版本中，谷歌会自动同步上传短信和彩信、通话记录和设备设置，而在 26.25 版本 Google Play…",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-ef56f89fb968",
+      "title": "竹本青：小米澎程公布首款 SUV 车内空间部分可变场景",
+      "source": "竹本青",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-07-10",
+      "time": "06:02",
+      "publishedAt": "2026-07-10T06:02:27.000Z",
+      "url": "https://www.coolapk.com/feed/72724456",
+      "image": "http://image.coolapk.com/feed/2026/0710/14/4248714_b8436a2a_3530_8594_520@2000x2667.jpg",
+      "summary": "【小米澎程公布首款 SUV 车内空间部分可变场景】 1个人 —— 工作室 2个人 —— 咖啡馆 3个人 —— 会客厅 全家人 —— 游乐场 小米昨日介绍，全新澎程 SUV系列 搭载小米昆仑架构，支持车内空间自由变换。“一辆车，容纳生活的无限可能，这是关于 SUV 空间的新答案。” #今日热点# #HyperOS3# #小米澎程#",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "coolapk-user-c6aa6e663537",
+      "title": "竹本青：【REDMI Note17 标准版 软件预热：定位共享、健康数据共享】 ▫️共享定位+健康数据 ▫️软件管理 ▫️…",
+      "source": "竹本青",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-07-10",
+      "time": "06:01",
+      "publishedAt": "2026-07-10T06:01:17.000Z",
+      "url": "https://www.coolapk.com/feed/72724443",
+      "image": "http://image.coolapk.com/feed/2026/0710/14/4248714_ef22c404_3276_8015_361@1440x1920.jpg",
+      "summary": "【REDMI Note17 标准版 软件预热：定位共享、健康数据共享】 ▫️共享定位+健康数据 ▫️软件管理 ▫️危险拦截 ▫️紧急求助 #今日热点# #红米Note17# #HyperOS3#",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "coolapk-user-b2643984b069",
+      "title": "竹本青：2026年第27周国内手机市场份额曝光：大盘略下降",
+      "source": "竹本青",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-07-10",
+      "time": "05:59",
+      "publishedAt": "2026-07-10T05:59:06.000Z",
+      "url": "https://www.coolapk.com/feed/72724414",
+      "image": "http://image.coolapk.com/feed/2026/0710/13/4248714_e779608d_3145_7602_810@1440x1005.jpg",
+      "summary": "【2026年第27周 国内手机市场份额曝光：华为保持榜首，大盘略下降】 ● 2026 W27：大盘略微下降 1.华为 —— 19.6% 2.苹果 —— 18.0% 3.OPPO —— 16.6%（含一加 3.4%，realme 0.7%） 4.vivo —— 16.3%（含iQOO 4.4%） 5.小米 —— 14.3% 6.荣耀 —— 11.4% ● 2…",
+      "tags": [
+        "HONOR",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-c44223b79d3d",
+      "title": "摩托罗拉 Edge 70 Max 手机渲染图曝光：第五代骁龙 8 处理器，7100mAh 电池",
+      "source": "IT之家",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-10",
+      "time": "05:52",
+      "publishedAt": "2026-07-10T05:52:04.000Z",
+      "url": "https://www.ithome.com/0/975/001.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/7/525ad64d-6b59-4a24-b323-277e2f876dd9.png?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 7 月 10 日消息，消息源 Roland Quandt 昨日（7 月 9 日）在 Bluesky 平台发布动态，分享了一组渲染图， 展示了摩托罗拉 Edge 70 Max 手机，配备高通第五代骁龙 8 处理器。 外观方面，IT之家此前报道，摩托罗拉 Edge 70 Max 手机沿用家族式设计语言，采用直屏方案，屏幕边框较窄，前置镜头为居中打孔方…",
+      "tags": [
+        "行业",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-263775e10df9",
+      "title": "竹本青：酷友还是太全面了……[受虐滑稽] #HyperOS3# #沙雕乐园# #数码日常#",
+      "source": "竹本青",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-07-10",
+      "time": "05:12",
+      "publishedAt": "2026-07-10T05:12:44.000Z",
+      "url": "https://www.coolapk.com/feed/72723831",
+      "image": "http://image.coolapk.com/feed/2026/0710/13/4248714_2080e8c2_0363_0358_282@1440x2235.jpg",
+      "summary": "酷友还是太全面了……[受虐滑稽] #HyperOS3# #沙雕乐园# #数码日常#",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "coolapk-user-517a1f4961ee",
+      "title": "竹本青：华为MateBook Fold2 被曝下半年发布：麒麟X9系芯片",
+      "source": "竹本青",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-07-10",
+      "time": "05:09",
+      "publishedAt": "2026-07-10T05:09:23.000Z",
+      "url": "https://www.coolapk.com/feed/72723793",
+      "image": "http://image.coolapk.com/feed/2026/0710/13/4248714_15f7c841_0161_9639_287@1440x1457.jpg",
+      "summary": "【华为MateBook Fold2 被曝下半年发布：麒麟X9系芯+可折叠OLED屏】 ● 流光金/天际白/幻影黑 ● 麒麟X9系芯片 ● OLED可折叠超大屏 ● 24GB+512GB/24GB+1TB/32GB+2TB #今日热点# #华为MateBookFold非凡大师# #鸿蒙6#",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-90034ccf078d",
+      "title": "Samsung updates Galaxy Z Fold 7, Flip 7 with July 2026 security patch",
+      "source": "SamMobile",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-10",
+      "time": "05:00",
+      "publishedAt": "2026-07-10T05:00:58.000Z",
+      "url": "https://www.sammobile.com/news/samsung-updates-galaxy-z-fold-7-flip-7-with-july-2026-security-patch/",
+      "image": "",
+      "summary": "Yesterday, Samsung started rolling out the July 2026 security patch to Galaxy smartphones, with the Galaxy S26 and Galaxy S25 lineups getting it first. Now, the brand has kicked o…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-483aa30031ac",
+      "title": "Apple is undecided on whether to use liquid metal or 3D printing for its foldable hinge system",
+      "source": "Gizmochina",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-10",
+      "time": "04:42",
+      "publishedAt": "2026-07-10T04:42:12.000Z",
+      "url": "https://www.gizmochina.com/2026/07/10/apple-is-undecided-on-whether-to-use-liquid-metal-or-3d-printing-for-its-foldable-hinge-system/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2025/12/Apple-iPhone-Fold-render-2-300x200.jpg?x44794",
+      "summary": "A new leak claims Apple‘s upcoming foldable iPhone, expected to be called the iPhone Ultra, may have a screen as flat as the Oppo Find N6. The claim comes from blogger Fixed Focus…",
+      "tags": [
+        "OPPO",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-e4db0bb39ee9",
+      "title": "Huawei Pura 90s series coming to UAE on July 16",
+      "source": "Huawei Central",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-10",
+      "time": "04:26",
+      "publishedAt": "2026-07-10T04:26:59.000Z",
+      "url": "https://www.huaweicentral.com/huawei-pura-90s-series-coming-to-uae-on-july-16/",
+      "image": "https://www.huaweicentral.com/wp-content/uploads/2026/07/Pura-90s-UAE.jpg",
+      "summary": "Huawei Pura 90s series will arrive in the global market next week, and apart from Malaysia, the flagship lineup will also debut in the UAE on July 16. The company will soon expand…",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
       "id": "coolapk-user-d950c6f7a499",
-      "title": "竹本青：【OPPO法务部：一网民恶意造谣一加 Ace 3被警方行政处罚】 7月10日，OPPO法务部发布“关于高某恶意造谣…",
+      "title": "竹本青：OPPO法务部：一网民造谣一加Ace 3被警方行政处罚",
       "source": "竹本青",
       "brand": "OPPO",
       "model": "OPPO 相关机型",
@@ -23,7 +343,7 @@ window.phoneRadarAuto = {
     },
     {
       "id": "coolapk-user-aff37e7b9475",
-      "title": "竹本青：⁠小米澎程 N90“证件照”公布 #小米YU7# #小米澎程# #今日热点#",
+      "title": "竹本青：小米澎程 N90 Max“证件照”公布：标志性十字大灯+环绕尾灯",
       "source": "竹本青",
       "brand": "Xiaomi",
       "model": "Xiaomi 相关机型",
@@ -34,7 +354,7 @@ window.phoneRadarAuto = {
       "publishedAt": "2026-07-10T04:03:43.000Z",
       "url": "https://www.coolapk.com/feed/72723006",
       "image": "http://image.coolapk.com/feed/2026/0710/12/4248714_9d81b166_6219_284_856@2000x1500.jpg",
-      "summary": "⁠小米澎程 N90“证件照”公布 #小米YU7# #小米澎程# #今日热点#",
+      "summary": "【小米澎程 N90 Max“证件照”公布：标志性十字大灯+环形尾灯】 ● 十字大灯组+封闭前脸 ● 大尺寸梯形进气口 ● 半隐藏式车门把手 ● 车顶集成智驾传感器组 ● 中网内嵌“SKYNOMAD” ● 多辐条涡轮轮毂 ● 开口式环形尾灯 ● 昆仑架构+纯平地板+长滑轨 #小米YU7# #小米澎程# #今日热点#",
       "tags": [
         "Xiaomi",
         "爆料",
@@ -62,26 +382,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-42e6c8b3e99e",
-      "title": "vivo 印度与 Dixon 设立合资企业获批，将在当地制造手机等产品",
-      "source": "IT之家",
-      "brand": "vivo",
-      "model": "vivo 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-10",
-      "time": "03:38",
-      "publishedAt": "2026-07-10T03:38:31.000Z",
-      "url": "https://www.ithome.com/0/974/939.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/7/47b0bc3a-4bef-4987-9832-ab824792d2f5.jpg?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 7 月 10 日消息，印度 EMS（电子制造服务）企业 Dixon 当地时间昨日表示， 印度商务和工业部工业和国内贸易促进署正式批准 Dixon 与 vivo 印度设立一家 51:49 合资企业 。 这家合资企业将在印度开展包括智能手机在内的电子设备 OEM 业务，处理来自 vivo 印度甚至其它电子产品企业的订单。 IT之家注意到，Dixon…",
-      "tags": [
-        "vivo",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-f634b0e00563",
       "title": "Redmi Note 17 gets a giant 7-inch OLED display and 8000mAh battery ahead of launch",
       "source": "Gizmochina",
@@ -102,46 +402,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-da6dd7d4cc03",
-      "title": "小米卢伟冰爆料 REDMI Note 17 标准版手机：红米最大 7 寸 OLED 屏、同档罕有 8000mAh 电池",
-      "source": "IT之家",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-10",
-      "time": "03:11",
-      "publishedAt": "2026-07-10T03:11:40.000Z",
-      "url": "https://www.ithome.com/0/974/930.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/7/f6d026ed-d41f-4aa0-82ae-ed25bdc7ccd5.jpg?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 7 月 10 日消息，小米集团合伙人 / 总裁、手机部总裁、小米品牌总经理卢伟冰今天在微博发文，为我们带来 REDMI Note 17 标准版手机的参数爆料。 据介绍， 这款手机将升级红米最大 7 英寸 OLED 大屏 ， 支持 120Hz 高刷 ，全局亮度可达 1200nits，支持小米青山护眼， 还拥有同档位罕见的 8000mAh 大电池 。…",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "coolapk-user-0be03e7a4d32",
-      "title": "竹本青：REDMI Note 17标准版屏幕预热：全局至高1200nits",
-      "source": "竹本青",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-07-10",
-      "time": "03:04",
-      "publishedAt": "2026-07-10T03:04:03.000Z",
-      "url": "https://www.coolapk.com/feed/72722196",
-      "image": "http://image.coolapk.com/feed/2026/0710/11/4248714_c38701d5_2642_4214_138@1440x1920.jpg",
-      "summary": "【REDMI Note 17标准版 屏幕预热：7英寸高刷OLED，全局至高1200nits】 ● 7\"120Hz OLED屏 ● 全局亮度1200nits ● 支持小米青山护眼 #今日热点# #HyperOS3# #红米Note17#",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
       "id": "weibo-fb4eeb1782d6",
       "title": "数码闲聊站：独家信息：加加迭代线的硅电池来到25％±，目前有9000mAh±/120W，1…",
       "source": "数码闲聊站",
@@ -159,26 +419,6 @@ window.phoneRadarAuto = {
         "行业",
         "爆料",
         "微博"
-      ]
-    },
-    {
-      "id": "auto-7f1d3a7884af",
-      "title": "Win10/Win11 学院：如何在微软 Edge 150 稳定版浏览器启用谷歌账号登录入口",
-      "source": "IT之家",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-10",
-      "time": "01:38",
-      "publishedAt": "2026-07-10T01:38:08.000Z",
-      "url": "https://www.ithome.com/0/974/826.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/7/cfb24e11-a004-4b28-8bf0-6ea87272808d.png?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 7 月 10 日消息，科技媒体 Windows Latest 今天（7 月 10 日）发布博文，报道称在 Microsoft Edge 浏览器 150 稳定版（150.0.4078.48）中， 微软新增支持谷歌账号登录入口。 微软于 7 月 2 日发布 Microsoft Edge 150 稳定版 ，主要新增支持谷歌账号登录入口，不过由于该功能…",
-      "tags": [
-        "行业",
-        "爆料",
-        "自动抓取"
       ]
     },
     {
@@ -302,6 +542,26 @@ window.phoneRadarAuto = {
       ]
     },
     {
+      "id": "newsnow-fee623e8b81c",
+      "title": "亲妹妹初中毕业了，我出4000，旧手机卖800她再做几天兼职还我400，只为一个苹果17，女生是真都喜欢苹果啊[捂脸][捂脸][捂脸]不过问问大家这17连个长焦都没有，日常真好用吗？",
+      "source": "酷安热榜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-07-10",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/72696885",
+      "image": "",
+      "summary": "亲妹妹初中毕业了，我出4000，旧手机卖800她再做几天兼职还我400，只为一个苹果17，女生是真都喜欢苹果啊[捂脸][捂脸][捂脸]不过问问大家这17连个长焦都没有，日常真好用吗？",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
       "id": "newsnow-821c2adfc813",
       "title": "崩溃了，我真的崩溃了。oppo的12g运行内存完全不够用，会卡！这玩意平时很流畅，开几个软件没及时关闭，内存一满就卡。用vivo和苹果我就没清过后台。之前待办事项回收通知的问题也是杀后台导致的，太无语了这oppo手机！！！！！我可以接受你杀后台，但你最起码待办事项的通知给我留着，别回收吧。还有就是你杀后台给我杀好了呀，杀后台还卡顿，那你杀了个寂寞。但是vivo的温控点差劲，发热就卡。等vivo啥时候把温控放开一点，我就重回vivo #ColorOS16#我基本上每个换机都是好评，只有这个OPPO我实在好评不下去了，2026年了，八至尊的芯片居然还频繁卡顿哪怕因为12g运行内存少，但它也不应该让它卡顿，你可以优化好，怎么着也得前台进程优先吧",
       "source": "酷安热榜",
@@ -338,6 +598,26 @@ window.phoneRadarAuto = {
       "tags": [
         "iPhone",
         "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-517e5671b126",
+      "title": "一位家长说自己不限制孩子玩手机，等到孩子玩腻了、感觉无聊了就不玩了，请问这有可能吗？",
+      "source": "知乎热榜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "市场报告",
+      "trust": "媒体汇总",
+      "date": "2026-07-10",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.zhihu.com/question/2056407322340103396",
+      "image": "",
+      "summary": "一位家长说自己不限制孩子玩手机，等到孩子玩腻了、感觉无聊了就不玩了，请问这有可能吗？",
+      "tags": [
+        "行业",
+        "市场报告",
         "NewsNow"
       ]
     },
@@ -802,26 +1082,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-c0e5dd66d071",
-      "title": "Galaxy Z Fold 8 Ultra could get some Galaxy S26 Ultra camera features",
-      "source": "SamMobile",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-09",
-      "time": "11:16",
-      "publishedAt": "2026-07-09T11:16:40.000Z",
-      "url": "https://www.sammobile.com/news/galaxy-z-fold-8-ultra-could-get-some-galaxy-s26-ultra-camera-features/",
-      "image": "",
-      "summary": "The Galaxy Z Fold 8 Ultra is expected to be Samsung’s most advanced foldable smartphone yet. Despite costing more than Galaxy S Ultra devices, Galaxy Z Fold series phones have tra…",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-ad82ed6f08b4",
       "title": "This upcoming Android phone just raised the bar for free battery replacements",
       "source": "Android Central",
@@ -1097,26 +1357,6 @@ window.phoneRadarAuto = {
       "summary": "Oppo is reportedly working on its next foldable phone, the Find N7. Multiple leaks have claimed that it will sport a wide foldable design similar to the forthcoming Samsung Galaxy…",
       "tags": [
         "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-2fa84df47237",
-      "title": "Huawei Pura 90s Pro series pre-sale begins in Malaysia",
-      "source": "Huawei Central",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-09",
-      "time": "03:21",
-      "publishedAt": "2026-07-09T03:21:11.000Z",
-      "url": "https://www.huaweicentral.com/huawei-pura-90s-pro-series-pre-sale-begins-in-malaysia/",
-      "image": "https://www.huaweicentral.com/wp-content/uploads/2026/07/rebate-deal.jpg",
-      "summary": "Huawei Pura 90s Pro series pre-sale activity is live in Malaysia. The company has launched the early bird offers for the upcoming flagship smartphones ahead of their official unve…",
-      "tags": [
-        "Huawei",
         "爆料",
         "自动抓取"
       ]
