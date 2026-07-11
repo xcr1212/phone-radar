@@ -1,24 +1,84 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-07-11T11:18:15.053Z",
+  "updatedAt": "2026-07-11T13:53:31.025Z",
   "news": [
     {
-      "id": "coolapk-user-be200ca298e9",
-      "title": "竹本青：【海信墨水屏手机 A10 正式官宣：前后双屏+4nm 高通芯】 ● 正面 6.13英寸墨水屏 ● 背面 LCD高显…",
-      "source": "竹本青",
-      "brand": "行业",
-      "model": "智能手机市场",
+      "id": "auto-d533f7b81b4a",
+      "title": "手机厂商 Ultra 超大杯机型激活量曝光：iQOO、小米、vivo 超 20 万台",
+      "source": "IT之家",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
       "type": "爆料",
-      "trust": "高可信爆料",
+      "trust": "媒体汇总",
       "date": "2026-07-11",
-      "time": "10:47",
-      "publishedAt": "2026-07-11T10:47:06.000Z",
-      "url": "https://www.coolapk.com/feed/72740992",
-      "image": "http://image.coolapk.com/feed/2026/0711/18/4248714_f1c80132_6825_2616_334@1086x1448.jpg",
-      "summary": "【海信墨水屏手机 A10 正式官宣：前后双屏+4nm 高通芯】 ● 正面 6.13英寸墨水屏 ● 背面 LCD高显色彩屏 ● 4nm 8核高通芯片 ● 5G全网通+双频WiFi6 ● 安卓16系统 #今日热点# #墨水屏# #海信A10#",
+      "time": "13:19",
+      "publishedAt": "2026-07-11T13:19:38.000Z",
+      "url": "https://www.ithome.com/0/975/592.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/7/03c58ed1-8ed7-4b28-bf9a-7d25045b87c5.jpg",
+      "summary": "IT之家 7 月 11 日消息，博主 @数码闲聊站 今日公布了各家 Ultra 超大杯手机目前激活量： iQOO 15 Ultra ——24.1W± Xiaomi 17 Ultra ——23.3W± vivo X300 Ultra ——22.4W± OPPO Find X9 Ultra ——13.6W± IT之家附这几台手机简要介绍： iQOO 15 Ul…",
       "tags": [
-        "行业",
+        "Xiaomi",
         "爆料",
-        "酷安博主"
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-1dab7b2258b6",
+      "title": "Honor on its way to challenge Huawei in wide foldable battle",
+      "source": "Huawei Central",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-11",
+      "time": "13:02",
+      "publishedAt": "2026-07-11T13:02:55.000Z",
+      "url": "https://www.huaweicentral.com/honor-on-its-way-to-challenge-huawei-in-wide-foldable-battle/",
+      "image": "https://www.huaweicentral.com/wp-content/uploads/2026/05/PuraXMax-img1.jpg",
+      "summary": "Huawei has been a champion in the wide foldable phone battle for the past two years, but it seems Honor is planning to outperform Pura X Max with its own creation. The Magic phone…",
+      "tags": [
+        "HONOR",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-9a36ce429717",
+      "title": "小米 REDMI Note 17 系列手机规格曝光：骁龙 4 Gen4 / 6s Gen4，主摄 50MP",
+      "source": "IT之家",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-11",
+      "time": "12:30",
+      "publishedAt": "2026-07-11T12:30:07.000Z",
+      "url": "https://www.ithome.com/0/975/586.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/7/edc00182-c892-4680-9c1b-9e06f4f559d6.jpg?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 7 月 11 日消息，小米 REDMI Note 17 系列手机发布会已定档 7 月 14 日。该机号称升配不升档，守住中端体验基线，主打超长续航更持久耐用。 博主 @体验more 今日曝光了新机的主要规格，IT之家汇总如下： REDMI Note 17 芯片：骁龙 4 Gen 4 屏幕：7 英寸 1080p 三星 E4 Pro、1200-180…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-86d35942fbd9",
+      "title": "Huawei making real 5G comeback in global market with Pura 90s",
+      "source": "Huawei Central",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-11",
+      "time": "12:16",
+      "publishedAt": "2026-07-11T12:16:06.000Z",
+      "url": "https://www.huaweicentral.com/huawei-making-real-5g-comeback-in-global-market-with-pura-90s/",
+      "image": "https://www.huaweicentral.com/wp-content/uploads/2026/07/network-speed.jpg",
+      "summary": "Huawei is really making a true “5G” comeback on the global stage next week with the Pura 90s series. The company will launch its new-generation flagship camera smartphones on July…",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "自动抓取"
       ]
     },
     {
@@ -39,26 +99,6 @@ window.phoneRadarAuto = {
         "行业",
         "爆料",
         "微博"
-      ]
-    },
-    {
-      "id": "auto-871fbc407130",
-      "title": "特朗普 T1 手机性能曝光：高通骁龙 7 Gen 3 芯片，单核比 Pixel 10a 低 32.48%",
-      "source": "IT之家",
-      "brand": "Pixel",
-      "model": "Pixel 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-11",
-      "time": "06:46",
-      "publishedAt": "2026-07-11T06:46:43.000Z",
-      "url": "https://www.ithome.com/0/975/451.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/7/bcd5cc09-296a-40a9-bdb8-7af041a02a1c.png?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 7 月 11 日消息，LTT Labs 于 7 月 9 日发布博文，评测了特朗普移动（Trump Mobile）的 T1 手机，显示该机配备高通骁龙 7 Gen 3 芯片，是基于 HTC U24 Pro 手机改造而来。 芯片方面，官方并未公布 T1 手机芯片信息，不过基于 AIDA64、AnTuTu、Geekbench 6 等应用报告， 基本可以…",
-      "tags": [
-        "Pixel",
-        "爆料",
-        "自动抓取"
       ]
     },
     {
@@ -103,7 +143,7 @@ window.phoneRadarAuto = {
     },
     {
       "id": "coolapk-user-66bc001a576c",
-      "title": "竹本青：【曝华为Mate 80系列 销量已超760万】 7月11日，博主「RD观测」发布第三方统计数据：截至2026年第2…",
+      "title": "竹本青：【曝华为Mate 80系列 销量已超760万台】 7月11日，博主「RD观测」发布第三方统计数据：截至2026年第…",
       "source": "竹本青",
       "brand": "Huawei",
       "model": "Huawei 相关机型",
@@ -114,7 +154,7 @@ window.phoneRadarAuto = {
       "publishedAt": "2026-07-11T04:38:31.000Z",
       "url": "https://www.coolapk.com/feed/72736717",
       "image": "http://image.coolapk.com/feed/2026/0711/12/4248714_144fa3cb_4710_1537_583@3417x2427.jpg",
-      "summary": "【曝华为Mate 80系列 销量已超760万】 7月11日，博主「RD观测」发布第三方统计数据：截至2026年第27周，华为Mate 80系列 累计销量约为760.55万台。 前几周数据如下： 截至2026 W26 —— 约743.84万 截至2026 W25 —— 约725.33万 截至2026 W24 —— 约697.04万 截至2026 W23 ——…",
+      "summary": "【曝华为Mate 80系列 销量已超760万台】 7月11日，博主「RD观测」发布第三方统计数据：截至2026年第27周，华为Mate 80系列 累计销量约为760.55万台。 前几周数据如下： 截至2026 W26 —— 约743.84万 截至2026 W25 —— 约725.33万 截至2026 W24 —— 约697.04万 截至2026 W23 —…",
       "tags": [
         "Huawei",
         "爆料",
@@ -262,26 +302,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-421a8d943716",
-      "title": "亲妹妹初中毕业了，我出4000，旧手机卖800她再做几天兼职还我400，只为一个苹果17，女生是真都喜欢苹果啊[捂脸][捂脸][捂脸]不过问问大家这17连个长焦都没有，日常真好用吗？",
-      "source": "酷安热榜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-07-11",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72696885",
-      "image": "",
-      "summary": "亲妹妹初中毕业了，我出4000，旧手机卖800她再做几天兼职还我400，只为一个苹果17，女生是真都喜欢苹果啊[捂脸][捂脸][捂脸]不过问问大家这17连个长焦都没有，日常真好用吗？",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
       "id": "newsnow-d53802d0ad53",
       "title": "这手机是真的烫啊，真受不了了，挂个 QQ 音乐在后台都巨烫，老哥有没有什么免解释的优化方案#小米17ProMax# #HyperOS3# #HyperOS4#",
       "source": "酷安热榜",
@@ -297,6 +317,26 @@ window.phoneRadarAuto = {
       "summary": "这手机是真的烫啊，真受不了了，挂个 QQ 音乐在后台都巨烫，老哥有没有什么免解释的优化方案#小米17ProMax# #HyperOS3# #HyperOS4#",
       "tags": [
         "Xiaomi",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-421a8d943716",
+      "title": "亲妹妹初中毕业了，我出4000，旧手机卖800她再做几天兼职还我400，只为一个苹果17，女生是真都喜欢苹果啊[捂脸][捂脸][捂脸]不过问问大家这17连个长焦都没有，日常真好用吗？",
+      "source": "酷安热榜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-07-11",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/72696885",
+      "image": "",
+      "summary": "亲妹妹初中毕业了，我出4000，旧手机卖800她再做几天兼职还我400，只为一个苹果17，女生是真都喜欢苹果啊[捂脸][捂脸][捂脸]不过问问大家这17连个长焦都没有，日常真好用吗？",
+      "tags": [
+        "iPhone",
         "爆料",
         "NewsNow"
       ]
@@ -442,26 +482,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "coolapk-user-7cd53cbcd3a9",
-      "title": "竹本青：【点评】 #荣耀MagicPad3# 用了一年了，好用，独家软件和扬声器是核心",
-      "source": "竹本青",
-      "brand": "HONOR",
-      "model": "HONOR 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-07-10",
-      "time": "13:25",
-      "publishedAt": "2026-07-10T13:25:22.000Z",
-      "url": "https://www.coolapk.com/feed/72729869",
-      "image": "",
-      "summary": "【点评】 #荣耀MagicPad3# 用了一年了，好用，独家软件和扬声器是核心",
-      "tags": [
-        "HONOR",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
       "id": "auto-4e99988ea8e2",
       "title": "Foldable iPhone’s battery could be bigger than the Galaxy Z Fold 8",
       "source": "SamMobile",
@@ -559,26 +579,6 @@ window.phoneRadarAuto = {
         "Huawei",
         "爆料",
         "自动抓取"
-      ]
-    },
-    {
-      "id": "coolapk-user-c5974bdd6487",
-      "title": "竹本青：【滴滴上线“靠谱好车”租车服务】 ● 筛选4年内车辆，一车一洗 ● 价格高于特定平台的八折，触发差价减免 ● 取车…",
-      "source": "竹本青",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-07-10",
-      "time": "12:29",
-      "publishedAt": "2026-07-10T12:29:41.000Z",
-      "url": "https://www.coolapk.com/feed/72729236",
-      "image": "http://image.coolapk.com/feed/2026/0711/00/4248714_304324c4_1930_4179_533@2560x1868.jpg",
-      "summary": "【滴滴上线“靠谱好车”租车服务】 ● 筛选4年内车辆，一车一洗 ● 价格高于特定平台的八折，触发差价减免 ● 取车享8个小时免费等待 ● 不限制自驾里程、区域 ● 还车时代劳加油、充电 #今日热点# #滴滴# #滴滴出行#",
-      "tags": [
-        "行业",
-        "爆料",
-        "酷安博主"
       ]
     },
     {
