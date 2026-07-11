@@ -1,11 +1,11 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-07-11T06:25:34.961Z",
+  "updatedAt": "2026-07-11T09:47:58.836Z",
   "issueDate": "2026-07-11",
   "issue": "VOL.260711",
   "title": "手机情报日报",
-  "intro": "今日筛出 16 条重点，其中 8 条是重点爆料，包含 11 条 iPhone 相关、1 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 18 条重点，其中 8 条是重点爆料，包含 11 条 iPhone 相关、1 条官方确认、0 条参数线索。",
   "stats": {
-    "total": 16,
+    "total": 18,
     "iphone": 11,
     "leaks": 8,
     "official": 1,
@@ -17,29 +17,6 @@ window.phoneRadarDaily = {
       "title": "重点爆料",
       "hint": "机模、配色、影像、屏幕、电池和芯片线索先看。",
       "items": [
-        {
-          "id": "auto-0087addde8de",
-          "title": "报道称欧版苹果 iPhone 18 Pro 豁免欧盟新规，不会改为可拆卸电池",
-          "originalTitle": "",
-          "source": "IT之家",
-          "brand": "iPhone",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-07-10",
-          "time": "23:11",
-          "publishedAt": "2026-07-10T23:11:25.000Z",
-          "url": "https://www.ithome.com/0/975/373.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/7/207c1ce3-a8b3-4cb3-9b53-9b12845b1218.png?x-bce-process=image/format,f_auto",
-          "verdict": "先看",
-          "takeaway": "IT之家 7 月 11 日消息，科技媒体 AppleInsider 昨日（7 月 10 日）发布博文，报道称 欧版 iPhone 18 Pro 以及 iPhone 18 Pro Max 不会改为可拆卸电池，适用于欧盟计划 2027 年执行的新电池豁免条款。 IT之家援引博文介绍，欧盟正在推进《Commission Regulation (EU) 2023/…",
-          "detail": "IT之家 7 月 11 日消息，科技媒体 AppleInsider 昨日（7 月 10 日）发布博文，报道称 欧版 iPhone 18 Pro 以及 iPhone 18 Pro Max 不会改为可拆卸电池，适用于欧盟计划 2027 年执行的新电池豁免条款。 IT之家援引博文介绍，欧盟正在推进《Commission Regulation (EU) 2023/…",
-          "keyPoints": [
-            "电池 / 充电"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
         {
           "id": "newsnow-421a8d943716",
           "title": "亲妹妹初中毕业了，我出4000，旧手机卖800她再做几天兼职还我400，只为一个苹果17，女生是真都喜欢苹果啊[捂脸][捂脸][捂脸]不过问问大家这17连个长焦都没有，日常真好用吗？",
@@ -183,25 +160,49 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
-          "id": "auto-0b02d11ef65c",
-          "title": "三星 Galaxy Z Flip8/Fold8 折叠手机渲染图再曝",
+          "id": "auto-871fbc407130",
+          "title": "特朗普 T1 手机性能曝光：高通骁龙 7 Gen 3 芯片，单核比 Pixel 10a 低 32.48%",
           "originalTitle": "",
           "source": "IT之家",
-          "brand": "Samsung",
+          "brand": "Pixel",
           "type": "爆料",
           "trust": "媒体汇总",
           "date": "2026-07-11",
-          "time": "02:55",
-          "publishedAt": "2026-07-11T02:55:13.000Z",
-          "url": "https://www.ithome.com/0/975/410.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/7/2e4aab17-435d-4e6d-972d-5a7436b1586e.png?x-bce-process=image/format,f_auto",
+          "time": "06:46",
+          "publishedAt": "2026-07-11T06:46:43.000Z",
+          "url": "https://www.ithome.com/0/975/451.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/7/bcd5cc09-296a-40a9-bdb8-7af041a02a1c.png?x-bce-process=image/format,f_auto",
           "verdict": "先看",
-          "takeaway": "IT之家 7 月 11 日消息，消息源 Roland Quandt 今天（7 月 11 日）在 Bluesky 平台发布动态， 分享了三星 Galaxy Z Flip8 和 Galaxy Z Fold8 两款手机渲染图。 本次曝光的渲染图并未透露更多新线索，但没有水印，看起来像是三星官方的宣传图。IT之家附上相关截图如下： 延伸阅读 三星 Galaxy Z…",
-          "detail": "IT之家 7 月 11 日消息，消息源 Roland Quandt 今天（7 月 11 日）在 Bluesky 平台发布动态， 分享了三星 Galaxy Z Flip8 和 Galaxy Z Fold8 两款手机渲染图。 本次曝光的渲染图并未透露更多新线索，但没有水印，看起来像是三星官方的宣传图。IT之家附上相关截图如下： 延伸阅读 三星 Galaxy Z…",
+          "takeaway": "IT之家 7 月 11 日消息，LTT Labs 于 7 月 9 日发布博文，评测了特朗普移动（Trump Mobile）的 T1 手机，显示该机配备高通骁龙 7 Gen 3 芯片，是基于 HTC U24 Pro 手机改造而来。 芯片方面，官方并未公布 T1 手机芯片信息，不过基于 AIDA64、AnTuTu、Geekbench 6 等应用报告， 基本可以…",
+          "detail": "IT之家 7 月 11 日消息，LTT Labs 于 7 月 9 日发布博文，评测了特朗普移动（Trump Mobile）的 T1 手机，显示该机配备高通骁龙 7 Gen 3 芯片，是基于 HTC U24 Pro 手机改造而来。 芯片方面，官方并未公布 T1 手机芯片信息，不过基于 AIDA64、AnTuTu、Geekbench 6 等应用报告， 基本可以…",
           "keyPoints": [
-            "外观 / 配色 / 尺寸"
+            "芯片 / 性能"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "coolapk-user-84b8c4dfb382",
+          "title": "竹本青：【消息称某厂超大杯 测试8°OIS微云台防抖模组，预计为OPPO Find X10 Ultra】 7月11日，数码…",
+          "originalTitle": "",
+          "source": "竹本青",
+          "brand": "OPPO",
+          "type": "爆料",
+          "trust": "高可信爆料",
+          "date": "2026-07-11",
+          "time": "04:50",
+          "publishedAt": "2026-07-11T04:50:57.000Z",
+          "url": "https://www.coolapk.com/feed/72736857",
+          "image": "http://image.coolapk.com/feed/2026/0711/12/4248714_41d2fed6_5455_5794_120@1272x406.jpg",
+          "verdict": "先看",
+          "takeaway": "【消息称某厂超大杯 测试8°OIS微云台防抖模组，预计为OPPO Find X10 Ultra】 7月11日，数码闲聊站爆料，8°OIS±超级微云台防抖模组 现身某大厂迭代Ultra实验室。 如果顺利落地，新机将实现云台级视频防抖+云台级运镜玩法。但受限于体积，主摄尺寸可能会缩小至1/1.3\"±。 此前，该博主爆料OPPO Find X10 Ultra主摄…",
+          "detail": "【消息称某厂超大杯 测试8°OIS微云台防抖模组，预计为OPPO Find X10 Ultra】 7月11日，数码闲聊站爆料，8°OIS±超级微云台防抖模组 现身某大厂迭代Ultra实验室。 如果顺利落地，新机将实现云台级视频防抖+云台级运镜玩法。但受限于体积，主摄尺寸可能会缩小至1/1.3\"±。 此前，该博主爆料OPPO Find X10 Ultra主摄…",
+          "keyPoints": [
+            "外观 / 配色 / 尺寸",
+            "爆料来源"
+          ],
+          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         }
@@ -303,6 +304,29 @@ window.phoneRadarDaily = {
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是实际体验内容，买前适合重点看缺点和取舍。",
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        },
+        {
+          "id": "auto-1716c562204d",
+          "title": "iPhone 18 Pro Max 折叠屏相关消息",
+          "originalTitle": "",
+          "source": "Huawei Central",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-07-10",
+          "time": "11:15",
+          "publishedAt": "2026-07-10T11:15:11.000Z",
+          "url": "https://www.huaweicentral.com/apple-iphone-foldable-to-bring-dual-cell-battery/",
+          "image": "https://www.huaweicentral.com/wp-content/uploads/2026/07/iPhone-Ultra-fold-leak.jpg",
+          "verdict": "扫一眼",
+          "takeaway": "iPhone 18 Pro Max 折叠屏相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
+          "detail": "iPhone 18 Pro Max 折叠屏相关消息。重点看折痕、铰链、厚度、屏幕可靠性和重量是否有实质改善。",
+          "keyPoints": [
+            "电池 / 充电"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "影响日常体验，尤其是游戏、拍照和长时间使用。",
+          "action": "有具体参数就记录到参数库；没有参数就先收藏。"
         }
       ]
     },
@@ -332,6 +356,36 @@ window.phoneRadarDaily = {
           ],
           "confidence": "可信度较高，但仍属于发布前线索。",
           "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        }
+      ]
+    },
+    {
+      "id": "review",
+      "title": "评测与体验",
+      "hint": "买前再细看，平时扫一眼即可。",
+      "items": [
+        {
+          "id": "auto-fe0933d10f52",
+          "title": "Samsung 相关消息",
+          "originalTitle": "",
+          "source": "Android Central",
+          "brand": "Samsung",
+          "type": "评测",
+          "trust": "媒体汇总",
+          "date": "2026-07-10",
+          "time": "18:37",
+          "publishedAt": "2026-07-10T18:37:56.000Z",
+          "url": "https://www.androidcentral.com/phones/samsung-galaxy/worries-over-a-pricier-galaxy-s27-mightve-caused-s26-sales-to-surge-for-samsung",
+          "image": "https://cdn.mos.cms.futurecdn.net/2AeU4mLjfZYpvZTr9mS5bE-1280-80.jpg",
+          "verdict": "可略过",
+          "takeaway": "Samsung 相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
+          "detail": "Samsung 相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
+          "keyPoints": [
+            "评测"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是实际体验内容，买前适合重点看缺点和取舍。",
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         }
       ]

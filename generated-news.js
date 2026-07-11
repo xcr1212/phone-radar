@@ -1,6 +1,46 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-07-11T06:25:34.961Z",
+  "updatedAt": "2026-07-11T09:47:58.836Z",
   "news": [
+    {
+      "id": "weibo-82ae8ec3d2b9",
+      "title": "数码闲聊站：尬聊一下，如果同样是6K左右价位段，子系性能旗舰和母系Pro旗舰你们会怎么选？…",
+      "source": "数码闲聊站",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-07-11",
+      "time": "09:25",
+      "publishedAt": "2026-07-11T09:25:42.000Z",
+      "url": "https://weibo.com/6048569942/R8csZDxLq",
+      "image": "",
+      "summary": "尬聊一下，如果同样是6K左右价位段，子系性能旗舰和母系Pro旗舰你们会怎么选？[笑而不语] 母系优势——200Mp超大底/50Mp LOFIC超大底主摄，200Mp大底/64Mp潜望长焦，LIPO更窄四等边直屏，屏幕尺寸相对小，外围有花活儿 子系优势——2nm骁龙8E6 Pro满血性能，2K/1.5K超高刷大屏，8500-9000mAh±超大电池+百瓦闪充…",
+      "tags": [
+        "行业",
+        "爆料",
+        "微博"
+      ]
+    },
+    {
+      "id": "auto-871fbc407130",
+      "title": "特朗普 T1 手机性能曝光：高通骁龙 7 Gen 3 芯片，单核比 Pixel 10a 低 32.48%",
+      "source": "IT之家",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-11",
+      "time": "06:46",
+      "publishedAt": "2026-07-11T06:46:43.000Z",
+      "url": "https://www.ithome.com/0/975/451.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/7/bcd5cc09-296a-40a9-bdb8-7af041a02a1c.png?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 7 月 11 日消息，LTT Labs 于 7 月 9 日发布博文，评测了特朗普移动（Trump Mobile）的 T1 手机，显示该机配备高通骁龙 7 Gen 3 芯片，是基于 HTC U24 Pro 手机改造而来。 芯片方面，官方并未公布 T1 手机芯片信息，不过基于 AIDA64、AnTuTu、Geekbench 6 等应用报告， 基本可以…",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "weibo-cd69aba3be9c",
       "title": "数码闲聊站：各家Ultra超大杯目前激活量： iQOO 15 Ultra——24.1W±…",
@@ -95,46 +135,6 @@ window.phoneRadarAuto = {
       "url": "https://www.gizmochina.com/2026/07/11/galaxy-z-fold-8-fold-8-ultra-flip-8-us-prices-leaked-ultra-starts-at-2099/",
       "image": "https://www.gizmochina.com/wp-content/uploads/2026/07/galaxy-z-fold-8-teaser-300x169.jpg?x44794",
       "summary": "With Samsung’s Galaxy Unpacked event just a few days away on July 22 in London, fresh leaks are giving us a clearer picture of what to expect from the next-generation foldables. T…",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-0b02d11ef65c",
-      "title": "三星 Galaxy Z Flip8/Fold8 折叠手机渲染图再曝",
-      "source": "IT之家",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-11",
-      "time": "02:55",
-      "publishedAt": "2026-07-11T02:55:13.000Z",
-      "url": "https://www.ithome.com/0/975/410.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/7/2e4aab17-435d-4e6d-972d-5a7436b1586e.png?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 7 月 11 日消息，消息源 Roland Quandt 今天（7 月 11 日）在 Bluesky 平台发布动态， 分享了三星 Galaxy Z Flip8 和 Galaxy Z Fold8 两款手机渲染图。 本次曝光的渲染图并未透露更多新线索，但没有水印，看起来像是三星官方的宣传图。IT之家附上相关截图如下： 延伸阅读 三星 Galaxy Z…",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-23707b764ff5",
-      "title": "曝三星为消化内存成本压力，Galaxy S27/S27+ 手机将配第三方显示驱动芯片",
-      "source": "IT之家",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-11",
-      "time": "02:45",
-      "publishedAt": "2026-07-11T02:45:29.000Z",
-      "url": "https://www.ithome.com/0/975/408.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/7/64c256ce-b6dd-4f27-87a3-509030275fa3.png",
-      "summary": "IT之家 7 月 11 日消息，科技媒体 Zdnet Korea 昨日（7 月 10 日）发布博文，报道称三星为消化内存等元件上涨的成本压力， 在 Galaxy S27 系列的 4 款机型中，可能会区分使用不同的显示驱动芯片（DDI）。 IT之家注：DDI 作用是把主控输出的显示信号转换为面板可执行的驱动指令，并精确控制像素点亮、亮度与刷新过程。 在 Ga…",
       "tags": [
         "Samsung",
         "爆料",
@@ -279,66 +279,6 @@ window.phoneRadarAuto = {
         "iPhone",
         "爆料",
         "NewsNow"
-      ]
-    },
-    {
-      "id": "auto-cadf12b9580d",
-      "title": "Win11 用户反馈微软 Phone Link 问题：内存占用超 90%，网速下降 83.33%",
-      "source": "IT之家",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-10",
-      "time": "23:46",
-      "publishedAt": "2026-07-10T23:46:29.000Z",
-      "url": "https://www.ithome.com/0/975/379.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/7/b7565b74-3094-455f-925d-338ad7f94be7.jpg",
-      "summary": "IT之家 7 月 11 日消息，科技媒体 NeoWin 昨日（7 月 10 日）发布博文， 报道称 Windows 11 版“手机连接”（Phone Link）应用存在内存占用过高，降低用户宽带网络速度问题。 该媒体指出该问题最早可以追溯到 2023 年，“手机连接”功能存在内存泄露问题，每天会占用 15GB~20GB 内存，导致系统卡顿，受影响用户只能手…",
-      "tags": [
-        "行业",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-8846ef83127e",
-      "title": "谷歌 Pixel 11 Pro Fold 折叠屏手机通过 FCC 认证，进一步证明 Tensor G6 芯片有望改用联发科基带",
-      "source": "IT之家",
-      "brand": "Pixel",
-      "model": "Pixel 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-10",
-      "time": "23:28",
-      "publishedAt": "2026-07-10T23:28:31.000Z",
-      "url": "https://www.ithome.com/0/975/376.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/3/2946d11d-f187-42ce-bf7d-8186d56c47fc.png?x-bce-process=image/auto-orient,o_1",
-      "summary": "IT之家 7 月 11 日消息，据科技媒体 Android Authority 昨天报道，谷歌 Pixel 11 Pro Fold 折叠屏手机的美国 FCC 认证文件现已曝光，其中一条线索暗示着 Tensor G6 芯片将不同以往。 据报道，虽然 Tensor 芯片由谷歌主导设计，但谷歌也会在多个关键部分采用其他公司 IP，例如 GPU 一般采购自 ARM…",
-      "tags": [
-        "Pixel",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-0087addde8de",
-      "title": "报道称欧版苹果 iPhone 18 Pro 豁免欧盟新规，不会改为可拆卸电池",
-      "source": "IT之家",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-10",
-      "time": "23:11",
-      "publishedAt": "2026-07-10T23:11:25.000Z",
-      "url": "https://www.ithome.com/0/975/373.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/7/207c1ce3-a8b3-4cb3-9b53-9b12845b1218.png?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 7 月 11 日消息，科技媒体 AppleInsider 昨日（7 月 10 日）发布博文，报道称 欧版 iPhone 18 Pro 以及 iPhone 18 Pro Max 不会改为可拆卸电池，适用于欧盟计划 2027 年执行的新电池豁免条款。 IT之家援引博文介绍，欧盟正在推进《Commission Regulation (EU) 2023/…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
       ]
     },
     {
@@ -937,26 +877,6 @@ window.phoneRadarAuto = {
       "summary": "A new leak claims Apple‘s upcoming foldable iPhone, expected to be called the iPhone Ultra, may have a screen as flat as the Oppo Find N6. The claim comes from blogger Fixed Focus…",
       "tags": [
         "OPPO",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-e4db0bb39ee9",
-      "title": "Huawei Pura 90s series coming to UAE on July 16",
-      "source": "Huawei Central",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-10",
-      "time": "04:26",
-      "publishedAt": "2026-07-10T04:26:59.000Z",
-      "url": "https://www.huaweicentral.com/huawei-pura-90s-series-coming-to-uae-on-july-16/",
-      "image": "https://www.huaweicentral.com/wp-content/uploads/2026/07/Pura-90s-UAE.jpg",
-      "summary": "Huawei Pura 90s series will arrive in the global market next week, and apart from Malaysia, the flagship lineup will also debut in the UAE on July 16. The company will soon expand…",
-      "tags": [
-        "Huawei",
         "爆料",
         "自动抓取"
       ]
