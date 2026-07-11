@@ -1,6 +1,46 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-07-11T13:53:31.025Z",
+  "updatedAt": "2026-07-11T15:14:20.781Z",
   "news": [
+    {
+      "id": "auto-63d744dae9cf",
+      "title": "Huawei Mate 80 series sales rapidly crossed 7.5 million units",
+      "source": "Huawei Central",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-11",
+      "time": "14:51",
+      "publishedAt": "2026-07-11T14:51:56.000Z",
+      "url": "https://www.huaweicentral.com/huawei-mate-80-series-sales-rapidly-crossed-7-5-million-units/",
+      "image": "https://www.huaweicentral.com/wp-content/uploads/2026/03/Mate80ProMax3.jpg",
+      "summary": "Huawei Mate 80 series continues to surprise consumers with its sales figures, and the flagship lineup has now crossed 7.5 million units in the market. The top-end models are maint…",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-f704eab6998a",
+      "title": "竹本青：【各品牌超大杯手机激活量曝光：iQOO、小米、vivo均超20万台，OPPO超10万台】 7月11日，博主数码闲聊…",
+      "source": "竹本青",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-07-11",
+      "time": "14:39",
+      "publishedAt": "2026-07-11T14:39:37.000Z",
+      "url": "https://www.coolapk.com/feed/72743776",
+      "image": "http://image.coolapk.com/feed/2026/0711/22/4248714_fcea0a78_0776_1572_419@1438x620.jpg",
+      "summary": "【各品牌超大杯手机激活量曝光：iQOO、小米、vivo均超20万台，OPPO超10万台】 7月11日，博主数码闲聊站曝光 国产Top手机厂商 Ultra超大杯机型 最新激活量： iQOO 15 Ultra —— 24.1W± Xiaomi 17 Ultra—— 23.3W± vivo X300 Ultra —— 22.4W± OPPO Find X9 Ul…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "酷安博主"
+      ]
+    },
     {
       "id": "auto-d533f7b81b4a",
       "title": "手机厂商 Ultra 超大杯机型激活量曝光：iQOO、小米、vivo 超 20 万台",
@@ -342,6 +382,26 @@ window.phoneRadarAuto = {
       ]
     },
     {
+      "id": "newsnow-73f7f5498d41",
+      "title": "记者直播时手机被台风吹走",
+      "source": "百度热搜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-11",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.baidu.com/s?wd=%E8%AE%B0%E8%80%85%E7%9B%B4%E6%92%AD%E6%97%B6%E6%89%8B%E6%9C%BA%E8%A2%AB%E5%8F%B0%E9%A3%8E%E5%90%B9%E8%B5%B0",
+      "image": "",
+      "summary": "记者直播时手机被台风吹走",
+      "tags": [
+        "行业",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
       "id": "auto-c39440a5f11b",
       "title": "Latest Galaxy Z Fold 8 leak offers your clearest look yet at Samsung’s new foldables",
       "source": "Android Authority",
@@ -598,26 +658,6 @@ window.phoneRadarAuto = {
       "tags": [
         "Samsung",
         "评测",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-1716c562204d",
-      "title": "Apple foldable to bring dual-cell battery, but smaller than iPhone 18 Pro Max",
-      "source": "Huawei Central",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-10",
-      "time": "11:15",
-      "publishedAt": "2026-07-10T11:15:11.000Z",
-      "url": "https://www.huaweicentral.com/apple-iphone-foldable-to-bring-dual-cell-battery/",
-      "image": "https://www.huaweicentral.com/wp-content/uploads/2026/07/iPhone-Ultra-fold-leak.jpg",
-      "summary": "Apple iPhone foldable is making a buzz for its arrival in the market but ahead of its launch, key specs like battery details began surfacing on the internet. A new input hints tha…",
-      "tags": [
-        "iPhone",
-        "爆料",
         "自动抓取"
       ]
     },

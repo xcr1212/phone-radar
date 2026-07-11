@@ -1,12 +1,12 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-07-11T13:53:31.025Z",
+  "updatedAt": "2026-07-11T15:14:20.781Z",
   "issueDate": "2026-07-11",
   "issue": "VOL.260711",
   "title": "手机情报日报",
-  "intro": "今日筛出 18 条重点，其中 8 条是重点爆料，包含 11 条 iPhone 相关、1 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 17 条重点，其中 8 条是重点爆料，包含 10 条 iPhone 相关、1 条官方确认、0 条参数线索。",
   "stats": {
-    "total": 18,
-    "iphone": 11,
+    "total": 17,
+    "iphone": 10,
     "leaks": 8,
     "official": 1,
     "specs": 0
@@ -305,29 +305,6 @@ window.phoneRadarDaily = {
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是实际体验内容，买前适合重点看缺点和取舍。",
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
-        {
-          "id": "auto-1716c562204d",
-          "title": "iPhone 18 Pro Max 折叠屏相关消息",
-          "originalTitle": "",
-          "source": "Huawei Central",
-          "brand": "iPhone",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-07-10",
-          "time": "11:15",
-          "publishedAt": "2026-07-10T11:15:11.000Z",
-          "url": "https://www.huaweicentral.com/apple-iphone-foldable-to-bring-dual-cell-battery/",
-          "image": "https://www.huaweicentral.com/wp-content/uploads/2026/07/iPhone-Ultra-fold-leak.jpg",
-          "verdict": "扫一眼",
-          "takeaway": "iPhone 18 Pro Max 折叠屏相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
-          "detail": "iPhone 18 Pro Max 折叠屏相关消息。重点看折痕、铰链、厚度、屏幕可靠性和重量是否有实质改善。",
-          "keyPoints": [
-            "电池 / 充电"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "影响日常体验，尤其是游戏、拍照和长时间使用。",
-          "action": "有具体参数就记录到参数库；没有参数就先收藏。"
         }
       ]
     },
