@@ -1,5 +1,5 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-07-11T19:30:48.115Z",
+  "updatedAt": "2026-07-11T21:05:29.326Z",
   "news": [
     {
       "id": "auto-8bb4007293f9",
@@ -819,6 +819,26 @@ window.phoneRadarAuto = {
         "iPhone",
         "爆料",
         "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-5205eef88b46",
+      "title": "JSCHEN小小狐：？？？标准版 4 Gen2 是何意味 我怎么记得 3 年前的红米 12 就是这颗 U 还有 E4 Pro 基材又是…",
+      "source": "JSCHEN小小狐",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-07-10",
+      "time": "09:10",
+      "publishedAt": "2026-07-10T09:10:46.000Z",
+      "url": "https://www.coolapk.com/feed/72726761",
+      "image": "http://image.coolapk.com/feed/2026/0710/17/4702274_c2851836_4644_8709_805@2560x1440.jpg",
+      "summary": "？？？标准版 4 Gen2 是何意味 我怎么记得 3 年前的红米 12 就是这颗 U 还有 E4 Pro 基材又是从哪儿挖出来的",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "酷安博主"
       ]
     },
     {

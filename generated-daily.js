@@ -1,5 +1,5 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-07-11T19:30:48.115Z",
+  "updatedAt": "2026-07-11T21:05:29.326Z",
   "issueDate": "2026-07-11",
   "issue": "VOL.260711",
   "title": "手机情报日报",
@@ -379,29 +379,36 @@ window.phoneRadarDaily = {
           "confidence": "可信度较高，但仍属于发布前线索。",
           "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
+        }
+      ]
+    },
+    {
+      "id": "market",
+      "title": "行业趋势",
+      "hint": "看方向，不急着当购买依据。",
+      "items": [
         {
-          "id": "auto-86d35942fbd9",
-          "title": "Huawei 相关消息",
+          "id": "coolapk-user-5205eef88b46",
+          "title": "JSCHEN小小狐：？？？标准版 4 Gen2 是何意味 我怎么记得 3 年前的红米 12 就是这颗 U 还有 E4 Pro 基材又是…",
           "originalTitle": "",
-          "source": "Huawei Central",
-          "brand": "Huawei",
+          "source": "JSCHEN小小狐",
+          "brand": "Xiaomi",
           "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-07-11",
-          "time": "12:16",
-          "publishedAt": "2026-07-11T12:16:06.000Z",
-          "url": "https://www.huaweicentral.com/huawei-making-real-5g-comeback-in-global-market-with-pura-90s/",
-          "image": "https://www.huaweicentral.com/wp-content/uploads/2026/07/network-speed.jpg",
-          "verdict": "可略过",
-          "takeaway": "Huawei 相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
-          "detail": "Huawei 相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
+          "trust": "高可信爆料",
+          "date": "2026-07-10",
+          "time": "09:10",
+          "publishedAt": "2026-07-10T09:10:46.000Z",
+          "url": "https://www.coolapk.com/feed/72726761",
+          "image": "http://image.coolapk.com/feed/2026/0710/17/4702274_c2851836_4644_8709_805@2560x1440.jpg",
+          "verdict": "扫一眼",
+          "takeaway": "？？？标准版 4 Gen2 是何意味 我怎么记得 3 年前的红米 12 就是这颗 U 还有 E4 Pro 基材又是从哪儿挖出来的",
+          "detail": "？？？标准版 4 Gen2 是何意味 我怎么记得 3 年前的红米 12 就是这颗 U 还有 E4 Pro 基材又是从哪儿挖出来的",
           "keyPoints": [
-            "影像硬件"
+            "爆料"
           ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "影响拍照体验，买旗舰机时值得关注。",
-          "action": "有具体参数就记录到参数库；没有参数就先收藏。"
+          "confidence": "可信度较高，但仍属于发布前线索。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         }
       ]
     }
