@@ -1,12 +1,12 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-07-10T23:12:28.359Z",
-  "issueDate": "2026-07-10",
-  "issue": "VOL.260710",
+  "updatedAt": "2026-07-11T03:41:29.988Z",
+  "issueDate": "2026-07-11",
+  "issue": "VOL.260711",
   "title": "手机情报日报",
-  "intro": "今日筛出 10 条重点，其中 8 条是重点爆料，包含 9 条 iPhone 相关、1 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 16 条重点，其中 8 条是重点爆料，包含 13 条 iPhone 相关、1 条官方确认、0 条参数线索。",
   "stats": {
-    "total": 10,
-    "iphone": 9,
+    "total": 16,
+    "iphone": 13,
     "leaks": 8,
     "official": 1,
     "specs": 0
@@ -41,6 +41,29 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
+          "id": "newsnow-421a8d943716",
+          "title": "亲妹妹初中毕业了，我出4000，旧手机卖800她再做几天兼职还我400，只为一个苹果17，女生是真都喜欢苹果啊[捂脸][捂脸][捂脸]不过问问大家这17连个长焦都没有，日常真好用吗？",
+          "originalTitle": "",
+          "source": "酷安热榜",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "高关注爆料源",
+          "date": "2026-07-11",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://www.coolapk.com/feed/72696885",
+          "image": "",
+          "verdict": "先看",
+          "takeaway": "亲妹妹初中毕业了，我出4000，旧手机卖800她再做几天兼职还我400，只为一个苹果17，女生是真都喜欢苹果啊[捂脸][捂脸][捂脸]不过问问大家这17连个长焦都没有，日常真好用吗？",
+          "detail": "亲妹妹初中毕业了，我出4000，旧手机卖800她再做几天兼职还我400，只为一个苹果17，女生是真都喜欢苹果啊[捂脸][捂脸][捂脸]不过问问大家这17连个长焦都没有，日常真好用吗？",
+          "keyPoints": [
+            "影像硬件"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
           "id": "weibo-1999ad40fa05",
           "title": "数码闲聊站：iPhone Ultra阔折叠的电池？苹果电池供应商最近入网备案了两款新电池：…",
           "originalTitle": "",
@@ -65,23 +88,23 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
-          "id": "newsnow-fee623e8b81c",
-          "title": "亲妹妹初中毕业了，我出4000，旧手机卖800她再做几天兼职还我400，只为一个苹果17，女生是真都喜欢苹果啊[捂脸][捂脸][捂脸]不过问问大家这17连个长焦都没有，日常真好用吗？",
+          "id": "newsnow-40f1eab3bac2",
+          "title": "iPhone18机模体验",
           "originalTitle": "",
-          "source": "酷安热榜",
+          "source": "B站热搜",
           "brand": "iPhone",
           "type": "爆料",
-          "trust": "高关注爆料源",
-          "date": "2026-07-10",
+          "trust": "媒体汇总",
+          "date": "2026-07-11",
           "time": "",
           "publishedAt": "",
-          "url": "https://www.coolapk.com/feed/72696885",
+          "url": "https://search.bilibili.com/all?keyword=iPhone18%E6%9C%BA%E6%A8%A1%E4%BD%93%E9%AA%8C",
           "image": "",
           "verdict": "先看",
-          "takeaway": "亲妹妹初中毕业了，我出4000，旧手机卖800她再做几天兼职还我400，只为一个苹果17，女生是真都喜欢苹果啊[捂脸][捂脸][捂脸]不过问问大家这17连个长焦都没有，日常真好用吗？",
-          "detail": "亲妹妹初中毕业了，我出4000，旧手机卖800她再做几天兼职还我400，只为一个苹果17，女生是真都喜欢苹果啊[捂脸][捂脸][捂脸]不过问问大家这17连个长焦都没有，日常真好用吗？",
+          "takeaway": "iPhone18机模体验",
+          "detail": "iPhone18机模体验",
           "keyPoints": [
-            "影像硬件"
+            "外观 / 配色 / 尺寸"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
@@ -181,30 +204,6 @@ window.phoneRadarDaily = {
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "auto-d6b4a8d85cd7",
-          "title": "iPhone 18 Pro 外观设计线索曝光",
-          "originalTitle": "",
-          "source": "9to5Mac",
-          "brand": "iPhone",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-07-09",
-          "time": "19:00",
-          "publishedAt": "2026-07-09T19:00:25.000Z",
-          "url": "https://9to5mac.com/2026/07/09/iphone-18-pro-could-bring-three-controversial-design-changes/",
-          "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/02/iphone-18-pro-mockup.jpg?quality=82&strip=all&w=1600",
-          "verdict": "先看",
-          "takeaway": "iPhone 18 Pro 外观设计线索曝光。重点看外观、颜色、尺寸是否和上一代有明显变化。",
-          "detail": "iPhone 18 Pro 外观设计线索曝光。这类内容主要看外观设计、按键布局、相机模组和尺寸变化，后续最好等更多渲染图或保护壳线索互相验证。",
-          "keyPoints": [
-            "外观 / 配色 / 尺寸",
-            "爆料来源"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         }
       ]
     },
@@ -221,7 +220,7 @@ window.phoneRadarDaily = {
           "brand": "iPhone",
           "type": "官方",
           "trust": "官方确认",
-          "date": "2026-07-10",
+          "date": "2026-07-11",
           "time": "",
           "publishedAt": "",
           "url": "https://www.apple.com/newsroom/2026/06/apple-announces-changes-to-ios-in-brazil/",
@@ -235,6 +234,98 @@ window.phoneRadarDaily = {
           "confidence": "官方内容，可直接作为已确认信息记录。",
           "impact": "可信度高，但如果不是配置/价格消息，只需要扫一眼。",
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        },
+        {
+          "id": "newsnow-7d61b2fd78d5",
+          "title": "iPhone Air 当主力机用了三个多月后，我为什么还是换不掉它",
+          "originalTitle": "",
+          "source": "少数派热榜",
+          "brand": "iPhone",
+          "type": "评测",
+          "trust": "媒体汇总",
+          "date": "2026-07-11",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://sspai.com/post/111113",
+          "image": "",
+          "verdict": "扫一眼",
+          "takeaway": "iPhone Air 当主力机用了三个多月后，我为什么还是换不掉它",
+          "detail": "iPhone Air 当主力机用了三个多月后，我为什么还是换不掉它",
+          "keyPoints": [
+            "评测"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是实际体验内容，买前适合重点看缺点和取舍。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        },
+        {
+          "id": "newsnow-232078b50792",
+          "title": "快捷指令｜让 iPhone 用上锤子的「大爆炸」",
+          "originalTitle": "",
+          "source": "少数派热榜",
+          "brand": "iPhone",
+          "type": "评测",
+          "trust": "媒体汇总",
+          "date": "2026-07-11",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://sspai.com/post/111405",
+          "image": "",
+          "verdict": "扫一眼",
+          "takeaway": "快捷指令｜让 iPhone 用上锤子的「大爆炸」",
+          "detail": "快捷指令｜让 iPhone 用上锤子的「大爆炸」",
+          "keyPoints": [
+            "评测"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是实际体验内容，买前适合重点看缺点和取舍。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        },
+        {
+          "id": "newsnow-e7beb04645d9",
+          "title": "iOS 剪贴板管理工具 Procut：换个方式收藏碎片化信息",
+          "originalTitle": "",
+          "source": "少数派热榜",
+          "brand": "iPhone",
+          "type": "评测",
+          "trust": "媒体汇总",
+          "date": "2026-07-11",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://sspai.com/post/110950",
+          "image": "",
+          "verdict": "扫一眼",
+          "takeaway": "iOS 剪贴板管理工具 Procut：换个方式收藏碎片化信息",
+          "detail": "iOS 剪贴板管理工具 Procut：换个方式收藏碎片化信息",
+          "keyPoints": [
+            "评测"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是实际体验内容，买前适合重点看缺点和取舍。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        },
+        {
+          "id": "auto-1716c562204d",
+          "title": "iPhone 18 Pro Max 折叠屏相关消息",
+          "originalTitle": "",
+          "source": "Huawei Central",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-07-10",
+          "time": "11:15",
+          "publishedAt": "2026-07-10T11:15:11.000Z",
+          "url": "https://www.huaweicentral.com/apple-iphone-foldable-to-bring-dual-cell-battery/",
+          "image": "https://www.huaweicentral.com/wp-content/uploads/2026/07/iPhone-Ultra-fold-leak.jpg",
+          "verdict": "扫一眼",
+          "takeaway": "iPhone 18 Pro Max 折叠屏相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
+          "detail": "iPhone 18 Pro Max 折叠屏相关消息。重点看折痕、铰链、厚度、屏幕可靠性和重量是否有实质改善。",
+          "keyPoints": [
+            "电池 / 充电"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "影响日常体验，尤其是游戏、拍照和长时间使用。",
+          "action": "有具体参数就记录到参数库；没有参数就先收藏。"
         }
       ]
     },
@@ -244,14 +335,14 @@ window.phoneRadarDaily = {
       "hint": "看方向，不急着当购买依据。",
       "items": [
         {
-          "id": "newsnow-878b3b2484d0",
+          "id": "newsnow-d53802d0ad53",
           "title": "这手机是真的烫啊，真受不了了，挂个 QQ 音乐在后台都巨烫，老哥有没有什么免解释的优化方案#小米17ProMax# #HyperOS3# #HyperOS4#",
           "originalTitle": "",
           "source": "酷安热榜",
           "brand": "Xiaomi",
           "type": "爆料",
           "trust": "高关注爆料源",
-          "date": "2026-07-10",
+          "date": "2026-07-11",
           "time": "",
           "publishedAt": "",
           "url": "https://www.coolapk.com/feed/72719462",
@@ -263,6 +354,52 @@ window.phoneRadarDaily = {
             "爆料"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        },
+        {
+          "id": "newsnow-821b338c6767",
+          "title": "夜半三更，万籁俱寂。余独坐灯下，编译橙狐Recovery。历时数刻，终成。遂满怀欣喜，将其写入手机之中，期冀新成。",
+          "originalTitle": "",
+          "source": "酷安热榜",
+          "brand": "行业",
+          "type": "爆料",
+          "trust": "高关注爆料源",
+          "date": "2026-07-11",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://www.coolapk.com/feed/72720202",
+          "image": "",
+          "verdict": "扫一眼",
+          "takeaway": "夜半三更，万籁俱寂。余独坐灯下，编译橙狐Recovery。历时数刻，终成。遂满怀欣喜，将其写入手机之中，期冀新成。",
+          "detail": "夜半三更，万籁俱寂。余独坐灯下，编译橙狐Recovery。历时数刻，终成。遂满怀欣喜，将其写入手机之中，期冀新成。",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        },
+        {
+          "id": "coolapk-user-7cd53cbcd3a9",
+          "title": "竹本青：【点评】 #荣耀MagicPad3# 用了一年了，好用，独家软件和扬声器是核心",
+          "originalTitle": "",
+          "source": "竹本青",
+          "brand": "HONOR",
+          "type": "爆料",
+          "trust": "高可信爆料",
+          "date": "2026-07-10",
+          "time": "13:25",
+          "publishedAt": "2026-07-10T13:25:22.000Z",
+          "url": "https://www.coolapk.com/feed/72729869",
+          "image": "",
+          "verdict": "扫一眼",
+          "takeaway": "【点评】 #荣耀MagicPad3# 用了一年了，好用，独家软件和扬声器是核心",
+          "detail": "【点评】 #荣耀MagicPad3# 用了一年了，好用，独家软件和扬声器是核心",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "可信度较高，但仍属于发布前线索。",
           "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         }
