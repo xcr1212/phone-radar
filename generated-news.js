@@ -1,6 +1,106 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-07-11T03:41:29.988Z",
+  "updatedAt": "2026-07-11T06:25:34.961Z",
   "news": [
+    {
+      "id": "weibo-cd69aba3be9c",
+      "title": "数码闲聊站：各家Ultra超大杯目前激活量： iQOO 15 Ultra——24.1W±…",
+      "source": "数码闲聊站",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-07-11",
+      "time": "06:13",
+      "publishedAt": "2026-07-11T06:13:00.000Z",
+      "url": "https://weibo.com/6048569942/R8bcMha3X",
+      "image": "",
+      "summary": "各家Ultra超大杯目前激活量： iQOO 15 Ultra——24.1W± Xiaomi 17 Ultra——23.3W± vivo X300 Ultra——22.4W± OPPO Find X9 Ultra——13.6W±",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "微博"
+      ]
+    },
+    {
+      "id": "coolapk-user-84b8c4dfb382",
+      "title": "竹本青：【消息称某厂超大杯 测试8°OIS微云台防抖模组，预计为OPPO Find X10 Ultra】 7月11日，数码…",
+      "source": "竹本青",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-07-11",
+      "time": "04:50",
+      "publishedAt": "2026-07-11T04:50:57.000Z",
+      "url": "https://www.coolapk.com/feed/72736857",
+      "image": "http://image.coolapk.com/feed/2026/0711/12/4248714_41d2fed6_5455_5794_120@1272x406.jpg",
+      "summary": "【消息称某厂超大杯 测试8°OIS微云台防抖模组，预计为OPPO Find X10 Ultra】 7月11日，数码闲聊站爆料，8°OIS±超级微云台防抖模组 现身某大厂迭代Ultra实验室。 如果顺利落地，新机将实现云台级视频防抖+云台级运镜玩法。但受限于体积，主摄尺寸可能会缩小至1/1.3\"±。 此前，该博主爆料OPPO Find X10 Ultra主摄…",
+      "tags": [
+        "OPPO",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "coolapk-user-66bc001a576c",
+      "title": "竹本青：【曝华为Mate 80系列 销量已超760万】 7月11日，博主「RD观测」发布第三方统计数据：截至2026年第2…",
+      "source": "竹本青",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-07-11",
+      "time": "04:38",
+      "publishedAt": "2026-07-11T04:38:31.000Z",
+      "url": "https://www.coolapk.com/feed/72736717",
+      "image": "http://image.coolapk.com/feed/2026/0711/12/4248714_144fa3cb_4710_1537_583@3417x2427.jpg",
+      "summary": "【曝华为Mate 80系列 销量已超760万】 7月11日，博主「RD观测」发布第三方统计数据：截至2026年第27周，华为Mate 80系列 累计销量约为760.55万台。 前几周数据如下： 截至2026 W26 —— 约743.84万 截至2026 W25 —— 约725.33万 截至2026 W24 —— 约697.04万 截至2026 W23 ——…",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-bfd6c9aa75f9",
+      "title": "Motorola reveals Edge 70 Max chipset, display and battery ahead of launch",
+      "source": "Gizmochina",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-11",
+      "time": "04:22",
+      "publishedAt": "2026-07-11T04:22:32.000Z",
+      "url": "https://www.gizmochina.com/2026/07/11/motorola-reveals-edge-70-max-chipset-display-and-battery-ahead-of-launch/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/06/Motorola-Edge-70-Max-charging-300x218.jpg?x44794",
+      "summary": "Motorola is set to launch the Edge 70 Max smartphone on July 15 in India. Ahead of the reveal, the company has shared the core specifications of the phone through a listing on Fli…",
+      "tags": [
+        "行业",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-c5d1ff25b69d",
+      "title": "Galaxy Z Fold 8, Fold 8 Ultra, Flip 8 US prices leaked: Ultra starts at $2099",
+      "source": "Gizmochina",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-11",
+      "time": "03:56",
+      "publishedAt": "2026-07-11T03:56:18.000Z",
+      "url": "https://www.gizmochina.com/2026/07/11/galaxy-z-fold-8-fold-8-ultra-flip-8-us-prices-leaked-ultra-starts-at-2099/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/07/galaxy-z-fold-8-teaser-300x169.jpg?x44794",
+      "summary": "With Samsung’s Galaxy Unpacked event just a few days away on July 22 in London, fresh leaks are giving us a clearer picture of what to expect from the next-generation foldables. T…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-0b02d11ef65c",
       "title": "三星 Galaxy Z Flip8/Fold8 折叠手机渲染图再曝",
@@ -142,26 +242,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-421a8d943716",
-      "title": "亲妹妹初中毕业了，我出4000，旧手机卖800她再做几天兼职还我400，只为一个苹果17，女生是真都喜欢苹果啊[捂脸][捂脸][捂脸]不过问问大家这17连个长焦都没有，日常真好用吗？",
-      "source": "酷安热榜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-07-11",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72696885",
-      "image": "",
-      "summary": "亲妹妹初中毕业了，我出4000，旧手机卖800她再做几天兼职还我400，只为一个苹果17，女生是真都喜欢苹果啊[捂脸][捂脸][捂脸]不过问问大家这17连个长焦都没有，日常真好用吗？",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
       "id": "newsnow-d53802d0ad53",
       "title": "这手机是真的烫啊，真受不了了，挂个 QQ 音乐在后台都巨烫，老哥有没有什么免解释的优化方案#小米17ProMax# #HyperOS3# #HyperOS4#",
       "source": "酷安热榜",
@@ -182,39 +262,19 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-b80fe6a3c95e",
-      "title": "一位家长说自己不限制孩子玩手机，等到孩子玩腻了、感觉无聊了就不玩了，请问这有可能吗？",
-      "source": "知乎热榜",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "市场报告",
-      "trust": "媒体汇总",
-      "date": "2026-07-11",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.zhihu.com/question/2056407322340103396",
-      "image": "",
-      "summary": "一位家长说自己不限制孩子玩手机，等到孩子玩腻了、感觉无聊了就不玩了，请问这有可能吗？",
-      "tags": [
-        "行业",
-        "市场报告",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-40f1eab3bac2",
-      "title": "iPhone18机模体验",
-      "source": "B站热搜",
+      "id": "newsnow-421a8d943716",
+      "title": "亲妹妹初中毕业了，我出4000，旧手机卖800她再做几天兼职还我400，只为一个苹果17，女生是真都喜欢苹果啊[捂脸][捂脸][捂脸]不过问问大家这17连个长焦都没有，日常真好用吗？",
+      "source": "酷安热榜",
       "brand": "iPhone",
       "model": "iPhone 相关机型",
       "type": "爆料",
-      "trust": "媒体汇总",
+      "trust": "高关注爆料源",
       "date": "2026-07-11",
       "time": "",
       "publishedAt": "",
-      "url": "https://search.bilibili.com/all?keyword=iPhone18%E6%9C%BA%E6%A8%A1%E4%BD%93%E9%AA%8C",
+      "url": "https://www.coolapk.com/feed/72696885",
       "image": "",
-      "summary": "iPhone18机模体验",
+      "summary": "亲妹妹初中毕业了，我出4000，旧手机卖800她再做几天兼职还我400，只为一个苹果17，女生是真都喜欢苹果啊[捂脸][捂脸][捂脸]不过问问大家这17连个长焦都没有，日常真好用吗？",
       "tags": [
         "iPhone",
         "爆料",
@@ -742,26 +802,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "coolapk-user-7c1002b6b401",
-      "title": "竹本青：【小米澎程N90、N70系列 通过工信部申报】 小米澎程 N90 Max（图2、图3） 小米澎程 N90 Max…",
-      "source": "竹本青",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-07-10",
-      "time": "09:34",
-      "publishedAt": "2026-07-10T09:34:18.000Z",
-      "url": "https://www.coolapk.com/feed/72727070",
-      "image": "http://image.coolapk.com/feed/2026/0710/18/4248714_6e8281f1_8044_2821_984@1440x364.jpg",
-      "summary": "【小米澎程N90、N70系列 通过工信部申报】 小米澎程 N90 Max（图2、图3） 小米澎程 N90 Max 露营版（图4、图5） 小米澎程 N70（图6、图7） 小米澎程 N70 Max（图8、图9） ● 小米澎程 N90 Max 插电式增程混合动力多用途乘用车，提供 7 座、5 座两种版本选择，车身外形尺寸长 5285 mm、宽 1998 mm、高…",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
       "id": "auto-b4eafb6561f3",
       "title": "Samsung could use third-party display components in some Galaxy S27 phones",
       "source": "SamMobile",
@@ -879,26 +919,6 @@ window.phoneRadarAuto = {
         "Samsung",
         "爆料",
         "自动抓取"
-      ]
-    },
-    {
-      "id": "coolapk-user-ef56f89fb968",
-      "title": "竹本青：小米澎程公布首款 SUV 车内空间部分可变场景",
-      "source": "竹本青",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-07-10",
-      "time": "06:02",
-      "publishedAt": "2026-07-10T06:02:27.000Z",
-      "url": "https://www.coolapk.com/feed/72724456",
-      "image": "http://image.coolapk.com/feed/2026/0710/14/4248714_b8436a2a_3530_8594_520@2000x2667.jpg",
-      "summary": "【小米澎程公布首款 SUV 车内空间部分可变场景】 1个人 —— 工作室 2个人 —— 咖啡馆 3个人 —— 会客厅 全家人 —— 游乐场 小米昨日介绍，全新澎程 SUV系列 搭载小米昆仑架构，支持车内空间自由变换。“一辆车，容纳生活的无限可能，这是关于 SUV 空间的新答案。” #今日热点# #HyperOS3# #小米澎程#",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "酷安博主"
       ]
     },
     {

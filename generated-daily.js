@@ -1,12 +1,12 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-07-11T03:41:29.988Z",
+  "updatedAt": "2026-07-11T06:25:34.961Z",
   "issueDate": "2026-07-11",
   "issue": "VOL.260711",
   "title": "手机情报日报",
-  "intro": "今日筛出 16 条重点，其中 8 条是重点爆料，包含 13 条 iPhone 相关、1 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 16 条重点，其中 8 条是重点爆料，包含 11 条 iPhone 相关、1 条官方确认、0 条参数线索。",
   "stats": {
     "total": 16,
-    "iphone": 13,
+    "iphone": 11,
     "leaks": 8,
     "official": 1,
     "specs": 0
@@ -84,29 +84,6 @@ window.phoneRadarDaily = {
             "爆料来源"
           ],
           "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "newsnow-40f1eab3bac2",
-          "title": "iPhone18机模体验",
-          "originalTitle": "",
-          "source": "B站热搜",
-          "brand": "iPhone",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-07-11",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://search.bilibili.com/all?keyword=iPhone18%E6%9C%BA%E6%A8%A1%E4%BD%93%E9%AA%8C",
-          "image": "",
-          "verdict": "先看",
-          "takeaway": "iPhone18机模体验",
-          "detail": "iPhone18机模体验",
-          "keyPoints": [
-            "外观 / 配色 / 尺寸"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
@@ -200,6 +177,29 @@ window.phoneRadarDaily = {
           "keyPoints": [
             "电池 / 充电",
             "爆料来源"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "auto-0b02d11ef65c",
+          "title": "三星 Galaxy Z Flip8/Fold8 折叠手机渲染图再曝",
+          "originalTitle": "",
+          "source": "IT之家",
+          "brand": "Samsung",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-07-11",
+          "time": "02:55",
+          "publishedAt": "2026-07-11T02:55:13.000Z",
+          "url": "https://www.ithome.com/0/975/410.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/7/2e4aab17-435d-4e6d-972d-5a7436b1586e.png?x-bce-process=image/format,f_auto",
+          "verdict": "先看",
+          "takeaway": "IT之家 7 月 11 日消息，消息源 Roland Quandt 今天（7 月 11 日）在 Bluesky 平台发布动态， 分享了三星 Galaxy Z Flip8 和 Galaxy Z Fold8 两款手机渲染图。 本次曝光的渲染图并未透露更多新线索，但没有水印，看起来像是三星官方的宣传图。IT之家附上相关截图如下： 延伸阅读 三星 Galaxy Z…",
+          "detail": "IT之家 7 月 11 日消息，消息源 Roland Quandt 今天（7 月 11 日）在 Bluesky 平台发布动态， 分享了三星 Galaxy Z Flip8 和 Galaxy Z Fold8 两款手机渲染图。 本次曝光的渲染图并未透露更多新线索，但没有水印，看起来像是三星官方的宣传图。IT之家附上相关截图如下： 延伸阅读 三星 Galaxy Z…",
+          "keyPoints": [
+            "外观 / 配色 / 尺寸"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
@@ -303,29 +303,36 @@ window.phoneRadarDaily = {
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是实际体验内容，买前适合重点看缺点和取舍。",
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
+        }
+      ]
+    },
+    {
+      "id": "launch",
+      "title": "新机与官方发布",
+      "hint": "能直接更新到参数库。",
+      "items": [
         {
-          "id": "auto-1716c562204d",
-          "title": "iPhone 18 Pro Max 折叠屏相关消息",
+          "id": "coolapk-user-66bc001a576c",
+          "title": "竹本青：【曝华为Mate 80系列 销量已超760万】 7月11日，博主「RD观测」发布第三方统计数据：截至2026年第2…",
           "originalTitle": "",
-          "source": "Huawei Central",
-          "brand": "iPhone",
+          "source": "竹本青",
+          "brand": "Huawei",
           "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-07-10",
-          "time": "11:15",
-          "publishedAt": "2026-07-10T11:15:11.000Z",
-          "url": "https://www.huaweicentral.com/apple-iphone-foldable-to-bring-dual-cell-battery/",
-          "image": "https://www.huaweicentral.com/wp-content/uploads/2026/07/iPhone-Ultra-fold-leak.jpg",
+          "trust": "高可信爆料",
+          "date": "2026-07-11",
+          "time": "04:38",
+          "publishedAt": "2026-07-11T04:38:31.000Z",
+          "url": "https://www.coolapk.com/feed/72736717",
+          "image": "http://image.coolapk.com/feed/2026/0711/12/4248714_144fa3cb_4710_1537_583@3417x2427.jpg",
           "verdict": "扫一眼",
-          "takeaway": "iPhone 18 Pro Max 折叠屏相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
-          "detail": "iPhone 18 Pro Max 折叠屏相关消息。重点看折痕、铰链、厚度、屏幕可靠性和重量是否有实质改善。",
+          "takeaway": "【曝华为Mate 80系列 销量已超760万】 7月11日，博主「RD观测」发布第三方统计数据：截至2026年第27周，华为Mate 80系列 累计销量约为760.55万台。 前几周数据如下： 截至2026 W26 —— 约743.84万 截至2026 W25 —— 约725.33万 截至2026 W24 —— 约697.04万 截至2026 W23 ——…",
+          "detail": "【曝华为Mate 80系列 销量已超760万】 7月11日，博主「RD观测」发布第三方统计数据：截至2026年第27周，华为Mate 80系列 累计销量约为760.55万台。 前几周数据如下： 截至2026 W26 —— 约743.84万 截至2026 W25 —— 约725.33万 截至2026 W24 —— 约697.04万 截至2026 W23 ——…",
           "keyPoints": [
-            "电池 / 充电"
+            "爆料"
           ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "影响日常体验，尤其是游戏、拍照和长时间使用。",
-          "action": "有具体参数就记录到参数库；没有参数就先收藏。"
+          "confidence": "可信度较高，但仍属于发布前线索。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         }
       ]
     },
