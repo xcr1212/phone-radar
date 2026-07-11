@@ -1,11 +1,11 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-07-11T09:47:58.836Z",
+  "updatedAt": "2026-07-11T11:18:15.053Z",
   "issueDate": "2026-07-11",
   "issue": "VOL.260711",
   "title": "手机情报日报",
-  "intro": "今日筛出 18 条重点，其中 8 条是重点爆料，包含 11 条 iPhone 相关、1 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 17 条重点，其中 8 条是重点爆料，包含 11 条 iPhone 相关、1 条官方确认、0 条参数线索。",
   "stats": {
-    "total": 18,
+    "total": 17,
     "iphone": 11,
     "leaks": 8,
     "official": 1,
@@ -356,36 +356,6 @@ window.phoneRadarDaily = {
           ],
           "confidence": "可信度较高，但仍属于发布前线索。",
           "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        }
-      ]
-    },
-    {
-      "id": "review",
-      "title": "评测与体验",
-      "hint": "买前再细看，平时扫一眼即可。",
-      "items": [
-        {
-          "id": "auto-fe0933d10f52",
-          "title": "Samsung 相关消息",
-          "originalTitle": "",
-          "source": "Android Central",
-          "brand": "Samsung",
-          "type": "评测",
-          "trust": "媒体汇总",
-          "date": "2026-07-10",
-          "time": "18:37",
-          "publishedAt": "2026-07-10T18:37:56.000Z",
-          "url": "https://www.androidcentral.com/phones/samsung-galaxy/worries-over-a-pricier-galaxy-s27-mightve-caused-s26-sales-to-surge-for-samsung",
-          "image": "https://cdn.mos.cms.futurecdn.net/2AeU4mLjfZYpvZTr9mS5bE-1280-80.jpg",
-          "verdict": "可略过",
-          "takeaway": "Samsung 相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
-          "detail": "Samsung 相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
-          "keyPoints": [
-            "评测"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是实际体验内容，买前适合重点看缺点和取舍。",
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         }
       ]

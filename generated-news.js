@@ -1,6 +1,26 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-07-11T09:47:58.836Z",
+  "updatedAt": "2026-07-11T11:18:15.053Z",
   "news": [
+    {
+      "id": "coolapk-user-be200ca298e9",
+      "title": "竹本青：【海信墨水屏手机 A10 正式官宣：前后双屏+4nm 高通芯】 ● 正面 6.13英寸墨水屏 ● 背面 LCD高显…",
+      "source": "竹本青",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-07-11",
+      "time": "10:47",
+      "publishedAt": "2026-07-11T10:47:06.000Z",
+      "url": "https://www.coolapk.com/feed/72740992",
+      "image": "http://image.coolapk.com/feed/2026/0711/18/4248714_f1c80132_6825_2616_334@1086x1448.jpg",
+      "summary": "【海信墨水屏手机 A10 正式官宣：前后双屏+4nm 高通芯】 ● 正面 6.13英寸墨水屏 ● 背面 LCD高显色彩屏 ● 4nm 8核高通芯片 ● 5G全网通+双频WiFi6 ● 安卓16系统 #今日热点# #墨水屏# #海信A10#",
+      "tags": [
+        "行业",
+        "爆料",
+        "酷安博主"
+      ]
+    },
     {
       "id": "weibo-82ae8ec3d2b9",
       "title": "数码闲聊站：尬聊一下，如果同样是6K左右价位段，子系性能旗舰和母系Pro旗舰你们会怎么选？…",
@@ -242,26 +262,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-d53802d0ad53",
-      "title": "这手机是真的烫啊，真受不了了，挂个 QQ 音乐在后台都巨烫，老哥有没有什么免解释的优化方案#小米17ProMax# #HyperOS3# #HyperOS4#",
-      "source": "酷安热榜",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-07-11",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72719462",
-      "image": "",
-      "summary": "这手机是真的烫啊，真受不了了，挂个 QQ 音乐在后台都巨烫，老哥有没有什么免解释的优化方案#小米17ProMax# #HyperOS3# #HyperOS4#",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
       "id": "newsnow-421a8d943716",
       "title": "亲妹妹初中毕业了，我出4000，旧手机卖800她再做几天兼职还我400，只为一个苹果17，女生是真都喜欢苹果啊[捂脸][捂脸][捂脸]不过问问大家这17连个长焦都没有，日常真好用吗？",
       "source": "酷安热榜",
@@ -277,6 +277,26 @@ window.phoneRadarAuto = {
       "summary": "亲妹妹初中毕业了，我出4000，旧手机卖800她再做几天兼职还我400，只为一个苹果17，女生是真都喜欢苹果啊[捂脸][捂脸][捂脸]不过问问大家这17连个长焦都没有，日常真好用吗？",
       "tags": [
         "iPhone",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-d53802d0ad53",
+      "title": "这手机是真的烫啊，真受不了了，挂个 QQ 音乐在后台都巨烫，老哥有没有什么免解释的优化方案#小米17ProMax# #HyperOS3# #HyperOS4#",
+      "source": "酷安热榜",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-07-11",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/72719462",
+      "image": "",
+      "summary": "这手机是真的烫啊，真受不了了，挂个 QQ 音乐在后台都巨烫，老哥有没有什么免解释的优化方案#小米17ProMax# #HyperOS3# #HyperOS4#",
+      "tags": [
+        "Xiaomi",
         "爆料",
         "NewsNow"
       ]
