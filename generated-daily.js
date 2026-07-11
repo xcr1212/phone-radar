@@ -1,12 +1,12 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-07-11T17:15:03.369Z",
+  "updatedAt": "2026-07-11T19:30:48.115Z",
   "issueDate": "2026-07-11",
   "issue": "VOL.260711",
   "title": "手机情报日报",
-  "intro": "今日筛出 18 条重点，其中 8 条是重点爆料，包含 11 条 iPhone 相关、1 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 16 条重点，其中 8 条是重点爆料，包含 13 条 iPhone 相关、1 条官方确认、0 条参数线索。",
   "stats": {
-    "total": 18,
-    "iphone": 11,
+    "total": 16,
+    "iphone": 13,
     "leaks": 8,
     "official": 1,
     "specs": 0
@@ -17,6 +17,29 @@ window.phoneRadarDaily = {
       "title": "重点爆料",
       "hint": "机模、配色、影像、屏幕、电池和芯片线索先看。",
       "items": [
+        {
+          "id": "newsnow-eb74f1d90fc3",
+          "title": "我所有的手机里，只有iPhone的屏幕是我只要看一会儿，再去看别的地方，就会模糊，然后需要很久才会恢复，iPhone17pro如此，iPhone16pro亦如此，发完这条，我感觉眼睛已经难受的不行了，可能我真适应不了iPhone这块屏幕吧。",
+          "originalTitle": "",
+          "source": "酷安热榜",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "高关注爆料源",
+          "date": "2026-07-11",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://www.coolapk.com/feed/72741085",
+          "image": "",
+          "verdict": "先看",
+          "takeaway": "我所有的手机里，只有iPhone的屏幕是我只要看一会儿，再去看别的地方，就会模糊，然后需要很久才会恢复，iPhone17pro如此，iPhone16pro亦如此，发完这条，我感觉眼睛已经难受的不行了，可能我真适应不了iPhone这块屏幕吧。",
+          "detail": "我所有的手机里，只有iPhone的屏幕是我只要看一会儿，再去看别的地方，就会模糊，然后需要很久才会恢复，iPhone17pro如此，iPhone16pro亦如此，发完这条，我感觉眼睛已经难受的不行了，可能我真适应不了iPhone这块屏幕吧。",
+          "keyPoints": [
+            "屏幕形态"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
         {
           "id": "weibo-1999ad40fa05",
           "title": "数码闲聊站：iPhone Ultra阔折叠的电池？苹果电池供应商最近入网备案了两款新电池：…",
@@ -38,6 +61,29 @@ window.phoneRadarDaily = {
             "爆料来源"
           ],
           "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "newsnow-213c02e51006",
+          "title": "折叠屏iPhone订单被传上调至千万级",
+          "originalTitle": "",
+          "source": "今日头条热榜",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-07-11",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://www.toutiao.com/trending/7660801606261014574/",
+          "image": "",
+          "verdict": "先看",
+          "takeaway": "折叠屏iPhone订单被传上调至千万级",
+          "detail": "折叠屏iPhone订单被传上调至千万级",
+          "keyPoints": [
+            "屏幕形态"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
@@ -152,54 +198,6 @@ window.phoneRadarDaily = {
           "verdict": "先看",
           "takeaway": "IT之家 7 月 11 日消息，博主 @数码闲聊站 今日公布了各家 Ultra 超大杯手机目前激活量： iQOO 15 Ultra ——24.1W± Xiaomi 17 Ultra ——23.3W± vivo X300 Ultra ——22.4W± OPPO Find X9 Ultra ——13.6W± IT之家附这几台手机简要介绍： iQOO 15 Ul…",
           "detail": "IT之家 7 月 11 日消息，博主 @数码闲聊站 今日公布了各家 Ultra 超大杯手机目前激活量： iQOO 15 Ultra ——24.1W± Xiaomi 17 Ultra ——23.3W± vivo X300 Ultra ——22.4W± OPPO Find X9 Ultra ——13.6W± IT之家附这几台手机简要介绍： iQOO 15 Ul…",
-          "keyPoints": [
-            "爆料来源"
-          ],
-          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "auto-9a36ce429717",
-          "title": "小米 REDMI Note 17 系列手机规格曝光：骁龙 4 Gen4 / 6s Gen4，主摄 50MP",
-          "originalTitle": "",
-          "source": "IT之家",
-          "brand": "Samsung",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-07-11",
-          "time": "12:30",
-          "publishedAt": "2026-07-11T12:30:07.000Z",
-          "url": "https://www.ithome.com/0/975/586.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/7/edc00182-c892-4680-9c1b-9e06f4f559d6.jpg?x-bce-process=image/format,f_auto",
-          "verdict": "先看",
-          "takeaway": "IT之家 7 月 11 日消息，小米 REDMI Note 17 系列手机发布会已定档 7 月 14 日。该机号称升配不升档，守住中端体验基线，主打超长续航更持久耐用。 博主 @体验more 今日曝光了新机的主要规格，IT之家汇总如下： REDMI Note 17 芯片：骁龙 4 Gen 4 屏幕：7 英寸 1080p 三星 E4 Pro、1200-180…",
-          "detail": "IT之家 7 月 11 日消息，小米 REDMI Note 17 系列手机发布会已定档 7 月 14 日。该机号称升配不升档，守住中端体验基线，主打超长续航更持久耐用。 博主 @体验more 今日曝光了新机的主要规格，IT之家汇总如下： REDMI Note 17 芯片：骁龙 4 Gen 4 屏幕：7 英寸 1080p 三星 E4 Pro、1200-180…",
-          "keyPoints": [
-            "屏幕形态",
-            "电池 / 充电",
-            "芯片 / 性能"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "coolapk-user-f704eab6998a",
-          "title": "竹本青：【各品牌超大杯手机激活量曝光：iQOO、小米、vivo均超20万台，OPPO超13万台】 7月11日，博主数码闲聊…",
-          "originalTitle": "",
-          "source": "竹本青",
-          "brand": "Xiaomi",
-          "type": "爆料",
-          "trust": "高可信爆料",
-          "date": "2026-07-11",
-          "time": "14:39",
-          "publishedAt": "2026-07-11T14:39:37.000Z",
-          "url": "https://www.coolapk.com/feed/72743776",
-          "image": "http://image.coolapk.com/feed/2026/0711/22/4248714_fcea0a78_0776_1572_419@1438x620.jpg",
-          "verdict": "先看",
-          "takeaway": "【各品牌超大杯手机激活量曝光：iQOO、小米、vivo均超20万台，OPPO超13万台】 7月11日，博主数码闲聊站曝光 国产Top手机厂商 Ultra超大杯机型 最新激活量： iQOO 15 Ultra —— 24.1W± Xiaomi 17 Ultra—— 23.3W± vivo X300 Ultra —— 22.4W± OPPO Find X9 Ul…",
-          "detail": "【各品牌超大杯手机激活量曝光：iQOO、小米、vivo均超20万台，OPPO超13万台】 7月11日，博主数码闲聊站曝光 国产Top手机厂商 Ultra超大杯机型 最新激活量： iQOO 15 Ultra —— 24.1W± Xiaomi 17 Ultra—— 23.3W± vivo X300 Ultra —— 22.4W± OPPO Find X9 Ul…",
           "keyPoints": [
             "爆料来源"
           ],
@@ -404,59 +402,6 @@ window.phoneRadarDaily = {
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "影响拍照体验，买旗舰机时值得关注。",
           "action": "有具体参数就记录到参数库；没有参数就先收藏。"
-        }
-      ]
-    },
-    {
-      "id": "market",
-      "title": "行业趋势",
-      "hint": "看方向，不急着当购买依据。",
-      "items": [
-        {
-          "id": "newsnow-d53802d0ad53",
-          "title": "这手机是真的烫啊，真受不了了，挂个 QQ 音乐在后台都巨烫，老哥有没有什么免解释的优化方案#小米17ProMax# #HyperOS3# #HyperOS4#",
-          "originalTitle": "",
-          "source": "酷安热榜",
-          "brand": "Xiaomi",
-          "type": "爆料",
-          "trust": "高关注爆料源",
-          "date": "2026-07-11",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://www.coolapk.com/feed/72719462",
-          "image": "",
-          "verdict": "先看",
-          "takeaway": "这手机是真的烫啊，真受不了了，挂个 QQ 音乐在后台都巨烫，老哥有没有什么免解释的优化方案#小米17ProMax# #HyperOS3# #HyperOS4#",
-          "detail": "这手机是真的烫啊，真受不了了，挂个 QQ 音乐在后台都巨烫，老哥有没有什么免解释的优化方案#小米17ProMax# #HyperOS3# #HyperOS4#",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
-        {
-          "id": "newsnow-821b338c6767",
-          "title": "夜半三更，万籁俱寂。余独坐灯下，编译橙狐Recovery。历时数刻，终成。遂满怀欣喜，将其写入手机之中，期冀新成。",
-          "originalTitle": "",
-          "source": "酷安热榜",
-          "brand": "行业",
-          "type": "爆料",
-          "trust": "高关注爆料源",
-          "date": "2026-07-11",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://www.coolapk.com/feed/72720202",
-          "image": "",
-          "verdict": "扫一眼",
-          "takeaway": "夜半三更，万籁俱寂。余独坐灯下，编译橙狐Recovery。历时数刻，终成。遂满怀欣喜，将其写入手机之中，期冀新成。",
-          "detail": "夜半三更，万籁俱寂。余独坐灯下，编译橙狐Recovery。历时数刻，终成。遂满怀欣喜，将其写入手机之中，期冀新成。",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         }
       ]
     }
