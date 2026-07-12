@@ -1,13 +1,13 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-07-12T11:30:26.294Z",
+  "updatedAt": "2026-07-12T13:56:39.008Z",
   "issueDate": "2026-07-12",
   "issue": "VOL.260712",
   "title": "手机情报日报",
-  "intro": "今日筛出 12 条重点，其中 7 条是重点爆料，包含 3 条 iPhone 相关、1 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 18 条重点，其中 8 条是重点爆料，包含 7 条 iPhone 相关、1 条官方确认、0 条参数线索。",
   "stats": {
-    "total": 12,
-    "iphone": 3,
-    "leaks": 7,
+    "total": 18,
+    "iphone": 7,
+    "leaks": 8,
     "official": 1,
     "specs": 0
   },
@@ -17,6 +17,29 @@ window.phoneRadarDaily = {
       "title": "重点爆料",
       "hint": "机模、配色、影像、屏幕、电池和芯片线索先看。",
       "items": [
+        {
+          "id": "newsnow-4ec4de5828ea",
+          "title": "我所有的手机里，只有iPhone的屏幕是我只要看一会儿，再去看别的地方，就会模糊，然后需要很久才会恢复，iPhone17pro如此，iPhone16pro亦如此，发完这条，我感觉眼睛已经难受的不行了，可能我真适应不了iPhone这块屏幕吧。",
+          "originalTitle": "",
+          "source": "酷安热榜",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "高关注爆料源",
+          "date": "2026-07-12",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://www.coolapk.com/feed/72741085",
+          "image": "",
+          "verdict": "先看",
+          "takeaway": "我所有的手机里，只有iPhone的屏幕是我只要看一会儿，再去看别的地方，就会模糊，然后需要很久才会恢复，iPhone17pro如此，iPhone16pro亦如此，发完这条，我感觉眼睛已经难受的不行了，可能我真适应不了iPhone这块屏幕吧。",
+          "detail": "我所有的手机里，只有iPhone的屏幕是我只要看一会儿，再去看别的地方，就会模糊，然后需要很久才会恢复，iPhone17pro如此，iPhone16pro亦如此，发完这条，我感觉眼睛已经难受的不行了，可能我真适应不了iPhone这块屏幕吧。",
+          "keyPoints": [
+            "屏幕形态"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
         {
           "id": "auto-a808c8267611",
           "title": "消息称华为 Mate 80 Air 手机下半年发布，搭载麒麟 9030 系列芯片",
@@ -44,6 +67,29 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
+          "id": "coolapk-user-2b0e3bfded49",
+          "title": "竹本青：【消息称小米 17系列 总销量已超561万台】 7月12日，博主「RD观测」发布第三方数据：截至2026年第27周…",
+          "originalTitle": "",
+          "source": "竹本青",
+          "brand": "Xiaomi",
+          "type": "爆料",
+          "trust": "高可信爆料",
+          "date": "2026-07-12",
+          "time": "13:03",
+          "publishedAt": "2026-07-12T13:03:25.000Z",
+          "url": "https://www.coolapk.com/feed/72755536",
+          "image": "http://image.coolapk.com/feed/2026/0712/21/4248714_4ca1ce7a_1820_857_671@2999x2764.jpg",
+          "verdict": "先看",
+          "takeaway": "【消息称小米 17系列 总销量已超561万台】 7月12日，博主「RD观测」发布第三方数据：截至2026年第27周，小米 17系列 累计销量约561.43万台，其中，Ultra约23.25万台。 前几周数据如下： 小米 17系列 截至2026 W26 —— 约554.01万 截至2026 W25 —— 约544.96万 截至2026 W24 —— 约531…",
+          "detail": "【消息称小米 17系列 总销量已超561万台】 7月12日，博主「RD观测」发布第三方数据：截至2026年第27周，小米 17系列 累计销量约561.43万台，其中，Ultra约23.25万台。 前几周数据如下： 小米 17系列 截至2026 W26 —— 约554.01万 截至2026 W25 —— 约544.96万 截至2026 W24 —— 约531…",
+          "keyPoints": [
+            "爆料来源"
+          ],
+          "confidence": "可信度较高，但仍属于发布前线索。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
           "id": "auto-cfb7232593d2",
           "title": "诺基亚时代经典产品线命名回归：HMD Asha 305 入门手机完整规格及海报曝光",
           "originalTitle": "",
@@ -63,29 +109,6 @@ window.phoneRadarDaily = {
             "外观 / 配色 / 尺寸"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "coolapk-user-f704eab6998a",
-          "title": "竹本青：各品牌超大杯手机激活量曝光：OPPO超13万台",
-          "originalTitle": "",
-          "source": "竹本青",
-          "brand": "Xiaomi",
-          "type": "爆料",
-          "trust": "高可信爆料",
-          "date": "2026-07-11",
-          "time": "14:39",
-          "publishedAt": "2026-07-11T14:39:37.000Z",
-          "url": "https://www.coolapk.com/feed/72743776",
-          "image": "http://image.coolapk.com/feed/2026/0711/22/4248714_fcea0a78_0776_1572_419@1438x620.jpg",
-          "verdict": "先看",
-          "takeaway": "【各品牌超大杯手机激活量曝光：iQOO、小米、vivo均超20万台，OPPO超13万台】 7月11日，博主数码闲聊站曝光 国产Top手机厂商 Ultra超大杯机型 最新激活量： iQOO 15 Ultra —— 24.1W± Xiaomi 17 Ultra—— 23.3W± vivo X300 Ultra —— 22.4W± OPPO Find X9 Ul…",
-          "detail": "【各品牌超大杯手机激活量曝光：iQOO、小米、vivo均超20万台，OPPO超13万台】 7月11日，博主数码闲聊站曝光 国产Top手机厂商 Ultra超大杯机型 最新激活量： iQOO 15 Ultra —— 24.1W± Xiaomi 17 Ultra—— 23.3W± vivo X300 Ultra —— 22.4W± OPPO Find X9 Ul…",
-          "keyPoints": [
-            "爆料来源"
-          ],
-          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
@@ -139,6 +162,29 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
+          "id": "auto-c776eb3bec26",
+          "title": "Xiaomi 相关消息",
+          "originalTitle": "",
+          "source": "Gizmochina",
+          "brand": "Xiaomi",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-07-12",
+          "time": "13:27",
+          "publishedAt": "2026-07-12T13:27:29.000Z",
+          "url": "https://www.gizmochina.com/2026/07/12/redmi-17c-5g-leak-confirms-its-basically-a-rebadged-redmi-15c-5g/",
+          "image": "https://www.gizmochina.com/wp-content/uploads/2025/12/Redmi-15C-5G-1-300x220.png?x44794",
+          "verdict": "先看",
+          "takeaway": "Xiaomi 相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
+          "detail": "Xiaomi 相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
+          "keyPoints": [
+            "爆料来源"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
           "id": "auto-058338d8078a",
           "title": "Xiaomi 发布 / 上市相关消息",
           "originalTitle": "",
@@ -155,30 +201,6 @@ window.phoneRadarDaily = {
           "takeaway": "Xiaomi 有发布或新功能消息，适合确认是否和新机有关。",
           "detail": "Xiaomi 发布 / 上市相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
           "keyPoints": [
-            "爆料来源"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "auto-c5d1ff25b69d",
-          "title": "Samsung 折叠屏相关消息",
-          "originalTitle": "",
-          "source": "Gizmochina",
-          "brand": "Samsung",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-07-11",
-          "time": "03:56",
-          "publishedAt": "2026-07-11T03:56:18.000Z",
-          "url": "https://www.gizmochina.com/2026/07/11/galaxy-z-fold-8-fold-8-ultra-flip-8-us-prices-leaked-ultra-starts-at-2099/",
-          "image": "https://www.gizmochina.com/wp-content/uploads/2026/07/galaxy-z-fold-8-teaser-300x169.jpg?x44794",
-          "verdict": "先看",
-          "takeaway": "Samsung 折叠屏相关消息。如果涉及订阅、售价或硬件成本，才需要进一步看细节。",
-          "detail": "Samsung 折叠屏相关消息。重点看折痕、铰链、厚度、屏幕可靠性和重量是否有实质改善。",
-          "keyPoints": [
-            "成本 / 价格",
             "爆料来源"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
@@ -239,26 +261,95 @@ window.phoneRadarDaily = {
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         },
         {
-          "id": "auto-8bb4007293f9",
-          "title": "iPhone 相关消息",
+          "id": "newsnow-e9f91823bcf9",
+          "title": "我的出行好伙伴，用 iPhone 一站式解决旅途痛点",
           "originalTitle": "",
-          "source": "9to5Mac",
+          "source": "少数派热榜",
           "brand": "iPhone",
-          "type": "爆料",
+          "type": "评测",
           "trust": "媒体汇总",
-          "date": "2026-07-11",
-          "time": "16:00",
-          "publishedAt": "2026-07-11T16:00:00.000Z",
-          "url": "https://9to5mac.com/2026/07/11/sandisk-phone-drive-iphone-great-solution-to-low-storage/",
-          "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/SANDISK-Phone-Drive-for-iPhone.jpg?quality=82&strip=all&w=1600",
+          "date": "2026-07-12",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://sspai.com/post/112044",
+          "image": "",
           "verdict": "扫一眼",
-          "takeaway": "iPhone 相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
-          "detail": "iPhone 相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
+          "takeaway": "我的出行好伙伴，用 iPhone 一站式解决旅途痛点",
+          "detail": "我的出行好伙伴，用 iPhone 一站式解决旅途痛点",
           "keyPoints": [
-            "爆料"
+            "评测"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "impact": "这是实际体验内容，买前适合重点看缺点和取舍。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        },
+        {
+          "id": "newsnow-429f1931f6d1",
+          "title": "iPhone Air 当主力机用了三个多月后，我为什么还是换不掉它",
+          "originalTitle": "",
+          "source": "少数派热榜",
+          "brand": "iPhone",
+          "type": "评测",
+          "trust": "媒体汇总",
+          "date": "2026-07-12",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://sspai.com/post/111113",
+          "image": "",
+          "verdict": "扫一眼",
+          "takeaway": "iPhone Air 当主力机用了三个多月后，我为什么还是换不掉它",
+          "detail": "iPhone Air 当主力机用了三个多月后，我为什么还是换不掉它",
+          "keyPoints": [
+            "评测"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是实际体验内容，买前适合重点看缺点和取舍。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        },
+        {
+          "id": "newsnow-520b8018951f",
+          "title": "快捷指令｜让 iPhone 用上锤子的「大爆炸」",
+          "originalTitle": "",
+          "source": "少数派热榜",
+          "brand": "iPhone",
+          "type": "评测",
+          "trust": "媒体汇总",
+          "date": "2026-07-12",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://sspai.com/post/111405",
+          "image": "",
+          "verdict": "扫一眼",
+          "takeaway": "快捷指令｜让 iPhone 用上锤子的「大爆炸」",
+          "detail": "快捷指令｜让 iPhone 用上锤子的「大爆炸」",
+          "keyPoints": [
+            "评测"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是实际体验内容，买前适合重点看缺点和取舍。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        },
+        {
+          "id": "newsnow-b5526d472f74",
+          "title": "iOS 剪贴板管理工具 Procut：换个方式收藏碎片化信息",
+          "originalTitle": "",
+          "source": "少数派热榜",
+          "brand": "iPhone",
+          "type": "评测",
+          "trust": "媒体汇总",
+          "date": "2026-07-12",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://sspai.com/post/110950",
+          "image": "",
+          "verdict": "扫一眼",
+          "takeaway": "iOS 剪贴板管理工具 Procut：换个方式收藏碎片化信息",
+          "detail": "iOS 剪贴板管理工具 Procut：换个方式收藏碎片化信息",
+          "keyPoints": [
+            "评测"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是实际体验内容，买前适合重点看缺点和取舍。",
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         }
       ]
@@ -268,6 +359,29 @@ window.phoneRadarDaily = {
       "title": "新机与官方发布",
       "hint": "能直接更新到参数库。",
       "items": [
+        {
+          "id": "auto-c20c0484cb17",
+          "title": "Pixel 相关消息",
+          "originalTitle": "",
+          "source": "9to5Google",
+          "brand": "Pixel",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-07-12",
+          "time": "12:30",
+          "publishedAt": "2026-07-12T12:30:00.000Z",
+          "url": "https://9to5google.com/2026/07/12/pixel-10-pro-discount/",
+          "image": "",
+          "verdict": "可略过",
+          "takeaway": "Pixel 相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
+          "detail": "Pixel 相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        },
         {
           "id": "auto-86d35942fbd9",
           "title": "Huawei 相关消息",
@@ -318,6 +432,29 @@ window.phoneRadarDaily = {
             "爆料"
           ],
           "confidence": "可信度较高，但仍属于发布前线索。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        },
+        {
+          "id": "auto-5a65cbd9e526",
+          "title": "Pixel 10 Pro Fold 折叠屏相关消息",
+          "originalTitle": "",
+          "source": "Android Authority",
+          "brand": "Pixel",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-07-12",
+          "time": "12:00",
+          "publishedAt": "2026-07-12T12:00:23.000Z",
+          "url": "https://www.androidauthority.com/i-used-motorola-razr-fold-and-google-pixel-10-pro-fold-3685952/",
+          "image": "",
+          "verdict": "可略过",
+          "takeaway": "Pixel 10 Pro Fold 折叠屏相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
+          "detail": "Pixel 10 Pro Fold 折叠屏相关消息。重点看折痕、铰链、厚度、屏幕可靠性和重量是否有实质改善。",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         }

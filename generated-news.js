@@ -1,6 +1,86 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-07-12T11:30:26.294Z",
+  "updatedAt": "2026-07-12T13:56:39.008Z",
   "news": [
+    {
+      "id": "auto-c776eb3bec26",
+      "title": "Redmi 17C 5G leak confirms it’s basically a rebadged Redmi 15C 5G",
+      "source": "Gizmochina",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-12",
+      "time": "13:27",
+      "publishedAt": "2026-07-12T13:27:29.000Z",
+      "url": "https://www.gizmochina.com/2026/07/12/redmi-17c-5g-leak-confirms-its-basically-a-rebadged-redmi-15c-5g/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2025/12/Redmi-15C-5G-1-300x220.png?x44794",
+      "summary": "A fresh Geekbench listing has given away most of what there is to know about the upcoming Redmi 17C 5G, and it turns out there isn’t much new here. The benchmark shows the phone u…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-2b0e3bfded49",
+      "title": "竹本青：【消息称小米 17系列 总销量已超561万台】 7月12日，博主「RD观测」发布第三方数据：截至2026年第27周…",
+      "source": "竹本青",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-07-12",
+      "time": "13:03",
+      "publishedAt": "2026-07-12T13:03:25.000Z",
+      "url": "https://www.coolapk.com/feed/72755536",
+      "image": "http://image.coolapk.com/feed/2026/0712/21/4248714_4ca1ce7a_1820_857_671@2999x2764.jpg",
+      "summary": "【消息称小米 17系列 总销量已超561万台】 7月12日，博主「RD观测」发布第三方数据：截至2026年第27周，小米 17系列 累计销量约561.43万台，其中，Ultra约23.25万台。 前几周数据如下： 小米 17系列 截至2026 W26 —— 约554.01万 截至2026 W25 —— 约544.96万 截至2026 W24 —— 约531…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-c20c0484cb17",
+      "title": "Google Store discounts base Pixel 10 Pro by $300",
+      "source": "9to5Google",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-12",
+      "time": "12:30",
+      "publishedAt": "2026-07-12T12:30:00.000Z",
+      "url": "https://9to5google.com/2026/07/12/pixel-10-pro-discount/",
+      "image": "",
+      "summary": "The US Google Store has curiously discounted a specific Pixel 10 Pro model by $300 in the deepest official sale to date.",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-5a65cbd9e526",
+      "title": "I used the Motorola Razr Fold and Pixel 10 Pro Fold, and only one keeps winning me over",
+      "source": "Android Authority",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-12",
+      "time": "12:00",
+      "publishedAt": "2026-07-12T12:00:23.000Z",
+      "url": "https://www.androidauthority.com/i-used-motorola-razr-fold-and-google-pixel-10-pro-fold-3685952/",
+      "image": "",
+      "summary": "Motorola hit all the right notes.",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-a131e64ca56c",
       "title": "HMD 旗下 2026 款诺基亚 102 4G 功能机曝光：面向国内市场，售价低于 159 元",
@@ -242,6 +322,106 @@ window.phoneRadarAuto = {
       ]
     },
     {
+      "id": "newsnow-e9f91823bcf9",
+      "title": "我的出行好伙伴，用 iPhone 一站式解决旅途痛点",
+      "source": "少数派热榜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-07-12",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://sspai.com/post/112044",
+      "image": "",
+      "summary": "我的出行好伙伴，用 iPhone 一站式解决旅途痛点",
+      "tags": [
+        "iPhone",
+        "评测",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-429f1931f6d1",
+      "title": "iPhone Air 当主力机用了三个多月后，我为什么还是换不掉它",
+      "source": "少数派热榜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-07-12",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://sspai.com/post/111113",
+      "image": "",
+      "summary": "iPhone Air 当主力机用了三个多月后，我为什么还是换不掉它",
+      "tags": [
+        "iPhone",
+        "评测",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-520b8018951f",
+      "title": "快捷指令｜让 iPhone 用上锤子的「大爆炸」",
+      "source": "少数派热榜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-07-12",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://sspai.com/post/111405",
+      "image": "",
+      "summary": "快捷指令｜让 iPhone 用上锤子的「大爆炸」",
+      "tags": [
+        "iPhone",
+        "评测",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-b5526d472f74",
+      "title": "iOS 剪贴板管理工具 Procut：换个方式收藏碎片化信息",
+      "source": "少数派热榜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-07-12",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://sspai.com/post/110950",
+      "image": "",
+      "summary": "iOS 剪贴板管理工具 Procut：换个方式收藏碎片化信息",
+      "tags": [
+        "iPhone",
+        "评测",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-4ec4de5828ea",
+      "title": "我所有的手机里，只有iPhone的屏幕是我只要看一会儿，再去看别的地方，就会模糊，然后需要很久才会恢复，iPhone17pro如此，iPhone16pro亦如此，发完这条，我感觉眼睛已经难受的不行了，可能我真适应不了iPhone这块屏幕吧。",
+      "source": "酷安热榜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-07-12",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/72741085",
+      "image": "",
+      "summary": "我所有的手机里，只有iPhone的屏幕是我只要看一会儿，再去看别的地方，就会模糊，然后需要很久才会恢复，iPhone17pro如此，iPhone16pro亦如此，发完这条，我感觉眼睛已经难受的不行了，可能我真适应不了iPhone这块屏幕吧。",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
       "id": "auto-8bb4007293f9",
       "title": "SANDISK Phone Drive for iPhone is a great solution to low storage",
       "source": "9to5Mac",
@@ -279,26 +459,6 @@ window.phoneRadarAuto = {
         "Huawei",
         "爆料",
         "自动抓取"
-      ]
-    },
-    {
-      "id": "coolapk-user-f704eab6998a",
-      "title": "竹本青：各品牌超大杯手机激活量曝光：OPPO超13万台",
-      "source": "竹本青",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-07-11",
-      "time": "14:39",
-      "publishedAt": "2026-07-11T14:39:37.000Z",
-      "url": "https://www.coolapk.com/feed/72743776",
-      "image": "http://image.coolapk.com/feed/2026/0711/22/4248714_fcea0a78_0776_1572_419@1438x620.jpg",
-      "summary": "【各品牌超大杯手机激活量曝光：iQOO、小米、vivo均超20万台，OPPO超13万台】 7月11日，博主数码闲聊站曝光 国产Top手机厂商 Ultra超大杯机型 最新激活量： iQOO 15 Ultra —— 24.1W± Xiaomi 17 Ultra—— 23.3W± vivo X300 Ultra —— 22.4W± OPPO Find X9 Ul…",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "酷安博主"
       ]
     },
     {
