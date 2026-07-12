@@ -1,5 +1,5 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-07-12T13:56:39.008Z",
+  "updatedAt": "2026-07-12T15:15:23.454Z",
   "news": [
     {
       "id": "auto-c776eb3bec26",
@@ -179,46 +179,6 @@ window.phoneRadarAuto = {
         "OPPO",
         "爆料",
         "酷安博主"
-      ]
-    },
-    {
-      "id": "auto-4e3ff408ac9f",
-      "title": "网传百度搜索“一加账号”出现“一屎”字样",
-      "source": "IT之家",
-      "brand": "OPPO",
-      "model": "OPPO 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-12",
-      "time": "08:17",
-      "publishedAt": "2026-07-12T08:17:11.000Z",
-      "url": "https://www.ithome.com/0/975/748.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/7/d946f828-2742-4d80-a813-ef8d339d346a.gif",
-      "summary": "IT之家 7 月 12 日消息，综合IT之家读者投稿并经IT之家验证，使用百度搜索引擎搜索“一加账号”“一加产品注册”此类关键词时，出现的前几个搜索结果“网站名称”处出现“一屎”字样，在 PC / 手机端均出现相应搜索结果。 通常情况下，这种搜索结果应当是有黑灰产平台或是好事者利用第三方域名跳转“刷量”，然而点击 PC 端搜索结果“一屎”角标处“举报”页面…",
-      "tags": [
-        "OPPO",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-487bfbf53f10",
-      "title": "芒米 Air Y 系列掌机公布：竖版造型、高通芯片，预计 7 月 30 日发售",
-      "source": "IT之家",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-12",
-      "time": "07:38",
-      "publishedAt": "2026-07-12T07:38:05.000Z",
-      "url": "https://www.ithome.com/0/975/739.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/7/65e310e7-dca1-4f30-803b-ca0b24dc0ff8.jpg",
-      "summary": "IT之家 7 月 12 日消息，据科技媒体 Notebookcheck 昨天报道，芒米 Air Y 系列掌机现已公布， 新机主打竖版造型 ， 拥有标准版和 Pro 版两个型号 。 据介绍，芒米 Air Y 标准版将采用黑色外观，配备十字键、ABXY 按键和单摇杆，机身左侧带有橙色按键、滚轮，以及一颗黑色按键。而 Air Y Pro 的外观则是改为米色，其他…",
-      "tags": [
-        "行业",
-        "爆料",
-        "自动抓取"
       ]
     },
     {
