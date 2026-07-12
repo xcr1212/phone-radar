@@ -1,12 +1,12 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-07-12T19:30:20.487Z",
+  "updatedAt": "2026-07-12T21:05:58.967Z",
   "issueDate": "2026-07-12",
   "issue": "VOL.260712",
   "title": "手机情报日报",
-  "intro": "今日筛出 17 条重点，其中 8 条是重点爆料，包含 6 条 iPhone 相关、1 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 19 条重点，其中 8 条是重点爆料，包含 8 条 iPhone 相关、1 条官方确认、0 条参数线索。",
   "stats": {
-    "total": 17,
-    "iphone": 6,
+    "total": 19,
+    "iphone": 8,
     "leaks": 8,
     "official": 1,
     "specs": 0
@@ -286,26 +286,72 @@ window.phoneRadarDaily = {
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         },
         {
-          "id": "auto-8bb4007293f9",
-          "title": "iPhone 相关消息",
+          "id": "newsnow-e9f91823bcf9",
+          "title": "我的出行好伙伴，用 iPhone 一站式解决旅途痛点",
           "originalTitle": "",
-          "source": "9to5Mac",
+          "source": "少数派热榜",
           "brand": "iPhone",
-          "type": "爆料",
+          "type": "评测",
           "trust": "媒体汇总",
-          "date": "2026-07-11",
-          "time": "16:00",
-          "publishedAt": "2026-07-11T16:00:00.000Z",
-          "url": "https://9to5mac.com/2026/07/11/sandisk-phone-drive-iphone-great-solution-to-low-storage/",
-          "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/SANDISK-Phone-Drive-for-iPhone.jpg?quality=82&strip=all&w=1600",
+          "date": "2026-07-12",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://sspai.com/post/112044",
+          "image": "",
           "verdict": "扫一眼",
-          "takeaway": "iPhone 相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
-          "detail": "iPhone 相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
+          "takeaway": "我的出行好伙伴，用 iPhone 一站式解决旅途痛点",
+          "detail": "我的出行好伙伴，用 iPhone 一站式解决旅途痛点",
           "keyPoints": [
-            "爆料"
+            "评测"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "impact": "这是实际体验内容，买前适合重点看缺点和取舍。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        },
+        {
+          "id": "newsnow-429f1931f6d1",
+          "title": "iPhone Air 当主力机用了三个多月后，我为什么还是换不掉它",
+          "originalTitle": "",
+          "source": "少数派热榜",
+          "brand": "iPhone",
+          "type": "评测",
+          "trust": "媒体汇总",
+          "date": "2026-07-12",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://sspai.com/post/111113",
+          "image": "",
+          "verdict": "扫一眼",
+          "takeaway": "iPhone Air 当主力机用了三个多月后，我为什么还是换不掉它",
+          "detail": "iPhone Air 当主力机用了三个多月后，我为什么还是换不掉它",
+          "keyPoints": [
+            "评测"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是实际体验内容，买前适合重点看缺点和取舍。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        },
+        {
+          "id": "newsnow-520b8018951f",
+          "title": "快捷指令｜让 iPhone 用上锤子的「大爆炸」",
+          "originalTitle": "",
+          "source": "少数派热榜",
+          "brand": "iPhone",
+          "type": "评测",
+          "trust": "媒体汇总",
+          "date": "2026-07-12",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://sspai.com/post/111405",
+          "image": "",
+          "verdict": "扫一眼",
+          "takeaway": "快捷指令｜让 iPhone 用上锤子的「大爆炸」",
+          "detail": "快捷指令｜让 iPhone 用上锤子的「大爆炸」",
+          "keyPoints": [
+            "评测"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是实际体验内容，买前适合重点看缺点和取舍。",
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         }
       ]
