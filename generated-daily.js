@@ -1,13 +1,13 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-07-12T06:47:03.578Z",
+  "updatedAt": "2026-07-12T10:00:35.084Z",
   "issueDate": "2026-07-12",
   "issue": "VOL.260712",
   "title": "手机情报日报",
-  "intro": "今日筛出 15 条重点，其中 7 条是重点爆料，包含 7 条 iPhone 相关、1 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 14 条重点，其中 6 条是重点爆料，包含 7 条 iPhone 相关、1 条官方确认、0 条参数线索。",
   "stats": {
-    "total": 15,
+    "total": 14,
     "iphone": 7,
-    "leaks": 7,
+    "leaks": 6,
     "official": 1,
     "specs": 0
   },
@@ -35,29 +35,6 @@ window.phoneRadarDaily = {
           "detail": "我所有的手机里，只有iPhone的屏幕是我只要看一会儿，再去看别的地方，就会模糊，然后需要很久才会恢复，iPhone17pro如此，iPhone16pro亦如此，发完这条，我感觉眼睛已经难受的不行了，可能我真适应不了iPhone这块屏幕吧。",
           "keyPoints": [
             "屏幕形态"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "auto-17272ef5f758",
-          "title": "三星 Galaxy Z Fold8 阔折叠手机实拍图曝光，消息称已在韩国门店展出",
-          "originalTitle": "",
-          "source": "IT之家",
-          "brand": "Samsung",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-07-12",
-          "time": "01:40",
-          "publishedAt": "2026-07-12T01:40:15.000Z",
-          "url": "https://www.ithome.com/0/975/654.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/7/1ea69aac-7345-445e-b750-0a9a6ca415f3.png",
-          "verdict": "先看",
-          "takeaway": "IT之家 7 月 12 日消息，据博主 @搞机王腾霄 分享，三星 Galaxy Z Fold8 阔折叠手机的实拍图已经曝光， 目前已经在韩国的三星门店摆出 。博主称该机铰链中间是黑色的，据说是两段式铰链。 据IT之家此前报道，三星 Galaxy Z Fold8 在展开状态下厚度仅为 4.5mm，折叠后厚度为 9.7mm， 整机重量控制在 201g 。另外，…",
-          "detail": "IT之家 7 月 12 日消息，据博主 @搞机王腾霄 分享，三星 Galaxy Z Fold8 阔折叠手机的实拍图已经曝光， 目前已经在韩国的三星门店摆出 。博主称该机铰链中间是黑色的，据说是两段式铰链。 据IT之家此前报道，三星 Galaxy Z Fold8 在展开状态下厚度仅为 4.5mm，折叠后厚度为 9.7mm， 整机重量控制在 201g 。另外，…",
-          "keyPoints": [
-            "爆料来源"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
@@ -190,6 +167,29 @@ window.phoneRadarDaily = {
       "hint": "不是硬件爆料，但和 iPhone 体验或路线有关。",
       "items": [
         {
+          "id": "newsnow-1ae63c8bb46a",
+          "title": "#酷安夜话# 集帅们我终于存了30万，为什么还没解锁V1黑卡，女朋友还嫌弃我挣得少，我觉得我已经很厉害了#初恋这件小事# #iPhone17ProMax#",
+          "originalTitle": "",
+          "source": "酷安热榜",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "高关注爆料源",
+          "date": "2026-07-12",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://www.coolapk.com/feed/72724088",
+          "image": "",
+          "verdict": "先看",
+          "takeaway": "#酷安夜话# 集帅们我终于存了30万，为什么还没解锁V1黑卡，女朋友还嫌弃我挣得少，我觉得我已经很厉害了#初恋这件小事# #iPhone17ProMax#",
+          "detail": "#酷安夜话# 集帅们我终于存了30万，为什么还没解锁V1黑卡，女朋友还嫌弃我挣得少，我觉得我已经很厉害了#初恋这件小事# #iPhone17ProMax#",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        },
+        {
           "id": "coolapk-user-0ffaa387b87e",
           "title": "竹本青：【iPhone 17系列 中国区最新销量曝光：近3712万台】 日前，博主「RD观测」发布第三方统计数据：截至20…",
           "originalTitle": "",
@@ -303,29 +303,6 @@ window.phoneRadarDaily = {
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是实际体验内容，买前适合重点看缺点和取舍。",
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
-        {
-          "id": "newsnow-b5526d472f74",
-          "title": "iOS 剪贴板管理工具 Procut：换个方式收藏碎片化信息",
-          "originalTitle": "",
-          "source": "少数派热榜",
-          "brand": "iPhone",
-          "type": "评测",
-          "trust": "媒体汇总",
-          "date": "2026-07-12",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://sspai.com/post/110950",
-          "image": "",
-          "verdict": "扫一眼",
-          "takeaway": "iOS 剪贴板管理工具 Procut：换个方式收藏碎片化信息",
-          "detail": "iOS 剪贴板管理工具 Procut：换个方式收藏碎片化信息",
-          "keyPoints": [
-            "评测"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是实际体验内容，买前适合重点看缺点和取舍。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         }
       ]
     },
@@ -365,25 +342,25 @@ window.phoneRadarDaily = {
       "hint": "看方向，不急着当购买依据。",
       "items": [
         {
-          "id": "newsnow-cf6407bdb803",
-          "title": "红米K80Ultra，网页KernelSU越狱，支持220-210版本，还有302-303，其他版本可以自行尝试，手机上安装火狐151.0版本后打开下面的网页，选择对应版本，等待一段时间就可以，如果失败的话需要多试几次",
+          "id": "coolapk-user-1088dddd8809",
+          "title": "竹本青：【OPPO Find X9系列 最新销量曝光：全系超262万台，Ultra约13.7万台】 OPPO Find X…",
           "originalTitle": "",
-          "source": "酷安热榜",
-          "brand": "行业",
+          "source": "竹本青",
+          "brand": "OPPO",
           "type": "爆料",
-          "trust": "高关注爆料源",
+          "trust": "高可信爆料",
           "date": "2026-07-12",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://www.coolapk.com/feed/72734616",
-          "image": "",
+          "time": "08:32",
+          "publishedAt": "2026-07-12T08:32:52.000Z",
+          "url": "https://www.coolapk.com/feed/72752196",
+          "image": "http://image.coolapk.com/feed/2026/0712/16/4248714_6de78ed7_5170_8324_859@2986x2777.jpg",
           "verdict": "扫一眼",
-          "takeaway": "红米K80Ultra，网页KernelSU越狱，支持220-210版本，还有302-303，其他版本可以自行尝试，手机上安装火狐151.0版本后打开下面的网页，选择对应版本，等待一段时间就可以，如果失败的话需要多试几次",
-          "detail": "红米K80Ultra，网页KernelSU越狱，支持220-210版本，还有302-303，其他版本可以自行尝试，手机上安装火狐151.0版本后打开下面的网页，选择对应版本，等待一段时间就可以，如果失败的话需要多试几次",
+          "takeaway": "【OPPO Find X9系列 最新销量曝光：全系超262万台，Ultra约13.7万台】 OPPO Find X9系列 截至2026 W27 —— 约262.8万台 截至2026 W26 —— 约258.07万台 截至2026 W25 —— 约251.9万台 OPPO Find X9 Ultra 截至2026 W27 —— 约13.72万台 截至2026…",
+          "detail": "【OPPO Find X9系列 最新销量曝光：全系超262万台，Ultra约13.7万台】 OPPO Find X9系列 截至2026 W27 —— 约262.8万台 截至2026 W26 —— 约258.07万台 截至2026 W25 —— 约251.9万台 OPPO Find X9 Ultra 截至2026 W27 —— 约13.72万台 截至2026…",
           "keyPoints": [
             "爆料"
           ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "confidence": "可信度较高，但仍属于发布前线索。",
           "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         }

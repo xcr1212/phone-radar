@@ -1,6 +1,106 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-07-12T06:47:03.578Z",
+  "updatedAt": "2026-07-12T10:00:35.084Z",
   "news": [
+    {
+      "id": "auto-77955d46d1d4",
+      "title": "Exposing the sneaky math behind your Android phone’s battery life claims in 2026",
+      "source": "Android Authority",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-12",
+      "time": "09:30",
+      "publishedAt": "2026-07-12T09:30:09.000Z",
+      "url": "https://www.androidauthority.com/android-phone-battery-life-claims-sneaky-math-2026-3683394/",
+      "image": "",
+      "summary": "Brands like OnePlus and HONOR are trying to redefine battery health, and not entirely for the better.",
+      "tags": [
+        "HONOR",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-1088dddd8809",
+      "title": "竹本青：【OPPO Find X9系列 最新销量曝光：全系超262万台，Ultra约13.7万台】 OPPO Find X…",
+      "source": "竹本青",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-07-12",
+      "time": "08:32",
+      "publishedAt": "2026-07-12T08:32:52.000Z",
+      "url": "https://www.coolapk.com/feed/72752196",
+      "image": "http://image.coolapk.com/feed/2026/0712/16/4248714_6de78ed7_5170_8324_859@2986x2777.jpg",
+      "summary": "【OPPO Find X9系列 最新销量曝光：全系超262万台，Ultra约13.7万台】 OPPO Find X9系列 截至2026 W27 —— 约262.8万台 截至2026 W26 —— 约258.07万台 截至2026 W25 —— 约251.9万台 OPPO Find X9 Ultra 截至2026 W27 —— 约13.72万台 截至2026…",
+      "tags": [
+        "OPPO",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-4e3ff408ac9f",
+      "title": "网传百度搜索“一加账号”出现“一屎”字样",
+      "source": "IT之家",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-12",
+      "time": "08:17",
+      "publishedAt": "2026-07-12T08:17:11.000Z",
+      "url": "https://www.ithome.com/0/975/748.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/7/d946f828-2742-4d80-a813-ef8d339d346a.gif",
+      "summary": "IT之家 7 月 12 日消息，综合IT之家读者投稿并经IT之家验证，使用百度搜索引擎搜索“一加账号”“一加产品注册”此类关键词时，出现的前几个搜索结果“网站名称”处出现“一屎”字样，在 PC / 手机端无痕浏览下均出现相应搜索结果。 通常情况下，这种搜索结果应当是有黑灰产平台或是好事者利用第三方域名跳转“刷量”，然而点击 PC 端搜索结果“一屎”角标处“…",
+      "tags": [
+        "OPPO",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-487bfbf53f10",
+      "title": "芒米 Air Y 系列掌机公布：竖版造型、高通芯片，预计 7 月 30 日发售",
+      "source": "IT之家",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-12",
+      "time": "07:38",
+      "publishedAt": "2026-07-12T07:38:05.000Z",
+      "url": "https://www.ithome.com/0/975/739.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/7/65e310e7-dca1-4f30-803b-ca0b24dc0ff8.jpg",
+      "summary": "IT之家 7 月 12 日消息，据科技媒体 Notebookcheck 昨天报道，芒米 Air Y 系列掌机现已公布， 新机主打竖版造型 ， 拥有标准版和 Pro 版两个型号 。 据介绍，芒米 Air Y 标准版将采用黑色外观，配备十字键、ABXY 按键和单摇杆，机身左侧带有橙色按键、滚轮，以及一颗黑色按键。而 Air Y Pro 的外观则是改为米色，其他…",
+      "tags": [
+        "行业",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-3b552bc9c2f4",
+      "title": "Top 5 Alternatives to the Xiaomi 17T in 2026",
+      "source": "Gizmochina",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-12",
+      "time": "06:48",
+      "publishedAt": "2026-07-12T06:48:08.000Z",
+      "url": "https://www.gizmochina.com/2026/07/12/xiaomi-17t-top-5-alternatives/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/06/Xiaomi-17t-featured-300x170.png?x44794",
+      "summary": "This year, the smartphone market is filled with several competitive premium devices, and the Xiaomi 17T stands out as a strong photography focused flagship. Available in two main…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-9af53e082c42",
       "title": "Upcoming Motorola Edge 70 Max has the largest battery ever on a Motorola phone",
@@ -57,46 +157,6 @@ window.phoneRadarAuto = {
       "summary": "The Redmi Note 17 series is making its debut on July 14 — this Tuesday. The brand has confirmed a few specs before launch, including the Note 17 being its first phone with a 7-inc…",
       "tags": [
         "Xiaomi",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-d2e2f1d0baaf",
-      "title": "机身短了，影石 Insta360 X6 全景相机外观曝光",
-      "source": "IT之家",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-12",
-      "time": "01:45",
-      "publishedAt": "2026-07-12T01:45:56.000Z",
-      "url": "https://www.ithome.com/0/975/656.htm",
-      "image": "https://qimg.ithome.com/newfiles/2026/7/bd9dc96f-b0b2-4594-9a3f-ed310dcb23c8.jpg?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 7 月 12 日消息，德国媒体 WinFuture 前天公布了影石 Insta360 X6 全景相机的渲染图片，新机尺寸相比前代机型有所变化，预计将支持 8K 50fps 全景视频拍摄。 据介绍，Insta360 X6 采用了更加紧凑的设计，长度相比以往产品明显变短。影石过去几代 X 系列产品机身普遍较长，而 X6 则更加接近传统运动相机。机身顶…",
-      "tags": [
-        "行业",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-17272ef5f758",
-      "title": "三星 Galaxy Z Fold8 阔折叠手机实拍图曝光，消息称已在韩国门店展出",
-      "source": "IT之家",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-12",
-      "time": "01:40",
-      "publishedAt": "2026-07-12T01:40:15.000Z",
-      "url": "https://www.ithome.com/0/975/654.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/7/1ea69aac-7345-445e-b750-0a9a6ca415f3.png",
-      "summary": "IT之家 7 月 12 日消息，据博主 @搞机王腾霄 分享，三星 Galaxy Z Fold8 阔折叠手机的实拍图已经曝光， 目前已经在韩国的三星门店摆出 。博主称该机铰链中间是黑色的，据说是两段式铰链。 据IT之家此前报道，三星 Galaxy Z Fold8 在展开状态下厚度仅为 4.5mm，折叠后厚度为 9.7mm， 整机重量控制在 201g 。另外，…",
-      "tags": [
-        "Samsung",
         "爆料",
         "自动抓取"
       ]
@@ -222,21 +282,21 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-cf6407bdb803",
-      "title": "红米K80Ultra，网页KernelSU越狱，支持220-210版本，还有302-303，其他版本可以自行尝试，手机上安装火狐151.0版本后打开下面的网页，选择对应版本，等待一段时间就可以，如果失败的话需要多试几次",
+      "id": "newsnow-1ae63c8bb46a",
+      "title": "#酷安夜话# 集帅们我终于存了30万，为什么还没解锁V1黑卡，女朋友还嫌弃我挣得少，我觉得我已经很厉害了#初恋这件小事# #iPhone17ProMax#",
       "source": "酷安热榜",
-      "brand": "行业",
-      "model": "智能手机市场",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-07-12",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72734616",
+      "url": "https://www.coolapk.com/feed/72724088",
       "image": "",
-      "summary": "红米K80Ultra，网页KernelSU越狱，支持220-210版本，还有302-303，其他版本可以自行尝试，手机上安装火狐151.0版本后打开下面的网页，选择对应版本，等待一段时间就可以，如果失败的话需要多试几次",
+      "summary": "#酷安夜话# 集帅们我终于存了30万，为什么还没解锁V1黑卡，女朋友还嫌弃我挣得少，我觉得我已经很厉害了#初恋这件小事# #iPhone17ProMax#",
       "tags": [
-        "行业",
+        "iPhone",
         "爆料",
         "NewsNow"
       ]
@@ -257,26 +317,6 @@ window.phoneRadarAuto = {
       "summary": "Each time we buy a phone, we have to decide which storage tier to go for, and that requires a judgment call – not just about how much storage we need today, but how much we are li…",
       "tags": [
         "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-d7ebbddb43dd",
-      "title": "消息称某厂测试 8°OIS± 超级微云台防抖模组，主摄尺寸或将缩小",
-      "source": "IT之家",
-      "brand": "vivo",
-      "model": "vivo 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-11",
-      "time": "15:34",
-      "publishedAt": "2026-07-11T15:34:18.000Z",
-      "url": "https://www.ithome.com/0/975/624.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/7/a7928786-e84c-4e85-b3bc-c236eae589d0.png",
-      "summary": "IT之家 7 月 11 日消息，博主 @数码闲聊站 今日爆料称大厂下一代 Ultra 超大杯还在发力，实验室物料出现了一枚 8°OIS± 超级微云台防抖模组，如果顺利落地， 云台级视频防抖 + 云台级运镜玩法 ，但受限体积，主摄尺寸可能会缩到 1/1.3\"±。 目前，尚不清楚这款新机的型号，结合该博主此前的爆料习惯，评论区有网友推测为 vivo X500…",
-      "tags": [
-        "vivo",
         "爆料",
         "自动抓取"
       ]
