@@ -1,13 +1,13 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-07-12T03:56:06.344Z",
+  "updatedAt": "2026-07-12T06:47:03.578Z",
   "issueDate": "2026-07-12",
   "issue": "VOL.260712",
   "title": "手机情报日报",
-  "intro": "今日筛出 16 条重点，其中 8 条是重点爆料，包含 7 条 iPhone 相关、1 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 15 条重点，其中 7 条是重点爆料，包含 7 条 iPhone 相关、1 条官方确认、0 条参数线索。",
   "stats": {
-    "total": 16,
+    "total": 15,
     "iphone": 7,
-    "leaks": 8,
+    "leaks": 7,
     "official": 1,
     "specs": 0
   },
@@ -60,29 +60,6 @@ window.phoneRadarDaily = {
             "爆料来源"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "auto-d533f7b81b4a",
-          "title": "手机厂商 Ultra 超大杯机型激活量曝光：iQOO、小米、vivo 超 20 万台",
-          "originalTitle": "",
-          "source": "IT之家",
-          "brand": "Xiaomi",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-07-11",
-          "time": "13:19",
-          "publishedAt": "2026-07-11T13:19:38.000Z",
-          "url": "https://www.ithome.com/0/975/592.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/7/03c58ed1-8ed7-4b28-bf9a-7d25045b87c5.jpg",
-          "verdict": "先看",
-          "takeaway": "IT之家 7 月 11 日消息，博主 @数码闲聊站 今日公布了各家 Ultra 超大杯手机目前激活量： iQOO 15 Ultra ——24.1W± Xiaomi 17 Ultra ——23.3W± vivo X300 Ultra ——22.4W± OPPO Find X9 Ultra ——13.6W± IT之家附这几台手机简要介绍： iQOO 15 Ul…",
-          "detail": "IT之家 7 月 11 日消息，博主 @数码闲聊站 今日公布了各家 Ultra 超大杯手机目前激活量： iQOO 15 Ultra ——24.1W± Xiaomi 17 Ultra ——23.3W± vivo X300 Ultra ——22.4W± OPPO Find X9 Ultra ——13.6W± IT之家附这几台手机简要介绍： iQOO 15 Ul…",
-          "keyPoints": [
-            "爆料来源"
-          ],
-          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },

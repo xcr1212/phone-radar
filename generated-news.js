@@ -1,6 +1,26 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-07-12T03:56:06.344Z",
+  "updatedAt": "2026-07-12T06:47:03.578Z",
   "news": [
+    {
+      "id": "auto-9af53e082c42",
+      "title": "Upcoming Motorola Edge 70 Max has the largest battery ever on a Motorola phone",
+      "source": "Gizmochina",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-12",
+      "time": "05:11",
+      "publishedAt": "2026-07-12T05:11:12.000Z",
+      "url": "https://www.gizmochina.com/2026/07/12/motorola-edge-70-max-biggest-battery-charging-details/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/07/Motorola-Edge-70-Max-launch-date--300x293.png?x44794",
+      "summary": "The Motorola Edge 70 Fusion and Moto G06 Power currently hold the title of Motorola phones with the largest batteries, thanks to their 7,000mAh cells. That is about to change with…",
+      "tags": [
+        "行业",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "coolapk-user-0ffaa387b87e",
       "title": "竹本青：【iPhone 17系列 中国区最新销量曝光：近3712万台】 日前，博主「RD观测」发布第三方统计数据：截至20…",
@@ -299,26 +319,6 @@ window.phoneRadarAuto = {
         "Xiaomi",
         "爆料",
         "酷安博主"
-      ]
-    },
-    {
-      "id": "auto-d533f7b81b4a",
-      "title": "手机厂商 Ultra 超大杯机型激活量曝光：iQOO、小米、vivo 超 20 万台",
-      "source": "IT之家",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-11",
-      "time": "13:19",
-      "publishedAt": "2026-07-11T13:19:38.000Z",
-      "url": "https://www.ithome.com/0/975/592.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/7/03c58ed1-8ed7-4b28-bf9a-7d25045b87c5.jpg",
-      "summary": "IT之家 7 月 11 日消息，博主 @数码闲聊站 今日公布了各家 Ultra 超大杯手机目前激活量： iQOO 15 Ultra ——24.1W± Xiaomi 17 Ultra ——23.3W± vivo X300 Ultra ——22.4W± OPPO Find X9 Ultra ——13.6W± IT之家附这几台手机简要介绍： iQOO 15 Ul…",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "自动抓取"
       ]
     },
     {
