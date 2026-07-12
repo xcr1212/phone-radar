@@ -1,6 +1,66 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-07-12T10:00:35.084Z",
+  "updatedAt": "2026-07-12T11:30:26.294Z",
   "news": [
+    {
+      "id": "auto-a131e64ca56c",
+      "title": "HMD 旗下 2026 款诺基亚 102 4G 功能机曝光：面向国内市场，售价低于 159 元",
+      "source": "IT之家",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-12",
+      "time": "10:31",
+      "publishedAt": "2026-07-12T10:31:27.000Z",
+      "url": "https://www.ithome.com/0/975/785.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/7/3eab8148-00c6-4b6a-a612-55bfb77a3359.png",
+      "summary": "IT之家 7 月 12 日消息，消息源 smashx_60 现已曝光了 2026 款诺基亚 102 4G 手机，该机面向国内市场，被命名为“诺基亚 102 4G”而非“HMD 102 4G”，定价预计低于 159 元。 相对于 2025 款 HMD 102 4G ，新款机型调整了外观设计，提供深蓝 / 橙色两种配色可选，带回了经典的 Nokia Pure…",
+      "tags": [
+        "行业",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-cfb7232593d2",
+      "title": "诺基亚时代经典产品线命名回归：HMD Asha 305 入门手机完整规格及海报曝光",
+      "source": "IT之家",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-12",
+      "time": "10:21",
+      "publishedAt": "2026-07-12T10:21:26.000Z",
+      "url": "https://www.ithome.com/0/975/774.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/7/5190d4d4-dccc-4860-9049-0d8ad36cf740.png",
+      "summary": "IT之家 7 月 12 日消息，消息源 smashx_60 现已曝光了 HMD Asha 305 手机海报及完整参数信息，该机系 HMD 首款 Asha 机型，预计定位入门市场，在泰国起步价为 2390 泰铢（IT之家注：现汇率约合 487.4 元人民币）。 该机提供黑 / 绿双色，整体尺寸为 147x71.5x10.2mm，正面配备一块 5 英寸 854…",
+      "tags": [
+        "行业",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-a808c8267611",
+      "title": "消息称华为 Mate 80 Air 手机下半年发布，搭载麒麟 9030 系列芯片",
+      "source": "IT之家",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-12",
+      "time": "10:05",
+      "publishedAt": "2026-07-12T10:05:05.000Z",
+      "url": "https://www.ithome.com/0/975/766.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/7/625a9fdb-8827-461e-9d3f-cc48a74c22d3.jpg?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 7 月 12 日消息，博主 @智慧皮卡丘 今日透露，华为 Mate 80 Air 手机下半年发布，搭载麒麟 9030 系列芯片，支持红枫影像。 此外，新机依然开模 7 英寸四等深屏幕，不是直屏。 据IT之家此前报道， 华为 Mate 70 Air 手机于去年 11 月开售 ， 售价 4199 元起 ： 12GB + 256GB：售价 4199 元…",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-77955d46d1d4",
       "title": "Exposing the sneaky math behind your Android phone’s battery life claims in 2026",
@@ -54,7 +114,7 @@ window.phoneRadarAuto = {
       "publishedAt": "2026-07-12T08:17:11.000Z",
       "url": "https://www.ithome.com/0/975/748.htm",
       "image": "https://img.ithome.com/newsuploadfiles/2026/7/d946f828-2742-4d80-a813-ef8d339d346a.gif",
-      "summary": "IT之家 7 月 12 日消息，综合IT之家读者投稿并经IT之家验证，使用百度搜索引擎搜索“一加账号”“一加产品注册”此类关键词时，出现的前几个搜索结果“网站名称”处出现“一屎”字样，在 PC / 手机端无痕浏览下均出现相应搜索结果。 通常情况下，这种搜索结果应当是有黑灰产平台或是好事者利用第三方域名跳转“刷量”，然而点击 PC 端搜索结果“一屎”角标处“…",
+      "summary": "IT之家 7 月 12 日消息，综合IT之家读者投稿并经IT之家验证，使用百度搜索引擎搜索“一加账号”“一加产品注册”此类关键词时，出现的前几个搜索结果“网站名称”处出现“一屎”字样，在 PC / 手机端均出现相应搜索结果。 通常情况下，这种搜索结果应当是有黑灰产平台或是好事者利用第三方域名跳转“刷量”，然而点击 PC 端搜索结果“一屎”角标处“举报”页面…",
       "tags": [
         "OPPO",
         "爆料",
@@ -94,7 +154,7 @@ window.phoneRadarAuto = {
       "publishedAt": "2026-07-12T06:48:08.000Z",
       "url": "https://www.gizmochina.com/2026/07/12/xiaomi-17t-top-5-alternatives/",
       "image": "https://www.gizmochina.com/wp-content/uploads/2026/06/Xiaomi-17t-featured-300x170.png?x44794",
-      "summary": "This year, the smartphone market is filled with several competitive premium devices, and the Xiaomi 17T stands out as a strong photography focused flagship. Available in two main…",
+      "summary": "This year, the smartphone market is filled with several competitive premium devices, and the Xiaomi 17T stands out as a strong photography-focused flagship. Available in two main…",
       "tags": [
         "Xiaomi",
         "爆料",
@@ -179,126 +239,6 @@ window.phoneRadarAuto = {
         "iPhone",
         "官方",
         "自动抓取"
-      ]
-    },
-    {
-      "id": "newsnow-e9f91823bcf9",
-      "title": "我的出行好伙伴，用 iPhone 一站式解决旅途痛点",
-      "source": "少数派热榜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "评测",
-      "trust": "媒体汇总",
-      "date": "2026-07-12",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://sspai.com/post/112044",
-      "image": "",
-      "summary": "我的出行好伙伴，用 iPhone 一站式解决旅途痛点",
-      "tags": [
-        "iPhone",
-        "评测",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-429f1931f6d1",
-      "title": "iPhone Air 当主力机用了三个多月后，我为什么还是换不掉它",
-      "source": "少数派热榜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "评测",
-      "trust": "媒体汇总",
-      "date": "2026-07-12",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://sspai.com/post/111113",
-      "image": "",
-      "summary": "iPhone Air 当主力机用了三个多月后，我为什么还是换不掉它",
-      "tags": [
-        "iPhone",
-        "评测",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-520b8018951f",
-      "title": "快捷指令｜让 iPhone 用上锤子的「大爆炸」",
-      "source": "少数派热榜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "评测",
-      "trust": "媒体汇总",
-      "date": "2026-07-12",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://sspai.com/post/111405",
-      "image": "",
-      "summary": "快捷指令｜让 iPhone 用上锤子的「大爆炸」",
-      "tags": [
-        "iPhone",
-        "评测",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-b5526d472f74",
-      "title": "iOS 剪贴板管理工具 Procut：换个方式收藏碎片化信息",
-      "source": "少数派热榜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "评测",
-      "trust": "媒体汇总",
-      "date": "2026-07-12",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://sspai.com/post/110950",
-      "image": "",
-      "summary": "iOS 剪贴板管理工具 Procut：换个方式收藏碎片化信息",
-      "tags": [
-        "iPhone",
-        "评测",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-4ec4de5828ea",
-      "title": "我所有的手机里，只有iPhone的屏幕是我只要看一会儿，再去看别的地方，就会模糊，然后需要很久才会恢复，iPhone17pro如此，iPhone16pro亦如此，发完这条，我感觉眼睛已经难受的不行了，可能我真适应不了iPhone这块屏幕吧。",
-      "source": "酷安热榜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-07-12",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72741085",
-      "image": "",
-      "summary": "我所有的手机里，只有iPhone的屏幕是我只要看一会儿，再去看别的地方，就会模糊，然后需要很久才会恢复，iPhone17pro如此，iPhone16pro亦如此，发完这条，我感觉眼睛已经难受的不行了，可能我真适应不了iPhone这块屏幕吧。",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-1ae63c8bb46a",
-      "title": "#酷安夜话# 集帅们我终于存了30万，为什么还没解锁V1黑卡，女朋友还嫌弃我挣得少，我觉得我已经很厉害了#初恋这件小事# #iPhone17ProMax#",
-      "source": "酷安热榜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-07-12",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72724088",
-      "image": "",
-      "summary": "#酷安夜话# 集帅们我终于存了30万，为什么还没解锁V1黑卡，女朋友还嫌弃我挣得少，我觉得我已经很厉害了#初恋这件小事# #iPhone17ProMax#",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "NewsNow"
       ]
     },
     {
