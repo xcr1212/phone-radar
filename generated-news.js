@@ -1,6 +1,66 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-07-12T17:16:26.532Z",
+  "updatedAt": "2026-07-12T19:30:20.487Z",
   "news": [
+    {
+      "id": "auto-55cb65d8f6db",
+      "title": "Oppo Reno 16 Review: A Compact Camera Phone That Gets Almost Everything Right",
+      "source": "Gizmochina",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-12",
+      "time": "19:26",
+      "publishedAt": "2026-07-12T19:26:03.000Z",
+      "url": "https://www.gizmochina.com/2026/07/12/oppo-reno-16-review/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/07/Oppo-Reno-16-2--300x269.jpg?x44794",
+      "summary": "Compact smartphones have become increasingly rare, especially in the mid-premium segment. Most brands have shifted towards larger displays, leaving users who prefer one-handed dev…",
+      "tags": [
+        "OPPO",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-8b65d6f2eec4",
+      "title": "Pixel 11 Pro Fold in ‘Pine’ leaks & could Pixel Glow just be the camera flash?",
+      "source": "9to5Google",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-12",
+      "time": "18:09",
+      "publishedAt": "2026-07-12T18:09:17.000Z",
+      "url": "https://9to5google.com/2026/07/12/pixel-11-pro-pine-color-leak/",
+      "image": "",
+      "summary": "With the launch event one month away , Pixel 11 leaks are picking up, and we now have a look at the “Pine” color for the 11 Pro Fold.",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-e805138824f3",
+      "title": "The Tensor G6 isn't a downgrade at all; it's Google admitting what really matters",
+      "source": "Android Police",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-12",
+      "time": "17:30",
+      "publishedAt": "2026-07-12T17:30:10.000Z",
+      "url": "https://www.androidpolice.com/tensor-g6-downgrade-is-smart/",
+      "image": "",
+      "summary": "Google ditched the CPU core race and the Pixel 11 is better for it",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-cee32c484a90",
       "title": "The problems with Google Pixel price hikes",
@@ -31,7 +91,7 @@ window.phoneRadarAuto = {
       "trust": "媒体汇总",
       "date": "2026-07-12",
       "time": "16:11",
-      "publishedAt": "2026-07-12T16:11:31.000Z",
+      "publishedAt": "2026-07-12T16:11:18.000Z",
       "url": "https://www.macrumors.com/2026/07/12/apple-stores-to-expand-tap-to-pay-on-iphone/",
       "image": "https://images.macrumors.com/article-new/2023/03/Tap-to-Pay-on-iPhone-Wix.jpeg",
       "summary": "In 2022, Apple began rolling out Tap to Pay on iPhone , a system that allows small business owners and other merchants to accept contactless payments on an iPhone, with no point-o…",
@@ -319,86 +379,6 @@ window.phoneRadarAuto = {
         "iPhone",
         "官方",
         "自动抓取"
-      ]
-    },
-    {
-      "id": "newsnow-e9f91823bcf9",
-      "title": "我的出行好伙伴，用 iPhone 一站式解决旅途痛点",
-      "source": "少数派热榜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "评测",
-      "trust": "媒体汇总",
-      "date": "2026-07-12",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://sspai.com/post/112044",
-      "image": "",
-      "summary": "我的出行好伙伴，用 iPhone 一站式解决旅途痛点",
-      "tags": [
-        "iPhone",
-        "评测",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-429f1931f6d1",
-      "title": "iPhone Air 当主力机用了三个多月后，我为什么还是换不掉它",
-      "source": "少数派热榜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "评测",
-      "trust": "媒体汇总",
-      "date": "2026-07-12",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://sspai.com/post/111113",
-      "image": "",
-      "summary": "iPhone Air 当主力机用了三个多月后，我为什么还是换不掉它",
-      "tags": [
-        "iPhone",
-        "评测",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-520b8018951f",
-      "title": "快捷指令｜让 iPhone 用上锤子的「大爆炸」",
-      "source": "少数派热榜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "评测",
-      "trust": "媒体汇总",
-      "date": "2026-07-12",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://sspai.com/post/111405",
-      "image": "",
-      "summary": "快捷指令｜让 iPhone 用上锤子的「大爆炸」",
-      "tags": [
-        "iPhone",
-        "评测",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-b5526d472f74",
-      "title": "iOS 剪贴板管理工具 Procut：换个方式收藏碎片化信息",
-      "source": "少数派热榜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "评测",
-      "trust": "媒体汇总",
-      "date": "2026-07-12",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://sspai.com/post/110950",
-      "image": "",
-      "summary": "iOS 剪贴板管理工具 Procut：换个方式收藏碎片化信息",
-      "tags": [
-        "iPhone",
-        "评测",
-        "NewsNow"
       ]
     },
     {
