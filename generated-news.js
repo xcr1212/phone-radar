@@ -1,6 +1,46 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-07-12T15:15:23.454Z",
+  "updatedAt": "2026-07-12T17:16:26.532Z",
   "news": [
+    {
+      "id": "auto-cee32c484a90",
+      "title": "The problems with Google Pixel price hikes",
+      "source": "9to5Google",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-12",
+      "time": "16:15",
+      "publishedAt": "2026-07-12T16:15:00.000Z",
+      "url": "https://9to5google.com/2026/07/12/google-pixel-price-hike-problems/",
+      "image": "",
+      "summary": "Like everything else in the tech industry, Google’s Pixel 11 series appears to be getting a price hike, but there are a few factors that make this one a bit harder to accept. This…",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-02ddd0f70f91",
+      "title": "Apple Stores to Expand Use of 'Tap to Pay on iPhone'",
+      "source": "MacRumors",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-12",
+      "time": "16:11",
+      "publishedAt": "2026-07-12T16:11:31.000Z",
+      "url": "https://www.macrumors.com/2026/07/12/apple-stores-to-expand-tap-to-pay-on-iphone/",
+      "image": "https://images.macrumors.com/article-new/2023/03/Tap-to-Pay-on-iPhone-Wix.jpeg",
+      "summary": "In 2022, Apple began rolling out Tap to Pay on iPhone , a system that allows small business owners and other merchants to accept contactless payments on an iPhone, with no point-o…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-c776eb3bec26",
       "title": "Redmi 17C 5G leak confirms it’s basically a rebadged Redmi 15C 5G",
@@ -375,6 +415,26 @@ window.phoneRadarAuto = {
       "url": "https://www.coolapk.com/feed/72741085",
       "image": "",
       "summary": "我所有的手机里，只有iPhone的屏幕是我只要看一会儿，再去看别的地方，就会模糊，然后需要很久才会恢复，iPhone17pro如此，iPhone16pro亦如此，发完这条，我感觉眼睛已经难受的不行了，可能我真适应不了iPhone这块屏幕吧。",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-1ae63c8bb46a",
+      "title": "#酷安夜话# 集帅们我终于存了30万，为什么还没解锁V1黑卡，女朋友还嫌弃我挣得少，我觉得我已经很厉害了#初恋这件小事# #iPhone17ProMax#",
+      "source": "酷安热榜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-07-12",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/72724088",
+      "image": "",
+      "summary": "#酷安夜话# 集帅们我终于存了30万，为什么还没解锁V1黑卡，女朋友还嫌弃我挣得少，我觉得我已经很厉害了#初恋这件小事# #iPhone17ProMax#",
       "tags": [
         "iPhone",
         "爆料",

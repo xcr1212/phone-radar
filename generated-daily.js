@@ -1,12 +1,12 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-07-12T15:15:23.454Z",
+  "updatedAt": "2026-07-12T17:16:26.532Z",
   "issueDate": "2026-07-12",
   "issue": "VOL.260712",
   "title": "手机情报日报",
-  "intro": "今日筛出 18 条重点，其中 8 条是重点爆料，包含 7 条 iPhone 相关、1 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 18 条重点，其中 8 条是重点爆料，包含 8 条 iPhone 相关、1 条官方确认、0 条参数线索。",
   "stats": {
     "total": 18,
-    "iphone": 7,
+    "iphone": 8,
     "leaks": 8,
     "official": 1,
     "specs": 0
@@ -35,6 +35,29 @@ window.phoneRadarDaily = {
           "detail": "我所有的手机里，只有iPhone的屏幕是我只要看一会儿，再去看别的地方，就会模糊，然后需要很久才会恢复，iPhone17pro如此，iPhone16pro亦如此，发完这条，我感觉眼睛已经难受的不行了，可能我真适应不了iPhone这块屏幕吧。",
           "keyPoints": [
             "屏幕形态"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "auto-02ddd0f70f91",
+          "title": "iPhone 功能更新或覆盖范围扩大",
+          "originalTitle": "",
+          "source": "MacRumors",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-07-12",
+          "time": "16:11",
+          "publishedAt": "2026-07-12T16:11:31.000Z",
+          "url": "https://www.macrumors.com/2026/07/12/apple-stores-to-expand-tap-to-pay-on-iphone/",
+          "image": "https://images.macrumors.com/article-new/2023/03/Tap-to-Pay-on-iPhone-Wix.jpeg",
+          "verdict": "先看",
+          "takeaway": "iPhone 功能更新或覆盖范围扩大。已转成中文摘要展示，详细内容可打开原文核对。",
+          "detail": "iPhone 功能更新或覆盖范围扩大。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
+          "keyPoints": [
+            "爆料"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
@@ -183,29 +206,6 @@ window.phoneRadarDaily = {
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "auto-058338d8078a",
-          "title": "Xiaomi 发布 / 上市相关消息",
-          "originalTitle": "",
-          "source": "Gizmochina",
-          "brand": "Xiaomi",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-07-12",
-          "time": "02:59",
-          "publishedAt": "2026-07-12T02:59:24.000Z",
-          "url": "https://www.gizmochina.com/2026/07/12/redmi-note-17-and-note-17-pro-full-specs-leak-days-before-launch/",
-          "image": "https://www.gizmochina.com/wp-content/uploads/2026/07/Redmi-Note-17-series-first-look-192x300.jpg?x44794",
-          "verdict": "先看",
-          "takeaway": "Xiaomi 有发布或新功能消息，适合确认是否和新机有关。",
-          "detail": "Xiaomi 发布 / 上市相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
-          "keyPoints": [
-            "爆料来源"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         }
       ]
     },
@@ -214,6 +214,29 @@ window.phoneRadarDaily = {
       "title": "iPhone 重点",
       "hint": "不是硬件爆料，但和 iPhone 体验或路线有关。",
       "items": [
+        {
+          "id": "newsnow-1ae63c8bb46a",
+          "title": "#酷安夜话# 集帅们我终于存了30万，为什么还没解锁V1黑卡，女朋友还嫌弃我挣得少，我觉得我已经很厉害了#初恋这件小事# #iPhone17ProMax#",
+          "originalTitle": "",
+          "source": "酷安热榜",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "高关注爆料源",
+          "date": "2026-07-12",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://www.coolapk.com/feed/72724088",
+          "image": "",
+          "verdict": "先看",
+          "takeaway": "#酷安夜话# 集帅们我终于存了30万，为什么还没解锁V1黑卡，女朋友还嫌弃我挣得少，我觉得我已经很厉害了#初恋这件小事# #iPhone17ProMax#",
+          "detail": "#酷安夜话# 集帅们我终于存了30万，为什么还没解锁V1黑卡，女朋友还嫌弃我挣得少，我觉得我已经很厉害了#初恋这件小事# #iPhone17ProMax#",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        },
         {
           "id": "coolapk-user-0ffaa387b87e",
           "title": "竹本青：【iPhone 17系列 中国区最新销量曝光：近3712万台】 日前，博主「RD观测」发布第三方统计数据：截至20…",
@@ -322,29 +345,6 @@ window.phoneRadarDaily = {
           "verdict": "扫一眼",
           "takeaway": "快捷指令｜让 iPhone 用上锤子的「大爆炸」",
           "detail": "快捷指令｜让 iPhone 用上锤子的「大爆炸」",
-          "keyPoints": [
-            "评测"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是实际体验内容，买前适合重点看缺点和取舍。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
-        {
-          "id": "newsnow-b5526d472f74",
-          "title": "iOS 剪贴板管理工具 Procut：换个方式收藏碎片化信息",
-          "originalTitle": "",
-          "source": "少数派热榜",
-          "brand": "iPhone",
-          "type": "评测",
-          "trust": "媒体汇总",
-          "date": "2026-07-12",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://sspai.com/post/110950",
-          "image": "",
-          "verdict": "扫一眼",
-          "takeaway": "iOS 剪贴板管理工具 Procut：换个方式收藏碎片化信息",
-          "detail": "iOS 剪贴板管理工具 Procut：换个方式收藏碎片化信息",
           "keyPoints": [
             "评测"
           ],
