@@ -1,12 +1,12 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-07-13T03:58:30.717Z",
+  "updatedAt": "2026-07-13T07:36:11.762Z",
   "issueDate": "2026-07-13",
   "issue": "VOL.260713",
   "title": "手机情报日报",
-  "intro": "今日筛出 15 条重点，其中 8 条是重点爆料，包含 8 条 iPhone 相关、1 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 11 条重点，其中 8 条是重点爆料，包含 4 条 iPhone 相关、1 条官方确认、0 条参数线索。",
   "stats": {
-    "total": 15,
-    "iphone": 8,
+    "total": 11,
+    "iphone": 4,
     "leaks": 8,
     "official": 1,
     "specs": 0
@@ -41,31 +41,6 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
-          "id": "auto-fb87f01963a9",
-          "title": "谷歌 Pixel 11 Pro Fold 折叠屏手机“松木色”渲染图曝光",
-          "originalTitle": "",
-          "source": "IT之家",
-          "brand": "Pixel",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-07-13",
-          "time": "00:05",
-          "publishedAt": "2026-07-13T00:05:47.000Z",
-          "url": "https://www.ithome.com/0/975/851.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/7/6e9abf7f-8c2e-45d7-9b01-e2c5284268d2.png?x-bce-process=image/format,f_auto",
-          "verdict": "先看",
-          "takeaway": "IT之家 7 月 13 日消息，消息源 Mystic Leaks 昨日发文，展示谷歌 Pixel 11 Pro Fold 折叠屏手机的“松木色”（Pine）渲染图。 ▲ Pixel 11 Pro Fold 从渲染图可以看出，这款手机的配色是一种低饱和度的灰绿色，乍一看几乎与翡翠色（IT之家注：Jade）的 Pixel 10 Pro Fold 没什么不同。…",
-          "detail": "IT之家 7 月 13 日消息，消息源 Mystic Leaks 昨日发文，展示谷歌 Pixel 11 Pro Fold 折叠屏手机的“松木色”（Pine）渲染图。 ▲ Pixel 11 Pro Fold 从渲染图可以看出，这款手机的配色是一种低饱和度的灰绿色，乍一看几乎与翡翠色（IT之家注：Jade）的 Pixel 10 Pro Fold 没什么不同。…",
-          "keyPoints": [
-            "外观 / 配色 / 尺寸",
-            "屏幕形态",
-            "爆料来源"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
           "id": "auto-02ddd0f70f91",
           "title": "iPhone 功能更新或覆盖范围扩大",
           "originalTitle": "",
@@ -89,47 +64,69 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
-          "id": "auto-783b87419243",
-          "title": "曝某厂子系骁龙 8 Elite Gen 6 Pro 工程机测试 1115 系高规格对称双扬，预计为 iQOO 16",
-          "originalTitle": "",
-          "source": "IT之家",
-          "brand": "vivo",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-07-13",
-          "time": "01:47",
-          "publishedAt": "2026-07-13T01:47:38.000Z",
-          "url": "https://www.ithome.com/0/975/878.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/7/15098004-77c3-4c32-ac7e-53defa3bb8f7.jpg?x-bce-process=image/format,f_auto",
-          "verdict": "先看",
-          "takeaway": "IT之家 7 月 13 日消息，博主 @数码闲聊站 今天在微博透露，某厂子系骁龙 8 Elite Gen 6 Pro 工程机正在测试 1115 系高规格对称双扬声器。 据介绍，这款手机的 X 轴线性马达是 0916 系列，拥有独显芯片、3D 超声波指纹、IP68/IP69 防尘防水、USB 3.2 和 AR 膜等配置，主摄测试 OV50Q 传感器。 后续有…",
-          "detail": "IT之家 7 月 13 日消息，博主 @数码闲聊站 今天在微博透露，某厂子系骁龙 8 Elite Gen 6 Pro 工程机正在测试 1115 系高规格对称双扬声器。 据介绍，这款手机的 X 轴线性马达是 0916 系列，拥有独显芯片、3D 超声波指纹、IP68/IP69 防尘防水、USB 3.2 和 AR 膜等配置，主摄测试 OV50Q 传感器。 后续有…",
-          "keyPoints": [
-            "芯片 / 性能",
-            "爆料来源"
-          ],
-          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "auto-5bb936d6587d",
-          "title": "几乎无折痕，三星 Galaxy Z Fold 8 Ultra 折叠屏手机实拍视频流出",
+          "id": "auto-7476c76d274c",
+          "title": "消息称三星 Galaxy Z TriFold 2 三折叠手机将延后上市，筹备多年的卷轴屏手机有望提前推出",
           "originalTitle": "",
           "source": "IT之家",
           "brand": "Samsung",
           "type": "爆料",
           "trust": "媒体汇总",
-          "date": "2026-07-12",
-          "time": "23:35",
-          "publishedAt": "2026-07-12T23:35:54.000Z",
-          "url": "https://www.ithome.com/0/975/844.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/7/3d2b8b42-9872-46fa-81e6-a07994b862f5.jpg",
+          "date": "2026-07-13",
+          "time": "07:19",
+          "publishedAt": "2026-07-13T07:19:20.000Z",
+          "url": "https://www.ithome.com/0/976/015.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/7/f1f012cb-fea0-443d-8de0-7808f756db61.jpg?x-bce-process=image/format,f_auto",
           "verdict": "先看",
-          "takeaway": "IT之家 7 月 13 日消息，据博主 @刹那数码 昨日发文，三星 Galaxy Z Fold 8 Ultra 折叠屏手机的实拍视频已在互联网流出。视频中的设备疑似来自工厂，不仅多角度展示开机画面，还首次揭露了该机的折痕表现。 从视频中我们可以看到，这台手机内屏的折痕确实非常细微、肉眼几乎不可看到。不过从某些特定角度观察的话，屏幕中央仍能看到轻微的凹陷。但…",
-          "detail": "IT之家 7 月 13 日消息，据博主 @刹那数码 昨日发文，三星 Galaxy Z Fold 8 Ultra 折叠屏手机的实拍视频已在互联网流出。视频中的设备疑似来自工厂，不仅多角度展示开机画面，还首次揭露了该机的折痕表现。 从视频中我们可以看到，这台手机内屏的折痕确实非常细微、肉眼几乎不可看到。不过从某些特定角度观察的话，屏幕中央仍能看到轻微的凹陷。但…",
+          "takeaway": "IT之家 7 月 13 日消息，消息源 yeux1122 发文，透露 三星 Galaxy Z TriFold 2 三折叠手机将延后上市，而筹备多年的卷轴屏手机则有望提前推出。 在三星 Galaxy Z TriFold 2 方面，目前三星正在重新设计该机铰链系统，能够让几乎所有铰链组件保持相近厚度，以进一步降低整机厚度和重量。 作为参考，现款 Galaxy…",
+          "detail": "IT之家 7 月 13 日消息，消息源 yeux1122 发文，透露 三星 Galaxy Z TriFold 2 三折叠手机将延后上市，而筹备多年的卷轴屏手机则有望提前推出。 在三星 Galaxy Z TriFold 2 方面，目前三星正在重新设计该机铰链系统，能够让几乎所有铰链组件保持相近厚度，以进一步降低整机厚度和重量。 作为参考，现款 Galaxy…",
           "keyPoints": [
-            "屏幕形态"
+            "爆料来源"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "auto-e455d208e6fc",
+          "title": "同级首发液气混合散热：努比亚发布 Neo 5 GT Special Edition 智能手机",
+          "originalTitle": "",
+          "source": "IT之家",
+          "brand": "行业",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-07-13",
+          "time": "07:26",
+          "publishedAt": "2026-07-13T07:26:15.000Z",
+          "url": "https://www.ithome.com/0/976/022.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/7/c1a2ace4-91b8-403e-b0f5-e99fbb1490fd.jpg",
+          "verdict": "先看",
+          "takeaway": "IT之家 7 月 13 日消息，努比亚 (nubia) 本月 8 日发布 Neo 5 GT Special Edition 智能手机。这一款式号称 同级首发液冷 + 风冷混合散热 ， 拥有同级唯一纯平背部设计 。 努比亚 Neo 5 GT Special Edition 基于联发科天玑 7400 芯片 ，存储器配置为 12GB + 256GB / 12GB…",
+          "detail": "IT之家 7 月 13 日消息，努比亚 (nubia) 本月 8 日发布 Neo 5 GT Special Edition 智能手机。这一款式号称 同级首发液冷 + 风冷混合散热 ， 拥有同级唯一纯平背部设计 。 努比亚 Neo 5 GT Special Edition 基于联发科天玑 7400 芯片 ，存储器配置为 12GB + 256GB / 12GB…",
+          "keyPoints": [
+            "芯片 / 性能"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "auto-950aa940c168",
+          "title": "消息称微软 Win11 系统“手机连接”应用将迎大升级，体验更加无缝",
+          "originalTitle": "",
+          "source": "IT之家",
+          "brand": "行业",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-07-13",
+          "time": "06:13",
+          "publishedAt": "2026-07-13T06:13:35.000Z",
+          "url": "https://www.ithome.com/0/975/973.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/7/df57842a-0143-4704-aafe-83b61065caca.png?x-bce-process=image/format,f_auto",
+          "verdict": "先看",
+          "takeaway": "IT之家 7 月 13 日消息，据科技媒体 Windows Central 今日援引知情人士消息，微软正在为 Win11 系统改进“手机连接”（IT之家注：PhoneLink）应用，让用户的手机成为系统中更自然的一部分。 据熟悉相关计划的消息人士透露，微软正在改进“手机连接”应用的集成方式，使其体验更加无缝，而不是独立应用。 据介绍，开始菜单的手机助手将会…",
+          "detail": "IT之家 7 月 13 日消息，据科技媒体 Windows Central 今日援引知情人士消息，微软正在为 Win11 系统改进“手机连接”（IT之家注：PhoneLink）应用，让用户的手机成为系统中更自然的一部分。 据熟悉相关计划的消息人士透露，微软正在改进“手机连接”应用的集成方式，使其体验更加无缝，而不是独立应用。 据介绍，开始菜单的手机助手将会…",
+          "keyPoints": [
+            "爆料来源"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
@@ -149,8 +146,8 @@ window.phoneRadarDaily = {
           "url": "https://www.coolapk.com/feed/72761443",
           "image": "http://image.coolapk.com/feed/2026/0713/10/4702274_2fd934c1_1161_8733_673@1440x574.jpg",
           "verdict": "先看",
-          "takeaway": "『OPPO Find X10 Pro Max 或落地 3×200Mp』 知名数码博主 数码闲聊站 发博表示，其此前曾曝光的 3×200Mp 影像方案目前仍存在于 OPPO Find X10 Pro Max 工程机中，并称该方案有概率于 9-10 月同调整过的其他杯型一起登场。 据悉，该方案具体细节如下： 主摄：200Mp 1/1.3\"± HPC 超广：20…",
-          "detail": "『OPPO Find X10 Pro Max 或落地 3×200Mp』 知名数码博主 数码闲聊站 发博表示，其此前曾曝光的 3×200Mp 影像方案目前仍存在于 OPPO Find X10 Pro Max 工程机中，并称该方案有概率于 9-10 月同调整过的其他杯型一起登场。 据悉，该方案具体细节如下： 主摄：200Mp 1/1.3\"± HPC 超广：20…",
+          "takeaway": "『OPPO Find X10 Pro Max 或落地 3×200Mp』 知名数码博主 数码闲聊站 发博透露，OPPO Find X10 Pro Max 工程机当前仍保留其此前曝光的 3×200Mp 影像方案。并表示该方案有望随其他杯型的调整版本于 9-10 月一同亮相。 据悉，该方案具体细节如下： ◇ 200Mp 1/1.3\"± HPC 主摄 ◇ 200M…",
+          "detail": "『OPPO Find X10 Pro Max 或落地 3×200Mp』 知名数码博主 数码闲聊站 发博透露，OPPO Find X10 Pro Max 工程机当前仍保留其此前曝光的 3×200Mp 影像方案。并表示该方案有望随其他杯型的调整版本于 9-10 月一同亮相。 据悉，该方案具体细节如下： ◇ 200Mp 1/1.3\"± HPC 主摄 ◇ 200M…",
           "keyPoints": [
             "影像硬件",
             "爆料来源"
@@ -214,8 +211,8 @@ window.phoneRadarDaily = {
       "hint": "不是硬件爆料，但和 iPhone 体验或路线有关。",
       "items": [
         {
-          "id": "newsnow-28e2da7ff4b8",
-          "title": "#酷安夜话# 集帅们我终于存了30万，为什么还没解锁V1黑卡，女朋友还嫌弃我挣得少，我觉得我已经很厉害了#初恋这件小事# #iPhone17ProMax#",
+          "id": "newsnow-dbd9e02e8acb",
+          "title": "女朋友的眼光我实在不敢恭维[真正的音乐]我说了贼丑，非要买，还说好看/流行，说别人都觉得好看（ps：估计是小某书的人）有没有裤友来点评或者分享一下自己的手机壳，真是我眼光问题？[doge笑哭][doge笑哭] #iPhone17#",
           "originalTitle": "",
           "source": "酷安热榜",
           "brand": "iPhone",
@@ -224,11 +221,11 @@ window.phoneRadarDaily = {
           "date": "2026-07-13",
           "time": "",
           "publishedAt": "",
-          "url": "https://www.coolapk.com/feed/72724088",
+          "url": "https://www.coolapk.com/feed/72757666",
           "image": "",
           "verdict": "先看",
-          "takeaway": "#酷安夜话# 集帅们我终于存了30万，为什么还没解锁V1黑卡，女朋友还嫌弃我挣得少，我觉得我已经很厉害了#初恋这件小事# #iPhone17ProMax#",
-          "detail": "#酷安夜话# 集帅们我终于存了30万，为什么还没解锁V1黑卡，女朋友还嫌弃我挣得少，我觉得我已经很厉害了#初恋这件小事# #iPhone17ProMax#",
+          "takeaway": "女朋友的眼光我实在不敢恭维[真正的音乐]我说了贼丑，非要买，还说好看/流行，说别人都觉得好看（ps：估计是小某书的人）有没有裤友来点评或者分享一下自己的手机壳，真是我眼光问题？[doge笑哭][doge笑哭] #iPhone17#",
+          "detail": "女朋友的眼光我实在不敢恭维[真正的音乐]我说了贼丑，非要买，还说好看/流行，说别人都觉得好看（ps：估计是小某书的人）有没有裤友来点评或者分享一下自己的手机壳，真是我眼光问题？[doge笑哭][doge笑哭] #iPhone17#",
           "keyPoints": [
             "爆料"
           ],
@@ -257,98 +254,6 @@ window.phoneRadarDaily = {
           ],
           "confidence": "官方内容，可直接作为已确认信息记录。",
           "impact": "可信度高，但如果不是配置/价格消息，只需要扫一眼。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
-        {
-          "id": "newsnow-c8cc226c8fce",
-          "title": "我的出行好伙伴，用 iPhone 一站式解决旅途痛点",
-          "originalTitle": "",
-          "source": "少数派热榜",
-          "brand": "iPhone",
-          "type": "评测",
-          "trust": "媒体汇总",
-          "date": "2026-07-13",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://sspai.com/post/112044",
-          "image": "",
-          "verdict": "扫一眼",
-          "takeaway": "我的出行好伙伴，用 iPhone 一站式解决旅途痛点",
-          "detail": "我的出行好伙伴，用 iPhone 一站式解决旅途痛点",
-          "keyPoints": [
-            "评测"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是实际体验内容，买前适合重点看缺点和取舍。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
-        {
-          "id": "newsnow-5bf4f450e001",
-          "title": "iPhone Air 当主力机用了三个多月后，我为什么还是换不掉它",
-          "originalTitle": "",
-          "source": "少数派热榜",
-          "brand": "iPhone",
-          "type": "评测",
-          "trust": "媒体汇总",
-          "date": "2026-07-13",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://sspai.com/post/111113",
-          "image": "",
-          "verdict": "扫一眼",
-          "takeaway": "iPhone Air 当主力机用了三个多月后，我为什么还是换不掉它",
-          "detail": "iPhone Air 当主力机用了三个多月后，我为什么还是换不掉它",
-          "keyPoints": [
-            "评测"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是实际体验内容，买前适合重点看缺点和取舍。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
-        {
-          "id": "newsnow-293354b5e6bc",
-          "title": "快捷指令｜让 iPhone 用上锤子的「大爆炸」",
-          "originalTitle": "",
-          "source": "少数派热榜",
-          "brand": "iPhone",
-          "type": "评测",
-          "trust": "媒体汇总",
-          "date": "2026-07-13",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://sspai.com/post/111405",
-          "image": "",
-          "verdict": "扫一眼",
-          "takeaway": "快捷指令｜让 iPhone 用上锤子的「大爆炸」",
-          "detail": "快捷指令｜让 iPhone 用上锤子的「大爆炸」",
-          "keyPoints": [
-            "评测"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是实际体验内容，买前适合重点看缺点和取舍。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
-        {
-          "id": "newsnow-3c2795e29bb3",
-          "title": "iOS 剪贴板管理工具 Procut：换个方式收藏碎片化信息",
-          "originalTitle": "",
-          "source": "少数派热榜",
-          "brand": "iPhone",
-          "type": "评测",
-          "trust": "媒体汇总",
-          "date": "2026-07-13",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://sspai.com/post/110950",
-          "image": "",
-          "verdict": "扫一眼",
-          "takeaway": "iOS 剪贴板管理工具 Procut：换个方式收藏碎片化信息",
-          "detail": "iOS 剪贴板管理工具 Procut：换个方式收藏碎片化信息",
-          "keyPoints": [
-            "评测"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是实际体验内容，买前适合重点看缺点和取舍。",
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         }
       ]

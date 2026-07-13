@@ -1,6 +1,286 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-07-13T03:58:30.717Z",
+  "updatedAt": "2026-07-13T07:36:11.762Z",
   "news": [
+    {
+      "id": "auto-e455d208e6fc",
+      "title": "同级首发液气混合散热：努比亚发布 Neo 5 GT Special Edition 智能手机",
+      "source": "IT之家",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-13",
+      "time": "07:26",
+      "publishedAt": "2026-07-13T07:26:15.000Z",
+      "url": "https://www.ithome.com/0/976/022.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/7/c1a2ace4-91b8-403e-b0f5-e99fbb1490fd.jpg",
+      "summary": "IT之家 7 月 13 日消息，努比亚 (nubia) 本月 8 日发布 Neo 5 GT Special Edition 智能手机。这一款式号称 同级首发液冷 + 风冷混合散热 ， 拥有同级唯一纯平背部设计 。 努比亚 Neo 5 GT Special Edition 基于联发科天玑 7400 芯片 ，存储器配置为 12GB + 256GB / 12GB…",
+      "tags": [
+        "行业",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-7476c76d274c",
+      "title": "消息称三星 Galaxy Z TriFold 2 三折叠手机将延后上市，筹备多年的卷轴屏手机有望提前推出",
+      "source": "IT之家",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-13",
+      "time": "07:19",
+      "publishedAt": "2026-07-13T07:19:20.000Z",
+      "url": "https://www.ithome.com/0/976/015.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/7/f1f012cb-fea0-443d-8de0-7808f756db61.jpg?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 7 月 13 日消息，消息源 yeux1122 发文，透露 三星 Galaxy Z TriFold 2 三折叠手机将延后上市，而筹备多年的卷轴屏手机则有望提前推出。 在三星 Galaxy Z TriFold 2 方面，目前三星正在重新设计该机铰链系统，能够让几乎所有铰链组件保持相近厚度，以进一步降低整机厚度和重量。 作为参考，现款 Galaxy…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-24f42602f2b7",
+      "title": "上半年我国批准上市创新医疗器械 42 个，包括多个“全球首款”",
+      "source": "IT之家",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-13",
+      "time": "07:14",
+      "publishedAt": "2026-07-13T07:14:35.000Z",
+      "url": "https://www.ithome.com/0/976/010.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/7/dd581785-a50f-4e51-83f9-0e26de9eb524.jpg",
+      "summary": "IT之家 7 月 13 日消息，据央视新闻今日报道，从国家药监局获悉，最新统计显示，今年上半年我国批准 38 个 1 类创新药上市。其中， 我国自主研发的新靶点、新机制创新药占比大幅提升 。 国家药监局药品注册管理司副司长蓝恭涛表示，截至 6 月底，国家药监局今年共批准药品上市注册申请 2318 件， 其中“全球新”创新药 38 个 ，包括 20 个化学药…",
+      "tags": [
+        "行业",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-0a9150a5140e",
+      "title": "Pixel 11 Pro Fold FCC filing hints at Google's biggest modem upgrade yet",
+      "source": "Android Central",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-07-13",
+      "time": "07:10",
+      "publishedAt": "2026-07-13T07:10:00.000Z",
+      "url": "https://www.androidcentral.com/phones/google-pixel/pixel-11-pro-fold-fcc-filing-hints-at-googles-biggest-modem-upgrade-yet",
+      "image": "https://cdn.mos.cms.futurecdn.net/DUT6J4S4JEieNFenDYADgR-1280-80.jpg",
+      "summary": "Google could finally ditch Samsung's terrible modems for a MediaTek upgrade in the Pixel 11 Pro Fold, giving us the reliable signal and all-day battery life we actually deserve.",
+      "tags": [
+        "Samsung",
+        "评测",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-91281b708cb5",
+      "title": "曝三星将时隔 3 年更新智能防丢器，Galaxy SmartTag3 有望随 S26 FE 登场",
+      "source": "IT之家",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-13",
+      "time": "06:50",
+      "publishedAt": "2026-07-13T06:50:24.000Z",
+      "url": "https://www.ithome.com/0/975/996.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/7/950099c3-07a8-46cb-8046-9cf36227e349.jpg?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 7 月 13 日消息，德媒 WinFuture 编辑 Roland Quandt 近日表示， 三星电子即将推出新一代智能防丢器 Galaxy SmartTag3 ，很有可能与 Galaxy S26 FE 智能手机一道发布。 IT之家注意到， 三星电子的上一款智能防丢器还是 2023 年 10 月发布的 Galaxy SmartTag2 。这款拥有…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-950aa940c168",
+      "title": "消息称微软 Win11 系统“手机连接”应用将迎大升级，体验更加无缝",
+      "source": "IT之家",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-13",
+      "time": "06:13",
+      "publishedAt": "2026-07-13T06:13:35.000Z",
+      "url": "https://www.ithome.com/0/975/973.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/7/df57842a-0143-4704-aafe-83b61065caca.png?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 7 月 13 日消息，据科技媒体 Windows Central 今日援引知情人士消息，微软正在为 Win11 系统改进“手机连接”（IT之家注：PhoneLink）应用，让用户的手机成为系统中更自然的一部分。 据熟悉相关计划的消息人士透露，微软正在改进“手机连接”应用的集成方式，使其体验更加无缝，而不是独立应用。 据介绍，开始菜单的手机助手将会…",
+      "tags": [
+        "行业",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-b5c20ab63987",
+      "title": "Google Pixel 11 Pro Fold leak reveals what’s different this year",
+      "source": "Android Police",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-13",
+      "time": "06:09",
+      "publishedAt": "2026-07-13T06:09:48.000Z",
+      "url": "https://www.androidpolice.com/google-pixel-11-pro-fold-leak-reveals-whats-different-this-year/",
+      "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2025/10/img_0390.jpg",
+      "summary": "A slightly redesigned camera island",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-9d949d78679b",
+      "title": "Redmi Note 17 5G Indian variant has its storage and colors leak",
+      "source": "Gizmochina",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-13",
+      "time": "05:43",
+      "publishedAt": "2026-07-13T05:43:08.000Z",
+      "url": "https://www.gizmochina.com/2026/07/13/redmi-note-17-5g-indian-variant-has-its-storage-and-colors-leak/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/07/Redmi-Note-17-puprle1-300x300.jpg?x44794",
+      "summary": "Xiaomi is preparing to launch the Redmi Note 17 5G in China, after which the phone will head to the global market, including India. New details about the phone’s Indian variant ha…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-64a42836a33d",
+      "title": "Oppo Find X10 Pro Max’s final production unit may feature triple 200MP cameras",
+      "source": "Gizmochina",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-13",
+      "time": "05:40",
+      "publishedAt": "2026-07-13T05:40:06.000Z",
+      "url": "https://www.gizmochina.com/2026/07/13/oppo-find-x10-pro-max-triple-200mp-camera-leak/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/01/Oppo-Find-X9-Pro-300x225.jpg?x44794",
+      "summary": "Oppo’s upcoming Find X10 lineup is expected to include three models: the Find X10, Find X10 Pro, and Find X10 Pro Max. Until the Find X10 Ultra arrives, which is expected to happe…",
+      "tags": [
+        "OPPO",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-fb42db2ec841",
+      "title": "Huawei Mate 80 Air could stick to curved screen instead of a flat one",
+      "source": "Huawei Central",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-13",
+      "time": "05:16",
+      "publishedAt": "2026-07-13T05:16:22.000Z",
+      "url": "https://www.huaweicentral.com/huawei-mate-80-air-could-stick-to-curved-screen/",
+      "image": "https://www.huaweicentral.com/wp-content/uploads/2026/07/Kirin-9030-series-img.jpg",
+      "summary": "Huawei Mate 80 Air is picking up pace in the leaks section for its key specs, and new information suggests that it will use a quad-curved panel instead of a flat screen. The surfa…",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-89860d105042",
+      "title": "Redmi Turbo 6 series with Dimensity 8 and 9 series chipsets, 10,000mAh battery in works",
+      "source": "Gizmochina",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-13",
+      "time": "05:03",
+      "publishedAt": "2026-07-13T05:03:34.000Z",
+      "url": "https://www.gizmochina.com/2026/07/13/redmi-turbo-6-series-dimensity-8-9-10000mah-battery-leak/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/01/Redmi-Turbo5-Max-display--300x175.jpg?x44794",
+      "summary": "Redmi is reportedly working on the Redmi Turbo 6 series. Just as the brand introduced the Redmi Turbo 5 and Turbo 5 Max earlier this year in China, the upcoming Turbo 6 lineup is…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-fa15d9fba739",
+      "title": "Motorola Edge 70 Max hands-on video, images appears ahead of launch",
+      "source": "Gizmochina",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-13",
+      "time": "04:45",
+      "publishedAt": "2026-07-13T04:45:31.000Z",
+      "url": "https://www.gizmochina.com/2026/07/13/motorola-edge-70-max-hands-on-video-design-leak/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/07/Motorola-Edge-70-max-hands-on-1-1-225x300.jpg?x44794",
+      "summary": "Motorola is all set to unveil the Motorola Edge 70 Max on July 15 in India. Its Flipkart microsite has already revealed several details about its specifications but hasn’t confirm…",
+      "tags": [
+        "行业",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-52f2e4fc0b13",
+      "title": "Google Pixel 11 Pro Fold leaks in fresh Pine shade",
+      "source": "Gizmochina",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-13",
+      "time": "04:35",
+      "publishedAt": "2026-07-13T04:35:26.000Z",
+      "url": "https://www.gizmochina.com/2026/07/13/google-pixel-11-pro-fold-leaks-in-fresh-pine-shade/",
+      "image": "https://s.w.org/images/core/emoji/13.1.0/72x72/1f4a1.png",
+      "summary": "A new leak is giving us an early look at another color option for the upcoming Google Pixel 11 Pro Fold. A source that goes by the alias Mystic Leaks on Telegram posted a render o…",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-68312b43f33b",
+      "title": "Google Pixel 11 Pro Fold vs. Pixel 10 Pro Fold: It's (almost) time to upgrade",
+      "source": "Android Central",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-07-13",
+      "time": "04:05",
+      "publishedAt": "2026-07-13T04:05:44.000Z",
+      "url": "https://www.androidcentral.com/phones/google-pixel/google-pixel-11-pro-fold-vs-pixel-10-pro-fold",
+      "image": "https://cdn.mos.cms.futurecdn.net/gGiHtxSwFKFQMnbitUu9z-1280-80.jpg",
+      "summary": "The Pixel 11 Pro Fold should bring considerable upgrades this year — if the latest leaks are anything to go by.",
+      "tags": [
+        "Pixel",
+        "评测",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-0e3edd7bd87d",
       "title": "Huawei teases Pura 90s Pro Max’s Orange Ocean gradient color",
@@ -114,7 +394,7 @@ window.phoneRadarAuto = {
       "publishedAt": "2026-07-13T02:52:43.000Z",
       "url": "https://www.coolapk.com/feed/72761443",
       "image": "http://image.coolapk.com/feed/2026/0713/10/4702274_2fd934c1_1161_8733_673@1440x574.jpg",
-      "summary": "『OPPO Find X10 Pro Max 或落地 3×200Mp』 知名数码博主 数码闲聊站 发博表示，其此前曾曝光的 3×200Mp 影像方案目前仍存在于 OPPO Find X10 Pro Max 工程机中，并称该方案有概率于 9-10 月同调整过的其他杯型一起登场。 据悉，该方案具体细节如下： 主摄：200Mp 1/1.3\"± HPC 超广：20…",
+      "summary": "『OPPO Find X10 Pro Max 或落地 3×200Mp』 知名数码博主 数码闲聊站 发博透露，OPPO Find X10 Pro Max 工程机当前仍保留其此前曝光的 3×200Mp 影像方案。并表示该方案有望随其他杯型的调整版本于 9-10 月一同亮相。 据悉，该方案具体细节如下： ◇ 200Mp 1/1.3\"± HPC 主摄 ◇ 200M…",
       "tags": [
         "OPPO",
         "爆料",
@@ -202,26 +482,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-783b87419243",
-      "title": "曝某厂子系骁龙 8 Elite Gen 6 Pro 工程机测试 1115 系高规格对称双扬，预计为 iQOO 16",
-      "source": "IT之家",
-      "brand": "vivo",
-      "model": "vivo 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-13",
-      "time": "01:47",
-      "publishedAt": "2026-07-13T01:47:38.000Z",
-      "url": "https://www.ithome.com/0/975/878.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/7/15098004-77c3-4c32-ac7e-53defa3bb8f7.jpg?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 7 月 13 日消息，博主 @数码闲聊站 今天在微博透露，某厂子系骁龙 8 Elite Gen 6 Pro 工程机正在测试 1115 系高规格对称双扬声器。 据介绍，这款手机的 X 轴线性马达是 0916 系列，拥有独显芯片、3D 超声波指纹、IP68/IP69 防尘防水、USB 3.2 和 AR 膜等配置，主摄测试 OV50Q 传感器。 后续有…",
-      "tags": [
-        "vivo",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "coolapk-user-9df639057ac6",
       "title": "竹本青：iQOO 16 外围曝光：1115系对称双扬，无散热风扇",
       "source": "竹本青",
@@ -259,46 +519,6 @@ window.phoneRadarAuto = {
         "行业",
         "爆料",
         "微博"
-      ]
-    },
-    {
-      "id": "auto-46f60ecb6945",
-      "title": "宏碁 Sospiro A15 手机海外发布：1.88 寸背屏、紫光展锐 T615 芯片",
-      "source": "IT之家",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-13",
-      "time": "00:47",
-      "publishedAt": "2026-07-13T00:47:39.000Z",
-      "url": "https://www.ithome.com/0/975/862.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/7/8a74b565-6ebd-4f8c-b96d-b4e9e8e80405.png?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 7 月 13 日消息，宏碁现已在拉美市场推出 Sospiro A15 智能手机，新品定位入门， 最大的亮点是配备了一块背屏 。 IT之家了解到，这款手机的背部搭载一块 1.88 英寸的 TFT 副屏，分辨率为 240*284，可用于显示通知、控制音乐播放，还能充当后摄像头的取景器。 规格方面，这款手机配备一块 6.67 英寸的 IPS LCD 面…",
-      "tags": [
-        "行业",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-fb87f01963a9",
-      "title": "谷歌 Pixel 11 Pro Fold 折叠屏手机“松木色”渲染图曝光",
-      "source": "IT之家",
-      "brand": "Pixel",
-      "model": "Pixel 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-13",
-      "time": "00:05",
-      "publishedAt": "2026-07-13T00:05:47.000Z",
-      "url": "https://www.ithome.com/0/975/851.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/7/6e9abf7f-8c2e-45d7-9b01-e2c5284268d2.png?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 7 月 13 日消息，消息源 Mystic Leaks 昨日发文，展示谷歌 Pixel 11 Pro Fold 折叠屏手机的“松木色”（Pine）渲染图。 ▲ Pixel 11 Pro Fold 从渲染图可以看出，这款手机的配色是一种低饱和度的灰绿色，乍一看几乎与翡翠色（IT之家注：Jade）的 Pixel 10 Pro Fold 没什么不同。…",
-      "tags": [
-        "Pixel",
-        "爆料",
-        "自动抓取"
       ]
     },
     {
@@ -422,8 +642,8 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-28e2da7ff4b8",
-      "title": "#酷安夜话# 集帅们我终于存了30万，为什么还没解锁V1黑卡，女朋友还嫌弃我挣得少，我觉得我已经很厉害了#初恋这件小事# #iPhone17ProMax#",
+      "id": "newsnow-dbd9e02e8acb",
+      "title": "女朋友的眼光我实在不敢恭维[真正的音乐]我说了贼丑，非要买，还说好看/流行，说别人都觉得好看（ps：估计是小某书的人）有没有裤友来点评或者分享一下自己的手机壳，真是我眼光问题？[doge笑哭][doge笑哭] #iPhone17#",
       "source": "酷安热榜",
       "brand": "iPhone",
       "model": "iPhone 相关机型",
@@ -432,9 +652,9 @@ window.phoneRadarAuto = {
       "date": "2026-07-13",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72724088",
+      "url": "https://www.coolapk.com/feed/72757666",
       "image": "",
-      "summary": "#酷安夜话# 集帅们我终于存了30万，为什么还没解锁V1黑卡，女朋友还嫌弃我挣得少，我觉得我已经很厉害了#初恋这件小事# #iPhone17ProMax#",
+      "summary": "女朋友的眼光我实在不敢恭维[真正的音乐]我说了贼丑，非要买，还说好看/流行，说别人都觉得好看（ps：估计是小某书的人）有没有裤友来点评或者分享一下自己的手机壳，真是我眼光问题？[doge笑哭][doge笑哭] #iPhone17#",
       "tags": [
         "iPhone",
         "爆料",
@@ -442,28 +662,28 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-5bb936d6587d",
-      "title": "几乎无折痕，三星 Galaxy Z Fold 8 Ultra 折叠屏手机实拍视频流出",
-      "source": "IT之家",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
+      "id": "newsnow-febd471f139a",
+      "title": "新能源车成「快消品」，平均车龄仅 1.8 年，年轻人为何把电车当手机一样换这么频繁？",
+      "source": "知乎热榜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "市场报告",
       "trust": "媒体汇总",
-      "date": "2026-07-12",
-      "time": "23:35",
-      "publishedAt": "2026-07-12T23:35:54.000Z",
-      "url": "https://www.ithome.com/0/975/844.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/7/3d2b8b42-9872-46fa-81e6-a07994b862f5.jpg",
-      "summary": "IT之家 7 月 13 日消息，据博主 @刹那数码 昨日发文，三星 Galaxy Z Fold 8 Ultra 折叠屏手机的实拍视频已在互联网流出。视频中的设备疑似来自工厂，不仅多角度展示开机画面，还首次揭露了该机的折痕表现。 从视频中我们可以看到，这台手机内屏的折痕确实非常细微、肉眼几乎不可看到。不过从某些特定角度观察的话，屏幕中央仍能看到轻微的凹陷。但…",
+      "date": "2026-07-13",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.zhihu.com/question/2059928907206472162",
+      "image": "",
+      "summary": "新能源车成「快消品」，平均车龄仅 1.8 年，年轻人为何把电车当手机一样换这么频繁？",
       "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
+        "行业",
+        "市场报告",
+        "NewsNow"
       ]
     },
     {
       "id": "auto-1f08e1d7c52d",
-      "title": "Galaxy S27 Ultra won’t have to compete with S27 Pro on cameras",
+      "title": "Galaxy S27 Pro camera specs reportedly downgraded to make room for the Ultra",
       "source": "Gizmochina",
       "brand": "Samsung",
       "model": "Samsung 相关机型",
