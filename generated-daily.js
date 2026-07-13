@@ -1,11 +1,11 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-07-13T07:36:11.762Z",
+  "updatedAt": "2026-07-13T11:28:01.499Z",
   "issueDate": "2026-07-13",
   "issue": "VOL.260713",
   "title": "手机情报日报",
-  "intro": "今日筛出 11 条重点，其中 8 条是重点爆料，包含 4 条 iPhone 相关、1 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 12 条重点，其中 8 条是重点爆料，包含 4 条 iPhone 相关、1 条官方确认、0 条参数线索。",
   "stats": {
-    "total": 11,
+    "total": 12,
     "iphone": 4,
     "leaks": 8,
     "official": 1,
@@ -64,6 +64,30 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
+          "id": "auto-4449dbb2d5a3",
+          "title": "HMD Asha 505 手机曝光，背面相机模组设计类似诺基亚 Lumia 830",
+          "originalTitle": "",
+          "source": "IT之家",
+          "brand": "行业",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-07-13",
+          "time": "08:00",
+          "publishedAt": "2026-07-13T08:00:07.000Z",
+          "url": "https://www.ithome.com/0/976/042.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/7/e4e6b25a-77c1-41f0-ab38-b5dea1f29dcc.png?x-bce-process=image/format,f_auto",
+          "verdict": "先看",
+          "takeaway": "IT之家 7 月 13 日消息，消息源 smashx_60 现已曝光了 HMD Asha 505 手机，该机预计将随同 先前曝光的 Asha 305 ，作为 HMD 复活诺基亚经典 Asha 子品牌后的首批产品登场。 该机整体规格也相当入门，正面配备一块 5 英寸 720P 60Hz 非全面屏面板，匹配 5MP 自拍摄像头；手机背面配备 8MP 主摄，背部…",
+          "detail": "IT之家 7 月 13 日消息，消息源 smashx_60 现已曝光了 HMD Asha 505 手机，该机预计将随同 先前曝光的 Asha 305 ，作为 HMD 复活诺基亚经典 Asha 子品牌后的首批产品登场。 该机整体规格也相当入门，正面配备一块 5 英寸 720P 60Hz 非全面屏面板，匹配 5MP 自拍摄像头；手机背面配备 8MP 主摄，背部…",
+          "keyPoints": [
+            "外观 / 配色 / 尺寸",
+            "影像硬件"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
           "id": "auto-7476c76d274c",
           "title": "消息称三星 Galaxy Z TriFold 2 三折叠手机将延后上市，筹备多年的卷轴屏手机有望提前推出",
           "originalTitle": "",
@@ -104,29 +128,6 @@ window.phoneRadarDaily = {
           "detail": "IT之家 7 月 13 日消息，努比亚 (nubia) 本月 8 日发布 Neo 5 GT Special Edition 智能手机。这一款式号称 同级首发液冷 + 风冷混合散热 ， 拥有同级唯一纯平背部设计 。 努比亚 Neo 5 GT Special Edition 基于联发科天玑 7400 芯片 ，存储器配置为 12GB + 256GB / 12GB…",
           "keyPoints": [
             "芯片 / 性能"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "auto-950aa940c168",
-          "title": "消息称微软 Win11 系统“手机连接”应用将迎大升级，体验更加无缝",
-          "originalTitle": "",
-          "source": "IT之家",
-          "brand": "行业",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-07-13",
-          "time": "06:13",
-          "publishedAt": "2026-07-13T06:13:35.000Z",
-          "url": "https://www.ithome.com/0/975/973.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/7/df57842a-0143-4704-aafe-83b61065caca.png?x-bce-process=image/format,f_auto",
-          "verdict": "先看",
-          "takeaway": "IT之家 7 月 13 日消息，据科技媒体 Windows Central 今日援引知情人士消息，微软正在为 Win11 系统改进“手机连接”（IT之家注：PhoneLink）应用，让用户的手机成为系统中更自然的一部分。 据熟悉相关计划的消息人士透露，微软正在改进“手机连接”应用的集成方式，使其体验更加无缝，而不是独立应用。 据介绍，开始菜单的手机助手将会…",
-          "detail": "IT之家 7 月 13 日消息，据科技媒体 Windows Central 今日援引知情人士消息，微软正在为 Win11 系统改进“手机连接”（IT之家注：PhoneLink）应用，让用户的手机成为系统中更自然的一部分。 据熟悉相关计划的消息人士透露，微软正在改进“手机连接”应用的集成方式，使其体验更加无缝，而不是独立应用。 据介绍，开始菜单的手机助手将会…",
-          "keyPoints": [
-            "爆料来源"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
@@ -181,25 +182,26 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
-          "id": "coolapk-user-9df639057ac6",
-          "title": "竹本青：iQOO 16 外围曝光：1115系对称双扬，无散热风扇",
+          "id": "weibo-868a336dd7d7",
+          "title": "数码闲聊站：独家信息：子系8E6 Pro新机，工程机外围测试1115系高规格对称双扬，X轴…",
           "originalTitle": "",
-          "source": "竹本青",
-          "brand": "vivo",
+          "source": "数码闲聊站",
+          "brand": "行业",
           "type": "爆料",
-          "trust": "高可信爆料",
+          "trust": "高关注爆料源",
           "date": "2026-07-13",
-          "time": "01:13",
-          "publishedAt": "2026-07-13T01:13:09.000Z",
-          "url": "https://www.coolapk.com/feed/72760296",
-          "image": "http://image.coolapk.com/feed/2026/0713/09/4248714_fcc45afb_5188_5497_201@1440x432.jpg",
+          "time": "01:08",
+          "publishedAt": "2026-07-13T01:08:20.000Z",
+          "url": "https://weibo.com/6048569942/R8s474zmE",
+          "image": "",
           "verdict": "先看",
-          "takeaway": "【iQOO 16 外围曝光：1115系对称双扬，0916系马达，无散热风扇】 ▫️骁龙8E6 Pro+独显芯 ▫️50Mp OV50Q 1/1.3\" 主摄 ▫️1115系对称双扬 ▫️0916系 X轴马达 ▫️超声波指纹+IP68/IP69 ▫️C口支持USB 3.2 ▫️出厂自带抗反AR膜 ▫️无主动散热风扇 #今日热点# #iQOO15# #Origi…",
-          "detail": "【iQOO 16 外围曝光：1115系对称双扬，0916系马达，无散热风扇】 ▫️骁龙8E6 Pro+独显芯 ▫️50Mp OV50Q 1/1.3\" 主摄 ▫️1115系对称双扬 ▫️0916系 X轴马达 ▫️超声波指纹+IP68/IP69 ▫️C口支持USB 3.2 ▫️出厂自带抗反AR膜 ▫️无主动散热风扇 #今日热点# #iQOO15# #Origi…",
+          "takeaway": "独家信息，子系8E6 Pro新机，工程机外围测试1115系高规格对称双扬，X轴马达是0916系，有独显芯片，有3D超声波指纹，有IP68/IP69，有USB 3.2，有AR膜，无风扇，主摄测试OV50Q👖",
+          "detail": "独家信息，子系8E6 Pro新机，工程机外围测试1115系高规格对称双扬，X轴马达是0916系，有独显芯片，有3D超声波指纹，有IP68/IP69，有USB 3.2，有AR膜，无风扇，主摄测试OV50Q👖",
           "keyPoints": [
-            "爆料"
+            "芯片 / 性能",
+            "爆料来源"
           ],
-          "confidence": "可信度较高，但仍属于发布前线索。",
+          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         }
@@ -284,6 +286,36 @@ window.phoneRadarDaily = {
           ],
           "confidence": "可信度较高，但仍属于发布前线索。",
           "impact": "影响购买预算，值得先看。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        }
+      ]
+    },
+    {
+      "id": "market",
+      "title": "行业趋势",
+      "hint": "看方向，不急着当购买依据。",
+      "items": [
+        {
+          "id": "coolapk-user-f9c96a8f6f97",
+          "title": "竹本青：ColorOS 16 已支持锁屏自定义指纹样式",
+          "originalTitle": "",
+          "source": "竹本青",
+          "brand": "OPPO",
+          "type": "爆料",
+          "trust": "高可信爆料",
+          "date": "2026-07-13",
+          "time": "08:43",
+          "publishedAt": "2026-07-13T08:43:03.000Z",
+          "url": "https://www.coolapk.com/feed/72765614",
+          "image": "http://image.coolapk.com/feed/2026/0713/16/4248714_c80cf367_2180_907_57@1080x1656.jpg",
+          "verdict": "扫一眼",
+          "takeaway": "【ColorOS 16 现已支持锁屏自定义指纹样式】 表情/数字/字母/汉字/动画 效果自由搭配； 使用方法：设置 → 桌面 → 锁屏与个性化 → 更多 → 指纹样式。 #ColorOS16# #今日热点# #OPPOFindX9Ultra#",
+          "detail": "【ColorOS 16 现已支持锁屏自定义指纹样式】 表情/数字/字母/汉字/动画 效果自由搭配； 使用方法：设置 → 桌面 → 锁屏与个性化 → 更多 → 指纹样式。 #ColorOS16# #今日热点# #OPPOFindX9Ultra#",
+          "keyPoints": [
+            "外观 / 配色 / 尺寸"
+          ],
+          "confidence": "可信度较高，但仍属于发布前线索。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         }
       ]

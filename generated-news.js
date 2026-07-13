@@ -1,6 +1,206 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-07-13T07:36:11.762Z",
+  "updatedAt": "2026-07-13T11:28:01.499Z",
   "news": [
+    {
+      "id": "auto-f97e59876a6b",
+      "title": "5 Android features I miss every time I switch to an iPhone",
+      "source": "Android Authority",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-13",
+      "time": "09:30",
+      "publishedAt": "2026-07-13T09:30:09.000Z",
+      "url": "https://www.androidauthority.com/5-android-features-i-miss-when-switching-iphone-3685743/",
+      "image": "",
+      "summary": "It's sad that iPhones still can't do these things in 2026.",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-f6261eaac9d8",
+      "title": "New Huawei Pura 90s Pro teaser hypes Pink Guava aesthetics",
+      "source": "Huawei Central",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-13",
+      "time": "09:22",
+      "publishedAt": "2026-07-13T09:22:54.000Z",
+      "url": "https://www.huaweicentral.com/new-huawei-pura-90s-pro-teaser-hypes-pink-guava-aesthetics/",
+      "image": "https://www.huaweicentral.com/wp-content/uploads/2026/07/Pura90sPro-Pink-Guava.jpg",
+      "summary": "Huawei Pura 90s Pro is here with a new teaser, showing its super-beautiful aesthetics in a Pink Guava color variant. While the Pro Max variant reflects the glory of nature, the st…",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-a6dd54170e4d",
+      "title": "New Galaxy Z TriFold update brings July 2026 security patch",
+      "source": "SamMobile",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-13",
+      "time": "09:15",
+      "publishedAt": "2026-07-13T09:15:08.000Z",
+      "url": "https://www.sammobile.com/news/new-galaxy-z-trifold-update-brings-july-2026-security-patch/",
+      "image": "",
+      "summary": "Samsung’s first and only phone with a tri-folding screen, the Galaxy Z TriFold, is getting a new software update. It brings the July 2026 security patch, which fixes 57 security i…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-e9ed3dae3626",
+      "title": "OnePlus’ latest phone is facing backlash over misleading marketing claims",
+      "source": "Android Authority",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-13",
+      "time": "09:08",
+      "publishedAt": "2026-07-13T09:08:39.000Z",
+      "url": "https://www.androidauthority.com/oneplus-n6-misleading-marketing-claims-3686730/",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2026/06/OnePlus-N6-official-image.jpg",
+      "summary": "The OnePlus N6's 4GB variant is missing a few features, but the company is freely advertising without adequate disclaimers.",
+      "tags": [
+        "OPPO",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-80f5f2f91418",
+      "title": "Samsung could launch slideable phone before Galaxy Z TriFold 2",
+      "source": "SamMobile",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-13",
+      "time": "08:54",
+      "publishedAt": "2026-07-13T08:54:05.000Z",
+      "url": "https://www.sammobile.com/news/samsung-launch-slideable-display-phone-before-galaxy-z-trifold-2/",
+      "image": "https://www.sammobile.com/wp-content/uploads/2023/05/Samsung-Display-Rollable-Flex-OLED-Smartphone-Panel.jpg",
+      "summary": "Samsung launched two completely new types of devices last year: the Galaxy XR mixed reality headset and the Galaxy Z TriFold. While the company has reportedly been working on the…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-af749e1981bb",
+      "title": "The Pixel 11 Pro Fold just leaked, and it's still missing one feature I was hoping for",
+      "source": "Android Central",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-07-13",
+      "time": "08:48",
+      "publishedAt": "2026-07-13T08:48:58.000Z",
+      "url": "https://www.androidcentral.com/phones/google-pixel/the-pixel-11-pro-fold-just-leaked-and-its-still-missing-one-feature-i-was-hoping-for",
+      "image": "https://cdn.mos.cms.futurecdn.net/qD4G8QBwFiSsKyCpsKtRi-1280-80.jpg",
+      "summary": "A new Pixel 11 Pro Fold render reveals a Pine green finish and redesigned camera module, but shows no sign of the rumored Pixel Glow LED feature.",
+      "tags": [
+        "Pixel",
+        "评测",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-a81fee673638",
+      "title": "卢伟冰晒小米澎程近两年路测实拍记录图，2024 年 10 月首台测试车正式上路",
+      "source": "IT之家",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-13",
+      "time": "08:44",
+      "publishedAt": "2026-07-13T08:44:32.000Z",
+      "url": "https://www.ithome.com/0/976/095.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/7/ad70ffc0-c4b8-4216-9a46-a18fc7f9056d.jpg",
+      "summary": "IT之家 7 月 13 日消息，小米澎程官方微博今日发文称，2024 年 10 月 12 日，小米澎程第一台测试车就已经正式上路。截至 6 月 30 日，累计道路测试 626 天， 历经两冬两夏，投入测试车辆 566 台，累计实测里程达 428 万公里 。 IT之家注意到，小米集团合伙人 / 总裁、手机部总裁、小米品牌总经理卢伟冰今日晒出了小米澎程近两年路…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-f9c96a8f6f97",
+      "title": "竹本青：ColorOS 16 已支持锁屏自定义指纹样式",
+      "source": "竹本青",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-07-13",
+      "time": "08:43",
+      "publishedAt": "2026-07-13T08:43:03.000Z",
+      "url": "https://www.coolapk.com/feed/72765614",
+      "image": "http://image.coolapk.com/feed/2026/0713/16/4248714_c80cf367_2180_907_57@1080x1656.jpg",
+      "summary": "【ColorOS 16 现已支持锁屏自定义指纹样式】 表情/数字/字母/汉字/动画 效果自由搭配； 使用方法：设置 → 桌面 → 锁屏与个性化 → 更多 → 指纹样式。 #ColorOS16# #今日热点# #OPPOFindX9Ultra#",
+      "tags": [
+        "OPPO",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-e76cae536533",
+      "title": "Galaxy S26’s July 2026 security update expands globally",
+      "source": "SamMobile",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-13",
+      "time": "08:28",
+      "publishedAt": "2026-07-13T08:28:35.000Z",
+      "url": "https://www.sammobile.com/news/galaxy-s26-july-2026-security-update-expands-globally/",
+      "image": "",
+      "summary": "Samsung has released a new software update for the Galaxy S26 series outside South Korea. The update was first rolled out in Samsung’s home market and is now available in other co…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-4449dbb2d5a3",
+      "title": "HMD Asha 505 手机曝光，背面相机模组设计类似诺基亚 Lumia 830",
+      "source": "IT之家",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-13",
+      "time": "08:00",
+      "publishedAt": "2026-07-13T08:00:07.000Z",
+      "url": "https://www.ithome.com/0/976/042.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/7/e4e6b25a-77c1-41f0-ab38-b5dea1f29dcc.png?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 7 月 13 日消息，消息源 smashx_60 现已曝光了 HMD Asha 505 手机，该机预计将随同 先前曝光的 Asha 305 ，作为 HMD 复活诺基亚经典 Asha 子品牌后的首批产品登场。 该机整体规格也相当入门，正面配备一块 5 英寸 720P 60Hz 非全面屏面板，匹配 5MP 自拍摄像头；手机背面配备 8MP 主摄，背部…",
+      "tags": [
+        "行业",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-e455d208e6fc",
       "title": "同级首发液气混合散热：努比亚发布 Neo 5 GT Special Edition 智能手机",
@@ -42,26 +242,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-24f42602f2b7",
-      "title": "上半年我国批准上市创新医疗器械 42 个，包括多个“全球首款”",
-      "source": "IT之家",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-13",
-      "time": "07:14",
-      "publishedAt": "2026-07-13T07:14:35.000Z",
-      "url": "https://www.ithome.com/0/976/010.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/7/dd581785-a50f-4e51-83f9-0e26de9eb524.jpg",
-      "summary": "IT之家 7 月 13 日消息，据央视新闻今日报道，从国家药监局获悉，最新统计显示，今年上半年我国批准 38 个 1 类创新药上市。其中， 我国自主研发的新靶点、新机制创新药占比大幅提升 。 国家药监局药品注册管理司副司长蓝恭涛表示，截至 6 月底，国家药监局今年共批准药品上市注册申请 2318 件， 其中“全球新”创新药 38 个 ，包括 20 个化学药…",
-      "tags": [
-        "行业",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-0a9150a5140e",
       "title": "Pixel 11 Pro Fold FCC filing hints at Google's biggest modem upgrade yet",
       "source": "Android Central",
@@ -78,66 +258,6 @@ window.phoneRadarAuto = {
       "tags": [
         "Samsung",
         "评测",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-91281b708cb5",
-      "title": "曝三星将时隔 3 年更新智能防丢器，Galaxy SmartTag3 有望随 S26 FE 登场",
-      "source": "IT之家",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-13",
-      "time": "06:50",
-      "publishedAt": "2026-07-13T06:50:24.000Z",
-      "url": "https://www.ithome.com/0/975/996.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/7/950099c3-07a8-46cb-8046-9cf36227e349.jpg?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 7 月 13 日消息，德媒 WinFuture 编辑 Roland Quandt 近日表示， 三星电子即将推出新一代智能防丢器 Galaxy SmartTag3 ，很有可能与 Galaxy S26 FE 智能手机一道发布。 IT之家注意到， 三星电子的上一款智能防丢器还是 2023 年 10 月发布的 Galaxy SmartTag2 。这款拥有…",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-950aa940c168",
-      "title": "消息称微软 Win11 系统“手机连接”应用将迎大升级，体验更加无缝",
-      "source": "IT之家",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-13",
-      "time": "06:13",
-      "publishedAt": "2026-07-13T06:13:35.000Z",
-      "url": "https://www.ithome.com/0/975/973.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/7/df57842a-0143-4704-aafe-83b61065caca.png?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 7 月 13 日消息，据科技媒体 Windows Central 今日援引知情人士消息，微软正在为 Win11 系统改进“手机连接”（IT之家注：PhoneLink）应用，让用户的手机成为系统中更自然的一部分。 据熟悉相关计划的消息人士透露，微软正在改进“手机连接”应用的集成方式，使其体验更加无缝，而不是独立应用。 据介绍，开始菜单的手机助手将会…",
-      "tags": [
-        "行业",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-b5c20ab63987",
-      "title": "Google Pixel 11 Pro Fold leak reveals what’s different this year",
-      "source": "Android Police",
-      "brand": "Pixel",
-      "model": "Pixel 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-13",
-      "time": "06:09",
-      "publishedAt": "2026-07-13T06:09:48.000Z",
-      "url": "https://www.androidpolice.com/google-pixel-11-pro-fold-leak-reveals-whats-different-this-year/",
-      "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2025/10/img_0390.jpg",
-      "summary": "A slightly redesigned camera island",
-      "tags": [
-        "Pixel",
-        "爆料",
         "自动抓取"
       ]
     },
@@ -297,26 +417,6 @@ window.phoneRadarAuto = {
       "summary": "Huawei Pura 90s Pro Max will be official in the global market by tomorrow, and before the grand launch event, the company has shared a new GIF-based teaser, flaunting the glowy “O…",
       "tags": [
         "Huawei",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-3b94e4557543",
-      "title": "谷歌抢苹果首发？曝 Tensor G6 芯片将率先用上台积电 2nm 工艺",
-      "source": "IT之家",
-      "brand": "Pixel",
-      "model": "Pixel 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-13",
-      "time": "03:33",
-      "publishedAt": "2026-07-13T03:33:12.000Z",
-      "url": "https://www.ithome.com/0/975/909.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/7/9618edbc-23f4-466e-b102-a2c89ba416b0.png?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 7 月 13 日消息，据中国台湾地区媒体《经济日报》今天报道，台积电 2nm 制程工艺已开始量产。出人意料的是，谷歌这次似乎抢到了沙发，其 8 月中旬推出的 Pixel 11 系列手机，预计将搭载台积电 2nm 打造的 Tensor G6 芯片，比苹果还早一个月。 IT之家从原报道获悉，台积电过往推出最新制程，苹果都是首个采用并导入自家移动设备的…",
-      "tags": [
-        "Pixel",
         "爆料",
         "自动抓取"
       ]
@@ -482,26 +582,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "coolapk-user-9df639057ac6",
-      "title": "竹本青：iQOO 16 外围曝光：1115系对称双扬，无散热风扇",
-      "source": "竹本青",
-      "brand": "vivo",
-      "model": "vivo 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-07-13",
-      "time": "01:13",
-      "publishedAt": "2026-07-13T01:13:09.000Z",
-      "url": "https://www.coolapk.com/feed/72760296",
-      "image": "http://image.coolapk.com/feed/2026/0713/09/4248714_fcc45afb_5188_5497_201@1440x432.jpg",
-      "summary": "【iQOO 16 外围曝光：1115系对称双扬，0916系马达，无散热风扇】 ▫️骁龙8E6 Pro+独显芯 ▫️50Mp OV50Q 1/1.3\" 主摄 ▫️1115系对称双扬 ▫️0916系 X轴马达 ▫️超声波指纹+IP68/IP69 ▫️C口支持USB 3.2 ▫️出厂自带抗反AR膜 ▫️无主动散热风扇 #今日热点# #iQOO15# #Origi…",
-      "tags": [
-        "vivo",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
       "id": "weibo-868a336dd7d7",
       "title": "数码闲聊站：独家信息：子系8E6 Pro新机，工程机外围测试1115系高规格对称双扬，X轴…",
       "source": "数码闲聊站",
@@ -622,6 +702,26 @@ window.phoneRadarAuto = {
       ]
     },
     {
+      "id": "newsnow-dbd9e02e8acb",
+      "title": "女朋友的眼光我实在不敢恭维[真正的音乐]我说了贼丑，非要买，还说好看/流行，说别人都觉得好看（ps：估计是小某书的人）有没有裤友来点评或者分享一下自己的手机壳，真是我眼光问题？[doge笑哭][doge笑哭] #iPhone17#",
+      "source": "酷安热榜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-07-13",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/72757666",
+      "image": "",
+      "summary": "女朋友的眼光我实在不敢恭维[真正的音乐]我说了贼丑，非要买，还说好看/流行，说别人都觉得好看（ps：估计是小某书的人）有没有裤友来点评或者分享一下自己的手机壳，真是我眼光问题？[doge笑哭][doge笑哭] #iPhone17#",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
       "id": "newsnow-b80628630296",
       "title": "我所有的手机里，只有iPhone的屏幕是我只要看一会儿，再去看别的地方，就会模糊，然后需要很久才会恢复，iPhone17pro如此，iPhone16pro亦如此，发完这条，我感觉眼睛已经难受的不行了，可能我真适应不了iPhone这块屏幕吧。",
       "source": "酷安热榜",
@@ -642,19 +742,19 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-dbd9e02e8acb",
-      "title": "女朋友的眼光我实在不敢恭维[真正的音乐]我说了贼丑，非要买，还说好看/流行，说别人都觉得好看（ps：估计是小某书的人）有没有裤友来点评或者分享一下自己的手机壳，真是我眼光问题？[doge笑哭][doge笑哭] #iPhone17#",
-      "source": "酷安热榜",
+      "id": "newsnow-d84a8c3118bc",
+      "title": "iPhone20再曝光",
+      "source": "微博热搜",
       "brand": "iPhone",
       "model": "iPhone 相关机型",
       "type": "爆料",
-      "trust": "高关注爆料源",
+      "trust": "待验证",
       "date": "2026-07-13",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72757666",
+      "url": "https://s.weibo.com/weibo?q=%23iPhone20%E5%86%8D%E6%9B%9D%E5%85%89%23&t=31&band_rank=28&Refer=top",
       "image": "",
-      "summary": "女朋友的眼光我实在不敢恭维[真正的音乐]我说了贼丑，非要买，还说好看/流行，说别人都觉得好看（ps：估计是小某书的人）有没有裤友来点评或者分享一下自己的手机壳，真是我眼光问题？[doge笑哭][doge笑哭] #iPhone17#",
+      "summary": "iPhone20再曝光",
       "tags": [
         "iPhone",
         "爆料",
@@ -678,6 +778,26 @@ window.phoneRadarAuto = {
       "tags": [
         "行业",
         "市场报告",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-b3646d9c0989",
+      "title": "印度男子火车窗外抢手机被乘客抓住",
+      "source": "今日头条热榜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-13",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.toutiao.com/trending/7661635592107737115/",
+      "image": "",
+      "summary": "印度男子火车窗外抢手机被乘客抓住",
+      "tags": [
+        "行业",
+        "爆料",
         "NewsNow"
       ]
     },
@@ -735,26 +855,6 @@ window.phoneRadarAuto = {
       "url": "https://9to5google.com/2026/07/12/pixel-11-pro-pine-color-leak/",
       "image": "",
       "summary": "With the launch event one month away , Pixel 11 leaks are picking up, and we now have a look at the “Pine” color for the 11 Pro Fold.",
-      "tags": [
-        "Pixel",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-e805138824f3",
-      "title": "The Tensor G6 isn't a downgrade at all; it's Google admitting what really matters",
-      "source": "Android Police",
-      "brand": "Pixel",
-      "model": "Pixel 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-12",
-      "time": "17:30",
-      "publishedAt": "2026-07-12T17:30:10.000Z",
-      "url": "https://www.androidpolice.com/tensor-g6-downgrade-is-smart/",
-      "image": "",
-      "summary": "Google ditched the CPU core race and the Pixel 11 is better for it",
       "tags": [
         "Pixel",
         "爆料",
