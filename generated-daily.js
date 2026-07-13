@@ -1,14 +1,14 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-07-13T15:10:37.816Z",
+  "updatedAt": "2026-07-13T18:05:48.331Z",
   "issueDate": "2026-07-13",
   "issue": "VOL.260713",
   "title": "手机情报日报",
-  "intro": "今日筛出 13 条重点，其中 8 条是重点爆料，包含 4 条 iPhone 相关、1 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 9 条重点，其中 8 条是重点爆料，包含 3 条 iPhone 相关、0 条官方确认、0 条参数线索。",
   "stats": {
-    "total": 13,
-    "iphone": 4,
+    "total": 9,
+    "iphone": 3,
     "leaks": 8,
-    "official": 1,
+    "official": 0,
     "specs": 0
   },
   "sections": [
@@ -59,6 +59,30 @@ window.phoneRadarDaily = {
           "detail": "iPhone 功能更新或覆盖范围扩大。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
           "keyPoints": [
             "爆料"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "auto-147d2eaae96a",
+          "title": "蓝狐宣布代号“β”4.7 英寸迷你手机定名 Aura A1，已进入最终量产确认环节",
+          "originalTitle": "",
+          "source": "IT之家",
+          "brand": "行业",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-07-13",
+          "time": "15:14",
+          "publishedAt": "2026-07-13T15:14:30.000Z",
+          "url": "https://www.ithome.com/0/976/234.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/7/a2387520-3465-4a52-a9b2-68a0a33d5670.jpg?x-bce-process=image/format,f_auto",
+          "verdict": "先看",
+          "takeaway": "IT之家 7 月 13 日消息，制造商 BLUEFOX 蓝狐发文，宣布旗下“蓝狐 β（代号名）”4.7 英寸迷你手机定名为 Aura A1，目前该机已进入最终量产确认环节，将于近期上市。 规格方面，IT之家获悉该机尺寸为 117x54.6mm，正面搭载一块 4.7 英寸 1600x720 分辨率 90Hz 天马 LCD 面板（亮度 600 尼特），匹配 1…",
+          "detail": "IT之家 7 月 13 日消息，制造商 BLUEFOX 蓝狐发文，宣布旗下“蓝狐 β（代号名）”4.7 英寸迷你手机定名为 Aura A1，目前该机已进入最终量产确认环节，将于近期上市。 规格方面，IT之家获悉该机尺寸为 117x54.6mm，正面搭载一块 4.7 英寸 1600x720 分辨率 90Hz 天马 LCD 面板（亮度 600 尼特），匹配 1…",
+          "keyPoints": [
+            "外观 / 配色 / 尺寸",
+            "爆料来源"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
@@ -161,46 +185,23 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
-          "id": "auto-fd7f0eb82040",
+          "id": "auto-32dbba671eae",
           "title": "Samsung 折叠屏相关消息",
           "originalTitle": "",
-          "source": "Android Authority",
+          "source": "9to5Google",
           "brand": "Samsung",
           "type": "爆料",
           "trust": "媒体汇总",
           "date": "2026-07-13",
-          "time": "13:07",
-          "publishedAt": "2026-07-13T13:07:05.000Z",
-          "url": "https://www.androidauthority.com/galaxy-z-fold-8-ultra-creaseless-display-leak-3686860/",
-          "image": "https://www.androidauthority.com/wp-content/uploads/2025/07/samsung-galaxy-z-fold-7-open-in-hand.jpg",
+          "time": "17:33",
+          "publishedAt": "2026-07-13T17:33:25.000Z",
+          "url": "https://9to5google.com/2026/07/13/galaxy-z-fold-8-ultra-crease-missing-in-leaked-video/",
+          "image": "https://9to5google.com/wp-content/uploads/sites/4/2025/07/galaxy-z-fold-7-8.jpg?quality=82&strip=all&w=1600",
           "verdict": "先看",
-          "takeaway": "Samsung 折叠屏相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
+          "takeaway": "Samsung 影像能力相关宣传或案例，主要看是否透露拍摄能力变化。",
           "detail": "Samsung 折叠屏相关消息。重点看折痕、铰链、厚度、屏幕可靠性和重量是否有实质改善。",
           "keyPoints": [
-            "屏幕形态",
-            "爆料来源"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "auto-35989cb57d3c",
-          "title": "Huawei 折叠屏相关消息",
-          "originalTitle": "",
-          "source": "Huawei Central",
-          "brand": "Huawei",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-07-13",
-          "time": "11:54",
-          "publishedAt": "2026-07-13T11:54:01.000Z",
-          "url": "https://www.huaweicentral.com/huaweis-wide-non-foldable-phone-could-follow-pura-x-screen-size/",
-          "image": "https://www.huaweicentral.com/wp-content/uploads/2026/07/non-foldable-leak-img.jpg",
-          "verdict": "先看",
-          "takeaway": "Huawei 折叠屏相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
-          "detail": "Huawei 折叠屏相关消息。重点看折痕、铰链、厚度、屏幕可靠性和重量是否有实质改善。",
-          "keyPoints": [
+            "影像硬件",
             "屏幕形态",
             "爆料来源"
           ],
@@ -235,112 +236,6 @@ window.phoneRadarDaily = {
             "爆料"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
-        {
-          "id": "auto-9bbf43c61c96",
-          "title": "iPhone 系统功能 / AI 体验相关消息",
-          "originalTitle": "",
-          "source": "Apple Newsroom",
-          "brand": "iPhone",
-          "type": "官方",
-          "trust": "官方确认",
-          "date": "2026-07-13",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://www.apple.com/newsroom/2026/06/apple-announces-changes-to-ios-in-brazil/",
-          "image": "",
-          "verdict": "先看",
-          "takeaway": "iPhone 系统功能 / AI 体验相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
-          "detail": "iPhone 系统功能 / AI 体验相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
-          "keyPoints": [
-            "官方"
-          ],
-          "confidence": "官方内容，可直接作为已确认信息记录。",
-          "impact": "可信度高，但如果不是配置/价格消息，只需要扫一眼。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        }
-      ]
-    },
-    {
-      "id": "launch",
-      "title": "新机与官方发布",
-      "hint": "能直接更新到参数库。",
-      "items": [
-        {
-          "id": "coolapk-user-8770f2143f1b",
-          "title": "竹本青：#小米米家显示器挂灯2# 创了新产品的话题 年初，看米米这个品类一直没有更新，我就买的1S，看见今天官宣二代，感觉…",
-          "originalTitle": "",
-          "source": "竹本青",
-          "brand": "Xiaomi",
-          "type": "爆料",
-          "trust": "高可信爆料",
-          "date": "2026-07-13",
-          "time": "03:24",
-          "publishedAt": "2026-07-13T03:24:43.000Z",
-          "url": "https://www.coolapk.com/feed/72761840",
-          "image": "http://image.coolapk.com/feed/2026/0713/11/4248714_c3f433ec_3081_0528_82@1272x476.jpg",
-          "verdict": "扫一眼",
-          "takeaway": "#小米米家显示器挂灯2# 创了新产品的话题 年初，看米米这个品类一直没有更新，我就买的1S，看见今天官宣二代，感觉还是1S的性价比更高一些，至少在功能层面，我没看出来啥区别…… 目前，1S在夕夕上可以做到140-150左右，二代正式发布以后，不知道是会继续降价还是往上涨。 #HyperOS3# #米家智能显示器挂灯1s#",
-          "detail": "#小米米家显示器挂灯2# 创了新产品的话题 年初，看米米这个品类一直没有更新，我就买的1S，看见今天官宣二代，感觉还是1S的性价比更高一些，至少在功能层面，我没看出来啥区别…… 目前，1S在夕夕上可以做到140-150左右，二代正式发布以后，不知道是会继续降价还是往上涨。 #HyperOS3# #米家智能显示器挂灯1s#",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "可信度较高，但仍属于发布前线索。",
-          "impact": "影响购买预算，值得先看。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        }
-      ]
-    },
-    {
-      "id": "market",
-      "title": "行业趋势",
-      "hint": "看方向，不急着当购买依据。",
-      "items": [
-        {
-          "id": "auto-19ff18062666",
-          "title": "业内人士称阶跃终端首款智能体手机 STEPX Neo 属自主设计，与魅族“没啥关系”",
-          "originalTitle": "",
-          "source": "IT之家",
-          "brand": "行业",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-07-13",
-          "time": "14:26",
-          "publishedAt": "2026-07-13T14:26:21.000Z",
-          "url": "https://www.ithome.com/0/976/226.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/7/f3c2f4ae-e6ca-49ad-a051-916401bfd0e7.jpg?x-bce-process=image/format,f_auto",
-          "verdict": "扫一眼",
-          "takeaway": "IT之家 7 月 13 日消息， 阶跃终端品牌旗下首款智能体手机 STEPX Neo 今晚正式亮相 ，机身背面配备交互副屏，搭载智能体原生系统 Step AOS。 虽然官方并未公布这款手机的更多信息，但却引发了网友对于新机和魅族之间关系的讨论。IT之家注意到，业内人士 @布鲁卡 今日发文对此进行了说明： 还是那句，这年头还闯入手机市场都是勇气可嘉的，尊重劳…",
-          "detail": "IT之家 7 月 13 日消息， 阶跃终端品牌旗下首款智能体手机 STEPX Neo 今晚正式亮相 ，机身背面配备交互副屏，搭载智能体原生系统 Step AOS。 虽然官方并未公布这款手机的更多信息，但却引发了网友对于新机和魅族之间关系的讨论。IT之家注意到，业内人士 @布鲁卡 今日发文对此进行了说明： 还是那句，这年头还闯入手机市场都是勇气可嘉的，尊重劳…",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "中文源可以直接点开快读；看完只保留和购机有关的点。"
-        },
-        {
-          "id": "coolapk-user-f9c96a8f6f97",
-          "title": "竹本青：ColorOS 16 已支持锁屏自定义指纹样式",
-          "originalTitle": "",
-          "source": "竹本青",
-          "brand": "OPPO",
-          "type": "爆料",
-          "trust": "高可信爆料",
-          "date": "2026-07-13",
-          "time": "08:43",
-          "publishedAt": "2026-07-13T08:43:03.000Z",
-          "url": "https://www.coolapk.com/feed/72765614",
-          "image": "http://image.coolapk.com/feed/2026/0713/16/4248714_c80cf367_2180_907_57@1080x1656.jpg",
-          "verdict": "扫一眼",
-          "takeaway": "【ColorOS 16 现已支持锁屏自定义指纹样式】 表情/数字/字母/汉字/动画 效果自由搭配； 使用方法：设置 → 桌面 → 锁屏与个性化 → 更多 → 指纹样式。 #ColorOS16# #今日热点# #OPPOFindX9Ultra#",
-          "detail": "【ColorOS 16 现已支持锁屏自定义指纹样式】 表情/数字/字母/汉字/动画 效果自由搭配； 使用方法：设置 → 桌面 → 锁屏与个性化 → 更多 → 指纹样式。 #ColorOS16# #今日热点# #OPPOFindX9Ultra#",
-          "keyPoints": [
-            "外观 / 配色 / 尺寸"
-          ],
-          "confidence": "可信度较高，但仍属于发布前线索。",
           "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         }

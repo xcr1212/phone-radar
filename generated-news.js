@@ -1,6 +1,186 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-07-13T15:10:37.816Z",
+  "updatedAt": "2026-07-13T18:05:48.331Z",
   "news": [
+    {
+      "id": "auto-c69474fe5444",
+      "title": "Pixel 11 series gets ready for launch, with the rest of the family hitting the FCC",
+      "source": "Android Authority",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-13",
+      "time": "17:48",
+      "publishedAt": "2026-07-13T17:48:22.000Z",
+      "url": "https://www.androidauthority.com/pixel-11-fcc-3687003/",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2024/02/made-by-google-stock-photo.jpg",
+      "summary": "Google got started last week with the Pixel 11 Pro Fold's FCC paperwork.",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-bad74e5523d7",
+      "title": "OnePlus will reportedly officially shut down in the US and Europe later this week",
+      "source": "9to5Google",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-13",
+      "time": "17:45",
+      "publishedAt": "2026-07-13T17:45:00.000Z",
+      "url": "https://9to5google.com/2026/07/13/oneplus-us-europe-shut-down-report/",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2025/11/OnePlus-15-in-black-1.jpg?quality=82&strip=all&w=1600",
+      "summary": "The end is near and the clock is ticking. OnePlus is reportedly going to be shut down for good in the US and Europe markets as of this week.",
+      "tags": [
+        "OPPO",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-32dbba671eae",
+      "title": "Galaxy Z Fold 8 Ultra display crease missing in latest hands-on leak [Video]",
+      "source": "9to5Google",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-13",
+      "time": "17:33",
+      "publishedAt": "2026-07-13T17:33:25.000Z",
+      "url": "https://9to5google.com/2026/07/13/galaxy-z-fold-8-ultra-crease-missing-in-leaked-video/",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2025/07/galaxy-z-fold-7-8.jpg?quality=82&strip=all&w=1600",
+      "summary": "Rumors have suggested the Galaxy Z Fold series would take a big step in removing the inner display crease left from folds past. A leaked video claims to show what the Galaxy Z Fol…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-cff4bc43fff8",
+      "title": "Nubia Z90 Ultra and Red Magic 12 specs leaked: 2nm Snapdragon 8 Elite Gen 6 Pro, liquid+air cooling & 35mm custom imaging",
+      "source": "Gizmochina",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-13",
+      "time": "17:21",
+      "publishedAt": "2026-07-13T17:21:07.000Z",
+      "url": "https://www.gizmochina.com/2026/07/13/nubia-z90-ultra-and-red-magic-12-specs-leaked-2nm-snapdragon-8-elite-gen-6-pro-liquidair-cooling-35mm-custom-imaging/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2025/11/popup_cab8071c-3666-48ee-a43b-ec-300x176.jpg?x44794",
+      "summary": "Fresh leaks suggest Nubia is working on some big upgrades for both the upcoming Nubia Z90 Ultra and the RedMagic 12 gaming lineup. According to well-known Weibo tipster Digital Ch…",
+      "tags": [
+        "HONOR",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-a12ae77f1d56",
+      "title": "Google’s Pixel 11 may beat Apple’s iPhone 18 to TSMC’s 2nm chips",
+      "source": "Android Authority",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-13",
+      "time": "16:19",
+      "publishedAt": "2026-07-13T16:19:26.000Z",
+      "url": "https://www.androidauthority.com/google-tensor-g6-2nm-process-3686948/",
+      "image": "",
+      "summary": "Google's Tensor G6 may be the debut of TSMC's 2nm tech.",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-01c68e1738da",
+      "title": "Yes, Verizon really wants to give you a free Google Pixel 10 Pro — here's how you can claim it",
+      "source": "Android Central",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-07-13",
+      "time": "15:57",
+      "publishedAt": "2026-07-13T15:57:04.000Z",
+      "url": "https://www.androidcentral.com/phones/google-pixel/yes-verizon-really-wants-to-give-you-a-free-google-pixel-10-pro-heres-how-you-can-claim-it",
+      "image": "https://cdn.mos.cms.futurecdn.net/NjJapwN4xNEi2gBkLaoDYV-1280-80.jpg",
+      "summary": "Add a line with any of Verizon's mainline Unlimited plans and you'll get enough promo credits to make the Google Pixel 10 Pro completely free.",
+      "tags": [
+        "Pixel",
+        "评测",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-efb66dc1e03d",
+      "title": "Pixel 11 leak puts Google’s rumored new color lineup on display",
+      "source": "Android Authority",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-13",
+      "time": "15:53",
+      "publishedAt": "2026-07-13T15:53:11.000Z",
+      "url": "https://www.androidauthority.com/google-pixel-11-colors-leaked-3686960/",
+      "image": "",
+      "summary": "The base Pixel 11 won't see a massive visual overhaul this year, but early Amazon placeholders reveal three new colorways.",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-147d2eaae96a",
+      "title": "蓝狐宣布代号“β”4.7 英寸迷你手机定名 Aura A1，已进入最终量产确认环节",
+      "source": "IT之家",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-13",
+      "time": "15:14",
+      "publishedAt": "2026-07-13T15:14:30.000Z",
+      "url": "https://www.ithome.com/0/976/234.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/7/a2387520-3465-4a52-a9b2-68a0a33d5670.jpg?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 7 月 13 日消息，制造商 BLUEFOX 蓝狐发文，宣布旗下“蓝狐 β（代号名）”4.7 英寸迷你手机定名为 Aura A1，目前该机已进入最终量产确认环节，将于近期上市。 规格方面，IT之家获悉该机尺寸为 117x54.6mm，正面搭载一块 4.7 英寸 1600x720 分辨率 90Hz 天马 LCD 面板（亮度 600 尼特），匹配 1…",
+      "tags": [
+        "行业",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-bc26a327ab87",
+      "title": "Report: Apple hits record 20% global smartphone shipment share as market plunges",
+      "source": "9to5Mac",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-13",
+      "time": "15:12",
+      "publishedAt": "2026-07-13T15:12:11.000Z",
+      "url": "https://9to5mac.com/2026/07/13/report-apple-hits-record-20-global-smartphone-shipment-share-as-market-plunges/",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/iphone-17-pro-blue-camera-array.jpg?quality=82&strip=all&w=1600",
+      "summary": "According to a new Counterpoint Research report , Apple grew iPhone shipments by 3% year over year and captured a record 20% share of global smartphone shipments despite an indust…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-d0b7bc61c3c0",
       "title": "2025's best Motorola phone just landed an EPIC $150 discount at Best Buy",
@@ -342,26 +522,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-e76cae536533",
-      "title": "Galaxy S26’s July 2026 security update expands globally",
-      "source": "SamMobile",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-13",
-      "time": "08:28",
-      "publishedAt": "2026-07-13T08:28:35.000Z",
-      "url": "https://www.sammobile.com/news/galaxy-s26-july-2026-security-update-expands-globally/",
-      "image": "",
-      "summary": "Samsung has released a new software update for the Galaxy S26 series outside South Korea. The update was first rolled out in Samsung’s home market and is now available in other co…",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-0a9150a5140e",
       "title": "Pixel 11 Pro Fold FCC filing hints at Google's biggest modem upgrade yet",
       "source": "Android Central",
@@ -378,26 +538,6 @@ window.phoneRadarAuto = {
       "tags": [
         "Samsung",
         "评测",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-b5c20ab63987",
-      "title": "Google Pixel 11 Pro Fold leak reveals what’s different this year",
-      "source": "Android Police",
-      "brand": "Pixel",
-      "model": "Pixel 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-13",
-      "time": "06:09",
-      "publishedAt": "2026-07-13T06:09:48.000Z",
-      "url": "https://www.androidpolice.com/google-pixel-11-pro-fold-leak-reveals-whats-different-this-year/",
-      "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2025/10/img_0390.jpg",
-      "summary": "A slightly redesigned camera island",
-      "tags": [
-        "Pixel",
-        "爆料",
         "自动抓取"
       ]
     },
@@ -802,26 +942,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-3c2795e29bb3",
-      "title": "iOS 剪贴板管理工具 Procut：换个方式收藏碎片化信息",
-      "source": "少数派热榜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "评测",
-      "trust": "媒体汇总",
-      "date": "2026-07-13",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://sspai.com/post/110950",
-      "image": "",
-      "summary": "iOS 剪贴板管理工具 Procut：换个方式收藏碎片化信息",
-      "tags": [
-        "iPhone",
-        "评测",
-        "NewsNow"
-      ]
-    },
-    {
       "id": "newsnow-dbd9e02e8acb",
       "title": "女朋友的眼光我实在不敢恭维[真正的音乐]我说了贼丑，非要买，还说好看/流行，说别人都觉得好看（ps：估计是小某书的人）有没有裤友来点评或者分享一下自己的手机壳，真是我眼光问题？[doge笑哭][doge笑哭] #iPhone17#",
       "source": "酷安热榜",
@@ -842,21 +962,21 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-cbd4960a3a2b",
-      "title": "曝iPhone 20系列将回归玻璃材质",
-      "source": "今日头条热榜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
+      "id": "newsnow-a1b5d87db0be",
+      "title": "阶跃星辰首款智能体手机STEPX Neo亮相",
+      "source": "酷安热榜",
+      "brand": "行业",
+      "model": "智能手机市场",
       "type": "爆料",
-      "trust": "媒体汇总",
+      "trust": "高关注爆料源",
       "date": "2026-07-13",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.toutiao.com/trending/7661625304379031588/",
+      "url": "https://www.coolapk.com/feed/72769161",
       "image": "",
-      "summary": "曝iPhone 20系列将回归玻璃材质",
+      "summary": "阶跃星辰首款智能体手机STEPX Neo亮相",
       "tags": [
-        "iPhone",
+        "行业",
         "爆料",
         "NewsNow"
       ]
@@ -915,26 +1035,6 @@ window.phoneRadarAuto = {
       "url": "https://9to5google.com/2026/07/12/pixel-11-pro-pine-color-leak/",
       "image": "",
       "summary": "With the launch event one month away , Pixel 11 leaks are picking up, and we now have a look at the “Pine” color for the 11 Pro Fold.",
-      "tags": [
-        "Pixel",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-e805138824f3",
-      "title": "The Tensor G6 isn't a downgrade at all; it's Google admitting what really matters",
-      "source": "Android Police",
-      "brand": "Pixel",
-      "model": "Pixel 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-12",
-      "time": "17:30",
-      "publishedAt": "2026-07-12T17:30:10.000Z",
-      "url": "https://www.androidpolice.com/tensor-g6-downgrade-is-smart/",
-      "image": "",
-      "summary": "Google ditched the CPU core race and the Pixel 11 is better for it",
       "tags": [
         "Pixel",
         "爆料",
