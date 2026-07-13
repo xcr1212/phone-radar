@@ -1,5 +1,5 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-07-13T21:12:18.579Z",
+  "updatedAt": "2026-07-13T23:12:11.441Z",
   "issueDate": "2026-07-13",
   "issue": "VOL.260713",
   "title": "手机情报日报",
@@ -59,6 +59,29 @@ window.phoneRadarDaily = {
           "detail": "iPhone 功能更新或覆盖范围扩大。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
           "keyPoints": [
             "爆料"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "auto-2dcfbc8e8dcf",
+          "title": "用户反馈三星 Galaxy S26 Ultra 手机中间屏幕泛红，外媒推测关联“隐私屏幕”机制",
+          "originalTitle": "",
+          "source": "IT之家",
+          "brand": "Samsung",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-07-13",
+          "time": "22:44",
+          "publishedAt": "2026-07-13T22:44:12.000Z",
+          "url": "https://www.ithome.com/0/976/253.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/7/c7d641e8-5323-450b-a619-b84188e34a20.png?x-bce-process=image/format,f_auto",
+          "verdict": "先看",
+          "takeaway": "IT之家 7 月 14 日消息，科技媒体 Android Police 今天（7 月 14 日）发布博文， 报道称多名 Galaxy S26 Ultra 手机用户在 Reddit 社区等平台反馈，其手机屏幕显示异常，中部出现红色色调。 根据韩媒 Newsway 报道，三星发言人表示已陆续收到相关用户反馈，目前公司正内部核查，以确认问题原因。IT之家附上相关…",
+          "detail": "IT之家 7 月 14 日消息，科技媒体 Android Police 今天（7 月 14 日）发布博文， 报道称多名 Galaxy S26 Ultra 手机用户在 Reddit 社区等平台反馈，其手机屏幕显示异常，中部出现红色色调。 根据韩媒 Newsway 报道，三星发言人表示已陆续收到相关用户反馈，目前公司正内部核查，以确认问题原因。IT之家附上相关…",
+          "keyPoints": [
+            "屏幕形态"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
@@ -176,29 +199,6 @@ window.phoneRadarDaily = {
           "verdict": "先看",
           "takeaway": "蓝狐 Aura A1 手机进入量产确认环节： 联发科G100",
           "detail": "蓝狐 Aura A1 手机进入量产确认环节： 联发科G100",
-          "keyPoints": [
-            "爆料来源"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "auto-8890d6baaf05",
-          "title": "Pixel 11 跑分 / 认证信息出现",
-          "originalTitle": "",
-          "source": "9to5Google",
-          "brand": "Pixel",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-07-13",
-          "time": "18:32",
-          "publishedAt": "2026-07-13T18:32:06.000Z",
-          "url": "https://9to5google.com/2026/07/13/google-pixel-11-models-appear-fcc-website/",
-          "image": "",
-          "verdict": "先看",
-          "takeaway": "Pixel 11 跑分 / 认证信息出现。已转成中文摘要展示，详细内容可打开原文核对。",
-          "detail": "Pixel 11 跑分 / 认证信息出现。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
           "keyPoints": [
             "爆料来源"
           ],

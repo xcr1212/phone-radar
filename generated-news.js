@@ -1,6 +1,106 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-07-13T21:12:18.579Z",
+  "updatedAt": "2026-07-13T23:12:11.441Z",
   "news": [
+    {
+      "id": "auto-a1918cbde8f2",
+      "title": "Second report says Apple posted its strongest-ever Q2 for iPhone shipments amid market downturn",
+      "source": "9to5Mac",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-13",
+      "time": "22:56",
+      "publishedAt": "2026-07-13T22:56:21.000Z",
+      "url": "https://9to5mac.com/2026/07/13/second-report-says-apple-posted-its-strongest-ever-q2-for-iphone-shipments-amid-market-downturn/",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/02/Two-reasons-helped-Apple-hit-record-iPhone-sales-and-theyre-both-orange.jpg?quality=82&strip=all&w=1600",
+      "summary": "Adding to an earlier report from Counterpoint Research that showed Apple posting its strongest-ever second quarter for iPhone shipments, Omdia has now published its own figures po…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-2dcfbc8e8dcf",
+      "title": "用户反馈三星 Galaxy S26 Ultra 手机中间屏幕泛红，外媒推测关联“隐私屏幕”机制",
+      "source": "IT之家",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-13",
+      "time": "22:44",
+      "publishedAt": "2026-07-13T22:44:12.000Z",
+      "url": "https://www.ithome.com/0/976/253.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/7/c7d641e8-5323-450b-a619-b84188e34a20.png?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 7 月 14 日消息，科技媒体 Android Police 今天（7 月 14 日）发布博文， 报道称多名 Galaxy S26 Ultra 手机用户在 Reddit 社区等平台反馈，其手机屏幕显示异常，中部出现红色色调。 根据韩媒 Newsway 报道，三星发言人表示已陆续收到相关用户反馈，目前公司正内部核查，以确认问题原因。IT之家附上相关…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-f2cf247a2aec",
+      "title": "Samsung Galaxy S26 Ultra users are seeing red over screen issue",
+      "source": "Android Police",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-13",
+      "time": "22:30",
+      "publishedAt": "2026-07-13T22:30:28.000Z",
+      "url": "https://www.androidpolice.com/samsung-galaxy-s26-ultra-users-are-seeing-red-over-screen-issue/",
+      "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2026/05/samsung-galaxy-s26-ultra-finder-search.jpg",
+      "summary": "Privacy Display might be to blame",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-7f45897cf04d",
+      "title": "OnePlus is reportedly bailing on the US",
+      "source": "The Verge",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-13",
+      "time": "21:48",
+      "publishedAt": "2026-07-13T21:48:43.000Z",
+      "url": "https://www.theverge.com/tech/965084/oneplus-oppo-exit-us-europe",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/258099_OnePlus_15_review_AJohnson_0005.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "summary": "OnePlus and its parent company, Oppo, plan to announce in the coming days that OnePlus brand will be leaving the US and European markets, according to a machine translation of a W…",
+      "tags": [
+        "OPPO",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-af471d8b9975",
+      "title": "OnePlus may be on the verge of a major global retreat",
+      "source": "Android Central",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-07-13",
+      "time": "21:11",
+      "publishedAt": "2026-07-13T21:11:50.000Z",
+      "url": "https://www.androidcentral.com/phones/oneplus/oneplus-may-be-on-the-verge-of-a-major-global-retreat",
+      "image": "https://cdn.mos.cms.futurecdn.net/37KozDrmQGnXcNSFuttUvg-1280-80.jpg",
+      "summary": "OnePlus could soon exit Europe and the US, but until OPPO confirms it, the brand's future remains up in the air.",
+      "tags": [
+        "OPPO",
+        "评测",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-6fe6c6b082c2",
       "title": "The Pixel colors might rule this year",
@@ -562,26 +662,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-80f5f2f91418",
-      "title": "Samsung could launch slideable phone before Galaxy Z TriFold 2",
-      "source": "SamMobile",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-13",
-      "time": "08:54",
-      "publishedAt": "2026-07-13T08:54:05.000Z",
-      "url": "https://www.sammobile.com/news/samsung-launch-slideable-display-phone-before-galaxy-z-trifold-2/",
-      "image": "https://www.sammobile.com/wp-content/uploads/2023/05/Samsung-Display-Rollable-Flex-OLED-Smartphone-Panel.jpg",
-      "summary": "Samsung launched two completely new types of devices last year: the Galaxy XR mixed reality headset and the Galaxy Z TriFold. While the company has reportedly been working on the…",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-af749e1981bb",
       "title": "The Pixel 11 Pro Fold just leaked, and it's still missing one feature I was hoping for",
       "source": "Android Central",
@@ -1075,6 +1155,26 @@ window.phoneRadarAuto = {
       "url": "https://www.coolapk.com/feed/72757666",
       "image": "",
       "summary": "女朋友的眼光我实在不敢恭维[真正的音乐]我说了贼丑，非要买，还说好看/流行，说别人都觉得好看（ps：估计是小某书的人）有没有裤友来点评或者分享一下自己的手机壳，真是我眼光问题？[doge笑哭][doge笑哭] #iPhone17#",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-93dfbd9a4ab4",
+      "title": "Pura X Max 、iPhone Air 、iphone17 Pro Max 交替使用感受",
+      "source": "酷安热榜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-07-13",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/72765903",
+      "image": "",
+      "summary": "Pura X Max 、iPhone Air 、iphone17 Pro Max 交替使用感受",
       "tags": [
         "iPhone",
         "爆料",
