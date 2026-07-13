@@ -1,12 +1,12 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-07-13T18:05:48.331Z",
+  "updatedAt": "2026-07-13T19:48:11.817Z",
   "issueDate": "2026-07-13",
   "issue": "VOL.260713",
   "title": "手机情报日报",
-  "intro": "今日筛出 9 条重点，其中 8 条是重点爆料，包含 3 条 iPhone 相关、0 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 8 条重点，其中 8 条是重点爆料，包含 2 条 iPhone 相关、0 条官方确认、0 条参数线索。",
   "stats": {
-    "total": 9,
-    "iphone": 3,
+    "total": 8,
+    "iphone": 2,
     "leaks": 8,
     "official": 0,
     "specs": 0
@@ -161,83 +161,50 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
-          "id": "coolapk-user-0a991fdadb24",
-          "title": "竹本青：蓝狐 Aura A1 手机进入量产确认环节： 联发科G100",
-          "originalTitle": "",
-          "source": "竹本青",
-          "brand": "行业",
-          "type": "爆料",
-          "trust": "高可信爆料",
-          "date": "2026-07-13",
-          "time": "11:42",
-          "publishedAt": "2026-07-13T11:42:30.000Z",
-          "url": "https://www.coolapk.com/feed/72767960",
-          "image": "http://image.coolapk.com/feed/2026/0713/19/4248714_94b90dbb_2949_4943_817@640x360.jpg",
-          "verdict": "先看",
-          "takeaway": "【蓝狐 Aura A1 手机进入量产确认： 联发科G100，90Hz LCD小屏，可选白面板】 7月13日，蓝狐BLUEFOX发布视频，透露全新Aura A1（β）手机已进入最终的量产确认环节。此前，该机已有完整配置信息流出： 核心： ● 4.7英寸90Hz LCD屏 ● 联发科 G100处理器 ● LPDDR4X+UFS2.2 ● 3500mAh+18W…",
-          "detail": "【蓝狐 Aura A1 手机进入量产确认： 联发科G100，90Hz LCD小屏，可选白面板】 7月13日，蓝狐BLUEFOX发布视频，透露全新Aura A1（β）手机已进入最终的量产确认环节。此前，该机已有完整配置信息流出： 核心： ● 4.7英寸90Hz LCD屏 ● 联发科 G100处理器 ● LPDDR4X+UFS2.2 ● 3500mAh+18W…",
-          "keyPoints": [
-            "芯片 / 性能",
-            "爆料来源"
-          ],
-          "confidence": "可信度较高，但仍属于发布前线索。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "auto-32dbba671eae",
-          "title": "Samsung 折叠屏相关消息",
-          "originalTitle": "",
-          "source": "9to5Google",
-          "brand": "Samsung",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-07-13",
-          "time": "17:33",
-          "publishedAt": "2026-07-13T17:33:25.000Z",
-          "url": "https://9to5google.com/2026/07/13/galaxy-z-fold-8-ultra-crease-missing-in-leaked-video/",
-          "image": "https://9to5google.com/wp-content/uploads/sites/4/2025/07/galaxy-z-fold-7-8.jpg?quality=82&strip=all&w=1600",
-          "verdict": "先看",
-          "takeaway": "Samsung 影像能力相关宣传或案例，主要看是否透露拍摄能力变化。",
-          "detail": "Samsung 折叠屏相关消息。重点看折痕、铰链、厚度、屏幕可靠性和重量是否有实质改善。",
-          "keyPoints": [
-            "影像硬件",
-            "屏幕形态",
-            "爆料来源"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        }
-      ]
-    },
-    {
-      "id": "iphone",
-      "title": "iPhone 重点",
-      "hint": "不是硬件爆料，但和 iPhone 体验或路线有关。",
-      "items": [
-        {
-          "id": "newsnow-dbd9e02e8acb",
-          "title": "女朋友的眼光我实在不敢恭维[真正的音乐]我说了贼丑，非要买，还说好看/流行，说别人都觉得好看（ps：估计是小某书的人）有没有裤友来点评或者分享一下自己的手机壳，真是我眼光问题？[doge笑哭][doge笑哭] #iPhone17#",
+          "id": "newsnow-d65529c3f19c",
+          "title": "蓝狐 Aura A1 手机进入量产确认环节： 联发科G100",
           "originalTitle": "",
           "source": "酷安热榜",
-          "brand": "iPhone",
+          "brand": "行业",
           "type": "爆料",
           "trust": "高关注爆料源",
           "date": "2026-07-13",
           "time": "",
           "publishedAt": "",
-          "url": "https://www.coolapk.com/feed/72757666",
+          "url": "https://www.coolapk.com/feed/72767960",
           "image": "",
           "verdict": "先看",
-          "takeaway": "女朋友的眼光我实在不敢恭维[真正的音乐]我说了贼丑，非要买，还说好看/流行，说别人都觉得好看（ps：估计是小某书的人）有没有裤友来点评或者分享一下自己的手机壳，真是我眼光问题？[doge笑哭][doge笑哭] #iPhone17#",
-          "detail": "女朋友的眼光我实在不敢恭维[真正的音乐]我说了贼丑，非要买，还说好看/流行，说别人都觉得好看（ps：估计是小某书的人）有没有裤友来点评或者分享一下自己的手机壳，真是我眼光问题？[doge笑哭][doge笑哭] #iPhone17#",
+          "takeaway": "蓝狐 Aura A1 手机进入量产确认环节： 联发科G100",
+          "detail": "蓝狐 Aura A1 手机进入量产确认环节： 联发科G100",
           "keyPoints": [
-            "爆料"
+            "爆料来源"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "auto-8890d6baaf05",
+          "title": "Pixel 11 跑分 / 认证信息出现",
+          "originalTitle": "",
+          "source": "9to5Google",
+          "brand": "Pixel",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-07-13",
+          "time": "18:32",
+          "publishedAt": "2026-07-13T18:32:06.000Z",
+          "url": "https://9to5google.com/2026/07/13/google-pixel-11-models-appear-fcc-website/",
+          "image": "",
+          "verdict": "先看",
+          "takeaway": "Pixel 11 跑分 / 认证信息出现。已转成中文摘要展示，详细内容可打开原文核对。",
+          "detail": "Pixel 11 跑分 / 认证信息出现。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
+          "keyPoints": [
+            "爆料来源"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         }
       ]
     }

@@ -1,6 +1,106 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-07-13T18:05:48.331Z",
+  "updatedAt": "2026-07-13T19:48:11.817Z",
   "news": [
+    {
+      "id": "auto-04ae817bcb64",
+      "title": "Pixel 11 colors and details revealed in Amazon error",
+      "source": "Android Police",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-13",
+      "time": "19:20",
+      "publishedAt": "2026-07-13T19:20:19.000Z",
+      "url": "https://www.androidpolice.com/pixel-11-colors-and-prices-revealed-in-amazon-error/",
+      "image": "",
+      "summary": "A Google Pixel Tag could be coming",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-9c97fdac4226",
+      "title": "OnePlus’ fate in the US and Europe may be revealed very soon",
+      "source": "Android Authority",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-13",
+      "time": "19:19",
+      "publishedAt": "2026-07-13T19:19:41.000Z",
+      "url": "https://www.androidauthority.com/oneplus-may-announce-departure-this-week-3687028/",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2026/04/OnePlus-Nord-6.jpg",
+      "summary": "OnePlus may confirm its demise in the US and Europe this week.",
+      "tags": [
+        "OPPO",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-8890d6baaf05",
+      "title": "Almost every Google Pixel 11 model appears on FCC website",
+      "source": "9to5Google",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-13",
+      "time": "18:32",
+      "publishedAt": "2026-07-13T18:32:06.000Z",
+      "url": "https://9to5google.com/2026/07/13/google-pixel-11-models-appear-fcc-website/",
+      "image": "",
+      "summary": "Following a pretty big retail leak, the Pixel 11 series appears in listings on the FCC’s website as Google’s launch closes in.",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-56059e992125",
+      "title": "Pixel phones are getting a handy upgrade for ringtone, alarm, and notification controls",
+      "source": "Android Authority",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-13",
+      "time": "18:26",
+      "publishedAt": "2026-07-13T18:26:54.000Z",
+      "url": "https://www.androidauthority.com/google-pixel-sounds-app-volume-sliders-apk-teardown-3682557/",
+      "image": "",
+      "summary": "A practical addition on the Pixel 11 could be joined by a feature users have been waiting years to see.",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-adeef9e58000",
+      "title": "Pixel 11’s Tensor G6 chip beats the iPhone 18 to TSMC’s 2nm process",
+      "source": "9to5Google",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-13",
+      "time": "18:10",
+      "publishedAt": "2026-07-13T18:10:00.000Z",
+      "url": "https://9to5google.com/2026/07/13/pixel-11-tensor-g6-upgrade-tsmc-2nm/",
+      "image": "",
+      "summary": "While Google’s next Tensor chipset in the Pixel 11 series isn’t expecting to be a gamechanger by any means, it sounds like it will be right on the bleeding edge, as a new report c…",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-c69474fe5444",
       "title": "Pixel 11 series gets ready for launch, with the rest of the family hitting the FCC",
@@ -362,26 +462,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "coolapk-user-0a991fdadb24",
-      "title": "竹本青：蓝狐 Aura A1 手机进入量产确认环节： 联发科G100",
-      "source": "竹本青",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-07-13",
-      "time": "11:42",
-      "publishedAt": "2026-07-13T11:42:30.000Z",
-      "url": "https://www.coolapk.com/feed/72767960",
-      "image": "http://image.coolapk.com/feed/2026/0713/19/4248714_94b90dbb_2949_4943_817@640x360.jpg",
-      "summary": "【蓝狐 Aura A1 手机进入量产确认： 联发科G100，90Hz LCD小屏，可选白面板】 7月13日，蓝狐BLUEFOX发布视频，透露全新Aura A1（β）手机已进入最终的量产确认环节。此前，该机已有完整配置信息流出： 核心： ● 4.7英寸90Hz LCD屏 ● 联发科 G100处理器 ● LPDDR4X+UFS2.2 ● 3500mAh+18W…",
-      "tags": [
-        "行业",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
       "id": "auto-f97e59876a6b",
       "title": "5 Android features I miss every time I switch to an iPhone",
       "source": "Android Authority",
@@ -499,26 +579,6 @@ window.phoneRadarAuto = {
         "Pixel",
         "评测",
         "自动抓取"
-      ]
-    },
-    {
-      "id": "coolapk-user-f9c96a8f6f97",
-      "title": "竹本青：ColorOS 16 已支持锁屏自定义指纹样式",
-      "source": "竹本青",
-      "brand": "OPPO",
-      "model": "OPPO 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-07-13",
-      "time": "08:43",
-      "publishedAt": "2026-07-13T08:43:03.000Z",
-      "url": "https://www.coolapk.com/feed/72765614",
-      "image": "http://image.coolapk.com/feed/2026/0713/16/4248714_c80cf367_2180_907_57@1080x1656.jpg",
-      "summary": "【ColorOS 16 现已支持锁屏自定义指纹样式】 表情/数字/字母/汉字/动画 效果自由搭配； 使用方法：设置 → 桌面 → 锁屏与个性化 → 更多 → 指纹样式。 #ColorOS16# #今日热点# #OPPOFindX9Ultra#",
-      "tags": [
-        "OPPO",
-        "爆料",
-        "酷安博主"
       ]
     },
     {
@@ -942,6 +1002,46 @@ window.phoneRadarAuto = {
       ]
     },
     {
+      "id": "newsnow-a1b5d87db0be",
+      "title": "阶跃星辰首款智能体手机STEPX Neo亮相",
+      "source": "酷安热榜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-07-13",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/72769161",
+      "image": "",
+      "summary": "阶跃星辰首款智能体手机STEPX Neo亮相",
+      "tags": [
+        "行业",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-d65529c3f19c",
+      "title": "蓝狐 Aura A1 手机进入量产确认环节： 联发科G100",
+      "source": "酷安热榜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-07-13",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/72767960",
+      "image": "",
+      "summary": "蓝狐 Aura A1 手机进入量产确认环节： 联发科G100",
+      "tags": [
+        "行业",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
       "id": "newsnow-dbd9e02e8acb",
       "title": "女朋友的眼光我实在不敢恭维[真正的音乐]我说了贼丑，非要买，还说好看/流行，说别人都觉得好看（ps：估计是小某书的人）有没有裤友来点评或者分享一下自己的手机壳，真是我眼光问题？[doge笑哭][doge笑哭] #iPhone17#",
       "source": "酷安热榜",
@@ -962,21 +1062,21 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-a1b5d87db0be",
-      "title": "阶跃星辰首款智能体手机STEPX Neo亮相",
-      "source": "酷安热榜",
-      "brand": "行业",
-      "model": "智能手机市场",
+      "id": "newsnow-cbd4960a3a2b",
+      "title": "曝iPhone 20系列将回归玻璃材质",
+      "source": "今日头条热榜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
       "type": "爆料",
-      "trust": "高关注爆料源",
+      "trust": "媒体汇总",
       "date": "2026-07-13",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72769161",
+      "url": "https://www.toutiao.com/trending/7661625304379031588/",
       "image": "",
-      "summary": "阶跃星辰首款智能体手机STEPX Neo亮相",
+      "summary": "曝iPhone 20系列将回归玻璃材质",
       "tags": [
-        "行业",
+        "iPhone",
         "爆料",
         "NewsNow"
       ]
