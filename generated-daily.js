@@ -1,11 +1,11 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-07-13T11:28:01.499Z",
+  "updatedAt": "2026-07-13T15:10:37.816Z",
   "issueDate": "2026-07-13",
   "issue": "VOL.260713",
   "title": "手机情报日报",
-  "intro": "今日筛出 12 条重点，其中 8 条是重点爆料，包含 4 条 iPhone 相关、1 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 13 条重点，其中 8 条是重点爆料，包含 4 条 iPhone 相关、1 条官方确认、0 条参数线索。",
   "stats": {
-    "total": 12,
+    "total": 13,
     "iphone": 4,
     "leaks": 8,
     "official": 1,
@@ -18,23 +18,24 @@ window.phoneRadarDaily = {
       "hint": "机模、配色、影像、屏幕、电池和芯片线索先看。",
       "items": [
         {
-          "id": "newsnow-b80628630296",
-          "title": "我所有的手机里，只有iPhone的屏幕是我只要看一会儿，再去看别的地方，就会模糊，然后需要很久才会恢复，iPhone17pro如此，iPhone16pro亦如此，发完这条，我感觉眼睛已经难受的不行了，可能我真适应不了iPhone这块屏幕吧。",
+          "id": "auto-c4efe506d9d0",
+          "title": "iPhone 芯片 / 性能相关消息",
           "originalTitle": "",
-          "source": "酷安热榜",
+          "source": "MacRumors",
           "brand": "iPhone",
           "type": "爆料",
-          "trust": "高关注爆料源",
+          "trust": "媒体汇总",
           "date": "2026-07-13",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://www.coolapk.com/feed/72741085",
-          "image": "",
+          "time": "14:44",
+          "publishedAt": "2026-07-13T14:44:21.000Z",
+          "url": "https://www.macrumors.com/2026/07/13/apples-steady-iphone-pricing-pays-off/",
+          "image": "https://images.macrumors.com/article-new/2025/09/better-iphone-17-lineup.jpg",
           "verdict": "先看",
-          "takeaway": "我所有的手机里，只有iPhone的屏幕是我只要看一会儿，再去看别的地方，就会模糊，然后需要很久才会恢复，iPhone17pro如此，iPhone16pro亦如此，发完这条，我感觉眼睛已经难受的不行了，可能我真适应不了iPhone这块屏幕吧。",
-          "detail": "我所有的手机里，只有iPhone的屏幕是我只要看一会儿，再去看别的地方，就会模糊，然后需要很久才会恢复，iPhone17pro如此，iPhone16pro亦如此，发完这条，我感觉眼睛已经难受的不行了，可能我真适应不了iPhone这块屏幕吧。",
+          "takeaway": "iPhone 芯片 / 性能相关消息。如果涉及订阅、售价或硬件成本，才需要进一步看细节。",
+          "detail": "iPhone 芯片 / 性能相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
           "keyPoints": [
-            "屏幕形态"
+            "芯片 / 性能",
+            "成本 / 价格"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
@@ -58,76 +59,6 @@ window.phoneRadarDaily = {
           "detail": "iPhone 功能更新或覆盖范围扩大。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
           "keyPoints": [
             "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "auto-4449dbb2d5a3",
-          "title": "HMD Asha 505 手机曝光，背面相机模组设计类似诺基亚 Lumia 830",
-          "originalTitle": "",
-          "source": "IT之家",
-          "brand": "行业",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-07-13",
-          "time": "08:00",
-          "publishedAt": "2026-07-13T08:00:07.000Z",
-          "url": "https://www.ithome.com/0/976/042.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/7/e4e6b25a-77c1-41f0-ab38-b5dea1f29dcc.png?x-bce-process=image/format,f_auto",
-          "verdict": "先看",
-          "takeaway": "IT之家 7 月 13 日消息，消息源 smashx_60 现已曝光了 HMD Asha 505 手机，该机预计将随同 先前曝光的 Asha 305 ，作为 HMD 复活诺基亚经典 Asha 子品牌后的首批产品登场。 该机整体规格也相当入门，正面配备一块 5 英寸 720P 60Hz 非全面屏面板，匹配 5MP 自拍摄像头；手机背面配备 8MP 主摄，背部…",
-          "detail": "IT之家 7 月 13 日消息，消息源 smashx_60 现已曝光了 HMD Asha 505 手机，该机预计将随同 先前曝光的 Asha 305 ，作为 HMD 复活诺基亚经典 Asha 子品牌后的首批产品登场。 该机整体规格也相当入门，正面配备一块 5 英寸 720P 60Hz 非全面屏面板，匹配 5MP 自拍摄像头；手机背面配备 8MP 主摄，背部…",
-          "keyPoints": [
-            "外观 / 配色 / 尺寸",
-            "影像硬件"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "auto-7476c76d274c",
-          "title": "消息称三星 Galaxy Z TriFold 2 三折叠手机将延后上市，筹备多年的卷轴屏手机有望提前推出",
-          "originalTitle": "",
-          "source": "IT之家",
-          "brand": "Samsung",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-07-13",
-          "time": "07:19",
-          "publishedAt": "2026-07-13T07:19:20.000Z",
-          "url": "https://www.ithome.com/0/976/015.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/7/f1f012cb-fea0-443d-8de0-7808f756db61.jpg?x-bce-process=image/format,f_auto",
-          "verdict": "先看",
-          "takeaway": "IT之家 7 月 13 日消息，消息源 yeux1122 发文，透露 三星 Galaxy Z TriFold 2 三折叠手机将延后上市，而筹备多年的卷轴屏手机则有望提前推出。 在三星 Galaxy Z TriFold 2 方面，目前三星正在重新设计该机铰链系统，能够让几乎所有铰链组件保持相近厚度，以进一步降低整机厚度和重量。 作为参考，现款 Galaxy…",
-          "detail": "IT之家 7 月 13 日消息，消息源 yeux1122 发文，透露 三星 Galaxy Z TriFold 2 三折叠手机将延后上市，而筹备多年的卷轴屏手机则有望提前推出。 在三星 Galaxy Z TriFold 2 方面，目前三星正在重新设计该机铰链系统，能够让几乎所有铰链组件保持相近厚度，以进一步降低整机厚度和重量。 作为参考，现款 Galaxy…",
-          "keyPoints": [
-            "爆料来源"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "auto-e455d208e6fc",
-          "title": "同级首发液气混合散热：努比亚发布 Neo 5 GT Special Edition 智能手机",
-          "originalTitle": "",
-          "source": "IT之家",
-          "brand": "行业",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-07-13",
-          "time": "07:26",
-          "publishedAt": "2026-07-13T07:26:15.000Z",
-          "url": "https://www.ithome.com/0/976/022.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/7/c1a2ace4-91b8-403e-b0f5-e99fbb1490fd.jpg",
-          "verdict": "先看",
-          "takeaway": "IT之家 7 月 13 日消息，努比亚 (nubia) 本月 8 日发布 Neo 5 GT Special Edition 智能手机。这一款式号称 同级首发液冷 + 风冷混合散热 ， 拥有同级唯一纯平背部设计 。 努比亚 Neo 5 GT Special Edition 基于联发科天玑 7400 芯片 ，存储器配置为 12GB + 256GB / 12GB…",
-          "detail": "IT之家 7 月 13 日消息，努比亚 (nubia) 本月 8 日发布 Neo 5 GT Special Edition 智能手机。这一款式号称 同级首发液冷 + 风冷混合散热 ， 拥有同级唯一纯平背部设计 。 努比亚 Neo 5 GT Special Edition 基于联发科天玑 7400 芯片 ，存储器配置为 12GB + 256GB / 12GB…",
-          "keyPoints": [
-            "芯片 / 性能"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
@@ -202,6 +133,78 @@ window.phoneRadarDaily = {
             "爆料来源"
           ],
           "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "coolapk-user-0a991fdadb24",
+          "title": "竹本青：蓝狐 Aura A1 手机进入量产确认环节： 联发科G100",
+          "originalTitle": "",
+          "source": "竹本青",
+          "brand": "行业",
+          "type": "爆料",
+          "trust": "高可信爆料",
+          "date": "2026-07-13",
+          "time": "11:42",
+          "publishedAt": "2026-07-13T11:42:30.000Z",
+          "url": "https://www.coolapk.com/feed/72767960",
+          "image": "http://image.coolapk.com/feed/2026/0713/19/4248714_94b90dbb_2949_4943_817@640x360.jpg",
+          "verdict": "先看",
+          "takeaway": "【蓝狐 Aura A1 手机进入量产确认： 联发科G100，90Hz LCD小屏，可选白面板】 7月13日，蓝狐BLUEFOX发布视频，透露全新Aura A1（β）手机已进入最终的量产确认环节。此前，该机已有完整配置信息流出： 核心： ● 4.7英寸90Hz LCD屏 ● 联发科 G100处理器 ● LPDDR4X+UFS2.2 ● 3500mAh+18W…",
+          "detail": "【蓝狐 Aura A1 手机进入量产确认： 联发科G100，90Hz LCD小屏，可选白面板】 7月13日，蓝狐BLUEFOX发布视频，透露全新Aura A1（β）手机已进入最终的量产确认环节。此前，该机已有完整配置信息流出： 核心： ● 4.7英寸90Hz LCD屏 ● 联发科 G100处理器 ● LPDDR4X+UFS2.2 ● 3500mAh+18W…",
+          "keyPoints": [
+            "芯片 / 性能",
+            "爆料来源"
+          ],
+          "confidence": "可信度较高，但仍属于发布前线索。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "auto-fd7f0eb82040",
+          "title": "Samsung 折叠屏相关消息",
+          "originalTitle": "",
+          "source": "Android Authority",
+          "brand": "Samsung",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-07-13",
+          "time": "13:07",
+          "publishedAt": "2026-07-13T13:07:05.000Z",
+          "url": "https://www.androidauthority.com/galaxy-z-fold-8-ultra-creaseless-display-leak-3686860/",
+          "image": "https://www.androidauthority.com/wp-content/uploads/2025/07/samsung-galaxy-z-fold-7-open-in-hand.jpg",
+          "verdict": "先看",
+          "takeaway": "Samsung 折叠屏相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
+          "detail": "Samsung 折叠屏相关消息。重点看折痕、铰链、厚度、屏幕可靠性和重量是否有实质改善。",
+          "keyPoints": [
+            "屏幕形态",
+            "爆料来源"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "auto-35989cb57d3c",
+          "title": "Huawei 折叠屏相关消息",
+          "originalTitle": "",
+          "source": "Huawei Central",
+          "brand": "Huawei",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-07-13",
+          "time": "11:54",
+          "publishedAt": "2026-07-13T11:54:01.000Z",
+          "url": "https://www.huaweicentral.com/huaweis-wide-non-foldable-phone-could-follow-pura-x-screen-size/",
+          "image": "https://www.huaweicentral.com/wp-content/uploads/2026/07/non-foldable-leak-img.jpg",
+          "verdict": "先看",
+          "takeaway": "Huawei 折叠屏相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
+          "detail": "Huawei 折叠屏相关消息。重点看折痕、铰链、厚度、屏幕可靠性和重量是否有实质改善。",
+          "keyPoints": [
+            "屏幕形态",
+            "爆料来源"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         }
@@ -295,6 +298,29 @@ window.phoneRadarDaily = {
       "title": "行业趋势",
       "hint": "看方向，不急着当购买依据。",
       "items": [
+        {
+          "id": "auto-19ff18062666",
+          "title": "业内人士称阶跃终端首款智能体手机 STEPX Neo 属自主设计，与魅族“没啥关系”",
+          "originalTitle": "",
+          "source": "IT之家",
+          "brand": "行业",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-07-13",
+          "time": "14:26",
+          "publishedAt": "2026-07-13T14:26:21.000Z",
+          "url": "https://www.ithome.com/0/976/226.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/7/f3c2f4ae-e6ca-49ad-a051-916401bfd0e7.jpg?x-bce-process=image/format,f_auto",
+          "verdict": "扫一眼",
+          "takeaway": "IT之家 7 月 13 日消息， 阶跃终端品牌旗下首款智能体手机 STEPX Neo 今晚正式亮相 ，机身背面配备交互副屏，搭载智能体原生系统 Step AOS。 虽然官方并未公布这款手机的更多信息，但却引发了网友对于新机和魅族之间关系的讨论。IT之家注意到，业内人士 @布鲁卡 今日发文对此进行了说明： 还是那句，这年头还闯入手机市场都是勇气可嘉的，尊重劳…",
+          "detail": "IT之家 7 月 13 日消息， 阶跃终端品牌旗下首款智能体手机 STEPX Neo 今晚正式亮相 ，机身背面配备交互副屏，搭载智能体原生系统 Step AOS。 虽然官方并未公布这款手机的更多信息，但却引发了网友对于新机和魅族之间关系的讨论。IT之家注意到，业内人士 @布鲁卡 今日发文对此进行了说明： 还是那句，这年头还闯入手机市场都是勇气可嘉的，尊重劳…",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "中文源可以直接点开快读；看完只保留和购机有关的点。"
+        },
         {
           "id": "coolapk-user-f9c96a8f6f97",
           "title": "竹本青：ColorOS 16 已支持锁屏自定义指纹样式",

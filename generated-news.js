@@ -1,6 +1,206 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-07-13T11:28:01.499Z",
+  "updatedAt": "2026-07-13T15:10:37.816Z",
   "news": [
+    {
+      "id": "auto-d0b7bc61c3c0",
+      "title": "2025's best Motorola phone just landed an EPIC $150 discount at Best Buy",
+      "source": "Android Central",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-07-13",
+      "time": "14:46",
+      "publishedAt": "2026-07-13T14:46:42.000Z",
+      "url": "https://www.androidcentral.com/phones/motorola/2025s-best-motorola-phone-just-landed-an-epic-usd150-discount-at-best-buy",
+      "image": "https://cdn.mos.cms.futurecdn.net/WbguC4Z5QYuASTYrWYZpgN-1280-80.jpg",
+      "summary": "The Motorola Edge 2025 still holds up, especially at this price.",
+      "tags": [
+        "行业",
+        "评测",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-c4efe506d9d0",
+      "title": "Apple's Steady iPhone Pricing Pays Off as Rivals Scramble",
+      "source": "MacRumors",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-13",
+      "time": "14:44",
+      "publishedAt": "2026-07-13T14:44:21.000Z",
+      "url": "https://www.macrumors.com/2026/07/13/apples-steady-iphone-pricing-pays-off/",
+      "image": "https://images.macrumors.com/article-new/2025/09/better-iphone-17-lineup.jpg",
+      "summary": "Apple captured a record 20% share of the global smartphone market in the second quarter of 2026, even as worldwide shipments fell 4% year-over-year amid an ongoing memory chip sho…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-50bc63a32692",
+      "title": "OPPO ColorOS 16 开放锁屏指纹样式自定义，支持汉字、数字、字母、表情、动画自由组合",
+      "source": "IT之家",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-13",
+      "time": "14:40",
+      "publishedAt": "2026-07-13T14:40:59.000Z",
+      "url": "https://www.ithome.com/0/976/230.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/7/1bc1ba00-9a70-4386-8703-f3c72ea6ffdc.jpg?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 7 月 13 日消息，OPPO、一加手机操作系统官方微博今日宣布， ColorOS 系统上线了锁屏指纹样式自定义功能 ，支持汉字、数字、字母、表情、动画自由组合。 IT之家查询获悉， 该功能需要系统版本升级至 16.0.9.400 及以上版本 ，没有收到更新的可以进入尝鲜板块进行申请。 另外， OPPO ColorOS 六月更新已于 6 月 3…",
+      "tags": [
+        "OPPO",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-a501c5795d0f",
+      "title": "This might be the Pixel 11, Pixel 11 Pro, and Fold in their new colors [Gallery]",
+      "source": "9to5Google",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-13",
+      "time": "14:30",
+      "publishedAt": "2026-07-13T14:30:00.000Z",
+      "url": "https://9to5google.com/2026/07/13/this-might-be-the-pixel-11-in-three-colors-gallery/",
+      "image": "",
+      "summary": "Google’s Pixel 11 series is almost exactly a month from its official launch and, ahead of that, an early trio of Amazon listings appears to show off the base model in three colorw…",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-19ff18062666",
+      "title": "业内人士称阶跃终端首款智能体手机 STEPX Neo 属自主设计，与魅族“没啥关系”",
+      "source": "IT之家",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-13",
+      "time": "14:26",
+      "publishedAt": "2026-07-13T14:26:21.000Z",
+      "url": "https://www.ithome.com/0/976/226.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/7/f3c2f4ae-e6ca-49ad-a051-916401bfd0e7.jpg?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 7 月 13 日消息， 阶跃终端品牌旗下首款智能体手机 STEPX Neo 今晚正式亮相 ，机身背面配备交互副屏，搭载智能体原生系统 Step AOS。 虽然官方并未公布这款手机的更多信息，但却引发了网友对于新机和魅族之间关系的讨论。IT之家注意到，业内人士 @布鲁卡 今日发文对此进行了说明： 还是那句，这年头还闯入手机市场都是勇气可嘉的，尊重劳…",
+      "tags": [
+        "行业",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-fe52188ad35f",
+      "title": "Galaxy Z Flip 8 may let you use its cover screen like a regular smartphone",
+      "source": "SamMobile",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-13",
+      "time": "14:19",
+      "publishedAt": "2026-07-13T14:19:50.000Z",
+      "url": "https://www.sammobile.com/news/galaxy-z-flip-8-may-let-you-use-cover-screen-like-regular-smartphone/",
+      "image": "",
+      "summary": "Almost every new Galaxy Z Flip has featured a larger cover display than its predecessor, and Samsung has steadily expanded what users can do with it. Even so, the cover screen exp…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-fd7f0eb82040",
+      "title": "The Galaxy Z Fold 8 Ultra’s creaseless display just leaked, and it looks impressive",
+      "source": "Android Authority",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-13",
+      "time": "13:07",
+      "publishedAt": "2026-07-13T13:07:05.000Z",
+      "url": "https://www.androidauthority.com/galaxy-z-fold-8-ultra-creaseless-display-leak-3686860/",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2025/07/samsung-galaxy-z-fold-7-open-in-hand.jpg",
+      "summary": "If this leak is any indication, the Z Fold 8 Ultra might just win me over.",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-35989cb57d3c",
+      "title": "Huawei’s wide non-foldable phone could follow Pura X screen size",
+      "source": "Huawei Central",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-13",
+      "time": "11:54",
+      "publishedAt": "2026-07-13T11:54:01.000Z",
+      "url": "https://www.huaweicentral.com/huaweis-wide-non-foldable-phone-could-follow-pura-x-screen-size/",
+      "image": "https://www.huaweicentral.com/wp-content/uploads/2026/07/non-foldable-leak-img.jpg",
+      "summary": "Huawei’s wide, non-foldable phone is catching traction in the leaks section for its interesting form factor, and the latest input for this device sheds light on its screen size. A…",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-02d623ff1bdb",
+      "title": "Galaxy Z Fold 8 Ultra, Fold 8 may feature faster wireless charging",
+      "source": "SamMobile",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-13",
+      "time": "11:46",
+      "publishedAt": "2026-07-13T11:46:28.000Z",
+      "url": "https://www.sammobile.com/news/galaxy-z-fold-8-ultra-fold-8-may-feature-faster-wireless-charging/",
+      "image": "",
+      "summary": "From the Galaxy Z Fold 4 to the latest Galaxy Z Fold 7, Samsung has equipped every model in the lineup with the same 15W wireless charging speed. While that's sufficient for most…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-0a991fdadb24",
+      "title": "竹本青：蓝狐 Aura A1 手机进入量产确认环节： 联发科G100",
+      "source": "竹本青",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-07-13",
+      "time": "11:42",
+      "publishedAt": "2026-07-13T11:42:30.000Z",
+      "url": "https://www.coolapk.com/feed/72767960",
+      "image": "http://image.coolapk.com/feed/2026/0713/19/4248714_94b90dbb_2949_4943_817@640x360.jpg",
+      "summary": "【蓝狐 Aura A1 手机进入量产确认： 联发科G100，90Hz LCD小屏，可选白面板】 7月13日，蓝狐BLUEFOX发布视频，透露全新Aura A1（β）手机已进入最终的量产确认环节。此前，该机已有完整配置信息流出： 核心： ● 4.7英寸90Hz LCD屏 ● 联发科 G100处理器 ● LPDDR4X+UFS2.2 ● 3500mAh+18W…",
+      "tags": [
+        "行业",
+        "爆料",
+        "酷安博主"
+      ]
+    },
     {
       "id": "auto-f97e59876a6b",
       "title": "5 Android features I miss every time I switch to an iPhone",
@@ -122,26 +322,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-a81fee673638",
-      "title": "卢伟冰晒小米澎程近两年路测实拍记录图，2024 年 10 月首台测试车正式上路",
-      "source": "IT之家",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-13",
-      "time": "08:44",
-      "publishedAt": "2026-07-13T08:44:32.000Z",
-      "url": "https://www.ithome.com/0/976/095.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/7/ad70ffc0-c4b8-4216-9a46-a18fc7f9056d.jpg",
-      "summary": "IT之家 7 月 13 日消息，小米澎程官方微博今日发文称，2024 年 10 月 12 日，小米澎程第一台测试车就已经正式上路。截至 6 月 30 日，累计道路测试 626 天， 历经两冬两夏，投入测试车辆 566 台，累计实测里程达 428 万公里 。 IT之家注意到，小米集团合伙人 / 总裁、手机部总裁、小米品牌总经理卢伟冰今日晒出了小米澎程近两年路…",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "coolapk-user-f9c96a8f6f97",
       "title": "竹本青：ColorOS 16 已支持锁屏自定义指纹样式",
       "source": "竹本青",
@@ -182,66 +362,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-4449dbb2d5a3",
-      "title": "HMD Asha 505 手机曝光，背面相机模组设计类似诺基亚 Lumia 830",
-      "source": "IT之家",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-13",
-      "time": "08:00",
-      "publishedAt": "2026-07-13T08:00:07.000Z",
-      "url": "https://www.ithome.com/0/976/042.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/7/e4e6b25a-77c1-41f0-ab38-b5dea1f29dcc.png?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 7 月 13 日消息，消息源 smashx_60 现已曝光了 HMD Asha 505 手机，该机预计将随同 先前曝光的 Asha 305 ，作为 HMD 复活诺基亚经典 Asha 子品牌后的首批产品登场。 该机整体规格也相当入门，正面配备一块 5 英寸 720P 60Hz 非全面屏面板，匹配 5MP 自拍摄像头；手机背面配备 8MP 主摄，背部…",
-      "tags": [
-        "行业",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-e455d208e6fc",
-      "title": "同级首发液气混合散热：努比亚发布 Neo 5 GT Special Edition 智能手机",
-      "source": "IT之家",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-13",
-      "time": "07:26",
-      "publishedAt": "2026-07-13T07:26:15.000Z",
-      "url": "https://www.ithome.com/0/976/022.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/7/c1a2ace4-91b8-403e-b0f5-e99fbb1490fd.jpg",
-      "summary": "IT之家 7 月 13 日消息，努比亚 (nubia) 本月 8 日发布 Neo 5 GT Special Edition 智能手机。这一款式号称 同级首发液冷 + 风冷混合散热 ， 拥有同级唯一纯平背部设计 。 努比亚 Neo 5 GT Special Edition 基于联发科天玑 7400 芯片 ，存储器配置为 12GB + 256GB / 12GB…",
-      "tags": [
-        "行业",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-7476c76d274c",
-      "title": "消息称三星 Galaxy Z TriFold 2 三折叠手机将延后上市，筹备多年的卷轴屏手机有望提前推出",
-      "source": "IT之家",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-13",
-      "time": "07:19",
-      "publishedAt": "2026-07-13T07:19:20.000Z",
-      "url": "https://www.ithome.com/0/976/015.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/7/f1f012cb-fea0-443d-8de0-7808f756db61.jpg?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 7 月 13 日消息，消息源 yeux1122 发文，透露 三星 Galaxy Z TriFold 2 三折叠手机将延后上市，而筹备多年的卷轴屏手机则有望提前推出。 在三星 Galaxy Z TriFold 2 方面，目前三星正在重新设计该机铰链系统，能够让几乎所有铰链组件保持相近厚度，以进一步降低整机厚度和重量。 作为参考，现款 Galaxy…",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-0a9150a5140e",
       "title": "Pixel 11 Pro Fold FCC filing hints at Google's biggest modem upgrade yet",
       "source": "Android Central",
@@ -258,6 +378,26 @@ window.phoneRadarAuto = {
       "tags": [
         "Samsung",
         "评测",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-b5c20ab63987",
+      "title": "Google Pixel 11 Pro Fold leak reveals what’s different this year",
+      "source": "Android Police",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-13",
+      "time": "06:09",
+      "publishedAt": "2026-07-13T06:09:48.000Z",
+      "url": "https://www.androidpolice.com/google-pixel-11-pro-fold-leak-reveals-whats-different-this-year/",
+      "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2025/10/img_0390.jpg",
+      "summary": "A slightly redesigned camera island",
+      "tags": [
+        "Pixel",
+        "爆料",
         "自动抓取"
       ]
     },
@@ -439,26 +579,6 @@ window.phoneRadarAuto = {
         "Xiaomi",
         "爆料",
         "酷安博主"
-      ]
-    },
-    {
-      "id": "auto-5655c47adf60",
-      "title": "Galaxy Z Fold 8 Ultra could bring an unexpected display upgrade",
-      "source": "SamMobile",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-13",
-      "time": "03:17",
-      "publishedAt": "2026-07-13T03:17:19.000Z",
-      "url": "https://www.sammobile.com/news/galaxy-z-fold-8-ultra-unexpected-display-upgrade/",
-      "image": "https://www.sammobile.com/wp-content/uploads/2024/01/Galaxy-S24-Ultra-anti-reflective-Gorilla-Glass-Armor.jpg",
-      "summary": "Despite having the same-sized display as its predecessor, the Galaxy Z Fold 8 Ultra is rumored to bring two display improvements: a brighter screen and a less visible crease. Now,…",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
       ]
     },
     {
@@ -722,81 +842,21 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-b80628630296",
-      "title": "我所有的手机里，只有iPhone的屏幕是我只要看一会儿，再去看别的地方，就会模糊，然后需要很久才会恢复，iPhone17pro如此，iPhone16pro亦如此，发完这条，我感觉眼睛已经难受的不行了，可能我真适应不了iPhone这块屏幕吧。",
-      "source": "酷安热榜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-07-13",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72741085",
-      "image": "",
-      "summary": "我所有的手机里，只有iPhone的屏幕是我只要看一会儿，再去看别的地方，就会模糊，然后需要很久才会恢复，iPhone17pro如此，iPhone16pro亦如此，发完这条，我感觉眼睛已经难受的不行了，可能我真适应不了iPhone这块屏幕吧。",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-d84a8c3118bc",
-      "title": "iPhone20再曝光",
-      "source": "微博热搜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "待验证",
-      "date": "2026-07-13",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://s.weibo.com/weibo?q=%23iPhone20%E5%86%8D%E6%9B%9D%E5%85%89%23&t=31&band_rank=28&Refer=top",
-      "image": "",
-      "summary": "iPhone20再曝光",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-febd471f139a",
-      "title": "新能源车成「快消品」，平均车龄仅 1.8 年，年轻人为何把电车当手机一样换这么频繁？",
-      "source": "知乎热榜",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "市场报告",
-      "trust": "媒体汇总",
-      "date": "2026-07-13",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.zhihu.com/question/2059928907206472162",
-      "image": "",
-      "summary": "新能源车成「快消品」，平均车龄仅 1.8 年，年轻人为何把电车当手机一样换这么频繁？",
-      "tags": [
-        "行业",
-        "市场报告",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-b3646d9c0989",
-      "title": "印度男子火车窗外抢手机被乘客抓住",
+      "id": "newsnow-cbd4960a3a2b",
+      "title": "曝iPhone 20系列将回归玻璃材质",
       "source": "今日头条热榜",
-      "brand": "行业",
-      "model": "智能手机市场",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
       "type": "爆料",
       "trust": "媒体汇总",
       "date": "2026-07-13",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.toutiao.com/trending/7661635592107737115/",
+      "url": "https://www.toutiao.com/trending/7661625304379031588/",
       "image": "",
-      "summary": "印度男子火车窗外抢手机被乘客抓住",
+      "summary": "曝iPhone 20系列将回归玻璃材质",
       "tags": [
-        "行业",
+        "iPhone",
         "爆料",
         "NewsNow"
       ]
@@ -855,6 +915,26 @@ window.phoneRadarAuto = {
       "url": "https://9to5google.com/2026/07/12/pixel-11-pro-pine-color-leak/",
       "image": "",
       "summary": "With the launch event one month away , Pixel 11 leaks are picking up, and we now have a look at the “Pine” color for the 11 Pro Fold.",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-e805138824f3",
+      "title": "The Tensor G6 isn't a downgrade at all; it's Google admitting what really matters",
+      "source": "Android Police",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-12",
+      "time": "17:30",
+      "publishedAt": "2026-07-12T17:30:10.000Z",
+      "url": "https://www.androidpolice.com/tensor-g6-downgrade-is-smart/",
+      "image": "",
+      "summary": "Google ditched the CPU core race and the Pixel 11 is better for it",
       "tags": [
         "Pixel",
         "爆料",
