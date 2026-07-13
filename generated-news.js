@@ -1,6 +1,26 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-07-13T19:48:11.817Z",
+  "updatedAt": "2026-07-13T21:12:18.579Z",
   "news": [
+    {
+      "id": "auto-6fe6c6b082c2",
+      "title": "The Pixel colors might rule this year",
+      "source": "The Verge",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-13",
+      "time": "20:53",
+      "publishedAt": "2026-07-13T20:53:57.000Z",
+      "url": "https://www.theverge.com/tech/964972/google-pixel-11-colors-rumor",
+      "image": "",
+      "summary": "This year's Google Pixel 11 lineup might come in a bunch of funky colors. A series of now-deleted Amazon listings spotted by 9to5Google show what appear to be placeholders for Goo…",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-04ae817bcb64",
       "title": "Pixel 11 colors and details revealed in Amazon error",
@@ -1055,26 +1075,6 @@ window.phoneRadarAuto = {
       "url": "https://www.coolapk.com/feed/72757666",
       "image": "",
       "summary": "女朋友的眼光我实在不敢恭维[真正的音乐]我说了贼丑，非要买，还说好看/流行，说别人都觉得好看（ps：估计是小某书的人）有没有裤友来点评或者分享一下自己的手机壳，真是我眼光问题？[doge笑哭][doge笑哭] #iPhone17#",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-cbd4960a3a2b",
-      "title": "曝iPhone 20系列将回归玻璃材质",
-      "source": "今日头条热榜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-13",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.toutiao.com/trending/7661625304379031588/",
-      "image": "",
-      "summary": "曝iPhone 20系列将回归玻璃材质",
       "tags": [
         "iPhone",
         "爆料",
