@@ -1,6 +1,286 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-07-14T11:43:35.937Z",
+  "updatedAt": "2026-07-14T14:12:43.807Z",
   "news": [
+    {
+      "id": "auto-bd9acb30f1c8",
+      "title": "Huawei Pura 90s Pro and Pro Max launch globally; Pro Max features industry-first 200MP RYYB telephoto, LOFIC tech",
+      "source": "Gizmochina",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-14",
+      "time": "13:56",
+      "publishedAt": "2026-07-14T13:56:07.000Z",
+      "url": "https://www.gizmochina.com/2026/07/14/huawei-pura-90s-pro-and-pro-max-launch-globally-pro-max-features-industry-first-200mp-ryyb-telephoto-lofic-tech/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/07/Screenshot-2026-07-14-162202-300x169.png?x44794",
+      "summary": "Huawei just officially rolled out the Pura 90s Pro and Pura 90s Pro Max to international markets, giving the Pura 90 lineup a proper global push beyond China. The two models share…",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-471859d5a69e",
+      "title": "Will Samsung fans accept the Galaxy Z Flip 8 if this controversial leak is true?",
+      "source": "Android Authority",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-14",
+      "time": "13:42",
+      "publishedAt": "2026-07-14T13:42:23.000Z",
+      "url": "https://www.androidauthority.com/samsung-galaxy-z-fold-8-flip-8-specs-leak-3687283/",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2025/08/samsung-galaxy-z-flip-7-review-17-scaled.jpg",
+      "summary": "Leaks claim the new clamshell offers almost no changes beyond the SoC, despite a rumored price bump.",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-499dcb2e63d6",
+      "title": "How the 20th anniversary iPhone will provide a ‘single slab of glass’ look",
+      "source": "9to5Mac",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-14",
+      "time": "13:39",
+      "publishedAt": "2026-07-14T13:39:34.000Z",
+      "url": "https://9to5mac.com/2026/07/14/how-the-20th-anniversary-iphone-will-provide-a-single-slab-of-glass-look/",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/05/iphone-20th-anniversary-color-wave.jpg?quality=82&strip=all&w=1600",
+      "summary": "Former Apple design chief Jony Ive always described his long-term vision for the iPhone design as “a single slab of glass.” Apple is believed to have retained that goal long after…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-8da87b4321e6",
+      "title": "Galaxy S26 Ultra users report display red tint issue, Samsung investigates",
+      "source": "SamMobile",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-14",
+      "time": "13:08",
+      "publishedAt": "2026-07-14T13:08:41.000Z",
+      "url": "https://www.sammobile.com/news/galaxy-s26-ultra-users-report-display-red-tint-issue-samsung-investigates/",
+      "image": "https://www.sammobile.com/wp-content/uploads/2026/07/Samsung-Galaxy-S26-Ultra-Display-Red-Tint-Issue.jpg",
+      "summary": "Many users of Samsung's latest flagship non-foldable phone, the Galaxy S26 Ultra, have started reporting that the center portion of the phone's display is developing a permanent r…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-27d89cd7bfe2",
+      "title": "竹本青：【消息称今年Q4将是手机价格高点，华为也难避免涨价】 7月14日，博主「RD观测」发文谈硬件存储与手机市场全面涨价…",
+      "source": "竹本青",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-07-14",
+      "time": "13:00",
+      "publishedAt": "2026-07-14T13:00:38.000Z",
+      "url": "https://www.coolapk.com/feed/72783115",
+      "image": "http://image.coolapk.com/feed/2026/0714/21/4248714_a3eb6792_4036_7449_976@1440x2118.jpg",
+      "summary": "【消息称今年Q4将是手机价格高点，华为也难避免涨价】 7月14日，博主「RD观测」发文谈硬件存储与手机市场全面涨价。他表示，对于存储，国内的手机厂商一般是签半年的协议，个别厂商可能会签一年，所以目前一部分仍有老库存的厂商在利用老库存来扛着。 按照目前的情况来看，涨幅放缓，涨价/季度绝对值变化不大，今年Q4应该是价格高点，明年会不会降下来还尚未可知，在可预见…",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-ced89905295b",
+      "title": "Factories Now Ready for iPhone 20's Glass Redesign, Leaker Claims",
+      "source": "MacRumors",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-14",
+      "time": "12:47",
+      "publishedAt": "2026-07-14T12:47:03.000Z",
+      "url": "https://www.macrumors.com/2026/07/14/factories-ready-for-iphone-20-glass-redesign/",
+      "image": "https://images.macrumors.com/article-new/2025/02/iphone-air-camera.jpg",
+      "summary": "Facilities in Apple's supply chain have finished renovations ahead of \"iPhone 20\" production, according to a Weibo leaker who says Apple's 20th-anniversary iPhone will move to an…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-b458afccb4ba",
+      "title": "竹本青：看见 #红米note17Pro# 配置，只能说，Note11 TP系列的含金量还在上升 当然，硬件行情和产品定位也…",
+      "source": "竹本青",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-07-14",
+      "time": "12:34",
+      "publishedAt": "2026-07-14T12:34:05.000Z",
+      "url": "https://www.coolapk.com/feed/72782723",
+      "image": "",
+      "summary": "看见 #红米note17Pro# 配置，只能说，Note11 TP系列的含金量还在上升 当然，硬件行情和产品定位也都今非昔比，只不过粗略说售价 #红米Note11TPro# #HyperOS3#",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "weibo-2bd4efdc6e9e",
+      "title": "数码闲聊站：REDMI Note17 Pro真机上手： ●先嗦一下，性能机用户可以看看降价…",
+      "source": "数码闲聊站",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-07-14",
+      "time": "12:31",
+      "publishedAt": "2026-07-14T12:31:50.000Z",
+      "url": "https://weibo.com/6048569942/R8FY2uTf3",
+      "image": "https://tvax2.sinaimg.cn/mw2000/006BlblIgy1if3e94fsefj335s2dce83.jpg",
+      "summary": "REDMI Note17 Pro真机上手： ●先嗦一下，性能机用户可以看看降价的K和Turbo，Note17 Pro这代延续超强抗摔+满级防水，首发带2年碎屏保+2年进水保+2年后盖保+5年电池升级到10000mAh，主打一个随便折腾。 ●屏幕是6.83\"1.5K LTPS，升级了旗舰级发光材料，实测阳光模式下全屏最高1060nit，户外可用性大大提升；再…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "微博"
+      ]
+    },
+    {
+      "id": "auto-32888b41145a",
+      "title": "Massive Pixel 11 leak just revealed almost everything about Google's next phones",
+      "source": "Android Central",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-07-14",
+      "time": "12:30",
+      "publishedAt": "2026-07-14T12:30:46.000Z",
+      "url": "https://www.androidcentral.com/phones/google-pixel/massive-pixel-11-leak-just-revealed-almost-everything-about-googles-next-phones",
+      "image": "https://cdn.mos.cms.futurecdn.net/pvCA5GuuD5a85GCPGUyAs9-1280-80.jpg",
+      "summary": "Google accidentally listed the entire Pixel 11 series on Amazon, revealing pricing, specs, colors, and storage options nearly a month before launch.",
+      "tags": [
+        "Pixel",
+        "评测",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-f9b1d1635241",
+      "title": "存储成本上涨致手机涨价：消息称今年 Q4 应是价格高点，在可预见的六个季度内情况不容乐观",
+      "source": "IT之家",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-14",
+      "time": "12:26",
+      "publishedAt": "2026-07-14T12:26:22.000Z",
+      "url": "https://www.ithome.com/0/976/721.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/1/57a9c81b-a82d-4fce-9035-e3658b49714f.jpg?x-bce-process=image/auto-orient,o_1",
+      "summary": "IT之家 7 月 14 日消息，博主 @RD观测 今日发文谈及了存储成本上涨与手机涨价的相关话题。他表示，对于存储，国内的手机厂商一般是签半年的协议，个别厂商可能会签一年，所以目前一部分仍有老库存的厂商在利用老库存来扛着。 博主称，按照目前的情况来看，涨幅放缓，涨价 / 季度绝对值变化不大，今年 Q4 应该是价格高点，明年会不会降下来还尚未可知， 在可预见…",
+      "tags": [
+        "行业",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-18990af89836",
+      "title": "Huawei Mate 90 Pro Max could be first phone to use LogicFolding Kirin chip",
+      "source": "Huawei Central",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-14",
+      "time": "12:23",
+      "publishedAt": "2026-07-14T12:23:16.000Z",
+      "url": "https://www.huaweicentral.com/huawei-mate-90-pro-max-logicfolding-kirin-chip/",
+      "image": "https://www.huaweicentral.com/wp-content/uploads/2026/05/Kirin-SoC.jpg",
+      "summary": "Huawei will launch its LogicFolding-based Kirin chip this year, and the Mate 90 Pro Max could be the first flagship smartphone to feature the new mobile SoC. A new leak sheds ligh…",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-86a83035d65b",
+      "title": "竹本青：有没有酷友知道，为什么Find X7 Ultra以后就没有“超级卡”功能了，是被集成，还是下架了",
+      "source": "竹本青",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-07-14",
+      "time": "12:14",
+      "publishedAt": "2026-07-14T12:14:48.000Z",
+      "url": "https://www.coolapk.com/feed/72782419",
+      "image": "http://image.coolapk.com/feed/2026/0714/20/4248714_dcf0ebba_1287_222_133@1439x1473.jpg",
+      "summary": "有没有酷友知道，为什么Find X7 Ultra以后就没有“超级卡”功能了，是被集成，还是下架了",
+      "tags": [
+        "OPPO",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-96d6bb954d6a",
+      "title": "First details of the Galaxy S27 Ultra’s rear camera design emerge",
+      "source": "SamMobile",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-14",
+      "time": "11:54",
+      "publishedAt": "2026-07-14T11:54:38.000Z",
+      "url": "https://www.sammobile.com/news/galaxy-s27-ultra-rear-camera-design-appears-leak/",
+      "image": "",
+      "summary": "We are still at least six months away from the possible launch of the Galaxy S27 series, but information about its specifications has already begun to emerge. The Galaxy S27 Ultra…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-b50a61432298",
+      "title": "Upcoming Poco M8 Power could pack an 8,000mAh battery, 7-inch OLED display",
+      "source": "Gizmochina",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-14",
+      "time": "11:53",
+      "publishedAt": "2026-07-14T11:53:27.000Z",
+      "url": "https://www.gizmochina.com/2026/07/14/poco-m8-power-redmi-note-17-global-india-specifications/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/07/Redmi-Note-17-puprle1-300x300.jpg?x44794",
+      "summary": "Redmi has just unveiled the Redmi Note 17 series of smartphones in China. In the coming days, the Note 17 lineup is also expected to head to global markets. The overseas versions…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "weibo-f1ad7828900e",
       "title": "数码闲聊站：REDMI Note 17 Pro，这价格可还行？ 8GB+128GB——15…",
@@ -42,46 +322,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "coolapk-user-05efc4ef1911",
-      "title": "JSCHEN小小狐：REDMI Note 17 正式发布：售价 1299 元起",
-      "source": "JSCHEN小小狐",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-07-14",
-      "time": "11:26",
-      "publishedAt": "2026-07-14T11:26:42.000Z",
-      "url": "https://www.coolapk.com/feed/72781717",
-      "image": "http://image.coolapk.com/feed/2026/0714/19/4702274_8403522a_8432_5951_309@1440x1920.jpg",
-      "summary": "『REDMI Note 17 正式发布：售价 1299 元起』 6GB + 128GB —— 1299 元 8GB + 128GB —— 1399 元（原价 1499） 8GB + 256GB —— 1599 元（原价 1699） ◇ 外观 浅水青、流星紫、黑色 塑料边框 + 微曲塑料背板 宽 79.14mm，厚 8.26mm，225g ◇ 性能 骁龙 4…",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
-      "id": "coolapk-user-5abf37be2138",
-      "title": "JSCHEN小小狐：REDMI Note 17 Pro 发布：售价 1599 元起",
-      "source": "JSCHEN小小狐",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-07-14",
-      "time": "11:22",
-      "publishedAt": "2026-07-14T11:22:03.000Z",
-      "url": "https://www.coolapk.com/feed/72781643",
-      "image": "http://image.coolapk.com/feed/2026/0714/19/4702274_faf08102_8114_5834_84@1440x1920.jpg",
-      "summary": "『REDMI Note 17 Pro 发布：售价 1599 元起』 8GB + 128GB —— 1599 元 8GB + 256GB —— 1699 元（原价 1899） 12GB + 256GB —— 1999 元（原价 2199） 8GB + 512GB —— 2099 元（原价 2299） ◇ 外观 晴空蓝、星云紫、白色、黑色 塑料边框 + 复合板…",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
       "id": "auto-8150446302b4",
       "title": "小米 REDMI Note 17 Pro 手机发布：9000mAh 电池、骁龙 6s Gen 4 处理器，1599 元起",
       "source": "IT之家",
@@ -99,6 +339,26 @@ window.phoneRadarAuto = {
         "Xiaomi",
         "爆料",
         "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-fb223b4da2dd",
+      "title": "竹本青：【REDMI Note 17系列 正式发布：标准版首销1299元起，Pro版首销1599元起】 Note 17 标…",
+      "source": "竹本青",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-07-14",
+      "time": "11:20",
+      "publishedAt": "2026-07-14T11:20:43.000Z",
+      "url": "https://www.coolapk.com/feed/72781624",
+      "image": "http://image.coolapk.com/feed/2026/0714/19/4248714_9974062f_8439_418_554@1440x2670.jpg",
+      "summary": "【REDMI Note 17系列 正式发布：标准版首销1299元起，Pro版首销1599元起】 Note 17 标准版 6GB+128GB —— 1299元 8GB+128GB —— 1399元（首销） 8GB+256GB —— 1599元（首销） Note 17 Pro 8GB+128GB —— 1599元 8GB+256GB —— 1699元（首销）…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "酷安博主"
       ]
     },
     {
@@ -237,26 +497,6 @@ window.phoneRadarAuto = {
       "summary": "IT之家 7 月 14 日消息，消息源 smashx_60 现已曝光了 HMD XploraOne Neo 儿童手机，该产品提供三种配色可选，预计将接替 现款 XploraOne 机型 。 该机可选三种配色，拥有 IP54 认证，手机正面配备一块 3.5 英寸 240x320 分辨率 LCD 面板，手机背面搭载 2MP 主摄。该机搭载 64MB RAM 和…",
       "tags": [
         "行业",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-461a0cf0cb68",
-      "title": "OPPO 相机滤镜「和光」&「反差黑白」适配更多机型，含 Find X8、Reno 15 等系列手机",
-      "source": "IT之家",
-      "brand": "OPPO",
-      "model": "OPPO 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-14",
-      "time": "08:59",
-      "publishedAt": "2026-07-14T08:59:44.000Z",
-      "url": "https://www.ithome.com/0/976/602.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/7/0d5b7912-d445-4c8f-bc0a-365a35b79b8d.jpg?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 7 月 14 日消息，OPPO ColorOS 官方微博今日宣布， OPPO 相机滤镜「和光」&「反差黑白」已适配更多机型 ，主打“人像、探店、城市街拍、风景静物全覆盖”。 从官方海报来看，支持和光与反差黑白两款滤镜的机型范围是： OPPO Find X9 系列 / OPPO Find X8 系列 / OPPO Find N6 / OPPO Fi…",
-      "tags": [
-        "OPPO",
         "爆料",
         "自动抓取"
       ]
@@ -562,26 +802,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "coolapk-user-2e829c8aac97",
-      "title": "竹本青：【REDMI Note 17 新配色「浅水青」官图公布】 像水流掠过青色山影，清透、轻盈，又带着一份安静，化作山涧…",
-      "source": "竹本青",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-07-14",
-      "time": "03:01",
-      "publishedAt": "2026-07-14T03:01:36.000Z",
-      "url": "https://www.coolapk.com/feed/72775229",
-      "image": "http://image.coolapk.com/feed/2026/0714/11/4248714_305d2a2e_8093_7545_18@1080x1080.jpg",
-      "summary": "【REDMI Note 17 新配色「浅水青」官图公布】 像水流掠过青色山影，清透、轻盈，又带着一份安静，化作山涧溪流（REDMI手机） #今日热点# #红米Note17# #红米note17Pro#",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
       "id": "weibo-f045c0c88e56",
       "title": "数码闲聊站：2026Q2全球智能手机市场TOP5： ①三星24％、②苹果20％、③小米12…",
       "source": "数码闲聊站",
@@ -599,26 +819,6 @@ window.phoneRadarAuto = {
         "Huawei",
         "爆料",
         "微博"
-      ]
-    },
-    {
-      "id": "coolapk-user-6731cad26bba",
-      "title": "竹本青：REDMI Note 17 Pro 全新配色「星云紫」官图公布",
-      "source": "竹本青",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-07-14",
-      "time": "02:04",
-      "publishedAt": "2026-07-14T02:04:52.000Z",
-      "url": "https://www.coolapk.com/feed/72774537",
-      "image": "http://image.coolapk.com/feed/2026/0714/10/4248714_90dc50bb_4689_9205_731@1080x1080.jpg",
-      "summary": "【REDMI Note 17 Pro 全新配色「星云紫」官图公布】 暮光将至，晚霞未散，夜色初临；用一抹梦幻的紫晕开微光，把星云般的浪漫与精致，留在掌心。（REDMI手机） #今日热点# #红米note17Pro# #HyperOS3#",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "酷安博主"
       ]
     },
     {
@@ -762,6 +962,46 @@ window.phoneRadarAuto = {
       ]
     },
     {
+      "id": "newsnow-46949e3821ce",
+      "title": "REDMI Note 17 Pro 发布：售价 1599 元起",
+      "source": "酷安热榜",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-07-14",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/72781643",
+      "image": "",
+      "summary": "REDMI Note 17 Pro 发布：售价 1599 元起",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-3d0f9114a328",
+      "title": "2026年下半年，各大手机品牌的重磅新机即将陆续登场。所以，我们想听听你的真实想法：",
+      "source": "酷安热榜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-07-14",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/72780505",
+      "image": "",
+      "summary": "2026年下半年，各大手机品牌的重磅新机即将陆续登场。所以，我们想听听你的真实想法：",
+      "tags": [
+        "行业",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
       "id": "newsnow-769f5e65252b",
       "title": "蓝狐 Aura A1 手机进入量产确认环节： 联发科G100",
       "source": "酷安热榜",
@@ -782,8 +1022,8 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-19a8babfc09f",
-      "title": "REDMI K100 Pro Max 核心曝光：185Hz超清直屏",
+      "id": "newsnow-edd7e2fc4c04",
+      "title": "REDMI Note 17 正式发布：售价 1299 元起",
       "source": "酷安热榜",
       "brand": "Xiaomi",
       "model": "Xiaomi 相关机型",
@@ -792,9 +1032,9 @@ window.phoneRadarAuto = {
       "date": "2026-07-14",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72773968",
+      "url": "https://www.coolapk.com/feed/72781717",
       "image": "",
-      "summary": "REDMI K100 Pro Max 核心曝光：185Hz超清直屏",
+      "summary": "REDMI Note 17 正式发布：售价 1299 元起",
       "tags": [
         "Xiaomi",
         "爆料",
@@ -822,21 +1062,21 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-5d3fc36ec4cc",
-      "title": "Pura X Max 、iPhone Air 、iphone17 Pro Max 交替使用感受",
+      "id": "newsnow-19a8babfc09f",
+      "title": "REDMI K100 Pro Max 核心曝光：185Hz超清直屏",
       "source": "酷安热榜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-07-14",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72765903",
+      "url": "https://www.coolapk.com/feed/72773968",
       "image": "",
-      "summary": "Pura X Max 、iPhone Air 、iphone17 Pro Max 交替使用感受",
+      "summary": "REDMI K100 Pro Max 核心曝光：185Hz超清直屏",
       "tags": [
-        "iPhone",
+        "Xiaomi",
         "爆料",
         "NewsNow"
       ]
@@ -918,46 +1158,6 @@ window.phoneRadarAuto = {
       "tags": [
         "OPPO",
         "评测",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-6fe6c6b082c2",
-      "title": "The Pixel colors might rule this year",
-      "source": "The Verge",
-      "brand": "Pixel",
-      "model": "Pixel 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-13",
-      "time": "20:53",
-      "publishedAt": "2026-07-13T20:53:57.000Z",
-      "url": "https://www.theverge.com/tech/964972/google-pixel-11-colors-rumor",
-      "image": "",
-      "summary": "This year's Google Pixel 11 lineup might come in a bunch of funky colors. A series of now-deleted Amazon listings spotted by 9to5Google show what appear to be placeholders for Goo…",
-      "tags": [
-        "Pixel",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-04ae817bcb64",
-      "title": "Pixel 11 colors and details revealed in Amazon error",
-      "source": "Android Police",
-      "brand": "Pixel",
-      "model": "Pixel 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-13",
-      "time": "19:20",
-      "publishedAt": "2026-07-13T19:20:19.000Z",
-      "url": "https://www.androidpolice.com/pixel-11-colors-and-prices-revealed-in-amazon-error/",
-      "image": "",
-      "summary": "A Google Pixel Tag could be coming",
-      "tags": [
-        "Pixel",
-        "爆料",
         "自动抓取"
       ]
     },
