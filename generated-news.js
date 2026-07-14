@@ -1,6 +1,166 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-07-14T10:09:28.304Z",
+  "updatedAt": "2026-07-14T11:43:35.937Z",
   "news": [
+    {
+      "id": "weibo-f1ad7828900e",
+      "title": "数码闲聊站：REDMI Note 17 Pro，这价格可还行？ 8GB+128GB——15…",
+      "source": "数码闲聊站",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-07-14",
+      "time": "11:29",
+      "publishedAt": "2026-07-14T11:29:27.000Z",
+      "url": "https://weibo.com/6048569942/R8FyIlQ5J",
+      "image": "",
+      "summary": "REDMI Note 17 Pro，这价格可还行？ 8GB+128GB——1599元 8GB+256GB——1699元 12GB+256GB——1999元 8GB+512GB——2099元",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "微博"
+      ]
+    },
+    {
+      "id": "auto-d5f72542b5c0",
+      "title": "iPhone 17 Pricing Helped Apple Buck China's Q2 Smartphone Decline",
+      "source": "MacRumors",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-14",
+      "time": "11:27",
+      "publishedAt": "2026-07-14T11:27:09.000Z",
+      "url": "https://www.macrumors.com/2026/07/14/iphone-17-pricing-helped-apple-china-q2-26/",
+      "image": "https://images.macrumors.com/article-new/2025/09/iPhone-17-Review-Thumb-3.jpg",
+      "summary": "Apple grew iPhone shipments in China by 24.4 percent year over year in the second quarter of 2026, making it the fastest-growing smartphone brand in a market that shrank overall,…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-05efc4ef1911",
+      "title": "JSCHEN小小狐：REDMI Note 17 正式发布：售价 1299 元起",
+      "source": "JSCHEN小小狐",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-07-14",
+      "time": "11:26",
+      "publishedAt": "2026-07-14T11:26:42.000Z",
+      "url": "https://www.coolapk.com/feed/72781717",
+      "image": "http://image.coolapk.com/feed/2026/0714/19/4702274_8403522a_8432_5951_309@1440x1920.jpg",
+      "summary": "『REDMI Note 17 正式发布：售价 1299 元起』 6GB + 128GB —— 1299 元 8GB + 128GB —— 1399 元（原价 1499） 8GB + 256GB —— 1599 元（原价 1699） ◇ 外观 浅水青、流星紫、黑色 塑料边框 + 微曲塑料背板 宽 79.14mm，厚 8.26mm，225g ◇ 性能 骁龙 4…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "coolapk-user-5abf37be2138",
+      "title": "JSCHEN小小狐：REDMI Note 17 Pro 发布：售价 1599 元起",
+      "source": "JSCHEN小小狐",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-07-14",
+      "time": "11:22",
+      "publishedAt": "2026-07-14T11:22:03.000Z",
+      "url": "https://www.coolapk.com/feed/72781643",
+      "image": "http://image.coolapk.com/feed/2026/0714/19/4702274_faf08102_8114_5834_84@1440x1920.jpg",
+      "summary": "『REDMI Note 17 Pro 发布：售价 1599 元起』 8GB + 128GB —— 1599 元 8GB + 256GB —— 1699 元（原价 1899） 12GB + 256GB —— 1999 元（原价 2199） 8GB + 512GB —— 2099 元（原价 2299） ◇ 外观 晴空蓝、星云紫、白色、黑色 塑料边框 + 复合板…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-8150446302b4",
+      "title": "小米 REDMI Note 17 Pro 手机发布：9000mAh 电池、骁龙 6s Gen 4 处理器，1599 元起",
+      "source": "IT之家",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-14",
+      "time": "11:21",
+      "publishedAt": "2026-07-14T11:21:12.000Z",
+      "url": "https://www.ithome.com/0/976/707.htm",
+      "image": "https://img14.360buyimg.com/pop/jfs/t1/476283/10/5441/44548/6a4ce21aFff0afa45/0083320320302b67.jpg",
+      "summary": "IT之家 7 月 14 日消息，在今天的发布会中，小米 REDMI Note 17 Pro 手机正式发布，定价为 1599 元起。 8GB RAM + 128GB 存储空间：1599 元 8GB RAM + 256GB 存储空间：1899 元，首发价 1699 元 12GB RAM + 256GB 存储空间：2199 元，首发价 1999 元 8GB RA…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-e6f4b966ee67",
+      "title": "Huawei launches first 5G global flagship phone in years",
+      "source": "Huawei Central",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-14",
+      "time": "11:14",
+      "publishedAt": "2026-07-14T11:14:35.000Z",
+      "url": "https://www.huaweicentral.com/huawei-launches-first-5g-global-flagship-phone-in-years/",
+      "image": "https://www.huaweicentral.com/wp-content/uploads/2026/07/Pura90sProMax-1.jpg",
+      "summary": "Huawei Pura 90s series has stepped into the overseas market with various surprises in terms of camera, chip performance, and beauty, though the biggest one among these is the “ret…",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-88ab0398cc70",
+      "title": "Upcoming Redmi K100 series phone to pack 185Hz display, 9,000mAh battery, 200MP camera, and more",
+      "source": "Gizmochina",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-14",
+      "time": "10:42",
+      "publishedAt": "2026-07-14T10:42:23.000Z",
+      "url": "https://www.gizmochina.com/2026/07/14/alleged-redmi-k100-pro-max-specifications-tipped/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2025/12/Redmi-K90-Prro-Max-300x225.jpg?x44794",
+      "summary": "There have been reports suggesting that Redmi could unveil the Redmi K100 series as early as next month. One reason behind the expected early launch is that the upcoming models ar…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-25a1afc0dd6a",
+      "title": "Galaxy S26 Ultra users report “red tint” on the display; Samsung investigating",
+      "source": "Gizmochina",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-14",
+      "time": "10:25",
+      "publishedAt": "2026-07-14T10:25:19.000Z",
+      "url": "https://www.gizmochina.com/2026/07/14/galaxy-s26-ultra-users-report-red-tint-on-the-display-samsung-investigating/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/07/a-red-tint-issue-on-the-s26-ultra-display-please-check-your-v0-o2x5fvkk50dh1-300x169.jpg?x44794",
+      "summary": "Premium flagship phones aren’t immune to issues. Just months after launch, some owners of the Galaxy S26 Ultra are reporting a reddish tint appearing right in the center of the sc…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-fec90ec63d45",
       "title": "After a month with the Razr Fold, I can’t go back to the Galaxy Z Fold 7",
@@ -115,26 +275,6 @@ window.phoneRadarAuto = {
       "url": "https://www.huaweicentral.com/huawei-emui-16-debuts-with-smarter-and-smoother-features/",
       "image": "https://www.huaweicentral.com/wp-content/uploads/2026/07/emui16-img1.jpg",
       "summary": "After two years of waiting, Huawei has finally debuted EMUI 16 with the all-new camera flagship – Pura 90s series. It seems the wait was worth it, as the latest OS upgrade promise…",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-bdc8b8911479",
-      "title": "翻开新篇章！华为海外发布 Pura 90s Pro 系列手机，官网正式标注 5G NR 参数",
-      "source": "IT之家",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-14",
-      "time": "08:05",
-      "publishedAt": "2026-07-14T08:05:56.000Z",
-      "url": "https://www.ithome.com/0/976/562.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/7/09881cda-1b46-4531-9086-e02b7d8d06c0.jpg?x-bce-process=image/format,f_auto/auto-orient,o_1",
-      "summary": "IT之家 7 月 14 日消息，在“Now is Your Moment”主题旗舰产品发布会上，华为正式面向国际市场发布了 Pura 90s Pro 系列手机，包括 Pro 和 Pro Max 两款机型。 此前有海外账号提前爆料，称 Pura 90 Pro Max 国际版（目前来看该机为 Pura 90s Pro Max）支持 5G 网络，且状态栏可以显示…",
       "tags": [
         "Huawei",
         "爆料",
@@ -662,6 +802,26 @@ window.phoneRadarAuto = {
       ]
     },
     {
+      "id": "newsnow-cd9514fe920e",
+      "title": "如果iPhone 20真是这样，真的有种当年iPhone X的震撼。说实话现在对苹果的产品基本祛魅，iPhone17Pro也就那样，Air倒是还可以，每天也喜欢拿在手上。iPhone 20如果像图上那样我是真喜欢，可惜还要等1年，这个图也不一定准确。#iPhone17ProMax# #iPhone17# #iPhoneAir#",
+      "source": "酷安热榜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-07-14",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/72774779",
+      "image": "",
+      "summary": "如果iPhone 20真是这样，真的有种当年iPhone X的震撼。说实话现在对苹果的产品基本祛魅，iPhone17Pro也就那样，Air倒是还可以，每天也喜欢拿在手上。iPhone 20如果像图上那样我是真喜欢，可惜还要等1年，这个图也不一定准确。#iPhone17ProMax# #iPhone17# #iPhoneAir#",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
       "id": "newsnow-5d3fc36ec4cc",
       "title": "Pura X Max 、iPhone Air 、iphone17 Pro Max 交替使用感受",
       "source": "酷安热榜",
@@ -1097,26 +1257,6 @@ window.phoneRadarAuto = {
       "summary": "Google’s Pixel 11 series is almost exactly a month from its official launch and, ahead of that, an early trio of Amazon listings appears to show off the base model in three colorw…",
       "tags": [
         "Pixel",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-fe52188ad35f",
-      "title": "Galaxy Z Flip 8 may let you use its cover screen like a regular smartphone",
-      "source": "SamMobile",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-13",
-      "time": "14:19",
-      "publishedAt": "2026-07-13T14:19:50.000Z",
-      "url": "https://www.sammobile.com/news/galaxy-z-flip-8-may-let-you-use-cover-screen-like-regular-smartphone/",
-      "image": "",
-      "summary": "Almost every new Galaxy Z Flip has featured a larger cover display than its predecessor, and Samsung has steadily expanded what users can do with it. Even so, the cover screen exp…",
-      "tags": [
-        "Samsung",
         "爆料",
         "自动抓取"
       ]

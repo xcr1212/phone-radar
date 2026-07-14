@@ -1,12 +1,12 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-07-14T10:09:28.304Z",
+  "updatedAt": "2026-07-14T11:43:35.937Z",
   "issueDate": "2026-07-14",
   "issue": "VOL.260714",
   "title": "手机情报日报",
-  "intro": "今日筛出 8 条重点，其中 8 条是重点爆料，包含 1 条 iPhone 相关、0 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 8 条重点，其中 8 条是重点爆料，包含 2 条 iPhone 相关、0 条官方确认、0 条参数线索。",
   "stats": {
     "total": 8,
-    "iphone": 1,
+    "iphone": 2,
     "leaks": 8,
     "official": 0,
     "specs": 0
@@ -37,6 +37,29 @@ window.phoneRadarDaily = {
             "外观 / 配色 / 尺寸",
             "成本 / 价格",
             "爆料来源"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "auto-d5f72542b5c0",
+          "title": "iPhone 17 价格 / 成本相关消息",
+          "originalTitle": "",
+          "source": "MacRumors",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-07-14",
+          "time": "11:27",
+          "publishedAt": "2026-07-14T11:27:09.000Z",
+          "url": "https://www.macrumors.com/2026/07/14/iphone-17-pricing-helped-apple-china-q2-26/",
+          "image": "https://images.macrumors.com/article-new/2025/09/iPhone-17-Review-Thumb-3.jpg",
+          "verdict": "先看",
+          "takeaway": "iPhone 17 价格 / 成本相关消息。如果涉及订阅、售价或硬件成本，才需要进一步看细节。",
+          "detail": "iPhone 17 价格 / 成本相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
+          "keyPoints": [
+            "成本 / 价格"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
@@ -137,6 +160,30 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
+          "id": "auto-8150446302b4",
+          "title": "小米 REDMI Note 17 Pro 手机发布：9000mAh 电池、骁龙 6s Gen 4 处理器，1599 元起",
+          "originalTitle": "",
+          "source": "IT之家",
+          "brand": "Xiaomi",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-07-14",
+          "time": "11:21",
+          "publishedAt": "2026-07-14T11:21:12.000Z",
+          "url": "https://www.ithome.com/0/976/707.htm",
+          "image": "https://img14.360buyimg.com/pop/jfs/t1/476283/10/5441/44548/6a4ce21aFff0afa45/0083320320302b67.jpg",
+          "verdict": "先看",
+          "takeaway": "IT之家 7 月 14 日消息，在今天的发布会中，小米 REDMI Note 17 Pro 手机正式发布，定价为 1599 元起。 8GB RAM + 128GB 存储空间：1599 元 8GB RAM + 256GB 存储空间：1899 元，首发价 1699 元 12GB RAM + 256GB 存储空间：2199 元，首发价 1999 元 8GB RA…",
+          "detail": "IT之家 7 月 14 日消息，在今天的发布会中，小米 REDMI Note 17 Pro 手机正式发布，定价为 1599 元起。 8GB RAM + 128GB 存储空间：1599 元 8GB RAM + 256GB 存储空间：1899 元，首发价 1699 元 12GB RAM + 256GB 存储空间：2199 元，首发价 1999 元 8GB RA…",
+          "keyPoints": [
+            "电池 / 充电",
+            "芯片 / 性能"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
           "id": "auto-461a0cf0cb68",
           "title": "OPPO 相机滤镜「和光」&「反差黑白」适配更多机型，含 Find X8、Reno 15 等系列手机",
           "originalTitle": "",
@@ -157,52 +204,6 @@ window.phoneRadarDaily = {
             "影像硬件"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "auto-bdc8b8911479",
-          "title": "翻开新篇章！华为海外发布 Pura 90s Pro 系列手机，官网正式标注 5G NR 参数",
-          "originalTitle": "",
-          "source": "IT之家",
-          "brand": "Huawei",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-07-14",
-          "time": "08:05",
-          "publishedAt": "2026-07-14T08:05:56.000Z",
-          "url": "https://www.ithome.com/0/976/562.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/7/09881cda-1b46-4531-9086-e02b7d8d06c0.jpg?x-bce-process=image/format,f_auto/auto-orient,o_1",
-          "verdict": "先看",
-          "takeaway": "IT之家 7 月 14 日消息，在“Now is Your Moment”主题旗舰产品发布会上，华为正式面向国际市场发布了 Pura 90s Pro 系列手机，包括 Pro 和 Pro Max 两款机型。 此前有海外账号提前爆料，称 Pura 90 Pro Max 国际版（目前来看该机为 Pura 90s Pro Max）支持 5G 网络，且状态栏可以显示…",
-          "detail": "IT之家 7 月 14 日消息，在“Now is Your Moment”主题旗舰产品发布会上，华为正式面向国际市场发布了 Pura 90s Pro 系列手机，包括 Pro 和 Pro Max 两款机型。 此前有海外账号提前爆料，称 Pura 90 Pro Max 国际版（目前来看该机为 Pura 90s Pro Max）支持 5G 网络，且状态栏可以显示…",
-          "keyPoints": [
-            "爆料来源"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "weibo-1c0c9b425ea7",
-          "title": "数码闲聊站：IDC公布2026Q2中国市场智能手机出货量： ①华为—1492W—份额22.…",
-          "originalTitle": "",
-          "source": "数码闲聊站",
-          "brand": "HONOR",
-          "type": "爆料",
-          "trust": "高关注爆料源",
-          "date": "2026-07-14",
-          "time": "07:08",
-          "publishedAt": "2026-07-14T07:08:00.000Z",
-          "url": "https://weibo.com/6048569942/R8DQACoQw",
-          "image": "",
-          "verdict": "先看",
-          "takeaway": "IDC公布2026Q2中国市场智能手机出货量： ①华为—1492W—份额22.6%—同比增长19.4％ ②苹果—1195W—份额18.1%—同比增长24.4％ ③OPPO—1056W—份额16.0%—同比下滑9.7％ ③vivo—1056W—份额16.0%—同比下滑11.4％ ⑤小米—819W—份额12.4%—同比下滑21.7％ ⑥荣耀—746W—份额11…",
-          "detail": "IDC公布2026Q2中国市场智能手机出货量： ①华为—1492W—份额22.6%—同比增长19.4％ ②苹果—1195W—份额18.1%—同比增长24.4％ ③OPPO—1056W—份额16.0%—同比下滑9.7％ ③vivo—1056W—份额16.0%—同比下滑11.4％ ⑤小米—819W—份额12.4%—同比下滑21.7％ ⑥荣耀—746W—份额11…",
-          "keyPoints": [
-            "爆料来源"
-          ],
-          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         }
