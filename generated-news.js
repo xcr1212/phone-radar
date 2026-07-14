@@ -1,6 +1,66 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-07-14T17:33:45.350Z",
+  "updatedAt": "2026-07-14T19:41:51.731Z",
   "news": [
+    {
+      "id": "auto-62ff4f39b448",
+      "title": "Redmi Note 17 Pro vs Redmi Note 15 Pro: Know What’s Upgraded, Downgraded, and Unchanged",
+      "source": "Gizmochina",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-14",
+      "time": "19:15",
+      "publishedAt": "2026-07-14T19:15:14.000Z",
+      "url": "https://www.gizmochina.com/2026/07/14/redmi-note-17-pro-vs-redmi-note-15-pro-comparison/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/07/Redmi-Note-17-Pro-vs-Redmi-Note-15-Pro-300x169.png?x44794",
+      "summary": "Redmi has just unveiled the Redmi Note 17 Pro as the successor to last year’s Redmi Note 15 Pro. There is speculation that the Note 17 Pro heading to the global market in the comi…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-a92885326106",
+      "title": "Redmi Note 17 Pro debuts with a massive 9,000mAh battery and flagship-grade durability",
+      "source": "Gizmochina",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-14",
+      "time": "18:11",
+      "publishedAt": "2026-07-14T18:11:54.000Z",
+      "url": "https://www.gizmochina.com/2026/07/14/redmi-note-17-pro-launched-specs-price/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/07/Redmi-Note-17-Pro-300x143.png?x44794",
+      "summary": "Xiaomi has announced the Redmi Note 17 Pro in China, a new midrange smartphone that focuses primarily on battery capacity and physical durability. The device includes a significan…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-edf2c606a615",
+      "title": "The best Google Pixel 10 deals of July 2026 — free phones, straight discounts, and more",
+      "source": "Android Central",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-07-14",
+      "time": "17:42",
+      "publishedAt": "2026-07-14T17:42:27.000Z",
+      "url": "https://www.androidcentral.com/phones/google-pixel/best-google-pixel-10-deals-of-the-month",
+      "image": "https://cdn.mos.cms.futurecdn.net/BMPcRp4T7fJpKcsQriKWeb-1280-80.jpg",
+      "summary": "I've tracked down all of the best Google Pixel 10, Pixel 10 Pro, and Pixel 10 Pro XL deals from across the web so you don't have to go looking.",
+      "tags": [
+        "Pixel",
+        "评测",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-3156722de89b",
       "title": "Google announces Gemma 4 optimized for the Pixel 10’s TPU",
@@ -1142,46 +1202,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-29a1bc226f0c",
-      "title": "阶跃星辰首款智能体手机STEPX Neo亮相",
-      "source": "酷安热榜",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-07-14",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72769161",
-      "image": "",
-      "summary": "阶跃星辰首款智能体手机STEPX Neo亮相",
-      "tags": [
-        "行业",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-a066300e768c",
-      "title": "IDC公布第二季度全球/中国手机市场出货量数据",
-      "source": "酷安热榜",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-07-14",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72777383",
-      "image": "",
-      "summary": "IDC公布第二季度全球/中国手机市场出货量数据",
-      "tags": [
-        "行业",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
       "id": "newsnow-46949e3821ce",
       "title": "REDMI Note 17 Pro 发布：售价 1599 元起",
       "source": "酷安热榜",
@@ -1242,8 +1262,8 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-769f5e65252b",
-      "title": "蓝狐 Aura A1 手机进入量产确认环节： 联发科G100",
+      "id": "newsnow-a066300e768c",
+      "title": "IDC公布第二季度全球/中国手机市场出货量数据",
       "source": "酷安热榜",
       "brand": "行业",
       "model": "智能手机市场",
@@ -1252,9 +1272,49 @@ window.phoneRadarAuto = {
       "date": "2026-07-14",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72767960",
+      "url": "https://www.coolapk.com/feed/72777383",
       "image": "",
-      "summary": "蓝狐 Aura A1 手机进入量产确认环节： 联发科G100",
+      "summary": "IDC公布第二季度全球/中国手机市场出货量数据",
+      "tags": [
+        "行业",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-2e880c8fa2c2",
+      "title": "在自己亲身用苹果手机以前，以为买苹果的人除开女孩子喜欢拍照之外的所有人都是为了跟风为了装才买苹果，后来自己用上了才知道，对不起都是我的错，系统流畅度这一块不谈（不是要求很高，日用不是非常卡都可以接受），无论是屏幕显示，马达，音质，还有软件适配，还有一些软件的交互体验，真的是在安卓上没有体验到过的，iPhone 17pro这个屏幕也是用了这么久手机以来我认为最舒适最好的，我一加15双持和17pro双持，一加15这个屏幕我无论怎么调怎么对比都没有iPhone 17pro这个好，音质就更不说了，刷抖音外放超级舒适，不是为什么一个个嘴那么严只说拍照好[流泪][流泪][流泪]，真的回不去了，哪怕以后我还是不会放弃安卓，因为目前在生活实用性和功能性方面安卓确实更方便，但是我还是留一台苹果的[受虐滑稽][受虐滑稽][受虐滑稽]",
+      "source": "酷安热榜",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-07-14",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/72777283",
+      "image": "",
+      "summary": "在自己亲身用苹果手机以前，以为买苹果的人除开女孩子喜欢拍照之外的所有人都是为了跟风为了装才买苹果，后来自己用上了才知道，对不起都是我的错，系统流畅度这一块不谈（不是要求很高，日用不是非常卡都可以接受），无论是屏幕显示，马达，音质，还有软件适配，还有一些软件的交互体验，真的是在安卓上没有体验到过的，iPhone 17pro这个屏幕也是用了这么久手机以来我认为…",
+      "tags": [
+        "OPPO",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-29a1bc226f0c",
+      "title": "阶跃星辰首款智能体手机STEPX Neo亮相",
+      "source": "酷安热榜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-07-14",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/72769161",
+      "image": "",
+      "summary": "阶跃星辰首款智能体手机STEPX Neo亮相",
       "tags": [
         "行业",
         "爆料",
@@ -1282,21 +1342,21 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-19a8babfc09f",
-      "title": "REDMI K100 Pro Max 核心曝光：185Hz超清直屏",
+      "id": "newsnow-c39c389c7b2f",
+      "title": "安卓旗舰销量排名，iqoo 第一？！",
       "source": "酷安热榜",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
+      "brand": "vivo",
+      "model": "vivo 相关机型",
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-07-14",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72773968",
+      "url": "https://www.coolapk.com/feed/72764600",
       "image": "",
-      "summary": "REDMI K100 Pro Max 核心曝光：185Hz超清直屏",
+      "summary": "安卓旗舰销量排名，iqoo 第一？！",
       "tags": [
-        "Xiaomi",
+        "vivo",
         "爆料",
         "NewsNow"
       ]
@@ -1337,26 +1397,6 @@ window.phoneRadarAuto = {
       "summary": "Adding to an earlier report from Counterpoint Research that showed Apple posting its strongest-ever second quarter for iPhone shipments, Omdia has now published its own figures po…",
       "tags": [
         "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-f2cf247a2aec",
-      "title": "Samsung Galaxy S26 Ultra users are seeing red over screen issue",
-      "source": "Android Police",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-13",
-      "time": "22:30",
-      "publishedAt": "2026-07-13T22:30:28.000Z",
-      "url": "https://www.androidpolice.com/samsung-galaxy-s26-ultra-users-are-seeing-red-over-screen-issue/",
-      "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2026/05/samsung-galaxy-s26-ultra-finder-search.jpg",
-      "summary": "Privacy Display might be to blame",
-      "tags": [
-        "Samsung",
         "爆料",
         "自动抓取"
       ]
@@ -1642,26 +1682,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-c4efe506d9d0",
-      "title": "Apple's Steady iPhone Pricing Pays Off as Rivals Scramble",
-      "source": "MacRumors",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-13",
-      "time": "14:44",
-      "publishedAt": "2026-07-13T14:44:21.000Z",
-      "url": "https://www.macrumors.com/2026/07/13/apples-steady-iphone-pricing-pays-off/",
-      "image": "https://images.macrumors.com/article-new/2025/09/better-iphone-17-lineup.jpg",
-      "summary": "Apple captured a record 20% share of the global smartphone market in the second quarter of 2026, even as worldwide shipments fell 4% year-over-year amid an ongoing memory chip sho…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-a501c5795d0f",
       "title": "This might be the Pixel 11, Pixel 11 Pro, and Fold in their new colors [Gallery]",
       "source": "9to5Google",
@@ -1899,26 +1919,6 @@ window.phoneRadarAuto = {
         "OPPO",
         "爆料",
         "酷安博主"
-      ]
-    },
-    {
-      "id": "auto-ea11da20ae74",
-      "title": "iQOO 16 tipped with dual speakers, X-axis motor, and 8,500mAh battery in fresh leak",
-      "source": "Gizmochina",
-      "brand": "vivo",
-      "model": "vivo 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-13",
-      "time": "02:20",
-      "publishedAt": "2026-07-13T02:20:07.000Z",
-      "url": "https://www.gizmochina.com/2026/07/13/iqoo-16-tipped-with-dual-speakers-x-axis-motor-and-8500mah-battery-in-fresh-leak/",
-      "image": "https://www.gizmochina.com/wp-content/uploads/2025/12/iQOO-15-rear-225x300.jpg?x44794",
-      "summary": "Tipster Digital Chat Station has shared new details about iQOO 16 in a fresh leak this morning. According to the tipster’s latest Weibo post, an engineering sample built around th…",
-      "tags": [
-        "vivo",
-        "爆料",
-        "自动抓取"
       ]
     },
     {

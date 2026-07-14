@@ -1,12 +1,12 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-07-14T17:33:45.350Z",
+  "updatedAt": "2026-07-14T19:41:51.731Z",
   "issueDate": "2026-07-14",
   "issue": "VOL.260714",
   "title": "手机情报日报",
-  "intro": "今日筛出 8 条重点，其中 8 条是重点爆料，包含 3 条 iPhone 相关、0 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 8 条重点，其中 8 条是重点爆料，包含 2 条 iPhone 相关、0 条官方确认、0 条参数线索。",
   "stats": {
     "total": 8,
-    "iphone": 3,
+    "iphone": 2,
     "leaks": 8,
     "official": 0,
     "specs": 0
@@ -58,30 +58,6 @@ window.phoneRadarDaily = {
           "takeaway": "iPhone 17 价格 / 成本相关消息。如果涉及订阅、售价或硬件成本，才需要进一步看细节。",
           "detail": "iPhone 17 价格 / 成本相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
           "keyPoints": [
-            "成本 / 价格"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "auto-c4efe506d9d0",
-          "title": "iPhone 芯片 / 性能相关消息",
-          "originalTitle": "",
-          "source": "MacRumors",
-          "brand": "iPhone",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-07-13",
-          "time": "14:44",
-          "publishedAt": "2026-07-13T14:44:21.000Z",
-          "url": "https://www.macrumors.com/2026/07/13/apples-steady-iphone-pricing-pays-off/",
-          "image": "https://images.macrumors.com/article-new/2025/09/better-iphone-17-lineup.jpg",
-          "verdict": "先看",
-          "takeaway": "iPhone 芯片 / 性能相关消息。如果涉及订阅、售价或硬件成本，才需要进一步看细节。",
-          "detail": "iPhone 芯片 / 性能相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
-          "keyPoints": [
-            "芯片 / 性能",
             "成本 / 价格"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
@@ -202,6 +178,32 @@ window.phoneRadarDaily = {
           "takeaway": "IDC公布2026Q2中国市场智能手机出货量： ①华为—1492W—份额22.6%—同比增长19.4％ ②苹果—1195W—份额18.1%—同比增长24.4％ ③OPPO—1056W—份额16.0%—同比下滑9.7％ ③vivo—1056W—份额16.0%—同比下滑11.4％ ⑤小米—819W—份额12.4%—同比下滑21.7％ ⑥荣耀—746W—份额11…",
           "detail": "IDC公布2026Q2中国市场智能手机出货量： ①华为—1492W—份额22.6%—同比增长19.4％ ②苹果—1195W—份额18.1%—同比增长24.4％ ③OPPO—1056W—份额16.0%—同比下滑9.7％ ③vivo—1056W—份额16.0%—同比下滑11.4％ ⑤小米—819W—份额12.4%—同比下滑21.7％ ⑥荣耀—746W—份额11…",
           "keyPoints": [
+            "爆料来源"
+          ],
+          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "weibo-02e15b590dd9",
+          "title": "数码闲聊站：8月重量级的新品之一是Robot Phone，目测6.3-6.4英寸1.5K四…",
+          "originalTitle": "",
+          "source": "数码闲聊站",
+          "brand": "HONOR",
+          "type": "爆料",
+          "trust": "高关注爆料源",
+          "date": "2026-07-14",
+          "time": "04:08",
+          "publishedAt": "2026-07-14T04:08:00.000Z",
+          "url": "https://weibo.com/6048569942/R8CFx1HRD",
+          "image": "",
+          "verdict": "先看",
+          "takeaway": "8月重量级的新品之一是Robot Phone，目测6.3-6.4英寸1.5K四等边直屏，骁龙8E5处理器，200Mp F1.6 23mm 4D云台主摄+50Mp超广角+200Mp潜望长焦，阿莱影像，影像可以看作Magic9系列超前瞻，定价估计不便宜……[二哈]",
+          "detail": "8月重量级的新品之一是Robot Phone，目测6.3-6.4英寸1.5K四等边直屏，骁龙8E5处理器，200Mp F1.6 23mm 4D云台主摄+50Mp超广角+200Mp潜望长焦，阿莱影像，影像可以看作Magic9系列超前瞻，定价估计不便宜……[二哈]",
+          "keyPoints": [
+            "影像硬件",
+            "屏幕形态",
+            "芯片 / 性能",
             "爆料来源"
           ],
           "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
