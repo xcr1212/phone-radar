@@ -1,9 +1,189 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-07-14T14:12:43.807Z",
+  "updatedAt": "2026-07-14T15:44:37.625Z",
   "news": [
     {
+      "id": "auto-0ddfeec9d2f5",
+      "title": "Huawei, Apple rules Q2 2026 China’s smartphone sales with strong price game",
+      "source": "Huawei Central",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-14",
+      "time": "15:30",
+      "publishedAt": "2026-07-14T15:30:17.000Z",
+      "url": "https://www.huaweicentral.com/huawei-apple-rules-q2-2026-chinas-smartphone-sales/",
+      "image": "https://www.huaweicentral.com/wp-content/uploads/2026/07/IDC-report.jpg",
+      "summary": "Huawei and Apple are currently the leading brands in China’s smartphone sales segment for Q2 2026. While the entire market experienced a decline of 4.3% year on year, the iPhone a…",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-7916575390e4",
+      "title": "REDMI Note 17 Pro 手机体验：延续“小金刚”基因，抗摔防水大电量",
+      "source": "IT之家",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-14",
+      "time": "15:28",
+      "publishedAt": "2026-07-14T15:28:17.000Z",
+      "url": "https://www.ithome.com/0/976/760.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/7/8ace0eb6-c911-459e-866e-4521f5e973cc.jpg",
+      "summary": "7 月 14 日晚间，REDMI 举办了新品发布会，正式推出了全新 REDMI Note 17 系列新机。新机延续国民小金刚的定位，致力于打造中端手机的标杆，号称升配不升档，守住中端体验基线；同时金刚品质更抗摔防水，超长续航更持久耐用。 一直以来，REDMI 的 Note 系列从初代产品凭借亲民价格与实用配置打入市场，到后来不断迭代升级，每一代都坚持为用户…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-f3509321fdee",
+      "title": "Galaxy S27 Ultra leak says horizontal camera layout may not happen after all",
+      "source": "Gizmochina",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-14",
+      "time": "15:21",
+      "publishedAt": "2026-07-14T15:21:51.000Z",
+      "url": "https://www.gizmochina.com/2026/07/14/galaxy-s27-ultra-leak-says-horizontal-camera-layout-may-not-happen-after-all/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/07/Samsung-Galaxy-S27-Ultra-Ai-render-1024x577-1-300x169.webp?x44794",
+      "summary": "Samsung’s next Ultra flagship might not get the big design refresh that many people were hoping for. A new leak is pushing back against the widespread rumors of a completely new h…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-ee7a93b9c558",
+      "title": "REDMI Note 17 Pro 手机图赏：简洁之中透露小精致",
+      "source": "IT之家",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-14",
+      "time": "15:20",
+      "publishedAt": "2026-07-14T15:20:20.000Z",
+      "url": "https://www.ithome.com/0/976/757.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/7/8bcc06b3-9828-4937-b65e-df60b1033da3.jpg",
+      "summary": "7 月 14 日晚间，REDMI 举办了新品发布会，正式推出了全新 REDMI Note 17 系列新机。新机延续国民小金刚的定位，致力于打造中端手机的标杆，IT之家拿到了最新发布的 REDMI Note 17 Pro 星云紫版本，现在先为大家送上开箱图赏。 REDMI Note 17 Pro 的包装盒延续了此前推出的 K90 系列的包装盒风格，保持了家族…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-d48738b4994e",
+      "title": "JSCHEN小小狐：就 Note 17 / Pro 开个设置还要用静态界面假装加载出来硬控你一手的表现，我不建议任何人对它们的后续使用…",
+      "source": "JSCHEN小小狐",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-07-14",
+      "time": "14:57",
+      "publishedAt": "2026-07-14T14:57:31.000Z",
+      "url": "https://www.coolapk.com/feed/72784835",
+      "image": "http://image.coolapk.com/feed/2026/0714/22/4702274_e21acba5_1050_6866_834-uhdr@2365x3504.jpg",
+      "summary": "就 Note 17 / Pro 开个设置还要用静态界面假装加载出来硬控你一手的表现，我不建议任何人对它们的后续使用体验抱什么不切实际的期待 尤其是在这俩系统特性砍成这样的情况下[汗]",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-a8c3427a7e68",
+      "title": "Samsung could end free storage upgrades with Galaxy Z Fold 8 and Z Flip 8",
+      "source": "9to5Google",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-14",
+      "time": "14:50",
+      "publishedAt": "2026-07-14T14:50:00.000Z",
+      "url": "https://9to5google.com/2026/07/14/samsung-could-end-free-storage-upgrades-with-galaxy-z-fold-8-and-z-flip-8/",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2025/07/galaxy-z-fold-7-review-01.jpg?quality=82&strip=all&w=1600",
+      "summary": "We have some bad news if you were planning on buying the Galaxy Z Flip 8 or Fold 8 and counting on Samsung’s signature free storage upgrade.",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-ad2cabdcfa94",
+      "title": "Galaxy S25 series’ July 2026 security update goes global",
+      "source": "SamMobile",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-14",
+      "time": "14:38",
+      "publishedAt": "2026-07-14T14:38:00.000Z",
+      "url": "https://www.sammobile.com/news/galaxy-s25-series-july-2026-security-update-goes-global/",
+      "image": "",
+      "summary": "A few days ago, Samsung released a software update for the Galaxy S25, Galaxy S25+, and Galaxy S25 Ultra in its home country, South Korea, which offered the July 2026 security pat…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-d1833c647cea",
+      "title": "WhatsApp is building its own iCloud alternative for chat backups",
+      "source": "9to5Mac",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-14",
+      "time": "14:25",
+      "publishedAt": "2026-07-14T14:25:34.000Z",
+      "url": "https://9to5mac.com/2026/07/14/whatsapp-is-building-its-own-icloud-alternative-for-chat-backups/",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/11/whatsapp-macos.jpg?quality=82&strip=all&w=1600",
+      "summary": "References found in the latest TestFlight build of WhatsApp indicate that Meta is working on bringing an alternative to iCloud backups for iPhone users. Here are the details.",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-2af38e835df2",
+      "title": "Act fast: Samsung Galaxy Z Fold 7 gets a rare $500 discount",
+      "source": "Android Authority",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-14",
+      "time": "14:25",
+      "publishedAt": "2026-07-14T14:25:07.000Z",
+      "url": "https://www.androidauthority.com/deal-galaxy-z-fold-7-3687344/",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2025/07/Galaxy-Z-Fold-7-tent-mode-on-table-hero-image-scaled.jpg",
+      "summary": "The high-end foldable drops to $1,499.99 at Amazon, making this the best ever deal on the foldable outside of Prime Day.",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
       "id": "auto-bd9acb30f1c8",
-      "title": "Huawei Pura 90s Pro and Pro Max launch globally; Pro Max features industry-first 200MP RYYB telephoto, LOFIC tech",
+      "title": "Huawei Pura 90s Pro and Pro Max launch globally with Kirin 9030S; Pro Max features industry-first 200MP RYYB telephoto, LOFIC tech",
       "source": "Gizmochina",
       "brand": "Huawei",
       "model": "Huawei 相关机型",
@@ -442,26 +622,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-ff2868094337",
-      "title": "谷歌 Pixel11 系列手机美版价格曝光，899 美元起",
-      "source": "IT之家",
-      "brand": "Pixel",
-      "model": "Pixel 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-14",
-      "time": "09:48",
-      "publishedAt": "2026-07-14T09:48:06.000Z",
-      "url": "https://www.ithome.com/0/976/653.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/7/f0b4b0e8-c6fa-44b1-877d-4cfae590b1fa.png?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 7 月 14 日消息，据科技媒体 Droid Life 昨日爆料，亚马逊近期曾短暂上架谷歌 Pixel11 系列手机的商品页面，不过目前已经撤回。 商品页面显示，谷歌 Pixel 11 标准版手机将提供霜白、木槿粉、曜石黑和开心果绿四种配色；Pixel11 Pro / Pro XL 则提供沙丘色、浅雾色、午夜黑和松绿色；Pixel 11 Pro…",
-      "tags": [
-        "Pixel",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-010a0938d976",
       "title": "I won’t buy the Pixel 11 unless Google fixes its awful portrait mode",
       "source": "Android Authority",
@@ -477,26 +637,6 @@ window.phoneRadarAuto = {
       "summary": "The Pixel 10’s biggest camera weakness is the portraits it can’t get right.",
       "tags": [
         "Pixel",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-852e5fd07510",
-      "title": "HMD XploraOne Neo 儿童手机曝光：三种配色可选、搭 RTOS Touch 系统",
-      "source": "IT之家",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-14",
-      "time": "09:29",
-      "publishedAt": "2026-07-14T09:29:56.000Z",
-      "url": "https://www.ithome.com/0/976/633.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/7/40c2f8ee-c56f-4560-b1a5-4d36e5870a55.jpg?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 7 月 14 日消息，消息源 smashx_60 现已曝光了 HMD XploraOne Neo 儿童手机，该产品提供三种配色可选，预计将接替 现款 XploraOne 机型 。 该机可选三种配色，拥有 IP54 认证，手机正面配备一块 3.5 英寸 240x320 分辨率 LCD 面板，手机背面搭载 2MP 主摄。该机搭载 64MB RAM 和…",
-      "tags": [
-        "行业",
         "爆料",
         "自动抓取"
       ]
@@ -1002,26 +1142,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-769f5e65252b",
-      "title": "蓝狐 Aura A1 手机进入量产确认环节： 联发科G100",
-      "source": "酷安热榜",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-07-14",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72767960",
-      "image": "",
-      "summary": "蓝狐 Aura A1 手机进入量产确认环节： 联发科G100",
-      "tags": [
-        "行业",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
       "id": "newsnow-edd7e2fc4c04",
       "title": "REDMI Note 17 正式发布：售价 1299 元起",
       "source": "酷安热榜",
@@ -1037,6 +1157,26 @@ window.phoneRadarAuto = {
       "summary": "REDMI Note 17 正式发布：售价 1299 元起",
       "tags": [
         "Xiaomi",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-769f5e65252b",
+      "title": "蓝狐 Aura A1 手机进入量产确认环节： 联发科G100",
+      "source": "酷安热榜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-07-14",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/72767960",
+      "image": "",
+      "summary": "蓝狐 Aura A1 手机进入量产确认环节： 联发科G100",
+      "tags": [
+        "行业",
         "爆料",
         "NewsNow"
       ]
@@ -1078,6 +1218,26 @@ window.phoneRadarAuto = {
       "tags": [
         "Xiaomi",
         "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-f85b294bac09",
+      "title": "怎么看待那些背着一千多的寇驰包，拿着 iPhone，但是全身上下衣服却不超几十块钱的人？",
+      "source": "知乎热榜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "市场报告",
+      "trust": "媒体汇总",
+      "date": "2026-07-14",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.zhihu.com/question/9783691829",
+      "image": "",
+      "summary": "怎么看待那些背着一千多的寇驰包，拿着 iPhone，但是全身上下衣服却不超几十块钱的人？",
+      "tags": [
+        "iPhone",
+        "市场报告",
         "NewsNow"
       ]
     },

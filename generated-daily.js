@@ -1,5 +1,5 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-07-14T14:12:43.807Z",
+  "updatedAt": "2026-07-14T15:44:37.625Z",
   "issueDate": "2026-07-14",
   "issue": "VOL.260714",
   "title": "手机情报日报",
@@ -17,31 +17,6 @@ window.phoneRadarDaily = {
       "title": "重点爆料",
       "hint": "机模、配色、影像、屏幕、电池和芯片线索先看。",
       "items": [
-        {
-          "id": "auto-ff2868094337",
-          "title": "谷歌 Pixel11 系列手机美版价格曝光，899 美元起",
-          "originalTitle": "",
-          "source": "IT之家",
-          "brand": "Pixel",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-07-14",
-          "time": "09:48",
-          "publishedAt": "2026-07-14T09:48:06.000Z",
-          "url": "https://www.ithome.com/0/976/653.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/7/f0b4b0e8-c6fa-44b1-877d-4cfae590b1fa.png?x-bce-process=image/format,f_auto",
-          "verdict": "先看",
-          "takeaway": "IT之家 7 月 14 日消息，据科技媒体 Droid Life 昨日爆料，亚马逊近期曾短暂上架谷歌 Pixel11 系列手机的商品页面，不过目前已经撤回。 商品页面显示，谷歌 Pixel 11 标准版手机将提供霜白、木槿粉、曜石黑和开心果绿四种配色；Pixel11 Pro / Pro XL 则提供沙丘色、浅雾色、午夜黑和松绿色；Pixel 11 Pro…",
-          "detail": "IT之家 7 月 14 日消息，据科技媒体 Droid Life 昨日爆料，亚马逊近期曾短暂上架谷歌 Pixel11 系列手机的商品页面，不过目前已经撤回。 商品页面显示，谷歌 Pixel 11 标准版手机将提供霜白、木槿粉、曜石黑和开心果绿四种配色；Pixel11 Pro / Pro XL 则提供沙丘色、浅雾色、午夜黑和松绿色；Pixel 11 Pro…",
-          "keyPoints": [
-            "外观 / 配色 / 尺寸",
-            "成本 / 价格",
-            "爆料来源"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
         {
           "id": "auto-ced89905295b",
           "title": "iPhone 20 外观设计线索曝光",
@@ -114,24 +89,24 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
-          "id": "auto-852e5fd07510",
-          "title": "HMD XploraOne Neo 儿童手机曝光：三种配色可选、搭 RTOS Touch 系统",
+          "id": "auto-7916575390e4",
+          "title": "REDMI Note 17 Pro 手机体验：延续“小金刚”基因，抗摔防水大电量",
           "originalTitle": "",
           "source": "IT之家",
-          "brand": "行业",
+          "brand": "Xiaomi",
           "type": "爆料",
           "trust": "媒体汇总",
           "date": "2026-07-14",
-          "time": "09:29",
-          "publishedAt": "2026-07-14T09:29:56.000Z",
-          "url": "https://www.ithome.com/0/976/633.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/7/40c2f8ee-c56f-4560-b1a5-4d36e5870a55.jpg?x-bce-process=image/format,f_auto",
+          "time": "15:28",
+          "publishedAt": "2026-07-14T15:28:17.000Z",
+          "url": "https://www.ithome.com/0/976/760.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/7/8ace0eb6-c911-459e-866e-4521f5e973cc.jpg",
           "verdict": "先看",
-          "takeaway": "IT之家 7 月 14 日消息，消息源 smashx_60 现已曝光了 HMD XploraOne Neo 儿童手机，该产品提供三种配色可选，预计将接替 现款 XploraOne 机型 。 该机可选三种配色，拥有 IP54 认证，手机正面配备一块 3.5 英寸 240x320 分辨率 LCD 面板，手机背面搭载 2MP 主摄。该机搭载 64MB RAM 和…",
-          "detail": "IT之家 7 月 14 日消息，消息源 smashx_60 现已曝光了 HMD XploraOne Neo 儿童手机，该产品提供三种配色可选，预计将接替 现款 XploraOne 机型 。 该机可选三种配色，拥有 IP54 认证，手机正面配备一块 3.5 英寸 240x320 分辨率 LCD 面板，手机背面搭载 2MP 主摄。该机搭载 64MB RAM 和…",
+          "takeaway": "7 月 14 日晚间，REDMI 举办了新品发布会，正式推出了全新 REDMI Note 17 系列新机。新机延续国民小金刚的定位，致力于打造中端手机的标杆，号称升配不升档，守住中端体验基线；同时金刚品质更抗摔防水，超长续航更持久耐用。 一直以来，REDMI 的 Note 系列从初代产品凭借亲民价格与实用配置打入市场，到后来不断迭代升级，每一代都坚持为用户…",
+          "detail": "7 月 14 日晚间，REDMI 举办了新品发布会，正式推出了全新 REDMI Note 17 系列新机。新机延续国民小金刚的定位，致力于打造中端手机的标杆，号称升配不升档，守住中端体验基线；同时金刚品质更抗摔防水，超长续航更持久耐用。 一直以来，REDMI 的 Note 系列从初代产品凭借亲民价格与实用配置打入市场，到后来不断迭代升级，每一代都坚持为用户…",
           "keyPoints": [
-            "外观 / 配色 / 尺寸",
-            "芯片 / 性能"
+            "电池 / 充电",
+            "成本 / 价格"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
@@ -204,6 +179,29 @@ window.phoneRadarDaily = {
           "detail": "REDMI Note 17 Pro，这价格可还行？ 8GB+128GB——1599元 8GB+256GB——1699元 12GB+256GB——1999元 8GB+512GB——2099元",
           "keyPoints": [
             "成本 / 价格",
+            "爆料来源"
+          ],
+          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "weibo-1c0c9b425ea7",
+          "title": "数码闲聊站：IDC公布2026Q2中国市场智能手机出货量： ①华为—1492W—份额22.…",
+          "originalTitle": "",
+          "source": "数码闲聊站",
+          "brand": "HONOR",
+          "type": "爆料",
+          "trust": "高关注爆料源",
+          "date": "2026-07-14",
+          "time": "07:08",
+          "publishedAt": "2026-07-14T07:08:00.000Z",
+          "url": "https://weibo.com/6048569942/R8DQACoQw",
+          "image": "",
+          "verdict": "先看",
+          "takeaway": "IDC公布2026Q2中国市场智能手机出货量： ①华为—1492W—份额22.6%—同比增长19.4％ ②苹果—1195W—份额18.1%—同比增长24.4％ ③OPPO—1056W—份额16.0%—同比下滑9.7％ ③vivo—1056W—份额16.0%—同比下滑11.4％ ⑤小米—819W—份额12.4%—同比下滑21.7％ ⑥荣耀—746W—份额11…",
+          "detail": "IDC公布2026Q2中国市场智能手机出货量： ①华为—1492W—份额22.6%—同比增长19.4％ ②苹果—1195W—份额18.1%—同比增长24.4％ ③OPPO—1056W—份额16.0%—同比下滑9.7％ ③vivo—1056W—份额16.0%—同比下滑11.4％ ⑤小米—819W—份额12.4%—同比下滑21.7％ ⑥荣耀—746W—份额11…",
+          "keyPoints": [
             "爆料来源"
           ],
           "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
