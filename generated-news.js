@@ -1,6 +1,326 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-07-13T23:12:11.441Z",
+  "updatedAt": "2026-07-14T03:32:11.875Z",
   "news": [
+    {
+      "id": "auto-d691041011cd",
+      "title": "Valve 将修复 Steam Machine 过早触发红灯提醒问题：CPU / GPU 温度阈值提高至 100℃",
+      "source": "IT之家",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-14",
+      "time": "03:22",
+      "publishedAt": "2026-07-14T03:22:22.000Z",
+      "url": "https://www.ithome.com/0/976/377.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/7/30af3208-4ea3-40eb-9d92-fd581baf2925.jpg",
+      "summary": "IT之家 7 月 14 日消息，科技媒体 Tom's Hardware 昨日（7 月 13 日）发布博文，报道称 Valve 计划通过推送 BIOS 更新， 提高 Steam Machine 温度警告阈值至 100 摄氏度。 Valve 官方指出现有 Steam Machine 设定 CPU / GPU 红灯警告阈值为 95℃/90℃，不过根据用户反馈，…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-2e829c8aac97",
+      "title": "竹本青：【REDMI Note 17 新配色「浅水青」官图公布】 像水流掠过青色山影，清透、轻盈，又带着一份安静，化作山涧…",
+      "source": "竹本青",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-07-14",
+      "time": "03:01",
+      "publishedAt": "2026-07-14T03:01:36.000Z",
+      "url": "https://www.coolapk.com/feed/72775229",
+      "image": "http://image.coolapk.com/feed/2026/0714/11/4248714_305d2a2e_8093_7545_18@1080x1080.jpg",
+      "summary": "【REDMI Note 17 新配色「浅水青」官图公布】 像水流掠过青色山影，清透、轻盈，又带着一份安静，化作山涧溪流（REDMI手机） #今日热点# #红米Note17# #红米note17Pro#",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "weibo-f045c0c88e56",
+      "title": "数码闲聊站：2026Q2全球智能手机市场TOP5： ①三星24％、②苹果20％、③小米12…",
+      "source": "数码闲聊站",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-07-14",
+      "time": "02:30",
+      "publishedAt": "2026-07-14T02:30:00.000Z",
+      "url": "https://weibo.com/6048569942/R8C1KyfrT",
+      "image": "https://tvax1.sinaimg.cn/mw2000/006BlblIgy1if3ajqu79tj32rw1irner.jpg",
+      "summary": "2026Q2全球智能手机市场TOP5： ①三星24％、②苹果20％、③小米12％、④OPPO 11％、⑤vivo 8％ *三星和苹果份额小涨，米/O/V有明显下滑，榜外榜中，谷歌和华为同样呈正增长。 受内存涨价影响，全球手机市场持续呈下滑趋势，27年预计大盘跌幅约14%。",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "微博"
+      ]
+    },
+    {
+      "id": "coolapk-user-6731cad26bba",
+      "title": "竹本青：REDMI Note 17 Pro 全新配色「星云紫」官图公布",
+      "source": "竹本青",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-07-14",
+      "time": "02:04",
+      "publishedAt": "2026-07-14T02:04:52.000Z",
+      "url": "https://www.coolapk.com/feed/72774537",
+      "image": "http://image.coolapk.com/feed/2026/0714/10/4248714_90dc50bb_4689_9205_731@1080x1080.jpg",
+      "summary": "【REDMI Note 17 Pro 全新配色「星云紫」官图公布】 暮光将至，晚霞未散，夜色初临；用一抹梦幻的紫晕开微光，把星云般的浪漫与精致，留在掌心。（REDMI手机） #今日热点# #红米note17Pro# #HyperOS3#",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-6af17e1e31c7",
+      "title": "亚马逊“抢跑”谷歌 Pixel 11 系列手机配色及规格信息：标准版也有 12GB 内存",
+      "source": "IT之家",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-14",
+      "time": "00:53",
+      "publishedAt": "2026-07-14T00:53:11.000Z",
+      "url": "https://www.ithome.com/0/976/280.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/7/c593e876-1b72-4aa6-9428-f7f14647ee2d.png",
+      "summary": "IT之家 7 月 14 日消息，外媒 9to5Toys 发现，亚马逊平台上的谷歌商店出现了三个疑似尚未完成的商品页面，展示了 Pixel 11 标准版的三种配色 ，并配有疑似官方宣传图。 报道分析称，三个页面可能只是提前上线的占位页面或内部草稿，其中的图片却与谷歌官图相似。商品信息还显示，Pixel 11 由亚马逊直接销售和配送，并被列入亚马逊平台上的谷歌…",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-c6bd4b88059a",
+      "title": "Omdia 报告 2026Q2 全球手机出货量同比降 4%：三星占 22%、苹果占 20%",
+      "source": "IT之家",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-14",
+      "time": "00:07",
+      "publishedAt": "2026-07-14T00:07:31.000Z",
+      "url": "https://www.ithome.com/0/976/268.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/7/77458e32-5780-4827-8bee-3510a9212666.png?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 7 月 14 日消息，市场调查机构 Omdia 昨日（7 月 13 日）发布博文， 报告称 2026 年第 2 季度全球智能手机出货量同比下滑 4%。 报告认为受持续的内存危机影响，推高零部件成本，导致全球智能手机出货量持续下滑。细分到品牌方面，相比较 2025 年第 2 季度，三星和苹果逆势而上，出货量市场份额同比增长 2 个百分点和 4 个百…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-91db0346fdfd",
+      "title": "OnePlus is reportedly days away from calling it quits in the US",
+      "source": "Android Police",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-14",
+      "time": "00:04",
+      "publishedAt": "2026-07-14T00:04:35.000Z",
+      "url": "https://www.androidpolice.com/oneplus-will-reportedly-pull-out-of-the-us-this-week/",
+      "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2026/07/oneplus-15-oppo-find-n6-phones.JPG",
+      "summary": "This could be happening in the EU too",
+      "tags": [
+        "OPPO",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-9bbf43c61c96",
+      "title": "Apple announces changes to iOS in Brazil",
+      "source": "Apple Newsroom",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "官方",
+      "trust": "官方确认",
+      "date": "2026-07-14",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.apple.com/newsroom/2026/06/apple-announces-changes-to-ios-in-brazil/",
+      "image": "",
+      "summary": "Apple today announced changes impacting iOS apps in Brazil that reflect a recent agreement with Brazil’s competition regulator, CADE.",
+      "tags": [
+        "iPhone",
+        "官方",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "newsnow-0ae38b7f8467",
+      "title": "我的出行好伙伴，用 iPhone 一站式解决旅途痛点",
+      "source": "少数派热榜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-07-14",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://sspai.com/post/112044",
+      "image": "",
+      "summary": "我的出行好伙伴，用 iPhone 一站式解决旅途痛点",
+      "tags": [
+        "iPhone",
+        "评测",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-cdbe4105a123",
+      "title": "iPhone Air 当主力机用了三个多月后，我为什么还是换不掉它",
+      "source": "少数派热榜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-07-14",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://sspai.com/post/111113",
+      "image": "",
+      "summary": "iPhone Air 当主力机用了三个多月后，我为什么还是换不掉它",
+      "tags": [
+        "iPhone",
+        "评测",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-587ca84dae0a",
+      "title": "快捷指令｜让 iPhone 用上锤子的「大爆炸」",
+      "source": "少数派热榜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-07-14",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://sspai.com/post/111405",
+      "image": "",
+      "summary": "快捷指令｜让 iPhone 用上锤子的「大爆炸」",
+      "tags": [
+        "iPhone",
+        "评测",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-29a1bc226f0c",
+      "title": "阶跃星辰首款智能体手机STEPX Neo亮相",
+      "source": "酷安热榜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-07-14",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/72769161",
+      "image": "",
+      "summary": "阶跃星辰首款智能体手机STEPX Neo亮相",
+      "tags": [
+        "行业",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-769f5e65252b",
+      "title": "蓝狐 Aura A1 手机进入量产确认环节： 联发科G100",
+      "source": "酷安热榜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-07-14",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/72767960",
+      "image": "",
+      "summary": "蓝狐 Aura A1 手机进入量产确认环节： 联发科G100",
+      "tags": [
+        "行业",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-4d3ec19da5fc",
+      "title": "女朋友的眼光我实在不敢恭维[真正的音乐]我说了贼丑，非要买，还说好看/流行，说别人都觉得好看（ps：估计是小某书的人）有没有裤友来点评或者分享一下自己的手机壳，真是我眼光问题？[doge笑哭][doge笑哭] #iPhone17#",
+      "source": "酷安热榜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-07-14",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/72757666",
+      "image": "",
+      "summary": "女朋友的眼光我实在不敢恭维[真正的音乐]我说了贼丑，非要买，还说好看/流行，说别人都觉得好看（ps：估计是小某书的人）有没有裤友来点评或者分享一下自己的手机壳，真是我眼光问题？[doge笑哭][doge笑哭] #iPhone17#",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-5d3fc36ec4cc",
+      "title": "Pura X Max 、iPhone Air 、iphone17 Pro Max 交替使用感受",
+      "source": "酷安热榜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-07-14",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/72765903",
+      "image": "",
+      "summary": "Pura X Max 、iPhone Air 、iphone17 Pro Max 交替使用感受",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-7253d59ecae5",
+      "title": "各位大大，我的華為mate80pro max 100w原裝充電器遺留在老家了，剛才去拼多多看了這個華為100w冰糖充電器，如上圖。請問各位大大，我在上圖的店買，那充電器是可靠嗎？是原裝正品嗎？在線急問",
+      "source": "酷安热榜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-07-14",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/72757111",
+      "image": "",
+      "summary": "各位大大，我的華為mate80pro max 100w原裝充電器遺留在老家了，剛才去拼多多看了這個華為100w冰糖充電器，如上圖。請問各位大大，我在上圖的店買，那充電器是可靠嗎？是原裝正品嗎？在線急問",
+      "tags": [
+        "行业",
+        "爆料",
+        "NewsNow"
+      ]
+    },
     {
       "id": "auto-a1918cbde8f2",
       "title": "Second report says Apple posted its strongest-ever Q2 for iPhone shipments amid market downturn",
@@ -17,26 +337,6 @@ window.phoneRadarAuto = {
       "summary": "Adding to an earlier report from Counterpoint Research that showed Apple posting its strongest-ever second quarter for iPhone shipments, Omdia has now published its own figures po…",
       "tags": [
         "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-2dcfbc8e8dcf",
-      "title": "用户反馈三星 Galaxy S26 Ultra 手机中间屏幕泛红，外媒推测关联“隐私屏幕”机制",
-      "source": "IT之家",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-13",
-      "time": "22:44",
-      "publishedAt": "2026-07-13T22:44:12.000Z",
-      "url": "https://www.ithome.com/0/976/253.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/7/c7d641e8-5323-450b-a619-b84188e34a20.png?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 7 月 14 日消息，科技媒体 Android Police 今天（7 月 14 日）发布博文， 报道称多名 Galaxy S26 Ultra 手机用户在 Reddit 社区等平台反馈，其手机屏幕显示异常，中部出现红色色调。 根据韩媒 Newsway 报道，三星发言人表示已陆续收到相关用户反馈，目前公司正内部核查，以确认问题原因。IT之家附上相关…",
-      "tags": [
-        "Samsung",
         "爆料",
         "自动抓取"
       ]
@@ -362,26 +662,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-147d2eaae96a",
-      "title": "蓝狐宣布代号“β”4.7 英寸迷你手机定名 Aura A1，已进入最终量产确认环节",
-      "source": "IT之家",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-13",
-      "time": "15:14",
-      "publishedAt": "2026-07-13T15:14:30.000Z",
-      "url": "https://www.ithome.com/0/976/234.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/7/a2387520-3465-4a52-a9b2-68a0a33d5670.jpg?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 7 月 13 日消息，制造商 BLUEFOX 蓝狐发文，宣布旗下“蓝狐 β（代号名）”4.7 英寸迷你手机定名为 Aura A1，目前该机已进入最终量产确认环节，将于近期上市。 规格方面，IT之家获悉该机尺寸为 117x54.6mm，正面搭载一块 4.7 英寸 1600x720 分辨率 90Hz 天马 LCD 面板（亮度 600 尼特），匹配 1…",
-      "tags": [
-        "行业",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-bc26a327ab87",
       "title": "Report: Apple hits record 20% global smartphone shipment share as market plunges",
       "source": "9to5Mac",
@@ -442,26 +722,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-50bc63a32692",
-      "title": "OPPO ColorOS 16 开放锁屏指纹样式自定义，支持汉字、数字、字母、表情、动画自由组合",
-      "source": "IT之家",
-      "brand": "OPPO",
-      "model": "OPPO 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-13",
-      "time": "14:40",
-      "publishedAt": "2026-07-13T14:40:59.000Z",
-      "url": "https://www.ithome.com/0/976/230.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/7/1bc1ba00-9a70-4386-8703-f3c72ea6ffdc.jpg?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 7 月 13 日消息，OPPO、一加手机操作系统官方微博今日宣布， ColorOS 系统上线了锁屏指纹样式自定义功能 ，支持汉字、数字、字母、表情、动画自由组合。 IT之家查询获悉， 该功能需要系统版本升级至 16.0.9.400 及以上版本 ，没有收到更新的可以进入尝鲜板块进行申请。 另外， OPPO ColorOS 六月更新已于 6 月 3…",
-      "tags": [
-        "OPPO",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-a501c5795d0f",
       "title": "This might be the Pixel 11, Pixel 11 Pro, and Fold in their new colors [Gallery]",
       "source": "9to5Google",
@@ -477,26 +737,6 @@ window.phoneRadarAuto = {
       "summary": "Google’s Pixel 11 series is almost exactly a month from its official launch and, ahead of that, an early trio of Amazon listings appears to show off the base model in three colorw…",
       "tags": [
         "Pixel",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-19ff18062666",
-      "title": "业内人士称阶跃终端首款智能体手机 STEPX Neo 属自主设计，与魅族“没啥关系”",
-      "source": "IT之家",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-13",
-      "time": "14:26",
-      "publishedAt": "2026-07-13T14:26:21.000Z",
-      "url": "https://www.ithome.com/0/976/226.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/7/f3c2f4ae-e6ca-49ad-a051-916401bfd0e7.jpg?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 7 月 13 日消息， 阶跃终端品牌旗下首款智能体手机 STEPX Neo 今晚正式亮相 ，机身背面配备交互副屏，搭载智能体原生系统 Step AOS。 虽然官方并未公布这款手机的更多信息，但却引发了网友对于新机和魅族之间关系的讨论。IT之家注意到，业内人士 @布鲁卡 今日发文对此进行了说明： 还是那句，这年头还闯入手机市场都是勇气可嘉的，尊重劳…",
-      "tags": [
-        "行业",
         "爆料",
         "自动抓取"
       ]
@@ -862,46 +1102,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "coolapk-user-8770f2143f1b",
-      "title": "竹本青：#小米米家显示器挂灯2# 创了新产品的话题 年初，看米米这个品类一直没有更新，我就买的1S，看见今天官宣二代，感觉…",
-      "source": "竹本青",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-07-13",
-      "time": "03:24",
-      "publishedAt": "2026-07-13T03:24:43.000Z",
-      "url": "https://www.coolapk.com/feed/72761840",
-      "image": "http://image.coolapk.com/feed/2026/0713/11/4248714_c3f433ec_3081_0528_82@1272x476.jpg",
-      "summary": "#小米米家显示器挂灯2# 创了新产品的话题 年初，看米米这个品类一直没有更新，我就买的1S，看见今天官宣二代，感觉还是1S的性价比更高一些，至少在功能层面，我没看出来啥区别…… 目前，1S在夕夕上可以做到140-150左右，二代正式发布以后，不知道是会继续降价还是往上涨。 #HyperOS3# #米家智能显示器挂灯1s#",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
-      "id": "auto-9302c2845121",
-      "title": "Huawei Mate 80 Air tipped to use a new Kirin 9030 series chip",
-      "source": "Huawei Central",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-13",
-      "time": "02:58",
-      "publishedAt": "2026-07-13T02:58:24.000Z",
-      "url": "https://www.huaweicentral.com/huawei-mate-80-air-tipped-to-use-a-new-kirin-9030-series-chip/",
-      "image": "https://www.huaweicentral.com/wp-content/uploads/2026/07/Kirin-9030-series-img.jpg",
-      "summary": "Rumors and leaks once again started surrounding Huawei Mate 80 Air, and the latest one flowing in says that the new Airy phone could debut with a new Kirin 9030 series chip. If tr…",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "coolapk-user-cdeeb9ff0192",
       "title": "JSCHEN小小狐：OPPO Find X10 Pro Max 或落地 3×200Mp 影像方案",
       "source": "JSCHEN小小狐",
@@ -917,26 +1117,6 @@ window.phoneRadarAuto = {
       "summary": "『OPPO Find X10 Pro Max 或落地 3×200Mp』 知名数码博主 数码闲聊站 发博透露，OPPO Find X10 Pro Max 工程机当前仍保留其此前曝光的 3×200Mp 影像方案。并表示该方案有望随其他杯型的调整版本于 9-10 月一同亮相。 据悉，该方案具体细节如下： ◇ 200Mp 1/1.3\"± HPC 主摄 ◇ 200M…",
       "tags": [
         "OPPO",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
-      "id": "coolapk-user-03d0b5a14d0c",
-      "title": "竹本青：小米米家显示器挂灯2官宣：澎湃智联+全光谱灯珠，众筹价259元",
-      "source": "竹本青",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-07-13",
-      "time": "02:29",
-      "publishedAt": "2026-07-13T02:29:23.000Z",
-      "url": "https://www.coolapk.com/feed/72761161",
-      "image": "http://image.coolapk.com/feed/2026/0713/10/4248714_7ed49ba3_9762_1839_889@1080x1188.jpg",
-      "summary": "【小米米家显示器挂灯2 正式官宣：澎湃智联+全光谱灯珠，众筹价259元】 众筹价 —— 259元 建议零售价 —— 299元 ● 非对称光+20.8°遮光角 ● 108颗定制全光谱灯珠 ● 显色指数 Ra96 @3900K ● 2700K-6500K 色温调节 ● 光生物安全RGO豁免级、无可视频闪 ● 三角支撑夹持： 适用屏幕曲率范围 1000R~180…",
-      "tags": [
-        "Xiaomi",
         "爆料",
         "酷安博主"
       ]
@@ -1019,406 +1199,6 @@ window.phoneRadarAuto = {
         "行业",
         "爆料",
         "微博"
-      ]
-    },
-    {
-      "id": "auto-9bbf43c61c96",
-      "title": "Apple announces changes to iOS in Brazil",
-      "source": "Apple Newsroom",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "官方",
-      "trust": "官方确认",
-      "date": "2026-07-13",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.apple.com/newsroom/2026/06/apple-announces-changes-to-ios-in-brazil/",
-      "image": "",
-      "summary": "Apple today announced changes impacting iOS apps in Brazil that reflect a recent agreement with Brazil’s competition regulator, CADE.",
-      "tags": [
-        "iPhone",
-        "官方",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "newsnow-c8cc226c8fce",
-      "title": "我的出行好伙伴，用 iPhone 一站式解决旅途痛点",
-      "source": "少数派热榜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "评测",
-      "trust": "媒体汇总",
-      "date": "2026-07-13",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://sspai.com/post/112044",
-      "image": "",
-      "summary": "我的出行好伙伴，用 iPhone 一站式解决旅途痛点",
-      "tags": [
-        "iPhone",
-        "评测",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-5bf4f450e001",
-      "title": "iPhone Air 当主力机用了三个多月后，我为什么还是换不掉它",
-      "source": "少数派热榜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "评测",
-      "trust": "媒体汇总",
-      "date": "2026-07-13",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://sspai.com/post/111113",
-      "image": "",
-      "summary": "iPhone Air 当主力机用了三个多月后，我为什么还是换不掉它",
-      "tags": [
-        "iPhone",
-        "评测",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-293354b5e6bc",
-      "title": "快捷指令｜让 iPhone 用上锤子的「大爆炸」",
-      "source": "少数派热榜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "评测",
-      "trust": "媒体汇总",
-      "date": "2026-07-13",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://sspai.com/post/111405",
-      "image": "",
-      "summary": "快捷指令｜让 iPhone 用上锤子的「大爆炸」",
-      "tags": [
-        "iPhone",
-        "评测",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-a1b5d87db0be",
-      "title": "阶跃星辰首款智能体手机STEPX Neo亮相",
-      "source": "酷安热榜",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-07-13",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72769161",
-      "image": "",
-      "summary": "阶跃星辰首款智能体手机STEPX Neo亮相",
-      "tags": [
-        "行业",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-d65529c3f19c",
-      "title": "蓝狐 Aura A1 手机进入量产确认环节： 联发科G100",
-      "source": "酷安热榜",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-07-13",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72767960",
-      "image": "",
-      "summary": "蓝狐 Aura A1 手机进入量产确认环节： 联发科G100",
-      "tags": [
-        "行业",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-dbd9e02e8acb",
-      "title": "女朋友的眼光我实在不敢恭维[真正的音乐]我说了贼丑，非要买，还说好看/流行，说别人都觉得好看（ps：估计是小某书的人）有没有裤友来点评或者分享一下自己的手机壳，真是我眼光问题？[doge笑哭][doge笑哭] #iPhone17#",
-      "source": "酷安热榜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-07-13",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72757666",
-      "image": "",
-      "summary": "女朋友的眼光我实在不敢恭维[真正的音乐]我说了贼丑，非要买，还说好看/流行，说别人都觉得好看（ps：估计是小某书的人）有没有裤友来点评或者分享一下自己的手机壳，真是我眼光问题？[doge笑哭][doge笑哭] #iPhone17#",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-93dfbd9a4ab4",
-      "title": "Pura X Max 、iPhone Air 、iphone17 Pro Max 交替使用感受",
-      "source": "酷安热榜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-07-13",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72765903",
-      "image": "",
-      "summary": "Pura X Max 、iPhone Air 、iphone17 Pro Max 交替使用感受",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "auto-1f08e1d7c52d",
-      "title": "Galaxy S27 Pro camera specs reportedly downgraded to make room for the Ultra",
-      "source": "Gizmochina",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-12",
-      "time": "23:10",
-      "publishedAt": "2026-07-12T23:10:01.000Z",
-      "url": "https://www.gizmochina.com/2026/07/12/galaxy-s27-ultra-wont-have-to-compete-with-s27-pro-on-cameras/",
-      "image": "https://www.gizmochina.com/wp-content/uploads/2026/07/Samsung-Galaxy-S27-Ultra-Ai-render-1024x577-1-300x169.webp?x44794",
-      "summary": "Samsung fans hoping the Galaxy S27 Pro would be a mini Ultra might want to pump the brakes. According to a fresh report, the company has dialed back the Pro model’s camera ambitio…",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-55cb65d8f6db",
-      "title": "Oppo Reno 16 Review: A Compact Camera Phone That Gets Almost Everything Right",
-      "source": "Gizmochina",
-      "brand": "OPPO",
-      "model": "OPPO 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-12",
-      "time": "19:26",
-      "publishedAt": "2026-07-12T19:26:03.000Z",
-      "url": "https://www.gizmochina.com/2026/07/12/oppo-reno-16-review/",
-      "image": "https://www.gizmochina.com/wp-content/uploads/2026/07/Oppo-Reno-16-2--300x269.jpg?x44794",
-      "summary": "Compact smartphones have become increasingly rare, especially in the mid-premium segment. Most brands have shifted towards larger displays, leaving users who prefer one-handed dev…",
-      "tags": [
-        "OPPO",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-8b65d6f2eec4",
-      "title": "Pixel 11 Pro Fold in ‘Pine’ leaks & could Pixel Glow just be the camera flash?",
-      "source": "9to5Google",
-      "brand": "Pixel",
-      "model": "Pixel 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-12",
-      "time": "18:09",
-      "publishedAt": "2026-07-12T18:09:17.000Z",
-      "url": "https://9to5google.com/2026/07/12/pixel-11-pro-pine-color-leak/",
-      "image": "",
-      "summary": "With the launch event one month away , Pixel 11 leaks are picking up, and we now have a look at the “Pine” color for the 11 Pro Fold.",
-      "tags": [
-        "Pixel",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-cee32c484a90",
-      "title": "The problems with Google Pixel price hikes",
-      "source": "9to5Google",
-      "brand": "Pixel",
-      "model": "Pixel 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-12",
-      "time": "16:15",
-      "publishedAt": "2026-07-12T16:15:00.000Z",
-      "url": "https://9to5google.com/2026/07/12/google-pixel-price-hike-problems/",
-      "image": "",
-      "summary": "Like everything else in the tech industry, Google’s Pixel 11 series appears to be getting a price hike, but there are a few factors that make this one a bit harder to accept. This…",
-      "tags": [
-        "Pixel",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-02ddd0f70f91",
-      "title": "Apple Stores to Expand Use of 'Tap to Pay on iPhone'",
-      "source": "MacRumors",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-12",
-      "time": "16:11",
-      "publishedAt": "2026-07-12T16:11:18.000Z",
-      "url": "https://www.macrumors.com/2026/07/12/apple-stores-to-expand-tap-to-pay-on-iphone/",
-      "image": "https://images.macrumors.com/article-new/2023/03/Tap-to-Pay-on-iPhone-Wix.jpeg",
-      "summary": "In 2022, Apple began rolling out Tap to Pay on iPhone , a system that allows small business owners and other merchants to accept contactless payments on an iPhone, with no point-o…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-c776eb3bec26",
-      "title": "Redmi 17C 5G leak confirms it’s basically a rebadged Redmi 15C 5G",
-      "source": "Gizmochina",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-12",
-      "time": "13:27",
-      "publishedAt": "2026-07-12T13:27:29.000Z",
-      "url": "https://www.gizmochina.com/2026/07/12/redmi-17c-5g-leak-confirms-its-basically-a-rebadged-redmi-15c-5g/",
-      "image": "https://www.gizmochina.com/wp-content/uploads/2025/12/Redmi-15C-5G-1-300x220.png?x44794",
-      "summary": "A fresh Geekbench listing has given away most of what there is to know about the upcoming Redmi 17C 5G, and it turns out there isn’t much new here. The benchmark shows the phone u…",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-c20c0484cb17",
-      "title": "Google Store discounts base Pixel 10 Pro by $300",
-      "source": "9to5Google",
-      "brand": "Pixel",
-      "model": "Pixel 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-12",
-      "time": "12:30",
-      "publishedAt": "2026-07-12T12:30:00.000Z",
-      "url": "https://9to5google.com/2026/07/12/pixel-10-pro-discount/",
-      "image": "",
-      "summary": "The US Google Store has curiously discounted a specific Pixel 10 Pro model by $300 in the deepest official sale to date.",
-      "tags": [
-        "Pixel",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-5a65cbd9e526",
-      "title": "I used the Motorola Razr Fold and Pixel 10 Pro Fold, and only one keeps winning me over",
-      "source": "Android Authority",
-      "brand": "Pixel",
-      "model": "Pixel 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-12",
-      "time": "12:00",
-      "publishedAt": "2026-07-12T12:00:23.000Z",
-      "url": "https://www.androidauthority.com/i-used-motorola-razr-fold-and-google-pixel-10-pro-fold-3685952/",
-      "image": "",
-      "summary": "Motorola hit all the right notes.",
-      "tags": [
-        "Pixel",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-77955d46d1d4",
-      "title": "Exposing the sneaky math behind your Android phone’s battery life claims in 2026",
-      "source": "Android Authority",
-      "brand": "HONOR",
-      "model": "HONOR 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-12",
-      "time": "09:30",
-      "publishedAt": "2026-07-12T09:30:09.000Z",
-      "url": "https://www.androidauthority.com/android-phone-battery-life-claims-sneaky-math-2026-3683394/",
-      "image": "",
-      "summary": "Brands like OnePlus and HONOR are trying to redefine battery health, and not entirely for the better.",
-      "tags": [
-        "HONOR",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-3b552bc9c2f4",
-      "title": "Top 5 Alternatives to the Xiaomi 17T in 2026",
-      "source": "Gizmochina",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-12",
-      "time": "06:48",
-      "publishedAt": "2026-07-12T06:48:08.000Z",
-      "url": "https://www.gizmochina.com/2026/07/12/xiaomi-17t-top-5-alternatives/",
-      "image": "https://www.gizmochina.com/wp-content/uploads/2026/06/Xiaomi-17t-featured-300x170.png?x44794",
-      "summary": "This year, the smartphone market is filled with several competitive premium devices, and the Xiaomi 17T stands out as a strong photography-focused flagship. Available in two main…",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-9af53e082c42",
-      "title": "Upcoming Motorola Edge 70 Max has the largest battery ever on a Motorola phone",
-      "source": "Gizmochina",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-12",
-      "time": "05:11",
-      "publishedAt": "2026-07-12T05:11:12.000Z",
-      "url": "https://www.gizmochina.com/2026/07/12/motorola-edge-70-max-biggest-battery-charging-details/",
-      "image": "https://www.gizmochina.com/wp-content/uploads/2026/07/Motorola-Edge-70-Max-launch-date--300x293.png?x44794",
-      "summary": "The Motorola Edge 70 Fusion and Moto G06 Power currently hold the title of Motorola phones with the largest batteries, thanks to their 7,000mAh cells. That is about to change with…",
-      "tags": [
-        "行业",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-058338d8078a",
-      "title": "Redmi Note 17 and Note 17 Pro full specs leak days before launch",
-      "source": "Gizmochina",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-12",
-      "time": "02:59",
-      "publishedAt": "2026-07-12T02:59:24.000Z",
-      "url": "https://www.gizmochina.com/2026/07/12/redmi-note-17-and-note-17-pro-full-specs-leak-days-before-launch/",
-      "image": "https://www.gizmochina.com/wp-content/uploads/2026/07/Redmi-Note-17-series-first-look-192x300.jpg?x44794",
-      "summary": "The Redmi Note 17 series is making its debut on July 14 — this Tuesday. The brand has confirmed a few specs before launch, including the Note 17 being its first phone with a 7-inc…",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "自动抓取"
       ]
     }
   ]
