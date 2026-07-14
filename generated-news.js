@@ -1,6 +1,246 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-07-14T03:32:11.875Z",
+  "updatedAt": "2026-07-14T06:23:48.881Z",
   "news": [
+    {
+      "id": "auto-3cc61fe21217",
+      "title": "安卓新机初始设置无法选择默认搜索引擎，谷歌遭瑞士竞争监管机构调查",
+      "source": "IT之家",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-14",
+      "time": "06:12",
+      "publishedAt": "2026-07-14T06:12:13.000Z",
+      "url": "https://www.ithome.com/0/976/460.htm",
+      "image": "",
+      "summary": "IT之家 7 月 14 日消息，瑞士竞争委员会（COMCO）宣布对谷歌展开审查。据当地媒体“20Min”今天（14 日）报道，瑞士竞争委员会秘书处宣布，已就谷歌取消瑞士市场安卓智能手机上的“选择屏幕”搜索引擎选择界面启动初步调查。 用户首次设置新安卓设备时，系统原本会显示“选择屏幕”，让用户 自行选择默认搜索引 擎，不必直接接受谷歌搜索作为预设选项。 瑞士…",
+      "tags": [
+        "行业",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-a7eae3f66ce5",
+      "title": "消息称因成本高、盈利困难，HMD 已搁置 Fusion 2 模块化手机项目",
+      "source": "IT之家",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-14",
+      "time": "05:30",
+      "publishedAt": "2026-07-14T05:30:18.000Z",
+      "url": "https://www.ithome.com/0/976/451.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2025/10/3e73a011-137c-4f4b-9172-7458c3c3d0c0.png?x-bce-process=image/format,f_auto/auto-orient,o_1",
+      "summary": "IT之家 7 月 14 日消息，消息源 @smashx_60 昨日（7 月 13 日）发布博文，爆料称由于高昂的制造成本以及商业化盈利问题， HMD Global 可能已搁置 Fusion Project 模块化手机项目，不再推出 Fusion 2 继任机型。 HMD Global 于 2024 年 9 月发布模块化手机 Fusion ， 继任机型 Fus…",
+      "tags": [
+        "行业",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-fd7f0eb82040",
+      "title": "The Galaxy Z Fold 8 Ultra’s creaseless display just leaked, and it looks impressive (Updated)",
+      "source": "Android Authority",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-14",
+      "time": "05:19",
+      "publishedAt": "2026-07-14T05:19:05.000Z",
+      "url": "https://www.androidauthority.com/galaxy-z-fold-8-ultra-creaseless-display-leak-3686860/",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2025/07/samsung-galaxy-z-fold-7-open-in-hand.jpg",
+      "summary": "Update: Tipster Ice Universe claims the device in the leaked video was not the Galaxy Z Fold 8 Ultra.",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-0504a319aa58",
+      "title": "Google Pixel 11 colors leaked via Amazon listings, ahead of August launch",
+      "source": "Gizmochina",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-14",
+      "time": "04:53",
+      "publishedAt": "2026-07-14T04:53:29.000Z",
+      "url": "https://www.gizmochina.com/2026/07/14/google-pixel-11-colors-leaked-via-amazon-listings-ahead-of-august-launch/",
+      "image": "",
+      "summary": "Google Pixel 11 series is a little over a month away from its reveal, but a premature Amazon listing has revealed the three phones — Pixel 11, Pixel 11 Pro, and Pixel 11 Pro Fold…",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-295527bb0bc8",
+      "title": "竹本青：网传一加计划近期退出美国、欧洲市场",
+      "source": "竹本青",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-07-14",
+      "time": "04:48",
+      "publishedAt": "2026-07-14T04:48:13.000Z",
+      "url": "https://www.coolapk.com/feed/72776580",
+      "image": "http://image.coolapk.com/feed/2026/0714/12/4248714_8e7772e4_4826_3747_386@1600x1067.jpg",
+      "summary": "【网传一加计划近期退出美国、欧洲市场】 日前，据海外媒体消息，一加及其母公司OPPO计划在未来几天宣布，一加品牌将退出美国和欧洲市场，专注中国、印度两大市场。 报道称，现有在售库存将在数月内清仓，库存售罄后不再补货。面向现有一加用户承诺的软件支持、官方售后不会取消。 但截至7月14日，一加、OPPO官方未回应或发布退出欧美市场的公告。 #今日热点# #Co…",
+      "tags": [
+        "OPPO",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-020b07e4932e",
+      "title": "More deleted Pixel 11 Amazon listings reveal full US pricing and specs",
+      "source": "Android Authority",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-14",
+      "time": "04:16",
+      "publishedAt": "2026-07-14T04:16:41.000Z",
+      "url": "https://www.androidauthority.com/google-pixel-11-us-pricing-specs-leak-3687082/",
+      "image": "",
+      "summary": "The complete Pixel 11 lineup comes into focus thanks to early listings on Amazon.com.",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "weibo-02e15b590dd9",
+      "title": "数码闲聊站：8月重量级的新品之一是Robot Phone，目测6.3-6.4英寸1.5K四…",
+      "source": "数码闲聊站",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-07-14",
+      "time": "04:08",
+      "publishedAt": "2026-07-14T04:08:00.000Z",
+      "url": "https://weibo.com/6048569942/R8CFx1HRD",
+      "image": "",
+      "summary": "8月重量级的新品之一是Robot Phone，目测6.3-6.4英寸1.5K四等边直屏，骁龙8E5处理器，200Mp F1.6 23mm 4D云台主摄+50Mp超广角+200Mp潜望长焦，阿莱影像，影像可以看作Magic9系列超前瞻，定价估计不便宜……[二哈]",
+      "tags": [
+        "HONOR",
+        "爆料",
+        "微博"
+      ]
+    },
+    {
+      "id": "auto-41a0f598129e",
+      "title": "IDC 报告 2026 年 Q2 全球智能手机出货量同比下滑 6.7%：小米跌幅最大但有意为之，三星、苹果、华为逆势上涨",
+      "source": "IT之家",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-14",
+      "time": "04:05",
+      "publishedAt": "2026-07-14T04:05:07.000Z",
+      "url": "https://www.ithome.com/0/976/424.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/7/58adee77-6171-48a3-a45e-4cabb45462a1.png?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 7 月 14 日消息，根据国际数据公司（IDC）《全球季度手机追踪报告》今日发布的初步数据， 2026 年第二季度全球智能手机出货量为 2.775 亿部，同比下降 6.7% 。 这已是连续第二个季度出现同比下滑。内存危机持续冲击市场，不仅大幅推高成本，也造成供应紧张。 IDC 全球消费设备高级研究总监 Nabila Popal 表示： 内存成本较…",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-c77ca3da3115",
+      "title": "Vivo X300e storage, RAM, color options tipped in new leak",
+      "source": "Gizmochina",
+      "brand": "vivo",
+      "model": "vivo 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-14",
+      "time": "03:53",
+      "publishedAt": "2026-07-14T03:53:22.000Z",
+      "url": "https://www.gizmochina.com/2026/07/14/vivo-x300e-storage-ram-color-options-tipped-in-new-leak/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/07/Vivo-X300-FE-black-scaled-1-300x169.jpg?x44794",
+      "summary": "Vivo’s X-series has built a solid reputation for packing premium design and great imaging performance into a more compact package. Now, fresh leaks about the upcoming X300e sugges…",
+      "tags": [
+        "vivo",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-c80be1eee114",
+      "title": "三星 Galaxy 手机在韩独占逾 80% 份额，亦成为 78% 用户未来购机选择",
+      "source": "IT之家",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-14",
+      "time": "03:50",
+      "publishedAt": "2026-07-14T03:50:16.000Z",
+      "url": "https://www.ithome.com/0/976/409.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/2/ed59fe99-7517-4014-a08b-bda7fe796d5e.jpg?x-bce-process=image/auto-orient,o_1",
+      "summary": "IT之家 7 月 14 日消息，据韩联社报道，民调机构韩国盖洛普 13 日发布的一份调查结果显示，当地智能手机用户中， 八成以上使用三星电子的 Galaxy 系列手机 。 该机构面向除济州以外的全韩国 13 岁以上 1675 名手机用户进行了智能手机使用现况调查。IT之家从数据中获悉， Galaxy 系列用户占 81%，苹果手机占 19% 。 按性别看，男…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-87ad80060a94",
+      "title": "OnePlus to exit the US and European market, official announcement this week, claims new leak",
+      "source": "Gizmochina",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-14",
+      "time": "03:38",
+      "publishedAt": "2026-07-14T03:38:37.000Z",
+      "url": "https://www.gizmochina.com/2026/07/14/oneplus-to-exit-the-us-and-european-market-official-announcement-this-week-claims-new-leak/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/06/OnePlus-15-5G-phone-300x200.png?x44794",
+      "summary": "OnePlus‘ future in Europe and the US may be coming to an end if a new report is to be believed. According to German publication WinFuture, OnePlus and its parent company, Oppo, ar…",
+      "tags": [
+        "OPPO",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-5f6867d591b6",
+      "title": "竹本青：REDMI K90／Turbo 5系列 销量曝光：合计超572万台",
+      "source": "竹本青",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-07-14",
+      "time": "03:38",
+      "publishedAt": "2026-07-14T03:38:30.000Z",
+      "url": "https://www.coolapk.com/feed/72775728",
+      "image": "http://image.coolapk.com/feed/2026/0714/11/4248714_900b5368_0309_9443_395@1438x823.jpg",
+      "summary": "【REDMI K90／Turbo 5系列 最新销量曝光：合计超572万台，K90 至尊版 约6.2万台】 REDMI K90 ● 截至2026 W27 —— 约243.6万 截至2026 W26 —— 约239.13万 截至2026 W25 —— 约232.97万 REDMI K90 Max ● 截至2026 W27 —— 约43.84万 截至2026 W…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "酷安博主"
+      ]
+    },
     {
       "id": "auto-d691041011cd",
       "title": "Valve 将修复 Steam Machine 过早触发红灯提醒问题：CPU / GPU 温度阈值提高至 100℃",
@@ -79,46 +319,6 @@ window.phoneRadarAuto = {
         "Xiaomi",
         "爆料",
         "酷安博主"
-      ]
-    },
-    {
-      "id": "auto-6af17e1e31c7",
-      "title": "亚马逊“抢跑”谷歌 Pixel 11 系列手机配色及规格信息：标准版也有 12GB 内存",
-      "source": "IT之家",
-      "brand": "Pixel",
-      "model": "Pixel 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-14",
-      "time": "00:53",
-      "publishedAt": "2026-07-14T00:53:11.000Z",
-      "url": "https://www.ithome.com/0/976/280.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/7/c593e876-1b72-4aa6-9428-f7f14647ee2d.png",
-      "summary": "IT之家 7 月 14 日消息，外媒 9to5Toys 发现，亚马逊平台上的谷歌商店出现了三个疑似尚未完成的商品页面，展示了 Pixel 11 标准版的三种配色 ，并配有疑似官方宣传图。 报道分析称，三个页面可能只是提前上线的占位页面或内部草稿，其中的图片却与谷歌官图相似。商品信息还显示，Pixel 11 由亚马逊直接销售和配送，并被列入亚马逊平台上的谷歌…",
-      "tags": [
-        "Pixel",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-c6bd4b88059a",
-      "title": "Omdia 报告 2026Q2 全球手机出货量同比降 4%：三星占 22%、苹果占 20%",
-      "source": "IT之家",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-14",
-      "time": "00:07",
-      "publishedAt": "2026-07-14T00:07:31.000Z",
-      "url": "https://www.ithome.com/0/976/268.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/7/77458e32-5780-4827-8bee-3510a9212666.png?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 7 月 14 日消息，市场调查机构 Omdia 昨日（7 月 13 日）发布博文， 报告称 2026 年第 2 季度全球智能手机出货量同比下滑 4%。 报告认为受持续的内存危机影响，推高零部件成本，导致全球智能手机出货量持续下滑。细分到品牌方面，相比较 2025 年第 2 季度，三星和苹果逆势而上，出货量市场份额同比增长 2 个百分点和 4 个百…",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
       ]
     },
     {
@@ -262,26 +462,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-4d3ec19da5fc",
-      "title": "女朋友的眼光我实在不敢恭维[真正的音乐]我说了贼丑，非要买，还说好看/流行，说别人都觉得好看（ps：估计是小某书的人）有没有裤友来点评或者分享一下自己的手机壳，真是我眼光问题？[doge笑哭][doge笑哭] #iPhone17#",
-      "source": "酷安热榜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-07-14",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72757666",
-      "image": "",
-      "summary": "女朋友的眼光我实在不敢恭维[真正的音乐]我说了贼丑，非要买，还说好看/流行，说别人都觉得好看（ps：估计是小某书的人）有没有裤友来点评或者分享一下自己的手机壳，真是我眼光问题？[doge笑哭][doge笑哭] #iPhone17#",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
       "id": "newsnow-5d3fc36ec4cc",
       "title": "Pura X Max 、iPhone Air 、iphone17 Pro Max 交替使用感受",
       "source": "酷安热榜",
@@ -302,21 +482,21 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-7253d59ecae5",
-      "title": "各位大大，我的華為mate80pro max 100w原裝充電器遺留在老家了，剛才去拼多多看了這個華為100w冰糖充電器，如上圖。請問各位大大，我在上圖的店買，那充電器是可靠嗎？是原裝正品嗎？在線急問",
+      "id": "newsnow-4d3ec19da5fc",
+      "title": "女朋友的眼光我实在不敢恭维[真正的音乐]我说了贼丑，非要买，还说好看/流行，说别人都觉得好看（ps：估计是小某书的人）有没有裤友来点评或者分享一下自己的手机壳，真是我眼光问题？[doge笑哭][doge笑哭] #iPhone17#",
       "source": "酷安热榜",
-      "brand": "行业",
-      "model": "智能手机市场",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-07-14",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72757111",
+      "url": "https://www.coolapk.com/feed/72757666",
       "image": "",
-      "summary": "各位大大，我的華為mate80pro max 100w原裝充電器遺留在老家了，剛才去拼多多看了這個華為100w冰糖充電器，如上圖。請問各位大大，我在上圖的店買，那充電器是可靠嗎？是原裝正品嗎？在線急問",
+      "summary": "女朋友的眼光我实在不敢恭维[真正的音乐]我说了贼丑，非要买，还说好看/流行，说别人都觉得好看（ps：估计是小某书的人）有没有裤友来点评或者分享一下自己的手机壳，真是我眼光问题？[doge笑哭][doge笑哭] #iPhone17#",
       "tags": [
-        "行业",
+        "iPhone",
         "爆料",
         "NewsNow"
       ]
@@ -762,26 +942,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-fd7f0eb82040",
-      "title": "The Galaxy Z Fold 8 Ultra’s creaseless display just leaked, and it looks impressive",
-      "source": "Android Authority",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-13",
-      "time": "13:07",
-      "publishedAt": "2026-07-13T13:07:05.000Z",
-      "url": "https://www.androidauthority.com/galaxy-z-fold-8-ultra-creaseless-display-leak-3686860/",
-      "image": "https://www.androidauthority.com/wp-content/uploads/2025/07/samsung-galaxy-z-fold-7-open-in-hand.jpg",
-      "summary": "If this leak is any indication, the Z Fold 8 Ultra might just win me over.",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-35989cb57d3c",
       "title": "Huawei’s wide non-foldable phone could follow Pura X screen size",
       "source": "Huawei Central",
@@ -857,26 +1017,6 @@ window.phoneRadarAuto = {
       "summary": "Huawei Pura 90s Pro is here with a new teaser, showing its super-beautiful aesthetics in a Pink Guava color variant. While the Pro Max variant reflects the glory of nature, the st…",
       "tags": [
         "Huawei",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-a6dd54170e4d",
-      "title": "New Galaxy Z TriFold update brings July 2026 security patch",
-      "source": "SamMobile",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-13",
-      "time": "09:15",
-      "publishedAt": "2026-07-13T09:15:08.000Z",
-      "url": "https://www.sammobile.com/news/new-galaxy-z-trifold-update-brings-july-2026-security-patch/",
-      "image": "",
-      "summary": "Samsung’s first and only phone with a tri-folding screen, the Galaxy Z TriFold, is getting a new software update. It brings the July 2026 security patch, which fixes 57 security i…",
-      "tags": [
-        "Samsung",
         "爆料",
         "自动抓取"
       ]
@@ -982,26 +1122,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-fb42db2ec841",
-      "title": "Huawei Mate 80 Air could stick to curved screen instead of a flat one",
-      "source": "Huawei Central",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-13",
-      "time": "05:16",
-      "publishedAt": "2026-07-13T05:16:22.000Z",
-      "url": "https://www.huaweicentral.com/huawei-mate-80-air-could-stick-to-curved-screen/",
-      "image": "https://www.huaweicentral.com/wp-content/uploads/2026/07/Kirin-9030-series-img.jpg",
-      "summary": "Huawei Mate 80 Air is picking up pace in the leaks section for its key specs, and new information suggests that it will use a quad-curved panel instead of a flat screen. The surfa…",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-89860d105042",
       "title": "Redmi Turbo 6 series with Dimensity 8 and 9 series chipsets, 10,000mAh battery in works",
       "source": "Gizmochina",
@@ -1078,26 +1198,6 @@ window.phoneRadarAuto = {
       "tags": [
         "Pixel",
         "评测",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-0e3edd7bd87d",
-      "title": "Huawei teases Pura 90s Pro Max’s Orange Ocean gradient color",
-      "source": "Huawei Central",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-13",
-      "time": "03:51",
-      "publishedAt": "2026-07-13T03:51:42.000Z",
-      "url": "https://www.huaweicentral.com/huawei-pura-90s-pro-max-orange-color/",
-      "image": "https://www.huaweicentral.com/wp-content/uploads/2026/07/gradient-teaser-img.jpg",
-      "summary": "Huawei Pura 90s Pro Max will be official in the global market by tomorrow, and before the grand launch event, the company has shared a new GIF-based teaser, flaunting the glowy “O…",
-      "tags": [
-        "Huawei",
-        "爆料",
         "自动抓取"
       ]
     },
