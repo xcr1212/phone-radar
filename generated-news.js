@@ -1,5 +1,5 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-07-14T21:13:59.709Z",
+  "updatedAt": "2026-07-14T23:10:23.421Z",
   "news": [
     {
       "id": "auto-62ff4f39b448",
@@ -1102,26 +1102,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-91db0346fdfd",
-      "title": "OnePlus is reportedly days away from calling it quits in the US",
-      "source": "Android Police",
-      "brand": "OPPO",
-      "model": "OPPO 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-14",
-      "time": "00:04",
-      "publishedAt": "2026-07-14T00:04:35.000Z",
-      "url": "https://www.androidpolice.com/oneplus-will-reportedly-pull-out-of-the-us-this-week/",
-      "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2026/07/oneplus-15-oppo-find-n6-phones.JPG",
-      "summary": "This could be happening in the EU too",
-      "tags": [
-        "OPPO",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-9bbf43c61c96",
       "title": "Apple announces changes to iOS in Brazil",
       "source": "Apple Newsroom",
@@ -1857,26 +1837,6 @@ window.phoneRadarAuto = {
       "summary": "Motorola is all set to unveil the Motorola Edge 70 Max on July 15 in India. Its Flipkart microsite has already revealed several details about its specifications but hasn’t confirm…",
       "tags": [
         "行业",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-52f2e4fc0b13",
-      "title": "Google Pixel 11 Pro Fold leaks in fresh Pine shade",
-      "source": "Gizmochina",
-      "brand": "Pixel",
-      "model": "Pixel 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-13",
-      "time": "04:35",
-      "publishedAt": "2026-07-13T04:35:26.000Z",
-      "url": "https://www.gizmochina.com/2026/07/13/google-pixel-11-pro-fold-leaks-in-fresh-pine-shade/",
-      "image": "https://s.w.org/images/core/emoji/13.1.0/72x72/1f4a1.png",
-      "summary": "A new leak is giving us an early look at another color option for the upcoming Google Pixel 11 Pro Fold. A source that goes by the alias Mystic Leaks on Telegram posted a render o…",
-      "tags": [
-        "Pixel",
         "爆料",
         "自动抓取"
       ]
