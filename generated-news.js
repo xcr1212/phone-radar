@@ -1,6 +1,106 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-07-14T15:44:37.625Z",
+  "updatedAt": "2026-07-14T17:33:45.350Z",
   "news": [
+    {
+      "id": "auto-3156722de89b",
+      "title": "Google announces Gemma 4 optimized for the Pixel 10’s TPU",
+      "source": "9to5Google",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-14",
+      "time": "17:10",
+      "publishedAt": "2026-07-14T17:10:47.000Z",
+      "url": "https://9to5google.com/2026/07/14/pixel-10-gemma-4/",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2025/08/Google-Tensor-G5-cover.jpg?quality=82&strip=all&w=1600",
+      "summary": "Google today announced Gemma 4 E2B for TPU that’s designed to run natively on the Pixel 10’s TPU. Gemma is Google’s series of open models that can run on-device.",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-81b7a3efd1f5",
+      "title": "Galaxy Z Fold 8 may finally get a wireless charging upgrade it desperately needs",
+      "source": "9to5Google",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-14",
+      "time": "16:37",
+      "publishedAt": "2026-07-14T16:37:44.000Z",
+      "url": "https://9to5google.com/2026/07/14/galaxy-z-fold-8-wireless-charging-leak/",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2025/07/galaxy-z-fold-7-63.jpg?quality=82&strip=all&w=1600",
+      "summary": "Samsung’s Galaxy Unpacked launch event is just around the corner, but more details about wireless charging speed for the Galaxy Z Fold 8 have surfaced.",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-e6156fb07393",
+      "title": "Redmi Note 17 debuts with a huge 7-inch OLED display and massive 8,000mAh battery",
+      "source": "Gizmochina",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-14",
+      "time": "16:29",
+      "publishedAt": "2026-07-14T16:29:46.000Z",
+      "url": "https://www.gizmochina.com/2026/07/14/redmi-note-17-launched-specs-price/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/07/Redmi-Note-17-300x188.png?x44794",
+      "summary": "Xiaomi has officially announced the Redmi Note 17 in China, a new budget smartphone that combines a massive display with an equally large battery. Redmi Note 17 Specifications The…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-e8582af10ca8",
+      "title": "Google Pixel 10 Pro plunges $300 in its best non-Prime deal ever",
+      "source": "Android Authority",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-14",
+      "time": "16:16",
+      "publishedAt": "2026-07-14T16:16:28.000Z",
+      "url": "https://www.androidauthority.com/pixel-10-pro-deal-3687418/",
+      "image": "",
+      "summary": "Amazon cuts the Pixel 10 Pro to just $699, but only in one colorway, so you may not have long to catch the deal.",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-643cbcf5e3a8",
+      "title": "Deals: Pixel 10 Pro up to $377 off, Z Fold 7 $625 off, OmniBook X Copilot+ PC $700 off, Nomad Find Hub card, more",
+      "source": "9to5Google",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-14",
+      "time": "15:56",
+      "publishedAt": "2026-07-14T15:56:06.000Z",
+      "url": "https://9to5google.com/2026/07/14/deals-pixel-10-pro-fold-7-nomad-find-hub-card/",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/07/9to5Google-Jul-14.webp?w=1600",
+      "summary": "Today’s 9to5Toys Lunch Break is headlined by the ongoing and particularly notable deal on Google Pixel 10 Pro sitting at one of the best prices ever ($300 off) , but here’s how to…",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-0ddfeec9d2f5",
       "title": "Huawei, Apple rules Q2 2026 China’s smartphone sales with strong price game",
@@ -922,26 +1022,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "coolapk-user-5f6867d591b6",
-      "title": "竹本青：REDMI K90／Turbo 5系列 销量曝光：合计超572万台",
-      "source": "竹本青",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-07-14",
-      "time": "03:38",
-      "publishedAt": "2026-07-14T03:38:30.000Z",
-      "url": "https://www.coolapk.com/feed/72775728",
-      "image": "http://image.coolapk.com/feed/2026/0714/11/4248714_900b5368_0309_9443_395@1438x823.jpg",
-      "summary": "【REDMI K90／Turbo 5系列 最新销量曝光：合计超572万台，K90 至尊版 约6.2万台】 REDMI K90 ● 截至2026 W27 —— 约243.6万 截至2026 W26 —— 约239.13万 截至2026 W25 —— 约232.97万 REDMI K90 Max ● 截至2026 W27 —— 约43.84万 截至2026 W…",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
       "id": "weibo-f045c0c88e56",
       "title": "数码闲聊站：2026Q2全球智能手机市场TOP5： ①三星24％、②苹果20％、③小米12…",
       "source": "数码闲聊站",
@@ -1277,26 +1357,6 @@ window.phoneRadarAuto = {
       "summary": "Privacy Display might be to blame",
       "tags": [
         "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-7f45897cf04d",
-      "title": "OnePlus is reportedly bailing on the US",
-      "source": "The Verge",
-      "brand": "OPPO",
-      "model": "OPPO 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-13",
-      "time": "21:48",
-      "publishedAt": "2026-07-13T21:48:43.000Z",
-      "url": "https://www.theverge.com/tech/965084/oneplus-oppo-exit-us-europe",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/258099_OnePlus_15_review_AJohnson_0005.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "summary": "OnePlus and its parent company, Oppo, plan to announce in the coming days that OnePlus brand will be leaving the US and European markets, according to a machine translation of a W…",
-      "tags": [
-        "OPPO",
         "爆料",
         "自动抓取"
       ]
