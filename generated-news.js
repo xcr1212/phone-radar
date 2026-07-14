@@ -1,20 +1,80 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-07-14T06:23:48.881Z",
+  "updatedAt": "2026-07-14T10:09:28.304Z",
   "news": [
     {
-      "id": "auto-3cc61fe21217",
-      "title": "安卓新机初始设置无法选择默认搜索引擎，谷歌遭瑞士竞争监管机构调查",
+      "id": "auto-fec90ec63d45",
+      "title": "After a month with the Razr Fold, I can’t go back to the Galaxy Z Fold 7",
+      "source": "Android Authority",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-14",
+      "time": "10:00",
+      "publishedAt": "2026-07-14T10:00:31.000Z",
+      "url": "https://www.androidauthority.com/motorola-razr-fold-one-month-later-ruined-z-fold-7-3686091/",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2026/07/razr-fold-z-fold-7-face-down-scaled-e1783958153997-500w-260h.jpeg",
+      "summary": "The Razr Fold looks better, lasts longer, and charges faster.",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-ff2868094337",
+      "title": "谷歌 Pixel11 系列手机美版价格曝光，899 美元起",
+      "source": "IT之家",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-14",
+      "time": "09:48",
+      "publishedAt": "2026-07-14T09:48:06.000Z",
+      "url": "https://www.ithome.com/0/976/653.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/7/f0b4b0e8-c6fa-44b1-877d-4cfae590b1fa.png?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 7 月 14 日消息，据科技媒体 Droid Life 昨日爆料，亚马逊近期曾短暂上架谷歌 Pixel11 系列手机的商品页面，不过目前已经撤回。 商品页面显示，谷歌 Pixel 11 标准版手机将提供霜白、木槿粉、曜石黑和开心果绿四种配色；Pixel11 Pro / Pro XL 则提供沙丘色、浅雾色、午夜黑和松绿色；Pixel 11 Pro…",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-010a0938d976",
+      "title": "I won’t buy the Pixel 11 unless Google fixes its awful portrait mode",
+      "source": "Android Authority",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-14",
+      "time": "09:30",
+      "publishedAt": "2026-07-14T09:30:02.000Z",
+      "url": "https://www.androidauthority.com/pixel-10-bad-portrait-photos-3685303/",
+      "image": "",
+      "summary": "The Pixel 10’s biggest camera weakness is the portraits it can’t get right.",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-852e5fd07510",
+      "title": "HMD XploraOne Neo 儿童手机曝光：三种配色可选、搭 RTOS Touch 系统",
       "source": "IT之家",
       "brand": "行业",
       "model": "智能手机市场",
       "type": "爆料",
       "trust": "媒体汇总",
       "date": "2026-07-14",
-      "time": "06:12",
-      "publishedAt": "2026-07-14T06:12:13.000Z",
-      "url": "https://www.ithome.com/0/976/460.htm",
-      "image": "",
-      "summary": "IT之家 7 月 14 日消息，瑞士竞争委员会（COMCO）宣布对谷歌展开审查。据当地媒体“20Min”今天（14 日）报道，瑞士竞争委员会秘书处宣布，已就谷歌取消瑞士市场安卓智能手机上的“选择屏幕”搜索引擎选择界面启动初步调查。 用户首次设置新安卓设备时，系统原本会显示“选择屏幕”，让用户 自行选择默认搜索引 擎，不必直接接受谷歌搜索作为预设选项。 瑞士…",
+      "time": "09:29",
+      "publishedAt": "2026-07-14T09:29:56.000Z",
+      "url": "https://www.ithome.com/0/976/633.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/7/40c2f8ee-c56f-4560-b1a5-4d36e5870a55.jpg?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 7 月 14 日消息，消息源 smashx_60 现已曝光了 HMD XploraOne Neo 儿童手机，该产品提供三种配色可选，预计将接替 现款 XploraOne 机型 。 该机可选三种配色，拥有 IP54 认证，手机正面配备一块 3.5 英寸 240x320 分辨率 LCD 面板，手机背面搭载 2MP 主摄。该机搭载 64MB RAM 和…",
       "tags": [
         "行业",
         "爆料",
@@ -22,23 +82,183 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-a7eae3f66ce5",
-      "title": "消息称因成本高、盈利困难，HMD 已搁置 Fusion 2 模块化手机项目",
+      "id": "auto-461a0cf0cb68",
+      "title": "OPPO 相机滤镜「和光」&「反差黑白」适配更多机型，含 Find X8、Reno 15 等系列手机",
       "source": "IT之家",
-      "brand": "行业",
-      "model": "智能手机市场",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
       "type": "爆料",
       "trust": "媒体汇总",
       "date": "2026-07-14",
-      "time": "05:30",
-      "publishedAt": "2026-07-14T05:30:18.000Z",
-      "url": "https://www.ithome.com/0/976/451.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2025/10/3e73a011-137c-4f4b-9172-7458c3c3d0c0.png?x-bce-process=image/format,f_auto/auto-orient,o_1",
-      "summary": "IT之家 7 月 14 日消息，消息源 @smashx_60 昨日（7 月 13 日）发布博文，爆料称由于高昂的制造成本以及商业化盈利问题， HMD Global 可能已搁置 Fusion Project 模块化手机项目，不再推出 Fusion 2 继任机型。 HMD Global 于 2024 年 9 月发布模块化手机 Fusion ， 继任机型 Fus…",
+      "time": "08:59",
+      "publishedAt": "2026-07-14T08:59:44.000Z",
+      "url": "https://www.ithome.com/0/976/602.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/7/0d5b7912-d445-4c8f-bc0a-365a35b79b8d.jpg?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 7 月 14 日消息，OPPO ColorOS 官方微博今日宣布， OPPO 相机滤镜「和光」&「反差黑白」已适配更多机型 ，主打“人像、探店、城市街拍、风景静物全覆盖”。 从官方海报来看，支持和光与反差黑白两款滤镜的机型范围是： OPPO Find X9 系列 / OPPO Find X8 系列 / OPPO Find N6 / OPPO Fi…",
       "tags": [
-        "行业",
+        "OPPO",
         "爆料",
         "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-6cb1336d2811",
+      "title": "Huawei EMUI 16 debuts with smarter and smoother features",
+      "source": "Huawei Central",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-14",
+      "time": "08:44",
+      "publishedAt": "2026-07-14T08:44:32.000Z",
+      "url": "https://www.huaweicentral.com/huawei-emui-16-debuts-with-smarter-and-smoother-features/",
+      "image": "https://www.huaweicentral.com/wp-content/uploads/2026/07/emui16-img1.jpg",
+      "summary": "After two years of waiting, Huawei has finally debuted EMUI 16 with the all-new camera flagship – Pura 90s series. It seems the wait was worth it, as the latest OS upgrade promise…",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-bdc8b8911479",
+      "title": "翻开新篇章！华为海外发布 Pura 90s Pro 系列手机，官网正式标注 5G NR 参数",
+      "source": "IT之家",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-14",
+      "time": "08:05",
+      "publishedAt": "2026-07-14T08:05:56.000Z",
+      "url": "https://www.ithome.com/0/976/562.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/7/09881cda-1b46-4531-9086-e02b7d8d06c0.jpg?x-bce-process=image/format,f_auto/auto-orient,o_1",
+      "summary": "IT之家 7 月 14 日消息，在“Now is Your Moment”主题旗舰产品发布会上，华为正式面向国际市场发布了 Pura 90s Pro 系列手机，包括 Pro 和 Pro Max 两款机型。 此前有海外账号提前爆料，称 Pura 90 Pro Max 国际版（目前来看该机为 Pura 90s Pro Max）支持 5G 网络，且状态栏可以显示…",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-53a7fecf9da1",
+      "title": "Some Galaxy S26 Ultra screens are slowly turning red, and Samsung doesn’t know why (yet)",
+      "source": "Android Authority",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-14",
+      "time": "08:04",
+      "publishedAt": "2026-07-14T08:04:47.000Z",
+      "url": "https://www.androidauthority.com/samsung-galaxy-s26-ultra-display-issue-turning-red-3687135/",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2026/03/Samsung-Galaxy-S26-Ultra-showing-One-UI-home-screen.jpg",
+      "summary": "Galaxy S26 Ultra's display woes don't seem to end.",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-389b1ce14926",
+      "title": "iQOO Z12 Turbo, iQOO Neo 12, iQOO 16 tipped to pack massive batteries",
+      "source": "Gizmochina",
+      "brand": "vivo",
+      "model": "vivo 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-14",
+      "time": "07:45",
+      "publishedAt": "2026-07-14T07:45:54.000Z",
+      "url": "https://www.gizmochina.com/2026/07/14/iqoo-16-neo-12-z12-turbo-battery-leak/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/01/iQOO-Z11-Turbo-4-300x169.jpg?x44794",
+      "summary": "iQOO 16, iQOO Neo 12, and iQOO Z12 Turbo are expected to feature significantly larger batteries, as per a new leak by reliable tipster Digital Chat Station. To recall, he recently…",
+      "tags": [
+        "vivo",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-f1c9350cc79d",
+      "title": "Huawei launches Pura 90s Pro 5G with gradient colors, 50MP quad camera system, large battery and more",
+      "source": "Huawei Central",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-14",
+      "time": "07:33",
+      "publishedAt": "2026-07-14T07:33:03.000Z",
+      "url": "https://www.huaweicentral.com/huawei-launches-pura-90s-pro-5g/",
+      "image": "https://www.huaweicentral.com/wp-content/uploads/2026/07/hauwei-pura-90s-pro1.jpg",
+      "summary": "Over the past year, Huawei’s global launch campaign has been moving slowly, but now, the Huawei Pura 90s Pro 5G has come to revive the momentum. This new device is now available f…",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-02a66354d55b",
+      "title": "Huawei Pura 90s Pro Max 5G goes global with 200MP telephoto camera, 6.9′ OLED screen, 6000mAh battery and more",
+      "source": "Huawei Central",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-14",
+      "time": "07:17",
+      "publishedAt": "2026-07-14T07:17:39.000Z",
+      "url": "https://www.huaweicentral.com/huawei-pura-90s-pro-max-goes-global/",
+      "image": "https://www.huaweicentral.com/wp-content/uploads/2026/07/huawei-pura-90s-pro-max1.jpg",
+      "summary": "On July 14, 2026, Huawei made a major comeback to the global market with the launch of the Huawei Pura 90s Pro Max. This is the first flagship in years that comes with all of the…",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "weibo-1c0c9b425ea7",
+      "title": "数码闲聊站：IDC公布2026Q2中国市场智能手机出货量： ①华为—1492W—份额22.…",
+      "source": "数码闲聊站",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-07-14",
+      "time": "07:08",
+      "publishedAt": "2026-07-14T07:08:00.000Z",
+      "url": "https://weibo.com/6048569942/R8DQACoQw",
+      "image": "",
+      "summary": "IDC公布2026Q2中国市场智能手机出货量： ①华为—1492W—份额22.6%—同比增长19.4％ ②苹果—1195W—份额18.1%—同比增长24.4％ ③OPPO—1056W—份额16.0%—同比下滑9.7％ ③vivo—1056W—份额16.0%—同比下滑11.4％ ⑤小米—819W—份额12.4%—同比下滑21.7％ ⑥荣耀—746W—份额11…",
+      "tags": [
+        "HONOR",
+        "爆料",
+        "微博"
+      ]
+    },
+    {
+      "id": "coolapk-user-264a08417b4c",
+      "title": "JSCHEN小小狐：博主汇总荣耀 Robot Phone 参数：8 月发布",
+      "source": "JSCHEN小小狐",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-07-14",
+      "time": "06:57",
+      "publishedAt": "2026-07-14T06:57:40.000Z",
+      "url": "https://www.coolapk.com/feed/72778136",
+      "image": "http://image.coolapk.com/feed/2026/0714/14/4702274_3e475118_2259_2275_866@1440x667.jpg",
+      "summary": "『博主汇总荣耀 Robot Phone 参数：8 月发布』 ◇ 6.3-6.4 英寸 1.5K 四等边直屏 ◇ 骁龙 8 Elite Gen5 移动平台 ◇ 200Mp 23mm f/1.6 4D 云台主摄 ◇ 200Mp 潜望式长焦 + 50Mp 超广角 ◇ ARRI 影像 / 预计为 Magic9 系列超前瞻 此外，消息称荣耀 Robot Phone…",
+      "tags": [
+        "HONOR",
+        "爆料",
+        "酷安博主"
       ]
     },
     {
@@ -83,7 +303,7 @@ window.phoneRadarAuto = {
     },
     {
       "id": "coolapk-user-295527bb0bc8",
-      "title": "竹本青：网传一加计划近期退出美国、欧洲市场",
+      "title": "竹本青：【网传一加计划近期退出美国、欧洲市场】 日前，据海外媒体消息，一加及其母公司OPPO计划在未来几天宣布，一加品牌将…",
       "source": "竹本青",
       "brand": "OPPO",
       "model": "OPPO 相关机型",
@@ -142,26 +362,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-41a0f598129e",
-      "title": "IDC 报告 2026 年 Q2 全球智能手机出货量同比下滑 6.7%：小米跌幅最大但有意为之，三星、苹果、华为逆势上涨",
-      "source": "IT之家",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-14",
-      "time": "04:05",
-      "publishedAt": "2026-07-14T04:05:07.000Z",
-      "url": "https://www.ithome.com/0/976/424.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/7/58adee77-6171-48a3-a45e-4cabb45462a1.png?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 7 月 14 日消息，根据国际数据公司（IDC）《全球季度手机追踪报告》今日发布的初步数据， 2026 年第二季度全球智能手机出货量为 2.775 亿部，同比下降 6.7% 。 这已是连续第二个季度出现同比下滑。内存危机持续冲击市场，不仅大幅推高成本，也造成供应紧张。 IDC 全球消费设备高级研究总监 Nabila Popal 表示： 内存成本较…",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-c77ca3da3115",
       "title": "Vivo X300e storage, RAM, color options tipped in new leak",
       "source": "Gizmochina",
@@ -177,26 +377,6 @@ window.phoneRadarAuto = {
       "summary": "Vivo’s X-series has built a solid reputation for packing premium design and great imaging performance into a more compact package. Now, fresh leaks about the upcoming X300e sugges…",
       "tags": [
         "vivo",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-c80be1eee114",
-      "title": "三星 Galaxy 手机在韩独占逾 80% 份额，亦成为 78% 用户未来购机选择",
-      "source": "IT之家",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-14",
-      "time": "03:50",
-      "publishedAt": "2026-07-14T03:50:16.000Z",
-      "url": "https://www.ithome.com/0/976/409.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/2/ed59fe99-7517-4014-a08b-bda7fe796d5e.jpg?x-bce-process=image/auto-orient,o_1",
-      "summary": "IT之家 7 月 14 日消息，据韩联社报道，民调机构韩国盖洛普 13 日发布的一份调查结果显示，当地智能手机用户中， 八成以上使用三星电子的 Galaxy 系列手机 。 该机构面向除济州以外的全韩国 13 岁以上 1675 名手机用户进行了智能手机使用现况调查。IT之家从数据中获悉， Galaxy 系列用户占 81%，苹果手机占 19% 。 按性别看，男…",
-      "tags": [
-        "Samsung",
         "爆料",
         "自动抓取"
       ]
@@ -239,26 +419,6 @@ window.phoneRadarAuto = {
         "Xiaomi",
         "爆料",
         "酷安博主"
-      ]
-    },
-    {
-      "id": "auto-d691041011cd",
-      "title": "Valve 将修复 Steam Machine 过早触发红灯提醒问题：CPU / GPU 温度阈值提高至 100℃",
-      "source": "IT之家",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-14",
-      "time": "03:22",
-      "publishedAt": "2026-07-14T03:22:22.000Z",
-      "url": "https://www.ithome.com/0/976/377.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/7/30af3208-4ea3-40eb-9d92-fd581baf2925.jpg",
-      "summary": "IT之家 7 月 14 日消息，科技媒体 Tom's Hardware 昨日（7 月 13 日）发布博文，报道称 Valve 计划通过推送 BIOS 更新， 提高 Steam Machine 温度警告阈值至 100 摄氏度。 Valve 官方指出现有 Steam Machine 设定 CPU / GPU 红灯警告阈值为 95℃/90℃，不过根据用户反馈，…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
       ]
     },
     {
@@ -442,6 +602,26 @@ window.phoneRadarAuto = {
       ]
     },
     {
+      "id": "newsnow-a066300e768c",
+      "title": "IDC公布第二季度全球/中国手机市场出货量数据",
+      "source": "酷安热榜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-07-14",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/72777383",
+      "image": "",
+      "summary": "IDC公布第二季度全球/中国手机市场出货量数据",
+      "tags": [
+        "行业",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
       "id": "newsnow-769f5e65252b",
       "title": "蓝狐 Aura A1 手机进入量产确认环节： 联发科G100",
       "source": "酷安热榜",
@@ -462,6 +642,26 @@ window.phoneRadarAuto = {
       ]
     },
     {
+      "id": "newsnow-19a8babfc09f",
+      "title": "REDMI K100 Pro Max 核心曝光：185Hz超清直屏",
+      "source": "酷安热榜",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-07-14",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/72773968",
+      "image": "",
+      "summary": "REDMI K100 Pro Max 核心曝光：185Hz超清直屏",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
       "id": "newsnow-5d3fc36ec4cc",
       "title": "Pura X Max 、iPhone Air 、iphone17 Pro Max 交替使用感受",
       "source": "酷安热榜",
@@ -475,26 +675,6 @@ window.phoneRadarAuto = {
       "url": "https://www.coolapk.com/feed/72765903",
       "image": "",
       "summary": "Pura X Max 、iPhone Air 、iphone17 Pro Max 交替使用感受",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-4d3ec19da5fc",
-      "title": "女朋友的眼光我实在不敢恭维[真正的音乐]我说了贼丑，非要买，还说好看/流行，说别人都觉得好看（ps：估计是小某书的人）有没有裤友来点评或者分享一下自己的手机壳，真是我眼光问题？[doge笑哭][doge笑哭] #iPhone17#",
-      "source": "酷安热榜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-07-14",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72757666",
-      "image": "",
-      "summary": "女朋友的眼光我实在不敢恭维[真正的音乐]我说了贼丑，非要买，还说好看/流行，说别人都觉得好看（ps：估计是小某书的人）有没有裤友来点评或者分享一下自己的手机壳，真是我眼光问题？[doge笑哭][doge笑哭] #iPhone17#",
       "tags": [
         "iPhone",
         "爆料",
@@ -942,46 +1122,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-35989cb57d3c",
-      "title": "Huawei’s wide non-foldable phone could follow Pura X screen size",
-      "source": "Huawei Central",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-13",
-      "time": "11:54",
-      "publishedAt": "2026-07-13T11:54:01.000Z",
-      "url": "https://www.huaweicentral.com/huaweis-wide-non-foldable-phone-could-follow-pura-x-screen-size/",
-      "image": "https://www.huaweicentral.com/wp-content/uploads/2026/07/non-foldable-leak-img.jpg",
-      "summary": "Huawei’s wide, non-foldable phone is catching traction in the leaks section for its interesting form factor, and the latest input for this device sheds light on its screen size. A…",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-02d623ff1bdb",
-      "title": "Galaxy Z Fold 8 Ultra, Fold 8 may feature faster wireless charging",
-      "source": "SamMobile",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-13",
-      "time": "11:46",
-      "publishedAt": "2026-07-13T11:46:28.000Z",
-      "url": "https://www.sammobile.com/news/galaxy-z-fold-8-ultra-fold-8-may-feature-faster-wireless-charging/",
-      "image": "",
-      "summary": "From the Galaxy Z Fold 4 to the latest Galaxy Z Fold 7, Samsung has equipped every model in the lineup with the same 15W wireless charging speed. While that's sufficient for most…",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-f97e59876a6b",
       "title": "5 Android features I miss every time I switch to an iPhone",
       "source": "Android Authority",
@@ -997,26 +1137,6 @@ window.phoneRadarAuto = {
       "summary": "It's sad that iPhones still can't do these things in 2026.",
       "tags": [
         "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-f6261eaac9d8",
-      "title": "New Huawei Pura 90s Pro teaser hypes Pink Guava aesthetics",
-      "source": "Huawei Central",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-13",
-      "time": "09:22",
-      "publishedAt": "2026-07-13T09:22:54.000Z",
-      "url": "https://www.huaweicentral.com/new-huawei-pura-90s-pro-teaser-hypes-pink-guava-aesthetics/",
-      "image": "https://www.huaweicentral.com/wp-content/uploads/2026/07/Pura90sPro-Pink-Guava.jpg",
-      "summary": "Huawei Pura 90s Pro is here with a new teaser, showing its super-beautiful aesthetics in a Pink Guava color variant. While the Pro Max variant reflects the glory of nature, the st…",
-      "tags": [
-        "Huawei",
         "爆料",
         "自动抓取"
       ]
@@ -1279,26 +1399,6 @@ window.phoneRadarAuto = {
         "Huawei",
         "评测",
         "自动抓取"
-      ]
-    },
-    {
-      "id": "weibo-868a336dd7d7",
-      "title": "数码闲聊站：独家信息：子系8E6 Pro新机，工程机外围测试1115系高规格对称双扬，X轴…",
-      "source": "数码闲聊站",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-07-13",
-      "time": "01:08",
-      "publishedAt": "2026-07-13T01:08:20.000Z",
-      "url": "https://weibo.com/6048569942/R8s474zmE",
-      "image": "",
-      "summary": "独家信息，子系8E6 Pro新机，工程机外围测试1115系高规格对称双扬，X轴马达是0916系，有独显芯片，有3D超声波指纹，有IP68/IP69，有USB 3.2，有AR膜，无风扇，主摄测试OV50Q👖",
-      "tags": [
-        "行业",
-        "爆料",
-        "微博"
       ]
     }
   ]
