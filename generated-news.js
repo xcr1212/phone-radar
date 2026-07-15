@@ -1,9 +1,109 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-07-15T14:08:21.107Z",
+  "updatedAt": "2026-07-15T15:49:17.178Z",
   "news": [
     {
+      "id": "auto-bc5eccc94418",
+      "title": "消息称苹果正寻求收购人工智能芯片企业",
+      "source": "IT之家",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-15",
+      "time": "15:11",
+      "publishedAt": "2026-07-15T15:11:27.000Z",
+      "url": "https://www.ithome.com/0/977/243.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/7/a3d849a3-3b77-41be-98d7-be1335615b81.jpg?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 7 月 15 日消息，据 The Information 报道，熟悉苹果工作的人士表示，苹果正在寻找收购芯片公司，以推进其开发用于运行人工智能的服务器芯片的相关工作。 报道称，近几个月来，这家 iPhone 制造商与银行家们就可能的交易进行了交流。消息人士称，该公司还接触了半导体初创企业，了解他们是否有被收购的意愿。苹果寻求芯片收购的行动正值公司…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-320172108a1c",
+      "title": "Samsung releases software updates for Galaxy Z Fold 6, Flip 6",
+      "source": "SamMobile",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-15",
+      "time": "15:05",
+      "publishedAt": "2026-07-15T15:05:03.000Z",
+      "url": "https://www.sammobile.com/news/samsung-releases-software-updates-galaxy-z-fold-6-flip-6/",
+      "image": "",
+      "summary": "Samsung’s flagship smartphones with foldable displays from 2024, the Galaxy Z Fold 6 and the Galaxy Z Flip 6, are getting new software updates. They offer the July 2026 security p…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-7d55eb059599",
+      "title": "Full Galaxy Z Fold 8 and Ultra specs leak, showing how different the wide one is",
+      "source": "9to5Google",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-15",
+      "time": "14:30",
+      "publishedAt": "2026-07-15T14:30:00.000Z",
+      "url": "https://9to5google.com/2026/07/15/samsung-galaxy-z-fold-8-specs-leak-2/",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/07/galaxy-fold-8-family-leak-ah-2-1.webp?w=1600",
+      "summary": "As Samsung’s event nears, the Galaxy Z Fold 8 leaks keep on coming, this morning with a full breakdown of the specs of Samsung’s new foldables.",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-b7385d6fd1f4",
+      "title": "Massive leak reveals everything you want to know about the Galaxy Z Fold 8 and Fold 8 Ultra",
+      "source": "Android Authority",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-15",
+      "time": "14:25",
+      "publishedAt": "2026-07-15T14:25:45.000Z",
+      "url": "https://www.androidauthority.com/samsung-galaxy-z-fold-8-ultra-full-specifications-leak-3687790/",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2026/07/Samsung-Galaxy-Z-Fold-8-series-and-Flip-8.jpg",
+      "summary": "From the cameras, to the processor, design and dimensions, and even battery — this leak reveals it all.",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-7a9108b08df5",
+      "title": "Samsung teases Galaxy Z Fold 8’s ‘new shape’ in Spider-Man: Brand New Day ad [Video]",
+      "source": "9to5Google",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-15",
+      "time": "14:13",
+      "publishedAt": "2026-07-15T14:13:21.000Z",
+      "url": "https://9to5google.com/2026/07/15/samsung-teases-galaxy-z-fold-8-spider-man-ad/",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/07/Spider-Man-Galaxy-Z-Fold-8-ad.jpg?quality=82&strip=all&w=1400",
+      "summary": "Samsung is building hype for the Galaxy Z Fold 8 and calling it a “brand new shape” in a cinematic ad for the upcoming Spider-Man film.",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
       "id": "auto-f9ccd7034b5f",
-      "title": "Fresh Redmi K100 Pro reiterates specs that have been revealed before",
+      "title": "Fresh Redmi K100 Pro leak reiterates specs that have been revealed before",
       "source": "Gizmochina",
       "brand": "Xiaomi",
       "model": "Xiaomi 相关机型",
@@ -362,26 +462,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-0763d5953ea6",
-      "title": "Galaxy Z Flip 8 and Z Fold 8 pre-orders may not come with free storage upgrades",
-      "source": "SamMobile",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-15",
-      "time": "04:29",
-      "publishedAt": "2026-07-15T04:29:21.000Z",
-      "url": "https://www.sammobile.com/news/galaxy-z-flip-fold-8-pre-orders-no-free-storage-upgrade/",
-      "image": "",
-      "summary": "Samsung will unveil the Galaxy Z Flip 8, Galaxy Z Fold 8, and Galaxy Z Fold 8 Ultra on July 22, 2026, and will likely make them available for preorder on the same day. If you are…",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "coolapk-user-00938b1b4a60",
       "title": "竹本青：REDMI「城市英雄服务站」到店活动开启：免费领矿泉水+用机指南+冰贴",
       "source": "竹本青",
@@ -595,6 +675,26 @@ window.phoneRadarAuto = {
       "url": "https://www.coolapk.com/feed/72769161",
       "image": "",
       "summary": "阶跃星辰首款智能体手机STEPX Neo亮相",
+      "tags": [
+        "行业",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-72df13e62948",
+      "title": "王俊凯忙一天打开手机天塌了",
+      "source": "微博热搜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "待验证",
+      "date": "2026-07-15",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%BF%8A%E5%87%AF%E5%BF%99%E4%B8%80%E5%A4%A9%E6%89%93%E5%BC%80%E6%89%8B%E6%9C%BA%E5%A4%A9%E5%A1%8C%E4%BA%86%23&t=31&band_rank=7&Refer=top",
+      "image": "",
+      "summary": "王俊凯忙一天打开手机天塌了",
       "tags": [
         "行业",
         "爆料",
