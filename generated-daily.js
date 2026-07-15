@@ -1,5 +1,5 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-07-15T10:15:09.345Z",
+  "updatedAt": "2026-07-15T11:49:59.030Z",
   "issueDate": "2026-07-15",
   "issue": "VOL.260715",
   "title": "手机情报日报",
@@ -65,6 +65,29 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
+          "id": "auto-7b72fda06d10",
+          "title": "荣耀 MagicOS 10 系统 7 月版本今启首批机型推送，覆盖 Magic8、数字 600 等系列手机",
+          "originalTitle": "",
+          "source": "IT之家",
+          "brand": "HONOR",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-07-15",
+          "time": "11:44",
+          "publishedAt": "2026-07-15T11:44:27.000Z",
+          "url": "https://www.ithome.com/0/977/212.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/7/71ba3a10-f43a-47f3-96e5-f490412b8ca5.jpg",
+          "verdict": "先看",
+          "takeaway": "IT之家 7 月 15 日消息，据荣耀产品维护与升级 @荣耀小芳哥 今日分享， MagicOS 10 系统的 7 月版本今日将开启首批机型推送 （版本号为 10.0.0.170）。 荣耀 Magic V6 、Magic8 RSR 保时捷设计、Magic8 Pro、Magic8 Pro Air、Magic8、600 Pro、600 超级版、600 元气版 I…",
+          "detail": "IT之家 7 月 15 日消息，据荣耀产品维护与升级 @荣耀小芳哥 今日分享， MagicOS 10 系统的 7 月版本今日将开启首批机型推送 （版本号为 10.0.0.170）。 荣耀 Magic V6 、Magic8 RSR 保时捷设计、Magic8 Pro、Magic8 Pro Air、Magic8、600 Pro、600 超级版、600 元气版 I…",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
           "id": "auto-9b35177c626e",
           "title": "Omdia：第二季度中国大陆智能手机出货量同比下降 2%，华为苹果逆势大涨",
           "originalTitle": "",
@@ -82,29 +105,6 @@ window.phoneRadarDaily = {
           "detail": "IT之家 7 月 15 日消息，研究机构 Omdia 于 7 月 14 日发布的最新研究显示，2026 年第二季度， 中国大陆智能手机市场出货 6610 万台，同比下滑 2% ，略缓于全球 4% 下降幅度。 随着内存成本上涨带来的价格压力进一步凸显，市场分化持续加剧，具备高端产品优势的头部厂商进一步巩固领先地位： 华为 凭借新品带动及稳健的价格策略持续扩大…",
           "keyPoints": [
             "成本 / 价格"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "auto-6acdb038f1ae",
-          "title": "小米 Poco M8 Power 海外机型曝光，为 REDMI Note 17 标准版手机“套娃机”",
-          "originalTitle": "",
-          "source": "IT之家",
-          "brand": "Xiaomi",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-07-15",
-          "time": "07:37",
-          "publishedAt": "2026-07-15T07:37:43.000Z",
-          "url": "https://www.ithome.com/0/977/052.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/7/297f07b5-b5d8-465a-a1de-19184b95e978.png?x-bce-process=image/format,f_auto",
-          "verdict": "先看",
-          "takeaway": "IT之家 7 月 15 日消息，小米旗下一款 Poco M8 Power 海外机型目前已现身 HyperOS 最新固件，该机具体型号为 26021PC18I，预计面向印度市场。 据外媒 GSMArena 报道，该机实际上为小米 REDMI Note 17 标准版的“套娃机”，但可能电池容量会有所差异。 回顾 小米 REDMI Note 17 标准版 ，该机…",
-          "detail": "IT之家 7 月 15 日消息，小米旗下一款 Poco M8 Power 海外机型目前已现身 HyperOS 最新固件，该机具体型号为 26021PC18I，预计面向印度市场。 据外媒 GSMArena 报道，该机实际上为小米 REDMI Note 17 标准版的“套娃机”，但可能电池容量会有所差异。 回顾 小米 REDMI Note 17 标准版 ，该机…",
-          "keyPoints": [
-            "电池 / 充电"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",

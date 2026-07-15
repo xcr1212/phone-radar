@@ -1,6 +1,106 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-07-15T10:15:09.345Z",
+  "updatedAt": "2026-07-15T11:49:59.030Z",
   "news": [
+    {
+      "id": "auto-3788575cb253",
+      "title": "Motorola Edge 70 Max shows you don't have to sacrifice style to get a massive battery",
+      "source": "Android Police",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-15",
+      "time": "11:47",
+      "publishedAt": "2026-07-15T11:47:51.000Z",
+      "url": "https://www.androidpolice.com/motorola-edge-70-max-announcement/",
+      "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2026/07/motorola-edge70-max-rear.jpeg",
+      "summary": "Motorola knows style matters too",
+      "tags": [
+        "行业",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-7b72fda06d10",
+      "title": "荣耀 MagicOS 10 系统 7 月版本今启首批机型推送，覆盖 Magic8、数字 600 等系列手机",
+      "source": "IT之家",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-15",
+      "time": "11:44",
+      "publishedAt": "2026-07-15T11:44:27.000Z",
+      "url": "https://www.ithome.com/0/977/212.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/7/71ba3a10-f43a-47f3-96e5-f490412b8ca5.jpg",
+      "summary": "IT之家 7 月 15 日消息，据荣耀产品维护与升级 @荣耀小芳哥 今日分享， MagicOS 10 系统的 7 月版本今日将开启首批机型推送 （版本号为 10.0.0.170）。 荣耀 Magic V6 、Magic8 RSR 保时捷设计、Magic8 Pro、Magic8 Pro Air、Magic8、600 Pro、600 超级版、600 元气版 I…",
+      "tags": [
+        "HONOR",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-a94bc5fa054c",
+      "title": "Samsung updates Galaxy S24 with July 2026 security patch",
+      "source": "SamMobile",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-15",
+      "time": "11:23",
+      "publishedAt": "2026-07-15T11:23:22.000Z",
+      "url": "https://www.sammobile.com/news/samsung-updates-galaxy-s24-with-july-2026-security-patch/",
+      "image": "",
+      "summary": "After the Galaxy S26 and the Galaxy S25 lineups, Samsung has now started rolling out the July 2026 security patch to the Galaxy S24 series. As expected, the brand is offering the…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-bc70833e5e09",
+      "title": "Survey says this is fans’ biggest worry with the Galaxy S27 Ultra",
+      "source": "Android Authority",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-15",
+      "time": "11:17",
+      "publishedAt": "2026-07-15T11:17:59.000Z",
+      "url": "https://www.androidauthority.com/galaxy-s27-ultra-upgrade-poll-results-3687712/",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2026/05/Samsung-Galaxy-S26-Ultra-with-S-Pen-out-in-hand.jpg",
+      "summary": "Over half of respondents agree that Samsung's next flagship needs this critical upgrade.",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-8b6ac8c4b116",
+      "title": "魅族 Flyme Auto 合作车型今年 6 月新增 14.3 万辆，累计销量已突破 300 万辆",
+      "source": "IT之家",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-15",
+      "time": "10:49",
+      "publishedAt": "2026-07-15T10:49:53.000Z",
+      "url": "https://www.ithome.com/0/977/199.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/7/16563019-05cb-4d59-83c0-a563a19f1e7b.jpg?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 7 月 15 日消息，武汉星纪魅族科技有限公司官方微博 @FlymeAIOS 今日宣布， 6 月新增了 14.3 万辆 Flyme Auto 合作车型 。 官方战报显示，截止至 2026 年 6 月 30 日，魅族 Flyme Auto 合作车型 2026 年累计销量 880690 辆， 累计销量已突破 300 万辆（3147730 辆） 。 据…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-fa7393f77519",
       "title": "After using the Galaxy Z Fold 7 and Razr Fold, the Pixel 11 Pro Fold needs these 6 upgrades",
@@ -122,26 +222,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-6acdb038f1ae",
-      "title": "小米 Poco M8 Power 海外机型曝光，为 REDMI Note 17 标准版手机“套娃机”",
-      "source": "IT之家",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-15",
-      "time": "07:37",
-      "publishedAt": "2026-07-15T07:37:43.000Z",
-      "url": "https://www.ithome.com/0/977/052.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/7/297f07b5-b5d8-465a-a1de-19184b95e978.png?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 7 月 15 日消息，小米旗下一款 Poco M8 Power 海外机型目前已现身 HyperOS 最新固件，该机具体型号为 26021PC18I，预计面向印度市场。 据外媒 GSMArena 报道，该机实际上为小米 REDMI Note 17 标准版的“套娃机”，但可能电池容量会有所差异。 回顾 小米 REDMI Note 17 标准版 ，该机…",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-19746cff102e",
       "title": "Google is giving Pixel 9 and Pixel 10 owners another shot at Pixel Care Plus",
       "source": "Android Authority",
@@ -217,26 +297,6 @@ window.phoneRadarAuto = {
       "summary": "【REDMI「城市英雄服务站」到店活动开启：免费领矿泉水+用机指南+冰贴】 ● 一瓶矿泉水（限量80万瓶） ● 一份长辈用机随身指南（限量100万份） ● 一份户外清凉贴（限量10万份） ● 免费充电+免费WiFi+免费清洁 ● 不限手机品牌，900家门店免费贴膜 活动时间：7月15日-8月14日 #今日热点# #HyperOS3# #红米note17Pr…",
       "tags": [
         "Xiaomi",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
-      "id": "coolapk-user-8332e19b4963",
-      "title": "竹本青：【OPPO与支付宝 达成智能体跨端互联合作：一句话搞定生活琐事】 7月15日，OPPO宣布与支付宝达成智能体跨端互…",
-      "source": "竹本青",
-      "brand": "OPPO",
-      "model": "OPPO 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-07-15",
-      "time": "02:59",
-      "publishedAt": "2026-07-15T02:59:41.000Z",
-      "url": "https://www.coolapk.com/feed/72789108",
-      "image": "http://image.coolapk.com/feed/2026/0715/10/4248714_9655af10_4377_7434_472@782x10601.jpg",
-      "summary": "【OPPO与支付宝 达成智能体跨端互联合作：一句话搞定生活琐事】 7月15日，OPPO宣布与支付宝达成智能体跨端互联合作： 即日起，对着小布喊句话，看电影、点外卖、查社保公积金……近200件生活琐事，阿宝就能帮你跑腿。部分服务还能后台默默干，办完通知你，不用盯进度。 #今日热点# #支付宝# #ColorOS16#",
-      "tags": [
-        "OPPO",
         "爆料",
         "酷安博主"
       ]
@@ -455,26 +515,6 @@ window.phoneRadarAuto = {
       "url": "https://www.coolapk.com/feed/72783115",
       "image": "",
       "summary": "消息称今年Q4将是手机价格高点，华为也难避免涨价",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-4b3e6fc5f2c9",
-      "title": "华为手机出货量逆势暴涨",
-      "source": "百度热搜",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-15",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.baidu.com/s?wd=%E5%8D%8E%E4%B8%BA%E6%89%8B%E6%9C%BA%E5%87%BA%E8%B4%A7%E9%87%8F%E9%80%86%E5%8A%BF%E6%9A%B4%E6%B6%A8",
-      "image": "",
-      "summary": "华为手机出货量逆势暴涨",
       "tags": [
         "Huawei",
         "爆料",
@@ -755,26 +795,6 @@ window.phoneRadarAuto = {
       "url": "https://9to5google.com/2026/07/14/samsung-could-end-free-storage-upgrades-with-galaxy-z-fold-8-and-z-flip-8/",
       "image": "https://9to5google.com/wp-content/uploads/sites/4/2025/07/galaxy-z-fold-7-review-01.jpg?quality=82&strip=all&w=1600",
       "summary": "We have some bad news if you were planning on buying the Galaxy Z Flip 8 or Fold 8 and counting on Samsung’s signature free storage upgrade.",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-ad2cabdcfa94",
-      "title": "Galaxy S25 series’ July 2026 security update goes global",
-      "source": "SamMobile",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-14",
-      "time": "14:38",
-      "publishedAt": "2026-07-14T14:38:00.000Z",
-      "url": "https://www.sammobile.com/news/galaxy-s25-series-july-2026-security-update-goes-global/",
-      "image": "",
-      "summary": "A few days ago, Samsung released a software update for the Galaxy S25, Galaxy S25+, and Galaxy S25 Ultra in its home country, South Korea, which offered the July 2026 security pat…",
       "tags": [
         "Samsung",
         "爆料",
