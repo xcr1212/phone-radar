@@ -1,12 +1,12 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-07-15T21:14:23.709Z",
+  "updatedAt": "2026-07-15T23:11:37.391Z",
   "issueDate": "2026-07-15",
   "issue": "VOL.260715",
   "title": "手机情报日报",
-  "intro": "今日筛出 13 条重点，其中 8 条是重点爆料，包含 1 条 iPhone 相关、1 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 12 条重点，其中 8 条是重点爆料，包含 2 条 iPhone 相关、1 条官方确认、0 条参数线索。",
   "stats": {
-    "total": 13,
-    "iphone": 1,
+    "total": 12,
+    "iphone": 2,
     "leaks": 8,
     "official": 1,
     "specs": 0
@@ -17,6 +17,29 @@ window.phoneRadarDaily = {
       "title": "重点爆料",
       "hint": "机模、配色、影像、屏幕、电池和芯片线索先看。",
       "items": [
+        {
+          "id": "auto-3a13c9e176d3",
+          "title": "iPhone 相关消息",
+          "originalTitle": "",
+          "source": "MacRumors",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-07-15",
+          "time": "22:20",
+          "publishedAt": "2026-07-15T22:20:40.000Z",
+          "url": "https://www.macrumors.com/2026/07/15/apple-carrier-iphone-financing/",
+          "image": "https://images.macrumors.com/article-new/2025/11/iphone-17-cyber.jpg",
+          "verdict": "先看",
+          "takeaway": "iPhone 相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
+          "detail": "iPhone 相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
         {
           "id": "auto-7b72fda06d10",
           "title": "荣耀 MagicOS 10 系统 7 月版本今启首批机型推送，覆盖 Magic8、数字 600 等系列手机",
@@ -184,30 +207,6 @@ window.phoneRadarDaily = {
           "confidence": "可信度较高，但仍属于发布前线索。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "auto-c77ca3da3115",
-          "title": "vivo 机模 / 配色信息曝光",
-          "originalTitle": "",
-          "source": "Gizmochina",
-          "brand": "vivo",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-07-14",
-          "time": "03:53",
-          "publishedAt": "2026-07-14T03:53:22.000Z",
-          "url": "https://www.gizmochina.com/2026/07/14/vivo-x300e-storage-ram-color-options-tipped-in-new-leak/",
-          "image": "https://www.gizmochina.com/wp-content/uploads/2026/07/Vivo-X300-FE-black-scaled-1-300x169.jpg?x44794",
-          "verdict": "先看",
-          "takeaway": "vivo 机模 / 配色信息曝光。重点看外观、颜色、尺寸是否和上一代有明显变化。",
-          "detail": "vivo 机模 / 配色信息曝光。来源提到未发布机型的机模/配色图，适合先判断外观方向、颜色变化和机身轮廓，但最终量产版本仍可能调整。",
-          "keyPoints": [
-            "外观 / 配色 / 尺寸",
-            "爆料来源"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         }
       ]
     },
@@ -315,29 +314,6 @@ window.phoneRadarDaily = {
           "verdict": "先看",
           "takeaway": "其实按道理来说，小米手机的产品力并不差，品牌流量也足够。那是因为什么原因导致销量后劲不足呢？",
           "detail": "其实按道理来说，小米手机的产品力并不差，品牌流量也足够。那是因为什么原因导致销量后劲不足呢？",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
-        {
-          "id": "newsnow-eaeb4de5d8e7",
-          "title": "实话说，看酷友 #REDMITurbo5Max# 12+256版本的入手价，基本都在1400左右，确实非常值得。",
-          "originalTitle": "",
-          "source": "酷安热榜",
-          "brand": "Xiaomi",
-          "type": "爆料",
-          "trust": "高关注爆料源",
-          "date": "2026-07-15",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://www.coolapk.com/feed/72791337",
-          "image": "",
-          "verdict": "扫一眼",
-          "takeaway": "实话说，看酷友 #REDMITurbo5Max# 12+256版本的入手价，基本都在1400左右，确实非常值得。",
-          "detail": "实话说，看酷友 #REDMITurbo5Max# 12+256版本的入手价，基本都在1400左右，确实非常值得。",
           "keyPoints": [
             "爆料"
           ],

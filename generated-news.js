@@ -1,6 +1,66 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-07-15T21:14:23.709Z",
+  "updatedAt": "2026-07-15T23:11:37.391Z",
   "news": [
+    {
+      "id": "auto-3a13c9e176d3",
+      "title": "Apple Closes Unlocked iPhone Loophole for T-Mobile and Verizon Financing",
+      "source": "MacRumors",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-15",
+      "time": "22:20",
+      "publishedAt": "2026-07-15T22:20:40.000Z",
+      "url": "https://www.macrumors.com/2026/07/15/apple-carrier-iphone-financing/",
+      "image": "https://images.macrumors.com/article-new/2025/11/iphone-17-cyber.jpg",
+      "summary": "Carrier-financed iPhones purchased from Apple will soon be locked to the carrier, ending a workaround customers used to purchase an unlocked iPhone on a payment plan. Until the ru…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-dc5cde54d248",
+      "title": "Google teases gold Pixel 11 with mysterious Pixel Glow in action",
+      "source": "Android Police",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-15",
+      "time": "22:07",
+      "publishedAt": "2026-07-15T22:07:31.000Z",
+      "url": "https://www.androidpolice.com/google-teases-gold-pixel-11-with-mysterious-pixel-glow-in-action/",
+      "image": "",
+      "summary": "A glimpse before Made by Google",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-1cfc10a14631",
+      "title": "Google Pixel 11 vs. Pixel 10: Should you upgrade? Here's what I think after a year with the Pixel 10",
+      "source": "Android Central",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-07-15",
+      "time": "21:11",
+      "publishedAt": "2026-07-15T21:11:06.000Z",
+      "url": "https://www.androidcentral.com/phones/google-pixel/google-pixel-11-vs-pixel-10",
+      "image": "https://cdn.mos.cms.futurecdn.net/2YcLPmkmGoeWi8myc7iBxH-1280-80.jpg",
+      "summary": "The Pixel 11 looks set to launch pretty soon, but how will it compare to the Pixel 10, and will it be worth upgrading to or buying over its predecessor?",
+      "tags": [
+        "Pixel",
+        "评测",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-db8774f9cafe",
       "title": "Pixel 10 Pro XL is no lemon, after all? Survey shows reported issues may be overblown",
@@ -197,26 +257,6 @@ window.phoneRadarAuto = {
       "summary": "If you had any doubts left regarding the end of OnePlus in Europe and the US, another report is stepping in with further confirmation, details on Oppo’s plans in these regions, an…",
       "tags": [
         "OPPO",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-c00af3bfcbf7",
-      "title": "Samsung shows off ‘brand new shape’ for Z Fold 8 in Spider-Man teaser",
-      "source": "The Verge",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-15",
-      "time": "16:05",
-      "publishedAt": "2026-07-15T16:05:34.000Z",
-      "url": "https://www.theverge.com/tech/965997/samsung-spider-man-galaxy-z-fold-8-teaser",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Screenshot-2026-07-15-at-11.56.45-AM.png?quality=90&strip=all&crop=0,0,100,100",
-      "summary": "Samsung gave a sneak peek of the \"brand new shape\" for its upcoming Galaxy Z Fold 8 in a new teaser for Spider-Man: Brand New Day. The video includes a few shots of Spidey taking…",
-      "tags": [
-        "Samsung",
         "爆料",
         "自动抓取"
       ]
@@ -822,26 +862,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-5795c674ea36",
-      "title": "Apple智能等7款手机端侧生成式人工智能服务完成备案",
-      "source": "酷安热榜",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-07-15",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72793104",
-      "image": "",
-      "summary": "Apple智能等7款手机端侧生成式人工智能服务完成备案",
-      "tags": [
-        "行业",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
       "id": "newsnow-9351ebec5089",
       "title": "其实按道理来说，小米手机的产品力并不差，品牌流量也足够。那是因为什么原因导致销量后劲不足呢？",
       "source": "酷安热榜",
@@ -862,6 +882,26 @@ window.phoneRadarAuto = {
       ]
     },
     {
+      "id": "newsnow-5795c674ea36",
+      "title": "Apple智能等7款手机端侧生成式人工智能服务完成备案",
+      "source": "酷安热榜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-07-15",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/72793104",
+      "image": "",
+      "summary": "Apple智能等7款手机端侧生成式人工智能服务完成备案",
+      "tags": [
+        "行业",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
       "id": "newsnow-7791158a1c37",
       "title": "REDMI Note 17 Pro 发布：售价 1599 元起",
       "source": "酷安热榜",
@@ -877,26 +917,6 @@ window.phoneRadarAuto = {
       "summary": "REDMI Note 17 Pro 发布：售价 1599 元起",
       "tags": [
         "Xiaomi",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-938c4c8a60e3",
-      "title": "中国用户终于迎来满血iPhone",
-      "source": "微博热搜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "待验证",
-      "date": "2026-07-15",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%94%A8%E6%88%B7%E7%BB%88%E4%BA%8E%E8%BF%8E%E6%9D%A5%E6%BB%A1%E8%A1%80iPhone%23&t=31&band_rank=12&Refer=top",
-      "image": "",
-      "summary": "中国用户终于迎来满血iPhone",
-      "tags": [
-        "iPhone",
         "爆料",
         "NewsNow"
       ]
