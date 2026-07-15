@@ -1,12 +1,12 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-07-15T06:27:11.794Z",
+  "updatedAt": "2026-07-15T10:15:09.345Z",
   "issueDate": "2026-07-15",
   "issue": "VOL.260715",
   "title": "手机情报日报",
-  "intro": "今日筛出 11 条重点，其中 8 条是重点爆料，包含 5 条 iPhone 相关、1 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 11 条重点，其中 8 条是重点爆料，包含 3 条 iPhone 相关、1 条官方确认、0 条参数线索。",
   "stats": {
     "total": 11,
-    "iphone": 5,
+    "iphone": 3,
     "leaks": 8,
     "official": 1,
     "specs": 0
@@ -65,24 +65,46 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
-          "id": "auto-776a16224fc4",
-          "title": "逆势增产 20%：消息称华为 2026 年智能手机出货目标 6000 万部，成唯一增长的中国品牌",
+          "id": "auto-9b35177c626e",
+          "title": "Omdia：第二季度中国大陆智能手机出货量同比下降 2%，华为苹果逆势大涨",
           "originalTitle": "",
           "source": "IT之家",
           "brand": "Huawei",
           "type": "爆料",
           "trust": "媒体汇总",
           "date": "2026-07-15",
-          "time": "05:12",
-          "publishedAt": "2026-07-15T05:12:35.000Z",
-          "url": "https://www.ithome.com/0/976/947.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/7/34a562f7-4b4b-4141-9fdd-9219ed5483a1.png",
+          "time": "08:51",
+          "publishedAt": "2026-07-15T08:51:20.000Z",
+          "url": "https://www.ithome.com/0/977/114.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/7/92ef6d7a-d79c-4eca-9224-e0b2bfb0bffa.jpg?x-bce-process=image/format,f_auto",
           "verdict": "先看",
-          "takeaway": "IT之家 7 月 15 日消息，《日经亚洲》7 月 14 日援引知情人士消息称，尽管全球存储芯片持续短缺，华为已通知供应商在 2026 年将智能手机出货量目标提升 20% 以上。 供应链消息人士称，华为 2025 年智能手机出货量不足 5000 万部，而公司计划在 2026 年将产量提升至约 6000 万部。 相比之下，包括小米、OPPO、vivo 在内的…",
-          "detail": "IT之家 7 月 15 日消息，《日经亚洲》7 月 14 日援引知情人士消息称，尽管全球存储芯片持续短缺，华为已通知供应商在 2026 年将智能手机出货量目标提升 20% 以上。 供应链消息人士称，华为 2025 年智能手机出货量不足 5000 万部，而公司计划在 2026 年将产量提升至约 6000 万部。 相比之下，包括小米、OPPO、vivo 在内的…",
+          "takeaway": "IT之家 7 月 15 日消息，研究机构 Omdia 于 7 月 14 日发布的最新研究显示，2026 年第二季度， 中国大陆智能手机市场出货 6610 万台，同比下滑 2% ，略缓于全球 4% 下降幅度。 随着内存成本上涨带来的价格压力进一步凸显，市场分化持续加剧，具备高端产品优势的头部厂商进一步巩固领先地位： 华为 凭借新品带动及稳健的价格策略持续扩大…",
+          "detail": "IT之家 7 月 15 日消息，研究机构 Omdia 于 7 月 14 日发布的最新研究显示，2026 年第二季度， 中国大陆智能手机市场出货 6610 万台，同比下滑 2% ，略缓于全球 4% 下降幅度。 随着内存成本上涨带来的价格压力进一步凸显，市场分化持续加剧，具备高端产品优势的头部厂商进一步巩固领先地位： 华为 凭借新品带动及稳健的价格策略持续扩大…",
           "keyPoints": [
-            "芯片 / 性能",
-            "爆料来源"
+            "成本 / 价格"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "auto-6acdb038f1ae",
+          "title": "小米 Poco M8 Power 海外机型曝光，为 REDMI Note 17 标准版手机“套娃机”",
+          "originalTitle": "",
+          "source": "IT之家",
+          "brand": "Xiaomi",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-07-15",
+          "time": "07:37",
+          "publishedAt": "2026-07-15T07:37:43.000Z",
+          "url": "https://www.ithome.com/0/977/052.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/7/297f07b5-b5d8-465a-a1de-19184b95e978.png?x-bce-process=image/format,f_auto",
+          "verdict": "先看",
+          "takeaway": "IT之家 7 月 15 日消息，小米旗下一款 Poco M8 Power 海外机型目前已现身 HyperOS 最新固件，该机具体型号为 26021PC18I，预计面向印度市场。 据外媒 GSMArena 报道，该机实际上为小米 REDMI Note 17 标准版的“套娃机”，但可能电池容量会有所差异。 回顾 小米 REDMI Note 17 标准版 ，该机…",
+          "detail": "IT之家 7 月 15 日消息，小米旗下一款 Poco M8 Power 海外机型目前已现身 HyperOS 最新固件，该机具体型号为 26021PC18I，预计面向印度市场。 据外媒 GSMArena 报道，该机实际上为小米 REDMI Note 17 标准版的“套娃机”，但可能电池容量会有所差异。 回顾 小米 REDMI Note 17 标准版 ，该机…",
+          "keyPoints": [
+            "电池 / 充电"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
@@ -183,29 +205,6 @@ window.phoneRadarDaily = {
           "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "weibo-1c0c9b425ea7",
-          "title": "数码闲聊站：IDC公布2026Q2中国市场智能手机出货量： ①华为—1492W—份额22.…",
-          "originalTitle": "",
-          "source": "数码闲聊站",
-          "brand": "HONOR",
-          "type": "爆料",
-          "trust": "高关注爆料源",
-          "date": "2026-07-14",
-          "time": "07:08",
-          "publishedAt": "2026-07-14T07:08:00.000Z",
-          "url": "https://weibo.com/6048569942/R8DQACoQw",
-          "image": "",
-          "verdict": "先看",
-          "takeaway": "IDC公布2026Q2中国市场智能手机出货量： ①华为—1492W—份额22.6%—同比增长19.4％ ②苹果—1195W—份额18.1%—同比增长24.4％ ③OPPO—1056W—份额16.0%—同比下滑9.7％ ③vivo—1056W—份额16.0%—同比下滑11.4％ ⑤小米—819W—份额12.4%—同比下滑21.7％ ⑥荣耀—746W—份额11…",
-          "detail": "IDC公布2026Q2中国市场智能手机出货量： ①华为—1492W—份额22.6%—同比增长19.4％ ②苹果—1195W—份额18.1%—同比增长24.4％ ③OPPO—1056W—份额16.0%—同比下滑9.7％ ③vivo—1056W—份额16.0%—同比下滑11.4％ ⑤小米—819W—份额12.4%—同比下滑21.7％ ⑥荣耀—746W—份额11…",
-          "keyPoints": [
-            "爆料来源"
-          ],
-          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         }
       ]
     },
@@ -214,52 +213,6 @@ window.phoneRadarDaily = {
       "title": "iPhone 重点",
       "hint": "不是硬件爆料，但和 iPhone 体验或路线有关。",
       "items": [
-        {
-          "id": "auto-9a08e63b2688",
-          "title": "投行 KeyBanc 下调苹果股价评级：iPhone 产量可能放缓",
-          "originalTitle": "",
-          "source": "IT之家",
-          "brand": "iPhone",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-07-15",
-          "time": "04:10",
-          "publishedAt": "2026-07-15T04:10:29.000Z",
-          "url": "https://www.ithome.com/0/976/938.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/7/1ab97b99-f6df-4b32-8bfe-0771c0201ed1.jpg",
-          "verdict": "先看",
-          "takeaway": "IT之家 7 月 15 日消息，美国投资银行 KeyBanc 在最新研报中，下调苹果公司股票评级， 从“板块权重”（Sector Weight）下调至“减持”（Underweight），并给出 250 美元的目标价。 根据市场调查机构 CounterPoint Research 公布的最新数据，2026 年第 2 季度全球智能手机行业出货量同比下滑 11%…",
-          "detail": "IT之家 7 月 15 日消息，美国投资银行 KeyBanc 在最新研报中，下调苹果公司股票评级， 从“板块权重”（Sector Weight）下调至“减持”（Underweight），并给出 250 美元的目标价。 根据市场调查机构 CounterPoint Research 公布的最新数据，2026 年第 2 季度全球智能手机行业出货量同比下滑 11%…",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "中文源可以直接点开快读；看完只保留和购机有关的点。"
-        },
-        {
-          "id": "auto-5d95fea06f9f",
-          "title": "分期买 iPhone 17 Pro 不再自动解锁：苹果确认 T-Mobile 和 Verizon 分期用户不再享受无锁待遇",
-          "originalTitle": "",
-          "source": "IT之家",
-          "brand": "iPhone",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-07-15",
-          "time": "02:38",
-          "publishedAt": "2026-07-15T02:38:36.000Z",
-          "url": "https://www.ithome.com/0/976/841.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/7/f2d69c73-1815-4c1e-825d-1af4de050dbb.png",
-          "verdict": "先看",
-          "takeaway": "IT之家 7 月 15 日消息，大家可能经常能在电商平台见到一些特别便宜的 iPhone“水货”机型，而这些机型多数来源于海外用户在运营商处购买的“无锁”合约机。 Reddit 用户 Shrinra 今日发现，苹果公司悄然调整了 iPhone 17 Pro 系列的分期购机政策，收紧了此前针对 T-Mobile 和 Verizon 两家运营商的解锁条款。 根…",
-          "detail": "IT之家 7 月 15 日消息，大家可能经常能在电商平台见到一些特别便宜的 iPhone“水货”机型，而这些机型多数来源于海外用户在运营商处购买的“无锁”合约机。 Reddit 用户 Shrinra 今日发现，苹果公司悄然调整了 iPhone 17 Pro 系列的分期购机政策，收紧了此前针对 T-Mobile 和 Verizon 两家运营商的解锁条款。 根…",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "中文源可以直接点开快读；看完只保留和购机有关的点。"
-        },
         {
           "id": "auto-9bbf43c61c96",
           "title": "iPhone 系统功能 / AI 体验相关消息",
@@ -281,6 +234,59 @@ window.phoneRadarDaily = {
           ],
           "confidence": "官方内容，可直接作为已确认信息记录。",
           "impact": "可信度高，但如果不是配置/价格消息，只需要扫一眼。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        }
+      ]
+    },
+    {
+      "id": "launch",
+      "title": "新机与官方发布",
+      "hint": "能直接更新到参数库。",
+      "items": [
+        {
+          "id": "newsnow-7791158a1c37",
+          "title": "REDMI Note 17 Pro 发布：售价 1599 元起",
+          "originalTitle": "",
+          "source": "酷安热榜",
+          "brand": "Xiaomi",
+          "type": "爆料",
+          "trust": "高关注爆料源",
+          "date": "2026-07-15",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://www.coolapk.com/feed/72781643",
+          "image": "",
+          "verdict": "先看",
+          "takeaway": "REDMI Note 17 Pro 发布：售价 1599 元起",
+          "detail": "REDMI Note 17 Pro 发布：售价 1599 元起",
+          "keyPoints": [
+            "成本 / 价格"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        },
+        {
+          "id": "newsnow-268048490a93",
+          "title": "REDMI Note 17 正式发布：售价 1299 元起",
+          "originalTitle": "",
+          "source": "酷安热榜",
+          "brand": "Xiaomi",
+          "type": "爆料",
+          "trust": "高关注爆料源",
+          "date": "2026-07-15",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://www.coolapk.com/feed/72781717",
+          "image": "",
+          "verdict": "先看",
+          "takeaway": "REDMI Note 17 正式发布：售价 1299 元起",
+          "detail": "REDMI Note 17 正式发布：售价 1299 元起",
+          "keyPoints": [
+            "成本 / 价格"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         }
       ]

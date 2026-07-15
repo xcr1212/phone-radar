@@ -1,22 +1,162 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-07-15T06:27:11.794Z",
+  "updatedAt": "2026-07-15T10:15:09.345Z",
   "news": [
     {
-      "id": "auto-776a16224fc4",
-      "title": "逆势增产 20%：消息称华为 2026 年智能手机出货目标 6000 万部，成唯一增长的中国品牌",
+      "id": "auto-fa7393f77519",
+      "title": "After using the Galaxy Z Fold 7 and Razr Fold, the Pixel 11 Pro Fold needs these 6 upgrades",
+      "source": "Android Authority",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-15",
+      "time": "09:00",
+      "publishedAt": "2026-07-15T09:00:40.000Z",
+      "url": "https://www.androidauthority.com/google-pixel-11-pro-fold-needs-these-upgrades-3687183/",
+      "image": "",
+      "summary": "I want to love Pixel foldables, but Google needs a big year to win me back.",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-ac9868d8809d",
+      "title": "Huawei Pura 90s 5G series soon making its way to South Africa",
+      "source": "Huawei Central",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-15",
+      "time": "08:57",
+      "publishedAt": "2026-07-15T08:57:25.000Z",
+      "url": "https://www.huaweicentral.com/huawei-pura-90s-5g-series-soon-making-its-way-to-south-africa/",
+      "image": "https://www.huaweicentral.com/wp-content/uploads/2026/07/Pura90s-Pro-Max-img.jpg",
+      "summary": "Huawei has launched the Pura 90s series globally, and the company is now preparing to expand its reach into more markets like the UAE and South Africa. It is asking consumers to s…",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-ae8a26c09daa",
+      "title": "小米 MiMo 完成大语言、多模态、语音等全系列模型矩阵闭环，端侧模型通过国家大模型备案",
+      "source": "IT之家",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-15",
+      "time": "08:52",
+      "publishedAt": "2026-07-15T08:52:17.000Z",
+      "url": "https://www.ithome.com/0/977/116.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/7/44a44199-aff9-47e3-a094-d4f537d7c7bc.png",
+      "summary": "IT之家 7 月 15 日消息，促进生成式人工智能服务创新发展和规范应用，网信部门会同有关部门按照《生成式人工智能服务管理暂行办法》要求，有序开展生成式人工智能服务备案工作， 现将新增的“Apple 智能”等 7 款提供手机端侧生成式人工智能服务备案信息予以公告 。 小米官方刚刚发文，介绍了此次通过备案的小米 MiMo 模型。 小米 MiMo 是小米自研大…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-9b35177c626e",
+      "title": "Omdia：第二季度中国大陆智能手机出货量同比下降 2%，华为苹果逆势大涨",
       "source": "IT之家",
       "brand": "Huawei",
       "model": "Huawei 相关机型",
       "type": "爆料",
       "trust": "媒体汇总",
       "date": "2026-07-15",
-      "time": "05:12",
-      "publishedAt": "2026-07-15T05:12:35.000Z",
-      "url": "https://www.ithome.com/0/976/947.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/7/34a562f7-4b4b-4141-9fdd-9219ed5483a1.png",
-      "summary": "IT之家 7 月 15 日消息，《日经亚洲》7 月 14 日援引知情人士消息称，尽管全球存储芯片持续短缺，华为已通知供应商在 2026 年将智能手机出货量目标提升 20% 以上。 供应链消息人士称，华为 2025 年智能手机出货量不足 5000 万部，而公司计划在 2026 年将产量提升至约 6000 万部。 相比之下，包括小米、OPPO、vivo 在内的…",
+      "time": "08:51",
+      "publishedAt": "2026-07-15T08:51:20.000Z",
+      "url": "https://www.ithome.com/0/977/114.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/7/92ef6d7a-d79c-4eca-9224-e0b2bfb0bffa.jpg?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 7 月 15 日消息，研究机构 Omdia 于 7 月 14 日发布的最新研究显示，2026 年第二季度， 中国大陆智能手机市场出货 6610 万台，同比下滑 2% ，略缓于全球 4% 下降幅度。 随着内存成本上涨带来的价格压力进一步凸显，市场分化持续加剧，具备高端产品优势的头部厂商进一步巩固领先地位： 华为 凭借新品带动及稳健的价格策略持续扩大…",
       "tags": [
         "Huawei",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-4796fc5edb09",
+      "title": "Samsung finally figured out how to make a crease-free foldable screen seven years too late",
+      "source": "Android Central",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-07-15",
+      "time": "08:10",
+      "publishedAt": "2026-07-15T08:10:00.000Z",
+      "url": "https://www.androidcentral.com/phones/samsung-galaxy/samsung-finally-figured-out-how-to-make-a-crease-free-foldable-screen-seven-years-too-late",
+      "image": "https://cdn.mos.cms.futurecdn.net/iyhNwQFDYkgxESLWkv3E3T-1280-80.jpg",
+      "summary": "Samsung says its next foldable screen is built on titanium, and that could give the Galaxy Z Fold 8 a real edge.",
+      "tags": [
+        "Samsung",
+        "评测",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-62f52f0c6cd1",
+      "title": "竹本青：小米发布并开源 Xiaomi-Robotics-U0：具身领域首个“通吃”四类任务的统一生成模型",
+      "source": "竹本青",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-07-15",
+      "time": "07:38",
+      "publishedAt": "2026-07-15T07:38:34.000Z",
+      "url": "https://www.coolapk.com/feed/72792365",
+      "image": "http://image.coolapk.com/feed/2026/0715/15/4248714_daaa1d96_1084_2719_250@1080x1227.jpg",
+      "summary": "【小米发布并开源 Xiaomi-Robotics-U0：具身领域首个“通吃”四类任务的统一生成模型】 7月15日，小米正式发布 Xiaomi-Robotics-UO——拥有 380 亿参数的多模态自回归具身生成基础模型，是具身领域首个“通吃”四类任务的统一生成模型，打通了机器人图片和视频数据的生成与编辑链路。 它既能在保持几何一致性的前提下，对已有数据做增…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-6acdb038f1ae",
+      "title": "小米 Poco M8 Power 海外机型曝光，为 REDMI Note 17 标准版手机“套娃机”",
+      "source": "IT之家",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-15",
+      "time": "07:37",
+      "publishedAt": "2026-07-15T07:37:43.000Z",
+      "url": "https://www.ithome.com/0/977/052.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/7/297f07b5-b5d8-465a-a1de-19184b95e978.png?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 7 月 15 日消息，小米旗下一款 Poco M8 Power 海外机型目前已现身 HyperOS 最新固件，该机具体型号为 26021PC18I，预计面向印度市场。 据外媒 GSMArena 报道，该机实际上为小米 REDMI Note 17 标准版的“套娃机”，但可能电池容量会有所差异。 回顾 小米 REDMI Note 17 标准版 ，该机…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-19746cff102e",
+      "title": "Google is giving Pixel 9 and Pixel 10 owners another shot at Pixel Care Plus",
+      "source": "Android Authority",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-15",
+      "time": "07:37",
+      "publishedAt": "2026-07-15T07:37:19.000Z",
+      "url": "https://www.androidauthority.com/google-pixel-care-plus-reopened-pixel-9-pixel-10-3687640/",
+      "image": "",
+      "summary": "Google's latest Pixel Care Plus offer lets you sign up after the usual 60-day deadline, but not if you have a foldable.",
+      "tags": [
+        "Pixel",
         "爆料",
         "自动抓取"
       ]
@@ -62,26 +202,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-9a08e63b2688",
-      "title": "投行 KeyBanc 下调苹果股价评级：iPhone 产量可能放缓",
-      "source": "IT之家",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-15",
-      "time": "04:10",
-      "publishedAt": "2026-07-15T04:10:29.000Z",
-      "url": "https://www.ithome.com/0/976/938.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/7/1ab97b99-f6df-4b32-8bfe-0771c0201ed1.jpg",
-      "summary": "IT之家 7 月 15 日消息，美国投资银行 KeyBanc 在最新研报中，下调苹果公司股票评级， 从“板块权重”（Sector Weight）下调至“减持”（Underweight），并给出 250 美元的目标价。 根据市场调查机构 CounterPoint Research 公布的最新数据，2026 年第 2 季度全球智能手机行业出货量同比下滑 11%…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "coolapk-user-00938b1b4a60",
       "title": "竹本青：REDMI「城市英雄服务站」到店活动开启：免费领矿泉水+用机指南+冰贴",
       "source": "竹本青",
@@ -119,26 +239,6 @@ window.phoneRadarAuto = {
         "OPPO",
         "爆料",
         "酷安博主"
-      ]
-    },
-    {
-      "id": "auto-5d95fea06f9f",
-      "title": "分期买 iPhone 17 Pro 不再自动解锁：苹果确认 T-Mobile 和 Verizon 分期用户不再享受无锁待遇",
-      "source": "IT之家",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-15",
-      "time": "02:38",
-      "publishedAt": "2026-07-15T02:38:36.000Z",
-      "url": "https://www.ithome.com/0/976/841.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/7/f2d69c73-1815-4c1e-825d-1af4de050dbb.png",
-      "summary": "IT之家 7 月 15 日消息，大家可能经常能在电商平台见到一些特别便宜的 iPhone“水货”机型，而这些机型多数来源于海外用户在运营商处购买的“无锁”合约机。 Reddit 用户 Shrinra 今日发现，苹果公司悄然调整了 iPhone 17 Pro 系列的分期购机政策，收紧了此前针对 T-Mobile 和 Verizon 两家运营商的解锁条款。 根…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
       ]
     },
     {
@@ -242,26 +342,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-268048490a93",
-      "title": "REDMI Note 17 正式发布：售价 1299 元起",
-      "source": "酷安热榜",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-07-15",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72781717",
-      "image": "",
-      "summary": "REDMI Note 17 正式发布：售价 1299 元起",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
       "id": "newsnow-8cc4ee307b5f",
       "title": "2026年下半年，各大手机品牌的重磅新机即将陆续登场。所以，我们想听听你的真实想法：",
       "source": "酷安热榜",
@@ -277,6 +357,26 @@ window.phoneRadarAuto = {
       "summary": "2026年下半年，各大手机品牌的重磅新机即将陆续登场。所以，我们想听听你的真实想法：",
       "tags": [
         "行业",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-268048490a93",
+      "title": "REDMI Note 17 正式发布：售价 1299 元起",
+      "source": "酷安热榜",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-07-15",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/72781717",
+      "image": "",
+      "summary": "REDMI Note 17 正式发布：售价 1299 元起",
+      "tags": [
+        "Xiaomi",
         "爆料",
         "NewsNow"
       ]
@@ -355,6 +455,26 @@ window.phoneRadarAuto = {
       "url": "https://www.coolapk.com/feed/72783115",
       "image": "",
       "summary": "消息称今年Q4将是手机价格高点，华为也难避免涨价",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-4b3e6fc5f2c9",
+      "title": "华为手机出货量逆势暴涨",
+      "source": "百度热搜",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-15",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.baidu.com/s?wd=%E5%8D%8E%E4%B8%BA%E6%89%8B%E6%9C%BA%E5%87%BA%E8%B4%A7%E9%87%8F%E9%80%86%E5%8A%BF%E6%9A%B4%E6%B6%A8",
+      "image": "",
+      "summary": "华为手机出货量逆势暴涨",
       "tags": [
         "Huawei",
         "爆料",
@@ -762,26 +882,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-8da87b4321e6",
-      "title": "Galaxy S26 Ultra users report display red tint issue, Samsung investigates",
-      "source": "SamMobile",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-14",
-      "time": "13:08",
-      "publishedAt": "2026-07-14T13:08:41.000Z",
-      "url": "https://www.sammobile.com/news/galaxy-s26-ultra-users-report-display-red-tint-issue-samsung-investigates/",
-      "image": "https://www.sammobile.com/wp-content/uploads/2026/07/Samsung-Galaxy-S26-Ultra-Display-Red-Tint-Issue.jpg",
-      "summary": "Many users of Samsung's latest flagship non-foldable phone, the Galaxy S26 Ultra, have started reporting that the center portion of the phone's display is developing a permanent r…",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-ced89905295b",
       "title": "Factories Now Ready for iPhone 20's Glass Redesign, Leaker Claims",
       "source": "MacRumors",
@@ -799,26 +899,6 @@ window.phoneRadarAuto = {
         "iPhone",
         "爆料",
         "自动抓取"
-      ]
-    },
-    {
-      "id": "coolapk-user-b458afccb4ba",
-      "title": "竹本青：看见 #红米note17Pro# 配置，只能说，Note11 TP系列的含金量还在上升 当然，硬件行情和产品定位也…",
-      "source": "竹本青",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-07-14",
-      "time": "12:34",
-      "publishedAt": "2026-07-14T12:34:05.000Z",
-      "url": "https://www.coolapk.com/feed/72782723",
-      "image": "",
-      "summary": "看见 #红米note17Pro# 配置，只能说，Note11 TP系列的含金量还在上升 当然，硬件行情和产品定位也都今非昔比，只不过粗略说售价 #红米Note11TPro# #HyperOS3#",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "酷安博主"
       ]
     },
     {
@@ -877,26 +957,6 @@ window.phoneRadarAuto = {
       "summary": "Huawei will launch its LogicFolding-based Kirin chip this year, and the Mate 90 Pro Max could be the first flagship smartphone to feature the new mobile SoC. A new leak sheds ligh…",
       "tags": [
         "Huawei",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-96d6bb954d6a",
-      "title": "First details of the Galaxy S27 Ultra’s rear camera design emerge",
-      "source": "SamMobile",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-14",
-      "time": "11:54",
-      "publishedAt": "2026-07-14T11:54:38.000Z",
-      "url": "https://www.sammobile.com/news/galaxy-s27-ultra-rear-camera-design-appears-leak/",
-      "image": "",
-      "summary": "We are still at least six months away from the possible launch of the Galaxy S27 series, but information about its specifications has already begun to emerge. The Galaxy S27 Ultra…",
-      "tags": [
-        "Samsung",
         "爆料",
         "自动抓取"
       ]
@@ -1062,26 +1122,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-6cb1336d2811",
-      "title": "Huawei EMUI 16 debuts with smarter and smoother features",
-      "source": "Huawei Central",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-14",
-      "time": "08:44",
-      "publishedAt": "2026-07-14T08:44:32.000Z",
-      "url": "https://www.huaweicentral.com/huawei-emui-16-debuts-with-smarter-and-smoother-features/",
-      "image": "https://www.huaweicentral.com/wp-content/uploads/2026/07/emui16-img1.jpg",
-      "summary": "After two years of waiting, Huawei has finally debuted EMUI 16 with the all-new camera flagship – Pura 90s series. It seems the wait was worth it, as the latest OS upgrade promise…",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-53a7fecf9da1",
       "title": "Some Galaxy S26 Ultra screens are slowly turning red, and Samsung doesn’t know why (yet)",
       "source": "Android Authority",
@@ -1219,26 +1259,6 @@ window.phoneRadarAuto = {
         "Pixel",
         "爆料",
         "自动抓取"
-      ]
-    },
-    {
-      "id": "weibo-02e15b590dd9",
-      "title": "数码闲聊站：8月重量级的新品之一是Robot Phone，目测6.3-6.4英寸1.5K四…",
-      "source": "数码闲聊站",
-      "brand": "HONOR",
-      "model": "HONOR 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-07-14",
-      "time": "04:08",
-      "publishedAt": "2026-07-14T04:08:00.000Z",
-      "url": "https://weibo.com/6048569942/R8CFx1HRD",
-      "image": "",
-      "summary": "8月重量级的新品之一是Robot Phone，目测6.3-6.4英寸1.5K四等边直屏，骁龙8E5处理器，200Mp F1.6 23mm 4D云台主摄+50Mp超广角+200Mp潜望长焦，阿莱影像，影像可以看作Magic9系列超前瞻，定价估计不便宜……[二哈]",
-      "tags": [
-        "HONOR",
-        "爆料",
-        "微博"
       ]
     },
     {
