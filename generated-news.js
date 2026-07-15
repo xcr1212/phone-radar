@@ -1,6 +1,146 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-07-15T11:49:59.030Z",
+  "updatedAt": "2026-07-15T14:08:21.107Z",
   "news": [
+    {
+      "id": "auto-f9ccd7034b5f",
+      "title": "Fresh Redmi K100 Pro reiterates specs that have been revealed before",
+      "source": "Gizmochina",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-15",
+      "time": "14:03",
+      "publishedAt": "2026-07-15T14:03:50.000Z",
+      "url": "https://www.gizmochina.com/2026/07/15/fresh-redmi-k100-pro-reiterates-specs-that-have-been-revealed-before/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2025/10/REDMI-K90-Pro-Max-Review_1.mp4_20251031_111302.098-300x150.jpg?x44794",
+      "summary": "The Redmi K100 Pro just cannot stay out of the leaks. We reported earlier that tipster Digital Chat Station (DCS) had shared a fairly complete spec sheet for the phone — from its…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-cc2ad22ed2b5",
+      "title": "Holy crap, someone else finally made an Android phone with Qi2 magnets built-in",
+      "source": "9to5Google",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-15",
+      "time": "13:55",
+      "publishedAt": "2026-07-15T13:55:00.000Z",
+      "url": "https://9to5google.com/2026/07/15/android-qi2-magnets-motorola-edge-70-max/",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/07/motorola-edge-70-pro-max-qi2-1.avif?w=1350",
+      "summary": "Folks, it finally happened. Someone other than Google has finally put Qi2 magnets in an Android phone with Motorola’s new Edge 70 Max.",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-4ccf0a748fad",
+      "title": "Here’s a possible launch date for Huawei Mate 90 series",
+      "source": "Huawei Central",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-15",
+      "time": "13:43",
+      "publishedAt": "2026-07-15T13:43:33.000Z",
+      "url": "https://www.huaweicentral.com/heres-a-possible-launch-date-for-huawei-mate-90-series/",
+      "image": "https://www.huaweicentral.com/wp-content/uploads/2026/06/Mate80-phon.jpg",
+      "summary": "Huawei Mate 90 series is expected to debut in September this year, and looks like we have got a possible launch date in this aspect. A new leak suggests when the flagship smartpho…",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-6a651a9c587c",
+      "title": "Samsung swings in with Spider-Man to tease the Galaxy Z Fold 8’s ‘new shape’",
+      "source": "Android Authority",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-15",
+      "time": "13:00",
+      "publishedAt": "2026-07-15T13:00:32.000Z",
+      "url": "https://www.androidauthority.com/galaxy-z-fold-8-spider-man-ad-3687658/",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2025/08/IMG_20250820_175625-scaled.jpg",
+      "summary": "Spider-Man nearly breaks the fourth wall to sell you a Galaxy Z Fold 8.",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-21d5a120e013",
+      "title": "The Motorola Edge 70 Max is all about power",
+      "source": "The Verge",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-15",
+      "time": "12:18",
+      "publishedAt": "2026-07-15T12:18:22.000Z",
+      "url": "https://www.theverge.com/tech/965884/motorola-edge-70-max-qi2-wireless-price-availability",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Motorola-Edge-70-Max-hero.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "summary": "Motorola has launched the Edge 70 Max, its latest flagship phone that's designed for power intensive tasks like streaming video and mobile gaming. Alongside having a huge battery…",
+      "tags": [
+        "行业",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-9755baccc847",
+      "title": "Who will you switch to now that OnePlus is effectively dead? [Poll]",
+      "source": "9to5Google",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-15",
+      "time": "12:00",
+      "publishedAt": "2026-07-15T12:00:00.000Z",
+      "url": "https://9to5google.com/2026/07/15/who-will-you-switch-to-now-oneplus-effectively-dead-poll/",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2025/11/OnePlus-13-and-OnePlus-15-side-by-side.jpg?quality=82&strip=all&w=1600",
+      "summary": "OnePlus has been on the ropes for a while, but with reports indicating the company is preparing a total withdrawal from the US and Europe, the end of an era is officially here. If…",
+      "tags": [
+        "OPPO",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-71d324b6020a",
+      "title": "Withings Body Scan 2 体重秤上市：可测高血压风险 / 细胞健康等 60 项人体指标，599.95 美元",
+      "source": "IT之家",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-15",
+      "time": "11:57",
+      "publishedAt": "2026-07-15T11:57:37.000Z",
+      "url": "https://www.ithome.com/0/977/216.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/7/6d561c07-6834-4859-93c1-5c7b40fc367d.jpg?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 7 月 15 日消息，Withings 宣布旗下 Body Scan 2 体重秤正式上市，新机型主要调整设计，并新增了高血压风险检测和细胞健康评估等功能， 定价 599.95 美元（IT之家注：现汇率约合 4069 元人民币） ，赠送 Withings+ 一个月订阅服务。 在设计层面，Body Scan 2 将原先位于秤体表面的显示屏调整到了用于…",
+      "tags": [
+        "行业",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-3788575cb253",
       "title": "Motorola Edge 70 Max shows you don't have to sacrifice style to get a massive battery",
@@ -135,46 +275,6 @@ window.phoneRadarAuto = {
       "url": "https://www.huaweicentral.com/huawei-pura-90s-5g-series-soon-making-its-way-to-south-africa/",
       "image": "https://www.huaweicentral.com/wp-content/uploads/2026/07/Pura90s-Pro-Max-img.jpg",
       "summary": "Huawei has launched the Pura 90s series globally, and the company is now preparing to expand its reach into more markets like the UAE and South Africa. It is asking consumers to s…",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-ae8a26c09daa",
-      "title": "小米 MiMo 完成大语言、多模态、语音等全系列模型矩阵闭环，端侧模型通过国家大模型备案",
-      "source": "IT之家",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-15",
-      "time": "08:52",
-      "publishedAt": "2026-07-15T08:52:17.000Z",
-      "url": "https://www.ithome.com/0/977/116.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/7/44a44199-aff9-47e3-a094-d4f537d7c7bc.png",
-      "summary": "IT之家 7 月 15 日消息，促进生成式人工智能服务创新发展和规范应用，网信部门会同有关部门按照《生成式人工智能服务管理暂行办法》要求，有序开展生成式人工智能服务备案工作， 现将新增的“Apple 智能”等 7 款提供手机端侧生成式人工智能服务备案信息予以公告 。 小米官方刚刚发文，介绍了此次通过备案的小米 MiMo 模型。 小米 MiMo 是小米自研大…",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-9b35177c626e",
-      "title": "Omdia：第二季度中国大陆智能手机出货量同比下降 2%，华为苹果逆势大涨",
-      "source": "IT之家",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-15",
-      "time": "08:51",
-      "publishedAt": "2026-07-15T08:51:20.000Z",
-      "url": "https://www.ithome.com/0/977/114.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/7/92ef6d7a-d79c-4eca-9224-e0b2bfb0bffa.jpg?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 7 月 15 日消息，研究机构 Omdia 于 7 月 14 日发布的最新研究显示，2026 年第二季度， 中国大陆智能手机市场出货 6610 万台，同比下滑 2% ，略缓于全球 4% 下降幅度。 随着内存成本上涨带来的价格压力进一步凸显，市场分化持续加剧，具备高端产品优势的头部厂商进一步巩固领先地位： 华为 凭借新品带动及稳健的价格策略持续扩大…",
       "tags": [
         "Huawei",
         "爆料",
@@ -502,22 +602,22 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-cb43dd205d93",
-      "title": "消息称今年Q4将是手机价格高点，华为也难避免涨价",
-      "source": "酷安热榜",
+      "id": "newsnow-cf9c7b1078a5",
+      "title": "如何评价 Q2 全球智能手机出货量同比下滑，小米跌幅最大，三星、苹果、华为逆势上涨？",
+      "source": "知乎热榜",
       "brand": "Huawei",
       "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
+      "type": "市场报告",
+      "trust": "媒体汇总",
       "date": "2026-07-15",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72783115",
+      "url": "https://www.zhihu.com/question/2060476741349646921",
       "image": "",
-      "summary": "消息称今年Q4将是手机价格高点，华为也难避免涨价",
+      "summary": "如何评价 Q2 全球智能手机出货量同比下滑，小米跌幅最大，三星、苹果、华为逆势上涨？",
       "tags": [
         "Huawei",
-        "爆料",
+        "市场报告",
         "NewsNow"
       ]
     },
@@ -962,26 +1062,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-18990af89836",
-      "title": "Huawei Mate 90 Pro Max could be first phone to use LogicFolding Kirin chip",
-      "source": "Huawei Central",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-14",
-      "time": "12:23",
-      "publishedAt": "2026-07-14T12:23:16.000Z",
-      "url": "https://www.huaweicentral.com/huawei-mate-90-pro-max-logicfolding-kirin-chip/",
-      "image": "https://www.huaweicentral.com/wp-content/uploads/2026/05/Kirin-SoC.jpg",
-      "summary": "Huawei will launch its LogicFolding-based Kirin chip this year, and the Mate 90 Pro Max could be the first flagship smartphone to feature the new mobile SoC. A new leak sheds ligh…",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-b50a61432298",
       "title": "Upcoming Poco M8 Power could pack an 8,000mAh battery, 7-inch OLED display",
       "source": "Gizmochina",
@@ -1037,26 +1117,6 @@ window.phoneRadarAuto = {
       "summary": "Apple grew iPhone shipments in China by 24.4 percent year over year in the second quarter of 2026, making it the fastest-growing smartphone brand in a market that shrank overall,…",
       "tags": [
         "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-e6f4b966ee67",
-      "title": "Huawei launches first 5G global flagship phone in years",
-      "source": "Huawei Central",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-14",
-      "time": "11:14",
-      "publishedAt": "2026-07-14T11:14:35.000Z",
-      "url": "https://www.huaweicentral.com/huawei-launches-first-5g-global-flagship-phone-in-years/",
-      "image": "https://www.huaweicentral.com/wp-content/uploads/2026/07/Pura90sProMax-1.jpg",
-      "summary": "Huawei Pura 90s series has stepped into the overseas market with various surprises in terms of camera, chip performance, and beauty, though the biggest one among these is the “ret…",
-      "tags": [
-        "Huawei",
         "爆料",
         "自动抓取"
       ]
