@@ -1,9 +1,109 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-07-15T17:37:54.399Z",
+  "updatedAt": "2026-07-15T19:35:25.861Z",
   "news": [
     {
+      "id": "auto-db8774f9cafe",
+      "title": "Pixel 10 Pro XL is no lemon, after all? Survey shows reported issues may be overblown",
+      "source": "Android Authority",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-15",
+      "time": "18:49",
+      "publishedAt": "2026-07-15T18:49:03.000Z",
+      "url": "https://www.androidauthority.com/google-pixel-10-pro-xl-problems-3687892/",
+      "image": "",
+      "summary": "It's always hard to tell how widespread issues may be.",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-380e8aac29a3",
+      "title": "Something’s glowing on the Pixel 11’s camera bar",
+      "source": "The Verge",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-15",
+      "time": "18:38",
+      "publishedAt": "2026-07-15T18:38:08.000Z",
+      "url": "https://www.theverge.com/tech/966120/google-pixel-11-camera-bar-teaser",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Screenshot-2026-07-15-at-11.36.30-AM.png?quality=90&strip=all&crop=0,0,100,100",
+      "summary": "A new teaser for Google's upcoming Pixel 11 lineup reveals that the phones will feature some kind of glowing orb on the camera bar, as reported by 9to5Google. Google's store page…",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-0196d5008d5a",
+      "title": "Google Store starts prepping for Pixel 11 with our best look at Pixel Glow yet",
+      "source": "Android Authority",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-15",
+      "time": "18:23",
+      "publishedAt": "2026-07-15T18:23:23.000Z",
+      "url": "https://www.androidauthority.com/pixel-11-google-store-teaser-3687910/",
+      "image": "",
+      "summary": "Check out the animated RGB LED array in all its glory.",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-06e1ceb15eb7",
+      "title": "Google opens Pixel Care Plus enrollment for the Pixel 10 and 9, but time is short",
+      "source": "Android Central",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-07-15",
+      "time": "18:13",
+      "publishedAt": "2026-07-15T18:13:17.000Z",
+      "url": "https://www.androidcentral.com/phones/google-pixel/google-opens-pixel-care-plus-enrollment-for-the-pixel-10-and-9",
+      "image": "https://cdn.mos.cms.futurecdn.net/yuHwjvLiV2r9Q26vMpGgDA-1280-80.jpg",
+      "summary": "Google announced a mini-event for the Pixel 9 and 10, opening Pixel Care Plus enrollment for a limited time.",
+      "tags": [
+        "Pixel",
+        "评测",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-56f96101feef",
+      "title": "Samsung's Flex Titanium is a direct response to Apple's iPhone Ultra threat",
+      "source": "Android Police",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-15",
+      "time": "18:05",
+      "publishedAt": "2026-07-15T18:05:23.000Z",
+      "url": "https://www.androidpolice.com/samsungs-flex-titanium-is-a-direct-response-to-apples-iphone-ultra-threat/",
+      "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2025/07/img_1277.jpg",
+      "summary": "Competition feeds innovation",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
       "id": "auto-275b0a2a48ee",
-      "title": "Google releases first Pixel 11 teaser and shows Pixel Glow",
+      "title": "Google releases first Pixel 11 teaser and shows Pixel Glow [Video]",
       "source": "9to5Google",
       "brand": "Pixel",
       "model": "Pixel 相关机型",
@@ -14,7 +114,7 @@ window.phoneRadarAuto = {
       "publishedAt": "2026-07-15T17:35:59.000Z",
       "url": "https://9to5google.com/2026/07/15/pixel-11-first-tease/",
       "image": "",
-      "summary": "Following the event announcement last week , Google released the first Pixel 11 teaser.",
+      "summary": "Following the event announcement last week , Google today released the first Pixel 11 teaser.",
       "tags": [
         "Pixel",
         "爆料",
@@ -337,26 +437,6 @@ window.phoneRadarAuto = {
       "summary": "Spider-Man nearly breaks the fourth wall to sell you a Galaxy Z Fold 8.",
       "tags": [
         "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-21d5a120e013",
-      "title": "The Motorola Edge 70 Max is all about power",
-      "source": "The Verge",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-15",
-      "time": "12:18",
-      "publishedAt": "2026-07-15T12:18:22.000Z",
-      "url": "https://www.theverge.com/tech/965884/motorola-edge-70-max-qi2-wireless-price-availability",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Motorola-Edge-70-Max-hero.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "summary": "Motorola has launched the Edge 70 Max, its latest flagship phone that's designed for power intensive tasks like streaming video and mobile gaming. Alongside having a huge battery…",
-      "tags": [
-        "行业",
         "爆料",
         "自动抓取"
       ]
@@ -722,6 +802,86 @@ window.phoneRadarAuto = {
       ]
     },
     {
+      "id": "newsnow-eaeb4de5d8e7",
+      "title": "实话说，看酷友 #REDMITurbo5Max# 12+256版本的入手价，基本都在1400左右，确实非常值得。",
+      "source": "酷安热榜",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-07-15",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/72791337",
+      "image": "",
+      "summary": "实话说，看酷友 #REDMITurbo5Max# 12+256版本的入手价，基本都在1400左右，确实非常值得。",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-4eecceb1dbc1",
+      "title": "不是这对吗？左边15右边NEO5 这差距这么大？#iQOONeo5#",
+      "source": "酷安热榜",
+      "brand": "vivo",
+      "model": "vivo 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-07-15",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/72797100",
+      "image": "",
+      "summary": "不是这对吗？左边15右边NEO5 这差距这么大？#iQOONeo5#",
+      "tags": [
+        "vivo",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-5795c674ea36",
+      "title": "Apple智能等7款手机端侧生成式人工智能服务完成备案",
+      "source": "酷安热榜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-07-15",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/72793104",
+      "image": "",
+      "summary": "Apple智能等7款手机端侧生成式人工智能服务完成备案",
+      "tags": [
+        "行业",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-9351ebec5089",
+      "title": "其实按道理来说，小米手机的产品力并不差，品牌流量也足够。那是因为什么原因导致销量后劲不足呢？",
+      "source": "酷安热榜",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-07-15",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/72780732",
+      "image": "",
+      "summary": "其实按道理来说，小米手机的产品力并不差，品牌流量也足够。那是因为什么原因导致销量后劲不足呢？",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
       "id": "newsnow-7791158a1c37",
       "title": "REDMI Note 17 Pro 发布：售价 1599 元起",
       "source": "酷安热榜",
@@ -742,107 +902,7 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-8cc4ee307b5f",
-      "title": "2026年下半年，各大手机品牌的重磅新机即将陆续登场。所以，我们想听听你的真实想法：",
-      "source": "酷安热榜",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-07-15",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72780505",
-      "image": "",
-      "summary": "2026年下半年，各大手机品牌的重磅新机即将陆续登场。所以，我们想听听你的真实想法：",
-      "tags": [
-        "行业",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-268048490a93",
-      "title": "REDMI Note 17 正式发布：售价 1299 元起",
-      "source": "酷安热榜",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-07-15",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72781717",
-      "image": "",
-      "summary": "REDMI Note 17 正式发布：售价 1299 元起",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-c04057e61d8e",
-      "title": "IDC公布第二季度全球/中国手机市场出货量数据",
-      "source": "酷安热榜",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-07-15",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72777383",
-      "image": "",
-      "summary": "IDC公布第二季度全球/中国手机市场出货量数据",
-      "tags": [
-        "行业",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-cbeec2d1e62f",
-      "title": "在自己亲身用苹果手机以前，以为买苹果的人除开女孩子喜欢拍照之外的所有人都是为了跟风为了装才买苹果，后来自己用上了才知道，对不起都是我的错，系统流畅度这一块不谈（不是要求很高，日用不是非常卡都可以接受），无论是屏幕显示，马达，音质，还有软件适配，还有一些软件的交互体验，真的是在安卓上没有体验到过的，iPhone 17pro这个屏幕也是用了这么久手机以来我认为最舒适最好的，我一加15双持和17pro双持，一加15这个屏幕我无论怎么调怎么对比都没有iPhone 17pro这个好，音质就更不说了，刷抖音外放超级舒适，不是为什么一个个嘴那么严只说拍照好[流泪][流泪][流泪]，真的回不去了，哪怕以后我还是不会放弃安卓，因为目前在生活实用性和功能性方面安卓确实更方便，但是我还是留一台苹果的[受虐滑稽][受虐滑稽][受虐滑稽]",
-      "source": "酷安热榜",
-      "brand": "OPPO",
-      "model": "OPPO 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-07-15",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72777283",
-      "image": "",
-      "summary": "在自己亲身用苹果手机以前，以为买苹果的人除开女孩子喜欢拍照之外的所有人都是为了跟风为了装才买苹果，后来自己用上了才知道，对不起都是我的错，系统流畅度这一块不谈（不是要求很高，日用不是非常卡都可以接受），无论是屏幕显示，马达，音质，还有软件适配，还有一些软件的交互体验，真的是在安卓上没有体验到过的，iPhone 17pro这个屏幕也是用了这么久手机以来我认为…",
-      "tags": [
-        "OPPO",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-5589910b9dd9",
-      "title": "王俊凯忙一天打开手机天塌了",
-      "source": "微博热搜",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "待验证",
-      "date": "2026-07-15",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%BF%8A%E5%87%AF%E5%BF%99%E4%B8%80%E5%A4%A9%E6%89%93%E5%BC%80%E6%89%8B%E6%9C%BA%E5%A4%A9%E5%A1%8C%E4%BA%86%23&t=31&band_rank=16&Refer=top",
-      "image": "",
-      "summary": "王俊凯忙一天打开手机天塌了",
-      "tags": [
-        "行业",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-cdc39a2647bc",
+      "id": "newsnow-4b43451264ba",
       "title": "中国用户终于迎来满血iPhone",
       "source": "微博热搜",
       "brand": "iPhone",
@@ -852,11 +912,31 @@ window.phoneRadarAuto = {
       "date": "2026-07-15",
       "time": "",
       "publishedAt": "",
-      "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%94%A8%E6%88%B7%E7%BB%88%E4%BA%8E%E8%BF%8E%E6%9D%A5%E6%BB%A1%E8%A1%80iPhone%23&t=31&band_rank=19&Refer=top",
+      "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%94%A8%E6%88%B7%E7%BB%88%E4%BA%8E%E8%BF%8E%E6%9D%A5%E6%BB%A1%E8%A1%80iPhone%23&t=31&band_rank=4&Refer=top",
       "image": "",
       "summary": "中国用户终于迎来满血iPhone",
       "tags": [
         "iPhone",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-724e7fc156ab",
+      "title": "王俊凯忙一天打开手机天塌了",
+      "source": "微博热搜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "待验证",
+      "date": "2026-07-15",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%BF%8A%E5%87%AF%E5%BF%99%E4%B8%80%E5%A4%A9%E6%89%93%E5%BC%80%E6%89%8B%E6%9C%BA%E5%A4%A9%E5%A1%8C%E4%BA%86%23&t=31&band_rank=20&Refer=top",
+      "image": "",
+      "summary": "王俊凯忙一天打开手机天塌了",
+      "tags": [
+        "行业",
         "爆料",
         "NewsNow"
       ]
@@ -1077,26 +1157,6 @@ window.phoneRadarAuto = {
       "summary": "Today’s 9to5Toys Lunch Break is headlined by the ongoing and particularly notable deal on Google Pixel 10 Pro sitting at one of the best prices ever ($300 off) , but here’s how to…",
       "tags": [
         "Pixel",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-0ddfeec9d2f5",
-      "title": "Huawei, Apple rules Q2 2026 China’s smartphone sales with strong price game",
-      "source": "Huawei Central",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-14",
-      "time": "15:30",
-      "publishedAt": "2026-07-14T15:30:17.000Z",
-      "url": "https://www.huaweicentral.com/huawei-apple-rules-q2-2026-chinas-smartphone-sales/",
-      "image": "https://www.huaweicentral.com/wp-content/uploads/2026/07/IDC-report.jpg",
-      "summary": "Huawei and Apple are currently the leading brands in China’s smartphone sales segment for Q2 2026. While the entire market experienced a decline of 4.3% year on year, the iPhone a…",
-      "tags": [
-        "Huawei",
         "爆料",
         "自动抓取"
       ]
@@ -1362,23 +1422,23 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-d5f72542b5c0",
-      "title": "iPhone 17 Pricing Helped Apple Buck China's Q2 Smartphone Decline",
-      "source": "MacRumors",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
+      "id": "coolapk-user-05efc4ef1911",
+      "title": "JSCHEN小小狐：REDMI Note 17 正式发布：售价 1299 元起",
+      "source": "JSCHEN小小狐",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
       "type": "爆料",
-      "trust": "媒体汇总",
+      "trust": "高可信爆料",
       "date": "2026-07-14",
-      "time": "11:27",
-      "publishedAt": "2026-07-14T11:27:09.000Z",
-      "url": "https://www.macrumors.com/2026/07/14/iphone-17-pricing-helped-apple-china-q2-26/",
-      "image": "https://images.macrumors.com/article-new/2025/09/iPhone-17-Review-Thumb-3.jpg",
-      "summary": "Apple grew iPhone shipments in China by 24.4 percent year over year in the second quarter of 2026, making it the fastest-growing smartphone brand in a market that shrank overall,…",
+      "time": "11:26",
+      "publishedAt": "2026-07-14T11:26:42.000Z",
+      "url": "https://www.coolapk.com/feed/72781717",
+      "image": "http://image.coolapk.com/feed/2026/0714/19/4702274_8403522a_8432_5951_309@1440x1920.jpg",
+      "summary": "『REDMI Note 17 正式发布：售价 1299 元起』 6GB + 128GB —— 1299 元 8GB + 128GB —— 1399 元（原价 1499） 8GB + 256GB —— 1599 元（原价 1699） ◇ 外观 浅水青、流星紫、黑色 塑料边框 + 微曲塑料背板 宽 79.14mm，厚 8.26mm，225g ◇ 性能 骁龙 4…",
       "tags": [
-        "iPhone",
+        "Xiaomi",
         "爆料",
-        "自动抓取"
+        "酷安博主"
       ]
     },
     {
