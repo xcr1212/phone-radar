@@ -1,6 +1,166 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-07-15T15:49:17.178Z",
+  "updatedAt": "2026-07-15T17:37:54.399Z",
   "news": [
+    {
+      "id": "auto-275b0a2a48ee",
+      "title": "Google releases first Pixel 11 teaser and shows Pixel Glow",
+      "source": "9to5Google",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-15",
+      "time": "17:35",
+      "publishedAt": "2026-07-15T17:35:59.000Z",
+      "url": "https://9to5google.com/2026/07/15/pixel-11-first-tease/",
+      "image": "",
+      "summary": "Following the event announcement last week , Google released the first Pixel 11 teaser.",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-8191ff412309",
+      "title": "People are buying the Galaxy S26 because they’re scared of the Galaxy S27",
+      "source": "SamMobile",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-15",
+      "time": "17:13",
+      "publishedAt": "2026-07-15T17:13:02.000Z",
+      "url": "https://www.sammobile.com/opinion/people-buying-galaxy-s26-because-scared-of-galaxy-s27/",
+      "image": "",
+      "summary": "The Galaxy S26 is doing very well in the market. Samsung says that it has sold 2x faster than the Galaxy S25 in the company's home country. It's also seeing sustained demand for t…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-967db1229500",
+      "title": "Not only the US, but OnePlus is exiting India too",
+      "source": "Gizmochina",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-15",
+      "time": "17:07",
+      "publishedAt": "2026-07-15T17:07:11.000Z",
+      "url": "https://www.gizmochina.com/2026/07/15/not-only-the-us-but-oneplus-is-exiting-india-too/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2025/06/OnePlus-13s-2-225x300.jpg?x44794",
+      "summary": "Just a couple of days after news broke of OnePlus leaving the US and Europe, a new report says it’s not only the West — the Chinese smartphone maker is exiting from India too. Acc…",
+      "tags": [
+        "OPPO",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-24d7aecc2d73",
+      "title": "New Spider-Man short film teases the wider Galaxy Z Fold 8",
+      "source": "SamMobile",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-15",
+      "time": "16:18",
+      "publishedAt": "2026-07-15T16:18:28.000Z",
+      "url": "https://www.sammobile.com/news/new-spider-man-short-film-teases-the-wider-galaxy-z-fold-8/",
+      "image": "",
+      "summary": "Samsung's joint promotional activities with Sony Pictures' Spider-Man: Brand New Day continue as the company generates hype for its upcoming foldable phones. A new short film has…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-2e60cf69cef0",
+      "title": "OnePlus shutdown reportedly goes beyond US & Europe next year, Realme exiting China",
+      "source": "9to5Google",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-15",
+      "time": "16:13",
+      "publishedAt": "2026-07-15T16:13:45.000Z",
+      "url": "https://9to5google.com/2026/07/15/oneplus-shutdown-report-details-realme-oppo/",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2025/07/OnePlus-13-design-2.jpg?quality=82&strip=all&w=1600",
+      "summary": "If you had any doubts left regarding the end of OnePlus in Europe and the US, another report is stepping in with further confirmation, details on Oppo’s plans in these regions, an…",
+      "tags": [
+        "OPPO",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-c00af3bfcbf7",
+      "title": "Samsung shows off ‘brand new shape’ for Z Fold 8 in Spider-Man teaser",
+      "source": "The Verge",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-15",
+      "time": "16:05",
+      "publishedAt": "2026-07-15T16:05:34.000Z",
+      "url": "https://www.theverge.com/tech/965997/samsung-spider-man-galaxy-z-fold-8-teaser",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Screenshot-2026-07-15-at-11.56.45-AM.png?quality=90&strip=all&crop=0,0,100,100",
+      "summary": "Samsung gave a sneak peek of the \"brand new shape\" for its upcoming Galaxy Z Fold 8 in a new teaser for Spider-Man: Brand New Day. The video includes a few shots of Spidey taking…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-c5cc8bb76805",
+      "title": "Report: OnePlus to Pull Out of US and Europe",
+      "source": "MacRumors",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-15",
+      "time": "16:02",
+      "publishedAt": "2026-07-15T16:02:44.000Z",
+      "url": "https://www.macrumors.com/2026/07/15/report-oneplus-to-pull-out-of-us-and-europe/",
+      "image": "https://images.macrumors.com/article-new/2023/10/oneplus-open-2.jpg",
+      "summary": "OnePlus is exiting the U.S. and European smartphone markets as part of a broader restructuring at parent company Oppo, Bloomberg reports . OnePlus is a wholly-owned subsidiary of…",
+      "tags": [
+        "OPPO",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-19341fa0e609",
+      "title": "Mint Mobile just quietly dropped the best Google Pixel 10 deal on the web — but you don't have much time",
+      "source": "Android Central",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-07-15",
+      "time": "15:53",
+      "publishedAt": "2026-07-15T15:53:47.000Z",
+      "url": "https://www.androidcentral.com/phones/google-pixel/mint-mobile-just-quietly-dropped-the-best-google-pixel-10-deal-on-the-web-but-you-dont-have-much-time",
+      "image": "https://cdn.mos.cms.futurecdn.net/uEjApC4HcRpgFbwStT52jX-1280-80.jpg",
+      "summary": "This deal is sure to disappear as quickly as it arrived.",
+      "tags": [
+        "Pixel",
+        "评测",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-bc5eccc94418",
       "title": "消息称苹果正寻求收购人工智能芯片企业",
@@ -662,27 +822,7 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-268c66dfdcb8",
-      "title": "阶跃星辰首款智能体手机STEPX Neo亮相",
-      "source": "酷安热榜",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-07-15",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72769161",
-      "image": "",
-      "summary": "阶跃星辰首款智能体手机STEPX Neo亮相",
-      "tags": [
-        "行业",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-72df13e62948",
+      "id": "newsnow-5589910b9dd9",
       "title": "王俊凯忙一天打开手机天塌了",
       "source": "微博热搜",
       "brand": "行业",
@@ -692,11 +832,31 @@ window.phoneRadarAuto = {
       "date": "2026-07-15",
       "time": "",
       "publishedAt": "",
-      "url": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%BF%8A%E5%87%AF%E5%BF%99%E4%B8%80%E5%A4%A9%E6%89%93%E5%BC%80%E6%89%8B%E6%9C%BA%E5%A4%A9%E5%A1%8C%E4%BA%86%23&t=31&band_rank=7&Refer=top",
+      "url": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%BF%8A%E5%87%AF%E5%BF%99%E4%B8%80%E5%A4%A9%E6%89%93%E5%BC%80%E6%89%8B%E6%9C%BA%E5%A4%A9%E5%A1%8C%E4%BA%86%23&t=31&band_rank=16&Refer=top",
       "image": "",
       "summary": "王俊凯忙一天打开手机天塌了",
       "tags": [
         "行业",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-cdc39a2647bc",
+      "title": "中国用户终于迎来满血iPhone",
+      "source": "微博热搜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "待验证",
+      "date": "2026-07-15",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%94%A8%E6%88%B7%E7%BB%88%E4%BA%8E%E8%BF%8E%E6%9D%A5%E6%BB%A1%E8%A1%80iPhone%23&t=31&band_rank=19&Refer=top",
+      "image": "",
+      "summary": "中国用户终于迎来满血iPhone",
+      "tags": [
+        "iPhone",
         "爆料",
         "NewsNow"
       ]

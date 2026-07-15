@@ -1,11 +1,11 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-07-15T15:49:17.178Z",
+  "updatedAt": "2026-07-15T17:37:54.399Z",
   "issueDate": "2026-07-15",
   "issue": "VOL.260715",
   "title": "手机情报日报",
-  "intro": "今日筛出 12 条重点，其中 8 条是重点爆料，包含 3 条 iPhone 相关、1 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 11 条重点，其中 8 条是重点爆料，包含 3 条 iPhone 相关、1 条官方确认、0 条参数线索。",
   "stats": {
-    "total": 12,
+    "total": 11,
     "iphone": 3,
     "leaks": 8,
     "official": 1,
@@ -286,29 +286,6 @@ window.phoneRadarDaily = {
             "成本 / 价格"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
-        {
-          "id": "coolapk-user-62f52f0c6cd1",
-          "title": "竹本青：小米发布并开源 Xiaomi-Robotics-U0：具身领域首个“通吃”四类任务的统一生成模型",
-          "originalTitle": "",
-          "source": "竹本青",
-          "brand": "Xiaomi",
-          "type": "爆料",
-          "trust": "高可信爆料",
-          "date": "2026-07-15",
-          "time": "07:38",
-          "publishedAt": "2026-07-15T07:38:34.000Z",
-          "url": "https://www.coolapk.com/feed/72792365",
-          "image": "http://image.coolapk.com/feed/2026/0715/15/4248714_daaa1d96_1084_2719_250@1080x1227.jpg",
-          "verdict": "扫一眼",
-          "takeaway": "【小米发布并开源 Xiaomi-Robotics-U0：具身领域首个“通吃”四类任务的统一生成模型】 7月15日，小米正式发布 Xiaomi-Robotics-UO——拥有 380 亿参数的多模态自回归具身生成基础模型，是具身领域首个“通吃”四类任务的统一生成模型，打通了机器人图片和视频数据的生成与编辑链路。 它既能在保持几何一致性的前提下，对已有数据做增…",
-          "detail": "【小米发布并开源 Xiaomi-Robotics-U0：具身领域首个“通吃”四类任务的统一生成模型】 7月15日，小米正式发布 Xiaomi-Robotics-UO——拥有 380 亿参数的多模态自回归具身生成基础模型，是具身领域首个“通吃”四类任务的统一生成模型，打通了机器人图片和视频数据的生成与编辑链路。 它既能在保持几何一致性的前提下，对已有数据做增…",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "可信度较高，但仍属于发布前线索。",
           "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         }
