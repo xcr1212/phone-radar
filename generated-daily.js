@@ -1,11 +1,11 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-07-15T03:32:56.403Z",
+  "updatedAt": "2026-07-15T06:27:11.794Z",
   "issueDate": "2026-07-15",
   "issue": "VOL.260715",
   "title": "手机情报日报",
-  "intro": "今日筛出 12 条重点，其中 8 条是重点爆料，包含 5 条 iPhone 相关、1 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 11 条重点，其中 8 条是重点爆料，包含 5 条 iPhone 相关、1 条官方确认、0 条参数线索。",
   "stats": {
-    "total": 12,
+    "total": 11,
     "iphone": 5,
     "leaks": 8,
     "official": 1,
@@ -65,6 +65,30 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
+          "id": "auto-776a16224fc4",
+          "title": "逆势增产 20%：消息称华为 2026 年智能手机出货目标 6000 万部，成唯一增长的中国品牌",
+          "originalTitle": "",
+          "source": "IT之家",
+          "brand": "Huawei",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-07-15",
+          "time": "05:12",
+          "publishedAt": "2026-07-15T05:12:35.000Z",
+          "url": "https://www.ithome.com/0/976/947.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/7/34a562f7-4b4b-4141-9fdd-9219ed5483a1.png",
+          "verdict": "先看",
+          "takeaway": "IT之家 7 月 15 日消息，《日经亚洲》7 月 14 日援引知情人士消息称，尽管全球存储芯片持续短缺，华为已通知供应商在 2026 年将智能手机出货量目标提升 20% 以上。 供应链消息人士称，华为 2025 年智能手机出货量不足 5000 万部，而公司计划在 2026 年将产量提升至约 6000 万部。 相比之下，包括小米、OPPO、vivo 在内的…",
+          "detail": "IT之家 7 月 15 日消息，《日经亚洲》7 月 14 日援引知情人士消息称，尽管全球存储芯片持续短缺，华为已通知供应商在 2026 年将智能手机出货量目标提升 20% 以上。 供应链消息人士称，华为 2025 年智能手机出货量不足 5000 万部，而公司计划在 2026 年将产量提升至约 6000 万部。 相比之下，包括小米、OPPO、vivo 在内的…",
+          "keyPoints": [
+            "芯片 / 性能",
+            "爆料来源"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
           "id": "newsnow-cbeec2d1e62f",
           "title": "在自己亲身用苹果手机以前，以为买苹果的人除开女孩子喜欢拍照之外的所有人都是为了跟风为了装才买苹果，后来自己用上了才知道，对不起都是我的错，系统流畅度这一块不谈（不是要求很高，日用不是非常卡都可以接受），无论是屏幕显示，马达，音质，还有软件适配，还有一些软件的交互体验，真的是在安卓上没有体验到过的，iPhone 17pro这个屏幕也是用了这么久手机以来我认为最舒适最好的，我一加15双持和17pro双持，一加15这个屏幕我无论怎么调怎么对比都没有iPhone 17pro这个好，音质就更不说了，刷抖音外放超级舒适，不是为什么一个个嘴那么严只说拍照好[流泪][流泪][流泪]，真的回不去了，哪怕以后我还是不会放弃安卓，因为目前在生活实用性和功能性方面安卓确实更方便，但是我还是留一台苹果的[受虐滑稽][受虐滑稽][受虐滑稽]",
           "originalTitle": "",
@@ -82,6 +106,30 @@ window.phoneRadarDaily = {
           "detail": "在自己亲身用苹果手机以前，以为买苹果的人除开女孩子喜欢拍照之外的所有人都是为了跟风为了装才买苹果，后来自己用上了才知道，对不起都是我的错，系统流畅度这一块不谈（不是要求很高，日用不是非常卡都可以接受），无论是屏幕显示，马达，音质，还有软件适配，还有一些软件的交互体验，真的是在安卓上没有体验到过的，iPhone 17pro这个屏幕也是用了这么久手机以来我认为…",
           "keyPoints": [
             "屏幕形态"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "newsnow-cb43dd205d93",
+          "title": "消息称今年Q4将是手机价格高点，华为也难避免涨价",
+          "originalTitle": "",
+          "source": "酷安热榜",
+          "brand": "Huawei",
+          "type": "爆料",
+          "trust": "高关注爆料源",
+          "date": "2026-07-15",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://www.coolapk.com/feed/72783115",
+          "image": "",
+          "verdict": "先看",
+          "takeaway": "消息称今年Q4将是手机价格高点，华为也难避免涨价",
+          "detail": "消息称今年Q4将是手机价格高点，华为也难避免涨价",
+          "keyPoints": [
+            "成本 / 价格",
+            "爆料来源"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
@@ -158,55 +206,6 @@ window.phoneRadarDaily = {
           "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "weibo-02e15b590dd9",
-          "title": "数码闲聊站：8月重量级的新品之一是Robot Phone，目测6.3-6.4英寸1.5K四…",
-          "originalTitle": "",
-          "source": "数码闲聊站",
-          "brand": "HONOR",
-          "type": "爆料",
-          "trust": "高关注爆料源",
-          "date": "2026-07-14",
-          "time": "04:08",
-          "publishedAt": "2026-07-14T04:08:00.000Z",
-          "url": "https://weibo.com/6048569942/R8CFx1HRD",
-          "image": "",
-          "verdict": "先看",
-          "takeaway": "8月重量级的新品之一是Robot Phone，目测6.3-6.4英寸1.5K四等边直屏，骁龙8E5处理器，200Mp F1.6 23mm 4D云台主摄+50Mp超广角+200Mp潜望长焦，阿莱影像，影像可以看作Magic9系列超前瞻，定价估计不便宜……[二哈]",
-          "detail": "8月重量级的新品之一是Robot Phone，目测6.3-6.4英寸1.5K四等边直屏，骁龙8E5处理器，200Mp F1.6 23mm 4D云台主摄+50Mp超广角+200Mp潜望长焦，阿莱影像，影像可以看作Magic9系列超前瞻，定价估计不便宜……[二哈]",
-          "keyPoints": [
-            "影像硬件",
-            "屏幕形态",
-            "芯片 / 性能",
-            "爆料来源"
-          ],
-          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "weibo-f045c0c88e56",
-          "title": "数码闲聊站：2026Q2全球智能手机市场TOP5： ①三星24％、②苹果20％、③小米12…",
-          "originalTitle": "",
-          "source": "数码闲聊站",
-          "brand": "Huawei",
-          "type": "爆料",
-          "trust": "高关注爆料源",
-          "date": "2026-07-14",
-          "time": "02:30",
-          "publishedAt": "2026-07-14T02:30:00.000Z",
-          "url": "https://weibo.com/6048569942/R8C1KyfrT",
-          "image": "https://tvax1.sinaimg.cn/mw2000/006BlblIgy1if3ajqu79tj32rw1irner.jpg",
-          "verdict": "先看",
-          "takeaway": "2026Q2全球智能手机市场TOP5： ①三星24％、②苹果20％、③小米12％、④OPPO 11％、⑤vivo 8％ *三星和苹果份额小涨，米/O/V有明显下滑，榜外榜中，谷歌和华为同样呈正增长。 受内存涨价影响，全球手机市场持续呈下滑趋势，27年预计大盘跌幅约14%。",
-          "detail": "2026Q2全球智能手机市场TOP5： ①三星24％、②苹果20％、③小米12％、④OPPO 11％、⑤vivo 8％ *三星和苹果份额小涨，米/O/V有明显下滑，榜外榜中，谷歌和华为同样呈正增长。 受内存涨价影响，全球手机市场持续呈下滑趋势，27年预计大盘跌幅约14%。",
-          "keyPoints": [
-            "爆料来源"
-          ],
-          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         }
       ]
     },
@@ -215,6 +214,29 @@ window.phoneRadarDaily = {
       "title": "iPhone 重点",
       "hint": "不是硬件爆料，但和 iPhone 体验或路线有关。",
       "items": [
+        {
+          "id": "auto-9a08e63b2688",
+          "title": "投行 KeyBanc 下调苹果股价评级：iPhone 产量可能放缓",
+          "originalTitle": "",
+          "source": "IT之家",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-07-15",
+          "time": "04:10",
+          "publishedAt": "2026-07-15T04:10:29.000Z",
+          "url": "https://www.ithome.com/0/976/938.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/7/1ab97b99-f6df-4b32-8bfe-0771c0201ed1.jpg",
+          "verdict": "先看",
+          "takeaway": "IT之家 7 月 15 日消息，美国投资银行 KeyBanc 在最新研报中，下调苹果公司股票评级， 从“板块权重”（Sector Weight）下调至“减持”（Underweight），并给出 250 美元的目标价。 根据市场调查机构 CounterPoint Research 公布的最新数据，2026 年第 2 季度全球智能手机行业出货量同比下滑 11%…",
+          "detail": "IT之家 7 月 15 日消息，美国投资银行 KeyBanc 在最新研报中，下调苹果公司股票评级， 从“板块权重”（Sector Weight）下调至“减持”（Underweight），并给出 250 美元的目标价。 根据市场调查机构 CounterPoint Research 公布的最新数据，2026 年第 2 季度全球智能手机行业出货量同比下滑 11%…",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "中文源可以直接点开快读；看完只保留和购机有关的点。"
+        },
         {
           "id": "auto-5d95fea06f9f",
           "title": "分期买 iPhone 17 Pro 不再自动解锁：苹果确认 T-Mobile 和 Verizon 分期用户不再享受无锁待遇",
@@ -239,29 +261,6 @@ window.phoneRadarDaily = {
           "action": "中文源可以直接点开快读；看完只保留和购机有关的点。"
         },
         {
-          "id": "newsnow-94e527843255",
-          "title": "如果iPhone 20真是这样，真的有种当年iPhone X的震撼。说实话现在对苹果的产品基本祛魅，iPhone17Pro也就那样，Air倒是还可以，每天也喜欢拿在手上。iPhone 20如果像图上那样我是真喜欢，可惜还要等1年，这个图也不一定准确。#iPhone17ProMax# #iPhone17# #iPhoneAir#",
-          "originalTitle": "",
-          "source": "酷安热榜",
-          "brand": "iPhone",
-          "type": "爆料",
-          "trust": "高关注爆料源",
-          "date": "2026-07-15",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://www.coolapk.com/feed/72774779",
-          "image": "",
-          "verdict": "先看",
-          "takeaway": "如果iPhone 20真是这样，真的有种当年iPhone X的震撼。说实话现在对苹果的产品基本祛魅，iPhone17Pro也就那样，Air倒是还可以，每天也喜欢拿在手上。iPhone 20如果像图上那样我是真喜欢，可惜还要等1年，这个图也不一定准确。#iPhone17ProMax# #iPhone17# #iPhoneAir#",
-          "detail": "如果iPhone 20真是这样，真的有种当年iPhone X的震撼。说实话现在对苹果的产品基本祛魅，iPhone17Pro也就那样，Air倒是还可以，每天也喜欢拿在手上。iPhone 20如果像图上那样我是真喜欢，可惜还要等1年，这个图也不一定准确。#iPhone17ProMax# #iPhone17# #iPhoneAir#",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
-        {
           "id": "auto-9bbf43c61c96",
           "title": "iPhone 系统功能 / AI 体验相关消息",
           "originalTitle": "",
@@ -282,36 +281,6 @@ window.phoneRadarDaily = {
           ],
           "confidence": "官方内容，可直接作为已确认信息记录。",
           "impact": "可信度高，但如果不是配置/价格消息，只需要扫一眼。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        }
-      ]
-    },
-    {
-      "id": "launch",
-      "title": "新机与官方发布",
-      "hint": "能直接更新到参数库。",
-      "items": [
-        {
-          "id": "newsnow-7791158a1c37",
-          "title": "REDMI Note 17 Pro 发布：售价 1599 元起",
-          "originalTitle": "",
-          "source": "酷安热榜",
-          "brand": "Xiaomi",
-          "type": "爆料",
-          "trust": "高关注爆料源",
-          "date": "2026-07-15",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://www.coolapk.com/feed/72781643",
-          "image": "",
-          "verdict": "先看",
-          "takeaway": "REDMI Note 17 Pro 发布：售价 1599 元起",
-          "detail": "REDMI Note 17 Pro 发布：售价 1599 元起",
-          "keyPoints": [
-            "成本 / 价格"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         }
       ]

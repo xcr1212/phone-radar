@@ -1,6 +1,86 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-07-15T03:32:56.403Z",
+  "updatedAt": "2026-07-15T06:27:11.794Z",
   "news": [
+    {
+      "id": "auto-776a16224fc4",
+      "title": "逆势增产 20%：消息称华为 2026 年智能手机出货目标 6000 万部，成唯一增长的中国品牌",
+      "source": "IT之家",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-15",
+      "time": "05:12",
+      "publishedAt": "2026-07-15T05:12:35.000Z",
+      "url": "https://www.ithome.com/0/976/947.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/7/34a562f7-4b4b-4141-9fdd-9219ed5483a1.png",
+      "summary": "IT之家 7 月 15 日消息，《日经亚洲》7 月 14 日援引知情人士消息称，尽管全球存储芯片持续短缺，华为已通知供应商在 2026 年将智能手机出货量目标提升 20% 以上。 供应链消息人士称，华为 2025 年智能手机出货量不足 5000 万部，而公司计划在 2026 年将产量提升至约 6000 万部。 相比之下，包括小米、OPPO、vivo 在内的…",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-6139afb80bfb",
+      "title": "竹本青：曝OPPO阔直板手机已立项：安卓首家",
+      "source": "竹本青",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-07-15",
+      "time": "04:56",
+      "publishedAt": "2026-07-15T04:56:52.000Z",
+      "url": "https://www.coolapk.com/feed/72790538",
+      "image": "http://image.coolapk.com/feed/2026/0715/13/4248714_71ca52b2_1788_5019_438@1271x1600.jpg",
+      "summary": "【安卓首家，曝OPPO阔直板手机已立项】 7月15日，博主数码闲聊站爆料，OPPO阔直板手机正式立项，将成为华为之后的第二家阔直板、安卓首家阔直板手机。 #今日热点# #ColorOS16# #OPPOFindN6#",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-0763d5953ea6",
+      "title": "Galaxy Z Flip 8 and Z Fold 8 pre-orders may not come with free storage upgrades",
+      "source": "SamMobile",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-15",
+      "time": "04:29",
+      "publishedAt": "2026-07-15T04:29:21.000Z",
+      "url": "https://www.sammobile.com/news/galaxy-z-flip-fold-8-pre-orders-no-free-storage-upgrade/",
+      "image": "",
+      "summary": "Samsung will unveil the Galaxy Z Flip 8, Galaxy Z Fold 8, and Galaxy Z Fold 8 Ultra on July 22, 2026, and will likely make them available for preorder on the same day. If you are…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-9a08e63b2688",
+      "title": "投行 KeyBanc 下调苹果股价评级：iPhone 产量可能放缓",
+      "source": "IT之家",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-15",
+      "time": "04:10",
+      "publishedAt": "2026-07-15T04:10:29.000Z",
+      "url": "https://www.ithome.com/0/976/938.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/7/1ab97b99-f6df-4b32-8bfe-0771c0201ed1.jpg",
+      "summary": "IT之家 7 月 15 日消息，美国投资银行 KeyBanc 在最新研报中，下调苹果公司股票评级， 从“板块权重”（Sector Weight）下调至“减持”（Underweight），并给出 250 美元的目标价。 根据市场调查机构 CounterPoint Research 公布的最新数据，2026 年第 2 季度全球智能手机行业出货量同比下滑 11%…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "coolapk-user-00938b1b4a60",
       "title": "竹本青：REDMI「城市英雄服务站」到店活动开启：免费领矿泉水+用机指南+冰贴",
@@ -14,7 +94,7 @@ window.phoneRadarAuto = {
       "publishedAt": "2026-07-15T03:02:34.000Z",
       "url": "https://www.coolapk.com/feed/72789139",
       "image": "http://image.coolapk.com/feed/2026/0715/11/4248714_9c66faf4_4542_3241_866@1125x3947.jpg",
-      "summary": "【REDMI「城市英雄服务站」到店活动开启：免费领矿泉水+用机指南+冰贴】 ● 一瓶矿泉水（限量80万瓶） ● 一份长辈用机随身指南（限量100万份） ● 一份户外清凉贴（限量10万份） ● 免费充电+免费WiFi+免费清洁 ● 不限手机品牌，900家门店免费贴膜 #今日热点# #HyperOS3# #红米note17Pro#",
+      "summary": "【REDMI「城市英雄服务站」到店活动开启：免费领矿泉水+用机指南+冰贴】 ● 一瓶矿泉水（限量80万瓶） ● 一份长辈用机随身指南（限量100万份） ● 一份户外清凉贴（限量10万份） ● 免费充电+免费WiFi+免费清洁 ● 不限手机品牌，900家门店免费贴膜 活动时间：7月15日-8月14日 #今日热点# #HyperOS3# #红米note17Pr…",
       "tags": [
         "Xiaomi",
         "爆料",
@@ -262,41 +342,21 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-94e527843255",
-      "title": "如果iPhone 20真是这样，真的有种当年iPhone X的震撼。说实话现在对苹果的产品基本祛魅，iPhone17Pro也就那样，Air倒是还可以，每天也喜欢拿在手上。iPhone 20如果像图上那样我是真喜欢，可惜还要等1年，这个图也不一定准确。#iPhone17ProMax# #iPhone17# #iPhoneAir#",
+      "id": "newsnow-cb43dd205d93",
+      "title": "消息称今年Q4将是手机价格高点，华为也难避免涨价",
       "source": "酷安热榜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-07-15",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72774779",
+      "url": "https://www.coolapk.com/feed/72783115",
       "image": "",
-      "summary": "如果iPhone 20真是这样，真的有种当年iPhone X的震撼。说实话现在对苹果的产品基本祛魅，iPhone17Pro也就那样，Air倒是还可以，每天也喜欢拿在手上。iPhone 20如果像图上那样我是真喜欢，可惜还要等1年，这个图也不一定准确。#iPhone17ProMax# #iPhone17# #iPhoneAir#",
+      "summary": "消息称今年Q4将是手机价格高点，华为也难避免涨价",
       "tags": [
-        "iPhone",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-23119222be89",
-      "title": "小伙家有200台小米设备不满手机售后",
-      "source": "微博热搜",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "待验证",
-      "date": "2026-07-15",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E4%BC%99%E5%AE%B6%E6%9C%89200%E5%8F%B0%E5%B0%8F%E7%B1%B3%E8%AE%BE%E5%A4%87%E4%B8%8D%E6%BB%A1%E6%89%8B%E6%9C%BA%E5%94%AE%E5%90%8E%23&t=31&band_rank=9&Refer=top",
-      "image": "",
-      "summary": "小伙家有200台小米设备不满手机售后",
-      "tags": [
-        "Xiaomi",
+        "Huawei",
         "爆料",
         "NewsNow"
       ]
@@ -523,7 +583,7 @@ window.phoneRadarAuto = {
     },
     {
       "id": "auto-f3509321fdee",
-      "title": "Galaxy S27 Ultra leak says horizontal camera layout may not happen after all",
+      "title": "Galaxy S27 Ultra may not feature the horizontal camera layout after all",
       "source": "Gizmochina",
       "brand": "Samsung",
       "model": "Samsung 相关机型",
@@ -653,7 +713,7 @@ window.phoneRadarAuto = {
       "time": "13:56",
       "publishedAt": "2026-07-14T13:56:07.000Z",
       "url": "https://www.gizmochina.com/2026/07/14/huawei-pura-90s-pro-and-pro-max-launch-globally-pro-max-features-industry-first-200mp-ryyb-telephoto-lofic-tech/",
-      "image": "https://www.gizmochina.com/wp-content/uploads/2026/07/Screenshot-2026-07-14-162202-300x169.png?x44794",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/07/design-intro-pad-300x196.webp?x44794",
       "summary": "Huawei just officially rolled out the Pura 90s Pro and Pura 90s Pro Max to international markets, giving the Pura 90 lineup a proper global push beyond China. The two models share…",
       "tags": [
         "Huawei",
@@ -719,26 +779,6 @@ window.phoneRadarAuto = {
         "Samsung",
         "爆料",
         "自动抓取"
-      ]
-    },
-    {
-      "id": "coolapk-user-27d89cd7bfe2",
-      "title": "竹本青：消息称今年Q4将是手机价格高点，华为也难避免涨价",
-      "source": "竹本青",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-07-14",
-      "time": "13:00",
-      "publishedAt": "2026-07-14T13:00:38.000Z",
-      "url": "https://www.coolapk.com/feed/72783115",
-      "image": "http://image.coolapk.com/feed/2026/0714/21/4248714_a3eb6792_4036_7449_976@1440x2118.jpg",
-      "summary": "【消息称今年Q4将是手机价格高点，华为也难避免涨价】 7月14日，博主「RD观测」发文谈硬件存储与手机市场全面涨价。他表示，对于存储，国内的手机厂商一般是签半年的协议，个别厂商可能会签一年，所以目前一部分仍有老库存的厂商在利用老库存来扛着。 按照目前的情况来看，涨幅放缓，涨价/季度绝对值变化不大，今年Q4应该是价格高点，明年会不会降下来还尚未可知，在可预见…",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "酷安博主"
       ]
     },
     {
@@ -839,26 +879,6 @@ window.phoneRadarAuto = {
         "Huawei",
         "爆料",
         "自动抓取"
-      ]
-    },
-    {
-      "id": "coolapk-user-86a83035d65b",
-      "title": "竹本青：有没有酷友知道，为什么Find X7 Ultra以后就没有“超级卡”功能了，是被集成，还是下架了",
-      "source": "竹本青",
-      "brand": "OPPO",
-      "model": "OPPO 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-07-14",
-      "time": "12:14",
-      "publishedAt": "2026-07-14T12:14:48.000Z",
-      "url": "https://www.coolapk.com/feed/72782419",
-      "image": "http://image.coolapk.com/feed/2026/0714/20/4248714_dcf0ebba_1287_222_133@1439x1473.jpg",
-      "summary": "有没有酷友知道，为什么Find X7 Ultra以后就没有“超级卡”功能了，是被集成，还是下架了",
-      "tags": [
-        "OPPO",
-        "爆料",
-        "酷安博主"
       ]
     },
     {
@@ -993,7 +1013,7 @@ window.phoneRadarAuto = {
       "time": "10:25",
       "publishedAt": "2026-07-14T10:25:19.000Z",
       "url": "https://www.gizmochina.com/2026/07/14/galaxy-s26-ultra-users-report-red-tint-on-the-display-samsung-investigating/",
-      "image": "https://www.gizmochina.com/wp-content/uploads/2026/07/a-red-tint-issue-on-the-s26-ultra-display-please-check-your-v0-o2x5fvkk50dh1-300x169.jpg?x44794",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/07/a-red-tint-issue-on-the-s26-ultra-display-please-check-your-v0-jnelp63ubzch1-1-300x169.jpg?x44794",
       "summary": "Premium flagship phones aren’t immune to issues. Just months after launch, some owners of the Galaxy S26 Ultra are reporting a reddish tint appearing right in the center of the sc…",
       "tags": [
         "Samsung",
@@ -1097,46 +1117,6 @@ window.phoneRadarAuto = {
       "summary": "iQOO 16, iQOO Neo 12, and iQOO Z12 Turbo are expected to feature significantly larger batteries, as per a new leak by reliable tipster Digital Chat Station. To recall, he recently…",
       "tags": [
         "vivo",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-f1c9350cc79d",
-      "title": "Huawei launches Pura 90s Pro 5G with gradient colors, 50MP quad camera system, large battery and more",
-      "source": "Huawei Central",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-14",
-      "time": "07:33",
-      "publishedAt": "2026-07-14T07:33:03.000Z",
-      "url": "https://www.huaweicentral.com/huawei-launches-pura-90s-pro-5g/",
-      "image": "https://www.huaweicentral.com/wp-content/uploads/2026/07/hauwei-pura-90s-pro1.jpg",
-      "summary": "Over the past year, Huawei’s global launch campaign has been moving slowly, but now, the Huawei Pura 90s Pro 5G has come to revive the momentum. This new device is now available f…",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-02a66354d55b",
-      "title": "Huawei Pura 90s Pro Max 5G goes global with 200MP telephoto camera, 6.9′ OLED screen, 6000mAh battery and more",
-      "source": "Huawei Central",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-14",
-      "time": "07:17",
-      "publishedAt": "2026-07-14T07:17:39.000Z",
-      "url": "https://www.huaweicentral.com/huawei-pura-90s-pro-max-goes-global/",
-      "image": "https://www.huaweicentral.com/wp-content/uploads/2026/07/huawei-pura-90s-pro-max1.jpg",
-      "summary": "On July 14, 2026, Huawei made a major comeback to the global market with the launch of the Huawei Pura 90s Pro Max. This is the first flagship in years that comes with all of the…",
-      "tags": [
-        "Huawei",
         "爆料",
         "自动抓取"
       ]
@@ -1299,26 +1279,6 @@ window.phoneRadarAuto = {
         "OPPO",
         "爆料",
         "自动抓取"
-      ]
-    },
-    {
-      "id": "weibo-f045c0c88e56",
-      "title": "数码闲聊站：2026Q2全球智能手机市场TOP5： ①三星24％、②苹果20％、③小米12…",
-      "source": "数码闲聊站",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-07-14",
-      "time": "02:30",
-      "publishedAt": "2026-07-14T02:30:00.000Z",
-      "url": "https://weibo.com/6048569942/R8C1KyfrT",
-      "image": "https://tvax1.sinaimg.cn/mw2000/006BlblIgy1if3ajqu79tj32rw1irner.jpg",
-      "summary": "2026Q2全球智能手机市场TOP5： ①三星24％、②苹果20％、③小米12％、④OPPO 11％、⑤vivo 8％ *三星和苹果份额小涨，米/O/V有明显下滑，榜外榜中，谷歌和华为同样呈正增长。 受内存涨价影响，全球手机市场持续呈下滑趋势，27年预计大盘跌幅约14%。",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "微博"
       ]
     }
   ]
