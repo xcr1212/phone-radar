@@ -1,5 +1,5 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-07-15T19:35:25.861Z",
+  "updatedAt": "2026-07-15T21:14:23.709Z",
   "news": [
     {
       "id": "auto-db8774f9cafe",
@@ -702,26 +702,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "coolapk-user-00938b1b4a60",
-      "title": "竹本青：REDMI「城市英雄服务站」到店活动开启：免费领矿泉水+用机指南+冰贴",
-      "source": "竹本青",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-07-15",
-      "time": "03:02",
-      "publishedAt": "2026-07-15T03:02:34.000Z",
-      "url": "https://www.coolapk.com/feed/72789139",
-      "image": "http://image.coolapk.com/feed/2026/0715/11/4248714_9c66faf4_4542_3241_866@1125x3947.jpg",
-      "summary": "【REDMI「城市英雄服务站」到店活动开启：免费领矿泉水+用机指南+冰贴】 ● 一瓶矿泉水（限量80万瓶） ● 一份长辈用机随身指南（限量100万份） ● 一份户外清凉贴（限量10万份） ● 免费充电+免费WiFi+免费清洁 ● 不限手机品牌，900家门店免费贴膜 活动时间：7月15日-8月14日 #今日热点# #HyperOS3# #红米note17Pr…",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
       "id": "auto-9bbf43c61c96",
       "title": "Apple announces changes to iOS in Brazil",
       "source": "Apple Newsroom",
@@ -902,7 +882,7 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-4b43451264ba",
+      "id": "newsnow-938c4c8a60e3",
       "title": "中国用户终于迎来满血iPhone",
       "source": "微博热搜",
       "brand": "iPhone",
@@ -912,31 +892,11 @@ window.phoneRadarAuto = {
       "date": "2026-07-15",
       "time": "",
       "publishedAt": "",
-      "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%94%A8%E6%88%B7%E7%BB%88%E4%BA%8E%E8%BF%8E%E6%9D%A5%E6%BB%A1%E8%A1%80iPhone%23&t=31&band_rank=4&Refer=top",
+      "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%94%A8%E6%88%B7%E7%BB%88%E4%BA%8E%E8%BF%8E%E6%9D%A5%E6%BB%A1%E8%A1%80iPhone%23&t=31&band_rank=12&Refer=top",
       "image": "",
       "summary": "中国用户终于迎来满血iPhone",
       "tags": [
         "iPhone",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-724e7fc156ab",
-      "title": "王俊凯忙一天打开手机天塌了",
-      "source": "微博热搜",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "待验证",
-      "date": "2026-07-15",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%BF%8A%E5%87%AF%E5%BF%99%E4%B8%80%E5%A4%A9%E6%89%93%E5%BC%80%E6%89%8B%E6%9C%BA%E5%A4%A9%E5%A1%8C%E4%BA%86%23&t=31&band_rank=20&Refer=top",
-      "image": "",
-      "summary": "王俊凯忙一天打开手机天塌了",
-      "tags": [
-        "行业",
         "爆料",
         "NewsNow"
       ]
@@ -1315,26 +1275,6 @@ window.phoneRadarAuto = {
       "url": "https://9to5mac.com/2026/07/14/how-the-20th-anniversary-iphone-will-provide-a-single-slab-of-glass-look/",
       "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/05/iphone-20th-anniversary-color-wave.jpg?quality=82&strip=all&w=1600",
       "summary": "Former Apple design chief Jony Ive always described his long-term vision for the iPhone design as “a single slab of glass.” Apple is believed to have retained that goal long after…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-ced89905295b",
-      "title": "Factories Now Ready for iPhone 20's Glass Redesign, Leaker Claims",
-      "source": "MacRumors",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-14",
-      "time": "12:47",
-      "publishedAt": "2026-07-14T12:47:03.000Z",
-      "url": "https://www.macrumors.com/2026/07/14/factories-ready-for-iphone-20-glass-redesign/",
-      "image": "https://images.macrumors.com/article-new/2025/02/iphone-air-camera.jpg",
-      "summary": "Facilities in Apple's supply chain have finished renovations ahead of \"iPhone 20\" production, according to a Weibo leaker who says Apple's 20th-anniversary iPhone will move to an…",
       "tags": [
         "iPhone",
         "爆料",

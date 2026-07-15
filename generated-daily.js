@@ -1,12 +1,12 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-07-15T19:35:25.861Z",
+  "updatedAt": "2026-07-15T21:14:23.709Z",
   "issueDate": "2026-07-15",
   "issue": "VOL.260715",
   "title": "手机情报日报",
-  "intro": "今日筛出 11 条重点，其中 8 条是重点爆料，包含 2 条 iPhone 相关、1 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 13 条重点，其中 8 条是重点爆料，包含 1 条 iPhone 相关、1 条官方确认、0 条参数线索。",
   "stats": {
-    "total": 11,
-    "iphone": 2,
+    "total": 13,
+    "iphone": 1,
     "leaks": 8,
     "official": 1,
     "specs": 0
@@ -17,30 +17,6 @@ window.phoneRadarDaily = {
       "title": "重点爆料",
       "hint": "机模、配色、影像、屏幕、电池和芯片线索先看。",
       "items": [
-        {
-          "id": "auto-ced89905295b",
-          "title": "iPhone 20 外观设计线索曝光",
-          "originalTitle": "",
-          "source": "MacRumors",
-          "brand": "iPhone",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-07-14",
-          "time": "12:47",
-          "publishedAt": "2026-07-14T12:47:03.000Z",
-          "url": "https://www.macrumors.com/2026/07/14/factories-ready-for-iphone-20-glass-redesign/",
-          "image": "https://images.macrumors.com/article-new/2025/02/iphone-air-camera.jpg",
-          "verdict": "先看",
-          "takeaway": "iPhone 20 外观设计线索曝光。重点看外观、颜色、尺寸是否和上一代有明显变化。",
-          "detail": "iPhone 20 外观设计线索曝光。这类内容主要看外观设计、按键布局、相机模组和尺寸变化，后续最好等更多渲染图或保护壳线索互相验证。",
-          "keyPoints": [
-            "外观 / 配色 / 尺寸",
-            "爆料来源"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
         {
           "id": "auto-7b72fda06d10",
           "title": "荣耀 MagicOS 10 系统 7 月版本今启首批机型推送，覆盖 Magic8、数字 600 等系列手机",
@@ -161,29 +137,6 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
-          "id": "coolapk-user-00938b1b4a60",
-          "title": "竹本青：REDMI「城市英雄服务站」到店活动开启：免费领矿泉水+用机指南+冰贴",
-          "originalTitle": "",
-          "source": "竹本青",
-          "brand": "Xiaomi",
-          "type": "爆料",
-          "trust": "高可信爆料",
-          "date": "2026-07-15",
-          "time": "03:02",
-          "publishedAt": "2026-07-15T03:02:34.000Z",
-          "url": "https://www.coolapk.com/feed/72789139",
-          "image": "http://image.coolapk.com/feed/2026/0715/11/4248714_9c66faf4_4542_3241_866@1125x3947.jpg",
-          "verdict": "先看",
-          "takeaway": "【REDMI「城市英雄服务站」到店活动开启：免费领矿泉水+用机指南+冰贴】 ● 一瓶矿泉水（限量80万瓶） ● 一份长辈用机随身指南（限量100万份） ● 一份户外清凉贴（限量10万份） ● 免费充电+免费WiFi+免费清洁 ● 不限手机品牌，900家门店免费贴膜 活动时间：7月15日-8月14日 #今日热点# #HyperOS3# #红米note17Pr…",
-          "detail": "【REDMI「城市英雄服务站」到店活动开启：免费领矿泉水+用机指南+冰贴】 ● 一瓶矿泉水（限量80万瓶） ● 一份长辈用机随身指南（限量100万份） ● 一份户外清凉贴（限量10万份） ● 免费充电+免费WiFi+免费清洁 ● 不限手机品牌，900家门店免费贴膜 活动时间：7月15日-8月14日 #今日热点# #HyperOS3# #红米note17Pr…",
-          "keyPoints": [
-            "电池 / 充电"
-          ],
-          "confidence": "可信度较高，但仍属于发布前线索。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
           "id": "coolapk-user-05efc4ef1911",
           "title": "JSCHEN小小狐：REDMI Note 17 正式发布：售价 1299 元起",
           "originalTitle": "",
@@ -204,6 +157,55 @@ window.phoneRadarDaily = {
             "成本 / 价格"
           ],
           "confidence": "可信度较高，但仍属于发布前线索。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "coolapk-user-264a08417b4c",
+          "title": "JSCHEN小小狐：博主汇总荣耀 Robot Phone 参数：8 月发布",
+          "originalTitle": "",
+          "source": "JSCHEN小小狐",
+          "brand": "HONOR",
+          "type": "爆料",
+          "trust": "高可信爆料",
+          "date": "2026-07-14",
+          "time": "06:57",
+          "publishedAt": "2026-07-14T06:57:40.000Z",
+          "url": "https://www.coolapk.com/feed/72778136",
+          "image": "http://image.coolapk.com/feed/2026/0714/14/4702274_3e475118_2259_2275_866@1440x667.jpg",
+          "verdict": "先看",
+          "takeaway": "『博主汇总荣耀 Robot Phone 参数：8 月发布』 ◇ 6.3-6.4 英寸 1.5K 四等边直屏 ◇ 骁龙 8 Elite Gen5 移动平台 ◇ 200Mp 23mm f/1.6 4D 云台主摄 ◇ 200Mp 潜望式长焦 + 50Mp 超广角 ◇ ARRI 影像 / 预计为 Magic9 系列超前瞻 此外，消息称荣耀 Robot Phone…",
+          "detail": "『博主汇总荣耀 Robot Phone 参数：8 月发布』 ◇ 6.3-6.4 英寸 1.5K 四等边直屏 ◇ 骁龙 8 Elite Gen5 移动平台 ◇ 200Mp 23mm f/1.6 4D 云台主摄 ◇ 200Mp 潜望式长焦 + 50Mp 超广角 ◇ ARRI 影像 / 预计为 Magic9 系列超前瞻 此外，消息称荣耀 Robot Phone…",
+          "keyPoints": [
+            "影像硬件",
+            "屏幕形态",
+            "爆料来源"
+          ],
+          "confidence": "可信度较高，但仍属于发布前线索。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "auto-c77ca3da3115",
+          "title": "vivo 机模 / 配色信息曝光",
+          "originalTitle": "",
+          "source": "Gizmochina",
+          "brand": "vivo",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-07-14",
+          "time": "03:53",
+          "publishedAt": "2026-07-14T03:53:22.000Z",
+          "url": "https://www.gizmochina.com/2026/07/14/vivo-x300e-storage-ram-color-options-tipped-in-new-leak/",
+          "image": "https://www.gizmochina.com/wp-content/uploads/2026/07/Vivo-X300-FE-black-scaled-1-300x169.jpg?x44794",
+          "verdict": "先看",
+          "takeaway": "vivo 机模 / 配色信息曝光。重点看外观、颜色、尺寸是否和上一代有明显变化。",
+          "detail": "vivo 机模 / 配色信息曝光。来源提到未发布机型的机模/配色图，适合先判断外观方向、颜色变化和机身轮廓，但最终量产版本仍可能调整。",
+          "keyPoints": [
+            "外观 / 配色 / 尺寸",
+            "爆料来源"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         }
@@ -266,6 +268,29 @@ window.phoneRadarDaily = {
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        },
+        {
+          "id": "coolapk-user-62f52f0c6cd1",
+          "title": "竹本青：小米发布并开源 Xiaomi-Robotics-U0：具身领域首个“通吃”四类任务的统一生成模型",
+          "originalTitle": "",
+          "source": "竹本青",
+          "brand": "Xiaomi",
+          "type": "爆料",
+          "trust": "高可信爆料",
+          "date": "2026-07-15",
+          "time": "07:38",
+          "publishedAt": "2026-07-15T07:38:34.000Z",
+          "url": "https://www.coolapk.com/feed/72792365",
+          "image": "http://image.coolapk.com/feed/2026/0715/15/4248714_daaa1d96_1084_2719_250@1080x1227.jpg",
+          "verdict": "扫一眼",
+          "takeaway": "【小米发布并开源 Xiaomi-Robotics-U0：具身领域首个“通吃”四类任务的统一生成模型】 7月15日，小米正式发布 Xiaomi-Robotics-UO——拥有 380 亿参数的多模态自回归具身生成基础模型，是具身领域首个“通吃”四类任务的统一生成模型，打通了机器人图片和视频数据的生成与编辑链路。 它既能在保持几何一致性的前提下，对已有数据做增…",
+          "detail": "【小米发布并开源 Xiaomi-Robotics-U0：具身领域首个“通吃”四类任务的统一生成模型】 7月15日，小米正式发布 Xiaomi-Robotics-UO——拥有 380 亿参数的多模态自回归具身生成基础模型，是具身领域首个“通吃”四类任务的统一生成模型，打通了机器人图片和视频数据的生成与编辑链路。 它既能在保持几何一致性的前提下，对已有数据做增…",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "可信度较高，但仍属于发布前线索。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         }
       ]
     },
@@ -290,6 +315,29 @@ window.phoneRadarDaily = {
           "verdict": "先看",
           "takeaway": "其实按道理来说，小米手机的产品力并不差，品牌流量也足够。那是因为什么原因导致销量后劲不足呢？",
           "detail": "其实按道理来说，小米手机的产品力并不差，品牌流量也足够。那是因为什么原因导致销量后劲不足呢？",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        },
+        {
+          "id": "newsnow-eaeb4de5d8e7",
+          "title": "实话说，看酷友 #REDMITurbo5Max# 12+256版本的入手价，基本都在1400左右，确实非常值得。",
+          "originalTitle": "",
+          "source": "酷安热榜",
+          "brand": "Xiaomi",
+          "type": "爆料",
+          "trust": "高关注爆料源",
+          "date": "2026-07-15",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://www.coolapk.com/feed/72791337",
+          "image": "",
+          "verdict": "扫一眼",
+          "takeaway": "实话说，看酷友 #REDMITurbo5Max# 12+256版本的入手价，基本都在1400左右，确实非常值得。",
+          "detail": "实话说，看酷友 #REDMITurbo5Max# 12+256版本的入手价，基本都在1400左右，确实非常值得。",
           "keyPoints": [
             "爆料"
           ],
