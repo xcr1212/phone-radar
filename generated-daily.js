@@ -1,14 +1,14 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-07-14T23:10:23.421Z",
-  "issueDate": "2026-07-14",
-  "issue": "VOL.260714",
+  "updatedAt": "2026-07-15T03:32:56.403Z",
+  "issueDate": "2026-07-15",
+  "issue": "VOL.260715",
   "title": "手机情报日报",
-  "intro": "今日筛出 8 条重点，其中 8 条是重点爆料，包含 2 条 iPhone 相关、0 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 12 条重点，其中 8 条是重点爆料，包含 5 条 iPhone 相关、1 条官方确认、0 条参数线索。",
   "stats": {
-    "total": 8,
-    "iphone": 2,
+    "total": 12,
+    "iphone": 5,
     "leaks": 8,
-    "official": 0,
+    "official": 1,
     "specs": 0
   },
   "sections": [
@@ -65,48 +65,23 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
-          "id": "auto-7916575390e4",
-          "title": "REDMI Note 17 Pro 手机体验：延续“小金刚”基因，抗摔防水大电量",
+          "id": "newsnow-cbeec2d1e62f",
+          "title": "在自己亲身用苹果手机以前，以为买苹果的人除开女孩子喜欢拍照之外的所有人都是为了跟风为了装才买苹果，后来自己用上了才知道，对不起都是我的错，系统流畅度这一块不谈（不是要求很高，日用不是非常卡都可以接受），无论是屏幕显示，马达，音质，还有软件适配，还有一些软件的交互体验，真的是在安卓上没有体验到过的，iPhone 17pro这个屏幕也是用了这么久手机以来我认为最舒适最好的，我一加15双持和17pro双持，一加15这个屏幕我无论怎么调怎么对比都没有iPhone 17pro这个好，音质就更不说了，刷抖音外放超级舒适，不是为什么一个个嘴那么严只说拍照好[流泪][流泪][流泪]，真的回不去了，哪怕以后我还是不会放弃安卓，因为目前在生活实用性和功能性方面安卓确实更方便，但是我还是留一台苹果的[受虐滑稽][受虐滑稽][受虐滑稽]",
           "originalTitle": "",
-          "source": "IT之家",
-          "brand": "Xiaomi",
+          "source": "酷安热榜",
+          "brand": "OPPO",
           "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-07-14",
-          "time": "15:28",
-          "publishedAt": "2026-07-14T15:28:17.000Z",
-          "url": "https://www.ithome.com/0/976/760.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/7/8ace0eb6-c911-459e-866e-4521f5e973cc.jpg",
+          "trust": "高关注爆料源",
+          "date": "2026-07-15",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://www.coolapk.com/feed/72777283",
+          "image": "",
           "verdict": "先看",
-          "takeaway": "7 月 14 日晚间，REDMI 举办了新品发布会，正式推出了全新 REDMI Note 17 系列新机。新机延续国民小金刚的定位，致力于打造中端手机的标杆，号称升配不升档，守住中端体验基线；同时金刚品质更抗摔防水，超长续航更持久耐用。 一直以来，REDMI 的 Note 系列从初代产品凭借亲民价格与实用配置打入市场，到后来不断迭代升级，每一代都坚持为用户…",
-          "detail": "7 月 14 日晚间，REDMI 举办了新品发布会，正式推出了全新 REDMI Note 17 系列新机。新机延续国民小金刚的定位，致力于打造中端手机的标杆，号称升配不升档，守住中端体验基线；同时金刚品质更抗摔防水，超长续航更持久耐用。 一直以来，REDMI 的 Note 系列从初代产品凭借亲民价格与实用配置打入市场，到后来不断迭代升级，每一代都坚持为用户…",
+          "takeaway": "在自己亲身用苹果手机以前，以为买苹果的人除开女孩子喜欢拍照之外的所有人都是为了跟风为了装才买苹果，后来自己用上了才知道，对不起都是我的错，系统流畅度这一块不谈（不是要求很高，日用不是非常卡都可以接受），无论是屏幕显示，马达，音质，还有软件适配，还有一些软件的交互体验，真的是在安卓上没有体验到过的，iPhone 17pro这个屏幕也是用了这么久手机以来我认为…",
+          "detail": "在自己亲身用苹果手机以前，以为买苹果的人除开女孩子喜欢拍照之外的所有人都是为了跟风为了装才买苹果，后来自己用上了才知道，对不起都是我的错，系统流畅度这一块不谈（不是要求很高，日用不是非常卡都可以接受），无论是屏幕显示，马达，音质，还有软件适配，还有一些软件的交互体验，真的是在安卓上没有体验到过的，iPhone 17pro这个屏幕也是用了这么久手机以来我认为…",
           "keyPoints": [
-            "电池 / 充电",
-            "成本 / 价格"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "auto-8150446302b4",
-          "title": "小米 REDMI Note 17 Pro 手机发布：9000mAh 电池、骁龙 6s Gen 4 处理器，1599 元起",
-          "originalTitle": "",
-          "source": "IT之家",
-          "brand": "Xiaomi",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-07-14",
-          "time": "11:21",
-          "publishedAt": "2026-07-14T11:21:12.000Z",
-          "url": "https://www.ithome.com/0/976/707.htm",
-          "image": "https://img14.360buyimg.com/pop/jfs/t1/476283/10/5441/44548/6a4ce21aFff0afa45/0083320320302b67.jpg",
-          "verdict": "先看",
-          "takeaway": "IT之家 7 月 14 日消息，在今天的发布会中，小米 REDMI Note 17 Pro 手机正式发布，定价为 1599 元起。 8GB RAM + 128GB 存储空间：1599 元 8GB RAM + 256GB 存储空间：1899 元，首发价 1699 元 12GB RAM + 256GB 存储空间：2199 元，首发价 1999 元 8GB RA…",
-          "detail": "IT之家 7 月 14 日消息，在今天的发布会中，小米 REDMI Note 17 Pro 手机正式发布，定价为 1599 元起。 8GB RAM + 128GB 存储空间：1599 元 8GB RAM + 256GB 存储空间：1899 元，首发价 1699 元 12GB RAM + 256GB 存储空间：2199 元，首发价 1999 元 8GB RA…",
-          "keyPoints": [
-            "电池 / 充电",
-            "芯片 / 性能"
+            "屏幕形态"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
@@ -209,6 +184,135 @@ window.phoneRadarDaily = {
           "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "weibo-f045c0c88e56",
+          "title": "数码闲聊站：2026Q2全球智能手机市场TOP5： ①三星24％、②苹果20％、③小米12…",
+          "originalTitle": "",
+          "source": "数码闲聊站",
+          "brand": "Huawei",
+          "type": "爆料",
+          "trust": "高关注爆料源",
+          "date": "2026-07-14",
+          "time": "02:30",
+          "publishedAt": "2026-07-14T02:30:00.000Z",
+          "url": "https://weibo.com/6048569942/R8C1KyfrT",
+          "image": "https://tvax1.sinaimg.cn/mw2000/006BlblIgy1if3ajqu79tj32rw1irner.jpg",
+          "verdict": "先看",
+          "takeaway": "2026Q2全球智能手机市场TOP5： ①三星24％、②苹果20％、③小米12％、④OPPO 11％、⑤vivo 8％ *三星和苹果份额小涨，米/O/V有明显下滑，榜外榜中，谷歌和华为同样呈正增长。 受内存涨价影响，全球手机市场持续呈下滑趋势，27年预计大盘跌幅约14%。",
+          "detail": "2026Q2全球智能手机市场TOP5： ①三星24％、②苹果20％、③小米12％、④OPPO 11％、⑤vivo 8％ *三星和苹果份额小涨，米/O/V有明显下滑，榜外榜中，谷歌和华为同样呈正增长。 受内存涨价影响，全球手机市场持续呈下滑趋势，27年预计大盘跌幅约14%。",
+          "keyPoints": [
+            "爆料来源"
+          ],
+          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        }
+      ]
+    },
+    {
+      "id": "iphone",
+      "title": "iPhone 重点",
+      "hint": "不是硬件爆料，但和 iPhone 体验或路线有关。",
+      "items": [
+        {
+          "id": "auto-5d95fea06f9f",
+          "title": "分期买 iPhone 17 Pro 不再自动解锁：苹果确认 T-Mobile 和 Verizon 分期用户不再享受无锁待遇",
+          "originalTitle": "",
+          "source": "IT之家",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-07-15",
+          "time": "02:38",
+          "publishedAt": "2026-07-15T02:38:36.000Z",
+          "url": "https://www.ithome.com/0/976/841.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/7/f2d69c73-1815-4c1e-825d-1af4de050dbb.png",
+          "verdict": "先看",
+          "takeaway": "IT之家 7 月 15 日消息，大家可能经常能在电商平台见到一些特别便宜的 iPhone“水货”机型，而这些机型多数来源于海外用户在运营商处购买的“无锁”合约机。 Reddit 用户 Shrinra 今日发现，苹果公司悄然调整了 iPhone 17 Pro 系列的分期购机政策，收紧了此前针对 T-Mobile 和 Verizon 两家运营商的解锁条款。 根…",
+          "detail": "IT之家 7 月 15 日消息，大家可能经常能在电商平台见到一些特别便宜的 iPhone“水货”机型，而这些机型多数来源于海外用户在运营商处购买的“无锁”合约机。 Reddit 用户 Shrinra 今日发现，苹果公司悄然调整了 iPhone 17 Pro 系列的分期购机政策，收紧了此前针对 T-Mobile 和 Verizon 两家运营商的解锁条款。 根…",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "中文源可以直接点开快读；看完只保留和购机有关的点。"
+        },
+        {
+          "id": "newsnow-94e527843255",
+          "title": "如果iPhone 20真是这样，真的有种当年iPhone X的震撼。说实话现在对苹果的产品基本祛魅，iPhone17Pro也就那样，Air倒是还可以，每天也喜欢拿在手上。iPhone 20如果像图上那样我是真喜欢，可惜还要等1年，这个图也不一定准确。#iPhone17ProMax# #iPhone17# #iPhoneAir#",
+          "originalTitle": "",
+          "source": "酷安热榜",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "高关注爆料源",
+          "date": "2026-07-15",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://www.coolapk.com/feed/72774779",
+          "image": "",
+          "verdict": "先看",
+          "takeaway": "如果iPhone 20真是这样，真的有种当年iPhone X的震撼。说实话现在对苹果的产品基本祛魅，iPhone17Pro也就那样，Air倒是还可以，每天也喜欢拿在手上。iPhone 20如果像图上那样我是真喜欢，可惜还要等1年，这个图也不一定准确。#iPhone17ProMax# #iPhone17# #iPhoneAir#",
+          "detail": "如果iPhone 20真是这样，真的有种当年iPhone X的震撼。说实话现在对苹果的产品基本祛魅，iPhone17Pro也就那样，Air倒是还可以，每天也喜欢拿在手上。iPhone 20如果像图上那样我是真喜欢，可惜还要等1年，这个图也不一定准确。#iPhone17ProMax# #iPhone17# #iPhoneAir#",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        },
+        {
+          "id": "auto-9bbf43c61c96",
+          "title": "iPhone 系统功能 / AI 体验相关消息",
+          "originalTitle": "",
+          "source": "Apple Newsroom",
+          "brand": "iPhone",
+          "type": "官方",
+          "trust": "官方确认",
+          "date": "2026-07-15",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://www.apple.com/newsroom/2026/06/apple-announces-changes-to-ios-in-brazil/",
+          "image": "",
+          "verdict": "先看",
+          "takeaway": "iPhone 系统功能 / AI 体验相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
+          "detail": "iPhone 系统功能 / AI 体验相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
+          "keyPoints": [
+            "官方"
+          ],
+          "confidence": "官方内容，可直接作为已确认信息记录。",
+          "impact": "可信度高，但如果不是配置/价格消息，只需要扫一眼。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        }
+      ]
+    },
+    {
+      "id": "launch",
+      "title": "新机与官方发布",
+      "hint": "能直接更新到参数库。",
+      "items": [
+        {
+          "id": "newsnow-7791158a1c37",
+          "title": "REDMI Note 17 Pro 发布：售价 1599 元起",
+          "originalTitle": "",
+          "source": "酷安热榜",
+          "brand": "Xiaomi",
+          "type": "爆料",
+          "trust": "高关注爆料源",
+          "date": "2026-07-15",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://www.coolapk.com/feed/72781643",
+          "image": "",
+          "verdict": "先看",
+          "takeaway": "REDMI Note 17 Pro 发布：售价 1599 元起",
+          "detail": "REDMI Note 17 Pro 发布：售价 1599 元起",
+          "keyPoints": [
+            "成本 / 价格"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         }
       ]
     }
