@@ -1,12 +1,12 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-07-16T03:35:30.569Z",
+  "updatedAt": "2026-07-16T06:30:36.645Z",
   "issueDate": "2026-07-16",
   "issue": "VOL.260716",
   "title": "手机情报日报",
-  "intro": "今日筛出 20 条重点，其中 8 条是重点爆料，包含 6 条 iPhone 相关、1 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 17 条重点，其中 8 条是重点爆料，包含 2 条 iPhone 相关、1 条官方确认、0 条参数线索。",
   "stats": {
-    "total": 20,
-    "iphone": 6,
+    "total": 17,
+    "iphone": 2,
     "leaks": 8,
     "official": 1,
     "specs": 0
@@ -17,6 +17,29 @@ window.phoneRadarDaily = {
       "title": "重点爆料",
       "hint": "机模、配色、影像、屏幕、电池和芯片线索先看。",
       "items": [
+        {
+          "id": "auto-0bb6b5d8fdb4",
+          "title": "荣耀 Robot Phone 就绪，全球首台机器人手机双配色亮相",
+          "originalTitle": "",
+          "source": "IT之家",
+          "brand": "HONOR",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-07-16",
+          "time": "05:06",
+          "publishedAt": "2026-07-16T05:06:50.000Z",
+          "url": "https://www.ithome.com/0/977/463.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/7/1706b48c-3909-41c5-ac0f-99f8fcc2fdc0.jpg",
+          "verdict": "先看",
+          "takeaway": "IT之家 7 月 16 日消息，荣耀终端股份有限公司 CEO 李健刚刚在微博宣布，全球首台机器人手机荣耀 Robot Phone 已准备就绪，暗示荣耀 Robot Phone 即将正式开启预约。 李健发布的海报显示，这款机型提供两种配色方案。此前，荣耀线下门店已于 7 月 15 日开放该机型的预约通道，提前预定可享受专属权益。 荣耀 Robot Phone…",
+          "detail": "IT之家 7 月 16 日消息，荣耀终端股份有限公司 CEO 李健刚刚在微博宣布，全球首台机器人手机荣耀 Robot Phone 已准备就绪，暗示荣耀 Robot Phone 即将正式开启预约。 李健发布的海报显示，这款机型提供两种配色方案。此前，荣耀线下门店已于 7 月 15 日开放该机型的预约通道，提前预定可享受专属权益。 荣耀 Robot Phone…",
+          "keyPoints": [
+            "外观 / 配色 / 尺寸"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
         {
           "id": "auto-3a13c9e176d3",
           "title": "iPhone 相关消息",
@@ -41,26 +64,99 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
-          "id": "auto-a77af29d4b00",
-          "title": "一加被曝将在印度重启 4G 手机产品线，瞄准入门至中端市场",
+          "id": "auto-11632f190525",
+          "title": "小米 REDMI 17 4G 手机渲染图曝光：7500mAh 电池、5000 万主摄",
           "originalTitle": "",
           "source": "IT之家",
-          "brand": "OPPO",
+          "brand": "Xiaomi",
           "type": "爆料",
           "trust": "媒体汇总",
           "date": "2026-07-16",
-          "time": "01:40",
-          "publishedAt": "2026-07-16T01:40:32.000Z",
-          "url": "https://www.ithome.com/0/977/314.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/7/b474b20b-448e-41e6-be1e-3a5651976426.png?x-bce-process=image/format,f_auto",
+          "time": "06:05",
+          "publishedAt": "2026-07-16T06:05:02.000Z",
+          "url": "https://www.ithome.com/0/977/477.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/7/f61961f5-e863-4b48-822c-4233085e4945.png?x-bce-process=image/format,f_auto",
           "verdict": "先看",
-          "takeaway": "IT之家 7 月 16 日消息，Smartprix 今日援引消息人士的话称，一加计划在印度市场推出一款全新的 4G 智能手机。在 5G 手机已成为市场主流的背景下，这一产品规划引起了外界关注。 爆料称，在当前市场环境下，5G 基带及相关射频组件仍会增加整机成本，因此对于价格敏感型产品而言，推出仅支持 4G 网络的机型，可以为厂商节省部分硬件预算，并将成本投…",
-          "detail": "IT之家 7 月 16 日消息，Smartprix 今日援引消息人士的话称，一加计划在印度市场推出一款全新的 4G 智能手机。在 5G 手机已成为市场主流的背景下，这一产品规划引起了外界关注。 爆料称，在当前市场环境下，5G 基带及相关射频组件仍会增加整机成本，因此对于价格敏感型产品而言，推出仅支持 4G 网络的机型，可以为厂商节省部分硬件预算，并将成本投…",
+          "takeaway": "IT之家 7 月 16 日消息，科技媒体 YtechB 昨日（7 月 15 日）发布博文， 分享了一组渲染图，展示了小米 REDMI 17 4G ，该手机将作为 REDMI 15 继任者发售。 外观方面，消息称 REDMI 17 4G 手机尺寸为 170.12 mm X 78.42 mm X 8.8 mm，重量为 232 克。 颜色方面，本次曝光的渲染图展…",
+          "detail": "IT之家 7 月 16 日消息，科技媒体 YtechB 昨日（7 月 15 日）发布博文， 分享了一组渲染图，展示了小米 REDMI 17 4G ，该手机将作为 REDMI 15 继任者发售。 外观方面，消息称 REDMI 17 4G 手机尺寸为 170.12 mm X 78.42 mm X 8.8 mm，重量为 232 克。 颜色方面，本次曝光的渲染图展…",
           "keyPoints": [
-            "成本 / 价格",
+            "外观 / 配色 / 尺寸",
+            "电池 / 充电",
             "爆料来源"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "coolapk-user-9f97db75efe8",
+          "title": "竹本青：OPPO A系列／一加中端新机被曝搭载10000mAh电池",
+          "originalTitle": "",
+          "source": "竹本青",
+          "brand": "OPPO",
+          "type": "爆料",
+          "trust": "高可信爆料",
+          "date": "2026-07-16",
+          "time": "05:38",
+          "publishedAt": "2026-07-16T05:38:16.000Z",
+          "url": "https://www.coolapk.com/feed/72803987",
+          "image": "http://image.coolapk.com/feed/2026/0716/13/4248714_df12ee1e_0295_3946_899@1272x379.jpg",
+          "verdict": "先看",
+          "takeaway": "【OPPO A系列／一加中端新机被曝搭载10000mAh单电芯电池】 7月16日，博主数码闲聊站爆料称，OPPO A系列与一加SM8845 Pro（骁龙8 Gen6）中端新机均将搭载10000mAh单电芯电池。 该博主同时爆料，OPPO现阶段也在预研面向2027年新机的10000mAh++电池方案。 #今日热点# #ColorOS16# #OPPOA6Ma…",
+          "detail": "【OPPO A系列／一加中端新机被曝搭载10000mAh单电芯电池】 7月16日，博主数码闲聊站爆料称，OPPO A系列与一加SM8845 Pro（骁龙8 Gen6）中端新机均将搭载10000mAh单电芯电池。 该博主同时爆料，OPPO现阶段也在预研面向2027年新机的10000mAh++电池方案。 #今日热点# #ColorOS16# #OPPOA6Ma…",
+          "keyPoints": [
+            "外观 / 配色 / 尺寸",
+            "电池 / 充电",
+            "爆料来源"
+          ],
+          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "weibo-2d26f80c6886",
+          "title": "数码闲聊站：最近有人在问绿厂系的万级大电池，之前说过有一块单电芯10000mAh，大概率A…",
+          "originalTitle": "",
+          "source": "数码闲聊站",
+          "brand": "行业",
+          "type": "爆料",
+          "trust": "高关注爆料源",
+          "date": "2026-07-16",
+          "time": "05:36",
+          "publishedAt": "2026-07-16T05:36:11.000Z",
+          "url": "https://weibo.com/6048569942/R8W6ju1nw",
+          "image": "",
+          "verdict": "先看",
+          "takeaway": "最近有人在问绿厂系的万级大电池，之前说过有一块单电芯10000mAh，大概率A系列新机先行，加加后面也有一个SM8845 Pro中端新机测试中，明年会有10000mAh++方案，预研中[偷乐][NO]",
+          "detail": "最近有人在问绿厂系的万级大电池，之前说过有一块单电芯10000mAh，大概率A系列新机先行，加加后面也有一个SM8845 Pro中端新机测试中，明年会有10000mAh++方案，预研中[偷乐][NO]",
+          "keyPoints": [
+            "电池 / 充电",
+            "爆料来源"
+          ],
+          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "weibo-59acc0c7cbf4",
+          "title": "数码闲聊站：努比亚NaviX Ultra，第二代豆包手机，这设计感受一下：",
+          "originalTitle": "",
+          "source": "数码闲聊站",
+          "brand": "行业",
+          "type": "爆料",
+          "trust": "高关注爆料源",
+          "date": "2026-07-16",
+          "time": "03:48",
+          "publishedAt": "2026-07-16T03:48:00.000Z",
+          "url": "https://weibo.com/6048569942/R8VopctrO",
+          "image": "https://tvax2.sinaimg.cn/mw2000/006BlblIgy1if5nvlntg0j33h02dy7ta.jpg",
+          "verdict": "先看",
+          "takeaway": "努比亚NaviX Ultra，第二代豆包手机，这设计感受一下：",
+          "detail": "努比亚NaviX Ultra，第二代豆包手机，这设计感受一下：",
+          "keyPoints": [
+            "爆料来源"
+          ],
+          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
@@ -92,7 +188,7 @@ window.phoneRadarDaily = {
         },
         {
           "id": "coolapk-user-fa8d2a19cad5",
-          "title": "JSCHEN小小狐：『华为 Pura 100 开屏测试：或升级双层 OLED』 ◇ 6.6 英寸 / 6.9 英寸双尺寸 ◇ 1.5K…",
+          "title": "JSCHEN小小狐：华为 Pura 100 开屏测试：或升级双层 OLED",
           "originalTitle": "",
           "source": "JSCHEN小小狐",
           "brand": "Huawei",
@@ -111,100 +207,6 @@ window.phoneRadarDaily = {
             "屏幕形态"
           ],
           "confidence": "可信度较高，但仍属于发布前线索。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "auto-db8774f9cafe",
-          "title": "Pixel 相关消息",
-          "originalTitle": "",
-          "source": "Android Authority",
-          "brand": "Pixel",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-07-15",
-          "time": "18:49",
-          "publishedAt": "2026-07-15T18:49:03.000Z",
-          "url": "https://www.androidauthority.com/google-pixel-10-pro-xl-problems-3687892/",
-          "image": "",
-          "verdict": "先看",
-          "takeaway": "Pixel 相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
-          "detail": "Pixel 相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "auto-380e8aac29a3",
-          "title": "Pixel 11 影像能力相关消息",
-          "originalTitle": "",
-          "source": "The Verge",
-          "brand": "Pixel",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-07-15",
-          "time": "18:38",
-          "publishedAt": "2026-07-15T18:38:08.000Z",
-          "url": "https://www.theverge.com/tech/966120/google-pixel-11-camera-bar-teaser",
-          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Screenshot-2026-07-15-at-11.36.30-AM.png?quality=90&strip=all&crop=0,0,100,100",
-          "verdict": "先看",
-          "takeaway": "Pixel 影像能力相关宣传或案例，主要看是否透露拍摄能力变化。",
-          "detail": "Pixel 11 影像能力相关消息。重点看影像功能是否和新机硬件有关，如果只是拍摄案例或营销内容，参考价值会低一些。",
-          "keyPoints": [
-            "影像硬件"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "auto-7d55eb059599",
-          "title": "Samsung 折叠屏相关消息",
-          "originalTitle": "",
-          "source": "9to5Google",
-          "brand": "Samsung",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-07-15",
-          "time": "14:30",
-          "publishedAt": "2026-07-15T14:30:00.000Z",
-          "url": "https://9to5google.com/2026/07/15/samsung-galaxy-z-fold-8-specs-leak-2/",
-          "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/07/galaxy-fold-8-family-leak-ah-2-1.webp?w=1600",
-          "verdict": "先看",
-          "takeaway": "Samsung 折叠屏相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
-          "detail": "Samsung 折叠屏相关消息。重点看折痕、铰链、厚度、屏幕可靠性和重量是否有实质改善。",
-          "keyPoints": [
-            "爆料来源"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "auto-f9ccd7034b5f",
-          "title": "Xiaomi 影像能力相关消息",
-          "originalTitle": "",
-          "source": "Gizmochina",
-          "brand": "Xiaomi",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-07-15",
-          "time": "14:03",
-          "publishedAt": "2026-07-15T14:03:50.000Z",
-          "url": "https://www.gizmochina.com/2026/07/15/fresh-redmi-k100-pro-reiterates-specs-that-have-been-revealed-before/",
-          "image": "https://www.gizmochina.com/wp-content/uploads/2025/10/REDMI-K90-Pro-Max-Review_1.mp4_20251031_111302.098-300x150.jpg?x44794",
-          "verdict": "先看",
-          "takeaway": "Xiaomi 影像能力相关宣传或案例，主要看是否透露拍摄能力变化。",
-          "detail": "Xiaomi 影像能力相关消息。重点看影像功能是否和新机硬件有关，如果只是拍摄案例或营销内容，参考价值会低一些。",
-          "keyPoints": [
-            "影像硬件",
-            "电池 / 充电",
-            "爆料来源"
-          ],
-          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         }
@@ -237,98 +239,6 @@ window.phoneRadarDaily = {
           "confidence": "官方内容，可直接作为已确认信息记录。",
           "impact": "可信度高，但如果不是配置/价格消息，只需要扫一眼。",
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
-        {
-          "id": "newsnow-5f386bde8816",
-          "title": "我的出行好伙伴，用 iPhone 一站式解决旅途痛点",
-          "originalTitle": "",
-          "source": "少数派热榜",
-          "brand": "iPhone",
-          "type": "评测",
-          "trust": "媒体汇总",
-          "date": "2026-07-16",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://sspai.com/post/112044",
-          "image": "",
-          "verdict": "扫一眼",
-          "takeaway": "我的出行好伙伴，用 iPhone 一站式解决旅途痛点",
-          "detail": "我的出行好伙伴，用 iPhone 一站式解决旅途痛点",
-          "keyPoints": [
-            "评测"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是实际体验内容，买前适合重点看缺点和取舍。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
-        {
-          "id": "newsnow-5b0a371dc7b3",
-          "title": "iPhone Air 当主力机用了三个多月后，我为什么还是换不掉它",
-          "originalTitle": "",
-          "source": "少数派热榜",
-          "brand": "iPhone",
-          "type": "评测",
-          "trust": "媒体汇总",
-          "date": "2026-07-16",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://sspai.com/post/111113",
-          "image": "",
-          "verdict": "扫一眼",
-          "takeaway": "iPhone Air 当主力机用了三个多月后，我为什么还是换不掉它",
-          "detail": "iPhone Air 当主力机用了三个多月后，我为什么还是换不掉它",
-          "keyPoints": [
-            "评测"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是实际体验内容，买前适合重点看缺点和取舍。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
-        {
-          "id": "newsnow-7d5f9b121e2b",
-          "title": "快捷指令｜让 iPhone 用上锤子的「大爆炸」",
-          "originalTitle": "",
-          "source": "少数派热榜",
-          "brand": "iPhone",
-          "type": "评测",
-          "trust": "媒体汇总",
-          "date": "2026-07-16",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://sspai.com/post/111405",
-          "image": "",
-          "verdict": "扫一眼",
-          "takeaway": "快捷指令｜让 iPhone 用上锤子的「大爆炸」",
-          "detail": "快捷指令｜让 iPhone 用上锤子的「大爆炸」",
-          "keyPoints": [
-            "评测"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是实际体验内容，买前适合重点看缺点和取舍。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
-        {
-          "id": "newsnow-fa4bf88017b5",
-          "title": "中国用户终于迎来满血iPhone",
-          "originalTitle": "",
-          "source": "微博热搜",
-          "brand": "iPhone",
-          "type": "爆料",
-          "trust": "待验证",
-          "date": "2026-07-16",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%94%A8%E6%88%B7%E7%BB%88%E4%BA%8E%E8%BF%8E%E6%9D%A5%E6%BB%A1%E8%A1%80iPhone%23&t=31&band_rank=25&Refer=top",
-          "image": "",
-          "verdict": "扫一眼",
-          "takeaway": "中国用户终于迎来满血iPhone",
-          "detail": "中国用户终于迎来满血iPhone",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         }
       ]
     },
@@ -337,6 +247,52 @@ window.phoneRadarDaily = {
       "title": "新机与官方发布",
       "hint": "能直接更新到参数库。",
       "items": [
+        {
+          "id": "coolapk-user-401df838076a",
+          "title": "竹本青：小米发布具身基座模型 Xiaomi-Robotics-1：10万小时训出“开箱即用”",
+          "originalTitle": "",
+          "source": "竹本青",
+          "brand": "Xiaomi",
+          "type": "爆料",
+          "trust": "高可信爆料",
+          "date": "2026-07-16",
+          "time": "05:55",
+          "publishedAt": "2026-07-16T05:55:43.000Z",
+          "url": "https://www.coolapk.com/feed/72804160",
+          "image": "http://image.coolapk.com/feed/2026/0716/13/4248714_caf257e0_1338_9477_484@1080x596.jpg",
+          "verdict": "扫一眼",
+          "takeaway": "【小米发布具身基座模型 Xiaomi-Robotics-1：10万小时训出“开箱即用”】 7月16日，小米发布 Xiaomi-Robotics-1，一个面向真实移动操作任务的具身基座模型。 据介绍，模型基于 10万 小时真实世界数据进行预训练，并结合跨本体数据完成后训练，在未见环境真实机器人任务中展现稳定的规模化收益、在复杂新任务适配和多个仿真基准中展现出…",
+          "detail": "【小米发布具身基座模型 Xiaomi-Robotics-1：10万小时训出“开箱即用”】 7月16日，小米发布 Xiaomi-Robotics-1，一个面向真实移动操作任务的具身基座模型。 据介绍，模型基于 10万 小时真实世界数据进行预训练，并结合跨本体数据完成后训练，在未见环境真实机器人任务中展现稳定的规模化收益、在复杂新任务适配和多个仿真基准中展现出…",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "可信度较高，但仍属于发布前线索。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        },
+        {
+          "id": "auto-f65d75b0886a",
+          "title": "OPPO 发布 / 上市相关消息",
+          "originalTitle": "",
+          "source": "Gizmochina",
+          "brand": "OPPO",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-07-16",
+          "time": "05:49",
+          "publishedAt": "2026-07-16T05:49:18.000Z",
+          "url": "https://www.gizmochina.com/2026/07/16/oneplus-n6x-launching-soon-in-india-with-familiar-specs/",
+          "image": "https://www.gizmochina.com/wp-content/uploads/2026/07/oneplus-n6x-teaser-300x169.jpg?x29014",
+          "verdict": "可略过",
+          "takeaway": "OPPO 有发布或新功能消息，适合确认是否和新机有关。",
+          "detail": "OPPO 发布 / 上市相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        },
         {
           "id": "auto-1cfc10a14631",
           "title": "Pixel 11 对比 Pixel 10：差异整理",
@@ -359,6 +315,29 @@ window.phoneRadarDaily = {
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是实际体验内容，买前适合重点看缺点和取舍。",
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        },
+        {
+          "id": "auto-ac9868d8809d",
+          "title": "Huawei 相关消息",
+          "originalTitle": "",
+          "source": "Huawei Central",
+          "brand": "Huawei",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-07-15",
+          "time": "08:57",
+          "publishedAt": "2026-07-15T08:57:25.000Z",
+          "url": "https://www.huaweicentral.com/huawei-pura-90s-5g-series-soon-making-its-way-to-south-africa/",
+          "image": "https://www.huaweicentral.com/wp-content/uploads/2026/07/Pura90s-Pro-Max-img.jpg",
+          "verdict": "可略过",
+          "takeaway": "Huawei 相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
+          "detail": "Huawei 相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         }
       ]
     },
@@ -367,98 +346,6 @@ window.phoneRadarDaily = {
       "title": "行业趋势",
       "hint": "看方向，不急着当购买依据。",
       "items": [
-        {
-          "id": "newsnow-f7af603bf980",
-          "title": "其实按道理来说，小米手机的产品力并不差，品牌流量也足够。那是因为什么原因导致销量后劲不足呢？",
-          "originalTitle": "",
-          "source": "酷安热榜",
-          "brand": "Xiaomi",
-          "type": "爆料",
-          "trust": "高关注爆料源",
-          "date": "2026-07-16",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://www.coolapk.com/feed/72780732",
-          "image": "",
-          "verdict": "先看",
-          "takeaway": "其实按道理来说，小米手机的产品力并不差，品牌流量也足够。那是因为什么原因导致销量后劲不足呢？",
-          "detail": "其实按道理来说，小米手机的产品力并不差，品牌流量也足够。那是因为什么原因导致销量后劲不足呢？",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
-        {
-          "id": "newsnow-bfa9bb2e0688",
-          "title": "实话说，看酷友 #REDMITurbo5Max# 12+256版本的入手价，基本都在1400左右，确实非常值得。",
-          "originalTitle": "",
-          "source": "酷安热榜",
-          "brand": "Xiaomi",
-          "type": "爆料",
-          "trust": "高关注爆料源",
-          "date": "2026-07-16",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://www.coolapk.com/feed/72791337",
-          "image": "",
-          "verdict": "扫一眼",
-          "takeaway": "实话说，看酷友 #REDMITurbo5Max# 12+256版本的入手价，基本都在1400左右，确实非常值得。",
-          "detail": "实话说，看酷友 #REDMITurbo5Max# 12+256版本的入手价，基本都在1400左右，确实非常值得。",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
-        {
-          "id": "newsnow-91c7cd690e09",
-          "title": "不是这对吗？左边15右边NEO5 这差距这么大？#iQOONeo5#",
-          "originalTitle": "",
-          "source": "酷安热榜",
-          "brand": "vivo",
-          "type": "爆料",
-          "trust": "高关注爆料源",
-          "date": "2026-07-16",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://www.coolapk.com/feed/72797100",
-          "image": "",
-          "verdict": "扫一眼",
-          "takeaway": "不是这对吗？左边15右边NEO5 这差距这么大？#iQOONeo5#",
-          "detail": "不是这对吗？左边15右边NEO5 这差距这么大？#iQOONeo5#",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
-        {
-          "id": "newsnow-14302613d9f6",
-          "title": "Apple智能等7款手机端侧生成式人工智能服务完成备案",
-          "originalTitle": "",
-          "source": "酷安热榜",
-          "brand": "行业",
-          "type": "爆料",
-          "trust": "高关注爆料源",
-          "date": "2026-07-16",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://www.coolapk.com/feed/72793104",
-          "image": "",
-          "verdict": "扫一眼",
-          "takeaway": "Apple智能等7款手机端侧生成式人工智能服务完成备案",
-          "detail": "Apple智能等7款手机端侧生成式人工智能服务完成备案",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
         {
           "id": "coolapk-user-17bf5f1d364c",
           "title": "JSCHEN小小狐：vivo X500 Ultra 主摄选型曝光：双方案测试",
@@ -498,6 +385,52 @@ window.phoneRadarDaily = {
           "verdict": "可略过",
           "takeaway": "Samsung 相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
           "detail": "Samsung 相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        },
+        {
+          "id": "auto-a94bc5fa054c",
+          "title": "Galaxy S24 功能更新或覆盖范围扩大",
+          "originalTitle": "",
+          "source": "SamMobile",
+          "brand": "Samsung",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-07-15",
+          "time": "11:23",
+          "publishedAt": "2026-07-15T11:23:22.000Z",
+          "url": "https://www.sammobile.com/news/samsung-updates-galaxy-s24-with-july-2026-security-patch/",
+          "image": "",
+          "verdict": "可略过",
+          "takeaway": "Galaxy S24 功能更新或覆盖范围扩大。已转成中文摘要展示，详细内容可打开原文核对。",
+          "detail": "Galaxy S24 功能更新或覆盖范围扩大。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        },
+        {
+          "id": "auto-fa7393f77519",
+          "title": "Pixel 11 Pro Fold 折叠屏相关消息",
+          "originalTitle": "",
+          "source": "Android Authority",
+          "brand": "Samsung",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-07-15",
+          "time": "09:00",
+          "publishedAt": "2026-07-15T09:00:40.000Z",
+          "url": "https://www.androidauthority.com/google-pixel-11-pro-fold-needs-these-upgrades-3687183/",
+          "image": "",
+          "verdict": "可略过",
+          "takeaway": "Pixel 11 Pro Fold 折叠屏相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
+          "detail": "Pixel 11 Pro Fold 折叠屏相关消息。重点看折痕、铰链、厚度、屏幕可靠性和重量是否有实质改善。",
           "keyPoints": [
             "爆料"
           ],
