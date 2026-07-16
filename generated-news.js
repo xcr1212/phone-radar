@@ -1,6 +1,46 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-07-16T21:15:01.485Z",
+  "updatedAt": "2026-07-16T23:09:48.412Z",
   "news": [
+    {
+      "id": "auto-241f97424811",
+      "title": "You can already buy the unreleased Galaxy Z Fold 8 Ultra, provided you have $13,000",
+      "source": "Android Central",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-07-16",
+      "time": "21:43",
+      "publishedAt": "2026-07-16T21:43:19.000Z",
+      "url": "https://www.androidcentral.com/phones/samsung-galaxy/you-can-already-buy-the-unreleased-galaxy-z-fold-8-ultra-provided-you-have-usd13-000",
+      "image": "https://cdn.mos.cms.futurecdn.net/7fR2xDCvNQBEr2ntv8YtqM-1280-80.jpg",
+      "summary": "Caviar's $13,130 Messi-themed Galaxy Z Fold 8 Ultra arrives before Samsung's July 22 reveal.",
+      "tags": [
+        "Samsung",
+        "评测",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-3a13c9e176d3",
+      "title": "Apple Closes Unlocked iPhone Loophole for T-Mobile and Verizon Financing",
+      "source": "MacRumors",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-16",
+      "time": "20:09",
+      "publishedAt": "2026-07-16T20:09:49.000Z",
+      "url": "https://www.macrumors.com/2026/07/15/apple-carrier-iphone-financing/",
+      "image": "https://images.macrumors.com/article-new/2025/11/iphone-17-cyber.jpg",
+      "summary": "Carrier-financed iPhones purchased from Apple will soon be locked to the carrier, ending a workaround customers used to purchase an unlocked iPhone on a payment plan. Until the ru…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-fba641590696",
       "title": "Samsung finally explains the Galaxy S26 Ultra's mysterious red screen problem",
@@ -17,26 +57,6 @@ window.phoneRadarAuto = {
       "summary": "There's a fix in the works",
       "tags": [
         "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-3a13c9e176d3",
-      "title": "Apple Closes Unlocked iPhone Loophole for T-Mobile and Verizon Financing",
-      "source": "MacRumors",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-16",
-      "time": "18:14",
-      "publishedAt": "2026-07-16T18:14:51.000Z",
-      "url": "https://www.macrumors.com/2026/07/15/apple-carrier-iphone-financing/",
-      "image": "https://images.macrumors.com/article-new/2025/11/iphone-17-cyber.jpg",
-      "summary": "Carrier-financed iPhones purchased from Apple will soon be locked to the carrier, ending a workaround customers used to purchase an unlocked iPhone on a payment plan. Until the ru…",
-      "tags": [
-        "iPhone",
         "爆料",
         "自动抓取"
       ]
@@ -402,46 +422,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-8a86427d0e5c",
-      "title": "荣耀 MagicOS 10 系统 7 月版本第二批机型今晚开推，覆盖 Magic7 系列等手机",
-      "source": "IT之家",
-      "brand": "HONOR",
-      "model": "HONOR 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-16",
-      "time": "11:35",
-      "publishedAt": "2026-07-16T11:35:46.000Z",
-      "url": "https://www.ithome.com/0/977/749.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/7/0418fae2-1734-4211-9cf6-84539ea27e91.jpg?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 7 月 16 日消息，据荣耀产品维护与升级 @荣耀小芳哥 今日分享，MagicOS 10 系统的 7 月版本今晚将开启第二批机型的升级推送（ 版本号为 10.0.0.170 ）。 荣耀 Magic V5、Magic7 RSR 保时捷设计、Magic7 Pro、Magic7、WIN、WIN RT、GT Pro、500 Pro MOLLY 20 周年…",
-      "tags": [
-        "HONOR",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-5b9bd03e046d",
-      "title": "Unihertz Titan 2 Elite 全键盘手机国行入网：圆润外形、4050mAh 电池",
-      "source": "IT之家",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-16",
-      "time": "11:25",
-      "publishedAt": "2026-07-16T11:25:00.000Z",
-      "url": "https://www.ithome.com/0/977/743.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/7/9309a93f-8392-4714-a63f-d6660565e4d1.jpg?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 7 月 16 日消息，Unihertz 旗下 Titan 2 Elite 全键盘手机现已通过电信设备进网许可，这表明该机国行即将上市，作为参考，Unihertz Titan 2 国行上市价格为 2899 元（现 3399 元）。 Unihertz Titan 2 Elite 整体采用圆润风格设计，类似 BlackBerry Bold。机身正面配备…",
-      "tags": [
-        "行业",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "weibo-fe4583248dae",
       "title": "数码闲聊站：尬聊一下，你们用过哪些真我realme的产品？ 我个人印象较深的：19年出道作…",
       "source": "数码闲聊站",
@@ -459,26 +439,6 @@ window.phoneRadarAuto = {
         "Samsung",
         "爆料",
         "微博"
-      ]
-    },
-    {
-      "id": "auto-7eb3d548110e",
-      "title": "蓝狐 BF00A 新机入网，预计为 Aura A1 4.7 英寸迷你手机",
-      "source": "IT之家",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-16",
-      "time": "11:17",
-      "publishedAt": "2026-07-16T11:17:34.000Z",
-      "url": "https://www.ithome.com/0/977/258.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/7/831da512-4d25-46e8-a325-ab19479ee1dc.png",
-      "summary": "IT之家 7 月 16 日消息，型号为 BF00A 的 BLUEFOX 蓝狐新机已通过电信设备进网许可，虽然官方未公布证件照，但结合公布的配置信息，预计该机为即将上市的“蓝狐 Aura A1”。 该机支持双卡双待，支持 voLTE 语音模式，配备额定容量为 3400mAh 的电池（不过官方此前预热该机搭载 3500mAh 电池），运行 android 操作…",
-      "tags": [
-        "行业",
-        "爆料",
-        "自动抓取"
       ]
     },
     {
@@ -962,7 +922,7 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-ab223f12e597",
+      "id": "newsnow-1f5e895b5b04",
       "title": "realme手机退出中国市场",
       "source": "微博热搜",
       "brand": "行业",
@@ -972,29 +932,9 @@ window.phoneRadarAuto = {
       "date": "2026-07-16",
       "time": "",
       "publishedAt": "",
-      "url": "https://s.weibo.com/weibo?q=%23realme%E6%89%8B%E6%9C%BA%E9%80%80%E5%87%BA%E4%B8%AD%E5%9B%BD%E5%B8%82%E5%9C%BA%23&t=31&band_rank=9&Refer=top",
+      "url": "https://s.weibo.com/weibo?q=%23realme%E6%89%8B%E6%9C%BA%E9%80%80%E5%87%BA%E4%B8%AD%E5%9B%BD%E5%B8%82%E5%9C%BA%23&t=31&band_rank=10&Refer=top",
       "image": "",
       "summary": "realme手机退出中国市场",
-      "tags": [
-        "行业",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-671c644ebc14",
-      "title": "花钱买地震预警？免费的就在你手机里",
-      "source": "百度热搜",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-16",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.baidu.com/s?wd=%E8%8A%B1%E9%92%B1%E4%B9%B0%E5%9C%B0%E9%9C%87%E9%A2%84%E8%AD%A6%EF%BC%9F%E5%85%8D%E8%B4%B9%E7%9A%84%E5%B0%B1%E5%9C%A8%E4%BD%A0%E6%89%8B%E6%9C%BA%E9%87%8C",
-      "image": "",
-      "summary": "花钱买地震预警？免费的就在你手机里",
       "tags": [
         "行业",
         "爆料",
