@@ -1,12 +1,12 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-07-16T14:21:30.855Z",
+  "updatedAt": "2026-07-16T17:39:43.553Z",
   "issueDate": "2026-07-16",
   "issue": "VOL.260716",
   "title": "手机情报日报",
-  "intro": "今日筛出 11 条重点，其中 8 条是重点爆料，包含 2 条 iPhone 相关、1 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 9 条重点，其中 8 条是重点爆料，包含 3 条 iPhone 相关、1 条官方确认、0 条参数线索。",
   "stats": {
-    "total": 11,
-    "iphone": 2,
+    "total": 9,
+    "iphone": 3,
     "leaks": 8,
     "official": 1,
     "specs": 0
@@ -18,25 +18,46 @@ window.phoneRadarDaily = {
       "hint": "机模、配色、影像、屏幕、电池和芯片线索先看。",
       "items": [
         {
-          "id": "auto-1d1c0d99eac6",
-          "title": "vivo 海外推出 T5 Lite 5G 手机：6500mAh 电池、天玑 6300 芯片",
+          "id": "auto-114e11d97709",
+          "title": "华为 Mate 80、Pura X 等系列手机适配支持 HUAWEI Tag 防丢精灵精准查找功能",
           "originalTitle": "",
           "source": "IT之家",
-          "brand": "vivo",
+          "brand": "Huawei",
           "type": "爆料",
           "trust": "媒体汇总",
           "date": "2026-07-16",
-          "time": "10:00",
-          "publishedAt": "2026-07-16T10:00:43.000Z",
-          "url": "https://www.ithome.com/0/977/700.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/7/965ec64b-5080-4f35-a21d-1abc318577a4.jpg?x-bce-process=image/format,f_auto",
+          "time": "14:23",
+          "publishedAt": "2026-07-16T14:23:02.000Z",
+          "url": "https://www.ithome.com/0/977/790.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/7/e1287e6f-0a3a-4ed8-93cd-9518b0661eb1.jpg?x-bce-process=image/format,f_auto",
           "verdict": "先看",
-          "takeaway": "IT之家 7 月 16 日消息，vivo 现已在海外推出 T5 Lite 5G 手机，该机搭载 6500mAh 电池和天玑 6300 芯片，定位入门市场。 该机提供两种配色可选，重量 209g，厚度 8.39mm，正面配备一块 6.74 英寸 HD+ 120Hz LCD 水滴屏面板（峰值亮度 1200 尼特），匹配 5Mp 自拍摄像头；手机背面采用 50M…",
-          "detail": "IT之家 7 月 16 日消息，vivo 现已在海外推出 T5 Lite 5G 手机，该机搭载 6500mAh 电池和天玑 6300 芯片，定位入门市场。 该机提供两种配色可选，重量 209g，厚度 8.39mm，正面配备一块 6.74 英寸 HD+ 120Hz LCD 水滴屏面板（峰值亮度 1200 尼特），匹配 5Mp 自拍摄像头；手机背面采用 50M…",
+          "takeaway": "IT之家 7 月 16 日消息，华为旗下首个防丢产品 HUAWEI Tag 防丢精灵发布于 2022 年 7 月，采用纯白配色和圆角设计，单个定价 99 元。 IT之家注意到， 华为 Mate 80、Pura X 等系列手机（已升级最新的 HarmonyOS 6.1 系统）完成了 HUAWEI Tag 防丢精灵精准查找功能的适配 ，当用户处于丢失的 Tag…",
+          "detail": "IT之家 7 月 16 日消息，华为旗下首个防丢产品 HUAWEI Tag 防丢精灵发布于 2022 年 7 月，采用纯白配色和圆角设计，单个定价 99 元。 IT之家注意到， 华为 Mate 80、Pura X 等系列手机（已升级最新的 HarmonyOS 6.1 系统）完成了 HUAWEI Tag 防丢精灵精准查找功能的适配 ，当用户处于丢失的 Tag…",
           "keyPoints": [
-            "外观 / 配色 / 尺寸",
-            "电池 / 充电",
-            "芯片 / 性能"
+            "外观 / 配色 / 尺寸"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "auto-6e6853ddec5e",
+          "title": "iPhone 折叠屏相关消息",
+          "originalTitle": "",
+          "source": "9to5Mac",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-07-16",
+          "time": "14:52",
+          "publishedAt": "2026-07-16T14:52:57.000Z",
+          "url": "https://9to5mac.com/2026/07/16/rumor-apple-increases-orders-for-key-component-ahead-of-foldable-iphone-launch/",
+          "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/iphone-ultra-concept-blue.jpg?quality=82&strip=all&w=1600",
+          "verdict": "先看",
+          "takeaway": "iPhone 有发布或新功能消息，适合确认是否和新机有关。",
+          "detail": "iPhone 折叠屏相关消息。重点看折痕、铰链、厚度、屏幕可靠性和重量是否有实质改善。",
+          "keyPoints": [
+            "爆料来源"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
@@ -51,8 +72,8 @@ window.phoneRadarDaily = {
           "type": "爆料",
           "trust": "媒体汇总",
           "date": "2026-07-16",
-          "time": "11:20",
-          "publishedAt": "2026-07-16T11:20:38.000Z",
+          "time": "14:39",
+          "publishedAt": "2026-07-16T14:39:37.000Z",
           "url": "https://www.macrumors.com/2026/07/15/apple-carrier-iphone-financing/",
           "image": "https://images.macrumors.com/article-new/2025/11/iphone-17-cyber.jpg",
           "verdict": "先看",
@@ -183,31 +204,6 @@ window.phoneRadarDaily = {
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "coolapk-user-c0d90858f2df",
-          "title": "竹本青：REDMI K100 Pro系列被曝提档发布：双尺寸屏幕",
-          "originalTitle": "",
-          "source": "竹本青",
-          "brand": "Xiaomi",
-          "type": "爆料",
-          "trust": "高可信爆料",
-          "date": "2026-07-16",
-          "time": "07:02",
-          "publishedAt": "2026-07-16T07:02:04.000Z",
-          "url": "https://www.coolapk.com/feed/72804903",
-          "image": "http://image.coolapk.com/feed/2026/0716/15/4248714_4088b3b9_5788_1821_579@1440x1618.jpg",
-          "verdict": "先看",
-          "takeaway": "【REDMI K100 Pro系列 被曝提档发布：双尺寸屏幕+偏全能定义】 Pro Max——大尺寸全能堆料机，最满配外围，保留备受好评的“花活儿”； Pro——中尺寸全能水桶机，核心能力全面继承Pro Max 。 7月16日，博主数码闲聊站爆料，REDMI K100系列正式确认加速提档，Pro双大杯先发，双尺寸屏幕方案，都是偏全能定义。 此前，该博主已爆…",
-          "detail": "【REDMI K100 Pro系列 被曝提档发布：双尺寸屏幕+偏全能定义】 Pro Max——大尺寸全能堆料机，最满配外围，保留备受好评的“花活儿”； Pro——中尺寸全能水桶机，核心能力全面继承Pro Max 。 7月16日，博主数码闲聊站爆料，REDMI K100系列正式确认加速提档，Pro双大杯先发，双尺寸屏幕方案，都是偏全能定义。 此前，该博主已爆…",
-          "keyPoints": [
-            "外观 / 配色 / 尺寸",
-            "屏幕形态",
-            "爆料来源"
-          ],
-          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         }
       ]
     },
@@ -237,66 +233,6 @@ window.phoneRadarDaily = {
           ],
           "confidence": "官方内容，可直接作为已确认信息记录。",
           "impact": "可信度高，但如果不是配置/价格消息，只需要扫一眼。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        }
-      ]
-    },
-    {
-      "id": "launch",
-      "title": "新机与官方发布",
-      "hint": "能直接更新到参数库。",
-      "items": [
-        {
-          "id": "auto-a2a6264392cc",
-          "title": "微信进一步规范停车服务小程序运营，严打违规获取手机号与广告误导等行为",
-          "originalTitle": "",
-          "source": "IT之家",
-          "brand": "行业",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-07-16",
-          "time": "13:09",
-          "publishedAt": "2026-07-16T13:09:09.000Z",
-          "url": "https://www.ithome.com/0/977/776.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/7/00ccfc19-625a-405d-a15a-616b7c849d91.png?x-bce-process=image/format,f_auto",
-          "verdict": "扫一眼",
-          "takeaway": "IT之家 7 月 16 日消息，微信公众平台运营中心今日发布《关于进一步规范停车服务类小程序运营的公告》，称近期平台发现部分停车服务类小程序在服务过程中存在不规范运营行为，包括违规获取用户手机号、广告误导或阻断核心服务。 IT之家附公告原文如下： 微信公众平台一直致力于为用户提供安全、便捷、可信赖的小程序服务体验。停车服务类小程序与用户日常出行密切相关，开…",
-          "detail": "IT之家 7 月 16 日消息，微信公众平台运营中心今日发布《关于进一步规范停车服务类小程序运营的公告》，称近期平台发现部分停车服务类小程序在服务过程中存在不规范运营行为，包括违规获取用户手机号、广告误导或阻断核心服务。 IT之家附公告原文如下： 微信公众平台一直致力于为用户提供安全、便捷、可信赖的小程序服务体验。停车服务类小程序与用户日常出行密切相关，开…",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "中文源可以直接点开快读；看完只保留和购机有关的点。"
-        }
-      ]
-    },
-    {
-      "id": "market",
-      "title": "行业趋势",
-      "hint": "看方向，不急着当购买依据。",
-      "items": [
-        {
-          "id": "newsnow-f7af603bf980",
-          "title": "其实按道理来说，小米手机的产品力并不差，品牌流量也足够。那是因为什么原因导致销量后劲不足呢？",
-          "originalTitle": "",
-          "source": "酷安热榜",
-          "brand": "Xiaomi",
-          "type": "爆料",
-          "trust": "高关注爆料源",
-          "date": "2026-07-16",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://www.coolapk.com/feed/72780732",
-          "image": "",
-          "verdict": "先看",
-          "takeaway": "其实按道理来说，小米手机的产品力并不差，品牌流量也足够。那是因为什么原因导致销量后劲不足呢？",
-          "detail": "其实按道理来说，小米手机的产品力并不差，品牌流量也足够。那是因为什么原因导致销量后劲不足呢？",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         }
       ]
