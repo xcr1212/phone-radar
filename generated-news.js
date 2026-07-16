@@ -1,6 +1,46 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-07-16T19:33:40.143Z",
+  "updatedAt": "2026-07-16T21:15:01.485Z",
   "news": [
+    {
+      "id": "auto-fba641590696",
+      "title": "Samsung finally explains the Galaxy S26 Ultra's mysterious red screen problem",
+      "source": "Android Police",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-16",
+      "time": "19:37",
+      "publishedAt": "2026-07-16T19:37:28.000Z",
+      "url": "https://www.androidpolice.com/samsung-galaxy-s26-ultra-red-screen-software-issue/",
+      "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2026/03/img_2969.jpg",
+      "summary": "There's a fix in the works",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-3a13c9e176d3",
+      "title": "Apple Closes Unlocked iPhone Loophole for T-Mobile and Verizon Financing",
+      "source": "MacRumors",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-16",
+      "time": "18:14",
+      "publishedAt": "2026-07-16T18:14:51.000Z",
+      "url": "https://www.macrumors.com/2026/07/15/apple-carrier-iphone-financing/",
+      "image": "https://images.macrumors.com/article-new/2025/11/iphone-17-cyber.jpg",
+      "summary": "Carrier-financed iPhones purchased from Apple will soon be locked to the carrier, ending a workaround customers used to purchase an unlocked iPhone on a payment plan. Until the ru…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-52593c90136d",
       "title": "Google Pixel 11 Pro XL vs. Samsung Galaxy S26 Ultra: Big style vs big features",
@@ -38,26 +78,6 @@ window.phoneRadarAuto = {
       "tags": [
         "Pixel",
         "评测",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-3a13c9e176d3",
-      "title": "Apple Closes Unlocked iPhone Loophole for T-Mobile and Verizon Financing",
-      "source": "MacRumors",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-16",
-      "time": "16:33",
-      "publishedAt": "2026-07-16T16:33:40.000Z",
-      "url": "https://www.macrumors.com/2026/07/15/apple-carrier-iphone-financing/",
-      "image": "https://images.macrumors.com/article-new/2025/11/iphone-17-cyber.jpg",
-      "summary": "Carrier-financed iPhones purchased from Apple will soon be locked to the carrier, ending a workaround customers used to purchase an unlocked iPhone on a payment plan. Until the ru…",
-      "tags": [
-        "iPhone",
-        "爆料",
         "自动抓取"
       ]
     },
