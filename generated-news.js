@@ -1,6 +1,426 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-07-16T10:20:36.568Z",
+  "updatedAt": "2026-07-16T14:21:30.855Z",
   "news": [
+    {
+      "id": "auto-4a61da2c33a0",
+      "title": "OnePlus's death is bad. Oppo's refusal to replace it is worse",
+      "source": "Android Police",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-16",
+      "time": "14:00",
+      "publishedAt": "2026-07-16T14:00:15.000Z",
+      "url": "https://www.androidpolice.com/oneplus-death-is-bad-oppo-refusal-to-replace-it-is-worse/",
+      "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2026/07/oneplus-15-oppo-find-n6-back.JPG",
+      "summary": "It's not even worth the effort",
+      "tags": [
+        "OPPO",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-57a0441064ae",
+      "title": "OnePlus officially gives up on the US and Europe",
+      "source": "The Verge",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-16",
+      "time": "13:46",
+      "publishedAt": "2026-07-16T13:46:47.000Z",
+      "url": "https://www.theverge.com/tech/966404/oneplus-oppo-us-europe-withdrawal-realme",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/258099_OnePlus_15_review_AJohnson_0005.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "summary": "OnePlus has confirmed what industry observers have long expected: it's quitting the US and European markets, and will no longer launch new products in either region. Parent compan…",
+      "tags": [
+        "OPPO",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-b67210ec7dc7",
+      "title": "OnePlus never had a chance in the US",
+      "source": "The Verge",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-16",
+      "time": "13:45",
+      "publishedAt": "2026-07-16T13:45:52.000Z",
+      "url": "https://www.theverge.com/tech/966274/oneplus-never-had-a-chance-in-the-us",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/oneplus-15-sand-storm-red-background.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "summary": "After an eight-year run, OnePlus announced today that it has exited the United States. It's bittersweet, as the brand has been on a comeback tour of sorts with its excellent OnePl…",
+      "tags": [
+        "OPPO",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-bf26a95ef272",
+      "title": "The best Google Pixel 10 deals of July 2026 — free phones, straight discounts, and more",
+      "source": "Android Central",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-07-16",
+      "time": "13:32",
+      "publishedAt": "2026-07-16T13:32:14.000Z",
+      "url": "https://www.androidcentral.com/phones/google-pixel/best-google-pixel-10-deals-2026",
+      "image": "https://cdn.mos.cms.futurecdn.net/U8SkPHytXzMKEFf7gU534g-1280-80.jpg",
+      "summary": "I've tracked down all of the best Google Pixel 10, Pixel 10 Pro, and Pixel 10 Pro XL deals from across the web so you don't have to go looking.",
+      "tags": [
+        "Pixel",
+        "评测",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-fa86f053afc8",
+      "title": "WhatsApp adds in-call controls for Voice Isolation and Wide Spectrum on iPhone",
+      "source": "9to5Mac",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-16",
+      "time": "13:26",
+      "publishedAt": "2026-07-16T13:26:05.000Z",
+      "url": "https://9to5mac.com/2026/07/16/whatsapp-adds-in-call-controls-for-voice-isolation-and-wide-spectrum-on-iphone/",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/11/whatsapp-ios-26.jpg?quality=82&strip=all&w=1600",
+      "summary": "WhatsApp is rolling out in-call settings that allow users to switch between the iPhone’s different Mic Modes. Here are the details.",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-e5a8ca6f7522",
+      "title": "Samsung’s Galaxy Z Flip 8 leaks a week before launch event",
+      "source": "The Verge",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-16",
+      "time": "13:23",
+      "publishedAt": "2026-07-16T13:23:50.000Z",
+      "url": "https://www.theverge.com/tech/966492/samsung-galaxy-z-flip-8-design-specs-leaked",
+      "image": "",
+      "summary": "Samsung's next flip phone might be tough to tell apart from last year's Galaxy Z Flip 7. As 9to5Google points out, leaked images and specs for the upcoming Galaxy Z Flip 8 shared…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-6bb057533cb7",
+      "title": "OnePlus officially shuts down in the US and Europe, but not India (yet)",
+      "source": "9to5Google",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-16",
+      "time": "13:15",
+      "publishedAt": "2026-07-16T13:15:00.000Z",
+      "url": "https://9to5google.com/2026/07/16/oneplus-us-europe-shut-down-official/",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2025/11/oneplus-15-review-06.jpg?quality=82&strip=all&w=1600",
+      "summary": "The end is here. OnePlus has officially announced that it is shutting down operations in the US and Europe and has detailed what’s happening next.",
+      "tags": [
+        "OPPO",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-a2a6264392cc",
+      "title": "微信进一步规范停车服务小程序运营，严打违规获取手机号与广告误导等行为",
+      "source": "IT之家",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-16",
+      "time": "13:09",
+      "publishedAt": "2026-07-16T13:09:09.000Z",
+      "url": "https://www.ithome.com/0/977/776.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/7/00ccfc19-625a-405d-a15a-616b7c849d91.png?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 7 月 16 日消息，微信公众平台运营中心今日发布《关于进一步规范停车服务类小程序运营的公告》，称近期平台发现部分停车服务类小程序在服务过程中存在不规范运营行为，包括违规获取用户手机号、广告误导或阻断核心服务。 IT之家附公告原文如下： 微信公众平台一直致力于为用户提供安全、便捷、可信赖的小程序服务体验。停车服务类小程序与用户日常出行密切相关，开…",
+      "tags": [
+        "行业",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-c84ef176938b",
+      "title": "Galaxy S26 Ultra’s red screen stain is a software issue, not OLED burn-in",
+      "source": "SamMobile",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-16",
+      "time": "13:04",
+      "publishedAt": "2026-07-16T13:04:58.000Z",
+      "url": "https://www.sammobile.com/news/galaxy-s26-ultra-oled-screen-red-stain-issue-software-not-burn-in/",
+      "image": "https://www.sammobile.com/wp-content/uploads/2026/07/Samsung-Galaxy-S26-Ultra-Display-Red-Tint-Issue.jpg",
+      "summary": "Earlier this week, we reported that some Galaxy S26 Ultra units displayed a rectangular red stain in the center of their screens. Users affected by the issue were worried that it…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-34c1e96c0eb2",
+      "title": "Goodbye Realme UI 8 and OxygenOS 17? Realme and OnePlus are moving to ColorOS 17",
+      "source": "Gizmochina",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-16",
+      "time": "12:39",
+      "publishedAt": "2026-07-16T12:39:22.000Z",
+      "url": "https://www.gizmochina.com/2026/07/16/realme-coloros-17-future-smartphones-oneplus-software-transition/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/07/ColorOS-17-AI-generated-iamge-300x200.jpg?x29014",
+      "summary": "Realme has officially confirmed a major software change for its smartphones in India. The company has revealed that upcoming devices will no longer ship with Realme UI, signalling…",
+      "tags": [
+        "OPPO",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-dcc3d3f3e6e7",
+      "title": "消息称 OPPO A 系列新机预计搭载 10000mAh 电池，一加测试中",
+      "source": "IT之家",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-16",
+      "time": "12:12",
+      "publishedAt": "2026-07-16T12:12:51.000Z",
+      "url": "https://www.ithome.com/0/977/756.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/7/bd7b8ba9-3fc1-4b25-8f93-e41fdc1f1a65.png?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 7 月 16 日消息，据博主 @数码闲聊站 今日爆料，OPPO 一块单电芯 10000mAh 电池大概率 A 系列新机先行，一加后面也有一个 SM8845 Pro 中端新机测试中， 明年会有 10000mAh++ 方案 ，预研中。 IT之家注意到，今年 6 月，该博主曾爆料某厂正评估 10000mAh 级大电池性能机，测试平台为 SM8845 P…",
+      "tags": [
+        "OPPO",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-f36046dac49c",
+      "title": "Galaxy Z Flip 8 leaks in full with almost no changes; still no Snapdragon [Gallery]",
+      "source": "9to5Google",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-16",
+      "time": "12:00",
+      "publishedAt": "2026-07-16T12:00:00.000Z",
+      "url": "https://9to5google.com/2026/07/16/samsung-galaxy-z-flip-8-specs-leak/",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/07/galaxy-z-flip-8-wf-1_f50d74.webp?w=1600",
+      "summary": "Alongside plenty of other Samsung leaks, a new report offers up the full details of the Galaxy Z Flip 8, and there’s a reason nobody is particularly excited about this one.",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-8a86427d0e5c",
+      "title": "荣耀 MagicOS 10 系统 7 月版本第二批机型今晚开推，覆盖 Magic7 系列等手机",
+      "source": "IT之家",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-16",
+      "time": "11:35",
+      "publishedAt": "2026-07-16T11:35:46.000Z",
+      "url": "https://www.ithome.com/0/977/749.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/7/0418fae2-1734-4211-9cf6-84539ea27e91.jpg?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 7 月 16 日消息，据荣耀产品维护与升级 @荣耀小芳哥 今日分享，MagicOS 10 系统的 7 月版本今晚将开启第二批机型的升级推送（ 版本号为 10.0.0.170 ）。 荣耀 Magic V5、Magic7 RSR 保时捷设计、Magic7 Pro、Magic7、WIN、WIN RT、GT Pro、500 Pro MOLLY 20 周年…",
+      "tags": [
+        "HONOR",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-5b9bd03e046d",
+      "title": "Unihertz Titan 2 Elite 全键盘手机国行入网：圆润外形、4050mAh 电池",
+      "source": "IT之家",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-16",
+      "time": "11:25",
+      "publishedAt": "2026-07-16T11:25:00.000Z",
+      "url": "https://www.ithome.com/0/977/743.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/7/9309a93f-8392-4714-a63f-d6660565e4d1.jpg?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 7 月 16 日消息，Unihertz 旗下 Titan 2 Elite 全键盘手机现已通过电信设备进网许可，这表明该机国行即将上市，作为参考，Unihertz Titan 2 国行上市价格为 2899 元（现 3399 元）。 Unihertz Titan 2 Elite 整体采用圆润风格设计，类似 BlackBerry Bold。机身正面配备…",
+      "tags": [
+        "行业",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-3a13c9e176d3",
+      "title": "Apple Closes Unlocked iPhone Loophole for T-Mobile and Verizon Financing",
+      "source": "MacRumors",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-16",
+      "time": "11:20",
+      "publishedAt": "2026-07-16T11:20:38.000Z",
+      "url": "https://www.macrumors.com/2026/07/15/apple-carrier-iphone-financing/",
+      "image": "https://images.macrumors.com/article-new/2025/11/iphone-17-cyber.jpg",
+      "summary": "Carrier-financed iPhones purchased from Apple will soon be locked to the carrier, ending a workaround customers used to purchase an unlocked iPhone on a payment plan. Until the ru…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-c5cc8bb76805",
+      "title": "Report: OnePlus to Pull Out of US and Europe",
+      "source": "MacRumors",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-16",
+      "time": "11:20",
+      "publishedAt": "2026-07-16T11:20:38.000Z",
+      "url": "https://www.macrumors.com/2026/07/15/report-oneplus-to-pull-out-of-us-and-europe/",
+      "image": "https://images.macrumors.com/article-new/2023/10/oneplus-open-2.jpg",
+      "summary": "OnePlus is exiting the U.S. and European smartphone markets as part of a broader restructuring at parent company Oppo, Bloomberg reports . OnePlus is a wholly-owned subsidiary of…",
+      "tags": [
+        "OPPO",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "weibo-fe4583248dae",
+      "title": "数码闲聊站：尬聊一下，你们用过哪些真我realme的产品？ 我个人印象较深的：19年出道作…",
+      "source": "数码闲聊站",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-07-16",
+      "time": "11:20",
+      "publishedAt": "2026-07-16T11:20:00.000Z",
+      "url": "https://weibo.com/6048569942/R8YlSdMCm",
+      "image": "https://tvax1.sinaimg.cn/mw2000/006BlblIgy1if610kxxf1j32dc23t7wh.jpg",
+      "summary": "尬聊一下，你们用过哪些真我realme的产品？ 我个人印象较深的：19年出道作realme X主打升降摄像头，21年GT2 Pro越级安排2K三星屏，23年GT5首发240W超级秒充(行业量产最快闪充)，25年GT8 Pro子系唯一2亿潜望长焦……[苦涩]",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "微博"
+      ]
+    },
+    {
+      "id": "auto-7eb3d548110e",
+      "title": "蓝狐 BF00A 新机入网，预计为 Aura A1 4.7 英寸迷你手机",
+      "source": "IT之家",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-16",
+      "time": "11:17",
+      "publishedAt": "2026-07-16T11:17:34.000Z",
+      "url": "https://www.ithome.com/0/977/258.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/7/831da512-4d25-46e8-a325-ab19479ee1dc.png",
+      "summary": "IT之家 7 月 16 日消息，型号为 BF00A 的 BLUEFOX 蓝狐新机已通过电信设备进网许可，虽然官方未公布证件照，但结合公布的配置信息，预计该机为即将上市的“蓝狐 Aura A1”。 该机支持双卡双待，支持 voLTE 语音模式，配备额定容量为 3400mAh 的电池（不过官方此前预热该机搭载 3500mAh 电池），运行 android 操作…",
+      "tags": [
+        "行业",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-47dfb6919bf1",
+      "title": "竹本青：vivo、小米、OPPO、荣耀共建“公平运行内存机制”",
+      "source": "竹本青",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-07-16",
+      "time": "10:49",
+      "publishedAt": "2026-07-16T10:49:34.000Z",
+      "url": "https://www.coolapk.com/feed/72807951",
+      "image": "http://image.coolapk.com/feed/2026/0716/18/4248714_bb8c9ca1_8971_8049_98@1080x5160.jpg",
+      "summary": "【提升安卓应用体验，vivo、小米、OPPO、荣耀共建“公平运行内存机制”】 7月16日，2026金标联盟开发者沙龙举行。金标联盟理事长成员（ vivo、小米、OPPO、荣耀）参与共建“公平运行内存机制”，共同提升安卓应用的整体体验与稳定性。 ● 统一标准：建立清晰的内存使用区间参考，让优化目标有据可依； ● 智能通知：在内存紧张时，系统会主动通知应用进行…",
+      "tags": [
+        "HONOR",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-b97b8edaa508",
+      "title": "Huawei Pura 100 Pro Max could be first Pura phone with dual-layer OLED",
+      "source": "Huawei Central",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-16",
+      "time": "10:42",
+      "publishedAt": "2026-07-16T10:42:06.000Z",
+      "url": "https://www.huaweicentral.com/huawei-pura-100-pro-max-dual-layer-oled/",
+      "image": "https://www.huaweicentral.com/wp-content/uploads/2026/07/Pura90ProMax.jpg",
+      "summary": "Huawei is working on the 2026 Mate flagship, but the Pura 100 Pro Max has already started making space in leaks for its top-of-the-line specifications and this time, a dual-layer…",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-49431d8788bb",
+      "title": "As a foldable fan, I’m worried the wide Galaxy Z Fold 8 will be a huge mistake",
+      "source": "Android Authority",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-16",
+      "time": "10:30",
+      "publishedAt": "2026-07-16T10:30:11.000Z",
+      "url": "https://www.androidauthority.com/im-worried-wide-galaxy-z-fold-8-huge-mistake-3686949/",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2025/07/samsung-galaxy-z-fold-7-open-on-table.jpg",
+      "summary": "The more I look at the Galaxy Z Fold 8 the less convinced I am.",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-1d1c0d99eac6",
       "title": "vivo 海外推出 T5 Lite 5G 手机：6500mAh 电池、天玑 6300 芯片",
@@ -37,26 +457,6 @@ window.phoneRadarAuto = {
       "summary": "Huawei has expanded its connected device ecosystem with the launch of the HUAWEI Pura 90s Series, HUAWEI FreeClip 2 S, and HUAWEI MatePad Air at its Flagship Product Global Launch…",
       "tags": [
         "Huawei",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-57a0441064ae",
-      "title": "OnePlus officially gives up on the US and Europe",
-      "source": "The Verge",
-      "brand": "OPPO",
-      "model": "OPPO 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-16",
-      "time": "09:44",
-      "publishedAt": "2026-07-16T09:44:08.000Z",
-      "url": "https://www.theverge.com/tech/966404/oneplus-oppo-us-europe-withdrawal-realme",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/258099_OnePlus_15_review_AJohnson_0005.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "summary": "OnePlus has confirmed what industry observers have long expected: it's quitting the US and European markets, and will no longer launch new products in either region. Parent compan…",
-      "tags": [
-        "OPPO",
         "爆料",
         "自动抓取"
       ]
@@ -183,7 +583,7 @@ window.phoneRadarAuto = {
     },
     {
       "id": "auto-5b326e68e4e4",
-      "title": "It's official: OnePlus exits the U.S. and Europe, kills OxygenOS - but there is a silver lining",
+      "title": "It's official: OnePlus exits the U.S. and Europe - but there is a silver lining",
       "source": "Android Central",
       "brand": "OPPO",
       "model": "OPPO 相关机型",
@@ -222,26 +622,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-245a3d7535c2",
-      "title": "消息称某厂 2nm 骁龙迭代超大杯主摄测试微云台，预计为 vivo X500 Ultra",
-      "source": "IT之家",
-      "brand": "vivo",
-      "model": "vivo 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-16",
-      "time": "07:55",
-      "publishedAt": "2026-07-16T07:55:00.000Z",
-      "url": "https://www.ithome.com/0/977/539.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/7/ef3b09e2-599e-4a5a-b049-bd9039bad00b.jpg",
-      "summary": "IT之家 7 月 16 日消息，博主 @数码闲聊站 今日曝光某厂 2nm 骁龙迭代超大杯主摄信息，据称 35mm 新主摄在测试双方案： 50Mp 1/1.28\" Lofic+ 光学防抖角度最大的微云台镜组 200Mp 1/1.12\" Lofic 结合该博主此前的爆料习惯，预计这款新机为 vivo X500 Ultra。值得一提的是， vivo 新一代旗舰预…",
-      "tags": [
-        "vivo",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-edd2c6d96bfc",
       "title": "Samsung’s next Galaxy Z Fold looks set to deliver all the right upgrades",
       "source": "Android Police",
@@ -257,26 +637,6 @@ window.phoneRadarAuto = {
       "summary": "Thinner, lighter, and longer-lasting",
       "tags": [
         "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-6fc7d3a245df",
-      "title": "消息称某厂子系迭代旗舰加速提档、Pro 双大杯先发，预计为小米 REDMI K100 系列",
-      "source": "IT之家",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-16",
-      "time": "07:29",
-      "publishedAt": "2026-07-16T07:29:22.000Z",
-      "url": "https://www.ithome.com/0/977/527.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/7/0dc6d39b-9d9f-4968-8880-bce0aa15ff8f.png?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 7 月 16 日消息，博主 @数码闲聊站 今日爆料称，某厂子系迭代旗舰加速提档，Pro 双大杯先发， 双尺寸屏幕方案 ，都是偏全能定义。 Pro Max—— 大尺寸全能堆料机，最满配外围，保留备受好评的花活儿 Pro—— 可能是行业唯二中尺寸全能水桶机，核心能力全面继承 Pro Max 结合该博主的爆料习惯，预计为小米 REDMI K100 Pr…",
-      "tags": [
-        "Xiaomi",
         "爆料",
         "自动抓取"
       ]
@@ -379,26 +739,6 @@ window.phoneRadarAuto = {
         "OPPO",
         "爆料",
         "自动抓取"
-      ]
-    },
-    {
-      "id": "coolapk-user-9f97db75efe8",
-      "title": "竹本青：OPPO A系列／一加中端新机被曝搭载10000mAh电池",
-      "source": "竹本青",
-      "brand": "OPPO",
-      "model": "OPPO 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-07-16",
-      "time": "05:38",
-      "publishedAt": "2026-07-16T05:38:16.000Z",
-      "url": "https://www.coolapk.com/feed/72803987",
-      "image": "http://image.coolapk.com/feed/2026/0716/13/4248714_df12ee1e_0295_3946_899@1272x379.jpg",
-      "summary": "【OPPO A系列／一加中端新机被曝搭载10000mAh单电芯电池】 7月16日，博主数码闲聊站爆料称，OPPO A系列与一加SM8845 Pro（骁龙8 Gen6）中端新机均将搭载10000mAh单电芯电池。 该博主同时爆料，OPPO现阶段也在预研面向2027年新机的10000mAh++电池方案。 #今日热点# #ColorOS16# #OPPOA6Ma…",
-      "tags": [
-        "OPPO",
-        "爆料",
-        "酷安博主"
       ]
     },
     {
@@ -622,29 +962,9 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-91c7cd690e09",
-      "title": "不是这对吗？左边15右边NEO5 这差距这么大？#iQOONeo5#",
-      "source": "酷安热榜",
-      "brand": "vivo",
-      "model": "vivo 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-07-16",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72797100",
-      "image": "",
-      "summary": "不是这对吗？左边15右边NEO5 这差距这么大？#iQOONeo5#",
-      "tags": [
-        "vivo",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-c0080ee13c31",
-      "title": "旧手机换盆原来亏了这么多",
-      "source": "抖音热点",
+      "id": "newsnow-13cbffb6927f",
+      "title": "realme手机退出中国市场",
+      "source": "微博热搜",
       "brand": "行业",
       "model": "智能手机市场",
       "type": "爆料",
@@ -652,53 +972,13 @@ window.phoneRadarAuto = {
       "date": "2026-07-16",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.douyin.com/hot/2573273",
+      "url": "https://s.weibo.com/weibo?q=%23realme%E6%89%8B%E6%9C%BA%E9%80%80%E5%87%BA%E4%B8%AD%E5%9B%BD%E5%B8%82%E5%9C%BA%23&t=31&band_rank=1&Refer=top",
       "image": "",
-      "summary": "旧手机换盆原来亏了这么多",
+      "summary": "realme手机退出中国市场",
       "tags": [
         "行业",
         "爆料",
         "NewsNow"
-      ]
-    },
-    {
-      "id": "auto-3a13c9e176d3",
-      "title": "Apple Closes Unlocked iPhone Loophole for T-Mobile and Verizon Financing",
-      "source": "MacRumors",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-15",
-      "time": "22:20",
-      "publishedAt": "2026-07-15T22:20:40.000Z",
-      "url": "https://www.macrumors.com/2026/07/15/apple-carrier-iphone-financing/",
-      "image": "https://images.macrumors.com/article-new/2025/11/iphone-17-cyber.jpg",
-      "summary": "Carrier-financed iPhones purchased from Apple will soon be locked to the carrier, ending a workaround customers used to purchase an unlocked iPhone on a payment plan. Until the ru…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-dc5cde54d248",
-      "title": "Google teases gold Pixel 11 with mysterious Pixel Glow in action",
-      "source": "Android Police",
-      "brand": "Pixel",
-      "model": "Pixel 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-15",
-      "time": "22:07",
-      "publishedAt": "2026-07-15T22:07:31.000Z",
-      "url": "https://www.androidpolice.com/google-teases-gold-pixel-11-with-mysterious-pixel-glow-in-action/",
-      "image": "",
-      "summary": "A glimpse before Made by Google",
-      "tags": [
-        "Pixel",
-        "爆料",
-        "自动抓取"
       ]
     },
     {
@@ -778,26 +1058,6 @@ window.phoneRadarAuto = {
       "tags": [
         "Pixel",
         "评测",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-56f96101feef",
-      "title": "Samsung's Flex Titanium is a direct response to Apple's iPhone Ultra threat",
-      "source": "Android Police",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-15",
-      "time": "18:05",
-      "publishedAt": "2026-07-15T18:05:23.000Z",
-      "url": "https://www.androidpolice.com/samsungs-flex-titanium-is-a-direct-response-to-apples-iphone-ultra-threat/",
-      "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2025/07/img_1277.jpg",
-      "summary": "Competition feeds innovation",
-      "tags": [
-        "Samsung",
-        "爆料",
         "自动抓取"
       ]
     },
@@ -895,26 +1155,6 @@ window.phoneRadarAuto = {
       "url": "https://9to5google.com/2026/07/15/oneplus-shutdown-report-details-realme-oppo/",
       "image": "https://9to5google.com/wp-content/uploads/sites/4/2025/07/OnePlus-13-design-2.jpg?quality=82&strip=all&w=1600",
       "summary": "If you had any doubts left regarding the end of OnePlus in Europe and the US, another report is stepping in with further confirmation, details on Oppo’s plans in these regions, an…",
-      "tags": [
-        "OPPO",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-c5cc8bb76805",
-      "title": "Report: OnePlus to Pull Out of US and Europe",
-      "source": "MacRumors",
-      "brand": "OPPO",
-      "model": "OPPO 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-15",
-      "time": "16:02",
-      "publishedAt": "2026-07-15T16:02:44.000Z",
-      "url": "https://www.macrumors.com/2026/07/15/report-oneplus-to-pull-out-of-us-and-europe/",
-      "image": "https://images.macrumors.com/article-new/2023/10/oneplus-open-2.jpg",
-      "summary": "OnePlus is exiting the U.S. and European smartphone markets as part of a broader restructuring at parent company Oppo, Bloomberg reports . OnePlus is a wholly-owned subsidiary of…",
       "tags": [
         "OPPO",
         "爆料",
@@ -1057,26 +1297,6 @@ window.phoneRadarAuto = {
       "summary": "Folks, it finally happened. Someone other than Google has finally put Qi2 magnets in an Android phone with Motorola’s new Edge 70 Max.",
       "tags": [
         "Pixel",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-4ccf0a748fad",
-      "title": "Here’s a possible launch date for Huawei Mate 90 series",
-      "source": "Huawei Central",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-15",
-      "time": "13:43",
-      "publishedAt": "2026-07-15T13:43:33.000Z",
-      "url": "https://www.huaweicentral.com/heres-a-possible-launch-date-for-huawei-mate-90-series/",
-      "image": "https://www.huaweicentral.com/wp-content/uploads/2026/06/Mate80-phon.jpg",
-      "summary": "Huawei Mate 90 series is expected to debut in September this year, and looks like we have got a possible launch date in this aspect. A new leak suggests when the flagship smartpho…",
-      "tags": [
-        "Huawei",
         "爆料",
         "自动抓取"
       ]
