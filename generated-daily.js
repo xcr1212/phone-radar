@@ -1,11 +1,11 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-07-16T17:39:43.553Z",
+  "updatedAt": "2026-07-16T19:33:40.143Z",
   "issueDate": "2026-07-16",
   "issue": "VOL.260716",
   "title": "手机情报日报",
-  "intro": "今日筛出 9 条重点，其中 8 条是重点爆料，包含 3 条 iPhone 相关、1 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 10 条重点，其中 8 条是重点爆料，包含 3 条 iPhone 相关、1 条官方确认、0 条参数线索。",
   "stats": {
-    "total": 9,
+    "total": 10,
     "iphone": 3,
     "leaks": 8,
     "official": 1,
@@ -41,6 +41,29 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
+          "id": "auto-3a13c9e176d3",
+          "title": "iPhone 相关消息",
+          "originalTitle": "",
+          "source": "MacRumors",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-07-16",
+          "time": "16:33",
+          "publishedAt": "2026-07-16T16:33:40.000Z",
+          "url": "https://www.macrumors.com/2026/07/15/apple-carrier-iphone-financing/",
+          "image": "https://images.macrumors.com/article-new/2025/11/iphone-17-cyber.jpg",
+          "verdict": "先看",
+          "takeaway": "iPhone 相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
+          "detail": "iPhone 相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
           "id": "auto-6e6853ddec5e",
           "title": "iPhone 折叠屏相关消息",
           "originalTitle": "",
@@ -58,29 +81,6 @@ window.phoneRadarDaily = {
           "detail": "iPhone 折叠屏相关消息。重点看折痕、铰链、厚度、屏幕可靠性和重量是否有实质改善。",
           "keyPoints": [
             "爆料来源"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "auto-3a13c9e176d3",
-          "title": "iPhone 相关消息",
-          "originalTitle": "",
-          "source": "MacRumors",
-          "brand": "iPhone",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-07-16",
-          "time": "14:39",
-          "publishedAt": "2026-07-16T14:39:37.000Z",
-          "url": "https://www.macrumors.com/2026/07/15/apple-carrier-iphone-financing/",
-          "image": "https://images.macrumors.com/article-new/2025/11/iphone-17-cyber.jpg",
-          "verdict": "先看",
-          "takeaway": "iPhone 相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
-          "detail": "iPhone 相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
-          "keyPoints": [
-            "爆料"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
@@ -233,6 +233,36 @@ window.phoneRadarDaily = {
           ],
           "confidence": "官方内容，可直接作为已确认信息记录。",
           "impact": "可信度高，但如果不是配置/价格消息，只需要扫一眼。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        }
+      ]
+    },
+    {
+      "id": "market",
+      "title": "行业趋势",
+      "hint": "看方向，不急着当购买依据。",
+      "items": [
+        {
+          "id": "newsnow-a089067c265d",
+          "title": "9020烫死了。刚下班拍了点赞👍云，然后等公交刷信息流，突然就全局掉帧，手机巨烫，然后为了快速降温立马关机2分钟，然后重启，因为在等公交特别着急，重启一直现HUAWEI标然后没反应，重启开机起码开了4分钟，我都感觉手机要虚焊了，什么情况啊#鸿蒙6# #华为Mate80ProMax# #华为Mate70Pro#",
+          "originalTitle": "",
+          "source": "酷安热榜",
+          "brand": "Huawei",
+          "type": "爆料",
+          "trust": "高关注爆料源",
+          "date": "2026-07-16",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://www.coolapk.com/feed/72807626",
+          "image": "",
+          "verdict": "先看",
+          "takeaway": "9020烫死了。刚下班拍了点赞👍云，然后等公交刷信息流，突然就全局掉帧，手机巨烫，然后为了快速降温立马关机2分钟，然后重启，因为在等公交特别着急，重启一直现HUAWEI标然后没反应，重启开机起码开了4分钟，我都感觉手机要虚焊了，什么情况啊#鸿蒙6# #华为Mate80ProMax# #华为Mate70Pro#",
+          "detail": "9020烫死了。刚下班拍了点赞👍云，然后等公交刷信息流，突然就全局掉帧，手机巨烫，然后为了快速降温立马关机2分钟，然后重启，因为在等公交特别着急，重启一直现HUAWEI标然后没反应，重启开机起码开了4分钟，我都感觉手机要虚焊了，什么情况啊#鸿蒙6# #华为Mate80ProMax# #华为Mate70Pro#",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         }
       ]

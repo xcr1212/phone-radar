@@ -1,5 +1,5 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-07-16T17:39:43.553Z",
+  "updatedAt": "2026-07-16T19:33:40.143Z",
   "news": [
     {
       "id": "auto-52593c90136d",
@@ -42,6 +42,26 @@ window.phoneRadarAuto = {
       ]
     },
     {
+      "id": "auto-3a13c9e176d3",
+      "title": "Apple Closes Unlocked iPhone Loophole for T-Mobile and Verizon Financing",
+      "source": "MacRumors",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-16",
+      "time": "16:33",
+      "publishedAt": "2026-07-16T16:33:40.000Z",
+      "url": "https://www.macrumors.com/2026/07/15/apple-carrier-iphone-financing/",
+      "image": "https://images.macrumors.com/article-new/2025/11/iphone-17-cyber.jpg",
+      "summary": "Carrier-financed iPhones purchased from Apple will soon be locked to the carrier, ending a workaround customers used to purchase an unlocked iPhone on a payment plan. Until the ru…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
       "id": "auto-4fa58da68bbd",
       "title": "Samsung’s got a software fix for that Galaxy S26 Ultra red screen problem",
       "source": "Android Authority",
@@ -77,26 +97,6 @@ window.phoneRadarAuto = {
       "summary": "Alongside the rare discount on the Google Pixel Flex Dual Port 67W USB-C Fast Charger, today’s 9to5Toys Lunch Break is headlined by the most affordable Pixel 10 unlocked up to $30…",
       "tags": [
         "Pixel",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-b67210ec7dc7",
-      "title": "OnePlus never had a chance in the US",
-      "source": "The Verge",
-      "brand": "OPPO",
-      "model": "OPPO 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-16",
-      "time": "15:29",
-      "publishedAt": "2026-07-16T15:29:40.000Z",
-      "url": "https://www.theverge.com/tech/966274/oneplus-never-had-a-chance-in-the-us",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/oneplus-15-sand-storm-red-background.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "summary": "Twelve years after the launch of the OnePlus One, OnePlus announced today that it has exited the United States. It's bittersweet, as the brand has been on a comeback tour of sorts…",
-      "tags": [
-        "OPPO",
         "爆料",
         "自动抓取"
       ]
@@ -158,46 +158,6 @@ window.phoneRadarAuto = {
       "tags": [
         "Samsung",
         "评测",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-3a13c9e176d3",
-      "title": "Apple Closes Unlocked iPhone Loophole for T-Mobile and Verizon Financing",
-      "source": "MacRumors",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-16",
-      "time": "14:39",
-      "publishedAt": "2026-07-16T14:39:37.000Z",
-      "url": "https://www.macrumors.com/2026/07/15/apple-carrier-iphone-financing/",
-      "image": "https://images.macrumors.com/article-new/2025/11/iphone-17-cyber.jpg",
-      "summary": "Carrier-financed iPhones purchased from Apple will soon be locked to the carrier, ending a workaround customers used to purchase an unlocked iPhone on a payment plan. Until the ru…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-c5cc8bb76805",
-      "title": "Report: OnePlus to Pull Out of US and Europe",
-      "source": "MacRumors",
-      "brand": "OPPO",
-      "model": "OPPO 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-16",
-      "time": "14:39",
-      "publishedAt": "2026-07-16T14:39:37.000Z",
-      "url": "https://www.macrumors.com/2026/07/15/report-oneplus-to-pull-out-of-us-and-europe/",
-      "image": "https://images.macrumors.com/article-new/2023/10/oneplus-open-2.jpg",
-      "summary": "OnePlus is exiting the U.S. and European smartphone markets as part of a broader restructuring at parent company Oppo, Bloomberg reports . OnePlus is a wholly-owned subsidiary of…",
-      "tags": [
-        "OPPO",
-        "爆料",
         "自动抓取"
       ]
     },
@@ -297,26 +257,6 @@ window.phoneRadarAuto = {
       "summary": "WhatsApp is rolling out in-call settings that allow users to switch between the iPhone’s different Mic Modes. Here are the details.",
       "tags": [
         "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-e5a8ca6f7522",
-      "title": "Samsung’s Galaxy Z Flip 8 leaks a week before launch event",
-      "source": "The Verge",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-16",
-      "time": "13:23",
-      "publishedAt": "2026-07-16T13:23:50.000Z",
-      "url": "https://www.theverge.com/tech/966492/samsung-galaxy-z-flip-8-design-specs-leaked",
-      "image": "",
-      "summary": "Samsung's next flip phone might be tough to tell apart from last year's Galaxy Z Flip 7. As 9to5Google points out, leaked images and specs for the upcoming Galaxy Z Flip 8 shared…",
-      "tags": [
-        "Samsung",
         "爆料",
         "自动抓取"
       ]
@@ -519,26 +459,6 @@ window.phoneRadarAuto = {
         "行业",
         "爆料",
         "自动抓取"
-      ]
-    },
-    {
-      "id": "coolapk-user-47dfb6919bf1",
-      "title": "竹本青：vivo、小米、OPPO、荣耀共建“公平运行内存机制”",
-      "source": "竹本青",
-      "brand": "HONOR",
-      "model": "HONOR 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-07-16",
-      "time": "10:49",
-      "publishedAt": "2026-07-16T10:49:34.000Z",
-      "url": "https://www.coolapk.com/feed/72807951",
-      "image": "http://image.coolapk.com/feed/2026/0716/18/4248714_bb8c9ca1_8971_8049_98@1080x5160.jpg",
-      "summary": "【提升安卓应用体验，vivo、小米、OPPO、荣耀共建“公平运行内存机制”】 7月16日，2026金标联盟开发者沙龙举行。金标联盟理事长成员（ vivo、小米、OPPO、荣耀）参与共建“公平运行内存机制”，共同提升安卓应用的整体体验与稳定性。 ● 统一标准：建立清晰的内存使用区间参考，让优化目标有据可依； ● 智能通知：在内存紧张时，系统会主动通知应用进行…",
-      "tags": [
-        "HONOR",
-        "爆料",
-        "酷安博主"
       ]
     },
     {
@@ -1002,47 +922,27 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-bfa9bb2e0688",
-      "title": "实话说，看酷友 #REDMITurbo5Max# 12+256版本的入手价，基本都在1400左右，确实非常值得。",
+      "id": "newsnow-a089067c265d",
+      "title": "9020烫死了。刚下班拍了点赞👍云，然后等公交刷信息流，突然就全局掉帧，手机巨烫，然后为了快速降温立马关机2分钟，然后重启，因为在等公交特别着急，重启一直现HUAWEI标然后没反应，重启开机起码开了4分钟，我都感觉手机要虚焊了，什么情况啊#鸿蒙6# #华为Mate80ProMax# #华为Mate70Pro#",
       "source": "酷安热榜",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-07-16",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72791337",
+      "url": "https://www.coolapk.com/feed/72807626",
       "image": "",
-      "summary": "实话说，看酷友 #REDMITurbo5Max# 12+256版本的入手价，基本都在1400左右，确实非常值得。",
+      "summary": "9020烫死了。刚下班拍了点赞👍云，然后等公交刷信息流，突然就全局掉帧，手机巨烫，然后为了快速降温立马关机2分钟，然后重启，因为在等公交特别着急，重启一直现HUAWEI标然后没反应，重启开机起码开了4分钟，我都感觉手机要虚焊了，什么情况啊#鸿蒙6# #华为Mate80ProMax# #华为Mate70Pro#",
       "tags": [
-        "Xiaomi",
+        "Huawei",
         "爆料",
         "NewsNow"
       ]
     },
     {
-      "id": "newsnow-f7af603bf980",
-      "title": "其实按道理来说，小米手机的产品力并不差，品牌流量也足够。那是因为什么原因导致销量后劲不足呢？",
-      "source": "酷安热榜",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-07-16",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72780732",
-      "image": "",
-      "summary": "其实按道理来说，小米手机的产品力并不差，品牌流量也足够。那是因为什么原因导致销量后劲不足呢？",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-619ae21d0a19",
+      "id": "newsnow-ab223f12e597",
       "title": "realme手机退出中国市场",
       "source": "微博热搜",
       "brand": "行业",
@@ -1052,9 +952,29 @@ window.phoneRadarAuto = {
       "date": "2026-07-16",
       "time": "",
       "publishedAt": "",
-      "url": "https://s.weibo.com/weibo?q=%23realme%E6%89%8B%E6%9C%BA%E9%80%80%E5%87%BA%E4%B8%AD%E5%9B%BD%E5%B8%82%E5%9C%BA%23&t=31&band_rank=8&Refer=top",
+      "url": "https://s.weibo.com/weibo?q=%23realme%E6%89%8B%E6%9C%BA%E9%80%80%E5%87%BA%E4%B8%AD%E5%9B%BD%E5%B8%82%E5%9C%BA%23&t=31&band_rank=9&Refer=top",
       "image": "",
       "summary": "realme手机退出中国市场",
+      "tags": [
+        "行业",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-671c644ebc14",
+      "title": "花钱买地震预警？免费的就在你手机里",
+      "source": "百度热搜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-16",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.baidu.com/s?wd=%E8%8A%B1%E9%92%B1%E4%B9%B0%E5%9C%B0%E9%9C%87%E9%A2%84%E8%AD%A6%EF%BC%9F%E5%85%8D%E8%B4%B9%E7%9A%84%E5%B0%B1%E5%9C%A8%E4%BD%A0%E6%89%8B%E6%9C%BA%E9%87%8C",
+      "image": "",
+      "summary": "花钱买地震预警？免费的就在你手机里",
       "tags": [
         "行业",
         "爆料",
