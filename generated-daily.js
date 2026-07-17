@@ -1,11 +1,11 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-07-17T17:30:10.523Z",
+  "updatedAt": "2026-07-17T19:31:29.468Z",
   "issueDate": "2026-07-17",
   "issue": "VOL.260717",
   "title": "手机情报日报",
-  "intro": "今日筛出 13 条重点，其中 8 条是重点爆料，包含 4 条 iPhone 相关、0 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 9 条重点，其中 8 条是重点爆料，包含 4 条 iPhone 相关、0 条官方确认、0 条参数线索。",
   "stats": {
-    "total": 13,
+    "total": 9,
     "iphone": 4,
     "leaks": 8,
     "official": 0,
@@ -18,6 +18,52 @@ window.phoneRadarDaily = {
       "hint": "机模、配色、影像、屏幕、电池和芯片线索先看。",
       "items": [
         {
+          "id": "auto-ef87d0e6e739",
+          "title": "iPhone 相关消息",
+          "originalTitle": "",
+          "source": "MacRumors",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-07-17",
+          "time": "16:31",
+          "publishedAt": "2026-07-17T16:31:11.000Z",
+          "url": "https://www.macrumors.com/2026/07/17/apple-doj-antitrust-settlement/",
+          "image": "https://images.macrumors.com/article-new/2024/03/Apple-vs-DOJ-Feature.jpg",
+          "verdict": "先看",
+          "takeaway": "iPhone 相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
+          "detail": "iPhone 相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "auto-973d6bf46848",
+          "title": "iPhone 18 Pro 发布 / 上市相关消息",
+          "originalTitle": "",
+          "source": "MacRumors",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-07-17",
+          "time": "16:31",
+          "publishedAt": "2026-07-17T16:31:11.000Z",
+          "url": "https://www.macrumors.com/2026/07/17/iphone-18-pro-12-rumored-features/",
+          "image": "https://images.macrumors.com/article-new/2026/02/iPhone-18-Pro-Deep-Red-Feature.jpg",
+          "verdict": "先看",
+          "takeaway": "iPhone 有发布或新功能消息，适合确认是否和新机有关。",
+          "detail": "iPhone 18 Pro 发布 / 上市相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
           "id": "auto-b63d09b1185a",
           "title": "iPhone 系统功能 / AI 体验相关消息",
           "originalTitle": "",
@@ -26,8 +72,8 @@ window.phoneRadarDaily = {
           "type": "爆料",
           "trust": "媒体汇总",
           "date": "2026-07-17",
-          "time": "14:30",
-          "publishedAt": "2026-07-17T14:30:03.000Z",
+          "time": "16:31",
+          "publishedAt": "2026-07-17T16:31:11.000Z",
           "url": "https://www.macrumors.com/2026/07/17/iphone-loyalty-rate-climbs-to-87/",
           "image": "https://images.macrumors.com/article-new/2025/09/iphone-17-pro-silver.jpg",
           "verdict": "先看",
@@ -159,136 +205,6 @@ window.phoneRadarDaily = {
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "weibo-017cd3eec94a",
-          "title": "数码闲聊站：华为Pura X目前销量154W±，Pura X Max销量58W±，均超预期…",
-          "originalTitle": "",
-          "source": "数码闲聊站",
-          "brand": "Huawei",
-          "type": "爆料",
-          "trust": "高关注爆料源",
-          "date": "2026-07-17",
-          "time": "07:23",
-          "publishedAt": "2026-07-17T07:23:00.000Z",
-          "url": "https://weibo.com/6048569942/R96eavYVD",
-          "image": "https://tvax2.sinaimg.cn/mw2000/006BlblIgy1if6uhbezfvj32dc1kwwwn.jpg",
-          "verdict": "先看",
-          "takeaway": "华为Pura X目前销量154W±，Pura X Max销量58W±，均超预期，盲猜明年小阔折和大阔折都会迭代更新，对于超高端市场的收益巨大……[污]",
-          "detail": "华为Pura X目前销量154W±，Pura X Max销量58W±，均超预期，盲猜明年小阔折和大阔折都会迭代更新，对于超高端市场的收益巨大……[污]",
-          "keyPoints": [
-            "爆料来源"
-          ],
-          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "weibo-4a9f23cd5c92",
-          "title": "数码闲聊站：母系迭代新旗舰，目前摸到的工程机ID： 左上角方形Deco、左上角大圆Deco…",
-          "originalTitle": "",
-          "source": "数码闲聊站",
-          "brand": "行业",
-          "type": "爆料",
-          "trust": "高关注爆料源",
-          "date": "2026-07-17",
-          "time": "05:36",
-          "publishedAt": "2026-07-17T05:36:00.000Z",
-          "url": "https://weibo.com/6048569942/R95wJFEXd",
-          "image": "",
-          "verdict": "先看",
-          "takeaway": "母系迭代新旗舰，目前摸到的工程机ID： 左上角方形Deco、左上角大圆Deco、左上角小矩阵Deco、横向大矩阵背屏Deco、居中大圆Deco…… Tips：正面都是大R角直屏，部分系列有两种Deco设计",
-          "detail": "母系迭代新旗舰，目前摸到的工程机ID： 左上角方形Deco、左上角大圆Deco、左上角小矩阵Deco、横向大矩阵背屏Deco、居中大圆Deco…… Tips：正面都是大R角直屏，部分系列有两种Deco设计",
-          "keyPoints": [
-            "屏幕形态",
-            "爆料来源"
-          ],
-          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        }
-      ]
-    },
-    {
-      "id": "iphone",
-      "title": "iPhone 重点",
-      "hint": "不是硬件爆料，但和 iPhone 体验或路线有关。",
-      "items": [
-        {
-          "id": "auto-1b3ecb5a7839",
-          "title": "iPhone 相关消息",
-          "originalTitle": "",
-          "source": "9to5Mac",
-          "brand": "iPhone",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-07-17",
-          "time": "16:11",
-          "publishedAt": "2026-07-17T16:11:56.000Z",
-          "url": "https://9to5mac.com/2026/07/17/whatsapp-starts-activating-reserved-usernames-for-select-iphone-users/",
-          "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/11/whatsapp-02.jpg?quality=82&strip=all&w=1600",
-          "verdict": "扫一眼",
-          "takeaway": "iPhone 相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
-          "detail": "iPhone 相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
-        {
-          "id": "newsnow-25ec4c46c86b",
-          "title": "我的出行好伙伴，用 iPhone 一站式解决旅途痛点",
-          "originalTitle": "",
-          "source": "少数派热榜",
-          "brand": "iPhone",
-          "type": "评测",
-          "trust": "媒体汇总",
-          "date": "2026-07-17",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://sspai.com/post/112044",
-          "image": "",
-          "verdict": "扫一眼",
-          "takeaway": "我的出行好伙伴，用 iPhone 一站式解决旅途痛点",
-          "detail": "我的出行好伙伴，用 iPhone 一站式解决旅途痛点",
-          "keyPoints": [
-            "评测"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是实际体验内容，买前适合重点看缺点和取舍。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        }
-      ]
-    },
-    {
-      "id": "review",
-      "title": "评测与体验",
-      "hint": "买前再细看，平时扫一眼即可。",
-      "items": [
-        {
-          "id": "auto-2f36f80aba4b",
-          "title": "不听劝的阶跃闯进手机战场，造一台为人机共生的终端｜WAIC",
-          "originalTitle": "",
-          "source": "爱范儿",
-          "brand": "行业",
-          "type": "评测",
-          "trust": "媒体汇总",
-          "date": "2026-07-17",
-          "time": "11:31",
-          "publishedAt": "2026-07-17T11:31:43.000Z",
-          "url": "https://www.ifanr.com/1672281?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "image": "https://s3.ifanr.com/wp-content/uploads/2026/07/IMG20260717121624.jpg",
-          "verdict": "扫一眼",
-          "takeaway": "现在是最好的试错时机。",
-          "detail": "现在是最好的试错时机。",
-          "keyPoints": [
-            "评测"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是实际体验内容，买前适合重点看缺点和取舍。",
-          "action": "中文源可以直接点开快读；看完只保留和购机有关的点。"
         }
       ]
     },
@@ -298,8 +214,8 @@ window.phoneRadarDaily = {
       "hint": "看方向，不急着当购买依据。",
       "items": [
         {
-          "id": "newsnow-2a61510d5126",
-          "title": "谁不喜欢用手机的时候来个急头白脸的卡死呢，坐等害怕os4重构底层[喷] #HyperOS3#",
+          "id": "newsnow-7e06835e98ce",
+          "title": "小米 HyperOS3 最近更新了一个比较实用的功能：在任何页面下点击状态栏都会回到页面顶部位置，这个功能 OPPO 和其它家都也有，如今小米终于跟上了，这算是日常刷信息流下最实用的功能了，最初是 iPhone 上才有，虽然实现的原理我感觉还是 iPhone 上来得更优雅，安卓这边是模拟了手指滑动的轨迹，而苹果这边是直接跳转加了一个动画效果，期待小米进一步优化",
           "originalTitle": "",
           "source": "酷安热榜",
           "brand": "Xiaomi",
@@ -308,38 +224,15 @@ window.phoneRadarDaily = {
           "date": "2026-07-17",
           "time": "",
           "publishedAt": "",
-          "url": "https://www.coolapk.com/feed/72807401",
+          "url": "https://www.coolapk.com/feed/72813325",
           "image": "",
           "verdict": "先看",
-          "takeaway": "谁不喜欢用手机的时候来个急头白脸的卡死呢，坐等害怕os4重构底层[喷] #HyperOS3#",
-          "detail": "谁不喜欢用手机的时候来个急头白脸的卡死呢，坐等害怕os4重构底层[喷] #HyperOS3#",
+          "takeaway": "小米 HyperOS3 最近更新了一个比较实用的功能：在任何页面下点击状态栏都会回到页面顶部位置，这个功能 OPPO 和其它家都也有，如今小米终于跟上了，这算是日常刷信息流下最实用的功能了，最初是 iPhone 上才有，虽然实现的原理我感觉还是 iPhone 上来得更优雅，安卓这边是模拟了手指滑动的轨迹，而苹果这边是直接跳转加了一个动画效果，期待小米进一步…",
+          "detail": "小米 HyperOS3 最近更新了一个比较实用的功能：在任何页面下点击状态栏都会回到页面顶部位置，这个功能 OPPO 和其它家都也有，如今小米终于跟上了，这算是日常刷信息流下最实用的功能了，最初是 iPhone 上才有，虽然实现的原理我感觉还是 iPhone 上来得更优雅，安卓这边是模拟了手指滑动的轨迹，而苹果这边是直接跳转加了一个动画效果，期待小米进一步…",
           "keyPoints": [
             "爆料"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
-        {
-          "id": "coolapk-user-6f5b0bdc99cf",
-          "title": "JSCHEN小小狐：影石 Insta360 系列产品正式入驻荣耀门店",
-          "originalTitle": "",
-          "source": "JSCHEN小小狐",
-          "brand": "HONOR",
-          "type": "爆料",
-          "trust": "高可信爆料",
-          "date": "2026-07-17",
-          "time": "09:55",
-          "publishedAt": "2026-07-17T09:55:01.000Z",
-          "url": "https://www.coolapk.com/feed/72821735",
-          "image": "http://image.coolapk.com/feed/2026/0717/17/4702274_3e5a080b_2099_7528_712@1080x1920.jpg",
-          "verdict": "扫一眼",
-          "takeaway": "『影石 Insta360 系列产品正式入驻荣耀门店』 7 月 17 日，荣耀与影石 Insta360 共同宣布：即日起，影石旗舰系列产品正式入驻荣耀门店，首批 44 家门店将陆续上新影石产品。 首批入驻门店分布如下： ◇ 广东省：深圳市 14 家 ◇ 北京市：全市共 17 家 ◇ 河北省：石家庄市、沧州市、邢台市各 1 家 ◇ 上海市：全市共 4 家 ◇…",
-          "detail": "『影石 Insta360 系列产品正式入驻荣耀门店』 7 月 17 日，荣耀与影石 Insta360 共同宣布：即日起，影石旗舰系列产品正式入驻荣耀门店，首批 44 家门店将陆续上新影石产品。 首批入驻门店分布如下： ◇ 广东省：深圳市 14 家 ◇ 北京市：全市共 17 家 ◇ 河北省：石家庄市、沧州市、邢台市各 1 家 ◇ 上海市：全市共 4 家 ◇…",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "可信度较高，但仍属于发布前线索。",
           "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         }

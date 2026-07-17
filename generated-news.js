@@ -1,6 +1,206 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-07-17T17:30:10.523Z",
+  "updatedAt": "2026-07-17T19:31:29.468Z",
   "news": [
+    {
+      "id": "auto-9474716d70e2",
+      "title": "Galaxy Z Fold 8 Ultra, Fold 8, and Flip 8 images and specs leak ahead of Galaxy Unpacked",
+      "source": "Android Police",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-17",
+      "time": "19:26",
+      "publishedAt": "2026-07-17T19:26:50.000Z",
+      "url": "https://www.androidpolice.com/galaxy-unpacked-leak-reveals-galaxy-z-fold-8-ultra-fold-8-and-flip-8-images-and-specs/",
+      "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2026/07/samsung-galaxy-8-leak.jpg",
+      "summary": "Just a week to go",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-103e7be90c68",
+      "title": "Google Pixel 11a key specs might have just leaked",
+      "source": "Android Authority",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-17",
+      "time": "18:50",
+      "publishedAt": "2026-07-17T18:50:30.000Z",
+      "url": "https://www.androidauthority.com/pixel-11a-spec-leak-3688924/",
+      "image": "",
+      "summary": "This is the first substantial info we've seen about the Pixel 11a.",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-67cbfcf4cd38",
+      "title": "Pixel 11 reportedly getting ‘improved’ face unlock as 11a said to use Tensor G6",
+      "source": "9to5Google",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-17",
+      "time": "18:49",
+      "publishedAt": "2026-07-17T18:49:13.000Z",
+      "url": "https://9to5google.com/2026/07/17/pixel-11-face-unlock-11a-tensor-g6/",
+      "image": "",
+      "summary": "While we wait for the Pixel 11 launch, rumors about the Pixel 11a and even 12a are already emerging.",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-82fae8619c5b",
+      "title": "With OnePlus out of the picture, the US faces a huge smartphone dilemma for people like me",
+      "source": "Android Central",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-07-17",
+      "time": "18:32",
+      "publishedAt": "2026-07-17T18:32:33.000Z",
+      "url": "https://www.androidcentral.com/phones/oneplus/with-oneplus-out-of-the-picture-the-us-faces-a-huge-smartphone-dilemma-for-people-like-me",
+      "image": "https://cdn.mos.cms.futurecdn.net/T3RaVtcWmykEvf7H3yqKND-1280-80.jpg",
+      "summary": "OnePlus has made some of my favorite Android phones ever, and the company's demise spells trouble for the U.S. market, especially for people like me. Here's why.",
+      "tags": [
+        "OPPO",
+        "评测",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-866960e5be9e",
+      "title": "Amazon is slashing $300 OFF the Google Pixel 10 Pro ahead of the Pixel 11 launch",
+      "source": "Android Central",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-07-17",
+      "time": "18:03",
+      "publishedAt": "2026-07-17T18:03:26.000Z",
+      "url": "https://www.androidcentral.com/phones/google-pixel/amazon-is-slashing-usd300-off-the-google-pixel-10-pro-ahead-of-the-pixel-11-launch",
+      "image": "https://cdn.mos.cms.futurecdn.net/F3VLyFxa3rbApiRPBYFYxY-1280-80.jpg",
+      "summary": "Weeks before the launch of the Google Pixel 11 series, Amazon is slashing $300 off the price of the still-excellent Pixel 10 Pro.",
+      "tags": [
+        "Pixel",
+        "评测",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-7a75f61f0b88",
+      "title": "竹本青：【2026年第28周 国内手机市场份额曝光：华为保持榜首，苹果跌至榜四，大盘下降约10%】 ● 2026 W28：…",
+      "source": "竹本青",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-07-17",
+      "time": "17:58",
+      "publishedAt": "2026-07-17T17:58:29.000Z",
+      "url": "https://www.coolapk.com/feed/72827868",
+      "image": "http://image.coolapk.com/feed/2026/0718/01/4248714_35597c48_1108_7144_322@1272x865.jpg",
+      "summary": "【2026年第28周 国内手机市场份额曝光：华为保持榜首，苹果跌至榜四，大盘下降约10%】 ● 2026 W28：大盘下降约10% 1.华为 —— 20.5% 2.OPPO —— 17.4%（含一加 3.6%，realme 0.7%） 3.vivo —— 16.5%（含iQOO 4.5%） 4.苹果 —— 16.0% 5.小米 —— 13.4% 6.荣耀…",
+      "tags": [
+        "HONOR",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-f808246810a6",
+      "title": "Samsung’s redesigned Z Fold 8 with a wide display just leaked",
+      "source": "The Verge",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-17",
+      "time": "17:38",
+      "publishedAt": "2026-07-17T17:38:01.000Z",
+      "url": "https://www.theverge.com/tech/967198/samsung-galaxy-z-fold-8-images-specs-leak",
+      "image": "",
+      "summary": "Leaker Evan Blass shared images of Samsung's redesigned Galaxy Z Fold 8 just days before the July 22nd launch event where Samsung is expected to officially announce the phone. The…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-ef87d0e6e739",
+      "title": "Apple and DOJ Hold Early Settlement Talks in iPhone Antitrust Case",
+      "source": "MacRumors",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-17",
+      "time": "16:31",
+      "publishedAt": "2026-07-17T16:31:11.000Z",
+      "url": "https://www.macrumors.com/2026/07/17/apple-doj-antitrust-settlement/",
+      "image": "https://images.macrumors.com/article-new/2024/03/Apple-vs-DOJ-Feature.jpg",
+      "summary": "Apple is working to settle an antitrust lawsuit with the U.S. Department of Justice, reports Bloomberg . Apple has proposed several offers and is now in early settlement talks wit…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-973d6bf46848",
+      "title": "iPhone 18 Pro Launching in Two Months With These 12 New Features",
+      "source": "MacRumors",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-17",
+      "time": "16:31",
+      "publishedAt": "2026-07-17T16:31:11.000Z",
+      "url": "https://www.macrumors.com/2026/07/17/iphone-18-pro-12-rumored-features/",
+      "image": "https://images.macrumors.com/article-new/2026/02/iPhone-18-Pro-Deep-Red-Feature.jpg",
+      "summary": "It is now mid-July, and that means the iPhone 18 Pro and iPhone 18 Pro Max are now just two months away. The devices are expected to look similar to the iPhone 17 Pro and iPhone 1…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-b63d09b1185a",
+      "title": "iPhone Loyalty Rate Climbs to 87% as Switching to Android Slows",
+      "source": "MacRumors",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-17",
+      "time": "16:31",
+      "publishedAt": "2026-07-17T16:31:11.000Z",
+      "url": "https://www.macrumors.com/2026/07/17/iphone-loyalty-rate-climbs-to-87/",
+      "image": "https://images.macrumors.com/article-new/2025/09/iphone-17-pro-silver.jpg",
+      "summary": "iPhone owners are sticking with the platform at a higher rate than a year ago, with new research firm CIRP putting iPhone loyalty at 87% for the first quarter of 2026. CIRP's late…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-1b3ecb5a7839",
       "title": "WhatsApp starts activating reserved usernames for select iPhone users",
@@ -17,26 +217,6 @@ window.phoneRadarAuto = {
       "summary": "After rolling out a username reservation system a few days ago, WhatsApp is now beginning to activate the full feature for a limited number of users. Here are the details.",
       "tags": [
         "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-f808246810a6",
-      "title": "Samsung’s redesigned Z Fold 8 with a wide display just leaked",
-      "source": "The Verge",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-17",
-      "time": "15:52",
-      "publishedAt": "2026-07-17T15:52:50.000Z",
-      "url": "https://www.theverge.com/tech/967198/samsung-galaxy-z-fold-8-images-specs-leak",
-      "image": "",
-      "summary": "Leaker Evan Blass shared images of Samsung's redesigned Galaxy Z Fold 8 just days before the July 22nd launch event where Samsung is expected to officially announce the phone. The…",
-      "tags": [
-        "Samsung",
         "爆料",
         "自动抓取"
       ]
@@ -137,26 +317,6 @@ window.phoneRadarAuto = {
       "summary": "Just one week ahead of the Galaxy Z Fold 8 Ultra's official announcement, press renders of the phone have been leaked by Evan Blass (@evleaks) via their Substack newsletter. While…",
       "tags": [
         "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-b63d09b1185a",
-      "title": "iPhone Loyalty Rate Climbs to 87% as Switching to Android Slows",
-      "source": "MacRumors",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-17",
-      "time": "14:30",
-      "publishedAt": "2026-07-17T14:30:03.000Z",
-      "url": "https://www.macrumors.com/2026/07/17/iphone-loyalty-rate-climbs-to-87/",
-      "image": "https://images.macrumors.com/article-new/2025/09/iphone-17-pro-silver.jpg",
-      "summary": "iPhone owners are sticking with the platform at a higher rate than a year ago, with new research firm CIRP putting iPhone loyalty at 87% for the first quarter of 2026. CIRP's late…",
-      "tags": [
-        "iPhone",
         "爆料",
         "自动抓取"
       ]
@@ -842,8 +1002,28 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-2a61510d5126",
-      "title": "谁不喜欢用手机的时候来个急头白脸的卡死呢，坐等害怕os4重构底层[喷] #HyperOS3#",
+      "id": "newsnow-94d529d384e1",
+      "title": "我发现我买LG手机，LG手机倒闭，买魅族，魅族倒闭，买真我，真我也倒闭，",
+      "source": "酷安热榜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-07-17",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/72814994",
+      "image": "",
+      "summary": "我发现我买LG手机，LG手机倒闭，买魅族，魅族倒闭，买真我，真我也倒闭，",
+      "tags": [
+        "行业",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-7e06835e98ce",
+      "title": "小米 HyperOS3 最近更新了一个比较实用的功能：在任何页面下点击状态栏都会回到页面顶部位置，这个功能 OPPO 和其它家都也有，如今小米终于跟上了，这算是日常刷信息流下最实用的功能了，最初是 iPhone 上才有，虽然实现的原理我感觉还是 iPhone 上来得更优雅，安卓这边是模拟了手指滑动的轨迹，而苹果这边是直接跳转加了一个动画效果，期待小米进一步优化",
       "source": "酷安热榜",
       "brand": "Xiaomi",
       "model": "Xiaomi 相关机型",
@@ -852,11 +1032,51 @@ window.phoneRadarAuto = {
       "date": "2026-07-17",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72807401",
+      "url": "https://www.coolapk.com/feed/72813325",
       "image": "",
-      "summary": "谁不喜欢用手机的时候来个急头白脸的卡死呢，坐等害怕os4重构底层[喷] #HyperOS3#",
+      "summary": "小米 HyperOS3 最近更新了一个比较实用的功能：在任何页面下点击状态栏都会回到页面顶部位置，这个功能 OPPO 和其它家都也有，如今小米终于跟上了，这算是日常刷信息流下最实用的功能了，最初是 iPhone 上才有，虽然实现的原理我感觉还是 iPhone 上来得更优雅，安卓这边是模拟了手指滑动的轨迹，而苹果这边是直接跳转加了一个动画效果，期待小米进一步…",
       "tags": [
         "Xiaomi",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-5ee34bb69d6f",
+      "title": "最近都在和女朋友搞cosplay，放些国庆广州cicf出小爱预告？#我在酷安晒女友# #人像摄影# #手机摄影#",
+      "source": "酷安热榜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-07-17",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/72818585",
+      "image": "",
+      "summary": "最近都在和女朋友搞cosplay，放些国庆广州cicf出小爱预告？#我在酷安晒女友# #人像摄影# #手机摄影#",
+      "tags": [
+        "行业",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-f91175ad9573",
+      "title": "全球首款机器人手机亮相引老外围观",
+      "source": "百度热搜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-17",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.baidu.com/s?wd=%E5%85%A8%E7%90%83%E9%A6%96%E6%AC%BE%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%89%8B%E6%9C%BA%E4%BA%AE%E7%9B%B8%E5%BC%95%E8%80%81%E5%A4%96%E5%9B%B4%E8%A7%82",
+      "image": "",
+      "summary": "全球首款机器人手机亮相引老外围观",
+      "tags": [
+        "行业",
         "爆料",
         "NewsNow"
       ]
