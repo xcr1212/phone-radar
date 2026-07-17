@@ -1,9 +1,149 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-07-17T03:35:47.209Z",
+  "updatedAt": "2026-07-17T06:26:46.828Z",
   "news": [
     {
+      "id": "auto-4eb4c793a077",
+      "title": "Huawei Pura 90s series is official in UAE with two exciting benefits",
+      "source": "Huawei Central",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-17",
+      "time": "06:03",
+      "publishedAt": "2026-07-17T06:03:58.000Z",
+      "url": "https://www.huaweicentral.com/huawei-pura-90s-series-is-official-in-uae/",
+      "image": "https://www.huaweicentral.com/wp-content/uploads/2026/07/Pura90sPro-image.jpg",
+      "summary": "Huawei Pura 90s series has now made its way to the UAE and is open for sale. The camera flagship comes with two models – Pro and Pro Max. And the best part of this launch is that…",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "weibo-4a9f23cd5c92",
+      "title": "数码闲聊站：母系迭代新旗舰，目前摸到的工程机ID： 左上角方形Deco、左上角大圆Deco…",
+      "source": "数码闲聊站",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-07-17",
+      "time": "05:36",
+      "publishedAt": "2026-07-17T05:36:00.000Z",
+      "url": "https://weibo.com/6048569942/R95wJFEXd",
+      "image": "",
+      "summary": "母系迭代新旗舰，目前摸到的工程机ID： 左上角方形Deco、左上角大圆Deco、左上角小矩阵Deco、横向大矩阵背屏Deco、居中大圆Deco…… Tips：正面都是大R角直屏，部分系列有两种Deco设计",
+      "tags": [
+        "行业",
+        "爆料",
+        "微博"
+      ]
+    },
+    {
+      "id": "auto-b056ffb8aa1f",
+      "title": "OnePlus reveals more changes for US users following exit announcement",
+      "source": "Android Authority",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-17",
+      "time": "05:27",
+      "publishedAt": "2026-07-17T05:27:02.000Z",
+      "url": "https://www.androidauthority.com/oneplus-us-community-shutdown-software-plans-us-3688516/",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2026/04/OnePlus-Nord-6.jpg",
+      "summary": "OnePlus has confirmed the shutdown date for its North American community forum and revealed more ColorOS transition details.",
+      "tags": [
+        "OPPO",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "weibo-319d78228728",
+      "title": "数码闲聊站：OPPO K15——6.59\"1.5K LTPS直屏，天玑7360+内置主动散…",
+      "source": "数码闲聊站",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-07-17",
+      "time": "04:06",
+      "publishedAt": "2026-07-17T04:06:00.000Z",
+      "url": "https://weibo.com/6048569942/R94Wd3YUH",
+      "image": "https://tvax3.sinaimg.cn/mw2000/006BlblIgy1if6src1zekj31s02dc4qp.jpg",
+      "summary": "OPPO K15——6.59\"1.5K LTPS直屏，天玑7360+内置主动散热风扇，8000mAh+80W，前置50Mp，后置50Mp主摄+50Mp超广角，RGB呼吸灯，双频GPS+三频北斗，8.27mm/205g，金属中框，短焦光学指纹，猜猜价格？[笑而不语]",
+      "tags": [
+        "OPPO",
+        "爆料",
+        "微博"
+      ]
+    },
+    {
+      "id": "auto-d6bdf27f0e94",
+      "title": "Vivo X500 Ultra leak reveals three 200MP telephoto sensors under consideration",
+      "source": "Gizmochina",
+      "brand": "vivo",
+      "model": "vivo 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-17",
+      "time": "04:03",
+      "publishedAt": "2026-07-17T04:03:26.000Z",
+      "url": "https://www.gizmochina.com/2026/07/17/vivo-x500-ultra-200mp-periscope-camera-sensor-testing/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/07/Vivo-X300-Pro-5G-phone-300x169.png?x59708",
+      "summary": "A fresh leak from reliable tipster Digital Chat Station suggests Vivo has not yet finalized the camera hardware for the upcoming Vivo X500 Ultra. Instead, the company is reportedl…",
+      "tags": [
+        "vivo",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-cc4ed90459cf",
+      "title": "Counterpoint 数据：印度 2026Q2 智能手机出货同比下滑 10%，创 6 年来同期最大跌幅",
+      "source": "IT之家",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-17",
+      "time": "03:33",
+      "publishedAt": "2026-07-17T03:33:18.000Z",
+      "url": "https://www.ithome.com/0/977/998.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/7/7b73f7f2-61c3-435a-bd58-b43854cc1912.jpg",
+      "summary": "IT之家 7 月 17 日消息，Counterpoint Research 今日表示， 印度智能手机出货量在 2026 年第 3 季度出现 10% 下滑 ， 创下六年以来同期的最大跌幅 。 此次下滑主要受创纪录的存储器价格上涨推动，几乎所有价位段的智能手机价格均出现上涨。即便厂商推出促销和分期活动，仍削弱了消费者需求、延长了换机周期。 图源：Pexels…",
+      "tags": [
+        "行业",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-3a13c9e176d3",
+      "title": "Apple Closes Unlocked iPhone Loophole for T-Mobile and Verizon Financing",
+      "source": "MacRumors",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-17",
+      "time": "03:26",
+      "publishedAt": "2026-07-17T03:26:48.000Z",
+      "url": "https://www.macrumors.com/2026/07/15/apple-carrier-iphone-financing/",
+      "image": "https://images.macrumors.com/article-new/2025/11/iphone-17-cyber.jpg",
+      "summary": "Carrier-financed iPhones purchased from Apple will soon be locked to the carrier, ending a workaround customers used to purchase an unlocked iPhone on a payment plan. Until the ru…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
       "id": "coolapk-user-606373eaee17",
-      "title": "竹本青：【OPPO K15 官宣7月24日开售：天玑7360 SUPER+主动风扇，8000mAh电池】 ▫️天玑7360…",
+      "title": "竹本青：【OPPO K15 官宣7月24日开售：天玑7360 SUPER，主动散热风扇，8000mAh电池】 ▫️天玑73…",
       "source": "竹本青",
       "brand": "OPPO",
       "model": "OPPO 相关机型",
@@ -14,7 +154,7 @@ window.phoneRadarAuto = {
       "publishedAt": "2026-07-17T03:23:04.000Z",
       "url": "https://www.coolapk.com/feed/72816846",
       "image": "http://image.coolapk.com/feed/2026/0717/11/4248714_285cd896_8583_851_691@1440x1440.jpg",
-      "summary": "【OPPO K15 官宣7月24日开售：天玑7360 SUPER+主动风扇，8000mAh电池】 ▫️天玑7360 SUPER x 潮汐引擎 ▫️新一代疾风散热引擎 ▫️8000mAh电池+80W有线 ▫️IP69防尘防水 ▫️前后5000万三摄 ▫️RGB呼吸灯｜山海通信 #今日热点# #ColorOS16# #OPPOK15Pro+#",
+      "summary": "【OPPO K15 官宣7月24日开售：天玑7360 SUPER，主动散热风扇，8000mAh电池】 ▫️天玑7360 SUPER+潮汐引擎 ▫️6.59英寸1.5K OLED屏 ▫️新一代疾风散热引擎 ▫️8000mAh电池+80W有线 ▫️IP69防尘防水｜RGB呼吸灯 ▫️前后5000万像素三摄 ▫️红外遥控｜山海通信｜屏下指纹 ▫️158.3×75…",
       "tags": [
         "OPPO",
         "爆料",
@@ -23,7 +163,7 @@ window.phoneRadarAuto = {
     },
     {
       "id": "coolapk-user-46c564b87939",
-      "title": "JSCHEN小小狐：『vivo X500 Ultra 长焦方案曝光：含三种物料』 激进路线：200Mp 1/1.12'' 潜望式长焦…",
+      "title": "JSCHEN小小狐：vivo X500 Ultra 长焦方案曝光：含三种物料",
       "source": "JSCHEN小小狐",
       "brand": "vivo",
       "model": "vivo 相关机型",
@@ -82,26 +222,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-1889f3e8b427",
-      "title": "三星专利探索 Galaxy Z Flip 折叠手机未来形态：曲面屏、360 度翻折",
-      "source": "IT之家",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-17",
-      "time": "01:21",
-      "publishedAt": "2026-07-17T01:21:04.000Z",
-      "url": "https://www.ithome.com/0/977/871.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/7/80f0c415-cd88-4e02-8ec1-13509cf16c86.png?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 7 月 17 日消息，科技媒体 fixyflow 昨日（7 月 16 日）发布博文，报道称基于最新公示的专利， 三星正在探索 Galaxy Z Flip 小折叠手机的全新形态。 基于专利描述，该折叠手机采用曲面屏设计， 且内置铰链可以实现 360 度内翻和外翻。 从结构看，这款设备包含 2 个主要显示区、1 个中央折叠区，以及位于外边缘的曲面显示…",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "weibo-2c2491d24120",
       "title": "数码闲聊站：目前超大杯的影像方案还没定，长焦测试物料有200Mp 1/1.12\"、200M…",
       "source": "数码闲聊站",
@@ -119,46 +239,6 @@ window.phoneRadarAuto = {
         "行业",
         "爆料",
         "微博"
-      ]
-    },
-    {
-      "id": "auto-c989caeab853",
-      "title": "三星 Galaxy Z Flip8 折叠手机曝光：Exynos 2600 芯片，多核提升约 28%",
-      "source": "IT之家",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-17",
-      "time": "00:57",
-      "publishedAt": "2026-07-17T00:57:54.000Z",
-      "url": "https://www.ithome.com/0/977/861.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/7/ff6c797e-5907-4a27-9cf8-d524ac242f77.jpg",
-      "summary": "IT之家 7 月 17 日消息，德国科技媒体 WinFuture 昨日（7 月 16 日）发布博文，在 分享 Galaxy Z Fold8 和 Galaxy Z Fold8 Ultra 两款机型规格 后，再次分享了三星 Galaxy Z Flip8 小折叠手机规格。 外观方面，消息源称三星 Galaxy Z Flip8 并没有太大的变化，主要是机身重量为…",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-3a13c9e176d3",
-      "title": "Apple Closes Unlocked iPhone Loophole for T-Mobile and Verizon Financing",
-      "source": "MacRumors",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-17",
-      "time": "00:34",
-      "publishedAt": "2026-07-17T00:34:58.000Z",
-      "url": "https://www.macrumors.com/2026/07/15/apple-carrier-iphone-financing/",
-      "image": "https://images.macrumors.com/article-new/2025/11/iphone-17-cyber.jpg",
-      "summary": "Carrier-financed iPhones purchased from Apple will soon be locked to the carrier, ending a workaround customers used to purchase an unlocked iPhone on a payment plan. Until the ru…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
       ]
     },
     {
@@ -262,21 +342,21 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-d1f66e80f001",
-      "title": "这个阔直板的意义在哪，这么大的手机携带也不方便，除非价格能比华为Pura X Max低很多，要不然买阔折叠多舒服。 #ColorOS16# #数码日常#",
+      "id": "newsnow-7e0421021ebe",
+      "title": "mate80promax还是小米17promax或者17max？纠结好久了兄弟们，给个意见吧。",
       "source": "酷安热榜",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-07-17",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72792698",
+      "url": "https://www.coolapk.com/feed/72807562",
       "image": "",
-      "summary": "这个阔直板的意义在哪，这么大的手机携带也不方便，除非价格能比华为Pura X Max低很多，要不然买阔折叠多舒服。 #ColorOS16# #数码日常#",
+      "summary": "mate80promax还是小米17promax或者17max？纠结好久了兄弟们，给个意见吧。",
       "tags": [
-        "Huawei",
+        "Xiaomi",
         "爆料",
         "NewsNow"
       ]
@@ -593,7 +673,7 @@ window.phoneRadarAuto = {
       "time": "12:39",
       "publishedAt": "2026-07-16T12:39:22.000Z",
       "url": "https://www.gizmochina.com/2026/07/16/realme-coloros-17-future-smartphones-oneplus-software-transition/",
-      "image": "https://www.gizmochina.com/wp-content/uploads/2026/07/ColorOS-17-AI-generated-iamge-300x200.jpg?x29014",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/07/ColorOS-17-AI-generated-iamge-300x200.jpg?x59708",
       "summary": "Realme has officially confirmed a major software change for its smartphones in India. The company has revealed that upcoming devices will no longer ship with Realme UI, signalling…",
       "tags": [
         "OPPO",
@@ -693,7 +773,7 @@ window.phoneRadarAuto = {
       "time": "09:48",
       "publishedAt": "2026-07-16T09:48:13.000Z",
       "url": "https://www.gizmochina.com/2026/07/16/huawei-expands-its-ecosystem-with-pura-90s-series-freeclip-2-s-and-matepad-air/",
-      "image": "https://www.gizmochina.com/wp-content/uploads/2026/07/image-61-300x149.png?x29014",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/07/image-61-300x149.png?x59708",
       "summary": "Huawei has expanded its connected device ecosystem with the launch of the HUAWEI Pura 90s Series, HUAWEI FreeClip 2 S, and HUAWEI MatePad Air at its Flagship Product Global Launch…",
       "tags": [
         "Huawei",
@@ -813,7 +893,7 @@ window.phoneRadarAuto = {
       "time": "08:21",
       "publishedAt": "2026-07-16T08:21:40.000Z",
       "url": "https://www.gizmochina.com/2026/07/16/redmi-17-4g-renders-reveal-refreshed-design-light-ring-color-options/",
-      "image": "https://www.gizmochina.com/wp-content/uploads/2026/07/redmi-17-4g-renders-300x169.jpg?x29014",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/07/redmi-17-4g-renders-300x169.jpg?x59708",
       "summary": "Xiaomi looks like it’s gearing up to refresh its budget smartphone lineup, and a new leak shared by YtechB just gave us one of the best looks yet at the upcoming REDMI 17 4G. The…",
       "tags": [
         "Xiaomi",
@@ -842,26 +922,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-7c9c8a341c71",
-      "title": "Galaxy Z Fold 8 and Z Fold 8 Ultra specifications reportedly leak",
-      "source": "SamMobile",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-16",
-      "time": "06:46",
-      "publishedAt": "2026-07-16T06:46:47.000Z",
-      "url": "https://www.sammobile.com/news/galaxy-z-fold-8-ultra-specifications-reportedly-leak/",
-      "image": "",
-      "summary": "Samsung will unveil its next-generation foldable phones at a Galaxy Unpacked event on July 22. Just one week before that announcement, the specifications of the Galaxy Z Fold 8 an…",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-f65d75b0886a",
       "title": "OnePlus N6x launching soon in India with “familiar specs”",
       "source": "Gizmochina",
@@ -873,7 +933,7 @@ window.phoneRadarAuto = {
       "time": "05:49",
       "publishedAt": "2026-07-16T05:49:18.000Z",
       "url": "https://www.gizmochina.com/2026/07/16/oneplus-n6x-launching-soon-in-india-with-familiar-specs/",
-      "image": "https://www.gizmochina.com/wp-content/uploads/2026/07/oneplus-n6x-teaser-300x169.jpg?x29014",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/07/oneplus-n6x-teaser-300x169.jpg?x59708",
       "summary": "OnePlus isn’t wasting any time expanding its new ultra-budget N series in India. Just a few weeks after launching the N6, the company has already teased the upcoming N6x through a…",
       "tags": [
         "OPPO",

@@ -1,12 +1,12 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-07-17T03:35:47.209Z",
+  "updatedAt": "2026-07-17T06:26:46.828Z",
   "issueDate": "2026-07-17",
   "issue": "VOL.260717",
   "title": "手机情报日报",
-  "intro": "今日筛出 12 条重点，其中 8 条是重点爆料，包含 5 条 iPhone 相关、1 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 13 条重点，其中 8 条是重点爆料，包含 4 条 iPhone 相关、1 条官方确认、0 条参数线索。",
   "stats": {
-    "total": 12,
-    "iphone": 5,
+    "total": 13,
+    "iphone": 4,
     "leaks": 8,
     "official": 1,
     "specs": 0
@@ -26,8 +26,8 @@ window.phoneRadarDaily = {
           "type": "爆料",
           "trust": "媒体汇总",
           "date": "2026-07-17",
-          "time": "00:34",
-          "publishedAt": "2026-07-17T00:34:58.000Z",
+          "time": "03:26",
+          "publishedAt": "2026-07-17T03:26:48.000Z",
           "url": "https://www.macrumors.com/2026/07/15/apple-carrier-iphone-financing/",
           "image": "https://images.macrumors.com/article-new/2025/11/iphone-17-cyber.jpg",
           "verdict": "先看",
@@ -87,79 +87,33 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
-          "id": "auto-1889f3e8b427",
-          "title": "三星专利探索 Galaxy Z Flip 折叠手机未来形态：曲面屏、360 度翻折",
+          "id": "weibo-319d78228728",
+          "title": "数码闲聊站：OPPO K15——6.59\"1.5K LTPS直屏，天玑7360+内置主动散…",
           "originalTitle": "",
-          "source": "IT之家",
-          "brand": "Samsung",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-07-17",
-          "time": "01:21",
-          "publishedAt": "2026-07-17T01:21:04.000Z",
-          "url": "https://www.ithome.com/0/977/871.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/7/80f0c415-cd88-4e02-8ec1-13509cf16c86.png?x-bce-process=image/format,f_auto",
-          "verdict": "先看",
-          "takeaway": "IT之家 7 月 17 日消息，科技媒体 fixyflow 昨日（7 月 16 日）发布博文，报道称基于最新公示的专利， 三星正在探索 Galaxy Z Flip 小折叠手机的全新形态。 基于专利描述，该折叠手机采用曲面屏设计， 且内置铰链可以实现 360 度内翻和外翻。 从结构看，这款设备包含 2 个主要显示区、1 个中央折叠区，以及位于外边缘的曲面显示…",
-          "detail": "IT之家 7 月 17 日消息，科技媒体 fixyflow 昨日（7 月 16 日）发布博文，报道称基于最新公示的专利， 三星正在探索 Galaxy Z Flip 小折叠手机的全新形态。 基于专利描述，该折叠手机采用曲面屏设计， 且内置铰链可以实现 360 度内翻和外翻。 从结构看，这款设备包含 2 个主要显示区、1 个中央折叠区，以及位于外边缘的曲面显示…",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "auto-c989caeab853",
-          "title": "三星 Galaxy Z Flip8 折叠手机曝光：Exynos 2600 芯片，多核提升约 28%",
-          "originalTitle": "",
-          "source": "IT之家",
-          "brand": "Samsung",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-07-17",
-          "time": "00:57",
-          "publishedAt": "2026-07-17T00:57:54.000Z",
-          "url": "https://www.ithome.com/0/977/861.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/7/ff6c797e-5907-4a27-9cf8-d524ac242f77.jpg",
-          "verdict": "先看",
-          "takeaway": "IT之家 7 月 17 日消息，德国科技媒体 WinFuture 昨日（7 月 16 日）发布博文，在 分享 Galaxy Z Fold8 和 Galaxy Z Fold8 Ultra 两款机型规格 后，再次分享了三星 Galaxy Z Flip8 小折叠手机规格。 外观方面，消息源称三星 Galaxy Z Flip8 并没有太大的变化，主要是机身重量为…",
-          "detail": "IT之家 7 月 17 日消息，德国科技媒体 WinFuture 昨日（7 月 16 日）发布博文，在 分享 Galaxy Z Fold8 和 Galaxy Z Fold8 Ultra 两款机型规格 后，再次分享了三星 Galaxy Z Flip8 小折叠手机规格。 外观方面，消息源称三星 Galaxy Z Flip8 并没有太大的变化，主要是机身重量为…",
-          "keyPoints": [
-            "外观 / 配色 / 尺寸",
-            "芯片 / 性能"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "newsnow-d1f66e80f001",
-          "title": "这个阔直板的意义在哪，这么大的手机携带也不方便，除非价格能比华为Pura X Max低很多，要不然买阔折叠多舒服。 #ColorOS16# #数码日常#",
-          "originalTitle": "",
-          "source": "酷安热榜",
-          "brand": "Huawei",
+          "source": "数码闲聊站",
+          "brand": "OPPO",
           "type": "爆料",
           "trust": "高关注爆料源",
           "date": "2026-07-17",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://www.coolapk.com/feed/72792698",
-          "image": "",
+          "time": "04:06",
+          "publishedAt": "2026-07-17T04:06:00.000Z",
+          "url": "https://weibo.com/6048569942/R94Wd3YUH",
+          "image": "https://tvax3.sinaimg.cn/mw2000/006BlblIgy1if6src1zekj31s02dc4qp.jpg",
           "verdict": "先看",
-          "takeaway": "这个阔直板的意义在哪，这么大的手机携带也不方便，除非价格能比华为Pura X Max低很多，要不然买阔折叠多舒服。 #ColorOS16# #数码日常#",
-          "detail": "这个阔直板的意义在哪，这么大的手机携带也不方便，除非价格能比华为Pura X Max低很多，要不然买阔折叠多舒服。 #ColorOS16# #数码日常#",
+          "takeaway": "OPPO K15——6.59\"1.5K LTPS直屏，天玑7360+内置主动散热风扇，8000mAh+80W，前置50Mp，后置50Mp主摄+50Mp超广角，RGB呼吸灯，双频GPS+三频北斗，8.27mm/205g，金属中框，短焦光学指纹，猜猜价格？[笑而不语]",
+          "detail": "OPPO K15——6.59\"1.5K LTPS直屏，天玑7360+内置主动散热风扇，8000mAh+80W，前置50Mp，后置50Mp主摄+50Mp超广角，RGB呼吸灯，双频GPS+三频北斗，8.27mm/205g，金属中框，短焦光学指纹，猜猜价格？[笑而不语]",
           "keyPoints": [
-            "外观 / 配色 / 尺寸",
-            "成本 / 价格"
+            "屏幕形态",
+            "成本 / 价格",
+            "爆料来源"
           ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
           "id": "coolapk-user-606373eaee17",
-          "title": "竹本青：【OPPO K15 官宣7月24日开售：天玑7360 SUPER+主动风扇，8000mAh电池】 ▫️天玑7360…",
+          "title": "竹本青：【OPPO K15 官宣7月24日开售：天玑7360 SUPER，主动散热风扇，8000mAh电池】 ▫️天玑73…",
           "originalTitle": "",
           "source": "竹本青",
           "brand": "OPPO",
@@ -171,10 +125,10 @@ window.phoneRadarDaily = {
           "url": "https://www.coolapk.com/feed/72816846",
           "image": "http://image.coolapk.com/feed/2026/0717/11/4248714_285cd896_8583_851_691@1440x1440.jpg",
           "verdict": "先看",
-          "takeaway": "【OPPO K15 官宣7月24日开售：天玑7360 SUPER+主动风扇，8000mAh电池】 ▫️天玑7360 SUPER x 潮汐引擎 ▫️新一代疾风散热引擎 ▫️8000mAh电池+80W有线 ▫️IP69防尘防水 ▫️前后5000万三摄 ▫️RGB呼吸灯｜山海通信 #今日热点# #ColorOS16# #OPPOK15Pro+#",
-          "detail": "【OPPO K15 官宣7月24日开售：天玑7360 SUPER+主动风扇，8000mAh电池】 ▫️天玑7360 SUPER x 潮汐引擎 ▫️新一代疾风散热引擎 ▫️8000mAh电池+80W有线 ▫️IP69防尘防水 ▫️前后5000万三摄 ▫️RGB呼吸灯｜山海通信 #今日热点# #ColorOS16# #OPPOK15Pro+#",
+          "takeaway": "【OPPO K15 官宣7月24日开售：天玑7360 SUPER，主动散热风扇，8000mAh电池】 ▫️天玑7360 SUPER+潮汐引擎 ▫️6.59英寸1.5K OLED屏 ▫️新一代疾风散热引擎 ▫️8000mAh电池+80W有线 ▫️IP69防尘防水｜RGB呼吸灯 ▫️前后5000万像素三摄 ▫️红外遥控｜山海通信｜屏下指纹 ▫️158.3×75…",
+          "detail": "【OPPO K15 官宣7月24日开售：天玑7360 SUPER，主动散热风扇，8000mAh电池】 ▫️天玑7360 SUPER+潮汐引擎 ▫️6.59英寸1.5K OLED屏 ▫️新一代疾风散热引擎 ▫️8000mAh电池+80W有线 ▫️IP69防尘防水｜RGB呼吸灯 ▫️前后5000万像素三摄 ▫️红外遥控｜山海通信｜屏下指纹 ▫️158.3×75…",
           "keyPoints": [
-            "外观 / 配色 / 尺寸",
+            "屏幕形态",
             "电池 / 充电"
           ],
           "confidence": "可信度较高，但仍属于发布前线索。",
@@ -193,7 +147,7 @@ window.phoneRadarDaily = {
           "time": "08:21",
           "publishedAt": "2026-07-16T08:21:40.000Z",
           "url": "https://www.gizmochina.com/2026/07/16/redmi-17-4g-renders-reveal-refreshed-design-light-ring-color-options/",
-          "image": "https://www.gizmochina.com/wp-content/uploads/2026/07/redmi-17-4g-renders-300x169.jpg?x29014",
+          "image": "https://www.gizmochina.com/wp-content/uploads/2026/07/redmi-17-4g-renders-300x169.jpg?x59708",
           "verdict": "先看",
           "takeaway": "Xiaomi 机模 / 配色信息曝光。重点看外观、颜色、尺寸是否和上一代有明显变化。",
           "detail": "Xiaomi 机模 / 配色信息曝光。来源提到未发布机型的机模/配色图，适合先判断外观方向、颜色变化和机身轮廓，但最终量产版本仍可能调整。",
@@ -203,6 +157,54 @@ window.phoneRadarDaily = {
             "爆料来源"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "weibo-4a9f23cd5c92",
+          "title": "数码闲聊站：母系迭代新旗舰，目前摸到的工程机ID： 左上角方形Deco、左上角大圆Deco…",
+          "originalTitle": "",
+          "source": "数码闲聊站",
+          "brand": "行业",
+          "type": "爆料",
+          "trust": "高关注爆料源",
+          "date": "2026-07-17",
+          "time": "05:36",
+          "publishedAt": "2026-07-17T05:36:00.000Z",
+          "url": "https://weibo.com/6048569942/R95wJFEXd",
+          "image": "",
+          "verdict": "先看",
+          "takeaway": "母系迭代新旗舰，目前摸到的工程机ID： 左上角方形Deco、左上角大圆Deco、左上角小矩阵Deco、横向大矩阵背屏Deco、居中大圆Deco…… Tips：正面都是大R角直屏，部分系列有两种Deco设计",
+          "detail": "母系迭代新旗舰，目前摸到的工程机ID： 左上角方形Deco、左上角大圆Deco、左上角小矩阵Deco、横向大矩阵背屏Deco、居中大圆Deco…… Tips：正面都是大R角直屏，部分系列有两种Deco设计",
+          "keyPoints": [
+            "屏幕形态",
+            "爆料来源"
+          ],
+          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "weibo-2c2491d24120",
+          "title": "数码闲聊站：目前超大杯的影像方案还没定，长焦测试物料有200Mp 1/1.12\"、200M…",
+          "originalTitle": "",
+          "source": "数码闲聊站",
+          "brand": "行业",
+          "type": "爆料",
+          "trust": "高关注爆料源",
+          "date": "2026-07-17",
+          "time": "01:10",
+          "publishedAt": "2026-07-17T01:10:29.000Z",
+          "url": "https://weibo.com/6048569942/R93MXDy1f",
+          "image": "",
+          "verdict": "先看",
+          "takeaway": "目前超大杯的影像方案还没定，长焦测试物料有200Mp 1/1.12\"、200Mp 1/1.3\"、200Mp 1/1.4\"，长焦走激进路线就是第一个，均衡路线就是后面俩二选一……[笑哈哈]",
+          "detail": "目前超大杯的影像方案还没定，长焦测试物料有200Mp 1/1.12\"、200Mp 1/1.3\"、200Mp 1/1.4\"，长焦走激进路线就是第一个，均衡路线就是后面俩二选一……[笑哈哈]",
+          "keyPoints": [
+            "影像硬件",
+            "爆料来源"
+          ],
+          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         }
@@ -258,29 +260,6 @@ window.phoneRadarDaily = {
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是实际体验内容，买前适合重点看缺点和取舍。",
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
-        {
-          "id": "newsnow-cf3fb93e2998",
-          "title": "iPhone Air 当主力机用了三个多月后，我为什么还是换不掉它",
-          "originalTitle": "",
-          "source": "少数派热榜",
-          "brand": "iPhone",
-          "type": "评测",
-          "trust": "媒体汇总",
-          "date": "2026-07-17",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://sspai.com/post/111113",
-          "image": "",
-          "verdict": "扫一眼",
-          "takeaway": "iPhone Air 当主力机用了三个多月后，我为什么还是换不掉它",
-          "detail": "iPhone Air 当主力机用了三个多月后，我为什么还是换不掉它",
-          "keyPoints": [
-            "评测"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是实际体验内容，买前适合重点看缺点和取舍。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         }
       ]
     },
@@ -305,6 +284,52 @@ window.phoneRadarDaily = {
           "verdict": "先看",
           "takeaway": "9020烫死了。刚下班拍了点赞👍云，然后等公交刷信息流，突然就全局掉帧，手机巨烫，然后为了快速降温立马关机2分钟，然后重启，因为在等公交特别着急，重启一直现HUAWEI标然后没反应，重启开机起码开了4分钟，我都感觉手机要虚焊了，什么情况啊#鸿蒙6# #华为Mate80ProMax# #华为Mate70Pro#",
           "detail": "9020烫死了。刚下班拍了点赞👍云，然后等公交刷信息流，突然就全局掉帧，手机巨烫，然后为了快速降温立马关机2分钟，然后重启，因为在等公交特别着急，重启一直现HUAWEI标然后没反应，重启开机起码开了4分钟，我都感觉手机要虚焊了，什么情况啊#鸿蒙6# #华为Mate80ProMax# #华为Mate70Pro#",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        },
+        {
+          "id": "auto-cc4ed90459cf",
+          "title": "Counterpoint 数据：印度 2026Q2 智能手机出货同比下滑 10%，创 6 年来同期最大跌幅",
+          "originalTitle": "",
+          "source": "IT之家",
+          "brand": "行业",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-07-17",
+          "time": "03:33",
+          "publishedAt": "2026-07-17T03:33:18.000Z",
+          "url": "https://www.ithome.com/0/977/998.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/7/7b73f7f2-61c3-435a-bd58-b43854cc1912.jpg",
+          "verdict": "扫一眼",
+          "takeaway": "IT之家 7 月 17 日消息，Counterpoint Research 今日表示， 印度智能手机出货量在 2026 年第 3 季度出现 10% 下滑 ， 创下六年以来同期的最大跌幅 。 此次下滑主要受创纪录的存储器价格上涨推动，几乎所有价位段的智能手机价格均出现上涨。即便厂商推出促销和分期活动，仍削弱了消费者需求、延长了换机周期。 图源：Pexels…",
+          "detail": "IT之家 7 月 17 日消息，Counterpoint Research 今日表示， 印度智能手机出货量在 2026 年第 3 季度出现 10% 下滑 ， 创下六年以来同期的最大跌幅 。 此次下滑主要受创纪录的存储器价格上涨推动，几乎所有价位段的智能手机价格均出现上涨。即便厂商推出促销和分期活动，仍削弱了消费者需求、延长了换机周期。 图源：Pexels…",
+          "keyPoints": [
+            "成本 / 价格"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "影响购买预算，值得先看。",
+          "action": "有具体参数就记录到参数库；没有参数就先收藏。"
+        },
+        {
+          "id": "newsnow-7e0421021ebe",
+          "title": "mate80promax还是小米17promax或者17max？纠结好久了兄弟们，给个意见吧。",
+          "originalTitle": "",
+          "source": "酷安热榜",
+          "brand": "Xiaomi",
+          "type": "爆料",
+          "trust": "高关注爆料源",
+          "date": "2026-07-17",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://www.coolapk.com/feed/72807562",
+          "image": "",
+          "verdict": "扫一眼",
+          "takeaway": "mate80promax还是小米17promax或者17max？纠结好久了兄弟们，给个意见吧。",
+          "detail": "mate80promax还是小米17promax或者17max？纠结好久了兄弟们，给个意见吧。",
           "keyPoints": [
             "爆料"
           ],
