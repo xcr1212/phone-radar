@@ -1,5 +1,5 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-07-17T14:01:52.924Z",
+  "updatedAt": "2026-07-17T15:38:32.418Z",
   "news": [
     {
       "id": "auto-59210dd61133",
@@ -10,13 +10,133 @@ window.phoneRadarAuto = {
       "type": "爆料",
       "trust": "媒体汇总",
       "date": "2026-07-17",
-      "time": "14:00",
-      "publishedAt": "2026-07-17T14:00:38.000Z",
+      "time": "15:30",
+      "publishedAt": "2026-07-17T15:30:07.000Z",
       "url": "https://www.theverge.com/entertainment/966724/fallout-5-bethesda",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/FalloutS2FLimage3_3000.jpg?quality=90&strip=all&crop=0,0,100,100",
       "summary": "Xbox is currently in a \"reset\" period that includes laying off around 3,200 employees over the next year, involving deep cuts at beloved studios like id Software and Obsidian Ente…",
       "tags": [
         "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-fbd414cc47ce",
+      "title": "Marketing images of Galaxy Z Fold 8 photos leak right before Galaxy Unpacked [Gallery]",
+      "source": "9to5Google",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-17",
+      "time": "15:28",
+      "publishedAt": "2026-07-17T15:28:43.000Z",
+      "url": "https://9to5google.com/2026/07/17/galaxy-z-fold-8-flip-images-leak-before-launch/",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/07/Galaxy-Z-Fold-8-leaks-header-2.jpg?quality=82&strip=all&w=1400",
+      "summary": "Whether Samsung wants detailed images of the Galaxy Z Fold 8 and 8 Ultra out there, they are. The latest leak containing marketing images leaves nothing about the short and stout…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-9391a78bcdad",
+      "title": "Galaxy Z Flip 8 and Fold 8 features confirmed by leaked press renders",
+      "source": "SamMobile",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-17",
+      "time": "15:28",
+      "publishedAt": "2026-07-17T15:28:35.000Z",
+      "url": "https://www.sammobile.com/news/galaxy-z-flip-fold-8-features-confirmed-leaked-press-renders/",
+      "image": "https://www.sammobile.com/wp-content/uploads/2026/07/Samsung-Galaxy-Z-Flip-8-Purple.jpg",
+      "summary": "Ahead of their official announcement scheduled for next week, press renders of the Galaxy Z Flip 8 and the Galaxy Z Fold 8 have been leaked, confirming some of their features and…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-6a7d187b22d1",
+      "title": "Galaxy Z Fold 8 Ultra’s press renders leak, revealing specs and features",
+      "source": "SamMobile",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-17",
+      "time": "15:09",
+      "publishedAt": "2026-07-17T15:09:43.000Z",
+      "url": "https://www.sammobile.com/news/galaxy-z-fold-8-ultra-press-renders-leak-specs-features/",
+      "image": "https://www.sammobile.com/wp-content/uploads/2026/07/Samsung-Galaxy-Z-Fold-8-Ultra-Cover-Display-Gorilla-Glass.jpeg",
+      "summary": "Just one week ahead of the Galaxy Z Fold 8 Ultra's official announcement, press renders of the phone have been leaked by Evan Blass (@evleaks) via their Substack newsletter. While…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-987733330d2e",
+      "title": "Samsung’s plans for free storage upgrades become clearer as Galaxy Z Fold 8 nears launch",
+      "source": "9to5Google",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-17",
+      "time": "14:22",
+      "publishedAt": "2026-07-17T14:22:03.000Z",
+      "url": "https://9to5google.com/2026/07/17/samsung-galaxy-z-fold-8-free-storage-upgrade/",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2025/07/galaxy-z-fold-7-mint-1.jpg?quality=82&strip=all&w=1600",
+      "summary": "It turns out the news isn’t all so bad. New reports from Samsung insiders claim the company might offer free storage upgrades for some models of the Galaxy Z Fold 8 and Flip 8, bu…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-f139fd291420",
+      "title": "某厂 2 亿长焦测试方案曝光，预计为 vivo X500 Ultra",
+      "source": "IT之家",
+      "brand": "vivo",
+      "model": "vivo 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-17",
+      "time": "14:16",
+      "publishedAt": "2026-07-17T14:16:36.000Z",
+      "url": "https://www.ithome.com/0/978/310.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/7/0fc4de6f-4791-43dc-9b3e-d7cd393f3f0c.png?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 7 月 17 日消息，博主 @数码闲聊站 今日曝光某厂 2 亿长焦测试方案，分为激进路线和均衡路线。结合该博主此前的爆料习惯，该机预计为 vivo X500 Ultra。 200Mp 1/1.12\" 200Mp 1/1.3\" 200Mp 1/1.4\" IT之家注意到，该博主昨日还曝光某厂 2nm 骁龙迭代超大杯主摄信息，同样被认为是 vivo X…",
+      "tags": [
+        "vivo",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-a61e422bd49e",
+      "title": "Galaxy Z Fold 8 Ultra battery life could be 25% longer than the Z Fold 7",
+      "source": "SamMobile",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-17",
+      "time": "14:08",
+      "publishedAt": "2026-07-17T14:08:41.000Z",
+      "url": "https://www.sammobile.com/news/galaxy-z-fold-8-ultra-battery-life-25-percent-longer-z-fold-7/",
+      "image": "",
+      "summary": "It was recently revealed that the Galaxy Z Fold 8 and Galaxy Z Fold 8 Ultra use higher-capacity batteries than the Galaxy Z Fold 7. That makes longer battery life a reasonable exp…",
+      "tags": [
+        "Samsung",
         "爆料",
         "自动抓取"
       ]
@@ -382,66 +502,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-389c05dcc3e1",
-      "title": "消息称华为 Pura X 手机目前销量 154W±，阔折叠 Pura X Max 销量 58W± 均超预期",
-      "source": "IT之家",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-17",
-      "time": "08:22",
-      "publishedAt": "2026-07-17T08:22:20.000Z",
-      "url": "https://www.ithome.com/0/978/151.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/7/3be022ef-2aa7-4e3f-a969-5023e588a72a.jpg",
-      "summary": "IT之家 7 月 17 日消息，博主 @数码闲聊站 今日透露，华为 Pura X 目前销量 154W±，Pura X Max 销量 58W±， 均超预期 。 此外，对于评论区“明年会有安卓厂商跟进小阔折叠吗”的问题，博主称暂时没有， 最多只会跟大阔折 。 据IT之家此前报道， 华为 Pura X 手机发布于去年 3 月 ，搭载 3.5 英寸 1:1 比例外…",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-0b5e942d20ae",
-      "title": "iQOO Z11 Lite 手机海外公布：120Hz 水滴屏、天玑 6300 芯片，7 月 24 日发布",
-      "source": "IT之家",
-      "brand": "vivo",
-      "model": "vivo 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-17",
-      "time": "08:12",
-      "publishedAt": "2026-07-17T08:12:28.000Z",
-      "url": "https://www.ithome.com/0/978/142.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/7/75548736-22d6-45ec-89f5-38625789643a.jpg?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 7 月 17 日消息，iQOO 现已在印度市场公布 Z11 Lite 手机，新机定位中低端，7 月 24 日发布， 售价将低于 20000 卢比（IT之家注：现汇率约合 1407 元人民币） 。 据介绍，这款手机将配备一块水滴屏，支持 120Hz 高刷，峰值亮度可达 1200nits。机身背面的主摄是 5000 万像素，最高可选 6GB 内存和…",
-      "tags": [
-        "vivo",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-c75e0e3f038b",
-      "title": "小米 Poco X8 手机曝光，预计为 REDMI Note 17 Pro 换壳机型",
-      "source": "IT之家",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-17",
-      "time": "08:07",
-      "publishedAt": "2026-07-17T08:07:56.000Z",
-      "url": "https://www.ithome.com/0/978/133.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/7/bfbce61c-531d-4d54-8488-342431e756ec.png?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 7 月 17 日消息，据科技媒体 GizChina 今天报道，小米 Poco X8 手机现已出现在澎湃 HyperOS 的代码库中。 IT之家在此援引 GizChina，这款手机将配备 5000 万像素主摄 +200 万像素景深镜头， 与 REDMI Note 17 Pro 中国版相同 ， 预计为 REDMI Note 17 Pro 国内版换壳…",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-d2b5bbc359f1",
       "title": "I used a Galaxy Z Fold 7, now I’m excited for one particular Galaxy Z Fold 8 Ultra feature",
       "source": "SamMobile",
@@ -479,26 +539,6 @@ window.phoneRadarAuto = {
         "Huawei",
         "爆料",
         "微博"
-      ]
-    },
-    {
-      "id": "auto-a5328b657fcc",
-      "title": "Samsung’s mobile division may report a loss despite strong Galaxy S26 sales",
-      "source": "SamMobile",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-17",
-      "time": "06:26",
-      "publishedAt": "2026-07-17T06:26:12.000Z",
-      "url": "https://www.sammobile.com/news/samsungs-mobile-division-may-be-in-loss-right-now/",
-      "image": "",
-      "summary": "While Samsung Electronics expects record-breaking profits for the second quarter of this year, its mobile division, Samsung MX, may report a loss. The potential loss is reportedly…",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
       ]
     },
     {
@@ -659,6 +699,146 @@ window.phoneRadarAuto = {
         "iPhone",
         "官方",
         "自动抓取"
+      ]
+    },
+    {
+      "id": "newsnow-25ec4c46c86b",
+      "title": "我的出行好伙伴，用 iPhone 一站式解决旅途痛点",
+      "source": "少数派热榜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-07-17",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://sspai.com/post/112044",
+      "image": "",
+      "summary": "我的出行好伙伴，用 iPhone 一站式解决旅途痛点",
+      "tags": [
+        "iPhone",
+        "评测",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-cf3fb93e2998",
+      "title": "iPhone Air 当主力机用了三个多月后，我为什么还是换不掉它",
+      "source": "少数派热榜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-07-17",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://sspai.com/post/111113",
+      "image": "",
+      "summary": "iPhone Air 当主力机用了三个多月后，我为什么还是换不掉它",
+      "tags": [
+        "iPhone",
+        "评测",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-033e0fb648b5",
+      "title": "快捷指令｜让 iPhone 用上锤子的「大爆炸」",
+      "source": "少数派热榜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-07-17",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://sspai.com/post/111405",
+      "image": "",
+      "summary": "快捷指令｜让 iPhone 用上锤子的「大爆炸」",
+      "tags": [
+        "iPhone",
+        "评测",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-2a61510d5126",
+      "title": "谁不喜欢用手机的时候来个急头白脸的卡死呢，坐等害怕os4重构底层[喷] #HyperOS3#",
+      "source": "酷安热榜",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-07-17",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/72807401",
+      "image": "",
+      "summary": "谁不喜欢用手机的时候来个急头白脸的卡死呢，坐等害怕os4重构底层[喷] #HyperOS3#",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-7e0421021ebe",
+      "title": "mate80promax还是小米17promax或者17max？纠结好久了兄弟们，给个意见吧。",
+      "source": "酷安热榜",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-07-17",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/72807562",
+      "image": "",
+      "summary": "mate80promax还是小米17promax或者17max？纠结好久了兄弟们，给个意见吧。",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-d30c1e23815b",
+      "title": "如何看待戴尔外星人 R10 主机新版 BIOS 疑似「静默启用」 AMD PSB 绑定用户 CPU？",
+      "source": "知乎热榜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "市场报告",
+      "trust": "媒体汇总",
+      "date": "2026-07-17",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.zhihu.com/question/2061347069571477599",
+      "image": "",
+      "summary": "如何看待戴尔外星人 R10 主机新版 BIOS 疑似「静默启用」 AMD PSB 绑定用户 CPU？",
+      "tags": [
+        "iPhone",
+        "市场报告",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-f91175ad9573",
+      "title": "全球首款机器人手机亮相引老外围观",
+      "source": "百度热搜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-17",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.baidu.com/s?wd=%E5%85%A8%E7%90%83%E9%A6%96%E6%AC%BE%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%89%8B%E6%9C%BA%E4%BA%AE%E7%9B%B8%E5%BC%95%E8%80%81%E5%A4%96%E5%9B%B4%E8%A7%82",
+      "image": "",
+      "summary": "全球首款机器人手机亮相引老外围观",
+      "tags": [
+        "行业",
+        "爆料",
+        "NewsNow"
       ]
     },
     {

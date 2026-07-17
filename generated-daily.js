@@ -1,11 +1,11 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-07-17T14:01:52.924Z",
+  "updatedAt": "2026-07-17T15:38:32.418Z",
   "issueDate": "2026-07-17",
   "issue": "VOL.260717",
   "title": "手机情报日报",
-  "intro": "今日筛出 13 条重点，其中 8 条是重点爆料，包含 3 条 iPhone 相关、1 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 14 条重点，其中 8 条是重点爆料，包含 3 条 iPhone 相关、1 条官方确认、0 条参数线索。",
   "stats": {
-    "total": 13,
+    "total": 14,
     "iphone": 3,
     "leaks": 8,
     "official": 1,
@@ -41,6 +41,30 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
+          "id": "auto-f139fd291420",
+          "title": "某厂 2 亿长焦测试方案曝光，预计为 vivo X500 Ultra",
+          "originalTitle": "",
+          "source": "IT之家",
+          "brand": "vivo",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-07-17",
+          "time": "14:16",
+          "publishedAt": "2026-07-17T14:16:36.000Z",
+          "url": "https://www.ithome.com/0/978/310.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/7/0fc4de6f-4791-43dc-9b3e-d7cd393f3f0c.png?x-bce-process=image/format,f_auto",
+          "verdict": "先看",
+          "takeaway": "IT之家 7 月 17 日消息，博主 @数码闲聊站 今日曝光某厂 2 亿长焦测试方案，分为激进路线和均衡路线。结合该博主此前的爆料习惯，该机预计为 vivo X500 Ultra。 200Mp 1/1.12\" 200Mp 1/1.3\" 200Mp 1/1.4\" IT之家注意到，该博主昨日还曝光某厂 2nm 骁龙迭代超大杯主摄信息，同样被认为是 vivo X…",
+          "detail": "IT之家 7 月 17 日消息，博主 @数码闲聊站 今日曝光某厂 2 亿长焦测试方案，分为激进路线和均衡路线。结合该博主此前的爆料习惯，该机预计为 vivo X500 Ultra。 200Mp 1/1.12\" 200Mp 1/1.3\" 200Mp 1/1.4\" IT之家注意到，该博主昨日还曝光某厂 2nm 骁龙迭代超大杯主摄信息，同样被认为是 vivo X…",
+          "keyPoints": [
+            "影像硬件",
+            "爆料来源"
+          ],
+          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
           "id": "auto-c6fd1da382a1",
           "title": "影石旗舰系列产品入驻荣耀门店：首批 44 家门店，年底前进驻 300 家",
           "originalTitle": "",
@@ -58,76 +82,6 @@ window.phoneRadarDaily = {
           "detail": "IT之家 7 月 17 日消息，荣耀手机今日官宣荣耀影像生态再添新伙伴，即日起，影石旗舰系列产品正式入驻荣耀门店， 首批 44 家门店将陆续上新影石产品 。覆盖北京、深圳、山东、河北、上海等区域的核心商圈，计划于今年年底前进驻 300 家荣耀门店。 荣耀官方称，此次合作是荣耀智能影像赛道的又一重磅布局，也是 2026 年荣耀阿尔法战略落地的重要一步。我们将…",
           "keyPoints": [
             "影像硬件"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "auto-389c05dcc3e1",
-          "title": "消息称华为 Pura X 手机目前销量 154W±，阔折叠 Pura X Max 销量 58W± 均超预期",
-          "originalTitle": "",
-          "source": "IT之家",
-          "brand": "Huawei",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-07-17",
-          "time": "08:22",
-          "publishedAt": "2026-07-17T08:22:20.000Z",
-          "url": "https://www.ithome.com/0/978/151.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/7/3be022ef-2aa7-4e3f-a969-5023e588a72a.jpg",
-          "verdict": "先看",
-          "takeaway": "IT之家 7 月 17 日消息，博主 @数码闲聊站 今日透露，华为 Pura X 目前销量 154W±，Pura X Max 销量 58W±， 均超预期 。 此外，对于评论区“明年会有安卓厂商跟进小阔折叠吗”的问题，博主称暂时没有， 最多只会跟大阔折 。 据IT之家此前报道， 华为 Pura X 手机发布于去年 3 月 ，搭载 3.5 英寸 1:1 比例外…",
-          "detail": "IT之家 7 月 17 日消息，博主 @数码闲聊站 今日透露，华为 Pura X 目前销量 154W±，Pura X Max 销量 58W±， 均超预期 。 此外，对于评论区“明年会有安卓厂商跟进小阔折叠吗”的问题，博主称暂时没有， 最多只会跟大阔折 。 据IT之家此前报道， 华为 Pura X 手机发布于去年 3 月 ，搭载 3.5 英寸 1:1 比例外…",
-          "keyPoints": [
-            "爆料来源"
-          ],
-          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "auto-0b5e942d20ae",
-          "title": "iQOO Z11 Lite 手机海外公布：120Hz 水滴屏、天玑 6300 芯片，7 月 24 日发布",
-          "originalTitle": "",
-          "source": "IT之家",
-          "brand": "vivo",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-07-17",
-          "time": "08:12",
-          "publishedAt": "2026-07-17T08:12:28.000Z",
-          "url": "https://www.ithome.com/0/978/142.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/7/75548736-22d6-45ec-89f5-38625789643a.jpg?x-bce-process=image/format,f_auto",
-          "verdict": "先看",
-          "takeaway": "IT之家 7 月 17 日消息，iQOO 现已在印度市场公布 Z11 Lite 手机，新机定位中低端，7 月 24 日发布， 售价将低于 20000 卢比（IT之家注：现汇率约合 1407 元人民币） 。 据介绍，这款手机将配备一块水滴屏，支持 120Hz 高刷，峰值亮度可达 1200nits。机身背面的主摄是 5000 万像素，最高可选 6GB 内存和…",
-          "detail": "IT之家 7 月 17 日消息，iQOO 现已在印度市场公布 Z11 Lite 手机，新机定位中低端，7 月 24 日发布， 售价将低于 20000 卢比（IT之家注：现汇率约合 1407 元人民币） 。 据介绍，这款手机将配备一块水滴屏，支持 120Hz 高刷，峰值亮度可达 1200nits。机身背面的主摄是 5000 万像素，最高可选 6GB 内存和…",
-          "keyPoints": [
-            "芯片 / 性能",
-            "成本 / 价格"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "auto-c75e0e3f038b",
-          "title": "小米 Poco X8 手机曝光，预计为 REDMI Note 17 Pro 换壳机型",
-          "originalTitle": "",
-          "source": "IT之家",
-          "brand": "Xiaomi",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-07-17",
-          "time": "08:07",
-          "publishedAt": "2026-07-17T08:07:56.000Z",
-          "url": "https://www.ithome.com/0/978/133.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/7/bfbce61c-531d-4d54-8488-342431e756ec.png?x-bce-process=image/format,f_auto",
-          "verdict": "先看",
-          "takeaway": "IT之家 7 月 17 日消息，据科技媒体 GizChina 今天报道，小米 Poco X8 手机现已出现在澎湃 HyperOS 的代码库中。 IT之家在此援引 GizChina，这款手机将配备 5000 万像素主摄 +200 万像素景深镜头， 与 REDMI Note 17 Pro 中国版相同 ， 预计为 REDMI Note 17 Pro 国内版换壳…",
-          "detail": "IT之家 7 月 17 日消息，据科技媒体 GizChina 今天报道，小米 Poco X8 手机现已出现在澎湃 HyperOS 的代码库中。 IT之家在此援引 GizChina，这款手机将配备 5000 万像素主摄 +200 万像素景深镜头， 与 REDMI Note 17 Pro 中国版相同 ， 预计为 REDMI Note 17 Pro 国内版换壳…",
-          "keyPoints": [
-            "爆料"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
@@ -205,6 +159,54 @@ window.phoneRadarDaily = {
           "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "weibo-4a9f23cd5c92",
+          "title": "数码闲聊站：母系迭代新旗舰，目前摸到的工程机ID： 左上角方形Deco、左上角大圆Deco…",
+          "originalTitle": "",
+          "source": "数码闲聊站",
+          "brand": "行业",
+          "type": "爆料",
+          "trust": "高关注爆料源",
+          "date": "2026-07-17",
+          "time": "05:36",
+          "publishedAt": "2026-07-17T05:36:00.000Z",
+          "url": "https://weibo.com/6048569942/R95wJFEXd",
+          "image": "",
+          "verdict": "先看",
+          "takeaway": "母系迭代新旗舰，目前摸到的工程机ID： 左上角方形Deco、左上角大圆Deco、左上角小矩阵Deco、横向大矩阵背屏Deco、居中大圆Deco…… Tips：正面都是大R角直屏，部分系列有两种Deco设计",
+          "detail": "母系迭代新旗舰，目前摸到的工程机ID： 左上角方形Deco、左上角大圆Deco、左上角小矩阵Deco、横向大矩阵背屏Deco、居中大圆Deco…… Tips：正面都是大R角直屏，部分系列有两种Deco设计",
+          "keyPoints": [
+            "屏幕形态",
+            "爆料来源"
+          ],
+          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "weibo-2c2491d24120",
+          "title": "数码闲聊站：目前超大杯的影像方案还没定，长焦测试物料有200Mp 1/1.12\"、200M…",
+          "originalTitle": "",
+          "source": "数码闲聊站",
+          "brand": "行业",
+          "type": "爆料",
+          "trust": "高关注爆料源",
+          "date": "2026-07-17",
+          "time": "01:10",
+          "publishedAt": "2026-07-17T01:10:29.000Z",
+          "url": "https://weibo.com/6048569942/R93MXDy1f",
+          "image": "",
+          "verdict": "先看",
+          "takeaway": "目前超大杯的影像方案还没定，长焦测试物料有200Mp 1/1.12\"、200Mp 1/1.3\"、200Mp 1/1.4\"，长焦走激进路线就是第一个，均衡路线就是后面俩二选一……[笑哈哈]",
+          "detail": "目前超大杯的影像方案还没定，长焦测试物料有200Mp 1/1.12\"、200Mp 1/1.3\"、200Mp 1/1.4\"，长焦走激进路线就是第一个，均衡路线就是后面俩二选一……[笑哈哈]",
+          "keyPoints": [
+            "影像硬件",
+            "爆料来源"
+          ],
+          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         }
       ]
     },
@@ -237,26 +239,26 @@ window.phoneRadarDaily = {
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         },
         {
-          "id": "auto-fa86f053afc8",
-          "title": "iPhone 相关消息",
+          "id": "newsnow-d30c1e23815b",
+          "title": "如何看待戴尔外星人 R10 主机新版 BIOS 疑似「静默启用」 AMD PSB 绑定用户 CPU？",
           "originalTitle": "",
-          "source": "9to5Mac",
+          "source": "知乎热榜",
           "brand": "iPhone",
-          "type": "爆料",
+          "type": "市场报告",
           "trust": "媒体汇总",
-          "date": "2026-07-16",
-          "time": "13:26",
-          "publishedAt": "2026-07-16T13:26:05.000Z",
-          "url": "https://9to5mac.com/2026/07/16/whatsapp-adds-in-call-controls-for-voice-isolation-and-wide-spectrum-on-iphone/",
-          "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/11/whatsapp-ios-26.jpg?quality=82&strip=all&w=1600",
+          "date": "2026-07-17",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://www.zhihu.com/question/2061347069571477599",
+          "image": "",
           "verdict": "扫一眼",
-          "takeaway": "iPhone 相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
-          "detail": "iPhone 相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
+          "takeaway": "如何看待戴尔外星人 R10 主机新版 BIOS 疑似「静默启用」 AMD PSB 绑定用户 CPU？",
+          "detail": "如何看待戴尔外星人 R10 主机新版 BIOS 疑似「静默启用」 AMD PSB 绑定用户 CPU？",
           "keyPoints": [
-            "爆料"
+            "市场报告"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "impact": "目前更像背景信息，对买手机影响不大。",
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         }
       ]
@@ -297,6 +299,29 @@ window.phoneRadarDaily = {
       "hint": "看方向，不急着当购买依据。",
       "items": [
         {
+          "id": "newsnow-2a61510d5126",
+          "title": "谁不喜欢用手机的时候来个急头白脸的卡死呢，坐等害怕os4重构底层[喷] #HyperOS3#",
+          "originalTitle": "",
+          "source": "酷安热榜",
+          "brand": "Xiaomi",
+          "type": "爆料",
+          "trust": "高关注爆料源",
+          "date": "2026-07-17",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://www.coolapk.com/feed/72807401",
+          "image": "",
+          "verdict": "先看",
+          "takeaway": "谁不喜欢用手机的时候来个急头白脸的卡死呢，坐等害怕os4重构底层[喷] #HyperOS3#",
+          "detail": "谁不喜欢用手机的时候来个急头白脸的卡死呢，坐等害怕os4重构底层[喷] #HyperOS3#",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        },
+        {
           "id": "coolapk-user-6f5b0bdc99cf",
           "title": "JSCHEN小小狐：影石 Insta360 系列产品正式入驻荣耀门店",
           "originalTitle": "",
@@ -320,25 +345,25 @@ window.phoneRadarDaily = {
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         },
         {
-          "id": "coolapk-user-17bf5f1d364c",
-          "title": "JSCHEN小小狐：vivo X500 Ultra 主摄选型曝光：双方案测试",
+          "id": "newsnow-7e0421021ebe",
+          "title": "mate80promax还是小米17promax或者17max？纠结好久了兄弟们，给个意见吧。",
           "originalTitle": "",
-          "source": "JSCHEN小小狐",
-          "brand": "vivo",
+          "source": "酷安热榜",
+          "brand": "Xiaomi",
           "type": "爆料",
-          "trust": "高可信爆料",
-          "date": "2026-07-16",
-          "time": "01:54",
-          "publishedAt": "2026-07-16T01:54:56.000Z",
-          "url": "https://www.coolapk.com/feed/72801360",
-          "image": "http://image.coolapk.com/feed/2026/0716/09/4702274_68dc9ecc_6895_3972_66@1440x503.jpg",
+          "trust": "高关注爆料源",
+          "date": "2026-07-17",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://www.coolapk.com/feed/72807562",
+          "image": "",
           "verdict": "扫一眼",
-          "takeaway": "『vivo X500 Ultra 主摄选型曝光：双方案测试』 方案一： ◇ 50Mp 1/1.28\" 35mm LOFIC ◇ 光学防抖角度最大的微云台镜组 方案二： ◇ 200Mp 1/1.12\" 35mm LOFIC ◇ 常规 OIS 光学防抖镜组 #今日热点# #vivoX500Ultra# #VIVOX500#",
-          "detail": "『vivo X500 Ultra 主摄选型曝光：双方案测试』 方案一： ◇ 50Mp 1/1.28\" 35mm LOFIC ◇ 光学防抖角度最大的微云台镜组 方案二： ◇ 200Mp 1/1.12\" 35mm LOFIC ◇ 常规 OIS 光学防抖镜组 #今日热点# #vivoX500Ultra# #VIVOX500#",
+          "takeaway": "mate80promax还是小米17promax或者17max？纠结好久了兄弟们，给个意见吧。",
+          "detail": "mate80promax还是小米17promax或者17max？纠结好久了兄弟们，给个意见吧。",
           "keyPoints": [
             "爆料"
           ],
-          "confidence": "可信度较高，但仍属于发布前线索。",
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         }
