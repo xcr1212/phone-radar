@@ -1,6 +1,66 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-07-17T15:38:32.418Z",
+  "updatedAt": "2026-07-17T17:30:10.523Z",
   "news": [
+    {
+      "id": "auto-1b3ecb5a7839",
+      "title": "WhatsApp starts activating reserved usernames for select iPhone users",
+      "source": "9to5Mac",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-17",
+      "time": "16:11",
+      "publishedAt": "2026-07-17T16:11:56.000Z",
+      "url": "https://9to5mac.com/2026/07/17/whatsapp-starts-activating-reserved-usernames-for-select-iphone-users/",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/11/whatsapp-02.jpg?quality=82&strip=all&w=1600",
+      "summary": "After rolling out a username reservation system a few days ago, WhatsApp is now beginning to activate the full feature for a limited number of users. Here are the details.",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-f808246810a6",
+      "title": "Samsung’s redesigned Z Fold 8 with a wide display just leaked",
+      "source": "The Verge",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-17",
+      "time": "15:52",
+      "publishedAt": "2026-07-17T15:52:50.000Z",
+      "url": "https://www.theverge.com/tech/967198/samsung-galaxy-z-fold-8-images-specs-leak",
+      "image": "",
+      "summary": "Leaker Evan Blass shared images of Samsung's redesigned Galaxy Z Fold 8 just days before the July 22nd launch event where Samsung is expected to officially announce the phone. The…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-f42889c7c0d7",
+      "title": "Motorola Edge 70 Max vs Motorola Signature: Which Snapdragon 8 Gen 5 flagship should you buy?",
+      "source": "Gizmochina",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-17",
+      "time": "15:38",
+      "publishedAt": "2026-07-17T15:38:53.000Z",
+      "url": "https://www.gizmochina.com/2026/07/17/motorola-edge-70-max-vs-signature-comparison/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/07/Motorola-Edge-70-Max-vs-Motorola-Signature-300x182.png?x92417",
+      "summary": "Motorola recently unveiled the Edge 70 Max, the top model in the Edge 70 series, which also includes the Edge 70 Fusion, Edge 70, Edge 70 Pro, and Edge 70 Pro+. Powered by the Sna…",
+      "tags": [
+        "行业",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-59210dd61133",
       "title": "Bethesda teases Fallout 5 soon after Xbox’s mass layoffs",
@@ -73,10 +133,30 @@ window.phoneRadarAuto = {
       "time": "15:09",
       "publishedAt": "2026-07-17T15:09:43.000Z",
       "url": "https://www.sammobile.com/news/galaxy-z-fold-8-ultra-press-renders-leak-specs-features/",
-      "image": "https://www.sammobile.com/wp-content/uploads/2026/07/Samsung-Galaxy-Z-Fold-8-Ultra-Cover-Display-Gorilla-Glass.jpeg",
+      "image": "https://www.sammobile.com/wp-content/uploads/2026/07/Samsung-Galaxy-Z-Fold-8-Ultra-Cameras.jpeg",
       "summary": "Just one week ahead of the Galaxy Z Fold 8 Ultra's official announcement, press renders of the phone have been leaked by Evan Blass (@evleaks) via their Substack newsletter. While…",
       "tags": [
         "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-b63d09b1185a",
+      "title": "iPhone Loyalty Rate Climbs to 87% as Switching to Android Slows",
+      "source": "MacRumors",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-17",
+      "time": "14:30",
+      "publishedAt": "2026-07-17T14:30:03.000Z",
+      "url": "https://www.macrumors.com/2026/07/17/iphone-loyalty-rate-climbs-to-87/",
+      "image": "https://images.macrumors.com/article-new/2025/09/iphone-17-pro-silver.jpg",
+      "summary": "iPhone owners are sticking with the platform at a higher rate than a year ago, with new research firm CIRP putting iPhone loyalty at 87% for the first quarter of 2026. CIRP's late…",
+      "tags": [
+        "iPhone",
         "爆料",
         "自动抓取"
       ]
@@ -777,66 +857,6 @@ window.phoneRadarAuto = {
       "summary": "谁不喜欢用手机的时候来个急头白脸的卡死呢，坐等害怕os4重构底层[喷] #HyperOS3#",
       "tags": [
         "Xiaomi",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-7e0421021ebe",
-      "title": "mate80promax还是小米17promax或者17max？纠结好久了兄弟们，给个意见吧。",
-      "source": "酷安热榜",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-07-17",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72807562",
-      "image": "",
-      "summary": "mate80promax还是小米17promax或者17max？纠结好久了兄弟们，给个意见吧。",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-d30c1e23815b",
-      "title": "如何看待戴尔外星人 R10 主机新版 BIOS 疑似「静默启用」 AMD PSB 绑定用户 CPU？",
-      "source": "知乎热榜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "市场报告",
-      "trust": "媒体汇总",
-      "date": "2026-07-17",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.zhihu.com/question/2061347069571477599",
-      "image": "",
-      "summary": "如何看待戴尔外星人 R10 主机新版 BIOS 疑似「静默启用」 AMD PSB 绑定用户 CPU？",
-      "tags": [
-        "iPhone",
-        "市场报告",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-f91175ad9573",
-      "title": "全球首款机器人手机亮相引老外围观",
-      "source": "百度热搜",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-17",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.baidu.com/s?wd=%E5%85%A8%E7%90%83%E9%A6%96%E6%AC%BE%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%89%8B%E6%9C%BA%E4%BA%AE%E7%9B%B8%E5%BC%95%E8%80%81%E5%A4%96%E5%9B%B4%E8%A7%82",
-      "image": "",
-      "summary": "全球首款机器人手机亮相引老外围观",
-      "tags": [
-        "行业",
         "爆料",
         "NewsNow"
       ]

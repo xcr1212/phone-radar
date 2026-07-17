@@ -1,14 +1,14 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-07-17T15:38:32.418Z",
+  "updatedAt": "2026-07-17T17:30:10.523Z",
   "issueDate": "2026-07-17",
   "issue": "VOL.260717",
   "title": "手机情报日报",
-  "intro": "今日筛出 14 条重点，其中 8 条是重点爆料，包含 3 条 iPhone 相关、1 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 13 条重点，其中 8 条是重点爆料，包含 4 条 iPhone 相关、0 条官方确认、0 条参数线索。",
   "stats": {
-    "total": 14,
-    "iphone": 3,
+    "total": 13,
+    "iphone": 4,
     "leaks": 8,
-    "official": 1,
+    "official": 0,
     "specs": 0
   },
   "sections": [
@@ -17,6 +17,29 @@ window.phoneRadarDaily = {
       "title": "重点爆料",
       "hint": "机模、配色、影像、屏幕、电池和芯片线索先看。",
       "items": [
+        {
+          "id": "auto-b63d09b1185a",
+          "title": "iPhone 系统功能 / AI 体验相关消息",
+          "originalTitle": "",
+          "source": "MacRumors",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-07-17",
+          "time": "14:30",
+          "publishedAt": "2026-07-17T14:30:03.000Z",
+          "url": "https://www.macrumors.com/2026/07/17/iphone-loyalty-rate-climbs-to-87/",
+          "image": "https://images.macrumors.com/article-new/2025/09/iphone-17-pro-silver.jpg",
+          "verdict": "先看",
+          "takeaway": "iPhone 系统功能 / AI 体验相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
+          "detail": "iPhone 系统功能 / AI 体验相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
         {
           "id": "auto-6e6853ddec5e",
           "title": "iPhone 折叠屏相关消息",
@@ -183,30 +206,6 @@ window.phoneRadarDaily = {
           "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "weibo-2c2491d24120",
-          "title": "数码闲聊站：目前超大杯的影像方案还没定，长焦测试物料有200Mp 1/1.12\"、200M…",
-          "originalTitle": "",
-          "source": "数码闲聊站",
-          "brand": "行业",
-          "type": "爆料",
-          "trust": "高关注爆料源",
-          "date": "2026-07-17",
-          "time": "01:10",
-          "publishedAt": "2026-07-17T01:10:29.000Z",
-          "url": "https://weibo.com/6048569942/R93MXDy1f",
-          "image": "",
-          "verdict": "先看",
-          "takeaway": "目前超大杯的影像方案还没定，长焦测试物料有200Mp 1/1.12\"、200Mp 1/1.3\"、200Mp 1/1.4\"，长焦走激进路线就是第一个，均衡路线就是后面俩二选一……[笑哈哈]",
-          "detail": "目前超大杯的影像方案还没定，长焦测试物料有200Mp 1/1.12\"、200Mp 1/1.3\"、200Mp 1/1.4\"，长焦走激进路线就是第一个，均衡路线就是后面俩二选一……[笑哈哈]",
-          "keyPoints": [
-            "影像硬件",
-            "爆料来源"
-          ],
-          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         }
       ]
     },
@@ -216,49 +215,49 @@ window.phoneRadarDaily = {
       "hint": "不是硬件爆料，但和 iPhone 体验或路线有关。",
       "items": [
         {
-          "id": "auto-9bbf43c61c96",
-          "title": "iPhone 系统功能 / AI 体验相关消息",
+          "id": "auto-1b3ecb5a7839",
+          "title": "iPhone 相关消息",
           "originalTitle": "",
-          "source": "Apple Newsroom",
+          "source": "9to5Mac",
           "brand": "iPhone",
-          "type": "官方",
-          "trust": "官方确认",
+          "type": "爆料",
+          "trust": "媒体汇总",
           "date": "2026-07-17",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://www.apple.com/newsroom/2026/06/apple-announces-changes-to-ios-in-brazil/",
-          "image": "",
-          "verdict": "先看",
-          "takeaway": "iPhone 系统功能 / AI 体验相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
-          "detail": "iPhone 系统功能 / AI 体验相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
+          "time": "16:11",
+          "publishedAt": "2026-07-17T16:11:56.000Z",
+          "url": "https://9to5mac.com/2026/07/17/whatsapp-starts-activating-reserved-usernames-for-select-iphone-users/",
+          "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/11/whatsapp-02.jpg?quality=82&strip=all&w=1600",
+          "verdict": "扫一眼",
+          "takeaway": "iPhone 相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
+          "detail": "iPhone 相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
           "keyPoints": [
-            "官方"
+            "爆料"
           ],
-          "confidence": "官方内容，可直接作为已确认信息记录。",
-          "impact": "可信度高，但如果不是配置/价格消息，只需要扫一眼。",
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         },
         {
-          "id": "newsnow-d30c1e23815b",
-          "title": "如何看待戴尔外星人 R10 主机新版 BIOS 疑似「静默启用」 AMD PSB 绑定用户 CPU？",
+          "id": "newsnow-25ec4c46c86b",
+          "title": "我的出行好伙伴，用 iPhone 一站式解决旅途痛点",
           "originalTitle": "",
-          "source": "知乎热榜",
+          "source": "少数派热榜",
           "brand": "iPhone",
-          "type": "市场报告",
+          "type": "评测",
           "trust": "媒体汇总",
           "date": "2026-07-17",
           "time": "",
           "publishedAt": "",
-          "url": "https://www.zhihu.com/question/2061347069571477599",
+          "url": "https://sspai.com/post/112044",
           "image": "",
           "verdict": "扫一眼",
-          "takeaway": "如何看待戴尔外星人 R10 主机新版 BIOS 疑似「静默启用」 AMD PSB 绑定用户 CPU？",
-          "detail": "如何看待戴尔外星人 R10 主机新版 BIOS 疑似「静默启用」 AMD PSB 绑定用户 CPU？",
+          "takeaway": "我的出行好伙伴，用 iPhone 一站式解决旅途痛点",
+          "detail": "我的出行好伙伴，用 iPhone 一站式解决旅途痛点",
           "keyPoints": [
-            "市场报告"
+            "评测"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "目前更像背景信息，对买手机影响不大。",
+          "impact": "这是实际体验内容，买前适合重点看缺点和取舍。",
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         }
       ]
@@ -341,29 +340,6 @@ window.phoneRadarDaily = {
             "爆料"
           ],
           "confidence": "可信度较高，但仍属于发布前线索。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
-        {
-          "id": "newsnow-7e0421021ebe",
-          "title": "mate80promax还是小米17promax或者17max？纠结好久了兄弟们，给个意见吧。",
-          "originalTitle": "",
-          "source": "酷安热榜",
-          "brand": "Xiaomi",
-          "type": "爆料",
-          "trust": "高关注爆料源",
-          "date": "2026-07-17",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://www.coolapk.com/feed/72807562",
-          "image": "",
-          "verdict": "扫一眼",
-          "takeaway": "mate80promax还是小米17promax或者17max？纠结好久了兄弟们，给个意见吧。",
-          "detail": "mate80promax还是小米17promax或者17max？纠结好久了兄弟们，给个意见吧。",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         }
