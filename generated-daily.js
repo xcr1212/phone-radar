@@ -1,14 +1,14 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-07-17T10:11:02.253Z",
+  "updatedAt": "2026-07-17T11:39:51.803Z",
   "issueDate": "2026-07-17",
   "issue": "VOL.260717",
   "title": "手机情报日报",
-  "intro": "今日筛出 8 条重点，其中 8 条是重点爆料，包含 3 条 iPhone 相关、0 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 10 条重点，其中 8 条是重点爆料，包含 3 条 iPhone 相关、1 条官方确认、0 条参数线索。",
   "stats": {
-    "total": 8,
+    "total": 10,
     "iphone": 3,
     "leaks": 8,
-    "official": 0,
+    "official": 1,
     "specs": 0
   },
   "sections": [
@@ -18,30 +18,6 @@ window.phoneRadarDaily = {
       "hint": "机模、配色、影像、屏幕、电池和芯片线索先看。",
       "items": [
         {
-          "id": "auto-bb482422f059",
-          "title": "苹果 iPhone 18 Pro Max 影像规格再曝：可变光圈，主摄索尼 IMX905 传感器",
-          "originalTitle": "",
-          "source": "IT之家",
-          "brand": "iPhone",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-07-17",
-          "time": "06:45",
-          "publishedAt": "2026-07-17T06:45:27.000Z",
-          "url": "https://www.ithome.com/0/978/046.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/7/a8553afa-4653-4afa-a4f8-d51d778d67b1.png?x-bce-process=image/format,f_auto",
-          "verdict": "先看",
-          "takeaway": "IT之家 7 月 17 日消息，科技媒体 NotebookCheck 今天（7 月 17 日）发布博文，披露了一份内部诊断日志文件， 再次透露苹果 iPhone 18 Pro Max 的影像规格。 报道指出该诊断日志文件源于 6 月勒索软件组织 World Leaks 泄露的印度塔塔电子内部文件， 校准模块确认了 iPhone 18 Pro Max 支持可…",
-          "detail": "IT之家 7 月 17 日消息，科技媒体 NotebookCheck 今天（7 月 17 日）发布博文，披露了一份内部诊断日志文件， 再次透露苹果 iPhone 18 Pro Max 的影像规格。 报道指出该诊断日志文件源于 6 月勒索软件组织 World Leaks 泄露的印度塔塔电子内部文件， 校准模块确认了 iPhone 18 Pro Max 支持可…",
-          "keyPoints": [
-            "影像硬件",
-            "爆料来源"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
           "id": "auto-3a13c9e176d3",
           "title": "iPhone 相关消息",
           "originalTitle": "",
@@ -50,8 +26,8 @@ window.phoneRadarDaily = {
           "type": "爆料",
           "trust": "媒体汇总",
           "date": "2026-07-17",
-          "time": "07:10",
-          "publishedAt": "2026-07-17T07:10:59.000Z",
+          "time": "08:39",
+          "publishedAt": "2026-07-17T08:39:01.000Z",
           "url": "https://www.macrumors.com/2026/07/15/apple-carrier-iphone-financing/",
           "image": "https://images.macrumors.com/article-new/2025/11/iphone-17-cyber.jpg",
           "verdict": "先看",
@@ -204,6 +180,90 @@ window.phoneRadarDaily = {
           "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "coolapk-user-606373eaee17",
+          "title": "竹本青：【OPPO K15 官宣7月24日开售：天玑7360 SUPER，主动散热风扇，8000mAh电池】 ▫️天玑73…",
+          "originalTitle": "",
+          "source": "竹本青",
+          "brand": "OPPO",
+          "type": "爆料",
+          "trust": "高可信爆料",
+          "date": "2026-07-17",
+          "time": "03:23",
+          "publishedAt": "2026-07-17T03:23:04.000Z",
+          "url": "https://www.coolapk.com/feed/72816846",
+          "image": "http://image.coolapk.com/feed/2026/0717/11/4248714_285cd896_8583_851_691@1440x1440.jpg",
+          "verdict": "先看",
+          "takeaway": "【OPPO K15 官宣7月24日开售：天玑7360 SUPER，主动散热风扇，8000mAh电池】 ▫️天玑7360 SUPER+潮汐引擎 ▫️6.59英寸1.5K OLED屏 ▫️新一代疾风散热引擎 ▫️8000mAh电池+80W有线 ▫️IP69防尘防水｜RGB呼吸灯 ▫️前后5000万像素三摄 ▫️红外遥控｜山海通信｜屏下指纹 ▫️158.3×75…",
+          "detail": "【OPPO K15 官宣7月24日开售：天玑7360 SUPER，主动散热风扇，8000mAh电池】 ▫️天玑7360 SUPER+潮汐引擎 ▫️6.59英寸1.5K OLED屏 ▫️新一代疾风散热引擎 ▫️8000mAh电池+80W有线 ▫️IP69防尘防水｜RGB呼吸灯 ▫️前后5000万像素三摄 ▫️红外遥控｜山海通信｜屏下指纹 ▫️158.3×75…",
+          "keyPoints": [
+            "屏幕形态",
+            "电池 / 充电"
+          ],
+          "confidence": "可信度较高，但仍属于发布前线索。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        }
+      ]
+    },
+    {
+      "id": "iphone",
+      "title": "iPhone 重点",
+      "hint": "不是硬件爆料，但和 iPhone 体验或路线有关。",
+      "items": [
+        {
+          "id": "auto-9bbf43c61c96",
+          "title": "iPhone 系统功能 / AI 体验相关消息",
+          "originalTitle": "",
+          "source": "Apple Newsroom",
+          "brand": "iPhone",
+          "type": "官方",
+          "trust": "官方确认",
+          "date": "2026-07-17",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://www.apple.com/newsroom/2026/06/apple-announces-changes-to-ios-in-brazil/",
+          "image": "",
+          "verdict": "先看",
+          "takeaway": "iPhone 系统功能 / AI 体验相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
+          "detail": "iPhone 系统功能 / AI 体验相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
+          "keyPoints": [
+            "官方"
+          ],
+          "confidence": "官方内容，可直接作为已确认信息记录。",
+          "impact": "可信度高，但如果不是配置/价格消息，只需要扫一眼。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        }
+      ]
+    },
+    {
+      "id": "market",
+      "title": "行业趋势",
+      "hint": "看方向，不急着当购买依据。",
+      "items": [
+        {
+          "id": "newsnow-2a61510d5126",
+          "title": "谁不喜欢用手机的时候来个急头白脸的卡死呢，坐等害怕os4重构底层[喷] #HyperOS3#",
+          "originalTitle": "",
+          "source": "酷安热榜",
+          "brand": "Xiaomi",
+          "type": "爆料",
+          "trust": "高关注爆料源",
+          "date": "2026-07-17",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://www.coolapk.com/feed/72807401",
+          "image": "",
+          "verdict": "先看",
+          "takeaway": "谁不喜欢用手机的时候来个急头白脸的卡死呢，坐等害怕os4重构底层[喷] #HyperOS3#",
+          "detail": "谁不喜欢用手机的时候来个急头白脸的卡死呢，坐等害怕os4重构底层[喷] #HyperOS3#",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         }
       ]
     }

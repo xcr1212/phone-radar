@@ -1,6 +1,106 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-07-17T10:11:02.253Z",
+  "updatedAt": "2026-07-17T11:39:51.803Z",
   "news": [
+    {
+      "id": "auto-2a5f7727168f",
+      "title": "Huawei takes Pura 90s Pro Max camera features to Burj Khalifa heights",
+      "source": "Huawei Central",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-17",
+      "time": "11:33",
+      "publishedAt": "2026-07-17T11:33:23.000Z",
+      "url": "https://www.huaweicentral.com/huawei-takes-pura-90s-pro-max-camera-features-to-burj-khalifa-heights/",
+      "image": "https://www.huaweicentral.com/wp-content/uploads/2026/07/Pura90s-Series.jpg",
+      "summary": "Huawei is showcasing the Pura 90s Pro Max camera features to the UAE by advertising the flagship directly on the Burj Khalifa. The company has now teased the device’s imaging capa…",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-18b29a1ae895",
+      "title": "Galaxy Z Fold 8 Ultra goes on sale before launch as Caviar’s Lionel Messi edition",
+      "source": "SamMobile",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-17",
+      "time": "10:57",
+      "publishedAt": "2026-07-17T10:57:25.000Z",
+      "url": "https://www.sammobile.com/news/galaxy-z-fold-8-ultra-goes-sale-before-launch-caviar-lionel-messi-edition/",
+      "image": "https://www.sammobile.com/wp-content/uploads/2026/07/Samsung-Galaxy-Z-Fold-8-Ultra-Caviar-Lionel-Messi-Edition-01.jpg",
+      "summary": "Samsung is expected to launch its next flagship book-style foldable smartphone, the Galaxy Z Fold 8 Ultra, on July 22, 2026. While there are still five days to go for the phone's…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-99e039f0b415",
+      "title": "Samsung shares good news regarding Galaxy S26 Ultra’s Red Tint issue",
+      "source": "Gizmochina",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-17",
+      "time": "10:54",
+      "publishedAt": "2026-07-17T10:54:49.000Z",
+      "url": "https://www.gizmochina.com/2026/07/17/samsung-shares-good-news-regarding-galaxy-s26-ultras-red-tint-issue/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/07/a-red-tint-issue-on-the-s26-ultra-display-please-check-your-v0-jnelp63ubzch1-2-300x169.jpg?x13297",
+      "summary": "Galaxy S26 Ultra owners have spotted an odd display quirk on Samsung’s latest flagship, but the company is already on it with an explanation and a fix on the way. Some users start…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-40f3ea8045ca",
+      "title": "Have a OnePlus phone? Here are 5 other Android phones you should buy right now",
+      "source": "Android Authority",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-17",
+      "time": "10:30",
+      "publishedAt": "2026-07-17T10:30:55.000Z",
+      "url": "https://www.androidauthority.com/oneplus-leaving-us-other-android-phone-alternatives-3687340/",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2026/07/OnePlus-15-surrounded-by-phones-scaled.jpg",
+      "summary": "I'm sad to see OnePlus go, but these alternatives help it sting a little less.",
+      "tags": [
+        "OPPO",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-9c34ad64f877",
+      "title": "Motorola's Edge 70 Max has a huge battery and Qi2.2—I'm more interested than I thought I'd be",
+      "source": "Android Central",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-07-17",
+      "time": "10:27",
+      "publishedAt": "2026-07-17T10:27:00.000Z",
+      "url": "https://www.androidcentral.com/phones/motorola/motorolas-edge-70-max-has-a-huge-battery-and-qi2-2-im-more-interested-than-i-thought-id-be",
+      "image": "https://cdn.mos.cms.futurecdn.net/MdaS79sxbNL6Hd4vmrmc7T-1280-80.jpg",
+      "summary": "Motorola debuted the Edge 70 Max, and its upgrades—Qi2.2 and a huge battery—are turning heads in the best way possible.",
+      "tags": [
+        "行业",
+        "评测",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-f0cc180874e2",
       "title": "Realme pauses new product development in China to focus on global markets",
@@ -162,6 +262,26 @@ window.phoneRadarAuto = {
       ]
     },
     {
+      "id": "auto-3a13c9e176d3",
+      "title": "Apple Closes Unlocked iPhone Loophole for T-Mobile and Verizon Financing",
+      "source": "MacRumors",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-17",
+      "time": "08:39",
+      "publishedAt": "2026-07-17T08:39:01.000Z",
+      "url": "https://www.macrumors.com/2026/07/15/apple-carrier-iphone-financing/",
+      "image": "https://images.macrumors.com/article-new/2025/11/iphone-17-cyber.jpg",
+      "summary": "Carrier-financed iPhones purchased from Apple will soon be locked to the carrier, ending a workaround customers used to purchase an unlocked iPhone on a payment plan. Until the ru…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
       "id": "auto-389c05dcc3e1",
       "title": "消息称华为 Pura X 手机目前销量 154W±，阔折叠 Pura X Max 销量 58W± 均超预期",
       "source": "IT之家",
@@ -259,66 +379,6 @@ window.phoneRadarAuto = {
         "Huawei",
         "爆料",
         "微博"
-      ]
-    },
-    {
-      "id": "auto-3a13c9e176d3",
-      "title": "Apple Closes Unlocked iPhone Loophole for T-Mobile and Verizon Financing",
-      "source": "MacRumors",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-17",
-      "time": "07:10",
-      "publishedAt": "2026-07-17T07:10:59.000Z",
-      "url": "https://www.macrumors.com/2026/07/15/apple-carrier-iphone-financing/",
-      "image": "https://images.macrumors.com/article-new/2025/11/iphone-17-cyber.jpg",
-      "summary": "Carrier-financed iPhones purchased from Apple will soon be locked to the carrier, ending a workaround customers used to purchase an unlocked iPhone on a payment plan. Until the ru…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-51739b32dc45",
-      "title": "诺基亚 300 4G Powerbank 手机曝光：3750mAh 电池，配强光手电筒",
-      "source": "IT之家",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-17",
-      "time": "07:04",
-      "publishedAt": "2026-07-17T07:04:58.000Z",
-      "url": "https://www.ithome.com/0/978/061.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/7/09bfc604-b179-484d-8167-a16898f66a22.png?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 7 月 17 日消息，消息源 @smashx_60 昨日（7 月 16 日）在 X 平台发布推文，报道称 HMD Global 计划推出诺基亚 300 4G Powerbank 手机， 内置 3750mAh 容量电池以及强光 LED 手电筒。 外观方面，该机整体风格接近诺基亚 235 4G，但为了增强握持感，机身底部采用斜切边角，边框加入纹理设计…",
-      "tags": [
-        "行业",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-bb482422f059",
-      "title": "苹果 iPhone 18 Pro Max 影像规格再曝：可变光圈，主摄索尼 IMX905 传感器",
-      "source": "IT之家",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-17",
-      "time": "06:45",
-      "publishedAt": "2026-07-17T06:45:27.000Z",
-      "url": "https://www.ithome.com/0/978/046.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/7/a8553afa-4653-4afa-a4f8-d51d778d67b1.png?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 7 月 17 日消息，科技媒体 NotebookCheck 今天（7 月 17 日）发布博文，披露了一份内部诊断日志文件， 再次透露苹果 iPhone 18 Pro Max 的影像规格。 报道指出该诊断日志文件源于 6 月勒索软件组织 World Leaks 泄露的印度塔塔电子内部文件， 校准模块确认了 iPhone 18 Pro Max 支持可…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
       ]
     },
     {
@@ -822,26 +882,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-4a61da2c33a0",
-      "title": "OnePlus's death is bad. Oppo's refusal to replace it is worse",
-      "source": "Android Police",
-      "brand": "OPPO",
-      "model": "OPPO 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-16",
-      "time": "14:00",
-      "publishedAt": "2026-07-16T14:00:15.000Z",
-      "url": "https://www.androidpolice.com/oneplus-death-is-bad-oppo-refusal-to-replace-it-is-worse/",
-      "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2026/07/oneplus-15-oppo-find-n6-back.JPG",
-      "summary": "It's not even worth the effort",
-      "tags": [
-        "OPPO",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-bf26a95ef272",
       "title": "The best Google Pixel 10 deals of July 2026 — free phones, straight discounts, and more",
       "source": "Android Central",
@@ -982,26 +1022,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-b97b8edaa508",
-      "title": "Huawei Pura 100 Pro Max could be first Pura phone with dual-layer OLED",
-      "source": "Huawei Central",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-16",
-      "time": "10:42",
-      "publishedAt": "2026-07-16T10:42:06.000Z",
-      "url": "https://www.huaweicentral.com/huawei-pura-100-pro-max-dual-layer-oled/",
-      "image": "https://www.huaweicentral.com/wp-content/uploads/2026/07/Pura90ProMax.jpg",
-      "summary": "Huawei is working on the 2026 Mate flagship, but the Pura 100 Pro Max has already started making space in leaks for its top-of-the-line specifications and this time, a dual-layer…",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-49431d8788bb",
       "title": "As a foldable fan, I’m worried the wide Galaxy Z Fold 8 will be a huge mistake",
       "source": "Android Authority",
@@ -1035,26 +1055,6 @@ window.phoneRadarAuto = {
       "url": "https://www.gizmochina.com/2026/07/16/huawei-expands-its-ecosystem-with-pura-90s-series-freeclip-2-s-and-matepad-air/",
       "image": "https://www.gizmochina.com/wp-content/uploads/2026/07/image-61-300x149.png?x13297",
       "summary": "Huawei has expanded its connected device ecosystem with the launch of the HUAWEI Pura 90s Series, HUAWEI FreeClip 2 S, and HUAWEI MatePad Air at its Flagship Product Global Launch…",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-a42b6a3e52d0",
-      "title": "Huawei Pura 100 series testing two screen sizes: 6.6′ and 6.9′",
-      "source": "Huawei Central",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-16",
-      "time": "09:23",
-      "publishedAt": "2026-07-16T09:23:18.000Z",
-      "url": "https://www.huaweicentral.com/huawei-pura-100-series-testing-two-screen-sizes/",
-      "image": "https://www.huaweicentral.com/wp-content/uploads/2026/07/Pura100-screen-leak.jpg",
-      "summary": "Huawei Pura 90s series reached the global market this week and it seems the company has already started preparing the next-gen camera flagship. A new leak is here, shedding light…",
       "tags": [
         "Huawei",
         "爆料",
