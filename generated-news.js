@@ -1,6 +1,66 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-07-17T19:31:29.468Z",
+  "updatedAt": "2026-07-17T21:07:09.256Z",
   "news": [
+    {
+      "id": "auto-3914908b812f",
+      "title": "Got money to burn? Check out this Messi-themed Galaxy Z Fold 8 Ultra",
+      "source": "Android Authority",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-17",
+      "time": "20:56",
+      "publishedAt": "2026-07-17T20:56:59.000Z",
+      "url": "https://www.androidauthority.com/messi-themed-galaxy-z-fold-8-ultra-3688966/",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2026/07/Galaxy-Z-Fold-8-Ultra-Lionel-Messi-edition.jpg",
+      "summary": "Only 19 people will own this Messi-themed Galaxy Z Fold 8 Ultra.",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-c9854aef3a61",
+      "title": "Apple increases iPhone prices in Japan by up to 11%",
+      "source": "9to5Mac",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-17",
+      "time": "20:37",
+      "publishedAt": "2026-07-17T20:37:43.000Z",
+      "url": "https://9to5mac.com/2026/07/17/apple-increases-iphone-prices-in-japan-by-up-to-11/",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/11/iphone-air-17-pro.jpg?quality=82&strip=all&w=1600",
+      "summary": "Apple has raised iPhone prices in Japan by up to 11% today. The changes affect the iPhone 17 lineup, iPhone Air, and iPhone 16e. Here are the exact increases and the likely explan…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-362a95c68cf7",
+      "title": "Galaxy Z Fold 8 shows up on video as BTS joins Samsung’s hype train",
+      "source": "Android Authority",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-17",
+      "time": "19:42",
+      "publishedAt": "2026-07-17T19:42:39.000Z",
+      "url": "https://www.androidauthority.com/bts-member-holding-galaxy-z-fold-8-3688932/",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2026/07/Galaxy-Z-Fold-8-dummy.jpg",
+      "summary": "BTS star J-Hope was just spotted with the unreleased Galaxy Z Fold 8.",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-9474716d70e2",
       "title": "Galaxy Z Fold 8 Ultra, Fold 8, and Flip 8 images and specs leak ahead of Galaxy Unpacked",
@@ -82,6 +142,66 @@ window.phoneRadarAuto = {
       ]
     },
     {
+      "id": "auto-ef87d0e6e739",
+      "title": "Apple and DOJ Hold Early Settlement Talks in iPhone Antitrust Case",
+      "source": "MacRumors",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-17",
+      "time": "18:06",
+      "publishedAt": "2026-07-17T18:06:40.000Z",
+      "url": "https://www.macrumors.com/2026/07/17/apple-doj-antitrust-settlement/",
+      "image": "https://images.macrumors.com/article-new/2024/03/Apple-vs-DOJ-Feature.jpg",
+      "summary": "Apple is working to settle an antitrust lawsuit with the U.S. Department of Justice, reports Bloomberg . Apple has proposed several offers and is now in early settlement talks wit…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-973d6bf46848",
+      "title": "iPhone 18 Pro Launching in Two Months With These 12 New Features",
+      "source": "MacRumors",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-17",
+      "time": "18:06",
+      "publishedAt": "2026-07-17T18:06:40.000Z",
+      "url": "https://www.macrumors.com/2026/07/17/iphone-18-pro-12-rumored-features/",
+      "image": "https://images.macrumors.com/article-new/2026/02/iPhone-18-Pro-Deep-Red-Feature.jpg",
+      "summary": "It is now mid-July, and that means the iPhone 18 Pro and iPhone 18 Pro Max are now just two months away. The devices are expected to look similar to the iPhone 17 Pro and iPhone 1…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-b63d09b1185a",
+      "title": "iPhone Loyalty Rate Climbs to 87% as Switching to Android Slows",
+      "source": "MacRumors",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-17",
+      "time": "18:06",
+      "publishedAt": "2026-07-17T18:06:40.000Z",
+      "url": "https://www.macrumors.com/2026/07/17/iphone-loyalty-rate-climbs-to-87/",
+      "image": "https://images.macrumors.com/article-new/2025/09/iphone-17-pro-silver.jpg",
+      "summary": "iPhone owners are sticking with the platform at a higher rate than a year ago, with new research firm CIRP putting iPhone loyalty at 87% for the first quarter of 2026. CIRP's late…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
       "id": "auto-866960e5be9e",
       "title": "Amazon is slashing $300 OFF the Google Pixel 10 Pro ahead of the Pixel 11 launch",
       "source": "Android Central",
@@ -142,66 +262,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-ef87d0e6e739",
-      "title": "Apple and DOJ Hold Early Settlement Talks in iPhone Antitrust Case",
-      "source": "MacRumors",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-17",
-      "time": "16:31",
-      "publishedAt": "2026-07-17T16:31:11.000Z",
-      "url": "https://www.macrumors.com/2026/07/17/apple-doj-antitrust-settlement/",
-      "image": "https://images.macrumors.com/article-new/2024/03/Apple-vs-DOJ-Feature.jpg",
-      "summary": "Apple is working to settle an antitrust lawsuit with the U.S. Department of Justice, reports Bloomberg . Apple has proposed several offers and is now in early settlement talks wit…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-973d6bf46848",
-      "title": "iPhone 18 Pro Launching in Two Months With These 12 New Features",
-      "source": "MacRumors",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-17",
-      "time": "16:31",
-      "publishedAt": "2026-07-17T16:31:11.000Z",
-      "url": "https://www.macrumors.com/2026/07/17/iphone-18-pro-12-rumored-features/",
-      "image": "https://images.macrumors.com/article-new/2026/02/iPhone-18-Pro-Deep-Red-Feature.jpg",
-      "summary": "It is now mid-July, and that means the iPhone 18 Pro and iPhone 18 Pro Max are now just two months away. The devices are expected to look similar to the iPhone 17 Pro and iPhone 1…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-b63d09b1185a",
-      "title": "iPhone Loyalty Rate Climbs to 87% as Switching to Android Slows",
-      "source": "MacRumors",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-17",
-      "time": "16:31",
-      "publishedAt": "2026-07-17T16:31:11.000Z",
-      "url": "https://www.macrumors.com/2026/07/17/iphone-loyalty-rate-climbs-to-87/",
-      "image": "https://images.macrumors.com/article-new/2025/09/iphone-17-pro-silver.jpg",
-      "summary": "iPhone owners are sticking with the platform at a higher rate than a year ago, with new research firm CIRP putting iPhone loyalty at 87% for the first quarter of 2026. CIRP's late…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-1b3ecb5a7839",
       "title": "WhatsApp starts activating reserved usernames for select iPhone users",
       "source": "9to5Mac",
@@ -237,26 +297,6 @@ window.phoneRadarAuto = {
       "summary": "Motorola recently unveiled the Edge 70 Max, the top model in the Edge 70 series, which also includes the Edge 70 Fusion, Edge 70, Edge 70 Pro, and Edge 70 Pro+. Powered by the Sna…",
       "tags": [
         "行业",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-59210dd61133",
-      "title": "Bethesda teases Fallout 5 soon after Xbox’s mass layoffs",
-      "source": "The Verge",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-17",
-      "time": "15:30",
-      "publishedAt": "2026-07-17T15:30:07.000Z",
-      "url": "https://www.theverge.com/entertainment/966724/fallout-5-bethesda",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/FalloutS2FLimage3_3000.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "summary": "Xbox is currently in a \"reset\" period that includes laying off around 3,200 employees over the next year, involving deep cuts at beloved studios like id Software and Obsidian Ente…",
-      "tags": [
-        "iPhone",
         "爆料",
         "自动抓取"
       ]
