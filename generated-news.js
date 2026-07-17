@@ -1,6 +1,106 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-07-17T11:39:51.803Z",
+  "updatedAt": "2026-07-17T14:01:52.924Z",
   "news": [
+    {
+      "id": "auto-59210dd61133",
+      "title": "Bethesda teases Fallout 5 soon after Xbox’s mass layoffs",
+      "source": "The Verge",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-17",
+      "time": "14:00",
+      "publishedAt": "2026-07-17T14:00:38.000Z",
+      "url": "https://www.theverge.com/entertainment/966724/fallout-5-bethesda",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/FalloutS2FLimage3_3000.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "summary": "Xbox is currently in a \"reset\" period that includes laying off around 3,200 employees over the next year, involving deep cuts at beloved studios like id Software and Obsidian Ente…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-af86ae458030",
+      "title": "Galaxy Z Flip 8 and Galaxy Z Fold 8 preorders could include a free double-storage perk",
+      "source": "SamMobile",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-17",
+      "time": "12:58",
+      "publishedAt": "2026-07-17T12:58:02.000Z",
+      "url": "https://www.sammobile.com/news/galaxy-z-flip-fold-8-ultra-preorder-free-double-storage-offer/",
+      "image": "",
+      "summary": "With just one week left before Samsung unveils its new foldable phones, reports have surfaced about higher prices and reduced preorder perks. However, a new report claims that the…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-d1f381c245a7",
+      "title": "I hope Google's Pixel 11 event surprises us with more than just new phones",
+      "source": "Android Police",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-17",
+      "time": "12:30",
+      "publishedAt": "2026-07-17T12:30:15.000Z",
+      "url": "https://www.androidpolice.com/google-pixel-11-event-surprises-with-more-than-phones/",
+      "image": "",
+      "summary": "Make the event worth tuning into",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-24f923394d49",
+      "title": "Will the Google Pixel 10 get cheaper when the Pixel 11 launches?",
+      "source": "Android Central",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-07-17",
+      "time": "12:10",
+      "publishedAt": "2026-07-17T12:10:00.000Z",
+      "url": "https://www.androidcentral.com/phones/google-pixel/will-the-google-pixel-10-get-cheaper-when-the-pixel-11-launches",
+      "image": "https://cdn.mos.cms.futurecdn.net/VZpzNaVJRDbGYaKm5vwTNf-1280-80.jpg",
+      "summary": "The launch of the Pixel 11 is just a few weeks away, which has led many users to wonder: is now a good time to buy 2025's Google Pixel 10?",
+      "tags": [
+        "Pixel",
+        "评测",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-1c90c108f749",
+      "title": "This hidden S Pen trick alone is worth using a Samsung Galaxy Ultra over a Pixel and iPhone",
+      "source": "Android Police",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-17",
+      "time": "12:00",
+      "publishedAt": "2026-07-17T12:00:16.000Z",
+      "url": "https://www.androidpolice.com/hidden-s-pen-trick-is-alone-worth-using-samsung-galaxy-ultra-over-pixel-iphone/",
+      "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2026/03/galaxy-s26-ultra-s-pen-holder.JPG",
+      "summary": "A tiny feature with huge benefits",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-2a5f7727168f",
       "title": "Huawei takes Pura 90s Pro Max camera features to Burj Khalifa heights",
@@ -18,6 +118,26 @@ window.phoneRadarAuto = {
       "tags": [
         "Huawei",
         "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-2f36f80aba4b",
+      "title": "不听劝的阶跃闯进手机战场，造一台为人机共生的终端｜WAIC",
+      "source": "爱范儿",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-07-17",
+      "time": "11:31",
+      "publishedAt": "2026-07-17T11:31:43.000Z",
+      "url": "https://www.ifanr.com/1672281?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "image": "https://s3.ifanr.com/wp-content/uploads/2026/07/IMG20260717121624.jpg",
+      "summary": "现在是最好的试错时机。",
+      "tags": [
+        "行业",
+        "评测",
         "自动抓取"
       ]
     },
@@ -53,7 +173,7 @@ window.phoneRadarAuto = {
       "time": "10:54",
       "publishedAt": "2026-07-17T10:54:49.000Z",
       "url": "https://www.gizmochina.com/2026/07/17/samsung-shares-good-news-regarding-galaxy-s26-ultras-red-tint-issue/",
-      "image": "https://www.gizmochina.com/wp-content/uploads/2026/07/a-red-tint-issue-on-the-s26-ultra-display-please-check-your-v0-jnelp63ubzch1-2-300x169.jpg?x13297",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/07/a-red-tint-issue-on-the-s26-ultra-display-please-check-your-v0-jnelp63ubzch1-2-300x169.jpg?x92417",
       "summary": "Galaxy S26 Ultra owners have spotted an odd display quirk on Samsung’s latest flagship, but the company is already on it with an explanation and a fix on the way. Some users start…",
       "tags": [
         "Samsung",
@@ -103,7 +223,7 @@ window.phoneRadarAuto = {
     },
     {
       "id": "auto-f0cc180874e2",
-      "title": "Realme pauses new product development in China to focus on global markets",
+      "title": "Realme exits China to focus on global markets",
       "source": "Gizmochina",
       "brand": "OPPO",
       "model": "OPPO 相关机型",
@@ -113,7 +233,7 @@ window.phoneRadarAuto = {
       "time": "10:04",
       "publishedAt": "2026-07-17T10:04:05.000Z",
       "url": "https://www.gizmochina.com/2026/07/17/realme-pauses-new-product-development-in-china-to-focus-on-global-markets/",
-      "image": "https://www.gizmochina.com/wp-content/uploads/2026/07/Oppo-merges-OnePlus-and-Realme-300x169.jpg?x13297",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/07/17319204886888d705c14d88b4d648f1065774b6c6615-300x169.jpg?x92417",
       "summary": "Oppo has announced a major restructuring for its sister brands Realme and OnePlus. The goal is to streamline operations, cut down on overlap, and let each brand focus on what it d…",
       "tags": [
         "OPPO",
@@ -173,7 +293,7 @@ window.phoneRadarAuto = {
       "time": "09:26",
       "publishedAt": "2026-07-17T09:26:19.000Z",
       "url": "https://www.gizmochina.com/2026/07/17/oppo-reno-15-pro-mini-vs-oppo-reno-16-comparison/",
-      "image": "https://www.gizmochina.com/wp-content/uploads/2026/07/Oppo-Reno-15-Pro-vs-Oppo-Reno-16--300x200.png?x13297",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/07/Oppo-Reno-15-Pro-vs-Oppo-Reno-16--300x200.png?x92417",
       "summary": "Oppo has expanded its lineup of compact premium smartphones with the launch of the Reno 16. While it may appear to be the natural successor to the Reno 15 Pro Mini (also known as…",
       "tags": [
         "OPPO",
@@ -257,26 +377,6 @@ window.phoneRadarAuto = {
       "summary": "It could even use features like Samsung's Edge UX.",
       "tags": [
         "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-3a13c9e176d3",
-      "title": "Apple Closes Unlocked iPhone Loophole for T-Mobile and Verizon Financing",
-      "source": "MacRumors",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-17",
-      "time": "08:39",
-      "publishedAt": "2026-07-17T08:39:01.000Z",
-      "url": "https://www.macrumors.com/2026/07/15/apple-carrier-iphone-financing/",
-      "image": "https://images.macrumors.com/article-new/2025/11/iphone-17-cyber.jpg",
-      "summary": "Carrier-financed iPhones purchased from Apple will soon be locked to the carrier, ending a workaround customers used to purchase an unlocked iPhone on a payment plan. Until the ru…",
-      "tags": [
-        "iPhone",
         "爆料",
         "自动抓取"
       ]
@@ -493,32 +593,12 @@ window.phoneRadarAuto = {
       "time": "04:03",
       "publishedAt": "2026-07-17T04:03:26.000Z",
       "url": "https://www.gizmochina.com/2026/07/17/vivo-x500-ultra-200mp-periscope-camera-sensor-testing/",
-      "image": "https://www.gizmochina.com/wp-content/uploads/2026/07/Vivo-X300-Pro-5G-phone-300x169.png?x13297",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/07/Vivo-X300-Pro-5G-phone-300x169.png?x92417",
       "summary": "A fresh leak from reliable tipster Digital Chat Station suggests Vivo has not yet finalized the camera hardware for the upcoming Vivo X500 Ultra. Instead, the company is reportedl…",
       "tags": [
         "vivo",
         "爆料",
         "自动抓取"
-      ]
-    },
-    {
-      "id": "coolapk-user-606373eaee17",
-      "title": "竹本青：【OPPO K15 官宣7月24日开售：天玑7360 SUPER，主动散热风扇，8000mAh电池】 ▫️天玑73…",
-      "source": "竹本青",
-      "brand": "OPPO",
-      "model": "OPPO 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-07-17",
-      "time": "03:23",
-      "publishedAt": "2026-07-17T03:23:04.000Z",
-      "url": "https://www.coolapk.com/feed/72816846",
-      "image": "http://image.coolapk.com/feed/2026/0717/11/4248714_285cd896_8583_851_691@1440x1440.jpg",
-      "summary": "【OPPO K15 官宣7月24日开售：天玑7360 SUPER，主动散热风扇，8000mAh电池】 ▫️天玑7360 SUPER+潮汐引擎 ▫️6.59英寸1.5K OLED屏 ▫️新一代疾风散热引擎 ▫️8000mAh电池+80W有线 ▫️IP69防尘防水｜RGB呼吸灯 ▫️前后5000万像素三摄 ▫️红外遥控｜山海通信｜屏下指纹 ▫️158.3×75…",
-      "tags": [
-        "OPPO",
-        "爆料",
-        "酷安博主"
       ]
     },
     {
@@ -582,126 +662,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-25ec4c46c86b",
-      "title": "我的出行好伙伴，用 iPhone 一站式解决旅途痛点",
-      "source": "少数派热榜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "评测",
-      "trust": "媒体汇总",
-      "date": "2026-07-17",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://sspai.com/post/112044",
-      "image": "",
-      "summary": "我的出行好伙伴，用 iPhone 一站式解决旅途痛点",
-      "tags": [
-        "iPhone",
-        "评测",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-cf3fb93e2998",
-      "title": "iPhone Air 当主力机用了三个多月后，我为什么还是换不掉它",
-      "source": "少数派热榜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "评测",
-      "trust": "媒体汇总",
-      "date": "2026-07-17",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://sspai.com/post/111113",
-      "image": "",
-      "summary": "iPhone Air 当主力机用了三个多月后，我为什么还是换不掉它",
-      "tags": [
-        "iPhone",
-        "评测",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-033e0fb648b5",
-      "title": "快捷指令｜让 iPhone 用上锤子的「大爆炸」",
-      "source": "少数派热榜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "评测",
-      "trust": "媒体汇总",
-      "date": "2026-07-17",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://sspai.com/post/111405",
-      "image": "",
-      "summary": "快捷指令｜让 iPhone 用上锤子的「大爆炸」",
-      "tags": [
-        "iPhone",
-        "评测",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-2a61510d5126",
-      "title": "谁不喜欢用手机的时候来个急头白脸的卡死呢，坐等害怕os4重构底层[喷] #HyperOS3#",
-      "source": "酷安热榜",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-07-17",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72807401",
-      "image": "",
-      "summary": "谁不喜欢用手机的时候来个急头白脸的卡死呢，坐等害怕os4重构底层[喷] #HyperOS3#",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-7e0421021ebe",
-      "title": "mate80promax还是小米17promax或者17max？纠结好久了兄弟们，给个意见吧。",
-      "source": "酷安热榜",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-07-17",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72807562",
-      "image": "",
-      "summary": "mate80promax还是小米17promax或者17max？纠结好久了兄弟们，给个意见吧。",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-32c99abb30ce",
-      "title": "9020烫死了。刚下班拍了点赞👍云，然后等公交刷信息流，突然就全局掉帧，手机巨烫，然后为了快速降温立马关机2分钟，然后重启，因为在等公交特别着急，重启一直现HUAWEI标然后没反应，重启开机起码开了4分钟，我都感觉手机要虚焊了，什么情况啊#鸿蒙6# #华为Mate80ProMax# #华为Mate70Pro#",
-      "source": "酷安热榜",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-07-17",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72807626",
-      "image": "",
-      "summary": "9020烫死了。刚下班拍了点赞👍云，然后等公交刷信息流，突然就全局掉帧，手机巨烫，然后为了快速降温立马关机2分钟，然后重启，因为在等公交特别着急，重启一直现HUAWEI标然后没反应，重启开机起码开了4分钟，我都感觉手机要虚焊了，什么情况啊#鸿蒙6# #华为Mate80ProMax# #华为Mate70Pro#",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
       "id": "auto-241f97424811",
       "title": "You can already buy the unreleased Galaxy Z Fold 8 Ultra, provided you have $13,000",
       "source": "Android Central",
@@ -718,26 +678,6 @@ window.phoneRadarAuto = {
       "tags": [
         "Samsung",
         "评测",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-fba641590696",
-      "title": "Samsung finally explains the Galaxy S26 Ultra's mysterious red screen problem",
-      "source": "Android Police",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-16",
-      "time": "19:37",
-      "publishedAt": "2026-07-16T19:37:28.000Z",
-      "url": "https://www.androidpolice.com/samsung-galaxy-s26-ultra-red-screen-software-issue/",
-      "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2026/03/img_2969.jpg",
-      "summary": "There's a fix in the works",
-      "tags": [
-        "Samsung",
-        "爆料",
         "自动抓取"
       ]
     },
@@ -942,26 +882,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-c84ef176938b",
-      "title": "Galaxy S26 Ultra’s red screen stain is a software issue, not OLED burn-in",
-      "source": "SamMobile",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-16",
-      "time": "13:04",
-      "publishedAt": "2026-07-16T13:04:58.000Z",
-      "url": "https://www.sammobile.com/news/galaxy-s26-ultra-oled-screen-red-stain-issue-software-not-burn-in/",
-      "image": "https://www.sammobile.com/wp-content/uploads/2026/07/Samsung-Galaxy-S26-Ultra-Display-Red-Tint-Issue.jpg",
-      "summary": "Earlier this week, we reported that some Galaxy S26 Ultra units displayed a rectangular red stain in the center of their screens. Users affected by the issue were worried that it…",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-34c1e96c0eb2",
       "title": "Goodbye Realme UI 8 and OxygenOS 17? Realme and OnePlus are moving to ColorOS 17",
       "source": "Gizmochina",
@@ -973,7 +893,7 @@ window.phoneRadarAuto = {
       "time": "12:39",
       "publishedAt": "2026-07-16T12:39:22.000Z",
       "url": "https://www.gizmochina.com/2026/07/16/realme-coloros-17-future-smartphones-oneplus-software-transition/",
-      "image": "https://www.gizmochina.com/wp-content/uploads/2026/07/ColorOS-17-AI-generated-iamge-300x200.jpg?x13297",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/07/ColorOS-17-AI-generated-iamge-300x200.jpg?x92417",
       "summary": "Realme has officially confirmed a major software change for its smartphones in India. The company has revealed that upcoming devices will no longer ship with Realme UI, signalling…",
       "tags": [
         "OPPO",
@@ -1053,7 +973,7 @@ window.phoneRadarAuto = {
       "time": "09:48",
       "publishedAt": "2026-07-16T09:48:13.000Z",
       "url": "https://www.gizmochina.com/2026/07/16/huawei-expands-its-ecosystem-with-pura-90s-series-freeclip-2-s-and-matepad-air/",
-      "image": "https://www.gizmochina.com/wp-content/uploads/2026/07/image-61-300x149.png?x13297",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/07/image-61-300x149.png?x92417",
       "summary": "Huawei has expanded its connected device ecosystem with the launch of the HUAWEI Pura 90s Series, HUAWEI FreeClip 2 S, and HUAWEI MatePad Air at its Flagship Product Global Launch…",
       "tags": [
         "Huawei",
@@ -1153,7 +1073,7 @@ window.phoneRadarAuto = {
       "time": "08:21",
       "publishedAt": "2026-07-16T08:21:40.000Z",
       "url": "https://www.gizmochina.com/2026/07/16/redmi-17-4g-renders-reveal-refreshed-design-light-ring-color-options/",
-      "image": "https://www.gizmochina.com/wp-content/uploads/2026/07/redmi-17-4g-renders-300x169.jpg?x13297",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/07/redmi-17-4g-renders-300x169.jpg?x92417",
       "summary": "Xiaomi looks like it’s gearing up to refresh its budget smartphone lineup, and a new leak shared by YtechB just gave us one of the best looks yet at the upcoming REDMI 17 4G. The…",
       "tags": [
         "Xiaomi",
@@ -1193,7 +1113,7 @@ window.phoneRadarAuto = {
       "time": "05:49",
       "publishedAt": "2026-07-16T05:49:18.000Z",
       "url": "https://www.gizmochina.com/2026/07/16/oneplus-n6x-launching-soon-in-india-with-familiar-specs/",
-      "image": "https://www.gizmochina.com/wp-content/uploads/2026/07/oneplus-n6x-teaser-300x169.jpg?x13297",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/07/oneplus-n6x-teaser-300x169.jpg?x92417",
       "summary": "OnePlus isn’t wasting any time expanding its new ultra-budget N series in India. Just a few weeks after launching the N6, the company has already teased the upcoming N6x through a…",
       "tags": [
         "OPPO",
