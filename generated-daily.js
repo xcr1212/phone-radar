@@ -1,12 +1,12 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-07-18T13:47:24.347Z",
+  "updatedAt": "2026-07-18T15:14:09.976Z",
   "issueDate": "2026-07-18",
   "issue": "VOL.260718",
   "title": "手机情报日报",
-  "intro": "今日筛出 8 条重点，其中 8 条是重点爆料，包含 3 条 iPhone 相关、0 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 11 条重点，其中 8 条是重点爆料，包含 4 条 iPhone 相关、0 条官方确认、0 条参数线索。",
   "stats": {
-    "total": 8,
-    "iphone": 3,
+    "total": 11,
+    "iphone": 4,
     "leaks": 8,
     "official": 0,
     "specs": 0
@@ -26,8 +26,8 @@ window.phoneRadarDaily = {
           "type": "爆料",
           "trust": "媒体汇总",
           "date": "2026-07-18",
-          "time": "10:47",
-          "publishedAt": "2026-07-18T10:47:00.000Z",
+          "time": "12:13",
+          "publishedAt": "2026-07-18T12:13:35.000Z",
           "url": "https://www.macrumors.com/2026/07/17/apple-doj-antitrust-settlement/",
           "image": "https://images.macrumors.com/article-new/2024/03/Apple-vs-DOJ-Feature.jpg",
           "verdict": "先看",
@@ -49,8 +49,8 @@ window.phoneRadarDaily = {
           "type": "爆料",
           "trust": "媒体汇总",
           "date": "2026-07-18",
-          "time": "10:47",
-          "publishedAt": "2026-07-18T10:47:00.000Z",
+          "time": "12:13",
+          "publishedAt": "2026-07-18T12:13:35.000Z",
           "url": "https://www.macrumors.com/2026/07/17/iphone-18-pro-12-rumored-features/",
           "image": "https://images.macrumors.com/article-new/2026/02/iPhone-18-Pro-Deep-Red-Feature.jpg",
           "verdict": "先看",
@@ -72,8 +72,8 @@ window.phoneRadarDaily = {
           "type": "爆料",
           "trust": "媒体汇总",
           "date": "2026-07-18",
-          "time": "10:47",
-          "publishedAt": "2026-07-18T10:47:00.000Z",
+          "time": "12:13",
+          "publishedAt": "2026-07-18T12:13:35.000Z",
           "url": "https://www.macrumors.com/2026/07/17/iphone-loyalty-rate-climbs-to-87/",
           "image": "https://images.macrumors.com/article-new/2025/09/iphone-17-pro-silver.jpg",
           "verdict": "先看",
@@ -137,74 +137,168 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
-          "id": "auto-ed34c6b76d7a",
-          "title": "三星 Galaxy Z Fold8 阔折叠手机曝光：4800mAh 电池",
+          "id": "weibo-e6bafea4e7b4",
+          "title": "数码闲聊站：目前已入网备案的迭代新机：REDMI K100系列、小米18系列、vivo X…",
           "originalTitle": "",
-          "source": "IT之家",
-          "brand": "Samsung",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-07-18",
-          "time": "07:14",
-          "publishedAt": "2026-07-18T07:14:42.000Z",
-          "url": "https://www.ithome.com/0/978/477.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/7/a89d6226-15eb-4033-8cb3-1b264a1b7bba.jpg?x-bce-process=image/format,f_auto",
-          "verdict": "先看",
-          "takeaway": "IT之家 7 月 18 日消息，科技媒体 YtechB 今天（7 月 18 日）发布博文，报道称基于最新公示的欧盟 EPREL 数据， 三星 Galaxy Z Fold8 折叠手机满电续航为 49 小时 10 分钟；Galaxy Z Fold8 Ultra 手机满电续航时间为 51 小时。 该媒体基于上述信息推测，三星 Galaxy Z Fold8 电池容…",
-          "detail": "IT之家 7 月 18 日消息，科技媒体 YtechB 今天（7 月 18 日）发布博文，报道称基于最新公示的欧盟 EPREL 数据， 三星 Galaxy Z Fold8 折叠手机满电续航为 49 小时 10 分钟；Galaxy Z Fold8 Ultra 手机满电续航时间为 51 小时。 该媒体基于上述信息推测，三星 Galaxy Z Fold8 电池容…",
-          "keyPoints": [
-            "电池 / 充电"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "auto-9c8d6ea2d55a",
-          "title": "小米 REDMI 17 4G 手机欧盟 EPREL 标签曝光：IP64 防水，满电续航 73 小时 54 分钟",
-          "originalTitle": "",
-          "source": "IT之家",
+          "source": "数码闲聊站",
           "brand": "Xiaomi",
           "type": "爆料",
-          "trust": "媒体汇总",
+          "trust": "高关注爆料源",
           "date": "2026-07-18",
-          "time": "06:56",
-          "publishedAt": "2026-07-18T06:56:30.000Z",
-          "url": "https://www.ithome.com/0/978/472.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/7/5e4f7f17-985c-4b34-810f-95b783ab6d63.png",
+          "time": "10:10",
+          "publishedAt": "2026-07-18T10:10:00.000Z",
+          "url": "https://weibo.com/6048569942/R9gKscklb",
+          "image": "",
           "verdict": "先看",
-          "takeaway": "IT之家 7 月 18 日消息，科技媒体 YtechB 昨日（7 月 17 日）发布博文，分享了小米 REDMI 17 4G 手机的欧盟 EPREL 标签， 满电续航 73 小时 54 分钟。 IT之家注：EPREL 标签是欧盟用于登记与披露产品能效、续航、耐用性、可维修性等信息的官方数据库。消费者、监管机构和市场参与者可据此查询设备标准化指标，用于购买决…",
-          "detail": "IT之家 7 月 18 日消息，科技媒体 YtechB 昨日（7 月 17 日）发布博文，分享了小米 REDMI 17 4G 手机的欧盟 EPREL 标签， 满电续航 73 小时 54 分钟。 IT之家注：EPREL 标签是欧盟用于登记与披露产品能效、续航、耐用性、可维修性等信息的官方数据库。消费者、监管机构和市场参与者可据此查询设备标准化指标，用于购买决…",
+          "takeaway": "目前已入网备案的迭代新机：REDMI K100系列、小米18系列、vivo X500系列、iQOO16、OPPO Find X10系列……你们准备换哪个？[doge]",
+          "detail": "目前已入网备案的迭代新机：REDMI K100系列、小米18系列、vivo X500系列、iQOO16、OPPO Find X10系列……你们准备换哪个？[doge]",
           "keyPoints": [
-            "电池 / 充电"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "auto-8e40399ea6ff",
-          "title": "小米 18 系列新机疑入网，支持 UWB 超宽带技术",
-          "originalTitle": "",
-          "source": "IT之家",
-          "brand": "Xiaomi",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-07-18",
-          "time": "06:53",
-          "publishedAt": "2026-07-18T06:53:24.000Z",
-          "url": "https://www.ithome.com/0/978/471.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/7/0e0cdda8-3fdb-42a9-abb6-cf28617af1c1.png?x-bce-process=image/format,f_auto",
-          "verdict": "先看",
-          "takeaway": "IT之家 7 月 18 日消息，博主 @数码闲聊站 今日发文称，小米 18 系列新机疑入网，型号 M154FF，支持 N79 5G 频段，支持 UWB 超宽带技术，定位较高，大概率隶属 Pro 系列。 IT之家注意到，该博主本月初曾曝光某厂 2nm 大杯工程机的主要规格，预计为小米 18 Pro。据其爆料，该机搭载一块超清定制小直屏，采用大 R 角极窄四等…",
-          "detail": "IT之家 7 月 18 日消息，博主 @数码闲聊站 今日发文称，小米 18 系列新机疑入网，型号 M154FF，支持 N79 5G 频段，支持 UWB 超宽带技术，定位较高，大概率隶属 Pro 系列。 IT之家注意到，该博主本月初曾曝光某厂 2nm 大杯工程机的主要规格，预计为小米 18 Pro。据其爆料，该机搭载一块超清定制小直屏，采用大 R 角极窄四等…",
-          "keyPoints": [
-            "屏幕形态",
             "爆料来源"
           ],
           "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "weibo-4b4efdeca9f9",
+          "title": "数码闲聊站：三星和苹果阔折叠的电池都是4800mAh级别，影像只有主摄+超广角，国产阔折叠…",
+          "originalTitle": "",
+          "source": "数码闲聊站",
+          "brand": "Samsung",
+          "type": "爆料",
+          "trust": "高关注爆料源",
+          "date": "2026-07-18",
+          "time": "07:05",
+          "publishedAt": "2026-07-18T07:05:00.000Z",
+          "url": "https://weibo.com/6048569942/R9fxmpRxm",
+          "image": "",
+          "verdict": "先看",
+          "takeaway": "三星和苹果阔折叠的电池都是4800mAh级别，影像只有主摄+超广角，国产阔折叠的电池会大一个等级，影像也会多一颗潜望长焦。 问题来了，同样是万元档，你们会怎么选……[doge]",
+          "detail": "三星和苹果阔折叠的电池都是4800mAh级别，影像只有主摄+超广角，国产阔折叠的电池会大一个等级，影像也会多一颗潜望长焦。 问题来了，同样是万元档，你们会怎么选……[doge]",
+          "keyPoints": [
+            "影像硬件",
+            "电池 / 充电",
+            "爆料来源"
+          ],
+          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "weibo-8aed06dbf308",
+          "title": "数码闲聊站：OPPO Find X10系列新机疑入网，型号PMW110，支持N79 5G频…",
+          "originalTitle": "",
+          "source": "数码闲聊站",
+          "brand": "OPPO",
+          "type": "爆料",
+          "trust": "高关注爆料源",
+          "date": "2026-07-18",
+          "time": "02:32",
+          "publishedAt": "2026-07-18T02:32:00.000Z",
+          "url": "https://weibo.com/6048569942/R9dKyckRO",
+          "image": "https://tvax3.sinaimg.cn/mw2000/006BlblIgy1if7vc7z0b5j30xv1bkdwp.jpg",
+          "verdict": "先看",
+          "takeaway": "OPPO Find X10系列新机疑入网，型号PMW110，支持N79 5G频段，你们对它有何期待？ 首批2nm天玑9600 Pro？中屏+大屏双尺寸直屏？更窄的LIPO四窄边技术？200Mp HPC超大底多主摄影像？更大的硅电池？提档发布？",
+          "detail": "OPPO Find X10系列新机疑入网，型号PMW110，支持N79 5G频段，你们对它有何期待？ 首批2nm天玑9600 Pro？中屏+大屏双尺寸直屏？更窄的LIPO四窄边技术？200Mp HPC超大底多主摄影像？更大的硅电池？提档发布？",
+          "keyPoints": [
+            "外观 / 配色 / 尺寸",
+            "影像硬件",
+            "屏幕形态",
+            "电池 / 充电"
+          ],
+          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        }
+      ]
+    },
+    {
+      "id": "iphone",
+      "title": "iPhone 重点",
+      "hint": "不是硬件爆料，但和 iPhone 体验或路线有关。",
+      "items": [
+        {
+          "id": "coolapk-user-ee9e3a2eb1d0",
+          "title": "竹本青：【iPhone 17系列 中国区最新销量曝光：超3776万台】 7月18日，博主「RD观测」发布第三方统计数据：截…",
+          "originalTitle": "",
+          "source": "竹本青",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "高可信爆料",
+          "date": "2026-07-18",
+          "time": "13:17",
+          "publishedAt": "2026-07-18T13:17:06.000Z",
+          "url": "https://www.coolapk.com/feed/72838330",
+          "image": "http://image.coolapk.com/feed/2026/0718/21/4248714_877a1577_0790_7182_701@2160x1542.jpg",
+          "verdict": "先看",
+          "takeaway": "【iPhone 17系列 中国区最新销量曝光：超3776万台】 7月18日，博主「RD观测」发布第三方统计数据：截至2026年第28周，iPhone 17系列手机在中国市场累计销量约3776.35万台。 前几周数据如下： 截至2026 W27 —— 约3711.92万 截至2026 W26 —— 约3630.44万 截至2026 W25 —— 约3538.…",
+          "detail": "【iPhone 17系列 中国区最新销量曝光：超3776万台】 7月18日，博主「RD观测」发布第三方统计数据：截至2026年第28周，iPhone 17系列手机在中国市场累计销量约3776.35万台。 前几周数据如下： 截至2026 W27 —— 约3711.92万 截至2026 W26 —— 约3630.44万 截至2026 W25 —— 约3538.…",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "可信度较高，但仍属于发布前线索。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        }
+      ]
+    },
+    {
+      "id": "review",
+      "title": "评测与体验",
+      "hint": "买前再细看，平时扫一眼即可。",
+      "items": [
+        {
+          "id": "auto-2f36f80aba4b",
+          "title": "不听劝的阶跃闯进手机战场，造一台为人机共生的终端｜WAIC 2026",
+          "originalTitle": "",
+          "source": "爱范儿",
+          "brand": "行业",
+          "type": "评测",
+          "trust": "媒体汇总",
+          "date": "2026-07-17",
+          "time": "11:31",
+          "publishedAt": "2026-07-17T11:31:43.000Z",
+          "url": "https://www.ifanr.com/1672281?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "image": "https://s3.ifanr.com/wp-content/uploads/2026/07/IMG20260717121624.jpg",
+          "verdict": "扫一眼",
+          "takeaway": "现在是最好的试错时机。",
+          "detail": "现在是最好的试错时机。",
+          "keyPoints": [
+            "评测"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是实际体验内容，买前适合重点看缺点和取舍。",
+          "action": "中文源可以直接点开快读；看完只保留和购机有关的点。"
+        }
+      ]
+    },
+    {
+      "id": "market",
+      "title": "行业趋势",
+      "hint": "看方向，不急着当购买依据。",
+      "items": [
+        {
+          "id": "newsnow-dc21dff547a9",
+          "title": "荣耀Robot Phone 机器人手机开启预约：2亿像素4D云台主摄",
+          "originalTitle": "",
+          "source": "酷安热榜",
+          "brand": "HONOR",
+          "type": "爆料",
+          "trust": "高关注爆料源",
+          "date": "2026-07-18",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://www.coolapk.com/feed/72830233",
+          "image": "",
+          "verdict": "先看",
+          "takeaway": "荣耀Robot Phone 机器人手机开启预约：2亿像素4D云台主摄",
+          "detail": "荣耀Robot Phone 机器人手机开启预约：2亿像素4D云台主摄",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         }
       ]
     }

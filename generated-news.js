@@ -1,6 +1,46 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-07-18T13:47:24.347Z",
+  "updatedAt": "2026-07-18T15:14:09.976Z",
   "news": [
+    {
+      "id": "auto-30dcf552f0eb",
+      "title": "iPhone 18 Pro is just two months away, but you probably shouldn’t wait for it",
+      "source": "9to5Mac",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-18",
+      "time": "14:39",
+      "publishedAt": "2026-07-18T14:39:00.000Z",
+      "url": "https://9to5mac.com/2026/07/18/iphone-18-pro-heres-why-you-shouldnt-wait-to-upgrade/",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/02/iphone-18-pro-mockup.jpg?quality=82&strip=all&w=1600",
+      "summary": "The next iPhone lineup is around the corner – and it’s going to be a different one. The base model iPhone 18 won’t be making an appearance quite yet, as that model has been shifte…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-790b9a463952",
+      "title": "竹本青：【OPPO陈希: ColorOS不倾向透明化卡片设计，对可读性有很大影响】 7月18日，有网友向OPPO Colo…",
+      "source": "竹本青",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-07-18",
+      "time": "13:59",
+      "publishedAt": "2026-07-18T13:59:13.000Z",
+      "url": "https://www.coolapk.com/feed/72838905",
+      "image": "http://image.coolapk.com/feed/2026/0718/21/4248714_50f9e250_3152_174_831@1440x1449.jpg",
+      "summary": "【OPPO陈希: ColorOS不倾向透明化卡片设计，对可读性有很大影响】 7月18日，有网友向OPPO ColorOS设计总监陈希提议，希望ColorOS 17上线透明底信息卡片设计。 对此，陈希明确回应：ColorOS整体并不倾向透明化的卡片设计。他表示，该设计会大幅影响内容可读性，甚至功能也要因此受到约束。 未来，只会考虑在极少的非阅读性卡片上尝试，…",
+      "tags": [
+        "OPPO",
+        "爆料",
+        "酷安博主"
+      ]
+    },
     {
       "id": "coolapk-user-86a315f22881",
       "title": "竹本青：【vivo X300 Pro获评《人工智能终端智能化分级》L3评级证书】 据OriginOS 原系统昨日消息，vi…",
@@ -82,6 +122,66 @@ window.phoneRadarAuto = {
       ]
     },
     {
+      "id": "auto-ef87d0e6e739",
+      "title": "Apple and DOJ Hold Early Settlement Talks in iPhone Antitrust Case",
+      "source": "MacRumors",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-18",
+      "time": "12:13",
+      "publishedAt": "2026-07-18T12:13:35.000Z",
+      "url": "https://www.macrumors.com/2026/07/17/apple-doj-antitrust-settlement/",
+      "image": "https://images.macrumors.com/article-new/2024/03/Apple-vs-DOJ-Feature.jpg",
+      "summary": "Apple is working to settle an antitrust lawsuit with the U.S. Department of Justice, reports Bloomberg . Apple has proposed several offers and is now in early settlement talks wit…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-973d6bf46848",
+      "title": "iPhone 18 Pro Launching in Two Months With These 12 New Features",
+      "source": "MacRumors",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-18",
+      "time": "12:13",
+      "publishedAt": "2026-07-18T12:13:35.000Z",
+      "url": "https://www.macrumors.com/2026/07/17/iphone-18-pro-12-rumored-features/",
+      "image": "https://images.macrumors.com/article-new/2026/02/iPhone-18-Pro-Deep-Red-Feature.jpg",
+      "summary": "It is now mid-July, and that means the iPhone 18 Pro and iPhone 18 Pro Max are now just two months away. The devices are expected to look similar to the iPhone 17 Pro and iPhone 1…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-b63d09b1185a",
+      "title": "iPhone Loyalty Rate Climbs to 87% as Switching to Android Slows",
+      "source": "MacRumors",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-18",
+      "time": "12:13",
+      "publishedAt": "2026-07-18T12:13:35.000Z",
+      "url": "https://www.macrumors.com/2026/07/17/iphone-loyalty-rate-climbs-to-87/",
+      "image": "https://images.macrumors.com/article-new/2025/09/iphone-17-pro-silver.jpg",
+      "summary": "iPhone owners are sticking with the platform at a higher rate than a year ago, with new research firm CIRP putting iPhone loyalty at 87% for the first quarter of 2026. CIRP's late…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
       "id": "auto-db8be82025e9",
       "title": "Google's new Pixel 11 pricing proved what I suspected about last year's model",
       "source": "Android Police",
@@ -119,66 +219,6 @@ window.phoneRadarAuto = {
         "Huawei",
         "爆料",
         "酷安博主"
-      ]
-    },
-    {
-      "id": "auto-ef87d0e6e739",
-      "title": "Apple and DOJ Hold Early Settlement Talks in iPhone Antitrust Case",
-      "source": "MacRumors",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-18",
-      "time": "10:47",
-      "publishedAt": "2026-07-18T10:47:00.000Z",
-      "url": "https://www.macrumors.com/2026/07/17/apple-doj-antitrust-settlement/",
-      "image": "https://images.macrumors.com/article-new/2024/03/Apple-vs-DOJ-Feature.jpg",
-      "summary": "Apple is working to settle an antitrust lawsuit with the U.S. Department of Justice, reports Bloomberg . Apple has proposed several offers and is now in early settlement talks wit…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-973d6bf46848",
-      "title": "iPhone 18 Pro Launching in Two Months With These 12 New Features",
-      "source": "MacRumors",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-18",
-      "time": "10:47",
-      "publishedAt": "2026-07-18T10:47:00.000Z",
-      "url": "https://www.macrumors.com/2026/07/17/iphone-18-pro-12-rumored-features/",
-      "image": "https://images.macrumors.com/article-new/2026/02/iPhone-18-Pro-Deep-Red-Feature.jpg",
-      "summary": "It is now mid-July, and that means the iPhone 18 Pro and iPhone 18 Pro Max are now just two months away. The devices are expected to look similar to the iPhone 17 Pro and iPhone 1…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-b63d09b1185a",
-      "title": "iPhone Loyalty Rate Climbs to 87% as Switching to Android Slows",
-      "source": "MacRumors",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-18",
-      "time": "10:47",
-      "publishedAt": "2026-07-18T10:47:00.000Z",
-      "url": "https://www.macrumors.com/2026/07/17/iphone-loyalty-rate-climbs-to-87/",
-      "image": "https://images.macrumors.com/article-new/2025/09/iphone-17-pro-silver.jpg",
-      "summary": "iPhone owners are sticking with the platform at a higher rate than a year ago, with new research firm CIRP putting iPhone loyalty at 87% for the first quarter of 2026. CIRP's late…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
       ]
     },
     {
@@ -262,26 +302,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-ed34c6b76d7a",
-      "title": "三星 Galaxy Z Fold8 阔折叠手机曝光：4800mAh 电池",
-      "source": "IT之家",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-18",
-      "time": "07:14",
-      "publishedAt": "2026-07-18T07:14:42.000Z",
-      "url": "https://www.ithome.com/0/978/477.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/7/a89d6226-15eb-4033-8cb3-1b264a1b7bba.jpg?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 7 月 18 日消息，科技媒体 YtechB 今天（7 月 18 日）发布博文，报道称基于最新公示的欧盟 EPREL 数据， 三星 Galaxy Z Fold8 折叠手机满电续航为 49 小时 10 分钟；Galaxy Z Fold8 Ultra 手机满电续航时间为 51 小时。 该媒体基于上述信息推测，三星 Galaxy Z Fold8 电池容…",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "weibo-4b4efdeca9f9",
       "title": "数码闲聊站：三星和苹果阔折叠的电池都是4800mAh级别，影像只有主摄+超广角，国产阔折叠…",
       "source": "数码闲聊站",
@@ -299,46 +319,6 @@ window.phoneRadarAuto = {
         "Samsung",
         "爆料",
         "微博"
-      ]
-    },
-    {
-      "id": "auto-9c8d6ea2d55a",
-      "title": "小米 REDMI 17 4G 手机欧盟 EPREL 标签曝光：IP64 防水，满电续航 73 小时 54 分钟",
-      "source": "IT之家",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-18",
-      "time": "06:56",
-      "publishedAt": "2026-07-18T06:56:30.000Z",
-      "url": "https://www.ithome.com/0/978/472.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/7/5e4f7f17-985c-4b34-810f-95b783ab6d63.png",
-      "summary": "IT之家 7 月 18 日消息，科技媒体 YtechB 昨日（7 月 17 日）发布博文，分享了小米 REDMI 17 4G 手机的欧盟 EPREL 标签， 满电续航 73 小时 54 分钟。 IT之家注：EPREL 标签是欧盟用于登记与披露产品能效、续航、耐用性、可维修性等信息的官方数据库。消费者、监管机构和市场参与者可据此查询设备标准化指标，用于购买决…",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-8e40399ea6ff",
-      "title": "小米 18 系列新机疑入网，支持 UWB 超宽带技术",
-      "source": "IT之家",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-18",
-      "time": "06:53",
-      "publishedAt": "2026-07-18T06:53:24.000Z",
-      "url": "https://www.ithome.com/0/978/471.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/7/0e0cdda8-3fdb-42a9-abb6-cf28617af1c1.png?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 7 月 18 日消息，博主 @数码闲聊站 今日发文称，小米 18 系列新机疑入网，型号 M154FF，支持 N79 5G 频段，支持 UWB 超宽带技术，定位较高，大概率隶属 Pro 系列。 IT之家注意到，该博主本月初曾曝光某厂 2nm 大杯工程机的主要规格，预计为小米 18 Pro。据其爆料，该机搭载一块超清定制小直屏，采用大 R 角极窄四等…",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "自动抓取"
       ]
     },
     {
@@ -459,26 +439,6 @@ window.phoneRadarAuto = {
         "OPPO",
         "爆料",
         "微博"
-      ]
-    },
-    {
-      "id": "coolapk-user-ba3e3524073d",
-      "title": "竹本青：小米旗舰新机入网，预计为小米18 Pro系列",
-      "source": "竹本青",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-07-18",
-      "time": "01:39",
-      "publishedAt": "2026-07-18T01:39:48.000Z",
-      "url": "https://www.coolapk.com/feed/72829578",
-      "image": "http://image.coolapk.com/feed/2026/0718/09/4248714_6cc7873d_8787_4321_27@1272x1869.jpg",
-      "summary": "【小米旗舰新机入网：支持UWB、N79，预计为小米18 Pro系列】 7月18日，博主数码闲聊站爆料，小米一款全新旗舰手机入网，型号M154FF，支持UWB超宽带技术、4800MHz-4960MHz N79频段，猜测属于小米18 Pro系列。 据此前爆料，小米18 系列全球首发2nm 高通骁龙8 Elite Gen6系列 旗舰芯片。标准版与Pro Max配…",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "酷安博主"
       ]
     },
     {
@@ -655,6 +615,26 @@ window.phoneRadarAuto = {
       "url": "https://www.coolapk.com/feed/72814994",
       "image": "",
       "summary": "我发现我买LG手机，LG手机倒闭，买魅族，魅族倒闭，买真我，真我也倒闭，",
+      "tags": [
+        "行业",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-265af8273945",
+      "title": "机器人手机从概念到现实意味着什么",
+      "source": "微博热搜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "待验证",
+      "date": "2026-07-18",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://s.weibo.com/weibo?q=%23%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%89%8B%E6%9C%BA%E4%BB%8E%E6%A6%82%E5%BF%B5%E5%88%B0%E7%8E%B0%E5%AE%9E%E6%84%8F%E5%91%B3%E7%9D%80%E4%BB%80%E4%B9%88%23&t=31&band_rank=29&Refer=top",
+      "image": "",
+      "summary": "机器人手机从概念到现实意味着什么",
       "tags": [
         "行业",
         "爆料",
