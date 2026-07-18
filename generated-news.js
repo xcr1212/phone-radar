@@ -1,6 +1,66 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-07-18T09:44:01.804Z",
+  "updatedAt": "2026-07-18T11:17:30.947Z",
   "news": [
+    {
+      "id": "weibo-e6bafea4e7b4",
+      "title": "数码闲聊站：目前已入网备案的迭代新机：REDMI K100系列、小米18系列、vivo X…",
+      "source": "数码闲聊站",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-07-18",
+      "time": "10:10",
+      "publishedAt": "2026-07-18T10:10:00.000Z",
+      "url": "https://weibo.com/6048569942/R9gKscklb",
+      "image": "",
+      "summary": "目前已入网备案的迭代新机：REDMI K100系列、小米18系列、vivo X500系列、iQOO16、OPPO Find X10系列……你们准备换哪个？[doge]",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "微博"
+      ]
+    },
+    {
+      "id": "auto-cc25fb79cf49",
+      "title": "Pixel Glow is real, but it doesn’t solve Google’s bigger Pixel 11 problems",
+      "source": "Android Authority",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-18",
+      "time": "10:00",
+      "publishedAt": "2026-07-18T10:00:48.000Z",
+      "url": "https://www.androidauthority.com/pixel-glow-doesnt-solve-pixel-11-biggest-problems-3688323/",
+      "image": "",
+      "summary": "Pixel Glow is here, but will it be enough?",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-6f05c164d8a3",
+      "title": "I found my favorite OnePlus phone has become a sad metaphor for OnePlus's death",
+      "source": "Android Police",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-18",
+      "time": "10:00",
+      "publishedAt": "2026-07-18T10:00:15.000Z",
+      "url": "https://www.androidpolice.com/my-favorite-oneplus-phone-obituary/",
+      "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2026/07/oneplus-7t-pro-mclaren-design.JPG",
+      "summary": "Gone, but not forgotten",
+      "tags": [
+        "OPPO",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-a83441a95eb6",
       "title": "上市 3 个多月，消息称华为畅享 90 Pro Max 手机单品激活超 310 万台",
@@ -17,6 +77,66 @@ window.phoneRadarAuto = {
       "summary": "IT之家 7 月 18 日消息，博主 @数码闲聊站 今日透露， 华为畅享 90 PM（畅享 90 Pro Max） 上市 3 个多月，单品已激活 310W+ 。此外，畅享新品也在路上了。 据IT之家此前报道， 华为畅享 90 Pro Max 手机于 4 月 2 日正式开售 ，搭载麒麟 8000 处理器，预装鸿蒙 HarmonyOS 6 系统， 售价 169…",
       "tags": [
         "Huawei",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-ef87d0e6e739",
+      "title": "Apple and DOJ Hold Early Settlement Talks in iPhone Antitrust Case",
+      "source": "MacRumors",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-18",
+      "time": "08:17",
+      "publishedAt": "2026-07-18T08:17:07.000Z",
+      "url": "https://www.macrumors.com/2026/07/17/apple-doj-antitrust-settlement/",
+      "image": "https://images.macrumors.com/article-new/2024/03/Apple-vs-DOJ-Feature.jpg",
+      "summary": "Apple is working to settle an antitrust lawsuit with the U.S. Department of Justice, reports Bloomberg . Apple has proposed several offers and is now in early settlement talks wit…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-973d6bf46848",
+      "title": "iPhone 18 Pro Launching in Two Months With These 12 New Features",
+      "source": "MacRumors",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-18",
+      "time": "08:17",
+      "publishedAt": "2026-07-18T08:17:07.000Z",
+      "url": "https://www.macrumors.com/2026/07/17/iphone-18-pro-12-rumored-features/",
+      "image": "https://images.macrumors.com/article-new/2026/02/iPhone-18-Pro-Deep-Red-Feature.jpg",
+      "summary": "It is now mid-July, and that means the iPhone 18 Pro and iPhone 18 Pro Max are now just two months away. The devices are expected to look similar to the iPhone 17 Pro and iPhone 1…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-b63d09b1185a",
+      "title": "iPhone Loyalty Rate Climbs to 87% as Switching to Android Slows",
+      "source": "MacRumors",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-18",
+      "time": "08:17",
+      "publishedAt": "2026-07-18T08:17:07.000Z",
+      "url": "https://www.macrumors.com/2026/07/17/iphone-loyalty-rate-climbs-to-87/",
+      "image": "https://images.macrumors.com/article-new/2025/09/iphone-17-pro-silver.jpg",
+      "summary": "iPhone owners are sticking with the platform at a higher rate than a year ago, with new research firm CIRP putting iPhone loyalty at 87% for the first quarter of 2026. CIRP's late…",
+      "tags": [
+        "iPhone",
         "爆料",
         "自动抓取"
       ]
@@ -122,66 +242,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-ef87d0e6e739",
-      "title": "Apple and DOJ Hold Early Settlement Talks in iPhone Antitrust Case",
-      "source": "MacRumors",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-18",
-      "time": "06:44",
-      "publishedAt": "2026-07-18T06:44:02.000Z",
-      "url": "https://www.macrumors.com/2026/07/17/apple-doj-antitrust-settlement/",
-      "image": "https://images.macrumors.com/article-new/2024/03/Apple-vs-DOJ-Feature.jpg",
-      "summary": "Apple is working to settle an antitrust lawsuit with the U.S. Department of Justice, reports Bloomberg . Apple has proposed several offers and is now in early settlement talks wit…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-973d6bf46848",
-      "title": "iPhone 18 Pro Launching in Two Months With These 12 New Features",
-      "source": "MacRumors",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-18",
-      "time": "06:44",
-      "publishedAt": "2026-07-18T06:44:02.000Z",
-      "url": "https://www.macrumors.com/2026/07/17/iphone-18-pro-12-rumored-features/",
-      "image": "https://images.macrumors.com/article-new/2026/02/iPhone-18-Pro-Deep-Red-Feature.jpg",
-      "summary": "It is now mid-July, and that means the iPhone 18 Pro and iPhone 18 Pro Max are now just two months away. The devices are expected to look similar to the iPhone 17 Pro and iPhone 1…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-b63d09b1185a",
-      "title": "iPhone Loyalty Rate Climbs to 87% as Switching to Android Slows",
-      "source": "MacRumors",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-18",
-      "time": "06:44",
-      "publishedAt": "2026-07-18T06:44:02.000Z",
-      "url": "https://www.macrumors.com/2026/07/17/iphone-loyalty-rate-climbs-to-87/",
-      "image": "https://images.macrumors.com/article-new/2025/09/iphone-17-pro-silver.jpg",
-      "summary": "iPhone owners are sticking with the platform at a higher rate than a year ago, with new research firm CIRP putting iPhone loyalty at 87% for the first quarter of 2026. CIRP's late…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-e01c92c1c5d7",
       "title": "荣耀李健 WAIC 宣布 Robot Phone 开启预约：搭载 Agentic OS，8 月份发布",
       "source": "IT之家",
@@ -282,26 +342,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-1f28b992a0e4",
-      "title": "小米 NAS 拆解与初步上手：它会是你的第一台 NAS 吗？",
-      "source": "少数派",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "评测",
-      "trust": "媒体汇总",
-      "date": "2026-07-18",
-      "time": "03:10",
-      "publishedAt": "2026-07-18T03:10:35.000Z",
-      "url": "https://sspai.com/post/112398",
-      "image": "",
-      "summary": "小米智能存储最适合两类用户：家里已经有较多米家设备的人，以及小米手机用户。",
-      "tags": [
-        "Xiaomi",
-        "评测",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-5373fe556bf5",
       "title": "Huawei Mate 90 RS Ultimate Design could use Mate 20-like camera look",
       "source": "Huawei Central",
@@ -319,26 +359,6 @@ window.phoneRadarAuto = {
         "Huawei",
         "爆料",
         "自动抓取"
-      ]
-    },
-    {
-      "id": "coolapk-user-9acc23e8a40e",
-      "title": "JSCHEN小小狐：vivo Y6c 4G 版上架：展锐 T7225 / 899 元",
-      "source": "JSCHEN小小狐",
-      "brand": "vivo",
-      "model": "vivo 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-07-18",
-      "time": "02:40",
-      "publishedAt": "2026-07-18T02:40:14.000Z",
-      "url": "https://www.coolapk.com/feed/72830292",
-      "image": "http://image.coolapk.com/feed/2026/0718/10/4702274_2d9867c9_2412_2959_715@1080x1080.png",
-      "summary": "『vivo Y6c 4G 版上架：展锐 T7225 / 899 元』 4GB + 128GB —— 899 元（原价 1099） ◇ 外观 暮夜黑、流云白、霞光蓝 塑胶中框 + 复合板材后盖 厚 8.39mm，重约 209g ◇ 性能 展锐 T7225 4G 移动平台 （2×A75 1.8GHz + 6×A55 1.8GHz） （Mali-G57 MP1…",
-      "tags": [
-        "vivo",
-        "爆料",
-        "酷安博主"
       ]
     },
     {
@@ -502,26 +522,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-10175c21182c",
-      "title": "我发现我买LG手机，LG手机倒闭，买魅族，魅族倒闭，买真我，真我也倒闭，",
-      "source": "酷安热榜",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-07-18",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72814994",
-      "image": "",
-      "summary": "我发现我买LG手机，LG手机倒闭，买魅族，魅族倒闭，买真我，真我也倒闭，",
-      "tags": [
-        "行业",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
       "id": "newsnow-868a4f0c6e3c",
       "title": "给高考完的妹妹买，真我neo8和红米t5max哪个更推荐[流汗滑稽] #REDMITurbo5Max# #真我neo8#",
       "source": "酷安热榜",
@@ -542,22 +542,62 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-8af5636ecd7f",
-      "title": "小米 HyperOS3 最近更新了一个比较实用的功能：在任何页面下点击状态栏都会回到页面顶部位置，这个功能 OPPO 和其它家都也有，如今小米终于跟上了，这算是日常刷信息流下最实用的功能了，最初是 iPhone 上才有，虽然实现的原理我感觉还是 iPhone 上来得更优雅，安卓这边是模拟了手指滑动的轨迹，而苹果这边是直接跳转加了一个动画效果，期待小米进一步优化",
+      "id": "newsnow-10175c21182c",
+      "title": "我发现我买LG手机，LG手机倒闭，买魅族，魅族倒闭，买真我，真我也倒闭，",
       "source": "酷安热榜",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
+      "brand": "行业",
+      "model": "智能手机市场",
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-07-18",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72813325",
+      "url": "https://www.coolapk.com/feed/72814994",
       "image": "",
-      "summary": "小米 HyperOS3 最近更新了一个比较实用的功能：在任何页面下点击状态栏都会回到页面顶部位置，这个功能 OPPO 和其它家都也有，如今小米终于跟上了，这算是日常刷信息流下最实用的功能了，最初是 iPhone 上才有，虽然实现的原理我感觉还是 iPhone 上来得更优雅，安卓这边是模拟了手指滑动的轨迹，而苹果这边是直接跳转加了一个动画效果，期待小米进一步…",
+      "summary": "我发现我买LG手机，LG手机倒闭，买魅族，魅族倒闭，买真我，真我也倒闭，",
       "tags": [
-        "Xiaomi",
+        "行业",
         "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-dc21dff547a9",
+      "title": "荣耀Robot Phone 机器人手机开启预约：2亿像素4D云台主摄",
+      "source": "酷安热榜",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-07-18",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/72830233",
+      "image": "",
+      "summary": "荣耀Robot Phone 机器人手机开启预约：2亿像素4D云台主摄",
+      "tags": [
+        "HONOR",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-d14df04f4c98",
+      "title": "如何看待曝大 S 生前用手机写下遗产分配方案，珠宝、名牌包留给女儿？",
+      "source": "知乎热榜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "市场报告",
+      "trust": "媒体汇总",
+      "date": "2026-07-18",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.zhihu.com/question/2060765589857990533",
+      "image": "",
+      "summary": "如何看待曝大 S 生前用手机写下遗产分配方案，珠宝、名牌包留给女儿？",
+      "tags": [
+        "行业",
+        "市场报告",
         "NewsNow"
       ]
     },
@@ -942,26 +982,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-d1f381c245a7",
-      "title": "I hope Google's Pixel 11 event surprises us with more than just new phones",
-      "source": "Android Police",
-      "brand": "Pixel",
-      "model": "Pixel 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-17",
-      "time": "12:30",
-      "publishedAt": "2026-07-17T12:30:15.000Z",
-      "url": "https://www.androidpolice.com/google-pixel-11-event-surprises-with-more-than-phones/",
-      "image": "",
-      "summary": "Make the event worth tuning into",
-      "tags": [
-        "Pixel",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-24f923394d49",
       "title": "Will the Google Pixel 10 get cheaper when the Pixel 11 launches?",
       "source": "Android Central",
@@ -978,26 +998,6 @@ window.phoneRadarAuto = {
       "tags": [
         "Pixel",
         "评测",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-2a5f7727168f",
-      "title": "Huawei takes Pura 90s Pro Max camera features to Burj Khalifa heights",
-      "source": "Huawei Central",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-17",
-      "time": "11:33",
-      "publishedAt": "2026-07-17T11:33:23.000Z",
-      "url": "https://www.huaweicentral.com/huawei-takes-pura-90s-pro-max-camera-features-to-burj-khalifa-heights/",
-      "image": "https://www.huaweicentral.com/wp-content/uploads/2026/07/Pura90s-Series.jpg",
-      "summary": "Huawei is showcasing the Pura 90s Pro Max camera features to the UAE by advertising the flagship directly on the Burj Khalifa. The company has now teased the device’s imaging capa…",
-      "tags": [
-        "Huawei",
-        "爆料",
         "自动抓取"
       ]
     },
