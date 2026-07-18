@@ -1,5 +1,5 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-07-18T19:30:17.507Z",
+  "updatedAt": "2026-07-18T21:05:28.624Z",
   "news": [
     {
       "id": "auto-5ac8d39b94e6",
@@ -30,8 +30,8 @@ window.phoneRadarAuto = {
       "type": "爆料",
       "trust": "媒体汇总",
       "date": "2026-07-18",
-      "time": "16:30",
-      "publishedAt": "2026-07-18T16:30:15.000Z",
+      "time": "18:05",
+      "publishedAt": "2026-07-18T18:05:08.000Z",
       "url": "https://www.macrumors.com/2026/07/17/apple-doj-antitrust-settlement/",
       "image": "https://images.macrumors.com/article-new/2024/03/Apple-vs-DOJ-Feature.jpg",
       "summary": "Apple is working to settle an antitrust lawsuit with the U.S. Department of Justice, reports Bloomberg . Apple has proposed several offers and is now in early settlement talks wit…",
@@ -50,8 +50,8 @@ window.phoneRadarAuto = {
       "type": "爆料",
       "trust": "媒体汇总",
       "date": "2026-07-18",
-      "time": "16:30",
-      "publishedAt": "2026-07-18T16:30:15.000Z",
+      "time": "18:05",
+      "publishedAt": "2026-07-18T18:05:08.000Z",
       "url": "https://www.macrumors.com/2026/07/17/iphone-18-pro-12-rumored-features/",
       "image": "https://images.macrumors.com/article-new/2026/02/iPhone-18-Pro-Deep-Red-Feature.jpg",
       "summary": "It is now mid-July, and that means the iPhone 18 Pro and iPhone 18 Pro Max are now just two months away. The devices are expected to look similar to the iPhone 17 Pro and iPhone 1…",
@@ -70,8 +70,8 @@ window.phoneRadarAuto = {
       "type": "爆料",
       "trust": "媒体汇总",
       "date": "2026-07-18",
-      "time": "16:30",
-      "publishedAt": "2026-07-18T16:30:15.000Z",
+      "time": "18:05",
+      "publishedAt": "2026-07-18T18:05:08.000Z",
       "url": "https://www.macrumors.com/2026/07/17/iphone-loyalty-rate-climbs-to-87/",
       "image": "https://images.macrumors.com/article-new/2025/09/iphone-17-pro-silver.jpg",
       "summary": "iPhone owners are sticking with the platform at a higher rate than a year ago, with new research firm CIRP putting iPhone loyalty at 87% for the first quarter of 2026. CIRP's late…",
@@ -582,26 +582,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-963fcf5408ca",
-      "title": "狗东这手机出BUG了吗？？？3000就能买到",
-      "source": "酷安热榜",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-07-18",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72839563",
-      "image": "",
-      "summary": "狗东这手机出BUG了吗？？？3000就能买到",
-      "tags": [
-        "行业",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
       "id": "newsnow-dc21dff547a9",
       "title": "荣耀Robot Phone 机器人手机开启预约：2亿像素4D云台主摄",
       "source": "酷安热榜",
@@ -617,6 +597,26 @@ window.phoneRadarAuto = {
       "summary": "荣耀Robot Phone 机器人手机开启预约：2亿像素4D云台主摄",
       "tags": [
         "HONOR",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-963fcf5408ca",
+      "title": "狗东这手机出BUG了吗？？？3000就能买到",
+      "source": "酷安热榜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-07-18",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/72839563",
+      "image": "",
+      "summary": "狗东这手机出BUG了吗？？？3000就能买到",
+      "tags": [
+        "行业",
         "爆料",
         "NewsNow"
       ]
@@ -678,26 +678,6 @@ window.phoneRadarAuto = {
       "tags": [
         "行业",
         "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-d14df04f4c98",
-      "title": "如何看待曝大 S 生前用手机写下遗产分配方案，珠宝、名牌包留给女儿？",
-      "source": "知乎热榜",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "市场报告",
-      "trust": "媒体汇总",
-      "date": "2026-07-18",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.zhihu.com/question/2060765589857990533",
-      "image": "",
-      "summary": "如何看待曝大 S 生前用手机写下遗产分配方案，珠宝、名牌包留给女儿？",
-      "tags": [
-        "行业",
-        "市场报告",
         "NewsNow"
       ]
     },
