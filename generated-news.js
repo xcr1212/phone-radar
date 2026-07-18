@@ -1,22 +1,22 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-07-18T17:13:47.655Z",
+  "updatedAt": "2026-07-18T19:30:17.507Z",
   "news": [
     {
-      "id": "auto-30dcf552f0eb",
-      "title": "iPhone 18 Pro is just two months away, but you probably shouldn’t wait for it",
-      "source": "9to5Mac",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
+      "id": "auto-5ac8d39b94e6",
+      "title": "Google might not kneecap the Pixel 11a with an old processor",
+      "source": "The Verge",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
       "type": "爆料",
       "trust": "媒体汇总",
       "date": "2026-07-18",
-      "time": "14:39",
-      "publishedAt": "2026-07-18T14:39:00.000Z",
-      "url": "https://9to5mac.com/2026/07/18/iphone-18-pro-heres-why-you-shouldnt-wait-to-upgrade/",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/02/iphone-18-pro-mockup.jpg?quality=82&strip=all&w=1600",
-      "summary": "The next iPhone lineup is around the corner – and it’s going to be a different one. The base model iPhone 18 won’t be making an appearance quite yet, as that model has been shifte…",
+      "time": "18:25",
+      "publishedAt": "2026-07-18T18:25:08.000Z",
+      "url": "https://www.theverge.com/tech/967612/google-pixel-11a-tensor-g6-leak",
+      "image": "",
+      "summary": "Mystic Leaks suggests that the Pixel 11a will return to featuring a flagship-grade processor with the Tensor G6. Rather than the Tensor G5 found in the Pixel 10 and 10 Pro, the Pi…",
       "tags": [
-        "iPhone",
+        "Pixel",
         "爆料",
         "自动抓取"
       ]
@@ -30,8 +30,8 @@ window.phoneRadarAuto = {
       "type": "爆料",
       "trust": "媒体汇总",
       "date": "2026-07-18",
-      "time": "14:12",
-      "publishedAt": "2026-07-18T14:12:54.000Z",
+      "time": "16:30",
+      "publishedAt": "2026-07-18T16:30:15.000Z",
       "url": "https://www.macrumors.com/2026/07/17/apple-doj-antitrust-settlement/",
       "image": "https://images.macrumors.com/article-new/2024/03/Apple-vs-DOJ-Feature.jpg",
       "summary": "Apple is working to settle an antitrust lawsuit with the U.S. Department of Justice, reports Bloomberg . Apple has proposed several offers and is now in early settlement talks wit…",
@@ -50,8 +50,8 @@ window.phoneRadarAuto = {
       "type": "爆料",
       "trust": "媒体汇总",
       "date": "2026-07-18",
-      "time": "14:12",
-      "publishedAt": "2026-07-18T14:12:54.000Z",
+      "time": "16:30",
+      "publishedAt": "2026-07-18T16:30:15.000Z",
       "url": "https://www.macrumors.com/2026/07/17/iphone-18-pro-12-rumored-features/",
       "image": "https://images.macrumors.com/article-new/2026/02/iPhone-18-Pro-Deep-Red-Feature.jpg",
       "summary": "It is now mid-July, and that means the iPhone 18 Pro and iPhone 18 Pro Max are now just two months away. The devices are expected to look similar to the iPhone 17 Pro and iPhone 1…",
@@ -70,11 +70,31 @@ window.phoneRadarAuto = {
       "type": "爆料",
       "trust": "媒体汇总",
       "date": "2026-07-18",
-      "time": "14:12",
-      "publishedAt": "2026-07-18T14:12:54.000Z",
+      "time": "16:30",
+      "publishedAt": "2026-07-18T16:30:15.000Z",
       "url": "https://www.macrumors.com/2026/07/17/iphone-loyalty-rate-climbs-to-87/",
       "image": "https://images.macrumors.com/article-new/2025/09/iphone-17-pro-silver.jpg",
       "summary": "iPhone owners are sticking with the platform at a higher rate than a year ago, with new research firm CIRP putting iPhone loyalty at 87% for the first quarter of 2026. CIRP's late…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-30dcf552f0eb",
+      "title": "iPhone 18 Pro is just two months away, but you probably shouldn’t wait for it",
+      "source": "9to5Mac",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-18",
+      "time": "14:39",
+      "publishedAt": "2026-07-18T14:39:00.000Z",
+      "url": "https://9to5mac.com/2026/07/18/iphone-18-pro-heres-why-you-shouldnt-wait-to-upgrade/",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/02/iphone-18-pro-mockup.jpg?quality=82&strip=all&w=1600",
+      "summary": "The next iPhone lineup is around the corner – and it’s going to be a different one. The base model iPhone 18 won’t be making an appearance quite yet, as that model has been shifte…",
       "tags": [
         "iPhone",
         "爆料",
@@ -422,6 +442,26 @@ window.phoneRadarAuto = {
       ]
     },
     {
+      "id": "coolapk-user-9acc23e8a40e",
+      "title": "JSCHEN小小狐：vivo Y6c 4G 版上架：展锐 T7225 / 899 元",
+      "source": "JSCHEN小小狐",
+      "brand": "vivo",
+      "model": "vivo 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-07-18",
+      "time": "02:40",
+      "publishedAt": "2026-07-18T02:40:14.000Z",
+      "url": "https://www.coolapk.com/feed/72830292",
+      "image": "http://image.coolapk.com/feed/2026/0718/10/4702274_2d9867c9_2412_2959_715@1080x1080.png",
+      "summary": "『vivo Y6c 4G 版上架：展锐 T7225 / 899 元』 4GB + 128GB —— 899 元（原价 1099） ◇ 外观 暮夜黑、流云白、霞光蓝 塑胶中框 + 复合板材后盖 厚 8.39mm，重约 209g ◇ 性能 展锐 T7225 4G 移动平台 （2×A75 1.8GHz + 6×A55 1.8GHz） （Mali-G57 MP1…",
+      "tags": [
+        "vivo",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
       "id": "weibo-8aed06dbf308",
       "title": "数码闲聊站：OPPO Find X10系列新机疑入网，型号PMW110，支持N79 5G频…",
       "source": "数码闲聊站",
@@ -542,8 +582,8 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-ddeb0499978a",
-      "title": "2026年第28周国内手机市场份额曝光：大盘下降约10%",
+      "id": "newsnow-963fcf5408ca",
+      "title": "狗东这手机出BUG了吗？？？3000就能买到",
       "source": "酷安热榜",
       "brand": "行业",
       "model": "智能手机市场",
@@ -552,31 +592,11 @@ window.phoneRadarAuto = {
       "date": "2026-07-18",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72827868",
+      "url": "https://www.coolapk.com/feed/72839563",
       "image": "",
-      "summary": "2026年第28周国内手机市场份额曝光：大盘下降约10%",
+      "summary": "狗东这手机出BUG了吗？？？3000就能买到",
       "tags": [
         "行业",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-868a4f0c6e3c",
-      "title": "给高考完的妹妹买，真我neo8和红米t5max哪个更推荐[流汗滑稽] #REDMITurbo5Max# #真我neo8#",
-      "source": "酷安热榜",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-07-18",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72820321",
-      "image": "",
-      "summary": "给高考完的妹妹买，真我neo8和红米t5max哪个更推荐[流汗滑稽] #REDMITurbo5Max# #真我neo8#",
-      "tags": [
-        "Xiaomi",
         "爆料",
         "NewsNow"
       ]
@@ -602,8 +622,48 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-10175c21182c",
-      "title": "我发现我买LG手机，LG手机倒闭，买魅族，魅族倒闭，买真我，真我也倒闭，",
+      "id": "newsnow-1771b6b6394c",
+      "title": "如何快速高效优雅解锁bl并root您的OPPO Find X9和OPPO Find X9 Pro",
+      "source": "酷安热榜",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-07-18",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/72836114",
+      "image": "",
+      "summary": "如何快速高效优雅解锁bl并root您的OPPO Find X9和OPPO Find X9 Pro",
+      "tags": [
+        "OPPO",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-868a4f0c6e3c",
+      "title": "给高考完的妹妹买，真我neo8和红米t5max哪个更推荐[流汗滑稽] #REDMITurbo5Max# #真我neo8#",
+      "source": "酷安热榜",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-07-18",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/72820321",
+      "image": "",
+      "summary": "给高考完的妹妹买，真我neo8和红米t5max哪个更推荐[流汗滑稽] #REDMITurbo5Max# #真我neo8#",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-ddeb0499978a",
+      "title": "2026年第28周国内手机市场份额曝光：大盘下降约10%",
       "source": "酷安热榜",
       "brand": "行业",
       "model": "智能手机市场",
@@ -612,9 +672,9 @@ window.phoneRadarAuto = {
       "date": "2026-07-18",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72814994",
+      "url": "https://www.coolapk.com/feed/72827868",
       "image": "",
-      "summary": "我发现我买LG手机，LG手机倒闭，买魅族，魅族倒闭，买真我，真我也倒闭，",
+      "summary": "2026年第28周国内手机市场份额曝光：大盘下降约10%",
       "tags": [
         "行业",
         "爆料",

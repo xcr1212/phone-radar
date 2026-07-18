@@ -1,11 +1,11 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-07-18T17:13:47.655Z",
+  "updatedAt": "2026-07-18T19:30:17.507Z",
   "issueDate": "2026-07-18",
   "issue": "VOL.260718",
   "title": "手机情报日报",
-  "intro": "今日筛出 11 条重点，其中 8 条是重点爆料，包含 4 条 iPhone 相关、0 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 9 条重点，其中 8 条是重点爆料，包含 4 条 iPhone 相关、0 条官方确认、0 条参数线索。",
   "stats": {
-    "total": 11,
+    "total": 9,
     "iphone": 4,
     "leaks": 8,
     "official": 0,
@@ -26,8 +26,8 @@ window.phoneRadarDaily = {
           "type": "爆料",
           "trust": "媒体汇总",
           "date": "2026-07-18",
-          "time": "14:12",
-          "publishedAt": "2026-07-18T14:12:54.000Z",
+          "time": "16:30",
+          "publishedAt": "2026-07-18T16:30:15.000Z",
           "url": "https://www.macrumors.com/2026/07/17/apple-doj-antitrust-settlement/",
           "image": "https://images.macrumors.com/article-new/2024/03/Apple-vs-DOJ-Feature.jpg",
           "verdict": "先看",
@@ -49,8 +49,8 @@ window.phoneRadarDaily = {
           "type": "爆料",
           "trust": "媒体汇总",
           "date": "2026-07-18",
-          "time": "14:12",
-          "publishedAt": "2026-07-18T14:12:54.000Z",
+          "time": "16:30",
+          "publishedAt": "2026-07-18T16:30:15.000Z",
           "url": "https://www.macrumors.com/2026/07/17/iphone-18-pro-12-rumored-features/",
           "image": "https://images.macrumors.com/article-new/2026/02/iPhone-18-Pro-Deep-Red-Feature.jpg",
           "verdict": "先看",
@@ -72,8 +72,8 @@ window.phoneRadarDaily = {
           "type": "爆料",
           "trust": "媒体汇总",
           "date": "2026-07-18",
-          "time": "14:12",
-          "publishedAt": "2026-07-18T14:12:54.000Z",
+          "time": "16:30",
+          "publishedAt": "2026-07-18T16:30:15.000Z",
           "url": "https://www.macrumors.com/2026/07/17/iphone-loyalty-rate-climbs-to-87/",
           "image": "https://images.macrumors.com/article-new/2025/09/iphone-17-pro-silver.jpg",
           "verdict": "先看",
@@ -237,66 +237,6 @@ window.phoneRadarDaily = {
             "爆料"
           ],
           "confidence": "可信度较高，但仍属于发布前线索。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        }
-      ]
-    },
-    {
-      "id": "review",
-      "title": "评测与体验",
-      "hint": "买前再细看，平时扫一眼即可。",
-      "items": [
-        {
-          "id": "auto-2f36f80aba4b",
-          "title": "不听劝的阶跃闯进手机战场，造一台为人机共生的终端｜WAIC 2026",
-          "originalTitle": "",
-          "source": "爱范儿",
-          "brand": "行业",
-          "type": "评测",
-          "trust": "媒体汇总",
-          "date": "2026-07-17",
-          "time": "11:31",
-          "publishedAt": "2026-07-17T11:31:43.000Z",
-          "url": "https://www.ifanr.com/1672281?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "image": "https://s3.ifanr.com/wp-content/uploads/2026/07/IMG20260717121624.jpg",
-          "verdict": "扫一眼",
-          "takeaway": "现在是最好的试错时机。",
-          "detail": "现在是最好的试错时机。",
-          "keyPoints": [
-            "评测"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是实际体验内容，买前适合重点看缺点和取舍。",
-          "action": "中文源可以直接点开快读；看完只保留和购机有关的点。"
-        }
-      ]
-    },
-    {
-      "id": "market",
-      "title": "行业趋势",
-      "hint": "看方向，不急着当购买依据。",
-      "items": [
-        {
-          "id": "newsnow-dc21dff547a9",
-          "title": "荣耀Robot Phone 机器人手机开启预约：2亿像素4D云台主摄",
-          "originalTitle": "",
-          "source": "酷安热榜",
-          "brand": "HONOR",
-          "type": "爆料",
-          "trust": "高关注爆料源",
-          "date": "2026-07-18",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://www.coolapk.com/feed/72830233",
-          "image": "",
-          "verdict": "先看",
-          "takeaway": "荣耀Robot Phone 机器人手机开启预约：2亿像素4D云台主摄",
-          "detail": "荣耀Robot Phone 机器人手机开启预约：2亿像素4D云台主摄",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         }
