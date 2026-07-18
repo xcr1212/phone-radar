@@ -1,64 +1,164 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-07-18T03:30:07.010Z",
+  "updatedAt": "2026-07-18T06:17:20.545Z",
   "news": [
     {
-      "id": "newsnow-cb9215cbe188",
-      "title": "OPPO 新机 PMW110 入网，疑似归属 Find X10 系列",
-      "source": "IT之家热榜",
-      "brand": "OPPO",
-      "model": "OPPO 相关机型",
+      "id": "coolapk-user-ef87e29458de",
+      "title": "竹本青：【安卓首款阔折叠曝光：7.6英寸内屏+5.5英寸外屏，预计归属三星Galaxy Z Fold 8系列】 ▫️骁龙8…",
+      "source": "竹本青",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
       "type": "爆料",
-      "trust": "媒体汇总",
+      "trust": "高可信爆料",
       "date": "2026-07-18",
-      "time": "11:20",
-      "publishedAt": "2026-07-18T11:20:33.000Z",
-      "url": "https://www.ithome.com/0/978/404.htm",
-      "image": "",
-      "summary": "OPPO 新机 PMW110 入网，疑似归属 Find X10 系列",
+      "time": "06:05",
+      "publishedAt": "2026-07-18T06:05:43.000Z",
+      "url": "https://www.coolapk.com/feed/72832938",
+      "image": "http://image.coolapk.com/feed/2026/0718/14/4248714_530ac297_4742_7187_460@1439x1853.jpg",
+      "summary": "【安卓首款阔折叠曝光：7.6英寸内屏+5.5英寸外屏，预计归属三星Galaxy Z Fold 8系列】 ▫️骁龙8 Elite Gen5高频版 ▫️7.6英寸4:3内屏+5.5英寸16:10外屏 ▫️4800mAh电池+45W快充 ● 影像： 前置｜10Mp 主摄｜50Mp 超广｜50Mp #今日热点# #三星GalaxyZFold8Ultra#",
       "tags": [
-        "OPPO",
+        "Samsung",
         "爆料",
-        "NewsNow"
+        "酷安博主"
       ]
     },
     {
-      "id": "newsnow-951fea94bb99",
-      "title": "CIRP 报告 2026 美国新购苹果 iPhone 用户画像：87% 来自同平台升级",
-      "source": "IT之家热榜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-18",
-      "time": "09:05",
-      "publishedAt": "2026-07-18T09:05:33.000Z",
-      "url": "https://www.ithome.com/0/978/352.htm",
-      "image": "",
-      "summary": "CIRP 报告 2026 美国新购苹果 iPhone 用户画像：87% 来自同平台升级",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-afea52c1bc3e",
-      "title": "消息称三星 MX 部门 2026Q2 利润承压，正规划重组折叠手机产品线",
-      "source": "IT之家热榜",
+      "id": "auto-fd1f650f5a63",
+      "title": "首款安卓阔折叠手机规格曝光：内 7.6 / 外 5.5 英寸屏幕，预估为三星 Galaxy Z Fold8",
+      "source": "IT之家",
       "brand": "Samsung",
       "model": "Samsung 相关机型",
       "type": "爆料",
       "trust": "媒体汇总",
       "date": "2026-07-18",
-      "time": "08:12",
-      "publishedAt": "2026-07-18T08:12:39.000Z",
-      "url": "https://www.ithome.com/0/978/342.htm",
-      "image": "",
-      "summary": "消息称三星 MX 部门 2026Q2 利润承压，正规划重组折叠手机产品线",
+      "time": "05:50",
+      "publishedAt": "2026-07-18T05:50:45.000Z",
+      "url": "https://www.ithome.com/0/978/454.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/7/a47a51a5-44f0-4221-b94b-677a436b2f7a.png",
+      "summary": "IT之家 7 月 18 日消息，消息源 @数码闲聊站 今天（7 月 18 日）发布微博，分享了一组图片，展示了首款安卓阔折叠手机， 从渲染图来看是三星 Galaxy Z Fold8 手机。 IT之家附上微博内容如下： 7.6 英寸 4:3 内屏 +5.5 英寸 16:10 外屏，3nm 骁龙 8E5 高频版，4800mAh 电池 +45W 快充，前置 10…",
       "tags": [
         "Samsung",
         "爆料",
-        "NewsNow"
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-6142e9ce62bb",
+      "title": "Galaxy Z Fold 8 Ultra display: 5 upgrades it could bring over the Z Fold 7",
+      "source": "SamMobile",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-18",
+      "time": "03:39",
+      "publishedAt": "2026-07-18T03:39:02.000Z",
+      "url": "https://www.sammobile.com/news/galaxy-z-fold-8-ultra-display-5-upgrades-over-z-fold-7/",
+      "image": "https://www.sammobile.com/wp-content/uploads/2026/07/Samsung-Galaxy-Z-Fold-8-Ultra.jpg",
+      "summary": "We are just one week away from the official announcement of the Galaxy Z Fold 8 series. After introducing a major design upgrade with the Galaxy Z Fold 7 last year, Samsung is rep…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-ec4aedfd4ba7",
+      "title": "OPPO 新机 PMW110 入网，疑似归属 Find X10 系列",
+      "source": "IT之家",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-18",
+      "time": "03:20",
+      "publishedAt": "2026-07-18T03:20:33.000Z",
+      "url": "https://www.ithome.com/0/978/404.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/7/a2348922-0303-4290-8e49-3149cf6e493f.png?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 7 月 18 日消息，一款型号为 PMW110 的 OPPO 新机最近入网， 博主 @数码闲聊站 认为该机疑似为 OPPO Find X10 系列 ， 支持 N79 5G 频段 。 博主还在文中猜测起该系列机型的配置：“首批 2nm 天玑 9600 Pro？中屏 + 大屏双尺寸直屏？更窄的 LIPO 四窄边技术？200Mp HPC 超大底多主摄影…",
+      "tags": [
+        "OPPO",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-ef87d0e6e739",
+      "title": "Apple and DOJ Hold Early Settlement Talks in iPhone Antitrust Case",
+      "source": "MacRumors",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-18",
+      "time": "03:17",
+      "publishedAt": "2026-07-18T03:17:06.000Z",
+      "url": "https://www.macrumors.com/2026/07/17/apple-doj-antitrust-settlement/",
+      "image": "https://images.macrumors.com/article-new/2024/03/Apple-vs-DOJ-Feature.jpg",
+      "summary": "Apple is working to settle an antitrust lawsuit with the U.S. Department of Justice, reports Bloomberg . Apple has proposed several offers and is now in early settlement talks wit…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-973d6bf46848",
+      "title": "iPhone 18 Pro Launching in Two Months With These 12 New Features",
+      "source": "MacRumors",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-18",
+      "time": "03:17",
+      "publishedAt": "2026-07-18T03:17:06.000Z",
+      "url": "https://www.macrumors.com/2026/07/17/iphone-18-pro-12-rumored-features/",
+      "image": "https://images.macrumors.com/article-new/2026/02/iPhone-18-Pro-Deep-Red-Feature.jpg",
+      "summary": "It is now mid-July, and that means the iPhone 18 Pro and iPhone 18 Pro Max are now just two months away. The devices are expected to look similar to the iPhone 17 Pro and iPhone 1…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-b63d09b1185a",
+      "title": "iPhone Loyalty Rate Climbs to 87% as Switching to Android Slows",
+      "source": "MacRumors",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-18",
+      "time": "03:17",
+      "publishedAt": "2026-07-18T03:17:06.000Z",
+      "url": "https://www.macrumors.com/2026/07/17/iphone-loyalty-rate-climbs-to-87/",
+      "image": "https://images.macrumors.com/article-new/2025/09/iphone-17-pro-silver.jpg",
+      "summary": "iPhone owners are sticking with the platform at a higher rate than a year ago, with new research firm CIRP putting iPhone loyalty at 87% for the first quarter of 2026. CIRP's late…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-1f28b992a0e4",
+      "title": "小米 NAS 拆解与初步上手：它会是你的第一台 NAS 吗？",
+      "source": "少数派",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-07-18",
+      "time": "03:10",
+      "publishedAt": "2026-07-18T03:10:35.000Z",
+      "url": "https://sspai.com/post/112398",
+      "image": "",
+      "summary": "小米智能存储最适合两类用户：家里已经有较多米家设备的人，以及小米手机用户。",
+      "tags": [
+        "Xiaomi",
+        "评测",
+        "自动抓取"
       ]
     },
     {
@@ -123,7 +223,7 @@ window.phoneRadarAuto = {
     },
     {
       "id": "coolapk-user-ba3e3524073d",
-      "title": "竹本青：【小米旗舰新机入网：支持UWB、N79，预计为小米18 Pro系列】 7月18日，博主数码闲聊站爆料，小米一款全新…",
+      "title": "竹本青：小米旗舰新机入网，预计为小米18 Pro系列",
       "source": "竹本青",
       "brand": "Xiaomi",
       "model": "Xiaomi 相关机型",
@@ -139,6 +239,26 @@ window.phoneRadarAuto = {
         "Xiaomi",
         "爆料",
         "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-03cb929862b3",
+      "title": "CIRP 报告 2026 美国新购苹果 iPhone 用户画像：87% 来自同平台升级",
+      "source": "IT之家",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-18",
+      "time": "01:05",
+      "publishedAt": "2026-07-18T01:05:33.000Z",
+      "url": "https://www.ithome.com/0/978/352.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/7/ff0e5b7f-0327-419b-8900-3fefaadf1282.jpg?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 7 月 18 日消息，市场调查机构 CIRP 最新报告指出，在过去 1 年时间（2025 年 3 月至 2026 年 3 月）里， 在新购 iPhone 的美国用户群体中，87% 是从旧款 iPhone 升级而来的。 报告统计了 2024~2026 过去 3 年的美国 iPhone 升级统计数据，发现 2026 年数据创新高，高于 2024 年（…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
       ]
     },
     {
@@ -159,66 +279,6 @@ window.phoneRadarAuto = {
         "Xiaomi",
         "爆料",
         "微博"
-      ]
-    },
-    {
-      "id": "auto-ef87d0e6e739",
-      "title": "Apple and DOJ Hold Early Settlement Talks in iPhone Antitrust Case",
-      "source": "MacRumors",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-18",
-      "time": "00:30",
-      "publishedAt": "2026-07-18T00:30:01.000Z",
-      "url": "https://www.macrumors.com/2026/07/17/apple-doj-antitrust-settlement/",
-      "image": "https://images.macrumors.com/article-new/2024/03/Apple-vs-DOJ-Feature.jpg",
-      "summary": "Apple is working to settle an antitrust lawsuit with the U.S. Department of Justice, reports Bloomberg . Apple has proposed several offers and is now in early settlement talks wit…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-973d6bf46848",
-      "title": "iPhone 18 Pro Launching in Two Months With These 12 New Features",
-      "source": "MacRumors",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-18",
-      "time": "00:30",
-      "publishedAt": "2026-07-18T00:30:01.000Z",
-      "url": "https://www.macrumors.com/2026/07/17/iphone-18-pro-12-rumored-features/",
-      "image": "https://images.macrumors.com/article-new/2026/02/iPhone-18-Pro-Deep-Red-Feature.jpg",
-      "summary": "It is now mid-July, and that means the iPhone 18 Pro and iPhone 18 Pro Max are now just two months away. The devices are expected to look similar to the iPhone 17 Pro and iPhone 1…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-b63d09b1185a",
-      "title": "iPhone Loyalty Rate Climbs to 87% as Switching to Android Slows",
-      "source": "MacRumors",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-18",
-      "time": "00:30",
-      "publishedAt": "2026-07-18T00:30:01.000Z",
-      "url": "https://www.macrumors.com/2026/07/17/iphone-loyalty-rate-climbs-to-87/",
-      "image": "https://images.macrumors.com/article-new/2025/09/iphone-17-pro-silver.jpg",
-      "summary": "iPhone owners are sticking with the platform at a higher rate than a year ago, with new research firm CIRP putting iPhone loyalty at 87% for the first quarter of 2026. CIRP's late…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
       ]
     },
     {
@@ -322,23 +382,63 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-0a316d5a7167",
-      "title": "最近都在和女朋友搞cosplay，放些国庆广州cicf出小爱预告？#我在酷安晒女友# #人像摄影# #手机摄影#",
+      "id": "newsnow-8af5636ecd7f",
+      "title": "小米 HyperOS3 最近更新了一个比较实用的功能：在任何页面下点击状态栏都会回到页面顶部位置，这个功能 OPPO 和其它家都也有，如今小米终于跟上了，这算是日常刷信息流下最实用的功能了，最初是 iPhone 上才有，虽然实现的原理我感觉还是 iPhone 上来得更优雅，安卓这边是模拟了手指滑动的轨迹，而苹果这边是直接跳转加了一个动画效果，期待小米进一步优化",
       "source": "酷安热榜",
-      "brand": "行业",
-      "model": "智能手机市场",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-07-18",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72818585",
+      "url": "https://www.coolapk.com/feed/72813325",
       "image": "",
-      "summary": "最近都在和女朋友搞cosplay，放些国庆广州cicf出小爱预告？#我在酷安晒女友# #人像摄影# #手机摄影#",
+      "summary": "小米 HyperOS3 最近更新了一个比较实用的功能：在任何页面下点击状态栏都会回到页面顶部位置，这个功能 OPPO 和其它家都也有，如今小米终于跟上了，这算是日常刷信息流下最实用的功能了，最初是 iPhone 上才有，虽然实现的原理我感觉还是 iPhone 上来得更优雅，安卓这边是模拟了手指滑动的轨迹，而苹果这边是直接跳转加了一个动画效果，期待小米进一步…",
       "tags": [
-        "行业",
+        "Xiaomi",
         "爆料",
         "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-ddeb0499978a",
+      "title": "【2026年第28周 国内手机市场份额曝光：华为保持榜首，苹果跌至榜四，大盘下降约10%】",
+      "source": "酷安热榜",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-07-18",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/72827868",
+      "image": "",
+      "summary": "【2026年第28周 国内手机市场份额曝光：华为保持榜首，苹果跌至榜四，大盘下降约10%】",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "auto-700967e39952",
+      "title": "就反垄断诉讼事宜，消息称苹果和美国司法部展开早期和解谈判",
+      "source": "IT之家",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-17",
+      "time": "23:58",
+      "publishedAt": "2026-07-17T23:58:38.000Z",
+      "url": "https://www.ithome.com/0/978/340.htm",
+      "image": "",
+      "summary": "IT之家 7 月 18 日消息，路透社今天（7 月 18 日）发布博文，报道称针对 2024 年发起的反垄断诉讼， 苹果和美国司法部进入早期和解讨论。 IT之家援引博文介绍，这起反垄断诉讼可以追溯到 2024 年，由美国司法部牵头，美国 15 个州参与，指控苹果公司在智能手机市场占据垄断地位，并抬高价格、压制竞争对手。 在 2024 年提交的 88 页诉状…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
       ]
     },
     {
@@ -539,26 +639,6 @@ window.phoneRadarAuto = {
         "Pixel",
         "评测",
         "自动抓取"
-      ]
-    },
-    {
-      "id": "coolapk-user-7a75f61f0b88",
-      "title": "竹本青：【2026年第28周 国内手机市场份额曝光：华为保持榜首，苹果跌至榜四，大盘下降约10%】 ● 2026 W28：…",
-      "source": "竹本青",
-      "brand": "HONOR",
-      "model": "HONOR 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-07-17",
-      "time": "17:58",
-      "publishedAt": "2026-07-17T17:58:29.000Z",
-      "url": "https://www.coolapk.com/feed/72827868",
-      "image": "http://image.coolapk.com/feed/2026/0718/01/4248714_35597c48_1108_7144_322@1272x865.jpg",
-      "summary": "【2026年第28周 国内手机市场份额曝光：华为保持榜首，苹果跌至榜四，大盘下降约10%】 ● 2026 W28：大盘下降约10% 1.华为 —— 20.5% 2.OPPO —— 17.4%（含一加 3.6%，realme 0.7%） 3.vivo —— 16.5%（含iQOO 4.5%） 4.苹果 —— 16.0% 5.小米 —— 13.4% 6.荣耀…",
-      "tags": [
-        "HONOR",
-        "爆料",
-        "酷安博主"
       ]
     },
     {
@@ -803,7 +883,7 @@ window.phoneRadarAuto = {
     },
     {
       "id": "auto-2f36f80aba4b",
-      "title": "不听劝的阶跃闯进手机战场，造一台为人机共生的终端｜WAIC",
+      "title": "不听劝的阶跃闯进手机战场，造一台为人机共生的终端｜WAIC 2026",
       "source": "爱范儿",
       "brand": "行业",
       "model": "智能手机市场",
