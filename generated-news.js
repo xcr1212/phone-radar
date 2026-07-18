@@ -1,22 +1,22 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-07-18T21:05:28.624Z",
+  "updatedAt": "2026-07-18T23:09:42.296Z",
   "news": [
     {
-      "id": "auto-5ac8d39b94e6",
-      "title": "Google might not kneecap the Pixel 11a with an old processor",
-      "source": "The Verge",
-      "brand": "Pixel",
-      "model": "Pixel 相关机型",
+      "id": "auto-91b7b06b86d9",
+      "title": "小米获首批《人工智能终端智能化分级》系列国家标准 L3 评级证书",
+      "source": "IT之家",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
       "type": "爆料",
       "trust": "媒体汇总",
       "date": "2026-07-18",
-      "time": "18:25",
-      "publishedAt": "2026-07-18T18:25:08.000Z",
-      "url": "https://www.theverge.com/tech/967612/google-pixel-11a-tensor-g6-leak",
-      "image": "",
-      "summary": "Mystic Leaks suggests that the Pixel 11a will return to featuring a flagship-grade processor with the Tensor G6. Rather than the Tensor G5 found in the Pixel 10 and 10 Pro, the Pi…",
+      "time": "22:52",
+      "publishedAt": "2026-07-18T22:52:56.000Z",
+      "url": "https://www.ithome.com/0/978/603.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/7/4ec277dc-792c-494f-ad4f-642b1b56bc4c.png?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 7 月 19 日消息，小米手机官方昨晚宣布，小米荣获首批《人工智能终端智能化分级》系列国家标准 L3 评级证书。小米表示， L3 级为目前有明确划分标准的最高智能化水平 。 官方海报显示， 小米 17 Max 手机获得了国家级人工智能 L3 级认证 。 据IT之家昨日报道， 华为 MateBook Pro 近日也获得了国家级人工智能终端智能化分级…",
       "tags": [
-        "Pixel",
+        "Huawei",
         "爆料",
         "自动抓取"
       ]
@@ -30,8 +30,8 @@ window.phoneRadarAuto = {
       "type": "爆料",
       "trust": "媒体汇总",
       "date": "2026-07-18",
-      "time": "18:05",
-      "publishedAt": "2026-07-18T18:05:08.000Z",
+      "time": "20:08",
+      "publishedAt": "2026-07-18T20:08:51.000Z",
       "url": "https://www.macrumors.com/2026/07/17/apple-doj-antitrust-settlement/",
       "image": "https://images.macrumors.com/article-new/2024/03/Apple-vs-DOJ-Feature.jpg",
       "summary": "Apple is working to settle an antitrust lawsuit with the U.S. Department of Justice, reports Bloomberg . Apple has proposed several offers and is now in early settlement talks wit…",
@@ -50,8 +50,8 @@ window.phoneRadarAuto = {
       "type": "爆料",
       "trust": "媒体汇总",
       "date": "2026-07-18",
-      "time": "18:05",
-      "publishedAt": "2026-07-18T18:05:08.000Z",
+      "time": "20:08",
+      "publishedAt": "2026-07-18T20:08:51.000Z",
       "url": "https://www.macrumors.com/2026/07/17/iphone-18-pro-12-rumored-features/",
       "image": "https://images.macrumors.com/article-new/2026/02/iPhone-18-Pro-Deep-Red-Feature.jpg",
       "summary": "It is now mid-July, and that means the iPhone 18 Pro and iPhone 18 Pro Max are now just two months away. The devices are expected to look similar to the iPhone 17 Pro and iPhone 1…",
@@ -70,13 +70,33 @@ window.phoneRadarAuto = {
       "type": "爆料",
       "trust": "媒体汇总",
       "date": "2026-07-18",
-      "time": "18:05",
-      "publishedAt": "2026-07-18T18:05:08.000Z",
+      "time": "20:08",
+      "publishedAt": "2026-07-18T20:08:51.000Z",
       "url": "https://www.macrumors.com/2026/07/17/iphone-loyalty-rate-climbs-to-87/",
       "image": "https://images.macrumors.com/article-new/2025/09/iphone-17-pro-silver.jpg",
       "summary": "iPhone owners are sticking with the platform at a higher rate than a year ago, with new research firm CIRP putting iPhone loyalty at 87% for the first quarter of 2026. CIRP's late…",
       "tags": [
         "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-5ac8d39b94e6",
+      "title": "Google might not kneecap the Pixel 11a with an old processor",
+      "source": "The Verge",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-18",
+      "time": "18:25",
+      "publishedAt": "2026-07-18T18:25:08.000Z",
+      "url": "https://www.theverge.com/tech/967612/google-pixel-11a-tensor-g6-leak",
+      "image": "",
+      "summary": "Mystic Leaks suggests that the Pixel 11a will return to featuring a flagship-grade processor with the Tensor G6. Rather than the Tensor G5 found in the Pixel 10 and 10 Pro, the Pi…",
+      "tags": [
+        "Pixel",
         "爆料",
         "自动抓取"
       ]
@@ -382,26 +402,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-6142e9ce62bb",
-      "title": "Galaxy Z Fold 8 Ultra display: 5 upgrades it could bring over the Z Fold 7",
-      "source": "SamMobile",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-18",
-      "time": "03:39",
-      "publishedAt": "2026-07-18T03:39:02.000Z",
-      "url": "https://www.sammobile.com/news/galaxy-z-fold-8-ultra-display-5-upgrades-over-z-fold-7/",
-      "image": "https://www.sammobile.com/wp-content/uploads/2026/07/Samsung-Galaxy-Z-Fold-8-Ultra.jpg",
-      "summary": "We are just one week away from the official announcement of the Galaxy Z Fold 8 series. After introducing a major design upgrade with the Galaxy Z Fold 7 last year, Samsung is rep…",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-1f28b992a0e4",
       "title": "小米 NAS 拆解与初步上手：它会是你的第一台 NAS 吗？",
       "source": "少数派",
@@ -642,26 +642,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-868a4f0c6e3c",
-      "title": "给高考完的妹妹买，真我neo8和红米t5max哪个更推荐[流汗滑稽] #REDMITurbo5Max# #真我neo8#",
-      "source": "酷安热榜",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-07-18",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72820321",
-      "image": "",
-      "summary": "给高考完的妹妹买，真我neo8和红米t5max哪个更推荐[流汗滑稽] #REDMITurbo5Max# #真我neo8#",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
       "id": "newsnow-ddeb0499978a",
       "title": "2026年第28周国内手机市场份额曝光：大盘下降约10%",
       "source": "酷安热榜",
@@ -682,6 +662,46 @@ window.phoneRadarAuto = {
       ]
     },
     {
+      "id": "newsnow-868a4f0c6e3c",
+      "title": "给高考完的妹妹买，真我neo8和红米t5max哪个更推荐[流汗滑稽] #REDMITurbo5Max# #真我neo8#",
+      "source": "酷安热榜",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-07-18",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/72820321",
+      "image": "",
+      "summary": "给高考完的妹妹买，真我neo8和红米t5max哪个更推荐[流汗滑稽] #REDMITurbo5Max# #真我neo8#",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-d14df04f4c98",
+      "title": "如何看待曝大 S 生前用手机写下遗产分配方案，珠宝、名牌包留给女儿？",
+      "source": "知乎热榜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "市场报告",
+      "trust": "媒体汇总",
+      "date": "2026-07-18",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.zhihu.com/question/2060765589857990533",
+      "image": "",
+      "summary": "如何看待曝大 S 生前用手机写下遗产分配方案，珠宝、名牌包留给女儿？",
+      "tags": [
+        "行业",
+        "市场报告",
+        "NewsNow"
+      ]
+    },
+    {
       "id": "auto-bce1dfaa748c",
       "title": "Pixel 11a could get the one big hardware change you were hoping for",
       "source": "Android Police",
@@ -697,26 +717,6 @@ window.phoneRadarAuto = {
       "summary": "The rest is pretty much what you'd expect",
       "tags": [
         "Pixel",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-9893b6a021d7",
-      "title": "BTS’ J-hope gives us a “BTS” look at Samsung’s Galaxy Z Fold 8 before Unpacked",
-      "source": "SamMobile",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-17",
-      "time": "23:09",
-      "publishedAt": "2026-07-17T23:09:39.000Z",
-      "url": "https://www.sammobile.com/news/bts-j-hope-shows-samsung-galaxy-z-fold-8-before-unpacked/",
-      "image": "https://www.sammobile.com/wp-content/uploads/2026/07/BTS-Z-Fold-8.mp4?_=1",
-      "summary": "Samsung's long-running partnership with South Korean boy band BTS looks set to continue with the Galaxy Z Fold 8. This time, though, it may have revealed a little more than the co…",
-      "tags": [
-        "Samsung",
         "爆料",
         "自动抓取"
       ]
@@ -942,46 +942,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-9391a78bcdad",
-      "title": "Galaxy Z Flip 8 and Fold 8 features confirmed by leaked press renders",
-      "source": "SamMobile",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-17",
-      "time": "15:28",
-      "publishedAt": "2026-07-17T15:28:35.000Z",
-      "url": "https://www.sammobile.com/news/galaxy-z-flip-fold-8-features-confirmed-leaked-press-renders/",
-      "image": "https://www.sammobile.com/wp-content/uploads/2026/07/Samsung-Galaxy-Z-Flip-8-Purple.jpg",
-      "summary": "Ahead of their official announcement scheduled for next week, press renders of the Galaxy Z Flip 8 and the Galaxy Z Fold 8 have been leaked, confirming some of their features and…",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-6a7d187b22d1",
-      "title": "Galaxy Z Fold 8 Ultra’s press renders leak, revealing specs and features",
-      "source": "SamMobile",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-17",
-      "time": "15:09",
-      "publishedAt": "2026-07-17T15:09:43.000Z",
-      "url": "https://www.sammobile.com/news/galaxy-z-fold-8-ultra-press-renders-leak-specs-features/",
-      "image": "https://www.sammobile.com/wp-content/uploads/2026/07/Samsung-Galaxy-Z-Fold-8-Ultra-Cameras.jpeg",
-      "summary": "Just one week ahead of the Galaxy Z Fold 8 Ultra's official announcement, press renders of the phone have been leaked by Evan Blass (@evleaks) via their Substack newsletter. While…",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-987733330d2e",
       "title": "Samsung’s plans for free storage upgrades become clearer as Galaxy Z Fold 8 nears launch",
       "source": "9to5Google",
@@ -995,46 +955,6 @@ window.phoneRadarAuto = {
       "url": "https://9to5google.com/2026/07/17/samsung-galaxy-z-fold-8-free-storage-upgrade/",
       "image": "https://9to5google.com/wp-content/uploads/sites/4/2025/07/galaxy-z-fold-7-mint-1.jpg?quality=82&strip=all&w=1600",
       "summary": "It turns out the news isn’t all so bad. New reports from Samsung insiders claim the company might offer free storage upgrades for some models of the Galaxy Z Fold 8 and Flip 8, bu…",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-a61e422bd49e",
-      "title": "Galaxy Z Fold 8 Ultra battery life could be 25% longer than the Z Fold 7",
-      "source": "SamMobile",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-17",
-      "time": "14:08",
-      "publishedAt": "2026-07-17T14:08:41.000Z",
-      "url": "https://www.sammobile.com/news/galaxy-z-fold-8-ultra-battery-life-25-percent-longer-z-fold-7/",
-      "image": "",
-      "summary": "It was recently revealed that the Galaxy Z Fold 8 and Galaxy Z Fold 8 Ultra use higher-capacity batteries than the Galaxy Z Fold 7. That makes longer battery life a reasonable exp…",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-af86ae458030",
-      "title": "Galaxy Z Flip 8 and Galaxy Z Fold 8 preorders could include a free double-storage perk",
-      "source": "SamMobile",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-17",
-      "time": "12:58",
-      "publishedAt": "2026-07-17T12:58:02.000Z",
-      "url": "https://www.sammobile.com/news/galaxy-z-flip-fold-8-ultra-preorder-free-double-storage-offer/",
-      "image": "",
-      "summary": "With just one week left before Samsung unveils its new foldable phones, reports have surfaced about higher prices and reduced preorder perks. However, a new report claims that the…",
       "tags": [
         "Samsung",
         "爆料",

@@ -1,11 +1,11 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-07-18T21:05:28.624Z",
+  "updatedAt": "2026-07-18T23:09:42.296Z",
   "issueDate": "2026-07-18",
   "issue": "VOL.260718",
   "title": "手机情报日报",
-  "intro": "今日筛出 9 条重点，其中 8 条是重点爆料，包含 4 条 iPhone 相关、0 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 10 条重点，其中 8 条是重点爆料，包含 4 条 iPhone 相关、0 条官方确认、0 条参数线索。",
   "stats": {
-    "total": 9,
+    "total": 10,
     "iphone": 4,
     "leaks": 8,
     "official": 0,
@@ -26,8 +26,8 @@ window.phoneRadarDaily = {
           "type": "爆料",
           "trust": "媒体汇总",
           "date": "2026-07-18",
-          "time": "18:05",
-          "publishedAt": "2026-07-18T18:05:08.000Z",
+          "time": "20:08",
+          "publishedAt": "2026-07-18T20:08:51.000Z",
           "url": "https://www.macrumors.com/2026/07/17/apple-doj-antitrust-settlement/",
           "image": "https://images.macrumors.com/article-new/2024/03/Apple-vs-DOJ-Feature.jpg",
           "verdict": "先看",
@@ -49,8 +49,8 @@ window.phoneRadarDaily = {
           "type": "爆料",
           "trust": "媒体汇总",
           "date": "2026-07-18",
-          "time": "18:05",
-          "publishedAt": "2026-07-18T18:05:08.000Z",
+          "time": "20:08",
+          "publishedAt": "2026-07-18T20:08:51.000Z",
           "url": "https://www.macrumors.com/2026/07/17/iphone-18-pro-12-rumored-features/",
           "image": "https://images.macrumors.com/article-new/2026/02/iPhone-18-Pro-Deep-Red-Feature.jpg",
           "verdict": "先看",
@@ -72,8 +72,8 @@ window.phoneRadarDaily = {
           "type": "爆料",
           "trust": "媒体汇总",
           "date": "2026-07-18",
-          "time": "18:05",
-          "publishedAt": "2026-07-18T18:05:08.000Z",
+          "time": "20:08",
+          "publishedAt": "2026-07-18T20:08:51.000Z",
           "url": "https://www.macrumors.com/2026/07/17/iphone-loyalty-rate-climbs-to-87/",
           "image": "https://images.macrumors.com/article-new/2025/09/iphone-17-pro-silver.jpg",
           "verdict": "先看",
@@ -237,6 +237,36 @@ window.phoneRadarDaily = {
             "爆料"
           ],
           "confidence": "可信度较高，但仍属于发布前线索。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        }
+      ]
+    },
+    {
+      "id": "market",
+      "title": "行业趋势",
+      "hint": "看方向，不急着当购买依据。",
+      "items": [
+        {
+          "id": "newsnow-dc21dff547a9",
+          "title": "荣耀Robot Phone 机器人手机开启预约：2亿像素4D云台主摄",
+          "originalTitle": "",
+          "source": "酷安热榜",
+          "brand": "HONOR",
+          "type": "爆料",
+          "trust": "高关注爆料源",
+          "date": "2026-07-18",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://www.coolapk.com/feed/72830233",
+          "image": "",
+          "verdict": "先看",
+          "takeaway": "荣耀Robot Phone 机器人手机开启预约：2亿像素4D云台主摄",
+          "detail": "荣耀Robot Phone 机器人手机开启预约：2亿像素4D云台主摄",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         }
