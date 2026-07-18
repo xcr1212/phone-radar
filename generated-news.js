@@ -1,6 +1,186 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-07-18T11:17:30.947Z",
+  "updatedAt": "2026-07-18T13:47:24.347Z",
   "news": [
+    {
+      "id": "coolapk-user-86a315f22881",
+      "title": "竹本青：【vivo X300 Pro获评《人工智能终端智能化分级》L3评级证书】 据OriginOS 原系统昨日消息，vi…",
+      "source": "竹本青",
+      "brand": "vivo",
+      "model": "vivo 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-07-18",
+      "time": "13:35",
+      "publishedAt": "2026-07-18T13:35:10.000Z",
+      "url": "https://www.coolapk.com/feed/72838568",
+      "image": "http://image.coolapk.com/feed/2026/0718/21/4248714_8dbc6528_1709_0315_370@1080x1440.jpg",
+      "summary": "【vivo X300 Pro获评《人工智能终端智能化分级》L3评级证书】 据OriginOS 原系统昨日消息，vivo X300 Pro首批获颁《人工智能终端智能化分级》系列国家标准L3评级证书。 L3是当前行业可达到的最高智能化评级，接下来，小V圈搜「圈搜百科」和「猜你想问」也将陆续上线。 #OriginOS6# #今日热点# #vivoX300Pro#",
+      "tags": [
+        "vivo",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "coolapk-user-ee9e3a2eb1d0",
+      "title": "竹本青：【iPhone 17系列 中国区最新销量曝光：超3776万台】 7月18日，博主「RD观测」发布第三方统计数据：截…",
+      "source": "竹本青",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-07-18",
+      "time": "13:17",
+      "publishedAt": "2026-07-18T13:17:06.000Z",
+      "url": "https://www.coolapk.com/feed/72838330",
+      "image": "http://image.coolapk.com/feed/2026/0718/21/4248714_877a1577_0790_7182_701@2160x1542.jpg",
+      "summary": "【iPhone 17系列 中国区最新销量曝光：超3776万台】 7月18日，博主「RD观测」发布第三方统计数据：截至2026年第28周，iPhone 17系列手机在中国市场累计销量约3776.35万台。 前几周数据如下： 截至2026 W27 —— 约3711.92万 截至2026 W26 —— 约3630.44万 截至2026 W25 —— 约3538.…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-663fb30fe156",
+      "title": "vivo Y6c 4G 版手机开售：4GB+128GB、展锐 T7225，售价 899 元",
+      "source": "IT之家",
+      "brand": "vivo",
+      "model": "vivo 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-18",
+      "time": "13:15",
+      "publishedAt": "2026-07-18T13:15:59.000Z",
+      "url": "https://www.ithome.com/0/978/581.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/7/b5be716e-7ee0-4b74-b76d-4aa56886707d.jpg?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 7 月 18 日消息，vivo 在 7 月 15 日推出了 vivo Y6c 4G 版手机，现已开售，目前仅有 4GB+128GB 一个版本， 售价 899 元 。 这台手机搭载 展锐 T7225 八核处理器，支持 4G/3G/2G 网络，采用 4GB LPDDR4X 双通道内存和 128GB UFS2.2 硬盘；电池容量 6500mAh，支持…",
+      "tags": [
+        "vivo",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-a701abc7d13d",
+      "title": "竹本青：【小米17 Max获国家级人工智能 L3级认证】 7月18日，小米宣布旗下小米17 Max手机获得首批《人工智能终…",
+      "source": "竹本青",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-07-18",
+      "time": "12:58",
+      "publishedAt": "2026-07-18T12:58:01.000Z",
+      "url": "https://www.coolapk.com/feed/72838053",
+      "image": "http://image.coolapk.com/feed/2026/0718/20/4248714_f432a3e2_9479_5965_28@2000x2667.jpg",
+      "summary": "【小米17 Max获国家级人工智能 L3级认证】 7月18日，小米宣布旗下小米17 Max手机获得首批《人工智能终端智能化分级》系列国家标准L3评级证书。 据悉，L3级为目前有明确划分标准的最高智能化水平。 #HyperOS3# #今日热点# #小米17Max#",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-db8be82025e9",
+      "title": "Google's new Pixel 11 pricing proved what I suspected about last year's model",
+      "source": "Android Police",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-18",
+      "time": "12:00",
+      "publishedAt": "2026-07-18T12:00:16.000Z",
+      "url": "https://www.androidpolice.com/googles-new-pixel-11-pricing-proved-what-i-suspected-about-last-years-model/",
+      "image": "",
+      "summary": "I'm skipping the Pixel 11",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-510e61ceca6f",
+      "title": "竹本青：【消息称 华为畅享90 Pro Max 单品激活量已突破310万台】 7月18日，数码闲聊站爆料，华为畅享90 P…",
+      "source": "竹本青",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-07-18",
+      "time": "11:51",
+      "publishedAt": "2026-07-18T11:51:22.000Z",
+      "url": "https://www.coolapk.com/feed/72837218",
+      "image": "http://image.coolapk.com/feed/2026/0718/19/4248714_f179e9e3_5481_1686_229@1440x400.jpg",
+      "summary": "【消息称 华为畅享90 Pro Max 单品激活量已突破310万台】 7月18日，数码闲聊站爆料，华为畅享90 Pro Max 上市3个多月，单品已激活310W+；同时，畅享新品也在路上了。 据博主RD观测 4月分享，华为畅享90 Plus／Pro Max 在首销当日销量狂飙25万+。“开售当日，好几个品牌份额都跌到个位数了。”他说。 #华为畅享90Pro…",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-ef87d0e6e739",
+      "title": "Apple and DOJ Hold Early Settlement Talks in iPhone Antitrust Case",
+      "source": "MacRumors",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-18",
+      "time": "10:47",
+      "publishedAt": "2026-07-18T10:47:00.000Z",
+      "url": "https://www.macrumors.com/2026/07/17/apple-doj-antitrust-settlement/",
+      "image": "https://images.macrumors.com/article-new/2024/03/Apple-vs-DOJ-Feature.jpg",
+      "summary": "Apple is working to settle an antitrust lawsuit with the U.S. Department of Justice, reports Bloomberg . Apple has proposed several offers and is now in early settlement talks wit…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-973d6bf46848",
+      "title": "iPhone 18 Pro Launching in Two Months With These 12 New Features",
+      "source": "MacRumors",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-18",
+      "time": "10:47",
+      "publishedAt": "2026-07-18T10:47:00.000Z",
+      "url": "https://www.macrumors.com/2026/07/17/iphone-18-pro-12-rumored-features/",
+      "image": "https://images.macrumors.com/article-new/2026/02/iPhone-18-Pro-Deep-Red-Feature.jpg",
+      "summary": "It is now mid-July, and that means the iPhone 18 Pro and iPhone 18 Pro Max are now just two months away. The devices are expected to look similar to the iPhone 17 Pro and iPhone 1…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-b63d09b1185a",
+      "title": "iPhone Loyalty Rate Climbs to 87% as Switching to Android Slows",
+      "source": "MacRumors",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-18",
+      "time": "10:47",
+      "publishedAt": "2026-07-18T10:47:00.000Z",
+      "url": "https://www.macrumors.com/2026/07/17/iphone-loyalty-rate-climbs-to-87/",
+      "image": "https://images.macrumors.com/article-new/2025/09/iphone-17-pro-silver.jpg",
+      "summary": "iPhone owners are sticking with the platform at a higher rate than a year ago, with new research firm CIRP putting iPhone loyalty at 87% for the first quarter of 2026. CIRP's late…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "weibo-e6bafea4e7b4",
       "title": "数码闲聊站：目前已入网备案的迭代新机：REDMI K100系列、小米18系列、vivo X…",
@@ -77,66 +257,6 @@ window.phoneRadarAuto = {
       "summary": "IT之家 7 月 18 日消息，博主 @数码闲聊站 今日透露， 华为畅享 90 PM（畅享 90 Pro Max） 上市 3 个多月，单品已激活 310W+ 。此外，畅享新品也在路上了。 据IT之家此前报道， 华为畅享 90 Pro Max 手机于 4 月 2 日正式开售 ，搭载麒麟 8000 处理器，预装鸿蒙 HarmonyOS 6 系统， 售价 169…",
       "tags": [
         "Huawei",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-ef87d0e6e739",
-      "title": "Apple and DOJ Hold Early Settlement Talks in iPhone Antitrust Case",
-      "source": "MacRumors",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-18",
-      "time": "08:17",
-      "publishedAt": "2026-07-18T08:17:07.000Z",
-      "url": "https://www.macrumors.com/2026/07/17/apple-doj-antitrust-settlement/",
-      "image": "https://images.macrumors.com/article-new/2024/03/Apple-vs-DOJ-Feature.jpg",
-      "summary": "Apple is working to settle an antitrust lawsuit with the U.S. Department of Justice, reports Bloomberg . Apple has proposed several offers and is now in early settlement talks wit…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-973d6bf46848",
-      "title": "iPhone 18 Pro Launching in Two Months With These 12 New Features",
-      "source": "MacRumors",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-18",
-      "time": "08:17",
-      "publishedAt": "2026-07-18T08:17:07.000Z",
-      "url": "https://www.macrumors.com/2026/07/17/iphone-18-pro-12-rumored-features/",
-      "image": "https://images.macrumors.com/article-new/2026/02/iPhone-18-Pro-Deep-Red-Feature.jpg",
-      "summary": "It is now mid-July, and that means the iPhone 18 Pro and iPhone 18 Pro Max are now just two months away. The devices are expected to look similar to the iPhone 17 Pro and iPhone 1…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-b63d09b1185a",
-      "title": "iPhone Loyalty Rate Climbs to 87% as Switching to Android Slows",
-      "source": "MacRumors",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-18",
-      "time": "08:17",
-      "publishedAt": "2026-07-18T08:17:07.000Z",
-      "url": "https://www.macrumors.com/2026/07/17/iphone-loyalty-rate-climbs-to-87/",
-      "image": "https://images.macrumors.com/article-new/2025/09/iphone-17-pro-silver.jpg",
-      "summary": "iPhone owners are sticking with the platform at a higher rate than a year ago, with new research firm CIRP putting iPhone loyalty at 87% for the first quarter of 2026. CIRP's late…",
-      "tags": [
-        "iPhone",
         "爆料",
         "自动抓取"
       ]
@@ -222,46 +342,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-3c4da9ad37b8",
-      "title": "谷歌 Pixel 11a 手机曝光：Tensor G6 自研芯片，联发科 M90 基带",
-      "source": "IT之家",
-      "brand": "Pixel",
-      "model": "Pixel 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-18",
-      "time": "06:47",
-      "publishedAt": "2026-07-18T06:47:23.000Z",
-      "url": "https://www.ithome.com/0/978/467.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/7/628ff5fb-5994-474c-a2ff-209608bd4cda.png",
-      "summary": "IT之家 7 月 18 日消息，科技媒体 NotebookCheck 今天（7 月 18 日）发布博文，分享了谷歌 Pixel 11a 手机的相关规格信息， 显示该机内部代号为 Formosan。 芯片方面，Pixel 11a 手机搭载谷歌自研 Tensor G6 芯片（内部代号为 Malibu）以及 Titan M3 安全芯片，此外该机采用 PowerV…",
-      "tags": [
-        "Pixel",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-e01c92c1c5d7",
-      "title": "荣耀李健 WAIC 宣布 Robot Phone 开启预约：搭载 Agentic OS，8 月份发布",
-      "source": "IT之家",
-      "brand": "HONOR",
-      "model": "HONOR 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-18",
-      "time": "06:30",
-      "publishedAt": "2026-07-18T06:30:45.000Z",
-      "url": "https://www.ithome.com/0/978/462.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/7/64169dc3-7370-41e3-a7d6-5de374870da3.jpg?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 7 月 18 日消息，7 月 18 日，在 2026 世界人工智能大会（WAIC 2026）期间，荣耀举办了主题为“从数字屏幕到具身智能 —— 物理世界新范式”的分论坛。在本次论坛上，荣耀终端股份有限公司 CEO 李健正式官宣，全球首台机器人手机 Robot Phone 面向全渠道开启预约。 作为具身智能时代的“新物种”，荣耀 Robot Pho…",
-      "tags": [
-        "HONOR",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-c8a2d475dfbe",
       "title": "Oppo Find X10 clears key regulatory hurdle, launch expected in September",
       "source": "Gizmochina",
@@ -302,26 +382,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-fd1f650f5a63",
-      "title": "首款安卓阔折叠手机规格曝光：内 7.6 / 外 5.5 英寸屏幕，预估为三星 Galaxy Z Fold8",
-      "source": "IT之家",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-18",
-      "time": "05:50",
-      "publishedAt": "2026-07-18T05:50:45.000Z",
-      "url": "https://www.ithome.com/0/978/454.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/7/a47a51a5-44f0-4221-b94b-677a436b2f7a.png",
-      "summary": "IT之家 7 月 18 日消息，消息源 @数码闲聊站 今天（7 月 18 日）发布微博，分享了一组图片，展示了首款安卓阔折叠手机， 从渲染图来看是三星 Galaxy Z Fold8 手机。 IT之家附上微博内容如下： 7.6 英寸 4:3 内屏 +5.5 英寸 16:10 外屏，3nm 骁龙 8E5 高频版，4800mAh 电池 +45W 快充，前置 10…",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-6142e9ce62bb",
       "title": "Galaxy Z Fold 8 Ultra display: 5 upgrades it could bring over the Z Fold 7",
       "source": "SamMobile",
@@ -338,6 +398,26 @@ window.phoneRadarAuto = {
       "tags": [
         "Samsung",
         "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-1f28b992a0e4",
+      "title": "小米 NAS 拆解与初步上手：它会是你的第一台 NAS 吗？",
+      "source": "少数派",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-07-18",
+      "time": "03:10",
+      "publishedAt": "2026-07-18T03:10:35.000Z",
+      "url": "https://sspai.com/post/112398",
+      "image": "",
+      "summary": "小米智能存储最适合两类用户：家里已经有较多米家设备的人，以及小米手机用户。",
+      "tags": [
+        "Xiaomi",
+        "评测",
         "自动抓取"
       ]
     },
@@ -542,26 +622,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-10175c21182c",
-      "title": "我发现我买LG手机，LG手机倒闭，买魅族，魅族倒闭，买真我，真我也倒闭，",
-      "source": "酷安热榜",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-07-18",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72814994",
-      "image": "",
-      "summary": "我发现我买LG手机，LG手机倒闭，买魅族，魅族倒闭，买真我，真我也倒闭，",
-      "tags": [
-        "行业",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
       "id": "newsnow-dc21dff547a9",
       "title": "荣耀Robot Phone 机器人手机开启预约：2亿像素4D云台主摄",
       "source": "酷安热榜",
@@ -577,6 +637,26 @@ window.phoneRadarAuto = {
       "summary": "荣耀Robot Phone 机器人手机开启预约：2亿像素4D云台主摄",
       "tags": [
         "HONOR",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-10175c21182c",
+      "title": "我发现我买LG手机，LG手机倒闭，买魅族，魅族倒闭，买真我，真我也倒闭，",
+      "source": "酷安热榜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-07-18",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/72814994",
+      "image": "",
+      "summary": "我发现我买LG手机，LG手机倒闭，买魅族，魅族倒闭，买真我，真我也倒闭，",
+      "tags": [
+        "行业",
         "爆料",
         "NewsNow"
       ]
@@ -798,26 +878,6 @@ window.phoneRadarAuto = {
       "tags": [
         "Pixel",
         "评测",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-f808246810a6",
-      "title": "Samsung’s redesigned Z Fold 8 with a wide display just leaked",
-      "source": "The Verge",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-17",
-      "time": "17:38",
-      "publishedAt": "2026-07-17T17:38:01.000Z",
-      "url": "https://www.theverge.com/tech/967198/samsung-galaxy-z-fold-8-images-specs-leak",
-      "image": "",
-      "summary": "Leaker Evan Blass shared images of Samsung's redesigned Galaxy Z Fold 8 just days before the July 22nd launch event where Samsung is expected to officially announce the phone. The…",
-      "tags": [
-        "Samsung",
-        "爆料",
         "自动抓取"
       ]
     },

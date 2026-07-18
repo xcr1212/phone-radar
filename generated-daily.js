@@ -1,5 +1,5 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-07-18T11:17:30.947Z",
+  "updatedAt": "2026-07-18T13:47:24.347Z",
   "issueDate": "2026-07-18",
   "issue": "VOL.260718",
   "title": "手机情报日报",
@@ -26,8 +26,8 @@ window.phoneRadarDaily = {
           "type": "爆料",
           "trust": "媒体汇总",
           "date": "2026-07-18",
-          "time": "08:17",
-          "publishedAt": "2026-07-18T08:17:07.000Z",
+          "time": "10:47",
+          "publishedAt": "2026-07-18T10:47:00.000Z",
           "url": "https://www.macrumors.com/2026/07/17/apple-doj-antitrust-settlement/",
           "image": "https://images.macrumors.com/article-new/2024/03/Apple-vs-DOJ-Feature.jpg",
           "verdict": "先看",
@@ -49,8 +49,8 @@ window.phoneRadarDaily = {
           "type": "爆料",
           "trust": "媒体汇总",
           "date": "2026-07-18",
-          "time": "08:17",
-          "publishedAt": "2026-07-18T08:17:07.000Z",
+          "time": "10:47",
+          "publishedAt": "2026-07-18T10:47:00.000Z",
           "url": "https://www.macrumors.com/2026/07/17/iphone-18-pro-12-rumored-features/",
           "image": "https://images.macrumors.com/article-new/2026/02/iPhone-18-Pro-Deep-Red-Feature.jpg",
           "verdict": "先看",
@@ -72,8 +72,8 @@ window.phoneRadarDaily = {
           "type": "爆料",
           "trust": "媒体汇总",
           "date": "2026-07-18",
-          "time": "08:17",
-          "publishedAt": "2026-07-18T08:17:07.000Z",
+          "time": "10:47",
+          "publishedAt": "2026-07-18T10:47:00.000Z",
           "url": "https://www.macrumors.com/2026/07/17/iphone-loyalty-rate-climbs-to-87/",
           "image": "https://images.macrumors.com/article-new/2025/09/iphone-17-pro-silver.jpg",
           "verdict": "先看",
@@ -81,6 +81,31 @@ window.phoneRadarDaily = {
           "detail": "iPhone 系统功能 / AI 体验相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
           "keyPoints": [
             "爆料"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "auto-663fb30fe156",
+          "title": "vivo Y6c 4G 版手机开售：4GB+128GB、展锐 T7225，售价 899 元",
+          "originalTitle": "",
+          "source": "IT之家",
+          "brand": "vivo",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-07-18",
+          "time": "13:15",
+          "publishedAt": "2026-07-18T13:15:59.000Z",
+          "url": "https://www.ithome.com/0/978/581.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/7/b5be716e-7ee0-4b74-b76d-4aa56886707d.jpg?x-bce-process=image/format,f_auto",
+          "verdict": "先看",
+          "takeaway": "IT之家 7 月 18 日消息，vivo 在 7 月 15 日推出了 vivo Y6c 4G 版手机，现已开售，目前仅有 4GB+128GB 一个版本， 售价 899 元 。 这台手机搭载 展锐 T7225 八核处理器，支持 4G/3G/2G 网络，采用 4GB LPDDR4X 双通道内存和 128GB UFS2.2 硬盘；电池容量 6500mAh，支持…",
+          "detail": "IT之家 7 月 18 日消息，vivo 在 7 月 15 日推出了 vivo Y6c 4G 版手机，现已开售，目前仅有 4GB+128GB 一个版本， 售价 899 元 。 这台手机搭载 展锐 T7225 八核处理器，支持 4G/3G/2G 网络，采用 4GB LPDDR4X 双通道内存和 128GB UFS2.2 硬盘；电池容量 6500mAh，支持…",
+          "keyPoints": [
+            "电池 / 充电",
+            "芯片 / 性能",
+            "成本 / 价格"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
@@ -178,29 +203,6 @@ window.phoneRadarDaily = {
             "爆料来源"
           ],
           "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "auto-3c4da9ad37b8",
-          "title": "谷歌 Pixel 11a 手机曝光：Tensor G6 自研芯片，联发科 M90 基带",
-          "originalTitle": "",
-          "source": "IT之家",
-          "brand": "Pixel",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-07-18",
-          "time": "06:47",
-          "publishedAt": "2026-07-18T06:47:23.000Z",
-          "url": "https://www.ithome.com/0/978/467.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/7/628ff5fb-5994-474c-a2ff-209608bd4cda.png",
-          "verdict": "先看",
-          "takeaway": "IT之家 7 月 18 日消息，科技媒体 NotebookCheck 今天（7 月 18 日）发布博文，分享了谷歌 Pixel 11a 手机的相关规格信息， 显示该机内部代号为 Formosan。 芯片方面，Pixel 11a 手机搭载谷歌自研 Tensor G6 芯片（内部代号为 Malibu）以及 Titan M3 安全芯片，此外该机采用 PowerV…",
-          "detail": "IT之家 7 月 18 日消息，科技媒体 NotebookCheck 今天（7 月 18 日）发布博文，分享了谷歌 Pixel 11a 手机的相关规格信息， 显示该机内部代号为 Formosan。 芯片方面，Pixel 11a 手机搭载谷歌自研 Tensor G6 芯片（内部代号为 Malibu）以及 Titan M3 安全芯片，此外该机采用 PowerV…",
-          "keyPoints": [
-            "芯片 / 性能"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         }
