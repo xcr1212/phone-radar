@@ -1,6 +1,66 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-07-19T11:28:30.511Z",
+  "updatedAt": "2026-07-19T13:52:31.100Z",
   "news": [
+    {
+      "id": "coolapk-user-72a2bfa42ade",
+      "title": "竹本青：时尚摄影套装均价是多少啊，想收一个玩玩，看开箱视频，说安装以后可以平齐放桌面",
+      "source": "竹本青",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-07-19",
+      "time": "13:42",
+      "publishedAt": "2026-07-19T13:42:04.000Z",
+      "url": "https://www.coolapk.com/feed/72852184",
+      "image": "",
+      "summary": "时尚摄影套装均价是多少啊，想收一个玩玩，看开箱视频，说安装以后可以平齐放桌面",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-4f6e1c1cb711",
+      "title": "OnePlus died with a whimper, not a bang",
+      "source": "9to5Google",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-19",
+      "time": "13:00",
+      "publishedAt": "2026-07-19T13:00:00.000Z",
+      "url": "https://9to5google.com/2026/07/19/oneplus-died-with-a-whimper-not-a-bang/",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/07/oneplus-open-and-13.jpg?quality=82&strip=all&w=1600",
+      "summary": "OnePlus is dead – actually for real this time. It’s got me looking back on my experiences with the brand’s smartphones, the absolute roller coaster that it was, and how OnePlus br…",
+      "tags": [
+        "OPPO",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-4d010259555c",
+      "title": "I wanted to love the Galaxy Z Fold 8, but Samsung already ruined it for me",
+      "source": "Android Police",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-19",
+      "time": "12:15",
+      "publishedAt": "2026-07-19T12:15:15.000Z",
+      "url": "https://www.androidpolice.com/wanted-love-galaxy-z-fold-8-samsung-ruined-it/",
+      "image": "",
+      "summary": "Samsung has run out of ideas",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-817bc1316a19",
       "title": "The Motorola Razr 2025 is the only phone that comes close to replacing my Pixel 11",
@@ -22,26 +82,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-8e506cd16b35",
-      "title": "海信墨水屏手机 A10 配置揭晓：高通跃龙 QCM6690 处理器、安卓 16 原生适配，8 月发布",
-      "source": "IT之家",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-19",
-      "time": "10:16",
-      "publishedAt": "2026-07-19T10:16:25.000Z",
-      "url": "https://www.ithome.com/0/978/764.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/7/8d762d44-c920-45f1-8343-19dd1c8ff441.jpg?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 7 月 19 日消息，海信墨水屏官方今日公布了墨水屏手机 A10 的细节配置参数。 据介绍， 海信墨水屏手机 A10 搭载 4nm 高通跃龙 QCM6690 八核处理器 ，相较前代性能有所提升，支持 PDF 翻页、多文档分屏、长时间手写批注不卡顿；支持智能控温调度，可减少残影；支持静态阅读自动降频，续航相比旗舰芯有所提升。该机还原生适配安卓 16…",
-      "tags": [
-        "行业",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-ef87d0e6e739",
       "title": "Apple and DOJ Hold Early Settlement Talks in iPhone Antitrust Case",
       "source": "MacRumors",
@@ -50,8 +90,8 @@ window.phoneRadarAuto = {
       "type": "爆料",
       "trust": "媒体汇总",
       "date": "2026-07-19",
-      "time": "08:28",
-      "publishedAt": "2026-07-19T08:28:02.000Z",
+      "time": "10:51",
+      "publishedAt": "2026-07-19T10:51:44.000Z",
       "url": "https://www.macrumors.com/2026/07/17/apple-doj-antitrust-settlement/",
       "image": "https://images.macrumors.com/article-new/2024/03/Apple-vs-DOJ-Feature.jpg",
       "summary": "Apple is working to settle an antitrust lawsuit with the U.S. Department of Justice, reports Bloomberg . Apple has proposed several offers and is now in early settlement talks wit…",
@@ -70,8 +110,8 @@ window.phoneRadarAuto = {
       "type": "爆料",
       "trust": "媒体汇总",
       "date": "2026-07-19",
-      "time": "08:28",
-      "publishedAt": "2026-07-19T08:28:02.000Z",
+      "time": "10:51",
+      "publishedAt": "2026-07-19T10:51:44.000Z",
       "url": "https://www.macrumors.com/2026/07/17/iphone-18-pro-12-rumored-features/",
       "image": "https://images.macrumors.com/article-new/2026/02/iPhone-18-Pro-Deep-Red-Feature.jpg",
       "summary": "It is now mid-July, and that means the iPhone 18 Pro and iPhone 18 Pro Max are now just two months away. The devices are expected to look similar to the iPhone 17 Pro and iPhone 1…",
@@ -90,13 +130,33 @@ window.phoneRadarAuto = {
       "type": "爆料",
       "trust": "媒体汇总",
       "date": "2026-07-19",
-      "time": "08:28",
-      "publishedAt": "2026-07-19T08:28:02.000Z",
+      "time": "10:51",
+      "publishedAt": "2026-07-19T10:51:44.000Z",
       "url": "https://www.macrumors.com/2026/07/17/iphone-loyalty-rate-climbs-to-87/",
       "image": "https://images.macrumors.com/article-new/2025/09/iphone-17-pro-silver.jpg",
       "summary": "iPhone owners are sticking with the platform at a higher rate than a year ago, with new research firm CIRP putting iPhone loyalty at 87% for the first quarter of 2026. CIRP's late…",
       "tags": [
         "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-8e506cd16b35",
+      "title": "海信墨水屏手机 A10 配置揭晓：高通跃龙 QCM6690 处理器、安卓 16 原生适配，8 月发布",
+      "source": "IT之家",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-19",
+      "time": "10:16",
+      "publishedAt": "2026-07-19T10:16:25.000Z",
+      "url": "https://www.ithome.com/0/978/764.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/7/8d762d44-c920-45f1-8343-19dd1c8ff441.jpg?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 7 月 19 日消息，海信墨水屏官方今日公布了墨水屏手机 A10 的细节配置参数。 据介绍， 海信墨水屏手机 A10 搭载 4nm 高通跃龙 QCM6690 八核处理器 ，相较前代性能有所提升，支持 PDF 翻页、多文档分屏、长时间手写批注不卡顿；支持智能控温调度，可减少残影；支持静态阅读自动降频，续航相比旗舰芯有所提升。该机还原生适配安卓 16…",
+      "tags": [
+        "行业",
         "爆料",
         "自动抓取"
       ]
@@ -422,6 +482,46 @@ window.phoneRadarAuto = {
       ]
     },
     {
+      "id": "newsnow-dcb06af61175",
+      "title": "这b手机最近是越来越热，越来越卡，我人在商场，给我卡的降亮度，降刷新率，手机烫的一批#HyperOS3#",
+      "source": "酷安热榜",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-07-19",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/72833025",
+      "image": "",
+      "summary": "这b手机最近是越来越热，越来越卡，我人在商场，给我卡的降亮度，降刷新率，手机烫的一批#HyperOS3#",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-c423487d89e9",
+      "title": "公司用废旧冰柜做新机柜",
+      "source": "今日头条热榜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-19",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.toutiao.com/trending/7664077783828348970/",
+      "image": "",
+      "summary": "公司用废旧冰柜做新机柜",
+      "tags": [
+        "行业",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
       "id": "newsnow-5036ba662907",
       "title": "手机次次充到100%也伤电池",
       "source": "百度热搜",
@@ -542,26 +642,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-db8be82025e9",
-      "title": "Google's new Pixel 11 pricing proved what I suspected about last year's model",
-      "source": "Android Police",
-      "brand": "Pixel",
-      "model": "Pixel 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-18",
-      "time": "12:00",
-      "publishedAt": "2026-07-18T12:00:16.000Z",
-      "url": "https://www.androidpolice.com/googles-new-pixel-11-pricing-proved-what-i-suspected-about-last-years-model/",
-      "image": "",
-      "summary": "I'm skipping the Pixel 11",
-      "tags": [
-        "Pixel",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "coolapk-user-510e61ceca6f",
       "title": "竹本青：消息称华为畅享90 Pro Max 单品激活量已突破310万台",
       "source": "竹本青",
@@ -617,26 +697,6 @@ window.phoneRadarAuto = {
       "summary": "Pixel Glow is here, but will it be enough?",
       "tags": [
         "Pixel",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-6f05c164d8a3",
-      "title": "I found my favorite OnePlus phone has become a sad metaphor for OnePlus's death",
-      "source": "Android Police",
-      "brand": "OPPO",
-      "model": "OPPO 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-18",
-      "time": "10:00",
-      "publishedAt": "2026-07-18T10:00:15.000Z",
-      "url": "https://www.androidpolice.com/my-favorite-oneplus-phone-obituary/",
-      "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2026/07/oneplus-7t-pro-mclaren-design.JPG",
-      "summary": "Gone, but not forgotten",
-      "tags": [
-        "OPPO",
         "爆料",
         "自动抓取"
       ]
