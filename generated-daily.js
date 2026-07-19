@@ -1,12 +1,12 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-07-19T19:31:11.652Z",
+  "updatedAt": "2026-07-19T21:06:41.981Z",
   "issueDate": "2026-07-19",
   "issue": "VOL.260719",
   "title": "手机情报日报",
-  "intro": "今日筛出 18 条重点，其中 8 条是重点爆料，包含 5 条 iPhone 相关、0 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 20 条重点，其中 8 条是重点爆料，包含 8 条 iPhone 相关、0 条官方确认、0 条参数线索。",
   "stats": {
-    "total": 18,
-    "iphone": 5,
+    "total": 20,
+    "iphone": 8,
     "leaks": 8,
     "official": 0,
     "specs": 0
@@ -50,8 +50,8 @@ window.phoneRadarDaily = {
           "type": "爆料",
           "trust": "媒体汇总",
           "date": "2026-07-19",
-          "time": "16:30",
-          "publishedAt": "2026-07-19T16:30:48.000Z",
+          "time": "18:06",
+          "publishedAt": "2026-07-19T18:06:21.000Z",
           "url": "https://www.macrumors.com/2026/07/17/apple-doj-antitrust-settlement/",
           "image": "https://images.macrumors.com/article-new/2024/03/Apple-vs-DOJ-Feature.jpg",
           "verdict": "先看",
@@ -73,8 +73,8 @@ window.phoneRadarDaily = {
           "type": "爆料",
           "trust": "媒体汇总",
           "date": "2026-07-19",
-          "time": "16:30",
-          "publishedAt": "2026-07-19T16:30:48.000Z",
+          "time": "18:06",
+          "publishedAt": "2026-07-19T18:06:21.000Z",
           "url": "https://www.macrumors.com/2026/07/17/iphone-18-pro-12-rumored-features/",
           "image": "https://images.macrumors.com/article-new/2026/02/iPhone-18-Pro-Deep-Red-Feature.jpg",
           "verdict": "先看",
@@ -96,8 +96,8 @@ window.phoneRadarDaily = {
           "type": "爆料",
           "trust": "媒体汇总",
           "date": "2026-07-19",
-          "time": "16:30",
-          "publishedAt": "2026-07-19T16:30:48.000Z",
+          "time": "18:06",
+          "publishedAt": "2026-07-19T18:06:21.000Z",
           "url": "https://www.macrumors.com/2026/07/17/iphone-loyalty-rate-climbs-to-87/",
           "image": "https://images.macrumors.com/article-new/2025/09/iphone-17-pro-silver.jpg",
           "verdict": "先看",
@@ -216,6 +216,75 @@ window.phoneRadarDaily = {
       "hint": "不是硬件爆料，但和 iPhone 体验或路线有关。",
       "items": [
         {
+          "id": "newsnow-b0f273caa8a0",
+          "title": "我的出行好伙伴，用 iPhone 一站式解决旅途痛点",
+          "originalTitle": "",
+          "source": "少数派热榜",
+          "brand": "iPhone",
+          "type": "评测",
+          "trust": "媒体汇总",
+          "date": "2026-07-19",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://sspai.com/post/112044",
+          "image": "",
+          "verdict": "扫一眼",
+          "takeaway": "我的出行好伙伴，用 iPhone 一站式解决旅途痛点",
+          "detail": "我的出行好伙伴，用 iPhone 一站式解决旅途痛点",
+          "keyPoints": [
+            "评测"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是实际体验内容，买前适合重点看缺点和取舍。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        },
+        {
+          "id": "newsnow-cd76b69c008a",
+          "title": "iPhone Air 当主力机用了三个多月后，我为什么还是换不掉它",
+          "originalTitle": "",
+          "source": "少数派热榜",
+          "brand": "iPhone",
+          "type": "评测",
+          "trust": "媒体汇总",
+          "date": "2026-07-19",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://sspai.com/post/111113",
+          "image": "",
+          "verdict": "扫一眼",
+          "takeaway": "iPhone Air 当主力机用了三个多月后，我为什么还是换不掉它",
+          "detail": "iPhone Air 当主力机用了三个多月后，我为什么还是换不掉它",
+          "keyPoints": [
+            "评测"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是实际体验内容，买前适合重点看缺点和取舍。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        },
+        {
+          "id": "newsnow-ab2b02b00dfc",
+          "title": "快捷指令｜让 iPhone 用上锤子的「大爆炸」",
+          "originalTitle": "",
+          "source": "少数派热榜",
+          "brand": "iPhone",
+          "type": "评测",
+          "trust": "媒体汇总",
+          "date": "2026-07-19",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://sspai.com/post/111405",
+          "image": "",
+          "verdict": "扫一眼",
+          "takeaway": "快捷指令｜让 iPhone 用上锤子的「大爆炸」",
+          "detail": "快捷指令｜让 iPhone 用上锤子的「大爆炸」",
+          "keyPoints": [
+            "评测"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是实际体验内容，买前适合重点看缺点和取舍。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        },
+        {
           "id": "auto-30dcf552f0eb",
           "title": "iPhone 18 Pro 系统功能 / AI 体验相关消息",
           "originalTitle": "",
@@ -267,53 +336,6 @@ window.phoneRadarDaily = {
           "confidence": "可信度较高，但仍属于发布前线索。",
           "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
-        {
-          "id": "auto-c8a2d475dfbe",
-          "title": "OPPO 发布 / 上市相关消息",
-          "originalTitle": "",
-          "source": "Gizmochina",
-          "brand": "OPPO",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-07-18",
-          "time": "06:26",
-          "publishedAt": "2026-07-18T06:26:22.000Z",
-          "url": "https://www.gizmochina.com/2026/07/18/oppo-find-x10-clears-key-regulatory-hurdle-launch-expected-in-september/",
-          "image": "https://www.gizmochina.com/wp-content/uploads/2026/02/Oppo-Find-X10-Pro-300x300.png?x92417",
-          "verdict": "可略过",
-          "takeaway": "OPPO 有发布或新功能消息，适合确认是否和新机有关。",
-          "detail": "OPPO 发布 / 上市相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
-        {
-          "id": "auto-6142e9ce62bb",
-          "title": "Samsung 折叠屏相关消息",
-          "originalTitle": "",
-          "source": "SamMobile",
-          "brand": "Samsung",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-07-18",
-          "time": "03:39",
-          "publishedAt": "2026-07-18T03:39:02.000Z",
-          "url": "https://www.sammobile.com/news/galaxy-z-fold-8-ultra-display-5-upgrades-over-z-fold-7/",
-          "image": "https://www.sammobile.com/wp-content/uploads/2026/07/Samsung-Galaxy-Z-Fold-8-Ultra.jpg",
-          "verdict": "可略过",
-          "takeaway": "Samsung 折叠屏相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
-          "detail": "Samsung 折叠屏相关消息。重点看折痕、铰链、厚度、屏幕可靠性和重量是否有实质改善。",
-          "keyPoints": [
-            "外观 / 配色 / 尺寸",
-            "屏幕形态"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "影响手感和显示体验，适合和其他机型对比。",
-          "action": "有具体参数就记录到参数库；没有参数就先收藏。"
         }
       ]
     },
@@ -323,26 +345,26 @@ window.phoneRadarDaily = {
       "hint": "买前再细看，平时扫一眼即可。",
       "items": [
         {
-          "id": "auto-561733aac008",
-          "title": "Pixel 11 Pro XL 对比 Pixel 10 Pro XL：差异整理",
+          "id": "newsnow-fe1cac11ab45",
+          "title": "不是，人家1299的定价，咋这么多人拿来当旗舰机评测啊，完了对比这个那个不行不行的，好像裁判一样[流汗滑稽]",
           "originalTitle": "",
-          "source": "Android Central",
-          "brand": "Pixel",
-          "type": "评测",
-          "trust": "媒体汇总",
+          "source": "酷安热榜",
+          "brand": "行业",
+          "type": "爆料",
+          "trust": "高关注爆料源",
           "date": "2026-07-19",
-          "time": "06:51",
-          "publishedAt": "2026-07-19T06:51:00.000Z",
-          "url": "https://www.androidcentral.com/phones/google-pixel/google-pixel-11-pro-xl-vs-pixel-10-pro-xl",
-          "image": "https://cdn.mos.cms.futurecdn.net/uxCJTEfLiCZ5DpseWfgCib-1280-80.jpg",
-          "verdict": "可略过",
-          "takeaway": "Pixel 11 Pro XL 对比 Pixel 10 Pro XL：重点看定位、配置差异和价格差，判断是否值得等更高端型号。",
-          "detail": "Pixel 11 Pro XL 对比 Pixel 10 Pro XL 的差异整理。重点看两款机型的定位、影像规格、屏幕尺寸、价格区间和发布时间是否拉开差距。",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://www.coolapk.com/feed/72833090",
+          "image": "",
+          "verdict": "扫一眼",
+          "takeaway": "不是，人家1299的定价，咋这么多人拿来当旗舰机评测啊，完了对比这个那个不行不行的，好像裁判一样[流汗滑稽]",
+          "detail": "不是，人家1299的定价，咋这么多人拿来当旗舰机评测啊，完了对比这个那个不行不行的，好像裁判一样[流汗滑稽]",
           "keyPoints": [
-            "外观 / 配色 / 尺寸"
+            "爆料"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是实际体验内容，买前适合重点看缺点和取舍。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         }
       ]
@@ -352,6 +374,98 @@ window.phoneRadarDaily = {
       "title": "行业趋势",
       "hint": "看方向，不急着当购买依据。",
       "items": [
+        {
+          "id": "newsnow-0bc720e95bac",
+          "title": "今天，一张大概率是小米澎湃OS4的内部手机机桌面截图泄露到网络，现在单纯基于这张图分析一下新变化：",
+          "originalTitle": "",
+          "source": "酷安热榜",
+          "brand": "Xiaomi",
+          "type": "爆料",
+          "trust": "高关注爆料源",
+          "date": "2026-07-19",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://www.coolapk.com/feed/72852407",
+          "image": "",
+          "verdict": "先看",
+          "takeaway": "今天，一张大概率是小米澎湃OS4的内部手机机桌面截图泄露到网络，现在单纯基于这张图分析一下新变化：",
+          "detail": "今天，一张大概率是小米澎湃OS4的内部手机机桌面截图泄露到网络，现在单纯基于这张图分析一下新变化：",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        },
+        {
+          "id": "newsnow-54cd89f49e08",
+          "title": "荣耀Robot Phone 机器人手机开启预约：2亿像素4D云台主摄",
+          "originalTitle": "",
+          "source": "酷安热榜",
+          "brand": "HONOR",
+          "type": "爆料",
+          "trust": "高关注爆料源",
+          "date": "2026-07-19",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://www.coolapk.com/feed/72830233",
+          "image": "",
+          "verdict": "先看",
+          "takeaway": "荣耀Robot Phone 机器人手机开启预约：2亿像素4D云台主摄",
+          "detail": "荣耀Robot Phone 机器人手机开启预约：2亿像素4D云台主摄",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        },
+        {
+          "id": "newsnow-8c0615e63247",
+          "title": "狗东这手机出BUG了吗？？？3000就能买到",
+          "originalTitle": "",
+          "source": "酷安热榜",
+          "brand": "行业",
+          "type": "爆料",
+          "trust": "高关注爆料源",
+          "date": "2026-07-19",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://www.coolapk.com/feed/72839563",
+          "image": "",
+          "verdict": "扫一眼",
+          "takeaway": "狗东这手机出BUG了吗？？？3000就能买到",
+          "detail": "狗东这手机出BUG了吗？？？3000就能买到",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        },
+        {
+          "id": "newsnow-ae8426a4cc43",
+          "title": "#下半年最期待的新机#",
+          "originalTitle": "",
+          "source": "酷安热榜",
+          "brand": "行业",
+          "type": "爆料",
+          "trust": "高关注爆料源",
+          "date": "2026-07-19",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://www.coolapk.com/feed/72838808",
+          "image": "",
+          "verdict": "扫一眼",
+          "takeaway": "#下半年最期待的新机#",
+          "detail": "#下半年最期待的新机#",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        },
         {
           "id": "coolapk-user-48479b9d226a",
           "title": "竹本青：【小米 17系列 最新销量曝光：全系突破568万台，Ultra约23.43万台】 博主「RD观测」昨日分享第三方数…",
@@ -397,76 +511,6 @@ window.phoneRadarDaily = {
           "confidence": "可信度较高，但仍属于发布前线索。",
           "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
-        {
-          "id": "coolapk-user-790b9a463952",
-          "title": "竹本青：OPPO陈希: ColorOS不倾向透明化卡片设计，影响可读性",
-          "originalTitle": "",
-          "source": "竹本青",
-          "brand": "OPPO",
-          "type": "爆料",
-          "trust": "高可信爆料",
-          "date": "2026-07-18",
-          "time": "13:59",
-          "publishedAt": "2026-07-18T13:59:13.000Z",
-          "url": "https://www.coolapk.com/feed/72838905",
-          "image": "http://image.coolapk.com/feed/2026/0718/21/4248714_50f9e250_3152_174_831@1440x1449.jpg",
-          "verdict": "扫一眼",
-          "takeaway": "【OPPO陈希: ColorOS不倾向透明化卡片设计，对可读性有很大影响】 7月18日，有网友向OPPO ColorOS设计总监陈希提议，希望ColorOS 17上线透明底信息卡片设计。 对此，陈希明确回应：ColorOS整体并不倾向透明化的卡片设计。他表示，该设计会大幅影响内容可读性，甚至功能也要因此受到约束。 未来，只会考虑在极少的非阅读性卡片上尝试，…",
-          "detail": "【OPPO陈希: ColorOS不倾向透明化卡片设计，对可读性有很大影响】 7月18日，有网友向OPPO ColorOS设计总监陈希提议，希望ColorOS 17上线透明底信息卡片设计。 对此，陈希明确回应：ColorOS整体并不倾向透明化的卡片设计。他表示，该设计会大幅影响内容可读性，甚至功能也要因此受到约束。 未来，只会考虑在极少的非阅读性卡片上尝试，…",
-          "keyPoints": [
-            "外观 / 配色 / 尺寸"
-          ],
-          "confidence": "可信度较高，但仍属于发布前线索。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
-        {
-          "id": "auto-cc25fb79cf49",
-          "title": "Pixel 相关消息",
-          "originalTitle": "",
-          "source": "Android Authority",
-          "brand": "Pixel",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-07-18",
-          "time": "10:00",
-          "publishedAt": "2026-07-18T10:00:48.000Z",
-          "url": "https://www.androidauthority.com/pixel-glow-doesnt-solve-pixel-11-biggest-problems-3688323/",
-          "image": "",
-          "verdict": "可略过",
-          "takeaway": "Pixel 相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
-          "detail": "Pixel 相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
-        {
-          "id": "auto-5373fe556bf5",
-          "title": "Huawei 外观设计线索曝光",
-          "originalTitle": "",
-          "source": "Huawei Central",
-          "brand": "Huawei",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-07-18",
-          "time": "02:43",
-          "publishedAt": "2026-07-18T02:43:48.000Z",
-          "url": "https://www.huaweicentral.com/huawei-mate-90-rs-ultimate-camera-look/",
-          "image": "https://www.huaweicentral.com/wp-content/uploads/2026/07/Mate90RS-leak.jpg",
-          "verdict": "可略过",
-          "takeaway": "Huawei 外观设计线索曝光。重点看外观、颜色、尺寸是否和上一代有明显变化。",
-          "detail": "Huawei 外观设计线索曝光。这类内容主要看外观设计、按键布局、相机模组和尺寸变化，后续最好等更多渲染图或保护壳线索互相验证。",
-          "keyPoints": [
-            "外观 / 配色 / 尺寸",
-            "影像硬件"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "影响拍照体验，买旗舰机时值得关注。",
-          "action": "有具体参数就记录到参数库；没有参数就先收藏。"
         }
       ]
     }
