@@ -1,6 +1,26 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-07-19T21:06:41.981Z",
+  "updatedAt": "2026-07-19T23:10:46.157Z",
   "news": [
+    {
+      "id": "auto-59fe23616066",
+      "title": "Google Pixel 11a specs leaked: Tensor G6, MediaTek M90 modem, Titan M3 security chip",
+      "source": "Gizmochina",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-19",
+      "time": "22:36",
+      "publishedAt": "2026-07-19T22:36:52.000Z",
+      "url": "https://www.gizmochina.com/2026/07/19/google-pixel-11a-specs-leaked-tensor-g6-mediatek-m90-modem-titan-m3-security-chip/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/07/Screenshot-2026-07-20-034721-300x169.png?x92417",
+      "summary": "Google’s affordable Pixel A-series is getting ready to make another strong impression with the upcoming Pixel 11a. Fresh leaks have given us a pretty detailed look at what’s comin…",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-ec035e62c0da",
       "title": "Here’s what the wide Galaxy Z Fold 8 looks like in real life [Gallery]",
@@ -30,8 +50,8 @@ window.phoneRadarAuto = {
       "type": "爆料",
       "trust": "媒体汇总",
       "date": "2026-07-19",
-      "time": "18:06",
-      "publishedAt": "2026-07-19T18:06:21.000Z",
+      "time": "20:10",
+      "publishedAt": "2026-07-19T20:10:40.000Z",
       "url": "https://www.macrumors.com/2026/07/17/apple-doj-antitrust-settlement/",
       "image": "https://images.macrumors.com/article-new/2024/03/Apple-vs-DOJ-Feature.jpg",
       "summary": "Apple is working to settle an antitrust lawsuit with the U.S. Department of Justice, reports Bloomberg . Apple has proposed several offers and is now in early settlement talks wit…",
@@ -50,8 +70,8 @@ window.phoneRadarAuto = {
       "type": "爆料",
       "trust": "媒体汇总",
       "date": "2026-07-19",
-      "time": "18:06",
-      "publishedAt": "2026-07-19T18:06:21.000Z",
+      "time": "20:10",
+      "publishedAt": "2026-07-19T20:10:40.000Z",
       "url": "https://www.macrumors.com/2026/07/17/iphone-18-pro-12-rumored-features/",
       "image": "https://images.macrumors.com/article-new/2026/02/iPhone-18-Pro-Deep-Red-Feature.jpg",
       "summary": "It is now mid-July, and that means the iPhone 18 Pro and iPhone 18 Pro Max are now just two months away. The devices are expected to look similar to the iPhone 17 Pro and iPhone 1…",
@@ -70,8 +90,8 @@ window.phoneRadarAuto = {
       "type": "爆料",
       "trust": "媒体汇总",
       "date": "2026-07-19",
-      "time": "18:06",
-      "publishedAt": "2026-07-19T18:06:21.000Z",
+      "time": "20:10",
+      "publishedAt": "2026-07-19T20:10:40.000Z",
       "url": "https://www.macrumors.com/2026/07/17/iphone-loyalty-rate-climbs-to-87/",
       "image": "https://images.macrumors.com/article-new/2025/09/iphone-17-pro-silver.jpg",
       "summary": "iPhone owners are sticking with the platform at a higher rate than a year ago, with new research firm CIRP putting iPhone loyalty at 87% for the first quarter of 2026. CIRP's late…",
@@ -437,6 +457,26 @@ window.phoneRadarAuto = {
       "summary": "#下半年最期待的新机#",
       "tags": [
         "行业",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-94792c8e80fc",
+      "title": "其实我感觉iPhone的信号并不差[受虐滑稽]，同一个地方如果苹果刷不出东西，其他手机也是半斤八两，体验也不会很好[受虐滑稽]",
+      "source": "酷安热榜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-07-19",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/72850962",
+      "image": "",
+      "summary": "其实我感觉iPhone的信号并不差[受虐滑稽]，同一个地方如果苹果刷不出东西，其他手机也是半斤八两，体验也不会很好[受虐滑稽]",
+      "tags": [
+        "iPhone",
         "爆料",
         "NewsNow"
       ]
