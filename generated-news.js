@@ -1,5 +1,5 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-07-19T13:52:31.100Z",
+  "updatedAt": "2026-07-19T15:14:17.532Z",
   "news": [
     {
       "id": "coolapk-user-72a2bfa42ade",
@@ -62,26 +62,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-817bc1316a19",
-      "title": "The Motorola Razr 2025 is the only phone that comes close to replacing my Pixel 11",
-      "source": "Android Police",
-      "brand": "Pixel",
-      "model": "Pixel 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-19",
-      "time": "11:00",
-      "publishedAt": "2026-07-19T11:00:16.000Z",
-      "url": "https://www.androidpolice.com/the-motorola-razr-2025-is-the-only-phone-that-comes-close-to-replacing-my-pixel/",
-      "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2026/07/motorola-razr-2025-folded-on-a-concrete-ledge-against-a-blue-background.png",
-      "summary": "It's the only other phone I would buy in 2026",
-      "tags": [
-        "Pixel",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-ef87d0e6e739",
       "title": "Apple and DOJ Hold Early Settlement Talks in iPhone Antitrust Case",
       "source": "MacRumors",
@@ -90,8 +70,8 @@ window.phoneRadarAuto = {
       "type": "爆料",
       "trust": "媒体汇总",
       "date": "2026-07-19",
-      "time": "10:51",
-      "publishedAt": "2026-07-19T10:51:44.000Z",
+      "time": "12:14",
+      "publishedAt": "2026-07-19T12:14:18.000Z",
       "url": "https://www.macrumors.com/2026/07/17/apple-doj-antitrust-settlement/",
       "image": "https://images.macrumors.com/article-new/2024/03/Apple-vs-DOJ-Feature.jpg",
       "summary": "Apple is working to settle an antitrust lawsuit with the U.S. Department of Justice, reports Bloomberg . Apple has proposed several offers and is now in early settlement talks wit…",
@@ -110,8 +90,8 @@ window.phoneRadarAuto = {
       "type": "爆料",
       "trust": "媒体汇总",
       "date": "2026-07-19",
-      "time": "10:51",
-      "publishedAt": "2026-07-19T10:51:44.000Z",
+      "time": "12:14",
+      "publishedAt": "2026-07-19T12:14:18.000Z",
       "url": "https://www.macrumors.com/2026/07/17/iphone-18-pro-12-rumored-features/",
       "image": "https://images.macrumors.com/article-new/2026/02/iPhone-18-Pro-Deep-Red-Feature.jpg",
       "summary": "It is now mid-July, and that means the iPhone 18 Pro and iPhone 18 Pro Max are now just two months away. The devices are expected to look similar to the iPhone 17 Pro and iPhone 1…",
@@ -130,13 +110,33 @@ window.phoneRadarAuto = {
       "type": "爆料",
       "trust": "媒体汇总",
       "date": "2026-07-19",
-      "time": "10:51",
-      "publishedAt": "2026-07-19T10:51:44.000Z",
+      "time": "12:14",
+      "publishedAt": "2026-07-19T12:14:18.000Z",
       "url": "https://www.macrumors.com/2026/07/17/iphone-loyalty-rate-climbs-to-87/",
       "image": "https://images.macrumors.com/article-new/2025/09/iphone-17-pro-silver.jpg",
       "summary": "iPhone owners are sticking with the platform at a higher rate than a year ago, with new research firm CIRP putting iPhone loyalty at 87% for the first quarter of 2026. CIRP's late…",
       "tags": [
         "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-817bc1316a19",
+      "title": "The Motorola Razr 2025 is the only phone that comes close to replacing my Pixel 11",
+      "source": "Android Police",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-19",
+      "time": "11:00",
+      "publishedAt": "2026-07-19T11:00:16.000Z",
+      "url": "https://www.androidpolice.com/the-motorola-razr-2025-is-the-only-phone-that-comes-close-to-replacing-my-pixel/",
+      "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2026/07/motorola-razr-2025-folded-on-a-concrete-ledge-against-a-blue-background.png",
+      "summary": "It's the only other phone I would buy in 2026",
+      "tags": [
+        "Pixel",
         "爆料",
         "自动抓取"
       ]
@@ -197,26 +197,6 @@ window.phoneRadarAuto = {
       "summary": "A big data breach at one of Apple’s suppliers has given us some of the clearest details yet about the camera setup coming to the iPhone 18 Pro Max. The leak confirms that Apple is…",
       "tags": [
         "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-b42df576566e",
-      "title": "vivo 获首批《人工智能终端智能化分级》系列国家标准 L3 评级证书",
-      "source": "IT之家",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-19",
-      "time": "07:21",
-      "publishedAt": "2026-07-19T07:21:44.000Z",
-      "url": "https://www.ithome.com/0/978/710.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/7/bf3bc60c-01fc-46b4-ac4f-cde1ae3570b5.jpg",
-      "summary": "IT之家 7 月 19 日消息，据 vivo 手机操作系统官方微博 @OriginOS原系统 消息，vivo 首批获颁《人工智能终端智能化分级》系列国家标准 L3 评级证书。vivo 官方表示， L3 是当前行业可达到的最高智能化评级 。 vivo 官方还发布了预告， 称小 V 圈搜「圈搜百科」和「猜你想问」也将陆续上线 。 目前， 小米 17 Max 手…",
-      "tags": [
-        "Xiaomi",
         "爆料",
         "自动抓取"
       ]
@@ -442,6 +422,26 @@ window.phoneRadarAuto = {
       ]
     },
     {
+      "id": "newsnow-dcb06af61175",
+      "title": "这b手机最近是越来越热，越来越卡，我人在商场，给我卡的降亮度，降刷新率，手机烫的一批#HyperOS3#",
+      "source": "酷安热榜",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-07-19",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/72833025",
+      "image": "",
+      "summary": "这b手机最近是越来越热，越来越卡，我人在商场，给我卡的降亮度，降刷新率，手机烫的一批#HyperOS3#",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
       "id": "newsnow-e83131ba0f55",
       "title": "2026年第28周国内手机市场份额曝光：大盘下降约10%",
       "source": "酷安热榜",
@@ -482,21 +482,21 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-dcb06af61175",
-      "title": "这b手机最近是越来越热，越来越卡，我人在商场，给我卡的降亮度，降刷新率，手机烫的一批#HyperOS3#",
-      "source": "酷安热榜",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
+      "id": "newsnow-da568e3e1b37",
+      "title": "丁禹兮忙了一天打开手机天塌了",
+      "source": "微博热搜",
+      "brand": "行业",
+      "model": "智能手机市场",
       "type": "爆料",
-      "trust": "高关注爆料源",
+      "trust": "待验证",
       "date": "2026-07-19",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72833025",
+      "url": "https://s.weibo.com/weibo?q=%23%E4%B8%81%E7%A6%B9%E5%85%AE%E5%BF%99%E4%BA%86%E4%B8%80%E5%A4%A9%E6%89%93%E5%BC%80%E6%89%8B%E6%9C%BA%E5%A4%A9%E5%A1%8C%E4%BA%86%23&t=31&band_rank=14&Refer=top",
       "image": "",
-      "summary": "这b手机最近是越来越热，越来越卡，我人在商场，给我卡的降亮度，降刷新率，手机烫的一批#HyperOS3#",
+      "summary": "丁禹兮忙了一天打开手机天塌了",
       "tags": [
-        "Xiaomi",
+        "行业",
         "爆料",
         "NewsNow"
       ]
@@ -515,26 +515,6 @@ window.phoneRadarAuto = {
       "url": "https://www.toutiao.com/trending/7664077783828348970/",
       "image": "",
       "summary": "公司用废旧冰柜做新机柜",
-      "tags": [
-        "行业",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-5036ba662907",
-      "title": "手机次次充到100%也伤电池",
-      "source": "百度热搜",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-19",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.baidu.com/s?wd=%E6%89%8B%E6%9C%BA%E6%AC%A1%E6%AC%A1%E5%85%85%E5%88%B0100%25%E4%B9%9F%E4%BC%A4%E7%94%B5%E6%B1%A0",
-      "image": "",
-      "summary": "手机次次充到100%也伤电池",
       "tags": [
         "行业",
         "爆料",
@@ -637,26 +617,6 @@ window.phoneRadarAuto = {
       "summary": "【小米17 Max获国家级人工智能 L3级认证】 7月18日，小米宣布旗下小米17 Max手机获得首批《人工智能终端智能化分级》系列国家标准L3评级证书。 据悉，L3级为目前有明确划分标准的最高智能化水平。 #HyperOS3# #今日热点# #小米17Max#",
       "tags": [
         "Xiaomi",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
-      "id": "coolapk-user-510e61ceca6f",
-      "title": "竹本青：消息称华为畅享90 Pro Max 单品激活量已突破310万台",
-      "source": "竹本青",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-07-18",
-      "time": "11:51",
-      "publishedAt": "2026-07-18T11:51:22.000Z",
-      "url": "https://www.coolapk.com/feed/72837218",
-      "image": "http://image.coolapk.com/feed/2026/0718/19/4248714_f179e9e3_5481_1686_229@1440x400.jpg",
-      "summary": "【消息称 华为畅享90 Pro Max 单品激活量已突破310万台】 7月18日，数码闲聊站爆料，华为畅享90 Pro Max 上市3个多月，单品已激活310W+；同时，畅享新品也在路上了。 据博主RD观测 4月分享，华为畅享90 Plus／Pro Max 在首销当日销量狂飙25万+。“开售当日，好几个品牌份额都跌到个位数了。”他说。 #华为畅享90Pro…",
-      "tags": [
-        "Huawei",
         "爆料",
         "酷安博主"
       ]
