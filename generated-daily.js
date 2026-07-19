@@ -1,12 +1,12 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-07-19T03:52:44.276Z",
+  "updatedAt": "2026-07-19T06:42:10.217Z",
   "issueDate": "2026-07-19",
   "issue": "VOL.260719",
   "title": "手机情报日报",
-  "intro": "今日筛出 19 条重点，其中 8 条是重点爆料，包含 7 条 iPhone 相关、0 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 17 条重点，其中 8 条是重点爆料，包含 4 条 iPhone 相关、0 条官方确认、0 条参数线索。",
   "stats": {
-    "total": 19,
-    "iphone": 7,
+    "total": 17,
+    "iphone": 4,
     "leaks": 8,
     "official": 0,
     "specs": 0
@@ -26,8 +26,8 @@ window.phoneRadarDaily = {
           "type": "爆料",
           "trust": "媒体汇总",
           "date": "2026-07-19",
-          "time": "00:52",
-          "publishedAt": "2026-07-19T00:52:32.000Z",
+          "time": "03:41",
+          "publishedAt": "2026-07-19T03:41:52.000Z",
           "url": "https://www.macrumors.com/2026/07/17/apple-doj-antitrust-settlement/",
           "image": "https://images.macrumors.com/article-new/2024/03/Apple-vs-DOJ-Feature.jpg",
           "verdict": "先看",
@@ -49,8 +49,8 @@ window.phoneRadarDaily = {
           "type": "爆料",
           "trust": "媒体汇总",
           "date": "2026-07-19",
-          "time": "00:52",
-          "publishedAt": "2026-07-19T00:52:32.000Z",
+          "time": "03:41",
+          "publishedAt": "2026-07-19T03:41:52.000Z",
           "url": "https://www.macrumors.com/2026/07/17/iphone-18-pro-12-rumored-features/",
           "image": "https://images.macrumors.com/article-new/2026/02/iPhone-18-Pro-Deep-Red-Feature.jpg",
           "verdict": "先看",
@@ -72,8 +72,8 @@ window.phoneRadarDaily = {
           "type": "爆料",
           "trust": "媒体汇总",
           "date": "2026-07-19",
-          "time": "00:52",
-          "publishedAt": "2026-07-19T00:52:32.000Z",
+          "time": "03:41",
+          "publishedAt": "2026-07-19T03:41:52.000Z",
           "url": "https://www.macrumors.com/2026/07/17/iphone-loyalty-rate-climbs-to-87/",
           "image": "https://images.macrumors.com/article-new/2025/09/iphone-17-pro-silver.jpg",
           "verdict": "先看",
@@ -81,6 +81,29 @@ window.phoneRadarDaily = {
           "detail": "iPhone 系统功能 / AI 体验相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
           "keyPoints": [
             "爆料"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "auto-936bc274b2e0",
+          "title": "线下“四朵金花”最速：消息称华为 nova 16 系列手机开售 39 天销量破百万",
+          "originalTitle": "",
+          "source": "IT之家",
+          "brand": "HONOR",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-07-19",
+          "time": "05:15",
+          "publishedAt": "2026-07-19T05:15:10.000Z",
+          "url": "https://www.ithome.com/0/978/687.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/7/2ffa9dcc-968b-4f06-ad9c-25b345aca9bb.png?x-bce-process=image/format,f_auto",
+          "verdict": "先看",
+          "takeaway": "IT之家 7 月 19 日消息，据博主 @旺仔百事通 今日分享，在今年整体大盘遇冷的情况下， 华为 nova 16 系列正式开售仅 39 天销量就正式破百万 ，是今年线下“四朵金花”（预计指 vivo S 系列、OPPO Reno 系列、荣耀数字系列和华为 nova 系列）里面最先达成这一成就的产品。 博主表示， 这个成绩可以说得上是相当亮眼了 。 据IT…",
+          "detail": "IT之家 7 月 19 日消息，据博主 @旺仔百事通 今日分享，在今年整体大盘遇冷的情况下， 华为 nova 16 系列正式开售仅 39 天销量就正式破百万 ，是今年线下“四朵金花”（预计指 vivo S 系列、OPPO Reno 系列、荣耀数字系列和华为 nova 系列）里面最先达成这一成就的产品。 博主表示， 这个成绩可以说得上是相当亮眼了 。 据IT…",
+          "keyPoints": [
+            "爆料来源"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
@@ -185,29 +208,6 @@ window.phoneRadarDaily = {
           "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "coolapk-user-a701abc7d13d",
-          "title": "竹本青：【小米17 Max获国家级人工智能 L3级认证】 7月18日，小米宣布旗下小米17 Max手机获得首批《人工智能终…",
-          "originalTitle": "",
-          "source": "竹本青",
-          "brand": "Xiaomi",
-          "type": "爆料",
-          "trust": "高可信爆料",
-          "date": "2026-07-18",
-          "time": "12:58",
-          "publishedAt": "2026-07-18T12:58:01.000Z",
-          "url": "https://www.coolapk.com/feed/72838053",
-          "image": "http://image.coolapk.com/feed/2026/0718/20/4248714_f432a3e2_9479_5965_28@2000x2667.jpg",
-          "verdict": "先看",
-          "takeaway": "【小米17 Max获国家级人工智能 L3级认证】 7月18日，小米宣布旗下小米17 Max手机获得首批《人工智能终端智能化分级》系列国家标准L3评级证书。 据悉，L3级为目前有明确划分标准的最高智能化水平。 #HyperOS3# #今日热点# #小米17Max#",
-          "detail": "【小米17 Max获国家级人工智能 L3级认证】 7月18日，小米宣布旗下小米17 Max手机获得首批《人工智能终端智能化分级》系列国家标准L3评级证书。 据悉，L3级为目前有明确划分标准的最高智能化水平。 #HyperOS3# #今日热点# #小米17Max#",
-          "keyPoints": [
-            "芯片 / 性能"
-          ],
-          "confidence": "可信度较高，但仍属于发布前线索。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         }
       ]
     },
@@ -218,7 +218,7 @@ window.phoneRadarDaily = {
       "items": [
         {
           "id": "coolapk-user-ee9e3a2eb1d0",
-          "title": "竹本青：【iPhone 17系列 中国区最新销量曝光：超3776万台】 7月18日，博主「RD观测」发布第三方统计数据：截…",
+          "title": "竹本青：iPhone 17系列中国区最新销量曝光：超3776万台",
           "originalTitle": "",
           "source": "竹本青",
           "brand": "iPhone",
@@ -238,75 +238,6 @@ window.phoneRadarDaily = {
           "confidence": "可信度较高，但仍属于发布前线索。",
           "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
-        {
-          "id": "newsnow-b0f273caa8a0",
-          "title": "我的出行好伙伴，用 iPhone 一站式解决旅途痛点",
-          "originalTitle": "",
-          "source": "少数派热榜",
-          "brand": "iPhone",
-          "type": "评测",
-          "trust": "媒体汇总",
-          "date": "2026-07-19",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://sspai.com/post/112044",
-          "image": "",
-          "verdict": "扫一眼",
-          "takeaway": "我的出行好伙伴，用 iPhone 一站式解决旅途痛点",
-          "detail": "我的出行好伙伴，用 iPhone 一站式解决旅途痛点",
-          "keyPoints": [
-            "评测"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是实际体验内容，买前适合重点看缺点和取舍。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
-        {
-          "id": "newsnow-cd76b69c008a",
-          "title": "iPhone Air 当主力机用了三个多月后，我为什么还是换不掉它",
-          "originalTitle": "",
-          "source": "少数派热榜",
-          "brand": "iPhone",
-          "type": "评测",
-          "trust": "媒体汇总",
-          "date": "2026-07-19",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://sspai.com/post/111113",
-          "image": "",
-          "verdict": "扫一眼",
-          "takeaway": "iPhone Air 当主力机用了三个多月后，我为什么还是换不掉它",
-          "detail": "iPhone Air 当主力机用了三个多月后，我为什么还是换不掉它",
-          "keyPoints": [
-            "评测"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是实际体验内容，买前适合重点看缺点和取舍。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
-        {
-          "id": "newsnow-ab2b02b00dfc",
-          "title": "快捷指令｜让 iPhone 用上锤子的「大爆炸」",
-          "originalTitle": "",
-          "source": "少数派热榜",
-          "brand": "iPhone",
-          "type": "评测",
-          "trust": "媒体汇总",
-          "date": "2026-07-19",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://sspai.com/post/111405",
-          "image": "",
-          "verdict": "扫一眼",
-          "takeaway": "快捷指令｜让 iPhone 用上锤子的「大爆炸」",
-          "detail": "快捷指令｜让 iPhone 用上锤子的「大爆炸」",
-          "keyPoints": [
-            "评测"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是实际体验内容，买前适合重点看缺点和取舍。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         }
       ]
     },
@@ -317,7 +248,7 @@ window.phoneRadarDaily = {
       "items": [
         {
           "id": "coolapk-user-57f0e7c0d831",
-          "title": "竹本青：【荣耀新一代伙伴型多模态智能体操作系统 AgenticOS 正式发布】 8月，Robot Phone —— Age…",
+          "title": "竹本青：荣耀发布新一代伙伴型多模态智能体操作系统 AgenticOS",
           "originalTitle": "",
           "source": "竹本青",
           "brand": "HONOR",
@@ -335,6 +266,36 @@ window.phoneRadarDaily = {
             "爆料"
           ],
           "confidence": "可信度较高，但仍属于发布前线索。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        }
+      ]
+    },
+    {
+      "id": "review",
+      "title": "评测与体验",
+      "hint": "买前再细看，平时扫一眼即可。",
+      "items": [
+        {
+          "id": "newsnow-fe1cac11ab45",
+          "title": "不是，人家1299的定价，咋这么多人拿来当旗舰机评测啊，完了对比这个那个不行不行的，好像裁判一样[流汗滑稽]",
+          "originalTitle": "",
+          "source": "酷安热榜",
+          "brand": "行业",
+          "type": "爆料",
+          "trust": "高关注爆料源",
+          "date": "2026-07-19",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://www.coolapk.com/feed/72833090",
+          "image": "",
+          "verdict": "扫一眼",
+          "takeaway": "不是，人家1299的定价，咋这么多人拿来当旗舰机评测啊，完了对比这个那个不行不行的，好像裁判一样[流汗滑稽]",
+          "detail": "不是，人家1299的定价，咋这么多人拿来当旗舰机评测啊，完了对比这个那个不行不行的，好像裁判一样[流汗滑稽]",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         }
@@ -461,21 +422,21 @@ window.phoneRadarDaily = {
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         },
         {
-          "id": "newsnow-aa35f4d853af",
-          "title": "如何快速高效优雅解锁bl并root您的OPPO Find X9和OPPO Find X9 Pro",
+          "id": "newsnow-01ecae31154e",
+          "title": "给高考完的妹妹买，真我neo8和红米t5max哪个更推荐[流汗滑稽] #REDMITurbo5Max# #真我neo8#",
           "originalTitle": "",
           "source": "酷安热榜",
-          "brand": "OPPO",
+          "brand": "Xiaomi",
           "type": "爆料",
           "trust": "高关注爆料源",
           "date": "2026-07-19",
           "time": "",
           "publishedAt": "",
-          "url": "https://www.coolapk.com/feed/72836114",
+          "url": "https://www.coolapk.com/feed/72820321",
           "image": "",
           "verdict": "扫一眼",
-          "takeaway": "如何快速高效优雅解锁bl并root您的OPPO Find X9和OPPO Find X9 Pro",
-          "detail": "如何快速高效优雅解锁bl并root您的OPPO Find X9和OPPO Find X9 Pro",
+          "takeaway": "给高考完的妹妹买，真我neo8和红米t5max哪个更推荐[流汗滑稽] #REDMITurbo5Max# #真我neo8#",
+          "detail": "给高考完的妹妹买，真我neo8和红米t5max哪个更推荐[流汗滑稽] #REDMITurbo5Max# #真我neo8#",
           "keyPoints": [
             "爆料"
           ],

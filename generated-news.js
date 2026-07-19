@@ -1,24 +1,64 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-07-19T03:52:44.276Z",
+  "updatedAt": "2026-07-19T06:42:10.217Z",
   "news": [
     {
-      "id": "coolapk-user-57f0e7c0d831",
-      "title": "竹本青：【荣耀新一代伙伴型多模态智能体操作系统 AgenticOS 正式发布】 8月，Robot Phone —— Age…",
-      "source": "竹本青",
+      "id": "auto-134e6b1534b5",
+      "title": "高通骁龙 4 Gen 6 芯片曝光：台积电 4nm 工艺、Adreno 6 系 GPU，支持 LPDDR5 内存",
+      "source": "IT之家",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-19",
+      "time": "05:54",
+      "publishedAt": "2026-07-19T05:54:16.000Z",
+      "url": "https://www.ithome.com/0/978/689.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/7/dd706b01-03d8-4aac-bfa8-5a64bcaba086.jpg",
+      "summary": "IT之家 7 月 19 日消息，据科技媒体 Notebookcheck 今天报道，一份来自高通内部的规格表最近流出，让尚未发布的骁龙 4 Gen 6 芯片（SM4875）得以曝光。该芯片将采用台积电 4nm 工艺、支持 LPDDR5 内存，配备 Adreno 6 系 GPU， 预计将于明年推出 。 据介绍，SM4875 延续了骁龙 4 Gen 5 的 Kr…",
+      "tags": [
+        "行业",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-936bc274b2e0",
+      "title": "线下“四朵金花”最速：消息称华为 nova 16 系列手机开售 39 天销量破百万",
+      "source": "IT之家",
       "brand": "HONOR",
       "model": "HONOR 相关机型",
       "type": "爆料",
-      "trust": "高可信爆料",
+      "trust": "媒体汇总",
       "date": "2026-07-19",
-      "time": "01:28",
-      "publishedAt": "2026-07-19T01:28:35.000Z",
-      "url": "https://www.coolapk.com/feed/72843175",
-      "image": "http://image.coolapk.com/feed/2026/0719/09/4248714_171fa133_5203_515_543@1067x7760.jpg",
-      "summary": "【荣耀新一代伙伴型多模态智能体操作系统 AgenticOS 正式发布】 8月，Robot Phone —— AgenticOS 内核 Q4，Magic9 系列 —— AgenticOS 尝鲜版 日前，在2026世界人工智能大会上，荣耀正式发布新一代伙伴型多模态智能体操作系统——AgenticOS。新系统具备以下4大特征： ● 意图驱动： 以意图为中心，而非…",
+      "time": "05:15",
+      "publishedAt": "2026-07-19T05:15:10.000Z",
+      "url": "https://www.ithome.com/0/978/687.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/7/2ffa9dcc-968b-4f06-ad9c-25b345aca9bb.png?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 7 月 19 日消息，据博主 @旺仔百事通 今日分享，在今年整体大盘遇冷的情况下， 华为 nova 16 系列正式开售仅 39 天销量就正式破百万 ，是今年线下“四朵金花”（预计指 vivo S 系列、OPPO Reno 系列、荣耀数字系列和华为 nova 系列）里面最先达成这一成就的产品。 博主表示， 这个成绩可以说得上是相当亮眼了 。 据IT…",
       "tags": [
         "HONOR",
         "爆料",
-        "酷安博主"
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-8958f4f51be5",
+      "title": "SK 集团会长崔泰源：内存应该降价，如果一直高价消费电子行业可能受到冲击",
+      "source": "IT之家",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-19",
+      "time": "04:17",
+      "publishedAt": "2026-07-19T04:17:53.000Z",
+      "url": "https://www.ithome.com/0/978/683.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/7/9631c0b8-725f-40a0-ba90-cb551be556bf.jpg?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 7 月 19 日消息，据韩媒 EtNews 今天报道，SK 集团会长、大韩商工会议所会长崔泰源表示，目前持续高企的内存价格并不正常。过高的半导体价格不仅会抑制市场需求，未来还可能引发地缘政治层面的矛盾。 崔泰源表示：“内存价格应该下降。这句话听起来可能有点奇怪，但现在的价格并不正常。如果高价一直维持下去，PC 和智能手机只能不断涨价， 最终出现所…",
+      "tags": [
+        "行业",
+        "爆料",
+        "自动抓取"
       ]
     },
     {
@@ -30,8 +70,8 @@ window.phoneRadarAuto = {
       "type": "爆料",
       "trust": "媒体汇总",
       "date": "2026-07-19",
-      "time": "00:52",
-      "publishedAt": "2026-07-19T00:52:32.000Z",
+      "time": "03:41",
+      "publishedAt": "2026-07-19T03:41:52.000Z",
       "url": "https://www.macrumors.com/2026/07/17/apple-doj-antitrust-settlement/",
       "image": "https://images.macrumors.com/article-new/2024/03/Apple-vs-DOJ-Feature.jpg",
       "summary": "Apple is working to settle an antitrust lawsuit with the U.S. Department of Justice, reports Bloomberg . Apple has proposed several offers and is now in early settlement talks wit…",
@@ -50,8 +90,8 @@ window.phoneRadarAuto = {
       "type": "爆料",
       "trust": "媒体汇总",
       "date": "2026-07-19",
-      "time": "00:52",
-      "publishedAt": "2026-07-19T00:52:32.000Z",
+      "time": "03:41",
+      "publishedAt": "2026-07-19T03:41:52.000Z",
       "url": "https://www.macrumors.com/2026/07/17/iphone-18-pro-12-rumored-features/",
       "image": "https://images.macrumors.com/article-new/2026/02/iPhone-18-Pro-Deep-Red-Feature.jpg",
       "summary": "It is now mid-July, and that means the iPhone 18 Pro and iPhone 18 Pro Max are now just two months away. The devices are expected to look similar to the iPhone 17 Pro and iPhone 1…",
@@ -70,8 +110,8 @@ window.phoneRadarAuto = {
       "type": "爆料",
       "trust": "媒体汇总",
       "date": "2026-07-19",
-      "time": "00:52",
-      "publishedAt": "2026-07-19T00:52:32.000Z",
+      "time": "03:41",
+      "publishedAt": "2026-07-19T03:41:52.000Z",
       "url": "https://www.macrumors.com/2026/07/17/iphone-loyalty-rate-climbs-to-87/",
       "image": "https://images.macrumors.com/article-new/2025/09/iphone-17-pro-silver.jpg",
       "summary": "iPhone owners are sticking with the platform at a higher rate than a year ago, with new research firm CIRP putting iPhone loyalty at 87% for the first quarter of 2026. CIRP's late…",
@@ -79,6 +119,26 @@ window.phoneRadarAuto = {
         "iPhone",
         "爆料",
         "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-57f0e7c0d831",
+      "title": "竹本青：荣耀发布新一代伙伴型多模态智能体操作系统 AgenticOS",
+      "source": "竹本青",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-07-19",
+      "time": "01:28",
+      "publishedAt": "2026-07-19T01:28:35.000Z",
+      "url": "https://www.coolapk.com/feed/72843175",
+      "image": "http://image.coolapk.com/feed/2026/0719/09/4248714_171fa133_5203_515_543@1067x7760.jpg",
+      "summary": "【荣耀新一代伙伴型多模态智能体操作系统 AgenticOS 正式发布】 8月，Robot Phone —— AgenticOS 内核 Q4，Magic9 系列 —— AgenticOS 尝鲜版 日前，在2026世界人工智能大会上，荣耀正式发布新一代伙伴型多模态智能体操作系统——AgenticOS。新系统具备以下4大特征： ● 意图驱动： 以意图为中心，而非…",
+      "tags": [
+        "HONOR",
+        "爆料",
+        "酷安博主"
       ]
     },
     {
@@ -202,6 +262,26 @@ window.phoneRadarAuto = {
       ]
     },
     {
+      "id": "newsnow-ae8426a4cc43",
+      "title": "#下半年最期待的新机#",
+      "source": "酷安热榜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-07-19",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/72838808",
+      "image": "",
+      "summary": "#下半年最期待的新机#",
+      "tags": [
+        "行业",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
       "id": "newsnow-54cd89f49e08",
       "title": "荣耀Robot Phone 机器人手机开启预约：2亿像素4D云台主摄",
       "source": "酷安热榜",
@@ -222,8 +302,8 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-ae8426a4cc43",
-      "title": "#下半年最期待的新机#",
+      "id": "newsnow-fe1cac11ab45",
+      "title": "不是，人家1299的定价，咋这么多人拿来当旗舰机评测啊，完了对比这个那个不行不行的，好像裁判一样[流汗滑稽]",
       "source": "酷安热榜",
       "brand": "行业",
       "model": "智能手机市场",
@@ -232,11 +312,31 @@ window.phoneRadarAuto = {
       "date": "2026-07-19",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72838808",
+      "url": "https://www.coolapk.com/feed/72833090",
       "image": "",
-      "summary": "#下半年最期待的新机#",
+      "summary": "不是，人家1299的定价，咋这么多人拿来当旗舰机评测啊，完了对比这个那个不行不行的，好像裁判一样[流汗滑稽]",
       "tags": [
         "行业",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-be21afcbc7af",
+      "title": "绷不住了，三星改华为名称，那手机当身份证使，哈哈哈哈 #三星GalaxyS25Ultra# #三星GalaxyS24Ultra# #三星GalaxyS23Ultra#",
+      "source": "酷安热榜",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-07-19",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/72831103",
+      "image": "",
+      "summary": "绷不住了，三星改华为名称，那手机当身份证使，哈哈哈哈 #三星GalaxyS25Ultra# #三星GalaxyS24Ultra# #三星GalaxyS23Ultra#",
+      "tags": [
+        "Huawei",
         "爆料",
         "NewsNow"
       ]
@@ -262,26 +362,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-aa35f4d853af",
-      "title": "如何快速高效优雅解锁bl并root您的OPPO Find X9和OPPO Find X9 Pro",
-      "source": "酷安热榜",
-      "brand": "OPPO",
-      "model": "OPPO 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-07-19",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72836114",
-      "image": "",
-      "summary": "如何快速高效优雅解锁bl并root您的OPPO Find X9和OPPO Find X9 Pro",
-      "tags": [
-        "OPPO",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
       "id": "newsnow-01ecae31154e",
       "title": "给高考完的妹妹买，真我neo8和红米t5max哪个更推荐[流汗滑稽] #REDMITurbo5Max# #真我neo8#",
       "source": "酷安热榜",
@@ -302,21 +382,21 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-be21afcbc7af",
-      "title": "绷不住了，三星改华为名称，那手机当身份证使，哈哈哈哈 #三星GalaxyS25Ultra# #三星GalaxyS24Ultra# #三星GalaxyS23Ultra#",
+      "id": "newsnow-aa35f4d853af",
+      "title": "如何快速高效优雅解锁bl并root您的OPPO Find X9和OPPO Find X9 Pro",
       "source": "酷安热榜",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-07-19",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72831103",
+      "url": "https://www.coolapk.com/feed/72836114",
       "image": "",
-      "summary": "绷不住了，三星改华为名称，那手机当身份证使，哈哈哈哈 #三星GalaxyS25Ultra# #三星GalaxyS24Ultra# #三星GalaxyS23Ultra#",
+      "summary": "如何快速高效优雅解锁bl并root您的OPPO Find X9和OPPO Find X9 Pro",
       "tags": [
-        "Huawei",
+        "OPPO",
         "爆料",
         "NewsNow"
       ]
@@ -383,7 +463,7 @@ window.phoneRadarAuto = {
     },
     {
       "id": "coolapk-user-86a315f22881",
-      "title": "竹本青：【vivo X300 Pro获评《人工智能终端智能化分级》L3评级证书】 据OriginOS 原系统昨日消息，vi…",
+      "title": "竹本青：vivo X300 Pro 获《人工智能终端智能化分级》L3级证书",
       "source": "竹本青",
       "brand": "vivo",
       "model": "vivo 相关机型",
@@ -403,7 +483,7 @@ window.phoneRadarAuto = {
     },
     {
       "id": "coolapk-user-ee9e3a2eb1d0",
-      "title": "竹本青：【iPhone 17系列 中国区最新销量曝光：超3776万台】 7月18日，博主「RD观测」发布第三方统计数据：截…",
+      "title": "竹本青：iPhone 17系列中国区最新销量曝光：超3776万台",
       "source": "竹本青",
       "brand": "iPhone",
       "model": "iPhone 相关机型",
@@ -423,7 +503,7 @@ window.phoneRadarAuto = {
     },
     {
       "id": "coolapk-user-a701abc7d13d",
-      "title": "竹本青：【小米17 Max获国家级人工智能 L3级认证】 7月18日，小米宣布旗下小米17 Max手机获得首批《人工智能终…",
+      "title": "竹本青：小米17 Max获国家级人工智能 L3级认证",
       "source": "竹本青",
       "brand": "Xiaomi",
       "model": "Xiaomi 相关机型",
@@ -463,7 +543,7 @@ window.phoneRadarAuto = {
     },
     {
       "id": "coolapk-user-510e61ceca6f",
-      "title": "竹本青：【消息称 华为畅享90 Pro Max 单品激活量已突破310万台】 7月18日，数码闲聊站爆料，华为畅享90 P…",
+      "title": "竹本青：消息称华为畅享90 Pro Max 单品激活量已突破310万台",
       "source": "竹本青",
       "brand": "Huawei",
       "model": "Huawei 相关机型",
@@ -583,7 +663,7 @@ window.phoneRadarAuto = {
     },
     {
       "id": "coolapk-user-ef87e29458de",
-      "title": "竹本青：【安卓首款阔折叠曝光：7.6英寸内屏+5.5英寸外屏，预计归属三星Galaxy Z Fold 8系列】 ▫️骁龙8…",
+      "title": "竹本青：三星Galaxy Z Fold 8 曝光：7.6英寸内屏+5.5英寸外屏",
       "source": "竹本青",
       "brand": "Samsung",
       "model": "Samsung 相关机型",
