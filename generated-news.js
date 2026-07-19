@@ -1,6 +1,106 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-07-19T10:01:59.532Z",
+  "updatedAt": "2026-07-19T11:28:30.511Z",
   "news": [
+    {
+      "id": "auto-817bc1316a19",
+      "title": "The Motorola Razr 2025 is the only phone that comes close to replacing my Pixel 11",
+      "source": "Android Police",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-19",
+      "time": "11:00",
+      "publishedAt": "2026-07-19T11:00:16.000Z",
+      "url": "https://www.androidpolice.com/the-motorola-razr-2025-is-the-only-phone-that-comes-close-to-replacing-my-pixel/",
+      "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2026/07/motorola-razr-2025-folded-on-a-concrete-ledge-against-a-blue-background.png",
+      "summary": "It's the only other phone I would buy in 2026",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-8e506cd16b35",
+      "title": "海信墨水屏手机 A10 配置揭晓：高通跃龙 QCM6690 处理器、安卓 16 原生适配，8 月发布",
+      "source": "IT之家",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-19",
+      "time": "10:16",
+      "publishedAt": "2026-07-19T10:16:25.000Z",
+      "url": "https://www.ithome.com/0/978/764.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/7/8d762d44-c920-45f1-8343-19dd1c8ff441.jpg?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 7 月 19 日消息，海信墨水屏官方今日公布了墨水屏手机 A10 的细节配置参数。 据介绍， 海信墨水屏手机 A10 搭载 4nm 高通跃龙 QCM6690 八核处理器 ，相较前代性能有所提升，支持 PDF 翻页、多文档分屏、长时间手写批注不卡顿；支持智能控温调度，可减少残影；支持静态阅读自动降频，续航相比旗舰芯有所提升。该机还原生适配安卓 16…",
+      "tags": [
+        "行业",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-ef87d0e6e739",
+      "title": "Apple and DOJ Hold Early Settlement Talks in iPhone Antitrust Case",
+      "source": "MacRumors",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-19",
+      "time": "08:28",
+      "publishedAt": "2026-07-19T08:28:02.000Z",
+      "url": "https://www.macrumors.com/2026/07/17/apple-doj-antitrust-settlement/",
+      "image": "https://images.macrumors.com/article-new/2024/03/Apple-vs-DOJ-Feature.jpg",
+      "summary": "Apple is working to settle an antitrust lawsuit with the U.S. Department of Justice, reports Bloomberg . Apple has proposed several offers and is now in early settlement talks wit…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-973d6bf46848",
+      "title": "iPhone 18 Pro Launching in Two Months With These 12 New Features",
+      "source": "MacRumors",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-19",
+      "time": "08:28",
+      "publishedAt": "2026-07-19T08:28:02.000Z",
+      "url": "https://www.macrumors.com/2026/07/17/iphone-18-pro-12-rumored-features/",
+      "image": "https://images.macrumors.com/article-new/2026/02/iPhone-18-Pro-Deep-Red-Feature.jpg",
+      "summary": "It is now mid-July, and that means the iPhone 18 Pro and iPhone 18 Pro Max are now just two months away. The devices are expected to look similar to the iPhone 17 Pro and iPhone 1…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-b63d09b1185a",
+      "title": "iPhone Loyalty Rate Climbs to 87% as Switching to Android Slows",
+      "source": "MacRumors",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-19",
+      "time": "08:28",
+      "publishedAt": "2026-07-19T08:28:02.000Z",
+      "url": "https://www.macrumors.com/2026/07/17/iphone-loyalty-rate-climbs-to-87/",
+      "image": "https://images.macrumors.com/article-new/2025/09/iphone-17-pro-silver.jpg",
+      "summary": "iPhone owners are sticking with the platform at a higher rate than a year ago, with new research firm CIRP putting iPhone loyalty at 87% for the first quarter of 2026. CIRP's late…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-de8e266a0c66",
       "title": "消息称三星 Galaxy Z Fold 8 阔折叠手机屏幕产量约 280 万块，超越传统大折叠 Fold 8 Ultra",
@@ -62,66 +162,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-ef87d0e6e739",
-      "title": "Apple and DOJ Hold Early Settlement Talks in iPhone Antitrust Case",
-      "source": "MacRumors",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-19",
-      "time": "07:01",
-      "publishedAt": "2026-07-19T07:01:02.000Z",
-      "url": "https://www.macrumors.com/2026/07/17/apple-doj-antitrust-settlement/",
-      "image": "https://images.macrumors.com/article-new/2024/03/Apple-vs-DOJ-Feature.jpg",
-      "summary": "Apple is working to settle an antitrust lawsuit with the U.S. Department of Justice, reports Bloomberg . Apple has proposed several offers and is now in early settlement talks wit…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-973d6bf46848",
-      "title": "iPhone 18 Pro Launching in Two Months With These 12 New Features",
-      "source": "MacRumors",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-19",
-      "time": "07:01",
-      "publishedAt": "2026-07-19T07:01:02.000Z",
-      "url": "https://www.macrumors.com/2026/07/17/iphone-18-pro-12-rumored-features/",
-      "image": "https://images.macrumors.com/article-new/2026/02/iPhone-18-Pro-Deep-Red-Feature.jpg",
-      "summary": "It is now mid-July, and that means the iPhone 18 Pro and iPhone 18 Pro Max are now just two months away. The devices are expected to look similar to the iPhone 17 Pro and iPhone 1…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-b63d09b1185a",
-      "title": "iPhone Loyalty Rate Climbs to 87% as Switching to Android Slows",
-      "source": "MacRumors",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-19",
-      "time": "07:01",
-      "publishedAt": "2026-07-19T07:01:02.000Z",
-      "url": "https://www.macrumors.com/2026/07/17/iphone-loyalty-rate-climbs-to-87/",
-      "image": "https://images.macrumors.com/article-new/2025/09/iphone-17-pro-silver.jpg",
-      "summary": "iPhone owners are sticking with the platform at a higher rate than a year ago, with new research firm CIRP putting iPhone loyalty at 87% for the first quarter of 2026. CIRP's late…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-561733aac008",
       "title": "Google Pixel 11 Pro XL vs. Pixel 10 Pro XL: A glowing upgrade",
       "source": "Android Central",
@@ -138,66 +178,6 @@ window.phoneRadarAuto = {
       "tags": [
         "Pixel",
         "评测",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-134e6b1534b5",
-      "title": "高通骁龙 4 Gen 6 芯片曝光：台积电 4nm 工艺、Adreno 6 系 GPU，支持 LPDDR5 内存",
-      "source": "IT之家",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-19",
-      "time": "05:54",
-      "publishedAt": "2026-07-19T05:54:16.000Z",
-      "url": "https://www.ithome.com/0/978/689.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/7/dd706b01-03d8-4aac-bfa8-5a64bcaba086.jpg",
-      "summary": "IT之家 7 月 19 日消息，据科技媒体 Notebookcheck 今天报道，一份来自高通内部的规格表最近流出，让尚未发布的骁龙 4 Gen 6 芯片（SM4875）得以曝光。该芯片将采用台积电 4nm 工艺、支持 LPDDR5 内存，配备 Adreno 6 系 GPU， 预计将于明年推出 。 据介绍，SM4875 延续了骁龙 4 Gen 5 的 Kr…",
-      "tags": [
-        "行业",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-936bc274b2e0",
-      "title": "线下“四朵金花”最速：消息称华为 nova 16 系列手机开售 39 天销量破百万",
-      "source": "IT之家",
-      "brand": "HONOR",
-      "model": "HONOR 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-19",
-      "time": "05:15",
-      "publishedAt": "2026-07-19T05:15:10.000Z",
-      "url": "https://www.ithome.com/0/978/687.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/7/2ffa9dcc-968b-4f06-ad9c-25b345aca9bb.png?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 7 月 19 日消息，据博主 @旺仔百事通 今日分享，在今年整体大盘遇冷的情况下， 华为 nova 16 系列正式开售仅 39 天销量就正式破百万 ，是今年线下“四朵金花”（预计指 vivo S 系列、OPPO Reno 系列、荣耀数字系列和华为 nova 系列）里面最先达成这一成就的产品。 博主表示， 这个成绩可以说得上是相当亮眼了 。 据IT…",
-      "tags": [
-        "HONOR",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-8958f4f51be5",
-      "title": "SK 集团会长崔泰源：内存应该降价，如果一直高价消费电子行业可能受到冲击",
-      "source": "IT之家",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-19",
-      "time": "04:17",
-      "publishedAt": "2026-07-19T04:17:53.000Z",
-      "url": "https://www.ithome.com/0/978/683.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/7/9631c0b8-725f-40a0-ba90-cb551be556bf.jpg?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 7 月 19 日消息，据韩媒 EtNews 今天报道，SK 集团会长、大韩商工会议所会长崔泰源表示，目前持续高企的内存价格并不正常。过高的半导体价格不仅会抑制市场需求，未来还可能引发地缘政治层面的矛盾。 崔泰源表示：“内存价格应该下降。这句话听起来可能有点奇怪，但现在的价格并不正常。如果高价一直维持下去，PC 和智能手机只能不断涨价， 最终出现所…",
-      "tags": [
-        "行业",
-        "爆料",
         "自动抓取"
       ]
     },
@@ -437,26 +417,6 @@ window.phoneRadarAuto = {
       "summary": "给高考完的妹妹买，真我neo8和红米t5max哪个更推荐[流汗滑稽] #REDMITurbo5Max# #真我neo8#",
       "tags": [
         "Xiaomi",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-aa35f4d853af",
-      "title": "如何快速高效优雅解锁bl并root您的OPPO Find X9和OPPO Find X9 Pro",
-      "source": "酷安热榜",
-      "brand": "OPPO",
-      "model": "OPPO 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-07-19",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72836114",
-      "image": "",
-      "summary": "如何快速高效优雅解锁bl并root您的OPPO Find X9和OPPO Find X9 Pro",
-      "tags": [
-        "OPPO",
         "爆料",
         "NewsNow"
       ]
