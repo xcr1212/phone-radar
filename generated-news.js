@@ -1,24 +1,24 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-07-19T17:14:52.553Z",
+  "updatedAt": "2026-07-19T19:31:11.652Z",
   "news": [
     {
-      "id": "auto-438a6dee7020",
-      "title": "Marshall Celebrates 60 Years of Hendrix With a Special Edition Acton III Speaker",
-      "source": "Gizmochina",
-      "brand": "HONOR",
-      "model": "HONOR 相关机型",
+      "id": "coolapk-user-48479b9d226a",
+      "title": "竹本青：【小米 17系列 最新销量曝光：全系突破568万台，Ultra约23.43万台】 博主「RD观测」昨日分享第三方数…",
+      "source": "竹本青",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
       "type": "爆料",
-      "trust": "媒体汇总",
+      "trust": "高可信爆料",
       "date": "2026-07-19",
-      "time": "16:17",
-      "publishedAt": "2026-07-19T16:17:21.000Z",
-      "url": "https://www.gizmochina.com/2026/07/19/marshall-celebrates-60-years-of-hendrix-with-a-special-edition-acton-iii-speaker/",
-      "image": "https://www.gizmochina.com/wp-content/uploads/2026/07/Marshall-Acton-III-—-Jimi-Hendrix-60th-Anniversary-Edition-Design-300x200.jpg?x92417",
-      "summary": "Marshall has released a new limited-edition version of its Acton III Bluetooth speaker to honor 60 years since legendary Jimi Hendrix first plugged into a Marshall amp. The Hendri…",
+      "time": "18:02",
+      "publishedAt": "2026-07-19T18:02:49.000Z",
+      "url": "https://www.coolapk.com/feed/72855248",
+      "image": "http://image.coolapk.com/feed/2026/0720/02/4248714_fae3b524_4168_1505_618@2960x2800.jpg",
+      "summary": "【小米 17系列 最新销量曝光：全系突破568万台，Ultra约23.43万台】 博主「RD观测」昨日分享第三方数据：截至2026年第28周，小米 17系列累计销量约568.85万台，其中，Ultra约23.43万台。 前几周数据如下： 小米 17系列 截至2026 W27 —— 约561.43万 截至2026 W26 —— 约554.01万 截至2026…",
       "tags": [
-        "HONOR",
+        "Xiaomi",
         "爆料",
-        "自动抓取"
+        "酷安博主"
       ]
     },
     {
@@ -30,8 +30,8 @@ window.phoneRadarAuto = {
       "type": "爆料",
       "trust": "媒体汇总",
       "date": "2026-07-19",
-      "time": "14:14",
-      "publishedAt": "2026-07-19T14:14:38.000Z",
+      "time": "16:30",
+      "publishedAt": "2026-07-19T16:30:48.000Z",
       "url": "https://www.macrumors.com/2026/07/17/apple-doj-antitrust-settlement/",
       "image": "https://images.macrumors.com/article-new/2024/03/Apple-vs-DOJ-Feature.jpg",
       "summary": "Apple is working to settle an antitrust lawsuit with the U.S. Department of Justice, reports Bloomberg . Apple has proposed several offers and is now in early settlement talks wit…",
@@ -50,8 +50,8 @@ window.phoneRadarAuto = {
       "type": "爆料",
       "trust": "媒体汇总",
       "date": "2026-07-19",
-      "time": "14:14",
-      "publishedAt": "2026-07-19T14:14:38.000Z",
+      "time": "16:30",
+      "publishedAt": "2026-07-19T16:30:48.000Z",
       "url": "https://www.macrumors.com/2026/07/17/iphone-18-pro-12-rumored-features/",
       "image": "https://images.macrumors.com/article-new/2026/02/iPhone-18-Pro-Deep-Red-Feature.jpg",
       "summary": "It is now mid-July, and that means the iPhone 18 Pro and iPhone 18 Pro Max are now just two months away. The devices are expected to look similar to the iPhone 17 Pro and iPhone 1…",
@@ -70,13 +70,33 @@ window.phoneRadarAuto = {
       "type": "爆料",
       "trust": "媒体汇总",
       "date": "2026-07-19",
-      "time": "14:14",
-      "publishedAt": "2026-07-19T14:14:38.000Z",
+      "time": "16:30",
+      "publishedAt": "2026-07-19T16:30:48.000Z",
       "url": "https://www.macrumors.com/2026/07/17/iphone-loyalty-rate-climbs-to-87/",
       "image": "https://images.macrumors.com/article-new/2025/09/iphone-17-pro-silver.jpg",
       "summary": "iPhone owners are sticking with the platform at a higher rate than a year ago, with new research firm CIRP putting iPhone loyalty at 87% for the first quarter of 2026. CIRP's late…",
       "tags": [
         "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-438a6dee7020",
+      "title": "Marshall Celebrates 60 Years of Hendrix With a Special Edition Acton III Speaker",
+      "source": "Gizmochina",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-19",
+      "time": "16:17",
+      "publishedAt": "2026-07-19T16:17:21.000Z",
+      "url": "https://www.gizmochina.com/2026/07/19/marshall-celebrates-60-years-of-hendrix-with-a-special-edition-acton-iii-speaker/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/07/Marshall-Acton-III-—-Jimi-Hendrix-60th-Anniversary-Edition-Design-300x200.jpg?x92417",
+      "summary": "Marshall has released a new limited-edition version of its Acton III Bluetooth speaker to honor 60 years since legendary Jimi Hendrix first plugged into a Marshall amp. The Hendri…",
+      "tags": [
+        "HONOR",
         "爆料",
         "自动抓取"
       ]
@@ -117,46 +137,6 @@ window.phoneRadarAuto = {
       "summary": "OnePlus is dead – actually for real this time. It’s got me looking back on my experiences with the brand’s smartphones, the absolute roller coaster that it was, and how OnePlus br…",
       "tags": [
         "OPPO",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-4d010259555c",
-      "title": "I wanted to love the Galaxy Z Fold 8, but Samsung already ruined it for me",
-      "source": "Android Police",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-19",
-      "time": "12:15",
-      "publishedAt": "2026-07-19T12:15:15.000Z",
-      "url": "https://www.androidpolice.com/wanted-love-galaxy-z-fold-8-samsung-ruined-it/",
-      "image": "",
-      "summary": "Samsung has run out of ideas",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-817bc1316a19",
-      "title": "The Motorola Razr 2025 is the only phone that comes close to replacing my Pixel 11",
-      "source": "Android Police",
-      "brand": "Pixel",
-      "model": "Pixel 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-19",
-      "time": "11:00",
-      "publishedAt": "2026-07-19T11:00:16.000Z",
-      "url": "https://www.androidpolice.com/the-motorola-razr-2025-is-the-only-phone-that-comes-close-to-replacing-my-pixel/",
-      "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2026/07/motorola-razr-2025-folded-on-a-concrete-ledge-against-a-blue-background.png",
-      "summary": "It's the only other phone I would buy in 2026",
-      "tags": [
-        "Pixel",
         "爆料",
         "自动抓取"
       ]
@@ -282,246 +262,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-b0f273caa8a0",
-      "title": "我的出行好伙伴，用 iPhone 一站式解决旅途痛点",
-      "source": "少数派热榜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "评测",
-      "trust": "媒体汇总",
-      "date": "2026-07-19",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://sspai.com/post/112044",
-      "image": "",
-      "summary": "我的出行好伙伴，用 iPhone 一站式解决旅途痛点",
-      "tags": [
-        "iPhone",
-        "评测",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-cd76b69c008a",
-      "title": "iPhone Air 当主力机用了三个多月后，我为什么还是换不掉它",
-      "source": "少数派热榜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "评测",
-      "trust": "媒体汇总",
-      "date": "2026-07-19",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://sspai.com/post/111113",
-      "image": "",
-      "summary": "iPhone Air 当主力机用了三个多月后，我为什么还是换不掉它",
-      "tags": [
-        "iPhone",
-        "评测",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-ab2b02b00dfc",
-      "title": "快捷指令｜让 iPhone 用上锤子的「大爆炸」",
-      "source": "少数派热榜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "评测",
-      "trust": "媒体汇总",
-      "date": "2026-07-19",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://sspai.com/post/111405",
-      "image": "",
-      "summary": "快捷指令｜让 iPhone 用上锤子的「大爆炸」",
-      "tags": [
-        "iPhone",
-        "评测",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-8c0615e63247",
-      "title": "狗东这手机出BUG了吗？？？3000就能买到",
-      "source": "酷安热榜",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-07-19",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72839563",
-      "image": "",
-      "summary": "狗东这手机出BUG了吗？？？3000就能买到",
-      "tags": [
-        "行业",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-fe1cac11ab45",
-      "title": "不是，人家1299的定价，咋这么多人拿来当旗舰机评测啊，完了对比这个那个不行不行的，好像裁判一样[流汗滑稽]",
-      "source": "酷安热榜",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-07-19",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72833090",
-      "image": "",
-      "summary": "不是，人家1299的定价，咋这么多人拿来当旗舰机评测啊，完了对比这个那个不行不行的，好像裁判一样[流汗滑稽]",
-      "tags": [
-        "行业",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-ae8426a4cc43",
-      "title": "#下半年最期待的新机#",
-      "source": "酷安热榜",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-07-19",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72838808",
-      "image": "",
-      "summary": "#下半年最期待的新机#",
-      "tags": [
-        "行业",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-54cd89f49e08",
-      "title": "荣耀Robot Phone 机器人手机开启预约：2亿像素4D云台主摄",
-      "source": "酷安热榜",
-      "brand": "HONOR",
-      "model": "HONOR 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-07-19",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72830233",
-      "image": "",
-      "summary": "荣耀Robot Phone 机器人手机开启预约：2亿像素4D云台主摄",
-      "tags": [
-        "HONOR",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-be21afcbc7af",
-      "title": "绷不住了，三星改华为名称，那手机当身份证使，哈哈哈哈 #三星GalaxyS25Ultra# #三星GalaxyS24Ultra# #三星GalaxyS23Ultra#",
-      "source": "酷安热榜",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-07-19",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72831103",
-      "image": "",
-      "summary": "绷不住了，三星改华为名称，那手机当身份证使，哈哈哈哈 #三星GalaxyS25Ultra# #三星GalaxyS24Ultra# #三星GalaxyS23Ultra#",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-dcb06af61175",
-      "title": "这b手机最近是越来越热，越来越卡，我人在商场，给我卡的降亮度，降刷新率，手机烫的一批#HyperOS3#",
-      "source": "酷安热榜",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-07-19",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72833025",
-      "image": "",
-      "summary": "这b手机最近是越来越热，越来越卡，我人在商场，给我卡的降亮度，降刷新率，手机烫的一批#HyperOS3#",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-e83131ba0f55",
-      "title": "2026年第28周国内手机市场份额曝光：大盘下降约10%",
-      "source": "酷安热榜",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-07-19",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72827868",
-      "image": "",
-      "summary": "2026年第28周国内手机市场份额曝光：大盘下降约10%",
-      "tags": [
-        "行业",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-01ecae31154e",
-      "title": "给高考完的妹妹买，真我neo8和红米t5max哪个更推荐[流汗滑稽] #REDMITurbo5Max# #真我neo8#",
-      "source": "酷安热榜",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-07-19",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72820321",
-      "image": "",
-      "summary": "给高考完的妹妹买，真我neo8和红米t5max哪个更推荐[流汗滑稽] #REDMITurbo5Max# #真我neo8#",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "auto-5ac8d39b94e6",
-      "title": "Google might not kneecap the Pixel 11a with an old processor",
-      "source": "The Verge",
-      "brand": "Pixel",
-      "model": "Pixel 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-18",
-      "time": "18:25",
-      "publishedAt": "2026-07-18T18:25:08.000Z",
-      "url": "https://www.theverge.com/tech/967612/google-pixel-11a-tensor-g6-leak",
-      "image": "",
-      "summary": "Mystic Leaks suggests that the Pixel 11a will return to featuring a flagship-grade processor with the Tensor G6. Rather than the Tensor G5 found in the Pixel 10 and 10 Pro, the Pi…",
-      "tags": [
-        "Pixel",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-30dcf552f0eb",
       "title": "iPhone 18 Pro is just two months away, but you probably shouldn’t wait for it",
       "source": "9to5Mac",
@@ -542,41 +282,21 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "coolapk-user-86a315f22881",
-      "title": "竹本青：vivo X300 Pro 获《人工智能终端智能化分级》L3级证书",
+      "id": "coolapk-user-790b9a463952",
+      "title": "竹本青：OPPO陈希: ColorOS不倾向透明化卡片设计，影响可读性",
       "source": "竹本青",
-      "brand": "vivo",
-      "model": "vivo 相关机型",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
       "type": "爆料",
       "trust": "高可信爆料",
       "date": "2026-07-18",
-      "time": "13:35",
-      "publishedAt": "2026-07-18T13:35:10.000Z",
-      "url": "https://www.coolapk.com/feed/72838568",
-      "image": "http://image.coolapk.com/feed/2026/0718/21/4248714_8dbc6528_1709_0315_370@1080x1440.jpg",
-      "summary": "【vivo X300 Pro获评《人工智能终端智能化分级》L3评级证书】 据OriginOS 原系统昨日消息，vivo X300 Pro首批获颁《人工智能终端智能化分级》系列国家标准L3评级证书。 L3是当前行业可达到的最高智能化评级，接下来，小V圈搜「圈搜百科」和「猜你想问」也将陆续上线。 #OriginOS6# #今日热点# #vivoX300Pro#",
+      "time": "13:59",
+      "publishedAt": "2026-07-18T13:59:13.000Z",
+      "url": "https://www.coolapk.com/feed/72838905",
+      "image": "http://image.coolapk.com/feed/2026/0718/21/4248714_50f9e250_3152_174_831@1440x1449.jpg",
+      "summary": "【OPPO陈希: ColorOS不倾向透明化卡片设计，对可读性有很大影响】 7月18日，有网友向OPPO ColorOS设计总监陈希提议，希望ColorOS 17上线透明底信息卡片设计。 对此，陈希明确回应：ColorOS整体并不倾向透明化的卡片设计。他表示，该设计会大幅影响内容可读性，甚至功能也要因此受到约束。 未来，只会考虑在极少的非阅读性卡片上尝试，…",
       "tags": [
-        "vivo",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
-      "id": "coolapk-user-ee9e3a2eb1d0",
-      "title": "竹本青：iPhone 17系列中国区最新销量曝光：超3776万台",
-      "source": "竹本青",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-07-18",
-      "time": "13:17",
-      "publishedAt": "2026-07-18T13:17:06.000Z",
-      "url": "https://www.coolapk.com/feed/72838330",
-      "image": "http://image.coolapk.com/feed/2026/0718/21/4248714_877a1577_0790_7182_701@2160x1542.jpg",
-      "summary": "【iPhone 17系列 中国区最新销量曝光：超3776万台】 7月18日，博主「RD观测」发布第三方统计数据：截至2026年第28周，iPhone 17系列手机在中国市场累计销量约3776.35万台。 前几周数据如下： 截至2026 W27 —— 约3711.92万 截至2026 W26 —— 约3630.44万 截至2026 W25 —— 约3538.…",
-      "tags": [
-        "iPhone",
+        "OPPO",
         "爆料",
         "酷安博主"
       ]
