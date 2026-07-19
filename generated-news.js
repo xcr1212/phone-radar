@@ -1,6 +1,86 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-07-19T15:14:17.532Z",
+  "updatedAt": "2026-07-19T17:14:52.553Z",
   "news": [
+    {
+      "id": "auto-438a6dee7020",
+      "title": "Marshall Celebrates 60 Years of Hendrix With a Special Edition Acton III Speaker",
+      "source": "Gizmochina",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-19",
+      "time": "16:17",
+      "publishedAt": "2026-07-19T16:17:21.000Z",
+      "url": "https://www.gizmochina.com/2026/07/19/marshall-celebrates-60-years-of-hendrix-with-a-special-edition-acton-iii-speaker/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/07/Marshall-Acton-III-—-Jimi-Hendrix-60th-Anniversary-Edition-Design-300x200.jpg?x92417",
+      "summary": "Marshall has released a new limited-edition version of its Acton III Bluetooth speaker to honor 60 years since legendary Jimi Hendrix first plugged into a Marshall amp. The Hendri…",
+      "tags": [
+        "HONOR",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-ef87d0e6e739",
+      "title": "Apple and DOJ Hold Early Settlement Talks in iPhone Antitrust Case",
+      "source": "MacRumors",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-19",
+      "time": "14:14",
+      "publishedAt": "2026-07-19T14:14:38.000Z",
+      "url": "https://www.macrumors.com/2026/07/17/apple-doj-antitrust-settlement/",
+      "image": "https://images.macrumors.com/article-new/2024/03/Apple-vs-DOJ-Feature.jpg",
+      "summary": "Apple is working to settle an antitrust lawsuit with the U.S. Department of Justice, reports Bloomberg . Apple has proposed several offers and is now in early settlement talks wit…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-973d6bf46848",
+      "title": "iPhone 18 Pro Launching in Two Months With These 12 New Features",
+      "source": "MacRumors",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-19",
+      "time": "14:14",
+      "publishedAt": "2026-07-19T14:14:38.000Z",
+      "url": "https://www.macrumors.com/2026/07/17/iphone-18-pro-12-rumored-features/",
+      "image": "https://images.macrumors.com/article-new/2026/02/iPhone-18-Pro-Deep-Red-Feature.jpg",
+      "summary": "It is now mid-July, and that means the iPhone 18 Pro and iPhone 18 Pro Max are now just two months away. The devices are expected to look similar to the iPhone 17 Pro and iPhone 1…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-b63d09b1185a",
+      "title": "iPhone Loyalty Rate Climbs to 87% as Switching to Android Slows",
+      "source": "MacRumors",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-19",
+      "time": "14:14",
+      "publishedAt": "2026-07-19T14:14:38.000Z",
+      "url": "https://www.macrumors.com/2026/07/17/iphone-loyalty-rate-climbs-to-87/",
+      "image": "https://images.macrumors.com/article-new/2025/09/iphone-17-pro-silver.jpg",
+      "summary": "iPhone owners are sticking with the platform at a higher rate than a year ago, with new research firm CIRP putting iPhone loyalty at 87% for the first quarter of 2026. CIRP's late…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "coolapk-user-72a2bfa42ade",
       "title": "竹本青：时尚摄影套装均价是多少啊，想收一个玩玩，看开箱视频，说安装以后可以平齐放桌面",
@@ -57,66 +137,6 @@ window.phoneRadarAuto = {
       "summary": "Samsung has run out of ideas",
       "tags": [
         "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-ef87d0e6e739",
-      "title": "Apple and DOJ Hold Early Settlement Talks in iPhone Antitrust Case",
-      "source": "MacRumors",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-19",
-      "time": "12:14",
-      "publishedAt": "2026-07-19T12:14:18.000Z",
-      "url": "https://www.macrumors.com/2026/07/17/apple-doj-antitrust-settlement/",
-      "image": "https://images.macrumors.com/article-new/2024/03/Apple-vs-DOJ-Feature.jpg",
-      "summary": "Apple is working to settle an antitrust lawsuit with the U.S. Department of Justice, reports Bloomberg . Apple has proposed several offers and is now in early settlement talks wit…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-973d6bf46848",
-      "title": "iPhone 18 Pro Launching in Two Months With These 12 New Features",
-      "source": "MacRumors",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-19",
-      "time": "12:14",
-      "publishedAt": "2026-07-19T12:14:18.000Z",
-      "url": "https://www.macrumors.com/2026/07/17/iphone-18-pro-12-rumored-features/",
-      "image": "https://images.macrumors.com/article-new/2026/02/iPhone-18-Pro-Deep-Red-Feature.jpg",
-      "summary": "It is now mid-July, and that means the iPhone 18 Pro and iPhone 18 Pro Max are now just two months away. The devices are expected to look similar to the iPhone 17 Pro and iPhone 1…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-b63d09b1185a",
-      "title": "iPhone Loyalty Rate Climbs to 87% as Switching to Android Slows",
-      "source": "MacRumors",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-19",
-      "time": "12:14",
-      "publishedAt": "2026-07-19T12:14:18.000Z",
-      "url": "https://www.macrumors.com/2026/07/17/iphone-loyalty-rate-climbs-to-87/",
-      "image": "https://images.macrumors.com/article-new/2025/09/iphone-17-pro-silver.jpg",
-      "summary": "iPhone owners are sticking with the platform at a higher rate than a year ago, with new research firm CIRP putting iPhone loyalty at 87% for the first quarter of 2026. CIRP's late…",
-      "tags": [
-        "iPhone",
         "爆料",
         "自动抓取"
       ]
@@ -322,26 +342,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-fe1cac11ab45",
-      "title": "不是，人家1299的定价，咋这么多人拿来当旗舰机评测啊，完了对比这个那个不行不行的，好像裁判一样[流汗滑稽]",
-      "source": "酷安热榜",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-07-19",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72833090",
-      "image": "",
-      "summary": "不是，人家1299的定价，咋这么多人拿来当旗舰机评测啊，完了对比这个那个不行不行的，好像裁判一样[流汗滑稽]",
-      "tags": [
-        "行业",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
       "id": "newsnow-8c0615e63247",
       "title": "狗东这手机出BUG了吗？？？3000就能买到",
       "source": "酷安热榜",
@@ -355,6 +355,26 @@ window.phoneRadarAuto = {
       "url": "https://www.coolapk.com/feed/72839563",
       "image": "",
       "summary": "狗东这手机出BUG了吗？？？3000就能买到",
+      "tags": [
+        "行业",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-fe1cac11ab45",
+      "title": "不是，人家1299的定价，咋这么多人拿来当旗舰机评测啊，完了对比这个那个不行不行的，好像裁判一样[流汗滑稽]",
+      "source": "酷安热榜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-07-19",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/72833090",
+      "image": "",
+      "summary": "不是，人家1299的定价，咋这么多人拿来当旗舰机评测啊，完了对比这个那个不行不行的，好像裁判一样[流汗滑稽]",
       "tags": [
         "行业",
         "爆料",
@@ -482,46 +502,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-da568e3e1b37",
-      "title": "丁禹兮忙了一天打开手机天塌了",
-      "source": "微博热搜",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "待验证",
-      "date": "2026-07-19",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://s.weibo.com/weibo?q=%23%E4%B8%81%E7%A6%B9%E5%85%AE%E5%BF%99%E4%BA%86%E4%B8%80%E5%A4%A9%E6%89%93%E5%BC%80%E6%89%8B%E6%9C%BA%E5%A4%A9%E5%A1%8C%E4%BA%86%23&t=31&band_rank=14&Refer=top",
-      "image": "",
-      "summary": "丁禹兮忙了一天打开手机天塌了",
-      "tags": [
-        "行业",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-c423487d89e9",
-      "title": "公司用废旧冰柜做新机柜",
-      "source": "今日头条热榜",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-19",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.toutiao.com/trending/7664077783828348970/",
-      "image": "",
-      "summary": "公司用废旧冰柜做新机柜",
-      "tags": [
-        "行业",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
       "id": "auto-5ac8d39b94e6",
       "title": "Google might not kneecap the Pixel 11a with an old processor",
       "source": "The Verge",
@@ -597,26 +577,6 @@ window.phoneRadarAuto = {
       "summary": "【iPhone 17系列 中国区最新销量曝光：超3776万台】 7月18日，博主「RD观测」发布第三方统计数据：截至2026年第28周，iPhone 17系列手机在中国市场累计销量约3776.35万台。 前几周数据如下： 截至2026 W27 —— 约3711.92万 截至2026 W26 —— 约3630.44万 截至2026 W25 —— 约3538.…",
       "tags": [
         "iPhone",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
-      "id": "coolapk-user-a701abc7d13d",
-      "title": "竹本青：小米17 Max获国家级人工智能 L3级认证",
-      "source": "竹本青",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-07-18",
-      "time": "12:58",
-      "publishedAt": "2026-07-18T12:58:01.000Z",
-      "url": "https://www.coolapk.com/feed/72838053",
-      "image": "http://image.coolapk.com/feed/2026/0718/20/4248714_f432a3e2_9479_5965_28@2000x2667.jpg",
-      "summary": "【小米17 Max获国家级人工智能 L3级认证】 7月18日，小米宣布旗下小米17 Max手机获得首批《人工智能终端智能化分级》系列国家标准L3评级证书。 据悉，L3级为目前有明确划分标准的最高智能化水平。 #HyperOS3# #今日热点# #小米17Max#",
-      "tags": [
-        "Xiaomi",
         "爆料",
         "酷安博主"
       ]
