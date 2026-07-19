@@ -1,6 +1,146 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-07-19T06:42:10.217Z",
+  "updatedAt": "2026-07-19T10:01:59.532Z",
   "news": [
+    {
+      "id": "auto-de8e266a0c66",
+      "title": "消息称三星 Galaxy Z Fold 8 阔折叠手机屏幕产量约 280 万块，超越传统大折叠 Fold 8 Ultra",
+      "source": "IT之家",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-19",
+      "time": "08:03",
+      "publishedAt": "2026-07-19T08:03:22.000Z",
+      "url": "https://www.ithome.com/0/978/723.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/7/0de87d6d-03e1-4804-8473-493ef1385c74.jpg?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 7 月 19 日消息，据韩媒 EtNews 今日援引业内人士消息，三星已向供应链表示， Galaxy Z Fold 8 阔折叠手机的屏幕面板生产目标约为 280 万块 。相比之下， 传统大折叠形态的 Galaxy Z Fold 8 Ultra 面板产量目标约为 200 万块 ，而 Z Flip 8 约为 150 万块。 IT之家在此援引 EtNe…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-d01382fbb1b1",
+      "title": "iPhone 18 Pro Max diagnostic log reveals sensor details, variable aperture",
+      "source": "Gizmochina",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-19",
+      "time": "07:40",
+      "publishedAt": "2026-07-19T07:40:20.000Z",
+      "url": "https://www.gizmochina.com/2026/07/19/iphone-18-pro-max-diagnostic-log-reveals-sensor-details-variable-aperture/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2025/10/iPhone-17-Pro-300x169.jpg?x92417",
+      "summary": "A big data breach at one of Apple’s suppliers has given us some of the clearest details yet about the camera setup coming to the iPhone 18 Pro Max. The leak confirms that Apple is…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-b42df576566e",
+      "title": "vivo 获首批《人工智能终端智能化分级》系列国家标准 L3 评级证书",
+      "source": "IT之家",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-19",
+      "time": "07:21",
+      "publishedAt": "2026-07-19T07:21:44.000Z",
+      "url": "https://www.ithome.com/0/978/710.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/7/bf3bc60c-01fc-46b4-ac4f-cde1ae3570b5.jpg",
+      "summary": "IT之家 7 月 19 日消息，据 vivo 手机操作系统官方微博 @OriginOS原系统 消息，vivo 首批获颁《人工智能终端智能化分级》系列国家标准 L3 评级证书。vivo 官方表示， L3 是当前行业可达到的最高智能化评级 。 vivo 官方还发布了预告， 称小 V 圈搜「圈搜百科」和「猜你想问」也将陆续上线 。 目前， 小米 17 Max 手…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-ef87d0e6e739",
+      "title": "Apple and DOJ Hold Early Settlement Talks in iPhone Antitrust Case",
+      "source": "MacRumors",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-19",
+      "time": "07:01",
+      "publishedAt": "2026-07-19T07:01:02.000Z",
+      "url": "https://www.macrumors.com/2026/07/17/apple-doj-antitrust-settlement/",
+      "image": "https://images.macrumors.com/article-new/2024/03/Apple-vs-DOJ-Feature.jpg",
+      "summary": "Apple is working to settle an antitrust lawsuit with the U.S. Department of Justice, reports Bloomberg . Apple has proposed several offers and is now in early settlement talks wit…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-973d6bf46848",
+      "title": "iPhone 18 Pro Launching in Two Months With These 12 New Features",
+      "source": "MacRumors",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-19",
+      "time": "07:01",
+      "publishedAt": "2026-07-19T07:01:02.000Z",
+      "url": "https://www.macrumors.com/2026/07/17/iphone-18-pro-12-rumored-features/",
+      "image": "https://images.macrumors.com/article-new/2026/02/iPhone-18-Pro-Deep-Red-Feature.jpg",
+      "summary": "It is now mid-July, and that means the iPhone 18 Pro and iPhone 18 Pro Max are now just two months away. The devices are expected to look similar to the iPhone 17 Pro and iPhone 1…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-b63d09b1185a",
+      "title": "iPhone Loyalty Rate Climbs to 87% as Switching to Android Slows",
+      "source": "MacRumors",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-19",
+      "time": "07:01",
+      "publishedAt": "2026-07-19T07:01:02.000Z",
+      "url": "https://www.macrumors.com/2026/07/17/iphone-loyalty-rate-climbs-to-87/",
+      "image": "https://images.macrumors.com/article-new/2025/09/iphone-17-pro-silver.jpg",
+      "summary": "iPhone owners are sticking with the platform at a higher rate than a year ago, with new research firm CIRP putting iPhone loyalty at 87% for the first quarter of 2026. CIRP's late…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-561733aac008",
+      "title": "Google Pixel 11 Pro XL vs. Pixel 10 Pro XL: A glowing upgrade",
+      "source": "Android Central",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-07-19",
+      "time": "06:51",
+      "publishedAt": "2026-07-19T06:51:00.000Z",
+      "url": "https://www.androidcentral.com/phones/google-pixel/google-pixel-11-pro-xl-vs-pixel-10-pro-xl",
+      "image": "https://cdn.mos.cms.futurecdn.net/uxCJTEfLiCZ5DpseWfgCib-1280-80.jpg",
+      "summary": "Google might be reusing the same design again with the Pixel 11, but this time, it's packing an extra glow.",
+      "tags": [
+        "Pixel",
+        "评测",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-134e6b1534b5",
       "title": "高通骁龙 4 Gen 6 芯片曝光：台积电 4nm 工艺、Adreno 6 系 GPU，支持 LPDDR5 内存",
@@ -62,66 +202,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-ef87d0e6e739",
-      "title": "Apple and DOJ Hold Early Settlement Talks in iPhone Antitrust Case",
-      "source": "MacRumors",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-19",
-      "time": "03:41",
-      "publishedAt": "2026-07-19T03:41:52.000Z",
-      "url": "https://www.macrumors.com/2026/07/17/apple-doj-antitrust-settlement/",
-      "image": "https://images.macrumors.com/article-new/2024/03/Apple-vs-DOJ-Feature.jpg",
-      "summary": "Apple is working to settle an antitrust lawsuit with the U.S. Department of Justice, reports Bloomberg . Apple has proposed several offers and is now in early settlement talks wit…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-973d6bf46848",
-      "title": "iPhone 18 Pro Launching in Two Months With These 12 New Features",
-      "source": "MacRumors",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-19",
-      "time": "03:41",
-      "publishedAt": "2026-07-19T03:41:52.000Z",
-      "url": "https://www.macrumors.com/2026/07/17/iphone-18-pro-12-rumored-features/",
-      "image": "https://images.macrumors.com/article-new/2026/02/iPhone-18-Pro-Deep-Red-Feature.jpg",
-      "summary": "It is now mid-July, and that means the iPhone 18 Pro and iPhone 18 Pro Max are now just two months away. The devices are expected to look similar to the iPhone 17 Pro and iPhone 1…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-b63d09b1185a",
-      "title": "iPhone Loyalty Rate Climbs to 87% as Switching to Android Slows",
-      "source": "MacRumors",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-19",
-      "time": "03:41",
-      "publishedAt": "2026-07-19T03:41:52.000Z",
-      "url": "https://www.macrumors.com/2026/07/17/iphone-loyalty-rate-climbs-to-87/",
-      "image": "https://images.macrumors.com/article-new/2025/09/iphone-17-pro-silver.jpg",
-      "summary": "iPhone owners are sticking with the platform at a higher rate than a year ago, with new research firm CIRP putting iPhone loyalty at 87% for the first quarter of 2026. CIRP's late…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "coolapk-user-57f0e7c0d831",
       "title": "竹本青：荣耀发布新一代伙伴型多模态智能体操作系统 AgenticOS",
       "source": "竹本青",
@@ -139,26 +219,6 @@ window.phoneRadarAuto = {
         "HONOR",
         "爆料",
         "酷安博主"
-      ]
-    },
-    {
-      "id": "auto-c7efad5fc563",
-      "title": "荣耀新一代伙伴型多模态智能体操作系统 AgenticOS 发布，8 月 Robot Phone 首发内核",
-      "source": "IT之家",
-      "brand": "HONOR",
-      "model": "HONOR 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-19",
-      "time": "00:30",
-      "publishedAt": "2026-07-19T00:30:21.000Z",
-      "url": "https://www.ithome.com/0/978/621.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/7/b26b34ca-4eda-4411-94e1-9a94eaed1690.jpg",
-      "summary": "IT之家 7 月 19 日消息，荣耀新一代伙伴型多模态智能体操作系统 AgenticOS 已在 2026 世界人工智能大会上正式发布。荣耀手机官方昨晚发布了 AgenticOS 的核心亮点一图知。 据介绍，荣耀 AgenticOS 系统支持意图驱动、自然交互、主动智能、天生跨端四大特征，拥有行业首个系统级 Agent 架构，支持全局多智能体协同、全场景自适…",
-      "tags": [
-        "HONOR",
-        "爆料",
-        "自动抓取"
       ]
     },
     {
@@ -242,6 +302,26 @@ window.phoneRadarAuto = {
       ]
     },
     {
+      "id": "newsnow-fe1cac11ab45",
+      "title": "不是，人家1299的定价，咋这么多人拿来当旗舰机评测啊，完了对比这个那个不行不行的，好像裁判一样[流汗滑稽]",
+      "source": "酷安热榜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-07-19",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/72833090",
+      "image": "",
+      "summary": "不是，人家1299的定价，咋这么多人拿来当旗舰机评测啊，完了对比这个那个不行不行的，好像裁判一样[流汗滑稽]",
+      "tags": [
+        "行业",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
       "id": "newsnow-8c0615e63247",
       "title": "狗东这手机出BUG了吗？？？3000就能买到",
       "source": "酷安热榜",
@@ -297,26 +377,6 @@ window.phoneRadarAuto = {
       "summary": "荣耀Robot Phone 机器人手机开启预约：2亿像素4D云台主摄",
       "tags": [
         "HONOR",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-fe1cac11ab45",
-      "title": "不是，人家1299的定价，咋这么多人拿来当旗舰机评测啊，完了对比这个那个不行不行的，好像裁判一样[流汗滑稽]",
-      "source": "酷安热榜",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-07-19",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72833090",
-      "image": "",
-      "summary": "不是，人家1299的定价，咋这么多人拿来当旗舰机评测啊，完了对比这个那个不行不行的，好像裁判一样[流汗滑稽]",
-      "tags": [
-        "行业",
         "爆料",
         "NewsNow"
       ]
@@ -402,23 +462,23 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-91b7b06b86d9",
-      "title": "小米获首批《人工智能终端智能化分级》系列国家标准 L3 评级证书",
-      "source": "IT之家",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
+      "id": "newsnow-5036ba662907",
+      "title": "手机次次充到100%也伤电池",
+      "source": "百度热搜",
+      "brand": "行业",
+      "model": "智能手机市场",
       "type": "爆料",
       "trust": "媒体汇总",
-      "date": "2026-07-18",
-      "time": "22:52",
-      "publishedAt": "2026-07-18T22:52:56.000Z",
-      "url": "https://www.ithome.com/0/978/603.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/7/4ec277dc-792c-494f-ad4f-642b1b56bc4c.png?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 7 月 19 日消息，小米手机官方昨晚宣布，小米荣获首批《人工智能终端智能化分级》系列国家标准 L3 评级证书。小米表示， L3 级为目前有明确划分标准的最高智能化水平 。 官方海报显示， 小米 17 Max 手机获得了国家级人工智能 L3 级认证 。 据IT之家昨日报道， 华为 MateBook Pro 近日也获得了国家级人工智能终端智能化分级…",
+      "date": "2026-07-19",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.baidu.com/s?wd=%E6%89%8B%E6%9C%BA%E6%AC%A1%E6%AC%A1%E5%85%85%E5%88%B0100%25%E4%B9%9F%E4%BC%A4%E7%94%B5%E6%B1%A0",
+      "image": "",
+      "summary": "手机次次充到100%也伤电池",
       "tags": [
-        "Huawei",
+        "行业",
         "爆料",
-        "自动抓取"
+        "NewsNow"
       ]
     },
     {
@@ -662,23 +722,23 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "coolapk-user-ef87e29458de",
-      "title": "竹本青：三星Galaxy Z Fold 8 曝光：7.6英寸内屏+5.5英寸外屏",
-      "source": "竹本青",
+      "id": "auto-6142e9ce62bb",
+      "title": "Galaxy Z Fold 8 Ultra display: 5 upgrades it could bring over the Z Fold 7",
+      "source": "SamMobile",
       "brand": "Samsung",
       "model": "Samsung 相关机型",
       "type": "爆料",
-      "trust": "高可信爆料",
+      "trust": "媒体汇总",
       "date": "2026-07-18",
-      "time": "06:05",
-      "publishedAt": "2026-07-18T06:05:43.000Z",
-      "url": "https://www.coolapk.com/feed/72832938",
-      "image": "http://image.coolapk.com/feed/2026/0718/14/4248714_530ac297_4742_7187_460@1439x1853.jpg",
-      "summary": "【安卓首款阔折叠曝光：7.6英寸内屏+5.5英寸外屏，预计归属三星Galaxy Z Fold 8系列】 ▫️骁龙8 Elite Gen5高频版 ▫️7.6英寸4:3内屏+5.5英寸16:10外屏 ▫️4800mAh电池+45W快充 ● 影像： 前置｜10Mp 主摄｜50Mp 超广｜50Mp #今日热点# #三星GalaxyZFold8Ultra#",
+      "time": "03:39",
+      "publishedAt": "2026-07-18T03:39:02.000Z",
+      "url": "https://www.sammobile.com/news/galaxy-z-fold-8-ultra-display-5-upgrades-over-z-fold-7/",
+      "image": "https://www.sammobile.com/wp-content/uploads/2026/07/Samsung-Galaxy-Z-Fold-8-Ultra.jpg",
+      "summary": "We are just one week away from the official announcement of the Galaxy Z Fold 8 series. After introducing a major design upgrade with the Galaxy Z Fold 7 last year, Samsung is rep…",
       "tags": [
         "Samsung",
         "爆料",
-        "酷安博主"
+        "自动抓取"
       ]
     },
     {
