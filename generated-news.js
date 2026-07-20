@@ -1,5 +1,5 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-07-20T21:31:34.268Z",
+  "updatedAt": "2026-07-20T23:14:05.559Z",
   "news": [
     {
       "id": "auto-2b795286a306",
@@ -897,6 +897,26 @@ window.phoneRadarAuto = {
       "summary": "vivo X300s迎来调价：全系涨价300元",
       "tags": [
         "vivo",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-d3eab1f92db5",
+      "title": "其实我感觉iPhone的信号并不差[受虐滑稽]，同一个地方如果苹果刷不出东西，其他手机也是半斤八两，体验也不会很好[受虐滑稽]",
+      "source": "酷安热榜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-07-20",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/72850962",
+      "image": "",
+      "summary": "其实我感觉iPhone的信号并不差[受虐滑稽]，同一个地方如果苹果刷不出东西，其他手机也是半斤八两，体验也不会很好[受虐滑稽]",
+      "tags": [
+        "iPhone",
         "爆料",
         "NewsNow"
       ]
