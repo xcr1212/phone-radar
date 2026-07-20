@@ -1,6 +1,246 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-07-20T07:28:22.128Z",
+  "updatedAt": "2026-07-20T11:12:13.655Z",
   "news": [
+    {
+      "id": "auto-c0a5789a5eef",
+      "title": "This bizarre Pixel 8 Pro clone from North Korea beats Google’s flagship in surprising ways",
+      "source": "Android Authority",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-20",
+      "time": "10:47",
+      "publishedAt": "2026-07-20T10:47:37.000Z",
+      "url": "https://www.androidauthority.com/google-pixel-8-pro-north-korean-clone-3689117/",
+      "image": "",
+      "summary": "The fake Pixel that somehow brought more RAM than Google did.",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-d66dd0cf090a",
+      "title": "The Pixel 11 Pro’s LED lights are a brilliant Android throwback",
+      "source": "Android Authority",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-20",
+      "time": "10:00",
+      "publishedAt": "2026-07-20T10:00:20.000Z",
+      "url": "https://www.androidauthority.com/pixel-11-pro-pixel-glow-throwback-3688717/",
+      "image": "",
+      "summary": "Pixel Glow looks like a modernization of the tried-and-true notification LED, and I'm here for it.",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-6bc04b2983d3",
+      "title": "竹本青：消息称荣耀 Robot Phone 云台核心机构件全部自研",
+      "source": "竹本青",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-07-20",
+      "time": "09:44",
+      "publishedAt": "2026-07-20T09:44:47.000Z",
+      "url": "https://www.coolapk.com/feed/72863252",
+      "image": "http://image.coolapk.com/feed/2026/0720/17/4248714_86f3e8cb_0685_9107_290@1440x879.jpg",
+      "summary": "【消息称荣耀 Robot Phone 云台核心机构件全部自研，1TB版本或将15999元】 7月20日，博主数码闲聊站 爆料荣耀 Robot Phone 机器人手机 ： “200Mp云台影像是基础，核心机构件、电机、模组全部是荣耀自研和独立定制，整套云台及翻转机构新增了近100个零部件。 其中定制了4个电机，内部动力采用了特殊多极充磁工艺，直径最小的仅6m…",
+      "tags": [
+        "HONOR",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "weibo-d234588a3879",
+      "title": "数码闲聊站：耀子的机器人手机最近很火，摸了一下核心信息，感觉是目前手机精密制造的巅峰： 2…",
+      "source": "数码闲聊站",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-07-20",
+      "time": "09:35",
+      "publishedAt": "2026-07-20T09:35:55.000Z",
+      "url": "https://weibo.com/6048569942/R9znCn7UV",
+      "image": "",
+      "summary": "耀子的机器人手机最近很火，摸了一下核心信息，感觉是目前手机精密制造的巅峰： 200Mp云台影像是基础，核心机构件、电机、模组全部是荣耀自研和独立定制，整套云台及翻转机构新增了近100个零部件。 其中定制了4个电机，内部动力采用了特殊多极充磁工艺，直径最小的仅6mm。 核心结构件为了可靠性全部使用了钛合金材质，材料及加工成本比常规铝合金摆臂多3倍。并且装配流…",
+      "tags": [
+        "HONOR",
+        "爆料",
+        "微博"
+      ]
+    },
+    {
+      "id": "auto-b9a8164e066e",
+      "title": "After one year with the Galaxy Z Flip 7, it’s clear why Samsung should quit",
+      "source": "Android Authority",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-20",
+      "time": "09:30",
+      "publishedAt": "2026-07-20T09:30:39.000Z",
+      "url": "https://www.androidauthority.com/galaxy-z-flip-7-one-year-later-samsung-should-quit-3688346/",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2025/08/samsung-galaxy-z-flip-7-review-1-scaled.jpg",
+      "summary": "Samsung just doesn't get it.",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-bc060dc2b2a1",
+      "title": "Counterpoint：2026 年第二季度中国智能手机出货量同比下降 2%，华为、苹果逆势增长",
+      "source": "IT之家",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-20",
+      "time": "09:01",
+      "publishedAt": "2026-07-20T09:01:53.000Z",
+      "url": "https://www.ithome.com/0/979/095.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/7/60ecd949-a1af-490d-ab2b-6d04d17a7a83.png?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 7 月 20 日消息，根据 Counterpoint Research 的初步数据，2026 年第二季度中国智能手机出货量同比下降 2%。由于存储价格持续上涨，智能手机 OEM 厂商纷纷采取更为保守的生产计划，内存成本的大幅上涨促使智能手机厂商采取更为保守的生产策略，将重心从追求出货量转向提升盈利能力。为了保障利润率，许多厂商选择减少了低端机型的…",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-133ee9c96c39",
+      "title": "OnePlus leaving the US is a terrifying sign for the future of Android",
+      "source": "Android Authority",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-20",
+      "time": "09:00",
+      "publishedAt": "2026-07-20T09:00:39.000Z",
+      "url": "https://www.androidauthority.com/oneplus-leaving-us-terrifying-android-future-3688780/",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2026/07/oneplus-13-blue-back-angle-scaled.jpg",
+      "summary": "This isn't what the Android world needed.",
+      "tags": [
+        "OPPO",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-3df265bfc6ff",
+      "title": "竹本青：汇顶GT9926 OLED触控芯片将在下半年大规模商用",
+      "source": "竹本青",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-07-20",
+      "time": "08:45",
+      "publishedAt": "2026-07-20T08:45:38.000Z",
+      "url": "https://www.coolapk.com/feed/72862369",
+      "image": "http://image.coolapk.com/feed/2026/0720/16/4248714_1d6851a3_7137_6897_606@1080x1440.jpg",
+      "summary": "【汇顶科技：GT9926 OLED触控芯片 将在下半年发布的手机大规模商用】 今年上半年，汇顶科技正式推出全新一代柔性OLED触摸屏控制芯片GT9926，并率先商用于OPPO K15 Pro+手机。 ▫️480Hz多指采样率／4000Hz瞬时采样率 ▫️信噪比相较上代产品提升100% ▫️毫秒级响应+点击延时更低 ▫️显示兼容性更好，适配新型屏幕 ▫️提升…",
+      "tags": [
+        "OPPO",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-0bda8a32c6e0",
+      "title": "Samsung is betting big on the Wide Fold",
+      "source": "Android Authority",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-20",
+      "time": "08:11",
+      "publishedAt": "2026-07-20T08:11:45.000Z",
+      "url": "https://www.androidauthority.com/galaxy-z-fold-8-production-volume-increased-3689103/",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2026/07/Samsung-Galaxy-Z-Fold-8-Hands-on-in-Korea_1.jpg",
+      "summary": "Samsung expects more people to opt for the wide Galaxy Z Fold 8 over the flagship Z Fold 8 Ultra.",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-645c11bb471d",
+      "title": "Oppo Find X10 lineup revised, Pro Max could be topmost model",
+      "source": "Gizmochina",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-20",
+      "time": "08:11",
+      "publishedAt": "2026-07-20T08:11:17.000Z",
+      "url": "https://www.gizmochina.com/2026/07/20/oppo-find-x10-series-revised-lineup-leak/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/01/Oppo-Find-X9-Pro-300x225.jpg?x92417",
+      "summary": "Oppo’s next-generation Find X10 series could arrive with a noticeably different lineup than previously expected. A new leak suggests the company has revised its flagship strategy,…",
+      "tags": [
+        "OPPO",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-351eba644530",
+      "title": "Google Pixel 11 Pro Fold vs. Motorola Razr Fold: What's the best foldable in the US?",
+      "source": "Android Central",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-07-20",
+      "time": "08:06",
+      "publishedAt": "2026-07-20T08:06:24.000Z",
+      "url": "https://www.androidcentral.com/phones/google-pixel/google-pixel-11-pro-fold-vs-motorola-razr-fold",
+      "image": "https://cdn.mos.cms.futurecdn.net/E2kB9G9RMwEx3DPKKcJqUn-1280-80.jpg",
+      "summary": "Motorola's Razr Fold is one of the best foldables available today. So what does Google need to do with the Pixel 11 Pro Fold to be able to measure up? Let's take a look.",
+      "tags": [
+        "Pixel",
+        "评测",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-e85b243cad5c",
+      "title": "vivo S2 手机曝光，预计下月初海外发布",
+      "source": "IT之家",
+      "brand": "vivo",
+      "model": "vivo 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-20",
+      "time": "07:44",
+      "publishedAt": "2026-07-20T07:44:29.000Z",
+      "url": "https://www.ithome.com/0/979/059.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/7/cb90b790-5dbe-4f48-acbe-f1bf815fd68d.png?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 7 月 20 日消息，据 X 平台消息人士 Yogesh Brar 前天透露， vivo S2 手机将于 8 月初在印度发布 ，并在 8 月 15 日前后开售。 据介绍， 这款手机的型号是 V2576 ，目前已经出现在蓝牙技术联盟（IT之家注：Bluetooth SIG）数据库中，并明确标注为 vivo S2。 不过，目前该机的详细参数还没有公布…",
+      "tags": [
+        "vivo",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-b11f1267557b",
       "title": "REDMI 17 4G EPREL listing confirms 7,500mAh battery, 45W charging",
@@ -17,46 +257,6 @@ window.phoneRadarAuto = {
       "summary": "REDMI is once again going after budget buyers who just want a phone that lasts forever on a single charge. The upcoming REDMI 17 4G looks especially promising in that department.…",
       "tags": [
         "Xiaomi",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-78d2ea14f52e",
-      "title": "消息称某国产新旗舰全系标配 2nm 旗舰芯、2K 级直屏，预计为小米 18 系列",
-      "source": "IT之家",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-20",
-      "time": "06:52",
-      "publishedAt": "2026-07-20T06:52:45.000Z",
-      "url": "https://www.ithome.com/0/979/012.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/7/741d6e2a-bacf-48e1-bc4e-2512955510fe.jpg",
-      "summary": "IT之家 7 月 20 日消息，博主 @数码闲聊站 今日爆料，某新机可能是国产新旗舰中：唯一全系标配 2nm 旗舰芯、唯一全系标配 2K 级超清直屏、唯一全系标配超大底双 2 亿影像。结合该博主此前的爆料习惯，评论区网友推测为小米 18 系列。 今年 6 月，该博主曾爆料某厂“母系中杯”没有大杯同款显示新技术，但有同款超清显示、同款极窄四等边、同款 2nm…",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-8b6232c38b04",
-      "title": "绿厂系首个万级大电池新机：OPPO A7 Pro Max 手机参数曝光，骁龙 4 Gen 5 芯片",
-      "source": "IT之家",
-      "brand": "OPPO",
-      "model": "OPPO 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-20",
-      "time": "06:41",
-      "publishedAt": "2026-07-20T06:41:18.000Z",
-      "url": "https://www.ithome.com/0/979/001.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/7/b7387aa5-b09a-4bdf-9547-82d2abe9e979.png?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 7 月 20 日消息，博主 @数码闲聊站 今天在微博发文，曝光绿厂系首个万级大电池新机 OPPO A7 Pro Max。 据介绍，这款手机搭载 6.78 英寸 1.5K 120Hz OLED 直屏， 配备骁龙 4 Gen 5（第五代骁龙 4）芯片 ， 拥有 10000mAh 单电芯大电池 ，支持 80W 快充。配备 5000 万像素前置镜头、50…",
-      "tags": [
-        "OPPO",
         "爆料",
         "自动抓取"
       ]
@@ -142,26 +342,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-b8b962386241",
-      "title": "消息称小米 18 系列手机今年十二月登陆印度市场，相比以往提前两月",
-      "source": "IT之家",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-20",
-      "time": "05:21",
-      "publishedAt": "2026-07-20T05:21:33.000Z",
-      "url": "https://www.ithome.com/0/978/954.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/7/5ad4bccc-76ad-41be-8399-fa62306d54c4.png?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 7 月 20 日消息，据科技媒体 Smartprix 今日援引行业人士 Yogesh Brar 消息，小米 18 系列手机将在海外市场提前发售。 IT之家从原报道了解到，小米旗舰手机通常情况下需要等到次年春季才会发布全球版，不过今年情况有所不同。Yogesh Brar 表示， 小米 18 系列机型将于今年十二月份在印度上市 ， 相比以往提前两个月…",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-62c8fe478968",
       "title": "Xiaomi 18 series may launch by December in India, Pro Max tipped to replace Ultra",
       "source": "Gizmochina",
@@ -199,66 +379,6 @@ window.phoneRadarAuto = {
         "OPPO",
         "爆料",
         "酷安博主"
-      ]
-    },
-    {
-      "id": "auto-ef87d0e6e739",
-      "title": "Apple and DOJ Hold Early Settlement Talks in iPhone Antitrust Case",
-      "source": "MacRumors",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-20",
-      "time": "04:27",
-      "publishedAt": "2026-07-20T04:27:27.000Z",
-      "url": "https://www.macrumors.com/2026/07/17/apple-doj-antitrust-settlement/",
-      "image": "https://images.macrumors.com/article-new/2024/03/Apple-vs-DOJ-Feature.jpg",
-      "summary": "Apple is working to settle an antitrust lawsuit with the U.S. Department of Justice, reports Bloomberg . Apple has proposed several offers and is now in early settlement talks wit…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-973d6bf46848",
-      "title": "iPhone 18 Pro Launching in Two Months With These 12 New Features",
-      "source": "MacRumors",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-20",
-      "time": "04:27",
-      "publishedAt": "2026-07-20T04:27:27.000Z",
-      "url": "https://www.macrumors.com/2026/07/17/iphone-18-pro-12-rumored-features/",
-      "image": "https://images.macrumors.com/article-new/2026/02/iPhone-18-Pro-Deep-Red-Feature.jpg",
-      "summary": "It is now mid-July, and that means the iPhone 18 Pro and iPhone 18 Pro Max are now just two months away. The devices are expected to look similar to the iPhone 17 Pro and iPhone 1…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-b63d09b1185a",
-      "title": "iPhone Loyalty Rate Climbs to 87% as Switching to Android Slows",
-      "source": "MacRumors",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-20",
-      "time": "04:27",
-      "publishedAt": "2026-07-20T04:27:27.000Z",
-      "url": "https://www.macrumors.com/2026/07/17/iphone-loyalty-rate-climbs-to-87/",
-      "image": "https://images.macrumors.com/article-new/2025/09/iphone-17-pro-silver.jpg",
-      "summary": "iPhone owners are sticking with the platform at a higher rate than a year ago, with new research firm CIRP putting iPhone loyalty at 87% for the first quarter of 2026. CIRP's late…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
       ]
     },
     {
@@ -582,8 +702,28 @@ window.phoneRadarAuto = {
       ]
     },
     {
+      "id": "newsnow-8a5ecbcfd32d",
+      "title": "朱之文回应为阻止老婆直播摔手机",
+      "source": "今日头条热榜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-20",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.toutiao.com/trending/7664475780517199898/",
+      "image": "",
+      "summary": "朱之文回应为阻止老婆直播摔手机",
+      "tags": [
+        "行业",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
       "id": "auto-59fe23616066",
-      "title": "Google Pixel 11a specs leaked: Tensor G6, MediaTek M90 modem, Titan M3 security chip",
+      "title": "Google Pixel 11a specs leaked: Tensor G6, MediaTek M90 modem, 8GB RAM",
       "source": "Gizmochina",
       "brand": "Pixel",
       "model": "Pixel 相关机型",
@@ -619,26 +759,6 @@ window.phoneRadarAuto = {
         "Samsung",
         "爆料",
         "自动抓取"
-      ]
-    },
-    {
-      "id": "coolapk-user-48479b9d226a",
-      "title": "竹本青：小米17系列最新销量曝光：全系突破568万台",
-      "source": "竹本青",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-07-19",
-      "time": "18:02",
-      "publishedAt": "2026-07-19T18:02:49.000Z",
-      "url": "https://www.coolapk.com/feed/72855248",
-      "image": "http://image.coolapk.com/feed/2026/0720/02/4248714_fae3b524_4168_1505_618@2960x2800.jpg",
-      "summary": "【小米 17系列 最新销量曝光：全系突破568万台，Ultra约23.43万台】 博主「RD观测」昨日分享第三方数据：截至2026年第28周，小米 17系列累计销量约568.85万台，其中，Ultra约23.43万台。 前几周数据如下： 小米 17系列 截至2026 W27 —— 约561.43万 截至2026 W26 —— 约554.01万 截至2026…",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "酷安博主"
       ]
     },
     {
