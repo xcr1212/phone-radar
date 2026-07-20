@@ -1,6 +1,126 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-07-20T18:18:18.397Z",
+  "updatedAt": "2026-07-20T21:31:34.268Z",
   "news": [
+    {
+      "id": "auto-2b795286a306",
+      "title": "Samsung expects Galaxy Z Fold 8 to outsell Fold 8 Ultra, Flip 8",
+      "source": "SamMobile",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-20",
+      "time": "21:19",
+      "publishedAt": "2026-07-20T21:19:38.000Z",
+      "url": "https://www.sammobile.com/news/samsung-expects-galaxy-z-fold-8-outsell-fold-8-ultra-flip-8/",
+      "image": "",
+      "summary": "Samsung has scheduled a Galaxy Unpacked event for tomorrow (July 22, 2026). The brand has hinted multiple times that it will unveil the company's next-generation flagship foldable…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-a62073204fdc",
+      "title": "Best Galaxy Z Fold 8 images yet show off Samsung’s wide foldable before Unpacked",
+      "source": "Android Authority",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-20",
+      "time": "21:07",
+      "publishedAt": "2026-07-20T21:07:03.000Z",
+      "url": "https://www.androidauthority.com/galaxy-z-fold-8-leak-images-3689395/",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2025/07/Galaxy-Z-fold-7-unfolded-flipped-on-table-hero-image-scaled.jpg",
+      "summary": "Galaxy Unpacked is right around the corner, and the leaks are rolling in.",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-23b3e94af60a",
+      "title": "Samsung is betting big that you’ll want the wide Galaxy Z Fold 8, report details",
+      "source": "9to5Google",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-20",
+      "time": "20:55",
+      "publishedAt": "2026-07-20T20:55:00.000Z",
+      "url": "https://9to5google.com/2026/07/20/samsung-galaxy-z-fold-8-wide-production-reports/",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/07/galaxy-fold-8-family-leak-ah-2-1.webp?w=1600",
+      "summary": "A new report reveals Samsung’s plans for the Galaxy Z Fold 8 series and the Galaxy Z Flip 8, with the company betting big on its new wider foldable.",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-6797fefe2496",
+      "title": "iPhone 18 Pro’s new A20 chip rumored to bring two major upgrades",
+      "source": "9to5Mac",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-20",
+      "time": "20:34",
+      "publishedAt": "2026-07-20T20:34:11.000Z",
+      "url": "https://9to5mac.com/2026/07/20/iphone-18-pros-new-a20-chip-rumored-to-bring-two-major-upgrades/",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/01/iphone-18-mockup-red.jpg?quality=82&strip=all&w=1600",
+      "summary": "Every year, Apple has a new chip ready for its latest iPhones. But the A20 Pro chip for this fall’s iPhone 18 Pro and iPhone Ultra sounds like it could be extra special. Here are…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-9165ce2d4485",
+      "title": "Samsung updates Galaxy S24 FE with July 2026 security patch",
+      "source": "SamMobile",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-20",
+      "time": "20:09",
+      "publishedAt": "2026-07-20T20:09:40.000Z",
+      "url": "https://www.sammobile.com/news/samsung-updates-galaxy-s24-fe-with-july-2026-security-patch/",
+      "image": "",
+      "summary": "Last week, Samsung released a software update for the Galaxy S24 series that brought the July 2026 security patch. However, the brand had offered it only to the three core devices…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-431ca7e79217",
+      "title": "The Pixel 11 Pro showed up on one of Google’s websites",
+      "source": "9to5Google",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-20",
+      "time": "18:40",
+      "publishedAt": "2026-07-20T18:40:46.000Z",
+      "url": "https://9to5google.com/2026/07/20/pixel-11-pro-shows-up-on-one-of-googles-websites/",
+      "image": "",
+      "summary": "Images of the Pixel 11 lineup have already surfaced, but those uncovered images didn’t come with loads of confidence. New pictures, though, come straight from Google. Well, Google…",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-714b58664dc6",
       "title": "Samsung doesn’t have to survive the crisis that wiped out OnePlus",
@@ -222,26 +342,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "coolapk-user-6bc04b2983d3",
-      "title": "竹本青：消息称荣耀 Robot Phone 云台核心机构件全部自研",
-      "source": "竹本青",
-      "brand": "HONOR",
-      "model": "HONOR 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-07-20",
-      "time": "09:44",
-      "publishedAt": "2026-07-20T09:44:47.000Z",
-      "url": "https://www.coolapk.com/feed/72863252",
-      "image": "http://image.coolapk.com/feed/2026/0720/17/4248714_86f3e8cb_0685_9107_290@1440x879.jpg",
-      "summary": "【消息称荣耀 Robot Phone 云台核心机构件全部自研，1TB版本或将15999元】 7月20日，博主数码闲聊站 爆料荣耀 Robot Phone 机器人手机 ： “200Mp云台影像是基础，核心机构件、电机、模组全部是荣耀自研和独立定制，整套云台及翻转机构新增了近100个零部件。 其中定制了4个电机，内部动力采用了特殊多极充磁工艺，直径最小的仅6m…",
-      "tags": [
-        "HONOR",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
       "id": "weibo-d234588a3879",
       "title": "数码闲聊站：耀子的机器人手机最近很火，摸了一下核心信息，感觉是目前手机精密制造的巅峰： 2…",
       "source": "数码闲聊站",
@@ -443,7 +543,7 @@ window.phoneRadarAuto = {
     },
     {
       "id": "auto-50f57e2757ee",
-      "title": "Snapdragon 8 Gen 5 phones compared: Which one is right for you?￼",
+      "title": "Snapdragon 8 Gen 5 phones compared: Which one is right for you?",
       "source": "Gizmochina",
       "brand": "行业",
       "model": "智能手机市场",
@@ -742,8 +842,8 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-d3eab1f92db5",
-      "title": "其实我感觉iPhone的信号并不差[受虐滑稽]，同一个地方如果苹果刷不出东西，其他手机也是半斤八两，体验也不会很好[受虐滑稽]",
+      "id": "newsnow-6687cb140e73",
+      "title": "看了一圈，终于知道为什么iPhone高端机销量如此之高了，不是没有原因的。",
       "source": "酷安热榜",
       "brand": "iPhone",
       "model": "iPhone 相关机型",
@@ -752,9 +852,9 @@ window.phoneRadarAuto = {
       "date": "2026-07-20",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72850962",
+      "url": "https://www.coolapk.com/feed/72866165",
       "image": "",
-      "summary": "其实我感觉iPhone的信号并不差[受虐滑稽]，同一个地方如果苹果刷不出东西，其他手机也是半斤八两，体验也不会很好[受虐滑稽]",
+      "summary": "看了一圈，终于知道为什么iPhone高端机销量如此之高了，不是没有原因的。",
       "tags": [
         "iPhone",
         "爆料",
@@ -762,48 +862,8 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-d292b7a4d205",
-      "title": "今天，一张大概率是小米澎湃OS4的内部手机机桌面截图泄露到网络，现在单纯基于这张图分析一下新变化：",
-      "source": "酷安热榜",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-07-20",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72852407",
-      "image": "",
-      "summary": "今天，一张大概率是小米澎湃OS4的内部手机机桌面截图泄露到网络，现在单纯基于这张图分析一下新变化：",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-0525051f1bd0",
-      "title": "vivo X300E 开启预约：7月27日正式预售",
-      "source": "酷安热榜",
-      "brand": "vivo",
-      "model": "vivo 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-07-20",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72856635",
-      "image": "",
-      "summary": "vivo X300E 开启预约：7月27日正式预售",
-      "tags": [
-        "vivo",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-c17cb6439a79",
-      "title": "海信墨水屏手机 A10 配置公布：高通跃龙QCM6690",
+      "id": "newsnow-c62079609c4e",
+      "title": "说真的，这手机被骂完全就是活该，我觉得任何人都不应该为他开脱。我也理解厂商涨价，但是这不是你起售价1299还只给一个4G2超频版的理由[汗]哪怕是Note 17 Pro，我都觉得不算太差，至少它的核心配置，屏幕、电池、处理器这三方面，在同价位线下机里还算中上。",
       "source": "酷安热榜",
       "brand": "行业",
       "model": "智能手机市场",
@@ -812,11 +872,31 @@ window.phoneRadarAuto = {
       "date": "2026-07-20",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72850058",
+      "url": "https://www.coolapk.com/feed/72850567",
       "image": "",
-      "summary": "海信墨水屏手机 A10 配置公布：高通跃龙QCM6690",
+      "summary": "说真的，这手机被骂完全就是活该，我觉得任何人都不应该为他开脱。我也理解厂商涨价，但是这不是你起售价1299还只给一个4G2超频版的理由[汗]哪怕是Note 17 Pro，我都觉得不算太差，至少它的核心配置，屏幕、电池、处理器这三方面，在同价位线下机里还算中上。",
       "tags": [
         "行业",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-2c20d42becad",
+      "title": "vivo X300s迎来调价：全系涨价300元",
+      "source": "酷安热榜",
+      "brand": "vivo",
+      "model": "vivo 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-07-20",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/72866819",
+      "image": "",
+      "summary": "vivo X300s迎来调价：全系涨价300元",
+      "tags": [
+        "vivo",
         "爆料",
         "NewsNow"
       ]

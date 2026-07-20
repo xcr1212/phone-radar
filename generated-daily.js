@@ -1,12 +1,12 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-07-20T18:18:18.397Z",
+  "updatedAt": "2026-07-20T21:31:34.268Z",
   "issueDate": "2026-07-20",
   "issue": "VOL.260720",
   "title": "手机情报日报",
-  "intro": "今日筛出 16 条重点，其中 8 条是重点爆料，包含 5 条 iPhone 相关、1 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 14 条重点，其中 8 条是重点爆料，包含 6 条 iPhone 相关、1 条官方确认、0 条参数线索。",
   "stats": {
-    "total": 16,
-    "iphone": 5,
+    "total": 14,
+    "iphone": 6,
     "leaks": 8,
     "official": 1,
     "specs": 0
@@ -35,6 +35,30 @@ window.phoneRadarDaily = {
           "detail": "iPhone 18 Pro Max 系统功能 / AI 体验相关消息。这类消息通常来自供应链或分析师线索，重点关注是否意味着镜头、光圈、长焦或成本结构发生变化。",
           "keyPoints": [
             "影像硬件",
+            "爆料来源"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "auto-6797fefe2496",
+          "title": "iPhone 18 Pro 芯片 / 性能相关消息",
+          "originalTitle": "",
+          "source": "9to5Mac",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-07-20",
+          "time": "20:34",
+          "publishedAt": "2026-07-20T20:34:11.000Z",
+          "url": "https://9to5mac.com/2026/07/20/iphone-18-pros-new-a20-chip-rumored-to-bring-two-major-upgrades/",
+          "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/01/iphone-18-mockup-red.jpg?quality=82&strip=all&w=1600",
+          "verdict": "先看",
+          "takeaway": "iPhone 芯片或连接能力相关线索，可能影响性能和续航判断。",
+          "detail": "iPhone 18 Pro 芯片 / 性能相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
+          "keyPoints": [
+            "芯片 / 性能",
             "爆料来源"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
@@ -86,30 +110,6 @@ window.phoneRadarDaily = {
             "屏幕形态",
             "电池 / 充电",
             "芯片 / 性能",
-            "爆料来源"
-          ],
-          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "coolapk-user-6bc04b2983d3",
-          "title": "竹本青：消息称荣耀 Robot Phone 云台核心机构件全部自研",
-          "originalTitle": "",
-          "source": "竹本青",
-          "brand": "HONOR",
-          "type": "爆料",
-          "trust": "高可信爆料",
-          "date": "2026-07-20",
-          "time": "09:44",
-          "publishedAt": "2026-07-20T09:44:47.000Z",
-          "url": "https://www.coolapk.com/feed/72863252",
-          "image": "http://image.coolapk.com/feed/2026/0720/17/4248714_86f3e8cb_0685_9107_290@1440x879.jpg",
-          "verdict": "先看",
-          "takeaway": "【消息称荣耀 Robot Phone 云台核心机构件全部自研，1TB版本或将15999元】 7月20日，博主数码闲聊站 爆料荣耀 Robot Phone 机器人手机 ： “200Mp云台影像是基础，核心机构件、电机、模组全部是荣耀自研和独立定制，整套云台及翻转机构新增了近100个零部件。 其中定制了4个电机，内部动力采用了特殊多极充磁工艺，直径最小的仅6m…",
-          "detail": "【消息称荣耀 Robot Phone 云台核心机构件全部自研，1TB版本或将15999元】 7月20日，博主数码闲聊站 爆料荣耀 Robot Phone 机器人手机 ： “200Mp云台影像是基础，核心机构件、电机、模组全部是荣耀自研和独立定制，整套云台及翻转机构新增了近100个零部件。 其中定制了4个电机，内部动力采用了特殊多极充磁工艺，直径最小的仅6m…",
-          "keyPoints": [
-            "影像硬件",
             "爆料来源"
           ],
           "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
@@ -248,8 +248,8 @@ window.phoneRadarDaily = {
           "action": "中文源可以直接点开快读；看完只保留和购机有关的点。"
         },
         {
-          "id": "newsnow-d3eab1f92db5",
-          "title": "其实我感觉iPhone的信号并不差[受虐滑稽]，同一个地方如果苹果刷不出东西，其他手机也是半斤八两，体验也不会很好[受虐滑稽]",
+          "id": "newsnow-6687cb140e73",
+          "title": "看了一圈，终于知道为什么iPhone高端机销量如此之高了，不是没有原因的。",
           "originalTitle": "",
           "source": "酷安热榜",
           "brand": "iPhone",
@@ -258,11 +258,11 @@ window.phoneRadarDaily = {
           "date": "2026-07-20",
           "time": "",
           "publishedAt": "",
-          "url": "https://www.coolapk.com/feed/72850962",
+          "url": "https://www.coolapk.com/feed/72866165",
           "image": "",
           "verdict": "先看",
-          "takeaway": "其实我感觉iPhone的信号并不差[受虐滑稽]，同一个地方如果苹果刷不出东西，其他手机也是半斤八两，体验也不会很好[受虐滑稽]",
-          "detail": "其实我感觉iPhone的信号并不差[受虐滑稽]，同一个地方如果苹果刷不出东西，其他手机也是半斤八两，体验也不会很好[受虐滑稽]",
+          "takeaway": "看了一圈，终于知道为什么iPhone高端机销量如此之高了，不是没有原因的。",
+          "detail": "看了一圈，终于知道为什么iPhone高端机销量如此之高了，不是没有原因的。",
           "keyPoints": [
             "爆料"
           ],
@@ -324,29 +324,6 @@ window.phoneRadarDaily = {
       "hint": "看方向，不急着当购买依据。",
       "items": [
         {
-          "id": "newsnow-d292b7a4d205",
-          "title": "今天，一张大概率是小米澎湃OS4的内部手机机桌面截图泄露到网络，现在单纯基于这张图分析一下新变化：",
-          "originalTitle": "",
-          "source": "酷安热榜",
-          "brand": "Xiaomi",
-          "type": "爆料",
-          "trust": "高关注爆料源",
-          "date": "2026-07-20",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://www.coolapk.com/feed/72852407",
-          "image": "",
-          "verdict": "先看",
-          "takeaway": "今天，一张大概率是小米澎湃OS4的内部手机机桌面截图泄露到网络，现在单纯基于这张图分析一下新变化：",
-          "detail": "今天，一张大概率是小米澎湃OS4的内部手机机桌面截图泄露到网络，现在单纯基于这张图分析一下新变化：",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
-        {
           "id": "newsnow-74cb55adc690",
           "title": "狗东这手机出BUG了吗？？？3000就能买到",
           "originalTitle": "",
@@ -370,8 +347,8 @@ window.phoneRadarDaily = {
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         },
         {
-          "id": "newsnow-0525051f1bd0",
-          "title": "vivo X300E 开启预约：7月27日正式预售",
+          "id": "newsnow-2c20d42becad",
+          "title": "vivo X300s迎来调价：全系涨价300元",
           "originalTitle": "",
           "source": "酷安热榜",
           "brand": "vivo",
@@ -380,39 +357,16 @@ window.phoneRadarDaily = {
           "date": "2026-07-20",
           "time": "",
           "publishedAt": "",
-          "url": "https://www.coolapk.com/feed/72856635",
+          "url": "https://www.coolapk.com/feed/72866819",
           "image": "",
           "verdict": "扫一眼",
-          "takeaway": "vivo X300E 开启预约：7月27日正式预售",
-          "detail": "vivo X300E 开启预约：7月27日正式预售",
+          "takeaway": "vivo X300s迎来调价：全系涨价300元",
+          "detail": "vivo X300s迎来调价：全系涨价300元",
           "keyPoints": [
             "爆料"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
-        {
-          "id": "newsnow-c17cb6439a79",
-          "title": "海信墨水屏手机 A10 配置公布：高通跃龙QCM6690",
-          "originalTitle": "",
-          "source": "酷安热榜",
-          "brand": "行业",
-          "type": "爆料",
-          "trust": "高关注爆料源",
-          "date": "2026-07-20",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://www.coolapk.com/feed/72850058",
-          "image": "",
-          "verdict": "扫一眼",
-          "takeaway": "海信墨水屏手机 A10 配置公布：高通跃龙QCM6690",
-          "detail": "海信墨水屏手机 A10 配置公布：高通跃龙QCM6690",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "impact": "影响购买预算，值得先看。",
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         }
       ]
