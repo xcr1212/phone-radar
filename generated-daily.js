@@ -1,11 +1,11 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-07-20T11:12:13.655Z",
+  "updatedAt": "2026-07-20T14:32:24.584Z",
   "issueDate": "2026-07-20",
   "issue": "VOL.260720",
   "title": "手机情报日报",
-  "intro": "今日筛出 17 条重点，其中 8 条是重点爆料，包含 4 条 iPhone 相关、1 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 15 条重点，其中 8 条是重点爆料，包含 4 条 iPhone 相关、1 条官方确认、0 条参数线索。",
   "stats": {
-    "total": 17,
+    "total": 15,
     "iphone": 4,
     "leaks": 8,
     "official": 1,
@@ -293,36 +293,6 @@ window.phoneRadarDaily = {
       ]
     },
     {
-      "id": "launch",
-      "title": "新机与官方发布",
-      "hint": "能直接更新到参数库。",
-      "items": [
-        {
-          "id": "auto-e85b243cad5c",
-          "title": "vivo S2 手机曝光，预计下月初海外发布",
-          "originalTitle": "",
-          "source": "IT之家",
-          "brand": "vivo",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-07-20",
-          "time": "07:44",
-          "publishedAt": "2026-07-20T07:44:29.000Z",
-          "url": "https://www.ithome.com/0/979/059.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/7/cb90b790-5dbe-4f48-acbe-f1bf815fd68d.png?x-bce-process=image/format,f_auto",
-          "verdict": "先看",
-          "takeaway": "IT之家 7 月 20 日消息，据 X 平台消息人士 Yogesh Brar 前天透露， vivo S2 手机将于 8 月初在印度发布 ，并在 8 月 15 日前后开售。 据介绍， 这款手机的型号是 V2576 ，目前已经出现在蓝牙技术联盟（IT之家注：Bluetooth SIG）数据库中，并明确标注为 vivo S2。 不过，目前该机的详细参数还没有公布…",
-          "detail": "IT之家 7 月 20 日消息，据 X 平台消息人士 Yogesh Brar 前天透露， vivo S2 手机将于 8 月初在印度发布 ，并在 8 月 15 日前后开售。 据介绍， 这款手机的型号是 V2576 ，目前已经出现在蓝牙技术联盟（IT之家注：Bluetooth SIG）数据库中，并明确标注为 vivo S2。 不过，目前该机的详细参数还没有公布…",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "中文源可以直接点开快读；看完只保留和购机有关的点。"
-        }
-      ]
-    },
-    {
       "id": "market",
       "title": "行业趋势",
       "hint": "看方向，不急着当购买依据。",
@@ -416,29 +386,6 @@ window.phoneRadarDaily = {
             "爆料"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
-        {
-          "id": "coolapk-user-0b0bb707dfc0",
-          "title": "竹本青：华为Mate 80系列最新销量曝光：全系约775.97万台",
-          "originalTitle": "",
-          "source": "竹本青",
-          "brand": "Huawei",
-          "type": "爆料",
-          "trust": "高可信爆料",
-          "date": "2026-07-20",
-          "time": "06:07",
-          "publishedAt": "2026-07-20T06:07:24.000Z",
-          "url": "https://www.coolapk.com/feed/72860406",
-          "image": "http://image.coolapk.com/feed/2026/0720/14/4248714_abe1e950_7643_801_622@2160x1534.jpg",
-          "verdict": "扫一眼",
-          "takeaway": "【华为Mate 80系列 最新销量数据曝光：全系约775.97万台】 7月20日，博主「RD观测」分享第三方统计数据：截至2026年第28周，华为Mate 80系列 累计销量约为775.97万台。 前几周数据如下： 截至2026 W27 —— 约760.55万 截至2026 W26 —— 约743.84万 截至2026 W25 —— 约725.33万 截至…",
-          "detail": "【华为Mate 80系列 最新销量数据曝光：全系约775.97万台】 7月20日，博主「RD观测」分享第三方统计数据：截至2026年第28周，华为Mate 80系列 累计销量约为775.97万台。 前几周数据如下： 截至2026 W27 —— 约760.55万 截至2026 W26 —— 约743.84万 截至2026 W25 —— 约725.33万 截至…",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "可信度较高，但仍属于发布前线索。",
           "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         }

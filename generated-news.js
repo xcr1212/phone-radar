@@ -1,6 +1,106 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-07-20T11:12:13.655Z",
+  "updatedAt": "2026-07-20T14:32:24.584Z",
   "news": [
+    {
+      "id": "auto-a602d7c2780f",
+      "title": "Entire iPhone 17 lineup sees price hike in Japan",
+      "source": "Gizmochina",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-20",
+      "time": "13:35",
+      "publishedAt": "2026-07-20T13:35:39.000Z",
+      "url": "https://www.gizmochina.com/2026/07/20/entire-iphone-17-lineup-sees-price-hike-in-japan/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2025/10/iPhone-17-Pro-300x169.jpg?x92417",
+      "summary": "According to the updated pricing on Apple’s Japanese website, the base iPhone 17 (256GB) now starts at ¥142,800, up from ¥129,800, which is roughly a 10% increase. The higher-end…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-901f71f1b61a",
+      "title": "Redmi Note 17 India launch date and first sale date revealed",
+      "source": "Gizmochina",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-20",
+      "time": "13:05",
+      "publishedAt": "2026-07-20T13:05:01.000Z",
+      "url": "https://www.gizmochina.com/2026/07/20/redmi-note-17-india-launch-date-and-first-sale-date-revealed/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/07/Xiaomi-Redmi-Note-17-3-300x158.png?x92417",
+      "summary": "It’s been a week since Redmi made the Note 17 series official in China. We’re now waiting for its global launch, and fresh details may have revealed the timeline to us early. Tips…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-35b009efc371",
+      "title": "竹本青：【firefly萤火虫 halo寻光系列 首款车型「栖息地」正式发布，整车售价13.33万元起】 整车售价 ——…",
+      "source": "竹本青",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-07-20",
+      "time": "12:47",
+      "publishedAt": "2026-07-20T12:47:36.000Z",
+      "url": "https://www.coolapk.com/feed/72865614",
+      "image": "http://image.coolapk.com/feed/2026/0720/20/4248714_72e279b0_1655_8873_544@1080x1440.jpg",
+      "summary": "【firefly萤火虫 halo寻光系列 首款车型「栖息地」正式发布，整车售价13.33万元起】 整车售价 —— 13.33万元起 BaaS电池租用方案 —— 9.33万元起 「栖息地」外观+内饰 「轻萤绿」内外饰跳色 「轻莹绿」流光logo灯 「静谧绿」金属车漆 「松弛绿」座舱底色 「星轨流萤」双色合金轮圈 「浮光绿」金属漆饰件 #今日热点# #萤火虫F…",
+      "tags": [
+        "行业",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "coolapk-user-28ed1946aac6",
+      "title": "竹本青：【蓝狐手机旗下子品牌「读林」正式立项：主打墨水屏阅读器】 7月20日资讯，本月中旬，蓝狐手机旗下子品牌「读林」正式…",
+      "source": "竹本青",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-07-20",
+      "time": "12:36",
+      "publishedAt": "2026-07-20T12:36:51.000Z",
+      "url": "https://www.coolapk.com/feed/72865449",
+      "image": "http://image.coolapk.com/feed/2026/0720/20/4248714_bd2665dd_1010_9454_927@1279x1625.jpg",
+      "summary": "【蓝狐手机旗下子品牌「读林」正式立项：主打墨水屏阅读器】 7月20日资讯，本月中旬，蓝狐手机旗下子品牌「读林」正式立项。据介绍，品牌将主打便携墨水屏阅读器。 目前，首款新品确定配备4.7英寸、300PPI、16灰阶墨水屏幕，其他信息尚未公开。 #今日热点# #蓝狐手机# #蓝狐NX1#",
+      "tags": [
+        "行业",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-8533a8766644",
+      "title": "消息称荣耀 Robot Phone 形态有专利友商难跟进，行业预测 1TB 版价格在 15999 元左右",
+      "source": "IT之家",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-20",
+      "time": "12:23",
+      "publishedAt": "2026-07-20T12:23:37.000Z",
+      "url": "https://www.ithome.com/0/979/221.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/7/16e3f8a4-151f-44d4-9088-4923a4b50026.png?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 7 月 20 日消息，博主 @数码闲聊站 今日发文谈及了荣耀 Robot Phone 手机。他透露，该机 200Mp 云台影像是基础， 核心机构件、电机、模组全部是荣耀自研和独立定制 ，整套云台及翻转机构新增了近 100 个零部件。 其中定制了 4 个电机，内部动力采用了特殊多极充磁工艺，直径最小的仅 6mm。核心结构件为了可靠性全部使用了钛合金…",
+      "tags": [
+        "HONOR",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-c0a5789a5eef",
       "title": "This bizarre Pixel 8 Pro clone from North Korea beats Google’s flagship in surprising ways",
@@ -218,26 +318,6 @@ window.phoneRadarAuto = {
       "tags": [
         "Pixel",
         "评测",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-e85b243cad5c",
-      "title": "vivo S2 手机曝光，预计下月初海外发布",
-      "source": "IT之家",
-      "brand": "vivo",
-      "model": "vivo 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-20",
-      "time": "07:44",
-      "publishedAt": "2026-07-20T07:44:29.000Z",
-      "url": "https://www.ithome.com/0/979/059.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/7/cb90b790-5dbe-4f48-acbe-f1bf815fd68d.png?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 7 月 20 日消息，据 X 平台消息人士 Yogesh Brar 前天透露， vivo S2 手机将于 8 月初在印度发布 ，并在 8 月 15 日前后开售。 据介绍， 这款手机的型号是 V2576 ，目前已经出现在蓝牙技术联盟（IT之家注：Bluetooth SIG）数据库中，并明确标注为 vivo S2。 不过，目前该机的详细参数还没有公布…",
-      "tags": [
-        "vivo",
-        "爆料",
         "自动抓取"
       ]
     },
@@ -702,26 +782,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-8a5ecbcfd32d",
-      "title": "朱之文回应为阻止老婆直播摔手机",
-      "source": "今日头条热榜",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-20",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.toutiao.com/trending/7664475780517199898/",
-      "image": "",
-      "summary": "朱之文回应为阻止老婆直播摔手机",
-      "tags": [
-        "行业",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
       "id": "auto-59fe23616066",
       "title": "Google Pixel 11a specs leaked: Tensor G6, MediaTek M90 modem, 8GB RAM",
       "source": "Gizmochina",
@@ -797,46 +857,6 @@ window.phoneRadarAuto = {
       "summary": "OnePlus is dead – actually for real this time. It’s got me looking back on my experiences with the brand’s smartphones, the absolute roller coaster that it was, and how OnePlus br…",
       "tags": [
         "OPPO",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-4d010259555c",
-      "title": "I wanted to love the Galaxy Z Fold 8, but Samsung already ruined it for me",
-      "source": "Android Police",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-19",
-      "time": "12:15",
-      "publishedAt": "2026-07-19T12:15:15.000Z",
-      "url": "https://www.androidpolice.com/wanted-love-galaxy-z-fold-8-samsung-ruined-it/",
-      "image": "",
-      "summary": "Samsung has run out of ideas",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-817bc1316a19",
-      "title": "The Motorola Razr 2025 is the only phone that comes close to replacing my Pixel 11",
-      "source": "Android Police",
-      "brand": "Pixel",
-      "model": "Pixel 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-19",
-      "time": "11:00",
-      "publishedAt": "2026-07-19T11:00:16.000Z",
-      "url": "https://www.androidpolice.com/the-motorola-razr-2025-is-the-only-phone-that-comes-close-to-replacing-my-pixel/",
-      "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2026/07/motorola-razr-2025-folded-on-a-concrete-ledge-against-a-blue-background.png",
-      "summary": "It's the only other phone I would buy in 2026",
-      "tags": [
-        "Pixel",
         "爆料",
         "自动抓取"
       ]
