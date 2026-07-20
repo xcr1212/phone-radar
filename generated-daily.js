@@ -1,12 +1,12 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-07-20T14:32:24.584Z",
+  "updatedAt": "2026-07-20T18:18:18.397Z",
   "issueDate": "2026-07-20",
   "issue": "VOL.260720",
   "title": "手机情报日报",
-  "intro": "今日筛出 15 条重点，其中 8 条是重点爆料，包含 4 条 iPhone 相关、1 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 16 条重点，其中 8 条是重点爆料，包含 5 条 iPhone 相关、1 条官方确认、0 条参数线索。",
   "stats": {
-    "total": 15,
-    "iphone": 4,
+    "total": 16,
+    "iphone": 5,
     "leaks": 8,
     "official": 1,
     "specs": 0
@@ -36,29 +36,6 @@ window.phoneRadarDaily = {
           "keyPoints": [
             "影像硬件",
             "爆料来源"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "auto-bc060dc2b2a1",
-          "title": "Counterpoint：2026 年第二季度中国智能手机出货量同比下降 2%，华为、苹果逆势增长",
-          "originalTitle": "",
-          "source": "IT之家",
-          "brand": "Huawei",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-07-20",
-          "time": "09:01",
-          "publishedAt": "2026-07-20T09:01:53.000Z",
-          "url": "https://www.ithome.com/0/979/095.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/7/60ecd949-a1af-490d-ab2b-6d04d17a7a83.png?x-bce-process=image/format,f_auto",
-          "verdict": "先看",
-          "takeaway": "IT之家 7 月 20 日消息，根据 Counterpoint Research 的初步数据，2026 年第二季度中国智能手机出货量同比下降 2%。由于存储价格持续上涨，智能手机 OEM 厂商纷纷采取更为保守的生产计划，内存成本的大幅上涨促使智能手机厂商采取更为保守的生产策略，将重心从追求出货量转向提升盈利能力。为了保障利润率，许多厂商选择减少了低端机型的…",
-          "detail": "IT之家 7 月 20 日消息，根据 Counterpoint Research 的初步数据，2026 年第二季度中国智能手机出货量同比下降 2%。由于存储价格持续上涨，智能手机 OEM 厂商纷纷采取更为保守的生产计划，内存成本的大幅上涨促使智能手机厂商采取更为保守的生产策略，将重心从追求出货量转向提升盈利能力。为了保障利润率，许多厂商选择减少了低端机型的…",
-          "keyPoints": [
-            "成本 / 价格"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
@@ -213,6 +190,32 @@ window.phoneRadarDaily = {
           "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "weibo-d8bab229da08",
+          "title": "数码闲聊站：咳咳，之前说过产品线进行了调整，PM屏幕大概率用6.78\"±1.5K LIPO…",
+          "originalTitle": "",
+          "source": "数码闲聊站",
+          "brand": "行业",
+          "type": "爆料",
+          "trust": "高关注爆料源",
+          "date": "2026-07-20",
+          "time": "02:35",
+          "publishedAt": "2026-07-20T02:35:00.000Z",
+          "url": "https://weibo.com/6048569942/R9wCLecjR",
+          "image": "",
+          "verdict": "先看",
+          "takeaway": "咳咳，之前说过产品线进行了调整，PM屏幕大概率用6.78\"±1.5K LIPO极窄四等边直屏，2nm天玑9600 Pro，200Mp HPC高动态超大底影像等[偷乐] 6.59\"1.5K+3nm天玑9600 Lite 6.78\"1.5K+2nm天玑9600 Pro ↑这两个杯型大概率是一起上 6.59\"1.5K+3nm天玑9系芯片 ↑这个小杯不确定会不会上",
+          "detail": "咳咳，之前说过产品线进行了调整，PM屏幕大概率用6.78\"±1.5K LIPO极窄四等边直屏，2nm天玑9600 Pro，200Mp HPC高动态超大底影像等[偷乐] 6.59\"1.5K+3nm天玑9600 Lite 6.78\"1.5K+2nm天玑9600 Pro ↑这两个杯型大概率是一起上 6.59\"1.5K+3nm天玑9系芯片 ↑这个小杯不确定会不会上",
+          "keyPoints": [
+            "影像硬件",
+            "屏幕形态",
+            "芯片 / 性能",
+            "爆料来源"
+          ],
+          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         }
       ]
     },
@@ -289,6 +292,29 @@ window.phoneRadarDaily = {
           "confidence": "官方内容，可直接作为已确认信息记录。",
           "impact": "可信度高，但如果不是配置/价格消息，只需要扫一眼。",
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        },
+        {
+          "id": "auto-a602d7c2780f",
+          "title": "iPhone 17 价格 / 成本相关消息",
+          "originalTitle": "",
+          "source": "Gizmochina",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-07-20",
+          "time": "13:35",
+          "publishedAt": "2026-07-20T13:35:39.000Z",
+          "url": "https://www.gizmochina.com/2026/07/20/entire-iphone-17-lineup-sees-price-hike-in-japan/",
+          "image": "https://www.gizmochina.com/wp-content/uploads/2025/10/iPhone-17-Pro-300x169.jpg?x92417",
+          "verdict": "扫一眼",
+          "takeaway": "iPhone 17 价格 / 成本相关消息。如果涉及订阅、售价或硬件成本，才需要进一步看细节。",
+          "detail": "iPhone 17 价格 / 成本相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
+          "keyPoints": [
+            "成本 / 价格"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "影响购买预算，值得先看。",
+          "action": "有具体参数就记录到参数库；没有参数就先收藏。"
         }
       ]
     },

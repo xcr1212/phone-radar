@@ -1,6 +1,86 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-07-20T14:32:24.584Z",
+  "updatedAt": "2026-07-20T18:18:18.397Z",
   "news": [
+    {
+      "id": "auto-714b58664dc6",
+      "title": "Samsung doesn’t have to survive the crisis that wiped out OnePlus",
+      "source": "SamMobile",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-20",
+      "time": "17:58",
+      "publishedAt": "2026-07-20T17:58:04.000Z",
+      "url": "https://www.sammobile.com/opinion/samsung-doesnt-have-to-survive-crisis-that-wiped-out-oneplus/",
+      "image": "",
+      "summary": "The global smartphone market is in a spot of bother. Shipments are trending down overall, with a significant yearly decline being projected, largely due to cost pressures imposed…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-9c7fe8933fce",
+      "title": "Galaxy S26 Ultra suffers an unusual 'red screen' issue: Samsung says it can fix it",
+      "source": "Android Central",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-07-20",
+      "time": "17:32",
+      "publishedAt": "2026-07-20T17:32:41.000Z",
+      "url": "https://www.androidcentral.com/phones/samsung-galaxy/galaxy-s26-ultra-suffers-an-unusual-red-screen-issue-samsung-says-it-can-fix-it",
+      "image": "https://cdn.mos.cms.futurecdn.net/vsPdwPbgxWX8uiBxVy6VpW-1280-80.jpg",
+      "summary": "Galaxy S26 Ultra users started reporting a \"redness\" on their displays, and Samsung's investigation might've led to a solution.",
+      "tags": [
+        "Samsung",
+        "评测",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-fb58f27cfcbf",
+      "title": "Google Fi’s Pixel 11 Pro XL deal briefly teases us with an official early look",
+      "source": "Android Authority",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-20",
+      "time": "17:23",
+      "publishedAt": "2026-07-20T17:23:58.000Z",
+      "url": "https://www.androidauthority.com/google-fi-pixel-11-pro-xl-leak-3689288/",
+      "image": "",
+      "summary": "The Google Fi store briefly listed an image of the Pixel 11 Pro XL as part of a promotion.",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-a690b4332001",
+      "title": "Verizon is clearing Google Pixel 10 stock by giving away the phones for free — here's how to claim yours",
+      "source": "Android Central",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-07-20",
+      "time": "16:59",
+      "publishedAt": "2026-07-20T16:59:02.000Z",
+      "url": "https://www.androidcentral.com/phones/google-pixel/verizon-is-clearing-google-pixel-10-stock-by-giving-away-the-phones-for-free-heres-how-to-claim-yours",
+      "image": "https://cdn.mos.cms.futurecdn.net/McxfKzMCtgMJP7NUHTYugT-1280-80.jpg",
+      "summary": "Add a line with any of Verizon's mainline Unlimited plans and you'll get enough promo credits to make the Google Pixel 10 Pro completely free.",
+      "tags": [
+        "Pixel",
+        "评测",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-a602d7c2780f",
       "title": "Entire iPhone 17 lineup sees price hike in Japan",
@@ -202,26 +282,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-bc060dc2b2a1",
-      "title": "Counterpoint：2026 年第二季度中国智能手机出货量同比下降 2%，华为、苹果逆势增长",
-      "source": "IT之家",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-20",
-      "time": "09:01",
-      "publishedAt": "2026-07-20T09:01:53.000Z",
-      "url": "https://www.ithome.com/0/979/095.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/7/60ecd949-a1af-490d-ab2b-6d04d17a7a83.png?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 7 月 20 日消息，根据 Counterpoint Research 的初步数据，2026 年第二季度中国智能手机出货量同比下降 2%。由于存储价格持续上涨，智能手机 OEM 厂商纷纷采取更为保守的生产计划，内存成本的大幅上涨促使智能手机厂商采取更为保守的生产策略，将重心从追求出货量转向提升盈利能力。为了保障利润率，许多厂商选择减少了低端机型的…",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-133ee9c96c39",
       "title": "OnePlus leaving the US is a terrifying sign for the future of Android",
       "source": "Android Authority",
@@ -379,26 +439,6 @@ window.phoneRadarAuto = {
         "OPPO",
         "爆料",
         "微博"
-      ]
-    },
-    {
-      "id": "coolapk-user-0b0bb707dfc0",
-      "title": "竹本青：华为Mate 80系列最新销量曝光：全系约775.97万台",
-      "source": "竹本青",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-07-20",
-      "time": "06:07",
-      "publishedAt": "2026-07-20T06:07:24.000Z",
-      "url": "https://www.coolapk.com/feed/72860406",
-      "image": "http://image.coolapk.com/feed/2026/0720/14/4248714_abe1e950_7643_801_622@2160x1534.jpg",
-      "summary": "【华为Mate 80系列 最新销量数据曝光：全系约775.97万台】 7月20日，博主「RD观测」分享第三方统计数据：截至2026年第28周，华为Mate 80系列 累计销量约为775.97万台。 前几周数据如下： 截至2026 W27 —— 约760.55万 截至2026 W26 —— 约743.84万 截至2026 W25 —— 约725.33万 截至…",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "酷安博主"
       ]
     },
     {
