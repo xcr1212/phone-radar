@@ -1,6 +1,106 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-07-21T14:20:30.633Z",
+  "updatedAt": "2026-07-21T17:44:30.907Z",
   "news": [
+    {
+      "id": "auto-6a2b4ff2b314",
+      "title": "Apple Reportedly Planning to Wind Down 'iPhone Upgrade Program'",
+      "source": "MacRumors",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-21",
+      "time": "16:26",
+      "publishedAt": "2026-07-21T16:26:03.000Z",
+      "url": "https://www.macrumors.com/2026/07/21/apple-may-wind-down-iphone-upgrade-program/",
+      "image": "https://images.macrumors.com/article-new/2024/11/2024-iPhone-Boxes.jpg",
+      "summary": "After launching a new \"Apple Upgrade\" program next week , Apple plans to stop accepting new iPhone Upgrade Program sign-ups, according to Bloomberg 's Mark Gurman . It remains to…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-29c502c705f8",
+      "title": "Apple winding down iPhone Upgrade Program: report",
+      "source": "9to5Mac",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-21",
+      "time": "15:55",
+      "publishedAt": "2026-07-21T15:55:08.000Z",
+      "url": "https://9to5mac.com/2026/07/21/apple-winding-down-iphone-upgrade-program-report/",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/iphone-upgrade-program.jpg?quality=82&strip=all&w=1600",
+      "summary": "Apple will reportedly launch a new “Apple Upgrade” leasing program next week. As part of that, the company is reportedly planning to wind down its existing iPhone Upgrade Program.",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-22c3e8b5d32d",
+      "title": "Samsung is now just straight-up showing us the Galaxy Z Fold 8",
+      "source": "Android Authority",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-21",
+      "time": "15:36",
+      "publishedAt": "2026-07-21T15:36:40.000Z",
+      "url": "https://www.androidauthority.com/samsung-galaxy-z-fold-8-teaser-image-3689726/",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2026/03/Z-Fold-7-vs-Fold-4-8-Fixed-scaled.jpeg",
+      "summary": "Official teasers are catching up to the leaks.",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-6c40b29c603f",
+      "title": "全球首款机器人手机：荣耀 Robot Phone 拍照页面曝光，将支持大师电影模式",
+      "source": "IT之家",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-21",
+      "time": "15:33",
+      "publishedAt": "2026-07-21T15:33:36.000Z",
+      "url": "https://www.ithome.com/0/979/801.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/7/1ffb2429-2518-4a00-85c4-1b9ed6dea097.jpg",
+      "summary": "IT之家 7 月 21 日消息， 荣耀 Robot Phone 已正式开启预约 ，该机搭载第五代骁龙 8 至尊版芯片，其核心创新在于机身顶部集成了一套行业最小的四自由度（4DoF）钛合金机械云台系统。云台系统配备微型电机，体积比主流方案缩小 70%。 IT之家注意到，荣耀全球首席营销官关海涛今日晒出了自己的荣耀 Robot Phone 真机，并分享了新机的…",
+      "tags": [
+        "HONOR",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-eb1ebb4b892d",
+      "title": "iPhone 18 Rumor Reality Check: 20 Claims Ranked by Likelihood",
+      "source": "MacRumors",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-21",
+      "time": "14:32",
+      "publishedAt": "2026-07-21T14:32:19.000Z",
+      "url": "https://www.macrumors.com/2026/07/21/ranked-best-features-rumored-iphone-18/",
+      "image": "https://images.macrumors.com/article-new/2026/07/iPhone-18-Rumor-Check-20-Claims-Ranked-by-Likelihood-Feature.jpg",
+      "summary": "Apple's iPhone 18 Pro models and its first foldable iPhone are less than two months away from being unveiled, with the standard iPhone 18, iPhone 18e, and iPhone Air 2 expected to…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-f70aa100724e",
       "title": "iPhone 18 Pro: New display upgrades are coming in two ways",
@@ -199,26 +299,6 @@ window.phoneRadarAuto = {
         "Xiaomi",
         "爆料",
         "微博"
-      ]
-    },
-    {
-      "id": "auto-2ff1b9f31ab3",
-      "title": "Counterpoint：预计 2026 年全球折叠屏手机市场同比增长 21%，苹果入局有望拿下 25% 份额",
-      "source": "IT之家",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-21",
-      "time": "09:14",
-      "publishedAt": "2026-07-21T09:14:35.000Z",
-      "url": "https://www.ithome.com/0/979/674.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/7/990cc072-b32f-4199-bd79-7bf35afacf2b.png?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 7 月 21 日消息，根据 Counterpoint Research 今日最新发布的折叠屏智能手机市场预测报告，2026 年全球折叠屏智能手机出货量预计将实现 21% 的同比增长 。 这一市场扩张将在 2025 年的基础上持续推进，主要由高端横向折叠设备的稳定市场需求、头部手机厂商间的产品竞争加剧，以及苹果预计正式入局该品类等多重因素共同推动。…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
       ]
     },
     {
@@ -697,6 +777,26 @@ window.phoneRadarAuto = {
       "summary": "消息称小米手机2026全年出货目标上调至1.1亿部",
       "tags": [
         "Xiaomi",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-b094c0c4d362",
+      "title": "se3当主力机，其他手机全部都卖了",
+      "source": "酷安热榜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-07-21",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/72861825",
+      "image": "",
+      "summary": "se3当主力机，其他手机全部都卖了",
+      "tags": [
+        "行业",
         "爆料",
         "NewsNow"
       ]
