@@ -1,12 +1,12 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-07-21T03:43:44.808Z",
+  "updatedAt": "2026-07-21T06:40:37.263Z",
   "issueDate": "2026-07-21",
   "issue": "VOL.260721",
   "title": "手机情报日报",
-  "intro": "今日筛出 8 条重点，其中 8 条是重点爆料，包含 3 条 iPhone 相关、0 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 10 条重点，其中 8 条是重点爆料，包含 4 条 iPhone 相关、0 条官方确认、0 条参数线索。",
   "stats": {
-    "total": 8,
-    "iphone": 3,
+    "total": 10,
+    "iphone": 4,
     "leaks": 8,
     "official": 0,
     "specs": 0
@@ -165,6 +165,29 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
+          "id": "newsnow-61c01f2d6e2b",
+          "title": "消息称小米手机2026全年出货目标上调至1.1亿部",
+          "originalTitle": "",
+          "source": "酷安热榜",
+          "brand": "Xiaomi",
+          "type": "爆料",
+          "trust": "高关注爆料源",
+          "date": "2026-07-21",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://www.coolapk.com/feed/72871960",
+          "image": "",
+          "verdict": "先看",
+          "takeaway": "消息称小米手机2026全年出货目标上调至1.1亿部",
+          "detail": "消息称小米手机2026全年出货目标上调至1.1亿部",
+          "keyPoints": [
+            "爆料来源"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
           "id": "weibo-d234588a3879",
           "title": "数码闲聊站：耀子的机器人手机最近很火，摸了一下核心信息，感觉是目前手机精密制造的巅峰： 2…",
           "originalTitle": "",
@@ -188,32 +211,66 @@ window.phoneRadarDaily = {
           "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
+        }
+      ]
+    },
+    {
+      "id": "iphone",
+      "title": "iPhone 重点",
+      "hint": "不是硬件爆料，但和 iPhone 体验或路线有关。",
+      "items": [
         {
-          "id": "weibo-3b3a2c6e241d",
-          "title": "数码闲聊站：OPPO A7 Pro Max，绿系首个万级大电池： 6.78\"1.5K 12…",
+          "id": "auto-13688f7933ea",
+          "title": "2026 年再看 iPhone 8 Plus，它还够用吗？",
           "originalTitle": "",
-          "source": "数码闲聊站",
-          "brand": "OPPO",
-          "type": "爆料",
-          "trust": "高关注爆料源",
+          "source": "少数派",
+          "brand": "iPhone",
+          "type": "评测",
+          "trust": "媒体汇总",
           "date": "2026-07-20",
-          "time": "06:13",
-          "publishedAt": "2026-07-20T06:13:42.000Z",
-          "url": "https://weibo.com/6048569942/R9y3x9Ss5",
+          "time": "03:00",
+          "publishedAt": "2026-07-20T03:00:00.000Z",
+          "url": "https://sspai.com/post/112425",
           "image": "",
           "verdict": "先看",
-          "takeaway": "OPPO A7 Pro Max，绿系首个万级大电池： 6.78\"1.5K 120Hz OLED直屏，骁龙4 Gen5处理器，10000mAh单电芯大电池，80W快充，前置50Mp，后置50Mp+2Mp，8.47mm/226g……[doge]",
-          "detail": "OPPO A7 Pro Max，绿系首个万级大电池： 6.78\"1.5K 120Hz OLED直屏，骁龙4 Gen5处理器，10000mAh单电芯大电池，80W快充，前置50Mp，后置50Mp+2Mp，8.47mm/226g……[doge]",
+          "takeaway": "高考结束后，又有一大批同学开始考虑换新手机啦。在预算差不多的情况下，很多人会纠结是买一台较新的中端机，还是买一台年份更老、但曾经是旗舰级的机型。于是我把 2020 年购入的 iPhone 8 Plus 拿出来当了一星期主力机，看看这台 2017 年发布的手机，放到今天还能不能胜任日常使用。",
+          "detail": "高考结束后，又有一大批同学开始考虑换新手机啦。在预算差不多的情况下，很多人会纠结是买一台较新的中端机，还是买一台年份更老、但曾经是旗舰级的机型。于是我把 2020 年购入的 iPhone 8 Plus 拿出来当了一星期主力机，看看这台 2017 年发布的手机，放到今天还能不能胜任日常使用。",
           "keyPoints": [
-            "屏幕形态",
-            "电池 / 充电",
-            "芯片 / 性能",
-            "爆料来源"
+            "评测"
           ],
-          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是实际体验内容，买前适合重点看缺点和取舍。",
+          "action": "中文源可以直接点开快读；看完只保留和购机有关的点。"
+        }
+      ]
+    },
+    {
+      "id": "launch",
+      "title": "新机与官方发布",
+      "hint": "能直接更新到参数库。",
+      "items": [
+        {
+          "id": "auto-146f88098b57",
+          "title": "谷歌推送安卓 17 首个 QPR2 Beta 更新：Pixel 6/Pro 手机 5 年支持到期不再适配",
+          "originalTitle": "",
+          "source": "IT之家",
+          "brand": "Pixel",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-07-21",
+          "time": "03:23",
+          "publishedAt": "2026-07-21T03:23:06.000Z",
+          "url": "https://www.ithome.com/0/979/422.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/7/73b8a190-3716-4f45-9603-73f0c1e1caca.png?x-bce-process=image/format,f_auto",
+          "verdict": "先看",
+          "takeaway": "IT之家 7 月 21 日消息，谷歌安卓社区互动负责人米沙尔 · 拉赫曼（Mishaal Rahman）今天（7 月 21 日）在 X 平台发布推文， 宣布谷歌已推送安卓 17 QPR2 Beta 1。 在版本方面，IT之家援引博文介绍，安卓 17 QPR2 Beta 1 对应规划 2026 年第 4 季度推出的安卓 QPR2 季度版本。 在适配机型方面，…",
+          "detail": "IT之家 7 月 21 日消息，谷歌安卓社区互动负责人米沙尔 · 拉赫曼（Mishaal Rahman）今天（7 月 21 日）在 X 平台发布推文， 宣布谷歌已推送安卓 17 QPR2 Beta 1。 在版本方面，IT之家援引博文介绍，安卓 17 QPR2 Beta 1 对应规划 2026 年第 4 季度推出的安卓 QPR2 季度版本。 在适配机型方面，…",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "中文源可以直接点开快读；看完只保留和购机有关的点。"
         }
       ]
     }

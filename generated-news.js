@@ -1,6 +1,26 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-07-21T03:43:44.808Z",
+  "updatedAt": "2026-07-21T06:40:37.263Z",
   "news": [
+    {
+      "id": "auto-778b779b2ec3",
+      "title": "OnePlus devices to receive ColorOS 17 update: Complete list",
+      "source": "Gizmochina",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-21",
+      "time": "06:16",
+      "publishedAt": "2026-07-21T06:16:33.000Z",
+      "url": "https://www.gizmochina.com/2026/07/21/oneplus-devices-to-receive-coloros-17-update-list/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/07/OnePlus-phones-eligible-for-ColorOS-17-update-300x200.png?x92417",
+      "summary": "OnePlus has officially shut down its operations in most parts of the world, but software updates will continue to be rolled out to eligible devices — with a completely new flavor.…",
+      "tags": [
+        "OPPO",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-ad52fed948c3",
       "title": "iQOO 16T in works with 2K Samsung display, Snapdragon 8 Elite Gen 6 ￼",
@@ -73,7 +93,7 @@ window.phoneRadarAuto = {
       "time": "03:03",
       "publishedAt": "2026-07-21T03:03:06.000Z",
       "url": "https://www.ithome.com/0/979/408.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/7/95adb704-4f76-4d7b-803b-55bcd2007eac.png?x-bce-process=image/format,f_auto",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/7/95adb704-4f76-4d7b-803b-55bcd2007eac.png",
       "summary": "IT之家 7 月 21 日消息，国务院新闻办公室于 2026 年 7 月 21 日（星期二）上午 10 时举行“开局起步‘十五五’”系列主题新闻发布会，请交通运输部副部长徐成光，交通运输部安全总监兼运输服务司司长蔡团结，国家铁路局新闻发言人、副局长王启铭，中国民航局副局长韩钧，国家邮政局副局长陈凯介绍加快建设交通强国、完善现代化综合交通运输体系有关情况，并…",
       "tags": [
         "行业",
@@ -159,26 +179,6 @@ window.phoneRadarAuto = {
         "Samsung",
         "爆料",
         "自动抓取"
-      ]
-    },
-    {
-      "id": "coolapk-user-58bea6ead74b",
-      "title": "竹本青：消息称小米手机2026全年出货目标上调至1.1亿部",
-      "source": "竹本青",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-07-21",
-      "time": "02:12",
-      "publishedAt": "2026-07-21T02:12:38.000Z",
-      "url": "https://www.coolapk.com/feed/72871960",
-      "image": "http://image.coolapk.com/feed/2026/0721/10/4248714_ae5d8a9c_9956_9613_984@2277x1280.jpg",
-      "summary": "【消息称小米手机2026全年出货目标上调至1.1亿部，增幅约16%】 7月21日，据界面新闻报道，小米已将2026年全年智能手机出货目标从约9000万部上调至1.1亿部，增幅约16%，上调的增量部分主要来自低端机型。 一位接近小米的人士告诉界面新闻，此次上调出货目标是小米内部认为当前的存储行情有望迎来反转。受上游存储芯片的短期与成本持续上涨，小米在今年曾两…",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "酷安博主"
       ]
     },
     {
@@ -462,8 +462,8 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-7426b3a8e2f2",
-      "title": "【感谢大家的推荐(^🙏^)】没想到会有这么多加人回复我，真的很开心，以后可以多在这边跟大家一起交流用手机的日常，还有很多不懂的地方，希望大家多多指教[可爱]",
+      "id": "newsnow-eff3589af271",
+      "title": "可能是网上吹的人太多让我对这手机期望过高，实际用起来感觉就是三四千价位的正常水平，并没有啥越级。",
       "source": "酷安热榜",
       "brand": "行业",
       "model": "智能手机市场",
@@ -472,9 +472,9 @@ window.phoneRadarAuto = {
       "date": "2026-07-21",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72861480",
+      "url": "https://www.coolapk.com/feed/72864529",
       "image": "",
-      "summary": "【感谢大家的推荐(^🙏^)】没想到会有这么多加人回复我，真的很开心，以后可以多在这边跟大家一起交流用手机的日常，还有很多不懂的地方，希望大家多多指教[可爱]",
+      "summary": "可能是网上吹的人太多让我对这手机期望过高，实际用起来感觉就是三四千价位的正常水平，并没有啥越级。",
       "tags": [
         "行业",
         "爆料",
@@ -482,21 +482,21 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-c34f92ffac50",
-      "title": "其实我感觉iPhone的信号并不差[受虐滑稽]，同一个地方如果苹果刷不出东西，其他手机也是半斤八两，体验也不会很好[受虐滑稽]",
+      "id": "newsnow-61c01f2d6e2b",
+      "title": "消息称小米手机2026全年出货目标上调至1.1亿部",
       "source": "酷安热榜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-07-21",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72850962",
+      "url": "https://www.coolapk.com/feed/72871960",
       "image": "",
-      "summary": "其实我感觉iPhone的信号并不差[受虐滑稽]，同一个地方如果苹果刷不出东西，其他手机也是半斤八两，体验也不会很好[受虐滑稽]",
+      "summary": "消息称小米手机2026全年出货目标上调至1.1亿部",
       "tags": [
-        "iPhone",
+        "Xiaomi",
         "爆料",
         "NewsNow"
       ]
@@ -522,19 +522,39 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-eff3589af271",
-      "title": "可能是网上吹的人太多让我对这手机期望过高，实际用起来感觉就是三四千价位的正常水平，并没有啥越级。",
-      "source": "酷安热榜",
+      "id": "newsnow-d2933ed3996c",
+      "title": "手把手教你关掉藏在手机里的耳朵",
+      "source": "微博热搜",
       "brand": "行业",
       "model": "智能手机市场",
       "type": "爆料",
-      "trust": "高关注爆料源",
+      "trust": "待验证",
       "date": "2026-07-21",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72864529",
+      "url": "https://s.weibo.com/weibo?q=%23%E6%89%8B%E6%8A%8A%E6%89%8B%E6%95%99%E4%BD%A0%E5%85%B3%E6%8E%89%E8%97%8F%E5%9C%A8%E6%89%8B%E6%9C%BA%E9%87%8C%E7%9A%84%E8%80%B3%E6%9C%B5%23&t=31&band_rank=18&Refer=top",
       "image": "",
-      "summary": "可能是网上吹的人太多让我对这手机期望过高，实际用起来感觉就是三四千价位的正常水平，并没有啥越级。",
+      "summary": "手把手教你关掉藏在手机里的耳朵",
+      "tags": [
+        "行业",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-b6409fe7099b",
+      "title": "预防手机被监听？关掉这里就行",
+      "source": "百度热搜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-21",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.baidu.com/s?wd=%E9%A2%84%E9%98%B2%E6%89%8B%E6%9C%BA%E8%A2%AB%E7%9B%91%E5%90%AC%EF%BC%9F%E5%85%B3%E6%8E%89%E8%BF%99%E9%87%8C%E5%B0%B1%E8%A1%8C",
+      "image": "",
+      "summary": "预防手机被监听？关掉这里就行",
       "tags": [
         "行业",
         "爆料",
@@ -795,26 +815,6 @@ window.phoneRadarAuto = {
       "url": "https://www.coolapk.com/feed/72865614",
       "image": "http://image.coolapk.com/feed/2026/0720/20/4248714_72e279b0_1655_8873_544@1080x1440.jpg",
       "summary": "【firefly萤火虫 halo寻光系列 首款车型「栖息地」正式发布，整车售价13.33万元起】 整车售价 —— 13.33万元起 BaaS电池租用方案 —— 9.33万元起 「栖息地」外观+内饰 「轻萤绿」内外饰跳色 「轻莹绿」流光logo灯 「静谧绿」金属车漆 「松弛绿」座舱底色 「星轨流萤」双色合金轮圈 「浮光绿」金属漆饰件 #今日热点# #萤火虫F…",
-      "tags": [
-        "行业",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
-      "id": "coolapk-user-28ed1946aac6",
-      "title": "竹本青：蓝狐手机子品牌「读林」立项：主打墨水屏阅读器",
-      "source": "竹本青",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-07-20",
-      "time": "12:36",
-      "publishedAt": "2026-07-20T12:36:51.000Z",
-      "url": "https://www.coolapk.com/feed/72865449",
-      "image": "http://image.coolapk.com/feed/2026/0720/20/4248714_bd2665dd_1010_9454_927@1279x1625.jpg",
-      "summary": "【蓝狐手机旗下子品牌「读林」正式立项：主打墨水屏阅读器】 7月20日资讯，本月中旬，蓝狐手机旗下子品牌「读林」正式立项。据介绍，品牌将主打便携墨水屏阅读器。 目前，首款新品确定配备4.7英寸、300PPI、16灰阶墨水屏幕，其他信息尚未公开。 #今日热点# #蓝狐手机# #蓝狐NX1#",
       "tags": [
         "行业",
         "爆料",
@@ -1138,26 +1138,6 @@ window.phoneRadarAuto = {
       "tags": [
         "iPhone",
         "评测",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-4357f270b3be",
-      "title": "First Huawei Mate 90 series teaser to debut by early September",
-      "source": "Huawei Central",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-20",
-      "time": "02:45",
-      "publishedAt": "2026-07-20T02:45:14.000Z",
-      "url": "https://www.huaweicentral.com/first-huawei-mate-90-teaser-to-debut-in-early-september/",
-      "image": "https://www.huaweicentral.com/wp-content/uploads/2026/07/Mate-90-leak.jpg",
-      "summary": "News and leaks about the upcoming Huawei Mate 90 series continue to flow in, and in the latest edition, we have some information on its “first teaser” debut timeline, which is lik…",
-      "tags": [
-        "Huawei",
-        "爆料",
         "自动抓取"
       ]
     },
