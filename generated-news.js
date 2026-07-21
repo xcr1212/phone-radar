@@ -1,6 +1,546 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-07-20T23:14:05.559Z",
+  "updatedAt": "2026-07-21T03:43:44.808Z",
   "news": [
+    {
+      "id": "auto-ad52fed948c3",
+      "title": "iQOO 16T in works with 2K Samsung display, Snapdragon 8 Elite Gen 6 ￼",
+      "source": "Gizmochina",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-21",
+      "time": "03:25",
+      "publishedAt": "2026-07-21T03:25:21.000Z",
+      "url": "https://www.gizmochina.com/2026/07/21/iqoo-16t-key-specifications-tipped/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/05/iQOO-15T-1-300x200.png?x92417",
+      "summary": "Back in June, the first details of the iQOO 16T emerged. At that time, the leak revealed that it would be a large-screen device. Now, a new leak courtesy of tipster Digital Chat S…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-146f88098b57",
+      "title": "谷歌推送安卓 17 首个 QPR2 Beta 更新：Pixel 6/Pro 手机 5 年支持到期不再适配",
+      "source": "IT之家",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-21",
+      "time": "03:23",
+      "publishedAt": "2026-07-21T03:23:06.000Z",
+      "url": "https://www.ithome.com/0/979/422.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/7/73b8a190-3716-4f45-9603-73f0c1e1caca.png?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 7 月 21 日消息，谷歌安卓社区互动负责人米沙尔 · 拉赫曼（Mishaal Rahman）今天（7 月 21 日）在 X 平台发布推文， 宣布谷歌已推送安卓 17 QPR2 Beta 1。 在版本方面，IT之家援引博文介绍，安卓 17 QPR2 Beta 1 对应规划 2026 年第 4 季度推出的安卓 QPR2 季度版本。 在适配机型方面，…",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-df2aaf21499f",
+      "title": "Huawei Mate XT 2 tri-fold may adopt Tao Law-based Kirin chip",
+      "source": "Huawei Central",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-21",
+      "time": "03:04",
+      "publishedAt": "2026-07-21T03:04:28.000Z",
+      "url": "https://www.huaweicentral.com/huawei-mate-xt-2-tri-fold-may-adopt-tao-law-based-kirin-chip/",
+      "image": "https://www.huaweicentral.com/wp-content/uploads/2026/04/Mate-XT1.jpg",
+      "summary": "Mate 90 series was expected to be the first Huawei phone with a Tau Scaling Law-based Kirin chip, but it looks like the company will also use this solution for the Mate XT 2. A ne…",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-45568f03c497",
+      "title": "交通运输部：加快推广“手机 +”无卡便捷通行，打造精品自驾旅游公路",
+      "source": "IT之家",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-21",
+      "time": "03:03",
+      "publishedAt": "2026-07-21T03:03:06.000Z",
+      "url": "https://www.ithome.com/0/979/408.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/7/95adb704-4f76-4d7b-803b-55bcd2007eac.png?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 7 月 21 日消息，国务院新闻办公室于 2026 年 7 月 21 日（星期二）上午 10 时举行“开局起步‘十五五’”系列主题新闻发布会，请交通运输部副部长徐成光，交通运输部安全总监兼运输服务司司长蔡团结，国家铁路局新闻发言人、副局长王启铭，中国民航局副局长韩钧，国家邮政局副局长陈凯介绍加快建设交通强国、完善现代化综合交通运输体系有关情况，并…",
+      "tags": [
+        "行业",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-c85e6695758d",
+      "title": "消息称苹果打样 7 英寸超大屏，有概率用于 iPhone 20 Pro Max",
+      "source": "IT之家",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-21",
+      "time": "02:51",
+      "publishedAt": "2026-07-21T02:51:53.000Z",
+      "url": "https://www.ithome.com/0/979/386.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/7/628f41af-73db-422c-876e-6d30127dc727.jpg",
+      "summary": "IT之家 7 月 21 日消息，博主 @数码闲聊站 今日爆料，苹果正在打样一块超大屏，物理尺寸 6.96 英寸 ±，标准尺寸是 7 英寸 ±， 有概率运用于 iPhone 20 Pro Max？ 有待进一步确定。 博主还称，新屏幕的比例和现在的 6.9 英寸差不多，适人握持。 作为参考，最新的 iPhone 17 Pro Max 屏幕尺寸为 6.9 英寸，…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "weibo-86e5e436880e",
+      "title": "数码闲聊站：一条独家超前瞻信息，苹果正在打样一块超大屏，物理尺寸6.96英寸±，标准尺寸是…",
+      "source": "数码闲聊站",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-07-21",
+      "time": "02:38",
+      "publishedAt": "2026-07-21T02:38:00.000Z",
+      "url": "https://weibo.com/6048569942/R9G4trdtx",
+      "image": "",
+      "summary": "一条独家超前瞻信息，苹果正在打样一块超大屏，物理尺寸6.96英寸±，标准尺寸是7英寸±，有概率运用于iPhone 20 Pro Max？有待进一步确定",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "微博"
+      ]
+    },
+    {
+      "id": "auto-9b4ab1995984",
+      "title": "招商银行、平安银行万事达卡加入苹果 Apple Pay 支持，首绑并消费最高返现 5 美元",
+      "source": "IT之家",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-21",
+      "time": "02:18",
+      "publishedAt": "2026-07-21T02:18:47.000Z",
+      "url": "https://www.ithome.com/0/979/336.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/7/1dbc2b33-eb59-40f9-8f3d-98449bf430ce.jpg",
+      "summary": "更新：万事达官方宣布新增招商银行（信用卡和借记卡）、平安银行（信用卡）支持绑定 Apple Pay。 IT之家 7 月 21 日消息，招商银行确认旗下万事达卡（Mastercard）即日起支持绑定苹果 Apple Pay，用于境外线下商户以及海外线上场景支付。 用户将万事达借记卡绑定 Apple Pay 后，无需携带实体借记卡，即可在境外通过 iPhone…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-ab347374b17a",
+      "title": "三星 Galaxy Z Fold8 阔折叠手机渲染图再曝：Flex Titanium 折叠方案",
+      "source": "IT之家",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-21",
+      "time": "02:16",
+      "publishedAt": "2026-07-21T02:16:21.000Z",
+      "url": "https://www.ithome.com/0/979/333.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/7/a56e435d-881a-45f7-a180-c1f3f1d2c66d.jpg",
+      "summary": "IT之家 7 月 21 日消息，消息源 Roland Quandt 昨日（7 月 20 日）在 Bluesky 平台发布动态， 分享了三星 Galaxy Z Fold8 阔折叠手机新渲染图。 颜色方面，本次曝光的渲染图展示了石墨灰（Graphite）、奶油色（Cream）和薰衣草色（Lavender）三种颜色，此前消息称三星还将会推出“开心果绿”（Pist…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-58bea6ead74b",
+      "title": "竹本青：消息称小米手机2026全年出货目标上调至1.1亿部",
+      "source": "竹本青",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-07-21",
+      "time": "02:12",
+      "publishedAt": "2026-07-21T02:12:38.000Z",
+      "url": "https://www.coolapk.com/feed/72871960",
+      "image": "http://image.coolapk.com/feed/2026/0721/10/4248714_ae5d8a9c_9956_9613_984@2277x1280.jpg",
+      "summary": "【消息称小米手机2026全年出货目标上调至1.1亿部，增幅约16%】 7月21日，据界面新闻报道，小米已将2026年全年智能手机出货目标从约9000万部上调至1.1亿部，增幅约16%，上调的增量部分主要来自低端机型。 一位接近小米的人士告诉界面新闻，此次上调出货目标是小米内部认为当前的存储行情有望迎来反转。受上游存储芯片的短期与成本持续上涨，小米在今年曾两…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-e371307044b5",
+      "title": "消息称小米手机今年出货目标由 9000 万部上调至 1.1 亿部，内部认为存储行情有望反转",
+      "source": "IT之家",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-21",
+      "time": "02:02",
+      "publishedAt": "2026-07-21T02:02:53.000Z",
+      "url": "https://www.ithome.com/0/979/328.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2025/8/236b201a-e28a-4160-8029-d8a8e74b794f.jpg?x-bce-process=image/auto-orient,o_1",
+      "summary": "IT之家 7 月 21 日消息，界面新闻今天（21 日）援引供应链消息称，小米已将 2026 年全年智能手机出货目标从约 9000 万部上调至 1.1 亿部，增幅约 16%，上调的增量部分 主要来自低端机型 。 接近小米的人士透露，此次上调出货目标是小米内部认为 当前的存储行情有望迎来反转 。受上游存储芯片的成本持续上涨，小米在今年曾两次下调其出货目标。…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-1ecf7418b055",
+      "title": "竹本青：REDMI K90／Turbo 5系列 销量曝光：合计超587万台",
+      "source": "竹本青",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-07-21",
+      "time": "01:48",
+      "publishedAt": "2026-07-21T01:48:50.000Z",
+      "url": "https://www.coolapk.com/feed/72871667",
+      "image": "http://image.coolapk.com/feed/2026/0721/09/4248714_cd990b02_8529_4835_983@1439x806.jpg",
+      "summary": "【REDMI K90／Turbo 5系列 最新销量曝光：合计超587万台，K90 至尊版约11.5万台】 REDMI K90 ● 截至2026 W28 —— 约246.14万 截至2026 W27 —— 约243.6万 截至2026 W26 —— 约239.13万 REDMI K90 Max ● 截至2026 W28 —— 约46.14万 截至2026 W…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-7473b62c51c8",
+      "title": "Vivo S2 tipped to launch next month in India as a successor to 2019’s Vivo S1",
+      "source": "Gizmochina",
+      "brand": "vivo",
+      "model": "vivo 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-21",
+      "time": "01:27",
+      "publishedAt": "2026-07-21T01:27:47.000Z",
+      "url": "https://www.gizmochina.com/2026/07/21/vivo-s2-tipped-to-launch-next-month-in-india-as-a-successor-to-2019s-vivo-s1/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/07/Screenshot-2026-07-21-065515-300x169.png?x92417",
+      "summary": "After nearly seven years of silence in the Indian market, the Vivo S2 is on its way. According to leaker Yogesh Brar, the phone (model number V2576) is expected to launch in early…",
+      "tags": [
+        "vivo",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-69669b6548fc",
+      "title": "JSCHEN小小狐：曝 iQOO 16T 正常打磨中：2nm 平台 + 散热风扇",
+      "source": "JSCHEN小小狐",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-07-21",
+      "time": "01:15",
+      "publishedAt": "2026-07-21T01:15:08.000Z",
+      "url": "https://www.coolapk.com/feed/72871244",
+      "image": "http://image.coolapk.com/feed/2026/0721/09/4702274_5f5a7338_6507_7238_307@1440x503.jpg",
+      "summary": "『曝 iQOO 16T 正常打磨中：2nm 平台 + 风扇』 ◇ 2nm 旗舰芯（SM8950 / DX6） 测试骁龙 8 Elite Gen6 移动平台 备选天玑 9600 Pro 移动平台 ◇ 内置大尺寸散热风扇 ◇ 评估三星 2K 直屏 #今日热点# #iQOO15T# #iQOO16#",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "coolapk-user-6002ed5cbfc6",
+      "title": "竹本青：【iQOO 16T配置爆料：2nm旗舰芯+2K三星直屏+主动风扇】 ● 骁龙8 Elite Gen6／天玑9600…",
+      "source": "竹本青",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-07-21",
+      "time": "01:14",
+      "publishedAt": "2026-07-21T01:14:23.000Z",
+      "url": "https://www.coolapk.com/feed/72871239",
+      "image": "http://image.coolapk.com/feed/2026/0721/09/4248714_f0cd01aa_6462_4752_629@1439x374.jpg",
+      "summary": "【iQOO 16T配置爆料：2nm旗舰芯+2K三星直屏+主动风扇】 ● 骁龙8 Elite Gen6／天玑9600 ● 2K 三星直屏 ● 内置大尺寸主动风扇 #今日热点# #iQOO15T# #ColorOS16#",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "weibo-aee685a1dbc9",
+      "title": "数码闲聊站：独家信息：子系迭代线T正常打磨中，2nm旗舰芯，目前工程机打磨SM8950(同…",
+      "source": "数码闲聊站",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-07-21",
+      "time": "01:07",
+      "publishedAt": "2026-07-21T01:07:50.000Z",
+      "url": "https://weibo.com/6048569942/R9FtSqF2c",
+      "image": "",
+      "summary": "独家信息，子系迭代线T正常打磨中，2nm旗舰芯，目前工程机打磨SM8950(同步备选DX6)，有内置大尺寸风扇，屏幕评估2K三星直屏👖",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "微博"
+      ]
+    },
+    {
+      "id": "auto-9bbf43c61c96",
+      "title": "Apple announces changes to iOS in Brazil",
+      "source": "Apple Newsroom",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "官方",
+      "trust": "官方确认",
+      "date": "2026-07-21",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.apple.com/newsroom/2026/06/apple-announces-changes-to-ios-in-brazil/",
+      "image": "",
+      "summary": "Apple today announced changes impacting iOS apps in Brazil that reflect a recent agreement with Brazil’s competition regulator, CADE.",
+      "tags": [
+        "iPhone",
+        "官方",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "newsnow-015ce3fa7ce6",
+      "title": "我的出行好伙伴，用 iPhone 一站式解决旅途痛点",
+      "source": "少数派热榜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-07-21",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://sspai.com/post/112044",
+      "image": "",
+      "summary": "我的出行好伙伴，用 iPhone 一站式解决旅途痛点",
+      "tags": [
+        "iPhone",
+        "评测",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-71efdbd0077f",
+      "title": "iPhone Air 当主力机用了三个多月后，我为什么还是换不掉它",
+      "source": "少数派热榜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-07-21",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://sspai.com/post/111113",
+      "image": "",
+      "summary": "iPhone Air 当主力机用了三个多月后，我为什么还是换不掉它",
+      "tags": [
+        "iPhone",
+        "评测",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-a08c501e4bda",
+      "title": "快捷指令｜让 iPhone 用上锤子的「大爆炸」",
+      "source": "少数派热榜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-07-21",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://sspai.com/post/111405",
+      "image": "",
+      "summary": "快捷指令｜让 iPhone 用上锤子的「大爆炸」",
+      "tags": [
+        "iPhone",
+        "评测",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-e4785fd6dfd4",
+      "title": "看了一圈，终于知道为什么iPhone高端机销量如此之高了，不是没有原因的。",
+      "source": "酷安热榜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-07-21",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/72866165",
+      "image": "",
+      "summary": "看了一圈，终于知道为什么iPhone高端机销量如此之高了，不是没有原因的。",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-035539b44130",
+      "title": "狗东这手机出BUG了吗？？？3000就能买到",
+      "source": "酷安热榜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-07-21",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/72839563",
+      "image": "",
+      "summary": "狗东这手机出BUG了吗？？？3000就能买到",
+      "tags": [
+        "行业",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-feece44d2149",
+      "title": "说真的，这手机被骂完全就是活该，我觉得任何人都不应该为他开脱。我也理解厂商涨价，但是这不是你起售价1299还只给一个4G2超频版的理由[汗]哪怕是Note 17 Pro，我都觉得不算太差，至少它的核心配置，屏幕、电池、处理器这三方面，在同价位线下机里还算中上。",
+      "source": "酷安热榜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-07-21",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/72850567",
+      "image": "",
+      "summary": "说真的，这手机被骂完全就是活该，我觉得任何人都不应该为他开脱。我也理解厂商涨价，但是这不是你起售价1299还只给一个4G2超频版的理由[汗]哪怕是Note 17 Pro，我都觉得不算太差，至少它的核心配置，屏幕、电池、处理器这三方面，在同价位线下机里还算中上。",
+      "tags": [
+        "行业",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-f808ddff600e",
+      "title": "vivo X300s迎来调价：全系涨价300元",
+      "source": "酷安热榜",
+      "brand": "vivo",
+      "model": "vivo 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-07-21",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/72866819",
+      "image": "",
+      "summary": "vivo X300s迎来调价：全系涨价300元",
+      "tags": [
+        "vivo",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-7426b3a8e2f2",
+      "title": "【感谢大家的推荐(^🙏^)】没想到会有这么多加人回复我，真的很开心，以后可以多在这边跟大家一起交流用手机的日常，还有很多不懂的地方，希望大家多多指教[可爱]",
+      "source": "酷安热榜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-07-21",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/72861480",
+      "image": "",
+      "summary": "【感谢大家的推荐(^🙏^)】没想到会有这么多加人回复我，真的很开心，以后可以多在这边跟大家一起交流用手机的日常，还有很多不懂的地方，希望大家多多指教[可爱]",
+      "tags": [
+        "行业",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-c34f92ffac50",
+      "title": "其实我感觉iPhone的信号并不差[受虐滑稽]，同一个地方如果苹果刷不出东西，其他手机也是半斤八两，体验也不会很好[受虐滑稽]",
+      "source": "酷安热榜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-07-21",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/72850962",
+      "image": "",
+      "summary": "其实我感觉iPhone的信号并不差[受虐滑稽]，同一个地方如果苹果刷不出东西，其他手机也是半斤八两，体验也不会很好[受虐滑稽]",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-03433e521fd9",
+      "title": "vivoX300e定价多少呢",
+      "source": "酷安热榜",
+      "brand": "vivo",
+      "model": "vivo 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-07-21",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/72858060",
+      "image": "",
+      "summary": "vivoX300e定价多少呢",
+      "tags": [
+        "vivo",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-eff3589af271",
+      "title": "可能是网上吹的人太多让我对这手机期望过高，实际用起来感觉就是三四千价位的正常水平，并没有啥越级。",
+      "source": "酷安热榜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-07-21",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/72864529",
+      "image": "",
+      "summary": "可能是网上吹的人太多让我对这手机期望过高，实际用起来感觉就是三四千价位的正常水平，并没有啥越级。",
+      "tags": [
+        "行业",
+        "爆料",
+        "NewsNow"
+      ]
+    },
     {
       "id": "auto-2b795286a306",
       "title": "Samsung expects Galaxy Z Fold 8 to outsell Fold 8 Ultra, Flip 8",
@@ -243,7 +783,7 @@ window.phoneRadarAuto = {
     },
     {
       "id": "coolapk-user-35b009efc371",
-      "title": "竹本青：【firefly萤火虫 halo寻光系列 首款车型「栖息地」正式发布，整车售价13.33万元起】 整车售价 ——…",
+      "title": "竹本青：firefly萤火虫 halo寻光系列 首款车型「栖息地」发布，整车售价13.33万元起",
       "source": "竹本青",
       "brand": "行业",
       "model": "智能手机市场",
@@ -263,7 +803,7 @@ window.phoneRadarAuto = {
     },
     {
       "id": "coolapk-user-28ed1946aac6",
-      "title": "竹本青：【蓝狐手机旗下子品牌「读林」正式立项：主打墨水屏阅读器】 7月20日资讯，本月中旬，蓝狐手机旗下子品牌「读林」正式…",
+      "title": "竹本青：蓝狐手机子品牌「读林」立项：主打墨水屏阅读器",
       "source": "竹本青",
       "brand": "行业",
       "model": "智能手机市场",
@@ -279,26 +819,6 @@ window.phoneRadarAuto = {
         "行业",
         "爆料",
         "酷安博主"
-      ]
-    },
-    {
-      "id": "auto-8533a8766644",
-      "title": "消息称荣耀 Robot Phone 形态有专利友商难跟进，行业预测 1TB 版价格在 15999 元左右",
-      "source": "IT之家",
-      "brand": "HONOR",
-      "model": "HONOR 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-20",
-      "time": "12:23",
-      "publishedAt": "2026-07-20T12:23:37.000Z",
-      "url": "https://www.ithome.com/0/979/221.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/7/16e3f8a4-151f-44d4-9088-4923a4b50026.png?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 7 月 20 日消息，博主 @数码闲聊站 今日发文谈及了荣耀 Robot Phone 手机。他透露，该机 200Mp 云台影像是基础， 核心机构件、电机、模组全部是荣耀自研和独立定制 ，整套云台及翻转机构新增了近 100 个零部件。 其中定制了 4 个电机，内部动力采用了特殊多极充磁工艺，直径最小的仅 6mm。核心结构件为了可靠性全部使用了钛合金…",
-      "tags": [
-        "HONOR",
-        "爆料",
-        "自动抓取"
       ]
     },
     {
@@ -402,26 +922,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "coolapk-user-3df265bfc6ff",
-      "title": "竹本青：汇顶GT9926 OLED触控芯片将在下半年大规模商用",
-      "source": "竹本青",
-      "brand": "OPPO",
-      "model": "OPPO 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-07-20",
-      "time": "08:45",
-      "publishedAt": "2026-07-20T08:45:38.000Z",
-      "url": "https://www.coolapk.com/feed/72862369",
-      "image": "http://image.coolapk.com/feed/2026/0720/16/4248714_1d6851a3_7137_6897_606@1080x1440.jpg",
-      "summary": "【汇顶科技：GT9926 OLED触控芯片 将在下半年发布的手机大规模商用】 今年上半年，汇顶科技正式推出全新一代柔性OLED触摸屏控制芯片GT9926，并率先商用于OPPO K15 Pro+手机。 ▫️480Hz多指采样率／4000Hz瞬时采样率 ▫️信噪比相较上代产品提升100% ▫️毫秒级响应+点击延时更低 ▫️显示兼容性更好，适配新型屏幕 ▫️提升…",
-      "tags": [
-        "OPPO",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
       "id": "auto-0bda8a32c6e0",
       "title": "Samsung is betting big on the Wide Fold",
       "source": "Android Authority",
@@ -499,26 +999,6 @@ window.phoneRadarAuto = {
         "Xiaomi",
         "爆料",
         "自动抓取"
-      ]
-    },
-    {
-      "id": "coolapk-user-d607f90b83b2",
-      "title": "竹本青：【OPPO A7 Pro Max 配置曝光：欧加系首个10000mAh电池，骁龙4 Gen5处理器】 ▫️6.78…",
-      "source": "竹本青",
-      "brand": "OPPO",
-      "model": "OPPO 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-07-20",
-      "time": "06:23",
-      "publishedAt": "2026-07-20T06:23:57.000Z",
-      "url": "https://www.coolapk.com/feed/72860626",
-      "image": "http://image.coolapk.com/feed/2026/0720/14/4248714_a61a2355_8636_6129_406@1439x483.jpg",
-      "summary": "【OPPO A7 Pro Max 配置曝光：欧加系首个10000mAh电池，骁龙4 Gen5处理器】 ▫️6.78\"1.5K 120Hz OLED直屏 ▫️骁龙4 Gen5处理器 ▫️10000mAh单电芯电池+80W快充 ▫️前置50Mp｜后置50Mp+2Mp ▫️厚8.47mm/重226g #今日热点# #ColorOS16# #OPPOA6Max#",
-      "tags": [
-        "OPPO",
-        "爆料",
-        "酷安博主"
       ]
     },
     {
@@ -702,26 +1182,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-5fc528c78bba",
-      "title": "Honor jibes at OnePlus after exit from US and European smartphone market",
-      "source": "Huawei Central",
-      "brand": "HONOR",
-      "model": "HONOR 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-20",
-      "time": "02:00",
-      "publishedAt": "2026-07-20T02:00:27.000Z",
-      "url": "https://www.huaweicentral.com/honor-jibes-at-oneplus-after-exit-from-us-and-european-smartphone-market/",
-      "image": "",
-      "summary": "Huawei’s former smartphone subsidiary, Honor, has posted a meme on social media that is going viral, showing a tombstone with “ONEPLUS” marked on it and captioned “Too soon?” taki…",
-      "tags": [
-        "HONOR",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "weibo-e0aa896393f5",
       "title": "数码闲聊站：vivo X300E，这设计感受一下： 6.59英寸+骁龙8G5+7200mA…",
       "source": "数码闲聊站",
@@ -739,306 +1199,6 @@ window.phoneRadarAuto = {
         "vivo",
         "爆料",
         "微博"
-      ]
-    },
-    {
-      "id": "auto-9bbf43c61c96",
-      "title": "Apple announces changes to iOS in Brazil",
-      "source": "Apple Newsroom",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "官方",
-      "trust": "官方确认",
-      "date": "2026-07-20",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.apple.com/newsroom/2026/06/apple-announces-changes-to-ios-in-brazil/",
-      "image": "",
-      "summary": "Apple today announced changes impacting iOS apps in Brazil that reflect a recent agreement with Brazil’s competition regulator, CADE.",
-      "tags": [
-        "iPhone",
-        "官方",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "newsnow-bd971bc7ae5c",
-      "title": "我的出行好伙伴，用 iPhone 一站式解决旅途痛点",
-      "source": "少数派热榜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "评测",
-      "trust": "媒体汇总",
-      "date": "2026-07-20",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://sspai.com/post/112044",
-      "image": "",
-      "summary": "我的出行好伙伴，用 iPhone 一站式解决旅途痛点",
-      "tags": [
-        "iPhone",
-        "评测",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-6067cd919cb8",
-      "title": "iPhone Air 当主力机用了三个多月后，我为什么还是换不掉它",
-      "source": "少数派热榜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "评测",
-      "trust": "媒体汇总",
-      "date": "2026-07-20",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://sspai.com/post/111113",
-      "image": "",
-      "summary": "iPhone Air 当主力机用了三个多月后，我为什么还是换不掉它",
-      "tags": [
-        "iPhone",
-        "评测",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-5874618963ae",
-      "title": "快捷指令｜让 iPhone 用上锤子的「大爆炸」",
-      "source": "少数派热榜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "评测",
-      "trust": "媒体汇总",
-      "date": "2026-07-20",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://sspai.com/post/111405",
-      "image": "",
-      "summary": "快捷指令｜让 iPhone 用上锤子的「大爆炸」",
-      "tags": [
-        "iPhone",
-        "评测",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-74cb55adc690",
-      "title": "狗东这手机出BUG了吗？？？3000就能买到",
-      "source": "酷安热榜",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-07-20",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72839563",
-      "image": "",
-      "summary": "狗东这手机出BUG了吗？？？3000就能买到",
-      "tags": [
-        "行业",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-6687cb140e73",
-      "title": "看了一圈，终于知道为什么iPhone高端机销量如此之高了，不是没有原因的。",
-      "source": "酷安热榜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-07-20",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72866165",
-      "image": "",
-      "summary": "看了一圈，终于知道为什么iPhone高端机销量如此之高了，不是没有原因的。",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-c62079609c4e",
-      "title": "说真的，这手机被骂完全就是活该，我觉得任何人都不应该为他开脱。我也理解厂商涨价，但是这不是你起售价1299还只给一个4G2超频版的理由[汗]哪怕是Note 17 Pro，我都觉得不算太差，至少它的核心配置，屏幕、电池、处理器这三方面，在同价位线下机里还算中上。",
-      "source": "酷安热榜",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-07-20",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72850567",
-      "image": "",
-      "summary": "说真的，这手机被骂完全就是活该，我觉得任何人都不应该为他开脱。我也理解厂商涨价，但是这不是你起售价1299还只给一个4G2超频版的理由[汗]哪怕是Note 17 Pro，我都觉得不算太差，至少它的核心配置，屏幕、电池、处理器这三方面，在同价位线下机里还算中上。",
-      "tags": [
-        "行业",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-2c20d42becad",
-      "title": "vivo X300s迎来调价：全系涨价300元",
-      "source": "酷安热榜",
-      "brand": "vivo",
-      "model": "vivo 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-07-20",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72866819",
-      "image": "",
-      "summary": "vivo X300s迎来调价：全系涨价300元",
-      "tags": [
-        "vivo",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-d3eab1f92db5",
-      "title": "其实我感觉iPhone的信号并不差[受虐滑稽]，同一个地方如果苹果刷不出东西，其他手机也是半斤八两，体验也不会很好[受虐滑稽]",
-      "source": "酷安热榜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-07-20",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72850962",
-      "image": "",
-      "summary": "其实我感觉iPhone的信号并不差[受虐滑稽]，同一个地方如果苹果刷不出东西，其他手机也是半斤八两，体验也不会很好[受虐滑稽]",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "auto-59fe23616066",
-      "title": "Google Pixel 11a specs leaked: Tensor G6, MediaTek M90 modem, 8GB RAM",
-      "source": "Gizmochina",
-      "brand": "Pixel",
-      "model": "Pixel 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-19",
-      "time": "22:36",
-      "publishedAt": "2026-07-19T22:36:52.000Z",
-      "url": "https://www.gizmochina.com/2026/07/19/google-pixel-11a-specs-leaked-tensor-g6-mediatek-m90-modem-titan-m3-security-chip/",
-      "image": "https://www.gizmochina.com/wp-content/uploads/2026/07/Screenshot-2026-07-20-034721-300x169.png?x92417",
-      "summary": "Google’s affordable Pixel A-series is getting ready to make another strong impression with the upcoming Pixel 11a. Fresh leaks have given us a pretty detailed look at what’s comin…",
-      "tags": [
-        "Pixel",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-ec035e62c0da",
-      "title": "Here’s what the wide Galaxy Z Fold 8 looks like in real life [Gallery]",
-      "source": "9to5Google",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-19",
-      "time": "20:50",
-      "publishedAt": "2026-07-19T20:50:00.000Z",
-      "url": "https://9to5google.com/2026/07/19/samsung-galaxy-z-fold-8-real-life-bts-leak/",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/07/galaxy-z-fold-8-bts-header.jpg?quality=82&strip=all&w=1200",
-      "summary": "Samsung’s Galaxy Z Fold 8 is a complete redesign with a new, wider form factor that’s going to be fascinating to see in real life. And, would you look at that, there’s the Galaxy…",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-438a6dee7020",
-      "title": "Marshall Celebrates 60 Years of Hendrix With a Special Edition Acton III Speaker",
-      "source": "Gizmochina",
-      "brand": "HONOR",
-      "model": "HONOR 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-19",
-      "time": "16:17",
-      "publishedAt": "2026-07-19T16:17:21.000Z",
-      "url": "https://www.gizmochina.com/2026/07/19/marshall-celebrates-60-years-of-hendrix-with-a-special-edition-acton-iii-speaker/",
-      "image": "https://www.gizmochina.com/wp-content/uploads/2026/07/Marshall-Acton-III-—-Jimi-Hendrix-60th-Anniversary-Edition-Design-300x200.jpg?x92417",
-      "summary": "Marshall has released a new limited-edition version of its Acton III Bluetooth speaker to honor 60 years since legendary Jimi Hendrix first plugged into a Marshall amp. The Hendri…",
-      "tags": [
-        "HONOR",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-4f6e1c1cb711",
-      "title": "OnePlus died with a whimper, not a bang",
-      "source": "9to5Google",
-      "brand": "OPPO",
-      "model": "OPPO 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-19",
-      "time": "13:00",
-      "publishedAt": "2026-07-19T13:00:00.000Z",
-      "url": "https://9to5google.com/2026/07/19/oneplus-died-with-a-whimper-not-a-bang/",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/07/oneplus-open-and-13.jpg?quality=82&strip=all&w=1600",
-      "summary": "OnePlus is dead – actually for real this time. It’s got me looking back on my experiences with the brand’s smartphones, the absolute roller coaster that it was, and how OnePlus br…",
-      "tags": [
-        "OPPO",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-d01382fbb1b1",
-      "title": "iPhone 18 Pro Max diagnostic log reveals sensor details, variable aperture",
-      "source": "Gizmochina",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-19",
-      "time": "07:40",
-      "publishedAt": "2026-07-19T07:40:20.000Z",
-      "url": "https://www.gizmochina.com/2026/07/19/iphone-18-pro-max-diagnostic-log-reveals-sensor-details-variable-aperture/",
-      "image": "https://www.gizmochina.com/wp-content/uploads/2025/10/iPhone-17-Pro-300x169.jpg?x92417",
-      "summary": "A big data breach at one of Apple’s suppliers has given us some of the clearest details yet about the camera setup coming to the iPhone 18 Pro Max. The leak confirms that Apple is…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-561733aac008",
-      "title": "Google Pixel 11 Pro XL vs. Pixel 10 Pro XL: A glowing upgrade",
-      "source": "Android Central",
-      "brand": "Pixel",
-      "model": "Pixel 相关机型",
-      "type": "评测",
-      "trust": "媒体汇总",
-      "date": "2026-07-19",
-      "time": "06:51",
-      "publishedAt": "2026-07-19T06:51:00.000Z",
-      "url": "https://www.androidcentral.com/phones/google-pixel/google-pixel-11-pro-xl-vs-pixel-10-pro-xl",
-      "image": "https://cdn.mos.cms.futurecdn.net/uxCJTEfLiCZ5DpseWfgCib-1280-80.jpg",
-      "summary": "Google might be reusing the same design again with the Pixel 11, but this time, it's packing an extra glow.",
-      "tags": [
-        "Pixel",
-        "评测",
-        "自动抓取"
       ]
     }
   ]
