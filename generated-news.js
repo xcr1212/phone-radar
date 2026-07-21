@@ -1,6 +1,46 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-07-21T19:50:25.933Z",
+  "updatedAt": "2026-07-21T21:32:11.954Z",
   "news": [
+    {
+      "id": "auto-d060c743752d",
+      "title": "iPhone Air 2 is coming, here’s everything we know so far",
+      "source": "9to5Mac",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-21",
+      "time": "20:47",
+      "publishedAt": "2026-07-21T20:47:24.000Z",
+      "url": "https://9to5mac.com/2026/07/21/iphone-air-2-is-coming-heres-everything-we-know-so-far/",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/09/iphone-17-air0000.jpg?quality=82&strip=all&w=1600",
+      "summary": "Apple is working on a second-generation iPhone Air, and it could address several key limitations of the current model. Here’s everything we know about the iPhone Air 2, including…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-a07238be6cfb",
+      "title": "Galaxy Z Fold 8 breaks cover (again) in T-Mobile ad",
+      "source": "Android Authority",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-21",
+      "time": "19:51",
+      "publishedAt": "2026-07-21T19:51:49.000Z",
+      "url": "https://www.androidauthority.com/samsung-galaxy-z-fold-8-t-mobile-ad-3689844/",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2025/07/samsung-galaxy-z-fold-7-cameras-close-up.jpg",
+      "summary": "Is there anything left to reveal at this point?",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-d377b6a2871e",
       "title": "iPhone 18 Pro release date: Here’s when Apple’s new model is coming",
@@ -878,26 +918,6 @@ window.phoneRadarAuto = {
       "tags": [
         "vivo",
         "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-48f9cab2da90",
-      "title": "小米上调全年手机出货目标至 1.1 亿部，增幅约 16%，增量主要来自低端机型，如何看待此举？",
-      "source": "知乎热榜",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "市场报告",
-      "trust": "媒体汇总",
-      "date": "2026-07-21",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.zhihu.com/question/2062847046097408907",
-      "image": "",
-      "summary": "小米上调全年手机出货目标至 1.1 亿部，增幅约 16%，增量主要来自低端机型，如何看待此举？",
-      "tags": [
-        "Xiaomi",
-        "市场报告",
         "NewsNow"
       ]
     },
