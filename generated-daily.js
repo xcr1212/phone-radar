@@ -1,12 +1,12 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-07-21T17:44:30.907Z",
+  "updatedAt": "2026-07-21T19:50:25.933Z",
   "issueDate": "2026-07-21",
   "issue": "VOL.260721",
   "title": "手机情报日报",
-  "intro": "今日筛出 8 条重点，其中 8 条是重点爆料，包含 7 条 iPhone 相关、0 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 9 条重点，其中 8 条是重点爆料，包含 9 条 iPhone 相关、0 条官方确认、0 条参数线索。",
   "stats": {
-    "total": 8,
-    "iphone": 7,
+    "total": 9,
+    "iphone": 9,
     "leaks": 8,
     "official": 0,
     "specs": 0
@@ -59,6 +59,29 @@ window.phoneRadarDaily = {
           "detail": "iPhone 18 Pro Max 参数爆料：灵动岛缩小/可变光圈主摄",
           "keyPoints": [
             "影像硬件",
+            "爆料来源"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "auto-dc287af534e9",
+          "title": "iPhone 系统功能 / AI 体验相关消息",
+          "originalTitle": "",
+          "source": "MacRumors",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-07-21",
+          "time": "18:47",
+          "publishedAt": "2026-07-21T18:47:16.000Z",
+          "url": "https://www.macrumors.com/2026/07/21/best-buy-iphone-air-models/",
+          "image": "https://images.macrumors.com/article-new/2025/09/iphone-air-silver.jpg",
+          "verdict": "先看",
+          "takeaway": "iPhone 有系统功能或 AI 体验更新，适合关注后续是否影响日常使用。",
+          "detail": "iPhone 系统功能 / AI 体验相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
+          "keyPoints": [
             "爆料来源"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
@@ -182,29 +205,36 @@ window.phoneRadarDaily = {
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
+        }
+      ]
+    },
+    {
+      "id": "iphone",
+      "title": "iPhone 重点",
+      "hint": "不是硬件爆料，但和 iPhone 体验或路线有关。",
+      "items": [
         {
-          "id": "auto-6c40b29c603f",
-          "title": "全球首款机器人手机：荣耀 Robot Phone 拍照页面曝光，将支持大师电影模式",
+          "id": "auto-13688f7933ea",
+          "title": "2026 年再看 iPhone 8 Plus，它还够用吗？",
           "originalTitle": "",
-          "source": "IT之家",
-          "brand": "HONOR",
-          "type": "爆料",
+          "source": "少数派",
+          "brand": "iPhone",
+          "type": "评测",
           "trust": "媒体汇总",
-          "date": "2026-07-21",
-          "time": "15:33",
-          "publishedAt": "2026-07-21T15:33:36.000Z",
-          "url": "https://www.ithome.com/0/979/801.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/7/1ffb2429-2518-4a00-85c4-1b9ed6dea097.jpg",
+          "date": "2026-07-20",
+          "time": "03:00",
+          "publishedAt": "2026-07-20T03:00:00.000Z",
+          "url": "https://sspai.com/post/112425",
+          "image": "",
           "verdict": "先看",
-          "takeaway": "IT之家 7 月 21 日消息， 荣耀 Robot Phone 已正式开启预约 ，该机搭载第五代骁龙 8 至尊版芯片，其核心创新在于机身顶部集成了一套行业最小的四自由度（4DoF）钛合金机械云台系统。云台系统配备微型电机，体积比主流方案缩小 70%。 IT之家注意到，荣耀全球首席营销官关海涛今日晒出了自己的荣耀 Robot Phone 真机，并分享了新机的…",
-          "detail": "IT之家 7 月 21 日消息， 荣耀 Robot Phone 已正式开启预约 ，该机搭载第五代骁龙 8 至尊版芯片，其核心创新在于机身顶部集成了一套行业最小的四自由度（4DoF）钛合金机械云台系统。云台系统配备微型电机，体积比主流方案缩小 70%。 IT之家注意到，荣耀全球首席营销官关海涛今日晒出了自己的荣耀 Robot Phone 真机，并分享了新机的…",
+          "takeaway": "高考结束后，又有一大批同学开始考虑换新手机啦。在预算差不多的情况下，很多人会纠结是买一台较新的中端机，还是买一台年份更老、但曾经是旗舰级的机型。于是我把 2020 年购入的 iPhone 8 Plus 拿出来当了一星期主力机，看看这台 2017 年发布的手机，放到今天还能不能胜任日常使用。",
+          "detail": "高考结束后，又有一大批同学开始考虑换新手机啦。在预算差不多的情况下，很多人会纠结是买一台较新的中端机，还是买一台年份更老、但曾经是旗舰级的机型。于是我把 2020 年购入的 iPhone 8 Plus 拿出来当了一星期主力机，看看这台 2017 年发布的手机，放到今天还能不能胜任日常使用。",
           "keyPoints": [
-            "芯片 / 性能"
+            "评测"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+          "impact": "这是实际体验内容，买前适合重点看缺点和取舍。",
+          "action": "中文源可以直接点开快读；看完只保留和购机有关的点。"
         }
       ]
     }

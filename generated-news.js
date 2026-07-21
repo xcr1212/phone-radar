@@ -1,6 +1,86 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-07-21T17:44:30.907Z",
+  "updatedAt": "2026-07-21T19:50:25.933Z",
   "news": [
+    {
+      "id": "auto-d377b6a2871e",
+      "title": "iPhone 18 Pro release date: Here’s when Apple’s new model is coming",
+      "source": "9to5Mac",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-21",
+      "time": "19:48",
+      "publishedAt": "2026-07-21T19:48:10.000Z",
+      "url": "https://9to5mac.com/2026/07/21/iphone-18-release-date-when-apples-new-model-is-coming/",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/02/iphone-18-pro-mockup.jpg?quality=82&strip=all&w=1600",
+      "summary": "Apple’s new flagship iPhone 18 Pro and companion models are expected to be unveiled this fall, following the same pattern the company has kept for years. Here’s when to expect the…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-3de8578d31e1",
+      "title": "Deal: The Samsung Galaxy S25 Plus drops to just $699.98",
+      "source": "Android Authority",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-21",
+      "time": "19:39",
+      "publishedAt": "2026-07-21T19:39:55.000Z",
+      "url": "https://www.androidauthority.com/deal-samsung-galaxy-s25-plus-3689864/",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2025/02/Samsung-Galaxy-S25-Plus-rear-hero.jpg",
+      "summary": "Save 30% on the Galaxy S25 Plus at Amazon, dropping it by $300, with a 6.7-inch 120Hz display and 4,900mAh battery.",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-92068a021922",
+      "title": "Review: After a year with Galaxy Z Fold 7, I’m worried Fold 8 will make the same mistakes",
+      "source": "9to5Google",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-21",
+      "time": "19:00",
+      "publishedAt": "2026-07-21T19:00:00.000Z",
+      "url": "https://9to5google.com/2026/07/21/samsung-galaxy-z-fold-7-review-one-year-later/",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/07/galaxy-z-fold-7-rereview-2.jpg?quality=82&strip=all&w=1600",
+      "summary": "I’ve been buying Samsung foldables for years now, but the Galaxy Z Fold 7 is the first one that, as a reviewer, I’ve actually managed to keep in my pocket all year long. And, afte…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-dc287af534e9",
+      "title": "Best Buy Offers $160 Off All iPhone Air Models During Black Friday in July",
+      "source": "MacRumors",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-21",
+      "time": "18:47",
+      "publishedAt": "2026-07-21T18:47:16.000Z",
+      "url": "https://www.macrumors.com/2026/07/21/best-buy-iphone-air-models/",
+      "image": "https://images.macrumors.com/article-new/2025/09/iphone-air-silver.jpg",
+      "summary": "Best Buy today is offering customers a chance to get $160 off every model of the iPhone Air during its Black Friday in July event. Note: MacRumors is an affiliate partner with Bes…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-6a2b4ff2b314",
       "title": "Apple Reportedly Planning to Wind Down 'iPhone Upgrade Program'",
@@ -642,6 +722,26 @@ window.phoneRadarAuto = {
       ]
     },
     {
+      "id": "newsnow-719546182537",
+      "title": "iPhone 18 Pro Max 参数爆料：灵动岛缩小/可变光圈主摄",
+      "source": "酷安热榜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-07-21",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/72877653",
+      "image": "",
+      "summary": "iPhone 18 Pro Max 参数爆料：灵动岛缩小/可变光圈主摄",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
       "id": "newsnow-e4785fd6dfd4",
       "title": "看了一圈，终于知道为什么iPhone高端机销量如此之高了，不是没有原因的。",
       "source": "酷安热榜",
@@ -657,6 +757,86 @@ window.phoneRadarAuto = {
       "summary": "看了一圈，终于知道为什么iPhone高端机销量如此之高了，不是没有原因的。",
       "tags": [
         "iPhone",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-4b603c50ab07",
+      "title": "炒股一天亏几千没啥感觉。酷友们捡漏3000买iPhone 16 Pro，今天自从看到这条消息已经难受了一整天了，到现在都没缓过来，晚上估计又要失眠了。[流泪][流泪][流泪]#OPPOFindX8Ultra# #华为Mate80ProMax# #红米k90promax#",
+      "source": "酷安热榜",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-07-21",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/72864949",
+      "image": "",
+      "summary": "炒股一天亏几千没啥感觉。酷友们捡漏3000买iPhone 16 Pro，今天自从看到这条消息已经难受了一整天了，到现在都没缓过来，晚上估计又要失眠了。[流泪][流泪][流泪]#OPPOFindX8Ultra# #华为Mate80ProMax# #红米k90promax#",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-9ead698c0c85",
+      "title": "OPPO Find X10 系列最新产品线调整曝光",
+      "source": "酷安热榜",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-07-21",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/72859513",
+      "image": "",
+      "summary": "OPPO Find X10 系列最新产品线调整曝光",
+      "tags": [
+        "OPPO",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-035539b44130",
+      "title": "狗东这手机出BUG了吗？？？3000就能买到",
+      "source": "酷安热榜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-07-21",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/72839563",
+      "image": "",
+      "summary": "狗东这手机出BUG了吗？？？3000就能买到",
+      "tags": [
+        "行业",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-b094c0c4d362",
+      "title": "se3当主力机，其他手机全部都卖了",
+      "source": "酷安热榜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-07-21",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/72861825",
+      "image": "",
+      "summary": "se3当主力机，其他手机全部都卖了",
+      "tags": [
+        "行业",
         "爆料",
         "NewsNow"
       ]
@@ -697,106 +877,6 @@ window.phoneRadarAuto = {
       "summary": "vivo X300s迎来调价：全系涨价300元",
       "tags": [
         "vivo",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-035539b44130",
-      "title": "狗东这手机出BUG了吗？？？3000就能买到",
-      "source": "酷安热榜",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-07-21",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72839563",
-      "image": "",
-      "summary": "狗东这手机出BUG了吗？？？3000就能买到",
-      "tags": [
-        "行业",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-feece44d2149",
-      "title": "说真的，这手机被骂完全就是活该，我觉得任何人都不应该为他开脱。我也理解厂商涨价，但是这不是你起售价1299还只给一个4G2超频版的理由[汗]哪怕是Note 17 Pro，我都觉得不算太差，至少它的核心配置，屏幕、电池、处理器这三方面，在同价位线下机里还算中上。",
-      "source": "酷安热榜",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-07-21",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72850567",
-      "image": "",
-      "summary": "说真的，这手机被骂完全就是活该，我觉得任何人都不应该为他开脱。我也理解厂商涨价，但是这不是你起售价1299还只给一个4G2超频版的理由[汗]哪怕是Note 17 Pro，我都觉得不算太差，至少它的核心配置，屏幕、电池、处理器这三方面，在同价位线下机里还算中上。",
-      "tags": [
-        "行业",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-719546182537",
-      "title": "iPhone 18 Pro Max 参数爆料：灵动岛缩小/可变光圈主摄",
-      "source": "酷安热榜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-07-21",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72877653",
-      "image": "",
-      "summary": "iPhone 18 Pro Max 参数爆料：灵动岛缩小/可变光圈主摄",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-61c01f2d6e2b",
-      "title": "消息称小米手机2026全年出货目标上调至1.1亿部",
-      "source": "酷安热榜",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-07-21",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72871960",
-      "image": "",
-      "summary": "消息称小米手机2026全年出货目标上调至1.1亿部",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-b094c0c4d362",
-      "title": "se3当主力机，其他手机全部都卖了",
-      "source": "酷安热榜",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-07-21",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72861825",
-      "image": "",
-      "summary": "se3当主力机，其他手机全部都卖了",
-      "tags": [
-        "行业",
         "爆料",
         "NewsNow"
       ]
@@ -1279,26 +1359,6 @@ window.phoneRadarAuto = {
         "Xiaomi",
         "爆料",
         "自动抓取"
-      ]
-    },
-    {
-      "id": "coolapk-user-94b58f399bd2",
-      "title": "JSCHEN小小狐：OPPO Find X10 系列最新产品线调整曝光",
-      "source": "JSCHEN小小狐",
-      "brand": "OPPO",
-      "model": "OPPO 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-07-20",
-      "time": "04:51",
-      "publishedAt": "2026-07-20T04:51:32.000Z",
-      "url": "https://www.coolapk.com/feed/72859513",
-      "image": "http://image.coolapk.com/feed/2026/0720/12/4702274_a28bb352_3092_0476_746@1440x992.jpg",
-      "summary": "『OPPO Find X10 系列最新产品线调整曝光』 Pro Max： ◇ 6.78\"± 1.5K LIPO 极窄四等边直屏 ◇ 2nm 天玑 9600 Pro 移动平台 ◇ 200Mp HPC + 200Mp 1/1.28'' 潜望 “Pro”（命名待定）： ◇ 6.59\"± 1.5K LIPO 极窄四等边直屏 ◇ 3nm 天玑 9600 Lite（D…",
-      "tags": [
-        "OPPO",
-        "爆料",
-        "酷安博主"
       ]
     },
     {
