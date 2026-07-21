@@ -1,6 +1,126 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-07-21T10:33:25.170Z",
+  "updatedAt": "2026-07-21T14:20:30.633Z",
   "news": [
+    {
+      "id": "auto-f70aa100724e",
+      "title": "iPhone 18 Pro: New display upgrades are coming in two ways",
+      "source": "9to5Mac",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-21",
+      "time": "14:04",
+      "publishedAt": "2026-07-21T14:04:43.000Z",
+      "url": "https://9to5mac.com/2026/07/21/iphone-18-pro-new-display-upgrades-are-coming-in-two-ways/",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/09/iphone-17-pro-max-cosmic-orange-fi-2.jpg?quality=82&strip=all&w=1600",
+      "summary": "iPhone 18 Pro and Pro Max will have the same screen sizes as their predecessors, but rumors indicate their displays will be upgraded in two other ways. Here’s what’s coming.",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-3ce77311d6fa",
+      "title": "竹本青：荣耀与阿莱ARRI达成全球影像战略合作",
+      "source": "竹本青",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-07-21",
+      "time": "12:20",
+      "publishedAt": "2026-07-21T12:20:41.000Z",
+      "url": "https://www.coolapk.com/feed/72879939",
+      "image": "http://image.coolapk.com/feed/2026/0721/20/4248714_42135ef7_6440_2261_365@2142x1186.jpg",
+      "summary": "【荣耀与阿莱 ARRI达成全球影像战略合作】 7月21日，荣耀高管关海涛官宣，荣耀与专业电影工业设备品牌阿莱 ARRI升级合作，成为全球影像战略伙伴。 今年3月，荣耀在MWC 2026全球发布会上，宣布与ARRI 阿莱达成战略技术合作，成果将在荣耀ROBOT PHONE和下一代Magic旗舰上率先落地。 随后5月，荣耀影像实验室正式升级为电影工业影像实验室…",
+      "tags": [
+        "HONOR",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-e3c8b4744c76",
+      "title": "I'm more excited about the Galaxy Z Fold 8 Wide than the Fold 8 Ultra; here's why",
+      "source": "Android Police",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-21",
+      "time": "12:15",
+      "publishedAt": "2026-07-21T12:15:15.000Z",
+      "url": "https://www.androidpolice.com/im-more-excited-galaxy-z-fold-8-wide-than-fold-8-ultra/",
+      "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2026/07/z-fold-8-wide-feature.png",
+      "summary": "Usability > Specs",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-166e011314dd",
+      "title": "More bad news for Apple pricing as TSMC increases chip costs",
+      "source": "9to5Mac",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-21",
+      "time": "11:26",
+      "publishedAt": "2026-07-21T11:26:09.000Z",
+      "url": "https://9to5mac.com/2026/07/21/more-bad-news-for-apple-pricing-as-tsmc-increases-chip-costs/",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/10/a20.jpg?quality=82&strip=all&w=1600",
+      "summary": "Apple has already increased the prices of most of its products very significantly after it said it could no longer absorb far high memory costs. iPhone price rises are also expect…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-665acf8ed11f",
+      "title": "关海涛官宣荣耀与阿莱 ARRI 成为全球影像战略伙伴",
+      "source": "IT之家",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-21",
+      "time": "11:16",
+      "publishedAt": "2026-07-21T11:16:34.000Z",
+      "url": "https://www.ithome.com/0/979/753.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/7/05439c13-9dad-4a04-a25b-5137c78e9d58.png?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 7 月 21 日消息，荣耀全球首席营销官关海涛今日宣布， 荣耀与顶级电影摄影机厂商阿莱 ARRI 成为全球影像战略伙伴 。 据IT之家此前报道，今年 3 月，荣耀在 MWC 2026 全球发布会上， 宣布与顶级电影摄影机厂商 ARRI 阿莱达成战略技术合作 。本次合作将率先在全球首款机器人手机 Robot Phone 中落地，旨在融合荣耀的移动影…",
+      "tags": [
+        "HONOR",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-c48d7527f22a",
+      "title": "Largest ever iPhone screen arriving next year, suggests leaker",
+      "source": "9to5Mac",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-21",
+      "time": "10:52",
+      "publishedAt": "2026-07-21T10:52:04.000Z",
+      "url": "https://9to5mac.com/2026/07/21/largest-ever-iphone-screen-arriving-next-year-suggests-leaker/",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/06/iPhone-20th-anniversary-mockup-ios26-03.jpg?quality=82&strip=all&w=1600",
+      "summary": "Next year could see the introduction of the largest ever iPhone screen, according to a leaker with a decent track record. Supply chain sources indicate Apple is trialing a new dis…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-1a6231e0bd66",
       "title": "Top 5 reasons to buy Huawei Pura 90s Pro Max over other flagships",
@@ -137,66 +257,6 @@ window.phoneRadarAuto = {
       "summary": "The Galaxy Z Fold 7 was a monumental leap, but Samsung can't stop there.",
       "tags": [
         "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-c51356e526a8",
-      "title": "摄影师分享找回手机神奇经历，华为李小龙称部分机型还支持在关机状态下被强制响铃",
-      "source": "IT之家",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-21",
-      "time": "08:37",
-      "publishedAt": "2026-07-21T08:37:14.000Z",
-      "url": "https://www.ithome.com/0/979/659.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/7/f87d5cdb-752f-4f4b-9201-c1a7325c2411.png?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 7 月 21 日消息，中国创意摄影展十佳创意摄影师 @木析 AlexanDENG 昨晚分享了一起自己找回手机的神奇经历，他的 Pura X Max 遗失在了慕尼黑机场，但最终通过离线查找功能找回。 华为终端 BG CTO 李小龙今日转发了该摄影师的经历，并再次介绍了华为手机的查找功能： 依靠华为的查找网络，华为手机在关机，无网络连接的状态下也能支…",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-30d18e358fdf",
-      "title": "捷克政府批准法律草案，拟禁止学生在幼儿园及小学使用手机",
-      "source": "IT之家",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-21",
-      "time": "08:26",
-      "publishedAt": "2026-07-21T08:26:49.000Z",
-      "url": "https://www.ithome.com/0/979/651.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/7/a72306b1-64ab-447f-a7b4-4d7f2bd8a152.jpg?x-bce-process=image/watermark,text_QUnnlJ_miJA,type_RlpMYW5UaW5nSGVpU0JHQg==,size_28,color_ffffffdd,skw_1,skc_00000051,g_7,blr_50,bls_50,x_11,y_11/format,f_auto",
-      "summary": "IT之家 7 月 21 日消息，捷克政府当地时间周一批准了一项法律草案，拟在捷克幼儿园、小学以及部分中学低年级范围内全面禁止学生使用手机等电子通信设备，以提高学生的课堂专注力，并遏制网络霸凌现象。 这份草案由捷克总理安德烈 · 巴比什领导的右翼内阁批准。如果获得议会参众两院通过，相关规定预计将于 2027 年 9 月 1 日正式生效。 根据草案，禁令不仅适…",
-      "tags": [
-        "行业",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-bf1d160ff3b3",
-      "title": "苹果 iPhone 18 Pro / Max 爆料汇总：A20 芯片、可变光圈等",
-      "source": "IT之家",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-21",
-      "time": "07:34",
-      "publishedAt": "2026-07-21T07:34:16.000Z",
-      "url": "https://www.ithome.com/0/979/589.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/7/74506c4d-e186-4f94-a69f-017a553477a5.png?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 7 月 21 日消息，消息源 @Saurav_DJ47 昨日（7 月 20 日）在 X 平台发布推文， 汇总爆料了苹果 iPhone 18 Pro 以及 iPhone 18 Pro Max 两款机型的规格参数。 阵容方面，苹果公司计划在 2026 年 9 月召开的秋季发布会上，推出 iPhone 18 Pro、iPhone 18 Pro Max…",
-      "tags": [
-        "iPhone",
         "爆料",
         "自动抓取"
       ]
@@ -542,26 +602,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-035539b44130",
-      "title": "狗东这手机出BUG了吗？？？3000就能买到",
-      "source": "酷安热榜",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-07-21",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72839563",
-      "image": "",
-      "summary": "狗东这手机出BUG了吗？？？3000就能买到",
-      "tags": [
-        "行业",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
       "id": "newsnow-f808ddff600e",
       "title": "vivo X300s迎来调价：全系涨价300元",
       "source": "酷安热榜",
@@ -577,6 +617,26 @@ window.phoneRadarAuto = {
       "summary": "vivo X300s迎来调价：全系涨价300元",
       "tags": [
         "vivo",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-035539b44130",
+      "title": "狗东这手机出BUG了吗？？？3000就能买到",
+      "source": "酷安热榜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-07-21",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/72839563",
+      "image": "",
+      "summary": "狗东这手机出BUG了吗？？？3000就能买到",
+      "tags": [
+        "行业",
         "爆料",
         "NewsNow"
       ]
@@ -602,6 +662,26 @@ window.phoneRadarAuto = {
       ]
     },
     {
+      "id": "newsnow-719546182537",
+      "title": "iPhone 18 Pro Max 参数爆料：灵动岛缩小/可变光圈主摄",
+      "source": "酷安热榜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-07-21",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/72877653",
+      "image": "",
+      "summary": "iPhone 18 Pro Max 参数爆料：灵动岛缩小/可变光圈主摄",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
       "id": "newsnow-61c01f2d6e2b",
       "title": "消息称小米手机2026全年出货目标上调至1.1亿部",
       "source": "酷安热榜",
@@ -622,22 +702,22 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-b094c0c4d362",
-      "title": "se3当主力机，其他手机全部都卖了",
-      "source": "酷安热榜",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "高关注爆料源",
+      "id": "newsnow-48f9cab2da90",
+      "title": "小米上调全年手机出货目标至 1.1 亿部，增幅约 16%，增量主要来自低端机型，如何看待此举？",
+      "source": "知乎热榜",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "市场报告",
+      "trust": "媒体汇总",
       "date": "2026-07-21",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72861825",
+      "url": "https://www.zhihu.com/question/2062847046097408907",
       "image": "",
-      "summary": "se3当主力机，其他手机全部都卖了",
+      "summary": "小米上调全年手机出货目标至 1.1 亿部，增幅约 16%，增量主要来自低端机型，如何看待此举？",
       "tags": [
-        "行业",
-        "爆料",
+        "Xiaomi",
+        "市场报告",
         "NewsNow"
       ]
     },
