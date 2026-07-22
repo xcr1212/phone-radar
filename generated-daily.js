@@ -1,12 +1,12 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-07-22T10:33:43.426Z",
+  "updatedAt": "2026-07-22T14:21:04.346Z",
   "issueDate": "2026-07-22",
   "issue": "VOL.260722",
   "title": "手机情报日报",
-  "intro": "今日筛出 9 条重点，其中 8 条是重点爆料，包含 9 条 iPhone 相关、0 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 8 条重点，其中 8 条是重点爆料，包含 6 条 iPhone 相关、0 条官方确认、0 条参数线索。",
   "stats": {
-    "total": 9,
-    "iphone": 9,
+    "total": 8,
+    "iphone": 6,
     "leaks": 8,
     "official": 0,
     "specs": 0
@@ -66,6 +66,102 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
+          "id": "auto-be9aad3f856f",
+          "title": "OPPO K15 标准版手机疾速白 / 疾风灰新色外观公布，7 月 24 日开售",
+          "originalTitle": "",
+          "source": "IT之家",
+          "brand": "OPPO",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-07-22",
+          "time": "12:33",
+          "publishedAt": "2026-07-22T12:33:41.000Z",
+          "url": "https://www.ithome.com/0/980/306.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/7/b98e4f0b-5b2e-4d29-bec4-2cf3d290339c.jpg?x-bce-process=image/format,f_auto",
+          "verdict": "先看",
+          "takeaway": "IT之家 7 月 22 日消息，OPPO 官方今日公布了 OPPO K15 标准版手机的两款配色 —— 疾速白和疾风灰的外观。 根据规划，OPPO K15 标准版手机将在 7 月 24 日开售。 新机搭载天玑 7360 Super 芯片、内置 8000mAh 冰川电池 ，售价暂未公布。 另外，OPPO K15 标准版手机还采用金属中框和晶盾玻璃设计，主打手…",
+          "detail": "IT之家 7 月 22 日消息，OPPO 官方今日公布了 OPPO K15 标准版手机的两款配色 —— 疾速白和疾风灰的外观。 根据规划，OPPO K15 标准版手机将在 7 月 24 日开售。 新机搭载天玑 7360 Super 芯片、内置 8000mAh 冰川电池 ，售价暂未公布。 另外，OPPO K15 标准版手机还采用金属中框和晶盾玻璃设计，主打手…",
+          "keyPoints": [
+            "外观 / 配色 / 尺寸",
+            "电池 / 充电",
+            "芯片 / 性能",
+            "成本 / 价格"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "auto-1980a1090da0",
+          "title": "一加预热海外新机 N6x：直角边框配胶囊形相机模组",
+          "originalTitle": "",
+          "source": "IT之家",
+          "brand": "OPPO",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-07-22",
+          "time": "12:07",
+          "publishedAt": "2026-07-22T12:07:20.000Z",
+          "url": "https://www.ithome.com/0/980/297.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/7/1090216f-251e-4325-acd6-bd4bb7099853.jpg?x-bce-process=image/format,f_auto",
+          "verdict": "先看",
+          "takeaway": "IT之家 7 月 22 日消息，上周，一加（OnePlus）预告将在印度推出全新 N 系列智能手机 OnePlus N6x。如今，公司再次发布预热内容，首次展示了这款新机的外观设计和配色方案。 目前，一加尚未公布 OnePlus N6x 在印度市场的正式发布时间。不过，最新预告确认，该机将提供浅蓝色和酒红色两种配色可选。 IT之家注意到，官方发布的预热图片…",
+          "detail": "IT之家 7 月 22 日消息，上周，一加（OnePlus）预告将在印度推出全新 N 系列智能手机 OnePlus N6x。如今，公司再次发布预热内容，首次展示了这款新机的外观设计和配色方案。 目前，一加尚未公布 OnePlus N6x 在印度市场的正式发布时间。不过，最新预告确认，该机将提供浅蓝色和酒红色两种配色可选。 IT之家注意到，官方发布的预热图片…",
+          "keyPoints": [
+            "外观 / 配色 / 尺寸",
+            "影像硬件"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "auto-2d3fd00ec368",
+          "title": "iPhone 18 Pro 发布 / 上市相关消息",
+          "originalTitle": "",
+          "source": "9to5Mac",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-07-22",
+          "time": "11:42",
+          "publishedAt": "2026-07-22T11:42:08.000Z",
+          "url": "https://9to5mac.com/2026/07/22/iphone-18-pro-reportedly-enters-mass-production-ahead-of-september-launch/",
+          "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/iphone-18-pro-pro-max-mockup-di.jpg?quality=82&strip=all&w=1600",
+          "verdict": "先看",
+          "takeaway": "iPhone 有发布或新功能消息，适合确认是否和新机有关。",
+          "detail": "iPhone 18 Pro 发布 / 上市相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "auto-60f78529f726",
+          "title": "iPhone 18 Pro E 芯片 / 性能相关消息",
+          "originalTitle": "",
+          "source": "MacRumors",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-07-22",
+          "time": "11:16",
+          "publishedAt": "2026-07-22T11:16:23.000Z",
+          "url": "https://www.macrumors.com/2026/07/22/iphone-18-pro-enters-mass-production/",
+          "image": "https://images.macrumors.com/article-new/2026/01/Dynamic-Island-iPhone-18-Pro-Feature.jpg",
+          "verdict": "先看",
+          "takeaway": "iPhone 18 Pro E 芯片 / 性能相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
+          "detail": "iPhone 18 Pro E 芯片 / 性能相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
           "id": "auto-87ed3916ac2d",
           "title": "iPhone 17 Pro 影像能力相关消息",
           "originalTitle": "",
@@ -89,151 +185,27 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
-          "id": "auto-dc287af534e9",
-          "title": "iPhone 系统功能 / AI 体验相关消息",
+          "id": "newsnow-4e34b1ec6ec7",
+          "title": "iPhone18系列已量产",
           "originalTitle": "",
-          "source": "MacRumors",
+          "source": "抖音热点",
           "brand": "iPhone",
           "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-07-21",
-          "time": "18:47",
-          "publishedAt": "2026-07-21T18:47:16.000Z",
-          "url": "https://www.macrumors.com/2026/07/21/best-buy-iphone-air-models/",
-          "image": "https://images.macrumors.com/article-new/2025/09/iphone-air-silver.jpg",
-          "verdict": "先看",
-          "takeaway": "iPhone 有系统功能或 AI 体验更新，适合关注后续是否影响日常使用。",
-          "detail": "iPhone 系统功能 / AI 体验相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
-          "keyPoints": [
-            "爆料来源"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "auto-6a2b4ff2b314",
-          "title": "iPhone 芯片 / 性能相关消息",
-          "originalTitle": "",
-          "source": "MacRumors",
-          "brand": "iPhone",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-07-21",
-          "time": "16:26",
-          "publishedAt": "2026-07-21T16:26:03.000Z",
-          "url": "https://www.macrumors.com/2026/07/21/apple-may-wind-down-iphone-upgrade-program/",
-          "image": "https://images.macrumors.com/article-new/2024/11/2024-iPhone-Boxes.jpg",
-          "verdict": "先看",
-          "takeaway": "iPhone 芯片 / 性能相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
-          "detail": "iPhone 芯片 / 性能相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
-          "keyPoints": [
-            "爆料来源"
-          ],
-          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "auto-eb1ebb4b892d",
-          "title": "iPhone 18 系统功能 / AI 体验相关消息",
-          "originalTitle": "",
-          "source": "MacRumors",
-          "brand": "iPhone",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-07-21",
-          "time": "14:32",
-          "publishedAt": "2026-07-21T14:32:19.000Z",
-          "url": "https://www.macrumors.com/2026/07/21/ranked-best-features-rumored-iphone-18/",
-          "image": "https://images.macrumors.com/article-new/2026/07/iPhone-18-Rumor-Check-20-Claims-Ranked-by-Likelihood-Feature.jpg",
-          "verdict": "先看",
-          "takeaway": "iPhone 有系统功能或 AI 体验更新，适合关注后续是否影响日常使用。",
-          "detail": "iPhone 18 系统功能 / AI 体验相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
-          "keyPoints": [
-            "爆料来源"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "auto-f70aa100724e",
-          "title": "iPhone 18 Pro 屏幕规格相关消息",
-          "originalTitle": "",
-          "source": "9to5Mac",
-          "brand": "iPhone",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-07-21",
-          "time": "14:04",
-          "publishedAt": "2026-07-21T14:04:43.000Z",
-          "url": "https://9to5mac.com/2026/07/21/iphone-18-pro-new-display-upgrades-are-coming-in-two-ways/",
-          "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/09/iphone-17-pro-max-cosmic-orange-fi-2.jpg?quality=82&strip=all&w=1600",
-          "verdict": "先看",
-          "takeaway": "iPhone 18 Pro 屏幕规格相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
-          "detail": "iPhone 18 Pro 屏幕规格相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
-          "keyPoints": [
-            "屏幕形态",
-            "爆料来源"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "auto-c48d7527f22a",
-          "title": "iPhone 屏幕规格相关消息",
-          "originalTitle": "",
-          "source": "9to5Mac",
-          "brand": "iPhone",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-07-21",
-          "time": "10:52",
-          "publishedAt": "2026-07-21T10:52:04.000Z",
-          "url": "https://9to5mac.com/2026/07/21/largest-ever-iphone-screen-arriving-next-year-suggests-leaker/",
-          "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/06/iPhone-20th-anniversary-mockup-ios26-03.jpg?quality=82&strip=all&w=1600",
-          "verdict": "先看",
-          "takeaway": "iPhone 屏幕规格相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
-          "detail": "iPhone 屏幕规格相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
-          "keyPoints": [
-            "屏幕形态",
-            "爆料来源"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        }
-      ]
-    },
-    {
-      "id": "iphone",
-      "title": "iPhone 重点",
-      "hint": "不是硬件爆料，但和 iPhone 体验或路线有关。",
-      "items": [
-        {
-          "id": "newsnow-b78731af4e30",
-          "title": "看了一圈，终于知道为什么iPhone高端机销量如此之高了，不是没有原因的。",
-          "originalTitle": "",
-          "source": "酷安热榜",
-          "brand": "iPhone",
-          "type": "爆料",
-          "trust": "高关注爆料源",
+          "trust": "待验证",
           "date": "2026-07-22",
           "time": "",
           "publishedAt": "",
-          "url": "https://www.coolapk.com/feed/72866165",
+          "url": "https://www.douyin.com/hot/2580964",
           "image": "",
           "verdict": "先看",
-          "takeaway": "看了一圈，终于知道为什么iPhone高端机销量如此之高了，不是没有原因的。",
-          "detail": "看了一圈，终于知道为什么iPhone高端机销量如此之高了，不是没有原因的。",
+          "takeaway": "iPhone18系列已量产",
+          "detail": "iPhone18系列已量产",
           "keyPoints": [
-            "爆料"
+            "爆料来源"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         }
       ]
     }
