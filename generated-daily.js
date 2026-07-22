@@ -1,11 +1,11 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-07-21T23:10:45.204Z",
-  "issueDate": "2026-07-21",
-  "issue": "VOL.260721",
+  "updatedAt": "2026-07-22T03:44:49.391Z",
+  "issueDate": "2026-07-22",
+  "issue": "VOL.260722",
   "title": "手机情报日报",
-  "intro": "今日筛出 9 条重点，其中 8 条是重点爆料，包含 9 条 iPhone 相关、0 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 10 条重点，其中 8 条是重点爆料，包含 9 条 iPhone 相关、0 条官方确认、0 条参数线索。",
   "stats": {
-    "total": 9,
+    "total": 10,
     "iphone": 9,
     "leaks": 8,
     "official": 0,
@@ -17,6 +17,30 @@ window.phoneRadarDaily = {
       "title": "重点爆料",
       "hint": "机模、配色、影像、屏幕、电池和芯片线索先看。",
       "items": [
+        {
+          "id": "newsnow-2243dbabd265",
+          "title": "iPhone 18 Pro Max 参数爆料：灵动岛缩小/可变光圈主摄",
+          "originalTitle": "",
+          "source": "酷安热榜",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "高关注爆料源",
+          "date": "2026-07-22",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://www.coolapk.com/feed/72877653",
+          "image": "",
+          "verdict": "先看",
+          "takeaway": "iPhone 18 Pro Max 参数爆料：灵动岛缩小/可变光圈主摄",
+          "detail": "iPhone 18 Pro Max 参数爆料：灵动岛缩小/可变光圈主摄",
+          "keyPoints": [
+            "影像硬件",
+            "爆料来源"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
         {
           "id": "weibo-86e5e436880e",
           "title": "数码闲聊站：一条独家超前瞻信息，苹果正在打样一块超大屏，物理尺寸6.96英寸±，标准尺寸是…",
@@ -42,23 +66,46 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
-          "id": "newsnow-719546182537",
-          "title": "iPhone 18 Pro Max 参数爆料：灵动岛缩小/可变光圈主摄",
+          "id": "auto-87ed3916ac2d",
+          "title": "iPhone 17 Pro 影像能力相关消息",
           "originalTitle": "",
-          "source": "酷安热榜",
+          "source": "9to5Mac",
           "brand": "iPhone",
           "type": "爆料",
-          "trust": "高关注爆料源",
-          "date": "2026-07-21",
+          "trust": "媒体汇总",
+          "date": "2026-07-22",
+          "time": "01:37",
+          "publishedAt": "2026-07-22T01:37:01.000Z",
+          "url": "https://9to5mac.com/2026/07/21/apple-promotes-nido-de-villanas-a-mexican-microdrama-shot-on-iphone-17-pro/",
+          "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/nido-de-villanas.jpg?quality=82&strip=all&w=1600",
+          "verdict": "先看",
+          "takeaway": "iPhone 影像能力相关宣传或案例，主要看是否透露拍摄能力变化。",
+          "detail": "iPhone 17 Pro 影像能力相关消息。重点看影像功能是否和新机硬件有关，如果只是拍摄案例或营销内容，参考价值会低一些。",
+          "keyPoints": [
+            "外观 / 配色 / 尺寸"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "newsnow-8223d3879826",
+          "title": "苹果折叠屏爆料汇总",
+          "originalTitle": "",
+          "source": "抖音热点",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "待验证",
+          "date": "2026-07-22",
           "time": "",
           "publishedAt": "",
-          "url": "https://www.coolapk.com/feed/72877653",
+          "url": "https://www.douyin.com/hot/2580541",
           "image": "",
           "verdict": "先看",
-          "takeaway": "iPhone 18 Pro Max 参数爆料：灵动岛缩小/可变光圈主摄",
-          "detail": "iPhone 18 Pro Max 参数爆料：灵动岛缩小/可变光圈主摄",
+          "takeaway": "苹果折叠屏爆料汇总",
+          "detail": "苹果折叠屏爆料汇总",
           "keyPoints": [
-            "影像硬件",
+            "屏幕形态",
             "爆料来源"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
@@ -157,54 +204,6 @@ window.phoneRadarDaily = {
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "auto-c48d7527f22a",
-          "title": "iPhone 屏幕规格相关消息",
-          "originalTitle": "",
-          "source": "9to5Mac",
-          "brand": "iPhone",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-07-21",
-          "time": "10:52",
-          "publishedAt": "2026-07-21T10:52:04.000Z",
-          "url": "https://9to5mac.com/2026/07/21/largest-ever-iphone-screen-arriving-next-year-suggests-leaker/",
-          "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/06/iPhone-20th-anniversary-mockup-ios26-03.jpg?quality=82&strip=all&w=1600",
-          "verdict": "先看",
-          "takeaway": "iPhone 屏幕规格相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
-          "detail": "iPhone 屏幕规格相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
-          "keyPoints": [
-            "屏幕形态",
-            "爆料来源"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "auto-6797fefe2496",
-          "title": "iPhone 18 Pro 芯片 / 性能相关消息",
-          "originalTitle": "",
-          "source": "9to5Mac",
-          "brand": "iPhone",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-07-20",
-          "time": "20:34",
-          "publishedAt": "2026-07-20T20:34:11.000Z",
-          "url": "https://9to5mac.com/2026/07/20/iphone-18-pros-new-a20-chip-rumored-to-bring-two-major-upgrades/",
-          "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/01/iphone-18-mockup-red.jpg?quality=82&strip=all&w=1600",
-          "verdict": "先看",
-          "takeaway": "iPhone 芯片或连接能力相关线索，可能影响性能和续航判断。",
-          "detail": "iPhone 18 Pro 芯片 / 性能相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
-          "keyPoints": [
-            "芯片 / 性能",
-            "爆料来源"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         }
       ]
     },
@@ -214,27 +213,57 @@ window.phoneRadarDaily = {
       "hint": "不是硬件爆料，但和 iPhone 体验或路线有关。",
       "items": [
         {
-          "id": "auto-13688f7933ea",
-          "title": "2026 年再看 iPhone 8 Plus，它还够用吗？",
+          "id": "newsnow-b78731af4e30",
+          "title": "看了一圈，终于知道为什么iPhone高端机销量如此之高了，不是没有原因的。",
           "originalTitle": "",
-          "source": "少数派",
+          "source": "酷安热榜",
           "brand": "iPhone",
-          "type": "评测",
-          "trust": "媒体汇总",
-          "date": "2026-07-20",
-          "time": "03:00",
-          "publishedAt": "2026-07-20T03:00:00.000Z",
-          "url": "https://sspai.com/post/112425",
+          "type": "爆料",
+          "trust": "高关注爆料源",
+          "date": "2026-07-22",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://www.coolapk.com/feed/72866165",
           "image": "",
           "verdict": "先看",
-          "takeaway": "高考结束后，又有一大批同学开始考虑换新手机啦。在预算差不多的情况下，很多人会纠结是买一台较新的中端机，还是买一台年份更老、但曾经是旗舰级的机型。于是我把 2020 年购入的 iPhone 8 Plus 拿出来当了一星期主力机，看看这台 2017 年发布的手机，放到今天还能不能胜任日常使用。",
-          "detail": "高考结束后，又有一大批同学开始考虑换新手机啦。在预算差不多的情况下，很多人会纠结是买一台较新的中端机，还是买一台年份更老、但曾经是旗舰级的机型。于是我把 2020 年购入的 iPhone 8 Plus 拿出来当了一星期主力机，看看这台 2017 年发布的手机，放到今天还能不能胜任日常使用。",
+          "takeaway": "看了一圈，终于知道为什么iPhone高端机销量如此之高了，不是没有原因的。",
+          "detail": "看了一圈，终于知道为什么iPhone高端机销量如此之高了，不是没有原因的。",
           "keyPoints": [
-            "评测"
+            "爆料"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是实际体验内容，买前适合重点看缺点和取舍。",
-          "action": "中文源可以直接点开快读；看完只保留和购机有关的点。"
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        }
+      ]
+    },
+    {
+      "id": "market",
+      "title": "行业趋势",
+      "hint": "看方向，不急着当购买依据。",
+      "items": [
+        {
+          "id": "newsnow-6f2fd6df83cd",
+          "title": "炒股一天亏几千没啥感觉。酷友们捡漏3000买iPhone 16 Pro，今天自从看到这条消息已经难受了一整天了，到现在都没缓过来，晚上估计又要失眠了。[流泪][流泪][流泪]#OPPOFindX8Ultra# #华为Mate80ProMax# #红米k90promax#",
+          "originalTitle": "",
+          "source": "酷安热榜",
+          "brand": "Huawei",
+          "type": "爆料",
+          "trust": "高关注爆料源",
+          "date": "2026-07-22",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://www.coolapk.com/feed/72864949",
+          "image": "",
+          "verdict": "先看",
+          "takeaway": "炒股一天亏几千没啥感觉。酷友们捡漏3000买iPhone 16 Pro，今天自从看到这条消息已经难受了一整天了，到现在都没缓过来，晚上估计又要失眠了。[流泪][流泪][流泪]#OPPOFindX8Ultra# #华为Mate80ProMax# #红米k90promax#",
+          "detail": "炒股一天亏几千没啥感觉。酷友们捡漏3000买iPhone 16 Pro，今天自从看到这条消息已经难受了一整天了，到现在都没缓过来，晚上估计又要失眠了。[流泪][流泪][流泪]#OPPOFindX8Ultra# #华为Mate80ProMax# #红米k90promax#",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         }
       ]
     }
