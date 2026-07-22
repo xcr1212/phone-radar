@@ -1,6 +1,46 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-07-22T21:34:46.009Z",
+  "updatedAt": "2026-07-22T23:15:00.529Z",
   "news": [
+    {
+      "id": "auto-85aa283f3ad4",
+      "title": "Galaxy Z Fold 8, Fold 8 Ultra have a new, stronger display protection",
+      "source": "SamMobile",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-22",
+      "time": "23:00",
+      "publishedAt": "2026-07-22T23:00:00.000Z",
+      "url": "https://www.sammobile.com/news/galaxy-z-fold-8-fold-8-ultra-have-new-stronger-display-protection/",
+      "image": "",
+      "summary": "Samsung has just launched its new flagship smartphones with book-style foldable displays, the Galaxy Z Fold 8 Ultra and the Galaxy Z Fold 8. Both models bring several upgrades ove…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-c4aa932f952a",
+      "title": "Galaxy Z Fold 8 goes official as iPhone Ultra competitor with improved crease, anti-reflective display",
+      "source": "Gizmochina",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-22",
+      "time": "22:27",
+      "publishedAt": "2026-07-22T22:27:40.000Z",
+      "url": "https://www.gizmochina.com/2026/07/22/galaxy-z-fold-8-goes-official-as-iphone-ultra-competitor-with-improved-crease-anti-reflective-display/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/07/Screenshot_20260722_231820-300x169.jpg?x92417",
+      "summary": "At yesterday’s Unpacked event, Samsung unveiled the Galaxy Z Fold8 alongside the Galaxy Z Fold8 Ultra, with the standard model offering a noticeably fresher take on the book-style…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-d51f3d4b624c",
       "title": "Samsung Galaxy Z Fold8 Ultra, Fold8 and Flip8: Foldables, Perfected for Every Way of Living",
@@ -18,6 +58,26 @@ window.phoneRadarAuto = {
       "tags": [
         "Samsung",
         "官方",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-21fce3ed71a6",
+      "title": "Every feature that makes Galaxy Z Fold 8 Ultra feel more ‘Ultra’",
+      "source": "SamMobile",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-22",
+      "time": "22:00",
+      "publishedAt": "2026-07-22T22:00:00.000Z",
+      "url": "https://www.sammobile.com/news/galaxy-z-fold-8-ultra-features-feel-more-ultra/",
+      "image": "",
+      "summary": "The Galaxy Z Fold 8 Ultra is Samsung's first Ultra-branded foldable smartphone. While Samsung brought major design and camera upgrades with the Galaxy Z Fold 7, the Galaxy Z Fold…",
+      "tags": [
+        "Samsung",
+        "爆料",
         "自动抓取"
       ]
     },
@@ -95,26 +155,6 @@ window.phoneRadarAuto = {
       "url": "https://www.sammobile.com/news/at-4-1-mm-unfolded-galaxy-z-fold-8-ultra-samsungs-thinnest-z-fold-ever/",
       "image": "https://www.sammobile.com/wp-content/uploads/2026/07/1-Galaxy-Z-Fold-8-Ultra-frame-cream-graphite-1920x1079.jpg",
       "summary": "Samsung’s first book-style foldable smartphone, the Galaxy Z Fold, was significantly thicker than traditional smartphones of its time, making its bulky design one of the device’s…",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-3e91f4c44eb3",
-      "title": "Galaxy Z Fold 8 Ultra launches with anti-reflective display, reduced crease, 5000mAh Si/C battery, Snapdragon 8 Elite Gen 5 chip",
-      "source": "Gizmochina",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-22",
-      "time": "20:14",
-      "publishedAt": "2026-07-22T20:14:44.000Z",
-      "url": "https://www.gizmochina.com/2026/07/22/galaxy-z-fold-8-ultra-launches-with-anti-reflective-display-reduced-crease-5000mah-si-c-battery-snapdragon-8-elite-gen-5-chip/",
-      "image": "https://www.gizmochina.com/wp-content/uploads/2026/07/Screenshot_20260722_222749-300x169.jpg?x92417",
-      "summary": "Samsung just unveiled its first-ever Ultra-branded book-style foldable. It aims to be the ultimate productivity machine that fits in your pocket. The “Ultra” name has sparked some…",
       "tags": [
         "Samsung",
         "爆料",
@@ -315,26 +355,6 @@ window.phoneRadarAuto = {
       "url": "https://www.huaweicentral.com/samsung-continues-compact-foldable-trend-with-galaxy-z-flip-8/",
       "image": "https://www.huaweicentral.com/wp-content/uploads/2026/07/GalaxyZFlip8-img.jpg",
       "summary": "While the foldable phone market is somewhat seeing off compact and vertical designs, Samsung has launched the Galaxy Z Flip 8. This time, the company has focused on a larger exter…",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-534eddc0072b",
-      "title": "AT&T offers you a Samsung Galaxy Z Fold 8 for free",
-      "source": "SamMobile",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-22",
-      "time": "18:25",
-      "publishedAt": "2026-07-22T18:25:10.000Z",
-      "url": "https://www.sammobile.com/news/att-offers-you-a-samsung-galaxy-z-fold-8-for-free/",
-      "image": "",
-      "summary": "AT&T has unveiled its pre-order offers for Samsung's latest foldables, with both new and existing customers able to save on the entire lineup. The Galaxy Z Fold 8, Galaxy Z Fold 8…",
       "tags": [
         "Samsung",
         "爆料",
@@ -1482,8 +1502,8 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-46e695eb950f",
-      "title": "I was fully prepared to hate Samsung's new wider Galaxy Z Fold 8, but after testing it with the new Galaxy Z Fold 8 Ultra, I've completely changed my tune",
+      "id": "auto-4cd8a8905c71",
+      "title": "The Galaxy Z Fold 8 is official, and it changes what Samsung's foldable lineup looks like",
       "source": "Android Central",
       "brand": "Samsung",
       "model": "Samsung 相关机型",
@@ -1492,9 +1512,9 @@ window.phoneRadarAuto = {
       "date": "2026-07-22",
       "time": "13:00",
       "publishedAt": "2026-07-22T13:00:00.000Z",
-      "url": "https://www.androidcentral.com/phones/samsung-galaxy/samsung-galaxy-z-fold-8-series-hands-on",
-      "image": "https://cdn.mos.cms.futurecdn.net/Yc8CwBgcRkjCYQ8L7PMEgF-1280-80.jpg",
-      "summary": "Samsung unveiled not one but two new Galaxy Z Fold 8 models, and they're meant to target different users, thanks to a shorter and wider design on the base model. They might be ont…",
+      "url": "https://www.androidcentral.com/phones/samsung-galaxy/samsung-galaxy-z-fold-8-official",
+      "image": "https://cdn.mos.cms.futurecdn.net/Fhtq49jLc5MJPnsQsrPVoK-1280-80.jpg",
+      "summary": "Samsung's book-style foldable lineup gets a new shape, and it's not the one carrying the Fold name you'd expect.",
       "tags": [
         "Samsung",
         "评测",
@@ -1542,8 +1562,8 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-4cd8a8905c71",
-      "title": "The Galaxy Z Fold 8 is official, and it changes what Samsung's foldable lineup looks like",
+      "id": "auto-46e695eb950f",
+      "title": "I was fully prepared to hate Samsung's new wider Galaxy Z Fold 8, but after testing it with the new Galaxy Z Fold 8 Ultra, I've completely changed my tune",
       "source": "Android Central",
       "brand": "Samsung",
       "model": "Samsung 相关机型",
@@ -1552,9 +1572,9 @@ window.phoneRadarAuto = {
       "date": "2026-07-22",
       "time": "13:00",
       "publishedAt": "2026-07-22T13:00:00.000Z",
-      "url": "https://www.androidcentral.com/phones/samsung-galaxy/samsung-galaxy-z-fold-8-official",
-      "image": "https://cdn.mos.cms.futurecdn.net/Fhtq49jLc5MJPnsQsrPVoK-1280-80.jpg",
-      "summary": "Samsung's book-style foldable lineup gets a new shape, and it's not the one carrying the Fold name you'd expect.",
+      "url": "https://www.androidcentral.com/phones/samsung-galaxy/samsung-galaxy-z-fold-8-series-hands-on",
+      "image": "https://cdn.mos.cms.futurecdn.net/Yc8CwBgcRkjCYQ8L7PMEgF-1280-80.jpg",
+      "summary": "Samsung unveiled not one but two new Galaxy Z Fold 8 models, and they're meant to target different users, thanks to a shorter and wider design on the base model. They might be ont…",
       "tags": [
         "Samsung",
         "评测",
@@ -2142,26 +2162,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-2243dbabd265",
-      "title": "iPhone 18 Pro Max 参数爆料：灵动岛缩小/可变光圈主摄",
-      "source": "酷安热榜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-07-22",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72877653",
-      "image": "",
-      "summary": "iPhone 18 Pro Max 参数爆料：灵动岛缩小/可变光圈主摄",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
       "id": "newsnow-48cbb4ecdb6a",
       "title": "酷友们有没有出现手机边框被手机壳划伤的情况，我服了[流泪]",
       "source": "酷安热榜",
@@ -2182,6 +2182,26 @@ window.phoneRadarAuto = {
       ]
     },
     {
+      "id": "newsnow-2243dbabd265",
+      "title": "iPhone 18 Pro Max 参数爆料：灵动岛缩小/可变光圈主摄",
+      "source": "酷安热榜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-07-22",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/72877653",
+      "image": "",
+      "summary": "iPhone 18 Pro Max 参数爆料：灵动岛缩小/可变光圈主摄",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
       "id": "newsnow-40cbccd3ec23",
       "title": "三星推出 Galaxy Z Filp8：8999元起",
       "source": "酷安热榜",
@@ -2195,26 +2215,6 @@ window.phoneRadarAuto = {
       "url": "https://www.coolapk.com/feed/72895279",
       "image": "",
       "summary": "三星推出 Galaxy Z Filp8：8999元起",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-bd67afb6cf50",
-      "title": "三星阔折叠手机发布",
-      "source": "微博热搜",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "待验证",
-      "date": "2026-07-22",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://s.weibo.com/weibo?q=%23%E4%B8%89%E6%98%9F%E9%98%94%E6%8A%98%E5%8F%A0%E6%89%8B%E6%9C%BA%E5%8F%91%E5%B8%83%23&t=31&band_rank=28&Refer=top",
-      "image": "",
-      "summary": "三星阔折叠手机发布",
       "tags": [
         "Samsung",
         "爆料",
@@ -2342,26 +2342,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-dc287af534e9",
-      "title": "Best Buy Offers $160 Off All iPhone Air Models During Black Friday in July",
-      "source": "MacRumors",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-21",
-      "time": "18:47",
-      "publishedAt": "2026-07-21T18:47:16.000Z",
-      "url": "https://www.macrumors.com/2026/07/21/best-buy-iphone-air-models/",
-      "image": "https://images.macrumors.com/article-new/2025/09/iphone-air-silver.jpg",
-      "summary": "Best Buy today is offering customers a chance to get $160 off every model of the iPhone Air during its Black Friday in July event. Note: MacRumors is an affiliate partner with Bes…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-29c502c705f8",
       "title": "Apple winding down iPhone Upgrade Program: report",
       "source": "9to5Mac",
@@ -2397,6 +2377,26 @@ window.phoneRadarAuto = {
       "summary": "Official teasers are catching up to the leaks.",
       "tags": [
         "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-f70aa100724e",
+      "title": "iPhone 18 Pro: New display upgrades are coming in two ways",
+      "source": "9to5Mac",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-21",
+      "time": "14:04",
+      "publishedAt": "2026-07-21T14:04:43.000Z",
+      "url": "https://9to5mac.com/2026/07/21/iphone-18-pro-new-display-upgrades-are-coming-in-two-ways/",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/09/iphone-17-pro-max-cosmic-orange-fi-2.jpg?quality=82&strip=all&w=1600",
+      "summary": "iPhone 18 Pro and Pro Max will have the same screen sizes as their predecessors, but rumors indicate their displays will be upgraded in two other ways. Here’s what’s coming.",
+      "tags": [
+        "iPhone",
         "爆料",
         "自动抓取"
       ]
