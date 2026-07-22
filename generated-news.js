@@ -1,6 +1,166 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-07-22T03:44:49.391Z",
+  "updatedAt": "2026-07-22T06:41:41.188Z",
   "news": [
+    {
+      "id": "auto-5a8c450c6c17",
+      "title": "消息称 OPPO、vivo 拒绝三星电子 2026Q3 存储报价",
+      "source": "IT之家",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-22",
+      "time": "06:40",
+      "publishedAt": "2026-07-22T06:40:31.000Z",
+      "url": "https://www.ithome.com/0/980/022.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/7/38486f09-9064-4f99-b977-783fa88e6876.jpg?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 7 月 22 日消息，界面新闻昨日援引行业人士消息称， OPPO 与 vivo 在前不久拒绝了三星电子的 2026 年第 3 季度存储报价 。这份报价相较今年 Q1、Q2 的价格涨幅有限。 总的来说，智能手机等下游产线制造商开始出现对存储半导体价格的明显抵制情绪，不愿再为屡创新高的存储成本买单。 不过从短期来看，即使下游品牌选择放缓存储器库存补充…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-4e290424d033",
+      "title": "苹果 iPhone 18 Pro 系列已量产：目前处于产能爬坡阶段，富士康迎来招工高峰",
+      "source": "IT之家",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-22",
+      "time": "06:19",
+      "publishedAt": "2026-07-22T06:19:45.000Z",
+      "url": "https://www.ithome.com/0/980/017.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/7/fcfa7d35-6178-4c2a-84c9-97b4cec9484d.png",
+      "summary": "IT之家 7 月 22 日消息，据中国证券报，苹果 iPhone 18 系列手机已于本月进入量产阶段（结合此前爆料，今年下半年只有 Pro 系列 + 折叠屏 iPhone，iPhone 18 基础版将于明年发布），目前正处于产能提升阶段。 与此同时，郑州富士康已进入招工高峰期，以满足后续生产需求。IT之家查询郑州富工联招聘官微得悉，郑州富士康港区 A 事业…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-03d3a690e19c",
+      "title": "北京推出公众个人手机直连卫星应急通信保障机制：0 元月费，无需换卡换号",
+      "source": "IT之家",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-22",
+      "time": "06:12",
+      "publishedAt": "2026-07-22T06:12:52.000Z",
+      "url": "https://www.ithome.com/0/980/015.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/7/50e6329a-7705-4057-8040-c48a1ecedf16.png",
+      "summary": "IT之家 7 月 22 日消息，“北京应急”公众号 21 日发文宣布，为满足 没有地面网络情况下的通信需求 ，提升极端灾害发生时公众求救能力，北京市应急管理局联合中国电信北京分公司推出 公众个人手机直连卫星 应急通信保障机制。 手机直连卫星是依托 我国自主建设的“天通一号”卫星移动通信系统 ，无需依赖地面 4G、5G 基站，在无地面网络覆盖的受灾区域、山区…",
+      "tags": [
+        "行业",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-4ead5dd8c5fd",
+      "title": "联手阿莱 ARRI：荣耀影像技术发布会定档 7 月 28 日",
+      "source": "IT之家",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-22",
+      "time": "06:11",
+      "publishedAt": "2026-07-22T06:11:37.000Z",
+      "url": "https://www.ithome.com/0/980/014.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/7/b497b0d4-4a8c-4aa5-8b82-97fc36ffe10b.png",
+      "summary": "IT之家 7 月 22 日消息，荣耀官方今日宣布，荣耀影像技术发布会将于 7 月 28 日在浙江横店举行。荣耀表示，本次发布会将携手阿莱展示其在移动影像领域的新技术成果。 荣耀称，公司将联合全球电影工业设备厂商阿莱（ARRI），依托“芯 - 端 - 云”全域自研智能影像系统，将电影机拍摄、记录、监看以及后期制作等环节融入手机影像工作流。 荣耀表示，此次合作…",
+      "tags": [
+        "HONOR",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-fa748c67e461",
+      "title": "竹本青：荣耀影像技术发布会定档7月28日",
+      "source": "竹本青",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-07-22",
+      "time": "06:05",
+      "publishedAt": "2026-07-22T06:05:12.000Z",
+      "url": "https://www.coolapk.com/feed/72889141",
+      "image": "http://image.coolapk.com/feed/2026/0722/14/4248714_91b6073e_0310_8452_67@3360x1890.jpg",
+      "summary": "【荣耀影像技术发布会定档7月28日】 荣耀首席影像工程师 罗巍 今天宣布，荣耀影像技术发布会将在7月28日横店举行。 据此前介绍，荣耀将携手阿莱（ARRI），首次将电影机拍摄、记录、监看、后期的全链路工作流，融入手机影像创作体系，将电影级创作标准装入移动终端。 现场嘉宾可首次体验荣耀Robot Phone电影级拍摄，直观感受掌上电影机。 #今日热点# #M…",
+      "tags": [
+        "HONOR",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-ba93c6e2c710",
+      "title": "Don’t expect Realme GT 9 and Neo 9 series phones this year",
+      "source": "Gizmochina",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-22",
+      "time": "06:04",
+      "publishedAt": "2026-07-22T06:04:12.000Z",
+      "url": "https://www.gizmochina.com/2026/07/22/realme-gt-9-neo-9-series-not-launching-china-strategy/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/07/Realme-banner-300x200.png?x92417",
+      "summary": "Recent developments have brought major changes to Oppo’s smartphone strategy. After confirming that OnePlus will stop launching new products in Europe and North America while cont…",
+      "tags": [
+        "OPPO",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-114352e3116b",
+      "title": "三星 Galaxy Z Fold8 阔折叠手机及包装曝光",
+      "source": "IT之家",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-22",
+      "time": "03:57",
+      "publishedAt": "2026-07-22T03:57:48.000Z",
+      "url": "https://www.ithome.com/0/979/978.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/7/306be661-350c-4865-a45e-3b9bde5f542d.png?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 7 月 22 日消息，在 Galaxy Unpacked 发布会正式召开之前， 三星官方再次预热 Galaxy Z Fold8 折叠手机，展示了新机轮廓。 在预热图片中，男团防弹少年团成员郑号锡（艺名 j-hope）拿着一部被阴影部分遮挡的手机，从轮廓来看应该是三星 Galaxy Z Fold8 阔折叠手机。 在本次预热前，网络上曾流出一段视频，…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-5a9e098009c9",
+      "title": "Omdia 数据：印度智能手机出货量 2026Q2 同比下降 13% 至 3390 万部",
+      "source": "IT之家",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-22",
+      "time": "03:55",
+      "publishedAt": "2026-07-22T03:55:36.000Z",
+      "url": "https://www.ithome.com/0/979/974.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/7/0948f0b2-6805-42a9-a57d-d1a94eb5ae4e.jpg",
+      "summary": "IT之家 7 月 22 日消息，Omdia 英国当地时间 21 日表示， 印度智能手机出货量在 2026 年第 2 季度出现 13% 同比下滑 ，降至 3390 万部。这也是 近三年最为严重的单季度同比降幅 。 ▲ 图源：Omdia 机构认为 这一局面是存储器成本上升推高整机定价与宏观经济逆风共同作用的结果 。节庆促销季前换机需求延迟、印度卢比贬值、通货膨…",
+      "tags": [
+        "行业",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "weibo-cec446ccae6b",
       "title": "数码闲聊站：独家信息：阔直板手机尺寸6.3\"-6.4\"±，极窄四等边1.5K LTPO，内…",
@@ -42,26 +202,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "coolapk-user-43dd6127824b",
-      "title": "竹本青：OPPO Find X9 Ultra 成为首款通过UFCS 1.2认证手机",
-      "source": "竹本青",
-      "brand": "OPPO",
-      "model": "OPPO 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-07-22",
-      "time": "01:39",
-      "publishedAt": "2026-07-22T01:39:11.000Z",
-      "url": "https://www.coolapk.com/feed/72885695",
-      "image": "http://image.coolapk.com/feed/2026/0722/09/4248714_d568d0de_4350_0246_430@1074x478.jpg",
-      "summary": "【OPPO Find X9 Ultra 成为首款通过UFCS 1.2认证手机】 据广东省终端快充行业协会消息，近日，OPPO Find X9 Ultra手机成功通过融合快速充电功能认证，获得了首张UFCS 1.2认证证书，证书编号 为0302647330125R0L-UFCS00250。 该产品已通过符合性认证加兼容性测试，并已获得UFCS商标授权。 #O…",
-      "tags": [
-        "OPPO",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
       "id": "auto-87ed3916ac2d",
       "title": "Apple promotes ‘Nido de Villanas,’ a Mexican microdrama shot on iPhone 17 Pro",
       "source": "9to5Mac",
@@ -79,26 +219,6 @@ window.phoneRadarAuto = {
         "iPhone",
         "爆料",
         "自动抓取"
-      ]
-    },
-    {
-      "id": "coolapk-user-d49dd7258544",
-      "title": "竹本青：华为中端新机曝光：万级容量电池，8系处理器",
-      "source": "竹本青",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-07-22",
-      "time": "01:29",
-      "publishedAt": "2026-07-22T01:29:54.000Z",
-      "url": "https://www.coolapk.com/feed/72885585",
-      "image": "http://image.coolapk.com/feed/2026/0722/09/4248714_eeaac4e7_3793_6538_879@1439x389.jpg",
-      "summary": "【华为中端新机曝光：1.5K LTPS大直屏，万级容量电池，8系处理器】 7月22日，数码闲聊站爆料某厂中端新机，根据评论区网友猜测，预计归属华为畅享系列： ● 6.84\"1.5K LTPS直屏 ● 麒麟8系处理器 ● 10000mAh级电池 ● 50Mp影像 该博主此前爆料，华为畅享90 Pro Max 上市3个多月，单品已激活310W+；同时，畅享新品…",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "酷安博主"
       ]
     },
     {
@@ -282,26 +402,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-b78731af4e30",
-      "title": "看了一圈，终于知道为什么iPhone高端机销量如此之高了，不是没有原因的。",
-      "source": "酷安热榜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-07-22",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72866165",
-      "image": "",
-      "summary": "看了一圈，终于知道为什么iPhone高端机销量如此之高了，不是没有原因的。",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
       "id": "newsnow-8a72c62542b2",
       "title": "se3当主力机，其他手机全部都卖了",
       "source": "酷安热榜",
@@ -322,19 +422,79 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-8d31ec329712",
-      "title": "可能是网上吹的人太多让我对这手机期望过高，实际用起来感觉就是三四千价位的正常水平，并没有啥越级。",
+      "id": "newsnow-b78731af4e30",
+      "title": "看了一圈，终于知道为什么iPhone高端机销量如此之高了，不是没有原因的。",
       "source": "酷安热榜",
-      "brand": "行业",
-      "model": "智能手机市场",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-07-22",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72864529",
+      "url": "https://www.coolapk.com/feed/72866165",
       "image": "",
-      "summary": "可能是网上吹的人太多让我对这手机期望过高，实际用起来感觉就是三四千价位的正常水平，并没有啥越级。",
+      "summary": "看了一圈，终于知道为什么iPhone高端机销量如此之高了，不是没有原因的。",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-97875511e6fa",
+      "title": "苹果拟推出月租iPhone",
+      "source": "微博热搜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "待验证",
+      "date": "2026-07-22",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E6%8B%9F%E6%8E%A8%E5%87%BA%E6%9C%88%E7%A7%9FiPhone%23&t=31&band_rank=10&Refer=top",
+      "image": "",
+      "summary": "苹果拟推出月租iPhone",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-4f157abd5ebf",
+      "title": "曝iPhone18Pro涨价成定局",
+      "source": "微博热搜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "待验证",
+      "date": "2026-07-22",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://s.weibo.com/weibo?q=%23%E6%9B%9DiPhone18Pro%E6%B6%A8%E4%BB%B7%E6%88%90%E5%AE%9A%E5%B1%80%23&t=31&band_rank=16&Refer=top",
+      "image": "",
+      "summary": "曝iPhone18Pro涨价成定局",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-000628b90758",
+      "title": "妻子发现丈夫手机亮屏 6万瞬间被盗",
+      "source": "百度热搜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-22",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.baidu.com/s?wd=%E5%A6%BB%E5%AD%90%E5%8F%91%E7%8E%B0%E4%B8%88%E5%A4%AB%E6%89%8B%E6%9C%BA%E4%BA%AE%E5%B1%8F+6%E4%B8%87%E7%9E%AC%E9%97%B4%E8%A2%AB%E7%9B%97",
+      "image": "",
+      "summary": "妻子发现丈夫手机亮屏 6万瞬间被盗",
       "tags": [
         "行业",
         "爆料",
@@ -342,19 +502,19 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-2ea525d491da",
-      "title": "如何防止手机被大数据监听",
-      "source": "微博热搜",
+      "id": "newsnow-63b37022dfd1",
+      "title": "大衣哥仍在用诺基亚按键手机",
+      "source": "百度热搜",
       "brand": "行业",
       "model": "智能手机市场",
       "type": "爆料",
-      "trust": "待验证",
+      "trust": "媒体汇总",
       "date": "2026-07-22",
       "time": "",
       "publishedAt": "",
-      "url": "https://s.weibo.com/weibo?q=%23%E5%A6%82%E4%BD%95%E9%98%B2%E6%AD%A2%E6%89%8B%E6%9C%BA%E8%A2%AB%E5%A4%A7%E6%95%B0%E6%8D%AE%E7%9B%91%E5%90%AC%23&t=31&band_rank=10&Refer=top",
+      "url": "https://www.baidu.com/s?wd=%E5%A4%A7%E8%A1%A3%E5%93%A5%E4%BB%8D%E5%9C%A8%E7%94%A8%E8%AF%BA%E5%9F%BA%E4%BA%9A%E6%8C%89%E9%94%AE%E6%89%8B%E6%9C%BA",
       "image": "",
-      "summary": "如何防止手机被大数据监听",
+      "summary": "大衣哥仍在用诺基亚按键手机",
       "tags": [
         "行业",
         "爆料",
@@ -377,46 +537,6 @@ window.phoneRadarAuto = {
       "summary": "这些充电习惯正悄悄缩短手机寿命",
       "tags": [
         "行业",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-041944636559",
-      "title": "“非洲手机之王”涨价 销量下滑",
-      "source": "百度热搜",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-22",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.baidu.com/s?wd=%E2%80%9C%E9%9D%9E%E6%B4%B2%E6%89%8B%E6%9C%BA%E4%B9%8B%E7%8E%8B%E2%80%9D%E6%B6%A8%E4%BB%B7+%E9%94%80%E9%87%8F%E4%B8%8B%E6%BB%91",
-      "image": "",
-      "summary": "“非洲手机之王”涨价 销量下滑",
-      "tags": [
-        "行业",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-8223d3879826",
-      "title": "苹果折叠屏爆料汇总",
-      "source": "抖音热点",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "待验证",
-      "date": "2026-07-22",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.douyin.com/hot/2580541",
-      "image": "",
-      "summary": "苹果折叠屏爆料汇总",
-      "tags": [
-        "iPhone",
         "爆料",
         "NewsNow"
       ]
@@ -897,26 +1017,6 @@ window.phoneRadarAuto = {
       "summary": "Back in June, the first details of the iQOO 16T emerged. At that time, the leak revealed that it would be a large-screen device. Now, a new leak courtesy of tipster Digital Chat S…",
       "tags": [
         "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-df2aaf21499f",
-      "title": "Huawei Mate XT 2 tri-fold may adopt Tao Law-based Kirin chip",
-      "source": "Huawei Central",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-21",
-      "time": "03:04",
-      "publishedAt": "2026-07-21T03:04:28.000Z",
-      "url": "https://www.huaweicentral.com/huawei-mate-xt-2-tri-fold-may-adopt-tao-law-based-kirin-chip/",
-      "image": "https://www.huaweicentral.com/wp-content/uploads/2026/04/Mate-XT1.jpg",
-      "summary": "Mate 90 series was expected to be the first Huawei phone with a Tau Scaling Law-based Kirin chip, but it looks like the company will also use this solution for the Mate XT 2. A ne…",
-      "tags": [
-        "Huawei",
         "爆料",
         "自动抓取"
       ]

@@ -1,11 +1,11 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-07-22T03:44:49.391Z",
+  "updatedAt": "2026-07-22T06:41:41.188Z",
   "issueDate": "2026-07-22",
   "issue": "VOL.260722",
   "title": "手机情报日报",
-  "intro": "今日筛出 10 条重点，其中 8 条是重点爆料，包含 9 条 iPhone 相关、0 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 9 条重点，其中 8 条是重点爆料，包含 9 条 iPhone 相关、0 条官方确认、0 条参数线索。",
   "stats": {
-    "total": 10,
+    "total": 9,
     "iphone": 9,
     "leaks": 8,
     "official": 0,
@@ -17,6 +17,30 @@ window.phoneRadarDaily = {
       "title": "重点爆料",
       "hint": "机模、配色、影像、屏幕、电池和芯片线索先看。",
       "items": [
+        {
+          "id": "auto-4e290424d033",
+          "title": "苹果 iPhone 18 Pro 系列已量产：目前处于产能爬坡阶段，富士康迎来招工高峰",
+          "originalTitle": "",
+          "source": "IT之家",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-07-22",
+          "time": "06:19",
+          "publishedAt": "2026-07-22T06:19:45.000Z",
+          "url": "https://www.ithome.com/0/980/017.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/7/fcfa7d35-6178-4c2a-84c9-97b4cec9484d.png",
+          "verdict": "先看",
+          "takeaway": "IT之家 7 月 22 日消息，据中国证券报，苹果 iPhone 18 系列手机已于本月进入量产阶段（结合此前爆料，今年下半年只有 Pro 系列 + 折叠屏 iPhone，iPhone 18 基础版将于明年发布），目前正处于产能提升阶段。 与此同时，郑州富士康已进入招工高峰期，以满足后续生产需求。IT之家查询郑州富工联招聘官微得悉，郑州富士康港区 A 事业…",
+          "detail": "IT之家 7 月 22 日消息，据中国证券报，苹果 iPhone 18 系列手机已于本月进入量产阶段（结合此前爆料，今年下半年只有 Pro 系列 + 折叠屏 iPhone，iPhone 18 基础版将于明年发布），目前正处于产能提升阶段。 与此同时，郑州富士康已进入招工高峰期，以满足后续生产需求。IT之家查询郑州富工联招聘官微得悉，郑州富士康港区 A 事业…",
+          "keyPoints": [
+            "屏幕形态",
+            "爆料来源"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
         {
           "id": "newsnow-2243dbabd265",
           "title": "iPhone 18 Pro Max 参数爆料：灵动岛缩小/可变光圈主摄",
@@ -83,30 +107,6 @@ window.phoneRadarDaily = {
           "detail": "iPhone 17 Pro 影像能力相关消息。重点看影像功能是否和新机硬件有关，如果只是拍摄案例或营销内容，参考价值会低一些。",
           "keyPoints": [
             "外观 / 配色 / 尺寸"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "newsnow-8223d3879826",
-          "title": "苹果折叠屏爆料汇总",
-          "originalTitle": "",
-          "source": "抖音热点",
-          "brand": "iPhone",
-          "type": "爆料",
-          "trust": "待验证",
-          "date": "2026-07-22",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://www.douyin.com/hot/2580541",
-          "image": "",
-          "verdict": "先看",
-          "takeaway": "苹果折叠屏爆料汇总",
-          "detail": "苹果折叠屏爆料汇总",
-          "keyPoints": [
-            "屏幕形态",
-            "爆料来源"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
@@ -228,36 +228,6 @@ window.phoneRadarDaily = {
           "verdict": "先看",
           "takeaway": "看了一圈，终于知道为什么iPhone高端机销量如此之高了，不是没有原因的。",
           "detail": "看了一圈，终于知道为什么iPhone高端机销量如此之高了，不是没有原因的。",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        }
-      ]
-    },
-    {
-      "id": "market",
-      "title": "行业趋势",
-      "hint": "看方向，不急着当购买依据。",
-      "items": [
-        {
-          "id": "newsnow-6f2fd6df83cd",
-          "title": "炒股一天亏几千没啥感觉。酷友们捡漏3000买iPhone 16 Pro，今天自从看到这条消息已经难受了一整天了，到现在都没缓过来，晚上估计又要失眠了。[流泪][流泪][流泪]#OPPOFindX8Ultra# #华为Mate80ProMax# #红米k90promax#",
-          "originalTitle": "",
-          "source": "酷安热榜",
-          "brand": "Huawei",
-          "type": "爆料",
-          "trust": "高关注爆料源",
-          "date": "2026-07-22",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://www.coolapk.com/feed/72864949",
-          "image": "",
-          "verdict": "先看",
-          "takeaway": "炒股一天亏几千没啥感觉。酷友们捡漏3000买iPhone 16 Pro，今天自从看到这条消息已经难受了一整天了，到现在都没缓过来，晚上估计又要失眠了。[流泪][流泪][流泪]#OPPOFindX8Ultra# #华为Mate80ProMax# #红米k90promax#",
-          "detail": "炒股一天亏几千没啥感觉。酷友们捡漏3000买iPhone 16 Pro，今天自从看到这条消息已经难受了一整天了，到现在都没缓过来，晚上估计又要失眠了。[流泪][流泪][流泪]#OPPOFindX8Ultra# #华为Mate80ProMax# #红米k90promax#",
           "keyPoints": [
             "爆料"
           ],
