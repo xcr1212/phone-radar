@@ -1,5 +1,5 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-07-22T19:42:31.408Z",
+  "updatedAt": "2026-07-22T21:34:46.009Z",
   "news": [
     {
       "id": "auto-d51f3d4b624c",
@@ -18,6 +18,146 @@ window.phoneRadarAuto = {
       "tags": [
         "Samsung",
         "官方",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-6a929cf05c44",
+      "title": "Samsung Galaxy Z Fold 8 Ultra hands-on",
+      "source": "SamMobile",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-22",
+      "time": "21:14",
+      "publishedAt": "2026-07-22T21:14:00.000Z",
+      "url": "https://www.sammobile.com/samsung/galaxy-z-fold-8-ultra/hands-on/",
+      "image": "https://www.sammobile.com/wp-content/uploads/2026/07/1-Galaxy-Z-Fold-8-Ultra-design-1920x1079.jpg",
+      "summary": "Samsung has expanded its foldable lineup this year by introducing the Galaxy Z Fold 8 Ultra. While the new “Ultra” branding suggests a major leap over previous Fold models, the re…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-8168a4d1ab8c",
+      "title": "Samsung Galaxy Z Fold 8 hands-on",
+      "source": "SamMobile",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-22",
+      "time": "21:08",
+      "publishedAt": "2026-07-22T21:08:00.000Z",
+      "url": "https://www.sammobile.com/samsung/galaxy-z-fold-8/hands-on/",
+      "image": "https://www.sammobile.com/wp-content/uploads/2026/07/1-Galaxy-Z-Fold-8-cover-screen-1920x1079.jpg",
+      "summary": "Today, Samsung unveiled the Galaxy Z Fold 8 alongside the Galaxy Z Fold 8 Ultra and Galaxy Z Flip 8. While the Ultra remains the company's flagship foldable, the standard Fold 8 i…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-518ba4a1944c",
+      "title": "Every Pixel 11 color just leaked, and one looks particularly eye-catching",
+      "source": "Android Authority",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-22",
+      "time": "20:31",
+      "publishedAt": "2026-07-22T20:31:10.000Z",
+      "url": "https://www.androidauthority.com/every-pixel-11-color-leak-3690377/",
+      "image": "",
+      "summary": "The full Pixel 11 palette is finally coming into focus.",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-ab75b3653fb5",
+      "title": "At 4.1mm unfolded, the Galaxy Z Fold 8 Ultra is Samsung’s thinnest Z Fold ever",
+      "source": "SamMobile",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-22",
+      "time": "20:30",
+      "publishedAt": "2026-07-22T20:30:00.000Z",
+      "url": "https://www.sammobile.com/news/at-4-1-mm-unfolded-galaxy-z-fold-8-ultra-samsungs-thinnest-z-fold-ever/",
+      "image": "https://www.sammobile.com/wp-content/uploads/2026/07/1-Galaxy-Z-Fold-8-Ultra-frame-cream-graphite-1920x1079.jpg",
+      "summary": "Samsung’s first book-style foldable smartphone, the Galaxy Z Fold, was significantly thicker than traditional smartphones of its time, making its bulky design one of the device’s…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-3e91f4c44eb3",
+      "title": "Galaxy Z Fold 8 Ultra launches with anti-reflective display, reduced crease, 5000mAh Si/C battery, Snapdragon 8 Elite Gen 5 chip",
+      "source": "Gizmochina",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-22",
+      "time": "20:14",
+      "publishedAt": "2026-07-22T20:14:44.000Z",
+      "url": "https://www.gizmochina.com/2026/07/22/galaxy-z-fold-8-ultra-launches-with-anti-reflective-display-reduced-crease-5000mah-si-c-battery-snapdragon-8-elite-gen-5-chip/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/07/Screenshot_20260722_222749-300x169.jpg?x92417",
+      "summary": "Samsung just unveiled its first-ever Ultra-branded book-style foldable. It aims to be the ultimate productivity machine that fits in your pocket. The “Ultra” name has sparked some…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-90064a92b1b2",
+      "title": "Galaxy Z Flip 8 finally cares about cover screen apps, but just barely",
+      "source": "9to5Google",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-22",
+      "time": "20:10",
+      "publishedAt": "2026-07-22T20:10:00.000Z",
+      "url": "https://9to5google.com/2026/07/22/samsung-galaxy-z-flip-8-cover-screen-app-improvements/",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/07/galaxy-z-flip-8-16.jpg?quality=82&strip=all&w=1600",
+      "summary": "If there’s one thing that annoys me about the Galaxy Z Flip series, it’s that the cover screen has been left just a notch or two above useless for years now, and for no good reaso…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-ee05884c5872",
+      "title": "Galaxy Z Fold 8 US prices are official, here’s what you’ll pay",
+      "source": "SamMobile",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-22",
+      "time": "20:02",
+      "publishedAt": "2026-07-22T20:02:54.000Z",
+      "url": "https://www.sammobile.com/news/galaxy-z-fold-8-usa-prices-official-here-is-what-you-will-pay/",
+      "image": "",
+      "summary": "Samsung's new, widebody Galaxy Z Fold 8 is available for pre-order in the US and will go on sale in a couple of weeks. Here are the official pricing details. The Galaxy Z Fold 8 i…",
+      "tags": [
+        "Samsung",
+        "爆料",
         "自动抓取"
       ]
     },
@@ -242,26 +382,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-0c3d50ae4a06",
-      "title": "Sorry US buyers, no free storage perk on Galaxy Z Fold 8 pre-orders",
-      "source": "SamMobile",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-22",
-      "time": "17:36",
-      "publishedAt": "2026-07-22T17:36:46.000Z",
-      "url": "https://www.sammobile.com/news/sorry-us-buyers-no-free-storage-perk-on-galaxy-z-fold-8-pre-orders/",
-      "image": "",
-      "summary": "Not only are Samsung's newest foldable phones more expensive than their predecessors, but they miss out on a longstanding pre-order perk that the company has previously offered. I…",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-0f6641639a63",
       "title": "Samsung launches Huawei Pura X Max’s rival – wide Galaxy Z Fold 8",
       "source": "Huawei Central",
@@ -277,26 +397,6 @@ window.phoneRadarAuto = {
       "summary": "Samsung launched the Galaxy Z Fold 8 “Wide” foldable as a strong opponent to its Chinese rival – Huawei Pura X Max. Unlike the previous-generation phones with a simpler book-style…",
       "tags": [
         "Huawei",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-4a802c34c9ea",
-      "title": "Galaxy Z Fold 8 and Z Flip 8 unboxing videos answer your burning questions",
-      "source": "SamMobile",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-22",
-      "time": "17:24",
-      "publishedAt": "2026-07-22T17:24:27.000Z",
-      "url": "https://www.sammobile.com/news/galaxy-z-fold-8-and-z-flip-8-unboxing-videos-answer-your-burning-questions/",
-      "image": "",
-      "summary": "Are you curious as to what comes inside the box of Samsung's latest foldable phones? Remain curious no longer, because Samsung has posted the official unboxing videos for the Gala…",
-      "tags": [
-        "Samsung",
         "爆料",
         "自动抓取"
       ]
@@ -735,26 +835,6 @@ window.phoneRadarAuto = {
       "url": "https://9to5google.com/2026/07/22/samsung-galaxy-z-fold-8-anti-reflective-display/",
       "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/07/galaxy-z-fold-8-ultra-anti-reflective-1.jpg?quality=82&strip=all&w=1600",
       "summary": "Looking back on the past few years of foldables, one of the biggest things I’ve felt Samsung’s entrants have been missing has been an anti-reflective display on the inside. Finall…",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-1d1634659af7",
-      "title": "T-Mobile is going all out by knocking $1,900 off the Samsung Galaxy Z Fold 8 and Z Fold 8 Ultra",
-      "source": "Android Police",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-22",
-      "time": "13:44",
-      "publishedAt": "2026-07-22T13:44:56.000Z",
-      "url": "https://www.androidpolice.com/t-mobile-knocking-1900-off-the-samsung-galaxy-z-fold-8-and-z-fold-8-ultra/",
-      "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2026/07/samsung-galaxy-z-fold-8-ultra-flip-range.JPG",
-      "summary": "A great way to save on Samsung's latest",
       "tags": [
         "Samsung",
         "爆料",
@@ -1522,26 +1602,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-dbedb1aec8c3",
-      "title": "Samsung’s newest foldable finally feels Ultra",
-      "source": "The Verge",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-22",
-      "time": "12:30",
-      "publishedAt": "2026-07-22T12:30:21.000Z",
-      "url": "https://www.theverge.com/gadgets/968200/samsung-galaxy-z-fold-8-ultra-announced-hands-on-photos",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/samsung-galaxy-z-fold-8-ultra-05.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "summary": "While we wait for Apple's rumored foldable iPhone, Samsung is polishing a design it already has on the market. I just spent three hours with my hands on the new Z Fold 8 Ultra, an…",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-1980a1090da0",
       "title": "一加预热海外新机 N6x：直角边框配胶囊形相机模组",
       "source": "IT之家",
@@ -1699,26 +1759,6 @@ window.phoneRadarAuto = {
         "Xiaomi",
         "爆料",
         "酷安博主"
-      ]
-    },
-    {
-      "id": "auto-72f08f730f55",
-      "title": "荣耀 MagicOS 10 系统 7 月版本最后一批机型预计今晚 9 点推送升级，覆盖 Magic5/6 等系列",
-      "source": "IT之家",
-      "brand": "HONOR",
-      "model": "HONOR 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-22",
-      "time": "09:41",
-      "publishedAt": "2026-07-22T09:41:47.000Z",
-      "url": "https://www.ithome.com/0/980/210.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2024/1/0f25ec8b-8db4-4cc0-8cac-41456a5ae86f.jpg?x-bce-process=image/resize,w_1210,h_807/auto-orient,o_1",
-      "summary": "IT之家 7 月 22 日消息，荣耀产品维护与升级 @荣耀小芳哥 今日发布推送预告，宣布 MagicOS 10 系统的 7 月更新版本最后一批机型正在做最后的测试冲刺， 预计今晚 9 点推送版本 。 ▲ IT之家开箱：荣耀 Magic6 系列图赏 本次更新覆盖的机型如下： 荣耀 Magic V3、荣耀 Magic Vs3、荣耀 Magic V2 系列、荣耀…",
-      "tags": [
-        "HONOR",
-        "爆料",
-        "自动抓取"
       ]
     },
     {
@@ -2162,7 +2202,7 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-c0147545d0c8",
+      "id": "newsnow-bd67afb6cf50",
       "title": "三星阔折叠手机发布",
       "source": "微博热搜",
       "brand": "Samsung",
@@ -2172,7 +2212,7 @@ window.phoneRadarAuto = {
       "date": "2026-07-22",
       "time": "",
       "publishedAt": "",
-      "url": "https://s.weibo.com/weibo?q=%23%E4%B8%89%E6%98%9F%E9%98%94%E6%8A%98%E5%8F%A0%E6%89%8B%E6%9C%BA%E5%8F%91%E5%B8%83%23&t=31&band_rank=26&Refer=top",
+      "url": "https://s.weibo.com/weibo?q=%23%E4%B8%89%E6%98%9F%E9%98%94%E6%8A%98%E5%8F%A0%E6%89%8B%E6%9C%BA%E5%8F%91%E5%B8%83%23&t=31&band_rank=28&Refer=top",
       "image": "",
       "summary": "三星阔折叠手机发布",
       "tags": [
@@ -2357,46 +2397,6 @@ window.phoneRadarAuto = {
       "summary": "Official teasers are catching up to the leaks.",
       "tags": [
         "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-f70aa100724e",
-      "title": "iPhone 18 Pro: New display upgrades are coming in two ways",
-      "source": "9to5Mac",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-21",
-      "time": "14:04",
-      "publishedAt": "2026-07-21T14:04:43.000Z",
-      "url": "https://9to5mac.com/2026/07/21/iphone-18-pro-new-display-upgrades-are-coming-in-two-ways/",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/09/iphone-17-pro-max-cosmic-orange-fi-2.jpg?quality=82&strip=all&w=1600",
-      "summary": "iPhone 18 Pro and Pro Max will have the same screen sizes as their predecessors, but rumors indicate their displays will be upgraded in two other ways. Here’s what’s coming.",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-166e011314dd",
-      "title": "More bad news for Apple pricing as TSMC increases chip costs",
-      "source": "9to5Mac",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-21",
-      "time": "11:26",
-      "publishedAt": "2026-07-21T11:26:09.000Z",
-      "url": "https://9to5mac.com/2026/07/21/more-bad-news-for-apple-pricing-as-tsmc-increases-chip-costs/",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/10/a20.jpg?quality=82&strip=all&w=1600",
-      "summary": "Apple has already increased the prices of most of its products very significantly after it said it could no longer absorb far high memory costs. iPhone price rises are also expect…",
-      "tags": [
-        "iPhone",
         "爆料",
         "自动抓取"
       ]
