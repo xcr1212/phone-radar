@@ -1,6 +1,26 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-07-23T21:20:35.015Z",
+  "updatedAt": "2026-07-23T23:10:39.457Z",
   "news": [
+    {
+      "id": "auto-a138685604ae",
+      "title": "苹果首款折叠手机 iPhone Ultra 发布日期尚不明朗，消息称富士康正调整产线",
+      "source": "IT之家",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-23",
+      "time": "22:59",
+      "publishedAt": "2026-07-23T22:59:52.000Z",
+      "url": "https://www.ithome.com/0/980/880.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/7/a3beb0e7-1e24-43ff-8a03-6144930e7e40.jpg",
+      "summary": "IT之家 7 月 24 日消息，行业媒体 Digitimes 昨日（7 月 23 日）发布博文，报道称 苹果首款折叠手机（上市后预估名为 iPhone Ultra）最终发布时间仍未明朗。 IT之家注：关于这款折叠手机的上市日期，目前爆料消息众说纷纭。有消息称由于因产品组装复杂、良率较低等原因延期发售；还有消息称富士康已启动大规模招工， 苹果首款折叠屏 iP…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-e810be10c74e",
       "title": "Samsung made the Galaxy Z Fold 8 a worse deal for those who actually want to switch",
@@ -482,26 +502,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-21dbe02e7651",
-      "title": "A year later, I think the Pixel 10 Pro gets too much hate",
-      "source": "Android Police",
-      "brand": "Pixel",
-      "model": "Pixel 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-23",
-      "time": "12:00",
-      "publishedAt": "2026-07-23T12:00:15.000Z",
-      "url": "https://www.androidpolice.com/one-year-later-i-love-the-pixel-10-pro/",
-      "image": "",
-      "summary": "The Pixel 10 Pro aged better than expected",
-      "tags": [
-        "Pixel",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-665e773056f8",
       "title": "Huawei Mate 90 Pro Max could use Mate 80 RS zoom camera",
       "source": "Huawei Central",
@@ -555,66 +555,6 @@ window.phoneRadarAuto = {
       "url": "https://www.huaweicentral.com/honor-trolls-galaxy-z-fold-8-ultra/",
       "image": "https://www.huaweicentral.com/wp-content/uploads/2026/07/battery-img.jpg",
       "summary": "Samsung has just unveiled its eighth generation of foldable smartphones, and without wasting any time, Honor began trolling the Samsung Galaxy Z Fold 8 Ultra by calling its own Ma…",
-      "tags": [
-        "HONOR",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-d90d9dcd4ad2",
-      "title": "卢泰文“间接回应”苹果 iPhone Ultra：三星深耕折叠屏手机领域 7 年，对手短期难追赶",
-      "source": "IT之家",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-23",
-      "time": "11:07",
-      "publishedAt": "2026-07-23T11:07:17.000Z",
-      "url": "https://www.ithome.com/0/980/810.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/7/404db000-dc65-4998-9779-0039ffa2a1b0.png",
-      "summary": "IT之家 7 月 23 日消息，据韩媒 ChosunBiz 今天（23 日）报道，三星电子设备体验（DX）部门负责人兼社长卢泰文在 2026 年三星 Galaxy 全球新品发布会后受访表示：“折叠屏手机无论在技术还是市场层面 都已进入成熟期 。越来越多企业加入竞争，说明折叠屏手机已经成为主流产品。” 苹果预计将在 9 月随 iPhone 18 系列发布首款…",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-6ec36a9c5771",
-      "title": "谷歌现在允许用户通过自拍视频登录账号",
-      "source": "IT之家",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-23",
-      "time": "10:48",
-      "publishedAt": "2026-07-23T10:48:47.000Z",
-      "url": "https://www.ithome.com/0/980/806.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/7/003a6fa8-6de1-445c-ab7c-0dd489c21360.jpg?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 7 月 23 日消息，谷歌正在推出一种新的账号登录和恢复方式，当用户无法使用传统找回方式时，可以通过自拍视频验证身份重新登录账号。这项名为“自拍视频（Selfie Video）”的新功能允许用户提前录制一段简短的视频，在之后需要恢复账号访问权限时，用于身份验证。 谷歌表示，这项功能是一种备用的账号恢复方式，并不会取代现有的恢复手机号、恢复邮箱、P…",
-      "tags": [
-        "行业",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-ce39dafbfa19",
-      "title": "荣耀 Magic V6 折叠屏手机开启 MagicOS 11 先锋招募",
-      "source": "IT之家",
-      "brand": "HONOR",
-      "model": "HONOR 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-23",
-      "time": "10:35",
-      "publishedAt": "2026-07-23T10:35:47.000Z",
-      "url": "https://www.ithome.com/0/980/803.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/3/61d9b8db-ea4b-4159-b1ab-29ca709734fa.jpg?x-bce-process=image/auto-orient,o_1",
-      "summary": "IT之家 7 月 23 日消息，荣耀官方今日宣布，MagicOS 11 液态玻璃尝鲜版开启了先锋二期招募， 本次新增招募 荣耀 Magic V6 折叠屏手机 。同时增推先锋一期 Magic8 系列的满分报名用户，将与 V6 同步推送（ 点此报名 ）。 ▲ IT之家开箱：荣耀 Magic V6 “赤兔红”实拍 招募时间： 2026 年 7 月 23 日 ~7…",
       "tags": [
         "HONOR",
         "爆料",
@@ -2242,26 +2182,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-677babfcf631",
-      "title": "Samsung's new foldables just got one of the biggest battery upgrades in years",
-      "source": "Android Central",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "评测",
-      "trust": "媒体汇总",
-      "date": "2026-07-22",
-      "time": "13:00",
-      "publishedAt": "2026-07-22T13:00:00.000Z",
-      "url": "https://www.androidcentral.com/phones/samsung-galaxy/samsungs-new-foldables-just-got-one-of-the-biggest-battery-upgrades-in-years",
-      "image": "https://cdn.mos.cms.futurecdn.net/GDQiMMaXu8dfHz8fgGPas5-1280-80.jpg",
-      "summary": "Samsung's Galaxy Z8 series marks the company's first smartphones to adopt silicon-carbon battery technology.",
-      "tags": [
-        "Samsung",
-        "评测",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-b4991d445b1f",
       "title": "I tried the Galaxy Z Flip 8, and Samsung finally gave the cover screen the upgrade it deserves! Well... almost",
       "source": "Android Central",
@@ -2275,6 +2195,26 @@ window.phoneRadarAuto = {
       "url": "https://www.androidcentral.com/phones/samsung-galaxy/samsung-galaxy-z-flip-8-hands-on",
       "image": "https://cdn.mos.cms.futurecdn.net/wncGoxjQmVoDfQdUNAhJjM-1280-80.jpg",
       "summary": "The new Galaxy Z Flip 8 is a refined Z Flip 7 with a new battery and an upgraded cover screen experience, but is it enough to save the Flip line?",
+      "tags": [
+        "Samsung",
+        "评测",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-677babfcf631",
+      "title": "Samsung's new foldables just got one of the biggest battery upgrades in years",
+      "source": "Android Central",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-07-22",
+      "time": "13:00",
+      "publishedAt": "2026-07-22T13:00:00.000Z",
+      "url": "https://www.androidcentral.com/phones/samsung-galaxy/samsungs-new-foldables-just-got-one-of-the-biggest-battery-upgrades-in-years",
+      "image": "https://cdn.mos.cms.futurecdn.net/GDQiMMaXu8dfHz8fgGPas5-1280-80.jpg",
+      "summary": "Samsung's Galaxy Z8 series marks the company's first smartphones to adopt silicon-carbon battery technology.",
       "tags": [
         "Samsung",
         "评测",
@@ -2397,6 +2337,46 @@ window.phoneRadarAuto = {
       "summary": "Recent developments have brought major changes to Oppo’s smartphone strategy. After confirming that OnePlus will stop launching new products in Europe and North America while cont…",
       "tags": [
         "OPPO",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-87ed3916ac2d",
+      "title": "Apple promotes ‘Nido de Villanas,’ a Mexican microdrama shot on iPhone 17 Pro",
+      "source": "9to5Mac",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-22",
+      "time": "01:37",
+      "publishedAt": "2026-07-22T01:37:01.000Z",
+      "url": "https://9to5mac.com/2026/07/21/apple-promotes-nido-de-villanas-a-mexican-microdrama-shot-on-iphone-17-pro/",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/nido-de-villanas.jpg?quality=82&strip=all&w=1600",
+      "summary": "Apple has shared a first look at Nido de Villanas, a tongue-in-cheek Mexican microdrama shot entirely on an iPhone 17 Pro, which is now available as 14 Shorts on YouTube.",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-c2dea1a8c583",
+      "title": "Google Pixel 11 Series Roundup: Here’s Everything You Need To Know",
+      "source": "Gizmochina",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-22",
+      "time": "00:31",
+      "publishedAt": "2026-07-22T00:31:42.000Z",
+      "url": "https://www.gizmochina.com/2026/07/22/google-pixel-11-series-roundup-everything-you-need-to-know/",
+      "image": "",
+      "summary": "Google is getting ready to announce its next generation of smartphones. The company has scheduled its Made by Google hardware event for August 12 in New York City, with an Indian…",
+      "tags": [
+        "Pixel",
         "爆料",
         "自动抓取"
       ]

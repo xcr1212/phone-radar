@@ -1,12 +1,12 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-07-23T21:20:35.015Z",
+  "updatedAt": "2026-07-23T23:10:39.457Z",
   "issueDate": "2026-07-23",
   "issue": "VOL.260723",
   "title": "手机情报日报",
-  "intro": "今日筛出 8 条重点，其中 8 条是重点爆料，包含 4 条 iPhone 相关、0 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 8 条重点，其中 8 条是重点爆料，包含 6 条 iPhone 相关、0 条官方确认、0 条参数线索。",
   "stats": {
     "total": 8,
-    "iphone": 4,
+    "iphone": 6,
     "leaks": 8,
     "official": 0,
     "specs": 0
@@ -17,6 +17,30 @@ window.phoneRadarDaily = {
       "title": "重点爆料",
       "hint": "机模、配色、影像、屏幕、电池和芯片线索先看。",
       "items": [
+        {
+          "id": "auto-a138685604ae",
+          "title": "苹果首款折叠手机 iPhone Ultra 发布日期尚不明朗，消息称富士康正调整产线",
+          "originalTitle": "",
+          "source": "IT之家",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-07-23",
+          "time": "22:59",
+          "publishedAt": "2026-07-23T22:59:52.000Z",
+          "url": "https://www.ithome.com/0/980/880.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/7/a3beb0e7-1e24-43ff-8a03-6144930e7e40.jpg",
+          "verdict": "先看",
+          "takeaway": "IT之家 7 月 24 日消息，行业媒体 Digitimes 昨日（7 月 23 日）发布博文，报道称 苹果首款折叠手机（上市后预估名为 iPhone Ultra）最终发布时间仍未明朗。 IT之家注：关于这款折叠手机的上市日期，目前爆料消息众说纷纭。有消息称由于因产品组装复杂、良率较低等原因延期发售；还有消息称富士康已启动大规模招工， 苹果首款折叠屏 iP…",
+          "detail": "IT之家 7 月 24 日消息，行业媒体 Digitimes 昨日（7 月 23 日）发布博文，报道称 苹果首款折叠手机（上市后预估名为 iPhone Ultra）最终发布时间仍未明朗。 IT之家注：关于这款折叠手机的上市日期，目前爆料消息众说纷纭。有消息称由于因产品组装复杂、良率较低等原因延期发售；还有消息称富士康已启动大规模招工， 苹果首款折叠屏 iP…",
+          "keyPoints": [
+            "屏幕形态",
+            "爆料来源"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
         {
           "id": "newsnow-5919e1478fbf",
           "title": "兄弟们苹果这个售后态度这么好的吗？？[吃瓜]今天对象收了一个带care服务的17pm，所以给沈阳中街的苹果 Store打电话，想咨询一下苹果care的相关问题[微笑]，我撒谎说我骑自行车手机飞出去屏幕坏了，想问一下走care服务换屏幕需要什么？",
@@ -110,6 +134,29 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
+          "id": "auto-87ed3916ac2d",
+          "title": "iPhone 17 Pro 影像能力相关消息",
+          "originalTitle": "",
+          "source": "9to5Mac",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-07-22",
+          "time": "01:37",
+          "publishedAt": "2026-07-22T01:37:01.000Z",
+          "url": "https://9to5mac.com/2026/07/21/apple-promotes-nido-de-villanas-a-mexican-microdrama-shot-on-iphone-17-pro/",
+          "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/nido-de-villanas.jpg?quality=82&strip=all&w=1600",
+          "verdict": "先看",
+          "takeaway": "iPhone 影像能力相关宣传或案例，主要看是否透露拍摄能力变化。",
+          "detail": "iPhone 17 Pro 影像能力相关消息。重点看影像功能是否和新机硬件有关，如果只是拍摄案例或营销内容，参考价值会低一些。",
+          "keyPoints": [
+            "外观 / 配色 / 尺寸"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
           "id": "coolapk-user-3f57763a7391",
           "title": "JSCHEN小小狐：iQOO Neo11S 曝光：暂定 8 月前后 / 3K 价位",
           "originalTitle": "",
@@ -131,52 +178,6 @@ window.phoneRadarDaily = {
             "电池 / 充电"
           ],
           "confidence": "可信度较高，但仍属于发布前线索。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "auto-d90d9dcd4ad2",
-          "title": "卢泰文“间接回应”苹果 iPhone Ultra：三星深耕折叠屏手机领域 7 年，对手短期难追赶",
-          "originalTitle": "",
-          "source": "IT之家",
-          "brand": "Samsung",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-07-23",
-          "time": "11:07",
-          "publishedAt": "2026-07-23T11:07:17.000Z",
-          "url": "https://www.ithome.com/0/980/810.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/7/404db000-dc65-4998-9779-0039ffa2a1b0.png",
-          "verdict": "先看",
-          "takeaway": "IT之家 7 月 23 日消息，据韩媒 ChosunBiz 今天（23 日）报道，三星电子设备体验（DX）部门负责人兼社长卢泰文在 2026 年三星 Galaxy 全球新品发布会后受访表示：“折叠屏手机无论在技术还是市场层面 都已进入成熟期 。越来越多企业加入竞争，说明折叠屏手机已经成为主流产品。” 苹果预计将在 9 月随 iPhone 18 系列发布首款…",
-          "detail": "IT之家 7 月 23 日消息，据韩媒 ChosunBiz 今天（23 日）报道，三星电子设备体验（DX）部门负责人兼社长卢泰文在 2026 年三星 Galaxy 全球新品发布会后受访表示：“折叠屏手机无论在技术还是市场层面 都已进入成熟期 。越来越多企业加入竞争，说明折叠屏手机已经成为主流产品。” 苹果预计将在 9 月随 iPhone 18 系列发布首款…",
-          "keyPoints": [
-            "屏幕形态"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "auto-ce39dafbfa19",
-          "title": "荣耀 Magic V6 折叠屏手机开启 MagicOS 11 先锋招募",
-          "originalTitle": "",
-          "source": "IT之家",
-          "brand": "HONOR",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-07-23",
-          "time": "10:35",
-          "publishedAt": "2026-07-23T10:35:47.000Z",
-          "url": "https://www.ithome.com/0/980/803.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/3/61d9b8db-ea4b-4159-b1ab-29ca709734fa.jpg?x-bce-process=image/auto-orient,o_1",
-          "verdict": "先看",
-          "takeaway": "IT之家 7 月 23 日消息，荣耀官方今日宣布，MagicOS 11 液态玻璃尝鲜版开启了先锋二期招募， 本次新增招募 荣耀 Magic V6 折叠屏手机 。同时增推先锋一期 Magic8 系列的满分报名用户，将与 V6 同步推送（ 点此报名 ）。 ▲ IT之家开箱：荣耀 Magic V6 “赤兔红”实拍 招募时间： 2026 年 7 月 23 日 ~7…",
-          "detail": "IT之家 7 月 23 日消息，荣耀官方今日宣布，MagicOS 11 液态玻璃尝鲜版开启了先锋二期招募， 本次新增招募 荣耀 Magic V6 折叠屏手机 。同时增推先锋一期 Magic8 系列的满分报名用户，将与 V6 同步推送（ 点此报名 ）。 ▲ IT之家开箱：荣耀 Magic V6 “赤兔红”实拍 招募时间： 2026 年 7 月 23 日 ~7…",
-          "keyPoints": [
-            "屏幕形态"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
