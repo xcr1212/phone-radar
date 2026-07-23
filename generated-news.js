@@ -1,6 +1,126 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-07-23T17:44:56.454Z",
+  "updatedAt": "2026-07-23T19:44:43.826Z",
   "news": [
+    {
+      "id": "auto-0751d2b9e823",
+      "title": "That’s about as close as we’ll ever get to a ‘Google Pixel Flip’",
+      "source": "9to5Google",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-23",
+      "time": "19:30",
+      "publishedAt": "2026-07-23T19:30:00.000Z",
+      "url": "https://9to5google.com/2026/07/23/thats-about-as-close-as-well-ever-get-to-a-google-pixel-flip/",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/07/galaxy-z-flip-8-15.jpg?quality=82&strip=all&w=1600",
+      "summary": "The “Google Pixel Flip” isn’t happening. That much is clear, but Samsung’s new changes to the Galaxy Z Flip 8 more or less feel like what Google would have done.",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-e919763d1d33",
+      "title": "Honor's Magic V6 goes against Samsung's Galaxy Z Fold 8: this is how it fares",
+      "source": "Android Central",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-07-23",
+      "time": "19:17",
+      "publishedAt": "2026-07-23T19:17:37.000Z",
+      "url": "https://www.androidcentral.com/phones/honor-phones/honors-magic-v6-goes-against-samsungs-galaxy-z-fold-8-this-is-how-it-fares",
+      "image": "https://cdn.mos.cms.futurecdn.net/tPKkKrub424jbLVWhs4Sh6-1280-80.jpg",
+      "summary": "Honor puts its Magic V6 against Samsung's Galaxy Z Fold 8 Ultra a day after the major Galaxy Unpacked reveals.",
+      "tags": [
+        "HONOR",
+        "评测",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-54920801e1fd",
+      "title": "The hidden Galaxy Z Flip 8 price hike Samsung hoped you wouldn’t notice",
+      "source": "SamMobile",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-23",
+      "time": "18:27",
+      "publishedAt": "2026-07-23T18:27:27.000Z",
+      "url": "https://www.sammobile.com/news/the-hidden-galaxy-z-flip-8-price-hike-samsung-hoped-you-wouldnt-notice/",
+      "image": "",
+      "summary": "The Galaxy Z Flip 8 is more expensive compared to its predecessor. Price has gone up by $100 in the United States but there's also a hidden price hike that you may not have notice…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-eb1cfa5cc1df",
+      "title": "The Galaxy S27’s primary camera might shake things up for Samsung",
+      "source": "Android Authority",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-23",
+      "time": "18:10",
+      "publishedAt": "2026-07-23T18:10:51.000Z",
+      "url": "https://www.androidauthority.com/samsung-galaxy-s27-camera-rumors-3690787/",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2026/03/samsung-galaxy-s26-base-review-camera-sensors-scaled.jpg",
+      "summary": "Samsung might use a Sony sensor for the S27's primary camera.",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-34fc5e955aec",
+      "title": "Does the Galaxy Z Fold 8 have Flex mode?",
+      "source": "SamMobile",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-23",
+      "time": "18:08",
+      "publishedAt": "2026-07-23T18:08:11.000Z",
+      "url": "https://www.sammobile.com/news/looking-for-flex-mode-on-the-galaxy-z-fold-8-dont-bother/",
+      "image": "",
+      "summary": "Flex Mode has been a longstanding feature on Samsung's foldable phones since it was introduced with the Galaxy Z Flip back in 2020. When unfolded, you could have the display open…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-598c50dedba5",
+      "title": "Best iPhones to trade-in for a Galaxy Z Fold 8 in the US",
+      "source": "SamMobile",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-23",
+      "time": "17:54",
+      "publishedAt": "2026-07-23T17:54:12.000Z",
+      "url": "https://www.sammobile.com/news/best-iphones-to-trade-in-for-a-galaxy-z-fold-8-in-the-us/",
+      "image": "",
+      "summary": "Samsung started taking pre-orders for the Galaxy Z Fold 8 yesterday. Prices start at $1,899 and there are plenty of devices that you can trade-in when buying from Samsung online t…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-fc71ac68c9b5",
       "title": "First day after Galaxy Unpacked, I’m already over the Z Fold 8 Ultra",
@@ -442,46 +562,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-21183bfdda5c",
-      "title": "Samsung’s pop-up store in London lets you explore Galaxy Z Flip 8 and Z Fold 8",
-      "source": "SamMobile",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-23",
-      "time": "10:22",
-      "publishedAt": "2026-07-23T10:22:57.000Z",
-      "url": "https://www.sammobile.com/news/samsung-pop-up-store-london-galaxy-z-flip-fold-8-ultra/",
-      "image": "https://www.sammobile.com/wp-content/uploads/2026/07/Samsung-Opens-Pop-Up-Store-in-Londons-Covent-Garden-To-Let-People-Explore-Galaxy-Z-Fold-8-Ultra-Galaxy-Z-Fold-8-Galaxy-Z-Flip-8-1920x1081.jpg",
-      "summary": "Samsung recently announced its new flagship foldable phones, the Galaxy Z Fold 8 Ultra, Galaxy Z Fold 8, and the Galaxy Z Flip 8. Now, for people in London, the company has opened…",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-c8804c50feba",
-      "title": "Lowest Galaxy Z Fold 8 and Z Flip 8 prices are still in Samsung’s backyard",
-      "source": "SamMobile",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-23",
-      "time": "10:13",
-      "publishedAt": "2026-07-23T10:13:19.000Z",
-      "url": "https://www.sammobile.com/news/lowest-galaxy-z-fold-8-and-z-flip-8-prices-are-still-in-samsungs-backyard/",
-      "image": "",
-      "summary": "Samsung has implemented price hikes for the Galaxy Z Fold 8, Galaxy Z Fold 8 Ultra, and the Galaxy Z Flip 8 across all markets expect one: South Korea. The company has continued t…",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-cd68c17b3621",
       "title": "If the Galaxy Z Flip 8 really is Samsung’s last model, the foldable world is in trouble",
       "source": "Android Authority",
@@ -517,26 +597,6 @@ window.phoneRadarAuto = {
       "summary": "It reminds me of the Nord 5.",
       "tags": [
         "OPPO",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-473d6f90ab26",
-      "title": "TM Roh makes it clear Samsung isn’t scared of Apple’s foldable iPhone",
-      "source": "SamMobile",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-23",
-      "time": "09:46",
-      "publishedAt": "2026-07-23T09:46:30.000Z",
-      "url": "https://www.sammobile.com/news/tm-roh-makes-it-clear-samsung-isnt-scared-of-apples-foldable-iphone/",
-      "image": "",
-      "summary": "Samsung is the undisputed leader in the foldable segment but that lead could soon be seriously challenged. Apple is expected to launch its first foldable iPhone later this year an…",
-      "tags": [
-        "Samsung",
         "爆料",
         "自动抓取"
       ]
@@ -579,26 +639,6 @@ window.phoneRadarAuto = {
         "行业",
         "爆料",
         "微博"
-      ]
-    },
-    {
-      "id": "coolapk-user-31c9a14b2642",
-      "title": "竹本青：骁龙8 Elite Gen5 “甜点版”曝光：性能接近标准版",
-      "source": "竹本青",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-07-23",
-      "time": "08:17",
-      "publishedAt": "2026-07-23T08:17:48.000Z",
-      "url": "https://www.coolapk.com/feed/72905357",
-      "image": "http://image.coolapk.com/feed/2026/0723/16/4248714_65d2add1_4667_3088_308@1439x2330.jpg",
-      "summary": "【高通骁龙8 Elite Gen5 “甜点版”曝光：性能接近标准版，下半年4K档子系搭载】 博主数码闲聊站今天爆料，高通骁龙8 Elite Gen5 将预定“长寿神U”，现有4个版本： ① SM8850-5-AC——7核8E5，Find N6搭载 ② SM8850-AC——标准8E5，主流旗舰方案 ③ SM8850-1-AD——高频8E5，Galaxy S…",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "酷安博主"
       ]
     },
     {
@@ -679,6 +719,26 @@ window.phoneRadarAuto = {
         "Samsung",
         "爆料",
         "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-ce4d00e4e976",
+      "title": "竹本青：荣耀全新品牌主张／图形标识正式官宣",
+      "source": "竹本青",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-07-23",
+      "time": "06:01",
+      "publishedAt": "2026-07-23T06:01:34.000Z",
+      "url": "https://www.coolapk.com/feed/72903611",
+      "image": "http://image.coolapk.com/feed/2026/0723/14/4248714_9e8dc9bd_6964_9176_183@3840x2160.jpg",
+      "summary": "【荣耀全新品牌主张／图形标识 正式官宣：「敢想，敢不同」、「荣耀之环」】 全新品牌主张 —— 敢想，敢不同 全新品牌图形标识 —— 荣耀之环 7月23日，荣耀终端股份有限公司CEO李健 官宣全新品牌主张与图形标识。“打破完美之圆，向内探索、向外突破。敢想，敢不同，荣耀焕新出发。 ” #今日热点# #荣耀# #MagicOS10#",
+      "tags": [
+        "HONOR",
+        "爆料",
+        "酷安博主"
       ]
     },
     {
@@ -982,6 +1042,26 @@ window.phoneRadarAuto = {
       ]
     },
     {
+      "id": "newsnow-5919e1478fbf",
+      "title": "兄弟们苹果这个售后态度这么好的吗？？[吃瓜]今天对象收了一个带care服务的17pm，所以给沈阳中街的苹果 Store打电话，想咨询一下苹果care的相关问题[微笑]，我撒谎说我骑自行车手机飞出去屏幕坏了，想问一下走care服务换屏幕需要什么？",
+      "source": "酷安热榜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-07-23",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/72908764",
+      "image": "",
+      "summary": "兄弟们苹果这个售后态度这么好的吗？？[吃瓜]今天对象收了一个带care服务的17pm，所以给沈阳中街的苹果 Store打电话，想咨询一下苹果care的相关问题[微笑]，我撒谎说我骑自行车手机飞出去屏幕坏了，想问一下走care服务换屏幕需要什么？",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
       "id": "newsnow-f6286d268a45",
       "title": "三星Galaxy Z Fold 8 阔折叠手机发布：12999元起",
       "source": "酷安热榜",
@@ -1017,26 +1097,6 @@ window.phoneRadarAuto = {
       "summary": "REDMI K90 Pro Max被曝存在屏幕抖动问题",
       "tags": [
         "Xiaomi",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-3d8596c6fa3d",
-      "title": "三星推出 Galaxy Z Fold8 Ultra：14,999元起",
-      "source": "酷安热榜",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-07-23",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72895516",
-      "image": "",
-      "summary": "三星推出 Galaxy Z Fold8 Ultra：14,999元起",
-      "tags": [
-        "Samsung",
         "爆料",
         "NewsNow"
       ]
