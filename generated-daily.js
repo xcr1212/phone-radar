@@ -1,12 +1,12 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-07-23T06:39:41.332Z",
+  "updatedAt": "2026-07-23T10:34:24.199Z",
   "issueDate": "2026-07-23",
   "issue": "VOL.260723",
   "title": "手机情报日报",
-  "intro": "今日筛出 8 条重点，其中 8 条是重点爆料，包含 5 条 iPhone 相关、0 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 8 条重点，其中 8 条是重点爆料，包含 4 条 iPhone 相关、0 条官方确认、0 条参数线索。",
   "stats": {
     "total": 8,
-    "iphone": 5,
+    "iphone": 4,
     "leaks": 8,
     "official": 0,
     "specs": 0
@@ -35,29 +35,6 @@ window.phoneRadarDaily = {
           "detail": "iPhone 18 Pro 影像能力相关消息。重点看影像功能是否和新机硬件有关，如果只是拍摄案例或营销内容，参考价值会低一些。",
           "keyPoints": [
             "影像硬件",
-            "爆料来源"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "newsnow-4b26716ccacb",
-          "title": "iPhone18系列已量产",
-          "originalTitle": "",
-          "source": "抖音热点",
-          "brand": "iPhone",
-          "type": "爆料",
-          "trust": "待验证",
-          "date": "2026-07-23",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://www.douyin.com/hot/2580964",
-          "image": "",
-          "verdict": "先看",
-          "takeaway": "iPhone18系列已量产",
-          "detail": "iPhone18系列已量产",
-          "keyPoints": [
             "爆料来源"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
@@ -159,48 +136,74 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
-          "id": "auto-5e2a293227bf",
-          "title": "告别传统锂电：三星 Galaxy Z8 系列折叠手机确认升级硅碳电池",
+          "id": "auto-33efbfcf23c3",
+          "title": "全球首款机器人手机荣耀 Robot Phone 官宣 8 月见，宣称“打破手机固有形态”",
           "originalTitle": "",
           "source": "IT之家",
-          "brand": "Samsung",
+          "brand": "HONOR",
           "type": "爆料",
           "trust": "媒体汇总",
           "date": "2026-07-23",
-          "time": "06:31",
-          "publishedAt": "2026-07-23T06:31:05.000Z",
-          "url": "https://www.ithome.com/0/980/610.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/7/2ceef80f-7fae-46f1-8ab3-ac8b6918fcfe.jpg?x-bce-process=image/auto-orient,o_1",
+          "time": "09:41",
+          "publishedAt": "2026-07-23T09:41:13.000Z",
+          "url": "https://www.ithome.com/0/980/754.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/7/91ff109b-1958-4924-a49c-d62516463d57.png?x-bce-process=image/format,f_auto",
           "verdict": "先看",
-          "takeaway": "IT之家 7 月 23 日消息，科技媒体 Android Authority 昨日（7 月 22 日）发布博文， 报道称 Galaxy Z Fold8、Galaxy Z Fold8 Ultra 和 Galaxy Z Flip8 折叠手机是三星首批采用硅碳电池的 Galaxy 手机。 IT之家援引博文介绍，在 Galaxy Unpacked 发布会结束的媒体…",
-          "detail": "IT之家 7 月 23 日消息，科技媒体 Android Authority 昨日（7 月 22 日）发布博文， 报道称 Galaxy Z Fold8、Galaxy Z Fold8 Ultra 和 Galaxy Z Flip8 折叠手机是三星首批采用硅碳电池的 Galaxy 手机。 IT之家援引博文介绍，在 Galaxy Unpacked 发布会结束的媒体…",
+          "takeaway": "IT之家 7 月 23 日消息，荣耀手机官方今日宣布，全球首款机器人手机 —— 荣耀 Robot Phone“8 月见” 。荣耀官方宣称“从颠覆行业标准答案，到打破手机固有形态”。 值得一提的是，荣耀手机此次发布的海报已经用上了今日发布的全新品牌图形标识“荣耀之环”。 据IT之家此前报道， 荣耀 Robot Phone 已开启预约 ，搭载第五代骁龙 8 至…",
+          "detail": "IT之家 7 月 23 日消息，荣耀手机官方今日宣布，全球首款机器人手机 —— 荣耀 Robot Phone“8 月见” 。荣耀官方宣称“从颠覆行业标准答案，到打破手机固有形态”。 值得一提的是，荣耀手机此次发布的海报已经用上了今日发布的全新品牌图形标识“荣耀之环”。 据IT之家此前报道， 荣耀 Robot Phone 已开启预约 ，搭载第五代骁龙 8 至…",
           "keyPoints": [
-            "电池 / 充电"
+            "爆料"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
-          "id": "auto-e7a4d2dcb180",
-          "title": "思特威推出 50MP 手机 CMOS 传感器 SC505HS，功耗降低约 18%",
+          "id": "auto-120d100294ce",
+          "title": "消息称某厂 PM 工程机测试 OV52A 两亿长焦，预计为 OPPO Find X10 Pro Max",
           "originalTitle": "",
           "source": "IT之家",
-          "brand": "Pixel",
+          "brand": "OPPO",
           "type": "爆料",
           "trust": "媒体汇总",
           "date": "2026-07-23",
-          "time": "02:37",
-          "publishedAt": "2026-07-23T02:37:21.000Z",
-          "url": "https://www.ithome.com/0/980/452.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/7/21827874-3114-4713-b08b-a08c30230f00.png",
+          "time": "09:22",
+          "publishedAt": "2026-07-23T09:22:54.000Z",
+          "url": "https://www.ithome.com/0/980/729.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/7/fcef1ab6-4322-4599-a27c-22649dd94bfb.png?x-bce-process=image/format,f_auto",
           "verdict": "先看",
-          "takeaway": "IT之家 7 月 23 日消息，思特威今日宣布推出 5000 万像素 0.61μm 像素尺寸手机应用 CMOS 图像传感器新品 —— SC505HS 。 基于思特威 SmartClarity-3 技术平台，SC505HS 搭载专利 SFCPixel 技术，支持 Sparse PDAF 相位检测对焦及 ULP 模式等，可用于智能手机主摄、前摄及超广角等。 S…",
-          "detail": "IT之家 7 月 23 日消息，思特威今日宣布推出 5000 万像素 0.61μm 像素尺寸手机应用 CMOS 图像传感器新品 —— SC505HS 。 基于思特威 SmartClarity-3 技术平台，SC505HS 搭载专利 SFCPixel 技术，支持 Sparse PDAF 相位检测对焦及 ULP 模式等，可用于智能手机主摄、前摄及超广角等。 S…",
+          "takeaway": "IT之家 7 月 23 日消息，博主 @数码闲聊站 今日爆料称，某厂 PM 工程机测试的超大底长焦就是前代 U 同款，OV52A 200Mp 1/1.28\"，支持近距离长焦微距，如果顺利落地的话，也算是同档无敌。 IT之家注意到，上一代的 OPPO Find X9 Ultra 便搭载豪威 OV52A 影像传感器，支持 2 亿像素、1/1.28 英寸底、f/…",
+          "detail": "IT之家 7 月 23 日消息，博主 @数码闲聊站 今日爆料称，某厂 PM 工程机测试的超大底长焦就是前代 U 同款，OV52A 200Mp 1/1.28\"，支持近距离长焦微距，如果顺利落地的话，也算是同档无敌。 IT之家注意到，上一代的 OPPO Find X9 Ultra 便搭载豪威 OV52A 影像传感器，支持 2 亿像素、1/1.28 英寸底、f/…",
           "keyPoints": [
-            "外观 / 配色 / 尺寸"
+            "影像硬件",
+            "爆料来源"
           ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "weibo-e3073b2522d4",
+          "title": "数码闲聊站：iQOO Neo新机暂定8月前后上线，2K直屏中端旗舰级性能机，100W闪充大…",
+          "originalTitle": "",
+          "source": "数码闲聊站",
+          "brand": "vivo",
+          "type": "爆料",
+          "trust": "高关注爆料源",
+          "date": "2026-07-23",
+          "time": "02:35",
+          "publishedAt": "2026-07-23T02:35:00.000Z",
+          "url": "https://weibo.com/6048569942/R9YUfwAxL",
+          "image": "",
+          "verdict": "先看",
+          "takeaway": "iQOO Neo新机暂定8月前后上线，2K直屏中端旗舰级性能机，100W闪充大电池，驰光白/疾影黑/乘风，12+256GB/12+512GB/16+256GB/16+512GB，3D超声波指纹+IP68，预计3K档👖",
+          "detail": "iQOO Neo新机暂定8月前后上线，2K直屏中端旗舰级性能机，100W闪充大电池，驰光白/疾影黑/乘风，12+256GB/12+512GB/16+256GB/16+512GB，3D超声波指纹+IP68，预计3K档👖",
+          "keyPoints": [
+            "屏幕形态",
+            "电池 / 充电",
+            "爆料来源"
+          ],
+          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         }
