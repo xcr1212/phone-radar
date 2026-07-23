@@ -1,5 +1,5 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-07-23T03:43:35.476Z",
+  "updatedAt": "2026-07-23T06:39:41.332Z",
   "issueDate": "2026-07-23",
   "issue": "VOL.260723",
   "title": "手机情报日报",
@@ -134,26 +134,50 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
-          "id": "coolapk-user-b6181cd808b5",
-          "title": "竹本青：【疑OPPO Find X10系列工程机曝光：横向大矩阵设计】 7月22日，某厂商工程机户外测试画面曝光。图示该机…",
+          "id": "coolapk-user-3f57763a7391",
+          "title": "JSCHEN小小狐：iQOO Neo11S 曝光：暂定 8 月前后 / 3K 价位",
           "originalTitle": "",
-          "source": "竹本青",
-          "brand": "OPPO",
+          "source": "JSCHEN小小狐",
+          "brand": "vivo",
           "type": "爆料",
           "trust": "高可信爆料",
-          "date": "2026-07-22",
-          "time": "11:57",
-          "publishedAt": "2026-07-22T11:57:18.000Z",
-          "url": "https://www.coolapk.com/feed/72893932",
-          "image": "http://image.coolapk.com/feed/2026/0722/20/4248714_298c0053_1927_5296_332@1440x1440.jpg",
+          "date": "2026-07-23",
+          "time": "03:58",
+          "publishedAt": "2026-07-23T03:58:19.000Z",
+          "url": "https://www.coolapk.com/feed/72902045",
+          "image": "http://image.coolapk.com/feed/2026/0723/11/4702274_5219c063_9098_4213_444@1440x591.jpg",
           "verdict": "先看",
-          "takeaway": "【疑OPPO Find X10系列工程机曝光：横向大矩阵设计】 7月22日，某厂商工程机户外测试画面曝光。图示该机搭载保密外壳，镜头布局与Find X9s Pro相近，采用横向大矩阵设计。 对此，博主数码闲聊站判断该机为OPPO Find X10系列EVT工程机，并透露新机有望提供白色、橙色、青色三款配色。 #今日热点# #OPPOFindX9# #Col…",
-          "detail": "【疑OPPO Find X10系列工程机曝光：横向大矩阵设计】 7月22日，某厂商工程机户外测试画面曝光。图示该机搭载保密外壳，镜头布局与Find X9s Pro相近，采用横向大矩阵设计。 对此，博主数码闲聊站判断该机为OPPO Find X10系列EVT工程机，并透露新机有望提供白色、橙色、青色三款配色。 #今日热点# #OPPOFindX9# #Col…",
+          "takeaway": "『iQOO Neo11S 曝光：暂定 8 月前后 / 3K 价位』 ◇ 降频版天玑 9500 移动平台 ◇ 2K 144Hz OLED 大尺寸直屏 ◇ 8K+ 单电芯电池 / 100W 有线 ◇ 3D 超声波指纹 + IP68 / IP69 配色：驰光白、疾影黑、乘风 SKU： 12GB+256GB / 12GB+512GB 16GB+256GB / 16…",
+          "detail": "『iQOO Neo11S 曝光：暂定 8 月前后 / 3K 价位』 ◇ 降频版天玑 9500 移动平台 ◇ 2K 144Hz OLED 大尺寸直屏 ◇ 8K+ 单电芯电池 / 100W 有线 ◇ 3D 超声波指纹 + IP68 / IP69 配色：驰光白、疾影黑、乘风 SKU： 12GB+256GB / 12GB+512GB 16GB+256GB / 16…",
           "keyPoints": [
             "外观 / 配色 / 尺寸",
-            "爆料来源"
+            "屏幕形态",
+            "电池 / 充电"
           ],
-          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
+          "confidence": "可信度较高，但仍属于发布前线索。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "auto-5e2a293227bf",
+          "title": "告别传统锂电：三星 Galaxy Z8 系列折叠手机确认升级硅碳电池",
+          "originalTitle": "",
+          "source": "IT之家",
+          "brand": "Samsung",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-07-23",
+          "time": "06:31",
+          "publishedAt": "2026-07-23T06:31:05.000Z",
+          "url": "https://www.ithome.com/0/980/610.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/7/2ceef80f-7fae-46f1-8ab3-ac8b6918fcfe.jpg?x-bce-process=image/auto-orient,o_1",
+          "verdict": "先看",
+          "takeaway": "IT之家 7 月 23 日消息，科技媒体 Android Authority 昨日（7 月 22 日）发布博文， 报道称 Galaxy Z Fold8、Galaxy Z Fold8 Ultra 和 Galaxy Z Flip8 折叠手机是三星首批采用硅碳电池的 Galaxy 手机。 IT之家援引博文介绍，在 Galaxy Unpacked 发布会结束的媒体…",
+          "detail": "IT之家 7 月 23 日消息，科技媒体 Android Authority 昨日（7 月 22 日）发布博文， 报道称 Galaxy Z Fold8、Galaxy Z Fold8 Ultra 和 Galaxy Z Flip8 折叠手机是三星首批采用硅碳电池的 Galaxy 手机。 IT之家援引博文介绍，在 Galaxy Unpacked 发布会结束的媒体…",
+          "keyPoints": [
+            "电池 / 充电"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
@@ -173,29 +197,6 @@ window.phoneRadarDaily = {
           "verdict": "先看",
           "takeaway": "IT之家 7 月 23 日消息，思特威今日宣布推出 5000 万像素 0.61μm 像素尺寸手机应用 CMOS 图像传感器新品 —— SC505HS 。 基于思特威 SmartClarity-3 技术平台，SC505HS 搭载专利 SFCPixel 技术，支持 Sparse PDAF 相位检测对焦及 ULP 模式等，可用于智能手机主摄、前摄及超广角等。 S…",
           "detail": "IT之家 7 月 23 日消息，思特威今日宣布推出 5000 万像素 0.61μm 像素尺寸手机应用 CMOS 图像传感器新品 —— SC505HS 。 基于思特威 SmartClarity-3 技术平台，SC505HS 搭载专利 SFCPixel 技术，支持 Sparse PDAF 相位检测对焦及 ULP 模式等，可用于智能手机主摄、前摄及超广角等。 S…",
-          "keyPoints": [
-            "外观 / 配色 / 尺寸"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "auto-376e3bb5a43f",
-          "title": "谷歌 Pixel 11/Pro/ Pro XL 手机渲染图曝光：均配 4 种颜色",
-          "originalTitle": "",
-          "source": "IT之家",
-          "brand": "Pixel",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-07-23",
-          "time": "00:55",
-          "publishedAt": "2026-07-23T00:55:35.000Z",
-          "url": "https://www.ithome.com/0/980/378.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/7/1c7c9337-aa9a-43d2-ad70-fddba18fec91.png?x-bce-process=image/format,f_auto",
-          "verdict": "先看",
-          "takeaway": "IT之家 7 月 23 日消息，科技媒体 mymobiles 昨日（7 月 22 日）发布博文，在谷歌 8 月 12 日正式发布前， 分享了 36 张渲染图，展示谷歌 Pixel 11 系列 3 款机型。 本次分享的渲染图共计 36 张，展示了谷歌 Pixel 11、Pixel 11 Pro 以及 Pixel 11 Pro XL 三款机型，每款机型均从 3…",
-          "detail": "IT之家 7 月 23 日消息，科技媒体 mymobiles 昨日（7 月 22 日）发布博文，在谷歌 8 月 12 日正式发布前， 分享了 36 张渲染图，展示谷歌 Pixel 11 系列 3 款机型。 本次分享的渲染图共计 36 张，展示了谷歌 Pixel 11、Pixel 11 Pro 以及 Pixel 11 Pro XL 三款机型，每款机型均从 3…",
           "keyPoints": [
             "外观 / 配色 / 尺寸"
           ],

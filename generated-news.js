@@ -1,6 +1,226 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-07-23T03:43:35.476Z",
+  "updatedAt": "2026-07-23T06:39:41.332Z",
   "news": [
+    {
+      "id": "auto-5e2a293227bf",
+      "title": "告别传统锂电：三星 Galaxy Z8 系列折叠手机确认升级硅碳电池",
+      "source": "IT之家",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-23",
+      "time": "06:31",
+      "publishedAt": "2026-07-23T06:31:05.000Z",
+      "url": "https://www.ithome.com/0/980/610.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/7/2ceef80f-7fae-46f1-8ab3-ac8b6918fcfe.jpg?x-bce-process=image/auto-orient,o_1",
+      "summary": "IT之家 7 月 23 日消息，科技媒体 Android Authority 昨日（7 月 22 日）发布博文， 报道称 Galaxy Z Fold8、Galaxy Z Fold8 Ultra 和 Galaxy Z Flip8 折叠手机是三星首批采用硅碳电池的 Galaxy 手机。 IT之家援引博文介绍，在 Galaxy Unpacked 发布会结束的媒体…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-ce4d00e4e976",
+      "title": "竹本青：荣耀全新品牌主张／图形标识正式官宣",
+      "source": "竹本青",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-07-23",
+      "time": "06:01",
+      "publishedAt": "2026-07-23T06:01:34.000Z",
+      "url": "https://www.coolapk.com/feed/72903611",
+      "image": "http://image.coolapk.com/feed/2026/0723/14/4248714_9e8dc9bd_6964_9176_183@3840x2160.jpg",
+      "summary": "【荣耀全新品牌主张／图形标识 正式官宣：「敢想，敢不同」、「荣耀之环」】 全新品牌主张 —— 敢想，敢不同 全新品牌图形标识 —— 荣耀之环 7月23日，荣耀终端股份有限公司CEO李健 官宣全新品牌主张与图形标识。“打破完美之圆，向内探索、向外突破。敢想，敢不同，荣耀焕新出发。 ” #今日热点# #荣耀# #MagicOS10#",
+      "tags": [
+        "HONOR",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "weibo-9a18f70c09ba",
+      "title": "数码闲聊站：耀子实验室目前主摄物料最高OVB0D，200Mp 1/1.12\" LOFIC超…",
+      "source": "数码闲聊站",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-07-23",
+      "time": "05:43",
+      "publishedAt": "2026-07-23T05:43:00.000Z",
+      "url": "https://weibo.com/6048569942/Ra08yDVAv",
+      "image": "",
+      "summary": "耀子实验室目前主摄物料最高OVB0D，200Mp 1/1.12\" LOFIC超级大底国产镜皇，这颗镜头同步开启下一代长焦端的可行性预研，影像狠狠卷起来了[二哈]",
+      "tags": [
+        "行业",
+        "爆料",
+        "微博"
+      ]
+    },
+    {
+      "id": "auto-fb5e8415ff0b",
+      "title": "Honor Magic 9 series to bring major changes in appearance",
+      "source": "Huawei Central",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-23",
+      "time": "05:42",
+      "publishedAt": "2026-07-23T05:42:56.000Z",
+      "url": "https://www.huaweicentral.com/honor-magic-9-series-to-bring-major-changes-in-appearance/",
+      "image": "https://www.huaweicentral.com/wp-content/uploads/2026/07/Magic-9-series-leak.jpg",
+      "summary": "Honor could unveil the Magic 9 series in October this year, and the flagship lineup is expected to undergo major changes in appearance compared to its predecessors. Meanwhile, the…",
+      "tags": [
+        "HONOR",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-6b23c7ca7f24",
+      "title": "Galaxy Z Flip 8 is thinner, lighter, and stronger than the Galaxy Z Flip 7",
+      "source": "SamMobile",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-23",
+      "time": "05:30",
+      "publishedAt": "2026-07-23T05:30:00.000Z",
+      "url": "https://www.sammobile.com/news/galaxy-z-flip-8-is-thinner-lighter-and-stronger-than-the-galaxy-z-flip-7/",
+      "image": "https://www.sammobile.com/wp-content/uploads/2026/07/Galaxy-Z-Flip-8-ports-cream-white-1920x1079.jpg",
+      "summary": "Samsung fans have come to expect certain evolutionary changes from its new premium phones every year. At the very least, the new devices are expected to be thinner and lighter tha…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-402d60360172",
+      "title": "Poco F9 Ultra, Poco F9 Pro, Vivo X500 (global) bag fresh certifications, launching soon",
+      "source": "Gizmochina",
+      "brand": "vivo",
+      "model": "vivo 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-23",
+      "time": "04:59",
+      "publishedAt": "2026-07-23T04:59:05.000Z",
+      "url": "https://www.gizmochina.com/2026/07/23/poco-f9-ultra-poco-f9-pro-vivo-x500-global-bag-fresh-certifications-launching-soon/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2025/11/POCO-F8-Pro-300x183.png?x92417",
+      "summary": "Poco is reportedly working on the Poco F9 series of smartphones. According to a report by XimiTime, two F9 series devices have emerged in the GSMA IMEI database, revealing their m…",
+      "tags": [
+        "vivo",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-d08982e6cd62",
+      "title": "What cameras do you get on the Galaxy Z Fold 8?",
+      "source": "SamMobile",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-23",
+      "time": "04:45",
+      "publishedAt": "2026-07-23T04:45:00.000Z",
+      "url": "https://www.sammobile.com/news/galaxy-z-fold-8-camera-specifications-detailed/",
+      "image": "",
+      "summary": "The Galaxy Z Fold 8 is extremely similar to the Galaxy Z Fold 8 Ultra. It has similarly bright screens, a similar hinge, the same processor and memory, and the same software. One…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-607e4df04a5e",
+      "title": "竹本青：【iQOO Neo11系列 新机被曝8月发布：天玑9500降频版+2K大直屏，预计3000元档】 ▫️2K 144…",
+      "source": "竹本青",
+      "brand": "vivo",
+      "model": "vivo 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-07-23",
+      "time": "04:35",
+      "publishedAt": "2026-07-23T04:35:44.000Z",
+      "url": "https://www.coolapk.com/feed/72902535",
+      "image": "http://image.coolapk.com/feed/2026/0723/12/4248714_fd2c3d6c_1343_1417_819@1272x383.jpg",
+      "summary": "【iQOO Neo11系列 新机被曝8月发布：天玑9500降频版+2K大直屏，预计3000元档】 ▫️2K 144Hz 大直屏 ▫️天玑9500降频版 ▫️8开头单电芯+100W快充 ▫️3D超声波指纹 ▫️IP68/69防尘防水 ▫️SKU 驰光白/疾影黑/乘风 12+256/12+512/16+256/16+512GB #今日热点# #iQOONeo1…",
+      "tags": [
+        "vivo",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-62106872ae7a",
+      "title": "三星显示代表理事李清：显示产业 2026H2 将因“芯片通胀”面临严峻形势",
+      "source": "IT之家",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-23",
+      "time": "04:02",
+      "publishedAt": "2026-07-23T04:02:21.000Z",
+      "url": "https://www.ithome.com/0/980/554.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/7/d6ba9617-1188-4109-8c0d-cc7e80d733aa.jpg",
+      "summary": "IT之家 7 月 23 日消息，三星显示代表理事李清昨日在韩国首尔举行的 K-Display 2026 展会上表示 ，显示产业在 2026 年下半年将因为“芯片通胀”面临严峻形势 。 李清提到，人工智能领域爆发带来的强烈需求拉高芯片定价，这将显著削弱智能手机和其它 IT 产品的销量，元器件和显示行业都面临着巨大价格压力。他 个人希望半导体公司能够降低价格…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-16b48ee5e4cd",
+      "title": "Galaxy Z Fold 8: How durable is Samsung’s new passport-style foldable phone?",
+      "source": "SamMobile",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-23",
+      "time": "04:00",
+      "publishedAt": "2026-07-23T04:00:00.000Z",
+      "url": "https://www.sammobile.com/news/galaxy-z-fold-8-how-durable-is-samsung-new-passport-style-foldable-phone/",
+      "image": "https://www.sammobile.com/wp-content/uploads/2026/07/Galaxy-Z-Fold-8-hinge-1920x1079.jpg",
+      "summary": "Samsung expanded its foldable phone portfolio at Unpacked 2026 with the addition of the Galaxy Z Fold 8. Inconspicuous in name, this is the company's newest addition to the series…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-3f57763a7391",
+      "title": "JSCHEN小小狐：iQOO Neo11S 曝光：暂定 8 月前后 / 3K 价位",
+      "source": "JSCHEN小小狐",
+      "brand": "vivo",
+      "model": "vivo 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-07-23",
+      "time": "03:58",
+      "publishedAt": "2026-07-23T03:58:19.000Z",
+      "url": "https://www.coolapk.com/feed/72902045",
+      "image": "http://image.coolapk.com/feed/2026/0723/11/4702274_5219c063_9098_4213_444@1440x591.jpg",
+      "summary": "『iQOO Neo11S 曝光：暂定 8 月前后 / 3K 价位』 ◇ 降频版天玑 9500 移动平台 ◇ 2K 144Hz OLED 大尺寸直屏 ◇ 8K+ 单电芯电池 / 100W 有线 ◇ 3D 超声波指纹 + IP68 / IP69 配色：驰光白、疾影黑、乘风 SKU： 12GB+256GB / 12GB+512GB 16GB+256GB / 16…",
+      "tags": [
+        "vivo",
+        "爆料",
+        "酷安博主"
+      ]
+    },
     {
       "id": "auto-3e30c88151ba",
       "title": "iQOO Neo 11S RAM, storage, and color options leaked ahead of August launch",
@@ -33,7 +253,7 @@ window.phoneRadarAuto = {
       "time": "03:36",
       "publishedAt": "2026-07-23T03:36:23.000Z",
       "url": "https://www.ithome.com/0/980/550.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/7/183422c1-faf1-4dc9-ab0a-636d7fa9b195.png",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/7/183422c1-faf1-4dc9-ab0a-636d7fa9b195.png?x-bce-process=image/format,f_auto",
       "summary": "IT之家 7 月 23 日消息，昨日（7 月 22 日）在接受科技 TechRadar 采访时，三星移动体验产品和营销副总裁安尼卡 · 比松（Annika Bizon）表示， Galaxy Ring 作为三星最小的可穿戴产品，是三星未来可穿戴设备产品线的重要组成部分。 在昨日召开的 Galaxy Unpacked 活动中，三星发布 Galaxy Z Fol…",
       "tags": [
         "Samsung",
@@ -262,26 +482,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-376e3bb5a43f",
-      "title": "谷歌 Pixel 11/Pro/ Pro XL 手机渲染图曝光：均配 4 种颜色",
-      "source": "IT之家",
-      "brand": "Pixel",
-      "model": "Pixel 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-23",
-      "time": "00:55",
-      "publishedAt": "2026-07-23T00:55:35.000Z",
-      "url": "https://www.ithome.com/0/980/378.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/7/1c7c9337-aa9a-43d2-ad70-fddba18fec91.png?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 7 月 23 日消息，科技媒体 mymobiles 昨日（7 月 22 日）发布博文，在谷歌 8 月 12 日正式发布前， 分享了 36 张渲染图，展示谷歌 Pixel 11 系列 3 款机型。 本次分享的渲染图共计 36 张，展示了谷歌 Pixel 11、Pixel 11 Pro 以及 Pixel 11 Pro XL 三款机型，每款机型均从 3…",
-      "tags": [
-        "Pixel",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-9bbf43c61c96",
       "title": "Apple announces changes to iOS in Brazil",
       "source": "Apple Newsroom",
@@ -442,6 +642,26 @@ window.phoneRadarAuto = {
       ]
     },
     {
+      "id": "newsnow-3185d75f6198",
+      "title": "这个名字怎么样，重名率高不高，没听我亲戚建议的杨锦汐，就是觉得重名率太高了[惊讶] #华为Mate80ProMax#",
+      "source": "酷安热榜",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-07-23",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/72899061",
+      "image": "",
+      "summary": "这个名字怎么样，重名率高不高，没听我亲戚建议的杨锦汐，就是觉得重名率太高了[惊讶] #华为Mate80ProMax#",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
       "id": "newsnow-a63703cd8d15",
       "title": "酷友们有没有出现手机边框被手机壳划伤的情况，我服了[流泪]",
       "source": "酷安热榜",
@@ -502,62 +722,22 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-87adec88cdb3",
-      "title": "三星推出 Galaxy Z Filp8：8999元起",
-      "source": "酷安热榜",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
+      "id": "newsnow-bbe17bf31271",
+      "title": "苹果拟推出设备租赁计划，iPhone 可租用 24 个月，月付租机的模式可行吗？你会考虑租苹果设备吗？",
+      "source": "知乎热榜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "市场报告",
+      "trust": "媒体汇总",
       "date": "2026-07-23",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72895279",
+      "url": "https://www.zhihu.com/question/2063258715155686223",
       "image": "",
-      "summary": "三星推出 Galaxy Z Filp8：8999元起",
+      "summary": "苹果拟推出设备租赁计划，iPhone 可租用 24 个月，月付租机的模式可行吗？你会考虑租苹果设备吗？",
       "tags": [
-        "Samsung",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-3185d75f6198",
-      "title": "这个名字怎么样，重名率高不高，没听我亲戚建议的杨锦汐，就是觉得重名率太高了[惊讶] #华为Mate80ProMax#",
-      "source": "酷安热榜",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-07-23",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72899061",
-      "image": "",
-      "summary": "这个名字怎么样，重名率高不高，没听我亲戚建议的杨锦汐，就是觉得重名率太高了[惊讶] #华为Mate80ProMax#",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-9845b4534d0a",
-      "title": "三星折叠屏国行售价公布",
-      "source": "微博热搜",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "待验证",
-      "date": "2026-07-23",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://s.weibo.com/weibo?q=%E4%B8%89%E6%98%9F%E6%8A%98%E5%8F%A0%E5%B1%8F%E5%9B%BD%E8%A1%8C%E5%94%AE%E4%BB%B7%E5%85%AC%E5%B8%83&t=31&band_rank=22&Refer=top",
-      "image": "",
-      "summary": "三星折叠屏国行售价公布",
-      "tags": [
-        "Samsung",
-        "爆料",
+        "iPhone",
+        "市场报告",
         "NewsNow"
       ]
     },
@@ -575,26 +755,6 @@ window.phoneRadarAuto = {
       "url": "https://www.baidu.com/s?wd=%E5%A4%9A%E6%AC%BE%E9%AB%98%E7%AB%AF%E6%89%8B%E6%9C%BA%E6%B6%A8%E4%BB%B7%E8%B6%851000%E5%85%83",
       "image": "",
       "summary": "多款高端手机涨价超1000元",
-      "tags": [
-        "行业",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-7077bd3a195c",
-      "title": "关掉了手机管他谁是谁",
-      "source": "抖音热点",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "待验证",
-      "date": "2026-07-23",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.douyin.com/hot/2581598",
-      "image": "",
-      "summary": "关掉了手机管他谁是谁",
       "tags": [
         "行业",
         "爆料",
@@ -622,23 +782,23 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-85aa283f3ad4",
-      "title": "Galaxy Z Fold 8, Fold 8 Ultra have a new, stronger display protection",
-      "source": "SamMobile",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
+      "id": "newsnow-7077bd3a195c",
+      "title": "关掉了手机管他谁是谁",
+      "source": "抖音热点",
+      "brand": "行业",
+      "model": "智能手机市场",
       "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-22",
-      "time": "23:00",
-      "publishedAt": "2026-07-22T23:00:00.000Z",
-      "url": "https://www.sammobile.com/news/galaxy-z-fold-8-fold-8-ultra-have-new-stronger-display-protection/",
+      "trust": "待验证",
+      "date": "2026-07-23",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.douyin.com/hot/2581598",
       "image": "",
-      "summary": "Samsung has just launched its new flagship smartphones with book-style foldable displays, the Galaxy Z Fold 8 Ultra and the Galaxy Z Fold 8. Both models bring several upgrades ove…",
+      "summary": "关掉了手机管他谁是谁",
       "tags": [
-        "Samsung",
+        "行业",
         "爆料",
-        "自动抓取"
+        "NewsNow"
       ]
     },
     {
@@ -678,46 +838,6 @@ window.phoneRadarAuto = {
       "tags": [
         "Samsung",
         "官方",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-21fce3ed71a6",
-      "title": "Every feature that makes Galaxy Z Fold 8 Ultra feel more ‘Ultra’",
-      "source": "SamMobile",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-22",
-      "time": "22:00",
-      "publishedAt": "2026-07-22T22:00:00.000Z",
-      "url": "https://www.sammobile.com/news/galaxy-z-fold-8-ultra-features-feel-more-ultra/",
-      "image": "",
-      "summary": "The Galaxy Z Fold 8 Ultra is Samsung's first Ultra-branded foldable smartphone. While Samsung brought major design and camera upgrades with the Galaxy Z Fold 7, the Galaxy Z Fold…",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-6a929cf05c44",
-      "title": "Samsung Galaxy Z Fold 8 Ultra hands-on",
-      "source": "SamMobile",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-22",
-      "time": "21:14",
-      "publishedAt": "2026-07-22T21:14:00.000Z",
-      "url": "https://www.sammobile.com/samsung/galaxy-z-fold-8-ultra/hands-on/",
-      "image": "https://www.sammobile.com/wp-content/uploads/2026/07/1-Galaxy-Z-Fold-8-Ultra-design-1920x1079.jpg",
-      "summary": "Samsung has expanded its foldable lineup this year by introducing the Galaxy Z Fold 8 Ultra. While the new “Ultra” branding suggests a major leap over previous Fold models, the re…",
-      "tags": [
-        "Samsung",
-        "爆料",
         "自动抓取"
       ]
     },
@@ -1295,26 +1415,6 @@ window.phoneRadarAuto = {
       "url": "https://9to5google.com/2026/07/22/yes-the-galaxy-z-fold-8s-display-crease-is-a-huge-improvement/",
       "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/07/galaxy-z-fold-8-series-43.jpg?quality=82&strip=all&w=1600",
       "summary": "The display crease on Samsung foldables has seemingly gone from tolerable to nearly nonexistent with the recently released Galaxy Z Fold 8 and Galaxy Z Fold 8 Ultra.",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-f0d8efa51796",
-      "title": "The Galaxy Z Fold 8 Ultra isn't cheap, but here's how Verizon can help you save",
-      "source": "Android Police",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-22",
-      "time": "13:54",
-      "publishedAt": "2026-07-22T13:54:04.000Z",
-      "url": "https://www.androidpolice.com/verizon-z-fold8-and-z-fold8-ultra-promotions/",
-      "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2026/07/samsung-galaxy-z-fold-8-ultra-range.JPG",
-      "summary": "Plus, financing up to 48 months",
       "tags": [
         "Samsung",
         "爆料",
@@ -1962,26 +2062,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-4cd8a8905c71",
-      "title": "The Galaxy Z Fold 8 is official, and it changes what Samsung's foldable lineup looks like",
-      "source": "Android Central",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "评测",
-      "trust": "媒体汇总",
-      "date": "2026-07-22",
-      "time": "13:00",
-      "publishedAt": "2026-07-22T13:00:00.000Z",
-      "url": "https://www.androidcentral.com/phones/samsung-galaxy/samsung-galaxy-z-fold-8-official",
-      "image": "https://cdn.mos.cms.futurecdn.net/Fhtq49jLc5MJPnsQsrPVoK-1280-80.jpg",
-      "summary": "Samsung's book-style foldable lineup gets a new shape, and it's not the one carrying the Fold name you'd expect.",
-      "tags": [
-        "Samsung",
-        "评测",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-b4991d445b1f",
       "title": "I tried the Galaxy Z Flip 8, and Samsung finally gave the cover screen the upgrade it deserves! Well... almost",
       "source": "Android Central",
@@ -2022,23 +2102,23 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "coolapk-user-b6181cd808b5",
-      "title": "竹本青：【疑OPPO Find X10系列工程机曝光：横向大矩阵设计】 7月22日，某厂商工程机户外测试画面曝光。图示该机…",
-      "source": "竹本青",
-      "brand": "OPPO",
-      "model": "OPPO 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
+      "id": "auto-4cd8a8905c71",
+      "title": "The Galaxy Z Fold 8 is official, and it changes what Samsung's foldable lineup looks like",
+      "source": "Android Central",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
       "date": "2026-07-22",
-      "time": "11:57",
-      "publishedAt": "2026-07-22T11:57:18.000Z",
-      "url": "https://www.coolapk.com/feed/72893932",
-      "image": "http://image.coolapk.com/feed/2026/0722/20/4248714_298c0053_1927_5296_332@1440x1440.jpg",
-      "summary": "【疑OPPO Find X10系列工程机曝光：横向大矩阵设计】 7月22日，某厂商工程机户外测试画面曝光。图示该机搭载保密外壳，镜头布局与Find X9s Pro相近，采用横向大矩阵设计。 对此，博主数码闲聊站判断该机为OPPO Find X10系列EVT工程机，并透露新机有望提供白色、橙色、青色三款配色。 #今日热点# #OPPOFindX9# #Col…",
+      "time": "13:00",
+      "publishedAt": "2026-07-22T13:00:00.000Z",
+      "url": "https://www.androidcentral.com/phones/samsung-galaxy/samsung-galaxy-z-fold-8-official",
+      "image": "https://cdn.mos.cms.futurecdn.net/Fhtq49jLc5MJPnsQsrPVoK-1280-80.jpg",
+      "summary": "Samsung's book-style foldable lineup gets a new shape, and it's not the one carrying the Fold name you'd expect.",
       "tags": [
-        "OPPO",
-        "爆料",
-        "酷安博主"
+        "Samsung",
+        "评测",
+        "自动抓取"
       ]
     },
     {
@@ -2097,26 +2177,6 @@ window.phoneRadarAuto = {
       "summary": "Apple's iPhone 18 Pro models have entered mass production and are now in a production ramp-up phase, according to China Securities News . In a new report citing supply chain sourc…",
       "tags": [
         "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-3fc734794f95",
-      "title": "Mate 90 series with Tau Law chip could be turning point for Huawei",
-      "source": "Huawei Central",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-22",
-      "time": "09:54",
-      "publishedAt": "2026-07-22T09:54:03.000Z",
-      "url": "https://www.huaweicentral.com/mate-90-series-with-tau-law-chip-could-be-turning-point-for-huawei/",
-      "image": "https://www.huaweicentral.com/wp-content/uploads/2026/06/mate80-phones.jpg",
-      "summary": "Mate 90 series could be a real turning point for Huawei in the smartphone market, as the flagship lineup will be the company’s first creation with the Tau Law chip. What’s even mo…",
-      "tags": [
-        "Huawei",
         "爆料",
         "自动抓取"
       ]
@@ -2182,26 +2242,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-216503987de9",
-      "title": "Huawei Saudi Arabia offers free premium services for Pura 90s phones",
-      "source": "Huawei Central",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-22",
-      "time": "08:36",
-      "publishedAt": "2026-07-22T08:36:30.000Z",
-      "url": "https://www.huaweicentral.com/huawei-saudi-arabia-offers-free-premium-services-for-pura-90s-phones/",
-      "image": "https://www.huaweicentral.com/wp-content/uploads/2026/07/Pura90sProMax-color.jpg",
-      "summary": "Huawei Pura 90s series has reached Saudi Arabia and the company has now opened some free premium services for the flagship devices. If you have the latest Pura smartphone in your…",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "weibo-093e73514f1b",
       "title": "数码闲聊站：华子现在还是回血状态，Mate90系列+τ定律芯片应该是转折点，如果接下来自研…",
       "source": "数码闲聊站",
@@ -2242,26 +2282,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "weibo-cec446ccae6b",
-      "title": "数码闲聊站：独家信息：阔直板手机尺寸6.3\"-6.4\"±，极窄四等边1.5K LTPO，内…",
-      "source": "数码闲聊站",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-07-22",
-      "time": "02:38",
-      "publishedAt": "2026-07-22T02:38:00.000Z",
-      "url": "https://weibo.com/6048569942/R9PuYkstB",
-      "image": "",
-      "summary": "独家信息，阔直板手机尺寸6.3\"-6.4\"±，极窄四等边1.5K LTPO，内部排期明年上半年，期待吗[偷乐]",
-      "tags": [
-        "行业",
-        "爆料",
-        "微博"
-      ]
-    },
-    {
       "id": "auto-87ed3916ac2d",
       "title": "Apple promotes ‘Nido de Villanas,’ a Mexican microdrama shot on iPhone 17 Pro",
       "source": "9to5Mac",
@@ -2279,26 +2299,6 @@ window.phoneRadarAuto = {
         "iPhone",
         "爆料",
         "自动抓取"
-      ]
-    },
-    {
-      "id": "weibo-6bb3949f682b",
-      "title": "数码闲聊站：独家信息：摸到了一个中端线新机，6.84\"1.5K LTPS直屏，10000m…",
-      "source": "数码闲聊站",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-07-22",
-      "time": "01:06",
-      "publishedAt": "2026-07-22T01:06:41.000Z",
-      "url": "https://weibo.com/6048569942/R9OTUaiUO",
-      "image": "",
-      "summary": "独家信息，摸到了一个中端线新机，6.84\"1.5K LTPS直屏，10000mAh级巨容量电池，8系处理器，50Mp影像，中端机杀手2.0……[污]",
-      "tags": [
-        "行业",
-        "爆料",
-        "微博"
       ]
     },
     {
