@@ -1,12 +1,12 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-07-23T10:34:24.199Z",
+  "updatedAt": "2026-07-23T14:30:11.818Z",
   "issueDate": "2026-07-23",
   "issue": "VOL.260723",
   "title": "手机情报日报",
-  "intro": "今日筛出 8 条重点，其中 8 条是重点爆料，包含 4 条 iPhone 相关、0 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 8 条重点，其中 8 条是重点爆料，包含 3 条 iPhone 相关、0 条官方确认、0 条参数线索。",
   "stats": {
     "total": 8,
-    "iphone": 4,
+    "iphone": 3,
     "leaks": 8,
     "official": 0,
     "specs": 0
@@ -18,24 +18,23 @@ window.phoneRadarDaily = {
       "hint": "机模、配色、影像、屏幕、电池和芯片线索先看。",
       "items": [
         {
-          "id": "auto-8035f947112e",
-          "title": "iPhone 18 Pro 影像能力相关消息",
+          "id": "auto-79d4496f4b2c",
+          "title": "iPhone 折叠屏相关消息",
           "originalTitle": "",
           "source": "MacRumors",
           "brand": "iPhone",
           "type": "爆料",
           "trust": "媒体汇总",
-          "date": "2026-07-22",
-          "time": "09:15",
-          "publishedAt": "2026-07-22T09:15:05.000Z",
-          "url": "https://www.macrumors.com/2026/07/22/the-iphone-18-pro-variable-camera-aperture/",
-          "image": "https://images.macrumors.com/article-new/2025/09/iphone-17-cameras-zoom.jpg",
+          "date": "2026-07-23",
+          "time": "12:18",
+          "publishedAt": "2026-07-23T12:18:17.000Z",
+          "url": "https://www.macrumors.com/2026/07/23/foldable-iphone-still-faces-production-hurdles/",
+          "image": "https://images.macrumors.com/article-new/2025/03/Foldable-iPhone-2023-Feature-1.jpg",
           "verdict": "先看",
-          "takeaway": "iPhone 有系统功能或 AI 体验更新，适合关注后续是否影响日常使用。",
-          "detail": "iPhone 18 Pro 影像能力相关消息。重点看影像功能是否和新机硬件有关，如果只是拍摄案例或营销内容，参考价值会低一些。",
+          "takeaway": "iPhone 折叠屏相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
+          "detail": "iPhone 折叠屏相关消息。重点看折痕、铰链、厚度、屏幕可靠性和重量是否有实质改善。",
           "keyPoints": [
-            "影像硬件",
-            "爆料来源"
+            "爆料"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
@@ -57,29 +56,6 @@ window.phoneRadarDaily = {
           "verdict": "先看",
           "takeaway": "iPhone 有发布或新功能消息，适合确认是否和新机有关。",
           "detail": "iPhone 18 Pro 发布 / 上市相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "auto-60f78529f726",
-          "title": "iPhone 18 Pro E 芯片 / 性能相关消息",
-          "originalTitle": "",
-          "source": "MacRumors",
-          "brand": "iPhone",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-07-22",
-          "time": "11:16",
-          "publishedAt": "2026-07-22T11:16:23.000Z",
-          "url": "https://www.macrumors.com/2026/07/22/iphone-18-pro-enters-mass-production/",
-          "image": "https://images.macrumors.com/article-new/2026/01/Dynamic-Island-iPhone-18-Pro-Feature.jpg",
-          "verdict": "先看",
-          "takeaway": "iPhone 18 Pro E 芯片 / 性能相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
-          "detail": "iPhone 18 Pro E 芯片 / 性能相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
           "keyPoints": [
             "爆料"
           ],
@@ -136,6 +112,52 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
+          "id": "auto-d90d9dcd4ad2",
+          "title": "卢泰文“间接回应”苹果 iPhone Ultra：三星深耕折叠屏手机领域 7 年，对手短期难追赶",
+          "originalTitle": "",
+          "source": "IT之家",
+          "brand": "Samsung",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-07-23",
+          "time": "11:07",
+          "publishedAt": "2026-07-23T11:07:17.000Z",
+          "url": "https://www.ithome.com/0/980/810.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/7/404db000-dc65-4998-9779-0039ffa2a1b0.png",
+          "verdict": "先看",
+          "takeaway": "IT之家 7 月 23 日消息，据韩媒 ChosunBiz 今天（23 日）报道，三星电子设备体验（DX）部门负责人兼社长卢泰文在 2026 年三星 Galaxy 全球新品发布会后受访表示：“折叠屏手机无论在技术还是市场层面 都已进入成熟期 。越来越多企业加入竞争，说明折叠屏手机已经成为主流产品。” 苹果预计将在 9 月随 iPhone 18 系列发布首款…",
+          "detail": "IT之家 7 月 23 日消息，据韩媒 ChosunBiz 今天（23 日）报道，三星电子设备体验（DX）部门负责人兼社长卢泰文在 2026 年三星 Galaxy 全球新品发布会后受访表示：“折叠屏手机无论在技术还是市场层面 都已进入成熟期 。越来越多企业加入竞争，说明折叠屏手机已经成为主流产品。” 苹果预计将在 9 月随 iPhone 18 系列发布首款…",
+          "keyPoints": [
+            "屏幕形态"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "auto-ce39dafbfa19",
+          "title": "荣耀 Magic V6 折叠屏手机开启 MagicOS 11 先锋招募",
+          "originalTitle": "",
+          "source": "IT之家",
+          "brand": "HONOR",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-07-23",
+          "time": "10:35",
+          "publishedAt": "2026-07-23T10:35:47.000Z",
+          "url": "https://www.ithome.com/0/980/803.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/3/61d9b8db-ea4b-4159-b1ab-29ca709734fa.jpg?x-bce-process=image/auto-orient,o_1",
+          "verdict": "先看",
+          "takeaway": "IT之家 7 月 23 日消息，荣耀官方今日宣布，MagicOS 11 液态玻璃尝鲜版开启了先锋二期招募， 本次新增招募 荣耀 Magic V6 折叠屏手机 。同时增推先锋一期 Magic8 系列的满分报名用户，将与 V6 同步推送（ 点此报名 ）。 ▲ IT之家开箱：荣耀 Magic V6 “赤兔红”实拍 招募时间： 2026 年 7 月 23 日 ~7…",
+          "detail": "IT之家 7 月 23 日消息，荣耀官方今日宣布，MagicOS 11 液态玻璃尝鲜版开启了先锋二期招募， 本次新增招募 荣耀 Magic V6 折叠屏手机 。同时增推先锋一期 Magic8 系列的满分报名用户，将与 V6 同步推送（ 点此报名 ）。 ▲ IT之家开箱：荣耀 Magic V6 “赤兔红”实拍 招募时间： 2026 年 7 月 23 日 ~7…",
+          "keyPoints": [
+            "屏幕形态"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
           "id": "auto-33efbfcf23c3",
           "title": "全球首款机器人手机荣耀 Robot Phone 官宣 8 月见，宣称“打破手机固有形态”",
           "originalTitle": "",
@@ -176,31 +198,6 @@ window.phoneRadarDaily = {
           "detail": "IT之家 7 月 23 日消息，博主 @数码闲聊站 今日爆料称，某厂 PM 工程机测试的超大底长焦就是前代 U 同款，OV52A 200Mp 1/1.28\"，支持近距离长焦微距，如果顺利落地的话，也算是同档无敌。 IT之家注意到，上一代的 OPPO Find X9 Ultra 便搭载豪威 OV52A 影像传感器，支持 2 亿像素、1/1.28 英寸底、f/…",
           "keyPoints": [
             "影像硬件",
-            "爆料来源"
-          ],
-          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "weibo-e3073b2522d4",
-          "title": "数码闲聊站：iQOO Neo新机暂定8月前后上线，2K直屏中端旗舰级性能机，100W闪充大…",
-          "originalTitle": "",
-          "source": "数码闲聊站",
-          "brand": "vivo",
-          "type": "爆料",
-          "trust": "高关注爆料源",
-          "date": "2026-07-23",
-          "time": "02:35",
-          "publishedAt": "2026-07-23T02:35:00.000Z",
-          "url": "https://weibo.com/6048569942/R9YUfwAxL",
-          "image": "",
-          "verdict": "先看",
-          "takeaway": "iQOO Neo新机暂定8月前后上线，2K直屏中端旗舰级性能机，100W闪充大电池，驰光白/疾影黑/乘风，12+256GB/12+512GB/16+256GB/16+512GB，3D超声波指纹+IP68，预计3K档👖",
-          "detail": "iQOO Neo新机暂定8月前后上线，2K直屏中端旗舰级性能机，100W闪充大电池，驰光白/疾影黑/乘风，12+256GB/12+512GB/16+256GB/16+512GB，3D超声波指纹+IP68，预计3K档👖",
-          "keyPoints": [
-            "屏幕形态",
-            "电池 / 充电",
             "爆料来源"
           ],
           "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
