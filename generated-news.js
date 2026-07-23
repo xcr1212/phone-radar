@@ -1,6 +1,146 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-07-23T14:30:11.818Z",
+  "updatedAt": "2026-07-23T17:44:56.454Z",
   "news": [
+    {
+      "id": "auto-fc71ac68c9b5",
+      "title": "First day after Galaxy Unpacked, I’m already over the Z Fold 8 Ultra",
+      "source": "SamMobile",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-23",
+      "time": "17:14",
+      "publishedAt": "2026-07-23T17:14:14.000Z",
+      "url": "https://www.sammobile.com/opinion/first-day-after-galaxy-unpacked-already-over-z-fold-8-ultra/",
+      "image": "",
+      "summary": "Houston, we've got a first-world problem. Samsung just dropped its new foldables yesterday, and I was super hyped after getting my hands on the Galaxy Z Fold 8 lineup. Being media…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-88ba6f8372d7",
+      "title": "Samsung opens The Fold Inn pub in London to celebrate Galaxy Z Fold 8 series, Flip 8 launch",
+      "source": "SamMobile",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-23",
+      "time": "17:10",
+      "publishedAt": "2026-07-23T17:10:51.000Z",
+      "url": "https://www.sammobile.com/news/samsung-opens-the-fold-inn-pub-london-celebrate-galaxy-z-fold-8-flip-8-launch/",
+      "image": "https://www.sammobile.com/wp-content/uploads/2026/07/Samsung-The-Fold-Inn-Pub-London-For-Galaxy-Z-Fold-8-Ultra-Fold-8-Flip-8-01.jpg",
+      "summary": "Yesterday, Samsung launched its latest flagship foldable smartphones—the Galaxy Z Fold 8 Ultra, Galaxy Z Fold 8, and Galaxy Z Flip 8. To celebrate their arrival, the company has n…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-8bd1107969f7",
+      "title": "Samsung chief explains why the Galaxy Z Fold 8 series is way cheaper in Korea",
+      "source": "Android Authority",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-23",
+      "time": "16:15",
+      "publishedAt": "2026-07-23T16:15:09.000Z",
+      "url": "https://www.androidauthority.com/galaxy-z-fold-8-korean-price-explanation-3690710/",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2026/07/Samsung-Galaxy-Z-Fold-8-Ultra-vs-Z-Fold-8-side-by-side-1.jpg",
+      "summary": "The Samsung CEO says the company aims to keep prices low in Korea.",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-1f008ea95f66",
+      "title": "5 Reasons to Buy the iPhone 17 Now Instead of Waiting for iPhone 18",
+      "source": "MacRumors",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-23",
+      "time": "15:26",
+      "publishedAt": "2026-07-23T15:26:53.000Z",
+      "url": "https://www.macrumors.com/2026/07/23/5-reasons-buy-iphone-17-not-waiting-iphone-18/",
+      "image": "https://images.macrumors.com/article-new/2026/07/5-Reasons-to-Buy-the-iPhone-17-Now-Feature.jpg",
+      "summary": "Apple's iPhone 18 Pro models and its first foldable are less than two months from being unveiled. That may sound like a reason to sit tight if you're looking to upgrade from an iP…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-ec937d23505f",
+      "title": "Galaxy S27, S27+ tipped to feature Sony main cameras, unchanged ultra-wide sensors",
+      "source": "SamMobile",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-23",
+      "time": "15:15",
+      "publishedAt": "2026-07-23T15:15:50.000Z",
+      "url": "https://www.sammobile.com/news/galaxy-s27-s27-tipped-feature-sony-main-cameras-unchanged-ultra-wide-sensors/",
+      "image": "",
+      "summary": "Leaks about Samsung's next flagship non-foldable smartphone lineup, the Galaxy S27 series, started surfacing even before the Galaxy S26 lineup was unveiled. Now, a new report has…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-070d6241bdf3",
+      "title": "消息称荣耀实验室主摄物料最高为豪威 OVB0D，支持 200Mp 1/1.12\"",
+      "source": "IT之家",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-23",
+      "time": "15:08",
+      "publishedAt": "2026-07-23T15:08:29.000Z",
+      "url": "https://www.ithome.com/0/980/865.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/7/dce89056-6f49-43c4-98fc-bbe0c776cbed.png",
+      "summary": "IT之家 7 月 23 日消息，博主 @数码闲聊站 今日爆料，荣耀实验室目前主摄物料最高 OVB0D，200Mp 1/1.12\" LOFIC 超级大底国产镜皇，这颗镜头同步开启下一代长焦端的可行性预研。 IT之家注意到， 豪威于去年 12 月推出 OVB0D 手机 CMOS 传感器 。结合 GSMArena 此前报道，OVB0D 传感器拥有 40 万 fu…",
+      "tags": [
+        "HONOR",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-1732d1bea48f",
+      "title": "This tempting Google Pixelsnap Charger deal even beats its Prime Day price",
+      "source": "Android Authority",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-23",
+      "time": "14:47",
+      "publishedAt": "2026-07-23T14:47:36.000Z",
+      "url": "https://www.androidauthority.com/google-pixelsnap-charger-deal-3690729/",
+      "image": "",
+      "summary": "Amazon just cut the Google Pixelsnap Charger with Stand to $50.39. It works with Pixel 10 and other Qi2 phones.",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-2f5e38f18ddf",
       "title": "Google’s official Pixel 67W charger is nearly half off right now, its best price ever",
@@ -302,26 +442,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-c1745bffcdb8",
-      "title": "RIP, Google Pixel 6, the best and worst Pixel ever",
-      "source": "Android Police",
-      "brand": "Pixel",
-      "model": "Pixel 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-23",
-      "time": "10:30",
-      "publishedAt": "2026-07-23T10:30:16.000Z",
-      "url": "https://www.androidpolice.com/rip-pixel-6-best-and-worst-google-pixel/",
-      "image": "",
-      "summary": "The two phones won't receive further updates",
-      "tags": [
-        "Pixel",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-21183bfdda5c",
       "title": "Samsung’s pop-up store in London lets you explore Galaxy Z Flip 8 and Z Fold 8",
       "source": "SamMobile",
@@ -357,26 +477,6 @@ window.phoneRadarAuto = {
       "summary": "Samsung has implemented price hikes for the Galaxy Z Fold 8, Galaxy Z Fold 8 Ultra, and the Galaxy Z Flip 8 across all markets expect one: South Korea. The company has continued t…",
       "tags": [
         "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-2391e6a8bf06",
-      "title": "My Pixel 10 Pro overheated to 118F; I did the wrong thing to fix it",
-      "source": "Android Police",
-      "brand": "Pixel",
-      "model": "Pixel 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-23",
-      "time": "10:01",
-      "publishedAt": "2026-07-23T10:01:14.000Z",
-      "url": "https://www.androidpolice.com/google-pixel-10-overheated-did-wrong-thing/",
-      "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2026/07/a-smartphone-displaying-gps-navigation-overheats-on-a-car-dashboard.png",
-      "summary": "I nearly burned myself just holding it with my hand!",
-      "tags": [
-        "Pixel",
         "爆料",
         "自动抓取"
       ]
@@ -437,66 +537,6 @@ window.phoneRadarAuto = {
       "summary": "Samsung is the undisputed leader in the foldable segment but that lead could soon be seriously challenged. Apple is expected to launch its first foldable iPhone later this year an…",
       "tags": [
         "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-33efbfcf23c3",
-      "title": "全球首款机器人手机荣耀 Robot Phone 官宣 8 月见，宣称“打破手机固有形态”",
-      "source": "IT之家",
-      "brand": "HONOR",
-      "model": "HONOR 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-23",
-      "time": "09:41",
-      "publishedAt": "2026-07-23T09:41:13.000Z",
-      "url": "https://www.ithome.com/0/980/754.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/7/91ff109b-1958-4924-a49c-d62516463d57.png?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 7 月 23 日消息，荣耀手机官方今日宣布，全球首款机器人手机 —— 荣耀 Robot Phone“8 月见” 。荣耀官方宣称“从颠覆行业标准答案，到打破手机固有形态”。 值得一提的是，荣耀手机此次发布的海报已经用上了今日发布的全新品牌图形标识“荣耀之环”。 据IT之家此前报道， 荣耀 Robot Phone 已开启预约 ，搭载第五代骁龙 8 至…",
-      "tags": [
-        "HONOR",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-a43020f56a60",
-      "title": "Five impressive features of the wide-body Samsung Galaxy Z Fold 8",
-      "source": "SamMobile",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-23",
-      "time": "09:38",
-      "publishedAt": "2026-07-23T09:38:24.000Z",
-      "url": "https://www.sammobile.com/news/top-5-galaxy-z-fold-8-features-impressed-us/",
-      "image": "https://www.sammobile.com/wp-content/uploads/2026/07/1-Galaxy-Z-Fold-8-Instagram-cover-screen-1920x1079.jpg",
-      "summary": "The Galaxy Z Fold 8 is arguably Samsung's most impressive new device this year. Samsung has used the knowledge gained from developing seven generations of foldable smartphones to…",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-120d100294ce",
-      "title": "消息称某厂 PM 工程机测试 OV52A 两亿长焦，预计为 OPPO Find X10 Pro Max",
-      "source": "IT之家",
-      "brand": "OPPO",
-      "model": "OPPO 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-23",
-      "time": "09:22",
-      "publishedAt": "2026-07-23T09:22:54.000Z",
-      "url": "https://www.ithome.com/0/980/729.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/7/fcef1ab6-4322-4599-a27c-22649dd94bfb.png?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 7 月 23 日消息，博主 @数码闲聊站 今日爆料称，某厂 PM 工程机测试的超大底长焦就是前代 U 同款，OV52A 200Mp 1/1.28\"，支持近距离长焦微距，如果顺利落地的话，也算是同档无敌。 IT之家注意到，上一代的 OPPO Find X9 Ultra 便搭载豪威 OV52A 影像传感器，支持 2 亿像素、1/1.28 英寸底、f/…",
-      "tags": [
-        "OPPO",
         "爆料",
         "自动抓取"
       ]
@@ -639,26 +679,6 @@ window.phoneRadarAuto = {
         "Samsung",
         "爆料",
         "自动抓取"
-      ]
-    },
-    {
-      "id": "coolapk-user-ce4d00e4e976",
-      "title": "竹本青：荣耀全新品牌主张／图形标识正式官宣",
-      "source": "竹本青",
-      "brand": "HONOR",
-      "model": "HONOR 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-07-23",
-      "time": "06:01",
-      "publishedAt": "2026-07-23T06:01:34.000Z",
-      "url": "https://www.coolapk.com/feed/72903611",
-      "image": "http://image.coolapk.com/feed/2026/0723/14/4248714_9e8dc9bd_6964_9176_183@3840x2160.jpg",
-      "summary": "【荣耀全新品牌主张／图形标识 正式官宣：「敢想，敢不同」、「荣耀之环」】 全新品牌主张 —— 敢想，敢不同 全新品牌图形标识 —— 荣耀之环 7月23日，荣耀终端股份有限公司CEO李健 官宣全新品牌主张与图形标识。“打破完美之圆，向内探索、向外突破。敢想，敢不同，荣耀焕新出发。 ” #今日热点# #荣耀# #MagicOS10#",
-      "tags": [
-        "HONOR",
-        "爆料",
-        "酷安博主"
       ]
     },
     {
@@ -902,21 +922,121 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-d641f13480e4",
-      "title": "特大自然灾害时手机自动换其他运营商",
-      "source": "百度热搜",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
+      "id": "newsnow-8d3b0b9b6b7e",
+      "title": "我的出行好伙伴，用 iPhone 一站式解决旅途痛点",
+      "source": "少数派热榜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "评测",
       "trust": "媒体汇总",
       "date": "2026-07-23",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.baidu.com/s?wd=%E7%89%B9%E5%A4%A7%E8%87%AA%E7%84%B6%E7%81%BE%E5%AE%B3%E6%97%B6%E6%89%8B%E6%9C%BA%E8%87%AA%E5%8A%A8%E6%8D%A2%E5%85%B6%E4%BB%96%E8%BF%90%E8%90%A5%E5%95%86",
+      "url": "https://sspai.com/post/112044",
       "image": "",
-      "summary": "特大自然灾害时手机自动换其他运营商",
+      "summary": "我的出行好伙伴，用 iPhone 一站式解决旅途痛点",
       "tags": [
-        "行业",
+        "iPhone",
+        "评测",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-aabbbe0549d4",
+      "title": "iPhone Air 当主力机用了三个多月后，我为什么还是换不掉它",
+      "source": "少数派热榜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-07-23",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://sspai.com/post/111113",
+      "image": "",
+      "summary": "iPhone Air 当主力机用了三个多月后，我为什么还是换不掉它",
+      "tags": [
+        "iPhone",
+        "评测",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-72808a56337f",
+      "title": "快捷指令｜让 iPhone 用上锤子的「大爆炸」",
+      "source": "少数派热榜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-07-23",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://sspai.com/post/111405",
+      "image": "",
+      "summary": "快捷指令｜让 iPhone 用上锤子的「大爆炸」",
+      "tags": [
+        "iPhone",
+        "评测",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-f6286d268a45",
+      "title": "三星Galaxy Z Fold 8 阔折叠手机发布：12999元起",
+      "source": "酷安热榜",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-07-23",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/72895027",
+      "image": "",
+      "summary": "三星Galaxy Z Fold 8 阔折叠手机发布：12999元起",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-0c6715980fdf",
+      "title": "REDMI K90 Pro Max被曝存在屏幕抖动问题",
+      "source": "酷安热榜",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-07-23",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/72893235",
+      "image": "",
+      "summary": "REDMI K90 Pro Max被曝存在屏幕抖动问题",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-3d8596c6fa3d",
+      "title": "三星推出 Galaxy Z Fold8 Ultra：14,999元起",
+      "source": "酷安热榜",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-07-23",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/72895516",
+      "image": "",
+      "summary": "三星推出 Galaxy Z Fold8 Ultra：14,999元起",
+      "tags": [
+        "Samsung",
         "爆料",
         "NewsNow"
       ]
@@ -1675,26 +1795,6 @@ window.phoneRadarAuto = {
       "url": "https://9to5google.com/2026/07/22/the-galaxy-z-flip-8-gives-off-last-hurrah-vibes-for-1199/",
       "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/07/galaxy-z-flip-8-3.jpg?quality=82&strip=all&w=1600",
       "summary": "The Galaxy Z Fold 8 series is clearly the focus of this year’s foldable launch, with the Galaxy Z Flip 8 delivering minor changes and, frankly, feeling like it’s on its way out.",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-518ec73c9204",
-      "title": "Hands-On With Samsung's Galaxy Z Fold8, the Closest Thing Yet to a Foldable iPhone",
-      "source": "MacRumors",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-22",
-      "time": "13:01",
-      "publishedAt": "2026-07-22T13:01:00.000Z",
-      "url": "https://www.macrumors.com/2026/07/22/samsung-galaxy-z-fold8/",
-      "image": "",
-      "summary": "Samsung today debuted its latest foldable devices, including the Galaxy Z Flip8 , the Galaxy Z Fold8 Ultra , and the new Galaxy Z Fold8 , which has a design similar to what we're…",
       "tags": [
         "Samsung",
         "爆料",
