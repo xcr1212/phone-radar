@@ -1,6 +1,66 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-07-23T19:44:43.826Z",
+  "updatedAt": "2026-07-23T21:20:35.015Z",
   "news": [
+    {
+      "id": "auto-e810be10c74e",
+      "title": "Samsung made the Galaxy Z Fold 8 a worse deal for those who actually want to switch",
+      "source": "9to5Google",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-23",
+      "time": "20:35",
+      "publishedAt": "2026-07-23T20:35:00.000Z",
+      "url": "https://9to5google.com/2026/07/23/samsung-galaxy-z-fold-8-switch-trade-in-value-problem/",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/07/galaxy-z-fold-8-series-32.jpg?quality=82&strip=all&w=1600",
+      "summary": "Samsung’s new Galaxy Z Fold 8 series is here and, obviously, the company wants you to switch to its new foldable. And yet, Samsung is putting money in all the wrong places to acco…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-74861d7bf7d3",
+      "title": "iPhone 18 Pro: Three reasons you might want to upgrade from iPhone 17 Pro",
+      "source": "9to5Mac",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-23",
+      "time": "20:22",
+      "publishedAt": "2026-07-23T20:22:10.000Z",
+      "url": "https://9to5mac.com/2026/07/23/iphone-18-pro-three-reasons-you-might-want-to-upgrade-from-iphone-17-pro/",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/02/iPhone-18-Pro-reportedly-enters-test-production.jpg?quality=82&strip=all&w=1500",
+      "summary": "iPhone 18 Pro is just a couple months away , and while most iPhone 17 Pro owners won’t upgrade so soon, for those considering a new iPhone there are three main features likely to…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-1a43cbd6ebb1",
+      "title": "Report: iPhone Ultra set to account for 25% of foldable smartphone shipments in 2026",
+      "source": "9to5Mac",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-23",
+      "time": "19:49",
+      "publishedAt": "2026-07-23T19:49:23.000Z",
+      "url": "https://9to5mac.com/2026/07/23/report-iphone-ultra-set-to-account-for-25-of-foldable-smartphone-shipments-in-2026/",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/iphone-ultra-concept-orange.jpg?quality=82&strip=all&w=1600",
+      "summary": "Counterpoint Research is out with a new report forecasting 21% year-over-year growth in global foldable smartphone shipments in 2026, with Apple expected to capture a 25% share fo…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-0751d2b9e823",
       "title": "That’s about as close as we’ll ever get to a ‘Google Pixel Flip’",
@@ -82,7 +142,7 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-34fc5e955aec",
+      "id": "auto-ece5dae87fd1",
       "title": "Does the Galaxy Z Fold 8 have Flex mode?",
       "source": "SamMobile",
       "brand": "Samsung",
@@ -92,7 +152,7 @@ window.phoneRadarAuto = {
       "date": "2026-07-23",
       "time": "18:08",
       "publishedAt": "2026-07-23T18:08:11.000Z",
-      "url": "https://www.sammobile.com/news/looking-for-flex-mode-on-the-galaxy-z-fold-8-dont-bother/",
+      "url": "https://www.sammobile.com/news/samsung-galaxy-z-fold-8-flex-mode-support/",
       "image": "",
       "summary": "Flex Mode has been a longstanding feature on Samsung's foldable phones since it was introduced with the Galaxy Z Flip back in 2020. When unfolded, you could have the display open…",
       "tags": [
@@ -602,26 +662,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-8f550bc21520",
-      "title": "Is the Galaxy Z Fold 8 Ultra worth $200 more than the Z Fold 8? Here’s my expert advice",
-      "source": "Android Authority",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-23",
-      "time": "09:00",
-      "publishedAt": "2026-07-23T09:00:43.000Z",
-      "url": "https://www.androidauthority.com/galaxy-z-fold-8-ultra-vs-fold-8-worth-200-more-3686769/",
-      "image": "https://www.androidauthority.com/wp-content/uploads/2026/07/Galaxy-Z-Fold-8-Cream-Z-Fold-8-Ultra-Lavender.jpg",
-      "summary": "The Galaxy Z Fold 8 makes compromises the Z Fold 7 never had to.",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "weibo-a72fee7e7ce9",
       "title": "数码闲聊站：咳咳，PM工程机测试的超大底长焦就是前代U同款，OV52A 200Mp 1/1…",
       "source": "数码闲聊站",
@@ -1062,26 +1102,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-f6286d268a45",
-      "title": "三星Galaxy Z Fold 8 阔折叠手机发布：12999元起",
-      "source": "酷安热榜",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-07-23",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72895027",
-      "image": "",
-      "summary": "三星Galaxy Z Fold 8 阔折叠手机发布：12999元起",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
       "id": "newsnow-0c6715980fdf",
       "title": "REDMI K90 Pro Max被曝存在屏幕抖动问题",
       "source": "酷安热榜",
@@ -1097,6 +1117,26 @@ window.phoneRadarAuto = {
       "summary": "REDMI K90 Pro Max被曝存在屏幕抖动问题",
       "tags": [
         "Xiaomi",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-f6286d268a45",
+      "title": "三星Galaxy Z Fold 8 阔折叠手机发布：12999元起",
+      "source": "酷安热榜",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-07-23",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/72895027",
+      "image": "",
+      "summary": "三星Galaxy Z Fold 8 阔折叠手机发布：12999元起",
+      "tags": [
+        "Samsung",
         "爆料",
         "NewsNow"
       ]
@@ -2162,6 +2202,26 @@ window.phoneRadarAuto = {
       ]
     },
     {
+      "id": "auto-46e695eb950f",
+      "title": "I was fully prepared to hate Samsung's new wider Galaxy Z Fold 8, but after testing it with the new Galaxy Z Fold 8 Ultra, I've completely changed my tune",
+      "source": "Android Central",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-07-22",
+      "time": "13:00",
+      "publishedAt": "2026-07-22T13:00:00.000Z",
+      "url": "https://www.androidcentral.com/phones/samsung-galaxy/samsung-galaxy-z-fold-8-series-hands-on",
+      "image": "https://cdn.mos.cms.futurecdn.net/Yc8CwBgcRkjCYQ8L7PMEgF-1280-80.jpg",
+      "summary": "Samsung unveiled not one but two new Galaxy Z Fold 8 models, and they're meant to target different users, thanks to a shorter and wider design on the base model. They might be ont…",
+      "tags": [
+        "Samsung",
+        "评测",
+        "自动抓取"
+      ]
+    },
+    {
       "id": "auto-4cd8a8905c71",
       "title": "The Galaxy Z Fold 8 is official, and it changes what Samsung's foldable lineup looks like",
       "source": "Android Central",
@@ -2215,26 +2275,6 @@ window.phoneRadarAuto = {
       "url": "https://www.androidcentral.com/phones/samsung-galaxy/samsung-galaxy-z-flip-8-hands-on",
       "image": "https://cdn.mos.cms.futurecdn.net/wncGoxjQmVoDfQdUNAhJjM-1280-80.jpg",
       "summary": "The new Galaxy Z Flip 8 is a refined Z Flip 7 with a new battery and an upgraded cover screen experience, but is it enough to save the Flip line?",
-      "tags": [
-        "Samsung",
-        "评测",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-46e695eb950f",
-      "title": "I was fully prepared to hate Samsung's new wider Galaxy Z Fold 8, but after testing it with the new Galaxy Z Fold 8 Ultra, I've completely changed my tune",
-      "source": "Android Central",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "评测",
-      "trust": "媒体汇总",
-      "date": "2026-07-22",
-      "time": "13:00",
-      "publishedAt": "2026-07-22T13:00:00.000Z",
-      "url": "https://www.androidcentral.com/phones/samsung-galaxy/samsung-galaxy-z-fold-8-series-hands-on",
-      "image": "https://cdn.mos.cms.futurecdn.net/Yc8CwBgcRkjCYQ8L7PMEgF-1280-80.jpg",
-      "summary": "Samsung unveiled not one but two new Galaxy Z Fold 8 models, and they're meant to target different users, thanks to a shorter and wider design on the base model. They might be ont…",
       "tags": [
         "Samsung",
         "评测",
@@ -2357,46 +2397,6 @@ window.phoneRadarAuto = {
       "summary": "Recent developments have brought major changes to Oppo’s smartphone strategy. After confirming that OnePlus will stop launching new products in Europe and North America while cont…",
       "tags": [
         "OPPO",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-87ed3916ac2d",
-      "title": "Apple promotes ‘Nido de Villanas,’ a Mexican microdrama shot on iPhone 17 Pro",
-      "source": "9to5Mac",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-22",
-      "time": "01:37",
-      "publishedAt": "2026-07-22T01:37:01.000Z",
-      "url": "https://9to5mac.com/2026/07/21/apple-promotes-nido-de-villanas-a-mexican-microdrama-shot-on-iphone-17-pro/",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/nido-de-villanas.jpg?quality=82&strip=all&w=1600",
-      "summary": "Apple has shared a first look at Nido de Villanas, a tongue-in-cheek Mexican microdrama shot entirely on an iPhone 17 Pro, which is now available as 14 Shorts on YouTube.",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-c2dea1a8c583",
-      "title": "Google Pixel 11 Series Roundup: Here’s Everything You Need To Know",
-      "source": "Gizmochina",
-      "brand": "Pixel",
-      "model": "Pixel 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-22",
-      "time": "00:31",
-      "publishedAt": "2026-07-22T00:31:42.000Z",
-      "url": "https://www.gizmochina.com/2026/07/22/google-pixel-11-series-roundup-everything-you-need-to-know/",
-      "image": "",
-      "summary": "Google is getting ready to announce its next generation of smartphones. The company has scheduled its Made by Google hardware event for August 12 in New York City, with an Indian…",
-      "tags": [
-        "Pixel",
         "爆料",
         "自动抓取"
       ]
