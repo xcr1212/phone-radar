@@ -1,6 +1,66 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-07-24T21:19:46.722Z",
+  "updatedAt": "2026-07-24T23:15:19.532Z",
   "news": [
+    {
+      "id": "auto-6dc0e6ecd584",
+      "title": "谷歌确认 Pixel 11 系列手机将涨价，后续 Android 系统将提升内存优化",
+      "source": "IT之家",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-24",
+      "time": "23:03",
+      "publishedAt": "2026-07-24T23:03:01.000Z",
+      "url": "https://www.ithome.com/0/981/403.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/7/da6da3f5-1b22-4771-9a15-ea9c8c12371e.jpg?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 7 月 25 日消息，谷歌设备与服务部门副总裁沙基尔 · 巴卡特（Shakil Barkat）昨天接受外媒 9To5Google 采访，确认 Pixel 11 系列手机将涨价。 巴卡特表示，谷歌和所有消费电子公司一样，都在经历前所未有的内存涨价。摩根士丹利数据显示，2025 年 1GB 内存的价格约 2.8 美元（IT之家注：现汇率约合 19 元…",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-589bd8bb49d2",
+      "title": "高通宣布 9 月起芯片涨价，涨幅达两位数百分比",
+      "source": "IT之家",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-24",
+      "time": "22:55",
+      "publishedAt": "2026-07-24T22:55:03.000Z",
+      "url": "https://www.ithome.com/0/981/400.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/7/442f986b-4933-479e-9c60-0a1949dddf54.png",
+      "summary": "IT之家 7 月 25 日消息，据彭博社今日报道，高通公司正准备提高芯片产品价格，涨幅将达到两位数百分比。 作为全球主要智能手机处理器供应商之一，高通此次调价可能影响智能手机、可穿戴设备等多个科技领域。 据彭博社看到的一份文件显示，高通已于当地时间 7 月 24 日向客户发送涨价通知，并表示新价格将适用于 9 月 1 日之后出货的产品。 高通在通知中提到，…",
+      "tags": [
+        "行业",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-7d0c7b7363a9",
+      "title": "Apple Pay is getting even better with four new features",
+      "source": "9to5Mac",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-24",
+      "time": "21:24",
+      "publishedAt": "2026-07-24T21:24:36.000Z",
+      "url": "https://9to5mac.com/2026/07/24/apple-pay-is-getting-even-better-with-four-new-features/",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2021/10/apple-pay-header.jpg?quality=82&strip=all&w=1600",
+      "summary": "Apple Pay is a go-to feature for iPhone users when shopping in stores, online, and in apps. Apple recently announced four new features that make Apple Pay even better. Here’s how…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-bbfe1e4f4fff",
       "title": "WhatsApp testing new message bubbles on iOS",
@@ -337,26 +397,6 @@ window.phoneRadarAuto = {
       "summary": "New leak reveals internal \"NM\" codenames and some sensor details for Samsung's next flagship lineup.",
       "tags": [
         "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-70f1b43bad78",
-      "title": "Switching from iPhone to Android in 2026 is pointless; that's why Apple is winning",
-      "source": "Android Police",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-24",
-      "time": "12:15",
-      "publishedAt": "2026-07-24T12:15:15.000Z",
-      "url": "https://www.androidpolice.com/switching-from-iphone-to-android-in-2026-is-pointless-thats-why-apple-is-winning/",
-      "image": "",
-      "summary": "Everything feels the same",
-      "tags": [
-        "iPhone",
         "爆料",
         "自动抓取"
       ]
@@ -862,26 +902,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-5d5a9eb1dd8b",
-      "title": "今天把小米14卖掉了，晚上没忍住哭了，因为这个小米14承载了我诸多难忘的回忆，同时也是我上大学拥有的第一部真正的旗舰，我现在还记得当时去买这个手机的那一天，其实把手机寄出快递的那一瞬间心里就开始难受了，我哭的一部分原因也有日常使用对小米14比较粗暴而愧疚吧，现在我也开始后悔卖掉了，应该留下来收藏的或者当备用机的，唉，小米14，一转眼，时间过得好快，18都要马上出来了，好吧我纯粹是无聊写着玩的，其实压根没有这样，谁会为了个手机这样[笑哭]，既然你们能看到这里，就当是个乐子吧[受虐滑稽]",
-      "source": "酷安热榜",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-07-24",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72911679",
-      "image": "",
-      "summary": "今天把小米14卖掉了，晚上没忍住哭了，因为这个小米14承载了我诸多难忘的回忆，同时也是我上大学拥有的第一部真正的旗舰，我现在还记得当时去买这个手机的那一天，其实把手机寄出快递的那一瞬间心里就开始难受了，我哭的一部分原因也有日常使用对小米14比较粗暴而愧疚吧，现在我也开始后悔卖掉了，应该留下来收藏的或者当备用机的，唉，小米14，一转眼，时间过得好快，18都要…",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
       "id": "newsnow-930d0d0bb288",
       "title": "海信墨水屏手机 A10 确认8月底正式开售",
       "source": "酷安热榜",
@@ -1117,26 +1137,6 @@ window.phoneRadarAuto = {
       "summary": "The Samsung CEO says the company aims to keep prices low in Korea.",
       "tags": [
         "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-1f008ea95f66",
-      "title": "5 Reasons to Buy the iPhone 17 Now Instead of Waiting for iPhone 18",
-      "source": "MacRumors",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-23",
-      "time": "15:26",
-      "publishedAt": "2026-07-23T15:26:53.000Z",
-      "url": "https://www.macrumors.com/2026/07/23/5-reasons-buy-iphone-17-not-waiting-iphone-18/",
-      "image": "https://images.macrumors.com/article-new/2026/07/5-Reasons-to-Buy-the-iPhone-17-Now-Feature.jpg",
-      "summary": "Apple's iPhone 18 Pro models and its first foldable are less than two months from being unveiled. That may sound like a reason to sit tight if you're looking to upgrade from an iP…",
-      "tags": [
-        "iPhone",
         "爆料",
         "自动抓取"
       ]
