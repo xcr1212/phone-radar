@@ -1,14 +1,14 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-07-24T17:50:36.836Z",
+  "updatedAt": "2026-07-24T19:45:48.485Z",
   "issueDate": "2026-07-24",
   "issue": "VOL.260724",
   "title": "手机情报日报",
-  "intro": "今日筛出 12 条重点，其中 8 条是重点爆料，包含 5 条 iPhone 相关、1 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 12 条重点，其中 8 条是重点爆料，包含 7 条 iPhone 相关、0 条官方确认、0 条参数线索。",
   "stats": {
     "total": 12,
-    "iphone": 5,
+    "iphone": 7,
     "leaks": 8,
-    "official": 1,
+    "official": 0,
     "specs": 0
   },
   "sections": [
@@ -160,6 +160,29 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
+          "id": "newsnow-109bd0378f96",
+          "title": "小米折叠屏新机入网公示：备案搭载多款大模型",
+          "originalTitle": "",
+          "source": "酷安热榜",
+          "brand": "Xiaomi",
+          "type": "爆料",
+          "trust": "高关注爆料源",
+          "date": "2026-07-24",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://www.coolapk.com/feed/72922533",
+          "image": "",
+          "verdict": "先看",
+          "takeaway": "小米折叠屏新机入网公示：备案搭载多款大模型",
+          "detail": "小米折叠屏新机入网公示：备案搭载多款大模型",
+          "keyPoints": [
+            "屏幕形态"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
           "id": "auto-9645480413ee",
           "title": "消息称手机品牌 Nothing 将在全球裁员 40%，并退出中东、日本等市场",
           "originalTitle": "",
@@ -181,31 +204,6 @@ window.phoneRadarDaily = {
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "auto-160dbec4cfa4",
-          "title": "vivo 机模 / 配色信息曝光",
-          "originalTitle": "",
-          "source": "Gizmochina",
-          "brand": "vivo",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-07-23",
-          "time": "07:28",
-          "publishedAt": "2026-07-23T07:28:15.000Z",
-          "url": "https://www.gizmochina.com/2026/07/23/vivo-s2-india-price-variants-colors-leak/",
-          "image": "https://www.gizmochina.com/wp-content/uploads/2026/07/image-88-300x168.png?x92417",
-          "verdict": "先看",
-          "takeaway": "vivo 机模 / 配色信息曝光。重点看外观、颜色、尺寸是否和上一代有明显变化。",
-          "detail": "vivo 机模 / 配色信息曝光。来源提到未发布机型的机模/配色图，适合先判断外观方向、颜色变化和机身轮廓，但最终量产版本仍可能调整。",
-          "keyPoints": [
-            "外观 / 配色 / 尺寸",
-            "成本 / 价格",
-            "爆料来源"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         }
       ]
     },
@@ -215,26 +213,72 @@ window.phoneRadarDaily = {
       "hint": "不是硬件爆料，但和 iPhone 体验或路线有关。",
       "items": [
         {
-          "id": "auto-9bbf43c61c96",
-          "title": "iPhone 系统功能 / AI 体验相关消息",
+          "id": "newsnow-2cce8f277618",
+          "title": "iPhone Air 使用半年长评，已卖掉",
           "originalTitle": "",
-          "source": "Apple Newsroom",
+          "source": "酷安热榜",
           "brand": "iPhone",
-          "type": "官方",
-          "trust": "官方确认",
+          "type": "爆料",
+          "trust": "高关注爆料源",
           "date": "2026-07-24",
           "time": "",
           "publishedAt": "",
-          "url": "https://www.apple.com/newsroom/2026/06/apple-announces-changes-to-ios-in-brazil/",
+          "url": "https://www.coolapk.com/feed/72915717",
           "image": "",
           "verdict": "先看",
-          "takeaway": "iPhone 系统功能 / AI 体验相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
-          "detail": "iPhone 系统功能 / AI 体验相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
+          "takeaway": "iPhone Air 使用半年长评，已卖掉",
+          "detail": "iPhone Air 使用半年长评，已卖掉",
           "keyPoints": [
-            "官方"
+            "爆料"
           ],
-          "confidence": "官方内容，可直接作为已确认信息记录。",
-          "impact": "可信度高，但如果不是配置/价格消息，只需要扫一眼。",
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        },
+        {
+          "id": "newsnow-5da4fa87b86a",
+          "title": "2026年第29周国内手机市场份额曝光：苹果跌至第五",
+          "originalTitle": "",
+          "source": "酷安热榜",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "高关注爆料源",
+          "date": "2026-07-24",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://www.coolapk.com/feed/72917353",
+          "image": "",
+          "verdict": "先看",
+          "takeaway": "2026年第29周国内手机市场份额曝光：苹果跌至第五",
+          "detail": "2026年第29周国内手机市场份额曝光：苹果跌至第五",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        },
+        {
+          "id": "newsnow-d5ff892bfc37",
+          "title": "服了！女朋友跟我说要把她的iPhone 15 Pro Max换成iPhone 16e做主力机。[疑问][疑问]",
+          "originalTitle": "",
+          "source": "酷安热榜",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "高关注爆料源",
+          "date": "2026-07-24",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://www.coolapk.com/feed/72915293",
+          "image": "",
+          "verdict": "先看",
+          "takeaway": "服了！女朋友跟我说要把她的iPhone 15 Pro Max换成iPhone 16e做主力机。[疑问][疑问]",
+          "detail": "服了！女朋友跟我说要把她的iPhone 15 Pro Max换成iPhone 16e做主力机。[疑问][疑问]",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         }
       ]
@@ -266,59 +310,6 @@ window.phoneRadarDaily = {
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
           "action": "中文源可以直接点开快读；看完只保留和购机有关的点。"
-        }
-      ]
-    },
-    {
-      "id": "market",
-      "title": "行业趋势",
-      "hint": "看方向，不急着当购买依据。",
-      "items": [
-        {
-          "id": "newsnow-5d5a9eb1dd8b",
-          "title": "今天把小米14卖掉了，晚上没忍住哭了，因为这个小米14承载了我诸多难忘的回忆，同时也是我上大学拥有的第一部真正的旗舰，我现在还记得当时去买这个手机的那一天，其实把手机寄出快递的那一瞬间心里就开始难受了，我哭的一部分原因也有日常使用对小米14比较粗暴而愧疚吧，现在我也开始后悔卖掉了，应该留下来收藏的或者当备用机的，唉，小米14，一转眼，时间过得好快，18都要马上出来了，好吧我纯粹是无聊写着玩的，其实压根没有这样，谁会为了个手机这样[笑哭]，既然你们能看到这里，就当是个乐子吧[受虐滑稽]",
-          "originalTitle": "",
-          "source": "酷安热榜",
-          "brand": "Xiaomi",
-          "type": "爆料",
-          "trust": "高关注爆料源",
-          "date": "2026-07-24",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://www.coolapk.com/feed/72911679",
-          "image": "",
-          "verdict": "先看",
-          "takeaway": "今天把小米14卖掉了，晚上没忍住哭了，因为这个小米14承载了我诸多难忘的回忆，同时也是我上大学拥有的第一部真正的旗舰，我现在还记得当时去买这个手机的那一天，其实把手机寄出快递的那一瞬间心里就开始难受了，我哭的一部分原因也有日常使用对小米14比较粗暴而愧疚吧，现在我也开始后悔卖掉了，应该留下来收藏的或者当备用机的，唉，小米14，一转眼，时间过得好快，18都要…",
-          "detail": "今天把小米14卖掉了，晚上没忍住哭了，因为这个小米14承载了我诸多难忘的回忆，同时也是我上大学拥有的第一部真正的旗舰，我现在还记得当时去买这个手机的那一天，其实把手机寄出快递的那一瞬间心里就开始难受了，我哭的一部分原因也有日常使用对小米14比较粗暴而愧疚吧，现在我也开始后悔卖掉了，应该留下来收藏的或者当备用机的，唉，小米14，一转眼，时间过得好快，18都要…",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
-        {
-          "id": "newsnow-45c649e8ced2",
-          "title": "给我妹妹买的 不会不如iphone x吧[受虐滑稽][受虐滑稽]两千五价位好像没有其他选择了[流泪][流泪][流泪][流泪] #HyperOS3# #小米15# #HyperOS4#",
-          "originalTitle": "",
-          "source": "酷安热榜",
-          "brand": "Xiaomi",
-          "type": "爆料",
-          "trust": "高关注爆料源",
-          "date": "2026-07-24",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://www.coolapk.com/feed/72901679",
-          "image": "",
-          "verdict": "先看",
-          "takeaway": "给我妹妹买的 不会不如iphone x吧[受虐滑稽][受虐滑稽]两千五价位好像没有其他选择了[流泪][流泪][流泪][流泪] #HyperOS3# #小米15# #HyperOS4#",
-          "detail": "给我妹妹买的 不会不如iphone x吧[受虐滑稽][受虐滑稽]两千五价位好像没有其他选择了[流泪][流泪][流泪][流泪] #HyperOS3# #小米15# #HyperOS4#",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         }
       ]
     }

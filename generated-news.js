@@ -1,6 +1,66 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-07-24T17:50:36.836Z",
+  "updatedAt": "2026-07-24T19:45:48.485Z",
   "news": [
+    {
+      "id": "auto-c9503e519a3a",
+      "title": "New cameras and battery tech could make the Galaxy S27, S27 Plus interesting",
+      "source": "Android Central",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-07-24",
+      "time": "18:47",
+      "publishedAt": "2026-07-24T18:47:00.000Z",
+      "url": "https://www.androidcentral.com/phones/samsung-galaxy/new-cameras-and-battery-tech-could-make-the-galaxy-s27-s27-plus-interesting",
+      "image": "https://cdn.mos.cms.futurecdn.net/doVmid2s8j2gWYt2QbtfYL-1280-80.jpg",
+      "summary": "Two Galaxy S27 series rumors suggest an interesting launch with upgrades to its cameras and batteries following Unpacked reveals.",
+      "tags": [
+        "Samsung",
+        "评测",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-1434f32e3549",
+      "title": "Galaxy Z Fold 5, Flip 5, Fold 4, Flip 4 get July 2026 security update",
+      "source": "SamMobile",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-24",
+      "time": "18:13",
+      "publishedAt": "2026-07-24T18:13:39.000Z",
+      "url": "https://www.sammobile.com/news/galaxy-z-fold-5-flip-5-fold-4-flip-4-get-july-2026-security-update/",
+      "image": "",
+      "summary": "The Galaxy Z Fold 5, Galaxy Z Flip 5, Galaxy Z Fold 4, and Galaxy Z Flip 4 units in South Korea are getting new software updates. These updates bring the July 2026 security patch,…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-c2952a15d969",
+      "title": "Google confirms Pixel 11 price increase, reveals ‘dedicated’ effort to make Android more RAM-efficient",
+      "source": "9to5Google",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-24",
+      "time": "18:03",
+      "publishedAt": "2026-07-24T18:03:00.000Z",
+      "url": "https://9to5google.com/2026/07/24/google-pixel-11-price-increase/",
+      "image": "",
+      "summary": "Ahead of the Pixel 11 launch , the Made by Google hardware division detailed how it’s impacted by the “severe, supplier-driven RAM memory crisis.” 9to5Google spoke this week with…",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-df206a799730",
       "title": "I found 2 deals that could get you the new Samsung Galaxy Z Fold 8 for free — IF you follow these steps",
@@ -97,26 +157,6 @@ window.phoneRadarAuto = {
       "summary": "But they'll help the bottom line",
       "tags": [
         "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-1494dc4adc69",
-      "title": "Boox is taking on Xteink with its own tiny e-reader",
-      "source": "The Verge",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-24",
-      "time": "15:00",
-      "publishedAt": "2026-07-24T15:00:03.000Z",
-      "url": "https://www.theverge.com/tech/970618/onyx-boox-picco-ereader-xteink",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Onyx-Boox-Picco-2.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "summary": "Boox's new Tile lineup will take on Xteink's popular e-readers that are small enough to stick on the back of an iPhone with MagSafe. As spotted by Good E-Reader, the first one is…",
-      "tags": [
-        "iPhone",
         "爆料",
         "自动抓取"
       ]
@@ -682,6 +722,86 @@ window.phoneRadarAuto = {
       ]
     },
     {
+      "id": "newsnow-109bd0378f96",
+      "title": "小米折叠屏新机入网公示：备案搭载多款大模型",
+      "source": "酷安热榜",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-07-24",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/72922533",
+      "image": "",
+      "summary": "小米折叠屏新机入网公示：备案搭载多款大模型",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-2cce8f277618",
+      "title": "iPhone Air 使用半年长评，已卖掉",
+      "source": "酷安热榜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-07-24",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/72915717",
+      "image": "",
+      "summary": "iPhone Air 使用半年长评，已卖掉",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-5da4fa87b86a",
+      "title": "2026年第29周国内手机市场份额曝光：苹果跌至第五",
+      "source": "酷安热榜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-07-24",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/72917353",
+      "image": "",
+      "summary": "2026年第29周国内手机市场份额曝光：苹果跌至第五",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-d5ff892bfc37",
+      "title": "服了！女朋友跟我说要把她的iPhone 15 Pro Max换成iPhone 16e做主力机。[疑问][疑问]",
+      "source": "酷安热榜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-07-24",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/72915293",
+      "image": "",
+      "summary": "服了！女朋友跟我说要把她的iPhone 15 Pro Max换成iPhone 16e做主力机。[疑问][疑问]",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
       "id": "newsnow-5d5a9eb1dd8b",
       "title": "今天把小米14卖掉了，晚上没忍住哭了，因为这个小米14承载了我诸多难忘的回忆，同时也是我上大学拥有的第一部真正的旗舰，我现在还记得当时去买这个手机的那一天，其实把手机寄出快递的那一瞬间心里就开始难受了，我哭的一部分原因也有日常使用对小米14比较粗暴而愧疚吧，现在我也开始后悔卖掉了，应该留下来收藏的或者当备用机的，唉，小米14，一转眼，时间过得好快，18都要马上出来了，好吧我纯粹是无聊写着玩的，其实压根没有这样，谁会为了个手机这样[笑哭]，既然你们能看到这里，就当是个乐子吧[受虐滑稽]",
       "source": "酷安热榜",
@@ -702,41 +822,21 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-45c649e8ced2",
-      "title": "给我妹妹买的 不会不如iphone x吧[受虐滑稽][受虐滑稽]两千五价位好像没有其他选择了[流泪][流泪][流泪][流泪] #HyperOS3# #小米15# #HyperOS4#",
+      "id": "newsnow-930d0d0bb288",
+      "title": "海信墨水屏手机 A10 确认8月底正式开售",
       "source": "酷安热榜",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
+      "brand": "行业",
+      "model": "智能手机市场",
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-07-24",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72901679",
+      "url": "https://www.coolapk.com/feed/72925076",
       "image": "",
-      "summary": "给我妹妹买的 不会不如iphone x吧[受虐滑稽][受虐滑稽]两千五价位好像没有其他选择了[流泪][流泪][流泪][流泪] #HyperOS3# #小米15# #HyperOS4#",
+      "summary": "海信墨水屏手机 A10 确认8月底正式开售",
       "tags": [
-        "Xiaomi",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-500a56894f86",
-      "title": "给大家申请了Mate30升级鸿蒙六的需求，需求填写到华为上级了，有没有期待的宝子！#鸿蒙6# #华为Mate30#",
-      "source": "酷安热榜",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-07-24",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72900663",
-      "image": "",
-      "summary": "给大家申请了Mate30升级鸿蒙六的需求，需求填写到华为上级了，有没有期待的宝子！#鸿蒙6# #华为Mate30#",
-      "tags": [
-        "Huawei",
+        "行业",
         "爆料",
         "NewsNow"
       ]
@@ -935,26 +1035,6 @@ window.phoneRadarAuto = {
       "url": "https://www.sammobile.com/news/best-iphones-to-trade-in-for-a-galaxy-z-fold-8-in-the-us/",
       "image": "",
       "summary": "Samsung started taking pre-orders for the Galaxy Z Fold 8 yesterday. Prices start at $1,899 and there are plenty of devices that you can trade-in when buying from Samsung online t…",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-fc71ac68c9b5",
-      "title": "First day after Galaxy Unpacked, I’m already over the Z Fold 8 Ultra",
-      "source": "SamMobile",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-23",
-      "time": "17:14",
-      "publishedAt": "2026-07-23T17:14:14.000Z",
-      "url": "https://www.sammobile.com/opinion/first-day-after-galaxy-unpacked-already-over-z-fold-8-ultra/",
-      "image": "",
-      "summary": "Houston, we've got a first-world problem. Samsung just dropped its new foldables yesterday, and I was super hyped after getting my hands on the Galaxy Z Fold 8 lineup. Being media…",
       "tags": [
         "Samsung",
         "爆料",
