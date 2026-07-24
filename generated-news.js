@@ -1,6 +1,86 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-07-24T03:42:42.956Z",
+  "updatedAt": "2026-07-24T06:38:49.680Z",
   "news": [
+    {
+      "id": "coolapk-user-312476eb01a9",
+      "title": "竹本青：【顺丰联合荣耀 升级打造全球智慧央仓，号称仓配质效全面跃升】 日前，顺丰与荣耀联合打造的“荣耀全球智慧央仓”举行开…",
+      "source": "竹本青",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-07-24",
+      "time": "06:04",
+      "publishedAt": "2026-07-24T06:04:56.000Z",
+      "url": "https://www.coolapk.com/feed/72917783",
+      "image": "http://image.coolapk.com/feed/2026/0724/14/4248714_8e5385c7_3095_3624_705@1088x726.jpg",
+      "summary": "【顺丰联合荣耀 升级打造全球智慧央仓，号称仓配质效全面跃升】 日前，顺丰与荣耀联合打造的“荣耀全球智慧央仓”举行开仓仪式。该智慧央仓立足大湾区中心，是面向荣耀全球业务的全场景一站式交付枢纽。 荣耀全球智慧央仓由顺丰运营管理，占地总面积超40000平方米，为自营电商、线上线下渠道及运营商等B端客户与C端终端消费者提供稳定供应链支撑。 荣耀2B业务面向全球发货…",
+      "tags": [
+        "HONOR",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-f36120ceb025",
+      "title": "一加 N6x 手机公布，7 月 31 日海外发布",
+      "source": "IT之家",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-24",
+      "time": "05:31",
+      "publishedAt": "2026-07-24T05:31:42.000Z",
+      "url": "https://www.ithome.com/0/981/105.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/7/52f3565c-8b54-489f-9029-f16d65567eb7.png?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 7 月 24 日消息，一加现已在印度市场公布 OnePlus N6x 手机的详细参数， 新机将于印度时间 7 月 31 日 12:00（北京时间 14:30）发布 。 据介绍， 这款手机将提供勃艮第红 、 冰蓝两种配色 ，采用纵向排列的后置摄像头模组，整体设计与去年的一加 Nord CE5 十分相似。 同时，这款手机顶部保留了当今罕见的 3.5m…",
+      "tags": [
+        "OPPO",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-bbe3f1609a41",
+      "title": "竹本青：2026年第29周国内手机市场份额曝光：苹果跌至第五",
+      "source": "竹本青",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-07-24",
+      "time": "05:25",
+      "publishedAt": "2026-07-24T05:25:23.000Z",
+      "url": "https://www.coolapk.com/feed/72917353",
+      "image": "http://image.coolapk.com/feed/2026/0724/13/4248714_3c9df20e_0722_3895_976@1438x1001.jpg",
+      "summary": "【2026年第29周 国内手机市场份额曝光：华为保持榜首，苹果跌至榜五】 ● 2026 W29：大盘变化不大 1.华为 —— 20.2% 2.OPPO —— 16.9%（含一加 3.5%，realme 0.7%） 3.vivo —— 16.2%（含iQOO 4.5%） 4.小米 —— 15.4% 5.苹果 —— 15.3% 6.荣耀 —— 11.8% 20…",
+      "tags": [
+        "HONOR",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "weibo-e0932e258add",
+      "title": "数码闲聊站：独家信息：7英寸超大直屏+天玑8系处理器+10000mAh++超大电池，中端线…",
+      "source": "数码闲聊站",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-07-24",
+      "time": "04:11",
+      "publishedAt": "2026-07-24T04:11:00.000Z",
+      "url": "https://weibo.com/6048569942/Ra8XIgWqg",
+      "image": "",
+      "summary": "独家信息，7英寸超大直屏+天玑8系处理器+10000mAh++超大电池，中端线这个方案喜欢吗[二哈]",
+      "tags": [
+        "行业",
+        "爆料",
+        "微博"
+      ]
+    },
     {
       "id": "auto-30cf68376225",
       "title": "初探微软 Win11 版 WhatsApp 手机接续：延迟高、内存占用约 1.2GB",
@@ -13,7 +93,7 @@ window.phoneRadarAuto = {
       "time": "03:27",
       "publishedAt": "2026-07-24T03:27:04.000Z",
       "url": "https://www.ithome.com/0/981/054.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/7/f00af37d-7205-478f-ba06-efd3073e4ca5.png?x-bce-process=image/format,f_auto",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/7/c4191c99-8342-4463-b538-1789432c27b1.gif",
       "summary": "IT之家 7 月 24 日消息，科技媒体 Windows Latest 今天（7 月 24 日）发布博文，报道称微软已全量推送“跨设备恢复”（Cross-device Resume）功能， 在适用于 Windows 11 的新版 WhatsApp 上，让用户在 PC 端接续安卓手机上未完成的聊天。 IT之家注：“跨设备恢复”类似于苹果的接力（Handoff…",
       "tags": [
         "iPhone",
@@ -83,7 +163,7 @@ window.phoneRadarAuto = {
     },
     {
       "id": "coolapk-user-0467ae73474f",
-      "title": "竹本青：【2026 小米之家「雪糕派对」正式开启：到店免费领雪糕】 7月24日，小米之家联合冰工厂开启2026「雪糕派对」…",
+      "title": "竹本青：小米之家「雪糕派对」开启：到店免费领雪糕",
       "source": "竹本青",
       "brand": "Xiaomi",
       "model": "Xiaomi 相关机型",
@@ -262,21 +342,21 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-e6f1c2274b82",
-      "title": "#我在酷安晒女友# #人像摄影# #手机摄影# 嘿嘿和女朋友又见面了，盆友们我们只吃个饭昂[受虐滑稽]",
+      "id": "newsnow-45c649e8ced2",
+      "title": "给我妹妹买的 不会不如iphone x吧[受虐滑稽][受虐滑稽]两千五价位好像没有其他选择了[流泪][流泪][流泪][流泪] #HyperOS3# #小米15# #HyperOS4#",
       "source": "酷安热榜",
-      "brand": "行业",
-      "model": "智能手机市场",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-07-24",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72901415",
+      "url": "https://www.coolapk.com/feed/72901679",
       "image": "",
-      "summary": "#我在酷安晒女友# #人像摄影# #手机摄影# 嘿嘿和女朋友又见面了，盆友们我们只吃个饭昂[受虐滑稽]",
+      "summary": "给我妹妹买的 不会不如iphone x吧[受虐滑稽][受虐滑稽]两千五价位好像没有其他选择了[流泪][流泪][流泪][流泪] #HyperOS3# #小米15# #HyperOS4#",
       "tags": [
-        "行业",
+        "Xiaomi",
         "爆料",
         "NewsNow"
       ]
@@ -599,26 +679,6 @@ window.phoneRadarAuto = {
         "Pixel",
         "爆料",
         "自动抓取"
-      ]
-    },
-    {
-      "id": "coolapk-user-6c45a020e728",
-      "title": "竹本青：【华为Pura X Max 最新销量曝光：全系超58万台，典藏版约31.2万台】 华为 Pura X Max： ●…",
-      "source": "竹本青",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-07-23",
-      "time": "14:04",
-      "publishedAt": "2026-07-23T14:04:20.000Z",
-      "url": "https://www.coolapk.com/feed/72910084",
-      "image": "http://image.coolapk.com/feed/2026/0723/22/4248714_de407fbf_5459_5603_54@2160x2001.jpg",
-      "summary": "【华为Pura X Max 最新销量曝光：全系超58万台，典藏版约31.2万台】 华为 Pura X Max： ● 截至2026 W28 —— 约26.88万 截至2026 W27 —— 约25.23万 截至2026 W26 —— 约23.54万 截至2026 W25 —— 约21.85万 华为 Pura X Max 典藏版： ● 截至2026 W28 —…",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "酷安博主"
       ]
     },
     {
@@ -959,26 +1019,6 @@ window.phoneRadarAuto = {
         "行业",
         "爆料",
         "微博"
-      ]
-    },
-    {
-      "id": "auto-fb5e8415ff0b",
-      "title": "Honor Magic 9 series to bring major changes in appearance",
-      "source": "Huawei Central",
-      "brand": "HONOR",
-      "model": "HONOR 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-23",
-      "time": "05:42",
-      "publishedAt": "2026-07-23T05:42:56.000Z",
-      "url": "https://www.huaweicentral.com/honor-magic-9-series-to-bring-major-changes-in-appearance/",
-      "image": "https://www.huaweicentral.com/wp-content/uploads/2026/07/Magic-9-series-leak.jpg",
-      "summary": "Honor could unveil the Magic 9 series in October this year, and the flagship lineup is expected to undergo major changes in appearance compared to its predecessors. Meanwhile, the…",
-      "tags": [
-        "HONOR",
-        "爆料",
-        "自动抓取"
       ]
     },
     {

@@ -1,11 +1,11 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-07-24T03:42:42.956Z",
+  "updatedAt": "2026-07-24T06:38:49.680Z",
   "issueDate": "2026-07-24",
   "issue": "VOL.260724",
   "title": "手机情报日报",
-  "intro": "今日筛出 12 条重点，其中 8 条是重点爆料，包含 5 条 iPhone 相关、1 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 9 条重点，其中 8 条是重点爆料，包含 5 条 iPhone 相关、1 条官方确认、0 条参数线索。",
   "stats": {
-    "total": 12,
+    "total": 9,
     "iphone": 5,
     "leaks": 8,
     "official": 1,
@@ -29,7 +29,7 @@ window.phoneRadarDaily = {
           "time": "03:27",
           "publishedAt": "2026-07-24T03:27:04.000Z",
           "url": "https://www.ithome.com/0/981/054.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/7/f00af37d-7205-478f-ba06-efd3073e4ca5.png?x-bce-process=image/format,f_auto",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/7/c4191c99-8342-4463-b538-1789432c27b1.gif",
           "verdict": "先看",
           "takeaway": "IT之家 7 月 24 日消息，科技媒体 Windows Latest 今天（7 月 24 日）发布博文，报道称微软已全量推送“跨设备恢复”（Cross-device Resume）功能， 在适用于 Windows 11 的新版 WhatsApp 上，让用户在 PC 端接续安卓手机上未完成的聊天。 IT之家注：“跨设备恢复”类似于苹果的接力（Handoff…",
           "detail": "IT之家 7 月 24 日消息，科技媒体 Windows Latest 今天（7 月 24 日）发布博文，报道称微软已全量推送“跨设备恢复”（Cross-device Resume）功能， 在适用于 Windows 11 的新版 WhatsApp 上，让用户在 PC 端接续安卓手机上未完成的聊天。 IT之家注：“跨设备恢复”类似于苹果的接力（Handoff…",
@@ -58,6 +58,29 @@ window.phoneRadarDaily = {
           "detail": "兄弟们苹果这个售后态度这么好的吗？？[吃瓜]今天对象收了一个带care服务的17pm，所以给沈阳中街的苹果 Store打电话，想咨询一下苹果care的相关问题[微笑]，我撒谎说我骑自行车手机飞出去屏幕坏了，想问一下走care服务换屏幕需要什么？",
           "keyPoints": [
             "屏幕形态"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "auto-f36120ceb025",
+          "title": "一加 N6x 手机公布，7 月 31 日海外发布",
+          "originalTitle": "",
+          "source": "IT之家",
+          "brand": "OPPO",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-07-24",
+          "time": "05:31",
+          "publishedAt": "2026-07-24T05:31:42.000Z",
+          "url": "https://www.ithome.com/0/981/105.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/7/52f3565c-8b54-489f-9029-f16d65567eb7.png?x-bce-process=image/format,f_auto",
+          "verdict": "先看",
+          "takeaway": "IT之家 7 月 24 日消息，一加现已在印度市场公布 OnePlus N6x 手机的详细参数， 新机将于印度时间 7 月 31 日 12:00（北京时间 14:30）发布 。 据介绍， 这款手机将提供勃艮第红 、 冰蓝两种配色 ，采用纵向排列的后置摄像头模组，整体设计与去年的一加 Nord CE5 十分相似。 同时，这款手机顶部保留了当今罕见的 3.5m…",
+          "detail": "IT之家 7 月 24 日消息，一加现已在印度市场公布 OnePlus N6x 手机的详细参数， 新机将于印度时间 7 月 31 日 12:00（北京时间 14:30）发布 。 据介绍， 这款手机将提供勃艮第红 、 冰蓝两种配色 ，采用纵向排列的后置摄像头模组，整体设计与去年的一加 Nord CE5 十分相似。 同时，这款手机顶部保留了当今罕见的 3.5m…",
+          "keyPoints": [
+            "外观 / 配色 / 尺寸"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
@@ -179,31 +202,6 @@ window.phoneRadarDaily = {
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "weibo-e3073b2522d4",
-          "title": "数码闲聊站：iQOO Neo新机暂定8月前后上线，2K直屏中端旗舰级性能机，100W闪充大…",
-          "originalTitle": "",
-          "source": "数码闲聊站",
-          "brand": "vivo",
-          "type": "爆料",
-          "trust": "高关注爆料源",
-          "date": "2026-07-23",
-          "time": "02:35",
-          "publishedAt": "2026-07-23T02:35:00.000Z",
-          "url": "https://weibo.com/6048569942/R9YUfwAxL",
-          "image": "",
-          "verdict": "先看",
-          "takeaway": "iQOO Neo新机暂定8月前后上线，2K直屏中端旗舰级性能机，100W闪充大电池，驰光白/疾影黑/乘风，12+256GB/12+512GB/16+256GB/16+512GB，3D超声波指纹+IP68，预计3K档👖",
-          "detail": "iQOO Neo新机暂定8月前后上线，2K直屏中端旗舰级性能机，100W闪充大电池，驰光白/疾影黑/乘风，12+256GB/12+512GB/16+256GB/16+512GB，3D超声波指纹+IP68，预计3K档👖",
-          "keyPoints": [
-            "屏幕形态",
-            "电池 / 充电",
-            "爆料来源"
-          ],
-          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         }
       ]
     },
@@ -233,82 +231,6 @@ window.phoneRadarDaily = {
           ],
           "confidence": "官方内容，可直接作为已确认信息记录。",
           "impact": "可信度高，但如果不是配置/价格消息，只需要扫一眼。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        }
-      ]
-    },
-    {
-      "id": "market",
-      "title": "行业趋势",
-      "hint": "看方向，不急着当购买依据。",
-      "items": [
-        {
-          "id": "newsnow-e6f1c2274b82",
-          "title": "#我在酷安晒女友# #人像摄影# #手机摄影# 嘿嘿和女朋友又见面了，盆友们我们只吃个饭昂[受虐滑稽]",
-          "originalTitle": "",
-          "source": "酷安热榜",
-          "brand": "行业",
-          "type": "爆料",
-          "trust": "高关注爆料源",
-          "date": "2026-07-24",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://www.coolapk.com/feed/72901415",
-          "image": "",
-          "verdict": "扫一眼",
-          "takeaway": "#我在酷安晒女友# #人像摄影# #手机摄影# 嘿嘿和女朋友又见面了，盆友们我们只吃个饭昂[受虐滑稽]",
-          "detail": "#我在酷安晒女友# #人像摄影# #手机摄影# 嘿嘿和女朋友又见面了，盆友们我们只吃个饭昂[受虐滑稽]",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
-        {
-          "id": "coolapk-user-2b2daa28bcbf",
-          "title": "竹本青：除了主控，外围还算可以的，但是K15 Pro（简装版）就比这个贵100 #OPPOK15Pro+# #OPPOK1…",
-          "originalTitle": "",
-          "source": "竹本青",
-          "brand": "OPPO",
-          "type": "爆料",
-          "trust": "高可信爆料",
-          "date": "2026-07-24",
-          "time": "02:23",
-          "publishedAt": "2026-07-24T02:23:41.000Z",
-          "url": "https://www.coolapk.com/feed/72915048",
-          "image": "",
-          "verdict": "扫一眼",
-          "takeaway": "除了主控，外围还算可以的，但是K15 Pro（简装版）就比这个贵100 #OPPOK15Pro+# #OPPOK15Pro#",
-          "detail": "除了主控，外围还算可以的，但是K15 Pro（简装版）就比这个贵100 #OPPOK15Pro+# #OPPOK15Pro#",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "可信度较高，但仍属于发布前线索。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
-        {
-          "id": "coolapk-user-0467ae73474f",
-          "title": "竹本青：【2026 小米之家「雪糕派对」正式开启：到店免费领雪糕】 7月24日，小米之家联合冰工厂开启2026「雪糕派对」…",
-          "originalTitle": "",
-          "source": "竹本青",
-          "brand": "Xiaomi",
-          "type": "爆料",
-          "trust": "高可信爆料",
-          "date": "2026-07-24",
-          "time": "02:15",
-          "publishedAt": "2026-07-24T02:15:20.000Z",
-          "url": "https://www.coolapk.com/feed/72914958",
-          "image": "http://image.coolapk.com/feed/2026/0724/10/4248714_15b2ce72_9319_3804_243@960x1280.jpg",
-          "verdict": "扫一眼",
-          "takeaway": "【2026 小米之家「雪糕派对」正式开启：到店免费领雪糕】 7月24日，小米之家联合冰工厂开启2026「雪糕派对」活动：即日起至7月26日，到店扫码可领取雪糕，款式随机，领完即止。 ＊小米定制雪糕全国共50万支，活动单店至少40支，每人限领1支。 #今日热点# #HyperOS3# #小米17#",
-          "detail": "【2026 小米之家「雪糕派对」正式开启：到店免费领雪糕】 7月24日，小米之家联合冰工厂开启2026「雪糕派对」活动：即日起至7月26日，到店扫码可领取雪糕，款式随机，领完即止。 ＊小米定制雪糕全国共50万支，活动单店至少40支，每人限领1支。 #今日热点# #HyperOS3# #小米17#",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "可信度较高，但仍属于发布前线索。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         }
       ]
