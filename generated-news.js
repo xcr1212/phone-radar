@@ -1,6 +1,86 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-07-24T14:11:17.326Z",
+  "updatedAt": "2026-07-24T15:43:31.585Z",
   "news": [
+    {
+      "id": "auto-9589ca842714",
+      "title": "Samsung's big Galaxy Z Fold 8 changes are useful, but so small that I almost missed them",
+      "source": "Android Police",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-24",
+      "time": "15:16",
+      "publishedAt": "2026-07-24T15:16:15.000Z",
+      "url": "https://www.androidpolice.com/samsungs-biggest-galaxy-z-fold-8-changes-are-so-small-but-useful/",
+      "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2026/07/samsung-galaxy-z-fold-8-ultra-angled.jpg",
+      "summary": "But they'll help the bottom line",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-1494dc4adc69",
+      "title": "Boox is taking on Xteink with its own tiny e-reader",
+      "source": "The Verge",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-24",
+      "time": "15:00",
+      "publishedAt": "2026-07-24T15:00:03.000Z",
+      "url": "https://www.theverge.com/tech/970618/onyx-boox-picco-ereader-xteink",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Onyx-Boox-Picco-2.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "summary": "Boox's new Tile lineup will take on Xteink's popular e-readers that are small enough to stick on the back of an iPhone with MagSafe. As spotted by Good E-Reader, the first one is…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-7fdf4686cfd5",
+      "title": "Unpatchable iPhone 11 Exploit Sparks Legal Battle",
+      "source": "MacRumors",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-24",
+      "time": "14:58",
+      "publishedAt": "2026-07-24T14:58:55.000Z",
+      "url": "https://www.macrumors.com/2026/07/24/unpatchable-iphone-11-exploit-sparks-legal-battle/",
+      "image": "https://images.macrumors.com/article-new/2023/06/iPhone-11-Pro-Feature-Green.jpg",
+      "summary": "Last month, cybersecurity research firm Paradigm Shift published details about a boot ROM vulnerability affecting Apple's A12 and A13 chips , but it has since removed the blog pos…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-9645480413ee",
+      "title": "消息称手机品牌 Nothing 将在全球裁员 40%，并退出中东、日本等市场",
+      "source": "IT之家",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-24",
+      "time": "14:54",
+      "publishedAt": "2026-07-24T14:54:26.000Z",
+      "url": "https://www.ithome.com/0/981/391.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/7/a908d9d8-8245-4c94-8ec1-58e13ad672a1.jpg?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 7 月 24 日消息，据印度媒体 Digit 消息，Nothing 正在全球关闭 12 个（或更多）的市场业务，退出范围涵盖中东、日本以及欧洲部分地区。 此外， Nothing 将在全球裁员 40% 。该公司分布在中国和英国伦敦（比例为 7:3）的研发部门正分别面临约 50% 与 30%-40% 的裁员。 报道称，自发布以来，Nothing Ph…",
+      "tags": [
+        "行业",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-89d7e1d2d4b5",
       "title": "Samsung’s new silicon-carbon batteries in Galaxy Z Fold 8 won’t last as long",
@@ -382,46 +462,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-07b6fe679049",
-      "title": "消息称某厂中端新机搭载 7 英寸超大直屏 + 天玑 8 系处理器，预计荣耀旗下",
-      "source": "IT之家",
-      "brand": "HONOR",
-      "model": "HONOR 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-24",
-      "time": "08:03",
-      "publishedAt": "2026-07-24T08:03:58.000Z",
-      "url": "https://www.ithome.com/0/981/211.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/7/7bcd5d5d-c8c5-4c60-b6c6-8424213d6633.png?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 7 月 24 日消息，博主 @数码闲聊站 今日爆料，某厂中端线新机搭载 7 英寸超大直屏、天玑 8 系处理器、超 10000mAh 超大电池。结合该博主此前的爆料习惯，预计这款新机为荣耀旗下，微博评论区有网友猜测是荣耀 Power3。 IT之家注意到，今年多次传出荣耀将推出 7 英寸大屏手机。该博主今年 5 月爆料称，荣耀迭代线开了几块大尺寸屏幕…",
-      "tags": [
-        "HONOR",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-97bd1c632c8e",
-      "title": "微信输入法 3.5.2 版本更新：跨设备支持自定义名称，iOS 版相册图片可直接隔空传送",
-      "source": "IT之家",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-24",
-      "time": "07:49",
-      "publishedAt": "2026-07-24T07:49:05.000Z",
-      "url": "https://www.ithome.com/0/981/181.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/7/ec93ef84-022e-4239-a9c8-a0384157b268.jpg?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 7 月 24 日消息，微信输入法近日迎来 iOS、Android 版本更新， 版本号为 3.5.2 。主要更新内容包括跨设备功能支持自定义设备名称、长按候选词可将其固定至首位或删除、体验优化与问题修复等。 微信输入法 3.5.2 for iOS 版本还升级了图片传送功能，苹果用户点击相册图片「分享」，找到「微信输入法」可直接隔空传送。 此外，微信…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-bd49760999bb",
       "title": "The Galaxy Z Fold 8 series borrows one of the best foldable multitasking ideas",
       "source": "Android Authority",
@@ -439,26 +479,6 @@ window.phoneRadarAuto = {
         "Samsung",
         "爆料",
         "自动抓取"
-      ]
-    },
-    {
-      "id": "coolapk-user-312476eb01a9",
-      "title": "竹本青：【顺丰联合荣耀 升级打造全球智慧央仓，号称仓配质效全面跃升】 日前，顺丰与荣耀联合打造的“荣耀全球智慧央仓”举行开…",
-      "source": "竹本青",
-      "brand": "HONOR",
-      "model": "HONOR 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-07-24",
-      "time": "06:04",
-      "publishedAt": "2026-07-24T06:04:56.000Z",
-      "url": "https://www.coolapk.com/feed/72917783",
-      "image": "http://image.coolapk.com/feed/2026/0724/14/4248714_8e5385c7_3095_3624_705@1088x726.jpg",
-      "summary": "【顺丰联合荣耀 升级打造全球智慧央仓，号称仓配质效全面跃升】 日前，顺丰与荣耀联合打造的“荣耀全球智慧央仓”举行开仓仪式。该智慧央仓立足大湾区中心，是面向荣耀全球业务的全场景一站式交付枢纽。 荣耀全球智慧央仓由顺丰运营管理，占地总面积超40000平方米，为自营电商、线上线下渠道及运营商等B端客户与C端终端消费者提供稳定供应链支撑。 荣耀2B业务面向全球发货…",
-      "tags": [
-        "HONOR",
-        "爆料",
-        "酷安博主"
       ]
     },
     {
@@ -642,26 +662,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-500a56894f86",
-      "title": "给大家申请了Mate30升级鸿蒙六的需求，需求填写到华为上级了，有没有期待的宝子！#鸿蒙6# #华为Mate30#",
-      "source": "酷安热榜",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-07-24",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72900663",
-      "image": "",
-      "summary": "给大家申请了Mate30升级鸿蒙六的需求，需求填写到华为上级了，有没有期待的宝子！#鸿蒙6# #华为Mate30#",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
       "id": "newsnow-45c649e8ced2",
       "title": "给我妹妹买的 不会不如iphone x吧[受虐滑稽][受虐滑稽]两千五价位好像没有其他选择了[流泪][流泪][流泪][流泪] #HyperOS3# #小米15# #HyperOS4#",
       "source": "酷安热榜",
@@ -682,21 +682,21 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-664d0e924945",
-      "title": "宇树发布新机器狗",
-      "source": "微博热搜",
-      "brand": "行业",
-      "model": "智能手机市场",
+      "id": "newsnow-500a56894f86",
+      "title": "给大家申请了Mate30升级鸿蒙六的需求，需求填写到华为上级了，有没有期待的宝子！#鸿蒙6# #华为Mate30#",
+      "source": "酷安热榜",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
       "type": "爆料",
-      "trust": "待验证",
+      "trust": "高关注爆料源",
       "date": "2026-07-24",
       "time": "",
       "publishedAt": "",
-      "url": "https://s.weibo.com/weibo?q=%E5%AE%87%E6%A0%91%E5%8F%91%E5%B8%83%E6%96%B0%E6%9C%BA%E5%99%A8%E7%8B%97&t=31&band_rank=19&Refer=top",
+      "url": "https://www.coolapk.com/feed/72900663",
       "image": "",
-      "summary": "宇树发布新机器狗",
+      "summary": "给大家申请了Mate30升级鸿蒙六的需求，需求填写到华为上级了，有没有期待的宝子！#鸿蒙6# #华为Mate30#",
       "tags": [
-        "行业",
+        "Huawei",
         "爆料",
         "NewsNow"
       ]

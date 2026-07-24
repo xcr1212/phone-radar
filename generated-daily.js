@@ -1,14 +1,14 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-07-24T14:11:17.326Z",
+  "updatedAt": "2026-07-24T15:43:31.585Z",
   "issueDate": "2026-07-24",
   "issue": "VOL.260724",
   "title": "手机情报日报",
-  "intro": "今日筛出 9 条重点，其中 8 条是重点爆料，包含 6 条 iPhone 相关、0 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 10 条重点，其中 8 条是重点爆料，包含 7 条 iPhone 相关、1 条官方确认、0 条参数线索。",
   "stats": {
-    "total": 9,
-    "iphone": 6,
+    "total": 10,
+    "iphone": 7,
     "leaks": 8,
-    "official": 0,
+    "official": 1,
     "specs": 0
   },
   "sections": [
@@ -17,29 +17,6 @@ window.phoneRadarDaily = {
       "title": "重点爆料",
       "hint": "机模、配色、影像、屏幕、电池和芯片线索先看。",
       "items": [
-        {
-          "id": "auto-97bd1c632c8e",
-          "title": "微信输入法 3.5.2 版本更新：跨设备支持自定义名称，iOS 版相册图片可直接隔空传送",
-          "originalTitle": "",
-          "source": "IT之家",
-          "brand": "iPhone",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-07-24",
-          "time": "07:49",
-          "publishedAt": "2026-07-24T07:49:05.000Z",
-          "url": "https://www.ithome.com/0/981/181.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/7/ec93ef84-022e-4239-a9c8-a0384157b268.jpg?x-bce-process=image/format,f_auto",
-          "verdict": "先看",
-          "takeaway": "IT之家 7 月 24 日消息，微信输入法近日迎来 iOS、Android 版本更新， 版本号为 3.5.2 。主要更新内容包括跨设备功能支持自定义设备名称、长按候选词可将其固定至首位或删除、体验优化与问题修复等。 微信输入法 3.5.2 for iOS 版本还升级了图片传送功能，苹果用户点击相册图片「分享」，找到「微信输入法」可直接隔空传送。 此外，微信…",
-          "detail": "IT之家 7 月 24 日消息，微信输入法近日迎来 iOS、Android 版本更新， 版本号为 3.5.2 。主要更新内容包括跨设备功能支持自定义设备名称、长按候选词可将其固定至首位或删除、体验优化与问题修复等。 微信输入法 3.5.2 for iOS 版本还升级了图片传送功能，苹果用户点击相册图片「分享」，找到「微信输入法」可直接隔空传送。 此外，微信…",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
         {
           "id": "newsnow-f6a04960ae95",
           "title": "兄弟们苹果这个售后态度这么好的吗？？[吃瓜]今天对象收了一个带care服务的17pm，所以给沈阳中街的苹果 Store打电话，想咨询一下苹果care的相关问题[微笑]，我撒谎说我骑自行车手机飞出去屏幕坏了，想问一下走care服务换屏幕需要什么？",
@@ -58,6 +35,29 @@ window.phoneRadarDaily = {
           "detail": "兄弟们苹果这个售后态度这么好的吗？？[吃瓜]今天对象收了一个带care服务的17pm，所以给沈阳中街的苹果 Store打电话，想咨询一下苹果care的相关问题[微笑]，我撒谎说我骑自行车手机飞出去屏幕坏了，想问一下走care服务换屏幕需要什么？",
           "keyPoints": [
             "屏幕形态"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "auto-7fdf4686cfd5",
+          "title": "iPhone 相关消息",
+          "originalTitle": "",
+          "source": "MacRumors",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-07-24",
+          "time": "14:58",
+          "publishedAt": "2026-07-24T14:58:55.000Z",
+          "url": "https://www.macrumors.com/2026/07/24/unpatchable-iphone-11-exploit-sparks-legal-battle/",
+          "image": "https://images.macrumors.com/article-new/2023/06/iPhone-11-Pro-Feature-Green.jpg",
+          "verdict": "先看",
+          "takeaway": "iPhone 相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
+          "detail": "iPhone 相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
+          "keyPoints": [
+            "芯片 / 性能"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
@@ -204,6 +204,36 @@ window.phoneRadarDaily = {
           "confidence": "可信度较高，但仍属于发布前线索。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        }
+      ]
+    },
+    {
+      "id": "iphone",
+      "title": "iPhone 重点",
+      "hint": "不是硬件爆料，但和 iPhone 体验或路线有关。",
+      "items": [
+        {
+          "id": "auto-9bbf43c61c96",
+          "title": "iPhone 系统功能 / AI 体验相关消息",
+          "originalTitle": "",
+          "source": "Apple Newsroom",
+          "brand": "iPhone",
+          "type": "官方",
+          "trust": "官方确认",
+          "date": "2026-07-24",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://www.apple.com/newsroom/2026/06/apple-announces-changes-to-ios-in-brazil/",
+          "image": "",
+          "verdict": "先看",
+          "takeaway": "iPhone 系统功能 / AI 体验相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
+          "detail": "iPhone 系统功能 / AI 体验相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
+          "keyPoints": [
+            "官方"
+          ],
+          "confidence": "官方内容，可直接作为已确认信息记录。",
+          "impact": "可信度高，但如果不是配置/价格消息，只需要扫一眼。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         }
       ]
     },
