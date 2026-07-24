@@ -1,6 +1,246 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-07-24T10:27:43.587Z",
+  "updatedAt": "2026-07-24T14:11:17.326Z",
   "news": [
+    {
+      "id": "auto-89d7e1d2d4b5",
+      "title": "Samsung’s new silicon-carbon batteries in Galaxy Z Fold 8 won’t last as long",
+      "source": "9to5Google",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-24",
+      "time": "14:05",
+      "publishedAt": "2026-07-24T14:05:00.000Z",
+      "url": "https://9to5google.com/2026/07/24/samsung-silicon-carbon-battery-galaxy-z-fold-8-longevity/",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/07/galaxy-z-fold-8-series-29.jpg?quality=82&strip=all&w=1600",
+      "summary": "Samsung is finally switching over to silicon-carbon batteries in the Galaxy Z Fold 8 series but, apparently, their lifespan is reduced by quite a bit.",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-0be808fdf28b",
+      "title": "After OnePlus, Nothing could be the next brand to leave multiple global markets",
+      "source": "Android Authority",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-24",
+      "time": "14:04",
+      "publishedAt": "2026-07-24T14:04:55.000Z",
+      "url": "https://www.androidauthority.com/nothing-market-exits-layoffs-rumor-3691156/",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2026/07/Nothing-Phone-4b-blue-scaled.jpg",
+      "summary": "A report claims London-based Nothing faces 40% headcount cuts and market exits amid rising costs.",
+      "tags": [
+        "OPPO",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-22dcdcd02913",
+      "title": "Best Galaxy Z Fold 8 Ultra upgrades that make a real difference",
+      "source": "SamMobile",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-24",
+      "time": "14:01",
+      "publishedAt": "2026-07-24T14:01:56.000Z",
+      "url": "https://www.sammobile.com/news/best-samsung-galaxy-z-fold-8-ultra-features/",
+      "image": "https://www.sammobile.com/wp-content/uploads/2026/07/Galaxy-Z-Fold-8-Ultra-frame-4-1920x1080.jpg",
+      "summary": "Samsung has launched its new flagship smartphone with a book-style foldable display, the Galaxy Z Fold 8 Ultra. While the device brings many improvements over its predecessor, the…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-079d7e909fa5",
+      "title": "Samsung could bring silicon-carbon batteries to Galaxy S27 series, but not all of them",
+      "source": "Android Authority",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-24",
+      "time": "13:38",
+      "publishedAt": "2026-07-24T13:38:13.000Z",
+      "url": "https://www.androidauthority.com/galaxy-s27-series-silicon-carbon-batteries-3691129/",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2026/02/Samsung-Galaxy-S26-series-showing-screens.jpg",
+      "summary": "Don't expect a huge capacity upgrade, while it's possible that at least one model won't get the feature.",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-6d8db9654da0",
+      "title": "Samsung Galaxy S27 series camera specs and codenames leak again",
+      "source": "Android Authority",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-24",
+      "time": "12:26",
+      "publishedAt": "2026-07-24T12:26:29.000Z",
+      "url": "https://www.androidauthority.com/samsung-galaxy-s27-codenames-camera-specs-leak-3691124/",
+      "image": "",
+      "summary": "New leak reveals internal \"NM\" codenames and some sensor details for Samsung's next flagship lineup.",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-70f1b43bad78",
+      "title": "Switching from iPhone to Android in 2026 is pointless; that's why Apple is winning",
+      "source": "Android Police",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-24",
+      "time": "12:15",
+      "publishedAt": "2026-07-24T12:15:15.000Z",
+      "url": "https://www.androidpolice.com/switching-from-iphone-to-android-in-2026-is-pointless-thats-why-apple-is-winning/",
+      "image": "",
+      "summary": "Everything feels the same",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-6ce6c7e3d10f",
+      "title": "格科微：收到国际知名手机品牌订单，供应 0.64 微米 5000 万像素图像传感器",
+      "source": "IT之家",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-24",
+      "time": "12:15",
+      "publishedAt": "2026-07-24T12:15:03.000Z",
+      "url": "https://www.ithome.com/0/981/369.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/7/62e64183-1f22-4f9f-9fb6-6670df52bc0d.png",
+      "summary": "IT之家 7 月 24 日消息，格科微今日发布公告称，公司于近日收到国际知名手机品牌客户订单，为其供应 0.64 微米规格 5000 万像素图像传感器产品，首批订单金额约合人民币 5700 万元。 公告称，本次公司供应的 0.64 微米规格 5000 万像素图像传感器产品，基于 GalaxyCell®2.0 工艺平台开发，在实现高解析力、高动态、低噪声成像…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-a700bee598c0",
+      "title": "Samsung Galaxy Z Fold 8 Ultra vs. Motorola Razr Fold: Choosing the right book-style foldable",
+      "source": "Android Central",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-07-24",
+      "time": "12:14",
+      "publishedAt": "2026-07-24T12:14:41.000Z",
+      "url": "https://www.androidcentral.com/phones/samsung-galaxy/samsung-galaxy-z-fold-8-ultra-vs-motorola-razr-fold",
+      "image": "https://cdn.mos.cms.futurecdn.net/jELHVCHbiEWcEDypwGQEZQ-1280-80.jpg",
+      "summary": "The Galaxy Z Fold 8 Ultra goes head-to-head with the Razr Fold. How does it compare to Motorola's first book-style foldable?",
+      "tags": [
+        "Samsung",
+        "评测",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-3c5a1ce1bb33",
+      "title": "WhatsApp Rolls Out Redesigned Message Bubbles for iOS",
+      "source": "MacRumors",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-24",
+      "time": "11:19",
+      "publishedAt": "2026-07-24T11:19:25.000Z",
+      "url": "https://www.macrumors.com/2026/07/24/whatsapp-redesigned-message-bubbles-ios/",
+      "image": "https://images.macrumors.com/article-new/2026/05/Whatsapp-Feature.jpg",
+      "summary": "WhatsApp is rolling out a new design for message bubbles on iOS, reports WaBetaInfo . The platform's message bubbles are rounder than before with a softer shape – similar to iMess…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-7987eb6a0c84",
+      "title": "Apple Seeking 20% OLED Panel Price Cut for iPhone 18 Pro Max",
+      "source": "MacRumors",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-24",
+      "time": "10:31",
+      "publishedAt": "2026-07-24T10:31:42.000Z",
+      "url": "https://www.macrumors.com/2026/07/24/oled-panel-price-cut-iphone-18-pro-max/",
+      "image": "https://images.macrumors.com/article-new/2026/07/iPhone-18-Pro-and-Pro-Max-Feature.jpg",
+      "summary": "Apple is pushing OLED panel suppliers to lower their prices for the iPhone 18 Pro Max, as the cost of memory chips and other components rises, reports The Elec . According to the…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-f1749cd6fbe6",
+      "title": "Skip the Galaxy Z Fold 8 and buy this $600 foldable instead",
+      "source": "Android Police",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-24",
+      "time": "10:30",
+      "publishedAt": "2026-07-24T10:30:15.000Z",
+      "url": "https://www.androidpolice.com/skip-galaxy-z-fold-8-buy-pixel-fold-instead/",
+      "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2026/07/samsung-galaxy-z-fold-8-colors.JPG",
+      "summary": "Paying $1,899 for a phone without a zoom camera feels like theft",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-9d1e6975c20e",
+      "title": "We’re about to witness a critical moment for Samsung’s Galaxy Z Flip series",
+      "source": "Android Authority",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-24",
+      "time": "10:30",
+      "publishedAt": "2026-07-24T10:30:05.000Z",
+      "url": "https://www.androidauthority.com/samsung-galaxy-z-flip-8-critical-moment-3689798/",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2026/07/Galaxy-Z-Flip-8-stood-up-on-angle-showing-slimness.jpg",
+      "summary": "The Z Flip 8 has its work cut out for it. Will it deliver?",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-73c27b866ac3",
       "title": "More details about Galaxy S27 series camera specs leak",
@@ -182,46 +422,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-c52a681a9671",
-      "title": "技嘉全系 DDR5 主板现已支持基于长鑫存储 DRAM 芯片的内存",
-      "source": "IT之家",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-24",
-      "time": "07:30",
-      "publishedAt": "2026-07-24T07:30:31.000Z",
-      "url": "https://www.ithome.com/0/981/170.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/7/fc155599-adc5-41b9-8af6-c292ff0dcf8e.jpg",
-      "summary": "IT之家 7 月 24 日消息，技嘉 (GIGABYTE) 今日宣布其全系列 DDR5 主板现已支持基于长鑫存储 (CXMT) DRAM Die 的内存模组。 IT之家了解到， 技嘉的英特尔 800 和 700 系列主板已在出厂 BIOS 中提供了对长鑫 DDR5 的支持 ，无需更新；而对于 AMD 800 和 600 系列主板而言，随着 AGESA 1.…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-b25c2464aae6",
-      "title": "绿厂系首个万级大电池新机：OPPO A7 Pro Max 手机曝光，骁龙 4 Gen 5 芯片 + 12GB 内存",
-      "source": "IT之家",
-      "brand": "OPPO",
-      "model": "OPPO 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-24",
-      "time": "07:20",
-      "publishedAt": "2026-07-24T07:20:17.000Z",
-      "url": "https://www.ithome.com/0/981/156.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/7/c63d3c88-242a-47b6-af18-dc55ed2c5044.png",
-      "summary": "IT之家 7 月 24 日消息，科技媒体 GSMarena 今天（7 月 24 日）发布博文，报道称型号为 PYC110 的 OPPO 手机现身 GeekBench 跑分库， 6.7.1 版本单核成绩为 976 分，多核成绩为 2250 分，该机上市后预估名为 OPPO A7 Pro Max。 跑分页面显示该机搭载高通骁龙 4 Gen 5 芯片，运行 12…",
-      "tags": [
-        "OPPO",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-bd49760999bb",
       "title": "The Galaxy Z Fold 8 series borrows one of the best foldable multitasking ideas",
       "source": "Android Authority",
@@ -242,46 +442,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-7ecefb04fbca",
-      "title": "消息称某厂新机评估 1:1 方形前摄、物料疑似 Sony 68Mp，预计 vivo 旗下",
-      "source": "IT之家",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-24",
-      "time": "06:58",
-      "publishedAt": "2026-07-24T06:58:49.000Z",
-      "url": "https://www.ithome.com/0/981/143.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/7/1da4ee6d-3c4e-4177-8e4e-066104a361b4.png",
-      "summary": "IT之家 7 月 24 日消息，博主 @数码闲聊站 今日爆料，某厂新机在评估 1:1 方形前摄，物料疑似 Sony 68Mp，预计下一代超大杯预定。结合该博主此前的爆料习惯，预计该机为 vivo 旗下旗舰。 值得一提的是，今年有多家厂商被曝将采用 1:1 方形前摄方案。今年 2 月， 博主 @数码闲聊站 曾发文透露 ，称菊菊（IT之家注：此处预计指代华为）…",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-5dc61483588c",
-      "title": "绿联 FineTrack Slim Duo 2 卡片追踪器发布：续航最长 7 年，兼容安卓、iOS 查找生态",
-      "source": "IT之家",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-24",
-      "time": "06:46",
-      "publishedAt": "2026-07-24T06:46:36.000Z",
-      "url": "https://www.ithome.com/0/981/135.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/7/b38e778a-1d80-4b55-b546-d5ec26834d00.jpg?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 7 月 24 日消息，绿联现已在美国、欧洲市场推出 FineTrack Slim Duo 2 卡片式追踪器，新品主打超薄设计，可视作苹果 AirTag 的替代产品。 据介绍，这款产品的大小与普通信用卡没有太大差别，厚度仅 1.7mm， 支持苹果 iOS“查找”和谷歌安卓 Find Hub 生态 ，能够与 iPhone、Android 设备无缝兼容…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "coolapk-user-312476eb01a9",
       "title": "竹本青：【顺丰联合荣耀 升级打造全球智慧央仓，号称仓配质效全面跃升】 日前，顺丰与荣耀联合打造的“荣耀全球智慧央仓”举行开…",
       "source": "竹本青",
@@ -295,26 +455,6 @@ window.phoneRadarAuto = {
       "url": "https://www.coolapk.com/feed/72917783",
       "image": "http://image.coolapk.com/feed/2026/0724/14/4248714_8e5385c7_3095_3624_705@1088x726.jpg",
       "summary": "【顺丰联合荣耀 升级打造全球智慧央仓，号称仓配质效全面跃升】 日前，顺丰与荣耀联合打造的“荣耀全球智慧央仓”举行开仓仪式。该智慧央仓立足大湾区中心，是面向荣耀全球业务的全场景一站式交付枢纽。 荣耀全球智慧央仓由顺丰运营管理，占地总面积超40000平方米，为自营电商、线上线下渠道及运营商等B端客户与C端终端消费者提供稳定供应链支撑。 荣耀2B业务面向全球发货…",
-      "tags": [
-        "HONOR",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
-      "id": "coolapk-user-bbe3f1609a41",
-      "title": "竹本青：2026年第29周国内手机市场份额曝光：苹果跌至第五",
-      "source": "竹本青",
-      "brand": "HONOR",
-      "model": "HONOR 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-07-24",
-      "time": "05:25",
-      "publishedAt": "2026-07-24T05:25:23.000Z",
-      "url": "https://www.coolapk.com/feed/72917353",
-      "image": "http://image.coolapk.com/feed/2026/0724/13/4248714_3c9df20e_0722_3895_976@1438x1001.jpg",
-      "summary": "【2026年第29周 国内手机市场份额曝光：华为保持榜首，苹果跌至榜五】 ● 2026 W29：大盘变化不大 1.华为 —— 20.2% 2.OPPO —— 16.9%（含一加 3.5%，realme 0.7%） 3.vivo —— 16.2%（含iQOO 4.5%） 4.小米 —— 15.4% 5.苹果 —— 15.3% 6.荣耀 —— 11.8% 20…",
       "tags": [
         "HONOR",
         "爆料",
@@ -402,6 +542,66 @@ window.phoneRadarAuto = {
       ]
     },
     {
+      "id": "newsnow-0d037a13adf6",
+      "title": "我的出行好伙伴，用 iPhone 一站式解决旅途痛点",
+      "source": "少数派热榜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-07-24",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://sspai.com/post/112044",
+      "image": "",
+      "summary": "我的出行好伙伴，用 iPhone 一站式解决旅途痛点",
+      "tags": [
+        "iPhone",
+        "评测",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-89bf8fc1510b",
+      "title": "iPhone Air 当主力机用了三个多月后，我为什么还是换不掉它",
+      "source": "少数派热榜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-07-24",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://sspai.com/post/111113",
+      "image": "",
+      "summary": "iPhone Air 当主力机用了三个多月后，我为什么还是换不掉它",
+      "tags": [
+        "iPhone",
+        "评测",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-ba956b9db727",
+      "title": "快捷指令｜让 iPhone 用上锤子的「大爆炸」",
+      "source": "少数派热榜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-07-24",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://sspai.com/post/111405",
+      "image": "",
+      "summary": "快捷指令｜让 iPhone 用上锤子的「大爆炸」",
+      "tags": [
+        "iPhone",
+        "评测",
+        "NewsNow"
+      ]
+    },
+    {
       "id": "newsnow-f6a04960ae95",
       "title": "兄弟们苹果这个售后态度这么好的吗？？[吃瓜]今天对象收了一个带care服务的17pm，所以给沈阳中街的苹果 Store打电话，想咨询一下苹果care的相关问题[微笑]，我撒谎说我骑自行车手机飞出去屏幕坏了，想问一下走care服务换屏幕需要什么？",
       "source": "酷安热榜",
@@ -417,26 +617,6 @@ window.phoneRadarAuto = {
       "summary": "兄弟们苹果这个售后态度这么好的吗？？[吃瓜]今天对象收了一个带care服务的17pm，所以给沈阳中街的苹果 Store打电话，想咨询一下苹果care的相关问题[微笑]，我撒谎说我骑自行车手机飞出去屏幕坏了，想问一下走care服务换屏幕需要什么？",
       "tags": [
         "iPhone",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-500a56894f86",
-      "title": "给大家申请了Mate30升级鸿蒙六的需求，需求填写到华为上级了，有没有期待的宝子！#鸿蒙6# #华为Mate30#",
-      "source": "酷安热榜",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-07-24",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72900663",
-      "image": "",
-      "summary": "给大家申请了Mate30升级鸿蒙六的需求，需求填写到华为上级了，有没有期待的宝子！#鸿蒙6# #华为Mate30#",
-      "tags": [
-        "Huawei",
         "爆料",
         "NewsNow"
       ]
@@ -462,6 +642,26 @@ window.phoneRadarAuto = {
       ]
     },
     {
+      "id": "newsnow-500a56894f86",
+      "title": "给大家申请了Mate30升级鸿蒙六的需求，需求填写到华为上级了，有没有期待的宝子！#鸿蒙6# #华为Mate30#",
+      "source": "酷安热榜",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-07-24",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/72900663",
+      "image": "",
+      "summary": "给大家申请了Mate30升级鸿蒙六的需求，需求填写到华为上级了，有没有期待的宝子！#鸿蒙6# #华为Mate30#",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
       "id": "newsnow-45c649e8ced2",
       "title": "给我妹妹买的 不会不如iphone x吧[受虐滑稽][受虐滑稽]两千五价位好像没有其他选择了[流泪][流泪][流泪][流泪] #HyperOS3# #小米15# #HyperOS4#",
       "source": "酷安热榜",
@@ -482,22 +682,42 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-7ebe482ee311",
-      "title": "大妈认领遗失手机顺手又上交一部",
-      "source": "百度热搜",
+      "id": "newsnow-664d0e924945",
+      "title": "宇树发布新机器狗",
+      "source": "微博热搜",
       "brand": "行业",
       "model": "智能手机市场",
       "type": "爆料",
+      "trust": "待验证",
+      "date": "2026-07-24",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://s.weibo.com/weibo?q=%E5%AE%87%E6%A0%91%E5%8F%91%E5%B8%83%E6%96%B0%E6%9C%BA%E5%99%A8%E7%8B%97&t=31&band_rank=19&Refer=top",
+      "image": "",
+      "summary": "宇树发布新机器狗",
+      "tags": [
+        "行业",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-19c176010c0e",
+      "title": "OPPO 、 Vivo 拒绝三星存储涨价报价，后续国产手机可能都用长鑫等国产内存吗？",
+      "source": "知乎热榜",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "市场报告",
       "trust": "媒体汇总",
       "date": "2026-07-24",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.baidu.com/s?wd=%E5%A4%A7%E5%A6%88%E8%AE%A4%E9%A2%86%E9%81%97%E5%A4%B1%E6%89%8B%E6%9C%BA%E9%A1%BA%E6%89%8B%E5%8F%88%E4%B8%8A%E4%BA%A4%E4%B8%80%E9%83%A8",
+      "url": "https://www.zhihu.com/question/2063583824378848408",
       "image": "",
-      "summary": "大妈认领遗失手机顺手又上交一部",
+      "summary": "OPPO 、 Vivo 拒绝三星存储涨价报价，后续国产手机可能都用长鑫等国产内存吗？",
       "tags": [
-        "行业",
-        "爆料",
+        "Samsung",
+        "市场报告",
         "NewsNow"
       ]
     },
@@ -702,26 +922,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-88ba6f8372d7",
-      "title": "Samsung opens The Fold Inn pub in London to celebrate Galaxy Z Fold 8 series, Flip 8 launch",
-      "source": "SamMobile",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-23",
-      "time": "17:10",
-      "publishedAt": "2026-07-23T17:10:51.000Z",
-      "url": "https://www.sammobile.com/news/samsung-opens-the-fold-inn-pub-london-celebrate-galaxy-z-fold-8-flip-8-launch/",
-      "image": "https://www.sammobile.com/wp-content/uploads/2026/07/Samsung-The-Fold-Inn-Pub-London-For-Galaxy-Z-Fold-8-Ultra-Fold-8-Flip-8-01.jpg",
-      "summary": "Yesterday, Samsung launched its latest flagship foldable smartphones—the Galaxy Z Fold 8 Ultra, Galaxy Z Fold 8, and Galaxy Z Flip 8. To celebrate their arrival, the company has n…",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-8bd1107969f7",
       "title": "Samsung chief explains why the Galaxy Z Fold 8 series is way cheaper in Korea",
       "source": "Android Authority",
@@ -757,26 +957,6 @@ window.phoneRadarAuto = {
       "summary": "Apple's iPhone 18 Pro models and its first foldable are less than two months from being unveiled. That may sound like a reason to sit tight if you're looking to upgrade from an iP…",
       "tags": [
         "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-ec937d23505f",
-      "title": "Galaxy S27, S27+ tipped to feature Sony main cameras, unchanged ultra-wide sensors",
-      "source": "SamMobile",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-23",
-      "time": "15:15",
-      "publishedAt": "2026-07-23T15:15:50.000Z",
-      "url": "https://www.sammobile.com/news/galaxy-s27-s27-tipped-feature-sony-main-cameras-unchanged-ultra-wide-sensors/",
-      "image": "",
-      "summary": "Leaks about Samsung's next flagship non-foldable smartphone lineup, the Galaxy S27 series, started surfacing even before the Galaxy S26 lineup was unveiled. Now, a new report has…",
-      "tags": [
-        "Samsung",
         "爆料",
         "自动抓取"
       ]
@@ -882,26 +1062,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-a241b5c4acf9",
-      "title": "Honor testing OVB0D 200MP main camera for future flagship phones",
-      "source": "Huawei Central",
-      "brand": "HONOR",
-      "model": "HONOR 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-23",
-      "time": "12:08",
-      "publishedAt": "2026-07-23T12:08:31.000Z",
-      "url": "https://www.huaweicentral.com/honor-testing-ovb0d-200mp-main-camera-for-future-flagship-phones/",
-      "image": "https://www.huaweicentral.com/wp-content/uploads/2026/04/Magic-7.jpg",
-      "summary": "Honor Magic 9 series is in the works and the company is currently testing an ultimate main camera sensor solution for the future flagship phones – OVB0D. The dynamic imaging lens…",
-      "tags": [
-        "HONOR",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-45abd29c3169",
       "title": "OPPO Reno16 vs Vivo V70: Which Snapdragon 7 Gen 4 Phone Is Worth Buying?",
       "source": "Gizmochina",
@@ -922,26 +1082,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-665e773056f8",
-      "title": "Huawei Mate 90 Pro Max could use Mate 80 RS zoom camera",
-      "source": "Huawei Central",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-23",
-      "time": "11:56",
-      "publishedAt": "2026-07-23T11:56:00.000Z",
-      "url": "https://www.huaweicentral.com/huawei-mate-90-pro-max-could-use-mate-80-rs-zoom-camera/",
-      "image": "https://www.huaweicentral.com/wp-content/uploads/2026/07/Mate90ProMax-camera-leak.jpg",
-      "summary": "As Huawei 2026 Mate phones are approaching their speculated launch time, more details regarding their specs have started taking space on the internet and the latest input suggests…",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-3878eb386aa2",
       "title": "Samsung has just given us a preview of the creaseless iPhone Ultra display",
       "source": "9to5Mac",
@@ -957,26 +1097,6 @@ window.phoneRadarAuto = {
       "summary": "One of the reported reasons for Apple taking such a long time to introduce a folding iPhone is that the company was unhappy with the very visible crease and vulnerability of earli…",
       "tags": [
         "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-0da740afcc4b",
-      "title": "Honor trolls Galaxy Z Fold 8 Ultra by calling Magic V6 #TheRealUltra",
-      "source": "Huawei Central",
-      "brand": "HONOR",
-      "model": "HONOR 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-23",
-      "time": "11:27",
-      "publishedAt": "2026-07-23T11:27:35.000Z",
-      "url": "https://www.huaweicentral.com/honor-trolls-galaxy-z-fold-8-ultra/",
-      "image": "https://www.huaweicentral.com/wp-content/uploads/2026/07/battery-img.jpg",
-      "summary": "Samsung has just unveiled its eighth generation of foldable smartphones, and without wasting any time, Honor began trolling the Samsung Galaxy Z Fold 8 Ultra by calling its own Ma…",
-      "tags": [
-        "HONOR",
         "爆料",
         "自动抓取"
       ]

@@ -1,12 +1,12 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-07-24T10:27:43.587Z",
+  "updatedAt": "2026-07-24T14:11:17.326Z",
   "issueDate": "2026-07-24",
   "issue": "VOL.260724",
   "title": "手机情报日报",
-  "intro": "今日筛出 8 条重点，其中 8 条是重点爆料，包含 5 条 iPhone 相关、0 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 9 条重点，其中 8 条是重点爆料，包含 6 条 iPhone 相关、0 条官方确认、0 条参数线索。",
   "stats": {
-    "total": 8,
-    "iphone": 5,
+    "total": 9,
+    "iphone": 6,
     "leaks": 8,
     "official": 0,
     "specs": 0
@@ -41,29 +41,6 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
-          "id": "auto-5dc61483588c",
-          "title": "绿联 FineTrack Slim Duo 2 卡片追踪器发布：续航最长 7 年，兼容安卓、iOS 查找生态",
-          "originalTitle": "",
-          "source": "IT之家",
-          "brand": "iPhone",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-07-24",
-          "time": "06:46",
-          "publishedAt": "2026-07-24T06:46:36.000Z",
-          "url": "https://www.ithome.com/0/981/135.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/7/b38e778a-1d80-4b55-b546-d5ec26834d00.jpg?x-bce-process=image/format,f_auto",
-          "verdict": "先看",
-          "takeaway": "IT之家 7 月 24 日消息，绿联现已在美国、欧洲市场推出 FineTrack Slim Duo 2 卡片式追踪器，新品主打超薄设计，可视作苹果 AirTag 的替代产品。 据介绍，这款产品的大小与普通信用卡没有太大差别，厚度仅 1.7mm， 支持苹果 iOS“查找”和谷歌安卓 Find Hub 生态 ，能够与 iPhone、Android 设备无缝兼容…",
-          "detail": "IT之家 7 月 24 日消息，绿联现已在美国、欧洲市场推出 FineTrack Slim Duo 2 卡片式追踪器，新品主打超薄设计，可视作苹果 AirTag 的替代产品。 据介绍，这款产品的大小与普通信用卡没有太大差别，厚度仅 1.7mm， 支持苹果 iOS“查找”和谷歌安卓 Find Hub 生态 ，能够与 iPhone、Android 设备无缝兼容…",
-          "keyPoints": [
-            "电池 / 充电"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
           "id": "newsnow-f6a04960ae95",
           "title": "兄弟们苹果这个售后态度这么好的吗？？[吃瓜]今天对象收了一个带care服务的17pm，所以给沈阳中街的苹果 Store打电话，想咨询一下苹果care的相关问题[微笑]，我撒谎说我骑自行车手机飞出去屏幕坏了，想问一下走care服务换屏幕需要什么？",
           "originalTitle": "",
@@ -81,6 +58,54 @@ window.phoneRadarDaily = {
           "detail": "兄弟们苹果这个售后态度这么好的吗？？[吃瓜]今天对象收了一个带care服务的17pm，所以给沈阳中街的苹果 Store打电话，想咨询一下苹果care的相关问题[微笑]，我撒谎说我骑自行车手机飞出去屏幕坏了，想问一下走care服务换屏幕需要什么？",
           "keyPoints": [
             "屏幕形态"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "auto-3c5a1ce1bb33",
+          "title": "iPhone 外观设计线索曝光",
+          "originalTitle": "",
+          "source": "MacRumors",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-07-24",
+          "time": "11:19",
+          "publishedAt": "2026-07-24T11:19:25.000Z",
+          "url": "https://www.macrumors.com/2026/07/24/whatsapp-redesigned-message-bubbles-ios/",
+          "image": "https://images.macrumors.com/article-new/2026/05/Whatsapp-Feature.jpg",
+          "verdict": "先看",
+          "takeaway": "iPhone 外观设计线索曝光。重点看外观、颜色、尺寸是否和上一代有明显变化。",
+          "detail": "iPhone 外观设计线索曝光。这类内容主要看外观设计、按键布局、相机模组和尺寸变化，后续最好等更多渲染图或保护壳线索互相验证。",
+          "keyPoints": [
+            "外观 / 配色 / 尺寸"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "auto-7987eb6a0c84",
+          "title": "iPhone 18 Pro Max 屏幕规格相关消息",
+          "originalTitle": "",
+          "source": "MacRumors",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-07-24",
+          "time": "10:31",
+          "publishedAt": "2026-07-24T10:31:42.000Z",
+          "url": "https://www.macrumors.com/2026/07/24/oled-panel-price-cut-iphone-18-pro-max/",
+          "image": "https://images.macrumors.com/article-new/2026/07/iPhone-18-Pro-and-Pro-Max-Feature.jpg",
+          "verdict": "先看",
+          "takeaway": "iPhone 18 Pro Max 屏幕规格相关消息。如果涉及订阅、售价或硬件成本，才需要进一步看细节。",
+          "detail": "iPhone 18 Pro Max 屏幕规格相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
+          "keyPoints": [
+            "屏幕形态",
+            "芯片 / 性能",
+            "成本 / 价格"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
@@ -179,32 +204,36 @@ window.phoneRadarDaily = {
           "confidence": "可信度较高，但仍属于发布前线索。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
+        }
+      ]
+    },
+    {
+      "id": "launch",
+      "title": "新机与官方发布",
+      "hint": "能直接更新到参数库。",
+      "items": [
         {
-          "id": "auto-07b6fe679049",
-          "title": "消息称某厂中端新机搭载 7 英寸超大直屏 + 天玑 8 系处理器，预计荣耀旗下",
+          "id": "auto-6ce6c7e3d10f",
+          "title": "格科微：收到国际知名手机品牌订单，供应 0.64 微米 5000 万像素图像传感器",
           "originalTitle": "",
           "source": "IT之家",
-          "brand": "HONOR",
+          "brand": "Samsung",
           "type": "爆料",
           "trust": "媒体汇总",
           "date": "2026-07-24",
-          "time": "08:03",
-          "publishedAt": "2026-07-24T08:03:58.000Z",
-          "url": "https://www.ithome.com/0/981/211.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/7/7bcd5d5d-c8c5-4c60-b6c6-8424213d6633.png?x-bce-process=image/format,f_auto",
+          "time": "12:15",
+          "publishedAt": "2026-07-24T12:15:03.000Z",
+          "url": "https://www.ithome.com/0/981/369.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/7/62e64183-1f22-4f9f-9fb6-6670df52bc0d.png",
           "verdict": "先看",
-          "takeaway": "IT之家 7 月 24 日消息，博主 @数码闲聊站 今日爆料，某厂中端线新机搭载 7 英寸超大直屏、天玑 8 系处理器、超 10000mAh 超大电池。结合该博主此前的爆料习惯，预计这款新机为荣耀旗下，微博评论区有网友猜测是荣耀 Power3。 IT之家注意到，今年多次传出荣耀将推出 7 英寸大屏手机。该博主今年 5 月爆料称，荣耀迭代线开了几块大尺寸屏幕…",
-          "detail": "IT之家 7 月 24 日消息，博主 @数码闲聊站 今日爆料，某厂中端线新机搭载 7 英寸超大直屏、天玑 8 系处理器、超 10000mAh 超大电池。结合该博主此前的爆料习惯，预计这款新机为荣耀旗下，微博评论区有网友猜测是荣耀 Power3。 IT之家注意到，今年多次传出荣耀将推出 7 英寸大屏手机。该博主今年 5 月爆料称，荣耀迭代线开了几块大尺寸屏幕…",
+          "takeaway": "IT之家 7 月 24 日消息，格科微今日发布公告称，公司于近日收到国际知名手机品牌客户订单，为其供应 0.64 微米规格 5000 万像素图像传感器产品，首批订单金额约合人民币 5700 万元。 公告称，本次公司供应的 0.64 微米规格 5000 万像素图像传感器产品，基于 GalaxyCell®2.0 工艺平台开发，在实现高解析力、高动态、低噪声成像…",
+          "detail": "IT之家 7 月 24 日消息，格科微今日发布公告称，公司于近日收到国际知名手机品牌客户订单，为其供应 0.64 微米规格 5000 万像素图像传感器产品，首批订单金额约合人民币 5700 万元。 公告称，本次公司供应的 0.64 微米规格 5000 万像素图像传感器产品，基于 GalaxyCell®2.0 工艺平台开发，在实现高解析力、高动态、低噪声成像…",
           "keyPoints": [
-            "外观 / 配色 / 尺寸",
-            "屏幕形态",
-            "电池 / 充电",
-            "芯片 / 性能"
+            "爆料"
           ],
-          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "中文源可以直接点开快读；看完只保留和购机有关的点。"
         }
       ]
     }
