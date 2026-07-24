@@ -1,11 +1,11 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-07-24T19:45:48.485Z",
+  "updatedAt": "2026-07-24T21:19:46.722Z",
   "issueDate": "2026-07-24",
   "issue": "VOL.260724",
   "title": "手机情报日报",
-  "intro": "今日筛出 12 条重点，其中 8 条是重点爆料，包含 7 条 iPhone 相关、0 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 11 条重点，其中 8 条是重点爆料，包含 7 条 iPhone 相关、0 条官方确认、0 条参数线索。",
   "stats": {
-    "total": 12,
+    "total": 11,
     "iphone": 7,
     "leaks": 8,
     "official": 0,
@@ -35,6 +35,29 @@ window.phoneRadarDaily = {
           "detail": "兄弟们苹果这个售后态度这么好的吗？？[吃瓜]今天对象收了一个带care服务的17pm，所以给沈阳中街的苹果 Store打电话，想咨询一下苹果care的相关问题[微笑]，我撒谎说我骑自行车手机飞出去屏幕坏了，想问一下走care服务换屏幕需要什么？",
           "keyPoints": [
             "屏幕形态"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "auto-f4b3e5e3684d",
+          "title": "iPhone 价格 / 成本相关消息",
+          "originalTitle": "",
+          "source": "9to5Mac",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-07-24",
+          "time": "20:25",
+          "publishedAt": "2026-07-24T20:25:12.000Z",
+          "url": "https://9to5mac.com/2026/07/24/iphone-ultra-is-coming-six-new-features-in-apples-top-tier-model/",
+          "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/04/iphone-ultra-fold-mockup.jpg?quality=82&strip=all&w=1600",
+          "verdict": "先看",
+          "takeaway": "iPhone 价格 / 成本相关消息。如果涉及订阅、售价或硬件成本，才需要进一步看细节。",
+          "detail": "iPhone 价格 / 成本相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
+          "keyPoints": [
+            "爆料来源"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
@@ -181,29 +204,6 @@ window.phoneRadarDaily = {
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "auto-9645480413ee",
-          "title": "消息称手机品牌 Nothing 将在全球裁员 40%，并退出中东、日本等市场",
-          "originalTitle": "",
-          "source": "IT之家",
-          "brand": "行业",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-07-24",
-          "time": "14:54",
-          "publishedAt": "2026-07-24T14:54:26.000Z",
-          "url": "https://www.ithome.com/0/981/391.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/7/a908d9d8-8245-4c94-8ec1-58e13ad672a1.jpg?x-bce-process=image/format,f_auto",
-          "verdict": "先看",
-          "takeaway": "IT之家 7 月 24 日消息，据印度媒体 Digit 消息，Nothing 正在全球关闭 12 个（或更多）的市场业务，退出范围涵盖中东、日本以及欧洲部分地区。 此外， Nothing 将在全球裁员 40% 。该公司分布在中国和英国伦敦（比例为 7:3）的研发部门正分别面临约 50% 与 30%-40% 的裁员。 报道称，自发布以来，Nothing Ph…",
-          "detail": "IT之家 7 月 24 日消息，据印度媒体 Digit 消息，Nothing 正在全球关闭 12 个（或更多）的市场业务，退出范围涵盖中东、日本以及欧洲部分地区。 此外， Nothing 将在全球裁员 40% 。该公司分布在中国和英国伦敦（比例为 7:3）的研发部门正分别面临约 50% 与 30%-40% 的裁员。 报道称，自发布以来，Nothing Ph…",
-          "keyPoints": [
-            "爆料来源"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         }
       ]
     },
@@ -251,29 +251,6 @@ window.phoneRadarDaily = {
           "verdict": "先看",
           "takeaway": "2026年第29周国内手机市场份额曝光：苹果跌至第五",
           "detail": "2026年第29周国内手机市场份额曝光：苹果跌至第五",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
-        {
-          "id": "newsnow-d5ff892bfc37",
-          "title": "服了！女朋友跟我说要把她的iPhone 15 Pro Max换成iPhone 16e做主力机。[疑问][疑问]",
-          "originalTitle": "",
-          "source": "酷安热榜",
-          "brand": "iPhone",
-          "type": "爆料",
-          "trust": "高关注爆料源",
-          "date": "2026-07-24",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://www.coolapk.com/feed/72915293",
-          "image": "",
-          "verdict": "先看",
-          "takeaway": "服了！女朋友跟我说要把她的iPhone 15 Pro Max换成iPhone 16e做主力机。[疑问][疑问]",
-          "detail": "服了！女朋友跟我说要把她的iPhone 15 Pro Max换成iPhone 16e做主力机。[疑问][疑问]",
           "keyPoints": [
             "爆料"
           ],

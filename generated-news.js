@@ -1,6 +1,66 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-07-24T19:45:48.485Z",
+  "updatedAt": "2026-07-24T21:19:46.722Z",
   "news": [
+    {
+      "id": "auto-bbfe1e4f4fff",
+      "title": "WhatsApp testing new message bubbles on iOS",
+      "source": "9to5Mac",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-24",
+      "time": "20:25",
+      "publishedAt": "2026-07-24T20:25:32.000Z",
+      "url": "https://9to5mac.com/2026/07/24/whatsapp-testing-new-message-bubbles-on-ios/",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/11/whatsapp-ios-26.jpg?quality=82&strip=all&w=1600",
+      "summary": "Following the official rollout of its Liquid Glass redesign to most WhatsApp users on iOS, the messaging platform is now testing another visual change, this time focused on the lo…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-f4b3e5e3684d",
+      "title": "iPhone Ultra is coming: Six new features in Apple’s top-tier model",
+      "source": "9to5Mac",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-24",
+      "time": "20:25",
+      "publishedAt": "2026-07-24T20:25:12.000Z",
+      "url": "https://9to5mac.com/2026/07/24/iphone-ultra-is-coming-six-new-features-in-apples-top-tier-model/",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/04/iphone-ultra-fold-mockup.jpg?quality=82&strip=all&w=1600",
+      "summary": "Apple’s first foldable iPhone is coming this fall , and rumors say it will be called iPhone Ultra. Here are six features to expect from Apple’s new high-end iPhone Ultra.",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-6ad51d98590c",
+      "title": "Pixel 11 price hikes look confirmed, as Google exec warns Pixel 10a could be next",
+      "source": "Android Authority",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-24",
+      "time": "20:23",
+      "publishedAt": "2026-07-24T20:23:15.000Z",
+      "url": "https://www.androidauthority.com/pixel-11-price-increases-3691265/",
+      "image": "",
+      "summary": "Google will \"dynamically\" adjust Pixel prices to match supply realities.",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-c9503e519a3a",
       "title": "New cameras and battery tech could make the Galaxy S27, S27 Plus interesting",
@@ -702,26 +762,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-f6a04960ae95",
-      "title": "兄弟们苹果这个售后态度这么好的吗？？[吃瓜]今天对象收了一个带care服务的17pm，所以给沈阳中街的苹果 Store打电话，想咨询一下苹果care的相关问题[微笑]，我撒谎说我骑自行车手机飞出去屏幕坏了，想问一下走care服务换屏幕需要什么？",
-      "source": "酷安热榜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-07-24",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72908764",
-      "image": "",
-      "summary": "兄弟们苹果这个售后态度这么好的吗？？[吃瓜]今天对象收了一个带care服务的17pm，所以给沈阳中街的苹果 Store打电话，想咨询一下苹果care的相关问题[微笑]，我撒谎说我骑自行车手机飞出去屏幕坏了，想问一下走care服务换屏幕需要什么？",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
       "id": "newsnow-109bd0378f96",
       "title": "小米折叠屏新机入网公示：备案搭载多款大模型",
       "source": "酷安热榜",
@@ -737,6 +777,26 @@ window.phoneRadarAuto = {
       "summary": "小米折叠屏新机入网公示：备案搭载多款大模型",
       "tags": [
         "Xiaomi",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-f6a04960ae95",
+      "title": "兄弟们苹果这个售后态度这么好的吗？？[吃瓜]今天对象收了一个带care服务的17pm，所以给沈阳中街的苹果 Store打电话，想咨询一下苹果care的相关问题[微笑]，我撒谎说我骑自行车手机飞出去屏幕坏了，想问一下走care服务换屏幕需要什么？",
+      "source": "酷安热榜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-07-24",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/72908764",
+      "image": "",
+      "summary": "兄弟们苹果这个售后态度这么好的吗？？[吃瓜]今天对象收了一个带care服务的17pm，所以给沈阳中街的苹果 Store打电话，想咨询一下苹果care的相关问题[微笑]，我撒谎说我骑自行车手机飞出去屏幕坏了，想问一下走care服务换屏幕需要什么？",
+      "tags": [
+        "iPhone",
         "爆料",
         "NewsNow"
       ]
