@@ -1,14 +1,14 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-07-23T23:10:39.457Z",
-  "issueDate": "2026-07-23",
-  "issue": "VOL.260723",
+  "updatedAt": "2026-07-24T03:42:42.956Z",
+  "issueDate": "2026-07-24",
+  "issue": "VOL.260724",
   "title": "手机情报日报",
-  "intro": "今日筛出 8 条重点，其中 8 条是重点爆料，包含 6 条 iPhone 相关、0 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 12 条重点，其中 8 条是重点爆料，包含 5 条 iPhone 相关、1 条官方确认、0 条参数线索。",
   "stats": {
-    "total": 8,
-    "iphone": 6,
+    "total": 12,
+    "iphone": 5,
     "leaks": 8,
-    "official": 0,
+    "official": 1,
     "specs": 0
   },
   "sections": [
@@ -18,38 +18,37 @@ window.phoneRadarDaily = {
       "hint": "机模、配色、影像、屏幕、电池和芯片线索先看。",
       "items": [
         {
-          "id": "auto-a138685604ae",
-          "title": "苹果首款折叠手机 iPhone Ultra 发布日期尚不明朗，消息称富士康正调整产线",
+          "id": "auto-30cf68376225",
+          "title": "初探微软 Win11 版 WhatsApp 手机接续：延迟高、内存占用约 1.2GB",
           "originalTitle": "",
           "source": "IT之家",
           "brand": "iPhone",
           "type": "爆料",
           "trust": "媒体汇总",
-          "date": "2026-07-23",
-          "time": "22:59",
-          "publishedAt": "2026-07-23T22:59:52.000Z",
-          "url": "https://www.ithome.com/0/980/880.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/7/a3beb0e7-1e24-43ff-8a03-6144930e7e40.jpg",
+          "date": "2026-07-24",
+          "time": "03:27",
+          "publishedAt": "2026-07-24T03:27:04.000Z",
+          "url": "https://www.ithome.com/0/981/054.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/7/f00af37d-7205-478f-ba06-efd3073e4ca5.png?x-bce-process=image/format,f_auto",
           "verdict": "先看",
-          "takeaway": "IT之家 7 月 24 日消息，行业媒体 Digitimes 昨日（7 月 23 日）发布博文，报道称 苹果首款折叠手机（上市后预估名为 iPhone Ultra）最终发布时间仍未明朗。 IT之家注：关于这款折叠手机的上市日期，目前爆料消息众说纷纭。有消息称由于因产品组装复杂、良率较低等原因延期发售；还有消息称富士康已启动大规模招工， 苹果首款折叠屏 iP…",
-          "detail": "IT之家 7 月 24 日消息，行业媒体 Digitimes 昨日（7 月 23 日）发布博文，报道称 苹果首款折叠手机（上市后预估名为 iPhone Ultra）最终发布时间仍未明朗。 IT之家注：关于这款折叠手机的上市日期，目前爆料消息众说纷纭。有消息称由于因产品组装复杂、良率较低等原因延期发售；还有消息称富士康已启动大规模招工， 苹果首款折叠屏 iP…",
+          "takeaway": "IT之家 7 月 24 日消息，科技媒体 Windows Latest 今天（7 月 24 日）发布博文，报道称微软已全量推送“跨设备恢复”（Cross-device Resume）功能， 在适用于 Windows 11 的新版 WhatsApp 上，让用户在 PC 端接续安卓手机上未完成的聊天。 IT之家注：“跨设备恢复”类似于苹果的接力（Handoff…",
+          "detail": "IT之家 7 月 24 日消息，科技媒体 Windows Latest 今天（7 月 24 日）发布博文，报道称微软已全量推送“跨设备恢复”（Cross-device Resume）功能， 在适用于 Windows 11 的新版 WhatsApp 上，让用户在 PC 端接续安卓手机上未完成的聊天。 IT之家注：“跨设备恢复”类似于苹果的接力（Handoff…",
           "keyPoints": [
-            "屏幕形态",
-            "爆料来源"
+            "爆料"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
-          "id": "newsnow-5919e1478fbf",
+          "id": "newsnow-f6a04960ae95",
           "title": "兄弟们苹果这个售后态度这么好的吗？？[吃瓜]今天对象收了一个带care服务的17pm，所以给沈阳中街的苹果 Store打电话，想咨询一下苹果care的相关问题[微笑]，我撒谎说我骑自行车手机飞出去屏幕坏了，想问一下走care服务换屏幕需要什么？",
           "originalTitle": "",
           "source": "酷安热榜",
           "brand": "iPhone",
           "type": "爆料",
           "trust": "高关注爆料源",
-          "date": "2026-07-23",
+          "date": "2026-07-24",
           "time": "",
           "publishedAt": "",
           "url": "https://www.coolapk.com/feed/72908764",
@@ -111,48 +110,25 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
-          "id": "auto-2d3fd00ec368",
-          "title": "iPhone 18 Pro 发布 / 上市相关消息",
+          "id": "coolapk-user-c3f4ec9d054e",
+          "title": "JSCHEN小小狐：『OPPO K15 正式开售：天玑 7360 / 2299 元』 12GB + 256GB —— 2299 元 ◇…",
           "originalTitle": "",
-          "source": "9to5Mac",
-          "brand": "iPhone",
+          "source": "JSCHEN小小狐",
+          "brand": "OPPO",
           "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-07-22",
-          "time": "11:42",
-          "publishedAt": "2026-07-22T11:42:08.000Z",
-          "url": "https://9to5mac.com/2026/07/22/iphone-18-pro-reportedly-enters-mass-production-ahead-of-september-launch/",
-          "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/iphone-18-pro-pro-max-mockup-di.jpg?quality=82&strip=all&w=1600",
+          "trust": "高可信爆料",
+          "date": "2026-07-24",
+          "time": "02:35",
+          "publishedAt": "2026-07-24T02:35:02.000Z",
+          "url": "https://www.coolapk.com/feed/72915193",
+          "image": "http://image.coolapk.com/feed/2026/0724/10/4702274_827342d8_0494_8732_313@1500x2667.jpg",
           "verdict": "先看",
-          "takeaway": "iPhone 有发布或新功能消息，适合确认是否和新机有关。",
-          "detail": "iPhone 18 Pro 发布 / 上市相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "auto-87ed3916ac2d",
-          "title": "iPhone 17 Pro 影像能力相关消息",
-          "originalTitle": "",
-          "source": "9to5Mac",
-          "brand": "iPhone",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-07-22",
-          "time": "01:37",
-          "publishedAt": "2026-07-22T01:37:01.000Z",
-          "url": "https://9to5mac.com/2026/07/21/apple-promotes-nido-de-villanas-a-mexican-microdrama-shot-on-iphone-17-pro/",
-          "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/nido-de-villanas.jpg?quality=82&strip=all&w=1600",
-          "verdict": "先看",
-          "takeaway": "iPhone 影像能力相关宣传或案例，主要看是否透露拍摄能力变化。",
-          "detail": "iPhone 17 Pro 影像能力相关消息。重点看影像功能是否和新机硬件有关，如果只是拍摄案例或营销内容，参考价值会低一些。",
+          "takeaway": "『OPPO K15 正式开售：天玑 7360 / 2299 元』 12GB + 256GB —— 2299 元 ◇ 外观 配色：疾速白、疾风灰 铝合金中框 + 复合板材后盖 厚 8.27/8.31mm，约 205/206g 全新自定义「岚影呼吸灯」 ◇ 性能 天玑 7360 SUPER 移动平台 LPDDR4X 内存 UFS 3.1 闪存 新一代「疾风散热…",
+          "detail": "『OPPO K15 正式开售：天玑 7360 / 2299 元』 12GB + 256GB —— 2299 元 ◇ 外观 配色：疾速白、疾风灰 铝合金中框 + 复合板材后盖 厚 8.27/8.31mm，约 205/206g 全新自定义「岚影呼吸灯」 ◇ 性能 天玑 7360 SUPER 移动平台 LPDDR4X 内存 UFS 3.1 闪存 新一代「疾风散热…",
           "keyPoints": [
             "外观 / 配色 / 尺寸"
           ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "confidence": "可信度较高，但仍属于发布前线索。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
@@ -182,6 +158,29 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
+          "id": "auto-b76fa66e01d0",
+          "title": "近 6 年首次未用自家 ISOCELL，曝三星 Galaxy S27/S27+ 手机主摄配索尼 5000 万传感器",
+          "originalTitle": "",
+          "source": "IT之家",
+          "brand": "Samsung",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-07-24",
+          "time": "03:05",
+          "publishedAt": "2026-07-24T03:05:14.000Z",
+          "url": "https://www.ithome.com/0/980/995.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/2/9949c9c7-8336-4129-8858-8196f9c72d1f.jpg?x-bce-process=image/auto-orient,o_1",
+          "verdict": "先看",
+          "takeaway": "IT之家 7 月 24 日消息，荷兰科技媒体 Galaxy Club 昨日（7 月 23 日）发布博文， 爆料称三星 Galaxy S27 和 Galaxy 27+ 两款手机主摄将采用 5000 万像素的索尼传感器。 IT之家注： 三星 Galaxy S26 和 S26+ 的主摄像头采用 5000 万像素的三星 ISOCELL 传感器（型号为 S5KGNG…",
+          "detail": "IT之家 7 月 24 日消息，荷兰科技媒体 Galaxy Club 昨日（7 月 23 日）发布博文， 爆料称三星 Galaxy S27 和 Galaxy 27+ 两款手机主摄将采用 5000 万像素的索尼传感器。 IT之家注： 三星 Galaxy S26 和 S26+ 的主摄像头采用 5000 万像素的三星 ISOCELL 传感器（型号为 S5KGNG…",
+          "keyPoints": [
+            "爆料来源"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
           "id": "weibo-e3073b2522d4",
           "title": "数码闲聊站：iQOO Neo新机暂定8月前后上线，2K直屏中端旗舰级性能机，100W闪充大…",
           "originalTitle": "",
@@ -205,6 +204,112 @@ window.phoneRadarDaily = {
           "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        }
+      ]
+    },
+    {
+      "id": "iphone",
+      "title": "iPhone 重点",
+      "hint": "不是硬件爆料，但和 iPhone 体验或路线有关。",
+      "items": [
+        {
+          "id": "auto-9bbf43c61c96",
+          "title": "iPhone 系统功能 / AI 体验相关消息",
+          "originalTitle": "",
+          "source": "Apple Newsroom",
+          "brand": "iPhone",
+          "type": "官方",
+          "trust": "官方确认",
+          "date": "2026-07-24",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://www.apple.com/newsroom/2026/06/apple-announces-changes-to-ios-in-brazil/",
+          "image": "",
+          "verdict": "先看",
+          "takeaway": "iPhone 系统功能 / AI 体验相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
+          "detail": "iPhone 系统功能 / AI 体验相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
+          "keyPoints": [
+            "官方"
+          ],
+          "confidence": "官方内容，可直接作为已确认信息记录。",
+          "impact": "可信度高，但如果不是配置/价格消息，只需要扫一眼。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        }
+      ]
+    },
+    {
+      "id": "market",
+      "title": "行业趋势",
+      "hint": "看方向，不急着当购买依据。",
+      "items": [
+        {
+          "id": "newsnow-e6f1c2274b82",
+          "title": "#我在酷安晒女友# #人像摄影# #手机摄影# 嘿嘿和女朋友又见面了，盆友们我们只吃个饭昂[受虐滑稽]",
+          "originalTitle": "",
+          "source": "酷安热榜",
+          "brand": "行业",
+          "type": "爆料",
+          "trust": "高关注爆料源",
+          "date": "2026-07-24",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://www.coolapk.com/feed/72901415",
+          "image": "",
+          "verdict": "扫一眼",
+          "takeaway": "#我在酷安晒女友# #人像摄影# #手机摄影# 嘿嘿和女朋友又见面了，盆友们我们只吃个饭昂[受虐滑稽]",
+          "detail": "#我在酷安晒女友# #人像摄影# #手机摄影# 嘿嘿和女朋友又见面了，盆友们我们只吃个饭昂[受虐滑稽]",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        },
+        {
+          "id": "coolapk-user-2b2daa28bcbf",
+          "title": "竹本青：除了主控，外围还算可以的，但是K15 Pro（简装版）就比这个贵100 #OPPOK15Pro+# #OPPOK1…",
+          "originalTitle": "",
+          "source": "竹本青",
+          "brand": "OPPO",
+          "type": "爆料",
+          "trust": "高可信爆料",
+          "date": "2026-07-24",
+          "time": "02:23",
+          "publishedAt": "2026-07-24T02:23:41.000Z",
+          "url": "https://www.coolapk.com/feed/72915048",
+          "image": "",
+          "verdict": "扫一眼",
+          "takeaway": "除了主控，外围还算可以的，但是K15 Pro（简装版）就比这个贵100 #OPPOK15Pro+# #OPPOK15Pro#",
+          "detail": "除了主控，外围还算可以的，但是K15 Pro（简装版）就比这个贵100 #OPPOK15Pro+# #OPPOK15Pro#",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "可信度较高，但仍属于发布前线索。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        },
+        {
+          "id": "coolapk-user-0467ae73474f",
+          "title": "竹本青：【2026 小米之家「雪糕派对」正式开启：到店免费领雪糕】 7月24日，小米之家联合冰工厂开启2026「雪糕派对」…",
+          "originalTitle": "",
+          "source": "竹本青",
+          "brand": "Xiaomi",
+          "type": "爆料",
+          "trust": "高可信爆料",
+          "date": "2026-07-24",
+          "time": "02:15",
+          "publishedAt": "2026-07-24T02:15:20.000Z",
+          "url": "https://www.coolapk.com/feed/72914958",
+          "image": "http://image.coolapk.com/feed/2026/0724/10/4248714_15b2ce72_9319_3804_243@960x1280.jpg",
+          "verdict": "扫一眼",
+          "takeaway": "【2026 小米之家「雪糕派对」正式开启：到店免费领雪糕】 7月24日，小米之家联合冰工厂开启2026「雪糕派对」活动：即日起至7月26日，到店扫码可领取雪糕，款式随机，领完即止。 ＊小米定制雪糕全国共50万支，活动单店至少40支，每人限领1支。 #今日热点# #HyperOS3# #小米17#",
+          "detail": "【2026 小米之家「雪糕派对」正式开启：到店免费领雪糕】 7月24日，小米之家联合冰工厂开启2026「雪糕派对」活动：即日起至7月26日，到店扫码可领取雪糕，款式随机，领完即止。 ＊小米定制雪糕全国共50万支，活动单店至少40支，每人限领1支。 #今日热点# #HyperOS3# #小米17#",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "可信度较高，但仍属于发布前线索。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         }
       ]
     }
