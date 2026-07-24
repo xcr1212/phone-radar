@@ -1,6 +1,86 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-07-24T15:43:31.585Z",
+  "updatedAt": "2026-07-24T17:50:36.836Z",
   "news": [
+    {
+      "id": "auto-df206a799730",
+      "title": "I found 2 deals that could get you the new Samsung Galaxy Z Fold 8 for free — IF you follow these steps",
+      "source": "Android Central",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-07-24",
+      "time": "17:09",
+      "publishedAt": "2026-07-24T17:09:35.000Z",
+      "url": "https://www.androidcentral.com/phones/samsung-galaxy/i-found-2-deals-that-could-get-you-the-new-samsung-galaxy-z-fold-8-for-free-if-you-follow-these-steps",
+      "image": "https://cdn.mos.cms.futurecdn.net/GDQiMMaXu8dfHz8fgGPas5-1280-80.jpg",
+      "summary": "AT&T and T-Mobile are both running preorder deals that could get you the new Galaxy Z Fold 8 for free if you play your cards right.",
+      "tags": [
+        "Samsung",
+        "评测",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-4dd8e7f74c91",
+      "title": "With the Galaxy Z Fold 8 around the corner, I never expected Google to be a trendsetter",
+      "source": "Android Police",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-24",
+      "time": "17:00",
+      "publishedAt": "2026-07-24T17:00:15.000Z",
+      "url": "https://www.androidpolice.com/galaxy-z-fold-8-never-expected-google-to-be-a-trendsetter/",
+      "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2026/07/a-silver-samsung-galaxy-z-fold-phone-stands-partially-open-on-a-wooden-table.png",
+      "summary": "Google's foldable design may finally get the recognition it deserves, with Samsung and Apple expected to unveil similarly designed foldables",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-eef0cab2320a",
+      "title": "The Google Pixel 10 Pro is still just $699 ahead of the upcoming Pixel 11 launch",
+      "source": "Android Authority",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-24",
+      "time": "16:28",
+      "publishedAt": "2026-07-24T16:28:17.000Z",
+      "url": "https://www.androidauthority.com/google-pixel-10-pro-july-deal-3691212/",
+      "image": "",
+      "summary": "Save $300 on the Google Pixel 10 Pro at Amazon and grab Google's compact flagship with a 6.3-inch display for $699.",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-7ad027be7006",
+      "title": "Galaxy S27 series leaks with iPhone-like lineup, new cameras, silicon-carbon batteries",
+      "source": "9to5Google",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-24",
+      "time": "15:45",
+      "publishedAt": "2026-07-24T15:45:00.000Z",
+      "url": "https://9to5google.com/2026/07/24/samsung-galaxy-s27-cameras-models-silicon-carbon-battery-leaks/",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/03/S26-Ultra-camera.jpg?quality=82&strip=all&w=1600",
+      "summary": "While the Galaxy Z Fold 8 series has just debuted, there are some rumblings of Samsung’s next non-folding flagships, with the Galaxy S27 series reportedly changing up the lineup a…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-9589ca842714",
       "title": "Samsung's big Galaxy Z Fold 8 changes are useful, but so small that I almost missed them",
@@ -35,26 +115,6 @@ window.phoneRadarAuto = {
       "url": "https://www.theverge.com/tech/970618/onyx-boox-picco-ereader-xteink",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Onyx-Boox-Picco-2.jpg?quality=90&strip=all&crop=0,0,100,100",
       "summary": "Boox's new Tile lineup will take on Xteink's popular e-readers that are small enough to stick on the back of an iPhone with MagSafe. As spotted by Good E-Reader, the first one is…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-7fdf4686cfd5",
-      "title": "Unpatchable iPhone 11 Exploit Sparks Legal Battle",
-      "source": "MacRumors",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-24",
-      "time": "14:58",
-      "publishedAt": "2026-07-24T14:58:55.000Z",
-      "url": "https://www.macrumors.com/2026/07/24/unpatchable-iphone-11-exploit-sparks-legal-battle/",
-      "image": "https://images.macrumors.com/article-new/2023/06/iPhone-11-Pro-Feature-Green.jpg",
-      "summary": "Last month, cybersecurity research firm Paradigm Shift published details about a boot ROM vulnerability affecting Apple's A12 and A13 chips , but it has since removed the blog pos…",
       "tags": [
         "iPhone",
         "爆料",
@@ -103,7 +163,7 @@ window.phoneRadarAuto = {
     },
     {
       "id": "auto-0be808fdf28b",
-      "title": "After OnePlus, Nothing could be the next brand to leave multiple global markets",
+      "title": "After OnePlus, Nothing could be the next brand to leave multiple global markets (Update)",
       "source": "Android Authority",
       "brand": "OPPO",
       "model": "OPPO 相关机型",
@@ -277,26 +337,6 @@ window.phoneRadarAuto = {
       "summary": "Apple is pushing OLED panel suppliers to lower their prices for the iPhone 18 Pro Max, as the cost of memory chips and other components rises, reports The Elec . According to the…",
       "tags": [
         "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-f1749cd6fbe6",
-      "title": "Skip the Galaxy Z Fold 8 and buy this $600 foldable instead",
-      "source": "Android Police",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-24",
-      "time": "10:30",
-      "publishedAt": "2026-07-24T10:30:15.000Z",
-      "url": "https://www.androidpolice.com/skip-galaxy-z-fold-8-buy-pixel-fold-instead/",
-      "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2026/07/samsung-galaxy-z-fold-8-colors.JPG",
-      "summary": "Paying $1,899 for a phone without a zoom camera feels like theft",
-      "tags": [
-        "Samsung",
         "爆料",
         "自动抓取"
       ]
@@ -1038,26 +1078,6 @@ window.phoneRadarAuto = {
       "tags": [
         "Samsung",
         "评测",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-79d4496f4b2c",
-      "title": "Foldable iPhone Still Faces Production Hurdles, Report Says",
-      "source": "MacRumors",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-23",
-      "time": "12:18",
-      "publishedAt": "2026-07-23T12:18:17.000Z",
-      "url": "https://www.macrumors.com/2026/07/23/foldable-iphone-still-faces-production-hurdles/",
-      "image": "https://images.macrumors.com/article-new/2025/03/Foldable-iPhone-2023-Feature-1.jpg",
-      "summary": "Apple's foldable iPhone still faces production hurdles that leave its exact launch timing undecided, according to a new report from DigiTimes , even as Foxconn carries out what su…",
-      "tags": [
-        "iPhone",
-        "爆料",
         "自动抓取"
       ]
     },

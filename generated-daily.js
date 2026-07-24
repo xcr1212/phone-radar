@@ -1,12 +1,12 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-07-24T15:43:31.585Z",
+  "updatedAt": "2026-07-24T17:50:36.836Z",
   "issueDate": "2026-07-24",
   "issue": "VOL.260724",
   "title": "手机情报日报",
-  "intro": "今日筛出 10 条重点，其中 8 条是重点爆料，包含 7 条 iPhone 相关、1 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 12 条重点，其中 8 条是重点爆料，包含 5 条 iPhone 相关、1 条官方确认、0 条参数线索。",
   "stats": {
-    "total": 10,
-    "iphone": 7,
+    "total": 12,
+    "iphone": 5,
     "leaks": 8,
     "official": 1,
     "specs": 0
@@ -35,29 +35,6 @@ window.phoneRadarDaily = {
           "detail": "兄弟们苹果这个售后态度这么好的吗？？[吃瓜]今天对象收了一个带care服务的17pm，所以给沈阳中街的苹果 Store打电话，想咨询一下苹果care的相关问题[微笑]，我撒谎说我骑自行车手机飞出去屏幕坏了，想问一下走care服务换屏幕需要什么？",
           "keyPoints": [
             "屏幕形态"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "auto-7fdf4686cfd5",
-          "title": "iPhone 相关消息",
-          "originalTitle": "",
-          "source": "MacRumors",
-          "brand": "iPhone",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-07-24",
-          "time": "14:58",
-          "publishedAt": "2026-07-24T14:58:55.000Z",
-          "url": "https://www.macrumors.com/2026/07/24/unpatchable-iphone-11-exploit-sparks-legal-battle/",
-          "image": "https://images.macrumors.com/article-new/2023/06/iPhone-11-Pro-Feature-Green.jpg",
-          "verdict": "先看",
-          "takeaway": "iPhone 相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
-          "detail": "iPhone 相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
-          "keyPoints": [
-            "芯片 / 性能"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
@@ -135,29 +112,6 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
-          "id": "auto-79d4496f4b2c",
-          "title": "iPhone 折叠屏相关消息",
-          "originalTitle": "",
-          "source": "MacRumors",
-          "brand": "iPhone",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-07-23",
-          "time": "12:18",
-          "publishedAt": "2026-07-23T12:18:17.000Z",
-          "url": "https://www.macrumors.com/2026/07/23/foldable-iphone-still-faces-production-hurdles/",
-          "image": "https://images.macrumors.com/article-new/2025/03/Foldable-iPhone-2023-Feature-1.jpg",
-          "verdict": "先看",
-          "takeaway": "iPhone 折叠屏相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
-          "detail": "iPhone 折叠屏相关消息。重点看折痕、铰链、厚度、屏幕可靠性和重量是否有实质改善。",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
           "id": "coolapk-user-c3f4ec9d054e",
           "title": "JSCHEN小小狐：『OPPO K15 正式开售：天玑 7360 / 2299 元』 12GB + 256GB —— 2299 元 ◇…",
           "originalTitle": "",
@@ -202,6 +156,54 @@ window.phoneRadarDaily = {
             "电池 / 充电"
           ],
           "confidence": "可信度较高，但仍属于发布前线索。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "auto-9645480413ee",
+          "title": "消息称手机品牌 Nothing 将在全球裁员 40%，并退出中东、日本等市场",
+          "originalTitle": "",
+          "source": "IT之家",
+          "brand": "行业",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-07-24",
+          "time": "14:54",
+          "publishedAt": "2026-07-24T14:54:26.000Z",
+          "url": "https://www.ithome.com/0/981/391.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/7/a908d9d8-8245-4c94-8ec1-58e13ad672a1.jpg?x-bce-process=image/format,f_auto",
+          "verdict": "先看",
+          "takeaway": "IT之家 7 月 24 日消息，据印度媒体 Digit 消息，Nothing 正在全球关闭 12 个（或更多）的市场业务，退出范围涵盖中东、日本以及欧洲部分地区。 此外， Nothing 将在全球裁员 40% 。该公司分布在中国和英国伦敦（比例为 7:3）的研发部门正分别面临约 50% 与 30%-40% 的裁员。 报道称，自发布以来，Nothing Ph…",
+          "detail": "IT之家 7 月 24 日消息，据印度媒体 Digit 消息，Nothing 正在全球关闭 12 个（或更多）的市场业务，退出范围涵盖中东、日本以及欧洲部分地区。 此外， Nothing 将在全球裁员 40% 。该公司分布在中国和英国伦敦（比例为 7:3）的研发部门正分别面临约 50% 与 30%-40% 的裁员。 报道称，自发布以来，Nothing Ph…",
+          "keyPoints": [
+            "爆料来源"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "auto-160dbec4cfa4",
+          "title": "vivo 机模 / 配色信息曝光",
+          "originalTitle": "",
+          "source": "Gizmochina",
+          "brand": "vivo",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-07-23",
+          "time": "07:28",
+          "publishedAt": "2026-07-23T07:28:15.000Z",
+          "url": "https://www.gizmochina.com/2026/07/23/vivo-s2-india-price-variants-colors-leak/",
+          "image": "https://www.gizmochina.com/wp-content/uploads/2026/07/image-88-300x168.png?x92417",
+          "verdict": "先看",
+          "takeaway": "vivo 机模 / 配色信息曝光。重点看外观、颜色、尺寸是否和上一代有明显变化。",
+          "detail": "vivo 机模 / 配色信息曝光。来源提到未发布机型的机模/配色图，适合先判断外观方向、颜色变化和机身轮廓，但最终量产版本仍可能调整。",
+          "keyPoints": [
+            "外观 / 配色 / 尺寸",
+            "成本 / 价格",
+            "爆料来源"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         }
@@ -264,6 +266,59 @@ window.phoneRadarDaily = {
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
           "action": "中文源可以直接点开快读；看完只保留和购机有关的点。"
+        }
+      ]
+    },
+    {
+      "id": "market",
+      "title": "行业趋势",
+      "hint": "看方向，不急着当购买依据。",
+      "items": [
+        {
+          "id": "newsnow-5d5a9eb1dd8b",
+          "title": "今天把小米14卖掉了，晚上没忍住哭了，因为这个小米14承载了我诸多难忘的回忆，同时也是我上大学拥有的第一部真正的旗舰，我现在还记得当时去买这个手机的那一天，其实把手机寄出快递的那一瞬间心里就开始难受了，我哭的一部分原因也有日常使用对小米14比较粗暴而愧疚吧，现在我也开始后悔卖掉了，应该留下来收藏的或者当备用机的，唉，小米14，一转眼，时间过得好快，18都要马上出来了，好吧我纯粹是无聊写着玩的，其实压根没有这样，谁会为了个手机这样[笑哭]，既然你们能看到这里，就当是个乐子吧[受虐滑稽]",
+          "originalTitle": "",
+          "source": "酷安热榜",
+          "brand": "Xiaomi",
+          "type": "爆料",
+          "trust": "高关注爆料源",
+          "date": "2026-07-24",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://www.coolapk.com/feed/72911679",
+          "image": "",
+          "verdict": "先看",
+          "takeaway": "今天把小米14卖掉了，晚上没忍住哭了，因为这个小米14承载了我诸多难忘的回忆，同时也是我上大学拥有的第一部真正的旗舰，我现在还记得当时去买这个手机的那一天，其实把手机寄出快递的那一瞬间心里就开始难受了，我哭的一部分原因也有日常使用对小米14比较粗暴而愧疚吧，现在我也开始后悔卖掉了，应该留下来收藏的或者当备用机的，唉，小米14，一转眼，时间过得好快，18都要…",
+          "detail": "今天把小米14卖掉了，晚上没忍住哭了，因为这个小米14承载了我诸多难忘的回忆，同时也是我上大学拥有的第一部真正的旗舰，我现在还记得当时去买这个手机的那一天，其实把手机寄出快递的那一瞬间心里就开始难受了，我哭的一部分原因也有日常使用对小米14比较粗暴而愧疚吧，现在我也开始后悔卖掉了，应该留下来收藏的或者当备用机的，唉，小米14，一转眼，时间过得好快，18都要…",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        },
+        {
+          "id": "newsnow-45c649e8ced2",
+          "title": "给我妹妹买的 不会不如iphone x吧[受虐滑稽][受虐滑稽]两千五价位好像没有其他选择了[流泪][流泪][流泪][流泪] #HyperOS3# #小米15# #HyperOS4#",
+          "originalTitle": "",
+          "source": "酷安热榜",
+          "brand": "Xiaomi",
+          "type": "爆料",
+          "trust": "高关注爆料源",
+          "date": "2026-07-24",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://www.coolapk.com/feed/72901679",
+          "image": "",
+          "verdict": "先看",
+          "takeaway": "给我妹妹买的 不会不如iphone x吧[受虐滑稽][受虐滑稽]两千五价位好像没有其他选择了[流泪][流泪][流泪][流泪] #HyperOS3# #小米15# #HyperOS4#",
+          "detail": "给我妹妹买的 不会不如iphone x吧[受虐滑稽][受虐滑稽]两千五价位好像没有其他选择了[流泪][流泪][流泪][流泪] #HyperOS3# #小米15# #HyperOS4#",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         }
       ]
     }
