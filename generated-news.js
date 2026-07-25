@@ -1,6 +1,26 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-07-25T11:33:10.760Z",
+  "updatedAt": "2026-07-25T14:00:38.771Z",
   "news": [
+    {
+      "id": "auto-5bc8664b8f42",
+      "title": "Huawei Pura X Max vs Galaxy Z Fold 8 Wide: Top 3 notable differences",
+      "source": "Huawei Central",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-25",
+      "time": "13:20",
+      "publishedAt": "2026-07-25T13:20:18.000Z",
+      "url": "https://www.huaweicentral.com/huawei-pura-x-max-vs-galaxy-z-fold-8-wide-top-3-notable-differences/",
+      "image": "https://www.huaweicentral.com/wp-content/uploads/2026/07/Pura-X-Max-vs-Galaxy-Z-Fold-8.jpg",
+      "summary": "After Huawei set the trend of wide foldable phones in the market with the new Pura X Max, Samsung followed with its broad creation – Galaxy Z Fold 8 and here is an ultimate showdo…",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-158e93540754",
       "title": "5 Android phones you should buy instead of the Galaxy Z Fold 8 Ultra",
@@ -262,26 +282,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-150b4d3f83e1",
-      "title": "覆盖人口超 4 亿，我国地震预警公众服务体系已初步建成",
-      "source": "IT之家",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-25",
-      "time": "03:39",
-      "publishedAt": "2026-07-25T03:39:41.000Z",
-      "url": "https://www.ithome.com/0/981/466.htm",
-      "image": "",
-      "summary": "IT之家 7 月 25 日消息，据央视新闻，今天（7 月 25 日），是国家地震烈度速报与预警工程竣工验收两周年，我国地震预警公众服务体系已初步建成， 目前累计覆盖人口超过 4 亿，其中手机预警服务用户突破 2.28 亿 ，标志着我国地震预警公众服务已进入“ 广覆盖、快触达、精准化 ”的新阶段。 自 2024 年 7 月工程全面竣工以来，多渠道、全覆盖、规…",
-      "tags": [
-        "行业",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-ff8a39158f1d",
       "title": "A new 6.6-inch Huawei Mate phone rumored to debut in H1 2027",
       "source": "Huawei Central",
@@ -319,186 +319,6 @@ window.phoneRadarAuto = {
         "iPhone",
         "官方",
         "自动抓取"
-      ]
-    },
-    {
-      "id": "newsnow-89a334cc75a7",
-      "title": "我的出行好伙伴，用 iPhone 一站式解决旅途痛点",
-      "source": "少数派热榜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "评测",
-      "trust": "媒体汇总",
-      "date": "2026-07-25",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://sspai.com/post/112044",
-      "image": "",
-      "summary": "我的出行好伙伴，用 iPhone 一站式解决旅途痛点",
-      "tags": [
-        "iPhone",
-        "评测",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-11bacd08cc7b",
-      "title": "iPhone Air 当主力机用了三个多月后，我为什么还是换不掉它",
-      "source": "少数派热榜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "评测",
-      "trust": "媒体汇总",
-      "date": "2026-07-25",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://sspai.com/post/111113",
-      "image": "",
-      "summary": "iPhone Air 当主力机用了三个多月后，我为什么还是换不掉它",
-      "tags": [
-        "iPhone",
-        "评测",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-a2ce68a36e84",
-      "title": "快捷指令｜让 iPhone 用上锤子的「大爆炸」",
-      "source": "少数派热榜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "评测",
-      "trust": "媒体汇总",
-      "date": "2026-07-25",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://sspai.com/post/111405",
-      "image": "",
-      "summary": "快捷指令｜让 iPhone 用上锤子的「大爆炸」",
-      "tags": [
-        "iPhone",
-        "评测",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-4065028c1890",
-      "title": "小米折叠屏新机入网公示：备案搭载多款大模型",
-      "source": "酷安热榜",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-07-25",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72922533",
-      "image": "",
-      "summary": "小米折叠屏新机入网公示：备案搭载多款大模型",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-cb3d0ca6d59a",
-      "title": "都说oppo的系统多么多么流畅，我用起来也没比小米系统好多少，一到夏天各种卡顿，功能还没小米系统多。怪不得厂商喜欢年底发布手机，一到夏天就露馅#HyperOS3# #ColorOS16# #OPPOFindX9Pro#",
-      "source": "酷安热榜",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-07-25",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72928763",
-      "image": "",
-      "summary": "都说oppo的系统多么多么流畅，我用起来也没比小米系统好多少，一到夏天各种卡顿，功能还没小米系统多。怪不得厂商喜欢年底发布手机，一到夏天就露馅#HyperOS3# #ColorOS16# #OPPOFindX9Pro#",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-a108f747ca47",
-      "title": "入职🌸了，身边领导都是华子，想换手机是买pura80pro➕还是pura90pro。我看百亿补贴90pro是12➕256而80pro➕是16➕512。都说买新不买久，但是参数和拍照感觉80pro➕都强于90pro。 #鸿蒙6# #华为Pura90ProMax# #华为Mate80ProMax#",
-      "source": "酷安热榜",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-07-25",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72924735",
-      "image": "",
-      "summary": "入职🌸了，身边领导都是华子，想换手机是买pura80pro➕还是pura90pro。我看百亿补贴90pro是12➕256而80pro➕是16➕512。都说买新不买久，但是参数和拍照感觉80pro➕都强于90pro。 #鸿蒙6# #华为Pura90ProMax# #华为Mate80ProMax#",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-c8461cc5a41e",
-      "title": "iPhone Air 使用半年长评，已卖掉",
-      "source": "酷安热榜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-07-25",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72915717",
-      "image": "",
-      "summary": "iPhone Air 使用半年长评，已卖掉",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-149e9fc3bd60",
-      "title": "兄弟们苹果这个售后态度这么好的吗？？[吃瓜]今天对象收了一个带care服务的17pm，所以给沈阳中街的苹果 Store打电话，想咨询一下苹果care的相关问题[微笑]，我撒谎说我骑自行车手机飞出去屏幕坏了，想问一下走care服务换屏幕需要什么？",
-      "source": "酷安热榜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-07-25",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72908764",
-      "image": "",
-      "summary": "兄弟们苹果这个售后态度这么好的吗？？[吃瓜]今天对象收了一个带care服务的17pm，所以给沈阳中街的苹果 Store打电话，想咨询一下苹果care的相关问题[微笑]，我撒谎说我骑自行车手机飞出去屏幕坏了，想问一下走care服务换屏幕需要什么？",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-b6e6426aab89",
-      "title": "2026年第29周国内手机市场份额曝光：苹果跌至第五",
-      "source": "酷安热榜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-07-25",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72917353",
-      "image": "",
-      "summary": "2026年第29周国内手机市场份额曝光：苹果跌至第五",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "NewsNow"
       ]
     },
     {
@@ -658,26 +478,6 @@ window.phoneRadarAuto = {
       "tags": [
         "Samsung",
         "评测",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-4dd8e7f74c91",
-      "title": "With the Galaxy Z Fold 8 around the corner, I never expected Google to be a trendsetter",
-      "source": "Android Police",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-24",
-      "time": "17:00",
-      "publishedAt": "2026-07-24T17:00:15.000Z",
-      "url": "https://www.androidpolice.com/galaxy-z-fold-8-never-expected-google-to-be-a-trendsetter/",
-      "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2026/07/a-silver-samsung-galaxy-z-fold-phone-stands-partially-open-on-a-wooden-table.png",
-      "summary": "Google's foldable design may finally get the recognition it deserves, with Samsung and Apple expected to unveil similarly designed foldables",
-      "tags": [
-        "Samsung",
-        "爆料",
         "自动抓取"
       ]
     },
