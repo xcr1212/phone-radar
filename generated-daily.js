@@ -1,11 +1,11 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-07-25T09:59:20.651Z",
+  "updatedAt": "2026-07-25T11:33:10.760Z",
   "issueDate": "2026-07-25",
   "issue": "VOL.260725",
   "title": "手机情报日报",
-  "intro": "今日筛出 19 条重点，其中 8 条是重点爆料，包含 10 条 iPhone 相关、1 条官方确认、1 条参数线索。",
+  "intro": "今日筛出 20 条重点，其中 8 条是重点爆料，包含 10 条 iPhone 相关、1 条官方确认、1 条参数线索。",
   "stats": {
-    "total": 19,
+    "total": 20,
     "iphone": 10,
     "leaks": 8,
     "official": 1,
@@ -400,6 +400,29 @@ window.phoneRadarDaily = {
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        },
+        {
+          "id": "auto-23cf5b65b553",
+          "title": "Huawei 相关消息",
+          "originalTitle": "",
+          "source": "Huawei Central",
+          "brand": "Huawei",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-07-25",
+          "time": "08:09",
+          "publishedAt": "2026-07-25T08:09:26.000Z",
+          "url": "https://www.huaweicentral.com/huawei-pura-90s-pro-top-5-flavorful-features-of-the-new-flagship/",
+          "image": "https://www.huaweicentral.com/wp-content/uploads/2026/07/Pura90sPro-image-1.jpg",
+          "verdict": "可略过",
+          "takeaway": "Huawei 相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
+          "detail": "Huawei 相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         }
       ]
     },
@@ -439,7 +462,7 @@ window.phoneRadarDaily = {
       "hint": "看方向，不急着当购买依据。",
       "items": [
         {
-          "id": "auto-3552764f0386",
+          "id": "auto-158e93540754",
           "title": "Samsung 折叠屏相关消息",
           "originalTitle": "",
           "source": "Android Authority",
@@ -447,10 +470,10 @@ window.phoneRadarDaily = {
           "type": "爆料",
           "trust": "媒体汇总",
           "date": "2026-07-25",
-          "time": "09:30",
-          "publishedAt": "2026-07-25T09:30:35.000Z",
-          "url": "https://www.androidauthority.com/galaxy-z-fold-8-bad-specs-might-buy-anyway-3689277/",
-          "image": "https://www.androidauthority.com/wp-content/uploads/2026/07/Galaxy-Z-Fold-8.-Cream-stood-up.jpg",
+          "time": "11:00",
+          "publishedAt": "2026-07-25T11:00:08.000Z",
+          "url": "https://www.androidauthority.com/samsung-galaxy-z-fold-8-ultra-alternatives-3689273/",
+          "image": "https://www.androidauthority.com/wp-content/uploads/2026/07/Galazy-Z-Fold-8-Ultra-display-on-straight-on.jpg",
           "verdict": "可略过",
           "takeaway": "Samsung 折叠屏相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
           "detail": "Samsung 折叠屏相关消息。重点看折痕、铰链、厚度、屏幕可靠性和重量是否有实质改善。",

@@ -1,6 +1,66 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-07-25T09:59:20.651Z",
+  "updatedAt": "2026-07-25T11:33:10.760Z",
   "news": [
+    {
+      "id": "auto-158e93540754",
+      "title": "5 Android phones you should buy instead of the Galaxy Z Fold 8 Ultra",
+      "source": "Android Authority",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-25",
+      "time": "11:00",
+      "publishedAt": "2026-07-25T11:00:08.000Z",
+      "url": "https://www.androidauthority.com/samsung-galaxy-z-fold-8-ultra-alternatives-3689273/",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2026/07/Galazy-Z-Fold-8-Ultra-display-on-straight-on.jpg",
+      "summary": "The Ultra is a powerful device, but it isn't for everyone.",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-1207511b08b7",
+      "title": "Mate 90 could be Huawei’s first in-display camera phone",
+      "source": "Huawei Central",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-25",
+      "time": "10:28",
+      "publishedAt": "2026-07-25T10:28:16.000Z",
+      "url": "https://www.huaweicentral.com/mate-90-could-be-huaweis-first-in-display-camera-phone/",
+      "image": "https://www.huaweicentral.com/wp-content/uploads/2026/05/Mate80ProMax.jpg",
+      "summary": "Huawei in-display camera phone ambitions are once again taking off in the leaks segment, and the Mate 90 series seems a perfect choice for this solution. News on this matter hints…",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-e7623de19343",
+      "title": "I’ve used every Pixel Tensor chip. Here’s where Google went wrong — and what I hope comes next",
+      "source": "Android Authority",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-25",
+      "time": "10:00",
+      "publishedAt": "2026-07-25T10:00:15.000Z",
+      "url": "https://www.androidauthority.com/ive-used-every-pixel-tensor-chip-where-google-went-wrong-3691195/",
+      "image": "",
+      "summary": "Looking at the state of Tensor ahead of the Pixel 11.",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-3552764f0386",
       "title": "The Galaxy Z Fold 8 has worse specs than my current phone. I might buy it anyway",
@@ -362,26 +422,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-c8461cc5a41e",
-      "title": "iPhone Air 使用半年长评，已卖掉",
-      "source": "酷安热榜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-07-25",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72915717",
-      "image": "",
-      "summary": "iPhone Air 使用半年长评，已卖掉",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
       "id": "newsnow-a108f747ca47",
       "title": "入职🌸了，身边领导都是华子，想换手机是买pura80pro➕还是pura90pro。我看百亿补贴90pro是12➕256而80pro➕是16➕512。都说买新不买久，但是参数和拍照感觉80pro➕都强于90pro。 #鸿蒙6# #华为Pura90ProMax# #华为Mate80ProMax#",
       "source": "酷安热榜",
@@ -397,6 +437,26 @@ window.phoneRadarAuto = {
       "summary": "入职🌸了，身边领导都是华子，想换手机是买pura80pro➕还是pura90pro。我看百亿补贴90pro是12➕256而80pro➕是16➕512。都说买新不买久，但是参数和拍照感觉80pro➕都强于90pro。 #鸿蒙6# #华为Pura90ProMax# #华为Mate80ProMax#",
       "tags": [
         "Huawei",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-c8461cc5a41e",
+      "title": "iPhone Air 使用半年长评，已卖掉",
+      "source": "酷安热榜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-07-25",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/72915717",
+      "image": "",
+      "summary": "iPhone Air 使用半年长评，已卖掉",
+      "tags": [
+        "iPhone",
         "爆料",
         "NewsNow"
       ]
@@ -437,66 +497,6 @@ window.phoneRadarAuto = {
       "summary": "2026年第29周国内手机市场份额曝光：苹果跌至第五",
       "tags": [
         "iPhone",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-5911ccb8acbc",
-      "title": "除了玩手机还有这么多低成本爱好",
-      "source": "微博热搜",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "待验证",
-      "date": "2026-07-25",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://s.weibo.com/weibo?q=%E9%99%A4%E4%BA%86%E7%8E%A9%E6%89%8B%E6%9C%BA%E8%BF%98%E6%9C%89%E8%BF%99%E4%B9%88%E5%A4%9A%E4%BD%8E%E6%88%90%E6%9C%AC%E7%88%B1%E5%A5%BD&t=31&band_rank=27&Refer=top",
-      "image": "",
-      "summary": "除了玩手机还有这么多低成本爱好",
-      "tags": [
-        "行业",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-73fca66ee61f",
-      "title": "三星折叠屏国行售价公布，你认为这一价格值得入手吗？",
-      "source": "知乎热榜",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "市场报告",
-      "trust": "媒体汇总",
-      "date": "2026-07-25",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.zhihu.com/question/2063590872520848306",
-      "image": "",
-      "summary": "三星折叠屏国行售价公布，你认为这一价格值得入手吗？",
-      "tags": [
-        "Samsung",
-        "市场报告",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-0f0c825a53ae",
-      "title": "7.9元手机壳惹来38万元索赔",
-      "source": "百度热搜",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-25",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.baidu.com/s?wd=7.9%E5%85%83%E6%89%8B%E6%9C%BA%E5%A3%B3%E6%83%B9%E6%9D%A538%E4%B8%87%E5%85%83%E7%B4%A2%E8%B5%94",
-      "image": "",
-      "summary": "7.9元手机壳惹来38万元索赔",
-      "tags": [
-        "行业",
         "爆料",
         "NewsNow"
       ]
@@ -715,26 +715,6 @@ window.phoneRadarAuto = {
       "url": "https://9to5google.com/2026/07/24/samsung-galaxy-s27-cameras-models-silicon-carbon-battery-leaks/",
       "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/03/S26-Ultra-camera.jpg?quality=82&strip=all&w=1600",
       "summary": "While the Galaxy Z Fold 8 series has just debuted, there are some rumblings of Samsung’s next non-folding flagships, with the Galaxy S27 series reportedly changing up the lineup a…",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-9589ca842714",
-      "title": "Samsung's big Galaxy Z Fold 8 changes are useful, but so small that I almost missed them",
-      "source": "Android Police",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-24",
-      "time": "15:16",
-      "publishedAt": "2026-07-24T15:16:15.000Z",
-      "url": "https://www.androidpolice.com/samsungs-biggest-galaxy-z-fold-8-changes-are-so-small-but-useful/",
-      "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2026/07/samsung-galaxy-z-fold-8-ultra-angled.jpg",
-      "summary": "But they'll help the bottom line",
       "tags": [
         "Samsung",
         "爆料",
@@ -999,26 +979,6 @@ window.phoneRadarAuto = {
         "行业",
         "爆料",
         "微博"
-      ]
-    },
-    {
-      "id": "auto-df0fbf077b11",
-      "title": "Huawei Mate 90 series could bring in-display 3D biometric features",
-      "source": "Huawei Central",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-24",
-      "time": "09:06",
-      "publishedAt": "2026-07-24T09:06:21.000Z",
-      "url": "https://www.huaweicentral.com/huawei-mate-90-series-could-bring-in-display-3d-biometric-features/",
-      "image": "https://www.huaweicentral.com/wp-content/uploads/2026/07/Mate-80-display.jpg",
-      "summary": "Huawei has been testing in-display screen solutions for quite some years but it hasn’t introduced them with any products to date. Looks like the Huawei Mate 90 series could bring…",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "自动抓取"
       ]
     },
     {
