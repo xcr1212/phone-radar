@@ -1,5 +1,5 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-07-25T19:33:43.723Z",
+  "updatedAt": "2026-07-25T21:08:02.218Z",
   "news": [
     {
       "id": "coolapk-user-eddb4e27f138",
@@ -602,22 +602,22 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-73fca66ee61f",
-      "title": "三星折叠屏国行售价公布，你认为这一价格值得入手吗？",
-      "source": "知乎热榜",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "市场报告",
-      "trust": "媒体汇总",
+      "id": "newsnow-28456a78af22",
+      "title": "全球首创！小米用户单个换图标技术引擎！哪个图标不喜欢就换哪个～懒得动手？那就直接用预置超清图标包，一键导入，iOS液态玻璃简约设计，小白轻松上手教程！建议点赞收藏 #MIUI主题# #HyperOS主题# #HyperOS4#",
+      "source": "酷安热榜",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
       "date": "2026-07-25",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.zhihu.com/question/2063590872520848306",
+      "url": "https://www.coolapk.com/feed/72940432",
       "image": "",
-      "summary": "三星折叠屏国行售价公布，你认为这一价格值得入手吗？",
+      "summary": "全球首创！小米用户单个换图标技术引擎！哪个图标不喜欢就换哪个～懒得动手？那就直接用预置超清图标包，一键导入，iOS液态玻璃简约设计，小白轻松上手教程！建议点赞收藏 #MIUI主题# #HyperOS主题# #HyperOS4#",
       "tags": [
-        "Samsung",
-        "市场报告",
+        "Xiaomi",
+        "爆料",
         "NewsNow"
       ]
     },

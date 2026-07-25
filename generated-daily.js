@@ -1,11 +1,11 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-07-25T19:33:43.723Z",
+  "updatedAt": "2026-07-25T21:08:02.218Z",
   "issueDate": "2026-07-25",
   "issue": "VOL.260725",
   "title": "手机情报日报",
-  "intro": "今日筛出 21 条重点，其中 8 条是重点爆料，包含 8 条 iPhone 相关、1 条官方确认、1 条参数线索。",
+  "intro": "今日筛出 22 条重点，其中 8 条是重点爆料，包含 8 条 iPhone 相关、1 条官方确认、1 条参数线索。",
   "stats": {
-    "total": 21,
+    "total": 22,
     "iphone": 8,
     "leaks": 8,
     "official": 1,
@@ -441,6 +441,29 @@ window.phoneRadarDaily = {
           "verdict": "先看",
           "takeaway": "这颜值还要啥小米金沙江两百多这么贵 还得是pdd 36块钱的小米超薄自带线有性价比我的还是26年5月生产的[受虐滑稽][受虐滑稽][受虐滑稽] #iPhone17# #iPhone17Pro# #iPhone17ProMax#",
           "detail": "这颜值还要啥小米金沙江两百多这么贵 还得是pdd 36块钱的小米超薄自带线有性价比我的还是26年5月生产的[受虐滑稽][受虐滑稽][受虐滑稽] #iPhone17# #iPhone17Pro# #iPhone17ProMax#",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        },
+        {
+          "id": "newsnow-28456a78af22",
+          "title": "全球首创！小米用户单个换图标技术引擎！哪个图标不喜欢就换哪个～懒得动手？那就直接用预置超清图标包，一键导入，iOS液态玻璃简约设计，小白轻松上手教程！建议点赞收藏 #MIUI主题# #HyperOS主题# #HyperOS4#",
+          "originalTitle": "",
+          "source": "酷安热榜",
+          "brand": "Xiaomi",
+          "type": "爆料",
+          "trust": "高关注爆料源",
+          "date": "2026-07-25",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://www.coolapk.com/feed/72940432",
+          "image": "",
+          "verdict": "先看",
+          "takeaway": "全球首创！小米用户单个换图标技术引擎！哪个图标不喜欢就换哪个～懒得动手？那就直接用预置超清图标包，一键导入，iOS液态玻璃简约设计，小白轻松上手教程！建议点赞收藏 #MIUI主题# #HyperOS主题# #HyperOS4#",
+          "detail": "全球首创！小米用户单个换图标技术引擎！哪个图标不喜欢就换哪个～懒得动手？那就直接用预置超清图标包，一键导入，iOS液态玻璃简约设计，小白轻松上手教程！建议点赞收藏 #MIUI主题# #HyperOS主题# #HyperOS4#",
           "keyPoints": [
             "爆料"
           ],
