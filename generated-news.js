@@ -1,6 +1,66 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-07-25T17:13:52.654Z",
+  "updatedAt": "2026-07-25T19:33:43.723Z",
   "news": [
+    {
+      "id": "coolapk-user-eddb4e27f138",
+      "title": "竹本青：#一加13# #沙雕乐园#",
+      "source": "竹本青",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-07-25",
+      "time": "19:28",
+      "publishedAt": "2026-07-25T19:28:27.000Z",
+      "url": "https://www.coolapk.com/feed/72941025",
+      "image": "http://image.coolapk.com/feed/2026/0726/03/4248714_154059f5_7700_5627_538@1440x1708.jpg",
+      "summary": "#一加13# #沙雕乐园#",
+      "tags": [
+        "OPPO",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-b5fd7b2de5de",
+      "title": "Google basically confirms the Pixel 11 is getting a price hike",
+      "source": "The Verge",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-25",
+      "time": "18:13",
+      "publishedAt": "2026-07-25T18:13:36.000Z",
+      "url": "https://www.theverge.com/tech/971041/google-confirms-pixel-11-price-hike",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Screenshot-2026-07-15-at-11.36.30-AM.png?quality=90&strip=all&crop=0,0,100,100",
+      "summary": "Google's Vice President of Devices and Services, Shakil Barkat, all but confirmed in an interview with 9to5 Google that its next Pixel phone would cost more than the Pixel 10. Con…",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-814e89780e5f",
+      "title": "iPhone 18 won’t debut this fall, here’s why",
+      "source": "9to5Mac",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-25",
+      "time": "17:35",
+      "publishedAt": "2026-07-25T17:35:51.000Z",
+      "url": "https://9to5mac.com/2026/07/25/heres-why-iphone-18-wont-launch-in-september/",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/02/iphone-18-pro-mockup.jpg?quality=82&strip=all&w=1600",
+      "summary": "We’re about two months away from Apple’s annual iPhone debut in September. This year, though, will be a bit different. Instead of the entire iPhone lineup debuting at once, only t…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-98f11c5e562f",
       "title": "My favorite thing about the Galaxy Z Fold 8 isn’t even that obvious",
@@ -482,21 +542,21 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-4065028c1890",
-      "title": "小米折叠屏新机入网公示：备案搭载多款大模型",
+      "id": "newsnow-757147c84b04",
+      "title": "广电卡不推荐办理，限速严重，之前有个 10-20m 的速度，现在只有不到 10 的速度，普遍在 5 左右，很差劲，限速严重#路由器# #华为Mate80ProMax#",
       "source": "酷安热榜",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-07-25",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72922533",
+      "url": "https://www.coolapk.com/feed/72928430",
       "image": "",
-      "summary": "小米折叠屏新机入网公示：备案搭载多款大模型",
+      "summary": "广电卡不推荐办理，限速严重，之前有个 10-20m 的速度，现在只有不到 10 的速度，普遍在 5 左右，很差劲，限速严重#路由器# #华为Mate80ProMax#",
       "tags": [
-        "Xiaomi",
+        "Huawei",
         "爆料",
         "NewsNow"
       ]
@@ -522,26 +582,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-c8461cc5a41e",
-      "title": "iPhone Air 使用半年长评，已卖掉",
-      "source": "酷安热榜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-07-25",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72915717",
-      "image": "",
-      "summary": "iPhone Air 使用半年长评，已卖掉",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
       "id": "newsnow-eebcdf49d578",
       "title": "这颜值还要啥小米金沙江两百多这么贵 还得是pdd 36块钱的小米超薄自带线有性价比我的还是26年5月生产的[受虐滑稽][受虐滑稽][受虐滑稽] #iPhone17# #iPhone17Pro# #iPhone17ProMax#",
       "source": "酷安热榜",
@@ -562,19 +602,39 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-a7a9d72b5876",
-      "title": "爸爸带娃玩手机孩子打翻烧水壶",
-      "source": "微博热搜",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "待验证",
+      "id": "newsnow-73fca66ee61f",
+      "title": "三星折叠屏国行售价公布，你认为这一价格值得入手吗？",
+      "source": "知乎热榜",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "市场报告",
+      "trust": "媒体汇总",
       "date": "2026-07-25",
       "time": "",
       "publishedAt": "",
-      "url": "https://s.weibo.com/weibo?q=%23%E7%88%B8%E7%88%B8%E5%B8%A6%E5%A8%83%E7%8E%A9%E6%89%8B%E6%9C%BA%E5%AD%A9%E5%AD%90%E6%89%93%E7%BF%BB%E7%83%A7%E6%B0%B4%E5%A3%B6%23&t=31&band_rank=25&Refer=top",
+      "url": "https://www.zhihu.com/question/2063590872520848306",
       "image": "",
-      "summary": "爸爸带娃玩手机孩子打翻烧水壶",
+      "summary": "三星折叠屏国行售价公布，你认为这一价格值得入手吗？",
+      "tags": [
+        "Samsung",
+        "市场报告",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-770815e3f1c2",
+      "title": "爸爸带娃玩手机 孩子打翻烧水壶",
+      "source": "今日头条热榜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-25",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.toutiao.com/trending/7665724480107233316/",
+      "image": "",
+      "summary": "爸爸带娃玩手机 孩子打翻烧水壶",
       "tags": [
         "行业",
         "爆料",
