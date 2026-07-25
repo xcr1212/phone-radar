@@ -1,6 +1,326 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-07-24T23:15:19.532Z",
+  "updatedAt": "2026-07-25T03:35:36.372Z",
   "news": [
+    {
+      "id": "auto-ff8a39158f1d",
+      "title": "A new 6.6-inch Huawei Mate phone rumored to debut in H1 2027",
+      "source": "Huawei Central",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-25",
+      "time": "03:20",
+      "publishedAt": "2026-07-25T03:20:11.000Z",
+      "url": "https://www.huaweicentral.com/a-new-6-6-inch-huawei-mate-phone-rumored-to-debut-in-h1-2027/",
+      "image": "https://www.huaweicentral.com/wp-content/uploads/2026/03/Mate70-Pro.jpg",
+      "summary": "Mate 90 series will continue to bring four models to the shelf, but it looks like Huawei could add a special 6.6-inch phone to the lineup in the first half of 2027. And this parti…",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-a29a0f48ff32",
+      "title": "三星 Galaxy S27 Pro / Ultra 手机影像曝光：配索尼 IMX855 传感器",
+      "source": "IT之家",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-25",
+      "time": "02:32",
+      "publishedAt": "2026-07-25T02:32:59.000Z",
+      "url": "https://www.ithome.com/0/981/449.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/7/2310c3a9-69eb-4577-ab97-8776b4e6efe0.png",
+      "summary": "IT之家 7 月 25 日消息，科技媒体 WinFuture 昨日（7 月 24 日）发布博文， 分享了三星 Galaxy S27 系列影像方面的相关规格信息。 代号方面，IT之家援引博文介绍，三星 Galaxy S27 系列共有 4 款机型： NM1 对应 Galaxy S27 NM2 对应 Galaxy S27+ NM3 对应 Galaxy S27 P…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-be9b90decc67",
+      "title": "三星 Galaxy F70 Pro 手机现身 GeekBench，搭载骁龙 6 Gen 3 芯片",
+      "source": "IT之家",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-25",
+      "time": "01:59",
+      "publishedAt": "2026-07-25T01:59:49.000Z",
+      "url": "https://www.ithome.com/0/981/441.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/7/098c0d1c-312e-45d3-9f26-45babc07985e.jpg?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 7 月 25 日消息，一款型号为 SM-E476B 的三星新机前天现身 GeekBench 跑分数据库， 录得单核 998 分、多核 3090 分的成绩 ，科技媒体 GSMArena 认为该机是 Galaxy F70 Pro。 跑分结果显示，该机搭载高通 SM6475 芯片，对应骁龙 6 Gen 3。该处理器采用八核设计，性能核最高主频可达 2.…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-7fc862e275de",
+      "title": "国际版小米 18 Pro 手机曝光：不登陆印度市场，妙享背屏走向世界舞台",
+      "source": "IT之家",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-25",
+      "time": "01:27",
+      "publishedAt": "2026-07-25T01:27:49.000Z",
+      "url": "https://www.ithome.com/0/981/434.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/7/e968d140-9f5f-442f-a311-29b629a9d2cd.png?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 7 月 25 日消息，科技媒体 XiaomiTime 昨日（7 月 24 日）发布博文，通过挖掘 GSMA IMEI 数据库， 发现了国际版小米 18 Pro 手机的踪迹。 消息源指出国际版小米 18 Pro 手机（内部代号 VENICE）型号为 26122PN61G，后缀“G”代表 Global，也就是国际版，而中国版型号为 M261DB。IT…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-9bbf43c61c96",
+      "title": "Apple announces changes to iOS in Brazil",
+      "source": "Apple Newsroom",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "官方",
+      "trust": "官方确认",
+      "date": "2026-07-25",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.apple.com/newsroom/2026/06/apple-announces-changes-to-ios-in-brazil/",
+      "image": "",
+      "summary": "Apple today announced changes impacting iOS apps in Brazil that reflect a recent agreement with Brazil’s competition regulator, CADE.",
+      "tags": [
+        "iPhone",
+        "官方",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "newsnow-89a334cc75a7",
+      "title": "我的出行好伙伴，用 iPhone 一站式解决旅途痛点",
+      "source": "少数派热榜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-07-25",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://sspai.com/post/112044",
+      "image": "",
+      "summary": "我的出行好伙伴，用 iPhone 一站式解决旅途痛点",
+      "tags": [
+        "iPhone",
+        "评测",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-11bacd08cc7b",
+      "title": "iPhone Air 当主力机用了三个多月后，我为什么还是换不掉它",
+      "source": "少数派热榜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-07-25",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://sspai.com/post/111113",
+      "image": "",
+      "summary": "iPhone Air 当主力机用了三个多月后，我为什么还是换不掉它",
+      "tags": [
+        "iPhone",
+        "评测",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-a2ce68a36e84",
+      "title": "快捷指令｜让 iPhone 用上锤子的「大爆炸」",
+      "source": "少数派热榜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-07-25",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://sspai.com/post/111405",
+      "image": "",
+      "summary": "快捷指令｜让 iPhone 用上锤子的「大爆炸」",
+      "tags": [
+        "iPhone",
+        "评测",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-4065028c1890",
+      "title": "小米折叠屏新机入网公示：备案搭载多款大模型",
+      "source": "酷安热榜",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-07-25",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/72922533",
+      "image": "",
+      "summary": "小米折叠屏新机入网公示：备案搭载多款大模型",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-bf29a472f0b5",
+      "title": "服了！女朋友跟我说要把她的iPhone 15 Pro Max换成iPhone 16e做主力机。[疑问][疑问]",
+      "source": "酷安热榜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-07-25",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/72915293",
+      "image": "",
+      "summary": "服了！女朋友跟我说要把她的iPhone 15 Pro Max换成iPhone 16e做主力机。[疑问][疑问]",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-c8461cc5a41e",
+      "title": "iPhone Air 使用半年长评，已卖掉",
+      "source": "酷安热榜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-07-25",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/72915717",
+      "image": "",
+      "summary": "iPhone Air 使用半年长评，已卖掉",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-149e9fc3bd60",
+      "title": "兄弟们苹果这个售后态度这么好的吗？？[吃瓜]今天对象收了一个带care服务的17pm，所以给沈阳中街的苹果 Store打电话，想咨询一下苹果care的相关问题[微笑]，我撒谎说我骑自行车手机飞出去屏幕坏了，想问一下走care服务换屏幕需要什么？",
+      "source": "酷安热榜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-07-25",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/72908764",
+      "image": "",
+      "summary": "兄弟们苹果这个售后态度这么好的吗？？[吃瓜]今天对象收了一个带care服务的17pm，所以给沈阳中街的苹果 Store打电话，想咨询一下苹果care的相关问题[微笑]，我撒谎说我骑自行车手机飞出去屏幕坏了，想问一下走care服务换屏幕需要什么？",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-b6e6426aab89",
+      "title": "2026年第29周国内手机市场份额曝光：苹果跌至第五",
+      "source": "酷安热榜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-07-25",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/72917353",
+      "image": "",
+      "summary": "2026年第29周国内手机市场份额曝光：苹果跌至第五",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-18c4a6ed0ebf",
+      "title": "除了玩手机还有这么多低成本爱好",
+      "source": "微博热搜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "待验证",
+      "date": "2026-07-25",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://s.weibo.com/weibo?q=%E9%99%A4%E4%BA%86%E7%8E%A9%E6%89%8B%E6%9C%BA%E8%BF%98%E6%9C%89%E8%BF%99%E4%B9%88%E5%A4%9A%E4%BD%8E%E6%88%90%E6%9C%AC%E7%88%B1%E5%A5%BD&t=31&band_rank=10&Refer=top",
+      "image": "",
+      "summary": "除了玩手机还有这么多低成本爱好",
+      "tags": [
+        "行业",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-242570b881ed",
+      "title": "小米新机入网",
+      "source": "微博热搜",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "待验证",
+      "date": "2026-07-25",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B3%E6%96%B0%E6%9C%BA%E5%85%A5%E7%BD%91%23&t=31&band_rank=19&Refer=top",
+      "image": "",
+      "summary": "小米新机入网",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "auto-79b31c3b3318",
+      "title": "消息称苹果为消化内存涨价，提议下调 iPhone 18 Pro / Max 的 OLED 面板采购价",
+      "source": "IT之家",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-24",
+      "time": "23:42",
+      "publishedAt": "2026-07-24T23:42:52.000Z",
+      "url": "https://www.ithome.com/0/981/411.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/7/440f5913-86f3-4db9-b2c7-79ad00ca1b86.jpg",
+      "summary": "IT之家 7 月 25 日消息，韩媒 The Elec 昨日（7 月 24 日）发布博文，报道称苹果公司为更好消化内存等存储元件供应短缺导致的成本涨价，在 iPhone 18 Pro 和 iPhone 18 Pro Max 上，已提议下调 OLED 面板采购价格。 报道称苹果已提议希望将适用于 iPhone 18 Pro 和 iPhone 18 Pro M…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-6dc0e6ecd584",
       "title": "谷歌确认 Pixel 11 系列手机将涨价，后续 Android 系统将提升内存优化",
@@ -13,30 +333,10 @@ window.phoneRadarAuto = {
       "time": "23:03",
       "publishedAt": "2026-07-24T23:03:01.000Z",
       "url": "https://www.ithome.com/0/981/403.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/7/da6da3f5-1b22-4771-9a15-ea9c8c12371e.jpg?x-bce-process=image/format,f_auto",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/7/da6da3f5-1b22-4771-9a15-ea9c8c12371e.jpg",
       "summary": "IT之家 7 月 25 日消息，谷歌设备与服务部门副总裁沙基尔 · 巴卡特（Shakil Barkat）昨天接受外媒 9To5Google 采访，确认 Pixel 11 系列手机将涨价。 巴卡特表示，谷歌和所有消费电子公司一样，都在经历前所未有的内存涨价。摩根士丹利数据显示，2025 年 1GB 内存的价格约 2.8 美元（IT之家注：现汇率约合 19 元…",
       "tags": [
         "Pixel",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-589bd8bb49d2",
-      "title": "高通宣布 9 月起芯片涨价，涨幅达两位数百分比",
-      "source": "IT之家",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-24",
-      "time": "22:55",
-      "publishedAt": "2026-07-24T22:55:03.000Z",
-      "url": "https://www.ithome.com/0/981/400.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/7/442f986b-4933-479e-9c60-0a1949dddf54.png",
-      "summary": "IT之家 7 月 25 日消息，据彭博社今日报道，高通公司正准备提高芯片产品价格，涨幅将达到两位数百分比。 作为全球主要智能手机处理器供应商之一，高通此次调价可能影响智能手机、可穿戴设备等多个科技领域。 据彭博社看到的一份文件显示，高通已于当地时间 7 月 24 日向客户发送涨价通知，并表示新价格将适用于 9 月 1 日之后出货的产品。 高通在通知中提到，…",
-      "tags": [
-        "行业",
         "爆料",
         "自动抓取"
       ]
@@ -282,26 +582,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-9645480413ee",
-      "title": "消息称手机品牌 Nothing 将在全球裁员 40%，并退出中东、日本等市场",
-      "source": "IT之家",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-24",
-      "time": "14:54",
-      "publishedAt": "2026-07-24T14:54:26.000Z",
-      "url": "https://www.ithome.com/0/981/391.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/7/a908d9d8-8245-4c94-8ec1-58e13ad672a1.jpg?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 7 月 24 日消息，据印度媒体 Digit 消息，Nothing 正在全球关闭 12 个（或更多）的市场业务，退出范围涵盖中东、日本以及欧洲部分地区。 此外， Nothing 将在全球裁员 40% 。该公司分布在中国和英国伦敦（比例为 7:3）的研发部门正分别面临约 50% 与 30%-40% 的裁员。 报道称，自发布以来，Nothing Ph…",
-      "tags": [
-        "行业",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-89d7e1d2d4b5",
       "title": "Samsung’s new silicon-carbon batteries in Galaxy Z Fold 8 won’t last as long",
       "source": "9to5Google",
@@ -395,26 +675,6 @@ window.phoneRadarAuto = {
       "url": "https://www.androidauthority.com/samsung-galaxy-s27-codenames-camera-specs-leak-3691124/",
       "image": "",
       "summary": "New leak reveals internal \"NM\" codenames and some sensor details for Samsung's next flagship lineup.",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-6ce6c7e3d10f",
-      "title": "格科微：收到国际知名手机品牌订单，供应 0.64 微米 5000 万像素图像传感器",
-      "source": "IT之家",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-24",
-      "time": "12:15",
-      "publishedAt": "2026-07-24T12:15:03.000Z",
-      "url": "https://www.ithome.com/0/981/369.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/7/62e64183-1f22-4f9f-9fb6-6670df52bc0d.png",
-      "summary": "IT之家 7 月 24 日消息，格科微今日发布公告称，公司于近日收到国际知名手机品牌客户订单，为其供应 0.64 微米规格 5000 万像素图像传感器产品，首批订单金额约合人民币 5700 万元。 公告称，本次公司供应的 0.64 微米规格 5000 万像素图像传感器产品，基于 GalaxyCell®2.0 工艺平台开发，在实现高解析力、高动态、低噪声成像…",
       "tags": [
         "Samsung",
         "爆料",
@@ -602,26 +862,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-359872e99ed4",
-      "title": "电子版“掩耳盗铃”，微信撤回消息后本机可删除提示字",
-      "source": "IT之家",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-24",
-      "time": "08:43",
-      "publishedAt": "2026-07-24T08:43:38.000Z",
-      "url": "https://www.ithome.com/0/981/287.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/7/72aaccea-15e0-4607-be06-3519ba4b40e8.png",
-      "summary": "IT之家 7 月 24 日消息，微信撤回一条消息后，又会留下一行灰色的提示字“你撤回了一条消息”。 据都市快报今日报道，微信 8.0.76 版本更新了新功能， 用户可以将撤回后显示的灰色提示字删除 。具体操作：长按“你撤回了一条消息”，然后点击删除就可以了（IT之家测试，安卓端还无法实现）。 不过，删除撤回只是自己的手机上看不见了， 接收消息的一方仍然存在…",
-      "tags": [
-        "行业",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-1c18c98dc19f",
       "title": "Huawei Mate 90 leak reveals bigger battery and more camera details",
       "source": "Huawei Central",
@@ -719,826 +959,6 @@ window.phoneRadarAuto = {
         "行业",
         "爆料",
         "微博"
-      ]
-    },
-    {
-      "id": "auto-9bbf43c61c96",
-      "title": "Apple announces changes to iOS in Brazil",
-      "source": "Apple Newsroom",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "官方",
-      "trust": "官方确认",
-      "date": "2026-07-24",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.apple.com/newsroom/2026/06/apple-announces-changes-to-ios-in-brazil/",
-      "image": "",
-      "summary": "Apple today announced changes impacting iOS apps in Brazil that reflect a recent agreement with Brazil’s competition regulator, CADE.",
-      "tags": [
-        "iPhone",
-        "官方",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "newsnow-0d037a13adf6",
-      "title": "我的出行好伙伴，用 iPhone 一站式解决旅途痛点",
-      "source": "少数派热榜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "评测",
-      "trust": "媒体汇总",
-      "date": "2026-07-24",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://sspai.com/post/112044",
-      "image": "",
-      "summary": "我的出行好伙伴，用 iPhone 一站式解决旅途痛点",
-      "tags": [
-        "iPhone",
-        "评测",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-89bf8fc1510b",
-      "title": "iPhone Air 当主力机用了三个多月后，我为什么还是换不掉它",
-      "source": "少数派热榜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "评测",
-      "trust": "媒体汇总",
-      "date": "2026-07-24",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://sspai.com/post/111113",
-      "image": "",
-      "summary": "iPhone Air 当主力机用了三个多月后，我为什么还是换不掉它",
-      "tags": [
-        "iPhone",
-        "评测",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-ba956b9db727",
-      "title": "快捷指令｜让 iPhone 用上锤子的「大爆炸」",
-      "source": "少数派热榜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "评测",
-      "trust": "媒体汇总",
-      "date": "2026-07-24",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://sspai.com/post/111405",
-      "image": "",
-      "summary": "快捷指令｜让 iPhone 用上锤子的「大爆炸」",
-      "tags": [
-        "iPhone",
-        "评测",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-109bd0378f96",
-      "title": "小米折叠屏新机入网公示：备案搭载多款大模型",
-      "source": "酷安热榜",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-07-24",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72922533",
-      "image": "",
-      "summary": "小米折叠屏新机入网公示：备案搭载多款大模型",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-f6a04960ae95",
-      "title": "兄弟们苹果这个售后态度这么好的吗？？[吃瓜]今天对象收了一个带care服务的17pm，所以给沈阳中街的苹果 Store打电话，想咨询一下苹果care的相关问题[微笑]，我撒谎说我骑自行车手机飞出去屏幕坏了，想问一下走care服务换屏幕需要什么？",
-      "source": "酷安热榜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-07-24",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72908764",
-      "image": "",
-      "summary": "兄弟们苹果这个售后态度这么好的吗？？[吃瓜]今天对象收了一个带care服务的17pm，所以给沈阳中街的苹果 Store打电话，想咨询一下苹果care的相关问题[微笑]，我撒谎说我骑自行车手机飞出去屏幕坏了，想问一下走care服务换屏幕需要什么？",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-2cce8f277618",
-      "title": "iPhone Air 使用半年长评，已卖掉",
-      "source": "酷安热榜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-07-24",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72915717",
-      "image": "",
-      "summary": "iPhone Air 使用半年长评，已卖掉",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-5da4fa87b86a",
-      "title": "2026年第29周国内手机市场份额曝光：苹果跌至第五",
-      "source": "酷安热榜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-07-24",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72917353",
-      "image": "",
-      "summary": "2026年第29周国内手机市场份额曝光：苹果跌至第五",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-d5ff892bfc37",
-      "title": "服了！女朋友跟我说要把她的iPhone 15 Pro Max换成iPhone 16e做主力机。[疑问][疑问]",
-      "source": "酷安热榜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-07-24",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72915293",
-      "image": "",
-      "summary": "服了！女朋友跟我说要把她的iPhone 15 Pro Max换成iPhone 16e做主力机。[疑问][疑问]",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-930d0d0bb288",
-      "title": "海信墨水屏手机 A10 确认8月底正式开售",
-      "source": "酷安热榜",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-07-24",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72925076",
-      "image": "",
-      "summary": "海信墨水屏手机 A10 确认8月底正式开售",
-      "tags": [
-        "行业",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-19c176010c0e",
-      "title": "OPPO 、 Vivo 拒绝三星存储涨价报价，后续国产手机可能都用长鑫等国产内存吗？",
-      "source": "知乎热榜",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "市场报告",
-      "trust": "媒体汇总",
-      "date": "2026-07-24",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.zhihu.com/question/2063583824378848408",
-      "image": "",
-      "summary": "OPPO 、 Vivo 拒绝三星存储涨价报价，后续国产手机可能都用长鑫等国产内存吗？",
-      "tags": [
-        "Samsung",
-        "市场报告",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "auto-e810be10c74e",
-      "title": "Samsung made the Galaxy Z Fold 8 a worse deal for those who actually want to switch",
-      "source": "9to5Google",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-23",
-      "time": "20:35",
-      "publishedAt": "2026-07-23T20:35:00.000Z",
-      "url": "https://9to5google.com/2026/07/23/samsung-galaxy-z-fold-8-switch-trade-in-value-problem/",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/07/galaxy-z-fold-8-series-32.jpg?quality=82&strip=all&w=1600",
-      "summary": "Samsung’s new Galaxy Z Fold 8 series is here and, obviously, the company wants you to switch to its new foldable. And yet, Samsung is putting money in all the wrong places to acco…",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-74861d7bf7d3",
-      "title": "iPhone 18 Pro: Three reasons you might want to upgrade from iPhone 17 Pro",
-      "source": "9to5Mac",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-23",
-      "time": "20:22",
-      "publishedAt": "2026-07-23T20:22:10.000Z",
-      "url": "https://9to5mac.com/2026/07/23/iphone-18-pro-three-reasons-you-might-want-to-upgrade-from-iphone-17-pro/",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/02/iPhone-18-Pro-reportedly-enters-test-production.jpg?quality=82&strip=all&w=1500",
-      "summary": "iPhone 18 Pro is just a couple months away , and while most iPhone 17 Pro owners won’t upgrade so soon, for those considering a new iPhone there are three main features likely to…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-1a43cbd6ebb1",
-      "title": "Report: iPhone Ultra set to account for 25% of foldable smartphone shipments in 2026",
-      "source": "9to5Mac",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-23",
-      "time": "19:49",
-      "publishedAt": "2026-07-23T19:49:23.000Z",
-      "url": "https://9to5mac.com/2026/07/23/report-iphone-ultra-set-to-account-for-25-of-foldable-smartphone-shipments-in-2026/",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/iphone-ultra-concept-orange.jpg?quality=82&strip=all&w=1600",
-      "summary": "Counterpoint Research is out with a new report forecasting 21% year-over-year growth in global foldable smartphone shipments in 2026, with Apple expected to capture a 25% share fo…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-0751d2b9e823",
-      "title": "That’s about as close as we’ll ever get to a ‘Google Pixel Flip’",
-      "source": "9to5Google",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-23",
-      "time": "19:30",
-      "publishedAt": "2026-07-23T19:30:00.000Z",
-      "url": "https://9to5google.com/2026/07/23/thats-about-as-close-as-well-ever-get-to-a-google-pixel-flip/",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/07/galaxy-z-flip-8-15.jpg?quality=82&strip=all&w=1600",
-      "summary": "The “Google Pixel Flip” isn’t happening. That much is clear, but Samsung’s new changes to the Galaxy Z Flip 8 more or less feel like what Google would have done.",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-e919763d1d33",
-      "title": "Honor's Magic V6 goes against Samsung's Galaxy Z Fold 8: this is how it fares",
-      "source": "Android Central",
-      "brand": "HONOR",
-      "model": "HONOR 相关机型",
-      "type": "评测",
-      "trust": "媒体汇总",
-      "date": "2026-07-23",
-      "time": "19:17",
-      "publishedAt": "2026-07-23T19:17:37.000Z",
-      "url": "https://www.androidcentral.com/phones/honor-phones/honors-magic-v6-goes-against-samsungs-galaxy-z-fold-8-this-is-how-it-fares",
-      "image": "https://cdn.mos.cms.futurecdn.net/tPKkKrub424jbLVWhs4Sh6-1280-80.jpg",
-      "summary": "Honor puts its Magic V6 against Samsung's Galaxy Z Fold 8 Ultra a day after the major Galaxy Unpacked reveals.",
-      "tags": [
-        "HONOR",
-        "评测",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-54920801e1fd",
-      "title": "The hidden Galaxy Z Flip 8 price hike Samsung hoped you wouldn’t notice",
-      "source": "SamMobile",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-23",
-      "time": "18:27",
-      "publishedAt": "2026-07-23T18:27:27.000Z",
-      "url": "https://www.sammobile.com/news/the-hidden-galaxy-z-flip-8-price-hike-samsung-hoped-you-wouldnt-notice/",
-      "image": "",
-      "summary": "The Galaxy Z Flip 8 is more expensive compared to its predecessor. Price has gone up by $100 in the United States but there's also a hidden price hike that you may not have notice…",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-eb1cfa5cc1df",
-      "title": "The Galaxy S27’s primary camera might shake things up for Samsung",
-      "source": "Android Authority",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-23",
-      "time": "18:10",
-      "publishedAt": "2026-07-23T18:10:51.000Z",
-      "url": "https://www.androidauthority.com/samsung-galaxy-s27-camera-rumors-3690787/",
-      "image": "https://www.androidauthority.com/wp-content/uploads/2026/03/samsung-galaxy-s26-base-review-camera-sensors-scaled.jpg",
-      "summary": "Samsung might use a Sony sensor for the S27's primary camera.",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-ece5dae87fd1",
-      "title": "Does the Galaxy Z Fold 8 have Flex mode?",
-      "source": "SamMobile",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-23",
-      "time": "18:08",
-      "publishedAt": "2026-07-23T18:08:11.000Z",
-      "url": "https://www.sammobile.com/news/samsung-galaxy-z-fold-8-flex-mode-support/",
-      "image": "",
-      "summary": "Flex Mode has been a longstanding feature on Samsung's foldable phones since it was introduced with the Galaxy Z Flip back in 2020. When unfolded, you could have the display open…",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-598c50dedba5",
-      "title": "Best iPhones to trade-in for a Galaxy Z Fold 8 in the US",
-      "source": "SamMobile",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-23",
-      "time": "17:54",
-      "publishedAt": "2026-07-23T17:54:12.000Z",
-      "url": "https://www.sammobile.com/news/best-iphones-to-trade-in-for-a-galaxy-z-fold-8-in-the-us/",
-      "image": "",
-      "summary": "Samsung started taking pre-orders for the Galaxy Z Fold 8 yesterday. Prices start at $1,899 and there are plenty of devices that you can trade-in when buying from Samsung online t…",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-8bd1107969f7",
-      "title": "Samsung chief explains why the Galaxy Z Fold 8 series is way cheaper in Korea",
-      "source": "Android Authority",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-23",
-      "time": "16:15",
-      "publishedAt": "2026-07-23T16:15:09.000Z",
-      "url": "https://www.androidauthority.com/galaxy-z-fold-8-korean-price-explanation-3690710/",
-      "image": "https://www.androidauthority.com/wp-content/uploads/2026/07/Samsung-Galaxy-Z-Fold-8-Ultra-vs-Z-Fold-8-side-by-side-1.jpg",
-      "summary": "The Samsung CEO says the company aims to keep prices low in Korea.",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-1732d1bea48f",
-      "title": "This tempting Google Pixelsnap Charger deal even beats its Prime Day price",
-      "source": "Android Authority",
-      "brand": "Pixel",
-      "model": "Pixel 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-23",
-      "time": "14:47",
-      "publishedAt": "2026-07-23T14:47:36.000Z",
-      "url": "https://www.androidauthority.com/google-pixelsnap-charger-deal-3690729/",
-      "image": "",
-      "summary": "Amazon just cut the Google Pixelsnap Charger with Stand to $50.39. It works with Pixel 10 and other Qi2 phones.",
-      "tags": [
-        "Pixel",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-2f5e38f18ddf",
-      "title": "Google’s official Pixel 67W charger is nearly half off right now, its best price ever",
-      "source": "9to5Google",
-      "brand": "Pixel",
-      "model": "Pixel 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-23",
-      "time": "14:07",
-      "publishedAt": "2026-07-23T14:07:33.000Z",
-      "url": "https://9to5google.com/2026/07/23/googles-pixel-67w-charger-half-off-right-now/",
-      "image": "",
-      "summary": "You don’t have to hold off on grabbing Google’s 67W dual-port USB-C charger anymore, because it’s dropped to nearly $30.",
-      "tags": [
-        "Pixel",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-546b436ca3a3",
-      "title": "iPhone Ultra timing remains unclear as ‘final production adjustments’ made",
-      "source": "9to5Mac",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-23",
-      "time": "13:21",
-      "publishedAt": "2026-07-23T13:21:42.000Z",
-      "url": "https://9to5mac.com/2026/07/23/iphone-ultra-timing-remains-unclear-as-final-production-adjustments-made/",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/iphone-ultra-concept-blue.jpg?quality=82&strip=all&w=1600",
-      "summary": "The exact launch timings of the iPhone Ultra remain unclear as a new supply chain report says that Foxconn is making “final adjustments” to the manufacturing process. It follows a…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-9e66dc8dfd41",
-      "title": "Skip the price hike: T-Mobile will give you the Galaxy Z Flip 8 for ONLY $100 with this preorder deal",
-      "source": "Android Central",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "评测",
-      "trust": "媒体汇总",
-      "date": "2026-07-23",
-      "time": "13:05",
-      "publishedAt": "2026-07-23T13:05:00.000Z",
-      "url": "https://www.androidcentral.com/phones/samsung-galaxy/skip-the-price-hike-t-mobile-will-give-you-the-galaxy-z-flip-8-for-only-usd100-with-this-preorder-deal",
-      "image": "https://cdn.mos.cms.futurecdn.net/TBTVGm9Y54VZak6QFgxQ66-1280-80.jpg",
-      "summary": "The Samsung Galaxy Z Flip 8 is here, and T-Mobile is running an offer that drops the price of the phone down to just $100.",
-      "tags": [
-        "Samsung",
-        "评测",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-45abd29c3169",
-      "title": "OPPO Reno16 vs Vivo V70: Which Snapdragon 7 Gen 4 Phone Is Worth Buying?",
-      "source": "Gizmochina",
-      "brand": "OPPO",
-      "model": "OPPO 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-23",
-      "time": "12:06",
-      "publishedAt": "2026-07-23T12:06:50.000Z",
-      "url": "https://www.gizmochina.com/2026/07/23/oppo-reno16-vs-vivo-v70/",
-      "image": "https://www.gizmochina.com/wp-content/uploads/2026/07/image-89-300x185.png?x92417",
-      "summary": "The premium mid-range smartphone segment is more competitive than ever, and the OPPO Reno16 and vivo V70 are two of the strongest contenders powered by Qualcomm’s Snapdragon 7 Gen…",
-      "tags": [
-        "OPPO",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-3878eb386aa2",
-      "title": "Samsung has just given us a preview of the creaseless iPhone Ultra display",
-      "source": "9to5Mac",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-23",
-      "time": "11:46",
-      "publishedAt": "2026-07-23T11:46:22.000Z",
-      "url": "https://9to5mac.com/2026/07/23/samsung-has-just-given-us-a-preview-of-the-creaseless-iphone-ultra-display/",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/Samsung-has-just-given-us-a-preview-of-the-creaseless-iPhone-Ultra-display.jpg?quality=82&strip=all&w=1500",
-      "summary": "One of the reported reasons for Apple taking such a long time to introduce a folding iPhone is that the company was unhappy with the very visible crease and vulnerability of earli…",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-cd68c17b3621",
-      "title": "If the Galaxy Z Flip 8 really is Samsung’s last model, the foldable world is in trouble",
-      "source": "Android Authority",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-23",
-      "time": "10:00",
-      "publishedAt": "2026-07-23T10:00:44.000Z",
-      "url": "https://www.androidauthority.com/samsung-galaxy-z-flip-8-last-one-foldables-in-trouble-3689436/",
-      "image": "https://www.androidauthority.com/wp-content/uploads/2026/07/Galaxy-Z-Flip-8-all-4-colors-on-cover-display.jpg",
-      "summary": "Dear Samsung, please don't let the Flip flip away.",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-52c322075dcf",
-      "title": "OnePlus continues marching on with new phone on the horizon",
-      "source": "Android Authority",
-      "brand": "OPPO",
-      "model": "OPPO 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-23",
-      "time": "09:52",
-      "publishedAt": "2026-07-23T09:52:16.000Z",
-      "url": "https://www.androidauthority.com/oneplus-n6x-teaser-india-3690574/",
-      "image": "https://www.androidauthority.com/wp-content/uploads/2026/07/oneplus-n6x-hero-image.jpg",
-      "summary": "It reminds me of the Nord 5.",
-      "tags": [
-        "OPPO",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "weibo-a72fee7e7ce9",
-      "title": "数码闲聊站：咳咳，PM工程机测试的超大底长焦就是前代U同款，OV52A 200Mp 1/1…",
-      "source": "数码闲聊站",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-07-23",
-      "time": "08:48",
-      "publishedAt": "2026-07-23T08:48:00.000Z",
-      "url": "https://weibo.com/6048569942/Ra1lEqosd",
-      "image": "",
-      "summary": "咳咳，PM工程机测试的超大底长焦就是前代U同款，OV52A 200Mp 1/1.28\"，支持近距离长焦微距，如果顺利落地的话，也算是同档无敌[偷乐]",
-      "tags": [
-        "行业",
-        "爆料",
-        "微博"
-      ]
-    },
-    {
-      "id": "auto-fd2b74a63faf",
-      "title": "iQOO 15 Ultra spotted at EEC certification, global launch soon?",
-      "source": "Gizmochina",
-      "brand": "vivo",
-      "model": "vivo 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-23",
-      "time": "07:58",
-      "publishedAt": "2026-07-23T07:58:01.000Z",
-      "url": "https://www.gizmochina.com/2026/07/23/iqoo-15-ultra-eec-certification-global-launch-hint/",
-      "image": "https://www.gizmochina.com/wp-content/uploads/2026/07/IQOO-15-Ultra-EEC-certfiied-1024x565.jpg?x92417",
-      "summary": "iQOO is expected to unveil the iQOO 16 in September in China. While its global variant with model number I2601 was spotted in the IMEI database a couple of weeks ago, it remains u…",
-      "tags": [
-        "vivo",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-ea3d405cb1c2",
-      "title": "OnePlus N6x teaser confirms July 31 launch date, reveals major design shift from the N6",
-      "source": "Gizmochina",
-      "brand": "OPPO",
-      "model": "OPPO 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-23",
-      "time": "07:42",
-      "publishedAt": "2026-07-23T07:42:47.000Z",
-      "url": "https://www.gizmochina.com/2026/07/23/oneplus-n6x-teaser-confirms-july-31-launch-date-reveals-major-design-shift-from-the-n6/",
-      "image": "https://www.gizmochina.com/wp-content/uploads/2026/07/videoframe_9224-300x169.png?x92417",
-      "summary": "The upcoming OnePlus N6x is getting some early attention with fresh teasers that show off a fresh design direction for the N-series. After last week’s initial announcement focused…",
-      "tags": [
-        "OPPO",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-160dbec4cfa4",
-      "title": "Vivo S2’s latest leak reveals pricing, multiple variants and color options",
-      "source": "Gizmochina",
-      "brand": "vivo",
-      "model": "vivo 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-23",
-      "time": "07:28",
-      "publishedAt": "2026-07-23T07:28:15.000Z",
-      "url": "https://www.gizmochina.com/2026/07/23/vivo-s2-india-price-variants-colors-leak/",
-      "image": "https://www.gizmochina.com/wp-content/uploads/2026/07/image-88-300x168.png?x92417",
-      "summary": "Rumors suggest Vivo is preparing to revive its S-series smartphones in India, with the Vivo S2 expected to debut in the coming weeks. While the company is yet to make anything off…",
-      "tags": [
-        "vivo",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-fd78f2c3f6bb",
-      "title": "Ask me anything about Samsung’s new, wide Galaxy Z Fold 8",
-      "source": "9to5Google",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-23",
-      "time": "07:05",
-      "publishedAt": "2026-07-23T07:05:00.000Z",
-      "url": "https://9to5google.com/2026/07/23/galaxy-z-fold-8-ask-me-anything/",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/07/samsung-galaxy-z-fold-8.jpg?quality=82&strip=all&w=1600",
-      "summary": "I’m on my way home from Samsung’s big Galaxy Unpacked event and I’ve moved into the new Galaxy Z Fold 8. So, ask me anything!",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "weibo-9a18f70c09ba",
-      "title": "数码闲聊站：耀子实验室目前主摄物料最高OVB0D，200Mp 1/1.12\" LOFIC超…",
-      "source": "数码闲聊站",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-07-23",
-      "time": "05:43",
-      "publishedAt": "2026-07-23T05:43:00.000Z",
-      "url": "https://weibo.com/6048569942/Ra08yDVAv",
-      "image": "",
-      "summary": "耀子实验室目前主摄物料最高OVB0D，200Mp 1/1.12\" LOFIC超级大底国产镜皇，这颗镜头同步开启下一代长焦端的可行性预研，影像狠狠卷起来了[二哈]",
-      "tags": [
-        "行业",
-        "爆料",
-        "微博"
-      ]
-    },
-    {
-      "id": "auto-402d60360172",
-      "title": "Poco F9 Ultra, Poco F9 Pro, Vivo X500 (global) bag fresh certifications, launching soon",
-      "source": "Gizmochina",
-      "brand": "vivo",
-      "model": "vivo 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-23",
-      "time": "04:59",
-      "publishedAt": "2026-07-23T04:59:05.000Z",
-      "url": "https://www.gizmochina.com/2026/07/23/poco-f9-ultra-poco-f9-pro-vivo-x500-global-bag-fresh-certifications-launching-soon/",
-      "image": "https://www.gizmochina.com/wp-content/uploads/2025/11/POCO-F8-Pro-300x183.png?x92417",
-      "summary": "Poco is reportedly working on the Poco F9 series of smartphones. According to a report by XimiTime, two F9 series devices have emerged in the GSMA IMEI database, revealing their m…",
-      "tags": [
-        "vivo",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "coolapk-user-3f57763a7391",
-      "title": "JSCHEN小小狐：iQOO Neo11S 曝光：暂定 8 月前后 / 3K 价位",
-      "source": "JSCHEN小小狐",
-      "brand": "vivo",
-      "model": "vivo 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-07-23",
-      "time": "03:58",
-      "publishedAt": "2026-07-23T03:58:19.000Z",
-      "url": "https://www.coolapk.com/feed/72902045",
-      "image": "http://image.coolapk.com/feed/2026/0723/11/4702274_5219c063_9098_4213_444@1440x591.jpg",
-      "summary": "『iQOO Neo11S 曝光：暂定 8 月前后 / 3K 价位』 ◇ 降频版天玑 9500 移动平台 ◇ 2K 144Hz OLED 大尺寸直屏 ◇ 8K+ 单电芯电池 / 100W 有线 ◇ 3D 超声波指纹 + IP68 / IP69 配色：驰光白、疾影黑、乘风 SKU： 12GB+256GB / 12GB+512GB 16GB+256GB / 16…",
-      "tags": [
-        "vivo",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
-      "id": "auto-3e30c88151ba",
-      "title": "iQOO Neo 11S RAM, storage, and color options leaked ahead of August launch",
-      "source": "Gizmochina",
-      "brand": "vivo",
-      "model": "vivo 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-23",
-      "time": "03:42",
-      "publishedAt": "2026-07-23T03:42:31.000Z",
-      "url": "https://www.gizmochina.com/2026/07/23/iqoo-neo-11s-ram-storage-color-options-leak-august-launch/",
-      "image": "https://www.gizmochina.com/wp-content/uploads/2025/10/iQOO-Neo-11-live-shot-300x155.jpg?x92417",
-      "summary": "There have been rumors that iQOO will soon unveil a new Neo series phone in China. Initial reports suggested that the rumored Neo 11S would break cover in July, but now reliable t…",
-      "tags": [
-        "vivo",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "coolapk-user-a976e221d8bb",
-      "title": "JSCHEN小小狐：思特威推出 SC505HS：50Mp 1/2.88'' 规格",
-      "source": "JSCHEN小小狐",
-      "brand": "Pixel",
-      "model": "Pixel 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-07-23",
-      "time": "02:56",
-      "publishedAt": "2026-07-23T02:56:04.000Z",
-      "url": "https://www.coolapk.com/feed/72901188",
-      "image": "http://image.coolapk.com/feed/2026/0723/10/4702274_5f210f93_5361_5156_877@1793x836.jpg",
-      "summary": "『思特威推出 SC505HS：50Mp 1/2.88'' 规格』 ◇ 5000 万像素，1/2.88''，0.61μm ◇ 芯片功耗较前代产品降低约 18% ◇ Sparse PDAF 相位检测对焦 ◇ 支持 ULP 超低功耗模式 ◇ 高感光度与低噪声（SFCPixel） 520nm 可见光下量子效率高达 76% ◇ 高温性能优化（SmartClarity…",
-      "tags": [
-        "Pixel",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
-      "id": "auto-2dfe5a1d16cd",
-      "title": "Samsung Galaxy Z Flip 9: Everything we know so far and everything we hope to see",
-      "source": "Android Central",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "评测",
-      "trust": "媒体汇总",
-      "date": "2026-07-23",
-      "time": "02:14",
-      "publishedAt": "2026-07-23T02:14:42.000Z",
-      "url": "https://www.androidcentral.com/phones/samsung-galaxy/samsung-galaxy-z-flip-9",
-      "image": "https://cdn.mos.cms.futurecdn.net/WnXFBSier8uCi5AQgriPv5-1280-80.jpg",
-      "summary": "The Galaxy Z Flip 8 is rumored to be the last Z Flip, but is that actually true? We're collecting all the rumors and leaks to find out whether the Galaxy Z Flip 9 exists.",
-      "tags": [
-        "Samsung",
-        "评测",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-a16c10358739",
-      "title": "Samsung Galaxy Z Fold 9: Everything we know so far and everything we hope to see",
-      "source": "Android Central",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "评测",
-      "trust": "媒体汇总",
-      "date": "2026-07-23",
-      "time": "02:12",
-      "publishedAt": "2026-07-23T02:12:40.000Z",
-      "url": "https://www.androidcentral.com/phones/samsung-galaxy/samsung-galaxy-z-fold-9",
-      "image": "https://cdn.mos.cms.futurecdn.net/m8iSmg9MZifcwcQJU5acfc-1280-80.jpg",
-      "summary": "Samsung has been experimenting with lots of different folding form factors lately, meaning the Galaxy Z Fold 9 could bring the most exciting options ever.",
-      "tags": [
-        "Samsung",
-        "评测",
-        "自动抓取"
       ]
     }
   ]
