@@ -1,12 +1,12 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-07-25T15:18:23.899Z",
+  "updatedAt": "2026-07-25T17:13:52.654Z",
   "issueDate": "2026-07-25",
   "issue": "VOL.260725",
   "title": "手机情报日报",
-  "intro": "今日筛出 19 条重点，其中 8 条是重点爆料，包含 9 条 iPhone 相关、1 条官方确认、1 条参数线索。",
+  "intro": "今日筛出 21 条重点，其中 8 条是重点爆料，包含 8 条 iPhone 相关、1 条官方确认、1 条参数线索。",
   "stats": {
-    "total": 19,
-    "iphone": 9,
+    "total": 21,
+    "iphone": 8,
     "leaks": 8,
     "official": 1,
     "specs": 1
@@ -17,29 +17,6 @@ window.phoneRadarDaily = {
       "title": "重点爆料",
       "hint": "机模、配色、影像、屏幕、电池和芯片线索先看。",
       "items": [
-        {
-          "id": "newsnow-149e9fc3bd60",
-          "title": "兄弟们苹果这个售后态度这么好的吗？？[吃瓜]今天对象收了一个带care服务的17pm，所以给沈阳中街的苹果 Store打电话，想咨询一下苹果care的相关问题[微笑]，我撒谎说我骑自行车手机飞出去屏幕坏了，想问一下走care服务换屏幕需要什么？",
-          "originalTitle": "",
-          "source": "酷安热榜",
-          "brand": "iPhone",
-          "type": "爆料",
-          "trust": "高关注爆料源",
-          "date": "2026-07-25",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://www.coolapk.com/feed/72908764",
-          "image": "",
-          "verdict": "先看",
-          "takeaway": "兄弟们苹果这个售后态度这么好的吗？？[吃瓜]今天对象收了一个带care服务的17pm，所以给沈阳中街的苹果 Store打电话，想咨询一下苹果care的相关问题[微笑]，我撒谎说我骑自行车手机飞出去屏幕坏了，想问一下走care服务换屏幕需要什么？",
-          "detail": "兄弟们苹果这个售后态度这么好的吗？？[吃瓜]今天对象收了一个带care服务的17pm，所以给沈阳中街的苹果 Store打电话，想咨询一下苹果care的相关问题[微笑]，我撒谎说我骑自行车手机飞出去屏幕坏了，想问一下走care服务换屏幕需要什么？",
-          "keyPoints": [
-            "屏幕形态"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
         {
           "id": "auto-f4b3e5e3684d",
           "title": "iPhone 价格 / 成本相关消息",
@@ -200,6 +177,29 @@ window.phoneRadarDaily = {
             "芯片 / 性能"
           ],
           "confidence": "可信度较高，但仍属于发布前线索。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "weibo-b43dcc64aa1c",
+          "title": "数码闲聊站：之前说过O有阔直板新机，加加要不要做一个？小屏性能机→阔屏性能机，同样6.3-…",
+          "originalTitle": "",
+          "source": "数码闲聊站",
+          "brand": "行业",
+          "type": "爆料",
+          "trust": "高关注爆料源",
+          "date": "2026-07-24",
+          "time": "09:25",
+          "publishedAt": "2026-07-24T09:25:00.000Z",
+          "url": "https://weibo.com/6048569942/Rab1an7IV",
+          "image": "https://tvax2.sinaimg.cn/mw2000/006BlblIgy1ifevrjdi3zj31tg13c7wh.jpg",
+          "verdict": "先看",
+          "takeaway": "之前说过O有阔直板新机，加加要不要做一个？小屏性能机→阔屏性能机，同样6.3-6.4英寸，但阔屏实际显示面积更大，也更利于堆料[并不简单] Tips：纯调研，目前没有摸到相关项目嗷",
+          "detail": "之前说过O有阔直板新机，加加要不要做一个？小屏性能机→阔屏性能机，同样6.3-6.4英寸，但阔屏实际显示面积更大，也更利于堆料[并不简单] Tips：纯调研，目前没有摸到相关项目嗷",
+          "keyPoints": [
+            "爆料来源"
+          ],
+          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         }
@@ -469,6 +469,29 @@ window.phoneRadarDaily = {
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         },
         {
+          "id": "auto-98f11c5e562f",
+          "title": "Samsung 折叠屏相关消息",
+          "originalTitle": "",
+          "source": "SamMobile",
+          "brand": "Samsung",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-07-25",
+          "time": "15:35",
+          "publishedAt": "2026-07-25T15:35:59.000Z",
+          "url": "https://www.sammobile.com/opinion/my-favorite-thing-galaxy-z-fold-8-not-obvious/",
+          "image": "https://www.sammobile.com/wp-content/uploads/2026/07/2-Galaxy-Z-Fold-8-Ultra-One-UI-9-1920x1080.jpg",
+          "verdict": "可略过",
+          "takeaway": "Samsung 折叠屏相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
+          "detail": "Samsung 折叠屏相关消息。重点看折痕、铰链、厚度、屏幕可靠性和重量是否有实质改善。",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        },
+        {
           "id": "auto-2a3d2e5f98f5",
           "title": "Galaxy S27 Ultra 价格 / 成本相关消息",
           "originalTitle": "",
@@ -490,6 +513,29 @@ window.phoneRadarDaily = {
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "影响购买预算，值得先看。",
           "action": "有具体参数就记录到参数库；没有参数就先收藏。"
+        },
+        {
+          "id": "auto-5bc8664b8f42",
+          "title": "Huawei 折叠屏相关消息",
+          "originalTitle": "",
+          "source": "Huawei Central",
+          "brand": "Huawei",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-07-25",
+          "time": "13:20",
+          "publishedAt": "2026-07-25T13:20:18.000Z",
+          "url": "https://www.huaweicentral.com/huawei-pura-x-max-vs-galaxy-z-fold-8-wide-top-3-notable-differences/",
+          "image": "https://www.huaweicentral.com/wp-content/uploads/2026/07/Pura-X-Max-vs-Galaxy-Z-Fold-8.jpg",
+          "verdict": "可略过",
+          "takeaway": "Huawei 折叠屏相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
+          "detail": "Huawei 折叠屏相关消息。重点看折痕、铰链、厚度、屏幕可靠性和重量是否有实质改善。",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         }
       ]
     }

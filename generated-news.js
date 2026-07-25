@@ -1,6 +1,26 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-07-25T15:18:23.899Z",
+  "updatedAt": "2026-07-25T17:13:52.654Z",
   "news": [
+    {
+      "id": "auto-98f11c5e562f",
+      "title": "My favorite thing about the Galaxy Z Fold 8 isn’t even that obvious",
+      "source": "SamMobile",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-25",
+      "time": "15:35",
+      "publishedAt": "2026-07-25T15:35:59.000Z",
+      "url": "https://www.sammobile.com/opinion/my-favorite-thing-galaxy-z-fold-8-not-obvious/",
+      "image": "https://www.sammobile.com/wp-content/uploads/2026/07/2-Galaxy-Z-Fold-8-Ultra-One-UI-9-1920x1080.jpg",
+      "summary": "Will I be buying Samsung's brand-new Galaxy Z Fold 8? Probably not. Not because I don't like it. Quite the opposite. To my eyes, it looks like the most exciting foldable yet, and…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-31167bd07b8f",
       "title": "Bad news for Pixel fans: Google all but confirms higher prices for the Pixel 11 lineup",
@@ -542,59 +562,19 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-149e9fc3bd60",
-      "title": "兄弟们苹果这个售后态度这么好的吗？？[吃瓜]今天对象收了一个带care服务的17pm，所以给沈阳中街的苹果 Store打电话，想咨询一下苹果care的相关问题[微笑]，我撒谎说我骑自行车手机飞出去屏幕坏了，想问一下走care服务换屏幕需要什么？",
-      "source": "酷安热榜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-07-25",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72908764",
-      "image": "",
-      "summary": "兄弟们苹果这个售后态度这么好的吗？？[吃瓜]今天对象收了一个带care服务的17pm，所以给沈阳中街的苹果 Store打电话，想咨询一下苹果care的相关问题[微笑]，我撒谎说我骑自行车手机飞出去屏幕坏了，想问一下走care服务换屏幕需要什么？",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-73fca66ee61f",
-      "title": "三星折叠屏国行售价公布，你认为这一价格值得入手吗？",
-      "source": "知乎热榜",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "市场报告",
-      "trust": "媒体汇总",
-      "date": "2026-07-25",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.zhihu.com/question/2063590872520848306",
-      "image": "",
-      "summary": "三星折叠屏国行售价公布，你认为这一价格值得入手吗？",
-      "tags": [
-        "Samsung",
-        "市场报告",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-770815e3f1c2",
-      "title": "爸爸带娃玩手机 孩子打翻烧水壶",
-      "source": "今日头条热榜",
+      "id": "newsnow-a7a9d72b5876",
+      "title": "爸爸带娃玩手机孩子打翻烧水壶",
+      "source": "微博热搜",
       "brand": "行业",
       "model": "智能手机市场",
       "type": "爆料",
-      "trust": "媒体汇总",
+      "trust": "待验证",
       "date": "2026-07-25",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.toutiao.com/trending/7665724480107233316/",
+      "url": "https://s.weibo.com/weibo?q=%23%E7%88%B8%E7%88%B8%E5%B8%A6%E5%A8%83%E7%8E%A9%E6%89%8B%E6%9C%BA%E5%AD%A9%E5%AD%90%E6%89%93%E7%BF%BB%E7%83%A7%E6%B0%B4%E5%A3%B6%23&t=31&band_rank=25&Refer=top",
       "image": "",
-      "summary": "爸爸带娃玩手机 孩子打翻烧水壶",
+      "summary": "爸爸带娃玩手机孩子打翻烧水壶",
       "tags": [
         "行业",
         "爆料",
@@ -975,26 +955,6 @@ window.phoneRadarAuto = {
       "url": "https://www.androidauthority.com/samsung-galaxy-z-flip-8-critical-moment-3689798/",
       "image": "https://www.androidauthority.com/wp-content/uploads/2026/07/Galaxy-Z-Flip-8-stood-up-on-angle-showing-slimness.jpg",
       "summary": "The Z Flip 8 has its work cut out for it. Will it deliver?",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-73c27b866ac3",
-      "title": "More details about Galaxy S27 series camera specs leak",
-      "source": "SamMobile",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-24",
-      "time": "10:04",
-      "publishedAt": "2026-07-24T10:04:44.000Z",
-      "url": "https://www.sammobile.com/news/galaxy-s27-plus-pro-ultra-camera-specs-leak-details/",
-      "image": "",
-      "summary": "Now that Samsung has announced the Galaxy Z Flip 8 and Galaxy Z Fold 8 series, let us turn our attention to the company's next high-end phones. Samsung is reportedly planning to l…",
       "tags": [
         "Samsung",
         "爆料",
