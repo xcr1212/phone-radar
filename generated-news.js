@@ -1,6 +1,66 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-07-25T14:00:38.771Z",
+  "updatedAt": "2026-07-25T15:18:23.899Z",
   "news": [
+    {
+      "id": "auto-31167bd07b8f",
+      "title": "Bad news for Pixel fans: Google all but confirms higher prices for the Pixel 11 lineup",
+      "source": "Android Central",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-07-25",
+      "time": "15:12",
+      "publishedAt": "2026-07-25T15:12:16.000Z",
+      "url": "https://www.androidcentral.com/phones/google-pixel/google-confirms-price-hike-for-pixel-11-series",
+      "image": "https://cdn.mos.cms.futurecdn.net/McxfKzMCtgMJP7NUHTYugT-1280-80.jpg",
+      "summary": "Google's VP of Devices has confirmed price increases are coming to the Pixel 11 lineup.",
+      "tags": [
+        "Pixel",
+        "评测",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-ead79717f37c",
+      "title": "I spent a year with the Galaxy Z Flip 7 — these are 3 things I love and 3 things I don't",
+      "source": "Android Central",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-07-25",
+      "time": "15:02",
+      "publishedAt": "2026-07-25T15:02:00.000Z",
+      "url": "https://www.androidcentral.com/phones/samsung-galaxy/i-spent-a-year-with-the-galaxy-z-flip-7-these-are-3-things-i-love-and-3-things-i-dont",
+      "image": "https://cdn.mos.cms.futurecdn.net/ix4uvYmAK342Xnm7fTkkZQ-1280-80.jpg",
+      "summary": "The Samsung Galaxy Z Flip 8 is finally here, but don't write off the Galaxy Z Flip 7 just yet.",
+      "tags": [
+        "Samsung",
+        "评测",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-2a3d2e5f98f5",
+      "title": "Galaxy S27 Ultra price pressure rises further after Qualcomm’s latest move",
+      "source": "SamMobile",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-25",
+      "time": "14:26",
+      "publishedAt": "2026-07-25T14:26:26.000Z",
+      "url": "https://www.sammobile.com/news/galaxy-s27-ultra-price-pressure-rises-further-after-qualcomms-latest-move/",
+      "image": "",
+      "summary": "These are not really the best of times to be a buyer of consumer electronics. Everything's more expensive as companies are forced to raise prices due to supply chain upheaval. We'…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-5bc8664b8f42",
       "title": "Huawei Pura X Max vs Galaxy Z Fold 8 Wide: Top 3 notable differences",
@@ -319,6 +379,226 @@ window.phoneRadarAuto = {
         "iPhone",
         "官方",
         "自动抓取"
+      ]
+    },
+    {
+      "id": "newsnow-89a334cc75a7",
+      "title": "我的出行好伙伴，用 iPhone 一站式解决旅途痛点",
+      "source": "少数派热榜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-07-25",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://sspai.com/post/112044",
+      "image": "",
+      "summary": "我的出行好伙伴，用 iPhone 一站式解决旅途痛点",
+      "tags": [
+        "iPhone",
+        "评测",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-11bacd08cc7b",
+      "title": "iPhone Air 当主力机用了三个多月后，我为什么还是换不掉它",
+      "source": "少数派热榜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-07-25",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://sspai.com/post/111113",
+      "image": "",
+      "summary": "iPhone Air 当主力机用了三个多月后，我为什么还是换不掉它",
+      "tags": [
+        "iPhone",
+        "评测",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-a2ce68a36e84",
+      "title": "快捷指令｜让 iPhone 用上锤子的「大爆炸」",
+      "source": "少数派热榜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-07-25",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://sspai.com/post/111405",
+      "image": "",
+      "summary": "快捷指令｜让 iPhone 用上锤子的「大爆炸」",
+      "tags": [
+        "iPhone",
+        "评测",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-cb3d0ca6d59a",
+      "title": "都说oppo的系统多么多么流畅，我用起来也没比小米系统好多少，一到夏天各种卡顿，功能还没小米系统多。怪不得厂商喜欢年底发布手机，一到夏天就露馅#HyperOS3# #ColorOS16# #OPPOFindX9Pro#",
+      "source": "酷安热榜",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-07-25",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/72928763",
+      "image": "",
+      "summary": "都说oppo的系统多么多么流畅，我用起来也没比小米系统好多少，一到夏天各种卡顿，功能还没小米系统多。怪不得厂商喜欢年底发布手机，一到夏天就露馅#HyperOS3# #ColorOS16# #OPPOFindX9Pro#",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-4065028c1890",
+      "title": "小米折叠屏新机入网公示：备案搭载多款大模型",
+      "source": "酷安热榜",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-07-25",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/72922533",
+      "image": "",
+      "summary": "小米折叠屏新机入网公示：备案搭载多款大模型",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-a108f747ca47",
+      "title": "入职🌸了，身边领导都是华子，想换手机是买pura80pro➕还是pura90pro。我看百亿补贴90pro是12➕256而80pro➕是16➕512。都说买新不买久，但是参数和拍照感觉80pro➕都强于90pro。 #鸿蒙6# #华为Pura90ProMax# #华为Mate80ProMax#",
+      "source": "酷安热榜",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-07-25",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/72924735",
+      "image": "",
+      "summary": "入职🌸了，身边领导都是华子，想换手机是买pura80pro➕还是pura90pro。我看百亿补贴90pro是12➕256而80pro➕是16➕512。都说买新不买久，但是参数和拍照感觉80pro➕都强于90pro。 #鸿蒙6# #华为Pura90ProMax# #华为Mate80ProMax#",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-c8461cc5a41e",
+      "title": "iPhone Air 使用半年长评，已卖掉",
+      "source": "酷安热榜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-07-25",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/72915717",
+      "image": "",
+      "summary": "iPhone Air 使用半年长评，已卖掉",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-eebcdf49d578",
+      "title": "这颜值还要啥小米金沙江两百多这么贵 还得是pdd 36块钱的小米超薄自带线有性价比我的还是26年5月生产的[受虐滑稽][受虐滑稽][受虐滑稽] #iPhone17# #iPhone17Pro# #iPhone17ProMax#",
+      "source": "酷安热榜",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-07-25",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/72923867",
+      "image": "",
+      "summary": "这颜值还要啥小米金沙江两百多这么贵 还得是pdd 36块钱的小米超薄自带线有性价比我的还是26年5月生产的[受虐滑稽][受虐滑稽][受虐滑稽] #iPhone17# #iPhone17Pro# #iPhone17ProMax#",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-149e9fc3bd60",
+      "title": "兄弟们苹果这个售后态度这么好的吗？？[吃瓜]今天对象收了一个带care服务的17pm，所以给沈阳中街的苹果 Store打电话，想咨询一下苹果care的相关问题[微笑]，我撒谎说我骑自行车手机飞出去屏幕坏了，想问一下走care服务换屏幕需要什么？",
+      "source": "酷安热榜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-07-25",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/72908764",
+      "image": "",
+      "summary": "兄弟们苹果这个售后态度这么好的吗？？[吃瓜]今天对象收了一个带care服务的17pm，所以给沈阳中街的苹果 Store打电话，想咨询一下苹果care的相关问题[微笑]，我撒谎说我骑自行车手机飞出去屏幕坏了，想问一下走care服务换屏幕需要什么？",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-73fca66ee61f",
+      "title": "三星折叠屏国行售价公布，你认为这一价格值得入手吗？",
+      "source": "知乎热榜",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "市场报告",
+      "trust": "媒体汇总",
+      "date": "2026-07-25",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.zhihu.com/question/2063590872520848306",
+      "image": "",
+      "summary": "三星折叠屏国行售价公布，你认为这一价格值得入手吗？",
+      "tags": [
+        "Samsung",
+        "市场报告",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-770815e3f1c2",
+      "title": "爸爸带娃玩手机 孩子打翻烧水壶",
+      "source": "今日头条热榜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-25",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.toutiao.com/trending/7665724480107233316/",
+      "image": "",
+      "summary": "爸爸带娃玩手机 孩子打翻烧水壶",
+      "tags": [
+        "行业",
+        "爆料",
+        "NewsNow"
       ]
     },
     {

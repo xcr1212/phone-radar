@@ -1,15 +1,15 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-07-25T14:00:38.771Z",
+  "updatedAt": "2026-07-25T15:18:23.899Z",
   "issueDate": "2026-07-25",
   "issue": "VOL.260725",
   "title": "手机情报日报",
-  "intro": "今日筛出 18 条重点，其中 8 条是重点爆料，包含 4 条 iPhone 相关、1 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 19 条重点，其中 8 条是重点爆料，包含 9 条 iPhone 相关、1 条官方确认、1 条参数线索。",
   "stats": {
-    "total": 18,
-    "iphone": 4,
+    "total": 19,
+    "iphone": 9,
     "leaks": 8,
     "official": 1,
-    "specs": 0
+    "specs": 1
   },
   "sections": [
     {
@@ -17,6 +17,29 @@ window.phoneRadarDaily = {
       "title": "重点爆料",
       "hint": "机模、配色、影像、屏幕、电池和芯片线索先看。",
       "items": [
+        {
+          "id": "newsnow-149e9fc3bd60",
+          "title": "兄弟们苹果这个售后态度这么好的吗？？[吃瓜]今天对象收了一个带care服务的17pm，所以给沈阳中街的苹果 Store打电话，想咨询一下苹果care的相关问题[微笑]，我撒谎说我骑自行车手机飞出去屏幕坏了，想问一下走care服务换屏幕需要什么？",
+          "originalTitle": "",
+          "source": "酷安热榜",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "高关注爆料源",
+          "date": "2026-07-25",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://www.coolapk.com/feed/72908764",
+          "image": "",
+          "verdict": "先看",
+          "takeaway": "兄弟们苹果这个售后态度这么好的吗？？[吃瓜]今天对象收了一个带care服务的17pm，所以给沈阳中街的苹果 Store打电话，想咨询一下苹果care的相关问题[微笑]，我撒谎说我骑自行车手机飞出去屏幕坏了，想问一下走care服务换屏幕需要什么？",
+          "detail": "兄弟们苹果这个售后态度这么好的吗？？[吃瓜]今天对象收了一个带care服务的17pm，所以给沈阳中街的苹果 Store打电话，想咨询一下苹果care的相关问题[微笑]，我撒谎说我骑自行车手机飞出去屏幕坏了，想问一下走care服务换屏幕需要什么？",
+          "keyPoints": [
+            "屏幕形态"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
         {
           "id": "auto-f4b3e5e3684d",
           "title": "iPhone 价格 / 成本相关消息",
@@ -135,6 +158,29 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
+          "id": "newsnow-4065028c1890",
+          "title": "小米折叠屏新机入网公示：备案搭载多款大模型",
+          "originalTitle": "",
+          "source": "酷安热榜",
+          "brand": "Xiaomi",
+          "type": "爆料",
+          "trust": "高关注爆料源",
+          "date": "2026-07-25",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://www.coolapk.com/feed/72922533",
+          "image": "",
+          "verdict": "先看",
+          "takeaway": "小米折叠屏新机入网公示：备案搭载多款大模型",
+          "detail": "小米折叠屏新机入网公示：备案搭载多款大模型",
+          "keyPoints": [
+            "屏幕形态"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
           "id": "coolapk-user-3f7a5fef5355",
           "title": "竹本青：【哈啰“领航者”共享电助力车官宣：5寸车机导航，全链路国产智能底座】 哈啰骑行昨日官宣，包头首发“领航者”共享电助…",
           "originalTitle": "",
@@ -156,55 +202,6 @@ window.phoneRadarDaily = {
           "confidence": "可信度较高，但仍属于发布前线索。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "weibo-b43dcc64aa1c",
-          "title": "数码闲聊站：之前说过O有阔直板新机，加加要不要做一个？小屏性能机→阔屏性能机，同样6.3-…",
-          "originalTitle": "",
-          "source": "数码闲聊站",
-          "brand": "行业",
-          "type": "爆料",
-          "trust": "高关注爆料源",
-          "date": "2026-07-24",
-          "time": "09:25",
-          "publishedAt": "2026-07-24T09:25:00.000Z",
-          "url": "https://weibo.com/6048569942/Rab1an7IV",
-          "image": "https://tvax2.sinaimg.cn/mw2000/006BlblIgy1ifevrjdi3zj31tg13c7wh.jpg",
-          "verdict": "先看",
-          "takeaway": "之前说过O有阔直板新机，加加要不要做一个？小屏性能机→阔屏性能机，同样6.3-6.4英寸，但阔屏实际显示面积更大，也更利于堆料[并不简单] Tips：纯调研，目前没有摸到相关项目嗷",
-          "detail": "之前说过O有阔直板新机，加加要不要做一个？小屏性能机→阔屏性能机，同样6.3-6.4英寸，但阔屏实际显示面积更大，也更利于堆料[并不简单] Tips：纯调研，目前没有摸到相关项目嗷",
-          "keyPoints": [
-            "爆料来源"
-          ],
-          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "weibo-e0932e258add",
-          "title": "数码闲聊站：独家信息：7英寸超大直屏+天玑8系处理器+10000mAh++超大电池，中端线…",
-          "originalTitle": "",
-          "source": "数码闲聊站",
-          "brand": "行业",
-          "type": "爆料",
-          "trust": "高关注爆料源",
-          "date": "2026-07-24",
-          "time": "04:11",
-          "publishedAt": "2026-07-24T04:11:00.000Z",
-          "url": "https://weibo.com/6048569942/Ra8XIgWqg",
-          "image": "",
-          "verdict": "先看",
-          "takeaway": "独家信息，7英寸超大直屏+天玑8系处理器+10000mAh++超大电池，中端线这个方案喜欢吗[二哈]",
-          "detail": "独家信息，7英寸超大直屏+天玑8系处理器+10000mAh++超大电池，中端线这个方案喜欢吗[二哈]",
-          "keyPoints": [
-            "屏幕形态",
-            "电池 / 充电",
-            "芯片 / 性能",
-            "爆料来源"
-          ],
-          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         }
       ]
     },
@@ -213,6 +210,29 @@ window.phoneRadarDaily = {
       "title": "iPhone 重点",
       "hint": "不是硬件爆料，但和 iPhone 体验或路线有关。",
       "items": [
+        {
+          "id": "newsnow-c8461cc5a41e",
+          "title": "iPhone Air 使用半年长评，已卖掉",
+          "originalTitle": "",
+          "source": "酷安热榜",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "高关注爆料源",
+          "date": "2026-07-25",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://www.coolapk.com/feed/72915717",
+          "image": "",
+          "verdict": "先看",
+          "takeaway": "iPhone Air 使用半年长评，已卖掉",
+          "detail": "iPhone Air 使用半年长评，已卖掉",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        },
         {
           "id": "auto-9bbf43c61c96",
           "title": "iPhone 系统功能 / AI 体验相关消息",
@@ -235,6 +255,75 @@ window.phoneRadarDaily = {
           "confidence": "官方内容，可直接作为已确认信息记录。",
           "impact": "可信度高，但如果不是配置/价格消息，只需要扫一眼。",
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        },
+        {
+          "id": "newsnow-89a334cc75a7",
+          "title": "我的出行好伙伴，用 iPhone 一站式解决旅途痛点",
+          "originalTitle": "",
+          "source": "少数派热榜",
+          "brand": "iPhone",
+          "type": "评测",
+          "trust": "媒体汇总",
+          "date": "2026-07-25",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://sspai.com/post/112044",
+          "image": "",
+          "verdict": "扫一眼",
+          "takeaway": "我的出行好伙伴，用 iPhone 一站式解决旅途痛点",
+          "detail": "我的出行好伙伴，用 iPhone 一站式解决旅途痛点",
+          "keyPoints": [
+            "评测"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是实际体验内容，买前适合重点看缺点和取舍。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        },
+        {
+          "id": "newsnow-11bacd08cc7b",
+          "title": "iPhone Air 当主力机用了三个多月后，我为什么还是换不掉它",
+          "originalTitle": "",
+          "source": "少数派热榜",
+          "brand": "iPhone",
+          "type": "评测",
+          "trust": "媒体汇总",
+          "date": "2026-07-25",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://sspai.com/post/111113",
+          "image": "",
+          "verdict": "扫一眼",
+          "takeaway": "iPhone Air 当主力机用了三个多月后，我为什么还是换不掉它",
+          "detail": "iPhone Air 当主力机用了三个多月后，我为什么还是换不掉它",
+          "keyPoints": [
+            "评测"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是实际体验内容，买前适合重点看缺点和取舍。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        },
+        {
+          "id": "newsnow-a2ce68a36e84",
+          "title": "快捷指令｜让 iPhone 用上锤子的「大爆炸」",
+          "originalTitle": "",
+          "source": "少数派热榜",
+          "brand": "iPhone",
+          "type": "评测",
+          "trust": "媒体汇总",
+          "date": "2026-07-25",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://sspai.com/post/111405",
+          "image": "",
+          "verdict": "扫一眼",
+          "takeaway": "快捷指令｜让 iPhone 用上锤子的「大爆炸」",
+          "detail": "快捷指令｜让 iPhone 用上锤子的「大爆炸」",
+          "keyPoints": [
+            "评测"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是实际体验内容，买前适合重点看缺点和取舍。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         }
       ]
     },
@@ -244,96 +333,110 @@ window.phoneRadarDaily = {
       "hint": "能直接更新到参数库。",
       "items": [
         {
-          "id": "auto-99e93d21efb6",
-          "title": "HONOR 相关消息",
+          "id": "newsnow-cb3d0ca6d59a",
+          "title": "都说oppo的系统多么多么流畅，我用起来也没比小米系统好多少，一到夏天各种卡顿，功能还没小米系统多。怪不得厂商喜欢年底发布手机，一到夏天就露馅#HyperOS3# #ColorOS16# #OPPOFindX9Pro#",
           "originalTitle": "",
-          "source": "Huawei Central",
-          "brand": "HONOR",
+          "source": "酷安热榜",
+          "brand": "Xiaomi",
           "type": "爆料",
-          "trust": "媒体汇总",
+          "trust": "高关注爆料源",
           "date": "2026-07-25",
-          "time": "09:28",
-          "publishedAt": "2026-07-25T09:28:16.000Z",
-          "url": "https://www.huaweicentral.com/honor-magic-9-to-bring-these-four-first-time-changes-over-magic-8/",
-          "image": "https://www.huaweicentral.com/wp-content/uploads/2026/02/Magic8phones.jpg",
-          "verdict": "可略过",
-          "takeaway": "HONOR 相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
-          "detail": "HONOR 相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://www.coolapk.com/feed/72928763",
+          "image": "",
+          "verdict": "先看",
+          "takeaway": "都说oppo的系统多么多么流畅，我用起来也没比小米系统好多少，一到夏天各种卡顿，功能还没小米系统多。怪不得厂商喜欢年底发布手机，一到夏天就露馅#HyperOS3# #ColorOS16# #OPPOFindX9Pro#",
+          "detail": "都说oppo的系统多么多么流畅，我用起来也没比小米系统好多少，一到夏天各种卡顿，功能还没小米系统多。怪不得厂商喜欢年底发布手机，一到夏天就露馅#HyperOS3# #ColorOS16# #OPPOFindX9Pro#",
           "keyPoints": [
-            "爆料"
+            "外观 / 配色 / 尺寸"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
+        }
+      ]
+    },
+    {
+      "id": "specs",
+      "title": "参数、跑分、认证",
+      "hint": "适合验证芯片、屏幕、影像和电池。",
+      "items": [
         {
-          "id": "auto-23cf5b65b553",
-          "title": "Huawei 相关消息",
+          "id": "newsnow-a108f747ca47",
+          "title": "入职🌸了，身边领导都是华子，想换手机是买pura80pro➕还是pura90pro。我看百亿补贴90pro是12➕256而80pro➕是16➕512。都说买新不买久，但是参数和拍照感觉80pro➕都强于90pro。 #鸿蒙6# #华为Pura90ProMax# #华为Mate80ProMax#",
           "originalTitle": "",
-          "source": "Huawei Central",
+          "source": "酷安热榜",
           "brand": "Huawei",
           "type": "爆料",
-          "trust": "媒体汇总",
+          "trust": "高关注爆料源",
           "date": "2026-07-25",
-          "time": "08:09",
-          "publishedAt": "2026-07-25T08:09:26.000Z",
-          "url": "https://www.huaweicentral.com/huawei-pura-90s-pro-top-5-flavorful-features-of-the-new-flagship/",
-          "image": "https://www.huaweicentral.com/wp-content/uploads/2026/07/Pura90sPro-image-1.jpg",
-          "verdict": "可略过",
-          "takeaway": "Huawei 相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
-          "detail": "Huawei 相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://www.coolapk.com/feed/72924735",
+          "image": "",
+          "verdict": "先看",
+          "takeaway": "入职🌸了，身边领导都是华子，想换手机是买pura80pro➕还是pura90pro。我看百亿补贴90pro是12➕256而80pro➕是16➕512。都说买新不买久，但是参数和拍照感觉80pro➕都强于90pro。 #鸿蒙6# #华为Pura90ProMax# #华为Mate80ProMax#",
+          "detail": "入职🌸了，身边领导都是华子，想换手机是买pura80pro➕还是pura90pro。我看百亿补贴90pro是12➕256而80pro➕是16➕512。都说买新不买久，但是参数和拍照感觉80pro➕都强于90pro。 #鸿蒙6# #华为Pura90ProMax# #华为Mate80ProMax#",
           "keyPoints": [
             "爆料"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
+        }
+      ]
+    },
+    {
+      "id": "review",
+      "title": "评测与体验",
+      "hint": "买前再细看，平时扫一眼即可。",
+      "items": [
         {
-          "id": "auto-c2952a15d969",
-          "title": "Pixel 11 芯片 / 性能相关消息",
+          "id": "auto-31167bd07b8f",
+          "title": "Pixel 11 价格 / 成本相关消息",
           "originalTitle": "",
-          "source": "9to5Google",
+          "source": "Android Central",
           "brand": "Pixel",
-          "type": "爆料",
+          "type": "评测",
           "trust": "媒体汇总",
-          "date": "2026-07-24",
-          "time": "18:03",
-          "publishedAt": "2026-07-24T18:03:00.000Z",
-          "url": "https://9to5google.com/2026/07/24/google-pixel-11-price-increase/",
-          "image": "",
+          "date": "2026-07-25",
+          "time": "15:12",
+          "publishedAt": "2026-07-25T15:12:16.000Z",
+          "url": "https://www.androidcentral.com/phones/google-pixel/google-confirms-price-hike-for-pixel-11-series",
+          "image": "https://cdn.mos.cms.futurecdn.net/McxfKzMCtgMJP7NUHTYugT-1280-80.jpg",
           "verdict": "可略过",
-          "takeaway": "Pixel 11 芯片 / 性能相关消息。如果涉及订阅、售价或硬件成本，才需要进一步看细节。",
-          "detail": "Pixel 11 芯片 / 性能相关消息。重点看折痕、铰链、厚度、屏幕可靠性和重量是否有实质改善。",
+          "takeaway": "Pixel 11 价格 / 成本相关消息。如果涉及订阅、售价或硬件成本，才需要进一步看细节。",
+          "detail": "Pixel 11 价格 / 成本相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
           "keyPoints": [
             "成本 / 价格"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "影响购买预算，值得先看。",
+          "impact": "这是实际体验内容，买前适合重点看缺点和取舍。",
           "action": "有具体参数就记录到参数库；没有参数就先收藏。"
         },
         {
-          "id": "auto-eef0cab2320a",
-          "title": "Pixel 10 Pro 发布 / 上市相关消息",
+          "id": "auto-ead79717f37c",
+          "title": "Samsung 相关消息",
           "originalTitle": "",
-          "source": "Android Authority",
-          "brand": "Pixel",
-          "type": "爆料",
+          "source": "Android Central",
+          "brand": "Samsung",
+          "type": "评测",
           "trust": "媒体汇总",
-          "date": "2026-07-24",
-          "time": "16:28",
-          "publishedAt": "2026-07-24T16:28:17.000Z",
-          "url": "https://www.androidauthority.com/google-pixel-10-pro-july-deal-3691212/",
-          "image": "",
+          "date": "2026-07-25",
+          "time": "15:02",
+          "publishedAt": "2026-07-25T15:02:00.000Z",
+          "url": "https://www.androidcentral.com/phones/samsung-galaxy/i-spent-a-year-with-the-galaxy-z-flip-7-these-are-3-things-i-love-and-3-things-i-dont",
+          "image": "https://cdn.mos.cms.futurecdn.net/ix4uvYmAK342Xnm7fTkkZQ-1280-80.jpg",
           "verdict": "可略过",
-          "takeaway": "Pixel 有发布或新功能消息，适合确认是否和新机有关。",
-          "detail": "Pixel 10 Pro 发布 / 上市相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
+          "takeaway": "Samsung 相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
+          "detail": "Samsung 相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
           "keyPoints": [
-            "屏幕形态"
+            "评测"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "影响手感和显示体验，适合和其他机型对比。",
-          "action": "有具体参数就记录到参数库；没有参数就先收藏。"
+          "impact": "这是实际体验内容，买前适合重点看缺点和取舍。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         }
       ]
     },
@@ -343,21 +446,21 @@ window.phoneRadarDaily = {
       "hint": "看方向，不急着当购买依据。",
       "items": [
         {
-          "id": "auto-5bc8664b8f42",
-          "title": "Huawei 折叠屏相关消息",
+          "id": "newsnow-eebcdf49d578",
+          "title": "这颜值还要啥小米金沙江两百多这么贵 还得是pdd 36块钱的小米超薄自带线有性价比我的还是26年5月生产的[受虐滑稽][受虐滑稽][受虐滑稽] #iPhone17# #iPhone17Pro# #iPhone17ProMax#",
           "originalTitle": "",
-          "source": "Huawei Central",
-          "brand": "Huawei",
+          "source": "酷安热榜",
+          "brand": "Xiaomi",
           "type": "爆料",
-          "trust": "媒体汇总",
+          "trust": "高关注爆料源",
           "date": "2026-07-25",
-          "time": "13:20",
-          "publishedAt": "2026-07-25T13:20:18.000Z",
-          "url": "https://www.huaweicentral.com/huawei-pura-x-max-vs-galaxy-z-fold-8-wide-top-3-notable-differences/",
-          "image": "https://www.huaweicentral.com/wp-content/uploads/2026/07/Pura-X-Max-vs-Galaxy-Z-Fold-8.jpg",
-          "verdict": "可略过",
-          "takeaway": "Huawei 折叠屏相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
-          "detail": "Huawei 折叠屏相关消息。重点看折痕、铰链、厚度、屏幕可靠性和重量是否有实质改善。",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://www.coolapk.com/feed/72923867",
+          "image": "",
+          "verdict": "先看",
+          "takeaway": "这颜值还要啥小米金沙江两百多这么贵 还得是pdd 36块钱的小米超薄自带线有性价比我的还是26年5月生产的[受虐滑稽][受虐滑稽][受虐滑稽] #iPhone17# #iPhone17Pro# #iPhone17ProMax#",
+          "detail": "这颜值还要啥小米金沙江两百多这么贵 还得是pdd 36块钱的小米超薄自带线有性价比我的还是26年5月生产的[受虐滑稽][受虐滑稽][受虐滑稽] #iPhone17# #iPhone17Pro# #iPhone17ProMax#",
           "keyPoints": [
             "爆料"
           ],
@@ -366,97 +469,27 @@ window.phoneRadarDaily = {
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         },
         {
-          "id": "auto-158e93540754",
-          "title": "Samsung 折叠屏相关消息",
+          "id": "auto-2a3d2e5f98f5",
+          "title": "Galaxy S27 Ultra 价格 / 成本相关消息",
           "originalTitle": "",
-          "source": "Android Authority",
+          "source": "SamMobile",
           "brand": "Samsung",
           "type": "爆料",
           "trust": "媒体汇总",
           "date": "2026-07-25",
-          "time": "11:00",
-          "publishedAt": "2026-07-25T11:00:08.000Z",
-          "url": "https://www.androidauthority.com/samsung-galaxy-z-fold-8-ultra-alternatives-3689273/",
-          "image": "https://www.androidauthority.com/wp-content/uploads/2026/07/Galazy-Z-Fold-8-Ultra-display-on-straight-on.jpg",
-          "verdict": "可略过",
-          "takeaway": "Samsung 折叠屏相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
-          "detail": "Samsung 折叠屏相关消息。重点看折痕、铰链、厚度、屏幕可靠性和重量是否有实质改善。",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
-        {
-          "id": "auto-42ae0e8fc8b1",
-          "title": "Samsung 相关消息",
-          "originalTitle": "",
-          "source": "Android Authority",
-          "brand": "Samsung",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-07-25",
-          "time": "09:00",
-          "publishedAt": "2026-07-25T09:00:00.000Z",
-          "url": "https://www.androidauthority.com/samsung-galaxy-z-flip-8-snapdragon-concerns-3690470/",
-          "image": "https://www.androidauthority.com/wp-content/uploads/2026/07/Galazy-Z-Flip-8-cover-display-in-hand.jpg",
-          "verdict": "可略过",
-          "takeaway": "Samsung 相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
-          "detail": "Samsung 相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
-          "keyPoints": [
-            "芯片 / 性能",
-            "成本 / 价格"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "影响购买预算，值得先看。",
-          "action": "有具体参数就记录到参数库；没有参数就先收藏。"
-        },
-        {
-          "id": "auto-6ad51d98590c",
-          "title": "Pixel 11 价格 / 成本相关消息",
-          "originalTitle": "",
-          "source": "Android Authority",
-          "brand": "Pixel",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-07-24",
-          "time": "20:23",
-          "publishedAt": "2026-07-24T20:23:15.000Z",
-          "url": "https://www.androidauthority.com/pixel-11-price-increases-3691265/",
+          "time": "14:26",
+          "publishedAt": "2026-07-25T14:26:26.000Z",
+          "url": "https://www.sammobile.com/news/galaxy-s27-ultra-price-pressure-rises-further-after-qualcomms-latest-move/",
           "image": "",
           "verdict": "可略过",
-          "takeaway": "Pixel 11 价格 / 成本相关消息。如果涉及订阅、售价或硬件成本，才需要进一步看细节。",
-          "detail": "Pixel 11 价格 / 成本相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
+          "takeaway": "Galaxy S27 Ultra 价格 / 成本相关消息。如果涉及订阅、售价或硬件成本，才需要进一步看细节。",
+          "detail": "Galaxy S27 Ultra 价格 / 成本相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
           "keyPoints": [
             "成本 / 价格"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "影响购买预算，值得先看。",
           "action": "有具体参数就记录到参数库；没有参数就先收藏。"
-        },
-        {
-          "id": "auto-bcaeef88b43d",
-          "title": "Samsung 外观设计线索曝光",
-          "originalTitle": "",
-          "source": "Android Authority",
-          "brand": "Samsung",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-07-24",
-          "time": "10:00",
-          "publishedAt": "2026-07-24T10:00:16.000Z",
-          "url": "https://www.androidauthority.com/samsung-galaxy-z-fold-8-trade-offs-3689671/",
-          "image": "https://www.androidauthority.com/wp-content/uploads/2026/07/MyFanCam-settings-Galaxy-Z-Fold-8.jpg",
-          "verdict": "可略过",
-          "takeaway": "Samsung 外观设计线索曝光。重点看外观、颜色、尺寸是否和上一代有明显变化。",
-          "detail": "Samsung 外观设计线索曝光。这类内容主要看外观设计、按键布局、相机模组和尺寸变化，后续最好等更多渲染图或保护壳线索互相验证。",
-          "keyPoints": [
-            "外观 / 配色 / 尺寸"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         }
       ]
     }
