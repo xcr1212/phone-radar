@@ -1,15 +1,15 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-07-25T06:28:30.296Z",
+  "updatedAt": "2026-07-25T09:59:20.651Z",
   "issueDate": "2026-07-25",
   "issue": "VOL.260725",
   "title": "手机情报日报",
-  "intro": "今日筛出 16 条重点，其中 8 条是重点爆料，包含 10 条 iPhone 相关、1 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 19 条重点，其中 8 条是重点爆料，包含 10 条 iPhone 相关、1 条官方确认、1 条参数线索。",
   "stats": {
-    "total": 16,
+    "total": 19,
     "iphone": 10,
     "leaks": 8,
     "official": 1,
-    "specs": 0
+    "specs": 1
   },
   "sections": [
     {
@@ -135,48 +135,25 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
-          "id": "auto-a29a0f48ff32",
-          "title": "三星 Galaxy S27 Pro / Ultra 手机影像曝光：配索尼 IMX855 传感器",
+          "id": "weibo-6a7db69082e9",
+          "title": "数码闲聊站：最新一轮排期，大概率9月登场的直板新机： iPhone 18系列、华为Mate…",
           "originalTitle": "",
-          "source": "IT之家",
-          "brand": "Samsung",
+          "source": "数码闲聊站",
+          "brand": "Huawei",
           "type": "爆料",
-          "trust": "媒体汇总",
+          "trust": "高关注爆料源",
           "date": "2026-07-25",
-          "time": "02:32",
-          "publishedAt": "2026-07-25T02:32:59.000Z",
-          "url": "https://www.ithome.com/0/981/449.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/7/2310c3a9-69eb-4577-ab97-8776b4e6efe0.png",
+          "time": "08:51",
+          "publishedAt": "2026-07-25T08:51:00.000Z",
+          "url": "https://weibo.com/6048569942/RakdRtm7z",
+          "image": "",
           "verdict": "先看",
-          "takeaway": "IT之家 7 月 25 日消息，科技媒体 WinFuture 昨日（7 月 24 日）发布博文， 分享了三星 Galaxy S27 系列影像方面的相关规格信息。 代号方面，IT之家援引博文介绍，三星 Galaxy S27 系列共有 4 款机型： NM1 对应 Galaxy S27 NM2 对应 Galaxy S27+ NM3 对应 Galaxy S27 P…",
-          "detail": "IT之家 7 月 25 日消息，科技媒体 WinFuture 昨日（7 月 24 日）发布博文， 分享了三星 Galaxy S27 系列影像方面的相关规格信息。 代号方面，IT之家援引博文介绍，三星 Galaxy S27 系列共有 4 款机型： NM1 对应 Galaxy S27 NM2 对应 Galaxy S27+ NM3 对应 Galaxy S27 P…",
+          "takeaway": "最新一轮排期，大概率9月登场的直板新机： iPhone 18系列、华为Mate90系列、vivo X500系列、OPPO Find X10系列、小米18系列……",
+          "detail": "最新一轮排期，大概率9月登场的直板新机： iPhone 18系列、华为Mate90系列、vivo X500系列、OPPO Find X10系列、小米18系列……",
           "keyPoints": [
-            "影像硬件"
+            "爆料来源"
           ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "auto-be9b90decc67",
-          "title": "三星 Galaxy F70 Pro 手机现身 GeekBench，搭载骁龙 6 Gen 3 芯片",
-          "originalTitle": "",
-          "source": "IT之家",
-          "brand": "Samsung",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-07-25",
-          "time": "01:59",
-          "publishedAt": "2026-07-25T01:59:49.000Z",
-          "url": "https://www.ithome.com/0/981/441.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/7/098c0d1c-312e-45d3-9f26-45babc07985e.jpg?x-bce-process=image/format,f_auto",
-          "verdict": "先看",
-          "takeaway": "IT之家 7 月 25 日消息，一款型号为 SM-E476B 的三星新机前天现身 GeekBench 跑分数据库， 录得单核 998 分、多核 3090 分的成绩 ，科技媒体 GSMArena 认为该机是 Galaxy F70 Pro。 跑分结果显示，该机搭载高通 SM6475 芯片，对应骁龙 6 Gen 3。该处理器采用八核设计，性能核最高主频可达 2.…",
-          "detail": "IT之家 7 月 25 日消息，一款型号为 SM-E476B 的三星新机前天现身 GeekBench 跑分数据库， 录得单核 998 分、多核 3090 分的成绩 ，科技媒体 GSMArena 认为该机是 Galaxy F70 Pro。 跑分结果显示，该机搭载高通 SM6475 芯片，对应骁龙 6 Gen 3。该处理器采用八核设计，性能核最高主频可达 2.…",
-          "keyPoints": [
-            "芯片 / 性能"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
@@ -202,6 +179,29 @@ window.phoneRadarDaily = {
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "coolapk-user-3f7a5fef5355",
+          "title": "竹本青：【哈啰“领航者”共享电助力车官宣：5寸车机导航，全链路国产智能底座】 哈啰骑行昨日官宣，包头首发“领航者”共享电助…",
+          "originalTitle": "",
+          "source": "竹本青",
+          "brand": "Huawei",
+          "type": "爆料",
+          "trust": "高可信爆料",
+          "date": "2026-07-25",
+          "time": "05:56",
+          "publishedAt": "2026-07-25T05:56:43.000Z",
+          "url": "https://www.coolapk.com/feed/72931986",
+          "image": "http://image.coolapk.com/feed/2026/0725/13/4248714_470d541a_8896_2129_606-livepic@1920x1080.jpg",
+          "verdict": "先看",
+          "takeaway": "【哈啰“领航者”共享电助力车官宣：5寸车机导航，全链路国产智能底座】 哈啰骑行昨日官宣，包头首发“领航者”共享电助力车。该车搭载5寸大屏，内置开源鸿蒙+上海海思芯片+高德地图原生车载导航，打造全链路国产智能底座。 据介绍，“领航者”还支持NFC一碰开锁、P键一键还车、禁停区实时提醒 三项智能功能。 #今日热点# #鸿蒙6# #哈啰出行#",
+          "detail": "【哈啰“领航者”共享电助力车官宣：5寸车机导航，全链路国产智能底座】 哈啰骑行昨日官宣，包头首发“领航者”共享电助力车。该车搭载5寸大屏，内置开源鸿蒙+上海海思芯片+高德地图原生车载导航，打造全链路国产智能底座。 据介绍，“领航者”还支持NFC一碰开锁、P键一键还车、禁停区实时提醒 三项智能功能。 #今日热点# #鸿蒙6# #哈啰出行#",
+          "keyPoints": [
+            "芯片 / 性能"
+          ],
+          "confidence": "可信度较高，但仍属于发布前线索。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         }
       ]
     },
@@ -210,29 +210,6 @@ window.phoneRadarDaily = {
       "title": "iPhone 重点",
       "hint": "不是硬件爆料，但和 iPhone 体验或路线有关。",
       "items": [
-        {
-          "id": "newsnow-bf29a472f0b5",
-          "title": "服了！女朋友跟我说要把她的iPhone 15 Pro Max换成iPhone 16e做主力机。[疑问][疑问]",
-          "originalTitle": "",
-          "source": "酷安热榜",
-          "brand": "iPhone",
-          "type": "爆料",
-          "trust": "高关注爆料源",
-          "date": "2026-07-25",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://www.coolapk.com/feed/72915293",
-          "image": "",
-          "verdict": "先看",
-          "takeaway": "服了！女朋友跟我说要把她的iPhone 15 Pro Max换成iPhone 16e做主力机。[疑问][疑问]",
-          "detail": "服了！女朋友跟我说要把她的iPhone 15 Pro Max换成iPhone 16e做主力机。[疑问][疑问]",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
         {
           "id": "newsnow-c8461cc5a41e",
           "title": "iPhone Air 使用半年长评，已卖掉",
@@ -347,6 +324,29 @@ window.phoneRadarDaily = {
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是实际体验内容，买前适合重点看缺点和取舍。",
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        },
+        {
+          "id": "newsnow-a2ce68a36e84",
+          "title": "快捷指令｜让 iPhone 用上锤子的「大爆炸」",
+          "originalTitle": "",
+          "source": "少数派热榜",
+          "brand": "iPhone",
+          "type": "评测",
+          "trust": "媒体汇总",
+          "date": "2026-07-25",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://sspai.com/post/111405",
+          "image": "",
+          "verdict": "扫一眼",
+          "takeaway": "快捷指令｜让 iPhone 用上锤子的「大爆炸」",
+          "detail": "快捷指令｜让 iPhone 用上锤子的「大爆炸」",
+          "keyPoints": [
+            "评测"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是实际体验内容，买前适合重点看缺点和取舍。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         }
       ]
     },
@@ -356,27 +356,80 @@ window.phoneRadarDaily = {
       "hint": "能直接更新到参数库。",
       "items": [
         {
-          "id": "auto-7fc862e275de",
-          "title": "国际版小米 18 Pro 手机曝光：不登陆印度市场，妙享背屏走向世界舞台",
+          "id": "newsnow-cb3d0ca6d59a",
+          "title": "都说oppo的系统多么多么流畅，我用起来也没比小米系统好多少，一到夏天各种卡顿，功能还没小米系统多。怪不得厂商喜欢年底发布手机，一到夏天就露馅#HyperOS3# #ColorOS16# #OPPOFindX9Pro#",
           "originalTitle": "",
-          "source": "IT之家",
+          "source": "酷安热榜",
           "brand": "Xiaomi",
+          "type": "爆料",
+          "trust": "高关注爆料源",
+          "date": "2026-07-25",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://www.coolapk.com/feed/72928763",
+          "image": "",
+          "verdict": "先看",
+          "takeaway": "都说oppo的系统多么多么流畅，我用起来也没比小米系统好多少，一到夏天各种卡顿，功能还没小米系统多。怪不得厂商喜欢年底发布手机，一到夏天就露馅#HyperOS3# #ColorOS16# #OPPOFindX9Pro#",
+          "detail": "都说oppo的系统多么多么流畅，我用起来也没比小米系统好多少，一到夏天各种卡顿，功能还没小米系统多。怪不得厂商喜欢年底发布手机，一到夏天就露馅#HyperOS3# #ColorOS16# #OPPOFindX9Pro#",
+          "keyPoints": [
+            "外观 / 配色 / 尺寸"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        },
+        {
+          "id": "auto-99e93d21efb6",
+          "title": "HONOR 相关消息",
+          "originalTitle": "",
+          "source": "Huawei Central",
+          "brand": "HONOR",
           "type": "爆料",
           "trust": "媒体汇总",
           "date": "2026-07-25",
-          "time": "01:27",
-          "publishedAt": "2026-07-25T01:27:49.000Z",
-          "url": "https://www.ithome.com/0/981/434.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/7/e968d140-9f5f-442f-a311-29b629a9d2cd.png?x-bce-process=image/format,f_auto",
-          "verdict": "先看",
-          "takeaway": "IT之家 7 月 25 日消息，科技媒体 XiaomiTime 昨日（7 月 24 日）发布博文，通过挖掘 GSMA IMEI 数据库， 发现了国际版小米 18 Pro 手机的踪迹。 消息源指出国际版小米 18 Pro 手机（内部代号 VENICE）型号为 26122PN61G，后缀“G”代表 Global，也就是国际版，而中国版型号为 M261DB。IT…",
-          "detail": "IT之家 7 月 25 日消息，科技媒体 XiaomiTime 昨日（7 月 24 日）发布博文，通过挖掘 GSMA IMEI 数据库， 发现了国际版小米 18 Pro 手机的踪迹。 消息源指出国际版小米 18 Pro 手机（内部代号 VENICE）型号为 26122PN61G，后缀“G”代表 Global，也就是国际版，而中国版型号为 M261DB。IT…",
+          "time": "09:28",
+          "publishedAt": "2026-07-25T09:28:16.000Z",
+          "url": "https://www.huaweicentral.com/honor-magic-9-to-bring-these-four-first-time-changes-over-magic-8/",
+          "image": "https://www.huaweicentral.com/wp-content/uploads/2026/02/Magic8phones.jpg",
+          "verdict": "可略过",
+          "takeaway": "HONOR 相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
+          "detail": "HONOR 相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
           "keyPoints": [
             "爆料"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "中文源可以直接点开快读；看完只保留和购机有关的点。"
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        }
+      ]
+    },
+    {
+      "id": "specs",
+      "title": "参数、跑分、认证",
+      "hint": "适合验证芯片、屏幕、影像和电池。",
+      "items": [
+        {
+          "id": "newsnow-a108f747ca47",
+          "title": "入职🌸了，身边领导都是华子，想换手机是买pura80pro➕还是pura90pro。我看百亿补贴90pro是12➕256而80pro➕是16➕512。都说买新不买久，但是参数和拍照感觉80pro➕都强于90pro。 #鸿蒙6# #华为Pura90ProMax# #华为Mate80ProMax#",
+          "originalTitle": "",
+          "source": "酷安热榜",
+          "brand": "Huawei",
+          "type": "爆料",
+          "trust": "高关注爆料源",
+          "date": "2026-07-25",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://www.coolapk.com/feed/72924735",
+          "image": "",
+          "verdict": "先看",
+          "takeaway": "入职🌸了，身边领导都是华子，想换手机是买pura80pro➕还是pura90pro。我看百亿补贴90pro是12➕256而80pro➕是16➕512。都说买新不买久，但是参数和拍照感觉80pro➕都强于90pro。 #鸿蒙6# #华为Pura90ProMax# #华为Mate80ProMax#",
+          "detail": "入职🌸了，身边领导都是华子，想换手机是买pura80pro➕还是pura90pro。我看百亿补贴90pro是12➕256而80pro➕是16➕512。都说买新不买久，但是参数和拍照感觉80pro➕都强于90pro。 #鸿蒙6# #华为Pura90ProMax# #华为Mate80ProMax#",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         }
       ]
     },
@@ -386,26 +439,50 @@ window.phoneRadarDaily = {
       "hint": "看方向，不急着当购买依据。",
       "items": [
         {
-          "id": "auto-15a06d127ee9",
+          "id": "auto-3552764f0386",
           "title": "Samsung 折叠屏相关消息",
           "originalTitle": "",
-          "source": "SamMobile",
+          "source": "Android Authority",
           "brand": "Samsung",
           "type": "爆料",
           "trust": "媒体汇总",
           "date": "2026-07-25",
-          "time": "03:55",
-          "publishedAt": "2026-07-25T03:55:27.000Z",
-          "url": "https://www.sammobile.com/news/galaxy-z-fold-8-ultra-gets-apv-codec-cine-lut-four-cinema-presets/",
-          "image": "https://www.sammobile.com/wp-content/uploads/2026/07/Galaxy-Z-Fold-8-Ultra-APV-codec-2-1920x1080.jpg",
+          "time": "09:30",
+          "publishedAt": "2026-07-25T09:30:35.000Z",
+          "url": "https://www.androidauthority.com/galaxy-z-fold-8-bad-specs-might-buy-anyway-3689277/",
+          "image": "https://www.androidauthority.com/wp-content/uploads/2026/07/Galaxy-Z-Fold-8.-Cream-stood-up.jpg",
           "verdict": "可略过",
-          "takeaway": "Samsung 影像能力相关宣传或案例，主要看是否透露拍摄能力变化。",
+          "takeaway": "Samsung 折叠屏相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
           "detail": "Samsung 折叠屏相关消息。重点看折痕、铰链、厚度、屏幕可靠性和重量是否有实质改善。",
           "keyPoints": [
-            "影像硬件"
+            "爆料"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "影响拍照体验，买旗舰机时值得关注。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        },
+        {
+          "id": "auto-42ae0e8fc8b1",
+          "title": "Samsung 相关消息",
+          "originalTitle": "",
+          "source": "Android Authority",
+          "brand": "Samsung",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-07-25",
+          "time": "09:00",
+          "publishedAt": "2026-07-25T09:00:00.000Z",
+          "url": "https://www.androidauthority.com/samsung-galaxy-z-flip-8-snapdragon-concerns-3690470/",
+          "image": "https://www.androidauthority.com/wp-content/uploads/2026/07/Galazy-Z-Flip-8-cover-display-in-hand.jpg",
+          "verdict": "可略过",
+          "takeaway": "Samsung 相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
+          "detail": "Samsung 相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
+          "keyPoints": [
+            "芯片 / 性能",
+            "成本 / 价格"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "影响购买预算，值得先看。",
           "action": "有具体参数就记录到参数库；没有参数就先收藏。"
         }
       ]

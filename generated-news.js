@@ -1,6 +1,146 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-07-25T06:28:30.296Z",
+  "updatedAt": "2026-07-25T09:59:20.651Z",
   "news": [
+    {
+      "id": "auto-3552764f0386",
+      "title": "The Galaxy Z Fold 8 has worse specs than my current phone. I might buy it anyway",
+      "source": "Android Authority",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-25",
+      "time": "09:30",
+      "publishedAt": "2026-07-25T09:30:35.000Z",
+      "url": "https://www.androidauthority.com/galaxy-z-fold-8-bad-specs-might-buy-anyway-3689277/",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2026/07/Galaxy-Z-Fold-8.-Cream-stood-up.jpg",
+      "summary": "I don't need it. I definitely don't need it.",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-762fb84d336c",
+      "title": "The Galaxy Z Fold 8 Ultra is a great phone, but also a lie",
+      "source": "Android Police",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-25",
+      "time": "09:30",
+      "publishedAt": "2026-07-25T09:30:15.000Z",
+      "url": "https://www.androidpolice.com/samsung-galaxy-z-fold-8-ultra-great-phone-lie/",
+      "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2026/07/samsung-galaxy-z-fold-8-ultra-back.JPG",
+      "summary": "What's so \"Ultra\" about this one?",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-99e93d21efb6",
+      "title": "Honor Magic 9 to bring these four ‘first time’ changes over Magic 8",
+      "source": "Huawei Central",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-25",
+      "time": "09:28",
+      "publishedAt": "2026-07-25T09:28:16.000Z",
+      "url": "https://www.huaweicentral.com/honor-magic-9-to-bring-these-four-first-time-changes-over-magic-8/",
+      "image": "https://www.huaweicentral.com/wp-content/uploads/2026/02/Magic8phones.jpg",
+      "summary": "Honor is preparing for the official release of its Magic 9 series, and at the same time, the company will integrate some “first” changes to the flagship that will make it more use…",
+      "tags": [
+        "HONOR",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-42ae0e8fc8b1",
+      "title": "The Galaxy Z Flip 8’s best upgrade on paper is the one that worries me the most",
+      "source": "Android Authority",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-25",
+      "time": "09:00",
+      "publishedAt": "2026-07-25T09:00:00.000Z",
+      "url": "https://www.androidauthority.com/samsung-galaxy-z-flip-8-snapdragon-concerns-3690470/",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2026/07/Galazy-Z-Flip-8-cover-display-in-hand.jpg",
+      "summary": "The Galaxy Z Flip 8's Snapdragon chip is a weak attempt to justify its price hike.",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "weibo-6a7db69082e9",
+      "title": "数码闲聊站：最新一轮排期，大概率9月登场的直板新机： iPhone 18系列、华为Mate…",
+      "source": "数码闲聊站",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-07-25",
+      "time": "08:51",
+      "publishedAt": "2026-07-25T08:51:00.000Z",
+      "url": "https://weibo.com/6048569942/RakdRtm7z",
+      "image": "",
+      "summary": "最新一轮排期，大概率9月登场的直板新机： iPhone 18系列、华为Mate90系列、vivo X500系列、OPPO Find X10系列、小米18系列……",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "微博"
+      ]
+    },
+    {
+      "id": "auto-23cf5b65b553",
+      "title": "Huawei Pura 90s Pro: Top 5 flavorful features of the new flagship",
+      "source": "Huawei Central",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-25",
+      "time": "08:09",
+      "publishedAt": "2026-07-25T08:09:26.000Z",
+      "url": "https://www.huaweicentral.com/huawei-pura-90s-pro-top-5-flavorful-features-of-the-new-flagship/",
+      "image": "https://www.huaweicentral.com/wp-content/uploads/2026/07/Pura90sPro-image-1.jpg",
+      "summary": "Huawei has launched only two models in the Pura 90s series: Pro and Pro Max with top-of-the-line features. And today we’ll talk about what major upgrades the Pro variant brings ov…",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-13525ada83fa",
+      "title": "Huawei making Mate XT 2 tri-fold more durable against iPhone Ultra",
+      "source": "Huawei Central",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-25",
+      "time": "06:42",
+      "publishedAt": "2026-07-25T06:42:18.000Z",
+      "url": "https://www.huaweicentral.com/huawei-making-mate-xt-2-tri-fold-more-durable-against-iphone-ultra/",
+      "image": "https://www.huaweicentral.com/wp-content/uploads/2026/04/Mate-XTs.jpg",
+      "summary": "Mate XT 2 triple-foldable will debut as a prominent rival against the iPhone Ultra – Apple’s first folding device and Huawei is currently focusing on making its third-generation t…",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-8b90303bb438",
       "title": "Global Xiaomi 18 Pro spotted for the first time as Mix Fold 5 clears another certification in China",
@@ -97,66 +237,6 @@ window.phoneRadarAuto = {
       "summary": "Mate 90 series will continue to bring four models to the shelf, but it looks like Huawei could add a special 6.6-inch phone to the lineup in the first half of 2027. And this parti…",
       "tags": [
         "Huawei",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-a29a0f48ff32",
-      "title": "三星 Galaxy S27 Pro / Ultra 手机影像曝光：配索尼 IMX855 传感器",
-      "source": "IT之家",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-25",
-      "time": "02:32",
-      "publishedAt": "2026-07-25T02:32:59.000Z",
-      "url": "https://www.ithome.com/0/981/449.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/7/2310c3a9-69eb-4577-ab97-8776b4e6efe0.png",
-      "summary": "IT之家 7 月 25 日消息，科技媒体 WinFuture 昨日（7 月 24 日）发布博文， 分享了三星 Galaxy S27 系列影像方面的相关规格信息。 代号方面，IT之家援引博文介绍，三星 Galaxy S27 系列共有 4 款机型： NM1 对应 Galaxy S27 NM2 对应 Galaxy S27+ NM3 对应 Galaxy S27 P…",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-be9b90decc67",
-      "title": "三星 Galaxy F70 Pro 手机现身 GeekBench，搭载骁龙 6 Gen 3 芯片",
-      "source": "IT之家",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-25",
-      "time": "01:59",
-      "publishedAt": "2026-07-25T01:59:49.000Z",
-      "url": "https://www.ithome.com/0/981/441.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/7/098c0d1c-312e-45d3-9f26-45babc07985e.jpg?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 7 月 25 日消息，一款型号为 SM-E476B 的三星新机前天现身 GeekBench 跑分数据库， 录得单核 998 分、多核 3090 分的成绩 ，科技媒体 GSMArena 认为该机是 Galaxy F70 Pro。 跑分结果显示，该机搭载高通 SM6475 芯片，对应骁龙 6 Gen 3。该处理器采用八核设计，性能核最高主频可达 2.…",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-7fc862e275de",
-      "title": "国际版小米 18 Pro 手机曝光：不登陆印度市场，妙享背屏走向世界舞台",
-      "source": "IT之家",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-25",
-      "time": "01:27",
-      "publishedAt": "2026-07-25T01:27:49.000Z",
-      "url": "https://www.ithome.com/0/981/434.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/7/e968d140-9f5f-442f-a311-29b629a9d2cd.png?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 7 月 25 日消息，科技媒体 XiaomiTime 昨日（7 月 24 日）发布博文，通过挖掘 GSMA IMEI 数据库， 发现了国际版小米 18 Pro 手机的踪迹。 消息源指出国际版小米 18 Pro 手机（内部代号 VENICE）型号为 26122PN61G，后缀“G”代表 Global，也就是国际版，而中国版型号为 M261DB。IT…",
-      "tags": [
-        "Xiaomi",
         "爆料",
         "自动抓取"
       ]
@@ -262,21 +342,21 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-bf29a472f0b5",
-      "title": "服了！女朋友跟我说要把她的iPhone 15 Pro Max换成iPhone 16e做主力机。[疑问][疑问]",
+      "id": "newsnow-cb3d0ca6d59a",
+      "title": "都说oppo的系统多么多么流畅，我用起来也没比小米系统好多少，一到夏天各种卡顿，功能还没小米系统多。怪不得厂商喜欢年底发布手机，一到夏天就露馅#HyperOS3# #ColorOS16# #OPPOFindX9Pro#",
       "source": "酷安热榜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-07-25",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72915293",
+      "url": "https://www.coolapk.com/feed/72928763",
       "image": "",
-      "summary": "服了！女朋友跟我说要把她的iPhone 15 Pro Max换成iPhone 16e做主力机。[疑问][疑问]",
+      "summary": "都说oppo的系统多么多么流畅，我用起来也没比小米系统好多少，一到夏天各种卡顿，功能还没小米系统多。怪不得厂商喜欢年底发布手机，一到夏天就露馅#HyperOS3# #ColorOS16# #OPPOFindX9Pro#",
       "tags": [
-        "iPhone",
+        "Xiaomi",
         "爆料",
         "NewsNow"
       ]
@@ -297,6 +377,26 @@ window.phoneRadarAuto = {
       "summary": "iPhone Air 使用半年长评，已卖掉",
       "tags": [
         "iPhone",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-a108f747ca47",
+      "title": "入职🌸了，身边领导都是华子，想换手机是买pura80pro➕还是pura90pro。我看百亿补贴90pro是12➕256而80pro➕是16➕512。都说买新不买久，但是参数和拍照感觉80pro➕都强于90pro。 #鸿蒙6# #华为Pura90ProMax# #华为Mate80ProMax#",
+      "source": "酷安热榜",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-07-25",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/72924735",
+      "image": "",
+      "summary": "入职🌸了，身边领导都是华子，想换手机是买pura80pro➕还是pura90pro。我看百亿补贴90pro是12➕256而80pro➕是16➕512。都说买新不买久，但是参数和拍照感觉80pro➕都强于90pro。 #鸿蒙6# #华为Pura90ProMax# #华为Mate80ProMax#",
+      "tags": [
+        "Huawei",
         "爆料",
         "NewsNow"
       ]
@@ -342,7 +442,7 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-65174348ee7a",
+      "id": "newsnow-5911ccb8acbc",
       "title": "除了玩手机还有这么多低成本爱好",
       "source": "微博热搜",
       "brand": "行业",
@@ -352,12 +452,32 @@ window.phoneRadarAuto = {
       "date": "2026-07-25",
       "time": "",
       "publishedAt": "",
-      "url": "https://s.weibo.com/weibo?q=%E9%99%A4%E4%BA%86%E7%8E%A9%E6%89%8B%E6%9C%BA%E8%BF%98%E6%9C%89%E8%BF%99%E4%B9%88%E5%A4%9A%E4%BD%8E%E6%88%90%E6%9C%AC%E7%88%B1%E5%A5%BD&t=31&band_rank=8&Refer=top",
+      "url": "https://s.weibo.com/weibo?q=%E9%99%A4%E4%BA%86%E7%8E%A9%E6%89%8B%E6%9C%BA%E8%BF%98%E6%9C%89%E8%BF%99%E4%B9%88%E5%A4%9A%E4%BD%8E%E6%88%90%E6%9C%AC%E7%88%B1%E5%A5%BD&t=31&band_rank=27&Refer=top",
       "image": "",
       "summary": "除了玩手机还有这么多低成本爱好",
       "tags": [
         "行业",
         "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-73fca66ee61f",
+      "title": "三星折叠屏国行售价公布，你认为这一价格值得入手吗？",
+      "source": "知乎热榜",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "市场报告",
+      "trust": "媒体汇总",
+      "date": "2026-07-25",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.zhihu.com/question/2063590872520848306",
+      "image": "",
+      "summary": "三星折叠屏国行售价公布，你认为这一价格值得入手吗？",
+      "tags": [
+        "Samsung",
+        "市场报告",
         "NewsNow"
       ]
     },
@@ -902,26 +1022,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-1c18c98dc19f",
-      "title": "Huawei Mate 90 leak reveals bigger battery and more camera details",
-      "source": "Huawei Central",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-24",
-      "time": "08:25",
-      "publishedAt": "2026-07-24T08:25:00.000Z",
-      "url": "https://www.huaweicentral.com/huawei-mate-90-leak-reveals-battery-and-camera/",
-      "image": "https://www.huaweicentral.com/wp-content/uploads/2026/02/Mate80Pro-ig1.jpg",
-      "summary": "Mate 90 series will likely be the most powerful Huawei Mate in history and the latest leak reveals that the flagship lineup will not only excel in terms of chipset but also in bat…",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-bd49760999bb",
       "title": "The Galaxy Z Fold 8 series borrows one of the best foldable multitasking ideas",
       "source": "Android Authority",
@@ -979,26 +1079,6 @@ window.phoneRadarAuto = {
         "OPPO",
         "爆料",
         "酷安博主"
-      ]
-    },
-    {
-      "id": "weibo-46cf79943ebf",
-      "title": "数码闲聊站：独家信息：之前透露过有新机在评估1:1方形前摄，物料疑似Sony 68Mp，下…",
-      "source": "数码闲聊站",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-07-24",
-      "time": "01:12",
-      "publishedAt": "2026-07-24T01:12:19.000Z",
-      "url": "https://weibo.com/6048569942/Ra7NbpGrZ",
-      "image": "",
-      "summary": "独家信息，之前透露过有新机在评估1:1方形前摄，物料疑似Sony 68Mp，下一代超大杯预定？[笑哈哈]",
-      "tags": [
-        "行业",
-        "爆料",
-        "微博"
       ]
     }
   ]
