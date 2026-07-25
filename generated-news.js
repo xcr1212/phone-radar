@@ -1,6 +1,86 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-07-25T03:35:36.372Z",
+  "updatedAt": "2026-07-25T06:28:30.296Z",
   "news": [
+    {
+      "id": "auto-8b90303bb438",
+      "title": "Global Xiaomi 18 Pro spotted for the first time as Mix Fold 5 clears another certification in China",
+      "source": "Gizmochina",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-25",
+      "time": "06:13",
+      "publishedAt": "2026-07-25T06:13:14.000Z",
+      "url": "https://www.gizmochina.com/2026/07/25/xiaomi-18-pro-global-variant-spotted-mix-fold-5-3c-certified/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2025/09/Xiaomi-17-Pro-Max-Review_1.mp4_20250930_164941.855-300x150.jpg?x92417",
+      "summary": "The Xiaomi 18 Pro has surfaced in its global variant for the first time, indicating that Xiaomi is preparing to bring its next premium flagship to international markets. At the sa…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-3f7a5fef5355",
+      "title": "竹本青：【哈啰“领航者”共享电助力车官宣：5寸车机导航，全链路国产智能底座】 哈啰骑行昨日官宣，包头首发“领航者”共享电助…",
+      "source": "竹本青",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-07-25",
+      "time": "05:56",
+      "publishedAt": "2026-07-25T05:56:43.000Z",
+      "url": "https://www.coolapk.com/feed/72931986",
+      "image": "http://image.coolapk.com/feed/2026/0725/13/4248714_470d541a_8896_2129_606-livepic@1920x1080.jpg",
+      "summary": "【哈啰“领航者”共享电助力车官宣：5寸车机导航，全链路国产智能底座】 哈啰骑行昨日官宣，包头首发“领航者”共享电助力车。该车搭载5寸大屏，内置开源鸿蒙+上海海思芯片+高德地图原生车载导航，打造全链路国产智能底座。 据介绍，“领航者”还支持NFC一碰开锁、P键一键还车、禁停区实时提醒 三项智能功能。 #今日热点# #鸿蒙6# #哈啰出行#",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-15a06d127ee9",
+      "title": "Galaxy Z Fold 8 Ultra has two hidden features for serious videographers",
+      "source": "SamMobile",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-25",
+      "time": "03:55",
+      "publishedAt": "2026-07-25T03:55:27.000Z",
+      "url": "https://www.sammobile.com/news/galaxy-z-fold-8-ultra-gets-apv-codec-cine-lut-four-cinema-presets/",
+      "image": "https://www.sammobile.com/wp-content/uploads/2026/07/Galaxy-Z-Fold-8-Ultra-APV-codec-2-1920x1080.jpg",
+      "summary": "Almost every new Galaxy Z Fold phone has offered upgraded camera hardware over its predecessor. Samsung’s newest device in the lineup, the Galaxy Z Fold 8 Ultra, is no different.…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-150b4d3f83e1",
+      "title": "覆盖人口超 4 亿，我国地震预警公众服务体系已初步建成",
+      "source": "IT之家",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-25",
+      "time": "03:39",
+      "publishedAt": "2026-07-25T03:39:41.000Z",
+      "url": "https://www.ithome.com/0/981/466.htm",
+      "image": "",
+      "summary": "IT之家 7 月 25 日消息，据央视新闻，今天（7 月 25 日），是国家地震烈度速报与预警工程竣工验收两周年，我国地震预警公众服务体系已初步建成， 目前累计覆盖人口超过 4 亿，其中手机预警服务用户突破 2.28 亿 ，标志着我国地震预警公众服务已进入“ 广覆盖、快触达、精准化 ”的新阶段。 自 2024 年 7 月工程全面竣工以来，多渠道、全覆盖、规…",
+      "tags": [
+        "行业",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-ff8a39158f1d",
       "title": "A new 6.6-inch Huawei Mate phone rumored to debut in H1 2027",
@@ -262,7 +342,7 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-18c4a6ed0ebf",
+      "id": "newsnow-65174348ee7a",
       "title": "除了玩手机还有这么多低成本爱好",
       "source": "微博热搜",
       "brand": "行业",
@@ -272,7 +352,7 @@ window.phoneRadarAuto = {
       "date": "2026-07-25",
       "time": "",
       "publishedAt": "",
-      "url": "https://s.weibo.com/weibo?q=%E9%99%A4%E4%BA%86%E7%8E%A9%E6%89%8B%E6%9C%BA%E8%BF%98%E6%9C%89%E8%BF%99%E4%B9%88%E5%A4%9A%E4%BD%8E%E6%88%90%E6%9C%AC%E7%88%B1%E5%A5%BD&t=31&band_rank=10&Refer=top",
+      "url": "https://s.weibo.com/weibo?q=%E9%99%A4%E4%BA%86%E7%8E%A9%E6%89%8B%E6%9C%BA%E8%BF%98%E6%9C%89%E8%BF%99%E4%B9%88%E5%A4%9A%E4%BD%8E%E6%88%90%E6%9C%AC%E7%88%B1%E5%A5%BD&t=31&band_rank=8&Refer=top",
       "image": "",
       "summary": "除了玩手机还有这么多低成本爱好",
       "tags": [
@@ -282,63 +362,23 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-242570b881ed",
-      "title": "小米新机入网",
-      "source": "微博热搜",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
+      "id": "newsnow-0f0c825a53ae",
+      "title": "7.9元手机壳惹来38万元索赔",
+      "source": "百度热搜",
+      "brand": "行业",
+      "model": "智能手机市场",
       "type": "爆料",
-      "trust": "待验证",
+      "trust": "媒体汇总",
       "date": "2026-07-25",
       "time": "",
       "publishedAt": "",
-      "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B3%E6%96%B0%E6%9C%BA%E5%85%A5%E7%BD%91%23&t=31&band_rank=19&Refer=top",
+      "url": "https://www.baidu.com/s?wd=7.9%E5%85%83%E6%89%8B%E6%9C%BA%E5%A3%B3%E6%83%B9%E6%9D%A538%E4%B8%87%E5%85%83%E7%B4%A2%E8%B5%94",
       "image": "",
-      "summary": "小米新机入网",
+      "summary": "7.9元手机壳惹来38万元索赔",
       "tags": [
-        "Xiaomi",
+        "行业",
         "爆料",
         "NewsNow"
-      ]
-    },
-    {
-      "id": "auto-79b31c3b3318",
-      "title": "消息称苹果为消化内存涨价，提议下调 iPhone 18 Pro / Max 的 OLED 面板采购价",
-      "source": "IT之家",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-24",
-      "time": "23:42",
-      "publishedAt": "2026-07-24T23:42:52.000Z",
-      "url": "https://www.ithome.com/0/981/411.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/7/440f5913-86f3-4db9-b2c7-79ad00ca1b86.jpg",
-      "summary": "IT之家 7 月 25 日消息，韩媒 The Elec 昨日（7 月 24 日）发布博文，报道称苹果公司为更好消化内存等存储元件供应短缺导致的成本涨价，在 iPhone 18 Pro 和 iPhone 18 Pro Max 上，已提议下调 OLED 面板采购价格。 报道称苹果已提议希望将适用于 iPhone 18 Pro 和 iPhone 18 Pro M…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-6dc0e6ecd584",
-      "title": "谷歌确认 Pixel 11 系列手机将涨价，后续 Android 系统将提升内存优化",
-      "source": "IT之家",
-      "brand": "Pixel",
-      "model": "Pixel 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-24",
-      "time": "23:03",
-      "publishedAt": "2026-07-24T23:03:01.000Z",
-      "url": "https://www.ithome.com/0/981/403.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/7/da6da3f5-1b22-4771-9a15-ea9c8c12371e.jpg",
-      "summary": "IT之家 7 月 25 日消息，谷歌设备与服务部门副总裁沙基尔 · 巴卡特（Shakil Barkat）昨天接受外媒 9To5Google 采访，确认 Pixel 11 系列手机将涨价。 巴卡特表示，谷歌和所有消费电子公司一样，都在经历前所未有的内存涨价。摩根士丹利数据显示，2025 年 1GB 内存的价格约 2.8 美元（IT之家注：现汇率约合 19 元…",
-      "tags": [
-        "Pixel",
-        "爆料",
-        "自动抓取"
       ]
     },
     {

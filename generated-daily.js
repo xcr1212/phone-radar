@@ -1,12 +1,12 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-07-25T03:35:36.372Z",
+  "updatedAt": "2026-07-25T06:28:30.296Z",
   "issueDate": "2026-07-25",
   "issue": "VOL.260725",
   "title": "手机情报日报",
-  "intro": "今日筛出 16 条重点，其中 8 条是重点爆料，包含 11 条 iPhone 相关、1 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 16 条重点，其中 8 条是重点爆料，包含 10 条 iPhone 相关、1 条官方确认、0 条参数线索。",
   "stats": {
     "total": 16,
-    "iphone": 11,
+    "iphone": 10,
     "leaks": 8,
     "official": 1,
     "specs": 0
@@ -17,31 +17,6 @@ window.phoneRadarDaily = {
       "title": "重点爆料",
       "hint": "机模、配色、影像、屏幕、电池和芯片线索先看。",
       "items": [
-        {
-          "id": "auto-79b31c3b3318",
-          "title": "消息称苹果为消化内存涨价，提议下调 iPhone 18 Pro / Max 的 OLED 面板采购价",
-          "originalTitle": "",
-          "source": "IT之家",
-          "brand": "iPhone",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-07-24",
-          "time": "23:42",
-          "publishedAt": "2026-07-24T23:42:52.000Z",
-          "url": "https://www.ithome.com/0/981/411.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/7/440f5913-86f3-4db9-b2c7-79ad00ca1b86.jpg",
-          "verdict": "先看",
-          "takeaway": "IT之家 7 月 25 日消息，韩媒 The Elec 昨日（7 月 24 日）发布博文，报道称苹果公司为更好消化内存等存储元件供应短缺导致的成本涨价，在 iPhone 18 Pro 和 iPhone 18 Pro Max 上，已提议下调 OLED 面板采购价格。 报道称苹果已提议希望将适用于 iPhone 18 Pro 和 iPhone 18 Pro M…",
-          "detail": "IT之家 7 月 25 日消息，韩媒 The Elec 昨日（7 月 24 日）发布博文，报道称苹果公司为更好消化内存等存储元件供应短缺导致的成本涨价，在 iPhone 18 Pro 和 iPhone 18 Pro Max 上，已提议下调 OLED 面板采购价格。 报道称苹果已提议希望将适用于 iPhone 18 Pro 和 iPhone 18 Pro M…",
-          "keyPoints": [
-            "屏幕形态",
-            "成本 / 价格",
-            "爆料来源"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
         {
           "id": "newsnow-149e9fc3bd60",
           "title": "兄弟们苹果这个售后态度这么好的吗？？[吃瓜]今天对象收了一个带care服务的17pm，所以给沈阳中街的苹果 Store打电话，想咨询一下苹果care的相关问题[微笑]，我撒谎说我骑自行车手机飞出去屏幕坏了，想问一下走care服务换屏幕需要什么？",
@@ -200,6 +175,29 @@ window.phoneRadarDaily = {
           "detail": "IT之家 7 月 25 日消息，一款型号为 SM-E476B 的三星新机前天现身 GeekBench 跑分数据库， 录得单核 998 分、多核 3090 分的成绩 ，科技媒体 GSMArena 认为该机是 Galaxy F70 Pro。 跑分结果显示，该机搭载高通 SM6475 芯片，对应骁龙 6 Gen 3。该处理器采用八核设计，性能核最高主频可达 2.…",
           "keyPoints": [
             "芯片 / 性能"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "newsnow-4065028c1890",
+          "title": "小米折叠屏新机入网公示：备案搭载多款大模型",
+          "originalTitle": "",
+          "source": "酷安热榜",
+          "brand": "Xiaomi",
+          "type": "爆料",
+          "trust": "高关注爆料源",
+          "date": "2026-07-25",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://www.coolapk.com/feed/72922533",
+          "image": "",
+          "verdict": "先看",
+          "takeaway": "小米折叠屏新机入网公示：备案搭载多款大模型",
+          "detail": "小米折叠屏新机入网公示：备案搭载多款大模型",
+          "keyPoints": [
+            "屏幕形态"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
@@ -388,26 +386,26 @@ window.phoneRadarDaily = {
       "hint": "看方向，不急着当购买依据。",
       "items": [
         {
-          "id": "auto-6dc0e6ecd584",
-          "title": "谷歌确认 Pixel 11 系列手机将涨价，后续 Android 系统将提升内存优化",
+          "id": "auto-15a06d127ee9",
+          "title": "Samsung 折叠屏相关消息",
           "originalTitle": "",
-          "source": "IT之家",
-          "brand": "Pixel",
+          "source": "SamMobile",
+          "brand": "Samsung",
           "type": "爆料",
           "trust": "媒体汇总",
-          "date": "2026-07-24",
-          "time": "23:03",
-          "publishedAt": "2026-07-24T23:03:01.000Z",
-          "url": "https://www.ithome.com/0/981/403.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/7/da6da3f5-1b22-4771-9a15-ea9c8c12371e.jpg",
-          "verdict": "先看",
-          "takeaway": "IT之家 7 月 25 日消息，谷歌设备与服务部门副总裁沙基尔 · 巴卡特（Shakil Barkat）昨天接受外媒 9To5Google 采访，确认 Pixel 11 系列手机将涨价。 巴卡特表示，谷歌和所有消费电子公司一样，都在经历前所未有的内存涨价。摩根士丹利数据显示，2025 年 1GB 内存的价格约 2.8 美元（IT之家注：现汇率约合 19 元…",
-          "detail": "IT之家 7 月 25 日消息，谷歌设备与服务部门副总裁沙基尔 · 巴卡特（Shakil Barkat）昨天接受外媒 9To5Google 采访，确认 Pixel 11 系列手机将涨价。 巴卡特表示，谷歌和所有消费电子公司一样，都在经历前所未有的内存涨价。摩根士丹利数据显示，2025 年 1GB 内存的价格约 2.8 美元（IT之家注：现汇率约合 19 元…",
+          "date": "2026-07-25",
+          "time": "03:55",
+          "publishedAt": "2026-07-25T03:55:27.000Z",
+          "url": "https://www.sammobile.com/news/galaxy-z-fold-8-ultra-gets-apv-codec-cine-lut-four-cinema-presets/",
+          "image": "https://www.sammobile.com/wp-content/uploads/2026/07/Galaxy-Z-Fold-8-Ultra-APV-codec-2-1920x1080.jpg",
+          "verdict": "可略过",
+          "takeaway": "Samsung 影像能力相关宣传或案例，主要看是否透露拍摄能力变化。",
+          "detail": "Samsung 折叠屏相关消息。重点看折痕、铰链、厚度、屏幕可靠性和重量是否有实质改善。",
           "keyPoints": [
-            "成本 / 价格"
+            "影像硬件"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "影响购买预算，值得先看。",
+          "impact": "影响拍照体验，买旗舰机时值得关注。",
           "action": "有具体参数就记录到参数库；没有参数就先收藏。"
         }
       ]
