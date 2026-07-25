@@ -1,5 +1,5 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-07-25T21:08:02.218Z",
+  "updatedAt": "2026-07-25T23:11:33.337Z",
   "issueDate": "2026-07-25",
   "issue": "VOL.260725",
   "title": "手机情报日报",
@@ -116,7 +116,7 @@ window.phoneRadarDaily = {
           "title": "数码闲聊站：最新一轮排期，大概率9月登场的直板新机： iPhone 18系列、华为Mate…",
           "originalTitle": "",
           "source": "数码闲聊站",
-          "brand": "Huawei",
+          "brand": "HONOR",
           "type": "爆料",
           "trust": "高关注爆料源",
           "date": "2026-07-25",
@@ -125,8 +125,8 @@ window.phoneRadarDaily = {
           "url": "https://weibo.com/6048569942/RakdRtm7z",
           "image": "",
           "verdict": "先看",
-          "takeaway": "最新一轮排期，大概率9月登场的直板新机： iPhone 18系列、华为Mate90系列、vivo X500系列、OPPO Find X10系列、小米18系列……",
-          "detail": "最新一轮排期，大概率9月登场的直板新机： iPhone 18系列、华为Mate90系列、vivo X500系列、OPPO Find X10系列、小米18系列……",
+          "takeaway": "最新一轮排期，大概率9月登场的直板新机： iPhone 18系列、华为Mate90系列、vivo X500系列、OPPO Find X10系列、小米18系列、荣耀Magic9系列……",
+          "detail": "最新一轮排期，大概率9月登场的直板新机： iPhone 18系列、华为Mate90系列、vivo X500系列、OPPO Find X10系列、小米18系列、荣耀Magic9系列……",
           "keyPoints": [
             "爆料来源"
           ],

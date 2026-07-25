@@ -1,6 +1,26 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-07-25T21:08:02.218Z",
+  "updatedAt": "2026-07-25T23:11:33.337Z",
   "news": [
+    {
+      "id": "auto-1453253011a0",
+      "title": "华纳兄弟起诉亚马逊，指其公然无视法律挖角多名高管",
+      "source": "IT之家",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-25",
+      "time": "22:51",
+      "publishedAt": "2026-07-25T22:51:31.000Z",
+      "url": "https://www.ithome.com/0/981/606.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/7/48ed49d7-b3e2-487c-a9e7-55ae76d265cd.png?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 7 月 26 日消息，据外媒 TechCrunch 前天报道，华纳兄弟探索公司本周提起诉讼， 指控亚马逊以不正当竞争的形式挖走多名员工 。 IT之家从原报道获悉，华纳兄弟认为亚马逊一直在仓促挖角多名签下合同的员工，其中包括 HBO Max 营销主管 Pia Barlow，她近期已经加入亚马逊 MGM Studios。华纳兄弟表示，Barlow 的…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "coolapk-user-eddb4e27f138",
       "title": "竹本青：#一加13# #沙雕乐园#",
@@ -305,8 +325,8 @@ window.phoneRadarAuto = {
       "id": "weibo-6a7db69082e9",
       "title": "数码闲聊站：最新一轮排期，大概率9月登场的直板新机： iPhone 18系列、华为Mate…",
       "source": "数码闲聊站",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-07-25",
@@ -314,9 +334,9 @@ window.phoneRadarAuto = {
       "publishedAt": "2026-07-25T08:51:00.000Z",
       "url": "https://weibo.com/6048569942/RakdRtm7z",
       "image": "",
-      "summary": "最新一轮排期，大概率9月登场的直板新机： iPhone 18系列、华为Mate90系列、vivo X500系列、OPPO Find X10系列、小米18系列……",
+      "summary": "最新一轮排期，大概率9月登场的直板新机： iPhone 18系列、华为Mate90系列、vivo X500系列、OPPO Find X10系列、小米18系列、荣耀Magic9系列……",
       "tags": [
-        "Huawei",
+        "HONOR",
         "爆料",
         "微博"
       ]
@@ -562,26 +582,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-a108f747ca47",
-      "title": "入职🌸了，身边领导都是华子，想换手机是买pura80pro➕还是pura90pro。我看百亿补贴90pro是12➕256而80pro➕是16➕512。都说买新不买久，但是参数和拍照感觉80pro➕都强于90pro。 #鸿蒙6# #华为Pura90ProMax# #华为Mate80ProMax#",
-      "source": "酷安热榜",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-07-25",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72924735",
-      "image": "",
-      "summary": "入职🌸了，身边领导都是华子，想换手机是买pura80pro➕还是pura90pro。我看百亿补贴90pro是12➕256而80pro➕是16➕512。都说买新不买久，但是参数和拍照感觉80pro➕都强于90pro。 #鸿蒙6# #华为Pura90ProMax# #华为Mate80ProMax#",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
       "id": "newsnow-eebcdf49d578",
       "title": "这颜值还要啥小米金沙江两百多这么贵 还得是pdd 36块钱的小米超薄自带线有性价比我的还是26年5月生产的[受虐滑稽][受虐滑稽][受虐滑稽] #iPhone17# #iPhone17Pro# #iPhone17ProMax#",
       "source": "酷安热榜",
@@ -597,6 +597,26 @@ window.phoneRadarAuto = {
       "summary": "这颜值还要啥小米金沙江两百多这么贵 还得是pdd 36块钱的小米超薄自带线有性价比我的还是26年5月生产的[受虐滑稽][受虐滑稽][受虐滑稽] #iPhone17# #iPhone17Pro# #iPhone17ProMax#",
       "tags": [
         "Xiaomi",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-a108f747ca47",
+      "title": "入职🌸了，身边领导都是华子，想换手机是买pura80pro➕还是pura90pro。我看百亿补贴90pro是12➕256而80pro➕是16➕512。都说买新不买久，但是参数和拍照感觉80pro➕都强于90pro。 #鸿蒙6# #华为Pura90ProMax# #华为Mate80ProMax#",
+      "source": "酷安热榜",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-07-25",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/72924735",
+      "image": "",
+      "summary": "入职🌸了，身边领导都是华子，想换手机是买pura80pro➕还是pura90pro。我看百亿补贴90pro是12➕256而80pro➕是16➕512。都说买新不买久，但是参数和拍照感觉80pro➕都强于90pro。 #鸿蒙6# #华为Pura90ProMax# #华为Mate80ProMax#",
+      "tags": [
+        "Huawei",
         "爆料",
         "NewsNow"
       ]
