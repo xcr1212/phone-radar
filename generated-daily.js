@@ -1,5 +1,5 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-07-26T13:55:02.591Z",
+  "updatedAt": "2026-07-26T15:21:06.064Z",
   "issueDate": "2026-07-26",
   "issue": "VOL.260726",
   "title": "手机情报日报",
@@ -436,29 +436,6 @@ window.phoneRadarDaily = {
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         },
         {
-          "id": "newsnow-86ff734b68b4",
-          "title": "店主卖 7.9 元手机壳时标注「荣耀 XX 型号」被荣耀索赔 38 万元，如何从法律角度解读？",
-          "originalTitle": "",
-          "source": "知乎热榜",
-          "brand": "HONOR",
-          "type": "市场报告",
-          "trust": "媒体汇总",
-          "date": "2026-07-26",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://www.zhihu.com/question/2064405742971352764",
-          "image": "",
-          "verdict": "扫一眼",
-          "takeaway": "店主卖 7.9 元手机壳时标注「荣耀 XX 型号」被荣耀索赔 38 万元，如何从法律角度解读？",
-          "detail": "店主卖 7.9 元手机壳时标注「荣耀 XX 型号」被荣耀索赔 38 万元，如何从法律角度解读？",
-          "keyPoints": [
-            "市场报告"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "目前更像背景信息，对买手机影响不大。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
-        {
           "id": "coolapk-user-eddb4e27f138",
           "title": "竹本青：#一加13# #沙雕乐园#",
           "originalTitle": "",
@@ -480,6 +457,29 @@ window.phoneRadarDaily = {
           "confidence": "可信度较高，但仍属于发布前线索。",
           "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        },
+        {
+          "id": "auto-7a014fc98dc1",
+          "title": "HONOR 折叠屏相关消息",
+          "originalTitle": "",
+          "source": "Gizmochina",
+          "brand": "HONOR",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-07-26",
+          "time": "14:43",
+          "publishedAt": "2026-07-26T14:43:42.000Z",
+          "url": "https://www.gizmochina.com/2026/07/26/samsung-galaxy-z-fold8-ultra-vs-honor-magic-v6/",
+          "image": "https://www.gizmochina.com/wp-content/uploads/2026/07/image-95-300x182.png?x92417",
+          "verdict": "可略过",
+          "takeaway": "HONOR 折叠屏相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
+          "detail": "HONOR 折叠屏相关消息。重点看折痕、铰链、厚度、屏幕可靠性和重量是否有实质改善。",
+          "keyPoints": [
+            "影像硬件"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "影响拍照体验，买旗舰机时值得关注。",
+          "action": "有具体参数就记录到参数库；没有参数就先收藏。"
         }
       ]
     }

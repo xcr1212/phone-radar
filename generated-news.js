@@ -1,6 +1,26 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-07-26T13:55:02.591Z",
+  "updatedAt": "2026-07-26T15:21:06.064Z",
   "news": [
+    {
+      "id": "auto-7a014fc98dc1",
+      "title": "Samsung Galaxy Z Fold8 Ultra vs HONOR Magic V6: Is Samsung Worth the Extra $800?",
+      "source": "Gizmochina",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-26",
+      "time": "14:43",
+      "publishedAt": "2026-07-26T14:43:42.000Z",
+      "url": "https://www.gizmochina.com/2026/07/26/samsung-galaxy-z-fold8-ultra-vs-honor-magic-v6/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/07/image-95-300x182.png?x92417",
+      "summary": "Samsung Galaxy Z Fold8 Ultra and HONOR Magic V6 represent two very different approaches to the premium foldable experience. Samsung focuses on flagship cameras, productivity featu…",
+      "tags": [
+        "HONOR",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-90b664d2b552",
       "title": "vivo X300 E 手机完整规格曝光：6.59 英寸 1.5K OLED 面板、骁龙 8 Gen 5 处理器",
@@ -402,46 +422,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-14c1e603f0dd",
-      "title": "广电卡不推荐办理，限速严重，之前有个 10-20m 的速度，现在只有不到 10 的速度，普遍在 5 左右，很差劲，限速严重#路由器# #华为Mate80ProMax#",
-      "source": "酷安热榜",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-07-26",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72928430",
-      "image": "",
-      "summary": "广电卡不推荐办理，限速严重，之前有个 10-20m 的速度，现在只有不到 10 的速度，普遍在 5 左右，很差劲，限速严重#路由器# #华为Mate80ProMax#",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-1a39befe6bec",
-      "title": "都说oppo的系统多么多么流畅，我用起来也没比小米系统好多少，一到夏天各种卡顿，功能还没小米系统多。怪不得厂商喜欢年底发布手机，一到夏天就露馅#HyperOS3# #ColorOS16# #OPPOFindX9Pro#",
-      "source": "酷安热榜",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-07-26",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72928763",
-      "image": "",
-      "summary": "都说oppo的系统多么多么流畅，我用起来也没比小米系统好多少，一到夏天各种卡顿，功能还没小米系统多。怪不得厂商喜欢年底发布手机，一到夏天就露馅#HyperOS3# #ColorOS16# #OPPOFindX9Pro#",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
       "id": "newsnow-d33eebd55663",
       "title": "【华为李小龙回应电池锁容：有些手机不是故意锁，而是设计时就没考虑低压下工作】",
       "source": "酷安热榜",
@@ -482,6 +462,46 @@ window.phoneRadarAuto = {
       ]
     },
     {
+      "id": "newsnow-14c1e603f0dd",
+      "title": "广电卡不推荐办理，限速严重，之前有个 10-20m 的速度，现在只有不到 10 的速度，普遍在 5 左右，很差劲，限速严重#路由器# #华为Mate80ProMax#",
+      "source": "酷安热榜",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-07-26",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/72928430",
+      "image": "",
+      "summary": "广电卡不推荐办理，限速严重，之前有个 10-20m 的速度，现在只有不到 10 的速度，普遍在 5 左右，很差劲，限速严重#路由器# #华为Mate80ProMax#",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-1a39befe6bec",
+      "title": "都说oppo的系统多么多么流畅，我用起来也没比小米系统好多少，一到夏天各种卡顿，功能还没小米系统多。怪不得厂商喜欢年底发布手机，一到夏天就露馅#HyperOS3# #ColorOS16# #OPPOFindX9Pro#",
+      "source": "酷安热榜",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-07-26",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/72928763",
+      "image": "",
+      "summary": "都说oppo的系统多么多么流畅，我用起来也没比小米系统好多少，一到夏天各种卡顿，功能还没小米系统多。怪不得厂商喜欢年底发布手机，一到夏天就露馅#HyperOS3# #ColorOS16# #OPPOFindX9Pro#",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
       "id": "newsnow-9dbd9b038e79",
       "title": "全球首创！小米用户单个换图标技术引擎！哪个图标不喜欢就换哪个～懒得动手？那就直接用预置超清图标包，一键导入，iOS液态玻璃简约设计，小白轻松上手教程！建议点赞收藏 #MIUI主题# #HyperOS主题# #HyperOS4#",
       "source": "酷安热榜",
@@ -517,26 +537,6 @@ window.phoneRadarAuto = {
       "summary": "如何看待数码博主极客湾最新一期的《续航大横评》？这会给国产手机厂商和市场带来什么样的影响？",
       "tags": [
         "行业",
-        "市场报告",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-86ff734b68b4",
-      "title": "店主卖 7.9 元手机壳时标注「荣耀 XX 型号」被荣耀索赔 38 万元，如何从法律角度解读？",
-      "source": "知乎热榜",
-      "brand": "HONOR",
-      "model": "HONOR 相关机型",
-      "type": "市场报告",
-      "trust": "媒体汇总",
-      "date": "2026-07-26",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.zhihu.com/question/2064405742971352764",
-      "image": "",
-      "summary": "店主卖 7.9 元手机壳时标注「荣耀 XX 型号」被荣耀索赔 38 万元，如何从法律角度解读？",
-      "tags": [
-        "HONOR",
         "市场报告",
         "NewsNow"
       ]
