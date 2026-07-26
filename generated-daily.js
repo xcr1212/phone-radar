@@ -1,5 +1,5 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-07-26T15:21:06.064Z",
+  "updatedAt": "2026-07-26T17:14:26.920Z",
   "issueDate": "2026-07-26",
   "issue": "VOL.260726",
   "title": "手机情报日报",
@@ -390,29 +390,6 @@ window.phoneRadarDaily = {
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         },
         {
-          "id": "newsnow-9dbd9b038e79",
-          "title": "全球首创！小米用户单个换图标技术引擎！哪个图标不喜欢就换哪个～懒得动手？那就直接用预置超清图标包，一键导入，iOS液态玻璃简约设计，小白轻松上手教程！建议点赞收藏 #MIUI主题# #HyperOS主题# #HyperOS4#",
-          "originalTitle": "",
-          "source": "酷安热榜",
-          "brand": "Xiaomi",
-          "type": "爆料",
-          "trust": "高关注爆料源",
-          "date": "2026-07-26",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://www.coolapk.com/feed/72940432",
-          "image": "",
-          "verdict": "先看",
-          "takeaway": "全球首创！小米用户单个换图标技术引擎！哪个图标不喜欢就换哪个～懒得动手？那就直接用预置超清图标包，一键导入，iOS液态玻璃简约设计，小白轻松上手教程！建议点赞收藏 #MIUI主题# #HyperOS主题# #HyperOS4#",
-          "detail": "全球首创！小米用户单个换图标技术引擎！哪个图标不喜欢就换哪个～懒得动手？那就直接用预置超清图标包，一键导入，iOS液态玻璃简约设计，小白轻松上手教程！建议点赞收藏 #MIUI主题# #HyperOS主题# #HyperOS4#",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
-        {
           "id": "newsnow-14c1e603f0dd",
           "title": "广电卡不推荐办理，限速严重，之前有个 10-20m 的速度，现在只有不到 10 的速度，普遍在 5 左右，很差劲，限速严重#路由器# #华为Mate80ProMax#",
           "originalTitle": "",
@@ -480,6 +457,29 @@ window.phoneRadarDaily = {
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "影响拍照体验，买旗舰机时值得关注。",
           "action": "有具体参数就记录到参数库；没有参数就先收藏。"
+        },
+        {
+          "id": "auto-a41e43d7d03a",
+          "title": "Samsung 折叠屏相关消息",
+          "originalTitle": "",
+          "source": "9to5Google",
+          "brand": "Samsung",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-07-26",
+          "time": "13:00",
+          "publishedAt": "2026-07-26T13:00:00.000Z",
+          "url": "https://9to5google.com/2026/07/26/samsung-galaxy-z-fold-8-preparing-for-battle/",
+          "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/07/galaxy-z-fold-8-series-8.jpg?quality=82&strip=all&w=1600",
+          "verdict": "可略过",
+          "takeaway": "Samsung 折叠屏相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
+          "detail": "Samsung 折叠屏相关消息。重点看折痕、铰链、厚度、屏幕可靠性和重量是否有实质改善。",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         }
       ]
     }
