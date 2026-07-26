@@ -1,11 +1,11 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-07-26T03:54:08.667Z",
+  "updatedAt": "2026-07-26T06:48:03.565Z",
   "issueDate": "2026-07-26",
   "issue": "VOL.260726",
   "title": "手机情报日报",
-  "intro": "今日筛出 21 条重点，其中 8 条是重点爆料，包含 5 条 iPhone 相关、1 条官方确认、1 条参数线索。",
+  "intro": "今日筛出 20 条重点，其中 8 条是重点爆料，包含 5 条 iPhone 相关、1 条官方确认、1 条参数线索。",
   "stats": {
-    "total": 21,
+    "total": 20,
     "iphone": 5,
     "leaks": 8,
     "official": 1,
@@ -17,6 +17,55 @@ window.phoneRadarDaily = {
       "title": "重点爆料",
       "hint": "机模、配色、影像、屏幕、电池和芯片线索先看。",
       "items": [
+        {
+          "id": "auto-896739652265",
+          "title": "vivo X300 E 手机现身中国电信终端产品库：骁龙 8 Gen5 处理器、7200mAh 电池，明日预售",
+          "originalTitle": "",
+          "source": "IT之家",
+          "brand": "vivo",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-07-26",
+          "time": "04:29",
+          "publishedAt": "2026-07-26T04:29:35.000Z",
+          "url": "https://www.ithome.com/0/981/682.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/7/4d55fe22-9456-404e-9e75-0786cee515a6.jpg",
+          "verdict": "先看",
+          "takeaway": "IT之家 7 月 26 日消息，型号为 V2612A 的 vivo X300 E 手机已现身中国电信终端产品库， 拥有 8GB+256GB、12GB+256GB、12GB+512GB 三种规格版本 ，产品零售价格尚未公布。 相关页面显示， vivo X300 E 手机配备 6.59 英寸居中单挖孔屏 （从四边等窄的设计来看，预计是 OLED 屏幕），采用直…",
+          "detail": "IT之家 7 月 26 日消息，型号为 V2612A 的 vivo X300 E 手机已现身中国电信终端产品库， 拥有 8GB+256GB、12GB+256GB、12GB+512GB 三种规格版本 ，产品零售价格尚未公布。 相关页面显示， vivo X300 E 手机配备 6.59 英寸居中单挖孔屏 （从四边等窄的设计来看，预计是 OLED 屏幕），采用直…",
+          "keyPoints": [
+            "屏幕形态",
+            "电池 / 充电",
+            "芯片 / 性能",
+            "成本 / 价格"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "auto-92b0f0e35ce4",
+          "title": "华为李小龙：有些手机其实不是故意锁容量不让消费者用，而是因为设计时就没考虑低压下工作",
+          "originalTitle": "",
+          "source": "IT之家",
+          "brand": "Huawei",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-07-26",
+          "time": "03:55",
+          "publishedAt": "2026-07-26T03:55:10.000Z",
+          "url": "https://www.ithome.com/0/981/677.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/7/0442e237-01e7-488e-a8aa-f7ca93d080b3.png?x-bce-process=image/format,f_auto",
+          "verdict": "先看",
+          "takeaway": "IT之家 7 月 26 日消息，关于手机电池锁容的话题今日再度引发网友热议，华为终端 BG CTO 李小龙今日发文，解释了“电池锁容”的问题： 有些手机其实不是故意锁容量不让消费者用， 而是因为这些手机设计时就没考虑低压下工作 ，而当前的高硅电池和传统石墨电池相比，在低压下仍然能释放出不少容量。 手机提前关机，这些容量就用不到了 。 据IT之家此前报道，李…",
+          "detail": "IT之家 7 月 26 日消息，关于手机电池锁容的话题今日再度引发网友热议，华为终端 BG CTO 李小龙今日发文，解释了“电池锁容”的问题： 有些手机其实不是故意锁容量不让消费者用， 而是因为这些手机设计时就没考虑低压下工作 ，而当前的高硅电池和传统石墨电池相比，在低压下仍然能释放出不少容量。 手机提前关机，这些容量就用不到了 。 据IT之家此前报道，李…",
+          "keyPoints": [
+            "电池 / 充电"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
         {
           "id": "auto-45945dd0ce05",
           "title": "三星确认其智能眼镜 Galaxy Glasses 支持连接苹果 iPhone，但部分功能将独占自家生态",
@@ -60,6 +109,30 @@ window.phoneRadarDaily = {
             "爆料来源"
           ],
           "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "coolapk-user-41017edf0f0d",
+          "title": "竹本青：【极客湾曝光媒体机续航作弊：芯片特挑+策略特调，可比零售机多3小时续航】 7月26日，数码评测机构“极客湾” 在最…",
+          "originalTitle": "",
+          "source": "竹本青",
+          "brand": "Huawei",
+          "type": "爆料",
+          "trust": "高可信爆料",
+          "date": "2026-07-26",
+          "time": "02:44",
+          "publishedAt": "2026-07-26T02:44:46.000Z",
+          "url": "https://www.coolapk.com/feed/72943232",
+          "image": "http://image.coolapk.com/feed/2026/0726/10/4248714_8883ddd5_3868_0077_708@2560x1440.jpg",
+          "verdict": "先看",
+          "takeaway": "【极客湾曝光媒体机续航作弊：芯片特挑+策略特调，可比零售机多3小时续航】 7月26日，数码评测机构“极客湾” 在最新视频中再次揭露行业潜规则：媒体机续航作弊。 创始人云飞称，过去一年，仅有苹果、华为送测的媒体机没有出现“续航特挑”或“特调续航”，其余所有厂商的任何一台媒体机，均与零售版存在不同程度的续航差异。 据介绍，媒体机续航特调主要分为两个层级： 一、…",
+          "detail": "【极客湾曝光媒体机续航作弊：芯片特挑+策略特调，可比零售机多3小时续航】 7月26日，数码评测机构“极客湾” 在最新视频中再次揭露行业潜规则：媒体机续航作弊。 创始人云飞称，过去一年，仅有苹果、华为送测的媒体机没有出现“续航特挑”或“特调续航”，其余所有厂商的任何一台媒体机，均与零售版存在不同程度的续航差异。 据介绍，媒体机续航特调主要分为两个层级： 一、…",
+          "keyPoints": [
+            "电池 / 充电",
+            "芯片 / 性能"
+          ],
+          "confidence": "可信度较高，但仍属于发布前线索。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
@@ -110,97 +183,26 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
-          "id": "coolapk-user-41017edf0f0d",
-          "title": "竹本青：极客湾曝光媒体机续航作弊特调 #今日热点#",
+          "id": "coolapk-user-db11ebdd7b28",
+          "title": "竹本青：各厂商，前50%能量平均充电功率汇总 图中机型有些截重复了，是因为极客湾的视频就是有重复展示 #ColorOS16…",
           "originalTitle": "",
           "source": "竹本青",
-          "brand": "行业",
+          "brand": "Huawei",
           "type": "爆料",
           "trust": "高可信爆料",
           "date": "2026-07-26",
-          "time": "02:44",
-          "publishedAt": "2026-07-26T02:44:46.000Z",
-          "url": "https://www.coolapk.com/feed/72943232",
-          "image": "http://image.coolapk.com/feed/2026/0726/10/4248714_8883ddd5_3868_0077_708@2560x1440.jpg",
+          "time": "04:00",
+          "publishedAt": "2026-07-26T04:00:01.000Z",
+          "url": "https://www.coolapk.com/feed/72944159",
+          "image": "http://image.coolapk.com/feed/2026/0726/12/4248714_7a5d447d_8400_1828_103@1080x4256.jpg",
           "verdict": "先看",
-          "takeaway": "极客湾曝光媒体机续航作弊特调 #今日热点#",
-          "detail": "极客湾曝光媒体机续航作弊特调 #今日热点#",
+          "takeaway": "各厂商，前50%能量平均充电功率汇总 图中机型有些截重复了，是因为极客湾的视频就是有重复展示 #ColorOS16# #HyperOS3# #鸿蒙6#",
+          "detail": "各厂商，前50%能量平均充电功率汇总 图中机型有些截重复了，是因为极客湾的视频就是有重复展示 #ColorOS16# #HyperOS3# #鸿蒙6#",
           "keyPoints": [
+            "外观 / 配色 / 尺寸",
             "电池 / 充电"
           ],
           "confidence": "可信度较高，但仍属于发布前线索。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "auto-4ffe9d301fd6",
-          "title": "Xiaomi 发布 / 上市相关消息",
-          "originalTitle": "",
-          "source": "Gizmochina",
-          "brand": "Xiaomi",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-07-26",
-          "time": "01:56",
-          "publishedAt": "2026-07-26T01:56:29.000Z",
-          "url": "https://www.gizmochina.com/2026/07/26/redmi-17-4g-full-specifications-leak-ahead-of-launch/",
-          "image": "https://www.gizmochina.com/wp-content/uploads/2026/07/redmi-17-4g-renders-300x169.jpg?x92417",
-          "verdict": "先看",
-          "takeaway": "Xiaomi 有发布或新功能消息，适合确认是否和新机有关。",
-          "detail": "Xiaomi 发布 / 上市相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
-          "keyPoints": [
-            "电池 / 充电",
-            "爆料来源"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "auto-07e4c5887bc7",
-          "title": "vivo 发布 / 上市相关消息",
-          "originalTitle": "",
-          "source": "Gizmochina",
-          "brand": "vivo",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-07-26",
-          "time": "01:27",
-          "publishedAt": "2026-07-26T01:27:53.000Z",
-          "url": "https://www.gizmochina.com/2026/07/26/vivo-x300e-specs-leak-via-china-telecom-listing-ahead-of-july-27-launch/",
-          "image": "https://www.gizmochina.com/wp-content/uploads/2026/07/Vivo-X300e-Announced-300x200.jpg?x92417",
-          "verdict": "先看",
-          "takeaway": "vivo 有发布或新功能消息，适合确认是否和新机有关。",
-          "detail": "vivo 发布 / 上市相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
-          "keyPoints": [
-            "爆料来源"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "auto-1207511b08b7",
-          "title": "Huawei 影像能力相关消息",
-          "originalTitle": "",
-          "source": "Huawei Central",
-          "brand": "Huawei",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-07-25",
-          "time": "10:28",
-          "publishedAt": "2026-07-25T10:28:16.000Z",
-          "url": "https://www.huaweicentral.com/mate-90-could-be-huaweis-first-in-display-camera-phone/",
-          "image": "https://www.huaweicentral.com/wp-content/uploads/2026/05/Mate80ProMax.jpg",
-          "verdict": "先看",
-          "takeaway": "Huawei 影像能力相关宣传或案例，主要看是否透露拍摄能力变化。",
-          "detail": "Huawei 影像能力相关消息。重点看影像功能是否和新机硬件有关，如果只是拍摄案例或营销内容，参考价值会低一些。",
-          "keyPoints": [
-            "影像硬件",
-            "屏幕形态",
-            "爆料来源"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         }
@@ -505,29 +507,6 @@ window.phoneRadarDaily = {
             "爆料"
           ],
           "confidence": "可信度较高，但仍属于发布前线索。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
-        {
-          "id": "auto-a7254c26c9a6",
-          "title": "Samsung 折叠屏相关消息",
-          "originalTitle": "",
-          "source": "SamMobile",
-          "brand": "Samsung",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-07-26",
-          "time": "02:50",
-          "publishedAt": "2026-07-26T02:50:54.000Z",
-          "url": "https://www.sammobile.com/opinion/galaxy-z-fold-8-first-foldable-samsung-made-for-everyone-else/",
-          "image": "",
-          "verdict": "可略过",
-          "takeaway": "Samsung 折叠屏相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
-          "detail": "Samsung 折叠屏相关消息。重点看折痕、铰链、厚度、屏幕可靠性和重量是否有实质改善。",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         }

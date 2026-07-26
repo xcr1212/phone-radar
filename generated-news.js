@@ -1,6 +1,66 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-07-26T03:54:08.667Z",
+  "updatedAt": "2026-07-26T06:48:03.565Z",
   "news": [
+    {
+      "id": "auto-896739652265",
+      "title": "vivo X300 E 手机现身中国电信终端产品库：骁龙 8 Gen5 处理器、7200mAh 电池，明日预售",
+      "source": "IT之家",
+      "brand": "vivo",
+      "model": "vivo 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-26",
+      "time": "04:29",
+      "publishedAt": "2026-07-26T04:29:35.000Z",
+      "url": "https://www.ithome.com/0/981/682.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/7/4d55fe22-9456-404e-9e75-0786cee515a6.jpg",
+      "summary": "IT之家 7 月 26 日消息，型号为 V2612A 的 vivo X300 E 手机已现身中国电信终端产品库， 拥有 8GB+256GB、12GB+256GB、12GB+512GB 三种规格版本 ，产品零售价格尚未公布。 相关页面显示， vivo X300 E 手机配备 6.59 英寸居中单挖孔屏 （从四边等窄的设计来看，预计是 OLED 屏幕），采用直…",
+      "tags": [
+        "vivo",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-db11ebdd7b28",
+      "title": "竹本青：各厂商，前50%能量平均充电功率汇总 图中机型有些截重复了，是因为极客湾的视频就是有重复展示 #ColorOS16…",
+      "source": "竹本青",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-07-26",
+      "time": "04:00",
+      "publishedAt": "2026-07-26T04:00:01.000Z",
+      "url": "https://www.coolapk.com/feed/72944159",
+      "image": "http://image.coolapk.com/feed/2026/0726/12/4248714_7a5d447d_8400_1828_103@1080x4256.jpg",
+      "summary": "各厂商，前50%能量平均充电功率汇总 图中机型有些截重复了，是因为极客湾的视频就是有重复展示 #ColorOS16# #HyperOS3# #鸿蒙6#",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-92b0f0e35ce4",
+      "title": "华为李小龙：有些手机其实不是故意锁容量不让消费者用，而是因为设计时就没考虑低压下工作",
+      "source": "IT之家",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-26",
+      "time": "03:55",
+      "publishedAt": "2026-07-26T03:55:10.000Z",
+      "url": "https://www.ithome.com/0/981/677.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/7/0442e237-01e7-488e-a8aa-f7ca93d080b3.png?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 7 月 26 日消息，关于手机电池锁容的话题今日再度引发网友热议，华为终端 BG CTO 李小龙今日发文，解释了“电池锁容”的问题： 有些手机其实不是故意锁容量不让消费者用， 而是因为这些手机设计时就没考虑低压下工作 ，而当前的高硅电池和传统石墨电池相比，在低压下仍然能释放出不少容量。 手机提前关机，这些容量就用不到了 。 据IT之家此前报道，李…",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-45945dd0ce05",
       "title": "三星确认其智能眼镜 Galaxy Glasses 支持连接苹果 iPhone，但部分功能将独占自家生态",
@@ -43,10 +103,10 @@ window.phoneRadarAuto = {
     },
     {
       "id": "coolapk-user-41017edf0f0d",
-      "title": "竹本青：极客湾曝光媒体机续航作弊特调 #今日热点#",
+      "title": "竹本青：【极客湾曝光媒体机续航作弊：芯片特挑+策略特调，可比零售机多3小时续航】 7月26日，数码评测机构“极客湾” 在最…",
       "source": "竹本青",
-      "brand": "行业",
-      "model": "智能手机市场",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
       "type": "爆料",
       "trust": "高可信爆料",
       "date": "2026-07-26",
@@ -54,9 +114,9 @@ window.phoneRadarAuto = {
       "publishedAt": "2026-07-26T02:44:46.000Z",
       "url": "https://www.coolapk.com/feed/72943232",
       "image": "http://image.coolapk.com/feed/2026/0726/10/4248714_8883ddd5_3868_0077_708@2560x1440.jpg",
-      "summary": "极客湾曝光媒体机续航作弊特调 #今日热点#",
+      "summary": "【极客湾曝光媒体机续航作弊：芯片特挑+策略特调，可比零售机多3小时续航】 7月26日，数码评测机构“极客湾” 在最新视频中再次揭露行业潜规则：媒体机续航作弊。 创始人云飞称，过去一年，仅有苹果、华为送测的媒体机没有出现“续航特挑”或“特调续航”，其余所有厂商的任何一台媒体机，均与零售版存在不同程度的续航差异。 据介绍，媒体机续航特调主要分为两个层级： 一、…",
       "tags": [
-        "行业",
+        "Huawei",
         "爆料",
         "酷安博主"
       ]
@@ -182,26 +242,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-1a39befe6bec",
-      "title": "都说oppo的系统多么多么流畅，我用起来也没比小米系统好多少，一到夏天各种卡顿，功能还没小米系统多。怪不得厂商喜欢年底发布手机，一到夏天就露馅#HyperOS3# #ColorOS16# #OPPOFindX9Pro#",
-      "source": "酷安热榜",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-07-26",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72928763",
-      "image": "",
-      "summary": "都说oppo的系统多么多么流畅，我用起来也没比小米系统好多少，一到夏天各种卡顿，功能还没小米系统多。怪不得厂商喜欢年底发布手机，一到夏天就露馅#HyperOS3# #ColorOS16# #OPPOFindX9Pro#",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
       "id": "newsnow-14c1e603f0dd",
       "title": "广电卡不推荐办理，限速严重，之前有个 10-20m 的速度，现在只有不到 10 的速度，普遍在 5 左右，很差劲，限速严重#路由器# #华为Mate80ProMax#",
       "source": "酷安热榜",
@@ -217,6 +257,26 @@ window.phoneRadarAuto = {
       "summary": "广电卡不推荐办理，限速严重，之前有个 10-20m 的速度，现在只有不到 10 的速度，普遍在 5 左右，很差劲，限速严重#路由器# #华为Mate80ProMax#",
       "tags": [
         "Huawei",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-1a39befe6bec",
+      "title": "都说oppo的系统多么多么流畅，我用起来也没比小米系统好多少，一到夏天各种卡顿，功能还没小米系统多。怪不得厂商喜欢年底发布手机，一到夏天就露馅#HyperOS3# #ColorOS16# #OPPOFindX9Pro#",
+      "source": "酷安热榜",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-07-26",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/72928763",
+      "image": "",
+      "summary": "都说oppo的系统多么多么流畅，我用起来也没比小米系统好多少，一到夏天各种卡顿，功能还没小米系统多。怪不得厂商喜欢年底发布手机，一到夏天就露馅#HyperOS3# #ColorOS16# #OPPOFindX9Pro#",
+      "tags": [
+        "Xiaomi",
         "爆料",
         "NewsNow"
       ]
@@ -275,26 +335,6 @@ window.phoneRadarAuto = {
       "url": "https://www.coolapk.com/feed/72924735",
       "image": "",
       "summary": "入职🌸了，身边领导都是华子，想换手机是买pura80pro➕还是pura90pro。我看百亿补贴90pro是12➕256而80pro➕是16➕512。都说买新不买久，但是参数和拍照感觉80pro➕都强于90pro。 #鸿蒙6# #华为Pura90ProMax# #华为Mate80ProMax#",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-4c2d08d4b057",
-      "title": "韩路感谢华为手机",
-      "source": "微博热搜",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "待验证",
-      "date": "2026-07-26",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://s.weibo.com/weibo?q=%23%E9%9F%A9%E8%B7%AF%E6%84%9F%E8%B0%A2%E5%8D%8E%E4%B8%BA%E6%89%8B%E6%9C%BA%23&t=31&band_rank=10&Refer=top",
-      "image": "",
-      "summary": "韩路感谢华为手机",
       "tags": [
         "Huawei",
         "爆料",
