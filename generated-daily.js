@@ -1,12 +1,12 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-07-26T17:14:26.920Z",
+  "updatedAt": "2026-07-26T19:33:42.212Z",
   "issueDate": "2026-07-26",
   "issue": "VOL.260726",
   "title": "手机情报日报",
-  "intro": "今日筛出 19 条重点，其中 8 条是重点爆料，包含 5 条 iPhone 相关、1 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 19 条重点，其中 8 条是重点爆料，包含 6 条 iPhone 相关、1 条官方确认、0 条参数线索。",
   "stats": {
     "total": 19,
-    "iphone": 5,
+    "iphone": 6,
     "leaks": 8,
     "official": 1,
     "specs": 0
@@ -215,6 +215,29 @@ window.phoneRadarDaily = {
       "hint": "不是硬件爆料，但和 iPhone 体验或路线有关。",
       "items": [
         {
+          "id": "coolapk-user-4355dc4d6f28",
+          "title": "竹本青：【iPhone 17系列 中国区最新销量曝光：超3838万台】 昨日晚间，博主「RD观测」发布第三方统计数据：截至…",
+          "originalTitle": "",
+          "source": "竹本青",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "高可信爆料",
+          "date": "2026-07-26",
+          "time": "19:26",
+          "publishedAt": "2026-07-26T19:26:02.000Z",
+          "url": "https://www.coolapk.com/feed/72954833",
+          "image": "http://image.coolapk.com/feed/2026/0727/03/4248714_21f311be_4059_8628_51@3336x2484.jpg",
+          "verdict": "先看",
+          "takeaway": "【iPhone 17系列 中国区最新销量曝光：超3838万台】 昨日晚间，博主「RD观测」发布第三方统计数据：截至2026年第29周，iPhone 17系列手机在中国市场累计销量约为3838.78万台。 前几周数据如下： 截至2026 W28 —— 约3776.35万 截至2026 W27 —— 约3711.92万 截至2026 W26 —— 约3630.…",
+          "detail": "【iPhone 17系列 中国区最新销量曝光：超3838万台】 昨日晚间，博主「RD观测」发布第三方统计数据：截至2026年第29周，iPhone 17系列手机在中国市场累计销量约为3838.78万台。 前几周数据如下： 截至2026 W28 —— 约3776.35万 截至2026 W27 —— 约3711.92万 截至2026 W26 —— 约3630.…",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "可信度较高，但仍属于发布前线索。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        },
+        {
           "id": "auto-9bbf43c61c96",
           "title": "iPhone 系统功能 / AI 体验相关消息",
           "originalTitle": "",
@@ -332,36 +355,6 @@ window.phoneRadarDaily = {
       ]
     },
     {
-      "id": "launch",
-      "title": "新机与官方发布",
-      "hint": "能直接更新到参数库。",
-      "items": [
-        {
-          "id": "newsnow-1a39befe6bec",
-          "title": "都说oppo的系统多么多么流畅，我用起来也没比小米系统好多少，一到夏天各种卡顿，功能还没小米系统多。怪不得厂商喜欢年底发布手机，一到夏天就露馅#HyperOS3# #ColorOS16# #OPPOFindX9Pro#",
-          "originalTitle": "",
-          "source": "酷安热榜",
-          "brand": "Xiaomi",
-          "type": "爆料",
-          "trust": "高关注爆料源",
-          "date": "2026-07-26",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://www.coolapk.com/feed/72928763",
-          "image": "",
-          "verdict": "先看",
-          "takeaway": "都说oppo的系统多么多么流畅，我用起来也没比小米系统好多少，一到夏天各种卡顿，功能还没小米系统多。怪不得厂商喜欢年底发布手机，一到夏天就露馅#HyperOS3# #ColorOS16# #OPPOFindX9Pro#",
-          "detail": "都说oppo的系统多么多么流畅，我用起来也没比小米系统好多少，一到夏天各种卡顿，功能还没小米系统多。怪不得厂商喜欢年底发布手机，一到夏天就露馅#HyperOS3# #ColorOS16# #OPPOFindX9Pro#",
-          "keyPoints": [
-            "外观 / 配色 / 尺寸"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        }
-      ]
-    },
-    {
       "id": "market",
       "title": "行业趋势",
       "hint": "看方向，不急着当购买依据。",
@@ -382,29 +375,6 @@ window.phoneRadarDaily = {
           "verdict": "先看",
           "takeaway": "前几这么多华为[疑问]真有这么好吗，想按排行榜选手机，是不是不靠谱",
           "detail": "前几这么多华为[疑问]真有这么好吗，想按排行榜选手机，是不是不靠谱",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
-        {
-          "id": "newsnow-14c1e603f0dd",
-          "title": "广电卡不推荐办理，限速严重，之前有个 10-20m 的速度，现在只有不到 10 的速度，普遍在 5 左右，很差劲，限速严重#路由器# #华为Mate80ProMax#",
-          "originalTitle": "",
-          "source": "酷安热榜",
-          "brand": "Huawei",
-          "type": "爆料",
-          "trust": "高关注爆料源",
-          "date": "2026-07-26",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://www.coolapk.com/feed/72928430",
-          "image": "",
-          "verdict": "扫一眼",
-          "takeaway": "广电卡不推荐办理，限速严重，之前有个 10-20m 的速度，现在只有不到 10 的速度，普遍在 5 左右，很差劲，限速严重#路由器# #华为Mate80ProMax#",
-          "detail": "广电卡不推荐办理，限速严重，之前有个 10-20m 的速度，现在只有不到 10 的速度，普遍在 5 左右，很差劲，限速严重#路由器# #华为Mate80ProMax#",
           "keyPoints": [
             "爆料"
           ],
@@ -474,6 +444,29 @@ window.phoneRadarDaily = {
           "verdict": "可略过",
           "takeaway": "Samsung 折叠屏相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
           "detail": "Samsung 折叠屏相关消息。重点看折痕、铰链、厚度、屏幕可靠性和重量是否有实质改善。",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        },
+        {
+          "id": "auto-9e7e1e0e3e3a",
+          "title": "Galaxy S27 折叠屏相关消息",
+          "originalTitle": "",
+          "source": "Android Authority",
+          "brand": "Samsung",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-07-26",
+          "time": "12:00",
+          "publishedAt": "2026-07-26T12:00:25.000Z",
+          "url": "https://www.androidauthority.com/samsung-foldables-galaxy-s27-more-exciting-3690629/",
+          "image": "https://www.androidauthority.com/wp-content/uploads/2026/07/z-fold-8-vs-z-fold-8-ultra-2.jpg",
+          "verdict": "可略过",
+          "takeaway": "Galaxy S27 折叠屏相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
+          "detail": "Galaxy S27 折叠屏相关消息。重点看折痕、铰链、厚度、屏幕可靠性和重量是否有实质改善。",
           "keyPoints": [
             "爆料"
           ],

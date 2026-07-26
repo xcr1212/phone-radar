@@ -1,6 +1,26 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-07-26T17:14:26.920Z",
+  "updatedAt": "2026-07-26T19:33:42.212Z",
   "news": [
+    {
+      "id": "coolapk-user-4355dc4d6f28",
+      "title": "竹本青：【iPhone 17系列 中国区最新销量曝光：超3838万台】 昨日晚间，博主「RD观测」发布第三方统计数据：截至…",
+      "source": "竹本青",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-07-26",
+      "time": "19:26",
+      "publishedAt": "2026-07-26T19:26:02.000Z",
+      "url": "https://www.coolapk.com/feed/72954833",
+      "image": "http://image.coolapk.com/feed/2026/0727/03/4248714_21f311be_4059_8628_51@3336x2484.jpg",
+      "summary": "【iPhone 17系列 中国区最新销量曝光：超3838万台】 昨日晚间，博主「RD观测」发布第三方统计数据：截至2026年第29周，iPhone 17系列手机在中国市场累计销量约为3838.78万台。 前几周数据如下： 截至2026 W28 —— 约3776.35万 截至2026 W27 —— 约3711.92万 截至2026 W26 —— 约3630.…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "酷安博主"
+      ]
+    },
     {
       "id": "auto-c237ac5cb81a",
       "title": "'Apple Upgrade' Program Launching on Tuesday",
@@ -442,26 +462,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-d33eebd55663",
-      "title": "【华为李小龙回应电池锁容：有些手机不是故意锁，而是设计时就没考虑低压下工作】",
-      "source": "酷安热榜",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-07-26",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72947472",
-      "image": "",
-      "summary": "【华为李小龙回应电池锁容：有些手机不是故意锁，而是设计时就没考虑低压下工作】",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
       "id": "newsnow-aecef58fab79",
       "title": "前几这么多华为[疑问]真有这么好吗，想按排行榜选手机，是不是不靠谱",
       "source": "酷安热榜",
@@ -482,8 +482,8 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-14c1e603f0dd",
-      "title": "广电卡不推荐办理，限速严重，之前有个 10-20m 的速度，现在只有不到 10 的速度，普遍在 5 左右，很差劲，限速严重#路由器# #华为Mate80ProMax#",
+      "id": "newsnow-d33eebd55663",
+      "title": "【华为李小龙回应电池锁容：有些手机不是故意锁，而是设计时就没考虑低压下工作】",
       "source": "酷安热榜",
       "brand": "Huawei",
       "model": "Huawei 相关机型",
@@ -492,31 +492,11 @@ window.phoneRadarAuto = {
       "date": "2026-07-26",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72928430",
+      "url": "https://www.coolapk.com/feed/72947472",
       "image": "",
-      "summary": "广电卡不推荐办理，限速严重，之前有个 10-20m 的速度，现在只有不到 10 的速度，普遍在 5 左右，很差劲，限速严重#路由器# #华为Mate80ProMax#",
+      "summary": "【华为李小龙回应电池锁容：有些手机不是故意锁，而是设计时就没考虑低压下工作】",
       "tags": [
         "Huawei",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-1a39befe6bec",
-      "title": "都说oppo的系统多么多么流畅，我用起来也没比小米系统好多少，一到夏天各种卡顿，功能还没小米系统多。怪不得厂商喜欢年底发布手机，一到夏天就露馅#HyperOS3# #ColorOS16# #OPPOFindX9Pro#",
-      "source": "酷安热榜",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-07-26",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72928763",
-      "image": "",
-      "summary": "都说oppo的系统多么多么流畅，我用起来也没比小米系统好多少，一到夏天各种卡顿，功能还没小米系统多。怪不得厂商喜欢年底发布手机，一到夏天就露馅#HyperOS3# #ColorOS16# #OPPOFindX9Pro#",
-      "tags": [
-        "Xiaomi",
         "爆料",
         "NewsNow"
       ]
