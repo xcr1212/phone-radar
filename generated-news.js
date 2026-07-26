@@ -1,6 +1,26 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-07-26T21:11:02.075Z",
+  "updatedAt": "2026-07-26T23:10:51.290Z",
   "news": [
+    {
+      "id": "auto-1a5cee9dbe3f",
+      "title": "华为 Mate 80 系列手机最新销量数据曝光，预计上周已破 800 万台",
+      "source": "IT之家",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-26",
+      "time": "23:06",
+      "publishedAt": "2026-07-26T23:06:01.000Z",
+      "url": "https://www.ithome.com/0/981/817.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/7/af1fc6a4-75f1-4378-af3b-10db52379f5b.png?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 7 月 27 日消息，据长期关注国内手机市场份额的数码博主 @RD观测 爆料，截至 2026 年第 29 周（7 月 13 日-7 月 19 日）， 华为 Mate 80 系列手机的销量约 792.05 万台 。 值得一提的是，博主此次分享的销量数据日期区间为 7 月 13 日-7 月 19 日，而最新日期为 7 月 27 日，按照系列机型周增超…",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "coolapk-user-4355dc4d6f28",
       "title": "竹本青：【iPhone 17系列 中国区最新销量曝光：周增约62.43万台，累计突破3838万台】 昨日晚间，博主「RD观…",
@@ -339,6 +359,26 @@ window.phoneRadarAuto = {
         "Samsung",
         "爆料",
         "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-41017edf0f0d",
+      "title": "竹本青：极客湾曝光媒体机续航作弊：芯片特挑+策略特调，可比零售机多3小时续航",
+      "source": "竹本青",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-07-26",
+      "time": "02:44",
+      "publishedAt": "2026-07-26T02:44:46.000Z",
+      "url": "https://www.coolapk.com/feed/72943232",
+      "image": "http://image.coolapk.com/feed/2026/0726/10/4248714_8883ddd5_3868_0077_708@2560x1440.jpg",
+      "summary": "【极客湾曝光媒体机续航作弊：芯片特挑+策略特调，可比零售机多3小时续航】 7月26日，数码评测机构“极客湾” 在最新视频中再次揭露行业潜规则：媒体机续航作弊。 创始人云飞称，过去一年，仅有苹果、华为送测的媒体机没有出现“续航特挑”或“特调续航”，其余所有厂商的任何一台媒体机，均与零售版存在不同程度的续航差异。 据介绍，媒体机续航特调主要分为两个层级： 一、…",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "酷安博主"
       ]
     },
     {

@@ -1,11 +1,11 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-07-26T21:11:02.075Z",
+  "updatedAt": "2026-07-26T23:10:51.290Z",
   "issueDate": "2026-07-26",
   "issue": "VOL.260726",
   "title": "手机情报日报",
-  "intro": "今日筛出 19 条重点，其中 8 条是重点爆料，包含 6 条 iPhone 相关、1 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 17 条重点，其中 8 条是重点爆料，包含 6 条 iPhone 相关、1 条官方确认、0 条参数线索。",
   "stats": {
-    "total": 19,
+    "total": 17,
     "iphone": 6,
     "leaks": 8,
     "official": 1,
@@ -37,6 +37,29 @@ window.phoneRadarDaily = {
             "外观 / 配色 / 尺寸",
             "屏幕形态",
             "芯片 / 性能"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "auto-1a5cee9dbe3f",
+          "title": "华为 Mate 80 系列手机最新销量数据曝光，预计上周已破 800 万台",
+          "originalTitle": "",
+          "source": "IT之家",
+          "brand": "Huawei",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-07-26",
+          "time": "23:06",
+          "publishedAt": "2026-07-26T23:06:01.000Z",
+          "url": "https://www.ithome.com/0/981/817.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/7/af1fc6a4-75f1-4378-af3b-10db52379f5b.png?x-bce-process=image/format,f_auto",
+          "verdict": "先看",
+          "takeaway": "IT之家 7 月 27 日消息，据长期关注国内手机市场份额的数码博主 @RD观测 爆料，截至 2026 年第 29 周（7 月 13 日-7 月 19 日）， 华为 Mate 80 系列手机的销量约 792.05 万台 。 值得一提的是，博主此次分享的销量数据日期区间为 7 月 13 日-7 月 19 日，而最新日期为 7 月 27 日，按照系列机型周增超…",
+          "detail": "IT之家 7 月 27 日消息，据长期关注国内手机市场份额的数码博主 @RD观测 爆料，截至 2026 年第 29 周（7 月 13 日-7 月 19 日）， 华为 Mate 80 系列手机的销量约 792.05 万台 。 值得一提的是，博主此次分享的销量数据日期区间为 7 月 13 日-7 月 19 日，而最新日期为 7 月 27 日，按照系列机型周增超…",
+          "keyPoints": [
+            "爆料来源"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
@@ -159,51 +182,26 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
-          "id": "coolapk-user-db11ebdd7b28",
-          "title": "竹本青：各厂商，前50%能量平均充电功率汇总 图中机型有些截重复了，是因为极客湾的视频就是有重复展示 #ColorOS16…",
+          "id": "coolapk-user-41017edf0f0d",
+          "title": "竹本青：极客湾曝光媒体机续航作弊：芯片特挑+策略特调，可比零售机多3小时续航",
           "originalTitle": "",
           "source": "竹本青",
           "brand": "Huawei",
           "type": "爆料",
           "trust": "高可信爆料",
           "date": "2026-07-26",
-          "time": "04:00",
-          "publishedAt": "2026-07-26T04:00:01.000Z",
-          "url": "https://www.coolapk.com/feed/72944159",
-          "image": "http://image.coolapk.com/feed/2026/0726/12/4248714_7a5d447d_8400_1828_103@1080x4256.jpg",
+          "time": "02:44",
+          "publishedAt": "2026-07-26T02:44:46.000Z",
+          "url": "https://www.coolapk.com/feed/72943232",
+          "image": "http://image.coolapk.com/feed/2026/0726/10/4248714_8883ddd5_3868_0077_708@2560x1440.jpg",
           "verdict": "先看",
-          "takeaway": "各厂商，前50%能量平均充电功率汇总 图中机型有些截重复了，是因为极客湾的视频就是有重复展示 #ColorOS16# #HyperOS3# #鸿蒙6#",
-          "detail": "各厂商，前50%能量平均充电功率汇总 图中机型有些截重复了，是因为极客湾的视频就是有重复展示 #ColorOS16# #HyperOS3# #鸿蒙6#",
+          "takeaway": "【极客湾曝光媒体机续航作弊：芯片特挑+策略特调，可比零售机多3小时续航】 7月26日，数码评测机构“极客湾” 在最新视频中再次揭露行业潜规则：媒体机续航作弊。 创始人云飞称，过去一年，仅有苹果、华为送测的媒体机没有出现“续航特挑”或“特调续航”，其余所有厂商的任何一台媒体机，均与零售版存在不同程度的续航差异。 据介绍，媒体机续航特调主要分为两个层级： 一、…",
+          "detail": "【极客湾曝光媒体机续航作弊：芯片特挑+策略特调，可比零售机多3小时续航】 7月26日，数码评测机构“极客湾” 在最新视频中再次揭露行业潜规则：媒体机续航作弊。 创始人云飞称，过去一年，仅有苹果、华为送测的媒体机没有出现“续航特挑”或“特调续航”，其余所有厂商的任何一台媒体机，均与零售版存在不同程度的续航差异。 据介绍，媒体机续航特调主要分为两个层级： 一、…",
           "keyPoints": [
-            "外观 / 配色 / 尺寸",
-            "电池 / 充电"
+            "电池 / 充电",
+            "芯片 / 性能"
           ],
           "confidence": "可信度较高，但仍属于发布前线索。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "auto-e5044ab725c3",
-          "title": "vivo 外观设计线索曝光",
-          "originalTitle": "",
-          "source": "Gizmochina",
-          "brand": "vivo",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-07-26",
-          "time": "11:36",
-          "publishedAt": "2026-07-26T11:36:28.000Z",
-          "url": "https://www.gizmochina.com/2026/07/26/vivo-s2-design-leaks-in-live-images-ahead-of-india-launch/",
-          "image": "https://www.gizmochina.com/wp-content/uploads/2026/07/Vivo-S2-Dummy-Unit-Images-4-183x300.jpg?x92417",
-          "verdict": "先看",
-          "takeaway": "vivo 外观设计线索曝光。重点看外观、颜色、尺寸是否和上一代有明显变化。",
-          "detail": "vivo 外观设计线索曝光。这类内容主要看外观设计、按键布局、相机模组和尺寸变化，后续最好等更多渲染图或保护壳线索互相验证。",
-          "keyPoints": [
-            "外观 / 配色 / 尺寸",
-            "影像硬件",
-            "爆料来源"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         }
@@ -427,52 +425,6 @@ window.phoneRadarDaily = {
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "影响拍照体验，买旗舰机时值得关注。",
           "action": "有具体参数就记录到参数库；没有参数就先收藏。"
-        },
-        {
-          "id": "auto-a41e43d7d03a",
-          "title": "Samsung 折叠屏相关消息",
-          "originalTitle": "",
-          "source": "9to5Google",
-          "brand": "Samsung",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-07-26",
-          "time": "13:00",
-          "publishedAt": "2026-07-26T13:00:00.000Z",
-          "url": "https://9to5google.com/2026/07/26/samsung-galaxy-z-fold-8-preparing-for-battle/",
-          "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/07/galaxy-z-fold-8-series-8.jpg?quality=82&strip=all&w=1600",
-          "verdict": "可略过",
-          "takeaway": "Samsung 折叠屏相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
-          "detail": "Samsung 折叠屏相关消息。重点看折痕、铰链、厚度、屏幕可靠性和重量是否有实质改善。",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
-        {
-          "id": "auto-9e7e1e0e3e3a",
-          "title": "Galaxy S27 折叠屏相关消息",
-          "originalTitle": "",
-          "source": "Android Authority",
-          "brand": "Samsung",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-07-26",
-          "time": "12:00",
-          "publishedAt": "2026-07-26T12:00:25.000Z",
-          "url": "https://www.androidauthority.com/samsung-foldables-galaxy-s27-more-exciting-3690629/",
-          "image": "https://www.androidauthority.com/wp-content/uploads/2026/07/z-fold-8-vs-z-fold-8-ultra-2.jpg",
-          "verdict": "可略过",
-          "takeaway": "Galaxy S27 折叠屏相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
-          "detail": "Galaxy S27 折叠屏相关消息。重点看折痕、铰链、厚度、屏幕可靠性和重量是否有实质改善。",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         }
       ]
     }
