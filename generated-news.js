@@ -1,6 +1,26 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-07-26T10:12:39.314Z",
+  "updatedAt": "2026-07-26T11:36:40.666Z",
   "news": [
+    {
+      "id": "auto-308543d895a3",
+      "title": "These are the first 5 apps I’d install on the Galaxy Z Fold 8 Ultra",
+      "source": "Android Authority",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-26",
+      "time": "11:00",
+      "publishedAt": "2026-07-26T11:00:17.000Z",
+      "url": "https://www.androidauthority.com/first-apps-install-galaxy-z-fold-8-ultra-3690641/",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2026/07/Samsung-Galaxy-Z-Fold-8-Ultra-unfolded-against-shelves-scaled.jpg",
+      "summary": "That massive screen would make my digital life just a tad easier in many ways.",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-e05a50ec715e",
       "title": "The $2,100 Galaxy Z Fold 8 Ultra gets 6 major things wrong",
@@ -142,26 +162,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-896739652265",
-      "title": "vivo X300 E 手机现身中国电信终端产品库：骁龙 8 Gen5 处理器、7200mAh 电池，明日预售",
-      "source": "IT之家",
-      "brand": "vivo",
-      "model": "vivo 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-26",
-      "time": "04:29",
-      "publishedAt": "2026-07-26T04:29:35.000Z",
-      "url": "https://www.ithome.com/0/981/682.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/7/4d55fe22-9456-404e-9e75-0786cee515a6.jpg",
-      "summary": "IT之家 7 月 26 日消息，型号为 V2612A 的 vivo X300 E 手机已现身中国电信终端产品库， 拥有 8GB+256GB、12GB+256GB、12GB+512GB 三种规格版本 ，产品零售价格尚未公布。 相关页面显示， vivo X300 E 手机配备 6.59 英寸居中单挖孔屏 （从四边等窄的设计来看，预计是 OLED 屏幕），采用直…",
-      "tags": [
-        "vivo",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "coolapk-user-db11ebdd7b28",
       "title": "竹本青：各厂商，前50%能量平均充电功率汇总 图中机型有些截重复了，是因为极客湾的视频就是有重复展示 #ColorOS16…",
       "source": "竹本青",
@@ -179,26 +179,6 @@ window.phoneRadarAuto = {
         "Huawei",
         "爆料",
         "酷安博主"
-      ]
-    },
-    {
-      "id": "auto-92b0f0e35ce4",
-      "title": "华为李小龙：有些手机其实不是故意锁容量不让消费者用，而是因为设计时就没考虑低压下工作",
-      "source": "IT之家",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-26",
-      "time": "03:55",
-      "publishedAt": "2026-07-26T03:55:10.000Z",
-      "url": "https://www.ithome.com/0/981/677.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/7/0442e237-01e7-488e-a8aa-f7ca93d080b3.png?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 7 月 26 日消息，关于手机电池锁容的话题今日再度引发网友热议，华为终端 BG CTO 李小龙今日发文，解释了“电池锁容”的问题： 有些手机其实不是故意锁容量不让消费者用， 而是因为这些手机设计时就没考虑低压下工作 ，而当前的高硅电池和传统石墨电池相比，在低压下仍然能释放出不少容量。 手机提前关机，这些容量就用不到了 。 据IT之家此前报道，李…",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "自动抓取"
       ]
     },
     {
@@ -442,26 +422,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-c5d391f0faec",
-      "title": "这颜值还要啥小米金沙江两百多这么贵 还得是pdd 36块钱的小米超薄自带线有性价比我的还是26年5月生产的[受虐滑稽][受虐滑稽][受虐滑稽] #iPhone17# #iPhone17Pro# #iPhone17ProMax#",
-      "source": "酷安热榜",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-07-26",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72923867",
-      "image": "",
-      "summary": "这颜值还要啥小米金沙江两百多这么贵 还得是pdd 36块钱的小米超薄自带线有性价比我的还是26年5月生产的[受虐滑稽][受虐滑稽][受虐滑稽] #iPhone17# #iPhone17Pro# #iPhone17ProMax#",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
       "id": "newsnow-3f0fd9018aec",
       "title": "兄弟们，这手机电池是衰减严重还是锁容量了，怎么就剩 6300 了，太可怕了",
       "source": "酷安热榜",
@@ -477,6 +437,26 @@ window.phoneRadarAuto = {
       "summary": "兄弟们，这手机电池是衰减严重还是锁容量了，怎么就剩 6300 了，太可怕了",
       "tags": [
         "行业",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-c5d391f0faec",
+      "title": "这颜值还要啥小米金沙江两百多这么贵 还得是pdd 36块钱的小米超薄自带线有性价比我的还是26年5月生产的[受虐滑稽][受虐滑稽][受虐滑稽] #iPhone17# #iPhone17Pro# #iPhone17ProMax#",
+      "source": "酷安热榜",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-07-26",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/72923867",
+      "image": "",
+      "summary": "这颜值还要啥小米金沙江两百多这么贵 还得是pdd 36块钱的小米超薄自带线有性价比我的还是26年5月生产的[受虐滑稽][受虐滑稽][受虐滑稽] #iPhone17# #iPhone17Pro# #iPhone17ProMax#",
+      "tags": [
+        "Xiaomi",
         "爆料",
         "NewsNow"
       ]
@@ -502,8 +482,8 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-00e7ab4abc3c",
-      "title": "高通宣布 9 月起芯片涨价两位数百分比，将对手机市场产生哪些影响？",
+      "id": "newsnow-497b816ddb14",
+      "title": "如何看待数码博主极客湾最新一期的《续航大横评》？这会给国产手机厂商和市场带来什么样的影响？",
       "source": "知乎热榜",
       "brand": "行业",
       "model": "智能手机市场",
@@ -512,9 +492,9 @@ window.phoneRadarAuto = {
       "date": "2026-07-26",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.zhihu.com/question/2064255303806465925",
+      "url": "https://www.zhihu.com/question/2064578743788745259",
       "image": "",
-      "summary": "高通宣布 9 月起芯片涨价两位数百分比，将对手机市场产生哪些影响？",
+      "summary": "如何看待数码博主极客湾最新一期的《续航大横评》？这会给国产手机厂商和市场带来什么样的影响？",
       "tags": [
         "行业",
         "市场报告",
@@ -555,26 +535,6 @@ window.phoneRadarAuto = {
       "url": "https://www.toutiao.com/trending/7665651386954465299/",
       "image": "",
       "summary": "小伙上门回收手机被客户男友误会殴打",
-      "tags": [
-        "行业",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-601be623465a",
-      "title": "手机实拍记录台风登陆前夕现场",
-      "source": "百度热搜",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-26",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.baidu.com/s?wd=%E6%89%8B%E6%9C%BA%E5%AE%9E%E6%8B%8D%E8%AE%B0%E5%BD%95%E5%8F%B0%E9%A3%8E%E7%99%BB%E9%99%86%E5%89%8D%E5%A4%95%E7%8E%B0%E5%9C%BA",
-      "image": "",
-      "summary": "手机实拍记录台风登陆前夕现场",
       "tags": [
         "行业",
         "爆料",
