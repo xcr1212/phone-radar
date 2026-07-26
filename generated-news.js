@@ -1,6 +1,126 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-07-26T11:36:40.666Z",
+  "updatedAt": "2026-07-26T13:55:02.591Z",
   "news": [
+    {
+      "id": "auto-90b664d2b552",
+      "title": "vivo X300 E 手机完整规格曝光：6.59 英寸 1.5K OLED 面板、骁龙 8 Gen 5 处理器",
+      "source": "IT之家",
+      "brand": "vivo",
+      "model": "vivo 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-26",
+      "time": "13:21",
+      "publishedAt": "2026-07-26T13:21:40.000Z",
+      "url": "https://www.ithome.com/0/981/800.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/7/95fdd521-40d8-48f5-86e2-3a92bb20f89d.jpg?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 7 月 26 日消息，博主 @体验more 现已曝光了 vivo X300 E 手机配置信息，该机将于明天 9 点开启预售，拥有 8GB+256GB、12GB+256GB、12GB+512GB 三种规格版本，IT之家整理产品信息如下： 该机提供月光白 (白)、日光橙、辰夜黑三种配色可选，整体尺寸为 157.52 x 74.33 x 7.99mm，…",
+      "tags": [
+        "vivo",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-a41e43d7d03a",
+      "title": "The Galaxy Z Fold 8 is Samsung preparing for battle, but is it enough?",
+      "source": "9to5Google",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-26",
+      "time": "13:00",
+      "publishedAt": "2026-07-26T13:00:00.000Z",
+      "url": "https://9to5google.com/2026/07/26/samsung-galaxy-z-fold-8-preparing-for-battle/",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/07/galaxy-z-fold-8-series-8.jpg?quality=82&strip=all&w=1600",
+      "summary": "There was a bit of an undertone present in Samsung’s latest Unpacked keynote. Not one of progress or triumph, but what felt a bit like fear. After seven years, the foldable market…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-b2326497798c",
+      "title": "JSCHEN小小狐：『博主曝光华为新一代轻薄本：仅重约 798 克』 数码博主 看山叔 发博曝光华为新一代轻薄本。该机整机重量仅约 7…",
+      "source": "JSCHEN小小狐",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-07-26",
+      "time": "12:09",
+      "publishedAt": "2026-07-26T12:09:13.000Z",
+      "url": "https://www.coolapk.com/feed/72950336",
+      "image": "http://image.coolapk.com/feed/2026/0726/20/4702274_1fb10220_7752_0019_737@1440x1921.jpg",
+      "summary": "『博主曝光华为新一代轻薄本：仅重约 798 克』 数码博主 看山叔 发博曝光华为新一代轻薄本。该机整机重量仅约 798g，较前代 MateBook Pro 的 970g 标称重量减轻约 172g。 该机部分信息公开： CPU：麒麟 XE90 处理器 内存：16GB / 24GB / 32GB 硬盘：512GB / 1TB 版本：标准版、典藏版 / 防窥版、…",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-9e7e1e0e3e3a",
+      "title": "Forget the Z Fold 8 Ultra — Samsung just made the Galaxy S27 a lot more exciting",
+      "source": "Android Authority",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-26",
+      "time": "12:00",
+      "publishedAt": "2026-07-26T12:00:25.000Z",
+      "url": "https://www.androidauthority.com/samsung-foldables-galaxy-s27-more-exciting-3690629/",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2026/07/z-fold-8-vs-z-fold-8-ultra-2.jpg",
+      "summary": "Samsung's silicon-carbon era starts now.",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-de7cc212d4cd",
+      "title": "The first thing I do for friends switching from iPhone to Android is change this setting",
+      "source": "Android Police",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-26",
+      "time": "12:00",
+      "publishedAt": "2026-07-26T12:00:16.000Z",
+      "url": "https://www.androidpolice.com/setting-iphone-switchers-should-change/",
+      "image": "",
+      "summary": "This is why switching OS feels like starting over",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-e5044ab725c3",
+      "title": "Vivo S2 design leaks in live images ahead of India launch",
+      "source": "Gizmochina",
+      "brand": "vivo",
+      "model": "vivo 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-26",
+      "time": "11:36",
+      "publishedAt": "2026-07-26T11:36:28.000Z",
+      "url": "https://www.gizmochina.com/2026/07/26/vivo-s2-design-leaks-in-live-images-ahead-of-india-launch/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/07/Vivo-S2-Dummy-Unit-Images-4-183x300.jpg?x92417",
+      "summary": "Although Vivo hasn’t acknowledged it, previously leaked materials have confirmed that the brand is working on the Vivo S2 for the Indian market. Hands-on photos of the phone’s dum…",
+      "tags": [
+        "vivo",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-308543d895a3",
       "title": "These are the first 5 apps I’d install on the Galaxy Z Fold 8 Ultra",
@@ -102,66 +222,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "coolapk-user-40b7cb84db47",
-      "title": "竹本青：【华为李小龙回应电池锁容：有些手机不是故意锁，而是设计时就没考虑低压下工作】 7月26日，因“极客湾”最新续航大横…",
-      "source": "竹本青",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-07-26",
-      "time": "08:27",
-      "publishedAt": "2026-07-26T08:27:32.000Z",
-      "url": "https://www.coolapk.com/feed/72947472",
-      "image": "http://image.coolapk.com/feed/2026/0726/16/4248714_e65301c1_4451_2654_614@1438x1287.jpg",
-      "summary": "【华为李小龙回应电池锁容：有些手机不是故意锁，而是设计时就没考虑低压下工作】 7月26日，因“极客湾”最新续航大横评视频，手机电池锁容话题再度引发热议。 对此，华为终端BG CTO 李小龙回应：“有些手机其实不是故意锁容量不让消费者用，而是因为这些手机设计时就没考虑低压下工作，而当前的高硅电池和传统石墨电池相比，在低压下仍然能释放出不少容量。手机提前关机，…",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
-      "id": "auto-71b07c26960c",
-      "title": "微电影《返航日》官宣 7 月 27 日上映，采用荣耀 Robot Phone 完成一镜到底视觉叙事",
-      "source": "IT之家",
-      "brand": "HONOR",
-      "model": "HONOR 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-26",
-      "time": "07:04",
-      "publishedAt": "2026-07-26T07:04:08.000Z",
-      "url": "https://www.ithome.com/0/981/701.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/7/09494c8a-b12e-48b0-92aa-6b4c34742d00.jpg",
-      "summary": "IT之家 7 月 26 日消息，荣耀手机官方今日宣布，中国知名电影摄影指导王博学继《我不是药神》《长安的荔枝》《我和我的祖国》多部作品后全新尝试， 微电影《返航日》将于 7 月 27 日上映 。 据荣耀手机介绍， 微电影《返航日》采用荣耀 Robot Phone 手机完成了一镜到底的视觉叙事 。 据IT之家此前报道， 荣耀 Robot Phone 已开启预…",
-      "tags": [
-        "HONOR",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-9e5cd4055ebc",
-      "title": "华为余承东开启首次田野科普，详解手机屏幕如何做到耐刮抗反光",
-      "source": "IT之家",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-26",
-      "time": "06:53",
-      "publishedAt": "2026-07-26T06:53:22.000Z",
-      "url": "https://www.ithome.com/0/981/694.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/7/40e2bee9-ecce-4cd1-953c-1492a6b5d934.jpg?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 7 月 26 日消息，华为常务董事、产品投资评审委员会主任、终端 BG 董事长余承东今日发布视频，开启了自己的首次田野科普，介绍了手机屏幕如何做到既抗反光又耐刮。 据余承东介绍，光是一种电磁波，有波峰和波谷， 屏幕抗反光的原理其实就是让反射光之间波峰对着波谷，彼此抵消 。业界常用的方法是通过高低折射率交错的材料，逐层叠加，做出一节节高低错落的“台…",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "coolapk-user-db11ebdd7b28",
       "title": "竹本青：各厂商，前50%能量平均充电功率汇总 图中机型有些截重复了，是因为极客湾的视频就是有重复展示 #ColorOS16…",
       "source": "竹本青",
@@ -219,26 +279,6 @@ window.phoneRadarAuto = {
         "Samsung",
         "爆料",
         "自动抓取"
-      ]
-    },
-    {
-      "id": "coolapk-user-41017edf0f0d",
-      "title": "竹本青：极客湾曝光媒体机续航作弊：芯片特挑+策略特调，可比零售机多3小时续航",
-      "source": "竹本青",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-07-26",
-      "time": "02:44",
-      "publishedAt": "2026-07-26T02:44:46.000Z",
-      "url": "https://www.coolapk.com/feed/72943232",
-      "image": "http://image.coolapk.com/feed/2026/0726/10/4248714_8883ddd5_3868_0077_708@2560x1440.jpg",
-      "summary": "【极客湾曝光媒体机续航作弊：芯片特挑+策略特调，可比零售机多3小时续航】 7月26日，数码评测机构“极客湾” 在最新视频中再次揭露行业潜规则：媒体机续航作弊。 创始人云飞称，过去一年，仅有苹果、华为送测的媒体机没有出现“续航特挑”或“特调续航”，其余所有厂商的任何一台媒体机，均与零售版存在不同程度的续航差异。 据介绍，媒体机续航特调主要分为两个层级： 一、…",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "酷安博主"
       ]
     },
     {
@@ -402,6 +442,46 @@ window.phoneRadarAuto = {
       ]
     },
     {
+      "id": "newsnow-d33eebd55663",
+      "title": "【华为李小龙回应电池锁容：有些手机不是故意锁，而是设计时就没考虑低压下工作】",
+      "source": "酷安热榜",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-07-26",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/72947472",
+      "image": "",
+      "summary": "【华为李小龙回应电池锁容：有些手机不是故意锁，而是设计时就没考虑低压下工作】",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-aecef58fab79",
+      "title": "前几这么多华为[疑问]真有这么好吗，想按排行榜选手机，是不是不靠谱",
+      "source": "酷安热榜",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-07-26",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/72932562",
+      "image": "",
+      "summary": "前几这么多华为[疑问]真有这么好吗，想按排行榜选手机，是不是不靠谱",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
       "id": "newsnow-9dbd9b038e79",
       "title": "全球首创！小米用户单个换图标技术引擎！哪个图标不喜欢就换哪个～懒得动手？那就直接用预置超清图标包，一键导入，iOS液态玻璃简约设计，小白轻松上手教程！建议点赞收藏 #MIUI主题# #HyperOS主题# #HyperOS4#",
       "source": "酷安热榜",
@@ -418,66 +498,6 @@ window.phoneRadarAuto = {
       "tags": [
         "Xiaomi",
         "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-3f0fd9018aec",
-      "title": "兄弟们，这手机电池是衰减严重还是锁容量了，怎么就剩 6300 了，太可怕了",
-      "source": "酷安热榜",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-07-26",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72939414",
-      "image": "",
-      "summary": "兄弟们，这手机电池是衰减严重还是锁容量了，怎么就剩 6300 了，太可怕了",
-      "tags": [
-        "行业",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-c5d391f0faec",
-      "title": "这颜值还要啥小米金沙江两百多这么贵 还得是pdd 36块钱的小米超薄自带线有性价比我的还是26年5月生产的[受虐滑稽][受虐滑稽][受虐滑稽] #iPhone17# #iPhone17Pro# #iPhone17ProMax#",
-      "source": "酷安热榜",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-07-26",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72923867",
-      "image": "",
-      "summary": "这颜值还要啥小米金沙江两百多这么贵 还得是pdd 36块钱的小米超薄自带线有性价比我的还是26年5月生产的[受虐滑稽][受虐滑稽][受虐滑稽] #iPhone17# #iPhone17Pro# #iPhone17ProMax#",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-86ff734b68b4",
-      "title": "店主卖 7.9 元手机壳时标注「荣耀 XX 型号」被荣耀索赔 38 万元，如何从法律角度解读？",
-      "source": "知乎热榜",
-      "brand": "HONOR",
-      "model": "HONOR 相关机型",
-      "type": "市场报告",
-      "trust": "媒体汇总",
-      "date": "2026-07-26",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.zhihu.com/question/2064405742971352764",
-      "image": "",
-      "summary": "店主卖 7.9 元手机壳时标注「荣耀 XX 型号」被荣耀索赔 38 万元，如何从法律角度解读？",
-      "tags": [
-        "HONOR",
-        "市场报告",
         "NewsNow"
       ]
     },
@@ -502,6 +522,26 @@ window.phoneRadarAuto = {
       ]
     },
     {
+      "id": "newsnow-86ff734b68b4",
+      "title": "店主卖 7.9 元手机壳时标注「荣耀 XX 型号」被荣耀索赔 38 万元，如何从法律角度解读？",
+      "source": "知乎热榜",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "市场报告",
+      "trust": "媒体汇总",
+      "date": "2026-07-26",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.zhihu.com/question/2064405742971352764",
+      "image": "",
+      "summary": "店主卖 7.9 元手机壳时标注「荣耀 XX 型号」被荣耀索赔 38 万元，如何从法律角度解读？",
+      "tags": [
+        "HONOR",
+        "市场报告",
+        "NewsNow"
+      ]
+    },
+    {
       "id": "newsnow-d383038c843c",
       "title": "极客湾手机续航大横评",
       "source": "B站热搜",
@@ -515,26 +555,6 @@ window.phoneRadarAuto = {
       "url": "https://search.bilibili.com/all?keyword=%E6%9E%81%E5%AE%A2%E6%B9%BE%E6%89%8B%E6%9C%BA%E7%BB%AD%E8%88%AA%E5%A4%A7%E6%A8%AA%E8%AF%84",
       "image": "",
       "summary": "极客湾手机续航大横评",
-      "tags": [
-        "行业",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-c48e2ab8ec88",
-      "title": "小伙上门回收手机被客户男友误会殴打",
-      "source": "今日头条热榜",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-26",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.toutiao.com/trending/7665651386954465299/",
-      "image": "",
-      "summary": "小伙上门回收手机被客户男友误会殴打",
       "tags": [
         "行业",
         "爆料",
@@ -897,46 +917,6 @@ window.phoneRadarAuto = {
       "summary": "The Xiaomi 18 Pro has surfaced in its global variant for the first time, indicating that Xiaomi is preparing to bring its next premium flagship to international markets. At the sa…",
       "tags": [
         "Xiaomi",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "coolapk-user-3f7a5fef5355",
-      "title": "竹本青：哈啰“领航者”共享电助力车官宣：5寸车机导航",
-      "source": "竹本青",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-07-25",
-      "time": "05:56",
-      "publishedAt": "2026-07-25T05:56:43.000Z",
-      "url": "https://www.coolapk.com/feed/72931986",
-      "image": "http://image.coolapk.com/feed/2026/0725/13/4248714_470d541a_8896_2129_606-livepic@1920x1080.jpg",
-      "summary": "【哈啰“领航者”共享电助力车官宣：5寸车机导航，全链路国产智能底座】 哈啰骑行昨日官宣，包头首发“领航者”共享电助力车。该车搭载5寸大屏，内置开源鸿蒙+上海海思芯片+高德地图原生车载导航，打造全链路国产智能底座。 据介绍，“领航者”还支持NFC一碰开锁、P键一键还车、禁停区实时提醒 三项智能功能。 #今日热点# #鸿蒙6# #哈啰出行#",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
-      "id": "auto-15a06d127ee9",
-      "title": "Galaxy Z Fold 8 Ultra has two hidden features for serious videographers",
-      "source": "SamMobile",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-25",
-      "time": "03:55",
-      "publishedAt": "2026-07-25T03:55:27.000Z",
-      "url": "https://www.sammobile.com/news/galaxy-z-fold-8-ultra-gets-apv-codec-cine-lut-four-cinema-presets/",
-      "image": "https://www.sammobile.com/wp-content/uploads/2026/07/Galaxy-Z-Fold-8-Ultra-APV-codec-2-1920x1080.jpg",
-      "summary": "Almost every new Galaxy Z Fold phone has offered upgraded camera hardware over its predecessor. Samsung’s newest device in the lineup, the Galaxy Z Fold 8 Ultra, is no different.…",
-      "tags": [
-        "Samsung",
         "爆料",
         "自动抓取"
       ]
