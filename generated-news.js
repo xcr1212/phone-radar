@@ -1,6 +1,226 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-07-27T04:02:05.364Z",
+  "updatedAt": "2026-07-27T07:49:11.467Z",
   "news": [
+    {
+      "id": "auto-11c39ef4cfda",
+      "title": "Samsung plans to launch Galaxy Z TriFold successor next year",
+      "source": "SamMobile",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-27",
+      "time": "07:30",
+      "publishedAt": "2026-07-27T07:30:28.000Z",
+      "url": "https://www.sammobile.com/news/samsung-galaxy-z-trifold-successor-launch-2027/",
+      "image": "",
+      "summary": "Samsung has launched several new types of devices over the past couple of years. After launching the Galaxy XR and the Galaxy Z TriFold last year, the South Korean firm announced…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-acdf8ac8de22",
+      "title": "Galaxy S23 July 2026 security update goes international",
+      "source": "SamMobile",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-27",
+      "time": "06:42",
+      "publishedAt": "2026-07-27T06:42:04.000Z",
+      "url": "https://www.sammobile.com/news/galaxy-s23-july-2026-security-update-international/",
+      "image": "",
+      "summary": "Last week, Samsung not only announced the Galaxy Z Flip 8 and Galaxy Z Fold 8 series but also released the July 2026 security update for the Galaxy S23 series. However, that updat…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-7e7d8a9f5235",
+      "title": "首支由荣耀 Robot Phone 手机拍摄的一镜到底微电影《返航日》今日上映",
+      "source": "IT之家",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-27",
+      "time": "06:33",
+      "publishedAt": "2026-07-27T06:33:13.000Z",
+      "url": "https://www.ithome.com/0/982/024.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/7/651cf3eb-5599-43f0-aec5-f5ed46a0a336.jpg?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 7 月 27 日消息，首支由荣耀 Robot Phone 手机拍摄的一镜到底微电影《返航日》今日正式上映。本片由中国知名摄影指导王博学掌镜，演员张子贤主演，讲述了“航天员”黄国盛回家的故事。 据荣耀官方介绍，在局促狭窄的太空舱内，荣耀 Robot Phone 依靠三轴云台结构，实现长镜头稳定拍摄，多角度流畅运镜，阿莱色彩科学则赋予画面电影大片的厚…",
+      "tags": [
+        "HONOR",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-ded10a067fb9",
+      "title": "After Galaxy Z Fold 8, Galaxy S27 could use Silicon-Carbon batteries",
+      "source": "SamMobile",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-27",
+      "time": "06:14",
+      "publishedAt": "2026-07-27T06:14:15.000Z",
+      "url": "https://www.sammobile.com/news/galaxy-s27-plus-pro-ultra-silicon-carbon-batteries/",
+      "image": "",
+      "summary": "The Galaxy Z Fold 8 and Galaxy Z Fold 8 Ultra are Samsung's first phones to use silicon-carbon anode batteries. The company is now reportedly considering using similar batteries i…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-8bfe91105d87",
+      "title": "竹本青：荣耀影像技术发布会看点公布：联合阿莱研发底层技术",
+      "source": "竹本青",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-07-27",
+      "time": "05:35",
+      "publishedAt": "2026-07-27T05:35:04.000Z",
+      "url": "https://www.coolapk.com/feed/72959362",
+      "image": "http://image.coolapk.com/feed/2026/0727/13/4248714_7ce23251_0501_2283_909@1730x4794.jpg",
+      "summary": "【荣耀影像技术发布会 看点公布：联合阿莱研发底层技术，Robot Phone影像能力解析】 ▫️荣耀AiMAGE影像愿景战略 ▫️荣耀阿莱联合研发底层技术 ▫️奥斯卡最佳摄影得主克劳迪奥·米兰达复刻好莱坞名场面 ▫️中国著名电影摄影指导王博学《返航日》一镜到底大片首映 ▫️荣耀Robot Phone影像能力深度解析 #今日热点# #荣耀ROBOTPHONE#",
+      "tags": [
+        "HONOR",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-697e99f3f5df",
+      "title": "Galaxy Z Fold 8 vs Galaxy Z Fold 8 Ultra: Which one should you buy?",
+      "source": "SamMobile",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-27",
+      "time": "05:31",
+      "publishedAt": "2026-07-27T05:31:00.000Z",
+      "url": "https://www.sammobile.com/news/ultimate-galaxy-z-fold-8-ultra-buying-guide/",
+      "image": "https://www.sammobile.com/wp-content/uploads/2026/07/Galaxy-Z-Fold-8-Ultra-vs-Fold-8-foldable-display-2-1920x1079.jpg",
+      "summary": "Samsung's Galaxy Z Fold 8 series gives you two very different book-style foldables. While they share the same basic concept, they're designed to deliver very different experiences…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-779eb0f768e9",
+      "title": "OnePlus 16’s October launch tipped with ultra-thin bezels, refined rear design",
+      "source": "Gizmochina",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-27",
+      "time": "05:28",
+      "publishedAt": "2026-07-27T05:28:48.000Z",
+      "url": "https://www.gizmochina.com/2026/07/27/oneplus-16-october-launch-design-9000mah-battery/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/06/OnePlus-15-5G-phone-300x200.png?x92417",
+      "summary": "OnePlus is one of the brands gearing up to launch its next-generation flagship phone in the coming months. A new leak, courtesy of tipster Digital Chat Station, sheds light on the…",
+      "tags": [
+        "OPPO",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-b2c36bf4d2d5",
+      "title": "从境外遥控境内手机发送诈骗短信，跨设备互联成电诈分子作案新工具",
+      "source": "IT之家",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-27",
+      "time": "05:25",
+      "publishedAt": "2026-07-27T05:25:51.000Z",
+      "url": "https://www.ithome.com/0/981/990.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/7/4d82055b-c5bf-4be0-95da-ca710ddd1a6b.png?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 7 月 27 日消息，据央视新闻今日报道，电信网络诈骗花样翻新， 一些电诈分子诱骗我国公民出借手机卡，在境外远程批量群发短信实施诈骗 ，隐蔽性强。这些出借手机卡、想兼职赚钱的人员也沦为了电诈“工具人”。近日，江苏无锡警方侦破一起这类案件。 今年 3 月，家住无锡江阴的吴女士收到一条陌生手机短信。短信称其有一笔 5000 元的贷款逾期，并附带了一个…",
+      "tags": [
+        "行业",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "weibo-e6334c30c508",
+      "title": "数码闲聊站：OPPO A7 Pro Max，万级大电池新机喜欢吗[doge]",
+      "source": "数码闲聊站",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-07-27",
+      "time": "04:25",
+      "publishedAt": "2026-07-27T04:25:00.000Z",
+      "url": "https://weibo.com/6048569942/RaBkT6RGI",
+      "image": "https://tvax4.sinaimg.cn/mw2000/006BlblIgy1ifidcwuiirj315o1b1asu.jpg",
+      "summary": "OPPO A7 Pro Max，万级大电池新机喜欢吗[doge]",
+      "tags": [
+        "OPPO",
+        "爆料",
+        "微博"
+      ]
+    },
+    {
+      "id": "auto-0ac507fb75ac",
+      "title": "Samsung’s flagship lineup may grow to 8 phones a year with the Galaxy Z TriFold 2",
+      "source": "Android Authority",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-27",
+      "time": "04:21",
+      "publishedAt": "2026-07-27T04:21:22.000Z",
+      "url": "https://www.androidauthority.com/samsung-galaxy-z-trifold-2-launch-plans-3691329/",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2026/01/Samsung-Galaxy-Z-TriFold-at-CES-2026-1-of-6.jpg",
+      "summary": "The Galaxy Z TriFold 2 and Galaxy S27 Pro could help Samsung build its most diverse flagship smartphone lineup yet.",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-151e296523a7",
+      "title": "Huawei Mate 80 gains 8 million sales milestone, nearing ’10 million’ goal",
+      "source": "Huawei Central",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-27",
+      "time": "04:07",
+      "publishedAt": "2026-07-27T04:07:28.000Z",
+      "url": "https://www.huaweicentral.com/huawei-mate-80-gains-8-million-sales-milestone/",
+      "image": "https://www.huaweicentral.com/wp-content/uploads/2026/02/Mate80-phone2.jpg",
+      "summary": "Huawei Mate 80 series sales have now reached the “8 million” mark. The flagship lineup is performing well in its home market, and the constantly growing demand for the 2025 Mate m…",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "weibo-861f93002435",
       "title": "数码闲聊站：独家，关于子系骁龙8E6 Pro新机的ID设计，工程机还是6.78\"LIPO极…",
@@ -62,46 +282,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-4446fa702da0",
-      "title": "苹果 20 周年纪念版 iPhone 前瞻：微曲面显示屏、无实体按键，真全面屏仍存悬念",
-      "source": "IT之家",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-27",
-      "time": "02:29",
-      "publishedAt": "2026-07-27T02:29:49.000Z",
-      "url": "https://www.ithome.com/0/981/859.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/7/298cbcb4-10d2-42a9-a934-736de24f134a.jpg?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 7 月 27 日消息，据科技媒体 Macrumors 昨日报道，苹果预计将在 2027 年秋季推出 20 周年纪念版 iPhone 手机，预计将带来 iPhone X 同等规模的创新。 2017 年，苹果在乔布斯剧院发布 iPhone X 手机，通过取消 Home 键、引入全面屏设计和面容 ID，纪念 iPhone 诞生 10 周年。据传，202…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-14b94b78c411",
-      "title": "绿厂系首个万级大电池手机：OPPO A7 Pro Max 亮相，定位“新一代耐用传奇”",
-      "source": "IT之家",
-      "brand": "OPPO",
-      "model": "OPPO 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-27",
-      "time": "02:23",
-      "publishedAt": "2026-07-27T02:23:51.000Z",
-      "url": "https://www.ithome.com/0/981/854.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/7/9cffcdfa-4289-4e50-a7da-3a4ac4c8af81.jpg",
-      "summary": "IT之家 7 月 27 日消息，OPPO 官方今日官宣旗下首个万级大电池新机 —— OPPO A7 Pro Max。 根据介绍，这款手机将搭载万级容量的大电池 ，定位“新一代耐用传奇”。 据IT之家此前报道， 消息称 OPPO A7 Pro Max 配备 6.78 英寸 1.5K 120Hz OLED 直屏 ，搭载骁龙 4 Gen 5（第五代骁龙 4）芯片…",
-      "tags": [
-        "OPPO",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "coolapk-user-6a6f365fb33a",
       "title": "竹本青：OPPO A7 Pro Max官宣：万级大电池，新一代耐用传奇",
       "source": "竹本青",
@@ -117,66 +297,6 @@ window.phoneRadarAuto = {
       "summary": "【OPPO A7 Pro Max官宣：万级大电池，新一代耐用传奇】 7月27日，OPPO官宣旗下首款万级电池手机——A7 Pro Max。新机Deco延续上代A6s Pro“微笑曲线”设计，其主要配置已被博主数码闲聊站完整曝光： ▫️6.78\"1.5K 120Hz OLED直屏 ▫️骁龙4 Gen5处理器 ▫️10000mAh单电芯电池+80W快充 ▫️前…",
       "tags": [
         "OPPO",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
-      "id": "auto-85e03af58269",
-      "title": "全球首款机器人手机：荣耀 Robot Phone 定档 8 月 12 日发布，阿莱联合研发",
-      "source": "IT之家",
-      "brand": "HONOR",
-      "model": "HONOR 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-27",
-      "time": "01:43",
-      "publishedAt": "2026-07-27T01:43:19.000Z",
-      "url": "https://www.ithome.com/0/981/843.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/7/55106e54-5574-4963-9b33-829f0299de77.jpg?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 7 月 27 日消息，荣耀手机官方今日宣布，全球首款机器人手机 —— 荣耀 Robot Phone 定档 8 月 12 日发布 ，由阿莱联合研发。 据IT之家此前报道， 荣耀 Robot Phone 已开启预约 ，搭载第五代骁龙 8 至尊版芯片。该机的核心创新在于机身顶部集成了一套行业最小的四自由度（4DoF）钛合金机械云台系统。云台系统配备微型…",
-      "tags": [
-        "HONOR",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-35107df2aa92",
-      "title": "腾讯全新 QQ 宠物上线",
-      "source": "IT之家",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-27",
-      "time": "01:40",
-      "publishedAt": "2026-07-27T01:40:23.000Z",
-      "url": "https://www.ithome.com/0/981/842.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/7/63da770a-2de8-47d9-99aa-8cce4903405f.jpg",
-      "summary": "IT之家 7 月 27 日消息，据IT之家小伙伴反馈， 腾讯全新 QQ 宠物今日正式上线 。 在安卓和 iOS 端手机 QQ 打开功能入口，或者直接搜索“ QQ 宠物 ”，即可进入该玩法。 IT之家测试，用户可选择多种类型的宠物，包括原版经典的企鹅形象，还可以给它起昵称、选择性格。 完成设置后，QQ 宠物主界面就可以看到自己的 3D 宠物形象，用户可以给它…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "coolapk-user-fe2ba07283ae",
-      "title": "竹本青：荣耀Robot Phone 新品发布会定档8月12日",
-      "source": "竹本青",
-      "brand": "HONOR",
-      "model": "HONOR 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-07-27",
-      "time": "01:34",
-      "publishedAt": "2026-07-27T01:34:04.000Z",
-      "url": "https://www.coolapk.com/feed/72956362",
-      "image": "http://image.coolapk.com/feed/2026/0727/09/4248714_39ddc3cd_6043_0374_952@1595x2835.jpg",
-      "summary": "【荣耀Robot Phone 新品发布会定档8月12日】 荣耀手机今天官宣，旗下首款机器人手机Robot Phone将在8月12日正式发布。 据悉，新机将搭载4DoF可折叠机械云台、阿莱电影级创作标准；有行业预测称，该机1TB版本售价或在15999元。以下为参数爆料汇总： ▫️6.3-6.4\" 1.5K四等边直屏 ▫️骁龙8 Elite Gen5处理器 ▫…",
-      "tags": [
-        "HONOR",
         "爆料",
         "酷安博主"
       ]
@@ -322,26 +442,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-7e009c878ad4",
-      "title": "前几这么多华为[疑问]真有这么好吗，想按排行榜选手机，是不是不靠谱",
-      "source": "酷安热榜",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-07-27",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72932562",
-      "image": "",
-      "summary": "前几这么多华为[疑问]真有这么好吗，想按排行榜选手机，是不是不靠谱",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
       "id": "newsnow-befab05b9e2b",
       "title": "vivo X300E 发布：骁龙8 Gen5，售价4799元起",
       "source": "酷安热榜",
@@ -357,6 +457,46 @@ window.phoneRadarAuto = {
       "summary": "vivo X300E 发布：骁龙8 Gen5，售价4799元起",
       "tags": [
         "vivo",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-7938382ab360",
+      "title": "垃圾手机真难用啊，说电信的网不好，我又搞了广电的，没想到一样烂，信号这玩意还不如安卓机，等90出来观望下，还这么烂直接转米了",
+      "source": "酷安热榜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-07-27",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/72949982",
+      "image": "",
+      "summary": "垃圾手机真难用啊，说电信的网不好，我又搞了广电的，没想到一样烂，信号这玩意还不如安卓机，等90出来观望下，还这么烂直接转米了",
+      "tags": [
+        "行业",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-7e009c878ad4",
+      "title": "前几这么多华为[疑问]真有这么好吗，想按排行榜选手机，是不是不靠谱",
+      "source": "酷安热榜",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-07-27",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/72932562",
+      "image": "",
+      "summary": "前几这么多华为[疑问]真有这么好吗，想按排行榜选手机，是不是不靠谱",
+      "tags": [
+        "Huawei",
         "爆料",
         "NewsNow"
       ]
@@ -382,26 +522,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-9c40f4d5f6aa",
-      "title": "消息称多家TOP手机厂商拒绝内存涨价",
-      "source": "酷安热榜",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-07-27",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72934011",
-      "image": "",
-      "summary": "消息称多家TOP手机厂商拒绝内存涨价",
-      "tags": [
-        "行业",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
       "id": "newsnow-a6065b3357aa",
       "title": "极客湾手机续航大横评",
       "source": "B站热搜",
@@ -419,66 +539,6 @@ window.phoneRadarAuto = {
         "行业",
         "爆料",
         "NewsNow"
-      ]
-    },
-    {
-      "id": "auto-6d0d339578f4",
-      "title": "诺兰新片《奥德赛》高清枪版泄露，环球影业出手维权下架",
-      "source": "IT之家",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-26",
-      "time": "23:27",
-      "publishedAt": "2026-07-26T23:27:38.000Z",
-      "url": "https://www.ithome.com/0/981/820.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/7/89643e51-eb16-499c-85ac-369d85b1430f.jpg?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 7 月 27 日消息，克里斯托弗 · 诺兰执导的电影《奥德赛》本月（7 月 17 日）在美国上映，不过目前该电影的高清版本已于上周末泄露至社交媒体 X 平台。 据悉，本次流出的枪版时长 2 小时 53 分钟，是完整版本。数千名用户周末坐在家中，掏出手机就能观看这么一部希腊史诗巨作。 随后 X 平台官方注意到了这些盗版电影，目前大多数内容已经被平台…",
-      "tags": [
-        "行业",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-bba6b8bbe390",
-      "title": "IT早报 0727：微软封堵 Windows 盗版激活路径；罗永浩怒斥电视长辈模式老人用不明白；极氪发布境外自驾车机问题优化方案；华为李小龙谈手机电池锁容...",
-      "source": "IT之家",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-26",
-      "time": "23:22",
-      "publishedAt": "2026-07-26T23:22:19.000Z",
-      "url": "https://www.ithome.com/0/981/818.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/7/dfb7a749-16f1-4c86-bcd0-760b7164887a.png?x-bce-process=image/format,f_auto",
-      "summary": "“IT早报”时间，大家好，现在是 2026 年 7 月 27 日星期一，今天的重要科技资讯有： 1、微软将为 Windows KMS 批量激活引入 TPM 硬件安全机制，封堵盗版激活路径 微软宣布将为 Windows 批量激活服务（KMS）引入基于 TPM 硬件的安全证明机制，以验证服务器合法性，打击盗版滥用。从下一代 Windows Server 起将成…",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-1a5cee9dbe3f",
-      "title": "华为 Mate 80 系列手机最新销量数据曝光，预计上周已破 800 万台",
-      "source": "IT之家",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-26",
-      "time": "23:06",
-      "publishedAt": "2026-07-26T23:06:01.000Z",
-      "url": "https://www.ithome.com/0/981/817.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/7/af1fc6a4-75f1-4378-af3b-10db52379f5b.png?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 7 月 27 日消息，据长期关注国内手机市场份额的数码博主 @RD观测 爆料，截至 2026 年第 29 周（7 月 13 日-7 月 19 日）， 华为 Mate 80 系列手机的销量约 792.05 万台 。 值得一提的是，博主此次分享的销量数据日期区间为 7 月 13 日-7 月 19 日，而最新日期为 7 月 27 日，按照系列机型周增超…",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "自动抓取"
       ]
     },
     {
