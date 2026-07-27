@@ -1,5 +1,5 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-07-27T21:28:58.311Z",
+  "updatedAt": "2026-07-27T23:19:07.758Z",
   "issueDate": "2026-07-27",
   "issue": "VOL.260727",
   "title": "手机情报日报",
@@ -237,13 +237,13 @@ window.phoneRadarDaily = {
       ]
     },
     {
-      "id": "market",
-      "title": "行业趋势",
-      "hint": "看方向，不急着当购买依据。",
+      "id": "launch",
+      "title": "新机与官方发布",
+      "hint": "能直接更新到参数库。",
       "items": [
         {
-          "id": "newsnow-4d6bddd3629a",
-          "title": "#iPhone17ProMax# #小米17ProMax#",
+          "id": "newsnow-9687a358205b",
+          "title": "小米之家员工称K系列新机下月上市，或为K100系列",
           "originalTitle": "",
           "source": "酷安热榜",
           "brand": "Xiaomi",
@@ -252,11 +252,11 @@ window.phoneRadarDaily = {
           "date": "2026-07-27",
           "time": "",
           "publishedAt": "",
-          "url": "https://www.coolapk.com/feed/72953275",
+          "url": "https://www.coolapk.com/feed/72961098",
           "image": "",
           "verdict": "先看",
-          "takeaway": "#iPhone17ProMax# #小米17ProMax#",
-          "detail": "#iPhone17ProMax# #小米17ProMax#",
+          "takeaway": "小米之家员工称K系列新机下月上市，或为K100系列",
+          "detail": "小米之家员工称K系列新机下月上市，或为K100系列",
           "keyPoints": [
             "爆料"
           ],
