@@ -1,11 +1,11 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-07-27T19:53:13.831Z",
+  "updatedAt": "2026-07-27T21:28:58.311Z",
   "issueDate": "2026-07-27",
   "issue": "VOL.260727",
   "title": "手机情报日报",
-  "intro": "今日筛出 11 条重点，其中 8 条是重点爆料，包含 2 条 iPhone 相关、1 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 10 条重点，其中 8 条是重点爆料，包含 2 条 iPhone 相关、1 条官方确认、0 条参数线索。",
   "stats": {
-    "total": 11,
+    "total": 10,
     "iphone": 2,
     "leaks": 8,
     "official": 1,
@@ -113,6 +113,29 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
+          "id": "newsnow-5f4107961f32",
+          "title": "大师模式，有点东西 摆脱之前相机的重量和后期繁琐了 #我在酷安晒女友# #OPPOFindX9Ultra# #人像摄影#",
+          "originalTitle": "",
+          "source": "酷安热榜",
+          "brand": "OPPO",
+          "type": "爆料",
+          "trust": "高关注爆料源",
+          "date": "2026-07-27",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://www.coolapk.com/feed/72962065",
+          "image": "",
+          "verdict": "先看",
+          "takeaway": "大师模式，有点东西 摆脱之前相机的重量和后期繁琐了 #我在酷安晒女友# #OPPOFindX9Ultra# #人像摄影#",
+          "detail": "大师模式，有点东西 摆脱之前相机的重量和后期繁琐了 #我在酷安晒女友# #OPPOFindX9Ultra# #人像摄影#",
+          "keyPoints": [
+            "影像硬件"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
           "id": "coolapk-user-831ecdf135fd",
           "title": "竹本青：消息称华为Pura 90系列销量已破百万台",
           "originalTitle": "",
@@ -180,29 +203,6 @@ window.phoneRadarDaily = {
           "confidence": "可信度较高，但仍属于发布前线索。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "coolapk-user-b2326497798c",
-          "title": "JSCHEN小小狐：博主曝光华为新一代轻薄本：仅重约 798 克",
-          "originalTitle": "",
-          "source": "JSCHEN小小狐",
-          "brand": "Huawei",
-          "type": "爆料",
-          "trust": "高可信爆料",
-          "date": "2026-07-26",
-          "time": "12:09",
-          "publishedAt": "2026-07-26T12:09:13.000Z",
-          "url": "https://www.coolapk.com/feed/72950336",
-          "image": "http://image.coolapk.com/feed/2026/0726/20/4702274_1fb10220_7752_0019_737@1440x1921.jpg",
-          "verdict": "先看",
-          "takeaway": "『博主曝光华为新一代轻薄本：仅重约 798 克』 数码博主 看山叔 发博曝光华为新一代轻薄本。该机整机重量仅约 798g，较前代 MateBook Pro 的 970g 标称重量减轻约 172g。 该机部分信息公开： CPU：麒麟 XE90 处理器 内存：16GB / 24GB / 32GB 硬盘：512GB / 1TB 版本：标准版、典藏版 / 防窥版、…",
-          "detail": "『博主曝光华为新一代轻薄本：仅重约 798 克』 数码博主 看山叔 发博曝光华为新一代轻薄本。该机整机重量仅约 798g，较前代 MateBook Pro 的 970g 标称重量减轻约 172g。 该机部分信息公开： CPU：麒麟 XE90 处理器 内存：16GB / 24GB / 32GB 硬盘：512GB / 1TB 版本：标准版、典藏版 / 防窥版、…",
-          "keyPoints": [
-            "芯片 / 性能"
-          ],
-          "confidence": "可信度较高，但仍属于发布前线索。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         }
       ]
     },
@@ -232,36 +232,6 @@ window.phoneRadarDaily = {
           ],
           "confidence": "官方内容，可直接作为已确认信息记录。",
           "impact": "可信度高，但如果不是配置/价格消息，只需要扫一眼。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        }
-      ]
-    },
-    {
-      "id": "launch",
-      "title": "新机与官方发布",
-      "hint": "能直接更新到参数库。",
-      "items": [
-        {
-          "id": "newsnow-9687a358205b",
-          "title": "小米之家员工称K系列新机下月上市，或为K100系列",
-          "originalTitle": "",
-          "source": "酷安热榜",
-          "brand": "Xiaomi",
-          "type": "爆料",
-          "trust": "高关注爆料源",
-          "date": "2026-07-27",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://www.coolapk.com/feed/72961098",
-          "image": "",
-          "verdict": "先看",
-          "takeaway": "小米之家员工称K系列新机下月上市，或为K100系列",
-          "detail": "小米之家员工称K系列新机下月上市，或为K100系列",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         }
       ]

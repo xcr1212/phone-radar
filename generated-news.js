@@ -1,6 +1,66 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-07-27T19:53:13.831Z",
+  "updatedAt": "2026-07-27T21:28:58.311Z",
   "news": [
+    {
+      "id": "auto-8fc36fdc1d48",
+      "title": "PSA: T-Mobile is down, iPhones showing ‘SOS’ mode",
+      "source": "9to5Mac",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-27",
+      "time": "21:20",
+      "publishedAt": "2026-07-27T21:20:31.000Z",
+      "url": "https://9to5mac.com/2026/07/27/psa-t-mobile-is-down-iphones-forced-into-sos-mode/",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2023/02/tmo-sos.jpg?quality=82&strip=all&w=1600",
+      "summary": "T-Mobile appears to be suffering a widespread outage today. T-Mobile is down across the United States, and many iPhone users are seeing “SOS” in their device’s status bar.",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-5bb714d6addf",
+      "title": "OnePlus 16 looks ready to impress, but its biggest problem isn't the hardware",
+      "source": "Android Central",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-07-27",
+      "time": "20:00",
+      "publishedAt": "2026-07-27T20:00:31.000Z",
+      "url": "https://www.androidcentral.com/phones/oneplus/oneplus-16-looks-ready-to-impress-but-its-biggest-problem-isnt-the-hardware",
+      "image": "https://cdn.mos.cms.futurecdn.net/YFEiazpKZ52c6zApScCcHN-1280-80.jpg",
+      "summary": "The OnePlus 16 could bring massive flagship upgrades, but its biggest hurdle may be that most global buyers won't be able to buy it officially.",
+      "tags": [
+        "OPPO",
+        "评测",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-b02bf87cd7a1",
+      "title": "Galaxy Z Fold 8 in ‘Pistachio’ already appears to be selling out",
+      "source": "9to5Google",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-27",
+      "time": "19:45",
+      "publishedAt": "2026-07-27T19:45:00.000Z",
+      "url": "https://9to5google.com/2026/07/27/galaxy-z-fold-8-in-pistachio-already-appears-to-be-selling-out/",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/07/galaxy-z-fold-8-34.jpg?quality=82&strip=all&w=1600",
+      "summary": "The best version of Samsung’s adorable new Galaxy Z Fold 8 is the green “Pistachio” one and, fittingly, that’s the one that already appears to be selling out.",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-031815a61a81",
       "title": "Galaxy S27 Ultra rumored to near 6,000 mAh in long-overdue battery upgrade",
@@ -942,6 +1002,26 @@ window.phoneRadarAuto = {
       ]
     },
     {
+      "id": "newsnow-5f4107961f32",
+      "title": "大师模式，有点东西 摆脱之前相机的重量和后期繁琐了 #我在酷安晒女友# #OPPOFindX9Ultra# #人像摄影#",
+      "source": "酷安热榜",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-07-27",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/72962065",
+      "image": "",
+      "summary": "大师模式，有点东西 摆脱之前相机的重量和后期繁琐了 #我在酷安晒女友# #OPPOFindX9Ultra# #人像摄影#",
+      "tags": [
+        "OPPO",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
       "id": "newsnow-a6065b3357aa",
       "title": "极客湾手机续航大横评",
       "source": "B站热搜",
@@ -962,26 +1042,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-28400b18f195",
-      "title": "约好跟同学写作业 其实是一起玩手机",
-      "source": "百度热搜",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-27",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.baidu.com/s?wd=%E7%BA%A6%E5%A5%BD%E8%B7%9F%E5%90%8C%E5%AD%A6%E5%86%99%E4%BD%9C%E4%B8%9A+%E5%85%B6%E5%AE%9E%E6%98%AF%E4%B8%80%E8%B5%B7%E7%8E%A9%E6%89%8B%E6%9C%BA",
-      "image": "",
-      "summary": "约好跟同学写作业 其实是一起玩手机",
-      "tags": [
-        "行业",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
       "id": "newsnow-0d94d91dbc7e",
       "title": "男子骑车看手机 碾压路人脚赔9000元",
       "source": "百度热搜",
@@ -995,6 +1055,26 @@ window.phoneRadarAuto = {
       "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E9%AA%91%E8%BD%A6%E7%9C%8B%E6%89%8B%E6%9C%BA+%E7%A2%BE%E5%8E%8B%E8%B7%AF%E4%BA%BA%E8%84%9A%E8%B5%949000%E5%85%83",
       "image": "",
       "summary": "男子骑车看手机 碾压路人脚赔9000元",
+      "tags": [
+        "行业",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-28400b18f195",
+      "title": "约好跟同学写作业 其实是一起玩手机",
+      "source": "百度热搜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-27",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.baidu.com/s?wd=%E7%BA%A6%E5%A5%BD%E8%B7%9F%E5%90%8C%E5%AD%A6%E5%86%99%E4%BD%9C%E4%B8%9A+%E5%85%B6%E5%AE%9E%E6%98%AF%E4%B8%80%E8%B5%B7%E7%8E%A9%E6%89%8B%E6%9C%BA",
+      "image": "",
+      "summary": "约好跟同学写作业 其实是一起玩手机",
       "tags": [
         "行业",
         "爆料",
