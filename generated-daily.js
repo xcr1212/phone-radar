@@ -1,5 +1,5 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-07-27T11:37:23.660Z",
+  "updatedAt": "2026-07-27T15:12:15.287Z",
   "issueDate": "2026-07-27",
   "issue": "VOL.260727",
   "title": "手机情报日报",
@@ -18,31 +18,6 @@ window.phoneRadarDaily = {
       "hint": "机模、配色、影像、屏幕、电池和芯片线索先看。",
       "items": [
         {
-          "id": "auto-51e8a888a1e8",
-          "title": "小米 POCO M8 Power 海外机型 8 月 4 日发布，预计为 REDMI Note 17 标准版手机“套娃机”",
-          "originalTitle": "",
-          "source": "IT之家",
-          "brand": "Xiaomi",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-07-27",
-          "time": "08:21",
-          "publishedAt": "2026-07-27T08:21:37.000Z",
-          "url": "https://www.ithome.com/0/982/109.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/7/7a39e52a-9bd6-4ad3-bcaf-bdc87a1f1829.png?x-bce-process=image/format,f_auto",
-          "verdict": "先看",
-          "takeaway": "IT之家 7 月 27 日消息，小米现官宣将于 8 月 4 日在印度推出一款 POCO M8 Power 手机，该机将配备一块容量高达 8000mAh 的电池，采用 AMOLED 显示屏，主打电竞体验。 综合IT之家此前报道，该机实际上为小米 REDMI Note 17 标准版的“套娃机”，不过换用了全新橙色配色。 回顾 小米 REDMI Note 17…",
-          "detail": "IT之家 7 月 27 日消息，小米现官宣将于 8 月 4 日在印度推出一款 POCO M8 Power 手机，该机将配备一块容量高达 8000mAh 的电池，采用 AMOLED 显示屏，主打电竞体验。 综合IT之家此前报道，该机实际上为小米 REDMI Note 17 标准版的“套娃机”，不过换用了全新橙色配色。 回顾 小米 REDMI Note 17…",
-          "keyPoints": [
-            "外观 / 配色 / 尺寸",
-            "屏幕形态",
-            "电池 / 充电"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
           "id": "auto-acbdc536b632",
           "title": "iPhone 相关消息",
           "originalTitle": "",
@@ -60,6 +35,30 @@ window.phoneRadarDaily = {
           "detail": "iPhone 相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
           "keyPoints": [
             "外观 / 配色 / 尺寸"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "auto-2f95d07ccf2c",
+          "title": "三星硅碳电池有望下放至 Galaxy S27 系列，卷轴屏手机研发持续推进",
+          "originalTitle": "",
+          "source": "IT之家",
+          "brand": "Samsung",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-07-27",
+          "time": "12:29",
+          "publishedAt": "2026-07-27T12:29:45.000Z",
+          "url": "https://www.ithome.com/0/982/235.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/7/789eff08-2d80-4a18-b09b-d8aaab9e7bbe.jpg?x-bce-process=image/format,f_auto",
+          "verdict": "先看",
+          "takeaway": "IT之家 7 月 27 日消息，三星最新发布的 Galaxy 折叠屏手机终于开始采用硅碳（Si-C）电池，如今该公司也谈到了未来将硅碳电池引入 Galaxy S 系列（包括 Galaxy S27 系列）的可能性，同时还透露了备受关注的卷轴屏手机的研发进展。 据IT之家了解，最新发布的 Galaxy Z Fold8、Galaxy Z Fold8 Ultra…",
+          "detail": "IT之家 7 月 27 日消息，三星最新发布的 Galaxy 折叠屏手机终于开始采用硅碳（Si-C）电池，如今该公司也谈到了未来将硅碳电池引入 Galaxy S 系列（包括 Galaxy S27 系列）的可能性，同时还透露了备受关注的卷轴屏手机的研发进展。 据IT之家了解，最新发布的 Galaxy Z Fold8、Galaxy Z Fold8 Ultra…",
+          "keyPoints": [
+            "屏幕形态",
+            "电池 / 充电"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
@@ -139,29 +138,6 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
-          "id": "auto-59290dc9c0ce",
-          "title": "传闻三星 MX 考虑为在中销售中低端智能手机导入中国产 DRAM 内存",
-          "originalTitle": "",
-          "source": "IT之家",
-          "brand": "Samsung",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-07-27",
-          "time": "08:03",
-          "publishedAt": "2026-07-27T08:03:17.000Z",
-          "url": "https://www.ithome.com/0/982/091.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/7/2cf99f54-235a-4929-86b7-c0fc6e3937d9.jpg?x-bce-process=image/format,f_auto",
-          "verdict": "先看",
-          "takeaway": "IT之家 7 月 27 日消息，韩媒《亚洲时报》当地时间今日报道称， 三星电子 MX 业务正积极考虑为在中国市场销售的中低端智能手机（以 Galaxy A 系列为代表）导入中国产 DRAM 内存 。 报道认为，中国智能手机品牌由于存储器等成本持续飙升下调了中低端机型的出货目标，空出了一部分潜在市场（同时也释放了一定规模的较低成本中国产 LPDDR5X 内存…",
-          "detail": "IT之家 7 月 27 日消息，韩媒《亚洲时报》当地时间今日报道称， 三星电子 MX 业务正积极考虑为在中国市场销售的中低端智能手机（以 Galaxy A 系列为代表）导入中国产 DRAM 内存 。 报道认为，中国智能手机品牌由于存储器等成本持续飙升下调了中低端机型的出货目标，空出了一部分潜在市场（同时也释放了一定规模的较低成本中国产 LPDDR5X 内存…",
-          "keyPoints": [
-            "成本 / 价格"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
           "id": "weibo-e6334c30c508",
           "title": "数码闲聊站：OPPO A7 Pro Max，万级大电池新机喜欢吗[doge]",
           "originalTitle": "",
@@ -199,10 +175,33 @@ window.phoneRadarDaily = {
           "url": "https://www.coolapk.com/feed/72962782",
           "image": "http://image.coolapk.com/feed/2026/0727/18/4248714_cd9d2e34_6555_1244_867@3326x2492.jpg",
           "verdict": "先看",
-          "takeaway": "【消息称华为Pura 90系列销量已破百万台】 7月27日，博主「RD观测」分享第三方数据：截至2026年第29周，华为Pura 90系列手机销量约101.49万台。 此前五月，该博主爆料称，Pura 90 Pro首销当日销量约为上代同期的175%，Pura 90 Pro Max销量则约为上代的125%。 #今日热点# #鸿蒙6# #华为Pura90Pro…",
-          "detail": "【消息称华为Pura 90系列销量已破百万台】 7月27日，博主「RD观测」分享第三方数据：截至2026年第29周，华为Pura 90系列手机销量约101.49万台。 此前五月，该博主爆料称，Pura 90 Pro首销当日销量约为上代同期的175%，Pura 90 Pro Max销量则约为上代的125%。 #今日热点# #鸿蒙6# #华为Pura90Pro…",
+          "takeaway": "【消息称华为Pura 90系列销量已破百万台】 7月27日，博主「RD观测」分享第三方数据：截至2026年第29周，华为Pura 90系列手机销量约101.49万台。 此前五月，该博主爆料称，以首销当日为标准，Pura 90 Pro销量约为上代同期的175%，Pura 90 Pro Max销量则约为上代的125%。 #今日热点# #鸿蒙6# #华为Pura…",
+          "detail": "【消息称华为Pura 90系列销量已破百万台】 7月27日，博主「RD观测」分享第三方数据：截至2026年第29周，华为Pura 90系列手机销量约101.49万台。 此前五月，该博主爆料称，以首销当日为标准，Pura 90 Pro销量约为上代同期的175%，Pura 90 Pro Max销量则约为上代的125%。 #今日热点# #鸿蒙6# #华为Pura…",
           "keyPoints": [
             "爆料来源"
+          ],
+          "confidence": "可信度较高，但仍属于发布前线索。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "coolapk-user-dece461074d7",
+          "title": "竹本青：荣耀手环11系列开启全渠道预约",
+          "originalTitle": "",
+          "source": "竹本青",
+          "brand": "HONOR",
+          "type": "爆料",
+          "trust": "高可信爆料",
+          "date": "2026-07-27",
+          "time": "09:13",
+          "publishedAt": "2026-07-27T09:13:22.000Z",
+          "url": "https://www.coolapk.com/feed/72962117",
+          "image": "http://image.coolapk.com/feed/2026/0727/17/4248714_971f418b_3598_384_186@2000x3556.jpg",
+          "verdict": "先看",
+          "takeaway": "【荣耀手环11系列 开启全渠道预约：全系专业羽毛球模式，Pro版升级26天续航】 ● 标准版 —— 海盐白、芋泥紫、鱼子酱 专业羽毛球模式 18天超长续航 睡眠健康监测 ● Pro版/GPS版 —— 杏仁白、可可黑、牛油果 专业羽毛球模式 26天超长续航 睡眠健康监测 独立五星GPS #今日热点# #荣耀手环11# #MagicOS10#",
+          "detail": "【荣耀手环11系列 开启全渠道预约：全系专业羽毛球模式，Pro版升级26天续航】 ● 标准版 —— 海盐白、芋泥紫、鱼子酱 专业羽毛球模式 18天超长续航 睡眠健康监测 ● Pro版/GPS版 —— 杏仁白、可可黑、牛油果 专业羽毛球模式 26天超长续航 睡眠健康监测 独立五星GPS #今日热点# #荣耀手环11# #MagicOS10#",
+          "keyPoints": [
+            "电池 / 充电"
           ],
           "confidence": "可信度较高，但仍属于发布前线索。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",

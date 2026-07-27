@@ -1,6 +1,226 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-07-27T11:37:23.660Z",
+  "updatedAt": "2026-07-27T15:12:15.287Z",
   "news": [
+    {
+      "id": "auto-6c1acb73630f",
+      "title": "Global Redmi Note 17 series prices leak ahead of launch",
+      "source": "Gizmochina",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-27",
+      "time": "15:09",
+      "publishedAt": "2026-07-27T15:09:40.000Z",
+      "url": "https://www.gizmochina.com/2026/07/27/global-redmi-note-17-series-prices-leak-ahead-of-launch/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/07/Redmi-Note-17-300x188.png?x92417",
+      "summary": "Redmi brought the Note 17 and Note 17 Pro to China this month, and the brand is now preparing to launch the lineup worldwide. The series is rumored to debut in India on August 6,…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-a2f8ad9eb652",
+      "title": "Breaking: Galaxy S27 Pro and Galaxy S27 Ultra battery capacities leak!",
+      "source": "SamMobile",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-27",
+      "time": "15:08",
+      "publishedAt": "2026-07-27T15:08:00.000Z",
+      "url": "https://www.sammobile.com/news/galaxy-s27-pro-ultra-battery-capacity-leak/",
+      "image": "",
+      "summary": "Samsung is bringing several improvements to its next-generation high-end smartphones. There will be four models in the Galaxy S27 series. The Galaxy S27 Pro and the Galaxy S27 Ult…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-83ac0d91786a",
+      "title": "iPhone 18 launch could be repeat of unusual 2020 release",
+      "source": "9to5Mac",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-27",
+      "time": "14:44",
+      "publishedAt": "2026-07-27T14:44:45.000Z",
+      "url": "https://9to5mac.com/2026/07/27/iphone-18-launch-could-be-repeat-of-unusual-2020-release/",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/05/iphone-18-pro-dummy-colors.jpg?quality=82&strip=all&w=1600",
+      "summary": "Apple’s unveiling of iPhone 18 models this fall is expected in September, as usual, but there are several ways this year’s launches will reflect the anomaly of COVID-era 2020’s iP…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-d3e44ea27c16",
+      "title": "Aviate, Android’s answer to Flighty, is now available to download",
+      "source": "9to5Google",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-27",
+      "time": "14:44",
+      "publishedAt": "2026-07-27T14:44:13.000Z",
+      "url": "https://9to5google.com/2026/07/27/aviate-androids-answer-to-flighty-is-now-available-to-download/",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/07/Avita-for-Android-1.jpg?quality=82&strip=all&w=1600",
+      "summary": "After a limited alpha testing phase, Aviate, the flight tracking application that aims to be a full rebuttal to iPhone’s Flighty tracker, is now officially available on Android.",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-892dfd2c440b",
+      "title": "OnePlus 16 sounds great; too bad you won’t be able to buy it",
+      "source": "9to5Google",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-27",
+      "time": "14:30",
+      "publishedAt": "2026-07-27T14:30:00.000Z",
+      "url": "https://9to5google.com/2026/07/27/oneplus-16-sounds-great-too-bad-you-wont-be-able-to-buy-it/",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2025/11/OnePlus-15-mid-camera-bar.jpg?quality=82&strip=all&w=1600",
+      "summary": "A new leak paints a picture of the OnePlus 16, which will be tantalizingly out of reach for the brand’s loyal customers from around the globe.",
+      "tags": [
+        "OPPO",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-2513ea1a7e07",
+      "title": "T-Mobile subscribers can get a $5 ticket to Spider-Man: Brand New Day",
+      "source": "Android Authority",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-27",
+      "time": "14:25",
+      "publishedAt": "2026-07-27T14:25:02.000Z",
+      "url": "https://www.androidauthority.com/t-mobile-spider-man-ticket-discount-3691455/",
+      "image": "",
+      "summary": "And enter to win a free Galaxy Z Fold 8.",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-43dd456cb924",
+      "title": "Samsung hints at silicon-carbon batteries for more Galaxy phones",
+      "source": "9to5Google",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-27",
+      "time": "14:20",
+      "publishedAt": "2026-07-27T14:20:00.000Z",
+      "url": "https://9to5google.com/2026/07/27/samsung-hints-at-silicon-carbon-batteries-for-more-galaxy-phones/",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/07/Using-Galaxy-Z-Fold-8-one-handed-2.jpg?quality=82&strip=all&w=1600",
+      "summary": "One of the big updates in Samsung’s Galaxy Z Fold 8 series is the debut of silicon-carbon batteries and, in an interview, Samsung has hinted at what might be next for the updated…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-2f95d07ccf2c",
+      "title": "三星硅碳电池有望下放至 Galaxy S27 系列，卷轴屏手机研发持续推进",
+      "source": "IT之家",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-27",
+      "time": "12:29",
+      "publishedAt": "2026-07-27T12:29:45.000Z",
+      "url": "https://www.ithome.com/0/982/235.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/7/789eff08-2d80-4a18-b09b-d8aaab9e7bbe.jpg?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 7 月 27 日消息，三星最新发布的 Galaxy 折叠屏手机终于开始采用硅碳（Si-C）电池，如今该公司也谈到了未来将硅碳电池引入 Galaxy S 系列（包括 Galaxy S27 系列）的可能性，同时还透露了备受关注的卷轴屏手机的研发进展。 据IT之家了解，最新发布的 Galaxy Z Fold8、Galaxy Z Fold8 Ultra…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-52455d156b0b",
+      "title": "It’s not just you: Google Maps traffic lines have disappeared for many users",
+      "source": "Android Authority",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-27",
+      "time": "12:06",
+      "publishedAt": "2026-07-27T12:06:59.000Z",
+      "url": "https://www.androidauthority.com/google-maps-traffic-lines-bug-3691411/",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2025/11/a-route-with-a-turn-in-google-maps-scaled.jpg",
+      "summary": "A bug is wiping out green, yellow, orange, and red route overlays across Android, iOS, and desktop web browser.",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-5042ab79f1aa",
+      "title": "Huawei Pura 90 series featuring Kirin 9030S crosses a million in sales",
+      "source": "Huawei Central",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-27",
+      "time": "11:50",
+      "publishedAt": "2026-07-27T11:50:03.000Z",
+      "url": "https://www.huaweicentral.com/huawei-pura-90-series-featuring-kirin-9030s-crosses-a-million-in-sales/",
+      "image": "https://www.huaweicentral.com/wp-content/uploads/2026/04/huawei-pura-90-k2.jpg",
+      "summary": "Huawei Pura 90 series has been in the market for nearly three months, and the camera flagship has already made over a million in sales. The special credit goes to the Pro Max vari…",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-c83f3c1b97fb",
+      "title": "HMD Asha 305 手机包装盒曝光：搭载“Pulse OS”、5 英寸 480P 面板",
+      "source": "IT之家",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-27",
+      "time": "11:41",
+      "publishedAt": "2026-07-27T11:41:42.000Z",
+      "url": "https://www.ithome.com/0/982/226.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/7/a7426426-b362-4005-a891-c5fd338e31c0.png",
+      "summary": "IT之家 7 月 27 日消息，消息源 nloopid 发文，展示了 HMD Asha 305 手机的包装盒，显示该机搭载“Pulse OS”，不过IT之家查询公开互联网暂未找到这款所谓“Pulse OS”来头，综合此前消息源 smashx_60 曝光的信息，预计这款“Pulse OS”是 HMD 基于安卓魔改的新产品。 参考包装盒背面信息及此前曝光规格，…",
+      "tags": [
+        "行业",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-5af8133e07a1",
       "title": "消息称某厂子系骁龙 8E6 Pro 新机排期 10 月发布，预计为一加 16",
@@ -63,7 +283,7 @@ window.phoneRadarAuto = {
     },
     {
       "id": "auto-4306ab9f34e5",
-      "title": "Galaxy S27 series camera sensor upgrades detailed: Pro and Ultra get 16MP selfie, Sony ultrawide",
+      "title": "Galaxy S27 series camera sensor upgrades detailed in new leak",
       "source": "Gizmochina",
       "brand": "Samsung",
       "model": "Samsung 相关机型",
@@ -94,7 +314,7 @@ window.phoneRadarAuto = {
       "publishedAt": "2026-07-27T10:02:36.000Z",
       "url": "https://www.coolapk.com/feed/72962782",
       "image": "http://image.coolapk.com/feed/2026/0727/18/4248714_cd9d2e34_6555_1244_867@3326x2492.jpg",
-      "summary": "【消息称华为Pura 90系列销量已破百万台】 7月27日，博主「RD观测」分享第三方数据：截至2026年第29周，华为Pura 90系列手机销量约101.49万台。 此前五月，该博主爆料称，Pura 90 Pro首销当日销量约为上代同期的175%，Pura 90 Pro Max销量则约为上代的125%。 #今日热点# #鸿蒙6# #华为Pura90Pro…",
+      "summary": "【消息称华为Pura 90系列销量已破百万台】 7月27日，博主「RD观测」分享第三方数据：截至2026年第29周，华为Pura 90系列手机销量约101.49万台。 此前五月，该博主爆料称，以首销当日为标准，Pura 90 Pro销量约为上代同期的175%，Pura 90 Pro Max销量则约为上代的125%。 #今日热点# #鸿蒙6# #华为Pura…",
       "tags": [
         "Huawei",
         "爆料",
@@ -177,26 +397,6 @@ window.phoneRadarAuto = {
       "summary": "IT之家 7 月 27 日消息，博主 @数码闲聊站 今日爆料，某厂 S 在评估目前同档最强潜望镜 + 增距镜。结合该博主此前的爆料习惯，预计为 vivo S70 系列。 IT之家注意到，vivo 于今年 4 月发布 增距镜 G2 / G2 Ultra 等影像配件产品，不过仅适配 vivo X300 Ultra 等旗舰产品，建议零售价 999 元起。其中，v…",
       "tags": [
         "vivo",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-b5fd7b2de5de",
-      "title": "Google basically confirms the Pixel 11 is getting a price hike",
-      "source": "The Verge",
-      "brand": "Pixel",
-      "model": "Pixel 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-27",
-      "time": "09:27",
-      "publishedAt": "2026-07-27T09:27:44.000Z",
-      "url": "https://www.theverge.com/tech/971041/google-confirms-pixel-11-price-hike",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Screenshot-2026-07-15-at-11.36.30-AM.png?quality=90&strip=all&crop=0,0,100,100",
-      "summary": "Google's vice president of devices and services, Shakil Barkat, all but confirmed in an interview with 9to5 Google that its next Pixel phone would cost more than the Pixel 10. Con…",
-      "tags": [
-        "Pixel",
         "爆料",
         "自动抓取"
       ]
@@ -302,126 +502,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-ab99107a4bd5",
-      "title": "上汽大众 ID. ERA 5S 两款内饰颜色公布，第三季度上市",
-      "source": "IT之家",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-27",
-      "time": "08:41",
-      "publishedAt": "2026-07-27T08:41:00.000Z",
-      "url": "https://www.ithome.com/0/982/118.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/7/4a4cddbb-a8d1-40f2-bfb0-bca2d0840199.jpg?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 7 月 27 日消息，上汽大众今日公布了德系超混智能家轿 ID. ERA 5S 的两款内饰颜色， 新车将于第三季度上市 。 上汽大众 ID. ERA 5S 两款内饰颜色分别为“ 浮光 ”和“ 掠影 ”，采用环抱一体式布局，车内饰条与隐藏式出风口、侧窗开关与门拉手、手机充电区与中央出风口均进行整合设计。 据IT之家此前报道， 工信部申报信息显示 ，…",
-      "tags": [
-        "行业",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-51e8a888a1e8",
-      "title": "小米 POCO M8 Power 海外机型 8 月 4 日发布，预计为 REDMI Note 17 标准版手机“套娃机”",
-      "source": "IT之家",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-27",
-      "time": "08:21",
-      "publishedAt": "2026-07-27T08:21:37.000Z",
-      "url": "https://www.ithome.com/0/982/109.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/7/7a39e52a-9bd6-4ad3-bcaf-bdc87a1f1829.png?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 7 月 27 日消息，小米现官宣将于 8 月 4 日在印度推出一款 POCO M8 Power 手机，该机将配备一块容量高达 8000mAh 的电池，采用 AMOLED 显示屏，主打电竞体验。 综合IT之家此前报道，该机实际上为小米 REDMI Note 17 标准版的“套娃机”，不过换用了全新橙色配色。 回顾 小米 REDMI Note 17…",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-59290dc9c0ce",
-      "title": "传闻三星 MX 考虑为在中销售中低端智能手机导入中国产 DRAM 内存",
-      "source": "IT之家",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-27",
-      "time": "08:03",
-      "publishedAt": "2026-07-27T08:03:17.000Z",
-      "url": "https://www.ithome.com/0/982/091.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/7/2cf99f54-235a-4929-86b7-c0fc6e3937d9.jpg?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 7 月 27 日消息，韩媒《亚洲时报》当地时间今日报道称， 三星电子 MX 业务正积极考虑为在中国市场销售的中低端智能手机（以 Galaxy A 系列为代表）导入中国产 DRAM 内存 。 报道认为，中国智能手机品牌由于存储器等成本持续飙升下调了中低端机型的出货目标，空出了一部分潜在市场（同时也释放了一定规模的较低成本中国产 LPDDR5X 内存…",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "coolapk-user-62939646eb51",
-      "title": "竹本青：小米之家员工称K系列新机下月上市，或为K100系列",
-      "source": "竹本青",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-07-27",
-      "time": "08:02",
-      "publishedAt": "2026-07-27T08:02:02.000Z",
-      "url": "https://www.coolapk.com/feed/72961098",
-      "image": "http://image.coolapk.com/feed/2026/0727/16/4248714_c4a5333b_9321_2093_736@1440x1139.jpg",
-      "summary": "【REDMI K100系列？小米之家员工称K系列新机预计下月正式上市】 7月27日，有小米之家员工在朋友圈预告：K系列新机即将登场，预计下个月正式上市，现已开启9.9元订金线下预约。 此前，已有多方爆料显示，REDMI K100系列 提档至8月发布，将率先推出K100 Pro、K100 Pro Max两款Pro机型，标准版则延后上市。本次线下渠道披露时间，…",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
-      "id": "auto-acdf8ac8de22",
-      "title": "Galaxy S23 July 2026 security update goes international",
-      "source": "SamMobile",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-27",
-      "time": "06:42",
-      "publishedAt": "2026-07-27T06:42:04.000Z",
-      "url": "https://www.sammobile.com/news/galaxy-s23-july-2026-security-update-international/",
-      "image": "",
-      "summary": "Last week, Samsung not only announced the Galaxy Z Flip 8 and Galaxy Z Fold 8 series but also released the July 2026 security update for the Galaxy S23 series. However, that updat…",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-ded10a067fb9",
-      "title": "After Galaxy Z Fold 8, Galaxy S27 could use Silicon-Carbon batteries",
-      "source": "SamMobile",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-27",
-      "time": "06:14",
-      "publishedAt": "2026-07-27T06:14:15.000Z",
-      "url": "https://www.sammobile.com/news/galaxy-s27-plus-pro-ultra-silicon-carbon-batteries/",
-      "image": "",
-      "summary": "The Galaxy Z Fold 8 and Galaxy Z Fold 8 Ultra are Samsung's first phones to use silicon-carbon anode batteries. The company is now reportedly considering using similar batteries i…",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "coolapk-user-8bfe91105d87",
       "title": "竹本青：荣耀影像技术发布会看点公布：联合阿莱研发底层技术",
       "source": "竹本青",
@@ -439,26 +519,6 @@ window.phoneRadarAuto = {
         "HONOR",
         "爆料",
         "酷安博主"
-      ]
-    },
-    {
-      "id": "auto-697e99f3f5df",
-      "title": "Galaxy Z Fold 8 vs Galaxy Z Fold 8 Ultra: Which one should you buy?",
-      "source": "SamMobile",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-27",
-      "time": "05:31",
-      "publishedAt": "2026-07-27T05:31:00.000Z",
-      "url": "https://www.sammobile.com/news/ultimate-galaxy-z-fold-8-ultra-buying-guide/",
-      "image": "https://www.sammobile.com/wp-content/uploads/2026/07/Galaxy-Z-Fold-8-Ultra-vs-Fold-8-foldable-display-2-1920x1079.jpg",
-      "summary": "Samsung's Galaxy Z Fold 8 series gives you two very different book-style foldables. While they share the same basic concept, they're designed to deliver very different experiences…",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
       ]
     },
     {
@@ -597,26 +657,6 @@ window.phoneRadarAuto = {
       "summary": "Apple's 20th anniversary iPhone is expected to arrive in the fall of 2027 with the most significant design overhaul the device has seen since the iPhone X. In many ways, the devic…",
       "tags": [
         "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-333c1c4cadbb",
-      "title": "You can’t be mad at Samsung for joining the passport club with the Galaxy Z Fold 8",
-      "source": "SamMobile",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-27",
-      "time": "00:06",
-      "publishedAt": "2026-07-27T00:06:04.000Z",
-      "url": "https://www.sammobile.com/opinion/you-cant-be-mad-samsung-joining-passport-club-galaxy-z-fold-8/",
-      "image": "",
-      "summary": "Samsung announced its new foldable lineup on July 22, and the device everyone ended up talking about wasn't the one I expected. Next to the Galaxy Z Fold 8 Ultra, which is the tal…",
-      "tags": [
-        "Samsung",
         "爆料",
         "自动抓取"
       ]
@@ -762,6 +802,26 @@ window.phoneRadarAuto = {
       ]
     },
     {
+      "id": "newsnow-9687a358205b",
+      "title": "小米之家员工称K系列新机下月上市，或为K100系列",
+      "source": "酷安热榜",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-07-27",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/72961098",
+      "image": "",
+      "summary": "小米之家员工称K系列新机下月上市，或为K100系列",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
       "id": "newsnow-8603160bede1",
       "title": "今天路过线下，终于看到授权店摆放vivo X300E的样机了。",
       "source": "酷安热榜",
@@ -782,21 +842,21 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-7e009c878ad4",
-      "title": "前几这么多华为[疑问]真有这么好吗，想按排行榜选手机，是不是不靠谱",
-      "source": "酷安热榜",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
+      "id": "newsnow-a6065b3357aa",
+      "title": "极客湾手机续航大横评",
+      "source": "B站热搜",
+      "brand": "行业",
+      "model": "智能手机市场",
       "type": "爆料",
-      "trust": "高关注爆料源",
+      "trust": "媒体汇总",
       "date": "2026-07-27",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72932562",
+      "url": "https://search.bilibili.com/all?keyword=%E6%9E%81%E5%AE%A2%E6%B9%BE%E6%89%8B%E6%9C%BA%E7%BB%AD%E8%88%AA%E5%A4%A7%E6%A8%AA%E8%AF%84",
       "image": "",
-      "summary": "前几这么多华为[疑问]真有这么好吗，想按排行榜选手机，是不是不靠谱",
+      "summary": "极客湾手机续航大横评",
       "tags": [
-        "Huawei",
+        "行业",
         "爆料",
         "NewsNow"
       ]
@@ -975,26 +1035,6 @@ window.phoneRadarAuto = {
       "url": "https://www.androidauthority.com/things-samsung-got-wrong-with-galaxy-z-fold-8-ultra-3690280/",
       "image": "https://www.androidauthority.com/wp-content/uploads/2026/07/z-fold-8-vs-ultra-1.jpg",
       "summary": "Samsung's newest Fold still doesn't feel truly \"Ultra.\"",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-0011d942202a",
-      "title": "My favorite Samsung Galaxy Z Flip 8 upgrade finally lets the clamshell take on Apple",
-      "source": "Android Police",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-26",
-      "time": "10:00",
-      "publishedAt": "2026-07-26T10:00:16.000Z",
-      "url": "https://www.androidpolice.com/my-favorite-galaxy-z-flip-8-upgrade-is-all-about-the-cover/",
-      "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2026/07/samsung-galaxy-z-flip-8-home.jpg",
-      "summary": "Making the smaller screen useful",
       "tags": [
         "Samsung",
         "爆料",
