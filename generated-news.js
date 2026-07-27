@@ -1,6 +1,46 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-07-27T17:54:36.540Z",
+  "updatedAt": "2026-07-27T19:53:13.831Z",
   "news": [
+    {
+      "id": "auto-031815a61a81",
+      "title": "Galaxy S27 Ultra rumored to near 6,000 mAh in long-overdue battery upgrade",
+      "source": "9to5Google",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-27",
+      "time": "19:30",
+      "publishedAt": "2026-07-27T19:30:00.000Z",
+      "url": "https://9to5google.com/2026/07/27/samsung-galaxy-s27-ultra-battery-upgrade-rumor/",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/02/galaxy-s26-ultra-15.jpg?quality=82&strip=all&w=1600",
+      "summary": "If you had to pick one spec on Samsung’s top-end flagship that doesn’t feel all that “Ultra,” it’d probably be the 5,000 mAh battery that hasn’t changed in half a decade. Finally,…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-bdea0a7b4d27",
+      "title": "The Secrets Behind Samsung’s Privacy Screen",
+      "source": "iFixit News",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-07-27",
+      "time": "19:08",
+      "publishedAt": "2026-07-27T19:08:50.000Z",
+      "url": "https://www.ifixit.com/News/117498/the-secrets-behind-samsungs-privacy-screen",
+      "image": "",
+      "summary": "We tear down the Samsung Galaxy S26 Ultra to uncover the hardware behind its built-in OLED privacy screen. See how this anti-snooping tech works.",
+      "tags": [
+        "Samsung",
+        "评测",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-4a3085ff5c73",
       "title": "Galaxy S27 Pro, Ultra battery specs leaked: don't freak out, but we've wanted this forever",
@@ -31,7 +71,7 @@ window.phoneRadarAuto = {
       "trust": "媒体汇总",
       "date": "2026-07-27",
       "time": "17:21",
-      "publishedAt": "2026-07-27T17:21:21.000Z",
+      "publishedAt": "2026-07-27T17:21:12.000Z",
       "url": "https://www.macrumors.com/2026/07/27/amazon-iphone-satellite-network/",
       "image": "https://images.macrumors.com/article-new/2024/11/iPhone-Satellite-Feature.jpg",
       "summary": "Amazon is planning to deploy up to 5,105 low Earth orbit satellites that will use Globalstar spectrum to provide voice, data, messaging, and emergency services to devices like the…",
@@ -482,26 +522,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-896ae8976e2a",
-      "title": "消息称华为 Pura 90 系列手机销量破 100 万台",
-      "source": "IT之家",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-27",
-      "time": "09:30",
-      "publishedAt": "2026-07-27T09:30:42.000Z",
-      "url": "https://www.ithome.com/0/982/166.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/7/ff7b1e63-45bb-406a-8cf2-58de1c322d9f.jpg",
-      "summary": "IT之家 7 月 27 日消息，长期关注国内手机市场份额的博主 @RD观测 今日爆料，截至 2026 年第 29 周（7 月 13 日-7 月 19 日）， 华为 Pura 90 系列手机销量约 101.49 万台 。 据IT之家此前报道，4 月 29 日， 华为 Pura 90 Pro / Pro Max 手机正式开售 ，首发麒麟 9030S 处理器，售…",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-8c68b15058b9",
       "title": "5 Android phones you should buy instead of the Samsung Galaxy Z Flip 8",
       "source": "Android Authority",
@@ -517,26 +537,6 @@ window.phoneRadarAuto = {
       "summary": "Not the ideal upgrade.",
       "tags": [
         "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-43784522396c",
-      "title": "消息称某厂 S 迭代评估同档最强潜望镜 + 增距镜，预计为 vivo S70 系列",
-      "source": "IT之家",
-      "brand": "vivo",
-      "model": "vivo 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-27",
-      "time": "09:29",
-      "publishedAt": "2026-07-27T09:29:09.000Z",
-      "url": "https://www.ithome.com/0/982/165.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/7/de0bd4bd-1712-4c86-bbc3-e567e4b66529.png",
-      "summary": "IT之家 7 月 27 日消息，博主 @数码闲聊站 今日爆料，某厂 S 在评估目前同档最强潜望镜 + 增距镜。结合该博主此前的爆料习惯，预计为 vivo S70 系列。 IT之家注意到，vivo 于今年 4 月发布 增距镜 G2 / G2 Ultra 等影像配件产品，不过仅适配 vivo X300 Ultra 等旗舰产品，建议零售价 999 元起。其中，v…",
-      "tags": [
-        "vivo",
         "爆料",
         "自动抓取"
       ]
@@ -882,41 +882,21 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-befab05b9e2b",
-      "title": "vivo X300E 发布：骁龙8 Gen5，售价4799元起",
+      "id": "newsnow-4d6bddd3629a",
+      "title": "#iPhone17ProMax# #小米17ProMax#",
       "source": "酷安热榜",
-      "brand": "vivo",
-      "model": "vivo 相关机型",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-07-27",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72956011",
+      "url": "https://www.coolapk.com/feed/72953275",
       "image": "",
-      "summary": "vivo X300E 发布：骁龙8 Gen5，售价4799元起",
+      "summary": "#iPhone17ProMax# #小米17ProMax#",
       "tags": [
-        "vivo",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-7938382ab360",
-      "title": "垃圾手机真难用啊，说电信的网不好，我又搞了广电的，没想到一样烂，信号这玩意还不如安卓机，等90出来观望下，还这么烂直接转米了",
-      "source": "酷安热榜",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-07-27",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72949982",
-      "image": "",
-      "summary": "垃圾手机真难用啊，说电信的网不好，我又搞了广电的，没想到一样烂，信号这玩意还不如安卓机，等90出来观望下，还这么烂直接转米了",
-      "tags": [
-        "行业",
+        "Xiaomi",
         "爆料",
         "NewsNow"
       ]
@@ -942,8 +922,8 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-8603160bede1",
-      "title": "今天路过线下，终于看到授权店摆放vivo X300E的样机了。",
+      "id": "newsnow-befab05b9e2b",
+      "title": "vivo X300E 发布：骁龙8 Gen5，售价4799元起",
       "source": "酷安热榜",
       "brand": "vivo",
       "model": "vivo 相关机型",
@@ -952,11 +932,31 @@ window.phoneRadarAuto = {
       "date": "2026-07-27",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72951358",
+      "url": "https://www.coolapk.com/feed/72956011",
       "image": "",
-      "summary": "今天路过线下，终于看到授权店摆放vivo X300E的样机了。",
+      "summary": "vivo X300E 发布：骁龙8 Gen5，售价4799元起",
       "tags": [
         "vivo",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-a6065b3357aa",
+      "title": "极客湾手机续航大横评",
+      "source": "B站热搜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-27",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://search.bilibili.com/all?keyword=%E6%9E%81%E5%AE%A2%E6%B9%BE%E6%89%8B%E6%9C%BA%E7%BB%AD%E8%88%AA%E5%A4%A7%E6%A8%AA%E8%AF%84",
+      "image": "",
+      "summary": "极客湾手机续航大横评",
+      "tags": [
+        "行业",
         "爆料",
         "NewsNow"
       ]
@@ -1097,26 +1097,6 @@ window.phoneRadarAuto = {
       "summary": "Samsung's silicon-carbon era starts now.",
       "tags": [
         "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-de7cc212d4cd",
-      "title": "The first thing I do for friends switching from iPhone to Android is change this setting",
-      "source": "Android Police",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-26",
-      "time": "12:00",
-      "publishedAt": "2026-07-26T12:00:16.000Z",
-      "url": "https://www.androidpolice.com/setting-iphone-switchers-should-change/",
-      "image": "",
-      "summary": "This is why switching OS feels like starting over",
-      "tags": [
-        "iPhone",
         "爆料",
         "自动抓取"
       ]

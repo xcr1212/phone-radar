@@ -1,5 +1,5 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-07-27T17:54:36.540Z",
+  "updatedAt": "2026-07-27T19:53:13.831Z",
   "issueDate": "2026-07-27",
   "issue": "VOL.260727",
   "title": "手机情报日报",
@@ -27,7 +27,7 @@ window.phoneRadarDaily = {
           "trust": "媒体汇总",
           "date": "2026-07-27",
           "time": "17:21",
-          "publishedAt": "2026-07-27T17:21:21.000Z",
+          "publishedAt": "2026-07-27T17:21:12.000Z",
           "url": "https://www.macrumors.com/2026/07/27/amazon-iphone-satellite-network/",
           "image": "https://images.macrumors.com/article-new/2024/11/iPhone-Satellite-Feature.jpg",
           "verdict": "先看",
@@ -82,55 +82,6 @@ window.phoneRadarDaily = {
           "detail": "IT之家 7 月 27 日消息，博主 @数码闲聊站 今日爆料，某厂子系骁龙 8E6 Pro 新机最新排期 10 月。结合该博主此前的爆料习惯，预计为一加 16。 据其爆料，该机工程机还是 6.78 英寸 LIPO 极窄四等边直屏，镜头 Deco 还是方形小矩阵，ID 设计大方向不变。 IT之家注意到，该博主今年 5 月曾曝光子系品牌一款 SM8975 /…",
           "keyPoints": [
             "屏幕形态",
-            "爆料来源"
-          ],
-          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "auto-896ae8976e2a",
-          "title": "消息称华为 Pura 90 系列手机销量破 100 万台",
-          "originalTitle": "",
-          "source": "IT之家",
-          "brand": "Huawei",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-07-27",
-          "time": "09:30",
-          "publishedAt": "2026-07-27T09:30:42.000Z",
-          "url": "https://www.ithome.com/0/982/166.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/7/ff7b1e63-45bb-406a-8cf2-58de1c322d9f.jpg",
-          "verdict": "先看",
-          "takeaway": "IT之家 7 月 27 日消息，长期关注国内手机市场份额的博主 @RD观测 今日爆料，截至 2026 年第 29 周（7 月 13 日-7 月 19 日）， 华为 Pura 90 系列手机销量约 101.49 万台 。 据IT之家此前报道，4 月 29 日， 华为 Pura 90 Pro / Pro Max 手机正式开售 ，首发麒麟 9030S 处理器，售…",
-          "detail": "IT之家 7 月 27 日消息，长期关注国内手机市场份额的博主 @RD观测 今日爆料，截至 2026 年第 29 周（7 月 13 日-7 月 19 日）， 华为 Pura 90 系列手机销量约 101.49 万台 。 据IT之家此前报道，4 月 29 日， 华为 Pura 90 Pro / Pro Max 手机正式开售 ，首发麒麟 9030S 处理器，售…",
-          "keyPoints": [
-            "芯片 / 性能",
-            "爆料来源"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "auto-43784522396c",
-          "title": "消息称某厂 S 迭代评估同档最强潜望镜 + 增距镜，预计为 vivo S70 系列",
-          "originalTitle": "",
-          "source": "IT之家",
-          "brand": "vivo",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-07-27",
-          "time": "09:29",
-          "publishedAt": "2026-07-27T09:29:09.000Z",
-          "url": "https://www.ithome.com/0/982/165.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/7/de0bd4bd-1712-4c86-bbc3-e567e4b66529.png",
-          "verdict": "先看",
-          "takeaway": "IT之家 7 月 27 日消息，博主 @数码闲聊站 今日爆料，某厂 S 在评估目前同档最强潜望镜 + 增距镜。结合该博主此前的爆料习惯，预计为 vivo S70 系列。 IT之家注意到，vivo 于今年 4 月发布 增距镜 G2 / G2 Ultra 等影像配件产品，不过仅适配 vivo X300 Ultra 等旗舰产品，建议零售价 999 元起。其中，v…",
-          "detail": "IT之家 7 月 27 日消息，博主 @数码闲聊站 今日爆料，某厂 S 在评估目前同档最强潜望镜 + 增距镜。结合该博主此前的爆料习惯，预计为 vivo S70 系列。 IT之家注意到，vivo 于今年 4 月发布 增距镜 G2 / G2 Ultra 等影像配件产品，不过仅适配 vivo X300 Ultra 等旗舰产品，建议零售价 999 元起。其中，v…",
-          "keyPoints": [
-            "影像硬件",
-            "成本 / 价格",
             "爆料来源"
           ],
           "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
@@ -206,6 +157,52 @@ window.phoneRadarDaily = {
           "confidence": "可信度较高，但仍属于发布前线索。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "coolapk-user-8bfe91105d87",
+          "title": "竹本青：荣耀影像技术发布会看点公布：联合阿莱研发底层技术",
+          "originalTitle": "",
+          "source": "竹本青",
+          "brand": "HONOR",
+          "type": "爆料",
+          "trust": "高可信爆料",
+          "date": "2026-07-27",
+          "time": "05:35",
+          "publishedAt": "2026-07-27T05:35:04.000Z",
+          "url": "https://www.coolapk.com/feed/72959362",
+          "image": "http://image.coolapk.com/feed/2026/0727/13/4248714_7ce23251_0501_2283_909@1730x4794.jpg",
+          "verdict": "先看",
+          "takeaway": "【荣耀影像技术发布会 看点公布：联合阿莱研发底层技术，Robot Phone影像能力解析】 ▫️荣耀AiMAGE影像愿景战略 ▫️荣耀阿莱联合研发底层技术 ▫️奥斯卡最佳摄影得主克劳迪奥·米兰达复刻好莱坞名场面 ▫️中国著名电影摄影指导王博学《返航日》一镜到底大片首映 ▫️荣耀Robot Phone影像能力深度解析 #今日热点# #荣耀ROBOTPHONE#",
+          "detail": "【荣耀影像技术发布会 看点公布：联合阿莱研发底层技术，Robot Phone影像能力解析】 ▫️荣耀AiMAGE影像愿景战略 ▫️荣耀阿莱联合研发底层技术 ▫️奥斯卡最佳摄影得主克劳迪奥·米兰达复刻好莱坞名场面 ▫️中国著名电影摄影指导王博学《返航日》一镜到底大片首映 ▫️荣耀Robot Phone影像能力深度解析 #今日热点# #荣耀ROBOTPHONE#",
+          "keyPoints": [
+            "影像硬件"
+          ],
+          "confidence": "可信度较高，但仍属于发布前线索。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "coolapk-user-b2326497798c",
+          "title": "JSCHEN小小狐：博主曝光华为新一代轻薄本：仅重约 798 克",
+          "originalTitle": "",
+          "source": "JSCHEN小小狐",
+          "brand": "Huawei",
+          "type": "爆料",
+          "trust": "高可信爆料",
+          "date": "2026-07-26",
+          "time": "12:09",
+          "publishedAt": "2026-07-26T12:09:13.000Z",
+          "url": "https://www.coolapk.com/feed/72950336",
+          "image": "http://image.coolapk.com/feed/2026/0726/20/4702274_1fb10220_7752_0019_737@1440x1921.jpg",
+          "verdict": "先看",
+          "takeaway": "『博主曝光华为新一代轻薄本：仅重约 798 克』 数码博主 看山叔 发博曝光华为新一代轻薄本。该机整机重量仅约 798g，较前代 MateBook Pro 的 970g 标称重量减轻约 172g。 该机部分信息公开： CPU：麒麟 XE90 处理器 内存：16GB / 24GB / 32GB 硬盘：512GB / 1TB 版本：标准版、典藏版 / 防窥版、…",
+          "detail": "『博主曝光华为新一代轻薄本：仅重约 798 克』 数码博主 看山叔 发博曝光华为新一代轻薄本。该机整机重量仅约 798g，较前代 MateBook Pro 的 970g 标称重量减轻约 172g。 该机部分信息公开： CPU：麒麟 XE90 处理器 内存：16GB / 24GB / 32GB 硬盘：512GB / 1TB 版本：标准版、典藏版 / 防窥版、…",
+          "keyPoints": [
+            "芯片 / 性能"
+          ],
+          "confidence": "可信度较高，但仍属于发布前线索。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         }
       ]
     },
@@ -245,29 +242,6 @@ window.phoneRadarDaily = {
       "hint": "能直接更新到参数库。",
       "items": [
         {
-          "id": "newsnow-befab05b9e2b",
-          "title": "vivo X300E 发布：骁龙8 Gen5，售价4799元起",
-          "originalTitle": "",
-          "source": "酷安热榜",
-          "brand": "vivo",
-          "type": "爆料",
-          "trust": "高关注爆料源",
-          "date": "2026-07-27",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://www.coolapk.com/feed/72956011",
-          "image": "",
-          "verdict": "先看",
-          "takeaway": "vivo X300E 发布：骁龙8 Gen5，售价4799元起",
-          "detail": "vivo X300E 发布：骁龙8 Gen5，售价4799元起",
-          "keyPoints": [
-            "成本 / 价格"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
-        {
           "id": "newsnow-9687a358205b",
           "title": "小米之家员工称K系列新机下月上市，或为K100系列",
           "originalTitle": "",
@@ -283,6 +257,36 @@ window.phoneRadarDaily = {
           "verdict": "先看",
           "takeaway": "小米之家员工称K系列新机下月上市，或为K100系列",
           "detail": "小米之家员工称K系列新机下月上市，或为K100系列",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        }
+      ]
+    },
+    {
+      "id": "market",
+      "title": "行业趋势",
+      "hint": "看方向，不急着当购买依据。",
+      "items": [
+        {
+          "id": "newsnow-4d6bddd3629a",
+          "title": "#iPhone17ProMax# #小米17ProMax#",
+          "originalTitle": "",
+          "source": "酷安热榜",
+          "brand": "Xiaomi",
+          "type": "爆料",
+          "trust": "高关注爆料源",
+          "date": "2026-07-27",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://www.coolapk.com/feed/72953275",
+          "image": "",
+          "verdict": "先看",
+          "takeaway": "#iPhone17ProMax# #小米17ProMax#",
+          "detail": "#iPhone17ProMax# #小米17ProMax#",
           "keyPoints": [
             "爆料"
           ],
