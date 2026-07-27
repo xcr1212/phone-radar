@@ -1,6 +1,146 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-07-27T15:12:15.287Z",
+  "updatedAt": "2026-07-27T17:54:36.540Z",
   "news": [
+    {
+      "id": "auto-4a3085ff5c73",
+      "title": "Galaxy S27 Pro, Ultra battery specs leaked: don't freak out, but we've wanted this forever",
+      "source": "Android Central",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-07-27",
+      "time": "17:41",
+      "publishedAt": "2026-07-27T17:41:00.000Z",
+      "url": "https://www.androidcentral.com/phones/samsung-galaxy/galaxy-s27-pro-ultra-battery-specs-leaked-dont-freak-out-but-weve-wanted-this-forever",
+      "image": "https://cdn.mos.cms.futurecdn.net/on9n5zfpKiVbEe4PqcfR8S-1280-80.jpg",
+      "summary": "Rumors drum up major battery upgrades for the Galaxy S27 Ultra and Samsung's S27 Pro, which have us excited.",
+      "tags": [
+        "Samsung",
+        "评测",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-9edd5bd866f9",
+      "title": "Amazon Files for 5,105-Satellite Network That Will Power iPhone Satellite Features",
+      "source": "MacRumors",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-27",
+      "time": "17:21",
+      "publishedAt": "2026-07-27T17:21:21.000Z",
+      "url": "https://www.macrumors.com/2026/07/27/amazon-iphone-satellite-network/",
+      "image": "https://images.macrumors.com/article-new/2024/11/iPhone-Satellite-Feature.jpg",
+      "summary": "Amazon is planning to deploy up to 5,105 low Earth orbit satellites that will use Globalstar spectrum to provide voice, data, messaging, and emergency services to devices like the…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-622152e66e9f",
+      "title": "Galaxy Z Flip 8 does little to rescue the clamshell’s value proposition",
+      "source": "SamMobile",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-27",
+      "time": "17:00",
+      "publishedAt": "2026-07-27T17:00:32.000Z",
+      "url": "https://www.sammobile.com/opinion/galaxy-z-flip-8-does-little-rescue-clamshells-value-proposition/",
+      "image": "",
+      "summary": "Samsung's clamshell Galaxy Z Flip series enjoyed a lot of attention early on. It leveraged the nostalgia of flip phones while delivering a powerful, modern smartphone experience a…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-12f70cf843c7",
+      "title": "Samsung’s Galaxy S27 series could be in for some major battery upgrades",
+      "source": "Android Authority",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-27",
+      "time": "16:47",
+      "publishedAt": "2026-07-27T16:47:28.000Z",
+      "url": "https://www.androidauthority.com/samsung-galaxy-s27-battery-3691528/",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2026/03/samsung-galaxy-s26-base-review-back-phone-4-scaled.jpg",
+      "summary": "The next Galaxy S phones could offer up to 5,700 mAh.",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-e2f70479ea0c",
+      "title": "The Galaxy Z Fold 8 won me over in a weekend",
+      "source": "Android Police",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-27",
+      "time": "16:00",
+      "publishedAt": "2026-07-27T16:00:16.000Z",
+      "url": "https://www.androidpolice.com/my-weekend-with-the-galaxy-z-fold-8-showed-samsung-has-a-hit-on-its-hands/",
+      "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2026/07/galaxy-z-fold-8-back-books.JPG",
+      "summary": "People already love this phone",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-e0abdd9ef148",
+      "title": "Samsung won’t close the door on S Pen’s return to Galaxy Z Fold 9, but that doesn’t mean it’s happening",
+      "source": "9to5Google",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-27",
+      "time": "15:19",
+      "publishedAt": "2026-07-27T15:19:13.000Z",
+      "url": "https://9to5google.com/2026/07/27/samsung-will-not-discount-s-pen-return-to-galaxy-z-fold-9/",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/07/galaxy-z-fold-8-37.jpg?quality=82&strip=all&w=1600",
+      "summary": "If there ever was a device so uniquely positioned to benefit from the S Pen, it’d be one of the new Galaxy Z Fold 8’s. But Samsung didn’t make that a possibility for the sake of c…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-d2950a44f178",
+      "title": "Samsung Galaxy Z Flip 8 vs Galaxy Z Flip 7: Should you upgrade?",
+      "source": "Gizmochina",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-27",
+      "time": "15:18",
+      "publishedAt": "2026-07-27T15:18:02.000Z",
+      "url": "https://www.gizmochina.com/2026/07/27/samsung-galaxy-z-flip-8-vs-galaxy-z-flip-7/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/07/Samsung-Galaxy-Z-Flip-8-2-300x218.jpg?x92417",
+      "summary": "Samsung recently announced the Galaxy Z Flip 8, following up on last year’s Galaxy Z Flip 7. Looking at the two devices side by side, the differences aren’t immediately obvious. T…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-6c1acb73630f",
       "title": "Global Redmi Note 17 series prices leak ahead of launch",
@@ -23,7 +163,7 @@ window.phoneRadarAuto = {
     },
     {
       "id": "auto-a2f8ad9eb652",
-      "title": "Breaking: Galaxy S27 Pro and Galaxy S27 Ultra battery capacities leak!",
+      "title": "Galaxy S27 Pro and Ultra will finally break 5,000 mAh battery capacity ceiling for Samsung’s Galaxy S lineup",
       "source": "SamMobile",
       "brand": "Samsung",
       "model": "Samsung 相关机型",
@@ -482,26 +622,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-7d638c4169fd",
-      "title": "Galaxy S25 on sale with huge discount in India",
-      "source": "SamMobile",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-27",
-      "time": "08:53",
-      "publishedAt": "2026-07-27T08:53:58.000Z",
-      "url": "https://www.sammobile.com/news/galaxy-s25-on-sale-with-huge-discount-india/",
-      "image": "",
-      "summary": "While the festive season in India, where e-commerce platforms offer massive discounts on smartphones, has passed, a great deal on the Galaxy S25 has arrived. Samsung launched the…",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "coolapk-user-8bfe91105d87",
       "title": "竹本青：荣耀影像技术发布会看点公布：联合阿莱研发底层技术",
       "source": "竹本青",
@@ -842,9 +962,9 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-a6065b3357aa",
-      "title": "极客湾手机续航大横评",
-      "source": "B站热搜",
+      "id": "newsnow-28400b18f195",
+      "title": "约好跟同学写作业 其实是一起玩手机",
+      "source": "百度热搜",
       "brand": "行业",
       "model": "智能手机市场",
       "type": "爆料",
@@ -852,9 +972,29 @@ window.phoneRadarAuto = {
       "date": "2026-07-27",
       "time": "",
       "publishedAt": "",
-      "url": "https://search.bilibili.com/all?keyword=%E6%9E%81%E5%AE%A2%E6%B9%BE%E6%89%8B%E6%9C%BA%E7%BB%AD%E8%88%AA%E5%A4%A7%E6%A8%AA%E8%AF%84",
+      "url": "https://www.baidu.com/s?wd=%E7%BA%A6%E5%A5%BD%E8%B7%9F%E5%90%8C%E5%AD%A6%E5%86%99%E4%BD%9C%E4%B8%9A+%E5%85%B6%E5%AE%9E%E6%98%AF%E4%B8%80%E8%B5%B7%E7%8E%A9%E6%89%8B%E6%9C%BA",
       "image": "",
-      "summary": "极客湾手机续航大横评",
+      "summary": "约好跟同学写作业 其实是一起玩手机",
+      "tags": [
+        "行业",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-0d94d91dbc7e",
+      "title": "男子骑车看手机 碾压路人脚赔9000元",
+      "source": "百度热搜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-27",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E9%AA%91%E8%BD%A6%E7%9C%8B%E6%89%8B%E6%9C%BA+%E7%A2%BE%E5%8E%8B%E8%B7%AF%E4%BA%BA%E8%84%9A%E8%B5%949000%E5%85%83",
+      "image": "",
+      "summary": "男子骑车看手机 碾压路人脚赔9000元",
       "tags": [
         "行业",
         "爆料",
@@ -873,7 +1013,7 @@ window.phoneRadarAuto = {
       "time": "15:20",
       "publishedAt": "2026-07-26T15:20:00.000Z",
       "url": "https://www.macrumors.com/2026/07/26/apple-upgrade-program-launching-tuesday/",
-      "image": "https://images.macrumors.com/article-new/2026/07/iPhone-18-Pro-and-Pro-Max-Feature.jpg",
+      "image": "",
       "summary": "In his newsletter today , Bloomberg 's Mark Gurman reiterated that a new \"Apple Upgrade\" program is set to launch in the U.S. on Tuesday, July 28. Apple will stop accepting iPhone…",
       "tags": [
         "iPhone",

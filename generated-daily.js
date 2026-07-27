@@ -1,11 +1,11 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-07-27T15:12:15.287Z",
+  "updatedAt": "2026-07-27T17:54:36.540Z",
   "issueDate": "2026-07-27",
   "issue": "VOL.260727",
   "title": "手机情报日报",
-  "intro": "今日筛出 10 条重点，其中 8 条是重点爆料，包含 2 条 iPhone 相关、1 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 11 条重点，其中 8 条是重点爆料，包含 2 条 iPhone 相关、1 条官方确认、0 条参数线索。",
   "stats": {
-    "total": 10,
+    "total": 11,
     "iphone": 2,
     "leaks": 8,
     "official": 1,
@@ -18,7 +18,7 @@ window.phoneRadarDaily = {
       "hint": "机模、配色、影像、屏幕、电池和芯片线索先看。",
       "items": [
         {
-          "id": "auto-acbdc536b632",
+          "id": "auto-9edd5bd866f9",
           "title": "iPhone 相关消息",
           "originalTitle": "",
           "source": "MacRumors",
@@ -26,15 +26,15 @@ window.phoneRadarDaily = {
           "type": "爆料",
           "trust": "媒体汇总",
           "date": "2026-07-27",
-          "time": "01:00",
-          "publishedAt": "2026-07-27T01:00:12.000Z",
-          "url": "https://www.macrumors.com/2026/07/26/what-iphone-20-is-expected-to-look-like/",
-          "image": "https://images.macrumors.com/article-new/2026/07/iphone-20-anniversary.jpg",
+          "time": "17:21",
+          "publishedAt": "2026-07-27T17:21:21.000Z",
+          "url": "https://www.macrumors.com/2026/07/27/amazon-iphone-satellite-network/",
+          "image": "https://images.macrumors.com/article-new/2024/11/iPhone-Satellite-Feature.jpg",
           "verdict": "先看",
           "takeaway": "iPhone 相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
           "detail": "iPhone 相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
           "keyPoints": [
-            "外观 / 配色 / 尺寸"
+            "爆料"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
@@ -262,6 +262,29 @@ window.phoneRadarDaily = {
           "detail": "vivo X300E 发布：骁龙8 Gen5，售价4799元起",
           "keyPoints": [
             "成本 / 价格"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        },
+        {
+          "id": "newsnow-9687a358205b",
+          "title": "小米之家员工称K系列新机下月上市，或为K100系列",
+          "originalTitle": "",
+          "source": "酷安热榜",
+          "brand": "Xiaomi",
+          "type": "爆料",
+          "trust": "高关注爆料源",
+          "date": "2026-07-27",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://www.coolapk.com/feed/72961098",
+          "image": "",
+          "verdict": "先看",
+          "takeaway": "小米之家员工称K系列新机下月上市，或为K100系列",
+          "detail": "小米之家员工称K系列新机下月上市，或为K100系列",
+          "keyPoints": [
+            "爆料"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
