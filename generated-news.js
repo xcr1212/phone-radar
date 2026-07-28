@@ -1,24 +1,264 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-07-28T06:39:22.372Z",
+  "updatedAt": "2026-07-28T10:44:32.231Z",
   "news": [
     {
-      "id": "auto-498a5e947f82",
-      "title": "vivo 海外预热 S2 手机：横向双摄设计，预计搭载骁龙 8 Gen 5 芯片",
+      "id": "auto-5aa67febc25f",
+      "title": "OPPO PYE110 手机入网：配备 7820mAh 大容量电池，预估为 A7 系列成员",
       "source": "IT之家",
-      "brand": "vivo",
-      "model": "vivo 相关机型",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
       "type": "爆料",
       "trust": "媒体汇总",
       "date": "2026-07-28",
-      "time": "06:38",
-      "publishedAt": "2026-07-28T06:38:45.000Z",
-      "url": "https://www.ithome.com/0/982/526.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/7/156a58d2-d1ae-42a8-bb51-98f3ecf009c6.jpg?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 7 月 28 日消息，vivo 现已在印度官网上线 S2 手机的介绍页面，新机采用“旗舰设计语言”，预计将在近期发布。 据介绍，这款手机的外观与 X300 FE 颇为相似，均采用横向后置镜头模组。 不过这台手机并没有蔡司认证 ，后摄数量也从三摄改为双摄。 同时，这台手机将拥有“旗舰设计语言”，带来出色的影像能力和影音体验。 结合 GSMArena…",
+      "time": "10:39",
+      "publishedAt": "2026-07-28T10:39:50.000Z",
+      "url": "https://www.ithome.com/0/982/273.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/7/324c3333-58c5-41bd-8b20-b83f584e6322.jpg",
+      "summary": "IT之家 7 月 28 日消息，型号为 PYE110 的 OPPO 新机已通过电信设备进网许可，未公布证件照，可能是 OPPO A7 系列手机一员，作为参考， OPPO 旗下“首款万级大电池新机” OPPO A7 Pro Max 型号为 PYC110。 具体来看，这款 PYE110 新机后置双摄， 内置 7820mAh 容量电池 ，支持双卡双待功能。 网络…",
       "tags": [
-        "vivo",
+        "OPPO",
         "爆料",
         "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-359a8feaa32e",
+      "title": "The Samsung Galaxy S27 could get the upgrade it needs most",
+      "source": "Android Police",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-28",
+      "time": "10:30",
+      "publishedAt": "2026-07-28T10:30:15.000Z",
+      "url": "https://www.androidpolice.com/samsung-galaxy-s27-big-battery-upgrade/",
+      "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2026/07/samsung-galaxy-z-flip-8-side-open.JPG",
+      "summary": "Will we finally get the battery upgrade we need?",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-05bbb12e4661",
+      "title": "因入境检查时使用 GrapheneOS“胁迫密码”功能删除手机数据，一男子被美国司法部控罪",
+      "source": "IT之家",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-28",
+      "time": "10:13",
+      "publishedAt": "2026-07-28T10:13:44.000Z",
+      "url": "https://www.ithome.com/0/982/712.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/7/f7f50932-fcbc-4cdc-896c-773d29d0b9cf.jpg?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 7 月 28 日消息，据科技媒体 neowin 今天报道，美国公民塞缪尔 · 图尼克（Samuel Tunick）现已被美国司法部检控，罪名是妨碍美国海关和边境保护局（CBP）调查。 据报道，塞缪尔当时在哈茨菲尔德-杰克逊亚特兰大国际机场准备入境，工作人员将他带到检查区域，要求他说出手机解锁密码，塞缪尔拒绝提供。 随后他要求联系律师，但被现场官员…",
+      "tags": [
+        "行业",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-62f01cf971a1",
+      "title": "Galaxy S27 Ultra could pack a Si-C battery, hints company official",
+      "source": "Gizmochina",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-28",
+      "time": "10:06",
+      "publishedAt": "2026-07-28T10:06:22.000Z",
+      "url": "https://www.gizmochina.com/2026/07/28/galaxy-s27-ultra-could-pack-a-si-c-battery-hints-company-official/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/07/Samsung-Galaxy-S27-Ultra-Ai-render-1024x577-1-1-300x169.webp?x92417",
+      "summary": "Samsung has taken a solid step forward with battery tech in its latest foldables, and it’s already talking about where that technology might go next. After putting silicon-carbon…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-0fab2c51b9bb",
+      "title": "Now that OnePlus is dead in the US, there’s another Android brand I’m worried about",
+      "source": "Android Authority",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-28",
+      "time": "10:00",
+      "publishedAt": "2026-07-28T10:00:19.000Z",
+      "url": "https://www.androidauthority.com/oneplus-dead-us-now-worried-about-nothing-3690861/",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2026/01/Fairphone-6-Nothing-Phone-Comparison-7.jpg",
+      "summary": "Nothing shares a founder and similar vision to OnePlus, but will it share the same fate as well?",
+      "tags": [
+        "OPPO",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-4ff986ba0bc7",
+      "title": "Huawei could conduct two launch events in September against iPhone 18 Pro and foldable iPhone",
+      "source": "Huawei Central",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-28",
+      "time": "09:57",
+      "publishedAt": "2026-07-28T09:57:24.000Z",
+      "url": "https://www.huaweicentral.com/huawei-could-conduct-two-launch-events-in-september/",
+      "image": "https://www.huaweicentral.com/wp-content/uploads/2026/07/September-launch-events.jpg",
+      "summary": "Huawei could make some changes in launching its 2026 Mate smartphones. A new piece of information suggests that the company could hold two launch events in September, unveiling th…",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-38b929fc14b4",
+      "title": "JSCHEN小小狐：曝天玑 9600 系列新机或先于骁龙旗舰亮相",
+      "source": "JSCHEN小小狐",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-07-28",
+      "time": "09:45",
+      "publishedAt": "2026-07-28T09:45:49.000Z",
+      "url": "https://www.coolapk.com/feed/72977915",
+      "image": "http://image.coolapk.com/feed/2026/0728/17/4702274_4e073282_1948_3782_95@1440x500.jpg",
+      "summary": "『曝天玑 9600 系列新机或先于骁龙旗舰亮相』 知名数码博主 数码闲聊站 发博爆料天玑 9600 系列及对应迭代旗舰新机的大致时间线： ◇ 9 月中旬 天玑 9600 系列芯片发布会 ◇ 9 月下旬（按顺序） vivo X500 系列 OPPO Find X10 系列 据悉，上述天玑 9600 系列新机或将先于骁龙 8 Elite Gen6 系列新机（如…",
+      "tags": [
+        "OPPO",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-ec53de11ce48",
+      "title": "The Galaxy Z Fold 8 won me over with 3 upgrades no one’s talking about",
+      "source": "Android Authority",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-28",
+      "time": "09:30",
+      "publishedAt": "2026-07-28T09:30:05.000Z",
+      "url": "https://www.androidauthority.com/samsung-galaxy-z-fold-8-upgrades-no-one-talking-about-3690545/",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2026/07/z-fold-8-launch-day-1.jpg",
+      "summary": "The Galaxy Z Fold 8's best features aren't the obvious ones.",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "weibo-68fc8140a62c",
+      "title": "数码闲聊站：天玑9600系列芯片发布会暂定9月中，vivo X500系列、OPPO Fin…",
+      "source": "数码闲聊站",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-07-28",
+      "time": "08:47",
+      "publishedAt": "2026-07-28T08:47:40.000Z",
+      "url": "https://weibo.com/6048569942/RaMu00FEg",
+      "image": "",
+      "summary": "天玑9600系列芯片发布会暂定9月中，vivo X500系列、OPPO Find X10系列暂定都在9月下旬，大概率先于骁龙8E6系列新机亮相。。。",
+      "tags": [
+        "OPPO",
+        "爆料",
+        "微博"
+      ]
+    },
+    {
+      "id": "auto-fe0bf1dcdeb7",
+      "title": "大量新特性来袭：华为鸿蒙 HarmonyOS 7 花粉 Beta 版开启推送",
+      "source": "IT之家",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-28",
+      "time": "08:46",
+      "publishedAt": "2026-07-28T08:46:50.000Z",
+      "url": "https://www.ithome.com/0/982/637.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/6/697c8291-78d3-43e0-ad6b-93784c7b07d1.jpg?x-bce-process=image/format,f_auto/auto-orient,o_1",
+      "summary": "IT之家 7 月 28 日消息，华为今日开启鸿蒙 HarmonyOS 7 花粉 Beta 版后，目前新版本已开启推送，带来了大量新特性， 系统包大小也来到了 10GB 左右（部分机型更是冲破 20GB） 。 ▲ IT之家开箱：华为 nova 16 Pro 手机美图 IT之家附华为鸿蒙 HarmonyOS 7 花粉 Beta 版此次更新内容如下： 亮点推荐…",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-6265b2d4dc5e",
+      "title": "竹本青：华为HarmonyOS 7 花粉 Beta 招募活动开启",
+      "source": "竹本青",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-07-28",
+      "time": "07:56",
+      "publishedAt": "2026-07-28T07:56:16.000Z",
+      "url": "https://www.coolapk.com/feed/72975905",
+      "image": "http://image.coolapk.com/feed/2026/0728/15/4248714_2fab86c7_5375_9088_566@1080x2420.jpg",
+      "summary": "【华为HarmonyOS 7 花粉 Beta 招募活动开启：首批覆盖Mate 80、Pura90等系列】 7月28日，华为HarmonyOS 7 花粉 Beta 开启招募活动，用户可前往设置>搜索“软件更新”>升级尝鲜参与。以下为首批招募机型： HUAWEI Mate 80／70系列 HUAWEI Mate XTs非凡大师 HUAWEI Mate X7／X…",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-4ab509742044",
+      "title": "等等党不亏：消息称华为 HarmonyOS 7 花粉 Beta 版将带来近百项更新内容，与此前开发者版本不同",
+      "source": "IT之家",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-28",
+      "time": "07:51",
+      "publishedAt": "2026-07-28T07:51:57.000Z",
+      "url": "https://www.ithome.com/0/982/600.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/7/466cda8e-b393-4e23-acf0-fd1fae6defe8.jpg",
+      "summary": "IT之家 7 月 28 日消息， 华为 Mate 80 系列、nova 16 系列等 41 款设备今日开启了鸿蒙 HarmonyOS 7 花粉 Beta 版升级尝鲜 ，用户可以前往“升级尝鲜”入口提交信息参与审核。 据博主 @Adak封狼居胥 透露， 华为鸿蒙 HarmonyOS 7 花粉 Beta 版此次将带来近百项更新内容 。不过博主并未进一步说明具体…",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-80f1ef65215b",
+      "title": "竹本青：荣耀Robot Phone 全渠道预约突破20万台",
+      "source": "竹本青",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-07-28",
+      "time": "06:49",
+      "publishedAt": "2026-07-28T06:49:12.000Z",
+      "url": "https://www.coolapk.com/feed/72974889",
+      "image": "http://image.coolapk.com/feed/2026/0728/14/4248714_64d082c1_1349_6248_79@2000x3556.jpg",
+      "summary": "【荣耀Robot Phone 全渠道预约突破20万台】 荣耀手机今天宣布，荣耀Robot Phone全渠道预约量已突破20万台，超历代旗舰产品。 此前，荣耀曾披露，该机型首日预约量超过荣耀历代旗舰产品。 #今日热点# #荣耀ROBOTPHONE#",
+      "tags": [
+        "HONOR",
+        "爆料",
+        "酷安博主"
       ]
     },
     {
@@ -82,26 +322,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-9b8651293956",
-      "title": "荣耀罗巍：希望今年在影像上彻底站稳行业第一梯队，明年是真正拉开代差的一年",
-      "source": "IT之家",
-      "brand": "HONOR",
-      "model": "HONOR 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-28",
-      "time": "04:34",
-      "publishedAt": "2026-07-28T04:34:40.000Z",
-      "url": "https://www.ithome.com/0/982/500.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/7/4bdd922b-dc3a-4372-8343-d5732e178835.jpg",
-      "summary": "IT之家 7 月 28 日消息，荣耀今日在浙江横店举办影像技术发布会，首度展示与德国百年电影设备品牌阿莱（ARRI）合作的电影级影像技术路径。 据新浪科技报道，荣耀首席影像工程师罗巍表示，2025 年是荣耀的筑基之年，核心是希望能够上桌。荣耀逐个攻克了用户感知最强的基础痛点，防抖、亮度、色彩和多色一致性全面的优化。通过荣耀 Magic 8 系列，如今荣耀影…",
-      "tags": [
-        "HONOR",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-0ba21a31e0ed",
       "title": "The Ultra specs missing on the Galaxy Z Fold 8 Ultra",
       "source": "SamMobile",
@@ -139,66 +359,6 @@ window.phoneRadarAuto = {
         "HONOR",
         "爆料",
         "微博"
-      ]
-    },
-    {
-      "id": "coolapk-user-a6464dcb5237",
-      "title": "JSCHEN小小狐：华为 nova 16 SE 曝光：麒麟 8020 / 渐变色",
-      "source": "JSCHEN小小狐",
-      "brand": "HONOR",
-      "model": "HONOR 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-07-28",
-      "time": "03:46",
-      "publishedAt": "2026-07-28T03:46:33.000Z",
-      "url": "https://www.coolapk.com/feed/72972405",
-      "image": "http://image.coolapk.com/feed/2026/0728/11/4702274_98bd5780_0391_454_746@1440x508.jpg",
-      "summary": "『华为 nova 16 SE 曝光：麒麟 8020 / 渐变色』 ◇ 麒麟 8020 5G SoC ◇ 1.5K LTPS OLED 直屏 ◇ 50Mp 主摄 + 红枫原色摄像头 ◇ 8500mAh 电池 / 渐变色机身 ◇ ID 设计接近荣耀 Power 2 #今日热点# #华为nova16SE# #华为nova16#",
-      "tags": [
-        "HONOR",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
-      "id": "auto-50472ad9b158",
-      "title": "荣耀 Robot Phone 首发自研影像芯片“驭光 H1”，与阿莱合作影像系统将下放至 Magic9 等手机",
-      "source": "IT之家",
-      "brand": "HONOR",
-      "model": "HONOR 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-28",
-      "time": "03:19",
-      "publishedAt": "2026-07-28T03:19:02.000Z",
-      "url": "https://www.ithome.com/0/982/445.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/7/e7eb4ff6-7492-4a77-a171-1fdd2526e338.jpg",
-      "summary": "IT之家 7 月 28 日消息，荣耀今日在浙江横店举办影像技术发布会，首度展示与德国百年电影设备品牌阿莱（ARRI）合作的电影级影像技术路径，现场发布“光智进化律”。 IT之家从发布会现场获悉，双方依托各自优势，以荣耀“芯端云”全域影像引擎，结合阿莱积累百年的电影审美和色彩科学， 全面落地 Robot Phone ，实现从前期拍摄到后期调色的完整电影创作链…",
-      "tags": [
-        "HONOR",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-e5952927371e",
-      "title": "摩托罗拉首款兼容 GrapheneOS 手机明年登场，整合安卓 17 锁屏试错 20 次限制",
-      "source": "IT之家",
-      "brand": "Pixel",
-      "model": "Pixel 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-28",
-      "time": "03:10",
-      "publishedAt": "2026-07-28T03:10:14.000Z",
-      "url": "https://www.ithome.com/0/982/425.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/7/668a9578-985d-4dca-a04c-e84d3628fcdd.png?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 7 月 28 日消息，@GrapheneOS 官方账号于 7 月 26 日在 X 平台发布推文，感谢高通在安全方面的改进，让摩托罗拉成为首个支持石墨烯系统（GrapheneOS）的非 Pixel 安卓品牌。 IT之家曾于 2026 年 3 月报道， 摩托罗拉宣布与石墨烯 OS（GrapheneOS）基金会达成合作 ，将先进安全技术带给日常用户，共…",
-      "tags": [
-        "Pixel",
-        "爆料",
-        "自动抓取"
       ]
     },
     {
@@ -242,46 +402,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-9ea4b434c487",
-      "title": "华为 Nova16 SE 手机曝光：麒麟 8020 芯片 + 红枫影像，有望下月发布",
-      "source": "IT之家",
-      "brand": "HONOR",
-      "model": "HONOR 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-28",
-      "time": "02:53",
-      "publishedAt": "2026-07-28T02:53:42.000Z",
-      "url": "https://www.ithome.com/0/982/391.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/7/631c4d3c-dc46-4012-8c84-f65cd27af7f2.png",
-      "summary": "IT之家 7 月 28 日消息，博主 @数码闲聊站 今日爆料了 华为 Nova16 SE 手机 ： ID 设计基本同荣耀 Power2，1.5K LTPS OLED 直屏 + 麒麟 8020 芯片 +50Mp 主摄 + 红枫影像 +8500mAh+ 渐变色机身…… ▲ 图为荣耀 Power2 博主 @搞机阿森 则表示：华为为了应对内存涨价压力， 华为畅享…",
-      "tags": [
-        "HONOR",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-e3ac609a3dca",
-      "title": "三星 Galaxy Z Fold8 手机测试精细化应用缩放，5 档尺寸调节",
-      "source": "IT之家",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-28",
-      "time": "02:38",
-      "publishedAt": "2026-07-28T02:38:39.000Z",
-      "url": "https://www.ithome.com/0/982/377.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/7/43989ae5-0f53-460d-a3c1-29cde347757e.png?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 7 月 28 日消息，科技媒体 Android Authority 昨日（7 月 27 日）发布博文，报道称在 Galaxy Z Fold8 等折叠手机上， 三星正酝酿精细化应用缩放功能，支持用户为某个应用设置 5 档缩放级别。 该功能目前仍处于开发阶段，路径位于“设置 → 高级功能 → Labs”下，用户可以针对某个特定应用，设定不同的缩放级别…",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "weibo-9cbd5ac5ddd9",
       "title": "数码闲聊站：华为Nova16 SE，ID设计基本同荣耀Power2，1.5K LTPS O…",
       "source": "数码闲聊站",
@@ -302,46 +422,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-0ec39ca830df",
-      "title": "增幅约 14%：曝三星 Galaxy S27 Ultra 手机额定 5534mAh 电池",
-      "source": "IT之家",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-28",
-      "time": "02:23",
-      "publishedAt": "2026-07-28T02:23:55.000Z",
-      "url": "https://www.ithome.com/0/982/362.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/2/749832a7-d904-4e9d-a02b-ca8e20593e74.jpg?x-bce-process=image/auto-orient,o_1",
-      "summary": "IT之家 7 月 28 日消息，科技媒体 Galaxy Club 昨日（7 月 27 日）发布博文， 分享了三星 Galaxy S27 Pro 和 Galaxy S27 Ultra 两款旗舰手机的电池信息。 Galaxy S27 Pro 方面，消息称该机额定电池容量为 5087mAh，上市后宣传用的典型值预估为 5200mAh。 Galaxy S27 Ul…",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-3f847c2f8e64",
-      "title": "唯卓仕预告“手机的第二块大屏”，7 月 30 日 09:00 揭晓",
-      "source": "IT之家",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-28",
-      "time": "01:54",
-      "publishedAt": "2026-07-28T01:54:27.000Z",
-      "url": "https://www.ithome.com/0/982/332.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/7/1cec30ed-6bf1-4b4d-8de1-a2db15ac03dc.png",
-      "summary": "IT之家 7 月 28 日消息，Viltrox（唯卓仕）稍早前发布新品预告， 宣布将推出“手机的第二块大屏” ，宣传图片中还附上了 7 月 30 日 09:00 的时间。 从预热图片上来看，这一屏幕模块被安装在屏幕背部位置， 应该起到辅助显示类作用 。 延伸阅读 Viltrox（唯卓仕）是一家专注于摄影器材领域的中国品牌，主要产品包括相机镜头、摄影配件等，…",
-      "tags": [
-        "行业",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "weibo-36b73b182bfc",
       "title": "数码闲聊站：红米重磅新品将于7月底超前亮相ChinaJoy，莫非是REDMI K100系列…",
       "source": "数码闲聊站",
@@ -359,26 +439,6 @@ window.phoneRadarAuto = {
         "Xiaomi",
         "爆料",
         "微博"
-      ]
-    },
-    {
-      "id": "coolapk-user-182660ff5841",
-      "title": "竹本青：REDMI x 骁龙：年度重磅新品将于7月31日亮相",
-      "source": "竹本青",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-07-28",
-      "time": "01:01",
-      "publishedAt": "2026-07-28T01:01:10.000Z",
-      "url": "https://www.coolapk.com/feed/72970290",
-      "image": "http://image.coolapk.com/feed/2026/0728/09/4248714_c49b1500_0469_1811_793@1440x1920.jpg",
-      "summary": "【REDMI x 骁龙：年度重磅新品将于7月31日亮相】 7月28日， REDMI手机宣布参加上海ChinaJoy。在展会现场，REDMI将揭晓年度重磅新品，并开放超前体验。 时间：7月31日-8月3日 地点：上海新国际博览中心 骁龙馆 N5-02 ————————————————— 据昨日消息，有小米之家员工在朋友圈预告称，K系列新机即将登场，预计8月正…",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "酷安博主"
       ]
     },
     {
@@ -502,6 +562,26 @@ window.phoneRadarAuto = {
       ]
     },
     {
+      "id": "newsnow-7b3b72ef9b16",
+      "title": "说实话，结合目前的消息，我对澎湃os 4充满了担忧，因为从现在来看，澎湃os大部分爆料出来的更新，在于一些动效啊，界面的UI设计上的啊，但作为一个用过好几台米系手机的人，我对于澎湃os 2和澎湃os 3也算有些了解了，Os 2主要的问题就在于卡顿和bug， os 3优化了大部分的卡顿bug，使其更加流畅，但其实这些只是浮于表面的问题，并没有治本[捂脸][受虐滑稽][流汗滑稽]",
+      "source": "酷安热榜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-07-28",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/72971176",
+      "image": "",
+      "summary": "说实话，结合目前的消息，我对澎湃os 4充满了担忧，因为从现在来看，澎湃os大部分爆料出来的更新，在于一些动效啊，界面的UI设计上的啊，但作为一个用过好几台米系手机的人，我对于澎湃os 2和澎湃os 3也算有些了解了，Os 2主要的问题就在于卡顿和bug， os 3优化了大部分的卡顿bug，使其更加流畅，但其实这些只是浮于表面的问题，并没有治本[捂脸][受…",
+      "tags": [
+        "行业",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
       "id": "newsnow-10424a5e5feb",
       "title": "小米之家员工称K系列新机下月上市，或为K100系列",
       "source": "酷安热榜",
@@ -522,6 +602,26 @@ window.phoneRadarAuto = {
       ]
     },
     {
+      "id": "newsnow-524cee90ff9a",
+      "title": "华为在海外新机pura 90s上的系统搭载的是#EMUI16# ，底层是安卓16，所以在用#鸿蒙6# 的兄弟们，假如有的选，你们还有想用EMUI16安卓系统的么。",
+      "source": "酷安热榜",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-07-28",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/72971861",
+      "image": "",
+      "summary": "华为在海外新机pura 90s上的系统搭载的是#EMUI16# ，底层是安卓16，所以在用#鸿蒙6# 的兄弟们，假如有的选，你们还有想用EMUI16安卓系统的么。",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
       "id": "newsnow-c01fe52db0bd",
       "title": "#iPhone17ProMax# #小米17ProMax#",
       "source": "酷安热榜",
@@ -537,66 +637,6 @@ window.phoneRadarAuto = {
       "summary": "#iPhone17ProMax# #小米17ProMax#",
       "tags": [
         "Xiaomi",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-890ccffc2d6b",
-      "title": "vivo X300E 发布：骁龙8 Gen5，售价4799元起",
-      "source": "酷安热榜",
-      "brand": "vivo",
-      "model": "vivo 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-07-28",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72956011",
-      "image": "",
-      "summary": "vivo X300E 发布：骁龙8 Gen5，售价4799元起",
-      "tags": [
-        "vivo",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-917a4e693216",
-      "title": "pro：6.59尺寸，超级像素屏，M11 2一主摄 2.5倍长焦 8580电池，价位3-4K",
-      "source": "酷安热榜",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-07-28",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72961352",
-      "image": "",
-      "summary": "pro：6.59尺寸，超级像素屏，M11 2一主摄 2.5倍长焦 8580电池，价位3-4K",
-      "tags": [
-        "行业",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-f5da5df1926a",
-      "title": "男子一次买5部手机不问价 店长报警",
-      "source": "百度热搜",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-28",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E4%B8%80%E6%AC%A1%E4%B9%B05%E9%83%A8%E6%89%8B%E6%9C%BA%E4%B8%8D%E9%97%AE%E4%BB%B7+%E5%BA%97%E9%95%BF%E6%8A%A5%E8%AD%A6",
-      "image": "",
-      "summary": "男子一次买5部手机不问价 店长报警",
-      "tags": [
-        "行业",
         "爆料",
         "NewsNow"
       ]
@@ -762,6 +802,26 @@ window.phoneRadarAuto = {
       ]
     },
     {
+      "id": "auto-e2f70479ea0c",
+      "title": "The Galaxy Z Fold 8 won me over in a weekend",
+      "source": "Android Police",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-27",
+      "time": "16:00",
+      "publishedAt": "2026-07-27T16:00:16.000Z",
+      "url": "https://www.androidpolice.com/my-weekend-with-the-galaxy-z-fold-8-showed-samsung-has-a-hit-on-its-hands/",
+      "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2026/07/galaxy-z-fold-8-back-books.JPG",
+      "summary": "People already love this phone",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
       "id": "auto-e0abdd9ef148",
       "title": "Samsung won’t close the door on S Pen’s return to Galaxy Z Fold 9, but that doesn’t mean it’s happening",
       "source": "9to5Google",
@@ -817,26 +877,6 @@ window.phoneRadarAuto = {
       "summary": "Redmi brought the Note 17 and Note 17 Pro to China this month, and the brand is now preparing to launch the lineup worldwide. The series is rumored to debut in India on August 6,…",
       "tags": [
         "Xiaomi",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-a2f8ad9eb652",
-      "title": "Galaxy S27 Pro and Ultra will finally break 5,000 mAh battery capacity ceiling for Samsung’s Galaxy S lineup",
-      "source": "SamMobile",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-27",
-      "time": "15:08",
-      "publishedAt": "2026-07-27T15:08:00.000Z",
-      "url": "https://www.sammobile.com/news/galaxy-s27-pro-ultra-battery-capacity-leak/",
-      "image": "",
-      "summary": "Samsung is bringing several improvements to its next-generation high-end smartphones. There will be four models in the Galaxy S27 series. The Galaxy S27 Pro and the Galaxy S27 Ult…",
-      "tags": [
-        "Samsung",
         "爆料",
         "自动抓取"
       ]
@@ -1022,26 +1062,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "coolapk-user-831ecdf135fd",
-      "title": "竹本青：消息称华为Pura 90系列销量已破百万台",
-      "source": "竹本青",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-07-27",
-      "time": "10:02",
-      "publishedAt": "2026-07-27T10:02:36.000Z",
-      "url": "https://www.coolapk.com/feed/72962782",
-      "image": "http://image.coolapk.com/feed/2026/0727/18/4248714_cd9d2e34_6555_1244_867@3326x2492.jpg",
-      "summary": "【消息称华为Pura 90系列销量已破百万台】 7月27日，博主「RD观测」分享第三方数据：截至2026年第29周，华为Pura 90系列手机销量约101.49万台。 此前五月，该博主爆料称，以首销当日为标准，Pura 90 Pro销量约为上代同期的175%，Pura 90 Pro Max销量则约为上代的125%。 #今日热点# #鸿蒙6# #华为Pura…",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
       "id": "auto-ec55b8883556",
       "title": "OnePlus N6x teaser confirms battery, front design",
       "source": "Gizmochina",
@@ -1099,26 +1119,6 @@ window.phoneRadarAuto = {
         "OPPO",
         "爆料",
         "自动抓取"
-      ]
-    },
-    {
-      "id": "coolapk-user-dece461074d7",
-      "title": "竹本青：荣耀手环11系列开启全渠道预约",
-      "source": "竹本青",
-      "brand": "HONOR",
-      "model": "HONOR 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-07-27",
-      "time": "09:13",
-      "publishedAt": "2026-07-27T09:13:22.000Z",
-      "url": "https://www.coolapk.com/feed/72962117",
-      "image": "http://image.coolapk.com/feed/2026/0727/17/4248714_971f418b_3598_384_186@2000x3556.jpg",
-      "summary": "【荣耀手环11系列 开启全渠道预约：全系专业羽毛球模式，Pro版升级26天续航】 ● 标准版 —— 海盐白、芋泥紫、鱼子酱 专业羽毛球模式 18天超长续航 睡眠健康监测 ● Pro版/GPS版 —— 杏仁白、可可黑、牛油果 专业羽毛球模式 26天超长续航 睡眠健康监测 独立五星GPS #今日热点# #荣耀手环11# #MagicOS10#",
-      "tags": [
-        "HONOR",
-        "爆料",
-        "酷安博主"
       ]
     },
     {
