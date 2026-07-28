@@ -1,6 +1,206 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-07-28T10:44:32.231Z",
+  "updatedAt": "2026-07-28T14:35:41.647Z",
   "news": [
+    {
+      "id": "auto-76623a730a9a",
+      "title": "Google Pixel 11 leak details battery sizes & where some prices will technically drop",
+      "source": "9to5Google",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-28",
+      "time": "13:30",
+      "publishedAt": "2026-07-28T13:30:00.000Z",
+      "url": "https://9to5google.com/2026/07/28/google-pixel-11-battery-size-uk-price-leak/",
+      "image": "",
+      "summary": "As if we’ve not seen enough already, yet another leak is reiterating some Pixel 11 details, including the higher starting storage, bigger batteries, and pricing in the UK.",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-ed0fcfe348aa",
+      "title": "配件厂商 UAG 推出“救援袋”，号称能拯救泡水的手机",
+      "source": "IT之家",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-28",
+      "time": "12:59",
+      "publishedAt": "2026-07-28T12:59:17.000Z",
+      "url": "https://www.ithome.com/0/982/754.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/7/fc4ec968-b49b-49ee-85f6-39b38f12ec03.png?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 7 月 28 日消息，据科技媒体 Android Authority 今天报道，配件厂商 UAG 最近推出“救援袋”产品，号称能拯救泡水的手机， 售价 35 美元（IT之家注：现汇率约合 237.1 元人民币） 。 据介绍，这款配件适用于所有手机产品，袋子内部带有吸湿衬层，可将手机内的水分吸走。 同时，这款产品可在 2-5 小时内恢复轻微浸水的手…",
+      "tags": [
+        "行业",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-ffaa63834f77",
+      "title": "Pitaka’s Galaxy Z Fold 8 and Flip 8 cases deliver smart features without the bulk",
+      "source": "9to5Google",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-28",
+      "time": "12:55",
+      "publishedAt": "2026-07-28T12:55:42.000Z",
+      "url": "https://9to5google.com/2026/07/28/pitakas-galaxy-z-fold-8-and-flip-8-cases-deliver-smart-features-without-the-bulk/",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/07/pitaka-fold-8-4.jpg?quality=82&strip=all&w=1600",
+      "summary": "Samsung’s foldables are built to deliver flexibility to its users, but protecting them often means dealing with extra bulk that makes your new device feel generations behind. Pita…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-391b93e1d64b",
+      "title": "JSCHEN小小狐：去杭州中心看了下 Z Fold8 方正外屏确实有 Passport 的感觉 真机折痕也是相当浅的那一批 不过咱就是…",
+      "source": "JSCHEN小小狐",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-07-28",
+      "time": "12:51",
+      "publishedAt": "2026-07-28T12:51:02.000Z",
+      "url": "https://www.coolapk.com/feed/72981041",
+      "image": "http://image.coolapk.com/feed/2026/0728/20/4702274_01eb7258_3023_7742_484-uhdr@2365x3504.jpg",
+      "summary": "去杭州中心看了下 Z Fold8 方正外屏确实有 Passport 的感觉 真机折痕也是相当浅的那一批 不过咱就是说……你的前摄不是右半屏中置吗，为啥竖屏状态栏要为不存在的挖孔留位呢？ 另外悬停范围未免有点小的可怜。如果不像图 8 这样刻意微调，它最大也就 90° 左右了，而图 9 常规大折方案的 Ultra 至少还能多一点。 振感倒是不错，尤其摁快门时，…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "coolapk-user-250923956f7b",
+      "title": "竹本青：有一说一，这第2项“现金补偿”有点幽默了 #蓝狐NX1# #蓝狐AuraA1# #蓝狐手机#",
+      "source": "竹本青",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-07-28",
+      "time": "12:12",
+      "publishedAt": "2026-07-28T12:12:34.000Z",
+      "url": "https://www.coolapk.com/feed/72980486",
+      "image": "",
+      "summary": "有一说一，这第2项“现金补偿”有点幽默了 #蓝狐NX1# #蓝狐AuraA1# #蓝狐手机#",
+      "tags": [
+        "行业",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-307d508bd222",
+      "title": "Vivo S2 teaser confirms imminent launch in India, hints at premium design",
+      "source": "Gizmochina",
+      "brand": "vivo",
+      "model": "vivo 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-28",
+      "time": "12:01",
+      "publishedAt": "2026-07-28T12:01:08.000Z",
+      "url": "https://www.gizmochina.com/2026/07/28/vivo-s2-teaser-confirms-imminent-launch-in-india-hints-at-premium-design/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/07/vivo-s2-official-300x169.jpg?x92417",
+      "summary": "Vivo is bringing back its S series to India after a long break, and the company just dropped the first official look at the upcoming S2. The exact launch date still isn’t locked i…",
+      "tags": [
+        "vivo",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-1e51c61c1e71",
+      "title": "Samsung Galaxy Z Fold8 vs OPPO Find N6: Every Difference That Matters",
+      "source": "Gizmochina",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-28",
+      "time": "11:37",
+      "publishedAt": "2026-07-28T11:37:32.000Z",
+      "url": "https://www.gizmochina.com/2026/07/28/samsung-galaxy-z-fold8-vs-oppo-find-n6/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/07/image-101-300x190.png?x92417",
+      "summary": "Foldable smartphones have reached a new level in 2026, and the Samsung Galaxy Z Fold8 and OPPO Find N6 are leading the race. Samsung focuses on refinement, long-term software supp…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-ff1f86ffd02a",
+      "title": "iQOO Z11 手机印度版配置曝光：天玑 7500 Turbo 芯片、曲面显示屏",
+      "source": "IT之家",
+      "brand": "vivo",
+      "model": "vivo 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-28",
+      "time": "11:23",
+      "publishedAt": "2026-07-28T11:23:38.000Z",
+      "url": "https://www.ithome.com/0/982/744.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/7/171b73a6-bb68-41a4-ab4f-f2c5b70041b7.jpg?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 7 月 28 日消息，据科技媒体 Gadgets360 昨天援引可靠人士消息，iQOO 将于近期在印度市场推出 Z11 手机，配置与中国版有所不同。 据介绍，这款手机将搭载联发科天玑 7500 Turbo 芯片。对比之下， iQOO Z11 中国版使用天玑 8500 芯片。 同时，这款手机将配备一块 3D 曲面显示屏，最高可选 16GB 内存、5…",
+      "tags": [
+        "vivo",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-c78621d4fe7f",
+      "title": "I can't believe Samsung made the Galaxy Z Fold 8 thinner, then forced us to use cases anyway",
+      "source": "Android Police",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-28",
+      "time": "11:00",
+      "publishedAt": "2026-07-28T11:00:16.000Z",
+      "url": "https://www.androidpolice.com/i-cant-believe-samsung-made-galaxy-z-fold-8-thinner-forced-cases/",
+      "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2026/07/samsung-galaxy-z-fold-8-and-z-fold-8-ultra-beside-protective-cases.png",
+      "summary": "A $2,000 foldable should offer proper Qi2",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-c4088d42fbf5",
+      "title": "终于告别“诗野千里”：华为鸿蒙 HarmonyOS 7 花粉 Beta 版设备缩略图焕新",
+      "source": "IT之家",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-28",
+      "time": "11:00",
+      "publishedAt": "2026-07-28T11:00:04.000Z",
+      "url": "https://www.ithome.com/0/982/738.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/3/d08ad9e8-aae1-4e9e-bff9-4923b5fe6342.jpg?x-bce-process=image/auto-orient,o_1",
+      "summary": "IT之家 7 月 28 日消息， 华为今日开启了鸿蒙 HarmonyOS 7 花粉 Beta 版报名 ，随后新版本便已开启推送，带来了大量新特性，系统包大小也来到了 10GB 左右（部分机型更是冲破 20GB）。 ▲ IT之家开箱：华为 Mate 80 Pro Max 风驰版图赏 据用户反馈，更新华为鸿蒙 HarmonyOS 7 花粉 Beta 版后，手机…",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-5aa67febc25f",
       "title": "OPPO PYE110 手机入网：配备 7820mAh 大容量电池，预估为 A7 系列成员",
@@ -182,26 +382,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-fe0bf1dcdeb7",
-      "title": "大量新特性来袭：华为鸿蒙 HarmonyOS 7 花粉 Beta 版开启推送",
-      "source": "IT之家",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-28",
-      "time": "08:46",
-      "publishedAt": "2026-07-28T08:46:50.000Z",
-      "url": "https://www.ithome.com/0/982/637.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/6/697c8291-78d3-43e0-ad6b-93784c7b07d1.jpg?x-bce-process=image/format,f_auto/auto-orient,o_1",
-      "summary": "IT之家 7 月 28 日消息，华为今日开启鸿蒙 HarmonyOS 7 花粉 Beta 版后，目前新版本已开启推送，带来了大量新特性， 系统包大小也来到了 10GB 左右（部分机型更是冲破 20GB） 。 ▲ IT之家开箱：华为 nova 16 Pro 手机美图 IT之家附华为鸿蒙 HarmonyOS 7 花粉 Beta 版此次更新内容如下： 亮点推荐…",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "coolapk-user-6265b2d4dc5e",
       "title": "竹本青：华为HarmonyOS 7 花粉 Beta 招募活动开启",
       "source": "竹本青",
@@ -219,26 +399,6 @@ window.phoneRadarAuto = {
         "Huawei",
         "爆料",
         "酷安博主"
-      ]
-    },
-    {
-      "id": "auto-4ab509742044",
-      "title": "等等党不亏：消息称华为 HarmonyOS 7 花粉 Beta 版将带来近百项更新内容，与此前开发者版本不同",
-      "source": "IT之家",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-28",
-      "time": "07:51",
-      "publishedAt": "2026-07-28T07:51:57.000Z",
-      "url": "https://www.ithome.com/0/982/600.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/7/466cda8e-b393-4e23-acf0-fd1fae6defe8.jpg",
-      "summary": "IT之家 7 月 28 日消息， 华为 Mate 80 系列、nova 16 系列等 41 款设备今日开启了鸿蒙 HarmonyOS 7 花粉 Beta 版升级尝鲜 ，用户可以前往“升级尝鲜”入口提交信息参与审核。 据博主 @Adak封狼居胥 透露， 华为鸿蒙 HarmonyOS 7 花粉 Beta 版此次将带来近百项更新内容 。不过博主并未进一步说明具体…",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "自动抓取"
       ]
     },
     {
@@ -642,6 +802,26 @@ window.phoneRadarAuto = {
       ]
     },
     {
+      "id": "newsnow-85c70b9051d9",
+      "title": "华为真的好丝滑，比ovm丝滑多了，不论是打开信息流滑动还是打开应用，点开图片的流畅度都很好，感觉比iOS都舒服，就是性能跟现在主流处理器有点差距然后应用适配程度还需要继续努力，加油华为[流泪][受虐滑稽] #华为Mate80ProMax# #iPhone17ProMax#",
+      "source": "酷安热榜",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-07-28",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/72967702",
+      "image": "",
+      "summary": "华为真的好丝滑，比ovm丝滑多了，不论是打开信息流滑动还是打开应用，点开图片的流畅度都很好，感觉比iOS都舒服，就是性能跟现在主流处理器有点差距然后应用适配程度还需要继续努力，加油华为[流泪][受虐滑稽] #华为Mate80ProMax# #iPhone17ProMax#",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
       "id": "auto-5bb714d6addf",
       "title": "OnePlus 16 looks ready to impress, but its biggest problem isn't the hardware",
       "source": "Android Central",
@@ -795,26 +975,6 @@ window.phoneRadarAuto = {
       "url": "https://www.androidauthority.com/samsung-galaxy-s27-battery-3691528/",
       "image": "https://www.androidauthority.com/wp-content/uploads/2026/03/samsung-galaxy-s26-base-review-back-phone-4-scaled.jpg",
       "summary": "The next Galaxy S phones could offer up to 5,700 mAh.",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-e2f70479ea0c",
-      "title": "The Galaxy Z Fold 8 won me over in a weekend",
-      "source": "Android Police",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-27",
-      "time": "16:00",
-      "publishedAt": "2026-07-27T16:00:16.000Z",
-      "url": "https://www.androidpolice.com/my-weekend-with-the-galaxy-z-fold-8-showed-samsung-has-a-hit-on-its-hands/",
-      "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2026/07/galaxy-z-fold-8-back-books.JPG",
-      "summary": "People already love this phone",
       "tags": [
         "Samsung",
         "爆料",
@@ -997,26 +1157,6 @@ window.phoneRadarAuto = {
       "summary": "A bug is wiping out green, yellow, orange, and red route overlays across Android, iOS, and desktop web browser.",
       "tags": [
         "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-5042ab79f1aa",
-      "title": "Huawei Pura 90 series featuring Kirin 9030S crosses a million in sales",
-      "source": "Huawei Central",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-27",
-      "time": "11:50",
-      "publishedAt": "2026-07-27T11:50:03.000Z",
-      "url": "https://www.huaweicentral.com/huawei-pura-90-series-featuring-kirin-9030s-crosses-a-million-in-sales/",
-      "image": "https://www.huaweicentral.com/wp-content/uploads/2026/04/huawei-pura-90-k2.jpg",
-      "summary": "Huawei Pura 90 series has been in the market for nearly three months, and the camera flagship has already made over a million in sales. The special credit goes to the Pro Max vari…",
-      "tags": [
-        "Huawei",
         "爆料",
         "自动抓取"
       ]
@@ -1257,26 +1397,6 @@ window.phoneRadarAuto = {
       "summary": "Vivo has finally unveiled the Vivo X300e, which has been in the news for the past few days. It is the fifth X300 series phone to debut in China after the Vivo X300, Vivo X300 Pro,…",
       "tags": [
         "vivo",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-acbdc536b632",
-      "title": "Here's What the 'iPhone 20' is Expected to Look Like",
-      "source": "MacRumors",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-27",
-      "time": "01:00",
-      "publishedAt": "2026-07-27T01:00:12.000Z",
-      "url": "https://www.macrumors.com/2026/07/26/what-iphone-20-is-expected-to-look-like/",
-      "image": "https://images.macrumors.com/article-new/2026/07/iphone-20-anniversary.jpg",
-      "summary": "Apple's 20th anniversary iPhone is expected to arrive in the fall of 2027 with the most significant design overhaul the device has seen since the iPhone X. In many ways, the devic…",
-      "tags": [
-        "iPhone",
         "爆料",
         "自动抓取"
       ]
