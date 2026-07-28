@@ -1,6 +1,46 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-07-28T21:30:59.089Z",
+  "updatedAt": "2026-07-28T23:14:30.565Z",
   "news": [
+    {
+      "id": "auto-0c9358809736",
+      "title": "三星 Galaxy A08 4G 手机曝光：联发科 Helio G99 芯片，6000mAh 电池",
+      "source": "IT之家",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-28",
+      "time": "23:13",
+      "publishedAt": "2026-07-28T23:13:19.000Z",
+      "url": "https://www.ithome.com/0/982/803.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/7/99ac6055-6148-4d1d-befa-ea29b17e5145.jpg?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 7 月 29 日消息，科技媒体 The Tech Outlook 昨日（7 月 28 日）发布博文，报道称三星 Galaxy A08 4G 手机现身美国联邦通信委员会（FCC）， 认证型号为 SM-A085M（单卡）和 SM-A085M/DS（双卡）。 连接方面，根据认证文件显示，三星 Galaxy A08 4G 手机支持 GSM、WCDMA 和…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-c9a8660d423b",
+      "title": "Samsung’s new foldables are borrowing this Galaxy S26 USB trick",
+      "source": "Android Authority",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-28",
+      "time": "21:46",
+      "publishedAt": "2026-07-28T21:46:50.000Z",
+      "url": "https://www.androidauthority.com/samsung-foldables-usb-webcam-3692140/",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2026/07/z-fold-8-vs-ultra-3.jpg",
+      "summary": "Quickly upgrade your laptop's dinky old webcam.",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-fc10cd6f7f2d",
       "title": "Prepare to wait if you want a Pistachio Samsung Galaxy Z Fold 8",
@@ -57,26 +97,6 @@ window.phoneRadarAuto = {
       "summary": "Some Google Play users are seeing a Galaxy Z Fold 8 offer, with access apparently tied to past Play activity.",
       "tags": [
         "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-545c7027bc8e",
-      "title": "Tile’s best Bluetooth tracker is down to its lowest price of the year",
-      "source": "The Verge",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-28",
-      "time": "17:53",
-      "publishedAt": "2026-07-28T17:53:51.000Z",
-      "url": "https://www.theverge.com/gadgets/971976/tile-pro-bluetooth-tracker-deal-sale",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/image-1.webp?quality=90&strip=all&crop=0,0,100,100",
-      "summary": "Apple’s latest AirTag may seem like the obvious choice if you own an iPhone and are shopping for a Bluetooth tracker, but it’s not the most affordable option. For families that co…",
-      "tags": [
-        "iPhone",
         "爆料",
         "自动抓取"
       ]
@@ -477,46 +497,6 @@ window.phoneRadarAuto = {
       "summary": "IT之家 7 月 28 日消息，型号为 PYE110 的 OPPO 新机已通过电信设备进网许可，未公布证件照，可能是 OPPO A7 系列手机一员，作为参考， OPPO 旗下“首款万级大电池新机” OPPO A7 Pro Max 型号为 PYC110。 具体来看，这款 PYE110 新机后置双摄， 内置 7820mAh 容量电池 ，支持双卡双待功能。 网络…",
       "tags": [
         "OPPO",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-359a8feaa32e",
-      "title": "The Samsung Galaxy S27 could get the upgrade it needs most",
-      "source": "Android Police",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-28",
-      "time": "10:30",
-      "publishedAt": "2026-07-28T10:30:15.000Z",
-      "url": "https://www.androidpolice.com/samsung-galaxy-s27-big-battery-upgrade/",
-      "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2026/07/samsung-galaxy-z-flip-8-side-open.JPG",
-      "summary": "Will we finally get the battery upgrade we need?",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-05bbb12e4661",
-      "title": "因入境检查时使用 GrapheneOS“胁迫密码”功能删除手机数据，一男子被美国司法部控罪",
-      "source": "IT之家",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-28",
-      "time": "10:13",
-      "publishedAt": "2026-07-28T10:13:44.000Z",
-      "url": "https://www.ithome.com/0/982/712.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/7/f7f50932-fcbc-4cdc-896c-773d29d0b9cf.jpg",
-      "summary": "IT之家 7 月 28 日消息，据科技媒体 neowin 今天报道，美国公民塞缪尔 · 图尼克（Samuel Tunick）现已被美国司法部检控，罪名是妨碍美国海关和边境保护局（CBP）调查。 据报道，塞缪尔当时在哈茨菲尔德-杰克逊亚特兰大国际机场准备入境，工作人员将他带到检查区域，要求他说出手机解锁密码，塞缪尔拒绝提供。 随后他要求联系律师，但被现场官员…",
-      "tags": [
-        "行业",
         "爆料",
         "自动抓取"
       ]

@@ -1,5 +1,5 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-07-28T21:30:59.089Z",
+  "updatedAt": "2026-07-28T23:14:30.565Z",
   "issueDate": "2026-07-28",
   "issue": "VOL.260728",
   "title": "手机情报日报",
@@ -17,6 +17,30 @@ window.phoneRadarDaily = {
       "title": "重点爆料",
       "hint": "机模、配色、影像、屏幕、电池和芯片线索先看。",
       "items": [
+        {
+          "id": "auto-0c9358809736",
+          "title": "三星 Galaxy A08 4G 手机曝光：联发科 Helio G99 芯片，6000mAh 电池",
+          "originalTitle": "",
+          "source": "IT之家",
+          "brand": "Samsung",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-07-28",
+          "time": "23:13",
+          "publishedAt": "2026-07-28T23:13:19.000Z",
+          "url": "https://www.ithome.com/0/982/803.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/7/99ac6055-6148-4d1d-befa-ea29b17e5145.jpg?x-bce-process=image/format,f_auto",
+          "verdict": "先看",
+          "takeaway": "IT之家 7 月 29 日消息，科技媒体 The Tech Outlook 昨日（7 月 28 日）发布博文，报道称三星 Galaxy A08 4G 手机现身美国联邦通信委员会（FCC）， 认证型号为 SM-A085M（单卡）和 SM-A085M/DS（双卡）。 连接方面，根据认证文件显示，三星 Galaxy A08 4G 手机支持 GSM、WCDMA 和…",
+          "detail": "IT之家 7 月 29 日消息，科技媒体 The Tech Outlook 昨日（7 月 28 日）发布博文，报道称三星 Galaxy A08 4G 手机现身美国联邦通信委员会（FCC）， 认证型号为 SM-A085M（单卡）和 SM-A085M/DS（双卡）。 连接方面，根据认证文件显示，三星 Galaxy A08 4G 手机支持 GSM、WCDMA 和…",
+          "keyPoints": [
+            "电池 / 充电",
+            "芯片 / 性能"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
         {
           "id": "auto-ff1f86ffd02a",
           "title": "iQOO Z11 手机印度版配置曝光：天玑 7500 Turbo 芯片、曲面显示屏",
@@ -181,30 +205,6 @@ window.phoneRadarDaily = {
             "芯片 / 性能"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "weibo-e6334c30c508",
-          "title": "数码闲聊站：OPPO A7 Pro Max，万级大电池新机喜欢吗[doge]",
-          "originalTitle": "",
-          "source": "数码闲聊站",
-          "brand": "OPPO",
-          "type": "爆料",
-          "trust": "高关注爆料源",
-          "date": "2026-07-27",
-          "time": "04:25",
-          "publishedAt": "2026-07-27T04:25:00.000Z",
-          "url": "https://weibo.com/6048569942/RaBkT6RGI",
-          "image": "https://tvax4.sinaimg.cn/mw2000/006BlblIgy1ifidcwuiirj315o1b1asu.jpg",
-          "verdict": "先看",
-          "takeaway": "OPPO A7 Pro Max，万级大电池新机喜欢吗[doge]",
-          "detail": "OPPO A7 Pro Max，万级大电池新机喜欢吗[doge]",
-          "keyPoints": [
-            "电池 / 充电",
-            "爆料来源"
-          ],
-          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         }
