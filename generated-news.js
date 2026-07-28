@@ -1,6 +1,166 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-07-28T03:33:31.295Z",
+  "updatedAt": "2026-07-28T06:39:22.372Z",
   "news": [
+    {
+      "id": "auto-498a5e947f82",
+      "title": "vivo 海外预热 S2 手机：横向双摄设计，预计搭载骁龙 8 Gen 5 芯片",
+      "source": "IT之家",
+      "brand": "vivo",
+      "model": "vivo 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-28",
+      "time": "06:38",
+      "publishedAt": "2026-07-28T06:38:45.000Z",
+      "url": "https://www.ithome.com/0/982/526.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/7/156a58d2-d1ae-42a8-bb51-98f3ecf009c6.jpg?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 7 月 28 日消息，vivo 现已在印度官网上线 S2 手机的介绍页面，新机采用“旗舰设计语言”，预计将在近期发布。 据介绍，这款手机的外观与 X300 FE 颇为相似，均采用横向后置镜头模组。 不过这台手机并没有蔡司认证 ，后摄数量也从三摄改为双摄。 同时，这台手机将拥有“旗舰设计语言”，带来出色的影像能力和影音体验。 结合 GSMArena…",
+      "tags": [
+        "vivo",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-1282e3ab6518",
+      "title": "Huawei splits Mate XT2 and Mate 90 launches in September, the same month as Apple",
+      "source": "Gizmochina",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-28",
+      "time": "06:18",
+      "publishedAt": "2026-07-28T06:18:48.000Z",
+      "url": "https://www.gizmochina.com/2026/07/28/huawei-mate-xt2-mate-90-series-september-launch-leak/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2025/09/Huawei-Mate-XTs-launch-specs-price-300x200.jpg?x92417",
+      "summary": "Huawei is preparing two separate launch events in September, says credible leaker Digital Chat Station (DCS) on Weibo. Reportedly, the tri-fold Mate XT2 might launch early in the…",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "weibo-533991e00552",
+      "title": "数码闲聊站：听说9月有两场手机发布会，9月上旬发三折叠，9月下旬发你们期待的年度旗舰……[…",
+      "source": "数码闲聊站",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-07-28",
+      "time": "05:45",
+      "publishedAt": "2026-07-28T05:45:45.000Z",
+      "url": "https://weibo.com/6048569942/RaLia60Ea",
+      "image": "",
+      "summary": "听说9月有两场手机发布会，9月上旬发三折叠，9月下旬发你们期待的年度旗舰……[污]",
+      "tags": [
+        "行业",
+        "爆料",
+        "微博"
+      ]
+    },
+    {
+      "id": "auto-92a8d544dfc4",
+      "title": "Galaxy Z Fold 7 vs Galaxy Z Fold 8 Ultra: Is one year enough to upgrade?",
+      "source": "SamMobile",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-28",
+      "time": "05:19",
+      "publishedAt": "2026-07-28T05:19:27.000Z",
+      "url": "https://www.sammobile.com/news/galaxy-z-fold-7-vs-fold-8-ultra-one-year-upgrade/",
+      "image": "https://www.sammobile.com/wp-content/uploads/2026/07/Galaxy-Z-Fold-8-Ultra-frame-4-1920x1080.jpg",
+      "summary": "The Galaxy Z Fold 8 Ultra is Samsung's most capable foldable smartphone since the lineup's inception in 2019. It builds on the Galaxy Z Fold 7 with a more powerful camera setup, b…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-9b8651293956",
+      "title": "荣耀罗巍：希望今年在影像上彻底站稳行业第一梯队，明年是真正拉开代差的一年",
+      "source": "IT之家",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-28",
+      "time": "04:34",
+      "publishedAt": "2026-07-28T04:34:40.000Z",
+      "url": "https://www.ithome.com/0/982/500.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/7/4bdd922b-dc3a-4372-8343-d5732e178835.jpg",
+      "summary": "IT之家 7 月 28 日消息，荣耀今日在浙江横店举办影像技术发布会，首度展示与德国百年电影设备品牌阿莱（ARRI）合作的电影级影像技术路径。 据新浪科技报道，荣耀首席影像工程师罗巍表示，2025 年是荣耀的筑基之年，核心是希望能够上桌。荣耀逐个攻克了用户感知最强的基础痛点，防抖、亮度、色彩和多色一致性全面的优化。通过荣耀 Magic 8 系列，如今荣耀影…",
+      "tags": [
+        "HONOR",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-0ba21a31e0ed",
+      "title": "The Ultra specs missing on the Galaxy Z Fold 8 Ultra",
+      "source": "SamMobile",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-28",
+      "time": "04:27",
+      "publishedAt": "2026-07-28T04:27:05.000Z",
+      "url": "https://www.sammobile.com/news/ultra-specs-missing-on-galaxy-z-fold-8-ultra/",
+      "image": "https://www.sammobile.com/wp-content/uploads/2026/07/Galaxy-Z-Fold-8-Ultra-cameras-cream-1920x1080.jpg",
+      "summary": "Samsung launched its latest flagship smartphone with a book-style foldable display, the Galaxy Z Fold 8 Ultra, on July 22. It is the first Ultra model in the Galaxy Z Fold lineup,…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "weibo-4b3ca92a730e",
+      "title": "数码闲聊站：荣耀Robot Phone——200Mp 1/1.28\" F1.6 23mm超…",
+      "source": "数码闲聊站",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-07-28",
+      "time": "04:06",
+      "publishedAt": "2026-07-28T04:06:00.000Z",
+      "url": "https://weibo.com/6048569942/RaKDFxxRK",
+      "image": "https://tvax3.sinaimg.cn/mw2000/006BlblIgy1ifjjusnwy1j30xv0iq0zh.jpg",
+      "summary": "荣耀Robot Phone——200Mp 1/1.28\" F1.6 23mm超大底云台主摄，200Mp 1/1.4\" 2.7X F2.6大底潜望长焦，首发驭光H1自研影像芯片，全面落地阿莱。 咳咳，超大底双2亿也是荣耀Magic9系列超前瞻[二哈]",
+      "tags": [
+        "HONOR",
+        "爆料",
+        "微博"
+      ]
+    },
+    {
+      "id": "coolapk-user-a6464dcb5237",
+      "title": "JSCHEN小小狐：华为 nova 16 SE 曝光：麒麟 8020 / 渐变色",
+      "source": "JSCHEN小小狐",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-07-28",
+      "time": "03:46",
+      "publishedAt": "2026-07-28T03:46:33.000Z",
+      "url": "https://www.coolapk.com/feed/72972405",
+      "image": "http://image.coolapk.com/feed/2026/0728/11/4702274_98bd5780_0391_454_746@1440x508.jpg",
+      "summary": "『华为 nova 16 SE 曝光：麒麟 8020 / 渐变色』 ◇ 麒麟 8020 5G SoC ◇ 1.5K LTPS OLED 直屏 ◇ 50Mp 主摄 + 红枫原色摄像头 ◇ 8500mAh 电池 / 渐变色机身 ◇ ID 设计接近荣耀 Power 2 #今日热点# #华为nova16SE# #华为nova16#",
+      "tags": [
+        "HONOR",
+        "爆料",
+        "酷安博主"
+      ]
+    },
     {
       "id": "auto-50472ad9b158",
       "title": "荣耀 Robot Phone 首发自研影像芯片“驭光 H1”，与阿莱合作影像系统将下放至 Magic9 等手机",
@@ -177,46 +337,6 @@ window.phoneRadarAuto = {
       "summary": "IT之家 7 月 28 日消息，Viltrox（唯卓仕）稍早前发布新品预告， 宣布将推出“手机的第二块大屏” ，宣传图片中还附上了 7 月 30 日 09:00 的时间。 从预热图片上来看，这一屏幕模块被安装在屏幕背部位置， 应该起到辅助显示类作用 。 延伸阅读 Viltrox（唯卓仕）是一家专注于摄影器材领域的中国品牌，主要产品包括相机镜头、摄影配件等，…",
       "tags": [
         "行业",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-de03f1bd2965",
-      "title": "曝 SK 海力士计划下半年量产 LPDDR6，首批供应小米旗舰手机",
-      "source": "IT之家",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-28",
-      "time": "01:39",
-      "publishedAt": "2026-07-28T01:39:23.000Z",
-      "url": "https://www.ithome.com/0/982/326.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/7/ef8d7f69-1753-4de1-82dc-d2e23c3c52fd.png?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 7 月 28 日消息，据韩国媒体 Herald 今日报道，SK 海力士计划于 2026 年下半年开始量产并出货新一代低功耗移动 DRAM 产品 LPDDR6。 报道称，SK 海力士已于 2026 年 3 月完成 LPDDR6 产品开发，目前正在推进量产准备工作。该公司计划将 LPDDR6 首先供应给小米，用于其下一代旗舰智能手机产品。 SK 海力…",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-ccfe0be36720",
-      "title": "小米 REDMI 官宣参加 2026 ChinaJoy，“年度重磅新品”现场揭幕",
-      "source": "IT之家",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-28",
-      "time": "01:09",
-      "publishedAt": "2026-07-28T01:09:21.000Z",
-      "url": "https://www.ithome.com/0/982/315.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/7/9feddc60-35b3-4f2f-b76d-83068b58e656.jpg?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 7 月 28 日消息，今天上午，@REDMI红米手机 官微宣布，7 月 31 日，REDMI 将登陆 2026 ChinaJoy，届时将在展会现场揭幕 年度重磅新品 。同时，REDMI 和高通骁龙还将在 N5-02 骁龙主题馆举行一系列活动。 官方预告的海报上出现了“魔王”字样，预计新机将是 REDMI K100 系列。本月早些时候，型号为 M5…",
-      "tags": [
-        "Xiaomi",
         "爆料",
         "自动抓取"
       ]
@@ -462,26 +582,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-79aba116cd8f",
-      "title": "极客湾手机续航大横评",
-      "source": "B站热搜",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-28",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://search.bilibili.com/all?keyword=%E6%9E%81%E5%AE%A2%E6%B9%BE%E6%89%8B%E6%9C%BA%E7%BB%AD%E8%88%AA%E5%A4%A7%E6%A8%AA%E8%AF%84",
-      "image": "",
-      "summary": "极客湾手机续航大横评",
-      "tags": [
-        "行业",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
       "id": "newsnow-f5da5df1926a",
       "title": "男子一次买5部手机不问价 店长报警",
       "source": "百度热搜",
@@ -655,26 +755,6 @@ window.phoneRadarAuto = {
       "url": "https://www.androidauthority.com/samsung-galaxy-s27-battery-3691528/",
       "image": "https://www.androidauthority.com/wp-content/uploads/2026/03/samsung-galaxy-s26-base-review-back-phone-4-scaled.jpg",
       "summary": "The next Galaxy S phones could offer up to 5,700 mAh.",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-e2f70479ea0c",
-      "title": "The Galaxy Z Fold 8 won me over in a weekend",
-      "source": "Android Police",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-27",
-      "time": "16:00",
-      "publishedAt": "2026-07-27T16:00:16.000Z",
-      "url": "https://www.androidpolice.com/my-weekend-with-the-galaxy-z-fold-8-showed-samsung-has-a-hit-on-its-hands/",
-      "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2026/07/galaxy-z-fold-8-back-books.JPG",
-      "summary": "People already love this phone",
       "tags": [
         "Samsung",
         "爆料",
@@ -922,26 +1002,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-473e40a95686",
-      "title": "Dear Google, I promise I don't need 16GB RAM on my next Pixel phone",
-      "source": "Android Police",
-      "brand": "Pixel",
-      "model": "Pixel 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-27",
-      "time": "11:00",
-      "publishedAt": "2026-07-27T11:00:16.000Z",
-      "url": "https://www.androidpolice.com/dear-google-i-dont-need-16gb-ram-on-my-pixel-11/",
-      "image": "",
-      "summary": "I would gladly trade a fraction of raw speed for a reasonable Pixel 11 price tag",
-      "tags": [
-        "Pixel",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-4306ab9f34e5",
       "title": "Galaxy S27 series camera sensor upgrades detailed in new leak",
       "source": "Gizmochina",
@@ -1157,26 +1217,6 @@ window.phoneRadarAuto = {
       "summary": "The Galaxy Z TriFold 2 and Galaxy S27 Pro could help Samsung build its most diverse flagship smartphone lineup yet.",
       "tags": [
         "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-151e296523a7",
-      "title": "Huawei Mate 80 gains 8 million sales milestone, nearing ’10 million’ goal",
-      "source": "Huawei Central",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-27",
-      "time": "04:07",
-      "publishedAt": "2026-07-27T04:07:28.000Z",
-      "url": "https://www.huaweicentral.com/huawei-mate-80-gains-8-million-sales-milestone/",
-      "image": "https://www.huaweicentral.com/wp-content/uploads/2026/02/Mate80-phone2.jpg",
-      "summary": "Huawei Mate 80 series sales have now reached the “8 million” mark. The flagship lineup is performing well in its home market, and the constantly growing demand for the 2025 Mate m…",
-      "tags": [
-        "Huawei",
         "爆料",
         "自动抓取"
       ]
