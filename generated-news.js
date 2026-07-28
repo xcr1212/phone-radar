@@ -1,5 +1,5 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-07-28T19:52:08.009Z",
+  "updatedAt": "2026-07-28T21:30:59.089Z",
   "news": [
     {
       "id": "auto-fc10cd6f7f2d",
@@ -1537,26 +1537,6 @@ window.phoneRadarAuto = {
       "summary": "Opening the Galaxy Z Fold 7 was a frustrating two-hand job.",
       "tags": [
         "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-779eb0f768e9",
-      "title": "OnePlus 16’s October launch tipped with ultra-thin bezels, refined rear design",
-      "source": "Gizmochina",
-      "brand": "OPPO",
-      "model": "OPPO 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-27",
-      "time": "05:28",
-      "publishedAt": "2026-07-27T05:28:48.000Z",
-      "url": "https://www.gizmochina.com/2026/07/27/oneplus-16-october-launch-design-9000mah-battery/",
-      "image": "https://www.gizmochina.com/wp-content/uploads/2026/06/OnePlus-15-5G-phone-300x200.png?x92417",
-      "summary": "OnePlus is one of the brands gearing up to launch its next-generation flagship phone in the coming months. A new leak, courtesy of tipster Digital Chat Station, sheds light on the…",
-      "tags": [
-        "OPPO",
         "爆料",
         "自动抓取"
       ]
