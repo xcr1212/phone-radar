@@ -1,6 +1,166 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-07-28T14:35:41.647Z",
+  "updatedAt": "2026-07-28T17:44:44.389Z",
   "news": [
+    {
+      "id": "auto-219456a76464",
+      "title": "From a Flip to the Galaxy Z Fold 8: This is my wife’s biggest frustration",
+      "source": "SamMobile",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-28",
+      "time": "16:46",
+      "publishedAt": "2026-07-28T16:46:29.000Z",
+      "url": "https://www.sammobile.com/opinion/from-flip-to-galaxy-z-fold-8-my-wifes-biggest-frustration/",
+      "image": "",
+      "summary": "My wife has been using a Galaxy Z Flip since the very first one back in 2020. So when Samsung sent me a Galaxy Z Fold 8 to test, I handed it over to her to see what she made of it…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-88e39dfbcf5b",
+      "title": "iQOO Z11 India variant tipped to feature 3D curved display, Dimensity 7500 Turbo",
+      "source": "Gizmochina",
+      "brand": "vivo",
+      "model": "vivo 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-28",
+      "time": "16:34",
+      "publishedAt": "2026-07-28T16:34:59.000Z",
+      "url": "https://www.gizmochina.com/2026/07/28/iqoo-z11-india-variant-tipped-to-feature-3d-curved-display-dimensity-7500-turbo/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/07/Screenshot-2026-03-27-014855-1024x499-1-300x169.png?x92417",
+      "summary": "iQOO is adding another model to its Z11 series in India, this time aiming for a solid mix of performance and design in the mid-range space. After the recent launches of the Z11 Li…",
+      "tags": [
+        "vivo",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-c3093343c788",
+      "title": "How to get the 'spectacular' Samsung Galaxy Z Flip 8 for the price of a monthly latte",
+      "source": "Android Central",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-07-28",
+      "time": "16:25",
+      "publishedAt": "2026-07-28T16:25:09.000Z",
+      "url": "https://www.androidcentral.com/phones/samsung-galaxy/how-to-get-the-spectacular-samsung-galaxy-z-flip-8-for-the-price-of-a-monthly-latte",
+      "image": "https://cdn.mos.cms.futurecdn.net/wncGoxjQmVoDfQdUNAhJjM-1280-80.jpg",
+      "summary": "AT&T's Galaxy Z Flip 8 deal will get you the phone for only $5.56 per month when you add a line and trade in an eligible device.",
+      "tags": [
+        "Samsung",
+        "评测",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-40986875ac48",
+      "title": "Galaxy Z Fold 8’s wide new design is reportedly selling faster than Samsung expected",
+      "source": "9to5Google",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-28",
+      "time": "16:21",
+      "publishedAt": "2026-07-28T16:21:33.000Z",
+      "url": "https://9to5google.com/2026/07/28/galaxy-z-fold-8-selling-faster-than-samsung-expected/",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/07/galaxy-z-fold-8-45.jpg?quality=82&strip=all&w=1600",
+      "summary": "Samsung reportedly increased Galaxy Z Fold 8 production prior to launch, but it appears the smaller foldable model is still selling much faster during pre-order than the company a…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-a98453f60a6d",
+      "title": "Galaxy Z Fold 8 Ultra or Z Fold: Status quo or star player [Video]",
+      "source": "9to5Google",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-28",
+      "time": "16:00",
+      "publishedAt": "2026-07-28T16:00:00.000Z",
+      "url": "https://9to5google.com/2026/07/28/galaxy-z-fold-8-ultra-or-z-fold-status-quo-or-star-player-video/",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/07/Galaxy-Z-Fold-8-and-Z-Fold-8-Ultra-devices-4.jpg?quality=82&strip=all&w=1600",
+      "summary": "Samsung has decided that the Fold lineup needed shaking up, and the Korean tech giant has certainly done that this year. The Galaxy Z Fold 8 “Ultra” and Z Fold 8 are two takes on…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-4caf1758ec6c",
+      "title": "iPhone 18 Pro could be a no-brainer upgrade for lots of users",
+      "source": "9to5Mac",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-28",
+      "time": "15:58",
+      "publishedAt": "2026-07-28T15:58:12.000Z",
+      "url": "https://9to5mac.com/2026/07/28/iphone-18-pro-could-be-a-no-brainer-upgrade-for-lots-of-users/",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/iphone-18-pro-black-mockup.jpg?quality=82&strip=all&w=1600",
+      "summary": "iPhone 18 Pro is coming soon , and there are several reasons why it could prove an especially popular upgrade choice this year.",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-c20f2c11bba3",
+      "title": "Galaxy Z Fold 8 ‘Pistachio’ color can be ordered again, delayed to October",
+      "source": "9to5Google",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-28",
+      "time": "15:38",
+      "publishedAt": "2026-07-28T15:38:26.000Z",
+      "url": "https://9to5google.com/2026/07/28/galaxy-z-fold-8-pistachio-color-delayed/",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/07/Galaxy-Z-Fold-8-all-colors.jpg?quality=82&strip=all&w=1600",
+      "summary": "For the time being, the Galaxy Z Fold 8 in “Pistachio” seems to be available again after users were getting errors during checkout, but it’s delayed.",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-7269c3cb6870",
+      "title": "Galaxy Z Fold 8 is outselling the Z Fold 8 Ultra, surprising nobody",
+      "source": "SamMobile",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-28",
+      "time": "15:23",
+      "publishedAt": "2026-07-28T15:23:15.000Z",
+      "url": "https://www.sammobile.com/news/galaxy-z-fold-8-is-outselling-the-z-fold-8-ultra-surprising-nobody/",
+      "image": "",
+      "summary": "Galaxy Z Fold 8 was always going to be popular. It's a new style for Samsung's foldable lineup, the device has many genuine strengths, and it's priced less than the Ultra. No surp…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-76623a730a9a",
       "title": "Google Pixel 11 leak details battery sizes & where some prices will technically drop",
@@ -253,7 +413,7 @@ window.phoneRadarAuto = {
       "time": "10:13",
       "publishedAt": "2026-07-28T10:13:44.000Z",
       "url": "https://www.ithome.com/0/982/712.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/7/f7f50932-fcbc-4cdc-896c-773d29d0b9cf.jpg?x-bce-process=image/format,f_auto",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/7/f7f50932-fcbc-4cdc-896c-773d29d0b9cf.jpg",
       "summary": "IT之家 7 月 28 日消息，据科技媒体 neowin 今天报道，美国公民塞缪尔 · 图尼克（Samuel Tunick）现已被美国司法部检控，罪名是妨碍美国海关和边境保护局（CBP）调查。 据报道，塞缪尔当时在哈茨菲尔德-杰克逊亚特兰大国际机场准备入境，工作人员将他带到检查区域，要求他说出手机解锁密码，塞缪尔拒绝提供。 随后他要求联系律师，但被现场官员…",
       "tags": [
         "行业",
@@ -475,26 +635,6 @@ window.phoneRadarAuto = {
       "url": "https://www.sammobile.com/news/galaxy-z-fold-7-vs-fold-8-ultra-one-year-upgrade/",
       "image": "https://www.sammobile.com/wp-content/uploads/2026/07/Galaxy-Z-Fold-8-Ultra-frame-4-1920x1080.jpg",
       "summary": "The Galaxy Z Fold 8 Ultra is Samsung's most capable foldable smartphone since the lineup's inception in 2019. It builds on the Galaxy Z Fold 7 with a more powerful camera setup, b…",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-0ba21a31e0ed",
-      "title": "The Ultra specs missing on the Galaxy Z Fold 8 Ultra",
-      "source": "SamMobile",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-28",
-      "time": "04:27",
-      "publishedAt": "2026-07-28T04:27:05.000Z",
-      "url": "https://www.sammobile.com/news/ultra-specs-missing-on-galaxy-z-fold-8-ultra/",
-      "image": "https://www.sammobile.com/wp-content/uploads/2026/07/Galaxy-Z-Fold-8-Ultra-cameras-cream-1920x1080.jpg",
-      "summary": "Samsung launched its latest flagship smartphone with a book-style foldable display, the Galaxy Z Fold 8 Ultra, on July 22. It is the first Ultra model in the Galaxy Z Fold lineup,…",
       "tags": [
         "Samsung",
         "爆料",
@@ -782,6 +922,26 @@ window.phoneRadarAuto = {
       ]
     },
     {
+      "id": "newsnow-85c70b9051d9",
+      "title": "华为真的好丝滑，比ovm丝滑多了，不论是打开信息流滑动还是打开应用，点开图片的流畅度都很好，感觉比iOS都舒服，就是性能跟现在主流处理器有点差距然后应用适配程度还需要继续努力，加油华为[流泪][受虐滑稽] #华为Mate80ProMax# #iPhone17ProMax#",
+      "source": "酷安热榜",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-07-28",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/72967702",
+      "image": "",
+      "summary": "华为真的好丝滑，比ovm丝滑多了，不论是打开信息流滑动还是打开应用，点开图片的流畅度都很好，感觉比iOS都舒服，就是性能跟现在主流处理器有点差距然后应用适配程度还需要继续努力，加油华为[流泪][受虐滑稽] #华为Mate80ProMax# #iPhone17ProMax#",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
       "id": "newsnow-c01fe52db0bd",
       "title": "#iPhone17ProMax# #小米17ProMax#",
       "source": "酷安热榜",
@@ -802,23 +962,23 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-85c70b9051d9",
-      "title": "华为真的好丝滑，比ovm丝滑多了，不论是打开信息流滑动还是打开应用，点开图片的流畅度都很好，感觉比iOS都舒服，就是性能跟现在主流处理器有点差距然后应用适配程度还需要继续努力，加油华为[流泪][受虐滑稽] #华为Mate80ProMax# #iPhone17ProMax#",
-      "source": "酷安热榜",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
+      "id": "auto-8fc36fdc1d48",
+      "title": "T-Mobile ‘actively working’ to fix ongoing outage, iPhone SOS mode [U: Fixed]",
+      "source": "9to5Mac",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
       "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-07-28",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72967702",
-      "image": "",
-      "summary": "华为真的好丝滑，比ovm丝滑多了，不论是打开信息流滑动还是打开应用，点开图片的流畅度都很好，感觉比iOS都舒服，就是性能跟现在主流处理器有点差距然后应用适配程度还需要继续努力，加油华为[流泪][受虐滑稽] #华为Mate80ProMax# #iPhone17ProMax#",
+      "trust": "媒体汇总",
+      "date": "2026-07-27",
+      "time": "23:17",
+      "publishedAt": "2026-07-27T23:17:44.000Z",
+      "url": "https://9to5mac.com/2026/07/27/psa-t-mobile-is-down-iphones-forced-into-sos-mode/",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2023/02/tmo-sos.jpg?quality=82&strip=all&w=1600",
+      "summary": "Update #3, 8:33 p.m. PT : T-Mobile says it has “fully restored service for all customers and sincerely apologize for the difficulties to those who experienced network impacts.” Up…",
       "tags": [
-        "Huawei",
+        "iPhone",
         "爆料",
-        "NewsNow"
+        "自动抓取"
       ]
     },
     {
@@ -937,26 +1097,6 @@ window.phoneRadarAuto = {
       "summary": "Amazon is planning to deploy up to 5,105 low Earth orbit satellites that will use Globalstar spectrum to provide voice, data, messaging, and emergency services to devices like the…",
       "tags": [
         "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-622152e66e9f",
-      "title": "Galaxy Z Flip 8 does little to rescue the clamshell’s value proposition",
-      "source": "SamMobile",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-27",
-      "time": "17:00",
-      "publishedAt": "2026-07-27T17:00:32.000Z",
-      "url": "https://www.sammobile.com/opinion/galaxy-z-flip-8-does-little-rescue-clamshells-value-proposition/",
-      "image": "",
-      "summary": "Samsung's clamshell Galaxy Z Flip series enjoyed a lot of attention early on. It leveraged the nostalgia of flip phones while delivering a powerful, modern smartphone experience a…",
-      "tags": [
-        "Samsung",
         "爆料",
         "自动抓取"
       ]
@@ -1379,26 +1519,6 @@ window.phoneRadarAuto = {
         "行业",
         "爆料",
         "微博"
-      ]
-    },
-    {
-      "id": "auto-339b2d8dd0bc",
-      "title": "Vivo X300e launches with Snapdragon 8 Gen 5, 7200mAh battery, 50MP triple cameras",
-      "source": "Gizmochina",
-      "brand": "vivo",
-      "model": "vivo 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-27",
-      "time": "02:46",
-      "publishedAt": "2026-07-27T02:46:38.000Z",
-      "url": "https://www.gizmochina.com/2026/07/27/vivo-x300e-launched-specifications-price/",
-      "image": "https://www.gizmochina.com/wp-content/uploads/2026/07/Vivo-X300e-featured--300x149.png?x92417",
-      "summary": "Vivo has finally unveiled the Vivo X300e, which has been in the news for the past few days. It is the fifth X300 series phone to debut in China after the Vivo X300, Vivo X300 Pro,…",
-      "tags": [
-        "vivo",
-        "爆料",
-        "自动抓取"
       ]
     }
   ]
