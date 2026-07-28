@@ -1,12 +1,12 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-07-28T17:44:44.389Z",
+  "updatedAt": "2026-07-28T19:52:08.009Z",
   "issueDate": "2026-07-28",
   "issue": "VOL.260728",
   "title": "手机情报日报",
-  "intro": "今日筛出 8 条重点，其中 8 条是重点爆料，包含 1 条 iPhone 相关、0 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 8 条重点，其中 8 条是重点爆料，包含 0 条 iPhone 相关、0 条官方确认、0 条参数线索。",
   "stats": {
     "total": 8,
-    "iphone": 1,
+    "iphone": 0,
     "leaks": 8,
     "official": 0,
     "specs": 0
@@ -17,29 +17,6 @@ window.phoneRadarDaily = {
       "title": "重点爆料",
       "hint": "机模、配色、影像、屏幕、电池和芯片线索先看。",
       "items": [
-        {
-          "id": "auto-9edd5bd866f9",
-          "title": "iPhone 相关消息",
-          "originalTitle": "",
-          "source": "MacRumors",
-          "brand": "iPhone",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-07-27",
-          "time": "17:21",
-          "publishedAt": "2026-07-27T17:21:12.000Z",
-          "url": "https://www.macrumors.com/2026/07/27/amazon-iphone-satellite-network/",
-          "image": "https://images.macrumors.com/article-new/2024/11/iPhone-Satellite-Feature.jpg",
-          "verdict": "先看",
-          "takeaway": "iPhone 相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
-          "detail": "iPhone 相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
         {
           "id": "auto-ff1f86ffd02a",
           "title": "iQOO Z11 手机印度版配置曝光：天玑 7500 Turbo 芯片、曲面显示屏",
@@ -149,13 +126,13 @@ window.phoneRadarDaily = {
           "url": "https://weibo.com/6048569942/RaK2df9A9",
           "image": "https://tvax4.sinaimg.cn/mw2000/006BlblIgy1ifjgsljot4j30m80m842x.jpg",
           "verdict": "先看",
-          "takeaway": "华为Nova16 SE，ID设计基本同荣耀Power2，1.5K LTPS OLED直屏+麒麟8020芯片+50Mp主摄+红枫影像+8500mAh+渐变色机身……[doge]",
-          "detail": "华为Nova16 SE，ID设计基本同荣耀Power2，1.5K LTPS OLED直屏+麒麟8020芯片+50Mp主摄+红枫影像+8500mAh+渐变色机身……[doge]",
+          "takeaway": "华为Nova16 SE，ID设计基本同荣耀Power2，1.5K LTPS OLED直屏+麒麟8020芯片+50Mp主摄+红枫影像+渐变色机身……[doge] CHZ电池6100mAh，CAS电池8500mAh",
+          "detail": "华为Nova16 SE，ID设计基本同荣耀Power2，1.5K LTPS OLED直屏+麒麟8020芯片+50Mp主摄+红枫影像+渐变色机身……[doge] CHZ电池6100mAh，CAS电池8500mAh",
           "keyPoints": [
             "影像硬件",
             "屏幕形态",
-            "芯片 / 性能",
-            "爆料来源"
+            "电池 / 充电",
+            "芯片 / 性能"
           ],
           "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
@@ -204,6 +181,30 @@ window.phoneRadarDaily = {
             "芯片 / 性能"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "weibo-e6334c30c508",
+          "title": "数码闲聊站：OPPO A7 Pro Max，万级大电池新机喜欢吗[doge]",
+          "originalTitle": "",
+          "source": "数码闲聊站",
+          "brand": "OPPO",
+          "type": "爆料",
+          "trust": "高关注爆料源",
+          "date": "2026-07-27",
+          "time": "04:25",
+          "publishedAt": "2026-07-27T04:25:00.000Z",
+          "url": "https://weibo.com/6048569942/RaBkT6RGI",
+          "image": "https://tvax4.sinaimg.cn/mw2000/006BlblIgy1ifidcwuiirj315o1b1asu.jpg",
+          "verdict": "先看",
+          "takeaway": "OPPO A7 Pro Max，万级大电池新机喜欢吗[doge]",
+          "detail": "OPPO A7 Pro Max，万级大电池新机喜欢吗[doge]",
+          "keyPoints": [
+            "电池 / 充电",
+            "爆料来源"
+          ],
+          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         }

@@ -1,6 +1,106 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-07-28T17:44:44.389Z",
+  "updatedAt": "2026-07-28T19:52:08.009Z",
   "news": [
+    {
+      "id": "auto-fc10cd6f7f2d",
+      "title": "Prepare to wait if you want a Pistachio Samsung Galaxy Z Fold 8",
+      "source": "Android Police",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-28",
+      "time": "18:34",
+      "publishedAt": "2026-07-28T18:34:15.000Z",
+      "url": "https://www.androidpolice.com/prepare-to-wait-if-you-want-a-pistachio-samsung-galaxy-z-fold-8/",
+      "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2026/07/samsung-galaxy-z-fold-8-back-exclusive.JPG",
+      "summary": "Pistachio color delayed till fall",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-00db4185dae3",
+      "title": "Galaxy Z Fold 8's popularity might've skyrocketed after almost a week of pre-orders",
+      "source": "Android Central",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-07-28",
+      "time": "18:33",
+      "publishedAt": "2026-07-28T18:33:00.000Z",
+      "url": "https://www.androidcentral.com/phones/samsung-galaxy/galaxy-z-fold-8s-popularity-mightve-skyrocketed-after-almost-a-week-of-pre-orders",
+      "image": "https://cdn.mos.cms.futurecdn.net/dvZ4cmp7snCsfcBDigwpsK-1280-80.jpg",
+      "summary": "Several early reports on social media claim Samsung's Galaxy Z Fold 8 is gaining popularity at a pace that's exceeding expectations.",
+      "tags": [
+        "Samsung",
+        "评测",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-98ae5c036a9a",
+      "title": "Google appears to have started selling Samsung’s newest foldable — and even offers a discount",
+      "source": "Android Authority",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-28",
+      "time": "18:24",
+      "publishedAt": "2026-07-28T18:24:26.000Z",
+      "url": "https://www.androidauthority.com/google-play-galaxy-z-fold-8-offer-3692071/",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2026/07/z-fold-8-table-open-1.jpg",
+      "summary": "Some Google Play users are seeing a Galaxy Z Fold 8 offer, with access apparently tied to past Play activity.",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-545c7027bc8e",
+      "title": "Tile’s best Bluetooth tracker is down to its lowest price of the year",
+      "source": "The Verge",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-28",
+      "time": "17:53",
+      "publishedAt": "2026-07-28T17:53:51.000Z",
+      "url": "https://www.theverge.com/gadgets/971976/tile-pro-bluetooth-tracker-deal-sale",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/image-1.webp?quality=90&strip=all&crop=0,0,100,100",
+      "summary": "Apple’s latest AirTag may seem like the obvious choice if you own an iPhone and are shopping for a Bluetooth tracker, but it’s not the most affordable option. For families that co…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-1d9ea280b370",
+      "title": "Honor Robot Phone gets official camera specs, launches on the same day as Pixel 11",
+      "source": "9to5Google",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-28",
+      "time": "17:15",
+      "publishedAt": "2026-07-28T17:15:00.000Z",
+      "url": "https://9to5google.com/2026/07/28/honor-robot-phone-gets-official-camera-specs-launches-on-the-same-day-as-pixel-11/",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/03/honor-robot-phone-8.jpg?quality=82&strip=all&w=1600",
+      "summary": "Honor has confirmed more details about its Robot Phone this week, including an official launch date on the same day as Google’s Pixel 11 launch.",
+      "tags": [
+        "HONOR",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-219456a76464",
       "title": "From a Flip to the Galaxy Z Fold 8: This is my wife’s biggest frustration",
@@ -603,7 +703,7 @@ window.phoneRadarAuto = {
     },
     {
       "id": "weibo-533991e00552",
-      "title": "数码闲聊站：听说9月有两场手机发布会，9月上旬发三折叠，9月下旬发你们期待的年度旗舰……[…",
+      "title": "数码闲聊站：听说9月有两场手机发布会，9月上旬发折叠，9月下旬发你们期待的年度旗舰",
       "source": "数码闲聊站",
       "brand": "行业",
       "model": "智能手机市场",
@@ -614,7 +714,7 @@ window.phoneRadarAuto = {
       "publishedAt": "2026-07-28T05:45:45.000Z",
       "url": "https://weibo.com/6048569942/RaLia60Ea",
       "image": "",
-      "summary": "听说9月有两场手机发布会，9月上旬发三折叠，9月下旬发你们期待的年度旗舰……[污]",
+      "summary": "听说9月有两场手机发布会，9月上旬发折叠，9月下旬发你们期待的年度旗舰",
       "tags": [
         "行业",
         "爆料",
@@ -659,6 +759,26 @@ window.phoneRadarAuto = {
         "HONOR",
         "爆料",
         "微博"
+      ]
+    },
+    {
+      "id": "coolapk-user-a6464dcb5237",
+      "title": "JSCHEN小小狐：华为 nova 16 SE 曝光：麒麟 8020 / 渐变色",
+      "source": "JSCHEN小小狐",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-07-28",
+      "time": "03:46",
+      "publishedAt": "2026-07-28T03:46:33.000Z",
+      "url": "https://www.coolapk.com/feed/72972405",
+      "image": "http://image.coolapk.com/feed/2026/0728/11/4702274_98bd5780_0391_454_746@1440x508.jpg",
+      "summary": "『华为 nova 16 SE 曝光：麒麟 8020 / 渐变色』 ◇ 麒麟 8020 5G SoC ◇ 1.5K LTPS OLED 直屏 ◇ 50Mp 主摄 + 红枫原色摄像头 ◇ 8500mAh 电池 / 渐变色机身 ◇ ID 设计接近荣耀 Power 2 #今日热点# #华为nova16SE# #华为nova16#",
+      "tags": [
+        "HONOR",
+        "爆料",
+        "酷安博主"
       ]
     },
     {
@@ -714,7 +834,7 @@ window.phoneRadarAuto = {
       "publishedAt": "2026-07-28T02:33:43.000Z",
       "url": "https://weibo.com/6048569942/RaK2df9A9",
       "image": "https://tvax4.sinaimg.cn/mw2000/006BlblIgy1ifjgsljot4j30m80m842x.jpg",
-      "summary": "华为Nova16 SE，ID设计基本同荣耀Power2，1.5K LTPS OLED直屏+麒麟8020芯片+50Mp主摄+红枫影像+8500mAh+渐变色机身……[doge]",
+      "summary": "华为Nova16 SE，ID设计基本同荣耀Power2，1.5K LTPS OLED直屏+麒麟8020芯片+50Mp主摄+红枫影像+渐变色机身……[doge] CHZ电池6100mAh，CAS电池8500mAh",
       "tags": [
         "HONOR",
         "爆料",
@@ -822,46 +942,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-4c795957bfae",
-      "title": "极客湾曝光手机电池锁容、快充功率不达标乱象：侵害了消费者知情权",
-      "source": "酷安热榜",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-07-28",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72943675",
-      "image": "",
-      "summary": "极客湾曝光手机电池锁容、快充功率不达标乱象：侵害了消费者知情权",
-      "tags": [
-        "行业",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-c23646a39618",
-      "title": "今天回收站突然多出3k张图片，全都不是我的图，而且云空间已经爆了，无法同步，oddo你在搞什么鬼啊？？？是不是我的图也会被泄露到别人的oddo手机上啊[喝酒][喝酒][喝酒]",
-      "source": "酷安热榜",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-07-28",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72960030",
-      "image": "",
-      "summary": "今天回收站突然多出3k张图片，全都不是我的图，而且云空间已经爆了，无法同步，oddo你在搞什么鬼啊？？？是不是我的图也会被泄露到别人的oddo手机上啊[喝酒][喝酒][喝酒]",
-      "tags": [
-        "行业",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
       "id": "newsnow-7b3b72ef9b16",
       "title": "说实话，结合目前的消息，我对澎湃os 4充满了担忧，因为从现在来看，澎湃os大部分爆料出来的更新，在于一些动效啊，界面的UI设计上的啊，但作为一个用过好几台米系手机的人，我对于澎湃os 2和澎湃os 3也算有些了解了，Os 2主要的问题就在于卡顿和bug， os 3优化了大部分的卡顿bug，使其更加流畅，但其实这些只是浮于表面的问题，并没有治本[捂脸][受虐滑稽][流汗滑稽]",
       "source": "酷安热榜",
@@ -882,41 +962,61 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-10424a5e5feb",
-      "title": "小米之家员工称K系列新机下月上市，或为K100系列",
+      "id": "newsnow-de743b5ec806",
+      "title": "老婆才用了两年半的iPhone15 256G的已经很卡了，才两年半诶，我以前魅族17p还用了4年才卡呢",
       "source": "酷安热榜",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-07-28",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72961098",
+      "url": "https://www.coolapk.com/feed/72976645",
       "image": "",
-      "summary": "小米之家员工称K系列新机下月上市，或为K100系列",
+      "summary": "老婆才用了两年半的iPhone15 256G的已经很卡了，才两年半诶，我以前魅族17p还用了4年才卡呢",
       "tags": [
-        "Xiaomi",
+        "iPhone",
         "爆料",
         "NewsNow"
       ]
     },
     {
-      "id": "newsnow-524cee90ff9a",
-      "title": "华为在海外新机pura 90s上的系统搭载的是#EMUI16# ，底层是安卓16，所以在用#鸿蒙6# 的兄弟们，假如有的选，你们还有想用EMUI16安卓系统的么。",
+      "id": "newsnow-4c795957bfae",
+      "title": "极客湾曝光手机电池锁容、快充功率不达标乱象：侵害了消费者知情权",
       "source": "酷安热榜",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
+      "brand": "行业",
+      "model": "智能手机市场",
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-07-28",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72971861",
+      "url": "https://www.coolapk.com/feed/72943675",
       "image": "",
-      "summary": "华为在海外新机pura 90s上的系统搭载的是#EMUI16# ，底层是安卓16，所以在用#鸿蒙6# 的兄弟们，假如有的选，你们还有想用EMUI16安卓系统的么。",
+      "summary": "极客湾曝光手机电池锁容、快充功率不达标乱象：侵害了消费者知情权",
       "tags": [
-        "Huawei",
+        "行业",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-71b3b74ce9c6",
+      "title": "iPhone Air买了半年了，有点后悔。",
+      "source": "酷安热榜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-07-28",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/72962318",
+      "image": "",
+      "summary": "iPhone Air买了半年了，有点后悔。",
+      "tags": [
+        "iPhone",
         "爆料",
         "NewsNow"
       ]
@@ -942,21 +1042,41 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-c01fe52db0bd",
-      "title": "#iPhone17ProMax# #小米17ProMax#",
+      "id": "newsnow-c23646a39618",
+      "title": "今天回收站突然多出3k张图片，全都不是我的图，而且云空间已经爆了，无法同步，oddo你在搞什么鬼啊？？？是不是我的图也会被泄露到别人的oddo手机上啊[喝酒][喝酒][喝酒]",
       "source": "酷安热榜",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
+      "brand": "行业",
+      "model": "智能手机市场",
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-07-28",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72953275",
+      "url": "https://www.coolapk.com/feed/72960030",
       "image": "",
-      "summary": "#iPhone17ProMax# #小米17ProMax#",
+      "summary": "今天回收站突然多出3k张图片，全都不是我的图，而且云空间已经爆了，无法同步，oddo你在搞什么鬼啊？？？是不是我的图也会被泄露到别人的oddo手机上啊[喝酒][喝酒][喝酒]",
       "tags": [
-        "Xiaomi",
+        "行业",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-524cee90ff9a",
+      "title": "华为在海外新机pura 90s上的系统搭载的是#EMUI16# ，底层是安卓16，所以在用#鸿蒙6# 的兄弟们，假如有的选，你们还有想用EMUI16安卓系统的么。",
+      "source": "酷安热榜",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-07-28",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/72971861",
+      "image": "",
+      "summary": "华为在海外新机pura 90s上的系统搭载的是#EMUI16# ，底层是安卓16，所以在用#鸿蒙6# 的兄弟们，假如有的选，你们还有想用EMUI16安卓系统的么。",
+      "tags": [
+        "Huawei",
         "爆料",
         "NewsNow"
       ]
@@ -1078,26 +1198,6 @@ window.phoneRadarAuto = {
       "tags": [
         "Samsung",
         "评测",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-9edd5bd866f9",
-      "title": "Amazon Files for 5,105-Satellite Network That Will Power iPhone Satellite Features",
-      "source": "MacRumors",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-27",
-      "time": "17:21",
-      "publishedAt": "2026-07-27T17:21:12.000Z",
-      "url": "https://www.macrumors.com/2026/07/27/amazon-iphone-satellite-network/",
-      "image": "https://images.macrumors.com/article-new/2024/11/iPhone-Satellite-Feature.jpg",
-      "summary": "Amazon is planning to deploy up to 5,105 low Earth orbit satellites that will use Globalstar spectrum to provide voice, data, messaging, and emergency services to devices like the…",
-      "tags": [
-        "iPhone",
-        "爆料",
         "自动抓取"
       ]
     },
@@ -1283,7 +1383,7 @@ window.phoneRadarAuto = {
     },
     {
       "id": "auto-52455d156b0b",
-      "title": "It’s not just you: Google Maps traffic lines have disappeared for many users",
+      "title": "It’s not just you: Google Maps traffic lines have disappeared for many users (Update: Fix)",
       "source": "Android Authority",
       "brand": "iPhone",
       "model": "iPhone 相关机型",
