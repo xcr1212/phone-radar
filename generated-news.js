@@ -1,6 +1,26 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-07-29T19:41:32.331Z",
+  "updatedAt": "2026-07-29T21:11:39.828Z",
   "news": [
+    {
+      "id": "auto-e0b5298d6170",
+      "title": "Google’s latest Play update has finally fixed that pesky Pixel boot loop problem",
+      "source": "Android Authority",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-29",
+      "time": "20:13",
+      "publishedAt": "2026-07-29T20:13:55.000Z",
+      "url": "https://www.androidauthority.com/play-pixel-4a-boot-loop-fix-3692564/",
+      "image": "",
+      "summary": "Pixel 4a users report Google’s new update finally ends the reboot glitches.",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-550659deeac0",
       "title": "Galaxy Z Fold8 Review: What Samsung's New Foldable Tells Us About the iPhone Ultra",
@@ -277,26 +297,6 @@ window.phoneRadarAuto = {
       "summary": "With the new Apple Upgrade program in the U.S., you can now lease an iPhone, but is it worth it? The answer is more complicated than a simple yes or no. We'll use the iPhone 17 Pr…",
       "tags": [
         "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-04350b796d46",
-      "title": "Samsung’s Galaxy Z Fold 8 feels like the future",
-      "source": "The Verge",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-29",
-      "time": "13:54",
-      "publishedAt": "2026-07-29T13:54:55.000Z",
-      "url": "https://www.theverge.com/tech/972387/samsung-galaxy-z-fold-8-review",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/268671_Samsung_Galaxy_Z_Fold_8_DPreston_0034.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "summary": "Is this the future of foldable phones? Samsung clearly thinks so. The company has given its new wide foldable the \"Z Fold 8\" name, positioning the phone not as a widescreen oddity…",
-      "tags": [
-        "Samsung",
         "爆料",
         "自动抓取"
       ]
@@ -822,7 +822,7 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-7d0f53b99d49",
+      "id": "newsnow-b2a22ff1c586",
       "title": "千万不要把手机交给商家写好评",
       "source": "微博热搜",
       "brand": "行业",
@@ -832,7 +832,7 @@ window.phoneRadarAuto = {
       "date": "2026-07-29",
       "time": "",
       "publishedAt": "",
-      "url": "https://s.weibo.com/weibo?q=%E5%8D%83%E4%B8%87%E4%B8%8D%E8%A6%81%E6%8A%8A%E6%89%8B%E6%9C%BA%E4%BA%A4%E7%BB%99%E5%95%86%E5%AE%B6%E5%86%99%E5%A5%BD%E8%AF%84&t=31&band_rank=1&Refer=top",
+      "url": "https://s.weibo.com/weibo?q=%E5%8D%83%E4%B8%87%E4%B8%8D%E8%A6%81%E6%8A%8A%E6%89%8B%E6%9C%BA%E4%BA%A4%E7%BB%99%E5%95%86%E5%AE%B6%E5%86%99%E5%A5%BD%E8%AF%84&t=31&band_rank=2&Refer=top",
       "image": "",
       "summary": "千万不要把手机交给商家写好评",
       "tags": [
