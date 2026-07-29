@@ -1,6 +1,46 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-07-29T17:37:39.847Z",
+  "updatedAt": "2026-07-29T19:41:32.331Z",
   "news": [
+    {
+      "id": "auto-550659deeac0",
+      "title": "Galaxy Z Fold8 Review: What Samsung's New Foldable Tells Us About the iPhone Ultra",
+      "source": "MacRumors",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-29",
+      "time": "18:48",
+      "publishedAt": "2026-07-29T18:48:46.000Z",
+      "url": "https://www.macrumors.com/2026/07/29/galaxy-z-fold8-review/",
+      "image": "",
+      "summary": "Samsung announced its latest foldable smartphones last week, and the lineup included the Galaxy Z Fold8, a device that's close to what we're expecting Apple's foldable \" iPhone Ul…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-56fdadba58a9",
+      "title": "Google’s putting Pixel Glow front and center in the latest Pixel 11 Pro teaser",
+      "source": "Android Authority",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-29",
+      "time": "18:20",
+      "publishedAt": "2026-07-29T18:20:57.000Z",
+      "url": "https://www.androidauthority.com/pixel-11-pro-glow-teaser-3692525/",
+      "image": "",
+      "summary": "Pixel Glow just can't stop spinning.",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-795bb558c7db",
       "title": "New Pixel 11 Pro ‘next obvious move’ teaser provides better look at Glow [Video]",
@@ -223,7 +263,7 @@ window.phoneRadarAuto = {
     },
     {
       "id": "auto-cf3e69ac4e2d",
-      "title": "Apple Upgrade: Is Leasing Your Next iPhone Worth It?",
+      "title": "Apple's New Upgrade Program: Is It Worth It?",
       "source": "MacRumors",
       "brand": "iPhone",
       "model": "iPhone 相关机型",
@@ -742,26 +782,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-32c01943f6b4",
-      "title": "老婆才用了两年半的iPhone15 256G的已经很卡了，才两年半诶[流汗滑稽]",
-      "source": "酷安热榜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-07-29",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72976645",
-      "image": "",
-      "summary": "老婆才用了两年半的iPhone15 256G的已经很卡了，才两年半诶[流汗滑稽]",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
       "id": "newsnow-39d8806526c8",
       "title": "极客湾曝光手机电池锁容、快充功率不达标乱象：侵害了消费者知情权",
       "source": "酷安热榜",
@@ -782,28 +802,8 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-26c6044256ee",
-      "title": "说实话，结合目前的消息，我对澎湃os 4充满了担忧，因为从现在来看，澎湃os大部分爆料出来的更新，在于一些动效啊，界面的UI设计上的啊，但作为一个用过好几台米系手机的人，我对于澎湃os 2和澎湃os 3也算有些了解了，Os 2主要的问题就在于卡顿和bug， os 3优化了大部分的卡顿bug，使其更加流畅，但其实这些只是浮于表面的问题，并没有治本[捂脸][受虐滑稽][流汗滑稽]",
-      "source": "酷安热榜",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-07-29",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72971176",
-      "image": "",
-      "summary": "说实话，结合目前的消息，我对澎湃os 4充满了担忧，因为从现在来看，澎湃os大部分爆料出来的更新，在于一些动效啊，界面的UI设计上的啊，但作为一个用过好几台米系手机的人，我对于澎湃os 2和澎湃os 3也算有些了解了，Os 2主要的问题就在于卡顿和bug， os 3优化了大部分的卡顿bug，使其更加流畅，但其实这些只是浮于表面的问题，并没有治本[捂脸][受…",
-      "tags": [
-        "行业",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-e2a045b41ec3",
-      "title": "华为真的好丝滑，比ovm丝滑多了，不论是打开信息流滑动还是打开应用，点开图片的流畅度都很好，感觉比iOS都舒服，就是性能跟现在主流处理器有点差距然后应用适配程度还需要继续努力，加油华为[流泪][受虐滑稽] #华为Mate80ProMax# #iPhone17ProMax#",
+      "id": "newsnow-e230a47c4c92",
+      "title": "卧槽鸿蒙7这提升有点惊到我了。如图的画质，关了插帧，在霜月跑了10分钟图打怪开宝箱，机身只是微热。虽然没有准确的工具测帧率，但能感觉大部分时间都接近60帧，大幅度切换视角，或者切换界面时会有明显掉帧，整体比鸿蒙6上强得多的多，鸿蒙6那时开45帧都稳不住，而且毕竟折叠屏，很嗨烫。但现在都快稳60帧了，居然仅仅微热，真的夸张。之前鸿蒙每次更新，都有人说应用启动速度快了，越用越流畅，我都没有感知，只当是固定npc。但这次真的太惊讶了，npc竟是我自己，以上的话100%真实，个人亲身体验[牛啤][牛啤]#鸿蒙7# #鸿蒙6#",
       "source": "酷安热榜",
       "brand": "Huawei",
       "model": "Huawei 相关机型",
@@ -812,31 +812,11 @@ window.phoneRadarAuto = {
       "date": "2026-07-29",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72967702",
+      "url": "https://www.coolapk.com/feed/72999408",
       "image": "",
-      "summary": "华为真的好丝滑，比ovm丝滑多了，不论是打开信息流滑动还是打开应用，点开图片的流畅度都很好，感觉比iOS都舒服，就是性能跟现在主流处理器有点差距然后应用适配程度还需要继续努力，加油华为[流泪][受虐滑稽] #华为Mate80ProMax# #iPhone17ProMax#",
+      "summary": "卧槽鸿蒙7这提升有点惊到我了。如图的画质，关了插帧，在霜月跑了10分钟图打怪开宝箱，机身只是微热。虽然没有准确的工具测帧率，但能感觉大部分时间都接近60帧，大幅度切换视角，或者切换界面时会有明显掉帧，整体比鸿蒙6上强得多的多，鸿蒙6那时开45帧都稳不住，而且毕竟折叠屏，很嗨烫。但现在都快稳60帧了，居然仅仅微热，真的夸张。之前鸿蒙每次更新，都有人说应用启动…",
       "tags": [
         "Huawei",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-e2d142bc14f1",
-      "title": "iPhone Air买了半年了，有点后悔。",
-      "source": "酷安热榜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-07-29",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72962318",
-      "image": "",
-      "summary": "iPhone Air买了半年了，有点后悔。",
-      "tags": [
-        "iPhone",
         "爆料",
         "NewsNow"
       ]
@@ -875,6 +855,26 @@ window.phoneRadarAuto = {
       "url": "https://www.toutiao.com/trending/7667415040820101171/",
       "image": "",
       "summary": "女子修手机被店主导出40多张私密照",
+      "tags": [
+        "行业",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-f8a257cd6c47",
+      "title": "罗马尼亚男子遇熊淡定玩手机后逃离",
+      "source": "百度热搜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-29",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.baidu.com/s?wd=%E7%BD%97%E9%A9%AC%E5%B0%BC%E4%BA%9A%E7%94%B7%E5%AD%90%E9%81%87%E7%86%8A%E6%B7%A1%E5%AE%9A%E7%8E%A9%E6%89%8B%E6%9C%BA%E5%90%8E%E9%80%83%E7%A6%BB",
+      "image": "",
+      "summary": "罗马尼亚男子遇熊淡定玩手机后逃离",
       "tags": [
         "行业",
         "爆料",
