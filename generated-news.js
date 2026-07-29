@@ -1,9 +1,229 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-07-29T03:37:36.269Z",
+  "updatedAt": "2026-07-29T06:44:01.161Z",
   "news": [
     {
+      "id": "auto-fc181ac2a376",
+      "title": "华为 Nova16 SE 手机外观曝光，消息称将搭载麒麟 8020 芯片 + 红枫影像",
+      "source": "IT之家",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-29",
+      "time": "06:33",
+      "publishedAt": "2026-07-29T06:33:04.000Z",
+      "url": "https://www.ithome.com/0/983/042.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/7/26218539-0242-4a39-8009-d87b96fa297b.png?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 7 月 29 日消息，博主 @数码闲聊站 今日分享了一张华为 nova 16 SE 手机的网传图，曝光了新机的外观设计。画面显示， 该机相机 Deco 采用横向矩阵设计，提供黑、白、橙黄渐变三款配色 。 据IT之家昨日报道， 该博主还曝光了该机的核心配置信息 ：搭载 1.5K LTPS OLED 直屏 + 麒麟 8020 芯片 + 50Mp 主摄…",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-85890da82530",
+      "title": "The Galaxy Z Fold 8 series just gained a useful screen trick I hope Google copies",
+      "source": "Android Authority",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-29",
+      "time": "06:26",
+      "publishedAt": "2026-07-29T06:26:26.000Z",
+      "url": "https://www.androidauthority.com/samsung-galaxy-z-fold-8-series-auto-rotate-screens-3692189/",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2026/07/Galaxy-Z-Fold-8.-in-hand-display-on.jpg",
+      "summary": "Samsung is taking the pain out of screen orientation on Fold devices.",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-cdddb96c7886",
+      "title": "竹本青：【小米澎程更正宣发描述：后备厢自行车型号为“700C公路自行车”】 今天上午，小米澎程介绍车内空间表现：N90 M…",
+      "source": "竹本青",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-07-29",
+      "time": "06:21",
+      "publishedAt": "2026-07-29T06:21:38.000Z",
+      "url": "https://www.coolapk.com/feed/72991293",
+      "image": "http://image.coolapk.com/feed/2026/0729/14/4248714_55d3cd34_6093_5301_62@1440x1087.jpg",
+      "summary": "【小米澎程更正宣发描述：后备厢自行车型号为“700C公路自行车”】 今天上午，小米澎程介绍车内空间表现：N90 Max在二、三排前移状态下，可直接放下两辆25英寸公路自行车；满载7人仍可放置7个20英寸行李箱。 随后午间，小米澎程发布更正说明。官方称，宣传文案中自行车型号描述存在偏差，现更正为“700C公路自行车”，并同时公布实拍车辆规格：黑色款52码、白…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-f0c81f0d0965",
+      "title": "中国信通院：2026 年 6 月国内手机出货量 1914.9 万部，同比下降 15.3%",
+      "source": "IT之家",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-29",
+      "time": "05:50",
+      "publishedAt": "2026-07-29T05:50:05.000Z",
+      "url": "https://www.ithome.com/0/983/030.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/7/d728a26a-a212-47bd-ab50-a4e4dbec2540.png?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 7 月 29 日消息，中国信通院今日发布 2026 年 6 月国内手机市场运行分析报告：出货量 1914.9 万部，同比下降 15.3%。IT之家从数据中获悉，其中 5G 手机 1620.1 万部，同比下降 12.1%，占同期手机出货量的 84.6%。 一、国内手机市场总体情况 2026 年 1-6 月，国内市场手机出货量 1.33 亿部，同比下…",
+      "tags": [
+        "行业",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-d289b21def3c",
+      "title": "曝富士 9 月将推 XF400mm 超长焦镜头，与 X-T6 相机一同发布",
+      "source": "IT之家",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-29",
+      "time": "05:44",
+      "publishedAt": "2026-07-29T05:44:09.000Z",
+      "url": "https://www.ithome.com/0/983/029.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/7/b5a427f4-3f9d-4bee-9c8f-b6d488667251.png",
+      "summary": "IT之家 7 月 29 日消息，外媒 Fuji Rumors 本周爆料，富士将于 9 月推出一款 Fujinon XF400mm 超长焦镜头 。 目前尚不清楚这款镜头的光圈参数，不过爆料认为镜头将和富士 X-T6 相机一同发布。 综合该媒体此前爆料， 富士 X-T6 相机预计将于 9 月 3 日发布 ，除了相机本体外， 富士届时还将推出两款 X 卡口镜头…",
+      "tags": [
+        "行业",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-105f5c0e9600",
+      "title": "苹果 AR 专利获批：iPhone 乘客可快速定位所叫网约车位置",
+      "source": "IT之家",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-29",
+      "time": "05:21",
+      "publishedAt": "2026-07-29T05:21:35.000Z",
+      "url": "https://www.ithome.com/0/983/024.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/7/eee54229-7a30-49b7-a8ca-f81748d0f8ea.jpg",
+      "summary": "IT之家 7 月 29 日消息，科技媒体 AppleInsider 昨日（7 月 28 日）发布博文，报道称苹果公司获批“用于识别到达车辆的增强现实界面”专利， 拟借助 iPhone 摄像头扫描周边环境，在屏幕上标出乘客预约的网约车。 根据专利描述，该 AR 方案主要针对人流密集或高楼遮挡区域，避免乘客错误搭乘网约车，以及降低乘客识别所叫网约车的难度。 在…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-e4501312cb96",
+      "title": "Counterpoint：智能手机内存价格第二季度环比增长超 80%，DRAM 超越 SoC 成旗舰手机最贵部件",
+      "source": "IT之家",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-29",
+      "time": "04:42",
+      "publishedAt": "2026-07-29T04:42:30.000Z",
+      "url": "https://www.ithome.com/0/983/015.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/7/657f1e17-c2bb-4c7d-9877-2a246a15bbd3.png",
+      "summary": "IT之家 7 月 29 日消息，根据 Counterpoint Research 今日发布的最新内存价格跟踪报告， 智能手机内存价格在 2026 年第二季度环比增长了 80% 以上 。 报告称，这种显著的增长对智能手机 BOM 成本造成了持续的结构性影响。根据 Counterpoint Research BoM & Teardown 服务模型估算，与 20…",
+      "tags": [
+        "行业",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-a9dfe2fe8efb",
+      "title": "Oppo Find X9 Ultra misses top spot in DxOMark camera ranking",
+      "source": "Gizmochina",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-29",
+      "time": "04:39",
+      "publishedAt": "2026-07-29T04:39:27.000Z",
+      "url": "https://www.gizmochina.com/2026/07/29/oppo-find-x9-ultra-misses-top-spot-in-dxomark-camera-ranking/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/07/OPPO-Find-X9-Ultra-Review_1.mp4_20260521_143620.762-1024x512-1-300x169.jpg?x92417",
+      "summary": "The Oppo Find X9 Ultra, packing dual 200-megapixel Hasselblad-tuned sensors, just went through DxOMark’s full testing and came away with a solid, but not quite chart-topping, resu…",
+      "tags": [
+        "OPPO",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-5183a23c9a67",
+      "title": "Galaxy S26 FE retains 45W fast charging, new listing shows",
+      "source": "SamMobile",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-29",
+      "time": "04:14",
+      "publishedAt": "2026-07-29T04:14:45.000Z",
+      "url": "https://www.sammobile.com/news/galaxy-s26-fe-retains-45w-fast-charging-new-listing-shows/",
+      "image": "",
+      "summary": "Samsung is due to launch the Galaxy S26 FE in a few months. Some details about its specs have leaked periodically, and we're likely to see more emerge as we get closer to the laun…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-40c67256ba09",
+      "title": "Upcoming Redmi K100 series phones visits Geekbench with Snapdragon 8 Elite Gen 5",
+      "source": "Gizmochina",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-29",
+      "time": "03:59",
+      "publishedAt": "2026-07-29T03:59:52.000Z",
+      "url": "https://www.gizmochina.com/2026/07/29/redmi-k100-series-phone-geekbench-listing/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2025/10/REDMI-K90-Pro-Max-Review_1.mp4_20251031_111302.098-300x150.jpg?x92417",
+      "summary": "Redmi has started teasing the Redmi K100 series in China. Scheduled to be showcased at the ChinaJoy 2026 event, the new lineup is expected to go official in August. Ahead of the e…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-10ed01e4a370",
+      "title": "三星 Galaxy S26 FE 手机曝光：45W 充电，Exynos 2500 芯片",
+      "source": "IT之家",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-29",
+      "time": "03:49",
+      "publishedAt": "2026-07-29T03:49:32.000Z",
+      "url": "https://www.ithome.com/0/982/991.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/7/df6fba0d-752e-44eb-afb5-df952fa2ce73.png",
+      "summary": "IT之家 7 月 29 日消息，科技媒体 Android Headline 昨日（7 月 28 日）发布博文， 报道称 三星 Galaxy S26 FE 手机通过 UL Demko 认证，确认该手机支持 45W 充电。 在认证型号方面，基于 UL Demko 认证信息，Galaxy S26 FE 已注册以下型号： SM-S741W SM-S741U1 SM…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
       "id": "coolapk-user-818443ecd46c",
-      "title": "JSCHEN小小狐：『全新华为 MateBook Fold 非凡大师三色亮相』 ◇ 流光金、幻影黑、天际白 ◇ OLED 可折叠超大屏…",
+      "title": "JSCHEN小小狐：全新华为 MateBook Fold 非凡大师三色亮相",
       "source": "JSCHEN小小狐",
       "brand": "Huawei",
       "model": "Huawei 相关机型",
@@ -54,7 +274,7 @@ window.phoneRadarAuto = {
       "publishedAt": "2026-07-29T02:34:50.000Z",
       "url": "https://www.coolapk.com/feed/72988043",
       "image": "http://image.coolapk.com/feed/2026/0729/10/4702274_6826bebe_2487_8512_743@2560x1440.jpg",
-      "summary": "『华为 MateBook Pro S 外观亮相：五款配色』 配色： 仲夏紫、晨曦黄、烟云灰、丝绒白、羽砂黑 ◇ 整机仅重 798g ◇ 2 × USB-C 接口 ◇ 配备后置摄像头 #今日热点# #华为MateBookPro# #华为MateBookXPro2024#",
+      "summary": "『华为 MateBook Pro S 外观亮相：五款配色』 配色： 仲夏紫、晨曦黄、烟云灰、丝绒白、羽砂黑 ◇ 整机仅重 798g ◇ 2 × USB-C 接口 ◇ 配备后置摄像头 #今日热点# #华为MateBookPro# #华为MateBookProS#",
       "tags": [
         "Huawei",
         "爆料",
@@ -119,46 +339,6 @@ window.phoneRadarAuto = {
         "Xiaomi",
         "爆料",
         "酷安博主"
-      ]
-    },
-    {
-      "id": "coolapk-user-6d643378d2a8",
-      "title": "竹本青：【小米澎程N90 Max 空间预热：满载7人+7个20英寸旅行箱；两辆25英寸公路自行车】 7月29日，小米澎程介…",
-      "source": "竹本青",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-07-29",
-      "time": "01:04",
-      "publishedAt": "2026-07-29T01:04:34.000Z",
-      "url": "https://www.coolapk.com/feed/72986929",
-      "image": "http://image.coolapk.com/feed/2026/0729/09/4248714_60f98207_7067_3013_598@2000x2667.jpg",
-      "summary": "【小米澎程N90 Max 空间预热：满载7人+7个20英寸旅行箱；两辆25英寸公路自行车】 7月29日，小米澎程介绍 N90 Max 两个空间使用场景：满载7人，仍能放下7个20英寸旅行箱；二三排前移，可直接放下两辆25英寸公路自行车，无需折叠、无需放倒。 #今日热点# #小米澎程# #小米澎程N90#",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
-      "id": "auto-82d641e38a33",
-      "title": "谷歌 Pixel 11 Pro XL 手机曝光：256GB 起步，电池降幅 1.6%",
-      "source": "IT之家",
-      "brand": "Pixel",
-      "model": "Pixel 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-29",
-      "time": "00:12",
-      "publishedAt": "2026-07-29T00:12:32.000Z",
-      "url": "https://www.ithome.com/0/982/815.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/7/25463544-58d3-44d6-8e22-0cce2d551401.png?x-bce-process=image/format,f_auto/auto-orient,o_1",
-      "summary": "IT之家 7 月 29 日消息，消息源 Roland Quandt 昨日（7 月 28 日）在 Bluesky 平台发布动态，爆料谷歌 Pixel 11 系列手机的电池容量和售价信息， 并表示谷歌今年全系存储 256GB 起步。 存储方面，谷歌 Pixel 10 和 Pixel 10 Pro 为 128GB 起步，而今年全系上调到 256GB 起步。 IT…",
-      "tags": [
-        "Pixel",
-        "爆料",
-        "自动抓取"
       ]
     },
     {
@@ -342,19 +522,19 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-5e65dd262d4f",
-      "title": "今天回收站突然多出3k张图片，全都不是我的图，而且云空间已经爆了，无法同步，oddo你在搞什么鬼啊？？？是不是我的图也会被泄露到别人的oddo手机上啊[喝酒][喝酒][喝酒]",
-      "source": "酷安热榜",
+      "id": "newsnow-2e34cbe3f801",
+      "title": "千万不要把手机交给商家写好评",
+      "source": "微博热搜",
       "brand": "行业",
       "model": "智能手机市场",
       "type": "爆料",
-      "trust": "高关注爆料源",
+      "trust": "待验证",
       "date": "2026-07-29",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72960030",
+      "url": "https://s.weibo.com/weibo?q=%E5%8D%83%E4%B8%87%E4%B8%8D%E8%A6%81%E6%8A%8A%E6%89%8B%E6%9C%BA%E4%BA%A4%E7%BB%99%E5%95%86%E5%AE%B6%E5%86%99%E5%A5%BD%E8%AF%84&t=31&band_rank=4&Refer=top",
       "image": "",
-      "summary": "今天回收站突然多出3k张图片，全都不是我的图，而且云空间已经爆了，无法同步，oddo你在搞什么鬼啊？？？是不是我的图也会被泄露到别人的oddo手机上啊[喝酒][喝酒][喝酒]",
+      "summary": "千万不要把手机交给商家写好评",
       "tags": [
         "行业",
         "爆料",
@@ -362,41 +542,21 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-e5b702ee232d",
-      "title": "华为在海外新机pura 90s上的系统搭载的是#EMUI16# ，底层是安卓16，所以在用#鸿蒙6# 的兄弟们，假如有的选，你们还有想用EMUI16安卓系统的么。",
-      "source": "酷安热榜",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
+      "id": "newsnow-d9bfc3f6a034",
+      "title": "易烊千玺忙一天打开手机天塌了",
+      "source": "微博热搜",
+      "brand": "行业",
+      "model": "智能手机市场",
       "type": "爆料",
-      "trust": "高关注爆料源",
+      "trust": "待验证",
       "date": "2026-07-29",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72971861",
+      "url": "https://s.weibo.com/weibo?q=%23%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E5%BF%99%E4%B8%80%E5%A4%A9%E6%89%93%E5%BC%80%E6%89%8B%E6%9C%BA%E5%A4%A9%E5%A1%8C%E4%BA%86%23&t=31&band_rank=17&Refer=top",
       "image": "",
-      "summary": "华为在海外新机pura 90s上的系统搭载的是#EMUI16# ，底层是安卓16，所以在用#鸿蒙6# 的兄弟们，假如有的选，你们还有想用EMUI16安卓系统的么。",
+      "summary": "易烊千玺忙一天打开手机天塌了",
       "tags": [
-        "Huawei",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-bbc2f0b09f10",
-      "title": "REDMI x 骁龙：年度重磅新品将于7月31日亮相",
-      "source": "酷安热榜",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-07-29",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72970290",
-      "image": "",
-      "summary": "REDMI x 骁龙：年度重磅新品将于7月31日亮相",
-      "tags": [
-        "Xiaomi",
+        "行业",
         "爆料",
         "NewsNow"
       ]
@@ -959,26 +1119,6 @@ window.phoneRadarAuto = {
         "行业",
         "爆料",
         "微博"
-      ]
-    },
-    {
-      "id": "auto-92a8d544dfc4",
-      "title": "Galaxy Z Fold 7 vs Galaxy Z Fold 8 Ultra: Is one year enough to upgrade?",
-      "source": "SamMobile",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-28",
-      "time": "05:19",
-      "publishedAt": "2026-07-28T05:19:27.000Z",
-      "url": "https://www.sammobile.com/news/galaxy-z-fold-7-vs-fold-8-ultra-one-year-upgrade/",
-      "image": "https://www.sammobile.com/wp-content/uploads/2026/07/Galaxy-Z-Fold-8-Ultra-frame-4-1920x1080.jpg",
-      "summary": "The Galaxy Z Fold 8 Ultra is Samsung's most capable foldable smartphone since the lineup's inception in 2019. It builds on the Galaxy Z Fold 7 with a more powerful camera setup, b…",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
       ]
     },
     {

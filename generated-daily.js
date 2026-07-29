@@ -1,12 +1,12 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-07-29T03:37:36.269Z",
+  "updatedAt": "2026-07-29T06:44:01.161Z",
   "issueDate": "2026-07-29",
   "issue": "VOL.260729",
   "title": "手机情报日报",
-  "intro": "今日筛出 10 条重点，其中 8 条是重点爆料，包含 2 条 iPhone 相关、0 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 8 条重点，其中 8 条是重点爆料，包含 1 条 iPhone 相关、0 条官方确认、0 条参数线索。",
   "stats": {
-    "total": 10,
-    "iphone": 2,
+    "total": 8,
+    "iphone": 1,
     "leaks": 8,
     "official": 0,
     "specs": 0
@@ -18,25 +18,73 @@ window.phoneRadarDaily = {
       "hint": "机模、配色、影像、屏幕、电池和芯片线索先看。",
       "items": [
         {
-          "id": "auto-82d641e38a33",
-          "title": "谷歌 Pixel 11 Pro XL 手机曝光：256GB 起步，电池降幅 1.6%",
+          "id": "auto-105f5c0e9600",
+          "title": "苹果 AR 专利获批：iPhone 乘客可快速定位所叫网约车位置",
           "originalTitle": "",
           "source": "IT之家",
-          "brand": "Pixel",
+          "brand": "iPhone",
           "type": "爆料",
           "trust": "媒体汇总",
           "date": "2026-07-29",
-          "time": "00:12",
-          "publishedAt": "2026-07-29T00:12:32.000Z",
-          "url": "https://www.ithome.com/0/982/815.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/7/25463544-58d3-44d6-8e22-0cce2d551401.png?x-bce-process=image/format,f_auto/auto-orient,o_1",
+          "time": "05:21",
+          "publishedAt": "2026-07-29T05:21:35.000Z",
+          "url": "https://www.ithome.com/0/983/024.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/7/eee54229-7a30-49b7-a8ca-f81748d0f8ea.jpg",
           "verdict": "先看",
-          "takeaway": "IT之家 7 月 29 日消息，消息源 Roland Quandt 昨日（7 月 28 日）在 Bluesky 平台发布动态，爆料谷歌 Pixel 11 系列手机的电池容量和售价信息， 并表示谷歌今年全系存储 256GB 起步。 存储方面，谷歌 Pixel 10 和 Pixel 10 Pro 为 128GB 起步，而今年全系上调到 256GB 起步。 IT…",
-          "detail": "IT之家 7 月 29 日消息，消息源 Roland Quandt 昨日（7 月 28 日）在 Bluesky 平台发布动态，爆料谷歌 Pixel 11 系列手机的电池容量和售价信息， 并表示谷歌今年全系存储 256GB 起步。 存储方面，谷歌 Pixel 10 和 Pixel 10 Pro 为 128GB 起步，而今年全系上调到 256GB 起步。 IT…",
+          "takeaway": "IT之家 7 月 29 日消息，科技媒体 AppleInsider 昨日（7 月 28 日）发布博文，报道称苹果公司获批“用于识别到达车辆的增强现实界面”专利， 拟借助 iPhone 摄像头扫描周边环境，在屏幕上标出乘客预约的网约车。 根据专利描述，该 AR 方案主要针对人流密集或高楼遮挡区域，避免乘客错误搭乘网约车，以及降低乘客识别所叫网约车的难度。 在…",
+          "detail": "IT之家 7 月 29 日消息，科技媒体 AppleInsider 昨日（7 月 28 日）发布博文，报道称苹果公司获批“用于识别到达车辆的增强现实界面”专利， 拟借助 iPhone 摄像头扫描周边环境，在屏幕上标出乘客预约的网约车。 根据专利描述，该 AR 方案主要针对人流密集或高楼遮挡区域，避免乘客错误搭乘网约车，以及降低乘客识别所叫网约车的难度。 在…",
+          "keyPoints": [
+            "屏幕形态"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "auto-fc181ac2a376",
+          "title": "华为 Nova16 SE 手机外观曝光，消息称将搭载麒麟 8020 芯片 + 红枫影像",
+          "originalTitle": "",
+          "source": "IT之家",
+          "brand": "Huawei",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-07-29",
+          "time": "06:33",
+          "publishedAt": "2026-07-29T06:33:04.000Z",
+          "url": "https://www.ithome.com/0/983/042.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/7/26218539-0242-4a39-8009-d87b96fa297b.png?x-bce-process=image/format,f_auto",
+          "verdict": "先看",
+          "takeaway": "IT之家 7 月 29 日消息，博主 @数码闲聊站 今日分享了一张华为 nova 16 SE 手机的网传图，曝光了新机的外观设计。画面显示， 该机相机 Deco 采用横向矩阵设计，提供黑、白、橙黄渐变三款配色 。 据IT之家昨日报道， 该博主还曝光了该机的核心配置信息 ：搭载 1.5K LTPS OLED 直屏 + 麒麟 8020 芯片 + 50Mp 主摄…",
+          "detail": "IT之家 7 月 29 日消息，博主 @数码闲聊站 今日分享了一张华为 nova 16 SE 手机的网传图，曝光了新机的外观设计。画面显示， 该机相机 Deco 采用横向矩阵设计，提供黑、白、橙黄渐变三款配色 。 据IT之家昨日报道， 该博主还曝光了该机的核心配置信息 ：搭载 1.5K LTPS OLED 直屏 + 麒麟 8020 芯片 + 50Mp 主摄…",
+          "keyPoints": [
+            "外观 / 配色 / 尺寸",
+            "影像硬件",
+            "屏幕形态",
+            "芯片 / 性能"
+          ],
+          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "auto-10ed01e4a370",
+          "title": "三星 Galaxy S26 FE 手机曝光：45W 充电，Exynos 2500 芯片",
+          "originalTitle": "",
+          "source": "IT之家",
+          "brand": "Samsung",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-07-29",
+          "time": "03:49",
+          "publishedAt": "2026-07-29T03:49:32.000Z",
+          "url": "https://www.ithome.com/0/982/991.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/7/df6fba0d-752e-44eb-afb5-df952fa2ce73.png",
+          "verdict": "先看",
+          "takeaway": "IT之家 7 月 29 日消息，科技媒体 Android Headline 昨日（7 月 28 日）发布博文， 报道称 三星 Galaxy S26 FE 手机通过 UL Demko 认证，确认该手机支持 45W 充电。 在认证型号方面，基于 UL Demko 认证信息，Galaxy S26 FE 已注册以下型号： SM-S741W SM-S741U1 SM…",
+          "detail": "IT之家 7 月 29 日消息，科技媒体 Android Headline 昨日（7 月 28 日）发布博文， 报道称 三星 Galaxy S26 FE 手机通过 UL Demko 认证，确认该手机支持 45W 充电。 在认证型号方面，基于 UL Demko 认证信息，Galaxy S26 FE 已注册以下型号： SM-S741W SM-S741U1 SM…",
           "keyPoints": [
             "电池 / 充电",
-            "成本 / 价格",
-            "爆料来源"
+            "芯片 / 性能"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
@@ -56,8 +104,8 @@ window.phoneRadarDaily = {
           "url": "https://www.coolapk.com/feed/72988043",
           "image": "http://image.coolapk.com/feed/2026/0729/10/4702274_6826bebe_2487_8512_743@2560x1440.jpg",
           "verdict": "先看",
-          "takeaway": "『华为 MateBook Pro S 外观亮相：五款配色』 配色： 仲夏紫、晨曦黄、烟云灰、丝绒白、羽砂黑 ◇ 整机仅重 798g ◇ 2 × USB-C 接口 ◇ 配备后置摄像头 #今日热点# #华为MateBookPro# #华为MateBookXPro2024#",
-          "detail": "『华为 MateBook Pro S 外观亮相：五款配色』 配色： 仲夏紫、晨曦黄、烟云灰、丝绒白、羽砂黑 ◇ 整机仅重 798g ◇ 2 × USB-C 接口 ◇ 配备后置摄像头 #今日热点# #华为MateBookPro# #华为MateBookXPro2024#",
+          "takeaway": "『华为 MateBook Pro S 外观亮相：五款配色』 配色： 仲夏紫、晨曦黄、烟云灰、丝绒白、羽砂黑 ◇ 整机仅重 798g ◇ 2 × USB-C 接口 ◇ 配备后置摄像头 #今日热点# #华为MateBookPro# #华为MateBookProS#",
+          "detail": "『华为 MateBook Pro S 外观亮相：五款配色』 配色： 仲夏紫、晨曦黄、烟云灰、丝绒白、羽砂黑 ◇ 整机仅重 798g ◇ 2 × USB-C 接口 ◇ 配备后置摄像头 #今日热点# #华为MateBookPro# #华为MateBookProS#",
           "keyPoints": [
             "外观 / 配色 / 尺寸"
           ],
@@ -162,106 +210,6 @@ window.phoneRadarDaily = {
           "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "weibo-36b73b182bfc",
-          "title": "数码闲聊站：红米重磅新品将于7月底超前亮相ChinaJoy，莫非是REDMI K100系列…",
-          "originalTitle": "",
-          "source": "数码闲聊站",
-          "brand": "Xiaomi",
-          "type": "爆料",
-          "trust": "高关注爆料源",
-          "date": "2026-07-28",
-          "time": "01:05",
-          "publishedAt": "2026-07-28T01:05:50.000Z",
-          "url": "https://weibo.com/6048569942/RaJsxxXDE",
-          "image": "",
-          "verdict": "先看",
-          "takeaway": "红米重磅新品将于7月底超前亮相ChinaJoy，莫非是REDMI K100系列新机？官宣图可以看到还是横向大矩阵设计，听说还有花活儿，加速加速！[doge]",
-          "detail": "红米重磅新品将于7月底超前亮相ChinaJoy，莫非是REDMI K100系列新机？官宣图可以看到还是横向大矩阵设计，听说还有花活儿，加速加速！[doge]",
-          "keyPoints": [
-            "爆料来源"
-          ],
-          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "coolapk-user-818443ecd46c",
-          "title": "JSCHEN小小狐：『全新华为 MateBook Fold 非凡大师三色亮相』 ◇ 流光金、幻影黑、天际白 ◇ OLED 可折叠超大屏…",
-          "originalTitle": "",
-          "source": "JSCHEN小小狐",
-          "brand": "Huawei",
-          "type": "爆料",
-          "trust": "高可信爆料",
-          "date": "2026-07-29",
-          "time": "03:05",
-          "publishedAt": "2026-07-29T03:05:24.000Z",
-          "url": "https://www.coolapk.com/feed/72988460",
-          "image": "http://image.coolapk.com/feed/2026/0729/11/4702274_ab357f4e_4323_1553_101@3000x1500.jpg",
-          "verdict": "先看",
-          "takeaway": "『全新华为 MateBook Fold 非凡大师三色亮相』 ◇ 流光金、幻影黑、天际白 ◇ OLED 可折叠超大屏 ◇ 麒麟 X9 系处理器 版本： 24GB + 512GB / 24GB + 1TB / 32GB + 2TB #今日热点# #华为MateBookFold非凡大师#",
-          "detail": "『全新华为 MateBook Fold 非凡大师三色亮相』 ◇ 流光金、幻影黑、天际白 ◇ OLED 可折叠超大屏 ◇ 麒麟 X9 系处理器 版本： 24GB + 512GB / 24GB + 1TB / 32GB + 2TB #今日热点# #华为MateBookFold非凡大师#",
-          "keyPoints": [
-            "屏幕形态",
-            "芯片 / 性能"
-          ],
-          "confidence": "可信度较高，但仍属于发布前线索。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        }
-      ]
-    },
-    {
-      "id": "iphone",
-      "title": "iPhone 重点",
-      "hint": "不是硬件爆料，但和 iPhone 体验或路线有关。",
-      "items": [
-        {
-          "id": "newsnow-32c01943f6b4",
-          "title": "老婆才用了两年半的iPhone15 256G的已经很卡了，才两年半诶[流汗滑稽]",
-          "originalTitle": "",
-          "source": "酷安热榜",
-          "brand": "iPhone",
-          "type": "爆料",
-          "trust": "高关注爆料源",
-          "date": "2026-07-29",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://www.coolapk.com/feed/72976645",
-          "image": "",
-          "verdict": "先看",
-          "takeaway": "老婆才用了两年半的iPhone15 256G的已经很卡了，才两年半诶[流汗滑稽]",
-          "detail": "老婆才用了两年半的iPhone15 256G的已经很卡了，才两年半诶[流汗滑稽]",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
-        {
-          "id": "newsnow-e2d142bc14f1",
-          "title": "iPhone Air买了半年了，有点后悔。",
-          "originalTitle": "",
-          "source": "酷安热榜",
-          "brand": "iPhone",
-          "type": "爆料",
-          "trust": "高关注爆料源",
-          "date": "2026-07-29",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://www.coolapk.com/feed/72962318",
-          "image": "",
-          "verdict": "先看",
-          "takeaway": "iPhone Air买了半年了，有点后悔。",
-          "detail": "iPhone Air买了半年了，有点后悔。",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         }
       ]
     }
