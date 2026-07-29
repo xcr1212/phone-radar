@@ -1,6 +1,226 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-07-29T14:30:25.466Z",
+  "updatedAt": "2026-07-29T17:37:39.847Z",
   "news": [
+    {
+      "id": "auto-795bb558c7db",
+      "title": "New Pixel 11 Pro ‘next obvious move’ teaser provides better look at Glow [Video]",
+      "source": "9to5Google",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-29",
+      "time": "16:55",
+      "publishedAt": "2026-07-29T16:55:56.000Z",
+      "url": "https://9to5google.com/2026/07/29/pixel-11-pro-teaser-2/",
+      "image": "",
+      "summary": "With Made by Google 2026 now two weeks away, Google has released a new Pixel 11 Pro teaser this morning.",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-60d6aebd80da",
+      "title": "Samsung’s Galaxy S26 FE pricing leaks, and it’s bad news for budget hunters",
+      "source": "Android Central",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-07-29",
+      "time": "16:45",
+      "publishedAt": "2026-07-29T16:45:00.000Z",
+      "url": "https://www.androidcentral.com/phones/samsung-galaxy/samsungs-galaxy-s26-fe-pricing-leaks-and-its-bad-news-for-budget-hunters",
+      "image": "https://cdn.mos.cms.futurecdn.net/7tF3GgW37VhPfKZNvsHHSF-1280-80.jpg",
+      "summary": "Samsung's Galaxy S26 FE is rumored to hit shelves September 1 with fresh colors and a flagship design, but expect steep price hikes across all storage tiers.",
+      "tags": [
+        "Samsung",
+        "评测",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-ffd7c3122690",
+      "title": "Galaxy Z Fold 8: 3 reasons to buy or upgrade in 2026",
+      "source": "SamMobile",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-29",
+      "time": "16:44",
+      "publishedAt": "2026-07-29T16:44:02.000Z",
+      "url": "https://www.sammobile.com/news/galaxy-z-fold-8-3-reasons-to-buy-or-upgrade-in-2026/",
+      "image": "https://www.sammobile.com/wp-content/uploads/2026/07/Galaxy-Z-Fold-8-lock-screen-2-1920x1079.jpg",
+      "summary": "2026 is an exciting year for foldable phone fans. The market leader, Samsung, introduced a brand-new form factor at Unpacked in London last week. It's called the Galaxy Z Fold 8,…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-f49fc5f92ac0",
+      "title": "荣耀起诉一电商平台手机壳商家商标侵权，双方现已达成和解",
+      "source": "IT之家",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-29",
+      "time": "15:53",
+      "publishedAt": "2026-07-29T15:53:48.000Z",
+      "url": "https://www.ithome.com/0/983/353.htm",
+      "image": "",
+      "summary": "IT之家 7 月 29 日消息，近日，有媒体报道，一名电商平台手机壳商家因在商品标题中使用“荣耀手机壳”等表述，被荣耀公司以商标侵权为由提起诉讼。 据深圳商报今日消息，记者从荣耀公司及当事电商林坚（化名）双方获悉， 目前双方已就相关纠纷达成和解 。 对于事件最新进展，林坚称目前双方已经达成和解， 自己从未向荣耀赔偿 38 万元 ，希望大家不要再继续攻击荣耀…",
+      "tags": [
+        "HONOR",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-e80c1ea8da98",
+      "title": "Score $1,100 OFF the Samsung Galaxy Z Fold 8 with new T-Mobile deal — no trade-in required!",
+      "source": "Android Central",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-07-29",
+      "time": "15:45",
+      "publishedAt": "2026-07-29T15:45:20.000Z",
+      "url": "https://www.androidcentral.com/phones/samsung-galaxy/score-usd1-100-off-the-samsung-galaxy-z-fold-8-with-new-t-mobile-deal-no-trade-in-required",
+      "image": "https://cdn.mos.cms.futurecdn.net/WExALYGSatwUuFbyze7jh3-1280-80.jpg",
+      "summary": "Add a line with T-Mobile's Experience More or Experience Beyond plan and you'll score $1,100 off your Galaxy Z Fold 8 preorder.",
+      "tags": [
+        "Samsung",
+        "评测",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-b1b5b5222f69",
+      "title": "竹本青：【荣耀起诉一手机壳商家商标侵权事件后续：双方已达成和解，当事人称“已向荣耀赔偿38万元”说法不属实】 7月29日，…",
+      "source": "竹本青",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-07-29",
+      "time": "15:42",
+      "publishedAt": "2026-07-29T15:42:43.000Z",
+      "url": "https://www.coolapk.com/feed/72999202",
+      "image": "http://image.coolapk.com/feed/2026/0730/00/4248714_f084cbc0_1394_1374_673-livepic@720x1282.jpg",
+      "summary": "【荣耀起诉一手机壳商家商标侵权事件后续：双方已达成和解，当事人称“已向荣耀赔偿38万元”说法不属实】 7月29日，据深圳商报报道，近日引发广泛关注的“荣耀起诉一电商平台手机壳商家商标侵权”事件迎来新进展。 记者从荣耀公司及当事电商林坚（化名）双方获悉，目前双方已就相关纠纷达成和解。林坚表示，网络传播的“已向荣耀赔偿38万元”等说法并不属实；荣耀方面回应称，…",
+      "tags": [
+        "HONOR",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-e2118094f6e0",
+      "title": "The best Galaxy Z Fold 8 deal is at Amazon — boosted trade-in plus $350 gift card",
+      "source": "9to5Google",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-29",
+      "time": "15:25",
+      "publishedAt": "2026-07-29T15:25:00.000Z",
+      "url": "https://9to5google.com/2026/07/29/samsung-galaxy-z-fold-8-amazon-pre-order-deal-boosted-trade-in-gift-card/",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/07/Galaxy-Z-Fold-8-and-Z-Fold-8-Ultra-devices-6.jpg?quality=82&strip=all&w=1600",
+      "summary": "Samsung’s latest foldables are finally up for pre-order, but unlike past launches, the best deal you’ll actually find isn’t on the company’s own website — it’s at Amazon. Whether…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-b2cf7da86650",
+      "title": "iPhone 18 Pro vs iPhone Ultra: Here are the biggest differences",
+      "source": "9to5Mac",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-29",
+      "time": "15:18",
+      "publishedAt": "2026-07-29T15:18:29.000Z",
+      "url": "https://9to5mac.com/2026/07/29/iphone-18-pro-vs-iphone-ultra-here-are-biggest-differences/",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/05/iphone-17-pro-blue-angle-two.jpg?quality=82&strip=all&w=1600",
+      "summary": "Apple’s fall iPhone lineup this year is rumored to revolve around iPhone 18 Pro and iPhone Ultra . Here are the three biggest feature differences—not counting price—that may influ…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-274a7fbc95ad",
+      "title": "Galaxy S26 FE leak could be a bad sign for the pricing",
+      "source": "Android Authority",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-29",
+      "time": "15:06",
+      "publishedAt": "2026-07-29T15:06:28.000Z",
+      "url": "https://www.androidauthority.com/galaxy-s26-fe-pricing-colors-storage-3692422/",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2025/09/Samsung-Galaxy-S25-FE-against-wall-showing-back.jpg",
+      "summary": "The leak also reveals the colors, storage options, and more.",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-2d0b38375187",
+      "title": "Galaxy Z Fold 8 can automatically unlock screen rotation when you open it up",
+      "source": "9to5Google",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-29",
+      "time": "15:05",
+      "publishedAt": "2026-07-29T15:05:00.000Z",
+      "url": "https://9to5google.com/2026/07/29/samsung-galaxy-z-fold-8-screen-rotation-setting/",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/07/galaxy-z-fold-8-series-43.jpg?quality=82&strip=all&w=1600",
+      "summary": "Samsung has quietly introduced a nice quality-of-life feature on the Galaxy Z Fold 8 series, where its new foldables can automatically unlock screen rotation when you use the inne…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-c50b1a9baec4",
+      "title": "Galaxy Z Fold 8 Ultra: 3 reasons to buy or upgrade in 2026",
+      "source": "SamMobile",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-29",
+      "time": "15:03",
+      "publishedAt": "2026-07-29T15:03:15.000Z",
+      "url": "https://www.sammobile.com/news/galaxy-z-fold-8-ultra-3-reasons-to-buy-or-upgrade-in-2026/",
+      "image": "https://www.sammobile.com/wp-content/uploads/2026/07/Galaxy-Z-Fold-7-vs-Fold-8-Ultra-anti-reflection-1920x1079.jpg",
+      "summary": "Samsung's Ultra family of devices is growing. Last week, the company unveiled the Galaxy Z Fold 8 Ultra at Unpacked in London, and it looks every bit as compelling as the Fold 7 d…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-cf3e69ac4e2d",
       "title": "Apple Upgrade: Is Leasing Your Next iPhone Worth It?",
@@ -11,7 +231,7 @@ window.phoneRadarAuto = {
       "trust": "媒体汇总",
       "date": "2026-07-29",
       "time": "14:29",
-      "publishedAt": "2026-07-29T14:29:37.000Z",
+      "publishedAt": "2026-07-29T14:29:29.000Z",
       "url": "https://www.macrumors.com/2026/07/29/is-apple-upgrade-program-worth-it/",
       "image": "https://images.macrumors.com/article-new/2026/07/Apple-Upgrade-Is-It-Worth-It.jpg",
       "summary": "With the new Apple Upgrade program in the U.S., you can now lease an iPhone, but is it worth it? The answer is more complicated than a simple yes or no. We'll use the iPhone 17 Pr…",
@@ -342,26 +562,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "coolapk-user-cdddb96c7886",
-      "title": "竹本青：小米澎程更正后备厢自行车型号宣发描述",
-      "source": "竹本青",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-07-29",
-      "time": "06:21",
-      "publishedAt": "2026-07-29T06:21:38.000Z",
-      "url": "https://www.coolapk.com/feed/72991293",
-      "image": "http://image.coolapk.com/feed/2026/0729/14/4248714_55d3cd34_6093_5301_62@1440x1087.jpg",
-      "summary": "【小米澎程更正宣发描述：后备厢自行车型号为“700C公路自行车”】 今天上午，小米澎程介绍车内空间表现：N90 Max在二、三排前移状态下，可直接放下两辆25英寸公路自行车；满载7人仍可放置7个20英寸行李箱。 随后午间，小米澎程发布更正说明。官方称，宣传文案中自行车型号描述存在偏差，现更正为“700C公路自行车”，并同时公布实拍车辆规格：黑色款52码、白…",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
       "id": "auto-a9dfe2fe8efb",
       "title": "Oppo Find X9 Ultra misses top spot in DxOMark camera ranking",
       "source": "Gizmochina",
@@ -377,26 +577,6 @@ window.phoneRadarAuto = {
       "summary": "The Oppo Find X9 Ultra, packing dual 200-megapixel Hasselblad-tuned sensors, just went through DxOMark’s full testing and came away with a solid, but not quite chart-topping, resu…",
       "tags": [
         "OPPO",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-5183a23c9a67",
-      "title": "Galaxy S26 FE retains 45W fast charging, new listing shows",
-      "source": "SamMobile",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-29",
-      "time": "04:14",
-      "publishedAt": "2026-07-29T04:14:45.000Z",
-      "url": "https://www.sammobile.com/news/galaxy-s26-fe-retains-45w-fast-charging-new-listing-shows/",
-      "image": "",
-      "summary": "Samsung is due to launch the Galaxy S26 FE in a few months. Some details about its specs have leaked periodically, and we're likely to see more emerge as we get closer to the laun…",
-      "tags": [
-        "Samsung",
         "爆料",
         "自动抓取"
       ]
@@ -499,6 +679,206 @@ window.phoneRadarAuto = {
         "iPhone",
         "官方",
         "自动抓取"
+      ]
+    },
+    {
+      "id": "newsnow-a2c01ed27d20",
+      "title": "我的出行好伙伴，用 iPhone 一站式解决旅途痛点",
+      "source": "少数派热榜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-07-29",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://sspai.com/post/112044",
+      "image": "",
+      "summary": "我的出行好伙伴，用 iPhone 一站式解决旅途痛点",
+      "tags": [
+        "iPhone",
+        "评测",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-ce95580a48cf",
+      "title": "iPhone Air 当主力机用了三个多月后，我为什么还是换不掉它",
+      "source": "少数派热榜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-07-29",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://sspai.com/post/111113",
+      "image": "",
+      "summary": "iPhone Air 当主力机用了三个多月后，我为什么还是换不掉它",
+      "tags": [
+        "iPhone",
+        "评测",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-720a50d8b78d",
+      "title": "快捷指令｜让 iPhone 用上锤子的「大爆炸」",
+      "source": "少数派热榜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-07-29",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://sspai.com/post/111405",
+      "image": "",
+      "summary": "快捷指令｜让 iPhone 用上锤子的「大爆炸」",
+      "tags": [
+        "iPhone",
+        "评测",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-32c01943f6b4",
+      "title": "老婆才用了两年半的iPhone15 256G的已经很卡了，才两年半诶[流汗滑稽]",
+      "source": "酷安热榜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-07-29",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/72976645",
+      "image": "",
+      "summary": "老婆才用了两年半的iPhone15 256G的已经很卡了，才两年半诶[流汗滑稽]",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-39d8806526c8",
+      "title": "极客湾曝光手机电池锁容、快充功率不达标乱象：侵害了消费者知情权",
+      "source": "酷安热榜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-07-29",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/72943675",
+      "image": "",
+      "summary": "极客湾曝光手机电池锁容、快充功率不达标乱象：侵害了消费者知情权",
+      "tags": [
+        "行业",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-26c6044256ee",
+      "title": "说实话，结合目前的消息，我对澎湃os 4充满了担忧，因为从现在来看，澎湃os大部分爆料出来的更新，在于一些动效啊，界面的UI设计上的啊，但作为一个用过好几台米系手机的人，我对于澎湃os 2和澎湃os 3也算有些了解了，Os 2主要的问题就在于卡顿和bug， os 3优化了大部分的卡顿bug，使其更加流畅，但其实这些只是浮于表面的问题，并没有治本[捂脸][受虐滑稽][流汗滑稽]",
+      "source": "酷安热榜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-07-29",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/72971176",
+      "image": "",
+      "summary": "说实话，结合目前的消息，我对澎湃os 4充满了担忧，因为从现在来看，澎湃os大部分爆料出来的更新，在于一些动效啊，界面的UI设计上的啊，但作为一个用过好几台米系手机的人，我对于澎湃os 2和澎湃os 3也算有些了解了，Os 2主要的问题就在于卡顿和bug， os 3优化了大部分的卡顿bug，使其更加流畅，但其实这些只是浮于表面的问题，并没有治本[捂脸][受…",
+      "tags": [
+        "行业",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-e2a045b41ec3",
+      "title": "华为真的好丝滑，比ovm丝滑多了，不论是打开信息流滑动还是打开应用，点开图片的流畅度都很好，感觉比iOS都舒服，就是性能跟现在主流处理器有点差距然后应用适配程度还需要继续努力，加油华为[流泪][受虐滑稽] #华为Mate80ProMax# #iPhone17ProMax#",
+      "source": "酷安热榜",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-07-29",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/72967702",
+      "image": "",
+      "summary": "华为真的好丝滑，比ovm丝滑多了，不论是打开信息流滑动还是打开应用，点开图片的流畅度都很好，感觉比iOS都舒服，就是性能跟现在主流处理器有点差距然后应用适配程度还需要继续努力，加油华为[流泪][受虐滑稽] #华为Mate80ProMax# #iPhone17ProMax#",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-e2d142bc14f1",
+      "title": "iPhone Air买了半年了，有点后悔。",
+      "source": "酷安热榜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-07-29",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/72962318",
+      "image": "",
+      "summary": "iPhone Air买了半年了，有点后悔。",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-7d0f53b99d49",
+      "title": "千万不要把手机交给商家写好评",
+      "source": "微博热搜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "待验证",
+      "date": "2026-07-29",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://s.weibo.com/weibo?q=%E5%8D%83%E4%B8%87%E4%B8%8D%E8%A6%81%E6%8A%8A%E6%89%8B%E6%9C%BA%E4%BA%A4%E7%BB%99%E5%95%86%E5%AE%B6%E5%86%99%E5%A5%BD%E8%AF%84&t=31&band_rank=1&Refer=top",
+      "image": "",
+      "summary": "千万不要把手机交给商家写好评",
+      "tags": [
+        "行业",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-ac81899b15d9",
+      "title": "女子修手机被店主导出40多张私密照",
+      "source": "今日头条热榜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-29",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.toutiao.com/trending/7667415040820101171/",
+      "image": "",
+      "summary": "女子修手机被店主导出40多张私密照",
+      "tags": [
+        "行业",
+        "爆料",
+        "NewsNow"
       ]
     },
     {
