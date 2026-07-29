@@ -1,14 +1,14 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-07-29T06:44:01.161Z",
+  "updatedAt": "2026-07-29T10:48:25.049Z",
   "issueDate": "2026-07-29",
   "issue": "VOL.260729",
   "title": "手机情报日报",
-  "intro": "今日筛出 8 条重点，其中 8 条是重点爆料，包含 1 条 iPhone 相关、0 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 12 条重点，其中 8 条是重点爆料，包含 3 条 iPhone 相关、1 条官方确认、0 条参数线索。",
   "stats": {
-    "total": 8,
-    "iphone": 1,
+    "total": 12,
+    "iphone": 3,
     "leaks": 8,
-    "official": 0,
+    "official": 1,
     "specs": 0
   },
   "sections": [
@@ -18,73 +18,23 @@ window.phoneRadarDaily = {
       "hint": "机模、配色、影像、屏幕、电池和芯片线索先看。",
       "items": [
         {
-          "id": "auto-105f5c0e9600",
-          "title": "苹果 AR 专利获批：iPhone 乘客可快速定位所叫网约车位置",
+          "id": "auto-dd9e991fc6b7",
+          "title": "小米公布 2026 年度 REDMI ChinaJoy 日程：7 月 31 日 10:00 展示“重磅新品”，预计为 K100 Pro 系列手机",
           "originalTitle": "",
           "source": "IT之家",
-          "brand": "iPhone",
+          "brand": "Xiaomi",
           "type": "爆料",
           "trust": "媒体汇总",
           "date": "2026-07-29",
-          "time": "05:21",
-          "publishedAt": "2026-07-29T05:21:35.000Z",
-          "url": "https://www.ithome.com/0/983/024.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/7/eee54229-7a30-49b7-a8ca-f81748d0f8ea.jpg",
+          "time": "07:20",
+          "publishedAt": "2026-07-29T07:20:56.000Z",
+          "url": "https://www.ithome.com/0/983/100.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/7/dba46b9e-e3a9-4dfc-a3e6-6d8389de2c2c.jpg?x-bce-process=image/format,f_auto",
           "verdict": "先看",
-          "takeaway": "IT之家 7 月 29 日消息，科技媒体 AppleInsider 昨日（7 月 28 日）发布博文，报道称苹果公司获批“用于识别到达车辆的增强现实界面”专利， 拟借助 iPhone 摄像头扫描周边环境，在屏幕上标出乘客预约的网约车。 根据专利描述，该 AR 方案主要针对人流密集或高楼遮挡区域，避免乘客错误搭乘网约车，以及降低乘客识别所叫网约车的难度。 在…",
-          "detail": "IT之家 7 月 29 日消息，科技媒体 AppleInsider 昨日（7 月 28 日）发布博文，报道称苹果公司获批“用于识别到达车辆的增强现实界面”专利， 拟借助 iPhone 摄像头扫描周边环境，在屏幕上标出乘客预约的网约车。 根据专利描述，该 AR 方案主要针对人流密集或高楼遮挡区域，避免乘客错误搭乘网约车，以及降低乘客识别所叫网约车的难度。 在…",
+          "takeaway": "IT之家 7 月 29 日消息，REDMI 红米手机官方微博今天公布了 2026 年度 REDMI ChinaJoy 日程，官方将于 7 月 31 日 10:30-11:30 展示“重磅新品”，提供“真机上手、配置大爆料”环节。综合博主 @体验 more，预计相应新品为小米 REDMI K100 Pro 系列。 ▲ 预计官方海报中出现的手机便是“重磅新品”…",
+          "detail": "IT之家 7 月 29 日消息，REDMI 红米手机官方微博今天公布了 2026 年度 REDMI ChinaJoy 日程，官方将于 7 月 31 日 10:30-11:30 展示“重磅新品”，提供“真机上手、配置大爆料”环节。综合博主 @体验 more，预计相应新品为小米 REDMI K100 Pro 系列。 ▲ 预计官方海报中出现的手机便是“重磅新品”…",
           "keyPoints": [
-            "屏幕形态"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "auto-fc181ac2a376",
-          "title": "华为 Nova16 SE 手机外观曝光，消息称将搭载麒麟 8020 芯片 + 红枫影像",
-          "originalTitle": "",
-          "source": "IT之家",
-          "brand": "Huawei",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-07-29",
-          "time": "06:33",
-          "publishedAt": "2026-07-29T06:33:04.000Z",
-          "url": "https://www.ithome.com/0/983/042.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/7/26218539-0242-4a39-8009-d87b96fa297b.png?x-bce-process=image/format,f_auto",
-          "verdict": "先看",
-          "takeaway": "IT之家 7 月 29 日消息，博主 @数码闲聊站 今日分享了一张华为 nova 16 SE 手机的网传图，曝光了新机的外观设计。画面显示， 该机相机 Deco 采用横向矩阵设计，提供黑、白、橙黄渐变三款配色 。 据IT之家昨日报道， 该博主还曝光了该机的核心配置信息 ：搭载 1.5K LTPS OLED 直屏 + 麒麟 8020 芯片 + 50Mp 主摄…",
-          "detail": "IT之家 7 月 29 日消息，博主 @数码闲聊站 今日分享了一张华为 nova 16 SE 手机的网传图，曝光了新机的外观设计。画面显示， 该机相机 Deco 采用横向矩阵设计，提供黑、白、橙黄渐变三款配色 。 据IT之家昨日报道， 该博主还曝光了该机的核心配置信息 ：搭载 1.5K LTPS OLED 直屏 + 麒麟 8020 芯片 + 50Mp 主摄…",
-          "keyPoints": [
-            "外观 / 配色 / 尺寸",
-            "影像硬件",
-            "屏幕形态",
-            "芯片 / 性能"
-          ],
-          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "auto-10ed01e4a370",
-          "title": "三星 Galaxy S26 FE 手机曝光：45W 充电，Exynos 2500 芯片",
-          "originalTitle": "",
-          "source": "IT之家",
-          "brand": "Samsung",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-07-29",
-          "time": "03:49",
-          "publishedAt": "2026-07-29T03:49:32.000Z",
-          "url": "https://www.ithome.com/0/982/991.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/7/df6fba0d-752e-44eb-afb5-df952fa2ce73.png",
-          "verdict": "先看",
-          "takeaway": "IT之家 7 月 29 日消息，科技媒体 Android Headline 昨日（7 月 28 日）发布博文， 报道称 三星 Galaxy S26 FE 手机通过 UL Demko 认证，确认该手机支持 45W 充电。 在认证型号方面，基于 UL Demko 认证信息，Galaxy S26 FE 已注册以下型号： SM-S741W SM-S741U1 SM…",
-          "detail": "IT之家 7 月 29 日消息，科技媒体 Android Headline 昨日（7 月 28 日）发布博文， 报道称 三星 Galaxy S26 FE 手机通过 UL Demko 认证，确认该手机支持 45W 充电。 在认证型号方面，基于 UL Demko 认证信息，Galaxy S26 FE 已注册以下型号： SM-S741W SM-S741U1 SM…",
-          "keyPoints": [
-            "电池 / 充电",
-            "芯片 / 性能"
+            "爆料来源"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
@@ -210,6 +160,160 @@ window.phoneRadarDaily = {
           "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "auto-2b556d995247",
+          "title": "HMD Pulse2 系列手机规格曝光：全系搭展锐 T615 处理器，近期上市",
+          "originalTitle": "",
+          "source": "IT之家",
+          "brand": "行业",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-07-29",
+          "time": "08:21",
+          "publishedAt": "2026-07-29T08:21:14.000Z",
+          "url": "https://www.ithome.com/0/983/145.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/7/9aa13b74-bf5c-4822-ade4-8133943b8c3e.jpg?x-bce-process=image/format,f_auto",
+          "verdict": "先看",
+          "takeaway": "IT之家 7 月 29 日消息，消息源 smashx_60 透露 HMD Pulse2 系列手机即将上市，系列手机实际上在一年前就已完成大部分开发工程，但由于成本和工厂生产问题，因此延迟到近期才上市。 规格方面，其中 HMD Pulse2 手机标准版提供黑 / 蓝双色可选，配备一块 6.67 英寸 HD+ 90Hz IPS LCD 面板，匹配 8Mp 自拍…",
+          "detail": "IT之家 7 月 29 日消息，消息源 smashx_60 透露 HMD Pulse2 系列手机即将上市，系列手机实际上在一年前就已完成大部分开发工程，但由于成本和工厂生产问题，因此延迟到近期才上市。 规格方面，其中 HMD Pulse2 手机标准版提供黑 / 蓝双色可选，配备一块 6.67 英寸 HD+ 90Hz IPS LCD 面板，匹配 8Mp 自拍…",
+          "keyPoints": [
+            "芯片 / 性能",
+            "成本 / 价格"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "coolapk-user-818443ecd46c",
+          "title": "JSCHEN小小狐：全新华为 MateBook Fold 非凡大师三色亮相",
+          "originalTitle": "",
+          "source": "JSCHEN小小狐",
+          "brand": "Huawei",
+          "type": "爆料",
+          "trust": "高可信爆料",
+          "date": "2026-07-29",
+          "time": "03:05",
+          "publishedAt": "2026-07-29T03:05:24.000Z",
+          "url": "https://www.coolapk.com/feed/72988460",
+          "image": "http://image.coolapk.com/feed/2026/0729/11/4702274_ab357f4e_4323_1553_101@3000x1500.jpg",
+          "verdict": "先看",
+          "takeaway": "『全新华为 MateBook Fold 非凡大师三色亮相』 ◇ 流光金、幻影黑、天际白 ◇ OLED 可折叠超大屏 ◇ 麒麟 X9 系处理器 版本： 24GB + 512GB / 24GB + 1TB / 32GB + 2TB #今日热点# #华为MateBookFold非凡大师#",
+          "detail": "『全新华为 MateBook Fold 非凡大师三色亮相』 ◇ 流光金、幻影黑、天际白 ◇ OLED 可折叠超大屏 ◇ 麒麟 X9 系处理器 版本： 24GB + 512GB / 24GB + 1TB / 32GB + 2TB #今日热点# #华为MateBookFold非凡大师#",
+          "keyPoints": [
+            "屏幕形态",
+            "芯片 / 性能"
+          ],
+          "confidence": "可信度较高，但仍属于发布前线索。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        }
+      ]
+    },
+    {
+      "id": "iphone",
+      "title": "iPhone 重点",
+      "hint": "不是硬件爆料，但和 iPhone 体验或路线有关。",
+      "items": [
+        {
+          "id": "newsnow-32c01943f6b4",
+          "title": "老婆才用了两年半的iPhone15 256G的已经很卡了，才两年半诶[流汗滑稽]",
+          "originalTitle": "",
+          "source": "酷安热榜",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "高关注爆料源",
+          "date": "2026-07-29",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://www.coolapk.com/feed/72976645",
+          "image": "",
+          "verdict": "先看",
+          "takeaway": "老婆才用了两年半的iPhone15 256G的已经很卡了，才两年半诶[流汗滑稽]",
+          "detail": "老婆才用了两年半的iPhone15 256G的已经很卡了，才两年半诶[流汗滑稽]",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        },
+        {
+          "id": "newsnow-e2d142bc14f1",
+          "title": "iPhone Air买了半年了，有点后悔。",
+          "originalTitle": "",
+          "source": "酷安热榜",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "高关注爆料源",
+          "date": "2026-07-29",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://www.coolapk.com/feed/72962318",
+          "image": "",
+          "verdict": "先看",
+          "takeaway": "iPhone Air买了半年了，有点后悔。",
+          "detail": "iPhone Air买了半年了，有点后悔。",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        },
+        {
+          "id": "auto-9bbf43c61c96",
+          "title": "iPhone 系统功能 / AI 体验相关消息",
+          "originalTitle": "",
+          "source": "Apple Newsroom",
+          "brand": "iPhone",
+          "type": "官方",
+          "trust": "官方确认",
+          "date": "2026-07-29",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://www.apple.com/newsroom/2026/06/apple-announces-changes-to-ios-in-brazil/",
+          "image": "",
+          "verdict": "先看",
+          "takeaway": "iPhone 系统功能 / AI 体验相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
+          "detail": "iPhone 系统功能 / AI 体验相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
+          "keyPoints": [
+            "官方"
+          ],
+          "confidence": "官方内容，可直接作为已确认信息记录。",
+          "impact": "可信度高，但如果不是配置/价格消息，只需要扫一眼。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        }
+      ]
+    },
+    {
+      "id": "launch",
+      "title": "新机与官方发布",
+      "hint": "能直接更新到参数库。",
+      "items": [
+        {
+          "id": "coolapk-user-cdddb96c7886",
+          "title": "竹本青：小米澎程更正后备厢自行车型号宣发描述",
+          "originalTitle": "",
+          "source": "竹本青",
+          "brand": "Xiaomi",
+          "type": "爆料",
+          "trust": "高可信爆料",
+          "date": "2026-07-29",
+          "time": "06:21",
+          "publishedAt": "2026-07-29T06:21:38.000Z",
+          "url": "https://www.coolapk.com/feed/72991293",
+          "image": "http://image.coolapk.com/feed/2026/0729/14/4248714_55d3cd34_6093_5301_62@1440x1087.jpg",
+          "verdict": "扫一眼",
+          "takeaway": "【小米澎程更正宣发描述：后备厢自行车型号为“700C公路自行车”】 今天上午，小米澎程介绍车内空间表现：N90 Max在二、三排前移状态下，可直接放下两辆25英寸公路自行车；满载7人仍可放置7个20英寸行李箱。 随后午间，小米澎程发布更正说明。官方称，宣传文案中自行车型号描述存在偏差，现更正为“700C公路自行车”，并同时公布实拍车辆规格：黑色款52码、白…",
+          "detail": "【小米澎程更正宣发描述：后备厢自行车型号为“700C公路自行车”】 今天上午，小米澎程介绍车内空间表现：N90 Max在二、三排前移状态下，可直接放下两辆25英寸公路自行车；满载7人仍可放置7个20英寸行李箱。 随后午间，小米澎程发布更正说明。官方称，宣传文案中自行车型号描述存在偏差，现更正为“700C公路自行车”，并同时公布实拍车辆规格：黑色款52码、白…",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "可信度较高，但仍属于发布前线索。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         }
       ]
     }
