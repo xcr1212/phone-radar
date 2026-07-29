@@ -1,6 +1,66 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-07-29T21:11:39.828Z",
+  "updatedAt": "2026-07-29T23:13:03.119Z",
   "news": [
+    {
+      "id": "auto-3a4356211b31",
+      "title": "高通财报预警：苹果业务加速流失，中国手机厂商贡献收入已触底",
+      "source": "IT之家",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-29",
+      "time": "22:41",
+      "publishedAt": "2026-07-29T22:41:38.000Z",
+      "url": "https://www.ithome.com/0/983/363.htm",
+      "image": "",
+      "summary": "IT之家 7 月 30 日消息，高通今日发布了最新的 2026 财年第三季度财报，并对第四季度业绩作出展望。 高通预计第四季度调整后每股收益在 2.05 至 2.25 美元之间，低于分析师平均预期的 2.36 美元。同时，高通警告称，由于供应链限制，来自苹果产品的收入下滑速度将快于此前预期。 财报显示，高通第三财季营收为 99.5 亿美元（现汇率约合 67…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-26edcab0777b",
+      "title": "Galaxy S25 and S24 Ultra owners report overheating and battery drain after Samsung's latest update",
+      "source": "Android Police",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-29",
+      "time": "21:22",
+      "publishedAt": "2026-07-29T21:22:36.000Z",
+      "url": "https://www.androidpolice.com/samsungs-s-ultras-get-hit-with-nasty-bugs-after-recent-update/",
+      "image": "",
+      "summary": "It's not what you want to see",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-e6884d9f3b26",
+      "title": "I used the Samsung Galaxy S26 Ultra and iPhone 17 Pro Max; the gap is widening",
+      "source": "Android Police",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-29",
+      "time": "21:15",
+      "publishedAt": "2026-07-29T21:15:15.000Z",
+      "url": "https://www.androidpolice.com/galaxy-s26-ultra-iphone-17-pro-max-gap-widening/",
+      "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2026/03/20260312_122303.jpg",
+      "summary": "Apple is losing ground, and Samsung is gaining",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-e0b5298d6170",
       "title": "Google’s latest Play update has finally fixed that pesky Pixel boot loop problem",
@@ -17,6 +77,26 @@ window.phoneRadarAuto = {
       "summary": "Pixel 4a users report Google’s new update finally ends the reboot glitches.",
       "tags": [
         "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-b4f408904b88",
+      "title": "Counterpoint：可折叠屏幕折痕控制成核心战场，2026 全球面板出货量预计增 24%",
+      "source": "IT之家",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-29",
+      "time": "20:10",
+      "publishedAt": "2026-07-29T20:10:37.000Z",
+      "url": "https://www.ithome.com/0/983/358.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/7/59f33a0a-8689-473f-af8f-f9a8bb39d0b3.png",
+      "summary": "IT之家 7 月 30 日消息，可折叠显示屏的竞争正从基础折叠可靠性转向视觉无缝屏幕， 折痕控制已成为一项系统级挑战。 Counterpoint Research 最新发布的折叠显示屏出货量与技术报告指出，可折叠屏幕平整度已经从次要优化项变为折叠智能手机领域清晰的技术战场之一。 屏幕中间的折痕会干扰反射光线、扭曲文字与图像，还会造成触感不平，并影响高端屏幕…",
+      "tags": [
+        "行业",
         "爆料",
         "自动抓取"
       ]
@@ -482,26 +562,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-fa7b1fed60c7",
-      "title": "三星回应 Galaxy Z Fold 系列能否重新支持 S Pen 手写笔：前提是能维持机身轻薄",
-      "source": "IT之家",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-29",
-      "time": "11:26",
-      "publishedAt": "2026-07-29T11:26:13.000Z",
-      "url": "https://www.ithome.com/0/983/274.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2024/7/1e1d5842-68c1-4623-ba71-67e8cb201176.jpg?x-bce-process=image/auto-orient,o_1",
-      "summary": "IT之家 7 月 29 日消息，三星从 Galaxy Z Fold 3 开始为横折叠手机加入 S Pen 手写笔支持，从而令大尺寸内屏拥有了更高的实用价值。此后，为了进一步压缩机身厚度，三星从 Galaxy Z Fold 7 开始放弃了 S Pen 功能。 ▲ 三星最后一代支持 S Pen 的横折叠机型 Galaxy Z Fold 6 最新发布的 Gala…",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-f7412ac24f47",
       "title": "Galaxy Z Fold 8 series records Samsung’s fastest pre-orders in India",
       "source": "Gizmochina",
@@ -802,27 +862,27 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-e230a47c4c92",
-      "title": "卧槽鸿蒙7这提升有点惊到我了。如图的画质，关了插帧，在霜月跑了10分钟图打怪开宝箱，机身只是微热。虽然没有准确的工具测帧率，但能感觉大部分时间都接近60帧，大幅度切换视角，或者切换界面时会有明显掉帧，整体比鸿蒙6上强得多的多，鸿蒙6那时开45帧都稳不住，而且毕竟折叠屏，很嗨烫。但现在都快稳60帧了，居然仅仅微热，真的夸张。之前鸿蒙每次更新，都有人说应用启动速度快了，越用越流畅，我都没有感知，只当是固定npc。但这次真的太惊讶了，npc竟是我自己，以上的话100%真实，个人亲身体验[牛啤][牛啤]#鸿蒙7# #鸿蒙6#",
+      "id": "newsnow-1dbae7f0119b",
+      "title": "2020 年，回头看仍是机圈极具魔幻现实主义色彩的一年。厂商大喊 “5G 元年”，对换机用户而言却是 “涨价元年”—— 旗舰机型仿佛统一了口径，集体上调八百至一千的价格，携手迈入3999的时代。",
       "source": "酷安热榜",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
+      "brand": "行业",
+      "model": "智能手机市场",
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-07-29",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72999408",
+      "url": "https://www.coolapk.com/feed/70266966",
       "image": "",
-      "summary": "卧槽鸿蒙7这提升有点惊到我了。如图的画质，关了插帧，在霜月跑了10分钟图打怪开宝箱，机身只是微热。虽然没有准确的工具测帧率，但能感觉大部分时间都接近60帧，大幅度切换视角，或者切换界面时会有明显掉帧，整体比鸿蒙6上强得多的多，鸿蒙6那时开45帧都稳不住，而且毕竟折叠屏，很嗨烫。但现在都快稳60帧了，居然仅仅微热，真的夸张。之前鸿蒙每次更新，都有人说应用启动…",
+      "summary": "2020 年，回头看仍是机圈极具魔幻现实主义色彩的一年。厂商大喊 “5G 元年”，对换机用户而言却是 “涨价元年”—— 旗舰机型仿佛统一了口径，集体上调八百至一千的价格，携手迈入3999的时代。",
       "tags": [
-        "Huawei",
+        "行业",
         "爆料",
         "NewsNow"
       ]
     },
     {
-      "id": "newsnow-b2a22ff1c586",
+      "id": "newsnow-c65581491c6b",
       "title": "千万不要把手机交给商家写好评",
       "source": "微博热搜",
       "brand": "行业",
@@ -832,7 +892,7 @@ window.phoneRadarAuto = {
       "date": "2026-07-29",
       "time": "",
       "publishedAt": "",
-      "url": "https://s.weibo.com/weibo?q=%E5%8D%83%E4%B8%87%E4%B8%8D%E8%A6%81%E6%8A%8A%E6%89%8B%E6%9C%BA%E4%BA%A4%E7%BB%99%E5%95%86%E5%AE%B6%E5%86%99%E5%A5%BD%E8%AF%84&t=31&band_rank=2&Refer=top",
+      "url": "https://s.weibo.com/weibo?q=%E5%8D%83%E4%B8%87%E4%B8%8D%E8%A6%81%E6%8A%8A%E6%89%8B%E6%9C%BA%E4%BA%A4%E7%BB%99%E5%95%86%E5%AE%B6%E5%86%99%E5%A5%BD%E8%AF%84&t=31&band_rank=5&Refer=top",
       "image": "",
       "summary": "千万不要把手机交给商家写好评",
       "tags": [
