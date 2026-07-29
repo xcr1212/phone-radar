@@ -1,22 +1,242 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-07-29T10:48:25.049Z",
+  "updatedAt": "2026-07-29T14:30:25.466Z",
   "news": [
     {
-      "id": "auto-12fa418bdb56",
-      "title": "一家三口网络打赏超 650 万元、灵机一动让孩子起诉平台，法院驳回全部退款诉求",
+      "id": "auto-cf3e69ac4e2d",
+      "title": "Apple Upgrade: Is Leasing Your Next iPhone Worth It?",
+      "source": "MacRumors",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-29",
+      "time": "14:29",
+      "publishedAt": "2026-07-29T14:29:37.000Z",
+      "url": "https://www.macrumors.com/2026/07/29/is-apple-upgrade-program-worth-it/",
+      "image": "https://images.macrumors.com/article-new/2026/07/Apple-Upgrade-Is-It-Worth-It.jpg",
+      "summary": "With the new Apple Upgrade program in the U.S., you can now lease an iPhone, but is it worth it? The answer is more complicated than a simple yes or no. We'll use the iPhone 17 Pr…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-04350b796d46",
+      "title": "Samsung’s Galaxy Z Fold 8 feels like the future",
+      "source": "The Verge",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-29",
+      "time": "13:54",
+      "publishedAt": "2026-07-29T13:54:55.000Z",
+      "url": "https://www.theverge.com/tech/972387/samsung-galaxy-z-fold-8-review",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/268671_Samsung_Galaxy_Z_Fold_8_DPreston_0034.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "summary": "Is this the future of foldable phones? Samsung clearly thinks so. The company has given its new wide foldable the \"Z Fold 8\" name, positioning the phone not as a widescreen oddity…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-b72fd45b0a83",
+      "title": "iPhone driver’s license looks set to roll out to a 15th US state",
+      "source": "9to5Mac",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-29",
+      "time": "13:52",
+      "publishedAt": "2026-07-29T13:52:57.000Z",
+      "url": "https://9to5mac.com/2026/07/29/iphone-drivers-license-looks-set-to-roll-out-to-a-15th-us-state/",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/iPhone-driving-license-looks-set-to-roll-out-to-a-15th-US-state.webp?w=1500",
+      "summary": "The ability to add a digital version of your driver’s license to your iPhone looks like it will be rolling out to a 15th US state before too long. Apple currently lists 14 states…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-17e0a0b86f5e",
+      "title": "Galaxy Z Flip 8: 3 reasons to buy or upgrade in 2026",
+      "source": "SamMobile",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-29",
+      "time": "13:48",
+      "publishedAt": "2026-07-29T13:48:28.000Z",
+      "url": "https://www.sammobile.com/news/galaxy-z-flip-8-3-reasons-to-buy-or-upgrade-in-2026/",
+      "image": "https://www.sammobile.com/wp-content/uploads/2026/07/1-Galaxy-Z-Flip-8-thin-design-1920x1080.jpg",
+      "summary": "Samsung's new foldable flip phone, the Galaxy Z Flip 8, has been available for pre-order in the US since last week. It starts shipping soon, but if you're looking for a reason to…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-65c7b66fec0c",
+      "title": "Samsung has restocked Galaxy Z Fold 8’s popular ‘Pistachio’ color, shipping in August",
+      "source": "9to5Google",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-29",
+      "time": "13:35",
+      "publishedAt": "2026-07-29T13:35:00.000Z",
+      "url": "https://9to5google.com/2026/07/29/samsung-has-restocked-galaxy-z-fold-8s-popular-pistachio-color-shipping-in-august/",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/07/Fold-8-in-Pistachio.jpg?quality=82&strip=all&w=1600",
+      "summary": "Following a brief sell-out and heavy delay on shipping, Samsung has seemingly restocked the “Pistachio” Galaxy Z Fold 8 in the US, with shipment dates moved up to August.",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-88f92aa94408",
+      "title": "Galaxy S26 FE filing reveals faster charging speed than S26 and Z Flip 8",
+      "source": "Android Authority",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-29",
+      "time": "13:19",
+      "publishedAt": "2026-07-29T13:19:15.000Z",
+      "url": "https://www.androidauthority.com/samsung-galaxy-s26-fe-charging-speed-leak-3692384/",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2025/09/Samsung-Galaxy-S25-FE-against-wall-showing-back.jpg",
+      "summary": "It's not as fast as rival phones, but it still beats Samsung's own Galaxy S26.",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-b9ca771e9ad5",
+      "title": "荣耀 Robot Phone 手机影像亮点汇总：双两亿摄像头，全链路融入阿莱色彩科学工作流",
+      "source": "IT之家",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-29",
+      "time": "13:06",
+      "publishedAt": "2026-07-29T13:06:25.000Z",
+      "url": "https://www.ithome.com/0/983/315.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/7/92f10426-63bb-4dc8-9d70-dd11c4ac46af.jpg",
+      "summary": "IT之家 7 月 29 日消息，荣耀手机官方今日汇总了荣耀影像技术发布会的核心亮点。 据介绍，荣耀 Robot Phone 配备双两亿摄像头、首款自研影像芯片、行业首个钛合金云台、行业最全运镜和跟随模式、行业领先防抖和智能跟随算法，同时还全链路融入阿莱色彩科学工作流。 参考IT之家昨日报道， 该机也是荣耀与阿莱达成战略合作后的首款落地产品 ，首次将阿莱 L…",
+      "tags": [
+        "HONOR",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-e053ab3d5117",
+      "title": "朗界 M540A01 三防新机入网：搭高通 QCM6490 处理器，为诺基亚 IS540.1 工业手机“远房兄弟”",
       "source": "IT之家",
       "brand": "行业",
       "model": "智能手机市场",
       "type": "爆料",
       "trust": "媒体汇总",
       "date": "2026-07-29",
-      "time": "09:43",
-      "publishedAt": "2026-07-29T09:43:03.000Z",
-      "url": "https://www.ithome.com/0/983/244.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/7/95ccb85b-120a-4e58-832d-b14523e6c207.png",
-      "summary": "IT之家 7 月 29 日消息，据央视新闻今日报道，北京互联网法院审理了一起案件，一家三口网络打赏消费超 650 万元， 事后家长却刻意包装成“孩子偷偷乱花钱” ，试图通过诉讼让平台全额退款。 这是北京互联网法院建院以来，受理的涉案金额最高的未成年人网络消费案件。17 岁的小丽在母亲的陪伴下到法院起诉。她声称，自己使用母亲的几个手机号，在短视频平台注册了…",
+      "time": "12:10",
+      "publishedAt": "2026-07-29T12:10:37.000Z",
+      "url": "https://www.ithome.com/0/982/793.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/7/6e9b2265-e936-4d80-ae45-c78fa1e45ab5.png",
+      "summary": "IT之家 7 月 29 日消息，朗界旗下新款 RG540 工业手机（公网对讲机）已通过电信设备进网许可，该机具体型号为 M540A01，相对于现款 RG540 核心参数一致，预计是组件供应商方面有所变更。 参数方面，该机配备一块 6 英寸 1080×2160 分辨率 6 英寸 TFT 面板，匹配 5Mp 前置摄像头；手机后置 48Mp 摄像头。其搭载主频…",
       "tags": [
         "行业",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-362ec83c39db",
+      "title": "This Galaxy Z Fold 8 color is proving to be the most popular",
+      "source": "SamMobile",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-29",
+      "time": "11:44",
+      "publishedAt": "2026-07-29T11:44:46.000Z",
+      "url": "https://www.sammobile.com/news/this-galaxy-z-fold-8-color-proving-most-popular/",
+      "image": "",
+      "summary": "Samsung is offering its first smartphone with a 4:3 book-style foldable display, the Galaxy Z Fold 8, in four colors — Cream, Graphite, Lavender, and Pistachio — with the last one…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-ffad8b65810f",
+      "title": "HBO Max Shorts being tested on iPhone users in latest vertical video offensive",
+      "source": "9to5Mac",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-29",
+      "time": "11:39",
+      "publishedAt": "2026-07-29T11:39:22.000Z",
+      "url": "https://9to5mac.com/2026/07/29/hbo-max-shorts-being-tested-on-iphone-users-in-latest-vertical-video-offensive/",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/HBO-Max-Shorts-being-tested-on-iPhone-users-in-latest-vertical-video-offensive.jpg?quality=82&strip=all&w=1600",
+      "summary": "Warner Bros has announced that it is inflicting testing a new format on select iPhone users in the US: HBO Max Shorts. As if vertical video weren’t bad enough, the media giant has…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-7101c6cc2638",
+      "title": "OPPO 神秘 8000mAh 电池新机曝光：搭 6.57 英寸 1080P 直屏，预计为 A7 Pro",
+      "source": "IT之家",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-29",
+      "time": "11:38",
+      "publishedAt": "2026-07-29T11:38:08.000Z",
+      "url": "https://www.ithome.com/0/983/278.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/7/47046053-bd40-4ca3-8e88-cb5b97b8f84e.jpg",
+      "summary": "IT之家 7 月 29 日消息，博主 @熊猫很禿然 发文，曝光了隶属 OPPO A7 系列产品线的新机，该机整体重量 204g、厚度 8.8mm，正面将配备一块 6.57 英寸 1080P 直屏（预计为 OLED 面板），搭载“2.4GHz 处理器”（预计为高通骁龙 4 Gen 5），内置 8000mAh 电池，支持 80W 有线充电。 综合此前已曝光的…",
+      "tags": [
+        "OPPO",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-fa7b1fed60c7",
+      "title": "三星回应 Galaxy Z Fold 系列能否重新支持 S Pen 手写笔：前提是能维持机身轻薄",
+      "source": "IT之家",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-29",
+      "time": "11:26",
+      "publishedAt": "2026-07-29T11:26:13.000Z",
+      "url": "https://www.ithome.com/0/983/274.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2024/7/1e1d5842-68c1-4623-ba71-67e8cb201176.jpg?x-bce-process=image/auto-orient,o_1",
+      "summary": "IT之家 7 月 29 日消息，三星从 Galaxy Z Fold 3 开始为横折叠手机加入 S Pen 手写笔支持，从而令大尺寸内屏拥有了更高的实用价值。此后，为了进一步压缩机身厚度，三星从 Galaxy Z Fold 7 开始放弃了 S Pen 功能。 ▲ 三星最后一代支持 S Pen 的横折叠机型 Galaxy Z Fold 6 最新发布的 Gala…",
+      "tags": [
+        "Samsung",
         "爆料",
         "自动抓取"
       ]
@@ -78,46 +298,6 @@ window.phoneRadarAuto = {
       "tags": [
         "Pixel",
         "评测",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-2b556d995247",
-      "title": "HMD Pulse2 系列手机规格曝光：全系搭展锐 T615 处理器，近期上市",
-      "source": "IT之家",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-29",
-      "time": "08:21",
-      "publishedAt": "2026-07-29T08:21:14.000Z",
-      "url": "https://www.ithome.com/0/983/145.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/7/9aa13b74-bf5c-4822-ade4-8133943b8c3e.jpg?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 7 月 29 日消息，消息源 smashx_60 透露 HMD Pulse2 系列手机即将上市，系列手机实际上在一年前就已完成大部分开发工程，但由于成本和工厂生产问题，因此延迟到近期才上市。 规格方面，其中 HMD Pulse2 手机标准版提供黑 / 蓝双色可选，配备一块 6.67 英寸 HD+ 90Hz IPS LCD 面板，匹配 8Mp 自拍…",
-      "tags": [
-        "行业",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-dd9e991fc6b7",
-      "title": "小米公布 2026 年度 REDMI ChinaJoy 日程：7 月 31 日 10:00 展示“重磅新品”，预计为 K100 Pro 系列手机",
-      "source": "IT之家",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-29",
-      "time": "07:20",
-      "publishedAt": "2026-07-29T07:20:56.000Z",
-      "url": "https://www.ithome.com/0/983/100.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/7/dba46b9e-e3a9-4dfc-a3e6-6d8389de2c2c.jpg?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 7 月 29 日消息，REDMI 红米手机官方微博今天公布了 2026 年度 REDMI ChinaJoy 日程，官方将于 7 月 31 日 10:30-11:30 展示“重磅新品”，提供“真机上手、配置大爆料”环节。综合博主 @体验 more，预计相应新品为小米 REDMI K100 Pro 系列。 ▲ 预计官方海报中出现的手机便是“重磅新品”…",
-      "tags": [
-        "Xiaomi",
-        "爆料",
         "自动抓取"
       ]
     },
@@ -322,226 +502,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-a2c01ed27d20",
-      "title": "我的出行好伙伴，用 iPhone 一站式解决旅途痛点",
-      "source": "少数派热榜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "评测",
-      "trust": "媒体汇总",
-      "date": "2026-07-29",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://sspai.com/post/112044",
-      "image": "",
-      "summary": "我的出行好伙伴，用 iPhone 一站式解决旅途痛点",
-      "tags": [
-        "iPhone",
-        "评测",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-ce95580a48cf",
-      "title": "iPhone Air 当主力机用了三个多月后，我为什么还是换不掉它",
-      "source": "少数派热榜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "评测",
-      "trust": "媒体汇总",
-      "date": "2026-07-29",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://sspai.com/post/111113",
-      "image": "",
-      "summary": "iPhone Air 当主力机用了三个多月后，我为什么还是换不掉它",
-      "tags": [
-        "iPhone",
-        "评测",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-720a50d8b78d",
-      "title": "快捷指令｜让 iPhone 用上锤子的「大爆炸」",
-      "source": "少数派热榜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "评测",
-      "trust": "媒体汇总",
-      "date": "2026-07-29",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://sspai.com/post/111405",
-      "image": "",
-      "summary": "快捷指令｜让 iPhone 用上锤子的「大爆炸」",
-      "tags": [
-        "iPhone",
-        "评测",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-32c01943f6b4",
-      "title": "老婆才用了两年半的iPhone15 256G的已经很卡了，才两年半诶[流汗滑稽]",
-      "source": "酷安热榜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-07-29",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72976645",
-      "image": "",
-      "summary": "老婆才用了两年半的iPhone15 256G的已经很卡了，才两年半诶[流汗滑稽]",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-39d8806526c8",
-      "title": "极客湾曝光手机电池锁容、快充功率不达标乱象：侵害了消费者知情权",
-      "source": "酷安热榜",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-07-29",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72943675",
-      "image": "",
-      "summary": "极客湾曝光手机电池锁容、快充功率不达标乱象：侵害了消费者知情权",
-      "tags": [
-        "行业",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-26c6044256ee",
-      "title": "说实话，结合目前的消息，我对澎湃os 4充满了担忧，因为从现在来看，澎湃os大部分爆料出来的更新，在于一些动效啊，界面的UI设计上的啊，但作为一个用过好几台米系手机的人，我对于澎湃os 2和澎湃os 3也算有些了解了，Os 2主要的问题就在于卡顿和bug， os 3优化了大部分的卡顿bug，使其更加流畅，但其实这些只是浮于表面的问题，并没有治本[捂脸][受虐滑稽][流汗滑稽]",
-      "source": "酷安热榜",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-07-29",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72971176",
-      "image": "",
-      "summary": "说实话，结合目前的消息，我对澎湃os 4充满了担忧，因为从现在来看，澎湃os大部分爆料出来的更新，在于一些动效啊，界面的UI设计上的啊，但作为一个用过好几台米系手机的人，我对于澎湃os 2和澎湃os 3也算有些了解了，Os 2主要的问题就在于卡顿和bug， os 3优化了大部分的卡顿bug，使其更加流畅，但其实这些只是浮于表面的问题，并没有治本[捂脸][受…",
-      "tags": [
-        "行业",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-e2a045b41ec3",
-      "title": "华为真的好丝滑，比ovm丝滑多了，不论是打开信息流滑动还是打开应用，点开图片的流畅度都很好，感觉比iOS都舒服，就是性能跟现在主流处理器有点差距然后应用适配程度还需要继续努力，加油华为[流泪][受虐滑稽] #华为Mate80ProMax# #iPhone17ProMax#",
-      "source": "酷安热榜",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-07-29",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72967702",
-      "image": "",
-      "summary": "华为真的好丝滑，比ovm丝滑多了，不论是打开信息流滑动还是打开应用，点开图片的流畅度都很好，感觉比iOS都舒服，就是性能跟现在主流处理器有点差距然后应用适配程度还需要继续努力，加油华为[流泪][受虐滑稽] #华为Mate80ProMax# #iPhone17ProMax#",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-e2d142bc14f1",
-      "title": "iPhone Air买了半年了，有点后悔。",
-      "source": "酷安热榜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-07-29",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72962318",
-      "image": "",
-      "summary": "iPhone Air买了半年了，有点后悔。",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-2e34cbe3f801",
-      "title": "千万不要把手机交给商家写好评",
-      "source": "微博热搜",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "待验证",
-      "date": "2026-07-29",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://s.weibo.com/weibo?q=%E5%8D%83%E4%B8%87%E4%B8%8D%E8%A6%81%E6%8A%8A%E6%89%8B%E6%9C%BA%E4%BA%A4%E7%BB%99%E5%95%86%E5%AE%B6%E5%86%99%E5%A5%BD%E8%AF%84&t=31&band_rank=4&Refer=top",
-      "image": "",
-      "summary": "千万不要把手机交给商家写好评",
-      "tags": [
-        "行业",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-ac81899b15d9",
-      "title": "女子修手机被店主导出40多张私密照",
-      "source": "今日头条热榜",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-29",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.toutiao.com/trending/7667415040820101171/",
-      "image": "",
-      "summary": "女子修手机被店主导出40多张私密照",
-      "tags": [
-        "行业",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-8a2b5f1fcd94",
-      "title": "女子修手机被店主导出40多张私密照",
-      "source": "百度热搜",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-29",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E4%BF%AE%E6%89%8B%E6%9C%BA%E8%A2%AB%E5%BA%97%E4%B8%BB%E5%AF%BC%E5%87%BA40%E5%A4%9A%E5%BC%A0%E7%A7%81%E5%AF%86%E7%85%A7",
-      "image": "",
-      "summary": "女子修手机被店主导出40多张私密照",
-      "tags": [
-        "行业",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
       "id": "auto-c9a8660d423b",
       "title": "Samsung’s new foldables are borrowing this Galaxy S26 USB trick",
       "source": "Android Authority",
@@ -555,26 +515,6 @@ window.phoneRadarAuto = {
       "url": "https://www.androidauthority.com/samsung-foldables-usb-webcam-3692140/",
       "image": "https://www.androidauthority.com/wp-content/uploads/2026/07/z-fold-8-vs-ultra-3.jpg",
       "summary": "Quickly upgrade your laptop's dinky old webcam.",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-fc10cd6f7f2d",
-      "title": "Prepare to wait if you want a Pistachio Samsung Galaxy Z Fold 8",
-      "source": "Android Police",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-28",
-      "time": "18:34",
-      "publishedAt": "2026-07-28T18:34:15.000Z",
-      "url": "https://www.androidpolice.com/prepare-to-wait-if-you-want-a-pistachio-samsung-galaxy-z-fold-8/",
-      "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2026/07/samsung-galaxy-z-fold-8-back-exclusive.JPG",
-      "summary": "Pistachio color delayed till fall",
       "tags": [
         "Samsung",
         "爆料",
@@ -637,26 +577,6 @@ window.phoneRadarAuto = {
       "summary": "Honor has confirmed more details about its Robot Phone this week, including an official launch date on the same day as Google’s Pixel 11 launch.",
       "tags": [
         "HONOR",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-219456a76464",
-      "title": "From a Flip to the Galaxy Z Fold 8: This is my wife’s biggest frustration",
-      "source": "SamMobile",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-28",
-      "time": "16:46",
-      "publishedAt": "2026-07-28T16:46:29.000Z",
-      "url": "https://www.sammobile.com/opinion/from-flip-to-galaxy-z-fold-8-my-wifes-biggest-frustration/",
-      "image": "",
-      "summary": "My wife has been using a Galaxy Z Flip since the very first one back in 2020. So when Samsung sent me a Galaxy Z Fold 8 to test, I handed it over to her to see what she made of it…",
-      "tags": [
-        "Samsung",
         "爆料",
         "自动抓取"
       ]
