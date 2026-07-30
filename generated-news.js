@@ -1,5 +1,5 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-07-30T03:27:08.844Z",
+  "updatedAt": "2026-07-30T06:40:21.689Z",
   "news": [
     {
       "id": "auto-5e90f43633c7",
@@ -18,6 +18,186 @@ window.phoneRadarAuto = {
       "tags": [
         "Samsung",
         "官方",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-2a16225da649",
+      "title": "小米 REDMI Turbo 6 Max 手机渲染图曝光：10000mAh 电池，7 英寸屏幕",
+      "source": "IT之家",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-30",
+      "time": "06:38",
+      "publishedAt": "2026-07-30T06:38:14.000Z",
+      "url": "https://www.ithome.com/0/983/599.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/7/16bda27a-c766-4d21-b3fd-96fa21ba2cfc.png?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 7 月 30 日消息，科技媒体 nokiapoweruser 昨日（7 月 29 日）发布博文，分享了一张渲染图，展示了小米 REDMI Turbo 6 Max 手机。 规格方面， 该机最大的亮点在于配备 10000mAh 容量电池 ，以及 7 英寸屏幕，处理器可能使用联发科天玑 9500s 或者天玑 9600s。 参考IT之家此前报道，小米 R…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-26be13f9457b",
+      "title": "竹本青：【REDMI K100 Pro系列 外观曝光：横向大矩阵Deco，Pro Max 配备后置扬声器】 7月30日，…",
+      "source": "竹本青",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-07-30",
+      "time": "06:27",
+      "publishedAt": "2026-07-30T06:27:24.000Z",
+      "url": "https://www.coolapk.com/feed/73006188",
+      "image": "http://image.coolapk.com/feed/2026/0730/14/4248714_c5315069_2843_649_981@1440x1920.jpg",
+      "summary": "【REDMI K100 Pro系列 外观曝光：横向大矩阵Deco，Pro Max 配备后置扬声器】 7月30日， REDMI K100 Pro系列 手机外观在各平台曝光，整体外观与官方预热海报相符。图示系列新机采用横向大矩阵Deco，Pro Max依然配备独立后置扬声器。 据此前REDMI官方预热，REDMI年度重磅新品将在明日直播亮相并首次爆料配置。 —…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-c3e606fef9fe",
+      "title": "Galaxy Z Fold 8 series, Flip 8 proving to be a massive success in India",
+      "source": "SamMobile",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-30",
+      "time": "06:26",
+      "publishedAt": "2026-07-30T06:26:40.000Z",
+      "url": "https://www.sammobile.com/news/galaxy-z-fold-8-series-flip-8-proving-massive-success-india/",
+      "image": "",
+      "summary": "Samsung started taking pre-orders for the Galaxy Z Fold 8 Ultra, Galaxy Z Fold 8, and the Galaxy Z Flip 8 in many countries around the world on the day it unveiled these devices.…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-b6247b858f82",
+      "title": "绿厂系“首款万级大电池新机”OPPO A7 Pro Max 手机三款配色公布，8 月 4 日发布",
+      "source": "IT之家",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-30",
+      "time": "06:19",
+      "publishedAt": "2026-07-30T06:19:44.000Z",
+      "url": "https://www.ithome.com/0/983/593.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/7/8d730a29-0d45-4f8b-91c4-69069475469e.jpg",
+      "summary": "IT之家 7 月 30 日消息，OPPO 现已公布旗下 A7 Pro Max 手机配色信息，该机提供 3 种配色可选，分别为“乘风破浪（蓝色）”、“前橙似锦（橙色）”、“远山黑（黑色）”。 乘风破浪：心境昂扬向上，愿你前路风生水起。 前橙似锦：如破晓朝霞，愿你明日光明灿烂。 远山黑：藏远山沉稳，愿你步步行稳安康。 同时，该机可选 8GB RAM + 128…",
+      "tags": [
+        "OPPO",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "weibo-9a665c8dd6ba",
+      "title": "数码闲聊站：红米K100 Pro系列新机跑分和外观都看到了吧，骁龙8E5处理器，横向大矩阵…",
+      "source": "数码闲聊站",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-07-30",
+      "time": "06:16",
+      "publishedAt": "2026-07-30T06:16:00.000Z",
+      "url": "https://weibo.com/6048569942/Rb4lqAOpT",
+      "image": "",
+      "summary": "红米K100 Pro系列新机跑分和外观都看到了吧，骁龙8E5处理器，横向大矩阵Deco，Pro Max有外放质量很高的独立扬声器，主打综合体验增强[doge]",
+      "tags": [
+        "行业",
+        "爆料",
+        "微博"
+      ]
+    },
+    {
+      "id": "auto-c9b222a798e1",
+      "title": "Vivo S2 5G Leak Reveals Full Specs, Colours, and India Price Ahead of Launch",
+      "source": "Gizmochina",
+      "brand": "vivo",
+      "model": "vivo 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-30",
+      "time": "05:17",
+      "publishedAt": "2026-07-30T05:17:49.000Z",
+      "url": "https://www.gizmochina.com/2026/07/30/vivo-s2-5g-leak-reveals-full-specs-colours-and-india-price-ahead-of-launch/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/07/Vivo-S2-Color-2-300x239.jpg?x23692",
+      "summary": "Vivo is expected to bring the S-series back to India soon, and a fresh leak has now revealed what looks like official promo material for the Vivo S2 5G. The leaked images show cle…",
+      "tags": [
+        "vivo",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-0cc80d5f07c4",
+      "title": "Another Redmi K100 Pro series phone emerges on Geekbench before launch",
+      "source": "Gizmochina",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-30",
+      "time": "04:39",
+      "publishedAt": "2026-07-30T04:39:30.000Z",
+      "url": "https://www.gizmochina.com/2026/07/30/redmi-k100-pro-series-geekbench/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2025/10/Redmi-K90-Pro-Max-2.1-speaker-300x231.jpg?x23692",
+      "summary": "Redmi will showcase its next-generation K-series flagship lineup tomorrow at the ChinaJoy 2026 event in China. According to a tipster, the brand is expected to unveil the Pro-seri…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "weibo-53a7e488a9f1",
+      "title": "数码闲聊站：OriginOS7 Beta开始内测了，首批机型vivo X300 Pro、v…",
+      "source": "数码闲聊站",
+      "brand": "vivo",
+      "model": "vivo 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-07-30",
+      "time": "04:15",
+      "publishedAt": "2026-07-30T04:15:00.000Z",
+      "url": "https://weibo.com/6048569942/Rb3yjAijV",
+      "image": "",
+      "summary": "OriginOS7 Beta开始内测了，首批机型vivo X300 Pro、vivo X Fold6、iQOO15、vivo/iQOO Pad6 Pro，你们对OOS6有何期待？[笑哈哈]",
+      "tags": [
+        "vivo",
+        "爆料",
+        "微博"
+      ]
+    },
+    {
+      "id": "auto-9ba362e095ae",
+      "title": "影石 Insta360 Luna Pro 单摄版云台相机外观曝光，白色机身",
+      "source": "IT之家",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-30",
+      "time": "03:33",
+      "publishedAt": "2026-07-30T03:33:27.000Z",
+      "url": "https://www.ithome.com/0/983/467.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/7/6bdf16fc-3cbc-4606-8e8c-370364bc5ff3.jpg?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 7 月 30 日消息，The new camera 今日晒出了一张 影石 Insta360 Luna Pro 单摄版云台相机 的外观图，新机采用白色机身，配备单摄像头。 影石曾推出 Insta360 Luna Ultra 双摄云台相机 ，标准套餐国内限时售价 3999 元起。而 Luna Pro 是单摄版本，从爆料图可以看到采用了类似的设计，按钮…",
+      "tags": [
+        "行业",
+        "爆料",
         "自动抓取"
       ]
     },
@@ -99,46 +279,6 @@ window.phoneRadarAuto = {
         "OPPO",
         "爆料",
         "酷安博主"
-      ]
-    },
-    {
-      "id": "auto-a0f32a06c800",
-      "title": "华为 nova16 SE 手机今日开启预订，8 月 5 日正式发布",
-      "source": "IT之家",
-      "brand": "HONOR",
-      "model": "HONOR 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-30",
-      "time": "01:34",
-      "publishedAt": "2026-07-30T01:34:32.000Z",
-      "url": "https://www.ithome.com/0/983/409.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/7/52a49d9f-47a5-4422-887b-ea4a5dc35f9d.jpg?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 7 月 30 日消息，华为官方今日宣布，全新华为 nova16 SE 将于今日 12:08 开启预订，后续将于 8 月 5 日正式发布，slogan 为“巨鲸长续航，红枫准出片”。 结合 @数码闲聊站 爆料，华为 Nova16 SE 外观类似于荣耀 Power2，采用 1.5K LTPS OLED 直屏 + 麒麟 8020 芯片 +50Mp 主摄…",
-      "tags": [
-        "HONOR",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-79361470fd7f",
-      "title": "三星 Galaxy S26 FE 手机曝光：8GB+128GB 起步，法国版售价最高涨 18.3%",
-      "source": "IT之家",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-30",
-      "time": "01:17",
-      "publishedAt": "2026-07-30T01:17:03.000Z",
-      "url": "https://www.ithome.com/0/983/403.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/7/fab6763b-1101-4e37-930c-c30477a2ff03.png?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 7 月 30 日消息，消息源 @billbil_kun 昨日（7 月 29 日）在 X 平台发布推文，爆料指出 三星 Galaxy S26 FE 手机维持 128GB 存储、8GB 内存起步，起售价上调 50~170 欧元（IT之家注：现汇率约合 386.9 ~ 1315 元人民币）。 售价方面，消息源分享了 Galaxy S26 FE 手机在法…",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
       ]
     },
     {
@@ -282,21 +422,21 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-54b4ad995061",
-      "title": "极客湾曝光手机电池锁容、快充功率不达标乱象：侵害了消费者知情权",
+      "id": "newsnow-cca923521885",
+      "title": "有没有大佬是天津的，求帮忙，仔仔十天了，为了不想让宝宝成为留守儿童，决定买房买房到底选择哪个软件，我想买个40个的二手房有电梯，有地铁，生活和教育相对还比较方便的，滨海和北辰西青，津南，静海都可以，到底链家还是贝壳还是安居客，也算刚需吧，怕被中介坑的一愣一愣的[流泪] #华为Mate80ProMax#",
       "source": "酷安热榜",
-      "brand": "行业",
-      "model": "智能手机市场",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-07-30",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72943675",
+      "url": "https://www.coolapk.com/feed/72998098",
       "image": "",
-      "summary": "极客湾曝光手机电池锁容、快充功率不达标乱象：侵害了消费者知情权",
+      "summary": "有没有大佬是天津的，求帮忙，仔仔十天了，为了不想让宝宝成为留守儿童，决定买房买房到底选择哪个软件，我想买个40个的二手房有电梯，有地铁，生活和教育相对还比较方便的，滨海和北辰西青，津南，静海都可以，到底链家还是贝壳还是安居客，也算刚需吧，怕被中介坑的一愣一愣的[流泪] #华为Mate80ProMax#",
       "tags": [
-        "行业",
+        "Huawei",
         "爆料",
         "NewsNow"
       ]
@@ -315,6 +455,26 @@ window.phoneRadarAuto = {
       "url": "https://www.coolapk.com/feed/72998982",
       "image": "",
       "summary": "这手机真逆天，6月初7999买的玩了两个月8100卖了....",
+      "tags": [
+        "行业",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-54b4ad995061",
+      "title": "极客湾曝光手机电池锁容、快充功率不达标乱象：侵害了消费者知情权",
+      "source": "酷安热榜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-07-30",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/72943675",
+      "image": "",
+      "summary": "极客湾曝光手机电池锁容、快充功率不达标乱象：侵害了消费者知情权",
       "tags": [
         "行业",
         "爆料",
