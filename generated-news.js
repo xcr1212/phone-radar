@@ -1,6 +1,46 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-07-30T19:50:36.933Z",
+  "updatedAt": "2026-07-30T21:30:23.701Z",
   "news": [
+    {
+      "id": "auto-fd2bafd9947c",
+      "title": "Sleuths may have tracked down the bug cooking Galaxy S25 Ultra and S24 Ultra batteries",
+      "source": "Android Authority",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-30",
+      "time": "20:37",
+      "publishedAt": "2026-07-30T20:37:28.000Z",
+      "url": "https://www.androidauthority.com/galaxy-s25-ultra-s24-ultra-whatsapp-bug-3693024/",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2025/01/Samsung-Galaxy-S25-Ultra-next-to-Samsung-Galaxy-S24-Ultra-Free-Standing-Angled.jpg",
+      "summary": "Galaxy users may have pinpointed the culprit behind their battery drain and overheating issues.",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-ec90250583fd",
+      "title": "Fortnite Returns to iPhone in Brazil as Epic Games Store Launches",
+      "source": "MacRumors",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-30",
+      "time": "20:11",
+      "publishedAt": "2026-07-30T20:11:20.000Z",
+      "url": "https://www.macrumors.com/2026/07/30/brazil-epic-games-store/",
+      "image": "https://images.macrumors.com/article-new/2026/07/fortnite-brazil.jpg",
+      "summary": "Epic Games today said that the &zwnj;Epic Games&zwnj; Store can now be downloaded on iPhones in Brazil through the &zwnj;Epic Games&zwnj; website. In its announcement, &zwnj;Epic…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-d28488411086",
       "title": "Latest Pixel 11 leak shows Google’s next flagships in every color",
@@ -255,26 +295,6 @@ window.phoneRadarAuto = {
       "url": "https://www.androidauthority.com/samsung-galaxy-s25-plus-amazon-deal-3692894/",
       "image": "https://www.androidauthority.com/wp-content/uploads/2025/01/Samsung-Galaxy-S25-Plus-in-all-four-colors-fanned-in-hand.jpg",
       "summary": "The Samsung Galaxy S25 Plus is 32% off at Amazon, with a 4.6-star rating, premium build, and lower price than recent deals.",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-9567566a928d",
-      "title": "I wish Samsung copied this multitasking feature from the OnePlus Open",
-      "source": "Android Police",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-30",
-      "time": "15:15",
-      "publishedAt": "2026-07-30T15:15:16.000Z",
-      "url": "https://www.androidpolice.com/i-wish-samsung-copied-this-multitasking-feature-from-oneplus-open/",
-      "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2026/07/oneplus-open-demonstrating-open-canvas-multitasking.png",
-      "summary": "Ideas from a galaxy not so far away",
       "tags": [
         "Samsung",
         "爆料",
@@ -882,86 +902,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-fe19235e9a0a",
-      "title": "在玻纤后盖滚出手机市场之前，不会再换手机了，国际大厂没有一家去用玻纤这种垃圾材质的",
-      "source": "酷安热榜",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-07-30",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73009887",
-      "image": "",
-      "summary": "在玻纤后盖滚出手机市场之前，不会再换手机了，国际大厂没有一家去用玻纤这种垃圾材质的",
-      "tags": [
-        "行业",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-0436fe5fb0bb",
-      "title": "REDMI K100 Pro系列外观曝光：配备后置扬声器",
-      "source": "酷安热榜",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-07-30",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73006188",
-      "image": "",
-      "summary": "REDMI K100 Pro系列外观曝光：配备后置扬声器",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-cca923521885",
-      "title": "有没有大佬是天津的，求帮忙，仔仔十天了，为了不想让宝宝成为留守儿童，决定买房买房到底选择哪个软件，我想买个40个的二手房有电梯，有地铁，生活和教育相对还比较方便的，滨海和北辰西青，津南，静海都可以，到底链家还是贝壳还是安居客，也算刚需吧，怕被中介坑的一愣一愣的[流泪] #华为Mate80ProMax#",
-      "source": "酷安热榜",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-07-30",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72998098",
-      "image": "",
-      "summary": "有没有大佬是天津的，求帮忙，仔仔十天了，为了不想让宝宝成为留守儿童，决定买房买房到底选择哪个软件，我想买个40个的二手房有电梯，有地铁，生活和教育相对还比较方便的，滨海和北辰西青，津南，静海都可以，到底链家还是贝壳还是安居客，也算刚需吧，怕被中介坑的一愣一愣的[流泪] #华为Mate80ProMax#",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-73d3d4e8b416",
-      "title": "男生每天躺玩手机超5小时患血栓",
-      "source": "今日头条热榜",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-30",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.toutiao.com/trending/7668165665089683519/",
-      "image": "",
-      "summary": "男生每天躺玩手机超5小时患血栓",
-      "tags": [
-        "行业",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
       "id": "newsnow-d9d669c66c33",
       "title": "别对着陌生人的手机念数字",
       "source": "百度热搜",
@@ -1017,26 +957,6 @@ window.phoneRadarAuto = {
       "summary": "Pixel 4a users report Google’s new update finally ends the reboot glitches.",
       "tags": [
         "Pixel",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-550659deeac0",
-      "title": "Galaxy Z Fold8 Review: What Samsung's New Foldable Tells Us About the iPhone Ultra",
-      "source": "MacRumors",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-29",
-      "time": "18:48",
-      "publishedAt": "2026-07-29T18:48:46.000Z",
-      "url": "https://www.macrumors.com/2026/07/29/galaxy-z-fold8-review/",
-      "image": "",
-      "summary": "Samsung announced its latest foldable smartphones last week, and the lineup included the Galaxy Z Fold8, a device that's close to what we're expecting Apple's foldable \" iPhone Ul…",
-      "tags": [
-        "Samsung",
         "爆料",
         "自动抓取"
       ]
