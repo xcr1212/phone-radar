@@ -1,14 +1,14 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-07-30T14:30:44.228Z",
+  "updatedAt": "2026-07-30T17:47:18.777Z",
   "issueDate": "2026-07-30",
   "issue": "VOL.260730",
   "title": "手机情报日报",
-  "intro": "今日筛出 12 条重点，其中 8 条是重点爆料，包含 4 条 iPhone 相关、2 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 10 条重点，其中 8 条是重点爆料，包含 4 条 iPhone 相关、1 条官方确认、0 条参数线索。",
   "stats": {
-    "total": 12,
+    "total": 10,
     "iphone": 4,
     "leaks": 8,
-    "official": 2,
+    "official": 1,
     "specs": 0
   },
   "sections": [
@@ -184,24 +184,22 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
-          "id": "weibo-9a665c8dd6ba",
-          "title": "数码闲聊站：红米K100 Pro系列新机跑分和外观都看到了吧，骁龙8E5处理器，横向大矩阵…",
+          "id": "weibo-53a7e488a9f1",
+          "title": "数码闲聊站：OriginOS7 Beta开始内测了，首批机型vivo X300 Pro、v…",
           "originalTitle": "",
           "source": "数码闲聊站",
-          "brand": "行业",
+          "brand": "vivo",
           "type": "爆料",
           "trust": "高关注爆料源",
           "date": "2026-07-30",
-          "time": "06:16",
-          "publishedAt": "2026-07-30T06:16:00.000Z",
-          "url": "https://weibo.com/6048569942/Rb4lqAOpT",
+          "time": "04:15",
+          "publishedAt": "2026-07-30T04:15:00.000Z",
+          "url": "https://weibo.com/6048569942/Rb3yjAijV",
           "image": "",
           "verdict": "先看",
-          "takeaway": "红米K100 Pro系列新机跑分和外观都看到了吧，骁龙8E5处理器，横向大矩阵Deco，Pro Max有外放质量很高的独立扬声器，主打综合体验增强[doge]",
-          "detail": "红米K100 Pro系列新机跑分和外观都看到了吧，骁龙8E5处理器，横向大矩阵Deco，Pro Max有外放质量很高的独立扬声器，主打综合体验增强[doge]",
+          "takeaway": "OriginOS7 Beta开始内测了，首批机型vivo X300 Pro、vivo X Fold6、iQOO15、vivo/iQOO Pad6 Pro，你们对OOS6有何期待？[笑哈哈]",
+          "detail": "OriginOS7 Beta开始内测了，首批机型vivo X300 Pro、vivo X Fold6、iQOO15、vivo/iQOO Pad6 Pro，你们对OOS6有何期待？[笑哈哈]",
           "keyPoints": [
-            "外观 / 配色 / 尺寸",
-            "芯片 / 性能",
             "爆料来源"
           ],
           "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
@@ -254,59 +252,6 @@ window.phoneRadarDaily = {
           "verdict": "先看",
           "takeaway": "iPhone 系统功能 / AI 体验相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
           "detail": "iPhone 系统功能 / AI 体验相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
-          "keyPoints": [
-            "官方"
-          ],
-          "confidence": "官方内容，可直接作为已确认信息记录。",
-          "impact": "可信度高，但如果不是配置/价格消息，只需要扫一眼。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        }
-      ]
-    },
-    {
-      "id": "launch",
-      "title": "新机与官方发布",
-      "hint": "能直接更新到参数库。",
-      "items": [
-        {
-          "id": "coolapk-user-3eb311410ada",
-          "title": "竹本青：小米澎程系列9月正式发布，已开启预订",
-          "originalTitle": "",
-          "source": "竹本青",
-          "brand": "Xiaomi",
-          "type": "爆料",
-          "trust": "高可信爆料",
-          "date": "2026-07-30",
-          "time": "12:54",
-          "publishedAt": "2026-07-30T12:54:10.000Z",
-          "url": "https://www.coolapk.com/feed/73011347",
-          "image": "http://image.coolapk.com/feed/2026/0730/21/4248714_a92d1246_8374_668_197@1440x1920.jpg",
-          "verdict": "扫一眼",
-          "takeaway": "【小米澎程系列：9月正式发布，N90／N70 Max现已开启预订】 N70 Max —— 预售25.99万元 N90 Max —— 预售29.99万元 7月30日，小米澎程公布N90／N70 Max预售价，两款车型即日起开启预订，将在今年9月正式发布。 官方提示，车型意向金1000元，发布后随时可退，锁单可享优先排产，提车将送价值999元的车载桌板双杯托版…",
-          "detail": "【小米澎程系列：9月正式发布，N90／N70 Max现已开启预订】 N70 Max —— 预售25.99万元 N90 Max —— 预售29.99万元 7月30日，小米澎程公布N90／N70 Max预售价，两款车型即日起开启预订，将在今年9月正式发布。 官方提示，车型意向金1000元，发布后随时可退，锁单可享优先排产，提车将送价值999元的车载桌板双杯托版…",
-          "keyPoints": [
-            "成本 / 价格"
-          ],
-          "confidence": "可信度较高，但仍属于发布前线索。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
-        {
-          "id": "auto-5e90f43633c7",
-          "title": "Samsung 相关消息",
-          "originalTitle": "",
-          "source": "Samsung Newsroom",
-          "brand": "Samsung",
-          "type": "官方",
-          "trust": "官方确认",
-          "date": "2026-07-30",
-          "time": "10:41",
-          "publishedAt": "2026-07-30T10:41:00.000Z",
-          "url": "https://news.samsung.com/global/interview-galaxy-unpacked-july-2026-inside-the-engineering-behind-the-latest-galaxy-z-series",
-          "image": "https://img.global.news.samsung.com/global/wp-content/uploads/2026/07/30103222/Samsung-Mobile-Galaxy-Unpacked-July-2026-Inside-the-Engineering-Interview_Thumb932_F-728x410.jpg",
-          "verdict": "扫一眼",
-          "takeaway": "Samsung 相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
-          "detail": "Samsung 相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
           "keyPoints": [
             "官方"
           ],

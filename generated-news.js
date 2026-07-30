@@ -1,6 +1,226 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-07-30T14:30:44.228Z",
+  "updatedAt": "2026-07-30T17:47:18.777Z",
   "news": [
+    {
+      "id": "auto-d5d9e31c1485",
+      "title": "Pixel 11 Pro Fold renders surfaced, and Google is sticking to what works",
+      "source": "Android Central",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-07-30",
+      "time": "17:28",
+      "publishedAt": "2026-07-30T17:28:20.000Z",
+      "url": "https://www.androidcentral.com/phones/google-pixel/pixel-11-pro-fold-renders-surfaced-and-google-is-sticking-to-what-works",
+      "image": "https://cdn.mos.cms.futurecdn.net/TaGESVJTdBrWSDwYBiLeGE-1280-80.jpg",
+      "summary": "Leaked Pixel 11 Pro Fold renders suggest Google is sticking with a familiar design, adding a refined camera bar, a new Pine finish, and a larger flash.",
+      "tags": [
+        "Pixel",
+        "评测",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-c1ccce146992",
+      "title": "Pixel 11 series leaks with seemingly official renders, includes all-matte Pixel 11 Pro [Gallery]",
+      "source": "9to5Google",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-30",
+      "time": "17:20",
+      "publishedAt": "2026-07-30T17:20:00.000Z",
+      "url": "https://9to5google.com/2026/07/30/pixel-11-series-leaks-with-seemingly-official-renders-includes-all-matte-pixel-11-pro-gallery/",
+      "image": "",
+      "summary": "Fresh off some leaks showcasing the Pixel 11 Pro Fold in official-looking renders , we’re getting new looks at all three of Google’s non-folding Pixel 11 models in seemingly all o…",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-595ad0765015",
+      "title": "Pixel 11 Pro Fold design leaks ahead of Google launch event",
+      "source": "The Verge",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-30",
+      "time": "17:04",
+      "publishedAt": "2026-07-30T17:04:31.000Z",
+      "url": "https://www.theverge.com/tech/973249/pixel-11-pro-fold-buds-watch-leaks-google-launch-event",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/6608d2c0-7707-4156-82ca-a44b58a90bd1_1440x800.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "summary": "Weeks ahead of Google's next Pixel hardware event, Leaker Evan Blass has shared what appear to be marketing renders of the unannounced Google Pixel 11 Pro Fold in a post on his Su…",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-4763b5048d5f",
+      "title": "Ready to preorder the Galaxy Z Fold 8? Samsung's deal can get you the innovative foldable for as little as $699.99 with trade",
+      "source": "Android Central",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-07-30",
+      "time": "16:57",
+      "publishedAt": "2026-07-30T16:57:27.000Z",
+      "url": "https://www.androidcentral.com/phones/samsung-galaxy/ready-to-preorder-the-galaxy-z-fold-8-samsungs-deal-can-get-you-the-innovative-foldable-for-as-little-as-usd699-99-with-trade",
+      "image": "https://cdn.mos.cms.futurecdn.net/UyywUrHu9PJ3NoEVYKnoNc-1280-80.jpg",
+      "summary": "The Galaxy Z Fold 8 and Z Fold 8 Ultra hit store shelves on August 7th, but you can still enjoy some hefty trade-in discounts if you buy from Samsung.",
+      "tags": [
+        "Samsung",
+        "评测",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-dd6629c5bbba",
+      "title": "Samsung's Galaxy S26 Ultra's just got a massive price drop that's turning heads",
+      "source": "Android Police",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-30",
+      "time": "16:49",
+      "publishedAt": "2026-07-30T16:49:34.000Z",
+      "url": "https://www.androidpolice.com/samsung-galaxy-s26-ultra-1050-deal/",
+      "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2026/03/galaxy-s26-ultra-rear-log.JPG",
+      "summary": "This is the Android phone to get",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-eb06a91224ce",
+      "title": "Pixel 11 Pro Fold looks familiar, but maybe a bit thinner in official-looking images [Gallery]",
+      "source": "9to5Google",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-30",
+      "time": "16:35",
+      "publishedAt": "2026-07-30T16:35:00.000Z",
+      "url": "https://9to5google.com/2026/07/30/google-pixel-11-pro-fold-official-looking-images-leak/",
+      "image": "",
+      "summary": "A new batch of Pixel 11 Pro Fold images have hit the web, showing off Google’s new foldable in its green color with a familiar design that at least looks just a bit thinner than l…",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-b8738efbed7d",
+      "title": "Silicon-carbon batteries may be limited to some Galaxy S27 series models",
+      "source": "SamMobile",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-30",
+      "time": "16:20",
+      "publishedAt": "2026-07-30T16:20:10.000Z",
+      "url": "https://www.sammobile.com/news/silicon-carbon-batteries-may-be-limited-some-galaxy-s27-series-models/",
+      "image": "",
+      "summary": "The Galaxy Z Fold 8 and Galaxy Z Fold 8 Ultra became Samsung's first phones to feature silicon-carbon anode batteries. Similar higher-capacity batteries are reportedly coming to t…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-b2b5bdef93e4",
+      "title": "I've been waiting for the Google Pixel 10 Pro to get a good discount ahead of the Pixel 11 launch, and Amazon has finally delivered",
+      "source": "Android Central",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-07-30",
+      "time": "15:51",
+      "publishedAt": "2026-07-30T15:51:53.000Z",
+      "url": "https://www.androidcentral.com/phones/google-pixel/ive-been-waiting-for-the-google-pixel-10-pro-to-get-a-good-discount-ahead-of-the-pixel-11-launch-and-amazon-has-finally-delivered",
+      "image": "https://cdn.mos.cms.futurecdn.net/McxfKzMCtgMJP7NUHTYugT-1280-80.jpg",
+      "summary": "Amazon is slashing up to $250 off the Google Pixel 10 and Pixel 10 Pro, days before the Pixel 11 series is expected to launch.",
+      "tags": [
+        "Pixel",
+        "评测",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-8e6d33f18bae",
+      "title": "The Samsung Galaxy S25 Plus drops $320 to a near-record-low price",
+      "source": "Android Authority",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-30",
+      "time": "15:18",
+      "publishedAt": "2026-07-30T15:18:31.000Z",
+      "url": "https://www.androidauthority.com/samsung-galaxy-s25-plus-amazon-deal-3692894/",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2025/01/Samsung-Galaxy-S25-Plus-in-all-four-colors-fanned-in-hand.jpg",
+      "summary": "The Samsung Galaxy S25 Plus is 32% off at Amazon, with a 4.6-star rating, premium build, and lower price than recent deals.",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-9567566a928d",
+      "title": "I wish Samsung copied this multitasking feature from the OnePlus Open",
+      "source": "Android Police",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-30",
+      "time": "15:15",
+      "publishedAt": "2026-07-30T15:15:16.000Z",
+      "url": "https://www.androidpolice.com/i-wish-samsung-copied-this-multitasking-feature-from-oneplus-open/",
+      "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2026/07/oneplus-open-demonstrating-open-canvas-multitasking.png",
+      "summary": "Ideas from a galaxy not so far away",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-372cfd011065",
+      "title": "Apple Upgrade vs iPhone Upgrade Program: Here are the key differences",
+      "source": "9to5Mac",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-30",
+      "time": "15:08",
+      "publishedAt": "2026-07-30T15:08:26.000Z",
+      "url": "https://9to5mac.com/2026/07/30/apple-upgrade-vs-iphone-upgrade-program-here-are-the-key-differences/",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/apple-upgrade-iphone.jpg?quality=82&strip=all&w=1600",
+      "summary": "Apple Upgrade launched this week, and the iPhone Upgrade Program is being discontinued as a result. But despite some similarities, the two offerings are not the same. Here are the…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "coolapk-user-3eb311410ada",
       "title": "竹本青：小米澎程系列9月正式发布，已开启预订",
@@ -402,26 +622,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "weibo-9a665c8dd6ba",
-      "title": "数码闲聊站：红米K100 Pro系列新机跑分和外观都看到了吧，骁龙8E5处理器，横向大矩阵…",
-      "source": "数码闲聊站",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-07-30",
-      "time": "06:16",
-      "publishedAt": "2026-07-30T06:16:00.000Z",
-      "url": "https://weibo.com/6048569942/Rb4lqAOpT",
-      "image": "",
-      "summary": "红米K100 Pro系列新机跑分和外观都看到了吧，骁龙8E5处理器，横向大矩阵Deco，Pro Max有外放质量很高的独立扬声器，主打综合体验增强[doge]",
-      "tags": [
-        "行业",
-        "爆料",
-        "微博"
-      ]
-    },
-    {
       "id": "auto-c9b222a798e1",
       "title": "Vivo S2 5G Leak Reveals Full Specs, Colours, and India Price Ahead of Launch",
       "source": "Gizmochina",
@@ -582,6 +782,66 @@ window.phoneRadarAuto = {
       ]
     },
     {
+      "id": "newsnow-bf7fae5ef046",
+      "title": "我的出行好伙伴，用 iPhone 一站式解决旅途痛点",
+      "source": "少数派热榜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-07-30",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://sspai.com/post/112044",
+      "image": "",
+      "summary": "我的出行好伙伴，用 iPhone 一站式解决旅途痛点",
+      "tags": [
+        "iPhone",
+        "评测",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-c75a0ef8c470",
+      "title": "iPhone Air 当主力机用了三个多月后，我为什么还是换不掉它",
+      "source": "少数派热榜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-07-30",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://sspai.com/post/111113",
+      "image": "",
+      "summary": "iPhone Air 当主力机用了三个多月后，我为什么还是换不掉它",
+      "tags": [
+        "iPhone",
+        "评测",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-43c1ba4a6da0",
+      "title": "快捷指令｜让 iPhone 用上锤子的「大爆炸」",
+      "source": "少数派热榜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-07-30",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://sspai.com/post/111405",
+      "image": "",
+      "summary": "快捷指令｜让 iPhone 用上锤子的「大爆炸」",
+      "tags": [
+        "iPhone",
+        "评测",
+        "NewsNow"
+      ]
+    },
+    {
       "id": "newsnow-0436fe5fb0bb",
       "title": "REDMI K100 Pro系列外观曝光：配备后置扬声器",
       "source": "酷安热榜",
@@ -682,8 +942,8 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-de02ebdba9f6",
-      "title": "男子刚买5个月手机无预兆爆炸被烫伤",
+      "id": "newsnow-d9d669c66c33",
+      "title": "别对着陌生人的手机念数字",
       "source": "百度热搜",
       "brand": "行业",
       "model": "智能手机市场",
@@ -692,9 +952,9 @@ window.phoneRadarAuto = {
       "date": "2026-07-30",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%88%9A%E4%B9%B05%E4%B8%AA%E6%9C%88%E6%89%8B%E6%9C%BA%E6%97%A0%E9%A2%84%E5%85%86%E7%88%86%E7%82%B8%E8%A2%AB%E7%83%AB%E4%BC%A4",
+      "url": "https://www.baidu.com/s?wd=%E5%88%AB%E5%AF%B9%E7%9D%80%E9%99%8C%E7%94%9F%E4%BA%BA%E7%9A%84%E6%89%8B%E6%9C%BA%E5%BF%B5%E6%95%B0%E5%AD%97",
       "image": "",
-      "summary": "男子刚买5个月手机无预兆爆炸被烫伤",
+      "summary": "别对着陌生人的手机念数字",
       "tags": [
         "行业",
         "爆料",
