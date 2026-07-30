@@ -1,5 +1,5 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-07-30T10:33:24.121Z",
+  "updatedAt": "2026-07-30T14:30:44.228Z",
   "issueDate": "2026-07-30",
   "issue": "VOL.260730",
   "title": "手机情报日报",
@@ -18,31 +18,7 @@ window.phoneRadarDaily = {
       "hint": "机模、配色、影像、屏幕、电池和芯片线索先看。",
       "items": [
         {
-          "id": "auto-371219083b08",
-          "title": "小米 REDMI K100 Pro 系列手机宣传海报曝光：185Hz 高刷屏，延续 Bose 联名调音设计",
-          "originalTitle": "",
-          "source": "IT之家",
-          "brand": "Xiaomi",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-07-30",
-          "time": "07:47",
-          "publishedAt": "2026-07-30T07:47:55.000Z",
-          "url": "https://www.ithome.com/0/983/656.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/7/38216c17-eeb9-44c0-b68b-78c5389e1dbe.jpg",
-          "verdict": "先看",
-          "takeaway": "IT之家 7 月 30 日消息，一张小米 REDMI K100 Pro 系列手机的海报已在各大平台传播。海报文案显示，该机将搭载旗舰双芯，拥有 185Hz 高刷屏。 这张海报也公开了 REDMI K100 Pro 系列手机的外观， 新机有着一款类似车厘子红的配色 （谍照存在光照等问题，因此对配色的预测判断可能与实际颜色有所差异），后置三摄相机矩阵， 并延续…",
-          "detail": "IT之家 7 月 30 日消息，一张小米 REDMI K100 Pro 系列手机的海报已在各大平台传播。海报文案显示，该机将搭载旗舰双芯，拥有 185Hz 高刷屏。 这张海报也公开了 REDMI K100 Pro 系列手机的外观， 新机有着一款类似车厘子红的配色 （谍照存在光照等问题，因此对配色的预测判断可能与实际颜色有所差异），后置三摄相机矩阵， 并延续…",
-          "keyPoints": [
-            "外观 / 配色 / 尺寸",
-            "影像硬件"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "auto-f83eae1f10e8",
+          "id": "auto-df1f343f21b4",
           "title": "iPhone 相关消息",
           "originalTitle": "",
           "source": "MacRumors",
@@ -50,15 +26,15 @@ window.phoneRadarDaily = {
           "type": "爆料",
           "trust": "媒体汇总",
           "date": "2026-07-30",
-          "time": "01:00",
-          "publishedAt": "2026-07-30T01:00:11.000Z",
-          "url": "https://www.macrumors.com/2026/07/29/20th-anniversary-iphone-10-features/",
-          "image": "https://images.macrumors.com/article-new/2026/01/Mostly-Screen-iPhone-Purple-Feature-2027.jpg",
+          "time": "11:59",
+          "publishedAt": "2026-07-30T11:59:18.000Z",
+          "url": "https://www.macrumors.com/2026/07/30/when-will-apple-announce-iphone-18-pro-event/",
+          "image": "https://images.macrumors.com/article-new/2026/04/Four-iPhone-18-Pro-Colors-Mock-Feature.jpg",
           "verdict": "先看",
           "takeaway": "iPhone 相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
           "detail": "iPhone 相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
           "keyPoints": [
-            "外观 / 配色 / 尺寸"
+            "爆料"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
@@ -89,24 +65,23 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
-          "id": "auto-f0f9a8781723",
-          "title": "消息称华为 Pura X Max 系列横阔折手机销量破 60 万台，更贵的反而卖得更好",
+          "id": "auto-44a7d627d76d",
+          "title": "三星高管暗示 Galaxy S26 FE 手机将至，有望亮相 2026 年 IFA 展会",
           "originalTitle": "",
           "source": "IT之家",
-          "brand": "Huawei",
+          "brand": "Samsung",
           "type": "爆料",
           "trust": "媒体汇总",
           "date": "2026-07-30",
-          "time": "08:22",
-          "publishedAt": "2026-07-30T08:22:34.000Z",
-          "url": "https://www.ithome.com/0/983/718.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/7/b643b43b-e30a-4a8a-b4fb-ea00bacf44b6.png?x-bce-process=image/format,f_auto",
+          "time": "12:22",
+          "publishedAt": "2026-07-30T12:22:39.000Z",
+          "url": "https://www.ithome.com/0/983/870.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/7/5171b5da-25d7-4101-84d2-070b02c06d6a.jpg?x-bce-process=image/format,f_auto",
           "verdict": "先看",
-          "takeaway": "IT之家 7 月 30 日消息，长期关注国内手机市场份额的博主 @RD观测 今日分享了华为折叠屏手机首月销量情况：截至 2026 W29（IT之家注：7 月 13 日-7 月 19 日）， 华为 Pura X Max 约 28.59 万台、Pura X Max 典藏版约 32.59 万台 。 从数据来看，华为 Pura X Max 系列横向阔折叠手机的总销…",
-          "detail": "IT之家 7 月 30 日消息，长期关注国内手机市场份额的博主 @RD观测 今日分享了华为折叠屏手机首月销量情况：截至 2026 W29（IT之家注：7 月 13 日-7 月 19 日）， 华为 Pura X Max 约 28.59 万台、Pura X Max 典藏版约 32.59 万台 。 从数据来看，华为 Pura X Max 系列横向阔折叠手机的总销…",
+          "takeaway": "IT之家 7 月 30 日消息，三星似乎已经间接确认，Galaxy S26 FE 将很快正式发布。 Galaxy S25 FE 据 Android Authority 报道，该媒体上周在三星 Unpacked 发布会前参加了三星南非举办的一场媒体沟通会。期间，三星方面几乎确认了 Galaxy S26 FE 即将到来。 当时，有人向三星南非高管 Justin…",
+          "detail": "IT之家 7 月 30 日消息，三星似乎已经间接确认，Galaxy S26 FE 将很快正式发布。 Galaxy S25 FE 据 Android Authority 报道，该媒体上周在三星 Unpacked 发布会前参加了三星南非举办的一场媒体沟通会。期间，三星方面几乎确认了 Galaxy S26 FE 即将到来。 当时，有人向三星南非高管 Justin…",
           "keyPoints": [
-            "屏幕形态",
-            "爆料来源"
+            "爆料"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
@@ -162,29 +137,6 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
-          "id": "auto-6c7f23d06fce",
-          "title": "皮尤民调：近八成美国成年人支持初高中课堂禁用手机",
-          "originalTitle": "",
-          "source": "IT之家",
-          "brand": "行业",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-07-30",
-          "time": "07:46",
-          "publishedAt": "2026-07-30T07:46:18.000Z",
-          "url": "https://www.ithome.com/0/983/653.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2025/9/04bff4f4-1ebb-47e3-a6d0-cf2b20e1b49c.jpg?x-bce-process=image/watermark,text_QUnnlJ_miJA,type_RlpMYW5UaW5nSGVpU0JHQg==,size_28,color_ffffffdd,skw_1,skc_00000051,g_7,blr_50,bls_50,x_11,y_11/auto-orient,o_1",
-          "verdict": "先看",
-          "takeaway": "IT之家 7 月 30 日消息，据外媒 The Verge 今天（30 日）报道，皮尤研究中心最新调查显示，随着美国各地学校陆续收紧学生使用手机的规定，公众对校园手机禁令的支持度仍在上升。 调查显示， 77% 的美国成年人赞成在初中和高中课堂内禁用手机 ，48% 赞成整个上学期间都不允许学生使用手机。支持“从上课铃响到放学铃响”全程禁用手机的人数 首次超过…",
-          "detail": "IT之家 7 月 30 日消息，据外媒 The Verge 今天（30 日）报道，皮尤研究中心最新调查显示，随着美国各地学校陆续收紧学生使用手机的规定，公众对校园手机禁令的支持度仍在上升。 调查显示， 77% 的美国成年人赞成在初中和高中课堂内禁用手机 ，48% 赞成整个上学期间都不允许学生使用手机。支持“从上课铃响到放学铃响”全程禁用手机的人数 首次超过…",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
           "id": "auto-a6bad8094dce",
           "title": "早报｜旗舰手机核心三件套成本超4000元/理想回应i6自动泊车反复调整/Kimi完成超35亿美元F轮融资",
           "originalTitle": "",
@@ -204,6 +156,55 @@ window.phoneRadarDaily = {
             "成本 / 价格"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "coolapk-user-818443ecd46c",
+          "title": "JSCHEN小小狐：全新华为 MateBook Fold 非凡大师三色亮相",
+          "originalTitle": "",
+          "source": "JSCHEN小小狐",
+          "brand": "Huawei",
+          "type": "爆料",
+          "trust": "高可信爆料",
+          "date": "2026-07-29",
+          "time": "03:05",
+          "publishedAt": "2026-07-29T03:05:24.000Z",
+          "url": "https://www.coolapk.com/feed/72988460",
+          "image": "http://image.coolapk.com/feed/2026/0729/11/4702274_ab357f4e_4323_1553_101@3000x1500.jpg",
+          "verdict": "先看",
+          "takeaway": "『全新华为 MateBook Fold 非凡大师三色亮相』 ◇ 流光金、幻影黑、天际白 ◇ OLED 可折叠超大屏 ◇ 麒麟 X9 系处理器 版本： 24GB + 512GB / 24GB + 1TB / 32GB + 2TB #今日热点# #华为MateBookFold非凡大师#",
+          "detail": "『全新华为 MateBook Fold 非凡大师三色亮相』 ◇ 流光金、幻影黑、天际白 ◇ OLED 可折叠超大屏 ◇ 麒麟 X9 系处理器 版本： 24GB + 512GB / 24GB + 1TB / 32GB + 2TB #今日热点# #华为MateBookFold非凡大师#",
+          "keyPoints": [
+            "屏幕形态",
+            "芯片 / 性能"
+          ],
+          "confidence": "可信度较高，但仍属于发布前线索。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "weibo-9a665c8dd6ba",
+          "title": "数码闲聊站：红米K100 Pro系列新机跑分和外观都看到了吧，骁龙8E5处理器，横向大矩阵…",
+          "originalTitle": "",
+          "source": "数码闲聊站",
+          "brand": "行业",
+          "type": "爆料",
+          "trust": "高关注爆料源",
+          "date": "2026-07-30",
+          "time": "06:16",
+          "publishedAt": "2026-07-30T06:16:00.000Z",
+          "url": "https://weibo.com/6048569942/Rb4lqAOpT",
+          "image": "",
+          "verdict": "先看",
+          "takeaway": "红米K100 Pro系列新机跑分和外观都看到了吧，骁龙8E5处理器，横向大矩阵Deco，Pro Max有外放质量很高的独立扬声器，主打综合体验增强[doge]",
+          "detail": "红米K100 Pro系列新机跑分和外观都看到了吧，骁龙8E5处理器，横向大矩阵Deco，Pro Max有外放质量很高的独立扬声器，主打综合体验增强[doge]",
+          "keyPoints": [
+            "外观 / 配色 / 尺寸",
+            "芯片 / 性能",
+            "爆料来源"
+          ],
+          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         }
@@ -268,6 +269,29 @@ window.phoneRadarDaily = {
       "hint": "能直接更新到参数库。",
       "items": [
         {
+          "id": "coolapk-user-3eb311410ada",
+          "title": "竹本青：小米澎程系列9月正式发布，已开启预订",
+          "originalTitle": "",
+          "source": "竹本青",
+          "brand": "Xiaomi",
+          "type": "爆料",
+          "trust": "高可信爆料",
+          "date": "2026-07-30",
+          "time": "12:54",
+          "publishedAt": "2026-07-30T12:54:10.000Z",
+          "url": "https://www.coolapk.com/feed/73011347",
+          "image": "http://image.coolapk.com/feed/2026/0730/21/4248714_a92d1246_8374_668_197@1440x1920.jpg",
+          "verdict": "扫一眼",
+          "takeaway": "【小米澎程系列：9月正式发布，N90／N70 Max现已开启预订】 N70 Max —— 预售25.99万元 N90 Max —— 预售29.99万元 7月30日，小米澎程公布N90／N70 Max预售价，两款车型即日起开启预订，将在今年9月正式发布。 官方提示，车型意向金1000元，发布后随时可退，锁单可享优先排产，提车将送价值999元的车载桌板双杯托版…",
+          "detail": "【小米澎程系列：9月正式发布，N90／N70 Max现已开启预订】 N70 Max —— 预售25.99万元 N90 Max —— 预售29.99万元 7月30日，小米澎程公布N90／N70 Max预售价，两款车型即日起开启预订，将在今年9月正式发布。 官方提示，车型意向金1000元，发布后随时可退，锁单可享优先排产，提车将送价值999元的车载桌板双杯托版…",
+          "keyPoints": [
+            "成本 / 价格"
+          ],
+          "confidence": "可信度较高，但仍属于发布前线索。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        },
+        {
           "id": "auto-5e90f43633c7",
           "title": "Samsung 相关消息",
           "originalTitle": "",
@@ -288,36 +312,6 @@ window.phoneRadarDaily = {
           ],
           "confidence": "官方内容，可直接作为已确认信息记录。",
           "impact": "可信度高，但如果不是配置/价格消息，只需要扫一眼。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        }
-      ]
-    },
-    {
-      "id": "market",
-      "title": "行业趋势",
-      "hint": "看方向，不急着当购买依据。",
-      "items": [
-        {
-          "id": "coolapk-user-06608fea42e5",
-          "title": "竹本青：OPPO A7 Pro Max官图公布：蓝/橙/黑",
-          "originalTitle": "",
-          "source": "竹本青",
-          "brand": "OPPO",
-          "type": "爆料",
-          "trust": "高可信爆料",
-          "date": "2026-07-30",
-          "time": "08:02",
-          "publishedAt": "2026-07-30T08:02:58.000Z",
-          "url": "https://www.coolapk.com/feed/73007377",
-          "image": "http://image.coolapk.com/feed/2026/0730/16/4248714_7e5fe16c_8553_6969_132@1500x2792.jpg",
-          "verdict": "扫一眼",
-          "takeaway": "【OPPO A7 Pro Max官图公布：蓝/橙/黑，金属镜组+氛围灯】 ● 乘风破浪｜前橙似锦｜远山黑 ● 旗舰质感，3D立体浮雕纹理 ● 全金属镜组｜多功能氛围灯 #今日热点# #OPPOA7ProMax#",
-          "detail": "【OPPO A7 Pro Max官图公布：蓝/橙/黑，金属镜组+氛围灯】 ● 乘风破浪｜前橙似锦｜远山黑 ● 旗舰质感，3D立体浮雕纹理 ● 全金属镜组｜多功能氛围灯 #今日热点# #OPPOA7ProMax#",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "可信度较高，但仍属于发布前线索。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         }
       ]

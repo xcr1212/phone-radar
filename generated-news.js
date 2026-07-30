@@ -1,6 +1,186 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-07-30T10:33:24.121Z",
+  "updatedAt": "2026-07-30T14:30:44.228Z",
   "news": [
+    {
+      "id": "coolapk-user-3eb311410ada",
+      "title": "竹本青：小米澎程系列9月正式发布，已开启预订",
+      "source": "竹本青",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-07-30",
+      "time": "12:54",
+      "publishedAt": "2026-07-30T12:54:10.000Z",
+      "url": "https://www.coolapk.com/feed/73011347",
+      "image": "http://image.coolapk.com/feed/2026/0730/21/4248714_a92d1246_8374_668_197@1440x1920.jpg",
+      "summary": "【小米澎程系列：9月正式发布，N90／N70 Max现已开启预订】 N70 Max —— 预售25.99万元 N90 Max —— 预售29.99万元 7月30日，小米澎程公布N90／N70 Max预售价，两款车型即日起开启预订，将在今年9月正式发布。 官方提示，车型意向金1000元，发布后随时可退，锁单可享优先排产，提车将送价值999元的车载桌板双杯托版…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-d6fc8508ccce",
+      "title": "Huawei Pura X Max sales scored more than 600000 units in week 29 of 2026",
+      "source": "Huawei Central",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-30",
+      "time": "12:32",
+      "publishedAt": "2026-07-30T12:32:15.000Z",
+      "url": "https://www.huaweicentral.com/huawei-pura-x-max-sales-scored-more-than-600000-units/",
+      "image": "https://www.huaweicentral.com/wp-content/uploads/2026/06/Pura-X-Max.jpg",
+      "summary": "A Weibo tipster has now revealed the sales details of the Huawei Pura X Max series, which has now reached 600000 units. The wide foldable has achieved a significant score in the C…",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-44a7d627d76d",
+      "title": "三星高管暗示 Galaxy S26 FE 手机将至，有望亮相 2026 年 IFA 展会",
+      "source": "IT之家",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-30",
+      "time": "12:22",
+      "publishedAt": "2026-07-30T12:22:39.000Z",
+      "url": "https://www.ithome.com/0/983/870.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/7/5171b5da-25d7-4101-84d2-070b02c06d6a.jpg?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 7 月 30 日消息，三星似乎已经间接确认，Galaxy S26 FE 将很快正式发布。 Galaxy S25 FE 据 Android Authority 报道，该媒体上周在三星 Unpacked 发布会前参加了三星南非举办的一场媒体沟通会。期间，三星方面几乎确认了 Galaxy S26 FE 即将到来。 当时，有人向三星南非高管 Justin…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-f1de5f371f95",
+      "title": "Galaxy S26 FE: Everything you need to know",
+      "source": "SamMobile",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-30",
+      "time": "12:20",
+      "publishedAt": "2026-07-30T12:20:24.000Z",
+      "url": "https://www.sammobile.com/news/galaxy-s26-fe-everything-to-know/",
+      "image": "https://www.sammobile.com/wp-content/uploads/2026/06/Samsung-Galaxy-S26-FE-Wireless-Power-Consortium-WPC-Certification-Image.jpg",
+      "summary": "The Galaxy S26 FE is Samsung's upcoming high-end phone. It will succeed the Galaxy S25 FE, which launched toward the end of 2025, and is expected to bring improved performance, ne…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-400cfba9e4aa",
+      "title": "Huawei Pura 90s series pre-sale live in Philippines with exclusive gift box",
+      "source": "Huawei Central",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-30",
+      "time": "12:14",
+      "publishedAt": "2026-07-30T12:14:22.000Z",
+      "url": "https://www.huaweicentral.com/huawei-pura-90s-pre-sale-philippines/",
+      "image": "https://www.huaweicentral.com/wp-content/uploads/2026/07/Pura90sPro-image-1.jpg",
+      "summary": "Huawei Pura 90s series has now entered the Philippines, and the company has opened the gates of pre-sale for the new camera flagship. If you have been waiting for a good camera sm…",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-9f76b9914e1f",
+      "title": "Galaxy S27 Ultra’s chances of featuring LPDDR6 RAM, UFS 5.0 storage are decreasing",
+      "source": "SamMobile",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-30",
+      "time": "12:09",
+      "publishedAt": "2026-07-30T12:09:21.000Z",
+      "url": "https://www.sammobile.com/news/galaxy-s27-ultra-chances-featuring-lpddr6-ram-ufs-5-0-storage-decreasing/",
+      "image": "",
+      "summary": "Back in March, we learned that Samsung's next flagship non-foldable smartphone, the Galaxy S27 Ultra, could feature LPDDR6 RAM and UFS 5.0 storage, marking a significant upgrade o…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-df1f343f21b4",
+      "title": "iPhone 18 Pro and iPhone Ultra: When is the Next Apple Event?",
+      "source": "MacRumors",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-30",
+      "time": "11:59",
+      "publishedAt": "2026-07-30T11:59:18.000Z",
+      "url": "https://www.macrumors.com/2026/07/30/when-will-apple-announce-iphone-18-pro-event/",
+      "image": "https://images.macrumors.com/article-new/2026/04/Four-iPhone-18-Pro-Colors-Mock-Feature.jpg",
+      "summary": "July is nearly over, meaning that Apple's annual iPhone event is fast approaching. Below, we look back at when Apple typically announces iPhone events. This September, Apple is ex…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-f078d5ab0fde",
+      "title": "Honor Magic 9 series could skip these two flagship phone models",
+      "source": "Huawei Central",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-30",
+      "time": "11:43",
+      "publishedAt": "2026-07-30T11:43:53.000Z",
+      "url": "https://www.huaweicentral.com/honor-magic-9-series-could-skip-these-two-flagship-phone-models/",
+      "image": "https://www.huaweicentral.com/wp-content/uploads/2026/07/Magic-phones.jpg",
+      "summary": "Honor could skip two flagship phone models from its upcoming Magic 9 series – as per a new rumor. The top-end lineup mainly contains four to five variants, two of which launch in…",
+      "tags": [
+        "HONOR",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-bd49289abd81",
+      "title": "iPhone 18 Pro: Twelve Changes Coming to Apple's Next Flagship",
+      "source": "MacRumors",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-30",
+      "time": "10:43",
+      "publishedAt": "2026-07-30T10:43:11.000Z",
+      "url": "https://www.macrumors.com/2026/07/30/reasons-to-wait-iphone-18-pro/",
+      "image": "https://images.macrumors.com/article-new/2026/02/iPhone-18-Pro-Deep-Red-Feature.jpg",
+      "summary": "We're less than two months out from the launch of Apple's premium next-generation smartphone lineup, and while we're not expecting a dramatic change in terms of functionality, the…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-5e90f43633c7",
       "title": "[Interview] [Galaxy Unpacked July 2026] Inside the Engineering Behind the Latest Galaxy Z Series",
@@ -162,26 +342,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-f0f9a8781723",
-      "title": "消息称华为 Pura X Max 系列横阔折手机销量破 60 万台，更贵的反而卖得更好",
-      "source": "IT之家",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-30",
-      "time": "08:22",
-      "publishedAt": "2026-07-30T08:22:34.000Z",
-      "url": "https://www.ithome.com/0/983/718.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/7/b643b43b-e30a-4a8a-b4fb-ea00bacf44b6.png?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 7 月 30 日消息，长期关注国内手机市场份额的博主 @RD观测 今日分享了华为折叠屏手机首月销量情况：截至 2026 W29（IT之家注：7 月 13 日-7 月 19 日）， 华为 Pura X Max 约 28.59 万台、Pura X Max 典藏版约 32.59 万台 。 从数据来看，华为 Pura X Max 系列横向阔折叠手机的总销…",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-132e473adceb",
       "title": "Samsung confirms Galaxy S26 FE is coming, official hints it might be around the corner",
       "source": "Android Authority",
@@ -199,26 +359,6 @@ window.phoneRadarAuto = {
         "Samsung",
         "爆料",
         "自动抓取"
-      ]
-    },
-    {
-      "id": "coolapk-user-06608fea42e5",
-      "title": "竹本青：OPPO A7 Pro Max官图公布：蓝/橙/黑",
-      "source": "竹本青",
-      "brand": "OPPO",
-      "model": "OPPO 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-07-30",
-      "time": "08:02",
-      "publishedAt": "2026-07-30T08:02:58.000Z",
-      "url": "https://www.coolapk.com/feed/73007377",
-      "image": "http://image.coolapk.com/feed/2026/0730/16/4248714_7e5fe16c_8553_6969_132@1500x2792.jpg",
-      "summary": "【OPPO A7 Pro Max官图公布：蓝/橙/黑，金属镜组+氛围灯】 ● 乘风破浪｜前橙似锦｜远山黑 ● 旗舰质感，3D立体浮雕纹理 ● 全金属镜组｜多功能氛围灯 #今日热点# #OPPOA7ProMax#",
-      "tags": [
-        "OPPO",
-        "爆料",
-        "酷安博主"
       ]
     },
     {
@@ -242,46 +382,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-371219083b08",
-      "title": "小米 REDMI K100 Pro 系列手机宣传海报曝光：185Hz 高刷屏，延续 Bose 联名调音设计",
-      "source": "IT之家",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-30",
-      "time": "07:47",
-      "publishedAt": "2026-07-30T07:47:55.000Z",
-      "url": "https://www.ithome.com/0/983/656.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/7/38216c17-eeb9-44c0-b68b-78c5389e1dbe.jpg",
-      "summary": "IT之家 7 月 30 日消息，一张小米 REDMI K100 Pro 系列手机的海报已在各大平台传播。海报文案显示，该机将搭载旗舰双芯，拥有 185Hz 高刷屏。 这张海报也公开了 REDMI K100 Pro 系列手机的外观， 新机有着一款类似车厘子红的配色 （谍照存在光照等问题，因此对配色的预测判断可能与实际颜色有所差异），后置三摄相机矩阵， 并延续…",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-6c7f23d06fce",
-      "title": "皮尤民调：近八成美国成年人支持初高中课堂禁用手机",
-      "source": "IT之家",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-30",
-      "time": "07:46",
-      "publishedAt": "2026-07-30T07:46:18.000Z",
-      "url": "https://www.ithome.com/0/983/653.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2025/9/04bff4f4-1ebb-47e3-a6d0-cf2b20e1b49c.jpg?x-bce-process=image/watermark,text_QUnnlJ_miJA,type_RlpMYW5UaW5nSGVpU0JHQg==,size_28,color_ffffffdd,skw_1,skc_00000051,g_7,blr_50,bls_50,x_11,y_11/auto-orient,o_1",
-      "summary": "IT之家 7 月 30 日消息，据外媒 The Verge 今天（30 日）报道，皮尤研究中心最新调查显示，随着美国各地学校陆续收紧学生使用手机的规定，公众对校园手机禁令的支持度仍在上升。 调查显示， 77% 的美国成年人赞成在初中和高中课堂内禁用手机 ，48% 赞成整个上学期间都不允许学生使用手机。支持“从上课铃响到放学铃响”全程禁用手机的人数 首次超过…",
-      "tags": [
-        "行业",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-e478faae45f1",
       "title": "Galaxy S25 Ultra and S24 Ultra users report severe battery drain after July 2026 update",
       "source": "Gizmochina",
@@ -295,46 +395,6 @@ window.phoneRadarAuto = {
       "url": "https://www.gizmochina.com/2026/07/30/galaxy-s25-ultra-and-s24-ultra-users-report-severe-battery-drain-after-july-2026-update/",
       "image": "https://www.gizmochina.com/wp-content/uploads/2026/02/Samsung-Galaxy-S25-Ultra-S-Pen-1-scaled-1-1-300x169.jpg?x23692",
       "summary": "Software updates are supposed to make your phone better and more secure, but every now and then they bring some unwanted side effects. A growing number of Samsung Galaxy S25 Ultra…",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-e9328292526b",
-      "title": "Galaxy S26 FE could launch with a starting price at least €50 higher",
-      "source": "SamMobile",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-30",
-      "time": "06:48",
-      "publishedAt": "2026-07-30T06:48:02.000Z",
-      "url": "https://www.sammobile.com/news/galaxy-s26-fe-launch-price-50-euros-higher/",
-      "image": "https://www.sammobile.com/wp-content/uploads/2026/06/Samsung-Galaxy-S26-FE-Wireless-Power-Consortium-WPC-Certification-Image.jpg",
-      "summary": "After launching the Galaxy Z Flip 8 and the Galaxy Z Fold 8 series, Samsung has just one high-end phone launch left for this year: the Galaxy S26 FE. It could be unveiled before t…",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-c3e606fef9fe",
-      "title": "Galaxy Z Fold 8 series, Flip 8 proving to be a massive success in India",
-      "source": "SamMobile",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-30",
-      "time": "06:26",
-      "publishedAt": "2026-07-30T06:26:40.000Z",
-      "url": "https://www.sammobile.com/news/galaxy-z-fold-8-series-flip-8-proving-massive-success-india/",
-      "image": "",
-      "summary": "Samsung started taking pre-orders for the Galaxy Z Fold 8 Ultra, Galaxy Z Fold 8, and the Galaxy Z Flip 8 in many countries around the world on the day it unveiled these devices.…",
       "tags": [
         "Samsung",
         "爆料",
@@ -522,86 +582,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-bf7fae5ef046",
-      "title": "我的出行好伙伴，用 iPhone 一站式解决旅途痛点",
-      "source": "少数派热榜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "评测",
-      "trust": "媒体汇总",
-      "date": "2026-07-30",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://sspai.com/post/112044",
-      "image": "",
-      "summary": "我的出行好伙伴，用 iPhone 一站式解决旅途痛点",
-      "tags": [
-        "iPhone",
-        "评测",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-c75a0ef8c470",
-      "title": "iPhone Air 当主力机用了三个多月后，我为什么还是换不掉它",
-      "source": "少数派热榜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "评测",
-      "trust": "媒体汇总",
-      "date": "2026-07-30",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://sspai.com/post/111113",
-      "image": "",
-      "summary": "iPhone Air 当主力机用了三个多月后，我为什么还是换不掉它",
-      "tags": [
-        "iPhone",
-        "评测",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-43c1ba4a6da0",
-      "title": "快捷指令｜让 iPhone 用上锤子的「大爆炸」",
-      "source": "少数派热榜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "评测",
-      "trust": "媒体汇总",
-      "date": "2026-07-30",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://sspai.com/post/111405",
-      "image": "",
-      "summary": "快捷指令｜让 iPhone 用上锤子的「大爆炸」",
-      "tags": [
-        "iPhone",
-        "评测",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-cca923521885",
-      "title": "有没有大佬是天津的，求帮忙，仔仔十天了，为了不想让宝宝成为留守儿童，决定买房买房到底选择哪个软件，我想买个40个的二手房有电梯，有地铁，生活和教育相对还比较方便的，滨海和北辰西青，津南，静海都可以，到底链家还是贝壳还是安居客，也算刚需吧，怕被中介坑的一愣一愣的[流泪] #华为Mate80ProMax#",
-      "source": "酷安热榜",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-07-30",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72998098",
-      "image": "",
-      "summary": "有没有大佬是天津的，求帮忙，仔仔十天了，为了不想让宝宝成为留守儿童，决定买房买房到底选择哪个软件，我想买个40个的二手房有电梯，有地铁，生活和教育相对还比较方便的，滨海和北辰西青，津南，静海都可以，到底链家还是贝壳还是安居客，也算刚需吧，怕被中介坑的一愣一愣的[流泪] #华为Mate80ProMax#",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
       "id": "newsnow-0436fe5fb0bb",
       "title": "REDMI K100 Pro系列外观曝光：配备后置扬声器",
       "source": "酷安热榜",
@@ -622,41 +602,21 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-4b5b6e3c38f6",
-      "title": "这手机真逆天，6月初7999买的玩了两个月8100卖了....",
+      "id": "newsnow-cca923521885",
+      "title": "有没有大佬是天津的，求帮忙，仔仔十天了，为了不想让宝宝成为留守儿童，决定买房买房到底选择哪个软件，我想买个40个的二手房有电梯，有地铁，生活和教育相对还比较方便的，滨海和北辰西青，津南，静海都可以，到底链家还是贝壳还是安居客，也算刚需吧，怕被中介坑的一愣一愣的[流泪] #华为Mate80ProMax#",
       "source": "酷安热榜",
-      "brand": "行业",
-      "model": "智能手机市场",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-07-30",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72998982",
+      "url": "https://www.coolapk.com/feed/72998098",
       "image": "",
-      "summary": "这手机真逆天，6月初7999买的玩了两个月8100卖了....",
+      "summary": "有没有大佬是天津的，求帮忙，仔仔十天了，为了不想让宝宝成为留守儿童，决定买房买房到底选择哪个软件，我想买个40个的二手房有电梯，有地铁，生活和教育相对还比较方便的，滨海和北辰西青，津南，静海都可以，到底链家还是贝壳还是安居客，也算刚需吧，怕被中介坑的一愣一愣的[流泪] #华为Mate80ProMax#",
       "tags": [
-        "行业",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-54b4ad995061",
-      "title": "极客湾曝光手机电池锁容、快充功率不达标乱象：侵害了消费者知情权",
-      "source": "酷安热榜",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-07-30",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72943675",
-      "image": "",
-      "summary": "极客湾曝光手机电池锁容、快充功率不达标乱象：侵害了消费者知情权",
-      "tags": [
-        "行业",
+        "Huawei",
         "爆料",
         "NewsNow"
       ]
@@ -682,8 +642,28 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-0be35bda12ae",
-      "title": "男子手机无预兆爆炸大腿被烫伤",
+      "id": "newsnow-54b4ad995061",
+      "title": "极客湾曝光手机电池锁容、快充功率不达标乱象：侵害了消费者知情权",
+      "source": "酷安热榜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-07-30",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/72943675",
+      "image": "",
+      "summary": "极客湾曝光手机电池锁容、快充功率不达标乱象：侵害了消费者知情权",
+      "tags": [
+        "行业",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-73d3d4e8b416",
+      "title": "男生每天躺玩手机超5小时患血栓",
       "source": "今日头条热榜",
       "brand": "行业",
       "model": "智能手机市场",
@@ -692,9 +672,9 @@ window.phoneRadarAuto = {
       "date": "2026-07-30",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.toutiao.com/trending/7667887166919491620/",
+      "url": "https://www.toutiao.com/trending/7668165665089683519/",
       "image": "",
-      "summary": "男子手机无预兆爆炸大腿被烫伤",
+      "summary": "男生每天躺玩手机超5小时患血栓",
       "tags": [
         "行业",
         "爆料",
@@ -702,43 +682,23 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-26edcab0777b",
-      "title": "Galaxy S25 and S24 Ultra owners report overheating and battery drain after Samsung's latest update",
-      "source": "Android Police",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
+      "id": "newsnow-de02ebdba9f6",
+      "title": "男子刚买5个月手机无预兆爆炸被烫伤",
+      "source": "百度热搜",
+      "brand": "行业",
+      "model": "智能手机市场",
       "type": "爆料",
       "trust": "媒体汇总",
-      "date": "2026-07-29",
-      "time": "21:22",
-      "publishedAt": "2026-07-29T21:22:36.000Z",
-      "url": "https://www.androidpolice.com/samsungs-s-ultras-get-hit-with-nasty-bugs-after-recent-update/",
+      "date": "2026-07-30",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%88%9A%E4%B9%B05%E4%B8%AA%E6%9C%88%E6%89%8B%E6%9C%BA%E6%97%A0%E9%A2%84%E5%85%86%E7%88%86%E7%82%B8%E8%A2%AB%E7%83%AB%E4%BC%A4",
       "image": "",
-      "summary": "It's not what you want to see",
+      "summary": "男子刚买5个月手机无预兆爆炸被烫伤",
       "tags": [
-        "Samsung",
+        "行业",
         "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-e6884d9f3b26",
-      "title": "I used the Samsung Galaxy S26 Ultra and iPhone 17 Pro Max; the gap is widening",
-      "source": "Android Police",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-29",
-      "time": "21:15",
-      "publishedAt": "2026-07-29T21:15:15.000Z",
-      "url": "https://www.androidpolice.com/galaxy-s26-ultra-iphone-17-pro-max-gap-widening/",
-      "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2026/03/20260312_122303.jpg",
-      "summary": "Apple is losing ground, and Samsung is gaining",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
+        "NewsNow"
       ]
     },
     {
@@ -937,26 +897,6 @@ window.phoneRadarAuto = {
       "summary": "Samsung has quietly introduced a nice quality-of-life feature on the Galaxy Z Fold 8 series, where its new foldables can automatically unlock screen rotation when you use the inne…",
       "tags": [
         "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-cf3e69ac4e2d",
-      "title": "Apple's New Upgrade Program: Is It Worth It?",
-      "source": "MacRumors",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-29",
-      "time": "14:29",
-      "publishedAt": "2026-07-29T14:29:29.000Z",
-      "url": "https://www.macrumors.com/2026/07/29/is-apple-upgrade-program-worth-it/",
-      "image": "https://images.macrumors.com/article-new/2026/07/Apple-Upgrade-Is-It-Worth-It.jpg",
-      "summary": "With the new Apple Upgrade program in the U.S., you can now lease an iPhone, but is it worth it? The answer is more complicated than a simple yes or no. We'll use the iPhone 17 Pr…",
-      "tags": [
-        "iPhone",
         "爆料",
         "自动抓取"
       ]
