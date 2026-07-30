@@ -1,6 +1,66 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-07-30T21:30:23.701Z",
+  "updatedAt": "2026-07-30T23:17:47.624Z",
   "news": [
+    {
+      "id": "auto-c1cfce9023b5",
+      "title": "Caviar launches ultra-luxury Galaxy Z Fold 8 collection with cinematic icons & 24K gold finishes",
+      "source": "Gizmochina",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-30",
+      "time": "23:01",
+      "publishedAt": "2026-07-30T23:01:58.000Z",
+      "url": "https://www.gizmochina.com/2026/07/30/caviar-launches-cinema-legends-galaxy-z-fold-8-series-specs-price/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/07/Samsung-Galaxy-Z-Fold-8-Collection-300x169.png?x23692",
+      "summary": "Luxury device customizer Caviar has announced a new line of modified Samsung Galaxy Z Fold 8 and Z Fold 8 Ultra smartphones. The Legends collection introduces three new designs ba…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-100348915fae",
+      "title": "消息称 iPhone 18 Pro 将混用苹果 C2 / 高通基带，国行机型有望用上实体 SIM+eSIM",
+      "source": "IT之家",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-30",
+      "time": "22:46",
+      "publishedAt": "2026-07-30T22:46:56.000Z",
+      "url": "https://www.ithome.com/0/983/911.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/7/6e311e43-7b44-4bdc-a230-2037c4dd195c.jpg?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 7 月 31 日消息，据科技媒体 AppleInsider 昨天报道，苹果 iPhone 18 Pro 可能会根据销售地区不同，采用两种不同的基带。塔塔电子此前泄露文件显示， 苹果计划在部分国际市场版本使用自研 C2 基带 ， 美国版本则可能继续使用高通基带 ，以支持 5G 毫米波（IT之家注：mmWave）功能。 据报道，美版 iPhone 1…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-3dea8a8f7588",
+      "title": "Xbox CEO lays out priorities in memo after major ‘reset’",
+      "source": "The Verge",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-30",
+      "time": "22:29",
+      "publishedAt": "2026-07-30T22:29:50.000Z",
+      "url": "https://www.theverge.com/games/973520/xbox-ceo-memo-one-year-growth",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/268364_Inside_Microsofts_big_Xbox_leadership_shakeup_CVirginia.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "summary": "After a massive Xbox \"reset\" that laid off thousands of employees and spun off four studios, Xbox CEO Asha Sharma wants to get Xbox back to growth. In a memo obtained by The Verge…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-fd2bafd9947c",
       "title": "Sleuths may have tracked down the bug cooking Galaxy S25 Ultra and S24 Ultra batteries",
@@ -155,26 +215,6 @@ window.phoneRadarAuto = {
       "url": "https://9to5google.com/2026/07/30/pixel-11-series-leaks-with-seemingly-official-renders-includes-all-matte-pixel-11-pro-gallery/",
       "image": "",
       "summary": "Fresh off some leaks showcasing the Pixel 11 Pro Fold in official-looking renders , we’re getting new looks at all three of Google’s non-folding Pixel 11 models in seemingly all o…",
-      "tags": [
-        "Pixel",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-595ad0765015",
-      "title": "Pixel 11 Pro Fold design leaks ahead of Google launch event",
-      "source": "The Verge",
-      "brand": "Pixel",
-      "model": "Pixel 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-30",
-      "time": "17:04",
-      "publishedAt": "2026-07-30T17:04:31.000Z",
-      "url": "https://www.theverge.com/tech/973249/pixel-11-pro-fold-buds-watch-leaks-google-launch-event",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/6608d2c0-7707-4156-82ca-a44b58a90bd1_1440x800.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "summary": "Weeks ahead of Google's next Pixel hardware event, Leaker Evan Blass has shared what appear to be marketing renders of the unannounced Google Pixel 11 Pro Fold in a post on his Su…",
       "tags": [
         "Pixel",
         "爆料",
@@ -898,6 +938,106 @@ window.phoneRadarAuto = {
       "tags": [
         "iPhone",
         "评测",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-fe19235e9a0a",
+      "title": "在玻纤后盖滚出手机市场之前，不会再换手机了，国际大厂没有一家去用玻纤这种垃圾材质的",
+      "source": "酷安热榜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-07-30",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/73009887",
+      "image": "",
+      "summary": "在玻纤后盖滚出手机市场之前，不会再换手机了，国际大厂没有一家去用玻纤这种垃圾材质的",
+      "tags": [
+        "行业",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-0436fe5fb0bb",
+      "title": "REDMI K100 Pro系列外观曝光：配备后置扬声器",
+      "source": "酷安热榜",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-07-30",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/73006188",
+      "image": "",
+      "summary": "REDMI K100 Pro系列外观曝光：配备后置扬声器",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-cca923521885",
+      "title": "有没有大佬是天津的，求帮忙，仔仔十天了，为了不想让宝宝成为留守儿童，决定买房买房到底选择哪个软件，我想买个40个的二手房有电梯，有地铁，生活和教育相对还比较方便的，滨海和北辰西青，津南，静海都可以，到底链家还是贝壳还是安居客，也算刚需吧，怕被中介坑的一愣一愣的[流泪] #华为Mate80ProMax#",
+      "source": "酷安热榜",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-07-30",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/72998098",
+      "image": "",
+      "summary": "有没有大佬是天津的，求帮忙，仔仔十天了，为了不想让宝宝成为留守儿童，决定买房买房到底选择哪个软件，我想买个40个的二手房有电梯，有地铁，生活和教育相对还比较方便的，滨海和北辰西青，津南，静海都可以，到底链家还是贝壳还是安居客，也算刚需吧，怕被中介坑的一愣一愣的[流泪] #华为Mate80ProMax#",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-638af179bb99",
+      "title": "2020 年，回头看仍是机圈极具魔幻现实主义色彩的一年。厂商大喊 “5G 元年”，对换机用户而言却是 “涨价元年”—— 旗舰机型仿佛统一了口径，集体上调八百至一千的价格，携手迈入3999的时代。",
+      "source": "酷安热榜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-07-30",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/70266966",
+      "image": "",
+      "summary": "2020 年，回头看仍是机圈极具魔幻现实主义色彩的一年。厂商大喊 “5G 元年”，对换机用户而言却是 “涨价元年”—— 旗舰机型仿佛统一了口径，集体上调八百至一千的价格，携手迈入3999的时代。",
+      "tags": [
+        "行业",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-73d3d4e8b416",
+      "title": "男生每天躺玩手机超5小时患血栓",
+      "source": "今日头条热榜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-30",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.toutiao.com/trending/7668165665089683519/",
+      "image": "",
+      "summary": "男生每天躺玩手机超5小时患血栓",
+      "tags": [
+        "行业",
+        "爆料",
         "NewsNow"
       ]
     },

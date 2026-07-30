@@ -1,14 +1,14 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-07-30T21:30:23.701Z",
+  "updatedAt": "2026-07-30T23:17:47.624Z",
   "issueDate": "2026-07-30",
   "issue": "VOL.260730",
   "title": "手机情报日报",
-  "intro": "今日筛出 10 条重点，其中 8 条是重点爆料，包含 4 条 iPhone 相关、1 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 8 条重点，其中 8 条是重点爆料，包含 4 条 iPhone 相关、0 条官方确认、0 条参数线索。",
   "stats": {
-    "total": 10,
+    "total": 8,
     "iphone": 4,
     "leaks": 8,
-    "official": 1,
+    "official": 0,
     "specs": 0
   },
   "sections": [
@@ -17,6 +17,29 @@ window.phoneRadarDaily = {
       "title": "重点爆料",
       "hint": "机模、配色、影像、屏幕、电池和芯片线索先看。",
       "items": [
+        {
+          "id": "auto-100348915fae",
+          "title": "消息称 iPhone 18 Pro 将混用苹果 C2 / 高通基带，国行机型有望用上实体 SIM+eSIM",
+          "originalTitle": "",
+          "source": "IT之家",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-07-30",
+          "time": "22:46",
+          "publishedAt": "2026-07-30T22:46:56.000Z",
+          "url": "https://www.ithome.com/0/983/911.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/7/6e311e43-7b44-4bdc-a230-2037c4dd195c.jpg?x-bce-process=image/format,f_auto",
+          "verdict": "先看",
+          "takeaway": "IT之家 7 月 31 日消息，据科技媒体 AppleInsider 昨天报道，苹果 iPhone 18 Pro 可能会根据销售地区不同，采用两种不同的基带。塔塔电子此前泄露文件显示， 苹果计划在部分国际市场版本使用自研 C2 基带 ， 美国版本则可能继续使用高通基带 ，以支持 5G 毫米波（IT之家注：mmWave）功能。 据报道，美版 iPhone 1…",
+          "detail": "IT之家 7 月 31 日消息，据科技媒体 AppleInsider 昨天报道，苹果 iPhone 18 Pro 可能会根据销售地区不同，采用两种不同的基带。塔塔电子此前泄露文件显示， 苹果计划在部分国际市场版本使用自研 C2 基带 ， 美国版本则可能继续使用高通基带 ，以支持 5G 毫米波（IT之家注：mmWave）功能。 据报道，美版 iPhone 1…",
+          "keyPoints": [
+            "爆料来源"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
         {
           "id": "auto-ec90250583fd",
           "title": "iPhone 发布 / 上市相关消息",
@@ -181,90 +204,6 @@ window.phoneRadarDaily = {
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "coolapk-user-818443ecd46c",
-          "title": "JSCHEN小小狐：全新华为 MateBook Fold 非凡大师三色亮相",
-          "originalTitle": "",
-          "source": "JSCHEN小小狐",
-          "brand": "Huawei",
-          "type": "爆料",
-          "trust": "高可信爆料",
-          "date": "2026-07-29",
-          "time": "03:05",
-          "publishedAt": "2026-07-29T03:05:24.000Z",
-          "url": "https://www.coolapk.com/feed/72988460",
-          "image": "http://image.coolapk.com/feed/2026/0729/11/4702274_ab357f4e_4323_1553_101@3000x1500.jpg",
-          "verdict": "先看",
-          "takeaway": "『全新华为 MateBook Fold 非凡大师三色亮相』 ◇ 流光金、幻影黑、天际白 ◇ OLED 可折叠超大屏 ◇ 麒麟 X9 系处理器 版本： 24GB + 512GB / 24GB + 1TB / 32GB + 2TB #今日热点# #华为MateBookFold非凡大师#",
-          "detail": "『全新华为 MateBook Fold 非凡大师三色亮相』 ◇ 流光金、幻影黑、天际白 ◇ OLED 可折叠超大屏 ◇ 麒麟 X9 系处理器 版本： 24GB + 512GB / 24GB + 1TB / 32GB + 2TB #今日热点# #华为MateBookFold非凡大师#",
-          "keyPoints": [
-            "屏幕形态",
-            "芯片 / 性能"
-          ],
-          "confidence": "可信度较高，但仍属于发布前线索。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        }
-      ]
-    },
-    {
-      "id": "iphone",
-      "title": "iPhone 重点",
-      "hint": "不是硬件爆料，但和 iPhone 体验或路线有关。",
-      "items": [
-        {
-          "id": "auto-9bbf43c61c96",
-          "title": "iPhone 系统功能 / AI 体验相关消息",
-          "originalTitle": "",
-          "source": "Apple Newsroom",
-          "brand": "iPhone",
-          "type": "官方",
-          "trust": "官方确认",
-          "date": "2026-07-30",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://www.apple.com/newsroom/2026/06/apple-announces-changes-to-ios-in-brazil/",
-          "image": "",
-          "verdict": "先看",
-          "takeaway": "iPhone 系统功能 / AI 体验相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
-          "detail": "iPhone 系统功能 / AI 体验相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
-          "keyPoints": [
-            "官方"
-          ],
-          "confidence": "官方内容，可直接作为已确认信息记录。",
-          "impact": "可信度高，但如果不是配置/价格消息，只需要扫一眼。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        }
-      ]
-    },
-    {
-      "id": "launch",
-      "title": "新机与官方发布",
-      "hint": "能直接更新到参数库。",
-      "items": [
-        {
-          "id": "coolapk-user-3eb311410ada",
-          "title": "竹本青：小米澎程系列9月正式发布，已开启预订",
-          "originalTitle": "",
-          "source": "竹本青",
-          "brand": "Xiaomi",
-          "type": "爆料",
-          "trust": "高可信爆料",
-          "date": "2026-07-30",
-          "time": "12:54",
-          "publishedAt": "2026-07-30T12:54:10.000Z",
-          "url": "https://www.coolapk.com/feed/73011347",
-          "image": "http://image.coolapk.com/feed/2026/0730/21/4248714_a92d1246_8374_668_197@1440x1920.jpg",
-          "verdict": "扫一眼",
-          "takeaway": "【小米澎程系列：9月正式发布，N90／N70 Max现已开启预订】 N70 Max —— 预售25.99万元 N90 Max —— 预售29.99万元 7月30日，小米澎程公布N90／N70 Max预售价，两款车型即日起开启预订，将在今年9月正式发布。 官方提示，车型意向金1000元，发布后随时可退，锁单可享优先排产，提车将送价值999元的车载桌板双杯托版…",
-          "detail": "【小米澎程系列：9月正式发布，N90／N70 Max现已开启预订】 N70 Max —— 预售25.99万元 N90 Max —— 预售29.99万元 7月30日，小米澎程公布N90／N70 Max预售价，两款车型即日起开启预订，将在今年9月正式发布。 官方提示，车型意向金1000元，发布后随时可退，锁单可享优先排产，提车将送价值999元的车载桌板双杯托版…",
-          "keyPoints": [
-            "成本 / 价格"
-          ],
-          "confidence": "可信度较高，但仍属于发布前线索。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         }
       ]
     }
