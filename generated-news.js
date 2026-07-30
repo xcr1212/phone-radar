@@ -1,6 +1,86 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-07-30T17:47:18.777Z",
+  "updatedAt": "2026-07-30T19:50:36.933Z",
   "news": [
+    {
+      "id": "auto-d28488411086",
+      "title": "Latest Pixel 11 leak shows Google’s next flagships in every color",
+      "source": "Android Authority",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-30",
+      "time": "19:41",
+      "publishedAt": "2026-07-30T19:41:44.000Z",
+      "url": "https://www.androidauthority.com/google-pixel-11-colors-leak-3693013/",
+      "image": "",
+      "summary": "These colors are looking pretty great.",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-a3391ab9d47b",
+      "title": "iPhone 18 Pro could introduce new Apple solution for cellular, hints report",
+      "source": "9to5Mac",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-30",
+      "time": "19:13",
+      "publishedAt": "2026-07-30T19:13:16.000Z",
+      "url": "https://9to5mac.com/2026/07/30/iphone-18-pro-could-introduce-new-apple-solution-for-cellular-hints-report/",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/05/iphone-17-pro-silver-centered-dark.jpg?quality=82&strip=all&w=1600",
+      "summary": "iPhone 18 Pro could make a major transition away from Qualcomm modems in favor of an Apple-designed C2. Here’s the latest update on what to expect.",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-0b4ed25b41b8",
+      "title": "New Pixel 11 Pro Fold leak gives us an official-looking peek at Google’s next foldable",
+      "source": "Android Authority",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-30",
+      "time": "18:30",
+      "publishedAt": "2026-07-30T18:30:12.000Z",
+      "url": "https://www.androidauthority.com/pixel-11-pro-fold-marketing-images-leak-3692956/",
+      "image": "",
+      "summary": "This is our first look at Pixel Glow on the foldable.",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-68df42f9ae51",
+      "title": "Fortnite returns to iPhone in Brazil with Epic Games Store launch",
+      "source": "9to5Mac",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-30",
+      "time": "17:47",
+      "publishedAt": "2026-07-30T17:47:31.000Z",
+      "url": "https://9to5mac.com/2026/07/30/fortnite-returns-to-iphone-in-brazil-with-epic-games-store-launch/",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/epic-store-brazil-iphone.webp?w=1600",
+      "summary": "Fortnite is back on the iPhone in Brazil today with the launch of the Epic Games Store. However, Epic Games is calling foul on the nine-step process required for access.",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-d5d9e31c1485",
       "title": "Pixel 11 Pro Fold renders surfaced, and Google is sticking to what works",
@@ -442,26 +522,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-ed97640428f6",
-      "title": "Galaxy Z Fold 8 may have overtaken the Z Fold 8 Ultra in pre-orders",
-      "source": "SamMobile",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-30",
-      "time": "10:01",
-      "publishedAt": "2026-07-30T10:01:07.000Z",
-      "url": "https://www.sammobile.com/news/galaxy-z-fold-8-may-have-overtaken-z-fold-8-ultra-in-pre-orders/",
-      "image": "",
-      "summary": "Last week, Samsung launched its latest flagship smartphones with a book-style foldable display: the Galaxy Z Fold 8 Ultra and the Galaxy Z Fold 8. While the Galaxy Z Fold 8 Ultra…",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-4d42e22974ed",
       "title": "Whatever you do, don’t buy a Google Pixel phone right now",
       "source": "Android Authority",
@@ -537,26 +597,6 @@ window.phoneRadarAuto = {
       "summary": "Google's fix has apparently landed for the Pixel 9 and Pixel 10, yet fresh reports suggest the issue isn't gone.",
       "tags": [
         "Pixel",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-8892a894e545",
-      "title": "US Gen Z doesn’t want a Galaxy, and the Z Flip 8 won’t change that",
-      "source": "SamMobile",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-30",
-      "time": "09:00",
-      "publishedAt": "2026-07-30T09:00:22.000Z",
-      "url": "https://www.sammobile.com/opinion/us-gen-z-doesnt-want-galaxy-z-flip-8-wont-change-that/",
-      "image": "",
-      "summary": "Gen Z in the United States doesn't really want a Galaxy, and Samsung knows it. The Galaxy Z Flip series could have been the answer to that problem, but it didn't really work eithe…",
-      "tags": [
-        "Samsung",
         "爆料",
         "自动抓取"
       ]
@@ -842,6 +882,26 @@ window.phoneRadarAuto = {
       ]
     },
     {
+      "id": "newsnow-fe19235e9a0a",
+      "title": "在玻纤后盖滚出手机市场之前，不会再换手机了，国际大厂没有一家去用玻纤这种垃圾材质的",
+      "source": "酷安热榜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-07-30",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/73009887",
+      "image": "",
+      "summary": "在玻纤后盖滚出手机市场之前，不会再换手机了，国际大厂没有一家去用玻纤这种垃圾材质的",
+      "tags": [
+        "行业",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
       "id": "newsnow-0436fe5fb0bb",
       "title": "REDMI K100 Pro系列外观曝光：配备后置扬声器",
       "source": "酷安热榜",
@@ -882,46 +942,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-ad80ad6959a7",
-      "title": "xdm 老婆现在用的苹果12 想给换个手机 是换mate80还苹果17 真心问。",
-      "source": "酷安热榜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-07-30",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72988841",
-      "image": "",
-      "summary": "xdm 老婆现在用的苹果12 想给换个手机 是换mate80还苹果17 真心问。",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-54b4ad995061",
-      "title": "极客湾曝光手机电池锁容、快充功率不达标乱象：侵害了消费者知情权",
-      "source": "酷安热榜",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-07-30",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72943675",
-      "image": "",
-      "summary": "极客湾曝光手机电池锁容、快充功率不达标乱象：侵害了消费者知情权",
-      "tags": [
-        "行业",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
       "id": "newsnow-73d3d4e8b416",
       "title": "男生每天躺玩手机超5小时患血栓",
       "source": "今日头条热榜",
@@ -955,6 +975,26 @@ window.phoneRadarAuto = {
       "url": "https://www.baidu.com/s?wd=%E5%88%AB%E5%AF%B9%E7%9D%80%E9%99%8C%E7%94%9F%E4%BA%BA%E7%9A%84%E6%89%8B%E6%9C%BA%E5%BF%B5%E6%95%B0%E5%AD%97",
       "image": "",
       "summary": "别对着陌生人的手机念数字",
+      "tags": [
+        "行业",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-314712e93469",
+      "title": "女子手机遭远程操控转账 民警拔卡",
+      "source": "百度热搜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-30",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E6%89%8B%E6%9C%BA%E9%81%AD%E8%BF%9C%E7%A8%8B%E6%93%8D%E6%8E%A7%E8%BD%AC%E8%B4%A6+%E6%B0%91%E8%AD%A6%E6%8B%94%E5%8D%A1",
+      "image": "",
+      "summary": "女子手机遭远程操控转账 民警拔卡",
       "tags": [
         "行业",
         "爆料",
