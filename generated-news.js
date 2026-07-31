@@ -1,6 +1,26 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-07-31T19:51:34.901Z",
+  "updatedAt": "2026-07-31T21:21:20.345Z",
   "news": [
+    {
+      "id": "auto-7e8a6f9924d5",
+      "title": "Galaxy Z Fold 8, Flip 8 owners get free Netflix The East Palace themes, wallpapers",
+      "source": "SamMobile",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-31",
+      "time": "20:43",
+      "publishedAt": "2026-07-31T20:43:16.000Z",
+      "url": "https://www.sammobile.com/news/galaxy-z-fold-8-flip-8-owners-get-free-netflix-the-east-palace-themes-wallpapers/",
+      "image": "https://www.sammobile.com/wp-content/uploads/2026/07/Samsung-Partners-With-Netflix-To-Promote-Galaxy-Z-Fold-8-Ultra-Z-Fold-8-Z-Flip-8-By-Offering-Free-The-East-Palace-Inspired-Wallpapers-Themes-For-Free.jpg",
+      "summary": "A few days ago, Samsung launched its latest smartphones with foldable displays, the Galaxy Z Fold 8 Ultra, Galaxy Z Fold 8, and the Galaxy Z Flip 8. Now, to celebrate the launch o…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-d3efc8146fcf",
       "title": "Apple’s new AirTags are back down to their best price",
@@ -1057,6 +1077,26 @@ window.phoneRadarAuto = {
       "summary": "2026年第30周国内手机市场份额曝光：小米升至榜三",
       "tags": [
         "Xiaomi",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-54eedb2850ab",
+      "title": "2020 年，回头看仍是机圈极具魔幻现实主义色彩的一年。厂商大喊 “5G 元年”，对换机用户而言却是 “涨价元年”—— 旗舰机型仿佛统一了口径，集体上调八百至一千的价格，携手迈入3999的时代。",
+      "source": "酷安热榜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-07-31",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/70266966",
+      "image": "",
+      "summary": "2020 年，回头看仍是机圈极具魔幻现实主义色彩的一年。厂商大喊 “5G 元年”，对换机用户而言却是 “涨价元年”—— 旗舰机型仿佛统一了口径，集体上调八百至一千的价格，携手迈入3999的时代。",
+      "tags": [
+        "行业",
         "爆料",
         "NewsNow"
       ]
