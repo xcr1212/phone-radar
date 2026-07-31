@@ -1,6 +1,106 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-07-31T17:51:06.406Z",
+  "updatedAt": "2026-07-31T19:51:34.901Z",
   "news": [
+    {
+      "id": "auto-d3efc8146fcf",
+      "title": "Apple’s new AirTags are back down to their best price",
+      "source": "The Verge",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-31",
+      "time": "19:35",
+      "publishedAt": "2026-07-31T19:35:45.000Z",
+      "url": "https://www.theverge.com/gadgets/973973/apple-airtag-second-generation-deal-sale",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/268280_AirTags_2_AKrales_0003.jpg?w=300",
+      "summary": "We spotted a great deal on Tile trackers earlier this week that’s still live, but if you’re an iPhone owner, we ultimately recommend Apple’s latest AirTag. Right now, you can pick…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-3f3134c59423",
+      "title": "Pixelated 110: Android’s past, present, and future",
+      "source": "9to5Google",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-31",
+      "time": "19:30",
+      "publishedAt": "2026-07-31T19:30:00.000Z",
+      "url": "https://9to5google.com/2026/07/31/pixelated-110-androids-past-present-and-future/",
+      "image": "",
+      "summary": "Welcome to Pixelated episode 110. This week, Damien, Abner, and Will lean into a news lull ahead of the Pixel 11’s launch to zoom out to take a look at the state of Android. They…",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-972594f76856",
+      "title": "Galaxy Z Fold 8 Ultra, Z Fold 8, Z Flip 8 batteries may wear out faster than their predecessors",
+      "source": "SamMobile",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-31",
+      "time": "19:18",
+      "publishedAt": "2026-07-31T19:18:52.000Z",
+      "url": "https://www.sammobile.com/news/galaxy-z-fold-8-ultra-z-fold-8-z-flip-8-batteries-may-wear-out-faster-than-their-predecessors/",
+      "image": "",
+      "summary": "The Galaxy Z Fold 8 Ultra and the Galaxy Z Flip 8 offer significantly larger batteries than their predecessors, the Galaxy Z Fold 7 and the Galaxy Z Flip 7, thanks to Samsung's ad…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-b0f2ef3ec4ea",
+      "title": "Google may have a playful new name for the Pixel 11 Pro’s rear light",
+      "source": "Android Authority",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-31",
+      "time": "18:12",
+      "publishedAt": "2026-07-31T18:12:26.000Z",
+      "url": "https://www.androidauthority.com/pixel-glow-hilight-name-3693448/",
+      "image": "",
+      "summary": "Google may be ready to show us the HiLight of its upcoming devices.",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-8d785f4f4918",
+      "title": "iPhone 17 Pro found ‘pristine’ after surviving fall from airplane",
+      "source": "9to5Mac",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-31",
+      "time": "18:04",
+      "publishedAt": "2026-07-31T18:04:13.000Z",
+      "url": "https://9to5mac.com/2026/07/31/iphone-17-pro-found-pristine-after-surviving-fall-from-airplane/",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/10/iphone-17-pro-cosmic-orange-fernando.jpg?quality=82&strip=all&w=1600",
+      "summary": "When iPhone 17 Pro launched, Apple touted the device’s improved durability. One user just put that claim to the test—unintentionally—and came away shocked after her iPhone 17 Pro…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-97c09330252e",
       "title": "This is the ‘Google Pixel Tag’",
@@ -399,26 +499,6 @@ window.phoneRadarAuto = {
         "OPPO",
         "爆料",
         "酷安博主"
-      ]
-    },
-    {
-      "id": "auto-d577d22cdf7f",
-      "title": "Galaxy S26 Ultra’s Privacy Display costs Samsung 10% more than standard OLEDs",
-      "source": "SamMobile",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-31",
-      "time": "11:17",
-      "publishedAt": "2026-07-31T11:17:18.000Z",
-      "url": "https://www.sammobile.com/news/galaxy-s26-ultra-oled-privacy-display-cost-10-percent-more/",
-      "image": "",
-      "summary": "Samsung introduced the groundbreaking Privacy Display feature with the Galaxy S26 Ultra this year. It uses an advanced OLED panel that limits off-axis viewing angles, preventing p…",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
       ]
     },
     {
@@ -902,46 +982,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-e8ce8f4bed8c",
-      "title": "在玻纤后盖滚出手机市场之前，不会再换手机了，国际大厂没有一家去用玻纤这种垃圾材质的",
-      "source": "酷安热榜",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-07-31",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73009887",
-      "image": "",
-      "summary": "在玻纤后盖滚出手机市场之前，不会再换手机了，国际大厂没有一家去用玻纤这种垃圾材质的",
-      "tags": [
-        "行业",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-2fe5c26d8115",
-      "title": "REDMI K100 Pro Max 爆料：全新 185Hz 超级像素屏等",
-      "source": "酷安热榜",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-07-31",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73018008",
-      "image": "",
-      "summary": "REDMI K100 Pro Max 爆料：全新 185Hz 超级像素屏等",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
       "id": "newsnow-799450a32aa6",
       "title": "本期酷周报核心看点：高通9月起上调芯片价格；小米澎程系列预售价正式公布；苹果、三星最新财报出炉；网传智驾小蓝灯将被禁用；国产浸没式DUV光刻机被曝量产；极客湾曝光手机电池锁容等现象。",
       "source": "酷安热榜",
@@ -957,26 +997,6 @@ window.phoneRadarAuto = {
       "summary": "本期酷周报核心看点：高通9月起上调芯片价格；小米澎程系列预售价正式公布；苹果、三星最新财报出炉；网传智驾小蓝灯将被禁用；国产浸没式DUV光刻机被曝量产；极客湾曝光手机电池锁容等现象。",
       "tags": [
         "Samsung",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-cdae4c4e2f5f",
-      "title": "REDMI K100 Pro系列外观曝光：配备后置扬声器",
-      "source": "酷安热榜",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-07-31",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73006188",
-      "image": "",
-      "summary": "REDMI K100 Pro系列外观曝光：配备后置扬声器",
-      "tags": [
-        "Xiaomi",
         "爆料",
         "NewsNow"
       ]
@@ -1002,8 +1022,8 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-fe0ebf3e0acd",
-      "title": "REDMI K100 Pro Max 「赤霞珠红」正式亮相：6.9英寸直屏",
+      "id": "newsnow-2fe5c26d8115",
+      "title": "REDMI K100 Pro Max 爆料：全新 185Hz 超级像素屏等",
       "source": "酷安热榜",
       "brand": "Xiaomi",
       "model": "Xiaomi 相关机型",
@@ -1012,9 +1032,9 @@ window.phoneRadarAuto = {
       "date": "2026-07-31",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73016646",
+      "url": "https://www.coolapk.com/feed/73018008",
       "image": "",
-      "summary": "REDMI K100 Pro Max 「赤霞珠红」正式亮相：6.9英寸直屏",
+      "summary": "REDMI K100 Pro Max 爆料：全新 185Hz 超级像素屏等",
       "tags": [
         "Xiaomi",
         "爆料",
@@ -1037,26 +1057,6 @@ window.phoneRadarAuto = {
       "summary": "2026年第30周国内手机市场份额曝光：小米升至榜三",
       "tags": [
         "Xiaomi",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-6e4e93680978",
-      "title": "我发现这手机会来月经",
-      "source": "酷安热榜",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-07-31",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73004112",
-      "image": "",
-      "summary": "我发现这手机会来月经",
-      "tags": [
-        "行业",
         "爆料",
         "NewsNow"
       ]
