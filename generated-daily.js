@@ -1,12 +1,12 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-07-31T14:33:48.794Z",
+  "updatedAt": "2026-07-31T17:51:06.406Z",
   "issueDate": "2026-07-31",
   "issue": "VOL.260731",
   "title": "手机情报日报",
-  "intro": "今日筛出 8 条重点，其中 8 条是重点爆料，包含 2 条 iPhone 相关、0 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 8 条重点，其中 8 条是重点爆料，包含 4 条 iPhone 相关、0 条官方确认、0 条参数线索。",
   "stats": {
     "total": 8,
-    "iphone": 2,
+    "iphone": 4,
     "leaks": 8,
     "official": 0,
     "specs": 0
@@ -36,6 +36,52 @@ window.phoneRadarDaily = {
           "keyPoints": [
             "外观 / 配色 / 尺寸",
             "成本 / 价格"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "auto-24ff91504f7d",
+          "title": "iPhone 18e 芯片 / 性能相关消息",
+          "originalTitle": "",
+          "source": "MacRumors",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-07-31",
+          "time": "15:55",
+          "publishedAt": "2026-07-31T15:55:27.000Z",
+          "url": "https://www.macrumors.com/2026/07/31/iphone-18e-increased-ram-rumor/",
+          "image": "https://images.macrumors.com/article-new/2026/03/iphone-17e-notch.jpg",
+          "verdict": "先看",
+          "takeaway": "iPhone 18e 芯片 / 性能相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
+          "detail": "iPhone 18e 芯片 / 性能相关消息。重点看折痕、铰链、厚度、屏幕可靠性和重量是否有实质改善。",
+          "keyPoints": [
+            "爆料来源"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "auto-ff633713b1b5",
+          "title": "iPhone 系统功能 / AI 体验相关消息",
+          "originalTitle": "",
+          "source": "MacRumors",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-07-31",
+          "time": "15:25",
+          "publishedAt": "2026-07-31T15:25:35.000Z",
+          "url": "https://www.macrumors.com/2026/07/31/iphone-air-2-five-new-features-rumored/",
+          "image": "https://images.macrumors.com/article-new/2025/09/iphone-air-all-colors.jpg",
+          "verdict": "先看",
+          "takeaway": "iPhone 有系统功能或 AI 体验更新，适合关注后续是否影响日常使用。",
+          "detail": "iPhone 系统功能 / AI 体验相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
+          "keyPoints": [
+            "爆料"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
@@ -151,52 +197,6 @@ window.phoneRadarDaily = {
           "detail": "去cj现场拍了几张 #REDMIK100ProMax# 「赤霞珠红」配色，大家觉得怎么样[喝茶]",
           "keyPoints": [
             "外观 / 配色 / 尺寸"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "weibo-dc87761b0a5b",
-          "title": "数码闲聊站：荣耀Magic9系列新机暂定9月底，预计28前后，其它家档期也有提前不少，可以…",
-          "originalTitle": "",
-          "source": "数码闲聊站",
-          "brand": "HONOR",
-          "type": "爆料",
-          "trust": "高关注爆料源",
-          "date": "2026-07-31",
-          "time": "09:08",
-          "publishedAt": "2026-07-31T09:08:00.000Z",
-          "url": "https://weibo.com/6048569942/RbeTK6GC4",
-          "image": "https://tvax1.sinaimg.cn/mw2000/006BlblIgy1ifn6ung4fxj30xv0jyq91.jpg",
-          "verdict": "先看",
-          "takeaway": "荣耀Magic9系列新机暂定9月底，预计28前后，其它家档期也有提前不少，可以自行推测嗷",
-          "detail": "荣耀Magic9系列新机暂定9月底，预计28前后，其它家档期也有提前不少，可以自行推测嗷",
-          "keyPoints": [
-            "爆料来源"
-          ],
-          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "newsnow-2fe5c26d8115",
-          "title": "REDMI K100 Pro Max 爆料：全新 185Hz 超级像素屏等",
-          "originalTitle": "",
-          "source": "酷安热榜",
-          "brand": "Xiaomi",
-          "type": "爆料",
-          "trust": "高关注爆料源",
-          "date": "2026-07-31",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://www.coolapk.com/feed/73018008",
-          "image": "",
-          "verdict": "先看",
-          "takeaway": "REDMI K100 Pro Max 爆料：全新 185Hz 超级像素屏等",
-          "detail": "REDMI K100 Pro Max 爆料：全新 185Hz 超级像素屏等",
-          "keyPoints": [
-            "爆料来源"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",

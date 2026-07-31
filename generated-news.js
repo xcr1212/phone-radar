@@ -1,6 +1,166 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-07-31T14:33:48.794Z",
+  "updatedAt": "2026-07-31T17:51:06.406Z",
   "news": [
+    {
+      "id": "auto-97c09330252e",
+      "title": "This is the ‘Google Pixel Tag’",
+      "source": "9to5Google",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-31",
+      "time": "16:05",
+      "publishedAt": "2026-07-31T16:05:00.000Z",
+      "url": "https://9to5google.com/2026/07/31/this-is-the-google-pixel-tag/",
+      "image": "",
+      "summary": "Ahead of Google’s Pixel 11 launch, 9to5Google has obtained an image of a new tracker called the “Google Pixel Tag” which has also started to appear in online listings.",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-12f1a2796adf",
+      "title": "2026 年 7 月全球桌面浏览器排行：谷歌 Chrome 70.58%、微软 Edge 11.15%、火狐 Firefox 6.51%",
+      "source": "IT之家",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-31",
+      "time": "16:02",
+      "publishedAt": "2026-07-31T16:02:07.000Z",
+      "url": "https://www.ithome.com/0/984/401.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/8/07cd3de6-5cd0-4093-bd11-11f844aa7448.jpg?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 8 月 1 日消息，根据市场调查机构 Statcounter 公布的最新报告，2026 年 7 月全球桌面浏览器市场中， Chrome 依然稳居第一 ，占比 70.58%，Edge 以 11.15% 的份额占据第二，Firefox 以 6.51% 位居第三。 全球桌面平台 Chrome 占比 70.58%，环比下降 1.48 个百分点 Edge…",
+      "tags": [
+        "行业",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-7a62c516d528",
+      "title": "Deals: Fold 8/Ultra, 2-in-1 Copilot+ PCs and Surface Pro up to $500 off, LG TVs from $330, new transparent metal power bank, more",
+      "source": "9to5Google",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-31",
+      "time": "15:55",
+      "publishedAt": "2026-07-31T15:55:30.000Z",
+      "url": "https://9to5google.com/2026/07/31/deals-fold-8-ultra-surface-pro-lg-tv/",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/07/9to5Google-Jul-31.webp?w=1600",
+      "summary": "Joining this week’s notable Galaxy Z Fold 8 , Fold 8 Ultra , and Flip 8 pre-order deals, today we are turning ur attention to some notable back-to-school laptop deals starting wit…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-24ff91504f7d",
+      "title": "iPhone 18e Rumored to Feature Increased RAM",
+      "source": "MacRumors",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-31",
+      "time": "15:55",
+      "publishedAt": "2026-07-31T15:55:27.000Z",
+      "url": "https://www.macrumors.com/2026/07/31/iphone-18e-increased-ram-rumor/",
+      "image": "https://images.macrumors.com/article-new/2026/03/iphone-17e-notch.jpg",
+      "summary": "The lower-end iPhone 18e that Apple is expected to release by March 2027 will be equipped with 9GB of RAM, up from 8GB in the iPhone 17e, according to analyst Jeff Pu. 9GB of RAM…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-ff633713b1b5",
+      "title": "iPhone Air 2 Expected to Launch Early Next Year With Five New Features",
+      "source": "MacRumors",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-31",
+      "time": "15:25",
+      "publishedAt": "2026-07-31T15:25:35.000Z",
+      "url": "https://www.macrumors.com/2026/07/31/iphone-air-2-five-new-features-rumored/",
+      "image": "https://images.macrumors.com/article-new/2025/09/iphone-air-all-colors.jpg",
+      "summary": "Apple plans to release a second-generation iPhone Air in the first quarter of 2027, according to Jeff Pu, an investment analyst who covers Apple. In a research note with GF Securi…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-4104b113e1dc",
+      "title": "竹本青：【亿咖通：芯擎科技上半年融资超2亿美元】 7月31日，亿咖通科技控股宣布，其长期投资的车规级和工业芯片企业芯擎科技…",
+      "source": "竹本青",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-07-31",
+      "time": "15:10",
+      "publishedAt": "2026-07-31T15:10:43.000Z",
+      "url": "https://www.coolapk.com/feed/73027492",
+      "image": "http://image.coolapk.com/feed/2026/0731/23/4248714_6ca0b947_0642_441_498@1200x800.jpg",
+      "summary": "【亿咖通：芯擎科技上半年融资超2亿美元】 7月31日，亿咖通科技控股宣布，其长期投资的车规级和工业芯片企业芯擎科技，已于2026年上半年顺利完成超2亿美元股权融资。 芯擎科技，由亿咖通科技与Arm中国于2018年联合创立，是国内首家实现7nm车规级智能座舱芯片大规模量产的企业。本轮募集资金将持续赋能芯擎科技核心技术研发、产能规模扩充以及全球化市场拓展。 双…",
+      "tags": [
+        "行业",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-4c19d145f1cd",
+      "title": "Galaxy Z Fold 8 can remember different auto-rotate settings for each screen",
+      "source": "SamMobile",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-31",
+      "time": "14:54",
+      "publishedAt": "2026-07-31T14:54:40.000Z",
+      "url": "https://www.sammobile.com/news/galaxy-z-fold-8-can-remember-different-auto-rotate-settings-each-screen/",
+      "image": "",
+      "summary": "On traditional, non-foldable smartphones, most people prefer to keep automatic screen rotation turned off. That's because when you want the screen to stay in portrait orientation,…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-7c3375a6393d",
+      "title": "Samsung’s leaked Galaxy Z plans for 2027 include an unknown fifth phone",
+      "source": "9to5Google",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-31",
+      "time": "14:52",
+      "publishedAt": "2026-07-31T14:52:50.000Z",
+      "url": "https://9to5google.com/2026/07/31/samsungs-galaxy-z-plans-for-2027-include-a-fifth-phone/",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/07/Galaxy-Z-Fold-8-Ultra-6-2.jpg?quality=82&strip=all&w=1600",
+      "summary": "The Galaxy Z Fold 8 series isn’t even on shelves yet, and Samsung is already facing a leak that suggests a fifth Galaxy Z device will join the lineup in 2027.",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-b4b4771c4287",
       "title": "How do you plan on buying your next iPhone? [Poll]",
@@ -242,26 +402,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-08d3daafb050",
-      "title": "Waiting for the Samsung Galaxy Z Fold 9? Samsung may add yet another foldable in 2027",
-      "source": "Android Police",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-31",
-      "time": "11:27",
-      "publishedAt": "2026-07-31T11:27:06.000Z",
-      "url": "https://www.androidpolice.com/samsung-galaxy-z-fold-9-code-names-reveal-new-models/",
-      "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2026/07/samsung-galaxy-z-fold-8-ultra-flip-range.JPG",
-      "summary": "Samsung is definitely looking to expand its range of folding phones",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-d577d22cdf7f",
       "title": "Galaxy S26 Ultra’s Privacy Display costs Samsung 10% more than standard OLEDs",
       "source": "SamMobile",
@@ -462,26 +602,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-3dea8a8f7588",
-      "title": "Xbox CEO lays out priorities in memo after major ‘reset’",
-      "source": "The Verge",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-31",
-      "time": "09:28",
-      "publishedAt": "2026-07-31T09:28:15.000Z",
-      "url": "https://www.theverge.com/games/973520/xbox-ceo-memo-one-year-growth",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/268364_Inside_Microsofts_big_Xbox_leadership_shakeup_CVirginia.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "summary": "After a massive Xbox \"reset\" that laid off thousands of employees and spun off four studios, Xbox CEO Asha Sharma wants to get Xbox back to growth. In a memo obtained by The Verge…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-b3a6cd899c06",
       "title": "一加 N6x 手机海外发布：天玑 6360 APEX、6.8 英寸 720P LCD 屏，18999 卢比起",
       "source": "IT之家",
@@ -497,26 +617,6 @@ window.phoneRadarAuto = {
       "summary": "IT之家 7 月 31 日消息，一加今日在海外发布了 N6x 手机， 售价 18999 卢比起 ： 4GB+64GB：18999 卢比（IT之家注：现汇率约合 1344 元人民币） 4GB+128GB：20999 卢比（现汇率约合 1485 元人民币） 这款手机提供勃艮第红、冰蓝两种配色，尺寸为 166.38mm×78.13mm×8.65mm，重 214g…",
       "tags": [
         "OPPO",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-020e92d68a4f",
-      "title": "Codenames of Samsung’s next-gen Galaxy Z series phones leak",
-      "source": "SamMobile",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-31",
-      "time": "09:08",
-      "publishedAt": "2026-07-31T09:08:13.000Z",
-      "url": "https://www.sammobile.com/news/galaxy-z-flip-fold-9-ultra-trifold-2-rollable-phone-codename-leak/",
-      "image": "https://www.sammobile.com/wp-content/uploads/2026/06/Samsung-Display-Rollable-Flex-OLED-Panel-Showcase-SID-2023-Expo.jpg",
-      "summary": "Samsung's recently announced foldable phones, the Galaxy Z Flip 8, Galaxy Z Fold 8, and the Galaxy Z Fold 8 Ultra, haven't even reached store shelves yet, but information about th…",
-      "tags": [
-        "Samsung",
         "爆料",
         "自动抓取"
       ]
@@ -802,26 +902,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-a199b0a0a792",
-      "title": "快捷指令｜让 iPhone 用上锤子的「大爆炸」",
-      "source": "少数派热榜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "评测",
-      "trust": "媒体汇总",
-      "date": "2026-07-31",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://sspai.com/post/111405",
-      "image": "",
-      "summary": "快捷指令｜让 iPhone 用上锤子的「大爆炸」",
-      "tags": [
-        "iPhone",
-        "评测",
-        "NewsNow"
-      ]
-    },
-    {
       "id": "newsnow-e8ce8f4bed8c",
       "title": "在玻纤后盖滚出手机市场之前，不会再换手机了，国际大厂没有一家去用玻纤这种垃圾材质的",
       "source": "酷安热榜",
@@ -837,26 +917,6 @@ window.phoneRadarAuto = {
       "summary": "在玻纤后盖滚出手机市场之前，不会再换手机了，国际大厂没有一家去用玻纤这种垃圾材质的",
       "tags": [
         "行业",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-cdae4c4e2f5f",
-      "title": "REDMI K100 Pro系列外观曝光：配备后置扬声器",
-      "source": "酷安热榜",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-07-31",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73006188",
-      "image": "",
-      "summary": "REDMI K100 Pro系列外观曝光：配备后置扬声器",
-      "tags": [
-        "Xiaomi",
         "爆料",
         "NewsNow"
       ]
@@ -902,6 +962,26 @@ window.phoneRadarAuto = {
       ]
     },
     {
+      "id": "newsnow-cdae4c4e2f5f",
+      "title": "REDMI K100 Pro系列外观曝光：配备后置扬声器",
+      "source": "酷安热榜",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-07-31",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/73006188",
+      "image": "",
+      "summary": "REDMI K100 Pro系列外观曝光：配备后置扬声器",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
       "id": "newsnow-c5a2c6fa4744",
       "title": "去cj现场拍了几张 #REDMIK100ProMax# 「赤霞珠红」配色，大家觉得怎么样[喝茶]",
       "source": "酷安热榜",
@@ -942,6 +1022,26 @@ window.phoneRadarAuto = {
       ]
     },
     {
+      "id": "newsnow-44bc95e29fa3",
+      "title": "2026年第30周国内手机市场份额曝光：小米升至榜三",
+      "source": "酷安热榜",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-07-31",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/73018713",
+      "image": "",
+      "summary": "2026年第30周国内手机市场份额曝光：小米升至榜三",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
       "id": "newsnow-6e4e93680978",
       "title": "我发现这手机会来月经",
       "source": "酷安热榜",
@@ -957,26 +1057,6 @@ window.phoneRadarAuto = {
       "summary": "我发现这手机会来月经",
       "tags": [
         "行业",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-ffee51ded860",
-      "title": "有没有大佬是天津的，求帮忙，仔仔十天了，为了不想让宝宝成为留守儿童，决定买房买房到底选择哪个软件，我想买个40个的二手房有电梯，有地铁，生活和教育相对还比较方便的，滨海和北辰西青，津南，静海都可以，到底链家还是贝壳还是安居客，也算刚需吧，怕被中介坑的一愣一愣的[流泪] #华为Mate80ProMax#",
-      "source": "酷安热榜",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-07-31",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72998098",
-      "image": "",
-      "summary": "有没有大佬是天津的，求帮忙，仔仔十天了，为了不想让宝宝成为留守儿童，决定买房买房到底选择哪个软件，我想买个40个的二手房有电梯，有地铁，生活和教育相对还比较方便的，滨海和北辰西青，津南，静海都可以，到底链家还是贝壳还是安居客，也算刚需吧，怕被中介坑的一愣一愣的[流泪] #华为Mate80ProMax#",
-      "tags": [
-        "Huawei",
         "爆料",
         "NewsNow"
       ]
@@ -1255,26 +1335,6 @@ window.phoneRadarAuto = {
       "url": "https://9to5mac.com/2026/07/30/apple-upgrade-vs-iphone-upgrade-program-here-are-the-key-differences/",
       "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/apple-upgrade-iphone.jpg?quality=82&strip=all&w=1600",
       "summary": "Apple Upgrade launched this week, and the iPhone Upgrade Program is being discontinued as a result. But despite some similarities, the two offerings are not the same. Here are the…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-df1f343f21b4",
-      "title": "iPhone 18 Pro and iPhone Ultra: When is the Next Apple Event?",
-      "source": "MacRumors",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-30",
-      "time": "11:59",
-      "publishedAt": "2026-07-30T11:59:18.000Z",
-      "url": "https://www.macrumors.com/2026/07/30/when-will-apple-announce-iphone-18-pro-event/",
-      "image": "https://images.macrumors.com/article-new/2026/04/Four-iPhone-18-Pro-Colors-Mock-Feature.jpg",
-      "summary": "July is nearly over, meaning that Apple's annual iPhone event is fast approaching. Below, we look back at when Apple typically announces iPhone events. This September, Apple is ex…",
       "tags": [
         "iPhone",
         "爆料",
