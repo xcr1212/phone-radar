@@ -1,6 +1,186 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-07-31T03:48:18.144Z",
+  "updatedAt": "2026-07-31T07:13:06.859Z",
   "news": [
+    {
+      "id": "weibo-6d1199e3d368",
+      "title": "数码闲聊站：6.3-6.4英寸阔直屏新机，目前产品定义较高，有概率会划到Find，暂定和U…",
+      "source": "数码闲聊站",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-07-31",
+      "time": "07:12",
+      "publishedAt": "2026-07-31T07:12:00.000Z",
+      "url": "https://weibo.com/6048569942/Rbe8EDRqt",
+      "image": "",
+      "summary": "6.3-6.4英寸阔直屏新机，目前产品定义较高，有概率会划到Find，暂定和Ultra超大杯一起上[偷乐]",
+      "tags": [
+        "行业",
+        "爆料",
+        "微博"
+      ]
+    },
+    {
+      "id": "coolapk-user-0d0ed1c6c19e",
+      "title": "JSCHEN小小狐：『荣耀 Robot Phone 影像预热：双 2 亿超大底』 2 亿像素灵巧云台主摄 ◇ 1/1.28 英寸，23…",
+      "source": "JSCHEN小小狐",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-07-31",
+      "time": "06:56",
+      "publishedAt": "2026-07-31T06:56:16.000Z",
+      "url": "https://www.coolapk.com/feed/73020822",
+      "image": "http://image.coolapk.com/feed/2026/0731/14/4702274_3963157f_0973_8699_275@2144x3810.jpg",
+      "summary": "『荣耀 Robot Phone 影像预热：双 2 亿超大底』 2 亿像素灵巧云台主摄 ◇ 1/1.28 英寸，23mm，f/1.6 光圈 ◇ 3 轴云台机械防抖 + OIS 光学防抖 2 亿像素潜望式长焦摄像头 ◇ 1/1.4 英寸，62mm，f/2.6 光圈 ◇ 2.7X 光学变焦，OIS 光学防抖 #今日热点# #荣耀Magic9# #荣耀Magic9…",
+      "tags": [
+        "HONOR",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-3a09c6aa53bc",
+      "title": "Counterpoint 数据：全球智能手机 SoC 出货 2026H1 同比下降 15%",
+      "source": "IT之家",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-31",
+      "time": "06:26",
+      "publishedAt": "2026-07-31T06:26:43.000Z",
+      "url": "https://www.ithome.com/0/984/123.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/7/8550643d-2098-48ae-ac7b-b438573414be.png",
+      "summary": "IT之家 7 月 31 日消息，Counterpoint Research 当地时间本月 29 日表示，根据其最新一期《全球智能手机 SoC 出货量初步报告》， 全球智能手机 SoC 出货规模在 2026 年上半年出现 15% 的同比衰退 。该机构预计全年衰退比例将达到 14%。 ▲ 图源：Counterpoint Research 从供应商角度， 联发科…",
+      "tags": [
+        "行业",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-bd31d6db1878",
+      "title": "谷歌 Pixel 11/Pro/ Pro XL 三款手机渲染图再曝：均配 4 种颜色",
+      "source": "IT之家",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-31",
+      "time": "05:59",
+      "publishedAt": "2026-07-31T05:59:57.000Z",
+      "url": "https://www.ithome.com/0/984/115.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/7/9185a63a-1b65-4dac-9880-329c2401719f.jpg?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 7 月 31 日消息，消息源 Evan Blass 昨日（7 月 30 日）在 X 平台发布推文， 分享 Pixel 11 Pro Fold 折叠手机渲染图后 ， 再次分享了 Pixel 11、Pixel 11 Pro 和 Pixel 11 Pro XL 三款手机的渲染图。 颜色方面，消息源称 Pixel 11、Pixel 11 Pro 和 Pi…",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "weibo-57c52e71baf2",
+      "title": "数码闲聊站：REDMI K100 Pro+K100 Pro Max双杯齐发，K100今年晚…",
+      "source": "数码闲聊站",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-07-31",
+      "time": "05:34",
+      "publishedAt": "2026-07-31T05:34:00.000Z",
+      "url": "https://weibo.com/6048569942/RbduSvxvr",
+      "image": "https://tvax2.sinaimg.cn/mw2000/006BlblIgy1ifn1bf8ftzj30xv0d8wip.jpg",
+      "summary": "REDMI K100 Pro+K100 Pro Max双杯齐发，K100今年晚点儿上；Pro全系新基材超高刷RGB OLED直屏，Pro Max这个深红色喜欢吗？咳咳[doge]",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "微博"
+      ]
+    },
+    {
+      "id": "auto-31ed784334e3",
+      "title": "Vivo X300e goes on first sale with Snapdragon 8 Gen 5 and 7200mAh battery",
+      "source": "Gizmochina",
+      "brand": "vivo",
+      "model": "vivo 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-31",
+      "time": "04:33",
+      "publishedAt": "2026-07-31T04:33:45.000Z",
+      "url": "https://www.gizmochina.com/2026/07/31/vivo-x300e-goes-on-first-sale-with-snapdragon-8-gen-5-and-7200mah-battery/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/07/Vivo-X300e-featured--300x149.png?x23692",
+      "summary": "Vivo has started selling the X300e in China today. The phone first went official on July 27, and now buyers can pick it up across all storage options in the mainland. The Vivo X30…",
+      "tags": [
+        "vivo",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-7ab04859d831",
+      "title": "Huawei could bring active cooling upgrade to mid-range phones",
+      "source": "Huawei Central",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-31",
+      "time": "04:23",
+      "publishedAt": "2026-07-31T04:23:57.000Z",
+      "url": "https://www.huaweicentral.com/huawei-could-bring-active-cooling-upgrade-to-mid-range-phones/",
+      "image": "https://www.huaweicentral.com/wp-content/uploads/2026/07/cooling-tech-img.jpg",
+      "summary": "Huawei is seemingly planning a major upgrade for its future mid-range phones: active cooling technology. The new solution will likely show up with the Mate 90 series and may reach…",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-b48f1dd87244",
+      "title": "竹本青：2026年第30周国内手机市场份额曝光：小米升至榜三",
+      "source": "竹本青",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-07-31",
+      "time": "04:03",
+      "publishedAt": "2026-07-31T04:03:36.000Z",
+      "url": "https://www.coolapk.com/feed/73018713",
+      "image": "http://image.coolapk.com/feed/2026/0731/12/4248714_8e9592ff_0615_5541_570@1439x1025.jpg",
+      "summary": "【2026年第30周 国内手机市场份额曝光：华为保持榜首，小米升至榜三】 ● 2026 W30：大盘略微下降 1.华为 —— 20.7% 2.OPPO —— 16.3%（含 一加 3.3%，realme 0.7%） 3.小米 —— 15.9% 4.vivo —— 15.7%（含iQOO 4.0%） 5.苹果 —— 14.7% 6.荣耀 —— 12.5% 2…",
+      "tags": [
+        "HONOR",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-639528988135",
+      "title": "OnePlus 16’s first teaser hints at a return to the circular camera design, promises next-gen gaming performance",
+      "source": "Gizmochina",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-31",
+      "time": "03:48",
+      "publishedAt": "2026-07-31T03:48:30.000Z",
+      "url": "https://www.gizmochina.com/2026/07/31/oneplus-16s-first-teaser/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/07/image-106-300x251.png?x23692",
+      "summary": "Redmi has confirmed that the Redmi K100 Pro series will be unveiled on Aug. 11 in China. Rival brand OnePlus is also gearing up to unveil the OnePlus 16. At the recently held Snap…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-d184537164d0",
       "title": "起售价超 1.2 万美元：Caviar 推出定制版三星 Galaxy Z Fold 8 折叠屏手机，可选《教父》《疤面煞星》等主题",
@@ -102,66 +282,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-2752bd6a7517",
-      "title": "Omdia 数据：全球智能手机出货量 2026Q2 同比下降 6% 至 2.72 亿部",
-      "source": "IT之家",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-31",
-      "time": "01:54",
-      "publishedAt": "2026-07-31T01:54:17.000Z",
-      "url": "https://www.ithome.com/0/983/953.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/7/a29b10d2-691d-422f-b8a8-80b5cd59f9d6.png?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 7 月 31 日消息，Omdia 英国当地时间 30 日根据其统计数据表示， 全球智能手机市场在 2026 年第 2 季度录得 2.72 亿部的出货量 ， 同比下降 6% 。 ▲ 图源：Omdia 持续处于高位的内存价格扰乱了供应，增加了零部件成本，迫使智能手机制造商重新思考整体策略。 行业的重点正从最大化出货量转向保护利润率和平均销售价格 (A…",
-      "tags": [
-        "行业",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-be10df40bdb4",
-      "title": "谷歌 Pixel 11 Pro Fold 折叠屏手机渲染图曝光：非阔折叠，搭载 Glow LED 灯",
-      "source": "IT之家",
-      "brand": "Pixel",
-      "model": "Pixel 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-31",
-      "time": "01:36",
-      "publishedAt": "2026-07-31T01:36:33.000Z",
-      "url": "https://www.ithome.com/0/983/949.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/7/cd9eefec-b870-4488-bb85-4a5b1629b11a.png?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 7 月 31 日消息，一批新的谷歌 Pixel 11 Pro Fold 渲染图已经曝光， 展示了新机的绿色外观 ，其设计与去年的机型类似，看起来似乎略薄了一些。 爆料人 Evan Blass 今日曝光了最新的渲染图，可以看到全新的摄像头设计、Glow LED，不过新机并未采用目前流行的阔折叠设计。 渲染图还显示，Pixel 11 Pro Fold…",
-      "tags": [
-        "Pixel",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "coolapk-user-123f96098ce5",
-      "title": "竹本青：REDMI K100 Pro Max 「赤霞珠红」正式亮相：6.9英寸直屏",
-      "source": "竹本青",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-07-31",
-      "time": "01:31",
-      "publishedAt": "2026-07-31T01:31:06.000Z",
-      "url": "https://www.coolapk.com/feed/73016646",
-      "image": "http://image.coolapk.com/feed/2026/0731/09/4248714_eef70ada_1459_4412_733@1080x1080.jpg",
-      "summary": "【REDMI K100 Pro Max 「赤霞珠红」正式亮相：6.9英寸直屏，一体化金属 DECO】 ● 6.9英寸超窄边直屏 ● 四曲包裹式金属中框 ● 一体化金属 DECO ● 全新悬浮灯环设计 #今日热点# #REDMIK100ProMax# #HyperOS3#",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
       "id": "weibo-51995377b510",
       "title": "数码闲聊站：REDMI K100 Pro Max，大R角直屏，一体化金属DECO，Bose…",
       "source": "数码闲聊站",
@@ -179,26 +299,6 @@ window.phoneRadarAuto = {
         "Xiaomi",
         "爆料",
         "微博"
-      ]
-    },
-    {
-      "id": "auto-033da39ad17a",
-      "title": "雅虎天气改版：预报更智能、信息更丰富，宣传主打“派对天气”",
-      "source": "IT之家",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-31",
-      "time": "00:36",
-      "publishedAt": "2026-07-31T00:36:27.000Z",
-      "url": "https://www.ithome.com/0/983/931.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/7/cba3210b-66b2-40a8-af3d-f399306bbd66.png",
-      "summary": "IT之家 7 月 31 日消息，雅虎（Yahoo）昨日（7 月 30 日）发布博文，宣布更新 iOS 和安卓平台的雅虎天气（Yahoo Weather）应用， 重构整体界面外，还新增增强雷达、交互式地图和 1 分钟级降水预报。 界面方面，官方表示新版雅虎天气应用围绕用户频繁查看天气、规划日程的需求重构，提供更智能的预报、增强的雷达功能和更丰富的天气信息。…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
       ]
     },
     {
@@ -355,26 +455,6 @@ window.phoneRadarAuto = {
       "url": "https://www.coolapk.com/feed/73004112",
       "image": "",
       "summary": "我发现这手机会来月经",
-      "tags": [
-        "行业",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-c5a63fe810e2",
-      "title": "女子做检查身亡 丈夫称麻醉师玩手机",
-      "source": "今日头条热榜",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-31",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.toutiao.com/trending/7667884087532817963/",
-      "image": "",
-      "summary": "女子做检查身亡 丈夫称麻醉师玩手机",
       "tags": [
         "行业",
         "爆料",
@@ -782,26 +862,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-9f76b9914e1f",
-      "title": "Galaxy S27 Ultra’s chances of featuring LPDDR6 RAM, UFS 5.0 storage are decreasing",
-      "source": "SamMobile",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-30",
-      "time": "12:09",
-      "publishedAt": "2026-07-30T12:09:21.000Z",
-      "url": "https://www.sammobile.com/news/galaxy-s27-ultra-chances-featuring-lpddr6-ram-ufs-5-0-storage-decreasing/",
-      "image": "",
-      "summary": "Back in March, we learned that Samsung's next flagship non-foldable smartphone, the Galaxy S27 Ultra, could feature LPDDR6 RAM and UFS 5.0 storage, marking a significant upgrade o…",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-df1f343f21b4",
       "title": "iPhone 18 Pro and iPhone Ultra: When is the Next Apple Event?",
       "source": "MacRumors",
@@ -1039,6 +1099,26 @@ window.phoneRadarAuto = {
         "Samsung",
         "爆料",
         "自动抓取"
+      ]
+    },
+    {
+      "id": "weibo-9a665c8dd6ba",
+      "title": "数码闲聊站：红米K100 Pro系列新机跑分和外观都看到了吧，骁龙8E5处理器，横向大矩阵…",
+      "source": "数码闲聊站",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-07-30",
+      "time": "06:16",
+      "publishedAt": "2026-07-30T06:16:00.000Z",
+      "url": "https://weibo.com/6048569942/Rb4lqAOpT",
+      "image": "",
+      "summary": "红米K100 Pro系列新机跑分和外观都看到了吧，骁龙8E5处理器，横向大矩阵Deco，Pro Max有外放质量很高的独立扬声器，主打综合体验增强[doge]",
+      "tags": [
+        "行业",
+        "爆料",
+        "微博"
       ]
     },
     {

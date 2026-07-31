@@ -1,5 +1,5 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-07-31T03:48:18.144Z",
+  "updatedAt": "2026-07-31T07:13:06.859Z",
   "issueDate": "2026-07-31",
   "issue": "VOL.260731",
   "title": "手机情报日报",
@@ -88,6 +88,29 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
+          "id": "auto-bd31d6db1878",
+          "title": "谷歌 Pixel 11/Pro/ Pro XL 三款手机渲染图再曝：均配 4 种颜色",
+          "originalTitle": "",
+          "source": "IT之家",
+          "brand": "Pixel",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-07-31",
+          "time": "05:59",
+          "publishedAt": "2026-07-31T05:59:57.000Z",
+          "url": "https://www.ithome.com/0/984/115.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/7/9185a63a-1b65-4dac-9880-329c2401719f.jpg?x-bce-process=image/format,f_auto",
+          "verdict": "先看",
+          "takeaway": "IT之家 7 月 31 日消息，消息源 Evan Blass 昨日（7 月 30 日）在 X 平台发布推文， 分享 Pixel 11 Pro Fold 折叠手机渲染图后 ， 再次分享了 Pixel 11、Pixel 11 Pro 和 Pixel 11 Pro XL 三款手机的渲染图。 颜色方面，消息源称 Pixel 11、Pixel 11 Pro 和 Pi…",
+          "detail": "IT之家 7 月 31 日消息，消息源 Evan Blass 昨日（7 月 30 日）在 X 平台发布推文， 分享 Pixel 11 Pro Fold 折叠手机渲染图后 ， 再次分享了 Pixel 11、Pixel 11 Pro 和 Pixel 11 Pro XL 三款手机的渲染图。 颜色方面，消息源称 Pixel 11、Pixel 11 Pro 和 Pi…",
+          "keyPoints": [
+            "外观 / 配色 / 尺寸"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
           "id": "auto-d184537164d0",
           "title": "起售价超 1.2 万美元：Caviar 推出定制版三星 Galaxy Z Fold 8 折叠屏手机，可选《教父》《疤面煞星》等主题",
           "originalTitle": "",
@@ -106,31 +129,6 @@ window.phoneRadarDaily = {
           "keyPoints": [
             "屏幕形态",
             "成本 / 价格"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "auto-be10df40bdb4",
-          "title": "谷歌 Pixel 11 Pro Fold 折叠屏手机渲染图曝光：非阔折叠，搭载 Glow LED 灯",
-          "originalTitle": "",
-          "source": "IT之家",
-          "brand": "Pixel",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-07-31",
-          "time": "01:36",
-          "publishedAt": "2026-07-31T01:36:33.000Z",
-          "url": "https://www.ithome.com/0/983/949.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/7/cd9eefec-b870-4488-bb85-4a5b1629b11a.png?x-bce-process=image/format,f_auto",
-          "verdict": "先看",
-          "takeaway": "IT之家 7 月 31 日消息，一批新的谷歌 Pixel 11 Pro Fold 渲染图已经曝光， 展示了新机的绿色外观 ，其设计与去年的机型类似，看起来似乎略薄了一些。 爆料人 Evan Blass 今日曝光了最新的渲染图，可以看到全新的摄像头设计、Glow LED，不过新机并未采用目前流行的阔折叠设计。 渲染图还显示，Pixel 11 Pro Fold…",
-          "detail": "IT之家 7 月 31 日消息，一批新的谷歌 Pixel 11 Pro Fold 渲染图已经曝光， 展示了新机的绿色外观 ，其设计与去年的机型类似，看起来似乎略薄了一些。 爆料人 Evan Blass 今日曝光了最新的渲染图，可以看到全新的摄像头设计、Glow LED，不过新机并未采用目前流行的阔折叠设计。 渲染图还显示，Pixel 11 Pro Fold…",
-          "keyPoints": [
-            "外观 / 配色 / 尺寸",
-            "屏幕形态",
-            "爆料来源"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
@@ -163,6 +161,29 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
+          "id": "coolapk-user-0d0ed1c6c19e",
+          "title": "JSCHEN小小狐：『荣耀 Robot Phone 影像预热：双 2 亿超大底』 2 亿像素灵巧云台主摄 ◇ 1/1.28 英寸，23…",
+          "originalTitle": "",
+          "source": "JSCHEN小小狐",
+          "brand": "HONOR",
+          "type": "爆料",
+          "trust": "高可信爆料",
+          "date": "2026-07-31",
+          "time": "06:56",
+          "publishedAt": "2026-07-31T06:56:16.000Z",
+          "url": "https://www.coolapk.com/feed/73020822",
+          "image": "http://image.coolapk.com/feed/2026/0731/14/4702274_3963157f_0973_8699_275@2144x3810.jpg",
+          "verdict": "先看",
+          "takeaway": "『荣耀 Robot Phone 影像预热：双 2 亿超大底』 2 亿像素灵巧云台主摄 ◇ 1/1.28 英寸，23mm，f/1.6 光圈 ◇ 3 轴云台机械防抖 + OIS 光学防抖 2 亿像素潜望式长焦摄像头 ◇ 1/1.4 英寸，62mm，f/2.6 光圈 ◇ 2.7X 光学变焦，OIS 光学防抖 #今日热点# #荣耀Magic9# #荣耀Magic9…",
+          "detail": "『荣耀 Robot Phone 影像预热：双 2 亿超大底』 2 亿像素灵巧云台主摄 ◇ 1/1.28 英寸，23mm，f/1.6 光圈 ◇ 3 轴云台机械防抖 + OIS 光学防抖 2 亿像素潜望式长焦摄像头 ◇ 1/1.4 英寸，62mm，f/2.6 光圈 ◇ 2.7X 光学变焦，OIS 光学防抖 #今日热点# #荣耀Magic9# #荣耀Magic9…",
+          "keyPoints": [
+            "影像硬件"
+          ],
+          "confidence": "可信度较高，但仍属于发布前线索。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
           "id": "coolapk-user-9216fd9a088f",
           "title": "竹本青：REDMI K100 Pro Max 爆料：全新 185Hz 超级像素屏等",
           "originalTitle": "",
@@ -184,29 +205,6 @@ window.phoneRadarDaily = {
             "爆料来源"
           ],
           "confidence": "可信度较高，但仍属于发布前线索。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "auto-2752bd6a7517",
-          "title": "Omdia 数据：全球智能手机出货量 2026Q2 同比下降 6% 至 2.72 亿部",
-          "originalTitle": "",
-          "source": "IT之家",
-          "brand": "行业",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-07-31",
-          "time": "01:54",
-          "publishedAt": "2026-07-31T01:54:17.000Z",
-          "url": "https://www.ithome.com/0/983/953.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/7/a29b10d2-691d-422f-b8a8-80b5cd59f9d6.png?x-bce-process=image/format,f_auto",
-          "verdict": "先看",
-          "takeaway": "IT之家 7 月 31 日消息，Omdia 英国当地时间 30 日根据其统计数据表示， 全球智能手机市场在 2026 年第 2 季度录得 2.72 亿部的出货量 ， 同比下降 6% 。 ▲ 图源：Omdia 持续处于高位的内存价格扰乱了供应，增加了零部件成本，迫使智能手机制造商重新思考整体策略。 行业的重点正从最大化出货量转向保护利润率和平均销售价格 (A…",
-          "detail": "IT之家 7 月 31 日消息，Omdia 英国当地时间 30 日根据其统计数据表示， 全球智能手机市场在 2026 年第 2 季度录得 2.72 亿部的出货量 ， 同比下降 6% 。 ▲ 图源：Omdia 持续处于高位的内存价格扰乱了供应，增加了零部件成本，迫使智能手机制造商重新思考整体策略。 行业的重点正从最大化出货量转向保护利润率和平均销售价格 (A…",
-          "keyPoints": [
-            "成本 / 价格"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         }
