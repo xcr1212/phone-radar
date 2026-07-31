@@ -1,12 +1,12 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-07-31T21:21:20.345Z",
+  "updatedAt": "2026-07-31T23:14:52.776Z",
   "issueDate": "2026-07-31",
   "issue": "VOL.260731",
   "title": "手机情报日报",
-  "intro": "今日筛出 8 条重点，其中 8 条是重点爆料，包含 4 条 iPhone 相关、0 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 8 条重点，其中 8 条是重点爆料，包含 5 条 iPhone 相关、0 条官方确认、0 条参数线索。",
   "stats": {
     "total": 8,
-    "iphone": 4,
+    "iphone": 5,
     "leaks": 8,
     "official": 0,
     "specs": 0
@@ -17,6 +17,30 @@ window.phoneRadarDaily = {
       "title": "重点爆料",
       "hint": "机模、配色、影像、屏幕、电池和芯片线索先看。",
       "items": [
+        {
+          "id": "auto-4edef0c21a19",
+          "title": "蒲得宇：芯片和内存成本飙升，苹果 iPhone 18 Pro / Max 恐涨价 250~300 美元",
+          "originalTitle": "",
+          "source": "IT之家",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-07-31",
+          "time": "23:09",
+          "publishedAt": "2026-07-31T23:09:33.000Z",
+          "url": "https://www.ithome.com/0/984/406.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/8/9e4a6f44-3c98-4c9c-a458-cf4616708392.png",
+          "verdict": "先看",
+          "takeaway": "IT之家 8 月 1 日消息，广发证券分析师蒲得宇（Jeff Pu）昨日（7 月 31 日）在 X 平台发布推文， 预估苹果 iPhone 18 Pro 和 iPhone 18 Pro Max 机型涨价幅度最高可达 250~300 美元 （IT之家注：现汇率约合 1691 ~ 2030 元人民币）。 蒲得宇认为苹果今年旗舰手机涨价压力主要来自芯片和存储。在…",
+          "detail": "IT之家 8 月 1 日消息，广发证券分析师蒲得宇（Jeff Pu）昨日（7 月 31 日）在 X 平台发布推文， 预估苹果 iPhone 18 Pro 和 iPhone 18 Pro Max 机型涨价幅度最高可达 250~300 美元 （IT之家注：现汇率约合 1691 ~ 2030 元人民币）。 蒲得宇认为苹果今年旗舰手机涨价压力主要来自芯片和存储。在…",
+          "keyPoints": [
+            "芯片 / 性能",
+            "成本 / 价格"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
         {
           "id": "auto-b3a6cd899c06",
           "title": "一加 N6x 手机海外发布：天玑 6360 APEX、6.8 英寸 720P LCD 屏，18999 卢比起",
@@ -176,29 +200,6 @@ window.phoneRadarDaily = {
             "爆料来源"
           ],
           "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "newsnow-c5a2c6fa4744",
-          "title": "去cj现场拍了几张 #REDMIK100ProMax# 「赤霞珠红」配色，大家觉得怎么样[喝茶]",
-          "originalTitle": "",
-          "source": "酷安热榜",
-          "brand": "Xiaomi",
-          "type": "爆料",
-          "trust": "高关注爆料源",
-          "date": "2026-07-31",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://www.coolapk.com/feed/73019751",
-          "image": "",
-          "verdict": "先看",
-          "takeaway": "去cj现场拍了几张 #REDMIK100ProMax# 「赤霞珠红」配色，大家觉得怎么样[喝茶]",
-          "detail": "去cj现场拍了几张 #REDMIK100ProMax# 「赤霞珠红」配色，大家觉得怎么样[喝茶]",
-          "keyPoints": [
-            "外观 / 配色 / 尺寸"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         }

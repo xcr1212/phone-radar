@@ -1,6 +1,66 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-07-31T21:21:20.345Z",
+  "updatedAt": "2026-07-31T23:14:52.776Z",
   "news": [
+    {
+      "id": "auto-4edef0c21a19",
+      "title": "蒲得宇：芯片和内存成本飙升，苹果 iPhone 18 Pro / Max 恐涨价 250~300 美元",
+      "source": "IT之家",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-31",
+      "time": "23:09",
+      "publishedAt": "2026-07-31T23:09:33.000Z",
+      "url": "https://www.ithome.com/0/984/406.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/8/9e4a6f44-3c98-4c9c-a458-cf4616708392.png",
+      "summary": "IT之家 8 月 1 日消息，广发证券分析师蒲得宇（Jeff Pu）昨日（7 月 31 日）在 X 平台发布推文， 预估苹果 iPhone 18 Pro 和 iPhone 18 Pro Max 机型涨价幅度最高可达 250~300 美元 （IT之家注：现汇率约合 1691 ~ 2030 元人民币）。 蒲得宇认为苹果今年旗舰手机涨价压力主要来自芯片和存储。在…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-d04973e5b8ad",
+      "title": "Galaxy Z Fold 8, Fold 8 Ultra get luxurious Godfather, Scarface, Joker editions from Caviar",
+      "source": "SamMobile",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-31",
+      "time": "21:56",
+      "publishedAt": "2026-07-31T21:56:25.000Z",
+      "url": "https://www.sammobile.com/news/galaxy-z-fold-8-fold-8-ultra-get-luxurious-godfather-scarface-joker-editions-caviar/",
+      "image": "https://www.sammobile.com/wp-content/uploads/2026/07/Samsung-Galaxy-Z-Fold-8-Ultra-Joker-Edition-By-Caviar.jpg",
+      "summary": "Before Samsung unveiled its latest flagship book-style foldable smartphone, the Galaxy Z Fold 8 Ultra, Caviar had introduced a luxury custom edition of the device inspired by foot…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-95271bec4e2b",
+      "title": "Galaxy Z Fold 8 series, Flip 8 demand exceeds Samsung’s expectations",
+      "source": "SamMobile",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-31",
+      "time": "21:24",
+      "publishedAt": "2026-07-31T21:24:47.000Z",
+      "url": "https://www.sammobile.com/news/galaxy-z-fold-8-series-flip-8-demand-exceeds-samsungs-expectations/",
+      "image": "",
+      "summary": "Samsung's latest lineup of foldable smartphones, which offers three phones, Galaxy Z Fold 8 Ultra, Galaxy Z Fold 8, and Galaxy Z Flip 8, is seeing record-breaking pre-orders globa…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-7e8a6f9924d5",
       "title": "Galaxy Z Fold 8, Flip 8 owners get free Netflix The East Palace themes, wallpapers",
@@ -482,26 +542,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-6ab6cb5d2eae",
-      "title": "Galaxy S26 FE’s camera specs confirmed ahead of launch",
-      "source": "SamMobile",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-31",
-      "time": "11:49",
-      "publishedAt": "2026-07-31T11:49:57.000Z",
-      "url": "https://www.sammobile.com/news/galaxy-s26-fes-camera-specs-confirmed-ahead-of-launch/",
-      "image": "https://www.sammobile.com/wp-content/uploads/2026/06/Samsung-Galaxy-S26-FE-Wireless-Power-Consortium-WPC-Certification-Image.jpg",
-      "summary": "The Galaxy S26 FE will be Samsung's next Fan Edition phone, and it is expected to become official in late August or early September this year. Ahead of its launch, most of its har…",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "coolapk-user-9c9ab216b077",
       "title": "竹本青：【OPPO A7 Pro Max 电池预热：第三代「完美球形硅碳」技术、新一代智能电池管理系统】 7月30日，OP…",
       "source": "竹本青",
@@ -539,26 +579,6 @@ window.phoneRadarAuto = {
         "行业",
         "爆料",
         "酷安博主"
-      ]
-    },
-    {
-      "id": "weibo-7b49df01265f",
-      "title": "数码闲聊站：今年天玑和骁龙2nm芯片都没什么独占期，新机都是前后脚登场，没有档期红利，全靠…",
-      "source": "数码闲聊站",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-07-31",
-      "time": "11:08",
-      "publishedAt": "2026-07-31T11:08:00.000Z",
-      "url": "https://weibo.com/6048569942/RbfGs3xRy",
-      "image": "",
-      "summary": "今年天玑和骁龙2nm芯片都没什么独占期，新机都是前后脚登场，没有档期红利，全靠硬实力了[捂嘴哭]",
-      "tags": [
-        "行业",
-        "爆料",
-        "微博"
       ]
     },
     {
@@ -722,26 +742,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "weibo-dc87761b0a5b",
-      "title": "数码闲聊站：荣耀Magic9系列新机暂定9月底，预计28前后，其它家档期也有提前不少，可以…",
-      "source": "数码闲聊站",
-      "brand": "HONOR",
-      "model": "HONOR 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-07-31",
-      "time": "09:08",
-      "publishedAt": "2026-07-31T09:08:00.000Z",
-      "url": "https://weibo.com/6048569942/RbeTK6GC4",
-      "image": "https://tvax1.sinaimg.cn/mw2000/006BlblIgy1ifn6ung4fxj30xv0jyq91.jpg",
-      "summary": "荣耀Magic9系列新机暂定9月底，预计28前后，其它家档期也有提前不少，可以自行推测嗷",
-      "tags": [
-        "HONOR",
-        "爆料",
-        "微博"
-      ]
-    },
-    {
       "id": "auto-7acd1e82aa04",
       "title": "Counterpoint：2026 年 Q2 全球智能手机营收同比增长 7%，苹果份额创历史新高、小米 OV 普遍下滑",
       "source": "IT之家",
@@ -782,26 +782,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "weibo-6d1199e3d368",
-      "title": "数码闲聊站：6.3-6.4英寸阔直屏新机，目前产品定义较高，有概率会划到Find，暂定和U…",
-      "source": "数码闲聊站",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-07-31",
-      "time": "07:12",
-      "publishedAt": "2026-07-31T07:12:00.000Z",
-      "url": "https://weibo.com/6048569942/Rbe8EDRqt",
-      "image": "",
-      "summary": "6.3-6.4英寸阔直屏新机，目前产品定义较高，有概率会划到Find，暂定和Ultra超大杯一起上[偷乐]",
-      "tags": [
-        "行业",
-        "爆料",
-        "微博"
-      ]
-    },
-    {
       "id": "coolapk-user-0d0ed1c6c19e",
       "title": "JSCHEN小小狐：荣耀 Robot Phone 影像预热：双 2 亿超大底",
       "source": "JSCHEN小小狐",
@@ -819,26 +799,6 @@ window.phoneRadarAuto = {
         "HONOR",
         "爆料",
         "酷安博主"
-      ]
-    },
-    {
-      "id": "weibo-57c52e71baf2",
-      "title": "数码闲聊站：REDMI K100 Pro+K100 Pro Max双杯齐发，K100今年晚…",
-      "source": "数码闲聊站",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-07-31",
-      "time": "05:34",
-      "publishedAt": "2026-07-31T05:34:00.000Z",
-      "url": "https://weibo.com/6048569942/RbduSvxvr",
-      "image": "https://tvax2.sinaimg.cn/mw2000/006BlblIgy1ifn1bf8ftzj30xv0d8wip.jpg",
-      "summary": "REDMI K100 Pro+K100 Pro Max双杯齐发，K100今年晚点儿上；Pro全系新基材超高刷RGB OLED直屏，Pro Max这个深红色喜欢吗？咳咳[doge]",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "微博"
       ]
     },
     {
@@ -919,26 +879,6 @@ window.phoneRadarAuto = {
         "Xiaomi",
         "爆料",
         "自动抓取"
-      ]
-    },
-    {
-      "id": "weibo-51995377b510",
-      "title": "数码闲聊站：REDMI K100 Pro Max，大R角直屏，一体化金属DECO，Bose…",
-      "source": "数码闲聊站",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-07-31",
-      "time": "01:03",
-      "publishedAt": "2026-07-31T01:03:17.000Z",
-      "url": "https://weibo.com/6048569942/RbbIZEHj3",
-      "image": "https://tvax4.sinaimg.cn/mw2000/006BlblIgy1ifmwaa1o6wj32641s7kj4.jpg",
-      "summary": "REDMI K100 Pro Max，大R角直屏，一体化金属DECO，Bose独立2.1声道扬声器，有一颗潜望长焦，深红色机身，同色金属中框，Pro系列定档8.11",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "微博"
       ]
     },
     {
@@ -1562,26 +1502,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "weibo-9a665c8dd6ba",
-      "title": "数码闲聊站：红米K100 Pro系列新机跑分和外观都看到了吧，骁龙8E5处理器，横向大矩阵…",
-      "source": "数码闲聊站",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-07-30",
-      "time": "06:16",
-      "publishedAt": "2026-07-30T06:16:00.000Z",
-      "url": "https://weibo.com/6048569942/Rb4lqAOpT",
-      "image": "",
-      "summary": "红米K100 Pro系列新机跑分和外观都看到了吧，骁龙8E5处理器，横向大矩阵Deco，Pro Max有外放质量很高的独立扬声器，主打综合体验增强[doge]",
-      "tags": [
-        "行业",
-        "爆料",
-        "微博"
-      ]
-    },
-    {
       "id": "auto-c9b222a798e1",
       "title": "Vivo S2 5G Leak Reveals Full Specs, Colours, and India Price Ahead of Launch",
       "source": "Gizmochina",
@@ -1619,26 +1539,6 @@ window.phoneRadarAuto = {
         "Xiaomi",
         "爆料",
         "自动抓取"
-      ]
-    },
-    {
-      "id": "weibo-53a7e488a9f1",
-      "title": "数码闲聊站：OriginOS7 Beta开始内测了，首批机型vivo X300 Pro、v…",
-      "source": "数码闲聊站",
-      "brand": "vivo",
-      "model": "vivo 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-07-30",
-      "time": "04:15",
-      "publishedAt": "2026-07-30T04:15:00.000Z",
-      "url": "https://weibo.com/6048569942/Rb3yjAijV",
-      "image": "",
-      "summary": "OriginOS7 Beta开始内测了，首批机型vivo X300 Pro、vivo X Fold6、iQOO15、vivo/iQOO Pad6 Pro，你们对OOS6有何期待？[笑哈哈]",
-      "tags": [
-        "vivo",
-        "爆料",
-        "微博"
       ]
     },
     {
