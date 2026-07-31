@@ -1,6 +1,386 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-07-30T23:17:47.624Z",
+  "updatedAt": "2026-07-31T03:48:18.144Z",
   "news": [
+    {
+      "id": "auto-d184537164d0",
+      "title": "起售价超 1.2 万美元：Caviar 推出定制版三星 Galaxy Z Fold 8 折叠屏手机，可选《教父》《疤面煞星》等主题",
+      "source": "IT之家",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-31",
+      "time": "03:32",
+      "publishedAt": "2026-07-31T03:32:24.000Z",
+      "url": "https://www.ithome.com/0/983/991.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/7/70234f82-2084-46dc-a064-6b44513cded6.jpg",
+      "summary": "IT之家 7 月 31 日消息，奢侈品制造商 Caviar 昨天宣布推出定制版三星 Galaxy Z Fold 8 折叠屏手机，可选《小丑》《教父》《疤面煞星》等主题，定价不菲。 据介绍，该系列手机被冠名“传奇”（Legends），背板采用独家定制设计，应用热掐丝珐琅工艺制作。 机身边框 、 摄像头区域均带有 24K 镀金 ，每款限量 19 台。 其中，《…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-687e630a3ba2",
+      "title": "Redmi K100 Pro Max set to launch on August 11, Cabernet Red variant officially showcased",
+      "source": "Gizmochina",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-31",
+      "time": "03:20",
+      "publishedAt": "2026-07-31T03:20:01.000Z",
+      "url": "https://www.gizmochina.com/2026/07/31/redmi-k100-pro-series-august-11-launch-pro-max-specs/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/07/Redmi-K100-Pro-Max-Cabarnet-Red-1-300x300.jpg?x23692",
+      "summary": "Redmi has officially confirmed that the K100 Pro series will debut on August 11, ending weeks of speculation. Alongside the launch date, the company has also outlined how the line…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-252010cc4294",
+      "title": "铁路 12306 新增 2026 级新生专属功能：可提前 20 天预约学生票",
+      "source": "IT之家",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-31",
+      "time": "03:18",
+      "publishedAt": "2026-07-31T03:18:12.000Z",
+      "url": "https://www.ithome.com/0/983/987.htm",
+      "image": "",
+      "summary": "IT之家 7 月 31 日消息，随着各大院校进入开学季，铁路将迎来学生旅客出行高峰，据央视新闻今天（7 月 31 日）援引国铁集团客运中心的消息称， 针对 2026 级新生预约购票，铁路 12306 新增了服务功能。 铁路 12306 手机客户端 8 月 1 日至 30 日新增新生预约功能，2026 级新生旅客在铁路 12306 完成实名注册并通过身份信息…",
+      "tags": [
+        "行业",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-9216fd9a088f",
+      "title": "竹本青：REDMI K100 Pro Max 爆料：全新 185Hz 超级像素屏等",
+      "source": "竹本青",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-07-31",
+      "time": "03:12",
+      "publishedAt": "2026-07-31T03:12:57.000Z",
+      "url": "https://www.coolapk.com/feed/73018008",
+      "image": "http://image.coolapk.com/feed/2026/0731/11/4248714_635cab1c_8389_2659_660@1272x1696.jpg",
+      "summary": "【REDMI K100 Pro Max官方爆料：全新185Hz 超级像素屏、更出色的拍摄体验】 7月31日，在2026 ChinaJoy展会现场，小米中国区市场部总经理 魏思琪 超前爆料REDMI K100 Pro Max手机配置： ● 性能：当代骁龙旗舰平台、独显芯片 ● 屏幕：全新超级像素技术，采用新型发光材料与Real RGB像素排列。除前代使用的红…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-d811d599cddd",
+      "title": "小米 REDMI K100 Pro Max 手机“赤霞珠红”配色亮相：6.9 英寸直屏，全新悬浮灯环设计",
+      "source": "IT之家",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-31",
+      "time": "02:47",
+      "publishedAt": "2026-07-31T02:47:07.000Z",
+      "url": "https://www.ithome.com/0/983/973.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/7/e9dc2b35-80ca-4bab-8c58-4d94d70bcdb1.jpg?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 7 月 31 日消息，小米 REDMI K100 Pro 系列手机双旗舰将于 8 月 11 日正式发布，官方今日提前公开了 REDMI K100 Pro Max 手机的 “赤霞珠红”配色 。 这款手机采用 6.9 英寸超窄边直屏，四曲包裹式金属，还有一体化金属 DECO， 以及全新悬浮灯环设计可随音乐律动 。IT之家附更多外观图如下： 根据博主…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-2752bd6a7517",
+      "title": "Omdia 数据：全球智能手机出货量 2026Q2 同比下降 6% 至 2.72 亿部",
+      "source": "IT之家",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-31",
+      "time": "01:54",
+      "publishedAt": "2026-07-31T01:54:17.000Z",
+      "url": "https://www.ithome.com/0/983/953.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/7/a29b10d2-691d-422f-b8a8-80b5cd59f9d6.png?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 7 月 31 日消息，Omdia 英国当地时间 30 日根据其统计数据表示， 全球智能手机市场在 2026 年第 2 季度录得 2.72 亿部的出货量 ， 同比下降 6% 。 ▲ 图源：Omdia 持续处于高位的内存价格扰乱了供应，增加了零部件成本，迫使智能手机制造商重新思考整体策略。 行业的重点正从最大化出货量转向保护利润率和平均销售价格 (A…",
+      "tags": [
+        "行业",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-be10df40bdb4",
+      "title": "谷歌 Pixel 11 Pro Fold 折叠屏手机渲染图曝光：非阔折叠，搭载 Glow LED 灯",
+      "source": "IT之家",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-31",
+      "time": "01:36",
+      "publishedAt": "2026-07-31T01:36:33.000Z",
+      "url": "https://www.ithome.com/0/983/949.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/7/cd9eefec-b870-4488-bb85-4a5b1629b11a.png?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 7 月 31 日消息，一批新的谷歌 Pixel 11 Pro Fold 渲染图已经曝光， 展示了新机的绿色外观 ，其设计与去年的机型类似，看起来似乎略薄了一些。 爆料人 Evan Blass 今日曝光了最新的渲染图，可以看到全新的摄像头设计、Glow LED，不过新机并未采用目前流行的阔折叠设计。 渲染图还显示，Pixel 11 Pro Fold…",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-123f96098ce5",
+      "title": "竹本青：REDMI K100 Pro Max 「赤霞珠红」正式亮相：6.9英寸直屏",
+      "source": "竹本青",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-07-31",
+      "time": "01:31",
+      "publishedAt": "2026-07-31T01:31:06.000Z",
+      "url": "https://www.coolapk.com/feed/73016646",
+      "image": "http://image.coolapk.com/feed/2026/0731/09/4248714_eef70ada_1459_4412_733@1080x1080.jpg",
+      "summary": "【REDMI K100 Pro Max 「赤霞珠红」正式亮相：6.9英寸直屏，一体化金属 DECO】 ● 6.9英寸超窄边直屏 ● 四曲包裹式金属中框 ● 一体化金属 DECO ● 全新悬浮灯环设计 #今日热点# #REDMIK100ProMax# #HyperOS3#",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "weibo-51995377b510",
+      "title": "数码闲聊站：REDMI K100 Pro Max，大R角直屏，一体化金属DECO，Bose…",
+      "source": "数码闲聊站",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-07-31",
+      "time": "01:03",
+      "publishedAt": "2026-07-31T01:03:17.000Z",
+      "url": "https://weibo.com/6048569942/RbbIZEHj3",
+      "image": "https://tvax4.sinaimg.cn/mw2000/006BlblIgy1ifmwaa1o6wj32641s7kj4.jpg",
+      "summary": "REDMI K100 Pro Max，大R角直屏，一体化金属DECO，Bose独立2.1声道扬声器，有一颗潜望长焦，深红色机身，同色金属中框，Pro系列定档8.11",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "微博"
+      ]
+    },
+    {
+      "id": "auto-033da39ad17a",
+      "title": "雅虎天气改版：预报更智能、信息更丰富，宣传主打“派对天气”",
+      "source": "IT之家",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-31",
+      "time": "00:36",
+      "publishedAt": "2026-07-31T00:36:27.000Z",
+      "url": "https://www.ithome.com/0/983/931.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/7/cba3210b-66b2-40a8-af3d-f399306bbd66.png",
+      "summary": "IT之家 7 月 31 日消息，雅虎（Yahoo）昨日（7 月 30 日）发布博文，宣布更新 iOS 和安卓平台的雅虎天气（Yahoo Weather）应用， 重构整体界面外，还新增增强雷达、交互式地图和 1 分钟级降水预报。 界面方面，官方表示新版雅虎天气应用围绕用户频繁查看天气、规划日程的需求重构，提供更智能的预报、增强的雷达功能和更丰富的天气信息。…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-9bbf43c61c96",
+      "title": "Apple announces changes to iOS in Brazil",
+      "source": "Apple Newsroom",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "官方",
+      "trust": "官方确认",
+      "date": "2026-07-31",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.apple.com/newsroom/2026/06/apple-announces-changes-to-ios-in-brazil/",
+      "image": "",
+      "summary": "Apple today announced changes impacting iOS apps in Brazil that reflect a recent agreement with Brazil’s competition regulator, CADE.",
+      "tags": [
+        "iPhone",
+        "官方",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "newsnow-cd77ca1ea760",
+      "title": "我的出行好伙伴，用 iPhone 一站式解决旅途痛点",
+      "source": "少数派热榜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-07-31",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://sspai.com/post/112044",
+      "image": "",
+      "summary": "我的出行好伙伴，用 iPhone 一站式解决旅途痛点",
+      "tags": [
+        "iPhone",
+        "评测",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-5f6cf09fb22c",
+      "title": "iPhone Air 当主力机用了三个多月后，我为什么还是换不掉它",
+      "source": "少数派热榜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-07-31",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://sspai.com/post/111113",
+      "image": "",
+      "summary": "iPhone Air 当主力机用了三个多月后，我为什么还是换不掉它",
+      "tags": [
+        "iPhone",
+        "评测",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-a199b0a0a792",
+      "title": "快捷指令｜让 iPhone 用上锤子的「大爆炸」",
+      "source": "少数派热榜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-07-31",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://sspai.com/post/111405",
+      "image": "",
+      "summary": "快捷指令｜让 iPhone 用上锤子的「大爆炸」",
+      "tags": [
+        "iPhone",
+        "评测",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-e8ce8f4bed8c",
+      "title": "在玻纤后盖滚出手机市场之前，不会再换手机了，国际大厂没有一家去用玻纤这种垃圾材质的",
+      "source": "酷安热榜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-07-31",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/73009887",
+      "image": "",
+      "summary": "在玻纤后盖滚出手机市场之前，不会再换手机了，国际大厂没有一家去用玻纤这种垃圾材质的",
+      "tags": [
+        "行业",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-cdae4c4e2f5f",
+      "title": "REDMI K100 Pro系列外观曝光：配备后置扬声器",
+      "source": "酷安热榜",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-07-31",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/73006188",
+      "image": "",
+      "summary": "REDMI K100 Pro系列外观曝光：配备后置扬声器",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-ffee51ded860",
+      "title": "有没有大佬是天津的，求帮忙，仔仔十天了，为了不想让宝宝成为留守儿童，决定买房买房到底选择哪个软件，我想买个40个的二手房有电梯，有地铁，生活和教育相对还比较方便的，滨海和北辰西青，津南，静海都可以，到底链家还是贝壳还是安居客，也算刚需吧，怕被中介坑的一愣一愣的[流泪] #华为Mate80ProMax#",
+      "source": "酷安热榜",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-07-31",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/72998098",
+      "image": "",
+      "summary": "有没有大佬是天津的，求帮忙，仔仔十天了，为了不想让宝宝成为留守儿童，决定买房买房到底选择哪个软件，我想买个40个的二手房有电梯，有地铁，生活和教育相对还比较方便的，滨海和北辰西青，津南，静海都可以，到底链家还是贝壳还是安居客，也算刚需吧，怕被中介坑的一愣一愣的[流泪] #华为Mate80ProMax#",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-6e4e93680978",
+      "title": "我发现这手机会来月经",
+      "source": "酷安热榜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-07-31",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/73004112",
+      "image": "",
+      "summary": "我发现这手机会来月经",
+      "tags": [
+        "行业",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-c5a63fe810e2",
+      "title": "女子做检查身亡 丈夫称麻醉师玩手机",
+      "source": "今日头条热榜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-07-31",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.toutiao.com/trending/7667884087532817963/",
+      "image": "",
+      "summary": "女子做检查身亡 丈夫称麻醉师玩手机",
+      "tags": [
+        "行业",
+        "爆料",
+        "NewsNow"
+      ]
+    },
     {
       "id": "auto-c1cfce9023b5",
       "title": "Caviar launches ultra-luxury Galaxy Z Fold 8 collection with cinematic icons & 24K gold finishes",
@@ -17,26 +397,6 @@ window.phoneRadarAuto = {
       "summary": "Luxury device customizer Caviar has announced a new line of modified Samsung Galaxy Z Fold 8 and Z Fold 8 Ultra smartphones. The Legends collection introduces three new designs ba…",
       "tags": [
         "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-100348915fae",
-      "title": "消息称 iPhone 18 Pro 将混用苹果 C2 / 高通基带，国行机型有望用上实体 SIM+eSIM",
-      "source": "IT之家",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-30",
-      "time": "22:46",
-      "publishedAt": "2026-07-30T22:46:56.000Z",
-      "url": "https://www.ithome.com/0/983/911.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/7/6e311e43-7b44-4bdc-a230-2037c4dd195c.jpg?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 7 月 31 日消息，据科技媒体 AppleInsider 昨天报道，苹果 iPhone 18 Pro 可能会根据销售地区不同，采用两种不同的基带。塔塔电子此前泄露文件显示， 苹果计划在部分国际市场版本使用自研 C2 基带 ， 美国版本则可能继续使用高通基带 ，以支持 5G 毫米波（IT之家注：mmWave）功能。 据报道，美版 iPhone 1…",
-      "tags": [
-        "iPhone",
         "爆料",
         "自动抓取"
       ]
@@ -362,26 +722,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "coolapk-user-3eb311410ada",
-      "title": "竹本青：小米澎程系列9月正式发布，已开启预订",
-      "source": "竹本青",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-07-30",
-      "time": "12:54",
-      "publishedAt": "2026-07-30T12:54:10.000Z",
-      "url": "https://www.coolapk.com/feed/73011347",
-      "image": "http://image.coolapk.com/feed/2026/0730/21/4248714_a92d1246_8374_668_197@1440x1920.jpg",
-      "summary": "【小米澎程系列：9月正式发布，N90／N70 Max现已开启预订】 N70 Max —— 预售25.99万元 N90 Max —— 预售29.99万元 7月30日，小米澎程公布N90／N70 Max预售价，两款车型即日起开启预订，将在今年9月正式发布。 官方提示，车型意向金1000元，发布后随时可退，锁单可享优先排产，提车将送价值999元的车载桌板双杯托版…",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
       "id": "auto-d6fc8508ccce",
       "title": "Huawei Pura X Max sales scored more than 600000 units in week 29 of 2026",
       "source": "Huawei Central",
@@ -397,26 +737,6 @@ window.phoneRadarAuto = {
       "summary": "A Weibo tipster has now revealed the sales details of the Huawei Pura X Max series, which has now reached 600000 units. The wide foldable has achieved a significant score in the C…",
       "tags": [
         "Huawei",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-44a7d627d76d",
-      "title": "三星高管暗示 Galaxy S26 FE 手机将至，有望亮相 2026 年 IFA 展会",
-      "source": "IT之家",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-30",
-      "time": "12:22",
-      "publishedAt": "2026-07-30T12:22:39.000Z",
-      "url": "https://www.ithome.com/0/983/870.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/7/5171b5da-25d7-4101-84d2-070b02c06d6a.jpg?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 7 月 30 日消息，三星似乎已经间接确认，Galaxy S26 FE 将很快正式发布。 Galaxy S25 FE 据 Android Authority 报道，该媒体上周在三星 Unpacked 发布会前参加了三星南非举办的一场媒体沟通会。期间，三星方面几乎确认了 Galaxy S26 FE 即将到来。 当时，有人向三星南非高管 Justin…",
-      "tags": [
-        "Samsung",
         "爆料",
         "自动抓取"
       ]
@@ -859,666 +1179,6 @@ window.phoneRadarAuto = {
         "行业",
         "评测",
         "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-9bbf43c61c96",
-      "title": "Apple announces changes to iOS in Brazil",
-      "source": "Apple Newsroom",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "官方",
-      "trust": "官方确认",
-      "date": "2026-07-30",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.apple.com/newsroom/2026/06/apple-announces-changes-to-ios-in-brazil/",
-      "image": "",
-      "summary": "Apple today announced changes impacting iOS apps in Brazil that reflect a recent agreement with Brazil’s competition regulator, CADE.",
-      "tags": [
-        "iPhone",
-        "官方",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "newsnow-bf7fae5ef046",
-      "title": "我的出行好伙伴，用 iPhone 一站式解决旅途痛点",
-      "source": "少数派热榜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "评测",
-      "trust": "媒体汇总",
-      "date": "2026-07-30",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://sspai.com/post/112044",
-      "image": "",
-      "summary": "我的出行好伙伴，用 iPhone 一站式解决旅途痛点",
-      "tags": [
-        "iPhone",
-        "评测",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-c75a0ef8c470",
-      "title": "iPhone Air 当主力机用了三个多月后，我为什么还是换不掉它",
-      "source": "少数派热榜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "评测",
-      "trust": "媒体汇总",
-      "date": "2026-07-30",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://sspai.com/post/111113",
-      "image": "",
-      "summary": "iPhone Air 当主力机用了三个多月后，我为什么还是换不掉它",
-      "tags": [
-        "iPhone",
-        "评测",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-43c1ba4a6da0",
-      "title": "快捷指令｜让 iPhone 用上锤子的「大爆炸」",
-      "source": "少数派热榜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "评测",
-      "trust": "媒体汇总",
-      "date": "2026-07-30",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://sspai.com/post/111405",
-      "image": "",
-      "summary": "快捷指令｜让 iPhone 用上锤子的「大爆炸」",
-      "tags": [
-        "iPhone",
-        "评测",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-fe19235e9a0a",
-      "title": "在玻纤后盖滚出手机市场之前，不会再换手机了，国际大厂没有一家去用玻纤这种垃圾材质的",
-      "source": "酷安热榜",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-07-30",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73009887",
-      "image": "",
-      "summary": "在玻纤后盖滚出手机市场之前，不会再换手机了，国际大厂没有一家去用玻纤这种垃圾材质的",
-      "tags": [
-        "行业",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-0436fe5fb0bb",
-      "title": "REDMI K100 Pro系列外观曝光：配备后置扬声器",
-      "source": "酷安热榜",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-07-30",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73006188",
-      "image": "",
-      "summary": "REDMI K100 Pro系列外观曝光：配备后置扬声器",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-cca923521885",
-      "title": "有没有大佬是天津的，求帮忙，仔仔十天了，为了不想让宝宝成为留守儿童，决定买房买房到底选择哪个软件，我想买个40个的二手房有电梯，有地铁，生活和教育相对还比较方便的，滨海和北辰西青，津南，静海都可以，到底链家还是贝壳还是安居客，也算刚需吧，怕被中介坑的一愣一愣的[流泪] #华为Mate80ProMax#",
-      "source": "酷安热榜",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-07-30",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/72998098",
-      "image": "",
-      "summary": "有没有大佬是天津的，求帮忙，仔仔十天了，为了不想让宝宝成为留守儿童，决定买房买房到底选择哪个软件，我想买个40个的二手房有电梯，有地铁，生活和教育相对还比较方便的，滨海和北辰西青，津南，静海都可以，到底链家还是贝壳还是安居客，也算刚需吧，怕被中介坑的一愣一愣的[流泪] #华为Mate80ProMax#",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-638af179bb99",
-      "title": "2020 年，回头看仍是机圈极具魔幻现实主义色彩的一年。厂商大喊 “5G 元年”，对换机用户而言却是 “涨价元年”—— 旗舰机型仿佛统一了口径，集体上调八百至一千的价格，携手迈入3999的时代。",
-      "source": "酷安热榜",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-07-30",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/70266966",
-      "image": "",
-      "summary": "2020 年，回头看仍是机圈极具魔幻现实主义色彩的一年。厂商大喊 “5G 元年”，对换机用户而言却是 “涨价元年”—— 旗舰机型仿佛统一了口径，集体上调八百至一千的价格，携手迈入3999的时代。",
-      "tags": [
-        "行业",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-73d3d4e8b416",
-      "title": "男生每天躺玩手机超5小时患血栓",
-      "source": "今日头条热榜",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-30",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.toutiao.com/trending/7668165665089683519/",
-      "image": "",
-      "summary": "男生每天躺玩手机超5小时患血栓",
-      "tags": [
-        "行业",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-d9d669c66c33",
-      "title": "别对着陌生人的手机念数字",
-      "source": "百度热搜",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-30",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.baidu.com/s?wd=%E5%88%AB%E5%AF%B9%E7%9D%80%E9%99%8C%E7%94%9F%E4%BA%BA%E7%9A%84%E6%89%8B%E6%9C%BA%E5%BF%B5%E6%95%B0%E5%AD%97",
-      "image": "",
-      "summary": "别对着陌生人的手机念数字",
-      "tags": [
-        "行业",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-314712e93469",
-      "title": "女子手机遭远程操控转账 民警拔卡",
-      "source": "百度热搜",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-30",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E6%89%8B%E6%9C%BA%E9%81%AD%E8%BF%9C%E7%A8%8B%E6%93%8D%E6%8E%A7%E8%BD%AC%E8%B4%A6+%E6%B0%91%E8%AD%A6%E6%8B%94%E5%8D%A1",
-      "image": "",
-      "summary": "女子手机遭远程操控转账 民警拔卡",
-      "tags": [
-        "行业",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "auto-e0b5298d6170",
-      "title": "Google’s latest Play update has finally fixed that pesky Pixel boot loop problem",
-      "source": "Android Authority",
-      "brand": "Pixel",
-      "model": "Pixel 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-29",
-      "time": "20:13",
-      "publishedAt": "2026-07-29T20:13:55.000Z",
-      "url": "https://www.androidauthority.com/play-pixel-4a-boot-loop-fix-3692564/",
-      "image": "",
-      "summary": "Pixel 4a users report Google’s new update finally ends the reboot glitches.",
-      "tags": [
-        "Pixel",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-56fdadba58a9",
-      "title": "Google’s putting Pixel Glow front and center in the latest Pixel 11 Pro teaser",
-      "source": "Android Authority",
-      "brand": "Pixel",
-      "model": "Pixel 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-29",
-      "time": "18:20",
-      "publishedAt": "2026-07-29T18:20:57.000Z",
-      "url": "https://www.androidauthority.com/pixel-11-pro-glow-teaser-3692525/",
-      "image": "",
-      "summary": "Pixel Glow just can't stop spinning.",
-      "tags": [
-        "Pixel",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-795bb558c7db",
-      "title": "New Pixel 11 Pro ‘next obvious move’ teaser provides better look at Glow [Video]",
-      "source": "9to5Google",
-      "brand": "Pixel",
-      "model": "Pixel 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-29",
-      "time": "16:55",
-      "publishedAt": "2026-07-29T16:55:56.000Z",
-      "url": "https://9to5google.com/2026/07/29/pixel-11-pro-teaser-2/",
-      "image": "",
-      "summary": "With Made by Google 2026 now two weeks away, Google has released a new Pixel 11 Pro teaser this morning.",
-      "tags": [
-        "Pixel",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-60d6aebd80da",
-      "title": "Samsung’s Galaxy S26 FE pricing leaks, and it’s bad news for budget hunters",
-      "source": "Android Central",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "评测",
-      "trust": "媒体汇总",
-      "date": "2026-07-29",
-      "time": "16:45",
-      "publishedAt": "2026-07-29T16:45:00.000Z",
-      "url": "https://www.androidcentral.com/phones/samsung-galaxy/samsungs-galaxy-s26-fe-pricing-leaks-and-its-bad-news-for-budget-hunters",
-      "image": "https://cdn.mos.cms.futurecdn.net/7tF3GgW37VhPfKZNvsHHSF-1280-80.jpg",
-      "summary": "Samsung's Galaxy S26 FE is rumored to hit shelves September 1 with fresh colors and a flagship design, but expect steep price hikes across all storage tiers.",
-      "tags": [
-        "Samsung",
-        "评测",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-e80c1ea8da98",
-      "title": "Score $1,100 OFF the Samsung Galaxy Z Fold 8 with new T-Mobile deal — no trade-in required!",
-      "source": "Android Central",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "评测",
-      "trust": "媒体汇总",
-      "date": "2026-07-29",
-      "time": "15:45",
-      "publishedAt": "2026-07-29T15:45:20.000Z",
-      "url": "https://www.androidcentral.com/phones/samsung-galaxy/score-usd1-100-off-the-samsung-galaxy-z-fold-8-with-new-t-mobile-deal-no-trade-in-required",
-      "image": "https://cdn.mos.cms.futurecdn.net/WExALYGSatwUuFbyze7jh3-1280-80.jpg",
-      "summary": "Add a line with T-Mobile's Experience More or Experience Beyond plan and you'll score $1,100 off your Galaxy Z Fold 8 preorder.",
-      "tags": [
-        "Samsung",
-        "评测",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-e2118094f6e0",
-      "title": "The best Galaxy Z Fold 8 deal is at Amazon — boosted trade-in plus $350 gift card",
-      "source": "9to5Google",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-29",
-      "time": "15:25",
-      "publishedAt": "2026-07-29T15:25:00.000Z",
-      "url": "https://9to5google.com/2026/07/29/samsung-galaxy-z-fold-8-amazon-pre-order-deal-boosted-trade-in-gift-card/",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/07/Galaxy-Z-Fold-8-and-Z-Fold-8-Ultra-devices-6.jpg?quality=82&strip=all&w=1600",
-      "summary": "Samsung’s latest foldables are finally up for pre-order, but unlike past launches, the best deal you’ll actually find isn’t on the company’s own website — it’s at Amazon. Whether…",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-b2cf7da86650",
-      "title": "iPhone 18 Pro vs iPhone Ultra: Here are the biggest differences",
-      "source": "9to5Mac",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-29",
-      "time": "15:18",
-      "publishedAt": "2026-07-29T15:18:29.000Z",
-      "url": "https://9to5mac.com/2026/07/29/iphone-18-pro-vs-iphone-ultra-here-are-biggest-differences/",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/05/iphone-17-pro-blue-angle-two.jpg?quality=82&strip=all&w=1600",
-      "summary": "Apple’s fall iPhone lineup this year is rumored to revolve around iPhone 18 Pro and iPhone Ultra . Here are the three biggest feature differences—not counting price—that may influ…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-274a7fbc95ad",
-      "title": "Galaxy S26 FE leak could be a bad sign for the pricing",
-      "source": "Android Authority",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-29",
-      "time": "15:06",
-      "publishedAt": "2026-07-29T15:06:28.000Z",
-      "url": "https://www.androidauthority.com/galaxy-s26-fe-pricing-colors-storage-3692422/",
-      "image": "https://www.androidauthority.com/wp-content/uploads/2025/09/Samsung-Galaxy-S25-FE-against-wall-showing-back.jpg",
-      "summary": "The leak also reveals the colors, storage options, and more.",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-2d0b38375187",
-      "title": "Galaxy Z Fold 8 can automatically unlock screen rotation when you open it up",
-      "source": "9to5Google",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-29",
-      "time": "15:05",
-      "publishedAt": "2026-07-29T15:05:00.000Z",
-      "url": "https://9to5google.com/2026/07/29/samsung-galaxy-z-fold-8-screen-rotation-setting/",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/07/galaxy-z-fold-8-series-43.jpg?quality=82&strip=all&w=1600",
-      "summary": "Samsung has quietly introduced a nice quality-of-life feature on the Galaxy Z Fold 8 series, where its new foldables can automatically unlock screen rotation when you use the inne…",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-b72fd45b0a83",
-      "title": "iPhone driver’s license looks set to roll out to a 15th US state",
-      "source": "9to5Mac",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-29",
-      "time": "13:52",
-      "publishedAt": "2026-07-29T13:52:57.000Z",
-      "url": "https://9to5mac.com/2026/07/29/iphone-drivers-license-looks-set-to-roll-out-to-a-15th-us-state/",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/iPhone-driving-license-looks-set-to-roll-out-to-a-15th-US-state.webp?w=1500",
-      "summary": "The ability to add a digital version of your driver’s license to your iPhone looks like it will be rolling out to a 15th US state before too long. Apple currently lists 14 states…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-65c7b66fec0c",
-      "title": "Samsung has restocked Galaxy Z Fold 8’s popular ‘Pistachio’ color, shipping in August",
-      "source": "9to5Google",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-29",
-      "time": "13:35",
-      "publishedAt": "2026-07-29T13:35:00.000Z",
-      "url": "https://9to5google.com/2026/07/29/samsung-has-restocked-galaxy-z-fold-8s-popular-pistachio-color-shipping-in-august/",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/07/Fold-8-in-Pistachio.jpg?quality=82&strip=all&w=1600",
-      "summary": "Following a brief sell-out and heavy delay on shipping, Samsung has seemingly restocked the “Pistachio” Galaxy Z Fold 8 in the US, with shipment dates moved up to August.",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-88f92aa94408",
-      "title": "Galaxy S26 FE filing reveals faster charging speed than S26 and Z Flip 8",
-      "source": "Android Authority",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-29",
-      "time": "13:19",
-      "publishedAt": "2026-07-29T13:19:15.000Z",
-      "url": "https://www.androidauthority.com/samsung-galaxy-s26-fe-charging-speed-leak-3692384/",
-      "image": "https://www.androidauthority.com/wp-content/uploads/2025/09/Samsung-Galaxy-S25-FE-against-wall-showing-back.jpg",
-      "summary": "It's not as fast as rival phones, but it still beats Samsung's own Galaxy S26.",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-ffad8b65810f",
-      "title": "HBO Max Shorts being tested on iPhone users in latest vertical video offensive",
-      "source": "9to5Mac",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-29",
-      "time": "11:39",
-      "publishedAt": "2026-07-29T11:39:22.000Z",
-      "url": "https://9to5mac.com/2026/07/29/hbo-max-shorts-being-tested-on-iphone-users-in-latest-vertical-video-offensive/",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/HBO-Max-Shorts-being-tested-on-iPhone-users-in-latest-vertical-video-offensive.jpg?quality=82&strip=all&w=1600",
-      "summary": "Warner Bros has announced that it is inflicting testing a new format on select iPhone users in the US: HBO Max Shorts. As if vertical video weren’t bad enough, the media giant has…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-f7412ac24f47",
-      "title": "Galaxy Z Fold 8 series records Samsung’s fastest pre-orders in India",
-      "source": "Gizmochina",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-29",
-      "time": "09:34",
-      "publishedAt": "2026-07-29T09:34:31.000Z",
-      "url": "https://www.gizmochina.com/2026/07/29/samsung-galaxy-z-fold-8-ultra-fold-8-flip-8-record-pre-orders-india/",
-      "image": "https://www.gizmochina.com/wp-content/uploads/2026/07/Samsung-Mobile-Galaxy-Unpacked-July-2026-Galaxy-Z-Fold8-Ultra-Galaxy-Z-Fold8-Galaxy-Z-Flip8-Launch_main1_F-300x200.jpg?x23692",
-      "summary": "Samsung’s latest foldable smartphones have got off to a strong start in India. The Galaxy Z Fold 8 Ultra, Galaxy Z Fold 8 and Galaxy Z Flip 8 have achieved a new milestone shortly…",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-386402a5540d",
-      "title": "Samsung Galaxy Z Fold8 vs Vivo X Fold6: Full Comparison of Specs, Camera, Battery & Price",
-      "source": "Gizmochina",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-29",
-      "time": "09:08",
-      "publishedAt": "2026-07-29T09:08:06.000Z",
-      "url": "https://www.gizmochina.com/2026/07/29/samsung-galaxy-z-fold8-vs-vivo-x-fold6/",
-      "image": "https://www.gizmochina.com/wp-content/uploads/2026/07/image-103-300x190.png?x23692",
-      "summary": "The biggest battle in the foldable world isn’t about who folds better, it’s about who delivers the complete package. Samsung arrives with years of software refinement, while Vivo…",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-b34e43eba46f",
-      "title": "Google Pixel 11 Pro vs. Pixel 10 Pro: Should you bump your Pixel Pro to the newest one when it comes out?",
-      "source": "Android Central",
-      "brand": "Pixel",
-      "model": "Pixel 相关机型",
-      "type": "评测",
-      "trust": "媒体汇总",
-      "date": "2026-07-29",
-      "time": "08:26",
-      "publishedAt": "2026-07-29T08:26:46.000Z",
-      "url": "https://www.androidcentral.com/phones/google-pixel/google-pixel-11-pro-vs-pixel-10-pro",
-      "image": "https://cdn.mos.cms.futurecdn.net/TnpFPnouK6wRZUu93pnRCQ-1280-80.jpg",
-      "summary": "We're right around the corner from the Pixel 11 Pro launch, prompting us to investigate whether Pixel 10 Pro users should upgrade.",
-      "tags": [
-        "Pixel",
-        "评测",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-85890da82530",
-      "title": "The Galaxy Z Fold 8 series just gained a useful screen trick I hope Google copies",
-      "source": "Android Authority",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-29",
-      "time": "06:26",
-      "publishedAt": "2026-07-29T06:26:26.000Z",
-      "url": "https://www.androidauthority.com/samsung-galaxy-z-fold-8-series-auto-rotate-screens-3692189/",
-      "image": "https://www.androidauthority.com/wp-content/uploads/2026/07/Galaxy-Z-Fold-8.-in-hand-display-on.jpg",
-      "summary": "Samsung is taking the pain out of screen orientation on Fold devices.",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-a9dfe2fe8efb",
-      "title": "Oppo Find X9 Ultra misses top spot in DxOMark camera ranking",
-      "source": "Gizmochina",
-      "brand": "OPPO",
-      "model": "OPPO 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-29",
-      "time": "04:39",
-      "publishedAt": "2026-07-29T04:39:27.000Z",
-      "url": "https://www.gizmochina.com/2026/07/29/oppo-find-x9-ultra-misses-top-spot-in-dxomark-camera-ranking/",
-      "image": "https://www.gizmochina.com/wp-content/uploads/2026/07/OPPO-Find-X9-Ultra-Review_1.mp4_20260521_143620.762-1024x512-1-300x169.jpg?x23692",
-      "summary": "The Oppo Find X9 Ultra, packing dual 200-megapixel Hasselblad-tuned sensors, just went through DxOMark’s full testing and came away with a solid, but not quite chart-topping, resu…",
-      "tags": [
-        "OPPO",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-40c67256ba09",
-      "title": "Upcoming Redmi K100 series phones visits Geekbench with Snapdragon 8 Elite Gen 5",
-      "source": "Gizmochina",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-29",
-      "time": "03:59",
-      "publishedAt": "2026-07-29T03:59:52.000Z",
-      "url": "https://www.gizmochina.com/2026/07/29/redmi-k100-series-phone-geekbench-listing/",
-      "image": "https://www.gizmochina.com/wp-content/uploads/2025/10/REDMI-K90-Pro-Max-Review_1.mp4_20251031_111302.098-300x150.jpg?x23692",
-      "summary": "Redmi has started teasing the Redmi K100 series in China. Scheduled to be showcased at the ChinaJoy 2026 event, the new lineup is expected to go official in August. Ahead of the e…",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "coolapk-user-818443ecd46c",
-      "title": "JSCHEN小小狐：全新华为 MateBook Fold 非凡大师三色亮相",
-      "source": "JSCHEN小小狐",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-07-29",
-      "time": "03:05",
-      "publishedAt": "2026-07-29T03:05:24.000Z",
-      "url": "https://www.coolapk.com/feed/72988460",
-      "image": "http://image.coolapk.com/feed/2026/0729/11/4702274_ab357f4e_4323_1553_101@3000x1500.jpg",
-      "summary": "『全新华为 MateBook Fold 非凡大师三色亮相』 ◇ 流光金、幻影黑、天际白 ◇ OLED 可折叠超大屏 ◇ 麒麟 X9 系处理器 版本： 24GB + 512GB / 24GB + 1TB / 32GB + 2TB #今日热点# #华为MateBookFold非凡大师#",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
-      "id": "weibo-6867b00dda5f",
-      "title": "数码闲聊站：独家信息：子系7英寸2K中端性能机摸到了，正面就是大R角纯直屏，金属中框，镜头…",
-      "source": "数码闲聊站",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-07-29",
-      "time": "02:38",
-      "publishedAt": "2026-07-29T02:38:00.000Z",
-      "url": "https://weibo.com/6048569942/RaTurDuip",
-      "image": "",
-      "summary": "独家信息，子系7英寸2K中端性能机摸到了，正面就是大R角纯直屏，金属中框，镜头Deco是类Air那种条形跑道，主打一个简约设计，喜欢吗~",
-      "tags": [
-        "行业",
-        "爆料",
-        "微博"
-      ]
-    },
-    {
-      "id": "coolapk-user-f279a2ff0d35",
-      "title": "JSCHEN小小狐：『华为 MateBook Pro S 外观亮相：五款配色』 配色： 仲夏紫、晨曦黄、烟云灰、丝绒白、羽砂黑 ◇ 整…",
-      "source": "JSCHEN小小狐",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-07-29",
-      "time": "02:34",
-      "publishedAt": "2026-07-29T02:34:50.000Z",
-      "url": "https://www.coolapk.com/feed/72988043",
-      "image": "http://image.coolapk.com/feed/2026/0729/10/4702274_6826bebe_2487_8512_743@2560x1440.jpg",
-      "summary": "『华为 MateBook Pro S 外观亮相：五款配色』 配色： 仲夏紫、晨曦黄、烟云灰、丝绒白、羽砂黑 ◇ 整机仅重 798g ◇ 2 × USB-C 接口 ◇ 配备后置摄像头 #今日热点# #华为MateBookPro# #华为MateBookProS#",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "酷安博主"
       ]
     }
   ]
