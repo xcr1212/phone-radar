@@ -1,5 +1,5 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-07-31T10:50:09.950Z",
+  "updatedAt": "2026-07-31T14:33:48.794Z",
   "issueDate": "2026-07-31",
   "issue": "VOL.260731",
   "title": "手机情报日报",
@@ -42,6 +42,29 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
+          "id": "auto-3c242f8d50df",
+          "title": "iPhone 相关消息",
+          "originalTitle": "",
+          "source": "MacRumors",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-07-31",
+          "time": "12:27",
+          "publishedAt": "2026-07-31T12:27:01.000Z",
+          "url": "https://www.macrumors.com/2026/07/31/iphone-18-pro-models-300-more-expensive/",
+          "image": "https://images.macrumors.com/article-new/2026/02/iPhone-18-Pro-Deep-Red-Feature.jpg",
+          "verdict": "先看",
+          "takeaway": "iPhone 相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
+          "detail": "iPhone 相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
+          "keyPoints": [
+            "成本 / 价格"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
           "id": "auto-ec90250583fd",
           "title": "iPhone 发布 / 上市相关消息",
           "originalTitle": "",
@@ -65,23 +88,23 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
-          "id": "auto-df1f343f21b4",
-          "title": "iPhone 相关消息",
+          "id": "auto-5878f4e51f9d",
+          "title": "三星 Galaxy S26 FE 相机参数曝光：50MP 主摄 + 8MP 长焦",
           "originalTitle": "",
-          "source": "MacRumors",
-          "brand": "iPhone",
+          "source": "IT之家",
+          "brand": "Samsung",
           "type": "爆料",
           "trust": "媒体汇总",
-          "date": "2026-07-30",
-          "time": "11:59",
-          "publishedAt": "2026-07-30T11:59:18.000Z",
-          "url": "https://www.macrumors.com/2026/07/30/when-will-apple-announce-iphone-18-pro-event/",
-          "image": "https://images.macrumors.com/article-new/2026/04/Four-iPhone-18-Pro-Colors-Mock-Feature.jpg",
+          "date": "2026-07-31",
+          "time": "13:24",
+          "publishedAt": "2026-07-31T13:24:41.000Z",
+          "url": "https://www.ithome.com/0/984/381.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/7/5171b5da-25d7-4101-84d2-070b02c06d6a.jpg?x-bce-process=image/auto-orient,o_1",
           "verdict": "先看",
-          "takeaway": "iPhone 相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
-          "detail": "iPhone 相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
+          "takeaway": "IT之家 7 月 31 日消息，Android Authority 今日披露了 三星 Galaxy S26 FE 的相机规格信息。 该机内部代号为“r14”，延续了 Galaxy S24 FE（r12）和 Galaxy S25 FE（r13）的命名逻辑。 相机方面，Galaxy S26 FE 主摄采用了 50MP 的三星 ISOCELL S5KGN3 传感…",
+          "detail": "IT之家 7 月 31 日消息，Android Authority 今日披露了 三星 Galaxy S26 FE 的相机规格信息。 该机内部代号为“r14”，延续了 Galaxy S24 FE（r12）和 Galaxy S25 FE（r13）的命名逻辑。 相机方面，Galaxy S26 FE 主摄采用了 50MP 的三星 ISOCELL S5KGN3 传感…",
           "keyPoints": [
-            "爆料"
+            "影像硬件"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
@@ -104,31 +127,6 @@ window.phoneRadarDaily = {
           "takeaway": "IT之家 7 月 31 日消息，博主 @数码闲聊站 今日爆料，荣耀 Magic 9 系列新机暂定 9 月底发布，预计 28 日前后，其它家档期也有提前不少。 据其爆料，大概率 9 月登场的直板新机包括 iPhone 18 系列、华为 Mate 90 系列、vivo X500 系列、OPPO Find X10 系列、小米 18 系列、荣耀 Magic9 系列…",
           "detail": "IT之家 7 月 31 日消息，博主 @数码闲聊站 今日爆料，荣耀 Magic 9 系列新机暂定 9 月底发布，预计 28 日前后，其它家档期也有提前不少。 据其爆料，大概率 9 月登场的直板新机包括 iPhone 18 系列、华为 Mate 90 系列、vivo X500 系列、OPPO Find X10 系列、小米 18 系列、荣耀 Magic9 系列…",
           "keyPoints": [
-            "爆料来源"
-          ],
-          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "auto-e21ebf931f04",
-          "title": "消息称 6.3-6.4 英寸 OPPO 阔直屏新机产品定义较高，有概率会划到 Find",
-          "originalTitle": "",
-          "source": "IT之家",
-          "brand": "OPPO",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-07-31",
-          "time": "08:26",
-          "publishedAt": "2026-07-31T08:26:04.000Z",
-          "url": "https://www.ithome.com/0/984/245.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/7/b3262eb8-30c7-4c35-9c59-5a4a34f27f71.png?x-bce-process=image/format,f_auto",
-          "verdict": "先看",
-          "takeaway": "IT之家 7 月 31 日消息，博主 @数码闲聊站 今日爆料，某厂 6.3-6.4 英寸阔直屏新机，目前产品定义较高，有概率会划到 Find， 暂定和 Ultra 超大杯一起上 。从该博主的描述看，该机预计为 OPPO 旗下。 该博主此前爆料，某厂商的阔直板手机尺寸采用极窄四等边 1.5K LTPO， 内部排期明年上半年 。该条爆料同样指向 OPPO 品牌…",
-          "detail": "IT之家 7 月 31 日消息，博主 @数码闲聊站 今日爆料，某厂 6.3-6.4 英寸阔直屏新机，目前产品定义较高，有概率会划到 Find， 暂定和 Ultra 超大杯一起上 。从该博主的描述看，该机预计为 OPPO 旗下。 该博主此前爆料，某厂商的阔直板手机尺寸采用极窄四等边 1.5K LTPO， 内部排期明年上半年 。该条爆料同样指向 OPPO 品牌…",
-          "keyPoints": [
-            "外观 / 配色 / 尺寸",
-            "屏幕形态",
             "爆料来源"
           ],
           "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
