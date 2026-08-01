@@ -1,6 +1,166 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-08-01T06:39:52.474Z",
+  "updatedAt": "2026-08-01T10:09:03.238Z",
   "news": [
+    {
+      "id": "coolapk-user-fdda4b89fe16",
+      "title": "竹本青：荣耀 Play11 Pro 手机开启预约，8+256GB售价2099元 #今日热点# #荣耀Play11Plus#…",
+      "source": "竹本青",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-08-01",
+      "time": "09:50",
+      "publishedAt": "2026-08-01T09:50:21.000Z",
+      "url": "https://www.coolapk.com/feed/73037654",
+      "image": "http://image.coolapk.com/feed/2026/0801/17/4248714_394fc45b_7819_3359_918@750x1443.jpg",
+      "summary": "荣耀 Play11 Pro 手机开启预约，8+256GB售价2099元 #今日热点# #荣耀Play11Plus# #MagicOS10#",
+      "tags": [
+        "HONOR",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-fb8255c4660c",
+      "title": "荣耀 Play11 Pro 手机上架：7000mAh 电池、8GB+256GB 售价 2099 元",
+      "source": "IT之家",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-01",
+      "time": "09:36",
+      "publishedAt": "2026-08-01T09:36:30.000Z",
+      "url": "https://www.ithome.com/0/984/572.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/8/c206bb9e-8eda-4fab-b243-6d0f8e693f74.jpg",
+      "summary": "IT之家 8 月 1 日消息，荣耀 Play11 Pro 手机现已上架电商平台并开始预约，目前仅有 8GB+256GB 一个版本可选， 售价 2099 元 。 这款手机有揽月银、旭日金、幻夜黑三种颜色可选，采用一体式真空压铸工艺 金属中框 ，支持 IP66 级防尘防水。 这款手机搭载了一块 6.6 英寸的 1.5K OLED 屏幕，视觉四等边设计，峰值亮度…",
+      "tags": [
+        "HONOR",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-00da1aac4a54",
+      "title": "Redmi Note 17 Pro vs OnePlus Nord CE 6: Which Phone Offers Better Value in 2026?",
+      "source": "Gizmochina",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-01",
+      "time": "09:28",
+      "publishedAt": "2026-08-01T09:28:40.000Z",
+      "url": "https://www.gizmochina.com/2026/08/01/redmi-note-17-pro-vs-oneplus-nord-ce-6/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/08/image-1-300x198.png?x23692",
+      "summary": "Choosing between the Redmi Note 17 Pro and the OnePlus Nord CE 6 isn’t as straightforward as their price tags suggest. One focuses on massive battery life and rugged durability, w…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-a6df7259635a",
+      "title": "OnePlus built the perfect Android phone in 2025. The OnePlus 16 is throwing it all away",
+      "source": "Android Authority",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-01",
+      "time": "09:00",
+      "publishedAt": "2026-08-01T09:00:41.000Z",
+      "url": "https://www.androidauthority.com/oneplus-built-perfect-android-phone-oneplus-16-throwing-it-away-3693370/",
+      "image": "",
+      "summary": "The OnePlus 13 really was lightning in a bottle, huh?",
+      "tags": [
+        "OPPO",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-00a6387d02f8",
+      "title": "国家博物馆：从未授权在馆外公共场所开展扫码入群、信息采集等活动",
+      "source": "IT之家",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-01",
+      "time": "07:38",
+      "publishedAt": "2026-08-01T07:38:02.000Z",
+      "url": "https://www.ithome.com/0/984/525.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/8/53254679-b86c-46a8-8a0d-6c0dc1f34459.jpg?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 8 月 1 日消息，7 月 30 日，中国国家博物馆发布严正声明： 近日，观众反映有社会人员冒用“国家博物馆工作人员”名义从事 引导公众扫码，收集获取手机号码、身份证号码 等个人信息的活动。对此，我馆高度重视，特此发布严正声明： 我馆从未授权任何机构、个人在馆外公共场所开展 扫码入群、信息采集 等活动，凡是以我馆名义进行的此类活动，均与我馆无任何…",
+      "tags": [
+        "行业",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-4525bdcbccd6",
+      "title": "OnePlus N6x launched in India with Dimensity 6360 Apex chipset, 7000mAh battery",
+      "source": "Gizmochina",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-01",
+      "time": "07:25",
+      "publishedAt": "2026-08-01T07:25:52.000Z",
+      "url": "https://www.gizmochina.com/2026/08/01/oneplus-n6x-launched-in-india-with-dimensity-6360-apex-chipset-7000mah-battery/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/08/images-design-slide-2-d7111-55572e.jpg-300x177.webp?x23692",
+      "summary": "OnePlus has finally launched the N6X, which sits below the N6 from earlier this year. It retains many of the specifications of the N6 while costing a little less for the same conf…",
+      "tags": [
+        "OPPO",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-f9f79b1149d6",
+      "title": "Huawei’s dual launch strategy against Apple aims to take away all attention From iPhone 18 Pro",
+      "source": "Huawei Central",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-01",
+      "time": "07:00",
+      "publishedAt": "2026-08-01T07:00:23.000Z",
+      "url": "https://www.huaweicentral.com/huaweis-dual-launch-strategy-against-apple/",
+      "image": "https://www.huaweicentral.com/wp-content/uploads/2026/06/mate80-phones.jpg",
+      "summary": "Huawei is working on an interesting strategy – dual launch events against its global smartphone rival Apple. The company is making headlines for holding two release conferences in…",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-b749625a7f3f",
+      "title": "Redmi Note 17 Pro vs Nothing Phone (4a): The Winner Might Surprise You",
+      "source": "Gizmochina",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-01",
+      "time": "06:41",
+      "publishedAt": "2026-08-01T06:41:09.000Z",
+      "url": "https://www.gizmochina.com/2026/08/01/redmi-note-17-pro-vs-nothing-phone-4a-the-winner-might-surprise-you/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/08/image-300x193.png?x23692",
+      "summary": "Redmi Note 17 Pro and Nothing Phone (4a) target very different priorities despite competing in the same segment. Redmi focuses on unmatched battery life, rugged durability, and va…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-0e15e8427029",
       "title": "Honor Magic 9 series launch will increase competition in September",
@@ -98,46 +258,6 @@ window.phoneRadarAuto = {
       "tags": [
         "Samsung",
         "评测",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-2c7dfe00a656",
-      "title": "报道称一台苹果 iPhone 17 Pro 从 1.1 千米高空坠落后几乎“完好无损”",
-      "source": "IT之家",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-01",
-      "time": "02:30",
-      "publishedAt": "2026-08-01T02:30:42.000Z",
-      "url": "https://www.ithome.com/0/984/450.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/8/1290b41c-f467-4b58-9cc2-ea54bd4b224b.jpg?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 8 月 1 日消息，加拿大广播公司 (CBC) 昨日（7 月 31 日）发布视频， 报道称一台苹果 iPhone 17 Pro 手机从 1.1 千米高空坠落，在油菜田里找回后发现几乎“完好无损”。 IT之家查询公开资料，CBC 是加拿大的国家公共广播机构之一，不依赖单一企业广告或商业利益，在重大新闻和事实报道上保持了较高的准确度与严谨性。 CBC…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-d281613d4deb",
-      "title": "三星 Galaxy Z Fold8 Ultra 折叠手机欧盟电池认证公布，满电续航 51 小时 10 分钟",
-      "source": "IT之家",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-01",
-      "time": "01:47",
-      "publishedAt": "2026-08-01T01:47:31.000Z",
-      "url": "https://www.ithome.com/0/984/436.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/8/9f3b9bbb-84db-40bc-ad8b-79b72d12a4b5.jpg?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 8 月 1 日消息，科技媒体 SamMobile 昨日（7 月 31 日）发布博文，报道称欧洲能源标签产品注册中心 (EPREL) 公开了三星 Galaxy Z Fold8、Galaxy Z Fold8 Ultra 以及 Galaxy Z Flip8 三款折叠手机的电池健康信息。 根据认证页面信息显示，以三星 Galaxy Z Fold8 Ult…",
-      "tags": [
-        "Samsung",
-        "爆料",
         "自动抓取"
       ]
     },
@@ -255,26 +375,6 @@ window.phoneRadarAuto = {
       "url": "https://www.coolapk.com/feed/73018713",
       "image": "",
       "summary": "2026年第30周国内手机市场份额曝光：小米升至榜三",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-056e13c9c7f2",
-      "title": "REDMI K100 Pro Max 爆料：全新 185Hz 超级像素屏等",
-      "source": "酷安热榜",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-08-01",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73018008",
-      "image": "",
-      "summary": "REDMI K100 Pro Max 爆料：全新 185Hz 超级像素屏等",
       "tags": [
         "Xiaomi",
         "爆料",

@@ -1,12 +1,12 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-08-01T06:39:52.474Z",
+  "updatedAt": "2026-08-01T10:09:03.238Z",
   "issueDate": "2026-08-01",
   "issue": "VOL.260801",
   "title": "手机情报日报",
-  "intro": "今日筛出 14 条重点，其中 8 条是重点爆料，包含 9 条 iPhone 相关、0 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 16 条重点，其中 8 条是重点爆料，包含 8 条 iPhone 相关、0 条官方确认、0 条参数线索。",
   "stats": {
-    "total": 14,
-    "iphone": 9,
+    "total": 16,
+    "iphone": 8,
     "leaks": 8,
     "official": 0,
     "specs": 0
@@ -17,29 +17,6 @@ window.phoneRadarDaily = {
       "title": "重点爆料",
       "hint": "机模、配色、影像、屏幕、电池和芯片线索先看。",
       "items": [
-        {
-          "id": "auto-2c7dfe00a656",
-          "title": "报道称一台苹果 iPhone 17 Pro 从 1.1 千米高空坠落后几乎“完好无损”",
-          "originalTitle": "",
-          "source": "IT之家",
-          "brand": "iPhone",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-08-01",
-          "time": "02:30",
-          "publishedAt": "2026-08-01T02:30:42.000Z",
-          "url": "https://www.ithome.com/0/984/450.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/8/1290b41c-f467-4b58-9cc2-ea54bd4b224b.jpg?x-bce-process=image/format,f_auto",
-          "verdict": "先看",
-          "takeaway": "IT之家 8 月 1 日消息，加拿大广播公司 (CBC) 昨日（7 月 31 日）发布视频， 报道称一台苹果 iPhone 17 Pro 手机从 1.1 千米高空坠落，在油菜田里找回后发现几乎“完好无损”。 IT之家查询公开资料，CBC 是加拿大的国家公共广播机构之一，不依赖单一企业广告或商业利益，在重大新闻和事实报道上保持了较高的准确度与严谨性。 CBC…",
-          "detail": "IT之家 8 月 1 日消息，加拿大广播公司 (CBC) 昨日（7 月 31 日）发布视频， 报道称一台苹果 iPhone 17 Pro 手机从 1.1 千米高空坠落，在油菜田里找回后发现几乎“完好无损”。 IT之家查询公开资料，CBC 是加拿大的国家公共广播机构之一，不依赖单一企业广告或商业利益，在重大新闻和事实报道上保持了较高的准确度与严谨性。 CBC…",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
         {
           "id": "auto-24ff91504f7d",
           "title": "iPhone 18e 芯片 / 性能相关消息",
@@ -110,6 +87,31 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
+          "id": "auto-fb8255c4660c",
+          "title": "荣耀 Play11 Pro 手机上架：7000mAh 电池、8GB+256GB 售价 2099 元",
+          "originalTitle": "",
+          "source": "IT之家",
+          "brand": "HONOR",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-08-01",
+          "time": "09:36",
+          "publishedAt": "2026-08-01T09:36:30.000Z",
+          "url": "https://www.ithome.com/0/984/572.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/8/c206bb9e-8eda-4fab-b243-6d0f8e693f74.jpg",
+          "verdict": "先看",
+          "takeaway": "IT之家 8 月 1 日消息，荣耀 Play11 Pro 手机现已上架电商平台并开始预约，目前仅有 8GB+256GB 一个版本可选， 售价 2099 元 。 这款手机有揽月银、旭日金、幻夜黑三种颜色可选，采用一体式真空压铸工艺 金属中框 ，支持 IP66 级防尘防水。 这款手机搭载了一块 6.6 英寸的 1.5K OLED 屏幕，视觉四等边设计，峰值亮度…",
+          "detail": "IT之家 8 月 1 日消息，荣耀 Play11 Pro 手机现已上架电商平台并开始预约，目前仅有 8GB+256GB 一个版本可选， 售价 2099 元 。 这款手机有揽月银、旭日金、幻夜黑三种颜色可选，采用一体式真空压铸工艺 金属中框 ，支持 IP66 级防尘防水。 这款手机搭载了一块 6.6 英寸的 1.5K OLED 屏幕，视觉四等边设计，峰值亮度…",
+          "keyPoints": [
+            "屏幕形态",
+            "电池 / 充电",
+            "成本 / 价格"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
           "id": "auto-b46e39ccb93a",
           "title": "“赤霞珠红”色小米 REDMI K100 Pro Max 手机实拍上手",
           "originalTitle": "",
@@ -127,30 +129,6 @@ window.phoneRadarDaily = {
           "detail": "IT之家 8 月 1 日消息，第二十三届中国国际数码互动娱乐展览会（ChinaJoy，7 月 31 日 ~8 月 3 日）上，小米 REDMI 在 N5 馆骁龙联合展台（N5-02）上， 揭幕了年度重磅新品 REDMI K100 系列。 新机采用 6.9 英寸超窄边直屏，四曲包裹式金属中框，还有一体化金属 DECO，以及全新悬浮灯环设计可随音乐律动。 据卢…",
           "keyPoints": [
             "屏幕形态"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "auto-d281613d4deb",
-          "title": "三星 Galaxy Z Fold8 Ultra 折叠手机欧盟电池认证公布，满电续航 51 小时 10 分钟",
-          "originalTitle": "",
-          "source": "IT之家",
-          "brand": "Samsung",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-08-01",
-          "time": "01:47",
-          "publishedAt": "2026-08-01T01:47:31.000Z",
-          "url": "https://www.ithome.com/0/984/436.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/8/9f3b9bbb-84db-40bc-ad8b-79b72d12a4b5.jpg?x-bce-process=image/format,f_auto",
-          "verdict": "先看",
-          "takeaway": "IT之家 8 月 1 日消息，科技媒体 SamMobile 昨日（7 月 31 日）发布博文，报道称欧洲能源标签产品注册中心 (EPREL) 公开了三星 Galaxy Z Fold8、Galaxy Z Fold8 Ultra 以及 Galaxy Z Flip8 三款折叠手机的电池健康信息。 根据认证页面信息显示，以三星 Galaxy Z Fold8 Ult…",
-          "detail": "IT之家 8 月 1 日消息，科技媒体 SamMobile 昨日（7 月 31 日）发布博文，报道称欧洲能源标签产品注册中心 (EPREL) 公开了三星 Galaxy Z Fold8、Galaxy Z Fold8 Ultra 以及 Galaxy Z Flip8 三款折叠手机的电池健康信息。 根据认证页面信息显示，以三星 Galaxy Z Fold8 Ult…",
-          "keyPoints": [
-            "电池 / 充电",
-            "芯片 / 性能"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
@@ -200,6 +178,29 @@ window.phoneRadarDaily = {
             "芯片 / 性能",
             "成本 / 价格",
             "爆料来源"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "auto-1fb77369e435",
+          "title": "可维修模块化手机 Fairphone 6+ 曝光：12GB 内存、3 种颜色",
+          "originalTitle": "",
+          "source": "IT之家",
+          "brand": "行业",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-08-01",
+          "time": "06:02",
+          "publishedAt": "2026-08-01T06:02:29.000Z",
+          "url": "https://www.ithome.com/0/984/494.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/8/249f5a62-d4ed-4208-8103-f1572325bcdf.png?x-bce-process=image/format,f_auto",
+          "verdict": "先看",
+          "takeaway": "IT之家 8 月 1 日消息，科技媒体 nieuwemobiel 昨日（7 月 31 日）发布博文，报道称 Fairphone 6+ 将接棒 2025 年发布的 Fairphone 6 可维修模块化手机，内存从 8GB 升级到 12GB。 IT之家曾于 2025 年报道， Fairphone 6 可维修模块化手机搭载骁龙 7s Gen 3 芯片 、配备更大…",
+          "detail": "IT之家 8 月 1 日消息，科技媒体 nieuwemobiel 昨日（7 月 31 日）发布博文，报道称 Fairphone 6+ 将接棒 2025 年发布的 Fairphone 6 可维修模块化手机，内存从 8GB 升级到 12GB。 IT之家曾于 2025 年报道， Fairphone 6 可维修模块化手机搭载骁龙 7s Gen 3 芯片 、配备更大…",
+          "keyPoints": [
+            "芯片 / 性能"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
@@ -356,6 +357,53 @@ window.phoneRadarDaily = {
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        },
+        {
+          "id": "coolapk-user-fdda4b89fe16",
+          "title": "竹本青：荣耀 Play11 Pro 手机开启预约，8+256GB售价2099元 #今日热点# #荣耀Play11Plus#…",
+          "originalTitle": "",
+          "source": "竹本青",
+          "brand": "HONOR",
+          "type": "爆料",
+          "trust": "高可信爆料",
+          "date": "2026-08-01",
+          "time": "09:50",
+          "publishedAt": "2026-08-01T09:50:21.000Z",
+          "url": "https://www.coolapk.com/feed/73037654",
+          "image": "http://image.coolapk.com/feed/2026/0801/17/4248714_394fc45b_7819_3359_918@750x1443.jpg",
+          "verdict": "扫一眼",
+          "takeaway": "荣耀 Play11 Pro 手机开启预约，8+256GB售价2099元 #今日热点# #荣耀Play11Plus# #MagicOS10#",
+          "detail": "荣耀 Play11 Pro 手机开启预约，8+256GB售价2099元 #今日热点# #荣耀Play11Plus# #MagicOS10#",
+          "keyPoints": [
+            "成本 / 价格"
+          ],
+          "confidence": "可信度较高，但仍属于发布前线索。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        },
+        {
+          "id": "auto-00da1aac4a54",
+          "title": "Redmi Note 17 Pro 对比 OnePlus Nord CE 6：差异整理",
+          "originalTitle": "",
+          "source": "Gizmochina",
+          "brand": "Xiaomi",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-08-01",
+          "time": "09:28",
+          "publishedAt": "2026-08-01T09:28:40.000Z",
+          "url": "https://www.gizmochina.com/2026/08/01/redmi-note-17-pro-vs-oneplus-nord-ce-6/",
+          "image": "https://www.gizmochina.com/wp-content/uploads/2026/08/image-1-300x198.png?x23692",
+          "verdict": "可略过",
+          "takeaway": "Redmi Note 17 Pro 对比 OnePlus Nord CE 6：重点看定位、配置差异和价格差，判断是否值得等更高端型号。",
+          "detail": "Redmi Note 17 Pro 对比 OnePlus Nord CE 6 的差异整理。重点看两款机型的定位、影像规格、屏幕尺寸、价格区间和发布时间是否拉开差距。",
+          "keyPoints": [
+            "电池 / 充电",
+            "成本 / 价格"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "影响购买预算，值得先看。",
+          "action": "有具体参数就记录到参数库；没有参数就先收藏。"
         }
       ]
     }
