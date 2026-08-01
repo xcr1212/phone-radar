@@ -1,5 +1,5 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-08-01T15:18:02.479Z",
+  "updatedAt": "2026-08-01T17:13:44.564Z",
   "issueDate": "2026-08-01",
   "issue": "VOL.260801",
   "title": "手机情报日报",
@@ -369,6 +369,29 @@ window.phoneRadarDaily = {
       "hint": "看方向，不急着当购买依据。",
       "items": [
         {
+          "id": "auto-201d6520ace8",
+          "title": "小米手机正式涨价 300 元起，影响小米 17 系列、REDMI K90、Turbo 5",
+          "originalTitle": "",
+          "source": "IT之家",
+          "brand": "Xiaomi",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-08-01",
+          "time": "15:25",
+          "publishedAt": "2026-08-01T15:25:17.000Z",
+          "url": "https://www.ithome.com/0/984/636.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/8/c9120702-65d9-493b-9da0-4b4b5815ba3b.jpg?x-bce-process=image/format,f_auto",
+          "verdict": "先看",
+          "takeaway": "8 月 2 日 0 点更新： 小米商城价格显示，通知中提到的手机确实已经涨价。 REDMI Turbo 5 ：从 2299 元起上涨到 2599 元起 REDMI Turbo 5 Max ：从 2499 元起上涨到 2799 元起 REDMI K90 ：从 2799 元起上涨到 3099 元起 REDMI K90 Max ：从 3199 元起上涨到 349…",
+          "detail": "8 月 2 日 0 点更新： 小米商城价格显示，通知中提到的手机确实已经涨价。 REDMI Turbo 5 ：从 2299 元起上涨到 2599 元起 REDMI Turbo 5 Max ：从 2499 元起上涨到 2799 元起 REDMI K90 ：从 2799 元起上涨到 3099 元起 REDMI K90 Max ：从 3199 元起上涨到 349…",
+          "keyPoints": [
+            "成本 / 价格"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "影响购买预算，值得先看。",
+          "action": "有具体参数就记录到参数库；没有参数就先收藏。"
+        },
+        {
           "id": "newsnow-d36e2eb6f1d5",
           "title": "2026年第30周国内手机市场份额曝光：小米升至榜三",
           "originalTitle": "",
@@ -389,6 +412,29 @@ window.phoneRadarDaily = {
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        },
+        {
+          "id": "coolapk-user-f683072a25d6",
+          "title": "竹本青：小米多款手机正式涨价，覆盖小米 17系列、K90、Turbo5 #今日热点# #HyperOS3#",
+          "originalTitle": "",
+          "source": "竹本青",
+          "brand": "Xiaomi",
+          "type": "爆料",
+          "trust": "高可信爆料",
+          "date": "2026-08-01",
+          "time": "16:22",
+          "publishedAt": "2026-08-01T16:22:11.000Z",
+          "url": "https://www.coolapk.com/feed/73043040",
+          "image": "",
+          "verdict": "扫一眼",
+          "takeaway": "小米多款手机正式涨价，覆盖小米 17系列、K90、Turbo5 #今日热点# #HyperOS3#",
+          "detail": "小米多款手机正式涨价，覆盖小米 17系列、K90、Turbo5 #今日热点# #HyperOS3#",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "可信度较高，但仍属于发布前线索。",
+          "impact": "影响购买预算，值得先看。",
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         },
         {
@@ -413,54 +459,6 @@ window.phoneRadarDaily = {
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
-        {
-          "id": "auto-ab950d4f815d",
-          "title": "Galaxy S25 FE 影像能力相关消息",
-          "originalTitle": "",
-          "source": "Gizmochina",
-          "brand": "Samsung",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-08-01",
-          "time": "10:10",
-          "publishedAt": "2026-08-01T10:10:43.000Z",
-          "url": "https://www.gizmochina.com/2026/08/01/samsung-galaxy-s25-fe-vs-nothing-phone-4b/",
-          "image": "https://www.gizmochina.com/wp-content/uploads/2026/08/image-2-300x196.png?x23692",
-          "verdict": "可略过",
-          "takeaway": "Samsung 影像能力相关宣传或案例，主要看是否透露拍摄能力变化。",
-          "detail": "Galaxy S25 FE 影像能力相关消息。重点看影像功能是否和新机硬件有关，如果只是拍摄案例或营销内容，参考价值会低一些。",
-          "keyPoints": [
-            "影像硬件",
-            "电池 / 充电"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "影响日常体验，尤其是游戏、拍照和长时间使用。",
-          "action": "有具体参数就记录到参数库；没有参数就先收藏。"
-        },
-        {
-          "id": "auto-00da1aac4a54",
-          "title": "Redmi Note 17 Pro 对比 OnePlus Nord CE 6：差异整理",
-          "originalTitle": "",
-          "source": "Gizmochina",
-          "brand": "Xiaomi",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-08-01",
-          "time": "09:28",
-          "publishedAt": "2026-08-01T09:28:40.000Z",
-          "url": "https://www.gizmochina.com/2026/08/01/redmi-note-17-pro-vs-oneplus-nord-ce-6/",
-          "image": "https://www.gizmochina.com/wp-content/uploads/2026/08/image-1-300x198.png?x23692",
-          "verdict": "可略过",
-          "takeaway": "Redmi Note 17 Pro 对比 OnePlus Nord CE 6：重点看定位、配置差异和价格差，判断是否值得等更高端型号。",
-          "detail": "Redmi Note 17 Pro 对比 OnePlus Nord CE 6 的差异整理。重点看两款机型的定位、影像规格、屏幕尺寸、价格区间和发布时间是否拉开差距。",
-          "keyPoints": [
-            "电池 / 充电",
-            "成本 / 价格"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "影响购买预算，值得先看。",
-          "action": "有具体参数就记录到参数库；没有参数就先收藏。"
         }
       ]
     }

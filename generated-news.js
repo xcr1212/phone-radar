@@ -1,6 +1,66 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-08-01T15:18:02.479Z",
+  "updatedAt": "2026-08-01T17:13:44.564Z",
   "news": [
+    {
+      "id": "coolapk-user-f683072a25d6",
+      "title": "竹本青：小米多款手机正式涨价，覆盖小米 17系列、K90、Turbo5 #今日热点# #HyperOS3#",
+      "source": "竹本青",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-08-01",
+      "time": "16:22",
+      "publishedAt": "2026-08-01T16:22:11.000Z",
+      "url": "https://www.coolapk.com/feed/73043040",
+      "image": "",
+      "summary": "小米多款手机正式涨价，覆盖小米 17系列、K90、Turbo5 #今日热点# #HyperOS3#",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-d9c99fd374cb",
+      "title": "Google is giving the Pixel 11 a light show when it should fix face unlock",
+      "source": "Android Police",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-01",
+      "time": "16:15",
+      "publishedAt": "2026-08-01T16:15:15.000Z",
+      "url": "https://www.androidpolice.com/google-giving-pixel-11-light-show-when-it-should-fix-face-unlock/",
+      "image": "",
+      "summary": "We don't need another gimmicky upgrade",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-201d6520ace8",
+      "title": "小米手机正式涨价 300 元起，影响小米 17 系列、REDMI K90、Turbo 5",
+      "source": "IT之家",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-01",
+      "time": "15:25",
+      "publishedAt": "2026-08-01T15:25:17.000Z",
+      "url": "https://www.ithome.com/0/984/636.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/8/c9120702-65d9-493b-9da0-4b4b5815ba3b.jpg?x-bce-process=image/format,f_auto",
+      "summary": "8 月 2 日 0 点更新： 小米商城价格显示，通知中提到的手机确实已经涨价。 REDMI Turbo 5 ：从 2299 元起上涨到 2599 元起 REDMI Turbo 5 Max ：从 2499 元起上涨到 2799 元起 REDMI K90 ：从 2799 元起上涨到 3099 元起 REDMI K90 Max ：从 3199 元起上涨到 349…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-c1452736e932",
       "title": "One Galaxy Z Fold 8 and Ultra feature every new user should try",
