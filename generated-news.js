@@ -1,24 +1,84 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-08-01T17:13:44.564Z",
+  "updatedAt": "2026-08-01T19:32:36.153Z",
   "news": [
     {
-      "id": "coolapk-user-f683072a25d6",
-      "title": "竹本青：小米多款手机正式涨价，覆盖小米 17系列、K90、Turbo5 #今日热点# #HyperOS3#",
+      "id": "auto-86056391e366",
+      "title": "Can you use Samsung Galaxy Z Fold 7 cases on the Galaxy Z Fold 8 Ultra?",
+      "source": "Android Central",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-08-01",
+      "time": "18:47",
+      "publishedAt": "2026-08-01T18:47:42.000Z",
+      "url": "https://www.androidcentral.com/accessories/cases-screen-protectors/can-you-use-samsung-galaxy-z-fold-7-cases-on-the-galaxy-z-fold-8-ultra",
+      "image": "https://cdn.mos.cms.futurecdn.net/JHpoULktNa4yG9Xt6eNmRV-1280-80.jpg",
+      "summary": "Wondering about the reusability of your Galaxy Z Fold 7 cases? This is what you need to know when considering using old cases on your Galaxy Z Fold 8 Ultra.",
+      "tags": [
+        "Samsung",
+        "评测",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-8d28be2ad3c3",
+      "title": "I’m not convinced the 20th anniversary iPhone will be what we think, here’s why",
+      "source": "9to5Mac",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-01",
+      "time": "18:01",
+      "publishedAt": "2026-08-01T18:01:00.000Z",
+      "url": "https://9to5mac.com/2026/08/01/heres-why-iphone-20-could-actually-be-iphone-air-3/",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/06/iPhone-20th-anniversary-mockup-ios26-03.jpg?quality=82&strip=all&w=1600",
+      "summary": "Next year, the iPhone will be turning 20 – and Apple is heavily rumored to be working on a radical new design to celebrate. Many have expected this to come in the form of iPhone 1…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-798ff455c916",
+      "title": "竹本青：K90标准版在上个月初，已经涨价了200元；Turbo5系列是在取消新春特惠、大内存补贴的情况下，全系再涨300元…",
       "source": "竹本青",
       "brand": "Xiaomi",
       "model": "Xiaomi 相关机型",
       "type": "爆料",
       "trust": "高可信爆料",
       "date": "2026-08-01",
-      "time": "16:22",
-      "publishedAt": "2026-08-01T16:22:11.000Z",
-      "url": "https://www.coolapk.com/feed/73043040",
+      "time": "17:53",
+      "publishedAt": "2026-08-01T17:53:27.000Z",
+      "url": "https://www.coolapk.com/feed/73043864",
       "image": "",
-      "summary": "小米多款手机正式涨价，覆盖小米 17系列、K90、Turbo5 #今日热点# #HyperOS3#",
+      "summary": "K90标准版在上个月初，已经涨价了200元；Turbo5系列是在取消新春特惠、大内存补贴的情况下，全系再涨300元；小米17系列是首次涨价，涨幅不太一样，看内容吧 #红米K90# #REDMITurbo5Max# #小米17#",
       "tags": [
         "Xiaomi",
         "爆料",
         "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-a43181bb4492",
+      "title": "Galaxy S26 FE camera specifications leaked",
+      "source": "Gizmochina",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-01",
+      "time": "17:15",
+      "publishedAt": "2026-08-01T17:15:03.000Z",
+      "url": "https://www.gizmochina.com/2026/08/01/galaxy-s26-fe-camera-specifications-leaked/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/08/galaxys26-fe-render4322-300x169.png?x23692",
+      "summary": "New leaks about the Galaxy S26 FE’s camera system have started circulating, giving us an early look at what the next FE model might offer. Android Authority reports that the Galax…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
       ]
     },
     {
@@ -422,6 +482,46 @@ window.phoneRadarAuto = {
       ]
     },
     {
+      "id": "newsnow-6795f71ecb8b",
+      "title": "小米多款手机迎来价格调整：涨幅200～500元",
+      "source": "酷安热榜",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-08-01",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/73042689",
+      "image": "",
+      "summary": "小米多款手机迎来价格调整：涨幅200～500元",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-64532b03aa85",
+      "title": "【小米六款手机正式涨价：小米 17系列，REDMI Turbo5系列、K90标准版】",
+      "source": "酷安热榜",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-08-01",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/73043040",
+      "image": "",
+      "summary": "【小米六款手机正式涨价：小米 17系列，REDMI Turbo5系列、K90标准版】",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
       "id": "newsnow-c74f1a40228e",
       "title": "本期酷周报核心看点：高通9月起上调芯片价格；小米澎程系列预售价正式公布；苹果、三星最新财报出炉；网传智驾小蓝灯将被禁用；国产浸没式DUV光刻机被曝量产；极客湾曝光手机电池锁容等现象。",
       "source": "酷安热榜",
@@ -437,66 +537,6 @@ window.phoneRadarAuto = {
       "summary": "本期酷周报核心看点：高通9月起上调芯片价格；小米澎程系列预售价正式公布；苹果、三星最新财报出炉；网传智驾小蓝灯将被禁用；国产浸没式DUV光刻机被曝量产；极客湾曝光手机电池锁容等现象。",
       "tags": [
         "Samsung",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-78fc9929be5b",
-      "title": "去cj现场拍了几张 #REDMIK100ProMax# 「赤霞珠红」配色，大家觉得怎么样[喝茶]",
-      "source": "酷安热榜",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-08-01",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73019751",
-      "image": "",
-      "summary": "去cj现场拍了几张 #REDMIK100ProMax# 「赤霞珠红」配色，大家觉得怎么样[喝茶]",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-d199869aca3d",
-      "title": "顶配2万元！iPhone18系列这次真的要大涨价了，你还会买吗？[doge]",
-      "source": "酷安热榜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-08-01",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73023665",
-      "image": "",
-      "summary": "顶配2万元！iPhone18系列这次真的要大涨价了，你还会买吗？[doge]",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-d36e2eb6f1d5",
-      "title": "2026年第30周国内手机市场份额曝光：小米升至榜三",
-      "source": "酷安热榜",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-08-01",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73018713",
-      "image": "",
-      "summary": "2026年第30周国内手机市场份额曝光：小米升至榜三",
-      "tags": [
-        "Xiaomi",
         "爆料",
         "NewsNow"
       ]

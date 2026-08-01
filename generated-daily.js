@@ -1,12 +1,12 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-08-01T17:13:44.564Z",
+  "updatedAt": "2026-08-01T19:32:36.153Z",
   "issueDate": "2026-08-01",
   "issue": "VOL.260801",
   "title": "手机情报日报",
-  "intro": "今日筛出 18 条重点，其中 8 条是重点爆料，包含 8 条 iPhone 相关、0 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 19 条重点，其中 8 条是重点爆料，包含 7 条 iPhone 相关、0 条官方确认、0 条参数线索。",
   "stats": {
-    "total": 18,
-    "iphone": 8,
+    "total": 19,
+    "iphone": 7,
     "leaks": 8,
     "official": 0,
     "specs": 0
@@ -17,6 +17,30 @@ window.phoneRadarDaily = {
       "title": "重点爆料",
       "hint": "机模、配色、影像、屏幕、电池和芯片线索先看。",
       "items": [
+        {
+          "id": "auto-8d28be2ad3c3",
+          "title": "iPhone 相关消息",
+          "originalTitle": "",
+          "source": "9to5Mac",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-08-01",
+          "time": "18:01",
+          "publishedAt": "2026-08-01T18:01:00.000Z",
+          "url": "https://9to5mac.com/2026/08/01/heres-why-iphone-20-could-actually-be-iphone-air-3/",
+          "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/06/iPhone-20th-anniversary-mockup-ios26-03.jpg?quality=82&strip=all&w=1600",
+          "verdict": "先看",
+          "takeaway": "iPhone 相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
+          "detail": "iPhone 相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
+          "keyPoints": [
+            "外观 / 配色 / 尺寸",
+            "爆料来源"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
         {
           "id": "auto-24ff91504f7d",
           "title": "iPhone 18e 芯片 / 性能相关消息",
@@ -64,29 +88,6 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
-          "id": "auto-3c242f8d50df",
-          "title": "iPhone 相关消息",
-          "originalTitle": "",
-          "source": "MacRumors",
-          "brand": "iPhone",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-07-31",
-          "time": "12:27",
-          "publishedAt": "2026-07-31T12:27:01.000Z",
-          "url": "https://www.macrumors.com/2026/07/31/iphone-18-pro-models-300-more-expensive/",
-          "image": "https://images.macrumors.com/article-new/2026/02/iPhone-18-Pro-Deep-Red-Feature.jpg",
-          "verdict": "先看",
-          "takeaway": "iPhone 相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
-          "detail": "iPhone 相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
-          "keyPoints": [
-            "成本 / 价格"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
           "id": "auto-fb8255c4660c",
           "title": "荣耀 Play11 Pro 手机上架：7000mAh 电池、8GB+256GB 售价 2099 元",
           "originalTitle": "",
@@ -106,29 +107,6 @@ window.phoneRadarDaily = {
             "屏幕形态",
             "电池 / 充电",
             "成本 / 价格"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "newsnow-78fc9929be5b",
-          "title": "去cj现场拍了几张 #REDMIK100ProMax# 「赤霞珠红」配色，大家觉得怎么样[喝茶]",
-          "originalTitle": "",
-          "source": "酷安热榜",
-          "brand": "Xiaomi",
-          "type": "爆料",
-          "trust": "高关注爆料源",
-          "date": "2026-08-01",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://www.coolapk.com/feed/73019751",
-          "image": "",
-          "verdict": "先看",
-          "takeaway": "去cj现场拍了几张 #REDMIK100ProMax# 「赤霞珠红」配色，大家觉得怎么样[喝茶]",
-          "detail": "去cj现场拍了几张 #REDMIK100ProMax# 「赤霞珠红」配色，大家觉得怎么样[喝茶]",
-          "keyPoints": [
-            "外观 / 配色 / 尺寸"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
@@ -208,6 +186,29 @@ window.phoneRadarDaily = {
           "confidence": "可信度较高，但仍属于发布前线索。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "coolapk-user-0d0ed1c6c19e",
+          "title": "JSCHEN小小狐：荣耀 Robot Phone 影像预热：双 2 亿超大底",
+          "originalTitle": "",
+          "source": "JSCHEN小小狐",
+          "brand": "HONOR",
+          "type": "爆料",
+          "trust": "高可信爆料",
+          "date": "2026-07-31",
+          "time": "06:56",
+          "publishedAt": "2026-07-31T06:56:16.000Z",
+          "url": "https://www.coolapk.com/feed/73020822",
+          "image": "http://image.coolapk.com/feed/2026/0731/14/4702274_3963157f_0973_8699_275@2144x3810.jpg",
+          "verdict": "先看",
+          "takeaway": "『荣耀 Robot Phone 影像预热：双 2 亿超大底』 2 亿像素灵巧云台主摄 ◇ 1/1.28 英寸，23mm，f/1.6 光圈 ◇ 3 轴云台机械防抖 + OIS 光学防抖 2 亿像素潜望式长焦摄像头 ◇ 1/1.4 英寸，62mm，f/2.6 光圈 ◇ 2.7X 光学变焦，OIS 光学防抖 #今日热点# #荣耀Magic9# #荣耀Magic9…",
+          "detail": "『荣耀 Robot Phone 影像预热：双 2 亿超大底』 2 亿像素灵巧云台主摄 ◇ 1/1.28 英寸，23mm，f/1.6 光圈 ◇ 3 轴云台机械防抖 + OIS 光学防抖 2 亿像素潜望式长焦摄像头 ◇ 1/1.4 英寸，62mm，f/2.6 光圈 ◇ 2.7X 光学变焦，OIS 光学防抖 #今日热点# #荣耀Magic9# #荣耀Magic9…",
+          "keyPoints": [
+            "影像硬件"
+          ],
+          "confidence": "可信度较高，但仍属于发布前线索。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         }
       ]
     },
@@ -216,29 +217,6 @@ window.phoneRadarDaily = {
       "title": "iPhone 重点",
       "hint": "不是硬件爆料，但和 iPhone 体验或路线有关。",
       "items": [
-        {
-          "id": "newsnow-d199869aca3d",
-          "title": "顶配2万元！iPhone18系列这次真的要大涨价了，你还会买吗？[doge]",
-          "originalTitle": "",
-          "source": "酷安热榜",
-          "brand": "iPhone",
-          "type": "爆料",
-          "trust": "高关注爆料源",
-          "date": "2026-08-01",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://www.coolapk.com/feed/73023665",
-          "image": "",
-          "verdict": "先看",
-          "takeaway": "顶配2万元！iPhone18系列这次真的要大涨价了，你还会买吗？[doge]",
-          "detail": "顶配2万元！iPhone18系列这次真的要大涨价了，你还会买吗？[doge]",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "影响购买预算，值得先看。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
         {
           "id": "newsnow-2db342c7d07f",
           "title": "我的出行好伙伴，用 iPhone 一站式解决旅途痛点",
@@ -339,6 +317,29 @@ window.phoneRadarDaily = {
       "hint": "买前再细看，平时扫一眼即可。",
       "items": [
         {
+          "id": "auto-86056391e366",
+          "title": "Samsung 折叠屏相关消息",
+          "originalTitle": "",
+          "source": "Android Central",
+          "brand": "Samsung",
+          "type": "评测",
+          "trust": "媒体汇总",
+          "date": "2026-08-01",
+          "time": "18:47",
+          "publishedAt": "2026-08-01T18:47:42.000Z",
+          "url": "https://www.androidcentral.com/accessories/cases-screen-protectors/can-you-use-samsung-galaxy-z-fold-7-cases-on-the-galaxy-z-fold-8-ultra",
+          "image": "https://cdn.mos.cms.futurecdn.net/JHpoULktNa4yG9Xt6eNmRV-1280-80.jpg",
+          "verdict": "可略过",
+          "takeaway": "Samsung 折叠屏相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
+          "detail": "Samsung 折叠屏相关消息。重点看折痕、铰链、厚度、屏幕可靠性和重量是否有实质改善。",
+          "keyPoints": [
+            "评测"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是实际体验内容，买前适合重点看缺点和取舍。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        },
+        {
           "id": "auto-b402e063a075",
           "title": "Pixel 11 Pro Fold 折叠屏相关消息",
           "originalTitle": "",
@@ -392,8 +393,8 @@ window.phoneRadarDaily = {
           "action": "有具体参数就记录到参数库；没有参数就先收藏。"
         },
         {
-          "id": "newsnow-d36e2eb6f1d5",
-          "title": "2026年第30周国内手机市场份额曝光：小米升至榜三",
+          "id": "newsnow-6795f71ecb8b",
+          "title": "小米多款手机迎来价格调整：涨幅200～500元",
           "originalTitle": "",
           "source": "酷安热榜",
           "brand": "Xiaomi",
@@ -402,34 +403,57 @@ window.phoneRadarDaily = {
           "date": "2026-08-01",
           "time": "",
           "publishedAt": "",
-          "url": "https://www.coolapk.com/feed/73018713",
+          "url": "https://www.coolapk.com/feed/73042689",
           "image": "",
           "verdict": "先看",
-          "takeaway": "2026年第30周国内手机市场份额曝光：小米升至榜三",
-          "detail": "2026年第30周国内手机市场份额曝光：小米升至榜三",
+          "takeaway": "小米多款手机迎来价格调整：涨幅200～500元",
+          "detail": "小米多款手机迎来价格调整：涨幅200～500元",
+          "keyPoints": [
+            "成本 / 价格"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "影响购买预算，值得先看。",
+          "action": "有具体参数就记录到参数库；没有参数就先收藏。"
+        },
+        {
+          "id": "newsnow-64532b03aa85",
+          "title": "【小米六款手机正式涨价：小米 17系列，REDMI Turbo5系列、K90标准版】",
+          "originalTitle": "",
+          "source": "酷安热榜",
+          "brand": "Xiaomi",
+          "type": "爆料",
+          "trust": "高关注爆料源",
+          "date": "2026-08-01",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://www.coolapk.com/feed/73043040",
+          "image": "",
+          "verdict": "先看",
+          "takeaway": "【小米六款手机正式涨价：小米 17系列，REDMI Turbo5系列、K90标准版】",
+          "detail": "【小米六款手机正式涨价：小米 17系列，REDMI Turbo5系列、K90标准版】",
           "keyPoints": [
             "爆料"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "impact": "影响购买预算，值得先看。",
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         },
         {
-          "id": "coolapk-user-f683072a25d6",
-          "title": "竹本青：小米多款手机正式涨价，覆盖小米 17系列、K90、Turbo5 #今日热点# #HyperOS3#",
+          "id": "coolapk-user-798ff455c916",
+          "title": "竹本青：K90标准版在上个月初，已经涨价了200元；Turbo5系列是在取消新春特惠、大内存补贴的情况下，全系再涨300元…",
           "originalTitle": "",
           "source": "竹本青",
           "brand": "Xiaomi",
           "type": "爆料",
           "trust": "高可信爆料",
           "date": "2026-08-01",
-          "time": "16:22",
-          "publishedAt": "2026-08-01T16:22:11.000Z",
-          "url": "https://www.coolapk.com/feed/73043040",
+          "time": "17:53",
+          "publishedAt": "2026-08-01T17:53:27.000Z",
+          "url": "https://www.coolapk.com/feed/73043864",
           "image": "",
           "verdict": "扫一眼",
-          "takeaway": "小米多款手机正式涨价，覆盖小米 17系列、K90、Turbo5 #今日热点# #HyperOS3#",
-          "detail": "小米多款手机正式涨价，覆盖小米 17系列、K90、Turbo5 #今日热点# #HyperOS3#",
+          "takeaway": "K90标准版在上个月初，已经涨价了200元；Turbo5系列是在取消新春特惠、大内存补贴的情况下，全系再涨300元；小米17系列是首次涨价，涨幅不太一样，看内容吧 #红米K90# #REDMITurbo5Max# #小米17#",
+          "detail": "K90标准版在上个月初，已经涨价了200元；Turbo5系列是在取消新春特惠、大内存补贴的情况下，全系再涨300元；小米17系列是首次涨价，涨幅不太一样，看内容吧 #红米K90# #REDMITurbo5Max# #小米17#",
           "keyPoints": [
             "爆料"
           ],
@@ -438,27 +462,28 @@ window.phoneRadarDaily = {
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         },
         {
-          "id": "auto-c1452736e932",
-          "title": "Samsung 折叠屏相关消息",
+          "id": "auto-ab950d4f815d",
+          "title": "Galaxy S25 FE 影像能力相关消息",
           "originalTitle": "",
-          "source": "SamMobile",
+          "source": "Gizmochina",
           "brand": "Samsung",
           "type": "爆料",
           "trust": "媒体汇总",
           "date": "2026-08-01",
-          "time": "14:33",
-          "publishedAt": "2026-08-01T14:33:42.000Z",
-          "url": "https://www.sammobile.com/news/one-galaxy-z-fold-8-and-ultra-feature-every-new-user-should-try/",
-          "image": "https://www.sammobile.com/wp-content/uploads/2026/08/Screenshot_20260801_165537_One-UI-Home-1920x1336.jpg",
+          "time": "10:10",
+          "publishedAt": "2026-08-01T10:10:43.000Z",
+          "url": "https://www.gizmochina.com/2026/08/01/samsung-galaxy-s25-fe-vs-nothing-phone-4b/",
+          "image": "https://www.gizmochina.com/wp-content/uploads/2026/08/image-2-300x196.png?x23692",
           "verdict": "可略过",
-          "takeaway": "Samsung 折叠屏相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
-          "detail": "Samsung 折叠屏相关消息。重点看折痕、铰链、厚度、屏幕可靠性和重量是否有实质改善。",
+          "takeaway": "Samsung 影像能力相关宣传或案例，主要看是否透露拍摄能力变化。",
+          "detail": "Galaxy S25 FE 影像能力相关消息。重点看影像功能是否和新机硬件有关，如果只是拍摄案例或营销内容，参考价值会低一些。",
           "keyPoints": [
-            "爆料"
+            "影像硬件",
+            "电池 / 充电"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+          "impact": "影响日常体验，尤其是游戏、拍照和长时间使用。",
+          "action": "有具体参数就记录到参数库；没有参数就先收藏。"
         }
       ]
     }
