@@ -1,6 +1,26 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-08-01T13:54:10.731Z",
+  "updatedAt": "2026-08-01T15:18:02.479Z",
   "news": [
+    {
+      "id": "auto-c1452736e932",
+      "title": "One Galaxy Z Fold 8 and Ultra feature every new user should try",
+      "source": "SamMobile",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-01",
+      "time": "14:33",
+      "publishedAt": "2026-08-01T14:33:42.000Z",
+      "url": "https://www.sammobile.com/news/one-galaxy-z-fold-8-and-ultra-feature-every-new-user-should-try/",
+      "image": "https://www.sammobile.com/wp-content/uploads/2026/08/Screenshot_20260801_165537_One-UI-Home-1920x1336.jpg",
+      "summary": "The Galaxy Z Fold 8 and Galaxy Z Fold 8 Ultra offer a few customization options that simply wouldn't make sense on a regular smartphone. One of the best is the ability to use sepa…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-ef8d9f54ae8f",
       "title": "I've been loving the Samsung Galaxy Z Fold 8, but it misses a pivotal foldable tool",
