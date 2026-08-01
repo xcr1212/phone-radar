@@ -1,6 +1,86 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-08-01T03:48:21.372Z",
+  "updatedAt": "2026-08-01T06:39:52.474Z",
   "news": [
+    {
+      "id": "auto-0e15e8427029",
+      "title": "Honor Magic 9 series launch will increase competition in September",
+      "source": "Huawei Central",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-01",
+      "time": "06:31",
+      "publishedAt": "2026-08-01T06:31:54.000Z",
+      "url": "https://www.huaweicentral.com/honor-magic-9-series-launch-will-increase-competition-in-september/",
+      "image": "https://www.huaweicentral.com/wp-content/uploads/2026/04/Magic-7.jpg",
+      "summary": "Honor Magic 9 Series has become a hot topic of discussion in the smartphone market after a rumor about its launch time made a debut – why so? Well, the flagship lineup can step on…",
+      "tags": [
+        "HONOR",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-1fb77369e435",
+      "title": "可维修模块化手机 Fairphone 6+ 曝光：12GB 内存、3 种颜色",
+      "source": "IT之家",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-01",
+      "time": "06:02",
+      "publishedAt": "2026-08-01T06:02:29.000Z",
+      "url": "https://www.ithome.com/0/984/494.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/8/249f5a62-d4ed-4208-8103-f1572325bcdf.png?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 8 月 1 日消息，科技媒体 nieuwemobiel 昨日（7 月 31 日）发布博文，报道称 Fairphone 6+ 将接棒 2025 年发布的 Fairphone 6 可维修模块化手机，内存从 8GB 升级到 12GB。 IT之家曾于 2025 年报道， Fairphone 6 可维修模块化手机搭载骁龙 7s Gen 3 芯片 、配备更大…",
+      "tags": [
+        "行业",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-b46e39ccb93a",
+      "title": "“赤霞珠红”色小米 REDMI K100 Pro Max 手机实拍上手",
+      "source": "IT之家",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-01",
+      "time": "05:41",
+      "publishedAt": "2026-08-01T05:41:37.000Z",
+      "url": "https://www.ithome.com/0/984/490.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/8/f7a98232-1f36-4dd8-8ec2-f7d866ebf0ac.jpg?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 8 月 1 日消息，第二十三届中国国际数码互动娱乐展览会（ChinaJoy，7 月 31 日 ~8 月 3 日）上，小米 REDMI 在 N5 馆骁龙联合展台（N5-02）上， 揭幕了年度重磅新品 REDMI K100 系列。 新机采用 6.9 英寸超窄边直屏，四曲包裹式金属中框，还有一体化金属 DECO，以及全新悬浮灯环设计可随音乐律动。 据卢…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-ffbd6ffc2500",
+      "title": "竹本青：【iPhone 17系列 中国区最新销量曝光：周增约58.25万台，累计突破3897万台】 8月1日，博主「RD观…",
+      "source": "竹本青",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-08-01",
+      "time": "05:07",
+      "publishedAt": "2026-08-01T05:07:34.000Z",
+      "url": "https://www.coolapk.com/feed/73034052",
+      "image": "http://image.coolapk.com/feed/2026/0801/13/4248714_c758e481_0853_4603_788@3360x2467.jpg",
+      "summary": "【iPhone 17系列 中国区最新销量曝光：周增约58.25万台，累计突破3897万台】 8月1日，博主「RD观测」发布第三方统计数据：截至2026年第30周，iPhone 17系列手机在中国市场累计销量约3897.03万台，周环比新增约58.25万台。 前几周数据如下： 截至 W29 —— 约3838.78万（周增62.43万） 截至 W28 —— 约…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "酷安博主"
+      ]
+    },
     {
       "id": "auto-27367dd51d7a",
       "title": "Samsung Galaxy S27 Ultra leak reveals massive camera and battery overhaul",
@@ -23,7 +103,7 @@ window.phoneRadarAuto = {
     },
     {
       "id": "auto-2c7dfe00a656",
-      "title": "报道称一台苹果 iPhone 17 Pro 从 1.1 公里高空坠落后几乎“完好无损”",
+      "title": "报道称一台苹果 iPhone 17 Pro 从 1.1 千米高空坠落后几乎“完好无损”",
       "source": "IT之家",
       "brand": "iPhone",
       "model": "iPhone 相关机型",
@@ -33,8 +113,8 @@ window.phoneRadarAuto = {
       "time": "02:30",
       "publishedAt": "2026-08-01T02:30:42.000Z",
       "url": "https://www.ithome.com/0/984/450.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/8/1290b41c-f467-4b58-9cc2-ea54bd4b224b.jpg",
-      "summary": "IT之家 8 月 1 日消息，加拿大广播公司 (CBC) 昨日（7 月 31 日）发布视频， 报道称一台苹果 iPhone 17 Pro 手机从 1.1 公里高空坠落，在油菜田里找回后发现几乎“完好无损”。 IT之家查询公开资料，CBC 是加拿大的国家公共广播机构之一，不依赖单一企业广告或商业利益，在重大新闻和事实报道上保持了较高的准确度与严谨性。 CBC…",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/8/1290b41c-f467-4b58-9cc2-ea54bd4b224b.jpg?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 8 月 1 日消息，加拿大广播公司 (CBC) 昨日（7 月 31 日）发布视频， 报道称一台苹果 iPhone 17 Pro 手机从 1.1 千米高空坠落，在油菜田里找回后发现几乎“完好无损”。 IT之家查询公开资料，CBC 是加拿大的国家公共广播机构之一，不依赖单一企业广告或商业利益，在重大新闻和事实报道上保持了较高的准确度与严谨性。 CBC…",
       "tags": [
         "iPhone",
         "爆料",
@@ -199,146 +279,6 @@ window.phoneRadarAuto = {
         "Xiaomi",
         "爆料",
         "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-1806c0cf8fc2",
-      "title": "张雅琪挑战玩手机",
-      "source": "微博热搜",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "待验证",
-      "date": "2026-08-01",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%9B%85%E7%90%AA%E6%8C%91%E6%88%98%E7%8E%A9%E6%89%8B%E6%9C%BA%23&t=31&band_rank=13&Refer=top",
-      "image": "",
-      "summary": "张雅琪挑战玩手机",
-      "tags": [
-        "行业",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "auto-6d2831a9ffde",
-      "title": "小米 REDMI Note 17 Pro Max 手机曝光：9210mAh 硅碳电池、骁龙 6 Gen 5 芯片",
-      "source": "IT之家",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-31",
-      "time": "23:59",
-      "publishedAt": "2026-07-31T23:59:34.000Z",
-      "url": "https://www.ithome.com/0/984/413.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/8/8db2e40a-019d-4482-8cd6-c81440dff3c9.png?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 8 月 1 日消息，科技媒体 YtechB 昨日（7 月 31 日）发布博文，分享了一组渲染图， 展示了小米 REDMI Note 17 Pro Max 手机，并分享了欧盟 EPREL 电池续航标签。 颜色方面，小米 REDMI Note 17 Pro Max 手机上市后预估会有黑色、紫色、云雾灰和绿色 4 种颜色（渲染图暂未展示紫色版）。 云雾…",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-3cc3e3072700",
-      "title": "谷歌 Pixel 11 标准版手机渲染图曝光：4 种颜色，支持 30x 数码变焦",
-      "source": "IT之家",
-      "brand": "Pixel",
-      "model": "Pixel 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-31",
-      "time": "23:46",
-      "publishedAt": "2026-07-31T23:46:55.000Z",
-      "url": "https://www.ithome.com/0/984/411.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/8/8763b72e-88db-45fb-9c3a-48fe3169a2b1.jpg?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 8 月 1 日消息，消息源埃文 · 布拉斯（Evan Blass）昨日（7 月 31 日）在 substack 平台发布动态， 分享了谷歌 Pixel 11 标准版手机相关宣传图。 颜色方面，谷歌计划为 Pixel 11 标准版推出午夜黑（Midnight，偏深绿色）、品红色（Fuschia）、苔藓绿（Moss，浅绿色）以及银紫（Sterling…",
-      "tags": [
-        "Pixel",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-06b71b5bdf58",
-      "title": "蒲得宇预估苹果 iPhone 18e 配 9GB 内存，容量提升 12.5%",
-      "source": "IT之家",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-31",
-      "time": "23:34",
-      "publishedAt": "2026-07-31T23:34:40.000Z",
-      "url": "https://www.ithome.com/0/984/410.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/8/a1afe45d-60c7-48c8-b047-59056ddbcb45.png?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 8 月 1 日消息，广发证券分析师蒲得宇（Jeff Pu）在最新研报中，赞同天风国际证券分析师郭明錤观点， 预估苹果 iPhone 18e 会采用 9GB 内存。 蒲得宇预估苹果公司会在 2027 年 3 月发布 iPhone 18e 机型，会升级配备 9GB 内存，比 iPhone 17e（8GB）增加 1GB 内存。 IT之家曾于今年 6 月…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-cddaa8faf3bf",
-      "title": "曝谷歌即将推出 Pixel Tag 追踪器：椭圆设计，有望本月随 Pixel 11 发布",
-      "source": "IT之家",
-      "brand": "Pixel",
-      "model": "Pixel 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-31",
-      "time": "23:31",
-      "publishedAt": "2026-07-31T23:31:56.000Z",
-      "url": "https://www.ithome.com/0/984/409.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/8/505bc17a-2820-4c17-82c3-2c6b1c30858a.jpg?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 8 月 1 日消息，据科技媒体 9To5Google 昨天报道，谷歌 Pixel Tag 追踪器最近现身网络，预计将在本月发布。 据报道，谷歌 Android 生态目前已有 Find Hub 查找网络，但谷歌自身并没有推出过苹果 AirTag 竞品。从现在的情况来看，这种情况似乎即将改变。 据介绍，这款产品的型号是 GA12506，采用雾光色配色…",
-      "tags": [
-        "Pixel",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-630ea23060a3",
-      "title": "蒲得宇预估苹果 2027Q1 发布 iPhone Air 2：新增 4800 万超广角、A20 Pro 芯片",
-      "source": "IT之家",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-31",
-      "time": "23:21",
-      "publishedAt": "2026-07-31T23:21:46.000Z",
-      "url": "https://www.ithome.com/0/984/407.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/8/c4c4fd13-5105-4228-bd88-2254cd49c9aa.png?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 8 月 1 日消息，广发证券分析师蒲得宇（Jeff Pu）昨日（7 月 31 日）发布研报， 预估苹果公司会在 2027 年第 1 季度发布 iPhone Air 2。 相比初代 iPhone Air，蒲得宇认为 iPhone Air 2 会带来以下 5 项变化： 新增第二个 4800 万像素后置摄像头（超广角镜头)，与现有的 Fusion 镜头…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-4edef0c21a19",
-      "title": "蒲得宇：芯片和内存成本飙升，苹果 iPhone 18 Pro / Max 恐涨价 250~300 美元",
-      "source": "IT之家",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-31",
-      "time": "23:09",
-      "publishedAt": "2026-07-31T23:09:33.000Z",
-      "url": "https://www.ithome.com/0/984/406.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/8/9e4a6f44-3c98-4c9c-a458-cf4616708392.png",
-      "summary": "IT之家 8 月 1 日消息，广发证券分析师蒲得宇（Jeff Pu）昨日（7 月 31 日）在 X 平台发布推文， 预估苹果 iPhone 18 Pro 和 iPhone 18 Pro Max 机型涨价幅度最高可达 250~300 美元 （IT之家注：现汇率约合 1691 ~ 2030 元人民币）。 蒲得宇认为苹果今年旗舰手机涨价压力主要来自芯片和存储。在…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
       ]
     },
     {
@@ -517,26 +457,6 @@ window.phoneRadarAuto = {
       "summary": "Ahead of Google’s Pixel 11 launch, 9to5Google has obtained an image of a new tracker called the “Google Pixel Tag” which has also started to appear in online listings.",
       "tags": [
         "Pixel",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-12f1a2796adf",
-      "title": "2026 年 7 月全球桌面浏览器排行：谷歌 Chrome 70.58%、微软 Edge 11.15%、火狐 Firefox 6.51%",
-      "source": "IT之家",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-31",
-      "time": "16:02",
-      "publishedAt": "2026-07-31T16:02:07.000Z",
-      "url": "https://www.ithome.com/0/984/401.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/8/07cd3de6-5cd0-4093-bd11-11f844aa7448.jpg?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 8 月 1 日消息，根据市场调查机构 Statcounter 公布的最新报告，2026 年 7 月全球桌面浏览器市场中， Chrome 依然稳居第一 ，占比 70.58%，Edge 以 11.15% 的份额占据第二，Firefox 以 6.51% 位居第三。 全球桌面平台 Chrome 占比 70.58%，环比下降 1.48 个百分点 Edge…",
-      "tags": [
-        "行业",
         "爆料",
         "自动抓取"
       ]
@@ -977,26 +897,6 @@ window.phoneRadarAuto = {
       "summary": "Vivo has started selling the X300e in China today. The phone first went official on July 27, and now buyers can pick it up across all storage options in the mainland. The Vivo X30…",
       "tags": [
         "vivo",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-7ab04859d831",
-      "title": "Huawei could bring active cooling upgrade to mid-range phones",
-      "source": "Huawei Central",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-31",
-      "time": "04:23",
-      "publishedAt": "2026-07-31T04:23:57.000Z",
-      "url": "https://www.huaweicentral.com/huawei-could-bring-active-cooling-upgrade-to-mid-range-phones/",
-      "image": "https://www.huaweicentral.com/wp-content/uploads/2026/07/cooling-tech-img.jpg",
-      "summary": "Huawei is seemingly planning a major upgrade for its future mid-range phones: active cooling technology. The new solution will likely show up with the Mate 90 series and may reach…",
-      "tags": [
-        "Huawei",
         "爆料",
         "自动抓取"
       ]
