@@ -1,5 +1,5 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-08-01T10:09:03.238Z",
+  "updatedAt": "2026-08-01T11:34:22.745Z",
   "issueDate": "2026-08-01",
   "issue": "VOL.260801",
   "title": "手机情报日报",
@@ -184,25 +184,28 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
-          "id": "auto-1fb77369e435",
-          "title": "可维修模块化手机 Fairphone 6+ 曝光：12GB 内存、3 种颜色",
+          "id": "coolapk-user-fdda4b89fe16",
+          "title": "竹本青：【荣耀 Play11 Pro 开启预约：1.5K中直屏+7000mAh电池，8+256GB售价2099元】 核心：…",
           "originalTitle": "",
-          "source": "IT之家",
-          "brand": "行业",
+          "source": "竹本青",
+          "brand": "HONOR",
           "type": "爆料",
-          "trust": "媒体汇总",
+          "trust": "高可信爆料",
           "date": "2026-08-01",
-          "time": "06:02",
-          "publishedAt": "2026-08-01T06:02:29.000Z",
-          "url": "https://www.ithome.com/0/984/494.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/8/249f5a62-d4ed-4208-8103-f1572325bcdf.png?x-bce-process=image/format,f_auto",
+          "time": "09:50",
+          "publishedAt": "2026-08-01T09:50:21.000Z",
+          "url": "https://www.coolapk.com/feed/73037654",
+          "image": "http://image.coolapk.com/feed/2026/0801/17/4248714_394fc45b_7819_3359_918@750x1443.jpg",
           "verdict": "先看",
-          "takeaway": "IT之家 8 月 1 日消息，科技媒体 nieuwemobiel 昨日（7 月 31 日）发布博文，报道称 Fairphone 6+ 将接棒 2025 年发布的 Fairphone 6 可维修模块化手机，内存从 8GB 升级到 12GB。 IT之家曾于 2025 年报道， Fairphone 6 可维修模块化手机搭载骁龙 7s Gen 3 芯片 、配备更大…",
-          "detail": "IT之家 8 月 1 日消息，科技媒体 nieuwemobiel 昨日（7 月 31 日）发布博文，报道称 Fairphone 6+ 将接棒 2025 年发布的 Fairphone 6 可维修模块化手机，内存从 8GB 升级到 12GB。 IT之家曾于 2025 年报道， Fairphone 6 可维修模块化手机搭载骁龙 7s Gen 3 芯片 、配备更大…",
+          "takeaway": "【荣耀 Play11 Pro 开启预约：1.5K中直屏+7000mAh电池，8+256GB售价2099元】 核心： ● 天玑 6500系列 处理器 ● 6.6\"1.5K 120Hz OLED直屏 ● 7000mAh电池+45W快充 ● 50MP主摄／8MP前摄 ▫️屏幕： 6500nits峰值亮度｜10.7亿色 95%屏占比｜视觉四等边 3840Hz PW…",
+          "detail": "【荣耀 Play11 Pro 开启预约：1.5K中直屏+7000mAh电池，8+256GB售价2099元】 核心： ● 天玑 6500系列 处理器 ● 6.6\"1.5K 120Hz OLED直屏 ● 7000mAh电池+45W快充 ● 50MP主摄／8MP前摄 ▫️屏幕： 6500nits峰值亮度｜10.7亿色 95%屏占比｜视觉四等边 3840Hz PW…",
           "keyPoints": [
-            "芯片 / 性能"
+            "屏幕形态",
+            "电池 / 充电",
+            "芯片 / 性能",
+            "成本 / 价格"
           ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "confidence": "可信度较高，但仍属于发布前线索。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         }
@@ -214,26 +217,26 @@ window.phoneRadarDaily = {
       "hint": "不是硬件爆料，但和 iPhone 体验或路线有关。",
       "items": [
         {
-          "id": "coolapk-user-ffbd6ffc2500",
-          "title": "竹本青：【iPhone 17系列 中国区最新销量曝光：周增约58.25万台，累计突破3897万台】 8月1日，博主「RD观…",
+          "id": "newsnow-d199869aca3d",
+          "title": "顶配2万元！iPhone18系列这次真的要大涨价了，你还会买吗？[doge]",
           "originalTitle": "",
-          "source": "竹本青",
+          "source": "酷安热榜",
           "brand": "iPhone",
           "type": "爆料",
-          "trust": "高可信爆料",
+          "trust": "高关注爆料源",
           "date": "2026-08-01",
-          "time": "05:07",
-          "publishedAt": "2026-08-01T05:07:34.000Z",
-          "url": "https://www.coolapk.com/feed/73034052",
-          "image": "http://image.coolapk.com/feed/2026/0801/13/4248714_c758e481_0853_4603_788@3360x2467.jpg",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://www.coolapk.com/feed/73023665",
+          "image": "",
           "verdict": "先看",
-          "takeaway": "【iPhone 17系列 中国区最新销量曝光：周增约58.25万台，累计突破3897万台】 8月1日，博主「RD观测」发布第三方统计数据：截至2026年第30周，iPhone 17系列手机在中国市场累计销量约3897.03万台，周环比新增约58.25万台。 前几周数据如下： 截至 W29 —— 约3838.78万（周增62.43万） 截至 W28 —— 约…",
-          "detail": "【iPhone 17系列 中国区最新销量曝光：周增约58.25万台，累计突破3897万台】 8月1日，博主「RD观测」发布第三方统计数据：截至2026年第30周，iPhone 17系列手机在中国市场累计销量约3897.03万台，周环比新增约58.25万台。 前几周数据如下： 截至 W29 —— 约3838.78万（周增62.43万） 截至 W28 —— 约…",
+          "takeaway": "顶配2万元！iPhone18系列这次真的要大涨价了，你还会买吗？[doge]",
+          "detail": "顶配2万元！iPhone18系列这次真的要大涨价了，你还会买吗？[doge]",
           "keyPoints": [
             "爆料"
           ],
-          "confidence": "可信度较高，但仍属于发布前线索。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "影响购买预算，值得先看。",
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         },
         {
@@ -359,27 +362,28 @@ window.phoneRadarDaily = {
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         },
         {
-          "id": "coolapk-user-fdda4b89fe16",
-          "title": "竹本青：荣耀 Play11 Pro 手机开启预约，8+256GB售价2099元 #今日热点# #荣耀Play11Plus#…",
+          "id": "auto-ab950d4f815d",
+          "title": "Galaxy S25 FE 影像能力相关消息",
           "originalTitle": "",
-          "source": "竹本青",
-          "brand": "HONOR",
+          "source": "Gizmochina",
+          "brand": "Samsung",
           "type": "爆料",
-          "trust": "高可信爆料",
+          "trust": "媒体汇总",
           "date": "2026-08-01",
-          "time": "09:50",
-          "publishedAt": "2026-08-01T09:50:21.000Z",
-          "url": "https://www.coolapk.com/feed/73037654",
-          "image": "http://image.coolapk.com/feed/2026/0801/17/4248714_394fc45b_7819_3359_918@750x1443.jpg",
-          "verdict": "扫一眼",
-          "takeaway": "荣耀 Play11 Pro 手机开启预约，8+256GB售价2099元 #今日热点# #荣耀Play11Plus# #MagicOS10#",
-          "detail": "荣耀 Play11 Pro 手机开启预约，8+256GB售价2099元 #今日热点# #荣耀Play11Plus# #MagicOS10#",
+          "time": "10:10",
+          "publishedAt": "2026-08-01T10:10:43.000Z",
+          "url": "https://www.gizmochina.com/2026/08/01/samsung-galaxy-s25-fe-vs-nothing-phone-4b/",
+          "image": "https://www.gizmochina.com/wp-content/uploads/2026/08/image-2-300x196.png?x23692",
+          "verdict": "可略过",
+          "takeaway": "Samsung 影像能力相关宣传或案例，主要看是否透露拍摄能力变化。",
+          "detail": "Galaxy S25 FE 影像能力相关消息。重点看影像功能是否和新机硬件有关，如果只是拍摄案例或营销内容，参考价值会低一些。",
           "keyPoints": [
-            "成本 / 价格"
+            "影像硬件",
+            "电池 / 充电"
           ],
-          "confidence": "可信度较高，但仍属于发布前线索。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "影响日常体验，尤其是游戏、拍照和长时间使用。",
+          "action": "有具体参数就记录到参数库；没有参数就先收藏。"
         },
         {
           "id": "auto-00da1aac4a54",

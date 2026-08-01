@@ -1,9 +1,49 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-08-01T10:09:03.238Z",
+  "updatedAt": "2026-08-01T11:34:22.745Z",
   "news": [
     {
+      "id": "auto-eeecf0c8f7f2",
+      "title": "I’ve used the Galaxy Z Flip 8 and Motorola Razr Ultra 2026. Only one deserves your money",
+      "source": "Android Authority",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-01",
+      "time": "11:00",
+      "publishedAt": "2026-08-01T11:00:15.000Z",
+      "url": "https://www.androidauthority.com/samsung-galaxy-z-flip-8-vs-motorola-razr-ultra-2026-hands-on-3692170/",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2026/07/Galaxy-Z-Flip-8-Motorola-Razr-Ultra-2026-side-by-side.jpg",
+      "summary": "I only want one in my pocket again this year.",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-ab950d4f815d",
+      "title": "Samsung Galaxy S25 FE vs Nothing Phone (4b): Camera, Battery, Performance Compared",
+      "source": "Gizmochina",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-01",
+      "time": "10:10",
+      "publishedAt": "2026-08-01T10:10:43.000Z",
+      "url": "https://www.gizmochina.com/2026/08/01/samsung-galaxy-s25-fe-vs-nothing-phone-4b/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/08/image-2-300x196.png?x23692",
+      "summary": "If you’re choosing between a premium flagship experience and a feature-packed mid-range contender, the Samsung Galaxy S25 FE and Nothing Phone (4b) offer two very different approa…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
       "id": "coolapk-user-fdda4b89fe16",
-      "title": "竹本青：荣耀 Play11 Pro 手机开启预约，8+256GB售价2099元 #今日热点# #荣耀Play11Plus#…",
+      "title": "竹本青：【荣耀 Play11 Pro 开启预约：1.5K中直屏+7000mAh电池，8+256GB售价2099元】 核心：…",
       "source": "竹本青",
       "brand": "HONOR",
       "model": "HONOR 相关机型",
@@ -14,7 +54,7 @@ window.phoneRadarAuto = {
       "publishedAt": "2026-08-01T09:50:21.000Z",
       "url": "https://www.coolapk.com/feed/73037654",
       "image": "http://image.coolapk.com/feed/2026/0801/17/4248714_394fc45b_7819_3359_918@750x1443.jpg",
-      "summary": "荣耀 Play11 Pro 手机开启预约，8+256GB售价2099元 #今日热点# #荣耀Play11Plus# #MagicOS10#",
+      "summary": "【荣耀 Play11 Pro 开启预约：1.5K中直屏+7000mAh电池，8+256GB售价2099元】 核心： ● 天玑 6500系列 处理器 ● 6.6\"1.5K 120Hz OLED直屏 ● 7000mAh电池+45W快充 ● 50MP主摄／8MP前摄 ▫️屏幕： 6500nits峰值亮度｜10.7亿色 95%屏占比｜视觉四等边 3840Hz PW…",
       "tags": [
         "HONOR",
         "爆料",
@@ -113,8 +153,8 @@ window.phoneRadarAuto = {
       "time": "07:25",
       "publishedAt": "2026-08-01T07:25:52.000Z",
       "url": "https://www.gizmochina.com/2026/08/01/oneplus-n6x-launched-in-india-with-dimensity-6360-apex-chipset-7000mah-battery/",
-      "image": "https://www.gizmochina.com/wp-content/uploads/2026/08/images-design-slide-2-d7111-55572e.jpg-300x177.webp?x23692",
-      "summary": "OnePlus has finally launched the N6X, which sits below the N6 from earlier this year. It retains many of the specifications of the N6 while costing a little less for the same conf…",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/08/images-design-slide-1-d7111-80a6e7.jpg-300x177.webp?x23692",
+      "summary": "OnePlus has finally launched the N6x, which sits below the N6 from earlier this year. It retains many of the specifications of the N6 while costing a little less for the same conf…",
       "tags": [
         "OPPO",
         "爆料",
@@ -219,26 +259,6 @@ window.phoneRadarAuto = {
         "Xiaomi",
         "爆料",
         "自动抓取"
-      ]
-    },
-    {
-      "id": "coolapk-user-ffbd6ffc2500",
-      "title": "竹本青：【iPhone 17系列 中国区最新销量曝光：周增约58.25万台，累计突破3897万台】 8月1日，博主「RD观…",
-      "source": "竹本青",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-08-01",
-      "time": "05:07",
-      "publishedAt": "2026-08-01T05:07:34.000Z",
-      "url": "https://www.coolapk.com/feed/73034052",
-      "image": "http://image.coolapk.com/feed/2026/0801/13/4248714_c758e481_0853_4603_788@3360x2467.jpg",
-      "summary": "【iPhone 17系列 中国区最新销量曝光：周增约58.25万台，累计突破3897万台】 8月1日，博主「RD观测」发布第三方统计数据：截至2026年第30周，iPhone 17系列手机在中国市场累计销量约3897.03万台，周环比新增约58.25万台。 前几周数据如下： 截至 W29 —— 约3838.78万（周增62.43万） 截至 W28 —— 约…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "酷安博主"
       ]
     },
     {
@@ -377,6 +397,26 @@ window.phoneRadarAuto = {
       "summary": "2026年第30周国内手机市场份额曝光：小米升至榜三",
       "tags": [
         "Xiaomi",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-d199869aca3d",
+      "title": "顶配2万元！iPhone18系列这次真的要大涨价了，你还会买吗？[doge]",
+      "source": "酷安热榜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-08-01",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/73023665",
+      "image": "",
+      "summary": "顶配2万元！iPhone18系列这次真的要大涨价了，你还会买吗？[doge]",
+      "tags": [
+        "iPhone",
         "爆料",
         "NewsNow"
       ]
@@ -917,26 +957,6 @@ window.phoneRadarAuto = {
       "summary": "The Z Fold 8 Ultra gives me enough reasons to spend the extra money.",
       "tags": [
         "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-9ea0c60a592c",
-      "title": "Huawei Mate 90 Fan Edition tipped to use Tau Law’s Kirin chip",
-      "source": "Huawei Central",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-31",
-      "time": "09:29",
-      "publishedAt": "2026-07-31T09:29:09.000Z",
-      "url": "https://www.huaweicentral.com/huawei-mate-90-fan-edition-tipped-to-use-tau-laws-kirin-chip/",
-      "image": "https://www.huaweicentral.com/wp-content/uploads/2026/07/Fan-Edition-leak.jpg",
-      "summary": "Huawei Mate 90 series is expected to bring five models this year, including a Fan Edition, and this device is rumored to feature the Tau Law’s Kirin chip – just like the high-end…",
-      "tags": [
-        "Huawei",
         "爆料",
         "自动抓取"
       ]
