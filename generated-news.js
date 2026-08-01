@@ -1,6 +1,66 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-08-01T21:08:16.305Z",
+  "updatedAt": "2026-08-01T23:10:18.207Z",
   "news": [
+    {
+      "id": "auto-2f9170cf0a22",
+      "title": "谷歌 Pixel 11 全系配置、售价曝光：含标准版、Pro、Pro XL 及 Pro Fold 折叠机型",
+      "source": "IT之家",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-01",
+      "time": "23:01",
+      "publishedAt": "2026-08-01T23:01:08.000Z",
+      "url": "https://www.ithome.com/0/984/641.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/8/6cbc7d7d-e6f0-42ec-8c45-2e982ad8b4a2.jpg?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 8 月 2 日消息，Android Headlines 已经提前拿到了谷歌 Pixel 11 全系四款新机的完整规格信息，同时还获得了美国和欧洲市场的售价。 此次曝光的机型包括 Google Pixel 11、Pixel 11 Pro、Pixel 11 Pro XL 和 Pixel 11 Pro Fold。由于机型较多，下面分别介绍每款产品的配置…",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-c798a7b06d8a",
+      "title": "Apple Upgrade might’ve provided our first hint for what could change with Apple Card",
+      "source": "9to5Mac",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-01",
+      "time": "21:52",
+      "publishedAt": "2026-08-01T21:52:35.000Z",
+      "url": "https://9to5mac.com/2026/08/01/apple-upgrade-will-it-replace-apple-card-monhtly-installments/",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/apple-upgrade-ipad.jpg?quality=82&strip=all&w=1600",
+      "summary": "This week, Apple launched Apple Upgrade , its new leasing program for most Apple products. It replaces the iPhone Upgrade Program entirely, and for the most part, it’s an incredib…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-bfffe3c86d90",
+      "title": "Pixel 11 specs and price leak with no surprises",
+      "source": "The Verge",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-01",
+      "time": "21:31",
+      "publishedAt": "2026-08-01T21:31:24.000Z",
+      "url": "https://www.theverge.com/tech/974238/pixel-11-specs-and-price-leak",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/videoframe_16661.png?quality=90&strip=all&crop=0,0,100,100",
+      "summary": "Android Headlines claims to have the specs and price for the entire Pixel 11 lineup. What the site shared basically lines up with everything else that we've heard in the lead-up t…",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-86056391e366",
       "title": "Can you use Samsung Galaxy Z Fold 7 cases on the Galaxy Z Fold 8 Ultra?",
@@ -522,21 +582,21 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-c74f1a40228e",
-      "title": "本期酷周报核心看点：高通9月起上调芯片价格；小米澎程系列预售价正式公布；苹果、三星最新财报出炉；网传智驾小蓝灯将被禁用；国产浸没式DUV光刻机被曝量产；极客湾曝光手机电池锁容等现象。",
+      "id": "newsnow-e49d8038d72b",
+      "title": "2020 年，回头看仍是机圈极具魔幻现实主义色彩的一年。厂商大喊 “5G 元年”，对换机用户而言却是 “涨价元年”—— 旗舰机型仿佛统一了口径，集体上调八百至一千的价格，携手迈入3999的时代。",
       "source": "酷安热榜",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
+      "brand": "行业",
+      "model": "智能手机市场",
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-08-01",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73022137",
+      "url": "https://www.coolapk.com/feed/70266966",
       "image": "",
-      "summary": "本期酷周报核心看点：高通9月起上调芯片价格；小米澎程系列预售价正式公布；苹果、三星最新财报出炉；网传智驾小蓝灯将被禁用；国产浸没式DUV光刻机被曝量产；极客湾曝光手机电池锁容等现象。",
+      "summary": "2020 年，回头看仍是机圈极具魔幻现实主义色彩的一年。厂商大喊 “5G 元年”，对换机用户而言却是 “涨价元年”—— 旗舰机型仿佛统一了口径，集体上调八百至一千的价格，携手迈入3999的时代。",
       "tags": [
-        "Samsung",
+        "行业",
         "爆料",
         "NewsNow"
       ]
@@ -597,26 +657,6 @@ window.phoneRadarAuto = {
       "summary": "A few days ago, Samsung launched its latest smartphones with foldable displays, the Galaxy Z Fold 8 Ultra, Galaxy Z Fold 8, and the Galaxy Z Flip 8. Now, to celebrate the launch o…",
       "tags": [
         "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-d3efc8146fcf",
-      "title": "Apple’s new AirTags are back down to their best price",
-      "source": "The Verge",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-31",
-      "time": "19:35",
-      "publishedAt": "2026-07-31T19:35:45.000Z",
-      "url": "https://www.theverge.com/gadgets/973973/apple-airtag-second-generation-deal-sale",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/268280_AirTags_2_AKrales_0003.jpg?w=300",
-      "summary": "We spotted a great deal on Tile trackers earlier this week that’s still live, but if you’re an iPhone owner, we ultimately recommend Apple’s latest AirTag. Right now, you can pick…",
-      "tags": [
-        "iPhone",
         "爆料",
         "自动抓取"
       ]

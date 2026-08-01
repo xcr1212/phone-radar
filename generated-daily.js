@@ -1,11 +1,11 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-08-01T21:08:16.305Z",
+  "updatedAt": "2026-08-01T23:10:18.207Z",
   "issueDate": "2026-08-01",
   "issue": "VOL.260801",
   "title": "手机情报日报",
-  "intro": "今日筛出 19 条重点，其中 8 条是重点爆料，包含 7 条 iPhone 相关、0 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 18 条重点，其中 8 条是重点爆料，包含 7 条 iPhone 相关、0 条官方确认、0 条参数线索。",
   "stats": {
-    "total": 19,
+    "total": 18,
     "iphone": 7,
     "leaks": 8,
     "official": 0,
@@ -88,6 +88,29 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
+          "id": "auto-2f9170cf0a22",
+          "title": "谷歌 Pixel 11 全系配置、售价曝光：含标准版、Pro、Pro XL 及 Pro Fold 折叠机型",
+          "originalTitle": "",
+          "source": "IT之家",
+          "brand": "Pixel",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-08-01",
+          "time": "23:01",
+          "publishedAt": "2026-08-01T23:01:08.000Z",
+          "url": "https://www.ithome.com/0/984/641.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/8/6cbc7d7d-e6f0-42ec-8c45-2e982ad8b4a2.jpg?x-bce-process=image/format,f_auto",
+          "verdict": "先看",
+          "takeaway": "IT之家 8 月 2 日消息，Android Headlines 已经提前拿到了谷歌 Pixel 11 全系四款新机的完整规格信息，同时还获得了美国和欧洲市场的售价。 此次曝光的机型包括 Google Pixel 11、Pixel 11 Pro、Pixel 11 Pro XL 和 Pixel 11 Pro Fold。由于机型较多，下面分别介绍每款产品的配置…",
+          "detail": "IT之家 8 月 2 日消息，Android Headlines 已经提前拿到了谷歌 Pixel 11 全系四款新机的完整规格信息，同时还获得了美国和欧洲市场的售价。 此次曝光的机型包括 Google Pixel 11、Pixel 11 Pro、Pixel 11 Pro XL 和 Pixel 11 Pro Fold。由于机型较多，下面分别介绍每款产品的配置…",
+          "keyPoints": [
+            "成本 / 价格"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
           "id": "auto-fb8255c4660c",
           "title": "荣耀 Play11 Pro 手机上架：7000mAh 电池、8GB+256GB 售价 2099 元",
           "originalTitle": "",
@@ -107,32 +130,6 @@ window.phoneRadarDaily = {
             "屏幕形态",
             "电池 / 充电",
             "成本 / 价格"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "newsnow-c74f1a40228e",
-          "title": "本期酷周报核心看点：高通9月起上调芯片价格；小米澎程系列预售价正式公布；苹果、三星最新财报出炉；网传智驾小蓝灯将被禁用；国产浸没式DUV光刻机被曝量产；极客湾曝光手机电池锁容等现象。",
-          "originalTitle": "",
-          "source": "酷安热榜",
-          "brand": "Samsung",
-          "type": "爆料",
-          "trust": "高关注爆料源",
-          "date": "2026-08-01",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://www.coolapk.com/feed/73022137",
-          "image": "",
-          "verdict": "先看",
-          "takeaway": "本期酷周报核心看点：高通9月起上调芯片价格；小米澎程系列预售价正式公布；苹果、三星最新财报出炉；网传智驾小蓝灯将被禁用；国产浸没式DUV光刻机被曝量产；极客湾曝光手机电池锁容等现象。",
-          "detail": "本期酷周报核心看点：高通9月起上调芯片价格；小米澎程系列预售价正式公布；苹果、三星最新财报出炉；网传智驾小蓝灯将被禁用；国产浸没式DUV光刻机被曝量产；极客湾曝光手机电池锁容等现象。",
-          "keyPoints": [
-            "电池 / 充电",
-            "芯片 / 性能",
-            "成本 / 价格",
-            "爆料来源"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
@@ -338,29 +335,6 @@ window.phoneRadarDaily = {
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是实际体验内容，买前适合重点看缺点和取舍。",
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
-        {
-          "id": "auto-b402e063a075",
-          "title": "Pixel 11 Pro Fold 折叠屏相关消息",
-          "originalTitle": "",
-          "source": "Android Central",
-          "brand": "Pixel",
-          "type": "评测",
-          "trust": "媒体汇总",
-          "date": "2026-08-01",
-          "time": "12:58",
-          "publishedAt": "2026-08-01T12:58:32.000Z",
-          "url": "https://www.androidcentral.com/phones/google-pixel/should-you-wait-for-the-google-pixel-11-pro-fold",
-          "image": "https://cdn.mos.cms.futurecdn.net/9cDhjPELv7mxhqpLiwQpm-1280-80.jpg",
-          "verdict": "可略过",
-          "takeaway": "Pixel 有系统功能或 AI 体验更新，适合关注后续是否影响日常使用。",
-          "detail": "Pixel 11 Pro Fold 折叠屏相关消息。重点看折痕、铰链、厚度、屏幕可靠性和重量是否有实质改善。",
-          "keyPoints": [
-            "评测"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是实际体验内容，买前适合重点看缺点和取舍。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         }
       ]
     },
@@ -439,6 +413,29 @@ window.phoneRadarDaily = {
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         },
         {
+          "id": "newsnow-e49d8038d72b",
+          "title": "2020 年，回头看仍是机圈极具魔幻现实主义色彩的一年。厂商大喊 “5G 元年”，对换机用户而言却是 “涨价元年”—— 旗舰机型仿佛统一了口径，集体上调八百至一千的价格，携手迈入3999的时代。",
+          "originalTitle": "",
+          "source": "酷安热榜",
+          "brand": "行业",
+          "type": "爆料",
+          "trust": "高关注爆料源",
+          "date": "2026-08-01",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://www.coolapk.com/feed/70266966",
+          "image": "",
+          "verdict": "扫一眼",
+          "takeaway": "2020 年，回头看仍是机圈极具魔幻现实主义色彩的一年。厂商大喊 “5G 元年”，对换机用户而言却是 “涨价元年”—— 旗舰机型仿佛统一了口径，集体上调八百至一千的价格，携手迈入3999的时代。",
+          "detail": "2020 年，回头看仍是机圈极具魔幻现实主义色彩的一年。厂商大喊 “5G 元年”，对换机用户而言却是 “涨价元年”—— 旗舰机型仿佛统一了口径，集体上调八百至一千的价格，携手迈入3999的时代。",
+          "keyPoints": [
+            "成本 / 价格"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "影响购买预算，值得先看。",
+          "action": "有具体参数就记录到参数库；没有参数就先收藏。"
+        },
+        {
           "id": "coolapk-user-798ff455c916",
           "title": "竹本青：K90标准版在上个月初，已经涨价了200元；Turbo5系列是在取消新春特惠、大内存补贴的情况下，全系再涨300元…",
           "originalTitle": "",
@@ -460,30 +457,6 @@ window.phoneRadarDaily = {
           "confidence": "可信度较高，但仍属于发布前线索。",
           "impact": "影响购买预算，值得先看。",
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
-        {
-          "id": "auto-ab950d4f815d",
-          "title": "Galaxy S25 FE 影像能力相关消息",
-          "originalTitle": "",
-          "source": "Gizmochina",
-          "brand": "Samsung",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-08-01",
-          "time": "10:10",
-          "publishedAt": "2026-08-01T10:10:43.000Z",
-          "url": "https://www.gizmochina.com/2026/08/01/samsung-galaxy-s25-fe-vs-nothing-phone-4b/",
-          "image": "https://www.gizmochina.com/wp-content/uploads/2026/08/image-2-300x196.png?x23692",
-          "verdict": "可略过",
-          "takeaway": "Samsung 影像能力相关宣传或案例，主要看是否透露拍摄能力变化。",
-          "detail": "Galaxy S25 FE 影像能力相关消息。重点看影像功能是否和新机硬件有关，如果只是拍摄案例或营销内容，参考价值会低一些。",
-          "keyPoints": [
-            "影像硬件",
-            "电池 / 充电"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "影响日常体验，尤其是游戏、拍照和长时间使用。",
-          "action": "有具体参数就记录到参数库；没有参数就先收藏。"
         }
       ]
     }
