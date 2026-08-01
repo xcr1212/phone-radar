@@ -1,6 +1,46 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-08-01T11:34:22.745Z",
+  "updatedAt": "2026-08-01T13:54:10.731Z",
   "news": [
+    {
+      "id": "auto-ef8d9f54ae8f",
+      "title": "I've been loving the Samsung Galaxy Z Fold 8, but it misses a pivotal foldable tool",
+      "source": "Android Police",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-01",
+      "time": "13:30",
+      "publishedAt": "2026-08-01T13:30:15.000Z",
+      "url": "https://www.androidpolice.com/samsung-galaxy-z-fold-8-misses-pivotal-foldable-tool/",
+      "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2026/07/samsung-galaxy-z-fold-8-no-flex-mode.jpg",
+      "summary": "Weird flex — or lack of one",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-b402e063a075",
+      "title": "Should you wait for the Google Pixel 11 Pro Fold?",
+      "source": "Android Central",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-08-01",
+      "time": "12:58",
+      "publishedAt": "2026-08-01T12:58:32.000Z",
+      "url": "https://www.androidcentral.com/phones/google-pixel/should-you-wait-for-the-google-pixel-11-pro-fold",
+      "image": "https://cdn.mos.cms.futurecdn.net/9cDhjPELv7mxhqpLiwQpm-1280-80.jpg",
+      "summary": "Need to buy a foldable? There are decent choices in the U.S., and I'd suggest waiting until August 12 to see what Google has to deliver with the Pixel 11 Pro Fold.",
+      "tags": [
+        "Pixel",
+        "评测",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-eeecf0c8f7f2",
       "title": "I’ve used the Galaxy Z Flip 8 and Motorola Razr Ultra 2026. Only one deserves your money",
@@ -153,7 +193,7 @@ window.phoneRadarAuto = {
       "time": "07:25",
       "publishedAt": "2026-08-01T07:25:52.000Z",
       "url": "https://www.gizmochina.com/2026/08/01/oneplus-n6x-launched-in-india-with-dimensity-6360-apex-chipset-7000mah-battery/",
-      "image": "https://www.gizmochina.com/wp-content/uploads/2026/08/images-design-slide-1-d7111-80a6e7.jpg-300x177.webp?x23692",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/08/9b44cb679a767ac76c86cd321ca8ee54-1-2-300x169.jpg?x23692",
       "summary": "OnePlus has finally launched the N6x, which sits below the N6 from earlier this year. It retains many of the specifications of the N6 while costing a little less for the same conf…",
       "tags": [
         "OPPO",
@@ -217,46 +257,6 @@ window.phoneRadarAuto = {
       "summary": "Honor Magic 9 Series has become a hot topic of discussion in the smartphone market after a rumor about its launch time made a debut – why so? Well, the flagship lineup can step on…",
       "tags": [
         "HONOR",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-1fb77369e435",
-      "title": "可维修模块化手机 Fairphone 6+ 曝光：12GB 内存、3 种颜色",
-      "source": "IT之家",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-01",
-      "time": "06:02",
-      "publishedAt": "2026-08-01T06:02:29.000Z",
-      "url": "https://www.ithome.com/0/984/494.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/8/249f5a62-d4ed-4208-8103-f1572325bcdf.png?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 8 月 1 日消息，科技媒体 nieuwemobiel 昨日（7 月 31 日）发布博文，报道称 Fairphone 6+ 将接棒 2025 年发布的 Fairphone 6 可维修模块化手机，内存从 8GB 升级到 12GB。 IT之家曾于 2025 年报道， Fairphone 6 可维修模块化手机搭载骁龙 7s Gen 3 芯片 、配备更大…",
-      "tags": [
-        "行业",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-b46e39ccb93a",
-      "title": "“赤霞珠红”色小米 REDMI K100 Pro Max 手机实拍上手",
-      "source": "IT之家",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-01",
-      "time": "05:41",
-      "publishedAt": "2026-08-01T05:41:37.000Z",
-      "url": "https://www.ithome.com/0/984/490.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/8/f7a98232-1f36-4dd8-8ec2-f7d866ebf0ac.jpg?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 8 月 1 日消息，第二十三届中国国际数码互动娱乐展览会（ChinaJoy，7 月 31 日 ~8 月 3 日）上，小米 REDMI 在 N5 馆骁龙联合展台（N5-02）上， 揭幕了年度重磅新品 REDMI K100 系列。 新机采用 6.9 英寸超窄边直屏，四曲包裹式金属中框，还有一体化金属 DECO，以及全新悬浮灯环设计可随音乐律动。 据卢…",
-      "tags": [
-        "Xiaomi",
         "爆料",
         "自动抓取"
       ]
@@ -382,26 +382,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-d36e2eb6f1d5",
-      "title": "2026年第30周国内手机市场份额曝光：小米升至榜三",
-      "source": "酷安热榜",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-08-01",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73018713",
-      "image": "",
-      "summary": "2026年第30周国内手机市场份额曝光：小米升至榜三",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
       "id": "newsnow-d199869aca3d",
       "title": "顶配2万元！iPhone18系列这次真的要大涨价了，你还会买吗？[doge]",
       "source": "酷安热榜",
@@ -417,6 +397,26 @@ window.phoneRadarAuto = {
       "summary": "顶配2万元！iPhone18系列这次真的要大涨价了，你还会买吗？[doge]",
       "tags": [
         "iPhone",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-d36e2eb6f1d5",
+      "title": "2026年第30周国内手机市场份额曝光：小米升至榜三",
+      "source": "酷安热榜",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-08-01",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/73018713",
+      "image": "",
+      "summary": "2026年第30周国内手机市场份额曝光：小米升至榜三",
+      "tags": [
+        "Xiaomi",
         "爆料",
         "NewsNow"
       ]
@@ -782,26 +782,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-d0db95eedd76",
-      "title": "I wanted Privacy Display on the Galaxy Z Fold 8, now I’m glad Samsung skipped it",
-      "source": "SamMobile",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-31",
-      "time": "13:27",
-      "publishedAt": "2026-07-31T13:27:11.000Z",
-      "url": "https://www.sammobile.com/opinion/wanted-privacy-display-galaxy-z-fold-8-glad-samsung-skipped/",
-      "image": "",
-      "summary": "When Samsung unveiled Privacy Display alongside the Galaxy S26 Ultra earlier this year, I immediately hoped the technology would make its way to the company's Galaxy Z8 foldable p…",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-f4e81dac9f65",
       "title": "Redmi Note 17 Pro vs iQOO Z11 Comparison: Specs, Camera, Battery & Price",
       "source": "Gizmochina",
@@ -857,26 +837,6 @@ window.phoneRadarAuto = {
       "summary": "This year's iPhone 18 Pro and iPhone 18 Pro Max could be $250-$300 more expensive than existing iPhone 17 Pro models due to higher silicon and memory costs, an analyst claimed tod…",
       "tags": [
         "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-9c6d1a4b5316",
-      "title": "Honor Magic 9 series could launch sooner than expected",
-      "source": "Huawei Central",
-      "brand": "HONOR",
-      "model": "HONOR 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-07-31",
-      "time": "11:04",
-      "publishedAt": "2026-07-31T11:04:55.000Z",
-      "url": "https://www.huaweicentral.com/honor-magic-9-series-could-launch-sooner-than-expected/",
-      "image": "https://www.huaweicentral.com/wp-content/uploads/2026/04/Magic8.jpg",
-      "summary": "Honor Magic 9 series was in rumors to follow its predecessors in terms of launch timeframe and show up in October, but it seems the flagship smartphones could step on stage sooner…",
-      "tags": [
-        "HONOR",
         "爆料",
         "自动抓取"
       ]

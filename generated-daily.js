@@ -1,11 +1,11 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-08-01T11:34:22.745Z",
+  "updatedAt": "2026-08-01T13:54:10.731Z",
   "issueDate": "2026-08-01",
   "issue": "VOL.260801",
   "title": "手机情报日报",
-  "intro": "今日筛出 16 条重点，其中 8 条是重点爆料，包含 8 条 iPhone 相关、0 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 18 条重点，其中 8 条是重点爆料，包含 8 条 iPhone 相关、0 条官方确认、0 条参数线索。",
   "stats": {
-    "total": 16,
+    "total": 18,
     "iphone": 8,
     "leaks": 8,
     "official": 0,
@@ -112,29 +112,6 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
-          "id": "auto-b46e39ccb93a",
-          "title": "“赤霞珠红”色小米 REDMI K100 Pro Max 手机实拍上手",
-          "originalTitle": "",
-          "source": "IT之家",
-          "brand": "Xiaomi",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-08-01",
-          "time": "05:41",
-          "publishedAt": "2026-08-01T05:41:37.000Z",
-          "url": "https://www.ithome.com/0/984/490.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/8/f7a98232-1f36-4dd8-8ec2-f7d866ebf0ac.jpg?x-bce-process=image/format,f_auto",
-          "verdict": "先看",
-          "takeaway": "IT之家 8 月 1 日消息，第二十三届中国国际数码互动娱乐展览会（ChinaJoy，7 月 31 日 ~8 月 3 日）上，小米 REDMI 在 N5 馆骁龙联合展台（N5-02）上， 揭幕了年度重磅新品 REDMI K100 系列。 新机采用 6.9 英寸超窄边直屏，四曲包裹式金属中框，还有一体化金属 DECO，以及全新悬浮灯环设计可随音乐律动。 据卢…",
-          "detail": "IT之家 8 月 1 日消息，第二十三届中国国际数码互动娱乐展览会（ChinaJoy，7 月 31 日 ~8 月 3 日）上，小米 REDMI 在 N5 馆骁龙联合展台（N5-02）上， 揭幕了年度重磅新品 REDMI K100 系列。 新机采用 6.9 英寸超窄边直屏，四曲包裹式金属中框，还有一体化金属 DECO，以及全新悬浮灯环设计可随音乐律动。 据卢…",
-          "keyPoints": [
-            "屏幕形态"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
           "id": "newsnow-78fc9929be5b",
           "title": "去cj现场拍了几张 #REDMIK100ProMax# 「赤霞珠红」配色，大家觉得怎么样[喝茶]",
           "originalTitle": "",
@@ -204,6 +181,29 @@ window.phoneRadarDaily = {
             "电池 / 充电",
             "芯片 / 性能",
             "成本 / 价格"
+          ],
+          "confidence": "可信度较高，但仍属于发布前线索。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "coolapk-user-94ecc15b1fba",
+          "title": "JSCHEN小小狐：顺便去湖滨华为看了下 nova 16 SE 确实是畅享 90 Pro Max 小改款 两款的三围完全一样，重量 n…",
+          "originalTitle": "",
+          "source": "JSCHEN小小狐",
+          "brand": "Huawei",
+          "type": "爆料",
+          "trust": "高可信爆料",
+          "date": "2026-07-31",
+          "time": "10:54",
+          "publishedAt": "2026-07-31T10:54:59.000Z",
+          "url": "https://www.coolapk.com/feed/73024084",
+          "image": "http://image.coolapk.com/feed/2026/0731/18/4702274_e3bb9cc7_5293_9174_19-uhdr@2366x3503.jpg",
+          "verdict": "先看",
+          "takeaway": "顺便去湖滨华为看了下 nova 16 SE 确实是畅享 90 Pro Max 小改款 两款的三围完全一样，重量 nova 会小轻 3g。后摄只在畅享基础上加了颗红枫，所以依旧是主摄 cos 超广角，前摄倒是换了颗 1/3'' 的 32Mp。 不过得益于 8020 神力，整机流畅度较畅享明显又上了一个台阶。影像也正常了很多，至少 90PM 上那么恶心人的锐化…",
+          "detail": "顺便去湖滨华为看了下 nova 16 SE 确实是畅享 90 Pro Max 小改款 两款的三围完全一样，重量 nova 会小轻 3g。后摄只在畅享基础上加了颗红枫，所以依旧是主摄 cos 超广角，前摄倒是换了颗 1/3'' 的 32Mp。 不过得益于 8020 神力，整机流畅度较畅享明显又上了一个台阶。影像也正常了很多，至少 90PM 上那么恶心人的锐化…",
+          "keyPoints": [
+            "影像硬件"
           ],
           "confidence": "可信度较高，但仍属于发布前线索。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
@@ -334,6 +334,36 @@ window.phoneRadarDaily = {
       ]
     },
     {
+      "id": "review",
+      "title": "评测与体验",
+      "hint": "买前再细看，平时扫一眼即可。",
+      "items": [
+        {
+          "id": "auto-b402e063a075",
+          "title": "Pixel 11 Pro Fold 折叠屏相关消息",
+          "originalTitle": "",
+          "source": "Android Central",
+          "brand": "Pixel",
+          "type": "评测",
+          "trust": "媒体汇总",
+          "date": "2026-08-01",
+          "time": "12:58",
+          "publishedAt": "2026-08-01T12:58:32.000Z",
+          "url": "https://www.androidcentral.com/phones/google-pixel/should-you-wait-for-the-google-pixel-11-pro-fold",
+          "image": "https://cdn.mos.cms.futurecdn.net/9cDhjPELv7mxhqpLiwQpm-1280-80.jpg",
+          "verdict": "可略过",
+          "takeaway": "Pixel 有系统功能或 AI 体验更新，适合关注后续是否影响日常使用。",
+          "detail": "Pixel 11 Pro Fold 折叠屏相关消息。重点看折痕、铰链、厚度、屏幕可靠性和重量是否有实质改善。",
+          "keyPoints": [
+            "评测"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是实际体验内容，买前适合重点看缺点和取舍。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        }
+      ]
+    },
+    {
       "id": "market",
       "title": "行业趋势",
       "hint": "看方向，不急着当购买依据。",
@@ -354,6 +384,29 @@ window.phoneRadarDaily = {
           "verdict": "先看",
           "takeaway": "2026年第30周国内手机市场份额曝光：小米升至榜三",
           "detail": "2026年第30周国内手机市场份额曝光：小米升至榜三",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        },
+        {
+          "id": "auto-ef8d9f54ae8f",
+          "title": "Samsung 折叠屏相关消息",
+          "originalTitle": "",
+          "source": "Android Police",
+          "brand": "Samsung",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-08-01",
+          "time": "13:30",
+          "publishedAt": "2026-08-01T13:30:15.000Z",
+          "url": "https://www.androidpolice.com/samsung-galaxy-z-fold-8-misses-pivotal-foldable-tool/",
+          "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2026/07/samsung-galaxy-z-fold-8-no-flex-mode.jpg",
+          "verdict": "可略过",
+          "takeaway": "Samsung 折叠屏相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
+          "detail": "Samsung 折叠屏相关消息。重点看折痕、铰链、厚度、屏幕可靠性和重量是否有实质改善。",
           "keyPoints": [
             "爆料"
           ],
