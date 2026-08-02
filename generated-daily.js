@@ -1,11 +1,11 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-08-02T15:18:54.937Z",
+  "updatedAt": "2026-08-02T17:14:09.472Z",
   "issueDate": "2026-08-02",
   "issue": "VOL.260802",
   "title": "手机情报日报",
-  "intro": "今日筛出 15 条重点，其中 8 条是重点爆料，包含 5 条 iPhone 相关、1 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 14 条重点，其中 8 条是重点爆料，包含 5 条 iPhone 相关、1 条官方确认、0 条参数线索。",
   "stats": {
-    "total": 15,
+    "total": 14,
     "iphone": 5,
     "leaks": 8,
     "official": 1,
@@ -17,6 +17,29 @@ window.phoneRadarDaily = {
       "title": "重点爆料",
       "hint": "机模、配色、影像、屏幕、电池和芯片线索先看。",
       "items": [
+        {
+          "id": "auto-edc902178eab",
+          "title": "消息称 Top 5 手机厂商明年全部跟进 1:1 前置摄像头，实现更好的数码变焦效果",
+          "originalTitle": "",
+          "source": "IT之家",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-08-02",
+          "time": "15:35",
+          "publishedAt": "2026-08-02T15:35:20.000Z",
+          "url": "https://www.ithome.com/0/984/820.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/8/0a49ccbf-fcd7-474b-b224-10279c729337.jpg",
+          "verdict": "先看",
+          "takeaway": "IT之家 8 月 2 日消息，博主 @智慧皮卡丘 今日透露，“Top 5”手机厂商明年全部跟进 1:1 前置摄像头，实现更好的数码变焦效果。 IT之家注：1:1 前置摄像头设计这一概念由苹果在 iPhone 17 系列中首次大规模普及。传统前置摄像头多采用 4:3 或 16:9 的长方形传感器，而方形传感器的主要价值在于解决横竖屏切换时的画质损失与构图限制…",
+          "detail": "IT之家 8 月 2 日消息，博主 @智慧皮卡丘 今日透露，“Top 5”手机厂商明年全部跟进 1:1 前置摄像头，实现更好的数码变焦效果。 IT之家注：1:1 前置摄像头设计这一概念由苹果在 iPhone 17 系列中首次大规模普及。传统前置摄像头多采用 4:3 或 16:9 的长方形传感器，而方形传感器的主要价值在于解决横竖屏切换时的画质损失与构图限制…",
+          "keyPoints": [
+            "爆料来源"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
         {
           "id": "auto-227819e40b2b",
           "title": "爱好者利用微软 Xbox 360 模拟器 XeniOS，成功在苹果 iPhone 17 Pro Max 上运行《GTA 5》",
@@ -185,31 +208,6 @@ window.phoneRadarDaily = {
           "confidence": "可信度较高，但仍属于发布前线索。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "weibo-0361ad72f128",
-          "title": "数码闲聊站：K100 Pro Max——6.9英寸RGB OLED直屏，支持185Hz超高…",
-          "originalTitle": "",
-          "source": "数码闲聊站",
-          "brand": "行业",
-          "type": "爆料",
-          "trust": "高关注爆料源",
-          "date": "2026-08-01",
-          "time": "06:04",
-          "publishedAt": "2026-08-01T06:04:05.000Z",
-          "url": "https://weibo.com/6048569942/Rbn7AhUrW",
-          "image": "https://tvax4.sinaimg.cn/mw2000/006BlblIgy1ifn6sscr9jj31o01l8woz.jpg",
-          "verdict": "先看",
-          "takeaway": "K100 Pro Max——6.9英寸RGB OLED直屏，支持185Hz超高刷，骁龙8E5处理器，D2独显芯片",
-          "detail": "K100 Pro Max——6.9英寸RGB OLED直屏，支持185Hz超高刷，骁龙8E5处理器，D2独显芯片",
-          "keyPoints": [
-            "屏幕形态",
-            "芯片 / 性能",
-            "爆料来源"
-          ],
-          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         }
       ]
     },
@@ -262,29 +260,6 @@ window.phoneRadarDaily = {
           ],
           "confidence": "官方内容，可直接作为已确认信息记录。",
           "impact": "可信度高，但如果不是配置/价格消息，只需要扫一眼。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
-        {
-          "id": "newsnow-c203e29e2344",
-          "title": "我的出行好伙伴，用 iPhone 一站式解决旅途痛点",
-          "originalTitle": "",
-          "source": "少数派热榜",
-          "brand": "iPhone",
-          "type": "评测",
-          "trust": "媒体汇总",
-          "date": "2026-08-02",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://sspai.com/post/112044",
-          "image": "",
-          "verdict": "扫一眼",
-          "takeaway": "我的出行好伙伴，用 iPhone 一站式解决旅途痛点",
-          "detail": "我的出行好伙伴，用 iPhone 一站式解决旅途痛点",
-          "keyPoints": [
-            "评测"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是实际体验内容，买前适合重点看缺点和取舍。",
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         }
       ]

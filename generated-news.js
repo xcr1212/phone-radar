@@ -1,6 +1,46 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-08-02T15:18:54.937Z",
+  "updatedAt": "2026-08-02T17:14:09.472Z",
   "news": [
+    {
+      "id": "auto-e58f4d231ff2",
+      "title": "The OnePlus 15 situation is weird. [Video]",
+      "source": "Android Police",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-02",
+      "time": "16:32",
+      "publishedAt": "2026-08-02T16:32:16.000Z",
+      "url": "https://www.androidpolice.com/video/the-oneplus-15-situation-is-weird-video/",
+      "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2026/07/the-oneplus-15-situation-is-weird.jpg",
+      "summary": "What happens now?",
+      "tags": [
+        "OPPO",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-edc902178eab",
+      "title": "消息称 Top 5 手机厂商明年全部跟进 1:1 前置摄像头，实现更好的数码变焦效果",
+      "source": "IT之家",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-02",
+      "time": "15:35",
+      "publishedAt": "2026-08-02T15:35:20.000Z",
+      "url": "https://www.ithome.com/0/984/820.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/8/0a49ccbf-fcd7-474b-b224-10279c729337.jpg",
+      "summary": "IT之家 8 月 2 日消息，博主 @智慧皮卡丘 今日透露，“Top 5”手机厂商明年全部跟进 1:1 前置摄像头，实现更好的数码变焦效果。 IT之家注：1:1 前置摄像头设计这一概念由苹果在 iPhone 17 系列中首次大规模普及。传统前置摄像头多采用 4:3 或 16:9 的长方形传感器，而方形传感器的主要价值在于解决横竖屏切换时的画质损失与构图限制…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-8df8ebacb25b",
       "title": "Redmi K100 Pro Max gaming tests reveal 9,070mAh battery, optimized Snapdragon 8 Elite Gen 5",
@@ -57,26 +97,6 @@ window.phoneRadarAuto = {
       "summary": "IT之家 8 月 2 日消息，据外媒 wccftech 报道，有爱好者 mertbaris01 在 Reddit 平台发文，透露其使用 XeniOS Xbox 360 模拟器，成功在苹果 iPhone 17 Pro Max 上运行起《GTA5》。 测试数据显示，iPhone 17 Pro Max 运行《GTA 5》时仅能以 1280×720 分辨率运行，平…",
       "tags": [
         "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-5920db8f011a",
-      "title": "Samsung admits its foldables need Si-C batteries, but won't commit to what matters",
-      "source": "Android Police",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-02",
-      "time": "10:00",
-      "publishedAt": "2026-08-02T10:00:15.000Z",
-      "url": "https://www.androidpolice.com/samsung-si-c-battery-longevity-gap/",
-      "image": "",
-      "summary": "The Galaxy Z Fold 8's best upgrade comes with an expiry date",
-      "tags": [
-        "Samsung",
         "爆料",
         "自动抓取"
       ]
@@ -322,26 +342,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-7854e368d831",
-      "title": "iPhone Air 当主力机用了三个多月后，我为什么还是换不掉它",
-      "source": "少数派热榜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "评测",
-      "trust": "媒体汇总",
-      "date": "2026-08-02",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://sspai.com/post/111113",
-      "image": "",
-      "summary": "iPhone Air 当主力机用了三个多月后，我为什么还是换不掉它",
-      "tags": [
-        "iPhone",
-        "评测",
-        "NewsNow"
-      ]
-    },
-    {
       "id": "newsnow-99ce074cbd35",
       "title": "我已经猜到今年100系列的结局了，又跟去年一样，iqoo16杀穿子品牌全档",
       "source": "酷安热榜",
@@ -462,7 +462,7 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-de4fc975eb96",
+      "id": "newsnow-108ded5a5e6e",
       "title": "手机不好卖 芯片出货量暴跌",
       "source": "微博热搜",
       "brand": "行业",
@@ -472,7 +472,7 @@ window.phoneRadarAuto = {
       "date": "2026-08-02",
       "time": "",
       "publishedAt": "",
-      "url": "https://s.weibo.com/weibo?q=%E6%89%8B%E6%9C%BA%E4%B8%8D%E5%A5%BD%E5%8D%96%20%E8%8A%AF%E7%89%87%E5%87%BA%E8%B4%A7%E9%87%8F%E6%9A%B4%E8%B7%8C&t=31&band_rank=18&Refer=top",
+      "url": "https://s.weibo.com/weibo?q=%E6%89%8B%E6%9C%BA%E4%B8%8D%E5%A5%BD%E5%8D%96%20%E8%8A%AF%E7%89%87%E5%87%BA%E8%B4%A7%E9%87%8F%E6%9A%B4%E8%B7%8C&t=31&band_rank=15&Refer=top",
       "image": "",
       "summary": "手机不好卖 芯片出货量暴跌",
       "tags": [
@@ -482,22 +482,22 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-63b63b71b7b1",
-      "title": "中央编办批复同意组建新机构",
-      "source": "百度热搜",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
+      "id": "newsnow-4dfcf3484140",
+      "title": "小米多款手机今起涨价，其市场策略和消费者选择将受何影响？",
+      "source": "知乎热榜",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "市场报告",
       "trust": "媒体汇总",
       "date": "2026-08-02",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%A4%AE%E7%BC%96%E5%8A%9E%E6%89%B9%E5%A4%8D%E5%90%8C%E6%84%8F%E7%BB%84%E5%BB%BA%E6%96%B0%E6%9C%BA%E6%9E%84",
+      "url": "https://www.zhihu.com/question/2067173581734286185",
       "image": "",
-      "summary": "中央编办批复同意组建新机构",
+      "summary": "小米多款手机今起涨价，其市场策略和消费者选择将受何影响？",
       "tags": [
-        "行业",
-        "爆料",
+        "Xiaomi",
+        "市场报告",
         "NewsNow"
       ]
     },
@@ -622,26 +622,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-d9c99fd374cb",
-      "title": "Google is giving the Pixel 11 a light show when it should fix face unlock",
-      "source": "Android Police",
-      "brand": "Pixel",
-      "model": "Pixel 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-01",
-      "time": "16:15",
-      "publishedAt": "2026-08-01T16:15:15.000Z",
-      "url": "https://www.androidpolice.com/google-giving-pixel-11-light-show-when-it-should-fix-face-unlock/",
-      "image": "",
-      "summary": "We don't need another gimmicky upgrade",
-      "tags": [
-        "Pixel",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-c1452736e932",
       "title": "One Galaxy Z Fold 8 and Ultra feature every new user should try",
       "source": "SamMobile",
@@ -737,26 +717,6 @@ window.phoneRadarAuto = {
       "summary": "Choosing between the Redmi Note 17 Pro and the OnePlus Nord CE 6 isn’t as straightforward as their price tags suggest. One focuses on massive battery life and rugged durability, w…",
       "tags": [
         "Xiaomi",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-a6df7259635a",
-      "title": "OnePlus built the perfect Android phone in 2025. The OnePlus 16 is throwing it all away",
-      "source": "Android Authority",
-      "brand": "OPPO",
-      "model": "OPPO 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-01",
-      "time": "09:00",
-      "publishedAt": "2026-08-01T09:00:41.000Z",
-      "url": "https://www.androidauthority.com/oneplus-built-perfect-android-phone-oneplus-16-throwing-it-away-3693370/",
-      "image": "",
-      "summary": "The OnePlus 13 really was lightning in a bottle, huh?",
-      "tags": [
-        "OPPO",
         "爆料",
         "自动抓取"
       ]
