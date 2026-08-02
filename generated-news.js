@@ -1,6 +1,146 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-08-02T03:51:23.912Z",
+  "updatedAt": "2026-08-02T06:44:19.982Z",
   "news": [
+    {
+      "id": "auto-fd1f00b546b5",
+      "title": "中国铁路 12306：今起京沪高铁、京沪铁路旅客可预约 2026 年国庆假期车票",
+      "source": "IT之家",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-02",
+      "time": "06:35",
+      "publishedAt": "2026-08-02T06:35:20.000Z",
+      "url": "https://www.ithome.com/0/984/729.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/8/6a170322-c52f-4474-b0a7-b9f556cc7368.jpg?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 8 月 2 日消息，据中国铁路，随着京沪高铁、京沪铁路“提前 60 天预约火车票”功能上线，目前旅客已可预约这两条高铁 2026 国庆假期车票，8 月 2 日（今天）可预约 9 月 30 日的车票，8 月 3 日（明天）可预约 10 月 1 日的车票。 具体来看，旅客可以使用铁路 12306 手机客户端“预约购票”专区办理。每日 8 时起旅客可提…",
+      "tags": [
+        "行业",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-4eb5ee9f4293",
+      "title": "Zinwa 推出 Q27 手机：外观致敬黑莓，天玑 7300 芯片",
+      "source": "IT之家",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-02",
+      "time": "06:18",
+      "publishedAt": "2026-08-02T06:18:18.000Z",
+      "url": "https://www.ithome.com/0/984/726.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/8/8b813ee2-4efa-4d63-8c3f-5fd6f3b0d93d.jpg?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 8 月 2 日消息，Zinwa 现已在海外市场推出 Q27 手机。新机搭载实体全键盘，外观致敬黑莓。 据介绍， Zinwa Q27 是一台采用黑莓设计风格 、 配备 QWERTY 全键盘的 Android 手机 。该机配备 4 英寸 AMOLED 屏幕，分辨率为 1080*1240。 规格方面， 这款手机搭载联发科天玑 7300 芯 片，具备 1…",
+      "tags": [
+        "行业",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-392ce26eb7ff",
+      "title": "Two Oppo Find X10 series models gain network access approval in China",
+      "source": "Gizmochina",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-02",
+      "time": "06:12",
+      "publishedAt": "2026-08-02T06:12:42.000Z",
+      "url": "https://www.gizmochina.com/2026/08/02/two-oppo-find-x10-series-models-gain-network-access-approval-in-china/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/08/Oppo-FInd-X10-series-live-shot-1024x929-1-300x169.jpg?x23692",
+      "summary": "Oppo’s next Find X flagship series is starting to take clearer shape. Fresh regulatory approvals and new details from a well-known tipster point to the Find X10 lineup landing in…",
+      "tags": [
+        "OPPO",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-2848186fe401",
+      "title": "距离千万里程碑更近一步，曝华为 Mate 80 系列手机销量成功突破 800 万台",
+      "source": "IT之家",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-02",
+      "time": "05:06",
+      "publishedAt": "2026-08-02T05:06:37.000Z",
+      "url": "https://www.ithome.com/0/984/718.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/8/355990bd-5f83-4661-b43d-d71ad36a71dd.png?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 8 月 2 日消息，据长期关注国内手机市场份额的数码博主 @RD观测 爆料，截至 2026 年第 30 周（7 月 20 日-7 月 26 日）， 华为 Mate 80 系列手机的销量约 809 万台 。这意味着该系列机型距离千万里程碑又更近了一步。 有网友在评论区补充，称系列机型周增长约 16.95 万台，目前全系列的销量占比接近于： 标准版…",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-4eed10c995da",
+      "title": "华为鸿蒙 HarmonyOS 7 直连供电功能适配机型公布，含 Pura 90 系列等",
+      "source": "IT之家",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-02",
+      "time": "04:41",
+      "publishedAt": "2026-08-02T04:41:13.000Z",
+      "url": "https://www.ithome.com/0/984/717.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/3/e625378c-4aa4-4813-8cc0-6ac6d91b083f.jpg?x-bce-process=image/auto-orient,o_1",
+      "summary": "IT之家 8 月 2 日消息， 华为在 7 月 28 日开启了鸿蒙 HarmonyOS 7 花粉 Beta 版报名 ，随后新版本便开启推送，带来了大量新特性，系统包大小也来到了 10GB 左右（部分机型更是冲破 20GB）。 ▲ IT之家开箱：华为 Mate 80 Pro Max 风驰版图赏 据用户反馈，部分机型在更新鸿蒙 HarmonyOS 7 花粉 B…",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-b8918dd978f7",
+      "title": "小米 REDMI K100 Pro Max 手机搭载 9070mAh 电池，胡馨心称续航同比增幅 40%",
+      "source": "IT之家",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-02",
+      "time": "04:14",
+      "publishedAt": "2026-08-02T04:14:11.000Z",
+      "url": "https://www.ithome.com/0/984/714.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/8/f7a98232-1f36-4dd8-8ec2-f7d866ebf0ac.jpg?x-bce-process=image/auto-orient,o_1",
+      "summary": "IT之家 8 月 2 日消息，小米 REDMI K100 Pro Max 手机已现身第二十三届中国国际数码互动娱乐展览会。新机采用 6.9 英寸超窄边直屏，四曲包裹式金属中框，还有一体化金属 DECO，并搭载了 9070mAh 电池。 小米 REDMI 产品经理胡馨心今日发文称，REDMI K100 Pro Max 将骁龙 8 Elite Gen5 的性能…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-2bd146b62225",
+      "title": "竹本青：【胡馨心：REDMI K100 Pro Max 搭载9070mAh电池，续航相比上代增幅40%】 8月2日，RED…",
+      "source": "竹本青",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-08-02",
+      "time": "03:58",
+      "publishedAt": "2026-08-02T03:58:42.000Z",
+      "url": "https://www.coolapk.com/feed/73047427",
+      "image": "http://image.coolapk.com/feed/2026/0802/11/4248714_6079194d_3120_042_188@1271x2219.jpg",
+      "summary": "【胡馨心：REDMI K100 Pro Max 搭载9070mAh电池，续航相比上代增幅40%】 8月2日，REDMI产品经理胡馨心 预热全新K100 Pro Max。她表示，新机优化骁龙8 Elite Gen5调度策略，搭配9070mAh电池，实测续航相比上代K90 Pro Max增幅40%，成绩登顶“新评科技”续航榜单。 #今日热点# #HyperOS…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "酷安博主"
+      ]
+    },
     {
       "id": "auto-d7f3aae37d1c",
       "title": "消息称佳能 RF 300-600mm f/5.6L IS USM 长焦镜头下月发布",
@@ -182,6 +322,26 @@ window.phoneRadarAuto = {
       ]
     },
     {
+      "id": "newsnow-245edaae5dbb",
+      "title": "【小米手机开启新一轮涨价，覆盖小米17系列，REDMI Turbo5系列、K90系列】",
+      "source": "酷安热榜",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-08-02",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/73043040",
+      "image": "",
+      "summary": "【小米手机开启新一轮涨价，覆盖小米17系列，REDMI Turbo5系列、K90系列】",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
       "id": "newsnow-94e1f106d1d7",
       "title": "小米多款手机迎来价格调整：涨幅200～500元",
       "source": "酷安热榜",
@@ -202,21 +362,21 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-245edaae5dbb",
-      "title": "【小米手机开启新一轮涨价，覆盖小米17系列，REDMI Turbo5系列、K90系列】",
+      "id": "newsnow-99ce074cbd35",
+      "title": "我已经猜到今年100系列的结局了，又跟去年一样，iqoo16杀穿子品牌全档",
       "source": "酷安热榜",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
+      "brand": "vivo",
+      "model": "vivo 相关机型",
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-08-02",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73043040",
+      "url": "https://www.coolapk.com/feed/73043534",
       "image": "",
-      "summary": "【小米手机开启新一轮涨价，覆盖小米17系列，REDMI Turbo5系列、K90系列】",
+      "summary": "我已经猜到今年100系列的结局了，又跟去年一样，iqoo16杀穿子品牌全档",
       "tags": [
-        "Xiaomi",
+        "vivo",
         "爆料",
         "NewsNow"
       ]
@@ -242,81 +402,21 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-22ce6e6a18bd",
-      "title": "2020 年，回头看仍是机圈极具魔幻现实主义色彩的一年。厂商大喊 “5G 元年”，对换机用户而言却是 “涨价元年”—— 旗舰机型仿佛统一了口径，集体上调八百至一千的价格，携手迈入3999的时代。",
+      "id": "newsnow-43e5f1f507f4",
+      "title": "顶配2万元！iPhone18系列这次真的要大涨价了，你还会买吗？[doge]",
       "source": "酷安热榜",
-      "brand": "行业",
-      "model": "智能手机市场",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-08-02",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/70266966",
+      "url": "https://www.coolapk.com/feed/73023665",
       "image": "",
-      "summary": "2020 年，回头看仍是机圈极具魔幻现实主义色彩的一年。厂商大喊 “5G 元年”，对换机用户而言却是 “涨价元年”—— 旗舰机型仿佛统一了口径，集体上调八百至一千的价格，携手迈入3999的时代。",
+      "summary": "顶配2万元！iPhone18系列这次真的要大涨价了，你还会买吗？[doge]",
       "tags": [
-        "行业",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-a840cad0b4a0",
-      "title": "小米多款手机今起正式涨价",
-      "source": "微博热搜",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "待验证",
-      "date": "2026-08-02",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B3%E5%A4%9A%E6%AC%BE%E6%89%8B%E6%9C%BA%E4%BB%8A%E8%B5%B7%E6%AD%A3%E5%BC%8F%E6%B6%A8%E4%BB%B7%23&t=31&band_rank=8&Refer=top",
-      "image": "",
-      "summary": "小米多款手机今起正式涨价",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-d2e2f0963e09",
-      "title": "小米多款手机正式涨价",
-      "source": "今日头条热榜",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-02",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.toutiao.com/trending/7668692534747398150/",
-      "image": "",
-      "summary": "小米多款手机正式涨价",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-9af9a95fd3c7",
-      "title": "小米多款手机今起正式涨价",
-      "source": "百度热搜",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-02",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E7%B1%B3%E5%A4%9A%E6%AC%BE%E6%89%8B%E6%9C%BA%E4%BB%8A%E8%B5%B7%E6%AD%A3%E5%BC%8F%E6%B6%A8%E4%BB%B7",
-      "image": "",
-      "summary": "小米多款手机今起正式涨价",
-      "tags": [
-        "Xiaomi",
+        "iPhone",
         "爆料",
         "NewsNow"
       ]
@@ -522,26 +622,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-201d6520ace8",
-      "title": "小米手机正式涨价 300 元起，影响小米 17 系列、REDMI K90、Turbo 5",
-      "source": "IT之家",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-01",
-      "time": "15:25",
-      "publishedAt": "2026-08-01T15:25:17.000Z",
-      "url": "https://www.ithome.com/0/984/636.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/8/c9120702-65d9-493b-9da0-4b4b5815ba3b.jpg?x-bce-process=image/format,f_auto",
-      "summary": "8 月 2 日 0 点更新： 小米商城价格显示，通知中提到的手机确实已经涨价。 REDMI Turbo 5 ：从 2299 元起上涨到 2599 元起 REDMI Turbo 5 Max ：从 2499 元起上涨到 2799 元起 REDMI K90 ：从 2799 元起上涨到 3099 元起 REDMI K90 Max ：从 3199 元起上涨到 349…",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-c1452736e932",
       "title": "One Galaxy Z Fold 8 and Ultra feature every new user should try",
       "source": "SamMobile",
@@ -639,26 +719,6 @@ window.phoneRadarAuto = {
         "Samsung",
         "爆料",
         "自动抓取"
-      ]
-    },
-    {
-      "id": "coolapk-user-fdda4b89fe16",
-      "title": "竹本青：【荣耀 Play11 Pro 开启预约：1.5K中直屏+7000mAh电池，8+256GB售价2099元】 核心：…",
-      "source": "竹本青",
-      "brand": "HONOR",
-      "model": "HONOR 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-08-01",
-      "time": "09:50",
-      "publishedAt": "2026-08-01T09:50:21.000Z",
-      "url": "https://www.coolapk.com/feed/73037654",
-      "image": "http://image.coolapk.com/feed/2026/0801/17/4248714_394fc45b_7819_3359_918@750x1443.jpg",
-      "summary": "【荣耀 Play11 Pro 开启预约：1.5K中直屏+7000mAh电池，8+256GB售价2099元】 核心： ● 天玑 6500系列 处理器 ● 6.6\"1.5K 120Hz OLED直屏 ● 7000mAh电池+45W快充 ● 50MP主摄／8MP前摄 ▫️屏幕： 6500nits峰值亮度｜10.7亿色 95%屏占比｜视觉四等边 3840Hz PW…",
-      "tags": [
-        "HONOR",
-        "爆料",
-        "酷安博主"
       ]
     },
     {
