@@ -1,6 +1,146 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-08-02T06:44:19.982Z",
+  "updatedAt": "2026-08-02T10:06:41.840Z",
   "news": [
+    {
+      "id": "auto-5920db8f011a",
+      "title": "Samsung admits its foldables need Si-C batteries, but won't commit to what matters",
+      "source": "Android Police",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-02",
+      "time": "10:00",
+      "publishedAt": "2026-08-02T10:00:15.000Z",
+      "url": "https://www.androidpolice.com/samsung-si-c-battery-longevity-gap/",
+      "image": "",
+      "summary": "The Galaxy Z Fold 8's best upgrade comes with an expiry date",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-a43017b6b814",
+      "title": "The Pixel 6 was a glorious mess, and Google is better for it",
+      "source": "Android Authority",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-02",
+      "time": "09:30",
+      "publishedAt": "2026-08-02T09:30:54.000Z",
+      "url": "https://www.androidauthority.com/google-pixel-6-revisit-2026-3692192/",
+      "image": "",
+      "summary": "The Pixel 6 caused me a lot of pain.",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-ffdada41b4ad",
+      "title": "竹本青：【小米 17系列 最新销量曝光：全系突破583万台，Ultra约23.8万台】 8月2日，博主「RD观测」分享第三…",
+      "source": "竹本青",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-08-02",
+      "time": "09:04",
+      "publishedAt": "2026-08-02T09:04:58.000Z",
+      "url": "https://www.coolapk.com/feed/73051154",
+      "image": "http://image.coolapk.com/feed/2026/0802/17/4248714_d49acf67_1497_3926_87@2962x2799.jpg",
+      "summary": "【小米 17系列 最新销量曝光：全系突破583万台，Ultra约23.8万台】 8月2日，博主「RD观测」分享第三方数据：截至2026年第30周，小米 17系列累计销量约583.9万台；其中，Ultra约23.76万台。 前几周数据如下： 小米 17系列 截至2026 W29 —— 约576.3万 截至2026 W28 —— 约568.85万 截至2026…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "coolapk-user-39288e2e6ad4",
+      "title": "竹本青：【消息称 华为Mate 80系列 销量已突破809万台】 8月2日资讯，博主「RD观测」昨日分享第三方统计数据：截…",
+      "source": "竹本青",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-08-02",
+      "time": "08:57",
+      "publishedAt": "2026-08-02T08:57:39.000Z",
+      "url": "https://www.coolapk.com/feed/73051038",
+      "image": "http://image.coolapk.com/feed/2026/0802/16/4248714_39c60247_1058_0823_973@3369x2460.jpg",
+      "summary": "【消息称 华为Mate 80系列 销量已突破809万台】 8月2日资讯，博主「RD观测」昨日分享第三方统计数据：截至2026年第30周，华为Mate 80系列 累计销量约809万台。 前几周数据如下： 截至2026 W29 —— 约792.05万 截至2026 W28 —— 约775.97万 截至2026 W27 —— 约760.55万 截至2026 W2…",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-9d72b371081a",
+      "title": "Redmi Turbo 6 Max tipped to pack largest battery on Redmi phone",
+      "source": "Gizmochina",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-02",
+      "time": "07:51",
+      "publishedAt": "2026-08-02T07:51:14.000Z",
+      "url": "https://www.gizmochina.com/2026/08/02/redmi-turbo-6-max-10000mah-battery-launch-timeframe-leak/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/01/Redmi-Turbo-5-Max-Sunshine-Orange-300x300.png?x23692",
+      "summary": "Redmi is reportedly working on the Redmi Turbo 6 series of performance-focused flagship smartphones. The lineup is expected to include two models, namely the standard Turbo 6 and…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-e9d89d95c679",
+      "title": "iQOO Z11 India launch officially confirmed, here’s what to expect",
+      "source": "Gizmochina",
+      "brand": "vivo",
+      "model": "vivo 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-02",
+      "time": "07:21",
+      "publishedAt": "2026-08-02T07:21:18.000Z",
+      "url": "https://www.gizmochina.com/2026/08/02/iqoo-z11-india-launch-confirmed-expected-specifications/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/03/Screenshot-2026-03-27-014855-300x146.png?x23692",
+      "summary": "Last month, iQOO unveiled the iQOO Z11 Lite in India, and the brand has now started teasing another smartphone in the Z11 series for the country. A recent post on X by iQOO India…",
+      "tags": [
+        "vivo",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-cc370071a816",
+      "title": "Latest Oppo Find X10 Ultra leak hints at Find N6-level pricing and upgraded cameras",
+      "source": "Gizmochina",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-02",
+      "time": "06:51",
+      "publishedAt": "2026-08-02T06:51:12.000Z",
+      "url": "https://www.gizmochina.com/2026/08/02/oppo-find-x10-ultra-camera-specifications-price-leak/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/07/Oppo-Find-X9-Ultra-300x200.png?x23692",
+      "summary": "There have been reports that most smartphone brands are considering cancelling their Ultra-branded flagships due to rising memory costs. One such casualty appears to be the Xiaomi…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-fd1f00b546b5",
       "title": "中国铁路 12306：今起京沪高铁、京沪铁路旅客可预约 2026 年国庆假期车票",
@@ -182,26 +322,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-c49b725c4533",
-      "title": "OPPO A7 Pro Max 手机官宣搭载“A 系列史上最强超清影像”，内置爆闪智能闪光灯",
-      "source": "IT之家",
-      "brand": "OPPO",
-      "model": "OPPO 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-02",
-      "time": "03:34",
-      "publishedAt": "2026-08-02T03:34:01.000Z",
-      "url": "https://www.ithome.com/0/984/708.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/8/6483399d-02ca-4114-8df7-465ee60dd487.jpg?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 8 月 2 日消息，OPPO 官方今日继续预热旗下首个万级大电池新机 —— OPPO A7 Pro Max。此次介绍了新机的影像部分。 据介绍， OPPO A7 Pro Max 搭载“A 系列史上最强超清影像” ，前后配备 5000 万超清双摄，同时前置还支持 100° 超清超广角。另外， 该机还后置爆闪智能闪光灯 ，预计可提供更强大的拍照补光能…",
-      "tags": [
-        "OPPO",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "coolapk-user-c19fdac3a79a",
       "title": "JSCHEN小小狐：『OPPO A7 Pro Max 影像预热：前后 5000 万』 ◇ 后置 5000 万 OIS 主摄 + 200…",
       "source": "JSCHEN小小狐",
@@ -219,26 +339,6 @@ window.phoneRadarAuto = {
         "OPPO",
         "爆料",
         "酷安博主"
-      ]
-    },
-    {
-      "id": "auto-4d9344e4e12e",
-      "title": "消息称安卓首款阔折叠手机 Galaxy Z Fold8 预售火爆超预期，三星已向供应商追加订单",
-      "source": "IT之家",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-02",
-      "time": "03:08",
-      "publishedAt": "2026-08-02T03:08:45.000Z",
-      "url": "https://www.ithome.com/0/984/696.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/8/53e1715e-a7cb-49b3-acbc-d85c4b7252c5.png",
-      "summary": "IT之家 8 月 2 日消息，博主 @i冰宇宙 今日发文透露，安卓首款阔折叠手机 —— Galaxy Z Fold8 预售火爆超出预期，现在三星已经向供应商追加订单了。 据IT之家此前报道， 三星已于 7 月 22 日正式发布了 Galaxy Z Fold8 ，这是该公司六年来首款采用全新机身形态的折叠屏手机。与此前历代 Galaxy Z Fold 相比，…",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
       ]
     },
     {
@@ -322,6 +422,26 @@ window.phoneRadarAuto = {
       ]
     },
     {
+      "id": "newsnow-99ce074cbd35",
+      "title": "我已经猜到今年100系列的结局了，又跟去年一样，iqoo16杀穿子品牌全档",
+      "source": "酷安热榜",
+      "brand": "vivo",
+      "model": "vivo 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-08-02",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/73043534",
+      "image": "",
+      "summary": "我已经猜到今年100系列的结局了，又跟去年一样，iqoo16杀穿子品牌全档",
+      "tags": [
+        "vivo",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
       "id": "newsnow-245edaae5dbb",
       "title": "【小米手机开启新一轮涨价，覆盖小米17系列，REDMI Turbo5系列、K90系列】",
       "source": "酷安热榜",
@@ -357,26 +477,6 @@ window.phoneRadarAuto = {
       "summary": "小米多款手机迎来价格调整：涨幅200～500元",
       "tags": [
         "Xiaomi",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-99ce074cbd35",
-      "title": "我已经猜到今年100系列的结局了，又跟去年一样，iqoo16杀穿子品牌全档",
-      "source": "酷安热榜",
-      "brand": "vivo",
-      "model": "vivo 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-08-02",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73043534",
-      "image": "",
-      "summary": "我已经猜到今年100系列的结局了，又跟去年一样，iqoo16杀穿子品牌全档",
-      "tags": [
-        "vivo",
         "爆料",
         "NewsNow"
       ]
@@ -458,26 +558,6 @@ window.phoneRadarAuto = {
       "tags": [
         "Samsung",
         "评测",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-2f9170cf0a22",
-      "title": "谷歌 Pixel 11 全系配置、售价曝光：含标准版、Pro、Pro XL 及 Pro Fold 折叠机型",
-      "source": "IT之家",
-      "brand": "Pixel",
-      "model": "Pixel 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-01",
-      "time": "23:01",
-      "publishedAt": "2026-08-01T23:01:08.000Z",
-      "url": "https://www.ithome.com/0/984/641.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/8/6cbc7d7d-e6f0-42ec-8c45-2e982ad8b4a2.jpg?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 8 月 2 日消息，Android Headlines 已经提前拿到了谷歌 Pixel 11 全系四款新机的完整规格信息，同时还获得了美国和欧洲市场的售价。 此次曝光的机型包括 Google Pixel 11、Pixel 11 Pro、Pixel 11 Pro XL 和 Pixel 11 Pro Fold。由于机型较多，下面分别介绍每款产品的配置…",
-      "tags": [
-        "Pixel",
-        "爆料",
         "自动抓取"
       ]
     },
