@@ -1,5 +1,5 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-08-02T21:09:35.778Z",
+  "updatedAt": "2026-08-02T23:10:30.067Z",
   "news": [
     {
       "id": "auto-5b63ed9e8b8f",
@@ -742,26 +742,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "weibo-8eca93f67d11",
-      "title": "数码闲聊站：REDMI K100 Pro Max真机实测： ——之前预告过了，骁龙8E5也…",
-      "source": "数码闲聊站",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-08-01",
-      "time": "08:05",
-      "publishedAt": "2026-08-01T08:05:00.000Z",
-      "url": "https://weibo.com/6048569942/RbnUFoeOR",
-      "image": "https://tvax1.sinaimg.cn/mw2000/006BlblIgy1ifocikuzzdj32dc35se81.jpg",
-      "summary": "REDMI K100 Pro Max真机实测： ——之前预告过了，骁龙8E5也将成为新一代长寿神U，母系和子系迭代新旗舰都会采用，比如这次我们拿到的这台K100 Pro Max。 实测GeekBench7单核2965/多核10064，3D Mark SNL 3015； ——K100 PM升级185Hz超高刷，D2独显芯从3倍插帧调整为2倍，帧渲染变少，延迟…",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "微博"
-      ]
-    },
-    {
       "id": "auto-4525bdcbccd6",
       "title": "OnePlus N6x launched in India with Dimensity 6360 Apex chipset, 7000mAh battery",
       "source": "Gizmochina",
@@ -839,26 +819,6 @@ window.phoneRadarAuto = {
         "HONOR",
         "爆料",
         "自动抓取"
-      ]
-    },
-    {
-      "id": "weibo-0361ad72f128",
-      "title": "数码闲聊站：K100 Pro Max——6.9英寸RGB OLED直屏，支持185Hz超高…",
-      "source": "数码闲聊站",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-08-01",
-      "time": "06:04",
-      "publishedAt": "2026-08-01T06:04:05.000Z",
-      "url": "https://weibo.com/6048569942/Rbn7AhUrW",
-      "image": "https://tvax4.sinaimg.cn/mw2000/006BlblIgy1ifn6sscr9jj31o01l8woz.jpg",
-      "summary": "K100 Pro Max——6.9英寸RGB OLED直屏，支持185Hz超高刷，骁龙8E5处理器，D2独显芯片",
-      "tags": [
-        "行业",
-        "爆料",
-        "微博"
       ]
     },
     {

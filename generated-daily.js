@@ -1,11 +1,11 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-08-02T21:09:35.778Z",
+  "updatedAt": "2026-08-02T23:10:30.067Z",
   "issueDate": "2026-08-02",
   "issue": "VOL.260802",
   "title": "手机情报日报",
-  "intro": "今日筛出 14 条重点，其中 8 条是重点爆料，包含 5 条 iPhone 相关、1 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 16 条重点，其中 8 条是重点爆料，包含 5 条 iPhone 相关、1 条官方确认、0 条参数线索。",
   "stats": {
-    "total": 14,
+    "total": 16,
     "iphone": 5,
     "leaks": 8,
     "official": 1,
@@ -84,30 +84,6 @@ window.phoneRadarDaily = {
             "爆料来源"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "weibo-8eca93f67d11",
-          "title": "数码闲聊站：REDMI K100 Pro Max真机实测： ——之前预告过了，骁龙8E5也…",
-          "originalTitle": "",
-          "source": "数码闲聊站",
-          "brand": "Xiaomi",
-          "type": "爆料",
-          "trust": "高关注爆料源",
-          "date": "2026-08-01",
-          "time": "08:05",
-          "publishedAt": "2026-08-01T08:05:00.000Z",
-          "url": "https://weibo.com/6048569942/RbnUFoeOR",
-          "image": "https://tvax1.sinaimg.cn/mw2000/006BlblIgy1ifocikuzzdj32dc35se81.jpg",
-          "verdict": "先看",
-          "takeaway": "REDMI K100 Pro Max真机实测： ——之前预告过了，骁龙8E5也将成为新一代长寿神U，母系和子系迭代新旗舰都会采用，比如这次我们拿到的这台K100 Pro Max。 实测GeekBench7单核2965/多核10064，3D Mark SNL 3015； ——K100 PM升级185Hz超高刷，D2独显芯从3倍插帧调整为2倍，帧渲染变少，延迟…",
-          "detail": "REDMI K100 Pro Max真机实测： ——之前预告过了，骁龙8E5也将成为新一代长寿神U，母系和子系迭代新旗舰都会采用，比如这次我们拿到的这台K100 Pro Max。 实测GeekBench7单核2965/多核10064，3D Mark SNL 3015； ——K100 PM升级185Hz超高刷，D2独显芯从3倍插帧调整为2倍，帧渲染变少，延迟…",
-          "keyPoints": [
-            "外观 / 配色 / 尺寸",
-            "爆料来源"
-          ],
-          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
@@ -201,6 +177,29 @@ window.phoneRadarDaily = {
             "爆料"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "coolapk-user-39288e2e6ad4",
+          "title": "竹本青：【消息称 华为Mate 80系列 销量已突破809万台】 8月2日资讯，博主「RD观测」昨日分享第三方统计数据：截…",
+          "originalTitle": "",
+          "source": "竹本青",
+          "brand": "Huawei",
+          "type": "爆料",
+          "trust": "高可信爆料",
+          "date": "2026-08-02",
+          "time": "08:57",
+          "publishedAt": "2026-08-02T08:57:39.000Z",
+          "url": "https://www.coolapk.com/feed/73051038",
+          "image": "http://image.coolapk.com/feed/2026/0802/16/4248714_39c60247_1058_0823_973@3369x2460.jpg",
+          "verdict": "先看",
+          "takeaway": "【消息称 华为Mate 80系列 销量已突破809万台】 8月2日资讯，博主「RD观测」昨日分享第三方统计数据：截至2026年第30周，华为Mate 80系列 累计销量约809万台。 前几周数据如下： 截至2026 W29 —— 约792.05万 截至2026 W28 —— 约775.97万 截至2026 W27 —— 约760.55万 截至2026 W2…",
+          "detail": "【消息称 华为Mate 80系列 销量已突破809万台】 8月2日资讯，博主「RD观测」昨日分享第三方统计数据：截至2026年第30周，华为Mate 80系列 累计销量约809万台。 前几周数据如下： 截至2026 W29 —— 约792.05万 截至2026 W28 —— 约775.97万 截至2026 W27 —— 约760.55万 截至2026 W2…",
+          "keyPoints": [
+            "爆料来源"
+          ],
+          "confidence": "可信度较高，但仍属于发布前线索。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         }
@@ -355,6 +354,52 @@ window.phoneRadarDaily = {
           "confidence": "可信度较高，但仍属于发布前线索。",
           "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        },
+        {
+          "id": "newsnow-4dfcf3484140",
+          "title": "小米多款手机今起涨价，其市场策略和消费者选择将受何影响？",
+          "originalTitle": "",
+          "source": "知乎热榜",
+          "brand": "Xiaomi",
+          "type": "市场报告",
+          "trust": "媒体汇总",
+          "date": "2026-08-02",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://www.zhihu.com/question/2067173581734286185",
+          "image": "",
+          "verdict": "扫一眼",
+          "takeaway": "小米多款手机今起涨价，其市场策略和消费者选择将受何影响？",
+          "detail": "小米多款手机今起涨价，其市场策略和消费者选择将受何影响？",
+          "keyPoints": [
+            "市场报告"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "影响购买预算，值得先看。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        },
+        {
+          "id": "auto-36f99bc9098e",
+          "title": "Samsung 折叠屏相关消息",
+          "originalTitle": "",
+          "source": "SamMobile",
+          "brand": "Samsung",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-08-02",
+          "time": "18:25",
+          "publishedAt": "2026-08-02T18:25:13.000Z",
+          "url": "https://www.sammobile.com/news/galaxy-z-fold-8-ultra-camera-200mp-feature/",
+          "image": "",
+          "verdict": "可略过",
+          "takeaway": "Samsung 影像能力相关宣传或案例，主要看是否透露拍摄能力变化。",
+          "detail": "Samsung 折叠屏相关消息。重点看折痕、铰链、厚度、屏幕可靠性和重量是否有实质改善。",
+          "keyPoints": [
+            "影像硬件"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "影响拍照体验，买旗舰机时值得关注。",
+          "action": "有具体参数就记录到参数库；没有参数就先收藏。"
         }
       ]
     }
