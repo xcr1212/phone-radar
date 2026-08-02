@@ -1,6 +1,26 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-08-02T19:33:15.987Z",
+  "updatedAt": "2026-08-02T21:09:35.778Z",
   "news": [
+    {
+      "id": "auto-5b63ed9e8b8f",
+      "title": "Here’s how iPhone Ultra’s form factor could compare to other Apple products",
+      "source": "9to5Mac",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-02",
+      "time": "19:21",
+      "publishedAt": "2026-08-02T19:21:00.000Z",
+      "url": "https://9to5mac.com/2026/08/02/heres-how-iphone-ultras-form-factor-could-compare-to-other-apple-products/",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/09/iphone-fold-ios-26.jpg?quality=82&strip=all&w=1600",
+      "summary": "Next month, Apple will be unveiling its first foldable iPhone – rumored to be called iPhone Ultra. It’s going to feature a 5.5-inch outer display and 7.6-inch inner display. Late…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-36f99bc9098e",
       "title": "Galaxy Z Fold 8 Ultra gets a new 200MP camera feature",
@@ -262,6 +282,26 @@ window.phoneRadarAuto = {
       ]
     },
     {
+      "id": "coolapk-user-2bd146b62225",
+      "title": "竹本青：REDMI K100 Pro Max 将搭载9070mAh电池",
+      "source": "竹本青",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-08-02",
+      "time": "03:58",
+      "publishedAt": "2026-08-02T03:58:42.000Z",
+      "url": "https://www.coolapk.com/feed/73047427",
+      "image": "http://image.coolapk.com/feed/2026/0802/11/4248714_6079194d_3120_042_188@1271x2219.jpg",
+      "summary": "【胡馨心：REDMI K100 Pro Max 搭载9070mAh电池，续航相比上代增幅40%】 8月2日，REDMI产品经理胡馨心 预热全新K100 Pro Max。她表示，新机优化骁龙8 Elite Gen5调度策略，搭配9070mAh电池，实测续航相比上代K90 Pro Max增幅40%，成绩登顶“新评科技”续航榜单。 #今日热点# #HyperOS…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
       "id": "coolapk-user-ce0388686255",
       "title": "竹本青：【OPPO A7 Pro Max 官宣搭载A系列最强影像：前后5000万双摄】 ● 5000万前置 100°视野…",
       "source": "竹本青",
@@ -402,46 +442,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-245edaae5dbb",
-      "title": "小米手机开启新一轮涨价，覆盖小米17系列、REDMI Turbo5系列、K90系列",
-      "source": "酷安热榜",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-08-02",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73043040",
-      "image": "",
-      "summary": "小米手机开启新一轮涨价，覆盖小米17系列、REDMI Turbo5系列、K90系列",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-19b35d00b80c",
-      "title": "REDMI K100 Pro Max 将搭载9070mAh电池",
-      "source": "酷安热榜",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-08-02",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73047427",
-      "image": "",
-      "summary": "REDMI K100 Pro Max 将搭载9070mAh电池",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
       "id": "newsnow-22ce6e6a18bd",
       "title": "2020 年，回头看仍是机圈极具魔幻现实主义色彩的一年。厂商大喊 “5G 元年”，对换机用户而言却是 “涨价元年”—— 旗舰机型仿佛统一了口径，集体上调八百至一千的价格，携手迈入3999的时代。",
       "source": "酷安热榜",
@@ -462,7 +462,27 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-cb6805e61595",
+      "id": "newsnow-8852f1dee750",
+      "title": "2015年的手机圈，像一个持续升温的烤箱，骁龙810「高烧不退」 成了旗舰机绕不开的痛，中端市场也陷入同款发热困局。",
+      "source": "酷安热榜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-08-02",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/70664999",
+      "image": "",
+      "summary": "2015年的手机圈，像一个持续升温的烤箱，骁龙810「高烧不退」 成了旗舰机绕不开的痛，中端市场也陷入同款发热困局。",
+      "tags": [
+        "行业",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-59bcbb85b171",
       "title": "手机不好卖 芯片出货量暴跌",
       "source": "微博热搜",
       "brand": "行业",
@@ -472,7 +492,7 @@ window.phoneRadarAuto = {
       "date": "2026-08-02",
       "time": "",
       "publishedAt": "",
-      "url": "https://s.weibo.com/weibo?q=%E6%89%8B%E6%9C%BA%E4%B8%8D%E5%A5%BD%E5%8D%96%20%E8%8A%AF%E7%89%87%E5%87%BA%E8%B4%A7%E9%87%8F%E6%9A%B4%E8%B7%8C&t=31&band_rank=8&Refer=top",
+      "url": "https://s.weibo.com/weibo?q=%E6%89%8B%E6%9C%BA%E4%B8%8D%E5%A5%BD%E5%8D%96%20%E8%8A%AF%E7%89%87%E5%87%BA%E8%B4%A7%E9%87%8F%E6%9A%B4%E8%B7%8C&t=31&band_rank=14&Refer=top",
       "image": "",
       "summary": "手机不好卖 芯片出货量暴跌",
       "tags": [

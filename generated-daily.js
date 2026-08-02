@@ -1,11 +1,11 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-08-02T19:33:15.987Z",
+  "updatedAt": "2026-08-02T21:09:35.778Z",
   "issueDate": "2026-08-02",
   "issue": "VOL.260802",
   "title": "手机情报日报",
-  "intro": "今日筛出 15 条重点，其中 8 条是重点爆料，包含 5 条 iPhone 相关、1 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 14 条重点，其中 8 条是重点爆料，包含 5 条 iPhone 相关、1 条官方确认、0 条参数线索。",
   "stats": {
-    "total": 15,
+    "total": 14,
     "iphone": 5,
     "leaks": 8,
     "official": 1,
@@ -64,49 +64,24 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
-          "id": "auto-4b09bbc2ed95",
+          "id": "auto-5b63ed9e8b8f",
           "title": "iPhone 相关消息",
           "originalTitle": "",
-          "source": "MacRumors",
+          "source": "9to5Mac",
           "brand": "iPhone",
           "type": "爆料",
           "trust": "媒体汇总",
           "date": "2026-08-02",
-          "time": "01:00",
-          "publishedAt": "2026-08-02T01:00:10.000Z",
-          "url": "https://www.macrumors.com/2026/08/01/things-we-know-about-2028-iphone/",
-          "image": "https://images.macrumors.com/article-new/2026/07/iphone-2028-punch-hole-design.jpg",
+          "time": "19:21",
+          "publishedAt": "2026-08-02T19:21:00.000Z",
+          "url": "https://9to5mac.com/2026/08/02/heres-how-iphone-ultras-form-factor-could-compare-to-other-apple-products/",
+          "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/09/iphone-fold-ios-26.jpg?quality=82&strip=all&w=1600",
           "verdict": "先看",
           "takeaway": "iPhone 相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
           "detail": "iPhone 相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
           "keyPoints": [
-            "外观 / 配色 / 尺寸",
-            "影像硬件",
             "屏幕形态",
             "爆料来源"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "newsnow-19b35d00b80c",
-          "title": "REDMI K100 Pro Max 将搭载9070mAh电池",
-          "originalTitle": "",
-          "source": "酷安热榜",
-          "brand": "Xiaomi",
-          "type": "爆料",
-          "trust": "高关注爆料源",
-          "date": "2026-08-02",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://www.coolapk.com/feed/73047427",
-          "image": "",
-          "verdict": "先看",
-          "takeaway": "REDMI K100 Pro Max 将搭载9070mAh电池",
-          "detail": "REDMI K100 Pro Max 将搭载9070mAh电池",
-          "keyPoints": [
-            "电池 / 充电"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
@@ -133,6 +108,29 @@ window.phoneRadarDaily = {
             "爆料来源"
           ],
           "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "coolapk-user-2bd146b62225",
+          "title": "竹本青：REDMI K100 Pro Max 将搭载9070mAh电池",
+          "originalTitle": "",
+          "source": "竹本青",
+          "brand": "Xiaomi",
+          "type": "爆料",
+          "trust": "高可信爆料",
+          "date": "2026-08-02",
+          "time": "03:58",
+          "publishedAt": "2026-08-02T03:58:42.000Z",
+          "url": "https://www.coolapk.com/feed/73047427",
+          "image": "http://image.coolapk.com/feed/2026/0802/11/4248714_6079194d_3120_042_188@1271x2219.jpg",
+          "verdict": "先看",
+          "takeaway": "【胡馨心：REDMI K100 Pro Max 搭载9070mAh电池，续航相比上代增幅40%】 8月2日，REDMI产品经理胡馨心 预热全新K100 Pro Max。她表示，新机优化骁龙8 Elite Gen5调度策略，搭配9070mAh电池，实测续航相比上代K90 Pro Max增幅40%，成绩登顶“新评科技”续航榜单。 #今日热点# #HyperOS…",
+          "detail": "【胡馨心：REDMI K100 Pro Max 搭载9070mAh电池，续航相比上代增幅40%】 8月2日，REDMI产品经理胡馨心 预热全新K100 Pro Max。她表示，新机优化骁龙8 Elite Gen5调度策略，搭配9070mAh电池，实测续航相比上代K90 Pro Max增幅40%，成绩登顶“新评科技”续航榜单。 #今日热点# #HyperOS…",
+          "keyPoints": [
+            "电池 / 充电"
+          ],
+          "confidence": "可信度较高，但仍属于发布前线索。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
@@ -184,27 +182,25 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
-          "id": "weibo-0361ad72f128",
-          "title": "数码闲聊站：K100 Pro Max——6.9英寸RGB OLED直屏，支持185Hz超高…",
+          "id": "newsnow-8852f1dee750",
+          "title": "2015年的手机圈，像一个持续升温的烤箱，骁龙810「高烧不退」 成了旗舰机绕不开的痛，中端市场也陷入同款发热困局。",
           "originalTitle": "",
-          "source": "数码闲聊站",
+          "source": "酷安热榜",
           "brand": "行业",
           "type": "爆料",
           "trust": "高关注爆料源",
-          "date": "2026-08-01",
-          "time": "06:04",
-          "publishedAt": "2026-08-01T06:04:05.000Z",
-          "url": "https://weibo.com/6048569942/Rbn7AhUrW",
-          "image": "https://tvax4.sinaimg.cn/mw2000/006BlblIgy1ifn6sscr9jj31o01l8woz.jpg",
+          "date": "2026-08-02",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://www.coolapk.com/feed/70664999",
+          "image": "",
           "verdict": "先看",
-          "takeaway": "K100 Pro Max——6.9英寸RGB OLED直屏，支持185Hz超高刷，骁龙8E5处理器，D2独显芯片",
-          "detail": "K100 Pro Max——6.9英寸RGB OLED直屏，支持185Hz超高刷，骁龙8E5处理器，D2独显芯片",
+          "takeaway": "2015年的手机圈，像一个持续升温的烤箱，骁龙810「高烧不退」 成了旗舰机绕不开的痛，中端市场也陷入同款发热困局。",
+          "detail": "2015年的手机圈，像一个持续升温的烤箱，骁龙810「高烧不退」 成了旗舰机绕不开的痛，中端市场也陷入同款发热困局。",
           "keyPoints": [
-            "屏幕形态",
-            "芯片 / 性能",
-            "爆料来源"
+            "爆料"
           ],
-          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         }
@@ -268,29 +264,6 @@ window.phoneRadarDaily = {
       "title": "行业趋势",
       "hint": "看方向，不急着当购买依据。",
       "items": [
-        {
-          "id": "newsnow-245edaae5dbb",
-          "title": "小米手机开启新一轮涨价，覆盖小米17系列、REDMI Turbo5系列、K90系列",
-          "originalTitle": "",
-          "source": "酷安热榜",
-          "brand": "Xiaomi",
-          "type": "爆料",
-          "trust": "高关注爆料源",
-          "date": "2026-08-02",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://www.coolapk.com/feed/73043040",
-          "image": "",
-          "verdict": "先看",
-          "takeaway": "小米手机开启新一轮涨价，覆盖小米17系列、REDMI Turbo5系列、K90系列",
-          "detail": "小米手机开启新一轮涨价，覆盖小米17系列、REDMI Turbo5系列、K90系列",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "影响购买预算，值得先看。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
         {
           "id": "newsnow-437ddc31b795",
           "title": "完犊子，k90pm 16+512 5299了估计k100pm 16+512 得5599了#数码日常# #RedmiK90ProMax# #红米k100#",
