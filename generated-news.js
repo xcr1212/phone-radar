@@ -1,6 +1,26 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-08-02T10:06:41.840Z",
+  "updatedAt": "2026-08-02T11:33:36.003Z",
   "news": [
+    {
+      "id": "auto-227819e40b2b",
+      "title": "爱好者利用微软 Xbox 360 模拟器 XeniOS，成功在苹果 iPhone 17 Pro Max 上运行《GTA 5》",
+      "source": "IT之家",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-02",
+      "time": "11:03",
+      "publishedAt": "2026-08-02T11:03:42.000Z",
+      "url": "https://www.ithome.com/0/984/795.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/8/c744d2de-1180-4a40-8fe8-7391f515af12.jpg?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 8 月 2 日消息，据外媒 wccftech 报道，有爱好者 mertbaris01 在 Reddit 平台发文，透露其使用 XeniOS Xbox 360 模拟器，成功在苹果 iPhone 17 Pro Max 上运行起《GTA5》。 测试数据显示，iPhone 17 Pro Max 运行《GTA 5》时仅能以 1280×720 分辨率运行，平…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-5920db8f011a",
       "title": "Samsung admits its foldables need Si-C batteries, but won't commit to what matters",
@@ -222,46 +242,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-4eed10c995da",
-      "title": "华为鸿蒙 HarmonyOS 7 直连供电功能适配机型公布，含 Pura 90 系列等",
-      "source": "IT之家",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-02",
-      "time": "04:41",
-      "publishedAt": "2026-08-02T04:41:13.000Z",
-      "url": "https://www.ithome.com/0/984/717.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/3/e625378c-4aa4-4813-8cc0-6ac6d91b083f.jpg?x-bce-process=image/auto-orient,o_1",
-      "summary": "IT之家 8 月 2 日消息， 华为在 7 月 28 日开启了鸿蒙 HarmonyOS 7 花粉 Beta 版报名 ，随后新版本便开启推送，带来了大量新特性，系统包大小也来到了 10GB 左右（部分机型更是冲破 20GB）。 ▲ IT之家开箱：华为 Mate 80 Pro Max 风驰版图赏 据用户反馈，部分机型在更新鸿蒙 HarmonyOS 7 花粉 B…",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-b8918dd978f7",
-      "title": "小米 REDMI K100 Pro Max 手机搭载 9070mAh 电池，胡馨心称续航同比增幅 40%",
-      "source": "IT之家",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-02",
-      "time": "04:14",
-      "publishedAt": "2026-08-02T04:14:11.000Z",
-      "url": "https://www.ithome.com/0/984/714.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/8/f7a98232-1f36-4dd8-8ec2-f7d866ebf0ac.jpg?x-bce-process=image/auto-orient,o_1",
-      "summary": "IT之家 8 月 2 日消息，小米 REDMI K100 Pro Max 手机已现身第二十三届中国国际数码互动娱乐展览会。新机采用 6.9 英寸超窄边直屏，四曲包裹式金属中框，还有一体化金属 DECO，并搭载了 9070mAh 电池。 小米 REDMI 产品经理胡馨心今日发文称，REDMI K100 Pro Max 将骁龙 8 Elite Gen5 的性能…",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "coolapk-user-2bd146b62225",
       "title": "竹本青：【胡馨心：REDMI K100 Pro Max 搭载9070mAh电池，续航相比上代增幅40%】 8月2日，RED…",
       "source": "竹本青",
@@ -279,26 +259,6 @@ window.phoneRadarAuto = {
         "Xiaomi",
         "爆料",
         "酷安博主"
-      ]
-    },
-    {
-      "id": "auto-d7f3aae37d1c",
-      "title": "消息称佳能 RF 300-600mm f/5.6L IS USM 长焦镜头下月发布",
-      "source": "IT之家",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-02",
-      "time": "03:44",
-      "publishedAt": "2026-08-02T03:44:00.000Z",
-      "url": "https://www.ithome.com/0/984/710.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/8/8c8c02b2-3f35-4b2d-adf2-94b28941a0ac.png?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 8 月 2 日消息，据 Canon Rumors 前日爆料， 佳能 RF 300-600mm f/5.6L IS USM 长焦镜头预计将在 9 月正式发布 。 IT之家在此援引 Canon Rumors，这款镜头预计不会和 EOS R8 Mark II 无反相机、PowerShot 固定镜头相机一同亮相。 目前我们还无法确认这款产品的售价 、具体…",
-      "tags": [
-        "行业",
-        "爆料",
-        "自动抓取"
       ]
     },
     {
@@ -517,26 +477,6 @@ window.phoneRadarAuto = {
       "summary": "顶配2万元！iPhone18系列这次真的要大涨价了，你还会买吗？[doge]",
       "tags": [
         "iPhone",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-95f1de788640",
-      "title": "小米多款手机今起正式涨价",
-      "source": "抖音热点",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "待验证",
-      "date": "2026-08-02",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.douyin.com/hot/2594149",
-      "image": "",
-      "summary": "小米多款手机今起正式涨价",
-      "tags": [
-        "Xiaomi",
         "爆料",
         "NewsNow"
       ]
