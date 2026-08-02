@@ -1,11 +1,11 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-08-02T17:14:09.472Z",
+  "updatedAt": "2026-08-02T19:33:15.987Z",
   "issueDate": "2026-08-02",
   "issue": "VOL.260802",
   "title": "手机情报日报",
-  "intro": "今日筛出 14 条重点，其中 8 条是重点爆料，包含 5 条 iPhone 相关、1 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 15 条重点，其中 8 条是重点爆料，包含 5 条 iPhone 相关、1 条官方确认、0 条参数线索。",
   "stats": {
-    "total": 14,
+    "total": 15,
     "iphone": 5,
     "leaks": 8,
     "official": 1,
@@ -83,32 +83,6 @@ window.phoneRadarDaily = {
             "外观 / 配色 / 尺寸",
             "影像硬件",
             "屏幕形态",
-            "爆料来源"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "newsnow-b08b58288963",
-          "title": "本期酷周报核心看点：高通9月起上调芯片价格；小米澎程系列预售价正式公布；苹果、三星最新财报出炉；网传智驾小蓝灯将被禁用；国产浸没式DUV光刻机被曝量产；极客湾曝光手机电池锁容等现象。",
-          "originalTitle": "",
-          "source": "酷安热榜",
-          "brand": "Samsung",
-          "type": "爆料",
-          "trust": "高关注爆料源",
-          "date": "2026-08-02",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://www.coolapk.com/feed/73022137",
-          "image": "",
-          "verdict": "先看",
-          "takeaway": "本期酷周报核心看点：高通9月起上调芯片价格；小米澎程系列预售价正式公布；苹果、三星最新财报出炉；网传智驾小蓝灯将被禁用；国产浸没式DUV光刻机被曝量产；极客湾曝光手机电池锁容等现象。",
-          "detail": "本期酷周报核心看点：高通9月起上调芯片价格；小米澎程系列预售价正式公布；苹果、三星最新财报出炉；网传智驾小蓝灯将被禁用；国产浸没式DUV光刻机被曝量产；极客湾曝光手机电池锁容等现象。",
-          "keyPoints": [
-            "电池 / 充电",
-            "芯片 / 性能",
-            "成本 / 价格",
             "爆料来源"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
@@ -208,6 +182,31 @@ window.phoneRadarDaily = {
           "confidence": "可信度较高，但仍属于发布前线索。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "weibo-0361ad72f128",
+          "title": "数码闲聊站：K100 Pro Max——6.9英寸RGB OLED直屏，支持185Hz超高…",
+          "originalTitle": "",
+          "source": "数码闲聊站",
+          "brand": "行业",
+          "type": "爆料",
+          "trust": "高关注爆料源",
+          "date": "2026-08-01",
+          "time": "06:04",
+          "publishedAt": "2026-08-01T06:04:05.000Z",
+          "url": "https://weibo.com/6048569942/Rbn7AhUrW",
+          "image": "https://tvax4.sinaimg.cn/mw2000/006BlblIgy1ifn6sscr9jj31o01l8woz.jpg",
+          "verdict": "先看",
+          "takeaway": "K100 Pro Max——6.9英寸RGB OLED直屏，支持185Hz超高刷，骁龙8E5处理器，D2独显芯片",
+          "detail": "K100 Pro Max——6.9英寸RGB OLED直屏，支持185Hz超高刷，骁龙8E5处理器，D2独显芯片",
+          "keyPoints": [
+            "屏幕形态",
+            "芯片 / 性能",
+            "爆料来源"
+          ],
+          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         }
       ]
     },
@@ -216,29 +215,6 @@ window.phoneRadarDaily = {
       "title": "iPhone 重点",
       "hint": "不是硬件爆料，但和 iPhone 体验或路线有关。",
       "items": [
-        {
-          "id": "newsnow-43e5f1f507f4",
-          "title": "顶配2万元！iPhone18系列这次真的要大涨价了，你还会买吗？[doge]",
-          "originalTitle": "",
-          "source": "酷安热榜",
-          "brand": "iPhone",
-          "type": "爆料",
-          "trust": "高关注爆料源",
-          "date": "2026-08-02",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://www.coolapk.com/feed/73023665",
-          "image": "",
-          "verdict": "先看",
-          "takeaway": "顶配2万元！iPhone18系列这次真的要大涨价了，你还会买吗？[doge]",
-          "detail": "顶配2万元！iPhone18系列这次真的要大涨价了，你还会买吗？[doge]",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "影响购买预算，值得先看。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
         {
           "id": "auto-9bbf43c61c96",
           "title": "iPhone 系统功能 / AI 体验相关消息",
@@ -260,6 +236,29 @@ window.phoneRadarDaily = {
           ],
           "confidence": "官方内容，可直接作为已确认信息记录。",
           "impact": "可信度高，但如果不是配置/价格消息，只需要扫一眼。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        },
+        {
+          "id": "newsnow-c203e29e2344",
+          "title": "我的出行好伙伴，用 iPhone 一站式解决旅途痛点",
+          "originalTitle": "",
+          "source": "少数派热榜",
+          "brand": "iPhone",
+          "type": "评测",
+          "trust": "媒体汇总",
+          "date": "2026-08-02",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://sspai.com/post/112044",
+          "image": "",
+          "verdict": "扫一眼",
+          "takeaway": "我的出行好伙伴，用 iPhone 一站式解决旅途痛点",
+          "detail": "我的出行好伙伴，用 iPhone 一站式解决旅途痛点",
+          "keyPoints": [
+            "评测"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是实际体验内容，买前适合重点看缺点和取舍。",
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         }
       ]
@@ -293,8 +292,8 @@ window.phoneRadarDaily = {
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         },
         {
-          "id": "newsnow-94e1f106d1d7",
-          "title": "小米多款手机迎来价格调整：涨幅200～500元",
+          "id": "newsnow-437ddc31b795",
+          "title": "完犊子，k90pm 16+512 5299了估计k100pm 16+512 得5599了#数码日常# #RedmiK90ProMax# #红米k100#",
           "originalTitle": "",
           "source": "酷安热榜",
           "brand": "Xiaomi",
@@ -303,17 +302,17 @@ window.phoneRadarDaily = {
           "date": "2026-08-02",
           "time": "",
           "publishedAt": "",
-          "url": "https://www.coolapk.com/feed/73042689",
+          "url": "https://www.coolapk.com/feed/73042976",
           "image": "",
-          "verdict": "先看",
-          "takeaway": "小米多款手机迎来价格调整：涨幅200～500元",
-          "detail": "小米多款手机迎来价格调整：涨幅200～500元",
+          "verdict": "扫一眼",
+          "takeaway": "完犊子，k90pm 16+512 5299了估计k100pm 16+512 得5599了#数码日常# #RedmiK90ProMax# #红米k100#",
+          "detail": "完犊子，k90pm 16+512 5299了估计k100pm 16+512 得5599了#数码日常# #RedmiK90ProMax# #红米k100#",
           "keyPoints": [
-            "成本 / 价格"
+            "爆料"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "影响购买预算，值得先看。",
-          "action": "有具体参数就记录到参数库；没有参数就先收藏。"
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         },
         {
           "id": "newsnow-99ce074cbd35",
@@ -337,6 +336,29 @@ window.phoneRadarDaily = {
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        },
+        {
+          "id": "newsnow-22ce6e6a18bd",
+          "title": "2020 年，回头看仍是机圈极具魔幻现实主义色彩的一年。厂商大喊 “5G 元年”，对换机用户而言却是 “涨价元年”—— 旗舰机型仿佛统一了口径，集体上调八百至一千的价格，携手迈入3999的时代。",
+          "originalTitle": "",
+          "source": "酷安热榜",
+          "brand": "行业",
+          "type": "爆料",
+          "trust": "高关注爆料源",
+          "date": "2026-08-02",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://www.coolapk.com/feed/70266966",
+          "image": "",
+          "verdict": "扫一眼",
+          "takeaway": "2020 年，回头看仍是机圈极具魔幻现实主义色彩的一年。厂商大喊 “5G 元年”，对换机用户而言却是 “涨价元年”—— 旗舰机型仿佛统一了口径，集体上调八百至一千的价格，携手迈入3999的时代。",
+          "detail": "2020 年，回头看仍是机圈极具魔幻现实主义色彩的一年。厂商大喊 “5G 元年”，对换机用户而言却是 “涨价元年”—— 旗舰机型仿佛统一了口径，集体上调八百至一千的价格，携手迈入3999的时代。",
+          "keyPoints": [
+            "成本 / 价格"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "影响购买预算，值得先看。",
+          "action": "有具体参数就记录到参数库；没有参数就先收藏。"
         },
         {
           "id": "coolapk-user-ffdada41b4ad",

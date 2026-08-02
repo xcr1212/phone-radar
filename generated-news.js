@@ -1,6 +1,26 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-08-02T17:14:09.472Z",
+  "updatedAt": "2026-08-02T19:33:15.987Z",
   "news": [
+    {
+      "id": "auto-36f99bc9098e",
+      "title": "Galaxy Z Fold 8 Ultra gets a new 200MP camera feature",
+      "source": "SamMobile",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-02",
+      "time": "18:25",
+      "publishedAt": "2026-08-02T18:25:13.000Z",
+      "url": "https://www.sammobile.com/news/galaxy-z-fold-8-ultra-camera-200mp-feature/",
+      "image": "",
+      "summary": "Samsung made its foldables a little more Ultra-like last year by equipping the Galaxy Z Fold 7 with a 200MP camera sensor. This year, the company has not introduced a newer primar…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-e58f4d231ff2",
       "title": "The OnePlus 15 situation is weird. [Video]",
@@ -342,6 +362,26 @@ window.phoneRadarAuto = {
       ]
     },
     {
+      "id": "newsnow-437ddc31b795",
+      "title": "完犊子，k90pm 16+512 5299了估计k100pm 16+512 得5599了#数码日常# #RedmiK90ProMax# #红米k100#",
+      "source": "酷安热榜",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-08-02",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/73042976",
+      "image": "",
+      "summary": "完犊子，k90pm 16+512 5299了估计k100pm 16+512 得5599了#数码日常# #RedmiK90ProMax# #红米k100#",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
       "id": "newsnow-99ce074cbd35",
       "title": "我已经猜到今年100系列的结局了，又跟去年一样，iqoo16杀穿子品牌全档",
       "source": "酷安热榜",
@@ -382,46 +422,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-94e1f106d1d7",
-      "title": "小米多款手机迎来价格调整：涨幅200～500元",
-      "source": "酷安热榜",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-08-02",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73042689",
-      "image": "",
-      "summary": "小米多款手机迎来价格调整：涨幅200～500元",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-b08b58288963",
-      "title": "本期酷周报核心看点：高通9月起上调芯片价格；小米澎程系列预售价正式公布；苹果、三星最新财报出炉；网传智驾小蓝灯将被禁用；国产浸没式DUV光刻机被曝量产；极客湾曝光手机电池锁容等现象。",
-      "source": "酷安热榜",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-08-02",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73022137",
-      "image": "",
-      "summary": "本期酷周报核心看点：高通9月起上调芯片价格；小米澎程系列预售价正式公布；苹果、三星最新财报出炉；网传智驾小蓝灯将被禁用；国产浸没式DUV光刻机被曝量产；极客湾曝光手机电池锁容等现象。",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
       "id": "newsnow-19b35d00b80c",
       "title": "REDMI K100 Pro Max 将搭载9070mAh电池",
       "source": "酷安热榜",
@@ -442,27 +442,27 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-43e5f1f507f4",
-      "title": "顶配2万元！iPhone18系列这次真的要大涨价了，你还会买吗？[doge]",
+      "id": "newsnow-22ce6e6a18bd",
+      "title": "2020 年，回头看仍是机圈极具魔幻现实主义色彩的一年。厂商大喊 “5G 元年”，对换机用户而言却是 “涨价元年”—— 旗舰机型仿佛统一了口径，集体上调八百至一千的价格，携手迈入3999的时代。",
       "source": "酷安热榜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
+      "brand": "行业",
+      "model": "智能手机市场",
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-08-02",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73023665",
+      "url": "https://www.coolapk.com/feed/70266966",
       "image": "",
-      "summary": "顶配2万元！iPhone18系列这次真的要大涨价了，你还会买吗？[doge]",
+      "summary": "2020 年，回头看仍是机圈极具魔幻现实主义色彩的一年。厂商大喊 “5G 元年”，对换机用户而言却是 “涨价元年”—— 旗舰机型仿佛统一了口径，集体上调八百至一千的价格，携手迈入3999的时代。",
       "tags": [
-        "iPhone",
+        "行业",
         "爆料",
         "NewsNow"
       ]
     },
     {
-      "id": "newsnow-108ded5a5e6e",
+      "id": "newsnow-cb6805e61595",
       "title": "手机不好卖 芯片出货量暴跌",
       "source": "微博热搜",
       "brand": "行业",
@@ -472,7 +472,7 @@ window.phoneRadarAuto = {
       "date": "2026-08-02",
       "time": "",
       "publishedAt": "",
-      "url": "https://s.weibo.com/weibo?q=%E6%89%8B%E6%9C%BA%E4%B8%8D%E5%A5%BD%E5%8D%96%20%E8%8A%AF%E7%89%87%E5%87%BA%E8%B4%A7%E9%87%8F%E6%9A%B4%E8%B7%8C&t=31&band_rank=15&Refer=top",
+      "url": "https://s.weibo.com/weibo?q=%E6%89%8B%E6%9C%BA%E4%B8%8D%E5%A5%BD%E5%8D%96%20%E8%8A%AF%E7%89%87%E5%87%BA%E8%B4%A7%E9%87%8F%E6%9A%B4%E8%B7%8C&t=31&band_rank=8&Refer=top",
       "image": "",
       "summary": "手机不好卖 芯片出货量暴跌",
       "tags": [
