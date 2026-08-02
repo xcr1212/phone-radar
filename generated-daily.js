@@ -1,12 +1,12 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-08-02T11:33:36.003Z",
+  "updatedAt": "2026-08-02T13:53:03.708Z",
   "issueDate": "2026-08-02",
   "issue": "VOL.260802",
   "title": "手机情报日报",
-  "intro": "今日筛出 17 条重点，其中 8 条是重点爆料，包含 6 条 iPhone 相关、1 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 15 条重点，其中 8 条是重点爆料，包含 5 条 iPhone 相关、1 条官方确认、0 条参数线索。",
   "stats": {
-    "total": 17,
-    "iphone": 6,
+    "total": 15,
+    "iphone": 5,
     "leaks": 8,
     "official": 1,
     "specs": 0
@@ -67,29 +67,6 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
-          "id": "auto-2848186fe401",
-          "title": "距离千万里程碑更近一步，曝华为 Mate 80 系列手机销量成功突破 800 万台",
-          "originalTitle": "",
-          "source": "IT之家",
-          "brand": "Huawei",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-08-02",
-          "time": "05:06",
-          "publishedAt": "2026-08-02T05:06:37.000Z",
-          "url": "https://www.ithome.com/0/984/718.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/8/355990bd-5f83-4661-b43d-d71ad36a71dd.png?x-bce-process=image/format,f_auto",
-          "verdict": "先看",
-          "takeaway": "IT之家 8 月 2 日消息，据长期关注国内手机市场份额的数码博主 @RD观测 爆料，截至 2026 年第 30 周（7 月 20 日-7 月 26 日）， 华为 Mate 80 系列手机的销量约 809 万台 。这意味着该系列机型距离千万里程碑又更近了一步。 有网友在评论区补充，称系列机型周增长约 16.95 万台，目前全系列的销量占比接近于： 标准版…",
-          "detail": "IT之家 8 月 2 日消息，据长期关注国内手机市场份额的数码博主 @RD观测 爆料，截至 2026 年第 30 周（7 月 20 日-7 月 26 日）， 华为 Mate 80 系列手机的销量约 809 万台 。这意味着该系列机型距离千万里程碑又更近了一步。 有网友在评论区补充，称系列机型周增长约 16.95 万台，目前全系列的销量占比接近于： 标准版…",
-          "keyPoints": [
-            "爆料来源"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
           "id": "newsnow-b08b58288963",
           "title": "本期酷周报核心看点：高通9月起上调芯片价格；小米澎程系列预售价正式公布；苹果、三星最新财报出炉；网传智驾小蓝灯将被禁用；国产浸没式DUV光刻机被曝量产；极客湾曝光手机电池锁容等现象。",
           "originalTitle": "",
@@ -116,50 +93,49 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
-          "id": "auto-4eb5ee9f4293",
-          "title": "Zinwa 推出 Q27 手机：外观致敬黑莓，天玑 7300 芯片",
+          "id": "newsnow-19b35d00b80c",
+          "title": "REDMI K100 Pro Max 将搭载9070mAh电池",
           "originalTitle": "",
-          "source": "IT之家",
-          "brand": "行业",
+          "source": "酷安热榜",
+          "brand": "Xiaomi",
           "type": "爆料",
-          "trust": "媒体汇总",
+          "trust": "高关注爆料源",
           "date": "2026-08-02",
-          "time": "06:18",
-          "publishedAt": "2026-08-02T06:18:18.000Z",
-          "url": "https://www.ithome.com/0/984/726.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/8/8b813ee2-4efa-4d63-8c3f-5fd6f3b0d93d.jpg?x-bce-process=image/format,f_auto",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://www.coolapk.com/feed/73047427",
+          "image": "",
           "verdict": "先看",
-          "takeaway": "IT之家 8 月 2 日消息，Zinwa 现已在海外市场推出 Q27 手机。新机搭载实体全键盘，外观致敬黑莓。 据介绍， Zinwa Q27 是一台采用黑莓设计风格 、 配备 QWERTY 全键盘的 Android 手机 。该机配备 4 英寸 AMOLED 屏幕，分辨率为 1080*1240。 规格方面， 这款手机搭载联发科天玑 7300 芯 片，具备 1…",
-          "detail": "IT之家 8 月 2 日消息，Zinwa 现已在海外市场推出 Q27 手机。新机搭载实体全键盘，外观致敬黑莓。 据介绍， Zinwa Q27 是一台采用黑莓设计风格 、 配备 QWERTY 全键盘的 Android 手机 。该机配备 4 英寸 AMOLED 屏幕，分辨率为 1080*1240。 规格方面， 这款手机搭载联发科天玑 7300 芯 片，具备 1…",
+          "takeaway": "REDMI K100 Pro Max 将搭载9070mAh电池",
+          "detail": "REDMI K100 Pro Max 将搭载9070mAh电池",
           "keyPoints": [
-            "外观 / 配色 / 尺寸",
-            "屏幕形态",
-            "芯片 / 性能"
+            "电池 / 充电"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
-          "id": "coolapk-user-2bd146b62225",
-          "title": "竹本青：【胡馨心：REDMI K100 Pro Max 搭载9070mAh电池，续航相比上代增幅40%】 8月2日，RED…",
+          "id": "weibo-8eca93f67d11",
+          "title": "数码闲聊站：REDMI K100 Pro Max真机实测： ——之前预告过了，骁龙8E5也…",
           "originalTitle": "",
-          "source": "竹本青",
+          "source": "数码闲聊站",
           "brand": "Xiaomi",
           "type": "爆料",
-          "trust": "高可信爆料",
-          "date": "2026-08-02",
-          "time": "03:58",
-          "publishedAt": "2026-08-02T03:58:42.000Z",
-          "url": "https://www.coolapk.com/feed/73047427",
-          "image": "http://image.coolapk.com/feed/2026/0802/11/4248714_6079194d_3120_042_188@1271x2219.jpg",
+          "trust": "高关注爆料源",
+          "date": "2026-08-01",
+          "time": "08:05",
+          "publishedAt": "2026-08-01T08:05:00.000Z",
+          "url": "https://weibo.com/6048569942/RbnUFoeOR",
+          "image": "https://tvax1.sinaimg.cn/mw2000/006BlblIgy1ifocikuzzdj32dc35se81.jpg",
           "verdict": "先看",
-          "takeaway": "【胡馨心：REDMI K100 Pro Max 搭载9070mAh电池，续航相比上代增幅40%】 8月2日，REDMI产品经理胡馨心 预热全新K100 Pro Max。她表示，新机优化骁龙8 Elite Gen5调度策略，搭配9070mAh电池，实测续航相比上代K90 Pro Max增幅40%，成绩登顶“新评科技”续航榜单。 #今日热点# #HyperOS…",
-          "detail": "【胡馨心：REDMI K100 Pro Max 搭载9070mAh电池，续航相比上代增幅40%】 8月2日，REDMI产品经理胡馨心 预热全新K100 Pro Max。她表示，新机优化骁龙8 Elite Gen5调度策略，搭配9070mAh电池，实测续航相比上代K90 Pro Max增幅40%，成绩登顶“新评科技”续航榜单。 #今日热点# #HyperOS…",
+          "takeaway": "REDMI K100 Pro Max真机实测： ——之前预告过了，骁龙8E5也将成为新一代长寿神U，母系和子系迭代新旗舰都会采用，比如这次我们拿到的这台K100 Pro Max。 实测GeekBench7单核2965/多核10064，3D Mark SNL 3015； ——K100 PM升级185Hz超高刷，D2独显芯从3倍插帧调整为2倍，帧渲染变少，延迟…",
+          "detail": "REDMI K100 Pro Max真机实测： ——之前预告过了，骁龙8E5也将成为新一代长寿神U，母系和子系迭代新旗舰都会采用，比如这次我们拿到的这台K100 Pro Max。 实测GeekBench7单核2965/多核10064，3D Mark SNL 3015； ——K100 PM升级185Hz超高刷，D2独显芯从3倍插帧调整为2倍，帧渲染变少，延迟…",
           "keyPoints": [
-            "电池 / 充电"
+            "外观 / 配色 / 尺寸",
+            "爆料来源"
           ],
-          "confidence": "可信度较高，但仍属于发布前线索。",
+          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
@@ -189,7 +165,7 @@ window.phoneRadarDaily = {
         },
         {
           "id": "coolapk-user-c19fdac3a79a",
-          "title": "JSCHEN小小狐：『OPPO A7 Pro Max 影像预热：前后 5000 万』 ◇ 后置 5000 万 OIS 主摄 + 200…",
+          "title": "JSCHEN小小狐：OPPO A7 Pro Max 影像预热：前后 5000 万像素",
           "originalTitle": "",
           "source": "JSCHEN小小狐",
           "brand": "OPPO",
@@ -207,6 +183,31 @@ window.phoneRadarDaily = {
             "影像硬件"
           ],
           "confidence": "可信度较高，但仍属于发布前线索。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "weibo-0361ad72f128",
+          "title": "数码闲聊站：K100 Pro Max——6.9英寸RGB OLED直屏，支持185Hz超高…",
+          "originalTitle": "",
+          "source": "数码闲聊站",
+          "brand": "行业",
+          "type": "爆料",
+          "trust": "高关注爆料源",
+          "date": "2026-08-01",
+          "time": "06:04",
+          "publishedAt": "2026-08-01T06:04:05.000Z",
+          "url": "https://weibo.com/6048569942/Rbn7AhUrW",
+          "image": "https://tvax4.sinaimg.cn/mw2000/006BlblIgy1ifn6sscr9jj31o01l8woz.jpg",
+          "verdict": "先看",
+          "takeaway": "K100 Pro Max——6.9英寸RGB OLED直屏，支持185Hz超高刷，骁龙8E5处理器，D2独显芯片",
+          "detail": "K100 Pro Max——6.9英寸RGB OLED直屏，支持185Hz超高刷，骁龙8E5处理器，D2独显芯片",
+          "keyPoints": [
+            "屏幕形态",
+            "芯片 / 性能",
+            "爆料来源"
+          ],
+          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         }
@@ -285,29 +286,6 @@ window.phoneRadarDaily = {
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是实际体验内容，买前适合重点看缺点和取舍。",
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
-        {
-          "id": "newsnow-7854e368d831",
-          "title": "iPhone Air 当主力机用了三个多月后，我为什么还是换不掉它",
-          "originalTitle": "",
-          "source": "少数派热榜",
-          "brand": "iPhone",
-          "type": "评测",
-          "trust": "媒体汇总",
-          "date": "2026-08-02",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://sspai.com/post/111113",
-          "image": "",
-          "verdict": "扫一眼",
-          "takeaway": "iPhone Air 当主力机用了三个多月后，我为什么还是换不掉它",
-          "detail": "iPhone Air 当主力机用了三个多月后，我为什么还是换不掉它",
-          "keyPoints": [
-            "评测"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是实际体验内容，买前适合重点看缺点和取舍。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         }
       ]
     },
@@ -318,7 +296,7 @@ window.phoneRadarDaily = {
       "items": [
         {
           "id": "newsnow-245edaae5dbb",
-          "title": "【小米手机开启新一轮涨价，覆盖小米17系列，REDMI Turbo5系列、K90系列】",
+          "title": "小米手机开启新一轮涨价，覆盖小米17系列、REDMI Turbo5系列、K90系列",
           "originalTitle": "",
           "source": "酷安热榜",
           "brand": "Xiaomi",
@@ -330,8 +308,8 @@ window.phoneRadarDaily = {
           "url": "https://www.coolapk.com/feed/73043040",
           "image": "",
           "verdict": "先看",
-          "takeaway": "【小米手机开启新一轮涨价，覆盖小米17系列，REDMI Turbo5系列、K90系列】",
-          "detail": "【小米手机开启新一轮涨价，覆盖小米17系列，REDMI Turbo5系列、K90系列】",
+          "takeaway": "小米手机开启新一轮涨价，覆盖小米17系列、REDMI Turbo5系列、K90系列",
+          "detail": "小米手机开启新一轮涨价，覆盖小米17系列、REDMI Turbo5系列、K90系列",
           "keyPoints": [
             "爆料"
           ],
@@ -406,29 +384,6 @@ window.phoneRadarDaily = {
           ],
           "confidence": "可信度较高，但仍属于发布前线索。",
           "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
-        {
-          "id": "coolapk-user-798ff455c916",
-          "title": "竹本青：K90标准版在上个月初，已经涨价了200元；Turbo5系列是在取消新春特惠、大内存补贴的情况下，全系再涨300元…",
-          "originalTitle": "",
-          "source": "竹本青",
-          "brand": "Xiaomi",
-          "type": "爆料",
-          "trust": "高可信爆料",
-          "date": "2026-08-01",
-          "time": "17:53",
-          "publishedAt": "2026-08-01T17:53:27.000Z",
-          "url": "https://www.coolapk.com/feed/73043864",
-          "image": "",
-          "verdict": "扫一眼",
-          "takeaway": "K90标准版在上个月初，已经涨价了200元；Turbo5系列是在取消新春特惠、大内存补贴的情况下，全系再涨300元；小米17系列是首次涨价，涨幅不太一样，看内容吧 #红米K90# #REDMITurbo5Max# #小米17#",
-          "detail": "K90标准版在上个月初，已经涨价了200元；Turbo5系列是在取消新春特惠、大内存补贴的情况下，全系再涨300元；小米17系列是首次涨价，涨幅不太一样，看内容吧 #红米K90# #REDMITurbo5Max# #小米17#",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "可信度较高，但仍属于发布前线索。",
-          "impact": "影响购买预算，值得先看。",
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         }
       ]

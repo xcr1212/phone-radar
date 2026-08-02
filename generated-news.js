@@ -1,6 +1,46 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-08-02T11:33:36.003Z",
+  "updatedAt": "2026-08-02T13:53:03.708Z",
   "news": [
+    {
+      "id": "auto-8df8ebacb25b",
+      "title": "Redmi K100 Pro Max gaming tests reveal 9,070mAh battery, optimized Snapdragon 8 Elite Gen 5",
+      "source": "Gizmochina",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-02",
+      "time": "13:30",
+      "publishedAt": "2026-08-02T13:30:00.000Z",
+      "url": "https://www.gizmochina.com/2026/08/02/redmi-k100-pro-max-battery-size-snapdragon-8-elite-gen-5-gaming-performance/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/08/Redmi-K100-Pro-Max-featured-300x204.png?x23692",
+      "summary": "The Redmi K100 Pro Max has surfaced in a fresh set of gaming performance tests ahead of its official debut, offering an early look at what users can expect from Xiaomi’s next flag…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-a11c10c481ec",
+      "title": "The Pixel 11 will be a perfect storm of bad timing",
+      "source": "9to5Google",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-02",
+      "time": "13:00",
+      "publishedAt": "2026-08-02T13:00:00.000Z",
+      "url": "https://9to5google.com/2026/08/02/the-pixel-11-will-be-a-perfect-storm-of-bad-timing/",
+      "image": "",
+      "summary": "It’s all leaked at this point. We know just about everything the Pixel 11 is bringing to the table, and, well, it feels a bit underwhelming, doesn’t it? This issue of 9to5Google W…",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-227819e40b2b",
       "title": "爱好者利用微软 Xbox 360 模拟器 XeniOS，成功在苹果 iPhone 17 Pro Max 上运行《GTA 5》",
@@ -162,46 +202,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-fd1f00b546b5",
-      "title": "中国铁路 12306：今起京沪高铁、京沪铁路旅客可预约 2026 年国庆假期车票",
-      "source": "IT之家",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-02",
-      "time": "06:35",
-      "publishedAt": "2026-08-02T06:35:20.000Z",
-      "url": "https://www.ithome.com/0/984/729.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/8/6a170322-c52f-4474-b0a7-b9f556cc7368.jpg?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 8 月 2 日消息，据中国铁路，随着京沪高铁、京沪铁路“提前 60 天预约火车票”功能上线，目前旅客已可预约这两条高铁 2026 国庆假期车票，8 月 2 日（今天）可预约 9 月 30 日的车票，8 月 3 日（明天）可预约 10 月 1 日的车票。 具体来看，旅客可以使用铁路 12306 手机客户端“预约购票”专区办理。每日 8 时起旅客可提…",
-      "tags": [
-        "行业",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-4eb5ee9f4293",
-      "title": "Zinwa 推出 Q27 手机：外观致敬黑莓，天玑 7300 芯片",
-      "source": "IT之家",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-02",
-      "time": "06:18",
-      "publishedAt": "2026-08-02T06:18:18.000Z",
-      "url": "https://www.ithome.com/0/984/726.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/8/8b813ee2-4efa-4d63-8c3f-5fd6f3b0d93d.jpg?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 8 月 2 日消息，Zinwa 现已在海外市场推出 Q27 手机。新机搭载实体全键盘，外观致敬黑莓。 据介绍， Zinwa Q27 是一台采用黑莓设计风格 、 配备 QWERTY 全键盘的 Android 手机 。该机配备 4 英寸 AMOLED 屏幕，分辨率为 1080*1240。 规格方面， 这款手机搭载联发科天玑 7300 芯 片，具备 1…",
-      "tags": [
-        "行业",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-392ce26eb7ff",
       "title": "Two Oppo Find X10 series models gain network access approval in China",
       "source": "Gizmochina",
@@ -219,46 +219,6 @@ window.phoneRadarAuto = {
         "OPPO",
         "爆料",
         "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-2848186fe401",
-      "title": "距离千万里程碑更近一步，曝华为 Mate 80 系列手机销量成功突破 800 万台",
-      "source": "IT之家",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-02",
-      "time": "05:06",
-      "publishedAt": "2026-08-02T05:06:37.000Z",
-      "url": "https://www.ithome.com/0/984/718.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/8/355990bd-5f83-4661-b43d-d71ad36a71dd.png?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 8 月 2 日消息，据长期关注国内手机市场份额的数码博主 @RD观测 爆料，截至 2026 年第 30 周（7 月 20 日-7 月 26 日）， 华为 Mate 80 系列手机的销量约 809 万台 。这意味着该系列机型距离千万里程碑又更近了一步。 有网友在评论区补充，称系列机型周增长约 16.95 万台，目前全系列的销量占比接近于： 标准版…",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "coolapk-user-2bd146b62225",
-      "title": "竹本青：【胡馨心：REDMI K100 Pro Max 搭载9070mAh电池，续航相比上代增幅40%】 8月2日，RED…",
-      "source": "竹本青",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-08-02",
-      "time": "03:58",
-      "publishedAt": "2026-08-02T03:58:42.000Z",
-      "url": "https://www.coolapk.com/feed/73047427",
-      "image": "http://image.coolapk.com/feed/2026/0802/11/4248714_6079194d_3120_042_188@1271x2219.jpg",
-      "summary": "【胡馨心：REDMI K100 Pro Max 搭载9070mAh电池，续航相比上代增幅40%】 8月2日，REDMI产品经理胡馨心 预热全新K100 Pro Max。她表示，新机优化骁龙8 Elite Gen5调度策略，搭配9070mAh电池，实测续航相比上代K90 Pro Max增幅40%，成绩登顶“新评科技”续航榜单。 #今日热点# #HyperOS…",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "酷安博主"
       ]
     },
     {
@@ -283,7 +243,7 @@ window.phoneRadarAuto = {
     },
     {
       "id": "coolapk-user-c19fdac3a79a",
-      "title": "JSCHEN小小狐：『OPPO A7 Pro Max 影像预热：前后 5000 万』 ◇ 后置 5000 万 OIS 主摄 + 200…",
+      "title": "JSCHEN小小狐：OPPO A7 Pro Max 影像预热：前后 5000 万像素",
       "source": "JSCHEN小小狐",
       "brand": "OPPO",
       "model": "OPPO 相关机型",
@@ -403,7 +363,7 @@ window.phoneRadarAuto = {
     },
     {
       "id": "newsnow-245edaae5dbb",
-      "title": "【小米手机开启新一轮涨价，覆盖小米17系列，REDMI Turbo5系列、K90系列】",
+      "title": "小米手机开启新一轮涨价，覆盖小米17系列、REDMI Turbo5系列、K90系列",
       "source": "酷安热榜",
       "brand": "Xiaomi",
       "model": "Xiaomi 相关机型",
@@ -414,7 +374,7 @@ window.phoneRadarAuto = {
       "publishedAt": "",
       "url": "https://www.coolapk.com/feed/73043040",
       "image": "",
-      "summary": "【小米手机开启新一轮涨价，覆盖小米17系列，REDMI Turbo5系列、K90系列】",
+      "summary": "小米手机开启新一轮涨价，覆盖小米17系列、REDMI Turbo5系列、K90系列",
       "tags": [
         "Xiaomi",
         "爆料",
@@ -477,6 +437,66 @@ window.phoneRadarAuto = {
       "summary": "顶配2万元！iPhone18系列这次真的要大涨价了，你还会买吗？[doge]",
       "tags": [
         "iPhone",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-19b35d00b80c",
+      "title": "REDMI K100 Pro Max 将搭载9070mAh电池",
+      "source": "酷安热榜",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-08-02",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/73047427",
+      "image": "",
+      "summary": "REDMI K100 Pro Max 将搭载9070mAh电池",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-8138faaeb109",
+      "title": "手机不好卖 芯片出货量暴跌",
+      "source": "百度热搜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-02",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.baidu.com/s?wd=%E6%89%8B%E6%9C%BA%E4%B8%8D%E5%A5%BD%E5%8D%96+%E8%8A%AF%E7%89%87%E5%87%BA%E8%B4%A7%E9%87%8F%E6%9A%B4%E8%B7%8C",
+      "image": "",
+      "summary": "手机不好卖 芯片出货量暴跌",
+      "tags": [
+        "行业",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-63b63b71b7b1",
+      "title": "中央编办批复同意组建新机构",
+      "source": "百度热搜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-02",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%A4%AE%E7%BC%96%E5%8A%9E%E6%89%B9%E5%A4%8D%E5%90%8C%E6%84%8F%E7%BB%84%E5%BB%BA%E6%96%B0%E6%9C%BA%E6%9E%84",
+      "image": "",
+      "summary": "中央编办批复同意组建新机构",
+      "tags": [
+        "行业",
         "爆料",
         "NewsNow"
       ]
@@ -662,26 +682,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-ef8d9f54ae8f",
-      "title": "I've been loving the Samsung Galaxy Z Fold 8, but it misses a pivotal foldable tool",
-      "source": "Android Police",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-01",
-      "time": "13:30",
-      "publishedAt": "2026-08-01T13:30:15.000Z",
-      "url": "https://www.androidpolice.com/samsung-galaxy-z-fold-8-misses-pivotal-foldable-tool/",
-      "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2026/07/samsung-galaxy-z-fold-8-no-flex-mode.jpg",
-      "summary": "Weird flex — or lack of one",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-b402e063a075",
       "title": "Should you wait for the Google Pixel 11 Pro Fold?",
       "source": "Android Central",
@@ -782,6 +782,26 @@ window.phoneRadarAuto = {
       ]
     },
     {
+      "id": "weibo-8eca93f67d11",
+      "title": "数码闲聊站：REDMI K100 Pro Max真机实测： ——之前预告过了，骁龙8E5也…",
+      "source": "数码闲聊站",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-08-01",
+      "time": "08:05",
+      "publishedAt": "2026-08-01T08:05:00.000Z",
+      "url": "https://weibo.com/6048569942/RbnUFoeOR",
+      "image": "https://tvax1.sinaimg.cn/mw2000/006BlblIgy1ifocikuzzdj32dc35se81.jpg",
+      "summary": "REDMI K100 Pro Max真机实测： ——之前预告过了，骁龙8E5也将成为新一代长寿神U，母系和子系迭代新旗舰都会采用，比如这次我们拿到的这台K100 Pro Max。 实测GeekBench7单核2965/多核10064，3D Mark SNL 3015； ——K100 PM升级185Hz超高刷，D2独显芯从3倍插帧调整为2倍，帧渲染变少，延迟…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "微博"
+      ]
+    },
+    {
       "id": "auto-4525bdcbccd6",
       "title": "OnePlus N6x launched in India with Dimensity 6360 Apex chipset, 7000mAh battery",
       "source": "Gizmochina",
@@ -859,6 +879,26 @@ window.phoneRadarAuto = {
         "HONOR",
         "爆料",
         "自动抓取"
+      ]
+    },
+    {
+      "id": "weibo-0361ad72f128",
+      "title": "数码闲聊站：K100 Pro Max——6.9英寸RGB OLED直屏，支持185Hz超高…",
+      "source": "数码闲聊站",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-08-01",
+      "time": "06:04",
+      "publishedAt": "2026-08-01T06:04:05.000Z",
+      "url": "https://weibo.com/6048569942/Rbn7AhUrW",
+      "image": "https://tvax4.sinaimg.cn/mw2000/006BlblIgy1ifn6sscr9jj31o01l8woz.jpg",
+      "summary": "K100 Pro Max——6.9英寸RGB OLED直屏，支持185Hz超高刷，骁龙8E5处理器，D2独显芯片",
+      "tags": [
+        "行业",
+        "爆料",
+        "微博"
       ]
     },
     {
