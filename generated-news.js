@@ -1,6 +1,86 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-08-03T18:03:30.704Z",
+  "updatedAt": "2026-08-03T19:55:59.009Z",
   "news": [
+    {
+      "id": "auto-a5afcf981f6e",
+      "title": "Samsung says Galaxy Z Fold 8’s new shape exists because ‘one size does not fit all’",
+      "source": "9to5Google",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-03",
+      "time": "19:05",
+      "publishedAt": "2026-08-03T19:05:00.000Z",
+      "url": "https://9to5google.com/2026/08/03/samsung-says-galaxy-z-fold-8s-new-shape-exists-because-one-size-does-not-fit-all/",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/07/galaxy-z-fold-8-review-32.jpg?quality=82&strip=all&w=1600",
+      "summary": "In a new interview, Samsung talks about its decisions around the Galaxy Z Fold 8’s new shape, the color choices across its new foldable lineup, and the controversial “cushion” des…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-06f32dd1cabf",
+      "title": "Google drops Pixel 11 Pro Fold teaser to hype you up for official launch",
+      "source": "Android Authority",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-03",
+      "time": "18:51",
+      "publishedAt": "2026-08-03T18:51:26.000Z",
+      "url": "https://www.androidauthority.com/google-teases-pixel-11-pro-fold-3694007/",
+      "image": "",
+      "summary": "Get an eyeful of the Pixel 11 Pro Fold.",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-5913c5f9b380",
+      "title": "Pixel 11 Pro XL joins the rest of the family with Google image leak",
+      "source": "Android Authority",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-03",
+      "time": "18:37",
+      "publishedAt": "2026-08-03T18:37:05.000Z",
+      "url": "https://www.androidauthority.com/pixel-11-pro-xl-image-leak-3694004/",
+      "image": "",
+      "summary": "Google Pixel 11 Pro XL pictures complete the set.",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-0159ca9a515e",
+      "title": "OnePlus 15 and more have fully sold out in the US following shutdown",
+      "source": "9to5Google",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-03",
+      "time": "17:55",
+      "publishedAt": "2026-08-03T17:55:00.000Z",
+      "url": "https://9to5google.com/2026/08/03/oneplus-15-sold-out-us-shutdown/",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2025/11/oneplus-15-review-13.jpg?quality=82&strip=all&w=1600",
+      "summary": "OnePlus has officially closed its doors in the US, but remaining stock was available for a little while. Now, for OnePlus 15 and most other products, US stock has dried up.",
+      "tags": [
+        "OPPO",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-6632a4d8ef63",
       "title": "Galaxy S27 Ultra reportedly ditches a telephoto camera for the sake of cost-cutting",
@@ -1042,6 +1122,26 @@ window.phoneRadarAuto = {
       ]
     },
     {
+      "id": "newsnow-398b6c540dc5",
+      "title": "干了一个多月暑假工发了1w，有点想换这个17pm了。想把这个当自己考研的奖励，最近每天晚上都在刷多多根本睡不着。我是该直接满足自己，还是等18。#iPhone18ProMax# #iPhone17ProMax# #iPhone17#",
+      "source": "酷安热榜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-08-03",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/73066712",
+      "image": "",
+      "summary": "干了一个多月暑假工发了1w，有点想换这个17pm了。想把这个当自己考研的奖励，最近每天晚上都在刷多多根本睡不着。我是该直接满足自己，还是等18。#iPhone18ProMax# #iPhone17ProMax# #iPhone17#",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
       "id": "newsnow-e3a3a0843893",
       "title": "REDMI K100 Pro 系列抢在小米18 Pro之前率先用上全新屏幕！新一代超级像素屏幕，首发M11发光材料，发光效率直接提升20%，局部峰值亮度达到4500nits。拥有185Hz高刷新率，4800Hz瞬时触控采样率，全RGB无损排列，直接做到实打实2K钻排清晰度，不再只是媲美2K。8月11日19点新品发布",
       "source": "酷安热榜",
@@ -1062,102 +1162,22 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-b92fbede484c",
-      "title": "完犊子，k90pm 16+512 5299了估计k100pm 16+512 得5599了#数码日常# #RedmiK90ProMax# #红米k100#",
+      "id": "newsnow-46f512bd8fde",
+      "title": "之前一直没看懂竹知了的梗是啥，问了下小艺，小艺回答的挺中肯，不过我觉得🌸子公关团队反应这么激烈，可能是做给领导看的[流汗滑稽]#鸿蒙7# #华为Mate80ProMax# #华为PuraXMax#",
       "source": "酷安热榜",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-08-03",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73042976",
-      "image": "",
-      "summary": "完犊子，k90pm 16+512 5299了估计k100pm 16+512 得5599了#数码日常# #RedmiK90ProMax# #红米k100#",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-8570882f3cc3",
-      "title": "REDMI K100 Pro Max 将搭载9070mAh电池",
-      "source": "酷安热榜",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-08-03",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73047427",
-      "image": "",
-      "summary": "REDMI K100 Pro Max 将搭载9070mAh电池",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-922b0e0b75bc",
-      "title": "我已经猜到今年100系列的结局了，又跟去年一样，iqoo16杀穿子品牌全档",
-      "source": "酷安热榜",
-      "brand": "vivo",
-      "model": "vivo 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-08-03",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73043534",
-      "image": "",
-      "summary": "我已经猜到今年100系列的结局了，又跟去年一样，iqoo16杀穿子品牌全档",
-      "tags": [
-        "vivo",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-2d453dbece1f",
-      "title": "小米手机开启新一轮涨价，覆盖小米17系列、REDMI Turbo5系列、K90系列",
-      "source": "酷安热榜",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-08-03",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73043040",
-      "image": "",
-      "summary": "小米手机开启新一轮涨价，覆盖小米17系列、REDMI Turbo5系列、K90系列",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-30da5faf926d",
-      "title": "2026 年手机市场大盘跌 3% 华为涨 24%，哪些因素导致「冰火两重天」？",
-      "source": "知乎热榜",
       "brand": "Huawei",
       "model": "Huawei 相关机型",
-      "type": "市场报告",
-      "trust": "媒体汇总",
+      "type": "爆料",
+      "trust": "高关注爆料源",
       "date": "2026-08-03",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.zhihu.com/question/2062848132044607495",
+      "url": "https://www.coolapk.com/feed/73061988",
       "image": "",
-      "summary": "2026 年手机市场大盘跌 3% 华为涨 24%，哪些因素导致「冰火两重天」？",
+      "summary": "之前一直没看懂竹知了的梗是啥，问了下小艺，小艺回答的挺中肯，不过我觉得🌸子公关团队反应这么激烈，可能是做给领导看的[流汗滑稽]#鸿蒙7# #华为Mate80ProMax# #华为PuraXMax#",
       "tags": [
         "Huawei",
-        "市场报告",
+        "爆料",
         "NewsNow"
       ]
     },
@@ -1177,6 +1197,26 @@ window.phoneRadarAuto = {
       "summary": "小米多款手机涨价，有旗舰机型上涨 500 元，店员称昨晚接到调价通知，购机该趁早入手还是继续观望？",
       "tags": [
         "Xiaomi",
+        "市场报告",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-30da5faf926d",
+      "title": "2026 年手机市场大盘跌 3% 华为涨 24%，哪些因素导致「冰火两重天」？",
+      "source": "知乎热榜",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "市场报告",
+      "trust": "媒体汇总",
+      "date": "2026-08-03",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.zhihu.com/question/2062848132044607495",
+      "image": "",
+      "summary": "2026 年手机市场大盘跌 3% 华为涨 24%，哪些因素导致「冰火两重天」？",
+      "tags": [
+        "Huawei",
         "市场报告",
         "NewsNow"
       ]
@@ -1237,26 +1277,6 @@ window.phoneRadarAuto = {
       "summary": "Samsung made its foldables a little more Ultra-like last year by equipping the Galaxy Z Fold 7 with a 200MP camera sensor. This year, the company has not introduced a newer primar…",
       "tags": [
         "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-e58f4d231ff2",
-      "title": "The OnePlus 15 situation is weird. [Video]",
-      "source": "Android Police",
-      "brand": "OPPO",
-      "model": "OPPO 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-02",
-      "time": "16:32",
-      "publishedAt": "2026-08-02T16:32:16.000Z",
-      "url": "https://www.androidpolice.com/video/the-oneplus-15-situation-is-weird-video/",
-      "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2026/07/the-oneplus-15-situation-is-weird.jpg",
-      "summary": "What happens now?",
-      "tags": [
-        "OPPO",
         "爆料",
         "自动抓取"
       ]

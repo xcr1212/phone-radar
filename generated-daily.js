@@ -1,5 +1,5 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-08-03T18:03:30.704Z",
+  "updatedAt": "2026-08-03T19:55:59.009Z",
   "issueDate": "2026-08-03",
   "issue": "VOL.260803",
   "title": "手机情报日报",
@@ -185,23 +185,24 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
-          "id": "newsnow-8570882f3cc3",
-          "title": "REDMI K100 Pro Max 将搭载9070mAh电池",
+          "id": "auto-21732c1531e3",
+          "title": "vivo 机模 / 配色信息曝光",
           "originalTitle": "",
-          "source": "酷安热榜",
-          "brand": "Xiaomi",
+          "source": "Gizmochina",
+          "brand": "vivo",
           "type": "爆料",
-          "trust": "高关注爆料源",
+          "trust": "媒体汇总",
           "date": "2026-08-03",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://www.coolapk.com/feed/73047427",
-          "image": "",
+          "time": "10:35",
+          "publishedAt": "2026-08-03T10:35:26.000Z",
+          "url": "https://www.gizmochina.com/2026/08/03/iqoo-z11-india-variant-design-colours-specifications-revealed/",
+          "image": "https://www.gizmochina.com/wp-content/uploads/2026/08/iQOO-Z11-design-1-1-300x124.jpg?x23692",
           "verdict": "先看",
-          "takeaway": "REDMI K100 Pro Max 将搭载9070mAh电池",
-          "detail": "REDMI K100 Pro Max 将搭载9070mAh电池",
+          "takeaway": "vivo 机模 / 配色信息曝光。重点看外观、颜色、尺寸是否和上一代有明显变化。",
+          "detail": "vivo 机模 / 配色信息曝光。来源提到未发布机型的机模/配色图，适合先判断外观方向、颜色变化和机身轮廓，但最终量产版本仍可能调整。",
           "keyPoints": [
-            "电池 / 充电"
+            "外观 / 配色 / 尺寸",
+            "影像硬件"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
