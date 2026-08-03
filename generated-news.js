@@ -1,6 +1,46 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-08-03T19:55:59.009Z",
+  "updatedAt": "2026-08-03T21:21:23.833Z",
   "news": [
+    {
+      "id": "auto-58fa07fe86ac",
+      "title": "Google may start Pixel 11 pre-orders way sooner than expected",
+      "source": "Android Authority",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-03",
+      "time": "21:18",
+      "publishedAt": "2026-08-03T21:18:01.000Z",
+      "url": "https://www.androidauthority.com/pixel-11-countdown-clock-3694078/",
+      "image": "",
+      "summary": "Google might let you pre-order the Pixel 11 before you even see it.",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-b05d53997569",
+      "title": "Here’s why Apple Upgrade requires AT&T, T-Mobile, or Verizon for iPhone",
+      "source": "9to5Mac",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-03",
+      "time": "21:11",
+      "publishedAt": "2026-08-03T21:11:34.000Z",
+      "url": "https://9to5mac.com/2026/08/03/why-apple-upgrade-requires-att-t-mobile-or-verizon-for-iphone/",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/apple-upgrade-iphone.jpg?quality=82&strip=all&w=1600",
+      "summary": "The new Apple Upgrade program has a key piece of fine print: “If you’re leasing an iPhone, you’ll need to connect to AT&T, T-Mobile, or Verizon when you enroll.” In a new post tod…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-a5afcf981f6e",
       "title": "Samsung says Galaxy Z Fold 8’s new shape exists because ‘one size does not fit all’",
@@ -1198,46 +1238,6 @@ window.phoneRadarAuto = {
       "tags": [
         "Xiaomi",
         "市场报告",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-30da5faf926d",
-      "title": "2026 年手机市场大盘跌 3% 华为涨 24%，哪些因素导致「冰火两重天」？",
-      "source": "知乎热榜",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "市场报告",
-      "trust": "媒体汇总",
-      "date": "2026-08-03",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.zhihu.com/question/2062848132044607495",
-      "image": "",
-      "summary": "2026 年手机市场大盘跌 3% 华为涨 24%，哪些因素导致「冰火两重天」？",
-      "tags": [
-        "Huawei",
-        "市场报告",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-5025f83a221e",
-      "title": "员工泡水2小时捞手机获表扬无奖励",
-      "source": "百度热搜",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-03",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.baidu.com/s?wd=%E5%91%98%E5%B7%A5%E6%B3%A1%E6%B0%B42%E5%B0%8F%E6%97%B6%E6%8D%9E%E6%89%8B%E6%9C%BA%E8%8E%B7%E8%A1%A8%E6%89%AC%E6%97%A0%E5%A5%96%E5%8A%B1",
-      "image": "",
-      "summary": "员工泡水2小时捞手机获表扬无奖励",
-      "tags": [
-        "行业",
-        "爆料",
         "NewsNow"
       ]
     },
