@@ -1,6 +1,266 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-08-03T11:42:43.433Z",
+  "updatedAt": "2026-08-03T15:14:46.055Z",
   "news": [
+    {
+      "id": "auto-2c79bee5fbca",
+      "title": "荣耀俱乐部负责人透露 Robot Phone 样机稀缺，正式发布后或一机难求",
+      "source": "IT之家",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-03",
+      "time": "15:12",
+      "publishedAt": "2026-08-03T15:12:18.000Z",
+      "url": "https://www.ithome.com/0/985/247.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/8/bb8d8cc2-90a2-41c5-8126-388564b0d57c.png",
+      "summary": "IT之家 8 月 3 日消息，荣耀俱乐部负责人 @烛龙春哥 今日分享了一张聊天记录。其中提到， 荣耀 Robot Phone 的样机稀缺，该机正式发布后可能像初代 Magic 那样一机难求 。 据IT之家此前报道，今年 7 月 28 日， 荣耀官方宣布 Robot Phone 手机全渠道预约量超 20 万台 ，超越品牌历代旗舰产品。 博主 @数码闲聊站 今…",
+      "tags": [
+        "HONOR",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-093aee0b175f",
+      "title": "Matte black Pixel 11 Pro shown off in detailed images [Gallery]",
+      "source": "9to5Google",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-03",
+      "time": "15:01",
+      "publishedAt": "2026-08-03T15:01:03.000Z",
+      "url": "https://9to5google.com/2026/08/03/pixel-11-pro-matte-black/",
+      "image": "",
+      "summary": "With Made by Google 2026 taking place next week, the leaks are only ramping up. Today, we have official-looking renders of the Pixel 11 Pro and 11 Pro XL that show off the matte b…",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-16873c05ce10",
+      "title": "Palworld’s expanding to mobile with a new MMORPG",
+      "source": "The Verge",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-03",
+      "time": "14:58",
+      "publishedAt": "2026-08-03T14:58:10.000Z",
+      "url": "https://www.theverge.com/games/974450/palworld-online-mobile-mmo",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/palworld-online-announcement.png?quality=90&strip=all&crop=0,0,100,100",
+      "summary": "After its 1.0 launch last month, Palworld is coming to iOS and Android with a new open-world MMORPG launching later this year, Polygon reports. Garena, the developer behind the ne…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-f652d44d896e",
+      "title": "It's your last chance to get a FREE Samsung Galaxy Z Fold 8 preorder at T-Mobile — the deal ends this week",
+      "source": "Android Central",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-08-03",
+      "time": "14:54",
+      "publishedAt": "2026-08-03T14:54:59.000Z",
+      "url": "https://www.androidcentral.com/phones/samsung-galaxy/samsung-galaxy-z-fold-8-preorder-deal-t-mobile-last-chance",
+      "image": "https://cdn.mos.cms.futurecdn.net/omzeSKwAjux3i2vhwTQEo3-1280-80.jpg",
+      "summary": "Samsung Galaxy Z Fold 8 preorder deals are live, and T-Mobile is already giving away the foldable phone for free with eligible trade-in and new line.",
+      "tags": [
+        "Samsung",
+        "评测",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-ed29dea7e232",
+      "title": "三星 Galaxy F70 Pro 手机海外发布：骁龙 6 Gen 3 芯片、6000mAh 电池，23,999 卢比起",
+      "source": "IT之家",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-03",
+      "time": "14:51",
+      "publishedAt": "2026-08-03T14:51:12.000Z",
+      "url": "https://www.ithome.com/0/985/242.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/8/ab827968-5deb-41d7-85fe-35d46d59a826.png",
+      "summary": "IT之家 8 月 3 日消息，三星现已在印度推出 Galaxy F70 Pro 手机，新品定位中端，配备 6000mAh 电池，拥有后置三摄，提供 6 年系统更新。 据介绍，这款手机采用挖孔屏设计，配备 6.7 英寸 AMOLED 屏幕，分辨率为 1080P+，支持 120Hz 高刷，采用侧置指纹识别设计。 规格方面， 这款手机搭载骁龙 6 Gen 3 芯…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-dd3ba6be4a4e",
+      "title": "Forget the Pixel 11: The Pixel 10a is now less than half the price in this Amazon deal",
+      "source": "Android Authority",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-03",
+      "time": "14:38",
+      "publishedAt": "2026-08-03T14:38:08.000Z",
+      "url": "https://www.androidauthority.com/google-pixel-10a-amazon-deal-3693908/",
+      "image": "",
+      "summary": "The Pixel 10a drops to $424 on Amazon, with a bright 6.3-inch display, Tensor G4, and 7 years of updates.",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-bded9f4ff338",
+      "title": "OPPO F35 系列手机曝光，预计本月末海外发布",
+      "source": "IT之家",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-03",
+      "time": "13:59",
+      "publishedAt": "2026-08-03T13:59:01.000Z",
+      "url": "https://www.ithome.com/0/985/234.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/8/52d3cacb-dd55-4a52-81d8-86688fb42477.jpg?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 8 月 3 日消息，据科技媒体 GSMArena 今天报道，OPPO 已在研发 F35 系列手机，预计至少有两款机型， 计划本月底或 9 月初在印度上市 。 据报道，OPPO F35 系列手机将取代今年 4 月推出的 F33 和 F33 Pro。如果上述消息属实，GSMArena 认为这种产品更新节奏未免过快。 同时目前还有传闻称，OPPO 计划…",
+      "tags": [
+        "OPPO",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-181885443990",
+      "title": "10 things to set up and change first on your new Galaxy Z Fold 8",
+      "source": "SamMobile",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-03",
+      "time": "13:41",
+      "publishedAt": "2026-08-03T13:41:23.000Z",
+      "url": "https://www.sammobile.com/news/10-things-set-up-first-samsung-galaxy-z-fold-8/",
+      "image": "https://www.sammobile.com/wp-content/uploads/2026/08/Screenshot_20260803_172113_Settings.jpg",
+      "summary": "So, you have just got your Galaxy Z Fold 8 and want to know what you should do first. We are not talking about the usual steps like transferring your data, signing into accounts,…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-c23309826264",
+      "title": "New leaks cover iPhone Ultra timing, iPhone Pro’s design next year",
+      "source": "9to5Mac",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-03",
+      "time": "13:32",
+      "publishedAt": "2026-08-03T13:32:59.000Z",
+      "url": "https://9to5mac.com/2026/08/03/new-leaks-cover-iphone-ultra-timing-iphone-pros-design-next-year/",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/05/iphone-19-pro-20-anniversary-max.jpg?quality=82&strip=all&w=1600",
+      "summary": "Apple has two substantially unique iPhone designs launching in the coming year: iPhone Ultra this fall, and its 20th anniversary Pro models next year. Leaker Fixed Focus Digital h…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-755a7e4e3d49",
+      "title": "A $1,399 starting price for the iPhone 18 Pro doesn’t seem credible, even for Apple",
+      "source": "9to5Mac",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-03",
+      "time": "13:05",
+      "publishedAt": "2026-08-03T13:05:25.000Z",
+      "url": "https://9to5mac.com/2026/08/03/a-1399-starting-price-for-the-iphone-18-pro-doesnt-seem-credible-even-for-apple/",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/iphone-18-pro-concept.jpg?quality=82&strip=all&w=1600",
+      "summary": "We know for sure that Apple will increase iPhone prices when the iPhone 18 Pro launches next month. The company exempted existing iPhones when it increased prices across the board…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-93a2387b56d4",
+      "title": "These luxury Galaxy Z Fold 8 editions have serious dorm poster energy",
+      "source": "Android Authority",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-03",
+      "time": "12:50",
+      "publishedAt": "2026-08-03T12:50:23.000Z",
+      "url": "https://www.androidauthority.com/caviar-galaxy-z-fold-8-movie-edition-3693826/",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2026/08/Caviar-Galaxy-Z-Fold-8-series-Movie-Edition.jpg",
+      "summary": "Caviar's latest Galaxy Z Fold 8 customs trade Messi for movie legends and bold collector appeal.",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-22d646062611",
+      "title": "Find X10 Ultra’s 10x optical zoom camera may use Samsung GNB or OmniVision OV51A",
+      "source": "Gizmochina",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-03",
+      "time": "12:38",
+      "publishedAt": "2026-08-03T12:38:20.000Z",
+      "url": "https://www.gizmochina.com/2026/08/03/oppo-find-x10-ultra-10x-periscope-camera-leak/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/07/Oppo-Find-X9-Ultra-300x200.png?x23692",
+      "summary": "Recent reports have revealed that the Oppo Find X10 Ultra will feature dual periscope telephoto cameras. One of them is expected to offer 10x optical zoom. Now, a new leak from ti…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-2d6144ac07ff",
+      "title": "竹本青：【荣耀俱乐部负责人称Robot Phone样机非常稀缺，发布后或一机难求】 8月3日，荣耀俱乐部负责人“烛龙春哥”…",
+      "source": "竹本青",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-08-03",
+      "time": "11:58",
+      "publishedAt": "2026-08-03T11:58:49.000Z",
+      "url": "https://www.coolapk.com/feed/73067801",
+      "image": "http://image.coolapk.com/feed/2026/0803/19/4248714_d1972cea_8328_1571_127@1440x2588.jpg",
+      "summary": "【荣耀俱乐部负责人称Robot Phone样机非常稀缺，发布后或一机难求】 8月3日，荣耀俱乐部负责人“烛龙春哥”在社交平台放出聊天截图。内容提及Robot Phone样机极度稀缺，已经达到了“手搓”的程度。 “烛龙春哥”还表示，Robot Phone有可能重现当年Magic一代发布后一机难求的市场状况。 #今日热点# #荣耀ROBOTPHONE# #Ma…",
+      "tags": [
+        "HONOR",
+        "爆料",
+        "酷安博主"
+      ]
+    },
     {
       "id": "auto-1553ce82500e",
       "title": "OnePlus 16 Chinese pricing leaked, suggests price hike",
@@ -202,46 +462,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-18b085de253c",
-      "title": "消息称某厂年度旗舰手机搭载 6.9 英寸 1.5K LTPO 直屏，预计是华为 Mate 90 Pro Max / RS",
-      "source": "IT之家",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-03",
-      "time": "08:50",
-      "publishedAt": "2026-08-03T08:50:16.000Z",
-      "url": "https://www.ithome.com/0/985/112.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/8/0dd48e7d-4a28-4546-9360-d3218dc5d6c5.png?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 8 月 3 日消息，博主 @数码闲聊站 今日曝光了某厂年度旗舰手机的屏幕参数： 年度旗舰的屏幕还是 6.9 英寸 1.5K LTPO 直屏， Tandem 双层 OLED 技术 + BT.2020 色域 ，前摄人脸开孔形态不变，大 R 角宽屏，工程机是 BOE 参考博主过往爆料习惯和评论区讨论来看，此次爆料的新机预计是华为 Mate 90 Pro…",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-5fe598b39f79",
-      "title": "消息称三星 Galaxy S27 系列手机全系后置三摄，Ultra 机型少了 3 倍长焦镜头",
-      "source": "IT之家",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-03",
-      "time": "08:04",
-      "publishedAt": "2026-08-03T08:04:50.000Z",
-      "url": "https://www.ithome.com/0/985/080.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/8/5508ba9a-1d69-46a3-b093-d738f16b8cee.jpg?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 8 月 3 日消息，据韩媒 EtNews 昨天报道，三星电子明年推出的 Galaxy S27 系列手机将全系配备三颗后置摄像头。作为对比，此前的 Galaxy S26 Ultra 拥有四颗后置镜头。 据业内人士透露， 三星电子已向摄像头供应链合作伙伴传达 Galaxy S27 系列镜头方案 。此次调整的核心在于，Ultra 机型后置镜头数量从 4…",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "weibo-340f587fd0c3",
       "title": "数码闲聊站：咳咳，年度旗舰的屏幕还是6.9英寸1.5K LTPO直屏，Tandem双层OL…",
       "source": "数码闲聊站",
@@ -259,26 +479,6 @@ window.phoneRadarAuto = {
         "行业",
         "爆料",
         "微博"
-      ]
-    },
-    {
-      "id": "auto-5133d250284c",
-      "title": "联发科 CEO 蔡力行：正采取必要价格调整措施，适当反映供应链成本上升",
-      "source": "IT之家",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-03",
-      "time": "07:43",
-      "publishedAt": "2026-08-03T07:43:09.000Z",
-      "url": "https://www.ithome.com/0/985/059.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/8/26a2769c-6b9f-4aba-9460-608aa435e194.png?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 8 月 3 日消息，联发科技 (Mediatek) 首席执行官蔡力行在上月末的公司 2026Q2 财报会议上表示：“随着供应链成本全面上涨已成为产业普遍现象， 我们正采取必要的价格调整措施 ，以确保这些成本增加能适当反映在产品定价上。” 联发科技 手机业务营收在今年二季度出现 14% 环比下降和 20% 同比下降 ，主要原因是智能手机物料成本上升…",
-      "tags": [
-        "行业",
-        "爆料",
-        "自动抓取"
       ]
     },
     {
@@ -757,6 +957,66 @@ window.phoneRadarAuto = {
       "summary": "现在华为网上舆论环境太恐怖了吧，视频内容是老人手机一直弹窗广告，手机一眼小米红米，然后弹幕基本都是嘲讽华为的[惊讶] #REDMIK100ProMax# #小米17ProMax# #华为鸿蒙#",
       "tags": [
         "Huawei",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-30da5faf926d",
+      "title": "2026 年手机市场大盘跌 3% 华为涨 24%，哪些因素导致「冰火两重天」？",
+      "source": "知乎热榜",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "市场报告",
+      "trust": "媒体汇总",
+      "date": "2026-08-03",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.zhihu.com/question/2062848132044607495",
+      "image": "",
+      "summary": "2026 年手机市场大盘跌 3% 华为涨 24%，哪些因素导致「冰火两重天」？",
+      "tags": [
+        "Huawei",
+        "市场报告",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-9f2130acdf25",
+      "title": "小米多款手机涨价，有旗舰机型上涨 500 元，店员称昨晚接到调价通知，购机该趁早入手还是继续观望？",
+      "source": "知乎热榜",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "市场报告",
+      "trust": "媒体汇总",
+      "date": "2026-08-03",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.zhihu.com/question/2067266099025011702",
+      "image": "",
+      "summary": "小米多款手机涨价，有旗舰机型上涨 500 元，店员称昨晚接到调价通知，购机该趁早入手还是继续观望？",
+      "tags": [
+        "Xiaomi",
+        "市场报告",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-5025f83a221e",
+      "title": "员工泡水2小时捞手机获表扬无奖励",
+      "source": "百度热搜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-03",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.baidu.com/s?wd=%E5%91%98%E5%B7%A5%E6%B3%A1%E6%B0%B42%E5%B0%8F%E6%97%B6%E6%8D%9E%E6%89%8B%E6%9C%BA%E8%8E%B7%E8%A1%A8%E6%89%AC%E6%97%A0%E5%A5%96%E5%8A%B1",
+      "image": "",
+      "summary": "员工泡水2小时捞手机获表扬无奖励",
+      "tags": [
+        "行业",
         "爆料",
         "NewsNow"
       ]

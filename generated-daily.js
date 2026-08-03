@@ -1,12 +1,12 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-08-03T11:42:43.433Z",
+  "updatedAt": "2026-08-03T15:14:46.055Z",
   "issueDate": "2026-08-03",
   "issue": "VOL.260803",
   "title": "手机情报日报",
-  "intro": "今日筛出 12 条重点，其中 8 条是重点爆料，包含 2 条 iPhone 相关、1 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 9 条重点，其中 8 条是重点爆料，包含 3 条 iPhone 相关、1 条官方确认、0 条参数线索。",
   "stats": {
-    "total": 12,
-    "iphone": 2,
+    "total": 9,
+    "iphone": 3,
     "leaks": 8,
     "official": 1,
     "specs": 0
@@ -17,6 +17,30 @@ window.phoneRadarDaily = {
       "title": "重点爆料",
       "hint": "机模、配色、影像、屏幕、电池和芯片线索先看。",
       "items": [
+        {
+          "id": "auto-c23309826264",
+          "title": "iPhone 外观设计线索曝光",
+          "originalTitle": "",
+          "source": "9to5Mac",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-08-03",
+          "time": "13:32",
+          "publishedAt": "2026-08-03T13:32:59.000Z",
+          "url": "https://9to5mac.com/2026/08/03/new-leaks-cover-iphone-ultra-timing-iphone-pros-design-next-year/",
+          "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/05/iphone-19-pro-20-anniversary-max.jpg?quality=82&strip=all&w=1600",
+          "verdict": "先看",
+          "takeaway": "iPhone 外观设计线索曝光。重点看外观、颜色、尺寸是否和上一代有明显变化。",
+          "detail": "iPhone 外观设计线索曝光。这类内容主要看外观设计、按键布局、相机模组和尺寸变化，后续最好等更多渲染图或保护壳线索互相验证。",
+          "keyPoints": [
+            "外观 / 配色 / 尺寸",
+            "爆料来源"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
         {
           "id": "auto-5b63ed9e8b8f",
           "title": "iPhone 相关消息",
@@ -42,6 +66,54 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
+          "id": "auto-ed29dea7e232",
+          "title": "三星 Galaxy F70 Pro 手机海外发布：骁龙 6 Gen 3 芯片、6000mAh 电池，23,999 卢比起",
+          "originalTitle": "",
+          "source": "IT之家",
+          "brand": "Samsung",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-08-03",
+          "time": "14:51",
+          "publishedAt": "2026-08-03T14:51:12.000Z",
+          "url": "https://www.ithome.com/0/985/242.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/8/ab827968-5deb-41d7-85fe-35d46d59a826.png",
+          "verdict": "先看",
+          "takeaway": "IT之家 8 月 3 日消息，三星现已在印度推出 Galaxy F70 Pro 手机，新品定位中端，配备 6000mAh 电池，拥有后置三摄，提供 6 年系统更新。 据介绍，这款手机采用挖孔屏设计，配备 6.7 英寸 AMOLED 屏幕，分辨率为 1080P+，支持 120Hz 高刷，采用侧置指纹识别设计。 规格方面， 这款手机搭载骁龙 6 Gen 3 芯…",
+          "detail": "IT之家 8 月 3 日消息，三星现已在印度推出 Galaxy F70 Pro 手机，新品定位中端，配备 6000mAh 电池，拥有后置三摄，提供 6 年系统更新。 据介绍，这款手机采用挖孔屏设计，配备 6.7 英寸 AMOLED 屏幕，分辨率为 1080P+，支持 120Hz 高刷，采用侧置指纹识别设计。 规格方面， 这款手机搭载骁龙 6 Gen 3 芯…",
+          "keyPoints": [
+            "屏幕形态",
+            "电池 / 充电",
+            "芯片 / 性能"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "auto-bded9f4ff338",
+          "title": "OPPO F35 系列手机曝光，预计本月末海外发布",
+          "originalTitle": "",
+          "source": "IT之家",
+          "brand": "OPPO",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-08-03",
+          "time": "13:59",
+          "publishedAt": "2026-08-03T13:59:01.000Z",
+          "url": "https://www.ithome.com/0/985/234.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/8/52d3cacb-dd55-4a52-81d8-86688fb42477.jpg?x-bce-process=image/format,f_auto",
+          "verdict": "先看",
+          "takeaway": "IT之家 8 月 3 日消息，据科技媒体 GSMArena 今天报道，OPPO 已在研发 F35 系列手机，预计至少有两款机型， 计划本月底或 9 月初在印度上市 。 据报道，OPPO F35 系列手机将取代今年 4 月推出的 F33 和 F33 Pro。如果上述消息属实，GSMArena 认为这种产品更新节奏未免过快。 同时目前还有传闻称，OPPO 计划…",
+          "detail": "IT之家 8 月 3 日消息，据科技媒体 GSMArena 今天报道，OPPO 已在研发 F35 系列手机，预计至少有两款机型， 计划本月底或 9 月初在印度上市 。 据报道，OPPO F35 系列手机将取代今年 4 月推出的 F33 和 F33 Pro。如果上述消息属实，GSMArena 认为这种产品更新节奏未免过快。 同时目前还有传闻称，OPPO 计划…",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
           "id": "auto-198882eba022",
           "title": "消息称三星中国开始收缩手机布局：30 万元月销售额不达标门店，将被逐步清退",
           "originalTitle": "",
@@ -58,54 +130,6 @@ window.phoneRadarDaily = {
           "takeaway": "IT之家 8 月 3 日消息，据新浪科技消息，三星手机开始收缩中国市场布局。知情人士表示， 月销售额不到 30 万元的门店，将被逐步清退 。 报道称，据不完全统计，三星手机近期关闭的门店涉及深圳、福州、郑州、西安、昆明、合肥多地。一位三星手机门店店员透露， 内部设定了每月 30 万元的销售额门槛 ，持续未达标的门店和店员将被清退。 IDC 数据显示，202…",
           "detail": "IT之家 8 月 3 日消息，据新浪科技消息，三星手机开始收缩中国市场布局。知情人士表示， 月销售额不到 30 万元的门店，将被逐步清退 。 报道称，据不完全统计，三星手机近期关闭的门店涉及深圳、福州、郑州、西安、昆明、合肥多地。一位三星手机门店店员透露， 内部设定了每月 30 万元的销售额门槛 ，持续未达标的门店和店员将被清退。 IDC 数据显示，202…",
           "keyPoints": [
-            "爆料来源"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "auto-18b085de253c",
-          "title": "消息称某厂年度旗舰手机搭载 6.9 英寸 1.5K LTPO 直屏，预计是华为 Mate 90 Pro Max / RS",
-          "originalTitle": "",
-          "source": "IT之家",
-          "brand": "Huawei",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-08-03",
-          "time": "08:50",
-          "publishedAt": "2026-08-03T08:50:16.000Z",
-          "url": "https://www.ithome.com/0/985/112.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/8/0dd48e7d-4a28-4546-9360-d3218dc5d6c5.png?x-bce-process=image/format,f_auto",
-          "verdict": "先看",
-          "takeaway": "IT之家 8 月 3 日消息，博主 @数码闲聊站 今日曝光了某厂年度旗舰手机的屏幕参数： 年度旗舰的屏幕还是 6.9 英寸 1.5K LTPO 直屏， Tandem 双层 OLED 技术 + BT.2020 色域 ，前摄人脸开孔形态不变，大 R 角宽屏，工程机是 BOE 参考博主过往爆料习惯和评论区讨论来看，此次爆料的新机预计是华为 Mate 90 Pro…",
-          "detail": "IT之家 8 月 3 日消息，博主 @数码闲聊站 今日曝光了某厂年度旗舰手机的屏幕参数： 年度旗舰的屏幕还是 6.9 英寸 1.5K LTPO 直屏， Tandem 双层 OLED 技术 + BT.2020 色域 ，前摄人脸开孔形态不变，大 R 角宽屏，工程机是 BOE 参考博主过往爆料习惯和评论区讨论来看，此次爆料的新机预计是华为 Mate 90 Pro…",
-          "keyPoints": [
-            "屏幕形态",
-            "爆料来源"
-          ],
-          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "auto-5fe598b39f79",
-          "title": "消息称三星 Galaxy S27 系列手机全系后置三摄，Ultra 机型少了 3 倍长焦镜头",
-          "originalTitle": "",
-          "source": "IT之家",
-          "brand": "Samsung",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-08-03",
-          "time": "08:04",
-          "publishedAt": "2026-08-03T08:04:50.000Z",
-          "url": "https://www.ithome.com/0/985/080.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/8/5508ba9a-1d69-46a3-b093-d738f16b8cee.jpg?x-bce-process=image/format,f_auto",
-          "verdict": "先看",
-          "takeaway": "IT之家 8 月 3 日消息，据韩媒 EtNews 昨天报道，三星电子明年推出的 Galaxy S27 系列手机将全系配备三颗后置摄像头。作为对比，此前的 Galaxy S26 Ultra 拥有四颗后置镜头。 据业内人士透露， 三星电子已向摄像头供应链合作伙伴传达 Galaxy S27 系列镜头方案 。此次调整的核心在于，Ultra 机型后置镜头数量从 4…",
-          "detail": "IT之家 8 月 3 日消息，据韩媒 EtNews 昨天报道，三星电子明年推出的 Galaxy S27 系列手机将全系配备三颗后置摄像头。作为对比，此前的 Galaxy S26 Ultra 拥有四颗后置镜头。 据业内人士透露， 三星电子已向摄像头供应链合作伙伴传达 Galaxy S27 系列镜头方案 。此次调整的核心在于，Ultra 机型后置镜头数量从 4…",
-          "keyPoints": [
-            "影像硬件",
             "爆料来源"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
@@ -182,30 +206,6 @@ window.phoneRadarDaily = {
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "auto-21732c1531e3",
-          "title": "vivo 机模 / 配色信息曝光",
-          "originalTitle": "",
-          "source": "Gizmochina",
-          "brand": "vivo",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-08-03",
-          "time": "10:35",
-          "publishedAt": "2026-08-03T10:35:26.000Z",
-          "url": "https://www.gizmochina.com/2026/08/03/iqoo-z11-india-variant-design-colours-specifications-revealed/",
-          "image": "https://www.gizmochina.com/wp-content/uploads/2026/08/iQOO-Z11-design-1-1-300x124.jpg?x23692",
-          "verdict": "先看",
-          "takeaway": "vivo 机模 / 配色信息曝光。重点看外观、颜色、尺寸是否和上一代有明显变化。",
-          "detail": "vivo 机模 / 配色信息曝光。来源提到未发布机型的机模/配色图，适合先判断外观方向、颜色变化和机身轮廓，但最终量产版本仍可能调整。",
-          "keyPoints": [
-            "外观 / 配色 / 尺寸",
-            "影像硬件"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         }
       ]
     },
@@ -235,82 +235,6 @@ window.phoneRadarDaily = {
           ],
           "confidence": "官方内容，可直接作为已确认信息记录。",
           "impact": "可信度高，但如果不是配置/价格消息，只需要扫一眼。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        }
-      ]
-    },
-    {
-      "id": "market",
-      "title": "行业趋势",
-      "hint": "看方向，不急着当购买依据。",
-      "items": [
-        {
-          "id": "newsnow-2d453dbece1f",
-          "title": "小米手机开启新一轮涨价，覆盖小米17系列、REDMI Turbo5系列、K90系列",
-          "originalTitle": "",
-          "source": "酷安热榜",
-          "brand": "Xiaomi",
-          "type": "爆料",
-          "trust": "高关注爆料源",
-          "date": "2026-08-03",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://www.coolapk.com/feed/73043040",
-          "image": "",
-          "verdict": "先看",
-          "takeaway": "小米手机开启新一轮涨价，覆盖小米17系列、REDMI Turbo5系列、K90系列",
-          "detail": "小米手机开启新一轮涨价，覆盖小米17系列、REDMI Turbo5系列、K90系列",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "影响购买预算，值得先看。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
-        {
-          "id": "newsnow-e316f38dd046",
-          "title": "现在华为网上舆论环境太恐怖了吧，视频内容是老人手机一直弹窗广告，手机一眼小米红米，然后弹幕基本都是嘲讽华为的[惊讶] #REDMIK100ProMax# #小米17ProMax# #华为鸿蒙#",
-          "originalTitle": "",
-          "source": "酷安热榜",
-          "brand": "Huawei",
-          "type": "爆料",
-          "trust": "高关注爆料源",
-          "date": "2026-08-03",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://www.coolapk.com/feed/73059834",
-          "image": "",
-          "verdict": "先看",
-          "takeaway": "现在华为网上舆论环境太恐怖了吧，视频内容是老人手机一直弹窗广告，手机一眼小米红米，然后弹幕基本都是嘲讽华为的[惊讶] #REDMIK100ProMax# #小米17ProMax# #华为鸿蒙#",
-          "detail": "现在华为网上舆论环境太恐怖了吧，视频内容是老人手机一直弹窗广告，手机一眼小米红米，然后弹幕基本都是嘲讽华为的[惊讶] #REDMIK100ProMax# #小米17ProMax# #华为鸿蒙#",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
-        {
-          "id": "newsnow-b92fbede484c",
-          "title": "完犊子，k90pm 16+512 5299了估计k100pm 16+512 得5599了#数码日常# #RedmiK90ProMax# #红米k100#",
-          "originalTitle": "",
-          "source": "酷安热榜",
-          "brand": "Xiaomi",
-          "type": "爆料",
-          "trust": "高关注爆料源",
-          "date": "2026-08-03",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://www.coolapk.com/feed/73042976",
-          "image": "",
-          "verdict": "扫一眼",
-          "takeaway": "完犊子，k90pm 16+512 5299了估计k100pm 16+512 得5599了#数码日常# #RedmiK90ProMax# #红米k100#",
-          "detail": "完犊子，k90pm 16+512 5299了估计k100pm 16+512 得5599了#数码日常# #RedmiK90ProMax# #红米k100#",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         }
       ]
