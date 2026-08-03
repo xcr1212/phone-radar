@@ -1,6 +1,226 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-08-03T15:14:46.055Z",
+  "updatedAt": "2026-08-03T18:03:30.704Z",
   "news": [
+    {
+      "id": "auto-6632a4d8ef63",
+      "title": "Galaxy S27 Ultra reportedly ditches a telephoto camera for the sake of cost-cutting",
+      "source": "9to5Google",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-03",
+      "time": "16:55",
+      "publishedAt": "2026-08-03T16:55:00.000Z",
+      "url": "https://9to5google.com/2026/08/03/samsung-galaxy-s27-ultra-telephoto-camera-report/",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/03/galaxy-s26-ultra-review-2.jpg?quality=82&strip=all&w=1600",
+      "summary": "According to a new report, Samsung’s next-gen flagship, the Galaxy S27 Ultra, will be missing one of its telephoto camera sensors.",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-dd1da35d5ea6",
+      "title": "Galaxy S27 Ultra may get a slimmer camera thanks to this hidden upgrade",
+      "source": "Android Authority",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-03",
+      "time": "16:35",
+      "publishedAt": "2026-08-03T16:35:34.000Z",
+      "url": "https://www.androidauthority.com/galaxy-s27-thinner-camera-3693968/",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2026/05/Samsung-Galaxy-S26-Ultra-camera-closeup-scaled.jpg",
+      "summary": "Samsung's clever manufacturing trick may bring thinner modules and cleaner shots to the Galaxy S27 Ultra.",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-d2714e41b6f4",
+      "title": "Google teases Pixel 11 Pro Fold, early pre-order time on August 12",
+      "source": "9to5Google",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-03",
+      "time": "16:23",
+      "publishedAt": "2026-08-03T16:23:47.000Z",
+      "url": "https://9to5google.com/2026/08/03/pixel-11-pre-order-fold-tease/",
+      "image": "",
+      "summary": "Following the Pixel 11 Pro last week , Google is now officially teasing the Pixel 11 Pro Fold.",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-9c0c457ddea0",
+      "title": "竹本青：喜欢图1华为阔折叠背板的条线分切，也喜欢图2三星的左上矩阵",
+      "source": "竹本青",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-08-03",
+      "time": "16:18",
+      "publishedAt": "2026-08-03T16:18:55.000Z",
+      "url": "https://www.coolapk.com/feed/73071443",
+      "image": "",
+      "summary": "喜欢图1华为阔折叠背板的条线分切，也喜欢图2三星的左上矩阵",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "coolapk-user-39f2d10f2535",
+      "title": "竹本青：#小米米家显示器挂灯2# 在关注这个灯，但是供电改变确实挺不舒服的，1S是自己插C口线，二代变成了固定式自带线",
+      "source": "竹本青",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-08-03",
+      "time": "16:09",
+      "publishedAt": "2026-08-03T16:09:59.000Z",
+      "url": "https://www.coolapk.com/feed/73071289",
+      "image": "http://image.coolapk.com/feed/2026/0804/00/4248714_2ed1ec6a_3398_6171_561@1271x1759.jpg",
+      "summary": "#小米米家显示器挂灯2# 在关注这个灯，但是供电改变确实挺不舒服的，1S是自己插C口线，二代变成了固定式自带线",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-d17de394e298",
+      "title": "India Moves to Extend Tax Break Apple Lobbied For",
+      "source": "MacRumors",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-03",
+      "time": "15:59",
+      "publishedAt": "2026-08-03T15:59:57.000Z",
+      "url": "https://www.macrumors.com/2026/08/03/india-moves-to-extend-apple-tax-break/",
+      "image": "https://images.macrumors.com/article-new/2020/08/apple-india.jpg",
+      "summary": "India has proposed extending tax breaks until 2041 for foreign companies that supply machinery to their contract manufacturers, handing a win to Apple as it expands iPhone product…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-d089ee998a62",
+      "title": "'The best Android phone for students': why I decided to buy the Google Pixel 10a ahead of the Pixel 11 launch",
+      "source": "Android Central",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-08-03",
+      "time": "15:59",
+      "publishedAt": "2026-08-03T15:59:12.000Z",
+      "url": "https://www.androidcentral.com/phones/google-pixel/the-best-android-phone-for-students-why-i-decided-to-buy-the-google-pixel-10a-ahead-of-the-pixel-11-launch",
+      "image": "https://cdn.mos.cms.futurecdn.net/RyNZrNDuNSJivX2QpWrdUS-1280-80.jpg",
+      "summary": "Amazon is slashing 15% off the Google Pixel 10a, dropping the already-affordable smartphone down to just $424 for a limited time.",
+      "tags": [
+        "Pixel",
+        "评测",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-e05fa0672f32",
+      "title": "Google Health 5.05 rolling out: Apple Health sync & bug fixes",
+      "source": "9to5Google",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-03",
+      "time": "15:56",
+      "publishedAt": "2026-08-03T15:56:19.000Z",
+      "url": "https://9to5google.com/2026/08/03/google-health-5-05-release-notes/",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/05/Google-Health-cover.png?w=1600",
+      "summary": "Google Health 5.05 is rolling out today with a pair of sharing-related updates, including Apple Health integration for those on iOS.",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-59580f3c7b3d",
+      "title": "Apple will launch five new products next month, here’s what’s coming",
+      "source": "9to5Mac",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-03",
+      "time": "15:46",
+      "publishedAt": "2026-08-03T15:46:12.000Z",
+      "url": "https://9to5mac.com/2026/08/03/apple-will-launch-five-new-products-next-month-heres-whats-coming/",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/iphone-18-pro-mockup-fi-new-color.jpg?quality=82&strip=all&w=1600",
+      "summary": "We’re only one month away from Apple’s biggest product launch event of the year: the September iPhone event. Here’s what rumors say is coming.",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-37db12ff074c",
+      "title": "Galaxy Z Fold 8 is a smash hit; shipping dates slip, 3x higher pre-orders than Fold 7",
+      "source": "9to5Google",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-03",
+      "time": "15:35",
+      "publishedAt": "2026-08-03T15:35:00.000Z",
+      "url": "https://9to5google.com/2026/08/03/samsung-galaxy-z-fold-8-pre-order-delays-demand/",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/07/galaxy-z-fold-8-review-25.jpg?quality=82&strip=all&w=1600",
+      "summary": "Samsung’s new Galaxy Z Fold 8 series has turned out to be an absolute smash hit for the company, with the new foldables now delayed across the board in shipping amid demand that’s…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-da11b79e3dc0",
+      "title": "New Pixel 11 Pro leak highlights camera upgrades and more",
+      "source": "Android Authority",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-03",
+      "time": "15:20",
+      "publishedAt": "2026-08-03T15:20:01.000Z",
+      "url": "https://www.androidauthority.com/pixel-11-pro-leak-3693900/",
+      "image": "",
+      "summary": "Pixel 11 Pro gets laid bare in latest big imagery leak.",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-2c79bee5fbca",
       "title": "荣耀俱乐部负责人透露 Robot Phone 样机稀缺，正式发布后或一机难求",
@@ -822,26 +1042,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-86c61751e67b",
-      "title": "我的出行好伙伴，用 iPhone 一站式解决旅途痛点",
-      "source": "少数派热榜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "评测",
-      "trust": "媒体汇总",
-      "date": "2026-08-03",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://sspai.com/post/112044",
-      "image": "",
-      "summary": "我的出行好伙伴，用 iPhone 一站式解决旅途痛点",
-      "tags": [
-        "iPhone",
-        "评测",
-        "NewsNow"
-      ]
-    },
-    {
       "id": "newsnow-e3a3a0843893",
       "title": "REDMI K100 Pro 系列抢在小米18 Pro之前率先用上全新屏幕！新一代超级像素屏幕，首发M11发光材料，发光效率直接提升20%，局部峰值亮度达到4500nits。拥有185Hz高刷新率，4800Hz瞬时触控采样率，全RGB无损排列，直接做到实打实2K钻排清晰度，不再只是媲美2K。8月11日19点新品发布",
       "source": "酷安热榜",
@@ -937,26 +1137,6 @@ window.phoneRadarAuto = {
       "summary": "小米手机开启新一轮涨价，覆盖小米17系列、REDMI Turbo5系列、K90系列",
       "tags": [
         "Xiaomi",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-e316f38dd046",
-      "title": "现在华为网上舆论环境太恐怖了吧，视频内容是老人手机一直弹窗广告，手机一眼小米红米，然后弹幕基本都是嘲讽华为的[惊讶] #REDMIK100ProMax# #小米17ProMax# #华为鸿蒙#",
-      "source": "酷安热榜",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-08-03",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73059834",
-      "image": "",
-      "summary": "现在华为网上舆论环境太恐怖了吧，视频内容是老人手机一直弹窗广告，手机一眼小米红米，然后弹幕基本都是嘲讽华为的[惊讶] #REDMIK100ProMax# #小米17ProMax# #华为鸿蒙#",
-      "tags": [
-        "Huawei",
         "爆料",
         "NewsNow"
       ]
