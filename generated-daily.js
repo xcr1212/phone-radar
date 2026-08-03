@@ -1,12 +1,12 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-08-03T07:45:13.166Z",
+  "updatedAt": "2026-08-03T11:42:43.433Z",
   "issueDate": "2026-08-03",
   "issue": "VOL.260803",
   "title": "手机情报日报",
-  "intro": "今日筛出 17 条重点，其中 8 条是重点爆料，包含 4 条 iPhone 相关、1 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 12 条重点，其中 8 条是重点爆料，包含 2 条 iPhone 相关、1 条官方确认、0 条参数线索。",
   "stats": {
-    "total": 17,
-    "iphone": 4,
+    "total": 12,
+    "iphone": 2,
     "leaks": 8,
     "official": 1,
     "specs": 0
@@ -42,6 +42,77 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
+          "id": "auto-198882eba022",
+          "title": "消息称三星中国开始收缩手机布局：30 万元月销售额不达标门店，将被逐步清退",
+          "originalTitle": "",
+          "source": "IT之家",
+          "brand": "Samsung",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-08-03",
+          "time": "09:59",
+          "publishedAt": "2026-08-03T09:59:26.000Z",
+          "url": "https://www.ithome.com/0/985/181.htm",
+          "image": "",
+          "verdict": "先看",
+          "takeaway": "IT之家 8 月 3 日消息，据新浪科技消息，三星手机开始收缩中国市场布局。知情人士表示， 月销售额不到 30 万元的门店，将被逐步清退 。 报道称，据不完全统计，三星手机近期关闭的门店涉及深圳、福州、郑州、西安、昆明、合肥多地。一位三星手机门店店员透露， 内部设定了每月 30 万元的销售额门槛 ，持续未达标的门店和店员将被清退。 IDC 数据显示，202…",
+          "detail": "IT之家 8 月 3 日消息，据新浪科技消息，三星手机开始收缩中国市场布局。知情人士表示， 月销售额不到 30 万元的门店，将被逐步清退 。 报道称，据不完全统计，三星手机近期关闭的门店涉及深圳、福州、郑州、西安、昆明、合肥多地。一位三星手机门店店员透露， 内部设定了每月 30 万元的销售额门槛 ，持续未达标的门店和店员将被清退。 IDC 数据显示，202…",
+          "keyPoints": [
+            "爆料来源"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "auto-18b085de253c",
+          "title": "消息称某厂年度旗舰手机搭载 6.9 英寸 1.5K LTPO 直屏，预计是华为 Mate 90 Pro Max / RS",
+          "originalTitle": "",
+          "source": "IT之家",
+          "brand": "Huawei",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-08-03",
+          "time": "08:50",
+          "publishedAt": "2026-08-03T08:50:16.000Z",
+          "url": "https://www.ithome.com/0/985/112.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/8/0dd48e7d-4a28-4546-9360-d3218dc5d6c5.png?x-bce-process=image/format,f_auto",
+          "verdict": "先看",
+          "takeaway": "IT之家 8 月 3 日消息，博主 @数码闲聊站 今日曝光了某厂年度旗舰手机的屏幕参数： 年度旗舰的屏幕还是 6.9 英寸 1.5K LTPO 直屏， Tandem 双层 OLED 技术 + BT.2020 色域 ，前摄人脸开孔形态不变，大 R 角宽屏，工程机是 BOE 参考博主过往爆料习惯和评论区讨论来看，此次爆料的新机预计是华为 Mate 90 Pro…",
+          "detail": "IT之家 8 月 3 日消息，博主 @数码闲聊站 今日曝光了某厂年度旗舰手机的屏幕参数： 年度旗舰的屏幕还是 6.9 英寸 1.5K LTPO 直屏， Tandem 双层 OLED 技术 + BT.2020 色域 ，前摄人脸开孔形态不变，大 R 角宽屏，工程机是 BOE 参考博主过往爆料习惯和评论区讨论来看，此次爆料的新机预计是华为 Mate 90 Pro…",
+          "keyPoints": [
+            "屏幕形态",
+            "爆料来源"
+          ],
+          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "auto-5fe598b39f79",
+          "title": "消息称三星 Galaxy S27 系列手机全系后置三摄，Ultra 机型少了 3 倍长焦镜头",
+          "originalTitle": "",
+          "source": "IT之家",
+          "brand": "Samsung",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-08-03",
+          "time": "08:04",
+          "publishedAt": "2026-08-03T08:04:50.000Z",
+          "url": "https://www.ithome.com/0/985/080.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/8/5508ba9a-1d69-46a3-b093-d738f16b8cee.jpg?x-bce-process=image/format,f_auto",
+          "verdict": "先看",
+          "takeaway": "IT之家 8 月 3 日消息，据韩媒 EtNews 昨天报道，三星电子明年推出的 Galaxy S27 系列手机将全系配备三颗后置摄像头。作为对比，此前的 Galaxy S26 Ultra 拥有四颗后置镜头。 据业内人士透露， 三星电子已向摄像头供应链合作伙伴传达 Galaxy S27 系列镜头方案 。此次调整的核心在于，Ultra 机型后置镜头数量从 4…",
+          "detail": "IT之家 8 月 3 日消息，据韩媒 EtNews 昨天报道，三星电子明年推出的 Galaxy S27 系列手机将全系配备三颗后置摄像头。作为对比，此前的 Galaxy S26 Ultra 拥有四颗后置镜头。 据业内人士透露， 三星电子已向摄像头供应链合作伙伴传达 Galaxy S27 系列镜头方案 。此次调整的核心在于，Ultra 机型后置镜头数量从 4…",
+          "keyPoints": [
+            "影像硬件",
+            "爆料来源"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
           "id": "weibo-eaf286c7cdaa",
           "title": "数码闲聊站：iQOO Neo 新机摸到了，基于天玑9500深度定制，调优了联发科最新旗舰芯…",
           "originalTitle": "",
@@ -63,29 +134,6 @@ window.phoneRadarDaily = {
             "爆料来源"
           ],
           "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "newsnow-8570882f3cc3",
-          "title": "REDMI K100 Pro Max 将搭载9070mAh电池",
-          "originalTitle": "",
-          "source": "酷安热榜",
-          "brand": "Xiaomi",
-          "type": "爆料",
-          "trust": "高关注爆料源",
-          "date": "2026-08-03",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://www.coolapk.com/feed/73047427",
-          "image": "",
-          "verdict": "先看",
-          "takeaway": "REDMI K100 Pro Max 将搭载9070mAh电池",
-          "detail": "REDMI K100 Pro Max 将搭载9070mAh电池",
-          "keyPoints": [
-            "电池 / 充电"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
@@ -113,95 +161,49 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
-          "id": "coolapk-user-27db42fbaed8",
-          "title": "竹本青：REDMI K100 Pro系列升级「小米青山护眼4.0」",
+          "id": "newsnow-8570882f3cc3",
+          "title": "REDMI K100 Pro Max 将搭载9070mAh电池",
           "originalTitle": "",
-          "source": "竹本青",
+          "source": "酷安热榜",
           "brand": "Xiaomi",
-          "type": "爆料",
-          "trust": "高可信爆料",
-          "date": "2026-08-03",
-          "time": "03:03",
-          "publishedAt": "2026-08-03T03:03:40.000Z",
-          "url": "https://www.coolapk.com/feed/73060877",
-          "image": "http://image.coolapk.com/feed/2026/0803/11/4248714_42cfc01c_6219_0186_712@2000x2667.jpg",
-          "verdict": "先看",
-          "takeaway": "【REDMI K100 Pro系列 屏幕预热：升级「小米青山护眼4.0」，新增防晕车模式】 ● 新增防晕车模式，缓解生理疲劳 ● 圆偏光2.0｜1nit暗光护眼 ● 全亮度DC调光+硬件级低蓝光 #今日热点# #REDMIK100ProMax# #HyperOS3#",
-          "detail": "【REDMI K100 Pro系列 屏幕预热：升级「小米青山护眼4.0」，新增防晕车模式】 ● 新增防晕车模式，缓解生理疲劳 ● 圆偏光2.0｜1nit暗光护眼 ● 全亮度DC调光+硬件级低蓝光 #今日热点# #REDMIK100ProMax# #HyperOS3#",
-          "keyPoints": [
-            "屏幕形态"
-          ],
-          "confidence": "可信度较高，但仍属于发布前线索。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "coolapk-user-c19fdac3a79a",
-          "title": "JSCHEN小小狐：OPPO A7 Pro Max 影像预热：前后 5000 万像素",
-          "originalTitle": "",
-          "source": "JSCHEN小小狐",
-          "brand": "OPPO",
-          "type": "爆料",
-          "trust": "高可信爆料",
-          "date": "2026-08-02",
-          "time": "03:28",
-          "publishedAt": "2026-08-02T03:28:46.000Z",
-          "url": "https://www.coolapk.com/feed/73047037",
-          "image": "http://image.coolapk.com/feed/2026/0802/11/4702274_2217249b_1324_579_105@1500x2792.jpg",
-          "verdict": "先看",
-          "takeaway": "『OPPO A7 Pro Max 影像预热：前后 5000 万』 ◇ 后置 5000 万 OIS 主摄 + 200 万黑白 ◇ 前置 5000 万 100° 超广角 ◇ 爆闪智能闪光灯 #今日热点# #OPPOA7ProMax# #OPPOA6#",
-          "detail": "『OPPO A7 Pro Max 影像预热：前后 5000 万』 ◇ 后置 5000 万 OIS 主摄 + 200 万黑白 ◇ 前置 5000 万 100° 超广角 ◇ 爆闪智能闪光灯 #今日热点# #OPPOA7ProMax# #OPPOA6#",
-          "keyPoints": [
-            "影像硬件"
-          ],
-          "confidence": "可信度较高，但仍属于发布前线索。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "weibo-393ee0a274ae",
-          "title": "数码闲聊站：独家，U新10X Sensor有两个方案，硬件都是50Mp 1/1.95\"，一…",
-          "originalTitle": "",
-          "source": "数码闲聊站",
-          "brand": "Samsung",
           "type": "爆料",
           "trust": "高关注爆料源",
           "date": "2026-08-03",
-          "time": "06:22",
-          "publishedAt": "2026-08-03T06:22:00.000Z",
-          "url": "https://weibo.com/6048569942/RbG5R0M5Q",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://www.coolapk.com/feed/73047427",
           "image": "",
           "verdict": "先看",
-          "takeaway": "独家，U新10X Sensor有两个方案，硬件都是50Mp 1/1.95\"，一颗是三星GNB，一颗是OV51A，多折纯望远取向，长焦微距还是在2亿[偷乐]",
-          "detail": "独家，U新10X Sensor有两个方案，硬件都是50Mp 1/1.95\"，一颗是三星GNB，一颗是OV51A，多折纯望远取向，长焦微距还是在2亿[偷乐]",
+          "takeaway": "REDMI K100 Pro Max 将搭载9070mAh电池",
+          "detail": "REDMI K100 Pro Max 将搭载9070mAh电池",
           "keyPoints": [
-            "影像硬件",
-            "爆料来源"
+            "电池 / 充电"
           ],
-          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
-          "id": "coolapk-user-58e3b9a09efe",
-          "title": "JSCHEN小小狐：OPPO Find X10 Ultra 十倍潜望长焦曝光：双方案",
+          "id": "auto-21732c1531e3",
+          "title": "vivo 机模 / 配色信息曝光",
           "originalTitle": "",
-          "source": "JSCHEN小小狐",
-          "brand": "Samsung",
+          "source": "Gizmochina",
+          "brand": "vivo",
           "type": "爆料",
-          "trust": "高可信爆料",
+          "trust": "媒体汇总",
           "date": "2026-08-03",
-          "time": "07:09",
-          "publishedAt": "2026-08-03T07:09:19.000Z",
-          "url": "https://www.coolapk.com/feed/73063934",
-          "image": "http://image.coolapk.com/feed/2026/0803/15/4702274_cf1c0afd_0958_2638_852@1440x521.jpg",
+          "time": "10:35",
+          "publishedAt": "2026-08-03T10:35:26.000Z",
+          "url": "https://www.gizmochina.com/2026/08/03/iqoo-z11-india-variant-design-colours-specifications-revealed/",
+          "image": "https://www.gizmochina.com/wp-content/uploads/2026/08/iQOO-Z11-design-1-1-300x124.jpg?x23692",
           "verdict": "先看",
-          "takeaway": "『OPPO Find X10 Ultra 十倍潜望曝光：双方案』 10X Sensor 方案 ① 50Mp 1/1.95\" 三星 S5KGNB ② 50Mp 1/1.95'' 豪威 OV51A 补充信息： ◇ 10X 超长焦采用多折潜望设计 ◇ 仅 200Mp 3X 支持长焦微距 #今日热点# #OPPOFindX10Ultra# #OPPOFindX9U…",
-          "detail": "『OPPO Find X10 Ultra 十倍潜望曝光：双方案』 10X Sensor 方案 ① 50Mp 1/1.95\" 三星 S5KGNB ② 50Mp 1/1.95'' 豪威 OV51A 补充信息： ◇ 10X 超长焦采用多折潜望设计 ◇ 仅 200Mp 3X 支持长焦微距 #今日热点# #OPPOFindX10Ultra# #OPPOFindX9U…",
+          "takeaway": "vivo 机模 / 配色信息曝光。重点看外观、颜色、尺寸是否和上一代有明显变化。",
+          "detail": "vivo 机模 / 配色信息曝光。来源提到未发布机型的机模/配色图，适合先判断外观方向、颜色变化和机身轮廓，但最终量产版本仍可能调整。",
           "keyPoints": [
+            "外观 / 配色 / 尺寸",
             "影像硬件"
           ],
-          "confidence": "可信度较高，但仍属于发布前线索。",
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         }
@@ -233,52 +235,6 @@ window.phoneRadarDaily = {
           ],
           "confidence": "官方内容，可直接作为已确认信息记录。",
           "impact": "可信度高，但如果不是配置/价格消息，只需要扫一眼。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
-        {
-          "id": "newsnow-86c61751e67b",
-          "title": "我的出行好伙伴，用 iPhone 一站式解决旅途痛点",
-          "originalTitle": "",
-          "source": "少数派热榜",
-          "brand": "iPhone",
-          "type": "评测",
-          "trust": "媒体汇总",
-          "date": "2026-08-03",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://sspai.com/post/112044",
-          "image": "",
-          "verdict": "扫一眼",
-          "takeaway": "我的出行好伙伴，用 iPhone 一站式解决旅途痛点",
-          "detail": "我的出行好伙伴，用 iPhone 一站式解决旅途痛点",
-          "keyPoints": [
-            "评测"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是实际体验内容，买前适合重点看缺点和取舍。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
-        {
-          "id": "newsnow-cd1733fbe886",
-          "title": "曝iPhone将涨价 最高或涨1350元",
-          "originalTitle": "",
-          "source": "今日头条热榜",
-          "brand": "iPhone",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-08-03",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://www.toutiao.com/trending/7669636418002714630/",
-          "image": "",
-          "verdict": "扫一眼",
-          "takeaway": "曝iPhone将涨价 最高或涨1350元",
-          "detail": "曝iPhone将涨价 最高或涨1350元",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "影响购买预算，值得先看。",
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         }
       ]
@@ -312,6 +268,29 @@ window.phoneRadarDaily = {
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         },
         {
+          "id": "newsnow-e316f38dd046",
+          "title": "现在华为网上舆论环境太恐怖了吧，视频内容是老人手机一直弹窗广告，手机一眼小米红米，然后弹幕基本都是嘲讽华为的[惊讶] #REDMIK100ProMax# #小米17ProMax# #华为鸿蒙#",
+          "originalTitle": "",
+          "source": "酷安热榜",
+          "brand": "Huawei",
+          "type": "爆料",
+          "trust": "高关注爆料源",
+          "date": "2026-08-03",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://www.coolapk.com/feed/73059834",
+          "image": "",
+          "verdict": "先看",
+          "takeaway": "现在华为网上舆论环境太恐怖了吧，视频内容是老人手机一直弹窗广告，手机一眼小米红米，然后弹幕基本都是嘲讽华为的[惊讶] #REDMIK100ProMax# #小米17ProMax# #华为鸿蒙#",
+          "detail": "现在华为网上舆论环境太恐怖了吧，视频内容是老人手机一直弹窗广告，手机一眼小米红米，然后弹幕基本都是嘲讽华为的[惊讶] #REDMIK100ProMax# #小米17ProMax# #华为鸿蒙#",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        },
+        {
           "id": "newsnow-b92fbede484c",
           "title": "完犊子，k90pm 16+512 5299了估计k100pm 16+512 得5599了#数码日常# #RedmiK90ProMax# #红米k100#",
           "originalTitle": "",
@@ -331,98 +310,6 @@ window.phoneRadarDaily = {
             "爆料"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
-        {
-          "id": "newsnow-922b0e0b75bc",
-          "title": "我已经猜到今年100系列的结局了，又跟去年一样，iqoo16杀穿子品牌全档",
-          "originalTitle": "",
-          "source": "酷安热榜",
-          "brand": "vivo",
-          "type": "爆料",
-          "trust": "高关注爆料源",
-          "date": "2026-08-03",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://www.coolapk.com/feed/73043534",
-          "image": "",
-          "verdict": "扫一眼",
-          "takeaway": "我已经猜到今年100系列的结局了，又跟去年一样，iqoo16杀穿子品牌全档",
-          "detail": "我已经猜到今年100系列的结局了，又跟去年一样，iqoo16杀穿子品牌全档",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
-        {
-          "id": "coolapk-user-7c1fc468015e",
-          "title": "竹本青：多位用户反馈小米手环10 Pro出现中框开裂问题：故障集中同一位置，售后称无法解决",
-          "originalTitle": "",
-          "source": "竹本青",
-          "brand": "Xiaomi",
-          "type": "爆料",
-          "trust": "高可信爆料",
-          "date": "2026-08-03",
-          "time": "05:55",
-          "publishedAt": "2026-08-03T05:55:13.000Z",
-          "url": "https://www.coolapk.com/feed/73062994",
-          "image": "http://image.coolapk.com/feed/2026/0803/13/4248714_0d2cc0dd_6497_8862_102@1272x1880.jpg",
-          "verdict": "扫一眼",
-          "takeaway": "【多位用户反馈小米手环10 Pro出现中框开裂问题：故障集中同一位置，售后称无法解决】 8月3日资讯，引本站公开内容，近期多名用户发帖反馈，称自己正常使用的小米手环10 Pro出现中框开裂问题。 通过检索，不少故障案例图片显示，手环开裂位置集中出现在机身左上角，靠近表带快拆接口的边框。 有用户表示，已联系小米售后沟通，但对方回复称无法解决，不换不修。 *…",
-          "detail": "【多位用户反馈小米手环10 Pro出现中框开裂问题：故障集中同一位置，售后称无法解决】 8月3日资讯，引本站公开内容，近期多名用户发帖反馈，称自己正常使用的小米手环10 Pro出现中框开裂问题。 通过检索，不少故障案例图片显示，手环开裂位置集中出现在机身左上角，靠近表带快拆接口的边框。 有用户表示，已联系小米售后沟通，但对方回复称无法解决，不换不修。 *…",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "可信度较高，但仍属于发布前线索。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
-        {
-          "id": "coolapk-user-f6d17b779dab",
-          "title": "竹本青：小米之家开启到店活动：免费领麦当劳薯条兑换券",
-          "originalTitle": "",
-          "source": "竹本青",
-          "brand": "Xiaomi",
-          "type": "爆料",
-          "trust": "高可信爆料",
-          "date": "2026-08-03",
-          "time": "03:16",
-          "publishedAt": "2026-08-03T03:16:38.000Z",
-          "url": "https://www.coolapk.com/feed/73061060",
-          "image": "http://image.coolapk.com/feed/2026/0803/11/4248714_f852d650_6996_0904_954@2160x2880.jpg",
-          "verdict": "扫一眼",
-          "takeaway": "【小米之家开启到店活动：免费领麦当劳薯条兑换券】 8月3日，小米之家官宣全新到店活动：即日起至8月10日，到小米之家活动门店扫码添加企微，即可免费领取麦当劳中份薯条兑换券1张。 ＊一人限参与一次，兑换券共10万份 #今日热点# #麦当劳# #HyperOS3#",
-          "detail": "【小米之家开启到店活动：免费领麦当劳薯条兑换券】 8月3日，小米之家官宣全新到店活动：即日起至8月10日，到小米之家活动门店扫码添加企微，即可免费领取麦当劳中份薯条兑换券1张。 ＊一人限参与一次，兑换券共10万份 #今日热点# #麦当劳# #HyperOS3#",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "可信度较高，但仍属于发布前线索。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
-        {
-          "id": "coolapk-user-e13792b7d35c",
-          "title": "竹本青：OPPO A7 Pro Max 将搭载满级防水、抗摔架构",
-          "originalTitle": "",
-          "source": "竹本青",
-          "brand": "OPPO",
-          "type": "爆料",
-          "trust": "高可信爆料",
-          "date": "2026-08-03",
-          "time": "03:08",
-          "publishedAt": "2026-08-03T03:08:48.000Z",
-          "url": "https://www.coolapk.com/feed/73060949",
-          "image": "http://image.coolapk.com/feed/2026/0803/11/4248714_fd659cbd_6524_1751_156@1500x2792.jpg",
-          "verdict": "扫一眼",
-          "takeaway": "【OPPO A7 Pro Max 官宣搭载满级防水、抗摔架构】 ● IP66/IP68/IP69/IP69K防尘防水 ● 抗摔金刚石架构 ● 金刚四角、防撞梁、安全气囊 #今日热点# #OPPOA7ProMax#",
-          "detail": "【OPPO A7 Pro Max 官宣搭载满级防水、抗摔架构】 ● IP66/IP68/IP69/IP69K防尘防水 ● 抗摔金刚石架构 ● 金刚四角、防撞梁、安全气囊 #今日热点# #OPPOA7ProMax#",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "可信度较高，但仍属于发布前线索。",
           "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         }
