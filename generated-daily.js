@@ -1,11 +1,11 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-08-03T03:53:12.002Z",
+  "updatedAt": "2026-08-03T07:45:13.166Z",
   "issueDate": "2026-08-03",
   "issue": "VOL.260803",
   "title": "手机情报日报",
-  "intro": "今日筛出 22 条重点，其中 8 条是重点爆料，包含 4 条 iPhone 相关、1 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 17 条重点，其中 8 条是重点爆料，包含 4 条 iPhone 相关、1 条官方确认、0 条参数线索。",
   "stats": {
-    "total": 22,
+    "total": 17,
     "iphone": 4,
     "leaks": 8,
     "official": 1,
@@ -42,54 +42,6 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
-          "id": "auto-55434b2c5f7e",
-          "title": "小米 REDMI K100 Pro 系列手机首发 M11 发光材料，更清晰、功耗更低",
-          "originalTitle": "",
-          "source": "IT之家",
-          "brand": "Xiaomi",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-08-03",
-          "time": "02:11",
-          "publishedAt": "2026-08-03T02:11:26.000Z",
-          "url": "https://www.ithome.com/0/984/881.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/8/8b3f64dd-8893-4638-b4b7-2e3b48af3bdb.jpg?x-bce-process=image/format,f_auto",
-          "verdict": "先看",
-          "takeaway": "IT之家 8 月 3 日消息，小米 REDMI K100 Pro 系列手机将于 8 月 11 日晚 7 点发布，官方今日继续对新机进行预热。 据介绍，K100 Pro 系列搭载新一代超级像素，首发 M11 &nbsp;新型 OLED 发光材料，搭配超级像素、全 RGB 无损排列，拥有 185Hz 屏幕超高刷新率、4500nits 局部峰值亮度，对比 2K…",
-          "detail": "IT之家 8 月 3 日消息，小米 REDMI K100 Pro 系列手机将于 8 月 11 日晚 7 点发布，官方今日继续对新机进行预热。 据介绍，K100 Pro 系列搭载新一代超级像素，首发 M11 &nbsp;新型 OLED 发光材料，搭配超级像素、全 RGB 无损排列，拥有 185Hz 屏幕超高刷新率、4500nits 局部峰值亮度，对比 2K…",
-          "keyPoints": [
-            "屏幕形态"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "auto-1f59651682ae",
-          "title": "iQOO Neo 新机曝光：国产新工艺 2K 大屏、超 9000mAh 大电池",
-          "originalTitle": "",
-          "source": "IT之家",
-          "brand": "vivo",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-08-03",
-          "time": "01:26",
-          "publishedAt": "2026-08-03T01:26:36.000Z",
-          "url": "https://www.ithome.com/0/984/868.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/8/c3576ff9-7ab5-4640-ac06-bafe904cf9f4.png?x-bce-process=image/format,f_auto",
-          "verdict": "先看",
-          "takeaway": "IT之家 8 月 3 日消息，博主 @数码闲聊站 今日曝光 iQOO Neo 新机部分配置，包括基于天玑 9500 深度定制，调优了联发科最新旗舰芯片；同档唯一的国产新工艺 2K 大屏， 超 9000mAh 大电池 。 IT之家注意到，一款型号为 vivo V2545A 的新机于今年 6 月出现在 Geekbench 跑分数据库，外媒 GizChina 认…",
-          "detail": "IT之家 8 月 3 日消息，博主 @数码闲聊站 今日曝光 iQOO Neo 新机部分配置，包括基于天玑 9500 深度定制，调优了联发科最新旗舰芯片；同档唯一的国产新工艺 2K 大屏， 超 9000mAh 大电池 。 IT之家注意到，一款型号为 vivo V2545A 的新机于今年 6 月出现在 Geekbench 跑分数据库，外媒 GizChina 认…",
-          "keyPoints": [
-            "电池 / 充电",
-            "芯片 / 性能",
-            "爆料来源"
-          ],
-          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
           "id": "weibo-eaf286c7cdaa",
           "title": "数码闲聊站：iQOO Neo 新机摸到了，基于天玑9500深度定制，调优了联发科最新旗舰芯…",
           "originalTitle": "",
@@ -111,6 +63,52 @@ window.phoneRadarDaily = {
             "爆料来源"
           ],
           "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "newsnow-8570882f3cc3",
+          "title": "REDMI K100 Pro Max 将搭载9070mAh电池",
+          "originalTitle": "",
+          "source": "酷安热榜",
+          "brand": "Xiaomi",
+          "type": "爆料",
+          "trust": "高关注爆料源",
+          "date": "2026-08-03",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://www.coolapk.com/feed/73047427",
+          "image": "",
+          "verdict": "先看",
+          "takeaway": "REDMI K100 Pro Max 将搭载9070mAh电池",
+          "detail": "REDMI K100 Pro Max 将搭载9070mAh电池",
+          "keyPoints": [
+            "电池 / 充电"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "newsnow-e3a3a0843893",
+          "title": "REDMI K100 Pro 系列抢在小米18 Pro之前率先用上全新屏幕！新一代超级像素屏幕，首发M11发光材料，发光效率直接提升20%，局部峰值亮度达到4500nits。拥有185Hz高刷新率，4800Hz瞬时触控采样率，全RGB无损排列，直接做到实打实2K钻排清晰度，不再只是媲美2K。8月11日19点新品发布",
+          "originalTitle": "",
+          "source": "酷安热榜",
+          "brand": "Xiaomi",
+          "type": "爆料",
+          "trust": "高关注爆料源",
+          "date": "2026-08-03",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://www.coolapk.com/feed/73060741",
+          "image": "",
+          "verdict": "先看",
+          "takeaway": "REDMI K100 Pro 系列抢在小米18 Pro之前率先用上全新屏幕！新一代超级像素屏幕，首发M11发光材料，发光效率直接提升20%，局部峰值亮度达到4500nits。拥有185Hz高刷新率，4800Hz瞬时触控采样率，全RGB无损排列，直接做到实打实2K钻排清晰度，不再只是媲美2K。8月11日19点新品发布",
+          "detail": "REDMI K100 Pro 系列抢在小米18 Pro之前率先用上全新屏幕！新一代超级像素屏幕，首发M11发光材料，发光效率直接提升20%，局部峰值亮度达到4500nits。拥有185Hz高刷新率，4800Hz瞬时触控采样率，全RGB无损排列，直接做到实打实2K钻排清晰度，不再只是媲美2K。8月11日19点新品发布",
+          "keyPoints": [
+            "屏幕形态"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
@@ -161,48 +159,49 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
-          "id": "auto-a11c10c481ec",
-          "title": "Pixel 相关消息",
+          "id": "weibo-393ee0a274ae",
+          "title": "数码闲聊站：独家，U新10X Sensor有两个方案，硬件都是50Mp 1/1.95\"，一…",
           "originalTitle": "",
-          "source": "9to5Google",
-          "brand": "Pixel",
+          "source": "数码闲聊站",
+          "brand": "Samsung",
           "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-08-02",
-          "time": "13:00",
-          "publishedAt": "2026-08-02T13:00:00.000Z",
-          "url": "https://9to5google.com/2026/08/02/the-pixel-11-will-be-a-perfect-storm-of-bad-timing/",
+          "trust": "高关注爆料源",
+          "date": "2026-08-03",
+          "time": "06:22",
+          "publishedAt": "2026-08-03T06:22:00.000Z",
+          "url": "https://weibo.com/6048569942/RbG5R0M5Q",
           "image": "",
           "verdict": "先看",
-          "takeaway": "Pixel 相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
-          "detail": "Pixel 相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
+          "takeaway": "独家，U新10X Sensor有两个方案，硬件都是50Mp 1/1.95\"，一颗是三星GNB，一颗是OV51A，多折纯望远取向，长焦微距还是在2亿[偷乐]",
+          "detail": "独家，U新10X Sensor有两个方案，硬件都是50Mp 1/1.95\"，一颗是三星GNB，一颗是OV51A，多折纯望远取向，长焦微距还是在2亿[偷乐]",
           "keyPoints": [
+            "影像硬件",
             "爆料来源"
           ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
-          "id": "auto-9d72b371081a",
-          "title": "Xiaomi 电池 / 充电相关消息",
+          "id": "coolapk-user-58e3b9a09efe",
+          "title": "JSCHEN小小狐：OPPO Find X10 Ultra 十倍潜望长焦曝光：双方案",
           "originalTitle": "",
-          "source": "Gizmochina",
-          "brand": "Xiaomi",
+          "source": "JSCHEN小小狐",
+          "brand": "Samsung",
           "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-08-02",
-          "time": "07:51",
-          "publishedAt": "2026-08-02T07:51:14.000Z",
-          "url": "https://www.gizmochina.com/2026/08/02/redmi-turbo-6-max-10000mah-battery-launch-timeframe-leak/",
-          "image": "https://www.gizmochina.com/wp-content/uploads/2026/01/Redmi-Turbo-5-Max-Sunshine-Orange-300x300.png?x23692",
+          "trust": "高可信爆料",
+          "date": "2026-08-03",
+          "time": "07:09",
+          "publishedAt": "2026-08-03T07:09:19.000Z",
+          "url": "https://www.coolapk.com/feed/73063934",
+          "image": "http://image.coolapk.com/feed/2026/0803/15/4702274_cf1c0afd_0958_2638_852@1440x521.jpg",
           "verdict": "先看",
-          "takeaway": "Xiaomi 电池 / 充电相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
-          "detail": "Xiaomi 电池 / 充电相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
+          "takeaway": "『OPPO Find X10 Ultra 十倍潜望曝光：双方案』 10X Sensor 方案 ① 50Mp 1/1.95\" 三星 S5KGNB ② 50Mp 1/1.95'' 豪威 OV51A 补充信息： ◇ 10X 超长焦采用多折潜望设计 ◇ 仅 200Mp 3X 支持长焦微距 #今日热点# #OPPOFindX10Ultra# #OPPOFindX9U…",
+          "detail": "『OPPO Find X10 Ultra 十倍潜望曝光：双方案』 10X Sensor 方案 ① 50Mp 1/1.95\" 三星 S5KGNB ② 50Mp 1/1.95'' 豪威 OV51A 补充信息： ◇ 10X 超长焦采用多折潜望设计 ◇ 仅 200Mp 3X 支持长焦微距 #今日热点# #OPPOFindX10Ultra# #OPPOFindX9U…",
           "keyPoints": [
-            "电池 / 充电"
+            "影像硬件"
           ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "confidence": "可信度较高，但仍属于发布前线索。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         }
@@ -213,29 +212,6 @@ window.phoneRadarDaily = {
       "title": "iPhone 重点",
       "hint": "不是硬件爆料，但和 iPhone 体验或路线有关。",
       "items": [
-        {
-          "id": "newsnow-75112138d678",
-          "title": "哼，男朋友不给我买苹果17promax，我自己在抖音分期买总行了吧😝 #iPhone17Pro# #iPhone17##iPhone17ProMax#",
-          "originalTitle": "",
-          "source": "酷安热榜",
-          "brand": "iPhone",
-          "type": "爆料",
-          "trust": "高关注爆料源",
-          "date": "2026-08-03",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://www.coolapk.com/feed/73051525",
-          "image": "",
-          "verdict": "先看",
-          "takeaway": "哼，男朋友不给我买苹果17promax，我自己在抖音分期买总行了吧😝 #iPhone17Pro# #iPhone17##iPhone17ProMax#",
-          "detail": "哼，男朋友不给我买苹果17promax，我自己在抖音分期买总行了吧😝 #iPhone17Pro# #iPhone17##iPhone17ProMax#",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
         {
           "id": "auto-9bbf43c61c96",
           "title": "iPhone 系统功能 / AI 体验相关消息",
@@ -281,134 +257,28 @@ window.phoneRadarDaily = {
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是实际体验内容，买前适合重点看缺点和取舍。",
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        }
-      ]
-    },
-    {
-      "id": "launch",
-      "title": "新机与官方发布",
-      "hint": "能直接更新到参数库。",
-      "items": [
+        },
         {
-          "id": "auto-e5b8eee7552f",
-          "title": "Xiaomi 屏幕规格相关消息",
+          "id": "newsnow-cd1733fbe886",
+          "title": "曝iPhone将涨价 最高或涨1350元",
           "originalTitle": "",
-          "source": "Gizmochina",
-          "brand": "Xiaomi",
+          "source": "今日头条热榜",
+          "brand": "iPhone",
           "type": "爆料",
           "trust": "媒体汇总",
           "date": "2026-08-03",
-          "time": "03:33",
-          "publishedAt": "2026-08-03T03:33:03.000Z",
-          "url": "https://www.gizmochina.com/2026/08/03/redmi-k100-pro-series-display-details-confirmed/",
-          "image": "https://www.gizmochina.com/wp-content/uploads/2026/08/Redmi-K100-series-display___-300x204.jpg?x23692",
-          "verdict": "可略过",
-          "takeaway": "Xiaomi 屏幕规格相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
-          "detail": "Xiaomi 屏幕规格相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
-          "keyPoints": [
-            "屏幕形态"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "影响手感和显示体验，适合和其他机型对比。",
-          "action": "有具体参数就记录到参数库；没有参数就先收藏。"
-        },
-        {
-          "id": "auto-e9d89d95c679",
-          "title": "vivo 发布 / 上市相关消息",
-          "originalTitle": "",
-          "source": "Gizmochina",
-          "brand": "vivo",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-08-02",
-          "time": "07:21",
-          "publishedAt": "2026-08-02T07:21:18.000Z",
-          "url": "https://www.gizmochina.com/2026/08/02/iqoo-z11-india-launch-confirmed-expected-specifications/",
-          "image": "https://www.gizmochina.com/wp-content/uploads/2026/03/Screenshot-2026-03-27-014855-300x146.png?x23692",
-          "verdict": "可略过",
-          "takeaway": "vivo 有发布或新功能消息，适合确认是否和新机有关。",
-          "detail": "vivo 发布 / 上市相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://www.toutiao.com/trending/7669636418002714630/",
+          "image": "",
+          "verdict": "扫一眼",
+          "takeaway": "曝iPhone将涨价 最高或涨1350元",
+          "detail": "曝iPhone将涨价 最高或涨1350元",
           "keyPoints": [
             "爆料"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        }
-      ]
-    },
-    {
-      "id": "review",
-      "title": "评测与体验",
-      "hint": "买前再细看，平时扫一眼即可。",
-      "items": [
-        {
-          "id": "auto-583c3e6550dc",
-          "title": "阿里企业级 Agent 产品“千问办公”开启公测，集成最新旗舰模型 Qwen3.8",
-          "originalTitle": "",
-          "source": "IT之家",
-          "brand": "行业",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-08-03",
-          "time": "03:12",
-          "publishedAt": "2026-08-03T03:12:31.000Z",
-          "url": "https://www.ithome.com/0/984/942.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/8/81910d0b-7e7a-4caa-a351-3c3feb945a25.jpg",
-          "verdict": "扫一眼",
-          "takeaway": "IT之家 8 月 3 日消息，今日，阿里巴巴旗下企业级 Agent 产品“千问办公”开启公测。 个人和企业用户均可通过“千问办公”官网体验，目前网页版和独立 PC 客户端已开放，钉钉 PC 端和手机端内置入口近期也将开放。用户可在“千问办公”体验阿里最新旗舰模型 Qwen3.8。 该应用具有免费版、个人标准版、个人高级版等订阅套餐，IT之家附具体订阅价格如…",
-          "detail": "IT之家 8 月 3 日消息，今日，阿里巴巴旗下企业级 Agent 产品“千问办公”开启公测。 个人和企业用户均可通过“千问办公”官网体验，目前网页版和独立 PC 客户端已开放，钉钉 PC 端和手机端内置入口近期也将开放。用户可在“千问办公”体验阿里最新旗舰模型 Qwen3.8。 该应用具有免费版、个人标准版、个人高级版等订阅套餐，IT之家附具体订阅价格如…",
-          "keyPoints": [
-            "成本 / 价格"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "影响购买预算，值得先看。",
-          "action": "有具体参数就记录到参数库；没有参数就先收藏。"
-        },
-        {
-          "id": "auto-172b4641dd82",
-          "title": "Pixel 10 Pro Fold 折叠屏相关消息",
-          "originalTitle": "",
-          "source": "Android Central",
-          "brand": "Samsung",
-          "type": "评测",
-          "trust": "媒体汇总",
-          "date": "2026-08-03",
-          "time": "01:02",
-          "publishedAt": "2026-08-03T01:02:08.000Z",
-          "url": "https://www.androidcentral.com/phones/samsung-galaxy/samsung-galaxy-z-fold-8-ultra-vs-google-pixel-10-pro-fold",
-          "image": "https://cdn.mos.cms.futurecdn.net/TaGESVJTdBrWSDwYBiLeGE-1280-80.jpg",
-          "verdict": "可略过",
-          "takeaway": "Pixel 10 Pro Fold 折叠屏相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
-          "detail": "Pixel 10 Pro Fold 折叠屏相关消息。重点看折痕、铰链、厚度、屏幕可靠性和重量是否有实质改善。",
-          "keyPoints": [
-            "评测"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是实际体验内容，买前适合重点看缺点和取舍。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
-        {
-          "id": "auto-75693f0eb8e8",
-          "title": "Samsung 折叠屏相关消息",
-          "originalTitle": "",
-          "source": "Android Central",
-          "brand": "Samsung",
-          "type": "评测",
-          "trust": "媒体汇总",
-          "date": "2026-08-03",
-          "time": "00:30",
-          "publishedAt": "2026-08-03T00:30:57.000Z",
-          "url": "https://www.androidcentral.com/phones/samsung-galaxy/samsung-galaxy-z-fold-8-ultra-vs-galaxy-z-fold-6",
-          "image": "https://cdn.mos.cms.futurecdn.net/pdxQGAvhewvYCUksW6GtwY-1280-80.jpg",
-          "verdict": "可略过",
-          "takeaway": "Samsung 折叠屏相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
-          "detail": "Samsung 折叠屏相关消息。重点看折痕、铰链、厚度、屏幕可靠性和重量是否有实质改善。",
-          "keyPoints": [
-            "屏幕形态"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是实际体验内容，买前适合重点看缺点和取舍。",
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         }
       ]
@@ -418,6 +288,29 @@ window.phoneRadarDaily = {
       "title": "行业趋势",
       "hint": "看方向，不急着当购买依据。",
       "items": [
+        {
+          "id": "newsnow-2d453dbece1f",
+          "title": "小米手机开启新一轮涨价，覆盖小米17系列、REDMI Turbo5系列、K90系列",
+          "originalTitle": "",
+          "source": "酷安热榜",
+          "brand": "Xiaomi",
+          "type": "爆料",
+          "trust": "高关注爆料源",
+          "date": "2026-08-03",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://www.coolapk.com/feed/73043040",
+          "image": "",
+          "verdict": "先看",
+          "takeaway": "小米手机开启新一轮涨价，覆盖小米17系列、REDMI Turbo5系列、K90系列",
+          "detail": "小米手机开启新一轮涨价，覆盖小米17系列、REDMI Turbo5系列、K90系列",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "影响购买预算，值得先看。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        },
         {
           "id": "newsnow-b92fbede484c",
           "title": "完犊子，k90pm 16+512 5299了估计k100pm 16+512 得5599了#数码日常# #RedmiK90ProMax# #红米k100#",
@@ -465,27 +358,27 @@ window.phoneRadarDaily = {
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         },
         {
-          "id": "newsnow-37736403f656",
-          "title": "2020 年，回头看仍是机圈极具魔幻现实主义色彩的一年。厂商大喊 “5G 元年”，对换机用户而言却是 “涨价元年”—— 旗舰机型仿佛统一了口径，集体上调八百至一千的价格，携手迈入3999的时代。",
+          "id": "coolapk-user-7c1fc468015e",
+          "title": "竹本青：多位用户反馈小米手环10 Pro出现中框开裂问题：故障集中同一位置，售后称无法解决",
           "originalTitle": "",
-          "source": "酷安热榜",
-          "brand": "行业",
+          "source": "竹本青",
+          "brand": "Xiaomi",
           "type": "爆料",
-          "trust": "高关注爆料源",
+          "trust": "高可信爆料",
           "date": "2026-08-03",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://www.coolapk.com/feed/70266966",
-          "image": "",
+          "time": "05:55",
+          "publishedAt": "2026-08-03T05:55:13.000Z",
+          "url": "https://www.coolapk.com/feed/73062994",
+          "image": "http://image.coolapk.com/feed/2026/0803/13/4248714_0d2cc0dd_6497_8862_102@1272x1880.jpg",
           "verdict": "扫一眼",
-          "takeaway": "2020 年，回头看仍是机圈极具魔幻现实主义色彩的一年。厂商大喊 “5G 元年”，对换机用户而言却是 “涨价元年”—— 旗舰机型仿佛统一了口径，集体上调八百至一千的价格，携手迈入3999的时代。",
-          "detail": "2020 年，回头看仍是机圈极具魔幻现实主义色彩的一年。厂商大喊 “5G 元年”，对换机用户而言却是 “涨价元年”—— 旗舰机型仿佛统一了口径，集体上调八百至一千的价格，携手迈入3999的时代。",
+          "takeaway": "【多位用户反馈小米手环10 Pro出现中框开裂问题：故障集中同一位置，售后称无法解决】 8月3日资讯，引本站公开内容，近期多名用户发帖反馈，称自己正常使用的小米手环10 Pro出现中框开裂问题。 通过检索，不少故障案例图片显示，手环开裂位置集中出现在机身左上角，靠近表带快拆接口的边框。 有用户表示，已联系小米售后沟通，但对方回复称无法解决，不换不修。 *…",
+          "detail": "【多位用户反馈小米手环10 Pro出现中框开裂问题：故障集中同一位置，售后称无法解决】 8月3日资讯，引本站公开内容，近期多名用户发帖反馈，称自己正常使用的小米手环10 Pro出现中框开裂问题。 通过检索，不少故障案例图片显示，手环开裂位置集中出现在机身左上角，靠近表带快拆接口的边框。 有用户表示，已联系小米售后沟通，但对方回复称无法解决，不换不修。 *…",
           "keyPoints": [
-            "成本 / 价格"
+            "爆料"
           ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "影响购买预算，值得先看。",
-          "action": "有具体参数就记录到参数库；没有参数就先收藏。"
+          "confidence": "可信度较高，但仍属于发布前线索。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         },
         {
           "id": "coolapk-user-f6d17b779dab",
@@ -531,29 +424,6 @@ window.phoneRadarDaily = {
           ],
           "confidence": "可信度较高，但仍属于发布前线索。",
           "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
-        {
-          "id": "newsnow-54c7f1b52801",
-          "title": "小米多款手机今起涨价，其市场策略和消费者选择将受何影响？",
-          "originalTitle": "",
-          "source": "知乎热榜",
-          "brand": "Xiaomi",
-          "type": "市场报告",
-          "trust": "媒体汇总",
-          "date": "2026-08-03",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://www.zhihu.com/question/2067173581734286185",
-          "image": "",
-          "verdict": "扫一眼",
-          "takeaway": "小米多款手机今起涨价，其市场策略和消费者选择将受何影响？",
-          "detail": "小米多款手机今起涨价，其市场策略和消费者选择将受何影响？",
-          "keyPoints": [
-            "市场报告"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "影响购买预算，值得先看。",
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         }
       ]

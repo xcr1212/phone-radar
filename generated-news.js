@@ -1,6 +1,226 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-08-03T03:53:12.002Z",
+  "updatedAt": "2026-08-03T07:45:13.166Z",
   "news": [
+    {
+      "id": "newsnow-df9fe1d51507",
+      "title": "一加 16 手机定价曝光，8GB+256GB 版 4999 元",
+      "source": "IT之家热榜",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-03",
+      "time": "15:22",
+      "publishedAt": "2026-08-03T15:22:37.000Z",
+      "url": "https://www.ithome.com/0/985/026.htm",
+      "image": "",
+      "summary": "一加 16 手机定价曝光，8GB+256GB 版 4999 元",
+      "tags": [
+        "OPPO",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "auto-a335f55d37a8",
+      "title": "Galaxy S26 FE case leak shows off Samsung’s next affordable flagship in two shades",
+      "source": "Android Authority",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-03",
+      "time": "07:39",
+      "publishedAt": "2026-08-03T07:39:05.000Z",
+      "url": "https://www.androidauthority.com/samsung-galaxy-s26-fe-cases-leak-3693668/",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2025/09/Samsung-Galaxy-S25-FE-rear-cameras-scaled-1-scaled.jpg",
+      "summary": "Which shade is your favorite?",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-58e3b9a09efe",
+      "title": "JSCHEN小小狐：OPPO Find X10 Ultra 十倍潜望长焦曝光：双方案",
+      "source": "JSCHEN小小狐",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-08-03",
+      "time": "07:09",
+      "publishedAt": "2026-08-03T07:09:19.000Z",
+      "url": "https://www.coolapk.com/feed/73063934",
+      "image": "http://image.coolapk.com/feed/2026/0803/15/4702274_cf1c0afd_0958_2638_852@1440x521.jpg",
+      "summary": "『OPPO Find X10 Ultra 十倍潜望曝光：双方案』 10X Sensor 方案 ① 50Mp 1/1.95\" 三星 S5KGNB ② 50Mp 1/1.95'' 豪威 OV51A 补充信息： ◇ 10X 超长焦采用多折潜望设计 ◇ 仅 200Mp 3X 支持长焦微距 #今日热点# #OPPOFindX10Ultra# #OPPOFindX9U…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-5f6ac0ca24a9",
+      "title": "Mega Pixel 11 series leak leaves nothing to the imagination",
+      "source": "Android Authority",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-03",
+      "time": "06:52",
+      "publishedAt": "2026-08-03T06:52:33.000Z",
+      "url": "https://www.androidauthority.com/pixel-11-leak-specs-us-price-3693656/",
+      "image": "",
+      "summary": "Google might not have a lot left to surprise us with, thanks to this leak.",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "weibo-393ee0a274ae",
+      "title": "数码闲聊站：独家，U新10X Sensor有两个方案，硬件都是50Mp 1/1.95\"，一…",
+      "source": "数码闲聊站",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-08-03",
+      "time": "06:22",
+      "publishedAt": "2026-08-03T06:22:00.000Z",
+      "url": "https://weibo.com/6048569942/RbG5R0M5Q",
+      "image": "",
+      "summary": "独家，U新10X Sensor有两个方案，硬件都是50Mp 1/1.95\"，一颗是三星GNB，一颗是OV51A，多折纯望远取向，长焦微距还是在2亿[偷乐]",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "微博"
+      ]
+    },
+    {
+      "id": "auto-5998192cf901",
+      "title": "The Samsung Galaxy S27 Pro won't match the Ultra's zoom",
+      "source": "Android Police",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-03",
+      "time": "06:16",
+      "publishedAt": "2026-08-03T06:16:21.000Z",
+      "url": "https://www.androidpolice.com/samsung-galaxy-s27-pro-wont-match-the-ultras-zoom/",
+      "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2026/03/galaxy-s26-ultra-camera.JPG",
+      "summary": "No 50MP 5x telephoto for the Pro",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-716d459f6933",
+      "title": "Samsung might kill one of the Galaxy S27 Ultra’s rear cameras",
+      "source": "Android Authority",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-03",
+      "time": "06:14",
+      "publishedAt": "2026-08-03T06:14:20.000Z",
+      "url": "https://www.androidauthority.com/samsung-galaxy-s27-ultra-camera-downgrade-3693651/",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2026/04/Samsung-Galaxy-S26-vs-Ultra-4-scaled.jpg",
+      "summary": "It's looking more and more likely that the S27 Ultra won't have a 3x camera.",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-904cddceefb3",
+      "title": "职人专访 #001：少数派背后的理想主义",
+      "source": "少数派",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-08-03",
+      "time": "06:03",
+      "publishedAt": "2026-08-03T06:03:08.000Z",
+      "url": "https://sspai.com/post/112966",
+      "image": "",
+      "summary": "因为这款手机壳，我跟老麦聊了一下午。",
+      "tags": [
+        "行业",
+        "评测",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-7c1fc468015e",
+      "title": "竹本青：多位用户反馈小米手环10 Pro出现中框开裂问题：故障集中同一位置，售后称无法解决",
+      "source": "竹本青",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-08-03",
+      "time": "05:55",
+      "publishedAt": "2026-08-03T05:55:13.000Z",
+      "url": "https://www.coolapk.com/feed/73062994",
+      "image": "http://image.coolapk.com/feed/2026/0803/13/4248714_0d2cc0dd_6497_8862_102@1272x1880.jpg",
+      "summary": "【多位用户反馈小米手环10 Pro出现中框开裂问题：故障集中同一位置，售后称无法解决】 8月3日资讯，引本站公开内容，近期多名用户发帖反馈，称自己正常使用的小米手环10 Pro出现中框开裂问题。 通过检索，不少故障案例图片显示，手环开裂位置集中出现在机身左上角，靠近表带快拆接口的边框。 有用户表示，已联系小米售后沟通，但对方回复称无法解决，不换不修。 *…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-642dcd84781a",
+      "title": "Still Rocking the Galaxy S23? Here’s Where to Go From Here",
+      "source": "Gizmochina",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-03",
+      "time": "05:08",
+      "publishedAt": "2026-08-03T05:08:04.000Z",
+      "url": "https://www.gizmochina.com/2026/08/03/still-rocking-the-galaxy-s23-heres-where-to-go-from-here/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2024/11/Samsung-Galaxy-S23-5G-2-300x200.png?x23692",
+      "summary": "If you bought a Galaxy S23 back in 2023, you got a genuinely great phone. But three years is a long stretch in smartphone years, and you’ve probably started noticing the cracks. M…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-0e1dc6b5677c",
+      "title": "Galaxy S27 Pro telephoto camera leak brings disappointing news",
+      "source": "SamMobile",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-03",
+      "time": "04:13",
+      "publishedAt": "2026-08-03T04:13:23.000Z",
+      "url": "https://www.sammobile.com/news/galaxy-s27-pro-telephoto-camera-specs-leak/",
+      "image": "",
+      "summary": "Rumors suggest Samsung will add a new model to its flagship smartphone lineup next year: the Galaxy S27 Pro. Positioned between the Plus and Ultra variants, it is expected to brid…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-cddc0f0abe81",
       "title": "iQOO Neo 11S tipped to pack deeply customized Dimensity 9500 chip, 2K OLED screen, 9,000mAh battery",
@@ -17,26 +237,6 @@ window.phoneRadarAuto = {
       "summary": "The iQOO Neo11S appears to be getting closer to its debut, with multiple details about the upcoming performance-focused smartphone surfacing online. The latest information points…",
       "tags": [
         "vivo",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-98f3b08d3d06",
-      "title": "时代落幕：美国运营商 T-Mobile 正式关闭 2G 网络",
-      "source": "IT之家",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-03",
-      "time": "03:45",
-      "publishedAt": "2026-08-03T03:45:27.000Z",
-      "url": "https://www.ithome.com/0/984/955.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/8/7b69f40b-d837-4caa-a899-4253b16d61b9.png",
-      "summary": "IT之家 8 月 3 日消息，美国运营商 T-Mobile 发文，将于当地时间 8 月 3 日（今天）正式关停旗下 2G 网络，仍在使用旧款 2G 设备的用户未及时更换手机，可能会面临无法通话或上网的问题。 从技术层面来看，关闭 2G 网络并不是“简单按下开关”，T-Mobile 发言人表示， 运营商会先关闭网络服务，随后逐步移除相关硬件 ，从而为更快速、…",
-      "tags": [
-        "行业",
         "爆料",
         "自动抓取"
       ]
@@ -79,26 +279,6 @@ window.phoneRadarAuto = {
         "Xiaomi",
         "爆料",
         "酷安博主"
-      ]
-    },
-    {
-      "id": "auto-583c3e6550dc",
-      "title": "阿里企业级 Agent 产品“千问办公”开启公测，集成最新旗舰模型 Qwen3.8",
-      "source": "IT之家",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-03",
-      "time": "03:12",
-      "publishedAt": "2026-08-03T03:12:31.000Z",
-      "url": "https://www.ithome.com/0/984/942.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/8/81910d0b-7e7a-4caa-a351-3c3feb945a25.jpg",
-      "summary": "IT之家 8 月 3 日消息，今日，阿里巴巴旗下企业级 Agent 产品“千问办公”开启公测。 个人和企业用户均可通过“千问办公”官网体验，目前网页版和独立 PC 客户端已开放，钉钉 PC 端和手机端内置入口近期也将开放。用户可在“千问办公”体验阿里最新旗舰模型 Qwen3.8。 该应用具有免费版、个人标准版、个人高级版等订阅套餐，IT之家附具体订阅价格如…",
-      "tags": [
-        "行业",
-        "爆料",
-        "自动抓取"
       ]
     },
     {
@@ -159,46 +339,6 @@ window.phoneRadarAuto = {
         "Xiaomi",
         "爆料",
         "酷安博主"
-      ]
-    },
-    {
-      "id": "auto-55434b2c5f7e",
-      "title": "小米 REDMI K100 Pro 系列手机首发 M11 发光材料，更清晰、功耗更低",
-      "source": "IT之家",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-03",
-      "time": "02:11",
-      "publishedAt": "2026-08-03T02:11:26.000Z",
-      "url": "https://www.ithome.com/0/984/881.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/8/8b3f64dd-8893-4638-b4b7-2e3b48af3bdb.jpg?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 8 月 3 日消息，小米 REDMI K100 Pro 系列手机将于 8 月 11 日晚 7 点发布，官方今日继续对新机进行预热。 据介绍，K100 Pro 系列搭载新一代超级像素，首发 M11 &nbsp;新型 OLED 发光材料，搭配超级像素、全 RGB 无损排列，拥有 185Hz 屏幕超高刷新率、4500nits 局部峰值亮度，对比 2K…",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-1f59651682ae",
-      "title": "iQOO Neo 新机曝光：国产新工艺 2K 大屏、超 9000mAh 大电池",
-      "source": "IT之家",
-      "brand": "vivo",
-      "model": "vivo 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-03",
-      "time": "01:26",
-      "publishedAt": "2026-08-03T01:26:36.000Z",
-      "url": "https://www.ithome.com/0/984/868.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/8/c3576ff9-7ab5-4640-ac06-bafe904cf9f4.png?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 8 月 3 日消息，博主 @数码闲聊站 今日曝光 iQOO Neo 新机部分配置，包括基于天玑 9500 深度定制，调优了联发科最新旗舰芯片；同档唯一的国产新工艺 2K 大屏， 超 9000mAh 大电池 。 IT之家注意到，一款型号为 vivo V2545A 的新机于今年 6 月出现在 Geekbench 跑分数据库，外媒 GizChina 认…",
-      "tags": [
-        "vivo",
-        "爆料",
-        "自动抓取"
       ]
     },
     {
@@ -322,6 +462,26 @@ window.phoneRadarAuto = {
       ]
     },
     {
+      "id": "newsnow-8570882f3cc3",
+      "title": "REDMI K100 Pro Max 将搭载9070mAh电池",
+      "source": "酷安热榜",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-08-03",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/73047427",
+      "image": "",
+      "summary": "REDMI K100 Pro Max 将搭载9070mAh电池",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
       "id": "newsnow-922b0e0b75bc",
       "title": "我已经猜到今年100系列的结局了，又跟去年一样，iqoo16杀穿子品牌全档",
       "source": "酷安热榜",
@@ -342,39 +502,59 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-37736403f656",
-      "title": "2020 年，回头看仍是机圈极具魔幻现实主义色彩的一年。厂商大喊 “5G 元年”，对换机用户而言却是 “涨价元年”—— 旗舰机型仿佛统一了口径，集体上调八百至一千的价格，携手迈入3999的时代。",
+      "id": "newsnow-2d453dbece1f",
+      "title": "小米手机开启新一轮涨价，覆盖小米17系列、REDMI Turbo5系列、K90系列",
       "source": "酷安热榜",
-      "brand": "行业",
-      "model": "智能手机市场",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-08-03",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/70266966",
+      "url": "https://www.coolapk.com/feed/73043040",
       "image": "",
-      "summary": "2020 年，回头看仍是机圈极具魔幻现实主义色彩的一年。厂商大喊 “5G 元年”，对换机用户而言却是 “涨价元年”—— 旗舰机型仿佛统一了口径，集体上调八百至一千的价格，携手迈入3999的时代。",
+      "summary": "小米手机开启新一轮涨价，覆盖小米17系列、REDMI Turbo5系列、K90系列",
       "tags": [
-        "行业",
+        "Xiaomi",
         "爆料",
         "NewsNow"
       ]
     },
     {
-      "id": "newsnow-75112138d678",
-      "title": "哼，男朋友不给我买苹果17promax，我自己在抖音分期买总行了吧😝 #iPhone17Pro# #iPhone17##iPhone17ProMax#",
+      "id": "newsnow-e3a3a0843893",
+      "title": "REDMI K100 Pro 系列抢在小米18 Pro之前率先用上全新屏幕！新一代超级像素屏幕，首发M11发光材料，发光效率直接提升20%，局部峰值亮度达到4500nits。拥有185Hz高刷新率，4800Hz瞬时触控采样率，全RGB无损排列，直接做到实打实2K钻排清晰度，不再只是媲美2K。8月11日19点新品发布",
       "source": "酷安热榜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-08-03",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73051525",
+      "url": "https://www.coolapk.com/feed/73060741",
       "image": "",
-      "summary": "哼，男朋友不给我买苹果17promax，我自己在抖音分期买总行了吧😝 #iPhone17Pro# #iPhone17##iPhone17ProMax#",
+      "summary": "REDMI K100 Pro 系列抢在小米18 Pro之前率先用上全新屏幕！新一代超级像素屏幕，首发M11发光材料，发光效率直接提升20%，局部峰值亮度达到4500nits。拥有185Hz高刷新率，4800Hz瞬时触控采样率，全RGB无损排列，直接做到实打实2K钻排清晰度，不再只是媲美2K。8月11日19点新品发布",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-cd1733fbe886",
+      "title": "曝iPhone将涨价 最高或涨1350元",
+      "source": "今日头条热榜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-03",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.toutiao.com/trending/7669636418002714630/",
+      "image": "",
+      "summary": "曝iPhone将涨价 最高或涨1350元",
       "tags": [
         "iPhone",
         "爆料",
@@ -382,22 +562,22 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-54c7f1b52801",
-      "title": "小米多款手机今起涨价，其市场策略和消费者选择将受何影响？",
-      "source": "知乎热榜",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "市场报告",
+      "id": "newsnow-86f9fe04e95d",
+      "title": "两男子假装买手机趁机抢走4部手机",
+      "source": "今日头条热榜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
       "trust": "媒体汇总",
       "date": "2026-08-03",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.zhihu.com/question/2067173581734286185",
+      "url": "https://www.toutiao.com/trending/7668627614135435300/",
       "image": "",
-      "summary": "小米多款手机今起涨价，其市场策略和消费者选择将受何影响？",
+      "summary": "两男子假装买手机趁机抢走4部手机",
       "tags": [
-        "Xiaomi",
-        "市场报告",
+        "行业",
+        "爆料",
         "NewsNow"
       ]
     },
