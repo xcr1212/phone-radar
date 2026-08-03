@@ -1,5 +1,5 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-08-03T21:21:23.833Z",
+  "updatedAt": "2026-08-03T23:18:32.342Z",
   "issueDate": "2026-08-03",
   "issue": "VOL.260803",
   "title": "手机情报日报",
@@ -17,6 +17,30 @@ window.phoneRadarDaily = {
       "title": "重点爆料",
       "hint": "机模、配色、影像、屏幕、电池和芯片线索先看。",
       "items": [
+        {
+          "id": "auto-01ddfe687f25",
+          "title": "谷歌 Pixel 11 Pro 手机官方渲染图流出，外观细节抢先看",
+          "originalTitle": "",
+          "source": "IT之家",
+          "brand": "Pixel",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-08-03",
+          "time": "23:14",
+          "publishedAt": "2026-08-03T23:14:41.000Z",
+          "url": "https://www.ithome.com/0/985/273.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/8/6985a9f7-33f5-4ab2-a3d6-ac6f095fc882.jpg?x-bce-process=image/format,f_auto",
+          "verdict": "先看",
+          "takeaway": "IT之家 8 月 4 日消息，继知名爆料人埃文 · 布拉斯（Evan Blass）此前曝光据称为 Google Pixel 11 和 Pixel 11 Pro Fold 的官方宣传图后，如今 Google Pixel 11 Pro 的官方渲染图也随之流出。最新图片展示了这款旗舰手机的 Dune（沙丘色）和 Sterling（银色）两种配色，并提前揭示了新机…",
+          "detail": "IT之家 8 月 4 日消息，继知名爆料人埃文 · 布拉斯（Evan Blass）此前曝光据称为 Google Pixel 11 和 Pixel 11 Pro Fold 的官方宣传图后，如今 Google Pixel 11 Pro 的官方渲染图也随之流出。最新图片展示了这款旗舰手机的 Dune（沙丘色）和 Sterling（银色）两种配色，并提前揭示了新机…",
+          "keyPoints": [
+            "外观 / 配色 / 尺寸",
+            "爆料来源"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
         {
           "id": "auto-c23309826264",
           "title": "iPhone 外观设计线索曝光",
@@ -108,29 +132,6 @@ window.phoneRadarDaily = {
           "detail": "IT之家 8 月 3 日消息，据科技媒体 GSMArena 今天报道，OPPO 已在研发 F35 系列手机，预计至少有两款机型， 计划本月底或 9 月初在印度上市 。 据报道，OPPO F35 系列手机将取代今年 4 月推出的 F33 和 F33 Pro。如果上述消息属实，GSMArena 认为这种产品更新节奏未免过快。 同时目前还有传闻称，OPPO 计划…",
           "keyPoints": [
             "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "auto-198882eba022",
-          "title": "消息称三星中国开始收缩手机布局：30 万元月销售额不达标门店，将被逐步清退",
-          "originalTitle": "",
-          "source": "IT之家",
-          "brand": "Samsung",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-08-03",
-          "time": "09:59",
-          "publishedAt": "2026-08-03T09:59:26.000Z",
-          "url": "https://www.ithome.com/0/985/181.htm",
-          "image": "",
-          "verdict": "先看",
-          "takeaway": "IT之家 8 月 3 日消息，据新浪科技消息，三星手机开始收缩中国市场布局。知情人士表示， 月销售额不到 30 万元的门店，将被逐步清退 。 报道称，据不完全统计，三星手机近期关闭的门店涉及深圳、福州、郑州、西安、昆明、合肥多地。一位三星手机门店店员透露， 内部设定了每月 30 万元的销售额门槛 ，持续未达标的门店和店员将被清退。 IDC 数据显示，202…",
-          "detail": "IT之家 8 月 3 日消息，据新浪科技消息，三星手机开始收缩中国市场布局。知情人士表示， 月销售额不到 30 万元的门店，将被逐步清退 。 报道称，据不完全统计，三星手机近期关闭的门店涉及深圳、福州、郑州、西安、昆明、合肥多地。一位三星手机门店店员透露， 内部设定了每月 30 万元的销售额门槛 ，持续未达标的门店和店员将被清退。 IDC 数据显示，202…",
-          "keyPoints": [
-            "爆料来源"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",

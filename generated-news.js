@@ -1,6 +1,46 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-08-03T21:21:23.833Z",
+  "updatedAt": "2026-08-03T23:18:32.342Z",
   "news": [
+    {
+      "id": "auto-01ddfe687f25",
+      "title": "谷歌 Pixel 11 Pro 手机官方渲染图流出，外观细节抢先看",
+      "source": "IT之家",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-03",
+      "time": "23:14",
+      "publishedAt": "2026-08-03T23:14:41.000Z",
+      "url": "https://www.ithome.com/0/985/273.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/8/6985a9f7-33f5-4ab2-a3d6-ac6f095fc882.jpg?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 8 月 4 日消息，继知名爆料人埃文 · 布拉斯（Evan Blass）此前曝光据称为 Google Pixel 11 和 Pixel 11 Pro Fold 的官方宣传图后，如今 Google Pixel 11 Pro 的官方渲染图也随之流出。最新图片展示了这款旗舰手机的 Dune（沙丘色）和 Sterling（银色）两种配色，并提前揭示了新机…",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-158d2527b2e8",
+      "title": "The OnePlus US exit is now feeling very real as remaining stock evaporates",
+      "source": "Android Authority",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-03",
+      "time": "21:29",
+      "publishedAt": "2026-08-03T21:29:48.000Z",
+      "url": "https://www.androidauthority.com/oneplus-15-us-stock-almost-sold-out-3694081/",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2025/12/OnePlus-15R-vs-OnePlus-15.jpg",
+      "summary": "OnePlus has nearly sold its last US phone, with its own store empty and Amazon only offering third-party options.",
+      "tags": [
+        "OPPO",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-58fa07fe86ac",
       "title": "Google may start Pixel 11 pre-orders way sooner than expected",
@@ -722,26 +762,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-198882eba022",
-      "title": "消息称三星中国开始收缩手机布局：30 万元月销售额不达标门店，将被逐步清退",
-      "source": "IT之家",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-03",
-      "time": "09:59",
-      "publishedAt": "2026-08-03T09:59:26.000Z",
-      "url": "https://www.ithome.com/0/985/181.htm",
-      "image": "",
-      "summary": "IT之家 8 月 3 日消息，据新浪科技消息，三星手机开始收缩中国市场布局。知情人士表示， 月销售额不到 30 万元的门店，将被逐步清退 。 报道称，据不完全统计，三星手机近期关闭的门店涉及深圳、福州、郑州、西安、昆明、合肥多地。一位三星手机门店店员透露， 内部设定了每月 30 万元的销售额门槛 ，持续未达标的门店和店员将被清退。 IDC 数据显示，202…",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-9e51e266122a",
       "title": "This iPhone just survived something almost nobody would believe",
       "source": "Android Authority",
@@ -919,26 +939,6 @@ window.phoneRadarAuto = {
         "Samsung",
         "爆料",
         "微博"
-      ]
-    },
-    {
-      "id": "auto-5998192cf901",
-      "title": "The Samsung Galaxy S27 Pro won't match the Ultra's zoom",
-      "source": "Android Police",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-03",
-      "time": "06:16",
-      "publishedAt": "2026-08-03T06:16:21.000Z",
-      "url": "https://www.androidpolice.com/samsung-galaxy-s27-pro-wont-match-the-ultras-zoom/",
-      "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2026/03/galaxy-s26-ultra-camera.JPG",
-      "summary": "No 50MP 5x telephoto for the Pro",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
       ]
     },
     {
@@ -1222,6 +1222,46 @@ window.phoneRadarAuto = {
       ]
     },
     {
+      "id": "newsnow-37736403f656",
+      "title": "2020 年，回头看仍是机圈极具魔幻现实主义色彩的一年。厂商大喊 “5G 元年”，对换机用户而言却是 “涨价元年”—— 旗舰机型仿佛统一了口径，集体上调八百至一千的价格，携手迈入3999的时代。",
+      "source": "酷安热榜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-08-03",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/70266966",
+      "image": "",
+      "summary": "2020 年，回头看仍是机圈极具魔幻现实主义色彩的一年。厂商大喊 “5G 元年”，对换机用户而言却是 “涨价元年”—— 旗舰机型仿佛统一了口径，集体上调八百至一千的价格，携手迈入3999的时代。",
+      "tags": [
+        "行业",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-7de07be4b230",
+      "title": "2015年的手机圈，像一个持续升温的烤箱，骁龙810「高烧不退」 成了旗舰机绕不开的痛，中端市场也陷入同款发热困局。",
+      "source": "酷安热榜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-08-03",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/70664999",
+      "image": "",
+      "summary": "2015年的手机圈，像一个持续升温的烤箱，骁龙810「高烧不退」 成了旗舰机绕不开的痛，中端市场也陷入同款发热困局。",
+      "tags": [
+        "行业",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
       "id": "newsnow-9f2130acdf25",
       "title": "小米多款手机涨价，有旗舰机型上涨 500 元，店员称昨晚接到调价通知，购机该趁早入手还是继续观望？",
       "source": "知乎热榜",
@@ -1238,6 +1278,26 @@ window.phoneRadarAuto = {
       "tags": [
         "Xiaomi",
         "市场报告",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-5025f83a221e",
+      "title": "员工泡水2小时捞手机获表扬无奖励",
+      "source": "百度热搜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-03",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.baidu.com/s?wd=%E5%91%98%E5%B7%A5%E6%B3%A1%E6%B0%B42%E5%B0%8F%E6%97%B6%E6%8D%9E%E6%89%8B%E6%9C%BA%E8%8E%B7%E8%A1%A8%E6%89%AC%E6%97%A0%E5%A5%96%E5%8A%B1",
+      "image": "",
+      "summary": "员工泡水2小时捞手机获表扬无奖励",
+      "tags": [
+        "行业",
+        "爆料",
         "NewsNow"
       ]
     },
