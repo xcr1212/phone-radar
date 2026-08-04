@@ -1,24 +1,344 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-08-04T06:39:40.832Z",
+  "updatedAt": "2026-08-04T10:49:35.666Z",
   "news": [
     {
-      "id": "auto-085f994dfb58",
-      "title": "谷歌放出 Pixel 11 Pro Fold 折叠屏手机官方预热视频，8 月 13 日发布",
+      "id": "auto-b3873490ed07",
+      "title": "使折叠屏手机屏幕更平整，消息称三星正推进 CTG 中央蚀刻超薄玻璃技术商业化",
       "source": "IT之家",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-04",
+      "time": "10:32",
+      "publishedAt": "2026-08-04T10:32:08.000Z",
+      "url": "https://www.ithome.com/0/985/650.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/8/e2ffa0b9-2040-4a93-b558-53f5c276a843.png",
+      "summary": "IT之家 8 月 4 日消息，据 ZDNet 报道，三星显示正全力推进超薄柔性玻璃（UTG）中央区域减薄蚀刻技术的商业化。业界推测，三星电子最快可能在明年发布的折叠屏手机 Galaxy Z9 系列的部分机型上搭载 CTG（中央蚀刻超薄玻璃）。 CTG 是一种对折叠面板盖板玻璃 UTG 弯折处的中央结构层进行选择性减薄蚀刻的技术 ，也被称为“混合型 UTG”…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-57df05403125",
+      "title": "After a year with the Pixel 10 Pro, here’s why I won’t buy the Pixel 11 Pro",
+      "source": "Android Authority",
       "brand": "Pixel",
       "model": "Pixel 相关机型",
       "type": "爆料",
       "trust": "媒体汇总",
       "date": "2026-08-04",
-      "time": "06:11",
-      "publishedAt": "2026-08-04T06:11:43.000Z",
-      "url": "https://www.ithome.com/0/985/456.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/8/6b9a336e-6057-4d68-8d43-1e4b5432f636.jpg?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 8 月 4 日消息，继上周预热 Pixel 11 Pro 之后，谷歌如今又正式放出了 Pixel 11 Pro Fold 的官方预热视频。 这段时长 15 秒的视频延续了此前“Ask more of your phone（让你的手机发挥更大价值）”的宣传风格，旁白写道：“想要换一部手机，你需要拥抱新事物，也需要拥抱能够展开的一切（To switc…",
+      "time": "10:30",
+      "publishedAt": "2026-08-04T10:30:25.000Z",
+      "url": "https://www.androidauthority.com/wont-buy-pixel-11-pro-after-year-with-pixel-10-pro-3693611/",
+      "image": "",
+      "summary": "The Pixel 11 Pro may be Google's best phone yet, but there's little here to warrant an upgrade.",
       "tags": [
         "Pixel",
         "爆料",
         "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-530ad7d5612c",
+      "title": "竹本青：【鸿蒙智行回应 智界R7在上海高速起火：事故非车辆自身原因导致，未造成人员伤亡】 鸿蒙智行发言人今天发布公告：20…",
+      "source": "竹本青",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-08-04",
+      "time": "10:16",
+      "publishedAt": "2026-08-04T10:16:56.000Z",
+      "url": "https://www.coolapk.com/feed/73081067",
+      "image": "http://image.coolapk.com/feed/2026/0804/18/4248714_6dde5d62_8614_9373_413@1439x709.jpg",
+      "summary": "【鸿蒙智行回应 智界R7在上海高速起火：事故非车辆自身原因导致，未造成人员伤亡】 鸿蒙智行发言人今天发布公告：2026年8月4日，一辆智界R7在上海市S20外环高速行驶过程中发生事故，经现场人员处置后快速灭火，未造成人员伤亡。 经现场确认，事故系前方车辆行驶过程中掉落的大体积尖锐金属异物撞击自车底盘，造成强物理冲击并在摩擦过程中起火。经初步调查，事发前车辆…",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-ed271fcb8d5a",
+      "title": "The Galaxy Z Fold 8 is almost perfect. I just wish it wasn’t a foldable",
+      "source": "Android Authority",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-04",
+      "time": "10:00",
+      "publishedAt": "2026-08-04T10:00:18.000Z",
+      "url": "https://www.androidauthority.com/wish-galaxy-z-fold-8-wasnt-foldable-3693408/",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2026/07/Galaxy-Z-Fold-8-cover-display-scaled-e1785767507512-500w-260h.jpg",
+      "summary": "Samsung accidentally launched the best small phone I’ve seen in years.",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-1a1a6f265639",
+      "title": "Samsung is already making a big mistake with the Galaxy S27 Pro",
+      "source": "Android Police",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-04",
+      "time": "10:00",
+      "publishedAt": "2026-08-04T10:00:15.000Z",
+      "url": "https://www.androidpolice.com/samsung-already-making-big-mistake-galaxy-s27-pro/",
+      "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2026/02/a-samsung-galaxy-s27-pro-smartphone-render-with-the-text-s27-pro-in-the-background.png",
+      "summary": "You don't call \"Pro\" a non-Pro phone",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-cd2735d9e34d",
+      "title": "Samsung's Galaxy Z Fold 8 just did what no Galaxy S phone could",
+      "source": "Android Police",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-04",
+      "time": "09:47",
+      "publishedAt": "2026-08-04T09:47:42.000Z",
+      "url": "https://www.androidpolice.com/samsung-galaxy-z-fold-8-just-did-what-no-galaxy-s-phone-could/",
+      "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2026/07/galaxy-z-fold-8-open-books.JPG",
+      "summary": "It has received record preorder numbers",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-a957699f13bf",
+      "title": "Honor 700 series rumored to use 1.7-inch back screen",
+      "source": "Huawei Central",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-04",
+      "time": "09:44",
+      "publishedAt": "2026-08-04T09:44:20.000Z",
+      "url": "https://www.huaweicentral.com/honor-700-series-rumored-to-use-1-7-inch-back-screen/",
+      "image": "https://www.huaweicentral.com/wp-content/uploads/2026/08/Honor600-Pro.jpg",
+      "summary": "Honor has recently unveiled the new Digital smartphone series with a magnetic rear display. It looks like the company has already started upgrading this dynamic part for the upcom…",
+      "tags": [
+        "HONOR",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-ac3f956a562d",
+      "title": "Survey shows Pixel fans are losing faith in Google’s foldable phones",
+      "source": "Android Authority",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-04",
+      "time": "09:38",
+      "publishedAt": "2026-08-04T09:38:26.000Z",
+      "url": "https://www.androidauthority.com/google-pixel-fold-competitive-poll-results-3694265/",
+      "image": "",
+      "summary": "Forget the Pixel 11, Google's next foldable release could make or break the series.",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-595b33f05a1a",
+      "title": "Samsung’s new foldables just broke a record that’s stood since 2019",
+      "source": "Android Authority",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-04",
+      "time": "09:10",
+      "publishedAt": "2026-08-04T09:10:10.000Z",
+      "url": "https://www.androidauthority.com/samsung-galaxy-z-fold-8-flip-8-preorder-record-3694262/",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2026/07/Samsung-Galaxy-Z8-family-Z-Fold-8-Z-Fold-8-Ultra-Z-Flip-8-on-table.jpg",
+      "summary": "The Galaxy Z8 series did what no Galaxy flagship family has done since the Galaxy Note 10 series.",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-478d74260665",
+      "title": "荣耀 MagicOS 10 本月升级资讯发布：新增夏日主题、文件管理焕新，首批机型 8 月 6 日前推送",
+      "source": "IT之家",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-04",
+      "time": "08:47",
+      "publishedAt": "2026-08-04T08:47:36.000Z",
+      "url": "https://www.ithome.com/0/985/555.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/8/b4ab7cbb-2885-4d3d-b33c-e9e81433455e.jpg",
+      "summary": "IT之家 8 月 4 日消息，荣耀产品维护与升级 @荣耀小芳哥 今日发布了 MagicOS 10 本月升级资讯。 新版本将带来夏日主题、文件管理焕新等特性 。根据规划，各机型推送时间安排如下： 首批机型 8 月 6 日前推送： 荣耀 Magic V6 、 荣耀 Magic8 系列、荣耀 600 系列 第二批机型 8 月 7 日前推送：荣耀 Magic V5…",
+      "tags": [
+        "HONOR",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-25b019d51027",
+      "title": "Oppo A7 Pro Max vs Redmi Note 17 Pro Max: Which Battery Beast Offers Better Value?",
+      "source": "Gizmochina",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-04",
+      "time": "08:21",
+      "publishedAt": "2026-08-04T08:21:29.000Z",
+      "url": "https://www.gizmochina.com/2026/08/04/oppo-a7-pro-max-vs-redmi-note-17-pro-max/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/08/Oppo-A7-Pro-Max-vs-Redmi-Note-17-Pro-Max-300x200.png?x23692",
+      "summary": "Oppo has officially raised the bar for battery capacity in mid-range smartphones with the launch of the Oppo A7 Pro Max 5G in China. Debuting as the brand’s first phone to sport a…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-5fd54f37267f",
+      "title": "Huawei Mate 90 Pro Max may retain side-mounted fingerprint in 2026, key specs leak",
+      "source": "Gizmochina",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-04",
+      "time": "08:09",
+      "publishedAt": "2026-08-04T08:09:41.000Z",
+      "url": "https://www.gizmochina.com/2026/08/04/huawei-mate-90-pro-max-may-retain-side-mounted-fingerprint-in-2026-key-specs-leak/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/03/Screenshot-2026-03-21-191256-300x265.png?x23692",
+      "summary": "Huawei’s Mate 90 series has previously been tipped to launch in September, separate from the Mate XT2 tri-fold. A new Weibo leak has now revealed the key specs of the Huawei Mate…",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-4fd0743f2e04",
+      "title": "三星 Galaxy Z Fold8 系列手机韩国预售达 144 万台，破 Galaxy 史上最高纪录",
+      "source": "IT之家",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-04",
+      "time": "08:03",
+      "publishedAt": "2026-08-04T08:03:50.000Z",
+      "url": "https://www.ithome.com/0/985/529.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/8/3de13a77-fd0b-402c-acd4-dabd0dee93de.jpg",
+      "summary": "IT之家 8 月 4 日消息，据韩媒 Businessplus 报道，三星电子宣布， Galaxy Z Fold8 系列手机在韩国预售达 144 万台，打破了 Galaxy 史上最高预售纪录 。 报道提到，这是三星 Galaxy 有史以来最高的售前表现，远超去年 Galaxy Z fold7 系列的 104 万台，同时还超过了历史上最高成绩的 Galaxy…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-8b3a8c1212e9",
+      "title": "竹本青：酷态科将在IFA 2026带来充电解决方案与科技产品",
+      "source": "竹本青",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-08-04",
+      "time": "08:03",
+      "publishedAt": "2026-08-04T08:03:22.000Z",
+      "url": "https://www.coolapk.com/feed/73079147",
+      "image": "http://image.coolapk.com/feed/2026/0804/16/4248714_6e7cf1c5_0601_164_991@1080x1350.jpg",
+      "summary": "【酷态科官宣参展IFA 2026，将带来高性能充电解决方案与智能科技产品】 8月4日，酷态科发文官宣，品牌即将于9月亮相德国柏林IFA 2026展会。 届时，将带来高性能充电解决方案与智能科技产品。展示技术如何突破边界，连接人与设备，赋能更高效便捷的未来生活。 时间：2026年9月4日–8日 地址：德国柏林 Messe Berlin 展位：H4.2 展馆…",
+      "tags": [
+        "行业",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-48b03ac82d96",
+      "title": "Redmi K100 Pro early hands-on shows how the Snapdragon 8 Elite Gen5V handles gaming",
+      "source": "Gizmochina",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-04",
+      "time": "07:02",
+      "publishedAt": "2026-08-04T07:02:55.000Z",
+      "url": "https://www.gizmochina.com/2026/08/04/redmi-k100-pro-early-hands-on-shows-how-the-snapdragon-8-elite-gen5v-handles-gaming/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/08/Redmi-K100-Pro-Gaming-Snapdragon-8-Elite-Gen5V-300x200.jpg?x23692",
+      "summary": "Redmi just confirmed that the K100 Pro is the first phone to run the Snapdragon 8 Elite Gen5V, a trimmed-down cousin of the chip that’s inside the K100 Pro Max. Now that the phone…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-1244fc0dbfef",
+      "title": "JSCHEN小小狐：『OPPO A7 Pro Max 发布：售价 2199 元起』 8GB + 128GB —— 2199 元 8GB…",
+      "source": "JSCHEN小小狐",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-08-04",
+      "time": "07:00",
+      "publishedAt": "2026-08-04T07:00:33.000Z",
+      "url": "https://www.coolapk.com/feed/73078281",
+      "image": "http://image.coolapk.com/feed/2026/0804/15/4702274_ac73eb97_6923_1836_47@1167x7104.jpg",
+      "summary": "『OPPO A7 Pro Max 发布：售价 2199 元起』 8GB + 128GB —— 2199 元 8GB + 256GB —— 2599 元 12GB + 256GB —— 2699 元 12GB + 512GB —— 2999 元 ◇ 外观 乘风破浪、前橙似锦、远山黑 塑料中框 + 复合板材后盖 厚 8.57mm，226/224 克 多功能氛围…",
+      "tags": [
+        "OPPO",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "coolapk-user-8b1cf88dde2e",
+      "title": "竹本青：OPPO A7 Pro Max正式发布：售价2199元起",
+      "source": "竹本青",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-08-04",
+      "time": "07:00",
+      "publishedAt": "2026-08-04T07:00:17.000Z",
+      "url": "https://www.coolapk.com/feed/73078271",
+      "image": "http://image.coolapk.com/feed/2026/0804/15/4248714_9d54f143_6942_1658_682@1500x3280.jpg",
+      "summary": "【OPPO A7 Pro Max 正式发布：骁龙4 Gen5，10000mAh电池，售价2199元起】 8GB+128GB —— 2199元 12GB+256GB —— 2699元 12GB+512GB —— 2999元 核心： ● 6.78\"1.5K 120Hz OLED直屏 ● 骁龙4 Gen5处理器 ● LPDDR4X+UFS 3.1 ● 10000…",
+      "tags": [
+        "OPPO",
+        "爆料",
+        "酷安博主"
       ]
     },
     {
@@ -102,26 +422,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-c4bcb375f973",
-      "title": "员工上班玩手机被指“摸鱼”并开除：法院判决公司赔偿 11 万元、短暂放松属于正常生理心理需求",
-      "source": "IT之家",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-04",
-      "time": "05:39",
-      "publishedAt": "2026-08-04T05:39:52.000Z",
-      "url": "https://www.ithome.com/0/985/449.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/8/378603d2-24fd-46fd-b26c-ddebb63e6fcb.jpg",
-      "summary": "IT之家 8 月 4 日消息，据央视新闻今日报道，在上班族中有个流行语叫“摸鱼”，它指的是在工作时间里偷偷做跟工作没关系的事，比如玩手机、逛网站、闲聊等。在有些上班族看来，紧张的工作之余偶尔“摸鱼”放松一下，是平常不过的事。但在江苏南京上班的林某却因为这些行为被公司开除了。林某不服将公司告上法庭。 图源：Pexels 林某于 2020 年 8 月入职一家科…",
-      "tags": [
-        "行业",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-db6fcad8e1c3",
       "title": "OnePlus 16 with 9,000mAh battery enters trial production, claims tipster",
       "source": "Gizmochina",
@@ -137,66 +437,6 @@ window.phoneRadarAuto = {
       "summary": "Reliable tipster Digital Chat Station has revealed that OnePlus has already begun the trial production of its next-generation flagship, which is expected to be the OnePlus 16. Add…",
       "tags": [
         "OPPO",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "coolapk-user-04c1f0024f69",
-      "title": "竹本青：追觅手机掌舵者俞雷被曝拟离职，加入追觅不足半年",
-      "source": "竹本青",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-08-04",
-      "time": "04:32",
-      "publishedAt": "2026-08-04T04:32:18.000Z",
-      "url": "https://www.coolapk.com/feed/73076430",
-      "image": "http://image.coolapk.com/feed/2026/0804/12/4248714_3917bafa_7937_1957_80@1439x1898.jpg",
-      "summary": "【追觅手机掌舵者俞雷被曝拟离职，加入追觅系至今不足半年】 8月4日资讯，据搜狐财经昨日报道，追觅生态Eclix手机掌舵者、前金立集团全球副总裁俞雷拟从追觅系离职，目前其内部飞书账号仍未停用。 公开资料显示，俞雷曾任金立集团副总裁、喜临门家具股份有限公司副总裁等职，拥有二十余年跨国企业及本土企业管理经验。 据悉，其于2026年3月正式入职追觅旗下MOVA，任…",
-      "tags": [
-        "行业",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
-      "id": "auto-770518801c99",
-      "title": "小米 REDMI 17 5G 手机渲染图曝光：橙 / 黑 / 蓝三色，6.9 英寸 LCD 屏幕、7500mAh 电池",
-      "source": "IT之家",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-04",
-      "time": "04:30",
-      "publishedAt": "2026-08-04T04:30:59.000Z",
-      "url": "https://www.ithome.com/0/985/440.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/8/5d135afd-20cc-4581-9ef9-3c1afbfc281d.jpg",
-      "summary": "IT之家 8 月 4 日消息，科技媒体 91Mobile 昨日（8 月 3 日）发布博文，分享了一组渲染图， 展示了橙色、黑色和蓝色 3 种颜色的小米 REDMI 17 5G 手机。 颜色方面，其中比较特别的是橙色版，采用素皮材质，相比较蓝色和黑色会有更优秀的握持体验。尺寸方面，小米 REDMI 17 5G 手机为 170.12 × 74.42 × 8.8…",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-029ac49bdff0",
-      "title": "谷歌 Pixel 11 Pro XL 手机渲染图曝光：Tensor G6 芯片，5115mAh 电池",
-      "source": "IT之家",
-      "brand": "Pixel",
-      "model": "Pixel 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-04",
-      "time": "04:16",
-      "publishedAt": "2026-08-04T04:16:38.000Z",
-      "url": "https://www.ithome.com/0/985/438.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/8/3ac6c515-a386-4a36-8df9-4e6d605235f5.jpg?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 8 月 4 日消息，消息源埃文 · 布拉斯（Evan Blass）昨日（8 月 4 日）在 substack 平台发布帖子， 分享了谷歌 Pixel 11 Pro XL 手机的渲染图。 IT之家此前报道，Pixel 11 Pro XL 将配备一块 6.8 英寸 Super Actua OLED LTPO 显示屏，支持 1Hz 至 120Hz 自适…",
-      "tags": [
-        "Pixel",
         "爆料",
         "自动抓取"
       ]
@@ -219,26 +459,6 @@ window.phoneRadarAuto = {
         "Samsung",
         "爆料",
         "自动抓取"
-      ]
-    },
-    {
-      "id": "coolapk-user-3f0060c7e251",
-      "title": "JSCHEN小小狐：一加 16 电池曝光：等效 9000mAh± 双电芯",
-      "source": "JSCHEN小小狐",
-      "brand": "OPPO",
-      "model": "OPPO 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-08-04",
-      "time": "03:57",
-      "publishedAt": "2026-08-04T03:57:02.000Z",
-      "url": "https://www.coolapk.com/feed/73075880",
-      "image": "http://image.coolapk.com/feed/2026/0804/11/4702274_d7de3d31_5328_8213_913@1440x608.jpg",
-      "summary": "『一加 16 电池曝光：等效 9000mAh± 双电芯』 额定容量：2 × 4390 = 8780mAh 额定能量：33.11Wh 标称电压：7.54V 典型容量：9000mAh± ◇ 双电芯设计 ◇ 更快的满血百瓦闪充 #今日热点# #一加15# #一加15T#",
-      "tags": [
-        "OPPO",
-        "爆料",
-        "酷安博主"
       ]
     },
     {
@@ -282,66 +502,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "coolapk-user-4c6b029b01fc",
-      "title": "竹本青：【高通发布第五代骁龙8至尊版V Series：CPU规格不变，GPU计算单元缩减】 ▫️台积电 N3P工艺 ▫️第…",
-      "source": "竹本青",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-08-04",
-      "time": "02:52",
-      "publishedAt": "2026-08-04T02:52:38.000Z",
-      "url": "https://www.coolapk.com/feed/73075133",
-      "image": "http://image.coolapk.com/feed/2026/0804/10/4248714_1a28234b_2123_7608_22@600x843.jpg",
-      "summary": "【高通发布第五代骁龙8至尊版V Series：CPU规格不变，GPU计算单元缩减】 ▫️台积电 N3P工艺 ▫️第三代Oryon CPU架构 ▫️2×4.6GHz超大核 + 6×3.62GHz性能核 ▫️Adreno 840 GPU ▫️与标准版骁龙8 Elite Gen5同款GPU架构IP ▫️计算单元缩减（12CU→8CU），主频1.2GHz，保留12…",
-      "tags": [
-        "行业",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
-      "id": "auto-0ade6c89ea25",
-      "title": "消息称三星 Galaxy S27 Ultra 手机导入镜头喷墨工艺：减薄相机凸起，提高成像质量",
-      "source": "IT之家",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-04",
-      "time": "02:50",
-      "publishedAt": "2026-08-04T02:50:54.000Z",
-      "url": "https://www.ithome.com/0/985/384.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/8/039dbf37-3095-4ce6-8450-173f2449a699.png?x-bce-process=image/watermark,text_QUnnlJ_miJA,type_RlpMYW5UaW5nSGVpU0JHQg==,size_28,color_ffffffdd,skw_1,skc_00000051,g_7,blr_50,bls_50,x_11,y_11",
-      "summary": "IT之家 8 月 4 日消息，科技媒体 ZDNet Korea 昨日（8 月 3 日）发布博文，报道称在 Galaxy S27 Ultra 旗舰手机上，三星计划升级摄像头模组制造方案， 将内部反光膜替换为镜头喷墨工艺，从而降低光学模组高度，以及提高成像质量。 IT之家援引博文介绍，镜头由接收光线的区域（光学平面）、构成光学平面外侧的“棱片”以及棱片相互交错…",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "coolapk-user-9e8d93143053",
-      "title": "竹本青：荣耀MagicOS 11「液态玻璃」预热：低功耗系统级调度",
-      "source": "竹本青",
-      "brand": "HONOR",
-      "model": "HONOR 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-08-04",
-      "time": "02:15",
-      "publishedAt": "2026-08-04T02:15:41.000Z",
-      "url": "https://www.coolapk.com/feed/73074665",
-      "image": "http://image.coolapk.com/feed/2026/0804/10/4248714_8f28bf98_9739_1101_290@1080x5366.jpg",
-      "summary": "【荣耀MagicOS 11「液态玻璃」预热：低功耗系统级调度，通透度支持无极调节】 Q：MagicOS 11 液态玻璃会增加系统功耗吗? A：自研材质引擎，还原液态玻璃的真实质感；系统级调度，实现低功耗长续航的平衡。 Q：液态玻璃通透模式影响界面的可读性吗? A：可自由选择2种材质(液态玻璃/磨砂玻璃），同时通透度支持无极调节。 #今日热点# #Magic…",
-      "tags": [
-        "HONOR",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
       "id": "auto-c298bf590941",
       "title": "Xiaomi launches affordable Redmi Projector 5 Pro with 120Hz refresh, 1000 CVIA lumens & Dolby Audio",
       "source": "Gizmochina",
@@ -375,26 +535,6 @@ window.phoneRadarAuto = {
       "url": "https://www.gizmochina.com/2026/08/04/xiaomi-redmi-projector-5-launched-specs-price/",
       "image": "https://www.gizmochina.com/wp-content/uploads/2026/08/Redmi-Projector-5-300x169.png?x23692",
       "summary": "Xiaomi has introduced the Redmi Projector 5 in China as a new entry-level smart projector. It is priced at 999 yuan (around $148) and is now available through Xiaomi Youpin and JD…",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-4ad9c24e9275",
-      "title": "小米 REDMI K100 Pro 系列手机“流萤追光”配色预热：手机后盖可当作“光绘板”",
-      "source": "IT之家",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-04",
-      "time": "02:03",
-      "publishedAt": "2026-08-04T02:03:06.000Z",
-      "url": "https://www.ithome.com/0/985/327.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/8/9c32f166-5d9b-4206-b0d0-ece69f56a465.jpg",
-      "summary": "IT之家 8 月 4 日消息，REDMI 红米手机官方微博现已公布小米 REDMI K100 Pro 系列手机全新配色“流萤追光”，官方称该版本机型在玻璃与绿色油墨之间，加入特殊夜光材料，可将手机后盖变成可以自由创作的“光绘板”。 白天，是清透的新绿，夜晚，是被光唤醒的惊喜。 参考此前预热，小米 REDMI K100 Pro 系列手机将于 8 月 11 日…",
       "tags": [
         "Xiaomi",
         "爆料",
@@ -502,6 +642,26 @@ window.phoneRadarAuto = {
       ]
     },
     {
+      "id": "newsnow-20e09ff7d0db",
+      "title": "REDMI K100 Pro「流萤追光」配色亮相：特殊夜光材料，后盖可DIY创作",
+      "source": "酷安热榜",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-08-04",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/73074198",
+      "image": "",
+      "summary": "REDMI K100 Pro「流萤追光」配色亮相：特殊夜光材料，后盖可DIY创作",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
       "id": "newsnow-627f6adb64e7",
       "title": "之前一直没看懂竹知了的梗是啥，问了下小艺，小艺回答的挺中肯，不过我觉得🌸子公关团队反应这么激烈，可能是做给领导看的[流汗滑稽]#鸿蒙7# #华为Mate80ProMax# #华为PuraXMax#",
       "source": "酷安热榜",
@@ -517,6 +677,26 @@ window.phoneRadarAuto = {
       "summary": "之前一直没看懂竹知了的梗是啥，问了下小艺，小艺回答的挺中肯，不过我觉得🌸子公关团队反应这么激烈，可能是做给领导看的[流汗滑稽]#鸿蒙7# #华为Mate80ProMax# #华为PuraXMax#",
       "tags": [
         "Huawei",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-f2724dc689a0",
+      "title": "REDMI K100 Pro搭载第五代骁龙8至尊版V Series",
+      "source": "酷安热榜",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-08-04",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/73075261",
+      "image": "",
+      "summary": "REDMI K100 Pro搭载第五代骁龙8至尊版V Series",
+      "tags": [
+        "Xiaomi",
         "爆料",
         "NewsNow"
       ]
@@ -542,21 +722,21 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-20e09ff7d0db",
-      "title": "REDMI K100 Pro「流萤追光」配色亮相：特殊夜光材料，后盖可DIY创作",
+      "id": "newsnow-529899d20aaa",
+      "title": "绿泡泡美化后舒服多了，加上新字体，上班都顺眼了[滑稽]#Magisk模块# #三星GalaxyS24Ultra# #三星GalaxyS25Ultra#",
       "source": "酷安热榜",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-08-04",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73074198",
+      "url": "https://www.coolapk.com/feed/73068271",
       "image": "",
-      "summary": "REDMI K100 Pro「流萤追光」配色亮相：特殊夜光材料，后盖可DIY创作",
+      "summary": "绿泡泡美化后舒服多了，加上新字体，上班都顺眼了[滑稽]#Magisk模块# #三星GalaxyS24Ultra# #三星GalaxyS25Ultra#",
       "tags": [
-        "Xiaomi",
+        "Samsung",
         "爆料",
         "NewsNow"
       ]
@@ -1422,8 +1602,8 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-642dcd84781a",
-      "title": "Still Rocking the Galaxy S23? Here’s Where to Go From Here",
+      "id": "auto-ce67aac493ff",
+      "title": "Best phones if you’re upgrading from Samsung Galaxy S23",
       "source": "Gizmochina",
       "brand": "Samsung",
       "model": "Samsung 相关机型",
@@ -1432,71 +1612,11 @@ window.phoneRadarAuto = {
       "date": "2026-08-03",
       "time": "05:08",
       "publishedAt": "2026-08-03T05:08:04.000Z",
-      "url": "https://www.gizmochina.com/2026/08/03/still-rocking-the-galaxy-s23-heres-where-to-go-from-here/",
+      "url": "https://www.gizmochina.com/2026/08/03/best-phones-to-upgrade-from-samsung-galaxy-s23-2026/",
       "image": "https://www.gizmochina.com/wp-content/uploads/2024/11/Samsung-Galaxy-S23-5G-2-300x200.png?x23692",
       "summary": "If you bought a Galaxy S23 back in 2023, you got a genuinely great phone. But three years is a long stretch in smartphone years, and you’ve probably started noticing the cracks. M…",
       "tags": [
         "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-0e1dc6b5677c",
-      "title": "Galaxy S27 Pro telephoto camera leak brings disappointing news",
-      "source": "SamMobile",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-03",
-      "time": "04:13",
-      "publishedAt": "2026-08-03T04:13:23.000Z",
-      "url": "https://www.sammobile.com/news/galaxy-s27-pro-telephoto-camera-specs-leak/",
-      "image": "",
-      "summary": "Rumors suggest Samsung will add a new model to its flagship smartphone lineup next year: the Galaxy S27 Pro. Positioned between the Plus and Ultra variants, it is expected to brid…",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-cddc0f0abe81",
-      "title": "iQOO Neo 11S tipped to pack deeply customized Dimensity 9500 chip, 2K OLED screen, 9,000mAh battery",
-      "source": "Gizmochina",
-      "brand": "vivo",
-      "model": "vivo 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-03",
-      "time": "03:50",
-      "publishedAt": "2026-08-03T03:50:49.000Z",
-      "url": "https://www.gizmochina.com/2026/08/03/iqoo-neo11s-custom-dimensity-9500-2k-display-9000mah-battery-leak/",
-      "image": "https://www.gizmochina.com/wp-content/uploads/2026/03/iQOO-Neo-11--300x169.webp?x23692",
-      "summary": "The iQOO Neo11S appears to be getting closer to its debut, with multiple details about the upcoming performance-focused smartphone surfacing online. The latest information points…",
-      "tags": [
-        "vivo",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-e5b8eee7552f",
-      "title": "Redmi K100 Pro series brings Redmi’s most advanced display technology to date",
-      "source": "Gizmochina",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-03",
-      "time": "03:33",
-      "publishedAt": "2026-08-03T03:33:03.000Z",
-      "url": "https://www.gizmochina.com/2026/08/03/redmi-k100-pro-series-display-details-confirmed/",
-      "image": "https://www.gizmochina.com/wp-content/uploads/2026/08/Redmi-K100-series-display___-300x204.jpg?x23692",
-      "summary": "Redmi has officially lifted the curtain on one of the biggest highlights of the upcoming Redmi K100 Pro series ahead of its August 11 launch in China. The company has confirmed a…",
-      "tags": [
-        "Xiaomi",
         "爆料",
         "自动抓取"
       ]
@@ -1519,26 +1639,6 @@ window.phoneRadarAuto = {
         "Samsung",
         "评测",
         "自动抓取"
-      ]
-    },
-    {
-      "id": "weibo-eaf286c7cdaa",
-      "title": "数码闲聊站：iQOO Neo 新机摸到了，基于天玑9500深度定制，调优了联发科最新旗舰芯…",
-      "source": "数码闲聊站",
-      "brand": "vivo",
-      "model": "vivo 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-08-03",
-      "time": "01:00",
-      "publishedAt": "2026-08-03T01:00:03.000Z",
-      "url": "https://weibo.com/6048569942/RbDZavufB",
-      "image": "",
-      "summary": "iQOO Neo 新机摸到了，基于天玑9500深度定制，调优了联发科最新旗舰芯片。 新机看点是同档唯一的国产新工艺2K大屏，9字开头大电池，全面加速中[并不简单]",
-      "tags": [
-        "vivo",
-        "爆料",
-        "微博"
       ]
     },
     {
