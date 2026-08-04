@@ -1,6 +1,46 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-08-04T21:35:13.836Z",
+  "updatedAt": "2026-08-04T23:17:30.170Z",
   "news": [
+    {
+      "id": "auto-add1dc5372f7",
+      "title": "消息称苹果 iPhone 20 周年或迎设计革新：四曲面屏与更大尺寸",
+      "source": "IT之家",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-04",
+      "time": "23:10",
+      "publishedAt": "2026-08-04T23:10:59.000Z",
+      "url": "https://www.ithome.com/0/985/743.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/8/f2e28806-de72-4178-b718-56ee3abe810e.jpg?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 8 月 5 日消息，明年将迎来 iPhone 发布 20 周年，而多方传闻显示，苹果正准备为 iPhone Pro 系列带来一次激进的设计革新。最新曝光的信息还透露，新一代机型的屏幕尺寸也有望进一步增大。 2017 年，在 iPhone 发布 10 周年之际，苹果推出了具有里程碑意义的 iPhone X。 如今，多方消息称，苹果计划在明年 iPh…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-c4af5a7c581b",
+      "title": "消息称苹果在美国向零售店员工开放抽签，招募 9 月 iPhone 发布会现场秩序维护人员",
+      "source": "IT之家",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-04",
+      "time": "22:48",
+      "publishedAt": "2026-08-04T22:48:12.000Z",
+      "url": "https://www.ithome.com/0/985/734.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/8/db1fe321-e89a-4711-ab74-59632a449301.jpg?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 8 月 5 日消息，据彭博社报道，苹果近日面向美国零售店员工开放了一项内部抽签活动，招募员工参与今年 9 月举行的 iPhone 发布会现场支持工作。这也将成为即将接任苹果 CEO 的约翰 · 特努斯（John Ternus）领导下的首次大型产品发布会。 彭博社表示，目前其已查看到一份内部备忘录，显示苹果内部将此次计划称为“Event Suppo…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-2afae917d137",
       "title": "The Galaxy S26 FE sure does look like a Samsung phone in leaked images",
@@ -942,26 +982,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-d5501e32758f",
-      "title": "和妹妹闲聊我问她为啥她们女生都喜欢用苹果？她说不卡拍照好，我说现在的安卓也不卡啊，拍照甚至比它好多了，结果我妹妹说我花大几千买个安卓为啥不买个苹果？[捂脸]确实苹果给大多数人的第一印象就是不卡，之前好多同事聊苹果脱口而出的就是不卡，不过她这个机天天提示iphone需要降温，把玩了一下外放音质是确实强，再一听我的x9pro，简直就是天上地下的区别[牛牛尴尬]#数码日常#",
-      "source": "酷安热榜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-08-04",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73077782",
-      "image": "",
-      "summary": "和妹妹闲聊我问她为啥她们女生都喜欢用苹果？她说不卡拍照好，我说现在的安卓也不卡啊，拍照甚至比它好多了，结果我妹妹说我花大几千买个安卓为啥不买个苹果？[捂脸]确实苹果给大多数人的第一印象就是不卡，之前好多同事聊苹果脱口而出的就是不卡，不过她这个机天天提示iphone需要降温，把玩了一下外放音质是确实强，再一听我的x9pro，简直就是天上地下的区别[牛牛尴尬]…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
       "id": "newsnow-9b81f3ad29b6",
       "title": "2020 年，回头看仍是机圈极具魔幻现实主义色彩的一年。厂商大喊 “5G 元年”，对换机用户而言却是 “涨价元年”—— 旗舰机型仿佛统一了口径，集体上调八百至一千的价格，携手迈入3999的时代。",
       "source": "酷安热榜",
@@ -982,19 +1002,39 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-146e8407c593",
-      "title": "印度新机场刚落成就变“游乐场”",
-      "source": "今日头条热榜",
-      "brand": "行业",
-      "model": "智能手机市场",
+      "id": "newsnow-8664f62362f3",
+      "title": "难以想象有一天，我居然会在酷安写一篇iPhone的文章。工作、孩子强度库库的上，思维也变得懒惰、僵化，以前写文章思如泉涌，现在只能用一周多的时间零零散散构思，不蹭热度，全文没有硬核的参数对比和严谨的对照实验，毕竟头部数码博主都给测完了。只想在喧嚣过后和大家聊一聊，在我的使用场景和主观视角下的Air。",
+      "source": "酷安热榜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
       "type": "爆料",
-      "trust": "媒体汇总",
+      "trust": "高关注爆料源",
       "date": "2026-08-04",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.toutiao.com/trending/7669666043934277674/",
+      "url": "https://www.coolapk.com/feed/68295165",
       "image": "",
-      "summary": "印度新机场刚落成就变“游乐场”",
+      "summary": "难以想象有一天，我居然会在酷安写一篇iPhone的文章。工作、孩子强度库库的上，思维也变得懒惰、僵化，以前写文章思如泉涌，现在只能用一周多的时间零零散散构思，不蹭热度，全文没有硬核的参数对比和严谨的对照实验，毕竟头部数码博主都给测完了。只想在喧嚣过后和大家聊一聊，在我的使用场景和主观视角下的Air。",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-fd66533c9f50",
+      "title": "2015年的手机圈，像一个持续升温的烤箱，骁龙810「高烧不退」 成了旗舰机绕不开的痛，中端市场也陷入同款发热困局。",
+      "source": "酷安热榜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-08-04",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/70664999",
+      "image": "",
+      "summary": "2015年的手机圈，像一个持续升温的烤箱，骁龙810「高烧不退」 成了旗舰机绕不开的痛，中端市场也陷入同款发热困局。",
       "tags": [
         "行业",
         "爆料",
@@ -1639,26 +1679,6 @@ window.phoneRadarAuto = {
         "行业",
         "爆料",
         "微博"
-      ]
-    },
-    {
-      "id": "auto-a335f55d37a8",
-      "title": "Galaxy S26 FE case leak shows off Samsung’s next affordable flagship in two shades",
-      "source": "Android Authority",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-03",
-      "time": "07:39",
-      "publishedAt": "2026-08-03T07:39:05.000Z",
-      "url": "https://www.androidauthority.com/samsung-galaxy-s26-fe-cases-leak-3693668/",
-      "image": "https://www.androidauthority.com/wp-content/uploads/2025/09/Samsung-Galaxy-S25-FE-rear-cameras-scaled-1-scaled.jpg",
-      "summary": "Which shade is your favorite?",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
       ]
     },
     {

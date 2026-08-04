@@ -1,12 +1,12 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-08-04T21:35:13.836Z",
+  "updatedAt": "2026-08-04T23:17:30.170Z",
   "issueDate": "2026-08-04",
   "issue": "VOL.260804",
   "title": "手机情报日报",
-  "intro": "今日筛出 8 条重点，其中 8 条是重点爆料，包含 4 条 iPhone 相关、0 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 8 条重点，其中 8 条是重点爆料，包含 6 条 iPhone 相关、0 条官方确认、0 条参数线索。",
   "stats": {
     "total": 8,
-    "iphone": 4,
+    "iphone": 6,
     "leaks": 8,
     "official": 0,
     "specs": 0
@@ -17,6 +17,54 @@ window.phoneRadarDaily = {
       "title": "重点爆料",
       "hint": "机模、配色、影像、屏幕、电池和芯片线索先看。",
       "items": [
+        {
+          "id": "auto-add1dc5372f7",
+          "title": "消息称苹果 iPhone 20 周年或迎设计革新：四曲面屏与更大尺寸",
+          "originalTitle": "",
+          "source": "IT之家",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-08-04",
+          "time": "23:10",
+          "publishedAt": "2026-08-04T23:10:59.000Z",
+          "url": "https://www.ithome.com/0/985/743.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/8/f2e28806-de72-4178-b718-56ee3abe810e.jpg?x-bce-process=image/format,f_auto",
+          "verdict": "先看",
+          "takeaway": "IT之家 8 月 5 日消息，明年将迎来 iPhone 发布 20 周年，而多方传闻显示，苹果正准备为 iPhone Pro 系列带来一次激进的设计革新。最新曝光的信息还透露，新一代机型的屏幕尺寸也有望进一步增大。 2017 年，在 iPhone 发布 10 周年之际，苹果推出了具有里程碑意义的 iPhone X。 如今，多方消息称，苹果计划在明年 iPh…",
+          "detail": "IT之家 8 月 5 日消息，明年将迎来 iPhone 发布 20 周年，而多方传闻显示，苹果正准备为 iPhone Pro 系列带来一次激进的设计革新。最新曝光的信息还透露，新一代机型的屏幕尺寸也有望进一步增大。 2017 年，在 iPhone 发布 10 周年之际，苹果推出了具有里程碑意义的 iPhone X。 如今，多方消息称，苹果计划在明年 iPh…",
+          "keyPoints": [
+            "外观 / 配色 / 尺寸",
+            "屏幕形态",
+            "爆料来源"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "auto-c4af5a7c581b",
+          "title": "消息称苹果在美国向零售店员工开放抽签，招募 9 月 iPhone 发布会现场秩序维护人员",
+          "originalTitle": "",
+          "source": "IT之家",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-08-04",
+          "time": "22:48",
+          "publishedAt": "2026-08-04T22:48:12.000Z",
+          "url": "https://www.ithome.com/0/985/734.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/8/db1fe321-e89a-4711-ab74-59632a449301.jpg?x-bce-process=image/format,f_auto",
+          "verdict": "先看",
+          "takeaway": "IT之家 8 月 5 日消息，据彭博社报道，苹果近日面向美国零售店员工开放了一项内部抽签活动，招募员工参与今年 9 月举行的 iPhone 发布会现场支持工作。这也将成为即将接任苹果 CEO 的约翰 · 特努斯（John Ternus）领导下的首次大型产品发布会。 彭博社表示，目前其已查看到一份内部备忘录，显示苹果内部将此次计划称为“Event Suppo…",
+          "detail": "IT之家 8 月 5 日消息，据彭博社报道，苹果近日面向美国零售店员工开放了一项内部抽签活动，招募员工参与今年 9 月举行的 iPhone 发布会现场支持工作。这也将成为即将接任苹果 CEO 的约翰 · 特努斯（John Ternus）领导下的首次大型产品发布会。 彭博社表示，目前其已查看到一份内部备忘录，显示苹果内部将此次计划称为“Event Suppo…",
+          "keyPoints": [
+            "爆料来源"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
         {
           "id": "weibo-b9d24367e002",
           "title": "数码闲聊站：一条独家超前瞻信息： 苹果正在打样两块新屏，一块物理尺寸6.4英寸±，有概率运…",
@@ -158,53 +206,6 @@ window.phoneRadarDaily = {
             "成本 / 价格"
           ],
           "confidence": "可信度较高，但仍属于发布前线索。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "coolapk-user-3f0060c7e251",
-          "title": "JSCHEN小小狐：一加 16 电池曝光：等效 9000mAh± 双电芯",
-          "originalTitle": "",
-          "source": "JSCHEN小小狐",
-          "brand": "OPPO",
-          "type": "爆料",
-          "trust": "高可信爆料",
-          "date": "2026-08-04",
-          "time": "03:57",
-          "publishedAt": "2026-08-04T03:57:02.000Z",
-          "url": "https://www.coolapk.com/feed/73075880",
-          "image": "http://image.coolapk.com/feed/2026/0804/11/4702274_d7de3d31_5328_8213_913@1440x608.jpg",
-          "verdict": "先看",
-          "takeaway": "『一加 16 电池曝光：等效 9000mAh± 双电芯』 额定容量：2 × 4390 = 8780mAh 额定能量：33.11Wh 标称电压：7.54V 典型容量：9000mAh± ◇ 双电芯设计 ◇ 更快的满血百瓦闪充 #今日热点# #一加15# #一加15T#",
-          "detail": "『一加 16 电池曝光：等效 9000mAh± 双电芯』 额定容量：2 × 4390 = 8780mAh 额定能量：33.11Wh 标称电压：7.54V 典型容量：9000mAh± ◇ 双电芯设计 ◇ 更快的满血百瓦闪充 #今日热点# #一加15# #一加15T#",
-          "keyPoints": [
-            "电池 / 充电"
-          ],
-          "confidence": "可信度较高，但仍属于发布前线索。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "auto-21732c1531e3",
-          "title": "vivo 机模 / 配色信息曝光",
-          "originalTitle": "",
-          "source": "Gizmochina",
-          "brand": "vivo",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-08-03",
-          "time": "10:35",
-          "publishedAt": "2026-08-03T10:35:26.000Z",
-          "url": "https://www.gizmochina.com/2026/08/03/iqoo-z11-india-variant-design-colours-specifications-revealed/",
-          "image": "https://www.gizmochina.com/wp-content/uploads/2026/08/iQOO-Z11-design-1-1-300x124.jpg?x23692",
-          "verdict": "先看",
-          "takeaway": "vivo 机模 / 配色信息曝光。重点看外观、颜色、尺寸是否和上一代有明显变化。",
-          "detail": "vivo 机模 / 配色信息曝光。来源提到未发布机型的机模/配色图，适合先判断外观方向、颜色变化和机身轮廓，但最终量产版本仍可能调整。",
-          "keyPoints": [
-            "外观 / 配色 / 尺寸",
-            "影像硬件"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         }
