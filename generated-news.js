@@ -1,24 +1,244 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-08-04T14:38:22.074Z",
+  "updatedAt": "2026-08-04T18:02:41.351Z",
   "news": [
     {
-      "id": "coolapk-user-c3d900935a1f",
-      "title": "竹本青：鸿蒙智行回应“竹知了” #今日热点# #鸿蒙智行#",
-      "source": "竹本青",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
+      "id": "auto-24e16e8bd6db",
+      "title": "Samsung cites ‘high demand’ as some Galaxy Z Fold 8 deliveries are delayed",
+      "source": "Android Authority",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
       "type": "爆料",
-      "trust": "高可信爆料",
+      "trust": "媒体汇总",
       "date": "2026-08-04",
-      "time": "14:35",
-      "publishedAt": "2026-08-04T14:35:27.000Z",
-      "url": "https://www.coolapk.com/feed/73084625",
-      "image": "http://image.coolapk.com/feed/2026/0804/22/4248714_0e87b379_4125_9475_619@1440x1753.jpg",
-      "summary": "鸿蒙智行回应“竹知了” #今日热点# #鸿蒙智行#",
+      "time": "17:39",
+      "publishedAt": "2026-08-04T17:39:05.000Z",
+      "url": "https://www.androidauthority.com/samsung-galaxy-z-fold-8-shipping-delays-3694505/",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2026/07/Galaxy-Z-Fold-8-back-scaled-e1785767275835-500w-260h.jpg",
+      "summary": "People seem to love that new shape.",
       "tags": [
-        "Huawei",
+        "Samsung",
         "爆料",
-        "酷安博主"
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-f2dc227da545",
+      "title": "Last chance! Samsung's Galaxy Z Fold 8 preorder deal could get you the foldable for as little as $699.99, but you're running out of time",
+      "source": "Android Central",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-08-04",
+      "time": "17:25",
+      "publishedAt": "2026-08-04T17:25:40.000Z",
+      "url": "https://www.androidcentral.com/phones/samsung-galaxy/samsung-galaxy-z-fold-8-z-flip-8-preorder-deal-last-chance-samsung",
+      "image": "https://cdn.mos.cms.futurecdn.net/QJAUoqhqJeTsCsQFyFrwzF-1280-80.jpg",
+      "summary": "The Galaxy Z Fold 8 and Z Fold 8 Ultra hit store shelves on August 7th, but you can still enjoy some hefty trade-in discounts if you buy from Samsung.",
+      "tags": [
+        "Samsung",
+        "评测",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-40cec9daf3ad",
+      "title": "Apple just revealed a clue about its September iPhone event date",
+      "source": "9to5Mac",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-04",
+      "time": "17:24",
+      "publishedAt": "2026-08-04T17:24:17.000Z",
+      "url": "https://9to5mac.com/2026/08/04/apple-just-revealed-a-clue-about-its-september-iphone-event-date/",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2021/02/apple-domain-northside-2.jpg?quality=82&strip=all&w=1600",
+      "summary": "We’re just weeks away from the launch of the iPhone 18 Pro and iPhone Fold , and preparations inside Apple are well underway. A new report from Bloomberg says that Apple is openin…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-33de5fe3d91f",
+      "title": "Apple Starts Preparing for September iPhone Event",
+      "source": "MacRumors",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-04",
+      "time": "17:18",
+      "publishedAt": "2026-08-04T17:18:14.000Z",
+      "url": "https://www.macrumors.com/2026/08/04/apple-september-iphone-event-preparation/",
+      "image": "https://images.macrumors.com/article-new/2026/04/iPhone-18-Pro-Rumored-Colors.jpg",
+      "summary": "Apple is getting ready for its big September iPhone event, which is expected to see the debut of the iPhone 18 Pro , &zwnj;iPhone 18 Pro&zwnj; Max, and an all-new foldable iPhone.…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-4e19e7c62704",
+      "title": "Samsung’s next foldable display trick could make creases much less noticeable",
+      "source": "Android Authority",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-04",
+      "time": "16:57",
+      "publishedAt": "2026-08-04T16:57:01.000Z",
+      "url": "https://www.androidauthority.com/samsung-ctg-foldable-display-3694523/",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2026/07/Z-Fold-8-1-week-later.jpg",
+      "summary": "A redesigned ultra-thin glass layer could make future Galaxy Z Folds flatter and tougher.",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-58e723c98143",
+      "title": "Fresh Pixel 11 series leak reveals thinner camera bar and 30-hour battery",
+      "source": "Android Authority",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-04",
+      "time": "16:23",
+      "publishedAt": "2026-08-04T16:23:52.000Z",
+      "url": "https://www.androidauthority.com/pixel-11-series-marketing-materials-3694475/",
+      "image": "",
+      "summary": "Pixel 11 and Pro Fold get exposed once again ahead of launch.",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-c6a6b6217c67",
+      "title": "Should you buy a new phone now, or wait for the Pixel 11? [Video]",
+      "source": "9to5Google",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-04",
+      "time": "16:00",
+      "publishedAt": "2026-08-04T16:00:00.000Z",
+      "url": "https://9to5google.com/2026/08/04/should-you-buy-a-new-phone-now-or-wait-for-the-pixel-11-video/",
+      "image": "",
+      "summary": "In just over a week, there will be a new Google phone, but with the industry in an odd place, should you wait for the Pixel 11 or just get something else? Find out here.",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-349e7101a358",
+      "title": "Samsung starts notifying Galaxy S26 Ultra owners about red screen fix",
+      "source": "Android Authority",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-04",
+      "time": "15:50",
+      "publishedAt": "2026-08-04T15:50:11.000Z",
+      "url": "https://www.androidauthority.com/galaxy-s26-ultra-red-tint-calibration-fix-3694415/",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2026/05/Samsung-Galaxy-S26-Ultra-showing-One-UI-lock-screen.jpg",
+      "summary": "The manufacturer still doesn’t have a date for the remote software update that would fix this problem.",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-6eaa50882f87",
+      "title": "iPhone 18 Pro will have three upgrades that have been rumored for years",
+      "source": "9to5Mac",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-04",
+      "time": "15:28",
+      "publishedAt": "2026-08-04T15:28:28.000Z",
+      "url": "https://9to5mac.com/2026/08/04/iphone-18-pro-will-have-three-upgrades-that-have-been-rumored-for-years/",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/iphone-17-pro-blue-camera-array.jpg?quality=82&strip=all&w=1600",
+      "summary": "iPhone 18 Pro is coming very soon , and expected to feature three upgrades that have been rumored for years. Here’s what’s coming.",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-7758d415a292",
+      "title": "I was worried about the Galaxy Z Fold 8 cover screen until I changed one setting",
+      "source": "SamMobile",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-04",
+      "time": "14:53",
+      "publishedAt": "2026-08-04T14:53:03.000Z",
+      "url": "https://www.sammobile.com/opinion/worried-about-galaxy-z-fold-8-cover-screen-changed-one-setting/",
+      "image": "https://www.sammobile.com/wp-content/uploads/2026/08/Screenshot_20260803_163439_Amazon-Music-1.jpg",
+      "summary": "When I got the Galaxy Z Fold 8, I was curious to see how apps would adapt to its new cover display. Samsung has moved to a wider and shorter form factor, and I was worried that so…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-dff93354de9a",
+      "title": "Apple is working on iPhone-to-Windows copy-paste",
+      "source": "The Verge",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-04",
+      "time": "14:42",
+      "publishedAt": "2026-08-04T14:42:31.000Z",
+      "url": "https://www.theverge.com/tech/975020/apple-windows-pc-copy-paste-eu",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/257946_iPhone_17_AKrales_0313.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "summary": "Apple is working on a feature that will allow users in the European Union to copy content on their iPhone and paste it onto their Windows PC (or vice versa), as spotted earlier by…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-9ed86846506a",
+      "title": "Bigger Displays Rumored for Next Year's iPhone Models",
+      "source": "MacRumors",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-04",
+      "time": "14:40",
+      "publishedAt": "2026-08-04T14:40:29.000Z",
+      "url": "https://www.macrumors.com/2026/08/04/bigger-displays-rumored-for-next-year-iphones/",
+      "image": "https://images.macrumors.com/article-new/2026/07/iphone-20-anniversary.jpg",
+      "summary": "Apple is prototyping a second new iPhone display, this one measuring around 6.4 inches, that could be destined for the 20th anniversary iPhone, according to a Chinese leaker. In a…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
       ]
     },
     {
@@ -142,26 +362,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "coolapk-user-7b8baed331b8",
-      "title": "竹本青：【影石 X6全景相机新品发布会定档8月12日】 8月4日，影石官方宣布，公司十年之作——X6 全景相机即将于8月1…",
-      "source": "竹本青",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-08-04",
-      "time": "12:42",
-      "publishedAt": "2026-08-04T12:42:46.000Z",
-      "url": "https://www.coolapk.com/feed/73083032",
-      "image": "http://image.coolapk.com/feed/2026/0804/20/4248714_640adf04_7365_7881_969@1920x1080.jpg",
-      "summary": "【影石 X6全景相机新品发布会定档8月12日】 8月4日，影石官方宣布，公司十年之作——X6 全景相机即将于8月12日正式发布。 据此前外媒爆料，全新X6支持录制8K 30fps全景视频，内置2600mAh电池，提供可拆换镜片等功能。 作为参考，上代X5全景相机于去年4月下旬发布，售价3798元起。 #今日热点# #影石Insta360# #影石Insta…",
-      "tags": [
-        "行业",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
       "id": "auto-344a9a91d657",
       "title": "I spent 2 weeks with the Galaxy Z Fold 8. Now I want every foldable this wide",
       "source": "Android Police",
@@ -262,26 +462,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-b3873490ed07",
-      "title": "使折叠屏手机屏幕更平整，消息称三星正推进 CTG 中央蚀刻超薄玻璃技术商业化",
-      "source": "IT之家",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-04",
-      "time": "10:32",
-      "publishedAt": "2026-08-04T10:32:08.000Z",
-      "url": "https://www.ithome.com/0/985/650.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/8/e2ffa0b9-2040-4a93-b558-53f5c276a843.png",
-      "summary": "IT之家 8 月 4 日消息，据 ZDNet 报道，三星显示正全力推进超薄柔性玻璃（UTG）中央区域减薄蚀刻技术的商业化。业界推测，三星电子最快可能在明年发布的折叠屏手机 Galaxy Z9 系列的部分机型上搭载 CTG（中央蚀刻超薄玻璃）。 CTG 是一种对折叠面板盖板玻璃 UTG 弯折处的中央结构层进行选择性减薄蚀刻的技术 ，也被称为“混合型 UTG”…",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-57df05403125",
       "title": "After a year with the Pixel 10 Pro, here’s why I won’t buy the Pixel 11 Pro",
       "source": "Android Authority",
@@ -355,26 +535,6 @@ window.phoneRadarAuto = {
       "url": "https://www.androidpolice.com/samsung-already-making-big-mistake-galaxy-s27-pro/",
       "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2026/02/a-samsung-galaxy-s27-pro-smartphone-render-with-the-text-s27-pro-in-the-background.png",
       "summary": "You don't call \"Pro\" a non-Pro phone",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-cd2735d9e34d",
-      "title": "Samsung's Galaxy Z Fold 8 just did what no Galaxy S phone could",
-      "source": "Android Police",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-04",
-      "time": "09:47",
-      "publishedAt": "2026-08-04T09:47:42.000Z",
-      "url": "https://www.androidpolice.com/samsung-galaxy-z-fold-8-just-did-what-no-galaxy-s-phone-could/",
-      "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2026/07/galaxy-z-fold-8-open-books.JPG",
-      "summary": "It has received record preorder numbers",
       "tags": [
         "Samsung",
         "爆料",
@@ -479,26 +639,6 @@ window.phoneRadarAuto = {
         "Huawei",
         "爆料",
         "自动抓取"
-      ]
-    },
-    {
-      "id": "coolapk-user-8b3a8c1212e9",
-      "title": "竹本青：酷态科将在IFA 2026带来充电解决方案与科技产品",
-      "source": "竹本青",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-08-04",
-      "time": "08:03",
-      "publishedAt": "2026-08-04T08:03:22.000Z",
-      "url": "https://www.coolapk.com/feed/73079147",
-      "image": "http://image.coolapk.com/feed/2026/0804/16/4248714_6e7cf1c5_0601_164_991@1080x1350.jpg",
-      "summary": "【酷态科官宣参展IFA 2026，将带来高性能充电解决方案与智能科技产品】 8月4日，酷态科发文官宣，品牌即将于9月亮相德国柏林IFA 2026展会。 届时，将带来高性能充电解决方案与智能科技产品。展示技术如何突破边界，连接人与设备，赋能更高效便捷的未来生活。 时间：2026年9月4日–8日 地址：德国柏林 Messe Berlin 展位：H4.2 展馆…",
-      "tags": [
-        "行业",
-        "爆料",
-        "酷安博主"
       ]
     },
     {
@@ -682,26 +822,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "weibo-238a151e95ec",
-      "title": "数码闲聊站：加加迭代新机已经开始试产了，4390*2=8780mAh min，额定能量33…",
-      "source": "数码闲聊站",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-08-04",
-      "time": "03:09",
-      "publishedAt": "2026-08-04T03:09:00.000Z",
-      "url": "https://weibo.com/6048569942/RbOg0xBPG",
-      "image": "",
-      "summary": "加加迭代新机已经开始试产了，4390*2=8780mAh min，额定能量33.11Wh，标称电压7.54V，双电芯等效容量9000mAh±Typ，支持更快的满血百瓦闪充，大电池和闪充两手抓，这套方案够用吧[NO]",
-      "tags": [
-        "行业",
-        "爆料",
-        "微博"
-      ]
-    },
-    {
       "id": "auto-c298bf590941",
       "title": "Xiaomi launches affordable Redmi Projector 5 Pro with 120Hz refresh, 1000 CVIA lumens & Dolby Audio",
       "source": "Gizmochina",
@@ -862,26 +982,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-627f6adb64e7",
-      "title": "之前一直没看懂竹知了的梗是啥，问了下小艺，小艺回答的挺中肯，不过我觉得🌸子公关团队反应这么激烈，可能是做给领导看的[流汗滑稽]#鸿蒙7# #华为Mate80ProMax# #华为PuraXMax#",
-      "source": "酷安热榜",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-08-04",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73061988",
-      "image": "",
-      "summary": "之前一直没看懂竹知了的梗是啥，问了下小艺，小艺回答的挺中肯，不过我觉得🌸子公关团队反应这么激烈，可能是做给领导看的[流汗滑稽]#鸿蒙7# #华为Mate80ProMax# #华为PuraXMax#",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
       "id": "newsnow-f2724dc689a0",
       "title": "REDMI K100 Pro搭载第五代骁龙8至尊版V Series",
       "source": "酷安热榜",
@@ -902,6 +1002,26 @@ window.phoneRadarAuto = {
       ]
     },
     {
+      "id": "newsnow-627f6adb64e7",
+      "title": "之前一直没看懂竹知了的梗是啥，问了下小艺，小艺回答的挺中肯，不过我觉得🌸子公关团队反应这么激烈，可能是做给领导看的[流汗滑稽]#鸿蒙7# #华为Mate80ProMax# #华为PuraXMax#",
+      "source": "酷安热榜",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-08-04",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/73061988",
+      "image": "",
+      "summary": "之前一直没看懂竹知了的梗是啥，问了下小艺，小艺回答的挺中肯，不过我觉得🌸子公关团队反应这么激烈，可能是做给领导看的[流汗滑稽]#鸿蒙7# #华为Mate80ProMax# #华为PuraXMax#",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
       "id": "newsnow-529899d20aaa",
       "title": "绿泡泡美化后舒服多了，加上新字体，上班都顺眼了[滑稽]#Magisk模块# #三星GalaxyS24Ultra# #三星GalaxyS25Ultra#",
       "source": "酷安热榜",
@@ -917,26 +1037,6 @@ window.phoneRadarAuto = {
       "summary": "绿泡泡美化后舒服多了，加上新字体，上班都顺眼了[滑稽]#Magisk模块# #三星GalaxyS24Ultra# #三星GalaxyS25Ultra#",
       "tags": [
         "Samsung",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-146e8407c593",
-      "title": "印度新机场刚落成就变“游乐场”",
-      "source": "今日头条热榜",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-04",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.toutiao.com/trending/7669666043934277674/",
-      "image": "",
-      "summary": "印度新机场刚落成就变“游乐场”",
-      "tags": [
-        "行业",
         "爆料",
         "NewsNow"
       ]
@@ -1718,26 +1818,6 @@ window.phoneRadarAuto = {
       "tags": [
         "行业",
         "评测",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-ce67aac493ff",
-      "title": "Best phones if you’re upgrading from Samsung Galaxy S23",
-      "source": "Gizmochina",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-03",
-      "time": "05:08",
-      "publishedAt": "2026-08-03T05:08:04.000Z",
-      "url": "https://www.gizmochina.com/2026/08/03/best-phones-to-upgrade-from-samsung-galaxy-s23-2026/",
-      "image": "https://www.gizmochina.com/wp-content/uploads/2024/11/Samsung-Galaxy-S23-5G-2-300x200.png?x23692",
-      "summary": "If you bought a Galaxy S23 back in 2023, you got a genuinely great phone. But three years is a long stretch in smartphone years, and you’ve probably started noticing the cracks. M…",
-      "tags": [
-        "Samsung",
-        "爆料",
         "自动抓取"
       ]
     },

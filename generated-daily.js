@@ -1,12 +1,12 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-08-04T14:38:22.074Z",
+  "updatedAt": "2026-08-04T18:02:41.351Z",
   "issueDate": "2026-08-04",
   "issue": "VOL.260804",
   "title": "手机情报日报",
-  "intro": "今日筛出 8 条重点，其中 8 条是重点爆料，包含 3 条 iPhone 相关、0 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 8 条重点，其中 8 条是重点爆料，包含 4 条 iPhone 相关、0 条官方确认、0 条参数线索。",
   "stats": {
     "total": 8,
-    "iphone": 3,
+    "iphone": 4,
     "leaks": 8,
     "official": 0,
     "specs": 0
@@ -42,23 +42,45 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
-          "id": "auto-f19640a7f1e9",
-          "title": "iPhone 屏幕规格相关消息",
+          "id": "auto-33de5fe3d91f",
+          "title": "iPhone 相关消息",
           "originalTitle": "",
-          "source": "9to5Mac",
+          "source": "MacRumors",
           "brand": "iPhone",
           "type": "爆料",
           "trust": "媒体汇总",
           "date": "2026-08-04",
-          "time": "13:34",
-          "publishedAt": "2026-08-04T13:34:44.000Z",
-          "url": "https://9to5mac.com/2026/08/04/next-years-iphone-pro-models-will-have-larger-screen-sizes-per-leak/",
-          "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/05/iphone-19-pro-20-anniversary-max.jpg?quality=82&strip=all&w=1600",
+          "time": "17:18",
+          "publishedAt": "2026-08-04T17:18:14.000Z",
+          "url": "https://www.macrumors.com/2026/08/04/apple-september-iphone-event-preparation/",
+          "image": "https://images.macrumors.com/article-new/2026/04/iPhone-18-Pro-Rumored-Colors.jpg",
+          "verdict": "先看",
+          "takeaway": "iPhone 相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
+          "detail": "iPhone 相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "auto-9ed86846506a",
+          "title": "iPhone 屏幕规格相关消息",
+          "originalTitle": "",
+          "source": "MacRumors",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-08-04",
+          "time": "14:40",
+          "publishedAt": "2026-08-04T14:40:29.000Z",
+          "url": "https://www.macrumors.com/2026/08/04/bigger-displays-rumored-for-next-year-iphones/",
+          "image": "https://images.macrumors.com/article-new/2026/07/iphone-20-anniversary.jpg",
           "verdict": "先看",
           "takeaway": "iPhone 屏幕规格相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
           "detail": "iPhone 屏幕规格相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
           "keyPoints": [
-            "外观 / 配色 / 尺寸",
             "屏幕形态",
             "爆料来源"
           ],
@@ -84,30 +106,6 @@ window.phoneRadarDaily = {
           "detail": "iPhone 外观设计线索曝光。这类内容主要看外观设计、按键布局、相机模组和尺寸变化，后续最好等更多渲染图或保护壳线索互相验证。",
           "keyPoints": [
             "外观 / 配色 / 尺寸",
-            "爆料来源"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "auto-b3873490ed07",
-          "title": "使折叠屏手机屏幕更平整，消息称三星正推进 CTG 中央蚀刻超薄玻璃技术商业化",
-          "originalTitle": "",
-          "source": "IT之家",
-          "brand": "Samsung",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-08-04",
-          "time": "10:32",
-          "publishedAt": "2026-08-04T10:32:08.000Z",
-          "url": "https://www.ithome.com/0/985/650.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/8/e2ffa0b9-2040-4a93-b558-53f5c276a843.png",
-          "verdict": "先看",
-          "takeaway": "IT之家 8 月 4 日消息，据 ZDNet 报道，三星显示正全力推进超薄柔性玻璃（UTG）中央区域减薄蚀刻技术的商业化。业界推测，三星电子最快可能在明年发布的折叠屏手机 Galaxy Z9 系列的部分机型上搭载 CTG（中央蚀刻超薄玻璃）。 CTG 是一种对折叠面板盖板玻璃 UTG 弯折处的中央结构层进行选择性减薄蚀刻的技术 ，也被称为“混合型 UTG”…",
-          "detail": "IT之家 8 月 4 日消息，据 ZDNet 报道，三星显示正全力推进超薄柔性玻璃（UTG）中央区域减薄蚀刻技术的商业化。业界推测，三星电子最快可能在明年发布的折叠屏手机 Galaxy Z9 系列的部分机型上搭载 CTG（中央蚀刻超薄玻璃）。 CTG 是一种对折叠面板盖板玻璃 UTG 弯折处的中央结构层进行选择性减薄蚀刻的技术 ，也被称为“混合型 UTG”…",
-          "keyPoints": [
-            "屏幕形态",
             "爆料来源"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
