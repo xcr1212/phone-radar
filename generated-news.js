@@ -1,6 +1,86 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-08-04T18:02:41.351Z",
+  "updatedAt": "2026-08-04T19:55:04.246Z",
   "news": [
+    {
+      "id": "auto-6e030ea6612d",
+      "title": "Google’s August Pixel update is here and ready to squash some bugs",
+      "source": "Android Authority",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-04",
+      "time": "19:23",
+      "publishedAt": "2026-08-04T19:23:36.000Z",
+      "url": "https://www.androidauthority.com/august-google-pixel-update-3694556/",
+      "image": "",
+      "summary": "On Pixel 10, at least.",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-8898093988ce",
+      "title": "Galaxy S27 Ultra to use inkjet lens printing across all three rear cameras",
+      "source": "Gizmochina",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-04",
+      "time": "19:19",
+      "publishedAt": "2026-08-04T19:19:04.000Z",
+      "url": "https://www.gizmochina.com/2026/08/04/galaxy-s27-ultra-to-use-inkjet-lens-printing-across-all-three-rear-cameras/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/07/Samsung-Galaxy-S27-Ultra-Ai-render-1024x577-1-1-300x169.webp?x23692",
+      "summary": "Reports suggest the Galaxy S27 Ultra will keep and expand a specialized manufacturing technique that first showed up on the current Ultra, with the goal of better image quality an…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-bbffd0221de7",
+      "title": "These Apple products are likely getting more expensive next month",
+      "source": "9to5Mac",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-04",
+      "time": "19:06",
+      "publishedAt": "2026-08-04T19:06:12.000Z",
+      "url": "https://9to5mac.com/2026/08/04/these-apple-products-are-likely-getting-more-expensive-next-month/",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/iphone-17-pro-silver-airpods-pro-3-watch-ultra-3.jpg?quality=82&strip=all&w=1600",
+      "summary": "Apple recently raised prices across much of its product lineup, but even more increases are expected next month for iPhone and more.",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-f79c999f327b",
+      "title": "Hands-on: GAMEBABY’s new translucent case turns your iPhone into a Game Boy with real buttons",
+      "source": "9to5Mac",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-04",
+      "time": "18:30",
+      "publishedAt": "2026-08-04T18:30:00.000Z",
+      "url": "https://9to5mac.com/2026/08/04/hands-on-gamebabys-new-translucent-case-turns-your-iphone-into-a-game-boy-with-real-buttons/",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/GAMEBABY-FI.jpg?quality=82&strip=all&w=1600",
+      "summary": "One of my favorite iPhone cases is back with a new look. I have used the previous generations of BitmoLab’s GAMEBABY case and immediately loved it. It felt like an accessory purpo…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-24e16e8bd6db",
       "title": "Samsung cites ‘high demand’ as some Galaxy Z Fold 8 deliveries are delayed",
@@ -71,7 +151,7 @@ window.phoneRadarAuto = {
       "trust": "媒体汇总",
       "date": "2026-08-04",
       "time": "17:18",
-      "publishedAt": "2026-08-04T17:18:14.000Z",
+      "publishedAt": "2026-08-04T17:18:05.000Z",
       "url": "https://www.macrumors.com/2026/08/04/apple-september-iphone-event-preparation/",
       "image": "https://images.macrumors.com/article-new/2026/04/iPhone-18-Pro-Rumored-Colors.jpg",
       "summary": "Apple is getting ready for its big September iPhone event, which is expected to see the debut of the iPhone 18 Pro , &zwnj;iPhone 18 Pro&zwnj; Max, and an all-new foldable iPhone.…",
@@ -197,26 +277,6 @@ window.phoneRadarAuto = {
       "summary": "When I got the Galaxy Z Fold 8, I was curious to see how apps would adapt to its new cover display. Samsung has moved to a wider and shorter form factor, and I was worried that so…",
       "tags": [
         "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-dff93354de9a",
-      "title": "Apple is working on iPhone-to-Windows copy-paste",
-      "source": "The Verge",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-04",
-      "time": "14:42",
-      "publishedAt": "2026-08-04T14:42:31.000Z",
-      "url": "https://www.theverge.com/tech/975020/apple-windows-pc-copy-paste-eu",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/257946_iPhone_17_AKrales_0313.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "summary": "Apple is working on a feature that will allow users in the European Union to copy content on their iPhone and paste it onto their Windows PC (or vice versa), as spotted earlier by…",
-      "tags": [
-        "iPhone",
         "爆料",
         "自动抓取"
       ]
@@ -482,26 +542,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "coolapk-user-530ad7d5612c",
-      "title": "竹本青：鸿蒙智行回应智界R7上海高速起火：非车辆原因导致",
-      "source": "竹本青",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-08-04",
-      "time": "10:16",
-      "publishedAt": "2026-08-04T10:16:56.000Z",
-      "url": "https://www.coolapk.com/feed/73081067",
-      "image": "http://image.coolapk.com/feed/2026/0804/18/4248714_6dde5d62_8614_9373_413@1439x709.jpg",
-      "summary": "【鸿蒙智行回应 智界R7在上海高速起火：事故非车辆自身原因导致，未造成人员伤亡】 鸿蒙智行发言人今天发布公告：2026年8月4日，一辆智界R7在上海市S20外环高速行驶过程中发生事故，经现场人员处置后快速灭火，未造成人员伤亡。 经现场确认，事故系前方车辆行驶过程中掉落的大体积尖锐金属异物撞击自车底盘，造成强物理冲击并在摩擦过程中起火。经初步调查，事发前车辆…",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
       "id": "auto-ed271fcb8d5a",
       "title": "The Galaxy Z Fold 8 is almost perfect. I just wish it wasn’t a foldable",
       "source": "Android Authority",
@@ -515,26 +555,6 @@ window.phoneRadarAuto = {
       "url": "https://www.androidauthority.com/wish-galaxy-z-fold-8-wasnt-foldable-3693408/",
       "image": "https://www.androidauthority.com/wp-content/uploads/2026/07/Galaxy-Z-Fold-8-cover-display-scaled-e1785767507512-500w-260h.jpg",
       "summary": "Samsung accidentally launched the best small phone I’ve seen in years.",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-1a1a6f265639",
-      "title": "Samsung is already making a big mistake with the Galaxy S27 Pro",
-      "source": "Android Police",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-04",
-      "time": "10:00",
-      "publishedAt": "2026-08-04T10:00:15.000Z",
-      "url": "https://www.androidpolice.com/samsung-already-making-big-mistake-galaxy-s27-pro/",
-      "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2026/02/a-samsung-galaxy-s27-pro-smartphone-render-with-the-text-s27-pro-in-the-background.png",
-      "summary": "You don't call \"Pro\" a non-Pro phone",
       "tags": [
         "Samsung",
         "爆料",
@@ -802,6 +822,26 @@ window.phoneRadarAuto = {
       ]
     },
     {
+      "id": "coolapk-user-3f0060c7e251",
+      "title": "JSCHEN小小狐：一加 16 电池曝光：等效 9000mAh± 双电芯",
+      "source": "JSCHEN小小狐",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-08-04",
+      "time": "03:57",
+      "publishedAt": "2026-08-04T03:57:02.000Z",
+      "url": "https://www.coolapk.com/feed/73075880",
+      "image": "http://image.coolapk.com/feed/2026/0804/11/4702274_d7de3d31_5328_8213_913@1440x608.jpg",
+      "summary": "『一加 16 电池曝光：等效 9000mAh± 双电芯』 额定容量：2 × 4390 = 8780mAh 额定能量：33.11Wh 标称电压：7.54V 典型容量：9000mAh± ◇ 双电芯设计 ◇ 更快的满血百瓦闪充 #今日热点# #一加15# #一加15T#",
+      "tags": [
+        "OPPO",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
       "id": "auto-1508655f60ec",
       "title": "Redmi K100 Pro gets an amazing glow-in-the-dark finish that doubles as a light painting canvas",
       "source": "Gizmochina",
@@ -942,8 +982,8 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-e9dd0900e21f",
-      "title": "干了一个多月暑假工发了1w，有点想换这个17pm了。想把这个当自己考研的奖励，最近每天晚上都在刷多多根本睡不着。我是该直接满足自己，还是等18。#iPhone18ProMax# #iPhone17ProMax# #iPhone17#",
+      "id": "newsnow-d5501e32758f",
+      "title": "和妹妹闲聊我问她为啥她们女生都喜欢用苹果？她说不卡拍照好，我说现在的安卓也不卡啊，拍照甚至比它好多了，结果我妹妹说我花大几千买个安卓为啥不买个苹果？[捂脸]确实苹果给大多数人的第一印象就是不卡，之前好多同事聊苹果脱口而出的就是不卡，不过她这个机天天提示iphone需要降温，把玩了一下外放音质是确实强，再一听我的x9pro，简直就是天上地下的区别[牛牛尴尬]#数码日常#",
       "source": "酷安热榜",
       "brand": "iPhone",
       "model": "iPhone 相关机型",
@@ -952,9 +992,9 @@ window.phoneRadarAuto = {
       "date": "2026-08-04",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73066712",
+      "url": "https://www.coolapk.com/feed/73077782",
       "image": "",
-      "summary": "干了一个多月暑假工发了1w，有点想换这个17pm了。想把这个当自己考研的奖励，最近每天晚上都在刷多多根本睡不着。我是该直接满足自己，还是等18。#iPhone18ProMax# #iPhone17ProMax# #iPhone17#",
+      "summary": "和妹妹闲聊我问她为啥她们女生都喜欢用苹果？她说不卡拍照好，我说现在的安卓也不卡啊，拍照甚至比它好多了，结果我妹妹说我花大几千买个安卓为啥不买个苹果？[捂脸]确实苹果给大多数人的第一印象就是不卡，之前好多同事聊苹果脱口而出的就是不卡，不过她这个机天天提示iphone需要降温，把玩了一下外放音质是确实强，再一听我的x9pro，简直就是天上地下的区别[牛牛尴尬]…",
       "tags": [
         "iPhone",
         "爆料",
@@ -962,81 +1002,21 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-20e09ff7d0db",
-      "title": "REDMI K100 Pro「流萤追光」配色亮相：特殊夜光材料，后盖可DIY创作",
-      "source": "酷安热榜",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
+      "id": "newsnow-146e8407c593",
+      "title": "印度新机场刚落成就变“游乐场”",
+      "source": "今日头条热榜",
+      "brand": "行业",
+      "model": "智能手机市场",
       "type": "爆料",
-      "trust": "高关注爆料源",
+      "trust": "媒体汇总",
       "date": "2026-08-04",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73074198",
+      "url": "https://www.toutiao.com/trending/7669666043934277674/",
       "image": "",
-      "summary": "REDMI K100 Pro「流萤追光」配色亮相：特殊夜光材料，后盖可DIY创作",
+      "summary": "印度新机场刚落成就变“游乐场”",
       "tags": [
-        "Xiaomi",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-f2724dc689a0",
-      "title": "REDMI K100 Pro搭载第五代骁龙8至尊版V Series",
-      "source": "酷安热榜",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-08-04",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73075261",
-      "image": "",
-      "summary": "REDMI K100 Pro搭载第五代骁龙8至尊版V Series",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-627f6adb64e7",
-      "title": "之前一直没看懂竹知了的梗是啥，问了下小艺，小艺回答的挺中肯，不过我觉得🌸子公关团队反应这么激烈，可能是做给领导看的[流汗滑稽]#鸿蒙7# #华为Mate80ProMax# #华为PuraXMax#",
-      "source": "酷安热榜",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-08-04",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73061988",
-      "image": "",
-      "summary": "之前一直没看懂竹知了的梗是啥，问了下小艺，小艺回答的挺中肯，不过我觉得🌸子公关团队反应这么激烈，可能是做给领导看的[流汗滑稽]#鸿蒙7# #华为Mate80ProMax# #华为PuraXMax#",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-529899d20aaa",
-      "title": "绿泡泡美化后舒服多了，加上新字体，上班都顺眼了[滑稽]#Magisk模块# #三星GalaxyS24Ultra# #三星GalaxyS25Ultra#",
-      "source": "酷安热榜",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-08-04",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73068271",
-      "image": "",
-      "summary": "绿泡泡美化后舒服多了，加上新字体，上班都顺眼了[滑稽]#Magisk模块# #三星GalaxyS24Ultra# #三星GalaxyS25Ultra#",
-      "tags": [
-        "Samsung",
+        "行业",
         "爆料",
         "NewsNow"
       ]
@@ -1742,26 +1722,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-5f6ac0ca24a9",
-      "title": "Mega Pixel 11 series leak leaves nothing to the imagination",
-      "source": "Android Authority",
-      "brand": "Pixel",
-      "model": "Pixel 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-03",
-      "time": "06:52",
-      "publishedAt": "2026-08-03T06:52:33.000Z",
-      "url": "https://www.androidauthority.com/pixel-11-leak-specs-us-price-3693656/",
-      "image": "",
-      "summary": "Google might not have a lot left to surprise us with, thanks to this leak.",
-      "tags": [
-        "Pixel",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "weibo-393ee0a274ae",
       "title": "数码闲聊站：独家，U新10X Sensor有两个方案，硬件都是50Mp 1/1.95\"，一…",
       "source": "数码闲聊站",
@@ -1779,26 +1739,6 @@ window.phoneRadarAuto = {
         "Samsung",
         "爆料",
         "微博"
-      ]
-    },
-    {
-      "id": "auto-716d459f6933",
-      "title": "Samsung might kill one of the Galaxy S27 Ultra’s rear cameras",
-      "source": "Android Authority",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-03",
-      "time": "06:14",
-      "publishedAt": "2026-08-03T06:14:20.000Z",
-      "url": "https://www.androidauthority.com/samsung-galaxy-s27-ultra-camera-downgrade-3693651/",
-      "image": "https://www.androidauthority.com/wp-content/uploads/2026/04/Samsung-Galaxy-S26-vs-Ultra-4-scaled.jpg",
-      "summary": "It's looking more and more likely that the S27 Ultra won't have a 3x camera.",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
       ]
     },
     {

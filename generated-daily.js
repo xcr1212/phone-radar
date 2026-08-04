@@ -1,5 +1,5 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-08-04T18:02:41.351Z",
+  "updatedAt": "2026-08-04T19:55:04.246Z",
   "issueDate": "2026-08-04",
   "issue": "VOL.260804",
   "title": "手机情报日报",
@@ -51,7 +51,7 @@ window.phoneRadarDaily = {
           "trust": "媒体汇总",
           "date": "2026-08-04",
           "time": "17:18",
-          "publishedAt": "2026-08-04T17:18:14.000Z",
+          "publishedAt": "2026-08-04T17:18:05.000Z",
           "url": "https://www.macrumors.com/2026/08/04/apple-september-iphone-event-preparation/",
           "image": "https://images.macrumors.com/article-new/2026/04/iPhone-18-Pro-Rumored-Colors.jpg",
           "verdict": "先看",
@@ -113,29 +113,6 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
-          "id": "newsnow-20e09ff7d0db",
-          "title": "REDMI K100 Pro「流萤追光」配色亮相：特殊夜光材料，后盖可DIY创作",
-          "originalTitle": "",
-          "source": "酷安热榜",
-          "brand": "Xiaomi",
-          "type": "爆料",
-          "trust": "高关注爆料源",
-          "date": "2026-08-04",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://www.coolapk.com/feed/73074198",
-          "image": "",
-          "verdict": "先看",
-          "takeaway": "REDMI K100 Pro「流萤追光」配色亮相：特殊夜光材料，后盖可DIY创作",
-          "detail": "REDMI K100 Pro「流萤追光」配色亮相：特殊夜光材料，后盖可DIY创作",
-          "keyPoints": [
-            "外观 / 配色 / 尺寸"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
           "id": "weibo-0146bea5984f",
           "title": "数码闲聊站：REDMI K100 Pro真机上手体验： ——首发骁龙8 Elite Gen…",
           "originalTitle": "",
@@ -179,6 +156,29 @@ window.phoneRadarDaily = {
           "keyPoints": [
             "外观 / 配色 / 尺寸",
             "成本 / 价格"
+          ],
+          "confidence": "可信度较高，但仍属于发布前线索。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "coolapk-user-3f0060c7e251",
+          "title": "JSCHEN小小狐：一加 16 电池曝光：等效 9000mAh± 双电芯",
+          "originalTitle": "",
+          "source": "JSCHEN小小狐",
+          "brand": "OPPO",
+          "type": "爆料",
+          "trust": "高可信爆料",
+          "date": "2026-08-04",
+          "time": "03:57",
+          "publishedAt": "2026-08-04T03:57:02.000Z",
+          "url": "https://www.coolapk.com/feed/73075880",
+          "image": "http://image.coolapk.com/feed/2026/0804/11/4702274_d7de3d31_5328_8213_913@1440x608.jpg",
+          "verdict": "先看",
+          "takeaway": "『一加 16 电池曝光：等效 9000mAh± 双电芯』 额定容量：2 × 4390 = 8780mAh 额定能量：33.11Wh 标称电压：7.54V 典型容量：9000mAh± ◇ 双电芯设计 ◇ 更快的满血百瓦闪充 #今日热点# #一加15# #一加15T#",
+          "detail": "『一加 16 电池曝光：等效 9000mAh± 双电芯』 额定容量：2 × 4390 = 8780mAh 额定能量：33.11Wh 标称电压：7.54V 典型容量：9000mAh± ◇ 双电芯设计 ◇ 更快的满血百瓦闪充 #今日热点# #一加15# #一加15T#",
+          "keyPoints": [
+            "电池 / 充电"
           ],
           "confidence": "可信度较高，但仍属于发布前线索。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
