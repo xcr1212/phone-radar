@@ -1,12 +1,12 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-08-04T10:49:35.666Z",
+  "updatedAt": "2026-08-04T14:38:22.074Z",
   "issueDate": "2026-08-04",
   "issue": "VOL.260804",
   "title": "手机情报日报",
-  "intro": "今日筛出 8 条重点，其中 8 条是重点爆料，包含 2 条 iPhone 相关、0 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 8 条重点，其中 8 条是重点爆料，包含 3 条 iPhone 相关、0 条官方确认、0 条参数线索。",
   "stats": {
     "total": 8,
-    "iphone": 2,
+    "iphone": 3,
     "leaks": 8,
     "official": 0,
     "specs": 0
@@ -38,6 +38,31 @@ window.phoneRadarDaily = {
             "爆料来源"
           ],
           "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "auto-f19640a7f1e9",
+          "title": "iPhone 屏幕规格相关消息",
+          "originalTitle": "",
+          "source": "9to5Mac",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-08-04",
+          "time": "13:34",
+          "publishedAt": "2026-08-04T13:34:44.000Z",
+          "url": "https://9to5mac.com/2026/08/04/next-years-iphone-pro-models-will-have-larger-screen-sizes-per-leak/",
+          "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/05/iphone-19-pro-20-anniversary-max.jpg?quality=82&strip=all&w=1600",
+          "verdict": "先看",
+          "takeaway": "iPhone 屏幕规格相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
+          "detail": "iPhone 屏幕规格相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
+          "keyPoints": [
+            "外观 / 配色 / 尺寸",
+            "屏幕形态",
+            "爆料来源"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
@@ -84,29 +109,6 @@ window.phoneRadarDaily = {
           "keyPoints": [
             "屏幕形态",
             "爆料来源"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "auto-4fd0743f2e04",
-          "title": "三星 Galaxy Z Fold8 系列手机韩国预售达 144 万台，破 Galaxy 史上最高纪录",
-          "originalTitle": "",
-          "source": "IT之家",
-          "brand": "Samsung",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-08-04",
-          "time": "08:03",
-          "publishedAt": "2026-08-04T08:03:50.000Z",
-          "url": "https://www.ithome.com/0/985/529.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/8/3de13a77-fd0b-402c-acd4-dabd0dee93de.jpg",
-          "verdict": "先看",
-          "takeaway": "IT之家 8 月 4 日消息，据韩媒 Businessplus 报道，三星电子宣布， Galaxy Z Fold8 系列手机在韩国预售达 144 万台，打破了 Galaxy 史上最高预售纪录 。 报道提到，这是三星 Galaxy 有史以来最高的售前表现，远超去年 Galaxy Z fold7 系列的 104 万台，同时还超过了历史上最高成绩的 Galaxy…",
-          "detail": "IT之家 8 月 4 日消息，据韩媒 Businessplus 报道，三星电子宣布， Galaxy Z Fold8 系列手机在韩国预售达 144 万台，打破了 Galaxy 史上最高预售纪录 。 报道提到，这是三星 Galaxy 有史以来最高的售前表现，远超去年 Galaxy Z fold7 系列的 104 万台，同时还超过了历史上最高成绩的 Galaxy…",
-          "keyPoints": [
-            "爆料"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
@@ -161,29 +163,6 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
-          "id": "newsnow-39c0026abdc2",
-          "title": "REDMI K100 Pro 系列抢在小米18 Pro之前率先用上全新屏幕！新一代超级像素屏幕，首发M11发光材料，发光效率直接提升20%，局部峰值亮度达到4500nits。拥有185Hz高刷新率，4800Hz瞬时触控采样率，全RGB无损排列，直接做到实打实2K钻排清晰度，不再只是媲美2K。8月11日19点新品发布",
-          "originalTitle": "",
-          "source": "酷安热榜",
-          "brand": "Xiaomi",
-          "type": "爆料",
-          "trust": "高关注爆料源",
-          "date": "2026-08-04",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://www.coolapk.com/feed/73060741",
-          "image": "",
-          "verdict": "先看",
-          "takeaway": "REDMI K100 Pro 系列抢在小米18 Pro之前率先用上全新屏幕！新一代超级像素屏幕，首发M11发光材料，发光效率直接提升20%，局部峰值亮度达到4500nits。拥有185Hz高刷新率，4800Hz瞬时触控采样率，全RGB无损排列，直接做到实打实2K钻排清晰度，不再只是媲美2K。8月11日19点新品发布",
-          "detail": "REDMI K100 Pro 系列抢在小米18 Pro之前率先用上全新屏幕！新一代超级像素屏幕，首发M11发光材料，发光效率直接提升20%，局部峰值亮度达到4500nits。拥有185Hz高刷新率，4800Hz瞬时触控采样率，全RGB无损排列，直接做到实打实2K钻排清晰度，不再只是媲美2K。8月11日19点新品发布",
-          "keyPoints": [
-            "屏幕形态"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
           "id": "coolapk-user-1244fc0dbfef",
           "title": "JSCHEN小小狐：『OPPO A7 Pro Max 发布：售价 2199 元起』 8GB + 128GB —— 2199 元 8GB…",
           "originalTitle": "",
@@ -204,6 +183,30 @@ window.phoneRadarDaily = {
             "成本 / 价格"
           ],
           "confidence": "可信度较高，但仍属于发布前线索。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "auto-21732c1531e3",
+          "title": "vivo 机模 / 配色信息曝光",
+          "originalTitle": "",
+          "source": "Gizmochina",
+          "brand": "vivo",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-08-03",
+          "time": "10:35",
+          "publishedAt": "2026-08-03T10:35:26.000Z",
+          "url": "https://www.gizmochina.com/2026/08/03/iqoo-z11-india-variant-design-colours-specifications-revealed/",
+          "image": "https://www.gizmochina.com/wp-content/uploads/2026/08/iQOO-Z11-design-1-1-300x124.jpg?x23692",
+          "verdict": "先看",
+          "takeaway": "vivo 机模 / 配色信息曝光。重点看外观、颜色、尺寸是否和上一代有明显变化。",
+          "detail": "vivo 机模 / 配色信息曝光。来源提到未发布机型的机模/配色图，适合先判断外观方向、颜色变化和机身轮廓，但最终量产版本仍可能调整。",
+          "keyPoints": [
+            "外观 / 配色 / 尺寸",
+            "影像硬件"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         }
