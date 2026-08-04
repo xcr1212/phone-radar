@@ -1,6 +1,26 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-08-04T19:55:04.246Z",
+  "updatedAt": "2026-08-04T21:35:13.836Z",
   "news": [
+    {
+      "id": "auto-2afae917d137",
+      "title": "The Galaxy S26 FE sure does look like a Samsung phone in leaked images",
+      "source": "9to5Google",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-04",
+      "time": "19:55",
+      "publishedAt": "2026-08-04T19:55:00.000Z",
+      "url": "https://9to5google.com/2026/08/04/samsung-galaxy-s26-fe-color-image-leak/",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2025/09/galaxy-s25-fe-11_6b7053.jpg?quality=82&strip=all&w=1600",
+      "summary": "Continuing the trend of Samsung’s “Fan Edition” series, the Galaxy S26 FE has just surfaced in new leaks with another evolution of “yep, that’s a Samsung phone” design.",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-6e030ea6612d",
       "title": "Google’s August Pixel update is here and ready to squash some bugs",
@@ -23,7 +43,7 @@ window.phoneRadarAuto = {
     },
     {
       "id": "auto-8898093988ce",
-      "title": "Galaxy S27 Ultra to use inkjet lens printing across all three rear cameras",
+      "title": "Galaxy S27 Ultra to get inkjet lens printing across all three rear cameras",
       "source": "Gizmochina",
       "brand": "Samsung",
       "model": "Samsung 相关机型",
@@ -522,26 +542,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-57df05403125",
-      "title": "After a year with the Pixel 10 Pro, here’s why I won’t buy the Pixel 11 Pro",
-      "source": "Android Authority",
-      "brand": "Pixel",
-      "model": "Pixel 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-04",
-      "time": "10:30",
-      "publishedAt": "2026-08-04T10:30:25.000Z",
-      "url": "https://www.androidauthority.com/wont-buy-pixel-11-pro-after-year-with-pixel-10-pro-3693611/",
-      "image": "",
-      "summary": "The Pixel 11 Pro may be Google's best phone yet, but there's little here to warrant an upgrade.",
-      "tags": [
-        "Pixel",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-ed271fcb8d5a",
       "title": "The Galaxy Z Fold 8 is almost perfect. I just wish it wasn’t a foldable",
       "source": "Android Authority",
@@ -577,26 +577,6 @@ window.phoneRadarAuto = {
       "summary": "Honor has recently unveiled the new Digital smartphone series with a magnetic rear display. It looks like the company has already started upgrading this dynamic part for the upcom…",
       "tags": [
         "HONOR",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-ac3f956a562d",
-      "title": "Survey shows Pixel fans are losing faith in Google’s foldable phones",
-      "source": "Android Authority",
-      "brand": "Pixel",
-      "model": "Pixel 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-04",
-      "time": "09:38",
-      "publishedAt": "2026-08-04T09:38:26.000Z",
-      "url": "https://www.androidauthority.com/google-pixel-fold-competitive-poll-results-3694265/",
-      "image": "",
-      "summary": "Forget the Pixel 11, Google's next foldable release could make or break the series.",
-      "tags": [
-        "Pixel",
         "爆料",
         "自动抓取"
       ]
@@ -802,26 +782,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-2bead2dd89f0",
-      "title": "Galaxy Z Flip 8 and Galaxy Z Fold 8 series break preorder records in South Korea",
-      "source": "SamMobile",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-04",
-      "time": "04:09",
-      "publishedAt": "2026-08-04T04:09:41.000Z",
-      "url": "https://www.sammobile.com/news/galaxy-z-flip-fold-8-ultra-break-preorder-records-south-korea/",
-      "image": "",
-      "summary": "Samsung has announced that its new foldable phones have set an all-time preorder record for Galaxy devices in its home country. The Galaxy Z Flip 8, Galaxy Z Fold 8, and Galaxy Z…",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "coolapk-user-3f0060c7e251",
       "title": "JSCHEN小小狐：一加 16 电池曝光：等效 9000mAh± 双电芯",
       "source": "JSCHEN小小狐",
@@ -997,6 +957,26 @@ window.phoneRadarAuto = {
       "summary": "和妹妹闲聊我问她为啥她们女生都喜欢用苹果？她说不卡拍照好，我说现在的安卓也不卡啊，拍照甚至比它好多了，结果我妹妹说我花大几千买个安卓为啥不买个苹果？[捂脸]确实苹果给大多数人的第一印象就是不卡，之前好多同事聊苹果脱口而出的就是不卡，不过她这个机天天提示iphone需要降温，把玩了一下外放音质是确实强，再一听我的x9pro，简直就是天上地下的区别[牛牛尴尬]…",
       "tags": [
         "iPhone",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-9b81f3ad29b6",
+      "title": "2020 年，回头看仍是机圈极具魔幻现实主义色彩的一年。厂商大喊 “5G 元年”，对换机用户而言却是 “涨价元年”—— 旗舰机型仿佛统一了口径，集体上调八百至一千的价格，携手迈入3999的时代。",
+      "source": "酷安热榜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-08-04",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/70266966",
+      "image": "",
+      "summary": "2020 年，回头看仍是机圈极具魔幻现实主义色彩的一年。厂商大喊 “5G 元年”，对换机用户而言却是 “涨价元年”—— 旗舰机型仿佛统一了口径，集体上调八百至一千的价格，携手迈入3999的时代。",
+      "tags": [
+        "行业",
         "爆料",
         "NewsNow"
       ]
