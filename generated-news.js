@@ -1,6 +1,266 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-08-04T03:35:25.148Z",
+  "updatedAt": "2026-08-04T06:39:40.832Z",
   "news": [
+    {
+      "id": "auto-085f994dfb58",
+      "title": "谷歌放出 Pixel 11 Pro Fold 折叠屏手机官方预热视频，8 月 13 日发布",
+      "source": "IT之家",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-04",
+      "time": "06:11",
+      "publishedAt": "2026-08-04T06:11:43.000Z",
+      "url": "https://www.ithome.com/0/985/456.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/8/6b9a336e-6057-4d68-8d43-1e4b5432f636.jpg?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 8 月 4 日消息，继上周预热 Pixel 11 Pro 之后，谷歌如今又正式放出了 Pixel 11 Pro Fold 的官方预热视频。 这段时长 15 秒的视频延续了此前“Ask more of your phone（让你的手机发挥更大价值）”的宣传风格，旁白写道：“想要换一部手机，你需要拥抱新事物，也需要拥抱能够展开的一切（To switc…",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "weibo-0146bea5984f",
+      "title": "数码闲聊站：REDMI K100 Pro真机上手体验： ——首发骁龙8 Elite Gen…",
+      "source": "数码闲聊站",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-08-04",
+      "time": "06:08",
+      "publishedAt": "2026-08-04T06:08:00.000Z",
+      "url": "https://weibo.com/6048569942/RbPqFkhUg",
+      "image": "https://tvax1.sinaimg.cn/mw2000/006BlblIgy1ifr19xmnekj333n2bqnpf.jpg",
+      "summary": "REDMI K100 Pro真机上手体验： ——首发骁龙8 Elite Gen5V，同样是台积电N3p+4.6GHz Oryon满血双超大核架构；Adreno 840GPU有所调整，频率未降，3 slice→2 slice，GMEM 18MB→12MB。 从理论跑分来看，性能基准大概是8E5 90％。 ——185Hz RGB OLED+D2独显芯片，由于C…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "微博"
+      ]
+    },
+    {
+      "id": "auto-32fb6f998c00",
+      "title": "Samsung makes it easier for people to buy its pricey foldables in India",
+      "source": "SamMobile",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-04",
+      "time": "05:54",
+      "publishedAt": "2026-08-04T05:54:26.000Z",
+      "url": "https://www.sammobile.com/news/buy-galaxy-z-flip-fold-8-ultra-india-easy-emi-plan/",
+      "image": "",
+      "summary": "Samsung recently launched the Galaxy Z Flip 8, Galaxy Z Fold 8, and the Galaxy Z Fold 8 Ultra. These newer foldable phones are quite pricey, even compared to their predecessors, a…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-5e88da27f4ad",
+      "title": "Huawei Mate 90 Pro Max chip, camera, battery specs leaked in detail",
+      "source": "Huawei Central",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-04",
+      "time": "05:51",
+      "publishedAt": "2026-08-04T05:51:42.000Z",
+      "url": "https://www.huaweicentral.com/huawei-mate-90-pro-max-chip-camera-battery-specs-leaked-in-detail/",
+      "image": "https://www.huaweicentral.com/wp-content/uploads/2026/06/Mate80-phon.jpg",
+      "summary": "Huawei Mate 90 Pro Max is picking up speed in the leaks section, and its key specs such as chip, battery, and camera have once again surfaced online, this time in detail. A tipste…",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-d196fd0d9027",
+      "title": "Redmi 17 5G renders leak, specs tag along",
+      "source": "Gizmochina",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-04",
+      "time": "05:46",
+      "publishedAt": "2026-08-04T05:46:49.000Z",
+      "url": "https://www.gizmochina.com/2026/08/04/redmi-17-5g-renders-leak-specs-tag-along/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/08/Redmi-17-5G-Design-2-297x300.jpg?x23692",
+      "summary": "We have now got a clear look at the Redmi 17 5G before it even launches. A fresh set of renders, shared by tech outlet 91mobiles, shows the phone in three colors: orange, black, a…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-c4bcb375f973",
+      "title": "员工上班玩手机被指“摸鱼”并开除：法院判决公司赔偿 11 万元、短暂放松属于正常生理心理需求",
+      "source": "IT之家",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-04",
+      "time": "05:39",
+      "publishedAt": "2026-08-04T05:39:52.000Z",
+      "url": "https://www.ithome.com/0/985/449.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/8/378603d2-24fd-46fd-b26c-ddebb63e6fcb.jpg",
+      "summary": "IT之家 8 月 4 日消息，据央视新闻今日报道，在上班族中有个流行语叫“摸鱼”，它指的是在工作时间里偷偷做跟工作没关系的事，比如玩手机、逛网站、闲聊等。在有些上班族看来，紧张的工作之余偶尔“摸鱼”放松一下，是平常不过的事。但在江苏南京上班的林某却因为这些行为被公司开除了。林某不服将公司告上法庭。 图源：Pexels 林某于 2020 年 8 月入职一家科…",
+      "tags": [
+        "行业",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-db6fcad8e1c3",
+      "title": "OnePlus 16 with 9,000mAh battery enters trial production, claims tipster",
+      "source": "Gizmochina",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-04",
+      "time": "05:36",
+      "publishedAt": "2026-08-04T05:36:10.000Z",
+      "url": "https://www.gizmochina.com/2026/08/04/oneplus-16-9000mah-battery-trial-production/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/07/image-106-300x251.png?x23692",
+      "summary": "Reliable tipster Digital Chat Station has revealed that OnePlus has already begun the trial production of its next-generation flagship, which is expected to be the OnePlus 16. Add…",
+      "tags": [
+        "OPPO",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-04c1f0024f69",
+      "title": "竹本青：追觅手机掌舵者俞雷被曝拟离职，加入追觅不足半年",
+      "source": "竹本青",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-08-04",
+      "time": "04:32",
+      "publishedAt": "2026-08-04T04:32:18.000Z",
+      "url": "https://www.coolapk.com/feed/73076430",
+      "image": "http://image.coolapk.com/feed/2026/0804/12/4248714_3917bafa_7937_1957_80@1439x1898.jpg",
+      "summary": "【追觅手机掌舵者俞雷被曝拟离职，加入追觅系至今不足半年】 8月4日资讯，据搜狐财经昨日报道，追觅生态Eclix手机掌舵者、前金立集团全球副总裁俞雷拟从追觅系离职，目前其内部飞书账号仍未停用。 公开资料显示，俞雷曾任金立集团副总裁、喜临门家具股份有限公司副总裁等职，拥有二十余年跨国企业及本土企业管理经验。 据悉，其于2026年3月正式入职追觅旗下MOVA，任…",
+      "tags": [
+        "行业",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-770518801c99",
+      "title": "小米 REDMI 17 5G 手机渲染图曝光：橙 / 黑 / 蓝三色，6.9 英寸 LCD 屏幕、7500mAh 电池",
+      "source": "IT之家",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-04",
+      "time": "04:30",
+      "publishedAt": "2026-08-04T04:30:59.000Z",
+      "url": "https://www.ithome.com/0/985/440.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/8/5d135afd-20cc-4581-9ef9-3c1afbfc281d.jpg",
+      "summary": "IT之家 8 月 4 日消息，科技媒体 91Mobile 昨日（8 月 3 日）发布博文，分享了一组渲染图， 展示了橙色、黑色和蓝色 3 种颜色的小米 REDMI 17 5G 手机。 颜色方面，其中比较特别的是橙色版，采用素皮材质，相比较蓝色和黑色会有更优秀的握持体验。尺寸方面，小米 REDMI 17 5G 手机为 170.12 × 74.42 × 8.8…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-029ac49bdff0",
+      "title": "谷歌 Pixel 11 Pro XL 手机渲染图曝光：Tensor G6 芯片，5115mAh 电池",
+      "source": "IT之家",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-04",
+      "time": "04:16",
+      "publishedAt": "2026-08-04T04:16:38.000Z",
+      "url": "https://www.ithome.com/0/985/438.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/8/3ac6c515-a386-4a36-8df9-4e6d605235f5.jpg?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 8 月 4 日消息，消息源埃文 · 布拉斯（Evan Blass）昨日（8 月 4 日）在 substack 平台发布帖子， 分享了谷歌 Pixel 11 Pro XL 手机的渲染图。 IT之家此前报道，Pixel 11 Pro XL 将配备一块 6.8 英寸 Super Actua OLED LTPO 显示屏，支持 1Hz 至 120Hz 自适…",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-2bead2dd89f0",
+      "title": "Galaxy Z Flip 8 and Galaxy Z Fold 8 series break preorder records in South Korea",
+      "source": "SamMobile",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-04",
+      "time": "04:09",
+      "publishedAt": "2026-08-04T04:09:41.000Z",
+      "url": "https://www.sammobile.com/news/galaxy-z-flip-fold-8-ultra-break-preorder-records-south-korea/",
+      "image": "",
+      "summary": "Samsung has announced that its new foldable phones have set an all-time preorder record for Galaxy devices in its home country. The Galaxy Z Flip 8, Galaxy Z Fold 8, and Galaxy Z…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-3f0060c7e251",
+      "title": "JSCHEN小小狐：一加 16 电池曝光：等效 9000mAh± 双电芯",
+      "source": "JSCHEN小小狐",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-08-04",
+      "time": "03:57",
+      "publishedAt": "2026-08-04T03:57:02.000Z",
+      "url": "https://www.coolapk.com/feed/73075880",
+      "image": "http://image.coolapk.com/feed/2026/0804/11/4702274_d7de3d31_5328_8213_913@1440x608.jpg",
+      "summary": "『一加 16 电池曝光：等效 9000mAh± 双电芯』 额定容量：2 × 4390 = 8780mAh 额定能量：33.11Wh 标称电压：7.54V 典型容量：9000mAh± ◇ 双电芯设计 ◇ 更快的满血百瓦闪充 #今日热点# #一加15# #一加15T#",
+      "tags": [
+        "OPPO",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-1508655f60ec",
+      "title": "Redmi K100 Pro gets an amazing glow-in-the-dark finish that doubles as a light painting canvas",
+      "source": "Gizmochina",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-04",
+      "time": "03:56",
+      "publishedAt": "2026-08-04T03:56:55.000Z",
+      "url": "https://www.gizmochina.com/2026/08/04/redmi-k100-pro-glowing-firefly-color-glow-in-the-dark-design/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/08/REdmi-K100-Pro-green-300x300.jpg?x23692",
+      "summary": "Redmi has teased another standout feature of the upcoming K100 Pro ahead of its Aug. 11 launch in China. Recently, the brand showcased the Cabernet Red variant of the K100 Pro Max…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "weibo-238a151e95ec",
       "title": "数码闲聊站：加加迭代新机已经开始试产了，4390*2=8780mAh min，额定能量33…",
@@ -142,26 +402,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "coolapk-user-023c5d178a90",
-      "title": "竹本青：小米之家预告到店活动：免费领元气森林气泡水",
-      "source": "竹本青",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-08-04",
-      "time": "02:02",
-      "publishedAt": "2026-08-04T02:02:12.000Z",
-      "url": "https://www.coolapk.com/feed/73074506",
-      "image": "http://image.coolapk.com/feed/2026/0804/10/4248714_7d300b8b_8930_8338_446@1920x2659.jpg",
-      "summary": "【小米之家预告到店活动：免费领元气森林气泡水】 ● 活动内容：10万份元气森林气泡水免费领 ● 活动时间：8月6日-8月9日 ● 注意事项：参与活动的门店单店不少于24份，每天限领一份 #今日热点# #HyperOS3# #小米之家#",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
       "id": "auto-6a73e9255c09",
       "title": "Apple plans to open iPhone clipboard access to Windows PCs",
       "source": "9to5Mac",
@@ -179,26 +419,6 @@ window.phoneRadarAuto = {
         "iPhone",
         "爆料",
         "自动抓取"
-      ]
-    },
-    {
-      "id": "coolapk-user-0fb37624edde",
-      "title": "竹本青：REDMI K100 Pro「流萤追光」配色亮相：特殊夜光材料，后盖可DIY创作",
-      "source": "竹本青",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-08-04",
-      "time": "01:36",
-      "publishedAt": "2026-08-04T01:36:10.000Z",
-      "url": "https://www.coolapk.com/feed/73074198",
-      "image": "http://image.coolapk.com/feed/2026/0804/09/4248714_7dbf3ea4_7366_3015_556@1124x1124.jpg",
-      "summary": "【REDMI K100 Pro「流萤追光」配色正式亮相：特殊夜光材料，后盖可DIY创作】 8月4日，REDMI K100 Pro 全新配色「流萤追光」正式亮相，官方介绍，该配色在玻璃与绿色油墨之间，加入特殊夜光材料，将手机后盖变成了可以自由创作的“光绘板”。 #REDMIK100ProMax# #HyperOS3#",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "酷安博主"
       ]
     },
     {
@@ -237,26 +457,6 @@ window.phoneRadarAuto = {
       "summary": "Nothing Phone (4b) and Xiaomi 17T cater to very different buyers despite both offering modern Android experiences. One focuses on distinctive design and value, while the other pac…",
       "tags": [
         "Xiaomi",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-9d960a334378",
-      "title": "三星 Galaxy S26 FE 手机默认壁纸曝光，预估关联 3 种零售颜色",
-      "source": "IT之家",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-04",
-      "time": "00:21",
-      "publishedAt": "2026-08-04T00:21:14.000Z",
-      "url": "https://www.ithome.com/0/985/300.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/8/b7a0c81b-30c1-4831-97f5-fc83a766e0af.png?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 8 月 4 日消息，科技媒体 sammyguru 昨日（8 月 3 日）发布博文，分享了一组默认壁纸，适用于 三星 Galaxy S26 FE，暗示这款手机至少会有 3 种颜色。 根据曝光的默认壁纸， 三星 Galaxy S26 FE 手机会有 Graphite（石墨灰）、Mint（薄荷绿）和 Violet（紫罗兰）3 种颜色，预估关联零售版的颜…",
-      "tags": [
-        "Samsung",
         "爆料",
         "自动抓取"
       ]
@@ -342,21 +542,21 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-aec57537f762",
-      "title": "#初恋这件小事# 怎么说，接上个贴吧，今天z了，👄得我好舒服，她人很好，老是叫我不要驼背，自己工资才3000多，还给我发钱，还老是给弟弟妹妹钱，还叫我多锻炼什么的，因为我太瘦了，还跟我说最好去整牙给我建议为了我好，因为有点天包地，还给我挑了两套穿搭，发给我，叫我做个好看的发型，把额头挡住，然后这个66元红包是因为她本来今天下午老板说放假，后面又不放了，答应我过来找我给我的补偿，后面请假过来了，我想看她发给我多少就领了，她来回车费八九十吧，请假扣个全勤150，下午没有工资，到了我给她发了200，拿她手机收了，上次开f的钱我出，她过来找我来回车费大概也八九十",
+      "id": "newsnow-20e09ff7d0db",
+      "title": "REDMI K100 Pro「流萤追光」配色亮相：特殊夜光材料，后盖可DIY创作",
       "source": "酷安热榜",
-      "brand": "行业",
-      "model": "智能手机市场",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-08-04",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73068733",
+      "url": "https://www.coolapk.com/feed/73074198",
       "image": "",
-      "summary": "#初恋这件小事# 怎么说，接上个贴吧，今天z了，👄得我好舒服，她人很好，老是叫我不要驼背，自己工资才3000多，还给我发钱，还老是给弟弟妹妹钱，还叫我多锻炼什么的，因为我太瘦了，还跟我说最好去整牙给我建议为了我好，因为有点天包地，还给我挑了两套穿搭，发给我，叫我做个好看的发型，把额头挡住，然后这个66元红包是因为她本来今天下午老板说放假，后面又不放了，答…",
+      "summary": "REDMI K100 Pro「流萤追光」配色亮相：特殊夜光材料，后盖可DIY创作",
       "tags": [
-        "行业",
+        "Xiaomi",
         "爆料",
         "NewsNow"
       ]

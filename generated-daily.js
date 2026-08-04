@@ -1,11 +1,11 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-08-04T03:35:25.148Z",
+  "updatedAt": "2026-08-04T06:39:40.832Z",
   "issueDate": "2026-08-04",
   "issue": "VOL.260804",
   "title": "手机情报日报",
-  "intro": "今日筛出 9 条重点，其中 8 条是重点爆料，包含 2 条 iPhone 相关、0 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 8 条重点，其中 8 条是重点爆料，包含 2 条 iPhone 相关、0 条官方确认、0 条参数线索。",
   "stats": {
-    "total": 9,
+    "total": 8,
     "iphone": 2,
     "leaks": 8,
     "official": 0,
@@ -89,25 +89,76 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
-          "id": "coolapk-user-0fb37624edde",
-          "title": "竹本青：REDMI K100 Pro「流萤追光」配色亮相：特殊夜光材料，后盖可DIY创作",
+          "id": "auto-085f994dfb58",
+          "title": "谷歌放出 Pixel 11 Pro Fold 折叠屏手机官方预热视频，8 月 13 日发布",
           "originalTitle": "",
-          "source": "竹本青",
+          "source": "IT之家",
+          "brand": "Pixel",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-08-04",
+          "time": "06:11",
+          "publishedAt": "2026-08-04T06:11:43.000Z",
+          "url": "https://www.ithome.com/0/985/456.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/8/6b9a336e-6057-4d68-8d43-1e4b5432f636.jpg?x-bce-process=image/format,f_auto",
+          "verdict": "先看",
+          "takeaway": "IT之家 8 月 4 日消息，继上周预热 Pixel 11 Pro 之后，谷歌如今又正式放出了 Pixel 11 Pro Fold 的官方预热视频。 这段时长 15 秒的视频延续了此前“Ask more of your phone（让你的手机发挥更大价值）”的宣传风格，旁白写道：“想要换一部手机，你需要拥抱新事物，也需要拥抱能够展开的一切（To switc…",
+          "detail": "IT之家 8 月 4 日消息，继上周预热 Pixel 11 Pro 之后，谷歌如今又正式放出了 Pixel 11 Pro Fold 的官方预热视频。 这段时长 15 秒的视频延续了此前“Ask more of your phone（让你的手机发挥更大价值）”的宣传风格，旁白写道：“想要换一部手机，你需要拥抱新事物，也需要拥抱能够展开的一切（To switc…",
+          "keyPoints": [
+            "屏幕形态"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "auto-770518801c99",
+          "title": "小米 REDMI 17 5G 手机渲染图曝光：橙 / 黑 / 蓝三色，6.9 英寸 LCD 屏幕、7500mAh 电池",
+          "originalTitle": "",
+          "source": "IT之家",
           "brand": "Xiaomi",
           "type": "爆料",
-          "trust": "高可信爆料",
+          "trust": "媒体汇总",
           "date": "2026-08-04",
-          "time": "01:36",
-          "publishedAt": "2026-08-04T01:36:10.000Z",
-          "url": "https://www.coolapk.com/feed/73074198",
-          "image": "http://image.coolapk.com/feed/2026/0804/09/4248714_7dbf3ea4_7366_3015_556@1124x1124.jpg",
+          "time": "04:30",
+          "publishedAt": "2026-08-04T04:30:59.000Z",
+          "url": "https://www.ithome.com/0/985/440.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/8/5d135afd-20cc-4581-9ef9-3c1afbfc281d.jpg",
           "verdict": "先看",
-          "takeaway": "【REDMI K100 Pro「流萤追光」配色正式亮相：特殊夜光材料，后盖可DIY创作】 8月4日，REDMI K100 Pro 全新配色「流萤追光」正式亮相，官方介绍，该配色在玻璃与绿色油墨之间，加入特殊夜光材料，将手机后盖变成了可以自由创作的“光绘板”。 #REDMIK100ProMax# #HyperOS3#",
-          "detail": "【REDMI K100 Pro「流萤追光」配色正式亮相：特殊夜光材料，后盖可DIY创作】 8月4日，REDMI K100 Pro 全新配色「流萤追光」正式亮相，官方介绍，该配色在玻璃与绿色油墨之间，加入特殊夜光材料，将手机后盖变成了可以自由创作的“光绘板”。 #REDMIK100ProMax# #HyperOS3#",
+          "takeaway": "IT之家 8 月 4 日消息，科技媒体 91Mobile 昨日（8 月 3 日）发布博文，分享了一组渲染图， 展示了橙色、黑色和蓝色 3 种颜色的小米 REDMI 17 5G 手机。 颜色方面，其中比较特别的是橙色版，采用素皮材质，相比较蓝色和黑色会有更优秀的握持体验。尺寸方面，小米 REDMI 17 5G 手机为 170.12 × 74.42 × 8.8…",
+          "detail": "IT之家 8 月 4 日消息，科技媒体 91Mobile 昨日（8 月 3 日）发布博文，分享了一组渲染图， 展示了橙色、黑色和蓝色 3 种颜色的小米 REDMI 17 5G 手机。 颜色方面，其中比较特别的是橙色版，采用素皮材质，相比较蓝色和黑色会有更优秀的握持体验。尺寸方面，小米 REDMI 17 5G 手机为 170.12 × 74.42 × 8.8…",
           "keyPoints": [
-            "外观 / 配色 / 尺寸"
+            "外观 / 配色 / 尺寸",
+            "屏幕形态",
+            "电池 / 充电"
           ],
-          "confidence": "可信度较高，但仍属于发布前线索。",
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "auto-029ac49bdff0",
+          "title": "谷歌 Pixel 11 Pro XL 手机渲染图曝光：Tensor G6 芯片，5115mAh 电池",
+          "originalTitle": "",
+          "source": "IT之家",
+          "brand": "Pixel",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-08-04",
+          "time": "04:16",
+          "publishedAt": "2026-08-04T04:16:38.000Z",
+          "url": "https://www.ithome.com/0/985/438.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/8/3ac6c515-a386-4a36-8df9-4e6d605235f5.jpg?x-bce-process=image/format,f_auto",
+          "verdict": "先看",
+          "takeaway": "IT之家 8 月 4 日消息，消息源埃文 · 布拉斯（Evan Blass）昨日（8 月 4 日）在 substack 平台发布帖子， 分享了谷歌 Pixel 11 Pro XL 手机的渲染图。 IT之家此前报道，Pixel 11 Pro XL 将配备一块 6.8 英寸 Super Actua OLED LTPO 显示屏，支持 1Hz 至 120Hz 自适…",
+          "detail": "IT之家 8 月 4 日消息，消息源埃文 · 布拉斯（Evan Blass）昨日（8 月 4 日）在 substack 平台发布帖子， 分享了谷歌 Pixel 11 Pro XL 手机的渲染图。 IT之家此前报道，Pixel 11 Pro XL 将配备一块 6.8 英寸 Super Actua OLED LTPO 显示屏，支持 1Hz 至 120Hz 自适…",
+          "keyPoints": [
+            "外观 / 配色 / 尺寸",
+            "屏幕形态",
+            "电池 / 充电",
+            "芯片 / 性能"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
@@ -136,8 +187,8 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
-          "id": "newsnow-39c0026abdc2",
-          "title": "REDMI K100 Pro 系列抢在小米18 Pro之前率先用上全新屏幕！新一代超级像素屏幕，首发M11发光材料，发光效率直接提升20%，局部峰值亮度达到4500nits。拥有185Hz高刷新率，4800Hz瞬时触控采样率，全RGB无损排列，直接做到实打实2K钻排清晰度，不再只是媲美2K。8月11日19点新品发布",
+          "id": "newsnow-20e09ff7d0db",
+          "title": "REDMI K100 Pro「流萤追光」配色亮相：特殊夜光材料，后盖可DIY创作",
           "originalTitle": "",
           "source": "酷安热榜",
           "brand": "Xiaomi",
@@ -146,95 +197,17 @@ window.phoneRadarDaily = {
           "date": "2026-08-04",
           "time": "",
           "publishedAt": "",
-          "url": "https://www.coolapk.com/feed/73060741",
+          "url": "https://www.coolapk.com/feed/73074198",
           "image": "",
           "verdict": "先看",
-          "takeaway": "REDMI K100 Pro 系列抢在小米18 Pro之前率先用上全新屏幕！新一代超级像素屏幕，首发M11发光材料，发光效率直接提升20%，局部峰值亮度达到4500nits。拥有185Hz高刷新率，4800Hz瞬时触控采样率，全RGB无损排列，直接做到实打实2K钻排清晰度，不再只是媲美2K。8月11日19点新品发布",
-          "detail": "REDMI K100 Pro 系列抢在小米18 Pro之前率先用上全新屏幕！新一代超级像素屏幕，首发M11发光材料，发光效率直接提升20%，局部峰值亮度达到4500nits。拥有185Hz高刷新率，4800Hz瞬时触控采样率，全RGB无损排列，直接做到实打实2K钻排清晰度，不再只是媲美2K。8月11日19点新品发布",
+          "takeaway": "REDMI K100 Pro「流萤追光」配色亮相：特殊夜光材料，后盖可DIY创作",
+          "detail": "REDMI K100 Pro「流萤追光」配色亮相：特殊夜光材料，后盖可DIY创作",
           "keyPoints": [
-            "屏幕形态"
+            "外观 / 配色 / 尺寸"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "weibo-eaf286c7cdaa",
-          "title": "数码闲聊站：iQOO Neo 新机摸到了，基于天玑9500深度定制，调优了联发科最新旗舰芯…",
-          "originalTitle": "",
-          "source": "数码闲聊站",
-          "brand": "vivo",
-          "type": "爆料",
-          "trust": "高关注爆料源",
-          "date": "2026-08-03",
-          "time": "01:00",
-          "publishedAt": "2026-08-03T01:00:03.000Z",
-          "url": "https://weibo.com/6048569942/RbDZavufB",
-          "image": "",
-          "verdict": "先看",
-          "takeaway": "iQOO Neo 新机摸到了，基于天玑9500深度定制，调优了联发科最新旗舰芯片。 新机看点是同档唯一的国产新工艺2K大屏，9字开头大电池，全面加速中[并不简单]",
-          "detail": "iQOO Neo 新机摸到了，基于天玑9500深度定制，调优了联发科最新旗舰芯片。 新机看点是同档唯一的国产新工艺2K大屏，9字开头大电池，全面加速中[并不简单]",
-          "keyPoints": [
-            "电池 / 充电",
-            "芯片 / 性能",
-            "爆料来源"
-          ],
-          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "coolapk-user-9e8d93143053",
-          "title": "竹本青：荣耀MagicOS 11「液态玻璃」预热：低功耗系统级调度",
-          "originalTitle": "",
-          "source": "竹本青",
-          "brand": "HONOR",
-          "type": "爆料",
-          "trust": "高可信爆料",
-          "date": "2026-08-04",
-          "time": "02:15",
-          "publishedAt": "2026-08-04T02:15:41.000Z",
-          "url": "https://www.coolapk.com/feed/73074665",
-          "image": "http://image.coolapk.com/feed/2026/0804/10/4248714_8f28bf98_9739_1101_290@1080x5366.jpg",
-          "verdict": "先看",
-          "takeaway": "【荣耀MagicOS 11「液态玻璃」预热：低功耗系统级调度，通透度支持无极调节】 Q：MagicOS 11 液态玻璃会增加系统功耗吗? A：自研材质引擎，还原液态玻璃的真实质感；系统级调度，实现低功耗长续航的平衡。 Q：液态玻璃通透模式影响界面的可读性吗? A：可自由选择2种材质(液态玻璃/磨砂玻璃），同时通透度支持无极调节。 #今日热点# #Magic…",
-          "detail": "【荣耀MagicOS 11「液态玻璃」预热：低功耗系统级调度，通透度支持无极调节】 Q：MagicOS 11 液态玻璃会增加系统功耗吗? A：自研材质引擎，还原液态玻璃的真实质感；系统级调度，实现低功耗长续航的平衡。 Q：液态玻璃通透模式影响界面的可读性吗? A：可自由选择2种材质(液态玻璃/磨砂玻璃），同时通透度支持无极调节。 #今日热点# #Magic…",
-          "keyPoints": [
-            "电池 / 充电"
-          ],
-          "confidence": "可信度较高，但仍属于发布前线索。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        }
-      ]
-    },
-    {
-      "id": "launch",
-      "title": "新机与官方发布",
-      "hint": "能直接更新到参数库。",
-      "items": [
-        {
-          "id": "auto-9d960a334378",
-          "title": "三星 Galaxy S26 FE 手机默认壁纸曝光，预估关联 3 种零售颜色",
-          "originalTitle": "",
-          "source": "IT之家",
-          "brand": "Samsung",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-08-04",
-          "time": "00:21",
-          "publishedAt": "2026-08-04T00:21:14.000Z",
-          "url": "https://www.ithome.com/0/985/300.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/8/b7a0c81b-30c1-4831-97f5-fc83a766e0af.png?x-bce-process=image/format,f_auto",
-          "verdict": "先看",
-          "takeaway": "IT之家 8 月 4 日消息，科技媒体 sammyguru 昨日（8 月 3 日）发布博文，分享了一组默认壁纸，适用于 三星 Galaxy S26 FE，暗示这款手机至少会有 3 种颜色。 根据曝光的默认壁纸， 三星 Galaxy S26 FE 手机会有 Graphite（石墨灰）、Mint（薄荷绿）和 Violet（紫罗兰）3 种颜色，预估关联零售版的颜…",
-          "detail": "IT之家 8 月 4 日消息，科技媒体 sammyguru 昨日（8 月 3 日）发布博文，分享了一组默认壁纸，适用于 三星 Galaxy S26 FE，暗示这款手机至少会有 3 种颜色。 根据曝光的默认壁纸， 三星 Galaxy S26 FE 手机会有 Graphite（石墨灰）、Mint（薄荷绿）和 Violet（紫罗兰）3 种颜色，预估关联零售版的颜…",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "中文源可以直接点开快读；看完只保留和购机有关的点。"
         }
       ]
     }
