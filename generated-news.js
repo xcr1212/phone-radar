@@ -1,6 +1,146 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-08-05T14:32:00.982Z",
+  "updatedAt": "2026-08-05T17:52:56.020Z",
   "news": [
+    {
+      "id": "auto-742a21914d57",
+      "title": "I put my Pixel phones through a strenuous 24-hour battery life test to see if they hold up as well as they should, and the winner might surprise you",
+      "source": "Android Central",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-08-05",
+      "time": "17:25",
+      "publishedAt": "2026-08-05T17:25:59.000Z",
+      "url": "https://www.androidcentral.com/phones/google-pixel/google-pixel-24-hour-video-battery-life-test",
+      "image": "https://cdn.mos.cms.futurecdn.net/t8uyq6qP73hUVviBsKH5p7-1280-80.jpg",
+      "summary": "Ahead of the Pixel 11 launch, we ran the Pixel 9, Pixel 9 Pro, and Pixel 10 Pro through a video-playback battery-drain test.",
+      "tags": [
+        "Pixel",
+        "评测",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-32bbcf2be2c4",
+      "title": "JSCHEN小小狐：还是被惊艳到了，有种轻若无物的感觉。 摆的这台紫色是镜面屏，屏幕依旧有做 AR 抗反射镀膜，观感也不错。转轴一如既…",
+      "source": "JSCHEN小小狐",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-08-05",
+      "time": "16:45",
+      "publishedAt": "2026-08-05T16:45:32.000Z",
+      "url": "https://www.coolapk.com/feed/73101058",
+      "image": "http://image.coolapk.com/feed/2026/0806/00/4702274_6f7510b9_8329_0364_90-uhdr@2366x3503.jpg",
+      "summary": "还是被惊艳到了，有种轻若无物的感觉。 摆的这台紫色是镜面屏，屏幕依旧有做 AR 抗反射镀膜，观感也不错。转轴一如既往的流畅，电源指纹套的是 GT 14 的设计，1.5mm 键程比上代 Pro 弱了点，不过触控板振感反倒会略好些？ 另外不知道是不是黑边变窄的缘故，这次 Pro S 取消了此前屏幕下边框的“HUAWEI”Logo。 #华为MateBookPro…",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-e7bf8b734a09",
+      "title": "Deals: Best Galaxy Fold 8 pre-order offers still live, Galaxy phones from $345, Google Pixelsnap Charger 40% off, more",
+      "source": "9to5Google",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-05",
+      "time": "15:54",
+      "publishedAt": "2026-08-05T15:54:58.000Z",
+      "url": "https://9to5google.com/2026/08/05/deals-galaxy-fold-8-galaxy-a37-google-pixelsnap-charger/",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/08/9to5Google-Aug-5.webp?w=1600",
+      "summary": "While pre-order deals are still live on Galaxy Z Fold 8 , Fold 8 Ultra , and Flip 8 ahead of delivery this week, Best Buy and Amazon are actually still shipping pre-order deals as…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-08f8162c399c",
+      "title": "iPhone Ultra sounds truly deserving of the ‘Ultra’ name",
+      "source": "9to5Mac",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-05",
+      "time": "15:41",
+      "publishedAt": "2026-08-05T15:41:31.000Z",
+      "url": "https://9to5mac.com/2026/08/05/iphone-ultra-sounds-truly-deserving-of-the-ultra-name/",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/iphone-ultra-concept-blue.jpg?quality=82&strip=all&w=1600",
+      "summary": "Apple’s first foldable iPhone is coming very soon , and based on rumors about the product, it sounds very much deserving of the ‘iPhone Ultra’ name. Here’s why.",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-e4bdff29f4e8",
+      "title": "Google clearing out official Pixel 10 cases ahead of Pixel 11 launch",
+      "source": "9to5Google",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-05",
+      "time": "15:30",
+      "publishedAt": "2026-08-05T15:30:00.000Z",
+      "url": "https://9to5google.com/2026/08/05/pixel-10-cases-discount-clearout/",
+      "image": "",
+      "summary": "Ahead of next week’s Pixel 11 launch, Google is clearing out some of its official Pixel 10 series cases with discounts available.",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-1f701a49e035",
+      "title": "NearLink E2.0：华为 nova 16 SE 手机确认支持星闪音频功能",
+      "source": "IT之家",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-05",
+      "time": "15:14",
+      "publishedAt": "2026-08-05T15:14:40.000Z",
+      "url": "https://www.ithome.com/0/986/253.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/8/52383900-4a7f-4783-a4a6-8702eacbc219.jpg?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 8 月 5 日消息，在今天下午的尊界时代旗舰 MPV 及华为全场景新品发布会上，华为 nova16 SE 手机正式发布，搭载麒麟 8020 芯片 + 8500mAh 电池， 定价 2499 元起 ，将于 8 月 12 日正式开售。 128GB：售价 2499 元 256GB：售价 2699 元 512GB：售价 3199 元 IT之家从华为官网获…",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-bd7ffdc2eac2",
+      "title": "竹本青：【KONKR Pocket Advance 横版掌机发布：3.5英寸LCD屏+联发科G90T，首发499元起】 3…",
+      "source": "竹本青",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-08-05",
+      "time": "14:44",
+      "publishedAt": "2026-08-05T14:44:49.000Z",
+      "url": "https://www.coolapk.com/feed/73099388",
+      "image": "http://image.coolapk.com/feed/2026/0805/22/4248714_5a821f7c_1086_9306_982@1080x608.jpg",
+      "summary": "【KONKR Pocket Advance 横版掌机发布：3.5英寸LCD屏+联发科G90T，首发499元起】 3+32GB —— 499元 4+64GB —— 599元 ▫️3.5\" 960*640 3:2 LCD屏 ▫️联发科 G90T处理器 ▫️4000mAh电池，支持PD快充 ▫️导电胶十字键+ABXY键 ▫️大尺寸L1／R1肩键 ▫️分离式L2／…",
+      "tags": [
+        "行业",
+        "爆料",
+        "酷安博主"
+      ]
+    },
     {
       "id": "auto-70788fcb0aa7",
       "title": "Samsung confirms Galaxy Z Fold 8’s record-breaking sales numbers as pre-order deals are ending",
@@ -242,46 +382,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-171ea648700f",
-      "title": "消息称长鑫拒绝苹果压价，坚持要求内存采购价不低于三星电子和 SK 海力士",
-      "source": "IT之家",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-05",
-      "time": "10:14",
-      "publishedAt": "2026-08-05T10:14:13.000Z",
-      "url": "https://www.ithome.com/0/986/176.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/8/1274bd60-0763-4b1b-b9b4-7abb3c56de8c.png?x-bce-process=image/format,f_auto/auto-orient,o_1",
-      "summary": "IT之家 8 月 5 日消息，据韩媒《Digital Daily》今日报道，苹果公司近期考虑将中国长鑫存储（CXMT）作为新的供应链以降低成本， 但目前在进一步降价谈判中遭遇困难 。 报道称，苹果公司曾与长鑫存储就移动 DRAM（包括 LPDDR5X）的供应价格进行谈判，以缓解其下一代 iPhone 和智能设备产品线的制造成本压力， 但遭到拒绝 。 长鑫存…",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-2592ffb7fe48",
-      "title": "消息称富士新品 XF400mm 镜头光圈 F4.5，9 月与 X-T6 相机一同发布",
-      "source": "IT之家",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-05",
-      "time": "09:56",
-      "publishedAt": "2026-08-05T09:56:10.000Z",
-      "url": "https://www.ithome.com/0/986/170.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/8/08e6c0b7-584d-4cb3-84e6-6f95b83e48ec.png?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 8 月 5 日消息，据 Fuji Rumors 昨日爆料，从多个可靠消息源处确认， 富士新品 XF400mm 镜头最大光圈为 F4.5 ，镜头全称为 XF400mm f/4.5 R LM OIS WR。 作为参考， 富士超长焦镜头 XF500mm F5.6 R LM OIS WR 发布于 2024 年，使用 14 组 21 片光学结构，国行售价…",
-      "tags": [
-        "行业",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-e9a2cf758435",
       "title": "Baseus Dark Cherry Collection for iPhone 18 Pro First Impression",
       "source": "Gizmochina",
@@ -419,26 +519,6 @@ window.phoneRadarAuto = {
         "Samsung",
         "爆料",
         "自动抓取"
-      ]
-    },
-    {
-      "id": "weibo-1609bf13ce9d",
-      "title": "数码闲聊站：K100 Pro，6.59英寸185Hz RGB OLED，骁龙8E5V处理器…",
-      "source": "数码闲聊站",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-08-05",
-      "time": "06:26",
-      "publishedAt": "2026-08-05T06:26:25.000Z",
-      "url": "https://weibo.com/6048569942/RbYYDpzRA",
-      "image": "https://tvax1.sinaimg.cn/mw2000/006BlblIgy1ifsxqu0s8sj30xu0f679d.jpg",
-      "summary": "K100 Pro，6.59英寸185Hz RGB OLED，骁龙8E5V处理器，8580mAh+100W有线+50W无线，2亿大底三摄，支持10cm长焦微距，好猜吗[doge]",
-      "tags": [
-        "行业",
-        "爆料",
-        "微博"
       ]
     },
     {
@@ -1082,26 +1162,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "weibo-fef1755e63f2",
-      "title": "数码闲聊站：前段时间摸了一大堆迭代新机，玻纤和玻璃材质扎堆了，新型陶瓷什么时候回归？你们想…",
-      "source": "数码闲聊站",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-08-04",
-      "time": "11:03",
-      "publishedAt": "2026-08-04T11:03:00.000Z",
-      "url": "https://weibo.com/6048569942/RbRmpj3au",
-      "image": "",
-      "summary": "前段时间摸了一大堆迭代新机，玻纤和玻璃材质扎堆了，新型陶瓷什么时候回归？你们想要吗？[doge]",
-      "tags": [
-        "行业",
-        "爆料",
-        "微博"
-      ]
-    },
-    {
       "id": "auto-ed271fcb8d5a",
       "title": "The Galaxy Z Fold 8 is almost perfect. I just wish it wasn’t a foldable",
       "source": "Android Authority",
@@ -1219,46 +1279,6 @@ window.phoneRadarAuto = {
         "OPPO",
         "爆料",
         "酷安博主"
-      ]
-    },
-    {
-      "id": "weibo-0146bea5984f",
-      "title": "数码闲聊站：REDMI K100 Pro真机上手体验： ——首发骁龙8 Elite Gen…",
-      "source": "数码闲聊站",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-08-04",
-      "time": "06:08",
-      "publishedAt": "2026-08-04T06:08:00.000Z",
-      "url": "https://weibo.com/6048569942/RbPqFkhUg",
-      "image": "https://tvax1.sinaimg.cn/mw2000/006BlblIgy1ifr19xmnekj333n2bqnpf.jpg",
-      "summary": "REDMI K100 Pro真机上手体验： ——首发骁龙8 Elite Gen5V，同样是台积电N3p+4.6GHz Oryon满血双超大核架构；Adreno 840GPU有所调整，频率未降，3 slice→2 slice，GMEM 18MB→12MB。 从理论跑分来看，性能基准大概是8E5 90％。 ——185Hz RGB OLED+D2独显芯片，由于C…",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "微博"
-      ]
-    },
-    {
-      "id": "auto-d196fd0d9027",
-      "title": "Redmi 17 5G renders leak, specs tag along",
-      "source": "Gizmochina",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-04",
-      "time": "05:46",
-      "publishedAt": "2026-08-04T05:46:49.000Z",
-      "url": "https://www.gizmochina.com/2026/08/04/redmi-17-5g-renders-leak-specs-tag-along/",
-      "image": "https://www.gizmochina.com/wp-content/uploads/2026/08/Redmi-17-5G-Design-2-297x300.jpg?x23692",
-      "summary": "We have now got a clear look at the Redmi 17 5G before it even launches. A fresh set of renders, shared by tech outlet 91mobiles, shows the phone in three colors: orange, black, a…",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "自动抓取"
       ]
     },
     {

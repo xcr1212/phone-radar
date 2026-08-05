@@ -1,11 +1,11 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-08-05T14:32:00.982Z",
+  "updatedAt": "2026-08-05T17:52:56.020Z",
   "issueDate": "2026-08-05",
   "issue": "VOL.260805",
   "title": "手机情报日报",
-  "intro": "今日筛出 14 条重点，其中 8 条是重点爆料，包含 7 条 iPhone 相关、1 条官方确认、1 条参数线索。",
+  "intro": "今日筛出 15 条重点，其中 8 条是重点爆料，包含 7 条 iPhone 相关、1 条官方确认、1 条参数线索。",
   "stats": {
-    "total": 14,
+    "total": 15,
     "iphone": 7,
     "leaks": 8,
     "official": 1,
@@ -17,6 +17,29 @@ window.phoneRadarDaily = {
       "title": "重点爆料",
       "hint": "机模、配色、影像、屏幕、电池和芯片线索先看。",
       "items": [
+        {
+          "id": "auto-08f8162c399c",
+          "title": "iPhone 相关消息",
+          "originalTitle": "",
+          "source": "9to5Mac",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-08-05",
+          "time": "15:41",
+          "publishedAt": "2026-08-05T15:41:31.000Z",
+          "url": "https://9to5mac.com/2026/08/05/iphone-ultra-sounds-truly-deserving-of-the-ultra-name/",
+          "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/iphone-ultra-concept-blue.jpg?quality=82&strip=all&w=1600",
+          "verdict": "先看",
+          "takeaway": "iPhone 相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
+          "detail": "iPhone 相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
+          "keyPoints": [
+            "爆料来源"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
         {
           "id": "auto-a9c9b6c5faf8",
           "title": "iPhone 发布 / 上市相关消息",
@@ -64,29 +87,6 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
-          "id": "auto-33de5fe3d91f",
-          "title": "iPhone 相关消息",
-          "originalTitle": "",
-          "source": "MacRumors",
-          "brand": "iPhone",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-08-04",
-          "time": "17:18",
-          "publishedAt": "2026-08-04T17:18:05.000Z",
-          "url": "https://www.macrumors.com/2026/08/04/apple-september-iphone-event-preparation/",
-          "image": "https://images.macrumors.com/article-new/2026/04/iPhone-18-Pro-Rumored-Colors.jpg",
-          "verdict": "先看",
-          "takeaway": "iPhone 相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
-          "detail": "iPhone 相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
           "id": "auto-9ed86846506a",
           "title": "iPhone 屏幕规格相关消息",
           "originalTitle": "",
@@ -111,27 +111,50 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
-          "id": "weibo-0146bea5984f",
-          "title": "数码闲聊站：REDMI K100 Pro真机上手体验： ——首发骁龙8 Elite Gen…",
+          "id": "auto-1f701a49e035",
+          "title": "NearLink E2.0：华为 nova 16 SE 手机确认支持星闪音频功能",
           "originalTitle": "",
-          "source": "数码闲聊站",
-          "brand": "Xiaomi",
+          "source": "IT之家",
+          "brand": "Huawei",
           "type": "爆料",
-          "trust": "高关注爆料源",
-          "date": "2026-08-04",
-          "time": "06:08",
-          "publishedAt": "2026-08-04T06:08:00.000Z",
-          "url": "https://weibo.com/6048569942/RbPqFkhUg",
-          "image": "https://tvax1.sinaimg.cn/mw2000/006BlblIgy1ifr19xmnekj333n2bqnpf.jpg",
+          "trust": "媒体汇总",
+          "date": "2026-08-05",
+          "time": "15:14",
+          "publishedAt": "2026-08-05T15:14:40.000Z",
+          "url": "https://www.ithome.com/0/986/253.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/8/52383900-4a7f-4783-a4a6-8702eacbc219.jpg?x-bce-process=image/format,f_auto",
           "verdict": "先看",
-          "takeaway": "REDMI K100 Pro真机上手体验： ——首发骁龙8 Elite Gen5V，同样是台积电N3p+4.6GHz Oryon满血双超大核架构；Adreno 840GPU有所调整，频率未降，3 slice→2 slice，GMEM 18MB→12MB。 从理论跑分来看，性能基准大概是8E5 90％。 ——185Hz RGB OLED+D2独显芯片，由于C…",
-          "detail": "REDMI K100 Pro真机上手体验： ——首发骁龙8 Elite Gen5V，同样是台积电N3p+4.6GHz Oryon满血双超大核架构；Adreno 840GPU有所调整，频率未降，3 slice→2 slice，GMEM 18MB→12MB。 从理论跑分来看，性能基准大概是8E5 90％。 ——185Hz RGB OLED+D2独显芯片，由于C…",
+          "takeaway": "IT之家 8 月 5 日消息，在今天下午的尊界时代旗舰 MPV 及华为全场景新品发布会上，华为 nova16 SE 手机正式发布，搭载麒麟 8020 芯片 + 8500mAh 电池， 定价 2499 元起 ，将于 8 月 12 日正式开售。 128GB：售价 2499 元 256GB：售价 2699 元 512GB：售价 3199 元 IT之家从华为官网获…",
+          "detail": "IT之家 8 月 5 日消息，在今天下午的尊界时代旗舰 MPV 及华为全场景新品发布会上，华为 nova16 SE 手机正式发布，搭载麒麟 8020 芯片 + 8500mAh 电池， 定价 2499 元起 ，将于 8 月 12 日正式开售。 128GB：售价 2499 元 256GB：售价 2699 元 512GB：售价 3199 元 IT之家从华为官网获…",
           "keyPoints": [
-            "屏幕形态",
+            "电池 / 充电",
             "芯片 / 性能",
-            "爆料来源"
+            "成本 / 价格"
           ],
-          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "coolapk-user-32bbcf2be2c4",
+          "title": "JSCHEN小小狐：还是被惊艳到了，有种轻若无物的感觉。 摆的这台紫色是镜面屏，屏幕依旧有做 AR 抗反射镀膜，观感也不错。转轴一如既…",
+          "originalTitle": "",
+          "source": "JSCHEN小小狐",
+          "brand": "Huawei",
+          "type": "爆料",
+          "trust": "高可信爆料",
+          "date": "2026-08-05",
+          "time": "16:45",
+          "publishedAt": "2026-08-05T16:45:32.000Z",
+          "url": "https://www.coolapk.com/feed/73101058",
+          "image": "http://image.coolapk.com/feed/2026/0806/00/4702274_6f7510b9_8329_0364_90-uhdr@2366x3503.jpg",
+          "verdict": "先看",
+          "takeaway": "还是被惊艳到了，有种轻若无物的感觉。 摆的这台紫色是镜面屏，屏幕依旧有做 AR 抗反射镀膜，观感也不错。转轴一如既往的流畅，电源指纹套的是 GT 14 的设计，1.5mm 键程比上代 Pro 弱了点，不过触控板振感反倒会略好些？ 另外不知道是不是黑边变窄的缘故，这次 Pro S 取消了此前屏幕下边框的“HUAWEI”Logo。 #华为MateBookPro…",
+          "detail": "还是被惊艳到了，有种轻若无物的感觉。 摆的这台紫色是镜面屏，屏幕依旧有做 AR 抗反射镀膜，观感也不错。转轴一如既往的流畅，电源指纹套的是 GT 14 的设计，1.5mm 键程比上代 Pro 弱了点，不过触控板振感反倒会略好些？ 另外不知道是不是黑边变窄的缘故，这次 Pro S 取消了此前屏幕下边框的“HUAWEI”Logo。 #华为MateBookPro…",
+          "keyPoints": [
+            "屏幕形态"
+          ],
+          "confidence": "可信度较高，但仍属于发布前线索。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
@@ -179,31 +202,6 @@ window.phoneRadarDaily = {
             "爆料来源"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "coolapk-user-37e86ec115d7",
-          "title": "JSCHEN小小狐：『华为 nova 16 SE 正式发布：售价 2499 元起』 8GB + 128GB —— 2499 元 8GB…",
-          "originalTitle": "",
-          "source": "JSCHEN小小狐",
-          "brand": "Huawei",
-          "type": "爆料",
-          "trust": "高可信爆料",
-          "date": "2026-08-05",
-          "time": "09:06",
-          "publishedAt": "2026-08-05T09:06:51.000Z",
-          "url": "https://www.coolapk.com/feed/73094725",
-          "image": "http://image.coolapk.com/feed/2026/0805/17/4702274_12f7da36_0861_4938_765@960x4913.jpg",
-          "verdict": "先看",
-          "takeaway": "『华为 nova 16 SE 正式发布：售价 2499 元起』 8GB + 128GB —— 2499 元 8GB + 256GB —— 2699 元 8GB + 512GB —— 3199 元 ◇ 外观 星空黑、破晓橙、天际白、樱雪晴空 塑胶边框 + 复合板材后盖 163.3 × 78 × 7.98mm，约 229 克 ◇ 处理器 麒麟 8020 5G…",
-          "detail": "『华为 nova 16 SE 正式发布：售价 2499 元起』 8GB + 128GB —— 2499 元 8GB + 256GB —— 2699 元 8GB + 512GB —— 3199 元 ◇ 外观 星空黑、破晓橙、天际白、樱雪晴空 塑胶边框 + 复合板材后盖 163.3 × 78 × 7.98mm，约 229 克 ◇ 处理器 麒麟 8020 5G…",
-          "keyPoints": [
-            "外观 / 配色 / 尺寸",
-            "芯片 / 性能",
-            "成本 / 价格"
-          ],
-          "confidence": "可信度较高，但仍属于发布前线索。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         }
@@ -281,6 +279,36 @@ window.phoneRadarDaily = {
           ],
           "confidence": "官方内容，可直接作为已确认信息记录。",
           "impact": "可信度高，但如果不是配置/价格消息，只需要扫一眼。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        }
+      ]
+    },
+    {
+      "id": "launch",
+      "title": "新机与官方发布",
+      "hint": "能直接更新到参数库。",
+      "items": [
+        {
+          "id": "auto-e4bdff29f4e8",
+          "title": "Pixel 10 发布 / 上市相关消息",
+          "originalTitle": "",
+          "source": "9to5Google",
+          "brand": "Pixel",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-08-05",
+          "time": "15:30",
+          "publishedAt": "2026-08-05T15:30:00.000Z",
+          "url": "https://9to5google.com/2026/08/05/pixel-10-cases-discount-clearout/",
+          "image": "",
+          "verdict": "可略过",
+          "takeaway": "Pixel 有发布或新功能消息，适合确认是否和新机有关。",
+          "detail": "Pixel 10 发布 / 上市相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         }
       ]
