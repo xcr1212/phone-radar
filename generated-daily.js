@@ -1,14 +1,14 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-08-04T23:17:30.170Z",
-  "issueDate": "2026-08-04",
-  "issue": "VOL.260804",
+  "updatedAt": "2026-08-05T03:31:17.989Z",
+  "issueDate": "2026-08-05",
+  "issue": "VOL.260805",
   "title": "手机情报日报",
-  "intro": "今日筛出 8 条重点，其中 8 条是重点爆料，包含 6 条 iPhone 相关、0 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 11 条重点，其中 8 条是重点爆料，包含 6 条 iPhone 相关、1 条官方确认、0 条参数线索。",
   "stats": {
-    "total": 8,
+    "total": 11,
     "iphone": 6,
     "leaks": 8,
-    "official": 0,
+    "official": 1,
     "specs": 0
   },
   "sections": [
@@ -17,54 +17,6 @@ window.phoneRadarDaily = {
       "title": "重点爆料",
       "hint": "机模、配色、影像、屏幕、电池和芯片线索先看。",
       "items": [
-        {
-          "id": "auto-add1dc5372f7",
-          "title": "消息称苹果 iPhone 20 周年或迎设计革新：四曲面屏与更大尺寸",
-          "originalTitle": "",
-          "source": "IT之家",
-          "brand": "iPhone",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-08-04",
-          "time": "23:10",
-          "publishedAt": "2026-08-04T23:10:59.000Z",
-          "url": "https://www.ithome.com/0/985/743.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/8/f2e28806-de72-4178-b718-56ee3abe810e.jpg?x-bce-process=image/format,f_auto",
-          "verdict": "先看",
-          "takeaway": "IT之家 8 月 5 日消息，明年将迎来 iPhone 发布 20 周年，而多方传闻显示，苹果正准备为 iPhone Pro 系列带来一次激进的设计革新。最新曝光的信息还透露，新一代机型的屏幕尺寸也有望进一步增大。 2017 年，在 iPhone 发布 10 周年之际，苹果推出了具有里程碑意义的 iPhone X。 如今，多方消息称，苹果计划在明年 iPh…",
-          "detail": "IT之家 8 月 5 日消息，明年将迎来 iPhone 发布 20 周年，而多方传闻显示，苹果正准备为 iPhone Pro 系列带来一次激进的设计革新。最新曝光的信息还透露，新一代机型的屏幕尺寸也有望进一步增大。 2017 年，在 iPhone 发布 10 周年之际，苹果推出了具有里程碑意义的 iPhone X。 如今，多方消息称，苹果计划在明年 iPh…",
-          "keyPoints": [
-            "外观 / 配色 / 尺寸",
-            "屏幕形态",
-            "爆料来源"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "auto-c4af5a7c581b",
-          "title": "消息称苹果在美国向零售店员工开放抽签，招募 9 月 iPhone 发布会现场秩序维护人员",
-          "originalTitle": "",
-          "source": "IT之家",
-          "brand": "iPhone",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-08-04",
-          "time": "22:48",
-          "publishedAt": "2026-08-04T22:48:12.000Z",
-          "url": "https://www.ithome.com/0/985/734.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/8/db1fe321-e89a-4711-ab74-59632a449301.jpg?x-bce-process=image/format,f_auto",
-          "verdict": "先看",
-          "takeaway": "IT之家 8 月 5 日消息，据彭博社报道，苹果近日面向美国零售店员工开放了一项内部抽签活动，招募员工参与今年 9 月举行的 iPhone 发布会现场支持工作。这也将成为即将接任苹果 CEO 的约翰 · 特努斯（John Ternus）领导下的首次大型产品发布会。 彭博社表示，目前其已查看到一份内部备忘录，显示苹果内部将此次计划称为“Event Suppo…",
-          "detail": "IT之家 8 月 5 日消息，据彭博社报道，苹果近日面向美国零售店员工开放了一项内部抽签活动，招募员工参与今年 9 月举行的 iPhone 发布会现场支持工作。这也将成为即将接任苹果 CEO 的约翰 · 特努斯（John Ternus）领导下的首次大型产品发布会。 彭博社表示，目前其已查看到一份内部备忘录，显示苹果内部将此次计划称为“Event Suppo…",
-          "keyPoints": [
-            "爆料来源"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
         {
           "id": "weibo-b9d24367e002",
           "title": "数码闲聊站：一条独家超前瞻信息： 苹果正在打样两块新屏，一块物理尺寸6.4英寸±，有概率运…",
@@ -137,24 +89,23 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
-          "id": "auto-c23309826264",
-          "title": "iPhone 外观设计线索曝光",
+          "id": "auto-7153521ad45b",
+          "title": "三星公告：部分 Galaxy S26 Ultra 手机局部泛红非硬件故障，可软件修复",
           "originalTitle": "",
-          "source": "9to5Mac",
-          "brand": "iPhone",
+          "source": "IT之家",
+          "brand": "Samsung",
           "type": "爆料",
           "trust": "媒体汇总",
-          "date": "2026-08-03",
-          "time": "13:32",
-          "publishedAt": "2026-08-03T13:32:59.000Z",
-          "url": "https://9to5mac.com/2026/08/03/new-leaks-cover-iphone-ultra-timing-iphone-pros-design-next-year/",
-          "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/05/iphone-19-pro-20-anniversary-max.jpg?quality=82&strip=all&w=1600",
+          "date": "2026-08-05",
+          "time": "00:47",
+          "publishedAt": "2026-08-05T00:47:26.000Z",
+          "url": "https://www.ithome.com/0/985/771.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/8/a241a53d-1f1b-4ca3-93d2-20dcffcb6743.png?x-bce-process=image/format,f_auto",
           "verdict": "先看",
-          "takeaway": "iPhone 外观设计线索曝光。重点看外观、颜色、尺寸是否和上一代有明显变化。",
-          "detail": "iPhone 外观设计线索曝光。这类内容主要看外观设计、按键布局、相机模组和尺寸变化，后续最好等更多渲染图或保护壳线索互相验证。",
+          "takeaway": "IT之家 8 月 5 日消息，科技媒体 SamMobile 昨日（8 月 4 日）发布博文，报道称三星在官方社区发布公告， 明确 Galaxy S26 Ultra 手机的局部泛红并非硬件问题。 三星通过韩国版 Samsung Members 应用程序发布官方声明，确认部分 Galaxy S26 Ultra 屏幕中央矩形区域出现红色色调的现象源于软件问题，可…",
+          "detail": "IT之家 8 月 5 日消息，科技媒体 SamMobile 昨日（8 月 4 日）发布博文，报道称三星在官方社区发布公告， 明确 Galaxy S26 Ultra 手机的局部泛红并非硬件问题。 三星通过韩国版 Samsung Members 应用程序发布官方声明，确认部分 Galaxy S26 Ultra 屏幕中央矩形区域出现红色色调的现象源于软件问题，可…",
           "keyPoints": [
-            "外观 / 配色 / 尺寸",
-            "爆料来源"
+            "屏幕形态"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
@@ -186,28 +137,149 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
-          "id": "coolapk-user-1244fc0dbfef",
-          "title": "JSCHEN小小狐：『OPPO A7 Pro Max 发布：售价 2199 元起』 8GB + 128GB —— 2199 元 8GB…",
+          "id": "coolapk-user-79d71d7a4cd8",
+          "title": "竹本青：【REDMI K100 Pro 影像预热：三摄五焦段】 ● 2亿像素主摄 ● 10cm 长焦微距 ● 大师实况 #…",
           "originalTitle": "",
-          "source": "JSCHEN小小狐",
-          "brand": "OPPO",
+          "source": "竹本青",
+          "brand": "Xiaomi",
           "type": "爆料",
           "trust": "高可信爆料",
-          "date": "2026-08-04",
-          "time": "07:00",
-          "publishedAt": "2026-08-04T07:00:33.000Z",
-          "url": "https://www.coolapk.com/feed/73078281",
-          "image": "http://image.coolapk.com/feed/2026/0804/15/4702274_ac73eb97_6923_1836_47@1167x7104.jpg",
+          "date": "2026-08-05",
+          "time": "02:00",
+          "publishedAt": "2026-08-05T02:00:57.000Z",
+          "url": "https://www.coolapk.com/feed/73089158",
+          "image": "http://image.coolapk.com/feed/2026/0805/10/4248714_bddf3300_5256_6806_260@1080x1440.jpg",
           "verdict": "先看",
-          "takeaway": "『OPPO A7 Pro Max 发布：售价 2199 元起』 8GB + 128GB —— 2199 元 8GB + 256GB —— 2599 元 12GB + 256GB —— 2699 元 12GB + 512GB —— 2999 元 ◇ 外观 乘风破浪、前橙似锦、远山黑 塑料中框 + 复合板材后盖 厚 8.57mm，226/224 克 多功能氛围…",
-          "detail": "『OPPO A7 Pro Max 发布：售价 2199 元起』 8GB + 128GB —— 2199 元 8GB + 256GB —— 2599 元 12GB + 256GB —— 2699 元 12GB + 512GB —— 2999 元 ◇ 外观 乘风破浪、前橙似锦、远山黑 塑料中框 + 复合板材后盖 厚 8.57mm，226/224 克 多功能氛围…",
+          "takeaway": "【REDMI K100 Pro 影像预热：三摄五焦段】 ● 2亿像素主摄 ● 10cm 长焦微距 ● 大师实况 #今日热点# #REDMIK100ProMax# #REDMIK100Pro#",
+          "detail": "【REDMI K100 Pro 影像预热：三摄五焦段】 ● 2亿像素主摄 ● 10cm 长焦微距 ● 大师实况 #今日热点# #REDMIK100ProMax# #REDMIK100Pro#",
           "keyPoints": [
-            "外观 / 配色 / 尺寸",
-            "成本 / 价格"
+            "影像硬件"
           ],
           "confidence": "可信度较高，但仍属于发布前线索。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "coolapk-user-04bfe376a54c",
+          "title": "JSCHEN小小狐：REDMI K100 Pro 预热：2 亿像素旗舰三摄",
+          "originalTitle": "",
+          "source": "JSCHEN小小狐",
+          "brand": "Xiaomi",
+          "type": "爆料",
+          "trust": "高可信爆料",
+          "date": "2026-08-05",
+          "time": "02:00",
+          "publishedAt": "2026-08-05T02:00:54.000Z",
+          "url": "https://www.coolapk.com/feed/73089156",
+          "image": "http://image.coolapk.com/feed/2026/0805/10/4702274_8c9ab2fc_5252_4558_706@1080x1440.jpg",
+          "verdict": "先看",
+          "takeaway": "『REDMI K100 Pro 预热：2 亿像素旗舰三摄』 ◇ 2 亿像素主摄（1/1.56''，OIS） ◇ 50Mp 直立长焦（10cm 微距） ◇ 三摄五焦段｜旗舰同款大师实况 #今日热点# #REDMIK100ProMax#",
+          "detail": "『REDMI K100 Pro 预热：2 亿像素旗舰三摄』 ◇ 2 亿像素主摄（1/1.56''，OIS） ◇ 50Mp 直立长焦（10cm 微距） ◇ 三摄五焦段｜旗舰同款大师实况 #今日热点# #REDMIK100ProMax#",
+          "keyPoints": [
+            "影像硬件"
+          ],
+          "confidence": "可信度较高，但仍属于发布前线索。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "coolapk-user-9fab1d780261",
+          "title": "竹本青：REDMI K100 Pro 续航组合公布：8580mAh+100W",
+          "originalTitle": "",
+          "source": "竹本青",
+          "brand": "Xiaomi",
+          "type": "爆料",
+          "trust": "高可信爆料",
+          "date": "2026-08-05",
+          "time": "01:00",
+          "publishedAt": "2026-08-05T01:00:45.000Z",
+          "url": "https://www.coolapk.com/feed/73088513",
+          "image": "http://image.coolapk.com/feed/2026/0805/10/4248714_590b8876_5574_5266_565@2000x2667.jpg",
+          "verdict": "先看",
+          "takeaway": "【REDMI K100 Pro 续航组合公布：8580mAh+100W有线+50W无线】 ● 8580mAh电池，26%硅碳含量 ● 100W有线快充，27W有线反充 ● 50W无线快充，22.5W无线反充 #今日热点# #REDMIK100Pro# #HyperOS3#",
+          "detail": "【REDMI K100 Pro 续航组合公布：8580mAh+100W有线+50W无线】 ● 8580mAh电池，26%硅碳含量 ● 100W有线快充，27W有线反充 ● 50W无线快充，22.5W无线反充 #今日热点# #REDMIK100Pro# #HyperOS3#",
+          "keyPoints": [
+            "电池 / 充电"
+          ],
+          "confidence": "可信度较高，但仍属于发布前线索。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        }
+      ]
+    },
+    {
+      "id": "iphone",
+      "title": "iPhone 重点",
+      "hint": "不是硬件爆料，但和 iPhone 体验或路线有关。",
+      "items": [
+        {
+          "id": "auto-ee69961c3dc3",
+          "title": "基于苹果 WebKit 的浏览器被披露安全风险，恐泄露 iOS / macOS 用户网络信息",
+          "originalTitle": "",
+          "source": "IT之家",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-08-05",
+          "time": "02:51",
+          "publishedAt": "2026-08-05T02:51:39.000Z",
+          "url": "https://www.ithome.com/0/985/850.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/8/88773da3-fc66-4123-8bb3-8a0875215038.png?x-bce-process=image/format,f_auto",
+          "verdict": "先看",
+          "takeaway": "IT之家 8 月 5 日消息，网络安全博客 Mysk 昨日（8 月 4 日）发布博文，披露称在 iOS 和 macOS 系统中，基于 WebKit 引擎的浏览器存在 DNS 预取、通行密钥验证与 WebTransport 三个漏洞， 被黑客利用可泄露用户网络信息。 研究人员 Talal Haj Bakry 与 Tommy Mysk 在报告中指出，基于 We…",
+          "detail": "IT之家 8 月 5 日消息，网络安全博客 Mysk 昨日（8 月 4 日）发布博文，披露称在 iOS 和 macOS 系统中，基于 WebKit 引擎的浏览器存在 DNS 预取、通行密钥验证与 WebTransport 三个漏洞， 被黑客利用可泄露用户网络信息。 研究人员 Talal Haj Bakry 与 Tommy Mysk 在报告中指出，基于 We…",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "中文源可以直接点开快读；看完只保留和购机有关的点。"
+        },
+        {
+          "id": "newsnow-bce8e8cf774e",
+          "title": "和妹妹闲聊我问她为啥她们女生都喜欢用苹果？她说不卡拍照好，我说现在的安卓也不卡啊，拍照甚至比它好多了，结果我妹妹说我花大几千买个安卓为啥不买个苹果？[捂脸]确实苹果给大多数人的第一印象就是不卡，之前好多同事聊苹果脱口而出的就是不卡，不过她这个机天天提示iphone需要降温，把玩了一下外放音质是确实强，再一听我的x9pro，简直就是天上地下的区别[牛牛尴尬]#数码日常#",
+          "originalTitle": "",
+          "source": "酷安热榜",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "高关注爆料源",
+          "date": "2026-08-05",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://www.coolapk.com/feed/73077782",
+          "image": "",
+          "verdict": "先看",
+          "takeaway": "和妹妹闲聊我问她为啥她们女生都喜欢用苹果？她说不卡拍照好，我说现在的安卓也不卡啊，拍照甚至比它好多了，结果我妹妹说我花大几千买个安卓为啥不买个苹果？[捂脸]确实苹果给大多数人的第一印象就是不卡，之前好多同事聊苹果脱口而出的就是不卡，不过她这个机天天提示iphone需要降温，把玩了一下外放音质是确实强，再一听我的x9pro，简直就是天上地下的区别[牛牛尴尬]…",
+          "detail": "和妹妹闲聊我问她为啥她们女生都喜欢用苹果？她说不卡拍照好，我说现在的安卓也不卡啊，拍照甚至比它好多了，结果我妹妹说我花大几千买个安卓为啥不买个苹果？[捂脸]确实苹果给大多数人的第一印象就是不卡，之前好多同事聊苹果脱口而出的就是不卡，不过她这个机天天提示iphone需要降温，把玩了一下外放音质是确实强，再一听我的x9pro，简直就是天上地下的区别[牛牛尴尬]…",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        },
+        {
+          "id": "auto-9bbf43c61c96",
+          "title": "iPhone 系统功能 / AI 体验相关消息",
+          "originalTitle": "",
+          "source": "Apple Newsroom",
+          "brand": "iPhone",
+          "type": "官方",
+          "trust": "官方确认",
+          "date": "2026-08-05",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://www.apple.com/newsroom/2026/06/apple-announces-changes-to-ios-in-brazil/",
+          "image": "",
+          "verdict": "先看",
+          "takeaway": "iPhone 系统功能 / AI 体验相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
+          "detail": "iPhone 系统功能 / AI 体验相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
+          "keyPoints": [
+            "官方"
+          ],
+          "confidence": "官方内容，可直接作为已确认信息记录。",
+          "impact": "可信度高，但如果不是配置/价格消息，只需要扫一眼。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         }
       ]
     }
