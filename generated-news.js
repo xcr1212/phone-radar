@@ -1,5 +1,5 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-08-05T19:53:18.300Z",
+  "updatedAt": "2026-08-05T21:31:40.745Z",
   "news": [
     {
       "id": "auto-99cdd41dc1b5",
@@ -462,26 +462,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-bd8c1cdafa69",
-      "title": "消息称美国前沿人工智能模型网络安全审查机制暂不涉及开放权重模型",
-      "source": "IT之家",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-05",
-      "time": "10:21",
-      "publishedAt": "2026-08-05T10:21:19.000Z",
-      "url": "https://www.ithome.com/0/986/183.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/8/bd733c99-ad2f-4eba-870e-dbd389dd3f82.jpg?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 8 月 5 日消息，综合《纽约时报》《华尔街日报》《Axios》、彭博社等外媒报道，美国政府在当地时间本周二与头部人工智能企业举行的闭门会议中表示， 其今年 6 月宣布的前沿模型网络安全审查机制当前仅涉及闭源模型 ， 开放权重模型至少暂时不会受到影响 。 知情人士透露，美国政府在会议中将需自愿接受审查的模型定义为具有最先进功能和国家安全风险的闭源…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-e9a2cf758435",
       "title": "Baseus Dark Cherry Collection for iPhone 18 Pro First Impression",
       "source": "Gizmochina",
@@ -642,26 +622,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-5b058d53c933",
-      "title": "The Pixel 10 gets the spotlight in Google's August update",
-      "source": "Android Police",
-      "brand": "Pixel",
-      "model": "Pixel 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-05",
-      "time": "04:54",
-      "publishedAt": "2026-08-05T04:54:33.000Z",
-      "url": "https://www.androidpolice.com/pixel-10-gets-the-spotlight-in-googles-august-update/",
-      "image": "",
-      "summary": "It fixes several GPU-related issues",
-      "tags": [
-        "Pixel",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-b18b58e4ce49",
       "title": "Redmi confirms K100 Pro’s battery size, charging, and 200MP camera details",
       "source": "Gizmochina",
@@ -742,26 +702,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-0d20b908b3ec",
-      "title": "余承东：内存涨价，手机之后可能都要大规模涨价",
-      "source": "酷安热榜",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-08-05",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73095878",
-      "image": "",
-      "summary": "余承东：内存涨价，手机之后可能都要大规模涨价",
-      "tags": [
-        "行业",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
       "id": "newsnow-cbf00bf11d51",
       "title": "REDMI K100 Pro 预热：2 亿像素旗舰三摄",
       "source": "酷安热榜",
@@ -777,6 +717,26 @@ window.phoneRadarAuto = {
       "summary": "REDMI K100 Pro 预热：2 亿像素旗舰三摄",
       "tags": [
         "Xiaomi",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-0d20b908b3ec",
+      "title": "余承东：内存涨价，手机之后可能都要大规模涨价",
+      "source": "酷安热榜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-08-05",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/73095878",
+      "image": "",
+      "summary": "余承东：内存涨价，手机之后可能都要大规模涨价",
+      "tags": [
+        "行业",
         "爆料",
         "NewsNow"
       ]
