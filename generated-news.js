@@ -1,6 +1,226 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-08-05T10:45:29.897Z",
+  "updatedAt": "2026-08-05T14:32:00.982Z",
   "news": [
+    {
+      "id": "auto-70788fcb0aa7",
+      "title": "Samsung confirms Galaxy Z Fold 8’s record-breaking sales numbers as pre-order deals are ending",
+      "source": "9to5Google",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-05",
+      "time": "14:30",
+      "publishedAt": "2026-08-05T14:30:00.000Z",
+      "url": "https://9to5google.com/2026/08/05/samsung-galaxy-z-fold-8-sales-numbers-pre-orders-ending/",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/07/galaxy-z-fold-8-review-23.jpg?quality=82&strip=all&w=1600",
+      "summary": "Following reports from the media, Samsung has officially confirmed the initial record-breaking sales numbers for its Galaxy Z Fold 8 right as pre-order deals are coming to their e…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-eee10824eb66",
+      "title": "竹本青：【消息称长鑫存储拒绝苹果压价，内存报价甚至高于三星电子、SK海力士】 8月5日，据韩媒《Digital Daily…",
+      "source": "竹本青",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-08-05",
+      "time": "14:10",
+      "publishedAt": "2026-08-05T14:10:33.000Z",
+      "url": "https://www.coolapk.com/feed/73098897",
+      "image": "http://image.coolapk.com/feed/2026/0805/22/4248714_385d3aef_9032_415_538@891x629.jpg",
+      "summary": "【消息称长鑫存储拒绝苹果压价，内存报价甚至高于三星电子、SK海力士】 8月5日，据韩媒《Digital Daily》报道，苹果此前为了降低成本，曾考虑将中国长鑫存储纳入新的供应链，但如今在进一步压低采购价格的谈判中遭遇阻力。 苹果近期为了缓解下一代iPhone及其他智能设备的制造成本压力，与长鑫存储就LPDDR5X等移动DRAM的供货价格进行了谈判，但其降…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-a9c9b6c5faf8",
+      "title": "A live iPhone launch seems unlikely, but the event could be live-lier this year",
+      "source": "9to5Mac",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-05",
+      "time": "14:01",
+      "publishedAt": "2026-08-05T14:01:45.000Z",
+      "url": "https://9to5mac.com/2026/08/05/a-live-iphone-launch-seems-unlikely-but-the-event-could-be-live-lier-this-year/",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/A-live-iPhone-launch-seems-unlikely-but-the-event-could-be-live-lier-this-year.jpg?quality=82&strip=all&w=1600",
+      "summary": "Bloomberg’s Mark Gurman stirred things up a little with what was likely a deliberately teasingly-phrased tweet. Some took this to be a reference to a live iPhone keynote presentat…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-09fab594e241",
+      "title": "消息称阶跃星辰内部确立大模型与智能体终端两条战略线，手机业务独立运营、将进入海外市场",
+      "source": "IT之家",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-05",
+      "time": "13:29",
+      "publishedAt": "2026-08-05T13:29:22.000Z",
+      "url": "https://www.ithome.com/0/986/233.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/8/21232e55-2240-475c-95bb-372dc82ead33.png?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 8 月 5 日消息，据虎嗅消息， 阶跃星辰内部正在按照两条战略线推进：一条仍以大模型为核心，另一条则以智能体终端为核心， 目前手机只是初步探索。 其中，以大模型为核心的业务仍以上海阶跃星辰智能科技股份有限公司这一原有主体运营； 手机业务则被放入一家新公司独立运营 。 据悉，阶跃正在搭建海外商业化团队，计划向海外销售大模型 API，其中将以语音模型…",
+      "tags": [
+        "行业",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-45c7ccf40a0b",
+      "title": "华为鸿蒙 6“超透”控制 / 通知中心背板彩蛋在 HarmonyOS 7 花粉 Beta 版得以保留",
+      "source": "IT之家",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-05",
+      "time": "12:55",
+      "publishedAt": "2026-08-05T12:55:14.000Z",
+      "url": "https://www.ithome.com/0/986/227.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/4/4ae43cfe-e5fd-43c2-9d2d-25533e3dd0ed.jpg?x-bce-process=image/auto-orient,o_1",
+      "summary": "IT之家 8 月 5 日消息，在去年 11 月 26 日的华为全场景新品线上发布会上，华为常务董事、产品投资委员会主任、终端 BG 董事长余承东宣布，Mate 80 系列手机首发搭载鸿蒙 HarmonyOS 6 系统，并带来全新沉浸光感效果。 随着版本的更新，沉浸光感视效在 HarmonyOS 正式版系统已来到 2.0 阶段。华为也埋下了一个彩蛋 —— 当…",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-047e34111aae",
+      "title": "If Nothing doesn't want to follow OnePlus, it needs to fix this one big problem",
+      "source": "Android Police",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-05",
+      "time": "12:00",
+      "publishedAt": "2026-08-05T12:00:16.000Z",
+      "url": "https://www.androidpolice.com/nothing-needs-to-fix-its-smartphone-problem/",
+      "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2026/08/four-white-nothing-phones-labeled-phone-4a-pro-phone-4a-phone-4b-and-phone-3.png",
+      "summary": "Nothing about its product line-up makes sense",
+      "tags": [
+        "OPPO",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-4a3ff4c10669",
+      "title": "As iPhones get more expensive, T-Mobile launches new 3-year plan",
+      "source": "9to5Mac",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-05",
+      "time": "11:47",
+      "publishedAt": "2026-08-05T11:47:36.000Z",
+      "url": "https://9to5mac.com/2026/08/05/as-iphones-get-more-expensive-t-mobile-launches-new-3-year-plan/",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/As-iPhones-get-more-expensive-T-Mobile-launches-new-3-year-plan.jpg?quality=82&strip=all&w=1500",
+      "summary": "While claims of a $1,399 starting price for the iPhone 18 Pro may be exaggerated , there’s no doubt at all that we are going to see steep price increases for this year’s lineup. A…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-88d0f9fe0a37",
+      "title": "Foldable Smartphone Sales to Rise 20% This Year Due to 'iPhone Ultra'",
+      "source": "MacRumors",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-05",
+      "time": "11:45",
+      "publishedAt": "2026-08-05T11:45:05.000Z",
+      "url": "https://www.macrumors.com/2026/08/05/foldable-smartphone-sales-to-rise-this-year/",
+      "image": "https://images.macrumors.com/article-new/2025/03/Foldable-iPhone-2023-Feature-1.jpg",
+      "summary": "Global foldable smartphone shipments are expected to grow 20% in 2026 compared to last year, with Apple's first entry into the category cited as one of the factors driving the inc…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-aebef811af5f",
+      "title": "Galaxy Z Flip 8 and Z Fold 8 are selling 20% better than last year’s models in Europe",
+      "source": "SamMobile",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-05",
+      "time": "11:33",
+      "publishedAt": "2026-08-05T11:33:07.000Z",
+      "url": "https://www.sammobile.com/news/galaxy-z-flip-fold-8-sales-20-percent-higher-z-flip-fold-7-europe/",
+      "image": "",
+      "summary": "Samsung has revealed that sales of the Galaxy Z Flip 8, Galaxy Z Fold 8, and Galaxy Z Fold 8 Ultra are 20% higher in Europe than sales of last year's Galaxy Z Flip 7 and Galaxy Z…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-f4c20d81e729",
+      "title": "Omdia：智能手机需求疲软，推动翻新机用显示面板出货创新高",
+      "source": "IT之家",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-05",
+      "time": "11:11",
+      "publishedAt": "2026-08-05T11:11:36.000Z",
+      "url": "https://www.ithome.com/0/986/199.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/8/d9da8fad-6113-4b86-9abb-b29f01113d81.jpg?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 8 月 5 日消息，Omdia 最新《智能手机显示市场洞察》报告显示，手机厂商削减生产计划后，面板行业开始把过剩产能转向翻新智能手机市场，翻新机用显示面板出货量随之快速增长。 存储器价格持续上涨，迫使手机厂商大幅下调产量。Omdia 预计，2026 年 新机用显示面板需求将下降 12% 。为了消化产能并寻找新的出货渠道，面板厂商正 加快开拓翻新机…",
+      "tags": [
+        "行业",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-76d89e3dfe6a",
+      "title": "AMD 为 Linux 贡献 eSPI 标准框架，统一支持 BIOS 与 TPM 通信",
+      "source": "IT之家",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-05",
+      "time": "10:53",
+      "publishedAt": "2026-08-05T10:53:38.000Z",
+      "url": "https://www.ithome.com/0/986/196.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/8/97d10953-7e0b-44c2-babc-de92b23da5c4.jpg?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 8 月 5 日消息，当地时间 8 月 4 日，AMD 向 Linux 内核提交了一组补丁，计划为 eSPI（Enhanced Serial Peripheral Interface，增强型串行外设接口）标准建立全新的 Linux 内核子系统。 此前 AMD 已在部分硬件中采用 eSPI，但 Linux 内核一直缺乏统一、通用的 eSPI 框架，此…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-bd8c1cdafa69",
       "title": "消息称美国前沿人工智能模型网络安全审查机制暂不涉及开放权重模型",
@@ -82,46 +302,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-c3f299a83352",
-      "title": "华为 nova16 SE 手机发布：麒麟 8020 芯片、8500mAh 电池，2499 元起",
-      "source": "IT之家",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-05",
-      "time": "09:11",
-      "publishedAt": "2026-08-05T09:11:01.000Z",
-      "url": "https://www.ithome.com/0/986/114.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/8/7ce0e15e-ff15-4d9e-83a3-456ace67982c.jpg",
-      "summary": "IT之家 8 月 5 日消息，在今天下午的尊界时代旗舰 MPV 及华为全场景新品发布会上，华为 nova16 SE 手机正式发布， 售价 2499 元起 ，将于 8 月 12 日开售。 128GB：售价 2499 元 256GB：售价 2699 元 512GB：售价 3199 元 IT之家获悉，华为 Nova16 SE 搭载 6.84 英寸 1.5K（27…",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "coolapk-user-cd1f5ebeb24b",
-      "title": "竹本青：【华为nova16 SE 正式发布，售价2499元起】 128GB —— 2499元 256GB —— 2699元…",
-      "source": "竹本青",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-08-05",
-      "time": "09:07",
-      "publishedAt": "2026-08-05T09:07:19.000Z",
-      "url": "https://www.coolapk.com/feed/73094734",
-      "image": "http://image.coolapk.com/feed/2026/0805/17/4248714_c53955c6_0837_4481_979@960x4914.jpg",
-      "summary": "【华为nova16 SE 正式发布，售价2499元起】 128GB —— 2499元 256GB —— 2699元 512GB —— 3199元 核心： ● 6.84\"1.5K 120Hz LTPS直屏 ● 麒麟8020处理器 ● HarmonyOS 6.1系统 ● 8500mAh电池+66W快充 ▫️屏幕： 分辨率2756*1272｜PPI 444 局部…",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
       "id": "coolapk-user-37e86ec115d7",
       "title": "JSCHEN小小狐：『华为 nova 16 SE 正式发布：售价 2499 元起』 8GB + 128GB —— 2499 元 8GB…",
       "source": "JSCHEN小小狐",
@@ -142,106 +322,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-63ba4ecb03ab",
-      "title": "荣耀 MagicOS 10 系统 8 月版本今日推送首批机型，覆盖 Magic8、荣耀 600 等系列手机",
-      "source": "IT之家",
-      "brand": "HONOR",
-      "model": "HONOR 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-05",
-      "time": "08:50",
-      "publishedAt": "2026-08-05T08:50:21.000Z",
-      "url": "https://www.ithome.com/0/986/075.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/8/98dc9d07-7987-4873-9c59-d514c316fba1.jpg?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 8 月 5 日消息，荣耀产品维护与升级 @荣耀小芳哥 今日表示， 荣耀手机 8 月版本今天 18 点前就向第一批机型推送 。 荣耀 Magic V6 荣耀 Magic8 RSR 保时捷设计 、Magic8 Pro、Magic8 Pro Air、Magic8 荣耀 600 Pro 、600 超级版、600 元气版 IT之家整理 MagicOS 10…",
-      "tags": [
-        "HONOR",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "coolapk-user-ca6e620c5a69",
-      "title": "竹本青：【华为MatePad Pro 2026 正式发布，售价5699元起】 ● 悦享款：麒麟T93A芯片 12GB+25…",
-      "source": "竹本青",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-08-05",
-      "time": "08:49",
-      "publishedAt": "2026-08-05T08:49:52.000Z",
-      "url": "https://www.coolapk.com/feed/73094483",
-      "image": "http://image.coolapk.com/feed/2026/0805/16/4248714_876c7ff5_9791_378_679@990x8190.jpg",
-      "summary": "【华为MatePad Pro 2026 正式发布，售价5699元起】 ● 悦享款：麒麟T93A芯片 12GB+256GB —— 5699元 12GB+256GB —— 6499元（柔光版） 12GB+512GB —— 7699元（含星跃键盘） ● 普通款：麒麟T93芯片 12GB+256GB —— 5999元 12GB+256GB —— 7199元（柔光版…",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
-      "id": "coolapk-user-f71fe54c62a3",
-      "title": "竹本青：【华为MateBook Pro S 轻薄本 正式发布，售价7999元起】 标准版： 16GB+512GB —— 7…",
-      "source": "竹本青",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-08-05",
-      "time": "08:26",
-      "publishedAt": "2026-08-05T08:26:14.000Z",
-      "url": "https://www.coolapk.com/feed/73094111",
-      "image": "http://image.coolapk.com/feed/2026/0805/16/4248714_5039ec3d_8371_124_993@962x8189.jpg",
-      "summary": "【华为MateBook Pro S 轻薄本 正式发布，售价7999元起】 标准版： 16GB+512GB —— 7999元 24GB+512GB —— 8999元 24GB+1TB —— 10499元 柔光板： 24GB+512GB —— 9999元 防窥版： 24GB+512GB —— 10299元 24GB+1TB —— 11799元 典藏版： 32G…",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
-      "id": "coolapk-user-4da7e2c975a4",
-      "title": "JSCHEN小小狐：华为 MateBook Pro S 发布：售价 7999 元起",
-      "source": "JSCHEN小小狐",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-08-05",
-      "time": "08:23",
-      "publishedAt": "2026-08-05T08:23:47.000Z",
-      "url": "https://www.coolapk.com/feed/73094074",
-      "image": "http://image.coolapk.com/feed/2026/0805/16/4702274_28d68c95_8459_3775_628@961x8189.jpg",
-      "summary": "『华为 MateBook Pro S 发布：售价 7999 元起』 16GB + 512GB —— 7999 元 24GB + 512GB —— 8999 元 24GB + 1TB —— 10499 元 柔光版 24GB + 512GB —— 9999 元 防窥版 24GB + 512GB —— 10299 元 防窥版 24GB + 1TB —— 1179…",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
-      "id": "auto-a9b584b1a810",
-      "title": "夏普发布 AQUOS wish6 入门级手机：6.6 英寸 120Hz 屏，搭载联发科天玑 6300 + 5000mAh 电池",
-      "source": "IT之家",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-05",
-      "time": "08:23",
-      "publishedAt": "2026-08-05T08:23:10.000Z",
-      "url": "https://www.ithome.com/0/986/046.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/8/db824bcc-1493-43bd-a291-ee6a68be885a.jpg",
-      "summary": "IT之家 8 月 5 日消息，夏普今日宣布推出其面向入门市场的 5G 智能手机“AQUOS wish6”。 作为该系列的第 6 代产品，AQUOS wish6 以“恰到好处，丰富多彩”为理念，计划于 9 月中旬起陆续上市，价格届时公布。 AQUOS wish6 配备了一块约 6.6 英寸的 HD+（IT之家注：720×1612） 120Hz 刷新率液晶屏，…",
-      "tags": [
-        "行业",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-e78f2023c849",
       "title": "Samsung Galaxy M47 vs Redmi Note 17 Global: Which Mid-Range Phone Should You Buy in 2026?",
       "source": "Gizmochina",
@@ -259,26 +339,6 @@ window.phoneRadarAuto = {
         "Samsung",
         "爆料",
         "自动抓取"
-      ]
-    },
-    {
-      "id": "coolapk-user-ca7f4eff9917",
-      "title": "竹本青：小米具身基座模型Xiaomi-Robotics-1正式开源",
-      "source": "竹本青",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-08-05",
-      "time": "08:00",
-      "publishedAt": "2026-08-05T08:00:59.000Z",
-      "url": "https://www.coolapk.com/feed/73093776",
-      "image": "http://image.coolapk.com/feed/2026/0805/16/4248714_9f90f921_6853_6985_138@1620x2160.jpg",
-      "summary": "【小米具身基座模型Xiaomi-Robotics-1正式开源】 8月5日，小米技术官宣，旗下具身基座模型 Xiaomi-Robotics-1 正式开源。 据此前介绍，该模型基于超过 10 万小时 UMI 数据进行预训练，并使用超过 1 万小时跨本体数据进行后训练。 ● 在未见环境真实机器人任务中展现稳定的规模化收益； ● 在复杂新任务适配和多个仿真基准中展…",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "酷安博主"
       ]
     },
     {
@@ -542,48 +602,8 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-894738fb17ff",
-      "title": "#HyperOS3# 招笑了 白手起家 第一桶金是禁得起查的 金山上市了 跑去搞小米 并且又上了世界五百强 造车不被看好也搞得风生水起 给母校捐款13亿 首批小米手机金额给用户退了 老婆是初恋 没有绯闻 自律 身材保持的很好 一米八的大个 你告诉我但凡是个正常人 不戴有色眼镜去看他的 谁不佩服这个人？[流汗滑稽]",
-      "source": "酷安热榜",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-08-05",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73080330",
-      "image": "",
-      "summary": "#HyperOS3# 招笑了 白手起家 第一桶金是禁得起查的 金山上市了 跑去搞小米 并且又上了世界五百强 造车不被看好也搞得风生水起 给母校捐款13亿 首批小米手机金额给用户退了 老婆是初恋 没有绯闻 自律 身材保持的很好 一米八的大个 你告诉我但凡是个正常人 不戴有色眼镜去看他的 谁不佩服这个人？[流汗滑稽]",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-b24bf78a766f",
-      "title": "苹果手机 适合老人",
-      "source": "微博热搜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "待验证",
-      "date": "2026-08-05",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://s.weibo.com/weibo?q=%E8%8B%B9%E6%9E%9C%E6%89%8B%E6%9C%BA%20%E9%80%82%E5%90%88%E8%80%81%E4%BA%BA&t=31&band_rank=6&Refer=top",
-      "image": "",
-      "summary": "苹果手机 适合老人",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
       "id": "newsnow-66a4225680ef",
-      "title": "余承东：手机之后可能都要大规模涨价",
+      "title": "余承东称手机将大规模涨价",
       "source": "今日头条热榜",
       "brand": "行业",
       "model": "智能手机市场",
@@ -594,7 +614,7 @@ window.phoneRadarAuto = {
       "publishedAt": "",
       "url": "https://www.toutiao.com/trending/7670470899877068836/",
       "image": "",
-      "summary": "余承东：手机之后可能都要大规模涨价",
+      "summary": "余承东称手机将大规模涨价",
       "tags": [
         "行业",
         "爆料",
@@ -1242,26 +1262,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-db6fcad8e1c3",
-      "title": "OnePlus 16 with 9,000mAh battery enters trial production, claims tipster",
-      "source": "Gizmochina",
-      "brand": "OPPO",
-      "model": "OPPO 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-04",
-      "time": "05:36",
-      "publishedAt": "2026-08-04T05:36:10.000Z",
-      "url": "https://www.gizmochina.com/2026/08/04/oneplus-16-9000mah-battery-trial-production/",
-      "image": "https://www.gizmochina.com/wp-content/uploads/2026/07/image-106-300x251.png?x23692",
-      "summary": "Reliable tipster Digital Chat Station has revealed that OnePlus has already begun the trial production of its next-generation flagship, which is expected to be the OnePlus 16. Add…",
-      "tags": [
-        "OPPO",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "coolapk-user-3f0060c7e251",
       "title": "JSCHEN小小狐：一加 16 电池曝光：等效 9000mAh± 双电芯",
       "source": "JSCHEN小小狐",
@@ -1279,26 +1279,6 @@ window.phoneRadarAuto = {
         "OPPO",
         "爆料",
         "酷安博主"
-      ]
-    },
-    {
-      "id": "auto-1508655f60ec",
-      "title": "Redmi K100 Pro gets an amazing glow-in-the-dark finish that doubles as a light painting canvas",
-      "source": "Gizmochina",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-04",
-      "time": "03:56",
-      "publishedAt": "2026-08-04T03:56:55.000Z",
-      "url": "https://www.gizmochina.com/2026/08/04/redmi-k100-pro-glowing-firefly-color-glow-in-the-dark-design/",
-      "image": "https://www.gizmochina.com/wp-content/uploads/2026/08/REdmi-K100-Pro-green-300x300.jpg?x23692",
-      "summary": "Redmi has teased another standout feature of the upcoming K100 Pro ahead of its Aug. 11 launch in China. Recently, the brand showcased the Cabernet Red variant of the K100 Pro Max…",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "自动抓取"
       ]
     },
     {
