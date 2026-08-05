@@ -1,11 +1,11 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-08-05T03:31:17.989Z",
+  "updatedAt": "2026-08-05T06:40:44.636Z",
   "issueDate": "2026-08-05",
   "issue": "VOL.260805",
   "title": "手机情报日报",
-  "intro": "今日筛出 11 条重点，其中 8 条是重点爆料，包含 6 条 iPhone 相关、1 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 14 条重点，其中 8 条是重点爆料，包含 6 条 iPhone 相关、1 条官方确认、0 条参数线索。",
   "stats": {
-    "total": 11,
+    "total": 14,
     "iphone": 6,
     "leaks": 8,
     "official": 1,
@@ -89,29 +89,6 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
-          "id": "auto-7153521ad45b",
-          "title": "三星公告：部分 Galaxy S26 Ultra 手机局部泛红非硬件故障，可软件修复",
-          "originalTitle": "",
-          "source": "IT之家",
-          "brand": "Samsung",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-08-05",
-          "time": "00:47",
-          "publishedAt": "2026-08-05T00:47:26.000Z",
-          "url": "https://www.ithome.com/0/985/771.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/8/a241a53d-1f1b-4ca3-93d2-20dcffcb6743.png?x-bce-process=image/format,f_auto",
-          "verdict": "先看",
-          "takeaway": "IT之家 8 月 5 日消息，科技媒体 SamMobile 昨日（8 月 4 日）发布博文，报道称三星在官方社区发布公告， 明确 Galaxy S26 Ultra 手机的局部泛红并非硬件问题。 三星通过韩国版 Samsung Members 应用程序发布官方声明，确认部分 Galaxy S26 Ultra 屏幕中央矩形区域出现红色色调的现象源于软件问题，可…",
-          "detail": "IT之家 8 月 5 日消息，科技媒体 SamMobile 昨日（8 月 4 日）发布博文，报道称三星在官方社区发布公告， 明确 Galaxy S26 Ultra 手机的局部泛红并非硬件问题。 三星通过韩国版 Samsung Members 应用程序发布官方声明，确认部分 Galaxy S26 Ultra 屏幕中央矩形区域出现红色色调的现象源于软件问题，可…",
-          "keyPoints": [
-            "屏幕形态"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
           "id": "weibo-0146bea5984f",
           "title": "数码闲聊站：REDMI K100 Pro真机上手体验： ——首发骁龙8 Elite Gen…",
           "originalTitle": "",
@@ -160,48 +137,75 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
-          "id": "coolapk-user-04bfe376a54c",
-          "title": "JSCHEN小小狐：REDMI K100 Pro 预热：2 亿像素旗舰三摄",
+          "id": "coolapk-user-1244fc0dbfef",
+          "title": "JSCHEN小小狐：『OPPO A7 Pro Max 发布：售价 2199 元起』 8GB + 128GB —— 2199 元 8GB…",
           "originalTitle": "",
           "source": "JSCHEN小小狐",
-          "brand": "Xiaomi",
+          "brand": "OPPO",
           "type": "爆料",
           "trust": "高可信爆料",
-          "date": "2026-08-05",
-          "time": "02:00",
-          "publishedAt": "2026-08-05T02:00:54.000Z",
-          "url": "https://www.coolapk.com/feed/73089156",
-          "image": "http://image.coolapk.com/feed/2026/0805/10/4702274_8c9ab2fc_5252_4558_706@1080x1440.jpg",
+          "date": "2026-08-04",
+          "time": "07:00",
+          "publishedAt": "2026-08-04T07:00:33.000Z",
+          "url": "https://www.coolapk.com/feed/73078281",
+          "image": "http://image.coolapk.com/feed/2026/0804/15/4702274_ac73eb97_6923_1836_47@1167x7104.jpg",
           "verdict": "先看",
-          "takeaway": "『REDMI K100 Pro 预热：2 亿像素旗舰三摄』 ◇ 2 亿像素主摄（1/1.56''，OIS） ◇ 50Mp 直立长焦（10cm 微距） ◇ 三摄五焦段｜旗舰同款大师实况 #今日热点# #REDMIK100ProMax#",
-          "detail": "『REDMI K100 Pro 预热：2 亿像素旗舰三摄』 ◇ 2 亿像素主摄（1/1.56''，OIS） ◇ 50Mp 直立长焦（10cm 微距） ◇ 三摄五焦段｜旗舰同款大师实况 #今日热点# #REDMIK100ProMax#",
+          "takeaway": "『OPPO A7 Pro Max 发布：售价 2199 元起』 8GB + 128GB —— 2199 元 8GB + 256GB —— 2599 元 12GB + 256GB —— 2699 元 12GB + 512GB —— 2999 元 ◇ 外观 乘风破浪、前橙似锦、远山黑 塑料中框 + 复合板材后盖 厚 8.57mm，226/224 克 多功能氛围…",
+          "detail": "『OPPO A7 Pro Max 发布：售价 2199 元起』 8GB + 128GB —— 2199 元 8GB + 256GB —— 2599 元 12GB + 256GB —— 2699 元 12GB + 512GB —— 2999 元 ◇ 外观 乘风破浪、前橙似锦、远山黑 塑料中框 + 复合板材后盖 厚 8.57mm，226/224 克 多功能氛围…",
           "keyPoints": [
-            "影像硬件"
+            "外观 / 配色 / 尺寸",
+            "成本 / 价格"
           ],
           "confidence": "可信度较高，但仍属于发布前线索。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
-          "id": "coolapk-user-9fab1d780261",
-          "title": "竹本青：REDMI K100 Pro 续航组合公布：8580mAh+100W",
+          "id": "coolapk-user-3f0060c7e251",
+          "title": "JSCHEN小小狐：一加 16 电池曝光：等效 9000mAh± 双电芯",
           "originalTitle": "",
-          "source": "竹本青",
-          "brand": "Xiaomi",
+          "source": "JSCHEN小小狐",
+          "brand": "OPPO",
           "type": "爆料",
           "trust": "高可信爆料",
-          "date": "2026-08-05",
-          "time": "01:00",
-          "publishedAt": "2026-08-05T01:00:45.000Z",
-          "url": "https://www.coolapk.com/feed/73088513",
-          "image": "http://image.coolapk.com/feed/2026/0805/10/4248714_590b8876_5574_5266_565@2000x2667.jpg",
+          "date": "2026-08-04",
+          "time": "03:57",
+          "publishedAt": "2026-08-04T03:57:02.000Z",
+          "url": "https://www.coolapk.com/feed/73075880",
+          "image": "http://image.coolapk.com/feed/2026/0804/11/4702274_d7de3d31_5328_8213_913@1440x608.jpg",
           "verdict": "先看",
-          "takeaway": "【REDMI K100 Pro 续航组合公布：8580mAh+100W有线+50W无线】 ● 8580mAh电池，26%硅碳含量 ● 100W有线快充，27W有线反充 ● 50W无线快充，22.5W无线反充 #今日热点# #REDMIK100Pro# #HyperOS3#",
-          "detail": "【REDMI K100 Pro 续航组合公布：8580mAh+100W有线+50W无线】 ● 8580mAh电池，26%硅碳含量 ● 100W有线快充，27W有线反充 ● 50W无线快充，22.5W无线反充 #今日热点# #REDMIK100Pro# #HyperOS3#",
+          "takeaway": "『一加 16 电池曝光：等效 9000mAh± 双电芯』 额定容量：2 × 4390 = 8780mAh 额定能量：33.11Wh 标称电压：7.54V 典型容量：9000mAh± ◇ 双电芯设计 ◇ 更快的满血百瓦闪充 #今日热点# #一加15# #一加15T#",
+          "detail": "『一加 16 电池曝光：等效 9000mAh± 双电芯』 额定容量：2 × 4390 = 8780mAh 额定能量：33.11Wh 标称电压：7.54V 典型容量：9000mAh± ◇ 双电芯设计 ◇ 更快的满血百瓦闪充 #今日热点# #一加15# #一加15T#",
           "keyPoints": [
             "电池 / 充电"
           ],
           "confidence": "可信度较高，但仍属于发布前线索。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "weibo-1609bf13ce9d",
+          "title": "数码闲聊站：K100 Pro，6.59英寸185Hz RGB OLED，骁龙8E5V处理器…",
+          "originalTitle": "",
+          "source": "数码闲聊站",
+          "brand": "行业",
+          "type": "爆料",
+          "trust": "高关注爆料源",
+          "date": "2026-08-05",
+          "time": "06:26",
+          "publishedAt": "2026-08-05T06:26:25.000Z",
+          "url": "https://weibo.com/6048569942/RbYYDpzRA",
+          "image": "https://tvax1.sinaimg.cn/mw2000/006BlblIgy1ifsxqu0s8sj30xu0f679d.jpg",
+          "verdict": "先看",
+          "takeaway": "K100 Pro，6.59英寸185Hz RGB OLED，骁龙8E5V处理器，8580mAh+100W有线+50W无线，2亿大底三摄，支持10cm长焦微距，好猜吗[doge]",
+          "detail": "K100 Pro，6.59英寸185Hz RGB OLED，骁龙8E5V处理器，8580mAh+100W有线+50W无线，2亿大底三摄，支持10cm长焦微距，好猜吗[doge]",
+          "keyPoints": [
+            "影像硬件",
+            "屏幕形态",
+            "芯片 / 性能",
+            "爆料来源"
+          ],
+          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         }
@@ -279,6 +283,89 @@ window.phoneRadarDaily = {
           ],
           "confidence": "官方内容，可直接作为已确认信息记录。",
           "impact": "可信度高，但如果不是配置/价格消息，只需要扫一眼。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        }
+      ]
+    },
+    {
+      "id": "launch",
+      "title": "新机与官方发布",
+      "hint": "能直接更新到参数库。",
+      "items": [
+        {
+          "id": "newsnow-6d6f4322ec0f",
+          "title": "所以 K100 其实内部用的是 OS4 的系统，我估计等 OS4 发布后，没准应该当天就能直接推送 OS4 正式版了，毕竟是新手机而且是提档的，之前内部内测用的应该是还 #HyperOS4# [墨镜滑稽]",
+          "originalTitle": "",
+          "source": "酷安热榜",
+          "brand": "Xiaomi",
+          "type": "爆料",
+          "trust": "高关注爆料源",
+          "date": "2026-08-05",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://www.coolapk.com/feed/73067537",
+          "image": "",
+          "verdict": "先看",
+          "takeaway": "所以 K100 其实内部用的是 OS4 的系统，我估计等 OS4 发布后，没准应该当天就能直接推送 OS4 正式版了，毕竟是新手机而且是提档的，之前内部内测用的应该是还 #HyperOS4# [墨镜滑稽]",
+          "detail": "所以 K100 其实内部用的是 OS4 的系统，我估计等 OS4 发布后，没准应该当天就能直接推送 OS4 正式版了，毕竟是新手机而且是提档的，之前内部内测用的应该是还 #HyperOS4# [墨镜滑稽]",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        }
+      ]
+    },
+    {
+      "id": "market",
+      "title": "行业趋势",
+      "hint": "看方向，不急着当购买依据。",
+      "items": [
+        {
+          "id": "newsnow-cbf00bf11d51",
+          "title": "REDMI K100 Pro 预热：2 亿像素旗舰三摄",
+          "originalTitle": "",
+          "source": "酷安热榜",
+          "brand": "Xiaomi",
+          "type": "爆料",
+          "trust": "高关注爆料源",
+          "date": "2026-08-05",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://www.coolapk.com/feed/73089156",
+          "image": "",
+          "verdict": "先看",
+          "takeaway": "REDMI K100 Pro 预热：2 亿像素旗舰三摄",
+          "detail": "REDMI K100 Pro 预热：2 亿像素旗舰三摄",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        },
+        {
+          "id": "newsnow-298535f5ac77",
+          "title": "追觅手机掌舵者俞雷被曝拟离职，加入追觅不足半年",
+          "originalTitle": "",
+          "source": "酷安热榜",
+          "brand": "行业",
+          "type": "爆料",
+          "trust": "高关注爆料源",
+          "date": "2026-08-05",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://www.coolapk.com/feed/73076430",
+          "image": "",
+          "verdict": "扫一眼",
+          "takeaway": "追觅手机掌舵者俞雷被曝拟离职，加入追觅不足半年",
+          "detail": "追觅手机掌舵者俞雷被曝拟离职，加入追觅不足半年",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         }
       ]

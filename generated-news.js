@@ -1,6 +1,126 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-08-05T03:31:17.989Z",
+  "updatedAt": "2026-08-05T06:40:44.636Z",
   "news": [
+    {
+      "id": "weibo-1609bf13ce9d",
+      "title": "数码闲聊站：K100 Pro，6.59英寸185Hz RGB OLED，骁龙8E5V处理器…",
+      "source": "数码闲聊站",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-08-05",
+      "time": "06:26",
+      "publishedAt": "2026-08-05T06:26:25.000Z",
+      "url": "https://weibo.com/6048569942/RbYYDpzRA",
+      "image": "https://tvax1.sinaimg.cn/mw2000/006BlblIgy1ifsxqu0s8sj30xu0f679d.jpg",
+      "summary": "K100 Pro，6.59英寸185Hz RGB OLED，骁龙8E5V处理器，8580mAh+100W有线+50W无线，2亿大底三摄，支持10cm长焦微距，好猜吗[doge]",
+      "tags": [
+        "行业",
+        "爆料",
+        "微博"
+      ]
+    },
+    {
+      "id": "auto-25863598bfd7",
+      "title": "iQOO Z11 set to launch on this date in India",
+      "source": "Gizmochina",
+      "brand": "vivo",
+      "model": "vivo 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-05",
+      "time": "05:07",
+      "publishedAt": "2026-08-05T05:07:01.000Z",
+      "url": "https://www.gizmochina.com/2026/08/05/iqoo-z11-launch-date-confirmed/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/08/iQOO-Z11-launch-date-225x300.png?x23692",
+      "summary": "After teasing the iQOO Z11 for the past few days, the brand has finally confirmed its launch date. The new Z-series phone is all set to launch on Aug. 20 in the country. Here’s a…",
+      "tags": [
+        "vivo",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-5b058d53c933",
+      "title": "The Pixel 10 gets the spotlight in Google's August update",
+      "source": "Android Police",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-05",
+      "time": "04:54",
+      "publishedAt": "2026-08-05T04:54:33.000Z",
+      "url": "https://www.androidpolice.com/pixel-10-gets-the-spotlight-in-googles-august-update/",
+      "image": "",
+      "summary": "It fixes several GPU-related issues",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-bbc3d8de6a95",
+      "title": "竹本青：华为Pura X Max 最新销量曝光：全系超64万台",
+      "source": "竹本青",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-08-05",
+      "time": "04:15",
+      "publishedAt": "2026-08-05T04:15:43.000Z",
+      "url": "https://www.coolapk.com/feed/73090917",
+      "image": "http://image.coolapk.com/feed/2026/0805/12/4248714_b07ab081_3465_8726_190@2029x2048.jpg",
+      "summary": "【华为Pura X Max 最新销量曝光：全系超64万台，典藏版约34万台】 华为 Pura X Max： ● 截至2026 W30 —— 约30.47万 截至2026 W29 —— 约28.59万 截至2026 W28 —— 约26.88万 截至2026 W27 —— 约25.23万 华为 Pura X Max 典藏版： ● 截至2026 W30 ——…",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-b18b58e4ce49",
+      "title": "Redmi confirms K100 Pro’s battery size, charging, and 200MP camera details",
+      "source": "Gizmochina",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-05",
+      "time": "03:42",
+      "publishedAt": "2026-08-05T03:42:03.000Z",
+      "url": "https://www.gizmochina.com/2026/08/05/redmi-k100-pro-battery-charging-camera-details-confirmed/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/08/Redmi-K100-Pro-battery-225x300.jpg?x23692",
+      "summary": "Redmi has revealed more key details about the upcoming K100 Pro ahead of its official launch on Aug. 11. The latest teasers highlight the phone’s battery, charging, and camera cap…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-2ab549d079ff",
+      "title": "JSCHEN小小狐：骁龙 8E6 系列 GPU 曝光：全系 6 Slice 规模",
+      "source": "JSCHEN小小狐",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-08-05",
+      "time": "03:37",
+      "publishedAt": "2026-08-05T03:37:01.000Z",
+      "url": "https://www.coolapk.com/feed/73090384",
+      "image": "http://image.coolapk.com/feed/2026/0805/11/4702274_288acf65_1019_3437_743@1440x596.jpg",
+      "summary": "『骁龙 8E6 系列 GPU 曝光：全系 6 Slice 规模』 骁龙 8 Elite Gen6（SM8950） ◇ 6 Slice Adreno 845 GPU ◇ 12MB GMEM 骁龙 8 Elite Gen6 Pro（SM8975） ◇ 6 Slice Adreno 850 GPU ◇ 18MB GMEM｜独占新技术 作为对比，骁龙 8 Elit…",
+      "tags": [
+        "行业",
+        "爆料",
+        "酷安博主"
+      ]
+    },
     {
       "id": "auto-b88cc8d1f5f4",
       "title": "Redmi Note 17 Global vs Chinese Model: Same Phone, Double the Price?",
@@ -42,26 +162,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-88f6d45e0ec0",
-      "title": "中际旭创回应“美国光模块禁令”影响：尚未出台文件，暂时不予评述",
-      "source": "IT之家",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-05",
-      "time": "02:01",
-      "publishedAt": "2026-08-05T02:01:07.000Z",
-      "url": "https://www.ithome.com/0/985/798.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/8/2aa646c2-2f6d-4b81-858e-9aed614121b9.png",
-      "summary": "IT之家 8 月 5 日消息，据第一财经今日报道，有市场消息称，美国联邦通信委员会（FCC）正在起草一项禁令， 旨在禁止美国进口中国数据中心组件新机型，包括光模块 。 报道称，中际旭创证券事务相关负责人称，公司已注意到相关市场信息，经核实， FCC 尚未出台相关领域限制性文件 。就禁令出台后的影响，相关负责人称，因并未出台，暂时不予评述。 7 月 30 日…",
-      "tags": [
-        "行业",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "coolapk-user-79d71d7a4cd8",
       "title": "竹本青：【REDMI K100 Pro 影像预热：三摄五焦段】 ● 2亿像素主摄 ● 10cm 长焦微距 ● 大师实况 #…",
       "source": "竹本青",
@@ -79,66 +179,6 @@ window.phoneRadarAuto = {
         "Xiaomi",
         "爆料",
         "酷安博主"
-      ]
-    },
-    {
-      "id": "coolapk-user-04bfe376a54c",
-      "title": "JSCHEN小小狐：REDMI K100 Pro 预热：2 亿像素旗舰三摄",
-      "source": "JSCHEN小小狐",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-08-05",
-      "time": "02:00",
-      "publishedAt": "2026-08-05T02:00:54.000Z",
-      "url": "https://www.coolapk.com/feed/73089156",
-      "image": "http://image.coolapk.com/feed/2026/0805/10/4702274_8c9ab2fc_5252_4558_706@1080x1440.jpg",
-      "summary": "『REDMI K100 Pro 预热：2 亿像素旗舰三摄』 ◇ 2 亿像素主摄（1/1.56''，OIS） ◇ 50Mp 直立长焦（10cm 微距） ◇ 三摄五焦段｜旗舰同款大师实况 #今日热点# #REDMIK100ProMax#",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
-      "id": "coolapk-user-9fab1d780261",
-      "title": "竹本青：REDMI K100 Pro 续航组合公布：8580mAh+100W",
-      "source": "竹本青",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-08-05",
-      "time": "01:00",
-      "publishedAt": "2026-08-05T01:00:45.000Z",
-      "url": "https://www.coolapk.com/feed/73088513",
-      "image": "http://image.coolapk.com/feed/2026/0805/10/4248714_590b8876_5574_5266_565@2000x2667.jpg",
-      "summary": "【REDMI K100 Pro 续航组合公布：8580mAh+100W有线+50W无线】 ● 8580mAh电池，26%硅碳含量 ● 100W有线快充，27W有线反充 ● 50W无线快充，22.5W无线反充 #今日热点# #REDMIK100Pro# #HyperOS3#",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
-      "id": "auto-7153521ad45b",
-      "title": "三星公告：部分 Galaxy S26 Ultra 手机局部泛红非硬件故障，可软件修复",
-      "source": "IT之家",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-05",
-      "time": "00:47",
-      "publishedAt": "2026-08-05T00:47:26.000Z",
-      "url": "https://www.ithome.com/0/985/771.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/8/a241a53d-1f1b-4ca3-93d2-20dcffcb6743.png?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 8 月 5 日消息，科技媒体 SamMobile 昨日（8 月 4 日）发布博文，报道称三星在官方社区发布公告， 明确 Galaxy S26 Ultra 手机的局部泛红并非硬件问题。 三星通过韩国版 Samsung Members 应用程序发布官方声明，确认部分 Galaxy S26 Ultra 屏幕中央矩形区域出现红色色调的现象源于软件问题，可…",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
       ]
     },
     {
@@ -182,8 +222,8 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-6d6f4322ec0f",
-      "title": "所以 K100 其实内部用的是 OS4 的系统，我估计等 OS4 发布后，没准应该当天就能直接推送 OS4 正式版了，毕竟是新手机而且是提档的，之前内部内测用的应该是还 #HyperOS4# [墨镜滑稽]",
+      "id": "newsnow-cbf00bf11d51",
+      "title": "REDMI K100 Pro 预热：2 亿像素旗舰三摄",
       "source": "酷安热榜",
       "brand": "Xiaomi",
       "model": "Xiaomi 相关机型",
@@ -192,9 +232,9 @@ window.phoneRadarAuto = {
       "date": "2026-08-05",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73067537",
+      "url": "https://www.coolapk.com/feed/73089156",
       "image": "",
-      "summary": "所以 K100 其实内部用的是 OS4 的系统，我估计等 OS4 发布后，没准应该当天就能直接推送 OS4 正式版了，毕竟是新手机而且是提档的，之前内部内测用的应该是还 #HyperOS4# [墨镜滑稽]",
+      "summary": "REDMI K100 Pro 预热：2 亿像素旗舰三摄",
       "tags": [
         "Xiaomi",
         "爆料",
@@ -215,6 +255,46 @@ window.phoneRadarAuto = {
       "url": "https://www.coolapk.com/feed/73076430",
       "image": "",
       "summary": "追觅手机掌舵者俞雷被曝拟离职，加入追觅不足半年",
+      "tags": [
+        "行业",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-6d6f4322ec0f",
+      "title": "所以 K100 其实内部用的是 OS4 的系统，我估计等 OS4 发布后，没准应该当天就能直接推送 OS4 正式版了，毕竟是新手机而且是提档的，之前内部内测用的应该是还 #HyperOS4# [墨镜滑稽]",
+      "source": "酷安热榜",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-08-05",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/73067537",
+      "image": "",
+      "summary": "所以 K100 其实内部用的是 OS4 的系统，我估计等 OS4 发布后，没准应该当天就能直接推送 OS4 正式版了，毕竟是新手机而且是提档的，之前内部内测用的应该是还 #HyperOS4# [墨镜滑稽]",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-f20f8ebcdc85",
+      "title": "老人举手机拍照被广告连环弹窗",
+      "source": "今日头条热榜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-05",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.toutiao.com/trending/7669660083051970602/",
+      "image": "",
+      "summary": "老人举手机拍照被广告连环弹窗",
       "tags": [
         "行业",
         "爆料",
@@ -899,46 +979,6 @@ window.phoneRadarAuto = {
         "Xiaomi",
         "爆料",
         "微博"
-      ]
-    },
-    {
-      "id": "auto-32fb6f998c00",
-      "title": "Samsung makes it easier for people to buy its pricey foldables in India",
-      "source": "SamMobile",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-04",
-      "time": "05:54",
-      "publishedAt": "2026-08-04T05:54:26.000Z",
-      "url": "https://www.sammobile.com/news/buy-galaxy-z-flip-fold-8-ultra-india-easy-emi-plan/",
-      "image": "",
-      "summary": "Samsung recently launched the Galaxy Z Flip 8, Galaxy Z Fold 8, and the Galaxy Z Fold 8 Ultra. These newer foldable phones are quite pricey, even compared to their predecessors, a…",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-5e88da27f4ad",
-      "title": "Huawei Mate 90 Pro Max chip, camera, battery specs leaked in detail",
-      "source": "Huawei Central",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-04",
-      "time": "05:51",
-      "publishedAt": "2026-08-04T05:51:42.000Z",
-      "url": "https://www.huaweicentral.com/huawei-mate-90-pro-max-chip-camera-battery-specs-leaked-in-detail/",
-      "image": "https://www.huaweicentral.com/wp-content/uploads/2026/06/Mate80-phon.jpg",
-      "summary": "Huawei Mate 90 Pro Max is picking up speed in the leaks section, and its key specs such as chip, battery, and camera have once again surfaced online, this time in detail. A tipste…",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "自动抓取"
       ]
     },
     {
