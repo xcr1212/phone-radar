@@ -1,6 +1,66 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-08-05T21:31:40.745Z",
+  "updatedAt": "2026-08-05T23:17:06.725Z",
   "news": [
+    {
+      "id": "auto-78214c5d876b",
+      "title": "Galaxy Z8 preorders are surging, and one model is leading the charge",
+      "source": "Android Authority",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-05",
+      "time": "23:00",
+      "publishedAt": "2026-08-05T23:00:45.000Z",
+      "url": "https://www.androidauthority.com/samsung-galaxy-z8-us-pre-order-records-3695047/",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2026/07/Samsung-Galaxy-Z-Fold-8-Ultra-vs-Z-Fold-8-side-by-side-1.jpg",
+      "summary": "Samsung’s foldable gamble appears to be paying off big time.",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-2d65d1d638e2",
+      "title": "Galaxy Z Fold 8 is convincing Z Flip owners to switch, Samsung says",
+      "source": "9to5Google",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-05",
+      "time": "23:00",
+      "publishedAt": "2026-08-05T23:00:00.000Z",
+      "url": "https://9to5google.com/2026/08/05/samsung-galaxy-z-fold-8-flip-switchers/",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/07/galaxy-z-fold-8-series-48.jpg?quality=82&strip=all&w=1600",
+      "summary": "Samsung says that, amid huge success for its Galaxy Z Fold 8 series, more Galaxy Z Flip owners are switching to the Fold this year – and it’s pretty easy to see why.",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-d4d7719f565b",
+      "title": "消息称 2026 年全球折叠屏手机出货量预计同比增长 20%，苹果首款折叠 iPhone 成重要驱动力",
+      "source": "IT之家",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-05",
+      "time": "22:57",
+      "publishedAt": "2026-08-05T22:57:51.000Z",
+      "url": "https://www.ithome.com/0/986/266.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/8/1efcbd5c-50eb-4ba0-b46f-7278dd9818d3.jpg?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 8 月 6 日消息，据《DigiTimes》援引业内消息人士报道，2026 年全球折叠屏智能手机出货量预计将同比增长 20%，苹果首次进军折叠屏手机市场被认为是推动增长的重要因素之一。 报道称，整体智能手机市场目前正面临上游逻辑芯片供应趋紧以及存储芯片价格上涨等挑战，但折叠屏手机市场预计仍将保持增长势头。三星有望继续保持该领域的领先地位，而苹果、…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-99cdd41dc1b5",
       "title": "UAG fixed my biggest Galaxy phone complaint with the Z Fold 8",
@@ -702,26 +762,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-cbf00bf11d51",
-      "title": "REDMI K100 Pro 预热：2 亿像素旗舰三摄",
-      "source": "酷安热榜",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-08-05",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73089156",
-      "image": "",
-      "summary": "REDMI K100 Pro 预热：2 亿像素旗舰三摄",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
       "id": "newsnow-0d20b908b3ec",
       "title": "余承东：内存涨价，手机之后可能都要大规模涨价",
       "source": "酷安热榜",
@@ -737,6 +777,26 @@ window.phoneRadarAuto = {
       "summary": "余承东：内存涨价，手机之后可能都要大规模涨价",
       "tags": [
         "行业",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-cbf00bf11d51",
+      "title": "REDMI K100 Pro 预热：2 亿像素旗舰三摄",
+      "source": "酷安热榜",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-08-05",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/73089156",
+      "image": "",
+      "summary": "REDMI K100 Pro 预热：2 亿像素旗舰三摄",
+      "tags": [
+        "Xiaomi",
         "爆料",
         "NewsNow"
       ]
