@@ -1,6 +1,366 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-08-05T06:40:44.636Z",
+  "updatedAt": "2026-08-05T10:45:29.897Z",
   "news": [
+    {
+      "id": "auto-bd8c1cdafa69",
+      "title": "消息称美国前沿人工智能模型网络安全审查机制暂不涉及开放权重模型",
+      "source": "IT之家",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-05",
+      "time": "10:21",
+      "publishedAt": "2026-08-05T10:21:19.000Z",
+      "url": "https://www.ithome.com/0/986/183.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/8/bd733c99-ad2f-4eba-870e-dbd389dd3f82.jpg?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 8 月 5 日消息，综合《纽约时报》《华尔街日报》《Axios》、彭博社等外媒报道，美国政府在当地时间本周二与头部人工智能企业举行的闭门会议中表示， 其今年 6 月宣布的前沿模型网络安全审查机制当前仅涉及闭源模型 ， 开放权重模型至少暂时不会受到影响 。 知情人士透露，美国政府在会议中将需自愿接受审查的模型定义为具有最先进功能和国家安全风险的闭源…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-171ea648700f",
+      "title": "消息称长鑫拒绝苹果压价，坚持要求内存采购价不低于三星电子和 SK 海力士",
+      "source": "IT之家",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-05",
+      "time": "10:14",
+      "publishedAt": "2026-08-05T10:14:13.000Z",
+      "url": "https://www.ithome.com/0/986/176.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/8/1274bd60-0763-4b1b-b9b4-7abb3c56de8c.png?x-bce-process=image/format,f_auto/auto-orient,o_1",
+      "summary": "IT之家 8 月 5 日消息，据韩媒《Digital Daily》今日报道，苹果公司近期考虑将中国长鑫存储（CXMT）作为新的供应链以降低成本， 但目前在进一步降价谈判中遭遇困难 。 报道称，苹果公司曾与长鑫存储就移动 DRAM（包括 LPDDR5X）的供应价格进行谈判，以缓解其下一代 iPhone 和智能设备产品线的制造成本压力， 但遭到拒绝 。 长鑫存…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-2592ffb7fe48",
+      "title": "消息称富士新品 XF400mm 镜头光圈 F4.5，9 月与 X-T6 相机一同发布",
+      "source": "IT之家",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-05",
+      "time": "09:56",
+      "publishedAt": "2026-08-05T09:56:10.000Z",
+      "url": "https://www.ithome.com/0/986/170.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/8/08e6c0b7-584d-4cb3-84e6-6f95b83e48ec.png?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 8 月 5 日消息，据 Fuji Rumors 昨日爆料，从多个可靠消息源处确认， 富士新品 XF400mm 镜头最大光圈为 F4.5 ，镜头全称为 XF400mm f/4.5 R LM OIS WR。 作为参考， 富士超长焦镜头 XF500mm F5.6 R LM OIS WR 发布于 2024 年，使用 14 组 21 片光学结构，国行售价…",
+      "tags": [
+        "行业",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-e9a2cf758435",
+      "title": "Baseus Dark Cherry Collection for iPhone 18 Pro First Impression",
+      "source": "Gizmochina",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-05",
+      "time": "09:29",
+      "publishedAt": "2026-08-05T09:29:43.000Z",
+      "url": "https://www.gizmochina.com/2026/08/05/baseus-dark-cherry-collection-for-iphone-18-pro-first-impression/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/07/P1492441-1-300x200.png?x23692",
+      "summary": "Here we have the new Baseus Dark Cherry Collection for the upcoming iPhone 18 series, which is under a launch plan. Just like the name suggests, they are colored just like the rum…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-c3f299a83352",
+      "title": "华为 nova16 SE 手机发布：麒麟 8020 芯片、8500mAh 电池，2499 元起",
+      "source": "IT之家",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-05",
+      "time": "09:11",
+      "publishedAt": "2026-08-05T09:11:01.000Z",
+      "url": "https://www.ithome.com/0/986/114.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/8/7ce0e15e-ff15-4d9e-83a3-456ace67982c.jpg",
+      "summary": "IT之家 8 月 5 日消息，在今天下午的尊界时代旗舰 MPV 及华为全场景新品发布会上，华为 nova16 SE 手机正式发布， 售价 2499 元起 ，将于 8 月 12 日开售。 128GB：售价 2499 元 256GB：售价 2699 元 512GB：售价 3199 元 IT之家获悉，华为 Nova16 SE 搭载 6.84 英寸 1.5K（27…",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-cd1f5ebeb24b",
+      "title": "竹本青：【华为nova16 SE 正式发布，售价2499元起】 128GB —— 2499元 256GB —— 2699元…",
+      "source": "竹本青",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-08-05",
+      "time": "09:07",
+      "publishedAt": "2026-08-05T09:07:19.000Z",
+      "url": "https://www.coolapk.com/feed/73094734",
+      "image": "http://image.coolapk.com/feed/2026/0805/17/4248714_c53955c6_0837_4481_979@960x4914.jpg",
+      "summary": "【华为nova16 SE 正式发布，售价2499元起】 128GB —— 2499元 256GB —— 2699元 512GB —— 3199元 核心： ● 6.84\"1.5K 120Hz LTPS直屏 ● 麒麟8020处理器 ● HarmonyOS 6.1系统 ● 8500mAh电池+66W快充 ▫️屏幕： 分辨率2756*1272｜PPI 444 局部…",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "coolapk-user-37e86ec115d7",
+      "title": "JSCHEN小小狐：『华为 nova 16 SE 正式发布：售价 2499 元起』 8GB + 128GB —— 2499 元 8GB…",
+      "source": "JSCHEN小小狐",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-08-05",
+      "time": "09:06",
+      "publishedAt": "2026-08-05T09:06:51.000Z",
+      "url": "https://www.coolapk.com/feed/73094725",
+      "image": "http://image.coolapk.com/feed/2026/0805/17/4702274_12f7da36_0861_4938_765@960x4913.jpg",
+      "summary": "『华为 nova 16 SE 正式发布：售价 2499 元起』 8GB + 128GB —— 2499 元 8GB + 256GB —— 2699 元 8GB + 512GB —— 3199 元 ◇ 外观 星空黑、破晓橙、天际白、樱雪晴空 塑胶边框 + 复合板材后盖 163.3 × 78 × 7.98mm，约 229 克 ◇ 处理器 麒麟 8020 5G…",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-63ba4ecb03ab",
+      "title": "荣耀 MagicOS 10 系统 8 月版本今日推送首批机型，覆盖 Magic8、荣耀 600 等系列手机",
+      "source": "IT之家",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-05",
+      "time": "08:50",
+      "publishedAt": "2026-08-05T08:50:21.000Z",
+      "url": "https://www.ithome.com/0/986/075.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/8/98dc9d07-7987-4873-9c59-d514c316fba1.jpg?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 8 月 5 日消息，荣耀产品维护与升级 @荣耀小芳哥 今日表示， 荣耀手机 8 月版本今天 18 点前就向第一批机型推送 。 荣耀 Magic V6 荣耀 Magic8 RSR 保时捷设计 、Magic8 Pro、Magic8 Pro Air、Magic8 荣耀 600 Pro 、600 超级版、600 元气版 IT之家整理 MagicOS 10…",
+      "tags": [
+        "HONOR",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-ca6e620c5a69",
+      "title": "竹本青：【华为MatePad Pro 2026 正式发布，售价5699元起】 ● 悦享款：麒麟T93A芯片 12GB+25…",
+      "source": "竹本青",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-08-05",
+      "time": "08:49",
+      "publishedAt": "2026-08-05T08:49:52.000Z",
+      "url": "https://www.coolapk.com/feed/73094483",
+      "image": "http://image.coolapk.com/feed/2026/0805/16/4248714_876c7ff5_9791_378_679@990x8190.jpg",
+      "summary": "【华为MatePad Pro 2026 正式发布，售价5699元起】 ● 悦享款：麒麟T93A芯片 12GB+256GB —— 5699元 12GB+256GB —— 6499元（柔光版） 12GB+512GB —— 7699元（含星跃键盘） ● 普通款：麒麟T93芯片 12GB+256GB —— 5999元 12GB+256GB —— 7199元（柔光版…",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "coolapk-user-f71fe54c62a3",
+      "title": "竹本青：【华为MateBook Pro S 轻薄本 正式发布，售价7999元起】 标准版： 16GB+512GB —— 7…",
+      "source": "竹本青",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-08-05",
+      "time": "08:26",
+      "publishedAt": "2026-08-05T08:26:14.000Z",
+      "url": "https://www.coolapk.com/feed/73094111",
+      "image": "http://image.coolapk.com/feed/2026/0805/16/4248714_5039ec3d_8371_124_993@962x8189.jpg",
+      "summary": "【华为MateBook Pro S 轻薄本 正式发布，售价7999元起】 标准版： 16GB+512GB —— 7999元 24GB+512GB —— 8999元 24GB+1TB —— 10499元 柔光板： 24GB+512GB —— 9999元 防窥版： 24GB+512GB —— 10299元 24GB+1TB —— 11799元 典藏版： 32G…",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "coolapk-user-4da7e2c975a4",
+      "title": "JSCHEN小小狐：华为 MateBook Pro S 发布：售价 7999 元起",
+      "source": "JSCHEN小小狐",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-08-05",
+      "time": "08:23",
+      "publishedAt": "2026-08-05T08:23:47.000Z",
+      "url": "https://www.coolapk.com/feed/73094074",
+      "image": "http://image.coolapk.com/feed/2026/0805/16/4702274_28d68c95_8459_3775_628@961x8189.jpg",
+      "summary": "『华为 MateBook Pro S 发布：售价 7999 元起』 16GB + 512GB —— 7999 元 24GB + 512GB —— 8999 元 24GB + 1TB —— 10499 元 柔光版 24GB + 512GB —— 9999 元 防窥版 24GB + 512GB —— 10299 元 防窥版 24GB + 1TB —— 1179…",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-a9b584b1a810",
+      "title": "夏普发布 AQUOS wish6 入门级手机：6.6 英寸 120Hz 屏，搭载联发科天玑 6300 + 5000mAh 电池",
+      "source": "IT之家",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-05",
+      "time": "08:23",
+      "publishedAt": "2026-08-05T08:23:10.000Z",
+      "url": "https://www.ithome.com/0/986/046.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/8/db824bcc-1493-43bd-a291-ee6a68be885a.jpg",
+      "summary": "IT之家 8 月 5 日消息，夏普今日宣布推出其面向入门市场的 5G 智能手机“AQUOS wish6”。 作为该系列的第 6 代产品，AQUOS wish6 以“恰到好处，丰富多彩”为理念，计划于 9 月中旬起陆续上市，价格届时公布。 AQUOS wish6 配备了一块约 6.6 英寸的 HD+（IT之家注：720×1612） 120Hz 刷新率液晶屏，…",
+      "tags": [
+        "行业",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-e78f2023c849",
+      "title": "Samsung Galaxy M47 vs Redmi Note 17 Global: Which Mid-Range Phone Should You Buy in 2026?",
+      "source": "Gizmochina",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-05",
+      "time": "08:20",
+      "publishedAt": "2026-08-05T08:20:06.000Z",
+      "url": "https://www.gizmochina.com/2026/08/05/samsung-galaxy-m47-vs-redmi-note-17-global/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/08/image-26-300x161.png?x23692",
+      "summary": "Samsung Galaxy M47 and Redmi Note 17 Global target buyers looking for feature-packed mid-range smartphones, but they take different approaches. Samsung focuses on performance, sof…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-ca7f4eff9917",
+      "title": "竹本青：小米具身基座模型Xiaomi-Robotics-1正式开源",
+      "source": "竹本青",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-08-05",
+      "time": "08:00",
+      "publishedAt": "2026-08-05T08:00:59.000Z",
+      "url": "https://www.coolapk.com/feed/73093776",
+      "image": "http://image.coolapk.com/feed/2026/0805/16/4248714_9f90f921_6853_6985_138@1620x2160.jpg",
+      "summary": "【小米具身基座模型Xiaomi-Robotics-1正式开源】 8月5日，小米技术官宣，旗下具身基座模型 Xiaomi-Robotics-1 正式开源。 据此前介绍，该模型基于超过 10 万小时 UMI 数据进行预训练，并使用超过 1 万小时跨本体数据进行后训练。 ● 在未见环境真实机器人任务中展现稳定的规模化收益； ● 在复杂新任务适配和多个仿真基准中展…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-1552a27942fe",
+      "title": "Survey says fans are hyped for the Pixel 11 Pro’s defining feature, but the doubters are loud",
+      "source": "Android Authority",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-05",
+      "time": "07:27",
+      "publishedAt": "2026-08-05T07:27:14.000Z",
+      "url": "https://www.androidauthority.com/pixel-glow-looking-forward-poll-results-3694647/",
+      "image": "",
+      "summary": "More than a notification light, or little else?",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-99de7e1579d8",
+      "title": "Here’s a look at Samsung’s cases for its upcoming Galaxy S26 FE",
+      "source": "SamMobile",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-05",
+      "time": "07:24",
+      "publishedAt": "2026-08-05T07:24:39.000Z",
+      "url": "https://www.sammobile.com/news/samsungs-cases-galaxy-s26-fe/",
+      "image": "https://www.sammobile.com/wp-content/uploads/2026/08/Samsung-Clear-Magnet-Case-For-Galaxy-S26-FE-01.jpeg",
+      "summary": "According to multiple reports, Samsung is expected to launch its next Galaxy S Fan Edition smartphone, the Galaxy S26 FE, in a couple of months. So far, there have been plenty of…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-317803b41608",
+      "title": "JSCHEN小小狐：REDMI K100 Pro 主要参数曝光：185Hz 超级像素屏",
+      "source": "JSCHEN小小狐",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-08-05",
+      "time": "07:10",
+      "publishedAt": "2026-08-05T07:10:42.000Z",
+      "url": "https://www.coolapk.com/feed/73093121",
+      "image": "http://image.coolapk.com/feed/2026/0805/15/4702274_798d4e6c_3841_0009_619@1440x565.jpg",
+      "summary": "『REDMI K100 Pro 参数汇总：185Hz 超级像素』 ◇ 6.59 英寸 185Hz 超级像素 OLED 屏 ◇ 骁龙 8 Elite Gen5 V Series 移动平台 ◇ 8580mAh + 100W 有线 + 50W 无线 ◇ 200Mp 1/1.56'' HP5 23mm 主摄 ◇ 50Mp 1/2.76'' JN5 60mm 直立长…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-2db1fd7b06d4",
+      "title": "Galaxy S27 Ultra cameras may use this tech to reduce lens thickness, flare",
+      "source": "SamMobile",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-05",
+      "time": "06:47",
+      "publishedAt": "2026-08-05T06:47:11.000Z",
+      "url": "https://www.sammobile.com/news/galaxy-s27-ultra-cameras-may-use-inkjet-process-reduce-lens-thickness-flare/",
+      "image": "",
+      "summary": "A few months before Samsung launched its current flagship non-foldable smartphone lineup, the Galaxy S26 series, a report claimed that the brand would use an inkjet process for th…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "weibo-1609bf13ce9d",
       "title": "数码闲聊站：K100 Pro，6.59英寸185Hz RGB OLED，骁龙8E5V处理器…",
@@ -59,26 +419,6 @@ window.phoneRadarAuto = {
         "Pixel",
         "爆料",
         "自动抓取"
-      ]
-    },
-    {
-      "id": "coolapk-user-bbc3d8de6a95",
-      "title": "竹本青：华为Pura X Max 最新销量曝光：全系超64万台",
-      "source": "竹本青",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-08-05",
-      "time": "04:15",
-      "publishedAt": "2026-08-05T04:15:43.000Z",
-      "url": "https://www.coolapk.com/feed/73090917",
-      "image": "http://image.coolapk.com/feed/2026/0805/12/4248714_b07ab081_3465_8726_190@2029x2048.jpg",
-      "summary": "【华为Pura X Max 最新销量曝光：全系超64万台，典藏版约34万台】 华为 Pura X Max： ● 截至2026 W30 —— 约30.47万 截至2026 W29 —— 约28.59万 截至2026 W28 —— 约26.88万 截至2026 W27 —— 约25.23万 华为 Pura X Max 典藏版： ● 截至2026 W30 ——…",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "酷安博主"
       ]
     },
     {
@@ -142,46 +482,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-ee69961c3dc3",
-      "title": "基于苹果 WebKit 的浏览器被披露安全风险，恐泄露 iOS / macOS 用户网络信息",
-      "source": "IT之家",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-05",
-      "time": "02:51",
-      "publishedAt": "2026-08-05T02:51:39.000Z",
-      "url": "https://www.ithome.com/0/985/850.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/8/88773da3-fc66-4123-8bb3-8a0875215038.png?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 8 月 5 日消息，网络安全博客 Mysk 昨日（8 月 4 日）发布博文，披露称在 iOS 和 macOS 系统中，基于 WebKit 引擎的浏览器存在 DNS 预取、通行密钥验证与 WebTransport 三个漏洞， 被黑客利用可泄露用户网络信息。 研究人员 Talal Haj Bakry 与 Tommy Mysk 在报告中指出，基于 We…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "coolapk-user-79d71d7a4cd8",
-      "title": "竹本青：【REDMI K100 Pro 影像预热：三摄五焦段】 ● 2亿像素主摄 ● 10cm 长焦微距 ● 大师实况 #…",
-      "source": "竹本青",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-08-05",
-      "time": "02:00",
-      "publishedAt": "2026-08-05T02:00:57.000Z",
-      "url": "https://www.coolapk.com/feed/73089158",
-      "image": "http://image.coolapk.com/feed/2026/0805/10/4248714_bddf3300_5256_6806_260@1080x1440.jpg",
-      "summary": "【REDMI K100 Pro 影像预热：三摄五焦段】 ● 2亿像素主摄 ● 10cm 长焦微距 ● 大师实况 #今日热点# #REDMIK100ProMax# #REDMIK100Pro#",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
       "id": "auto-9bbf43c61c96",
       "title": "Apple announces changes to iOS in Brazil",
       "source": "Apple Newsroom",
@@ -199,26 +499,6 @@ window.phoneRadarAuto = {
         "iPhone",
         "官方",
         "自动抓取"
-      ]
-    },
-    {
-      "id": "newsnow-bce8e8cf774e",
-      "title": "和妹妹闲聊我问她为啥她们女生都喜欢用苹果？她说不卡拍照好，我说现在的安卓也不卡啊，拍照甚至比它好多了，结果我妹妹说我花大几千买个安卓为啥不买个苹果？[捂脸]确实苹果给大多数人的第一印象就是不卡，之前好多同事聊苹果脱口而出的就是不卡，不过她这个机天天提示iphone需要降温，把玩了一下外放音质是确实强，再一听我的x9pro，简直就是天上地下的区别[牛牛尴尬]#数码日常#",
-      "source": "酷安热榜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-08-05",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73077782",
-      "image": "",
-      "summary": "和妹妹闲聊我问她为啥她们女生都喜欢用苹果？她说不卡拍照好，我说现在的安卓也不卡啊，拍照甚至比它好多了，结果我妹妹说我花大几千买个安卓为啥不买个苹果？[捂脸]确实苹果给大多数人的第一印象就是不卡，之前好多同事聊苹果脱口而出的就是不卡，不过她这个机天天提示iphone需要降温，把玩了一下外放音质是确实强，再一听我的x9pro，简直就是天上地下的区别[牛牛尴尬]…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "NewsNow"
       ]
     },
     {
@@ -242,28 +522,28 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-298535f5ac77",
-      "title": "追觅手机掌舵者俞雷被曝拟离职，加入追觅不足半年",
+      "id": "newsnow-bce8e8cf774e",
+      "title": "和妹妹闲聊我问她为啥她们女生都喜欢用苹果？她说不卡拍照好，我说现在的安卓也不卡啊，拍照甚至比它好多了，结果我妹妹说我花大几千买个安卓为啥不买个苹果？[捂脸]确实苹果给大多数人的第一印象就是不卡，之前好多同事聊苹果脱口而出的就是不卡，不过她这个机天天提示iphone需要降温，把玩了一下外放音质是确实强，再一听我的x9pro，简直就是天上地下的区别[牛牛尴尬]#数码日常#",
       "source": "酷安热榜",
-      "brand": "行业",
-      "model": "智能手机市场",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-08-05",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73076430",
+      "url": "https://www.coolapk.com/feed/73077782",
       "image": "",
-      "summary": "追觅手机掌舵者俞雷被曝拟离职，加入追觅不足半年",
+      "summary": "和妹妹闲聊我问她为啥她们女生都喜欢用苹果？她说不卡拍照好，我说现在的安卓也不卡啊，拍照甚至比它好多了，结果我妹妹说我花大几千买个安卓为啥不买个苹果？[捂脸]确实苹果给大多数人的第一印象就是不卡，之前好多同事聊苹果脱口而出的就是不卡，不过她这个机天天提示iphone需要降温，把玩了一下外放音质是确实强，再一听我的x9pro，简直就是天上地下的区别[牛牛尴尬]…",
       "tags": [
-        "行业",
+        "iPhone",
         "爆料",
         "NewsNow"
       ]
     },
     {
-      "id": "newsnow-6d6f4322ec0f",
-      "title": "所以 K100 其实内部用的是 OS4 的系统，我估计等 OS4 发布后，没准应该当天就能直接推送 OS4 正式版了，毕竟是新手机而且是提档的，之前内部内测用的应该是还 #HyperOS4# [墨镜滑稽]",
+      "id": "newsnow-894738fb17ff",
+      "title": "#HyperOS3# 招笑了 白手起家 第一桶金是禁得起查的 金山上市了 跑去搞小米 并且又上了世界五百强 造车不被看好也搞得风生水起 给母校捐款13亿 首批小米手机金额给用户退了 老婆是初恋 没有绯闻 自律 身材保持的很好 一米八的大个 你告诉我但凡是个正常人 不戴有色眼镜去看他的 谁不佩服这个人？[流汗滑稽]",
       "source": "酷安热榜",
       "brand": "Xiaomi",
       "model": "Xiaomi 相关机型",
@@ -272,9 +552,9 @@ window.phoneRadarAuto = {
       "date": "2026-08-05",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73067537",
+      "url": "https://www.coolapk.com/feed/73080330",
       "image": "",
-      "summary": "所以 K100 其实内部用的是 OS4 的系统，我估计等 OS4 发布后，没准应该当天就能直接推送 OS4 正式版了，毕竟是新手机而且是提档的，之前内部内测用的应该是还 #HyperOS4# [墨镜滑稽]",
+      "summary": "#HyperOS3# 招笑了 白手起家 第一桶金是禁得起查的 金山上市了 跑去搞小米 并且又上了世界五百强 造车不被看好也搞得风生水起 给母校捐款13亿 首批小米手机金额给用户退了 老婆是初恋 没有绯闻 自律 身材保持的很好 一米八的大个 你告诉我但凡是个正常人 不戴有色眼镜去看他的 谁不佩服这个人？[流汗滑稽]",
       "tags": [
         "Xiaomi",
         "爆料",
@@ -282,8 +562,28 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-f20f8ebcdc85",
-      "title": "老人举手机拍照被广告连环弹窗",
+      "id": "newsnow-b24bf78a766f",
+      "title": "苹果手机 适合老人",
+      "source": "微博热搜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "待验证",
+      "date": "2026-08-05",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://s.weibo.com/weibo?q=%E8%8B%B9%E6%9E%9C%E6%89%8B%E6%9C%BA%20%E9%80%82%E5%90%88%E8%80%81%E4%BA%BA&t=31&band_rank=6&Refer=top",
+      "image": "",
+      "summary": "苹果手机 适合老人",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-66a4225680ef",
+      "title": "余承东：手机之后可能都要大规模涨价",
       "source": "今日头条热榜",
       "brand": "行业",
       "model": "智能手机市场",
@@ -292,9 +592,29 @@ window.phoneRadarAuto = {
       "date": "2026-08-05",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.toutiao.com/trending/7669660083051970602/",
+      "url": "https://www.toutiao.com/trending/7670470899877068836/",
       "image": "",
-      "summary": "老人举手机拍照被广告连环弹窗",
+      "summary": "余承东：手机之后可能都要大规模涨价",
+      "tags": [
+        "行业",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-81a10e8f44a7",
+      "title": "余承东：手机可能都要大规模涨价",
+      "source": "百度热搜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-05",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.baidu.com/s?wd=%E4%BD%99%E6%89%BF%E4%B8%9C%EF%BC%9A%E6%89%8B%E6%9C%BA%E5%8F%AF%E8%83%BD%E9%83%BD%E8%A6%81%E5%A4%A7%E8%A7%84%E6%A8%A1%E6%B6%A8%E4%BB%B7",
+      "image": "",
+      "summary": "余承东：手机可能都要大规模涨价",
       "tags": [
         "行业",
         "爆料",
@@ -582,26 +902,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-7758d415a292",
-      "title": "I was worried about the Galaxy Z Fold 8 cover screen until I changed one setting",
-      "source": "SamMobile",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-04",
-      "time": "14:53",
-      "publishedAt": "2026-08-04T14:53:03.000Z",
-      "url": "https://www.sammobile.com/opinion/worried-about-galaxy-z-fold-8-cover-screen-changed-one-setting/",
-      "image": "https://www.sammobile.com/wp-content/uploads/2026/08/Screenshot_20260803_163439_Amazon-Music-1.jpg",
-      "summary": "When I got the Galaxy Z Fold 8, I was curious to see how apps would adapt to its new cover display. Samsung has moved to a wider and shorter form factor, and I was worried that so…",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-9ed86846506a",
       "title": "Bigger Displays Rumored for Next Year's iPhone Models",
       "source": "MacRumors",
@@ -722,26 +1022,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-344a9a91d657",
-      "title": "I spent 2 weeks with the Galaxy Z Fold 8. Now I want every foldable this wide",
-      "source": "Android Police",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-04",
-      "time": "12:15",
-      "publishedAt": "2026-08-04T12:15:15.000Z",
-      "url": "https://www.androidpolice.com/spent-two-weeks-with-galaxy-z-fold-8/",
-      "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2026/08/z-fold-8-wide-screen-ebook.jpg",
-      "summary": "Wider foldables just make more sense",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-f82c34ff470d",
       "title": "The OnePlus 16 could finally match up to rivals with a long-awaited camera upgrade",
       "source": "Android Authority",
@@ -802,26 +1082,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-144a07a086f6",
-      "title": "Samsung confirms Galaxy S26 Ultra’s red screen issue isn’t hardware-related",
-      "source": "SamMobile",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-04",
-      "time": "10:50",
-      "publishedAt": "2026-08-04T10:50:24.000Z",
-      "url": "https://www.sammobile.com/news/galaxy-s26-ultra-red-screen-issue-not-hardware-related-confirmed/",
-      "image": "https://www.sammobile.com/wp-content/uploads/2026/08/Samsung-Galaxy-S26-Ultra-Red-Screen-Issue-Official-Clarification-Notice-South-Korea.jpeg",
-      "summary": "A few days ago, it was reported that some Galaxy S26 Ultra units had started experiencing a red screen issue. On affected devices, a rectangular area in the center of the display…",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-ed271fcb8d5a",
       "title": "The Galaxy Z Fold 8 is almost perfect. I just wish it wasn’t a foldable",
       "source": "Android Authority",
@@ -837,26 +1097,6 @@ window.phoneRadarAuto = {
       "summary": "Samsung accidentally launched the best small phone I’ve seen in years.",
       "tags": [
         "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-a957699f13bf",
-      "title": "Honor 700 series rumored to use 1.7-inch back screen",
-      "source": "Huawei Central",
-      "brand": "HONOR",
-      "model": "HONOR 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-04",
-      "time": "09:44",
-      "publishedAt": "2026-08-04T09:44:20.000Z",
-      "url": "https://www.huaweicentral.com/honor-700-series-rumored-to-use-1-7-inch-back-screen/",
-      "image": "https://www.huaweicentral.com/wp-content/uploads/2026/08/Honor600-Pro.jpg",
-      "summary": "Honor has recently unveiled the new Digital smartphone series with a magnetic rear display. It looks like the company has already started upgrading this dynamic part for the upcom…",
-      "tags": [
-        "HONOR",
         "爆料",
         "自动抓取"
       ]
@@ -1062,46 +1302,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-c298bf590941",
-      "title": "Xiaomi launches affordable Redmi Projector 5 Pro with 120Hz refresh, 1000 CVIA lumens & Dolby Audio",
-      "source": "Gizmochina",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-04",
-      "time": "02:13",
-      "publishedAt": "2026-08-04T02:13:35.000Z",
-      "url": "https://www.gizmochina.com/2026/08/04/xiaomi-redmi-projector-5-pro-launched-specs-price/",
-      "image": "https://www.gizmochina.com/wp-content/uploads/2026/08/Redmi-Projector-5-Pro-300x169.png?x23692",
-      "summary": "Xiaomi has released the Redmi Projector 5 Pro in China. The device is priced at 1,899 yuan (approximately $281) and introduces hardware like a 120Hz refresh rate and an integrated…",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-b6a9f38106f2",
-      "title": "Xiaomi launches affordable Redmi Projector 5 with 1080p resolution & built-in gimbal",
-      "source": "Gizmochina",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-04",
-      "time": "02:12",
-      "publishedAt": "2026-08-04T02:12:09.000Z",
-      "url": "https://www.gizmochina.com/2026/08/04/xiaomi-redmi-projector-5-launched-specs-price/",
-      "image": "https://www.gizmochina.com/wp-content/uploads/2026/08/Redmi-Projector-5-300x169.png?x23692",
-      "summary": "Xiaomi has introduced the Redmi Projector 5 in China as a new entry-level smart projector. It is priced at 999 yuan (around $148) and is now available through Xiaomi Youpin and JD…",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-6a73e9255c09",
       "title": "Apple plans to open iPhone clipboard access to Windows PCs",
       "source": "9to5Mac",
@@ -1117,46 +1317,6 @@ window.phoneRadarAuto = {
       "summary": "Apple has outlined plans to let users copy and paste content between an iPhone and a Windows PC, following an interoperability request from Microsoft in the European Union. Here a…",
       "tags": [
         "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "weibo-b9d24367e002",
-      "title": "数码闲聊站：一条独家超前瞻信息： 苹果正在打样两块新屏，一块物理尺寸6.4英寸±，有概率运…",
-      "source": "数码闲聊站",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-08-04",
-      "time": "01:28",
-      "publishedAt": "2026-08-04T01:28:00.000Z",
-      "url": "https://weibo.com/6048569942/RbNB12djv",
-      "image": "",
-      "summary": "一条独家超前瞻信息： 苹果正在打样两块新屏，一块物理尺寸6.4英寸±，有概率运用于iPhone 20 Pro？ 另一块7英寸大屏之前说过了，全系物理尺寸增大，比例不变，可能会采用全新无边四曲面设计",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "微博"
-      ]
-    },
-    {
-      "id": "auto-36820660bfda",
-      "title": "Nothing Phone (4b) vs Xiaomi 17T Comparison: Is Xiaomi Worth the Extra Money?",
-      "source": "Gizmochina",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-04",
-      "time": "01:18",
-      "publishedAt": "2026-08-04T01:18:11.000Z",
-      "url": "https://www.gizmochina.com/2026/08/04/nothing-phone-4b-vs-xiaomi-17t-comparison-is-xiaomi-worth-the-extra-money/",
-      "image": "https://www.gizmochina.com/wp-content/uploads/2026/08/image-15-300x186.png?x23692",
-      "summary": "Nothing Phone (4b) and Xiaomi 17T cater to very different buyers despite both offering modern Android experiences. One focuses on distinctive design and value, while the other pac…",
-      "tags": [
-        "Xiaomi",
         "爆料",
         "自动抓取"
       ]
