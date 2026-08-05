@@ -1,6 +1,106 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-08-05T17:52:56.020Z",
+  "updatedAt": "2026-08-05T19:53:18.300Z",
   "news": [
+    {
+      "id": "auto-99cdd41dc1b5",
+      "title": "UAG fixed my biggest Galaxy phone complaint with the Z Fold 8",
+      "source": "9to5Google",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-05",
+      "time": "19:30",
+      "publishedAt": "2026-08-05T19:30:00.000Z",
+      "url": "https://9to5google.com/2026/08/05/uag-fixed-my-biggest-galaxy-phone-complaint/",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/08/Galaxy-Z-Fold-8-Ultra-UAG-case-2.jpg?quality=82&strip=all&w=1600",
+      "summary": "Since Samsung insists on a camera design that stacks instead of spans, the Galaxy Z Fold 8 series, like many Galaxy phones, is naturally incompatible with magnetic accessories. UA…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-685f161e200d",
+      "title": "What cooling tech does the Galaxy Z Fold 8 Ultra use?",
+      "source": "SamMobile",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-05",
+      "time": "19:11",
+      "publishedAt": "2026-08-05T19:11:03.000Z",
+      "url": "https://www.sammobile.com/news/does-galaxy-z-fold-8-ultra-use-vapor-chamber-cooling/",
+      "image": "",
+      "summary": "Samsung, during the Galaxy Z Fold 8 Ultra‘s launch event and in its promotional material, highlighted the upgrades the device brings over the Galaxy Z Fold 7, but it didn't talk a…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-12efc5516cba",
+      "title": "iPhone 18 Pro event date: When Apple announced its event over the last six years",
+      "source": "9to5Mac",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-05",
+      "time": "19:10",
+      "publishedAt": "2026-08-05T19:10:13.000Z",
+      "url": "https://9to5mac.com/2026/08/05/iphone-18-pro-event-date-when-announcement/",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/iphone-18-pro-concept.jpg?quality=82&strip=all&w=1600",
+      "summary": "When should we expect the iPhone 18 Pro event, and when will Apple officially announce the date? Apple hasn’t sent invitations yet, but its announcement history gives us a remarka…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-fe7717a413af",
+      "title": "Samsung insists the Galaxy Z Fold 8 is ‘perfect’ for ‘full-screen’ video – it’s not",
+      "source": "9to5Google",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-05",
+      "time": "19:05",
+      "publishedAt": "2026-08-05T19:05:00.000Z",
+      "url": "https://9to5google.com/2026/08/05/samsung-galaxy-z-fold-8-video/",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/08/samsung-fold-8-content-marketing-2.jpg?quality=82&strip=all&w=1600",
+      "summary": "As Samsung’s pre-order perks for the Galaxy Z Fold 8 come to an end, the company continues to advertise its new form factor as a perfect fit for “full-screen” video, which is a pr…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-a08429e547f5",
+      "title": "Redmi Note 17 Pro vs OnePlus Nord CE 6: Full Specs, Price & Camera Comparison",
+      "source": "Gizmochina",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-05",
+      "time": "17:56",
+      "publishedAt": "2026-08-05T17:56:57.000Z",
+      "url": "https://www.gizmochina.com/2026/08/05/redmi-note-17-pro-vs-oneplus-nord-ce-6-2/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/08/image-27-300x193.png?x23692",
+      "summary": "Redmi Note 17 Pro and OnePlus Nord CE 6 target different segments of the mid-range smartphone market. While the Redmi focuses on delivering exceptional battery life and value, the…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-742a21914d57",
       "title": "I put my Pixel phones through a strenuous 24-hour battery life test to see if they hold up as well as they should, and the winner might surprise you",
@@ -502,23 +602,23 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-2db1fd7b06d4",
-      "title": "Galaxy S27 Ultra cameras may use this tech to reduce lens thickness, flare",
-      "source": "SamMobile",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
+      "id": "weibo-1609bf13ce9d",
+      "title": "数码闲聊站：K100 Pro，6.59英寸185Hz RGB OLED，骁龙8E5V处理器…",
+      "source": "数码闲聊站",
+      "brand": "行业",
+      "model": "智能手机市场",
       "type": "爆料",
-      "trust": "媒体汇总",
+      "trust": "高关注爆料源",
       "date": "2026-08-05",
-      "time": "06:47",
-      "publishedAt": "2026-08-05T06:47:11.000Z",
-      "url": "https://www.sammobile.com/news/galaxy-s27-ultra-cameras-may-use-inkjet-process-reduce-lens-thickness-flare/",
-      "image": "",
-      "summary": "A few months before Samsung launched its current flagship non-foldable smartphone lineup, the Galaxy S26 series, a report claimed that the brand would use an inkjet process for th…",
+      "time": "06:26",
+      "publishedAt": "2026-08-05T06:26:25.000Z",
+      "url": "https://weibo.com/6048569942/RbYYDpzRA",
+      "image": "https://tvax1.sinaimg.cn/mw2000/006BlblIgy1ifsxqu0s8sj30xu0f679d.jpg",
+      "summary": "K100 Pro，6.59英寸185Hz RGB OLED，骁龙8E5V处理器，8580mAh+100W有线+50W无线，2亿大底三摄，支持10cm长焦微距，好猜吗[doge]",
       "tags": [
-        "Samsung",
+        "行业",
         "爆料",
-        "自动抓取"
+        "微博"
       ]
     },
     {
@@ -642,6 +742,26 @@ window.phoneRadarAuto = {
       ]
     },
     {
+      "id": "newsnow-0d20b908b3ec",
+      "title": "余承东：内存涨价，手机之后可能都要大规模涨价",
+      "source": "酷安热榜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-08-05",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/73095878",
+      "image": "",
+      "summary": "余承东：内存涨价，手机之后可能都要大规模涨价",
+      "tags": [
+        "行业",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
       "id": "newsnow-cbf00bf11d51",
       "title": "REDMI K100 Pro 预热：2 亿像素旗舰三摄",
       "source": "酷安热榜",
@@ -657,26 +777,6 @@ window.phoneRadarAuto = {
       "summary": "REDMI K100 Pro 预热：2 亿像素旗舰三摄",
       "tags": [
         "Xiaomi",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-bce8e8cf774e",
-      "title": "和妹妹闲聊我问她为啥她们女生都喜欢用苹果？她说不卡拍照好，我说现在的安卓也不卡啊，拍照甚至比它好多了，结果我妹妹说我花大几千买个安卓为啥不买个苹果？[捂脸]确实苹果给大多数人的第一印象就是不卡，之前好多同事聊苹果脱口而出的就是不卡，不过她这个机天天提示iphone需要降温，把玩了一下外放音质是确实强，再一听我的x9pro，简直就是天上地下的区别[牛牛尴尬]#数码日常#",
-      "source": "酷安热榜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-08-05",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73077782",
-      "image": "",
-      "summary": "和妹妹闲聊我问她为啥她们女生都喜欢用苹果？她说不卡拍照好，我说现在的安卓也不卡啊，拍照甚至比它好多了，结果我妹妹说我花大几千买个安卓为啥不买个苹果？[捂脸]确实苹果给大多数人的第一印象就是不卡，之前好多同事聊苹果脱口而出的就是不卡，不过她这个机天天提示iphone需要降温，把玩了一下外放音质是确实强，再一听我的x9pro，简直就是天上地下的区别[牛牛尴尬]…",
-      "tags": [
-        "iPhone",
         "爆料",
         "NewsNow"
       ]
@@ -1162,6 +1262,26 @@ window.phoneRadarAuto = {
       ]
     },
     {
+      "id": "weibo-fef1755e63f2",
+      "title": "数码闲聊站：前段时间摸了一大堆迭代新机，玻纤和玻璃材质扎堆了，新型陶瓷什么时候回归？你们想…",
+      "source": "数码闲聊站",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-08-04",
+      "time": "11:03",
+      "publishedAt": "2026-08-04T11:03:00.000Z",
+      "url": "https://weibo.com/6048569942/RbRmpj3au",
+      "image": "",
+      "summary": "前段时间摸了一大堆迭代新机，玻纤和玻璃材质扎堆了，新型陶瓷什么时候回归？你们想要吗？[doge]",
+      "tags": [
+        "行业",
+        "爆料",
+        "微博"
+      ]
+    },
+    {
       "id": "auto-ed271fcb8d5a",
       "title": "The Galaxy Z Fold 8 is almost perfect. I just wish it wasn’t a foldable",
       "source": "Android Authority",
@@ -1279,6 +1399,26 @@ window.phoneRadarAuto = {
         "OPPO",
         "爆料",
         "酷安博主"
+      ]
+    },
+    {
+      "id": "weibo-0146bea5984f",
+      "title": "数码闲聊站：REDMI K100 Pro真机上手体验： ——首发骁龙8 Elite Gen…",
+      "source": "数码闲聊站",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-08-04",
+      "time": "06:08",
+      "publishedAt": "2026-08-04T06:08:00.000Z",
+      "url": "https://weibo.com/6048569942/RbPqFkhUg",
+      "image": "https://tvax1.sinaimg.cn/mw2000/006BlblIgy1ifr19xmnekj333n2bqnpf.jpg",
+      "summary": "REDMI K100 Pro真机上手体验： ——首发骁龙8 Elite Gen5V，同样是台积电N3p+4.6GHz Oryon满血双超大核架构；Adreno 840GPU有所调整，频率未降，3 slice→2 slice，GMEM 18MB→12MB。 从理论跑分来看，性能基准大概是8E5 90％。 ——185Hz RGB OLED+D2独显芯片，由于C…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "微博"
       ]
     },
     {

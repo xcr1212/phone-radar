@@ -1,15 +1,15 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-08-05T17:52:56.020Z",
+  "updatedAt": "2026-08-05T19:53:18.300Z",
   "issueDate": "2026-08-05",
   "issue": "VOL.260805",
   "title": "手机情报日报",
-  "intro": "今日筛出 15 条重点，其中 8 条是重点爆料，包含 7 条 iPhone 相关、1 条官方确认、1 条参数线索。",
+  "intro": "今日筛出 12 条重点，其中 8 条是重点爆料，包含 6 条 iPhone 相关、1 条官方确认、0 条参数线索。",
   "stats": {
-    "total": 15,
-    "iphone": 7,
+    "total": 12,
+    "iphone": 6,
     "leaks": 8,
     "official": 1,
-    "specs": 1
+    "specs": 0
   },
   "sections": [
     {
@@ -136,6 +136,31 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
+          "id": "weibo-0146bea5984f",
+          "title": "数码闲聊站：REDMI K100 Pro真机上手体验： ——首发骁龙8 Elite Gen…",
+          "originalTitle": "",
+          "source": "数码闲聊站",
+          "brand": "Xiaomi",
+          "type": "爆料",
+          "trust": "高关注爆料源",
+          "date": "2026-08-04",
+          "time": "06:08",
+          "publishedAt": "2026-08-04T06:08:00.000Z",
+          "url": "https://weibo.com/6048569942/RbPqFkhUg",
+          "image": "https://tvax1.sinaimg.cn/mw2000/006BlblIgy1ifr19xmnekj333n2bqnpf.jpg",
+          "verdict": "先看",
+          "takeaway": "REDMI K100 Pro真机上手体验： ——首发骁龙8 Elite Gen5V，同样是台积电N3p+4.6GHz Oryon满血双超大核架构；Adreno 840GPU有所调整，频率未降，3 slice→2 slice，GMEM 18MB→12MB。 从理论跑分来看，性能基准大概是8E5 90％。 ——185Hz RGB OLED+D2独显芯片，由于C…",
+          "detail": "REDMI K100 Pro真机上手体验： ——首发骁龙8 Elite Gen5V，同样是台积电N3p+4.6GHz Oryon满血双超大核架构；Adreno 840GPU有所调整，频率未降，3 slice→2 slice，GMEM 18MB→12MB。 从理论跑分来看，性能基准大概是8E5 90％。 ——185Hz RGB OLED+D2独显芯片，由于C…",
+          "keyPoints": [
+            "屏幕形态",
+            "芯片 / 性能",
+            "爆料来源"
+          ],
+          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
           "id": "coolapk-user-32bbcf2be2c4",
           "title": "JSCHEN小小狐：还是被惊艳到了，有种轻若无物的感觉。 摆的这台紫色是镜面屏，屏幕依旧有做 AR 抗反射镀膜，观感也不错。转轴一如既…",
           "originalTitle": "",
@@ -181,29 +206,6 @@ window.phoneRadarDaily = {
           "confidence": "可信度较高，但仍属于发布前线索。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "auto-09fab594e241",
-          "title": "消息称阶跃星辰内部确立大模型与智能体终端两条战略线，手机业务独立运营、将进入海外市场",
-          "originalTitle": "",
-          "source": "IT之家",
-          "brand": "行业",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-08-05",
-          "time": "13:29",
-          "publishedAt": "2026-08-05T13:29:22.000Z",
-          "url": "https://www.ithome.com/0/986/233.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/8/21232e55-2240-475c-95bb-372dc82ead33.png?x-bce-process=image/format,f_auto",
-          "verdict": "先看",
-          "takeaway": "IT之家 8 月 5 日消息，据虎嗅消息， 阶跃星辰内部正在按照两条战略线推进：一条仍以大模型为核心，另一条则以智能体终端为核心， 目前手机只是初步探索。 其中，以大模型为核心的业务仍以上海阶跃星辰智能科技股份有限公司这一原有主体运营； 手机业务则被放入一家新公司独立运营 。 据悉，阶跃正在搭建海外商业化团队，计划向海外销售大模型 API，其中将以语音模型…",
-          "detail": "IT之家 8 月 5 日消息，据虎嗅消息， 阶跃星辰内部正在按照两条战略线推进：一条仍以大模型为核心，另一条则以智能体终端为核心， 目前手机只是初步探索。 其中，以大模型为核心的业务仍以上海阶跃星辰智能科技股份有限公司这一原有主体运营； 手机业务则被放入一家新公司独立运营 。 据悉，阶跃正在搭建海外商业化团队，计划向海外销售大模型 API，其中将以语音模型…",
-          "keyPoints": [
-            "爆料来源"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         }
       ]
     },
@@ -236,29 +238,6 @@ window.phoneRadarDaily = {
           "action": "中文源可以直接点开快读；看完只保留和购机有关的点。"
         },
         {
-          "id": "newsnow-bce8e8cf774e",
-          "title": "和妹妹闲聊我问她为啥她们女生都喜欢用苹果？她说不卡拍照好，我说现在的安卓也不卡啊，拍照甚至比它好多了，结果我妹妹说我花大几千买个安卓为啥不买个苹果？[捂脸]确实苹果给大多数人的第一印象就是不卡，之前好多同事聊苹果脱口而出的就是不卡，不过她这个机天天提示iphone需要降温，把玩了一下外放音质是确实强，再一听我的x9pro，简直就是天上地下的区别[牛牛尴尬]#数码日常#",
-          "originalTitle": "",
-          "source": "酷安热榜",
-          "brand": "iPhone",
-          "type": "爆料",
-          "trust": "高关注爆料源",
-          "date": "2026-08-05",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://www.coolapk.com/feed/73077782",
-          "image": "",
-          "verdict": "先看",
-          "takeaway": "和妹妹闲聊我问她为啥她们女生都喜欢用苹果？她说不卡拍照好，我说现在的安卓也不卡啊，拍照甚至比它好多了，结果我妹妹说我花大几千买个安卓为啥不买个苹果？[捂脸]确实苹果给大多数人的第一印象就是不卡，之前好多同事聊苹果脱口而出的就是不卡，不过她这个机天天提示iphone需要降温，把玩了一下外放音质是确实强，再一听我的x9pro，简直就是天上地下的区别[牛牛尴尬]…",
-          "detail": "和妹妹闲聊我问她为啥她们女生都喜欢用苹果？她说不卡拍照好，我说现在的安卓也不卡啊，拍照甚至比它好多了，结果我妹妹说我花大几千买个安卓为啥不买个苹果？[捂脸]确实苹果给大多数人的第一印象就是不卡，之前好多同事聊苹果脱口而出的就是不卡，不过她这个机天天提示iphone需要降温，把玩了一下外放音质是确实强，再一听我的x9pro，简直就是天上地下的区别[牛牛尴尬]…",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
-        {
           "id": "auto-9bbf43c61c96",
           "title": "iPhone 系统功能 / AI 体验相关消息",
           "originalTitle": "",
@@ -279,66 +258,6 @@ window.phoneRadarDaily = {
           ],
           "confidence": "官方内容，可直接作为已确认信息记录。",
           "impact": "可信度高，但如果不是配置/价格消息，只需要扫一眼。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        }
-      ]
-    },
-    {
-      "id": "launch",
-      "title": "新机与官方发布",
-      "hint": "能直接更新到参数库。",
-      "items": [
-        {
-          "id": "auto-e4bdff29f4e8",
-          "title": "Pixel 10 发布 / 上市相关消息",
-          "originalTitle": "",
-          "source": "9to5Google",
-          "brand": "Pixel",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-08-05",
-          "time": "15:30",
-          "publishedAt": "2026-08-05T15:30:00.000Z",
-          "url": "https://9to5google.com/2026/08/05/pixel-10-cases-discount-clearout/",
-          "image": "",
-          "verdict": "可略过",
-          "takeaway": "Pixel 有发布或新功能消息，适合确认是否和新机有关。",
-          "detail": "Pixel 10 发布 / 上市相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        }
-      ]
-    },
-    {
-      "id": "specs",
-      "title": "参数、跑分、认证",
-      "hint": "适合验证芯片、屏幕、影像和电池。",
-      "items": [
-        {
-          "id": "coolapk-user-317803b41608",
-          "title": "JSCHEN小小狐：REDMI K100 Pro 主要参数曝光：185Hz 超级像素屏",
-          "originalTitle": "",
-          "source": "JSCHEN小小狐",
-          "brand": "Xiaomi",
-          "type": "爆料",
-          "trust": "高可信爆料",
-          "date": "2026-08-05",
-          "time": "07:10",
-          "publishedAt": "2026-08-05T07:10:42.000Z",
-          "url": "https://www.coolapk.com/feed/73093121",
-          "image": "http://image.coolapk.com/feed/2026/0805/15/4702274_798d4e6c_3841_0009_619@1440x565.jpg",
-          "verdict": "扫一眼",
-          "takeaway": "『REDMI K100 Pro 参数汇总：185Hz 超级像素』 ◇ 6.59 英寸 185Hz 超级像素 OLED 屏 ◇ 骁龙 8 Elite Gen5 V Series 移动平台 ◇ 8580mAh + 100W 有线 + 50W 无线 ◇ 200Mp 1/1.56'' HP5 23mm 主摄 ◇ 50Mp 1/2.76'' JN5 60mm 直立长…",
-          "detail": "『REDMI K100 Pro 参数汇总：185Hz 超级像素』 ◇ 6.59 英寸 185Hz 超级像素 OLED 屏 ◇ 骁龙 8 Elite Gen5 V Series 移动平台 ◇ 8580mAh + 100W 有线 + 50W 无线 ◇ 200Mp 1/1.56'' HP5 23mm 主摄 ◇ 50Mp 1/2.76'' JN5 60mm 直立长…",
-          "keyPoints": [
-            "屏幕形态"
-          ],
-          "confidence": "可信度较高，但仍属于发布前线索。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         }
       ]
