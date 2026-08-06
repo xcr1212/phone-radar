@@ -1,6 +1,206 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-08-06T03:35:04.117Z",
+  "updatedAt": "2026-08-06T06:44:23.220Z",
   "news": [
+    {
+      "id": "coolapk-user-35b373fc1f74",
+      "title": "JSCHEN小小狐：『小米 18 设计曝光：方形 Deco / 非对称四筒』 ◇ 左上角方形 Deco ◇ 非对称四筒排列 ◇ LIP…",
+      "source": "JSCHEN小小狐",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-08-06",
+      "time": "06:44",
+      "publishedAt": "2026-08-06T06:44:23.000Z",
+      "url": "https://www.coolapk.com/feed/73107490",
+      "image": "http://image.coolapk.com/feed/2026/0806/14/4702274_23d83384_8661_5425_431@1440x432.jpg",
+      "summary": "『小米 18 设计曝光：方形 Deco / 非对称四筒』 ◇ 左上角方形 Deco ◇ 非对称四筒排列 ◇ LIPO 极窄四等边 #今日热点# #小米18Pro# #小米17#",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-8da3cd371f08",
+      "title": "中国信通院：我国将成为全球潜力最大的 eSIM 市场",
+      "source": "IT之家",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-06",
+      "time": "06:39",
+      "publishedAt": "2026-08-06T06:39:37.000Z",
+      "url": "https://www.ithome.com/0/986/502.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/8/94351e4b-14ab-490e-978c-1109ac015ca9.png?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 8 月 6 日消息，中国信通院今日发文称，2025 年 10 月，工业和信息化部正式批复中国电信、中国移动、中国联通三大基础电信运营商开展 eSIM 手机运营服务商用试验，标志着 eSIM 技术在我国从物联网、智能穿戴领域向手机端延伸，我国正式迈入 eSIM 全品类发展阶段。凭借全球最大智能手机消费市场和最完整的终端制造体系，我国将成为全球潜力最…",
+      "tags": [
+        "行业",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-230716c321ed",
+      "title": "Galaxy Z Fold 8 and Z Fold 8 Ultra get 30% higher pre-orders in the US",
+      "source": "SamMobile",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-06",
+      "time": "06:20",
+      "publishedAt": "2026-08-06T06:20:02.000Z",
+      "url": "https://www.sammobile.com/news/galaxy-z-fold-8-ultra-30-percent-more-pre-orders-usa/",
+      "image": "",
+      "summary": "Samsung has announced that the Galaxy Z Flip 8, Galaxy Z Fold 8, and Galaxy Z Fold 8 Ultra are selling really well globally. Compared to last year's foldable models, the newer fol…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-38b4064868a4",
+      "title": "竹本青：REDMI K100 Pro Max 续航组合：9070mAh+100W",
+      "source": "竹本青",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-08-06",
+      "time": "06:01",
+      "publishedAt": "2026-08-06T06:01:35.000Z",
+      "url": "https://www.coolapk.com/feed/73106951",
+      "image": "http://image.coolapk.com/feed/2026/0806/14/4248714_39ee87ff_6194_6409_726@2000x2667.jpg",
+      "summary": "【REDMI K100 Pro Max 续航组合公布：9070mAh+100W有线+50W无线】 ● 9070mAh小米金沙江电池 ● 100W有线快充，27W有线反充 ● 50W无线快充，22.5W无线反充 #今日热点# #REDMIK100ProMax# #HyperOS3#",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "coolapk-user-43ba1a64a2a2",
+      "title": "JSCHEN小小狐：消息称 vivo X500 系列将首发 2nm 天玑平台",
+      "source": "JSCHEN小小狐",
+      "brand": "vivo",
+      "model": "vivo 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-08-06",
+      "time": "05:40",
+      "publishedAt": "2026-08-06T05:40:17.000Z",
+      "url": "https://www.coolapk.com/feed/73106641",
+      "image": "http://image.coolapk.com/feed/2026/0806/13/4702274_d0cf15cd_4816_3898_31@1440x775.jpg",
+      "summary": "『消息称 vivo X500 系列将首发 2nm 天玑平台』 知名数码博主 数码闲聊站 发博爆料称，天玑首款 2nm 旗舰平台（天玑 9600 Pro）将由 vivo X500 系列首发，预计于 9 月下旬发布。 vivo X500 系列已知信息如下： （标准版） ◇ 3nm 天玑 9600 Lite 移动平台 ◇ 6.59 英寸 1.5K LTPS 中尺…",
+      "tags": [
+        "vivo",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-d053c70c1507",
+      "title": "群晖推出 DiskStation neo+ 产品线：仅配备 4GB non-ECC 内存",
+      "source": "IT之家",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-06",
+      "time": "05:36",
+      "publishedAt": "2026-08-06T05:36:19.000Z",
+      "url": "https://www.ithome.com/0/986/461.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/8/88aee5d0-afac-4a22-a49f-101c005ccc88.png",
+      "summary": "IT之家 8 月 6 日消息，群晖科技 (Synology) 现已宣布推出 DiskStation neo+ 产品线，包括 DS1825neo+、DS1525neo+、DS925neo+、DS725neo+ 四款产品。 这四款新机型与对应的 DS Plus 系列桌面型 NAS 共享平台， 但仅配备 4GB non-ECC DDR4 SO-DIMM 内存模组…",
+      "tags": [
+        "行业",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "weibo-b2d40462933c",
+      "title": "数码闲聊站：vivo X500系列和iQOO16都已经入网了，X500已经确定9月下旬首发…",
+      "source": "数码闲聊站",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-08-06",
+      "time": "04:50",
+      "publishedAt": "2026-08-06T04:50:00.000Z",
+      "url": "https://weibo.com/6048569942/Rc7M058nO",
+      "image": "",
+      "summary": "vivo X500系列和iQOO16都已经入网了，X500已经确定9月下旬首发2nm天玑，iQOO看看能不能抢到9月底的档期，拿下子系首个骁龙2nm。 目前一加16基本确定10月，荣耀WIN2系列最快10月[吃瓜]",
+      "tags": [
+        "HONOR",
+        "爆料",
+        "微博"
+      ]
+    },
+    {
+      "id": "auto-c3629522e3b5",
+      "title": "Redmi 17 5G launches with a 6.9-inch 120Hz display, 6,300mAh battery, and 3.5mm audio jack",
+      "source": "Gizmochina",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-06",
+      "time": "04:20",
+      "publishedAt": "2026-08-06T04:20:31.000Z",
+      "url": "https://www.gizmochina.com/2026/08/06/redmi-17-5g-launched-price-specifications/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/08/Redmi-17-5G--300x181.jpg?x23692",
+      "summary": "Redmi has quietly announced the Redmi 17 5G in China as its latest budget smartphone. The new model focuses on long battery life, a large high refresh rate display, and modern con…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-8ba2d9995c1d",
+      "title": "Galaxy Z Flip 8, Fold 8, Fold 8 Ultra are now available for purchase globally",
+      "source": "SamMobile",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-06",
+      "time": "04:01",
+      "publishedAt": "2026-08-06T04:01:16.000Z",
+      "url": "https://www.sammobile.com/news/galaxy-z-flip-fold-8-ultra-launched-globally-available-purchase-prices/",
+      "image": "",
+      "summary": "Samsung's newest foldable phones, the Galaxy Z Flip 8, Galaxy Z Fold 8, and Galaxy Z Fold 8 Ultra, have launched in 109 markets worldwide. The phones were announced at a Galaxy Un…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-3c10299ffea6",
+      "title": "ColorOS Beta 测试活动开启招募，覆盖 OPPO、一加、realme 多款机型",
+      "source": "IT之家",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-06",
+      "time": "03:55",
+      "publishedAt": "2026-08-06T03:55:02.000Z",
+      "url": "https://www.ithome.com/0/986/418.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/8/84ac3ad1-8ba5-427a-a4eb-59e60bbf2e26.png?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 8 月 6 日消息，ColorOS 产品经理 @ColorOS阿彪 今日宣布，新的 ColorOS Beta 测试活动用户招募开始了，OPPO、一加、realme 用户均可报名参加。 IT之家整理招募机型如下： OPPO OPPO Find N6 、OPPO Find N6 卫星通信版 OPPO Find X9 Ultra 、OPPO Find…",
+      "tags": [
+        "OPPO",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-9a1b48e2744d",
       "title": "小米 REDMI 17 入门级 5G 手机开售，售价 999 元起",
@@ -39,46 +239,6 @@ window.phoneRadarAuto = {
         "iPhone",
         "爆料",
         "自动抓取"
-      ]
-    },
-    {
-      "id": "coolapk-user-ae4fce2325bd",
-      "title": "竹本青：Galaxy ZFold 8系列首销日情况曝光：全系约1万台",
-      "source": "竹本青",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-08-06",
-      "time": "02:15",
-      "publishedAt": "2026-08-06T02:15:51.000Z",
-      "url": "https://www.coolapk.com/feed/73103742",
-      "image": "http://image.coolapk.com/feed/2026/0806/10/4248714_d6b8c594_2549_7023_132@1271x670.jpg",
-      "summary": "【三星Galaxy ZFold 8系列 首销日情况曝光：全系约1万台，同期约为ZFold 7的40%】 8月6日，博主「RD观测」分享第三方统计的三星 Galaxy ZFold 8系列首销情况，以首销日为标准，该系列市场表现如下： ● Galaxy ZFold 8系列首销日SO约10K，同期约为Galaxy ZFold 7的40% ● 其中，Galaxy…",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
-      "id": "coolapk-user-56b44a086c43",
-      "title": "竹本青：REDMI K100 Pro Max「流金白」亮相",
-      "source": "竹本青",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-08-06",
-      "time": "01:35",
-      "publishedAt": "2026-08-06T01:35:34.000Z",
-      "url": "https://www.coolapk.com/feed/73103287",
-      "image": "http://image.coolapk.com/feed/2026/0806/09/4248714_4df6e8ec_0130_0858_631@1080x1080.jpg",
-      "summary": "【REDMI K100 Pro Max「流金白」亮相】 8月6日，REDMI K100 Pro「流金白」配色正式亮相。卢伟冰介绍，该配色像清晨第一缕阳光落在云层边缘，纯净之中带一点流动的金色光感，干净、明亮，简洁之上，更多一分高级感。以下为官方预热硬件汇总： ● 6.9″185Hz M11 新一代超级像素屏 ● 骁龙8 Elite Gen5+独显芯片D2…",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "酷安博主"
       ]
     },
     {
@@ -279,6 +439,26 @@ window.phoneRadarAuto = {
         "Pixel",
         "评测",
         "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-32bbcf2be2c4",
+      "title": "JSCHEN小小狐：还是被惊艳到了，有种轻若无物的感觉。 摆的这台紫色是镜面屏，屏幕依旧有做 AR 抗反射镀膜，观感也不错。转轴一如既…",
+      "source": "JSCHEN小小狐",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-08-05",
+      "time": "16:45",
+      "publishedAt": "2026-08-05T16:45:32.000Z",
+      "url": "https://www.coolapk.com/feed/73101058",
+      "image": "http://image.coolapk.com/feed/2026/0806/00/4702274_6f7510b9_8329_0364_90-uhdr@2366x3503.jpg",
+      "summary": "还是被惊艳到了，有种轻若无物的感觉。 摆的这台紫色是镜面屏，屏幕依旧有做 AR 抗反射镀膜，观感也不错。转轴一如既往的流畅，电源指纹套的是 GT 14 的设计，1.5mm 键程比上代 Pro 弱了点，不过触控板振感反倒会略好些？ 另外不知道是不是黑边变窄的缘故，这次 Pro S 取消了此前屏幕下边框的“HUAWEI”Logo。 #华为MateBookPro…",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "酷安博主"
       ]
     },
     {
@@ -537,26 +717,6 @@ window.phoneRadarAuto = {
       "summary": "More than a notification light, or little else?",
       "tags": [
         "Pixel",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-99de7e1579d8",
-      "title": "Here’s a look at Samsung’s cases for its upcoming Galaxy S26 FE",
-      "source": "SamMobile",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-05",
-      "time": "07:24",
-      "publishedAt": "2026-08-05T07:24:39.000Z",
-      "url": "https://www.sammobile.com/news/samsungs-cases-galaxy-s26-fe/",
-      "image": "https://www.sammobile.com/wp-content/uploads/2026/08/Samsung-Clear-Magnet-Case-For-Galaxy-S26-FE-01.jpeg",
-      "summary": "According to multiple reports, Samsung is expected to launch its next Galaxy S Fan Edition smartphone, the Galaxy S26 FE, in a couple of months. So far, there have been plenty of…",
-      "tags": [
-        "Samsung",
         "爆料",
         "自动抓取"
       ]
