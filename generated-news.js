@@ -1,6 +1,206 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-08-07T09:14:29.707Z",
+  "updatedAt": "2026-08-07T11:05:56.307Z",
   "news": [
+    {
+      "id": "auto-f3230e735655",
+      "title": "Huawei wide non-foldable phone could belong to Pura X series",
+      "source": "Huawei Central",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-07",
+      "time": "10:56",
+      "publishedAt": "2026-08-07T10:56:58.000Z",
+      "url": "https://www.huaweicentral.com/huawei-wide-non-foldable-phone-could-belong-to-pura-x-series/",
+      "image": "https://www.huaweicentral.com/wp-content/uploads/2026/07/Pura90sProMax-1.jpg",
+      "summary": "Huawei is seemingly working on a wide, non-foldable phone that may debut by the end of this year in the Pura X series. While the device’s identity and name remain a big mystery, a…",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "weibo-73371a11a44f",
+      "title": "数码闲聊站：K100 Pro Max今日份信息汇总： 影像——200Mp F1.68光圈大…",
+      "source": "数码闲聊站",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-08-07",
+      "time": "10:40",
+      "publishedAt": "2026-08-07T10:40:00.000Z",
+      "url": "https://weibo.com/6048569942/RcjuyCExj",
+      "image": "https://tvax2.sinaimg.cn/mw2000/006BlblIgy1ifvazs9xo2j30xv0wzdpq.jpg",
+      "summary": "K100 Pro Max今日份信息汇总： 影像——200Mp F1.68光圈大底主摄，50Mp 17mm超广角，50Mp F3.0 5X潜望长焦 音频——双1115D全频对称双扬+1620低音炮",
+      "tags": [
+        "行业",
+        "爆料",
+        "微博"
+      ]
+    },
+    {
+      "id": "auto-a9b34bbdebc1",
+      "title": "Samsung discontinuing the Flip lineup would be a disappointing decision",
+      "source": "SamMobile",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-07",
+      "time": "10:27",
+      "publishedAt": "2026-08-07T10:27:04.000Z",
+      "url": "https://www.sammobile.com/opinion/samsung-discontinuing-flip-lineup-disappointing-decision/",
+      "image": "",
+      "summary": "There's talk going around that Samsung is thinking about discontinuing the Galaxy Z Flip series. The reasoning is that the Flip is expensive to build and there isn't much room lef…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-611882f18a45",
+      "title": "Samsung Galaxy S27 Ultra vs Galaxy S26 Ultra: Every Leaked Upgrade Compared",
+      "source": "Gizmochina",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-07",
+      "time": "10:19",
+      "publishedAt": "2026-08-07T10:19:45.000Z",
+      "url": "https://www.gizmochina.com/2026/08/07/galaxy-s27-ultra-vs-galaxy-s26-ultra/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/08/image-32-300x193.png?x23692",
+      "summary": "Samsung is expected to launch the Galaxy S27 Ultra in early 2027, and early leaks suggest the company is focusing on refining its flagship rather than completely redesigning it. W…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-bf49b4b9ba59",
+      "title": "米家（Mijia）品牌官宣落地印度，与小米、REDMI、POCO 并列",
+      "source": "IT之家",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-07",
+      "time": "10:10",
+      "publishedAt": "2026-08-07T10:10:33.000Z",
+      "url": "https://www.ithome.com/0/987/157.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/8/cdf84ba4-713e-4c93-87ad-2311715ff241.png",
+      "summary": "IT之家 8 月 7 日消息，小米印度营销与公关副总监桑迪普 · 萨尔玛（Sandeep Sarma）今日宣布，小米将在印度市场推出米家（Mijia）这一专注家庭与生活方式产品的子品牌。该品牌将与 Xiaomi、REDMI 以及 POCO 共同组成小米印度的产品体系。 萨尔玛表示，小米今年上半年主要围绕“人 x 车 x 家”生态系统中的“Human”（人）…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-fdf9555843ce",
+      "title": "JSCHEN小小狐：iQOO Neo11 至尊版外观泄露：横向双摄模组",
+      "source": "JSCHEN小小狐",
+      "brand": "vivo",
+      "model": "vivo 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-08-07",
+      "time": "10:01",
+      "publishedAt": "2026-08-07T10:01:19.000Z",
+      "url": "https://www.coolapk.com/feed/73125660",
+      "image": "http://image.coolapk.com/feed/2026/0807/18/4702274_ddb01456_8342_5224_102@2880x2160.jpg",
+      "summary": "『iQOO Neo11 至尊版外观泄露：横向双摄模组』 近日，iQOO Neo11 至尊版「乘风」配色真机在社交媒体曝光。新机采用左上角横向双摄设计，闪光灯位于模组右侧，主摄支持 OIS 光学防抖。该机此前已官宣，预计将于 8 月 10 日正式预热。 部分爆料信息如下： ◇ 深度定制天玑 9500 移动平台 ◇ 2K 144Hz 国产新工艺 OLED 直屏…",
+      "tags": [
+        "vivo",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-a6bfb69d48c3",
+      "title": "产品定义顶级：消息称华为阔直板新机已 Ready，方案属是行业首发",
+      "source": "IT之家",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-07",
+      "time": "09:51",
+      "publishedAt": "2026-08-07T09:51:23.000Z",
+      "url": "https://www.ithome.com/0/987/131.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/8/1dff6fec-255d-4a8c-8a0b-a03ef5e15b19.png?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 8 月 7 日消息，博主 @数码闲聊站 今日发文透露， 某厂的阔直板新手机已 Ready，方案属于行业首发 。结合该博主此前的爆料来看，新机归属华为品牌。 另外，博主表示，这款手机的产品定义很顶级，定位不低， 其它家也在跟进中，但会晚不少 。 博主还在评论区回复了部分网友的问题。针对新机会不会有更大尺寸，他回复称：“ 暂时还没有更大尺寸的开案。…",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-3d96ca92a6ad",
+      "title": "MIX Fold 5？小米阔折叠手机正面形象首曝：大 R 角 + 澎湃 OS 4 液态玻璃设计",
+      "source": "IT之家",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-07",
+      "time": "09:35",
+      "publishedAt": "2026-08-07T09:35:37.000Z",
+      "url": "https://www.ithome.com/0/987/121.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/8/88ff6aad-b89f-4992-8b67-20aee82457a4.png?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 8 月 7 日消息，博主 @熊猫很禿然 今日曝光了小米阔折叠手机的正面形象。 从博主分享的画面可以看到， 小米阔折叠手机正面采用了大 R 角设计 ，摄像头位于手机右上角。同时，该机预计还会搭载澎湃 HyperOS 4 系统。相关页面显示，系统有着液态玻璃设计。 IT之家注意到，小米全新澎湃 HyperOS 4 系统宣传页面今日被曝光，更多新特性流…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-e5dbf4b11c38",
+      "title": "Samsung Galaxy Z Fold 8 and Galaxy Z Flip 8 pre-orders surge 30% globally after launch",
+      "source": "Gizmochina",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-07",
+      "time": "09:30",
+      "publishedAt": "2026-08-07T09:30:54.000Z",
+      "url": "https://www.gizmochina.com/2026/08/07/samsung-galaxy-z-fold-8-ultra-z-fold-8-z-flip-8-pre-orders-record/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/08/Samsung-foldables-300x218.jpg?x23692",
+      "summary": "Samsung Galaxy Z Fold 8 and Galaxy Z Flip 8 pre-orders surge 30% globally after launch Samsung’s latest foldable lineup appears to have received a strong response from consumers w…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-c64bd57edff5",
+      "title": "iQOO Z11 confirmed to debut as the first Dimensity 7500 Turbo phone",
+      "source": "Gizmochina",
+      "brand": "vivo",
+      "model": "vivo 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-07",
+      "time": "09:14",
+      "publishedAt": "2026-08-07T09:14:52.000Z",
+      "url": "https://www.gizmochina.com/2026/08/07/iqoo-z11-chipset-officially-confirmed/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/08/iQOO-Z11-chipset_-300x184.jpg?x23692",
+      "summary": "Back in May, MediaTek unveiled the Dimensity 7500, a 4nm chipset designed for mainstream smartphones. Currently, the Vivo S60 Vitality, which is exclusive to China, is the only ph…",
+      "tags": [
+        "vivo",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "weibo-d5a82e0505cd",
       "title": "数码闲聊站：全网最早说阔直板之人，产品定义很顶级，定位不低，核心参数我之前发过，暂未解禁就…",
@@ -23,7 +223,7 @@ window.phoneRadarAuto = {
     },
     {
       "id": "coolapk-user-dbf12ecd0274",
-      "title": "竹本青：【2026年第31周 国内手机市场份额曝光：华为、OPPO、vivo分列前三】 2026 W31 —— 大盘变化不…",
+      "title": "竹本青：2026年第31周国内手机市场份额曝光：华为居首",
       "source": "竹本青",
       "brand": "HONOR",
       "model": "HONOR 相关机型",
@@ -34,7 +234,7 @@ window.phoneRadarAuto = {
       "publishedAt": "2026-08-07T09:02:57.000Z",
       "url": "https://www.coolapk.com/feed/73124775",
       "image": "http://image.coolapk.com/feed/2026/0807/17/4248714_05073ccf_3376_6166_673@1440x1047.jpg",
-      "summary": "【2026年第31周 国内手机市场份额曝光：华为、OPPO、vivo分列前三】 2026 W31 —— 大盘变化不大 1.华为 —— 20.8% 2.OPPO —— 16.1%（含一加3.1%，realme 0.7%） 3.vivo —— 16.0%（含iQOO 4.0%） 4.小米 —— 15.3% 5.苹果 —— 14.2% 6.荣耀 —— 13.5%…",
+      "summary": "【2026年第31周 国内手机市场份额曝光：华为、OPPO、vivo分列前三】 ● 2026 W31 —— 大盘变化不大 1.华为 —— 20.8% 2.OPPO —— 16.1%（含一加3.1%，realme 0.7%） 3.vivo —— 16.0%（含iQOO 4.0%） 4.小米 —— 15.3% 5.苹果 —— 14.2% 6.荣耀 —— 13.…",
       "tags": [
         "HONOR",
         "爆料",
@@ -162,26 +362,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-b6b45a1a0789",
-      "title": "iQOO Neo11 至尊版官宣“下周一见”：国产顶级 2K 屏 + 超大电池",
-      "source": "IT之家",
-      "brand": "vivo",
-      "model": "vivo 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-07",
-      "time": "06:32",
-      "publishedAt": "2026-08-07T06:32:46.000Z",
-      "url": "https://www.ithome.com/0/986/959.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/8/97f4778e-9c87-42a8-8a12-f990cbad7bb1.jpg",
-      "summary": "IT之家 8 月 7 日消息，iQOO Neo 产品经理 @iQOO慧慧子 今日预告 iQOO Neo11 至尊版“下周一见”，届时有望公布更多消息。 据其透露，这款新机将搭载国产顶级 2K 屏、Neo 史上最大电池，外观上从设计到工艺再到配色都进行了认真打磨，更护眼、更耐用、网络更稳定。 IT之家注意到，博主 @数码闲聊站 于 8 月 3 日曝光一款 i…",
-      "tags": [
-        "vivo",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-df9a054a02ef",
       "title": "Galaxy S26 FE has an interesting Exynos and Snapdragon mix",
       "source": "SamMobile",
@@ -302,26 +482,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "coolapk-user-818fc58bb3a1",
-      "title": "竹本青：REDMI K100 Pro Max 官宣搭载2.1立体声系统",
-      "source": "竹本青",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-08-07",
-      "time": "03:01",
-      "publishedAt": "2026-08-07T03:01:37.000Z",
-      "url": "https://www.coolapk.com/feed/73119796",
-      "image": "http://image.coolapk.com/feed/2026/0807/11/4248714_bba9b479_1877_2982_705@2000x2667.jpg",
-      "summary": "【REDMI K100 Pro Max 官宣搭载2.1立体声系统：两颗1115D+1620单元】 ● 两颗 1115D全频发声单元 ● 一颗 1620独立低音单元 ● Sound by Bose联合调音 #今日热点# #REDMIK100ProMax# #HyperOS3#",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
       "id": "weibo-d531148afc03",
       "title": "数码闲聊站：ISOCELL HPC正式亮相，Find X10系列首发？ 200Mp 1/1…",
       "source": "数码闲聊站",
@@ -422,6 +582,26 @@ window.phoneRadarAuto = {
       ]
     },
     {
+      "id": "newsnow-6ffc5b47f4d9",
+      "title": "这几天出来旅游，我女朋友此时就躺我怀里，她睡着后我刚看她手机，居然和一个男的聊暧昧一段时间了，聊天记录你们可以想象一下，什么说自己没男朋友啊，好想你啊，还发自拍过去，我还浑然不知，最可笑的是用着我买给的手机聊暧昧，大家说说该如何解决#小米17# #一加15# #酷安夜话#",
+      "source": "酷安热榜",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-08-07",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/73117007",
+      "image": "",
+      "summary": "这几天出来旅游，我女朋友此时就躺我怀里，她睡着后我刚看她手机，居然和一个男的聊暧昧一段时间了，聊天记录你们可以想象一下，什么说自己没男朋友啊，好想你啊，还发自拍过去，我还浑然不知，最可笑的是用着我买给的手机聊暧昧，大家说说该如何解决#小米17# #一加15# #酷安夜话#",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
       "id": "newsnow-24a841478d70",
       "title": "最近怎么这么多推胖爸卡贴的，去年的16pm板块暴雷多少了都，我买了四台都是电池鼓包漏液，屏幕弹窗，卡槽歪斜的，怎么还有人推啊，给你们多少钱啊，他家售后也不是一般的差，别坑人了行吗，老老实实用国航。自己用美版就别出来给他发帖子，不怕昧良心吗 #iPhone16ProMax# #iPhone17ProMax#",
       "source": "酷安热榜",
@@ -438,66 +618,6 @@ window.phoneRadarAuto = {
       "tags": [
         "iPhone",
         "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-73468c9c13b3",
-      "title": "汇总一下今年我最期待的小屏——vivo X500 Pro。",
-      "source": "酷安热榜",
-      "brand": "vivo",
-      "model": "vivo 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-08-07",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73108460",
-      "image": "",
-      "summary": "汇总一下今年我最期待的小屏——vivo X500 Pro。",
-      "tags": [
-        "vivo",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-292051d11734",
-      "title": "iPhone18Pro系列价格预测",
-      "source": "微博热搜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "待验证",
-      "date": "2026-08-07",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://s.weibo.com/weibo?q=%23iPhone18Pro%E7%B3%BB%E5%88%97%E4%BB%B7%E6%A0%BC%E9%A2%84%E6%B5%8B%23&t=31&band_rank=10&Refer=top",
-      "image": "",
-      "summary": "iPhone18Pro系列价格预测",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-f2d83637e6a8",
-      "title": "多家手机品牌回应将大规模涨价，OPPO 、荣耀、小米等部分机型已上调价格，如何看待此次手机涨价潮？",
-      "source": "知乎热榜",
-      "brand": "HONOR",
-      "model": "HONOR 相关机型",
-      "type": "市场报告",
-      "trust": "媒体汇总",
-      "date": "2026-08-07",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.zhihu.com/question/2068727171682718365",
-      "image": "",
-      "summary": "多家手机品牌回应将大规模涨价，OPPO 、荣耀、小米等部分机型已上调价格，如何看待此次手机涨价潮？",
-      "tags": [
-        "HONOR",
-        "市场报告",
         "NewsNow"
       ]
     },
@@ -817,26 +937,6 @@ window.phoneRadarAuto = {
       "summary": "A tipster says the Z Fold 8 Ultra's crease has gotten worse over time. But has it?",
       "tags": [
         "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-de8fdb503275",
-      "title": "Huawei Mate 90 series could bring upgraded screen privacy feature",
-      "source": "Huawei Central",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-06",
-      "time": "10:42",
-      "publishedAt": "2026-08-06T10:42:51.000Z",
-      "url": "https://www.huaweicentral.com/huawei-mate-90-series-could-bring-upgraded-screen-privacy-feature/",
-      "image": "https://www.huaweicentral.com/wp-content/uploads/2026/08/anti-peeping.jpg",
-      "summary": "Huawei Mate 90 series will undergo many upgrades, and one of these changes can be an advanced screen privacy feature. The company could integrate a new-generation anti-peeping too…",
-      "tags": [
-        "Huawei",
         "爆料",
         "自动抓取"
       ]

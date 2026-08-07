@@ -1,14 +1,14 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-08-07T09:14:29.707Z",
+  "updatedAt": "2026-08-07T11:05:56.307Z",
   "issueDate": "2026-08-07",
   "issue": "VOL.260807",
   "title": "手机情报日报",
-  "intro": "今日筛出 10 条重点，其中 8 条是重点爆料，包含 9 条 iPhone 相关、1 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 8 条重点，其中 8 条是重点爆料，包含 7 条 iPhone 相关、0 条官方确认、0 条参数线索。",
   "stats": {
-    "total": 10,
-    "iphone": 9,
+    "total": 8,
+    "iphone": 7,
     "leaks": 8,
-    "official": 1,
+    "official": 0,
     "specs": 0
   },
   "sections": [
@@ -87,31 +87,6 @@ window.phoneRadarDaily = {
             "爆料来源"
           ],
           "confidence": "可信度较高，但仍属于发布前线索。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "auto-b6b45a1a0789",
-          "title": "iQOO Neo11 至尊版官宣“下周一见”：国产顶级 2K 屏 + 超大电池",
-          "originalTitle": "",
-          "source": "IT之家",
-          "brand": "vivo",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-08-07",
-          "time": "06:32",
-          "publishedAt": "2026-08-07T06:32:46.000Z",
-          "url": "https://www.ithome.com/0/986/959.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/8/97f4778e-9c87-42a8-8a12-f990cbad7bb1.jpg",
-          "verdict": "先看",
-          "takeaway": "IT之家 8 月 7 日消息，iQOO Neo 产品经理 @iQOO慧慧子 今日预告 iQOO Neo11 至尊版“下周一见”，届时有望公布更多消息。 据其透露，这款新机将搭载国产顶级 2K 屏、Neo 史上最大电池，外观上从设计到工艺再到配色都进行了认真打磨，更护眼、更耐用、网络更稳定。 IT之家注意到，博主 @数码闲聊站 于 8 月 3 日曝光一款 i…",
-          "detail": "IT之家 8 月 7 日消息，iQOO Neo 产品经理 @iQOO慧慧子 今日预告 iQOO Neo11 至尊版“下周一见”，届时有望公布更多消息。 据其透露，这款新机将搭载国产顶级 2K 屏、Neo 史上最大电池，外观上从设计到工艺再到配色都进行了认真打磨，更护眼、更耐用、网络更稳定。 IT之家注意到，博主 @数码闲聊站 于 8 月 3 日曝光一款 i…",
-          "keyPoints": [
-            "外观 / 配色 / 尺寸",
-            "电池 / 充电",
-            "爆料来源"
-          ],
-          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
@@ -206,59 +181,31 @@ window.phoneRadarDaily = {
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        }
-      ]
-    },
-    {
-      "id": "iphone",
-      "title": "iPhone 重点",
-      "hint": "不是硬件爆料，但和 iPhone 体验或路线有关。",
-      "items": [
-        {
-          "id": "auto-0fcadcdf72f4",
-          "title": "下个月的 iPhone 发布会，可能是五年来最有「活人感」的一次",
-          "originalTitle": "",
-          "source": "爱范儿",
-          "brand": "iPhone",
-          "type": "评测",
-          "trust": "媒体汇总",
-          "date": "2026-08-06",
-          "time": "10:00",
-          "publishedAt": "2026-08-06T10:00:04.000Z",
-          "url": "https://www.ifanr.com/1674187?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "image": "https://s3.ifanr.com/images/ep/uploads/lark2pad_upload/1362d2f6-8ae9-4902-8f1e-de7c5b5da41b.png",
-          "verdict": "先看",
-          "takeaway": "真人站台的苹果发布会，可能要回来了。",
-          "detail": "真人站台的苹果发布会，可能要回来了。",
-          "keyPoints": [
-            "评测"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是实际体验内容，买前适合重点看缺点和取舍。",
-          "action": "中文源可以直接点开快读；看完只保留和购机有关的点。"
         },
         {
-          "id": "auto-9bbf43c61c96",
-          "title": "iPhone 系统功能 / AI 体验相关消息",
+          "id": "coolapk-user-fdf9555843ce",
+          "title": "JSCHEN小小狐：iQOO Neo11 至尊版外观泄露：横向双摄模组",
           "originalTitle": "",
-          "source": "Apple Newsroom",
-          "brand": "iPhone",
-          "type": "官方",
-          "trust": "官方确认",
+          "source": "JSCHEN小小狐",
+          "brand": "vivo",
+          "type": "爆料",
+          "trust": "高可信爆料",
           "date": "2026-08-07",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://www.apple.com/newsroom/2026/06/apple-announces-changes-to-ios-in-brazil/",
-          "image": "",
+          "time": "10:01",
+          "publishedAt": "2026-08-07T10:01:19.000Z",
+          "url": "https://www.coolapk.com/feed/73125660",
+          "image": "http://image.coolapk.com/feed/2026/0807/18/4702274_ddb01456_8342_5224_102@2880x2160.jpg",
           "verdict": "先看",
-          "takeaway": "iPhone 系统功能 / AI 体验相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
-          "detail": "iPhone 系统功能 / AI 体验相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
+          "takeaway": "『iQOO Neo11 至尊版外观泄露：横向双摄模组』 近日，iQOO Neo11 至尊版「乘风」配色真机在社交媒体曝光。新机采用左上角横向双摄设计，闪光灯位于模组右侧，主摄支持 OIS 光学防抖。该机此前已官宣，预计将于 8 月 10 日正式预热。 部分爆料信息如下： ◇ 深度定制天玑 9500 移动平台 ◇ 2K 144Hz 国产新工艺 OLED 直屏…",
+          "detail": "『iQOO Neo11 至尊版外观泄露：横向双摄模组』 近日，iQOO Neo11 至尊版「乘风」配色真机在社交媒体曝光。新机采用左上角横向双摄设计，闪光灯位于模组右侧，主摄支持 OIS 光学防抖。该机此前已官宣，预计将于 8 月 10 日正式预热。 部分爆料信息如下： ◇ 深度定制天玑 9500 移动平台 ◇ 2K 144Hz 国产新工艺 OLED 直屏…",
           "keyPoints": [
-            "官方"
+            "外观 / 配色 / 尺寸",
+            "屏幕形态",
+            "爆料来源"
           ],
-          "confidence": "官方内容，可直接作为已确认信息记录。",
-          "impact": "可信度高，但如果不是配置/价格消息，只需要扫一眼。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+          "confidence": "可信度较高，但仍属于发布前线索。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         }
       ]
     }
