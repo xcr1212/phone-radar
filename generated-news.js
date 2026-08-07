@@ -1,6 +1,66 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-08-07T19:14:09.395Z",
+  "updatedAt": "2026-08-07T20:57:42.148Z",
   "news": [
+    {
+      "id": "auto-773a206224a6",
+      "title": "This discounted Google Qi2 charger is the perfect way to charge your Pixel 10",
+      "source": "Android Police",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-07",
+      "time": "20:36",
+      "publishedAt": "2026-08-07T20:36:21.000Z",
+      "url": "https://www.androidpolice.com/google-pixelsnap-charger-with-stand-35-deal/",
+      "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2025/08/img_1857.jpg",
+      "summary": "50% off is a steep discount",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-6cfc942d1dbf",
+      "title": "iPhone 17 might get price increase next week, per new rumor",
+      "source": "9to5Mac",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-07",
+      "time": "20:27",
+      "publishedAt": "2026-08-07T20:27:50.000Z",
+      "url": "https://9to5mac.com/2026/08/07/iphone-17-might-get-price-increase-next-week-per-new-rumor/",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/09/iphone-17-lineup-air.jpg?quality=82&strip=all&w=1600",
+      "summary": "Apple is widely expected to raise iPhone prices when the iPhone 18 Pro launches next month. But a new rumor suggests the iPhone 17 might get a price increase as early as next week.",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-706955c456e4",
+      "title": "竹本青：酷态科6u和魅族充电站，晚上全黑看，还是挺有意思的，谈不上光污染",
+      "source": "竹本青",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-08-07",
+      "time": "19:29",
+      "publishedAt": "2026-08-07T19:29:16.000Z",
+      "url": "https://www.coolapk.com/feed/73132659",
+      "image": "http://image.coolapk.com/feed/2026/0808/03/4248714_488d1da0_0955_0132_29@2880x2880.jpg",
+      "summary": "酷态科6u和魅族充电站，晚上全黑看，还是挺有意思的，谈不上光污染",
+      "tags": [
+        "行业",
+        "爆料",
+        "酷安博主"
+      ]
+    },
     {
       "id": "auto-f7e599e2211f",
       "title": "What to expect from the Samsung Galaxy S26 FE: Specs, colors, and release window",
@@ -23,7 +83,7 @@ window.phoneRadarAuto = {
     },
     {
       "id": "coolapk-user-4d1431f2fba7",
-      "title": "竹本青：【微信上线撤回提示删除功能，仅可清除本机页面痕迹】 日期，微信宣布更新一项聊天功能：用户撤回消息后，可长按“你撤回…",
+      "title": "竹本青：【微信上线撤回提示删除功能，仅可清除本机页面痕迹】 日前，微信宣布更新一项聊天功能：用户撤回消息后，可长按“你撤回…",
       "source": "竹本青",
       "brand": "iPhone",
       "model": "iPhone 相关机型",
@@ -34,7 +94,7 @@ window.phoneRadarAuto = {
       "publishedAt": "2026-08-07T18:06:10.000Z",
       "url": "https://www.coolapk.com/feed/73132351",
       "image": "http://image.coolapk.com/feed/2026/0808/02/4248714_afcb77ce_5969_0986_717@1078x460.jpg",
-      "summary": "【微信上线撤回提示删除功能，仅可清除本机页面痕迹】 日期，微信宣布更新一项聊天功能：用户撤回消息后，可长按“你撤回了一条消息”灰色提示，选择删除该提示文字。 需注意，该操作仅删除自己设备聊天界面的提示，方便截图、存档整理聊天记录；对方聊天窗口依旧会正常看到撤回提示，不会同步消除对方端显示。 ＊该功能正逐步覆盖iOS和Android端用户 #今日热点# #微…",
+      "summary": "【微信上线撤回提示删除功能，仅可清除本机页面痕迹】 日前，微信宣布更新一项聊天功能：用户撤回消息后，可长按“你撤回了一条消息”灰色提示，选择删除该提示文字。 需注意，该操作仅删除自己设备聊天界面的提示，方便截图、存档整理聊天记录；对方聊天窗口依旧会正常看到撤回提示，不会同步消除对方端显示。 ＊该功能正逐步覆盖iOS和Android端用户 #今日热点# #微…",
       "tags": [
         "iPhone",
         "爆料",
@@ -182,26 +242,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-8fa9cc5f304b",
-      "title": "Samsung’s Z Fold 8 Ultra is more of the same, but better than ever",
-      "source": "The Verge",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-07",
-      "time": "14:48",
-      "publishedAt": "2026-08-07T14:48:38.000Z",
-      "url": "https://www.theverge.com/tech/976551/samsung-galaxy-z-fold-8-ultra-review",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/samsung-galaxy-z-fold-8-ultra-11.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "summary": "What makes the Samsung Galaxy Z Fold 8 Ultra so Ultra? Samsung's first foldable with the Ultra name isn't a souped-up version of the regular Fold 8, as you might expect. Where the…",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-5a87eab067be",
       "title": "Samsung cuts Galaxy Z Fold 8 trade-ins & deals on release day – here’s where to get the best price now",
       "source": "9to5Google",
@@ -322,26 +362,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "coolapk-user-c24681444d87",
-      "title": "JSCHEN小小狐：原本以为 Pro Max 再怎么砍也有 HP9 原来和 Pro 是同一颗 HP5 吗……？ 根据水印信息整理了下影…",
-      "source": "JSCHEN小小狐",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-08-07",
-      "time": "13:58",
-      "publishedAt": "2026-08-07T13:58:39.000Z",
-      "url": "https://www.coolapk.com/feed/73129148",
-      "image": "http://image.coolapk.com/feed/2026/0807/22/4702274_72bb28c3_2228_8654_353-uhdr@2366x3503.jpg",
-      "summary": "原本以为 Pro Max 再怎么砍也有 HP9 原来和 Pro 是同一颗 HP5 吗……？ 根据水印信息整理了下影像规格： （Pro Max） - 200Mp 1/1.56'' HP5 24mm f/1.68 OIS 主摄 - 50Mp 1/2.75'' JN5 120mm f/3.0 OIS 潜望 - 50Mp 1/2.88'' OV50M 17mm f…",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
       "id": "auto-cceb3deedeb4",
       "title": "iPhone 18 Pro is getting even more ‘Pro’ this year in three ways",
       "source": "9to5Mac",
@@ -359,26 +379,6 @@ window.phoneRadarAuto = {
         "iPhone",
         "爆料",
         "自动抓取"
-      ]
-    },
-    {
-      "id": "coolapk-user-2f6f14292f7b",
-      "title": "竹本青：【荣耀Robot Phone官宣搭载钛合金灵巧云台，电机最大转速360°/秒】 ● 钛合金云台架构：体积较行业主流…",
-      "source": "竹本青",
-      "brand": "HONOR",
-      "model": "HONOR 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-08-07",
-      "time": "12:20",
-      "publishedAt": "2026-08-07T12:20:40.000Z",
-      "url": "https://www.coolapk.com/feed/73127668",
-      "image": "http://image.coolapk.com/feed/2026/0807/20/4248714_20ef7b92_5231_5925_0@2160x3840.jpg",
-      "summary": "【荣耀Robot Phone官宣搭载钛合金灵巧云台，电机最大转速360°/秒】 ● 钛合金云台架构：体积较行业主流缩减65% ● 钛合金云台电机：最大转速360°/秒 ● 盾构钢翻转电机： 荣耀自研2100MPa盾构钢 0.5cm³空间堆叠43个零件 5级变速 最大扭矩密度120N·m/L #今日热点# #荣耀ROBOTPHONE# #MagicOS10#",
-      "tags": [
-        "HONOR",
-        "爆料",
-        "酷安博主"
       ]
     },
     {
@@ -733,7 +733,7 @@ window.phoneRadarAuto = {
       "time": "04:35",
       "publishedAt": "2026-08-07T04:35:21.000Z",
       "url": "https://www.gizmochina.com/2026/08/07/galaxy-s26-fe-leaked-firmware-reveals-horizontal-lock-camera-feature/",
-      "image": "https://www.gizmochina.com/wp-content/uploads/2026/08/galaxy-s26-ultra-horizontal-lock-300x169.jpg?x23692",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/08/1-17809101211741708304156-0-0-628-1200-crop-17809101341951413931775-300x158.webp?x23692",
       "summary": "The Galaxy S26 FE looks set to pick up one of the more useful camera upgrades introduced this year. A practical software feature that keeps video footage level is showing clear si…",
       "tags": [
         "Samsung",
@@ -862,46 +862,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-6ffc5b47f4d9",
-      "title": "这几天出来旅游，我女朋友此时就躺我怀里，她睡着后我刚看她手机，居然和一个男的聊暧昧一段时间了，聊天记录你们可以想象一下，什么说自己没男朋友啊，好想你啊，还发自拍过去，我还浑然不知，最可笑的是用着我买给的手机聊暧昧，大家说说该如何解决#小米17# #一加15# #酷安夜话#",
-      "source": "酷安热榜",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-08-07",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73117007",
-      "image": "",
-      "summary": "这几天出来旅游，我女朋友此时就躺我怀里，她睡着后我刚看她手机，居然和一个男的聊暧昧一段时间了，聊天记录你们可以想象一下，什么说自己没男朋友啊，好想你啊，还发自拍过去，我还浑然不知，最可笑的是用着我买给的手机聊暧昧，大家说说该如何解决#小米17# #一加15# #酷安夜话#",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-51420d154b49",
-      "title": "iQOO Neo11 至尊版预热：国产2K屏，超9000mAh电池",
-      "source": "酷安热榜",
-      "brand": "vivo",
-      "model": "vivo 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-08-07",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73119211",
-      "image": "",
-      "summary": "iQOO Neo11 至尊版预热：国产2K屏，超9000mAh电池",
-      "tags": [
-        "vivo",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
       "id": "newsnow-8e80aad1b98c",
       "title": "iQOO Neo11 至尊版外观泄露：横向双摄模组",
       "source": "酷安热榜",
@@ -922,41 +882,21 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-89f5a013af12",
-      "title": "消息称 iPhone 18 系列备货遇阻，处理器充足但内存短缺",
+      "id": "newsnow-844880abbdd6",
+      "title": "2020 年，回头看仍是机圈极具魔幻现实主义色彩的一年。厂商大喊 “5G 元年”，对换机用户而言却是 “涨价元年”—— 旗舰机型仿佛统一了口径，集体上调八百至一千的价格，携手迈入3999的时代。",
       "source": "酷安热榜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
+      "brand": "行业",
+      "model": "智能手机市场",
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-08-07",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73111553",
+      "url": "https://www.coolapk.com/feed/70266966",
       "image": "",
-      "summary": "消息称 iPhone 18 系列备货遇阻，处理器充足但内存短缺",
+      "summary": "2020 年，回头看仍是机圈极具魔幻现实主义色彩的一年。厂商大喊 “5G 元年”，对换机用户而言却是 “涨价元年”—— 旗舰机型仿佛统一了口径，集体上调八百至一千的价格，携手迈入3999的时代。",
       "tags": [
-        "iPhone",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-8ed9f2921a54",
-      "title": "澎湃 OS4 曝光小米阔折叠手机：大 R 角设计",
-      "source": "酷安热榜",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-08-07",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73124844",
-      "image": "",
-      "summary": "澎湃 OS4 曝光小米阔折叠手机：大 R 角设计",
-      "tags": [
-        "Xiaomi",
+        "行业",
         "爆料",
         "NewsNow"
       ]
@@ -1202,26 +1142,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-cb1e41d21b03",
-      "title": "iPhone 18 Pro Launching Next Month With These 12 New Features",
-      "source": "MacRumors",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-06",
-      "time": "14:03",
-      "publishedAt": "2026-08-06T14:03:48.000Z",
-      "url": "https://www.macrumors.com/2026/08/06/iphone-18-pro-next-month-12-features/",
-      "image": "https://images.macrumors.com/article-new/2026/04/Four-iPhone-18-Pro-Colors-Mock-Feature.jpg",
-      "summary": "It is now August, and that means the iPhone 18 Pro and iPhone 18 Pro Max are just a month away. The devices are expected to look similar to the iPhone 17 Pro and iPhone 17 Pro Max…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-b887cd23860b",
       "title": "iPhone 18 Pro could have limited availability right after launch: report",
       "source": "9to5Mac",
@@ -1297,26 +1217,6 @@ window.phoneRadarAuto = {
       "summary": "A tipster says the Z Fold 8 Ultra's crease has gotten worse over time. But has it?",
       "tags": [
         "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-c6c3dcfb15b4",
-      "title": "Redmi K200 tipped as the successor to K100 after product manager’s hint",
-      "source": "Gizmochina",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-06",
-      "time": "10:37",
-      "publishedAt": "2026-08-06T10:37:02.000Z",
-      "url": "https://www.gizmochina.com/2026/08/06/redmi-k200-successor-k100-series-naming-hint/",
-      "image": "https://www.gizmochina.com/wp-content/uploads/2026/08/REdmi-K100-Pro-green--300x300.jpg?x23692",
-      "summary": "Redmi is preparing to launch the K100 series flagship smartphones in China, but discussions around the brand’s future naming strategy have already started. A Redmi product manager…",
-      "tags": [
-        "Xiaomi",
         "爆料",
         "自动抓取"
       ]

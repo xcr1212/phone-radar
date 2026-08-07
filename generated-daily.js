@@ -1,12 +1,12 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-08-07T19:14:09.395Z",
+  "updatedAt": "2026-08-07T20:57:42.148Z",
   "issueDate": "2026-08-07",
   "issue": "VOL.260807",
   "title": "手机情报日报",
-  "intro": "今日筛出 8 条重点，其中 8 条是重点爆料，包含 6 条 iPhone 相关、0 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 8 条重点，其中 8 条是重点爆料，包含 5 条 iPhone 相关、0 条官方确认、0 条参数线索。",
   "stats": {
     "total": 8,
-    "iphone": 6,
+    "iphone": 5,
     "leaks": 8,
     "official": 0,
     "specs": 0
@@ -17,30 +17,6 @@ window.phoneRadarDaily = {
       "title": "重点爆料",
       "hint": "机模、配色、影像、屏幕、电池和芯片线索先看。",
       "items": [
-        {
-          "id": "newsnow-89f5a013af12",
-          "title": "消息称 iPhone 18 系列备货遇阻，处理器充足但内存短缺",
-          "originalTitle": "",
-          "source": "酷安热榜",
-          "brand": "iPhone",
-          "type": "爆料",
-          "trust": "高关注爆料源",
-          "date": "2026-08-07",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://www.coolapk.com/feed/73111553",
-          "image": "",
-          "verdict": "先看",
-          "takeaway": "消息称 iPhone 18 系列备货遇阻，处理器充足但内存短缺",
-          "detail": "消息称 iPhone 18 系列备货遇阻，处理器充足但内存短缺",
-          "keyPoints": [
-            "芯片 / 性能",
-            "爆料来源"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
         {
           "id": "coolapk-user-08d9fe09d7dc",
           "title": "JSCHEN小小狐：大疆 Osmo 360 II 官宣：8 月 7 日开启预约",
@@ -63,6 +39,30 @@ window.phoneRadarDaily = {
             "爆料来源"
           ],
           "confidence": "可信度较高，但仍属于发布前线索。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "auto-6cfc942d1dbf",
+          "title": "iPhone 17 价格 / 成本相关消息",
+          "originalTitle": "",
+          "source": "9to5Mac",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-08-07",
+          "time": "20:27",
+          "publishedAt": "2026-08-07T20:27:50.000Z",
+          "url": "https://9to5mac.com/2026/08/07/iphone-17-might-get-price-increase-next-week-per-new-rumor/",
+          "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/09/iphone-17-lineup-air.jpg?quality=82&strip=all&w=1600",
+          "verdict": "先看",
+          "takeaway": "iPhone 17 价格 / 成本相关消息。如果涉及订阅、售价或硬件成本，才需要进一步看细节。",
+          "detail": "iPhone 17 价格 / 成本相关消息。重点看折痕、铰链、厚度、屏幕可靠性和重量是否有实质改善。",
+          "keyPoints": [
+            "成本 / 价格",
+            "爆料来源"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
@@ -136,29 +136,6 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
-          "id": "auto-cb1e41d21b03",
-          "title": "iPhone 18 Pro 发布 / 上市相关消息",
-          "originalTitle": "",
-          "source": "MacRumors",
-          "brand": "iPhone",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-08-06",
-          "time": "14:03",
-          "publishedAt": "2026-08-06T14:03:48.000Z",
-          "url": "https://www.macrumors.com/2026/08/06/iphone-18-pro-next-month-12-features/",
-          "image": "https://images.macrumors.com/article-new/2026/04/Four-iPhone-18-Pro-Colors-Mock-Feature.jpg",
-          "verdict": "先看",
-          "takeaway": "iPhone 有发布或新功能消息，适合确认是否和新机有关。",
-          "detail": "iPhone 18 Pro 发布 / 上市相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
           "id": "auto-a6bfb69d48c3",
           "title": "产品定义顶级：消息称华为阔直板新机已 Ready，方案属是行业首发",
           "originalTitle": "",
@@ -204,6 +181,29 @@ window.phoneRadarDaily = {
             "爆料来源"
           ],
           "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "auto-224f4696cd32",
+          "title": "荣耀 MagicOS 10 系统 8 月版本第二批机型开推，覆盖 Magic7、WIN 等系列",
+          "originalTitle": "",
+          "source": "IT之家",
+          "brand": "HONOR",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-08-07",
+          "time": "14:33",
+          "publishedAt": "2026-08-07T14:33:41.000Z",
+          "url": "https://www.ithome.com/0/987/208.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/8/8c0ccf65-9df8-4c72-bea0-5a99aeaf3ac1.png?x-bce-process=image/format,f_auto",
+          "verdict": "先看",
+          "takeaway": "IT之家 8 月 7 日消息，荣耀 MagicOS 官方微博今日宣布， MagicOS 10 系统 8 月版本推送第二批机型 ： 荣耀 Magic7 系列、荣耀 Magic V5、 荣耀 500 系列、 荣耀 WIN 、 荣耀 WIN RT 、荣耀 GT Pro IT之家整理 MagicOS 10 系统的 8 月版本更新内容如下（升级路径：设置 > 系统和…",
+          "detail": "IT之家 8 月 7 日消息，荣耀 MagicOS 官方微博今日宣布， MagicOS 10 系统 8 月版本推送第二批机型 ： 荣耀 Magic7 系列、荣耀 Magic V5、 荣耀 500 系列、 荣耀 WIN 、 荣耀 WIN RT 、荣耀 GT Pro IT之家整理 MagicOS 10 系统的 8 月版本更新内容如下（升级路径：设置 > 系统和…",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         }
