@@ -1,12 +1,12 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-08-07T03:15:36.247Z",
+  "updatedAt": "2026-08-07T05:49:31.204Z",
   "issueDate": "2026-08-07",
   "issue": "VOL.260807",
   "title": "手机情报日报",
-  "intro": "今日筛出 14 条重点，其中 8 条是重点爆料，包含 11 条 iPhone 相关、1 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 13 条重点，其中 8 条是重点爆料，包含 10 条 iPhone 相关、1 条官方确认、0 条参数线索。",
   "stats": {
-    "total": 14,
-    "iphone": 11,
+    "total": 13,
+    "iphone": 10,
     "leaks": 8,
     "official": 1,
     "specs": 0
@@ -91,6 +91,29 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
+          "id": "auto-265b9d361385",
+          "title": "小米 REDMI K100 Pro Max 搭载 2.1 立体声系统，Sound by Bose 技术联合调音",
+          "originalTitle": "",
+          "source": "IT之家",
+          "brand": "Xiaomi",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-08-07",
+          "time": "03:51",
+          "publishedAt": "2026-08-07T03:51:43.000Z",
+          "url": "https://www.ithome.com/0/986/925.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/8/35649a36-efd8-4ccf-baf2-eea87cee40a2.jpg",
+          "verdict": "先看",
+          "takeaway": "IT之家 8 月 7 日消息，小米今日官宣 REDMI K100 Pro Max 搭载 2.1 立体声系统，全新升级两颗 1115D 全频发声单元、一颗超大独立低音单元，Sound by Bose 技术联合调音。 小米 REDMI K100 Pro Max 将于 8 月 11 日 19:00 发布，提供“赤霞珠红”“流金白”配色。今日早些时候，官方公布这款…",
+          "detail": "IT之家 8 月 7 日消息，小米今日官宣 REDMI K100 Pro Max 搭载 2.1 立体声系统，全新升级两颗 1115D 全频发声单元、一颗超大独立低音单元，Sound by Bose 技术联合调音。 小米 REDMI K100 Pro Max 将于 8 月 11 日 19:00 发布，提供“赤霞珠红”“流金白”配色。今日早些时候，官方公布这款…",
+          "keyPoints": [
+            "外观 / 配色 / 尺寸"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
           "id": "auto-bb03adadd541",
           "title": "iPhone 18 Pro 折叠屏相关消息",
           "originalTitle": "",
@@ -114,7 +137,7 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
-          "id": "newsnow-3482dae4d033",
+          "id": "newsnow-0ff7ab96ce87",
           "title": "iPhone18Pro十二大升级",
           "originalTitle": "",
           "source": "微博热搜",
@@ -124,7 +147,7 @@ window.phoneRadarDaily = {
           "date": "2026-08-07",
           "time": "",
           "publishedAt": "",
-          "url": "https://s.weibo.com/weibo?q=%23iPhone18Pro%E5%8D%81%E4%BA%8C%E5%A4%A7%E5%8D%87%E7%BA%A7%23&t=31&band_rank=1&Refer=top",
+          "url": "https://s.weibo.com/weibo?q=%23iPhone18Pro%E5%8D%81%E4%BA%8C%E5%A4%A7%E5%8D%87%E7%BA%A7%23&t=31&band_rank=23&Refer=top",
           "image": "",
           "verdict": "先看",
           "takeaway": "iPhone18Pro十二大升级",
@@ -175,29 +198,6 @@ window.phoneRadarDaily = {
           "verdict": "先看",
           "takeaway": "iPhone 有发布或新功能消息，适合确认是否和新机有关。",
           "detail": "iPhone 18 Pro 发布 / 上市相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "auto-337d97bc8c45",
-          "title": "iPhone 18 Pro 芯片 / 性能相关消息",
-          "originalTitle": "",
-          "source": "MacRumors",
-          "brand": "iPhone",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-08-06",
-          "time": "13:23",
-          "publishedAt": "2026-08-06T13:23:02.000Z",
-          "url": "https://www.macrumors.com/2026/08/06/apple-scrambling-to-secure-memory/",
-          "image": "https://images.macrumors.com/article-new/2026/02/iPhone-18-Pro-Deep-Red-Feature.jpg",
-          "verdict": "先看",
-          "takeaway": "iPhone 有发布或新功能消息，适合确认是否和新机有关。",
-          "detail": "iPhone 18 Pro 芯片 / 性能相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
           "keyPoints": [
             "爆料"
           ],
@@ -321,31 +321,8 @@ window.phoneRadarDaily = {
       "hint": "看方向，不急着当购买依据。",
       "items": [
         {
-          "id": "newsnow-830761754e50",
-          "title": "预算3000块给妹妹买个手机",
-          "originalTitle": "",
-          "source": "酷安热榜",
-          "brand": "行业",
-          "type": "爆料",
-          "trust": "高关注爆料源",
-          "date": "2026-08-07",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://www.coolapk.com/feed/73097302",
-          "image": "",
-          "verdict": "扫一眼",
-          "takeaway": "预算3000块给妹妹买个手机",
-          "detail": "预算3000块给妹妹买个手机",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
-        {
           "id": "coolapk-user-818fc58bb3a1",
-          "title": "竹本青：【REDMI K100 Pro Max 官宣搭载2.1立体声系统：两颗1115D+1620单元】 ● 两颗 111…",
+          "title": "竹本青：REDMI K100 Pro Max 官宣搭载2.1立体声系统",
           "originalTitle": "",
           "source": "竹本青",
           "brand": "Xiaomi",

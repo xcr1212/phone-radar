@@ -1,9 +1,129 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-08-07T03:15:36.247Z",
+  "updatedAt": "2026-08-07T05:49:31.204Z",
   "news": [
     {
+      "id": "auto-a6838dc593df",
+      "title": "Did Samsung just unveil Galaxy S27 Ultra’s new 200MP camera sensor?",
+      "source": "SamMobile",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-07",
+      "time": "04:40",
+      "publishedAt": "2026-08-07T04:40:45.000Z",
+      "url": "https://www.sammobile.com/news/isocell-hp6-galaxy-s27-ultra-200mp-camera-sensor-unveil/",
+      "image": "https://www.sammobile.com/wp-content/uploads/2026/08/Samsung-ISOCELL-HPC-In-Sensor-Zoom.jpg",
+      "summary": "Samsung has unveiled a new 200MP camera sensor called the ISOCELL HPC. It introduces several new technologies designed to reduce noise, expand dynamic range, and deliver superior…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-be9ccce1d17e",
+      "title": "Galaxy S26 FE leaked firmware reveals Horizontal Lock camera feature",
+      "source": "Gizmochina",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-07",
+      "time": "04:35",
+      "publishedAt": "2026-08-07T04:35:21.000Z",
+      "url": "https://www.gizmochina.com/2026/08/07/galaxy-s26-fe-leaked-firmware-reveals-horizontal-lock-camera-feature/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/08/galaxy-s26-ultra-horizontal-lock-300x169.jpg?x23692",
+      "summary": "The Galaxy S26 FE looks set to pick up one of the more useful camera upgrades introduced this year. A practical software feature that keeps video footage level is showing clear si…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "weibo-9a244e266874",
+      "title": "数码闲聊站：ISOCELL HPC至高支持4X HDR变焦，其实也很适合做长焦，如果超大杯…",
+      "source": "数码闲聊站",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-08-07",
+      "time": "04:13",
+      "publishedAt": "2026-08-07T04:13:00.000Z",
+      "url": "https://weibo.com/6048569942/RcgXtyEsb",
+      "image": "",
+      "summary": "ISOCELL HPC至高支持4X HDR变焦，其实也很适合做长焦，如果超大杯升级200Mp 1/1.3\" HPC+50Mp 1/1.95\" 10X，你们觉得怎么样[偷乐]",
+      "tags": [
+        "行业",
+        "爆料",
+        "微博"
+      ]
+    },
+    {
+      "id": "auto-c2cb6a5fa7c4",
+      "title": "Redmi K100 Pro Max camera samples are here, highlighting 200MP main, 5x periscope camera capabilities",
+      "source": "Gizmochina",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-07",
+      "time": "04:11",
+      "publishedAt": "2026-08-07T04:11:50.000Z",
+      "url": "https://www.gizmochina.com/2026/08/07/redmi-k100-pro-camera-specs-samples-confirmed/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/08/Redmi-K100-Pro-Max-cameras--300x203.jpg?x23692",
+      "summary": "Redmi has shared a closer look at the K100 Pro Max ahead of its launch, revealing official camera samples along with additional details about its imaging hardware. The company is…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-fb6fc83c627e",
+      "title": "iQOO Neo 11 Ultra officially confirmed to be revealed on August 10",
+      "source": "Gizmochina",
+      "brand": "vivo",
+      "model": "vivo 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-07",
+      "time": "03:55",
+      "publishedAt": "2026-08-07T03:55:50.000Z",
+      "url": "https://www.gizmochina.com/2026/08/07/iqoo-neo-11-ultra-teaser-released/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/08/iQOO-Neo-11-Ultra-teaser-216x300.png?x23692",
+      "summary": "Several reports have claimed that iQOO will unveil a new Neo-series phone in China. Rumors claimed that it could be a minor upgrade over the existing Neo 11, which is why it was t…",
+      "tags": [
+        "vivo",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-265b9d361385",
+      "title": "小米 REDMI K100 Pro Max 搭载 2.1 立体声系统，Sound by Bose 技术联合调音",
+      "source": "IT之家",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-07",
+      "time": "03:51",
+      "publishedAt": "2026-08-07T03:51:43.000Z",
+      "url": "https://www.ithome.com/0/986/925.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/8/35649a36-efd8-4ccf-baf2-eea87cee40a2.jpg",
+      "summary": "IT之家 8 月 7 日消息，小米今日官宣 REDMI K100 Pro Max 搭载 2.1 立体声系统，全新升级两颗 1115D 全频发声单元、一颗超大独立低音单元，Sound by Bose 技术联合调音。 小米 REDMI K100 Pro Max 将于 8 月 11 日 19:00 发布，提供“赤霞珠红”“流金白”配色。今日早些时候，官方公布这款…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
       "id": "coolapk-user-818fc58bb3a1",
-      "title": "竹本青：【REDMI K100 Pro Max 官宣搭载2.1立体声系统：两颗1115D+1620单元】 ● 两颗 111…",
+      "title": "竹本青：REDMI K100 Pro Max 官宣搭载2.1立体声系统",
       "source": "竹本青",
       "brand": "Xiaomi",
       "model": "Xiaomi 相关机型",
@@ -73,7 +193,7 @@ window.phoneRadarAuto = {
       "time": "02:15",
       "publishedAt": "2026-08-07T02:15:18.000Z",
       "url": "https://www.coolapk.com/feed/73119211",
-      "image": "http://image.coolapk.com/feed/2026/0807/10/4248714_31ff2807_9154_7003_324@1272x1021.jpg",
+      "image": "http://image.coolapk.com/feed/2026/0807/11/4248714_c90dbd78_4000_6453_197@1272x1908.jpg",
       "summary": "【iQOO Neo11 至尊版官方预热：国产2K屏，超9000mAh电池】 官方爆料： ● 国产2K 全新材料 OLED屏 ● 超9000mAh电池 ● 设计/工艺/配色打磨 ● 网络更稳定 ———————————————— 博主爆料： ▫️国产新工艺2K大直屏 ▫️天玑9500深度定制 ▫️9开头电池+100W快充 ▫️3D超声波指纹 ▫️IP68/69…",
       "tags": [
         "vivo",
@@ -99,66 +219,6 @@ window.phoneRadarAuto = {
         "HONOR",
         "爆料",
         "酷安博主"
-      ]
-    },
-    {
-      "id": "auto-f7bdf2451b38",
-      "title": "小米公布 REDMI K100 Pro Max 影像规格：2 亿主摄、5X 潜望长焦",
-      "source": "IT之家",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-07",
-      "time": "01:05",
-      "publishedAt": "2026-08-07T01:05:37.000Z",
-      "url": "https://www.ithome.com/0/986/805.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/8/e84a6a9a-244b-48d8-9809-8198d61242b9.png?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 8 月 7 日消息，小米 REDMI K100 Pro Max 将于 8 月 11 日 19:00 发布，官方今日公布这款新机的影像规格： 2 亿像素主摄：原图尺寸高达 16384 × 12288 5X 潜望长焦：最高支持 100X 超级变焦 50MP 超广角：17mm 等效焦距 小米 REDMI K100 Pro Max 的“赤霞珠红”“流金白…",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-6e291264d166",
-      "title": "三星 Galaxy S26 FE 手机渲染图曝光：紫黑绿三色亮相",
-      "source": "IT之家",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-07",
-      "time": "01:01",
-      "publishedAt": "2026-08-07T01:01:34.000Z",
-      "url": "https://www.ithome.com/0/986/803.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/8/1437d715-7ac0-4a47-b280-bf15869de3c5.png?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 8 月 7 日消息，科技媒体 Android Headline 昨日（8 月 6 日）发布博文， 分享了一组渲染图，展示了 三星 Galaxy S26 FE 手机，共有紫色、黑色和绿色三种颜色。 IT之家此前报道，该机内部代号为“r14”，延续了 Galaxy S24 FE（r12）和 Galaxy S25 FE（r13）的命名逻辑。 相机方面，…",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-af5b18530522",
-      "title": "消息称某厂工程机采用左上角方形 Deco、非对称四筒排列，预计为小米 18",
-      "source": "IT之家",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-07",
-      "time": "00:40",
-      "publishedAt": "2026-08-07T00:40:12.000Z",
-      "url": "https://www.ithome.com/0/986/796.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/8/efc9407c-39e3-4c46-a236-e2c7fdb99792.png",
-      "summary": "IT之家 8 月 7 日消息，博主 @数码闲聊站 昨日爆料，某厂母系中杯还是左上角方形 Deco，工程机非对称四筒排列，正面是 Lipo 极窄四等边。集合该博主此前的爆料习惯，该机预计为小米 18 标准版。 作为对比，去年发布的 小米 17 标准版手机便采用了左上角方形 Deco 设计，不过镜头为对称排列。小米 17 标准版为经典直屏设计，采用 19.6:…",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "自动抓取"
       ]
     },
     {
@@ -242,27 +302,7 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-830761754e50",
-      "title": "预算3000块给妹妹买个手机",
-      "source": "酷安热榜",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-08-07",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73097302",
-      "image": "",
-      "summary": "预算3000块给妹妹买个手机",
-      "tags": [
-        "行业",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-3482dae4d033",
+      "id": "newsnow-0ff7ab96ce87",
       "title": "iPhone18Pro十二大升级",
       "source": "微博热搜",
       "brand": "iPhone",
@@ -272,7 +312,7 @@ window.phoneRadarAuto = {
       "date": "2026-08-07",
       "time": "",
       "publishedAt": "",
-      "url": "https://s.weibo.com/weibo?q=%23iPhone18Pro%E5%8D%81%E4%BA%8C%E5%A4%A7%E5%8D%87%E7%BA%A7%23&t=31&band_rank=1&Refer=top",
+      "url": "https://s.weibo.com/weibo?q=%23iPhone18Pro%E5%8D%81%E4%BA%8C%E5%A4%A7%E5%8D%87%E7%BA%A7%23&t=31&band_rank=23&Refer=top",
       "image": "",
       "summary": "iPhone18Pro十二大升级",
       "tags": [
@@ -317,26 +357,6 @@ window.phoneRadarAuto = {
       "summary": "The iPhone 18 Pro lineup is expected to be announced in a month, with new features including an upgraded camera system, the A20 Pro chip, and more. How much will the iPhone 18 Pro…",
       "tags": [
         "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-3e67395c9632",
-      "title": "三星发布 ISOCELL HPC 旗舰 2 亿像素传感器，首发 16-bit RAW 原生输出",
-      "source": "IT之家",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-06",
-      "time": "23:31",
-      "publishedAt": "2026-08-06T23:31:39.000Z",
-      "url": "https://www.ithome.com/0/986/781.htm",
-      "image": "https://qimg.ithome.com/newfiles/2026/8/f1764eb2-fa2f-45c6-a667-691b40b0a90b.png?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 8 月 7 日消息，三星半导体昨日（8 月 6 日）发布公告，发布旗舰移动图像传感器 ISOCELL HPC，配有 2 亿像素，传感器尺寸为 1/1.3 英寸， 并支持原生 16-bit RAW 输出。 这款旗舰传感器最大的亮点，在于支持原生 16-bit RAW，官方声称是业内首款能够以这一位深输出原始图像数据的智能手机 CMOS 传感器。 在…",
-      "tags": [
-        "Samsung",
         "爆料",
         "自动抓取"
       ]
