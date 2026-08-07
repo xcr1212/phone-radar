@@ -1,6 +1,166 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-08-07T00:14:17.234Z",
+  "updatedAt": "2026-08-07T03:15:36.247Z",
   "news": [
+    {
+      "id": "coolapk-user-818fc58bb3a1",
+      "title": "竹本青：【REDMI K100 Pro Max 官宣搭载2.1立体声系统：两颗1115D+1620单元】 ● 两颗 111…",
+      "source": "竹本青",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-08-07",
+      "time": "03:01",
+      "publishedAt": "2026-08-07T03:01:37.000Z",
+      "url": "https://www.coolapk.com/feed/73119796",
+      "image": "http://image.coolapk.com/feed/2026/0807/11/4248714_bba9b479_1877_2982_705@2000x2667.jpg",
+      "summary": "【REDMI K100 Pro Max 官宣搭载2.1立体声系统：两颗1115D+1620单元】 ● 两颗 1115D全频发声单元 ● 一颗 1620独立低音单元 ● Sound by Bose联合调音 #今日热点# #REDMIK100ProMax# #HyperOS3#",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "coolapk-user-1c74cdadb014",
+      "title": "竹本青：三星 ISOCELL HPC 2亿旗舰传感器发布：或由OPPO Find X10系列首发搭载",
+      "source": "竹本青",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-08-07",
+      "time": "02:29",
+      "publishedAt": "2026-08-07T02:29:43.000Z",
+      "url": "https://www.coolapk.com/feed/73119397",
+      "image": "http://image.coolapk.com/feed/2026/0807/10/4248714_bade92b1_0927_6347_87@1438x1918.jpg",
+      "summary": "【三星 ISOCELL HPC 2亿旗舰传感器发布，博主称OPPO Find X10系列将首发搭载】 ● 200Mp 1/1.3\"｜0.6um ● 4K 180fps视频 ● 最高8K 30fps视频 ● 全新DeepPix技术 ● 单帧16-bit HDR ● 1X/1.5X/2X/3X/4X单帧HDR变焦 ● 全焦段HDR #今日热点# #ColorO…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "weibo-d531148afc03",
+      "title": "数码闲聊站：ISOCELL HPC正式亮相，Find X10系列首发？ 200Mp 1/1…",
+      "source": "数码闲聊站",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-08-07",
+      "time": "02:22",
+      "publishedAt": "2026-08-07T02:22:00.000Z",
+      "url": "https://weibo.com/6048569942/RcgeqeiAS",
+      "image": "https://tvax2.sinaimg.cn/mw2000/006BlblIgy1ifu5agrwk9j30xv0h2dlj.jpg",
+      "summary": "ISOCELL HPC正式亮相，Find X10系列首发？ 200Mp 1/1.3\"超大底，全新DeepPix技术，单像素FWC比上一代提升了60%；支持1X/1.5X/2X/3X/4X单帧HDR变焦，支持4K 180FPS视频，更高动态范围，全焦段HDR，妥妥的旗舰Sensor 2月全网独家爆料验证，等9月的Find X10实测吧[doge]",
+      "tags": [
+        "行业",
+        "爆料",
+        "微博"
+      ]
+    },
+    {
+      "id": "coolapk-user-f2cdec5efce6",
+      "title": "竹本青：iQOO Neo11 至尊版预热：国产2K屏，超9000mAh电池",
+      "source": "竹本青",
+      "brand": "vivo",
+      "model": "vivo 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-08-07",
+      "time": "02:15",
+      "publishedAt": "2026-08-07T02:15:18.000Z",
+      "url": "https://www.coolapk.com/feed/73119211",
+      "image": "http://image.coolapk.com/feed/2026/0807/10/4248714_31ff2807_9154_7003_324@1272x1021.jpg",
+      "summary": "【iQOO Neo11 至尊版官方预热：国产2K屏，超9000mAh电池】 官方爆料： ● 国产2K 全新材料 OLED屏 ● 超9000mAh电池 ● 设计/工艺/配色打磨 ● 网络更稳定 ———————————————— 博主爆料： ▫️国产新工艺2K大直屏 ▫️天玑9500深度定制 ▫️9开头电池+100W快充 ▫️3D超声波指纹 ▫️IP68/69…",
+      "tags": [
+        "vivo",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "coolapk-user-4bda35dab5b2",
+      "title": "竹本青：荣耀官宣Robot Phone颈部见证官：瞿颖 #今日热点# #荣耀ROBOTPHONE#",
+      "source": "竹本青",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-08-07",
+      "time": "01:54",
+      "publishedAt": "2026-08-07T01:54:08.000Z",
+      "url": "https://www.coolapk.com/feed/73118940",
+      "image": "http://image.coolapk.com/feed/2026/0807/09/4248714_439a241a_7647_5885_49@1080x1920.jpg",
+      "summary": "荣耀官宣Robot Phone颈部见证官：瞿颖 #今日热点# #荣耀ROBOTPHONE#",
+      "tags": [
+        "HONOR",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-f7bdf2451b38",
+      "title": "小米公布 REDMI K100 Pro Max 影像规格：2 亿主摄、5X 潜望长焦",
+      "source": "IT之家",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-07",
+      "time": "01:05",
+      "publishedAt": "2026-08-07T01:05:37.000Z",
+      "url": "https://www.ithome.com/0/986/805.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/8/e84a6a9a-244b-48d8-9809-8198d61242b9.png?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 8 月 7 日消息，小米 REDMI K100 Pro Max 将于 8 月 11 日 19:00 发布，官方今日公布这款新机的影像规格： 2 亿像素主摄：原图尺寸高达 16384 × 12288 5X 潜望长焦：最高支持 100X 超级变焦 50MP 超广角：17mm 等效焦距 小米 REDMI K100 Pro Max 的“赤霞珠红”“流金白…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-6e291264d166",
+      "title": "三星 Galaxy S26 FE 手机渲染图曝光：紫黑绿三色亮相",
+      "source": "IT之家",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-07",
+      "time": "01:01",
+      "publishedAt": "2026-08-07T01:01:34.000Z",
+      "url": "https://www.ithome.com/0/986/803.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/8/1437d715-7ac0-4a47-b280-bf15869de3c5.png?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 8 月 7 日消息，科技媒体 Android Headline 昨日（8 月 6 日）发布博文， 分享了一组渲染图，展示了 三星 Galaxy S26 FE 手机，共有紫色、黑色和绿色三种颜色。 IT之家此前报道，该机内部代号为“r14”，延续了 Galaxy S24 FE（r12）和 Galaxy S25 FE（r13）的命名逻辑。 相机方面，…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-af5b18530522",
+      "title": "消息称某厂工程机采用左上角方形 Deco、非对称四筒排列，预计为小米 18",
+      "source": "IT之家",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-07",
+      "time": "00:40",
+      "publishedAt": "2026-08-07T00:40:12.000Z",
+      "url": "https://www.ithome.com/0/986/796.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/8/efc9407c-39e3-4c46-a236-e2c7fdb99792.png",
+      "summary": "IT之家 8 月 7 日消息，博主 @数码闲聊站 昨日爆料，某厂母系中杯还是左上角方形 Deco，工程机非对称四筒排列，正面是 Lipo 极窄四等边。集合该博主此前的爆料习惯，该机预计为小米 18 标准版。 作为对比，去年发布的 小米 17 标准版手机便采用了左上角方形 Deco 设计，不过镜头为对称排列。小米 17 标准版为经典直屏设计，采用 19.6:…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-bb03adadd541",
       "title": "iPhone 18 Pro and Foldable iPhone Could Sell Out Fast Due to Memory Shortage",
@@ -82,8 +242,28 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-fe1d20cab371",
-      "title": "曝iPhone18Pro量产遇挑战",
+      "id": "newsnow-830761754e50",
+      "title": "预算3000块给妹妹买个手机",
+      "source": "酷安热榜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-08-07",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/73097302",
+      "image": "",
+      "summary": "预算3000块给妹妹买个手机",
+      "tags": [
+        "行业",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-3482dae4d033",
+      "title": "iPhone18Pro十二大升级",
       "source": "微博热搜",
       "brand": "iPhone",
       "model": "iPhone 相关机型",
@@ -92,9 +272,9 @@ window.phoneRadarAuto = {
       "date": "2026-08-07",
       "time": "",
       "publishedAt": "",
-      "url": "https://s.weibo.com/weibo?q=%23%E6%9B%9DiPhone18Pro%E9%87%8F%E4%BA%A7%E9%81%87%E6%8C%91%E6%88%98%23&t=31&band_rank=9&Refer=top",
+      "url": "https://s.weibo.com/weibo?q=%23iPhone18Pro%E5%8D%81%E4%BA%8C%E5%A4%A7%E5%8D%87%E7%BA%A7%23&t=31&band_rank=1&Refer=top",
       "image": "",
-      "summary": "曝iPhone18Pro量产遇挑战",
+      "summary": "iPhone18Pro十二大升级",
       "tags": [
         "iPhone",
         "爆料",
@@ -102,22 +282,22 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-0e9d1908ab7f",
-      "title": "巡查组提问 工作人员偷用手机查答案",
-      "source": "百度热搜",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
+      "id": "newsnow-f2d83637e6a8",
+      "title": "多家手机品牌回应将大规模涨价，OPPO 、荣耀、小米等部分机型已上调价格，如何看待此次手机涨价潮？",
+      "source": "知乎热榜",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "市场报告",
       "trust": "媒体汇总",
       "date": "2026-08-07",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.baidu.com/s?wd=%E5%B7%A1%E6%9F%A5%E7%BB%84%E6%8F%90%E9%97%AE+%E5%B7%A5%E4%BD%9C%E4%BA%BA%E5%91%98%E5%81%B7%E7%94%A8%E6%89%8B%E6%9C%BA%E6%9F%A5%E7%AD%94%E6%A1%88",
+      "url": "https://www.zhihu.com/question/2068727171682718365",
       "image": "",
-      "summary": "巡查组提问 工作人员偷用手机查答案",
+      "summary": "多家手机品牌回应将大规模涨价，OPPO 、荣耀、小米等部分机型已上调价格，如何看待此次手机涨价潮？",
       "tags": [
-        "行业",
-        "爆料",
+        "HONOR",
+        "市场报告",
         "NewsNow"
       ]
     },
@@ -302,26 +482,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "coolapk-user-ceae46520252",
-      "title": "竹本青：【芒米AIR Y系列 竖版安卓掌机 配置及价格公布：骁龙662/骁龙865，早鸟价599元起】 AIR Y 3GB…",
-      "source": "竹本青",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-08-06",
-      "time": "14:31",
-      "publishedAt": "2026-08-06T14:31:06.000Z",
-      "url": "https://www.coolapk.com/feed/73114314",
-      "image": "http://image.coolapk.com/feed/2026/0806/22/4248714_0221a6ae_6665_3646_847@1080x1440.jpg",
-      "summary": "【芒米AIR Y系列 竖版安卓掌机 配置及价格公布：骁龙662/骁龙865，早鸟价599元起】 AIR Y 3GB+32GB —— 599元 AIR Y Pro 4GB+64GB —— 999元 8GB+128GB —— 1199元 ● AIR Y： 骁龙662｜LPDDR4X+eMMC 4.2英寸 1280*960 IPS屏 5000mAh电池+15W充…",
-      "tags": [
-        "行业",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
       "id": "auto-cb1e41d21b03",
       "title": "iPhone 18 Pro Launching Next Month With These 12 New Features",
       "source": "MacRumors",
@@ -402,48 +562,8 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "coolapk-user-05cb60521f12",
-      "title": "竹本青：【大疆Osmo 360 二代正式官宣，将于明日开启预约】 8月6日，大疆创新发布预热视频，宣布旗下 Osmo 36…",
-      "source": "竹本青",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-08-06",
-      "time": "12:52",
-      "publishedAt": "2026-08-06T12:52:46.000Z",
-      "url": "https://www.coolapk.com/feed/73112800",
-      "image": "http://image.coolapk.com/feed/2026/0806/20/4248714_dc447ebf_1020_7786_999-livepic@812x1444.jpg",
-      "summary": "【大疆Osmo 360 二代正式官宣，将于明日开启预约】 8月6日，大疆创新发布预热视频，宣布旗下 Osmo 360 II (二代)全景相机即将于明晚8点开启预约。 作为参考，大疆Osmo 360 一代于去年7月31日发布。套装售价2999元起，产品配备双等效1英寸方形传感器、105GB存储，拥有13.5档动态范围，支持拍摄最高8K/50fps视频。 #今…",
-      "tags": [
-        "行业",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
-      "id": "auto-725707e12ae8",
-      "title": "可直接调用微距、长焦：微信 iOS 版灰度测试相机多焦段切换功能",
-      "source": "IT之家",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-06",
-      "time": "12:46",
-      "publishedAt": "2026-08-06T12:46:00.000Z",
-      "url": "https://www.ithome.com/0/986/727.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/8/1e7bfdad-959e-49b8-983f-aea0c19393a0.jpg?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 8 月 6 日消息，据多名网友分享， 微信 iOS 版正灰度相机多焦段切换功能 。用户在聊天界面打开相机进行拍摄，可以直接在拍照页面选用手机的长焦、微距等。 从网友反馈的微信新版相机界面来看，在拍摄的时候会出现 0.5x、1x、2x 和 3x 不同的拍摄焦段，同时旁边还有一个花朵样式图标的微距按钮，和系统自带的相机非常像。 目前，该功能并非向所有…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "coolapk-user-08d9fe09d7dc",
-      "title": "JSCHEN小小狐：『大疆 Osmo 360 II 官宣：8 月 7 日开启预约』 「每一面，都是大场面」 DJI Osmo 360…",
+      "title": "JSCHEN小小狐：大疆 Osmo 360 II 官宣：8 月 7 日开启预约",
       "source": "JSCHEN小小狐",
       "brand": "iPhone",
       "model": "iPhone 相关机型",
@@ -542,46 +662,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "coolapk-user-3fd7fef0dc21",
-      "title": "竹本青：华为花瓣地图新版本上线：新增「足迹地图」等功能",
-      "source": "竹本青",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-08-06",
-      "time": "10:17",
-      "publishedAt": "2026-08-06T10:17:59.000Z",
-      "url": "https://www.coolapk.com/feed/73110641",
-      "image": "http://image.coolapk.com/feed/2026/0806/18/4248714_f5759eea_1007_3226_125@1080x1440.jpg",
-      "summary": "【华为花瓣地图新版本上线：新增「足迹地图」「弹幕优选周边精彩」功能】 ● 足迹地图：开启后，系统自动记录所到的城市、地点及路线，支持在打卡点上传实拍图，生成专属足迹路线。 ● 兴趣内容随心切换／弹幕优选周边精彩：在发现页，聚合吃喝玩乐各类推荐，支持一键刷新，同时周边精彩以弹幕形式实时滚动。 #今日热点# #鸿蒙6# #地图#",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
-      "id": "coolapk-user-d4789bdcf418",
-      "title": "竹本青：REDMI K100 Pro Max 核心参数曝光：骁龙8 Elite Gen5",
-      "source": "竹本青",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-08-06",
-      "time": "10:16",
-      "publishedAt": "2026-08-06T10:16:39.000Z",
-      "url": "https://www.coolapk.com/feed/73110725",
-      "image": "http://image.coolapk.com/feed/2026/0806/18/4248714_77f3dcb5_1398_4878_243@1439x826.jpg",
-      "summary": "【REDMI K100 Pro Max 核心参数曝光：骁龙8 Elite Gen5，6.9英寸RGB直屏】 ▫️6.9\"185Hz RGB OLED直屏，M11材料 ▫️90% BT.2020｜25％局部4500nits ▫️骁龙8 Elite Gen5+独显芯片D2 ▫️9070mAh电池+100W有线+50W无线 ▫️金属中框｜横向大矩阵DECO ▫️…",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
       "id": "auto-da8bb6fc0d36",
       "title": "Galaxy S27 Pro and Ultra could have substantially better gaming performance",
       "source": "SamMobile",
@@ -659,26 +739,6 @@ window.phoneRadarAuto = {
         "Samsung",
         "爆料",
         "自动抓取"
-      ]
-    },
-    {
-      "id": "coolapk-user-7476d64b1096",
-      "title": "竹本青：【荣耀MagicOS 11 全新双架构 正式亮相：安卓底层重构，号称整机流畅度提升20%】 ● 荣耀琉光架构： 动…",
-      "source": "竹本青",
-      "brand": "HONOR",
-      "model": "HONOR 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-08-06",
-      "time": "08:06",
-      "publishedAt": "2026-08-06T08:06:48.000Z",
-      "url": "https://www.coolapk.com/feed/73108717",
-      "image": "http://image.coolapk.com/feed/2026/0806/16/4248714_ab6a81cd_3605_0985_658@1080x7443.jpg",
-      "summary": "【荣耀MagicOS 11 全新双架构 正式亮相：安卓底层重构，号称整机流畅度提升20%】 ● 荣耀琉光架构： 动态液态玻璃｜提前布局统一渲染 6层原子效果｜40+可调自由度 功耗几乎零增长｜轻载运行 全系列覆盖｜全生态快速接入 ● 荣耀蜂鸟架构： 液态动效｜人因流畅体系 号称整机流畅度提升20% 从系统到三方应用一镜到底 全新物理运动引擎／模型 ＊具体内…",
-      "tags": [
-        "HONOR",
-        "爆料",
-        "酷安博主"
       ]
     },
     {

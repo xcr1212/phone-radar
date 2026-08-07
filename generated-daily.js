@@ -1,12 +1,12 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-08-07T00:14:17.234Z",
+  "updatedAt": "2026-08-07T03:15:36.247Z",
   "issueDate": "2026-08-07",
   "issue": "VOL.260807",
   "title": "手机情报日报",
-  "intro": "今日筛出 13 条重点，其中 8 条是重点爆料，包含 12 条 iPhone 相关、1 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 14 条重点，其中 8 条是重点爆料，包含 11 条 iPhone 相关、1 条官方确认、0 条参数线索。",
   "stats": {
-    "total": 13,
-    "iphone": 12,
+    "total": 14,
+    "iphone": 11,
     "leaks": 8,
     "official": 1,
     "specs": 0
@@ -17,29 +17,6 @@ window.phoneRadarDaily = {
       "title": "重点爆料",
       "hint": "机模、配色、影像、屏幕、电池和芯片线索先看。",
       "items": [
-        {
-          "id": "auto-725707e12ae8",
-          "title": "可直接调用微距、长焦：微信 iOS 版灰度测试相机多焦段切换功能",
-          "originalTitle": "",
-          "source": "IT之家",
-          "brand": "iPhone",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-08-06",
-          "time": "12:46",
-          "publishedAt": "2026-08-06T12:46:00.000Z",
-          "url": "https://www.ithome.com/0/986/727.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/8/1e7bfdad-959e-49b8-983f-aea0c19393a0.jpg?x-bce-process=image/format,f_auto",
-          "verdict": "先看",
-          "takeaway": "IT之家 8 月 6 日消息，据多名网友分享， 微信 iOS 版正灰度相机多焦段切换功能 。用户在聊天界面打开相机进行拍摄，可以直接在拍照页面选用手机的长焦、微距等。 从网友反馈的微信新版相机界面来看，在拍摄的时候会出现 0.5x、1x、2x 和 3x 不同的拍摄焦段，同时旁边还有一个花朵样式图标的微距按钮，和系统自带的相机非常像。 目前，该功能并非向所有…",
-          "detail": "IT之家 8 月 6 日消息，据多名网友分享， 微信 iOS 版正灰度相机多焦段切换功能 。用户在聊天界面打开相机进行拍摄，可以直接在拍照页面选用手机的长焦、微距等。 从网友反馈的微信新版相机界面来看，在拍摄的时候会出现 0.5x、1x、2x 和 3x 不同的拍摄焦段，同时旁边还有一个花朵样式图标的微距按钮，和系统自带的相机非常像。 目前，该功能并非向所有…",
-          "keyPoints": [
-            "影像硬件"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
         {
           "id": "newsnow-89f5a013af12",
           "title": "消息称 iPhone 18 系列备货遇阻，处理器充足但内存短缺",
@@ -90,7 +67,7 @@ window.phoneRadarDaily = {
         },
         {
           "id": "coolapk-user-08d9fe09d7dc",
-          "title": "JSCHEN小小狐：『大疆 Osmo 360 II 官宣：8 月 7 日开启预约』 「每一面，都是大场面」 DJI Osmo 360…",
+          "title": "JSCHEN小小狐：大疆 Osmo 360 II 官宣：8 月 7 日开启预约",
           "originalTitle": "",
           "source": "JSCHEN小小狐",
           "brand": "iPhone",
@@ -137,8 +114,8 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
-          "id": "newsnow-fe1d20cab371",
-          "title": "曝iPhone18Pro量产遇挑战",
+          "id": "newsnow-3482dae4d033",
+          "title": "iPhone18Pro十二大升级",
           "originalTitle": "",
           "source": "微博热搜",
           "brand": "iPhone",
@@ -147,13 +124,13 @@ window.phoneRadarDaily = {
           "date": "2026-08-07",
           "time": "",
           "publishedAt": "",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%9B%9DiPhone18Pro%E9%87%8F%E4%BA%A7%E9%81%87%E6%8C%91%E6%88%98%23&t=31&band_rank=9&Refer=top",
+          "url": "https://s.weibo.com/weibo?q=%23iPhone18Pro%E5%8D%81%E4%BA%8C%E5%A4%A7%E5%8D%87%E7%BA%A7%23&t=31&band_rank=1&Refer=top",
           "image": "",
           "verdict": "先看",
-          "takeaway": "曝iPhone18Pro量产遇挑战",
-          "detail": "曝iPhone18Pro量产遇挑战",
+          "takeaway": "iPhone18Pro十二大升级",
+          "detail": "iPhone18Pro十二大升级",
           "keyPoints": [
-            "爆料来源"
+            "爆料"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
@@ -198,6 +175,29 @@ window.phoneRadarDaily = {
           "verdict": "先看",
           "takeaway": "iPhone 有发布或新功能消息，适合确认是否和新机有关。",
           "detail": "iPhone 18 Pro 发布 / 上市相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "auto-337d97bc8c45",
+          "title": "iPhone 18 Pro 芯片 / 性能相关消息",
+          "originalTitle": "",
+          "source": "MacRumors",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-08-06",
+          "time": "13:23",
+          "publishedAt": "2026-08-06T13:23:02.000Z",
+          "url": "https://www.macrumors.com/2026/08/06/apple-scrambling-to-secure-memory/",
+          "image": "https://images.macrumors.com/article-new/2026/02/iPhone-18-Pro-Deep-Red-Feature.jpg",
+          "verdict": "先看",
+          "takeaway": "iPhone 有发布或新功能消息，适合确认是否和新机有关。",
+          "detail": "iPhone 18 Pro 芯片 / 性能相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
           "keyPoints": [
             "爆料"
           ],
@@ -282,27 +282,34 @@ window.phoneRadarDaily = {
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "影响购买预算，值得先看。",
           "action": "有具体参数就记录到参数库；没有参数就先收藏。"
-        },
+        }
+      ]
+    },
+    {
+      "id": "launch",
+      "title": "新机与官方发布",
+      "hint": "能直接更新到参数库。",
+      "items": [
         {
-          "id": "auto-b887cd23860b",
-          "title": "iPhone 18 Pro 系统功能 / AI 体验相关消息",
+          "id": "coolapk-user-1c74cdadb014",
+          "title": "竹本青：三星 ISOCELL HPC 2亿旗舰传感器发布：或由OPPO Find X10系列首发搭载",
           "originalTitle": "",
-          "source": "9to5Mac",
-          "brand": "iPhone",
+          "source": "竹本青",
+          "brand": "Samsung",
           "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-08-06",
-          "time": "13:47",
-          "publishedAt": "2026-08-06T13:47:22.000Z",
-          "url": "https://9to5mac.com/2026/08/06/iphone-18-pro-could-have-limited-availability-right-after-launch-report/",
-          "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/05/iphone-17-pro-silver-centered-dark.jpg?quality=82&strip=all&w=1600",
+          "trust": "高可信爆料",
+          "date": "2026-08-07",
+          "time": "02:29",
+          "publishedAt": "2026-08-07T02:29:43.000Z",
+          "url": "https://www.coolapk.com/feed/73119397",
+          "image": "http://image.coolapk.com/feed/2026/0807/10/4248714_bade92b1_0927_6347_87@1438x1918.jpg",
           "verdict": "扫一眼",
-          "takeaway": "iPhone 有系统功能或 AI 体验更新，适合关注后续是否影响日常使用。",
-          "detail": "iPhone 18 Pro 系统功能 / AI 体验相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
+          "takeaway": "【三星 ISOCELL HPC 2亿旗舰传感器发布，博主称OPPO Find X10系列将首发搭载】 ● 200Mp 1/1.3\"｜0.6um ● 4K 180fps视频 ● 最高8K 30fps视频 ● 全新DeepPix技术 ● 单帧16-bit HDR ● 1X/1.5X/2X/3X/4X单帧HDR变焦 ● 全焦段HDR #今日热点# #ColorO…",
+          "detail": "【三星 ISOCELL HPC 2亿旗舰传感器发布，博主称OPPO Find X10系列将首发搭载】 ● 200Mp 1/1.3\"｜0.6um ● 4K 180fps视频 ● 最高8K 30fps视频 ● 全新DeepPix技术 ● 单帧16-bit HDR ● 1X/1.5X/2X/3X/4X单帧HDR变焦 ● 全焦段HDR #今日热点# #ColorO…",
           "keyPoints": [
-            "爆料"
+            "外观 / 配色 / 尺寸"
           ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "confidence": "可信度较高，但仍属于发布前线索。",
           "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         }
@@ -314,21 +321,44 @@ window.phoneRadarDaily = {
       "hint": "看方向，不急着当购买依据。",
       "items": [
         {
-          "id": "coolapk-user-3fd7fef0dc21",
-          "title": "竹本青：华为花瓣地图新版本上线：新增「足迹地图」等功能",
+          "id": "newsnow-830761754e50",
+          "title": "预算3000块给妹妹买个手机",
+          "originalTitle": "",
+          "source": "酷安热榜",
+          "brand": "行业",
+          "type": "爆料",
+          "trust": "高关注爆料源",
+          "date": "2026-08-07",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://www.coolapk.com/feed/73097302",
+          "image": "",
+          "verdict": "扫一眼",
+          "takeaway": "预算3000块给妹妹买个手机",
+          "detail": "预算3000块给妹妹买个手机",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        },
+        {
+          "id": "coolapk-user-818fc58bb3a1",
+          "title": "竹本青：【REDMI K100 Pro Max 官宣搭载2.1立体声系统：两颗1115D+1620单元】 ● 两颗 111…",
           "originalTitle": "",
           "source": "竹本青",
-          "brand": "Huawei",
+          "brand": "Xiaomi",
           "type": "爆料",
           "trust": "高可信爆料",
-          "date": "2026-08-06",
-          "time": "10:17",
-          "publishedAt": "2026-08-06T10:17:59.000Z",
-          "url": "https://www.coolapk.com/feed/73110641",
-          "image": "http://image.coolapk.com/feed/2026/0806/18/4248714_f5759eea_1007_3226_125@1080x1440.jpg",
+          "date": "2026-08-07",
+          "time": "03:01",
+          "publishedAt": "2026-08-07T03:01:37.000Z",
+          "url": "https://www.coolapk.com/feed/73119796",
+          "image": "http://image.coolapk.com/feed/2026/0807/11/4248714_bba9b479_1877_2982_705@2000x2667.jpg",
           "verdict": "扫一眼",
-          "takeaway": "【华为花瓣地图新版本上线：新增「足迹地图」「弹幕优选周边精彩」功能】 ● 足迹地图：开启后，系统自动记录所到的城市、地点及路线，支持在打卡点上传实拍图，生成专属足迹路线。 ● 兴趣内容随心切换／弹幕优选周边精彩：在发现页，聚合吃喝玩乐各类推荐，支持一键刷新，同时周边精彩以弹幕形式实时滚动。 #今日热点# #鸿蒙6# #地图#",
-          "detail": "【华为花瓣地图新版本上线：新增「足迹地图」「弹幕优选周边精彩」功能】 ● 足迹地图：开启后，系统自动记录所到的城市、地点及路线，支持在打卡点上传实拍图，生成专属足迹路线。 ● 兴趣内容随心切换／弹幕优选周边精彩：在发现页，聚合吃喝玩乐各类推荐，支持一键刷新，同时周边精彩以弹幕形式实时滚动。 #今日热点# #鸿蒙6# #地图#",
+          "takeaway": "【REDMI K100 Pro Max 官宣搭载2.1立体声系统：两颗1115D+1620单元】 ● 两颗 1115D全频发声单元 ● 一颗 1620独立低音单元 ● Sound by Bose联合调音 #今日热点# #REDMIK100ProMax# #HyperOS3#",
+          "detail": "【REDMI K100 Pro Max 官宣搭载2.1立体声系统：两颗1115D+1620单元】 ● 两颗 1115D全频发声单元 ● 一颗 1620独立低音单元 ● Sound by Bose联合调音 #今日热点# #REDMIK100ProMax# #HyperOS3#",
           "keyPoints": [
             "爆料"
           ],
