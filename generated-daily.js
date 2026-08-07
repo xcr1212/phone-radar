@@ -1,5 +1,5 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-08-07T11:05:56.307Z",
+  "updatedAt": "2026-08-07T13:37:35.750Z",
   "issueDate": "2026-08-07",
   "issue": "VOL.260807",
   "title": "手机情报日报",
@@ -36,30 +36,6 @@ window.phoneRadarDaily = {
           "keyPoints": [
             "芯片 / 性能",
             "爆料来源"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "newsnow-24a841478d70",
-          "title": "最近怎么这么多推胖爸卡贴的，去年的16pm板块暴雷多少了都，我买了四台都是电池鼓包漏液，屏幕弹窗，卡槽歪斜的，怎么还有人推啊，给你们多少钱啊，他家售后也不是一般的差，别坑人了行吗，老老实实用国航。自己用美版就别出来给他发帖子，不怕昧良心吗 #iPhone16ProMax# #iPhone17ProMax#",
-          "originalTitle": "",
-          "source": "酷安热榜",
-          "brand": "iPhone",
-          "type": "爆料",
-          "trust": "高关注爆料源",
-          "date": "2026-08-07",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://www.coolapk.com/feed/73113907",
-          "image": "",
-          "verdict": "先看",
-          "takeaway": "最近怎么这么多推胖爸卡贴的，去年的16pm板块暴雷多少了都，我买了四台都是电池鼓包漏液，屏幕弹窗，卡槽歪斜的，怎么还有人推啊，给你们多少钱啊，他家售后也不是一般的差，别坑人了行吗，老老实实用国航。自己用美版就别出来给他发帖子，不怕昧良心吗 #iPhone16ProMax# #iPhone17ProMax#",
-          "detail": "最近怎么这么多推胖爸卡贴的，去年的16pm板块暴雷多少了都，我买了四台都是电池鼓包漏液，屏幕弹窗，卡槽歪斜的，怎么还有人推啊，给你们多少钱啊，他家售后也不是一般的差，别坑人了行吗，老老实实用国航。自己用美版就别出来给他发帖子，不怕昧良心吗 #iPhone16ProMax# #iPhone17ProMax#",
-          "keyPoints": [
-            "屏幕形态",
-            "电池 / 充电"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
@@ -106,6 +82,29 @@ window.phoneRadarDaily = {
           "verdict": "先看",
           "takeaway": "iPhone 18 Pro 折叠屏相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
           "detail": "iPhone 18 Pro 折叠屏相关消息。重点看折痕、铰链、厚度、屏幕可靠性和重量是否有实质改善。",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "newsnow-46d2b7bd2d78",
+          "title": "iPhone18Pro十二大升级",
+          "originalTitle": "",
+          "source": "百度热搜",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-08-07",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://www.baidu.com/s?wd=iPhone18Pro%E5%8D%81%E4%BA%8C%E5%A4%A7%E5%8D%87%E7%BA%A7",
+          "image": "",
+          "verdict": "先看",
+          "takeaway": "iPhone18Pro十二大升级",
+          "detail": "iPhone18Pro十二大升级",
           "keyPoints": [
             "爆料"
           ],
