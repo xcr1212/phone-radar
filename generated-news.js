@@ -1,6 +1,186 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-08-07T13:37:35.750Z",
+  "updatedAt": "2026-08-07T15:08:14.350Z",
   "news": [
+    {
+      "id": "auto-8fa9cc5f304b",
+      "title": "Samsung’s Z Fold 8 Ultra is more of the same, but better than ever",
+      "source": "The Verge",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-07",
+      "time": "14:48",
+      "publishedAt": "2026-08-07T14:48:38.000Z",
+      "url": "https://www.theverge.com/tech/976551/samsung-galaxy-z-fold-8-ultra-review",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/samsung-galaxy-z-fold-8-ultra-11.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "summary": "What makes the Samsung Galaxy Z Fold 8 Ultra so Ultra? Samsung's first foldable with the Ultra name isn't a souped-up version of the regular Fold 8, as you might expect. Where the…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-5a87eab067be",
+      "title": "Samsung cuts Galaxy Z Fold 8 trade-ins & deals on release day – here’s where to get the best price now",
+      "source": "9to5Google",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-07",
+      "time": "14:45",
+      "publishedAt": "2026-08-07T14:45:00.000Z",
+      "url": "https://9to5google.com/2026/08/07/galaxy-z-fold-8-best-deal-release-day/",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/07/galaxy-z-fold-8-review-25.jpg?quality=82&strip=all&w=1600",
+      "summary": "Samsung’s Galaxy Z Fold 8 series is officially available today and, as per usual, that comes with some cuts to the deals that were available during the pre-order period, including…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-192ad5b70639",
+      "title": "OPPO Reno 16 vs OnePlus 15: Camera, Battery, Performance Compared",
+      "source": "Gizmochina",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-07",
+      "time": "14:33",
+      "publishedAt": "2026-08-07T14:33:42.000Z",
+      "url": "https://www.gizmochina.com/2026/08/07/oppo-reno-16-vs-oneplus-15-comparison/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/08/image-35-300x183.png?x23692",
+      "summary": "OPPO Reno 16 and OnePlus 15 target premium Android buyers but take very different approaches. One focuses on value with flagship-inspired features, while the other delivers uncomp…",
+      "tags": [
+        "OPPO",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-224f4696cd32",
+      "title": "荣耀 MagicOS 10 系统 8 月版本第二批机型开推，覆盖 Magic7、WIN 等系列",
+      "source": "IT之家",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-07",
+      "time": "14:33",
+      "publishedAt": "2026-08-07T14:33:41.000Z",
+      "url": "https://www.ithome.com/0/987/208.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/8/8c0ccf65-9df8-4c72-bea0-5a99aeaf3ac1.png?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 8 月 7 日消息，荣耀 MagicOS 官方微博今日宣布， MagicOS 10 系统 8 月版本推送第二批机型 ： 荣耀 Magic7 系列、荣耀 Magic V5、 荣耀 500 系列、 荣耀 WIN 、 荣耀 WIN RT 、荣耀 GT Pro IT之家整理 MagicOS 10 系统的 8 月版本更新内容如下（升级路径：设置 > 系统和…",
+      "tags": [
+        "HONOR",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-7effafe5594d",
+      "title": "Which do you plan to buy: iPhone 18 Pro or foldable iPhone Ultra? [Poll]",
+      "source": "9to5Mac",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-07",
+      "time": "14:26",
+      "publishedAt": "2026-08-07T14:26:07.000Z",
+      "url": "https://9to5mac.com/2026/08/07/which-do-you-plan-to-buy-iphone-18-pro-or-foldable-iphone-ultra-poll/",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/02/iphone-18-pro-mockup.jpg?quality=82&strip=all&w=1600",
+      "summary": "Apple’s fall iPhone event is expected to look different this year. Rather than unveiling four closely related models, rumors point to a flagship-only September lineup consisting o…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-aed189316634",
+      "title": "Vivo X300 E vs OnePlus 15: Which Flagship Offers Better Value in 2026?",
+      "source": "Gizmochina",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-07",
+      "time": "14:13",
+      "publishedAt": "2026-08-07T14:13:48.000Z",
+      "url": "https://www.gizmochina.com/2026/08/07/vivo-x300-e-vs-oneplus-15-comparison/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/08/image-34-300x196.png?x23692",
+      "summary": "Vivo X300 E and OnePlus 15 target flagship buyers with powerful Snapdragon chipsets, massive batteries, and premium AMOLED displays. While Vivo focuses on value, battery life, and…",
+      "tags": [
+        "OPPO",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-cca486e31693",
+      "title": "华为 Mate 80 系列等迎 HarmonyOS 7 花粉 Beta 版补丁更新，更多机型支持直连供电功能",
+      "source": "IT之家",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-07",
+      "time": "14:07",
+      "publishedAt": "2026-08-07T14:07:07.000Z",
+      "url": "https://www.ithome.com/0/987/201.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/8/92ce318b-b761-416c-8c02-9d1da24fc62b.jpg?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 8 月 7 日消息，华为 Mate 80、Mate 70 等系列机型今日推送了 HarmonyOS 7 花粉 Beta 版的补丁更新。 据用户反馈，Mate 80 Pro、Mate 80 Pro Max、Mate 70 Pro、Mate 70 Pro+、Pura 80 Pro+ 等机型升级该补丁包后， 支持了直连供电功能 。 IT之家注： 该功能…",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-c24681444d87",
+      "title": "JSCHEN小小狐：原本以为 Pro Max 再怎么砍也有 HP9 原来和 Pro 是同一颗 HP5 吗……？ 根据水印信息整理了下影…",
+      "source": "JSCHEN小小狐",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-08-07",
+      "time": "13:58",
+      "publishedAt": "2026-08-07T13:58:39.000Z",
+      "url": "https://www.coolapk.com/feed/73129148",
+      "image": "http://image.coolapk.com/feed/2026/0807/22/4702274_72bb28c3_2228_8654_353-uhdr@2366x3503.jpg",
+      "summary": "原本以为 Pro Max 再怎么砍也有 HP9 原来和 Pro 是同一颗 HP5 吗……？ 根据水印信息整理了下影像规格： （Pro Max） - 200Mp 1/1.56'' HP5 24mm f/1.68 OIS 主摄 - 50Mp 1/2.75'' JN5 120mm f/3.0 OIS 潜望 - 50Mp 1/2.88'' OV50M 17mm f…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-cceb3deedeb4",
+      "title": "iPhone 18 Pro is getting even more ‘Pro’ this year in three ways",
+      "source": "9to5Mac",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-07",
+      "time": "13:47",
+      "publishedAt": "2026-08-07T13:47:53.000Z",
+      "url": "https://9to5mac.com/2026/08/07/iphone-18-pro-is-getting-even-more-pro-this-year-in-three-ways/",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/iphone-18-pro-mockup-fi-new-color.jpg?quality=82&strip=all&w=1600",
+      "summary": "iPhone 18 Pro and Pro Max will be unveiled soon , and rumors point to at least three ways the new models will be even more ‘Pro’ this year.",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "coolapk-user-2f6f14292f7b",
       "title": "竹本青：【荣耀Robot Phone官宣搭载钛合金灵巧云台，电机最大转速360°/秒】 ● 钛合金云台架构：体积较行业主流…",
@@ -202,26 +382,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "coolapk-user-fdf9555843ce",
-      "title": "JSCHEN小小狐：iQOO Neo11 至尊版外观泄露：横向双摄模组",
-      "source": "JSCHEN小小狐",
-      "brand": "vivo",
-      "model": "vivo 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-08-07",
-      "time": "10:01",
-      "publishedAt": "2026-08-07T10:01:19.000Z",
-      "url": "https://www.coolapk.com/feed/73125660",
-      "image": "http://image.coolapk.com/feed/2026/0807/18/4702274_ddb01456_8342_5224_102@2880x2160.jpg",
-      "summary": "『iQOO Neo11 至尊版外观泄露：横向双摄模组』 近日，iQOO Neo11 至尊版「乘风」配色真机在社交媒体曝光。新机采用左上角横向双摄设计，闪光灯位于模组右侧，主摄支持 OIS 光学防抖。该机此前已官宣，预计将于 8 月 10 日正式预热。 部分爆料信息如下： ◇ 深度定制天玑 9500 移动平台 ◇ 2K 144Hz 国产新工艺 OLED 直屏…",
-      "tags": [
-        "vivo",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
       "id": "auto-a6bfb69d48c3",
       "title": "产品定义顶级：消息称华为阔直板新机已 Ready，方案属是行业首发",
       "source": "IT之家",
@@ -299,26 +459,6 @@ window.phoneRadarAuto = {
         "行业",
         "爆料",
         "微博"
-      ]
-    },
-    {
-      "id": "coolapk-user-dbf12ecd0274",
-      "title": "竹本青：2026年第31周国内手机市场份额曝光：华为居首",
-      "source": "竹本青",
-      "brand": "HONOR",
-      "model": "HONOR 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-08-07",
-      "time": "09:02",
-      "publishedAt": "2026-08-07T09:02:57.000Z",
-      "url": "https://www.coolapk.com/feed/73124775",
-      "image": "http://image.coolapk.com/feed/2026/0807/17/4248714_05073ccf_3376_6166_673@1440x1047.jpg",
-      "summary": "【2026年第31周 国内手机市场份额曝光：华为、OPPO、vivo分列前三】 ● 2026 W31 —— 大盘变化不大 1.华为 —— 20.8% 2.OPPO —— 16.1%（含一加3.1%，realme 0.7%） 3.vivo —— 16.0%（含iQOO 4.0%） 4.小米 —— 15.3% 5.苹果 —— 14.2% 6.荣耀 —— 13.…",
-      "tags": [
-        "HONOR",
-        "爆料",
-        "酷安博主"
       ]
     },
     {
@@ -662,7 +802,27 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-c44a02e42578",
+      "id": "newsnow-8e80aad1b98c",
+      "title": "iQOO Neo11 至尊版外观泄露：横向双摄模组",
+      "source": "酷安热榜",
+      "brand": "vivo",
+      "model": "vivo 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-08-07",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/73125660",
+      "image": "",
+      "summary": "iQOO Neo11 至尊版外观泄露：横向双摄模组",
+      "tags": [
+        "vivo",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-9c736511a676",
       "title": "iPhone18Pro起售或破万",
       "source": "微博热搜",
       "brand": "iPhone",
@@ -672,7 +832,7 @@ window.phoneRadarAuto = {
       "date": "2026-08-07",
       "time": "",
       "publishedAt": "",
-      "url": "https://s.weibo.com/weibo?q=iPhone18Pro%E8%B5%B7%E5%94%AE%E6%88%96%E7%A0%B4%E4%B8%87&t=31&band_rank=6&Refer=top",
+      "url": "https://s.weibo.com/weibo?q=iPhone18Pro%E8%B5%B7%E5%94%AE%E6%88%96%E7%A0%B4%E4%B8%87&t=31&band_rank=27&Refer=top",
       "image": "",
       "summary": "iPhone18Pro起售或破万",
       "tags": [
@@ -1077,46 +1237,6 @@ window.phoneRadarAuto = {
       "summary": "Qualcomm and Exynos silicon in the same phone? Yep, but perhaps not in the way you're expecting.",
       "tags": [
         "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-fe767c5674e0",
-      "title": "Redmi Note 17 arrives with Redmi’s biggest-ever battery and Snapdragon 4 Gen 4",
-      "source": "Gizmochina",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-06",
-      "time": "08:03",
-      "publishedAt": "2026-08-06T08:03:43.000Z",
-      "url": "https://www.gizmochina.com/2026/08/06/redmi-note-17-launched-india-price-specifications/",
-      "image": "https://www.gizmochina.com/wp-content/uploads/2026/08/Redmi-Note-17-5G_-300x173.jpg?x23692",
-      "summary": "Redmi has officially launched the Redmi Note 17 in India, bringing one of the biggest batteries ever seen on a Redmi smartphone. Alongside its large battery, the device combines a…",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-c448d55d2d3f",
-      "title": "Vivo S2 is finally here, ending a seven-year wait with a curved AMOLED display and 7,050mAh battery",
-      "source": "Gizmochina",
-      "brand": "vivo",
-      "model": "vivo 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-06",
-      "time": "07:40",
-      "publishedAt": "2026-08-06T07:40:35.000Z",
-      "url": "https://www.gizmochina.com/2026/08/06/vivo-s2-launched-price-specifications/",
-      "image": "https://www.gizmochina.com/wp-content/uploads/2026/08/image-165x300.jpeg?x23692",
-      "summary": "Vivo unveiled the Vivo S1 back in 2019 in India, and since then, the company has not launched another S-series smartphone in the country until today with the arrival of the Vivo S…",
-      "tags": [
-        "vivo",
         "爆料",
         "自动抓取"
       ]
