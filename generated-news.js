@@ -1,6 +1,86 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-08-07T17:06:22.686Z",
+  "updatedAt": "2026-08-07T19:14:09.395Z",
   "news": [
+    {
+      "id": "auto-f7e599e2211f",
+      "title": "What to expect from the Samsung Galaxy S26 FE: Specs, colors, and release window",
+      "source": "Android Police",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-07",
+      "time": "18:38",
+      "publishedAt": "2026-08-07T18:38:29.000Z",
+      "url": "https://www.androidpolice.com/what-to-expect-from-the-samsung-galaxy-s26-fe-specs-colors-and-release-window/",
+      "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2025/09/samsung-galaxy-s25-fe-blue-background.jpg",
+      "summary": "FCC documents show dual silicon roles",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-4d1431f2fba7",
+      "title": "竹本青：【微信上线撤回提示删除功能，仅可清除本机页面痕迹】 日期，微信宣布更新一项聊天功能：用户撤回消息后，可长按“你撤回…",
+      "source": "竹本青",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-08-07",
+      "time": "18:06",
+      "publishedAt": "2026-08-07T18:06:10.000Z",
+      "url": "https://www.coolapk.com/feed/73132351",
+      "image": "http://image.coolapk.com/feed/2026/0808/02/4248714_afcb77ce_5969_0986_717@1078x460.jpg",
+      "summary": "【微信上线撤回提示删除功能，仅可清除本机页面痕迹】 日期，微信宣布更新一项聊天功能：用户撤回消息后，可长按“你撤回了一条消息”灰色提示，选择删除该提示文字。 需注意，该操作仅删除自己设备聊天界面的提示，方便截图、存档整理聊天记录；对方聊天窗口依旧会正常看到撤回提示，不会同步消除对方端显示。 ＊该功能正逐步覆盖iOS和Android端用户 #今日热点# #微…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-025002e9088a",
+      "title": "Global Redmi 17 5G, Redmi 17 4G launch with 6.9-inch 120Hz display, 7,500mAh battery, and 50MP dual cameras",
+      "source": "Gizmochina",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-07",
+      "time": "18:02",
+      "publishedAt": "2026-08-07T18:02:37.000Z",
+      "url": "https://www.gizmochina.com/2026/08/07/redmi-17-5g-redmi-17-4g-global-launch-specs-price/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/08/Redmi-17-5G-featured--300x226.png?x23692",
+      "summary": "Redmi recently unveiled the Redmi 17 5G in China with the Unisoc T8300 chipset. Now, out of nowhere, the brand has introduced the global Redmi 17 5G and Redmi 17 4G, and both mode…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-d7100d153806",
+      "title": "Google puts the finishing touches on Proactive Assistance ahead of Pixel 11 launch",
+      "source": "Android Authority",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-07",
+      "time": "17:58",
+      "publishedAt": "2026-08-07T17:58:34.000Z",
+      "url": "https://www.androidauthority.com/pixel-11-proactive-assistance-3696051/",
+      "image": "",
+      "summary": "Proactive Assistance on the Pixel 11 is getting ready to offer just that.",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-8d257a1d4140",
       "title": "Galaxy Z Fold 8 series tipped to cross 5 million preorders, setting a new record",
@@ -319,26 +399,6 @@ window.phoneRadarAuto = {
         "vivo",
         "爆料",
         "微博"
-      ]
-    },
-    {
-      "id": "coolapk-user-249dee8e7db4",
-      "title": "竹本青：【大疆Osmo 360 二代 开启预约，将于8月13日正式发售】 8月7日，大疆Osmo360 二代 全景相机正式…",
-      "source": "竹本青",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-08-07",
-      "time": "12:10",
-      "publishedAt": "2026-08-07T12:10:03.000Z",
-      "url": "https://www.coolapk.com/feed/73127511",
-      "image": "http://image.coolapk.com/feed/2026/0807/20/4248714_b0ae6c8b_4596_9785_371@1080x1440.jpg",
-      "summary": "【大疆Osmo 360 二代 开启预约，将于8月13日正式发售】 8月7日，大疆Osmo360 二代 全景相机正式亮相，延续上代双传感器+显示屏配置。 作为参考，大疆Osmo 360 一代于去年7月31日发布。套装售价2999元起，产品配备双等效1英寸方形传感器、内置105GB存储，拥有13.5档动态范围，支持拍摄最高8K/50fps视频。 #今日热点#…",
-      "tags": [
-        "行业",
-        "爆料",
-        "酷安博主"
       ]
     },
     {
@@ -662,26 +722,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-a6838dc593df",
-      "title": "Did Samsung just unveil Galaxy S27 Ultra’s new 200MP camera sensor?",
-      "source": "SamMobile",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-07",
-      "time": "04:40",
-      "publishedAt": "2026-08-07T04:40:45.000Z",
-      "url": "https://www.sammobile.com/news/isocell-hp6-galaxy-s27-ultra-200mp-camera-sensor-unveil/",
-      "image": "https://www.sammobile.com/wp-content/uploads/2026/08/Samsung-ISOCELL-HPC-In-Sensor-Zoom.jpg",
-      "summary": "Samsung has unveiled a new 200MP camera sensor called the ISOCELL HPC. It introduces several new technologies designed to reduce noise, expand dynamic range, and deliver superior…",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-be9ccce1d17e",
       "title": "Galaxy S26 FE leaked firmware reveals Horizontal Lock camera feature",
       "source": "Gizmochina",
@@ -962,6 +1002,26 @@ window.phoneRadarAuto = {
       ]
     },
     {
+      "id": "newsnow-7e45c76208e7",
+      "title": "河南濮阳一女子趁店内无人拿走手机",
+      "source": "百度热搜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-07",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.baidu.com/s?wd=%E6%B2%B3%E5%8D%97%E6%BF%AE%E9%98%B3%E4%B8%80%E5%A5%B3%E5%AD%90%E8%B6%81%E5%BA%97%E5%86%85%E6%97%A0%E4%BA%BA%E6%8B%BF%E8%B5%B0%E6%89%8B%E6%9C%BA",
+      "image": "",
+      "summary": "河南濮阳一女子趁店内无人拿走手机",
+      "tags": [
+        "行业",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
       "id": "auto-ed5da78b96cb",
       "title": "iPhone 18 Pro price: Here’s how much more it could cost",
       "source": "9to5Mac",
@@ -1175,26 +1235,6 @@ window.phoneRadarAuto = {
       "url": "https://9to5mac.com/2026/08/06/iphone-18-pro-could-have-limited-availability-right-after-launch-report/",
       "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/05/iphone-17-pro-silver-centered-dark.jpg?quality=82&strip=all&w=1600",
       "summary": "iPhone 18 Pro is only weeks away from launching, and a new report from Culpium indicates it could have limited availability due to a DRAM shortage holding up production.",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-337d97bc8c45",
-      "title": "Apple Scrambling to Secure Memory Ahead of iPhone 18 Pro Launch",
-      "source": "MacRumors",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-06",
-      "time": "13:23",
-      "publishedAt": "2026-08-06T13:23:02.000Z",
-      "url": "https://www.macrumors.com/2026/08/06/apple-scrambling-to-secure-memory/",
-      "image": "https://images.macrumors.com/article-new/2026/02/iPhone-18-Pro-Deep-Red-Feature.jpg",
-      "summary": "Apple and its manufacturing partners are racing to secure enough mobile DRAM to complete production of the iPhone 18 Pro and its first foldable iPhone, with around $1 billion wort…",
       "tags": [
         "iPhone",
         "爆料",

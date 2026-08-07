@@ -1,12 +1,12 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-08-07T17:06:22.686Z",
+  "updatedAt": "2026-08-07T19:14:09.395Z",
   "issueDate": "2026-08-07",
   "issue": "VOL.260807",
   "title": "手机情报日报",
-  "intro": "今日筛出 8 条重点，其中 8 条是重点爆料，包含 7 条 iPhone 相关、0 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 8 条重点，其中 8 条是重点爆料，包含 6 条 iPhone 相关、0 条官方确认、0 条参数线索。",
   "stats": {
     "total": 8,
-    "iphone": 7,
+    "iphone": 6,
     "leaks": 8,
     "official": 0,
     "specs": 0
@@ -159,29 +159,6 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
-          "id": "auto-337d97bc8c45",
-          "title": "iPhone 18 Pro 芯片 / 性能相关消息",
-          "originalTitle": "",
-          "source": "MacRumors",
-          "brand": "iPhone",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-08-06",
-          "time": "13:23",
-          "publishedAt": "2026-08-06T13:23:02.000Z",
-          "url": "https://www.macrumors.com/2026/08/06/apple-scrambling-to-secure-memory/",
-          "image": "https://images.macrumors.com/article-new/2026/02/iPhone-18-Pro-Deep-Red-Feature.jpg",
-          "verdict": "先看",
-          "takeaway": "iPhone 有发布或新功能消息，适合确认是否和新机有关。",
-          "detail": "iPhone 18 Pro 芯片 / 性能相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
           "id": "auto-a6bfb69d48c3",
           "title": "产品定义顶级：消息称华为阔直板新机已 Ready，方案属是行业首发",
           "originalTitle": "",
@@ -199,6 +176,31 @@ window.phoneRadarDaily = {
           "detail": "IT之家 8 月 7 日消息，博主 @数码闲聊站 今日发文透露， 某厂的阔直板新手机已 Ready，方案属于行业首发 。结合该博主此前的爆料来看，新机归属华为品牌。 另外，博主表示，这款手机的产品定义很顶级，定位不低， 其它家也在跟进中，但会晚不少 。 博主还在评论区回复了部分网友的问题。针对新机会不会有更大尺寸，他回复称：“ 暂时还没有更大尺寸的开案。…",
           "keyPoints": [
             "外观 / 配色 / 尺寸",
+            "爆料来源"
+          ],
+          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "weibo-40a363463473",
+          "title": "数码闲聊站：8月和红米对狙的就是iQOO Neo11至尊版，主打2K新基材国产直屏+天玑9…",
+          "originalTitle": "",
+          "source": "数码闲聊站",
+          "brand": "vivo",
+          "type": "爆料",
+          "trust": "高关注爆料源",
+          "date": "2026-08-07",
+          "time": "12:13",
+          "publishedAt": "2026-08-07T12:13:00.000Z",
+          "url": "https://weibo.com/6048569942/Rck6jenHZ",
+          "image": "",
+          "verdict": "先看",
+          "takeaway": "8月和红米对狙的就是iQOO Neo11至尊版，主打2K新基材国产直屏+天玑9500定制芯+9K级大电池，ID设计也是新方案，外围配置该有的也有，有趣[笑而不语]",
+          "detail": "8月和红米对狙的就是iQOO Neo11至尊版，主打2K新基材国产直屏+天玑9500定制芯+9K级大电池，ID设计也是新方案，外围配置该有的也有，有趣[笑而不语]",
+          "keyPoints": [
+            "屏幕形态",
+            "电池 / 充电",
             "爆料来源"
           ],
           "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
