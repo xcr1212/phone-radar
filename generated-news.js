@@ -1,6 +1,66 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-08-07T20:57:42.148Z",
+  "updatedAt": "2026-08-07T22:54:46.474Z",
   "news": [
+    {
+      "id": "auto-2d790628cd06",
+      "title": "Pixelated 111: Primetime prep for Made By Google",
+      "source": "9to5Google",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-07",
+      "time": "21:37",
+      "publishedAt": "2026-08-07T21:37:17.000Z",
+      "url": "https://9to5google.com/2026/08/07/pixelated-111-primetime-prep-for-made-by-google/",
+      "image": "",
+      "summary": "Welcome to Pixelated episode 111. This week, Damien, Abner, and Will preview what to expect at next week’s official unveiling of the Pixel 11 series, including final rumors, leaks…",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-f349af0d5cf4",
+      "title": "I reviewed the Samsung Galaxy Z Fold 8. It's a foldable revelation I can't stop using",
+      "source": "Android Police",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-07",
+      "time": "21:00",
+      "publishedAt": "2026-08-07T21:00:15.000Z",
+      "url": "https://www.androidpolice.com/samsung-galaxy-z-fold-8-review/",
+      "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2026/08/samsung-galaxy-z-fold-8-in-hand.JPG",
+      "summary": "A foldable that I want to use open and closed",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-545c09fd1e2b",
+      "title": "I took 1,000 photos with the Galaxy Z Fold 8 and Fold 8 Ultra and compared them to my two favorite foldable phones. The results may surprise you",
+      "source": "Android Central",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-08-07",
+      "time": "20:55",
+      "publishedAt": "2026-08-07T20:55:25.000Z",
+      "url": "https://www.androidcentral.com/phones/samsung-galaxy/i-took-1000-photos-with-the-galaxy-z-fold-8-and-fold-8-ultra",
+      "image": "https://cdn.mos.cms.futurecdn.net/YjQadmNfW8tBhBks5KXkGf-1280-80.jpg",
+      "summary": "I spent two weeks testing the Galaxy Z Fold 8 and Fold 8 Ultra cameras, and I captured just over 1,000 photos between the two. Here's how they did and how they compare to Motorola…",
+      "tags": [
+        "Samsung",
+        "评测",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-773a206224a6",
       "title": "This discounted Google Qi2 charger is the perfect way to charge your Pixel 10",
@@ -359,6 +419,26 @@ window.phoneRadarAuto = {
         "Huawei",
         "爆料",
         "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-c24681444d87",
+      "title": "JSCHEN小小狐：原本以为 Pro Max 再怎么砍也有 HP9 原来和 Pro 是同一颗 HP5 吗……？ 根据水印信息整理了下影…",
+      "source": "JSCHEN小小狐",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-08-07",
+      "time": "13:58",
+      "publishedAt": "2026-08-07T13:58:39.000Z",
+      "url": "https://www.coolapk.com/feed/73129148",
+      "image": "http://image.coolapk.com/feed/2026/0807/22/4702274_72bb28c3_2228_8654_353-uhdr@2366x3503.jpg",
+      "summary": "原本以为 Pro Max 再怎么砍也有 HP9 原来和 Pro 是同一颗 HP5 吗……？ 根据水印信息整理了下影像规格： （Pro Max） - 200Mp 1/1.56'' HP5 24mm f/1.68 OIS 主摄 - 50Mp 1/2.75'' JN5 120mm f/3.0 OIS 潜望 - 50Mp 1/2.88'' OV50M 17mm f…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "酷安博主"
       ]
     },
     {
