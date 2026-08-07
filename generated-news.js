@@ -1,6 +1,126 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-08-07T07:40:07.240Z",
+  "updatedAt": "2026-08-07T09:14:29.707Z",
   "news": [
+    {
+      "id": "weibo-d5a82e0505cd",
+      "title": "数码闲聊站：全网最早说阔直板之人，产品定义很顶级，定位不低，核心参数我之前发过，暂未解禁就…",
+      "source": "数码闲聊站",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-08-07",
+      "time": "09:07",
+      "publishedAt": "2026-08-07T09:07:00.000Z",
+      "url": "https://weibo.com/6048569942/RciSOkXPs",
+      "image": "https://tvax4.sinaimg.cn/mw2000/006BlblIgy1ifvbhqt591j30xv18kk4g.jpg",
+      "summary": "全网最早说阔直板之人，产品定义很顶级，定位不低，核心参数我之前发过，暂未解禁就不公开说了。可以明牌的是，新机已ready，这个方案又是行业首发，其它家也在跟进中，但会晚不少[吃瓜]",
+      "tags": [
+        "行业",
+        "爆料",
+        "微博"
+      ]
+    },
+    {
+      "id": "coolapk-user-dbf12ecd0274",
+      "title": "竹本青：【2026年第31周 国内手机市场份额曝光：华为、OPPO、vivo分列前三】 2026 W31 —— 大盘变化不…",
+      "source": "竹本青",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-08-07",
+      "time": "09:02",
+      "publishedAt": "2026-08-07T09:02:57.000Z",
+      "url": "https://www.coolapk.com/feed/73124775",
+      "image": "http://image.coolapk.com/feed/2026/0807/17/4248714_05073ccf_3376_6166_673@1440x1047.jpg",
+      "summary": "【2026年第31周 国内手机市场份额曝光：华为、OPPO、vivo分列前三】 2026 W31 —— 大盘变化不大 1.华为 —— 20.8% 2.OPPO —— 16.1%（含一加3.1%，realme 0.7%） 3.vivo —— 16.0%（含iQOO 4.0%） 4.小米 —— 15.3% 5.苹果 —— 14.2% 6.荣耀 —— 13.5%…",
+      "tags": [
+        "HONOR",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-1f49b6a6e1ca",
+      "title": "The Galaxy Z Fold 8 is the wrong Samsung foldable to buy this year",
+      "source": "Android Authority",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-07",
+      "time": "09:00",
+      "publishedAt": "2026-08-07T09:00:02.000Z",
+      "url": "https://www.androidauthority.com/galaxy-z-fold-8-wrong-samsung-foldable-to-buy-3693569/",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2026/08/Samsung-Galaxy-Z-Fold-8-Ultra-back-panel.jpg",
+      "summary": "It's giving middle-child energy.",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-e296873bd3f1",
+      "title": "Samsung’s latest 200MP sensor could be a fantastic upgrade for Galaxy S27 Ultra",
+      "source": "Android Authority",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-07",
+      "time": "08:32",
+      "publishedAt": "2026-08-07T08:32:00.000Z",
+      "url": "https://www.androidauthority.com/samsung-isocell-hpc-deeppix-camera-galaxy-s27-ultra-3695688/",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2026/05/samsung-galaxy-s26-ultra-pine-tree-scaled.jpg",
+      "summary": "This new sensor could be just what Samsung's flagships need in the wake of LOFIC-equipped camera sensors.",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-df9499488153",
+      "title": "Redmi Note 17 Pro Max global variant appears on Geekbench, reveals chipset, RAM details",
+      "source": "Gizmochina",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-07",
+      "time": "08:25",
+      "publishedAt": "2026-08-07T08:25:56.000Z",
+      "url": "https://www.gizmochina.com/2026/08/07/redmi-note-17-pro-max-global-geekbench-listing/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/08/Redmi-Note-17-Pro-Max-300x279.jpg?x23692",
+      "summary": "The Redmi Note 17 series continues to expand following the recent launch of the Redmi Note 17 5G in India. The company is also expected to introduce the Redmi Note 17 Pro globally…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-4f9ecdf8c31c",
+      "title": "JSCHEN小小狐：荣耀 Robot Phone 预热：钛合金灵巧云台",
+      "source": "JSCHEN小小狐",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-08-07",
+      "time": "07:58",
+      "publishedAt": "2026-08-07T07:58:12.000Z",
+      "url": "https://www.coolapk.com/feed/73123775",
+      "image": "http://image.coolapk.com/feed/2026/0807/15/4702274_92900f90_9490_1397_661@2160x3840.jpg",
+      "summary": "『荣耀 Robot Phone 预热：钛合金灵巧云台』 钛合金云台架构 ◇ 采用航空级钛合金 ◇ 较行业主流云台体积缩减 65% 钛合金云台电机 ◇ 较机器人灵巧手： - 电机体积缩小 34% - 扭矩密度提升 44% ◇ 最大转速达 360° / 秒 盾构钢翻转电机 ◇ 荣耀自研 2100MPa 盾构钢 ◇ 0.5cm³ 含 43 个零件，5 级变速 ◇…",
+      "tags": [
+        "HONOR",
+        "爆料",
+        "酷安博主"
+      ]
+    },
     {
       "id": "auto-77dd47ef8a78",
       "title": "补齐 Pixel 手机功能缺失，谷歌将为安卓系统推出应用锁功能",
@@ -182,26 +302,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-265b9d361385",
-      "title": "小米 REDMI K100 Pro Max 搭载 2.1 立体声系统，Sound by Bose 技术联合调音",
-      "source": "IT之家",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-07",
-      "time": "03:51",
-      "publishedAt": "2026-08-07T03:51:43.000Z",
-      "url": "https://www.ithome.com/0/986/925.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/8/35649a36-efd8-4ccf-baf2-eea87cee40a2.jpg",
-      "summary": "IT之家 8 月 7 日消息，小米今日官宣 REDMI K100 Pro Max 搭载 2.1 立体声系统，全新升级两颗 1115D 全频发声单元、一颗超大独立低音单元，Sound by Bose 技术联合调音。 小米 REDMI K100 Pro Max 将于 8 月 11 日 19:00 发布，提供“赤霞珠红”“流金白”配色。今日早些时候，官方公布这款…",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "coolapk-user-818fc58bb3a1",
       "title": "竹本青：REDMI K100 Pro Max 官宣搭载2.1立体声系统",
       "source": "竹本青",
@@ -217,26 +317,6 @@ window.phoneRadarAuto = {
       "summary": "【REDMI K100 Pro Max 官宣搭载2.1立体声系统：两颗1115D+1620单元】 ● 两颗 1115D全频发声单元 ● 一颗 1620独立低音单元 ● Sound by Bose联合调音 #今日热点# #REDMIK100ProMax# #HyperOS3#",
       "tags": [
         "Xiaomi",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
-      "id": "coolapk-user-1c74cdadb014",
-      "title": "竹本青：三星 ISOCELL HPC 2亿旗舰传感器发布：或由OPPO Find X10系列首发搭载",
-      "source": "竹本青",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-08-07",
-      "time": "02:29",
-      "publishedAt": "2026-08-07T02:29:43.000Z",
-      "url": "https://www.coolapk.com/feed/73119397",
-      "image": "http://image.coolapk.com/feed/2026/0807/10/4248714_bade92b1_0927_6347_87@1438x1918.jpg",
-      "summary": "【三星 ISOCELL HPC 2亿旗舰传感器发布，博主称OPPO Find X10系列将首发搭载】 ● 200Mp 1/1.3\"｜0.6um ● 4K 180fps视频 ● 最高8K 30fps视频 ● 全新DeepPix技术 ● 单帧16-bit HDR ● 1X/1.5X/2X/3X/4X单帧HDR变焦 ● 全焦段HDR #今日热点# #ColorO…",
-      "tags": [
-        "Samsung",
         "爆料",
         "酷安博主"
       ]
@@ -322,26 +402,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-24a841478d70",
-      "title": "最近怎么这么多推胖爸卡贴的，去年的16pm板块暴雷多少了都，我买了四台都是电池鼓包漏液，屏幕弹窗，卡槽歪斜的，怎么还有人推啊，给你们多少钱啊，他家售后也不是一般的差，别坑人了行吗，老老实实用国航。自己用美版就别出来给他发帖子，不怕昧良心吗 #iPhone16ProMax# #iPhone17ProMax#",
-      "source": "酷安热榜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-08-07",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73113907",
-      "image": "",
-      "summary": "最近怎么这么多推胖爸卡贴的，去年的16pm板块暴雷多少了都，我买了四台都是电池鼓包漏液，屏幕弹窗，卡槽歪斜的，怎么还有人推啊，给你们多少钱啊，他家售后也不是一般的差，别坑人了行吗，老老实实用国航。自己用美版就别出来给他发帖子，不怕昧良心吗 #iPhone16ProMax# #iPhone17ProMax#",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
       "id": "newsnow-51420d154b49",
       "title": "iQOO Neo11 至尊版预热：国产2K屏，超9000mAh电池",
       "source": "酷安热榜",
@@ -357,6 +417,26 @@ window.phoneRadarAuto = {
       "summary": "iQOO Neo11 至尊版预热：国产2K屏，超9000mAh电池",
       "tags": [
         "vivo",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-24a841478d70",
+      "title": "最近怎么这么多推胖爸卡贴的，去年的16pm板块暴雷多少了都，我买了四台都是电池鼓包漏液，屏幕弹窗，卡槽歪斜的，怎么还有人推啊，给你们多少钱啊，他家售后也不是一般的差，别坑人了行吗，老老实实用国航。自己用美版就别出来给他发帖子，不怕昧良心吗 #iPhone16ProMax# #iPhone17ProMax#",
+      "source": "酷安热榜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-08-07",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/73113907",
+      "image": "",
+      "summary": "最近怎么这么多推胖爸卡贴的，去年的16pm板块暴雷多少了都，我买了四台都是电池鼓包漏液，屏幕弹窗，卡槽歪斜的，怎么还有人推啊，给你们多少钱啊，他家售后也不是一般的差，别坑人了行吗，老老实实用国航。自己用美版就别出来给他发帖子，不怕昧良心吗 #iPhone16ProMax# #iPhone17ProMax#",
+      "tags": [
+        "iPhone",
         "爆料",
         "NewsNow"
       ]
@@ -382,8 +462,8 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-7b9e1df031fb",
-      "title": "iPhone18Pro十二大升级",
+      "id": "newsnow-292051d11734",
+      "title": "iPhone18Pro系列价格预测",
       "source": "微博热搜",
       "brand": "iPhone",
       "model": "iPhone 相关机型",
@@ -392,9 +472,9 @@ window.phoneRadarAuto = {
       "date": "2026-08-07",
       "time": "",
       "publishedAt": "",
-      "url": "https://s.weibo.com/weibo?q=%23iPhone18Pro%E5%8D%81%E4%BA%8C%E5%A4%A7%E5%8D%87%E7%BA%A7%23&t=31&band_rank=27&Refer=top",
+      "url": "https://s.weibo.com/weibo?q=%23iPhone18Pro%E7%B3%BB%E5%88%97%E4%BB%B7%E6%A0%BC%E9%A2%84%E6%B5%8B%23&t=31&band_rank=10&Refer=top",
       "image": "",
-      "summary": "iPhone18Pro十二大升级",
+      "summary": "iPhone18Pro系列价格预测",
       "tags": [
         "iPhone",
         "爆料",
@@ -818,26 +898,6 @@ window.phoneRadarAuto = {
       "tags": [
         "iPhone",
         "评测",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-91a497958a79",
-      "title": "Samsung’s CTG tech could help minimize crease visibility on Galaxy Z displays, improve screen durability",
-      "source": "SamMobile",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-06",
-      "time": "09:29",
-      "publishedAt": "2026-08-06T09:29:54.000Z",
-      "url": "https://www.sammobile.com/news/samsungs-ctg-tech-could-help-minimize-crease-visibility-galaxy-z-displays-improve-screen-durability/",
-      "image": "",
-      "summary": "Samsung has come a long way with foldable displays for smartphones. For its initial Galaxy Z devices, the brand used colorless polyimide (CPI) before transitioning to ultra-thin g…",
-      "tags": [
-        "Samsung",
-        "爆料",
         "自动抓取"
       ]
     },

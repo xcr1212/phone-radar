@@ -1,14 +1,14 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-08-07T07:40:07.240Z",
+  "updatedAt": "2026-08-07T09:14:29.707Z",
   "issueDate": "2026-08-07",
   "issue": "VOL.260807",
   "title": "手机情报日报",
-  "intro": "今日筛出 9 条重点，其中 8 条是重点爆料，包含 7 条 iPhone 相关、0 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 10 条重点，其中 8 条是重点爆料，包含 9 条 iPhone 相关、1 条官方确认、0 条参数线索。",
   "stats": {
-    "total": 9,
-    "iphone": 7,
+    "total": 10,
+    "iphone": 9,
     "leaks": 8,
-    "official": 0,
+    "official": 1,
     "specs": 0
   },
   "sections": [
@@ -116,29 +116,6 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
-          "id": "auto-265b9d361385",
-          "title": "小米 REDMI K100 Pro Max 搭载 2.1 立体声系统，Sound by Bose 技术联合调音",
-          "originalTitle": "",
-          "source": "IT之家",
-          "brand": "Xiaomi",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-08-07",
-          "time": "03:51",
-          "publishedAt": "2026-08-07T03:51:43.000Z",
-          "url": "https://www.ithome.com/0/986/925.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/8/35649a36-efd8-4ccf-baf2-eea87cee40a2.jpg",
-          "verdict": "先看",
-          "takeaway": "IT之家 8 月 7 日消息，小米今日官宣 REDMI K100 Pro Max 搭载 2.1 立体声系统，全新升级两颗 1115D 全频发声单元、一颗超大独立低音单元，Sound by Bose 技术联合调音。 小米 REDMI K100 Pro Max 将于 8 月 11 日 19:00 发布，提供“赤霞珠红”“流金白”配色。今日早些时候，官方公布这款…",
-          "detail": "IT之家 8 月 7 日消息，小米今日官宣 REDMI K100 Pro Max 搭载 2.1 立体声系统，全新升级两颗 1115D 全频发声单元、一颗超大独立低音单元，Sound by Bose 技术联合调音。 小米 REDMI K100 Pro Max 将于 8 月 11 日 19:00 发布，提供“赤霞珠红”“流金白”配色。今日早些时候，官方公布这款…",
-          "keyPoints": [
-            "外观 / 配色 / 尺寸"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
           "id": "auto-bb03adadd541",
           "title": "iPhone 18 Pro 折叠屏相关消息",
           "originalTitle": "",
@@ -162,29 +139,6 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
-          "id": "newsnow-7b9e1df031fb",
-          "title": "iPhone18Pro十二大升级",
-          "originalTitle": "",
-          "source": "微博热搜",
-          "brand": "iPhone",
-          "type": "爆料",
-          "trust": "待验证",
-          "date": "2026-08-07",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://s.weibo.com/weibo?q=%23iPhone18Pro%E5%8D%81%E4%BA%8C%E5%A4%A7%E5%8D%87%E7%BA%A7%23&t=31&band_rank=27&Refer=top",
-          "image": "",
-          "verdict": "先看",
-          "takeaway": "iPhone18Pro十二大升级",
-          "detail": "iPhone18Pro十二大升级",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
           "id": "auto-823c5a2f1b7c",
           "title": "iPhone 相关消息",
           "originalTitle": "",
@@ -200,6 +154,52 @@ window.phoneRadarDaily = {
           "verdict": "先看",
           "takeaway": "iPhone 相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
           "detail": "iPhone 相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "auto-cb1e41d21b03",
+          "title": "iPhone 18 Pro 发布 / 上市相关消息",
+          "originalTitle": "",
+          "source": "MacRumors",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-08-06",
+          "time": "14:03",
+          "publishedAt": "2026-08-06T14:03:48.000Z",
+          "url": "https://www.macrumors.com/2026/08/06/iphone-18-pro-next-month-12-features/",
+          "image": "https://images.macrumors.com/article-new/2026/04/Four-iPhone-18-Pro-Colors-Mock-Feature.jpg",
+          "verdict": "先看",
+          "takeaway": "iPhone 有发布或新功能消息，适合确认是否和新机有关。",
+          "detail": "iPhone 18 Pro 发布 / 上市相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "auto-337d97bc8c45",
+          "title": "iPhone 18 Pro 芯片 / 性能相关消息",
+          "originalTitle": "",
+          "source": "MacRumors",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-08-06",
+          "time": "13:23",
+          "publishedAt": "2026-08-06T13:23:02.000Z",
+          "url": "https://www.macrumors.com/2026/08/06/apple-scrambling-to-secure-memory/",
+          "image": "https://images.macrumors.com/article-new/2026/02/iPhone-18-Pro-Deep-Red-Feature.jpg",
+          "verdict": "先看",
+          "takeaway": "iPhone 有发布或新功能消息，适合确认是否和新机有关。",
+          "detail": "iPhone 18 Pro 芯片 / 性能相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
           "keyPoints": [
             "爆料"
           ],
@@ -236,6 +236,29 @@ window.phoneRadarDaily = {
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是实际体验内容，买前适合重点看缺点和取舍。",
           "action": "中文源可以直接点开快读；看完只保留和购机有关的点。"
+        },
+        {
+          "id": "auto-9bbf43c61c96",
+          "title": "iPhone 系统功能 / AI 体验相关消息",
+          "originalTitle": "",
+          "source": "Apple Newsroom",
+          "brand": "iPhone",
+          "type": "官方",
+          "trust": "官方确认",
+          "date": "2026-08-07",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://www.apple.com/newsroom/2026/06/apple-announces-changes-to-ios-in-brazil/",
+          "image": "",
+          "verdict": "先看",
+          "takeaway": "iPhone 系统功能 / AI 体验相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
+          "detail": "iPhone 系统功能 / AI 体验相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
+          "keyPoints": [
+            "官方"
+          ],
+          "confidence": "官方内容，可直接作为已确认信息记录。",
+          "impact": "可信度高，但如果不是配置/价格消息，只需要扫一眼。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         }
       ]
     }
