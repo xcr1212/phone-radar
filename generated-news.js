@@ -1,6 +1,86 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-08-07T05:49:31.204Z",
+  "updatedAt": "2026-08-07T07:40:07.240Z",
   "news": [
+    {
+      "id": "auto-77dd47ef8a78",
+      "title": "补齐 Pixel 手机功能缺失，谷歌将为安卓系统推出应用锁功能",
+      "source": "IT之家",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-07",
+      "time": "07:33",
+      "publishedAt": "2026-08-07T07:33:32.000Z",
+      "url": "https://www.ithome.com/0/987/038.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/8/49ecfc94-284c-4ee3-9984-16b2e1db58cf.png?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 8 月 7 日消息，据科技媒体 Android Authority 今天报道，谷歌 Pixel 系列手机多年来一直缺少原生应用锁功能，不过如今 Android Canary 测试版系统将补齐这种缺陷。 据报道，Android Canary 2608 版系统已经实装该功能，正式版系统预计将在后续支持， 更新后的用户可在“设置--> 安全与隐私-->…",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-fc0926d99392",
+      "title": "竹本青：【REDMI 产品经理：K100 Pro系列的工程/设计/项目团队都是K90系列原班人马】 8月7日，REDMI…",
+      "source": "竹本青",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-08-07",
+      "time": "06:36",
+      "publishedAt": "2026-08-07T06:36:07.000Z",
+      "url": "https://www.coolapk.com/feed/73122646",
+      "image": "http://image.coolapk.com/feed/2026/0807/14/4248714_86b9c2f4_4564_6917_696@1440x1543.jpg",
+      "summary": "【REDMI 产品经理：K100 Pro系列的工程/设计/项目团队都是K90系列原班人马】 8月7日，REDMI K100 Pro系列 百位工程师代表集体亮相。产品经理“笋寸”转发介绍，本次K100 Pro系列的工程/设计/项目团队均为K90、K90 Pro Max原班人马。 #RedmiK90ProMax# #今日热点# #REDMIK100ProMax#",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-b6b45a1a0789",
+      "title": "iQOO Neo11 至尊版官宣“下周一见”：国产顶级 2K 屏 + 超大电池",
+      "source": "IT之家",
+      "brand": "vivo",
+      "model": "vivo 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-07",
+      "time": "06:32",
+      "publishedAt": "2026-08-07T06:32:46.000Z",
+      "url": "https://www.ithome.com/0/986/959.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/8/97f4778e-9c87-42a8-8a12-f990cbad7bb1.jpg",
+      "summary": "IT之家 8 月 7 日消息，iQOO Neo 产品经理 @iQOO慧慧子 今日预告 iQOO Neo11 至尊版“下周一见”，届时有望公布更多消息。 据其透露，这款新机将搭载国产顶级 2K 屏、Neo 史上最大电池，外观上从设计到工艺再到配色都进行了认真打磨，更护眼、更耐用、网络更稳定。 IT之家注意到，博主 @数码闲聊站 于 8 月 3 日曝光一款 i…",
+      "tags": [
+        "vivo",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-df9a054a02ef",
+      "title": "Galaxy S26 FE has an interesting Exynos and Snapdragon mix",
+      "source": "SamMobile",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-07",
+      "time": "06:29",
+      "publishedAt": "2026-08-07T06:29:05.000Z",
+      "url": "https://www.sammobile.com/news/galaxy-s26-fe-exynos-snapdragon-mix-interesting/",
+      "image": "https://www.sammobile.com/wp-content/uploads/2026/08/Samsung-Galaxy-S26-FE-FCC-Certification-Exynos-5G-Modem-Snapdragon-Wi-Fi-WLAN.jpg",
+      "summary": "Samsung could unveil the Galaxy S26 FE next month, and the device is expected to exclusively use the company's in-house Exynos chipset. However, the phone's Federal Communications…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-a6838dc593df",
       "title": "Did Samsung just unveil Galaxy S27 Ultra’s new 200MP camera sensor?",
@@ -182,46 +262,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "coolapk-user-f2cdec5efce6",
-      "title": "竹本青：iQOO Neo11 至尊版预热：国产2K屏，超9000mAh电池",
-      "source": "竹本青",
-      "brand": "vivo",
-      "model": "vivo 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-08-07",
-      "time": "02:15",
-      "publishedAt": "2026-08-07T02:15:18.000Z",
-      "url": "https://www.coolapk.com/feed/73119211",
-      "image": "http://image.coolapk.com/feed/2026/0807/11/4248714_c90dbd78_4000_6453_197@1272x1908.jpg",
-      "summary": "【iQOO Neo11 至尊版官方预热：国产2K屏，超9000mAh电池】 官方爆料： ● 国产2K 全新材料 OLED屏 ● 超9000mAh电池 ● 设计/工艺/配色打磨 ● 网络更稳定 ———————————————— 博主爆料： ▫️国产新工艺2K大直屏 ▫️天玑9500深度定制 ▫️9开头电池+100W快充 ▫️3D超声波指纹 ▫️IP68/69…",
-      "tags": [
-        "vivo",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
-      "id": "coolapk-user-4bda35dab5b2",
-      "title": "竹本青：荣耀官宣Robot Phone颈部见证官：瞿颖 #今日热点# #荣耀ROBOTPHONE#",
-      "source": "竹本青",
-      "brand": "HONOR",
-      "model": "HONOR 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-08-07",
-      "time": "01:54",
-      "publishedAt": "2026-08-07T01:54:08.000Z",
-      "url": "https://www.coolapk.com/feed/73118940",
-      "image": "http://image.coolapk.com/feed/2026/0807/09/4248714_439a241a_7647_5885_49@1080x1920.jpg",
-      "summary": "荣耀官宣Robot Phone颈部见证官：瞿颖 #今日热点# #荣耀ROBOTPHONE#",
-      "tags": [
-        "HONOR",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
       "id": "auto-bb03adadd541",
       "title": "iPhone 18 Pro and Foldable iPhone Could Sell Out Fast Due to Memory Shortage",
       "source": "MacRumors",
@@ -302,7 +342,47 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-0ff7ab96ce87",
+      "id": "newsnow-51420d154b49",
+      "title": "iQOO Neo11 至尊版预热：国产2K屏，超9000mAh电池",
+      "source": "酷安热榜",
+      "brand": "vivo",
+      "model": "vivo 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-08-07",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/73119211",
+      "image": "",
+      "summary": "iQOO Neo11 至尊版预热：国产2K屏，超9000mAh电池",
+      "tags": [
+        "vivo",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-73468c9c13b3",
+      "title": "汇总一下今年我最期待的小屏——vivo X500 Pro。",
+      "source": "酷安热榜",
+      "brand": "vivo",
+      "model": "vivo 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-08-07",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/73108460",
+      "image": "",
+      "summary": "汇总一下今年我最期待的小屏——vivo X500 Pro。",
+      "tags": [
+        "vivo",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-7b9e1df031fb",
       "title": "iPhone18Pro十二大升级",
       "source": "微博热搜",
       "brand": "iPhone",
@@ -312,7 +392,7 @@ window.phoneRadarAuto = {
       "date": "2026-08-07",
       "time": "",
       "publishedAt": "",
-      "url": "https://s.weibo.com/weibo?q=%23iPhone18Pro%E5%8D%81%E4%BA%8C%E5%A4%A7%E5%8D%87%E7%BA%A7%23&t=31&band_rank=23&Refer=top",
+      "url": "https://s.weibo.com/weibo?q=%23iPhone18Pro%E5%8D%81%E4%BA%8C%E5%A4%A7%E5%8D%87%E7%BA%A7%23&t=31&band_rank=27&Refer=top",
       "image": "",
       "summary": "iPhone18Pro十二大升级",
       "tags": [
@@ -499,6 +579,26 @@ window.phoneRadarAuto = {
         "iPhone",
         "爆料",
         "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-ec46894ab3e4",
+      "title": "JSCHEN小小狐：今天典藏版的 Pro S 也摆出来了 刚好看下这个防窥屏怎么样 关闭防窥：图 4、图 7 开启防窥：图 5、图 8…",
+      "source": "JSCHEN小小狐",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-08-06",
+      "time": "14:21",
+      "publishedAt": "2026-08-06T14:21:06.000Z",
+      "url": "https://www.coolapk.com/feed/73114152",
+      "image": "http://image.coolapk.com/feed/2026/0806/22/4702274_9af2d4c3_6061_516_256-uhdr@2365x3504.jpg",
+      "summary": "今天典藏版的 Pro S 也摆出来了 刚好看下这个防窥屏怎么样 关闭防窥：图 4、图 7 开启防窥：图 5、图 8 增强防窥效果：图 6、图 9 开启常规防窥对正视亮度影响不是很大，而开启增强防窥后屏幕会明显暗下去不少。不过增强防窥对侧视防窥效果的提升有限，感觉不太必要开。 （另外图 3 是典藏版的素皮 D 壳哈） #华为MateBookXPro2024#…",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "酷安博主"
       ]
     },
     {
