@@ -1,5 +1,5 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-08-07T15:08:14.350Z",
+  "updatedAt": "2026-08-07T17:06:22.686Z",
   "issueDate": "2026-08-07",
   "issue": "VOL.260807",
   "title": "手机情报日报",
@@ -67,6 +67,29 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
+          "id": "auto-6a612d6f2e8d",
+          "title": "iPhone 系统功能 / AI 体验相关消息",
+          "originalTitle": "",
+          "source": "MacRumors",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-08-07",
+          "time": "16:23",
+          "publishedAt": "2026-08-07T16:23:39.000Z",
+          "url": "https://www.macrumors.com/2026/08/07/the-macrumors-show-iphone-air-2/",
+          "image": "",
+          "verdict": "先看",
+          "takeaway": "iPhone 有系统功能或 AI 体验更新，适合关注后续是否影响日常使用。",
+          "detail": "iPhone 系统功能 / AI 体验相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
+          "keyPoints": [
+            "爆料来源"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
           "id": "auto-7effafe5594d",
           "title": "iPhone 18 Pro 折叠屏相关消息",
           "originalTitle": "",
@@ -107,29 +130,6 @@ window.phoneRadarDaily = {
           "detail": "iPhone 相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
           "keyPoints": [
             "爆料来源"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "newsnow-46d2b7bd2d78",
-          "title": "iPhone18Pro十二大升级",
-          "originalTitle": "",
-          "source": "百度热搜",
-          "brand": "iPhone",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-08-07",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://www.baidu.com/s?wd=iPhone18Pro%E5%8D%81%E4%BA%8C%E5%A4%A7%E5%8D%87%E7%BA%A7",
-          "image": "",
-          "verdict": "先看",
-          "takeaway": "iPhone18Pro十二大升级",
-          "detail": "iPhone18Pro十二大升级",
-          "keyPoints": [
-            "爆料"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",

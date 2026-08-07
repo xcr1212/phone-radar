@@ -1,6 +1,106 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-08-07T15:08:14.350Z",
+  "updatedAt": "2026-08-07T17:06:22.686Z",
   "news": [
+    {
+      "id": "auto-8d257a1d4140",
+      "title": "Galaxy Z Fold 8 series tipped to cross 5 million preorders, setting a new record",
+      "source": "SamMobile",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-07",
+      "time": "16:51",
+      "publishedAt": "2026-08-07T16:51:00.000Z",
+      "url": "https://www.sammobile.com/news/galaxy-z-fold-8-series-tipped-cross-5-million-preorders-setting-new-record/",
+      "image": "",
+      "summary": "Samsung, just a few days after opening preorders for the Galaxy Z Fold 8 Ultra, Galaxy Z Fold 8, and Galaxy Z Flip 8, announced that the new foldables had achieved record-breaking…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-d8abd1360579",
+      "title": "The best Samsung Galaxy Z Flip 8 deals — trade-in discounts, free gift cards, and more",
+      "source": "Android Central",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-08-07",
+      "time": "16:26",
+      "publishedAt": "2026-08-07T16:26:09.000Z",
+      "url": "https://www.androidcentral.com/phones/samsung-galaxy/best-samsung-galaxy-z-flip-8-deals-of-the-month-2026",
+      "image": "https://cdn.mos.cms.futurecdn.net/ogWaK4kaTE3xc3p8XU7weM-1280-80.jpg",
+      "summary": "The Galaxy Z Flip 8 has finally hit store shelves, and I'm hard at work tracking down the best deals from across the web.",
+      "tags": [
+        "Samsung",
+        "评测",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-6a612d6f2e8d",
+      "title": "The MacRumors Show: iPhone Air 2 - What Changes After a Difficult First Year",
+      "source": "MacRumors",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-07",
+      "time": "16:23",
+      "publishedAt": "2026-08-07T16:23:39.000Z",
+      "url": "https://www.macrumors.com/2026/08/07/the-macrumors-show-iphone-air-2/",
+      "image": "",
+      "summary": "The iPhone Air reaches one year on sale next month, and Apple is now closer to launching its successor than it is to the original's debut. On this week's episode of The MacRumors…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-67236ba101ba",
+      "title": "Apple seems to have abandoned Cinematic mode, and that’s a mistake",
+      "source": "9to5Mac",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-07",
+      "time": "16:00",
+      "publishedAt": "2026-08-07T16:00:00.000Z",
+      "url": "https://9to5mac.com/2026/08/07/apple-seems-to-have-abandoned-cinematic-mode-and-thats-a-mistake/",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/Apple-seems-to-have-abandoned-Cinematic-mode-and-thats-a-mistake.jpg?quality=82&strip=all&w=1600",
+      "summary": "When Apple unveiled the iPhone 13 back in 2021, it made a huge deal over a headline new feature, Cinematic mode . This is the video equivalent of Portrait mode, allowing you to se…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-853e9cd0e61a",
+      "title": "I gathered all of the best Samsung Galaxy Z Fold 8 launch deals into this guide — free phones, leftover preorder discounts, and more",
+      "source": "Android Central",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-08-07",
+      "time": "15:25",
+      "publishedAt": "2026-08-07T15:25:15.000Z",
+      "url": "https://www.androidcentral.com/phones/samsung-galaxy/best-samsung-galaxy-z-fold-8-deals-z-fold-8-ultra-discounts-2026",
+      "image": "https://cdn.mos.cms.futurecdn.net/WExALYGSatwUuFbyze7jh3-1280-80.jpg",
+      "summary": "We just got our first look at the Samsung Galaxy Z Fold 8 and Z Fold 8 Ultra, and I'm already hard at work tracking down the best deals so you don't have to.",
+      "tags": [
+        "Samsung",
+        "评测",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-8fa9cc5f304b",
       "title": "Samsung’s Z Fold 8 Ultra is more of the same, but better than ever",
@@ -762,6 +862,26 @@ window.phoneRadarAuto = {
       ]
     },
     {
+      "id": "newsnow-8e80aad1b98c",
+      "title": "iQOO Neo11 至尊版外观泄露：横向双摄模组",
+      "source": "酷安热榜",
+      "brand": "vivo",
+      "model": "vivo 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-08-07",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/73125660",
+      "image": "",
+      "summary": "iQOO Neo11 至尊版外观泄露：横向双摄模组",
+      "tags": [
+        "vivo",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
       "id": "newsnow-89f5a013af12",
       "title": "消息称 iPhone 18 系列备货遇阻，处理器充足但内存短缺",
       "source": "酷安热榜",
@@ -802,46 +922,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-8e80aad1b98c",
-      "title": "iQOO Neo11 至尊版外观泄露：横向双摄模组",
-      "source": "酷安热榜",
-      "brand": "vivo",
-      "model": "vivo 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-08-07",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73125660",
-      "image": "",
-      "summary": "iQOO Neo11 至尊版外观泄露：横向双摄模组",
-      "tags": [
-        "vivo",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-9c736511a676",
-      "title": "iPhone18Pro起售或破万",
-      "source": "微博热搜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "待验证",
-      "date": "2026-08-07",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://s.weibo.com/weibo?q=iPhone18Pro%E8%B5%B7%E5%94%AE%E6%88%96%E7%A0%B4%E4%B8%87&t=31&band_rank=27&Refer=top",
-      "image": "",
-      "summary": "iPhone18Pro起售或破万",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
       "id": "newsnow-56d6e1bbeb93",
       "title": "怎么看待黄山一位老人手机拍照被疯狂弹广告的事件？",
       "source": "知乎热榜",
@@ -862,21 +942,21 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-46d2b7bd2d78",
-      "title": "iPhone18Pro十二大升级",
-      "source": "百度热搜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
+      "id": "newsnow-011ec8c92950",
+      "title": "2名小孩玩手机低头幅度近乎折叠",
+      "source": "今日头条热榜",
+      "brand": "行业",
+      "model": "智能手机市场",
       "type": "爆料",
       "trust": "媒体汇总",
       "date": "2026-08-07",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.baidu.com/s?wd=iPhone18Pro%E5%8D%81%E4%BA%8C%E5%A4%A7%E5%8D%87%E7%BA%A7",
+      "url": "https://www.toutiao.com/trending/7670846175725322294/",
       "image": "",
-      "summary": "iPhone18Pro十二大升级",
+      "summary": "2名小孩玩手机低头幅度近乎折叠",
       "tags": [
-        "iPhone",
+        "行业",
         "爆料",
         "NewsNow"
       ]
