@@ -1,6 +1,106 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-08-08T10:50:19.990Z",
+  "updatedAt": "2026-08-08T13:11:11.190Z",
   "news": [
+    {
+      "id": "auto-92d5d5955c70",
+      "title": "Huawei vs Samsung: Key difference in their privacy display tech",
+      "source": "Huawei Central",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-08",
+      "time": "12:58",
+      "publishedAt": "2026-08-08T12:58:30.000Z",
+      "url": "https://www.huaweicentral.com/huawei-vs-samsung-key-difference-in-their-privacy-display-tech/",
+      "image": "https://www.huaweicentral.com/wp-content/uploads/2026/08/Privacy-Display.jpg",
+      "summary": "Huawei MateBook Pro S is the world’s first PC with the Privacy Display tech, something similar to the Samsung Galaxy S26 Ultra smartphone, but slightly better! How? Well, here is…",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-25ec1d236026",
+      "title": "竹本青：【江苏省人民政府与华为技术有限公司签署深化战略合作协议】 近日，江苏省人民政府与华为技术有限公司在南京签署深化战略…",
+      "source": "竹本青",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-08-08",
+      "time": "12:48",
+      "publishedAt": "2026-08-08T12:48:57.000Z",
+      "url": "https://www.coolapk.com/feed/73142782",
+      "image": "http://image.coolapk.com/feed/2026/0808/20/4248714_406408e4_3153_1491_11@1280x879.jpg",
+      "summary": "【江苏省人民政府与华为技术有限公司签署深化战略合作协议】 近日，江苏省人民政府与华为技术有限公司在南京签署深化战略合作协议。 根据协议，双方将发挥各自优势，以人工智能为核心牵引，协同推进人工智能公共算力中心、城市公共云、数据基础设施、人工智能赋能科学研究及社会治理等重点领域建设。 此外，在鸿蒙PC产业和国产化计算产业创新、开源鸿蒙产业和生态构建、数智专业人…",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "coolapk-user-d319a83768e6",
+      "title": "JSCHEN小小狐：『尼康 Z70 现身苹果 ProRes / RAW 授权列表』 8 月 8 日最新消息，苹果官网「Apple Pr…",
+      "source": "JSCHEN小小狐",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-08-08",
+      "time": "11:57",
+      "publishedAt": "2026-08-08T11:57:24.000Z",
+      "url": "https://www.coolapk.com/feed/73142153",
+      "image": "http://image.coolapk.com/feed/2026/0808/19/4702274_bd66e36e_0241_9008_104@3072x1824.png",
+      "summary": "『尼康 Z70 现身苹果 ProRes / RAW 授权列表』 8 月 8 日最新消息，苹果官网「Apple ProRes 和 ProRes RAW 授权产品」页面的机型列表中赫然出现了尼康全新 APS-C 相机 Z70 的身影。 这意味着，尼康 Z70 将成为尼康 DX 系统首款支持 ProRes / ProRes RAW 内录的无反机身。 根据部分信息…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "weibo-84675cbc24c4",
+      "title": "数码闲聊站：尬聊一下，关于折叠屏你们更喜欢那种？ A，大折叠——更大电池+更强影像+商务办…",
+      "source": "数码闲聊站",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-08-08",
+      "time": "11:05",
+      "publishedAt": "2026-08-08T11:05:00.000Z",
+      "url": "https://weibo.com/6048569942/Rct5cD6lh",
+      "image": "",
+      "summary": "尬聊一下，关于折叠屏你们更喜欢那种？ A，大折叠——更大电池+更强影像+商务办公 B，阔折叠——更小巧便携+影音娱乐",
+      "tags": [
+        "行业",
+        "爆料",
+        "微博"
+      ]
+    },
+    {
+      "id": "auto-8e5321897377",
+      "title": "I was excited about the Pixel 11 Pro Fold until Google showed me what it's offering",
+      "source": "Android Police",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-08",
+      "time": "11:00",
+      "publishedAt": "2026-08-08T11:00:16.000Z",
+      "url": "https://www.androidpolice.com/i-was-excited-about-the-pixel-11-pro-fold-until-google-showed-me-what-its-offering/",
+      "image": "",
+      "summary": "Cue disappointment",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-9fc62671433a",
       "title": "Huawei has a small foldable device in the making",
@@ -282,46 +382,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-85803cc479aa",
-      "title": "消息称荣耀“在看”阔屏手机，目前尚未立项",
-      "source": "IT之家",
-      "brand": "HONOR",
-      "model": "HONOR 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-08",
-      "time": "05:56",
-      "publishedAt": "2026-08-08T05:56:22.000Z",
-      "url": "https://www.ithome.com/0/987/306.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/8/a963d64d-74bd-4a18-91f4-82cedd2ef854.png",
-      "summary": "IT之家 8 月 8 日消息，博主 @数码闲聊站 今日爆料称：“耀子（指荣耀）好像也在看阔屏，但目前还没立项，等等再看看，如果要做，希望做个大屏版，目前市面上两家都是 6.3-6.4\"”。 IT之家注意到，目前华为、OPPO 等厂商已经被曝出将推出阔直屏新机。 今年 5 月， 该博主曾爆料华为 6.39 英寸阔直板机的屏幕比例更接近 16:10 ，基本就是…",
-      "tags": [
-        "HONOR",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "coolapk-user-21dbb6397b41",
-      "title": "竹本青：【徐洁云回顾小米10 Pro海外版包装文案舆论：对仗义执言一直心怀感激】 8月8日，小米高管徐洁云转发「小米手机海…",
-      "source": "竹本青",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-08-08",
-      "time": "05:32",
-      "publishedAt": "2026-08-08T05:32:09.000Z",
-      "url": "https://www.coolapk.com/feed/73137181",
-      "image": "http://image.coolapk.com/feed/2026/0808/13/4248714_5f77e5bb_7127_392_49@1271x1150.jpg",
-      "summary": "【徐洁云回顾小米10 Pro海外版包装文案舆论：对仗义执言一直心怀感激】 8月8日，小米高管徐洁云转发「小米手机海外市场包装最新文案」相关回顾博文，并评论道：“对仗义执言一直心怀感激。我们还是要做诚实的人，正直的人，不说谎话的人。” 2020年，小米10 Pro海外版包装盒印有“轻松访问您最常使用的谷歌应用”文案，被不少网友解读为刻意嘲讽华为，引发大规模舆…",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
       "id": "auto-f83e51f8643e",
       "title": "iQOO Neo 11 Ultra real-life images reveal new horizontal camera module",
       "source": "Gizmochina",
@@ -457,26 +517,6 @@ window.phoneRadarAuto = {
       "summary": "2026年第31周国内手机市场份额曝光：华为居首",
       "tags": [
         "Huawei",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-34d47420e264",
-      "title": "iPhone 18 Pro升级曝光",
-      "source": "抖音热点",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "待验证",
-      "date": "2026-08-08",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.douyin.com/hot/2600808",
-      "image": "",
-      "summary": "iPhone 18 Pro升级曝光",
-      "tags": [
-        "iPhone",
         "爆料",
         "NewsNow"
       ]
@@ -619,26 +659,6 @@ window.phoneRadarAuto = {
         "Samsung",
         "爆料",
         "自动抓取"
-      ]
-    },
-    {
-      "id": "coolapk-user-4d1431f2fba7",
-      "title": "竹本青：微信上线撤回提示删除功能，仅可清除本机页面痕迹",
-      "source": "竹本青",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-08-07",
-      "time": "18:06",
-      "publishedAt": "2026-08-07T18:06:10.000Z",
-      "url": "https://www.coolapk.com/feed/73132351",
-      "image": "http://image.coolapk.com/feed/2026/0808/02/4248714_afcb77ce_5969_0986_717@1078x460.jpg",
-      "summary": "【微信上线撤回提示删除功能，仅可清除本机页面痕迹】 日前，微信宣布更新一项聊天功能：用户撤回消息后，可长按“你撤回了一条消息”，选择删除该提示文字。 需注意，该操作仅删除自己设备聊天界面的提示，方便截图、存档整理聊天记录；对方聊天窗口依旧会正常看到撤回提示，不会同步消除对方端显示。 ＊该功能正逐步覆盖iOS和Android端用户 #今日热点# #微信# #…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "酷安博主"
       ]
     },
     {
@@ -922,26 +942,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-f3230e735655",
-      "title": "Huawei wide non-foldable phone could belong to Pura X series",
-      "source": "Huawei Central",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-07",
-      "time": "10:56",
-      "publishedAt": "2026-08-07T10:56:58.000Z",
-      "url": "https://www.huaweicentral.com/huawei-wide-non-foldable-phone-could-belong-to-pura-x-series/",
-      "image": "https://www.huaweicentral.com/wp-content/uploads/2026/07/Pura90sProMax-1.jpg",
-      "summary": "Huawei is seemingly working on a wide, non-foldable phone that may debut by the end of this year in the Pura X series. While the device’s identity and name remain a big mystery, a…",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "weibo-73371a11a44f",
       "title": "数码闲聊站：K100 Pro Max今日份信息汇总： 影像——200Mp F1.68光圈大…",
       "source": "数码闲聊站",
@@ -1182,26 +1182,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "weibo-9a244e266874",
-      "title": "数码闲聊站：ISOCELL HPC至高支持4X HDR变焦，其实也很适合做长焦，如果超大杯…",
-      "source": "数码闲聊站",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-08-07",
-      "time": "04:13",
-      "publishedAt": "2026-08-07T04:13:00.000Z",
-      "url": "https://weibo.com/6048569942/RcgXtyEsb",
-      "image": "",
-      "summary": "ISOCELL HPC至高支持4X HDR变焦，其实也很适合做长焦，如果超大杯升级200Mp 1/1.3\" HPC+50Mp 1/1.95\" 10X，你们觉得怎么样[偷乐]",
-      "tags": [
-        "行业",
-        "爆料",
-        "微博"
-      ]
-    },
-    {
       "id": "auto-c2cb6a5fa7c4",
       "title": "Redmi K100 Pro Max camera samples are here, highlighting 200MP main, 5x periscope camera capabilities",
       "source": "Gizmochina",
@@ -1217,26 +1197,6 @@ window.phoneRadarAuto = {
       "summary": "Redmi has shared a closer look at the K100 Pro Max ahead of its launch, revealing official camera samples along with additional details about its imaging hardware. The company is…",
       "tags": [
         "Xiaomi",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-fb6fc83c627e",
-      "title": "iQOO Neo 11 Ultra officially confirmed to be revealed on August 10",
-      "source": "Gizmochina",
-      "brand": "vivo",
-      "model": "vivo 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-07",
-      "time": "03:55",
-      "publishedAt": "2026-08-07T03:55:50.000Z",
-      "url": "https://www.gizmochina.com/2026/08/07/iqoo-neo-11-ultra-teaser-released/",
-      "image": "https://www.gizmochina.com/wp-content/uploads/2026/08/iQOO-Neo-11-Ultra-teaser-216x300.png?x23692",
-      "summary": "Several reports have claimed that iQOO will unveil a new Neo-series phone in China. Rumors claimed that it could be a minor upgrade over the existing Neo 11, which is why it was t…",
-      "tags": [
-        "vivo",
         "爆料",
         "自动抓取"
       ]

@@ -1,5 +1,5 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-08-08T10:50:19.990Z",
+  "updatedAt": "2026-08-08T13:11:11.190Z",
   "issueDate": "2026-08-08",
   "issue": "VOL.260808",
   "title": "手机情报日报",
@@ -60,6 +60,29 @@ window.phoneRadarDaily = {
             "爆料来源"
           ],
           "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "coolapk-user-d319a83768e6",
+          "title": "JSCHEN小小狐：『尼康 Z70 现身苹果 ProRes / RAW 授权列表』 8 月 8 日最新消息，苹果官网「Apple Pr…",
+          "originalTitle": "",
+          "source": "JSCHEN小小狐",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "高可信爆料",
+          "date": "2026-08-08",
+          "time": "11:57",
+          "publishedAt": "2026-08-08T11:57:24.000Z",
+          "url": "https://www.coolapk.com/feed/73142153",
+          "image": "http://image.coolapk.com/feed/2026/0808/19/4702274_bd66e36e_0241_9008_104@3072x1824.png",
+          "verdict": "先看",
+          "takeaway": "『尼康 Z70 现身苹果 ProRes / RAW 授权列表』 8 月 8 日最新消息，苹果官网「Apple ProRes 和 ProRes RAW 授权产品」页面的机型列表中赫然出现了尼康全新 APS-C 相机 Z70 的身影。 这意味着，尼康 Z70 将成为尼康 DX 系统首款支持 ProRes / ProRes RAW 内录的无反机身。 根据部分信息…",
+          "detail": "『尼康 Z70 现身苹果 ProRes / RAW 授权列表』 8 月 8 日最新消息，苹果官网「Apple ProRes 和 ProRes RAW 授权产品」页面的机型列表中赫然出现了尼康全新 APS-C 相机 Z70 的身影。 这意味着，尼康 Z70 将成为尼康 DX 系统首款支持 ProRes / ProRes RAW 内录的无反机身。 根据部分信息…",
+          "keyPoints": [
+            "影像硬件"
+          ],
+          "confidence": "可信度较高，但仍属于发布前线索。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
@@ -128,29 +151,6 @@ window.phoneRadarDaily = {
           "keyPoints": [
             "成本 / 价格",
             "爆料来源"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "newsnow-34d47420e264",
-          "title": "iPhone 18 Pro升级曝光",
-          "originalTitle": "",
-          "source": "抖音热点",
-          "brand": "iPhone",
-          "type": "爆料",
-          "trust": "待验证",
-          "date": "2026-08-08",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://www.douyin.com/hot/2600808",
-          "image": "",
-          "verdict": "先看",
-          "takeaway": "iPhone 18 Pro升级曝光",
-          "detail": "iPhone 18 Pro升级曝光",
-          "keyPoints": [
-            "爆料"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
