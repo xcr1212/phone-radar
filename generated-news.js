@@ -1,5 +1,5 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-08-08T20:46:54.653Z",
+  "updatedAt": "2026-08-08T22:45:56.300Z",
   "news": [
     {
       "id": "auto-8fe213a90147",
@@ -582,27 +582,7 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-2da18f050a41",
-      "title": "不开玩笑，k100pm音质不如我的k80至尊，k100pm低音很轻（音效调节我也调过了）对比没有k80至尊的低音动次打次很重下沉我转头就走了，所谓的低音炮唉 很缩水呀，k100pm外观我是很喜欢的，后续有点纠结买不买了，毕竟音质鲜明差距#REDMIK80至尊版#",
-      "source": "酷安热榜",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-08-08",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73138167",
-      "image": "",
-      "summary": "不开玩笑，k100pm音质不如我的k80至尊，k100pm低音很轻（音效调节我也调过了）对比没有k80至尊的低音动次打次很重下沉我转头就走了，所谓的低音炮唉 很缩水呀，k100pm外观我是很喜欢的，后续有点纠结买不买了，毕竟音质鲜明差距#REDMIK80至尊版#",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-1814d489ada9",
+      "id": "newsnow-61012b987a07",
       "title": "这种手机壳可能是医疗垃圾做的",
       "source": "微博热搜",
       "brand": "行业",
@@ -612,7 +592,7 @@ window.phoneRadarAuto = {
       "date": "2026-08-08",
       "time": "",
       "publishedAt": "",
-      "url": "https://s.weibo.com/weibo?q=%23%E8%BF%99%E7%A7%8D%E6%89%8B%E6%9C%BA%E5%A3%B3%E5%8F%AF%E8%83%BD%E6%98%AF%E5%8C%BB%E7%96%97%E5%9E%83%E5%9C%BE%E5%81%9A%E7%9A%84%23&t=31&band_rank=13&Refer=top",
+      "url": "https://s.weibo.com/weibo?q=%23%E8%BF%99%E7%A7%8D%E6%89%8B%E6%9C%BA%E5%A3%B3%E5%8F%AF%E8%83%BD%E6%98%AF%E5%8C%BB%E7%96%97%E5%9E%83%E5%9C%BE%E5%81%9A%E7%9A%84%23&t=31&band_rank=12&Refer=top",
       "image": "",
       "summary": "这种手机壳可能是医疗垃圾做的",
       "tags": [
