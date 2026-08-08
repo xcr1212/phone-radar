@@ -1,6 +1,26 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-08-08T16:51:10.783Z",
+  "updatedAt": "2026-08-08T18:57:18.817Z",
   "news": [
+    {
+      "id": "auto-8fe213a90147",
+      "title": "Why you should buy iPhone 17 Pro now instead of waiting",
+      "source": "9to5Mac",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-08",
+      "time": "18:13",
+      "publishedAt": "2026-08-08T18:13:25.000Z",
+      "url": "https://9to5mac.com/2026/08/08/buy-iphone-17-pro-vs-iphone-18-pro/",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/11/iphone-17-pro-pro-max-orange-blue.jpg?quality=82&strip=all&w=1600",
+      "summary": "Apple is set to unveil the iPhone 18 Pro next month. Should you buy an iPhone now or wait for the iPhone 18 Pro? This year, my advice is a bit different. Here’s why.",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-9a0a430449e0",
       "title": "Pixel 11 Pro XL shows up in hands-on leak days ahead of launch [Gallery]",
@@ -73,7 +93,7 @@ window.phoneRadarAuto = {
       "time": "15:09",
       "publishedAt": "2026-08-08T15:09:04.000Z",
       "url": "https://www.gizmochina.com/2026/08/08/pixel-11-pro-xl-retail-boxes-show-up-on-turkish-grey-market-with-1700-price-tag/",
-      "image": "",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/08/HPIxRcHWUAAKIeH-300x169.jpg?x23692",
       "summary": "Every now and then, unannounced Pixel devices start popping up in weird places before Google officially says a word. This time it’s the next big-screen Pixel that’s allegedly alre…",
       "tags": [
         "Pixel",
@@ -602,7 +622,7 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-9787940b2b69",
+      "id": "newsnow-61012b987a07",
       "title": "这种手机壳可能是医疗垃圾做的",
       "source": "微博热搜",
       "brand": "行业",
@@ -612,7 +632,7 @@ window.phoneRadarAuto = {
       "date": "2026-08-08",
       "time": "",
       "publishedAt": "",
-      "url": "https://s.weibo.com/weibo?q=%23%E8%BF%99%E7%A7%8D%E6%89%8B%E6%9C%BA%E5%A3%B3%E5%8F%AF%E8%83%BD%E6%98%AF%E5%8C%BB%E7%96%97%E5%9E%83%E5%9C%BE%E5%81%9A%E7%9A%84%23&t=31&band_rank=2&Refer=top",
+      "url": "https://s.weibo.com/weibo?q=%23%E8%BF%99%E7%A7%8D%E6%89%8B%E6%9C%BA%E5%A3%B3%E5%8F%AF%E8%83%BD%E6%98%AF%E5%8C%BB%E7%96%97%E5%9E%83%E5%9C%BE%E5%81%9A%E7%9A%84%23&t=31&band_rank=12&Refer=top",
       "image": "",
       "summary": "这种手机壳可能是医疗垃圾做的",
       "tags": [
