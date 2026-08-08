@@ -1,5 +1,5 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-08-08T13:11:11.190Z",
+  "updatedAt": "2026-08-08T14:48:45.553Z",
   "news": [
     {
       "id": "auto-92d5d5955c70",
@@ -302,46 +302,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-c47efcc1f221",
-      "title": "iQOO Neo11 至尊版外观曝光：乘风 / 驰光白配色、横向双摄模组，新机“下周一见”",
-      "source": "IT之家",
-      "brand": "vivo",
-      "model": "vivo 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-08",
-      "time": "06:39",
-      "publishedAt": "2026-08-08T06:39:42.000Z",
-      "url": "https://www.ithome.com/0/987/320.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/8/65dec2bc-7cf4-4949-a3c9-c89f215cd506.png?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 8 月 8 日消息，博主 @体验more 今日曝光了 iQOO Neo11 至尊版的外观， 新机采用横向双摄模组设计 ，将提供乘风和驰光白配色。 据IT之家昨日报道，iQOO Neo 产品经理 @iQOO慧慧子 预告 iQOO Neo11 至尊版“ 下周一见 ”，届时有望公布更多消息。 据其透露，这款新机将搭载国产顶级 2K 屏、Neo 史上最大…",
-      "tags": [
-        "vivo",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-2af04acfa2b4",
-      "title": "三星 Galaxy A18 手机跑分曝光：4GB 内存、联发科 Helio G99 芯片",
-      "source": "IT之家",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-08",
-      "time": "06:39",
-      "publishedAt": "2026-08-08T06:39:27.000Z",
-      "url": "https://www.ithome.com/0/987/319.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/7/8c06bf2e-d6eb-4250-859a-245b9c389be6.jpg?x-bce-process=image/auto-orient,o_1",
-      "summary": "IT之家 8 月 8 日消息，科技媒体 sammyfans 昨日（8 月 7 日）发布博文，指出三星 Galaxy A18 手机的 GeekBench 跑分曝光， 从规格来看是 2015 年的内存配置、2022 年的芯片配置以及 2026 年的系统。 在内存方面，根据页面信息 Galaxy A18 手机将会配备 4GB 内存，作为对比，Galaxy A17…",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-c18f91578c4b",
       "title": "iQOO Z11 gets a 6.83-inch curved AMOLED display and narrow frame",
       "source": "Gizmochina",
@@ -522,6 +482,46 @@ window.phoneRadarAuto = {
       ]
     },
     {
+      "id": "newsnow-d9d69d70d9f6",
+      "title": "这种手机壳可能是医疗垃圾做的",
+      "source": "微博热搜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "待验证",
+      "date": "2026-08-08",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://s.weibo.com/weibo?q=%23%E8%BF%99%E7%A7%8D%E6%89%8B%E6%9C%BA%E5%A3%B3%E5%8F%AF%E8%83%BD%E6%98%AF%E5%8C%BB%E7%96%97%E5%9E%83%E5%9C%BE%E5%81%9A%E7%9A%84%23&t=31&band_rank=18&Refer=top",
+      "image": "",
+      "summary": "这种手机壳可能是医疗垃圾做的",
+      "tags": [
+        "行业",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-7c2714b9a635",
+      "title": "上半年国内手机销量TOP30出炉",
+      "source": "今日头条热榜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-08",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.toutiao.com/trending/7670854651357904947/",
+      "image": "",
+      "summary": "上半年国内手机销量TOP30出炉",
+      "tags": [
+        "行业",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
       "id": "auto-2d790628cd06",
       "title": "Pixelated 111: Primetime prep for Made By Google",
       "source": "9to5Google",
@@ -639,26 +639,6 @@ window.phoneRadarAuto = {
         "行业",
         "爆料",
         "酷安博主"
-      ]
-    },
-    {
-      "id": "auto-f7e599e2211f",
-      "title": "What to expect from the Samsung Galaxy S26 FE: Specs, colors, and release window",
-      "source": "Android Police",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-07",
-      "time": "18:38",
-      "publishedAt": "2026-08-07T18:38:29.000Z",
-      "url": "https://www.androidpolice.com/what-to-expect-from-the-samsung-galaxy-s26-fe-specs-colors-and-release-window/",
-      "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2025/09/samsung-galaxy-s25-fe-blue-background.jpg",
-      "summary": "FCC documents show dual silicon roles",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
       ]
     },
     {
@@ -1142,26 +1122,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-df9a054a02ef",
-      "title": "Galaxy S26 FE has an interesting Exynos and Snapdragon mix",
-      "source": "SamMobile",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-07",
-      "time": "06:29",
-      "publishedAt": "2026-08-07T06:29:05.000Z",
-      "url": "https://www.sammobile.com/news/galaxy-s26-fe-exynos-snapdragon-mix-interesting/",
-      "image": "https://www.sammobile.com/wp-content/uploads/2026/08/Samsung-Galaxy-S26-FE-FCC-Certification-Exynos-5G-Modem-Snapdragon-Wi-Fi-WLAN.jpg",
-      "summary": "Samsung could unveil the Galaxy S26 FE next month, and the device is expected to exclusively use the company's in-house Exynos chipset. However, the phone's Federal Communications…",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-be9ccce1d17e",
       "title": "Galaxy S26 FE leaked firmware reveals Horizontal Lock camera feature",
       "source": "Gizmochina",
@@ -1177,26 +1137,6 @@ window.phoneRadarAuto = {
       "summary": "The Galaxy S26 FE looks set to pick up one of the more useful camera upgrades introduced this year. A practical software feature that keeps video footage level is showing clear si…",
       "tags": [
         "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-c2cb6a5fa7c4",
-      "title": "Redmi K100 Pro Max camera samples are here, highlighting 200MP main, 5x periscope camera capabilities",
-      "source": "Gizmochina",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-07",
-      "time": "04:11",
-      "publishedAt": "2026-08-07T04:11:50.000Z",
-      "url": "https://www.gizmochina.com/2026/08/07/redmi-k100-pro-camera-specs-samples-confirmed/",
-      "image": "https://www.gizmochina.com/wp-content/uploads/2026/08/Redmi-K100-Pro-Max-cameras--300x203.jpg?x23692",
-      "summary": "Redmi has shared a closer look at the K100 Pro Max ahead of its launch, revealing official camera samples along with additional details about its imaging hardware. The company is…",
-      "tags": [
-        "Xiaomi",
         "爆料",
         "自动抓取"
       ]
