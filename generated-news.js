@@ -1,6 +1,46 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-08-08T07:13:39.854Z",
+  "updatedAt": "2026-08-08T08:58:35.273Z",
   "news": [
+    {
+      "id": "auto-175b6c5adfa6",
+      "title": "小米 REDMI K100 Pro 系列真机官宣进驻线下门店，还有一款浅蓝配色",
+      "source": "IT之家",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-08",
+      "time": "08:35",
+      "publishedAt": "2026-08-08T08:35:38.000Z",
+      "url": "https://www.ithome.com/0/987/370.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/8/d6c1353c-7619-4753-a6aa-0e25156e650b.png?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 8 月 8 日消息，据小米 REDMI 产品经理胡馨心分享， 小米 REDMI K100 Pro 系列真机已抵达线下门店 。博主 @薄文理 分享了真机图片。 从图片可以看到， 小米 REDMI K100 Pro 系列手机还有一款浅蓝配色 。 据IT之家此前报道，小米 REDMI K100 Pro Max 将于 8 月 11 日 19:00 发布，…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "weibo-b237ac09252d",
+      "title": "数码闲聊站：下个月手机新品大轰炸，9月上旬预计有2-3家，比如备受瞩目的iPhone 18…",
+      "source": "数码闲聊站",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-08-08",
+      "time": "07:39",
+      "publishedAt": "2026-08-08T07:39:24.000Z",
+      "url": "https://weibo.com/6048569942/RcrJLaOW9",
+      "image": "",
+      "summary": "下个月手机新品大轰炸，9月上旬预计有2-3家，比如备受瞩目的iPhone 18 Pro系列和阔折叠；9月中下旬预计有5-6家，全都是重量级新旗舰[并不简单]",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "微博"
+      ]
+    },
     {
       "id": "auto-c47efcc1f221",
       "title": "iQOO Neo11 至尊版外观曝光：乘风 / 驰光白配色、横向双摄模组，新机“下周一见”",
@@ -242,27 +282,7 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-06d1bf8f5d3b",
-      "title": "iPhone18系列发布节奏",
-      "source": "微博热搜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "待验证",
-      "date": "2026-08-08",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://s.weibo.com/weibo?q=%23iPhone18%E7%B3%BB%E5%88%97%E5%8F%91%E5%B8%83%E8%8A%82%E5%A5%8F%23&t=31&band_rank=17&Refer=top",
-      "image": "",
-      "summary": "iPhone18系列发布节奏",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-245c78060f27",
+      "id": "newsnow-2033745529a3",
       "title": "小心这种手机壳正在偷拍你的隐私",
       "source": "微博热搜",
       "brand": "行业",
@@ -272,7 +292,7 @@ window.phoneRadarAuto = {
       "date": "2026-08-08",
       "time": "",
       "publishedAt": "",
-      "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E5%BF%83%E8%BF%99%E7%A7%8D%E6%89%8B%E6%9C%BA%E5%A3%B3%E6%AD%A3%E5%9C%A8%E5%81%B7%E6%8B%8D%E4%BD%A0%E7%9A%84%E9%9A%90%E7%A7%81%23&t=31&band_rank=20&Refer=top",
+      "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E5%BF%83%E8%BF%99%E7%A7%8D%E6%89%8B%E6%9C%BA%E5%A3%B3%E6%AD%A3%E5%9C%A8%E5%81%B7%E6%8B%8D%E4%BD%A0%E7%9A%84%E9%9A%90%E7%A7%81%23&t=31&band_rank=14&Refer=top",
       "image": "",
       "summary": "小心这种手机壳正在偷拍你的隐私",
       "tags": [
@@ -282,22 +302,22 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-ebb413bd2bad",
-      "title": "怎么看待黄山一位老人手机拍照被疯狂弹广告的事件？",
-      "source": "知乎热榜",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "市场报告",
-      "trust": "媒体汇总",
+      "id": "newsnow-34d47420e264",
+      "title": "iPhone 18 Pro升级曝光",
+      "source": "抖音热点",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "待验证",
       "date": "2026-08-08",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.zhihu.com/question/2068808615612490682",
+      "url": "https://www.douyin.com/hot/2600808",
       "image": "",
-      "summary": "怎么看待黄山一位老人手机拍照被疯狂弹广告的事件？",
+      "summary": "iPhone 18 Pro升级曝光",
       "tags": [
-        "行业",
-        "市场报告",
+        "iPhone",
+        "爆料",
         "NewsNow"
       ]
     },
