@@ -1,12 +1,12 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-08-08T18:57:18.817Z",
+  "updatedAt": "2026-08-08T20:46:54.653Z",
   "issueDate": "2026-08-08",
   "issue": "VOL.260808",
   "title": "手机情报日报",
-  "intro": "今日筛出 9 条重点，其中 8 条是重点爆料，包含 7 条 iPhone 相关、0 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 9 条重点，其中 8 条是重点爆料，包含 8 条 iPhone 相关、0 条官方确认、0 条参数线索。",
   "stats": {
     "total": 9,
-    "iphone": 7,
+    "iphone": 8,
     "leaks": 8,
     "official": 0,
     "specs": 0
@@ -206,32 +206,32 @@ window.phoneRadarDaily = {
       ]
     },
     {
-      "id": "market",
-      "title": "行业趋势",
-      "hint": "看方向，不急着当购买依据。",
+      "id": "iphone",
+      "title": "iPhone 重点",
+      "hint": "不是硬件爆料，但和 iPhone 体验或路线有关。",
       "items": [
         {
-          "id": "newsnow-bbe270ef0a9b",
-          "title": "主摄实锤hp5，作为子品牌旗舰机配置不升反降简直来招笑的[捂脸]，店员说价格16+512会在5299-5499之间做好心理准备，k100promax。这个价这个主摄给我一个不买小米17max的理由，真的拉完了，这就是你们100个人做出来的手机吗？#小米17ProMax# #REDMIK100ProMax# #红米k100# 红米你真的烂完了这么做。",
+          "id": "newsnow-7e8557bd5c42",
+          "title": "我再也不玩了，折腾这些二手旧手机的钱都够买一部全新的iPhone17pm了😿",
           "originalTitle": "",
           "source": "酷安热榜",
-          "brand": "Xiaomi",
+          "brand": "iPhone",
           "type": "爆料",
           "trust": "高关注爆料源",
           "date": "2026-08-08",
           "time": "",
           "publishedAt": "",
-          "url": "https://www.coolapk.com/feed/73127320",
+          "url": "https://www.coolapk.com/feed/73122577",
           "image": "",
           "verdict": "先看",
-          "takeaway": "主摄实锤hp5，作为子品牌旗舰机配置不升反降简直来招笑的[捂脸]，店员说价格16+512会在5299-5499之间做好心理准备，k100promax。这个价这个主摄给我一个不买小米17max的理由，真的拉完了，这就是你们100个人做出来的手机吗？#小米17ProMax# #REDMIK100ProMax# #红米k100# 红米你真的烂完了这么做。",
-          "detail": "主摄实锤hp5，作为子品牌旗舰机配置不升反降简直来招笑的[捂脸]，店员说价格16+512会在5299-5499之间做好心理准备，k100promax。这个价这个主摄给我一个不买小米17max的理由，真的拉完了，这就是你们100个人做出来的手机吗？#小米17ProMax# #REDMIK100ProMax# #红米k100# 红米你真的烂完了这么做。",
+          "takeaway": "我再也不玩了，折腾这些二手旧手机的钱都够买一部全新的iPhone17pm了😿",
+          "detail": "我再也不玩了，折腾这些二手旧手机的钱都够买一部全新的iPhone17pm了😿",
           "keyPoints": [
-            "成本 / 价格"
+            "爆料"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "影响购买预算，值得先看。",
-          "action": "有具体参数就记录到参数库；没有参数就先收藏。"
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         }
       ]
     }
