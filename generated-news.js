@@ -1,6 +1,166 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-08-08T08:58:35.273Z",
+  "updatedAt": "2026-08-08T10:50:19.990Z",
   "news": [
+    {
+      "id": "auto-9fc62671433a",
+      "title": "Huawei has a small foldable device in the making",
+      "source": "Huawei Central",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-08",
+      "time": "10:15",
+      "publishedAt": "2026-08-08T10:15:14.000Z",
+      "url": "https://www.huaweicentral.com/huawei-has-a-small-foldable-device-in-the-making/",
+      "image": "https://www.huaweicentral.com/wp-content/uploads/2026/06/PuraXMax.jpg",
+      "summary": "Huawei has recently unveiled two amazing foldable handsets – Pura X Max and the MateBook Fold PC 2026, but it seems the company is working on another small folding device. While m…",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-a1e44ba3b82d",
+      "title": "各手机厂商 9 月新品大曝光：上旬有备受瞩目的苹果阔折叠，中下旬预计有 5-6 家推重量级新旗舰",
+      "source": "IT之家",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-08",
+      "time": "10:09",
+      "publishedAt": "2026-08-08T10:09:33.000Z",
+      "url": "https://www.ithome.com/0/987/387.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/8/9cdd4aec-a3ed-45dc-b86d-dabdfea080db.png",
+      "summary": "IT之家 8 月 8 日消息，博主 @数码闲聊站 今天在微博透露各手机厂商 9 月的新品，上旬预计有 2-3 家厂商推出新机， 比如备受瞩目的苹果 iPhone 18 Pro 系列和阔折叠 。 博主表示，9 月下旬预计有 5-6 家厂商推出新品， 全都是“重量级新旗舰” 。 后续有用户在评论区表示：“感觉大家排期都好紧没什么独占期啊”，博主回复道：“利好消…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-d3184f1c841e",
+      "title": "Just got your Galaxy Z Fold 8? Here are the first 5 things you need to do",
+      "source": "Android Authority",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-08",
+      "time": "10:00",
+      "publishedAt": "2026-08-08T10:00:34.000Z",
+      "url": "https://www.androidauthority.com/samsung-galaxy-z-fold-8-first-things-to-do-3695011/",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2026/08/Samsung-Galaxy-Z-Fold-8-tent-mode-pusheen-scaled.jpg",
+      "summary": "I love the Fold 8, but it's not perfect out of the box.",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-1de77f8e8951",
+      "title": "iPhone 17 Prices Could Rise as Soon as Monday, Rumor Claims",
+      "source": "MacRumors",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-08",
+      "time": "09:54",
+      "publishedAt": "2026-08-08T09:54:27.000Z",
+      "url": "https://www.macrumors.com/2026/08/08/iphone-17-prices-could-rise-as-soon-as-monday/",
+      "image": "https://images.macrumors.com/article-new/2025/09/iphone-17-models.jpg",
+      "summary": "Apple could raise iPhone 17 prices as soon as Monday, August 10, according to a new rumor, well before the wider round of increases expected with next month's iPhone 18 Pro launch…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-a966e07e16f7",
+      "title": "真我 realme 16x 手机海外预热：天玑 6300 芯片，支持 144Hz 高刷",
+      "source": "IT之家",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-08",
+      "time": "09:53",
+      "publishedAt": "2026-08-08T09:53:56.000Z",
+      "url": "https://www.ithome.com/0/987/384.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/8/eb78a5f6-f791-4479-aa2c-b85eb4bf575c.png?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 8 月 8 日消息，真我现已在海外市场预热 realme 16 x 手机，新品主打 7000mAh 大电池、144Hz 高刷屏， 8 月 12 日发布 。 IT之家了解到，这款手机配备联发科天玑 6300 芯片，拥有 8GB 内存、256GB 存储空间，拥有 5300mm² 的 VC 均热板。 同时，这款手机配备 144Hz 高刷屏幕，峰值亮度可…",
+      "tags": [
+        "行业",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "weibo-21c560ee956c",
+      "title": "数码闲聊站：8月新机发布会不是很明朗吗[吃瓜] 8.11——REDMI K100 Pro+…",
+      "source": "数码闲聊站",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-08-08",
+      "time": "09:24",
+      "publishedAt": "2026-08-08T09:24:56.000Z",
+      "url": "https://weibo.com/6048569942/RcsqB1CX6",
+      "image": "",
+      "summary": "8月新机发布会不是很明朗吗[吃瓜] 8.11——REDMI K100 Pro+PM 8.12——荣耀Robot Phone 8.**——iQOO Neo11至尊版+Z 努比亚Navix Ultra待定；如果算上系统，卢总还说澎湃OS4会在7-8月登场，现在也就只剩8月了",
+      "tags": [
+        "HONOR",
+        "爆料",
+        "微博"
+      ]
+    },
+    {
+      "id": "auto-eda579c21f33",
+      "title": "辅助驾驶≠自动驾驶：高速上方向盘脱手用“智驾”男子被处罚",
+      "source": "IT之家",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-08",
+      "time": "09:01",
+      "publishedAt": "2026-08-08T09:01:39.000Z",
+      "url": "https://www.ithome.com/0/987/376.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/8/d32cda11-1b79-4b7b-9e40-829c1a083f44.png",
+      "summary": "IT之家 8 月 8 日消息，越来越多车辆搭载了智驾辅助系统，但需要注意的是，驾车行驶时双手离开方向盘属于违法行为。据央视新闻今日报道，近日在京沪高速上， 一名男子开启“智驾”，双手脱离方向盘玩手机，被警方用无人机抓拍 。 据报道，当天上午，在 G2 京沪高速入沪方向 S20 外环立交东侧， 这名驾驶员双手离开方向盘，低头操作手机 ，警方通过无人机全程记录…",
+      "tags": [
+        "行业",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-a4d173120fda",
+      "title": "Don’t wait for the Pixel 11: Why you should buy the Pixel 10 right now",
+      "source": "Android Authority",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-08",
+      "time": "09:00",
+      "publishedAt": "2026-08-08T09:00:40.000Z",
+      "url": "https://www.androidauthority.com/dont-wait-for-pixel-11-buy-pixel-10-now-3695239/",
+      "image": "",
+      "summary": "Be smart and save you money with the Pixel 10. You won't be missing much.",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-175b6c5adfa6",
       "title": "小米 REDMI K100 Pro 系列真机官宣进驻线下门店，还有一款浅蓝配色",
@@ -282,21 +442,21 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-2033745529a3",
-      "title": "小心这种手机壳正在偷拍你的隐私",
-      "source": "微博热搜",
-      "brand": "行业",
-      "model": "智能手机市场",
+      "id": "newsnow-7c19ed050152",
+      "title": "2026年第31周国内手机市场份额曝光：华为居首",
+      "source": "酷安热榜",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
       "type": "爆料",
-      "trust": "待验证",
+      "trust": "高关注爆料源",
       "date": "2026-08-08",
       "time": "",
       "publishedAt": "",
-      "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E5%BF%83%E8%BF%99%E7%A7%8D%E6%89%8B%E6%9C%BA%E5%A3%B3%E6%AD%A3%E5%9C%A8%E5%81%B7%E6%8B%8D%E4%BD%A0%E7%9A%84%E9%9A%90%E7%A7%81%23&t=31&band_rank=14&Refer=top",
+      "url": "https://www.coolapk.com/feed/73124775",
       "image": "",
-      "summary": "小心这种手机壳正在偷拍你的隐私",
+      "summary": "2026年第31周国内手机市场份额曝光：华为居首",
       "tags": [
-        "行业",
+        "Huawei",
         "爆料",
         "NewsNow"
       ]
@@ -1079,26 +1239,6 @@ window.phoneRadarAuto = {
         "vivo",
         "爆料",
         "自动抓取"
-      ]
-    },
-    {
-      "id": "weibo-d531148afc03",
-      "title": "数码闲聊站：ISOCELL HPC正式亮相，Find X10系列首发？ 200Mp 1/1…",
-      "source": "数码闲聊站",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-08-07",
-      "time": "02:22",
-      "publishedAt": "2026-08-07T02:22:00.000Z",
-      "url": "https://weibo.com/6048569942/RcgeqeiAS",
-      "image": "https://tvax2.sinaimg.cn/mw2000/006BlblIgy1ifu5agrwk9j30xv0h2dlj.jpg",
-      "summary": "ISOCELL HPC正式亮相，Find X10系列首发？ 200Mp 1/1.3\"超大底，全新DeepPix技术，单像素FWC比上一代提升了60%；支持1X/1.5X/2X/3X/4X单帧HDR变焦，支持4K 180FPS视频，更高动态范围，全焦段HDR，妥妥的旗舰Sensor 2月全网独家爆料验证，等9月的Find X10实测吧[doge]",
-      "tags": [
-        "行业",
-        "爆料",
-        "微博"
       ]
     },
     {
