@@ -1,12 +1,12 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-08-07T22:54:46.474Z",
-  "issueDate": "2026-08-07",
-  "issue": "VOL.260807",
+  "updatedAt": "2026-08-08T02:20:36.195Z",
+  "issueDate": "2026-08-08",
+  "issue": "VOL.260808",
   "title": "手机情报日报",
-  "intro": "今日筛出 8 条重点，其中 8 条是重点爆料，包含 5 条 iPhone 相关、0 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 12 条重点，其中 8 条是重点爆料，包含 6 条 iPhone 相关、0 条官方确认、0 条参数线索。",
   "stats": {
-    "total": 8,
-    "iphone": 5,
+    "total": 12,
+    "iphone": 6,
     "leaks": 8,
     "official": 0,
     "specs": 0
@@ -17,31 +17,6 @@ window.phoneRadarDaily = {
       "title": "重点爆料",
       "hint": "机模、配色、影像、屏幕、电池和芯片线索先看。",
       "items": [
-        {
-          "id": "coolapk-user-08d9fe09d7dc",
-          "title": "JSCHEN小小狐：大疆 Osmo 360 II 官宣：8 月 7 日开启预约",
-          "originalTitle": "",
-          "source": "JSCHEN小小狐",
-          "brand": "iPhone",
-          "type": "爆料",
-          "trust": "高可信爆料",
-          "date": "2026-08-06",
-          "time": "12:08",
-          "publishedAt": "2026-08-06T12:08:59.000Z",
-          "url": "https://www.coolapk.com/feed/73112208",
-          "image": "http://image.coolapk.com/feed/2026/0806/20/4702274_b75b96e1_8136_7469_303@2560x1440.jpg",
-          "verdict": "先看",
-          "takeaway": "『大疆 Osmo 360 II 官宣：8 月 7 日开启预约』 「每一面，都是大场面」 DJI Osmo 360 II，2026 年 8 月 7 日开启预约。 新品爆料： ◇ 电池升级至 2150mAh ◇ 新增 NFC 互联功能 ◇ 或支持 8K 60p 录制 ◇ 或支持可更换镜头 #今日热点# #DJIOSMO360全景相机#",
-          "detail": "『大疆 Osmo 360 II 官宣：8 月 7 日开启预约』 「每一面，都是大场面」 DJI Osmo 360 II，2026 年 8 月 7 日开启预约。 新品爆料： ◇ 电池升级至 2150mAh ◇ 新增 NFC 互联功能 ◇ 或支持 8K 60p 录制 ◇ 或支持可更换镜头 #今日热点# #DJIOSMO360全景相机#",
-          "keyPoints": [
-            "影像硬件",
-            "电池 / 充电",
-            "爆料来源"
-          ],
-          "confidence": "可信度较高，但仍属于发布前线索。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
         {
           "id": "auto-6cfc942d1dbf",
           "title": "iPhone 17 价格 / 成本相关消息",
@@ -136,30 +111,6 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
-          "id": "auto-a6bfb69d48c3",
-          "title": "产品定义顶级：消息称华为阔直板新机已 Ready，方案属是行业首发",
-          "originalTitle": "",
-          "source": "IT之家",
-          "brand": "Huawei",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-08-07",
-          "time": "09:51",
-          "publishedAt": "2026-08-07T09:51:23.000Z",
-          "url": "https://www.ithome.com/0/987/131.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/8/1dff6fec-255d-4a8c-8a0b-a03ef5e15b19.png?x-bce-process=image/format,f_auto",
-          "verdict": "先看",
-          "takeaway": "IT之家 8 月 7 日消息，博主 @数码闲聊站 今日发文透露， 某厂的阔直板新手机已 Ready，方案属于行业首发 。结合该博主此前的爆料来看，新机归属华为品牌。 另外，博主表示，这款手机的产品定义很顶级，定位不低， 其它家也在跟进中，但会晚不少 。 博主还在评论区回复了部分网友的问题。针对新机会不会有更大尺寸，他回复称：“ 暂时还没有更大尺寸的开案。…",
-          "detail": "IT之家 8 月 7 日消息，博主 @数码闲聊站 今日发文透露， 某厂的阔直板新手机已 Ready，方案属于行业首发 。结合该博主此前的爆料来看，新机归属华为品牌。 另外，博主表示，这款手机的产品定义很顶级，定位不低， 其它家也在跟进中，但会晚不少 。 博主还在评论区回复了部分网友的问题。针对新机会不会有更大尺寸，他回复称：“ 暂时还没有更大尺寸的开案。…",
-          "keyPoints": [
-            "外观 / 配色 / 尺寸",
-            "爆料来源"
-          ],
-          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
           "id": "weibo-40a363463473",
           "title": "数码闲聊站：8月和红米对狙的就是iQOO Neo11至尊版，主打2K新基材国产直屏+天玑9…",
           "originalTitle": "",
@@ -206,6 +157,158 @@ window.phoneRadarDaily = {
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "auto-cca486e31693",
+          "title": "华为 Mate 80 系列等迎 HarmonyOS 7 花粉 Beta 版补丁更新，更多机型支持直连供电功能",
+          "originalTitle": "",
+          "source": "IT之家",
+          "brand": "Huawei",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-08-07",
+          "time": "14:07",
+          "publishedAt": "2026-08-07T14:07:07.000Z",
+          "url": "https://www.ithome.com/0/987/201.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/8/92ce318b-b761-416c-8c02-9d1da24fc62b.jpg?x-bce-process=image/format,f_auto",
+          "verdict": "先看",
+          "takeaway": "IT之家 8 月 7 日消息，华为 Mate 80、Mate 70 等系列机型今日推送了 HarmonyOS 7 花粉 Beta 版的补丁更新。 据用户反馈，Mate 80 Pro、Mate 80 Pro Max、Mate 70 Pro、Mate 70 Pro+、Pura 80 Pro+ 等机型升级该补丁包后， 支持了直连供电功能 。 IT之家注： 该功能…",
+          "detail": "IT之家 8 月 7 日消息，华为 Mate 80、Mate 70 等系列机型今日推送了 HarmonyOS 7 花粉 Beta 版的补丁更新。 据用户反馈，Mate 80 Pro、Mate 80 Pro Max、Mate 70 Pro、Mate 70 Pro+、Pura 80 Pro+ 等机型升级该补丁包后， 支持了直连供电功能 。 IT之家注： 该功能…",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "newsnow-39cc4c4b750c",
+          "title": "iQOO Neo11 至尊版外观泄露：横向双摄模组",
+          "originalTitle": "",
+          "source": "酷安热榜",
+          "brand": "vivo",
+          "type": "爆料",
+          "trust": "高关注爆料源",
+          "date": "2026-08-08",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://www.coolapk.com/feed/73125660",
+          "image": "",
+          "verdict": "先看",
+          "takeaway": "iQOO Neo11 至尊版外观泄露：横向双摄模组",
+          "detail": "iQOO Neo11 至尊版外观泄露：横向双摄模组",
+          "keyPoints": [
+            "外观 / 配色 / 尺寸"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        }
+      ]
+    },
+    {
+      "id": "iphone",
+      "title": "iPhone 重点",
+      "hint": "不是硬件爆料，但和 iPhone 体验或路线有关。",
+      "items": [
+        {
+          "id": "coolapk-user-4d1431f2fba7",
+          "title": "竹本青：【微信上线撤回提示删除功能，仅可清除本机页面痕迹】 日前，微信宣布更新一项聊天功能：用户撤回消息后，可长按“你撤回…",
+          "originalTitle": "",
+          "source": "竹本青",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "高可信爆料",
+          "date": "2026-08-07",
+          "time": "18:06",
+          "publishedAt": "2026-08-07T18:06:10.000Z",
+          "url": "https://www.coolapk.com/feed/73132351",
+          "image": "http://image.coolapk.com/feed/2026/0808/02/4248714_afcb77ce_5969_0986_717@1078x460.jpg",
+          "verdict": "先看",
+          "takeaway": "【微信上线撤回提示删除功能，仅可清除本机页面痕迹】 日前，微信宣布更新一项聊天功能：用户撤回消息后，可长按“你撤回了一条消息”灰色提示，选择删除该提示文字。 需注意，该操作仅删除自己设备聊天界面的提示，方便截图、存档整理聊天记录；对方聊天窗口依旧会正常看到撤回提示，不会同步消除对方端显示。 ＊该功能正逐步覆盖iOS和Android端用户 #今日热点# #微…",
+          "detail": "【微信上线撤回提示删除功能，仅可清除本机页面痕迹】 日前，微信宣布更新一项聊天功能：用户撤回消息后，可长按“你撤回了一条消息”灰色提示，选择删除该提示文字。 需注意，该操作仅删除自己设备聊天界面的提示，方便截图、存档整理聊天记录；对方聊天窗口依旧会正常看到撤回提示，不会同步消除对方端显示。 ＊该功能正逐步覆盖iOS和Android端用户 #今日热点# #微…",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "可信度较高，但仍属于发布前线索。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        },
+        {
+          "id": "newsnow-669096a735be",
+          "title": "iPhone18系列发布节奏",
+          "originalTitle": "",
+          "source": "微博热搜",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "待验证",
+          "date": "2026-08-08",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://s.weibo.com/weibo?q=%23iPhone18%E7%B3%BB%E5%88%97%E5%8F%91%E5%B8%83%E8%8A%82%E5%A5%8F%23&t=31&band_rank=20&Refer=top",
+          "image": "",
+          "verdict": "扫一眼",
+          "takeaway": "iPhone18系列发布节奏",
+          "detail": "iPhone18系列发布节奏",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        }
+      ]
+    },
+    {
+      "id": "market",
+      "title": "行业趋势",
+      "hint": "看方向，不急着当购买依据。",
+      "items": [
+        {
+          "id": "newsnow-bbe270ef0a9b",
+          "title": "主摄实锤hp5，作为子品牌旗舰机配置不升反降简直来招笑的[捂脸]，店员说价格16+512会在5299-5499之间做好心理准备，k100promax。这个价这个主摄给我一个不买小米17max的理由，真的拉完了，这就是你们100个人做出来的手机吗？#小米17ProMax# #REDMIK100ProMax# #红米k100# 红米你真的烂完了这么做。",
+          "originalTitle": "",
+          "source": "酷安热榜",
+          "brand": "Xiaomi",
+          "type": "爆料",
+          "trust": "高关注爆料源",
+          "date": "2026-08-08",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://www.coolapk.com/feed/73127320",
+          "image": "",
+          "verdict": "先看",
+          "takeaway": "主摄实锤hp5，作为子品牌旗舰机配置不升反降简直来招笑的[捂脸]，店员说价格16+512会在5299-5499之间做好心理准备，k100promax。这个价这个主摄给我一个不买小米17max的理由，真的拉完了，这就是你们100个人做出来的手机吗？#小米17ProMax# #REDMIK100ProMax# #红米k100# 红米你真的烂完了这么做。",
+          "detail": "主摄实锤hp5，作为子品牌旗舰机配置不升反降简直来招笑的[捂脸]，店员说价格16+512会在5299-5499之间做好心理准备，k100promax。这个价这个主摄给我一个不买小米17max的理由，真的拉完了，这就是你们100个人做出来的手机吗？#小米17ProMax# #REDMIK100ProMax# #红米k100# 红米你真的烂完了这么做。",
+          "keyPoints": [
+            "成本 / 价格"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "影响购买预算，值得先看。",
+          "action": "有具体参数就记录到参数库；没有参数就先收藏。"
+        },
+        {
+          "id": "newsnow-069e94509a81",
+          "title": "2020 年，回头看仍是机圈极具魔幻现实主义色彩的一年。厂商大喊 “5G 元年”，对换机用户而言却是 “涨价元年”—— 旗舰机型仿佛统一了口径，集体上调八百至一千的价格，携手迈入3999的时代。",
+          "originalTitle": "",
+          "source": "酷安热榜",
+          "brand": "行业",
+          "type": "爆料",
+          "trust": "高关注爆料源",
+          "date": "2026-08-08",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://www.coolapk.com/feed/70266966",
+          "image": "",
+          "verdict": "扫一眼",
+          "takeaway": "2020 年，回头看仍是机圈极具魔幻现实主义色彩的一年。厂商大喊 “5G 元年”，对换机用户而言却是 “涨价元年”—— 旗舰机型仿佛统一了口径，集体上调八百至一千的价格，携手迈入3999的时代。",
+          "detail": "2020 年，回头看仍是机圈极具魔幻现实主义色彩的一年。厂商大喊 “5G 元年”，对换机用户而言却是 “涨价元年”—— 旗舰机型仿佛统一了口径，集体上调八百至一千的价格，携手迈入3999的时代。",
+          "keyPoints": [
+            "成本 / 价格"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "影响购买预算，值得先看。",
+          "action": "有具体参数就记录到参数库；没有参数就先收藏。"
         }
       ]
     }
