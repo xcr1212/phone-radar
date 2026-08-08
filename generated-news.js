@@ -1,6 +1,126 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-08-08T14:48:45.553Z",
+  "updatedAt": "2026-08-08T16:51:10.783Z",
   "news": [
+    {
+      "id": "auto-9a0a430449e0",
+      "title": "Pixel 11 Pro XL shows up in hands-on leak days ahead of launch [Gallery]",
+      "source": "9to5Google",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-08",
+      "time": "16:15",
+      "publishedAt": "2026-08-08T16:15:00.000Z",
+      "url": "https://9to5google.com/2026/08/08/google-pixel-11-pro-xl-hands-on-leak/",
+      "image": "",
+      "summary": "With just a few days left to go before Google’s Pixel 11 launch event, a hands-on leak has shown off the Pixel 11 Pro XL in real life.",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-742c2f66b8e4",
+      "title": "Best phones to buy if you’re upgrading from the OnePlus 12",
+      "source": "Gizmochina",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-08",
+      "time": "15:51",
+      "publishedAt": "2026-08-08T15:51:05.000Z",
+      "url": "https://www.gizmochina.com/2026/08/08/best-phones-to-buy-if-youre-upgrading-from-the-oneplus-12/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2024/10/OnePlus-12-300x169.webp?x23692",
+      "summary": "If you picked up a OnePlus 12 back in early 2024, you got a genuinely good phone for the money. Fast charging, a sharp display, solid performance – all without the price tag of a…",
+      "tags": [
+        "OPPO",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-bdc464c41175",
+      "title": "The Samsung Galaxy Z Fold 8 changed my mind, and after testing it for two weeks, I'm convinced it's the foldable phone most people should buy",
+      "source": "Android Central",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-08-08",
+      "time": "15:09",
+      "publishedAt": "2026-08-08T15:09:07.000Z",
+      "url": "https://www.androidcentral.com/phones/samsung-galaxy/samsung-galaxy-z-fold-8-review",
+      "image": "https://cdn.mos.cms.futurecdn.net/b3CjV24PFApvsomWzfSDGb-1280-80.jpg",
+      "summary": "The Galaxy Z Fold 8 is one of the most compelling phones Samsung has made in a while, and I never want to put it down. It feels great in my hand when closed, and the wider screen…",
+      "tags": [
+        "Samsung",
+        "评测",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-a8c605e769b3",
+      "title": "Pixel 11 Pro XL retail boxes show up on Turkish grey market with $1,700 price tag",
+      "source": "Gizmochina",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-08",
+      "time": "15:09",
+      "publishedAt": "2026-08-08T15:09:04.000Z",
+      "url": "https://www.gizmochina.com/2026/08/08/pixel-11-pro-xl-retail-boxes-show-up-on-turkish-grey-market-with-1700-price-tag/",
+      "image": "",
+      "summary": "Every now and then, unannounced Pixel devices start popping up in weird places before Google officially says a word. This time it’s the next big-screen Pixel that’s allegedly alre…",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-724b3641825d",
+      "title": "Pixel 11: All of the last-minute leaks [Video]",
+      "source": "9to5Google",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-08",
+      "time": "15:00",
+      "publishedAt": "2026-08-08T15:00:00.000Z",
+      "url": "https://9to5google.com/2026/08/08/pixel-11-all-of-the-last-minute-leaks-video/",
+      "image": "",
+      "summary": "As is customary, we already know a ton about Google’s latest smartphone series before it officially launches. The last-minute leaks are seriously piling up for the Pixel 11 — here…",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-cbde9dc0b275",
+      "title": "vivo 神秘新机现身 Geekbench，天玑 7500 芯片",
+      "source": "IT之家",
+      "brand": "vivo",
+      "model": "vivo 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-08",
+      "time": "14:55",
+      "publishedAt": "2026-08-08T14:55:33.000Z",
+      "url": "https://www.ithome.com/0/987/447.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/8/8fa5c2be-616a-4359-8e0f-036161a2b79f.png?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 8 月 8 日消息，一款型号为 V2603A 的 vivo 新机近日现身 Geekbench 跑分数据库，该机已于近期通过 3C 认证。 Geekbench 数据显示，该机搭载联发科 MT6881 处理器，拥有 4 核 2.0GHz+4 核 2.6GHz CPU，GPU 为 Mali-G625 MC2， 对应天玑 7500 。 IT之家注意到，该…",
+      "tags": [
+        "vivo",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-92d5d5955c70",
       "title": "Huawei vs Samsung: Key difference in their privacy display tech",
@@ -482,7 +602,7 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-d9d69d70d9f6",
+      "id": "newsnow-9787940b2b69",
       "title": "这种手机壳可能是医疗垃圾做的",
       "source": "微博热搜",
       "brand": "行业",
@@ -492,7 +612,7 @@ window.phoneRadarAuto = {
       "date": "2026-08-08",
       "time": "",
       "publishedAt": "",
-      "url": "https://s.weibo.com/weibo?q=%23%E8%BF%99%E7%A7%8D%E6%89%8B%E6%9C%BA%E5%A3%B3%E5%8F%AF%E8%83%BD%E6%98%AF%E5%8C%BB%E7%96%97%E5%9E%83%E5%9C%BE%E5%81%9A%E7%9A%84%23&t=31&band_rank=18&Refer=top",
+      "url": "https://s.weibo.com/weibo?q=%23%E8%BF%99%E7%A7%8D%E6%89%8B%E6%9C%BA%E5%A3%B3%E5%8F%AF%E8%83%BD%E6%98%AF%E5%8C%BB%E7%96%97%E5%9E%83%E5%9C%BE%E5%81%9A%E7%9A%84%23&t=31&band_rank=2&Refer=top",
       "image": "",
       "summary": "这种手机壳可能是医疗垃圾做的",
       "tags": [
@@ -522,6 +642,26 @@ window.phoneRadarAuto = {
       ]
     },
     {
+      "id": "newsnow-cb15ca84f94e",
+      "title": "男子佯装买手机抢走价值7000元手机",
+      "source": "百度热搜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-08",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E4%BD%AF%E8%A3%85%E4%B9%B0%E6%89%8B%E6%9C%BA%E6%8A%A2%E8%B5%B0%E4%BB%B7%E5%80%BC7000%E5%85%83%E6%89%8B%E6%9C%BA",
+      "image": "",
+      "summary": "男子佯装买手机抢走价值7000元手机",
+      "tags": [
+        "行业",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
       "id": "auto-2d790628cd06",
       "title": "Pixelated 111: Primetime prep for Made By Google",
       "source": "9to5Google",
@@ -537,26 +677,6 @@ window.phoneRadarAuto = {
       "summary": "Welcome to Pixelated episode 111. This week, Damien, Abner, and Will preview what to expect at next week’s official unveiling of the Pixel 11 series, including final rumors, leaks…",
       "tags": [
         "Pixel",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-f349af0d5cf4",
-      "title": "I reviewed the Samsung Galaxy Z Fold 8. It's a foldable revelation I can't stop using",
-      "source": "Android Police",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-07",
-      "time": "21:00",
-      "publishedAt": "2026-08-07T21:00:15.000Z",
-      "url": "https://www.androidpolice.com/samsung-galaxy-z-fold-8-review/",
-      "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2026/08/samsung-galaxy-z-fold-8-in-hand.JPG",
-      "summary": "A foldable that I want to use open and closed",
-      "tags": [
-        "Samsung",
         "爆料",
         "自动抓取"
       ]
@@ -578,26 +698,6 @@ window.phoneRadarAuto = {
       "tags": [
         "Samsung",
         "评测",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-773a206224a6",
-      "title": "This discounted Google Qi2 charger is the perfect way to charge your Pixel 10",
-      "source": "Android Police",
-      "brand": "Pixel",
-      "model": "Pixel 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-07",
-      "time": "20:36",
-      "publishedAt": "2026-08-07T20:36:21.000Z",
-      "url": "https://www.androidpolice.com/google-pixelsnap-charger-with-stand-35-deal/",
-      "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2025/08/img_1857.jpg",
-      "summary": "50% off is a steep discount",
-      "tags": [
-        "Pixel",
-        "爆料",
         "自动抓取"
       ]
     },
@@ -1119,26 +1219,6 @@ window.phoneRadarAuto = {
         "HONOR",
         "爆料",
         "酷安博主"
-      ]
-    },
-    {
-      "id": "auto-be9ccce1d17e",
-      "title": "Galaxy S26 FE leaked firmware reveals Horizontal Lock camera feature",
-      "source": "Gizmochina",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-07",
-      "time": "04:35",
-      "publishedAt": "2026-08-07T04:35:21.000Z",
-      "url": "https://www.gizmochina.com/2026/08/07/galaxy-s26-fe-leaked-firmware-reveals-horizontal-lock-camera-feature/",
-      "image": "https://www.gizmochina.com/wp-content/uploads/2026/08/1-17809101211741708304156-0-0-628-1200-crop-17809101341951413931775-300x158.webp?x23692",
-      "summary": "The Galaxy S26 FE looks set to pick up one of the more useful camera upgrades introduced this year. A practical software feature that keeps video footage level is showing clear si…",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
       ]
     },
     {
