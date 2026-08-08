@@ -1,6 +1,26 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-08-08T02:20:36.195Z",
+  "updatedAt": "2026-08-08T05:09:13.848Z",
   "news": [
+    {
+      "id": "auto-e24ba0e837a2",
+      "title": "WhatsApp makes parent-managed accounts easier to set up on iPhone",
+      "source": "9to5Mac",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-08",
+      "time": "02:58",
+      "publishedAt": "2026-08-08T02:58:27.000Z",
+      "url": "https://9to5mac.com/2026/08/07/whatsapp-makes-parent-managed-accounts-easier-to-set-up-on-iphone/",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/11/whatsapp-ios-26.jpg?quality=82&strip=all&w=1600",
+      "summary": "WhatsApp is bringing its dedicated parental controls section to the iPhone, making the feature easier for parents to find and set up. Here are the details.",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-7a8ba8751ba3",
       "title": "Apple adds nearly 45 hearing devices to its Made for iPhone compatibility list",
@@ -42,26 +62,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-39cc4c4b750c",
-      "title": "iQOO Neo11 至尊版外观泄露：横向双摄模组",
-      "source": "酷安热榜",
-      "brand": "vivo",
-      "model": "vivo 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-08-08",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73125660",
-      "image": "",
-      "summary": "iQOO Neo11 至尊版外观泄露：横向双摄模组",
-      "tags": [
-        "vivo",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
       "id": "newsnow-bbe270ef0a9b",
       "title": "主摄实锤hp5，作为子品牌旗舰机配置不升反降简直来招笑的[捂脸]，店员说价格16+512会在5299-5499之间做好心理准备，k100promax。这个价这个主摄给我一个不买小米17max的理由，真的拉完了，这就是你们100个人做出来的手机吗？#小米17ProMax# #REDMIK100ProMax# #红米k100# 红米你真的烂完了这么做。",
       "source": "酷安热榜",
@@ -75,6 +75,26 @@ window.phoneRadarAuto = {
       "url": "https://www.coolapk.com/feed/73127320",
       "image": "",
       "summary": "主摄实锤hp5，作为子品牌旗舰机配置不升反降简直来招笑的[捂脸]，店员说价格16+512会在5299-5499之间做好心理准备，k100promax。这个价这个主摄给我一个不买小米17max的理由，真的拉完了，这就是你们100个人做出来的手机吗？#小米17ProMax# #REDMIK100ProMax# #红米k100# 红米你真的烂完了这么做。",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-4cf801b2707d",
+      "title": "这几天出来旅游，我女朋友此时就躺我怀里，她睡着后我刚看她手机，居然和一个男的聊暧昧一段时间了，聊天记录你们可以想象一下，什么说自己没男朋友啊，好想你啊，还发自拍过去，我还浑然不知，最可笑的是用着我买给的手机聊暧昧，大家说说该如何解决#小米17# #一加15# #酷安夜话#",
+      "source": "酷安热榜",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-08-08",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/73117007",
+      "image": "",
+      "summary": "这几天出来旅游，我女朋友此时就躺我怀里，她睡着后我刚看她手机，居然和一个男的聊暧昧一段时间了，聊天记录你们可以想象一下，什么说自己没男朋友啊，好想你啊，还发自拍过去，我还浑然不知，最可笑的是用着我买给的手机聊暧昧，大家说说该如何解决#小米17# #一加15# #酷安夜话#",
       "tags": [
         "Xiaomi",
         "爆料",
@@ -102,7 +122,7 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-669096a735be",
+      "id": "newsnow-06d1bf8f5d3b",
       "title": "iPhone18系列发布节奏",
       "source": "微博热搜",
       "brand": "iPhone",
@@ -112,31 +132,11 @@ window.phoneRadarAuto = {
       "date": "2026-08-08",
       "time": "",
       "publishedAt": "",
-      "url": "https://s.weibo.com/weibo?q=%23iPhone18%E7%B3%BB%E5%88%97%E5%8F%91%E5%B8%83%E8%8A%82%E5%A5%8F%23&t=31&band_rank=20&Refer=top",
+      "url": "https://s.weibo.com/weibo?q=%23iPhone18%E7%B3%BB%E5%88%97%E5%8F%91%E5%B8%83%E8%8A%82%E5%A5%8F%23&t=31&band_rank=17&Refer=top",
       "image": "",
       "summary": "iPhone18系列发布节奏",
       "tags": [
         "iPhone",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-a65cdb280907",
-      "title": "华为阔直板新机曝光",
-      "source": "微博热搜",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "待验证",
-      "date": "2026-08-08",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://s.weibo.com/weibo?q=%23%E5%8D%8E%E4%B8%BA%E9%98%94%E7%9B%B4%E6%9D%BF%E6%96%B0%E6%9C%BA%E6%9B%9D%E5%85%89%23&t=31&band_rank=29&Refer=top",
-      "image": "",
-      "summary": "华为阔直板新机曝光",
-      "tags": [
-        "Huawei",
         "爆料",
         "NewsNow"
       ]
@@ -158,66 +158,6 @@ window.phoneRadarAuto = {
       "tags": [
         "行业",
         "市场报告",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-9b0d569291d9",
-      "title": "2名小孩玩手机低头幅度近乎折叠",
-      "source": "今日头条热榜",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-08",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.toutiao.com/trending/7670846175725322294/",
-      "image": "",
-      "summary": "2名小孩玩手机低头幅度近乎折叠",
-      "tags": [
-        "行业",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-d4adea0f7eff",
-      "title": "2名小孩玩手机低头幅度近乎折叠",
-      "source": "百度热搜",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-08",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.baidu.com/s?wd=2%E5%90%8D%E5%B0%8F%E5%AD%A9%E7%8E%A9%E6%89%8B%E6%9C%BA%E4%BD%8E%E5%A4%B4%E5%B9%85%E5%BA%A6%E8%BF%91%E4%B9%8E%E6%8A%98%E5%8F%A0",
-      "image": "",
-      "summary": "2名小孩玩手机低头幅度近乎折叠",
-      "tags": [
-        "行业",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-dcefc069ac12",
-      "title": "河南濮阳一女子趁店内无人拿走手机",
-      "source": "百度热搜",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-08",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.baidu.com/s?wd=%E6%B2%B3%E5%8D%97%E6%BF%AE%E9%98%B3%E4%B8%80%E5%A5%B3%E5%AD%90%E8%B6%81%E5%BA%97%E5%86%85%E6%97%A0%E4%BA%BA%E6%8B%BF%E8%B5%B0%E6%89%8B%E6%9C%BA",
-      "image": "",
-      "summary": "河南濮阳一女子趁店内无人拿走手机",
-      "tags": [
-        "行业",
-        "爆料",
         "NewsNow"
       ]
     },
@@ -363,7 +303,7 @@ window.phoneRadarAuto = {
     },
     {
       "id": "coolapk-user-4d1431f2fba7",
-      "title": "竹本青：【微信上线撤回提示删除功能，仅可清除本机页面痕迹】 日前，微信宣布更新一项聊天功能：用户撤回消息后，可长按“你撤回…",
+      "title": "竹本青：微信上线撤回提示删除功能，仅可清除本机页面痕迹",
       "source": "竹本青",
       "brand": "iPhone",
       "model": "iPhone 相关机型",
@@ -562,26 +502,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-224f4696cd32",
-      "title": "荣耀 MagicOS 10 系统 8 月版本第二批机型开推，覆盖 Magic7、WIN 等系列",
-      "source": "IT之家",
-      "brand": "HONOR",
-      "model": "HONOR 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-07",
-      "time": "14:33",
-      "publishedAt": "2026-08-07T14:33:41.000Z",
-      "url": "https://www.ithome.com/0/987/208.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/8/8c0ccf65-9df8-4c72-bea0-5a99aeaf3ac1.png?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 8 月 7 日消息，荣耀 MagicOS 官方微博今日宣布， MagicOS 10 系统 8 月版本推送第二批机型 ： 荣耀 Magic7 系列、荣耀 Magic V5、 荣耀 500 系列、 荣耀 WIN 、 荣耀 WIN RT 、荣耀 GT Pro IT之家整理 MagicOS 10 系统的 8 月版本更新内容如下（升级路径：设置 > 系统和…",
-      "tags": [
-        "HONOR",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-7effafe5594d",
       "title": "Which do you plan to buy: iPhone 18 Pro or foldable iPhone Ultra? [Poll]",
       "source": "9to5Mac",
@@ -617,26 +537,6 @@ window.phoneRadarAuto = {
       "summary": "Vivo X300 E and OnePlus 15 target flagship buyers with powerful Snapdragon chipsets, massive batteries, and premium AMOLED displays. While Vivo focuses on value, battery life, and…",
       "tags": [
         "OPPO",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-cca486e31693",
-      "title": "华为 Mate 80 系列等迎 HarmonyOS 7 花粉 Beta 版补丁更新，更多机型支持直连供电功能",
-      "source": "IT之家",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-07",
-      "time": "14:07",
-      "publishedAt": "2026-08-07T14:07:07.000Z",
-      "url": "https://www.ithome.com/0/987/201.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/8/92ce318b-b761-416c-8c02-9d1da24fc62b.jpg?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 8 月 7 日消息，华为 Mate 80、Mate 70 等系列机型今日推送了 HarmonyOS 7 花粉 Beta 版的补丁更新。 据用户反馈，Mate 80 Pro、Mate 80 Pro Max、Mate 70 Pro、Mate 70 Pro+、Pura 80 Pro+ 等机型升级该补丁包后， 支持了直连供电功能 。 IT之家注： 该功能…",
-      "tags": [
-        "Huawei",
         "爆料",
         "自动抓取"
       ]
