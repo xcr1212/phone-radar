@@ -1,6 +1,146 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-08-08T05:09:13.848Z",
+  "updatedAt": "2026-08-08T07:13:39.854Z",
   "news": [
+    {
+      "id": "auto-c47efcc1f221",
+      "title": "iQOO Neo11 至尊版外观曝光：乘风 / 驰光白配色、横向双摄模组，新机“下周一见”",
+      "source": "IT之家",
+      "brand": "vivo",
+      "model": "vivo 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-08",
+      "time": "06:39",
+      "publishedAt": "2026-08-08T06:39:42.000Z",
+      "url": "https://www.ithome.com/0/987/320.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/8/65dec2bc-7cf4-4949-a3c9-c89f215cd506.png?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 8 月 8 日消息，博主 @体验more 今日曝光了 iQOO Neo11 至尊版的外观， 新机采用横向双摄模组设计 ，将提供乘风和驰光白配色。 据IT之家昨日报道，iQOO Neo 产品经理 @iQOO慧慧子 预告 iQOO Neo11 至尊版“ 下周一见 ”，届时有望公布更多消息。 据其透露，这款新机将搭载国产顶级 2K 屏、Neo 史上最大…",
+      "tags": [
+        "vivo",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-2af04acfa2b4",
+      "title": "三星 Galaxy A18 手机跑分曝光：4GB 内存、联发科 Helio G99 芯片",
+      "source": "IT之家",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-08",
+      "time": "06:39",
+      "publishedAt": "2026-08-08T06:39:27.000Z",
+      "url": "https://www.ithome.com/0/987/319.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/7/8c06bf2e-d6eb-4250-859a-245b9c389be6.jpg?x-bce-process=image/auto-orient,o_1",
+      "summary": "IT之家 8 月 8 日消息，科技媒体 sammyfans 昨日（8 月 7 日）发布博文，指出三星 Galaxy A18 手机的 GeekBench 跑分曝光， 从规格来看是 2015 年的内存配置、2022 年的芯片配置以及 2026 年的系统。 在内存方面，根据页面信息 Galaxy A18 手机将会配备 4GB 内存，作为对比，Galaxy A17…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-c18f91578c4b",
+      "title": "iQOO Z11 gets a 6.83-inch curved AMOLED display and narrow frame",
+      "source": "Gizmochina",
+      "brand": "vivo",
+      "model": "vivo 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-08",
+      "time": "06:34",
+      "publishedAt": "2026-08-08T06:34:47.000Z",
+      "url": "https://www.gizmochina.com/2026/08/08/iqoo-z11-display-details-confirmed/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/08/QOO-Z11-display--300x300.png?x23692",
+      "summary": "iQOO is all set to launch the iQOO Z11 on Aug. 20 in India. Ahead of the launch, the brand is gradually confirming its key specifications. After revealing its chipset recently, iQ…",
+      "tags": [
+        "vivo",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-ba0489c98235",
+      "title": "Redmi 17C 5G’s premature listing reveals images and full specifications",
+      "source": "Gizmochina",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-08",
+      "time": "06:15",
+      "publishedAt": "2026-08-08T06:15:30.000Z",
+      "url": "https://www.gizmochina.com/2026/08/08/redmi-17c-5g-image-specifications-revealed/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/08/Redmi-17C-5G-Purple-245x300.png?x23692",
+      "summary": "Redmi has just launched the Redmi 17 5G and Redmi 17 4G globally, and now it appears that it will soon add another device called the Redmi 17C 5G. The unannounced device has been…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-85803cc479aa",
+      "title": "消息称荣耀“在看”阔屏手机，目前尚未立项",
+      "source": "IT之家",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-08",
+      "time": "05:56",
+      "publishedAt": "2026-08-08T05:56:22.000Z",
+      "url": "https://www.ithome.com/0/987/306.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/8/a963d64d-74bd-4a18-91f4-82cedd2ef854.png",
+      "summary": "IT之家 8 月 8 日消息，博主 @数码闲聊站 今日爆料称：“耀子（指荣耀）好像也在看阔屏，但目前还没立项，等等再看看，如果要做，希望做个大屏版，目前市面上两家都是 6.3-6.4\"”。 IT之家注意到，目前华为、OPPO 等厂商已经被曝出将推出阔直屏新机。 今年 5 月， 该博主曾爆料华为 6.39 英寸阔直板机的屏幕比例更接近 16:10 ，基本就是…",
+      "tags": [
+        "HONOR",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-21dbb6397b41",
+      "title": "竹本青：【徐洁云回顾小米10 Pro海外版包装文案舆论：对仗义执言一直心怀感激】 8月8日，小米高管徐洁云转发「小米手机海…",
+      "source": "竹本青",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-08-08",
+      "time": "05:32",
+      "publishedAt": "2026-08-08T05:32:09.000Z",
+      "url": "https://www.coolapk.com/feed/73137181",
+      "image": "http://image.coolapk.com/feed/2026/0808/13/4248714_5f77e5bb_7127_392_49@1271x1150.jpg",
+      "summary": "【徐洁云回顾小米10 Pro海外版包装文案舆论：对仗义执言一直心怀感激】 8月8日，小米高管徐洁云转发「小米手机海外市场包装最新文案」相关回顾博文，并评论道：“对仗义执言一直心怀感激。我们还是要做诚实的人，正直的人，不说谎话的人。” 2020年，小米10 Pro海外版包装盒印有“轻松访问您最常使用的谷歌应用”文案，被不少网友解读为刻意嘲讽华为，引发大规模舆…",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-f83e51f8643e",
+      "title": "iQOO Neo 11 Ultra real-life images reveal new horizontal camera module",
+      "source": "Gizmochina",
+      "brand": "vivo",
+      "model": "vivo 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-08",
+      "time": "05:25",
+      "publishedAt": "2026-08-08T05:25:26.000Z",
+      "url": "https://www.gizmochina.com/2026/08/08/iqoo-neo-11-ultra-leaked-images-design-revealed/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/08/iQOO-Neo-11-Ultra-leaked-images-300x225.jpg?x23692",
+      "summary": "iQOO recently confirmed that it will showcase the iQOO Neo 11 Ultra on Aug. 10. However, the rumor mill has already started sharing real-life images of the device on Chinese socia…",
+      "tags": [
+        "vivo",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-e24ba0e837a2",
       "title": "WhatsApp makes parent-managed accounts easier to set up on iPhone",
@@ -102,26 +242,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-069e94509a81",
-      "title": "2020 年，回头看仍是机圈极具魔幻现实主义色彩的一年。厂商大喊 “5G 元年”，对换机用户而言却是 “涨价元年”—— 旗舰机型仿佛统一了口径，集体上调八百至一千的价格，携手迈入3999的时代。",
-      "source": "酷安热榜",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-08-08",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/70266966",
-      "image": "",
-      "summary": "2020 年，回头看仍是机圈极具魔幻现实主义色彩的一年。厂商大喊 “5G 元年”，对换机用户而言却是 “涨价元年”—— 旗舰机型仿佛统一了口径，集体上调八百至一千的价格，携手迈入3999的时代。",
-      "tags": [
-        "行业",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
       "id": "newsnow-06d1bf8f5d3b",
       "title": "iPhone18系列发布节奏",
       "source": "微博热搜",
@@ -137,6 +257,26 @@ window.phoneRadarAuto = {
       "summary": "iPhone18系列发布节奏",
       "tags": [
         "iPhone",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-245c78060f27",
+      "title": "小心这种手机壳正在偷拍你的隐私",
+      "source": "微博热搜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "待验证",
+      "date": "2026-08-08",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E5%BF%83%E8%BF%99%E7%A7%8D%E6%89%8B%E6%9C%BA%E5%A3%B3%E6%AD%A3%E5%9C%A8%E5%81%B7%E6%8B%8D%E4%BD%A0%E7%9A%84%E9%9A%90%E7%A7%81%23&t=31&band_rank=20&Refer=top",
+      "image": "",
+      "summary": "小心这种手机壳正在偷拍你的隐私",
+      "tags": [
+        "行业",
         "爆料",
         "NewsNow"
       ]
@@ -314,7 +454,7 @@ window.phoneRadarAuto = {
       "publishedAt": "2026-08-07T18:06:10.000Z",
       "url": "https://www.coolapk.com/feed/73132351",
       "image": "http://image.coolapk.com/feed/2026/0808/02/4248714_afcb77ce_5969_0986_717@1078x460.jpg",
-      "summary": "【微信上线撤回提示删除功能，仅可清除本机页面痕迹】 日前，微信宣布更新一项聊天功能：用户撤回消息后，可长按“你撤回了一条消息”灰色提示，选择删除该提示文字。 需注意，该操作仅删除自己设备聊天界面的提示，方便截图、存档整理聊天记录；对方聊天窗口依旧会正常看到撤回提示，不会同步消除对方端显示。 ＊该功能正逐步覆盖iOS和Android端用户 #今日热点# #微…",
+      "summary": "【微信上线撤回提示删除功能，仅可清除本机页面痕迹】 日前，微信宣布更新一项聊天功能：用户撤回消息后，可长按“你撤回了一条消息”，选择删除该提示文字。 需注意，该操作仅删除自己设备聊天界面的提示，方便截图、存档整理聊天记录；对方聊天窗口依旧会正常看到撤回提示，不会同步消除对方端显示。 ＊该功能正逐步覆盖iOS和Android端用户 #今日热点# #微信# #…",
       "tags": [
         "iPhone",
         "爆料",
