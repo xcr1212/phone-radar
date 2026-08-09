@@ -1,6 +1,86 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-08-09T14:51:36.942Z",
+  "updatedAt": "2026-08-09T16:53:19.096Z",
   "news": [
+    {
+      "id": "coolapk-user-56778c4ac5d5",
+      "title": "竹本青：【宁波充电场站一极氪7X起火，官方称该车辆近期遭遇严重碰撞且未官方检修】 8月10日资讯，昨日，宁波海曙区一充电场…",
+      "source": "竹本青",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-08-09",
+      "time": "16:31",
+      "publishedAt": "2026-08-09T16:31:54.000Z",
+      "url": "https://www.coolapk.com/feed/73159674",
+      "image": "http://image.coolapk.com/feed/2026/0810/00/4248714_d9e5cf57_3317_7109_891-livepic@960x544.jpg",
+      "summary": "【宁波充电场站一极氪7X起火，官方称该车辆近期遭遇严重碰撞且未官方检修】 8月10日资讯，昨日，宁波海曙区一充电场站，一台极氪7X车辆出现起火事件，消防到场处置，未造成人员伤亡。 对此，极氪服务说明称，涉事车辆在近期发生严重碰撞事故，且事后未通过品牌授权服务中心完成检测与维修。 目前，极氪正配合相关部门调查事故原因，最终结论以部门通报为准。 #今日热点#…",
+      "tags": [
+        "行业",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-d24aa330da0c",
+      "title": "The Galaxy Z Fold 8 convinced me that an old phone feature needs a comeback, fast",
+      "source": "Android Police",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-09",
+      "time": "16:15",
+      "publishedAt": "2026-08-09T16:15:15.000Z",
+      "url": "https://www.androidpolice.com/galaxy-z-fold-8-convinced-me-this-needs-to-come-back/",
+      "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2026/08/samsung-galaxy-z-fold-8-fingerprint-scanner-wide.jpg",
+      "summary": "Let me unlock on the side",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-d8bbe6430fd2",
+      "title": "Foldable 'iPhone Ultra 3' Rumored to Feature Larger Displays",
+      "source": "MacRumors",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-09",
+      "time": "15:55",
+      "publishedAt": "2026-08-09T15:55:48.000Z",
+      "url": "https://www.macrumors.com/2026/08/09/iphone-ultra-3-rumored-to-feature-larger-displays/",
+      "image": "https://images.macrumors.com/article-new/2025/08/Apple-Foldable-Thumb.jpg",
+      "summary": "Apple is already making plans for its third-generation foldable iPhone, with launch expected as early as 2028, according to Bloomberg 's Mark Gurman . Writing in his latest \"Power…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-ae31ee0b0b71",
+      "title": "古尔曼曝光苹果早前设想：生产 iPhone 时就装好 iCloud 数据，让用户不再经历繁琐导数据流程",
+      "source": "IT之家",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-09",
+      "time": "15:20",
+      "publishedAt": "2026-08-09T15:20:46.000Z",
+      "url": "https://www.ithome.com/0/987/639.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/8/a5ad8238-0b17-4775-9718-54df61486439.jpg?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 8 月 9 日消息，据彭博社记者马克 · 古尔曼今日透露，苹果在构想 Apple Upgrade 设备租赁计划时考虑推出一项功能，让用户拿到新手机时不再需要导数据。 古尔曼表示，苹果多年前就提出了设备租赁构想，当时考虑加入一种所谓的“白手套”服务。 苹果那时候的构想是， 让 iPhone 在工厂里就安装好用户 iCloud 备份的所有数据 ， 用…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-477653e44d65",
       "title": "This scrapped Apple Upgrade feature would’ve made setup much more seamless",
@@ -43,7 +123,7 @@ window.phoneRadarAuto = {
     },
     {
       "id": "auto-0d270695e42e",
-      "title": "索尼新机现身 IMEI 数据库，预计为 Xperia 1 IX",
+      "title": "索尼新手机现身 IMEI 数据库，预计为 Xperia 1 IX",
       "source": "IT之家",
       "brand": "行业",
       "model": "智能手机市场",
@@ -53,8 +133,8 @@ window.phoneRadarAuto = {
       "time": "13:56",
       "publishedAt": "2026-08-09T13:56:53.000Z",
       "url": "https://www.ithome.com/0/987/629.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/8/3cd23b9e-dab4-4f11-8b56-e4a788f5bc01.jpg?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 8 月 9 日消息，据日媒 S-Max 今天报道，索尼新机「XQ-HH44」「XQ-HH54」「XQ-HH74」近日出现在 GSMA IMEI 数据库中，登记日期为 8 月 4 日。 IT之家从原报道获悉，这款新机预计是 Xperia 1 IX，型号中的“H”代表 2027 年度机型。其中，XQ-HH44 是面向日本市场的无 SIM 锁版本；XQ…",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/8/3cd23b9e-dab4-4f11-8b56-e4a788f5bc01.jpg",
+      "summary": "IT之家 8 月 9 日消息，据日媒 S-Max 今天报道，索尼新手机「XQ-HH44」「XQ-HH54」「XQ-HH74」近日出现在 GSMA IMEI 数据库中，登记日期为 8 月 4 日。 IT之家从原报道获悉，这款新机预计是 Xperia 1 IX，型号中的“H”代表 2027 年度机型。其中，XQ-HH44 是面向日本市场的无 SIM 锁版本；X…",
       "tags": [
         "行业",
         "爆料",
@@ -297,26 +377,6 @@ window.phoneRadarAuto = {
       "summary": "纠结已久，终于还是加入了iPhone的坑[受虐滑稽]",
       "tags": [
         "iPhone",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-c7aff4ab51dc",
-      "title": "医疗垃圾 手机壳",
-      "source": "微博热搜",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "待验证",
-      "date": "2026-08-09",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://s.weibo.com/weibo?q=%E5%8C%BB%E7%96%97%E5%9E%83%E5%9C%BE%20%E6%89%8B%E6%9C%BA%E5%A3%B3&t=31&band_rank=9&Refer=top",
-      "image": "",
-      "summary": "医疗垃圾 手机壳",
-      "tags": [
-        "行业",
         "爆料",
         "NewsNow"
       ]
