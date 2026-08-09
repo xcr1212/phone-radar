@@ -1,6 +1,46 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-08-09T05:17:24.884Z",
+  "updatedAt": "2026-08-09T07:15:07.103Z",
   "news": [
+    {
+      "id": "auto-355e8639a436",
+      "title": "iQOO Z11S may debut alongside the Neo 11 Ultra",
+      "source": "Gizmochina",
+      "brand": "vivo",
+      "model": "vivo 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-09",
+      "time": "06:42",
+      "publishedAt": "2026-08-09T06:42:33.000Z",
+      "url": "https://www.gizmochina.com/2026/08/09/iqoo-z11s-coming-soon/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/08/iQOO-Z11-design-1-1-300x124.jpg?x23692",
+      "summary": "Starting tomorrow, iQOO is expected to start teasing the iQOO Neo 11 Ultra in China. If a new leak is to be believed, the brand may also unveil a new Z-series phone alongside it.…",
+      "tags": [
+        "vivo",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-afd2413516fd",
+      "title": "竹本青：【比一杯奶茶还轻，余承东解读华为MateBook Pro S是如何做到798g整机重量】 ● 镁锂合金机身：比镁铝…",
+      "source": "竹本青",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-08-09",
+      "time": "06:17",
+      "publishedAt": "2026-08-09T06:17:43.000Z",
+      "url": "https://www.coolapk.com/feed/73151549",
+      "image": "http://image.coolapk.com/feed/2026/0809/14/4248714_bb0da3ca_6256_6652_921@1440x1920.jpg",
+      "summary": "【比一杯奶茶还轻，余承东解读华为MateBook Pro S是如何做到798g整机重量】 ● 镁锂合金机身：比镁铝合金材料轻25%，真空溅镀镁锂合金工艺 ● 三段式主板：根据不同的功能需求，精准划分区域，彻底砍掉冗余部分 ● 榫卵一体结构：榫卯结构机身，机密卡扣紧紧相连，省掉了螺丝钉 #今日热点# #华为MateBookProS# #鸿蒙6#",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "酷安博主"
+      ]
+    },
     {
       "id": "auto-196d1953964d",
       "title": "iQOO Neo 11 Ultra Geekbench reveals a modified Dimensity 9500 variant to rival Redmi K100 Pro Max",
@@ -122,27 +162,47 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-fd88fd2eccaf",
-      "title": "上半年国内手机销量TOP30出炉",
-      "source": "微博热搜",
-      "brand": "行业",
-      "model": "智能手机市场",
+      "id": "newsnow-d01ac9bc652c",
+      "title": "纠结已久，终于还是加入了iPhone的坑[受虐滑稽]",
+      "source": "酷安热榜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
       "type": "爆料",
-      "trust": "待验证",
+      "trust": "高关注爆料源",
       "date": "2026-08-09",
       "time": "",
       "publishedAt": "",
-      "url": "https://s.weibo.com/weibo?q=%23%E4%B8%8A%E5%8D%8A%E5%B9%B4%E5%9B%BD%E5%86%85%E6%89%8B%E6%9C%BA%E9%94%80%E9%87%8FTOP30%E5%87%BA%E7%82%89%23&t=31&band_rank=10&Refer=top",
+      "url": "https://www.coolapk.com/feed/73143342",
       "image": "",
-      "summary": "上半年国内手机销量TOP30出炉",
+      "summary": "纠结已久，终于还是加入了iPhone的坑[受虐滑稽]",
       "tags": [
-        "行业",
+        "iPhone",
         "爆料",
         "NewsNow"
       ]
     },
     {
-      "id": "newsnow-b02129f33842",
+      "id": "newsnow-d49a64414091",
+      "title": "iPhone17下周或涨价",
+      "source": "微博热搜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "待验证",
+      "date": "2026-08-09",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://s.weibo.com/weibo?q=%23iPhone17%E4%B8%8B%E5%91%A8%E6%88%96%E6%B6%A8%E4%BB%B7%23&t=31&band_rank=18&Refer=top",
+      "image": "",
+      "summary": "iPhone17下周或涨价",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-17a1ea027803",
       "title": "iPhone18Pro 涨价",
       "source": "微博热搜",
       "brand": "iPhone",
@@ -152,7 +212,7 @@ window.phoneRadarAuto = {
       "date": "2026-08-09",
       "time": "",
       "publishedAt": "",
-      "url": "https://s.weibo.com/weibo?q=iPhone18Pro%20%E6%B6%A8%E4%BB%B7&t=31&band_rank=21&Refer=top",
+      "url": "https://s.weibo.com/weibo?q=iPhone18Pro%20%E6%B6%A8%E4%BB%B7&t=31&band_rank=28&Refer=top",
       "image": "",
       "summary": "iPhone18Pro 涨价",
       "tags": [
@@ -195,26 +255,6 @@ window.phoneRadarAuto = {
       "url": "https://www.baidu.com/s?wd=%E4%B8%8A%E5%8D%8A%E5%B9%B4%E5%9B%BD%E5%86%85%E6%89%8B%E6%9C%BA%E9%94%80%E9%87%8F%E6%A6%9C",
       "image": "",
       "summary": "上半年国内手机销量榜",
-      "tags": [
-        "行业",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-49643a13501f",
-      "title": "这种手机壳可能是医疗垃圾做的",
-      "source": "百度热搜",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-09",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.baidu.com/s?wd=%E8%BF%99%E7%A7%8D%E6%89%8B%E6%9C%BA%E5%A3%B3%E5%8F%AF%E8%83%BD%E6%98%AF%E5%8C%BB%E7%96%97%E5%9E%83%E5%9C%BE%E5%81%9A%E7%9A%84",
-      "image": "",
-      "summary": "这种手机壳可能是医疗垃圾做的",
       "tags": [
         "行业",
         "爆料",
