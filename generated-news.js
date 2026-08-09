@@ -1,6 +1,66 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-08-09T13:14:43.589Z",
+  "updatedAt": "2026-08-09T14:51:36.942Z",
   "news": [
+    {
+      "id": "auto-477653e44d65",
+      "title": "This scrapped Apple Upgrade feature would’ve made setup much more seamless",
+      "source": "9to5Mac",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-09",
+      "time": "14:19",
+      "publishedAt": "2026-08-09T14:19:23.000Z",
+      "url": "https://9to5mac.com/2026/08/09/this-scrapped-apple-upgrade-feature-wouldve-made-setup-much-more-seamless/",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/apple-upgrade-iphone.jpg?quality=82&strip=all&w=1600",
+      "summary": "According to the latest edition of the Power On newsletter , Apple had reportedly been considering a feature for Apple Upgrade that would’ve made setting up your iPhone nearly sea…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-a4e3b2e508d9",
+      "title": "Hands-on: This modular controller slides open to transform your iPhone into a mobile game console [Video]",
+      "source": "9to5Mac",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-09",
+      "time": "14:00",
+      "publishedAt": "2026-08-09T14:00:00.000Z",
+      "url": "https://9to5mac.com/2026/08/09/hands-on-this-modular-controller-slides-open-to-transform-your-iphone-into-a-mobile-game-console-video/",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/controller.jpg?quality=82&strip=all&w=1600",
+      "summary": "I first saw the Ohsnap MCON controller at CES last year, and I immediately fell in love with the concept. The idea was simple: give people a full-featured mobile controller that a…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-0d270695e42e",
+      "title": "索尼新机现身 IMEI 数据库，预计为 Xperia 1 IX",
+      "source": "IT之家",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-09",
+      "time": "13:56",
+      "publishedAt": "2026-08-09T13:56:53.000Z",
+      "url": "https://www.ithome.com/0/987/629.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/8/3cd23b9e-dab4-4f11-8b56-e4a788f5bc01.jpg?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 8 月 9 日消息，据日媒 S-Max 今天报道，索尼新机「XQ-HH44」「XQ-HH54」「XQ-HH74」近日出现在 GSMA IMEI 数据库中，登记日期为 8 月 4 日。 IT之家从原报道获悉，这款新机预计是 Xperia 1 IX，型号中的“H”代表 2027 年度机型。其中，XQ-HH44 是面向日本市场的无 SIM 锁版本；XQ…",
+      "tags": [
+        "行业",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-767ced8e6d6e",
       "title": "The Pixel 11 won’t be exciting – what do you want next year?",
@@ -162,26 +222,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "coolapk-user-afd2413516fd",
-      "title": "竹本青：【比一杯奶茶还轻，余承东解读华为MateBook Pro S是如何做到798g整机重量】 ● 镁锂合金机身：比镁铝…",
-      "source": "竹本青",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-08-09",
-      "time": "06:17",
-      "publishedAt": "2026-08-09T06:17:43.000Z",
-      "url": "https://www.coolapk.com/feed/73151549",
-      "image": "http://image.coolapk.com/feed/2026/0809/14/4248714_bb0da3ca_6256_6652_921@1440x1920.jpg",
-      "summary": "【比一杯奶茶还轻，余承东解读华为MateBook Pro S是如何做到798g整机重量】 ● 镁锂合金机身：比镁铝合金材料轻25%，真空溅镀镁锂合金工艺 ● 三段式主板：根据不同的功能需求，精准划分区域，彻底砍掉冗余部分 ● 榫卵一体结构：机身采用榫卵结构，机密卡扣紧紧相连，省掉了螺丝钉 #今日热点# #华为MateBookProS# #鸿蒙6#",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
       "id": "auto-196d1953964d",
       "title": "iQOO Neo 11 Ultra’s Geekbench reveals a modified Dimensity 9500 variant to rival Redmi K100 Pro Max",
       "source": "Gizmochina",
@@ -262,41 +302,21 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-2f9200eabdc8",
-      "title": "主摄实锤hp5，作为子品牌旗舰机配置不升反降简直来招笑的[捂脸]，店员说价格16+512会在5299-5499之间做好心理准备，k100promax。这个价这个主摄给我一个不买小米17max的理由，真的拉完了，这就是你们100个人做出来的手机吗？#小米17ProMax# #REDMIK100ProMax# #红米k100# 红米你真的烂完了这么做。",
-      "source": "酷安热榜",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-08-09",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73127320",
-      "image": "",
-      "summary": "主摄实锤hp5，作为子品牌旗舰机配置不升反降简直来招笑的[捂脸]，店员说价格16+512会在5299-5499之间做好心理准备，k100promax。这个价这个主摄给我一个不买小米17max的理由，真的拉完了，这就是你们100个人做出来的手机吗？#小米17ProMax# #REDMIK100ProMax# #红米k100# 红米你真的烂完了这么做。",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-13a08c8293f4",
-      "title": "曝iPhone18Pro黑色被取消",
+      "id": "newsnow-c7aff4ab51dc",
+      "title": "医疗垃圾 手机壳",
       "source": "微博热搜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
+      "brand": "行业",
+      "model": "智能手机市场",
       "type": "爆料",
       "trust": "待验证",
       "date": "2026-08-09",
       "time": "",
       "publishedAt": "",
-      "url": "https://s.weibo.com/weibo?q=%23%E6%9B%9DiPhone18Pro%E9%BB%91%E8%89%B2%E8%A2%AB%E5%8F%96%E6%B6%88%23&t=31&band_rank=20&Refer=top",
+      "url": "https://s.weibo.com/weibo?q=%E5%8C%BB%E7%96%97%E5%9E%83%E5%9C%BE%20%E6%89%8B%E6%9C%BA%E5%A3%B3&t=31&band_rank=9&Refer=top",
       "image": "",
-      "summary": "曝iPhone18Pro黑色被取消",
+      "summary": "医疗垃圾 手机壳",
       "tags": [
-        "iPhone",
+        "行业",
         "爆料",
         "NewsNow"
       ]
@@ -318,26 +338,6 @@ window.phoneRadarAuto = {
       "tags": [
         "Huawei",
         "市场报告",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-c21bb71283b8",
-      "title": "印度两女生手机被偷抓住窃贼痛揍",
-      "source": "今日头条热榜",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-09",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.toutiao.com/trending/7671957234343870490/",
-      "image": "",
-      "summary": "印度两女生手机被偷抓住窃贼痛揍",
-      "tags": [
-        "行业",
-        "爆料",
         "NewsNow"
       ]
     },

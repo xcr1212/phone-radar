@@ -1,11 +1,11 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-08-09T13:14:43.589Z",
+  "updatedAt": "2026-08-09T14:51:36.942Z",
   "issueDate": "2026-08-09",
   "issue": "VOL.260809",
   "title": "手机情报日报",
-  "intro": "今日筛出 21 条重点，其中 8 条是重点爆料，包含 9 条 iPhone 相关、1 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 20 条重点，其中 8 条是重点爆料，包含 9 条 iPhone 相关、1 条官方确认、0 条参数线索。",
   "stats": {
-    "total": 21,
+    "total": 20,
     "iphone": 9,
     "leaks": 8,
     "official": 1,
@@ -160,6 +160,29 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
+          "id": "auto-0d270695e42e",
+          "title": "索尼新机现身 IMEI 数据库，预计为 Xperia 1 IX",
+          "originalTitle": "",
+          "source": "IT之家",
+          "brand": "行业",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-08-09",
+          "time": "13:56",
+          "publishedAt": "2026-08-09T13:56:53.000Z",
+          "url": "https://www.ithome.com/0/987/629.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/8/3cd23b9e-dab4-4f11-8b56-e4a788f5bc01.jpg?x-bce-process=image/format,f_auto",
+          "verdict": "先看",
+          "takeaway": "IT之家 8 月 9 日消息，据日媒 S-Max 今天报道，索尼新机「XQ-HH44」「XQ-HH54」「XQ-HH74」近日出现在 GSMA IMEI 数据库中，登记日期为 8 月 4 日。 IT之家从原报道获悉，这款新机预计是 Xperia 1 IX，型号中的“H”代表 2027 年度机型。其中，XQ-HH44 是面向日本市场的无 SIM 锁版本；XQ…",
+          "detail": "IT之家 8 月 9 日消息，据日媒 S-Max 今天报道，索尼新机「XQ-HH44」「XQ-HH54」「XQ-HH74」近日出现在 GSMA IMEI 数据库中，登记日期为 8 月 4 日。 IT之家从原报道获悉，这款新机预计是 Xperia 1 IX，型号中的“H”代表 2027 年度机型。其中，XQ-HH44 是面向日本市场的无 SIM 锁版本；XQ…",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
           "id": "weibo-84675cbc24c4",
           "title": "数码闲聊站：尬聊一下，关于折叠屏你们更喜欢那种？ A，大折叠——更大电池+更强影像+商务办…",
           "originalTitle": "",
@@ -182,30 +205,6 @@ window.phoneRadarDaily = {
             "爆料来源"
           ],
           "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "auto-21b5bd20d6ca",
-          "title": "vivo 影像能力相关消息",
-          "originalTitle": "",
-          "source": "Gizmochina",
-          "brand": "vivo",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-08-09",
-          "time": "09:13",
-          "publishedAt": "2026-08-09T09:13:30.000Z",
-          "url": "https://www.gizmochina.com/2026/08/09/iqoo-16t-leak-suggests-200mp-camera-no-periscope-zoom-and-new-cooling-setup/",
-          "image": "https://www.gizmochina.com/wp-content/uploads/2026/05/iQOO-15T-launch-date--300x258.jpg?x23692",
-          "verdict": "先看",
-          "takeaway": "vivo 影像能力相关宣传或案例，主要看是否透露拍摄能力变化。",
-          "detail": "vivo 影像能力相关消息。重点看影像功能是否和新机硬件有关，如果只是拍摄案例或营销内容，参考价值会低一些。",
-          "keyPoints": [
-            "影像硬件",
-            "爆料来源"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         }
@@ -263,26 +262,26 @@ window.phoneRadarDaily = {
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         },
         {
-          "id": "newsnow-13a08c8293f4",
-          "title": "曝iPhone18Pro黑色被取消",
+          "id": "auto-a4e3b2e508d9",
+          "title": "iPhone 影像能力相关消息",
           "originalTitle": "",
-          "source": "微博热搜",
+          "source": "9to5Mac",
           "brand": "iPhone",
           "type": "爆料",
-          "trust": "待验证",
+          "trust": "媒体汇总",
           "date": "2026-08-09",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%9B%9DiPhone18Pro%E9%BB%91%E8%89%B2%E8%A2%AB%E5%8F%96%E6%B6%88%23&t=31&band_rank=20&Refer=top",
-          "image": "",
+          "time": "14:00",
+          "publishedAt": "2026-08-09T14:00:00.000Z",
+          "url": "https://9to5mac.com/2026/08/09/hands-on-this-modular-controller-slides-open-to-transform-your-iphone-into-a-mobile-game-console-video/",
+          "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/controller.jpg?quality=82&strip=all&w=1600",
           "verdict": "扫一眼",
-          "takeaway": "曝iPhone18Pro黑色被取消",
-          "detail": "曝iPhone18Pro黑色被取消",
+          "takeaway": "iPhone 影像能力相关宣传或案例，主要看是否透露拍摄能力变化。",
+          "detail": "iPhone 影像能力相关消息。重点看影像功能是否和新机硬件有关，如果只是拍摄案例或营销内容，参考价值会低一些。",
           "keyPoints": [
-            "爆料"
+            "影像硬件"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "impact": "影响拍照体验，买旗舰机时值得关注。",
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         },
         {
@@ -423,52 +422,6 @@ window.phoneRadarDaily = {
       "hint": "看方向，不急着当购买依据。",
       "items": [
         {
-          "id": "newsnow-2f9200eabdc8",
-          "title": "主摄实锤hp5，作为子品牌旗舰机配置不升反降简直来招笑的[捂脸]，店员说价格16+512会在5299-5499之间做好心理准备，k100promax。这个价这个主摄给我一个不买小米17max的理由，真的拉完了，这就是你们100个人做出来的手机吗？#小米17ProMax# #REDMIK100ProMax# #红米k100# 红米你真的烂完了这么做。",
-          "originalTitle": "",
-          "source": "酷安热榜",
-          "brand": "Xiaomi",
-          "type": "爆料",
-          "trust": "高关注爆料源",
-          "date": "2026-08-09",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://www.coolapk.com/feed/73127320",
-          "image": "",
-          "verdict": "先看",
-          "takeaway": "主摄实锤hp5，作为子品牌旗舰机配置不升反降简直来招笑的[捂脸]，店员说价格16+512会在5299-5499之间做好心理准备，k100promax。这个价这个主摄给我一个不买小米17max的理由，真的拉完了，这就是你们100个人做出来的手机吗？#小米17ProMax# #REDMIK100ProMax# #红米k100# 红米你真的烂完了这么做。",
-          "detail": "主摄实锤hp5，作为子品牌旗舰机配置不升反降简直来招笑的[捂脸]，店员说价格16+512会在5299-5499之间做好心理准备，k100promax。这个价这个主摄给我一个不买小米17max的理由，真的拉完了，这就是你们100个人做出来的手机吗？#小米17ProMax# #REDMIK100ProMax# #红米k100# 红米你真的烂完了这么做。",
-          "keyPoints": [
-            "成本 / 价格"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "影响购买预算，值得先看。",
-          "action": "有具体参数就记录到参数库；没有参数就先收藏。"
-        },
-        {
-          "id": "coolapk-user-afd2413516fd",
-          "title": "竹本青：【比一杯奶茶还轻，余承东解读华为MateBook Pro S是如何做到798g整机重量】 ● 镁锂合金机身：比镁铝…",
-          "originalTitle": "",
-          "source": "竹本青",
-          "brand": "Huawei",
-          "type": "爆料",
-          "trust": "高可信爆料",
-          "date": "2026-08-09",
-          "time": "06:17",
-          "publishedAt": "2026-08-09T06:17:43.000Z",
-          "url": "https://www.coolapk.com/feed/73151549",
-          "image": "http://image.coolapk.com/feed/2026/0809/14/4248714_bb0da3ca_6256_6652_921@1440x1920.jpg",
-          "verdict": "扫一眼",
-          "takeaway": "【比一杯奶茶还轻，余承东解读华为MateBook Pro S是如何做到798g整机重量】 ● 镁锂合金机身：比镁铝合金材料轻25%，真空溅镀镁锂合金工艺 ● 三段式主板：根据不同的功能需求，精准划分区域，彻底砍掉冗余部分 ● 榫卵一体结构：机身采用榫卵结构，机密卡扣紧紧相连，省掉了螺丝钉 #今日热点# #华为MateBookProS# #鸿蒙6#",
-          "detail": "【比一杯奶茶还轻，余承东解读华为MateBook Pro S是如何做到798g整机重量】 ● 镁锂合金机身：比镁铝合金材料轻25%，真空溅镀镁锂合金工艺 ● 三段式主板：根据不同的功能需求，精准划分区域，彻底砍掉冗余部分 ● 榫卵一体结构：机身采用榫卵结构，机密卡扣紧紧相连，省掉了螺丝钉 #今日热点# #华为MateBookProS# #鸿蒙6#",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "可信度较高，但仍属于发布前线索。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
-        {
           "id": "newsnow-7618bf129ba9",
           "title": "2026 上半年国内手机销量 TOP30 出炉，苹果包揽前三、华为领跑国产，哪些品牌的表现值得关注？",
           "originalTitle": "",
@@ -538,6 +491,29 @@ window.phoneRadarDaily = {
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "影响购买预算，值得先看。",
           "action": "有具体参数就记录到参数库；没有参数就先收藏。"
+        },
+        {
+          "id": "auto-a4d173120fda",
+          "title": "Pixel 11 系统功能 / AI 体验相关消息",
+          "originalTitle": "",
+          "source": "Android Authority",
+          "brand": "Pixel",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-08-08",
+          "time": "09:00",
+          "publishedAt": "2026-08-08T09:00:40.000Z",
+          "url": "https://www.androidauthority.com/dont-wait-for-pixel-11-buy-pixel-10-now-3695239/",
+          "image": "",
+          "verdict": "可略过",
+          "takeaway": "Pixel 有系统功能或 AI 体验更新，适合关注后续是否影响日常使用。",
+          "detail": "Pixel 11 系统功能 / AI 体验相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         }
       ]
     }
