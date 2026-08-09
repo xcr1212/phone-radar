@@ -1,6 +1,26 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-08-09T16:53:19.096Z",
+  "updatedAt": "2026-08-09T18:59:28.901Z",
   "news": [
+    {
+      "id": "auto-0ec6430a53a2",
+      "title": "The Pixel 11 is just what Google needs to fix its broken phones",
+      "source": "Android Police",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-09",
+      "time": "17:00",
+      "publishedAt": "2026-08-09T17:00:16.000Z",
+      "url": "https://www.androidpolice.com/pixel-11-what-google-needs-to-fix-its-broken-phones/",
+      "image": "",
+      "summary": "The Pixel's foundations have started to erode, and Google needs to pay attention",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "coolapk-user-56778c4ac5d5",
       "title": "竹本青：【宁波充电场站一极氪7X起火，官方称该车辆近期遭遇严重碰撞且未官方检修】 8月10日资讯，昨日，宁波海曙区一充电场…",

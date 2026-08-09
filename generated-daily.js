@@ -1,5 +1,5 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-08-09T16:53:19.096Z",
+  "updatedAt": "2026-08-09T18:59:28.901Z",
   "issueDate": "2026-08-09",
   "issue": "VOL.260809",
   "title": "手机情报日报",
@@ -354,36 +354,6 @@ window.phoneRadarDaily = {
       ]
     },
     {
-      "id": "launch",
-      "title": "新机与官方发布",
-      "hint": "能直接更新到参数库。",
-      "items": [
-        {
-          "id": "auto-767ced8e6d6e",
-          "title": "Pixel 相关消息",
-          "originalTitle": "",
-          "source": "9to5Google",
-          "brand": "Pixel",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-08-09",
-          "time": "13:00",
-          "publishedAt": "2026-08-09T13:00:00.000Z",
-          "url": "https://9to5google.com/2026/08/09/google-pixel-11-boring/",
-          "image": "",
-          "verdict": "可略过",
-          "takeaway": "Pixel 相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
-          "detail": "Pixel 相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        }
-      ]
-    },
-    {
       "id": "market",
       "title": "行业趋势",
       "hint": "看方向，不急着当购买依据。",
@@ -409,6 +379,29 @@ window.phoneRadarDaily = {
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "目前更像背景信息，对买手机影响不大。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        },
+        {
+          "id": "auto-0ec6430a53a2",
+          "title": "Pixel 相关消息",
+          "originalTitle": "",
+          "source": "Android Police",
+          "brand": "Pixel",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-08-09",
+          "time": "17:00",
+          "publishedAt": "2026-08-09T17:00:16.000Z",
+          "url": "https://www.androidpolice.com/pixel-11-what-google-needs-to-fix-its-broken-phones/",
+          "image": "",
+          "verdict": "可略过",
+          "takeaway": "Pixel 相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
+          "detail": "Pixel 相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         },
         {
