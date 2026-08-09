@@ -1,11 +1,11 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-08-09T20:50:18.145Z",
+  "updatedAt": "2026-08-09T22:48:38.867Z",
   "issueDate": "2026-08-09",
   "issue": "VOL.260809",
   "title": "手机情报日报",
-  "intro": "今日筛出 18 条重点，其中 8 条是重点爆料，包含 11 条 iPhone 相关、1 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 17 条重点，其中 8 条是重点爆料，包含 11 条 iPhone 相关、1 条官方确认、0 条参数线索。",
   "stats": {
-    "total": 18,
+    "total": 17,
     "iphone": 11,
     "leaks": 8,
     "official": 1,
@@ -17,6 +17,30 @@ window.phoneRadarDaily = {
       "title": "重点爆料",
       "hint": "机模、配色、影像、屏幕、电池和芯片线索先看。",
       "items": [
+        {
+          "id": "auto-ed810cd8e430",
+          "title": "古尔曼披露苹果折叠 iPhone Ultra 三年路线：2028 年推出大屏版本",
+          "originalTitle": "",
+          "source": "IT之家",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-08-09",
+          "time": "22:48",
+          "publishedAt": "2026-08-09T22:48:30.000Z",
+          "url": "https://www.ithome.com/0/987/644.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/8/8449fc07-36a7-4d4f-a820-30309b3ce1fd.jpg",
+          "verdict": "先看",
+          "takeaway": "IT之家 8 月 10 日消息，据彭博社记者马克 · 古尔曼（Mark Gurman）透露，苹果已经开始规划第三代折叠屏 iPhone，最早有望于 2028 年推出。 古尔曼在最新一期《Power On》时事通讯中表示，苹果首款折叠屏 iPhone 将于今年迎来他所称的该产品“首次真正具有革命性的设计变化”。与此同时，苹果已经制定了覆盖未来两代产品的研发路…",
+          "detail": "IT之家 8 月 10 日消息，据彭博社记者马克 · 古尔曼（Mark Gurman）透露，苹果已经开始规划第三代折叠屏 iPhone，最早有望于 2028 年推出。 古尔曼在最新一期《Power On》时事通讯中表示，苹果首款折叠屏 iPhone 将于今年迎来他所称的该产品“首次真正具有革命性的设计变化”。与此同时，苹果已经制定了覆盖未来两代产品的研发路…",
+          "keyPoints": [
+            "屏幕形态",
+            "爆料来源"
+          ],
+          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
         {
           "id": "weibo-b237ac09252d",
           "title": "数码闲聊站：下个月手机新品大轰炸，9月上旬预计有2-3家，比如备受瞩目的iPhone 18…",
@@ -182,29 +206,6 @@ window.phoneRadarDaily = {
           "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "auto-0d270695e42e",
-          "title": "索尼新手机现身 IMEI 数据库，预计为 Xperia 1 IX",
-          "originalTitle": "",
-          "source": "IT之家",
-          "brand": "行业",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-08-09",
-          "time": "13:56",
-          "publishedAt": "2026-08-09T13:56:53.000Z",
-          "url": "https://www.ithome.com/0/987/629.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/8/3cd23b9e-dab4-4f11-8b56-e4a788f5bc01.jpg",
-          "verdict": "先看",
-          "takeaway": "IT之家 8 月 9 日消息，据日媒 S-Max 今天报道，索尼新手机「XQ-HH44」「XQ-HH54」「XQ-HH74」近日出现在 GSMA IMEI 数据库中，登记日期为 8 月 4 日。 IT之家从原报道获悉，这款新机预计是 Xperia 1 IX，型号中的“H”代表 2027 年度机型。其中，XQ-HH44 是面向日本市场的无 SIM 锁版本；X…",
-          "detail": "IT之家 8 月 9 日消息，据日媒 S-Max 今天报道，索尼新手机「XQ-HH44」「XQ-HH54」「XQ-HH74」近日出现在 GSMA IMEI 数据库中，登记日期为 8 月 4 日。 IT之家从原报道获悉，这款新机预计是 Xperia 1 IX，型号中的“H”代表 2027 年度机型。其中，XQ-HH44 是面向日本市场的无 SIM 锁版本；X…",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         }
       ]
     },
@@ -237,29 +238,6 @@ window.phoneRadarDaily = {
           "action": "中文源可以直接点开快读；看完只保留和购机有关的点。"
         },
         {
-          "id": "newsnow-d01ac9bc652c",
-          "title": "纠结已久，终于还是加入了iPhone的坑[受虐滑稽]",
-          "originalTitle": "",
-          "source": "酷安热榜",
-          "brand": "iPhone",
-          "type": "爆料",
-          "trust": "高关注爆料源",
-          "date": "2026-08-09",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://www.coolapk.com/feed/73143342",
-          "image": "",
-          "verdict": "先看",
-          "takeaway": "纠结已久，终于还是加入了iPhone的坑[受虐滑稽]",
-          "detail": "纠结已久，终于还是加入了iPhone的坑[受虐滑稽]",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
-        {
           "id": "auto-9bbf43c61c96",
           "title": "iPhone 系统功能 / AI 体验相关消息",
           "originalTitle": "",
@@ -280,6 +258,29 @@ window.phoneRadarDaily = {
           ],
           "confidence": "官方内容，可直接作为已确认信息记录。",
           "impact": "可信度高，但如果不是配置/价格消息，只需要扫一眼。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        },
+        {
+          "id": "auto-6a0e3bbdc0e2",
+          "title": "iPhone 相关消息",
+          "originalTitle": "",
+          "source": "9to5Mac",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-08-09",
+          "time": "17:48",
+          "publishedAt": "2026-08-09T17:48:00.000Z",
+          "url": "https://9to5mac.com/2026/08/09/iphone-17-availability/",
+          "image": "https://9to5mac.com/wp-content/uploads/sites/6/2019/12/iPhone-4.png?w=1600",
+          "verdict": "扫一眼",
+          "takeaway": "iPhone 相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
+          "detail": "iPhone 相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         },
         {
@@ -327,29 +328,6 @@ window.phoneRadarDaily = {
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
-        {
-          "id": "auto-e24ba0e837a2",
-          "title": "iPhone 相关消息",
-          "originalTitle": "",
-          "source": "9to5Mac",
-          "brand": "iPhone",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-08-08",
-          "time": "02:58",
-          "publishedAt": "2026-08-08T02:58:27.000Z",
-          "url": "https://9to5mac.com/2026/08/07/whatsapp-makes-parent-managed-accounts-easier-to-set-up-on-iphone/",
-          "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/11/whatsapp-ios-26.jpg?quality=82&strip=all&w=1600",
-          "verdict": "扫一眼",
-          "takeaway": "iPhone 相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
-          "detail": "iPhone 相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         }
       ]
     },
@@ -374,6 +352,29 @@ window.phoneRadarDaily = {
           "verdict": "扫一眼",
           "takeaway": "右上角被我掰手机壳的时候 把手机框（银色的边框）掰变形了...这样还能多少价格出掉？17pm银白色256G",
           "detail": "右上角被我掰手机壳的时候 把手机框（银色的边框）掰变形了...这样还能多少价格出掉？17pm银白色256G",
+          "keyPoints": [
+            "成本 / 价格"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "影响购买预算，值得先看。",
+          "action": "有具体参数就记录到参数库；没有参数就先收藏。"
+        },
+        {
+          "id": "newsnow-926165f449fd",
+          "title": "2020 年，回头看仍是机圈极具魔幻现实主义色彩的一年。厂商大喊 “5G 元年”，对换机用户而言却是 “涨价元年”—— 旗舰机型仿佛统一了口径，集体上调八百至一千的价格，携手迈入3999的时代。",
+          "originalTitle": "",
+          "source": "酷安热榜",
+          "brand": "行业",
+          "type": "爆料",
+          "trust": "高关注爆料源",
+          "date": "2026-08-09",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://www.coolapk.com/feed/70266966",
+          "image": "",
+          "verdict": "扫一眼",
+          "takeaway": "2020 年，回头看仍是机圈极具魔幻现实主义色彩的一年。厂商大喊 “5G 元年”，对换机用户而言却是 “涨价元年”—— 旗舰机型仿佛统一了口径，集体上调八百至一千的价格，携手迈入3999的时代。",
+          "detail": "2020 年，回头看仍是机圈极具魔幻现实主义色彩的一年。厂商大喊 “5G 元年”，对换机用户而言却是 “涨价元年”—— 旗舰机型仿佛统一了口径，集体上调八百至一千的价格，携手迈入3999的时代。",
           "keyPoints": [
             "成本 / 价格"
           ],
@@ -422,29 +423,6 @@ window.phoneRadarDaily = {
           "detail": "Samsung 折叠屏相关消息。重点看折痕、铰链、厚度、屏幕可靠性和重量是否有实质改善。",
           "keyPoints": [
             "外观 / 配色 / 尺寸"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
-        {
-          "id": "auto-0ec6430a53a2",
-          "title": "Pixel 相关消息",
-          "originalTitle": "",
-          "source": "Android Police",
-          "brand": "Pixel",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-08-09",
-          "time": "17:00",
-          "publishedAt": "2026-08-09T17:00:16.000Z",
-          "url": "https://www.androidpolice.com/pixel-11-what-google-needs-to-fix-its-broken-phones/",
-          "image": "",
-          "verdict": "可略过",
-          "takeaway": "Pixel 相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
-          "detail": "Pixel 相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
-          "keyPoints": [
-            "爆料"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "当作提前信号，别急着下结论，等第二个来源验证。",

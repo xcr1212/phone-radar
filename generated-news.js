@@ -1,6 +1,26 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-08-09T20:50:18.145Z",
+  "updatedAt": "2026-08-09T22:48:38.867Z",
   "news": [
+    {
+      "id": "auto-ed810cd8e430",
+      "title": "古尔曼披露苹果折叠 iPhone Ultra 三年路线：2028 年推出大屏版本",
+      "source": "IT之家",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-09",
+      "time": "22:48",
+      "publishedAt": "2026-08-09T22:48:30.000Z",
+      "url": "https://www.ithome.com/0/987/644.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/8/8449fc07-36a7-4d4f-a820-30309b3ce1fd.jpg",
+      "summary": "IT之家 8 月 10 日消息，据彭博社记者马克 · 古尔曼（Mark Gurman）透露，苹果已经开始规划第三代折叠屏 iPhone，最早有望于 2028 年推出。 古尔曼在最新一期《Power On》时事通讯中表示，苹果首款折叠屏 iPhone 将于今年迎来他所称的该产品“首次真正具有革命性的设计变化”。与此同时，苹果已经制定了覆盖未来两代产品的研发路…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-358d0dbf0add",
       "title": "One reason I wouldn’t rush to upgrade from the Galaxy Z Fold 7 to Fold 8",
@@ -17,6 +37,26 @@ window.phoneRadarAuto = {
       "summary": "The Galaxy Z Fold 8 brings a major change to Samsung's foldable lineup. Instead of the tall design we have become used to over the years, the Fold 8 is shorter and wider and unfol…",
       "tags": [
         "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-6a0e3bbdc0e2",
+      "title": "iPhone 17 set to break a record no flagship has touched in 15 years",
+      "source": "9to5Mac",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-09",
+      "time": "17:48",
+      "publishedAt": "2026-08-09T17:48:00.000Z",
+      "url": "https://9to5mac.com/2026/08/09/iphone-17-availability/",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2019/12/iPhone-4.png?w=1600",
+      "summary": "When Apple released the iPhone 17 last September, the timer started for the new flagship model breaking a record set 15 years ago. The record takes more than a year to break, but…",
+      "tags": [
+        "iPhone",
         "爆料",
         "自动抓取"
       ]
@@ -422,21 +462,21 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-d01ac9bc652c",
-      "title": "纠结已久，终于还是加入了iPhone的坑[受虐滑稽]",
+      "id": "newsnow-926165f449fd",
+      "title": "2020 年，回头看仍是机圈极具魔幻现实主义色彩的一年。厂商大喊 “5G 元年”，对换机用户而言却是 “涨价元年”—— 旗舰机型仿佛统一了口径，集体上调八百至一千的价格，携手迈入3999的时代。",
       "source": "酷安热榜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
+      "brand": "行业",
+      "model": "智能手机市场",
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-08-09",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73143342",
+      "url": "https://www.coolapk.com/feed/70266966",
       "image": "",
-      "summary": "纠结已久，终于还是加入了iPhone的坑[受虐滑稽]",
+      "summary": "2020 年，回头看仍是机圈极具魔幻现实主义色彩的一年。厂商大喊 “5G 元年”，对换机用户而言却是 “涨价元年”—— 旗舰机型仿佛统一了口径，集体上调八百至一千的价格，携手迈入3999的时代。",
       "tags": [
-        "iPhone",
+        "行业",
         "爆料",
         "NewsNow"
       ]
