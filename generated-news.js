@@ -1,6 +1,66 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-08-09T10:51:48.485Z",
+  "updatedAt": "2026-08-09T13:14:43.589Z",
   "news": [
+    {
+      "id": "auto-767ced8e6d6e",
+      "title": "The Pixel 11 won’t be exciting – what do you want next year?",
+      "source": "9to5Google",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-09",
+      "time": "13:00",
+      "publishedAt": "2026-08-09T13:00:00.000Z",
+      "url": "https://9to5google.com/2026/08/09/google-pixel-11-boring/",
+      "image": "",
+      "summary": "We’re just a few days out from the launch of Google’s Pixel 11 series and, at this point, it’s all out there . And, yeah, it’s shaping up to be a pretty boring year, and that’s go…",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-fdbd3ac2a348",
+      "title": "Everyone thinks the iPhone Ultra will crush Samsung. They’re wrong",
+      "source": "Android Authority",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-09",
+      "time": "12:00",
+      "publishedAt": "2026-08-09T12:00:54.000Z",
+      "url": "https://www.androidauthority.com/galaxy-z-fold-8-advantage-over-iphone-ultra-3692932/",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2026/07/Galaxy-Z-Fold-8.-all-4-colors.jpg",
+      "summary": "This won't be a blowout.",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-3044c0611547",
+      "title": "Foldable 'iPhone Ultra' Rumored to Come in These Two Colors",
+      "source": "MacRumors",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-09",
+      "time": "11:53",
+      "publishedAt": "2026-08-09T11:53:44.000Z",
+      "url": "https://www.macrumors.com/2026/08/09/iphone-ultra-rumored-to-come-in-these-two-colors/",
+      "image": "https://images.macrumors.com/article-new/2025/03/Foldable-iPhone-2023-Feature-1.jpg",
+      "summary": "New images of camera protector accessories for the \" iPhone Ultra \" suggest Apple's first foldable iPhone will launch in silver and dark blue finishes. Leaker Sonny Dickson yester…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-8dfb78bf6fe5",
       "title": "The Pixel 10 Pro is a flawed and inconsistent phone — and I’m still using it one year later",
@@ -142,26 +202,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-d22a28983ac0",
-      "title": "天玑 9500 新变体曝光，iQOO Neo 11 至尊版首发搭载",
-      "source": "IT之家",
-      "brand": "vivo",
-      "model": "vivo 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-09",
-      "time": "04:13",
-      "publishedAt": "2026-08-09T04:13:52.000Z",
-      "url": "https://www.ithome.com/0/987/532.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/8/9061fe46-17f6-433b-98af-864944041da7.png?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 8 月 9 日消息，一款型号为 V2573A 新机于 8 月 8 日现身跑分平台 Geekbench，博主 @体验more 预测该机为 iQOO Neo 11 至尊版。 该机搭载天玑 9500 的新变体： CPU：1*4.21GHz C1-Ultra+3*3.50GHz C1-Premium+4*2.70GHz C1-Pro， GPU：Mali…",
-      "tags": [
-        "vivo",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-3c35a7749edf",
       "title": "New leak may reveal the iPhone Ultra’s two launch colors",
       "source": "9to5Mac",
@@ -222,8 +262,28 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-f55229c79b8e",
-      "title": "折叠屏iPhone配色",
+      "id": "newsnow-2f9200eabdc8",
+      "title": "主摄实锤hp5，作为子品牌旗舰机配置不升反降简直来招笑的[捂脸]，店员说价格16+512会在5299-5499之间做好心理准备，k100promax。这个价这个主摄给我一个不买小米17max的理由，真的拉完了，这就是你们100个人做出来的手机吗？#小米17ProMax# #REDMIK100ProMax# #红米k100# 红米你真的烂完了这么做。",
+      "source": "酷安热榜",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-08-09",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/73127320",
+      "image": "",
+      "summary": "主摄实锤hp5，作为子品牌旗舰机配置不升反降简直来招笑的[捂脸]，店员说价格16+512会在5299-5499之间做好心理准备，k100promax。这个价这个主摄给我一个不买小米17max的理由，真的拉完了，这就是你们100个人做出来的手机吗？#小米17ProMax# #REDMIK100ProMax# #红米k100# 红米你真的烂完了这么做。",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-13a08c8293f4",
+      "title": "曝iPhone18Pro黑色被取消",
       "source": "微博热搜",
       "brand": "iPhone",
       "model": "iPhone 相关机型",
@@ -232,9 +292,9 @@ window.phoneRadarAuto = {
       "date": "2026-08-09",
       "time": "",
       "publishedAt": "",
-      "url": "https://s.weibo.com/weibo?q=%23%E6%8A%98%E5%8F%A0%E5%B1%8FiPhone%E9%85%8D%E8%89%B2%23&t=31&band_rank=28&Refer=top",
+      "url": "https://s.weibo.com/weibo?q=%23%E6%9B%9DiPhone18Pro%E9%BB%91%E8%89%B2%E8%A2%AB%E5%8F%96%E6%B6%88%23&t=31&band_rank=20&Refer=top",
       "image": "",
-      "summary": "折叠屏iPhone配色",
+      "summary": "曝iPhone18Pro黑色被取消",
       "tags": [
         "iPhone",
         "爆料",
@@ -243,7 +303,7 @@ window.phoneRadarAuto = {
     },
     {
       "id": "newsnow-7618bf129ba9",
-      "title": "2026 上半年国内手机销量 TOP30 出炉，苹果包揽前三华为领跑国产，哪些品牌的表现值得关注？",
+      "title": "2026 上半年国内手机销量 TOP30 出炉，苹果包揽前三、华为领跑国产，哪些品牌的表现值得关注？",
       "source": "知乎热榜",
       "brand": "Huawei",
       "model": "Huawei 相关机型",
@@ -254,7 +314,7 @@ window.phoneRadarAuto = {
       "publishedAt": "",
       "url": "https://www.zhihu.com/question/2069715027674624332",
       "image": "",
-      "summary": "2026 上半年国内手机销量 TOP30 出炉，苹果包揽前三华为领跑国产，哪些品牌的表现值得关注？",
+      "summary": "2026 上半年国内手机销量 TOP30 出炉，苹果包揽前三、华为领跑国产，哪些品牌的表现值得关注？",
       "tags": [
         "Huawei",
         "市场报告",
@@ -262,9 +322,9 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-af9f5831b4a3",
-      "title": "盘点手机圈的那些遗憾",
-      "source": "B站热搜",
+      "id": "newsnow-c21bb71283b8",
+      "title": "印度两女生手机被偷抓住窃贼痛揍",
+      "source": "今日头条热榜",
       "brand": "行业",
       "model": "智能手机市场",
       "type": "爆料",
@@ -272,9 +332,9 @@ window.phoneRadarAuto = {
       "date": "2026-08-09",
       "time": "",
       "publishedAt": "",
-      "url": "https://search.bilibili.com/all?keyword=%E7%9B%98%E7%82%B9%E6%89%8B%E6%9C%BA%E5%9C%88%E7%9A%84%E9%82%A3%E4%BA%9B%E9%81%97%E6%86%BE",
+      "url": "https://www.toutiao.com/trending/7671957234343870490/",
       "image": "",
-      "summary": "盘点手机圈的那些遗憾",
+      "summary": "印度两女生手机被偷抓住窃贼痛揍",
       "tags": [
         "行业",
         "爆料",
