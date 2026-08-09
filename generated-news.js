@@ -1,6 +1,66 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-08-09T09:01:21.899Z",
+  "updatedAt": "2026-08-09T10:51:48.485Z",
   "news": [
+    {
+      "id": "auto-8dfb78bf6fe5",
+      "title": "The Pixel 10 Pro is a flawed and inconsistent phone — and I’m still using it one year later",
+      "source": "Android Authority",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-09",
+      "time": "10:00",
+      "publishedAt": "2026-08-09T10:00:33.000Z",
+      "url": "https://www.androidauthority.com/pixel-10-pro-one-year-later-3691473/",
+      "image": "",
+      "summary": "The Pixel 10 Pro is flawed but lovable.",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-d90957356329",
+      "title": "消息称 iQOO Z11S 手机本月发布，搭载天玑 7500 / Turbo 芯片",
+      "source": "IT之家",
+      "brand": "vivo",
+      "model": "vivo 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-09",
+      "time": "09:41",
+      "publishedAt": "2026-08-09T09:41:22.000Z",
+      "url": "https://www.ithome.com/0/987/583.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/8/896fc3af-000a-487e-8fa4-bd229caddf3f.jpg",
+      "summary": "IT之家 8 月 9 日消息，一款型号为 V2603A 的 vivo 新机近日 现身 Geekbench 跑分数据库 ，该机已通过 3C 认证，支持 44W 快充。 博主 @体验more 今日确认，这款新机是 iQOO Z11S ，并透露其将于 本月发布 ，搭载天玑 7500 / 天玑 7500 Turbo 芯片，可能和 iQOO Neo 11 至尊版一起…",
+      "tags": [
+        "vivo",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-21b5bd20d6ca",
+      "title": "iQOO 16T leak suggests 200MP camera, no periscope zoom, and new cooling setup",
+      "source": "Gizmochina",
+      "brand": "vivo",
+      "model": "vivo 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-09",
+      "time": "09:13",
+      "publishedAt": "2026-08-09T09:13:30.000Z",
+      "url": "https://www.gizmochina.com/2026/08/09/iqoo-16t-leak-suggests-200mp-camera-no-periscope-zoom-and-new-cooling-setup/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/05/iQOO-15T-launch-date--300x258.jpg?x23692",
+      "summary": "Weibo tipster Smart Pikachu says the iQOO 16T is now being tested with a combined liquid and air cooling system. The leak also says the phone will keep a 200MP main camera but won…",
+      "tags": [
+        "vivo",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-e473439f036b",
       "title": "影石 Insta360 Ace Pro 3 运动相机参数曝光：1 英寸 5000 万像素 CMOS，预计今年底上市",
@@ -54,7 +114,7 @@ window.phoneRadarAuto = {
       "publishedAt": "2026-08-09T06:17:43.000Z",
       "url": "https://www.coolapk.com/feed/73151549",
       "image": "http://image.coolapk.com/feed/2026/0809/14/4248714_bb0da3ca_6256_6652_921@1440x1920.jpg",
-      "summary": "【比一杯奶茶还轻，余承东解读华为MateBook Pro S是如何做到798g整机重量】 ● 镁锂合金机身：比镁铝合金材料轻25%，真空溅镀镁锂合金工艺 ● 三段式主板：根据不同的功能需求，精准划分区域，彻底砍掉冗余部分 ● 榫卵一体结构：榫卯结构机身，机密卡扣紧紧相连，省掉了螺丝钉 #今日热点# #华为MateBookProS# #鸿蒙6#",
+      "summary": "【比一杯奶茶还轻，余承东解读华为MateBook Pro S是如何做到798g整机重量】 ● 镁锂合金机身：比镁铝合金材料轻25%，真空溅镀镁锂合金工艺 ● 三段式主板：根据不同的功能需求，精准划分区域，彻底砍掉冗余部分 ● 榫卵一体结构：机身采用榫卵结构，机密卡扣紧紧相连，省掉了螺丝钉 #今日热点# #华为MateBookProS# #鸿蒙6#",
       "tags": [
         "Huawei",
         "爆料",
@@ -97,26 +157,6 @@ window.phoneRadarAuto = {
       "summary": "IT之家 8 月 9 日消息，一款型号为 V2573A 新机于 8 月 8 日现身跑分平台 Geekbench，博主 @体验more 预测该机为 iQOO Neo 11 至尊版。 该机搭载天玑 9500 的新变体： CPU：1*4.21GHz C1-Ultra+3*3.50GHz C1-Premium+4*2.70GHz C1-Pro， GPU：Mali…",
       "tags": [
         "vivo",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-9bb8fee08b10",
-      "title": "苹果首款折叠 iPhone 配色曝光：iPhone Ultra 有望提供银色、深蓝色",
-      "source": "IT之家",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-09",
-      "time": "00:53",
-      "publishedAt": "2026-08-09T00:53:49.000Z",
-      "url": "https://www.ithome.com/0/987/483.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/8/04727092-7de3-4ff7-86ed-b6dc283eb048.jpg?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 8 月 9 日消息，苹果预计将在下个月发布旗下首款折叠 iPhone。今日有爆料称，这款被称为 iPhone Ultra 的折叠机可能会提供银色和深蓝色两种配色。 IT之家注意到，爆料人士 Sonny Dickson 今天在社交媒体上分享了两张图片，展示了两款分别采用银色和深蓝色的 iPhone 摄像头保护盖。 这些配件用于覆盖 iPhone U…",
-      "tags": [
-        "iPhone",
         "爆料",
         "自动抓取"
       ]
@@ -182,28 +222,8 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-2f9200eabdc8",
-      "title": "主摄实锤hp5，作为子品牌旗舰机配置不升反降简直来招笑的[捂脸]，店员说价格16+512会在5299-5499之间做好心理准备，k100promax。这个价这个主摄给我一个不买小米17max的理由，真的拉完了，这就是你们100个人做出来的手机吗？#小米17ProMax# #REDMIK100ProMax# #红米k100# 红米你真的烂完了这么做。",
-      "source": "酷安热榜",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-08-09",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73127320",
-      "image": "",
-      "summary": "主摄实锤hp5，作为子品牌旗舰机配置不升反降简直来招笑的[捂脸]，店员说价格16+512会在5299-5499之间做好心理准备，k100promax。这个价这个主摄给我一个不买小米17max的理由，真的拉完了，这就是你们100个人做出来的手机吗？#小米17ProMax# #REDMIK100ProMax# #红米k100# 红米你真的烂完了这么做。",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-940a5d3e5b70",
-      "title": "iPhone17下周或涨价",
+      "id": "newsnow-f55229c79b8e",
+      "title": "折叠屏iPhone配色",
       "source": "微博热搜",
       "brand": "iPhone",
       "model": "iPhone 相关机型",
@@ -212,9 +232,9 @@ window.phoneRadarAuto = {
       "date": "2026-08-09",
       "time": "",
       "publishedAt": "",
-      "url": "https://s.weibo.com/weibo?q=%23iPhone17%E4%B8%8B%E5%91%A8%E6%88%96%E6%B6%A8%E4%BB%B7%23&t=31&band_rank=17&Refer=top",
+      "url": "https://s.weibo.com/weibo?q=%23%E6%8A%98%E5%8F%A0%E5%B1%8FiPhone%E9%85%8D%E8%89%B2%23&t=31&band_rank=28&Refer=top",
       "image": "",
-      "summary": "iPhone17下周或涨价",
+      "summary": "折叠屏iPhone配色",
       "tags": [
         "iPhone",
         "爆料",
@@ -242,9 +262,9 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-addacfaa1c10",
-      "title": "上半年国内手机销量榜",
-      "source": "百度热搜",
+      "id": "newsnow-af9f5831b4a3",
+      "title": "盘点手机圈的那些遗憾",
+      "source": "B站热搜",
       "brand": "行业",
       "model": "智能手机市场",
       "type": "爆料",
@@ -252,9 +272,9 @@ window.phoneRadarAuto = {
       "date": "2026-08-09",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.baidu.com/s?wd=%E4%B8%8A%E5%8D%8A%E5%B9%B4%E5%9B%BD%E5%86%85%E6%89%8B%E6%9C%BA%E9%94%80%E9%87%8F%E6%A6%9C",
+      "url": "https://search.bilibili.com/all?keyword=%E7%9B%98%E7%82%B9%E6%89%8B%E6%9C%BA%E5%9C%88%E7%9A%84%E9%82%A3%E4%BA%9B%E9%81%97%E6%86%BE",
       "image": "",
-      "summary": "上半年国内手机销量榜",
+      "summary": "盘点手机圈的那些遗憾",
       "tags": [
         "行业",
         "爆料",

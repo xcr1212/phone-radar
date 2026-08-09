@@ -1,12 +1,12 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-08-09T09:01:21.899Z",
+  "updatedAt": "2026-08-09T10:51:48.485Z",
   "issueDate": "2026-08-09",
   "issue": "VOL.260809",
   "title": "手机情报日报",
-  "intro": "今日筛出 20 条重点，其中 8 条是重点爆料，包含 10 条 iPhone 相关、1 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 19 条重点，其中 8 条是重点爆料，包含 9 条 iPhone 相关、1 条官方确认、0 条参数线索。",
   "stats": {
-    "total": 20,
-    "iphone": 10,
+    "total": 19,
+    "iphone": 9,
     "leaks": 8,
     "official": 1,
     "specs": 0
@@ -17,30 +17,6 @@ window.phoneRadarDaily = {
       "title": "重点爆料",
       "hint": "机模、配色、影像、屏幕、电池和芯片线索先看。",
       "items": [
-        {
-          "id": "auto-9bb8fee08b10",
-          "title": "苹果首款折叠 iPhone 配色曝光：iPhone Ultra 有望提供银色、深蓝色",
-          "originalTitle": "",
-          "source": "IT之家",
-          "brand": "iPhone",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-08-09",
-          "time": "00:53",
-          "publishedAt": "2026-08-09T00:53:49.000Z",
-          "url": "https://www.ithome.com/0/987/483.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/8/04727092-7de3-4ff7-86ed-b6dc283eb048.jpg?x-bce-process=image/format,f_auto",
-          "verdict": "先看",
-          "takeaway": "IT之家 8 月 9 日消息，苹果预计将在下个月发布旗下首款折叠 iPhone。今日有爆料称，这款被称为 iPhone Ultra 的折叠机可能会提供银色和深蓝色两种配色。 IT之家注意到，爆料人士 Sonny Dickson 今天在社交媒体上分享了两张图片，展示了两款分别采用银色和深蓝色的 iPhone 摄像头保护盖。 这些配件用于覆盖 iPhone U…",
-          "detail": "IT之家 8 月 9 日消息，苹果预计将在下个月发布旗下首款折叠 iPhone。今日有爆料称，这款被称为 iPhone Ultra 的折叠机可能会提供银色和深蓝色两种配色。 IT之家注意到，爆料人士 Sonny Dickson 今天在社交媒体上分享了两张图片，展示了两款分别采用银色和深蓝色的 iPhone 摄像头保护盖。 这些配件用于覆盖 iPhone U…",
-          "keyPoints": [
-            "外观 / 配色 / 尺寸",
-            "爆料来源"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
         {
           "id": "weibo-b237ac09252d",
           "title": "数码闲聊站：下个月手机新品大轰炸，9月上旬预计有2-3家，比如备受瞩目的iPhone 18…",
@@ -61,6 +37,30 @@ window.phoneRadarDaily = {
             "爆料来源"
           ],
           "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "newsnow-f55229c79b8e",
+          "title": "折叠屏iPhone配色",
+          "originalTitle": "",
+          "source": "微博热搜",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "待验证",
+          "date": "2026-08-09",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%8A%98%E5%8F%A0%E5%B1%8FiPhone%E9%85%8D%E8%89%B2%23&t=31&band_rank=28&Refer=top",
+          "image": "",
+          "verdict": "先看",
+          "takeaway": "折叠屏iPhone配色",
+          "detail": "折叠屏iPhone配色",
+          "keyPoints": [
+            "外观 / 配色 / 尺寸",
+            "屏幕形态"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
@@ -136,6 +136,30 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
+          "id": "auto-d90957356329",
+          "title": "消息称 iQOO Z11S 手机本月发布，搭载天玑 7500 / Turbo 芯片",
+          "originalTitle": "",
+          "source": "IT之家",
+          "brand": "vivo",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-08-09",
+          "time": "09:41",
+          "publishedAt": "2026-08-09T09:41:22.000Z",
+          "url": "https://www.ithome.com/0/987/583.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/8/896fc3af-000a-487e-8fa4-bd229caddf3f.jpg",
+          "verdict": "先看",
+          "takeaway": "IT之家 8 月 9 日消息，一款型号为 V2603A 的 vivo 新机近日 现身 Geekbench 跑分数据库 ，该机已通过 3C 认证，支持 44W 快充。 博主 @体验more 今日确认，这款新机是 iQOO Z11S ，并透露其将于 本月发布 ，搭载天玑 7500 / 天玑 7500 Turbo 芯片，可能和 iQOO Neo 11 至尊版一起…",
+          "detail": "IT之家 8 月 9 日消息，一款型号为 V2603A 的 vivo 新机近日 现身 Geekbench 跑分数据库 ，该机已通过 3C 认证，支持 44W 快充。 博主 @体验more 今日确认，这款新机是 iQOO Z11S ，并透露其将于 本月发布 ，搭载天玑 7500 / 天玑 7500 Turbo 芯片，可能和 iQOO Neo 11 至尊版一起…",
+          "keyPoints": [
+            "芯片 / 性能",
+            "爆料来源"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
           "id": "auto-d22a28983ac0",
           "title": "天玑 9500 新变体曝光，iQOO Neo 11 至尊版首发搭载",
           "originalTitle": "",
@@ -175,32 +199,6 @@ window.phoneRadarDaily = {
           "takeaway": "8月新机发布会不是很明朗吗[吃瓜] 8.11——REDMI K100 Pro+PM 8.12——荣耀Robot Phone 8.**——iQOO Neo11至尊版+Z 努比亚Navix Ultra待定；如果算上系统，卢总还说澎湃OS4会在7-8月登场，现在也就只剩8月了",
           "detail": "8月新机发布会不是很明朗吗[吃瓜] 8.11——REDMI K100 Pro+PM 8.12——荣耀Robot Phone 8.**——iQOO Neo11至尊版+Z 努比亚Navix Ultra待定；如果算上系统，卢总还说澎湃OS4会在7-8月登场，现在也就只剩8月了",
           "keyPoints": [
-            "爆料来源"
-          ],
-          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "weibo-84675cbc24c4",
-          "title": "数码闲聊站：尬聊一下，关于折叠屏你们更喜欢那种？ A，大折叠——更大电池+更强影像+商务办…",
-          "originalTitle": "",
-          "source": "数码闲聊站",
-          "brand": "行业",
-          "type": "爆料",
-          "trust": "高关注爆料源",
-          "date": "2026-08-08",
-          "time": "11:05",
-          "publishedAt": "2026-08-08T11:05:00.000Z",
-          "url": "https://weibo.com/6048569942/Rct5cD6lh",
-          "image": "",
-          "verdict": "先看",
-          "takeaway": "尬聊一下，关于折叠屏你们更喜欢那种？ A，大折叠——更大电池+更强影像+商务办公 B，阔折叠——更小巧便携+影音娱乐",
-          "detail": "尬聊一下，关于折叠屏你们更喜欢那种？ A，大折叠——更大电池+更强影像+商务办公 B，阔折叠——更小巧便携+影音娱乐",
-          "keyPoints": [
-            "影像硬件",
-            "屏幕形态",
-            "电池 / 充电",
             "爆料来源"
           ],
           "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
@@ -258,29 +256,6 @@ window.phoneRadarDaily = {
           ],
           "confidence": "官方内容，可直接作为已确认信息记录。",
           "impact": "可信度高，但如果不是配置/价格消息，只需要扫一眼。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
-        {
-          "id": "newsnow-940a5d3e5b70",
-          "title": "iPhone17下周或涨价",
-          "originalTitle": "",
-          "source": "微博热搜",
-          "brand": "iPhone",
-          "type": "爆料",
-          "trust": "待验证",
-          "date": "2026-08-09",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://s.weibo.com/weibo?q=%23iPhone17%E4%B8%8B%E5%91%A8%E6%88%96%E6%B6%A8%E4%BB%B7%23&t=31&band_rank=17&Refer=top",
-          "image": "",
-          "verdict": "扫一眼",
-          "takeaway": "iPhone17下周或涨价",
-          "detail": "iPhone17下周或涨价",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "影响购买预算，值得先看。",
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         },
         {
@@ -398,29 +373,6 @@ window.phoneRadarDaily = {
       "hint": "看方向，不急着当购买依据。",
       "items": [
         {
-          "id": "newsnow-2f9200eabdc8",
-          "title": "主摄实锤hp5，作为子品牌旗舰机配置不升反降简直来招笑的[捂脸]，店员说价格16+512会在5299-5499之间做好心理准备，k100promax。这个价这个主摄给我一个不买小米17max的理由，真的拉完了，这就是你们100个人做出来的手机吗？#小米17ProMax# #REDMIK100ProMax# #红米k100# 红米你真的烂完了这么做。",
-          "originalTitle": "",
-          "source": "酷安热榜",
-          "brand": "Xiaomi",
-          "type": "爆料",
-          "trust": "高关注爆料源",
-          "date": "2026-08-09",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://www.coolapk.com/feed/73127320",
-          "image": "",
-          "verdict": "先看",
-          "takeaway": "主摄实锤hp5，作为子品牌旗舰机配置不升反降简直来招笑的[捂脸]，店员说价格16+512会在5299-5499之间做好心理准备，k100promax。这个价这个主摄给我一个不买小米17max的理由，真的拉完了，这就是你们100个人做出来的手机吗？#小米17ProMax# #REDMIK100ProMax# #红米k100# 红米你真的烂完了这么做。",
-          "detail": "主摄实锤hp5，作为子品牌旗舰机配置不升反降简直来招笑的[捂脸]，店员说价格16+512会在5299-5499之间做好心理准备，k100promax。这个价这个主摄给我一个不买小米17max的理由，真的拉完了，这就是你们100个人做出来的手机吗？#小米17ProMax# #REDMIK100ProMax# #红米k100# 红米你真的烂完了这么做。",
-          "keyPoints": [
-            "成本 / 价格"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "影响购买预算，值得先看。",
-          "action": "有具体参数就记录到参数库；没有参数就先收藏。"
-        },
-        {
           "id": "coolapk-user-afd2413516fd",
           "title": "竹本青：【比一杯奶茶还轻，余承东解读华为MateBook Pro S是如何做到798g整机重量】 ● 镁锂合金机身：比镁铝…",
           "originalTitle": "",
@@ -434,8 +386,8 @@ window.phoneRadarDaily = {
           "url": "https://www.coolapk.com/feed/73151549",
           "image": "http://image.coolapk.com/feed/2026/0809/14/4248714_bb0da3ca_6256_6652_921@1440x1920.jpg",
           "verdict": "扫一眼",
-          "takeaway": "【比一杯奶茶还轻，余承东解读华为MateBook Pro S是如何做到798g整机重量】 ● 镁锂合金机身：比镁铝合金材料轻25%，真空溅镀镁锂合金工艺 ● 三段式主板：根据不同的功能需求，精准划分区域，彻底砍掉冗余部分 ● 榫卵一体结构：榫卯结构机身，机密卡扣紧紧相连，省掉了螺丝钉 #今日热点# #华为MateBookProS# #鸿蒙6#",
-          "detail": "【比一杯奶茶还轻，余承东解读华为MateBook Pro S是如何做到798g整机重量】 ● 镁锂合金机身：比镁铝合金材料轻25%，真空溅镀镁锂合金工艺 ● 三段式主板：根据不同的功能需求，精准划分区域，彻底砍掉冗余部分 ● 榫卵一体结构：榫卯结构机身，机密卡扣紧紧相连，省掉了螺丝钉 #今日热点# #华为MateBookProS# #鸿蒙6#",
+          "takeaway": "【比一杯奶茶还轻，余承东解读华为MateBook Pro S是如何做到798g整机重量】 ● 镁锂合金机身：比镁铝合金材料轻25%，真空溅镀镁锂合金工艺 ● 三段式主板：根据不同的功能需求，精准划分区域，彻底砍掉冗余部分 ● 榫卵一体结构：机身采用榫卵结构，机密卡扣紧紧相连，省掉了螺丝钉 #今日热点# #华为MateBookProS# #鸿蒙6#",
+          "detail": "【比一杯奶茶还轻，余承东解读华为MateBook Pro S是如何做到798g整机重量】 ● 镁锂合金机身：比镁铝合金材料轻25%，真空溅镀镁锂合金工艺 ● 三段式主板：根据不同的功能需求，精准划分区域，彻底砍掉冗余部分 ● 榫卵一体结构：机身采用榫卵结构，机密卡扣紧紧相连，省掉了螺丝钉 #今日热点# #华为MateBookProS# #鸿蒙6#",
           "keyPoints": [
             "爆料"
           ],
@@ -464,6 +416,29 @@ window.phoneRadarDaily = {
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "目前更像背景信息，对买手机影响不大。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        },
+        {
+          "id": "auto-8dfb78bf6fe5",
+          "title": "Pixel 相关消息",
+          "originalTitle": "",
+          "source": "Android Authority",
+          "brand": "Pixel",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-08-09",
+          "time": "10:00",
+          "publishedAt": "2026-08-09T10:00:33.000Z",
+          "url": "https://www.androidauthority.com/pixel-10-pro-one-year-later-3691473/",
+          "image": "",
+          "verdict": "可略过",
+          "takeaway": "Pixel 相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
+          "detail": "Pixel 相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         },
         {
