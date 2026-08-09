@@ -1,6 +1,26 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-08-09T18:59:28.901Z",
+  "updatedAt": "2026-08-09T20:50:18.145Z",
   "news": [
+    {
+      "id": "auto-358d0dbf0add",
+      "title": "One reason I wouldn’t rush to upgrade from the Galaxy Z Fold 7 to Fold 8",
+      "source": "SamMobile",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-09",
+      "time": "19:49",
+      "publishedAt": "2026-08-09T19:49:47.000Z",
+      "url": "https://www.sammobile.com/opinion/one-reason-galaxy-z-fold-7-owners-think-twice-fold-8/",
+      "image": "https://www.sammobile.com/wp-content/uploads/2026/08/Custom-image-3.png",
+      "summary": "The Galaxy Z Fold 8 brings a major change to Samsung's foldable lineup. Instead of the tall design we have become used to over the years, the Fold 8 is shorter and wider and unfol…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-0ec6430a53a2",
       "title": "The Pixel 11 is just what Google needs to fix its broken phones",
@@ -379,6 +399,26 @@ window.phoneRadarAuto = {
         "iPhone",
         "官方",
         "自动抓取"
+      ]
+    },
+    {
+      "id": "newsnow-1431905564e8",
+      "title": "右上角被我掰手机壳的时候 把手机框（银色的边框）掰变形了...这样还能多少价格出掉？17pm银白色256G",
+      "source": "酷安热榜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-08-09",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/73153584",
+      "image": "",
+      "summary": "右上角被我掰手机壳的时候 把手机框（银色的边框）掰变形了...这样还能多少价格出掉？17pm银白色256G",
+      "tags": [
+        "行业",
+        "爆料",
+        "NewsNow"
       ]
     },
     {

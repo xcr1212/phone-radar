@@ -1,5 +1,5 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-08-09T18:59:28.901Z",
+  "updatedAt": "2026-08-09T20:50:18.145Z",
   "issueDate": "2026-08-09",
   "issue": "VOL.260809",
   "title": "手机情报日报",
@@ -359,6 +359,29 @@ window.phoneRadarDaily = {
       "hint": "看方向，不急着当购买依据。",
       "items": [
         {
+          "id": "newsnow-1431905564e8",
+          "title": "右上角被我掰手机壳的时候 把手机框（银色的边框）掰变形了...这样还能多少价格出掉？17pm银白色256G",
+          "originalTitle": "",
+          "source": "酷安热榜",
+          "brand": "行业",
+          "type": "爆料",
+          "trust": "高关注爆料源",
+          "date": "2026-08-09",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://www.coolapk.com/feed/73153584",
+          "image": "",
+          "verdict": "扫一眼",
+          "takeaway": "右上角被我掰手机壳的时候 把手机框（银色的边框）掰变形了...这样还能多少价格出掉？17pm银白色256G",
+          "detail": "右上角被我掰手机壳的时候 把手机框（银色的边框）掰变形了...这样还能多少价格出掉？17pm银白色256G",
+          "keyPoints": [
+            "成本 / 价格"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "影响购买预算，值得先看。",
+          "action": "有具体参数就记录到参数库；没有参数就先收藏。"
+        },
+        {
           "id": "newsnow-7618bf129ba9",
           "title": "2026 上半年国内手机销量 TOP30 出炉，苹果包揽前三、华为领跑国产，哪些品牌的表现值得关注？",
           "originalTitle": "",
@@ -382,6 +405,29 @@ window.phoneRadarDaily = {
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         },
         {
+          "id": "auto-358d0dbf0add",
+          "title": "Samsung 折叠屏相关消息",
+          "originalTitle": "",
+          "source": "SamMobile",
+          "brand": "Samsung",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-08-09",
+          "time": "19:49",
+          "publishedAt": "2026-08-09T19:49:47.000Z",
+          "url": "https://www.sammobile.com/opinion/one-reason-galaxy-z-fold-7-owners-think-twice-fold-8/",
+          "image": "https://www.sammobile.com/wp-content/uploads/2026/08/Custom-image-3.png",
+          "verdict": "可略过",
+          "takeaway": "Samsung 折叠屏相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
+          "detail": "Samsung 折叠屏相关消息。重点看折痕、铰链、厚度、屏幕可靠性和重量是否有实质改善。",
+          "keyPoints": [
+            "外观 / 配色 / 尺寸"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        },
+        {
           "id": "auto-0ec6430a53a2",
           "title": "Pixel 相关消息",
           "originalTitle": "",
@@ -397,52 +443,6 @@ window.phoneRadarDaily = {
           "verdict": "可略过",
           "takeaway": "Pixel 相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
           "detail": "Pixel 相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
-        {
-          "id": "auto-d24aa330da0c",
-          "title": "Samsung 折叠屏相关消息",
-          "originalTitle": "",
-          "source": "Android Police",
-          "brand": "Samsung",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-08-09",
-          "time": "16:15",
-          "publishedAt": "2026-08-09T16:15:15.000Z",
-          "url": "https://www.androidpolice.com/galaxy-z-fold-8-convinced-me-this-needs-to-come-back/",
-          "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2026/08/samsung-galaxy-z-fold-8-fingerprint-scanner-wide.jpg",
-          "verdict": "可略过",
-          "takeaway": "Samsung 折叠屏相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
-          "detail": "Samsung 折叠屏相关消息。重点看折痕、铰链、厚度、屏幕可靠性和重量是否有实质改善。",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
-        {
-          "id": "auto-fdbd3ac2a348",
-          "title": "Samsung 相关消息",
-          "originalTitle": "",
-          "source": "Android Authority",
-          "brand": "Samsung",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-08-09",
-          "time": "12:00",
-          "publishedAt": "2026-08-09T12:00:54.000Z",
-          "url": "https://www.androidauthority.com/galaxy-z-fold-8-advantage-over-iphone-ultra-3692932/",
-          "image": "https://www.androidauthority.com/wp-content/uploads/2026/07/Galaxy-Z-Fold-8.-all-4-colors.jpg",
-          "verdict": "可略过",
-          "takeaway": "Samsung 相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
-          "detail": "Samsung 相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
           "keyPoints": [
             "爆料"
           ],
