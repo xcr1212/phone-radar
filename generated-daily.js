@@ -1,12 +1,12 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-08-09T07:15:07.103Z",
+  "updatedAt": "2026-08-09T09:01:21.899Z",
   "issueDate": "2026-08-09",
   "issue": "VOL.260809",
   "title": "手机情报日报",
-  "intro": "今日筛出 19 条重点，其中 8 条是重点爆料，包含 11 条 iPhone 相关、1 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 20 条重点，其中 8 条是重点爆料，包含 10 条 iPhone 相关、1 条官方确认、0 条参数线索。",
   "stats": {
-    "total": 19,
-    "iphone": 11,
+    "total": 20,
+    "iphone": 10,
     "leaks": 8,
     "official": 1,
     "specs": 0
@@ -159,30 +159,6 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
-          "id": "auto-f5c4bbb348b0",
-          "title": "谷歌 Pixel 11 Pro 真机曝光，将于 8 月 13 日发布",
-          "originalTitle": "",
-          "source": "IT之家",
-          "brand": "Pixel",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-08-08",
-          "time": "23:52",
-          "publishedAt": "2026-08-08T23:52:36.000Z",
-          "url": "https://www.ithome.com/0/987/476.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/8/087c1df2-665e-49c0-99ff-23914d982373.jpg",
-          "verdict": "先看",
-          "takeaway": "IT之家 8 月 9 日消息，X 账号 @PixelNewsHub 曝光了一台装在包装盒中的谷歌 Pixel 11 Pro 演示机，采用沙丘色外观，此外还有一张哑光黑色演示机的上手照片。据称，这些照片来自运营商，这批设备在谷歌 Made by Google 活动举行前已经抵达。 IT之家注意到，黑色版本的照片显示，长焦镜头区域出现了一个圆形开孔，与上月曝光…",
-          "detail": "IT之家 8 月 9 日消息，X 账号 @PixelNewsHub 曝光了一台装在包装盒中的谷歌 Pixel 11 Pro 演示机，采用沙丘色外观，此外还有一张哑光黑色演示机的上手照片。据称，这些照片来自运营商，这批设备在谷歌 Made by Google 活动举行前已经抵达。 IT之家注意到，黑色版本的照片显示，长焦镜头区域出现了一个圆形开孔，与上月曝光…",
-          "keyPoints": [
-            "外观 / 配色 / 尺寸",
-            "影像硬件"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
           "id": "weibo-21c560ee956c",
           "title": "数码闲聊站：8月新机发布会不是很明朗吗[吃瓜] 8.11——REDMI K100 Pro+…",
           "originalTitle": "",
@@ -199,6 +175,32 @@ window.phoneRadarDaily = {
           "takeaway": "8月新机发布会不是很明朗吗[吃瓜] 8.11——REDMI K100 Pro+PM 8.12——荣耀Robot Phone 8.**——iQOO Neo11至尊版+Z 努比亚Navix Ultra待定；如果算上系统，卢总还说澎湃OS4会在7-8月登场，现在也就只剩8月了",
           "detail": "8月新机发布会不是很明朗吗[吃瓜] 8.11——REDMI K100 Pro+PM 8.12——荣耀Robot Phone 8.**——iQOO Neo11至尊版+Z 努比亚Navix Ultra待定；如果算上系统，卢总还说澎湃OS4会在7-8月登场，现在也就只剩8月了",
           "keyPoints": [
+            "爆料来源"
+          ],
+          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "weibo-84675cbc24c4",
+          "title": "数码闲聊站：尬聊一下，关于折叠屏你们更喜欢那种？ A，大折叠——更大电池+更强影像+商务办…",
+          "originalTitle": "",
+          "source": "数码闲聊站",
+          "brand": "行业",
+          "type": "爆料",
+          "trust": "高关注爆料源",
+          "date": "2026-08-08",
+          "time": "11:05",
+          "publishedAt": "2026-08-08T11:05:00.000Z",
+          "url": "https://weibo.com/6048569942/Rct5cD6lh",
+          "image": "",
+          "verdict": "先看",
+          "takeaway": "尬聊一下，关于折叠屏你们更喜欢那种？ A，大折叠——更大电池+更强影像+商务办公 B，阔折叠——更小巧便携+影音娱乐",
+          "detail": "尬聊一下，关于折叠屏你们更喜欢那种？ A，大折叠——更大电池+更强影像+商务办公 B，阔折叠——更小巧便携+影音娱乐",
+          "keyPoints": [
+            "影像硬件",
+            "屏幕形态",
+            "电池 / 充电",
             "爆料来源"
           ],
           "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
@@ -259,7 +261,7 @@ window.phoneRadarDaily = {
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         },
         {
-          "id": "newsnow-d49a64414091",
+          "id": "newsnow-940a5d3e5b70",
           "title": "iPhone17下周或涨价",
           "originalTitle": "",
           "source": "微博热搜",
@@ -269,34 +271,11 @@ window.phoneRadarDaily = {
           "date": "2026-08-09",
           "time": "",
           "publishedAt": "",
-          "url": "https://s.weibo.com/weibo?q=%23iPhone17%E4%B8%8B%E5%91%A8%E6%88%96%E6%B6%A8%E4%BB%B7%23&t=31&band_rank=18&Refer=top",
+          "url": "https://s.weibo.com/weibo?q=%23iPhone17%E4%B8%8B%E5%91%A8%E6%88%96%E6%B6%A8%E4%BB%B7%23&t=31&band_rank=17&Refer=top",
           "image": "",
           "verdict": "扫一眼",
           "takeaway": "iPhone17下周或涨价",
           "detail": "iPhone17下周或涨价",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "影响购买预算，值得先看。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
-        {
-          "id": "newsnow-17a1ea027803",
-          "title": "iPhone18Pro 涨价",
-          "originalTitle": "",
-          "source": "微博热搜",
-          "brand": "iPhone",
-          "type": "爆料",
-          "trust": "待验证",
-          "date": "2026-08-09",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://s.weibo.com/weibo?q=iPhone18Pro%20%E6%B6%A8%E4%BB%B7&t=31&band_rank=28&Refer=top",
-          "image": "",
-          "verdict": "扫一眼",
-          "takeaway": "iPhone18Pro 涨价",
-          "detail": "iPhone18Pro 涨价",
           "keyPoints": [
             "爆料"
           ],
@@ -349,6 +328,37 @@ window.phoneRadarDaily = {
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        }
+      ]
+    },
+    {
+      "id": "launch",
+      "title": "新机与官方发布",
+      "hint": "能直接更新到参数库。",
+      "items": [
+        {
+          "id": "auto-a8c605e769b3",
+          "title": "Pixel 11 Pro XL 系统功能 / AI 体验相关消息",
+          "originalTitle": "",
+          "source": "Gizmochina",
+          "brand": "Pixel",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-08-08",
+          "time": "15:09",
+          "publishedAt": "2026-08-08T15:09:04.000Z",
+          "url": "https://www.gizmochina.com/2026/08/08/pixel-11-pro-xl-retail-boxes-show-up-on-turkish-grey-market-with-1700-price-tag/",
+          "image": "https://www.gizmochina.com/wp-content/uploads/2026/08/HPIxRcHWUAAKIeH-300x169.jpg?x23692",
+          "verdict": "可略过",
+          "takeaway": "Pixel 有系统功能或 AI 体验更新，适合关注后续是否影响日常使用。",
+          "detail": "Pixel 11 Pro XL 系统功能 / AI 体验相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
+          "keyPoints": [
+            "屏幕形态",
+            "成本 / 价格"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "影响购买预算，值得先看。",
+          "action": "有具体参数就记录到参数库；没有参数就先收藏。"
         }
       ]
     },
@@ -480,6 +490,29 @@ window.phoneRadarDaily = {
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "影响购买预算，值得先看。",
           "action": "有具体参数就记录到参数库；没有参数就先收藏。"
+        },
+        {
+          "id": "auto-a4d173120fda",
+          "title": "Pixel 11 系统功能 / AI 体验相关消息",
+          "originalTitle": "",
+          "source": "Android Authority",
+          "brand": "Pixel",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-08-08",
+          "time": "09:00",
+          "publishedAt": "2026-08-08T09:00:40.000Z",
+          "url": "https://www.androidauthority.com/dont-wait-for-pixel-11-buy-pixel-10-now-3695239/",
+          "image": "",
+          "verdict": "可略过",
+          "takeaway": "Pixel 有系统功能或 AI 体验更新，适合关注后续是否影响日常使用。",
+          "detail": "Pixel 11 系统功能 / AI 体验相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         }
       ]
     }
