@@ -1,5 +1,5 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-08-09T02:27:27.707Z",
+  "updatedAt": "2026-08-09T05:17:24.884Z",
   "issueDate": "2026-08-09",
   "issue": "VOL.260809",
   "title": "手机情报日报",
@@ -66,7 +66,7 @@ window.phoneRadarDaily = {
         },
         {
           "id": "coolapk-user-d319a83768e6",
-          "title": "JSCHEN小小狐：『尼康 Z70 现身苹果 ProRes / RAW 授权列表』 8 月 8 日最新消息，苹果官网「Apple Pr…",
+          "title": "JSCHEN小小狐：尼康 Z70 现身苹果 ProRes / RAW 授权列表",
           "originalTitle": "",
           "source": "JSCHEN小小狐",
           "brand": "iPhone",
@@ -136,6 +136,29 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
+          "id": "auto-d22a28983ac0",
+          "title": "天玑 9500 新变体曝光，iQOO Neo 11 至尊版首发搭载",
+          "originalTitle": "",
+          "source": "IT之家",
+          "brand": "vivo",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-08-09",
+          "time": "04:13",
+          "publishedAt": "2026-08-09T04:13:52.000Z",
+          "url": "https://www.ithome.com/0/987/532.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/8/9061fe46-17f6-433b-98af-864944041da7.png?x-bce-process=image/format,f_auto",
+          "verdict": "先看",
+          "takeaway": "IT之家 8 月 9 日消息，一款型号为 V2573A 新机于 8 月 8 日现身跑分平台 Geekbench，博主 @体验more 预测该机为 iQOO Neo 11 至尊版。 该机搭载天玑 9500 的新变体： CPU：1*4.21GHz C1-Ultra+3*3.50GHz C1-Premium+4*2.70GHz C1-Pro， GPU：Mali…",
+          "detail": "IT之家 8 月 9 日消息，一款型号为 V2573A 新机于 8 月 8 日现身跑分平台 Geekbench，博主 @体验more 预测该机为 iQOO Neo 11 至尊版。 该机搭载天玑 9500 的新变体： CPU：1*4.21GHz C1-Ultra+3*3.50GHz C1-Premium+4*2.70GHz C1-Pro， GPU：Mali…",
+          "keyPoints": [
+            "芯片 / 性能"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
           "id": "auto-f5c4bbb348b0",
           "title": "谷歌 Pixel 11 Pro 真机曝光，将于 8 月 13 日发布",
           "originalTitle": "",
@@ -154,29 +177,6 @@ window.phoneRadarDaily = {
           "keyPoints": [
             "外观 / 配色 / 尺寸",
             "影像硬件"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "auto-cbde9dc0b275",
-          "title": "vivo 神秘新机现身 Geekbench，天玑 7500 芯片",
-          "originalTitle": "",
-          "source": "IT之家",
-          "brand": "vivo",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-08-08",
-          "time": "14:55",
-          "publishedAt": "2026-08-08T14:55:33.000Z",
-          "url": "https://www.ithome.com/0/987/447.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/8/8fa5c2be-616a-4359-8e0f-036161a2b79f.png?x-bce-process=image/format,f_auto",
-          "verdict": "先看",
-          "takeaway": "IT之家 8 月 8 日消息，一款型号为 V2603A 的 vivo 新机近日现身 Geekbench 跑分数据库，该机已于近期通过 3C 认证。 Geekbench 数据显示，该机搭载联发科 MT6881 处理器，拥有 4 核 2.0GHz+4 核 2.6GHz CPU，GPU 为 Mali-G625 MC2， 对应天玑 7500 。 IT之家注意到，该…",
-          "detail": "IT之家 8 月 8 日消息，一款型号为 V2603A 的 vivo 新机近日现身 Geekbench 跑分数据库，该机已于近期通过 3C 认证。 Geekbench 数据显示，该机搭载联发科 MT6881 处理器，拥有 4 核 2.0GHz+4 核 2.6GHz CPU，GPU 为 Mali-G625 MC2， 对应天玑 7500 。 IT之家注意到，该…",
-          "keyPoints": [
-            "芯片 / 性能"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
@@ -236,7 +236,7 @@ window.phoneRadarDaily = {
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         },
         {
-          "id": "newsnow-7b1541a4dc6a",
+          "id": "newsnow-b02129f33842",
           "title": "iPhone18Pro 涨价",
           "originalTitle": "",
           "source": "微博热搜",
@@ -246,7 +246,7 @@ window.phoneRadarDaily = {
           "date": "2026-08-09",
           "time": "",
           "publishedAt": "",
-          "url": "https://s.weibo.com/weibo?q=iPhone18Pro%20%E6%B6%A8%E4%BB%B7&t=31&band_rank=18&Refer=top",
+          "url": "https://s.weibo.com/weibo?q=iPhone18Pro%20%E6%B6%A8%E4%BB%B7&t=31&band_rank=21&Refer=top",
           "image": "",
           "verdict": "扫一眼",
           "takeaway": "iPhone18Pro 涨价",
@@ -443,26 +443,26 @@ window.phoneRadarDaily = {
           "action": "有具体参数就记录到参数库；没有参数就先收藏。"
         },
         {
-          "id": "coolapk-user-25ec1d236026",
-          "title": "竹本青：【江苏省人民政府与华为技术有限公司签署深化战略合作协议】 近日，江苏省人民政府与华为技术有限公司在南京签署深化战略…",
+          "id": "newsnow-7618bf129ba9",
+          "title": "2026 上半年国内手机销量 TOP30 出炉，苹果包揽前三华为领跑国产，哪些品牌的表现值得关注？",
           "originalTitle": "",
-          "source": "竹本青",
+          "source": "知乎热榜",
           "brand": "Huawei",
-          "type": "爆料",
-          "trust": "高可信爆料",
-          "date": "2026-08-08",
-          "time": "12:48",
-          "publishedAt": "2026-08-08T12:48:57.000Z",
-          "url": "https://www.coolapk.com/feed/73142782",
-          "image": "http://image.coolapk.com/feed/2026/0808/20/4248714_406408e4_3153_1491_11@1280x879.jpg",
+          "type": "市场报告",
+          "trust": "媒体汇总",
+          "date": "2026-08-09",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://www.zhihu.com/question/2069715027674624332",
+          "image": "",
           "verdict": "扫一眼",
-          "takeaway": "【江苏省人民政府与华为技术有限公司签署深化战略合作协议】 近日，江苏省人民政府与华为技术有限公司在南京签署深化战略合作协议。 根据协议，双方将发挥各自优势，以人工智能为核心牵引，协同推进人工智能公共算力中心、城市公共云、数据基础设施、人工智能赋能科学研究及社会治理等重点领域建设。 此外，在鸿蒙PC产业和国产化计算产业创新、开源鸿蒙产业和生态构建、数智专业人…",
-          "detail": "【江苏省人民政府与华为技术有限公司签署深化战略合作协议】 近日，江苏省人民政府与华为技术有限公司在南京签署深化战略合作协议。 根据协议，双方将发挥各自优势，以人工智能为核心牵引，协同推进人工智能公共算力中心、城市公共云、数据基础设施、人工智能赋能科学研究及社会治理等重点领域建设。 此外，在鸿蒙PC产业和国产化计算产业创新、开源鸿蒙产业和生态构建、数智专业人…",
+          "takeaway": "2026 上半年国内手机销量 TOP30 出炉，苹果包揽前三华为领跑国产，哪些品牌的表现值得关注？",
+          "detail": "2026 上半年国内手机销量 TOP30 出炉，苹果包揽前三华为领跑国产，哪些品牌的表现值得关注？",
           "keyPoints": [
-            "爆料"
+            "市场报告"
           ],
-          "confidence": "可信度较高，但仍属于发布前线索。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "目前更像背景信息，对买手机影响不大。",
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         },
         {

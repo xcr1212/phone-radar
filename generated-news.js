@@ -1,6 +1,46 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-08-09T02:27:27.707Z",
+  "updatedAt": "2026-08-09T05:17:24.884Z",
   "news": [
+    {
+      "id": "auto-196d1953964d",
+      "title": "iQOO Neo 11 Ultra Geekbench reveals a modified Dimensity 9500 variant to rival Redmi K100 Pro Max",
+      "source": "Gizmochina",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-09",
+      "time": "05:04",
+      "publishedAt": "2026-08-09T05:04:47.000Z",
+      "url": "https://www.gizmochina.com/2026/08/09/iqoo-neo-11-ultra-geekbench-modified-dimensity-9500/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/08/iQOO-Neo-11-Ultra-image--300x196.png?x23692",
+      "summary": "iQOO is all set to showcase the iQOO Neo 11 Ultra tomorrow (Aug. 10) in China. Ahead of the expected announcement, the device has appeared on Geekbench 6, revealing that it is equ…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-d22a28983ac0",
+      "title": "天玑 9500 新变体曝光，iQOO Neo 11 至尊版首发搭载",
+      "source": "IT之家",
+      "brand": "vivo",
+      "model": "vivo 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-09",
+      "time": "04:13",
+      "publishedAt": "2026-08-09T04:13:52.000Z",
+      "url": "https://www.ithome.com/0/987/532.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/8/9061fe46-17f6-433b-98af-864944041da7.png?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 8 月 9 日消息，一款型号为 V2573A 新机于 8 月 8 日现身跑分平台 Geekbench，博主 @体验more 预测该机为 iQOO Neo 11 至尊版。 该机搭载天玑 9500 的新变体： CPU：1*4.21GHz C1-Ultra+3*3.50GHz C1-Premium+4*2.70GHz C1-Pro， GPU：Mali…",
+      "tags": [
+        "vivo",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-9bb8fee08b10",
       "title": "苹果首款折叠 iPhone 配色曝光：iPhone Ultra 有望提供银色、深蓝色",
@@ -82,7 +122,7 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-1feafc304425",
+      "id": "newsnow-fd88fd2eccaf",
       "title": "上半年国内手机销量TOP30出炉",
       "source": "微博热搜",
       "brand": "行业",
@@ -92,7 +132,7 @@ window.phoneRadarAuto = {
       "date": "2026-08-09",
       "time": "",
       "publishedAt": "",
-      "url": "https://s.weibo.com/weibo?q=%23%E4%B8%8A%E5%8D%8A%E5%B9%B4%E5%9B%BD%E5%86%85%E6%89%8B%E6%9C%BA%E9%94%80%E9%87%8FTOP30%E5%87%BA%E7%82%89%23&t=31&band_rank=4&Refer=top",
+      "url": "https://s.weibo.com/weibo?q=%23%E4%B8%8A%E5%8D%8A%E5%B9%B4%E5%9B%BD%E5%86%85%E6%89%8B%E6%9C%BA%E9%94%80%E9%87%8FTOP30%E5%87%BA%E7%82%89%23&t=31&band_rank=10&Refer=top",
       "image": "",
       "summary": "上半年国内手机销量TOP30出炉",
       "tags": [
@@ -102,7 +142,7 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-7b1541a4dc6a",
+      "id": "newsnow-b02129f33842",
       "title": "iPhone18Pro 涨价",
       "source": "微博热搜",
       "brand": "iPhone",
@@ -112,7 +152,7 @@ window.phoneRadarAuto = {
       "date": "2026-08-09",
       "time": "",
       "publishedAt": "",
-      "url": "https://s.weibo.com/weibo?q=iPhone18Pro%20%E6%B6%A8%E4%BB%B7&t=31&band_rank=18&Refer=top",
+      "url": "https://s.weibo.com/weibo?q=iPhone18Pro%20%E6%B6%A8%E4%BB%B7&t=31&band_rank=21&Refer=top",
       "image": "",
       "summary": "iPhone18Pro 涨价",
       "tags": [
@@ -122,19 +162,39 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-0cd3c7a38d20",
-      "title": "这种手机壳可能是医疗垃圾做的",
-      "source": "微博热搜",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "待验证",
+      "id": "newsnow-7618bf129ba9",
+      "title": "2026 上半年国内手机销量 TOP30 出炉，苹果包揽前三华为领跑国产，哪些品牌的表现值得关注？",
+      "source": "知乎热榜",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "市场报告",
+      "trust": "媒体汇总",
       "date": "2026-08-09",
       "time": "",
       "publishedAt": "",
-      "url": "https://s.weibo.com/weibo?q=%23%E8%BF%99%E7%A7%8D%E6%89%8B%E6%9C%BA%E5%A3%B3%E5%8F%AF%E8%83%BD%E6%98%AF%E5%8C%BB%E7%96%97%E5%9E%83%E5%9C%BE%E5%81%9A%E7%9A%84%23&t=31&band_rank=19&Refer=top",
+      "url": "https://www.zhihu.com/question/2069715027674624332",
       "image": "",
-      "summary": "这种手机壳可能是医疗垃圾做的",
+      "summary": "2026 上半年国内手机销量 TOP30 出炉，苹果包揽前三华为领跑国产，哪些品牌的表现值得关注？",
+      "tags": [
+        "Huawei",
+        "市场报告",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-addacfaa1c10",
+      "title": "上半年国内手机销量榜",
+      "source": "百度热搜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-09",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.baidu.com/s?wd=%E4%B8%8A%E5%8D%8A%E5%B9%B4%E5%9B%BD%E5%86%85%E6%89%8B%E6%9C%BA%E9%94%80%E9%87%8F%E6%A6%9C",
+      "image": "",
+      "summary": "上半年国内手机销量榜",
       "tags": [
         "行业",
         "爆料",
@@ -157,6 +217,26 @@ window.phoneRadarAuto = {
       "summary": "这种手机壳可能是医疗垃圾做的",
       "tags": [
         "行业",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-7ba9ef73ba82",
+      "title": "iPhone18Pro涨价",
+      "source": "百度热搜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-09",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.baidu.com/s?wd=iPhone18Pro%E6%B6%A8%E4%BB%B7",
+      "image": "",
+      "summary": "iPhone18Pro涨价",
+      "tags": [
+        "iPhone",
         "爆料",
         "NewsNow"
       ]
@@ -302,26 +382,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-cbde9dc0b275",
-      "title": "vivo 神秘新机现身 Geekbench，天玑 7500 芯片",
-      "source": "IT之家",
-      "brand": "vivo",
-      "model": "vivo 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-08",
-      "time": "14:55",
-      "publishedAt": "2026-08-08T14:55:33.000Z",
-      "url": "https://www.ithome.com/0/987/447.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/8/8fa5c2be-616a-4359-8e0f-036161a2b79f.png?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 8 月 8 日消息，一款型号为 V2603A 的 vivo 新机近日现身 Geekbench 跑分数据库，该机已于近期通过 3C 认证。 Geekbench 数据显示，该机搭载联发科 MT6881 处理器，拥有 4 核 2.0GHz+4 核 2.6GHz CPU，GPU 为 Mali-G625 MC2， 对应天玑 7500 。 IT之家注意到，该…",
-      "tags": [
-        "vivo",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-92d5d5955c70",
       "title": "Huawei vs Samsung: Key difference in their privacy display tech",
       "source": "Huawei Central",
@@ -342,28 +402,8 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "coolapk-user-25ec1d236026",
-      "title": "竹本青：【江苏省人民政府与华为技术有限公司签署深化战略合作协议】 近日，江苏省人民政府与华为技术有限公司在南京签署深化战略…",
-      "source": "竹本青",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-08-08",
-      "time": "12:48",
-      "publishedAt": "2026-08-08T12:48:57.000Z",
-      "url": "https://www.coolapk.com/feed/73142782",
-      "image": "http://image.coolapk.com/feed/2026/0808/20/4248714_406408e4_3153_1491_11@1280x879.jpg",
-      "summary": "【江苏省人民政府与华为技术有限公司签署深化战略合作协议】 近日，江苏省人民政府与华为技术有限公司在南京签署深化战略合作协议。 根据协议，双方将发挥各自优势，以人工智能为核心牵引，协同推进人工智能公共算力中心、城市公共云、数据基础设施、人工智能赋能科学研究及社会治理等重点领域建设。 此外，在鸿蒙PC产业和国产化计算产业创新、开源鸿蒙产业和生态构建、数智专业人…",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
       "id": "coolapk-user-d319a83768e6",
-      "title": "JSCHEN小小狐：『尼康 Z70 现身苹果 ProRes / RAW 授权列表』 8 月 8 日最新消息，苹果官网「Apple Pr…",
+      "title": "JSCHEN小小狐：尼康 Z70 现身苹果 ProRes / RAW 授权列表",
       "source": "JSCHEN小小狐",
       "brand": "iPhone",
       "model": "iPhone 相关机型",
