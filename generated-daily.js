@@ -1,5 +1,5 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-08-10T08:03:08.206Z",
+  "updatedAt": "2026-08-10T09:47:17.095Z",
   "issueDate": "2026-08-10",
   "issue": "VOL.260810",
   "title": "手机情报日报",
@@ -65,21 +65,21 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
-          "id": "newsnow-2945dc6ecda9",
-          "title": "iPhone 18 Pro升级幅度有多大",
+          "id": "auto-19e2a51ce039",
+          "title": "iPhone 相关消息",
           "originalTitle": "",
-          "source": "今日头条热榜",
+          "source": "MacRumors",
           "brand": "iPhone",
           "type": "爆料",
           "trust": "媒体汇总",
           "date": "2026-08-10",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://www.toutiao.com/trending/7672247746618723876/",
-          "image": "",
+          "time": "09:30",
+          "publishedAt": "2026-08-10T09:30:40.000Z",
+          "url": "https://www.macrumors.com/2026/08/10/apple-scrapped-plan-ship-iphones-set-up-for-you/",
+          "image": "https://images.macrumors.com/article-new/2026/07/apple-upgrade-program-1.jpg",
           "verdict": "先看",
-          "takeaway": "iPhone 18 Pro升级幅度有多大",
-          "detail": "iPhone 18 Pro升级幅度有多大",
+          "takeaway": "iPhone 相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
+          "detail": "iPhone 相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
           "keyPoints": [
             "爆料"
           ],
@@ -137,6 +137,29 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
+          "id": "auto-a8ccb428d693",
+          "title": "消息称 Galaxy Z Fold8 阔折叠手机持续热销，三星追加生产 100 万台至 380 万台",
+          "originalTitle": "",
+          "source": "IT之家",
+          "brand": "Samsung",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-08-10",
+          "time": "09:08",
+          "publishedAt": "2026-08-10T09:08:52.000Z",
+          "url": "https://www.ithome.com/0/987/944.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/8/731355b2-06af-47a6-8e40-96f1dcb2a75a.jpg?x-bce-process=image/format,f_auto",
+          "verdict": "先看",
+          "takeaway": "IT之家 8 月 10 日消息，据韩媒 etnews 报道，行业消息称，三星电子已敲定 今年追加生产 100 万台 &nbsp;Galaxy Z Fold8 阔折叠手机 的计划，并已向合作供应商下达相关零部件订单。 报道称，三星电子此前就预判阔折叠手机将会大卖，因此在 Galaxy Z8 系列中为 Fold8 分配了最高的年产量（280 万台）。作为对比，…",
+          "detail": "IT之家 8 月 10 日消息，据韩媒 etnews 报道，行业消息称，三星电子已敲定 今年追加生产 100 万台 &nbsp;Galaxy Z Fold8 阔折叠手机 的计划，并已向合作供应商下达相关零部件订单。 报道称，三星电子此前就预判阔折叠手机将会大卖，因此在 Galaxy Z8 系列中为 Fold8 分配了最高的年产量（280 万台）。作为对比，…",
+          "keyPoints": [
+            "爆料来源"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
           "id": "auto-0fe1ff578608",
           "title": "iQOO Neo11 至尊版屏幕参数公布：全球首发国产 F2 发光材料，6.83 英寸 2K 分辨率",
           "originalTitle": "",
@@ -178,29 +201,6 @@ window.phoneRadarDaily = {
           "detail": "IT之家 8 月 10 日消息，一款型号为 2609FRA74G 的小米新机近日现身 Geekbench 跑分数据库，外媒 Notebookcheck 认为该机是 REDMI Note 17 Pro Max，面向全球市场 IT之家从数据库信息了解到，该机搭载骁龙 6 Gen 5 芯片，配备 Adreno 812 GPU，拥有 8GB 内存，运行 Andro…",
           "keyPoints": [
             "芯片 / 性能"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "auto-8c8c54885603",
-          "title": "IT之家 iOS / 安卓版 9.32 更新：离线阅读回归、文章页统一视频播放器、长评论折叠、液态玻璃进化……",
-          "originalTitle": "",
-          "source": "IT之家",
-          "brand": "Huawei",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-08-10",
-          "time": "06:28",
-          "publishedAt": "2026-08-10T06:28:00.000Z",
-          "url": "https://www.ithome.com/0/987/829.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/8/7b13ddc6-8e1e-41b1-9008-24a63e214f87.jpg",
-          "verdict": "先看",
-          "takeaway": "各位老哥老姐们中午好，IT之家客户端 iOS &nbsp;/ 安卓版今日迎来 9.32 更新，带来诸多功能改进和细节优化，敬请下载升级！[抱拳] 本次更新主要包含以下改进点： ❶ 统一安卓 / iOS / 鸿蒙版移动端文章内视频播放体验 ：全新播放器支持翻译字幕加载（部分视频）、双击左 / 右侧快退 / 进 10s、长按 2 倍速播放，部分视频清晰度有提升…",
-          "detail": "各位老哥老姐们中午好，IT之家客户端 iOS &nbsp;/ 安卓版今日迎来 9.32 更新，带来诸多功能改进和细节优化，敬请下载升级！[抱拳] 本次更新主要包含以下改进点： ❶ 统一安卓 / iOS / 鸿蒙版移动端文章内视频播放体验 ：全新播放器支持翻译字幕加载（部分视频）、双击左 / 右侧快退 / 进 10s、长按 2 倍速播放，部分视频清晰度有提升…",
-          "keyPoints": [
-            "爆料"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",

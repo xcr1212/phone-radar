@@ -1,6 +1,106 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-08-10T08:03:08.206Z",
+  "updatedAt": "2026-08-10T09:47:17.095Z",
   "news": [
+    {
+      "id": "auto-028e7ad2e8b7",
+      "title": "Huawei Pura 90 flagship could soon get an affordable model",
+      "source": "Huawei Central",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-10",
+      "time": "09:34",
+      "publishedAt": "2026-08-10T09:34:42.000Z",
+      "url": "https://www.huaweicentral.com/huawei-pura-90-flagship-could-soon-get-an-affordable-model/",
+      "image": "https://www.huaweicentral.com/wp-content/uploads/2026/07/huawei-pura-90s-pro-max.jpg",
+      "summary": "Rumors have it that Huawei could soon launch an affordable model for the Pura 90 series flagship. After launching the S-tagged high-end models in the global market, the company is…",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-d82ae26af18a",
+      "title": "Redmi K100 Pro Max Roundup: Here’s Everything You Need To Know",
+      "source": "Gizmochina",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-10",
+      "time": "09:32",
+      "publishedAt": "2026-08-10T09:32:20.000Z",
+      "url": "https://www.gizmochina.com/2026/08/10/redmi-k100-pro-max-roundup-heres-everything-you-need-to-know/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/07/Redmi-K100-Pro-Max-Cabarnet-Red-6-300x300.jpg?x23692",
+      "summary": "The Redmi K100 Pro Max is launching in China on August 11 — tomorrow, and Redmi has spent the past several weeks revealing nearly every major spec ahead of time. The company poste…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-19e2a51ce039",
+      "title": "Apple Dropped Plan to Ship Leased iPhones Already Set Up for Users",
+      "source": "MacRumors",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-10",
+      "time": "09:30",
+      "publishedAt": "2026-08-10T09:30:40.000Z",
+      "url": "https://www.macrumors.com/2026/08/10/apple-scrapped-plan-ship-iphones-set-up-for-you/",
+      "image": "https://images.macrumors.com/article-new/2026/07/apple-upgrade-program-1.jpg",
+      "summary": "Apple considered a so-called \"white-glove\" element for its Apple Upgrade leasing program that would have delivered each new replacement device already loaded with the customer's d…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-a8ccb428d693",
+      "title": "消息称 Galaxy Z Fold8 阔折叠手机持续热销，三星追加生产 100 万台至 380 万台",
+      "source": "IT之家",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-10",
+      "time": "09:08",
+      "publishedAt": "2026-08-10T09:08:52.000Z",
+      "url": "https://www.ithome.com/0/987/944.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/8/731355b2-06af-47a6-8e40-96f1dcb2a75a.jpg?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 8 月 10 日消息，据韩媒 etnews 报道，行业消息称，三星电子已敲定 今年追加生产 100 万台 &nbsp;Galaxy Z Fold8 阔折叠手机 的计划，并已向合作供应商下达相关零部件订单。 报道称，三星电子此前就预判阔折叠手机将会大卖，因此在 Galaxy Z8 系列中为 Fold8 分配了最高的年产量（280 万台）。作为对比，…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-3fb44cb0a566",
+      "title": "iQOO confirms Neo 11 Ultra’s 2K display specs ahead of launch",
+      "source": "Gizmochina",
+      "brand": "vivo",
+      "model": "vivo 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-10",
+      "time": "08:02",
+      "publishedAt": "2026-08-10T08:02:47.000Z",
+      "url": "https://www.gizmochina.com/2026/08/10/iqoo-confirms-neo-11-ultras-2k-display-specs-ahead-of-launch/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/08/iQOO-Neo-11-Ultra-color-options-300x212.jpg?x23692",
+      "summary": "iQOO is gearing up to officially unveil the Neo 11 Ultra in China on August 18, and ahead of the event, the brand’s product manager has given you a detailed look at what the phone…",
+      "tags": [
+        "vivo",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-0fe1ff578608",
       "title": "iQOO Neo11 至尊版屏幕参数公布：全球首发国产 F2 发光材料，6.83 英寸 2K 分辨率",
@@ -23,7 +123,7 @@ window.phoneRadarAuto = {
     },
     {
       "id": "coolapk-user-682cec9beb92",
-      "title": "竹本青：【华为Mate 80系列 最新销量曝光：突破827万台】 8月10日，博主「RD观测」分享第三方统计数据：截至20…",
+      "title": "竹本青：华为Mate 80系列 最新销量曝光：突破827万台",
       "source": "竹本青",
       "brand": "Huawei",
       "model": "Huawei 相关机型",
@@ -93,7 +193,7 @@ window.phoneRadarAuto = {
       "time": "06:43",
       "publishedAt": "2026-08-10T06:43:16.000Z",
       "url": "https://www.gizmochina.com/2026/08/10/alleged-oneplus-16-secures-network-access-certification-in-china/",
-      "image": "https://www.gizmochina.com/wp-content/uploads/2026/06/OnePlus-15-5G-phone-300x200.png?x23692",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/08/oneplus-16-renders-surface-online-300x200.jpg?x23692",
       "summary": "An Oppo-linked phone with model number PYB110 just got radio approval and includes the N79 5G band. Well-known tipster Digital Chat Station suggests this is the OnePlus 16. He say…",
       "tags": [
         "OPPO",
@@ -202,46 +302,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "coolapk-user-1b3634d6de9d",
-      "title": "竹本青：【iQOO Z11S 三色官图公布：青/白/黑】 「万里浮光」藏万顷山湖，揽波光涟漪 「雪屿白」栖一山落雪，携云影…",
-      "source": "竹本青",
-      "brand": "vivo",
-      "model": "vivo 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-08-10",
-      "time": "06:01",
-      "publishedAt": "2026-08-10T06:01:31.000Z",
-      "url": "https://www.coolapk.com/feed/73165540",
-      "image": "http://image.coolapk.com/feed/2026/0810/14/4248714_b00e5e06_1688_4344_446@2000x2667.jpg",
-      "summary": "【iQOO Z11S 三色官图公布：青/白/黑】 「万里浮光」藏万顷山湖，揽波光涟漪 「雪屿白」栖一山落雪，携云影安然 「墨岩黑」凝千重岩壑，纳静夜深沉 #今日热点# #iQOONeo11至尊版# #iQOOZ11S#",
-      "tags": [
-        "vivo",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
-      "id": "auto-495502a2a54d",
-      "title": "一加 16 新机疑似入网：支持 N79 5G 频段，骁龙 8 Elite Gen6 Pro 芯片",
-      "source": "IT之家",
-      "brand": "OPPO",
-      "model": "OPPO 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-10",
-      "time": "05:43",
-      "publishedAt": "2026-08-10T05:43:11.000Z",
-      "url": "https://www.ithome.com/0/987/817.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/8/4b95f09c-97dd-491d-b96b-266717152b55.png",
-      "summary": "IT之家 8 月 10 日消息，一款型号为 PYB110 的 OPPO 新机近日通过无线电核准，支持 N79 5G 频段。博主 @数码闲聊站 预测该机为一加 16，搭载子系唯二骁龙 8 Elite Gen6 Pro 处理器。 IT之家注意到，该博主今日 7 月曾爆料某厂子系骁龙 8E6 Pro 新机最新排期 10 月，当时便被外界认为是一加 16。据其爆料…",
-      "tags": [
-        "OPPO",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "weibo-3ed821f64ae0",
       "title": "数码闲聊站：一加16新机疑似入网，支持N79 5G频段，子系唯二骁龙8 Elite Gen…",
       "source": "数码闲聊站",
@@ -259,26 +319,6 @@ window.phoneRadarAuto = {
         "OPPO",
         "爆料",
         "微博"
-      ]
-    },
-    {
-      "id": "coolapk-user-f11af4b96aed",
-      "title": "竹本青：消息称iQOO Neo11至尊版 搭载天玑9500定制版处理器",
-      "source": "竹本青",
-      "brand": "vivo",
-      "model": "vivo 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-08-10",
-      "time": "04:04",
-      "publishedAt": "2026-08-10T04:04:39.000Z",
-      "url": "https://www.coolapk.com/feed/73164117",
-      "image": "http://image.coolapk.com/feed/2026/0810/12/4248714_4216ed14_4678_143_452@1439x554.jpg",
-      "summary": "【消息称iQOO Neo11 至尊版 搭载天玑9500定制版处理器：GPU砍了一个核心】 8月10日，数码闲聊站爆料：iQOO Neo11 至尊版搭载天玑9500定制版处理器。处理器4.21GHz全大核CPU频率不变，GPU砍了一个核心变成MC11。 同时，该机配备2K国产新直屏、金属中框、双摄横向Deco、9100mAh大电池、百瓦闪充、3D超声波指纹等…",
-      "tags": [
-        "vivo",
-        "爆料",
-        "酷安博主"
       ]
     },
     {
@@ -442,26 +482,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-1b5923edc936",
-      "title": "纠结已久，终于还是加入了iPhone的坑[受虐滑稽]",
-      "source": "酷安热榜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-08-10",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73143342",
-      "image": "",
-      "summary": "纠结已久，终于还是加入了iPhone的坑[受虐滑稽]",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
       "id": "newsnow-95eaf33e63ef",
       "title": "iQOO 产品经理：媲美2K不是真2K，Neo11 至尊版配备真2K屏",
       "source": "酷安热榜",
@@ -482,19 +502,19 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-2945dc6ecda9",
-      "title": "iPhone 18 Pro升级幅度有多大",
-      "source": "今日头条热榜",
+      "id": "newsnow-1b5923edc936",
+      "title": "纠结已久，终于还是加入了iPhone的坑[受虐滑稽]",
+      "source": "酷安热榜",
       "brand": "iPhone",
       "model": "iPhone 相关机型",
       "type": "爆料",
-      "trust": "媒体汇总",
+      "trust": "高关注爆料源",
       "date": "2026-08-10",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.toutiao.com/trending/7672247746618723876/",
+      "url": "https://www.coolapk.com/feed/73143342",
       "image": "",
-      "summary": "iPhone 18 Pro升级幅度有多大",
+      "summary": "纠结已久，终于还是加入了iPhone的坑[受虐滑稽]",
       "tags": [
         "iPhone",
         "爆料",
