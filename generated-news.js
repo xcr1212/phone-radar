@@ -1,6 +1,86 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-08-10T15:15:40.923Z",
+  "updatedAt": "2026-08-10T17:07:30.242Z",
   "news": [
+    {
+      "id": "auto-49a9fd182a53",
+      "title": "iPhone 18 Pro Max's Larger Battery Capacity Allegedly Revealed",
+      "source": "MacRumors",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-10",
+      "time": "16:37",
+      "publishedAt": "2026-08-10T16:37:54.000Z",
+      "url": "https://www.macrumors.com/2026/08/10/iphone-18-pro-max-battery-capacity-rumor/",
+      "image": "https://images.macrumors.com/article-new/2026/02/iPhone-18-Pro-Deep-Red-Feature.jpg",
+      "summary": "The upcoming iPhone 18 Pro Max will be equipped with a nearly 12% larger battery compared to the iPhone 17 Pro Max, according to an apparent leak. An alleged photo of a battery pa…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-fe1d6d6fef6c",
+      "title": "Apple's All-Glass 20th Anniversary iPhone Reportedly Canceled",
+      "source": "MacRumors",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-10",
+      "time": "16:14",
+      "publishedAt": "2026-08-10T16:14:52.000Z",
+      "url": "https://www.macrumors.com/2026/08/10/all-glass-20th-anniversary-iphone-canceled/",
+      "image": "https://images.macrumors.com/article-new/2026/07/iphone-20-anniversary.jpg",
+      "summary": "Apple's rumored all-glass iPhone expected to mark the device's 20th anniversary has been canceled, according to Jefferies analyst Edison Lee. Rumors have circulated since at least…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-9b2daca8e97e",
+      "title": "Samsung’s old camera design is causing new problems on the Galaxy Z Fold 8",
+      "source": "SamMobile",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-10",
+      "time": "15:51",
+      "publishedAt": "2026-08-10T15:51:49.000Z",
+      "url": "https://www.sammobile.com/opinion/samsung-old-camera-design-causing-problems-galaxy-z-fold-8/",
+      "image": "https://www.sammobile.com/wp-content/uploads/2026/08/20260803_0214291.jpg",
+      "summary": "The Galaxy Z Fold 8 has made me realize that Samsung's smartphone camera design really needs to change. And it took several photos ruined by my own finger for me to come to that r…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-70c972681a4d",
+      "title": "杰富瑞分析师：因良率不佳，苹果已砍掉 20 周年全玻璃 iPhone 机型",
+      "source": "IT之家",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-10",
+      "time": "15:16",
+      "publishedAt": "2026-08-10T15:16:48.000Z",
+      "url": "https://www.ithome.com/0/988/054.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/4/38d76f07-616b-4f6b-a053-72cc55c896d4.jpg?x-bce-process=image/watermark,text_QUnnlJ_miJA,type_RlpMYW5UaW5nSGVpU0JHQg==,size_28,color_ffffffdd,skw_1,skc_00000051,g_7,blr_50,bls_50,x_11,y_11/format,f_auto",
+      "summary": "IT之家 8 月 10 日消息，据彭博社今天（10 日）报道，杰富瑞分析师李裕生（Edison Lee）将苹果股票评级下调至“跑输大盘”，市场对苹果的看空情绪进一步升温。 李裕生对 iPhone 前景表示担忧，尤其是苹果未来能否继续提高产品平均售价。“供应链调查显示，由于生产良率不佳，苹果已经取消 20 周年全玻璃 iPhone。这表明，苹果想通过改变 i…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-accb3d37b936",
       "title": "Next year’s iPhone redesign with all-glass look might be canceled: report",
@@ -782,7 +862,7 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-e296bc013d1f",
+      "id": "newsnow-6c5c8592fbc2",
       "title": "iPhone18Pro等7款新品彻底泄密",
       "source": "微博热搜",
       "brand": "iPhone",
@@ -792,7 +872,7 @@ window.phoneRadarAuto = {
       "date": "2026-08-10",
       "time": "",
       "publishedAt": "",
-      "url": "https://s.weibo.com/weibo?q=%23iPhone18Pro%E7%AD%897%E6%AC%BE%E6%96%B0%E5%93%81%E5%BD%BB%E5%BA%95%E6%B3%84%E5%AF%86%23&t=31&band_rank=20&Refer=top",
+      "url": "https://s.weibo.com/weibo?q=%23iPhone18Pro%E7%AD%897%E6%AC%BE%E6%96%B0%E5%93%81%E5%BD%BB%E5%BA%95%E6%B3%84%E5%AF%86%23&t=31&band_rank=9&Refer=top",
       "image": "",
       "summary": "iPhone18Pro等7款新品彻底泄密",
       "tags": [
