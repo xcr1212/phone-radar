@@ -1,24 +1,244 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-08-10T05:42:51.361Z",
+  "updatedAt": "2026-08-10T08:03:08.206Z",
   "news": [
     {
-      "id": "coolapk-user-cb4664dc5283",
-      "title": "JSCHEN小小狐：『一加 16 疑似入网：子系唯二骁龙 8E6 Pro』 #今日热点# #一加15# #一加15T#",
-      "source": "JSCHEN小小狐",
-      "brand": "OPPO",
-      "model": "OPPO 相关机型",
+      "id": "auto-0fe1ff578608",
+      "title": "iQOO Neo11 至尊版屏幕参数公布：全球首发国产 F2 发光材料，6.83 英寸 2K 分辨率",
+      "source": "IT之家",
+      "brand": "vivo",
+      "model": "vivo 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-10",
+      "time": "07:32",
+      "publishedAt": "2026-08-10T07:32:36.000Z",
+      "url": "https://www.ithome.com/0/987/884.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/8/a2da9f52-71f0-4202-87be-4c26fdc8011d.jpg",
+      "summary": "IT之家 8 月 10 日消息，iQOO 产品经理 @iQOO 慧慧子今天在微博发文，公布 iQOO Neo11 至尊版手机的屏幕参数。 据介绍，这款手机采用 6.83 英寸 2K 护眼超冠屏 +9100mAh 超大容量电池组合。 该机采用全球首发国产 F2 发光材料 ，背后的「埃米级蒸镀工艺」，是国产屏幕自主工艺的一次重要革新，大幅提升发光效率。 该名产…",
+      "tags": [
+        "vivo",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-682cec9beb92",
+      "title": "竹本青：【华为Mate 80系列 最新销量曝光：突破827万台】 8月10日，博主「RD观测」分享第三方统计数据：截至20…",
+      "source": "竹本青",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
       "type": "爆料",
       "trust": "高可信爆料",
       "date": "2026-08-10",
-      "time": "05:39",
-      "publishedAt": "2026-08-10T05:39:30.000Z",
-      "url": "https://www.coolapk.com/feed/73165271",
-      "image": "http://image.coolapk.com/feed/2026/0810/13/4702274_ab6fd628_0369_1143_613@1429x1694.jpg",
-      "summary": "『一加 16 疑似入网：子系唯二骁龙 8E6 Pro』 #今日热点# #一加15# #一加15T#",
+      "time": "07:29",
+      "publishedAt": "2026-08-10T07:29:34.000Z",
+      "url": "https://www.coolapk.com/feed/73166696",
+      "image": "http://image.coolapk.com/feed/2026/0810/15/4248714_02094d05_6973_5892_294@3336x2485.jpg",
+      "summary": "【华为Mate 80系列 最新销量曝光：突破827万台】 8月10日，博主「RD观测」分享第三方统计数据：截至2026年第31周，华为Mate 80系列累计销量约827.84万台。 前几周数据如下： 截至2026 W30 —— 约809万 截至2026 W29 —— 约792.05万 截至2026 W28 —— 约775.97万 截至2026 W27 ——…",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-910bc97714f3",
+      "title": "Samsung forced to make 1 million more Galaxy Z Fold 8 units due to high demand",
+      "source": "SamMobile",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-10",
+      "time": "07:20",
+      "publishedAt": "2026-08-10T07:20:14.000Z",
+      "url": "https://www.sammobile.com/news/galaxy-z-fold-8-production-1-million-more-high-demand/",
+      "image": "",
+      "summary": "Samsung recently revealed that its new foldable phones have broken all pre-order records, even surpassing the legendary Galaxy Note 10 series. Due to high demand for the Galaxy Z…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-a71c444fae09",
+      "title": "小米全球机型 REDMI Note 17 Pro Max 现身 Geekbench，骁龙 6 Gen 5 芯片",
+      "source": "IT之家",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-10",
+      "time": "06:43",
+      "publishedAt": "2026-08-10T06:43:27.000Z",
+      "url": "https://www.ithome.com/0/987/839.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/8/0e9da3d4-73c8-4a4e-adcf-9511dc7f538b.jpg",
+      "summary": "IT之家 8 月 10 日消息，一款型号为 2609FRA74G 的小米新机近日现身 Geekbench 跑分数据库，外媒 Notebookcheck 认为该机是 REDMI Note 17 Pro Max，面向全球市场 IT之家从数据库信息了解到，该机搭载骁龙 6 Gen 5 芯片，配备 Adreno 812 GPU，拥有 8GB 内存，运行 Andro…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-d7279b53ca82",
+      "title": "Alleged OnePlus 16 secures network access certification in China",
+      "source": "Gizmochina",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-10",
+      "time": "06:43",
+      "publishedAt": "2026-08-10T06:43:16.000Z",
+      "url": "https://www.gizmochina.com/2026/08/10/alleged-oneplus-16-secures-network-access-certification-in-china/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/06/OnePlus-15-5G-phone-300x200.png?x23692",
+      "summary": "An Oppo-linked phone with model number PYB110 just got radio approval and includes the N79 5G band. Well-known tipster Digital Chat Station suggests this is the OnePlus 16. He say…",
       "tags": [
         "OPPO",
         "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-992cdf99198e",
+      "title": "竹本青：iQOO Neo11 至尊版将全球首发国产F2发光材料",
+      "source": "竹本青",
+      "brand": "vivo",
+      "model": "vivo 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-08-10",
+      "time": "06:43",
+      "publishedAt": "2026-08-10T06:43:10.000Z",
+      "url": "https://www.coolapk.com/feed/73166108",
+      "image": "http://image.coolapk.com/feed/2026/0810/14/4248714_702a4c57_4185_3841_25@992x8345.jpg",
+      "summary": "【iQOO 产品经理预热Neo11 至尊版屏幕：全球首发国产F2发光材料】 ● 6.83\"+2K分辨率，首发国产F2发光材料 ● 显示更清晰，功耗进一步降低 ● 9100mAh电池，4年健康度80%以上 #今日热点# #iQOONeo11至尊版# #OriginOS6#",
+      "tags": [
+        "vivo",
+        "爆料",
         "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-111fc030d5d3",
+      "title": "iQOO Z11S 三款配色公布，旗下首款万级续航手机",
+      "source": "IT之家",
+      "brand": "vivo",
+      "model": "vivo 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-10",
+      "time": "06:42",
+      "publishedAt": "2026-08-10T06:42:07.000Z",
+      "url": "https://www.ithome.com/0/987/836.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/8/b8216037-c566-48d9-8803-cdd7f8d2dde2.jpg?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 8 月 10 日消息，iQOO Z11S 将于 8 月 18 日 19:00 发布并开售，官方现已公布新机三款配色：万里浮光、雪屿白、墨岩黑。 「万里浮光」｜藏万顷山湖，揽波光涟漪； 「雪屿白」｜栖一山落雪，携云影安然； 「墨岩黑」｜凝千重岩壑，纳静夜深沉。 据官方此前公布信息，该机是 iQOO 首款万级续航手机，搭载 10000mAh 蓝海电池…",
+      "tags": [
+        "vivo",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-8c8c54885603",
+      "title": "IT之家 iOS / 安卓版 9.32 更新：离线阅读回归、文章页统一视频播放器、长评论折叠、液态玻璃进化……",
+      "source": "IT之家",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-10",
+      "time": "06:28",
+      "publishedAt": "2026-08-10T06:28:00.000Z",
+      "url": "https://www.ithome.com/0/987/829.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/8/7b13ddc6-8e1e-41b1-9008-24a63e214f87.jpg",
+      "summary": "各位老哥老姐们中午好，IT之家客户端 iOS &nbsp;/ 安卓版今日迎来 9.32 更新，带来诸多功能改进和细节优化，敬请下载升级！[抱拳] 本次更新主要包含以下改进点： ❶ 统一安卓 / iOS / 鸿蒙版移动端文章内视频播放体验 ：全新播放器支持翻译字幕加载（部分视频）、双击左 / 右侧快退 / 进 10s、长按 2 倍速播放，部分视频清晰度有提升…",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-6a6d9e712c33",
+      "title": "集邦咨询：预估 iPhone 18 Pro 成本大增近 40%，苹果或调整毛利策略以稳健出货",
+      "source": "IT之家",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-10",
+      "time": "06:24",
+      "publishedAt": "2026-08-10T06:24:36.000Z",
+      "url": "https://www.ithome.com/0/987/828.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/8/f9e30e85-0430-4f57-aa5e-c26c3f0bc9ee.jpg?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 8 月 10 日消息，根据 TrendForce 集邦咨询最新手机产业研究，由于以存储器为首的零部件价格上涨，推升苹果将发布的 iPhone 18 系列整机成本。 IT之家注意到，TrendForce 集邦咨询预估第三季 iPhone 18 Pro 256GB 的成本将较 2025 年同期新机高出约 38%；2027 年因预估存储器价格维持上行，…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-2ca030c96f52",
+      "title": "竹本青：iQOO Neo11 至尊版外观预热：大R角设计，金属中框",
+      "source": "竹本青",
+      "brand": "vivo",
+      "model": "vivo 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-08-10",
+      "time": "06:15",
+      "publishedAt": "2026-08-10T06:15:00.000Z",
+      "url": "https://www.coolapk.com/feed/73165725",
+      "image": "http://image.coolapk.com/feed/2026/0810/14/4248714_89d521ec_2496_7695_946@1440x2160.jpg",
+      "summary": "【iQOO Neo11 至尊版 外观预热：大R角设计，金属中框】 ▫️大R角｜屏幕窄黑边 ▫️3D流光视效设计（「乘风」） ▫️金属中框+哑光后盖 ▫️全新横向DECO #今日热点# #iQOONeo11至尊版# #OriginOS6#",
+      "tags": [
+        "vivo",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "coolapk-user-1b3634d6de9d",
+      "title": "竹本青：【iQOO Z11S 三色官图公布：青/白/黑】 「万里浮光」藏万顷山湖，揽波光涟漪 「雪屿白」栖一山落雪，携云影…",
+      "source": "竹本青",
+      "brand": "vivo",
+      "model": "vivo 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-08-10",
+      "time": "06:01",
+      "publishedAt": "2026-08-10T06:01:31.000Z",
+      "url": "https://www.coolapk.com/feed/73165540",
+      "image": "http://image.coolapk.com/feed/2026/0810/14/4248714_b00e5e06_1688_4344_446@2000x2667.jpg",
+      "summary": "【iQOO Z11S 三色官图公布：青/白/黑】 「万里浮光」藏万顷山湖，揽波光涟漪 「雪屿白」栖一山落雪，携云影安然 「墨岩黑」凝千重岩壑，纳静夜深沉 #今日热点# #iQOONeo11至尊版# #iQOOZ11S#",
+      "tags": [
+        "vivo",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-495502a2a54d",
+      "title": "一加 16 新机疑似入网：支持 N79 5G 频段，骁龙 8 Elite Gen6 Pro 芯片",
+      "source": "IT之家",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-10",
+      "time": "05:43",
+      "publishedAt": "2026-08-10T05:43:11.000Z",
+      "url": "https://www.ithome.com/0/987/817.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/8/4b95f09c-97dd-491d-b96b-266717152b55.png",
+      "summary": "IT之家 8 月 10 日消息，一款型号为 PYB110 的 OPPO 新机近日通过无线电核准，支持 N79 5G 频段。博主 @数码闲聊站 预测该机为一加 16，搭载子系唯二骁龙 8 Elite Gen6 Pro 处理器。 IT之家注意到，该博主今日 7 月曾爆料某厂子系骁龙 8E6 Pro 新机最新排期 10 月，当时便被外界认为是一加 16。据其爆料…",
+      "tags": [
+        "OPPO",
+        "爆料",
+        "自动抓取"
       ]
     },
     {
@@ -82,26 +302,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-d3b632916e08",
-      "title": "iQOO Neo11 至尊版手机三款配色公布，8 月 18 日发布",
-      "source": "IT之家",
-      "brand": "vivo",
-      "model": "vivo 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-10",
-      "time": "03:15",
-      "publishedAt": "2026-08-10T03:15:24.000Z",
-      "url": "https://www.ithome.com/0/987/772.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/8/b764276f-4201-45b2-bd69-6faa803cdcef.jpg",
-      "summary": "IT之家 8 月 10 日消息， iQOO Neo11 至尊版手机三款配色公布，分别为乘风、疾影黑、驰光白，新机 8 月 18 日 19:00 发布即开售。 iQOO Neo11 至尊版今日官宣，官方称其为“行业唯一 2K 屏 & 9100mAh 性能旗舰”。iQOO Neo 产品经理 @iQOO慧慧子 上周预告，这款新机将搭载国产顶级 2K 屏、Neo…",
-      "tags": [
-        "vivo",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-58c10652b211",
       "title": "Huawei Mate 90 to feature hardware-level privacy display for first time",
       "source": "Huawei Central",
@@ -119,26 +319,6 @@ window.phoneRadarAuto = {
         "Huawei",
         "爆料",
         "自动抓取"
-      ]
-    },
-    {
-      "id": "coolapk-user-1a90ab1b648c",
-      "title": "竹本青：iQOO Neo11 至尊版三色公布：蓝/黑/白",
-      "source": "竹本青",
-      "brand": "vivo",
-      "model": "vivo 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-08-10",
-      "time": "03:02",
-      "publishedAt": "2026-08-10T03:02:18.000Z",
-      "url": "https://www.coolapk.com/feed/73163232",
-      "image": "http://image.coolapk.com/feed/2026/0810/11/4248714_218cd2b2_0928_4375_928@2494x3325.jpg",
-      "summary": "【iQOO Neo11 至尊版 三色公布：蓝/黑/白】 「乘风」新一代动态纹理工艺，3D流光效果 「疾影黑」纯粹克制 「驰光白」明亮轻快 #今日热点# #iQOONeo11至尊版#",
-      "tags": [
-        "vivo",
-        "爆料",
-        "酷安博主"
       ]
     },
     {
@@ -162,26 +342,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-101bfa9e2851",
-      "title": "【IT之家开箱】iQOO Neo11 至尊版图赏：横向 Deco + 驰光白清爽配色",
-      "source": "IT之家",
-      "brand": "vivo",
-      "model": "vivo 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-10",
-      "time": "02:46",
-      "publishedAt": "2026-08-10T02:46:02.000Z",
-      "url": "https://www.ithome.com/0/987/745.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/8/4a31335f-13d2-4742-9860-c374b680c545.jpg?x-bce-process=image/resize,w_1200,h_801/format,f_auto",
-      "summary": "8 月 10 日上午，iQOO 手机宣布， iQOO Neo11 至尊版将于 8 月 18 日 19:00 正式发布，发布会结束后直接开售。新品已到达IT之家，目前外观部分解禁，先给大家来组开箱图赏解解馋。 iQOO Neo11 至尊版目前公布的配色有 3 款，IT之家这次拿到的是「驰光白」配色，整体依旧延续了悬浮舷窗搭配大 R 角的设计语言，视觉上非常圆…",
-      "tags": [
-        "vivo",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-0c7ea54b7795",
       "title": "iQOO Neo 11 Ultra, Z11S with up to 10,000mAh batteries set to launch on August 18￼ ￼",
       "source": "Gizmochina",
@@ -199,26 +359,6 @@ window.phoneRadarAuto = {
         "vivo",
         "爆料",
         "自动抓取"
-      ]
-    },
-    {
-      "id": "coolapk-user-02a003363857",
-      "title": "竹本青：小米米家制冰机众筹预约开启：6-8分钟快速制冰，众筹价359元",
-      "source": "竹本青",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-08-10",
-      "time": "02:19",
-      "publishedAt": "2026-08-10T02:19:32.000Z",
-      "url": "https://www.coolapk.com/feed/73162666",
-      "image": "http://image.coolapk.com/feed/2026/0810/10/4248714_59987748_9384_425_557@1080x1188.jpg",
-      "summary": "【小米米家制冰机 众筹预约开启：6-8分钟快速制冰，众筹价359元】 ▫️1升水箱｜0.75升可拆卸冰篮 ▫️均匀制冰技术｜UV紫外线灯 ▫️小颗“快速冰”、大颗“标准冰”两种选择 ▫️每模均可制冰8颗 ▫️“快速冰”约6-8分钟制冰 ▫️“标准冰”完全融化时间约7分钟 ▫️LED指示灯状态+透明视窗设计 ▫️3小时/5小时/8小时 三挡预约制冰 ▫️整机…",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "酷安博主"
       ]
     },
     {
@@ -282,26 +422,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-1b5923edc936",
-      "title": "纠结已久，终于还是加入了iPhone的坑[受虐滑稽]",
-      "source": "酷安热榜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-08-10",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73143342",
-      "image": "",
-      "summary": "纠结已久，终于还是加入了iPhone的坑[受虐滑稽]",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
       "id": "newsnow-5e99d27dea3f",
       "title": "用个一两周手机就特别卡，狂杀后台，要重启才流畅点",
       "source": "酷安热榜",
@@ -322,19 +442,59 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-f2c2cc439e10",
-      "title": "iPhone18Pro发布会时间",
-      "source": "微博热搜",
+      "id": "newsnow-1b5923edc936",
+      "title": "纠结已久，终于还是加入了iPhone的坑[受虐滑稽]",
+      "source": "酷安热榜",
       "brand": "iPhone",
       "model": "iPhone 相关机型",
       "type": "爆料",
-      "trust": "待验证",
+      "trust": "高关注爆料源",
       "date": "2026-08-10",
       "time": "",
       "publishedAt": "",
-      "url": "https://s.weibo.com/weibo?q=%23iPhone18Pro%E5%8F%91%E5%B8%83%E4%BC%9A%E6%97%B6%E9%97%B4%23&t=31&band_rank=22&Refer=top",
+      "url": "https://www.coolapk.com/feed/73143342",
       "image": "",
-      "summary": "iPhone18Pro发布会时间",
+      "summary": "纠结已久，终于还是加入了iPhone的坑[受虐滑稽]",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-95eaf33e63ef",
+      "title": "iQOO 产品经理：媲美2K不是真2K，Neo11 至尊版配备真2K屏",
+      "source": "酷安热榜",
+      "brand": "vivo",
+      "model": "vivo 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-08-10",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/73162145",
+      "image": "",
+      "summary": "iQOO 产品经理：媲美2K不是真2K，Neo11 至尊版配备真2K屏",
+      "tags": [
+        "vivo",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-2945dc6ecda9",
+      "title": "iPhone 18 Pro升级幅度有多大",
+      "source": "今日头条热榜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-10",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.toutiao.com/trending/7672247746618723876/",
+      "image": "",
+      "summary": "iPhone 18 Pro升级幅度有多大",
       "tags": [
         "iPhone",
         "爆料",
