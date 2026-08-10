@@ -1,6 +1,26 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-08-10T21:01:01.134Z",
+  "updatedAt": "2026-08-10T22:55:40.798Z",
   "news": [
+    {
+      "id": "auto-c9cb356bb66e",
+      "title": "涨价不可避免：郭明錤称苹果正缩减 2026 年 iPhone 18 Pro 等硬件出货计划",
+      "source": "IT之家",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-10",
+      "time": "22:44",
+      "publishedAt": "2026-08-10T22:44:29.000Z",
+      "url": "https://www.ithome.com/0/988/071.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/8/58c9b330-554f-4b21-88af-61a062fe2d12.png",
+      "summary": "IT之家 8 月 11 日消息，天风国际证券分析师郭明錤今天（8 月 11 日）在 X 平台发布推文，分享了一份行业调查研究报告， 指出由于 DRAM 内存短缺，苹果公司正在缩减其 2026 年的硬件出货计划。 在机型方面，基于推文内容，博文中的“硬件”，预估包含苹果 iPhone 18 Pro 系列、苹果首款折叠手机（上市后预估名为 iPhone Ult…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-e27b95cf4b61",
       "title": "Google’s base Pixel 11 probably won’t have ‘HiLight’ but will actually have enough RAM",
@@ -542,26 +562,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-7d4f767cb54f",
-      "title": "小米 REDMI 17 5G/REDMI 17 4G 手机海外发布，高通骁龙 4 Gen 5 / 联发科 Helio G91 Ultra 芯片",
-      "source": "IT之家",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-10",
-      "time": "10:32",
-      "publishedAt": "2026-08-10T10:32:31.000Z",
-      "url": "https://www.ithome.com/0/987/999.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/8/6e4bbe21-99be-41eb-8833-d382e7ba61b5.jpg?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 8 月 10 日消息，小米现已在海外市场推出 REDMI 17 5G 和 REDMI 17 4G 手机，两款新品主攻入门级市场，采用相同的外观设计语言。 ▲ REDMI 17 4G IT之家了解到，这两款手机均搭载 6.9 英寸 IPS LCD 屏幕，分辨率为 1600*720，支持 120Hz 高刷。内置 7500mAh 电池，支持 45W 有…",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "coolapk-user-cf12519e425e",
       "title": "竹本青：阿维塔辟谣：“与华为合作不是必要项”系误读",
       "source": "竹本青",
@@ -842,8 +842,28 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-5b473e59d8cc",
-      "title": "兄弟们，太好玩了，我发现随便发张图都能引出那种到处挑毛病，来回就那两句话:你是个糖宝，你是个嘉豪，这类型的人。要么就是自身自卑的人，你发张图，它心里就很抵触，就马上要喷你。大多数兄弟都挺正常的，调侃调侃，我还给点点赞。上面那两种人，我看都不想看它一眼，可怜它都算做善事了。#iPhone17ProMax# #iPhone18# #iPhone17#",
+      "id": "newsnow-425e00560511",
+      "title": "2020 年，回头看仍是机圈极具魔幻现实主义色彩的一年。厂商大喊 “5G 元年”，对换机用户而言却是 “涨价元年”—— 旗舰机型仿佛统一了口径，集体上调八百至一千的价格，携手迈入3999的时代。",
+      "source": "酷安热榜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-08-10",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/70266966",
+      "image": "",
+      "summary": "2020 年，回头看仍是机圈极具魔幻现实主义色彩的一年。厂商大喊 “5G 元年”，对换机用户而言却是 “涨价元年”—— 旗舰机型仿佛统一了口径，集体上调八百至一千的价格，携手迈入3999的时代。",
+      "tags": [
+        "行业",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-848a935acb9b",
+      "title": "难以想象有一天，我居然会在酷安写一篇iPhone的文章。工作、孩子强度库库的上，思维也变得懒惰、僵化，以前写文章思如泉涌，现在只能用一周多的时间零零散散构思，不蹭热度，全文没有硬核的参数对比和严谨的对照实验，毕竟头部数码博主都给测完了。只想在喧嚣过后和大家聊一聊，在我的使用场景和主观视角下的Air。",
       "source": "酷安热榜",
       "brand": "iPhone",
       "model": "iPhone 相关机型",
@@ -852,9 +872,9 @@ window.phoneRadarAuto = {
       "date": "2026-08-10",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73164299",
+      "url": "https://www.coolapk.com/feed/68295165",
       "image": "",
-      "summary": "兄弟们，太好玩了，我发现随便发张图都能引出那种到处挑毛病，来回就那两句话:你是个糖宝，你是个嘉豪，这类型的人。要么就是自身自卑的人，你发张图，它心里就很抵触，就马上要喷你。大多数兄弟都挺正常的，调侃调侃，我还给点点赞。上面那两种人，我看都不想看它一眼，可怜它都算做善事了。#iPhone17ProMax# #iPhone18# #iPhone17#",
+      "summary": "难以想象有一天，我居然会在酷安写一篇iPhone的文章。工作、孩子强度库库的上，思维也变得懒惰、僵化，以前写文章思如泉涌，现在只能用一周多的时间零零散散构思，不蹭热度，全文没有硬核的参数对比和严谨的对照实验，毕竟头部数码博主都给测完了。只想在喧嚣过后和大家聊一聊，在我的使用场景和主观视角下的Air。",
       "tags": [
         "iPhone",
         "爆料",
@@ -862,21 +882,21 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-e296bc013d1f",
-      "title": "iPhone18Pro等7款新品彻底泄密",
-      "source": "微博热搜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
+      "id": "newsnow-2491bb1aa246",
+      "title": "2015年的手机圈，像一个持续升温的烤箱，骁龙810「高烧不退」 成了旗舰机绕不开的痛，中端市场也陷入同款发热困局。",
+      "source": "酷安热榜",
+      "brand": "行业",
+      "model": "智能手机市场",
       "type": "爆料",
-      "trust": "待验证",
+      "trust": "高关注爆料源",
       "date": "2026-08-10",
       "time": "",
       "publishedAt": "",
-      "url": "https://s.weibo.com/weibo?q=%23iPhone18Pro%E7%AD%897%E6%AC%BE%E6%96%B0%E5%93%81%E5%BD%BB%E5%BA%95%E6%B3%84%E5%AF%86%23&t=31&band_rank=20&Refer=top",
+      "url": "https://www.coolapk.com/feed/70664999",
       "image": "",
-      "summary": "iPhone18Pro等7款新品彻底泄密",
+      "summary": "2015年的手机圈，像一个持续升温的烤箱，骁龙810「高烧不退」 成了旗舰机绕不开的痛，中端市场也陷入同款发热困局。",
       "tags": [
-        "iPhone",
+        "行业",
         "爆料",
         "NewsNow"
       ]
@@ -902,23 +922,23 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-358d0dbf0add",
-      "title": "One reason I wouldn’t rush to upgrade from the Galaxy Z Fold 7 to Fold 8",
-      "source": "SamMobile",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
+      "id": "newsnow-998dc5b8d792",
+      "title": "盘点手机圈的那些遗憾",
+      "source": "B站热搜",
+      "brand": "行业",
+      "model": "智能手机市场",
       "type": "爆料",
       "trust": "媒体汇总",
-      "date": "2026-08-09",
-      "time": "19:49",
-      "publishedAt": "2026-08-09T19:49:47.000Z",
-      "url": "https://www.sammobile.com/opinion/one-reason-galaxy-z-fold-7-owners-think-twice-fold-8/",
-      "image": "https://www.sammobile.com/wp-content/uploads/2026/08/Custom-image-3.png",
-      "summary": "The Galaxy Z Fold 8 brings a major change to Samsung's foldable lineup. Instead of the tall design we have become used to over the years, the Fold 8 is shorter and wider and unfol…",
+      "date": "2026-08-10",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://search.bilibili.com/all?keyword=%E7%9B%98%E7%82%B9%E6%89%8B%E6%9C%BA%E5%9C%88%E7%9A%84%E9%82%A3%E4%BA%9B%E9%81%97%E6%86%BE",
+      "image": "",
+      "summary": "盘点手机圈的那些遗憾",
       "tags": [
-        "Samsung",
+        "行业",
         "爆料",
-        "自动抓取"
+        "NewsNow"
       ]
     },
     {

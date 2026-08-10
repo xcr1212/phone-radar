@@ -1,12 +1,12 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-08-10T21:01:01.134Z",
+  "updatedAt": "2026-08-10T22:55:40.798Z",
   "issueDate": "2026-08-10",
   "issue": "VOL.260810",
   "title": "手机情报日报",
-  "intro": "今日筛出 8 条重点，其中 8 条是重点爆料，包含 6 条 iPhone 相关、0 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 8 条重点，其中 8 条是重点爆料，包含 7 条 iPhone 相关、0 条官方确认、0 条参数线索。",
   "stats": {
     "total": 8,
-    "iphone": 6,
+    "iphone": 7,
     "leaks": 8,
     "official": 0,
     "specs": 0
@@ -17,6 +17,29 @@ window.phoneRadarDaily = {
       "title": "重点爆料",
       "hint": "机模、配色、影像、屏幕、电池和芯片线索先看。",
       "items": [
+        {
+          "id": "auto-c9cb356bb66e",
+          "title": "涨价不可避免：郭明錤称苹果正缩减 2026 年 iPhone 18 Pro 等硬件出货计划",
+          "originalTitle": "",
+          "source": "IT之家",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-08-10",
+          "time": "22:44",
+          "publishedAt": "2026-08-10T22:44:29.000Z",
+          "url": "https://www.ithome.com/0/988/071.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/8/58c9b330-554f-4b21-88af-61a062fe2d12.png",
+          "verdict": "先看",
+          "takeaway": "IT之家 8 月 11 日消息，天风国际证券分析师郭明錤今天（8 月 11 日）在 X 平台发布推文，分享了一份行业调查研究报告， 指出由于 DRAM 内存短缺，苹果公司正在缩减其 2026 年的硬件出货计划。 在机型方面，基于推文内容，博文中的“硬件”，预估包含苹果 iPhone 18 Pro 系列、苹果首款折叠手机（上市后预估名为 iPhone Ult…",
+          "detail": "IT之家 8 月 11 日消息，天风国际证券分析师郭明錤今天（8 月 11 日）在 X 平台发布推文，分享了一份行业调查研究报告， 指出由于 DRAM 内存短缺，苹果公司正在缩减其 2026 年的硬件出货计划。 在机型方面，基于推文内容，博文中的“硬件”，预估包含苹果 iPhone 18 Pro 系列、苹果首款折叠手机（上市后预估名为 iPhone Ult…",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
         {
           "id": "auto-70c972681a4d",
           "title": "杰富瑞分析师：因良率不佳，苹果已砍掉 20 周年全玻璃 iPhone 机型",
@@ -180,32 +203,6 @@ window.phoneRadarDaily = {
           "detail": "IT之家 8 月 10 日消息，三星显示（Samsung Display）上周（8 月 7 日）发布博文，详解 Galaxy Z Fold8 系列折叠屏手机的显示面板技术。 IT之家了解到，Galaxy Z Fold8 使用了钛材增强面板，取代以往的塑料薄膜结构并加入钛金属支撑板，形成双层钛结构。与传统塑料薄膜相比，钛合金薄膜的刚性提升了 20 倍，这种新…",
           "keyPoints": [
             "屏幕形态"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "auto-7d4f767cb54f",
-          "title": "小米 REDMI 17 5G/REDMI 17 4G 手机海外发布，高通骁龙 4 Gen 5 / 联发科 Helio G91 Ultra 芯片",
-          "originalTitle": "",
-          "source": "IT之家",
-          "brand": "Xiaomi",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-08-10",
-          "time": "10:32",
-          "publishedAt": "2026-08-10T10:32:31.000Z",
-          "url": "https://www.ithome.com/0/987/999.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/8/6e4bbe21-99be-41eb-8833-d382e7ba61b5.jpg?x-bce-process=image/format,f_auto",
-          "verdict": "先看",
-          "takeaway": "IT之家 8 月 10 日消息，小米现已在海外市场推出 REDMI 17 5G 和 REDMI 17 4G 手机，两款新品主攻入门级市场，采用相同的外观设计语言。 ▲ REDMI 17 4G IT之家了解到，这两款手机均搭载 6.9 英寸 IPS LCD 屏幕，分辨率为 1600*720，支持 120Hz 高刷。内置 7500mAh 电池，支持 45W 有…",
-          "detail": "IT之家 8 月 10 日消息，小米现已在海外市场推出 REDMI 17 5G 和 REDMI 17 4G 手机，两款新品主攻入门级市场，采用相同的外观设计语言。 ▲ REDMI 17 4G IT之家了解到，这两款手机均搭载 6.9 英寸 IPS LCD 屏幕，分辨率为 1600*720，支持 120Hz 高刷。内置 7500mAh 电池，支持 45W 有…",
-          "keyPoints": [
-            "外观 / 配色 / 尺寸",
-            "屏幕形态",
-            "电池 / 充电",
-            "芯片 / 性能"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
