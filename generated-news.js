@@ -1,6 +1,86 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-08-10T09:47:17.095Z",
+  "updatedAt": "2026-08-10T11:20:00.454Z",
   "news": [
+    {
+      "id": "auto-efe4e9a6d5bf",
+      "title": "The iPhone 18 Pro will cost Apple 38% more in parts – but there’s some good news",
+      "source": "9to5Mac",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-10",
+      "time": "11:16",
+      "publishedAt": "2026-08-10T11:16:51.000Z",
+      "url": "https://9to5mac.com/2026/08/10/the-iphone-18-pro-will-cost-apple-38-more-in-parts-but-theres-some-good-news/",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/iphone-18-pro-concept.jpg?quality=82&strip=all&w=1600",
+      "summary": "A new TrendForce analysis estimates that Apple will pay 38% more for iPhone 18 Pro components than it did for its predecessor. Unsurprisingly, the biggest hike is in the cost of m…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-7d4f767cb54f",
+      "title": "小米 REDMI 17 5G/REDMI 17 4G 手机海外发布，高通骁龙 4 Gen 5 / 联发科 Helio G91 Ultra 芯片",
+      "source": "IT之家",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-10",
+      "time": "10:32",
+      "publishedAt": "2026-08-10T10:32:31.000Z",
+      "url": "https://www.ithome.com/0/987/999.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/8/6e4bbe21-99be-41eb-8833-d382e7ba61b5.jpg?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 8 月 10 日消息，小米现已在海外市场推出 REDMI 17 5G 和 REDMI 17 4G 手机，两款新品主攻入门级市场，采用相同的外观设计语言。 ▲ REDMI 17 4G IT之家了解到，这两款手机均搭载 6.9 英寸 IPS LCD 屏幕，分辨率为 1600*720，支持 120Hz 高刷。内置 7500mAh 电池，支持 45W 有…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-ec2bb4f7e261",
+      "title": "iPhone 18 Pro Costing Apple 38% More to Make, TrendForce Estimates",
+      "source": "MacRumors",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-10",
+      "time": "10:29",
+      "publishedAt": "2026-08-10T10:29:52.000Z",
+      "url": "https://www.macrumors.com/2026/08/10/iphone-18-pro-build-cost-rise/",
+      "image": "https://images.macrumors.com/article-new/2026/02/iPhone-18-Pro-Deep-Red-Feature.jpg",
+      "summary": "Apple's iPhone 18 Pro will cost nearly 40 percent more to build than its predecessor because of soaring memory prices, according to new data analyzed TrendForce . The research fir…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-cf12519e425e",
+      "title": "竹本青：阿维塔辟谣：“与华为合作不是必要项”系误读",
+      "source": "竹本青",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-08-10",
+      "time": "10:07",
+      "publishedAt": "2026-08-10T10:07:18.000Z",
+      "url": "https://www.coolapk.com/feed/73169062",
+      "image": "http://image.coolapk.com/feed/2026/0810/18/4248714_ac394b8d_6437_1629_194@1440x812.jpg",
+      "summary": "【阿维塔辟谣：“与华为合作不是必要项”系误读，并非否定双方合作价值】 8月10日，据新浪科技报道，近日有媒体报道称，阿维塔副总裁雍军表示，不认为和华为的合作模式是“必要项”，因为阿维塔具备差异化的能力。 阿维塔方面则辟谣称：“不认为和华为的合作模式是必要项”系误读，实际指让华为引望打造专属智驾版本的合作模式是不必要的，并非否定双方的合作价值。 ——————…",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "酷安博主"
+      ]
+    },
     {
       "id": "auto-028e7ad2e8b7",
       "title": "Huawei Pura 90 flagship could soon get an affordable model",
@@ -162,26 +242,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-a71c444fae09",
-      "title": "小米全球机型 REDMI Note 17 Pro Max 现身 Geekbench，骁龙 6 Gen 5 芯片",
-      "source": "IT之家",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-10",
-      "time": "06:43",
-      "publishedAt": "2026-08-10T06:43:27.000Z",
-      "url": "https://www.ithome.com/0/987/839.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/8/0e9da3d4-73c8-4a4e-adcf-9511dc7f538b.jpg",
-      "summary": "IT之家 8 月 10 日消息，一款型号为 2609FRA74G 的小米新机近日现身 Geekbench 跑分数据库，外媒 Notebookcheck 认为该机是 REDMI Note 17 Pro Max，面向全球市场 IT之家从数据库信息了解到，该机搭载骁龙 6 Gen 5 芯片，配备 Adreno 812 GPU，拥有 8GB 内存，运行 Andro…",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-d7279b53ca82",
       "title": "Alleged OnePlus 16 secures network access certification in China",
       "source": "Gizmochina",
@@ -215,86 +275,6 @@ window.phoneRadarAuto = {
       "url": "https://www.coolapk.com/feed/73166108",
       "image": "http://image.coolapk.com/feed/2026/0810/14/4248714_702a4c57_4185_3841_25@992x8345.jpg",
       "summary": "【iQOO 产品经理预热Neo11 至尊版屏幕：全球首发国产F2发光材料】 ● 6.83\"+2K分辨率，首发国产F2发光材料 ● 显示更清晰，功耗进一步降低 ● 9100mAh电池，4年健康度80%以上 #今日热点# #iQOONeo11至尊版# #OriginOS6#",
-      "tags": [
-        "vivo",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
-      "id": "auto-111fc030d5d3",
-      "title": "iQOO Z11S 三款配色公布，旗下首款万级续航手机",
-      "source": "IT之家",
-      "brand": "vivo",
-      "model": "vivo 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-10",
-      "time": "06:42",
-      "publishedAt": "2026-08-10T06:42:07.000Z",
-      "url": "https://www.ithome.com/0/987/836.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/8/b8216037-c566-48d9-8803-cdd7f8d2dde2.jpg?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 8 月 10 日消息，iQOO Z11S 将于 8 月 18 日 19:00 发布并开售，官方现已公布新机三款配色：万里浮光、雪屿白、墨岩黑。 「万里浮光」｜藏万顷山湖，揽波光涟漪； 「雪屿白」｜栖一山落雪，携云影安然； 「墨岩黑」｜凝千重岩壑，纳静夜深沉。 据官方此前公布信息，该机是 iQOO 首款万级续航手机，搭载 10000mAh 蓝海电池…",
-      "tags": [
-        "vivo",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-8c8c54885603",
-      "title": "IT之家 iOS / 安卓版 9.32 更新：离线阅读回归、文章页统一视频播放器、长评论折叠、液态玻璃进化……",
-      "source": "IT之家",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-10",
-      "time": "06:28",
-      "publishedAt": "2026-08-10T06:28:00.000Z",
-      "url": "https://www.ithome.com/0/987/829.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/8/7b13ddc6-8e1e-41b1-9008-24a63e214f87.jpg",
-      "summary": "各位老哥老姐们中午好，IT之家客户端 iOS &nbsp;/ 安卓版今日迎来 9.32 更新，带来诸多功能改进和细节优化，敬请下载升级！[抱拳] 本次更新主要包含以下改进点： ❶ 统一安卓 / iOS / 鸿蒙版移动端文章内视频播放体验 ：全新播放器支持翻译字幕加载（部分视频）、双击左 / 右侧快退 / 进 10s、长按 2 倍速播放，部分视频清晰度有提升…",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-6a6d9e712c33",
-      "title": "集邦咨询：预估 iPhone 18 Pro 成本大增近 40%，苹果或调整毛利策略以稳健出货",
-      "source": "IT之家",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-10",
-      "time": "06:24",
-      "publishedAt": "2026-08-10T06:24:36.000Z",
-      "url": "https://www.ithome.com/0/987/828.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/8/f9e30e85-0430-4f57-aa5e-c26c3f0bc9ee.jpg?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 8 月 10 日消息，根据 TrendForce 集邦咨询最新手机产业研究，由于以存储器为首的零部件价格上涨，推升苹果将发布的 iPhone 18 系列整机成本。 IT之家注意到，TrendForce 集邦咨询预估第三季 iPhone 18 Pro 256GB 的成本将较 2025 年同期新机高出约 38%；2027 年因预估存储器价格维持上行，…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "coolapk-user-2ca030c96f52",
-      "title": "竹本青：iQOO Neo11 至尊版外观预热：大R角设计，金属中框",
-      "source": "竹本青",
-      "brand": "vivo",
-      "model": "vivo 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-08-10",
-      "time": "06:15",
-      "publishedAt": "2026-08-10T06:15:00.000Z",
-      "url": "https://www.coolapk.com/feed/73165725",
-      "image": "http://image.coolapk.com/feed/2026/0810/14/4248714_89d521ec_2496_7695_946@1440x2160.jpg",
-      "summary": "【iQOO Neo11 至尊版 外观预热：大R角设计，金属中框】 ▫️大R角｜屏幕窄黑边 ▫️3D流光视效设计（「乘风」） ▫️金属中框+哑光后盖 ▫️全新横向DECO #今日热点# #iQOONeo11至尊版# #OriginOS6#",
       "tags": [
         "vivo",
         "爆料",
@@ -518,6 +498,46 @@ window.phoneRadarAuto = {
       "tags": [
         "iPhone",
         "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-95542948494d",
+      "title": "鼓吹这机子是4k档的不知道是被红米洗脑了还是红米派过来的间谍。要知道去年的k90首发价可是2599，k100p虽然名字叫pro但除了长焦带个光学防抖（成本不到10块！）其它硬件没有任何升级，本该常规升级的芯片还砍了一刀，这机子就是卖3599起销量都要拉稀，k90对比k80销量已经算是腰斩了，除非红米不想走量只是像其它厂商一样发个机子玩玩（x300e）[doge笑哭] #REDMIK100ProMax#",
+      "source": "酷安热榜",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-08-10",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/73160144",
+      "image": "",
+      "summary": "鼓吹这机子是4k档的不知道是被红米洗脑了还是红米派过来的间谍。要知道去年的k90首发价可是2599，k100p虽然名字叫pro但除了长焦带个光学防抖（成本不到10块！）其它硬件没有任何升级，本该常规升级的芯片还砍了一刀，这机子就是卖3599起销量都要拉稀，k90对比k80销量已经算是腰斩了，除非红米不想走量只是像其它厂商一样发个机子玩玩（x300e）[do…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-fd7a6c01ce88",
+      "title": "河南 22 岁女孩南太行山失联，手机最后信号不在山林，现已确认遇难，遗体在悬崖被找到，有哪些信息值得关注？",
+      "source": "知乎热榜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "市场报告",
+      "trust": "媒体汇总",
+      "date": "2026-08-10",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.zhihu.com/question/2068484771710293896",
+      "image": "",
+      "summary": "河南 22 岁女孩南太行山失联，手机最后信号不在山林，现已确认遇难，遗体在悬崖被找到，有哪些信息值得关注？",
+      "tags": [
+        "行业",
+        "市场报告",
         "NewsNow"
       ]
     },
