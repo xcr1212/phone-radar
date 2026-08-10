@@ -1,6 +1,66 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-08-10T19:15:39.987Z",
+  "updatedAt": "2026-08-10T21:01:01.134Z",
   "news": [
+    {
+      "id": "auto-e27b95cf4b61",
+      "title": "Google’s base Pixel 11 probably won’t have ‘HiLight’ but will actually have enough RAM",
+      "source": "9to5Google",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-10",
+      "time": "20:15",
+      "publishedAt": "2026-08-10T20:15:00.000Z",
+      "url": "https://9to5google.com/2026/08/10/pixel-11-hilight-ram-leak/",
+      "image": "",
+      "summary": "With just hours left to go for Google’s Pixel 11 launch event, details keep on leaking out, with some clarification around the base Pixel 11 now making its way online.",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-38e7dbb783e7",
+      "title": "Motorola Edge 70 Max Review: Flagship Performance Meets Motorola’s Largest-Ever Battery",
+      "source": "Gizmochina",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-10",
+      "time": "19:59",
+      "publishedAt": "2026-08-10T19:59:01.000Z",
+      "url": "https://www.gizmochina.com/2026/08/10/motorola-edge-70-max-review/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/08/Motorola-EDge-70-Max-display-300x225.jpg?x23692",
+      "summary": "Motorola has taken a different approach with the Edge 70 Max. While it is the most powerful smartphone the company has launched under the Edge series, it is not intended to replac…",
+      "tags": [
+        "行业",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-02cfca3c18c5",
+      "title": "Galaxy S26 FE specs leak alongside a higher price tag",
+      "source": "9to5Google",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-10",
+      "time": "19:45",
+      "publishedAt": "2026-08-10T19:45:00.000Z",
+      "url": "https://9to5google.com/2026/08/10/galaxy-s26-fe-specs-leak-alongside-a-higher-price-tag/",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/08/galaxy-s26-fe-leak-1.webp?w=1600",
+      "summary": "Ahead of its launch that will likely happen next month, Samsung’s Galaxy S26 FE has had its full specs leak alongside a higher price tag for the device that exists solely to be mo…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-a0778a5c43f6",
       "title": "Xiaomi 18 leak reveals five colors, confirms 2nm Snapdragon chip",
@@ -362,26 +422,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-55b2fcf22c6f",
-      "title": "Even Samsung didn’t anticipate how much people would love the Galaxy Z Fold 8",
-      "source": "Android Authority",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-10",
-      "time": "13:15",
-      "publishedAt": "2026-08-10T13:15:07.000Z",
-      "url": "https://www.androidauthority.com/samsung-galaxy-z-fold-8-production-increase-3696398/",
-      "image": "https://www.androidauthority.com/wp-content/uploads/2026/07/Galaxy-Z-Fold-8-cover-display-scaled-e1785767507512-500w-260h.jpg",
-      "summary": "The Samsung Galaxy Z Fold 8 may just be a hit for Samsung based on these new production figures.",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "coolapk-user-93cd495c7027",
       "title": "竹本青：【罗永浩吐槽苹果手机语音输入法：输入一句话后点逗号，会消掉最后一个字改成逗号】 8月10日，罗永浩发文称：苹果手机…",
       "source": "竹本青",
@@ -522,26 +562,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-ec2bb4f7e261",
-      "title": "iPhone 18 Pro Costing Apple 38% More to Make, TrendForce Estimates",
-      "source": "MacRumors",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-10",
-      "time": "10:29",
-      "publishedAt": "2026-08-10T10:29:52.000Z",
-      "url": "https://www.macrumors.com/2026/08/10/iphone-18-pro-build-cost-rise/",
-      "image": "https://images.macrumors.com/article-new/2026/02/iPhone-18-Pro-Deep-Red-Feature.jpg",
-      "summary": "Apple's iPhone 18 Pro will cost nearly 40 percent more to build than its predecessor because of soaring memory prices, according to new data analyzed TrendForce . The research fir…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "coolapk-user-cf12519e425e",
       "title": "竹本青：阿维塔辟谣：“与华为合作不是必要项”系误读",
       "source": "竹本青",
@@ -597,26 +617,6 @@ window.phoneRadarAuto = {
       "summary": "The Redmi K100 Pro Max is launching in China on August 11 — tomorrow, and Redmi has spent the past several weeks revealing nearly every major spec ahead of time. The company poste…",
       "tags": [
         "Xiaomi",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-19e2a51ce039",
-      "title": "Apple Dropped Plan to Ship Leased iPhones Already Set Up for Users",
-      "source": "MacRumors",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-10",
-      "time": "09:30",
-      "publishedAt": "2026-08-10T09:30:40.000Z",
-      "url": "https://www.macrumors.com/2026/08/10/apple-scrapped-plan-ship-iphones-set-up-for-you/",
-      "image": "https://images.macrumors.com/article-new/2026/07/apple-upgrade-program-1.jpg",
-      "summary": "Apple considered a so-called \"white-glove\" element for its Apple Upgrade leasing program that would have delivered each new replacement device already loaded with the customer's d…",
-      "tags": [
-        "iPhone",
         "爆料",
         "自动抓取"
       ]
@@ -822,8 +822,8 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-48bd7466b536",
-      "title": "右上角被我掰手机壳的时候 把手机框（银色的边框）掰变形了...这样还能多少价格出掉？17pm银白色256G",
+      "id": "newsnow-fca32ad40eaa",
+      "title": "聊聊手机卡套餐资费",
       "source": "酷安热榜",
       "brand": "行业",
       "model": "智能手机市场",
@@ -832,9 +832,9 @@ window.phoneRadarAuto = {
       "date": "2026-08-10",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73153584",
+      "url": "https://www.coolapk.com/feed/73163663",
       "image": "",
-      "summary": "右上角被我掰手机壳的时候 把手机框（银色的边框）掰变形了...这样还能多少价格出掉？17pm银白色256G",
+      "summary": "聊聊手机卡套餐资费",
       "tags": [
         "行业",
         "爆料",
@@ -842,68 +842,8 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-5e99d27dea3f",
-      "title": "用个一两周手机就特别卡，狂杀后台，要重启才流畅点",
-      "source": "酷安热榜",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-08-10",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73155342",
-      "image": "",
-      "summary": "用个一两周手机就特别卡，狂杀后台，要重启才流畅点",
-      "tags": [
-        "行业",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-95542948494d",
-      "title": "鼓吹这机子是4k档的不知道是被红米洗脑了还是红米派过来的间谍。要知道去年的k90首发价可是2599，k100p虽然名字叫pro但除了长焦带个光学防抖（成本不到10块！）其它硬件没有任何升级，本该常规升级的芯片还砍了一刀，这机子就是卖3599起销量都要拉稀，k90对比k80销量已经算是腰斩了，除非红米不想走量只是像其它厂商一样发个机子玩玩（x300e）[doge笑哭] #REDMIK100ProMax#",
-      "source": "酷安热榜",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-08-10",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73160144",
-      "image": "",
-      "summary": "鼓吹这机子是4k档的不知道是被红米洗脑了还是红米派过来的间谍。要知道去年的k90首发价可是2599，k100p虽然名字叫pro但除了长焦带个光学防抖（成本不到10块！）其它硬件没有任何升级，本该常规升级的芯片还砍了一刀，这机子就是卖3599起销量都要拉稀，k90对比k80销量已经算是腰斩了，除非红米不想走量只是像其它厂商一样发个机子玩玩（x300e）[do…",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-95eaf33e63ef",
-      "title": "iQOO 产品经理：媲美2K不是真2K，Neo11 至尊版配备真2K屏",
-      "source": "酷安热榜",
-      "brand": "vivo",
-      "model": "vivo 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-08-10",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73162145",
-      "image": "",
-      "summary": "iQOO 产品经理：媲美2K不是真2K，Neo11 至尊版配备真2K屏",
-      "tags": [
-        "vivo",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-1b5923edc936",
-      "title": "纠结已久，终于还是加入了iPhone的坑[受虐滑稽]",
+      "id": "newsnow-5b473e59d8cc",
+      "title": "兄弟们，太好玩了，我发现随便发张图都能引出那种到处挑毛病，来回就那两句话:你是个糖宝，你是个嘉豪，这类型的人。要么就是自身自卑的人，你发张图，它心里就很抵触，就马上要喷你。大多数兄弟都挺正常的，调侃调侃，我还给点点赞。上面那两种人，我看都不想看它一眼，可怜它都算做善事了。#iPhone17ProMax# #iPhone18# #iPhone17#",
       "source": "酷安热榜",
       "brand": "iPhone",
       "model": "iPhone 相关机型",
@@ -912,9 +852,9 @@ window.phoneRadarAuto = {
       "date": "2026-08-10",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73143342",
+      "url": "https://www.coolapk.com/feed/73164299",
       "image": "",
-      "summary": "纠结已久，终于还是加入了iPhone的坑[受虐滑稽]",
+      "summary": "兄弟们，太好玩了，我发现随便发张图都能引出那种到处挑毛病，来回就那两句话:你是个糖宝，你是个嘉豪，这类型的人。要么就是自身自卑的人，你发张图，它心里就很抵触，就马上要喷你。大多数兄弟都挺正常的，调侃调侃，我还给点点赞。上面那两种人，我看都不想看它一眼，可怜它都算做善事了。#iPhone17ProMax# #iPhone18# #iPhone17#",
       "tags": [
         "iPhone",
         "爆料",
@@ -922,7 +862,7 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-bc2573050a39",
+      "id": "newsnow-e296bc013d1f",
       "title": "iPhone18Pro等7款新品彻底泄密",
       "source": "微博热搜",
       "brand": "iPhone",
@@ -932,7 +872,7 @@ window.phoneRadarAuto = {
       "date": "2026-08-10",
       "time": "",
       "publishedAt": "",
-      "url": "https://s.weibo.com/weibo?q=%23iPhone18Pro%E7%AD%897%E6%AC%BE%E6%96%B0%E5%93%81%E5%BD%BB%E5%BA%95%E6%B3%84%E5%AF%86%23&t=31&band_rank=10&Refer=top",
+      "url": "https://s.weibo.com/weibo?q=%23iPhone18Pro%E7%AD%897%E6%AC%BE%E6%96%B0%E5%93%81%E5%BD%BB%E5%BA%95%E6%B3%84%E5%AF%86%23&t=31&band_rank=20&Refer=top",
       "image": "",
       "summary": "iPhone18Pro等7款新品彻底泄密",
       "tags": [

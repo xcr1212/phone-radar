@@ -1,12 +1,12 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-08-10T19:15:39.987Z",
+  "updatedAt": "2026-08-10T21:01:01.134Z",
   "issueDate": "2026-08-10",
   "issue": "VOL.260810",
   "title": "手机情报日报",
-  "intro": "今日筛出 8 条重点，其中 8 条是重点爆料，包含 7 条 iPhone 相关、0 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 8 条重点，其中 8 条是重点爆料，包含 6 条 iPhone 相关、0 条官方确认、0 条参数线索。",
   "stats": {
     "total": 8,
-    "iphone": 7,
+    "iphone": 6,
     "leaks": 8,
     "official": 0,
     "specs": 0
@@ -139,29 +139,6 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
-          "id": "auto-ec2bb4f7e261",
-          "title": "iPhone 18 Pro 价格 / 成本相关消息",
-          "originalTitle": "",
-          "source": "MacRumors",
-          "brand": "iPhone",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-08-10",
-          "time": "10:29",
-          "publishedAt": "2026-08-10T10:29:52.000Z",
-          "url": "https://www.macrumors.com/2026/08/10/iphone-18-pro-build-cost-rise/",
-          "image": "https://images.macrumors.com/article-new/2026/02/iPhone-18-Pro-Deep-Red-Feature.jpg",
-          "verdict": "先看",
-          "takeaway": "iPhone 18 Pro 价格 / 成本相关消息。如果涉及订阅、售价或硬件成本，才需要进一步看细节。",
-          "detail": "iPhone 18 Pro 价格 / 成本相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
-          "keyPoints": [
-            "成本 / 价格"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
           "id": "auto-3c35a7749edf",
           "title": "iPhone 机模 / 配色信息曝光",
           "originalTitle": "",
@@ -203,6 +180,32 @@ window.phoneRadarDaily = {
           "detail": "IT之家 8 月 10 日消息，三星显示（Samsung Display）上周（8 月 7 日）发布博文，详解 Galaxy Z Fold8 系列折叠屏手机的显示面板技术。 IT之家了解到，Galaxy Z Fold8 使用了钛材增强面板，取代以往的塑料薄膜结构并加入钛金属支撑板，形成双层钛结构。与传统塑料薄膜相比，钛合金薄膜的刚性提升了 20 倍，这种新…",
           "keyPoints": [
             "屏幕形态"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "auto-7d4f767cb54f",
+          "title": "小米 REDMI 17 5G/REDMI 17 4G 手机海外发布，高通骁龙 4 Gen 5 / 联发科 Helio G91 Ultra 芯片",
+          "originalTitle": "",
+          "source": "IT之家",
+          "brand": "Xiaomi",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-08-10",
+          "time": "10:32",
+          "publishedAt": "2026-08-10T10:32:31.000Z",
+          "url": "https://www.ithome.com/0/987/999.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/8/6e4bbe21-99be-41eb-8833-d382e7ba61b5.jpg?x-bce-process=image/format,f_auto",
+          "verdict": "先看",
+          "takeaway": "IT之家 8 月 10 日消息，小米现已在海外市场推出 REDMI 17 5G 和 REDMI 17 4G 手机，两款新品主攻入门级市场，采用相同的外观设计语言。 ▲ REDMI 17 4G IT之家了解到，这两款手机均搭载 6.9 英寸 IPS LCD 屏幕，分辨率为 1600*720，支持 120Hz 高刷。内置 7500mAh 电池，支持 45W 有…",
+          "detail": "IT之家 8 月 10 日消息，小米现已在海外市场推出 REDMI 17 5G 和 REDMI 17 4G 手机，两款新品主攻入门级市场，采用相同的外观设计语言。 ▲ REDMI 17 4G IT之家了解到，这两款手机均搭载 6.9 英寸 IPS LCD 屏幕，分辨率为 1600*720，支持 120Hz 高刷。内置 7500mAh 电池，支持 45W 有…",
+          "keyPoints": [
+            "外观 / 配色 / 尺寸",
+            "屏幕形态",
+            "电池 / 充电",
+            "芯片 / 性能"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
