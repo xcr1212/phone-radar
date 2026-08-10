@@ -1,6 +1,66 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-08-10T17:07:30.242Z",
+  "updatedAt": "2026-08-10T19:15:39.987Z",
   "news": [
+    {
+      "id": "auto-a0778a5c43f6",
+      "title": "Xiaomi 18 leak reveals five colors, confirms 2nm Snapdragon chip",
+      "source": "Gizmochina",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-10",
+      "time": "18:44",
+      "publishedAt": "2026-08-10T18:44:14.000Z",
+      "url": "https://www.gizmochina.com/2026/08/10/xiaomi-18-leak-reveals-five-colors-confirms-2nm-snapdragon-chip/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/03/Xiaomi-17-300x300.png?x23692",
+      "summary": "A new leak by Digital Chat Station reveals the color options for the Xiaomi 18. According to it, the device will be available in five color options: Black, White, Pink, Blue, and…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-8d2a37a35a1e",
+      "title": "Google is turning things up to 11 in latest Pixel 11 Pro teaser",
+      "source": "Android Authority",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-10",
+      "time": "18:12",
+      "publishedAt": "2026-08-10T18:12:20.000Z",
+      "url": "https://www.androidauthority.com/pixel-11-pro-teaser-3696656/",
+      "image": "",
+      "summary": "Google's got a fresh video teaser for this week's new Pixel 11 hardware.",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-03b002589700",
+      "title": "Should you wait for the Google Pixel 11? Here's everything you should consider and how I'd spend my money",
+      "source": "Android Central",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-08-10",
+      "time": "17:36",
+      "publishedAt": "2026-08-10T17:36:28.000Z",
+      "url": "https://www.androidcentral.com/phones/google-pixel/should-you-wait-for-google-pixel-11",
+      "image": "https://cdn.mos.cms.futurecdn.net/7VRynWNu5EaptSUgniwKqW-1280-80.jpg",
+      "summary": "Google is gearing up to launch new Pixel 11 phones, but the Pixel 10 won't be going away anytime soon. Should you wait for the new model or buy now?",
+      "tags": [
+        "Pixel",
+        "评测",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-49a9fd182a53",
       "title": "iPhone 18 Pro Max's Larger Battery Capacity Allegedly Revealed",
@@ -862,7 +922,7 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-6c5c8592fbc2",
+      "id": "newsnow-bc2573050a39",
       "title": "iPhone18Pro等7款新品彻底泄密",
       "source": "微博热搜",
       "brand": "iPhone",
@@ -872,7 +932,7 @@ window.phoneRadarAuto = {
       "date": "2026-08-10",
       "time": "",
       "publishedAt": "",
-      "url": "https://s.weibo.com/weibo?q=%23iPhone18Pro%E7%AD%897%E6%AC%BE%E6%96%B0%E5%93%81%E5%BD%BB%E5%BA%95%E6%B3%84%E5%AF%86%23&t=31&band_rank=9&Refer=top",
+      "url": "https://s.weibo.com/weibo?q=%23iPhone18Pro%E7%AD%897%E6%AC%BE%E6%96%B0%E5%93%81%E5%BD%BB%E5%BA%95%E6%B3%84%E5%AF%86%23&t=31&band_rank=10&Refer=top",
       "image": "",
       "summary": "iPhone18Pro等7款新品彻底泄密",
       "tags": [
@@ -935,26 +995,6 @@ window.phoneRadarAuto = {
       "url": "https://9to5mac.com/2026/08/09/iphone-17-availability/",
       "image": "https://9to5mac.com/wp-content/uploads/sites/6/2019/12/iPhone-4.png?w=1600",
       "summary": "When Apple released the iPhone 17 last September, the timer started for the new flagship model breaking a record set 15 years ago. The record takes more than a year to break, but…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-d8bbe6430fd2",
-      "title": "Foldable 'iPhone Ultra 3' Rumored to Feature Larger Displays",
-      "source": "MacRumors",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-09",
-      "time": "15:55",
-      "publishedAt": "2026-08-09T15:55:48.000Z",
-      "url": "https://www.macrumors.com/2026/08/09/iphone-ultra-3-rumored-to-feature-larger-displays/",
-      "image": "https://images.macrumors.com/article-new/2025/08/Apple-Foldable-Thumb.jpg",
-      "summary": "Apple is already making plans for its third-generation foldable iPhone, with launch expected as early as 2028, according to Bloomberg 's Mark Gurman . Writing in his latest \"Power…",
       "tags": [
         "iPhone",
         "爆料",
@@ -1037,26 +1077,6 @@ window.phoneRadarAuto = {
       "summary": "This won't be a blowout.",
       "tags": [
         "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-3044c0611547",
-      "title": "Foldable 'iPhone Ultra' Rumored to Come in These Two Colors",
-      "source": "MacRumors",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-09",
-      "time": "11:53",
-      "publishedAt": "2026-08-09T11:53:44.000Z",
-      "url": "https://www.macrumors.com/2026/08/09/iphone-ultra-rumored-to-come-in-these-two-colors/",
-      "image": "https://images.macrumors.com/article-new/2025/03/Foldable-iPhone-2023-Feature-1.jpg",
-      "summary": "New images of camera protector accessories for the \" iPhone Ultra \" suggest Apple's first foldable iPhone will launch in silver and dark blue finishes. Leaker Sonny Dickson yester…",
-      "tags": [
-        "iPhone",
         "爆料",
         "自动抓取"
       ]
