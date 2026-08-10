@@ -1,6 +1,166 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-08-10T13:42:49.615Z",
+  "updatedAt": "2026-08-10T15:15:40.923Z",
   "news": [
+    {
+      "id": "auto-accb3d37b936",
+      "title": "Next year’s iPhone redesign with all-glass look might be canceled: report",
+      "source": "9to5Mac",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-10",
+      "time": "14:49",
+      "publishedAt": "2026-08-10T14:49:14.000Z",
+      "url": "https://9to5mac.com/2026/08/10/next-years-iphone-redesign-with-all-glass-look-might-be-canceled-report/",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/05/iphone-19-pro-20-anniversary-max.jpg?quality=82&strip=all&w=1600",
+      "summary": "Rumors have long indicated that Apple is working on an all-glass new iPhone design for the 20th anniversary next year. But an analyst from Jefferies believes that device is no lon…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-3a85c6d5ef12",
+      "title": "Leaker Weighs in on Correct Shade for 'Dark Cherry' iPhone 18 Pro",
+      "source": "MacRumors",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-10",
+      "time": "14:49",
+      "publishedAt": "2026-08-10T14:49:10.000Z",
+      "url": "https://www.macrumors.com/2026/08/10/correct-iphone-18-pro-dark-cherry-shade/",
+      "image": "https://images.macrumors.com/article-new/2026/04/Four-iPhone-18-Pro-Colors-Mock-Feature.jpg",
+      "summary": "A known Weibo leaker has stepped into an ongoing disagreement over exactly how dark the iPhone 18 Pro Max's rumored Dark Cherry color will look, saying the deeper of two shades ci…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-4d57c49b81d8",
+      "title": "Apple's Foldable iPhone Ultra Faces a Surging Samsung Galaxy Z Fold 8",
+      "source": "MacRumors",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-10",
+      "time": "14:41",
+      "publishedAt": "2026-08-10T14:41:31.000Z",
+      "url": "https://www.macrumors.com/2026/08/10/foldable-iphone-faces-surging-galaxy-z-fold-8/",
+      "image": "https://images.macrumors.com/article-new/2026/07/samsung-galaxy-zfold8.jpg",
+      "summary": "Apple's foldable iPhone is expected to arrive in September against a rival already outrunning its own forecasts. ETNews reports Samsung is building an extra one million Galaxy Z F…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-8c1735f9af0c",
+      "title": "iPhone 18 Pro’s flagship new color detailed by leaker",
+      "source": "9to5Mac",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-10",
+      "time": "14:04",
+      "publishedAt": "2026-08-10T14:04:39.000Z",
+      "url": "https://9to5mac.com/2026/08/10/iphone-18-pros-flagship-new-color-detailed-by-leaker/",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/iphone-18-pro-mockup-fi-new-color.jpg?quality=82&strip=all&w=1600",
+      "summary": "Last year iPhone 17 Pro’s Cosmic Orange color proved an instant hit, but rumors indicate it’s being replaced in iPhone 18 Pro by a new burgundy. Here’s what to expect, per a new l…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-54907d60d467",
+      "title": "不再拆机飞线：借助 ACC 实现旧手机直供电「改造」",
+      "source": "少数派",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-08-10",
+      "time": "13:50",
+      "publishedAt": "2026-08-10T13:50:02.000Z",
+      "url": "https://sspai.com/prime/story/direct-power-supply-mod",
+      "image": "",
+      "summary": "去年4月，我在某视频的影响下，萌生了将家里的旧安卓手机利用起来的想法。后续虽然跑起来了，但因为设备需要长期充电，电池安全又成了一个让我困扰的难题。为了解决这个问题，我在《彻底告别电池焦虑：旧手机再利用 ... 本文为会员文章，出自 《单篇文章》 ，订阅后可阅读全文。",
+      "tags": [
+        "行业",
+        "评测",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-957e33791e12",
+      "title": "Xiaomi 18 Pro launch timeframe leaks for India; it’s coming with rear display",
+      "source": "Gizmochina",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-10",
+      "time": "13:45",
+      "publishedAt": "2026-08-10T13:45:19.000Z",
+      "url": "https://www.gizmochina.com/2026/08/10/xiaomi-18-pro-launch-timeframe-leaks-for-india-its-coming-with-rear-display/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2025/10/Xiaomi-17-Pro-Max-battery-test-1-300x169.png?x23692",
+      "summary": "The Redmi Note 17 only just launched in India, and a new leak already lays out what’s coming next. Tipster Abhishek Yadav has shared Xiaomi and Redmi’s India launch plans for the…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-d2348eb89f9b",
+      "title": "Samsung will reportedly make an extra one million Galaxy Z Fold 8 units",
+      "source": "9to5Google",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-10",
+      "time": "13:45",
+      "publishedAt": "2026-08-10T13:45:00.000Z",
+      "url": "https://9to5google.com/2026/08/10/samsung-galaxy-z-fold-8-million-more-units/",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/07/galaxy-z-fold-8-review-46.jpg?quality=82&strip=all&w=1600",
+      "summary": "The Galaxy Z Fold 8 is an absolute smash hit, it seems, as Samsung will reportedly make an extra one million units of the wide foldable amid higher-than-expected demand.",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-5b572602704f",
+      "title": "Pixel 11 Pro XL leak shows off matte black finish and 'HiLight' LED days before launch",
+      "source": "Android Central",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-08-10",
+      "time": "13:44",
+      "publishedAt": "2026-08-10T13:44:23.000Z",
+      "url": "https://www.androidcentral.com/phones/google-pixel/pixel-11-pro-xl-leak-shows-off-matte-black-finish-and-hilight-led-days-before-launch",
+      "image": "https://cdn.mos.cms.futurecdn.net/XZqsmUQaEz43kPqdKEW4La-1280-80.jpg",
+      "summary": "A carrier leak just gave us an early look at Google’s Pixel 11 Pro XL in matte black, revealing a bigger camera housing and a new \"HiLight\" flash ahead of launch.",
+      "tags": [
+        "Pixel",
+        "评测",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-b3630ac81316",
       "title": "三星详解 Galaxy Z Fold8 系列折叠屏手机屏幕：如何实现几乎不可见的折痕",
@@ -322,26 +482,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-a8ccb428d693",
-      "title": "消息称 Galaxy Z Fold8 阔折叠手机持续热销，三星追加生产 100 万台至 380 万台",
-      "source": "IT之家",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-10",
-      "time": "09:08",
-      "publishedAt": "2026-08-10T09:08:52.000Z",
-      "url": "https://www.ithome.com/0/987/944.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/8/731355b2-06af-47a6-8e40-96f1dcb2a75a.jpg?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 8 月 10 日消息，据韩媒 etnews 报道，行业消息称，三星电子已敲定 今年追加生产 100 万台 &nbsp;Galaxy Z Fold8 阔折叠手机 的计划，并已向合作供应商下达相关零部件订单。 报道称，三星电子此前就预判阔折叠手机将会大卖，因此在 Galaxy Z8 系列中为 Fold8 分配了最高的年产量（280 万台）。作为对比，…",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-3fb44cb0a566",
       "title": "iQOO confirms Neo 11 Ultra’s 2K display specs ahead of launch",
       "source": "Gizmochina",
@@ -635,6 +775,26 @@ window.phoneRadarAuto = {
       "url": "https://www.coolapk.com/feed/73143342",
       "image": "",
       "summary": "纠结已久，终于还是加入了iPhone的坑[受虐滑稽]",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-e296bc013d1f",
+      "title": "iPhone18Pro等7款新品彻底泄密",
+      "source": "微博热搜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "待验证",
+      "date": "2026-08-10",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://s.weibo.com/weibo?q=%23iPhone18Pro%E7%AD%897%E6%AC%BE%E6%96%B0%E5%93%81%E5%BD%BB%E5%BA%95%E6%B3%84%E5%AF%86%23&t=31&band_rank=20&Refer=top",
+      "image": "",
+      "summary": "iPhone18Pro等7款新品彻底泄密",
       "tags": [
         "iPhone",
         "爆料",

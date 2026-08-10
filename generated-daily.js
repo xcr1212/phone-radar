@@ -1,14 +1,14 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-08-10T13:42:49.615Z",
+  "updatedAt": "2026-08-10T15:15:40.923Z",
   "issueDate": "2026-08-10",
   "issue": "VOL.260810",
   "title": "手机情报日报",
-  "intro": "今日筛出 13 条重点，其中 8 条是重点爆料，包含 8 条 iPhone 相关、1 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 8 条重点，其中 8 条是重点爆料，包含 6 条 iPhone 相关、0 条官方确认、0 条参数线索。",
   "stats": {
-    "total": 13,
-    "iphone": 8,
+    "total": 8,
+    "iphone": 6,
     "leaks": 8,
-    "official": 1,
+    "official": 0,
     "specs": 0
   },
   "sections": [
@@ -17,6 +17,78 @@ window.phoneRadarDaily = {
       "title": "重点爆料",
       "hint": "机模、配色、影像、屏幕、电池和芯片线索先看。",
       "items": [
+        {
+          "id": "auto-3a85c6d5ef12",
+          "title": "iPhone 相关消息",
+          "originalTitle": "",
+          "source": "MacRumors",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-08-10",
+          "time": "14:49",
+          "publishedAt": "2026-08-10T14:49:10.000Z",
+          "url": "https://www.macrumors.com/2026/08/10/correct-iphone-18-pro-dark-cherry-shade/",
+          "image": "https://images.macrumors.com/article-new/2026/04/Four-iPhone-18-Pro-Colors-Mock-Feature.jpg",
+          "verdict": "先看",
+          "takeaway": "iPhone 相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
+          "detail": "iPhone 相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
+          "keyPoints": [
+            "外观 / 配色 / 尺寸",
+            "爆料来源"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "auto-8c1735f9af0c",
+          "title": "iPhone 18 Pro 机模 / 配色信息曝光",
+          "originalTitle": "",
+          "source": "9to5Mac",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-08-10",
+          "time": "14:04",
+          "publishedAt": "2026-08-10T14:04:39.000Z",
+          "url": "https://9to5mac.com/2026/08/10/iphone-18-pros-flagship-new-color-detailed-by-leaker/",
+          "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/iphone-18-pro-mockup-fi-new-color.jpg?quality=82&strip=all&w=1600",
+          "verdict": "先看",
+          "takeaway": "iPhone 有系统功能或 AI 体验更新，适合关注后续是否影响日常使用。",
+          "detail": "iPhone 18 Pro 机模 / 配色信息曝光。来源提到未发布机型的机模/配色图，适合先判断外观方向、颜色变化和机身轮廓，但最终量产版本仍可能调整。",
+          "keyPoints": [
+            "外观 / 配色 / 尺寸",
+            "爆料来源"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "auto-accb3d37b936",
+          "title": "iPhone 外观设计线索曝光",
+          "originalTitle": "",
+          "source": "9to5Mac",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-08-10",
+          "time": "14:49",
+          "publishedAt": "2026-08-10T14:49:14.000Z",
+          "url": "https://9to5mac.com/2026/08/10/next-years-iphone-redesign-with-all-glass-look-might-be-canceled-report/",
+          "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/05/iphone-19-pro-20-anniversary-max.jpg?quality=82&strip=all&w=1600",
+          "verdict": "先看",
+          "takeaway": "iPhone 外观设计线索曝光。重点看外观、颜色、尺寸是否和上一代有明显变化。",
+          "detail": "iPhone 外观设计线索曝光。这类内容主要看外观设计、按键布局、相机模组和尺寸变化，后续最好等更多渲染图或保护壳线索互相验证。",
+          "keyPoints": [
+            "外观 / 配色 / 尺寸",
+            "爆料来源"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
         {
           "id": "auto-ec2bb4f7e261",
           "title": "iPhone 18 Pro 价格 / 成本相关消息",
@@ -35,29 +107,6 @@ window.phoneRadarDaily = {
           "detail": "iPhone 18 Pro 价格 / 成本相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
           "keyPoints": [
             "成本 / 价格"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "auto-19e2a51ce039",
-          "title": "iPhone 相关消息",
-          "originalTitle": "",
-          "source": "MacRumors",
-          "brand": "iPhone",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-08-10",
-          "time": "09:30",
-          "publishedAt": "2026-08-10T09:30:40.000Z",
-          "url": "https://www.macrumors.com/2026/08/10/apple-scrapped-plan-ship-iphones-set-up-for-you/",
-          "image": "https://images.macrumors.com/article-new/2026/07/apple-upgrade-program-1.jpg",
-          "verdict": "先看",
-          "takeaway": "iPhone 相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
-          "detail": "iPhone 相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
-          "keyPoints": [
-            "爆料"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
@@ -160,182 +209,6 @@ window.phoneRadarDaily = {
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "auto-a8ccb428d693",
-          "title": "消息称 Galaxy Z Fold8 阔折叠手机持续热销，三星追加生产 100 万台至 380 万台",
-          "originalTitle": "",
-          "source": "IT之家",
-          "brand": "Samsung",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-08-10",
-          "time": "09:08",
-          "publishedAt": "2026-08-10T09:08:52.000Z",
-          "url": "https://www.ithome.com/0/987/944.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/8/731355b2-06af-47a6-8e40-96f1dcb2a75a.jpg?x-bce-process=image/format,f_auto",
-          "verdict": "先看",
-          "takeaway": "IT之家 8 月 10 日消息，据韩媒 etnews 报道，行业消息称，三星电子已敲定 今年追加生产 100 万台 &nbsp;Galaxy Z Fold8 阔折叠手机 的计划，并已向合作供应商下达相关零部件订单。 报道称，三星电子此前就预判阔折叠手机将会大卖，因此在 Galaxy Z8 系列中为 Fold8 分配了最高的年产量（280 万台）。作为对比，…",
-          "detail": "IT之家 8 月 10 日消息，据韩媒 etnews 报道，行业消息称，三星电子已敲定 今年追加生产 100 万台 &nbsp;Galaxy Z Fold8 阔折叠手机 的计划，并已向合作供应商下达相关零部件订单。 报道称，三星电子此前就预判阔折叠手机将会大卖，因此在 Galaxy Z8 系列中为 Fold8 分配了最高的年产量（280 万台）。作为对比，…",
-          "keyPoints": [
-            "爆料来源"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "weibo-3ed821f64ae0",
-          "title": "数码闲聊站：一加16新机疑似入网，支持N79 5G频段，子系唯二骁龙8 Elite Gen…",
-          "originalTitle": "",
-          "source": "数码闲聊站",
-          "brand": "OPPO",
-          "type": "爆料",
-          "trust": "高关注爆料源",
-          "date": "2026-08-10",
-          "time": "05:36",
-          "publishedAt": "2026-08-10T05:36:00.000Z",
-          "url": "https://weibo.com/6048569942/RcJMEAw68",
-          "image": "https://tvax2.sinaimg.cn/mw2000/006BlblIgy1ifycmegyd9j313p1b2dv8.jpg",
-          "verdict": "先看",
-          "takeaway": "一加16新机疑似入网，支持N79 5G频段，子系唯二骁龙8 Elite Gen6 Pro，你们对它有何期待？ 子系最窄物理四等边直屏？更极致的超高刷？更激进的三芯性能调度？更大的满血百瓦双电芯？[doge]",
-          "detail": "一加16新机疑似入网，支持N79 5G频段，子系唯二骁龙8 Elite Gen6 Pro，你们对它有何期待？ 子系最窄物理四等边直屏？更极致的超高刷？更激进的三芯性能调度？更大的满血百瓦双电芯？[doge]",
-          "keyPoints": [
-            "屏幕形态",
-            "爆料来源"
-          ],
-          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        }
-      ]
-    },
-    {
-      "id": "iphone",
-      "title": "iPhone 重点",
-      "hint": "不是硬件爆料，但和 iPhone 体验或路线有关。",
-      "items": [
-        {
-          "id": "newsnow-1b5923edc936",
-          "title": "纠结已久，终于还是加入了iPhone的坑[受虐滑稽]",
-          "originalTitle": "",
-          "source": "酷安热榜",
-          "brand": "iPhone",
-          "type": "爆料",
-          "trust": "高关注爆料源",
-          "date": "2026-08-10",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://www.coolapk.com/feed/73143342",
-          "image": "",
-          "verdict": "先看",
-          "takeaway": "纠结已久，终于还是加入了iPhone的坑[受虐滑稽]",
-          "detail": "纠结已久，终于还是加入了iPhone的坑[受虐滑稽]",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
-        {
-          "id": "coolapk-user-93cd495c7027",
-          "title": "竹本青：【罗永浩吐槽苹果手机语音输入法：输入一句话后点逗号，会消掉最后一个字改成逗号】 8月10日，罗永浩发文称：苹果手机…",
-          "originalTitle": "",
-          "source": "竹本青",
-          "brand": "iPhone",
-          "type": "爆料",
-          "trust": "高可信爆料",
-          "date": "2026-08-10",
-          "time": "12:38",
-          "publishedAt": "2026-08-10T12:38:23.000Z",
-          "url": "https://www.coolapk.com/feed/73171268",
-          "image": "http://image.coolapk.com/feed/2026/0810/20/4248714_a6cd03e8_5502_6766_714@1272x768.jpg",
-          "verdict": "先看",
-          "takeaway": "【罗永浩吐槽苹果手机语音输入法：输入一句话后点逗号，会消掉最后一个字改成逗号】 8月10日，罗永浩发文称：苹果手机让第三方语音输入法不能正常使用，然后自己做了也许是人类能做到的最差的语音输入法（如果有更差的，请一定告诉我），结果它最近的变化证明没有最差，只有更差 ： 为什么输入一句话之后点逗号，会S-B呵呵地自动消掉最后一个字改成逗号呢？！有时候一句话输入…",
-          "detail": "【罗永浩吐槽苹果手机语音输入法：输入一句话后点逗号，会消掉最后一个字改成逗号】 8月10日，罗永浩发文称：苹果手机让第三方语音输入法不能正常使用，然后自己做了也许是人类能做到的最差的语音输入法（如果有更差的，请一定告诉我），结果它最近的变化证明没有最差，只有更差 ： 为什么输入一句话之后点逗号，会S-B呵呵地自动消掉最后一个字改成逗号呢？！有时候一句话输入…",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "可信度较高，但仍属于发布前线索。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
-        {
-          "id": "coolapk-user-0cb71146e1bf",
-          "title": "竹本青：【iPhone 17系列 中国区最新销量曝光：周增约57.22万台，累计突破3954万台】 8月10日，博主「RD…",
-          "originalTitle": "",
-          "source": "竹本青",
-          "brand": "iPhone",
-          "type": "爆料",
-          "trust": "高可信爆料",
-          "date": "2026-08-10",
-          "time": "12:30",
-          "publishedAt": "2026-08-10T12:30:19.000Z",
-          "url": "https://www.coolapk.com/feed/73171143",
-          "image": "http://image.coolapk.com/feed/2026/0810/20/4248714_ab0c9df3_5095_0665_239@3313x2502.jpg",
-          "verdict": "先看",
-          "takeaway": "【iPhone 17系列 中国区最新销量曝光：周增约57.22万台，累计突破3954万台】 8月10日，博主「RD观测」发布第三方统计数据：截至2026年第31周，iPhone 17系列手机在中国市场累计销量约3954.25万台，周环比新增约57.22万台。 前几周数据如下： 截至 W30 —— 约3897.03万（周增58.25万） 截至 W29 ——…",
-          "detail": "【iPhone 17系列 中国区最新销量曝光：周增约57.22万台，累计突破3954万台】 8月10日，博主「RD观测」发布第三方统计数据：截至2026年第31周，iPhone 17系列手机在中国市场累计销量约3954.25万台，周环比新增约57.22万台。 前几周数据如下： 截至 W30 —— 约3897.03万（周增58.25万） 截至 W29 ——…",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "可信度较高，但仍属于发布前线索。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
-        {
-          "id": "auto-9bbf43c61c96",
-          "title": "iPhone 系统功能 / AI 体验相关消息",
-          "originalTitle": "",
-          "source": "Apple Newsroom",
-          "brand": "iPhone",
-          "type": "官方",
-          "trust": "官方确认",
-          "date": "2026-08-10",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://www.apple.com/newsroom/2026/06/apple-announces-changes-to-ios-in-brazil/",
-          "image": "",
-          "verdict": "先看",
-          "takeaway": "iPhone 系统功能 / AI 体验相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
-          "detail": "iPhone 系统功能 / AI 体验相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
-          "keyPoints": [
-            "官方"
-          ],
-          "confidence": "官方内容，可直接作为已确认信息记录。",
-          "impact": "可信度高，但如果不是配置/价格消息，只需要扫一眼。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        }
-      ]
-    },
-    {
-      "id": "launch",
-      "title": "新机与官方发布",
-      "hint": "能直接更新到参数库。",
-      "items": [
-        {
-          "id": "auto-d5de8b9c06f6",
-          "title": "我与Pixel 10 Pro的生活：写在Pixel 11系列手机发布前夕",
-          "originalTitle": "",
-          "source": "少数派",
-          "brand": "Pixel",
-          "type": "评测",
-          "trust": "媒体汇总",
-          "date": "2026-08-10",
-          "time": "03:00",
-          "publishedAt": "2026-08-10T03:00:56.000Z",
-          "url": "https://sspai.com/post/113202",
-          "image": "",
-          "verdict": "先看",
-          "takeaway": "喜欢，从来没有一个明确的定义。",
-          "detail": "喜欢，从来没有一个明确的定义。",
-          "keyPoints": [
-            "评测"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是实际体验内容，买前适合重点看缺点和取舍。",
-          "action": "中文源可以直接点开快读；看完只保留和购机有关的点。"
         }
       ]
     }
