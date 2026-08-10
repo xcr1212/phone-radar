@@ -1,6 +1,186 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-08-10T11:20:00.454Z",
+  "updatedAt": "2026-08-10T13:42:49.615Z",
   "news": [
+    {
+      "id": "auto-b3630ac81316",
+      "title": "三星详解 Galaxy Z Fold8 系列折叠屏手机屏幕：如何实现几乎不可见的折痕",
+      "source": "IT之家",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-10",
+      "time": "13:29",
+      "publishedAt": "2026-08-10T13:29:31.000Z",
+      "url": "https://www.ithome.com/0/988/034.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/8/fb22dcb3-985c-4d0a-afaa-b79c7a6f1490.png?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 8 月 10 日消息，三星显示（Samsung Display）上周（8 月 7 日）发布博文，详解 Galaxy Z Fold8 系列折叠屏手机的显示面板技术。 IT之家了解到，Galaxy Z Fold8 使用了钛材增强面板，取代以往的塑料薄膜结构并加入钛金属支撑板，形成双层钛结构。与传统塑料薄膜相比，钛合金薄膜的刚性提升了 20 倍，这种新…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-a28347c004ca",
+      "title": "Vivo X300 FE sees another price hike in India, now starts at ₹89,999",
+      "source": "Gizmochina",
+      "brand": "vivo",
+      "model": "vivo 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-10",
+      "time": "13:27",
+      "publishedAt": "2026-08-10T13:27:26.000Z",
+      "url": "https://www.gizmochina.com/2026/08/10/vivo-x300-fe-sees-another-price-hike-in-india-now-starts-at-%e2%82%b989999/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/08/vivo-x300-fe-featuring-a-zeiss-super-telephoto-camera-300x169.png?x23692",
+      "summary": "Vivo has quietly bumped up the price of its compact flagship again, so anyone still thinking about buying one is looking at a noticeably higher tag than what was advertised a few…",
+      "tags": [
+        "vivo",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-dffcc46181dc",
+      "title": "今夕是何年：Lava Smart 4 手机发布，6.56 英寸 540p 屏、3+32GB",
+      "source": "IT之家",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-10",
+      "time": "13:22",
+      "publishedAt": "2026-08-10T13:22:26.000Z",
+      "url": "https://www.ithome.com/0/988/032.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/8/eda2244b-03c9-40b1-9fda-a68bf0f03015.jpg",
+      "summary": "IT之家 8 月 10 日消息，据外媒 gsmarena 今天（10 日）报道，印度手机厂商 Lava 今年早些时候推出了配置平平的 Smart 4 Plus，随后又带来了定位更低、价格也更便宜的 Lava Smart 4。新机售价 8,500 印度卢比 （IT之家注：现汇率约合 603.3 元人民币） ，配置几乎成了全球存储器短缺冲击入门手机市场的缩影。…",
+      "tags": [
+        "行业",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-55b2fcf22c6f",
+      "title": "Even Samsung didn’t anticipate how much people would love the Galaxy Z Fold 8",
+      "source": "Android Authority",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-10",
+      "time": "13:15",
+      "publishedAt": "2026-08-10T13:15:07.000Z",
+      "url": "https://www.androidauthority.com/samsung-galaxy-z-fold-8-production-increase-3696398/",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2026/07/Galaxy-Z-Fold-8-cover-display-scaled-e1785767507512-500w-260h.jpg",
+      "summary": "The Samsung Galaxy Z Fold 8 may just be a hit for Samsung based on these new production figures.",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-93cd495c7027",
+      "title": "竹本青：【罗永浩吐槽苹果手机语音输入法：输入一句话后点逗号，会消掉最后一个字改成逗号】 8月10日，罗永浩发文称：苹果手机…",
+      "source": "竹本青",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-08-10",
+      "time": "12:38",
+      "publishedAt": "2026-08-10T12:38:23.000Z",
+      "url": "https://www.coolapk.com/feed/73171268",
+      "image": "http://image.coolapk.com/feed/2026/0810/20/4248714_a6cd03e8_5502_6766_714@1272x768.jpg",
+      "summary": "【罗永浩吐槽苹果手机语音输入法：输入一句话后点逗号，会消掉最后一个字改成逗号】 8月10日，罗永浩发文称：苹果手机让第三方语音输入法不能正常使用，然后自己做了也许是人类能做到的最差的语音输入法（如果有更差的，请一定告诉我），结果它最近的变化证明没有最差，只有更差 ： 为什么输入一句话之后点逗号，会S-B呵呵地自动消掉最后一个字改成逗号呢？！有时候一句话输入…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "coolapk-user-0cb71146e1bf",
+      "title": "竹本青：【iPhone 17系列 中国区最新销量曝光：周增约57.22万台，累计突破3954万台】 8月10日，博主「RD…",
+      "source": "竹本青",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-08-10",
+      "time": "12:30",
+      "publishedAt": "2026-08-10T12:30:19.000Z",
+      "url": "https://www.coolapk.com/feed/73171143",
+      "image": "http://image.coolapk.com/feed/2026/0810/20/4248714_ab0c9df3_5095_0665_239@3313x2502.jpg",
+      "summary": "【iPhone 17系列 中国区最新销量曝光：周增约57.22万台，累计突破3954万台】 8月10日，博主「RD观测」发布第三方统计数据：截至2026年第31周，iPhone 17系列手机在中国市场累计销量约3954.25万台，周环比新增约57.22万台。 前几周数据如下： 截至 W30 —— 约3897.03万（周增58.25万） 截至 W29 ——…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-3b0bfb72531c",
+      "title": "New Galaxy S26 FE leak gives away pretty much all of its specs",
+      "source": "Android Authority",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-10",
+      "time": "12:29",
+      "publishedAt": "2026-08-10T12:29:40.000Z",
+      "url": "https://www.androidauthority.com/samsung-galaxy-s26-fe-specs-leak-3696416/",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2025/09/Samsung-Galaxy-S25-FE-rear-cameras-scaled-1-scaled.jpg",
+      "summary": "Nothing surprising to see here.",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-312b2f35ac0a",
+      "title": "Huawei Mate 80 reportedly selling 200,000 units per week, 8.2 million sold!",
+      "source": "Huawei Central",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-10",
+      "time": "12:29",
+      "publishedAt": "2026-08-10T12:29:12.000Z",
+      "url": "https://www.huaweicentral.com/huawei-mate-80-series-sold-8-2-million-units/",
+      "image": "https://www.huaweicentral.com/wp-content/uploads/2026/02/Mate80Pro-ig1.jpg",
+      "summary": "Huawei Mate 90 series is in the making, and ahead of its launch, the Mate 80 flagship lineup is trying its best to complete the 10 million mark, now reaching 8.2 million units. Th…",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-9aa296851880",
+      "title": "Google Pixel 11 Pro XL Geekbench listing shows Tensor G6 performance numbers",
+      "source": "Gizmochina",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-10",
+      "time": "11:32",
+      "publishedAt": "2026-08-10T11:32:49.000Z",
+      "url": "https://www.gizmochina.com/2026/08/10/google-pixel-11-pro-xl-geekbench-listing-shows-tensor-g6-performance-numbers/",
+      "image": "",
+      "summary": "Google is just a couple of days away from the Pixel 11 series launch, and if you’ve been waiting to see how Google’s next flagship chip performs, we have some early numbers to loo…",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-efe4e9a6d5bf",
       "title": "The iPhone 18 Pro will cost Apple 38% more in parts – but there’s some good news",
@@ -182,46 +362,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-0fe1ff578608",
-      "title": "iQOO Neo11 至尊版屏幕参数公布：全球首发国产 F2 发光材料，6.83 英寸 2K 分辨率",
-      "source": "IT之家",
-      "brand": "vivo",
-      "model": "vivo 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-10",
-      "time": "07:32",
-      "publishedAt": "2026-08-10T07:32:36.000Z",
-      "url": "https://www.ithome.com/0/987/884.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/8/a2da9f52-71f0-4202-87be-4c26fdc8011d.jpg",
-      "summary": "IT之家 8 月 10 日消息，iQOO 产品经理 @iQOO 慧慧子今天在微博发文，公布 iQOO Neo11 至尊版手机的屏幕参数。 据介绍，这款手机采用 6.83 英寸 2K 护眼超冠屏 +9100mAh 超大容量电池组合。 该机采用全球首发国产 F2 发光材料 ，背后的「埃米级蒸镀工艺」，是国产屏幕自主工艺的一次重要革新，大幅提升发光效率。 该名产…",
-      "tags": [
-        "vivo",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "coolapk-user-682cec9beb92",
-      "title": "竹本青：华为Mate 80系列 最新销量曝光：突破827万台",
-      "source": "竹本青",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-08-10",
-      "time": "07:29",
-      "publishedAt": "2026-08-10T07:29:34.000Z",
-      "url": "https://www.coolapk.com/feed/73166696",
-      "image": "http://image.coolapk.com/feed/2026/0810/15/4248714_02094d05_6973_5892_294@3336x2485.jpg",
-      "summary": "【华为Mate 80系列 最新销量曝光：突破827万台】 8月10日，博主「RD观测」分享第三方统计数据：截至2026年第31周，华为Mate 80系列累计销量约827.84万台。 前几周数据如下： 截至2026 W30 —— 约809万 截至2026 W29 —— 约792.05万 截至2026 W28 —— 约775.97万 截至2026 W27 ——…",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
       "id": "auto-910bc97714f3",
       "title": "Samsung forced to make 1 million more Galaxy Z Fold 8 units due to high demand",
       "source": "SamMobile",
@@ -259,26 +399,6 @@ window.phoneRadarAuto = {
         "OPPO",
         "爆料",
         "自动抓取"
-      ]
-    },
-    {
-      "id": "coolapk-user-992cdf99198e",
-      "title": "竹本青：iQOO Neo11 至尊版将全球首发国产F2发光材料",
-      "source": "竹本青",
-      "brand": "vivo",
-      "model": "vivo 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-08-10",
-      "time": "06:43",
-      "publishedAt": "2026-08-10T06:43:10.000Z",
-      "url": "https://www.coolapk.com/feed/73166108",
-      "image": "http://image.coolapk.com/feed/2026/0810/14/4248714_702a4c57_4185_3841_25@992x8345.jpg",
-      "summary": "【iQOO 产品经理预热Neo11 至尊版屏幕：全球首发国产F2发光材料】 ● 6.83\"+2K分辨率，首发国产F2发光材料 ● 显示更清晰，功耗进一步降低 ● 9100mAh电池，4年健康度80%以上 #今日热点# #iQOONeo11至尊版# #OriginOS6#",
-      "tags": [
-        "vivo",
-        "爆料",
-        "酷安博主"
       ]
     },
     {
@@ -462,6 +582,26 @@ window.phoneRadarAuto = {
       ]
     },
     {
+      "id": "newsnow-95542948494d",
+      "title": "鼓吹这机子是4k档的不知道是被红米洗脑了还是红米派过来的间谍。要知道去年的k90首发价可是2599，k100p虽然名字叫pro但除了长焦带个光学防抖（成本不到10块！）其它硬件没有任何升级，本该常规升级的芯片还砍了一刀，这机子就是卖3599起销量都要拉稀，k90对比k80销量已经算是腰斩了，除非红米不想走量只是像其它厂商一样发个机子玩玩（x300e）[doge笑哭] #REDMIK100ProMax#",
+      "source": "酷安热榜",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-08-10",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/73160144",
+      "image": "",
+      "summary": "鼓吹这机子是4k档的不知道是被红米洗脑了还是红米派过来的间谍。要知道去年的k90首发价可是2599，k100p虽然名字叫pro但除了长焦带个光学防抖（成本不到10块！）其它硬件没有任何升级，本该常规升级的芯片还砍了一刀，这机子就是卖3599起销量都要拉稀，k90对比k80销量已经算是腰斩了，除非红米不想走量只是像其它厂商一样发个机子玩玩（x300e）[do…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
       "id": "newsnow-95eaf33e63ef",
       "title": "iQOO 产品经理：媲美2K不是真2K，Neo11 至尊版配备真2K屏",
       "source": "酷安热榜",
@@ -497,26 +637,6 @@ window.phoneRadarAuto = {
       "summary": "纠结已久，终于还是加入了iPhone的坑[受虐滑稽]",
       "tags": [
         "iPhone",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-95542948494d",
-      "title": "鼓吹这机子是4k档的不知道是被红米洗脑了还是红米派过来的间谍。要知道去年的k90首发价可是2599，k100p虽然名字叫pro但除了长焦带个光学防抖（成本不到10块！）其它硬件没有任何升级，本该常规升级的芯片还砍了一刀，这机子就是卖3599起销量都要拉稀，k90对比k80销量已经算是腰斩了，除非红米不想走量只是像其它厂商一样发个机子玩玩（x300e）[doge笑哭] #REDMIK100ProMax#",
-      "source": "酷安热榜",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-08-10",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73160144",
-      "image": "",
-      "summary": "鼓吹这机子是4k档的不知道是被红米洗脑了还是红米派过来的间谍。要知道去年的k90首发价可是2599，k100p虽然名字叫pro但除了长焦带个光学防抖（成本不到10块！）其它硬件没有任何升级，本该常规升级的芯片还砍了一刀，这机子就是卖3599起销量都要拉稀，k90对比k80销量已经算是腰斩了，除非红米不想走量只是像其它厂商一样发个机子玩玩（x300e）[do…",
-      "tags": [
-        "Xiaomi",
         "爆料",
         "NewsNow"
       ]
@@ -577,46 +697,6 @@ window.phoneRadarAuto = {
       "summary": "When Apple released the iPhone 17 last September, the timer started for the new flagship model breaking a record set 15 years ago. The record takes more than a year to break, but…",
       "tags": [
         "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-0ec6430a53a2",
-      "title": "The Pixel 11 is just what Google needs to fix its broken phones",
-      "source": "Android Police",
-      "brand": "Pixel",
-      "model": "Pixel 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-09",
-      "time": "17:00",
-      "publishedAt": "2026-08-09T17:00:16.000Z",
-      "url": "https://www.androidpolice.com/pixel-11-what-google-needs-to-fix-its-broken-phones/",
-      "image": "",
-      "summary": "The Pixel's foundations have started to erode, and Google needs to pay attention",
-      "tags": [
-        "Pixel",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-d24aa330da0c",
-      "title": "The Galaxy Z Fold 8 convinced me that an old phone feature needs a comeback, fast",
-      "source": "Android Police",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-09",
-      "time": "16:15",
-      "publishedAt": "2026-08-09T16:15:15.000Z",
-      "url": "https://www.androidpolice.com/galaxy-z-fold-8-convinced-me-this-needs-to-come-back/",
-      "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2026/08/samsung-galaxy-z-fold-8-fingerprint-scanner-wide.jpg",
-      "summary": "Let me unlock on the side",
-      "tags": [
-        "Samsung",
         "爆料",
         "自动抓取"
       ]
