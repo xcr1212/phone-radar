@@ -1,6 +1,346 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-08-09T22:48:38.867Z",
+  "updatedAt": "2026-08-10T02:33:36.342Z",
   "news": [
+    {
+      "id": "coolapk-user-f772f491e7a7",
+      "title": "竹本青：OPPO Enco Clip2 全新配色「晨雾白」亮相，将于8月14日正式开售 #今日热点# #OPPOEncoC…",
+      "source": "竹本青",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-08-10",
+      "time": "02:31",
+      "publishedAt": "2026-08-10T02:31:23.000Z",
+      "url": "https://www.coolapk.com/feed/73162813",
+      "image": "http://image.coolapk.com/feed/2026/0810/10/4248714_1feec5ac_9081_4252_251@1080x1920.jpg",
+      "summary": "OPPO Enco Clip2 全新配色「晨雾白」亮相，将于8月14日正式开售 #今日热点# #OPPOEncoClip2# #ColorOS16#",
+      "tags": [
+        "OPPO",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-0c7ea54b7795",
+      "title": "iQOO Neo 11 Ultra, Z11S with up to 10,000mAh batteries set to launch on August 18￼ ￼",
+      "source": "Gizmochina",
+      "brand": "vivo",
+      "model": "vivo 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-10",
+      "time": "02:22",
+      "publishedAt": "2026-08-10T02:22:41.000Z",
+      "url": "https://www.gizmochina.com/2026/08/10/iqoo-neo-11-ultra-z11s-design-specs-august-18-launch/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/08/iQOO-Neo-11-Ultra-color-options-300x212.jpg?x23692",
+      "summary": "After teasing the arrival of the iQOO Neo 11 Ultra last week, iQOO has now confirmed its design and some key specifications. The company has also revealed that the iQOO Z11S will…",
+      "tags": [
+        "vivo",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-02a003363857",
+      "title": "竹本青：小米米家制冰机 众筹预约开启：6-8分钟快速制冰，众测价339元 #米家什么值得买# #今日热点# #HyperO…",
+      "source": "竹本青",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-08-10",
+      "time": "02:19",
+      "publishedAt": "2026-08-10T02:19:32.000Z",
+      "url": "https://www.coolapk.com/feed/73162666",
+      "image": "http://image.coolapk.com/feed/2026/0810/10/4248714_d283f041_8371_0783_161@1080x1440.jpg",
+      "summary": "小米米家制冰机 众筹预约开启：6-8分钟快速制冰，众测价339元 #米家什么值得买# #今日热点# #HyperOS3#",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "weibo-32abe9758543",
+      "title": "数码闲聊站：iQOO Neo11至尊版，这设计感受一下：",
+      "source": "数码闲聊站",
+      "brand": "vivo",
+      "model": "vivo 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-08-10",
+      "time": "02:03",
+      "publishedAt": "2026-08-10T02:03:00.000Z",
+      "url": "https://weibo.com/6048569942/RcIocn4ns",
+      "image": "https://tvax1.sinaimg.cn/mw2000/006BlblIgy1ifyc7r2yrvj3140140113.jpg",
+      "summary": "iQOO Neo11至尊版，这设计感受一下：",
+      "tags": [
+        "vivo",
+        "爆料",
+        "微博"
+      ]
+    },
+    {
+      "id": "coolapk-user-ed304df30d33",
+      "title": "竹本青：【iQOO Z系列产品经理：Z11S 搭载iQOO首款万级大电池】 ● 10000mAh电池： 联合宁德新能源 新…",
+      "source": "竹本青",
+      "brand": "vivo",
+      "model": "vivo 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-08-10",
+      "time": "02:02",
+      "publishedAt": "2026-08-10T02:02:54.000Z",
+      "url": "https://www.coolapk.com/feed/73162466",
+      "image": "http://image.coolapk.com/feed/2026/0810/10/4248714_cc280aa8_7369_5523_286@936x7096.jpg",
+      "summary": "【iQOO Z系列产品经理：Z11S 搭载iQOO首款万级大电池】 ● 10000mAh电池： 联合宁德新能源 新一代硅负极技术，超高能量密度 核舟堆叠架构优化内部空间 万级容量与轻薄手感的兼顾 ● 6.83英寸 144Hz屏： 自研超感触控技术 悦目护眼 2.0 全亮度类 DC +2160Hz PWM调光 瑞士 SGS 低蓝光、低频闪双认证 #今日热点#…",
+      "tags": [
+        "vivo",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "coolapk-user-529e5ba1dd5a",
+      "title": "竹本青：【iQOO 产品经理点评：媲美2K不是真2K，Neo11 至尊版 配备真2K屏】 8月10日，iQOO Neo产品…",
+      "source": "竹本青",
+      "brand": "vivo",
+      "model": "vivo 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-08-10",
+      "time": "01:33",
+      "publishedAt": "2026-08-10T01:33:40.000Z",
+      "url": "https://www.coolapk.com/feed/73162145",
+      "image": "http://image.coolapk.com/feed/2026/0810/09/4248714_f86180dd_5619_3779_966@1439x1153.jpg",
+      "summary": "【iQOO 产品经理点评：媲美2K不是真2K，Neo11 至尊版 配备真2K屏】 8月10日，iQOO Neo产品经理点评手机屏幕称，“媲美2K终究不是真2K，显示技术可以有很多名称，但物理像素才是真理。” 她表示，在行业普遍采用的1.5K方案时，iQOO Neo11 至尊版 依旧更进一步，配备真2K屏幕（国产全新材料2K OLED屏）。 #今日热点# #…",
+      "tags": [
+        "vivo",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-8776dc6decff",
+      "title": "iQOO Neo 11 至尊版手机官宣 8 月 18 日发布：行业唯一 2K 屏 & 9100mAh 性能旗舰，Z11S 同步亮相",
+      "source": "IT之家",
+      "brand": "vivo",
+      "model": "vivo 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-10",
+      "time": "01:21",
+      "publishedAt": "2026-08-10T01:21:01.000Z",
+      "url": "https://www.ithome.com/0/987/680.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/8/98d1b664-fe07-42f7-88f4-ee94495f0593.png?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 8 月 10 日消息，iQOO 手机今日官宣，iQOO Neo 11 至尊版将于 8 月 18 日 19:00 发布并开售，这是“行业唯一 2K 屏 & 9100mAh 性能旗舰”。 此外，iQOO 首款万级续航手机 iQOO Z11S 也将于 8 月 18 日 19:00 发布并开售，搭载 10000mAh 蓝海电池、144Hz 护眼电竞屏。…",
+      "tags": [
+        "vivo",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-6b56542182a9",
+      "title": "小米 REDMI K100 Pro Max 手机新配色「追风蓝」公布，8 月 11 日发布",
+      "source": "IT之家",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-10",
+      "time": "01:06",
+      "publishedAt": "2026-08-10T01:06:52.000Z",
+      "url": "https://www.ithome.com/0/987/676.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/8/f8e3dc06-4d32-41bc-99de-2cd12ac4f568.jpg",
+      "summary": "IT之家 8 月 10 日消息，小米今日公布 REDMI K100 Pro Max 全新配色「追风蓝」，新机将于 8 月 11 日 19:00 发布。 在此之前，REDMI K100 Pro Max 已经公布“赤霞珠红”“流金白”配色。新机采用 6.9 英寸超窄边直屏，四曲包裹式金属中框，还有一体化金属 DECO，以及全新悬浮灯环设计可随音乐律动。首发 M…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-9a011406a3d6",
+      "title": "竹本青：【iQOO Neo11 至尊版、Z11S 正式亮相，将于8月18日发布】 ● Neo11 至尊版：横向排布双摄 国…",
+      "source": "竹本青",
+      "brand": "vivo",
+      "model": "vivo 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-08-10",
+      "time": "01:02",
+      "publishedAt": "2026-08-10T01:02:21.000Z",
+      "url": "https://www.coolapk.com/feed/73161828",
+      "image": "http://image.coolapk.com/feed/2026/0810/09/4248714_6df195e4_3736_7427_474@2494x3325.jpg",
+      "summary": "【iQOO Neo11 至尊版、Z11S 正式亮相，将于8月18日发布】 ● Neo11 至尊版：横向排布双摄 国产新材料 2K大直屏 定制 天玑9500 （12核心→11核心） 9100mAh电池+100W快充 3D超声波指纹 IP68/69防尘防水 ● Z11S：常规左上矩阵 天玑7500/天玑7500 Turbo 10000mAh电池+44W快充 6…",
+      "tags": [
+        "vivo",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-9bbf43c61c96",
+      "title": "Apple announces changes to iOS in Brazil",
+      "source": "Apple Newsroom",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "官方",
+      "trust": "官方确认",
+      "date": "2026-08-10",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.apple.com/newsroom/2026/06/apple-announces-changes-to-ios-in-brazil/",
+      "image": "",
+      "summary": "Apple today announced changes impacting iOS apps in Brazil that reflect a recent agreement with Brazil’s competition regulator, CADE.",
+      "tags": [
+        "iPhone",
+        "官方",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "newsnow-48bd7466b536",
+      "title": "右上角被我掰手机壳的时候 把手机框（银色的边框）掰变形了...这样还能多少价格出掉？17pm银白色256G",
+      "source": "酷安热榜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-08-10",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/73153584",
+      "image": "",
+      "summary": "右上角被我掰手机壳的时候 把手机框（银色的边框）掰变形了...这样还能多少价格出掉？17pm银白色256G",
+      "tags": [
+        "行业",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-1b5923edc936",
+      "title": "纠结已久，终于还是加入了iPhone的坑[受虐滑稽]",
+      "source": "酷安热榜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-08-10",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/73143342",
+      "image": "",
+      "summary": "纠结已久，终于还是加入了iPhone的坑[受虐滑稽]",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-91a17a482c29",
+      "title": "iPhone18Pro发布会时间",
+      "source": "微博热搜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "待验证",
+      "date": "2026-08-10",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://s.weibo.com/weibo?q=%23iPhone18Pro%E5%8F%91%E5%B8%83%E4%BC%9A%E6%97%B6%E9%97%B4%23&t=31&band_rank=9&Refer=top",
+      "image": "",
+      "summary": "iPhone18Pro发布会时间",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-75a02c9a64c9",
+      "title": "手机真会“偷听”我们说话吗",
+      "source": "百度热搜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-10",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.baidu.com/s?wd=%E6%89%8B%E6%9C%BA%E7%9C%9F%E4%BC%9A%E2%80%9C%E5%81%B7%E5%90%AC%E2%80%9D%E6%88%91%E4%BB%AC%E8%AF%B4%E8%AF%9D%E5%90%97",
+      "image": "",
+      "summary": "手机真会“偷听”我们说话吗",
+      "tags": [
+        "行业",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "auto-83cfe23c5769",
+      "title": "深圳皇岗海关查获进境客车夹藏旧手机 46 台",
+      "source": "IT之家",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-09",
+      "time": "23:57",
+      "publishedAt": "2026-08-09T23:57:00.000Z",
+      "url": "https://www.ithome.com/0/987/660.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/8/e9b7cde3-c6cd-4779-af6b-698a0eeaea89.png",
+      "summary": "IT之家 8 月 10 日消息，据“海关发布”公众号，近日，深圳皇岗海关查获一辆进境客车夹藏旧手机 46 台。 ▲ 图源“海关发布”公众号（下同） 当日，一辆跨境客车从皇岗口岸客运车道进境，在经过海关监管区时未向海关主动申报，且机检图像异常。经进一步检查，海关关员在该车辆第二排座椅上方的天窗尾部和车厢夹层的缝隙内查获旧手机 46 台。 这种以藏匿的方式走私…",
+      "tags": [
+        "行业",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-0c0786b60a84",
+      "title": "新生可提前 20 天预约购票，中国铁路发布官方指南",
+      "source": "IT之家",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-09",
+      "time": "23:27",
+      "publishedAt": "2026-08-09T23:27:32.000Z",
+      "url": "https://www.ithome.com/0/987/653.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/8/a09da813-633e-4c9d-a313-6b3a0a696bca.jpg?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 8 月 10 日消息，随着各大院校进入开学季，铁路将迎来学生旅客出行高峰，中国铁路 12306 手机客户端新增新生预约功能，并发布官方指南，IT之家整理如下。 1、如何提交预约申请？ 2026 年 8 月 1 日至 30 日 ，火车票学生预约购票服务中新增新生预约功能，符合条件的 2026 级新生在铁路 12306 手机客户端“ 学生资质核验 ”…",
+      "tags": [
+        "行业",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-44e0fb0ab6ea",
+      "title": "古尔曼：苹果 iPhone 18 Pro / Ultra 发布会预计 9 月 9 日举行，预售避开 9·11",
+      "source": "IT之家",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-09",
+      "time": "22:58",
+      "publishedAt": "2026-08-09T22:58:08.000Z",
+      "url": "https://www.ithome.com/0/987/646.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/8/33ab5e91-1a6d-473c-b365-52ee93915c33.jpg?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 8 月 10 日消息，现在已经进入 8 月，距离 iPhone 18 Pro 和 iPhone Ultra 的发布会只剩大约一个月。苹果历年的 iPhone 发布节奏相当固定，但今年可能会出现一些变化。 据彭博社记者马克 · 古尔曼 (Mark Gurman) 报道，苹果已经在紧锣密鼓地筹备这场发布会。被安排协助发布会的苹果零售店员工据称已经收到…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-ed810cd8e430",
       "title": "古尔曼披露苹果折叠 iPhone Ultra 三年路线：2028 年推出大屏版本",
@@ -82,26 +422,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "coolapk-user-56778c4ac5d5",
-      "title": "竹本青：【宁波充电场站一极氪7X起火，官方称该车辆近期遭遇严重碰撞且未官方检修】 8月10日资讯，昨日，宁波海曙区一充电场…",
-      "source": "竹本青",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-08-09",
-      "time": "16:31",
-      "publishedAt": "2026-08-09T16:31:54.000Z",
-      "url": "https://www.coolapk.com/feed/73159674",
-      "image": "http://image.coolapk.com/feed/2026/0810/00/4248714_d9e5cf57_3317_7109_891-livepic@960x544.jpg",
-      "summary": "【宁波充电场站一极氪7X起火，官方称该车辆近期遭遇严重碰撞且未官方检修】 8月10日资讯，昨日，宁波海曙区一充电场站，一台极氪7X车辆出现起火事件，消防到场处置，未造成人员伤亡。 对此，极氪服务说明称，涉事车辆在近期发生严重碰撞事故，且事后未通过品牌授权服务中心完成检测与维修。 目前，极氪正配合相关部门调查事故原因，最终结论以部门通报为准。 #今日热点#…",
-      "tags": [
-        "行业",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
       "id": "auto-d24aa330da0c",
       "title": "The Galaxy Z Fold 8 convinced me that an old phone feature needs a comeback, fast",
       "source": "Android Police",
@@ -135,26 +455,6 @@ window.phoneRadarAuto = {
       "url": "https://www.macrumors.com/2026/08/09/iphone-ultra-3-rumored-to-feature-larger-displays/",
       "image": "https://images.macrumors.com/article-new/2025/08/Apple-Foldable-Thumb.jpg",
       "summary": "Apple is already making plans for its third-generation foldable iPhone, with launch expected as early as 2028, according to Bloomberg 's Mark Gurman . Writing in his latest \"Power…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-ae31ee0b0b71",
-      "title": "古尔曼曝光苹果早前设想：生产 iPhone 时就装好 iCloud 数据，让用户不再经历繁琐导数据流程",
-      "source": "IT之家",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-09",
-      "time": "15:20",
-      "publishedAt": "2026-08-09T15:20:46.000Z",
-      "url": "https://www.ithome.com/0/987/639.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/8/a5ad8238-0b17-4775-9718-54df61486439.jpg?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 8 月 9 日消息，据彭博社记者马克 · 古尔曼今日透露，苹果在构想 Apple Upgrade 设备租赁计划时考虑推出一项功能，让用户拿到新手机时不再需要导数据。 古尔曼表示，苹果多年前就提出了设备租赁构想，当时考虑加入一种所谓的“白手套”服务。 苹果那时候的构想是， 让 iPhone 在工厂里就安装好用户 iCloud 备份的所有数据 ， 用…",
       "tags": [
         "iPhone",
         "爆料",
@@ -197,26 +497,6 @@ window.phoneRadarAuto = {
       "summary": "I first saw the Ohsnap MCON controller at CES last year, and I immediately fell in love with the concept. The idea was simple: give people a full-featured mobile controller that a…",
       "tags": [
         "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-0d270695e42e",
-      "title": "索尼新手机现身 IMEI 数据库，预计为 Xperia 1 IX",
-      "source": "IT之家",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-09",
-      "time": "13:56",
-      "publishedAt": "2026-08-09T13:56:53.000Z",
-      "url": "https://www.ithome.com/0/987/629.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/8/3cd23b9e-dab4-4f11-8b56-e4a788f5bc01.jpg",
-      "summary": "IT之家 8 月 9 日消息，据日媒 S-Max 今天报道，索尼新手机「XQ-HH44」「XQ-HH54」「XQ-HH74」近日出现在 GSMA IMEI 数据库中，登记日期为 8 月 4 日。 IT之家从原报道获悉，这款新机预计是 Xperia 1 IX，型号中的“H”代表 2027 年度机型。其中，XQ-HH44 是面向日本市场的无 SIM 锁版本；X…",
-      "tags": [
-        "行业",
         "爆料",
         "自动抓取"
       ]
@@ -302,26 +582,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-d90957356329",
-      "title": "消息称 iQOO Z11S 手机本月发布，搭载天玑 7500 / Turbo 芯片",
-      "source": "IT之家",
-      "brand": "vivo",
-      "model": "vivo 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-09",
-      "time": "09:41",
-      "publishedAt": "2026-08-09T09:41:22.000Z",
-      "url": "https://www.ithome.com/0/987/583.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/8/896fc3af-000a-487e-8fa4-bd229caddf3f.jpg",
-      "summary": "IT之家 8 月 9 日消息，一款型号为 V2603A 的 vivo 新机近日 现身 Geekbench 跑分数据库 ，该机已通过 3C 认证，支持 44W 快充。 博主 @体验more 今日确认，这款新机是 iQOO Z11S ，并透露其将于 本月发布 ，搭载天玑 7500 / 天玑 7500 Turbo 芯片，可能和 iQOO Neo 11 至尊版一起…",
-      "tags": [
-        "vivo",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-21b5bd20d6ca",
       "title": "iQOO 16T leak suggests 200MP camera, no periscope zoom, and new cooling setup",
       "source": "Gizmochina",
@@ -337,26 +597,6 @@ window.phoneRadarAuto = {
       "summary": "Weibo tipster Smart Pikachu says the iQOO 16T is now being tested with a combined liquid and air cooling system. The leak also says the phone will keep a 200MP main camera but won…",
       "tags": [
         "vivo",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-e473439f036b",
-      "title": "影石 Insta360 Ace Pro 3 运动相机参数曝光：1 英寸 5000 万像素 CMOS，预计今年底上市",
-      "source": "IT之家",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-09",
-      "time": "08:02",
-      "publishedAt": "2026-08-09T08:02:03.000Z",
-      "url": "https://www.ithome.com/0/987/563.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/8/f8bd27d4-1515-40c4-bcd0-c4acaa5f44ee.jpg?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 8 月 9 日消息，消息源 Photo Rumors 昨日发布影石 Insta360 Ace Pro 3 运动相机的曝光参数，新机将搭载 1 英寸 5000 万像素 CMOS 传感器， 预计今年底上市 。 据介绍，这款相机搭载 1 英寸 5000 万像素 CMOS，拥有徕卡认证，相比 Ace Pro 2 的 1/1.3 英寸传感器在动态范围和弱光…",
-      "tags": [
-        "行业",
         "爆料",
         "自动抓取"
       ]
@@ -415,486 +655,6 @@ window.phoneRadarAuto = {
       "url": "https://9to5mac.com/2026/08/08/iphone-ultra-colors-leak-rumor/",
       "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/09/iphone-17-event-13.02.22.jpg?quality=82&strip=all&w=1600",
       "summary": "Apple is set to announce the first-ever foldable iPhone next month. A new rumor today suggests that the iPhone Ultra might be available in two colors: silver and dark blue.",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-9bbf43c61c96",
-      "title": "Apple announces changes to iOS in Brazil",
-      "source": "Apple Newsroom",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "官方",
-      "trust": "官方确认",
-      "date": "2026-08-09",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.apple.com/newsroom/2026/06/apple-announces-changes-to-ios-in-brazil/",
-      "image": "",
-      "summary": "Apple today announced changes impacting iOS apps in Brazil that reflect a recent agreement with Brazil’s competition regulator, CADE.",
-      "tags": [
-        "iPhone",
-        "官方",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "newsnow-1431905564e8",
-      "title": "右上角被我掰手机壳的时候 把手机框（银色的边框）掰变形了...这样还能多少价格出掉？17pm银白色256G",
-      "source": "酷安热榜",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-08-09",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73153584",
-      "image": "",
-      "summary": "右上角被我掰手机壳的时候 把手机框（银色的边框）掰变形了...这样还能多少价格出掉？17pm银白色256G",
-      "tags": [
-        "行业",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-926165f449fd",
-      "title": "2020 年，回头看仍是机圈极具魔幻现实主义色彩的一年。厂商大喊 “5G 元年”，对换机用户而言却是 “涨价元年”—— 旗舰机型仿佛统一了口径，集体上调八百至一千的价格，携手迈入3999的时代。",
-      "source": "酷安热榜",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-08-09",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/70266966",
-      "image": "",
-      "summary": "2020 年，回头看仍是机圈极具魔幻现实主义色彩的一年。厂商大喊 “5G 元年”，对换机用户而言却是 “涨价元年”—— 旗舰机型仿佛统一了口径，集体上调八百至一千的价格，携手迈入3999的时代。",
-      "tags": [
-        "行业",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-7618bf129ba9",
-      "title": "2026 上半年国内手机销量 TOP30 出炉，苹果包揽前三、华为领跑国产，哪些品牌的表现值得关注？",
-      "source": "知乎热榜",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "市场报告",
-      "trust": "媒体汇总",
-      "date": "2026-08-09",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.zhihu.com/question/2069715027674624332",
-      "image": "",
-      "summary": "2026 上半年国内手机销量 TOP30 出炉，苹果包揽前三、华为领跑国产，哪些品牌的表现值得关注？",
-      "tags": [
-        "Huawei",
-        "市场报告",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "auto-8fe213a90147",
-      "title": "Why you should buy iPhone 17 Pro now instead of waiting",
-      "source": "9to5Mac",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-08",
-      "time": "18:13",
-      "publishedAt": "2026-08-08T18:13:25.000Z",
-      "url": "https://9to5mac.com/2026/08/08/buy-iphone-17-pro-vs-iphone-18-pro/",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/11/iphone-17-pro-pro-max-orange-blue.jpg?quality=82&strip=all&w=1600",
-      "summary": "Apple is set to unveil the iPhone 18 Pro next month. Should you buy an iPhone now or wait for the iPhone 18 Pro? This year, my advice is a bit different. Here’s why.",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-9a0a430449e0",
-      "title": "Pixel 11 Pro XL shows up in hands-on leak days ahead of launch [Gallery]",
-      "source": "9to5Google",
-      "brand": "Pixel",
-      "model": "Pixel 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-08",
-      "time": "16:15",
-      "publishedAt": "2026-08-08T16:15:00.000Z",
-      "url": "https://9to5google.com/2026/08/08/google-pixel-11-pro-xl-hands-on-leak/",
-      "image": "",
-      "summary": "With just a few days left to go before Google’s Pixel 11 launch event, a hands-on leak has shown off the Pixel 11 Pro XL in real life.",
-      "tags": [
-        "Pixel",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-742c2f66b8e4",
-      "title": "Best phones to buy if you’re upgrading from the OnePlus 12",
-      "source": "Gizmochina",
-      "brand": "OPPO",
-      "model": "OPPO 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-08",
-      "time": "15:51",
-      "publishedAt": "2026-08-08T15:51:05.000Z",
-      "url": "https://www.gizmochina.com/2026/08/08/best-phones-to-buy-if-youre-upgrading-from-the-oneplus-12/",
-      "image": "https://www.gizmochina.com/wp-content/uploads/2024/10/OnePlus-12-300x169.webp?x23692",
-      "summary": "If you picked up a OnePlus 12 back in early 2024, you got a genuinely good phone for the money. Fast charging, a sharp display, solid performance – all without the price tag of a…",
-      "tags": [
-        "OPPO",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-bdc464c41175",
-      "title": "The Samsung Galaxy Z Fold 8 changed my mind, and after testing it for two weeks, I'm convinced it's the foldable phone most people should buy",
-      "source": "Android Central",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "评测",
-      "trust": "媒体汇总",
-      "date": "2026-08-08",
-      "time": "15:09",
-      "publishedAt": "2026-08-08T15:09:07.000Z",
-      "url": "https://www.androidcentral.com/phones/samsung-galaxy/samsung-galaxy-z-fold-8-review",
-      "image": "https://cdn.mos.cms.futurecdn.net/b3CjV24PFApvsomWzfSDGb-1280-80.jpg",
-      "summary": "The Galaxy Z Fold 8 is one of the most compelling phones Samsung has made in a while, and I never want to put it down. It feels great in my hand when closed, and the wider screen…",
-      "tags": [
-        "Samsung",
-        "评测",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-a8c605e769b3",
-      "title": "Pixel 11 Pro XL retail boxes show up on Turkish grey market with $1,700 price tag",
-      "source": "Gizmochina",
-      "brand": "Pixel",
-      "model": "Pixel 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-08",
-      "time": "15:09",
-      "publishedAt": "2026-08-08T15:09:04.000Z",
-      "url": "https://www.gizmochina.com/2026/08/08/pixel-11-pro-xl-retail-boxes-show-up-on-turkish-grey-market-with-1700-price-tag/",
-      "image": "https://www.gizmochina.com/wp-content/uploads/2026/08/HPIxRcHWUAAKIeH-300x169.jpg?x23692",
-      "summary": "Every now and then, unannounced Pixel devices start popping up in weird places before Google officially says a word. This time it’s the next big-screen Pixel that’s allegedly alre…",
-      "tags": [
-        "Pixel",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-724b3641825d",
-      "title": "Pixel 11: All of the last-minute leaks [Video]",
-      "source": "9to5Google",
-      "brand": "Pixel",
-      "model": "Pixel 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-08",
-      "time": "15:00",
-      "publishedAt": "2026-08-08T15:00:00.000Z",
-      "url": "https://9to5google.com/2026/08/08/pixel-11-all-of-the-last-minute-leaks-video/",
-      "image": "",
-      "summary": "As is customary, we already know a ton about Google’s latest smartphone series before it officially launches. The last-minute leaks are seriously piling up for the Pixel 11 — here…",
-      "tags": [
-        "Pixel",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-92d5d5955c70",
-      "title": "Huawei vs Samsung: Key difference in their privacy display tech",
-      "source": "Huawei Central",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-08",
-      "time": "12:58",
-      "publishedAt": "2026-08-08T12:58:30.000Z",
-      "url": "https://www.huaweicentral.com/huawei-vs-samsung-key-difference-in-their-privacy-display-tech/",
-      "image": "https://www.huaweicentral.com/wp-content/uploads/2026/08/Privacy-Display.jpg",
-      "summary": "Huawei MateBook Pro S is the world’s first PC with the Privacy Display tech, something similar to the Samsung Galaxy S26 Ultra smartphone, but slightly better! How? Well, here is…",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "coolapk-user-d319a83768e6",
-      "title": "JSCHEN小小狐：尼康 Z70 现身苹果 ProRes / RAW 授权列表",
-      "source": "JSCHEN小小狐",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-08-08",
-      "time": "11:57",
-      "publishedAt": "2026-08-08T11:57:24.000Z",
-      "url": "https://www.coolapk.com/feed/73142153",
-      "image": "http://image.coolapk.com/feed/2026/0808/19/4702274_bd66e36e_0241_9008_104@3072x1824.png",
-      "summary": "『尼康 Z70 现身苹果 ProRes / RAW 授权列表』 8 月 8 日最新消息，苹果官网「Apple ProRes 和 ProRes RAW 授权产品」页面的机型列表中赫然出现了尼康全新 APS-C 相机 Z70 的身影。 这意味着，尼康 Z70 将成为尼康 DX 系统首款支持 ProRes / ProRes RAW 内录的无反机身。 根据部分信息…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
-      "id": "weibo-84675cbc24c4",
-      "title": "数码闲聊站：尬聊一下，关于折叠屏你们更喜欢那种？ A，大折叠——更大电池+更强影像+商务办…",
-      "source": "数码闲聊站",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-08-08",
-      "time": "11:05",
-      "publishedAt": "2026-08-08T11:05:00.000Z",
-      "url": "https://weibo.com/6048569942/Rct5cD6lh",
-      "image": "",
-      "summary": "尬聊一下，关于折叠屏你们更喜欢那种？ A，大折叠——更大电池+更强影像+商务办公 B，阔折叠——更小巧便携+影音娱乐",
-      "tags": [
-        "行业",
-        "爆料",
-        "微博"
-      ]
-    },
-    {
-      "id": "auto-9fc62671433a",
-      "title": "Huawei has a small foldable device in the making",
-      "source": "Huawei Central",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-08",
-      "time": "10:15",
-      "publishedAt": "2026-08-08T10:15:14.000Z",
-      "url": "https://www.huaweicentral.com/huawei-has-a-small-foldable-device-in-the-making/",
-      "image": "https://www.huaweicentral.com/wp-content/uploads/2026/06/PuraXMax.jpg",
-      "summary": "Huawei has recently unveiled two amazing foldable handsets – Pura X Max and the MateBook Fold PC 2026, but it seems the company is working on another small folding device. While m…",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-d3184f1c841e",
-      "title": "Just got your Galaxy Z Fold 8? Here are the first 5 things you need to do",
-      "source": "Android Authority",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-08",
-      "time": "10:00",
-      "publishedAt": "2026-08-08T10:00:34.000Z",
-      "url": "https://www.androidauthority.com/samsung-galaxy-z-fold-8-first-things-to-do-3695011/",
-      "image": "https://www.androidauthority.com/wp-content/uploads/2026/08/Samsung-Galaxy-Z-Fold-8-tent-mode-pusheen-scaled.jpg",
-      "summary": "I love the Fold 8, but it's not perfect out of the box.",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-1de77f8e8951",
-      "title": "iPhone 17 Prices Could Rise as Soon as Monday, Rumor Claims",
-      "source": "MacRumors",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-08",
-      "time": "09:54",
-      "publishedAt": "2026-08-08T09:54:27.000Z",
-      "url": "https://www.macrumors.com/2026/08/08/iphone-17-prices-could-rise-as-soon-as-monday/",
-      "image": "https://images.macrumors.com/article-new/2025/09/iphone-17-models.jpg",
-      "summary": "Apple could raise iPhone 17 prices as soon as Monday, August 10, according to a new rumor, well before the wider round of increases expected with next month's iPhone 18 Pro launch…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "weibo-21c560ee956c",
-      "title": "数码闲聊站：8月新机发布会不是很明朗吗[吃瓜] 8.11——REDMI K100 Pro+…",
-      "source": "数码闲聊站",
-      "brand": "HONOR",
-      "model": "HONOR 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-08-08",
-      "time": "09:24",
-      "publishedAt": "2026-08-08T09:24:56.000Z",
-      "url": "https://weibo.com/6048569942/RcsqB1CX6",
-      "image": "",
-      "summary": "8月新机发布会不是很明朗吗[吃瓜] 8.11——REDMI K100 Pro+PM 8.12——荣耀Robot Phone 8.**——iQOO Neo11至尊版+Z 努比亚Navix Ultra待定；如果算上系统，卢总还说澎湃OS4会在7-8月登场，现在也就只剩8月了",
-      "tags": [
-        "HONOR",
-        "爆料",
-        "微博"
-      ]
-    },
-    {
-      "id": "auto-a4d173120fda",
-      "title": "Don’t wait for the Pixel 11: Why you should buy the Pixel 10 right now",
-      "source": "Android Authority",
-      "brand": "Pixel",
-      "model": "Pixel 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-08",
-      "time": "09:00",
-      "publishedAt": "2026-08-08T09:00:40.000Z",
-      "url": "https://www.androidauthority.com/dont-wait-for-pixel-11-buy-pixel-10-now-3695239/",
-      "image": "",
-      "summary": "Be smart and save you money with the Pixel 10. You won't be missing much.",
-      "tags": [
-        "Pixel",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "weibo-b237ac09252d",
-      "title": "数码闲聊站：下个月手机新品大轰炸，9月上旬预计有2-3家，比如备受瞩目的iPhone 18…",
-      "source": "数码闲聊站",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-08-08",
-      "time": "07:39",
-      "publishedAt": "2026-08-08T07:39:24.000Z",
-      "url": "https://weibo.com/6048569942/RcrJLaOW9",
-      "image": "",
-      "summary": "下个月手机新品大轰炸，9月上旬预计有2-3家，比如备受瞩目的iPhone 18 Pro系列和阔折叠；9月中下旬预计有5-6家，全都是重量级新旗舰[并不简单]",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "微博"
-      ]
-    },
-    {
-      "id": "auto-c18f91578c4b",
-      "title": "iQOO Z11 gets a 6.83-inch curved AMOLED display and narrow frame",
-      "source": "Gizmochina",
-      "brand": "vivo",
-      "model": "vivo 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-08",
-      "time": "06:34",
-      "publishedAt": "2026-08-08T06:34:47.000Z",
-      "url": "https://www.gizmochina.com/2026/08/08/iqoo-z11-display-details-confirmed/",
-      "image": "https://www.gizmochina.com/wp-content/uploads/2026/08/QOO-Z11-display--300x300.png?x23692",
-      "summary": "iQOO is all set to launch the iQOO Z11 on Aug. 20 in India. Ahead of the launch, the brand is gradually confirming its key specifications. After revealing its chipset recently, iQ…",
-      "tags": [
-        "vivo",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-ba0489c98235",
-      "title": "Redmi 17C 5G’s premature listing reveals images and full specifications",
-      "source": "Gizmochina",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-08",
-      "time": "06:15",
-      "publishedAt": "2026-08-08T06:15:30.000Z",
-      "url": "https://www.gizmochina.com/2026/08/08/redmi-17c-5g-image-specifications-revealed/",
-      "image": "https://www.gizmochina.com/wp-content/uploads/2026/08/Redmi-17C-5G-Purple-245x300.png?x23692",
-      "summary": "Redmi has just launched the Redmi 17 5G and Redmi 17 4G globally, and now it appears that it will soon add another device called the Redmi 17C 5G. The unannounced device has been…",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-f83e51f8643e",
-      "title": "iQOO Neo 11 Ultra real-life images reveal new horizontal camera module",
-      "source": "Gizmochina",
-      "brand": "vivo",
-      "model": "vivo 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-08",
-      "time": "05:25",
-      "publishedAt": "2026-08-08T05:25:26.000Z",
-      "url": "https://www.gizmochina.com/2026/08/08/iqoo-neo-11-ultra-leaked-images-design-revealed/",
-      "image": "https://www.gizmochina.com/wp-content/uploads/2026/08/iQOO-Neo-11-Ultra-leaked-images-300x225.jpg?x23692",
-      "summary": "iQOO recently confirmed that it will showcase the iQOO Neo 11 Ultra on Aug. 10. However, the rumor mill has already started sharing real-life images of the device on Chinese socia…",
-      "tags": [
-        "vivo",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-e24ba0e837a2",
-      "title": "WhatsApp makes parent-managed accounts easier to set up on iPhone",
-      "source": "9to5Mac",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-08",
-      "time": "02:58",
-      "publishedAt": "2026-08-08T02:58:27.000Z",
-      "url": "https://9to5mac.com/2026/08/07/whatsapp-makes-parent-managed-accounts-easier-to-set-up-on-iphone/",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/11/whatsapp-ios-26.jpg?quality=82&strip=all&w=1600",
-      "summary": "WhatsApp is bringing its dedicated parental controls section to the iPhone, making the feature easier for parents to find and set up. Here are the details.",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-7a8ba8751ba3",
-      "title": "Apple adds nearly 45 hearing devices to its Made for iPhone compatibility list",
-      "source": "9to5Mac",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-08",
-      "time": "02:18",
-      "publishedAt": "2026-08-08T02:18:32.000Z",
-      "url": "https://9to5mac.com/2026/08/07/apple-adds-nearly-45-hearing-devices-to-its-made-for-iphone-compatibility-list/",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/hearing-devices-setup.jpg?quality=82&strip=all&w=1600",
-      "summary": "Apple updated its list of Made for iPhone (MFi) hearing devices today, with 43 models across 22 brands. Here’s what’s new.",
       "tags": [
         "iPhone",
         "爆料",
