@@ -1,6 +1,86 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-08-11T19:18:36.067Z",
+  "updatedAt": "2026-08-11T21:03:36.269Z",
   "news": [
+    {
+      "id": "auto-fb8520242c75",
+      "title": "Report: Non-gaming apps drove mobile spending growth in Q2 as games fell 4.5%",
+      "source": "9to5Mac",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-11",
+      "time": "20:59",
+      "publishedAt": "2026-08-11T20:59:32.000Z",
+      "url": "https://9to5mac.com/2026/08/11/report-non-gaming-apps-drove-mobile-spending-growth-in-q2-as-games-fell-4-5/",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/08/app-store-ios-26.jpg?quality=82&strip=all&w=1600",
+      "summary": "A new report from Sensor Tower shows that non-gaming apps continued to drive global mobile spending growth in Q2 2026 across iOS and Android, while gaming revenue declined 4.5% ye…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-816ed2f1a2f2",
+      "title": "Made by Google 2026: all the Pixel news and announcements",
+      "source": "The Verge",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-11",
+      "time": "20:33",
+      "publishedAt": "2026-08-11T20:33:23.000Z",
+      "url": "https://www.theverge.com/tech/977561/made-by-google-2026-pixel-11-news",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/made-by-google-.png?quality=90&strip=all&crop=0,0,100,100",
+      "summary": "Google is gearing up to reveal a bunch of new Pixel devices on August 12th. A series of leaks leading up to the event suggest that the Pixel 11 lineup will come in an array of col…",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-dda85295beba",
+      "title": "iPhone 18 Pro: Three new camera upgrades are coming",
+      "source": "9to5Mac",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-11",
+      "time": "20:18",
+      "publishedAt": "2026-08-11T20:18:09.000Z",
+      "url": "https://9to5mac.com/2026/08/11/iphone-18-pro-three-new-camera-upgrades-are-coming/",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/04/iphone-17-pro-silver-camera-plateau.jpg?quality=82&strip=all&w=1600",
+      "summary": "iPhone 18 Pro is just a few weeks away , and rumors indicate it could bring an especially noteworthy batch of camera upgrades. Here are the three main camera features currently ru…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-14f71fe2ae47",
+      "title": "‘Everyone’ at Apple uses iPhone Ultra name, says Mark Gurman",
+      "source": "9to5Mac",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-11",
+      "time": "19:40",
+      "publishedAt": "2026-08-11T19:40:15.000Z",
+      "url": "https://9to5mac.com/2026/08/11/everyone-at-apple-uses-iphone-ultra-name-says-mark-gurman/",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/03/iphone-fold-mockup-red.jpg?quality=82&strip=all&w=1600",
+      "summary": "Apple is rumored to use ‘iPhone Ultra’ branding for its upcoming foldable model, and Mark Gurman says that is indeed the name widely used within the company’s ranks.",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-83bcf9088073",
       "title": "Galaxy Z Fold 8 proves customers will no longer pay for boring upgrades",
@@ -55,26 +135,6 @@ window.phoneRadarAuto = {
       "url": "https://www.theverge.com/tech/977844/made-by-google-pixel-11-launch-power-users-notification-led",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/videoframe_16661.png?quality=90&strip=all&crop=0,0,100,100",
       "summary": "Last year's Made by Google event for the Pixel 10 resembled a late night talk show, complete with Jimmy Fallon as host, and it aired an hour after the phones were revealed. Spec d…",
-      "tags": [
-        "Pixel",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-816ed2f1a2f2",
-      "title": "Made by Google 2026: all the Pixel news and announcements",
-      "source": "The Verge",
-      "brand": "Pixel",
-      "model": "Pixel 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-11",
-      "time": "16:48",
-      "publishedAt": "2026-08-11T16:48:59.000Z",
-      "url": "https://www.theverge.com/tech/977561/made-by-google-2026-pixel-11-news",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/made-by-google-.png?quality=90&strip=all&crop=0,0,100,100",
-      "summary": "Google is gearing up to reveal a bunch of new Pixel devices on August 12th. A series of leaks leading up to the event suggest that the Pixel 11 lineup will come in an array of col…",
       "tags": [
         "Pixel",
         "爆料",
@@ -622,26 +682,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "coolapk-user-9ca2cf2de7e7",
-      "title": "JSCHEN小小狐：一加新机入网：天玑 6360 / 720P LCD",
-      "source": "JSCHEN小小狐",
-      "brand": "OPPO",
-      "model": "OPPO 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-08-11",
-      "time": "06:52",
-      "publishedAt": "2026-08-11T06:52:40.000Z",
-      "url": "https://www.coolapk.com/feed/73182229",
-      "image": "http://image.coolapk.com/feed/2026/0811/14/4702274_94288fdb_1156_8417_601@480x640.jpg",
-      "summary": "『一加新机入网：天玑 6360 平台 / 720P LCD』 型号：PYZ110 ◇ 天玑 6360 Super 移动平台 （2×A76 2.4GHz + 6×A55 2.0GHz） （Mali-G57 MC2 GPU，台积电 6nm） ◇ 6.75 英寸 1570×720 120Hz LCD 直屏 （手动亮度 975nits，HBM 亮度 1200nit…",
-      "tags": [
-        "OPPO",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
       "id": "auto-3ad22601d818",
       "title": "New Pixel 11 leak has good news for camera zoom, bad news for HiLight",
       "source": "Android Authority",
@@ -882,6 +922,26 @@ window.phoneRadarAuto = {
       ]
     },
     {
+      "id": "newsnow-e91e40269284",
+      "title": "一加新机入网：天玑 6360 / 720P LCD",
+      "source": "酷安热榜",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-08-11",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/73182229",
+      "image": "",
+      "summary": "一加新机入网：天玑 6360 / 720P LCD",
+      "tags": [
+        "OPPO",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
       "id": "newsnow-3e04822e5a2d",
       "title": "聊聊手机卡套餐资费",
       "source": "酷安热榜",
@@ -897,46 +957,6 @@ window.phoneRadarAuto = {
       "summary": "聊聊手机卡套餐资费",
       "tags": [
         "行业",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-75b157137a06",
-      "title": "安卓年年说超越iPhone，在销量面前有点搞笑了[受虐滑稽]",
-      "source": "酷安热榜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-08-11",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73169156",
-      "image": "",
-      "summary": "安卓年年说超越iPhone，在销量面前有点搞笑了[受虐滑稽]",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-019dd3e80134",
-      "title": "罗永浩吐槽苹果手机语音输入法",
-      "source": "酷安热榜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-08-11",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73171268",
-      "image": "",
-      "summary": "罗永浩吐槽苹果手机语音输入法",
-      "tags": [
-        "iPhone",
         "爆料",
         "NewsNow"
       ]

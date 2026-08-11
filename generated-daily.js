@@ -1,12 +1,12 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-08-11T19:18:36.067Z",
+  "updatedAt": "2026-08-11T21:03:36.269Z",
   "issueDate": "2026-08-11",
   "issue": "VOL.260811",
   "title": "手机情报日报",
-  "intro": "今日筛出 8 条重点，其中 8 条是重点爆料，包含 3 条 iPhone 相关、0 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 8 条重点，其中 8 条是重点爆料，包含 4 条 iPhone 相关、0 条官方确认、0 条参数线索。",
   "stats": {
     "total": 8,
-    "iphone": 3,
+    "iphone": 4,
     "leaks": 8,
     "official": 0,
     "specs": 0
@@ -17,6 +17,30 @@ window.phoneRadarDaily = {
       "title": "重点爆料",
       "hint": "机模、配色、影像、屏幕、电池和芯片线索先看。",
       "items": [
+        {
+          "id": "auto-dda85295beba",
+          "title": "iPhone 18 Pro 影像能力相关消息",
+          "originalTitle": "",
+          "source": "9to5Mac",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-08-11",
+          "time": "20:18",
+          "publishedAt": "2026-08-11T20:18:09.000Z",
+          "url": "https://9to5mac.com/2026/08/11/iphone-18-pro-three-new-camera-upgrades-are-coming/",
+          "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/04/iphone-17-pro-silver-camera-plateau.jpg?quality=82&strip=all&w=1600",
+          "verdict": "先看",
+          "takeaway": "iPhone 影像能力相关宣传或案例，主要看是否透露拍摄能力变化。",
+          "detail": "iPhone 18 Pro 影像能力相关消息。重点看影像功能是否和新机硬件有关，如果只是拍摄案例或营销内容，参考价值会低一些。",
+          "keyPoints": [
+            "影像硬件",
+            "爆料来源"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
         {
           "id": "auto-8c1735f9af0c",
           "title": "iPhone 18 Pro 机模 / 配色信息曝光",
@@ -42,25 +66,25 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
-          "id": "auto-d2f039b7bae0",
+          "id": "auto-14f71fe2ae47",
           "title": "iPhone 相关消息",
           "originalTitle": "",
-          "source": "MacRumors",
+          "source": "9to5Mac",
           "brand": "iPhone",
           "type": "爆料",
           "trust": "媒体汇总",
           "date": "2026-08-11",
-          "time": "13:50",
-          "publishedAt": "2026-08-11T13:50:27.000Z",
-          "url": "https://www.macrumors.com/2026/08/11/iphone-18-pro-base-256gb-storage-report/",
-          "image": "https://images.macrumors.com/article-new/2026/08/iPhone-18-Pro-Dark-Cherry-Feature.jpg",
+          "time": "19:40",
+          "publishedAt": "2026-08-11T19:40:15.000Z",
+          "url": "https://9to5mac.com/2026/08/11/everyone-at-apple-uses-iphone-ultra-name-says-mark-gurman/",
+          "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/03/iphone-fold-mockup-red.jpg?quality=82&strip=all&w=1600",
           "verdict": "先看",
           "takeaway": "iPhone 相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
           "detail": "iPhone 相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
           "keyPoints": [
-            "爆料"
+            "爆料来源"
           ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
@@ -177,30 +201,6 @@ window.phoneRadarDaily = {
           "detail": "【TCL华星认领：独供REDMI K100 Pro系列屏幕，新一代C11自研材料+超级像素技术】 8月11日，TCL华星宣布独供 REDMI K100 Pro系列屏幕： 185Hz专业电竞直屏，原生超高帧适配多款手游；搭载圆偏振光硬件护眼，全亮度DC调光；采用新一代C11自研发光材料+超级像素技术，色彩通透锐利清晰，兼顾高亮低耗。 #今日热点# #REDM…",
           "keyPoints": [
             "屏幕形态"
-          ],
-          "confidence": "可信度较高，但仍属于发布前线索。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "coolapk-user-de2247aca2d6",
-          "title": "竹本青：【卢伟冰：未来随着新机陆续发布，大家一定会感觉 K100 Pro系列 越来越香】 8月11日，REDMI K100…",
-          "originalTitle": "",
-          "source": "竹本青",
-          "brand": "Xiaomi",
-          "type": "爆料",
-          "trust": "高可信爆料",
-          "date": "2026-08-11",
-          "time": "15:09",
-          "publishedAt": "2026-08-11T15:09:01.000Z",
-          "url": "https://www.coolapk.com/feed/73190545",
-          "image": "http://image.coolapk.com/feed/2026/0811/23/4248714_01489d94_0940_1153_920@1272x2692.jpg",
-          "verdict": "先看",
-          "takeaway": "【卢伟冰：未来随着新机陆续发布，大家一定会感觉 K100 Pro系列 越来越香】 8月11日，REDMI K100 Pro系列 正式发布，全系搭载185Hz RGB M11直屏。Pro首发3699元起；Pro Max首发4199元起。 发布当晚，针对网上的价格讨论，卢伟冰回应称：未来随着新机陆续发布，大家一定会感觉 K100 Pro系列 越来越香。 #RE…",
-          "detail": "【卢伟冰：未来随着新机陆续发布，大家一定会感觉 K100 Pro系列 越来越香】 8月11日，REDMI K100 Pro系列 正式发布，全系搭载185Hz RGB M11直屏。Pro首发3699元起；Pro Max首发4199元起。 发布当晚，针对网上的价格讨论，卢伟冰回应称：未来随着新机陆续发布，大家一定会感觉 K100 Pro系列 越来越香。 #RE…",
-          "keyPoints": [
-            "屏幕形态",
-            "成本 / 价格"
           ],
           "confidence": "可信度较高，但仍属于发布前线索。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
