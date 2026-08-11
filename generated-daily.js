@@ -1,5 +1,5 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-08-11T02:26:22.186Z",
+  "updatedAt": "2026-08-11T05:22:26.897Z",
   "issueDate": "2026-08-11",
   "issue": "VOL.260811",
   "title": "手机情报日报",
@@ -19,7 +19,7 @@ window.phoneRadarDaily = {
       "items": [
         {
           "id": "auto-40b4c1709be1",
-          "title": "彭博社称苹果“全玻璃 iPhone”未被取消，项目按计划推进",
+          "title": "彭博社称苹果“全玻璃 iPhone”没有被取消，将按计划在明年推出",
           "originalTitle": "",
           "source": "IT之家",
           "brand": "iPhone",
@@ -29,7 +29,7 @@ window.phoneRadarDaily = {
           "time": "02:24",
           "publishedAt": "2026-08-11T02:24:56.000Z",
           "url": "https://www.ithome.com/0/988/191.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/8/28a97b6d-1df2-4ca2-b3c6-6b876fa56af7.jpg?x-bce-process=image/format,f_auto",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/8/28a97b6d-1df2-4ca2-b3c6-6b876fa56af7.jpg",
           "verdict": "先看",
           "takeaway": "IT之家 8 月 11 日消息，此前有报道称，苹果已经取消了传闻已久、原本计划在 iPhone 诞生 20 周年之际推出的“全玻璃 iPhone”。不过，彭博社最新报道称，该款机型的重新设计工作仍按计划推进，将应用于明年的 Pro 系列机型。 IT之家注意到，今天早些时候，杰富瑞集团（Jefferies）下调了苹果股票的评级。该机构援引供应链调查结果称，苹…",
           "detail": "IT之家 8 月 11 日消息，此前有报道称，苹果已经取消了传闻已久、原本计划在 iPhone 诞生 20 周年之际推出的“全玻璃 iPhone”。不过，彭博社最新报道称，该款机型的重新设计工作仍按计划推进，将应用于明年的 Pro 系列机型。 IT之家注意到，今天早些时候，杰富瑞集团（Jefferies）下调了苹果股票的评级。该机构援引供应链调查结果称，苹…",
@@ -113,49 +113,23 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
-          "id": "auto-5aba231a5722",
-          "title": "消息称谷歌 Pixel 11 手机标准版 12GB RAM 起步且配备长焦，但不提供 HiLight”RGB 灯效功能",
-          "originalTitle": "",
-          "source": "IT之家",
-          "brand": "Pixel",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-08-10",
-          "time": "23:42",
-          "publishedAt": "2026-08-10T23:42:28.000Z",
-          "url": "https://www.ithome.com/0/988/090.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/8/c4208a01-7dc5-46b2-bc79-3695a4c69ec3.png",
-          "verdict": "先看",
-          "takeaway": "IT之家 8 月 11 日消息，消息源 evowizz 透露，谷歌 Pixel 11 手机标准版将不提供“HiLight”RGB 灯效功能，相应功能为 Pro 机型独占。 IT之家此前报道，“HiLight”RGB 灯效功能是谷歌为 Pixel 11 系列手机推出的全新后置环形 RGB 灯效功能，在后置相机模组（Deco）内部集成一圈环形彩色灯带，在手机屏…",
-          "detail": "IT之家 8 月 11 日消息，消息源 evowizz 透露，谷歌 Pixel 11 手机标准版将不提供“HiLight”RGB 灯效功能，相应功能为 Pro 机型独占。 IT之家此前报道，“HiLight”RGB 灯效功能是谷歌为 Pixel 11 系列手机推出的全新后置环形 RGB 灯效功能，在后置相机模组（Deco）内部集成一圈环形彩色灯带，在手机屏…",
-          "keyPoints": [
-            "外观 / 配色 / 尺寸",
-            "影像硬件",
-            "爆料来源"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "auto-33ca9cb0d77e",
+          "id": "auto-45b89607b7ab",
           "title": "iPhone 外观设计线索曝光",
           "originalTitle": "",
-          "source": "9to5Mac",
+          "source": "MacRumors",
           "brand": "iPhone",
           "type": "爆料",
           "trust": "媒体汇总",
           "date": "2026-08-11",
-          "time": "02:14",
-          "publishedAt": "2026-08-11T02:14:14.000Z",
-          "url": "https://9to5mac.com/2026/08/10/apples-20th-anniversary-iphone-redesign-reportedly-remains-on-track/",
-          "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/02/Mac-hardware-is-great-but-macOS-26-is-a-disaster-say-pundits.jpg?quality=82&strip=all&w=1600",
+          "time": "03:10",
+          "publishedAt": "2026-08-11T03:10:14.000Z",
+          "url": "https://www.macrumors.com/2026/08/10/glass-centric-iphone-still-planned-2027/",
+          "image": "https://images.macrumors.com/article-new/2026/07/iphone-20-anniversary.jpg",
           "verdict": "先看",
           "takeaway": "iPhone 外观设计线索曝光。重点看外观、颜色、尺寸是否和上一代有明显变化。",
           "detail": "iPhone 外观设计线索曝光。这类内容主要看外观设计、按键布局、相机模组和尺寸变化，后续最好等更多渲染图或保护壳线索互相验证。",
           "keyPoints": [
-            "外观 / 配色 / 尺寸",
-            "爆料来源"
+            "外观 / 配色 / 尺寸"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
@@ -179,6 +153,31 @@ window.phoneRadarDaily = {
           "detail": "iPhone 18 Pro Max 电池 / 充电相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
           "keyPoints": [
             "影像硬件",
+            "电池 / 充电",
+            "爆料来源"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "auto-eb03f72ab1ee",
+          "title": "三星 Galaxy S26 FE 手机规格曝光：8GB 内存、4900mAh 电池",
+          "originalTitle": "",
+          "source": "IT之家",
+          "brand": "Samsung",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-08-11",
+          "time": "02:49",
+          "publishedAt": "2026-08-11T02:49:52.000Z",
+          "url": "https://www.ithome.com/0/988/217.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/8/848ffdfa-444b-4fdd-9492-312720211e25.png",
+          "verdict": "先看",
+          "takeaway": "IT之家 8 月 11 日消息，科技媒体 WinFuture &nbsp;昨日（8 月 10 日）发布博文，分享了 三星 Galaxy S26 FE 手机的完整规格参数，预估将于 2026 年 9 月上旬发布。 外观方面，消息称 Galaxy S26 FE 手机最薄处为 7.4 毫米，重量 193 克，并支持 IP68 等级防水。三星计划提供深灰色（Gra…",
+          "detail": "IT之家 8 月 11 日消息，科技媒体 WinFuture &nbsp;昨日（8 月 10 日）发布博文，分享了 三星 Galaxy S26 FE 手机的完整规格参数，预估将于 2026 年 9 月上旬发布。 外观方面，消息称 Galaxy S26 FE 手机最薄处为 7.4 毫米，重量 193 克，并支持 IP68 等级防水。三星计划提供深灰色（Gra…",
+          "keyPoints": [
+            "外观 / 配色 / 尺寸",
             "电池 / 充电",
             "爆料来源"
           ],

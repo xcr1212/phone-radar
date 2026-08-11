@@ -1,9 +1,209 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-08-11T02:26:22.186Z",
+  "updatedAt": "2026-08-11T05:22:26.897Z",
   "news": [
     {
+      "id": "auto-219ea175b3af",
+      "title": "Vivo X500 may stand apart from Pro models with a new camera layout",
+      "source": "Gizmochina",
+      "brand": "vivo",
+      "model": "vivo 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-11",
+      "time": "04:54",
+      "publishedAt": "2026-08-11T04:54:42.000Z",
+      "url": "https://www.gizmochina.com/2026/08/11/vivo-x500-leak-design-dimensity-9600-display/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/06/Vivo-X300-300x225.jpg?x23692",
+      "summary": "A new leak has shed more light on the upcoming Vivo X500 series, including the standard model’s design and display. The information also gives us an early look at how Vivo could d…",
+      "tags": [
+        "vivo",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-0b97f7dd8f32",
+      "title": "Huawei Pura 100 series rumored to sport dual 200MP camera setup",
+      "source": "Huawei Central",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-11",
+      "time": "04:30",
+      "publishedAt": "2026-08-11T04:30:08.000Z",
+      "url": "https://www.huaweicentral.com/huawei-pura-100-series-dual-200mp-camera/",
+      "image": "https://www.huaweicentral.com/wp-content/uploads/2026/04/Pura901.jpg",
+      "summary": "Pura 100 series will debut next year as the 2027 Huawei camera flagship and a new rumor suggests the lineup could bring a dual 200MP camera setup on board. If true, it would be th…",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-e6ccbe610fee",
+      "title": "荣耀又双叒一块万级大电池曝光，额定容量 11790mAh 已试产",
+      "source": "IT之家",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-11",
+      "time": "04:08",
+      "publishedAt": "2026-08-11T04:08:24.000Z",
+      "url": "https://www.ithome.com/0/988/252.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/8/ba0b4f1a-3031-43f2-9e1f-5396491d0767.jpg?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 8 月 11 日消息，博主 @数码闲聊站 今日爆料：荣耀一块新电池试产了， 额定容量 11790mAh ，额定能量 43.86Wh，典型值是 12000mAh±，又双叒一块万级大电池。 评论区网友猜测，这块电池预计将用于 荣耀 Win 2 系列手机。 综合IT之家此前报道， 荣耀 WIN 系列手机于 2025 年 12 月发布 ，WIN RT 定…",
+      "tags": [
+        "HONOR",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-cc85c6561d62",
+      "title": "竹本青：消息称荣耀手机试产12000mAh新电池",
+      "source": "竹本青",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-08-11",
+      "time": "03:39",
+      "publishedAt": "2026-08-11T03:39:12.000Z",
+      "url": "https://www.coolapk.com/feed/73179583",
+      "image": "http://image.coolapk.com/feed/2026/0811/11/4248714_d159332b_9552_0531_412@1439x505.jpg",
+      "summary": "【消息称荣耀手机试产12000mAh新电池】 ● 典型值：12000mAh± ● 额定容量：11790mAh ● 额定能量：43.86Wh #今日热点# #荣耀# #MagicOS11#",
+      "tags": [
+        "HONOR",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "weibo-65e3649e7a1f",
+      "title": "数码闲聊站：荣耀一块新电池试产了，额定容量11790mAh，额定能量43.86Wh，典型值…",
+      "source": "数码闲聊站",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-08-11",
+      "time": "03:36",
+      "publishedAt": "2026-08-11T03:36:00.000Z",
+      "url": "https://weibo.com/6048569942/RcSqrwU59",
+      "image": "",
+      "summary": "荣耀一块新电池试产了，额定容量11790mAh，额定能量43.86Wh，典型值是12000mAh±，又双叒一块万级大电池，你们猜这是什么新机[二哈]",
+      "tags": [
+        "HONOR",
+        "爆料",
+        "微博"
+      ]
+    },
+    {
+      "id": "auto-3cbdb9adf7e3",
+      "title": "iQOO Neo 11 Ultra full specifications emerge via premature listing",
+      "source": "Gizmochina",
+      "brand": "vivo",
+      "model": "vivo 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-11",
+      "time": "03:20",
+      "publishedAt": "2026-08-11T03:20:56.000Z",
+      "url": "https://www.gizmochina.com/2026/08/11/iqoo-neo-11-ultra-full-specifications-revealed/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/08/iQOO-Neo-11-Ultra-China-Telecom-listing-300x200.png?x23692",
+      "summary": "A new iQOO smartphone carrying model number V2573A has surfaced in China Telecom’s product library. The listing belongs to the upcoming iQOO Neo 11 Ultra, which is set to debut al…",
+      "tags": [
+        "vivo",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-93d8399111c0",
+      "title": "小米 REDMI 投影仪 5 标准版发售：1080P 400 CVIA 流明，999 元",
+      "source": "IT之家",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-11",
+      "time": "03:14",
+      "publishedAt": "2026-08-11T03:14:03.000Z",
+      "url": "https://www.ithome.com/0/988/225.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/8/3e662c7b-68f1-4446-8c96-fb7fc38867a8.jpg",
+      "summary": "IT之家 8 月 11 日消息，小米 REDMI 投影仪 5 标准版现已在有品（ 点此访问 ）发售，标准价 1299 元， 首发价 999 元 。 该投影仪延续米家产品线简约现代风格，整体造型圆润，配备了一体式金属云台，支持 360° 调节。其搭载了定制密闭式光机，提供 1080P 物理分辨率，拥有 400 流明 CVIA 亮度及 1.2:1 的投射比，配…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-45b89607b7ab",
+      "title": "Apple Still Planning 'Glass-Centric' iPhone Redesign for 2027",
+      "source": "MacRumors",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-11",
+      "time": "03:10",
+      "publishedAt": "2026-08-11T03:10:14.000Z",
+      "url": "https://www.macrumors.com/2026/08/10/glass-centric-iphone-still-planned-2027/",
+      "image": "https://images.macrumors.com/article-new/2026/07/iphone-20-anniversary.jpg",
+      "summary": "Aiming to refute a report from Jefferies analyst Edison Lee earlier today that claimed Apple's all-glass iPhone planned for the device's 20th anniversary next year has been cancel…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-46abb54a5469",
+      "title": "竹本青：iQOO Neo11 至尊版首发新一代「2K护眼超冠」屏",
+      "source": "竹本青",
+      "brand": "vivo",
+      "model": "vivo 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-08-11",
+      "time": "03:01",
+      "publishedAt": "2026-08-11T03:01:24.000Z",
+      "url": "https://www.coolapk.com/feed/73179021",
+      "image": "http://image.coolapk.com/feed/2026/0811/11/4248714_a6e5d44f_7280_7156_15@2000x2667.jpg",
+      "summary": "【iQOO Neo11 至尊版 屏幕预热：首发新一代「2K护眼超冠」屏】 ● 全球首发F2发光材料 ● 2000nits全屏峰值亮度 ● 98%首帧亮度比 ● 相较上代功耗降低24% #今日热点# #OriginOS6# #iQOONeo11至尊版#",
+      "tags": [
+        "vivo",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-eb03f72ab1ee",
+      "title": "三星 Galaxy S26 FE 手机规格曝光：8GB 内存、4900mAh 电池",
+      "source": "IT之家",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-11",
+      "time": "02:49",
+      "publishedAt": "2026-08-11T02:49:52.000Z",
+      "url": "https://www.ithome.com/0/988/217.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/8/848ffdfa-444b-4fdd-9492-312720211e25.png",
+      "summary": "IT之家 8 月 11 日消息，科技媒体 WinFuture &nbsp;昨日（8 月 10 日）发布博文，分享了 三星 Galaxy S26 FE 手机的完整规格参数，预估将于 2026 年 9 月上旬发布。 外观方面，消息称 Galaxy S26 FE 手机最薄处为 7.4 毫米，重量 193 克，并支持 IP68 等级防水。三星计划提供深灰色（Gra…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
       "id": "auto-40b4c1709be1",
-      "title": "彭博社称苹果“全玻璃 iPhone”未被取消，项目按计划推进",
+      "title": "彭博社称苹果“全玻璃 iPhone”没有被取消，将按计划在明年推出",
       "source": "IT之家",
       "brand": "iPhone",
       "model": "iPhone 相关机型",
@@ -13,7 +213,7 @@ window.phoneRadarAuto = {
       "time": "02:24",
       "publishedAt": "2026-08-11T02:24:56.000Z",
       "url": "https://www.ithome.com/0/988/191.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/8/28a97b6d-1df2-4ca2-b3c6-6b876fa56af7.jpg?x-bce-process=image/format,f_auto",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/8/28a97b6d-1df2-4ca2-b3c6-6b876fa56af7.jpg",
       "summary": "IT之家 8 月 11 日消息，此前有报道称，苹果已经取消了传闻已久、原本计划在 iPhone 诞生 20 周年之际推出的“全玻璃 iPhone”。不过，彭博社最新报道称，该款机型的重新设计工作仍按计划推进，将应用于明年的 Pro 系列机型。 IT之家注意到，今天早些时候，杰富瑞集团（Jefferies）下调了苹果股票的评级。该机构援引供应链调查结果称，苹…",
       "tags": [
         "iPhone",
@@ -43,7 +243,7 @@ window.phoneRadarAuto = {
     },
     {
       "id": "coolapk-user-afb3c520c41a",
-      "title": "竹本青：【iQOO Neo11 至尊版 「乘风」配色官图公布】 ▫️视觉3D流光效果 ▫️9.13mm大R角 ▫️哑光金属…",
+      "title": "竹本青：QOO Neo11 至尊版 「乘风」配色官图公布：视觉3D流光，金属中框",
       "source": "竹本青",
       "brand": "vivo",
       "model": "vivo 相关机型",
@@ -54,7 +254,7 @@ window.phoneRadarAuto = {
       "publishedAt": "2026-08-11T02:03:59.000Z",
       "url": "https://www.coolapk.com/feed/73178186",
       "image": "http://image.coolapk.com/feed/2026/0811/10/4248714_495efc81_3833_7509_428@2000x2667.jpg",
-      "summary": "【iQOO Neo11 至尊版 「乘风」配色官图公布】 ▫️视觉3D流光效果 ▫️9.13mm大R角 ▫️哑光金属中框 ▫️全新横置DECO #iQOONeo11至尊版# #今日热点# #OriginOS6#",
+      "summary": "【iQOO Neo11 至尊版 「乘风」配色官图公布：视觉3D流光，金属中框】 ▫️视觉3D流光效果 ▫️9.13mm大R角 ▫️哑光金属中框 ▫️全新横置DECO #iQOONeo11至尊版# #今日热点# #OriginOS6#",
       "tags": [
         "vivo",
         "爆料",
@@ -62,28 +262,28 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "coolapk-user-cd0bedff3323",
-      "title": "竹本青：OPPO x HEFANG 全新「星光喜鹊」联名礼盒正式亮相 #今日热点# #礼盒大赏#",
+      "id": "coolapk-user-df9365065bff",
+      "title": "竹本青：荣耀畅玩80在电商降价开售：1049元起",
       "source": "竹本青",
-      "brand": "OPPO",
-      "model": "OPPO 相关机型",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
       "type": "爆料",
       "trust": "高可信爆料",
       "date": "2026-08-11",
-      "time": "02:02",
-      "publishedAt": "2026-08-11T02:02:16.000Z",
-      "url": "https://www.coolapk.com/feed/73178162",
-      "image": "http://image.coolapk.com/feed/2026/0811/10/4248714_116dd028_3730_6114_92@1080x1440.jpg",
-      "summary": "OPPO x HEFANG 全新「星光喜鹊」联名礼盒正式亮相 #今日热点# #礼盒大赏#",
+      "time": "01:59",
+      "publishedAt": "2026-08-11T01:59:59.000Z",
+      "url": "https://www.coolapk.com/feed/73178132",
+      "image": "http://image.coolapk.com/feed/2026/0811/09/4248714_78710dda_3595_4808_600@1440x2560.jpg",
+      "summary": "【荣耀畅玩80 在电商降价开售：720P LCD屏+天玑6300，售价1049元起】 4GB+128GB —— 1049元（首发1599元） 6GB+128GB —— 1099元（首发1799元） ▫️6.75\" 90Hz 720P LCD屏 ▫️天玑6300处理器 ▫️5300mAh电池+15W充电 ▫️前置5MP／后置13MP ▫️TF卡拓展｜3.5m…",
       "tags": [
-        "OPPO",
+        "HONOR",
         "爆料",
         "酷安博主"
       ]
     },
     {
       "id": "coolapk-user-a96d9f12370d",
-      "title": "竹本青：【vivo X500系列 Deco设计曝光：Pro系列居中大圆、标准版左上角大圆】 Pro系列 —— 居中大圆De…",
+      "title": "竹本青：vivo X500系列Deco设计曝光：Pro系列居中大圆",
       "source": "竹本青",
       "brand": "vivo",
       "model": "vivo 相关机型",
@@ -119,6 +319,26 @@ window.phoneRadarAuto = {
         "行业",
         "爆料",
         "微博"
+      ]
+    },
+    {
+      "id": "auto-ab9b9ce19b8c",
+      "title": "Jefferies downgrades Apple stock, cites all-glass iPhone cancellation rumor",
+      "source": "9to5Mac",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-11",
+      "time": "01:27",
+      "publishedAt": "2026-08-11T01:27:42.000Z",
+      "url": "https://9to5mac.com/2026/08/10/jefferies-downgrades-apple-stock-cites-all-glass-iphone-cancellation-rumor/",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/AAPL-stock-slides-but-is-it-a-reaction-to-AI-announcements.jpg?quality=82&strip=all&w=1600",
+      "summary": "Jefferies today became the latest firm to cut Apple’s stock price target in recent days, citing supply chain checks that suggest Apple has scrapped plans for a rumored all-glass i…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
       ]
     },
     {
@@ -222,26 +442,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-c1344574f3e0",
-      "title": "谷歌增加 Pixel 内核源代码获取难度，影响定制 ROM 开发",
-      "source": "IT之家",
-      "brand": "Pixel",
-      "model": "Pixel 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-11",
-      "time": "00:16",
-      "publishedAt": "2026-08-11T00:16:58.000Z",
-      "url": "https://www.ithome.com/0/988/097.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/8/dc351edd-2a09-41cc-9344-de940c3d154c.png?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 8 月 11 日消息，与市场上一些顶级 Android 手机不同，Google Pixel 系列长期以来一直为开发者提供一个干净、透明的环境，方便他们检查软件、测试早期版本，以及运行 GrapheneOS 等替代操作系统。然而据报道，谷歌正在悄悄改变处理 Pixel 源代码的方式，这可能会威胁 Pixel 一直以来的开放形象，并可能影响那些在手机…",
-      "tags": [
-        "Pixel",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-9bbf43c61c96",
       "title": "Apple announces changes to iOS in Brazil",
       "source": "Apple Newsroom",
@@ -299,106 +499,6 @@ window.phoneRadarAuto = {
         "行业",
         "爆料",
         "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-801ffcb30e19",
-      "title": "2020 年，回头看仍是机圈极具魔幻现实主义色彩的一年。厂商大喊 “5G 元年”，对换机用户而言却是 “涨价元年”—— 旗舰机型仿佛统一了口径，集体上调八百至一千的价格，携手迈入3999的时代。",
-      "source": "酷安热榜",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-08-11",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/70266966",
-      "image": "",
-      "summary": "2020 年，回头看仍是机圈极具魔幻现实主义色彩的一年。厂商大喊 “5G 元年”，对换机用户而言却是 “涨价元年”—— 旗舰机型仿佛统一了口径，集体上调八百至一千的价格，携手迈入3999的时代。",
-      "tags": [
-        "行业",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-99cf7541e416",
-      "title": "iPhone18Pro等7款新品彻底泄密",
-      "source": "百度热搜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-11",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.baidu.com/s?wd=iPhone18Pro%E7%AD%897%E6%AC%BE%E6%96%B0%E5%93%81%E5%BD%BB%E5%BA%95%E6%B3%84%E5%AF%86",
-      "image": "",
-      "summary": "iPhone18Pro等7款新品彻底泄密",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "auto-5aba231a5722",
-      "title": "消息称谷歌 Pixel 11 手机标准版 12GB RAM 起步且配备长焦，但不提供 HiLight”RGB 灯效功能",
-      "source": "IT之家",
-      "brand": "Pixel",
-      "model": "Pixel 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-10",
-      "time": "23:42",
-      "publishedAt": "2026-08-10T23:42:28.000Z",
-      "url": "https://www.ithome.com/0/988/090.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/8/c4208a01-7dc5-46b2-bc79-3695a4c69ec3.png",
-      "summary": "IT之家 8 月 11 日消息，消息源 evowizz 透露，谷歌 Pixel 11 手机标准版将不提供“HiLight”RGB 灯效功能，相应功能为 Pro 机型独占。 IT之家此前报道，“HiLight”RGB 灯效功能是谷歌为 Pixel 11 系列手机推出的全新后置环形 RGB 灯效功能，在后置相机模组（Deco）内部集成一圈环形彩色灯带，在手机屏…",
-      "tags": [
-        "Pixel",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-2bc503b0d583",
-      "title": "消息称 2026Q2 全球手机市场持续承压：内存短缺推高成本、智能手机出货量预计将继续下滑",
-      "source": "IT之家",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-10",
-      "time": "23:31",
-      "publishedAt": "2026-08-10T23:31:26.000Z",
-      "url": "https://www.ithome.com/0/988/087.htm",
-      "image": "",
-      "summary": "IT之家 8 月 11 日消息，FDM CCS Insight 现已公布 2026 年第二季度智能手机市场报告，当前市场正面临供应链压力， 由于全球内存供应紧张导致零部件成本上涨，第二季度智能手机出货量继续下降 。 今年以来，三星和苹果已经提高了部分手机产品售价，其他中小手机厂商也陆续跟进，由于手机制造商仍需要面对不断上涨的零部件成本，预计这一趋势将在 2…",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-487ff65882f6",
-      "title": "谷歌 Pixel 11 Pro XL 手机跑分曝光，Tensor G6 性能提升有限",
-      "source": "IT之家",
-      "brand": "Pixel",
-      "model": "Pixel 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-10",
-      "time": "23:06",
-      "publishedAt": "2026-08-10T23:06:26.000Z",
-      "url": "https://www.ithome.com/0/988/077.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/8/dd3a8405-d982-4b87-83eb-05d4b3068925.jpg?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 8 月 11 日消息，随着谷歌 Pixel 11 Pro XL 及其三个衍生版本预计将在几天后的谷歌年度发布会上亮相，Pixel 11 Pro XL 如今据称已经出现在 Geekbench 7 数据库中，并曝光了谷歌最新芯片组的性能信息。 此前，Tensor G6 已经在多次爆料中出现，但直到现在还没有真实跑分数据流出。最近有传闻称，谷歌可能会在…",
-      "tags": [
-        "Pixel",
-        "爆料",
-        "自动抓取"
       ]
     },
     {
@@ -762,46 +862,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "coolapk-user-93cd495c7027",
-      "title": "竹本青：【罗永浩吐槽苹果手机语音输入法：输入一句话后点逗号，会消掉最后一个字改成逗号】 8月10日，罗永浩发文称：苹果手机…",
-      "source": "竹本青",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-08-10",
-      "time": "12:38",
-      "publishedAt": "2026-08-10T12:38:23.000Z",
-      "url": "https://www.coolapk.com/feed/73171268",
-      "image": "http://image.coolapk.com/feed/2026/0810/20/4248714_a6cd03e8_5502_6766_714@1272x768.jpg",
-      "summary": "【罗永浩吐槽苹果手机语音输入法：输入一句话后点逗号，会消掉最后一个字改成逗号】 8月10日，罗永浩发文称：苹果手机让第三方语音输入法不能正常使用，然后自己做了也许是人类能做到的最差的语音输入法（如果有更差的，请一定告诉我），结果它最近的变化证明没有最差，只有更差 ： 为什么输入一句话之后点逗号，会S-B呵呵地自动消掉最后一个字改成逗号呢？！有时候一句话输入…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
-      "id": "coolapk-user-0cb71146e1bf",
-      "title": "竹本青：【iPhone 17系列 中国区最新销量曝光：周增约57.22万台，累计突破3954万台】 8月10日，博主「RD…",
-      "source": "竹本青",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-08-10",
-      "time": "12:30",
-      "publishedAt": "2026-08-10T12:30:19.000Z",
-      "url": "https://www.coolapk.com/feed/73171143",
-      "image": "http://image.coolapk.com/feed/2026/0810/20/4248714_ab0c9df3_5095_0665_239@3313x2502.jpg",
-      "summary": "【iPhone 17系列 中国区最新销量曝光：周增约57.22万台，累计突破3954万台】 8月10日，博主「RD观测」发布第三方统计数据：截至2026年第31周，iPhone 17系列手机在中国市场累计销量约3954.25万台，周环比新增约57.22万台。 前几周数据如下： 截至 W30 —— 约3897.03万（周增58.25万） 截至 W29 ——…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
       "id": "auto-3b0bfb72531c",
       "title": "New Galaxy S26 FE leak gives away pretty much all of its specs",
       "source": "Android Authority",
@@ -1019,26 +1079,6 @@ window.phoneRadarAuto = {
         "vivo",
         "爆料",
         "微博"
-      ]
-    },
-    {
-      "id": "auto-58c10652b211",
-      "title": "Huawei Mate 90 to feature hardware-level privacy display for first time",
-      "source": "Huawei Central",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-10",
-      "time": "03:11",
-      "publishedAt": "2026-08-10T03:11:08.000Z",
-      "url": "https://www.huaweicentral.com/huawei-mate-90-to-feature-hardware-level-privacy-display-for-first-time/",
-      "image": "https://www.huaweicentral.com/wp-content/uploads/2026/02/Mate80-phone2.jpg",
-      "summary": "Huawei Mate 90 series is rumored to adopt a hardware-level privacy display feature. The company has debuted this ultimate tech solution with the lightest HarmonyOS PC. Now it coul…",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "自动抓取"
       ]
     },
     {
