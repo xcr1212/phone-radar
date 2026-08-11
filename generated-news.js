@@ -1,22 +1,402 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-08-10T22:55:40.798Z",
+  "updatedAt": "2026-08-11T02:26:22.186Z",
   "news": [
     {
-      "id": "auto-c9cb356bb66e",
-      "title": "涨价不可避免：郭明錤称苹果正缩减 2026 年 iPhone 18 Pro 等硬件出货计划",
+      "id": "auto-40b4c1709be1",
+      "title": "彭博社称苹果“全玻璃 iPhone”未被取消，项目按计划推进",
       "source": "IT之家",
       "brand": "iPhone",
       "model": "iPhone 相关机型",
       "type": "爆料",
       "trust": "媒体汇总",
-      "date": "2026-08-10",
-      "time": "22:44",
-      "publishedAt": "2026-08-10T22:44:29.000Z",
-      "url": "https://www.ithome.com/0/988/071.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/8/58c9b330-554f-4b21-88af-61a062fe2d12.png",
-      "summary": "IT之家 8 月 11 日消息，天风国际证券分析师郭明錤今天（8 月 11 日）在 X 平台发布推文，分享了一份行业调查研究报告， 指出由于 DRAM 内存短缺，苹果公司正在缩减其 2026 年的硬件出货计划。 在机型方面，基于推文内容，博文中的“硬件”，预估包含苹果 iPhone 18 Pro 系列、苹果首款折叠手机（上市后预估名为 iPhone Ult…",
+      "date": "2026-08-11",
+      "time": "02:24",
+      "publishedAt": "2026-08-11T02:24:56.000Z",
+      "url": "https://www.ithome.com/0/988/191.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/8/28a97b6d-1df2-4ca2-b3c6-6b876fa56af7.jpg?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 8 月 11 日消息，此前有报道称，苹果已经取消了传闻已久、原本计划在 iPhone 诞生 20 周年之际推出的“全玻璃 iPhone”。不过，彭博社最新报道称，该款机型的重新设计工作仍按计划推进，将应用于明年的 Pro 系列机型。 IT之家注意到，今天早些时候，杰富瑞集团（Jefferies）下调了苹果股票的评级。该机构援引供应链调查结果称，苹…",
       "tags": [
         "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-33ca9cb0d77e",
+      "title": "Apple’s 20th-anniversary iPhone redesign reportedly remains on track",
+      "source": "9to5Mac",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-11",
+      "time": "02:14",
+      "publishedAt": "2026-08-11T02:14:14.000Z",
+      "url": "https://9to5mac.com/2026/08/10/apples-20th-anniversary-iphone-redesign-reportedly-remains-on-track/",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/02/Mac-hardware-is-great-but-macOS-26-is-a-disaster-say-pundits.jpg?quality=82&strip=all&w=1600",
+      "summary": "Following reports that Apple had scrapped its long-rumored all-glass iPhone planned for the device’s 20th anniversary, Bloomberg says the redesign remains on track for next year’s…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-afb3c520c41a",
+      "title": "竹本青：【iQOO Neo11 至尊版 「乘风」配色官图公布】 ▫️视觉3D流光效果 ▫️9.13mm大R角 ▫️哑光金属…",
+      "source": "竹本青",
+      "brand": "vivo",
+      "model": "vivo 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-08-11",
+      "time": "02:03",
+      "publishedAt": "2026-08-11T02:03:59.000Z",
+      "url": "https://www.coolapk.com/feed/73178186",
+      "image": "http://image.coolapk.com/feed/2026/0811/10/4248714_495efc81_3833_7509_428@2000x2667.jpg",
+      "summary": "【iQOO Neo11 至尊版 「乘风」配色官图公布】 ▫️视觉3D流光效果 ▫️9.13mm大R角 ▫️哑光金属中框 ▫️全新横置DECO #iQOONeo11至尊版# #今日热点# #OriginOS6#",
+      "tags": [
+        "vivo",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "coolapk-user-cd0bedff3323",
+      "title": "竹本青：OPPO x HEFANG 全新「星光喜鹊」联名礼盒正式亮相 #今日热点# #礼盒大赏#",
+      "source": "竹本青",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-08-11",
+      "time": "02:02",
+      "publishedAt": "2026-08-11T02:02:16.000Z",
+      "url": "https://www.coolapk.com/feed/73178162",
+      "image": "http://image.coolapk.com/feed/2026/0811/10/4248714_116dd028_3730_6114_92@1080x1440.jpg",
+      "summary": "OPPO x HEFANG 全新「星光喜鹊」联名礼盒正式亮相 #今日热点# #礼盒大赏#",
+      "tags": [
+        "OPPO",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "coolapk-user-a96d9f12370d",
+      "title": "竹本青：【vivo X500系列 Deco设计曝光：Pro系列居中大圆、标准版左上角大圆】 Pro系列 —— 居中大圆De…",
+      "source": "竹本青",
+      "brand": "vivo",
+      "model": "vivo 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-08-11",
+      "time": "01:42",
+      "publishedAt": "2026-08-11T01:42:13.000Z",
+      "url": "https://www.coolapk.com/feed/73177912",
+      "image": "http://image.coolapk.com/feed/2026/0811/09/4248714_268f97f8_2532_0754_88@1270x379.jpg",
+      "summary": "【vivo X500系列 Deco设计曝光：Pro系列居中大圆、标准版左上角大圆】 Pro系列 —— 居中大圆Deco 6.37\"± 6.85\"± 大R角 四等窄边直屏 标准版 —— 左上角大圆Deco 6.59\"±中尺寸直屏 #今日热点# #vivoX500# #OriginOS6#",
+      "tags": [
+        "vivo",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "weibo-2cd9e7f5fae8",
+      "title": "数码闲聊站：独家信息：之前说过2nm Pro系列是居中大圆Deco，6.37\"± 6.85…",
+      "source": "数码闲聊站",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-08-11",
+      "time": "01:38",
+      "publishedAt": "2026-08-11T01:38:00.000Z",
+      "url": "https://weibo.com/6048569942/RcREy80dh",
+      "image": "",
+      "summary": "独家信息，之前说过2nm Pro系列是居中大圆Deco，6.37\"± 6.85\"±双尺寸极窄四等边直屏，R角更大更舒服。3nm标准版设计略有不同，改成了左上角大圆Deco，6.59\"±中尺寸直屏[笑哈哈]",
+      "tags": [
+        "行业",
+        "爆料",
+        "微博"
+      ]
+    },
+    {
+      "id": "auto-f954082ba29e",
+      "title": "Minimal Phone 2 全键盘手机公布：换用 3.92 英寸 OLED 面板、天玑 8300 处理器，599 美元起",
+      "source": "IT之家",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-11",
+      "time": "01:27",
+      "publishedAt": "2026-08-11T01:27:37.000Z",
+      "url": "https://www.ithome.com/0/988/125.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/8/46f77307-cf82-4b98-b25e-d4de7000d2ba.png?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 8 月 11 日消息，Minimal 公司现已公布了新款全键盘手机 Minimal Phone 2，该机相对于初代取消墨水屏设计，转用 OLED 面板，目前已上线 Kickstarter 众筹，定价为 599 美元 （IT之家注：现汇率约合 4,046 元人民币） 起。 8GB RAM + 256GB 存储空间：599 美元 （现汇率约合 4,0…",
+      "tags": [
+        "行业",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-8ce6a0952196",
+      "title": "三星面临芯片专利诉讼，涉及 Galaxy S10 至 S26 系列手机",
+      "source": "IT之家",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-11",
+      "time": "01:13",
+      "publishedAt": "2026-08-11T01:13:14.000Z",
+      "url": "https://www.ithome.com/0/988/119.htm",
+      "image": "",
+      "summary": "IT之家 8 月 11 日消息，科技媒体 Android Headline 昨日（8 月 10 日）发布博文，报道称 Stellar Industries 已在美国对三星及其美国主要子公司发起专利诉讼，涉及 Galaxy S10 到 Galaxy S26 系列手机芯片。 IT之家援引博文介绍，本次纠纷共涉及 6 项美国专利： 9,219,140 9,281…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-dfefc9757390",
+      "title": "提前苹果约 1 个月：奢侈品牌 Caviar 推出定制版 iPhone 18 Pro / Max",
+      "source": "IT之家",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-11",
+      "time": "01:01",
+      "publishedAt": "2026-08-11T01:01:34.000Z",
+      "url": "https://www.ithome.com/0/988/110.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/8/108fb121-e499-44c6-baa4-432d4b4a16e3.jpg?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 8 月 11 日消息，科技媒体 Android Headline 昨日（8 月 10 日）发布博文，报道称在苹果公司正式发布前约 1 个月， 奢侈品厂商 Caviar 在其官网已放出 iPhone 18 Pro 和 iPhone 18 Pro Max 的预览图片。 外观方面，iPhone 18 Pro 配备 6.3 英寸屏幕、iPhone 18…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-1565673d8044",
+      "title": "Galaxy S26 FE fully leaks ahead of launch with Exynos 2500 and 4,900mAh battery",
+      "source": "Gizmochina",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-11",
+      "time": "01:01",
+      "publishedAt": "2026-08-11T01:01:08.000Z",
+      "url": "https://www.gizmochina.com/2026/08/11/galaxy-s26-fe-fully-leaks-ahead-of-launch-with-exynos-2500-and-4900mah-battery/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/08/galaxys26-fe-render4322-300x169.png?x23692",
+      "summary": "Samsung’s next Fan Edition phone is shaping up to be a pretty familiar mix of last year’s flagship tech and a design that fits right in with the current S26 family, according to a…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-935f0a0f5e70",
+      "title": "能偷拍的“折射手机壳”热卖，总台中国之声警告生产销售和使用均涉嫌违法",
+      "source": "IT之家",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-11",
+      "time": "00:57",
+      "publishedAt": "2026-08-11T00:57:58.000Z",
+      "url": "https://www.ithome.com/0/988/108.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/8/2fe539a6-f812-4a28-9f96-7e9169d18a3c.jpg",
+      "summary": "IT之家 8 月 11 日消息，河南广播电视台民生频道《小莉帮忙》8 月 7 日报道了一款网上热销的“折射手机壳”，这种手机壳外观与普通手机壳并无区别， 商家宣称它可以实现“侧面拍摄”，售价在 300 到 600 元不等 。 报道称，商家的宣传视频中包含有暗示性内容，如“懂的都懂”，甚至有一个丝袜美女和一张大床的画面。该手机壳是在摄像头位置加装棱镜，利用光…",
+      "tags": [
+        "行业",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-c1344574f3e0",
+      "title": "谷歌增加 Pixel 内核源代码获取难度，影响定制 ROM 开发",
+      "source": "IT之家",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-11",
+      "time": "00:16",
+      "publishedAt": "2026-08-11T00:16:58.000Z",
+      "url": "https://www.ithome.com/0/988/097.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/8/dc351edd-2a09-41cc-9344-de940c3d154c.png?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 8 月 11 日消息，与市场上一些顶级 Android 手机不同，Google Pixel 系列长期以来一直为开发者提供一个干净、透明的环境，方便他们检查软件、测试早期版本，以及运行 GrapheneOS 等替代操作系统。然而据报道，谷歌正在悄悄改变处理 Pixel 源代码的方式，这可能会威胁 Pixel 一直以来的开放形象，并可能影响那些在手机…",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-9bbf43c61c96",
+      "title": "Apple announces changes to iOS in Brazil",
+      "source": "Apple Newsroom",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "官方",
+      "trust": "官方确认",
+      "date": "2026-08-11",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.apple.com/newsroom/2026/06/apple-announces-changes-to-ios-in-brazil/",
+      "image": "",
+      "summary": "Apple today announced changes impacting iOS apps in Brazil that reflect a recent agreement with Brazil’s competition regulator, CADE.",
+      "tags": [
+        "iPhone",
+        "官方",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "newsnow-3e04822e5a2d",
+      "title": "聊聊手机卡套餐资费",
+      "source": "酷安热榜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-08-11",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/73163663",
+      "image": "",
+      "summary": "聊聊手机卡套餐资费",
+      "tags": [
+        "行业",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-e67a0b4d7c4b",
+      "title": "用个一两周手机就特别卡，狂杀后台，要重启才流畅点",
+      "source": "酷安热榜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-08-11",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/73155342",
+      "image": "",
+      "summary": "用个一两周手机就特别卡，狂杀后台，要重启才流畅点",
+      "tags": [
+        "行业",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-801ffcb30e19",
+      "title": "2020 年，回头看仍是机圈极具魔幻现实主义色彩的一年。厂商大喊 “5G 元年”，对换机用户而言却是 “涨价元年”—— 旗舰机型仿佛统一了口径，集体上调八百至一千的价格，携手迈入3999的时代。",
+      "source": "酷安热榜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-08-11",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/70266966",
+      "image": "",
+      "summary": "2020 年，回头看仍是机圈极具魔幻现实主义色彩的一年。厂商大喊 “5G 元年”，对换机用户而言却是 “涨价元年”—— 旗舰机型仿佛统一了口径，集体上调八百至一千的价格，携手迈入3999的时代。",
+      "tags": [
+        "行业",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-99cf7541e416",
+      "title": "iPhone18Pro等7款新品彻底泄密",
+      "source": "百度热搜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-11",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.baidu.com/s?wd=iPhone18Pro%E7%AD%897%E6%AC%BE%E6%96%B0%E5%93%81%E5%BD%BB%E5%BA%95%E6%B3%84%E5%AF%86",
+      "image": "",
+      "summary": "iPhone18Pro等7款新品彻底泄密",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "auto-5aba231a5722",
+      "title": "消息称谷歌 Pixel 11 手机标准版 12GB RAM 起步且配备长焦，但不提供 HiLight”RGB 灯效功能",
+      "source": "IT之家",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-10",
+      "time": "23:42",
+      "publishedAt": "2026-08-10T23:42:28.000Z",
+      "url": "https://www.ithome.com/0/988/090.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/8/c4208a01-7dc5-46b2-bc79-3695a4c69ec3.png",
+      "summary": "IT之家 8 月 11 日消息，消息源 evowizz 透露，谷歌 Pixel 11 手机标准版将不提供“HiLight”RGB 灯效功能，相应功能为 Pro 机型独占。 IT之家此前报道，“HiLight”RGB 灯效功能是谷歌为 Pixel 11 系列手机推出的全新后置环形 RGB 灯效功能，在后置相机模组（Deco）内部集成一圈环形彩色灯带，在手机屏…",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-2bc503b0d583",
+      "title": "消息称 2026Q2 全球手机市场持续承压：内存短缺推高成本、智能手机出货量预计将继续下滑",
+      "source": "IT之家",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-10",
+      "time": "23:31",
+      "publishedAt": "2026-08-10T23:31:26.000Z",
+      "url": "https://www.ithome.com/0/988/087.htm",
+      "image": "",
+      "summary": "IT之家 8 月 11 日消息，FDM CCS Insight 现已公布 2026 年第二季度智能手机市场报告，当前市场正面临供应链压力， 由于全球内存供应紧张导致零部件成本上涨，第二季度智能手机出货量继续下降 。 今年以来，三星和苹果已经提高了部分手机产品售价，其他中小手机厂商也陆续跟进，由于手机制造商仍需要面对不断上涨的零部件成本，预计这一趋势将在 2…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-487ff65882f6",
+      "title": "谷歌 Pixel 11 Pro XL 手机跑分曝光，Tensor G6 性能提升有限",
+      "source": "IT之家",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-10",
+      "time": "23:06",
+      "publishedAt": "2026-08-10T23:06:26.000Z",
+      "url": "https://www.ithome.com/0/988/077.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/8/dd3a8405-d982-4b87-83eb-05d4b3068925.jpg?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 8 月 11 日消息，随着谷歌 Pixel 11 Pro XL 及其三个衍生版本预计将在几天后的谷歌年度发布会上亮相，Pixel 11 Pro XL 如今据称已经出现在 Geekbench 7 数据库中，并曝光了谷歌最新芯片组的性能信息。 此前，Tensor G6 已经在多次爆料中出现，但直到现在还没有真实跑分数据流出。最近有传闻称，谷歌可能会在…",
+      "tags": [
+        "Pixel",
         "爆料",
         "自动抓取"
       ]
@@ -202,26 +582,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-70c972681a4d",
-      "title": "杰富瑞分析师：因良率不佳，苹果已砍掉 20 周年全玻璃 iPhone 机型",
-      "source": "IT之家",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-10",
-      "time": "15:16",
-      "publishedAt": "2026-08-10T15:16:48.000Z",
-      "url": "https://www.ithome.com/0/988/054.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/4/38d76f07-616b-4f6b-a053-72cc55c896d4.jpg?x-bce-process=image/watermark,text_QUnnlJ_miJA,type_RlpMYW5UaW5nSGVpU0JHQg==,size_28,color_ffffffdd,skw_1,skc_00000051,g_7,blr_50,bls_50,x_11,y_11/format,f_auto",
-      "summary": "IT之家 8 月 10 日消息，据彭博社今天（10 日）报道，杰富瑞分析师李裕生（Edison Lee）将苹果股票评级下调至“跑输大盘”，市场对苹果的看空情绪进一步升温。 李裕生对 iPhone 前景表示担忧，尤其是苹果未来能否继续提高产品平均售价。“供应链调查显示，由于生产良率不佳，苹果已经取消 20 周年全玻璃 iPhone。这表明，苹果想通过改变 i…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-accb3d37b936",
       "title": "Next year’s iPhone redesign with all-glass look might be canceled: report",
       "source": "9to5Mac",
@@ -382,26 +742,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-b3630ac81316",
-      "title": "三星详解 Galaxy Z Fold8 系列折叠屏手机屏幕：如何实现几乎不可见的折痕",
-      "source": "IT之家",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-10",
-      "time": "13:29",
-      "publishedAt": "2026-08-10T13:29:31.000Z",
-      "url": "https://www.ithome.com/0/988/034.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/8/fb22dcb3-985c-4d0a-afaa-b79c7a6f1490.png?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 8 月 10 日消息，三星显示（Samsung Display）上周（8 月 7 日）发布博文，详解 Galaxy Z Fold8 系列折叠屏手机的显示面板技术。 IT之家了解到，Galaxy Z Fold8 使用了钛材增强面板，取代以往的塑料薄膜结构并加入钛金属支撑板，形成双层钛结构。与传统塑料薄膜相比，钛合金薄膜的刚性提升了 20 倍，这种新…",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-a28347c004ca",
       "title": "Vivo X300 FE sees another price hike in India, now starts at ₹89,999",
       "source": "Gizmochina",
@@ -413,30 +753,10 @@ window.phoneRadarAuto = {
       "time": "13:27",
       "publishedAt": "2026-08-10T13:27:26.000Z",
       "url": "https://www.gizmochina.com/2026/08/10/vivo-x300-fe-sees-another-price-hike-in-india-now-starts-at-%e2%82%b989999/",
-      "image": "https://www.gizmochina.com/wp-content/uploads/2026/08/vivo-x300-fe-featuring-a-zeiss-super-telephoto-camera-300x169.png?x23692",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/08/videoframe_2478-300x169.png?x23692",
       "summary": "Vivo has quietly bumped up the price of its compact flagship again, so anyone still thinking about buying one is looking at a noticeably higher tag than what was advertised a few…",
       "tags": [
         "vivo",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-dffcc46181dc",
-      "title": "今夕是何年：Lava Smart 4 手机发布，6.56 英寸 540p 屏、3+32GB",
-      "source": "IT之家",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-10",
-      "time": "13:22",
-      "publishedAt": "2026-08-10T13:22:26.000Z",
-      "url": "https://www.ithome.com/0/988/032.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/8/eda2244b-03c9-40b1-9fda-a68bf0f03015.jpg",
-      "summary": "IT之家 8 月 10 日消息，据外媒 gsmarena 今天（10 日）报道，印度手机厂商 Lava 今年早些时候推出了配置平平的 Smart 4 Plus，随后又带来了定位更低、价格也更便宜的 Lava Smart 4。新机售价 8,500 印度卢比 （IT之家注：现汇率约合 603.3 元人民币） ，配置几乎成了全球存储器短缺冲击入门手机市场的缩影。…",
-      "tags": [
-        "行业",
         "爆料",
         "自动抓取"
       ]
@@ -559,26 +879,6 @@ window.phoneRadarAuto = {
         "iPhone",
         "爆料",
         "自动抓取"
-      ]
-    },
-    {
-      "id": "coolapk-user-cf12519e425e",
-      "title": "竹本青：阿维塔辟谣：“与华为合作不是必要项”系误读",
-      "source": "竹本青",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-08-10",
-      "time": "10:07",
-      "publishedAt": "2026-08-10T10:07:18.000Z",
-      "url": "https://www.coolapk.com/feed/73169062",
-      "image": "http://image.coolapk.com/feed/2026/0810/18/4248714_ac394b8d_6437_1629_194@1440x812.jpg",
-      "summary": "【阿维塔辟谣：“与华为合作不是必要项”系误读，并非否定双方合作价值】 8月10日，据新浪科技报道，近日有媒体报道称，阿维塔副总裁雍军表示，不认为和华为的合作模式是“必要项”，因为阿维塔具备差异化的能力。 阿维塔方面则辟谣称：“不认为和华为的合作模式是必要项”系误读，实际指让华为引望打造专属智驾版本的合作模式是不必要的，并非否定双方的合作价值。 ——————…",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "酷安博主"
       ]
     },
     {
@@ -799,346 +1099,6 @@ window.phoneRadarAuto = {
         "vivo",
         "爆料",
         "微博"
-      ]
-    },
-    {
-      "id": "auto-9bbf43c61c96",
-      "title": "Apple announces changes to iOS in Brazil",
-      "source": "Apple Newsroom",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "官方",
-      "trust": "官方确认",
-      "date": "2026-08-10",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.apple.com/newsroom/2026/06/apple-announces-changes-to-ios-in-brazil/",
-      "image": "",
-      "summary": "Apple today announced changes impacting iOS apps in Brazil that reflect a recent agreement with Brazil’s competition regulator, CADE.",
-      "tags": [
-        "iPhone",
-        "官方",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "newsnow-fca32ad40eaa",
-      "title": "聊聊手机卡套餐资费",
-      "source": "酷安热榜",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-08-10",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73163663",
-      "image": "",
-      "summary": "聊聊手机卡套餐资费",
-      "tags": [
-        "行业",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-425e00560511",
-      "title": "2020 年，回头看仍是机圈极具魔幻现实主义色彩的一年。厂商大喊 “5G 元年”，对换机用户而言却是 “涨价元年”—— 旗舰机型仿佛统一了口径，集体上调八百至一千的价格，携手迈入3999的时代。",
-      "source": "酷安热榜",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-08-10",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/70266966",
-      "image": "",
-      "summary": "2020 年，回头看仍是机圈极具魔幻现实主义色彩的一年。厂商大喊 “5G 元年”，对换机用户而言却是 “涨价元年”—— 旗舰机型仿佛统一了口径，集体上调八百至一千的价格，携手迈入3999的时代。",
-      "tags": [
-        "行业",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-848a935acb9b",
-      "title": "难以想象有一天，我居然会在酷安写一篇iPhone的文章。工作、孩子强度库库的上，思维也变得懒惰、僵化，以前写文章思如泉涌，现在只能用一周多的时间零零散散构思，不蹭热度，全文没有硬核的参数对比和严谨的对照实验，毕竟头部数码博主都给测完了。只想在喧嚣过后和大家聊一聊，在我的使用场景和主观视角下的Air。",
-      "source": "酷安热榜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-08-10",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/68295165",
-      "image": "",
-      "summary": "难以想象有一天，我居然会在酷安写一篇iPhone的文章。工作、孩子强度库库的上，思维也变得懒惰、僵化，以前写文章思如泉涌，现在只能用一周多的时间零零散散构思，不蹭热度，全文没有硬核的参数对比和严谨的对照实验，毕竟头部数码博主都给测完了。只想在喧嚣过后和大家聊一聊，在我的使用场景和主观视角下的Air。",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-2491bb1aa246",
-      "title": "2015年的手机圈，像一个持续升温的烤箱，骁龙810「高烧不退」 成了旗舰机绕不开的痛，中端市场也陷入同款发热困局。",
-      "source": "酷安热榜",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-08-10",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/70664999",
-      "image": "",
-      "summary": "2015年的手机圈，像一个持续升温的烤箱，骁龙810「高烧不退」 成了旗舰机绕不开的痛，中端市场也陷入同款发热困局。",
-      "tags": [
-        "行业",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-fd7a6c01ce88",
-      "title": "河南 22 岁女孩南太行山失联，手机最后信号不在山林，现已确认遇难，遗体在悬崖被找到，有哪些信息值得关注？",
-      "source": "知乎热榜",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "市场报告",
-      "trust": "媒体汇总",
-      "date": "2026-08-10",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.zhihu.com/question/2068484771710293896",
-      "image": "",
-      "summary": "河南 22 岁女孩南太行山失联，手机最后信号不在山林，现已确认遇难，遗体在悬崖被找到，有哪些信息值得关注？",
-      "tags": [
-        "行业",
-        "市场报告",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-998dc5b8d792",
-      "title": "盘点手机圈的那些遗憾",
-      "source": "B站热搜",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-10",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://search.bilibili.com/all?keyword=%E7%9B%98%E7%82%B9%E6%89%8B%E6%9C%BA%E5%9C%88%E7%9A%84%E9%82%A3%E4%BA%9B%E9%81%97%E6%86%BE",
-      "image": "",
-      "summary": "盘点手机圈的那些遗憾",
-      "tags": [
-        "行业",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "auto-6a0e3bbdc0e2",
-      "title": "iPhone 17 set to break a record no flagship has touched in 15 years",
-      "source": "9to5Mac",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-09",
-      "time": "17:48",
-      "publishedAt": "2026-08-09T17:48:00.000Z",
-      "url": "https://9to5mac.com/2026/08/09/iphone-17-availability/",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2019/12/iPhone-4.png?w=1600",
-      "summary": "When Apple released the iPhone 17 last September, the timer started for the new flagship model breaking a record set 15 years ago. The record takes more than a year to break, but…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-477653e44d65",
-      "title": "This scrapped Apple Upgrade feature would’ve made setup much more seamless",
-      "source": "9to5Mac",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-09",
-      "time": "14:19",
-      "publishedAt": "2026-08-09T14:19:23.000Z",
-      "url": "https://9to5mac.com/2026/08/09/this-scrapped-apple-upgrade-feature-wouldve-made-setup-much-more-seamless/",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/apple-upgrade-iphone.jpg?quality=82&strip=all&w=1600",
-      "summary": "According to the latest edition of the Power On newsletter , Apple had reportedly been considering a feature for Apple Upgrade that would’ve made setting up your iPhone nearly sea…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-a4e3b2e508d9",
-      "title": "Hands-on: This modular controller slides open to transform your iPhone into a mobile game console [Video]",
-      "source": "9to5Mac",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-09",
-      "time": "14:00",
-      "publishedAt": "2026-08-09T14:00:00.000Z",
-      "url": "https://9to5mac.com/2026/08/09/hands-on-this-modular-controller-slides-open-to-transform-your-iphone-into-a-mobile-game-console-video/",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/controller.jpg?quality=82&strip=all&w=1600",
-      "summary": "I first saw the Ohsnap MCON controller at CES last year, and I immediately fell in love with the concept. The idea was simple: give people a full-featured mobile controller that a…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-767ced8e6d6e",
-      "title": "The Pixel 11 won’t be exciting – what do you want next year?",
-      "source": "9to5Google",
-      "brand": "Pixel",
-      "model": "Pixel 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-09",
-      "time": "13:00",
-      "publishedAt": "2026-08-09T13:00:00.000Z",
-      "url": "https://9to5google.com/2026/08/09/google-pixel-11-boring/",
-      "image": "",
-      "summary": "We’re just a few days out from the launch of Google’s Pixel 11 series and, at this point, it’s all out there . And, yeah, it’s shaping up to be a pretty boring year, and that’s go…",
-      "tags": [
-        "Pixel",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-fdbd3ac2a348",
-      "title": "Everyone thinks the iPhone Ultra will crush Samsung. They’re wrong",
-      "source": "Android Authority",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-09",
-      "time": "12:00",
-      "publishedAt": "2026-08-09T12:00:54.000Z",
-      "url": "https://www.androidauthority.com/galaxy-z-fold-8-advantage-over-iphone-ultra-3692932/",
-      "image": "https://www.androidauthority.com/wp-content/uploads/2026/07/Galaxy-Z-Fold-8.-all-4-colors.jpg",
-      "summary": "This won't be a blowout.",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-8dfb78bf6fe5",
-      "title": "The Pixel 10 Pro is a flawed and inconsistent phone — and I’m still using it one year later",
-      "source": "Android Authority",
-      "brand": "Pixel",
-      "model": "Pixel 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-09",
-      "time": "10:00",
-      "publishedAt": "2026-08-09T10:00:33.000Z",
-      "url": "https://www.androidauthority.com/pixel-10-pro-one-year-later-3691473/",
-      "image": "",
-      "summary": "The Pixel 10 Pro is flawed but lovable.",
-      "tags": [
-        "Pixel",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-21b5bd20d6ca",
-      "title": "iQOO 16T leak suggests 200MP camera, no periscope zoom, and new cooling setup",
-      "source": "Gizmochina",
-      "brand": "vivo",
-      "model": "vivo 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-09",
-      "time": "09:13",
-      "publishedAt": "2026-08-09T09:13:30.000Z",
-      "url": "https://www.gizmochina.com/2026/08/09/iqoo-16t-leak-suggests-200mp-camera-no-periscope-zoom-and-new-cooling-setup/",
-      "image": "https://www.gizmochina.com/wp-content/uploads/2026/05/iQOO-15T-launch-date--300x258.jpg?x23692",
-      "summary": "Weibo tipster Smart Pikachu says the iQOO 16T is now being tested with a combined liquid and air cooling system. The leak also says the phone will keep a 200MP main camera but won…",
-      "tags": [
-        "vivo",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-355e8639a436",
-      "title": "iQOO Z11S may debut alongside the Neo 11 Ultra",
-      "source": "Gizmochina",
-      "brand": "vivo",
-      "model": "vivo 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-09",
-      "time": "06:42",
-      "publishedAt": "2026-08-09T06:42:33.000Z",
-      "url": "https://www.gizmochina.com/2026/08/09/iqoo-z11s-coming-soon/",
-      "image": "https://www.gizmochina.com/wp-content/uploads/2026/08/iQOO-Z11-design-1-1-300x124.jpg?x23692",
-      "summary": "Starting tomorrow, iQOO is expected to start teasing the iQOO Neo 11 Ultra in China. If a new leak is to be believed, the brand may also unveil a new Z-series phone alongside it.…",
-      "tags": [
-        "vivo",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-196d1953964d",
-      "title": "iQOO Neo 11 Ultra’s Geekbench reveals a modified Dimensity 9500 variant to rival Redmi K100 Pro Max",
-      "source": "Gizmochina",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-09",
-      "time": "05:04",
-      "publishedAt": "2026-08-09T05:04:47.000Z",
-      "url": "https://www.gizmochina.com/2026/08/09/iqoo-neo-11-ultra-geekbench-modified-dimensity-9500/",
-      "image": "https://www.gizmochina.com/wp-content/uploads/2026/08/iQOO-Neo-11-Ultra-image--300x196.png?x23692",
-      "summary": "iQOO is all set to showcase the iQOO Neo 11 Ultra tomorrow (Aug. 10) in China. Ahead of the expected announcement, the device has appeared on Geekbench 6, revealing that it is equ…",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-3c35a7749edf",
-      "title": "New leak may reveal the iPhone Ultra’s two launch colors",
-      "source": "9to5Mac",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-09",
-      "time": "00:41",
-      "publishedAt": "2026-08-09T00:41:55.000Z",
-      "url": "https://9to5mac.com/2026/08/08/iphone-ultra-colors-leak-rumor/",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/09/iphone-17-event-13.02.22.jpg?quality=82&strip=all&w=1600",
-      "summary": "Apple is set to announce the first-ever foldable iPhone next month. A new rumor today suggests that the iPhone Ultra might be available in two colors: silver and dark blue.",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
       ]
     }
   ]
