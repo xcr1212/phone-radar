@@ -1,6 +1,146 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-08-11T09:12:37.316Z",
+  "updatedAt": "2026-08-11T11:03:41.463Z",
   "news": [
+    {
+      "id": "auto-accfbea5f275",
+      "title": "Early OnePlus 16 hype suggests firm may have ditched its key markets too soon",
+      "source": "Android Authority",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-11",
+      "time": "10:43",
+      "publishedAt": "2026-08-11T10:43:48.000Z",
+      "url": "https://www.androidauthority.com/oneplus-16-hype-poll-results-3696824/",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2026/07/OnePlus-15-surrounded-by-phones-scaled.jpg",
+      "summary": "If only OnePlus waited just a little but longer to pull the plug.",
+      "tags": [
+        "OPPO",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-7c65d690efbc",
+      "title": "三星在韩国线下旗舰店举办展览会，展示 Galaxy Z Fold 系列折叠屏手机七年进化历程",
+      "source": "IT之家",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-11",
+      "time": "10:42",
+      "publishedAt": "2026-08-11T10:42:58.000Z",
+      "url": "https://www.ithome.com/0/988/455.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/8/4b60708c-f75e-4f8e-bcdb-b418e5457742.png",
+      "summary": "IT之家 8 月 11 日消息，据韩媒 The Elec 报道，三星电子昨日在韩国开设“可折叠的传承”展览，希望借此展示 Galaxy Z Fold / Flip 系列折叠屏手机过去七年来的进化历程。 IT之家从原报道获悉， 该展览目前已在韩国三星江南旗舰店正式开放 ， 并作为永久展览运营 。三星还计划在弘大、清潭的线下门店设立相同展示空间。 该展览被分为…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-ad30298a2d98",
+      "title": "iPhone 20 周年版不会被取消，但也不是你想象的样子",
+      "source": "爱范儿",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-08-11",
+      "time": "10:00",
+      "publishedAt": "2026-08-11T10:00:43.000Z",
+      "url": "https://www.ifanr.com/1674661?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "image": "https://s3.ifanr.com/wp-content/uploads/2026/08/banner16t9-alt.png",
+      "summary": "等待一个傻妞手机",
+      "tags": [
+        "iPhone",
+        "评测",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-ebd5a8b156c7",
+      "title": "Galaxy S26 FE features and specifications leak in full",
+      "source": "SamMobile",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-11",
+      "time": "09:54",
+      "publishedAt": "2026-08-11T09:54:38.000Z",
+      "url": "https://www.sammobile.com/news/galaxy-s26-fe-features-specifications-leak-full/",
+      "image": "",
+      "summary": "Recently, Samsung revealed that it will launch the Galaxy S26 FE soon. So far, there have been many leaks about the phone, shedding light on its design, features, and pricing bit…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-e13edbc0ec7b",
+      "title": "索尼与台积电成立先进图像传感器合资公司，2029 年量产",
+      "source": "IT之家",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-11",
+      "time": "09:46",
+      "publishedAt": "2026-08-11T09:46:53.000Z",
+      "url": "https://www.ithome.com/0/988/430.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/8/9dac4961-4bae-432a-a732-2d232ab89d1c.jpg",
+      "summary": "IT之家 8 月 11 日消息，今日，索尼半导体解决方案公司与台积电宣布签署最终合作协议，将在日本熊本县合志市成立合资公司 Advanced Vision Semiconductor Manufacturing Corporation。 该合资公司将采用先进制程技术，负责智能手机图像传感器量产所需的研发与制造活动，预计 2029 年开始量产。 根据协议，索…",
+      "tags": [
+        "行业",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-86f1ed19cf07",
+      "title": "iQOO Neo11 至尊版手机现身中国电信终端产品库：天玑 9500 定制处理器，8 月 18 日发布",
+      "source": "IT之家",
+      "brand": "vivo",
+      "model": "vivo 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-11",
+      "time": "09:30",
+      "publishedAt": "2026-08-11T09:30:58.000Z",
+      "url": "https://www.ithome.com/0/988/421.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/8/c90c45db-ec20-4adb-939e-417ff8b2e2ff.jpg",
+      "summary": "IT之家 8 月 11 日消息，型号为 V2573A 的 iQOO Neo11 至尊版手机已现身中国电信终端产品库，拥有 8GB+256GB、12GB+256GB、12GB+512GB、16G+256G、16G+512G 五种规格版本，产品零售价格尚未公布。 相关页面显示， iQOO Neo11 至尊版手机配备 6.83 英寸居中单挖孔屏 （从窄边框的设计…",
+      "tags": [
+        "vivo",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-96bfe601276c",
+      "title": "6 things I regularly do on my Pixel that are unimaginable on an iPhone",
+      "source": "Android Authority",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-11",
+      "time": "09:30",
+      "publishedAt": "2026-08-11T09:30:41.000Z",
+      "url": "https://www.androidauthority.com/regular-pixel-features-not-possible-iphone-3694392/",
+      "image": "",
+      "summary": "Maybe one day Apple will catch up.",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-753e42c73bff",
       "title": "The Galaxy Z Fold 8 just passed a bend test, but old weaknesses remain",
@@ -202,26 +342,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-8d36bb720a75",
-      "title": "卢伟冰：小米是全球第三家、国内首家能从发光材料层做自研的厂商",
-      "source": "IT之家",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-11",
-      "time": "07:15",
-      "publishedAt": "2026-08-11T07:15:42.000Z",
-      "url": "https://www.ithome.com/0/988/317.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/8/62ffe839-44e5-448d-8961-a4a6f95f14fb.png",
-      "summary": "IT之家 8 月 11 日消息，今天（10 日）下午，小米集团合伙人兼总裁、手机部总裁、小米品牌总经理 @卢伟冰 转发央视新闻有关“REDMI K100 Pro 系列搭载‘超级像素屏’”的微博，并配文： 小米是 全球第三家、国内首家 能从发光材料层做自研的厂商，我们在屏幕技术上的投入是长期的、坚定的。去年我们打造了自研红色主材， 今年又突破了绿色主材 。这…",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "coolapk-user-a12faf44165f",
       "title": "JSCHEN小小狐：OPPO A7 新机入网：中屏 / 横向跑道 Deco",
       "source": "JSCHEN小小狐",
@@ -239,26 +359,6 @@ window.phoneRadarAuto = {
         "OPPO",
         "爆料",
         "酷安博主"
-      ]
-    },
-    {
-      "id": "auto-60a825c14616",
-      "title": "谷歌 Pixel 11 系列 4 款手机渲染图曝光",
-      "source": "IT之家",
-      "brand": "Pixel",
-      "model": "Pixel 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-11",
-      "time": "07:10",
-      "publishedAt": "2026-08-11T07:10:13.000Z",
-      "url": "https://www.ithome.com/0/988/302.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/8/e4bfafac-e771-4229-8814-52ec1643c252.png?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 8 月 11 日消息，科技媒体 YtechB 昨日（8 月 10 日）发布博文，分享了一组渲染图， 展示了谷歌 Pixel 11、Pixel 11 Pro、Pixel 11 Pro XL 和 Pixel 11 Pro Fold 四款手机。 Pixel 11 Pro Fold 颜色方面，消息称谷歌 Pixel 11 Pro Fold 会配备曜石黑（…",
-      "tags": [
-        "Pixel",
-        "爆料",
-        "自动抓取"
       ]
     },
     {
@@ -502,26 +602,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "coolapk-user-afb3c520c41a",
-      "title": "竹本青：iQOO Neo11 至尊版 「乘风」配色官图公布：视觉3D流光，金属中框",
-      "source": "竹本青",
-      "brand": "vivo",
-      "model": "vivo 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-08-11",
-      "time": "02:03",
-      "publishedAt": "2026-08-11T02:03:59.000Z",
-      "url": "https://www.coolapk.com/feed/73178186",
-      "image": "http://image.coolapk.com/feed/2026/0811/10/4248714_495efc81_3833_7509_428@2000x2667.jpg",
-      "summary": "【iQOO Neo11 至尊版 「乘风」配色官图公布：视觉3D流光，金属中框】 ▫️视觉3D流光效果 ▫️9.13mm大R角 ▫️哑光金属中框 ▫️全新横置DECO #iQOONeo11至尊版# #今日热点# #OriginOS6#",
-      "tags": [
-        "vivo",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
       "id": "weibo-2cd9e7f5fae8",
       "title": "数码闲聊站：独家信息：之前说过2nm Pro系列是居中大圆Deco，6.37\"± 6.85…",
       "source": "数码闲聊站",
@@ -622,26 +702,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-e67a0b4d7c4b",
-      "title": "用个一两周手机就特别卡，狂杀后台，要重启才流畅点",
-      "source": "酷安热榜",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-08-11",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73155342",
-      "image": "",
-      "summary": "用个一两周手机就特别卡，狂杀后台，要重启才流畅点",
-      "tags": [
-        "行业",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
       "id": "newsnow-75b157137a06",
       "title": "安卓年年说超越iPhone，在销量面前有点搞笑了[受虐滑稽]",
       "source": "酷安热榜",
@@ -682,19 +742,19 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-a57b8cef7761",
-      "title": "手机NFC功能不要随便打开",
-      "source": "今日头条热榜",
+      "id": "newsnow-e67a0b4d7c4b",
+      "title": "用个一两周手机就特别卡，狂杀后台，要重启才流畅点",
+      "source": "酷安热榜",
       "brand": "行业",
       "model": "智能手机市场",
       "type": "爆料",
-      "trust": "媒体汇总",
+      "trust": "高关注爆料源",
       "date": "2026-08-11",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.toutiao.com/trending/7672232082655182884/",
+      "url": "https://www.coolapk.com/feed/73155342",
       "image": "",
-      "summary": "手机NFC功能不要随便打开",
+      "summary": "用个一两周手机就特别卡，狂杀后台，要重启才流畅点",
       "tags": [
         "行业",
         "爆料",
@@ -1157,26 +1217,6 @@ window.phoneRadarAuto = {
       "summary": "A new TrendForce analysis estimates that Apple will pay 38% more for iPhone 18 Pro components than it did for its predecessor. Unsurprisingly, the biggest hike is in the cost of m…",
       "tags": [
         "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-028e7ad2e8b7",
-      "title": "Huawei Pura 90 flagship could soon get an affordable model",
-      "source": "Huawei Central",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-10",
-      "time": "09:34",
-      "publishedAt": "2026-08-10T09:34:42.000Z",
-      "url": "https://www.huaweicentral.com/huawei-pura-90-flagship-could-soon-get-an-affordable-model/",
-      "image": "https://www.huaweicentral.com/wp-content/uploads/2026/07/huawei-pura-90s-pro-max.jpg",
-      "summary": "Rumors have it that Huawei could soon launch an affordable model for the Pura 90 series flagship. After launching the S-tagged high-end models in the global market, the company is…",
-      "tags": [
-        "Huawei",
         "爆料",
         "自动抓取"
       ]

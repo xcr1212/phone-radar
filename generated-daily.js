@@ -1,5 +1,5 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-08-11T09:12:37.316Z",
+  "updatedAt": "2026-08-11T11:03:41.463Z",
   "issueDate": "2026-08-11",
   "issue": "VOL.260811",
   "title": "手机情报日报",
@@ -138,6 +138,53 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
+          "id": "auto-7c65d690efbc",
+          "title": "三星在韩国线下旗舰店举办展览会，展示 Galaxy Z Fold 系列折叠屏手机七年进化历程",
+          "originalTitle": "",
+          "source": "IT之家",
+          "brand": "Samsung",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-08-11",
+          "time": "10:42",
+          "publishedAt": "2026-08-11T10:42:58.000Z",
+          "url": "https://www.ithome.com/0/988/455.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/8/4b60708c-f75e-4f8e-bcdb-b418e5457742.png",
+          "verdict": "先看",
+          "takeaway": "IT之家 8 月 11 日消息，据韩媒 The Elec 报道，三星电子昨日在韩国开设“可折叠的传承”展览，希望借此展示 Galaxy Z Fold / Flip 系列折叠屏手机过去七年来的进化历程。 IT之家从原报道获悉， 该展览目前已在韩国三星江南旗舰店正式开放 ， 并作为永久展览运营 。三星还计划在弘大、清潭的线下门店设立相同展示空间。 该展览被分为…",
+          "detail": "IT之家 8 月 11 日消息，据韩媒 The Elec 报道，三星电子昨日在韩国开设“可折叠的传承”展览，希望借此展示 Galaxy Z Fold / Flip 系列折叠屏手机过去七年来的进化历程。 IT之家从原报道获悉， 该展览目前已在韩国三星江南旗舰店正式开放 ， 并作为永久展览运营 。三星还计划在弘大、清潭的线下门店设立相同展示空间。 该展览被分为…",
+          "keyPoints": [
+            "屏幕形态"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "auto-86f1ed19cf07",
+          "title": "iQOO Neo11 至尊版手机现身中国电信终端产品库：天玑 9500 定制处理器，8 月 18 日发布",
+          "originalTitle": "",
+          "source": "IT之家",
+          "brand": "vivo",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-08-11",
+          "time": "09:30",
+          "publishedAt": "2026-08-11T09:30:58.000Z",
+          "url": "https://www.ithome.com/0/988/421.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/8/c90c45db-ec20-4adb-939e-417ff8b2e2ff.jpg",
+          "verdict": "先看",
+          "takeaway": "IT之家 8 月 11 日消息，型号为 V2573A 的 iQOO Neo11 至尊版手机已现身中国电信终端产品库，拥有 8GB+256GB、12GB+256GB、12GB+512GB、16G+256G、16G+512G 五种规格版本，产品零售价格尚未公布。 相关页面显示， iQOO Neo11 至尊版手机配备 6.83 英寸居中单挖孔屏 （从窄边框的设计…",
+          "detail": "IT之家 8 月 11 日消息，型号为 V2573A 的 iQOO Neo11 至尊版手机已现身中国电信终端产品库，拥有 8GB+256GB、12GB+256GB、12GB+512GB、16G+256G、16G+512G 五种规格版本，产品零售价格尚未公布。 相关页面显示， iQOO Neo11 至尊版手机配备 6.83 英寸居中单挖孔屏 （从窄边框的设计…",
+          "keyPoints": [
+            "芯片 / 性能",
+            "成本 / 价格"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
           "id": "auto-09dfcecc4ca1",
           "title": "iQOO Z11S 手机官宣搭载 iQOO 迄今最大 10000mAh 蓝海电池，宁德新能源联合研发",
           "originalTitle": "",
@@ -155,54 +202,6 @@ window.phoneRadarDaily = {
           "detail": "IT之家 8 月 11 日消息，iQOO 官方今日宣布，iQOO Z11S 新机将搭载 10000mAh 蓝海大电池，这也是 iQOO 迄今最大的蓝海电池， 采用单电芯设计 ，由宁德新能源联合研发。 iQOO 官方今日还放出了新机电池核心亮点，包括续航长、低温稳定运行、长寿材质、能效优化等。IT之家注意到， 该机还将兼容 44W PD / PPS 协议、4…",
           "keyPoints": [
             "电池 / 充电"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "auto-b26ca7c0f50d",
-          "title": "谷歌官方发布 Pixel 11 Pro 手机预热视频，新机 8 月 13 日发布",
-          "originalTitle": "",
-          "source": "IT之家",
-          "brand": "Pixel",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-08-11",
-          "time": "08:03",
-          "publishedAt": "2026-08-11T08:03:35.000Z",
-          "url": "https://www.ithome.com/0/988/362.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/8/57de44c5-12a3-46da-baa2-47faec3b4e6e.jpg?x-bce-process=image/format,f_auto",
-          "verdict": "先看",
-          "takeaway": "IT之家 8 月 11 日消息，谷歌官方现已在 YouTube 平台发布 Pixel 11 Pro 手机的预热视频， 展示新机的外观设计 。 结合IT之家此前援引 Android Headlines 消息，谷歌 Pixel 11 Pro 采用 6.3 英寸屏幕， 升级为 Super Actua OLED LTPO 面板 ，支持 1Hz 至 120Hz 自适…",
-          "detail": "IT之家 8 月 11 日消息，谷歌官方现已在 YouTube 平台发布 Pixel 11 Pro 手机的预热视频， 展示新机的外观设计 。 结合IT之家此前援引 Android Headlines 消息，谷歌 Pixel 11 Pro 采用 6.3 英寸屏幕， 升级为 Super Actua OLED LTPO 面板 ，支持 1Hz 至 120Hz 自适…",
-          "keyPoints": [
-            "外观 / 配色 / 尺寸",
-            "屏幕形态"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "auto-60a825c14616",
-          "title": "谷歌 Pixel 11 系列 4 款手机渲染图曝光",
-          "originalTitle": "",
-          "source": "IT之家",
-          "brand": "Pixel",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-08-11",
-          "time": "07:10",
-          "publishedAt": "2026-08-11T07:10:13.000Z",
-          "url": "https://www.ithome.com/0/988/302.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/8/e4bfafac-e771-4229-8814-52ec1643c252.png?x-bce-process=image/format,f_auto",
-          "verdict": "先看",
-          "takeaway": "IT之家 8 月 11 日消息，科技媒体 YtechB 昨日（8 月 10 日）发布博文，分享了一组渲染图， 展示了谷歌 Pixel 11、Pixel 11 Pro、Pixel 11 Pro XL 和 Pixel 11 Pro Fold 四款手机。 Pixel 11 Pro Fold 颜色方面，消息称谷歌 Pixel 11 Pro Fold 会配备曜石黑（…",
-          "detail": "IT之家 8 月 11 日消息，科技媒体 YtechB 昨日（8 月 10 日）发布博文，分享了一组渲染图， 展示了谷歌 Pixel 11、Pixel 11 Pro、Pixel 11 Pro XL 和 Pixel 11 Pro Fold 四款手机。 Pixel 11 Pro Fold 颜色方面，消息称谷歌 Pixel 11 Pro Fold 会配备曜石黑（…",
-          "keyPoints": [
-            "外观 / 配色 / 尺寸",
-            "爆料来源"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
