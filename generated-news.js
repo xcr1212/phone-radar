@@ -1,6 +1,106 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-08-11T13:41:15.862Z",
+  "updatedAt": "2026-08-11T15:15:12.134Z",
   "news": [
+    {
+      "id": "coolapk-user-de2247aca2d6",
+      "title": "竹本青：【卢伟冰：未来随着新机陆续发布，大家一定会感觉 K100 Pro系列 越来越香】 8月11日，REDMI K100…",
+      "source": "竹本青",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-08-11",
+      "time": "15:09",
+      "publishedAt": "2026-08-11T15:09:01.000Z",
+      "url": "https://www.coolapk.com/feed/73190545",
+      "image": "http://image.coolapk.com/feed/2026/0811/23/4248714_01489d94_0940_1153_920@1272x2692.jpg",
+      "summary": "【卢伟冰：未来随着新机陆续发布，大家一定会感觉 K100 Pro系列 越来越香】 8月11日，REDMI K100 Pro系列 正式发布，全系搭载185Hz RGB M11直屏。Pro首发3699元起；Pro Max首发4199元起。 发布当晚，针对网上的价格讨论，卢伟冰回应称：未来随着新机陆续发布，大家一定会感觉 K100 Pro系列 越来越香。 #RE…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-e36b6d2aefb1",
+      "title": "Ulefone 推出 Armor 22 Pro/24 Pro 三防手机，联发科 Helio G200 芯片",
+      "source": "IT之家",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-11",
+      "time": "15:03",
+      "publishedAt": "2026-08-11T15:03:04.000Z",
+      "url": "https://www.ithome.com/0/988/526.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/8/5d33061c-557e-463b-9b15-82af052fd42d.jpg?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 8 月 11 日消息，Ulefone 现已宣布推出 Armor 22 Pro 和 Armor 24 Pro 两款三防智能手机，新品配备联发科 Helio G200 芯片，均支持 eSIM。 据介绍，Armor 22 Pro 的机身厚度为 15mm， 搭载联发科 Helio G200 处理器 。拥有 6400 万像素主摄、6400 万像素夜视镜头。…",
+      "tags": [
+        "行业",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-1eb64d6b05ec",
+      "title": "竹本青：【小米 17系列 最新销量曝光：全系突破591万台，Ultra约23.9万台】 8月11日，博主「RD观测」分享第…",
+      "source": "竹本青",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-08-11",
+      "time": "14:38",
+      "publishedAt": "2026-08-11T14:38:32.000Z",
+      "url": "https://www.coolapk.com/feed/73190052",
+      "image": "http://image.coolapk.com/feed/2026/0811/22/4248714_fba5b1e2_9111_3439_399@1440x512.jpg",
+      "summary": "【小米 17系列 最新销量曝光：全系突破591万台，Ultra约23.9万台】 8月11日，博主「RD观测」分享第三方数据：截至2026年第31周，小米 17系列累计销量约591.76万台；其中，Ultra约23.94万台。 前几周数据如下： 小米 17系列 截至2026 W30 —— 约583.9万 截至2026 W29 —— 约576.3万 截至202…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-d2f039b7bae0",
+      "title": "iPhone 18 Pro Will Reportedly Start With 256GB of Storage",
+      "source": "MacRumors",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-11",
+      "time": "13:50",
+      "publishedAt": "2026-08-11T13:50:27.000Z",
+      "url": "https://www.macrumors.com/2026/08/11/iphone-18-pro-base-256gb-storage-report/",
+      "image": "https://images.macrumors.com/article-new/2026/08/iPhone-18-Pro-Dark-Cherry-Feature.jpg",
+      "summary": "While the iPhone 17 Pro has double the base storage compared to the iPhone 16 Pro, there will apparently be no further increase this year. In a report this week estimating that th…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-5bc982e46cc1",
+      "title": "Galaxy Z Fold 8’s wider shape still survives bend test, teardown shows off titanium and poor Qi placement [Video]",
+      "source": "9to5Google",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-11",
+      "time": "13:50",
+      "publishedAt": "2026-08-11T13:50:00.000Z",
+      "url": "https://9to5google.com/2026/08/11/galaxy-z-fold-8-bend-test-teardown/",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/08/fold-8-bend-test-qi-placement-1.jpg?quality=82&strip=all&w=1600",
+      "summary": "Durability is perhaps the single-biggest hesitation about folding phones, but Samsung has proven time and time again that its foldables are rather strong and resilient. Despite it…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-91fc1233e42c",
       "title": "I tested the Galaxy Z Fold 8 Ultra and Razr Fold's cameras at a Lego event. The winner was a shock",
@@ -282,46 +382,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-e13edbc0ec7b",
-      "title": "索尼与台积电成立先进图像传感器合资公司，2029 年量产",
-      "source": "IT之家",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-11",
-      "time": "09:46",
-      "publishedAt": "2026-08-11T09:46:53.000Z",
-      "url": "https://www.ithome.com/0/988/430.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/8/9dac4961-4bae-432a-a732-2d232ab89d1c.jpg",
-      "summary": "IT之家 8 月 11 日消息，今日，索尼半导体解决方案公司与台积电宣布签署最终合作协议，将在日本熊本县合志市成立合资公司 Advanced Vision Semiconductor Manufacturing Corporation。 该合资公司将采用先进制程技术，负责智能手机图像传感器量产所需的研发与制造活动，预计 2029 年开始量产。 根据协议，索…",
-      "tags": [
-        "行业",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-86f1ed19cf07",
-      "title": "iQOO Neo11 至尊版手机现身中国电信终端产品库：天玑 9500 定制处理器，8 月 18 日发布",
-      "source": "IT之家",
-      "brand": "vivo",
-      "model": "vivo 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-11",
-      "time": "09:30",
-      "publishedAt": "2026-08-11T09:30:58.000Z",
-      "url": "https://www.ithome.com/0/988/421.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/8/c90c45db-ec20-4adb-939e-417ff8b2e2ff.jpg",
-      "summary": "IT之家 8 月 11 日消息，型号为 V2573A 的 iQOO Neo11 至尊版手机已现身中国电信终端产品库，拥有 8GB+256GB、12GB+256GB、12GB+512GB、16G+256G、16G+512G 五种规格版本，产品零售价格尚未公布。 相关页面显示， iQOO Neo11 至尊版手机配备 6.83 英寸居中单挖孔屏 （从窄边框的设计…",
-      "tags": [
-        "vivo",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-96bfe601276c",
       "title": "6 things I regularly do on my Pixel that are unimaginable on an iPhone",
       "source": "Android Authority",
@@ -377,26 +437,6 @@ window.phoneRadarAuto = {
       "summary": "The 45W Galaxy Z Fold 8 needs the right charger, not necessarily a Samsung one.",
       "tags": [
         "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-4545945221b9",
-      "title": "荣耀 Robot Phone 超前品鉴会明日起在南京、深圳、成都、太原、福州、昆明六城举办",
-      "source": "IT之家",
-      "brand": "HONOR",
-      "model": "HONOR 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-11",
-      "time": "08:38",
-      "publishedAt": "2026-08-11T08:38:17.000Z",
-      "url": "https://www.ithome.com/0/988/375.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/8/6fe5911c-479b-43fe-88df-3937e7b3d8a2.jpg?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 8 月 11 日消息，荣耀官方今天宣布，Robot Phone 超前品鉴将从明天起在南京、深圳、成都、太原、福州、昆明六城举办。 据官方介绍，本次活动提供真机上手体验环节， 用户可现场体验这款配备云台相机的手机产品 。同时产品专家还将现场分享使用技巧，用户可以现场将使用体验反馈给产品经理。 IT之家附本次活动具体举行时间地点如下： 时间 地点 8…",
-      "tags": [
-        "HONOR",
         "爆料",
         "自动抓取"
       ]
@@ -499,26 +539,6 @@ window.phoneRadarAuto = {
         "Pixel",
         "爆料",
         "自动抓取"
-      ]
-    },
-    {
-      "id": "coolapk-user-63ea1089954d",
-      "title": "竹本青：卢伟冰：小米是国内首家能从发光材料层做自研的厂商",
-      "source": "竹本青",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-08-11",
-      "time": "06:54",
-      "publishedAt": "2026-08-11T06:54:25.000Z",
-      "url": "https://www.coolapk.com/feed/73182253",
-      "image": "http://image.coolapk.com/feed/2026/0811/14/4248714_a8b4a687_1264_4659_321@1271x1382.jpg",
-      "summary": "【卢伟冰：小米是国内首家能从发光材料层做自研的厂商】 8月11日，央视新闻发布视频报道称，REDMI K100 Pro系列将搭载“超级像素屏”，该屏幕采用了小米与清华大学团队合作落地的第四代OLED显示技术。 随后下午，小米高管卢伟冰转发相关报道，并配文进一步透露：小米是全球第三家、国内首家能从发光材料层做自研的厂商，我们在屏幕技术上的投入是长期的、坚定的…",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "酷安博主"
       ]
     },
     {
@@ -978,46 +998,6 @@ window.phoneRadarAuto = {
       "tags": [
         "Pixel",
         "评测",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-49a9fd182a53",
-      "title": "iPhone 18 Pro Max's Larger Battery Capacity Allegedly Revealed",
-      "source": "MacRumors",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-10",
-      "time": "16:37",
-      "publishedAt": "2026-08-10T16:37:54.000Z",
-      "url": "https://www.macrumors.com/2026/08/10/iphone-18-pro-max-battery-capacity-rumor/",
-      "image": "https://images.macrumors.com/article-new/2026/02/iPhone-18-Pro-Deep-Red-Feature.jpg",
-      "summary": "The upcoming iPhone 18 Pro Max will be equipped with a nearly 12% larger battery compared to the iPhone 17 Pro Max, according to an apparent leak. An alleged photo of a battery pa…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-fe1d6d6fef6c",
-      "title": "Apple's All-Glass 20th Anniversary iPhone Reportedly Canceled",
-      "source": "MacRumors",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-10",
-      "time": "16:14",
-      "publishedAt": "2026-08-10T16:14:52.000Z",
-      "url": "https://www.macrumors.com/2026/08/10/all-glass-20th-anniversary-iphone-canceled/",
-      "image": "https://images.macrumors.com/article-new/2026/07/iphone-20-anniversary.jpg",
-      "summary": "Apple's rumored all-glass iPhone expected to mark the device's 20th anniversary has been canceled, according to Jefferies analyst Edison Lee. Rumors have circulated since at least…",
-      "tags": [
-        "iPhone",
-        "爆料",
         "自动抓取"
       ]
     },
