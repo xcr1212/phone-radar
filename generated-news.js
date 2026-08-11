@@ -1,6 +1,206 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-08-11T11:03:41.463Z",
+  "updatedAt": "2026-08-11T13:41:15.862Z",
   "news": [
+    {
+      "id": "auto-91fc1233e42c",
+      "title": "I tested the Galaxy Z Fold 8 Ultra and Razr Fold's cameras at a Lego event. The winner was a shock",
+      "source": "Android Police",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-11",
+      "time": "13:30",
+      "publishedAt": "2026-08-11T13:30:16.000Z",
+      "url": "https://www.androidpolice.com/galaxy-z-fold-8-ultra-vs-razr-fold-camera-test-at-a-lego-event/",
+      "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2026/08/z-fold-8-ultra-razr-fold.JPG",
+      "summary": "Which is the telephoto superstar?",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-cb03db571bd8",
+      "title": "Making sense of the conflicting 20th anniversary iPhone reports",
+      "source": "9to5Mac",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-11",
+      "time": "13:18",
+      "publishedAt": "2026-08-11T13:18:16.000Z",
+      "url": "https://9to5mac.com/2026/08/11/making-sense-of-the-conflicting-20th-anniversary-iphone-reports/",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/06/iPhone-20th-anniversary-mockup-ios26-03.jpg?quality=82&strip=all&w=1600",
+      "summary": "Yesterday saw two conflicting reports about next year’s 20th anniversary iPhone , said to embody Apple’s long-term vision of “a single slab of glass.” There have already been cont…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-bee9bcb07ff9",
+      "title": "Redmi K100 Pro and K100 Pro Max launched with up to 9,070mAh battery and 200MP camera",
+      "source": "Gizmochina",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-11",
+      "time": "12:20",
+      "publishedAt": "2026-08-11T12:20:47.000Z",
+      "url": "https://www.gizmochina.com/2026/08/11/redmi-k100-pro-and-k100-pro-max-launched-with-up-to-9070mah-battery-and-200mp-camera/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/08/Redmi-K100-Pro-Launch-Specs-Price-300x200.jpg?x23692",
+      "summary": "Xiaomi has officially launched the new Redmi K100 Pro and K100 Pro Max in China. Both smartphones come with Qualcomm’s flagship processor, high-refresh-rate OLED displays, large b…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "weibo-ff324f7988dd",
+      "title": "数码闲聊站：REDMI K100 Pro，这首发价格可还行？ 12GB+256GB——36…",
+      "source": "数码闲聊站",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-08-11",
+      "time": "11:52",
+      "publishedAt": "2026-08-11T11:52:17.000Z",
+      "url": "https://weibo.com/6048569942/RcVFT1mlT",
+      "image": "",
+      "summary": "REDMI K100 Pro，这首发价格可还行？ 12GB+256GB——3699元/原价3999 16GB+256GB——4099元/原价4399 12GB+512GB——4299元/原价4599 16GB+512GB——4699元/原价4999 REDMI K100 Pro Max，这首发价格可还行？ 12GB+256GB——4199元/原价4499元…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "微博"
+      ]
+    },
+    {
+      "id": "auto-e9ded44a3e4d",
+      "title": "Huawei testing 7.6′ and 6.3′ main screens for Pura X2 series",
+      "source": "Huawei Central",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-11",
+      "time": "11:40",
+      "publishedAt": "2026-08-11T11:40:21.000Z",
+      "url": "https://www.huaweicentral.com/huawei-testing-7-6-and-6-3-main-screens-for-pura-x2-series/",
+      "image": "https://www.huaweicentral.com/wp-content/uploads/2026/05/PuraXMax-image.jpg",
+      "summary": "Huawei Pura X Max is receiving a lot of attention in the consumer market and the next-gen wide foldable phones have started making buzz in leaks. A new piece of information sugges…",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-4787093e3af7",
+      "title": "竹本青：【REDMI K100 Pro系列 正式发布：185Hz RGB直屏，骁龙8E5/5V，首发3699元起】 RED…",
+      "source": "竹本青",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-08-11",
+      "time": "11:38",
+      "publishedAt": "2026-08-11T11:38:34.000Z",
+      "url": "https://www.coolapk.com/feed/73186638",
+      "image": "http://image.coolapk.com/feed/2026/0811/19/4248714_c3a6a759_8371_3596_605@1440x3737.jpg",
+      "summary": "【REDMI K100 Pro系列 正式发布：185Hz RGB直屏，骁龙8E5/5V，首发3699元起】 REDMI K100 Pro 12GB+256GB —— 3699元 16GB+256GB —— 4099元 12GB+512GB —— 4299元 16GB+512GB —— 4699元 REDMI K100 Pro Max 12GB+256GB…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "coolapk-user-733866609894",
+      "title": "竹本青：【REDMI K100 Pro Max 正式发布：骁龙8E5，185Hz RGB直屏，独立后扬，首发4199元起】…",
+      "source": "竹本青",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-08-11",
+      "time": "11:37",
+      "publishedAt": "2026-08-11T11:37:17.000Z",
+      "url": "https://www.coolapk.com/feed/73186596",
+      "image": "http://image.coolapk.com/feed/2026/0811/19/4248714_71375aef_8350_8965_474@1440x3737.jpg",
+      "summary": "【REDMI K100 Pro Max 正式发布：骁龙8E5，185Hz RGB直屏，独立后扬，首发4199元起】 12GB+256GB —— 4199元 16GB+256GB —— 4599元 12GB+512GB —— 4799元 16GB+512GB —— 5199元 16GB+1TB —— 5999元（限量2万台） 核心： ● 骁龙8 Elite…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "coolapk-user-b54d2849ce92",
+      "title": "竹本青：【REDMI K100 Pro 正式发布：骁龙8E5V 处理器，185Hz RGB中直屏，首发3699元起】 12…",
+      "source": "竹本青",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-08-11",
+      "time": "11:35",
+      "publishedAt": "2026-08-11T11:35:40.000Z",
+      "url": "https://www.coolapk.com/feed/73186566",
+      "image": "http://image.coolapk.com/feed/2026/0811/19/4248714_c3a6a759_8170_2543_283@1440x3737.jpg",
+      "summary": "【REDMI K100 Pro 正式发布：骁龙8E5V 处理器，185Hz RGB中直屏，首发3699元起】 12GB+256GB —— 3699元 16GB+256GB —— 4099元 12GB+512GB —— 4299元 16GB+512GB —— 4699元 核心： ● 骁龙8 Elite Gen5V Series+独显芯片D2 ● 6.59\"1…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "coolapk-user-4695d6bff463",
+      "title": "竹本青：这视频……，太浮夸了",
+      "source": "竹本青",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-08-11",
+      "time": "11:26",
+      "publishedAt": "2026-08-11T11:26:52.000Z",
+      "url": "https://www.coolapk.com/feed/73186426",
+      "image": "",
+      "summary": "这视频……，太浮夸了",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-dad72904d603",
+      "title": "一加 LCD 屏新机曝光：天玑 6360 处理器、8000mAh 电池，支持 120Hz 高刷",
+      "source": "IT之家",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-11",
+      "time": "11:04",
+      "publishedAt": "2026-08-11T11:04:09.000Z",
+      "url": "https://www.ithome.com/0/988/465.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/8/c0d7978f-0d1d-4476-996b-460ba7befc0a.png",
+      "summary": "IT之家 8 月 11 日消息，博主 @熊猫很禿然 今日曝光了一款一加新机（具体机型暂未公布）。 该机配备 6.75 英寸 720P 120Hz LCD 屏 ，内置 8000mAh，支持 45W 快充。 另外， 这款手机还搭载了天玑 6360 处理器 ，厚度约 8.8mm，重约 224g。 据IT之家此前报道， 一加在今年 6 月底面向海外发布了一加 N6…",
+      "tags": [
+        "OPPO",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-accfbea5f275",
       "title": "Early OnePlus 16 hype suggests firm may have ditched its key markets too soon",
@@ -202,46 +402,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-09dfcecc4ca1",
-      "title": "iQOO Z11S 手机官宣搭载 iQOO 迄今最大 10000mAh 蓝海电池，宁德新能源联合研发",
-      "source": "IT之家",
-      "brand": "vivo",
-      "model": "vivo 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-11",
-      "time": "08:08",
-      "publishedAt": "2026-08-11T08:08:06.000Z",
-      "url": "https://www.ithome.com/0/988/363.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/8/3aba06fc-83c7-47a8-bab8-5fcaf88d18b8.jpg?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 8 月 11 日消息，iQOO 官方今日宣布，iQOO Z11S 新机将搭载 10000mAh 蓝海大电池，这也是 iQOO 迄今最大的蓝海电池， 采用单电芯设计 ，由宁德新能源联合研发。 iQOO 官方今日还放出了新机电池核心亮点，包括续航长、低温稳定运行、长寿材质、能效优化等。IT之家注意到， 该机还将兼容 44W PD / PPS 协议、4…",
-      "tags": [
-        "vivo",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-b26ca7c0f50d",
-      "title": "谷歌官方发布 Pixel 11 Pro 手机预热视频，新机 8 月 13 日发布",
-      "source": "IT之家",
-      "brand": "Pixel",
-      "model": "Pixel 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-11",
-      "time": "08:03",
-      "publishedAt": "2026-08-11T08:03:35.000Z",
-      "url": "https://www.ithome.com/0/988/362.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/8/57de44c5-12a3-46da-baa2-47faec3b4e6e.jpg?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 8 月 11 日消息，谷歌官方现已在 YouTube 平台发布 Pixel 11 Pro 手机的预热视频， 展示新机的外观设计 。 结合IT之家此前援引 Android Headlines 消息，谷歌 Pixel 11 Pro 采用 6.3 英寸屏幕， 升级为 Super Actua OLED LTPO 面板 ，支持 1Hz 至 120Hz 自适…",
-      "tags": [
-        "Pixel",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-0e170bbfaac8",
       "title": "Huawei and DJI mobile camera solutions may show up with Mate 90",
       "source": "Huawei Central",
@@ -257,26 +417,6 @@ window.phoneRadarAuto = {
       "summary": "News regarding Huawei and DJI suggests that their collaborative camera features could show up with the Mate 90 series. While the imaging solutions were expected to debut next year…",
       "tags": [
         "Huawei",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-baa0f64164b2",
-      "title": "可维修模块化手机 Fairphone 6+ 手机曝光：12GB 内存，3 种配件",
-      "source": "IT之家",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-11",
-      "time": "07:39",
-      "publishedAt": "2026-08-11T07:39:00.000Z",
-      "url": "https://www.ithome.com/0/988/349.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/8/35d75a38-a10d-437d-9b30-83d99b293474.png",
-      "summary": "IT之家 8 月 11 日消息，荷兰科技媒体 nieuwemobiel 昨日（8 月 10 日）发布博文，分享了一组渲染图，展示了可维修模块化手机 Fairphone 6+ 手机。 颜色方面，IT之家此前报道， Fairphone 6+ 会有蓝色（Cobalt Blue）、黑色（Horizon Black）以及绿色（Forest Green）三种颜色。 F…",
-      "tags": [
-        "行业",
         "爆料",
         "自动抓取"
       ]
@@ -317,26 +457,6 @@ window.phoneRadarAuto = {
       "summary": "Samsung is seeing incredible demand for the Galaxy Z Fold 8. The company has increased production by one million units to meet the demand following the successful pre-order rush.…",
       "tags": [
         "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-57b85dc997ee",
-      "title": "增幅 11.78%：苹果 iPhone 18 Pro Max 电池实物曝光，5391 mAh",
-      "source": "IT之家",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-11",
-      "time": "07:24",
-      "publishedAt": "2026-08-11T07:24:49.000Z",
-      "url": "https://www.ithome.com/0/988/330.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/8/8bbfb19c-6155-4c9a-a47c-218c594b5417.jpg?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 8 月 11 日消息，消息源 Yeux1122 昨日（8 月 10 日）在 Naver 博客上发帖， 分享了一组实物照片，展示了苹果 iPhone 18 Pro Max 电池细节。 根据电池外壳上印刷的监管信息，该电池标称容量为 5391 mAh， 符合今年 7 月流出的电池爆料信息 ，相比较 iPhone 17 Pro Max（4823mAh）…",
-      "tags": [
-        "iPhone",
         "爆料",
         "自动抓取"
       ]
@@ -482,26 +602,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "coolapk-user-cc85c6561d62",
-      "title": "竹本青：消息称荣耀手机试产12000mAh新电池",
-      "source": "竹本青",
-      "brand": "HONOR",
-      "model": "HONOR 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-08-11",
-      "time": "03:39",
-      "publishedAt": "2026-08-11T03:39:12.000Z",
-      "url": "https://www.coolapk.com/feed/73179583",
-      "image": "http://image.coolapk.com/feed/2026/0811/11/4248714_d159332b_9552_0531_412@1439x505.jpg",
-      "summary": "【消息称荣耀手机试产12000mAh新电池】 ● 典型值：12000mAh± ● 额定容量：11790mAh ● 额定能量：43.86Wh #今日热点# #荣耀# #MagicOS11#",
-      "tags": [
-        "HONOR",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
       "id": "weibo-65e3649e7a1f",
       "title": "数码闲聊站：荣耀一块新电池试产了，额定容量11790mAh，额定能量43.86Wh，典型值…",
       "source": "数码闲聊站",
@@ -559,26 +659,6 @@ window.phoneRadarAuto = {
         "iPhone",
         "爆料",
         "自动抓取"
-      ]
-    },
-    {
-      "id": "coolapk-user-46abb54a5469",
-      "title": "竹本青：iQOO Neo11 至尊版首发新一代「2K护眼超冠」屏",
-      "source": "竹本青",
-      "brand": "vivo",
-      "model": "vivo 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-08-11",
-      "time": "03:01",
-      "publishedAt": "2026-08-11T03:01:24.000Z",
-      "url": "https://www.coolapk.com/feed/73179021",
-      "image": "http://image.coolapk.com/feed/2026/0811/11/4248714_a6e5d44f_7280_7156_15@2000x2667.jpg",
-      "summary": "【iQOO Neo11 至尊版 屏幕预热：首发新一代「2K护眼超冠」屏】 ● 全球首发F2发光材料 ● 2000nits全屏峰值亮度 ● 98%首帧亮度比 ● 相较上代功耗降低24% #今日热点# #OriginOS6# #iQOONeo11至尊版#",
-      "tags": [
-        "vivo",
-        "爆料",
-        "酷安博主"
       ]
     },
     {
@@ -682,6 +762,26 @@ window.phoneRadarAuto = {
       ]
     },
     {
+      "id": "newsnow-4ff1df11b61f",
+      "title": "REDMI K100 Pro 系列发布：首销 3699 元起",
+      "source": "酷安热榜",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-08-11",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/73186553",
+      "image": "",
+      "summary": "REDMI K100 Pro 系列发布：首销 3699 元起",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
       "id": "newsnow-3e04822e5a2d",
       "title": "聊聊手机卡套餐资费",
       "source": "酷安热榜",
@@ -755,26 +855,6 @@ window.phoneRadarAuto = {
       "url": "https://www.coolapk.com/feed/73155342",
       "image": "",
       "summary": "用个一两周手机就特别卡，狂杀后台，要重启才流畅点",
-      "tags": [
-        "行业",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-6bfc53ed7139",
-      "title": "女子称汤泉洗澡遇男孩举手机玩",
-      "source": "百度热搜",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-11",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%A7%B0%E6%B1%A4%E6%B3%89%E6%B4%97%E6%BE%A1%E9%81%87%E7%94%B7%E5%AD%A9%E4%B8%BE%E6%89%8B%E6%9C%BA%E7%8E%A9",
-      "image": "",
-      "summary": "女子称汤泉洗澡遇男孩举手机玩",
       "tags": [
         "行业",
         "爆料",
@@ -942,26 +1022,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-9b2daca8e97e",
-      "title": "Samsung’s old camera design is causing new problems on the Galaxy Z Fold 8",
-      "source": "SamMobile",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-10",
-      "time": "15:51",
-      "publishedAt": "2026-08-10T15:51:49.000Z",
-      "url": "https://www.sammobile.com/opinion/samsung-old-camera-design-causing-problems-galaxy-z-fold-8/",
-      "image": "https://www.sammobile.com/wp-content/uploads/2026/08/20260803_0214291.jpg",
-      "summary": "The Galaxy Z Fold 8 has made me realize that Samsung's smartphone camera design really needs to change. And it took several photos ruined by my own finger for me to come to that r…",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-accb3d37b936",
       "title": "Next year’s iPhone redesign with all-glass look might be canceled: report",
       "source": "9to5Mac",
@@ -977,46 +1037,6 @@ window.phoneRadarAuto = {
       "summary": "Rumors have long indicated that Apple is working on an all-glass new iPhone design for the 20th anniversary next year. But an analyst from Jefferies believes that device is no lon…",
       "tags": [
         "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-3a85c6d5ef12",
-      "title": "Leaker Weighs in on Correct Shade for 'Dark Cherry' iPhone 18 Pro",
-      "source": "MacRumors",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-10",
-      "time": "14:49",
-      "publishedAt": "2026-08-10T14:49:10.000Z",
-      "url": "https://www.macrumors.com/2026/08/10/correct-iphone-18-pro-dark-cherry-shade/",
-      "image": "https://images.macrumors.com/article-new/2026/04/Four-iPhone-18-Pro-Colors-Mock-Feature.jpg",
-      "summary": "A known Weibo leaker has stepped into an ongoing disagreement over exactly how dark the iPhone 18 Pro Max's rumored Dark Cherry color will look, saying the deeper of two shades ci…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-4d57c49b81d8",
-      "title": "Apple's Foldable iPhone Ultra Faces a Surging Samsung Galaxy Z Fold 8",
-      "source": "MacRumors",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-10",
-      "time": "14:41",
-      "publishedAt": "2026-08-10T14:41:31.000Z",
-      "url": "https://www.macrumors.com/2026/08/10/foldable-iphone-faces-surging-galaxy-z-fold-8/",
-      "image": "https://images.macrumors.com/article-new/2026/07/samsung-galaxy-zfold8.jpg",
-      "summary": "Apple's foldable iPhone is expected to arrive in September against a rival already outrunning its own forecasts. ETNews reports Samsung is building an extra one million Galaxy Z F…",
-      "tags": [
-        "Samsung",
         "爆料",
         "自动抓取"
       ]
@@ -1279,46 +1299,6 @@ window.phoneRadarAuto = {
         "OPPO",
         "爆料",
         "自动抓取"
-      ]
-    },
-    {
-      "id": "weibo-3ed821f64ae0",
-      "title": "数码闲聊站：一加16新机疑似入网，支持N79 5G频段，子系唯二骁龙8 Elite Gen…",
-      "source": "数码闲聊站",
-      "brand": "OPPO",
-      "model": "OPPO 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-08-10",
-      "time": "05:36",
-      "publishedAt": "2026-08-10T05:36:00.000Z",
-      "url": "https://weibo.com/6048569942/RcJMEAw68",
-      "image": "https://tvax2.sinaimg.cn/mw2000/006BlblIgy1ifycmegyd9j313p1b2dv8.jpg",
-      "summary": "一加16新机疑似入网，支持N79 5G频段，子系唯二骁龙8 Elite Gen6 Pro，你们对它有何期待？ 子系最窄物理四等边直屏？更极致的超高刷？更激进的三芯性能调度？更大的满血百瓦双电芯？[doge]",
-      "tags": [
-        "OPPO",
-        "爆料",
-        "微博"
-      ]
-    },
-    {
-      "id": "weibo-614cce5ca0ce",
-      "title": "数码闲聊站：iQOO Neo11至尊版，天玑9500定制版处理器，4.21GHz全大核CP…",
-      "source": "数码闲聊站",
-      "brand": "vivo",
-      "model": "vivo 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-08-10",
-      "time": "03:45",
-      "publishedAt": "2026-08-10T03:45:00.000Z",
-      "url": "https://weibo.com/6048569942/RcJ3BjsCn",
-      "image": "",
-      "summary": "iQOO Neo11至尊版，天玑9500定制版处理器，4.21GHz全大核CPU频率不变，GPU砍了一个核心变成MC11；2K国产新直屏，金属中框，双摄横向Deco，9100mAh大电池，百瓦闪充，3D超声波指纹等，一部分性能向用料看齐旗舰[吃瓜] 同期还有Z11S，144Hz+天玑7500+10000mAh",
-      "tags": [
-        "vivo",
-        "爆料",
-        "微博"
       ]
     },
     {

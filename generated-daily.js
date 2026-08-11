@@ -1,12 +1,12 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-08-11T11:03:41.463Z",
+  "updatedAt": "2026-08-11T13:41:15.862Z",
   "issueDate": "2026-08-11",
   "issue": "VOL.260811",
   "title": "手机情报日报",
-  "intro": "今日筛出 8 条重点，其中 8 条是重点爆料，包含 5 条 iPhone 相关、0 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 8 条重点，其中 8 条是重点爆料，包含 4 条 iPhone 相关、0 条官方确认、0 条参数线索。",
   "stats": {
     "total": 8,
-    "iphone": 5,
+    "iphone": 4,
     "leaks": 8,
     "official": 0,
     "specs": 0
@@ -17,54 +17,6 @@ window.phoneRadarDaily = {
       "title": "重点爆料",
       "hint": "机模、配色、影像、屏幕、电池和芯片线索先看。",
       "items": [
-        {
-          "id": "auto-57b85dc997ee",
-          "title": "增幅 11.78%：苹果 iPhone 18 Pro Max 电池实物曝光，5391 mAh",
-          "originalTitle": "",
-          "source": "IT之家",
-          "brand": "iPhone",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-08-11",
-          "time": "07:24",
-          "publishedAt": "2026-08-11T07:24:49.000Z",
-          "url": "https://www.ithome.com/0/988/330.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/8/8bbfb19c-6155-4c9a-a47c-218c594b5417.jpg?x-bce-process=image/format,f_auto",
-          "verdict": "先看",
-          "takeaway": "IT之家 8 月 11 日消息，消息源 Yeux1122 昨日（8 月 10 日）在 Naver 博客上发帖， 分享了一组实物照片，展示了苹果 iPhone 18 Pro Max 电池细节。 根据电池外壳上印刷的监管信息，该电池标称容量为 5391 mAh， 符合今年 7 月流出的电池爆料信息 ，相比较 iPhone 17 Pro Max（4823mAh）…",
-          "detail": "IT之家 8 月 11 日消息，消息源 Yeux1122 昨日（8 月 10 日）在 Naver 博客上发帖， 分享了一组实物照片，展示了苹果 iPhone 18 Pro Max 电池细节。 根据电池外壳上印刷的监管信息，该电池标称容量为 5391 mAh， 符合今年 7 月流出的电池爆料信息 ，相比较 iPhone 17 Pro Max（4823mAh）…",
-          "keyPoints": [
-            "电池 / 充电",
-            "爆料来源"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "auto-3a85c6d5ef12",
-          "title": "iPhone 相关消息",
-          "originalTitle": "",
-          "source": "MacRumors",
-          "brand": "iPhone",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-08-10",
-          "time": "14:49",
-          "publishedAt": "2026-08-10T14:49:10.000Z",
-          "url": "https://www.macrumors.com/2026/08/10/correct-iphone-18-pro-dark-cherry-shade/",
-          "image": "https://images.macrumors.com/article-new/2026/04/Four-iPhone-18-Pro-Colors-Mock-Feature.jpg",
-          "verdict": "先看",
-          "takeaway": "iPhone 相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
-          "detail": "iPhone 相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
-          "keyPoints": [
-            "外观 / 配色 / 尺寸",
-            "爆料来源"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
         {
           "id": "auto-8c1735f9af0c",
           "title": "iPhone 18 Pro 机模 / 配色信息曝光",
@@ -113,6 +65,30 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
+          "id": "auto-ab9b9ce19b8c",
+          "title": "iPhone 相关消息",
+          "originalTitle": "",
+          "source": "9to5Mac",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-08-11",
+          "time": "01:27",
+          "publishedAt": "2026-08-11T01:27:42.000Z",
+          "url": "https://9to5mac.com/2026/08/10/jefferies-downgrades-apple-stock-cites-all-glass-iphone-cancellation-rumor/",
+          "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/AAPL-stock-slides-but-is-it-a-reaction-to-AI-announcements.jpg?quality=82&strip=all&w=1600",
+          "verdict": "先看",
+          "takeaway": "iPhone 相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
+          "detail": "iPhone 相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
+          "keyPoints": [
+            "成本 / 价格",
+            "爆料来源"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
           "id": "auto-49a9fd182a53",
           "title": "iPhone 18 Pro Max 电池 / 充电相关消息",
           "originalTitle": "",
@@ -132,6 +108,30 @@ window.phoneRadarDaily = {
             "影像硬件",
             "电池 / 充电",
             "爆料来源"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "auto-dad72904d603",
+          "title": "一加 LCD 屏新机曝光：天玑 6360 处理器、8000mAh 电池，支持 120Hz 高刷",
+          "originalTitle": "",
+          "source": "IT之家",
+          "brand": "OPPO",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-08-11",
+          "time": "11:04",
+          "publishedAt": "2026-08-11T11:04:09.000Z",
+          "url": "https://www.ithome.com/0/988/465.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/8/c0d7978f-0d1d-4476-996b-460ba7befc0a.png",
+          "verdict": "先看",
+          "takeaway": "IT之家 8 月 11 日消息，博主 @熊猫很禿然 今日曝光了一款一加新机（具体机型暂未公布）。 该机配备 6.75 英寸 720P 120Hz LCD 屏 ，内置 8000mAh，支持 45W 快充。 另外， 这款手机还搭载了天玑 6360 处理器 ，厚度约 8.8mm，重约 224g。 据IT之家此前报道， 一加在今年 6 月底面向海外发布了一加 N6…",
+          "detail": "IT之家 8 月 11 日消息，博主 @熊猫很禿然 今日曝光了一款一加新机（具体机型暂未公布）。 该机配备 6.75 英寸 720P 120Hz LCD 屏 ，内置 8000mAh，支持 45W 快充。 另外， 这款手机还搭载了天玑 6360 处理器 ，厚度约 8.8mm，重约 224g。 据IT之家此前报道， 一加在今年 6 月底面向海外发布了一加 N6…",
+          "keyPoints": [
+            "电池 / 充电",
+            "芯片 / 性能"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
@@ -185,25 +185,26 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
-          "id": "auto-09dfcecc4ca1",
-          "title": "iQOO Z11S 手机官宣搭载 iQOO 迄今最大 10000mAh 蓝海电池，宁德新能源联合研发",
+          "id": "weibo-ff324f7988dd",
+          "title": "数码闲聊站：REDMI K100 Pro，这首发价格可还行？ 12GB+256GB——36…",
           "originalTitle": "",
-          "source": "IT之家",
-          "brand": "vivo",
+          "source": "数码闲聊站",
+          "brand": "Xiaomi",
           "type": "爆料",
-          "trust": "媒体汇总",
+          "trust": "高关注爆料源",
           "date": "2026-08-11",
-          "time": "08:08",
-          "publishedAt": "2026-08-11T08:08:06.000Z",
-          "url": "https://www.ithome.com/0/988/363.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/8/3aba06fc-83c7-47a8-bab8-5fcaf88d18b8.jpg?x-bce-process=image/format,f_auto",
+          "time": "11:52",
+          "publishedAt": "2026-08-11T11:52:17.000Z",
+          "url": "https://weibo.com/6048569942/RcVFT1mlT",
+          "image": "",
           "verdict": "先看",
-          "takeaway": "IT之家 8 月 11 日消息，iQOO 官方今日宣布，iQOO Z11S 新机将搭载 10000mAh 蓝海大电池，这也是 iQOO 迄今最大的蓝海电池， 采用单电芯设计 ，由宁德新能源联合研发。 iQOO 官方今日还放出了新机电池核心亮点，包括续航长、低温稳定运行、长寿材质、能效优化等。IT之家注意到， 该机还将兼容 44W PD / PPS 协议、4…",
-          "detail": "IT之家 8 月 11 日消息，iQOO 官方今日宣布，iQOO Z11S 新机将搭载 10000mAh 蓝海大电池，这也是 iQOO 迄今最大的蓝海电池， 采用单电芯设计 ，由宁德新能源联合研发。 iQOO 官方今日还放出了新机电池核心亮点，包括续航长、低温稳定运行、长寿材质、能效优化等。IT之家注意到， 该机还将兼容 44W PD / PPS 协议、4…",
+          "takeaway": "REDMI K100 Pro，这首发价格可还行？ 12GB+256GB——3699元/原价3999 16GB+256GB——4099元/原价4399 12GB+512GB——4299元/原价4599 16GB+512GB——4699元/原价4999 REDMI K100 Pro Max，这首发价格可还行？ 12GB+256GB——4199元/原价4499元…",
+          "detail": "REDMI K100 Pro，这首发价格可还行？ 12GB+256GB——3699元/原价3999 16GB+256GB——4099元/原价4399 12GB+512GB——4299元/原价4599 16GB+512GB——4699元/原价4999 REDMI K100 Pro Max，这首发价格可还行？ 12GB+256GB——4199元/原价4499元…",
           "keyPoints": [
-            "电池 / 充电"
+            "成本 / 价格",
+            "爆料来源"
           ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         }
