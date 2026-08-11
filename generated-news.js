@@ -1,6 +1,206 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-08-11T05:22:26.897Z",
+  "updatedAt": "2026-08-11T07:36:05.845Z",
   "news": [
+    {
+      "id": "coolapk-user-0b9f7cafd3f2",
+      "title": "竹本青：有酷友买了这个aiuv盲盒吗，前两天我本来打算再买个星栅，结果发现都下架了，问了店铺客服才知道现在只有盲盒，清库存…",
+      "source": "竹本青",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-08-11",
+      "time": "07:29",
+      "publishedAt": "2026-08-11T07:29:17.000Z",
+      "url": "https://www.coolapk.com/feed/73182743",
+      "image": "http://image.coolapk.com/feed/2026/0811/15/4248714_6df197a6_3356_5101_48@1440x2560.jpg",
+      "summary": "有酷友买了这个aiuv盲盒吗，前两天我本来打算再买个星栅，结果发现都下架了，问了店铺客服才知道现在只有盲盒，清库存随机发",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-30b53a5f2df2",
+      "title": "Young customers, particularly women, have fallen in love with the Galaxy Z Fold 8",
+      "source": "SamMobile",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-11",
+      "time": "07:24",
+      "publishedAt": "2026-08-11T07:24:58.000Z",
+      "url": "https://www.sammobile.com/news/young-customers-particularly-women-have-fallen-in-love-with-the-galaxy-z-fold-8/",
+      "image": "",
+      "summary": "Samsung is seeing incredible demand for the Galaxy Z Fold 8. The company has increased production by one million units to meet the demand following the successful pre-order rush.…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-57b85dc997ee",
+      "title": "增幅 11.78%：苹果 iPhone 18 Pro Max 电池实物曝光，5391 mAh",
+      "source": "IT之家",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-11",
+      "time": "07:24",
+      "publishedAt": "2026-08-11T07:24:49.000Z",
+      "url": "https://www.ithome.com/0/988/330.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/8/8bbfb19c-6155-4c9a-a47c-218c594b5417.jpg?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 8 月 11 日消息，消息源 Yeux1122 昨日（8 月 10 日）在 Naver 博客上发帖， 分享了一组实物照片，展示了苹果 iPhone 18 Pro Max 电池细节。 根据电池外壳上印刷的监管信息，该电池标称容量为 5391 mAh， 符合今年 7 月流出的电池爆料信息 ，相比较 iPhone 17 Pro Max（4823mAh）…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-8d36bb720a75",
+      "title": "卢伟冰：小米是全球第三家、国内首家能从发光材料层做自研的厂商",
+      "source": "IT之家",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-11",
+      "time": "07:15",
+      "publishedAt": "2026-08-11T07:15:42.000Z",
+      "url": "https://www.ithome.com/0/988/317.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/8/62ffe839-44e5-448d-8961-a4a6f95f14fb.png",
+      "summary": "IT之家 8 月 11 日消息，今天（10 日）下午，小米集团合伙人兼总裁、手机部总裁、小米品牌总经理 @卢伟冰 转发央视新闻有关“REDMI K100 Pro 系列搭载‘超级像素屏’”的微博，并配文： 小米是 全球第三家、国内首家 能从发光材料层做自研的厂商，我们在屏幕技术上的投入是长期的、坚定的。去年我们打造了自研红色主材， 今年又突破了绿色主材 。这…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-a12faf44165f",
+      "title": "JSCHEN小小狐：『OPPO A7 新机入网：中屏 / 横向跑道 Deco』 型号：PYE110 ◇ 2.4GHz 8 核处理器（疑…",
+      "source": "JSCHEN小小狐",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-08-11",
+      "time": "07:12",
+      "publishedAt": "2026-08-11T07:12:51.000Z",
+      "url": "https://www.coolapk.com/feed/73182501",
+      "image": "http://image.coolapk.com/feed/2026/0811/15/4702274_76a9ba0e_2367_553_711@480x640.jpg",
+      "summary": "『OPPO A7 新机入网：中屏 / 横向跑道 Deco』 型号：PYE110 ◇ 2.4GHz 8 核处理器（疑似天玑 6300 系列） ◇ 6.57'' 2372×1080 120Hz 10bit OLED 直屏 ◇ 后置 50Mp 单摄，前置 8Mp 摄像头 ◇ 额定容量 7820mAh，支持红外遥控 ◇ 厚 8.8mm，重 206g，2TB 存储卡…",
+      "tags": [
+        "OPPO",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-60a825c14616",
+      "title": "谷歌 Pixel 11 系列 4 款手机渲染图曝光",
+      "source": "IT之家",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-11",
+      "time": "07:10",
+      "publishedAt": "2026-08-11T07:10:13.000Z",
+      "url": "https://www.ithome.com/0/988/302.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/8/e4bfafac-e771-4229-8814-52ec1643c252.png?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 8 月 11 日消息，科技媒体 YtechB 昨日（8 月 10 日）发布博文，分享了一组渲染图， 展示了谷歌 Pixel 11、Pixel 11 Pro、Pixel 11 Pro XL 和 Pixel 11 Pro Fold 四款手机。 Pixel 11 Pro Fold 颜色方面，消息称谷歌 Pixel 11 Pro Fold 会配备曜石黑（…",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-6891887d76c9",
+      "title": "Pixel 11 won't get Google's flashy new trick, but there's more to come",
+      "source": "Android Police",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-11",
+      "time": "06:58",
+      "publishedAt": "2026-08-11T06:58:08.000Z",
+      "url": "https://www.androidpolice.com/pixel-11-wont-get-googles-flashy-new-trick-but-more-come/",
+      "image": "",
+      "summary": "Leaks haven't spoiled all of Google's surprises",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-63ea1089954d",
+      "title": "竹本青：卢伟冰：小米是国内首家能从发光材料层做自研的厂商",
+      "source": "竹本青",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-08-11",
+      "time": "06:54",
+      "publishedAt": "2026-08-11T06:54:25.000Z",
+      "url": "https://www.coolapk.com/feed/73182253",
+      "image": "http://image.coolapk.com/feed/2026/0811/14/4248714_a8b4a687_1264_4659_321@1271x1382.jpg",
+      "summary": "【卢伟冰：小米是国内首家能从发光材料层做自研的厂商】 8月11日，央视新闻发布视频报道称，REDMI K100 Pro系列将搭载“超级像素屏”，该屏幕采用了小米与清华大学团队合作落地的第四代OLED显示技术。 随后下午，小米高管卢伟冰转发相关报道，并配文进一步透露：小米是全球第三家、国内首家能从发光材料层做自研的厂商，我们在屏幕技术上的投入是长期的、坚定的…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "coolapk-user-9ca2cf2de7e7",
+      "title": "JSCHEN小小狐：一加新机入网：天玑 6360 / 720P LCD",
+      "source": "JSCHEN小小狐",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-08-11",
+      "time": "06:52",
+      "publishedAt": "2026-08-11T06:52:40.000Z",
+      "url": "https://www.coolapk.com/feed/73182229",
+      "image": "http://image.coolapk.com/feed/2026/0811/14/4702274_94288fdb_1156_8417_601@480x640.jpg",
+      "summary": "『一加新机入网：天玑 6360 平台 / 720P LCD』 型号：PYZ110 ◇ 天玑 6360 Super 移动平台 （2×A76 2.4GHz + 6×A55 2.0GHz） （Mali-G57 MC2 GPU，台积电 6nm） ◇ 6.75 英寸 1570×720 120Hz LCD 直屏 （手动亮度 975nits，HBM 亮度 1200nit…",
+      "tags": [
+        "OPPO",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-3ad22601d818",
+      "title": "New Pixel 11 leak has good news for camera zoom, bad news for HiLight",
+      "source": "Android Authority",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-11",
+      "time": "05:33",
+      "publishedAt": "2026-08-11T05:33:36.000Z",
+      "url": "https://www.androidauthority.com/google-pixel-11-hilight-camera-leak-3696749/",
+      "image": "",
+      "summary": "You'll have to spend a little extra on a Pro model if you want the fancy notification LED.",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-219ea175b3af",
       "title": "Vivo X500 may stand apart from Pro models with a new camera layout",
@@ -202,26 +402,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-40b4c1709be1",
-      "title": "彭博社称苹果“全玻璃 iPhone”没有被取消，将按计划在明年推出",
-      "source": "IT之家",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-11",
-      "time": "02:24",
-      "publishedAt": "2026-08-11T02:24:56.000Z",
-      "url": "https://www.ithome.com/0/988/191.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/8/28a97b6d-1df2-4ca2-b3c6-6b876fa56af7.jpg",
-      "summary": "IT之家 8 月 11 日消息，此前有报道称，苹果已经取消了传闻已久、原本计划在 iPhone 诞生 20 周年之际推出的“全玻璃 iPhone”。不过，彭博社最新报道称，该款机型的重新设计工作仍按计划推进，将应用于明年的 Pro 系列机型。 IT之家注意到，今天早些时候，杰富瑞集团（Jefferies）下调了苹果股票的评级。该机构援引供应链调查结果称，苹…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-33ca9cb0d77e",
       "title": "Apple’s 20th-anniversary iPhone redesign reportedly remains on track",
       "source": "9to5Mac",
@@ -243,7 +423,7 @@ window.phoneRadarAuto = {
     },
     {
       "id": "coolapk-user-afb3c520c41a",
-      "title": "竹本青：QOO Neo11 至尊版 「乘风」配色官图公布：视觉3D流光，金属中框",
+      "title": "竹本青：iQOO Neo11 至尊版 「乘风」配色官图公布：视觉3D流光，金属中框",
       "source": "竹本青",
       "brand": "vivo",
       "model": "vivo 相关机型",
@@ -255,46 +435,6 @@ window.phoneRadarAuto = {
       "url": "https://www.coolapk.com/feed/73178186",
       "image": "http://image.coolapk.com/feed/2026/0811/10/4248714_495efc81_3833_7509_428@2000x2667.jpg",
       "summary": "【iQOO Neo11 至尊版 「乘风」配色官图公布：视觉3D流光，金属中框】 ▫️视觉3D流光效果 ▫️9.13mm大R角 ▫️哑光金属中框 ▫️全新横置DECO #iQOONeo11至尊版# #今日热点# #OriginOS6#",
-      "tags": [
-        "vivo",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
-      "id": "coolapk-user-df9365065bff",
-      "title": "竹本青：荣耀畅玩80在电商降价开售：1049元起",
-      "source": "竹本青",
-      "brand": "HONOR",
-      "model": "HONOR 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-08-11",
-      "time": "01:59",
-      "publishedAt": "2026-08-11T01:59:59.000Z",
-      "url": "https://www.coolapk.com/feed/73178132",
-      "image": "http://image.coolapk.com/feed/2026/0811/09/4248714_78710dda_3595_4808_600@1440x2560.jpg",
-      "summary": "【荣耀畅玩80 在电商降价开售：720P LCD屏+天玑6300，售价1049元起】 4GB+128GB —— 1049元（首发1599元） 6GB+128GB —— 1099元（首发1799元） ▫️6.75\" 90Hz 720P LCD屏 ▫️天玑6300处理器 ▫️5300mAh电池+15W充电 ▫️前置5MP／后置13MP ▫️TF卡拓展｜3.5m…",
-      "tags": [
-        "HONOR",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
-      "id": "coolapk-user-a96d9f12370d",
-      "title": "竹本青：vivo X500系列Deco设计曝光：Pro系列居中大圆",
-      "source": "竹本青",
-      "brand": "vivo",
-      "model": "vivo 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-08-11",
-      "time": "01:42",
-      "publishedAt": "2026-08-11T01:42:13.000Z",
-      "url": "https://www.coolapk.com/feed/73177912",
-      "image": "http://image.coolapk.com/feed/2026/0811/09/4248714_268f97f8_2532_0754_88@1270x379.jpg",
-      "summary": "【vivo X500系列 Deco设计曝光：Pro系列居中大圆、标准版左上角大圆】 Pro系列 —— 居中大圆Deco 6.37\"± 6.85\"± 大R角 四等窄边直屏 标准版 —— 左上角大圆Deco 6.59\"±中尺寸直屏 #今日热点# #vivoX500# #OriginOS6#",
       "tags": [
         "vivo",
         "爆料",
@@ -342,66 +482,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-f954082ba29e",
-      "title": "Minimal Phone 2 全键盘手机公布：换用 3.92 英寸 OLED 面板、天玑 8300 处理器，599 美元起",
-      "source": "IT之家",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-11",
-      "time": "01:27",
-      "publishedAt": "2026-08-11T01:27:37.000Z",
-      "url": "https://www.ithome.com/0/988/125.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/8/46f77307-cf82-4b98-b25e-d4de7000d2ba.png?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 8 月 11 日消息，Minimal 公司现已公布了新款全键盘手机 Minimal Phone 2，该机相对于初代取消墨水屏设计，转用 OLED 面板，目前已上线 Kickstarter 众筹，定价为 599 美元 （IT之家注：现汇率约合 4,046 元人民币） 起。 8GB RAM + 256GB 存储空间：599 美元 （现汇率约合 4,0…",
-      "tags": [
-        "行业",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-8ce6a0952196",
-      "title": "三星面临芯片专利诉讼，涉及 Galaxy S10 至 S26 系列手机",
-      "source": "IT之家",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-11",
-      "time": "01:13",
-      "publishedAt": "2026-08-11T01:13:14.000Z",
-      "url": "https://www.ithome.com/0/988/119.htm",
-      "image": "",
-      "summary": "IT之家 8 月 11 日消息，科技媒体 Android Headline 昨日（8 月 10 日）发布博文，报道称 Stellar Industries 已在美国对三星及其美国主要子公司发起专利诉讼，涉及 Galaxy S10 到 Galaxy S26 系列手机芯片。 IT之家援引博文介绍，本次纠纷共涉及 6 项美国专利： 9,219,140 9,281…",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-dfefc9757390",
-      "title": "提前苹果约 1 个月：奢侈品牌 Caviar 推出定制版 iPhone 18 Pro / Max",
-      "source": "IT之家",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-11",
-      "time": "01:01",
-      "publishedAt": "2026-08-11T01:01:34.000Z",
-      "url": "https://www.ithome.com/0/988/110.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/8/108fb121-e499-44c6-baa4-432d4b4a16e3.jpg?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 8 月 11 日消息，科技媒体 Android Headline 昨日（8 月 10 日）发布博文，报道称在苹果公司正式发布前约 1 个月， 奢侈品厂商 Caviar 在其官网已放出 iPhone 18 Pro 和 iPhone 18 Pro Max 的预览图片。 外观方面，iPhone 18 Pro 配备 6.3 英寸屏幕、iPhone 18…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-1565673d8044",
       "title": "Galaxy S26 FE fully leaks ahead of launch with Exynos 2500 and 4,900mAh battery",
       "source": "Gizmochina",
@@ -417,26 +497,6 @@ window.phoneRadarAuto = {
       "summary": "Samsung’s next Fan Edition phone is shaping up to be a pretty familiar mix of last year’s flagship tech and a design that fits right in with the current S26 family, according to a…",
       "tags": [
         "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-935f0a0f5e70",
-      "title": "能偷拍的“折射手机壳”热卖，总台中国之声警告生产销售和使用均涉嫌违法",
-      "source": "IT之家",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-11",
-      "time": "00:57",
-      "publishedAt": "2026-08-11T00:57:58.000Z",
-      "url": "https://www.ithome.com/0/988/108.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/8/2fe539a6-f812-4a28-9f96-7e9169d18a3c.jpg",
-      "summary": "IT之家 8 月 11 日消息，河南广播电视台民生频道《小莉帮忙》8 月 7 日报道了一款网上热销的“折射手机壳”，这种手机壳外观与普通手机壳并无区别， 商家宣称它可以实现“侧面拍摄”，售价在 300 到 600 元不等 。 报道称，商家的宣传视频中包含有暗示性内容，如“懂的都懂”，甚至有一个丝袜美女和一张大床的画面。该手机壳是在摄像头位置加装棱镜，利用光…",
-      "tags": [
-        "行业",
         "爆料",
         "自动抓取"
       ]
@@ -495,6 +555,46 @@ window.phoneRadarAuto = {
       "url": "https://www.coolapk.com/feed/73155342",
       "image": "",
       "summary": "用个一两周手机就特别卡，狂杀后台，要重启才流畅点",
+      "tags": [
+        "行业",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-a57b8cef7761",
+      "title": "手机NFC功能不要随便打开",
+      "source": "今日头条热榜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-11",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.toutiao.com/trending/7672232082655182884/",
+      "image": "",
+      "summary": "手机NFC功能不要随便打开",
+      "tags": [
+        "行业",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-6bfc53ed7139",
+      "title": "女子称汤泉洗澡遇男孩举手机玩",
+      "source": "百度热搜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-11",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%A7%B0%E6%B1%A4%E6%B3%89%E6%B4%97%E6%BE%A1%E9%81%87%E7%94%B7%E5%AD%A9%E4%B8%BE%E6%89%8B%E6%9C%BA%E7%8E%A9",
+      "image": "",
+      "summary": "女子称汤泉洗澡遇男孩举手机玩",
       "tags": [
         "行业",
         "爆料",
@@ -997,26 +1097,6 @@ window.phoneRadarAuto = {
       "summary": "iQOO is gearing up to officially unveil the Neo 11 Ultra in China on August 18, and ahead of the event, the brand’s product manager has given you a detailed look at what the phone…",
       "tags": [
         "vivo",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-910bc97714f3",
-      "title": "Samsung forced to make 1 million more Galaxy Z Fold 8 units due to high demand",
-      "source": "SamMobile",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-10",
-      "time": "07:20",
-      "publishedAt": "2026-08-10T07:20:14.000Z",
-      "url": "https://www.sammobile.com/news/galaxy-z-fold-8-production-1-million-more-high-demand/",
-      "image": "",
-      "summary": "Samsung recently revealed that its new foldable phones have broken all pre-order records, even surpassing the legendary Galaxy Note 10 series. Due to high demand for the Galaxy Z…",
-      "tags": [
-        "Samsung",
         "爆料",
         "自动抓取"
       ]

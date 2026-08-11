@@ -1,12 +1,12 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-08-11T05:22:26.897Z",
+  "updatedAt": "2026-08-11T07:36:05.845Z",
   "issueDate": "2026-08-11",
   "issue": "VOL.260811",
   "title": "手机情报日报",
-  "intro": "今日筛出 8 条重点，其中 8 条是重点爆料，包含 6 条 iPhone 相关、0 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 8 条重点，其中 8 条是重点爆料，包含 5 条 iPhone 相关、0 条官方确认、0 条参数线索。",
   "stats": {
     "total": 8,
-    "iphone": 6,
+    "iphone": 5,
     "leaks": 8,
     "official": 0,
     "specs": 0
@@ -18,47 +18,24 @@ window.phoneRadarDaily = {
       "hint": "机模、配色、影像、屏幕、电池和芯片线索先看。",
       "items": [
         {
-          "id": "auto-40b4c1709be1",
-          "title": "彭博社称苹果“全玻璃 iPhone”没有被取消，将按计划在明年推出",
+          "id": "auto-57b85dc997ee",
+          "title": "增幅 11.78%：苹果 iPhone 18 Pro Max 电池实物曝光，5391 mAh",
           "originalTitle": "",
           "source": "IT之家",
           "brand": "iPhone",
           "type": "爆料",
           "trust": "媒体汇总",
           "date": "2026-08-11",
-          "time": "02:24",
-          "publishedAt": "2026-08-11T02:24:56.000Z",
-          "url": "https://www.ithome.com/0/988/191.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/8/28a97b6d-1df2-4ca2-b3c6-6b876fa56af7.jpg",
+          "time": "07:24",
+          "publishedAt": "2026-08-11T07:24:49.000Z",
+          "url": "https://www.ithome.com/0/988/330.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/8/8bbfb19c-6155-4c9a-a47c-218c594b5417.jpg?x-bce-process=image/format,f_auto",
           "verdict": "先看",
-          "takeaway": "IT之家 8 月 11 日消息，此前有报道称，苹果已经取消了传闻已久、原本计划在 iPhone 诞生 20 周年之际推出的“全玻璃 iPhone”。不过，彭博社最新报道称，该款机型的重新设计工作仍按计划推进，将应用于明年的 Pro 系列机型。 IT之家注意到，今天早些时候，杰富瑞集团（Jefferies）下调了苹果股票的评级。该机构援引供应链调查结果称，苹…",
-          "detail": "IT之家 8 月 11 日消息，此前有报道称，苹果已经取消了传闻已久、原本计划在 iPhone 诞生 20 周年之际推出的“全玻璃 iPhone”。不过，彭博社最新报道称，该款机型的重新设计工作仍按计划推进，将应用于明年的 Pro 系列机型。 IT之家注意到，今天早些时候，杰富瑞集团（Jefferies）下调了苹果股票的评级。该机构援引供应链调查结果称，苹…",
+          "takeaway": "IT之家 8 月 11 日消息，消息源 Yeux1122 昨日（8 月 10 日）在 Naver 博客上发帖， 分享了一组实物照片，展示了苹果 iPhone 18 Pro Max 电池细节。 根据电池外壳上印刷的监管信息，该电池标称容量为 5391 mAh， 符合今年 7 月流出的电池爆料信息 ，相比较 iPhone 17 Pro Max（4823mAh）…",
+          "detail": "IT之家 8 月 11 日消息，消息源 Yeux1122 昨日（8 月 10 日）在 Naver 博客上发帖， 分享了一组实物照片，展示了苹果 iPhone 18 Pro Max 电池细节。 根据电池外壳上印刷的监管信息，该电池标称容量为 5391 mAh， 符合今年 7 月流出的电池爆料信息 ，相比较 iPhone 17 Pro Max（4823mAh）…",
           "keyPoints": [
+            "电池 / 充电",
             "爆料来源"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "auto-dfefc9757390",
-          "title": "提前苹果约 1 个月：奢侈品牌 Caviar 推出定制版 iPhone 18 Pro / Max",
-          "originalTitle": "",
-          "source": "IT之家",
-          "brand": "iPhone",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-08-11",
-          "time": "01:01",
-          "publishedAt": "2026-08-11T01:01:34.000Z",
-          "url": "https://www.ithome.com/0/988/110.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/8/108fb121-e499-44c6-baa4-432d4b4a16e3.jpg?x-bce-process=image/format,f_auto",
-          "verdict": "先看",
-          "takeaway": "IT之家 8 月 11 日消息，科技媒体 Android Headline 昨日（8 月 10 日）发布博文，报道称在苹果公司正式发布前约 1 个月， 奢侈品厂商 Caviar 在其官网已放出 iPhone 18 Pro 和 iPhone 18 Pro Max 的预览图片。 外观方面，iPhone 18 Pro 配备 6.3 英寸屏幕、iPhone 18…",
-          "detail": "IT之家 8 月 11 日消息，科技媒体 Android Headline 昨日（8 月 10 日）发布博文，报道称在苹果公司正式发布前约 1 个月， 奢侈品厂商 Caviar 在其官网已放出 iPhone 18 Pro 和 iPhone 18 Pro Max 的预览图片。 外观方面，iPhone 18 Pro 配备 6.3 英寸屏幕、iPhone 18…",
-          "keyPoints": [
-            "外观 / 配色 / 尺寸",
-            "屏幕形态"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
@@ -161,6 +138,30 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
+          "id": "auto-60a825c14616",
+          "title": "谷歌 Pixel 11 系列 4 款手机渲染图曝光",
+          "originalTitle": "",
+          "source": "IT之家",
+          "brand": "Pixel",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-08-11",
+          "time": "07:10",
+          "publishedAt": "2026-08-11T07:10:13.000Z",
+          "url": "https://www.ithome.com/0/988/302.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/8/e4bfafac-e771-4229-8814-52ec1643c252.png?x-bce-process=image/format,f_auto",
+          "verdict": "先看",
+          "takeaway": "IT之家 8 月 11 日消息，科技媒体 YtechB 昨日（8 月 10 日）发布博文，分享了一组渲染图， 展示了谷歌 Pixel 11、Pixel 11 Pro、Pixel 11 Pro XL 和 Pixel 11 Pro Fold 四款手机。 Pixel 11 Pro Fold 颜色方面，消息称谷歌 Pixel 11 Pro Fold 会配备曜石黑（…",
+          "detail": "IT之家 8 月 11 日消息，科技媒体 YtechB 昨日（8 月 10 日）发布博文，分享了一组渲染图， 展示了谷歌 Pixel 11、Pixel 11 Pro、Pixel 11 Pro XL 和 Pixel 11 Pro Fold 四款手机。 Pixel 11 Pro Fold 颜色方面，消息称谷歌 Pixel 11 Pro Fold 会配备曜石黑（…",
+          "keyPoints": [
+            "外观 / 配色 / 尺寸",
+            "爆料来源"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
           "id": "auto-eb03f72ab1ee",
           "title": "三星 Galaxy S26 FE 手机规格曝光：8GB 内存、4900mAh 电池",
           "originalTitle": "",
@@ -186,25 +187,26 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
-          "id": "auto-8ce6a0952196",
-          "title": "三星面临芯片专利诉讼，涉及 Galaxy S10 至 S26 系列手机",
+          "id": "weibo-65e3649e7a1f",
+          "title": "数码闲聊站：荣耀一块新电池试产了，额定容量11790mAh，额定能量43.86Wh，典型值…",
           "originalTitle": "",
-          "source": "IT之家",
-          "brand": "Samsung",
+          "source": "数码闲聊站",
+          "brand": "HONOR",
           "type": "爆料",
-          "trust": "媒体汇总",
+          "trust": "高关注爆料源",
           "date": "2026-08-11",
-          "time": "01:13",
-          "publishedAt": "2026-08-11T01:13:14.000Z",
-          "url": "https://www.ithome.com/0/988/119.htm",
+          "time": "03:36",
+          "publishedAt": "2026-08-11T03:36:00.000Z",
+          "url": "https://weibo.com/6048569942/RcSqrwU59",
           "image": "",
           "verdict": "先看",
-          "takeaway": "IT之家 8 月 11 日消息，科技媒体 Android Headline 昨日（8 月 10 日）发布博文，报道称 Stellar Industries 已在美国对三星及其美国主要子公司发起专利诉讼，涉及 Galaxy S10 到 Galaxy S26 系列手机芯片。 IT之家援引博文介绍，本次纠纷共涉及 6 项美国专利： 9,219,140 9,281…",
-          "detail": "IT之家 8 月 11 日消息，科技媒体 Android Headline 昨日（8 月 10 日）发布博文，报道称 Stellar Industries 已在美国对三星及其美国主要子公司发起专利诉讼，涉及 Galaxy S10 到 Galaxy S26 系列手机芯片。 IT之家援引博文介绍，本次纠纷共涉及 6 项美国专利： 9,219,140 9,281…",
+          "takeaway": "荣耀一块新电池试产了，额定容量11790mAh，额定能量43.86Wh，典型值是12000mAh±，又双叒一块万级大电池，你们猜这是什么新机[二哈]",
+          "detail": "荣耀一块新电池试产了，额定容量11790mAh，额定能量43.86Wh，典型值是12000mAh±，又双叒一块万级大电池，你们猜这是什么新机[二哈]",
           "keyPoints": [
-            "芯片 / 性能"
+            "电池 / 充电",
+            "爆料来源"
           ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         }
