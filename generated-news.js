@@ -1,6 +1,26 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-08-11T21:03:36.269Z",
+  "updatedAt": "2026-08-11T23:02:16.270Z",
   "news": [
+    {
+      "id": "auto-ef92180c0e13",
+      "title": "苹果首款折叠 iPhone 名称爆料，公司内部均称其为“Ultra”",
+      "source": "IT之家",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-11",
+      "time": "22:53",
+      "publishedAt": "2026-08-11T22:53:01.000Z",
+      "url": "https://www.ithome.com/0/988/550.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/8/999c0124-d5cd-4e7b-9cf9-4739fe856b5f.png?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 8 月 12 日消息，彭博社的马克 · 古尔曼（Mark Gurman）昨日（8 月 11 日）发布博文， 爆料称在苹果公司内部，对于苹果公司即将推出的首款折叠手机，“几乎所有人”都称其为 iPhone Ultra。 科技分析师与行业评论员 Max Weinbach 昨日在 X 平台发布推文，不认为苹果首款折叠手机会叫 iPhone Ultra。…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-fb8520242c75",
       "title": "Report: Non-gaming apps drove mobile spending growth in Q2 as games fell 4.5%",
@@ -502,26 +522,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-dad72904d603",
-      "title": "一加 LCD 屏新机曝光：天玑 6360 处理器、8000mAh 电池，支持 120Hz 高刷",
-      "source": "IT之家",
-      "brand": "OPPO",
-      "model": "OPPO 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-11",
-      "time": "11:04",
-      "publishedAt": "2026-08-11T11:04:09.000Z",
-      "url": "https://www.ithome.com/0/988/465.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/8/c0d7978f-0d1d-4476-996b-460ba7befc0a.png",
-      "summary": "IT之家 8 月 11 日消息，博主 @熊猫很禿然 今日曝光了一款一加新机（具体机型暂未公布）。 该机配备 6.75 英寸 720P 120Hz LCD 屏 ，内置 8000mAh，支持 45W 快充。 另外， 这款手机还搭载了天玑 6360 处理器 ，厚度约 8.8mm，重约 224g。 据IT之家此前报道， 一加在今年 6 月底面向海外发布了一加 N6…",
-      "tags": [
-        "OPPO",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-accfbea5f275",
       "title": "Early OnePlus 16 hype suggests firm may have ditched its key markets too soon",
       "source": "Android Authority",
@@ -682,6 +682,26 @@ window.phoneRadarAuto = {
       ]
     },
     {
+      "id": "coolapk-user-9ca2cf2de7e7",
+      "title": "JSCHEN小小狐：一加新机入网：天玑 6360 / 720P LCD",
+      "source": "JSCHEN小小狐",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-08-11",
+      "time": "06:52",
+      "publishedAt": "2026-08-11T06:52:40.000Z",
+      "url": "https://www.coolapk.com/feed/73182229",
+      "image": "http://image.coolapk.com/feed/2026/0811/14/4702274_94288fdb_1156_8417_601@480x640.jpg",
+      "summary": "『一加新机入网：天玑 6360 平台 / 720P LCD』 型号：PYZ110 ◇ 天玑 6360 Super 移动平台 （2×A76 2.4GHz + 6×A55 2.0GHz） （Mali-G57 MC2 GPU，台积电 6nm） ◇ 6.75 英寸 1570×720 120Hz LCD 直屏 （手动亮度 975nits，HBM 亮度 1200nit…",
+      "tags": [
+        "OPPO",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
       "id": "auto-3ad22601d818",
       "title": "New Pixel 11 leak has good news for camera zoom, bad news for HiLight",
       "source": "Android Authority",
@@ -777,26 +797,6 @@ window.phoneRadarAuto = {
       "summary": "A new iQOO smartphone carrying model number V2573A has surfaced in China Telecom’s product library. The listing belongs to the upcoming iQOO Neo 11 Ultra, which is set to debut al…",
       "tags": [
         "vivo",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-45b89607b7ab",
-      "title": "Apple Still Planning 'Glass-Centric' iPhone Redesign for 2027",
-      "source": "MacRumors",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-11",
-      "time": "03:10",
-      "publishedAt": "2026-08-11T03:10:14.000Z",
-      "url": "https://www.macrumors.com/2026/08/10/glass-centric-iphone-still-planned-2027/",
-      "image": "https://images.macrumors.com/article-new/2026/07/iphone-20-anniversary.jpg",
-      "summary": "Aiming to refute a report from Jefferies analyst Edison Lee earlier today that claimed Apple's all-glass iPhone planned for the device's 20th anniversary next year has been cancel…",
-      "tags": [
-        "iPhone",
         "爆料",
         "自动抓取"
       ]
@@ -922,28 +922,8 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-e91e40269284",
-      "title": "一加新机入网：天玑 6360 / 720P LCD",
-      "source": "酷安热榜",
-      "brand": "OPPO",
-      "model": "OPPO 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-08-11",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73182229",
-      "image": "",
-      "summary": "一加新机入网：天玑 6360 / 720P LCD",
-      "tags": [
-        "OPPO",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-3e04822e5a2d",
-      "title": "聊聊手机卡套餐资费",
+      "id": "newsnow-801ffcb30e19",
+      "title": "2020 年，回头看仍是机圈极具魔幻现实主义色彩的一年。厂商大喊 “5G 元年”，对换机用户而言却是 “涨价元年”—— 旗舰机型仿佛统一了口径，集体上调八百至一千的价格，携手迈入3999的时代。",
       "source": "酷安热榜",
       "brand": "行业",
       "model": "智能手机市场",
@@ -952,11 +932,31 @@ window.phoneRadarAuto = {
       "date": "2026-08-11",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73163663",
+      "url": "https://www.coolapk.com/feed/70266966",
       "image": "",
-      "summary": "聊聊手机卡套餐资费",
+      "summary": "2020 年，回头看仍是机圈极具魔幻现实主义色彩的一年。厂商大喊 “5G 元年”，对换机用户而言却是 “涨价元年”—— 旗舰机型仿佛统一了口径，集体上调八百至一千的价格，携手迈入3999的时代。",
       "tags": [
         "行业",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-fb2c0637a0c4",
+      "title": "难以想象有一天，我居然会在酷安写一篇iPhone的文章。工作、孩子强度库库的上，思维也变得懒惰、僵化，以前写文章思如泉涌，现在只能用一周多的时间零零散散构思，不蹭热度，全文没有硬核的参数对比和严谨的对照实验，毕竟头部数码博主都给测完了。只想在喧嚣过后和大家聊一聊，在我的使用场景和主观视角下的Air。",
+      "source": "酷安热榜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-08-11",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/68295165",
+      "image": "",
+      "summary": "难以想象有一天，我居然会在酷安写一篇iPhone的文章。工作、孩子强度库库的上，思维也变得懒惰、僵化，以前写文章思如泉涌，现在只能用一周多的时间零零散散构思，不蹭热度，全文没有硬核的参数对比和严谨的对照实验，毕竟头部数码博主都给测完了。只想在喧嚣过后和大家聊一聊，在我的使用场景和主观视角下的Air。",
+      "tags": [
+        "iPhone",
         "爆料",
         "NewsNow"
       ]

@@ -1,12 +1,12 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-08-11T21:03:36.269Z",
+  "updatedAt": "2026-08-11T23:02:16.270Z",
   "issueDate": "2026-08-11",
   "issue": "VOL.260811",
   "title": "手机情报日报",
-  "intro": "今日筛出 8 条重点，其中 8 条是重点爆料，包含 4 条 iPhone 相关、0 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 8 条重点，其中 8 条是重点爆料，包含 5 条 iPhone 相关、0 条官方确认、0 条参数线索。",
   "stats": {
     "total": 8,
-    "iphone": 4,
+    "iphone": 5,
     "leaks": 8,
     "official": 0,
     "specs": 0
@@ -17,6 +17,29 @@ window.phoneRadarDaily = {
       "title": "重点爆料",
       "hint": "机模、配色、影像、屏幕、电池和芯片线索先看。",
       "items": [
+        {
+          "id": "auto-ef92180c0e13",
+          "title": "苹果首款折叠 iPhone 名称爆料，公司内部均称其为“Ultra”",
+          "originalTitle": "",
+          "source": "IT之家",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-08-11",
+          "time": "22:53",
+          "publishedAt": "2026-08-11T22:53:01.000Z",
+          "url": "https://www.ithome.com/0/988/550.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/8/999c0124-d5cd-4e7b-9cf9-4739fe856b5f.png?x-bce-process=image/format,f_auto",
+          "verdict": "先看",
+          "takeaway": "IT之家 8 月 12 日消息，彭博社的马克 · 古尔曼（Mark Gurman）昨日（8 月 11 日）发布博文， 爆料称在苹果公司内部，对于苹果公司即将推出的首款折叠手机，“几乎所有人”都称其为 iPhone Ultra。 科技分析师与行业评论员 Max Weinbach 昨日在 X 平台发布推文，不认为苹果首款折叠手机会叫 iPhone Ultra。…",
+          "detail": "IT之家 8 月 12 日消息，彭博社的马克 · 古尔曼（Mark Gurman）昨日（8 月 11 日）发布博文， 爆料称在苹果公司内部，对于苹果公司即将推出的首款折叠手机，“几乎所有人”都称其为 iPhone Ultra。 科技分析师与行业评论员 Max Weinbach 昨日在 X 平台发布推文，不认为苹果首款折叠手机会叫 iPhone Ultra。…",
+          "keyPoints": [
+            "爆料来源"
+          ],
+          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
         {
           "id": "auto-dda85295beba",
           "title": "iPhone 18 Pro 影像能力相关消息",
@@ -89,47 +112,24 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
-          "id": "auto-45b89607b7ab",
+          "id": "auto-33ca9cb0d77e",
           "title": "iPhone 外观设计线索曝光",
           "originalTitle": "",
-          "source": "MacRumors",
+          "source": "9to5Mac",
           "brand": "iPhone",
           "type": "爆料",
           "trust": "媒体汇总",
           "date": "2026-08-11",
-          "time": "03:10",
-          "publishedAt": "2026-08-11T03:10:14.000Z",
-          "url": "https://www.macrumors.com/2026/08/10/glass-centric-iphone-still-planned-2027/",
-          "image": "https://images.macrumors.com/article-new/2026/07/iphone-20-anniversary.jpg",
+          "time": "02:14",
+          "publishedAt": "2026-08-11T02:14:14.000Z",
+          "url": "https://9to5mac.com/2026/08/10/apples-20th-anniversary-iphone-redesign-reportedly-remains-on-track/",
+          "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/02/Mac-hardware-is-great-but-macOS-26-is-a-disaster-say-pundits.jpg?quality=82&strip=all&w=1600",
           "verdict": "先看",
           "takeaway": "iPhone 外观设计线索曝光。重点看外观、颜色、尺寸是否和上一代有明显变化。",
           "detail": "iPhone 外观设计线索曝光。这类内容主要看外观设计、按键布局、相机模组和尺寸变化，后续最好等更多渲染图或保护壳线索互相验证。",
           "keyPoints": [
-            "外观 / 配色 / 尺寸"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "auto-dad72904d603",
-          "title": "一加 LCD 屏新机曝光：天玑 6360 处理器、8000mAh 电池，支持 120Hz 高刷",
-          "originalTitle": "",
-          "source": "IT之家",
-          "brand": "OPPO",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-08-11",
-          "time": "11:04",
-          "publishedAt": "2026-08-11T11:04:09.000Z",
-          "url": "https://www.ithome.com/0/988/465.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/8/c0d7978f-0d1d-4476-996b-460ba7befc0a.png",
-          "verdict": "先看",
-          "takeaway": "IT之家 8 月 11 日消息，博主 @熊猫很禿然 今日曝光了一款一加新机（具体机型暂未公布）。 该机配备 6.75 英寸 720P 120Hz LCD 屏 ，内置 8000mAh，支持 45W 快充。 另外， 这款手机还搭载了天玑 6360 处理器 ，厚度约 8.8mm，重约 224g。 据IT之家此前报道， 一加在今年 6 月底面向海外发布了一加 N6…",
-          "detail": "IT之家 8 月 11 日消息，博主 @熊猫很禿然 今日曝光了一款一加新机（具体机型暂未公布）。 该机配备 6.75 英寸 720P 120Hz LCD 屏 ，内置 8000mAh，支持 45W 快充。 另外， 这款手机还搭载了天玑 6360 处理器 ，厚度约 8.8mm，重约 224g。 据IT之家此前报道， 一加在今年 6 月底面向海外发布了一加 N6…",
-          "keyPoints": [
-            "电池 / 充电",
-            "芯片 / 性能"
+            "外观 / 配色 / 尺寸",
+            "爆料来源"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
