@@ -1,6 +1,86 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-08-11T15:15:12.134Z",
+  "updatedAt": "2026-08-11T17:11:11.712Z",
   "news": [
+    {
+      "id": "auto-78e97b1c390a",
+      "title": "Samsung's Galaxy S27 Pro camera move is actually a genius product strategy",
+      "source": "Android Police",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-11",
+      "time": "16:15",
+      "publishedAt": "2026-08-11T16:15:16.000Z",
+      "url": "https://www.androidpolice.com/galaxy-s27-pros-disappointing-camera-is-a-genius-decision/",
+      "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2026/08/hand-holding-a-samsung-galaxy-s27-pro-with-the-rear-camera-visible-2.png",
+      "summary": "The widely rumored removal of the Galaxy S27 Ultra's 3x telephoto could be a deliberate move to avoid direct comparisons with the Galaxy S27 Pro",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-4941e1f49911",
+      "title": "Galaxy Z Fold 8’s durability put to test, and it passes with flying colors",
+      "source": "SamMobile",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-11",
+      "time": "15:43",
+      "publishedAt": "2026-08-11T15:43:52.000Z",
+      "url": "https://www.sammobile.com/news/galaxy-z-fold-8s-durability-put-to-test-it-passes-with-flying-colors/",
+      "image": "",
+      "summary": "The demand for Samsung’s first smartphone with a 4:3 book-style foldable display, the Galaxy Z Fold 8, seems to be exceptionally strong, with the brand struggling to fulfil the or…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-e82bff338f13",
+      "title": "竹本青：【TCL华星认领：独供REDMI K100 Pro系列屏幕，新一代C11自研材料+超级像素技术】 8月11日，TC…",
+      "source": "竹本青",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-08-11",
+      "time": "15:40",
+      "publishedAt": "2026-08-11T15:40:51.000Z",
+      "url": "https://www.coolapk.com/feed/73191022",
+      "image": "http://image.coolapk.com/feed/2026/0811/23/4248714_20108ea8_2850_5974_817@1440x2560.jpg",
+      "summary": "【TCL华星认领：独供REDMI K100 Pro系列屏幕，新一代C11自研材料+超级像素技术】 8月11日，TCL华星宣布独供 REDMI K100 Pro系列屏幕： 185Hz专业电竞直屏，原生超高帧适配多款手游；搭载圆偏振光硬件护眼，全亮度DC调光；采用新一代C11自研发光材料+超级像素技术，色彩通透锐利清晰，兼顾高亮低耗。 #今日热点# #REDM…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-8cb5d139f11d",
+      "title": "iPhone Ultra will have two features that ‘Pro’ users should love",
+      "source": "9to5Mac",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-11",
+      "time": "15:21",
+      "publishedAt": "2026-08-11T15:21:15.000Z",
+      "url": "https://9to5mac.com/2026/08/11/iphone-ultra-will-have-two-features-that-pro-users-should-love/",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/04/iphone-ultra-fold-mockup.jpg?quality=82&strip=all&w=1600",
+      "summary": "iPhone 18 Pro or iPhone Ultra ? That’s the decision upgraders will face next month . Here are two iPhone Ultra features that ‘Pro’ users should really love.",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "coolapk-user-de2247aca2d6",
       "title": "竹本青：【卢伟冰：未来随着新机陆续发布，大家一定会感觉 K100 Pro系列 越来越香】 8月11日，REDMI K100…",
@@ -322,26 +402,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-7c65d690efbc",
-      "title": "三星在韩国线下旗舰店举办展览会，展示 Galaxy Z Fold 系列折叠屏手机七年进化历程",
-      "source": "IT之家",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-11",
-      "time": "10:42",
-      "publishedAt": "2026-08-11T10:42:58.000Z",
-      "url": "https://www.ithome.com/0/988/455.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/8/4b60708c-f75e-4f8e-bcdb-b418e5457742.png",
-      "summary": "IT之家 8 月 11 日消息，据韩媒 The Elec 报道，三星电子昨日在韩国开设“可折叠的传承”展览，希望借此展示 Galaxy Z Fold / Flip 系列折叠屏手机过去七年来的进化历程。 IT之家从原报道获悉， 该展览目前已在韩国三星江南旗舰店正式开放 ， 并作为永久展览运营 。三星还计划在弘大、清潭的线下门店设立相同展示空间。 该展览被分为…",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-ad30298a2d98",
       "title": "iPhone 20 周年版不会被取消，但也不是你想象的样子",
       "source": "爱范儿",
@@ -462,26 +522,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "coolapk-user-0b9f7cafd3f2",
-      "title": "竹本青：有酷友买了这个aiuv盲盒吗，前两天我本来打算再买个星栅，结果发现都下架了，问了店铺客服才知道现在只有盲盒，清库存…",
-      "source": "竹本青",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-08-11",
-      "time": "07:29",
-      "publishedAt": "2026-08-11T07:29:17.000Z",
-      "url": "https://www.coolapk.com/feed/73182743",
-      "image": "http://image.coolapk.com/feed/2026/0811/15/4248714_6df197a6_3356_5101_48@1440x2560.jpg",
-      "summary": "有酷友买了这个aiuv盲盒吗，前两天我本来打算再买个星栅，结果发现都下架了，问了店铺客服才知道现在只有盲盒，清库存随机发",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
       "id": "auto-30b53a5f2df2",
       "title": "Young customers, particularly women, have fallen in love with the Galaxy Z Fold 8",
       "source": "SamMobile",
@@ -519,26 +559,6 @@ window.phoneRadarAuto = {
         "OPPO",
         "爆料",
         "酷安博主"
-      ]
-    },
-    {
-      "id": "auto-6891887d76c9",
-      "title": "Pixel 11 won't get Google's flashy new trick, but there's more to come",
-      "source": "Android Police",
-      "brand": "Pixel",
-      "model": "Pixel 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-11",
-      "time": "06:58",
-      "publishedAt": "2026-08-11T06:58:08.000Z",
-      "url": "https://www.androidpolice.com/pixel-11-wont-get-googles-flashy-new-trick-but-more-come/",
-      "image": "",
-      "summary": "Leaks haven't spoiled all of Google's surprises",
-      "tags": [
-        "Pixel",
-        "爆料",
-        "自动抓取"
       ]
     },
     {
@@ -862,19 +882,19 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-e67a0b4d7c4b",
-      "title": "用个一两周手机就特别卡，狂杀后台，要重启才流畅点",
-      "source": "酷安热榜",
+      "id": "newsnow-a57b8cef7761",
+      "title": "手机NFC功能不要随便打开",
+      "source": "今日头条热榜",
       "brand": "行业",
       "model": "智能手机市场",
       "type": "爆料",
-      "trust": "高关注爆料源",
+      "trust": "媒体汇总",
       "date": "2026-08-11",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73155342",
+      "url": "https://www.toutiao.com/trending/7672232082655182884/",
       "image": "",
-      "summary": "用个一两周手机就特别卡，狂杀后台，要重启才流畅点",
+      "summary": "手机NFC功能不要随便打开",
       "tags": [
         "行业",
         "爆料",

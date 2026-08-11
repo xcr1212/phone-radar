@@ -1,5 +1,5 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-08-11T15:15:12.134Z",
+  "updatedAt": "2026-08-11T17:11:11.712Z",
   "issueDate": "2026-08-11",
   "issue": "VOL.260811",
   "title": "手机情报日报",
@@ -112,29 +112,6 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
-          "id": "auto-7c65d690efbc",
-          "title": "三星在韩国线下旗舰店举办展览会，展示 Galaxy Z Fold 系列折叠屏手机七年进化历程",
-          "originalTitle": "",
-          "source": "IT之家",
-          "brand": "Samsung",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-08-11",
-          "time": "10:42",
-          "publishedAt": "2026-08-11T10:42:58.000Z",
-          "url": "https://www.ithome.com/0/988/455.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/8/4b60708c-f75e-4f8e-bcdb-b418e5457742.png",
-          "verdict": "先看",
-          "takeaway": "IT之家 8 月 11 日消息，据韩媒 The Elec 报道，三星电子昨日在韩国开设“可折叠的传承”展览，希望借此展示 Galaxy Z Fold / Flip 系列折叠屏手机过去七年来的进化历程。 IT之家从原报道获悉， 该展览目前已在韩国三星江南旗舰店正式开放 ， 并作为永久展览运营 。三星还计划在弘大、清潭的线下门店设立相同展示空间。 该展览被分为…",
-          "detail": "IT之家 8 月 11 日消息，据韩媒 The Elec 报道，三星电子昨日在韩国开设“可折叠的传承”展览，希望借此展示 Galaxy Z Fold / Flip 系列折叠屏手机过去七年来的进化历程。 IT之家从原报道获悉， 该展览目前已在韩国三星江南旗舰店正式开放 ， 并作为永久展览运营 。三星还计划在弘大、清潭的线下门店设立相同展示空间。 该展览被分为…",
-          "keyPoints": [
-            "屏幕形态"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
           "id": "weibo-ff324f7988dd",
           "title": "数码闲聊站：REDMI K100 Pro，这首发价格可还行？ 12GB+256GB——36…",
           "originalTitle": "",
@@ -179,6 +156,29 @@ window.phoneRadarDaily = {
             "爆料来源"
           ],
           "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "coolapk-user-e82bff338f13",
+          "title": "竹本青：【TCL华星认领：独供REDMI K100 Pro系列屏幕，新一代C11自研材料+超级像素技术】 8月11日，TC…",
+          "originalTitle": "",
+          "source": "竹本青",
+          "brand": "Xiaomi",
+          "type": "爆料",
+          "trust": "高可信爆料",
+          "date": "2026-08-11",
+          "time": "15:40",
+          "publishedAt": "2026-08-11T15:40:51.000Z",
+          "url": "https://www.coolapk.com/feed/73191022",
+          "image": "http://image.coolapk.com/feed/2026/0811/23/4248714_20108ea8_2850_5974_817@1440x2560.jpg",
+          "verdict": "先看",
+          "takeaway": "【TCL华星认领：独供REDMI K100 Pro系列屏幕，新一代C11自研材料+超级像素技术】 8月11日，TCL华星宣布独供 REDMI K100 Pro系列屏幕： 185Hz专业电竞直屏，原生超高帧适配多款手游；搭载圆偏振光硬件护眼，全亮度DC调光；采用新一代C11自研发光材料+超级像素技术，色彩通透锐利清晰，兼顾高亮低耗。 #今日热点# #REDM…",
+          "detail": "【TCL华星认领：独供REDMI K100 Pro系列屏幕，新一代C11自研材料+超级像素技术】 8月11日，TCL华星宣布独供 REDMI K100 Pro系列屏幕： 185Hz专业电竞直屏，原生超高帧适配多款手游；搭载圆偏振光硬件护眼，全亮度DC调光；采用新一代C11自研发光材料+超级像素技术，色彩通透锐利清晰，兼顾高亮低耗。 #今日热点# #REDM…",
+          "keyPoints": [
+            "屏幕形态"
+          ],
+          "confidence": "可信度较高，但仍属于发布前线索。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
