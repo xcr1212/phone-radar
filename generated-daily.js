@@ -1,5 +1,5 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-08-11T07:36:05.845Z",
+  "updatedAt": "2026-08-11T09:12:37.316Z",
   "issueDate": "2026-08-11",
   "issue": "VOL.260811",
   "title": "手机情报日报",
@@ -138,6 +138,53 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
+          "id": "auto-09dfcecc4ca1",
+          "title": "iQOO Z11S 手机官宣搭载 iQOO 迄今最大 10000mAh 蓝海电池，宁德新能源联合研发",
+          "originalTitle": "",
+          "source": "IT之家",
+          "brand": "vivo",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-08-11",
+          "time": "08:08",
+          "publishedAt": "2026-08-11T08:08:06.000Z",
+          "url": "https://www.ithome.com/0/988/363.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/8/3aba06fc-83c7-47a8-bab8-5fcaf88d18b8.jpg?x-bce-process=image/format,f_auto",
+          "verdict": "先看",
+          "takeaway": "IT之家 8 月 11 日消息，iQOO 官方今日宣布，iQOO Z11S 新机将搭载 10000mAh 蓝海大电池，这也是 iQOO 迄今最大的蓝海电池， 采用单电芯设计 ，由宁德新能源联合研发。 iQOO 官方今日还放出了新机电池核心亮点，包括续航长、低温稳定运行、长寿材质、能效优化等。IT之家注意到， 该机还将兼容 44W PD / PPS 协议、4…",
+          "detail": "IT之家 8 月 11 日消息，iQOO 官方今日宣布，iQOO Z11S 新机将搭载 10000mAh 蓝海大电池，这也是 iQOO 迄今最大的蓝海电池， 采用单电芯设计 ，由宁德新能源联合研发。 iQOO 官方今日还放出了新机电池核心亮点，包括续航长、低温稳定运行、长寿材质、能效优化等。IT之家注意到， 该机还将兼容 44W PD / PPS 协议、4…",
+          "keyPoints": [
+            "电池 / 充电"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "auto-b26ca7c0f50d",
+          "title": "谷歌官方发布 Pixel 11 Pro 手机预热视频，新机 8 月 13 日发布",
+          "originalTitle": "",
+          "source": "IT之家",
+          "brand": "Pixel",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-08-11",
+          "time": "08:03",
+          "publishedAt": "2026-08-11T08:03:35.000Z",
+          "url": "https://www.ithome.com/0/988/362.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/8/57de44c5-12a3-46da-baa2-47faec3b4e6e.jpg?x-bce-process=image/format,f_auto",
+          "verdict": "先看",
+          "takeaway": "IT之家 8 月 11 日消息，谷歌官方现已在 YouTube 平台发布 Pixel 11 Pro 手机的预热视频， 展示新机的外观设计 。 结合IT之家此前援引 Android Headlines 消息，谷歌 Pixel 11 Pro 采用 6.3 英寸屏幕， 升级为 Super Actua OLED LTPO 面板 ，支持 1Hz 至 120Hz 自适…",
+          "detail": "IT之家 8 月 11 日消息，谷歌官方现已在 YouTube 平台发布 Pixel 11 Pro 手机的预热视频， 展示新机的外观设计 。 结合IT之家此前援引 Android Headlines 消息，谷歌 Pixel 11 Pro 采用 6.3 英寸屏幕， 升级为 Super Actua OLED LTPO 面板 ，支持 1Hz 至 120Hz 自适…",
+          "keyPoints": [
+            "外观 / 配色 / 尺寸",
+            "屏幕形态"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
           "id": "auto-60a825c14616",
           "title": "谷歌 Pixel 11 系列 4 款手机渲染图曝光",
           "originalTitle": "",
@@ -158,55 +205,6 @@ window.phoneRadarDaily = {
             "爆料来源"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "auto-eb03f72ab1ee",
-          "title": "三星 Galaxy S26 FE 手机规格曝光：8GB 内存、4900mAh 电池",
-          "originalTitle": "",
-          "source": "IT之家",
-          "brand": "Samsung",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-08-11",
-          "time": "02:49",
-          "publishedAt": "2026-08-11T02:49:52.000Z",
-          "url": "https://www.ithome.com/0/988/217.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/8/848ffdfa-444b-4fdd-9492-312720211e25.png",
-          "verdict": "先看",
-          "takeaway": "IT之家 8 月 11 日消息，科技媒体 WinFuture &nbsp;昨日（8 月 10 日）发布博文，分享了 三星 Galaxy S26 FE 手机的完整规格参数，预估将于 2026 年 9 月上旬发布。 外观方面，消息称 Galaxy S26 FE 手机最薄处为 7.4 毫米，重量 193 克，并支持 IP68 等级防水。三星计划提供深灰色（Gra…",
-          "detail": "IT之家 8 月 11 日消息，科技媒体 WinFuture &nbsp;昨日（8 月 10 日）发布博文，分享了 三星 Galaxy S26 FE 手机的完整规格参数，预估将于 2026 年 9 月上旬发布。 外观方面，消息称 Galaxy S26 FE 手机最薄处为 7.4 毫米，重量 193 克，并支持 IP68 等级防水。三星计划提供深灰色（Gra…",
-          "keyPoints": [
-            "外观 / 配色 / 尺寸",
-            "电池 / 充电",
-            "爆料来源"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "weibo-65e3649e7a1f",
-          "title": "数码闲聊站：荣耀一块新电池试产了，额定容量11790mAh，额定能量43.86Wh，典型值…",
-          "originalTitle": "",
-          "source": "数码闲聊站",
-          "brand": "HONOR",
-          "type": "爆料",
-          "trust": "高关注爆料源",
-          "date": "2026-08-11",
-          "time": "03:36",
-          "publishedAt": "2026-08-11T03:36:00.000Z",
-          "url": "https://weibo.com/6048569942/RcSqrwU59",
-          "image": "",
-          "verdict": "先看",
-          "takeaway": "荣耀一块新电池试产了，额定容量11790mAh，额定能量43.86Wh，典型值是12000mAh±，又双叒一块万级大电池，你们猜这是什么新机[二哈]",
-          "detail": "荣耀一块新电池试产了，额定容量11790mAh，额定能量43.86Wh，典型值是12000mAh±，又双叒一块万级大电池，你们猜这是什么新机[二哈]",
-          "keyPoints": [
-            "电池 / 充电",
-            "爆料来源"
-          ],
-          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         }

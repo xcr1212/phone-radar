@@ -1,6 +1,146 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-08-11T07:36:05.845Z",
+  "updatedAt": "2026-08-11T09:12:37.316Z",
   "news": [
+    {
+      "id": "auto-753e42c73bff",
+      "title": "The Galaxy Z Fold 8 just passed a bend test, but old weaknesses remain",
+      "source": "Android Authority",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-11",
+      "time": "09:07",
+      "publishedAt": "2026-08-11T09:07:03.000Z",
+      "url": "https://www.androidauthority.com/samsung-galaxy-z-fold-8-teardown-durability-3696765/",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2026/08/Samsung-Galaxy-Z-Fold-8-JerryRigEverything.jpg",
+      "summary": "The Fold 8 passed JerryRigEverything's bend test, but what about the screen and dust resistance?",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-edc115a22c53",
+      "title": "The Galaxy Z Fold 8 doesn’t need a Samsung charger — here’s what to buy instead",
+      "source": "Android Authority",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-11",
+      "time": "09:00",
+      "publishedAt": "2026-08-11T09:00:39.000Z",
+      "url": "https://www.androidauthority.com/best-samsung-galaxy-z-fold-8-chargers-3694802/",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2026/08/Samsung-Galaxy-Z-Fold-8-Ultra-battery-usage.jpg",
+      "summary": "The 45W Galaxy Z Fold 8 needs the right charger, not necessarily a Samsung one.",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-4545945221b9",
+      "title": "荣耀 Robot Phone 超前品鉴会明日起在南京、深圳、成都、太原、福州、昆明六城举办",
+      "source": "IT之家",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-11",
+      "time": "08:38",
+      "publishedAt": "2026-08-11T08:38:17.000Z",
+      "url": "https://www.ithome.com/0/988/375.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/8/6fe5911c-479b-43fe-88df-3937e7b3d8a2.jpg?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 8 月 11 日消息，荣耀官方今天宣布，Robot Phone 超前品鉴将从明天起在南京、深圳、成都、太原、福州、昆明六城举办。 据官方介绍，本次活动提供真机上手体验环节， 用户可现场体验这款配备云台相机的手机产品 。同时产品专家还将现场分享使用技巧，用户可以现场将使用体验反馈给产品经理。 IT之家附本次活动具体举行时间地点如下： 时间 地点 8…",
+      "tags": [
+        "HONOR",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-09dfcecc4ca1",
+      "title": "iQOO Z11S 手机官宣搭载 iQOO 迄今最大 10000mAh 蓝海电池，宁德新能源联合研发",
+      "source": "IT之家",
+      "brand": "vivo",
+      "model": "vivo 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-11",
+      "time": "08:08",
+      "publishedAt": "2026-08-11T08:08:06.000Z",
+      "url": "https://www.ithome.com/0/988/363.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/8/3aba06fc-83c7-47a8-bab8-5fcaf88d18b8.jpg?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 8 月 11 日消息，iQOO 官方今日宣布，iQOO Z11S 新机将搭载 10000mAh 蓝海大电池，这也是 iQOO 迄今最大的蓝海电池， 采用单电芯设计 ，由宁德新能源联合研发。 iQOO 官方今日还放出了新机电池核心亮点，包括续航长、低温稳定运行、长寿材质、能效优化等。IT之家注意到， 该机还将兼容 44W PD / PPS 协议、4…",
+      "tags": [
+        "vivo",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-b26ca7c0f50d",
+      "title": "谷歌官方发布 Pixel 11 Pro 手机预热视频，新机 8 月 13 日发布",
+      "source": "IT之家",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-11",
+      "time": "08:03",
+      "publishedAt": "2026-08-11T08:03:35.000Z",
+      "url": "https://www.ithome.com/0/988/362.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/8/57de44c5-12a3-46da-baa2-47faec3b4e6e.jpg?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 8 月 11 日消息，谷歌官方现已在 YouTube 平台发布 Pixel 11 Pro 手机的预热视频， 展示新机的外观设计 。 结合IT之家此前援引 Android Headlines 消息，谷歌 Pixel 11 Pro 采用 6.3 英寸屏幕， 升级为 Super Actua OLED LTPO 面板 ，支持 1Hz 至 120Hz 自适…",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-0e170bbfaac8",
+      "title": "Huawei and DJI mobile camera solutions may show up with Mate 90",
+      "source": "Huawei Central",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-11",
+      "time": "07:43",
+      "publishedAt": "2026-08-11T07:43:41.000Z",
+      "url": "https://www.huaweicentral.com/huawei-dji-camera-features-for-mate-90/",
+      "image": "https://www.huaweicentral.com/wp-content/uploads/2026/07/Pura90sPro-img-1.jpg",
+      "summary": "News regarding Huawei and DJI suggests that their collaborative camera features could show up with the Mate 90 series. While the imaging solutions were expected to debut next year…",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-baa0f64164b2",
+      "title": "可维修模块化手机 Fairphone 6+ 手机曝光：12GB 内存，3 种配件",
+      "source": "IT之家",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-11",
+      "time": "07:39",
+      "publishedAt": "2026-08-11T07:39:00.000Z",
+      "url": "https://www.ithome.com/0/988/349.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/8/35d75a38-a10d-437d-9b30-83d99b293474.png",
+      "summary": "IT之家 8 月 11 日消息，荷兰科技媒体 nieuwemobiel 昨日（8 月 10 日）发布博文，分享了一组渲染图，展示了可维修模块化手机 Fairphone 6+ 手机。 颜色方面，IT之家此前报道， Fairphone 6+ 会有蓝色（Cobalt Blue）、黑色（Horizon Black）以及绿色（Forest Green）三种颜色。 F…",
+      "tags": [
+        "行业",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "coolapk-user-0b9f7cafd3f2",
       "title": "竹本青：有酷友买了这个aiuv盲盒吗，前两天我本来打算再买个星栅，结果发现都下架了，问了店铺客服才知道现在只有盲盒，清库存…",
@@ -83,7 +223,7 @@ window.phoneRadarAuto = {
     },
     {
       "id": "coolapk-user-a12faf44165f",
-      "title": "JSCHEN小小狐：『OPPO A7 新机入网：中屏 / 横向跑道 Deco』 型号：PYE110 ◇ 2.4GHz 8 核处理器（疑…",
+      "title": "JSCHEN小小狐：OPPO A7 新机入网：中屏 / 横向跑道 Deco",
       "source": "JSCHEN小小狐",
       "brand": "OPPO",
       "model": "OPPO 相关机型",
@@ -242,26 +382,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-e6ccbe610fee",
-      "title": "荣耀又双叒一块万级大电池曝光，额定容量 11790mAh 已试产",
-      "source": "IT之家",
-      "brand": "HONOR",
-      "model": "HONOR 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-11",
-      "time": "04:08",
-      "publishedAt": "2026-08-11T04:08:24.000Z",
-      "url": "https://www.ithome.com/0/988/252.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/8/ba0b4f1a-3031-43f2-9e1f-5396491d0767.jpg?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 8 月 11 日消息，博主 @数码闲聊站 今日爆料：荣耀一块新电池试产了， 额定容量 11790mAh ，额定能量 43.86Wh，典型值是 12000mAh±，又双叒一块万级大电池。 评论区网友猜测，这块电池预计将用于 荣耀 Win 2 系列手机。 综合IT之家此前报道， 荣耀 WIN 系列手机于 2025 年 12 月发布 ，WIN RT 定…",
-      "tags": [
-        "HONOR",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "coolapk-user-cc85c6561d62",
       "title": "竹本青：消息称荣耀手机试产12000mAh新电池",
       "source": "竹本青",
@@ -322,26 +442,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-93d8399111c0",
-      "title": "小米 REDMI 投影仪 5 标准版发售：1080P 400 CVIA 流明，999 元",
-      "source": "IT之家",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-11",
-      "time": "03:14",
-      "publishedAt": "2026-08-11T03:14:03.000Z",
-      "url": "https://www.ithome.com/0/988/225.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/8/3e662c7b-68f1-4446-8c96-fb7fc38867a8.jpg",
-      "summary": "IT之家 8 月 11 日消息，小米 REDMI 投影仪 5 标准版现已在有品（ 点此访问 ）发售，标准价 1299 元， 首发价 999 元 。 该投影仪延续米家产品线简约现代风格，整体造型圆润，配备了一体式金属云台，支持 360° 调节。其搭载了定制密闭式光机，提供 1080P 物理分辨率，拥有 400 流明 CVIA 亮度及 1.2:1 的投射比，配…",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-45b89607b7ab",
       "title": "Apple Still Planning 'Glass-Centric' iPhone Redesign for 2027",
       "source": "MacRumors",
@@ -379,26 +479,6 @@ window.phoneRadarAuto = {
         "vivo",
         "爆料",
         "酷安博主"
-      ]
-    },
-    {
-      "id": "auto-eb03f72ab1ee",
-      "title": "三星 Galaxy S26 FE 手机规格曝光：8GB 内存、4900mAh 电池",
-      "source": "IT之家",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-11",
-      "time": "02:49",
-      "publishedAt": "2026-08-11T02:49:52.000Z",
-      "url": "https://www.ithome.com/0/988/217.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/8/848ffdfa-444b-4fdd-9492-312720211e25.png",
-      "summary": "IT之家 8 月 11 日消息，科技媒体 WinFuture &nbsp;昨日（8 月 10 日）发布博文，分享了 三星 Galaxy S26 FE 手机的完整规格参数，预估将于 2026 年 9 月上旬发布。 外观方面，消息称 Galaxy S26 FE 手机最薄处为 7.4 毫米，重量 193 克，并支持 IP68 等级防水。三星计划提供深灰色（Gra…",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
       ]
     },
     {
@@ -557,6 +637,46 @@ window.phoneRadarAuto = {
       "summary": "用个一两周手机就特别卡，狂杀后台，要重启才流畅点",
       "tags": [
         "行业",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-75b157137a06",
+      "title": "安卓年年说超越iPhone，在销量面前有点搞笑了[受虐滑稽]",
+      "source": "酷安热榜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-08-11",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/73169156",
+      "image": "",
+      "summary": "安卓年年说超越iPhone，在销量面前有点搞笑了[受虐滑稽]",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-019dd3e80134",
+      "title": "罗永浩吐槽苹果手机语音输入法",
+      "source": "酷安热榜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-08-11",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/73171268",
+      "image": "",
+      "summary": "罗永浩吐槽苹果手机语音输入法",
+      "tags": [
+        "iPhone",
         "爆料",
         "NewsNow"
       ]
@@ -1199,26 +1319,6 @@ window.phoneRadarAuto = {
         "vivo",
         "爆料",
         "自动抓取"
-      ]
-    },
-    {
-      "id": "weibo-32abe9758543",
-      "title": "数码闲聊站：iQOO Neo11至尊版，这设计感受一下：",
-      "source": "数码闲聊站",
-      "brand": "vivo",
-      "model": "vivo 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-08-10",
-      "time": "02:03",
-      "publishedAt": "2026-08-10T02:03:00.000Z",
-      "url": "https://weibo.com/6048569942/RcIocn4ns",
-      "image": "https://tvax1.sinaimg.cn/mw2000/006BlblIgy1ifyc7r2yrvj3140140113.jpg",
-      "summary": "iQOO Neo11至尊版，这设计感受一下：",
-      "tags": [
-        "vivo",
-        "爆料",
-        "微博"
       ]
     }
   ]
