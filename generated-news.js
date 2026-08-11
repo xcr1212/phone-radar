@@ -1,6 +1,86 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-08-11T17:11:11.712Z",
+  "updatedAt": "2026-08-11T19:18:36.067Z",
   "news": [
+    {
+      "id": "auto-83bcf9088073",
+      "title": "Galaxy Z Fold 8 proves customers will no longer pay for boring upgrades",
+      "source": "SamMobile",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-11",
+      "time": "17:45",
+      "publishedAt": "2026-08-11T17:45:48.000Z",
+      "url": "https://www.sammobile.com/opinion/galaxy-z-fold-8-shows-customers-no-longer-pay-boring-upgrades/",
+      "image": "",
+      "summary": "The smartphone market analysis from the first half of 2026 shows a consistent picture. Smartphone shipments are down double digits compared to the same period last year. Consumer…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-2fbb38c33c54",
+      "title": "The Galaxy Z Fold 8 Ultra's best camera mode isn't what Samsung thinks it is",
+      "source": "Android Police",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-11",
+      "time": "17:30",
+      "publishedAt": "2026-08-11T17:30:16.000Z",
+      "url": "https://www.androidpolice.com/galaxy-z-fold-8-ultras-best-camera-mode/",
+      "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2026/08/samsung-galaxy-z-fold-8-ultra-filters-feature.jpg",
+      "summary": "Not Cinematic LUTs, but custom filters",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-102350acc334",
+      "title": "Google’s upcoming Pixel phones are for the fans, even if its launch event isn’t",
+      "source": "The Verge",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-11",
+      "time": "16:49",
+      "publishedAt": "2026-08-11T16:49:31.000Z",
+      "url": "https://www.theverge.com/tech/977844/made-by-google-pixel-11-launch-power-users-notification-led",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/videoframe_16661.png?quality=90&strip=all&crop=0,0,100,100",
+      "summary": "Last year's Made by Google event for the Pixel 10 resembled a late night talk show, complete with Jimmy Fallon as host, and it aired an hour after the phones were revealed. Spec d…",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-816ed2f1a2f2",
+      "title": "Made by Google 2026: all the Pixel news and announcements",
+      "source": "The Verge",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-11",
+      "time": "16:48",
+      "publishedAt": "2026-08-11T16:48:59.000Z",
+      "url": "https://www.theverge.com/tech/977561/made-by-google-2026-pixel-11-news",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/made-by-google-.png?quality=90&strip=all&crop=0,0,100,100",
+      "summary": "Google is gearing up to reveal a bunch of new Pixel devices on August 12th. A series of leaks leading up to the event suggest that the Pixel 11 lineup will come in an array of col…",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-78e97b1c390a",
       "title": "Samsung's Galaxy S27 Pro camera move is actually a genius product strategy",
@@ -517,26 +597,6 @@ window.phoneRadarAuto = {
       "summary": "News regarding Huawei and DJI suggests that their collaborative camera features could show up with the Mate 90 series. While the imaging solutions were expected to debut next year…",
       "tags": [
         "Huawei",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-30b53a5f2df2",
-      "title": "Young customers, particularly women, have fallen in love with the Galaxy Z Fold 8",
-      "source": "SamMobile",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-11",
-      "time": "07:24",
-      "publishedAt": "2026-08-11T07:24:58.000Z",
-      "url": "https://www.sammobile.com/news/young-customers-particularly-women-have-fallen-in-love-with-the-galaxy-z-fold-8/",
-      "image": "",
-      "summary": "Samsung is seeing incredible demand for the Galaxy Z Fold 8. The company has increased production by one million units to meet the demand following the successful pre-order rush.…",
-      "tags": [
-        "Samsung",
         "爆料",
         "自动抓取"
       ]
