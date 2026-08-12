@@ -1,6 +1,366 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-08-12T11:09:44.681Z",
+  "updatedAt": "2026-08-12T13:45:20.317Z",
   "news": [
+    {
+      "id": "coolapk-user-9f8c0de09d0d",
+      "title": "竹本青：天马宣布独家供屏 荣耀Robot Phone #今日热点# #荣耀ROBOTPHONE#",
+      "source": "竹本青",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-08-12",
+      "time": "13:37",
+      "publishedAt": "2026-08-12T13:37:41.000Z",
+      "url": "https://www.coolapk.com/feed/73205567",
+      "image": "http://image.coolapk.com/feed/2026/0812/21/4248714_ca93f528_1860_2498_371@1080x608.jpg",
+      "summary": "天马宣布独家供屏 荣耀Robot Phone #今日热点# #荣耀ROBOTPHONE#",
+      "tags": [
+        "HONOR",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-22660e442261",
+      "title": "Foxconn used to make half its revenue from Apple; now it’s below 29%",
+      "source": "9to5Mac",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-12",
+      "time": "13:08",
+      "publishedAt": "2026-08-12T13:08:09.000Z",
+      "url": "https://9to5mac.com/2026/08/12/foxconn-used-to-make-half-its-revenue-from-apple-now-its-below-29/",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/Foxconn-used-to-make-half-its-revenue-from-Apple-now-its-below-29pc.jpg?quality=82&strip=all&w=1600",
+      "summary": "As Apple’s lead iPhone assembler, contract manufacturing company Foxconn long made more than half of its revenue from the Cupertino company. As of the last quarter, however, that…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-03f502484ba6",
+      "title": "荣耀 Magic9 系列手机开启预约，今年 9 月正式发布",
+      "source": "IT之家",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-12",
+      "time": "12:51",
+      "publishedAt": "2026-08-12T12:51:15.000Z",
+      "url": "https://www.ithome.com/0/988/963.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/8/086c21cd-aaa9-4194-a563-59c222553e8b.jpg?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 8 月 12 日消息，在今晚的荣耀 Robot Phone 全球新品发布会上，全球首款机器人手机 —— 荣耀 Robot Phone 正式发布，定价 9999 元起。 IT之家注意到，荣耀终端股份有限公司 CEO 李健宣布，Magic9 系列手机今日开启预约，将在今年 9 月正式发布。 值得一提的是，系列新机外观今日首曝。从发布会现场公布的 PP…",
+      "tags": [
+        "HONOR",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-8175a6aa0799",
+      "title": "竹本青：荣耀 Magic 9系列将于9月发布：现已开启预约",
+      "source": "竹本青",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-08-12",
+      "time": "12:44",
+      "publishedAt": "2026-08-12T12:44:46.000Z",
+      "url": "https://www.coolapk.com/feed/73204649",
+      "image": "http://image.coolapk.com/feed/2026/0812/20/4248714_97912e98_8685_9079_78@2560x1440.jpg",
+      "summary": "【荣耀 Magic9系列 官宣9月发布：更聪明的YOYO，更强大的ARRI影像，现已开启预约】 8月12日，在荣耀Robot Phone发布会上，CEO李健宣布 Magic9系列 即日起开启预约，并将于9月正式发布。 “Robot Phone只是荣耀敢想、敢不同的起点，比Robot Phone更聪明的YOYO，更强大的ARRI影像，将在焕然一新的Magic…",
+      "tags": [
+        "HONOR",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-cf55c2101c7a",
+      "title": "'iPhone Ultra' Screen Protectors Reveal Asymmetric Corners",
+      "source": "MacRumors",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-12",
+      "time": "12:44",
+      "publishedAt": "2026-08-12T12:44:10.000Z",
+      "url": "https://www.macrumors.com/2026/08/12/iphone-ultra-screen-protectors-reveal-asymmetry/",
+      "image": "https://images.macrumors.com/article-new/2025/03/Foldable-iPhone-2023-Feature-Iridescent-1.jpg",
+      "summary": "The leaker known as \"Ice Universe\" today shared images and a hands on video of screen protectors for Apple's rumored \" iPhone Ultra ,\" and the leak appears to confirm two of the m…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-d91fb01163d3",
+      "title": "9999 元起，荣耀 Robot Phone 手机正式发布",
+      "source": "IT之家",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-12",
+      "time": "12:37",
+      "publishedAt": "2026-08-12T12:37:23.000Z",
+      "url": "https://www.ithome.com/0/988/961.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/8/99c6e473-f3f6-45fd-85d1-3ddc382536e4.jpg?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 8 月 12 日消息，荣耀在今天的发布会中正式推出了 Robot Phone 手机，定价为 9999 元起。 12GB RAM + 512GB 存储空间：9999 元 16GB RAM + 1TB 存储空间：12999 元 该机可选星轨银 / 月影灰两种配色，整体厚度 9.59mm，重量 248g，正面配备一块 6.3 英寸 2640x1216…",
+      "tags": [
+        "HONOR",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-9786a61c8c36",
+      "title": "竹本青：【荣耀Robot Phone 正式发布：自研钛合金云台，骁龙8 Elite Gen5平台，9999元起】 12GB…",
+      "source": "竹本青",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-08-12",
+      "time": "12:36",
+      "publishedAt": "2026-08-12T12:36:48.000Z",
+      "url": "https://www.coolapk.com/feed/73204505",
+      "image": "http://image.coolapk.com/feed/2026/0812/20/4248714_927ec847_9488_0565_802@1820x4096.jpg",
+      "summary": "【荣耀Robot Phone 正式发布：自研钛合金云台，骁龙8 Elite Gen5平台，9999元起】 12GB+512GB —— 9999元 16GB+1TB —— 12999元 核心： ● 6.31\"1.5K 120Hz LTPO直屏 ● 骁龙8 Elite Gen5处理器 ● LPDDR5X+UFS4.1 ● 7060mAh+120W有线+50W无…",
+      "tags": [
+        "HONOR",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "coolapk-user-730dd59d2117",
+      "title": "JSCHEN小小狐：荣耀 Robot Phone 发布：售价 9999 元起",
+      "source": "JSCHEN小小狐",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-08-12",
+      "time": "12:36",
+      "publishedAt": "2026-08-12T12:36:25.000Z",
+      "url": "https://www.coolapk.com/feed/73204500",
+      "image": "http://image.coolapk.com/feed/2026/0812/21/4702274_d742f81a_9701_0886_47@1899x4364.jpg",
+      "summary": "『荣耀 Robot Phone 发布：售价 9999 元起』 12GB + 512GB —— 9999 元 16GB + 1TB —— 12999 元 ◇ 外观 星轨银、月影灰 铝合金一体化机身 + 复合玻纤背板 151.43 × 72.86 × 9.59mm，约 248 克 ◇ 性能 骁龙 8 Elite Gen5 移动平台 LPDDR5X 内存 UFS…",
+      "tags": [
+        "HONOR",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-394340eb9654",
+      "title": "Honor shares the first look of the Magic 9 series smartphone",
+      "source": "Huawei Central",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-12",
+      "time": "12:27",
+      "publishedAt": "2026-08-12T12:27:21.000Z",
+      "url": "https://www.huaweicentral.com/honor-shares-the-first-look-of-the-magic-9-series-smartphone/",
+      "image": "https://www.huaweicentral.com/wp-content/uploads/2026/08/Magic9camera.jpg",
+      "summary": "Honor ROBOT PHONE launch event held today and apart from the incredible device, the company has unexpectedly showcased the first look at the Magic 9 series smartphone, giving a sm…",
+      "tags": [
+        "HONOR",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-7c1cf61dfa1c",
+      "title": "iPhone 20 Pro’s all-glass design spotted in supply chain, says leaker",
+      "source": "9to5Mac",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-12",
+      "time": "12:19",
+      "publishedAt": "2026-08-12T12:19:34.000Z",
+      "url": "https://9to5mac.com/2026/08/12/iphone-20-pros-all-glass-design-spotted-in-supply-chain-says-leaker/",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/05/iphone-20th-anniversary.jpg?quality=82&strip=all&w=1600",
+      "summary": "This week has seen conflicting reports on whether or not Apple has given up on its plan to launch a radical new iPhone design next year, which I’ll refer to as the iPhone 20 Pro f…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-273ba21962db",
+      "title": "JSCHEN小小狐：这小玩意机身设计还是挺有意思的 可惜云台启动后，没录制也会很快热起来",
+      "source": "JSCHEN小小狐",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-08-12",
+      "time": "12:02",
+      "publishedAt": "2026-08-12T12:02:32.000Z",
+      "url": "https://www.coolapk.com/feed/73203973",
+      "image": "http://image.coolapk.com/feed/2026/0812/20/4702274_d4cf5580_6149_0785_9-uhdr@2365x3504.jpg",
+      "summary": "这小玩意机身设计还是挺有意思的 可惜云台启动后，没录制也会很快热起来",
+      "tags": [
+        "HONOR",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-6ff06d6d44a3",
+      "title": "I used the Galaxy Z Fold 8 and Razr Fold side-by-side; it was hard to pick the winner",
+      "source": "Android Police",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-12",
+      "time": "12:00",
+      "publishedAt": "2026-08-12T12:00:16.000Z",
+      "url": "https://www.androidpolice.com/motorola-razr-fold-vs-samsung-galaxy-z-fold-8-comparison-winner/",
+      "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2026/08/galaxy-z-fold-8-moto-razr-hand.JPG",
+      "summary": "Two great folding phones for very different people",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-aa1ecd38e07e",
+      "title": "荣耀 Robot Phone 手机搭载 Agentic OS 新一代伙伴型多模态智能操作系统，首发全新 YOYO Pro",
+      "source": "IT之家",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-12",
+      "time": "11:48",
+      "publishedAt": "2026-08-12T11:48:05.000Z",
+      "url": "https://www.ithome.com/0/988/946.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/8/91498a89-6971-4ac4-8225-938dd11359a9.jpg?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 8 月 12 日消息，在今晚的荣耀 Robot Phone 全球新品发布会上，荣耀官方宣布， Robot Phone 将搭载 Agentic OS 新一代伙伴型多模态智能操作系统 。 荣耀 Robot Phone 手机提供星轨银和月影灰两款配色， 将首发全新 YOYO Pro 模式 ，由阿里千问大模型深度加持，支持超长任务执行、跨生态联动等功能。…",
+      "tags": [
+        "HONOR",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-06fd8e418a07",
+      "title": "Leaker: All-Glass 2027 iPhone Still on Track Despite Cancellation Rumors",
+      "source": "MacRumors",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-12",
+      "time": "11:43",
+      "publishedAt": "2026-08-12T11:43:28.000Z",
+      "url": "https://www.macrumors.com/2026/08/12/all-glass-20th-anniversary-iphone-on-track/",
+      "image": "https://images.macrumors.com/article-new/2026/01/Mostly-Screen-iPhone-Purple-Feature-2027.jpg",
+      "summary": "There's been more pushback against the recent analyst report that claimed Apple's all-glass 20th-anniversary iPhone next year has been canceled. Bloomberg 's Mark Gurman has alrea…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-ad4aae5c48e4",
+      "title": "全球首款机器人手机：荣耀 Robot Phone 官宣搭载行业最小全钛云台架构",
+      "source": "IT之家",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-12",
+      "time": "11:41",
+      "publishedAt": "2026-08-12T11:41:03.000Z",
+      "url": "https://www.ithome.com/0/988/943.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/8/1e234e58-a429-4f89-9ea9-8a8c2a4a42c7.jpg?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 8 月 12 日消息，在今晚的荣耀 Robot Phone 全球新品发布会上，全球首款机器人手机 —— 荣耀 Robot Phone 正式亮相。 IT之家注意到，荣耀 Robot Phone 开创性地打造钛合金灵巧云台，将 4DoF 机械臂装入方寸机身， 拥有行业最小全钛云台架构、行业最轻钛合金云台电机、行业最快钛合金云台电机、行业最强盾构钢翻转…",
+      "tags": [
+        "HONOR",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-efec3c46d7e2",
+      "title": "荣耀 Magic9 系列手机外观首曝：大圆镜组、阿莱联名标签 LOGO",
+      "source": "IT之家",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-12",
+      "time": "11:28",
+      "publishedAt": "2026-08-12T11:28:41.000Z",
+      "url": "https://www.ithome.com/0/988/940.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/8/a8a10087-0516-4bbe-a8b7-a06969295c6b.jpg",
+      "summary": "IT之家 8 月 12 日消息，在今天的荣耀 Robot Phone 全球新品发布会上， 荣耀 Magic9 系列手机外观首曝 。 从发布会现场公布的 PPT 可以看到 Magic9 系列手机外观的镜头部分：后置大圆镜头模组， 并印有阿莱联名标签 LOGO 。 据IT之家此前报道， 消息称荣耀 Magic 9 系列新机暂定 9 月底发布 ，预计 28 日前…",
+      "tags": [
+        "HONOR",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-3c4b11956bea",
+      "title": "竹本青：荣耀Magic9系列外观曝光：阿莱联名标识",
+      "source": "竹本青",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-08-12",
+      "time": "11:25",
+      "publishedAt": "2026-08-12T11:25:51.000Z",
+      "url": "https://www.coolapk.com/feed/73203454",
+      "image": "http://image.coolapk.com/feed/2026/0812/19/4248714_49670423_3949_7781_40@1080x1153.jpg",
+      "summary": "【荣耀 Magic9系列 外观首次曝光：横向矩阵+左上大圆，阿莱联名标识】 8月12日，正在进行的荣耀Robot Phone发布会上，荣耀 Magic9系列 外观首次曝光。 渲染图显示，新机采用双层DECO设计：左上大圆+横向大矩阵。镜组刻印2亿像素，1/1.4\"，F/2.6光圈，ASPH非球面镜片，阿莱ARRI标识。 #今日热点# #荣耀Magic9#…",
+      "tags": [
+        "HONOR",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-04807cb7f5b9",
+      "title": "Vivo X300 FE’s most affordable variant launched, but there’s a catch",
+      "source": "Gizmochina",
+      "brand": "vivo",
+      "model": "vivo 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-12",
+      "time": "11:12",
+      "publishedAt": "2026-08-12T11:12:10.000Z",
+      "url": "https://www.gizmochina.com/2026/08/12/vivo-x300-fe-8gb-256gb-variant-launched-most-affordable-price/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/06/Vivo-X300-FE-with-extender--300x225.jpg?x23692",
+      "summary": "Vivo unveiled the Vivo X300 FE in May this year. At the time, the smartphone was introduced in 256GB and 512GB storage versions, with both variants offering 12GB of RAM. Now, the…",
+      "tags": [
+        "vivo",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-e4f18a8b1a0c",
       "title": "This shocking Zoom bug allowed silent device takeovers on Android and iOS",
@@ -102,26 +462,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-f41dd7f2008b",
-      "title": "vivo OriginOS 7 系统 Beta 版开推，「视频剪辑导出流畅」特性首曝",
-      "source": "IT之家",
-      "brand": "vivo",
-      "model": "vivo 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-12",
-      "time": "09:10",
-      "publishedAt": "2026-08-12T09:10:34.000Z",
-      "url": "https://www.ithome.com/0/988/854.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/8/7189a166-2bf5-4785-a5f5-aa8e1ba4b2a4.jpg?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 8 月 12 日消息， OriginOS 7 系统已于今年 7 月底开启了 Beta 内测招募 ，首批适配 vivo X300 Pro 、 vivo X Fold6 、 iQOO 15 等机型。 IT之家注意到，vivo OS 产品总监 @vivo百奇Bucky 今日发文分享， OriginOS 7 系统 Beta 版已经陆续推送 。他还首曝了新…",
-      "tags": [
-        "vivo",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-63c9fa7c0d33",
       "title": "I found the Galaxy Z Fold 8’s biggest weakness, and it’s not the new design",
       "source": "Android Authority",
@@ -137,26 +477,6 @@ window.phoneRadarAuto = {
       "summary": "It’s 2026, and Samsung is still behind on multitasking on foldables.",
       "tags": [
         "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-2a4d1e337354",
-      "title": "小米澎湃 HyperOS 4 系统蓄势待发，REDMI 产品经理胡馨心透露“在路上了”",
-      "source": "IT之家",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-12",
-      "time": "08:54",
-      "publishedAt": "2026-08-12T08:54:36.000Z",
-      "url": "https://www.ithome.com/0/988/839.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/8/296be81e-bbae-49cd-8026-6bf69363e138.png?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 8 月 12 日消息，随着时间的推进，小米澎湃 HyperOS 4 系统离正式发布也越来越近。有网友询问新系统何时推出 Beta 版，REDMI 产品经理胡馨心透露“ 在路上了 ”。 据IT之家此前报道， 博主 @数码闲聊站 分享了小米澎湃 HyperOS 4 系统的部分新特性 ： 大量实时光场渲染 ✓ 玻璃材质 ✓ 大文件夹自定义 ✓ 堆叠桌面…",
-      "tags": [
-        "Xiaomi",
         "爆料",
         "自动抓取"
       ]
@@ -197,26 +517,6 @@ window.phoneRadarAuto = {
       "summary": "Huawei Mate 90 series launch event is expected to take place on the 23rd of next month, and at the same time, the company could unveil two mysterious phones. A new leak suggests t…",
       "tags": [
         "Huawei",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-4ec3c049671e",
-      "title": "荣耀罗巍：就在今晚，又一次重新定义移动影像",
-      "source": "IT之家",
-      "brand": "HONOR",
-      "model": "HONOR 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-12",
-      "time": "08:15",
-      "publishedAt": "2026-08-12T08:15:09.000Z",
-      "url": "https://www.ithome.com/0/988/817.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/8/06e29ac8-1bdf-485d-aca4-de809f96c897.png",
-      "summary": "IT之家 8 月 12 日消息，荣耀首席影像工程师罗巍今日在微博高调发文，为荣耀 Robot Phone 手机预热： 就在今晚 又一次重新定义移动影像 为什么我要说又 据IT之家此前报道，在 7 月 28 日的荣耀影像技术发布会上，罗巍表示，2025 年是荣耀的筑基之年，核心是希望能够上桌。荣耀逐个攻克了用户感知最强的基础痛点，防抖、亮度、色彩和多色一致性…",
-      "tags": [
-        "HONOR",
         "爆料",
         "自动抓取"
       ]
@@ -322,26 +622,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "coolapk-user-541d3d532a56",
-      "title": "竹本青：iQOO Z11S预热：144Hz刷新率，2000nits全屏亮度",
-      "source": "竹本青",
-      "brand": "vivo",
-      "model": "vivo 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-08-12",
-      "time": "06:01",
-      "publishedAt": "2026-08-12T06:01:45.000Z",
-      "url": "https://www.coolapk.com/feed/73198444",
-      "image": "http://image.coolapk.com/feed/2026/0812/14/4248714_ee886a13_4501_3848_217@2494x3325.jpg",
-      "summary": "【iQOO Z11S 屏幕预热：144Hz刷新率，2000nits全屏亮度】 ▫️6.83英寸 144Hz屏幕 ▫️2000nits全屏最大亮度 ▫️瞬时触控2000Hz／多指触控300Hz ▫️全亮度类DC+2160Hz PWM调光 ▫️SGS低蓝光+低频闪认证 #今日热点# #iQOOZ11S# #OriginOS6#",
-      "tags": [
-        "vivo",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
       "id": "auto-92bf774e39d9",
       "title": "Vivo X500, iQOO 16 latest certification reveals charging speeds, September launch expected",
       "source": "Gizmochina",
@@ -359,26 +639,6 @@ window.phoneRadarAuto = {
         "vivo",
         "爆料",
         "自动抓取"
-      ]
-    },
-    {
-      "id": "coolapk-user-33ee714e9cf5",
-      "title": "竹本青：【9月23日深圳，华为终端Haco发布会助兴演出获批】 演出名称：华为终端Haco发布会助兴演出 演出地：广东省‑…",
-      "source": "竹本青",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-08-12",
-      "time": "05:05",
-      "publishedAt": "2026-08-12T05:05:24.000Z",
-      "url": "https://www.coolapk.com/feed/73197694",
-      "image": "http://image.coolapk.com/feed/2026/0812/13/4248714_7b8ebabe_1123_8162_912@1272x2368.jpg",
-      "summary": "【9月23日深圳，华为终端Haco发布会助兴演出获批】 演出名称：华为终端Haco发布会助兴演出 演出地：广东省‑深圳市‑宝安区 演出时间：2026‑09‑23 至 2026‑09‑23 演出场所：深圳国际会展中心20号馆 8月12日资讯，华为终端Haco发布会助兴演出，现身文化和旅游部官网，预计为华为Mate 90系列新品发布会。 #鸿蒙6# #华为Ma…",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "酷安博主"
       ]
     },
     {
@@ -542,8 +802,48 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-efbbd6014bf5",
-      "title": "为什么一些东北的朋友经常称「手机」为「电话」？",
+      "id": "newsnow-dca1129ac4b1",
+      "title": "精密制造能力在机器人手机上具象化",
+      "source": "微博热搜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "待验证",
+      "date": "2026-08-12",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://s.weibo.com/weibo?q=%23%E7%B2%BE%E5%AF%86%E5%88%B6%E9%80%A0%E8%83%BD%E5%8A%9B%E5%9C%A8%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%89%8B%E6%9C%BA%E4%B8%8A%E5%85%B7%E8%B1%A1%E5%8C%96%23&t=31&band_rank=20&Refer=top",
+      "image": "",
+      "summary": "精密制造能力在机器人手机上具象化",
+      "tags": [
+        "行业",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-b16471a5258c",
+      "title": "最能接话的机器人手机",
+      "source": "微博热搜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "待验证",
+      "date": "2026-08-12",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://s.weibo.com/weibo?q=%23%E6%9C%80%E8%83%BD%E6%8E%A5%E8%AF%9D%E7%9A%84%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%89%8B%E6%9C%BA%23&t=31&band_rank=23&Refer=top",
+      "image": "",
+      "summary": "最能接话的机器人手机",
+      "tags": [
+        "行业",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-7313cd038915",
+      "title": "据媒体报道部分手机壳疑似采用废弃针管等医疗垃圾加工而成，真的吗？对健康会有多大危害？消费者该如何辨别？",
       "source": "知乎热榜",
       "brand": "行业",
       "model": "智能手机市场",
@@ -552,9 +852,9 @@ window.phoneRadarAuto = {
       "date": "2026-08-12",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.zhihu.com/question/2050334625361294869",
+      "url": "https://www.zhihu.com/question/2070066925363619123",
       "image": "",
-      "summary": "为什么一些东北的朋友经常称「手机」为「电话」？",
+      "summary": "据媒体报道部分手机壳疑似采用废弃针管等医疗垃圾加工而成，真的吗？对健康会有多大危害？消费者该如何辨别？",
       "tags": [
         "行业",
         "市场报告",
@@ -562,21 +862,41 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-c6b9750ab3ca",
-      "title": "几块钱的手机壳可能在消耗你的健康",
-      "source": "今日头条热榜",
-      "brand": "行业",
-      "model": "智能手机市场",
+      "id": "newsnow-3ef88594269f",
+      "title": "荣耀发布首款机器人手机 9999元起售",
+      "source": "百度热搜",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
       "type": "爆料",
       "trust": "媒体汇总",
       "date": "2026-08-12",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.toutiao.com/trending/7671708004344922175/",
+      "url": "https://www.baidu.com/s?wd=%E8%8D%A3%E8%80%80%E5%8F%91%E5%B8%83%E9%A6%96%E6%AC%BE%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%89%8B%E6%9C%BA+9999%E5%85%83%E8%B5%B7%E5%94%AE",
       "image": "",
-      "summary": "几块钱的手机壳可能在消耗你的健康",
+      "summary": "荣耀发布首款机器人手机 9999元起售",
       "tags": [
-        "行业",
+        "HONOR",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-4227a1ad4244",
+      "title": "iPhone 20 Pro概念渲染图曝光",
+      "source": "抖音热点",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "待验证",
+      "date": "2026-08-12",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.douyin.com/hot/2607268",
+      "image": "",
+      "summary": "iPhone 20 Pro概念渲染图曝光",
+      "tags": [
+        "iPhone",
         "爆料",
         "NewsNow"
       ]
@@ -597,26 +917,6 @@ window.phoneRadarAuto = {
       "summary": "A new report from Sensor Tower shows that non-gaming apps continued to drive global mobile spending growth in Q2 2026 across iOS and Android, while gaming revenue declined 4.5% ye…",
       "tags": [
         "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-816ed2f1a2f2",
-      "title": "Made by Google 2026: all the Pixel news and announcements",
-      "source": "The Verge",
-      "brand": "Pixel",
-      "model": "Pixel 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-11",
-      "time": "20:33",
-      "publishedAt": "2026-08-11T20:33:23.000Z",
-      "url": "https://www.theverge.com/tech/977561/made-by-google-2026-pixel-11-news",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/made-by-google-.png?quality=90&strip=all&crop=0,0,100,100",
-      "summary": "Google is gearing up to reveal a bunch of new Pixel devices on August 12th. A series of leaks leading up to the event suggest that the Pixel 11 lineup will come in an array of col…",
-      "tags": [
-        "Pixel",
         "爆料",
         "自动抓取"
       ]
@@ -662,26 +962,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-83bcf9088073",
-      "title": "Galaxy Z Fold 8 proves customers will no longer pay for boring upgrades",
-      "source": "SamMobile",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-11",
-      "time": "17:45",
-      "publishedAt": "2026-08-11T17:45:48.000Z",
-      "url": "https://www.sammobile.com/opinion/galaxy-z-fold-8-shows-customers-no-longer-pay-boring-upgrades/",
-      "image": "",
-      "summary": "The smartphone market analysis from the first half of 2026 shows a consistent picture. Smartphone shipments are down double digits compared to the same period last year. Consumer…",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-2fbb38c33c54",
       "title": "The Galaxy Z Fold 8 Ultra's best camera mode isn't what Samsung thinks it is",
       "source": "Android Police",
@@ -702,46 +982,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-102350acc334",
-      "title": "Google’s upcoming Pixel phones are for the fans, even if its launch event isn’t",
-      "source": "The Verge",
-      "brand": "Pixel",
-      "model": "Pixel 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-11",
-      "time": "16:49",
-      "publishedAt": "2026-08-11T16:49:31.000Z",
-      "url": "https://www.theverge.com/tech/977844/made-by-google-pixel-11-launch-power-users-notification-led",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/videoframe_16661.png?quality=90&strip=all&crop=0,0,100,100",
-      "summary": "Last year's Made by Google event for the Pixel 10 resembled a late night talk show, complete with Jimmy Fallon as host, and it aired an hour after the phones were revealed. Spec d…",
-      "tags": [
-        "Pixel",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-78e97b1c390a",
-      "title": "Samsung's Galaxy S27 Pro camera move is actually a genius product strategy",
-      "source": "Android Police",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-11",
-      "time": "16:15",
-      "publishedAt": "2026-08-11T16:15:16.000Z",
-      "url": "https://www.androidpolice.com/galaxy-s27-pros-disappointing-camera-is-a-genius-decision/",
-      "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2026/08/hand-holding-a-samsung-galaxy-s27-pro-with-the-rear-camera-visible-2.png",
-      "summary": "The widely rumored removal of the Galaxy S27 Ultra's 3x telephoto could be a deliberate move to avoid direct comparisons with the Galaxy S27 Pro",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-8cb5d139f11d",
       "title": "iPhone Ultra will have two features that ‘Pro’ users should love",
       "source": "9to5Mac",
@@ -755,26 +995,6 @@ window.phoneRadarAuto = {
       "url": "https://9to5mac.com/2026/08/11/iphone-ultra-will-have-two-features-that-pro-users-should-love/",
       "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/04/iphone-ultra-fold-mockup.jpg?quality=82&strip=all&w=1600",
       "summary": "iPhone 18 Pro or iPhone Ultra ? That’s the decision upgraders will face next month . Here are two iPhone Ultra features that ‘Pro’ users should really love.",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-d2f039b7bae0",
-      "title": "iPhone 18 Pro Will Reportedly Start With 256GB of Storage",
-      "source": "MacRumors",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-11",
-      "time": "13:50",
-      "publishedAt": "2026-08-11T13:50:27.000Z",
-      "url": "https://www.macrumors.com/2026/08/11/iphone-18-pro-base-256gb-storage-report/",
-      "image": "https://images.macrumors.com/article-new/2026/08/iPhone-18-Pro-Dark-Cherry-Feature.jpg",
-      "summary": "While the iPhone 17 Pro has double the base storage compared to the iPhone 16 Pro, there will apparently be no further increase this year. In a report this week estimating that th…",
       "tags": [
         "iPhone",
         "爆料",
@@ -859,26 +1079,6 @@ window.phoneRadarAuto = {
         "Xiaomi",
         "爆料",
         "微博"
-      ]
-    },
-    {
-      "id": "auto-e9ded44a3e4d",
-      "title": "Huawei testing 7.6′ and 6.3′ main screens for Pura X2 series",
-      "source": "Huawei Central",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-11",
-      "time": "11:40",
-      "publishedAt": "2026-08-11T11:40:21.000Z",
-      "url": "https://www.huaweicentral.com/huawei-testing-7-6-and-6-3-main-screens-for-pura-x2-series/",
-      "image": "https://www.huaweicentral.com/wp-content/uploads/2026/05/PuraXMax-image.jpg",
-      "summary": "Huawei Pura X Max is receiving a lot of attention in the consumer market and the next-gen wide foldable phones have started making buzz in leaks. A new piece of information sugges…",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "自动抓取"
       ]
     },
     {
