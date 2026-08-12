@@ -1,6 +1,106 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-08-12T17:11:14.706Z",
+  "updatedAt": "2026-08-12T19:19:04.404Z",
   "news": [
+    {
+      "id": "auto-d92c1fdfca12",
+      "title": "Best Google Pixel 11 and Pixel 11 Pro cases",
+      "source": "Android Central",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-08-12",
+      "time": "19:11",
+      "publishedAt": "2026-08-12T19:11:49.000Z",
+      "url": "https://www.androidcentral.com/accessories/cases-screen-protectors/best-google-pixel-11-and-pixel-11-pro-cases",
+      "image": "https://cdn.mos.cms.futurecdn.net/aX9h6gqDVgQXvnKTBRjrhD-1280-80.jpg",
+      "summary": "The best Google Pixel 11 and Pixel 11 Pro cases are here and there's a wide selection to choose from. The best part? Both Pixel 11 models can share cases!",
+      "tags": [
+        "Pixel",
+        "评测",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-0d5d17572799",
+      "title": "iQOO Z11S teaser confirms 2K 144Hz display with 2,000-nit full-screen brightness",
+      "source": "Gizmochina",
+      "brand": "vivo",
+      "model": "vivo 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-12",
+      "time": "19:11",
+      "publishedAt": "2026-08-12T19:11:37.000Z",
+      "url": "https://www.gizmochina.com/2026/08/12/iqoo-z11s-teaser-confirms-2k-144hz-display-with-2000-nit-full-screen-brightness/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/08/007B27Qzgy1ifxxookok6j32bc334u0y-300x169.jpg?x23692",
+      "summary": "The iQOO Z11S is being positioned as a practical device focused on visual experience and long battery life. The full reveal is set for August 18 in China. Latest teasers confirm t…",
+      "tags": [
+        "vivo",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-dc0506400871",
+      "title": "iPhone 18 Pro set to become Apple’s new default model",
+      "source": "9to5Mac",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-12",
+      "time": "17:50",
+      "publishedAt": "2026-08-12T17:50:20.000Z",
+      "url": "https://9to5mac.com/2026/08/12/iphone-18-pro-set-to-become-apples-new-default-model/",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/iphone-18-pro-black-mockup.jpg?quality=82&strip=all&w=1600",
+      "summary": "iPhone 18 Pro is being unveiled in mere weeks , and due to a lineup overhaul this year, it’s set to become Apple’s new default model like never before.",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-c31b2bc5a7c2",
+      "title": "Google’s Pixel Tag is here, and it finally gives Android a real AirTag rival",
+      "source": "Gizmochina",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-12",
+      "time": "17:47",
+      "publishedAt": "2026-08-12T17:47:37.000Z",
+      "url": "https://www.gizmochina.com/2026/08/12/googles-pixel-tag-is-here-and-it-finally-gives-android-a-real-airtag-rival/",
+      "image": "",
+      "summary": "Google used tonight’s Made by Google event to launch its first item tracker, the Pixel Tag, alongside the new Pixel 11 series. If you’ve been waiting for an official Google-made a…",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-e82a22824209",
+      "title": "iPhone Ultra’s cameras might get very unorthodox placement, per leak",
+      "source": "9to5Mac",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-12",
+      "time": "17:27",
+      "publishedAt": "2026-08-12T17:27:04.000Z",
+      "url": "https://9to5mac.com/2026/08/12/iphone-ultras-cameras-might-get-very-unorthodox-placement-per-leak/",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/03/iphone-fold-mockup-purple.jpg?quality=82&strip=all&w=1600",
+      "summary": "iPhone Ultra will be unveiled next month , and a new leak indicates the device’s front cameras could be positioned in unusual spots.",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-6621c63801de",
       "title": "Pixel 11 Pro Fold will beat the Galaxy Z Fold 8 Ultra if Google nails this one spec",
@@ -91,7 +191,7 @@ window.phoneRadarAuto = {
       "trust": "媒体汇总",
       "date": "2026-08-12",
       "time": "16:43",
-      "publishedAt": "2026-08-12T16:43:14.000Z",
+      "publishedAt": "2026-08-12T16:43:06.000Z",
       "url": "https://www.macrumors.com/2026/08/12/iphone-18-pro-lower-oled-display-cost-report/",
       "image": "https://images.macrumors.com/article-new/2026/05/Low-Angle-iPhone-Purple.jpg",
       "summary": "Apple has secured lower prices for OLED displays for the upcoming iPhone 18 Pro models, according to industry sources cited by South Korea's DealSite . For example, the report sai…",
@@ -535,26 +635,6 @@ window.phoneRadarAuto = {
       "url": "https://www.androidpolice.com/pixel-11-pro-fold-hands-on-not-for-specs-chasers/",
       "image": "",
       "summary": "This is the phone I wanted my Pixel 10 Pro Fold to be",
-      "tags": [
-        "Pixel",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-bffb3e568878",
-      "title": "Pixel 11 Pro's HiLight looked fun until I remembered Nothing's Glyph lights",
-      "source": "Android Police",
-      "brand": "Pixel",
-      "model": "Pixel 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-12",
-      "time": "14:30",
-      "publishedAt": "2026-08-12T14:30:16.000Z",
-      "url": "https://www.androidpolice.com/pixel-11-pro-hilight-notification-light-looked-fun-until-remembered-glyph-lights/",
-      "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2026/08/nothing-phone-4a-glyph-bar-2.JPG",
-      "summary": "Nothing has already reinvented the notification light",
       "tags": [
         "Pixel",
         "爆料",
@@ -1022,26 +1102,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-f4ba5e6a067a",
-      "title": "These 5 new camera features on the Pixel 11 Pro made my jaw hit the floor",
-      "source": "Android Police",
-      "brand": "Pixel",
-      "model": "Pixel 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-12",
-      "time": "14:00",
-      "publishedAt": "2026-08-12T14:00:16.000Z",
-      "url": "https://www.androidpolice.com/pixel-11-pro-new-camera-features-hands-on/",
-      "image": "",
-      "summary": "Camera Looks will be a game-changer",
-      "tags": [
-        "Pixel",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-6705a692c510",
       "title": "Pixel 11’s At a Glance wants to tell you what’s good at restaurants",
       "source": "Android Authority",
@@ -1379,26 +1439,6 @@ window.phoneRadarAuto = {
         "HONOR",
         "爆料",
         "自动抓取"
-      ]
-    },
-    {
-      "id": "coolapk-user-8175a6aa0799",
-      "title": "竹本青：荣耀 Magic 9系列将于9月发布：现已开启预约",
-      "source": "竹本青",
-      "brand": "HONOR",
-      "model": "HONOR 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-08-12",
-      "time": "12:44",
-      "publishedAt": "2026-08-12T12:44:46.000Z",
-      "url": "https://www.coolapk.com/feed/73204649",
-      "image": "http://image.coolapk.com/feed/2026/0812/20/4248714_97912e98_8685_9079_78@2560x1440.jpg",
-      "summary": "【荣耀 Magic9系列 官宣9月发布：更聪明的YOYO，更强大的ARRI影像，现已开启预约】 8月12日，在荣耀Robot Phone发布会上，CEO李健宣布 Magic9系列 即日起开启预约，并将于9月正式发布。 “Robot Phone只是荣耀敢想、敢不同的起点，比Robot Phone更聪明的YOYO，更强大的ARRI影像，将在焕然一新的Magic…",
-      "tags": [
-        "HONOR",
-        "爆料",
-        "酷安博主"
       ]
     },
     {
@@ -1782,26 +1822,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-2c9b87560400",
-      "title": "First Galaxy Z Fold 8 Ultra, Fold 8 update now available to more users",
-      "source": "SamMobile",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-12",
-      "time": "07:37",
-      "publishedAt": "2026-08-12T07:37:02.000Z",
-      "url": "https://www.sammobile.com/news/first-galaxy-z-fold-8-ultra-fold-8-update-now-available-more-users/",
-      "image": "",
-      "summary": "Samsung, before it started shipping the Galaxy Z Fold 8 Ultra and Galaxy Z Fold 8 to people who had pre-ordered them and opened regular sales of these phones, had provided the dev…",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "weibo-ef9e6cdd7c5d",
       "title": "数码闲聊站：华为备案了9月23日发布代号为Haco的系列新品，或许是华为Mate90系列新…",
       "source": "数码闲聊站",
@@ -1962,41 +1982,41 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-b950f6c13650",
-      "title": "华为Mate90系列新品发布会助兴演出获批：9月23日",
+      "id": "newsnow-e07113a4b87c",
+      "title": "Google Pixel 11系列正式发布，$899起",
       "source": "酷安热榜",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-08-12",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73194716",
+      "url": "https://www.coolapk.com/feed/73207191",
       "image": "",
-      "summary": "华为Mate90系列新品发布会助兴演出获批：9月23日",
+      "summary": "Google Pixel 11系列正式发布，$899起",
       "tags": [
-        "Huawei",
+        "Pixel",
         "爆料",
         "NewsNow"
       ]
     },
     {
-      "id": "newsnow-62d11765ed2c",
-      "title": "米子还是米子，做工真的是非常的。。。昨晚兴高采烈冲了首发，那摄像头没有灰就回家了，今早晃眼一看，好嘛，屏幕左窄右宽。。。真的是服了，前两天用小米17Pro Max长焦镜头，这一台又屏幕左窄右宽，真的心累，到底要不要去换货呀！！！[喷][喷][喷]",
+      "id": "newsnow-a15008536803",
+      "title": "荣耀 Magic 9系列将于9月发布：现已开启预约",
       "source": "酷安热榜",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-08-12",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73194913",
+      "url": "https://www.coolapk.com/feed/73204649",
       "image": "",
-      "summary": "米子还是米子，做工真的是非常的。。。昨晚兴高采烈冲了首发，那摄像头没有灰就回家了，今早晃眼一看，好嘛，屏幕左窄右宽。。。真的是服了，前两天用小米17Pro Max长焦镜头，这一台又屏幕左窄右宽，真的心累，到底要不要去换货呀！！！[喷][喷][喷]",
+      "summary": "荣耀 Magic 9系列将于9月发布：现已开启预约",
       "tags": [
-        "Xiaomi",
+        "HONOR",
         "爆料",
         "NewsNow"
       ]
@@ -2018,46 +2038,6 @@ window.phoneRadarAuto = {
       "tags": [
         "行业",
         "市场报告",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-be3fb15b3f8c",
-      "title": "业内：机器人技术反向回流手机",
-      "source": "今日头条热榜",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-12",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.toutiao.com/trending/7673104720453763099/",
-      "image": "",
-      "summary": "业内：机器人技术反向回流手机",
-      "tags": [
-        "行业",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-8436142dfaad",
-      "title": "荣耀Magic9系列手机外观首曝",
-      "source": "今日头条热榜",
-      "brand": "HONOR",
-      "model": "HONOR 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-12",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.toutiao.com/trending/7672306494965055494/",
-      "image": "",
-      "summary": "荣耀Magic9系列手机外观首曝",
-      "tags": [
-        "HONOR",
-        "爆料",
         "NewsNow"
       ]
     },
@@ -2242,26 +2222,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-accfbea5f275",
-      "title": "Early OnePlus 16 hype suggests firm may have ditched its key markets too soon",
-      "source": "Android Authority",
-      "brand": "OPPO",
-      "model": "OPPO 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-11",
-      "time": "10:43",
-      "publishedAt": "2026-08-11T10:43:48.000Z",
-      "url": "https://www.androidauthority.com/oneplus-16-hype-poll-results-3696824/",
-      "image": "https://www.androidauthority.com/wp-content/uploads/2026/07/OnePlus-15-surrounded-by-phones-scaled.jpg",
-      "summary": "If only OnePlus waited just a little but longer to pull the plug.",
-      "tags": [
-        "OPPO",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-ad30298a2d98",
       "title": "iPhone 20 周年版不会被取消，但也不是你想象的样子",
       "source": "爱范儿",
@@ -2319,46 +2279,6 @@ window.phoneRadarAuto = {
         "OPPO",
         "爆料",
         "酷安博主"
-      ]
-    },
-    {
-      "id": "auto-219ea175b3af",
-      "title": "Vivo X500 may stand apart from Pro models with a new camera layout",
-      "source": "Gizmochina",
-      "brand": "vivo",
-      "model": "vivo 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-11",
-      "time": "04:54",
-      "publishedAt": "2026-08-11T04:54:42.000Z",
-      "url": "https://www.gizmochina.com/2026/08/11/vivo-x500-leak-design-dimensity-9600-display/",
-      "image": "https://www.gizmochina.com/wp-content/uploads/2026/06/Vivo-X300-300x225.jpg?x23692",
-      "summary": "A new leak has shed more light on the upcoming Vivo X500 series, including the standard model’s design and display. The information also gives us an early look at how Vivo could d…",
-      "tags": [
-        "vivo",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-3cbdb9adf7e3",
-      "title": "iQOO Neo 11 Ultra full specifications emerge via premature listing",
-      "source": "Gizmochina",
-      "brand": "vivo",
-      "model": "vivo 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-11",
-      "time": "03:20",
-      "publishedAt": "2026-08-11T03:20:56.000Z",
-      "url": "https://www.gizmochina.com/2026/08/11/iqoo-neo-11-ultra-full-specifications-revealed/",
-      "image": "https://www.gizmochina.com/wp-content/uploads/2026/08/iQOO-Neo-11-Ultra-China-Telecom-listing-300x200.png?x23692",
-      "summary": "A new iQOO smartphone carrying model number V2573A has surfaced in China Telecom’s product library. The listing belongs to the upcoming iQOO Neo 11 Ultra, which is set to debut al…",
-      "tags": [
-        "vivo",
-        "爆料",
-        "自动抓取"
       ]
     },
     {

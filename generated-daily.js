@@ -1,5 +1,5 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-08-12T17:11:14.706Z",
+  "updatedAt": "2026-08-12T19:19:04.404Z",
   "issueDate": "2026-08-12",
   "issue": "VOL.260812",
   "title": "手机情报日报",
@@ -113,6 +113,30 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
+          "id": "auto-e82a22824209",
+          "title": "iPhone 影像能力相关消息",
+          "originalTitle": "",
+          "source": "9to5Mac",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-08-12",
+          "time": "17:27",
+          "publishedAt": "2026-08-12T17:27:04.000Z",
+          "url": "https://9to5mac.com/2026/08/12/iphone-ultras-cameras-might-get-very-unorthodox-placement-per-leak/",
+          "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/03/iphone-fold-mockup-purple.jpg?quality=82&strip=all&w=1600",
+          "verdict": "先看",
+          "takeaway": "iPhone 影像能力相关宣传或案例，主要看是否透露拍摄能力变化。",
+          "detail": "iPhone 影像能力相关消息。重点看影像功能是否和新机硬件有关，如果只是拍摄案例或营销内容，参考价值会低一些。",
+          "keyPoints": [
+            "影像硬件",
+            "爆料来源"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
           "id": "auto-8b1ea5df0fc8",
           "title": "iPhone 18 Pro 屏幕规格相关消息",
           "originalTitle": "",
@@ -122,7 +146,7 @@ window.phoneRadarDaily = {
           "trust": "媒体汇总",
           "date": "2026-08-12",
           "time": "16:43",
-          "publishedAt": "2026-08-12T16:43:14.000Z",
+          "publishedAt": "2026-08-12T16:43:06.000Z",
           "url": "https://www.macrumors.com/2026/08/12/iphone-18-pro-lower-oled-display-cost-report/",
           "image": "https://images.macrumors.com/article-new/2026/05/Low-Angle-iPhone-Purple.jpg",
           "verdict": "先看",
@@ -131,29 +155,6 @@ window.phoneRadarDaily = {
           "keyPoints": [
             "屏幕形态",
             "成本 / 价格"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "auto-254e69c9c5d2",
-          "title": "iPhone 影像能力相关消息",
-          "originalTitle": "",
-          "source": "MacRumors",
-          "brand": "iPhone",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-08-12",
-          "time": "16:12",
-          "publishedAt": "2026-08-12T16:12:42.000Z",
-          "url": "https://www.macrumors.com/2026/08/12/iphone-ultra-selfie-cameras-same-corner/",
-          "image": "https://images.macrumors.com/article-new/2026/06/foldable-iphone-dummy-sonny-dickson.jpg",
-          "verdict": "先看",
-          "takeaway": "iPhone 影像能力相关宣传或案例，主要看是否透露拍摄能力变化。",
-          "detail": "iPhone 影像能力相关消息。重点看影像功能是否和新机硬件有关，如果只是拍摄案例或营销内容，参考价值会低一些。",
-          "keyPoints": [
-            "影像硬件"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
