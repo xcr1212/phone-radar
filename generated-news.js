@@ -1,6 +1,86 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-08-12T19:19:04.404Z",
+  "updatedAt": "2026-08-12T21:02:15.904Z",
   "news": [
+    {
+      "id": "auto-56812e5d796d",
+      "title": "Google Fi just knocked $450 off the Pixel 11 Pro",
+      "source": "Android Police",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-12",
+      "time": "20:32",
+      "publishedAt": "2026-08-12T20:32:35.000Z",
+      "url": "https://www.androidpolice.com/google-fi-just-knocked-450-off-the-pixel-11-pro/",
+      "image": "",
+      "summary": "Not like other carrier deals",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-59b184aa17a2",
+      "title": "I can’t unsee the reason Pixel 11 Pro Fold is thinner, but it’s for the best [Gallery]",
+      "source": "9to5Google",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-12",
+      "time": "20:30",
+      "publishedAt": "2026-08-12T20:30:00.000Z",
+      "url": "https://9to5google.com/2026/08/12/google-pixel-11-pro-fold-thinner/",
+      "image": "",
+      "summary": "The Pixel 11 Pro Fold is sneakily maybe the most impressive of Google’s new releases this week, but on picking it up one thing caught my eye – one half of it is thicker than the o…",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-e6a57dfc349b",
+      "title": "Pixel 11 Pro displays are ‘more than twice’ as scratch-resistant – it only gets better from there",
+      "source": "9to5Google",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-12",
+      "time": "19:30",
+      "publishedAt": "2026-08-12T19:30:00.000Z",
+      "url": "https://9to5google.com/2026/08/12/google-pixel-11-pro-anti-scratch-display-glass-upgrades/",
+      "image": "",
+      "summary": "Google is delivering some seriously durable phones, or so it claims, with the entire Pixel 11 Pro series delivering huge upgrades in regards to scratch and drop protection.",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-c15fed557959",
+      "title": "Best Buy and Amazon are giving away $200 gift cards with every Pixel 11 Pro",
+      "source": "Android Police",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-12",
+      "time": "19:19",
+      "publishedAt": "2026-08-12T19:19:31.000Z",
+      "url": "https://www.androidpolice.com/score-a-200-gift-card-with-an-unlocked-pixel-11-pro/",
+      "image": "",
+      "summary": "No contract required",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-d92c1fdfca12",
       "title": "Best Google Pixel 11 and Pixel 11 Pro cases",
@@ -155,26 +235,6 @@ window.phoneRadarAuto = {
       "url": "https://www.androidpolice.com/verizon-pixel-11-deals/",
       "image": "",
       "summary": "A 48-month commitment is a long time",
-      "tags": [
-        "Pixel",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-46db979d30e7",
-      "title": "The 7 biggest announcements of Google’s Pixel 11 launch",
-      "source": "The Verge",
-      "brand": "Pixel",
-      "model": "Pixel 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-12",
-      "time": "16:46",
-      "publishedAt": "2026-08-12T16:46:45.000Z",
-      "url": "https://www.theverge.com/tech/978712/google-pixel-11-event-everything-announced",
-      "image": "",
-      "summary": "Google is hosting a Pixel launch event on Wednesday night where it will show off its latest lineup of devices. But you don't have to wait until then for all the news; we were able…",
       "tags": [
         "Pixel",
         "爆料",
@@ -615,26 +675,6 @@ window.phoneRadarAuto = {
       "url": "https://www.androidauthority.com/pixel-11-pro-hilight-notification-led-problem-3696162/",
       "image": "",
       "summary": "I love notification LEDs, but placing it at the back of the phone defeats the purpose.",
-      "tags": [
-        "Pixel",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-f41171f3d975",
-      "title": "The Pixel 11 Pro Fold is not for specs-chasers, but I still loved holding it",
-      "source": "Android Police",
-      "brand": "Pixel",
-      "model": "Pixel 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-12",
-      "time": "14:30",
-      "publishedAt": "2026-08-12T14:30:16.000Z",
-      "url": "https://www.androidpolice.com/pixel-11-pro-fold-hands-on-not-for-specs-chasers/",
-      "image": "",
-      "summary": "This is the phone I wanted my Pixel 10 Pro Fold to be",
       "tags": [
         "Pixel",
         "爆料",
@@ -1222,6 +1262,26 @@ window.phoneRadarAuto = {
       ]
     },
     {
+      "id": "auto-b4d1c7f1a20a",
+      "title": "Here are 3 ways your Pixel just got even more helpful.",
+      "source": "Google Blog",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "官方",
+      "trust": "官方确认",
+      "date": "2026-08-12",
+      "time": "14:00",
+      "publishedAt": "2026-08-12T14:00:00.000Z",
+      "url": "https://blog.google/products-and-platforms/devices/pixel/pixel-11-helpful-updates-features/",
+      "image": "https://i.ytimg.com/vi_webp/nd5s2AUUHSc/maxresdefault.webp",
+      "summary": "Our Pixel 11 phones are packed with helpful updates, like Magic Capture, Rambler, and HiLight. Here, a Googler shares his favorites.",
+      "tags": [
+        "HONOR",
+        "官方",
+        "自动抓取"
+      ]
+    },
+    {
       "id": "auto-0da0c1690542",
       "title": "New accessories for Pixel 11 phones are here.",
       "source": "Google Blog",
@@ -1362,26 +1422,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-20e6018dc8ac",
-      "title": "Google’s Pixel 11 series pairs a little new hardware with a lot of new software",
-      "source": "The Verge",
-      "brand": "Pixel",
-      "model": "Pixel 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-12",
-      "time": "13:31",
-      "publishedAt": "2026-08-12T13:31:48.000Z",
-      "url": "https://www.theverge.com/tech/978013/google-pixel-11-series-hands-on-hardware-software",
-      "image": "",
-      "summary": "When I first picked up the Pixel 11 Pro this week, it was clear to me that this was one of those refinement years - at least when it comes to hardware. Aesthetically, the phones a…",
-      "tags": [
-        "Pixel",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-7617731b6bfe",
       "title": "How the Pixel 11 Pro Fold compares to the Galaxy Z Fold 8",
       "source": "The Verge",
@@ -1439,6 +1479,26 @@ window.phoneRadarAuto = {
         "HONOR",
         "爆料",
         "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-8175a6aa0799",
+      "title": "竹本青：荣耀 Magic 9系列将于9月发布：现已开启预约",
+      "source": "竹本青",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-08-12",
+      "time": "12:44",
+      "publishedAt": "2026-08-12T12:44:46.000Z",
+      "url": "https://www.coolapk.com/feed/73204649",
+      "image": "http://image.coolapk.com/feed/2026/0812/20/4248714_97912e98_8685_9079_78@2560x1440.jpg",
+      "summary": "【荣耀 Magic9系列 官宣9月发布：更聪明的YOYO，更强大的ARRI影像，现已开启预约】 8月12日，在荣耀Robot Phone发布会上，CEO李健宣布 Magic9系列 即日起开启预约，并将于9月正式发布。 “Robot Phone只是荣耀敢想、敢不同的起点，比Robot Phone更聪明的YOYO，更强大的ARRI影像，将在焕然一新的Magic…",
+      "tags": [
+        "HONOR",
+        "爆料",
+        "酷安博主"
       ]
     },
     {
@@ -2002,26 +2062,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-a15008536803",
-      "title": "荣耀 Magic 9系列将于9月发布：现已开启预约",
-      "source": "酷安热榜",
-      "brand": "HONOR",
-      "model": "HONOR 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-08-12",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73204649",
-      "image": "",
-      "summary": "荣耀 Magic 9系列将于9月发布：现已开启预约",
-      "tags": [
-        "HONOR",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
       "id": "newsnow-7313cd038915",
       "title": "据媒体报道部分手机壳疑似采用废弃针管等医疗垃圾加工而成，真的吗？对健康会有多大危害？消费者该如何辨别？",
       "source": "知乎热榜",
@@ -2038,6 +2078,46 @@ window.phoneRadarAuto = {
       "tags": [
         "行业",
         "市场报告",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-8436142dfaad",
+      "title": "荣耀Magic9系列手机外观首曝",
+      "source": "今日头条热榜",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-12",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.toutiao.com/trending/7672306494965055494/",
+      "image": "",
+      "summary": "荣耀Magic9系列手机外观首曝",
+      "tags": [
+        "HONOR",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-be3fb15b3f8c",
+      "title": "业内：机器人技术反向回流手机",
+      "source": "今日头条热榜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-12",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.toutiao.com/trending/7673104720453763099/",
+      "image": "",
+      "summary": "业内：机器人技术反向回流手机",
+      "tags": [
+        "行业",
+        "爆料",
         "NewsNow"
       ]
     },
