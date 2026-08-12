@@ -1,24 +1,1024 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-08-12T13:45:20.317Z",
+  "updatedAt": "2026-08-12T15:13:40.523Z",
   "news": [
     {
-      "id": "coolapk-user-9f8c0de09d0d",
-      "title": "竹本青：天马宣布独家供屏 荣耀Robot Phone #今日热点# #荣耀ROBOTPHONE#",
-      "source": "竹本青",
+      "id": "auto-64d5e1c8e9fd",
+      "title": "Google’s Pixel 11 trade-ins top out at $1,000 with great values for older phones",
+      "source": "9to5Google",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-12",
+      "time": "15:10",
+      "publishedAt": "2026-08-12T15:10:00.000Z",
+      "url": "https://9to5google.com/2026/08/12/google-pixel-11-trade-in-offers-values/",
+      "image": "",
+      "summary": "Amid a price hike on the Pixel 11 series, Google has delivered some solid trade-in values across the board on all four phones, including some pretty great values for older generat…",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-d6a1a214a4e5",
+      "title": "The Galaxy S27 Ultra could skip this camera feature last seen on the Note 10",
+      "source": "Android Authority",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-12",
+      "time": "14:59",
+      "publishedAt": "2026-08-12T14:59:24.000Z",
+      "url": "https://www.androidauthority.com/samsung-galaxy-s27-ultra-variable-aperture-camera-3697714/",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2026/05/Samsung-Galaxy-S26-Ultra-camera-closeup-scaled.jpg",
+      "summary": "A report says Samsung won’t include a variable aperture camera system on the Galaxy S27 Ultra, contrary to recent rumors.",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-d754b40ddff0",
+      "title": "How fast is the Google Pixel 11 Pro Fold charging speed?",
+      "source": "Android Central",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-08-12",
+      "time": "14:56",
+      "publishedAt": "2026-08-12T14:56:15.000Z",
+      "url": "https://www.androidcentral.com/phones/google-pixel/how-fast-is-the-google-pixel-11-pro-fold-charging-speed",
+      "image": "https://cdn.mos.cms.futurecdn.net/Zi26XwYTrVCCDBwKUo3ELd-1280-80.jpg",
+      "summary": "The Pixel 11 Pro Fold retains the same battery life claim as the Pixel 10 Pro Fold, but in a lighter package. Wireless charging is faster, thanks to Qi2 (25W).",
+      "tags": [
+        "Pixel",
+        "评测",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-d024e4c0528d",
+      "title": "How fast is the Google Pixel 11 charging speed?",
+      "source": "Android Central",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-08-12",
+      "time": "14:55",
+      "publishedAt": "2026-08-12T14:55:55.000Z",
+      "url": "https://www.androidcentral.com/phones/google-pixel/how-fast-is-the-google-pixel-11-charging-speed",
+      "image": "https://cdn.mos.cms.futurecdn.net/uPQQHbLN2geAxLojfaYLUZ-1280-80.jpg",
+      "summary": "The Pixel 11 and Pixel 11 Pros now boast of longer battery life and quicker wireless charging speeds, which is a welcomed step up from the Pixel 10 series.",
+      "tags": [
+        "Pixel",
+        "评测",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-69051ac28ae7",
+      "title": "谷歌 Pixel 11 相机应用新增创作者套件：内置提词器、人声增强，专为单人自媒体打造",
+      "source": "IT之家",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-12",
+      "time": "14:45",
+      "publishedAt": "2026-08-12T14:45:51.000Z",
+      "url": "https://www.ithome.com/0/988/993.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/8/39fe563b-9990-4a86-ae04-8f3dd096334d.png?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 8 月 12 日消息，据外媒 The Verge 今天（12 日）晚间报道，谷歌在新一代 Pixel 产品中加入多项面向创作者的功能，希望帮助用户比使用其他设备时 更快、更高效地完成拍摄、整理、编辑和发布 工作。 Creator Suite（创作者套件）是 Pixel 11 相机应用新增的一种创作模式，内置 提词器、人声增强、外接麦克风音量监测和…",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-3d0a5f8b2994",
+      "title": "Every Pixel 11 gets Qi2 25W wireless charging on Google’s Pixelsnap charger this year",
+      "source": "9to5Google",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-12",
+      "time": "14:45",
+      "publishedAt": "2026-08-12T14:45:00.000Z",
+      "url": "https://9to5google.com/2026/08/12/pixel-11-qi2-25w-wireless-charging-upgrade/",
+      "image": "",
+      "summary": "The Pixel 11 series gets a nice little boost under the back panel to 25W wireless charging – something only the most expensive models got last year.",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-c002e459ce92",
+      "title": "Is your Galaxy Z Fold 8 taking 12MP photos in 24MP mode? Samsung explains why",
+      "source": "SamMobile",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-12",
+      "time": "14:35",
+      "publishedAt": "2026-08-12T14:35:29.000Z",
+      "url": "https://www.sammobile.com/news/is-your-galaxy-z-fold-8-taking-12mp-photos-in-24mp-mode-samsung-explains-why/",
+      "image": "",
+      "summary": "On the Galaxy Z Fold 8, the primary camera captures images at 12MP resolution by default. The phone also gives users the option to capture photos at 24MP resolution, an option tha…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-e709e7f80ad4",
+      "title": "Is the Samsung Galaxy Z Fold 8 waterproof?",
+      "source": "Android Central",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-08-12",
+      "time": "14:34",
+      "publishedAt": "2026-08-12T14:34:09.000Z",
+      "url": "https://www.androidcentral.com/phones/samsung-galaxy/is-the-samsung-galaxy-z-fold-8-ultra-waterproof",
+      "image": "https://cdn.mos.cms.futurecdn.net/Yc8CwBgcRkjCYQ8L7PMEgF-1280-80.jpg",
+      "summary": "The Galaxy Z Fold 8 and Galaxy Z Fold 8 Ultra are Samsung's latest and greatest foldables — but are they waterproof? Here's what you need to know.",
+      "tags": [
+        "Samsung",
+        "评测",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-6fac2041be58",
+      "title": "Google aims for influencers with the Pixel 11 Creator Suite",
+      "source": "The Verge",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-12",
+      "time": "14:34",
+      "publishedAt": "2026-08-12T14:34:03.000Z",
+      "url": "https://www.theverge.com/tech/977888/pixel-creator-suite-influencer-camera-features",
+      "image": "",
+      "summary": "Google knows creators are a big audience. The occupation is growing fast, and landing some influential names could be a major turning point for the Pixel's market share. This year…",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-46db979d30e7",
+      "title": "The 7 biggest announcements of Google’s Pixel 11 launch",
+      "source": "The Verge",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-12",
+      "time": "14:33",
+      "publishedAt": "2026-08-12T14:33:40.000Z",
+      "url": "https://www.theverge.com/tech/978712/google-pixel-11-event-everything-announced",
+      "image": "",
+      "summary": "Google is hosting a Pixel launch event on Wednesday night where it will show off its latest lineup of devices. But you don't have to wait until then for all the news: We were able…",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-815a14b889dd",
+      "title": "The Pixel 11 Pro’s glowing LEDs look great — there’s just one problem with them",
+      "source": "Android Authority",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-12",
+      "time": "14:30",
+      "publishedAt": "2026-08-12T14:30:19.000Z",
+      "url": "https://www.androidauthority.com/pixel-11-pro-hilight-notification-led-problem-3696162/",
+      "image": "",
+      "summary": "I love notification LEDs, but placing it at the back of the phone defeats the purpose.",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-f41171f3d975",
+      "title": "The Pixel 11 Pro Fold is not for specs-chasers, but I still loved holding it",
+      "source": "Android Police",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-12",
+      "time": "14:30",
+      "publishedAt": "2026-08-12T14:30:16.000Z",
+      "url": "https://www.androidpolice.com/pixel-11-pro-fold-hands-on-not-for-specs-chasers/",
+      "image": "",
+      "summary": "This is the phone I wanted my Pixel 10 Pro Fold to be",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-bffb3e568878",
+      "title": "Pixel 11 Pro's HiLight looked fun until I remembered Nothing's Glyph lights",
+      "source": "Android Police",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-12",
+      "time": "14:30",
+      "publishedAt": "2026-08-12T14:30:16.000Z",
+      "url": "https://www.androidpolice.com/pixel-11-pro-hilight-notification-light-looked-fun-until-remembered-glyph-lights/",
+      "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2026/08/nothing-phone-4a-glyph-bar-2.JPG",
+      "summary": "Nothing has already reinvented the notification light",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-e26c97578152",
+      "title": "HiLight on the Pixel 11 Pro offers just two features at launch, more coming soon",
+      "source": "9to5Google",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-12",
+      "time": "14:30",
+      "publishedAt": "2026-08-12T14:30:00.000Z",
+      "url": "https://9to5google.com/2026/08/12/pixel-11-pro-hilight/",
+      "image": "",
+      "summary": "With the launch of the Pixel 11 Pro, Google has fully detailed how HiLight works and the thinking behind the hardware feature.",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-aa598080bda4",
+      "title": "How to preorder the Google Pixel 11 Pro Fold — early deals and everything you need to know",
+      "source": "Android Central",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-08-12",
+      "time": "14:27",
+      "publishedAt": "2026-08-12T14:27:49.000Z",
+      "url": "https://www.androidcentral.com/phones/google-pixel/best-google-pixel-11-pro-fold-preorder-deals",
+      "image": "https://cdn.mos.cms.futurecdn.net/3yNoysWdTykp9xjVFjSCHd-1280-80.jpg",
+      "summary": "The Google Pixel 11 Pro Fold is officially on sale ahead of its August 20th release date. Check out these preorder deals before they're gone!",
+      "tags": [
+        "Pixel",
+        "评测",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-e97e33bbe340",
+      "title": "Here are our hands-on impressions of the Redmi K100 Pro and K100 Pro Max",
+      "source": "Gizmochina",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-12",
+      "time": "14:25",
+      "publishedAt": "2026-08-12T14:25:38.000Z",
+      "url": "https://www.gizmochina.com/2026/08/12/here-are-our-hands-on-impressions-of-the-redmi-k100-pro-and-k100-pro-max/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/08/Redmi-K100-Pro-Unboxing-300x195.jpg?x23692",
+      "summary": "Redmi officially introduced its latest flagship smartphones, the Redmi K100 Pro and Redmi K100 Pro Max, in China yesterday. Just a day after launch, we are here with our first imp…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-93e92aa69358",
+      "title": "Google Pixel 11 adds ‘Extreme Charging Mode’ to unlock faster wired & wireless charging",
+      "source": "9to5Google",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-12",
+      "time": "14:25",
+      "publishedAt": "2026-08-12T14:25:00.000Z",
+      "url": "https://9to5google.com/2026/08/12/google-pixel-11-extreme-charging-mode/",
+      "image": "",
+      "summary": "While charging on the Pixel 11 series still isn’t super fast, Google has made some upgrades this year, including the addition of a new “Extreme Charging Mode” that unlocks a bit o…",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-1f13439050c8",
+      "title": "The best Google Pixel 11 preorder deals — how to get the upcoming flagship for FREE",
+      "source": "Android Central",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-08-12",
+      "time": "14:23",
+      "publishedAt": "2026-08-12T14:23:41.000Z",
+      "url": "https://www.androidcentral.com/phones/google-pixel/best-google-pixel-11-preorder-deals",
+      "image": "https://cdn.mos.cms.futurecdn.net/RjWazDnjugBrDPA58ZWyQZ-1280-80.jpg",
+      "summary": "The Google Pixel 11 series has finally been revealed, and I'm hard at work tracking down the best preorder opportunities for the phones.",
+      "tags": [
+        "OPPO",
+        "评测",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-eb2ff67eab0b",
+      "title": "Google starts rolling out Tap to Share for Pixel 6 and newer",
+      "source": "9to5Google",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-12",
+      "time": "14:15",
+      "publishedAt": "2026-08-12T14:15:00.000Z",
+      "url": "https://9to5google.com/2026/08/12/pixel-tap-to-share/",
+      "image": "",
+      "summary": "While Tap to Share was announced with the Pixel 11 series, it’s also beginning to roll out for the Pixel 6 and newer today in a redux of Android Beam.",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-70d76c8c2bf7",
+      "title": "Here’s first look at Honor Magic 9, September launch officially confirmed",
+      "source": "Gizmochina",
       "brand": "HONOR",
       "model": "HONOR 相关机型",
       "type": "爆料",
-      "trust": "高可信爆料",
+      "trust": "媒体汇总",
       "date": "2026-08-12",
-      "time": "13:37",
-      "publishedAt": "2026-08-12T13:37:41.000Z",
-      "url": "https://www.coolapk.com/feed/73205567",
-      "image": "http://image.coolapk.com/feed/2026/0812/21/4248714_ca93f528_1860_2498_371@1080x608.jpg",
-      "summary": "天马宣布独家供屏 荣耀Robot Phone #今日热点# #荣耀ROBOTPHONE#",
+      "time": "14:12",
+      "publishedAt": "2026-08-12T14:12:25.000Z",
+      "url": "https://www.gizmochina.com/2026/08/12/honor-magic-9-design-first-look/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/08/Honor-Magic-9-camera-module-300x278.jpg?x23692",
+      "summary": "Honor has unveiled the much anticipated and futuristic Robot Phone, which comes with a robotic gimbal camera, in China. At the same event, the brand also offered the first officia…",
       "tags": [
         "HONOR",
         "爆料",
-        "酷安博主"
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-0045c853b3d7",
+      "title": "Google Pixel 11 Pro Fold vs. Samsung Galaxy Z Fold 8 Ultra: Not as straightforward as you think",
+      "source": "Android Central",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-08-12",
+      "time": "14:11",
+      "publishedAt": "2026-08-12T14:11:28.000Z",
+      "url": "https://www.androidcentral.com/phones/google-pixel/google-pixel-11-pro-fold-vs-samsung-galaxy-z-fold-8-ultra",
+      "image": "https://cdn.mos.cms.futurecdn.net/MtvEao5eodYEPuauTVKrgN-1280-80.jpg",
+      "summary": "The Pixel 11 Pro Fold is heavier than the Galaxy Z Fold 8 Ultra, has a smaller battery, and the cameras aren't as good. Is this an easy win for Samsung? Not really.",
+      "tags": [
+        "Samsung",
+        "评测",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-c40ae02b13b9",
+      "title": "谷歌 Pixel 11 系列正式发布：全系 256GB 起步 899 美元起，8 月 20 日开售",
+      "source": "IT之家",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-12",
+      "time": "14:06",
+      "publishedAt": "2026-08-12T14:06:42.000Z",
+      "url": "https://www.ithome.com/0/988/985.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/8/a99dad6a-5bc4-4262-8e58-c056671beefc.jpg",
+      "summary": "IT之家 8 月 12 日消息，谷歌正式发布了 Pixel 11 系列手机等一系列产品，包括 Pixel 11、Pixel 11 Pro、Pixel 11 Pro XL 以及 Pixel 11 Pro Fold。该系列即日起开启预购，将于 8 月 20 日正式开售。 谷歌 Pixel 11 系列搭载自研 Tensor G6 芯片。相较上一代 Tensor…",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-2bc3163ea79f",
+      "title": "Pixel 11 videography improves with Pro Stable Video, Creator Suite, plus more",
+      "source": "9to5Google",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-12",
+      "time": "14:04",
+      "publishedAt": "2026-08-12T14:04:00.000Z",
+      "url": "https://9to5google.com/2026/08/12/pixel-11-videography/",
+      "image": "",
+      "summary": "The Pixel 11 series has officially been unveiled with a whole suite of new video features for the camera systems and even a few upgrades for some older functions. Here’s everythin…",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-3cda9aa9c42d",
+      "title": "Pixel 11 camera gets new main sensors, ‘Camera Looks,’ ‘Instant Night Sight,’ and much more",
+      "source": "9to5Google",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-12",
+      "time": "14:04",
+      "publishedAt": "2026-08-12T14:04:00.000Z",
+      "url": "https://9to5google.com/2026/08/12/google-pixel-11-camera-whats-new/",
+      "image": "",
+      "summary": "The Pixel 11 series might look familiar on the outside , but Google’s packed plenty of changes both behind the scenes and under the hood, and nowhere is that more evident than whe…",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-0f21938e93a5",
+      "title": "Google-made Pixel 11 cases and Pixelsnap accessories get fresh hues [Gallery]",
+      "source": "9to5Google",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-12",
+      "time": "14:03",
+      "publishedAt": "2026-08-12T14:03:00.000Z",
+      "url": "https://9to5google.com/2026/08/12/google-made-pixel-11-cases-new-colors/",
+      "image": "",
+      "summary": "The Pixel 11, no matter which model you look at, ranges from bright and loud to quiet and stealthy colorways. Google-made cases launching with the Pixel 11 series match the new mo…",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-dc7cb53de3cc",
+      "title": "Pixel 11 Pro Fold is $1,899 and Google says the back is ‘nearly impossible to crack’ [Hands-on]",
+      "source": "9to5Google",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-12",
+      "time": "14:02",
+      "publishedAt": "2026-08-12T14:02:00.000Z",
+      "url": "https://9to5google.com/2026/08/12/google-pixel-11-pro-fold-price-release-date-durability-details/",
+      "image": "",
+      "summary": "Google’s Pixel 11 Pro Fold doesn’t look like much on the surface, nor is it the most compelling new foldable out right now, but some key changes make this the most impressive of G…",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-7b35b8cdfc34",
+      "title": "Pixel 11 hands-on: Better, but no longer a bargain at $899 [Video]",
+      "source": "9to5Google",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-12",
+      "time": "14:01",
+      "publishedAt": "2026-08-12T14:01:00.000Z",
+      "url": "https://9to5google.com/2026/08/12/pixel-11-hands-on/",
+      "image": "",
+      "summary": "After three runs, the Pixel 11 comes in hot as Google’s vision of the perfect base Android phone for the next year. Just how is it? Find out here.",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-469ea207d8bd",
+      "title": "The Pixel 11 Pro officially says goodbye to the thermometer after three generations",
+      "source": "Android Authority",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-12",
+      "time": "14:00",
+      "publishedAt": "2026-08-12T14:00:46.000Z",
+      "url": "https://www.androidauthority.com/pixel-11-pro-phones-no-thermometer-3697115/",
+      "image": "",
+      "summary": "Google's swapping the temperature sensor for the HiLight LED.",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-fcc72cf69e46",
+      "title": "Pixel 11 carrier deals: Here’s how you can save on the new Google Pixel",
+      "source": "Android Authority",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-12",
+      "time": "14:00",
+      "publishedAt": "2026-08-12T14:00:39.000Z",
+      "url": "https://www.androidauthority.com/pixel-11-carrier-deals-3697709/",
+      "image": "",
+      "summary": "Planning to buy the new Pixel 11? Save some cash while you're at it.",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-b2d113e457b1",
+      "title": "Pixel 11 takes on iPhone’s Photographic Styles with Camera Looks, including retro film filters",
+      "source": "Android Authority",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-12",
+      "time": "14:00",
+      "publishedAt": "2026-08-12T14:00:28.000Z",
+      "url": "https://www.androidauthority.com/google-pixel-11-camera-looks-filters-3696519/",
+      "image": "",
+      "summary": "You can finally ditch the ultra-processed look on your Pixel photos.",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-100290c1ea62",
+      "title": "Google Pixel 11 cases finally let the phone colors shine through",
+      "source": "Android Authority",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-12",
+      "time": "14:00",
+      "publishedAt": "2026-08-12T14:00:25.000Z",
+      "url": "https://www.androidauthority.com/google-pixel-11-pixelsnap-cases-and-accessories-3694034/",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2025/09/PXL_20250913_001818700.MP_-scaled-e1757743082236-500w-260h.jpg",
+      "summary": "Google is expanding Pixelsnap with a clear case, a hinge-protecting Fold case, and more colorful Ring Stand options.",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-743cd07bdd1b",
+      "title": "The Pixel 11 Pro Fold can turn sign language into text, here’s how",
+      "source": "Android Authority",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-12",
+      "time": "14:00",
+      "publishedAt": "2026-08-12T14:00:24.000Z",
+      "url": "https://www.androidauthority.com/pixel-11-pro-fold-transcribe-asl-text-3695145/",
+      "image": "",
+      "summary": "It's a useful new feature for sign language users.",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-448cf47279bc",
+      "title": "Do Pixel 11 phones have silicon-carbon batteries? Here’s what Google says.",
+      "source": "Android Authority",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-12",
+      "time": "14:00",
+      "publishedAt": "2026-08-12T14:00:23.000Z",
+      "url": "https://www.androidauthority.com/google-pixel-11-phones-silicon-carbon-batteries-3697731/",
+      "image": "",
+      "summary": "Google suggests its Pixel 11 phones have \"exceptional reliability\" without silicon-carbon batteries.",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-27a0d3cd9697",
+      "title": "Pixel 11’s Magic Capture promises you’ll never miss the shot (or the moment)",
+      "source": "Android Authority",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-12",
+      "time": "14:00",
+      "publishedAt": "2026-08-12T14:00:21.000Z",
+      "url": "https://www.androidauthority.com/google-pixel-11-magic-capture-3695823/",
+      "image": "",
+      "summary": "It records a moment and automatically selects the best images and a video clip.",
+      "tags": [
+        "HONOR",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-67426b7385d5",
+      "title": "Google Pixel 11 series introduces new ‘Extreme Charging Mode’",
+      "source": "Android Authority",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-12",
+      "time": "14:00",
+      "publishedAt": "2026-08-12T14:00:20.000Z",
+      "url": "https://www.androidauthority.com/google-pixel-11-extreme-charging-mode-3697738/",
+      "image": "",
+      "summary": "The new setting prioritizes system resources on power delivery to help users get a quick top-up when needed.",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-1a37227d8c47",
+      "title": "Pixel 11 Pro phones get Pro Stable Video mode, but there’s a huge limitation",
+      "source": "Android Authority",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-12",
+      "time": "14:00",
+      "publishedAt": "2026-08-12T14:00:19.000Z",
+      "url": "https://www.androidauthority.com/google-pixel-11-pro-series-pro-stable-video-3693813/",
+      "image": "",
+      "summary": "The Pixel 11 Pro line's new video mode has a major weakness compared to similar modes on rival phones.",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-f4ba5e6a067a",
+      "title": "These 5 new camera features on the Pixel 11 Pro made my jaw hit the floor",
+      "source": "Android Police",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-12",
+      "time": "14:00",
+      "publishedAt": "2026-08-12T14:00:16.000Z",
+      "url": "https://www.androidpolice.com/pixel-11-pro-new-camera-features-hands-on/",
+      "image": "",
+      "summary": "Camera Looks will be a game-changer",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-6705a692c510",
+      "title": "Pixel 11’s At a Glance wants to tell you what’s good at restaurants",
+      "source": "Android Authority",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-12",
+      "time": "14:00",
+      "publishedAt": "2026-08-12T14:00:11.000Z",
+      "url": "https://www.androidauthority.com/google-pixel-11-at-a-glance-3697362/",
+      "image": "",
+      "summary": "Or what Maps users say is good, at least.",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-34dbb4d94e1c",
+      "title": "Pixel 11 Pro Fold knows what foldable shoppers want: Thinner, lighter, better",
+      "source": "Android Authority",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-12",
+      "time": "14:00",
+      "publishedAt": "2026-08-12T14:00:07.000Z",
+      "url": "https://www.androidauthority.com/pixel-11-pro-fold-launch-3697229/",
+      "image": "",
+      "summary": "Google dodges the wide foldable trend with an upgrade-packed Pixel Pro Fold.",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-a6083dd85bd9",
+      "title": "12 announcements from Google’s Pixel 11 launch that matter the most",
+      "source": "Android Authority",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-12",
+      "time": "14:00",
+      "publishedAt": "2026-08-12T14:00:06.000Z",
+      "url": "https://www.androidauthority.com/google-pixel-11-launch-all-announcements-3696743/",
+      "image": "",
+      "summary": "From Pixel 11 camera upgrades to the all-new Pixel Tag, here are the biggest announcements from Google's event.",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-fd07229114da",
+      "title": "Google announces Tensor G6, bringing 4K Portrait Video and more to the Pixel 11 series",
+      "source": "Android Authority",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-12",
+      "time": "14:00",
+      "publishedAt": "2026-08-12T14:00:01.000Z",
+      "url": "https://www.androidauthority.com/google-tensor-g6-3695351/",
+      "image": "",
+      "summary": "As always, Google remains tight-lipped about the nitty-gritty details, but we know a little more through our hands-on.",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-124fae9e46c5",
+      "title": "The Pixel 11 Pro Fold goes after foldables’ weak spots with a tougher design",
+      "source": "Android Central",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-08-12",
+      "time": "14:00",
+      "publishedAt": "2026-08-12T14:00:00.000Z",
+      "url": "https://www.androidcentral.com/phones/google-pixel/the-pixel-11-pro-fold-goes-after-foldables-weak-spots-with-a-tougher-design",
+      "image": "https://cdn.mos.cms.futurecdn.net/oQFvjfj35J2CrKrQR59uAN-1280-80.jpg",
+      "summary": "The Pixel 11 Pro Fold is tougher, brighter, and smarter, with better cameras, 16GB RAM, 24+ hours of battery life, and 30W charging.",
+      "tags": [
+        "Pixel",
+        "评测",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-27d02dfb819c",
+      "title": "The Pixel 11 series is here, but Google saved the big upgrades for the Pro models",
+      "source": "Android Central",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-08-12",
+      "time": "14:00",
+      "publishedAt": "2026-08-12T14:00:00.000Z",
+      "url": "https://www.androidcentral.com/phones/google-pixel/the-pixel-11-series-is-here-but-google-saved-the-big-upgrades-for-the-pro-models",
+      "image": "https://cdn.mos.cms.futurecdn.net/uPQQHbLN2geAxLojfaYLUZ-1280-80.jpg",
+      "summary": "The Pixel 11 lineup is official with brighter displays, new cameras and Tensor G6, but higher prices and only modest upgrades on the base model.",
+      "tags": [
+        "Pixel",
+        "评测",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-0da0c1690542",
+      "title": "New accessories for Pixel 11 phones are here.",
+      "source": "Google Blog",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "官方",
+      "trust": "官方确认",
+      "date": "2026-08-12",
+      "time": "14:00",
+      "publishedAt": "2026-08-12T14:00:00.000Z",
+      "url": "https://blog.google/products-and-platforms/devices/pixel/new-pixelsnap-accessories-cases-ring-stand/",
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Accessories.max-600x600.format-webp.webp",
+      "summary": "Google is rolling out new Pixel accessories as part of Made by Google",
+      "tags": [
+        "Pixel",
+        "官方",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-39496f2586a8",
+      "title": "Google’s most sophisticated foldable: Pixel 11 Pro Fold",
+      "source": "Google Blog",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "官方",
+      "trust": "官方确认",
+      "date": "2026-08-12",
+      "time": "14:00",
+      "publishedAt": "2026-08-12T14:00:00.000Z",
+      "url": "https://blog.google/products-and-platforms/devices/pixel/pixel-11-pro-fold/",
+      "image": "",
+      "summary": "Pixel 11 Pro Fold is our latest foldable with a thinner and lighter design, a new main camera, and enhanced intelligence tools.",
+      "tags": [
+        "Pixel",
+        "官方",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-05aac394c2db",
+      "title": "Honor Magic 9 series launch confirmed for September, pre-order begins",
+      "source": "Huawei Central",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-12",
+      "time": "13:57",
+      "publishedAt": "2026-08-12T13:57:53.000Z",
+      "url": "https://www.huaweicentral.com/honor-magic-9-series-launch-confirmed-for-september/",
+      "image": "https://www.huaweicentral.com/wp-content/uploads/2026/08/Magic9-pre-order.jpg",
+      "summary": "Honor has announced some big news today, alongside unveiling the ROBOT PHONE – Magic 9 series will launch in September. While some rumors have already predicted the timeline, the…",
+      "tags": [
+        "HONOR",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-59ac0327431b",
+      "title": "iPhone 18 could get two new Pro-level upgrades, per report",
+      "source": "9to5Mac",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-12",
+      "time": "13:51",
+      "publishedAt": "2026-08-12T13:51:19.000Z",
+      "url": "https://9to5mac.com/2026/08/12/iphone-18-could-get-two-new-pro-level-upgrades-per-report/",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/11/iphone-18-mockup-blue.jpg?quality=82&strip=all&w=1600",
+      "summary": "Apple’s base model iPhone 18 won’t launch until early 2027, but when it arrives, it could pack two new Pro-level upgrades.",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "weibo-b71118c90ce9",
+      "title": "数码闲聊站：荣耀Magic9系列定档9月，全新横向延伸+左上角大圆DECO，金属中框，阿莱…",
+      "source": "数码闲聊站",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-08-12",
+      "time": "13:51",
+      "publishedAt": "2026-08-12T13:51:00.000Z",
+      "url": "https://weibo.com/6048569942/Rd5Sznbn0",
+      "image": "https://tvax1.sinaimg.cn/mw2000/006BlblIgy1ig1a2hfry7j31b11jkn94.jpg",
+      "summary": "荣耀Magic9系列定档9月，全新横向延伸+左上角大圆DECO，金属中框，阿莱影像，喜欢吗？",
+      "tags": [
+        "HONOR",
+        "爆料",
+        "微博"
+      ]
+    },
+    {
+      "id": "auto-1e262bfad738",
+      "title": "'Everyone' at Apple Apparently Calls Foldable 'iPhone Ultra'",
+      "source": "MacRumors",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-12",
+      "time": "13:47",
+      "publishedAt": "2026-08-12T13:47:13.000Z",
+      "url": "https://www.macrumors.com/2026/08/12/everyone-at-apple-says-iphone-ultra/",
+      "image": "https://images.macrumors.com/article-new/2025/08/Apple-Foldable-Thumb.jpg",
+      "summary": "Bloomberg 's Mark Gurman has said \"everyone\" inside Apple refers to the company's upcoming foldable iPhone as the \" iPhone Ultra \" internally, though he cautioned that doesn't nec…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-ffe33c9d144b",
+      "title": "iQOO Z11S 手机官宣搭载 144Hz 护眼电竞屏，支持 2000nits 全屏最大亮度",
+      "source": "IT之家",
+      "brand": "vivo",
+      "model": "vivo 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-12",
+      "time": "13:46",
+      "publishedAt": "2026-08-12T13:46:23.000Z",
+      "url": "https://www.ithome.com/0/988/978.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/8/dd8c303c-5202-4de8-91d7-fa67f531e35e.jpg?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 8 月 12 日消息，iQOO 手机官方今日宣布， iQOO Z11S 手机将搭载 144Hz 护眼电竞屏 。 据介绍， iQOO Z11S 手机的这块 144Hz 护眼电竞屏支持 2000nits 全屏最大亮度 、全亮度类 DC 调光，并获得了瑞士 SGS 认证。 IT之家注意到， 这款手机还会搭载 10000mAh 蓝海大电池 ，这也是 iQ…",
+      "tags": [
+        "vivo",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-20e6018dc8ac",
+      "title": "Google’s Pixel 11 series pairs a little new hardware with a lot of new software",
+      "source": "The Verge",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-12",
+      "time": "13:31",
+      "publishedAt": "2026-08-12T13:31:48.000Z",
+      "url": "https://www.theverge.com/tech/978013/google-pixel-11-series-hands-on-hardware-software",
+      "image": "",
+      "summary": "When I first picked up the Pixel 11 Pro this week, it was clear to me that this was one of those refinement years - at least when it comes to hardware. Aesthetically, the phones a…",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
       ]
     },
     {
@@ -142,26 +1142,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "coolapk-user-730dd59d2117",
-      "title": "JSCHEN小小狐：荣耀 Robot Phone 发布：售价 9999 元起",
-      "source": "JSCHEN小小狐",
-      "brand": "HONOR",
-      "model": "HONOR 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-08-12",
-      "time": "12:36",
-      "publishedAt": "2026-08-12T12:36:25.000Z",
-      "url": "https://www.coolapk.com/feed/73204500",
-      "image": "http://image.coolapk.com/feed/2026/0812/21/4702274_d742f81a_9701_0886_47@1899x4364.jpg",
-      "summary": "『荣耀 Robot Phone 发布：售价 9999 元起』 12GB + 512GB —— 9999 元 16GB + 1TB —— 12999 元 ◇ 外观 星轨银、月影灰 铝合金一体化机身 + 复合玻纤背板 151.43 × 72.86 × 9.59mm，约 248 克 ◇ 性能 骁龙 8 Elite Gen5 移动平台 LPDDR5X 内存 UFS…",
-      "tags": [
-        "HONOR",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
       "id": "auto-394340eb9654",
       "title": "Honor shares the first look of the Magic 9 series smartphone",
       "source": "Huawei Central",
@@ -203,7 +1183,7 @@ window.phoneRadarAuto = {
     },
     {
       "id": "coolapk-user-273ba21962db",
-      "title": "JSCHEN小小狐：这小玩意机身设计还是挺有意思的 可惜云台启动后，没录制也会很快热起来",
+      "title": "JSCHEN小小狐：这小玩意机身设计还是挺有意思的 可惜云台启动后，没录制也会很快热起来 另外使用云台时如果要录制完整画面，需要像图…",
       "source": "JSCHEN小小狐",
       "brand": "HONOR",
       "model": "HONOR 相关机型",
@@ -214,7 +1194,7 @@ window.phoneRadarAuto = {
       "publishedAt": "2026-08-12T12:02:32.000Z",
       "url": "https://www.coolapk.com/feed/73203973",
       "image": "http://image.coolapk.com/feed/2026/0812/20/4702274_d4cf5580_6149_0785_9-uhdr@2365x3504.jpg",
-      "summary": "这小玩意机身设计还是挺有意思的 可惜云台启动后，没录制也会很快热起来",
+      "summary": "这小玩意机身设计还是挺有意思的 可惜云台启动后，没录制也会很快热起来 另外使用云台时如果要录制完整画面，需要像图 4 那样竖屏预览横屏，不然就得裁到 2.8K，这点有点尴尬，可能是为云台的行程稳定考虑？",
       "tags": [
         "HONOR",
         "爆料",
@@ -382,41 +1362,21 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-0e79fd4d9449",
-      "title": "荣耀 MagicOS 10 系统 8 月版本第三批机型今晚推送，覆盖 Magic5 系列、GT 等",
-      "source": "IT之家",
-      "brand": "HONOR",
-      "model": "HONOR 相关机型",
+      "id": "auto-0cb3b98ba605",
+      "title": "Android now has a tap-to-share feature",
+      "source": "The Verge",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
       "type": "爆料",
       "trust": "媒体汇总",
       "date": "2026-08-12",
-      "time": "10:03",
-      "publishedAt": "2026-08-12T10:03:20.000Z",
-      "url": "https://www.ithome.com/0/988/892.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/8/ac60ef6c-02a7-4f05-ad2b-d68ebcc6b27e.png",
-      "summary": "IT之家 8 月 12 日消息，荣耀产品维护与升级 @荣耀小芳哥 今日宣布， MagicOS 10 系统 8 月版本的第三批机型将在今晚推送升级 。 荣耀 Magic V3、荣耀 Magic Vs3、荣耀 Magic V2 系列、荣耀 Magic Vs2、荣耀 Magic Vs 系列、荣耀 Magic V Flip 2、荣耀 Magic V Flip、荣耀…",
+      "time": "09:54",
+      "publishedAt": "2026-08-12T09:54:05.000Z",
+      "url": "https://www.theverge.com/tech/978613/android-quick-share-tap-update-pixels-samsung",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/DSC02339_processed.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "summary": "Android's AirDrop-like Quick Share feature will now let some devices exchange files and contact information when tapped together. The update is coming to Pixel 6 series phones and…",
       "tags": [
-        "HONOR",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-ac9fdffab247",
-      "title": "iQOO Neo11 至尊版手机官宣搭载新一代 2K 护眼超冠屏，全球首发 F2 发光材料",
-      "source": "IT之家",
-      "brand": "vivo",
-      "model": "vivo 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-12",
-      "time": "09:33",
-      "publishedAt": "2026-08-12T09:33:55.000Z",
-      "url": "https://www.ithome.com/0/988/881.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/8/0450acfa-aa42-440c-9ed9-2e1a9ba8eb44.jpg",
-      "summary": "IT之家 8 月 12 日消息，iQOO 手机官方今日宣布， iQOO Neo11 至尊版将搭载新一代 2K 护眼超冠屏： 有害蓝光占比≤5%、支持全新圆偏振光 2.0、拥有全新 1nit 暗夜护眼功能 。 另外，iQOO Neo11 至尊版还搭载 iQOO 15 Ultra 同款超感触控芯片， 多指触控采样率至高 500Hz、瞬时触控采样率至高 4000…",
-      "tags": [
-        "vivo",
+        "Pixel",
         "爆料",
         "自动抓取"
       ]
@@ -517,26 +1477,6 @@ window.phoneRadarAuto = {
       "summary": "Huawei Mate 90 series launch event is expected to take place on the 23rd of next month, and at the same time, the company could unveil two mysterious phones. A new leak suggests t…",
       "tags": [
         "Huawei",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-132f22e45606",
-      "title": "Google is giving away Pixel 11 discount codes before launch",
-      "source": "Android Police",
-      "brand": "Pixel",
-      "model": "Pixel 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-12",
-      "time": "07:58",
-      "publishedAt": "2026-08-12T07:58:34.000Z",
-      "url": "https://www.androidpolice.com/google-giving-away-pixel-11-discount-codes-before-launch/",
-      "image": "",
-      "summary": "But not everyone's getting the same deal",
-      "tags": [
-        "Pixel",
         "爆料",
         "自动抓取"
       ]
@@ -802,46 +1742,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-dca1129ac4b1",
-      "title": "精密制造能力在机器人手机上具象化",
-      "source": "微博热搜",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "待验证",
-      "date": "2026-08-12",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://s.weibo.com/weibo?q=%23%E7%B2%BE%E5%AF%86%E5%88%B6%E9%80%A0%E8%83%BD%E5%8A%9B%E5%9C%A8%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%89%8B%E6%9C%BA%E4%B8%8A%E5%85%B7%E8%B1%A1%E5%8C%96%23&t=31&band_rank=20&Refer=top",
-      "image": "",
-      "summary": "精密制造能力在机器人手机上具象化",
-      "tags": [
-        "行业",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-b16471a5258c",
-      "title": "最能接话的机器人手机",
-      "source": "微博热搜",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "待验证",
-      "date": "2026-08-12",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://s.weibo.com/weibo?q=%23%E6%9C%80%E8%83%BD%E6%8E%A5%E8%AF%9D%E7%9A%84%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%89%8B%E6%9C%BA%23&t=31&band_rank=23&Refer=top",
-      "image": "",
-      "summary": "最能接话的机器人手机",
-      "tags": [
-        "行业",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
       "id": "newsnow-7313cd038915",
       "title": "据媒体报道部分手机壳疑似采用废弃针管等医疗垃圾加工而成，真的吗？对健康会有多大危害？消费者该如何辨别？",
       "source": "知乎热榜",
@@ -858,6 +1758,46 @@ window.phoneRadarAuto = {
       "tags": [
         "行业",
         "市场报告",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-7402f578aff1",
+      "title": "全球首款机器人手机Robot Phone发布",
+      "source": "今日头条热榜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-12",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.toutiao.com/trending/7672074822553452550/",
+      "image": "",
+      "summary": "全球首款机器人手机Robot Phone发布",
+      "tags": [
+        "行业",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-8436142dfaad",
+      "title": "荣耀Magic9系列手机外观首曝",
+      "source": "今日头条热榜",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-12",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.toutiao.com/trending/7672306494965055494/",
+      "image": "",
+      "summary": "荣耀Magic9系列手机外观首曝",
+      "tags": [
+        "HONOR",
+        "爆料",
         "NewsNow"
       ]
     },
@@ -962,26 +1902,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-2fbb38c33c54",
-      "title": "The Galaxy Z Fold 8 Ultra's best camera mode isn't what Samsung thinks it is",
-      "source": "Android Police",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-11",
-      "time": "17:30",
-      "publishedAt": "2026-08-11T17:30:16.000Z",
-      "url": "https://www.androidpolice.com/galaxy-z-fold-8-ultras-best-camera-mode/",
-      "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2026/08/samsung-galaxy-z-fold-8-ultra-filters-feature.jpg",
-      "summary": "Not Cinematic LUTs, but custom filters",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-8cb5d139f11d",
       "title": "iPhone Ultra will have two features that ‘Pro’ users should love",
       "source": "9to5Mac",
@@ -1059,26 +1979,6 @@ window.phoneRadarAuto = {
         "Xiaomi",
         "爆料",
         "自动抓取"
-      ]
-    },
-    {
-      "id": "weibo-ff324f7988dd",
-      "title": "数码闲聊站：REDMI K100 Pro，这首发价格可还行？ 12GB+256GB——36…",
-      "source": "数码闲聊站",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-08-11",
-      "time": "11:52",
-      "publishedAt": "2026-08-11T11:52:17.000Z",
-      "url": "https://weibo.com/6048569942/RcVFT1mlT",
-      "image": "",
-      "summary": "REDMI K100 Pro，这首发价格可还行？ 12GB+256GB——3699元/原价3999 16GB+256GB——4099元/原价4399 12GB+512GB——4299元/原价4599 16GB+512GB——4699元/原价4999 REDMI K100 Pro Max，这首发价格可还行？ 12GB+256GB——4199元/原价4499元…",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "微博"
       ]
     },
     {
@@ -1219,26 +2119,6 @@ window.phoneRadarAuto = {
         "OPPO",
         "爆料",
         "酷安博主"
-      ]
-    },
-    {
-      "id": "auto-3ad22601d818",
-      "title": "New Pixel 11 leak has good news for camera zoom, bad news for HiLight",
-      "source": "Android Authority",
-      "brand": "Pixel",
-      "model": "Pixel 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-11",
-      "time": "05:33",
-      "publishedAt": "2026-08-11T05:33:36.000Z",
-      "url": "https://www.androidauthority.com/google-pixel-11-hilight-camera-leak-3696749/",
-      "image": "",
-      "summary": "You'll have to spend a little extra on a Pro model if you want the fancy notification LED.",
-      "tags": [
-        "Pixel",
-        "爆料",
-        "自动抓取"
       ]
     },
     {

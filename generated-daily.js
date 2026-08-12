@@ -1,5 +1,5 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-08-12T13:45:20.317Z",
+  "updatedAt": "2026-08-12T15:13:40.523Z",
   "issueDate": "2026-08-12",
   "issue": "VOL.260812",
   "title": "手机情报日报",
@@ -113,6 +113,29 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
+          "id": "auto-1e262bfad738",
+          "title": "iPhone 折叠屏相关消息",
+          "originalTitle": "",
+          "source": "MacRumors",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-08-12",
+          "time": "13:47",
+          "publishedAt": "2026-08-12T13:47:13.000Z",
+          "url": "https://www.macrumors.com/2026/08/12/everyone-at-apple-says-iphone-ultra/",
+          "image": "https://images.macrumors.com/article-new/2025/08/Apple-Foldable-Thumb.jpg",
+          "verdict": "先看",
+          "takeaway": "iPhone 折叠屏相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
+          "detail": "iPhone 折叠屏相关消息。重点看折痕、铰链、厚度、屏幕可靠性和重量是否有实质改善。",
+          "keyPoints": [
+            "爆料来源"
+          ],
+          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
           "id": "auto-cf55c2101c7a",
           "title": "iPhone 屏幕规格相关消息",
           "originalTitle": "",
@@ -181,29 +204,6 @@ window.phoneRadarDaily = {
             "爆料来源"
           ],
           "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "newsnow-4227a1ad4244",
-          "title": "iPhone 20 Pro概念渲染图曝光",
-          "originalTitle": "",
-          "source": "抖音热点",
-          "brand": "iPhone",
-          "type": "爆料",
-          "trust": "待验证",
-          "date": "2026-08-12",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://www.douyin.com/hot/2607268",
-          "image": "",
-          "verdict": "先看",
-          "takeaway": "iPhone 20 Pro概念渲染图曝光",
-          "detail": "iPhone 20 Pro概念渲染图曝光",
-          "keyPoints": [
-            "外观 / 配色 / 尺寸"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         }
