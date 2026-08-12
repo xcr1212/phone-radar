@@ -1,12 +1,12 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-08-12T02:42:59.671Z",
+  "updatedAt": "2026-08-12T05:45:05.371Z",
   "issueDate": "2026-08-12",
   "issue": "VOL.260812",
   "title": "手机情报日报",
-  "intro": "今日筛出 11 条重点，其中 8 条是重点爆料，包含 7 条 iPhone 相关、1 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 14 条重点，其中 8 条是重点爆料，包含 8 条 iPhone 相关、1 条官方确认、0 条参数线索。",
   "stats": {
-    "total": 11,
-    "iphone": 7,
+    "total": 14,
+    "iphone": 8,
     "leaks": 8,
     "official": 1,
     "specs": 0
@@ -18,22 +18,24 @@ window.phoneRadarDaily = {
       "hint": "机模、配色、影像、屏幕、电池和芯片线索先看。",
       "items": [
         {
-          "id": "auto-ef92180c0e13",
-          "title": "苹果首款折叠 iPhone 名称爆料，公司内部均称其为“Ultra”",
+          "id": "weibo-a94015fdfbcb",
+          "title": "数码闲聊站：iPhone 20 Pro系列内部代号V73/V74，从供应链摸到的两块新屏物…",
           "originalTitle": "",
-          "source": "IT之家",
+          "source": "数码闲聊站",
           "brand": "iPhone",
           "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-08-11",
-          "time": "22:53",
-          "publishedAt": "2026-08-11T22:53:01.000Z",
-          "url": "https://www.ithome.com/0/988/550.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/8/999c0124-d5cd-4e7b-9cf9-4739fe856b5f.png?x-bce-process=image/format,f_auto",
+          "trust": "高关注爆料源",
+          "date": "2026-08-12",
+          "time": "03:49",
+          "publishedAt": "2026-08-12T03:49:00.000Z",
+          "url": "https://weibo.com/6048569942/Rd1WdtnG1",
+          "image": "https://tvax2.sinaimg.cn/mw2000/006BlblIgy1ifzyzqxk1aj30xv0wln6w.jpg",
           "verdict": "先看",
-          "takeaway": "IT之家 8 月 12 日消息，彭博社的马克 · 古尔曼（Mark Gurman）昨日（8 月 11 日）发布博文， 爆料称在苹果公司内部，对于苹果公司即将推出的首款折叠手机，“几乎所有人”都称其为 iPhone Ultra。 科技分析师与行业评论员 Max Weinbach 昨日在 X 平台发布推文，不认为苹果首款折叠手机会叫 iPhone Ultra。…",
-          "detail": "IT之家 8 月 12 日消息，彭博社的马克 · 古尔曼（Mark Gurman）昨日（8 月 11 日）发布博文， 爆料称在苹果公司内部，对于苹果公司即将推出的首款折叠手机，“几乎所有人”都称其为 iPhone Ultra。 科技分析师与行业评论员 Max Weinbach 昨日在 X 平台发布推文，不认为苹果首款折叠手机会叫 iPhone Ultra。…",
+          "takeaway": "iPhone 20 Pro系列内部代号V73/V74，从供应链摸到的两块新屏物理尺寸增大，屏幕比例不变，猜测是运用了全新无边四曲面设计。 苹果的无边四曲面猜测是2D直屏+玻璃盖板，利用玻璃的光学折射和形态设计，营造出视觉无边的效果，再结合液态玻璃UI，苹果要把玻璃玩出花了[并不简单]",
+          "detail": "iPhone 20 Pro系列内部代号V73/V74，从供应链摸到的两块新屏物理尺寸增大，屏幕比例不变，猜测是运用了全新无边四曲面设计。 苹果的无边四曲面猜测是2D直屏+玻璃盖板，利用玻璃的光学折射和形态设计，营造出视觉无边的效果，再结合液态玻璃UI，苹果要把玻璃玩出花了[并不简单]",
           "keyPoints": [
+            "外观 / 配色 / 尺寸",
+            "屏幕形态",
             "爆料来源"
           ],
           "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
@@ -88,8 +90,8 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
-          "id": "newsnow-44cd09dfd707",
-          "title": "iPhone18Pro相机3大升级",
+          "id": "newsnow-dd39659e33d9",
+          "title": "iPhone20Pro爆料",
           "originalTitle": "",
           "source": "微博热搜",
           "brand": "iPhone",
@@ -98,13 +100,13 @@ window.phoneRadarDaily = {
           "date": "2026-08-12",
           "time": "",
           "publishedAt": "",
-          "url": "https://s.weibo.com/weibo?q=%23iPhone18Pro%E7%9B%B8%E6%9C%BA3%E5%A4%A7%E5%8D%87%E7%BA%A7%23&t=31&band_rank=19&Refer=top",
+          "url": "https://s.weibo.com/weibo?q=%23iPhone20Pro%E7%88%86%E6%96%99%23&t=31&band_rank=6&Refer=top",
           "image": "",
           "verdict": "先看",
-          "takeaway": "iPhone18Pro相机3大升级",
-          "detail": "iPhone18Pro相机3大升级",
+          "takeaway": "iPhone20Pro爆料",
+          "detail": "iPhone20Pro爆料",
           "keyPoints": [
-            "影像硬件"
+            "爆料来源"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
@@ -158,50 +160,49 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
-          "id": "weibo-ff324f7988dd",
-          "title": "数码闲聊站：REDMI K100 Pro，这首发价格可还行？ 12GB+256GB——36…",
+          "id": "auto-fe02e0f88939",
+          "title": "Mate 90 系列 + 韬定律芯片首秀？文旅部透露华为终端 Haco 发布会定档 9 月 23 日",
           "originalTitle": "",
-          "source": "数码闲聊站",
-          "brand": "Xiaomi",
+          "source": "IT之家",
+          "brand": "Huawei",
           "type": "爆料",
-          "trust": "高关注爆料源",
-          "date": "2026-08-11",
-          "time": "11:52",
-          "publishedAt": "2026-08-11T11:52:17.000Z",
-          "url": "https://weibo.com/6048569942/RcVFT1mlT",
-          "image": "",
+          "trust": "媒体汇总",
+          "date": "2026-08-12",
+          "time": "03:01",
+          "publishedAt": "2026-08-12T03:01:31.000Z",
+          "url": "https://www.ithome.com/0/988/681.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/8/2fe097b9-2617-4be7-8a1e-a7f43e6533df.jpg",
           "verdict": "先看",
-          "takeaway": "REDMI K100 Pro，这首发价格可还行？ 12GB+256GB——3699元/原价3999 16GB+256GB——4099元/原价4399 12GB+512GB——4299元/原价4599 16GB+512GB——4699元/原价4999 REDMI K100 Pro Max，这首发价格可还行？ 12GB+256GB——4199元/原价4499元…",
-          "detail": "REDMI K100 Pro，这首发价格可还行？ 12GB+256GB——3699元/原价3999 16GB+256GB——4099元/原价4399 12GB+512GB——4299元/原价4599 16GB+512GB——4699元/原价4999 REDMI K100 Pro Max，这首发价格可还行？ 12GB+256GB——4199元/原价4499元…",
+          "takeaway": "IT之家 8 月 12 日消息，据IT之家小伙伴反馈，“ 华为终端 Haco 发布会助兴演出 ”出现在文化和旅游部官网的全国涉外营业性演出活动审批系统中，批复时间为 8 月 10 日，演出时间为 9 月 23 日，地点为深圳国际会展中心 20 号馆。 从时间和地点来看，此次审批的演出有望是华为 Mate 90 系列旗舰手机的发布会配套演出。 博主 @超维界…",
+          "detail": "IT之家 8 月 12 日消息，据IT之家小伙伴反馈，“ 华为终端 Haco 发布会助兴演出 ”出现在文化和旅游部官网的全国涉外营业性演出活动审批系统中，批复时间为 8 月 10 日，演出时间为 9 月 23 日，地点为深圳国际会展中心 20 号馆。 从时间和地点来看，此次审批的演出有望是华为 Mate 90 系列旗舰手机的发布会配套演出。 博主 @超维界…",
           "keyPoints": [
-            "成本 / 价格",
-            "爆料来源"
+            "芯片 / 性能"
           ],
-          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
-          "id": "weibo-65e3649e7a1f",
-          "title": "数码闲聊站：荣耀一块新电池试产了，额定容量11790mAh，额定能量43.86Wh，典型值…",
+          "id": "newsnow-62d11765ed2c",
+          "title": "米子还是米子，做工真的是非常的。。。昨晚兴高采烈冲了首发，那摄像头没有灰就回家了，今早晃眼一看，好嘛，屏幕左窄右宽。。。真的是服了，前两天用小米17Pro Max长焦镜头，这一台又屏幕左窄右宽，真的心累，到底要不要去换货呀！！！[喷][喷][喷]",
           "originalTitle": "",
-          "source": "数码闲聊站",
-          "brand": "HONOR",
+          "source": "酷安热榜",
+          "brand": "Xiaomi",
           "type": "爆料",
           "trust": "高关注爆料源",
-          "date": "2026-08-11",
-          "time": "03:36",
-          "publishedAt": "2026-08-11T03:36:00.000Z",
-          "url": "https://weibo.com/6048569942/RcSqrwU59",
+          "date": "2026-08-12",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://www.coolapk.com/feed/73194913",
           "image": "",
           "verdict": "先看",
-          "takeaway": "荣耀一块新电池试产了，额定容量11790mAh，额定能量43.86Wh，典型值是12000mAh±，又双叒一块万级大电池，你们猜这是什么新机[二哈]",
-          "detail": "荣耀一块新电池试产了，额定容量11790mAh，额定能量43.86Wh，典型值是12000mAh±，又双叒一块万级大电池，你们猜这是什么新机[二哈]",
+          "takeaway": "米子还是米子，做工真的是非常的。。。昨晚兴高采烈冲了首发，那摄像头没有灰就回家了，今早晃眼一看，好嘛，屏幕左窄右宽。。。真的是服了，前两天用小米17Pro Max长焦镜头，这一台又屏幕左窄右宽，真的心累，到底要不要去换货呀！！！[喷][喷][喷]",
+          "detail": "米子还是米子，做工真的是非常的。。。昨晚兴高采烈冲了首发，那摄像头没有灰就回家了，今早晃眼一看，好嘛，屏幕左窄右宽。。。真的是服了，前两天用小米17Pro Max长焦镜头，这一台又屏幕左窄右宽，真的心累，到底要不要去换货呀！！！[喷][喷][喷]",
           "keyPoints": [
-            "电池 / 充电",
-            "爆料来源"
+            "影像硬件",
+            "屏幕形态"
           ],
-          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         }
@@ -212,6 +213,29 @@ window.phoneRadarDaily = {
       "title": "iPhone 重点",
       "hint": "不是硬件爆料，但和 iPhone 体验或路线有关。",
       "items": [
+        {
+          "id": "auto-1bd890e062d8",
+          "title": "我，与「唯一」的 iPhone Air",
+          "originalTitle": "",
+          "source": "少数派",
+          "brand": "iPhone",
+          "type": "评测",
+          "trust": "媒体汇总",
+          "date": "2026-08-12",
+          "time": "03:04",
+          "publishedAt": "2026-08-12T03:04:34.000Z",
+          "url": "https://sspai.com/post/112880",
+          "image": "",
+          "verdict": "先看",
+          "takeaway": "在 iPhone Air 之后才发现，有些产品存在的意义，是帮我确认我真正需要什么。",
+          "detail": "在 iPhone Air 之后才发现，有些产品存在的意义，是帮我确认我真正需要什么。",
+          "keyPoints": [
+            "评测"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是实际体验内容，买前适合重点看缺点和取舍。",
+          "action": "中文源可以直接点开快读；看完只保留和购机有关的点。"
+        },
         {
           "id": "auto-ad30298a2d98",
           "title": "iPhone 20 周年版不会被取消，但也不是你想象的样子",
@@ -281,6 +305,59 @@ window.phoneRadarDaily = {
           "verdict": "先看",
           "takeaway": "REDMI K100 Pro 系列发布：首销 3699 元起",
           "detail": "REDMI K100 Pro 系列发布：首销 3699 元起",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        },
+        {
+          "id": "newsnow-b950f6c13650",
+          "title": "华为Mate90系列新品发布会助兴演出获批：9月23日",
+          "originalTitle": "",
+          "source": "酷安热榜",
+          "brand": "Huawei",
+          "type": "爆料",
+          "trust": "高关注爆料源",
+          "date": "2026-08-12",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://www.coolapk.com/feed/73194716",
+          "image": "",
+          "verdict": "先看",
+          "takeaway": "华为Mate90系列新品发布会助兴演出获批：9月23日",
+          "detail": "华为Mate90系列新品发布会助兴演出获批：9月23日",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        }
+      ]
+    },
+    {
+      "id": "market",
+      "title": "行业趋势",
+      "hint": "看方向，不急着当购买依据。",
+      "items": [
+        {
+          "id": "newsnow-56f0b6b566d0",
+          "title": "一加新机入网：天玑 6360 / 720P LCD",
+          "originalTitle": "",
+          "source": "酷安热榜",
+          "brand": "OPPO",
+          "type": "爆料",
+          "trust": "高关注爆料源",
+          "date": "2026-08-12",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://www.coolapk.com/feed/73182229",
+          "image": "",
+          "verdict": "先看",
+          "takeaway": "一加新机入网：天玑 6360 / 720P LCD",
+          "detail": "一加新机入网：天玑 6360 / 720P LCD",
           "keyPoints": [
             "爆料"
           ],

@@ -1,6 +1,126 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-08-12T02:42:59.671Z",
+  "updatedAt": "2026-08-12T05:45:05.371Z",
   "news": [
+    {
+      "id": "auto-92bf774e39d9",
+      "title": "Vivo X500, iQOO 16 latest certification reveals charging speeds, September launch expected￼￼￼",
+      "source": "Gizmochina",
+      "brand": "vivo",
+      "model": "vivo 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-12",
+      "time": "05:13",
+      "publishedAt": "2026-08-12T05:13:49.000Z",
+      "url": "https://www.gizmochina.com/2026/08/12/vivo-x500-and-iqoo-16-3c-certified/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/06/Vivo-X300-300x225.jpg?x23692",
+      "summary": "Two new Vivo phones bearing the model numbers V2609A and V2606A were spotted at China’s SRRC (radio certification) and MIIT in recent weeks. Both phones have now passed 3C certifi…",
+      "tags": [
+        "vivo",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-33ee714e9cf5",
+      "title": "竹本青：【9月23日深圳，华为终端Haco发布会助兴演出获批】 演出名称：华为终端Haco发布会助兴演出 演出地：广东省‑…",
+      "source": "竹本青",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-08-12",
+      "time": "05:05",
+      "publishedAt": "2026-08-12T05:05:24.000Z",
+      "url": "https://www.coolapk.com/feed/73197694",
+      "image": "http://image.coolapk.com/feed/2026/0812/13/4248714_7b8ebabe_1123_8162_912@1272x2368.jpg",
+      "summary": "【9月23日深圳，华为终端Haco发布会助兴演出获批】 演出名称：华为终端Haco发布会助兴演出 演出地：广东省‑深圳市‑宝安区 演出时间：2026‑09‑23 至 2026‑09‑23 演出场所：深圳国际会展中心20号馆 8月12日资讯，华为终端Haco发布会助兴演出，现身文化和旅游部官网，预计为华为Mate 90系列新品发布会。 #鸿蒙6# #华为Ma…",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-3e95a408deee",
+      "title": "Huawei Mate 90 series launch tentatively set for September 23",
+      "source": "Huawei Central",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-12",
+      "time": "04:58",
+      "publishedAt": "2026-08-12T04:58:23.000Z",
+      "url": "https://www.huaweicentral.com/huawei-mate-90-series-launch-tentatively-set-for-september-23/",
+      "image": "https://www.huaweicentral.com/wp-content/uploads/2026/08/Ministry-of-China.jpg",
+      "summary": "Looks like the Huawei Mate 90 series launch date mystery has been resolved to some extent, as a new input says the flagship will possibly debut on September 23. The latest piece o…",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "weibo-a94015fdfbcb",
+      "title": "数码闲聊站：iPhone 20 Pro系列内部代号V73/V74，从供应链摸到的两块新屏物…",
+      "source": "数码闲聊站",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-08-12",
+      "time": "03:49",
+      "publishedAt": "2026-08-12T03:49:00.000Z",
+      "url": "https://weibo.com/6048569942/Rd1WdtnG1",
+      "image": "https://tvax2.sinaimg.cn/mw2000/006BlblIgy1ifzyzqxk1aj30xv0wln6w.jpg",
+      "summary": "iPhone 20 Pro系列内部代号V73/V74，从供应链摸到的两块新屏物理尺寸增大，屏幕比例不变，猜测是运用了全新无边四曲面设计。 苹果的无边四曲面猜测是2D直屏+玻璃盖板，利用玻璃的光学折射和形态设计，营造出视觉无边的效果，再结合液态玻璃UI，苹果要把玻璃玩出花了[并不简单]",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "微博"
+      ]
+    },
+    {
+      "id": "auto-1bd890e062d8",
+      "title": "我，与「唯一」的 iPhone Air",
+      "source": "少数派",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-08-12",
+      "time": "03:04",
+      "publishedAt": "2026-08-12T03:04:34.000Z",
+      "url": "https://sspai.com/post/112880",
+      "image": "",
+      "summary": "在 iPhone Air 之后才发现，有些产品存在的意义，是帮我确认我真正需要什么。",
+      "tags": [
+        "iPhone",
+        "评测",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-fe02e0f88939",
+      "title": "Mate 90 系列 + 韬定律芯片首秀？文旅部透露华为终端 Haco 发布会定档 9 月 23 日",
+      "source": "IT之家",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-12",
+      "time": "03:01",
+      "publishedAt": "2026-08-12T03:01:31.000Z",
+      "url": "https://www.ithome.com/0/988/681.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/8/2fe097b9-2617-4be7-8a1e-a7f43e6533df.jpg",
+      "summary": "IT之家 8 月 12 日消息，据IT之家小伙伴反馈，“ 华为终端 Haco 发布会助兴演出 ”出现在文化和旅游部官网的全国涉外营业性演出活动审批系统中，批复时间为 8 月 10 日，演出时间为 9 月 23 日，地点为深圳国际会展中心 20 号馆。 从时间和地点来看，此次审批的演出有望是华为 Mate 90 系列旗舰手机的发布会配套演出。 博主 @超维界…",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-15b2101fa427",
       "title": "Google sends out $150 discount codes ahead of Pixel 11 pre-orders",
@@ -43,7 +163,7 @@ window.phoneRadarAuto = {
     },
     {
       "id": "coolapk-user-35eb87f72677",
-      "title": "竹本青：【华为nova16 SE 今日开售：麒麟8020 处理器，1.5K 大直屏，起售价2499元】 128GB ——…",
+      "title": "竹本青：华为nova16 SE开售：麒麟8020，起售价2499元",
       "source": "竹本青",
       "brand": "Huawei",
       "model": "Huawei 相关机型",
@@ -63,7 +183,7 @@ window.phoneRadarAuto = {
     },
     {
       "id": "coolapk-user-83bf3c902ab1",
-      "title": "竹本青：【REDMI K100 Pro Max 首销日战报：销量为上代同期150%】 8月12日，小米高管卢伟冰宣布，RE…",
+      "title": "竹本青：REDMI K100 Pro Max 首销日销量为上代同期150%",
       "source": "竹本青",
       "brand": "Xiaomi",
       "model": "Xiaomi 相关机型",
@@ -83,7 +203,7 @@ window.phoneRadarAuto = {
     },
     {
       "id": "coolapk-user-77546a535b84",
-      "title": "竹本青：【iQOO Neo11 至尊版屏幕预热：15 Ultra同款超感触控芯片，支持圆偏振光2.0】 ▫️有害蓝光占比≤…",
+      "title": "竹本青：iQOO Neo11 至尊版预热：15 Ultra同款超感触控芯片",
       "source": "竹本青",
       "brand": "vivo",
       "model": "vivo 相关机型",
@@ -142,6 +262,46 @@ window.phoneRadarAuto = {
       ]
     },
     {
+      "id": "newsnow-62d11765ed2c",
+      "title": "米子还是米子，做工真的是非常的。。。昨晚兴高采烈冲了首发，那摄像头没有灰就回家了，今早晃眼一看，好嘛，屏幕左窄右宽。。。真的是服了，前两天用小米17Pro Max长焦镜头，这一台又屏幕左窄右宽，真的心累，到底要不要去换货呀！！！[喷][喷][喷]",
+      "source": "酷安热榜",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-08-12",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/73194913",
+      "image": "",
+      "summary": "米子还是米子，做工真的是非常的。。。昨晚兴高采烈冲了首发，那摄像头没有灰就回家了，今早晃眼一看，好嘛，屏幕左窄右宽。。。真的是服了，前两天用小米17Pro Max长焦镜头，这一台又屏幕左窄右宽，真的心累，到底要不要去换货呀！！！[喷][喷][喷]",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-b950f6c13650",
+      "title": "华为Mate90系列新品发布会助兴演出获批：9月23日",
+      "source": "酷安热榜",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-08-12",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/73194716",
+      "image": "",
+      "summary": "华为Mate90系列新品发布会助兴演出获批：9月23日",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
       "id": "newsnow-56f0b6b566d0",
       "title": "一加新机入网：天玑 6360 / 720P LCD",
       "source": "酷安热榜",
@@ -162,8 +322,8 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-44cd09dfd707",
-      "title": "iPhone18Pro相机3大升级",
+      "id": "newsnow-dd39659e33d9",
+      "title": "iPhone20Pro爆料",
       "source": "微博热搜",
       "brand": "iPhone",
       "model": "iPhone 相关机型",
@@ -172,9 +332,9 @@ window.phoneRadarAuto = {
       "date": "2026-08-12",
       "time": "",
       "publishedAt": "",
-      "url": "https://s.weibo.com/weibo?q=%23iPhone18Pro%E7%9B%B8%E6%9C%BA3%E5%A4%A7%E5%8D%87%E7%BA%A7%23&t=31&band_rank=19&Refer=top",
+      "url": "https://s.weibo.com/weibo?q=%23iPhone20Pro%E7%88%86%E6%96%99%23&t=31&band_rank=6&Refer=top",
       "image": "",
-      "summary": "iPhone18Pro相机3大升级",
+      "summary": "iPhone20Pro爆料",
       "tags": [
         "iPhone",
         "爆料",
@@ -182,43 +342,23 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-778fd6e523a5",
-      "title": "谷歌扩建全球网络基础设施，拟建 3 条新海底光缆",
-      "source": "IT之家",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
+      "id": "newsnow-7e48c2e3dc0b",
+      "title": "女大学生称遭偷拍手机满屏都是腿",
+      "source": "微博热搜",
+      "brand": "行业",
+      "model": "智能手机市场",
       "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-11",
-      "time": "23:40",
-      "publishedAt": "2026-08-11T23:40:45.000Z",
-      "url": "https://www.ithome.com/0/988/560.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/8/91a2a773-b313-403b-a49b-ac5f1e1892f8.png?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 8 月 12 日消息，谷歌昨日（8 月 11 日）发布博文，宣布将在美洲扩建全球网络基础设施， 部署阿尔西西奥斯（Alisios）、卡诺亚（Canoa）与奥拉图兹（Olaluz）三套全新海底光缆系统。 Alisios 海底光缆将连接多米尼加共和国、巴拿马和智利，该名称源自西班牙语“vientos alisios”，意为信风。 Canoa 是一条连…",
+      "trust": "待验证",
+      "date": "2026-08-12",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%A4%A7%E5%AD%A6%E7%94%9F%E7%A7%B0%E9%81%AD%E5%81%B7%E6%8B%8D%E6%89%8B%E6%9C%BA%E6%BB%A1%E5%B1%8F%E9%83%BD%E6%98%AF%E8%85%BF%23&t=31&band_rank=30&Refer=top",
+      "image": "",
+      "summary": "女大学生称遭偷拍手机满屏都是腿",
       "tags": [
-        "iPhone",
+        "行业",
         "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-ef92180c0e13",
-      "title": "苹果首款折叠 iPhone 名称爆料，公司内部均称其为“Ultra”",
-      "source": "IT之家",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-11",
-      "time": "22:53",
-      "publishedAt": "2026-08-11T22:53:01.000Z",
-      "url": "https://www.ithome.com/0/988/550.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/8/999c0124-d5cd-4e7b-9cf9-4739fe856b5f.png?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 8 月 12 日消息，彭博社的马克 · 古尔曼（Mark Gurman）昨日（8 月 11 日）发布博文， 爆料称在苹果公司内部，对于苹果公司即将推出的首款折叠手机，“几乎所有人”都称其为 iPhone Ultra。 科技分析师与行业评论员 Max Weinbach 昨日在 X 平台发布推文，不认为苹果首款折叠手机会叫 iPhone Ultra。…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
+        "NewsNow"
       ]
     },
     {
@@ -402,26 +542,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "coolapk-user-e82bff338f13",
-      "title": "竹本青：【TCL华星认领：独供REDMI K100 Pro系列屏幕，新一代C11自研材料+超级像素技术】 8月11日，TC…",
-      "source": "竹本青",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-08-11",
-      "time": "15:40",
-      "publishedAt": "2026-08-11T15:40:51.000Z",
-      "url": "https://www.coolapk.com/feed/73191022",
-      "image": "http://image.coolapk.com/feed/2026/0811/23/4248714_20108ea8_2850_5974_817@1440x2560.jpg",
-      "summary": "【TCL华星认领：独供REDMI K100 Pro系列屏幕，新一代C11自研材料+超级像素技术】 8月11日，TCL华星宣布独供 REDMI K100 Pro系列屏幕： 185Hz专业电竞直屏，原生超高帧适配多款手游；搭载圆偏振光硬件护眼，全亮度DC调光；采用新一代C11自研发光材料+超级像素技术，色彩通透锐利清晰，兼顾高亮低耗。 #今日热点# #REDM…",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
       "id": "auto-8cb5d139f11d",
       "title": "iPhone Ultra will have two features that ‘Pro’ users should love",
       "source": "9to5Mac",
@@ -439,46 +559,6 @@ window.phoneRadarAuto = {
         "iPhone",
         "爆料",
         "自动抓取"
-      ]
-    },
-    {
-      "id": "coolapk-user-de2247aca2d6",
-      "title": "竹本青：【卢伟冰：未来随着新机陆续发布，大家一定会感觉 K100 Pro系列 越来越香】 8月11日，REDMI K100…",
-      "source": "竹本青",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-08-11",
-      "time": "15:09",
-      "publishedAt": "2026-08-11T15:09:01.000Z",
-      "url": "https://www.coolapk.com/feed/73190545",
-      "image": "http://image.coolapk.com/feed/2026/0811/23/4248714_01489d94_0940_1153_920@1272x2692.jpg",
-      "summary": "【卢伟冰：未来随着新机陆续发布，大家一定会感觉 K100 Pro系列 越来越香】 8月11日，REDMI K100 Pro系列 正式发布，全系搭载185Hz RGB M11直屏。Pro首发3699元起；Pro Max首发4199元起。 发布当晚，针对网上的价格讨论，卢伟冰回应称：未来随着新机陆续发布，大家一定会感觉 K100 Pro系列 越来越香。 #RE…",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
-      "id": "coolapk-user-1eb64d6b05ec",
-      "title": "竹本青：【小米 17系列 最新销量曝光：全系突破591万台，Ultra约23.9万台】 8月11日，博主「RD观测」分享第…",
-      "source": "竹本青",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-08-11",
-      "time": "14:38",
-      "publishedAt": "2026-08-11T14:38:32.000Z",
-      "url": "https://www.coolapk.com/feed/73190052",
-      "image": "http://image.coolapk.com/feed/2026/0811/22/4248714_fba5b1e2_9111_3439_399@1440x512.jpg",
-      "summary": "【小米 17系列 最新销量曝光：全系突破591万台，Ultra约23.9万台】 8月11日，博主「RD观测」分享第三方数据：截至2026年第31周，小米 17系列累计销量约591.76万台；其中，Ultra约23.94万台。 前几周数据如下： 小米 17系列 截至2026 W30 —— 约583.9万 截至2026 W29 —— 约576.3万 截至202…",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "酷安博主"
       ]
     },
     {
@@ -662,26 +742,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-ebd5a8b156c7",
-      "title": "Galaxy S26 FE features and specifications leak in full",
-      "source": "SamMobile",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-11",
-      "time": "09:54",
-      "publishedAt": "2026-08-11T09:54:38.000Z",
-      "url": "https://www.sammobile.com/news/galaxy-s26-fe-features-specifications-leak-full/",
-      "image": "",
-      "summary": "Recently, Samsung revealed that it will launch the Galaxy S26 FE soon. So far, there have been many leaks about the phone, shedding light on its design, features, and pricing bit…",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-96bfe601276c",
       "title": "6 things I regularly do on my Pixel that are unimaginable on an iPhone",
       "source": "Android Authority",
@@ -822,26 +882,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-0b97f7dd8f32",
-      "title": "Huawei Pura 100 series rumored to sport dual 200MP camera setup",
-      "source": "Huawei Central",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-11",
-      "time": "04:30",
-      "publishedAt": "2026-08-11T04:30:08.000Z",
-      "url": "https://www.huaweicentral.com/huawei-pura-100-series-dual-200mp-camera/",
-      "image": "https://www.huaweicentral.com/wp-content/uploads/2026/04/Pura901.jpg",
-      "summary": "Pura 100 series will debut next year as the 2027 Huawei camera flagship and a new rumor suggests the lineup could bring a dual 200MP camera setup on board. If true, it would be th…",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "weibo-65e3649e7a1f",
       "title": "数码闲聊站：荣耀一块新电池试产了，额定容量11790mAh，额定能量43.86Wh，典型值…",
       "source": "数码闲聊站",
@@ -899,26 +939,6 @@ window.phoneRadarAuto = {
         "iPhone",
         "爆料",
         "自动抓取"
-      ]
-    },
-    {
-      "id": "weibo-2cd9e7f5fae8",
-      "title": "数码闲聊站：独家信息：之前说过2nm Pro系列是居中大圆Deco，6.37\"± 6.85…",
-      "source": "数码闲聊站",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-08-11",
-      "time": "01:38",
-      "publishedAt": "2026-08-11T01:38:00.000Z",
-      "url": "https://weibo.com/6048569942/RcREy80dh",
-      "image": "",
-      "summary": "独家信息，之前说过2nm Pro系列是居中大圆Deco，6.37\"± 6.85\"±双尺寸极窄四等边直屏，R角更大更舒服。3nm标准版设计略有不同，改成了左上角大圆Deco，6.59\"±中尺寸直屏[笑哈哈]",
-      "tags": [
-        "行业",
-        "爆料",
-        "微博"
       ]
     },
     {
