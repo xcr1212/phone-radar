@@ -1,5 +1,5 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-08-12T21:02:15.904Z",
+  "updatedAt": "2026-08-12T23:00:22.900Z",
   "issueDate": "2026-08-12",
   "issue": "VOL.260812",
   "title": "手机情报日报",
@@ -39,6 +39,30 @@ window.phoneRadarDaily = {
             "爆料来源"
           ],
           "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "newsnow-b8fd0c211fac",
+          "title": "就这款机子而言，无论黑子再怎么黑，它也是牛逼。手机圈已经很久没有创新性产品了，而且还是量产机型。iphone的价格买到了旗舰安卓机+口袋云台设备，这价格没问题。",
+          "originalTitle": "",
+          "source": "酷安热榜",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "高关注爆料源",
+          "date": "2026-08-12",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://www.coolapk.com/feed/73207999",
+          "image": "",
+          "verdict": "先看",
+          "takeaway": "就这款机子而言，无论黑子再怎么黑，它也是牛逼。手机圈已经很久没有创新性产品了，而且还是量产机型。iphone的价格买到了旗舰安卓机+口袋云台设备，这价格没问题。",
+          "detail": "就这款机子而言，无论黑子再怎么黑，它也是牛逼。手机圈已经很久没有创新性产品了，而且还是量产机型。iphone的价格买到了旗舰安卓机+口袋云台设备，这价格没问题。",
+          "keyPoints": [
+            "成本 / 价格",
+            "爆料来源"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
@@ -177,31 +201,6 @@ window.phoneRadarDaily = {
           "takeaway": "iPhone 折叠屏相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
           "detail": "iPhone 折叠屏相关消息。重点看折痕、铰链、厚度、屏幕可靠性和重量是否有实质改善。",
           "keyPoints": [
-            "爆料来源"
-          ],
-          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "auto-cf55c2101c7a",
-          "title": "iPhone 屏幕规格相关消息",
-          "originalTitle": "",
-          "source": "MacRumors",
-          "brand": "iPhone",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-08-12",
-          "time": "12:44",
-          "publishedAt": "2026-08-12T12:44:10.000Z",
-          "url": "https://www.macrumors.com/2026/08/12/iphone-ultra-screen-protectors-reveal-asymmetry/",
-          "image": "https://images.macrumors.com/article-new/2025/03/Foldable-iPhone-2023-Feature-Iridescent-1.jpg",
-          "verdict": "先看",
-          "takeaway": "iPhone 屏幕规格相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
-          "detail": "iPhone 屏幕规格相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
-          "keyPoints": [
-            "影像硬件",
-            "屏幕形态",
             "爆料来源"
           ],
           "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",

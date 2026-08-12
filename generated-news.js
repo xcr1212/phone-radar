@@ -1,9 +1,49 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-08-12T21:02:15.904Z",
+  "updatedAt": "2026-08-12T23:00:22.900Z",
   "news": [
     {
+      "id": "auto-c4805c1b4789",
+      "title": "苹果新专利：iPhone 将能判断何时该“打扰”用户",
+      "source": "IT之家",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-12",
+      "time": "22:55",
+      "publishedAt": "2026-08-12T22:55:57.000Z",
+      "url": "https://www.ithome.com/0/989/005.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/8/871fea43-5416-4669-9bcd-eb1552d3afc7.jpg?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 8 月 13 日消息，一项最新公布的苹果专利申请描述了一套能够实时判断是否应该打断用户当前操作，还是应该让用户保持专注的系统。 据专利追踪网站 Patentlyze 发现，该专利申请于 2026 年 2 月 5 日提交至美国专利商标局（USPTO），并于 2026 年 8 月 6 日正式公开。专利描述了一种机制：设备可以观察用户正在进行的操作，根…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-5c896f5e916d",
+      "title": "Google's $100 Pixel Price Hike and Trade-In Push Hint at Apple's iPhone 18 Pro Plans",
+      "source": "MacRumors",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-12",
+      "time": "22:48",
+      "publishedAt": "2026-08-12T22:48:51.000Z",
+      "url": "https://www.macrumors.com/2026/08/12/google-pixel-price-hike/",
+      "image": "",
+      "summary": "Google raised the price of its latest smartphones compared to last year, and the increase may hint at what Apple will do with the iPhone 18 Pro models. All of Google's Pixel start…",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
       "id": "auto-56812e5d796d",
-      "title": "Google Fi just knocked $450 off the Pixel 11 Pro",
+      "title": "You don't need to lock in for a two-year contract to get $450 off the Pixel 11 Pro",
       "source": "Android Police",
       "brand": "Pixel",
       "model": "Pixel 相关机型",
@@ -638,26 +678,6 @@ window.phoneRadarAuto = {
       "tags": [
         "Samsung",
         "评测",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-6fac2041be58",
-      "title": "Google aims for influencers with the Pixel 11 Creator Suite",
-      "source": "The Verge",
-      "brand": "Pixel",
-      "model": "Pixel 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-12",
-      "time": "14:34",
-      "publishedAt": "2026-08-12T14:34:03.000Z",
-      "url": "https://www.theverge.com/tech/977888/pixel-creator-suite-influencer-camera-features",
-      "image": "",
-      "summary": "Google knows creators are a big audience. The occupation is growing fast, and landing some influential names could be a major turning point for the Pixel's market share. This year…",
-      "tags": [
-        "Pixel",
-        "爆料",
         "自动抓取"
       ]
     },
@@ -1422,26 +1442,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-7617731b6bfe",
-      "title": "How the Pixel 11 Pro Fold compares to the Galaxy Z Fold 8",
-      "source": "The Verge",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-12",
-      "time": "13:08",
-      "publishedAt": "2026-08-12T13:08:21.000Z",
-      "url": "https://www.theverge.com/tech/972498/google-pixel-11-pro-fold-samsung-galaxy-z-fold-8-ultra-specs-comparison",
-      "image": "",
-      "summary": "Google wasn't first to make a foldable Android phone, but the company's Pixel Fold series is now an established player with unique traits compared to its competitors. For one, it…",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-22660e442261",
       "title": "Foxconn used to make half its revenue from Apple; now it’s below 29%",
       "source": "9to5Mac",
@@ -2062,6 +2062,26 @@ window.phoneRadarAuto = {
       ]
     },
     {
+      "id": "newsnow-b8fd0c211fac",
+      "title": "就这款机子而言，无论黑子再怎么黑，它也是牛逼。手机圈已经很久没有创新性产品了，而且还是量产机型。iphone的价格买到了旗舰安卓机+口袋云台设备，这价格没问题。",
+      "source": "酷安热榜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-08-12",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/73207999",
+      "image": "",
+      "summary": "就这款机子而言，无论黑子再怎么黑，它也是牛逼。手机圈已经很久没有创新性产品了，而且还是量产机型。iphone的价格买到了旗舰安卓机+口袋云台设备，这价格没问题。",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
       "id": "newsnow-7313cd038915",
       "title": "据媒体报道部分手机壳疑似采用废弃针管等医疗垃圾加工而成，真的吗？对健康会有多大危害？消费者该如何辨别？",
       "source": "知乎热榜",
@@ -2097,26 +2117,6 @@ window.phoneRadarAuto = {
       "summary": "荣耀Magic9系列手机外观首曝",
       "tags": [
         "HONOR",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-be3fb15b3f8c",
-      "title": "业内：机器人技术反向回流手机",
-      "source": "今日头条热榜",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-12",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.toutiao.com/trending/7673104720453763099/",
-      "image": "",
-      "summary": "业内：机器人技术反向回流手机",
-      "tags": [
-        "行业",
         "爆料",
         "NewsNow"
       ]
