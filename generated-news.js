@@ -1,9 +1,89 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-08-12T09:31:00.059Z",
+  "updatedAt": "2026-08-12T11:09:44.681Z",
   "news": [
     {
+      "id": "auto-e4f18a8b1a0c",
+      "title": "This shocking Zoom bug allowed silent device takeovers on Android and iOS",
+      "source": "Android Authority",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-12",
+      "time": "10:31",
+      "publishedAt": "2026-08-12T10:31:41.000Z",
+      "url": "https://www.androidauthority.com/zoom-call-device-takeover-bug-3697629/",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2022/06/Zoom-Meetings-video-call-on-laptop.jpg",
+      "summary": "A zero-click bug allowed attackers to silently take control during live Zoom calls.",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-0e79fd4d9449",
+      "title": "荣耀 MagicOS 10 系统 8 月版本第三批机型今晚推送，覆盖 Magic5 系列、GT 等",
+      "source": "IT之家",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-12",
+      "time": "10:03",
+      "publishedAt": "2026-08-12T10:03:20.000Z",
+      "url": "https://www.ithome.com/0/988/892.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/8/ac60ef6c-02a7-4f05-ad2b-d68ebcc6b27e.png",
+      "summary": "IT之家 8 月 12 日消息，荣耀产品维护与升级 @荣耀小芳哥 今日宣布， MagicOS 10 系统 8 月版本的第三批机型将在今晚推送升级 。 荣耀 Magic V3、荣耀 Magic Vs3、荣耀 Magic V2 系列、荣耀 Magic Vs2、荣耀 Magic Vs 系列、荣耀 Magic V Flip 2、荣耀 Magic V Flip、荣耀…",
+      "tags": [
+        "HONOR",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-ac9fdffab247",
+      "title": "iQOO Neo11 至尊版手机官宣搭载新一代 2K 护眼超冠屏，全球首发 F2 发光材料",
+      "source": "IT之家",
+      "brand": "vivo",
+      "model": "vivo 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-12",
+      "time": "09:33",
+      "publishedAt": "2026-08-12T09:33:55.000Z",
+      "url": "https://www.ithome.com/0/988/881.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/8/0450acfa-aa42-440c-9ed9-2e1a9ba8eb44.jpg",
+      "summary": "IT之家 8 月 12 日消息，iQOO 手机官方今日宣布， iQOO Neo11 至尊版将搭载新一代 2K 护眼超冠屏： 有害蓝光占比≤5%、支持全新圆偏振光 2.0、拥有全新 1nit 暗夜护眼功能 。 另外，iQOO Neo11 至尊版还搭载 iQOO 15 Ultra 同款超感触控芯片， 多指触控采样率至高 500Hz、瞬时触控采样率至高 4000…",
+      "tags": [
+        "vivo",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-7db85b81dc01",
+      "title": "把「闪念胶囊」（Almost）放到 iPhone 锁屏",
+      "source": "少数派",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-08-12",
+      "time": "09:30",
+      "publishedAt": "2026-08-12T09:30:00.000Z",
+      "url": "https://sspai.com/post/113219",
+      "image": "",
+      "summary": "想法被及时、完好的记下来，然后呢？",
+      "tags": [
+        "iPhone",
+        "评测",
+        "自动抓取"
+      ]
+    },
+    {
       "id": "coolapk-user-366aa53a94ca",
-      "title": "竹本青：【vivo OriginOS 7 官方预热：视频剪辑导出更流畅】 ● 重新分配性能调度策略，切换高效编码通道 ●…",
+      "title": "竹本青：【vivo OriginOS 7 官方爆料：视频剪辑导出更流畅，等待时间明显缩短】 ● 重新分配性能调度策略，切换…",
       "source": "竹本青",
       "brand": "vivo",
       "model": "vivo 相关机型",
@@ -14,7 +94,7 @@ window.phoneRadarAuto = {
       "publishedAt": "2026-08-12T09:27:15.000Z",
       "url": "https://www.coolapk.com/feed/73201598",
       "image": "http://image.coolapk.com/feed/2026/0812/17/4248714_14ed07e8_6831_1555_150@1439x1759.jpg",
-      "summary": "【vivo OriginOS 7 官方预热：视频剪辑导出更流畅】 ● 重新分配性能调度策略，切换高效编码通道 ● 全新编码线程调度机制，提升并行处理能力 vivo OS产品总监表示，升级后，面对长视频、4K等高负载的视频导出场景，导出效率进一步提升，等待时间明显缩短。 以 X300 为例，在同一段视频、同样导出规格和测试环境下，OriginOS 6 和 O…",
+      "summary": "【vivo OriginOS 7 官方爆料：视频剪辑导出更流畅，等待时间明显缩短】 ● 重新分配性能调度策略，切换高效编码通道 ● 全新编码线程调度机制，提升并行处理能力 vivo OS产品总监表示，升级后，面对长视频、4K等高负载的视频导出场景，导出效率进一步提升，等待时间明显缩短。 以 X300 为例，在同一段视频、同样导出规格和测试环境下，Origi…",
       "tags": [
         "vivo",
         "爆料",
@@ -182,66 +262,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-637a745c980e",
-      "title": "“男子遭追尾称小米手机抗致命一击”引热议，手机挤压弯折后背屏仍能点亮",
-      "source": "IT之家",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-12",
-      "time": "07:44",
-      "publishedAt": "2026-08-12T07:44:05.000Z",
-      "url": "https://www.ithome.com/0/988/798.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/8/49062f46-4b62-424f-a779-b4e30d045580.png",
-      "summary": "IT之家 8 月 12 日消息，今天有话题“男子遭追尾称小米手机抗致命一击”在微博引起热议，截至IT之家发稿，相应话题阅读量达 313.2 万。 IT之家参考热搜获悉，本次事件源于河南一男子发布的抖音视频，其在视频中声称小米 17 Pro 为自己抗了致命一击。参考视频截图帧，可以看到这部小米 17 Pro 已经被挤压弯折， 正面屏幕出现碎裂痕迹，但机身背面…",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-1e1d4147e34f",
-      "title": "消息称华为终端 Haco 发布会档次将对标 Mate 60 发布会，甚至更加豪华",
-      "source": "IT之家",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-12",
-      "time": "07:39",
-      "publishedAt": "2026-08-12T07:39:50.000Z",
-      "url": "https://www.ithome.com/0/988/797.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/8/91e55007-f79e-484c-87d4-5238a5acd981.png?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 8 月 12 日消息，博主 @熠熠玩数码 今日发文透露，此次华为终端 Haco 发布会档次将对标 Mate 60 的发布会， 甚至会更加豪华 。 据IT之家此前报道，华为在 2023 年 9 月 25 日举行了秋季全场景新品发布会，带来了 MatePad Pro 13.2、M-Pencil 第三代手写笔、ULTIMATE DESIGN 超高端品牌…",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-d26bd6b8a5b2",
-      "title": "苹果首款折叠手机：iPhone Ultra 外屏曝光",
-      "source": "IT之家",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-12",
-      "time": "07:39",
-      "publishedAt": "2026-08-12T07:39:44.000Z",
-      "url": "https://www.ithome.com/0/988/796.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/8/c08122a3-af10-40ad-bd37-77dc31401f32.png",
-      "summary": "IT之家 8 月 12 日消息，消息源 @i冰宇宙 昨日（8 月 11 日）发布微博，分享了一组图片， 展示了适用于苹果首款折叠手机（上市后预估名为 iPhone Ultra）的外屏。 IT之家附上相关微博内容如下： iPhone Ultra 的这个外屏如果真是这种的话就不太妙了。目前从贴膜厂出来的样子来看，就是这种半方半圆屏幕，这可得适应一段时间了。 在…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-2c9b87560400",
       "title": "First Galaxy Z Fold 8 Ultra, Fold 8 update now available to more users",
       "source": "SamMobile",
@@ -257,26 +277,6 @@ window.phoneRadarAuto = {
       "summary": "Samsung, before it started shipping the Galaxy Z Fold 8 Ultra and Galaxy Z Fold 8 to people who had pre-ordered them and opened regular sales of these phones, had provided the dev…",
       "tags": [
         "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-45113e8d0916",
-      "title": "消息称 HMD 将推出全新侧滑盖智能机，整体设计类似于 2020 年被砍掉的“复刻版诺基亚 N95”",
-      "source": "IT之家",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-12",
-      "time": "07:36",
-      "publishedAt": "2026-08-12T07:36:45.000Z",
-      "url": "https://www.ithome.com/0/988/795.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/8/38508ccd-9501-4aae-a597-feea28af4a18.jpg",
-      "summary": "IT之家 8 月 12 日消息，消息源 smashx_60 发文，透露 HMD 将推出全新侧滑盖智能机，整体设计类似 2020 年被砍掉的“复刻版诺基亚 N95” ，预计定价亲民。 该消息源同步放出了 2020 年被 HMD 砍掉的“复刻版诺基亚 N95”规格，该机配备一块 6.39 英寸 FHD+ IPS LCD 面板，配备 16Mp 自拍摄像头。手机背…",
-      "tags": [
-        "行业",
         "爆料",
         "自动抓取"
       ]
@@ -299,46 +299,6 @@ window.phoneRadarAuto = {
         "Huawei",
         "爆料",
         "微博"
-      ]
-    },
-    {
-      "id": "auto-a7ff3be8ca37",
-      "title": "消息称苹果 iPhone 20 Pro 系列手机有望采用 2D 直屏 + 玻璃盖板工艺，实现“无边四曲面”效果",
-      "source": "IT之家",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-12",
-      "time": "07:14",
-      "publishedAt": "2026-08-12T07:14:58.000Z",
-      "url": "https://www.ithome.com/0/988/783.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/8/9c60ce32-4ad5-47a8-b3dc-eaabf9885f9e.jpg?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 8 月 12 日消息，博主 @数码闲聊站 发文，透露苹果 iPhone 20 Pro 系列手机内部代号 V73/V74，从供应链摸到的两块新屏物理尺寸增大，屏幕比例不变，有望引入全新无边四曲面设计。 该博主表示，苹果的无边四曲面猜测是 2D 直屏 + 玻璃盖板，利用玻璃的光学折射和形态设计，营造出视觉无边的效果，再结合液态玻璃 UI，可呈现软硬件…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-190ad0fd2a0c",
-      "title": "荣耀 Robot Phone 手机规格曝光：6.3 英寸 LTPO 直屏、248 克重量、9.59mm 厚度...",
-      "source": "IT之家",
-      "brand": "HONOR",
-      "model": "HONOR 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-12",
-      "time": "06:39",
-      "publishedAt": "2026-08-12T06:39:55.000Z",
-      "url": "https://www.ithome.com/0/988/764.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/8/8f795082-8472-4bb7-aaa6-afb24c7f6fb3.jpg?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 8 月 12 日消息，荣耀将于今天 19:00 正式发布旗下 Robot Phone 手机，目前博主 @数码闲聊站 曝光了这款产品的完整规格，IT之家整理如下： 该机可选星轨银 / 月影灰两种配色，整体厚度 9.59mm，重量 248g，正面配备一块 6.3 英寸 2640x1216 分辨率 LTPO 直屏（峰值亮度 6800 尼特，配备 AR…",
-      "tags": [
-        "HONOR",
-        "爆料",
-        "自动抓取"
       ]
     },
     {
@@ -462,6 +422,26 @@ window.phoneRadarAuto = {
       ]
     },
     {
+      "id": "auto-1bd890e062d8",
+      "title": "我，与「唯一」的 iPhone Air",
+      "source": "少数派",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-08-12",
+      "time": "03:04",
+      "publishedAt": "2026-08-12T03:04:34.000Z",
+      "url": "https://sspai.com/post/112880",
+      "image": "",
+      "summary": "在 iPhone Air 之后才发现，有些产品存在的意义，是帮我确认我真正需要什么。",
+      "tags": [
+        "iPhone",
+        "评测",
+        "自动抓取"
+      ]
+    },
+    {
       "id": "auto-15b2101fa427",
       "title": "Google sends out $150 discount codes ahead of Pixel 11 pre-orders",
       "source": "9to5Google",
@@ -522,26 +502,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-62d11765ed2c",
-      "title": "米子还是米子，做工真的是非常的。。。昨晚兴高采烈冲了首发，那摄像头没有灰就回家了，今早晃眼一看，好嘛，屏幕左窄右宽。。。真的是服了，前两天用小米17Pro Max长焦镜头，这一台又屏幕左窄右宽，真的心累，到底要不要去换货呀！！！[喷][喷][喷]",
-      "source": "酷安热榜",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-08-12",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73194913",
-      "image": "",
-      "summary": "米子还是米子，做工真的是非常的。。。昨晚兴高采烈冲了首发，那摄像头没有灰就回家了，今早晃眼一看，好嘛，屏幕左窄右宽。。。真的是服了，前两天用小米17Pro Max长焦镜头，这一台又屏幕左窄右宽，真的心累，到底要不要去换货呀！！！[喷][喷][喷]",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
       "id": "newsnow-b950f6c13650",
       "title": "华为Mate90系列新品发布会助兴演出获批：9月23日",
       "source": "酷安热榜",
@@ -562,42 +522,42 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-56f0b6b566d0",
-      "title": "一加新机入网：天玑 6360 / 720P LCD",
+      "id": "newsnow-62d11765ed2c",
+      "title": "米子还是米子，做工真的是非常的。。。昨晚兴高采烈冲了首发，那摄像头没有灰就回家了，今早晃眼一看，好嘛，屏幕左窄右宽。。。真的是服了，前两天用小米17Pro Max长焦镜头，这一台又屏幕左窄右宽，真的心累，到底要不要去换货呀！！！[喷][喷][喷]",
       "source": "酷安热榜",
-      "brand": "OPPO",
-      "model": "OPPO 相关机型",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-08-12",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73182229",
+      "url": "https://www.coolapk.com/feed/73194913",
       "image": "",
-      "summary": "一加新机入网：天玑 6360 / 720P LCD",
+      "summary": "米子还是米子，做工真的是非常的。。。昨晚兴高采烈冲了首发，那摄像头没有灰就回家了，今早晃眼一看，好嘛，屏幕左窄右宽。。。真的是服了，前两天用小米17Pro Max长焦镜头，这一台又屏幕左窄右宽，真的心累，到底要不要去换货呀！！！[喷][喷][喷]",
       "tags": [
-        "OPPO",
+        "Xiaomi",
         "爆料",
         "NewsNow"
       ]
     },
     {
-      "id": "newsnow-4881ce592347",
-      "title": "全球首款机器人手机今日发布",
-      "source": "微博热搜",
+      "id": "newsnow-efbbd6014bf5",
+      "title": "为什么一些东北的朋友经常称「手机」为「电话」？",
+      "source": "知乎热榜",
       "brand": "行业",
       "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "待验证",
+      "type": "市场报告",
+      "trust": "媒体汇总",
       "date": "2026-08-12",
       "time": "",
       "publishedAt": "",
-      "url": "https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%90%83%E9%A6%96%E6%AC%BE%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%89%8B%E6%9C%BA%E4%BB%8A%E6%97%A5%E5%8F%91%E5%B8%83%23&t=31&band_rank=20&Refer=top",
+      "url": "https://www.zhihu.com/question/2050334625361294869",
       "image": "",
-      "summary": "全球首款机器人手机今日发布",
+      "summary": "为什么一些东北的朋友经常称「手机」为「电话」？",
       "tags": [
         "行业",
-        "爆料",
+        "市场报告",
         "NewsNow"
       ]
     },
@@ -782,26 +742,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-4941e1f49911",
-      "title": "Galaxy Z Fold 8’s durability put to test, and it passes with flying colors",
-      "source": "SamMobile",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-11",
-      "time": "15:43",
-      "publishedAt": "2026-08-11T15:43:52.000Z",
-      "url": "https://www.sammobile.com/news/galaxy-z-fold-8s-durability-put-to-test-it-passes-with-flying-colors/",
-      "image": "",
-      "summary": "The demand for Samsung’s first smartphone with a 4:3 book-style foldable display, the Galaxy Z Fold 8, seems to be exceptionally strong, with the brand struggling to fulfil the or…",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-8cb5d139f11d",
       "title": "iPhone Ultra will have two features that ‘Pro’ users should love",
       "source": "9to5Mac",
@@ -855,26 +795,6 @@ window.phoneRadarAuto = {
       "url": "https://9to5google.com/2026/08/11/galaxy-z-fold-8-bend-test-teardown/",
       "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/08/fold-8-bend-test-qi-placement-1.jpg?quality=82&strip=all&w=1600",
       "summary": "Durability is perhaps the single-biggest hesitation about folding phones, but Samsung has proven time and time again that its foldables are rather strong and resilient. Despite it…",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-91fc1233e42c",
-      "title": "I tested the Galaxy Z Fold 8 Ultra and Razr Fold's cameras at a Lego event. The winner was a shock",
-      "source": "Android Police",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-11",
-      "time": "13:30",
-      "publishedAt": "2026-08-11T13:30:16.000Z",
-      "url": "https://www.androidpolice.com/galaxy-z-fold-8-ultra-vs-razr-fold-camera-test-at-a-lego-event/",
-      "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2026/08/z-fold-8-ultra-razr-fold.JPG",
-      "summary": "Which is the telephoto superstar?",
       "tags": [
         "Samsung",
         "爆料",
@@ -1075,6 +995,26 @@ window.phoneRadarAuto = {
       "url": "https://www.coolapk.com/feed/73182501",
       "image": "http://image.coolapk.com/feed/2026/0811/15/4702274_76a9ba0e_2367_553_711@480x640.jpg",
       "summary": "『OPPO A7 新机入网：中屏 / 横向跑道 Deco』 型号：PYE110 ◇ 2.4GHz 8 核处理器（疑似天玑 6300 系列） ◇ 6.57'' 2372×1080 120Hz 10bit OLED 直屏 ◇ 后置 50Mp 单摄，前置 8Mp 摄像头 ◇ 额定容量 7820mAh，支持红外遥控 ◇ 厚 8.8mm，重 206g，2TB 存储卡…",
+      "tags": [
+        "OPPO",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "coolapk-user-9ca2cf2de7e7",
+      "title": "JSCHEN小小狐：一加新机入网：天玑 6360 / 720P LCD",
+      "source": "JSCHEN小小狐",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-08-11",
+      "time": "06:52",
+      "publishedAt": "2026-08-11T06:52:40.000Z",
+      "url": "https://www.coolapk.com/feed/73182229",
+      "image": "http://image.coolapk.com/feed/2026/0811/14/4702274_94288fdb_1156_8417_601@480x640.jpg",
+      "summary": "『一加新机入网：天玑 6360 平台 / 720P LCD』 型号：PYZ110 ◇ 天玑 6360 Super 移动平台 （2×A76 2.4GHz + 6×A55 2.0GHz） （Mali-G57 MC2 GPU，台积电 6nm） ◇ 6.75 英寸 1570×720 120Hz LCD 直屏 （手动亮度 975nits，HBM 亮度 1200nit…",
       "tags": [
         "OPPO",
         "爆料",

@@ -1,11 +1,11 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-08-12T09:31:00.059Z",
+  "updatedAt": "2026-08-12T11:09:44.681Z",
   "issueDate": "2026-08-12",
   "issue": "VOL.260812",
   "title": "手机情报日报",
-  "intro": "今日筛出 9 条重点，其中 8 条是重点爆料，包含 7 条 iPhone 相关、0 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 11 条重点，其中 8 条是重点爆料，包含 7 条 iPhone 相关、0 条官方确认、0 条参数线索。",
   "stats": {
-    "total": 9,
+    "total": 11,
     "iphone": 7,
     "leaks": 8,
     "official": 0,
@@ -17,54 +17,6 @@ window.phoneRadarDaily = {
       "title": "重点爆料",
       "hint": "机模、配色、影像、屏幕、电池和芯片线索先看。",
       "items": [
-        {
-          "id": "auto-d26bd6b8a5b2",
-          "title": "苹果首款折叠手机：iPhone Ultra 外屏曝光",
-          "originalTitle": "",
-          "source": "IT之家",
-          "brand": "iPhone",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-08-12",
-          "time": "07:39",
-          "publishedAt": "2026-08-12T07:39:44.000Z",
-          "url": "https://www.ithome.com/0/988/796.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/8/c08122a3-af10-40ad-bd37-77dc31401f32.png",
-          "verdict": "先看",
-          "takeaway": "IT之家 8 月 12 日消息，消息源 @i冰宇宙 昨日（8 月 11 日）发布微博，分享了一组图片， 展示了适用于苹果首款折叠手机（上市后预估名为 iPhone Ultra）的外屏。 IT之家附上相关微博内容如下： iPhone Ultra 的这个外屏如果真是这种的话就不太妙了。目前从贴膜厂出来的样子来看，就是这种半方半圆屏幕，这可得适应一段时间了。 在…",
-          "detail": "IT之家 8 月 12 日消息，消息源 @i冰宇宙 昨日（8 月 11 日）发布微博，分享了一组图片， 展示了适用于苹果首款折叠手机（上市后预估名为 iPhone Ultra）的外屏。 IT之家附上相关微博内容如下： iPhone Ultra 的这个外屏如果真是这种的话就不太妙了。目前从贴膜厂出来的样子来看，就是这种半方半圆屏幕，这可得适应一段时间了。 在…",
-          "keyPoints": [
-            "屏幕形态"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "auto-a7ff3be8ca37",
-          "title": "消息称苹果 iPhone 20 Pro 系列手机有望采用 2D 直屏 + 玻璃盖板工艺，实现“无边四曲面”效果",
-          "originalTitle": "",
-          "source": "IT之家",
-          "brand": "iPhone",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-08-12",
-          "time": "07:14",
-          "publishedAt": "2026-08-12T07:14:58.000Z",
-          "url": "https://www.ithome.com/0/988/783.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/8/9c60ce32-4ad5-47a8-b3dc-eaabf9885f9e.jpg?x-bce-process=image/format,f_auto",
-          "verdict": "先看",
-          "takeaway": "IT之家 8 月 12 日消息，博主 @数码闲聊站 发文，透露苹果 iPhone 20 Pro 系列手机内部代号 V73/V74，从供应链摸到的两块新屏物理尺寸增大，屏幕比例不变，有望引入全新无边四曲面设计。 该博主表示，苹果的无边四曲面猜测是 2D 直屏 + 玻璃盖板，利用玻璃的光学折射和形态设计，营造出视觉无边的效果，再结合液态玻璃 UI，可呈现软硬件…",
-          "detail": "IT之家 8 月 12 日消息，博主 @数码闲聊站 发文，透露苹果 iPhone 20 Pro 系列手机内部代号 V73/V74，从供应链摸到的两块新屏物理尺寸增大，屏幕比例不变，有望引入全新无边四曲面设计。 该博主表示，苹果的无边四曲面猜测是 2D 直屏 + 玻璃盖板，利用玻璃的光学折射和形态设计，营造出视觉无边的效果，再结合液态玻璃 UI，可呈现软硬件…",
-          "keyPoints": [
-            "外观 / 配色 / 尺寸",
-            "屏幕形态",
-            "爆料来源"
-          ],
-          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
         {
           "id": "weibo-a94015fdfbcb",
           "title": "数码闲聊站：iPhone 20 Pro系列内部代号V73/V74，从供应链摸到的两块新屏物…",
@@ -111,31 +63,6 @@ window.phoneRadarDaily = {
             "爆料来源"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "auto-190ad0fd2a0c",
-          "title": "荣耀 Robot Phone 手机规格曝光：6.3 英寸 LTPO 直屏、248 克重量、9.59mm 厚度...",
-          "originalTitle": "",
-          "source": "IT之家",
-          "brand": "HONOR",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-08-12",
-          "time": "06:39",
-          "publishedAt": "2026-08-12T06:39:55.000Z",
-          "url": "https://www.ithome.com/0/988/764.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/8/8f795082-8472-4bb7-aaa6-afb24c7f6fb3.jpg?x-bce-process=image/format,f_auto",
-          "verdict": "先看",
-          "takeaway": "IT之家 8 月 12 日消息，荣耀将于今天 19:00 正式发布旗下 Robot Phone 手机，目前博主 @数码闲聊站 曝光了这款产品的完整规格，IT之家整理如下： 该机可选星轨银 / 月影灰两种配色，整体厚度 9.59mm，重量 248g，正面配备一块 6.3 英寸 2640x1216 分辨率 LTPO 直屏（峰值亮度 6800 尼特，配备 AR…",
-          "detail": "IT之家 8 月 12 日消息，荣耀将于今天 19:00 正式发布旗下 Robot Phone 手机，目前博主 @数码闲聊站 曝光了这款产品的完整规格，IT之家整理如下： 该机可选星轨银 / 月影灰两种配色，整体厚度 9.59mm，重量 248g，正面配备一块 6.3 英寸 2640x1216 分辨率 LTPO 直屏（峰值亮度 6800 尼特，配备 AR…",
-          "keyPoints": [
-            "外观 / 配色 / 尺寸",
-            "屏幕形态",
-            "爆料来源"
-          ],
-          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
@@ -187,6 +114,29 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
+          "id": "auto-ac9fdffab247",
+          "title": "iQOO Neo11 至尊版手机官宣搭载新一代 2K 护眼超冠屏，全球首发 F2 发光材料",
+          "originalTitle": "",
+          "source": "IT之家",
+          "brand": "vivo",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-08-12",
+          "time": "09:33",
+          "publishedAt": "2026-08-12T09:33:55.000Z",
+          "url": "https://www.ithome.com/0/988/881.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/8/0450acfa-aa42-440c-9ed9-2e1a9ba8eb44.jpg",
+          "verdict": "先看",
+          "takeaway": "IT之家 8 月 12 日消息，iQOO 手机官方今日宣布， iQOO Neo11 至尊版将搭载新一代 2K 护眼超冠屏： 有害蓝光占比≤5%、支持全新圆偏振光 2.0、拥有全新 1nit 暗夜护眼功能 。 另外，iQOO Neo11 至尊版还搭载 iQOO 15 Ultra 同款超感触控芯片， 多指触控采样率至高 500Hz、瞬时触控采样率至高 4000…",
+          "detail": "IT之家 8 月 12 日消息，iQOO 手机官方今日宣布， iQOO Neo11 至尊版将搭载新一代 2K 护眼超冠屏： 有害蓝光占比≤5%、支持全新圆偏振光 2.0、拥有全新 1nit 暗夜护眼功能 。 另外，iQOO Neo11 至尊版还搭载 iQOO 15 Ultra 同款超感触控芯片， 多指触控采样率至高 500Hz、瞬时触控采样率至高 4000…",
+          "keyPoints": [
+            "芯片 / 性能"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
           "id": "auto-2a4d1e337354",
           "title": "小米澎湃 HyperOS 4 系统蓄势待发，REDMI 产品经理胡馨心透露“在路上了”",
           "originalTitle": "",
@@ -209,6 +159,53 @@ window.phoneRadarDaily = {
           "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "weibo-ef9e6cdd7c5d",
+          "title": "数码闲聊站：华为备案了9月23日发布代号为Haco的系列新品，或许是华为Mate90系列新…",
+          "originalTitle": "",
+          "source": "数码闲聊站",
+          "brand": "Huawei",
+          "type": "爆料",
+          "trust": "高关注爆料源",
+          "date": "2026-08-12",
+          "time": "07:16",
+          "publishedAt": "2026-08-12T07:16:00.000Z",
+          "url": "https://weibo.com/6048569942/Rd3if157G",
+          "image": "https://tvax1.sinaimg.cn/mw2000/006BlblIgy1ig10wjnrewj30xp09qn0k.jpg",
+          "verdict": "先看",
+          "takeaway": "华为备案了9月23日发布代号为Haco的系列新品，或许是华为Mate90系列新机，猜对了？[污]",
+          "detail": "华为备案了9月23日发布代号为Haco的系列新品，或许是华为Mate90系列新机，猜对了？[污]",
+          "keyPoints": [
+            "爆料来源"
+          ],
+          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "newsnow-62d11765ed2c",
+          "title": "米子还是米子，做工真的是非常的。。。昨晚兴高采烈冲了首发，那摄像头没有灰就回家了，今早晃眼一看，好嘛，屏幕左窄右宽。。。真的是服了，前两天用小米17Pro Max长焦镜头，这一台又屏幕左窄右宽，真的心累，到底要不要去换货呀！！！[喷][喷][喷]",
+          "originalTitle": "",
+          "source": "酷安热榜",
+          "brand": "Xiaomi",
+          "type": "爆料",
+          "trust": "高关注爆料源",
+          "date": "2026-08-12",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://www.coolapk.com/feed/73194913",
+          "image": "",
+          "verdict": "先看",
+          "takeaway": "米子还是米子，做工真的是非常的。。。昨晚兴高采烈冲了首发，那摄像头没有灰就回家了，今早晃眼一看，好嘛，屏幕左窄右宽。。。真的是服了，前两天用小米17Pro Max长焦镜头，这一台又屏幕左窄右宽，真的心累，到底要不要去换货呀！！！[喷][喷][喷]",
+          "detail": "米子还是米子，做工真的是非常的。。。昨晚兴高采烈冲了首发，那摄像头没有灰就回家了，今早晃眼一看，好嘛，屏幕左窄右宽。。。真的是服了，前两天用小米17Pro Max长焦镜头，这一台又屏幕左窄右宽，真的心累，到底要不要去换货呀！！！[喷][喷][喷]",
+          "keyPoints": [
+            "影像硬件",
+            "屏幕形态"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         }
       ]
     },
@@ -217,6 +214,52 @@ window.phoneRadarDaily = {
       "title": "iPhone 重点",
       "hint": "不是硬件爆料，但和 iPhone 体验或路线有关。",
       "items": [
+        {
+          "id": "auto-7db85b81dc01",
+          "title": "把「闪念胶囊」（Almost）放到 iPhone 锁屏",
+          "originalTitle": "",
+          "source": "少数派",
+          "brand": "iPhone",
+          "type": "评测",
+          "trust": "媒体汇总",
+          "date": "2026-08-12",
+          "time": "09:30",
+          "publishedAt": "2026-08-12T09:30:00.000Z",
+          "url": "https://sspai.com/post/113219",
+          "image": "",
+          "verdict": "先看",
+          "takeaway": "想法被及时、完好的记下来，然后呢？",
+          "detail": "想法被及时、完好的记下来，然后呢？",
+          "keyPoints": [
+            "评测"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是实际体验内容，买前适合重点看缺点和取舍。",
+          "action": "中文源可以直接点开快读；看完只保留和购机有关的点。"
+        },
+        {
+          "id": "auto-1bd890e062d8",
+          "title": "我，与「唯一」的 iPhone Air",
+          "originalTitle": "",
+          "source": "少数派",
+          "brand": "iPhone",
+          "type": "评测",
+          "trust": "媒体汇总",
+          "date": "2026-08-12",
+          "time": "03:04",
+          "publishedAt": "2026-08-12T03:04:34.000Z",
+          "url": "https://sspai.com/post/112880",
+          "image": "",
+          "verdict": "先看",
+          "takeaway": "在 iPhone Air 之后才发现，有些产品存在的意义，是帮我确认我真正需要什么。",
+          "detail": "在 iPhone Air 之后才发现，有些产品存在的意义，是帮我确认我真正需要什么。",
+          "keyPoints": [
+            "评测"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是实际体验内容，买前适合重点看缺点和取舍。",
+          "action": "中文源可以直接点开快读；看完只保留和购机有关的点。"
+        },
         {
           "id": "auto-ad30298a2d98",
           "title": "iPhone 20 周年版不会被取消，但也不是你想象的样子",
