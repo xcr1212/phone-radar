@@ -1,6 +1,186 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-08-12T07:50:58.210Z",
+  "updatedAt": "2026-08-12T09:31:00.059Z",
   "news": [
+    {
+      "id": "coolapk-user-366aa53a94ca",
+      "title": "竹本青：【vivo OriginOS 7 官方预热：视频剪辑导出更流畅】 ● 重新分配性能调度策略，切换高效编码通道 ●…",
+      "source": "竹本青",
+      "brand": "vivo",
+      "model": "vivo 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-08-12",
+      "time": "09:27",
+      "publishedAt": "2026-08-12T09:27:15.000Z",
+      "url": "https://www.coolapk.com/feed/73201598",
+      "image": "http://image.coolapk.com/feed/2026/0812/17/4248714_14ed07e8_6831_1555_150@1439x1759.jpg",
+      "summary": "【vivo OriginOS 7 官方预热：视频剪辑导出更流畅】 ● 重新分配性能调度策略，切换高效编码通道 ● 全新编码线程调度机制，提升并行处理能力 vivo OS产品总监表示，升级后，面对长视频、4K等高负载的视频导出场景，导出效率进一步提升，等待时间明显缩短。 以 X300 为例，在同一段视频、同样导出规格和测试环境下，OriginOS 6 和 O…",
+      "tags": [
+        "vivo",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-f41dd7f2008b",
+      "title": "vivo OriginOS 7 系统 Beta 版开推，「视频剪辑导出流畅」特性首曝",
+      "source": "IT之家",
+      "brand": "vivo",
+      "model": "vivo 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-12",
+      "time": "09:10",
+      "publishedAt": "2026-08-12T09:10:34.000Z",
+      "url": "https://www.ithome.com/0/988/854.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/8/7189a166-2bf5-4785-a5f5-aa8e1ba4b2a4.jpg?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 8 月 12 日消息， OriginOS 7 系统已于今年 7 月底开启了 Beta 内测招募 ，首批适配 vivo X300 Pro 、 vivo X Fold6 、 iQOO 15 等机型。 IT之家注意到，vivo OS 产品总监 @vivo百奇Bucky 今日发文分享， OriginOS 7 系统 Beta 版已经陆续推送 。他还首曝了新…",
+      "tags": [
+        "vivo",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-63c9fa7c0d33",
+      "title": "I found the Galaxy Z Fold 8’s biggest weakness, and it’s not the new design",
+      "source": "Android Authority",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-12",
+      "time": "09:00",
+      "publishedAt": "2026-08-12T09:00:04.000Z",
+      "url": "https://www.androidauthority.com/galaxy-z-fold-8-biggest-weakness-multitasking-3695394/",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2026/08/Galaxy-Z-Fold-8-multitasking-three-split-scaled.jpg",
+      "summary": "It’s 2026, and Samsung is still behind on multitasking on foldables.",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-2a4d1e337354",
+      "title": "小米澎湃 HyperOS 4 系统蓄势待发，REDMI 产品经理胡馨心透露“在路上了”",
+      "source": "IT之家",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-12",
+      "time": "08:54",
+      "publishedAt": "2026-08-12T08:54:36.000Z",
+      "url": "https://www.ithome.com/0/988/839.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/8/296be81e-bbae-49cd-8026-6bf69363e138.png?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 8 月 12 日消息，随着时间的推进，小米澎湃 HyperOS 4 系统离正式发布也越来越近。有网友询问新系统何时推出 Beta 版，REDMI 产品经理胡馨心透露“ 在路上了 ”。 据IT之家此前报道， 博主 @数码闲聊站 分享了小米澎湃 HyperOS 4 系统的部分新特性 ： 大量实时光场渲染 ✓ 玻璃材质 ✓ 大文件夹自定义 ✓ 堆叠桌面…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-2f08df728352",
+      "title": "Galaxy S27 series might not feature a camera with variable aperture",
+      "source": "SamMobile",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-12",
+      "time": "08:43",
+      "publishedAt": "2026-08-12T08:43:25.000Z",
+      "url": "https://www.sammobile.com/news/galaxy-s27-pro-ultra-camera-no-variable-aperture/",
+      "image": "",
+      "summary": "It was rumored that Samsung could introduce a variable aperture camera in the Galaxy S27 series, and reports claimed that the company was already testing related components. Howev…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-4dd4ed244e76",
+      "title": "Huawei to launch two mysterious phones alongside Mate 90 next month",
+      "source": "Huawei Central",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-12",
+      "time": "08:36",
+      "publishedAt": "2026-08-12T08:36:08.000Z",
+      "url": "https://www.huaweicentral.com/two-mysterious-huawei-phones-launching-next-month/",
+      "image": "https://www.huaweicentral.com/wp-content/uploads/2026/05/Huawei-phone.jpg",
+      "summary": "Huawei Mate 90 series launch event is expected to take place on the 23rd of next month, and at the same time, the company could unveil two mysterious phones. A new leak suggests t…",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-4ec3c049671e",
+      "title": "荣耀罗巍：就在今晚，又一次重新定义移动影像",
+      "source": "IT之家",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-12",
+      "time": "08:15",
+      "publishedAt": "2026-08-12T08:15:09.000Z",
+      "url": "https://www.ithome.com/0/988/817.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/8/06e29ac8-1bdf-485d-aca4-de809f96c897.png",
+      "summary": "IT之家 8 月 12 日消息，荣耀首席影像工程师罗巍今日在微博高调发文，为荣耀 Robot Phone 手机预热： 就在今晚 又一次重新定义移动影像 为什么我要说又 据IT之家此前报道，在 7 月 28 日的荣耀影像技术发布会上，罗巍表示，2025 年是荣耀的筑基之年，核心是希望能够上桌。荣耀逐个攻克了用户感知最强的基础痛点，防抖、亮度、色彩和多色一致性…",
+      "tags": [
+        "HONOR",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-132f22e45606",
+      "title": "Google is giving away Pixel 11 discount codes before launch",
+      "source": "Android Police",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-12",
+      "time": "07:58",
+      "publishedAt": "2026-08-12T07:58:34.000Z",
+      "url": "https://www.androidpolice.com/google-giving-away-pixel-11-discount-codes-before-launch/",
+      "image": "",
+      "summary": "But not everyone's getting the same deal",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-6d57c74d45e6",
+      "title": "Samsung adds a new ringtone to its collection with Galaxy Z Flip 8 and Z Fold 8",
+      "source": "SamMobile",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-12",
+      "time": "07:54",
+      "publishedAt": "2026-08-12T07:54:23.000Z",
+      "url": "https://www.sammobile.com/news/samsung-chopin-nocturne-opus-9-ringtone-galaxy-z-flip-fold-8/",
+      "image": "",
+      "summary": "Every year, Samsung launches a new version of its iconic “Over the Horizon” ringtone. This year is no different, as the company released an epic, cinematic take on its ringtone. H…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-637a745c980e",
       "title": "“男子遭追尾称小米手机抗致命一击”引热议，手机挤压弯折后背屏仍能点亮",
@@ -203,7 +383,7 @@ window.phoneRadarAuto = {
     },
     {
       "id": "auto-92bf774e39d9",
-      "title": "Vivo X500, iQOO 16 latest certification reveals charging speeds, September launch expected￼￼￼",
+      "title": "Vivo X500, iQOO 16 latest certification reveals charging speeds, September launch expected",
       "source": "Gizmochina",
       "brand": "vivo",
       "model": "vivo 相关机型",
@@ -282,46 +462,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-1bd890e062d8",
-      "title": "我，与「唯一」的 iPhone Air",
-      "source": "少数派",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "评测",
-      "trust": "媒体汇总",
-      "date": "2026-08-12",
-      "time": "03:04",
-      "publishedAt": "2026-08-12T03:04:34.000Z",
-      "url": "https://sspai.com/post/112880",
-      "image": "",
-      "summary": "在 iPhone Air 之后才发现，有些产品存在的意义，是帮我确认我真正需要什么。",
-      "tags": [
-        "iPhone",
-        "评测",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-fe02e0f88939",
-      "title": "Mate 90 系列 + 韬定律芯片首秀？文旅部透露华为终端 Haco 发布会定档 9 月 23 日",
-      "source": "IT之家",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-12",
-      "time": "03:01",
-      "publishedAt": "2026-08-12T03:01:31.000Z",
-      "url": "https://www.ithome.com/0/988/681.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/8/2fe097b9-2617-4be7-8a1e-a7f43e6533df.jpg",
-      "summary": "IT之家 8 月 12 日消息，据IT之家小伙伴反馈，“ 华为终端 Haco 发布会助兴演出 ”出现在文化和旅游部官网的全国涉外营业性演出活动审批系统中，批复时间为 8 月 10 日，演出时间为 9 月 23 日，地点为深圳国际会展中心 20 号馆。 从时间和地点来看，此次审批的演出有望是华为 Mate 90 系列旗舰手机的发布会配套演出。 博主 @超维界…",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-15b2101fa427",
       "title": "Google sends out $150 discount codes ahead of Pixel 11 pre-orders",
       "source": "9to5Google",
@@ -382,6 +522,26 @@ window.phoneRadarAuto = {
       ]
     },
     {
+      "id": "newsnow-62d11765ed2c",
+      "title": "米子还是米子，做工真的是非常的。。。昨晚兴高采烈冲了首发，那摄像头没有灰就回家了，今早晃眼一看，好嘛，屏幕左窄右宽。。。真的是服了，前两天用小米17Pro Max长焦镜头，这一台又屏幕左窄右宽，真的心累，到底要不要去换货呀！！！[喷][喷][喷]",
+      "source": "酷安热榜",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-08-12",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/73194913",
+      "image": "",
+      "summary": "米子还是米子，做工真的是非常的。。。昨晚兴高采烈冲了首发，那摄像头没有灰就回家了，今早晃眼一看，好嘛，屏幕左窄右宽。。。真的是服了，前两天用小米17Pro Max长焦镜头，这一台又屏幕左窄右宽，真的心累，到底要不要去换货呀！！！[喷][喷][喷]",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
       "id": "newsnow-b950f6c13650",
       "title": "华为Mate90系列新品发布会助兴演出获批：9月23日",
       "source": "酷安热榜",
@@ -422,21 +582,21 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-865b4d682139",
-      "title": "iPhone20Pro爆料",
+      "id": "newsnow-4881ce592347",
+      "title": "全球首款机器人手机今日发布",
       "source": "微博热搜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
+      "brand": "行业",
+      "model": "智能手机市场",
       "type": "爆料",
       "trust": "待验证",
       "date": "2026-08-12",
       "time": "",
       "publishedAt": "",
-      "url": "https://s.weibo.com/weibo?q=%23iPhone20Pro%E7%88%86%E6%96%99%23&t=31&band_rank=24&Refer=top",
+      "url": "https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%90%83%E9%A6%96%E6%AC%BE%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%89%8B%E6%9C%BA%E4%BB%8A%E6%97%A5%E5%8F%91%E5%B8%83%23&t=31&band_rank=20&Refer=top",
       "image": "",
-      "summary": "iPhone20Pro爆料",
+      "summary": "全球首款机器人手机今日发布",
       "tags": [
-        "iPhone",
+        "行业",
         "爆料",
         "NewsNow"
       ]
@@ -897,26 +1057,6 @@ window.phoneRadarAuto = {
       "summary": "The 45W Galaxy Z Fold 8 needs the right charger, not necessarily a Samsung one.",
       "tags": [
         "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-0e170bbfaac8",
-      "title": "Huawei and DJI mobile camera solutions may show up with Mate 90",
-      "source": "Huawei Central",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-11",
-      "time": "07:43",
-      "publishedAt": "2026-08-11T07:43:41.000Z",
-      "url": "https://www.huaweicentral.com/huawei-dji-camera-features-for-mate-90/",
-      "image": "https://www.huaweicentral.com/wp-content/uploads/2026/07/Pura90sPro-img-1.jpg",
-      "summary": "News regarding Huawei and DJI suggests that their collaborative camera features could show up with the Mate 90 series. While the imaging solutions were expected to debut next year…",
-      "tags": [
-        "Huawei",
         "爆料",
         "自动抓取"
       ]

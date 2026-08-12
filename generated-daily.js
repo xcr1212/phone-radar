@@ -1,14 +1,14 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-08-12T07:50:58.210Z",
+  "updatedAt": "2026-08-12T09:31:00.059Z",
   "issueDate": "2026-08-12",
   "issue": "VOL.260812",
   "title": "手机情报日报",
-  "intro": "今日筛出 11 条重点，其中 8 条是重点爆料，包含 10 条 iPhone 相关、1 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 9 条重点，其中 8 条是重点爆料，包含 7 条 iPhone 相关、0 条官方确认、0 条参数线索。",
   "stats": {
-    "total": 11,
-    "iphone": 10,
+    "total": 9,
+    "iphone": 7,
     "leaks": 8,
-    "official": 1,
+    "official": 0,
     "specs": 0
   },
   "sections": [
@@ -140,29 +140,6 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
-          "id": "newsnow-865b4d682139",
-          "title": "iPhone20Pro爆料",
-          "originalTitle": "",
-          "source": "微博热搜",
-          "brand": "iPhone",
-          "type": "爆料",
-          "trust": "待验证",
-          "date": "2026-08-12",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://s.weibo.com/weibo?q=%23iPhone20Pro%E7%88%86%E6%96%99%23&t=31&band_rank=24&Refer=top",
-          "image": "",
-          "verdict": "先看",
-          "takeaway": "iPhone20Pro爆料",
-          "detail": "iPhone20Pro爆料",
-          "keyPoints": [
-            "爆料来源"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
           "id": "auto-14f71fe2ae47",
           "title": "iPhone 相关消息",
           "originalTitle": "",
@@ -208,6 +185,30 @@ window.phoneRadarDaily = {
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "auto-2a4d1e337354",
+          "title": "小米澎湃 HyperOS 4 系统蓄势待发，REDMI 产品经理胡馨心透露“在路上了”",
+          "originalTitle": "",
+          "source": "IT之家",
+          "brand": "Xiaomi",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-08-12",
+          "time": "08:54",
+          "publishedAt": "2026-08-12T08:54:36.000Z",
+          "url": "https://www.ithome.com/0/988/839.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/8/296be81e-bbae-49cd-8026-6bf69363e138.png?x-bce-process=image/format,f_auto",
+          "verdict": "先看",
+          "takeaway": "IT之家 8 月 12 日消息，随着时间的推进，小米澎湃 HyperOS 4 系统离正式发布也越来越近。有网友询问新系统何时推出 Beta 版，REDMI 产品经理胡馨心透露“ 在路上了 ”。 据IT之家此前报道， 博主 @数码闲聊站 分享了小米澎湃 HyperOS 4 系统的部分新特性 ： 大量实时光场渲染 ✓ 玻璃材质 ✓ 大文件夹自定义 ✓ 堆叠桌面…",
+          "detail": "IT之家 8 月 12 日消息，随着时间的推进，小米澎湃 HyperOS 4 系统离正式发布也越来越近。有网友询问新系统何时推出 Beta 版，REDMI 产品经理胡馨心透露“ 在路上了 ”。 据IT之家此前报道， 博主 @数码闲聊站 分享了小米澎湃 HyperOS 4 系统的部分新特性 ： 大量实时光场渲染 ✓ 玻璃材质 ✓ 大文件夹自定义 ✓ 堆叠桌面…",
+          "keyPoints": [
+            "外观 / 配色 / 尺寸",
+            "爆料来源"
+          ],
+          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         }
       ]
     },
@@ -216,29 +217,6 @@ window.phoneRadarDaily = {
       "title": "iPhone 重点",
       "hint": "不是硬件爆料，但和 iPhone 体验或路线有关。",
       "items": [
-        {
-          "id": "auto-1bd890e062d8",
-          "title": "我，与「唯一」的 iPhone Air",
-          "originalTitle": "",
-          "source": "少数派",
-          "brand": "iPhone",
-          "type": "评测",
-          "trust": "媒体汇总",
-          "date": "2026-08-12",
-          "time": "03:04",
-          "publishedAt": "2026-08-12T03:04:34.000Z",
-          "url": "https://sspai.com/post/112880",
-          "image": "",
-          "verdict": "先看",
-          "takeaway": "在 iPhone Air 之后才发现，有些产品存在的意义，是帮我确认我真正需要什么。",
-          "detail": "在 iPhone Air 之后才发现，有些产品存在的意义，是帮我确认我真正需要什么。",
-          "keyPoints": [
-            "评测"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是实际体验内容，买前适合重点看缺点和取舍。",
-          "action": "中文源可以直接点开快读；看完只保留和购机有关的点。"
-        },
         {
           "id": "auto-ad30298a2d98",
           "title": "iPhone 20 周年版不会被取消，但也不是你想象的样子",
@@ -261,29 +239,6 @@ window.phoneRadarDaily = {
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是实际体验内容，买前适合重点看缺点和取舍。",
           "action": "中文源可以直接点开快读；看完只保留和购机有关的点。"
-        },
-        {
-          "id": "auto-9bbf43c61c96",
-          "title": "iPhone 系统功能 / AI 体验相关消息",
-          "originalTitle": "",
-          "source": "Apple Newsroom",
-          "brand": "iPhone",
-          "type": "官方",
-          "trust": "官方确认",
-          "date": "2026-08-12",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://www.apple.com/newsroom/2026/06/apple-announces-changes-to-ios-in-brazil/",
-          "image": "",
-          "verdict": "先看",
-          "takeaway": "iPhone 系统功能 / AI 体验相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
-          "detail": "iPhone 系统功能 / AI 体验相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
-          "keyPoints": [
-            "官方"
-          ],
-          "confidence": "官方内容，可直接作为已确认信息记录。",
-          "impact": "可信度高，但如果不是配置/价格消息，只需要扫一眼。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         }
       ]
     }
