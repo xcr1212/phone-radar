@@ -1,6 +1,326 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-08-12T15:13:40.523Z",
+  "updatedAt": "2026-08-12T17:11:14.706Z",
   "news": [
+    {
+      "id": "auto-6621c63801de",
+      "title": "Pixel 11 Pro Fold will beat the Galaxy Z Fold 8 Ultra if Google nails this one spec",
+      "source": "Android Police",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-12",
+      "time": "17:00",
+      "publishedAt": "2026-08-12T17:00:16.000Z",
+      "url": "https://www.androidpolice.com/google-pixel-11-pro-needs-this-simple-spec-increase/",
+      "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2026/07/samsung-galaxy-z-fold-8-ultra-rear.jpg",
+      "summary": "And I'm not talking about a flashy camera feature",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-e141e66e40bb",
+      "title": "Find your perfect accessories with Spigen’s Pixel 11 collection",
+      "source": "9to5Google",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-12",
+      "time": "17:00",
+      "publishedAt": "2026-08-12T17:00:00.000Z",
+      "url": "https://9to5google.com/2026/08/12/find-your-perfect-accessories-with-spigens-pixel-11-collection/",
+      "image": "",
+      "summary": "Google’s Pixel 11 series is a refinement that takes on a more eye-catching look with bold new colors, and Spigen complements it with a case design for everyone.",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-cbd5aab15243",
+      "title": "Verizon's Pixel 11 deals sound great until you read the fine print",
+      "source": "Android Police",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-12",
+      "time": "16:54",
+      "publishedAt": "2026-08-12T16:54:28.000Z",
+      "url": "https://www.androidpolice.com/verizon-pixel-11-deals/",
+      "image": "",
+      "summary": "A 48-month commitment is a long time",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-46db979d30e7",
+      "title": "The 7 biggest announcements of Google’s Pixel 11 launch",
+      "source": "The Verge",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-12",
+      "time": "16:46",
+      "publishedAt": "2026-08-12T16:46:45.000Z",
+      "url": "https://www.theverge.com/tech/978712/google-pixel-11-event-everything-announced",
+      "image": "",
+      "summary": "Google is hosting a Pixel launch event on Wednesday night where it will show off its latest lineup of devices. But you don't have to wait until then for all the news; we were able…",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-8b1ea5df0fc8",
+      "title": "iPhone 18 Pro: Apple Secures Lower Display Prices Amid RAM Shortage",
+      "source": "MacRumors",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-12",
+      "time": "16:43",
+      "publishedAt": "2026-08-12T16:43:14.000Z",
+      "url": "https://www.macrumors.com/2026/08/12/iphone-18-pro-lower-oled-display-cost-report/",
+      "image": "https://images.macrumors.com/article-new/2026/05/Low-Angle-iPhone-Purple.jpg",
+      "summary": "Apple has secured lower prices for OLED displays for the upcoming iPhone 18 Pro models, according to industry sources cited by South Korea's DealSite . For example, the report sai…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-4a79279c2929",
+      "title": "T-Mobile will already give you the Google Pixel 11 or Pixel 11 Pro for FREE with these preorder deals — no trade-in required!",
+      "source": "Android Central",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-08-12",
+      "time": "16:40",
+      "publishedAt": "2026-08-12T16:40:02.000Z",
+      "url": "https://www.androidcentral.com/phones/google-pixel/t-mobile-will-already-give-you-the-google-pixel-11-or-pixel-11-pro-for-free-with-these-preorder-deals-no-trade-in-required",
+      "image": "https://cdn.mos.cms.futurecdn.net/dYir9fFyqdJuHqUVKMp8bP-1280-80.jpg",
+      "summary": "The Google Pixel 11 lineup doesn't officially hit store shelves until August 20th, but T-Mobile is already giving them away for free.",
+      "tags": [
+        "Pixel",
+        "评测",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-d1649fad05b5",
+      "title": "Pixel 11 Amazon pre-order deals give you up to $350 credit to spend on anything",
+      "source": "Android Authority",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-12",
+      "time": "16:18",
+      "publishedAt": "2026-08-12T16:18:35.000Z",
+      "url": "https://www.androidauthority.com/pixel-11-amazon-pre-order-deals-3697860/",
+      "image": "",
+      "summary": "They doesn't beat Google's pre-order bonuses, but they're much more flexible.",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-c66053db153b",
+      "title": "Which Google Pixel 11 Pro Fold color should you buy?",
+      "source": "Android Central",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-08-12",
+      "time": "16:15",
+      "publishedAt": "2026-08-12T16:15:57.000Z",
+      "url": "https://www.androidcentral.com/phones/google-pixel/which-google-pixel-11-pro-fold-color-should-you-buy",
+      "image": "https://cdn.mos.cms.futurecdn.net/oQFvjfj35J2CrKrQR59uAN-1280-80.jpg",
+      "summary": "Trying to make up your mind on which Google Pixel 11 Pro Fold color should you buy? This guide will make it easy to choose.",
+      "tags": [
+        "Pixel",
+        "评测",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-254e69c9c5d2",
+      "title": "iPhone Ultra's Two Selfie Cameras Could Sit in the Same Corner",
+      "source": "MacRumors",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-12",
+      "time": "16:12",
+      "publishedAt": "2026-08-12T16:12:42.000Z",
+      "url": "https://www.macrumors.com/2026/08/12/iphone-ultra-selfie-cameras-same-corner/",
+      "image": "https://images.macrumors.com/article-new/2026/06/foldable-iphone-dummy-sonny-dickson.jpg",
+      "summary": "With Apple's upcoming iPhone Ultra there's been a lingering question over the exact placement of the selfie cameras in the device's folded and unfolded states – but today we may h…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-d39059453546",
+      "title": "As a Pixel fan, here are 5 reasons I’d buy the Pixel 11 instead of the Pixel 11 Pro",
+      "source": "Android Authority",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-12",
+      "time": "16:00",
+      "publishedAt": "2026-08-12T16:00:39.000Z",
+      "url": "https://www.androidauthority.com/pixel-11-vs-pixel-11-pro-3697640/",
+      "image": "",
+      "summary": "The Pixel 11 offers a lot of phone for $899.",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-a656a1f2a618",
+      "title": "Where to pre-order Pixel 11 series: $350 gift cards, $1,000 trade-in, more",
+      "source": "9to5Google",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-12",
+      "time": "15:46",
+      "publishedAt": "2026-08-12T15:46:32.000Z",
+      "url": "https://9to5google.com/2026/08/12/where-to-buy-the-pixel-11-pixel-11-pro/",
+      "image": "",
+      "summary": "Google just launched the Pixel 11 series with a few shiny new features – literally. All four Pixel 11 devices are available for pre-order, during which some of the best deals come…",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-03cf6c6fdce5",
+      "title": "T-Mobile is giving away the Pixel 11 Pro and 11 Pro XL",
+      "source": "Android Police",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-12",
+      "time": "15:45",
+      "publishedAt": "2026-08-12T15:45:53.000Z",
+      "url": "https://www.androidpolice.com/t-mobile-pixel-11-deals-are-now-live/",
+      "image": "",
+      "summary": "This might be the carrier deal to go with",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-f79eb81e5e13",
+      "title": "Which Google Pixel 11 color should you buy?",
+      "source": "Android Central",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-08-12",
+      "time": "15:28",
+      "publishedAt": "2026-08-12T15:28:01.000Z",
+      "url": "https://www.androidcentral.com/phones/google-pixel/which-google-pixel-11-color-should-you-buy",
+      "image": "https://cdn.mos.cms.futurecdn.net/dYir9fFyqdJuHqUVKMp8bP-1280-80.jpg",
+      "summary": "Picking which Google Pixel 11 color should you buy is no easy choice. There are so many enticing options this year, so let me help you decide.",
+      "tags": [
+        "Pixel",
+        "评测",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-cdc62a8f0478",
+      "title": "Google Pixel 11 Pro Fold keeps most of the last generation, but it’s $100 more expensive",
+      "source": "Gizmochina",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-12",
+      "time": "15:23",
+      "publishedAt": "2026-08-12T15:23:19.000Z",
+      "url": "https://www.gizmochina.com/2026/08/12/google-pixel-11-pro-fold-price-specs-release-date/",
+      "image": "",
+      "summary": "Google has officially launched the Pixel 11 Pro Fold, its latest foldable smartphone, alongside the rest of the Pixel 11 phones. The foldable starts at $1,899 and is available in…",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-de0183a88893",
+      "title": "How Google’s new Pixel 11 phones compare to last year’s models",
+      "source": "The Verge",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-12",
+      "time": "15:18",
+      "publishedAt": "2026-08-12T15:18:25.000Z",
+      "url": "https://www.theverge.com/gadgets/975237/google-pixel-11-pro-comparison-specs-price-features",
+      "image": "",
+      "summary": "Google just added four new phones to the Pixel family: the Pixel 11, Pixel 11 Pro, Pixel 11 Pro XL, and the Pixel 11 Pro Fold. They're slightly more expensive than their predecess…",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-e1a42bf95d04",
+      "title": "Google Pixel 11, Pixel 11 Pro, and Pixel 11 Pro XL launch with Tensor G6 and 256GB base storage",
+      "source": "Gizmochina",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-12",
+      "time": "15:18",
+      "publishedAt": "2026-08-12T15:18:08.000Z",
+      "url": "https://www.gizmochina.com/2026/08/12/google-pixel-11-pixel-11-pro-and-pixel-11-pro-xl-launch-with-tensor-g6-and-256gb-base-storage/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/08/Google-Tensor-G6.jpg?x23692",
+      "summary": "Google has officially launched its new Pixel 11 lineup containing three slab phones, Pixel 11, Pixel 11 Pro, and Pixel 11 Pro XL, and one foldable. More on the foldable here. Pre-…",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-64d5e1c8e9fd",
       "title": "Google’s Pixel 11 trade-ins top out at $1,000 with great values for older phones",
@@ -175,26 +495,6 @@ window.phoneRadarAuto = {
       "url": "https://www.theverge.com/tech/977888/pixel-creator-suite-influencer-camera-features",
       "image": "",
       "summary": "Google knows creators are a big audience. The occupation is growing fast, and landing some influential names could be a major turning point for the Pixel's market share. This year…",
-      "tags": [
-        "Pixel",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-46db979d30e7",
-      "title": "The 7 biggest announcements of Google’s Pixel 11 launch",
-      "source": "The Verge",
-      "brand": "Pixel",
-      "model": "Pixel 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-12",
-      "time": "14:33",
-      "publishedAt": "2026-08-12T14:33:40.000Z",
-      "url": "https://www.theverge.com/tech/978712/google-pixel-11-event-everything-announced",
-      "image": "",
-      "summary": "Google is hosting a Pixel launch event on Wednesday night where it will show off its latest lineup of devices. But you don't have to wait until then for all the news: We were able…",
       "tags": [
         "Pixel",
         "爆料",
@@ -433,7 +733,7 @@ window.phoneRadarAuto = {
       "time": "14:06",
       "publishedAt": "2026-08-12T14:06:42.000Z",
       "url": "https://www.ithome.com/0/988/985.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/8/a99dad6a-5bc4-4262-8e58-c056671beefc.jpg",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/8/a99dad6a-5bc4-4262-8e58-c056671beefc.jpg?x-bce-process=image/format,f_auto",
       "summary": "IT之家 8 月 12 日消息，谷歌正式发布了 Pixel 11 系列手机等一系列产品，包括 Pixel 11、Pixel 11 Pro、Pixel 11 Pro XL 以及 Pixel 11 Pro Fold。该系列即日起开启预购，将于 8 月 20 日正式开售。 谷歌 Pixel 11 系列搭载自研 Tensor G6 芯片。相较上一代 Tensor…",
       "tags": [
         "Pixel",
@@ -1022,6 +1322,26 @@ window.phoneRadarAuto = {
       ]
     },
     {
+      "id": "auto-7617731b6bfe",
+      "title": "How the Pixel 11 Pro Fold compares to the Galaxy Z Fold 8",
+      "source": "The Verge",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-12",
+      "time": "13:08",
+      "publishedAt": "2026-08-12T13:08:21.000Z",
+      "url": "https://www.theverge.com/tech/972498/google-pixel-11-pro-fold-samsung-galaxy-z-fold-8-ultra-specs-comparison",
+      "image": "",
+      "summary": "Google wasn't first to make a foldable Android phone, but the company's Pixel Fold series is now an established player with unique traits compared to its competitors. For one, it…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
       "id": "auto-22660e442261",
       "title": "Foxconn used to make half its revenue from Apple; now it’s below 29%",
       "source": "9to5Mac",
@@ -1202,26 +1522,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-6ff06d6d44a3",
-      "title": "I used the Galaxy Z Fold 8 and Razr Fold side-by-side; it was hard to pick the winner",
-      "source": "Android Police",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-12",
-      "time": "12:00",
-      "publishedAt": "2026-08-12T12:00:16.000Z",
-      "url": "https://www.androidpolice.com/motorola-razr-fold-vs-samsung-galaxy-z-fold-8-comparison-winner/",
-      "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2026/08/galaxy-z-fold-8-moto-razr-hand.JPG",
-      "summary": "Two great folding phones for very different people",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-aa1ecd38e07e",
       "title": "荣耀 Robot Phone 手机搭载 Agentic OS 新一代伙伴型多模态智能操作系统，首发全新 YOYO Pro",
       "source": "IT之家",
@@ -1357,26 +1657,6 @@ window.phoneRadarAuto = {
       "summary": "A zero-click bug allowed attackers to silently take control during live Zoom calls.",
       "tags": [
         "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-0cb3b98ba605",
-      "title": "Android now has a tap-to-share feature",
-      "source": "The Verge",
-      "brand": "Pixel",
-      "model": "Pixel 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-12",
-      "time": "09:54",
-      "publishedAt": "2026-08-12T09:54:05.000Z",
-      "url": "https://www.theverge.com/tech/978613/android-quick-share-tap-update-pixels-samsung",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/DSC02339_processed.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "summary": "Android's AirDrop-like Quick Share feature will now let some devices exchange files and contact information when tapped together. The update is coming to Pixel 6 series phones and…",
-      "tags": [
-        "Pixel",
         "爆料",
         "自动抓取"
       ]
@@ -1582,26 +1862,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-3e95a408deee",
-      "title": "Huawei Mate 90 series launch tentatively set for September 23",
-      "source": "Huawei Central",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-12",
-      "time": "04:58",
-      "publishedAt": "2026-08-12T04:58:23.000Z",
-      "url": "https://www.huaweicentral.com/huawei-mate-90-series-launch-tentatively-set-for-september-23/",
-      "image": "https://www.huaweicentral.com/wp-content/uploads/2026/08/Ministry-of-China.jpg",
-      "summary": "Looks like the Huawei Mate 90 series launch date mystery has been resolved to some extent, as a new input says the flagship will possibly debut on September 23. The latest piece o…",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "weibo-a94015fdfbcb",
       "title": "数码闲聊站：iPhone 20 Pro系列内部代号V73/V74，从供应链摸到的两块新屏物…",
       "source": "数码闲聊站",
@@ -1762,8 +2022,8 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-7402f578aff1",
-      "title": "全球首款机器人手机Robot Phone发布",
+      "id": "newsnow-be3fb15b3f8c",
+      "title": "业内：机器人技术反向回流手机",
       "source": "今日头条热榜",
       "brand": "行业",
       "model": "智能手机市场",
@@ -1772,9 +2032,9 @@ window.phoneRadarAuto = {
       "date": "2026-08-12",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.toutiao.com/trending/7672074822553452550/",
+      "url": "https://www.toutiao.com/trending/7673104720453763099/",
       "image": "",
-      "summary": "全球首款机器人手机Robot Phone发布",
+      "summary": "业内：机器人技术反向回流手机",
       "tags": [
         "行业",
         "爆料",
@@ -1822,21 +2082,21 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-4227a1ad4244",
-      "title": "iPhone 20 Pro概念渲染图曝光",
+      "id": "newsnow-05e78827e8c9",
+      "title": "15万亿元投资新机遇来了",
       "source": "抖音热点",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
+      "brand": "行业",
+      "model": "智能手机市场",
       "type": "爆料",
       "trust": "待验证",
       "date": "2026-08-12",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.douyin.com/hot/2607268",
+      "url": "https://www.douyin.com/hot/2606839",
       "image": "",
-      "summary": "iPhone 20 Pro概念渲染图曝光",
+      "summary": "15万亿元投资新机遇来了",
       "tags": [
-        "iPhone",
+        "行业",
         "爆料",
         "NewsNow"
       ]
@@ -2022,66 +2282,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-96bfe601276c",
-      "title": "6 things I regularly do on my Pixel that are unimaginable on an iPhone",
-      "source": "Android Authority",
-      "brand": "Pixel",
-      "model": "Pixel 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-11",
-      "time": "09:30",
-      "publishedAt": "2026-08-11T09:30:41.000Z",
-      "url": "https://www.androidauthority.com/regular-pixel-features-not-possible-iphone-3694392/",
-      "image": "",
-      "summary": "Maybe one day Apple will catch up.",
-      "tags": [
-        "Pixel",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-753e42c73bff",
-      "title": "The Galaxy Z Fold 8 just passed a bend test, but old weaknesses remain",
-      "source": "Android Authority",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-11",
-      "time": "09:07",
-      "publishedAt": "2026-08-11T09:07:03.000Z",
-      "url": "https://www.androidauthority.com/samsung-galaxy-z-fold-8-teardown-durability-3696765/",
-      "image": "https://www.androidauthority.com/wp-content/uploads/2026/08/Samsung-Galaxy-Z-Fold-8-JerryRigEverything.jpg",
-      "summary": "The Fold 8 passed JerryRigEverything's bend test, but what about the screen and dust resistance?",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-edc115a22c53",
-      "title": "The Galaxy Z Fold 8 doesn’t need a Samsung charger — here’s what to buy instead",
-      "source": "Android Authority",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-11",
-      "time": "09:00",
-      "publishedAt": "2026-08-11T09:00:39.000Z",
-      "url": "https://www.androidauthority.com/best-samsung-galaxy-z-fold-8-chargers-3694802/",
-      "image": "https://www.androidauthority.com/wp-content/uploads/2026/08/Samsung-Galaxy-Z-Fold-8-Ultra-battery-usage.jpg",
-      "summary": "The 45W Galaxy Z Fold 8 needs the right charger, not necessarily a Samsung one.",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "coolapk-user-a12faf44165f",
       "title": "JSCHEN小小狐：OPPO A7 新机入网：中屏 / 横向跑道 Deco",
       "source": "JSCHEN小小狐",
@@ -2197,26 +2397,6 @@ window.phoneRadarAuto = {
       "summary": "Jefferies today became the latest firm to cut Apple’s stock price target in recent days, citing supply chain checks that suggest Apple has scrapped plans for a rumored all-glass i…",
       "tags": [
         "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-1565673d8044",
-      "title": "Galaxy S26 FE fully leaks ahead of launch with Exynos 2500 and 4,900mAh battery",
-      "source": "Gizmochina",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-11",
-      "time": "01:01",
-      "publishedAt": "2026-08-11T01:01:08.000Z",
-      "url": "https://www.gizmochina.com/2026/08/11/galaxy-s26-fe-fully-leaks-ahead-of-launch-with-exynos-2500-and-4900mah-battery/",
-      "image": "https://www.gizmochina.com/wp-content/uploads/2026/08/galaxys26-fe-render4322-300x169.png?x23692",
-      "summary": "Samsung’s next Fan Edition phone is shaping up to be a pretty familiar mix of last year’s flagship tech and a design that fits right in with the current S26 family, according to a…",
-      "tags": [
-        "Samsung",
         "爆料",
         "自动抓取"
       ]
