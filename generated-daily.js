@@ -1,14 +1,14 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-08-11T23:02:16.270Z",
-  "issueDate": "2026-08-11",
-  "issue": "VOL.260811",
+  "updatedAt": "2026-08-12T02:42:59.671Z",
+  "issueDate": "2026-08-12",
+  "issue": "VOL.260812",
   "title": "手机情报日报",
-  "intro": "今日筛出 8 条重点，其中 8 条是重点爆料，包含 5 条 iPhone 相关、0 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 11 条重点，其中 8 条是重点爆料，包含 7 条 iPhone 相关、1 条官方确认、0 条参数线索。",
   "stats": {
-    "total": 8,
-    "iphone": 5,
+    "total": 11,
+    "iphone": 7,
     "leaks": 8,
-    "official": 0,
+    "official": 1,
     "specs": 0
   },
   "sections": [
@@ -65,24 +65,46 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
-          "id": "auto-8c1735f9af0c",
-          "title": "iPhone 18 Pro 机模 / 配色信息曝光",
+          "id": "auto-30abe1f941e4",
+          "title": "【IT之家开箱】REDMI K100 Pro 系列图赏：BOSE 标够抢眼，配色更时尚",
           "originalTitle": "",
-          "source": "9to5Mac",
-          "brand": "iPhone",
+          "source": "IT之家",
+          "brand": "Xiaomi",
           "type": "爆料",
           "trust": "媒体汇总",
-          "date": "2026-08-10",
-          "time": "14:04",
-          "publishedAt": "2026-08-10T14:04:39.000Z",
-          "url": "https://9to5mac.com/2026/08/10/iphone-18-pros-flagship-new-color-detailed-by-leaker/",
-          "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/iphone-18-pro-mockup-fi-new-color.jpg?quality=82&strip=all&w=1600",
+          "date": "2026-08-12",
+          "time": "02:00",
+          "publishedAt": "2026-08-12T02:00:10.000Z",
+          "url": "https://www.ithome.com/0/988/617.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/8/d54d63e2-2f7b-45c8-ade4-10153b1b6f8c.jpg?x-bce-process=image/resize,w_1200,h_801",
           "verdict": "先看",
-          "takeaway": "iPhone 有系统功能或 AI 体验更新，适合关注后续是否影响日常使用。",
-          "detail": "iPhone 18 Pro 机模 / 配色信息曝光。来源提到未发布机型的机模/配色图，适合先判断外观方向、颜色变化和机身轮廓，但最终量产版本仍可能调整。",
+          "takeaway": "去年 10 月，REDMI 推出了该品牌第一款 Pro Max 机型： REDMI K90 Pro Max ，抢占“超大杯”用户市场。今年的 REDMI K100 Pro 系列将发布周期提到了 8 月份，并且一口气推出了 K100 Pro 和 K100 Pro Max 两款机型。IT之家第一时间拿到了新品，先给大家带来开箱图赏。 包装方面，近几代红米采用的…",
+          "detail": "去年 10 月，REDMI 推出了该品牌第一款 Pro Max 机型： REDMI K90 Pro Max ，抢占“超大杯”用户市场。今年的 REDMI K100 Pro 系列将发布周期提到了 8 月份，并且一口气推出了 K100 Pro 和 K100 Pro Max 两款机型。IT之家第一时间拿到了新品，先给大家带来开箱图赏。 包装方面，近几代红米采用的…",
           "keyPoints": [
-            "外观 / 配色 / 尺寸",
-            "爆料来源"
+            "外观 / 配色 / 尺寸"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "newsnow-44cd09dfd707",
+          "title": "iPhone18Pro相机3大升级",
+          "originalTitle": "",
+          "source": "微博热搜",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "待验证",
+          "date": "2026-08-12",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://s.weibo.com/weibo?q=%23iPhone18Pro%E7%9B%B8%E6%9C%BA3%E5%A4%A7%E5%8D%87%E7%BA%A7%23&t=31&band_rank=19&Refer=top",
+          "image": "",
+          "verdict": "先看",
+          "takeaway": "iPhone18Pro相机3大升级",
+          "detail": "iPhone18Pro相机3大升级",
+          "keyPoints": [
+            "影像硬件"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
@@ -182,29 +204,89 @@ window.phoneRadarDaily = {
           "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        }
+      ]
+    },
+    {
+      "id": "iphone",
+      "title": "iPhone 重点",
+      "hint": "不是硬件爆料，但和 iPhone 体验或路线有关。",
+      "items": [
+        {
+          "id": "auto-ad30298a2d98",
+          "title": "iPhone 20 周年版不会被取消，但也不是你想象的样子",
+          "originalTitle": "",
+          "source": "爱范儿",
+          "brand": "iPhone",
+          "type": "评测",
+          "trust": "媒体汇总",
+          "date": "2026-08-11",
+          "time": "10:00",
+          "publishedAt": "2026-08-11T10:00:43.000Z",
+          "url": "https://www.ifanr.com/1674661?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "image": "https://s3.ifanr.com/wp-content/uploads/2026/08/banner16t9-alt.png",
+          "verdict": "先看",
+          "takeaway": "等待一个傻妞手机",
+          "detail": "等待一个傻妞手机",
+          "keyPoints": [
+            "评测"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是实际体验内容，买前适合重点看缺点和取舍。",
+          "action": "中文源可以直接点开快读；看完只保留和购机有关的点。"
         },
         {
-          "id": "coolapk-user-e82bff338f13",
-          "title": "竹本青：【TCL华星认领：独供REDMI K100 Pro系列屏幕，新一代C11自研材料+超级像素技术】 8月11日，TC…",
+          "id": "auto-9bbf43c61c96",
+          "title": "iPhone 系统功能 / AI 体验相关消息",
           "originalTitle": "",
-          "source": "竹本青",
+          "source": "Apple Newsroom",
+          "brand": "iPhone",
+          "type": "官方",
+          "trust": "官方确认",
+          "date": "2026-08-12",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://www.apple.com/newsroom/2026/06/apple-announces-changes-to-ios-in-brazil/",
+          "image": "",
+          "verdict": "先看",
+          "takeaway": "iPhone 系统功能 / AI 体验相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
+          "detail": "iPhone 系统功能 / AI 体验相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
+          "keyPoints": [
+            "官方"
+          ],
+          "confidence": "官方内容，可直接作为已确认信息记录。",
+          "impact": "可信度高，但如果不是配置/价格消息，只需要扫一眼。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        }
+      ]
+    },
+    {
+      "id": "launch",
+      "title": "新机与官方发布",
+      "hint": "能直接更新到参数库。",
+      "items": [
+        {
+          "id": "newsnow-c018f5690e99",
+          "title": "REDMI K100 Pro 系列发布：首销 3699 元起",
+          "originalTitle": "",
+          "source": "酷安热榜",
           "brand": "Xiaomi",
           "type": "爆料",
-          "trust": "高可信爆料",
-          "date": "2026-08-11",
-          "time": "15:40",
-          "publishedAt": "2026-08-11T15:40:51.000Z",
-          "url": "https://www.coolapk.com/feed/73191022",
-          "image": "http://image.coolapk.com/feed/2026/0811/23/4248714_20108ea8_2850_5974_817@1440x2560.jpg",
+          "trust": "高关注爆料源",
+          "date": "2026-08-12",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://www.coolapk.com/feed/73186553",
+          "image": "",
           "verdict": "先看",
-          "takeaway": "【TCL华星认领：独供REDMI K100 Pro系列屏幕，新一代C11自研材料+超级像素技术】 8月11日，TCL华星宣布独供 REDMI K100 Pro系列屏幕： 185Hz专业电竞直屏，原生超高帧适配多款手游；搭载圆偏振光硬件护眼，全亮度DC调光；采用新一代C11自研发光材料+超级像素技术，色彩通透锐利清晰，兼顾高亮低耗。 #今日热点# #REDM…",
-          "detail": "【TCL华星认领：独供REDMI K100 Pro系列屏幕，新一代C11自研材料+超级像素技术】 8月11日，TCL华星宣布独供 REDMI K100 Pro系列屏幕： 185Hz专业电竞直屏，原生超高帧适配多款手游；搭载圆偏振光硬件护眼，全亮度DC调光；采用新一代C11自研发光材料+超级像素技术，色彩通透锐利清晰，兼顾高亮低耗。 #今日热点# #REDM…",
+          "takeaway": "REDMI K100 Pro 系列发布：首销 3699 元起",
+          "detail": "REDMI K100 Pro 系列发布：首销 3699 元起",
           "keyPoints": [
-            "屏幕形态"
+            "爆料"
           ],
-          "confidence": "可信度较高，但仍属于发布前线索。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         }
       ]
     }

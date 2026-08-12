@@ -1,6 +1,206 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-08-11T23:02:16.270Z",
+  "updatedAt": "2026-08-12T02:42:59.671Z",
   "news": [
+    {
+      "id": "auto-15b2101fa427",
+      "title": "Google sends out $150 discount codes ahead of Pixel 11 pre-orders",
+      "source": "9to5Google",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-12",
+      "time": "02:30",
+      "publishedAt": "2026-08-12T02:30:00.000Z",
+      "url": "https://9to5google.com/2026/08/11/google-pixel-11-discount-code-email/",
+      "image": "",
+      "summary": "With less than 24 hours to go until the company’s Pixel 11 launch event, Google is sending $150 discount codes to customers looking to pre-order the new devices.",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-30abe1f941e4",
+      "title": "【IT之家开箱】REDMI K100 Pro 系列图赏：BOSE 标够抢眼，配色更时尚",
+      "source": "IT之家",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-12",
+      "time": "02:00",
+      "publishedAt": "2026-08-12T02:00:10.000Z",
+      "url": "https://www.ithome.com/0/988/617.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/8/d54d63e2-2f7b-45c8-ade4-10153b1b6f8c.jpg?x-bce-process=image/resize,w_1200,h_801",
+      "summary": "去年 10 月，REDMI 推出了该品牌第一款 Pro Max 机型： REDMI K90 Pro Max ，抢占“超大杯”用户市场。今年的 REDMI K100 Pro 系列将发布周期提到了 8 月份，并且一口气推出了 K100 Pro 和 K100 Pro Max 两款机型。IT之家第一时间拿到了新品，先给大家带来开箱图赏。 包装方面，近几代红米采用的…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-35eb87f72677",
+      "title": "竹本青：【华为nova16 SE 今日开售：麒麟8020 处理器，1.5K 大直屏，起售价2499元】 128GB ——…",
+      "source": "竹本青",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-08-12",
+      "time": "01:07",
+      "publishedAt": "2026-08-12T01:07:45.000Z",
+      "url": "https://www.coolapk.com/feed/73194324",
+      "image": "http://image.coolapk.com/feed/2026/0812/09/4248714_8dd28b1c_6863_7478_707@1335x6204.jpg",
+      "summary": "【华为nova16 SE 今日开售：麒麟8020 处理器，1.5K 大直屏，起售价2499元】 128GB —— 2499元 256GB —— 2699元 512GB —— 3199元 核心： ● 6.84\"1.5K 120Hz LTPS直屏 ● 麒麟8020 处理器 ● HarmonyOS 6.1系统 ● 8500mAh电池+66W快充 ▫️屏幕： 分辨…",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "coolapk-user-83bf3c902ab1",
+      "title": "竹本青：【REDMI K100 Pro Max 首销日战报：销量为上代同期150%】 8月12日，小米高管卢伟冰宣布，RE…",
+      "source": "竹本青",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-08-12",
+      "time": "01:02",
+      "publishedAt": "2026-08-12T01:02:31.000Z",
+      "url": "https://www.coolapk.com/feed/73194272",
+      "image": "http://image.coolapk.com/feed/2026/0812/09/4248714_0627593d_6549_8575_175@2494x3325.jpg",
+      "summary": "【REDMI K100 Pro Max 首销日战报：销量为上代同期150%】 8月12日，小米高管卢伟冰宣布，REDMI K100 Pro Max 首销日销量为上代同期150%。 ＊数据来源：小米数据中心以及行业第三方数据报告，销售为支付口径 ＊统计时间：截止至2026年8月11日24:00 ——————————————— 该机首发价格与配置如下： 12G…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "coolapk-user-77546a535b84",
+      "title": "竹本青：【iQOO Neo11 至尊版屏幕预热：15 Ultra同款超感触控芯片，支持圆偏振光2.0】 ▫️有害蓝光占比≤…",
+      "source": "竹本青",
+      "brand": "vivo",
+      "model": "vivo 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-08-12",
+      "time": "01:02",
+      "publishedAt": "2026-08-12T01:02:03.000Z",
+      "url": "https://www.coolapk.com/feed/73194265",
+      "image": "http://image.coolapk.com/feed/2026/0812/09/4248714_75144ae3_6520_0546_720@2494x3325.jpg",
+      "summary": "【iQOO Neo11 至尊版屏幕预热：15 Ultra同款超感触控芯片，支持圆偏振光2.0】 ▫️有害蓝光占比≤5% ▫️全新圆偏振光2.0 ▫️全新1nit暗夜护眼 ▫️iQOO15 Ultra同款超感触控芯片 ▫️多指触控采样率至高500Hz ▫️瞬时触控采样率至高4000Hz #iQOONeo11至尊版# #今日热点#",
+      "tags": [
+        "vivo",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-9bbf43c61c96",
+      "title": "Apple announces changes to iOS in Brazil",
+      "source": "Apple Newsroom",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "官方",
+      "trust": "官方确认",
+      "date": "2026-08-12",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.apple.com/newsroom/2026/06/apple-announces-changes-to-ios-in-brazil/",
+      "image": "",
+      "summary": "Apple today announced changes impacting iOS apps in Brazil that reflect a recent agreement with Brazil’s competition regulator, CADE.",
+      "tags": [
+        "iPhone",
+        "官方",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "newsnow-c018f5690e99",
+      "title": "REDMI K100 Pro 系列发布：首销 3699 元起",
+      "source": "酷安热榜",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-08-12",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/73186553",
+      "image": "",
+      "summary": "REDMI K100 Pro 系列发布：首销 3699 元起",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-56f0b6b566d0",
+      "title": "一加新机入网：天玑 6360 / 720P LCD",
+      "source": "酷安热榜",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-08-12",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/73182229",
+      "image": "",
+      "summary": "一加新机入网：天玑 6360 / 720P LCD",
+      "tags": [
+        "OPPO",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-44cd09dfd707",
+      "title": "iPhone18Pro相机3大升级",
+      "source": "微博热搜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "待验证",
+      "date": "2026-08-12",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://s.weibo.com/weibo?q=%23iPhone18Pro%E7%9B%B8%E6%9C%BA3%E5%A4%A7%E5%8D%87%E7%BA%A7%23&t=31&band_rank=19&Refer=top",
+      "image": "",
+      "summary": "iPhone18Pro相机3大升级",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "auto-778fd6e523a5",
+      "title": "谷歌扩建全球网络基础设施，拟建 3 条新海底光缆",
+      "source": "IT之家",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-11",
+      "time": "23:40",
+      "publishedAt": "2026-08-11T23:40:45.000Z",
+      "url": "https://www.ithome.com/0/988/560.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/8/91a2a773-b313-403b-a49b-ac5f1e1892f8.png?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 8 月 12 日消息，谷歌昨日（8 月 11 日）发布博文，宣布将在美洲扩建全球网络基础设施， 部署阿尔西西奥斯（Alisios）、卡诺亚（Canoa）与奥拉图兹（Olaluz）三套全新海底光缆系统。 Alisios 海底光缆将连接多米尼加共和国、巴拿马和智利，该名称源自西班牙语“vientos alisios”，意为信风。 Canoa 是一条连…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-ef92180c0e13",
       "title": "苹果首款折叠 iPhone 名称爆料，公司内部均称其为“Ultra”",
@@ -262,26 +462,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-e36b6d2aefb1",
-      "title": "Ulefone 推出 Armor 22 Pro/24 Pro 三防手机，联发科 Helio G200 芯片",
-      "source": "IT之家",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-11",
-      "time": "15:03",
-      "publishedAt": "2026-08-11T15:03:04.000Z",
-      "url": "https://www.ithome.com/0/988/526.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/8/5d33061c-557e-463b-9b15-82af052fd42d.jpg?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 8 月 11 日消息，Ulefone 现已宣布推出 Armor 22 Pro 和 Armor 24 Pro 两款三防智能手机，新品配备联发科 Helio G200 芯片，均支持 eSIM。 据介绍，Armor 22 Pro 的机身厚度为 15mm， 搭载联发科 Helio G200 处理器 。拥有 6400 万像素主摄、6400 万像素夜视镜头。…",
-      "tags": [
-        "行业",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "coolapk-user-1eb64d6b05ec",
       "title": "竹本青：【小米 17系列 最新销量曝光：全系突破591万台，Ultra约23.9万台】 8月11日，博主「RD观测」分享第…",
       "source": "竹本青",
@@ -442,86 +622,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "coolapk-user-4787093e3af7",
-      "title": "竹本青：【REDMI K100 Pro系列 正式发布：185Hz RGB直屏，骁龙8E5/5V，首发3699元起】 RED…",
-      "source": "竹本青",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-08-11",
-      "time": "11:38",
-      "publishedAt": "2026-08-11T11:38:34.000Z",
-      "url": "https://www.coolapk.com/feed/73186638",
-      "image": "http://image.coolapk.com/feed/2026/0811/19/4248714_c3a6a759_8371_3596_605@1440x3737.jpg",
-      "summary": "【REDMI K100 Pro系列 正式发布：185Hz RGB直屏，骁龙8E5/5V，首发3699元起】 REDMI K100 Pro 12GB+256GB —— 3699元 16GB+256GB —— 4099元 12GB+512GB —— 4299元 16GB+512GB —— 4699元 REDMI K100 Pro Max 12GB+256GB…",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
-      "id": "coolapk-user-733866609894",
-      "title": "竹本青：【REDMI K100 Pro Max 正式发布：骁龙8E5，185Hz RGB直屏，独立后扬，首发4199元起】…",
-      "source": "竹本青",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-08-11",
-      "time": "11:37",
-      "publishedAt": "2026-08-11T11:37:17.000Z",
-      "url": "https://www.coolapk.com/feed/73186596",
-      "image": "http://image.coolapk.com/feed/2026/0811/19/4248714_71375aef_8350_8965_474@1440x3737.jpg",
-      "summary": "【REDMI K100 Pro Max 正式发布：骁龙8E5，185Hz RGB直屏，独立后扬，首发4199元起】 12GB+256GB —— 4199元 16GB+256GB —— 4599元 12GB+512GB —— 4799元 16GB+512GB —— 5199元 16GB+1TB —— 5999元（限量2万台） 核心： ● 骁龙8 Elite…",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
-      "id": "coolapk-user-b54d2849ce92",
-      "title": "竹本青：【REDMI K100 Pro 正式发布：骁龙8E5V 处理器，185Hz RGB中直屏，首发3699元起】 12…",
-      "source": "竹本青",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-08-11",
-      "time": "11:35",
-      "publishedAt": "2026-08-11T11:35:40.000Z",
-      "url": "https://www.coolapk.com/feed/73186566",
-      "image": "http://image.coolapk.com/feed/2026/0811/19/4248714_c3a6a759_8170_2543_283@1440x3737.jpg",
-      "summary": "【REDMI K100 Pro 正式发布：骁龙8E5V 处理器，185Hz RGB中直屏，首发3699元起】 12GB+256GB —— 3699元 16GB+256GB —— 4099元 12GB+512GB —— 4299元 16GB+512GB —— 4699元 核心： ● 骁龙8 Elite Gen5V Series+独显芯片D2 ● 6.59\"1…",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
-      "id": "coolapk-user-4695d6bff463",
-      "title": "竹本青：这视频……，太浮夸了",
-      "source": "竹本青",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-08-11",
-      "time": "11:26",
-      "publishedAt": "2026-08-11T11:26:52.000Z",
-      "url": "https://www.coolapk.com/feed/73186426",
-      "image": "",
-      "summary": "这视频……，太浮夸了",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
       "id": "auto-accfbea5f275",
       "title": "Early OnePlus 16 hype suggests firm may have ditched its key markets too soon",
       "source": "Android Authority",
@@ -675,26 +775,6 @@ window.phoneRadarAuto = {
       "url": "https://www.coolapk.com/feed/73182501",
       "image": "http://image.coolapk.com/feed/2026/0811/15/4702274_76a9ba0e_2367_553_711@480x640.jpg",
       "summary": "『OPPO A7 新机入网：中屏 / 横向跑道 Deco』 型号：PYE110 ◇ 2.4GHz 8 核处理器（疑似天玑 6300 系列） ◇ 6.57'' 2372×1080 120Hz 10bit OLED 直屏 ◇ 后置 50Mp 单摄，前置 8Mp 摄像头 ◇ 额定容量 7820mAh，支持红外遥控 ◇ 厚 8.8mm，重 206g，2TB 存储卡…",
-      "tags": [
-        "OPPO",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
-      "id": "coolapk-user-9ca2cf2de7e7",
-      "title": "JSCHEN小小狐：一加新机入网：天玑 6360 / 720P LCD",
-      "source": "JSCHEN小小狐",
-      "brand": "OPPO",
-      "model": "OPPO 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-08-11",
-      "time": "06:52",
-      "publishedAt": "2026-08-11T06:52:40.000Z",
-      "url": "https://www.coolapk.com/feed/73182229",
-      "image": "http://image.coolapk.com/feed/2026/0811/14/4702274_94288fdb_1156_8417_601@480x640.jpg",
-      "summary": "『一加新机入网：天玑 6360 平台 / 720P LCD』 型号：PYZ110 ◇ 天玑 6360 Super 移动平台 （2×A76 2.4GHz + 6×A55 2.0GHz） （Mali-G57 MC2 GPU，台积电 6nm） ◇ 6.75 英寸 1570×720 120Hz LCD 直屏 （手动亮度 975nits，HBM 亮度 1200nit…",
       "tags": [
         "OPPO",
         "爆料",
@@ -877,546 +957,6 @@ window.phoneRadarAuto = {
       "summary": "Samsung’s next Fan Edition phone is shaping up to be a pretty familiar mix of last year’s flagship tech and a design that fits right in with the current S26 family, according to a…",
       "tags": [
         "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-9bbf43c61c96",
-      "title": "Apple announces changes to iOS in Brazil",
-      "source": "Apple Newsroom",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "官方",
-      "trust": "官方确认",
-      "date": "2026-08-11",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.apple.com/newsroom/2026/06/apple-announces-changes-to-ios-in-brazil/",
-      "image": "",
-      "summary": "Apple today announced changes impacting iOS apps in Brazil that reflect a recent agreement with Brazil’s competition regulator, CADE.",
-      "tags": [
-        "iPhone",
-        "官方",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "newsnow-4ff1df11b61f",
-      "title": "REDMI K100 Pro 系列发布：首销 3699 元起",
-      "source": "酷安热榜",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-08-11",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73186553",
-      "image": "",
-      "summary": "REDMI K100 Pro 系列发布：首销 3699 元起",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-801ffcb30e19",
-      "title": "2020 年，回头看仍是机圈极具魔幻现实主义色彩的一年。厂商大喊 “5G 元年”，对换机用户而言却是 “涨价元年”—— 旗舰机型仿佛统一了口径，集体上调八百至一千的价格，携手迈入3999的时代。",
-      "source": "酷安热榜",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-08-11",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/70266966",
-      "image": "",
-      "summary": "2020 年，回头看仍是机圈极具魔幻现实主义色彩的一年。厂商大喊 “5G 元年”，对换机用户而言却是 “涨价元年”—— 旗舰机型仿佛统一了口径，集体上调八百至一千的价格，携手迈入3999的时代。",
-      "tags": [
-        "行业",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-fb2c0637a0c4",
-      "title": "难以想象有一天，我居然会在酷安写一篇iPhone的文章。工作、孩子强度库库的上，思维也变得懒惰、僵化，以前写文章思如泉涌，现在只能用一周多的时间零零散散构思，不蹭热度，全文没有硬核的参数对比和严谨的对照实验，毕竟头部数码博主都给测完了。只想在喧嚣过后和大家聊一聊，在我的使用场景和主观视角下的Air。",
-      "source": "酷安热榜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-08-11",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/68295165",
-      "image": "",
-      "summary": "难以想象有一天，我居然会在酷安写一篇iPhone的文章。工作、孩子强度库库的上，思维也变得懒惰、僵化，以前写文章思如泉涌，现在只能用一周多的时间零零散散构思，不蹭热度，全文没有硬核的参数对比和严谨的对照实验，毕竟头部数码博主都给测完了。只想在喧嚣过后和大家聊一聊，在我的使用场景和主观视角下的Air。",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-a57b8cef7761",
-      "title": "手机NFC功能不要随便打开",
-      "source": "今日头条热榜",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-11",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.toutiao.com/trending/7672232082655182884/",
-      "image": "",
-      "summary": "手机NFC功能不要随便打开",
-      "tags": [
-        "行业",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "auto-e27b95cf4b61",
-      "title": "Google’s base Pixel 11 probably won’t have ‘HiLight’ but will actually have enough RAM",
-      "source": "9to5Google",
-      "brand": "Pixel",
-      "model": "Pixel 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-10",
-      "time": "20:15",
-      "publishedAt": "2026-08-10T20:15:00.000Z",
-      "url": "https://9to5google.com/2026/08/10/pixel-11-hilight-ram-leak/",
-      "image": "",
-      "summary": "With just hours left to go for Google’s Pixel 11 launch event, details keep on leaking out, with some clarification around the base Pixel 11 now making its way online.",
-      "tags": [
-        "Pixel",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-38e7dbb783e7",
-      "title": "Motorola Edge 70 Max Review: Flagship Performance Meets Motorola’s Largest-Ever Battery",
-      "source": "Gizmochina",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-10",
-      "time": "19:59",
-      "publishedAt": "2026-08-10T19:59:01.000Z",
-      "url": "https://www.gizmochina.com/2026/08/10/motorola-edge-70-max-review/",
-      "image": "https://www.gizmochina.com/wp-content/uploads/2026/08/Motorola-EDge-70-Max-display-300x225.jpg?x23692",
-      "summary": "Motorola has taken a different approach with the Edge 70 Max. While it is the most powerful smartphone the company has launched under the Edge series, it is not intended to replac…",
-      "tags": [
-        "行业",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-02cfca3c18c5",
-      "title": "Galaxy S26 FE specs leak alongside a higher price tag",
-      "source": "9to5Google",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-10",
-      "time": "19:45",
-      "publishedAt": "2026-08-10T19:45:00.000Z",
-      "url": "https://9to5google.com/2026/08/10/galaxy-s26-fe-specs-leak-alongside-a-higher-price-tag/",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/08/galaxy-s26-fe-leak-1.webp?w=1600",
-      "summary": "Ahead of its launch that will likely happen next month, Samsung’s Galaxy S26 FE has had its full specs leak alongside a higher price tag for the device that exists solely to be mo…",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-a0778a5c43f6",
-      "title": "Xiaomi 18 leak reveals five colors, confirms 2nm Snapdragon chip",
-      "source": "Gizmochina",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-10",
-      "time": "18:44",
-      "publishedAt": "2026-08-10T18:44:14.000Z",
-      "url": "https://www.gizmochina.com/2026/08/10/xiaomi-18-leak-reveals-five-colors-confirms-2nm-snapdragon-chip/",
-      "image": "https://www.gizmochina.com/wp-content/uploads/2026/03/Xiaomi-17-300x300.png?x23692",
-      "summary": "A new leak by Digital Chat Station reveals the color options for the Xiaomi 18. According to it, the device will be available in five color options: Black, White, Pink, Blue, and…",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-8d2a37a35a1e",
-      "title": "Google is turning things up to 11 in latest Pixel 11 Pro teaser",
-      "source": "Android Authority",
-      "brand": "Pixel",
-      "model": "Pixel 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-10",
-      "time": "18:12",
-      "publishedAt": "2026-08-10T18:12:20.000Z",
-      "url": "https://www.androidauthority.com/pixel-11-pro-teaser-3696656/",
-      "image": "",
-      "summary": "Google's got a fresh video teaser for this week's new Pixel 11 hardware.",
-      "tags": [
-        "Pixel",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-03b002589700",
-      "title": "Should you wait for the Google Pixel 11? Here's everything you should consider and how I'd spend my money",
-      "source": "Android Central",
-      "brand": "Pixel",
-      "model": "Pixel 相关机型",
-      "type": "评测",
-      "trust": "媒体汇总",
-      "date": "2026-08-10",
-      "time": "17:36",
-      "publishedAt": "2026-08-10T17:36:28.000Z",
-      "url": "https://www.androidcentral.com/phones/google-pixel/should-you-wait-for-google-pixel-11",
-      "image": "https://cdn.mos.cms.futurecdn.net/7VRynWNu5EaptSUgniwKqW-1280-80.jpg",
-      "summary": "Google is gearing up to launch new Pixel 11 phones, but the Pixel 10 won't be going away anytime soon. Should you wait for the new model or buy now?",
-      "tags": [
-        "Pixel",
-        "评测",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-accb3d37b936",
-      "title": "Next year’s iPhone redesign with all-glass look might be canceled: report",
-      "source": "9to5Mac",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-10",
-      "time": "14:49",
-      "publishedAt": "2026-08-10T14:49:14.000Z",
-      "url": "https://9to5mac.com/2026/08/10/next-years-iphone-redesign-with-all-glass-look-might-be-canceled-report/",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/05/iphone-19-pro-20-anniversary-max.jpg?quality=82&strip=all&w=1600",
-      "summary": "Rumors have long indicated that Apple is working on an all-glass new iPhone design for the 20th anniversary next year. But an analyst from Jefferies believes that device is no lon…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-8c1735f9af0c",
-      "title": "iPhone 18 Pro’s flagship new color detailed by leaker",
-      "source": "9to5Mac",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-10",
-      "time": "14:04",
-      "publishedAt": "2026-08-10T14:04:39.000Z",
-      "url": "https://9to5mac.com/2026/08/10/iphone-18-pros-flagship-new-color-detailed-by-leaker/",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/iphone-18-pro-mockup-fi-new-color.jpg?quality=82&strip=all&w=1600",
-      "summary": "Last year iPhone 17 Pro’s Cosmic Orange color proved an instant hit, but rumors indicate it’s being replaced in iPhone 18 Pro by a new burgundy. Here’s what to expect, per a new l…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-54907d60d467",
-      "title": "不再拆机飞线：借助 ACC 实现旧手机直供电「改造」",
-      "source": "少数派",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "评测",
-      "trust": "媒体汇总",
-      "date": "2026-08-10",
-      "time": "13:50",
-      "publishedAt": "2026-08-10T13:50:02.000Z",
-      "url": "https://sspai.com/prime/story/direct-power-supply-mod",
-      "image": "",
-      "summary": "去年4月，我在某视频的影响下，萌生了将家里的旧安卓手机利用起来的想法。后续虽然跑起来了，但因为设备需要长期充电，电池安全又成了一个让我困扰的难题。为了解决这个问题，我在《彻底告别电池焦虑：旧手机再利用 ... 本文为会员文章，出自 《单篇文章》 ，订阅后可阅读全文。",
-      "tags": [
-        "行业",
-        "评测",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-957e33791e12",
-      "title": "Xiaomi 18 Pro launch timeframe leaks for India; it’s coming with rear display",
-      "source": "Gizmochina",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-10",
-      "time": "13:45",
-      "publishedAt": "2026-08-10T13:45:19.000Z",
-      "url": "https://www.gizmochina.com/2026/08/10/xiaomi-18-pro-launch-timeframe-leaks-for-india-its-coming-with-rear-display/",
-      "image": "https://www.gizmochina.com/wp-content/uploads/2025/10/Xiaomi-17-Pro-Max-battery-test-1-300x169.png?x23692",
-      "summary": "The Redmi Note 17 only just launched in India, and a new leak already lays out what’s coming next. Tipster Abhishek Yadav has shared Xiaomi and Redmi’s India launch plans for the…",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-d2348eb89f9b",
-      "title": "Samsung will reportedly make an extra one million Galaxy Z Fold 8 units",
-      "source": "9to5Google",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-10",
-      "time": "13:45",
-      "publishedAt": "2026-08-10T13:45:00.000Z",
-      "url": "https://9to5google.com/2026/08/10/samsung-galaxy-z-fold-8-million-more-units/",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/07/galaxy-z-fold-8-review-46.jpg?quality=82&strip=all&w=1600",
-      "summary": "The Galaxy Z Fold 8 is an absolute smash hit, it seems, as Samsung will reportedly make an extra one million units of the wide foldable amid higher-than-expected demand.",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-5b572602704f",
-      "title": "Pixel 11 Pro XL leak shows off matte black finish and 'HiLight' LED days before launch",
-      "source": "Android Central",
-      "brand": "Pixel",
-      "model": "Pixel 相关机型",
-      "type": "评测",
-      "trust": "媒体汇总",
-      "date": "2026-08-10",
-      "time": "13:44",
-      "publishedAt": "2026-08-10T13:44:23.000Z",
-      "url": "https://www.androidcentral.com/phones/google-pixel/pixel-11-pro-xl-leak-shows-off-matte-black-finish-and-hilight-led-days-before-launch",
-      "image": "https://cdn.mos.cms.futurecdn.net/XZqsmUQaEz43kPqdKEW4La-1280-80.jpg",
-      "summary": "A carrier leak just gave us an early look at Google’s Pixel 11 Pro XL in matte black, revealing a bigger camera housing and a new \"HiLight\" flash ahead of launch.",
-      "tags": [
-        "Pixel",
-        "评测",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-a28347c004ca",
-      "title": "Vivo X300 FE sees another price hike in India, now starts at ₹89,999",
-      "source": "Gizmochina",
-      "brand": "vivo",
-      "model": "vivo 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-10",
-      "time": "13:27",
-      "publishedAt": "2026-08-10T13:27:26.000Z",
-      "url": "https://www.gizmochina.com/2026/08/10/vivo-x300-fe-sees-another-price-hike-in-india-now-starts-at-%e2%82%b989999/",
-      "image": "https://www.gizmochina.com/wp-content/uploads/2026/08/videoframe_2478-300x169.png?x23692",
-      "summary": "Vivo has quietly bumped up the price of its compact flagship again, so anyone still thinking about buying one is looking at a noticeably higher tag than what was advertised a few…",
-      "tags": [
-        "vivo",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-3b0bfb72531c",
-      "title": "New Galaxy S26 FE leak gives away pretty much all of its specs",
-      "source": "Android Authority",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-10",
-      "time": "12:29",
-      "publishedAt": "2026-08-10T12:29:40.000Z",
-      "url": "https://www.androidauthority.com/samsung-galaxy-s26-fe-specs-leak-3696416/",
-      "image": "https://www.androidauthority.com/wp-content/uploads/2025/09/Samsung-Galaxy-S25-FE-rear-cameras-scaled-1-scaled.jpg",
-      "summary": "Nothing surprising to see here.",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-312b2f35ac0a",
-      "title": "Huawei Mate 80 reportedly selling 200,000 units per week, 8.2 million sold!",
-      "source": "Huawei Central",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-10",
-      "time": "12:29",
-      "publishedAt": "2026-08-10T12:29:12.000Z",
-      "url": "https://www.huaweicentral.com/huawei-mate-80-series-sold-8-2-million-units/",
-      "image": "https://www.huaweicentral.com/wp-content/uploads/2026/02/Mate80Pro-ig1.jpg",
-      "summary": "Huawei Mate 90 series is in the making, and ahead of its launch, the Mate 80 flagship lineup is trying its best to complete the 10 million mark, now reaching 8.2 million units. Th…",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-9aa296851880",
-      "title": "Google Pixel 11 Pro XL Geekbench listing shows Tensor G6 performance numbers",
-      "source": "Gizmochina",
-      "brand": "Pixel",
-      "model": "Pixel 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-10",
-      "time": "11:32",
-      "publishedAt": "2026-08-10T11:32:49.000Z",
-      "url": "https://www.gizmochina.com/2026/08/10/google-pixel-11-pro-xl-geekbench-listing-shows-tensor-g6-performance-numbers/",
-      "image": "",
-      "summary": "Google is just a couple of days away from the Pixel 11 series launch, and if you’ve been waiting to see how Google’s next flagship chip performs, we have some early numbers to loo…",
-      "tags": [
-        "Pixel",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-efe4e9a6d5bf",
-      "title": "The iPhone 18 Pro will cost Apple 38% more in parts – but there’s some good news",
-      "source": "9to5Mac",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-10",
-      "time": "11:16",
-      "publishedAt": "2026-08-10T11:16:51.000Z",
-      "url": "https://9to5mac.com/2026/08/10/the-iphone-18-pro-will-cost-apple-38-more-in-parts-but-theres-some-good-news/",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/iphone-18-pro-concept.jpg?quality=82&strip=all&w=1600",
-      "summary": "A new TrendForce analysis estimates that Apple will pay 38% more for iPhone 18 Pro components than it did for its predecessor. Unsurprisingly, the biggest hike is in the cost of m…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-d82ae26af18a",
-      "title": "Redmi K100 Pro Max Roundup: Here’s Everything You Need To Know",
-      "source": "Gizmochina",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-10",
-      "time": "09:32",
-      "publishedAt": "2026-08-10T09:32:20.000Z",
-      "url": "https://www.gizmochina.com/2026/08/10/redmi-k100-pro-max-roundup-heres-everything-you-need-to-know/",
-      "image": "https://www.gizmochina.com/wp-content/uploads/2026/07/Redmi-K100-Pro-Max-Cabarnet-Red-6-300x300.jpg?x23692",
-      "summary": "The Redmi K100 Pro Max is launching in China on August 11 — tomorrow, and Redmi has spent the past several weeks revealing nearly every major spec ahead of time. The company poste…",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-3fb44cb0a566",
-      "title": "iQOO confirms Neo 11 Ultra’s 2K display specs ahead of launch",
-      "source": "Gizmochina",
-      "brand": "vivo",
-      "model": "vivo 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-10",
-      "time": "08:02",
-      "publishedAt": "2026-08-10T08:02:47.000Z",
-      "url": "https://www.gizmochina.com/2026/08/10/iqoo-confirms-neo-11-ultras-2k-display-specs-ahead-of-launch/",
-      "image": "https://www.gizmochina.com/wp-content/uploads/2026/08/iQOO-Neo-11-Ultra-color-options-300x212.jpg?x23692",
-      "summary": "iQOO is gearing up to officially unveil the Neo 11 Ultra in China on August 18, and ahead of the event, the brand’s product manager has given you a detailed look at what the phone…",
-      "tags": [
-        "vivo",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-d7279b53ca82",
-      "title": "Alleged OnePlus 16 secures network access certification in China",
-      "source": "Gizmochina",
-      "brand": "OPPO",
-      "model": "OPPO 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-10",
-      "time": "06:43",
-      "publishedAt": "2026-08-10T06:43:16.000Z",
-      "url": "https://www.gizmochina.com/2026/08/10/alleged-oneplus-16-secures-network-access-certification-in-china/",
-      "image": "https://www.gizmochina.com/wp-content/uploads/2026/08/oneplus-16-renders-surface-online-300x200.jpg?x23692",
-      "summary": "An Oppo-linked phone with model number PYB110 just got radio approval and includes the N79 5G band. Well-known tipster Digital Chat Station suggests this is the OnePlus 16. He say…",
-      "tags": [
-        "OPPO",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-d5de8b9c06f6",
-      "title": "我与Pixel 10 Pro的生活：写在Pixel 11系列手机发布前夕",
-      "source": "少数派",
-      "brand": "Pixel",
-      "model": "Pixel 相关机型",
-      "type": "评测",
-      "trust": "媒体汇总",
-      "date": "2026-08-10",
-      "time": "03:00",
-      "publishedAt": "2026-08-10T03:00:56.000Z",
-      "url": "https://sspai.com/post/113202",
-      "image": "",
-      "summary": "喜欢，从来没有一个明确的定义。",
-      "tags": [
-        "Pixel",
-        "评测",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-0c7ea54b7795",
-      "title": "iQOO Neo 11 Ultra, Z11S with up to 10,000mAh batteries set to launch on August 18￼ ￼",
-      "source": "Gizmochina",
-      "brand": "vivo",
-      "model": "vivo 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-10",
-      "time": "02:22",
-      "publishedAt": "2026-08-10T02:22:41.000Z",
-      "url": "https://www.gizmochina.com/2026/08/10/iqoo-neo-11-ultra-z11s-design-specs-august-18-launch/",
-      "image": "https://www.gizmochina.com/wp-content/uploads/2026/08/iQOO-Neo-11-Ultra-color-options-300x212.jpg?x23692",
-      "summary": "After teasing the arrival of the iQOO Neo 11 Ultra last week, iQOO has now confirmed its design and some key specifications. The company has also revealed that the iQOO Z11S will…",
-      "tags": [
-        "vivo",
         "爆料",
         "自动抓取"
       ]
