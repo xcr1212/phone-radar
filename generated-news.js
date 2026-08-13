@@ -1,5 +1,5 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-08-13T21:01:50.568Z",
+  "updatedAt": "2026-08-13T23:01:31.806Z",
   "news": [
     {
       "id": "auto-9114e8d9b85a",
@@ -10,11 +10,11 @@ window.phoneRadarAuto = {
       "type": "爆料",
       "trust": "媒体汇总",
       "date": "2026-08-13",
-      "time": "20:53",
-      "publishedAt": "2026-08-13T20:53:13.000Z",
+      "time": "21:11",
+      "publishedAt": "2026-08-13T21:11:44.000Z",
       "url": "https://www.theverge.com/games/979855/netflix-shut-down-night-school-studio-moonloot-games",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24814434/OXENFREEII_rileyjacobbridge_EN.png?quality=90&strip=all&crop=0,0,100,100",
-      "summary": "Netflix plans to shut down two of its gaming studios as it makes a bigger shift toward party games and titles streamed to TVs. One of the studios being shut down is Night School S…",
+      "summary": "Netflix plans to shut down two of its gaming studios, as reported by Game File and Variety, as it makes a bigger shift toward party games and titles streamed to TVs. One of the st…",
       "tags": [
         "iPhone",
         "爆料",
@@ -1262,6 +1262,46 @@ window.phoneRadarAuto = {
       ]
     },
     {
+      "id": "newsnow-ca60ee5b25cb",
+      "title": "REDMI K100 Pro 系列发布：首销 3699 元起",
+      "source": "酷安热榜",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-08-13",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/73186553",
+      "image": "",
+      "summary": "REDMI K100 Pro 系列发布：首销 3699 元起",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-e0e32ade2674",
+      "title": "iPhone18系列发布节奏确认",
+      "source": "微博热搜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "待验证",
+      "date": "2026-08-13",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://s.weibo.com/weibo?q=%23iPhone18%E7%B3%BB%E5%88%97%E5%8F%91%E5%B8%83%E8%8A%82%E5%A5%8F%E7%A1%AE%E8%AE%A4%23&t=31&band_rank=25&Refer=top",
+      "image": "",
+      "summary": "iPhone18系列发布节奏确认",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
       "id": "newsnow-ceb390cf5315",
       "title": "红米新品发布后，小米高管回应网友评论称「内存实在太贵了」，反映了当前手机行业哪些挑战？",
       "source": "知乎热榜",
@@ -2242,26 +2282,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-27d02dfb819c",
-      "title": "The Pixel 11 series is here, but Google saved the big upgrades for the Pro models",
-      "source": "Android Central",
-      "brand": "Pixel",
-      "model": "Pixel 相关机型",
-      "type": "评测",
-      "trust": "媒体汇总",
-      "date": "2026-08-12",
-      "time": "14:00",
-      "publishedAt": "2026-08-12T14:00:00.000Z",
-      "url": "https://www.androidcentral.com/phones/google-pixel/the-pixel-11-series-is-here-but-google-saved-the-big-upgrades-for-the-pro-models",
-      "image": "https://cdn.mos.cms.futurecdn.net/uPQQHbLN2geAxLojfaYLUZ-1280-80.jpg",
-      "summary": "The Pixel 11 lineup is official with brighter displays, new cameras and Tensor G6, but higher prices and only modest upgrades on the base model.",
-      "tags": [
-        "Pixel",
-        "评测",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-124fae9e46c5",
       "title": "The Pixel 11 Pro Fold goes after foldables’ weak spots with a tougher design",
       "source": "Android Central",
@@ -2275,6 +2295,26 @@ window.phoneRadarAuto = {
       "url": "https://www.androidcentral.com/phones/google-pixel/the-pixel-11-pro-fold-goes-after-foldables-weak-spots-with-a-tougher-design",
       "image": "https://cdn.mos.cms.futurecdn.net/oQFvjfj35J2CrKrQR59uAN-1280-80.jpg",
       "summary": "The Pixel 11 Pro Fold is tougher, brighter, and smarter, with better cameras, 16GB RAM, 24+ hours of battery life, and 30W charging.",
+      "tags": [
+        "Pixel",
+        "评测",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-27d02dfb819c",
+      "title": "The Pixel 11 series is here, but Google saved the big upgrades for the Pro models",
+      "source": "Android Central",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-08-12",
+      "time": "14:00",
+      "publishedAt": "2026-08-12T14:00:00.000Z",
+      "url": "https://www.androidcentral.com/phones/google-pixel/the-pixel-11-series-is-here-but-google-saved-the-big-upgrades-for-the-pro-models",
+      "image": "https://cdn.mos.cms.futurecdn.net/uPQQHbLN2geAxLojfaYLUZ-1280-80.jpg",
+      "summary": "The Pixel 11 lineup is official with brighter displays, new cameras and Tensor G6, but higher prices and only modest upgrades on the base model.",
       "tags": [
         "Pixel",
         "评测",
@@ -2355,46 +2395,6 @@ window.phoneRadarAuto = {
       "url": "https://9to5mac.com/2026/08/12/iphone-18-could-get-two-new-pro-level-upgrades-per-report/",
       "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/11/iphone-18-mockup-blue.jpg?quality=82&strip=all&w=1600",
       "summary": "Apple’s base model iPhone 18 won’t launch until early 2027, but when it arrives, it could pack two new Pro-level upgrades.",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "weibo-b71118c90ce9",
-      "title": "数码闲聊站：荣耀Magic9系列定档9月，全新横向延伸+左上角大圆DECO，金属中框，阿莱…",
-      "source": "数码闲聊站",
-      "brand": "HONOR",
-      "model": "HONOR 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-08-12",
-      "time": "13:51",
-      "publishedAt": "2026-08-12T13:51:00.000Z",
-      "url": "https://weibo.com/6048569942/Rd5Sznbn0",
-      "image": "https://tvax1.sinaimg.cn/mw2000/006BlblIgy1ig1a2hfry7j31b11jkn94.jpg",
-      "summary": "荣耀Magic9系列定档9月，全新横向延伸+左上角大圆DECO，金属中框，阿莱影像，喜欢吗？",
-      "tags": [
-        "HONOR",
-        "爆料",
-        "微博"
-      ]
-    },
-    {
-      "id": "auto-22660e442261",
-      "title": "Foxconn used to make half its revenue from Apple; now it’s below 29%",
-      "source": "9to5Mac",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-12",
-      "time": "13:08",
-      "publishedAt": "2026-08-12T13:08:09.000Z",
-      "url": "https://9to5mac.com/2026/08/12/foxconn-used-to-make-half-its-revenue-from-apple-now-its-below-29/",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/Foxconn-used-to-make-half-its-revenue-from-Apple-now-its-below-29pc.jpg?quality=82&strip=all&w=1600",
-      "summary": "As Apple’s lead iPhone assembler, contract manufacturing company Foxconn long made more than half of its revenue from the Cupertino company. As of the last quarter, however, that…",
       "tags": [
         "iPhone",
         "爆料",
