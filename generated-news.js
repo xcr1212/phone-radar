@@ -1,5 +1,5 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-08-13T05:48:21.485Z",
+  "updatedAt": "2026-08-13T07:51:50.089Z",
   "news": [
     {
       "id": "auto-c302ef3eaacf",
@@ -18,6 +18,166 @@ window.phoneRadarAuto = {
       "tags": [
         "Samsung",
         "官方",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-1b74b8fe652b",
+      "title": "JSCHEN小小狐：谷歌 Pixel 11 系列硬件变化汇总",
+      "source": "JSCHEN小小狐",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-08-13",
+      "time": "07:43",
+      "publishedAt": "2026-08-13T07:43:02.000Z",
+      "url": "https://www.coolapk.com/feed/73217976",
+      "image": "http://image.coolapk.com/feed_cover/2026/0813/15/4702274_0f5549aa_6792_0132_506@1600x720.jpg",
+      "summary": "前言：8 月 12 日，谷歌通过 “Made by Google” 发布会，带来了全新的 Pixel 11、Pixel 11 Pro、Pixel 11 Pro XL 及 Pixel 11 Pro Fold 四款机型。除了统一搭载新一代 Tensor G6 和 Titan M3 外，它们在硬件选型上也较前代作出了一些区别。 谷歌 Pixel 11 Pro F…",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-6c45d70ab5fa",
+      "title": "小米胡馨心：REDMI K100 Pro 系列手机会首批推送澎湃 OS 4 正式版更新",
+      "source": "IT之家",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-13",
+      "time": "07:38",
+      "publishedAt": "2026-08-13T07:38:17.000Z",
+      "url": "https://www.ithome.com/0/989/251.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/8/30c3bbac-b26d-48dd-bd83-5b42879a7eb3.png",
+      "summary": "IT之家 8 月 13 日消息，今天上午， 小米开启了澎湃 OS 4 系统的首批机型 Beta 版招募 ，覆盖小米 17、 REDMI K90 系列等机型。 IT之家注意到，小米 REDMI 产品经理胡馨心今日宣布， REDMI K100 Pro 系列手机会首批推送澎湃 OS 4 正式版更新 。 IT之家附澎湃 OS 4 升级亮点如下： 小米澎湃系统内核技…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-a30cd326fba1",
+      "title": "Huawei Mate 90 series launch event could be more excellent than Mate 60",
+      "source": "Huawei Central",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-13",
+      "time": "07:32",
+      "publishedAt": "2026-08-13T07:32:15.000Z",
+      "url": "https://www.huaweicentral.com/huawei-mate-90-series-excellent-launch-event/",
+      "image": "https://www.huaweicentral.com/wp-content/uploads/2026/02/Mate80Pro-global.jpg",
+      "summary": "Huawei Mate 60 series launch event was one of the company’s most excellent conferences as it marked the return of 5G Kirin chips but it looks like the 2026 flagship – Mate 90 can…",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-1bb9049d6717",
+      "title": "苹果最贵手机：曝 iPhone Ultra 下月 8 日发布，不与 iPhone 18 Pro / Max 同步上市",
+      "source": "IT之家",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-13",
+      "time": "07:14",
+      "publishedAt": "2026-08-13T07:14:22.000Z",
+      "url": "https://www.ithome.com/0/989/240.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/8/f777a3a9-5c02-4b2e-8194-52ef07a027cc.jpg?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 8 月 13 日消息，科技媒体 channelnews 今天（8 月 13 日）发布博文，报道称在 2026 年秋季发布会上，苹果不会公布其首款折叠手机（预估名为 iPhone Ultra）售价， 且不会和 iPhone 18 Pro 系列同步上市销售。 发布日期方面， 消息源称苹果公司计划 9 月 8 日召开 2026 秋季新品发布会 ，届时将…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-4cca7ec8cfa7",
+      "title": "Pixel 11 phones get seven years of spare parts to go with update policy",
+      "source": "Android Authority",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-13",
+      "time": "06:34",
+      "publishedAt": "2026-08-13T06:34:40.000Z",
+      "url": "https://www.androidauthority.com/google-pixel-11-seven-years-spare-parts-3698034/",
+      "image": "",
+      "summary": "This should give you some peace of mind if you need to swap your battery or fix your screen down the line.",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-f3527e99be78",
+      "title": "竹本青：【荣耀Robot Phone 工程师拆机直播官宣，将于明日举行】 ● 现场拆机，内部结构全公开 ● 了解机器人手机…",
+      "source": "竹本青",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-08-13",
+      "time": "06:19",
+      "publishedAt": "2026-08-13T06:19:57.000Z",
+      "url": "https://www.coolapk.com/feed/73216709",
+      "image": "http://image.coolapk.com/feed/2026/0813/14/4248714_7ddeae94_1995_4596_588@1586x3750.jpg",
+      "summary": "【荣耀Robot Phone 工程师拆机直播官宣，将于明日举行】 ● 现场拆机，内部结构全公开 ● 了解机器人手机研发的前世今生 ● 直播讲解新机权益 ＊直播时间：8月14日15:00 #今日热点# #荣耀ROBOTPHONE# #MagicOS10#",
+      "tags": [
+        "HONOR",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-ea59733d8a84",
+      "title": "小米神秘阔折叠手机现身澎湃 OS 4 Beta 版介绍页，有望为 MIX Fold 5",
+      "source": "IT之家",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-13",
+      "time": "06:14",
+      "publishedAt": "2026-08-13T06:14:07.000Z",
+      "url": "https://www.ithome.com/0/989/199.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/8/06e63eb1-af95-4033-a0bb-7e5fe957e19e.jpg?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 8 月 13 日消息，“小米澎湃 OS”官方微博今天发文，介绍了小米澎湃 OS 4 Beta 版亮点。 IT之家注意到，相应文章海报中赫然出现一款阔折叠手机，该机正面采用了大 R 角设计，摄像头位于手机右上角，有望为小米首款阔折叠 MIX Fold 5。 IT之家注意到，此前消息显示小米 MIX Fold 5 手机采用横置相机模组设计，搭载自研无…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-71a752daa60b",
+      "title": "Honor 700 may feature a 1.7-inch rear display; 12,000mAh phone also in the works",
+      "source": "Gizmochina",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-13",
+      "time": "05:59",
+      "publishedAt": "2026-08-13T05:59:38.000Z",
+      "url": "https://www.gizmochina.com/2026/08/13/honor-700-rear-display-12000mah-phone-wide-foldable-leak/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/05/Honor-600-Pro-300x235.png?x23692",
+      "summary": "Honor has just launched the futuristic Robot Phone in China and is scheduled to launch its next flagship, the Magic 9 series, on September 28 in the country. Apart from the Magic…",
+      "tags": [
+        "HONOR",
+        "爆料",
         "自动抓取"
       ]
     },
@@ -43,7 +203,7 @@ window.phoneRadarAuto = {
     },
     {
       "id": "coolapk-user-335521ead11d",
-      "title": "竹本青：【胡馨心：REDMI K100 Pro系列 会首批推送小米澎湃OS 4 正式版】 8月13日，小米澎湃OS 4首批…",
+      "title": "竹本青：REDMI K100 Pro系列将首批推送澎湃OS 4正式版",
       "source": "竹本青",
       "brand": "Xiaomi",
       "model": "Xiaomi 相关机型",
@@ -182,26 +342,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-40fef0668f29",
-      "title": "思特威推出 13MP 及 5MP 手机 CMOS 新品 SC1325CS 和 SC525CS",
-      "source": "IT之家",
-      "brand": "Pixel",
-      "model": "Pixel 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-13",
-      "time": "02:35",
-      "publishedAt": "2026-08-13T02:35:58.000Z",
-      "url": "https://www.ithome.com/0/989/108.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/8/de2c2e92-df46-4655-8d27-3f9d72266a30.png",
-      "summary": "IT之家 8 月 13 日消息，思特威今日宣布推出两款消费电子应用 CMOS 图像传感器升级新品 ——SC1325CS 和 SC525CS。 两款新品均基于思特威 SmartClarity-3 技术平台打造，搭载 SFCPixel 专利技术，能够满足主流智能手机的 主摄、前摄、超广角、微距 等需求。 此次推出的两款新品在功耗控制上实现了进一步优化 —— S…",
-      "tags": [
-        "Pixel",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "coolapk-user-f61917f8baef",
       "title": "JSCHEN小小狐：消息称荣耀 Magic9 系列或将于 9 月 28 日发布",
       "source": "JSCHEN小小狐",
@@ -219,66 +359,6 @@ window.phoneRadarAuto = {
         "HONOR",
         "爆料",
         "酷安博主"
-      ]
-    },
-    {
-      "id": "auto-cba1dfcdbc59",
-      "title": "手语人工智能首次进入消费级：谷歌 DeepMind 推出手语转文本模型",
-      "source": "IT之家",
-      "brand": "Pixel",
-      "model": "Pixel 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-13",
-      "time": "02:22",
-      "publishedAt": "2026-08-13T02:22:11.000Z",
-      "url": "https://www.ithome.com/0/989/105.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/8/785e340c-a734-46b1-a33b-7ea5feb1f691.jpg",
-      "summary": "IT之家 8 月 13 日消息，谷歌旗下人工智能实验室当地时间 12 日宣布推出一款大规模多语言手语转文本 (SL2T) 翻译模型。 得益于这一模型， 手语人工智能首次进入消费级产品 ：谷歌 Pixel 11 系列智能手机上的 Gboard 和 Live Transcribe 应用程序支持手语转文本输入功能（初期仅限美国手语，后续将扩展至更多种手语和更多设…",
-      "tags": [
-        "Pixel",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-4bc6a8d1b660",
-      "title": "小米澎湃 OS 4 Beta 版明日起陆续推送，柔光玻璃、超级小爱 2.0 等升级亮点公布",
-      "source": "IT之家",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-13",
-      "time": "01:54",
-      "publishedAt": "2026-08-13T01:54:35.000Z",
-      "url": "https://www.ithome.com/0/989/078.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/8/4ec0ad2a-10c7-46b3-ac3b-65287c222cdb.jpg",
-      "summary": "IT之家 8 月 13 日消息，小米澎湃 OS 官方公布了澎湃 OS 4 Beta 版推送计划，将于 8 月 14 日下午开启陆续推送。 8 月 14 日下午开启陆续推送 手机 Xiaomi 17 Ultra （含徕卡版） Xiaomi 17 Pro Max Xiaomi 17 Pro Xiaomi 17 REDMI K90 Pro Max （含冠军版）…",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-1aecedfd58c1",
-      "title": "曝荣耀 Magic9 系列定档 9 月 28 日：首批骁龙 2nm 旗舰芯，阿莱影像",
-      "source": "IT之家",
-      "brand": "HONOR",
-      "model": "HONOR 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-13",
-      "time": "01:25",
-      "publishedAt": "2026-08-13T01:25:40.000Z",
-      "url": "https://www.ithome.com/0/989/046.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/8/5dae09a3-4cfb-4264-ad93-48346dff398a.png?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 8 月 13 日消息，博主 @数码闲聊站 今日爆料， 荣耀 Magic9 系列定档 9 月 28 日 ： 200Mp 1/1.28\" 超大底主摄，F1.57 大光圈，支持 3°OIS 光学防抖； 200Mp 1/1.4\" 常规大底潜望长焦，F2.6 光圈，阿莱影像； 首批骁龙 2nm 旗舰芯。 爆料还显示，新机配备 6.8X 英寸 1.5K LT…",
-      "tags": [
-        "HONOR",
-        "爆料",
-        "自动抓取"
       ]
     },
     {
@@ -382,26 +462,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-4bc9c18e57bc",
-      "title": "Google Pixel 11系列正式发布，$899起",
-      "source": "酷安热榜",
-      "brand": "Pixel",
-      "model": "Pixel 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-08-13",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73207191",
-      "image": "",
-      "summary": "Google Pixel 11系列正式发布，$899起",
-      "tags": [
-        "Pixel",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
       "id": "newsnow-18c88e786b3d",
       "title": "小米阔折叠手机首次亮相：大R角设计，右上内屏镜头",
       "source": "酷安热榜",
@@ -422,7 +482,27 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-40c1fe3cf2f9",
+      "id": "newsnow-4bc9c18e57bc",
+      "title": "Google Pixel 11系列正式发布，$899起",
+      "source": "酷安热榜",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-08-13",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/73207191",
+      "image": "",
+      "summary": "Google Pixel 11系列正式发布，$899起",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-056590a49a31",
       "title": "手机壳 偷拍",
       "source": "微博热搜",
       "brand": "行业",
@@ -432,7 +512,7 @@ window.phoneRadarAuto = {
       "date": "2026-08-13",
       "time": "",
       "publishedAt": "",
-      "url": "https://s.weibo.com/weibo?q=%E6%89%8B%E6%9C%BA%E5%A3%B3%20%E5%81%B7%E6%8B%8D&t=31&band_rank=2&Refer=top",
+      "url": "https://s.weibo.com/weibo?q=%E6%89%8B%E6%9C%BA%E5%A3%B3%20%E5%81%B7%E6%8B%8D&t=31&band_rank=16&Refer=top",
       "image": "",
       "summary": "手机壳 偷拍",
       "tags": [
@@ -442,42 +522,42 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-d830b73c7598",
-      "title": "媒体曝茶颜悦色入职培训强制收手机、被子叠「豆腐块」，具体什么情况？企业的行为侵犯员工权益了吗？",
-      "source": "知乎热榜",
+      "id": "newsnow-444cb4399623",
+      "title": "手机价格全线暴涨",
+      "source": "今日头条热榜",
       "brand": "行业",
       "model": "智能手机市场",
-      "type": "市场报告",
+      "type": "爆料",
       "trust": "媒体汇总",
       "date": "2026-08-13",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.zhihu.com/question/2070982459156424668",
+      "url": "https://www.toutiao.com/trending/7673341653165162550/",
       "image": "",
-      "summary": "媒体曝茶颜悦色入职培训强制收手机、被子叠「豆腐块」，具体什么情况？企业的行为侵犯员工权益了吗？",
+      "summary": "手机价格全线暴涨",
       "tags": [
         "行业",
-        "市场报告",
+        "爆料",
         "NewsNow"
       ]
     },
     {
-      "id": "newsnow-56935a0bc022",
-      "title": "如何评价荣耀发布的全球首款机器人手机 Robot Phone，有哪些亮点和槽点？",
-      "source": "知乎热榜",
-      "brand": "HONOR",
-      "model": "HONOR 相关机型",
-      "type": "市场报告",
+      "id": "newsnow-bcbe19c9e7e1",
+      "title": "手机壳 偷拍",
+      "source": "百度热搜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
       "trust": "媒体汇总",
       "date": "2026-08-13",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.zhihu.com/question/2070661978675209184",
+      "url": "https://www.baidu.com/s?wd=%E6%89%8B%E6%9C%BA%E5%A3%B3+%E5%81%B7%E6%8B%8D",
       "image": "",
-      "summary": "如何评价荣耀发布的全球首款机器人手机 Robot Phone，有哪些亮点和槽点？",
+      "summary": "手机壳 偷拍",
       "tags": [
-        "HONOR",
-        "市场报告",
+        "行业",
+        "爆料",
         "NewsNow"
       ]
     },
@@ -1862,26 +1942,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "coolapk-user-8175a6aa0799",
-      "title": "竹本青：荣耀 Magic 9系列将于9月发布：现已开启预约",
-      "source": "竹本青",
-      "brand": "HONOR",
-      "model": "HONOR 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-08-12",
-      "time": "12:44",
-      "publishedAt": "2026-08-12T12:44:46.000Z",
-      "url": "https://www.coolapk.com/feed/73204649",
-      "image": "http://image.coolapk.com/feed/2026/0812/20/4248714_97912e98_8685_9079_78@2560x1440.jpg",
-      "summary": "【荣耀 Magic9系列 官宣9月发布：更聪明的YOYO，更强大的ARRI影像，现已开启预约】 8月12日，在荣耀Robot Phone发布会上，CEO李健宣布 Magic9系列 即日起开启预约，并将于9月正式发布。 “Robot Phone只是荣耀敢想、敢不同的起点，比Robot Phone更聪明的YOYO，更强大的ARRI影像，将在焕然一新的Magic…",
-      "tags": [
-        "HONOR",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
       "id": "auto-cf55c2101c7a",
       "title": "'iPhone Ultra' Screen Protectors Reveal Asymmetric Corners",
       "source": "MacRumors",
@@ -2062,26 +2122,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-4dd4ed244e76",
-      "title": "Huawei to launch two mysterious phones alongside Mate 90 next month",
-      "source": "Huawei Central",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-12",
-      "time": "08:36",
-      "publishedAt": "2026-08-12T08:36:08.000Z",
-      "url": "https://www.huaweicentral.com/two-mysterious-huawei-phones-launching-next-month/",
-      "image": "https://www.huaweicentral.com/wp-content/uploads/2026/05/Huawei-phone.jpg",
-      "summary": "Huawei Mate 90 series launch event is expected to take place on the 23rd of next month, and at the same time, the company could unveil two mysterious phones. A new leak suggests t…",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "weibo-ef9e6cdd7c5d",
       "title": "数码闲聊站：华为备案了9月23日发布代号为Haco的系列新品，或许是华为Mate90系列新…",
       "source": "数码闲聊站",
@@ -2119,26 +2159,6 @@ window.phoneRadarAuto = {
         "vivo",
         "爆料",
         "自动抓取"
-      ]
-    },
-    {
-      "id": "weibo-a94015fdfbcb",
-      "title": "数码闲聊站：iPhone 20 Pro系列内部代号V73/V74，从供应链摸到的两块新屏物…",
-      "source": "数码闲聊站",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-08-12",
-      "time": "03:49",
-      "publishedAt": "2026-08-12T03:49:00.000Z",
-      "url": "https://weibo.com/6048569942/Rd1WdtnG1",
-      "image": "https://tvax2.sinaimg.cn/mw2000/006BlblIgy1ifzyzqxk1aj30xv0wln6w.jpg",
-      "summary": "iPhone 20 Pro系列内部代号V73/V74，从供应链摸到的两块新屏物理尺寸增大，屏幕比例不变，猜测是运用了全新无边四曲面设计。 苹果的无边四曲面猜测是2D直屏+玻璃盖板，利用玻璃的光学折射和形态设计，营造出视觉无边的效果，再结合液态玻璃UI，苹果要把玻璃玩出花了[并不简单]",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "微博"
       ]
     },
     {
