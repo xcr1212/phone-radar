@@ -1,5 +1,5 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-08-13T09:32:52.226Z",
+  "updatedAt": "2026-08-13T11:10:08.965Z",
   "issueDate": "2026-08-13",
   "issue": "VOL.260813",
   "title": "手机情报日报",
@@ -17,29 +17,6 @@ window.phoneRadarDaily = {
       "title": "重点爆料",
       "hint": "机模、配色、影像、屏幕、电池和芯片线索先看。",
       "items": [
-        {
-          "id": "auto-1bb9049d6717",
-          "title": "苹果最贵手机：曝 iPhone Ultra 下月 8 日发布，不与 iPhone 18 Pro / Max 同步上市",
-          "originalTitle": "",
-          "source": "IT之家",
-          "brand": "iPhone",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-08-13",
-          "time": "07:14",
-          "publishedAt": "2026-08-13T07:14:22.000Z",
-          "url": "https://www.ithome.com/0/989/240.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/8/f777a3a9-5c02-4b2e-8194-52ef07a027cc.jpg?x-bce-process=image/format,f_auto",
-          "verdict": "先看",
-          "takeaway": "IT之家 8 月 13 日消息，科技媒体 channelnews 今天（8 月 13 日）发布博文，报道称在 2026 年秋季发布会上，苹果不会公布其首款折叠手机（预估名为 iPhone Ultra）售价， 且不会和 iPhone 18 Pro 系列同步上市销售。 发布日期方面， 消息源称苹果公司计划 9 月 8 日召开 2026 秋季新品发布会 ，届时将…",
-          "detail": "IT之家 8 月 13 日消息，科技媒体 channelnews 今天（8 月 13 日）发布博文，报道称在 2026 年秋季发布会上，苹果不会公布其首款折叠手机（预估名为 iPhone Ultra）售价， 且不会和 iPhone 18 Pro 系列同步上市销售。 发布日期方面， 消息源称苹果公司计划 9 月 8 日召开 2026 秋季新品发布会 ，届时将…",
-          "keyPoints": [
-            "成本 / 价格"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
         {
           "id": "newsnow-1c08256cde19",
           "title": "就这款机子而言，无论黑子再怎么黑，它也是牛逼。手机圈已经很久没有创新性产品了，而且还是量产机型。iphone的价格买到了旗舰安卓机+口袋云台设备，这价格没问题。",
@@ -65,24 +42,23 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
-          "id": "auto-ea59733d8a84",
-          "title": "小米神秘阔折叠手机现身澎湃 OS 4 Beta 版介绍页，有望为 MIX Fold 5",
+          "id": "auto-298f4883eed8",
+          "title": "iPhone 相关消息",
           "originalTitle": "",
-          "source": "IT之家",
-          "brand": "Xiaomi",
+          "source": "MacRumors",
+          "brand": "iPhone",
           "type": "爆料",
           "trust": "媒体汇总",
           "date": "2026-08-13",
-          "time": "06:14",
-          "publishedAt": "2026-08-13T06:14:07.000Z",
-          "url": "https://www.ithome.com/0/989/199.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/8/06e63eb1-af95-4033-a0bb-7e5fe957e19e.jpg?x-bce-process=image/format,f_auto",
+          "time": "10:02",
+          "publishedAt": "2026-08-13T10:02:43.000Z",
+          "url": "https://www.macrumors.com/2026/08/13/base-iphone-18-two-pro-level-upgrades/",
+          "image": "https://images.macrumors.com/article-new/2025/09/iPhone-17-Colors.jpg",
           "verdict": "先看",
-          "takeaway": "IT之家 8 月 13 日消息，“小米澎湃 OS”官方微博今天发文，介绍了小米澎湃 OS 4 Beta 版亮点。 IT之家注意到，相应文章海报中赫然出现一款阔折叠手机，该机正面采用了大 R 角设计，摄像头位于手机右上角，有望为小米首款阔折叠 MIX Fold 5。 IT之家注意到，此前消息显示小米 MIX Fold 5 手机采用横置相机模组设计，搭载自研无…",
-          "detail": "IT之家 8 月 13 日消息，“小米澎湃 OS”官方微博今天发文，介绍了小米澎湃 OS 4 Beta 版亮点。 IT之家注意到，相应文章海报中赫然出现一款阔折叠手机，该机正面采用了大 R 角设计，摄像头位于手机右上角，有望为小米首款阔折叠 MIX Fold 5。 IT之家注意到，此前消息显示小米 MIX Fold 5 手机采用横置相机模组设计，搭载自研无…",
+          "takeaway": "iPhone 相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
+          "detail": "iPhone 相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
           "keyPoints": [
-            "外观 / 配色 / 尺寸",
-            "影像硬件"
+            "爆料"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
@@ -203,6 +179,29 @@ window.phoneRadarDaily = {
           "keyPoints": [
             "外观 / 配色 / 尺寸",
             "爆料来源"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "auto-03a3478688e4",
+          "title": "荣耀官宣明日直播拆解 Robot Phone 手机，公开内部结构",
+          "originalTitle": "",
+          "source": "IT之家",
+          "brand": "HONOR",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-08-13",
+          "time": "10:13",
+          "publishedAt": "2026-08-13T10:13:32.000Z",
+          "url": "https://www.ithome.com/0/989/376.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/8/eac6f42f-8319-4fa7-8432-bb66642f34fa.jpg?x-bce-process=image/format,f_auto",
+          "verdict": "先看",
+          "takeaway": "IT之家 8 月 13 日消息，荣耀官方今日宣布， 将在明天 15:00 直播工程师拆解 Robot Phone 手机 ，并公开其内部结构。 据IT之家昨晚报道，在 荣耀 Robot Phone 全球新品发布会上， 全球首款机器人手机 —— 荣耀 Robot Phone 正式发布 ，定价 9,999 元起。 12GB+512GB：9,999 元 16GB+…",
+          "detail": "IT之家 8 月 13 日消息，荣耀官方今日宣布， 将在明天 15:00 直播工程师拆解 Robot Phone 手机 ，并公开其内部结构。 据IT之家昨晚报道，在 荣耀 Robot Phone 全球新品发布会上， 全球首款机器人手机 —— 荣耀 Robot Phone 正式发布 ，定价 9,999 元起。 12GB+512GB：9,999 元 16GB+…",
+          "keyPoints": [
+            "爆料"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",

@@ -1,6 +1,186 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-08-13T09:32:52.226Z",
+  "updatedAt": "2026-08-13T11:10:08.965Z",
   "news": [
+    {
+      "id": "auto-ee3853aef048",
+      "title": "3 camera features the Pixel 11 series quietly stole from other Android phones",
+      "source": "Android Authority",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-13",
+      "time": "10:30",
+      "publishedAt": "2026-08-13T10:30:45.000Z",
+      "url": "https://www.androidauthority.com/camera-features-pixel-11-copied-other-brands-3697036/",
+      "image": "",
+      "summary": "Good artists copy and all that.",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-03a3478688e4",
+      "title": "荣耀官宣明日直播拆解 Robot Phone 手机，公开内部结构",
+      "source": "IT之家",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-13",
+      "time": "10:13",
+      "publishedAt": "2026-08-13T10:13:32.000Z",
+      "url": "https://www.ithome.com/0/989/376.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/8/eac6f42f-8319-4fa7-8432-bb66642f34fa.jpg?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 8 月 13 日消息，荣耀官方今日宣布， 将在明天 15:00 直播工程师拆解 Robot Phone 手机 ，并公开其内部结构。 据IT之家昨晚报道，在 荣耀 Robot Phone 全球新品发布会上， 全球首款机器人手机 —— 荣耀 Robot Phone 正式发布 ，定价 9,999 元起。 12GB+512GB：9,999 元 16GB+…",
+      "tags": [
+        "HONOR",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-a8d32dc74881",
+      "title": "小米澎湃 HyperOS 4「柔光玻璃」适配机型公布，要求骁龙 8 至尊版 / 天玑 9500 / 玄戒 O1 处理器",
+      "source": "IT之家",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-13",
+      "time": "10:04",
+      "publishedAt": "2026-08-13T10:04:40.000Z",
+      "url": "https://www.ithome.com/0/989/369.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/8/30c3bbac-b26d-48dd-bd83-5b42879a7eb3.png?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 8 月 13 日消息，今天上午， 小米开启了澎湃 HyperOS 4 系统的首批机型 Beta 版招募 ，覆盖小米 17、 REDMI K90 系列等机型。 据介绍，新系统带来了「柔光玻璃」特性，支持感知环境颜色，自然融合；感知内容属性，自适应通透度；感知交互行为，激发灵动光效响应操作等。 IT之家注意到，目前小米官网已公布适配「柔光玻璃」特性的…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-298f4883eed8",
+      "title": "Base iPhone 18 Tipped to Get These Two Pro-Level Upgrades",
+      "source": "MacRumors",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-13",
+      "time": "10:02",
+      "publishedAt": "2026-08-13T10:02:43.000Z",
+      "url": "https://www.macrumors.com/2026/08/13/base-iphone-18-two-pro-level-upgrades/",
+      "image": "https://images.macrumors.com/article-new/2025/09/iPhone-17-Colors.jpg",
+      "summary": "The base iPhone 18 model that Apple is expected to release by March 2027 will be equipped with 12GB of RAM, up from 8GB in the iPhone 17, according to analyst Jeff Pu. Pu's latest…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-267ba6609bb8",
+      "title": "竹本青：【iQOO Neo11 至尊版 宣布行业首发天玑9500M处理器】 ● iQOO × MediaTek 联合定制…",
+      "source": "竹本青",
+      "brand": "vivo",
+      "model": "vivo 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-08-13",
+      "time": "10:02",
+      "publishedAt": "2026-08-13T10:02:12.000Z",
+      "url": "https://www.coolapk.com/feed/73220455",
+      "image": "http://image.coolapk.com/feed/2026/0813/18/4248714_7c4fe30d_5328_8218_375@2494x3325.jpg",
+      "summary": "【iQOO Neo11 至尊版 宣布行业首发天玑9500M处理器】 ● iQOO × MediaTek 联合定制 ● 新一代Monster 超核引擎写入芯片底层 ● 全大核 CPU架构 ＊天玑9500M 处理器：4.21GHz 全大核CPU频率不变，GPU砍了一个核心变成MC11。 #今日热点# #iQOONeo11至尊版# #OriginOS6#",
+      "tags": [
+        "vivo",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-d739ff434eb5",
+      "title": "Google had one hardware problem to solve with the Pixel 11, and it failed",
+      "source": "Android Authority",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-13",
+      "time": "10:00",
+      "publishedAt": "2026-08-13T10:00:31.000Z",
+      "url": "https://www.androidauthority.com/google-pixel-11-hardware-problem-3696877/",
+      "image": "",
+      "summary": "Pixel's weight-loss journey needs another season.",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-fb66fff819c3",
+      "title": "Google just (accidentally?) teased Harry Potter theme packs on Pixel 11",
+      "source": "Android Authority",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-13",
+      "time": "09:59",
+      "publishedAt": "2026-08-13T09:59:30.000Z",
+      "url": "https://www.androidauthority.com/google-pixel-11-harry-potter-theme-pack-3698127/",
+      "image": "",
+      "summary": "The evidence is hidden in plain sight on Pixel 11 demo units.",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-4700dc1ebafc",
+      "title": "Google is quietly giving these Pixel apps a brand-new look after Pixel 11 launch",
+      "source": "Android Authority",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-13",
+      "time": "09:52",
+      "publishedAt": "2026-08-13T09:52:36.000Z",
+      "url": "https://www.androidauthority.com/google-pixel-redesigned-app-icons-3698145/",
+      "image": "",
+      "summary": "Blink and you might miss Google's adorable Pixel makeover.",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-cb5d0693a3a3",
+      "title": "Honor Magic 9 series to embrace dual 200MP camera expertise",
+      "source": "Huawei Central",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-13",
+      "time": "09:51",
+      "publishedAt": "2026-08-13T09:51:20.000Z",
+      "url": "https://www.huaweicentral.com/honor-magic-9-series-to-embrace-dual-200mp-camera-expertise/",
+      "image": "https://www.huaweicentral.com/wp-content/uploads/2026/05/Magic8Pro.jpg",
+      "summary": "After ROBOT PHONE, Honor is now up with the Magic 9 series launch preparations and it seems the flagship smartphone lineup will embrace ARRI imaging solutions and dual 200MP camer…",
+      "tags": [
+        "HONOR",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-ee8182165abf",
       "title": "Google Pixel 11 vs. Galaxy S26: 6 reasons I’m buying Pixel this year",
@@ -43,7 +223,7 @@ window.phoneRadarAuto = {
     },
     {
       "id": "coolapk-user-a28024b8b67a",
-      "title": "JSCHEN小小狐：『iQOO Neo11 至尊版预热汇总：天玑 9500M』 ◇ 天玑 9500M 平台（GPU 12 核 → 11…",
+      "title": "JSCHEN小小狐：iQOO Neo11 至尊版预热汇总：天玑 9500M",
       "source": "JSCHEN小小狐",
       "brand": "vivo",
       "model": "vivo 相关机型",
@@ -262,26 +442,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-1bb9049d6717",
-      "title": "苹果最贵手机：曝 iPhone Ultra 下月 8 日发布，不与 iPhone 18 Pro / Max 同步上市",
-      "source": "IT之家",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-13",
-      "time": "07:14",
-      "publishedAt": "2026-08-13T07:14:22.000Z",
-      "url": "https://www.ithome.com/0/989/240.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/8/f777a3a9-5c02-4b2e-8194-52ef07a027cc.jpg?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 8 月 13 日消息，科技媒体 channelnews 今天（8 月 13 日）发布博文，报道称在 2026 年秋季发布会上，苹果不会公布其首款折叠手机（预估名为 iPhone Ultra）售价， 且不会和 iPhone 18 Pro 系列同步上市销售。 发布日期方面， 消息源称苹果公司计划 9 月 8 日召开 2026 秋季新品发布会 ，届时将…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-4cca7ec8cfa7",
       "title": "Pixel 11 phones get seven years of spare parts to go with update policy",
       "source": "Android Authority",
@@ -322,26 +482,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-ea59733d8a84",
-      "title": "小米神秘阔折叠手机现身澎湃 OS 4 Beta 版介绍页，有望为 MIX Fold 5",
-      "source": "IT之家",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-13",
-      "time": "06:14",
-      "publishedAt": "2026-08-13T06:14:07.000Z",
-      "url": "https://www.ithome.com/0/989/199.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/8/06e63eb1-af95-4033-a0bb-7e5fe957e19e.jpg?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 8 月 13 日消息，“小米澎湃 OS”官方微博今天发文，介绍了小米澎湃 OS 4 Beta 版亮点。 IT之家注意到，相应文章海报中赫然出现一款阔折叠手机，该机正面采用了大 R 角设计，摄像头位于手机右上角，有望为小米首款阔折叠 MIX Fold 5。 IT之家注意到，此前消息显示小米 MIX Fold 5 手机采用横置相机模组设计，搭载自研无…",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-71a752daa60b",
       "title": "Honor 700 may feature a 1.7-inch rear display; 12,000mAh phone also in the works",
       "source": "Gizmochina",
@@ -379,26 +519,6 @@ window.phoneRadarAuto = {
         "HONOR",
         "爆料",
         "自动抓取"
-      ]
-    },
-    {
-      "id": "coolapk-user-335521ead11d",
-      "title": "竹本青：REDMI K100 Pro系列将首批推送澎湃OS 4正式版",
-      "source": "竹本青",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-08-13",
-      "time": "05:21",
-      "publishedAt": "2026-08-13T05:21:33.000Z",
-      "url": "https://www.coolapk.com/feed/73215784",
-      "image": "http://image.coolapk.com/feed/2026/0813/13/4248714_611f7816_8491_8617_669@1272x797.jpg",
-      "summary": "【胡馨心：REDMI K100 Pro系列 会首批推送小米澎湃OS 4 正式版】 8月13日，小米澎湃OS 4首批Beta版招募机型官宣。去年发布的REDMI K90、K90 Pro Max两款手机入选名单，将在明日率先开启内测。 而刚刚发布两天的 K100 Pro系列 却并未纳入首批Beta版招募，需等至9月17日（第三批）才将陆续推送。因此，该更新节奏…",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "酷安博主"
       ]
     },
     {
@@ -662,21 +782,21 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-4bc9c18e57bc",
-      "title": "Google Pixel 11系列正式发布，$899起",
+      "id": "newsnow-72948de38b8f",
+      "title": "REDMI K100 Pro系列将首批推送澎湃OS 4正式版",
       "source": "酷安热榜",
-      "brand": "Pixel",
-      "model": "Pixel 相关机型",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-08-13",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73207191",
+      "url": "https://www.coolapk.com/feed/73215784",
       "image": "",
-      "summary": "Google Pixel 11系列正式发布，$899起",
+      "summary": "REDMI K100 Pro系列将首批推送澎湃OS 4正式版",
       "tags": [
-        "Pixel",
+        "Xiaomi",
         "爆料",
         "NewsNow"
       ]
@@ -722,9 +842,9 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-bcbe19c9e7e1",
-      "title": "手机壳 偷拍",
-      "source": "百度热搜",
+      "id": "newsnow-a8f37d913287",
+      "title": "手机的下一代交互样本来了",
+      "source": "今日头条热榜",
       "brand": "行业",
       "model": "智能手机市场",
       "type": "爆料",
@@ -732,29 +852,9 @@ window.phoneRadarAuto = {
       "date": "2026-08-13",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.baidu.com/s?wd=%E6%89%8B%E6%9C%BA%E5%A3%B3+%E5%81%B7%E6%8B%8D",
+      "url": "https://www.toutiao.com/trending/7673350841218108969/",
       "image": "",
-      "summary": "手机壳 偷拍",
-      "tags": [
-        "行业",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-a6b8932ae0f8",
-      "title": "全球智能手机Q2营收超千亿美元",
-      "source": "抖音热点",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "待验证",
-      "date": "2026-08-13",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.douyin.com/hot/2607986",
-      "image": "",
-      "summary": "全球智能手机Q2营收超千亿美元",
+      "summary": "手机的下一代交互样本来了",
       "tags": [
         "行业",
         "爆料",
@@ -1002,26 +1102,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-cbd5aab15243",
-      "title": "Verizon's Pixel 11 deals sound great until you read the fine print",
-      "source": "Android Police",
-      "brand": "Pixel",
-      "model": "Pixel 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-12",
-      "time": "16:54",
-      "publishedAt": "2026-08-12T16:54:28.000Z",
-      "url": "https://www.androidpolice.com/verizon-pixel-11-deals/",
-      "image": "",
-      "summary": "A 48-month commitment is a long time",
-      "tags": [
-        "Pixel",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-8b1ea5df0fc8",
       "title": "iPhone 18 Pro: Apple Secures Lower Display Prices Amid RAM Shortage",
       "source": "MacRumors",
@@ -1155,26 +1235,6 @@ window.phoneRadarAuto = {
       "url": "https://9to5google.com/2026/08/12/where-to-buy-the-pixel-11-pixel-11-pro/",
       "image": "",
       "summary": "Google just launched the Pixel 11 series with a few shiny new features – literally. All four Pixel 11 devices are available for pre-order, during which some of the best deals come…",
-      "tags": [
-        "Pixel",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-03cf6c6fdce5",
-      "title": "T-Mobile is giving away the Pixel 11 Pro and 11 Pro XL",
-      "source": "Android Police",
-      "brand": "Pixel",
-      "model": "Pixel 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-12",
-      "time": "15:45",
-      "publishedAt": "2026-08-12T15:45:53.000Z",
-      "url": "https://www.androidpolice.com/t-mobile-pixel-11-deals-are-now-live/",
-      "image": "",
-      "summary": "This might be the carrier deal to go with",
       "tags": [
         "Pixel",
         "爆料",
@@ -2018,26 +2078,6 @@ window.phoneRadarAuto = {
       "tags": [
         "Pixel",
         "官方",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-05aac394c2db",
-      "title": "Honor Magic 9 series launch confirmed for September, pre-order begins",
-      "source": "Huawei Central",
-      "brand": "HONOR",
-      "model": "HONOR 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-12",
-      "time": "13:57",
-      "publishedAt": "2026-08-12T13:57:53.000Z",
-      "url": "https://www.huaweicentral.com/honor-magic-9-series-launch-confirmed-for-september/",
-      "image": "https://www.huaweicentral.com/wp-content/uploads/2026/08/Magic9-pre-order.jpg",
-      "summary": "Honor has announced some big news today, alongside unveiling the ROBOT PHONE – Magic 9 series will launch in September. While some rumors have already predicted the timeline, the…",
-      "tags": [
-        "HONOR",
-        "爆料",
         "自动抓取"
       ]
     },
