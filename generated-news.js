@@ -1,6 +1,126 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-08-13T13:46:08.518Z",
+  "updatedAt": "2026-08-13T15:14:11.880Z",
   "news": [
+    {
+      "id": "auto-f2c39cd3f551",
+      "title": "Will the iPhone Ultra avoid the issue that can still kill Samsung foldables?",
+      "source": "9to5Mac",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-13",
+      "time": "15:00",
+      "publishedAt": "2026-08-13T15:00:37.000Z",
+      "url": "https://9to5mac.com/2026/08/13/will-the-iphone-ultra-avoid-the-issue-that-can-still-kill-samsung-foldables/",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/Will-the-iPhone-Ultra-avoid-the-issue-that-can-still-kill-Samsung-foldables.jpg?quality=82&strip=all&w=1500",
+      "summary": "The very first Samsung Galaxy Fold launched back in 2019 proved so vulnerable to screen damage by dust and dirt ingress that the company cancelled all pre-orders for the device. E…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-aefdb7a19415",
+      "title": "Galaxy Z Fold8 Teardown: Samsung’s Best Foldable Still Has a Hinge Problem",
+      "source": "iFixit News",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-08-13",
+      "time": "14:47",
+      "publishedAt": "2026-08-13T14:47:24.000Z",
+      "url": "https://www.ifixit.com/News/118647/galaxy-z-fold8-teardown-samsungs-best-foldable-still-has-a-hinge-problem",
+      "image": "",
+      "summary": "The Galaxy Z Fold8 is the nicest foldable Samsung has made. It’s thinner, lighter, and, crucially, shaped less like a weird folding tech demo and more like a normal expensive…",
+      "tags": [
+        "Samsung",
+        "评测",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-0446c5230da6",
+      "title": "Google’s Tensor G6 in Pixel 11 isn’t the first 2nm smartphone chip after all",
+      "source": "9to5Google",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-13",
+      "time": "14:30",
+      "publishedAt": "2026-08-13T14:30:00.000Z",
+      "url": "https://9to5google.com/2026/08/13/google-pixel-11-tensor-g6-chip-report/",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/08/Tensor-G6.jpg?quality=82&strip=all&w=1600",
+      "summary": "It was rumored that Google’s new Tensor G6, debuting in the Pixel 11, would be the first smartphone chip using TSMC’s 2nm process, but it turns out that won’t be the case.",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-9e89dc1d0274",
+      "title": "超薄机身的代价：iFixit 为三星 Galaxy Z Fold8 可维修性打出 4/10 分",
+      "source": "IT之家",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-13",
+      "time": "14:22",
+      "publishedAt": "2026-08-13T14:22:31.000Z",
+      "url": "https://www.ithome.com/0/989/469.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/8/a082a0fd-62f9-4bb8-8182-179cd5914a6a.jpg?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 8 月 13 日消息，iFixit 今天（13 日）晚间公布了 三星 Galaxy Z Fold8 的可维修性评测报告，结果显示，超薄机身依然是以 牺牲可维修 性为代价实现的。 iFixit 给 Galaxy Z Fold8 打出了 4/10 的可维修性评分。 过于脆弱的内屏、复杂的铰链结构，以及实际防护能力有限的防尘等级 ，都是主要扣分项。 G…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-873cd3702a8e",
+      "title": "iPhone 18 Pro and iPhone Ultra: When is the Next Apple Event?",
+      "source": "MacRumors",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-13",
+      "time": "14:11",
+      "publishedAt": "2026-08-13T14:11:35.000Z",
+      "url": "https://www.macrumors.com/2026/08/13/when-is-iphone-18-pro-iphone-ultra-apple-event/",
+      "image": "https://images.macrumors.com/article-new/2026/04/Four-iPhone-18-Pro-Colors-Mock-Feature.jpg",
+      "summary": "It is now mid-August, meaning that Apple's annual iPhone event is just around the corner. Below, we take a look at when the event might be held this year. This September, Apple is…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-c069d9753a4e",
+      "title": "Impressive Pixel 11 Pro Fold still can’t beat the Galaxy Z Fold 8’s desirability",
+      "source": "SamMobile",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-13",
+      "time": "14:00",
+      "publishedAt": "2026-08-13T14:00:00.000Z",
+      "url": "https://www.sammobile.com/opinion/impressive-pixel-11-pro-fold-cant-beat-galaxy-z-fold-8-desirability/",
+      "image": "",
+      "summary": "Samsung has had to make the deliberate choice of reserving some of its best specs for the Ultra variants of its Galaxy S flagships while giving its Galaxy Z foldables just enough…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-a64bae26ebcd",
       "title": "消息称苹果首款折叠屏手机 iPhone Ultra 产能有限，首批货源优先供应美国市场",
@@ -43,7 +163,7 @@ window.phoneRadarAuto = {
     },
     {
       "id": "auto-0b5df398f8e1",
-      "title": "'iPhone Ultra' Could Face Staggered Country Rollout Like Vision Pro",
+      "title": "'iPhone Ultra' Could Face Staggered Market Rollout, US Only at Launch",
       "source": "MacRumors",
       "brand": "iPhone",
       "model": "iPhone 相关机型",
@@ -54,7 +174,7 @@ window.phoneRadarAuto = {
       "publishedAt": "2026-08-13T12:56:51.000Z",
       "url": "https://www.macrumors.com/2026/08/13/iphone-ultra-staggered-country-rollout/",
       "image": "https://images.macrumors.com/article-new/2025/08/Apple-Foldable-Thumb.jpg",
-      "summary": "Apple's foldable \"iPhone Ultra\" may get a Vision Pro-style staggered country-by-country launch over several months, with initial availability limited to the U.S. market, according…",
+      "summary": "Apple's upcoming foldable \"iPhone Ultra\" may see a staggered country-by-country launch over several months, with initial availability limited to the U.S. market, according to an A…",
       "tags": [
         "iPhone",
         "爆料",
@@ -123,7 +243,7 @@ window.phoneRadarAuto = {
     },
     {
       "id": "coolapk-user-5d9d3e2d325d",
-      "title": "竹本青：【大疆Osmo 360 II 全景运动相机 正式发布，售价3299元起】 标准套装 —— 3299元（图4） 无界…",
+      "title": "竹本青：大疆Osmo 360 II 全景运动相机正式发布，售价3299元起",
       "source": "竹本青",
       "brand": "行业",
       "model": "智能手机市场",
@@ -217,46 +337,6 @@ window.phoneRadarAuto = {
       "summary": "Good artists copy and all that.",
       "tags": [
         "Pixel",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-03a3478688e4",
-      "title": "荣耀官宣明日直播拆解 Robot Phone 手机，公开内部结构",
-      "source": "IT之家",
-      "brand": "HONOR",
-      "model": "HONOR 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-13",
-      "time": "10:13",
-      "publishedAt": "2026-08-13T10:13:32.000Z",
-      "url": "https://www.ithome.com/0/989/376.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/8/eac6f42f-8319-4fa7-8432-bb66642f34fa.jpg?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 8 月 13 日消息，荣耀官方今日宣布， 将在明天 15:00 直播工程师拆解 Robot Phone 手机 ，并公开其内部结构。 据IT之家昨晚报道，在 荣耀 Robot Phone 全球新品发布会上， 全球首款机器人手机 —— 荣耀 Robot Phone 正式发布 ，定价 9,999 元起。 12GB+512GB：9,999 元 16GB+…",
-      "tags": [
-        "HONOR",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-a8d32dc74881",
-      "title": "小米澎湃 HyperOS 4「柔光玻璃」适配机型公布，要求骁龙 8 至尊版 / 天玑 9500 / 玄戒 O1 处理器",
-      "source": "IT之家",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-13",
-      "time": "10:04",
-      "publishedAt": "2026-08-13T10:04:40.000Z",
-      "url": "https://www.ithome.com/0/989/369.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/8/30c3bbac-b26d-48dd-bd83-5b42879a7eb3.png?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 8 月 13 日消息，今天上午， 小米开启了澎湃 HyperOS 4 系统的首批机型 Beta 版招募 ，覆盖小米 17、 REDMI K90 系列等机型。 据介绍，新系统带来了「柔光玻璃」特性，支持感知环境颜色，自然融合；感知内容属性，自适应通透度；感知交互行为，激发灵动光效响应操作等。 IT之家注意到，目前小米官网已公布适配「柔光玻璃」特性的…",
-      "tags": [
-        "Xiaomi",
         "爆料",
         "自动抓取"
       ]
@@ -862,6 +942,26 @@ window.phoneRadarAuto = {
       ]
     },
     {
+      "id": "newsnow-9f26de809977",
+      "title": "iPhone18系列发布节奏确认",
+      "source": "微博热搜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "待验证",
+      "date": "2026-08-13",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://s.weibo.com/weibo?q=%23iPhone18%E7%B3%BB%E5%88%97%E5%8F%91%E5%B8%83%E8%8A%82%E5%A5%8F%E7%A1%AE%E8%AE%A4%23&t=31&band_rank=18&Refer=top",
+      "image": "",
+      "summary": "iPhone18系列发布节奏确认",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
       "id": "newsnow-ceb390cf5315",
       "title": "红米新品发布后，小米高管回应网友评论称「内存实在太贵了」，反映了当前手机行业哪些挑战？",
       "source": "知乎热榜",
@@ -895,46 +995,6 @@ window.phoneRadarAuto = {
       "url": "https://www.toutiao.com/trending/7673341653165162550/",
       "image": "",
       "summary": "手机价格全线暴涨",
-      "tags": [
-        "行业",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-a8f37d913287",
-      "title": "手机的下一代交互样本来了",
-      "source": "今日头条热榜",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-13",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.toutiao.com/trending/7673350841218108969/",
-      "image": "",
-      "summary": "手机的下一代交互样本来了",
-      "tags": [
-        "行业",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-241fde9f37f3",
-      "title": "百花奖颁奖当晚评审全程没收手机",
-      "source": "今日头条热榜",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-13",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.toutiao.com/trending/7672243634826182719/",
-      "image": "",
-      "summary": "百花奖颁奖当晚评审全程没收手机",
       "tags": [
         "行业",
         "爆料",
@@ -2142,26 +2202,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-1e262bfad738",
-      "title": "'Everyone' at Apple Apparently Calls Foldable 'iPhone Ultra'",
-      "source": "MacRumors",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-12",
-      "time": "13:47",
-      "publishedAt": "2026-08-12T13:47:13.000Z",
-      "url": "https://www.macrumors.com/2026/08/12/everyone-at-apple-says-iphone-ultra/",
-      "image": "https://images.macrumors.com/article-new/2025/08/Apple-Foldable-Thumb.jpg",
-      "summary": "Bloomberg 's Mark Gurman has said \"everyone\" inside Apple refers to the company's upcoming foldable iPhone as the \" iPhone Ultra \" internally, though he cautioned that doesn't nec…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-22660e442261",
       "title": "Foxconn used to make half its revenue from Apple; now it’s below 29%",
       "source": "9to5Mac",
@@ -2175,26 +2215,6 @@ window.phoneRadarAuto = {
       "url": "https://9to5mac.com/2026/08/12/foxconn-used-to-make-half-its-revenue-from-apple-now-its-below-29/",
       "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/Foxconn-used-to-make-half-its-revenue-from-Apple-now-its-below-29pc.jpg?quality=82&strip=all&w=1600",
       "summary": "As Apple’s lead iPhone assembler, contract manufacturing company Foxconn long made more than half of its revenue from the Cupertino company. As of the last quarter, however, that…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-cf55c2101c7a",
-      "title": "'iPhone Ultra' Screen Protectors Reveal Asymmetric Corners",
-      "source": "MacRumors",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-12",
-      "time": "12:44",
-      "publishedAt": "2026-08-12T12:44:10.000Z",
-      "url": "https://www.macrumors.com/2026/08/12/iphone-ultra-screen-protectors-reveal-asymmetry/",
-      "image": "https://images.macrumors.com/article-new/2025/03/Foldable-iPhone-2023-Feature-Iridescent-1.jpg",
-      "summary": "The leaker known as \"Ice Universe\" today shared images and a hands on video of screen protectors for Apple's rumored \" iPhone Ultra ,\" and the leak appears to confirm two of the m…",
       "tags": [
         "iPhone",
         "爆料",
@@ -2319,26 +2339,6 @@ window.phoneRadarAuto = {
         "Huawei",
         "爆料",
         "微博"
-      ]
-    },
-    {
-      "id": "auto-92bf774e39d9",
-      "title": "Vivo X500, iQOO 16 latest certification reveals charging speeds, September launch expected",
-      "source": "Gizmochina",
-      "brand": "vivo",
-      "model": "vivo 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-12",
-      "time": "05:13",
-      "publishedAt": "2026-08-12T05:13:49.000Z",
-      "url": "https://www.gizmochina.com/2026/08/12/vivo-x500-and-iqoo-16-3c-certified/",
-      "image": "https://www.gizmochina.com/wp-content/uploads/2026/06/Vivo-X300-300x225.jpg?x23692",
-      "summary": "Two new Vivo phones bearing the model numbers V2609A and V2606A were spotted at China’s SRRC (radio certification) and MIIT in recent weeks. Both phones have now passed 3C certifi…",
-      "tags": [
-        "vivo",
-        "爆料",
-        "自动抓取"
       ]
     },
     {

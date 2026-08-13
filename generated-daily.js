@@ -1,11 +1,11 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-08-13T13:46:08.518Z",
+  "updatedAt": "2026-08-13T15:14:11.880Z",
   "issueDate": "2026-08-13",
   "issue": "VOL.260813",
   "title": "手机情报日报",
-  "intro": "今日筛出 9 条重点，其中 8 条是重点爆料，包含 9 条 iPhone 相关、0 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 10 条重点，其中 8 条是重点爆料，包含 9 条 iPhone 相关、0 条官方确认、0 条参数线索。",
   "stats": {
-    "total": 9,
+    "total": 10,
     "iphone": 9,
     "leaks": 8,
     "official": 0,
@@ -66,8 +66,31 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
-          "id": "auto-0b5df398f8e1",
+          "id": "auto-873cd3702a8e",
           "title": "iPhone 相关消息",
+          "originalTitle": "",
+          "source": "MacRumors",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-08-13",
+          "time": "14:11",
+          "publishedAt": "2026-08-13T14:11:35.000Z",
+          "url": "https://www.macrumors.com/2026/08/13/when-is-iphone-18-pro-iphone-ultra-apple-event/",
+          "image": "https://images.macrumors.com/article-new/2026/04/Four-iPhone-18-Pro-Colors-Mock-Feature.jpg",
+          "verdict": "先看",
+          "takeaway": "iPhone 相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
+          "detail": "iPhone 相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "auto-0b5df398f8e1",
+          "title": "iPhone 发布 / 上市相关消息",
           "originalTitle": "",
           "source": "MacRumors",
           "brand": "iPhone",
@@ -79,8 +102,8 @@ window.phoneRadarDaily = {
           "url": "https://www.macrumors.com/2026/08/13/iphone-ultra-staggered-country-rollout/",
           "image": "https://images.macrumors.com/article-new/2025/08/Apple-Foldable-Thumb.jpg",
           "verdict": "先看",
-          "takeaway": "iPhone 相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
-          "detail": "iPhone 相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
+          "takeaway": "iPhone 有发布或新功能消息，适合确认是否和新机有关。",
+          "detail": "iPhone 发布 / 上市相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
           "keyPoints": [
             "爆料"
           ],
@@ -137,54 +160,6 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
-          "id": "auto-1e262bfad738",
-          "title": "iPhone 折叠屏相关消息",
-          "originalTitle": "",
-          "source": "MacRumors",
-          "brand": "iPhone",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-08-12",
-          "time": "13:47",
-          "publishedAt": "2026-08-12T13:47:13.000Z",
-          "url": "https://www.macrumors.com/2026/08/12/everyone-at-apple-says-iphone-ultra/",
-          "image": "https://images.macrumors.com/article-new/2025/08/Apple-Foldable-Thumb.jpg",
-          "verdict": "先看",
-          "takeaway": "iPhone 折叠屏相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
-          "detail": "iPhone 折叠屏相关消息。重点看折痕、铰链、厚度、屏幕可靠性和重量是否有实质改善。",
-          "keyPoints": [
-            "爆料来源"
-          ],
-          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "auto-cf55c2101c7a",
-          "title": "iPhone 屏幕规格相关消息",
-          "originalTitle": "",
-          "source": "MacRumors",
-          "brand": "iPhone",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-08-12",
-          "time": "12:44",
-          "publishedAt": "2026-08-12T12:44:10.000Z",
-          "url": "https://www.macrumors.com/2026/08/12/iphone-ultra-screen-protectors-reveal-asymmetry/",
-          "image": "https://images.macrumors.com/article-new/2025/03/Foldable-iPhone-2023-Feature-Iridescent-1.jpg",
-          "verdict": "先看",
-          "takeaway": "iPhone 屏幕规格相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
-          "detail": "iPhone 屏幕规格相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
-          "keyPoints": [
-            "影像硬件",
-            "屏幕形态",
-            "爆料来源"
-          ],
-          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
           "id": "auto-7c1cf61dfa1c",
           "title": "iPhone 20 Pro 外观设计线索曝光",
           "originalTitle": "",
@@ -203,6 +178,29 @@ window.phoneRadarDaily = {
           "keyPoints": [
             "外观 / 配色 / 尺寸",
             "爆料来源"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "auto-7d6b0625a853",
+          "title": "iQOO Z11S 手机官宣搭载天玑 7500 满血版芯片，安兔兔综合跑分超 130 万",
+          "originalTitle": "",
+          "source": "IT之家",
+          "brand": "HONOR",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-08-13",
+          "time": "11:56",
+          "publishedAt": "2026-08-13T11:56:51.000Z",
+          "url": "https://www.ithome.com/0/989/430.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/8/f8c39db7-3fe1-4b0c-b10e-77df4cba41d2.jpg?x-bce-process=image/format,f_auto",
+          "verdict": "先看",
+          "takeaway": "IT之家 8 月 13 日消息，iQOO 手机官方今日宣布， iQOO Z11S 将搭载天玑 7500 满血版芯片 ，安兔兔综合跑分达 1,309,171 分。 官方预热海报显示，iQOO Z11S 手机还搭载了冰穹 VC 液冷散热系统， 适配《王者荣耀》原生 120FPS 极高帧率模式 。 据IT之家昨日报道， iQOO Z11S 手机还会搭载 144H…",
+          "detail": "IT之家 8 月 13 日消息，iQOO 手机官方今日宣布， iQOO Z11S 将搭载天玑 7500 满血版芯片 ，安兔兔综合跑分达 1,309,171 分。 官方预热海报显示，iQOO Z11S 手机还搭载了冰穹 VC 液冷散热系统， 适配《王者荣耀》原生 120FPS 极高帧率模式 。 据IT之家昨日报道， iQOO Z11S 手机还会搭载 144H…",
+          "keyPoints": [
+            "芯片 / 性能"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
@@ -231,6 +229,29 @@ window.phoneRadarDaily = {
           "verdict": "先看",
           "takeaway": "想法被及时、完好的记下来，然后呢？",
           "detail": "想法被及时、完好的记下来，然后呢？",
+          "keyPoints": [
+            "评测"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是实际体验内容，买前适合重点看缺点和取舍。",
+          "action": "中文源可以直接点开快读；看完只保留和购机有关的点。"
+        },
+        {
+          "id": "auto-1bd890e062d8",
+          "title": "我，与「唯一」的 iPhone Air",
+          "originalTitle": "",
+          "source": "少数派",
+          "brand": "iPhone",
+          "type": "评测",
+          "trust": "媒体汇总",
+          "date": "2026-08-12",
+          "time": "03:04",
+          "publishedAt": "2026-08-12T03:04:34.000Z",
+          "url": "https://sspai.com/post/112880",
+          "image": "",
+          "verdict": "先看",
+          "takeaway": "在 iPhone Air 之后才发现，有些产品存在的意义，是帮我确认我真正需要什么。",
+          "detail": "在 iPhone Air 之后才发现，有些产品存在的意义，是帮我确认我真正需要什么。",
           "keyPoints": [
             "评测"
           ],
