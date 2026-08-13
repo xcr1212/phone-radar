@@ -1,12 +1,12 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-08-13T17:11:07.758Z",
+  "updatedAt": "2026-08-13T19:19:10.551Z",
   "issueDate": "2026-08-13",
   "issue": "VOL.260813",
   "title": "手机情报日报",
-  "intro": "今日筛出 11 条重点，其中 8 条是重点爆料，包含 8 条 iPhone 相关、1 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 11 条重点，其中 8 条是重点爆料，包含 7 条 iPhone 相关、1 条官方确认、0 条参数线索。",
   "stats": {
     "total": 11,
-    "iphone": 8,
+    "iphone": 7,
     "leaks": 8,
     "official": 1,
     "specs": 0
@@ -160,30 +160,6 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
-          "id": "auto-7c1cf61dfa1c",
-          "title": "iPhone 20 Pro 外观设计线索曝光",
-          "originalTitle": "",
-          "source": "9to5Mac",
-          "brand": "iPhone",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-08-12",
-          "time": "12:19",
-          "publishedAt": "2026-08-12T12:19:34.000Z",
-          "url": "https://9to5mac.com/2026/08/12/iphone-20-pros-all-glass-design-spotted-in-supply-chain-says-leaker/",
-          "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/05/iphone-20th-anniversary.jpg?quality=82&strip=all&w=1600",
-          "verdict": "先看",
-          "takeaway": "iPhone 20 Pro 外观设计线索曝光。重点看外观、颜色、尺寸是否和上一代有明显变化。",
-          "detail": "iPhone 20 Pro 外观设计线索曝光。这类内容主要看外观设计、按键布局、相机模组和尺寸变化，后续最好等更多渲染图或保护壳线索互相验证。",
-          "keyPoints": [
-            "外观 / 配色 / 尺寸",
-            "爆料来源"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
           "id": "auto-7d6b0625a853",
           "title": "iQOO Z11S 手机官宣搭载天玑 7500 满血版芯片，安兔兔综合跑分超 130 万",
           "originalTitle": "",
@@ -203,6 +179,30 @@ window.phoneRadarDaily = {
             "芯片 / 性能"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "weibo-c432e961ce56",
+          "title": "数码闲聊站：荣耀Magic9系列定档9月28日，200Mp 1/1.28\"超大底主摄，F1…",
+          "originalTitle": "",
+          "source": "数码闲聊站",
+          "brand": "HONOR",
+          "type": "爆料",
+          "trust": "高关注爆料源",
+          "date": "2026-08-13",
+          "time": "00:47",
+          "publishedAt": "2026-08-13T00:47:00.000Z",
+          "url": "https://weibo.com/6048569942/RdaaQgaKN",
+          "image": "https://tvax3.sinaimg.cn/mw2000/006BlblIgy1ig1ahkspqbj30xu0u7tkl.jpg",
+          "verdict": "先看",
+          "takeaway": "荣耀Magic9系列定档9月28日，200Mp 1/1.28\"超大底主摄，F1.57大光圈，支持3°OIS光学防抖；200Mp 1/1.4\"常规大底潜望长焦，F2.6光圈，阿莱影像。又被我猜中了，首批骁龙2nm旗舰芯，期待吗？[二哈]",
+          "detail": "荣耀Magic9系列定档9月28日，200Mp 1/1.28\"超大底主摄，F1.57大光圈，支持3°OIS光学防抖；200Mp 1/1.4\"常规大底潜望长焦，F2.6光圈，阿莱影像。又被我猜中了，首批骁龙2nm旗舰芯，期待吗？[二哈]",
+          "keyPoints": [
+            "影像硬件",
+            "爆料来源"
+          ],
+          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         }

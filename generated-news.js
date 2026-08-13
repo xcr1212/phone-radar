@@ -1,6 +1,126 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-08-13T17:11:07.758Z",
+  "updatedAt": "2026-08-13T19:19:10.551Z",
   "news": [
+    {
+      "id": "auto-028b1e253e0e",
+      "title": "Pixel 11’s ‘Pistachio’ color option should be ‘Old Avocado’",
+      "source": "9to5Google",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-13",
+      "time": "19:00",
+      "publishedAt": "2026-08-13T19:00:00.000Z",
+      "url": "https://9to5google.com/2026/08/13/pixel-11-pistachio-should-be-old-avocado/",
+      "image": "",
+      "summary": "I don’t know how to describe Google’s green, or “Pistachio” color, for the base Pixel 11. It makes me feel some type of way, and photos don’t do it justice.",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-83611a7ea57d",
+      "title": "竹本青：【vivo S50t 元气版上架：骁龙8s Gen3处理器，1.5K中直屏，限时售价2999元起】 12GB+25…",
+      "source": "竹本青",
+      "brand": "vivo",
+      "model": "vivo 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-08-13",
+      "time": "18:19",
+      "publishedAt": "2026-08-13T18:19:50.000Z",
+      "url": "https://www.coolapk.com/feed/73227883",
+      "image": "http://image.coolapk.com/feed/2026/0814/02/4248714_179b7a26_5182_5732_754@1270x952.jpg",
+      "summary": "【vivo S50t 元气版上架：骁龙8s Gen3处理器，1.5K中直屏，限时售价2999元起】 12GB+256GB —— 2999元（原价3299元） 12GB+512GB —— 3299元（原价3599元） ▫️6.59英寸1.5K 120Hz直屏 ▫️骁龙8s Gen3处理器 ▫️LPDDR5+UFS3.1 ▫️6500mAh电池+90W快充 前…",
+      "tags": [
+        "vivo",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-8d5d5578145a",
+      "title": "iQOO Neo 11 Ultra to debut with custom Dimensity 9500M chipset",
+      "source": "Gizmochina",
+      "brand": "vivo",
+      "model": "vivo 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-13",
+      "time": "17:40",
+      "publishedAt": "2026-08-13T17:40:45.000Z",
+      "url": "https://www.gizmochina.com/2026/08/13/iqoo-neo-11-ultra-to-debut-with-custom-dimensity-9500m-chipset/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/08/iQOO-Neo-11-Ultra-with-MediaTek-Dimensity-9500M-300x200.jpg?x23692",
+      "summary": "In the lead-up to launch, iQOO today confirmed that its upcoming Neo 11 Ultra smartphone will be the first phone in the industry to use the new MediaTek Dimensity 9500M processor.…",
+      "tags": [
+        "vivo",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-8a8c0c0ae5e8",
+      "title": "The Pixel 11a just became the Pixel 11 phone I actually want to buy",
+      "source": "Android Police",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-13",
+      "time": "17:30",
+      "publishedAt": "2026-08-13T17:30:16.000Z",
+      "url": "https://www.androidpolice.com/the-pixel-11a-just-became-the-pixel-11-phone-i-actually-want-to-buy/",
+      "image": "",
+      "summary": "Forgot flagship, I'm going budget",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-855d51426855",
+      "title": "Google’s new Pixel 11 chip might not be 2nm, after all",
+      "source": "Android Authority",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-13",
+      "time": "17:25",
+      "publishedAt": "2026-08-13T17:25:57.000Z",
+      "url": "https://www.androidauthority.com/tensor-g6-3nm-3698349/",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2026/08/tensor-g6-google.jpg",
+      "summary": "We might have to wait until the Pixel 12 for a 2nm Google Tensor chip.",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-57afa08ef396",
+      "title": "Alright, I'll say it: Verizon has the best Google Pixel 11 Pro preorder deal — so what's the catch?",
+      "source": "Android Central",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-08-13",
+      "time": "17:18",
+      "publishedAt": "2026-08-13T17:18:02.000Z",
+      "url": "https://www.androidcentral.com/phones/google-pixel/alright-ill-say-it-verizon-has-the-best-google-pixel-11-pro-preorder-deal-so-whats-the-catch",
+      "image": "https://cdn.mos.cms.futurecdn.net/v3patvXwUeJtkRFKuZMnyH-1280-80.jpg",
+      "summary": "The Google Pixel 11 lineup has landed, and Verizon is already offering some exceptional deals on the flagship phones.",
+      "tags": [
+        "Pixel",
+        "评测",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-dca5d9ed0264",
       "title": "Google should have gone the GTA 6 route with its Pixel 11 show; instead, we got the Trevor Noah cringe fest",
@@ -1102,7 +1222,7 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-5336d1d1bd20",
+      "id": "newsnow-9f26de809977",
       "title": "iPhone18系列发布节奏确认",
       "source": "微博热搜",
       "brand": "iPhone",
@@ -1112,7 +1232,7 @@ window.phoneRadarAuto = {
       "date": "2026-08-13",
       "time": "",
       "publishedAt": "",
-      "url": "https://s.weibo.com/weibo?q=%23iPhone18%E7%B3%BB%E5%88%97%E5%8F%91%E5%B8%83%E8%8A%82%E5%A5%8F%E7%A1%AE%E8%AE%A4%23&t=31&band_rank=9&Refer=top",
+      "url": "https://s.weibo.com/weibo?q=%23iPhone18%E7%B3%BB%E5%88%97%E5%8F%91%E5%B8%83%E8%8A%82%E5%A5%8F%E7%A1%AE%E8%AE%A4%23&t=31&band_rank=18&Refer=top",
       "image": "",
       "summary": "iPhone18系列发布节奏确认",
       "tags": [
@@ -1138,26 +1258,6 @@ window.phoneRadarAuto = {
       "tags": [
         "Xiaomi",
         "市场报告",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-444cb4399623",
-      "title": "手机价格全线暴涨",
-      "source": "今日头条热榜",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-13",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.toutiao.com/trending/7673341653165162550/",
-      "image": "",
-      "summary": "手机价格全线暴涨",
-      "tags": [
-        "行业",
-        "爆料",
         "NewsNow"
       ]
     },
@@ -2162,46 +2262,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-34dbb4d94e1c",
-      "title": "Pixel 11 Pro Fold knows what foldable shoppers want: Thinner, lighter, better",
-      "source": "Android Authority",
-      "brand": "Pixel",
-      "model": "Pixel 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-12",
-      "time": "14:00",
-      "publishedAt": "2026-08-12T14:00:07.000Z",
-      "url": "https://www.androidauthority.com/pixel-11-pro-fold-launch-3697229/",
-      "image": "",
-      "summary": "Google dodges the wide foldable trend with an upgrade-packed Pixel Pro Fold.",
-      "tags": [
-        "Pixel",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-a6083dd85bd9",
-      "title": "12 announcements from Google’s Pixel 11 launch that matter the most",
-      "source": "Android Authority",
-      "brand": "Pixel",
-      "model": "Pixel 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-12",
-      "time": "14:00",
-      "publishedAt": "2026-08-12T14:00:06.000Z",
-      "url": "https://www.androidauthority.com/google-pixel-11-launch-all-announcements-3696743/",
-      "image": "",
-      "summary": "From Pixel 11 camera upgrades to the all-new Pixel Tag, here are the biggest announcements from Google's event.",
-      "tags": [
-        "Pixel",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-27d02dfb819c",
       "title": "The Pixel 11 series is here, but Google saved the big upgrades for the Pro models",
       "source": "Android Central",
@@ -2339,66 +2399,6 @@ window.phoneRadarAuto = {
         "HONOR",
         "爆料",
         "微博"
-      ]
-    },
-    {
-      "id": "auto-22660e442261",
-      "title": "Foxconn used to make half its revenue from Apple; now it’s below 29%",
-      "source": "9to5Mac",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-12",
-      "time": "13:08",
-      "publishedAt": "2026-08-12T13:08:09.000Z",
-      "url": "https://9to5mac.com/2026/08/12/foxconn-used-to-make-half-its-revenue-from-apple-now-its-below-29/",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/Foxconn-used-to-make-half-its-revenue-from-Apple-now-its-below-29pc.jpg?quality=82&strip=all&w=1600",
-      "summary": "As Apple’s lead iPhone assembler, contract manufacturing company Foxconn long made more than half of its revenue from the Cupertino company. As of the last quarter, however, that…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-7c1cf61dfa1c",
-      "title": "iPhone 20 Pro’s all-glass design spotted in supply chain, says leaker",
-      "source": "9to5Mac",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-12",
-      "time": "12:19",
-      "publishedAt": "2026-08-12T12:19:34.000Z",
-      "url": "https://9to5mac.com/2026/08/12/iphone-20-pros-all-glass-design-spotted-in-supply-chain-says-leaker/",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/05/iphone-20th-anniversary.jpg?quality=82&strip=all&w=1600",
-      "summary": "This week has seen conflicting reports on whether or not Apple has given up on its plan to launch a radical new iPhone design next year, which I’ll refer to as the iPhone 20 Pro f…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "coolapk-user-273ba21962db",
-      "title": "JSCHEN小小狐：这小玩意机身设计还是挺有意思的 可惜云台启动后，没录制也会很快热起来 另外使用云台时如果要录制完整画面，需要像图…",
-      "source": "JSCHEN小小狐",
-      "brand": "HONOR",
-      "model": "HONOR 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-08-12",
-      "time": "12:02",
-      "publishedAt": "2026-08-12T12:02:32.000Z",
-      "url": "https://www.coolapk.com/feed/73203973",
-      "image": "http://image.coolapk.com/feed/2026/0812/20/4702274_d4cf5580_6149_0785_9-uhdr@2365x3504.jpg",
-      "summary": "这小玩意机身设计还是挺有意思的 可惜云台启动后，没录制也会很快热起来 另外使用云台时如果要录制完整画面，需要像图 4 那样竖屏预览横屏，不然就得裁到 2.8K，这点有点尴尬，可能是为云台的行程稳定考虑？",
-      "tags": [
-        "HONOR",
-        "爆料",
-        "酷安博主"
       ]
     }
   ]
