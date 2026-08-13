@@ -1,6 +1,206 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-08-13T11:10:08.965Z",
+  "updatedAt": "2026-08-13T13:46:08.518Z",
   "news": [
+    {
+      "id": "auto-a64bae26ebcd",
+      "title": "消息称苹果首款折叠屏手机 iPhone Ultra 产能有限，首批货源优先供应美国市场",
+      "source": "IT之家",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-13",
+      "time": "13:46",
+      "publishedAt": "2026-08-13T13:46:07.000Z",
+      "url": "https://www.ithome.com/0/989/460.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/6/a43f2043-5b67-4f56-bd3f-0ecc9a105e29.png",
+      "summary": "IT之家 8 月 13 日消息，外媒 ChannelNews 援引一位匿名零部件供应商消息，称苹果首款折叠屏手机 iPhone Ultra 有限的首批货源可能会优先供应美国市场，随后再陆续进入包括中国在内的其他主要市场。 事实上，此前就已经有多份消息称 iPhone Ultra 初期产能可能非常有限 。如果供应情况确实如此紧张，那么苹果采取美国市场优先、随…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-3a8c3dddf5b2",
+      "title": "iPhone Ultra could launch in US only at first, per report",
+      "source": "9to5Mac",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-13",
+      "time": "13:31",
+      "publishedAt": "2026-08-13T13:31:09.000Z",
+      "url": "https://9to5mac.com/2026/08/13/iphone-ultra-could-launch-in-us-only-at-first-per-report/",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/04/iphone-ultra-fold-mockup.jpg?quality=82&strip=all&w=1600",
+      "summary": "iPhone Ultra’s unveiling is only a few weeks away , and a new report claims the initial rollout could be extremely limited, including being US-only at launch.",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-0b5df398f8e1",
+      "title": "'iPhone Ultra' Could Face Staggered Country Rollout Like Vision Pro",
+      "source": "MacRumors",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-13",
+      "time": "12:56",
+      "publishedAt": "2026-08-13T12:56:51.000Z",
+      "url": "https://www.macrumors.com/2026/08/13/iphone-ultra-staggered-country-rollout/",
+      "image": "https://images.macrumors.com/article-new/2025/08/Apple-Foldable-Thumb.jpg",
+      "summary": "Apple's foldable \"iPhone Ultra\" may get a Vision Pro-style staggered country-by-country launch over several months, with initial availability limited to the U.S. market, according…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-e0042beedccf",
+      "title": "Best Google Pixel 11 Pro Fold cases",
+      "source": "Android Central",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-08-13",
+      "time": "12:48",
+      "publishedAt": "2026-08-13T12:48:05.000Z",
+      "url": "https://www.androidcentral.com/accessories/cases-screen-protectors/best-google-pixel-11-pro-fold-cases",
+      "image": "https://cdn.mos.cms.futurecdn.net/p94pJ9cHtB65imw87jo9oL-1280-80.jpg",
+      "summary": "The range of the best Google Pixel 11 Pro Fold cases is handsomely wide this year, with most cases equipped with magnets and available in all types and sorts.",
+      "tags": [
+        "Pixel",
+        "评测",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-55b570725d1c",
+      "title": "Pixel 11 moves the NFC antenna to the top of the phone for easier payments, Tap to Share",
+      "source": "9to5Google",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-13",
+      "time": "12:30",
+      "publishedAt": "2026-08-13T12:30:00.000Z",
+      "url": "https://9to5google.com/2026/08/13/google-pixel-11-nfc-improvement/",
+      "image": "",
+      "summary": "In a nice quality-of-life change, Google says it has moved the NFC antenna on its Pixel 11 phones to the top of the device, making it easier and just more logical to do things suc…",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-3a782a8184df",
+      "title": "Another top Android brand is joining the wide-screen foldable bandwagon",
+      "source": "Android Authority",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-13",
+      "time": "12:19",
+      "publishedAt": "2026-08-13T12:19:39.000Z",
+      "url": "https://www.androidauthority.com/xiaomi-wide-screen-foldable-leak-3698170/",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2026/07/z-fold-8-launch-day-1.jpg",
+      "summary": "Xiaomi could be the latest manufacturer to launch a wide body foldable, following the Samsung Galaxy Z Fold 8.",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-5d9d3e2d325d",
+      "title": "竹本青：【大疆Osmo 360 II 全景运动相机 正式发布，售价3299元起】 标准套装 —— 3299元（图4） 无界…",
+      "source": "竹本青",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-08-13",
+      "time": "12:00",
+      "publishedAt": "2026-08-13T12:00:47.000Z",
+      "url": "https://www.coolapk.com/feed/73222521",
+      "image": "http://image.coolapk.com/feed/2026/0813/20/4248714_db278b67_3688_7792_16@750x1000.png",
+      "summary": "【大疆Osmo 360 II 全景运动相机 正式发布，售价3299元起】 标准套装 —— 3299元（图4） 无界骑行套装 —— 3499元（图5） 畅玩套装 —— 3549元（图6） 人气套装 —— 3599元（图7） 畅拍套装 —— 3999元（图8） ● 传感器： 双1/1.1\"英寸方形+全新影像芯 14.5档全景动态范围 f/1.9光圈｜10-Bi…",
+      "tags": [
+        "行业",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-7d6b0625a853",
+      "title": "iQOO Z11S 手机官宣搭载天玑 7500 满血版芯片，安兔兔综合跑分超 130 万",
+      "source": "IT之家",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-13",
+      "time": "11:56",
+      "publishedAt": "2026-08-13T11:56:51.000Z",
+      "url": "https://www.ithome.com/0/989/430.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/8/f8c39db7-3fe1-4b0c-b10e-77df4cba41d2.jpg?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 8 月 13 日消息，iQOO 手机官方今日宣布， iQOO Z11S 将搭载天玑 7500 满血版芯片 ，安兔兔综合跑分达 1,309,171 分。 官方预热海报显示，iQOO Z11S 手机还搭载了冰穹 VC 液冷散热系统， 适配《王者荣耀》原生 120FPS 极高帧率模式 。 据IT之家昨日报道， iQOO Z11S 手机还会搭载 144H…",
+      "tags": [
+        "HONOR",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-5b208b2275b3",
+      "title": "Download the Google Pixel 11 wallpapers here",
+      "source": "Android Authority",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-13",
+      "time": "11:25",
+      "publishedAt": "2026-08-13T11:25:50.000Z",
+      "url": "https://www.androidauthority.com/pixel-11-series-wallpapers-3673921/",
+      "image": "",
+      "summary": "We sure hope you like neutral-tone ripples.",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-5f940bedf372",
+      "title": "Best Google Pixel 11 Pro XL cases",
+      "source": "Android Central",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-08-13",
+      "time": "11:25",
+      "publishedAt": "2026-08-13T11:25:12.000Z",
+      "url": "https://www.androidcentral.com/accessories/cases-screen-protectors/best-google-pixel-11-pro-xl-cases",
+      "image": "https://cdn.mos.cms.futurecdn.net/mCjizquu7YpMfxmwM2scX8-1280-80.jpg",
+      "summary": "Seeking out the best Google Pixel 11 Pro XL cases? Your search ends here, for I have done the research and compiled a list of the very best options.",
+      "tags": [
+        "Pixel",
+        "评测",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-ee3853aef048",
       "title": "3 camera features the Pixel 11 series quietly stole from other Android phones",
@@ -202,26 +402,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-caa24bad6c6c",
-      "title": "iQOO Neo11 至尊版手机官宣行业首发天玑 9500M 处理器",
-      "source": "IT之家",
-      "brand": "vivo",
-      "model": "vivo 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-13",
-      "time": "09:22",
-      "publishedAt": "2026-08-13T09:22:55.000Z",
-      "url": "https://www.ithome.com/0/989/337.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/8/5f8ba6f0-ab77-44d8-8c3d-622c1dd1274d.jpg?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 8 月 13 日消息，iQOO 手机官方今日宣布， iQOO Neo11 至尊版将行业首发天玑 9500M 处理器 。 预热海报显示， 天玑 9500M 处理器由 iQOO 和 MediaTek 联合定制 ，采用 3nm 制程工艺 + 全大核 CPU 架构， 支持新一代 Monster 超核引擎 ，并写入芯片底层。 据IT之家昨日报道，iQOO…",
-      "tags": [
-        "vivo",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "coolapk-user-a28024b8b67a",
       "title": "JSCHEN小小狐：iQOO Neo11 至尊版预热汇总：天玑 9500M",
       "source": "JSCHEN小小狐",
@@ -239,26 +419,6 @@ window.phoneRadarAuto = {
         "vivo",
         "爆料",
         "酷安博主"
-      ]
-    },
-    {
-      "id": "auto-6814af5d2c3d",
-      "title": "谷歌推出 Android 设备近距离数据快速共享，仅需点击即可完成",
-      "source": "IT之家",
-      "brand": "Pixel",
-      "model": "Pixel 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-13",
-      "time": "09:00",
-      "publishedAt": "2026-08-13T09:00:18.000Z",
-      "url": "https://www.ithome.com/0/989/286.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/8/2f7c89c5-24d5-44cb-9150-27116bbb2553.jpg?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 8 月 13 日消息，Google（谷歌）当地时间 12 日宣布为 Android 设备推出 仅需点击一下即可完成的近距离数据快速共享功能 。 如果要进行双向的联系人信息交换，只需将两台屏幕位于主页的兼容 Android 设备靠近即可。如果要分享照片或视频，则需打开手机的“分享”菜单，然后在两台设备上轻触“分享”。 这项功能 即日起向 Pixel…",
-      "tags": [
-        "Pixel",
-        "爆料",
-        "自动抓取"
       ]
     },
     {
@@ -342,26 +502,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-b1b203c2c049",
-      "title": "又一款微软品牌 WP 手机工程机曝光，消息称并非“Surface Phone”",
-      "source": "IT之家",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-13",
-      "time": "08:15",
-      "publishedAt": "2026-08-13T08:15:38.000Z",
-      "url": "https://www.ithome.com/0/989/264.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/8/ec559325-da96-41ee-a792-5ce041fd458c.jpg?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 8 月 13 日消息，先前外媒 Windows Central 曝光了一款被砍掉的微软品牌神秘 Windows Phone 手机 ，对此，消息源 gus33000 发文，称这款手机搭载高通骁龙 400 处理器， 并透露该机并不属于 Surface 品牌产品线，命名并非“Surface Phone” 。 该消息源还展示了另一款隶属相应产品线的机型，…",
-      "tags": [
-        "行业",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-c302ef3eaacf",
       "title": "[Galaxy Unpacked July 2026] One City, Three Perspectives: Capturing London With Galaxy Z Fold8 Ultra, Galaxy Z Fold8, and Galaxy Z Flip8",
       "source": "Samsung Newsroom",
@@ -402,26 +542,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-6c45d70ab5fa",
-      "title": "小米胡馨心：REDMI K100 Pro 系列手机会首批推送澎湃 OS 4 正式版更新",
-      "source": "IT之家",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-13",
-      "time": "07:38",
-      "publishedAt": "2026-08-13T07:38:17.000Z",
-      "url": "https://www.ithome.com/0/989/251.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/8/30c3bbac-b26d-48dd-bd83-5b42879a7eb3.png",
-      "summary": "IT之家 8 月 13 日消息，今天上午， 小米开启了澎湃 OS 4 系统的首批机型 Beta 版招募 ，覆盖小米 17、 REDMI K90 系列等机型。 IT之家注意到，小米 REDMI 产品经理胡馨心今日宣布， REDMI K100 Pro 系列手机会首批推送澎湃 OS 4 正式版更新 。 IT之家附澎湃 OS 4 升级亮点如下： 小米澎湃系统内核技…",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-a30cd326fba1",
       "title": "Huawei Mate 90 series launch event could be more excellent than Mate 60",
       "source": "Huawei Central",
@@ -459,26 +579,6 @@ window.phoneRadarAuto = {
         "Pixel",
         "爆料",
         "自动抓取"
-      ]
-    },
-    {
-      "id": "coolapk-user-f3527e99be78",
-      "title": "竹本青：荣耀Robot Phone 工程师拆机直播将于8月14日进行",
-      "source": "竹本青",
-      "brand": "HONOR",
-      "model": "HONOR 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-08-13",
-      "time": "06:19",
-      "publishedAt": "2026-08-13T06:19:57.000Z",
-      "url": "https://www.coolapk.com/feed/73216709",
-      "image": "http://image.coolapk.com/feed/2026/0813/14/4248714_7ddeae94_1995_4596_588@1586x3750.jpg",
-      "summary": "【荣耀Robot Phone 工程师拆机直播官宣，将于明日举行】 ● 现场拆机，内部结构全公开 ● 了解机器人手机研发的前世今生 ● 直播讲解新机权益 ＊直播时间：8月14日15:00 #今日热点# #荣耀ROBOTPHONE# #MagicOS10#",
-      "tags": [
-        "HONOR",
-        "爆料",
-        "酷安博主"
       ]
     },
     {
@@ -602,46 +702,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "coolapk-user-8a16d26bbb1e",
-      "title": "竹本青：【王腾换上REDMI K100 Pro Max：屏幕素质、音质效果是行业领先】 8月13日，王腾宣布换新手机，晒出…",
-      "source": "竹本青",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-08-13",
-      "time": "03:58",
-      "publishedAt": "2026-08-13T03:58:34.000Z",
-      "url": "https://www.coolapk.com/feed/73214406",
-      "image": "http://image.coolapk.com/feed/2026/0813/11/4248714_ac382e19_3513_6853_209@1272x1721.jpg",
-      "summary": "【王腾换上REDMI K100 Pro Max：屏幕素质、音质效果是行业领先】 8月13日，王腾宣布换新手机，晒出机型为REDMI K100 Pro Max「赤霞珠红」版本。 王腾评价，REDMI的整机精致度和CMF都越来越出色，K100 Pro Max颜值太高了，屏幕素质、音质效果更是行业领先。 #RedmiK90ProMax# #REDMIK100Pr…",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
-      "id": "coolapk-user-baf359a92ed6",
-      "title": "竹本青：大帝换K100 Pro Max了 #REDMIK100ProMax# #红米k90promax#",
-      "source": "竹本青",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-08-13",
-      "time": "03:47",
-      "publishedAt": "2026-08-13T03:47:56.000Z",
-      "url": "https://www.coolapk.com/feed/73214211",
-      "image": "http://image.coolapk.com/feed/2026/0813/11/4248714_ac382e19_2875_2759_783@1272x1721.jpg",
-      "summary": "大帝换K100 Pro Max了 #REDMIK100ProMax# #红米k90promax#",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
       "id": "coolapk-user-f61917f8baef",
       "title": "JSCHEN小小狐：消息称荣耀 Magic9 系列或将于 9 月 28 日发布",
       "source": "JSCHEN小小狐",
@@ -722,26 +782,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-1c08256cde19",
-      "title": "就这款机子而言，无论黑子再怎么黑，它也是牛逼。手机圈已经很久没有创新性产品了，而且还是量产机型。iphone的价格买到了旗舰安卓机+口袋云台设备，这价格没问题。",
-      "source": "酷安热榜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-08-13",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73207999",
-      "image": "",
-      "summary": "就这款机子而言，无论黑子再怎么黑，它也是牛逼。手机圈已经很久没有创新性产品了，而且还是量产机型。iphone的价格买到了旗舰安卓机+口袋云台设备，这价格没问题。",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
       "id": "newsnow-ca60ee5b25cb",
       "title": "REDMI K100 Pro 系列发布：首销 3699 元起",
       "source": "酷安热榜",
@@ -777,6 +817,26 @@ window.phoneRadarAuto = {
       "summary": "小米阔折叠手机首次亮相：大R角设计，右上内屏镜头",
       "tags": [
         "Xiaomi",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-1c08256cde19",
+      "title": "就这款机子而言，无论黑子再怎么黑，它也是牛逼。手机圈已经很久没有创新性产品了，而且还是量产机型。iphone的价格买到了旗舰安卓机+口袋云台设备，这价格没问题。",
+      "source": "酷安热榜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-08-13",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/73207999",
+      "image": "",
+      "summary": "就这款机子而言，无论黑子再怎么黑，它也是牛逼。手机圈已经很久没有创新性产品了，而且还是量产机型。iphone的价格买到了旗舰安卓机+口袋云台设备，这价格没问题。",
+      "tags": [
+        "iPhone",
         "爆料",
         "NewsNow"
       ]
@@ -862,6 +922,26 @@ window.phoneRadarAuto = {
       ]
     },
     {
+      "id": "newsnow-241fde9f37f3",
+      "title": "百花奖颁奖当晚评审全程没收手机",
+      "source": "今日头条热榜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-13",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.toutiao.com/trending/7672243634826182719/",
+      "image": "",
+      "summary": "百花奖颁奖当晚评审全程没收手机",
+      "tags": [
+        "行业",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
       "id": "auto-5c896f5e916d",
       "title": "Google's $100 Pixel Price Hike and Trade-In Push Hint at Apple's iPhone 18 Pro Plans",
       "source": "MacRumors",
@@ -935,26 +1015,6 @@ window.phoneRadarAuto = {
       "url": "https://9to5google.com/2026/08/12/google-pixel-11-pro-anti-scratch-display-glass-upgrades/",
       "image": "",
       "summary": "Google is delivering some seriously durable phones, or so it claims, with the entire Pixel 11 Pro series delivering huge upgrades in regards to scratch and drop protection.",
-      "tags": [
-        "Pixel",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-c15fed557959",
-      "title": "Best Buy and Amazon are giving away $200 gift cards with every Pixel 11 Pro",
-      "source": "Android Police",
-      "brand": "Pixel",
-      "model": "Pixel 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-12",
-      "time": "19:19",
-      "publishedAt": "2026-08-12T19:19:31.000Z",
-      "url": "https://www.androidpolice.com/score-a-200-gift-card-with-an-unlocked-pixel-11-pro/",
-      "image": "",
-      "summary": "No contract required",
       "tags": [
         "Pixel",
         "爆料",
@@ -1057,26 +1117,6 @@ window.phoneRadarAuto = {
       "summary": "iPhone Ultra will be unveiled next month , and a new leak indicates the device’s front cameras could be positioned in unusual spots.",
       "tags": [
         "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-6621c63801de",
-      "title": "Pixel 11 Pro Fold will beat the Galaxy Z Fold 8 Ultra if Google nails this one spec",
-      "source": "Android Police",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-12",
-      "time": "17:00",
-      "publishedAt": "2026-08-12T17:00:16.000Z",
-      "url": "https://www.androidpolice.com/google-pixel-11-pro-needs-this-simple-spec-increase/",
-      "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2026/07/samsung-galaxy-z-fold-8-ultra-rear.jpg",
-      "summary": "And I'm not talking about a flashy camera feature",
-      "tags": [
-        "Samsung",
         "爆料",
         "自动抓取"
       ]
@@ -1275,26 +1315,6 @@ window.phoneRadarAuto = {
       "url": "https://www.gizmochina.com/2026/08/12/google-pixel-11-pro-fold-price-specs-release-date/",
       "image": "",
       "summary": "Google has officially launched the Pixel 11 Pro Fold, its latest foldable smartphone, alongside the rest of the Pixel 11 phones. The foldable starts at $1,899 and is available in…",
-      "tags": [
-        "Pixel",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-de0183a88893",
-      "title": "How Google’s new Pixel 11 phones compare to last year’s models",
-      "source": "The Verge",
-      "brand": "Pixel",
-      "model": "Pixel 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-12",
-      "time": "15:18",
-      "publishedAt": "2026-08-12T15:18:25.000Z",
-      "url": "https://www.theverge.com/gadgets/975237/google-pixel-11-pro-comparison-specs-price-features",
-      "image": "",
-      "summary": "Google just added four new phones to the Pixel family: the Pixel 11, Pixel 11 Pro, Pixel 11 Pro XL, and the Pixel 11 Pro Fold. They're slightly more expensive than their predecess…",
       "tags": [
         "Pixel",
         "爆料",
@@ -1982,26 +2002,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-124fae9e46c5",
-      "title": "The Pixel 11 Pro Fold goes after foldables’ weak spots with a tougher design",
-      "source": "Android Central",
-      "brand": "Pixel",
-      "model": "Pixel 相关机型",
-      "type": "评测",
-      "trust": "媒体汇总",
-      "date": "2026-08-12",
-      "time": "14:00",
-      "publishedAt": "2026-08-12T14:00:00.000Z",
-      "url": "https://www.androidcentral.com/phones/google-pixel/the-pixel-11-pro-fold-goes-after-foldables-weak-spots-with-a-tougher-design",
-      "image": "https://cdn.mos.cms.futurecdn.net/oQFvjfj35J2CrKrQR59uAN-1280-80.jpg",
-      "summary": "The Pixel 11 Pro Fold is tougher, brighter, and smarter, with better cameras, 16GB RAM, 24+ hours of battery life, and 30W charging.",
-      "tags": [
-        "Pixel",
-        "评测",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-27d02dfb819c",
       "title": "The Pixel 11 series is here, but Google saved the big upgrades for the Pro models",
       "source": "Android Central",
@@ -2015,6 +2015,26 @@ window.phoneRadarAuto = {
       "url": "https://www.androidcentral.com/phones/google-pixel/the-pixel-11-series-is-here-but-google-saved-the-big-upgrades-for-the-pro-models",
       "image": "https://cdn.mos.cms.futurecdn.net/uPQQHbLN2geAxLojfaYLUZ-1280-80.jpg",
       "summary": "The Pixel 11 lineup is official with brighter displays, new cameras and Tensor G6, but higher prices and only modest upgrades on the base model.",
+      "tags": [
+        "Pixel",
+        "评测",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-124fae9e46c5",
+      "title": "The Pixel 11 Pro Fold goes after foldables’ weak spots with a tougher design",
+      "source": "Android Central",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-08-12",
+      "time": "14:00",
+      "publishedAt": "2026-08-12T14:00:00.000Z",
+      "url": "https://www.androidcentral.com/phones/google-pixel/the-pixel-11-pro-fold-goes-after-foldables-weak-spots-with-a-tougher-design",
+      "image": "https://cdn.mos.cms.futurecdn.net/oQFvjfj35J2CrKrQR59uAN-1280-80.jpg",
+      "summary": "The Pixel 11 Pro Fold is tougher, brighter, and smarter, with better cameras, 16GB RAM, 24+ hours of battery life, and 30W charging.",
       "tags": [
         "Pixel",
         "评测",
@@ -2222,26 +2242,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-06fd8e418a07",
-      "title": "Leaker: All-Glass 2027 iPhone Still on Track Despite Cancellation Rumors",
-      "source": "MacRumors",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-12",
-      "time": "11:43",
-      "publishedAt": "2026-08-12T11:43:28.000Z",
-      "url": "https://www.macrumors.com/2026/08/12/all-glass-20th-anniversary-iphone-on-track/",
-      "image": "https://images.macrumors.com/article-new/2026/01/Mostly-Screen-iPhone-Purple-Feature-2027.jpg",
-      "summary": "There's been more pushback against the recent analyst report that claimed Apple's all-glass 20th-anniversary iPhone next year has been canceled. Bloomberg 's Mark Gurman has alrea…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-04807cb7f5b9",
       "title": "Vivo X300 FE’s most affordable variant launched, but there’s a catch",
       "source": "Gizmochina",
@@ -2298,26 +2298,6 @@ window.phoneRadarAuto = {
       "tags": [
         "iPhone",
         "评测",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-63c9fa7c0d33",
-      "title": "I found the Galaxy Z Fold 8’s biggest weakness, and it’s not the new design",
-      "source": "Android Authority",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-12",
-      "time": "09:00",
-      "publishedAt": "2026-08-12T09:00:04.000Z",
-      "url": "https://www.androidauthority.com/galaxy-z-fold-8-biggest-weakness-multitasking-3695394/",
-      "image": "https://www.androidauthority.com/wp-content/uploads/2026/08/Galaxy-Z-Fold-8-multitasking-three-split-scaled.jpg",
-      "summary": "It’s 2026, and Samsung is still behind on multitasking on foldables.",
-      "tags": [
-        "Samsung",
-        "爆料",
         "自动抓取"
       ]
     },

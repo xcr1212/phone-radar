@@ -1,12 +1,12 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-08-13T11:10:08.965Z",
+  "updatedAt": "2026-08-13T13:46:08.518Z",
   "issueDate": "2026-08-13",
   "issue": "VOL.260813",
   "title": "手机情报日报",
-  "intro": "今日筛出 8 条重点，其中 8 条是重点爆料，包含 7 条 iPhone 相关、0 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 9 条重点，其中 8 条是重点爆料，包含 9 条 iPhone 相关、0 条官方确认、0 条参数线索。",
   "stats": {
-    "total": 8,
-    "iphone": 7,
+    "total": 9,
+    "iphone": 9,
     "leaks": 8,
     "official": 0,
     "specs": 0
@@ -17,6 +17,30 @@ window.phoneRadarDaily = {
       "title": "重点爆料",
       "hint": "机模、配色、影像、屏幕、电池和芯片线索先看。",
       "items": [
+        {
+          "id": "auto-a64bae26ebcd",
+          "title": "消息称苹果首款折叠屏手机 iPhone Ultra 产能有限，首批货源优先供应美国市场",
+          "originalTitle": "",
+          "source": "IT之家",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-08-13",
+          "time": "13:46",
+          "publishedAt": "2026-08-13T13:46:07.000Z",
+          "url": "https://www.ithome.com/0/989/460.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/6/a43f2043-5b67-4f56-bd3f-0ecc9a105e29.png",
+          "verdict": "先看",
+          "takeaway": "IT之家 8 月 13 日消息，外媒 ChannelNews 援引一位匿名零部件供应商消息，称苹果首款折叠屏手机 iPhone Ultra 有限的首批货源可能会优先供应美国市场，随后再陆续进入包括中国在内的其他主要市场。 事实上，此前就已经有多份消息称 iPhone Ultra 初期产能可能非常有限 。如果供应情况确实如此紧张，那么苹果采取美国市场优先、随…",
+          "detail": "IT之家 8 月 13 日消息，外媒 ChannelNews 援引一位匿名零部件供应商消息，称苹果首款折叠屏手机 iPhone Ultra 有限的首批货源可能会优先供应美国市场，随后再陆续进入包括中国在内的其他主要市场。 事实上，此前就已经有多份消息称 iPhone Ultra 初期产能可能非常有限 。如果供应情况确实如此紧张，那么苹果采取美国市场优先、随…",
+          "keyPoints": [
+            "屏幕形态",
+            "爆料来源"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
         {
           "id": "newsnow-1c08256cde19",
           "title": "就这款机子而言，无论黑子再怎么黑，它也是牛逼。手机圈已经很久没有创新性产品了，而且还是量产机型。iphone的价格买到了旗舰安卓机+口袋云台设备，这价格没问题。",
@@ -42,7 +66,7 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
-          "id": "auto-298f4883eed8",
+          "id": "auto-0b5df398f8e1",
           "title": "iPhone 相关消息",
           "originalTitle": "",
           "source": "MacRumors",
@@ -50,10 +74,10 @@ window.phoneRadarDaily = {
           "type": "爆料",
           "trust": "媒体汇总",
           "date": "2026-08-13",
-          "time": "10:02",
-          "publishedAt": "2026-08-13T10:02:43.000Z",
-          "url": "https://www.macrumors.com/2026/08/13/base-iphone-18-two-pro-level-upgrades/",
-          "image": "https://images.macrumors.com/article-new/2025/09/iPhone-17-Colors.jpg",
+          "time": "12:56",
+          "publishedAt": "2026-08-13T12:56:51.000Z",
+          "url": "https://www.macrumors.com/2026/08/13/iphone-ultra-staggered-country-rollout/",
+          "image": "https://images.macrumors.com/article-new/2025/08/Apple-Foldable-Thumb.jpg",
           "verdict": "先看",
           "takeaway": "iPhone 相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
           "detail": "iPhone 相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
@@ -183,29 +207,36 @@ window.phoneRadarDaily = {
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
+        }
+      ]
+    },
+    {
+      "id": "iphone",
+      "title": "iPhone 重点",
+      "hint": "不是硬件爆料，但和 iPhone 体验或路线有关。",
+      "items": [
         {
-          "id": "auto-03a3478688e4",
-          "title": "荣耀官宣明日直播拆解 Robot Phone 手机，公开内部结构",
+          "id": "auto-7db85b81dc01",
+          "title": "把「闪念胶囊」（Almost）放到 iPhone 锁屏",
           "originalTitle": "",
-          "source": "IT之家",
-          "brand": "HONOR",
-          "type": "爆料",
+          "source": "少数派",
+          "brand": "iPhone",
+          "type": "评测",
           "trust": "媒体汇总",
-          "date": "2026-08-13",
-          "time": "10:13",
-          "publishedAt": "2026-08-13T10:13:32.000Z",
-          "url": "https://www.ithome.com/0/989/376.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/8/eac6f42f-8319-4fa7-8432-bb66642f34fa.jpg?x-bce-process=image/format,f_auto",
+          "date": "2026-08-12",
+          "time": "09:30",
+          "publishedAt": "2026-08-12T09:30:00.000Z",
+          "url": "https://sspai.com/post/113219",
+          "image": "",
           "verdict": "先看",
-          "takeaway": "IT之家 8 月 13 日消息，荣耀官方今日宣布， 将在明天 15:00 直播工程师拆解 Robot Phone 手机 ，并公开其内部结构。 据IT之家昨晚报道，在 荣耀 Robot Phone 全球新品发布会上， 全球首款机器人手机 —— 荣耀 Robot Phone 正式发布 ，定价 9,999 元起。 12GB+512GB：9,999 元 16GB+…",
-          "detail": "IT之家 8 月 13 日消息，荣耀官方今日宣布， 将在明天 15:00 直播工程师拆解 Robot Phone 手机 ，并公开其内部结构。 据IT之家昨晚报道，在 荣耀 Robot Phone 全球新品发布会上， 全球首款机器人手机 —— 荣耀 Robot Phone 正式发布 ，定价 9,999 元起。 12GB+512GB：9,999 元 16GB+…",
+          "takeaway": "想法被及时、完好的记下来，然后呢？",
+          "detail": "想法被及时、完好的记下来，然后呢？",
           "keyPoints": [
-            "爆料"
+            "评测"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+          "impact": "这是实际体验内容，买前适合重点看缺点和取舍。",
+          "action": "中文源可以直接点开快读；看完只保留和购机有关的点。"
         }
       ]
     }
