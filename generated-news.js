@@ -1,6 +1,86 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-08-13T19:19:10.551Z",
+  "updatedAt": "2026-08-13T21:01:50.568Z",
   "news": [
+    {
+      "id": "auto-9114e8d9b85a",
+      "title": "Netflix is closing two game studios",
+      "source": "The Verge",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-13",
+      "time": "20:53",
+      "publishedAt": "2026-08-13T20:53:13.000Z",
+      "url": "https://www.theverge.com/games/979855/netflix-shut-down-night-school-studio-moonloot-games",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24814434/OXENFREEII_rileyjacobbridge_EN.png?quality=90&strip=all&crop=0,0,100,100",
+      "summary": "Netflix plans to shut down two of its gaming studios as it makes a bigger shift toward party games and titles streamed to TVs. One of the studios being shut down is Night School S…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-2b1448d2ada6",
+      "title": "WhatsApp is working on chat themes with animated wallpapers",
+      "source": "9to5Mac",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-13",
+      "time": "20:34",
+      "publishedAt": "2026-08-13T20:34:06.000Z",
+      "url": "https://9to5mac.com/2026/08/13/whatsapp-is-working-on-chat-themes-with-animated-wallpapers/",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/11/whatsapp-02.jpg?quality=82&strip=all&w=1600",
+      "summary": "The latest WhatsApp beta for iOS includes references to a revamped set of chat customization options, including animated wallpapers. Here are the details.",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-8fd8a0b0f61b",
+      "title": "iFixit's Galaxy Z Fold8 Teardown is a Preview of Apple's Foldable Challenges",
+      "source": "MacRumors",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-13",
+      "time": "20:28",
+      "publishedAt": "2026-08-13T20:28:09.000Z",
+      "url": "https://www.macrumors.com/2026/08/13/ifixit-galaxy-z-fold8-teardown/",
+      "image": "https://images.macrumors.com/article-new/2026/08/ifixit-galaxy-z-fold8.jpg",
+      "summary": "Samsung launched new foldable smartphones earlier this month, including the Galaxy Z Fold8. If you didn't know it was a Samsung device, you might look at it and think it's Apple's…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-65bc7124412b",
+      "title": "Samsung reportedly abandons plans to give the Galaxy S27 a variable-aperture camera",
+      "source": "9to5Google",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-13",
+      "time": "20:15",
+      "publishedAt": "2026-08-13T20:15:00.000Z",
+      "url": "https://9to5google.com/2026/08/13/samsung-galaxy-s27-variable-aperture-camera-report/",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/03/S26-Ultra-camera.jpg?quality=82&strip=all&w=1600",
+      "summary": "Another one bites the dust: Early rumors of the Galaxy S27 reviving Samsung’s variable-aperture camera seem to falling short, as the company is already seemingly repeating last ye…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-028b1e253e0e",
       "title": "Pixel 11’s ‘Pistachio’ color option should be ‘Old Avocado’",
@@ -113,7 +193,7 @@ window.phoneRadarAuto = {
       "time": "17:18",
       "publishedAt": "2026-08-13T17:18:02.000Z",
       "url": "https://www.androidcentral.com/phones/google-pixel/alright-ill-say-it-verizon-has-the-best-google-pixel-11-pro-preorder-deal-so-whats-the-catch",
-      "image": "https://cdn.mos.cms.futurecdn.net/v3patvXwUeJtkRFKuZMnyH-1280-80.jpg",
+      "image": "https://cdn.mos.cms.futurecdn.net/9tUJSYQF4CSP7LFzwR8z8R-1280-80.jpg",
       "summary": "The Google Pixel 11 lineup has landed, and Verizon is already offering some exceptional deals on the flagship phones.",
       "tags": [
         "Pixel",
@@ -762,26 +842,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "coolapk-user-a28024b8b67a",
-      "title": "JSCHEN小小狐：iQOO Neo11 至尊版预热汇总：天玑 9500M",
-      "source": "JSCHEN小小狐",
-      "brand": "vivo",
-      "model": "vivo 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-08-13",
-      "time": "09:22",
-      "publishedAt": "2026-08-13T09:22:54.000Z",
-      "url": "https://www.coolapk.com/feed/73219812",
-      "image": "http://image.coolapk.com/feed/2026/0813/17/4702274_ef2f1f71_2971_3286_953@1500x3934.jpg",
-      "summary": "『iQOO Neo11 至尊版预热汇总：天玑 9500M』 ◇ 天玑 9500M 平台（GPU 12 核 → 11 核） ◇ Monster 超核引擎｜8K 冰穹 3D VC 散热 ◇ 自研电竞芯片 Q2｜寰宇电竞 Wi-Fi 三芯片 ◇ 超感触控芯片：多指 500Hz / 瞬时 4000Hz ◇ 6.83 英寸 2K OLED 直屏（维信诺 F2） ◇…",
-      "tags": [
-        "vivo",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
       "id": "auto-9974024a3c82",
       "title": "I love Pixel phones, but the Pixel 11 camera system isn’t enough",
       "source": "Android Authority",
@@ -1142,8 +1202,28 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-ca60ee5b25cb",
-      "title": "REDMI K100 Pro 系列发布：首销 3699 元起",
+      "id": "newsnow-8d729fef7701",
+      "title": "真是 18 码了。麒麟 9000S 在鸿蒙 6.1 就吃上了沉浸光感，虽说是残血版。你拿着骁龙 8e同代的 天玑 9400+ 还好意思说“硬件性能限制”？#HyperOS4##HyperOS3# #REDMIK90至尊版#",
+      "source": "酷安热榜",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-08-13",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/73215442",
+      "image": "",
+      "summary": "真是 18 码了。麒麟 9000S 在鸿蒙 6.1 就吃上了沉浸光感，虽说是残血版。你拿着骁龙 8e同代的 天玑 9400+ 还好意思说“硬件性能限制”？#HyperOS4##HyperOS3# #REDMIK90至尊版#",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-027c3af8f9bc",
+      "title": "9030Pro比9400+性能差多了吧，这液态玻璃我都用了大半年了快，没想到k80u直接砍了，小米系统部门一群饭桶。[受虐滑稽][受虐滑稽][受虐滑稽]#HyperOS4# #REDMIK100ProMax#",
       "source": "酷安热榜",
       "brand": "Xiaomi",
       "model": "Xiaomi 相关机型",
@@ -1152,9 +1232,9 @@ window.phoneRadarAuto = {
       "date": "2026-08-13",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73186553",
+      "url": "https://www.coolapk.com/feed/73226740",
       "image": "",
-      "summary": "REDMI K100 Pro 系列发布：首销 3699 元起",
+      "summary": "9030Pro比9400+性能差多了吧，这液态玻璃我都用了大半年了快，没想到k80u直接砍了，小米系统部门一群饭桶。[受虐滑稽][受虐滑稽][受虐滑稽]#HyperOS4# #REDMIK100ProMax#",
       "tags": [
         "Xiaomi",
         "爆料",
@@ -1162,81 +1242,21 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-18c88e786b3d",
-      "title": "小米阔折叠手机首次亮相：大R角设计，右上内屏镜头",
+      "id": "newsnow-c7fd88d03ab4",
+      "title": "iQOO Neo11 至尊版预热汇总：天玑 9500M",
       "source": "酷安热榜",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
+      "brand": "vivo",
+      "model": "vivo 相关机型",
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-08-13",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73212866",
+      "url": "https://www.coolapk.com/feed/73219812",
       "image": "",
-      "summary": "小米阔折叠手机首次亮相：大R角设计，右上内屏镜头",
+      "summary": "iQOO Neo11 至尊版预热汇总：天玑 9500M",
       "tags": [
-        "Xiaomi",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-72948de38b8f",
-      "title": "REDMI K100 Pro系列将首批推送澎湃OS 4正式版",
-      "source": "酷安热榜",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-08-13",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73215784",
-      "image": "",
-      "summary": "REDMI K100 Pro系列将首批推送澎湃OS 4正式版",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-1c08256cde19",
-      "title": "就这款机子而言，无论黑子再怎么黑，它也是牛逼。手机圈已经很久没有创新性产品了，而且还是量产机型。iphone的价格买到了旗舰安卓机+口袋云台设备，这价格没问题。",
-      "source": "酷安热榜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-08-13",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73207999",
-      "image": "",
-      "summary": "就这款机子而言，无论黑子再怎么黑，它也是牛逼。手机圈已经很久没有创新性产品了，而且还是量产机型。iphone的价格买到了旗舰安卓机+口袋云台设备，这价格没问题。",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-9f26de809977",
-      "title": "iPhone18系列发布节奏确认",
-      "source": "微博热搜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "待验证",
-      "date": "2026-08-13",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://s.weibo.com/weibo?q=%23iPhone18%E7%B3%BB%E5%88%97%E5%8F%91%E5%B8%83%E8%8A%82%E5%A5%8F%E7%A1%AE%E8%AE%A4%23&t=31&band_rank=18&Refer=top",
-      "image": "",
-      "summary": "iPhone18系列发布节奏确认",
-      "tags": [
-        "iPhone",
+        "vivo",
         "爆料",
         "NewsNow"
       ]
@@ -1262,21 +1282,21 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-ee3c12b44de6",
-      "title": "曝苹果iPhone 18搭载12GB内存",
+      "id": "newsnow-a8f37d913287",
+      "title": "手机的下一代交互样本来了",
       "source": "今日头条热榜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
+      "brand": "行业",
+      "model": "智能手机市场",
       "type": "爆料",
       "trust": "媒体汇总",
       "date": "2026-08-13",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.toutiao.com/trending/7672947112560197686/",
+      "url": "https://www.toutiao.com/trending/7673350841218108969/",
       "image": "",
-      "summary": "曝苹果iPhone 18搭载12GB内存",
+      "summary": "手机的下一代交互样本来了",
       "tags": [
-        "iPhone",
+        "行业",
         "爆料",
         "NewsNow"
       ]
@@ -1538,26 +1558,6 @@ window.phoneRadarAuto = {
       "tags": [
         "Pixel",
         "评测",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-254e69c9c5d2",
-      "title": "iPhone Ultra's Two Selfie Cameras Could Sit in the Same Corner",
-      "source": "MacRumors",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-12",
-      "time": "16:12",
-      "publishedAt": "2026-08-12T16:12:42.000Z",
-      "url": "https://www.macrumors.com/2026/08/12/iphone-ultra-selfie-cameras-same-corner/",
-      "image": "https://images.macrumors.com/article-new/2026/06/foldable-iphone-dummy-sonny-dickson.jpg",
-      "summary": "With Apple's upcoming iPhone Ultra there's been a lingering question over the exact placement of the selfie cameras in the device's folded and unfolded states – but today we may h…",
-      "tags": [
-        "iPhone",
-        "爆料",
         "自动抓取"
       ]
     },
@@ -2242,26 +2242,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-6705a692c510",
-      "title": "Pixel 11’s At a Glance wants to tell you what’s good at restaurants",
-      "source": "Android Authority",
-      "brand": "Pixel",
-      "model": "Pixel 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-12",
-      "time": "14:00",
-      "publishedAt": "2026-08-12T14:00:11.000Z",
-      "url": "https://www.androidauthority.com/google-pixel-11-at-a-glance-3697362/",
-      "image": "",
-      "summary": "Or what Maps users say is good, at least.",
-      "tags": [
-        "Pixel",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-27d02dfb819c",
       "title": "The Pixel 11 series is here, but Google saved the big upgrades for the Pro models",
       "source": "Android Central",
@@ -2399,6 +2379,26 @@ window.phoneRadarAuto = {
         "HONOR",
         "爆料",
         "微博"
+      ]
+    },
+    {
+      "id": "auto-22660e442261",
+      "title": "Foxconn used to make half its revenue from Apple; now it’s below 29%",
+      "source": "9to5Mac",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-12",
+      "time": "13:08",
+      "publishedAt": "2026-08-12T13:08:09.000Z",
+      "url": "https://9to5mac.com/2026/08/12/foxconn-used-to-make-half-its-revenue-from-apple-now-its-below-29/",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/Foxconn-used-to-make-half-its-revenue-from-Apple-now-its-below-29pc.jpg?quality=82&strip=all&w=1600",
+      "summary": "As Apple’s lead iPhone assembler, contract manufacturing company Foxconn long made more than half of its revenue from the Cupertino company. As of the last quarter, however, that…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
       ]
     }
   ]

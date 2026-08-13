@@ -1,14 +1,14 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-08-13T19:19:10.551Z",
+  "updatedAt": "2026-08-13T21:01:50.568Z",
   "issueDate": "2026-08-13",
   "issue": "VOL.260813",
   "title": "手机情报日报",
-  "intro": "今日筛出 11 条重点，其中 8 条是重点爆料，包含 7 条 iPhone 相关、1 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 12 条重点，其中 8 条是重点爆料，包含 6 条 iPhone 相关、2 条官方确认、0 条参数线索。",
   "stats": {
-    "total": 11,
-    "iphone": 7,
+    "total": 12,
+    "iphone": 6,
     "leaks": 8,
-    "official": 1,
+    "official": 2,
     "specs": 0
   },
   "sections": [
@@ -35,30 +35,6 @@ window.phoneRadarDaily = {
           "detail": "IT之家 8 月 13 日消息，外媒 ChannelNews 援引一位匿名零部件供应商消息，称苹果首款折叠屏手机 iPhone Ultra 有限的首批货源可能会优先供应美国市场，随后再陆续进入包括中国在内的其他主要市场。 事实上，此前就已经有多份消息称 iPhone Ultra 初期产能可能非常有限 。如果供应情况确实如此紧张，那么苹果采取美国市场优先、随…",
           "keyPoints": [
             "屏幕形态",
-            "爆料来源"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "newsnow-1c08256cde19",
-          "title": "就这款机子而言，无论黑子再怎么黑，它也是牛逼。手机圈已经很久没有创新性产品了，而且还是量产机型。iphone的价格买到了旗舰安卓机+口袋云台设备，这价格没问题。",
-          "originalTitle": "",
-          "source": "酷安热榜",
-          "brand": "iPhone",
-          "type": "爆料",
-          "trust": "高关注爆料源",
-          "date": "2026-08-13",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://www.coolapk.com/feed/73207999",
-          "image": "",
-          "verdict": "先看",
-          "takeaway": "就这款机子而言，无论黑子再怎么黑，它也是牛逼。手机圈已经很久没有创新性产品了，而且还是量产机型。iphone的价格买到了旗舰安卓机+口袋云台设备，这价格没问题。",
-          "detail": "就这款机子而言，无论黑子再怎么黑，它也是牛逼。手机圈已经很久没有创新性产品了，而且还是量产机型。iphone的价格买到了旗舰安卓机+口袋云台设备，这价格没问题。",
-          "keyPoints": [
-            "成本 / 价格",
             "爆料来源"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
@@ -205,6 +181,30 @@ window.phoneRadarDaily = {
           "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "weibo-b71118c90ce9",
+          "title": "数码闲聊站：荣耀Magic9系列定档9月，全新横向延伸+左上角大圆DECO，金属中框，阿莱…",
+          "originalTitle": "",
+          "source": "数码闲聊站",
+          "brand": "HONOR",
+          "type": "爆料",
+          "trust": "高关注爆料源",
+          "date": "2026-08-12",
+          "time": "13:51",
+          "publishedAt": "2026-08-12T13:51:00.000Z",
+          "url": "https://weibo.com/6048569942/Rd5Sznbn0",
+          "image": "https://tvax1.sinaimg.cn/mw2000/006BlblIgy1ig1a2hfry7j31b11jkn94.jpg",
+          "verdict": "先看",
+          "takeaway": "荣耀Magic9系列定档9月，全新横向延伸+左上角大圆DECO，金属中框，阿莱影像，喜欢吗？",
+          "detail": "荣耀Magic9系列定档9月，全新横向延伸+左上角大圆DECO，金属中框，阿莱影像，喜欢吗？",
+          "keyPoints": [
+            "影像硬件",
+            "爆料来源"
+          ],
+          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         }
       ]
     },
@@ -265,6 +265,29 @@ window.phoneRadarDaily = {
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是实际体验内容，买前适合重点看缺点和取舍。",
           "action": "中文源可以直接点开快读；看完只保留和购机有关的点。"
+        },
+        {
+          "id": "auto-b8cd47ce0d60",
+          "title": "Pixel 11 Pro 功能更新或覆盖范围扩大",
+          "originalTitle": "",
+          "source": "Google Blog",
+          "brand": "Pixel",
+          "type": "官方",
+          "trust": "官方确认",
+          "date": "2026-08-13",
+          "time": "16:00",
+          "publishedAt": "2026-08-13T16:00:00.000Z",
+          "url": "https://blog.google/products-and-platforms/devices/pixel/pixel-11-pro-hilight/",
+          "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/KW_G_HiLite.max-600x600.format-webp.webp",
+          "verdict": "扫一眼",
+          "takeaway": "Pixel 11 Pro 功能更新或覆盖范围扩大。已转成中文摘要展示，详细内容可打开原文核对。",
+          "detail": "Pixel 11 Pro 功能更新或覆盖范围扩大。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
+          "keyPoints": [
+            "官方"
+          ],
+          "confidence": "官方内容，可直接作为已确认信息记录。",
+          "impact": "可信度高，但如果不是配置/价格消息，只需要扫一眼。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         }
       ]
     },
