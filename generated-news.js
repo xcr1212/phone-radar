@@ -1,5 +1,5 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-08-13T02:45:48.638Z",
+  "updatedAt": "2026-08-13T05:48:21.485Z",
   "news": [
     {
       "id": "auto-c302ef3eaacf",
@@ -19,6 +19,166 @@ window.phoneRadarAuto = {
         "Samsung",
         "官方",
         "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-927b46aacac7",
+      "title": "Standard Honor Magic 9 design details emerged – better than before",
+      "source": "Huawei Central",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-13",
+      "time": "05:29",
+      "publishedAt": "2026-08-13T05:29:01.000Z",
+      "url": "https://www.huaweicentral.com/standard-honor-magic-9-design-details-emerged/",
+      "image": "https://www.huaweicentral.com/wp-content/uploads/2026/08/Magic-9-camera.jpg",
+      "summary": "Honor has showcased the design of the high-end Magic 9 variant at the new Robot Phone launch event, while the standard model was missing from the frame. Now a new leak says the va…",
+      "tags": [
+        "HONOR",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-335521ead11d",
+      "title": "竹本青：【胡馨心：REDMI K100 Pro系列 会首批推送小米澎湃OS 4 正式版】 8月13日，小米澎湃OS 4首批…",
+      "source": "竹本青",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-08-13",
+      "time": "05:21",
+      "publishedAt": "2026-08-13T05:21:33.000Z",
+      "url": "https://www.coolapk.com/feed/73215784",
+      "image": "http://image.coolapk.com/feed/2026/0813/13/4248714_611f7816_8491_8617_669@1272x797.jpg",
+      "summary": "【胡馨心：REDMI K100 Pro系列 会首批推送小米澎湃OS 4 正式版】 8月13日，小米澎湃OS 4首批Beta版招募机型官宣。去年发布的REDMI K90、K90 Pro Max两款手机入选名单，将在明日率先开启内测。 而刚刚发布两天的 K100 Pro系列 却并未纳入首批Beta版招募，需等至9月17日（第三批）才将陆续推送。因此，该更新节奏…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-7aebf3185485",
+      "title": "Vivo S50t Vitality Edition launches with Snapdragon 8s Gen 3, 6,500mAh battery, 50MP periscope camera",
+      "source": "Gizmochina",
+      "brand": "vivo",
+      "model": "vivo 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-13",
+      "time": "05:12",
+      "publishedAt": "2026-08-13T05:12:54.000Z",
+      "url": "https://www.gizmochina.com/2026/08/13/vivo-s50t-vitality-edition-launched-price-specifications/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/08/Vivo-S50-Vitality-Edition--300x256.jpg?x23692",
+      "summary": "Vivo unveiled the S60 and S60 Vitality Edition in May, but the company has now unexpectedly launched a device from the previous S50 generation. The new Vivo S50t Vitality Edition…",
+      "tags": [
+        "vivo",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-06930be0cd5b",
+      "title": "Vivo X500 Pro Max’s fast charging speed revealed via 3C certification",
+      "source": "Gizmochina",
+      "brand": "vivo",
+      "model": "vivo 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-13",
+      "time": "04:48",
+      "publishedAt": "2026-08-13T04:48:00.000Z",
+      "url": "https://www.gizmochina.com/2026/08/13/vivo-x500-pro-max-3c-certified/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/07/Vivo-X300-Pro-5G-phone-300x169.png?x23692",
+      "summary": "Last month, the Vivo X500 Pro Max’s global version bearing the model number V2610 was spotted on Indonesia’s TKDN certification platform. In a new development, its Chinese edition…",
+      "tags": [
+        "vivo",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-8fab538d2145",
+      "title": "Honor Magic 9 series leak reveals chip and camera specs",
+      "source": "Huawei Central",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-13",
+      "time": "04:14",
+      "publishedAt": "2026-08-13T04:14:24.000Z",
+      "url": "https://www.huaweicentral.com/honor-magic-9-series-leak-reveals-chip-and-camera-specs/",
+      "image": "https://www.huaweicentral.com/wp-content/uploads/2026/08/Magic-9-launch.jpg",
+      "summary": "Honor Magic 9 series will officially launch next month, and in the meantime, tipsters have started revealing the key specs of the flagship, including chipset and camera parameters…",
+      "tags": [
+        "HONOR",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-42acc753798e",
+      "title": "Honor Magic 9 series officially set to launch on September 28, 2nm chip, ARRI imaging expected",
+      "source": "Gizmochina",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-13",
+      "time": "04:03",
+      "publishedAt": "2026-08-13T04:03:28.000Z",
+      "url": "https://www.gizmochina.com/2026/08/13/honor-magic-9-series-september-28-launch-2nm-chip-arri-camera/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/08/Honor-Magic-9-series-launch-date-revealed-300x175.png?x23692",
+      "summary": "Honor has confirmed the launch date for its next flagship smartphone series, with the Honor Magic 9 lineup scheduled to arrive in September. The company has also teased major upgr…",
+      "tags": [
+        "HONOR",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-8a16d26bbb1e",
+      "title": "竹本青：【王腾换上REDMI K100 Pro Max：屏幕素质、音质效果是行业领先】 8月13日，王腾宣布换新手机，晒出…",
+      "source": "竹本青",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-08-13",
+      "time": "03:58",
+      "publishedAt": "2026-08-13T03:58:34.000Z",
+      "url": "https://www.coolapk.com/feed/73214406",
+      "image": "http://image.coolapk.com/feed/2026/0813/11/4248714_ac382e19_3513_6853_209@1272x1721.jpg",
+      "summary": "【王腾换上REDMI K100 Pro Max：屏幕素质、音质效果是行业领先】 8月13日，王腾宣布换新手机，晒出机型为REDMI K100 Pro Max「赤霞珠红」版本。 王腾评价，REDMI的整机精致度和CMF都越来越出色，K100 Pro Max颜值太高了，屏幕素质、音质效果更是行业领先。 #RedmiK90ProMax# #REDMIK100Pr…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "coolapk-user-baf359a92ed6",
+      "title": "竹本青：大帝换K100 Pro Max了 #REDMIK100ProMax# #红米k90promax#",
+      "source": "竹本青",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-08-13",
+      "time": "03:47",
+      "publishedAt": "2026-08-13T03:47:56.000Z",
+      "url": "https://www.coolapk.com/feed/73214211",
+      "image": "http://image.coolapk.com/feed/2026/0813/11/4248714_ac382e19_2875_2759_783@1272x1721.jpg",
+      "summary": "大帝换K100 Pro Max了 #REDMIK100ProMax# #红米k90promax#",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "酷安博主"
       ]
     },
     {
@@ -43,7 +203,7 @@ window.phoneRadarAuto = {
     },
     {
       "id": "coolapk-user-f61917f8baef",
-      "title": "JSCHEN小小狐：『消息称荣耀 Magic9 系列或定档 9 月 28 日』 知名数码博主 数码闲聊站 发博爆料称，荣耀全新 Mag…",
+      "title": "JSCHEN小小狐：消息称荣耀 Magic9 系列或将于 9 月 28 日发布",
       "source": "JSCHEN小小狐",
       "brand": "HONOR",
       "model": "HONOR 相关机型",
@@ -119,46 +279,6 @@ window.phoneRadarAuto = {
         "HONOR",
         "爆料",
         "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-aef1730f917e",
-      "title": "小米卢伟冰：决定不开澎湃 OS 4 发布会，今天上午 11 点首批 Beta 版机型开启招募",
-      "source": "IT之家",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-13",
-      "time": "01:07",
-      "publishedAt": "2026-08-13T01:07:16.000Z",
-      "url": "https://www.ithome.com/0/989/039.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/8/ee910604-7668-487a-bb78-fd49975329d8.jpg?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 8 月 13 日消息，小米集团合伙人、总裁，手机部总裁，小米品牌总经理卢伟冰今日宣布，小米澎湃 OS 4 Beta 版要与大家见面了。 这次决定不开发布会 ，而是通过更多的用户反馈，持续优化体验。 今天上午 11 点， 首批 Beta 版机型招募将在小米社区开启 。 IT之家获悉，小米澎湃 OS 4 的核心目标有两个： 持续打磨基础体验与易用性…",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "coolapk-user-3527e4eb5964",
-      "title": "竹本青：【小米澎湃OS 4 正式官宣：不开发布会，今天开启首批 Beta版 机型招募】 8月13日，小米卢伟冰正式官宣澎湃…",
-      "source": "竹本青",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-08-13",
-      "time": "01:00",
-      "publishedAt": "2026-08-13T01:00:32.000Z",
-      "url": "https://www.coolapk.com/feed/73210744",
-      "image": "http://image.coolapk.com/feed/2026/0813/10/4248714_569b0237_6914_7278_676@1400x787.jpg",
-      "summary": "【小米澎湃OS 4 正式官宣：不开发布会，今天开启首批 Beta版 机型招募】 8月13日，小米卢伟冰正式官宣澎湃OS 4。 他表示，本次新系统决定不召开发布会，将推出“澎湃同行计划”，由专项团队跟进用户反馈，进行持续迭代。今天上午11点，将直接开启首批 Beta版 机型招募。 以下为小米 澎湃OS4 更新内容： ● 内核技术升级：负载精算、内存预载 分别…",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "酷安博主"
       ]
     },
     {
@@ -282,48 +402,48 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-0b5100fbb8df",
-      "title": "荣耀Magic9系列外观曝光：阿莱联名标识",
+      "id": "newsnow-18c88e786b3d",
+      "title": "小米阔折叠手机首次亮相：大R角设计，右上内屏镜头",
       "source": "酷安热榜",
-      "brand": "HONOR",
-      "model": "HONOR 相关机型",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-08-13",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73203454",
+      "url": "https://www.coolapk.com/feed/73212866",
       "image": "",
-      "summary": "荣耀Magic9系列外观曝光：阿莱联名标识",
+      "summary": "小米阔折叠手机首次亮相：大R角设计，右上内屏镜头",
       "tags": [
-        "HONOR",
+        "Xiaomi",
         "爆料",
         "NewsNow"
       ]
     },
     {
-      "id": "newsnow-42d05030fdf4",
-      "title": "荣耀 Magic 9系列将于9月发布：现已开启预约",
-      "source": "酷安热榜",
-      "brand": "HONOR",
-      "model": "HONOR 相关机型",
+      "id": "newsnow-40c1fe3cf2f9",
+      "title": "手机壳 偷拍",
+      "source": "微博热搜",
+      "brand": "行业",
+      "model": "智能手机市场",
       "type": "爆料",
-      "trust": "高关注爆料源",
+      "trust": "待验证",
       "date": "2026-08-13",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73204649",
+      "url": "https://s.weibo.com/weibo?q=%E6%89%8B%E6%9C%BA%E5%A3%B3%20%E5%81%B7%E6%8B%8D&t=31&band_rank=2&Refer=top",
       "image": "",
-      "summary": "荣耀 Magic 9系列将于9月发布：现已开启预约",
+      "summary": "手机壳 偷拍",
       "tags": [
-        "HONOR",
+        "行业",
         "爆料",
         "NewsNow"
       ]
     },
     {
-      "id": "newsnow-08298690e6b3",
-      "title": "据媒体报道部分手机壳疑似采用废弃针管等医疗垃圾加工而成，真的吗？对健康会有多大危害？消费者该如何辨别？",
+      "id": "newsnow-d830b73c7598",
+      "title": "媒体曝茶颜悦色入职培训强制收手机、被子叠「豆腐块」，具体什么情况？企业的行为侵犯员工权益了吗？",
       "source": "知乎热榜",
       "brand": "行业",
       "model": "智能手机市场",
@@ -332,9 +452,9 @@ window.phoneRadarAuto = {
       "date": "2026-08-13",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.zhihu.com/question/2070066925363619123",
+      "url": "https://www.zhihu.com/question/2070982459156424668",
       "image": "",
-      "summary": "据媒体报道部分手机壳疑似采用废弃针管等医疗垃圾加工而成，真的吗？对健康会有多大危害？消费者该如何辨别？",
+      "summary": "媒体曝茶颜悦色入职培训强制收手机、被子叠「豆腐块」，具体什么情况？企业的行为侵犯员工权益了吗？",
       "tags": [
         "行业",
         "市场报告",
@@ -342,83 +462,23 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-c424a5161f7d",
-      "title": "机器人手机发布首日官网商城售罄",
-      "source": "今日头条热榜",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
+      "id": "newsnow-56935a0bc022",
+      "title": "如何评价荣耀发布的全球首款机器人手机 Robot Phone，有哪些亮点和槽点？",
+      "source": "知乎热榜",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "市场报告",
       "trust": "媒体汇总",
       "date": "2026-08-13",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.toutiao.com/trending/7673201821930995748/",
+      "url": "https://www.zhihu.com/question/2070661978675209184",
       "image": "",
-      "summary": "机器人手机发布首日官网商城售罄",
+      "summary": "如何评价荣耀发布的全球首款机器人手机 Robot Phone，有哪些亮点和槽点？",
       "tags": [
-        "行业",
-        "爆料",
+        "HONOR",
+        "市场报告",
         "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-c9748489545a",
-      "title": "15万亿元投资新机遇来了",
-      "source": "抖音热点",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "待验证",
-      "date": "2026-08-13",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.douyin.com/hot/2606839",
-      "image": "",
-      "summary": "15万亿元投资新机遇来了",
-      "tags": [
-        "行业",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "auto-9dd443990bbf",
-      "title": "消息称苹果 iPhone 18 标准版搭载 12GB 内存，且拥有 Pro 机型同款缩小版灵动岛",
-      "source": "IT之家",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-12",
-      "time": "23:27",
-      "publishedAt": "2026-08-12T23:27:08.000Z",
-      "url": "https://www.ithome.com/0/989/013.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/8/c3a942be-21e0-439a-acdc-44b74e6644b8.png?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 8 月 13 日消息，苹果标准版 iPhone 18 要到 2027 年初才会发布，但届时该机可能会获得两个此前仅 Pro 机型才有的特性。 IT之家注意到，距离苹果 9 月举行年度秋季发布会已经只剩几周，届时 iPhone 18 Pro 等新品将正式亮相。 多方消息显示，标准版 iPhone 18 不会出现在此次发布会上。苹果预计只会推出 iP…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-9326c3d53a25",
-      "title": "和硕间接确认：苹果 iPhone 18 Pro 今秋发布，标准版推迟至明年发布",
-      "source": "IT之家",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-12",
-      "time": "23:03",
-      "publishedAt": "2026-08-12T23:03:48.000Z",
-      "url": "https://www.ithome.com/0/989/008.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/8/01ba9bc0-aa88-4f1f-b1cc-58f11f12b895.jpg?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 8 月 13 日消息，据台湾地区《经济日报》报道，苹果供应商和硕今天间接确认，标准版 iPhone 18 将推迟到明年发布。和硕透露，其某家客户将调整以往的智能手机出货时间表。 和硕今天举行了 2026 年第二季度业绩电话会议。和硕在会议上表示，一家客户将改变惯常的智能手机出货安排。正如外界此前广泛预期的那样，苹果计划于今年 9 月推出 iPho…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
       ]
     },
     {
@@ -477,26 +537,6 @@ window.phoneRadarAuto = {
       "summary": "The Pixel 11 Pro Fold is sneakily maybe the most impressive of Google’s new releases this week, but on picking it up one thing caught my eye – one half of it is thicker than the o…",
       "tags": [
         "Pixel",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-e40ba025f05f",
-      "title": "Counterpoint：2026 年二季度美国智能手机销量同比降 5%，低端市场承压",
-      "source": "IT之家",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-12",
-      "time": "20:25",
-      "publishedAt": "2026-08-12T20:25:43.000Z",
-      "url": "https://www.ithome.com/0/989/003.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/8/a88a6cc1-044a-489a-8833-4e7415478bf6.jpg?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 8 月 13 日消息，Counterpoint 最新报告显示，受内存价格上涨以及其他宏观经济因素影响，消费者需求疲软，2026 年第二季度美国智能手机销量同比下降 5% 。 报告指出，本季度消费者面临双重冲击：中东冲突导致汽油等商品价格上涨，影响了消费者对智能手机及其他电子产品的购买力；同时，超大规模企业对 RAM 的需求大幅上升，显著推高了智能…",
-      "tags": [
-        "行业",
         "爆料",
         "自动抓取"
       ]
@@ -1822,6 +1862,26 @@ window.phoneRadarAuto = {
       ]
     },
     {
+      "id": "coolapk-user-8175a6aa0799",
+      "title": "竹本青：荣耀 Magic 9系列将于9月发布：现已开启预约",
+      "source": "竹本青",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-08-12",
+      "time": "12:44",
+      "publishedAt": "2026-08-12T12:44:46.000Z",
+      "url": "https://www.coolapk.com/feed/73204649",
+      "image": "http://image.coolapk.com/feed/2026/0812/20/4248714_97912e98_8685_9079_78@2560x1440.jpg",
+      "summary": "【荣耀 Magic9系列 官宣9月发布：更聪明的YOYO，更强大的ARRI影像，现已开启预约】 8月12日，在荣耀Robot Phone发布会上，CEO李健宣布 Magic9系列 即日起开启预约，并将于9月正式发布。 “Robot Phone只是荣耀敢想、敢不同的起点，比Robot Phone更聪明的YOYO，更强大的ARRI影像，将在焕然一新的Magic…",
+      "tags": [
+        "HONOR",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
       "id": "auto-cf55c2101c7a",
       "title": "'iPhone Ultra' Screen Protectors Reveal Asymmetric Corners",
       "source": "MacRumors",
@@ -1839,26 +1899,6 @@ window.phoneRadarAuto = {
         "iPhone",
         "爆料",
         "自动抓取"
-      ]
-    },
-    {
-      "id": "coolapk-user-9786a61c8c36",
-      "title": "竹本青：【荣耀Robot Phone 正式发布：自研钛合金云台，骁龙8 Elite Gen5平台，9999元起】 12GB…",
-      "source": "竹本青",
-      "brand": "HONOR",
-      "model": "HONOR 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-08-12",
-      "time": "12:36",
-      "publishedAt": "2026-08-12T12:36:48.000Z",
-      "url": "https://www.coolapk.com/feed/73204505",
-      "image": "http://image.coolapk.com/feed/2026/0812/20/4248714_927ec847_9488_0565_802@1820x4096.jpg",
-      "summary": "【荣耀Robot Phone 正式发布：自研钛合金云台，骁龙8 Elite Gen5平台，9999元起】 12GB+512GB —— 9999元 16GB+1TB —— 12999元 核心： ● 6.31\"1.5K 120Hz LTPO直屏 ● 骁龙8 Elite Gen5处理器 ● LPDDR5X+UFS4.1 ● 7060mAh+120W有线+50W无…",
-      "tags": [
-        "HONOR",
-        "爆料",
-        "酷安博主"
       ]
     },
     {
@@ -2022,26 +2062,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-2f08df728352",
-      "title": "Galaxy S27 series might not feature a camera with variable aperture",
-      "source": "SamMobile",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-12",
-      "time": "08:43",
-      "publishedAt": "2026-08-12T08:43:25.000Z",
-      "url": "https://www.sammobile.com/news/galaxy-s27-pro-ultra-camera-no-variable-aperture/",
-      "image": "",
-      "summary": "It was rumored that Samsung could introduce a variable aperture camera in the Galaxy S27 series, and reports claimed that the company was already testing related components. Howev…",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-4dd4ed244e76",
       "title": "Huawei to launch two mysterious phones alongside Mate 90 next month",
       "source": "Huawei Central",
@@ -2057,26 +2077,6 @@ window.phoneRadarAuto = {
       "summary": "Huawei Mate 90 series launch event is expected to take place on the 23rd of next month, and at the same time, the company could unveil two mysterious phones. A new leak suggests t…",
       "tags": [
         "Huawei",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-6d57c74d45e6",
-      "title": "Samsung adds a new ringtone to its collection with Galaxy Z Flip 8 and Z Fold 8",
-      "source": "SamMobile",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-12",
-      "time": "07:54",
-      "publishedAt": "2026-08-12T07:54:23.000Z",
-      "url": "https://www.sammobile.com/news/samsung-chopin-nocturne-opus-9-ringtone-galaxy-z-flip-fold-8/",
-      "image": "",
-      "summary": "Every year, Samsung launches a new version of its iconic “Over the Horizon” ringtone. This year is no different, as the company released an epic, cinematic take on its ringtone. H…",
-      "tags": [
-        "Samsung",
         "爆料",
         "自动抓取"
       ]
@@ -2099,26 +2099,6 @@ window.phoneRadarAuto = {
         "Huawei",
         "爆料",
         "微博"
-      ]
-    },
-    {
-      "id": "auto-b974bbb2c7a2",
-      "title": "Huawei Pura X Max to soon get a new color variant",
-      "source": "Huawei Central",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-12",
-      "time": "06:13",
-      "publishedAt": "2026-08-12T06:13:34.000Z",
-      "url": "https://www.huaweicentral.com/huawei-pura-x-max-to-soon-get-a-new-color-variant/",
-      "image": "https://www.huaweicentral.com/wp-content/uploads/2026/04/Pura-X-Maxfoldable.jpg",
-      "summary": "Huawei Pura X Max already has five color options, and it seems the company is now planning to add one more variant to this foldable lineup. A new leak suggests that the tech giant…",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "自动抓取"
       ]
     },
     {

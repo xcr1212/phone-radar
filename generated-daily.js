@@ -1,5 +1,5 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-08-13T02:45:48.638Z",
+  "updatedAt": "2026-08-13T05:48:21.485Z",
   "issueDate": "2026-08-13",
   "issue": "VOL.260813",
   "title": "手机情报日报",
@@ -17,52 +17,6 @@ window.phoneRadarDaily = {
       "title": "重点爆料",
       "hint": "机模、配色、影像、屏幕、电池和芯片线索先看。",
       "items": [
-        {
-          "id": "auto-9dd443990bbf",
-          "title": "消息称苹果 iPhone 18 标准版搭载 12GB 内存，且拥有 Pro 机型同款缩小版灵动岛",
-          "originalTitle": "",
-          "source": "IT之家",
-          "brand": "iPhone",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-08-12",
-          "time": "23:27",
-          "publishedAt": "2026-08-12T23:27:08.000Z",
-          "url": "https://www.ithome.com/0/989/013.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/8/c3a942be-21e0-439a-acdc-44b74e6644b8.png?x-bce-process=image/format,f_auto",
-          "verdict": "先看",
-          "takeaway": "IT之家 8 月 13 日消息，苹果标准版 iPhone 18 要到 2027 年初才会发布，但届时该机可能会获得两个此前仅 Pro 机型才有的特性。 IT之家注意到，距离苹果 9 月举行年度秋季发布会已经只剩几周，届时 iPhone 18 Pro 等新品将正式亮相。 多方消息显示，标准版 iPhone 18 不会出现在此次发布会上。苹果预计只会推出 iP…",
-          "detail": "IT之家 8 月 13 日消息，苹果标准版 iPhone 18 要到 2027 年初才会发布，但届时该机可能会获得两个此前仅 Pro 机型才有的特性。 IT之家注意到，距离苹果 9 月举行年度秋季发布会已经只剩几周，届时 iPhone 18 Pro 等新品将正式亮相。 多方消息显示，标准版 iPhone 18 不会出现在此次发布会上。苹果预计只会推出 iP…",
-          "keyPoints": [
-            "爆料来源"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "auto-9326c3d53a25",
-          "title": "和硕间接确认：苹果 iPhone 18 Pro 今秋发布，标准版推迟至明年发布",
-          "originalTitle": "",
-          "source": "IT之家",
-          "brand": "iPhone",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-08-12",
-          "time": "23:03",
-          "publishedAt": "2026-08-12T23:03:48.000Z",
-          "url": "https://www.ithome.com/0/989/008.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/8/01ba9bc0-aa88-4f1f-b1cc-58f11f12b895.jpg?x-bce-process=image/format,f_auto",
-          "verdict": "先看",
-          "takeaway": "IT之家 8 月 13 日消息，据台湾地区《经济日报》报道，苹果供应商和硕今天间接确认，标准版 iPhone 18 将推迟到明年发布。和硕透露，其某家客户将调整以往的智能手机出货时间表。 和硕今天举行了 2026 年第二季度业绩电话会议。和硕在会议上表示，一家客户将改变惯常的智能手机出货安排。正如外界此前广泛预期的那样，苹果计划于今年 9 月推出 iPho…",
-          "detail": "IT之家 8 月 13 日消息，据台湾地区《经济日报》报道，苹果供应商和硕今天间接确认，标准版 iPhone 18 将推迟到明年发布。和硕透露，其某家客户将调整以往的智能手机出货时间表。 和硕今天举行了 2026 年第二季度业绩电话会议。和硕在会议上表示，一家客户将改变惯常的智能手机出货安排。正如外界此前广泛预期的那样，苹果计划于今年 9 月推出 iPho…",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
         {
           "id": "newsnow-1c08256cde19",
           "title": "就这款机子而言，无论黑子再怎么黑，它也是牛逼。手机圈已经很久没有创新性产品了，而且还是量产机型。iphone的价格买到了旗舰安卓机+口袋云台设备，这价格没问题。",
@@ -202,6 +156,53 @@ window.phoneRadarDaily = {
           "keyPoints": [
             "影像硬件",
             "屏幕形态",
+            "爆料来源"
+          ],
+          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "auto-7c1cf61dfa1c",
+          "title": "iPhone 20 Pro 外观设计线索曝光",
+          "originalTitle": "",
+          "source": "9to5Mac",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-08-12",
+          "time": "12:19",
+          "publishedAt": "2026-08-12T12:19:34.000Z",
+          "url": "https://9to5mac.com/2026/08/12/iphone-20-pros-all-glass-design-spotted-in-supply-chain-says-leaker/",
+          "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/05/iphone-20th-anniversary.jpg?quality=82&strip=all&w=1600",
+          "verdict": "先看",
+          "takeaway": "iPhone 20 Pro 外观设计线索曝光。重点看外观、颜色、尺寸是否和上一代有明显变化。",
+          "detail": "iPhone 20 Pro 外观设计线索曝光。这类内容主要看外观设计、按键布局、相机模组和尺寸变化，后续最好等更多渲染图或保护壳线索互相验证。",
+          "keyPoints": [
+            "外观 / 配色 / 尺寸",
+            "爆料来源"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "auto-06fd8e418a07",
+          "title": "iPhone 相关消息",
+          "originalTitle": "",
+          "source": "MacRumors",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-08-12",
+          "time": "11:43",
+          "publishedAt": "2026-08-12T11:43:28.000Z",
+          "url": "https://www.macrumors.com/2026/08/12/all-glass-20th-anniversary-iphone-on-track/",
+          "image": "https://images.macrumors.com/article-new/2026/01/Mostly-Screen-iPhone-Purple-Feature-2027.jpg",
+          "verdict": "先看",
+          "takeaway": "iPhone 相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
+          "detail": "iPhone 相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
+          "keyPoints": [
             "爆料来源"
           ],
           "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
