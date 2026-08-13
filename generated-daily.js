@@ -1,12 +1,12 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-08-13T07:51:50.089Z",
+  "updatedAt": "2026-08-13T09:32:52.226Z",
   "issueDate": "2026-08-13",
   "issue": "VOL.260813",
   "title": "手机情报日报",
-  "intro": "今日筛出 10 条重点，其中 8 条是重点爆料，包含 9 条 iPhone 相关、0 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 8 条重点，其中 8 条是重点爆料，包含 7 条 iPhone 相关、0 条官方确认、0 条参数线索。",
   "stats": {
-    "total": 10,
-    "iphone": 9,
+    "total": 8,
+    "iphone": 7,
     "leaks": 8,
     "official": 0,
     "specs": 0
@@ -207,59 +207,6 @@ window.phoneRadarDaily = {
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        }
-      ]
-    },
-    {
-      "id": "iphone",
-      "title": "iPhone 重点",
-      "hint": "不是硬件爆料，但和 iPhone 体验或路线有关。",
-      "items": [
-        {
-          "id": "auto-7db85b81dc01",
-          "title": "把「闪念胶囊」（Almost）放到 iPhone 锁屏",
-          "originalTitle": "",
-          "source": "少数派",
-          "brand": "iPhone",
-          "type": "评测",
-          "trust": "媒体汇总",
-          "date": "2026-08-12",
-          "time": "09:30",
-          "publishedAt": "2026-08-12T09:30:00.000Z",
-          "url": "https://sspai.com/post/113219",
-          "image": "",
-          "verdict": "先看",
-          "takeaway": "想法被及时、完好的记下来，然后呢？",
-          "detail": "想法被及时、完好的记下来，然后呢？",
-          "keyPoints": [
-            "评测"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是实际体验内容，买前适合重点看缺点和取舍。",
-          "action": "中文源可以直接点开快读；看完只保留和购机有关的点。"
-        },
-        {
-          "id": "auto-1bd890e062d8",
-          "title": "我，与「唯一」的 iPhone Air",
-          "originalTitle": "",
-          "source": "少数派",
-          "brand": "iPhone",
-          "type": "评测",
-          "trust": "媒体汇总",
-          "date": "2026-08-12",
-          "time": "03:04",
-          "publishedAt": "2026-08-12T03:04:34.000Z",
-          "url": "https://sspai.com/post/112880",
-          "image": "",
-          "verdict": "先看",
-          "takeaway": "在 iPhone Air 之后才发现，有些产品存在的意义，是帮我确认我真正需要什么。",
-          "detail": "在 iPhone Air 之后才发现，有些产品存在的意义，是帮我确认我真正需要什么。",
-          "keyPoints": [
-            "评测"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是实际体验内容，买前适合重点看缺点和取舍。",
-          "action": "中文源可以直接点开快读；看完只保留和购机有关的点。"
         }
       ]
     }

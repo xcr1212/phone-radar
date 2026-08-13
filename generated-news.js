@@ -1,6 +1,186 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-08-13T07:51:50.089Z",
+  "updatedAt": "2026-08-13T09:32:52.226Z",
   "news": [
+    {
+      "id": "auto-ee8182165abf",
+      "title": "Google Pixel 11 vs. Galaxy S26: 6 reasons I’m buying Pixel this year",
+      "source": "Android Authority",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-13",
+      "time": "09:30",
+      "publishedAt": "2026-08-13T09:30:36.000Z",
+      "url": "https://www.androidauthority.com/google-pixel-11-vs-samsung-galaxy-s26-3697495/",
+      "image": "",
+      "summary": "Why I think the Pixel 11 is the better Android flagship.",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-caa24bad6c6c",
+      "title": "iQOO Neo11 至尊版手机官宣行业首发天玑 9500M 处理器",
+      "source": "IT之家",
+      "brand": "vivo",
+      "model": "vivo 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-13",
+      "time": "09:22",
+      "publishedAt": "2026-08-13T09:22:55.000Z",
+      "url": "https://www.ithome.com/0/989/337.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/8/5f8ba6f0-ab77-44d8-8c3d-622c1dd1274d.jpg?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 8 月 13 日消息，iQOO 手机官方今日宣布， iQOO Neo11 至尊版将行业首发天玑 9500M 处理器 。 预热海报显示， 天玑 9500M 处理器由 iQOO 和 MediaTek 联合定制 ，采用 3nm 制程工艺 + 全大核 CPU 架构， 支持新一代 Monster 超核引擎 ，并写入芯片底层。 据IT之家昨日报道，iQOO…",
+      "tags": [
+        "vivo",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-a28024b8b67a",
+      "title": "JSCHEN小小狐：『iQOO Neo11 至尊版预热汇总：天玑 9500M』 ◇ 天玑 9500M 平台（GPU 12 核 → 11…",
+      "source": "JSCHEN小小狐",
+      "brand": "vivo",
+      "model": "vivo 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-08-13",
+      "time": "09:22",
+      "publishedAt": "2026-08-13T09:22:54.000Z",
+      "url": "https://www.coolapk.com/feed/73219812",
+      "image": "http://image.coolapk.com/feed/2026/0813/17/4702274_ef2f1f71_2971_3286_953@1500x3934.jpg",
+      "summary": "『iQOO Neo11 至尊版预热汇总：天玑 9500M』 ◇ 天玑 9500M 平台（GPU 12 核 → 11 核） ◇ Monster 超核引擎｜8K 冰穹 3D VC 散热 ◇ 自研电竞芯片 Q2｜寰宇电竞 Wi-Fi 三芯片 ◇ 超感触控芯片：多指 500Hz / 瞬时 4000Hz ◇ 6.83 英寸 2K OLED 直屏（维信诺 F2） ◇…",
+      "tags": [
+        "vivo",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-6814af5d2c3d",
+      "title": "谷歌推出 Android 设备近距离数据快速共享，仅需点击即可完成",
+      "source": "IT之家",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-13",
+      "time": "09:00",
+      "publishedAt": "2026-08-13T09:00:18.000Z",
+      "url": "https://www.ithome.com/0/989/286.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/8/2f7c89c5-24d5-44cb-9150-27116bbb2553.jpg?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 8 月 13 日消息，Google（谷歌）当地时间 12 日宣布为 Android 设备推出 仅需点击一下即可完成的近距离数据快速共享功能 。 如果要进行双向的联系人信息交换，只需将两台屏幕位于主页的兼容 Android 设备靠近即可。如果要分享照片或视频，则需打开手机的“分享”菜单，然后在两台设备上轻触“分享”。 这项功能 即日起向 Pixel…",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-9974024a3c82",
+      "title": "I love Pixel phones, but the Pixel 11 camera system isn’t enough",
+      "source": "Android Authority",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-13",
+      "time": "09:00",
+      "publishedAt": "2026-08-13T09:00:11.000Z",
+      "url": "https://www.androidauthority.com/pixel-11-cameras-not-enough-3694391/",
+      "image": "",
+      "summary": "Pixel's once great cameras are long overdue a more meaningful update.",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-704542b3d1c1",
+      "title": "Your Pixel 11 won’t miss a chance to tell when it’s using the new Extreme Charging Mode",
+      "source": "Android Authority",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-13",
+      "time": "08:40",
+      "publishedAt": "2026-08-13T08:40:09.000Z",
+      "url": "https://www.androidauthority.com/google-pixel-weather-screensaver-extreme-charging-mode-3698041/",
+      "image": "",
+      "summary": "The Pixel Weather screensaver will be one of those places where it shows.",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-700610fa195b",
+      "title": "Samsung updates Galaxy Z Fold 8 series with August 2026 security patch",
+      "source": "SamMobile",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-13",
+      "time": "08:37",
+      "publishedAt": "2026-08-13T08:37:04.000Z",
+      "url": "https://www.sammobile.com/news/samsung-updates-galaxy-z-fold-8-series-with-august-2026-security-patch/",
+      "image": "",
+      "summary": "Samsung has released new software updates for the Galaxy Z Fold 8 Ultra and the Galaxy Z Fold 8. They bring the August 2026 security patch, which fixes 56 security issues present…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-17cc32c1e716",
+      "title": "More Pixel 11 phones now have this NFC payments upgrade",
+      "source": "Android Authority",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-13",
+      "time": "08:22",
+      "publishedAt": "2026-08-13T08:22:54.000Z",
+      "url": "https://www.androidauthority.com/pixel-11-phones-felica-japan-3698027/",
+      "image": "",
+      "summary": "There is one major exception, though.",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-b1b203c2c049",
+      "title": "又一款微软品牌 WP 手机工程机曝光，消息称并非“Surface Phone”",
+      "source": "IT之家",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-13",
+      "time": "08:15",
+      "publishedAt": "2026-08-13T08:15:38.000Z",
+      "url": "https://www.ithome.com/0/989/264.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/8/ec559325-da96-41ee-a792-5ce041fd458c.jpg?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 8 月 13 日消息，先前外媒 Windows Central 曝光了一款被砍掉的微软品牌神秘 Windows Phone 手机 ，对此，消息源 gus33000 发文，称这款手机搭载高通骁龙 400 处理器， 并透露该机并不属于 Surface 品牌产品线，命名并非“Surface Phone” 。 该消息源还展示了另一款隶属相应产品线的机型，…",
+      "tags": [
+        "行业",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-c302ef3eaacf",
       "title": "[Galaxy Unpacked July 2026] One City, Three Perspectives: Capturing London With Galaxy Z Fold8 Ultra, Galaxy Z Fold8, and Galaxy Z Flip8",
@@ -123,7 +303,7 @@ window.phoneRadarAuto = {
     },
     {
       "id": "coolapk-user-f3527e99be78",
-      "title": "竹本青：【荣耀Robot Phone 工程师拆机直播官宣，将于明日举行】 ● 现场拆机，内部结构全公开 ● 了解机器人手机…",
+      "title": "竹本青：荣耀Robot Phone 工程师拆机直播将于8月14日进行",
       "source": "竹本青",
       "brand": "HONOR",
       "model": "HONOR 相关机型",
@@ -502,22 +682,22 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-056590a49a31",
-      "title": "手机壳 偷拍",
-      "source": "微博热搜",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "待验证",
+      "id": "newsnow-ceb390cf5315",
+      "title": "红米新品发布后，小米高管回应网友评论称「内存实在太贵了」，反映了当前手机行业哪些挑战？",
+      "source": "知乎热榜",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "市场报告",
+      "trust": "媒体汇总",
       "date": "2026-08-13",
       "time": "",
       "publishedAt": "",
-      "url": "https://s.weibo.com/weibo?q=%E6%89%8B%E6%9C%BA%E5%A3%B3%20%E5%81%B7%E6%8B%8D&t=31&band_rank=16&Refer=top",
+      "url": "https://www.zhihu.com/question/2070707279855367104",
       "image": "",
-      "summary": "手机壳 偷拍",
+      "summary": "红米新品发布后，小米高管回应网友评论称「内存实在太贵了」，反映了当前手机行业哪些挑战？",
       "tags": [
-        "行业",
-        "爆料",
+        "Xiaomi",
+        "市场报告",
         "NewsNow"
       ]
     },
@@ -555,6 +735,26 @@ window.phoneRadarAuto = {
       "url": "https://www.baidu.com/s?wd=%E6%89%8B%E6%9C%BA%E5%A3%B3+%E5%81%B7%E6%8B%8D",
       "image": "",
       "summary": "手机壳 偷拍",
+      "tags": [
+        "行业",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-a6b8932ae0f8",
+      "title": "全球智能手机Q2营收超千亿美元",
+      "source": "抖音热点",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "待验证",
+      "date": "2026-08-13",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.douyin.com/hot/2607986",
+      "image": "",
+      "summary": "全球智能手机Q2营收超千亿美元",
       "tags": [
         "行业",
         "爆料",
@@ -1157,26 +1357,6 @@ window.phoneRadarAuto = {
       "summary": "The Pixel 11 series gets a nice little boost under the back panel to 25W wireless charging – something only the most expensive models got last year.",
       "tags": [
         "Pixel",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-c002e459ce92",
-      "title": "Is your Galaxy Z Fold 8 taking 12MP photos in 24MP mode? Samsung explains why",
-      "source": "SamMobile",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-12",
-      "time": "14:35",
-      "publishedAt": "2026-08-12T14:35:29.000Z",
-      "url": "https://www.sammobile.com/news/is-your-galaxy-z-fold-8-taking-12mp-photos-in-24mp-mode-samsung-explains-why/",
-      "image": "",
-      "summary": "On the Galaxy Z Fold 8, the primary camera captures images at 12MP resolution by default. The phone also gives users the option to capture photos at 24MP resolution, an option tha…",
-      "tags": [
-        "Samsung",
         "爆料",
         "自动抓取"
       ]
@@ -1957,26 +2137,6 @@ window.phoneRadarAuto = {
       "summary": "The leaker known as \"Ice Universe\" today shared images and a hands on video of screen protectors for Apple's rumored \" iPhone Ultra ,\" and the leak appears to confirm two of the m…",
       "tags": [
         "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-394340eb9654",
-      "title": "Honor shares the first look of the Magic 9 series smartphone",
-      "source": "Huawei Central",
-      "brand": "HONOR",
-      "model": "HONOR 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-12",
-      "time": "12:27",
-      "publishedAt": "2026-08-12T12:27:21.000Z",
-      "url": "https://www.huaweicentral.com/honor-shares-the-first-look-of-the-magic-9-series-smartphone/",
-      "image": "https://www.huaweicentral.com/wp-content/uploads/2026/08/Magic9camera.jpg",
-      "summary": "Honor ROBOT PHONE launch event held today and apart from the incredible device, the company has unexpectedly showcased the first look at the Magic 9 series smartphone, giving a sm…",
-      "tags": [
-        "HONOR",
         "爆料",
         "自动抓取"
       ]
