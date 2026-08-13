@@ -1,6 +1,146 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-08-13T15:14:11.880Z",
+  "updatedAt": "2026-08-13T17:11:07.758Z",
   "news": [
+    {
+      "id": "auto-dca5d9ed0264",
+      "title": "Google should have gone the GTA 6 route with its Pixel 11 show; instead, we got the Trevor Noah cringe fest",
+      "source": "Android Central",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-08-13",
+      "time": "16:44",
+      "publishedAt": "2026-08-13T16:44:32.000Z",
+      "url": "https://www.androidcentral.com/phones/google-pixel/made-by-google-2026-keynote-was-a-cringe-fest",
+      "image": "https://cdn.mos.cms.futurecdn.net/EZP7tPgiqWR9UnobgMvZ8G-1280-80.jpg",
+      "summary": "Google's Pixel event was an incredibly awkward show that happened 8 hours after the phones were launched. And here's why it didn't really work, but could have, and why following R…",
+      "tags": [
+        "Pixel",
+        "评测",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-2232ab93aa63",
+      "title": "Drop test claims Pixel 11 Pro, specifically the smaller one, could break more easily",
+      "source": "9to5Google",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-13",
+      "time": "16:05",
+      "publishedAt": "2026-08-13T16:05:00.000Z",
+      "url": "https://9to5google.com/2026/08/13/google-pixel-11-pro-durability-drop-test/",
+      "image": "",
+      "summary": "Google is touting better scratch resistance on its new Pixel 11 Pro phones but, apparently, smaller one doesn’t handle drops and falls quite as well, EU testing claims.",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-b8cd47ce0d60",
+      "title": "Get updates while your Pixel 11 Pro is face down with HiLight.",
+      "source": "Google Blog",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "官方",
+      "trust": "官方确认",
+      "date": "2026-08-13",
+      "time": "16:00",
+      "publishedAt": "2026-08-13T16:00:00.000Z",
+      "url": "https://blog.google/products-and-platforms/devices/pixel/pixel-11-pro-hilight/",
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/KW_G_HiLite.max-600x600.format-webp.webp",
+      "summary": "HiLight, a new Pixel 11 Pro feature, gently glows to notify you of timely updates — keeping you informed when your phone is down.",
+      "tags": [
+        "Pixel",
+        "官方",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-7a6f8a0e8ced",
+      "title": "Stay present while taking pictures with Magic Capture on Pixel 11.",
+      "source": "Google Blog",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "官方",
+      "trust": "官方确认",
+      "date": "2026-08-13",
+      "time": "16:00",
+      "publishedAt": "2026-08-13T16:00:00.000Z",
+      "url": "https://blog.google/products-and-platforms/devices/pixel/pixel-11-magic-capture/",
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/MagicCapture.max-600x600.format-webp.webp",
+      "summary": "Pixel 11’s new Magic Capture feature finds the best shots from dynamic scenes so you don’t miss precious moments trying to capture them.",
+      "tags": [
+        "HONOR",
+        "官方",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-e48aaa76746e",
+      "title": "Pixel 11 Pro’s ‘HiLight’ missed its opportunity to be the perfect notification LED",
+      "source": "9to5Google",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-13",
+      "time": "15:30",
+      "publishedAt": "2026-08-13T15:30:00.000Z",
+      "url": "https://9to5google.com/2026/08/13/pixel-11-hilight-missed-opportunity-to-be-a-perfect-notification-light/",
+      "image": "",
+      "summary": "The Pixel 11 doesn’t carry much of a different look, and the only major hardware change happening on the exterior could be glossed over without a second thought. Pixel 11’s HiLigh…",
+      "tags": [
+        "OPPO",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-ddb10b0f80ac",
+      "title": "Official Pixel 11 wireless charger and stand drops to $35, all-time low",
+      "source": "9to5Google",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-13",
+      "time": "15:24",
+      "publishedAt": "2026-08-13T15:24:03.000Z",
+      "url": "https://9to5google.com/2026/08/13/official-pixel-11-pixelsnap-charger-and-stand-drops-to-35/",
+      "image": "",
+      "summary": "Google’s official Pixelsnap charger with stand is down to $35, making the charging bundle that actually works with every Pixel 11 model – not just one – less expensive than buying…",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-317b43cabd34",
+      "title": "Three new iPhones launch next month, here’s what’s coming",
+      "source": "9to5Mac",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-13",
+      "time": "15:14",
+      "publishedAt": "2026-08-13T15:14:23.000Z",
+      "url": "https://9to5mac.com/2026/08/13/three-new-iphones-launch-next-month-heres-whats-coming/",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/iphone-18-pro-mockup-fi-new-color.jpg?quality=82&strip=all&w=1600",
+      "summary": "Apple’s big September event is almost here , and the company has three new iPhone models set to launch: iPhone 18 Pro, iPhone 18 Pro Max, and iPhone Ultra. Here’s what to expect.",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-f2c39cd3f551",
       "title": "Will the iPhone Ultra avoid the issue that can still kill Samsung foldables?",
@@ -17,6 +157,26 @@ window.phoneRadarAuto = {
       "summary": "The very first Samsung Galaxy Fold launched back in 2019 proved so vulnerable to screen damage by dust and dirt ingress that the company cancelled all pre-orders for the device. E…",
       "tags": [
         "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-387820798225",
+      "title": "Two affordable iPhone 17 Pro accessories worth trying",
+      "source": "9to5Mac",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-13",
+      "time": "15:00",
+      "publishedAt": "2026-08-13T15:00:00.000Z",
+      "url": "https://9to5mac.com/2026/08/13/two-affordable-iphone-17-pro-accessories-worth-trying/",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/09/orange-circles-apple-watch-ultra-iphone-17-pro.webp?w=1600",
+      "summary": "While my preferred way to use an iPhone is with no case or screen protector, I’m actually enjoying both on iPhone 17 Pro and can recommend them. They’re inexpensive enough to try…",
+      "tags": [
+        "iPhone",
         "爆料",
         "自动抓取"
       ]
@@ -43,7 +203,7 @@ window.phoneRadarAuto = {
     },
     {
       "id": "auto-0446c5230da6",
-      "title": "Google’s Tensor G6 in Pixel 11 isn’t the first 2nm smartphone chip after all",
+      "title": "Google’s Tensor G6 in Pixel 11 isn’t a 2nm smartphone chip after all",
       "source": "9to5Google",
       "brand": "Pixel",
       "model": "Pixel 相关机型",
@@ -902,26 +1062,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-1c08256cde19",
-      "title": "就这款机子而言，无论黑子再怎么黑，它也是牛逼。手机圈已经很久没有创新性产品了，而且还是量产机型。iphone的价格买到了旗舰安卓机+口袋云台设备，这价格没问题。",
-      "source": "酷安热榜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-08-13",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73207999",
-      "image": "",
-      "summary": "就这款机子而言，无论黑子再怎么黑，它也是牛逼。手机圈已经很久没有创新性产品了，而且还是量产机型。iphone的价格买到了旗舰安卓机+口袋云台设备，这价格没问题。",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
       "id": "newsnow-72948de38b8f",
       "title": "REDMI K100 Pro系列将首批推送澎湃OS 4正式版",
       "source": "酷安热榜",
@@ -942,7 +1082,27 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-9f26de809977",
+      "id": "newsnow-1c08256cde19",
+      "title": "就这款机子而言，无论黑子再怎么黑，它也是牛逼。手机圈已经很久没有创新性产品了，而且还是量产机型。iphone的价格买到了旗舰安卓机+口袋云台设备，这价格没问题。",
+      "source": "酷安热榜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-08-13",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/73207999",
+      "image": "",
+      "summary": "就这款机子而言，无论黑子再怎么黑，它也是牛逼。手机圈已经很久没有创新性产品了，而且还是量产机型。iphone的价格买到了旗舰安卓机+口袋云台设备，这价格没问题。",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-5336d1d1bd20",
       "title": "iPhone18系列发布节奏确认",
       "source": "微博热搜",
       "brand": "iPhone",
@@ -952,7 +1112,7 @@ window.phoneRadarAuto = {
       "date": "2026-08-13",
       "time": "",
       "publishedAt": "",
-      "url": "https://s.weibo.com/weibo?q=%23iPhone18%E7%B3%BB%E5%88%97%E5%8F%91%E5%B8%83%E8%8A%82%E5%A5%8F%E7%A1%AE%E8%AE%A4%23&t=31&band_rank=18&Refer=top",
+      "url": "https://s.weibo.com/weibo?q=%23iPhone18%E7%B3%BB%E5%88%97%E5%8F%91%E5%B8%83%E8%8A%82%E5%A5%8F%E7%A1%AE%E8%AE%A4%23&t=31&band_rank=9&Refer=top",
       "image": "",
       "summary": "iPhone18系列发布节奏确认",
       "tags": [
@@ -1002,6 +1162,26 @@ window.phoneRadarAuto = {
       ]
     },
     {
+      "id": "newsnow-ee3c12b44de6",
+      "title": "曝苹果iPhone 18搭载12GB内存",
+      "source": "今日头条热榜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-13",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.toutiao.com/trending/7672947112560197686/",
+      "image": "",
+      "summary": "曝苹果iPhone 18搭载12GB内存",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
       "id": "auto-5c896f5e916d",
       "title": "Google's $100 Pixel Price Hike and Trade-In Push Hint at Apple's iPhone 18 Pro Plans",
       "source": "MacRumors",
@@ -1015,26 +1195,6 @@ window.phoneRadarAuto = {
       "url": "https://www.macrumors.com/2026/08/12/google-pixel-price-hike/",
       "image": "",
       "summary": "Google raised the price of its latest smartphones compared to last year, and the increase may hint at what Apple will do with the iPhone 18 Pro models. All of Google's Pixel start…",
-      "tags": [
-        "Pixel",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-56812e5d796d",
-      "title": "You don't need to lock in for a two-year contract to get $450 off the Pixel 11 Pro",
-      "source": "Android Police",
-      "brand": "Pixel",
-      "model": "Pixel 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-12",
-      "time": "20:32",
-      "publishedAt": "2026-08-12T20:32:35.000Z",
-      "url": "https://www.androidpolice.com/google-fi-just-knocked-450-off-the-pixel-11-pro/",
-      "image": "",
-      "summary": "Not like other carrier deals",
       "tags": [
         "Pixel",
         "爆料",
@@ -2042,26 +2202,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-fd07229114da",
-      "title": "Google announces Tensor G6, bringing 4K Portrait Video and more to the Pixel 11 series",
-      "source": "Android Authority",
-      "brand": "Pixel",
-      "model": "Pixel 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-12",
-      "time": "14:00",
-      "publishedAt": "2026-08-12T14:00:01.000Z",
-      "url": "https://www.androidauthority.com/google-tensor-g6-3695351/",
-      "image": "",
-      "summary": "As always, Google remains tight-lipped about the nitty-gritty details, but we know a little more through our hands-on.",
-      "tags": [
-        "Pixel",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-27d02dfb819c",
       "title": "The Pixel 11 series is here, but Google saved the big upgrades for the Pro models",
       "source": "Android Central",
@@ -2102,6 +2242,26 @@ window.phoneRadarAuto = {
       ]
     },
     {
+      "id": "auto-39496f2586a8",
+      "title": "Google’s most sophisticated foldable: Pixel 11 Pro Fold",
+      "source": "Google Blog",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "官方",
+      "trust": "官方确认",
+      "date": "2026-08-12",
+      "time": "14:00",
+      "publishedAt": "2026-08-12T14:00:00.000Z",
+      "url": "https://blog.google/products-and-platforms/devices/pixel/pixel-11-pro-fold/",
+      "image": "",
+      "summary": "Pixel 11 Pro Fold is our latest foldable with a thinner and lighter design, a new main camera, and enhanced intelligence tools.",
+      "tags": [
+        "Pixel",
+        "官方",
+        "自动抓取"
+      ]
+    },
+    {
       "id": "auto-b4d1c7f1a20a",
       "title": "Here are 3 ways your Pixel just got even more helpful.",
       "source": "Google Blog",
@@ -2135,26 +2295,6 @@ window.phoneRadarAuto = {
       "url": "https://blog.google/products-and-platforms/devices/pixel/new-pixelsnap-accessories-cases-ring-stand/",
       "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Accessories.max-600x600.format-webp.webp",
       "summary": "Google is rolling out new Pixel accessories as part of Made by Google",
-      "tags": [
-        "Pixel",
-        "官方",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-39496f2586a8",
-      "title": "Google’s most sophisticated foldable: Pixel 11 Pro Fold",
-      "source": "Google Blog",
-      "brand": "Pixel",
-      "model": "Pixel 相关机型",
-      "type": "官方",
-      "trust": "官方确认",
-      "date": "2026-08-12",
-      "time": "14:00",
-      "publishedAt": "2026-08-12T14:00:00.000Z",
-      "url": "https://blog.google/products-and-platforms/devices/pixel/pixel-11-pro-fold/",
-      "image": "",
-      "summary": "Pixel 11 Pro Fold is our latest foldable with a thinner and lighter design, a new main camera, and enhanced intelligence tools.",
       "tags": [
         "Pixel",
         "官方",
@@ -2259,126 +2399,6 @@ window.phoneRadarAuto = {
         "HONOR",
         "爆料",
         "酷安博主"
-      ]
-    },
-    {
-      "id": "auto-04807cb7f5b9",
-      "title": "Vivo X300 FE’s most affordable variant launched, but there’s a catch",
-      "source": "Gizmochina",
-      "brand": "vivo",
-      "model": "vivo 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-12",
-      "time": "11:12",
-      "publishedAt": "2026-08-12T11:12:10.000Z",
-      "url": "https://www.gizmochina.com/2026/08/12/vivo-x300-fe-8gb-256gb-variant-launched-most-affordable-price/",
-      "image": "https://www.gizmochina.com/wp-content/uploads/2026/06/Vivo-X300-FE-with-extender--300x225.jpg?x23692",
-      "summary": "Vivo unveiled the Vivo X300 FE in May this year. At the time, the smartphone was introduced in 256GB and 512GB storage versions, with both variants offering 12GB of RAM. Now, the…",
-      "tags": [
-        "vivo",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-e4f18a8b1a0c",
-      "title": "This shocking Zoom bug allowed silent device takeovers on Android and iOS",
-      "source": "Android Authority",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-12",
-      "time": "10:31",
-      "publishedAt": "2026-08-12T10:31:41.000Z",
-      "url": "https://www.androidauthority.com/zoom-call-device-takeover-bug-3697629/",
-      "image": "https://www.androidauthority.com/wp-content/uploads/2022/06/Zoom-Meetings-video-call-on-laptop.jpg",
-      "summary": "A zero-click bug allowed attackers to silently take control during live Zoom calls.",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-7db85b81dc01",
-      "title": "把「闪念胶囊」（Almost）放到 iPhone 锁屏",
-      "source": "少数派",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "评测",
-      "trust": "媒体汇总",
-      "date": "2026-08-12",
-      "time": "09:30",
-      "publishedAt": "2026-08-12T09:30:00.000Z",
-      "url": "https://sspai.com/post/113219",
-      "image": "",
-      "summary": "想法被及时、完好的记下来，然后呢？",
-      "tags": [
-        "iPhone",
-        "评测",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "weibo-ef9e6cdd7c5d",
-      "title": "数码闲聊站：华为备案了9月23日发布代号为Haco的系列新品，或许是华为Mate90系列新…",
-      "source": "数码闲聊站",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-08-12",
-      "time": "07:16",
-      "publishedAt": "2026-08-12T07:16:00.000Z",
-      "url": "https://weibo.com/6048569942/Rd3if157G",
-      "image": "https://tvax1.sinaimg.cn/mw2000/006BlblIgy1ig10wjnrewj30xp09qn0k.jpg",
-      "summary": "华为备案了9月23日发布代号为Haco的系列新品，或许是华为Mate90系列新机，猜对了？[污]",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "微博"
-      ]
-    },
-    {
-      "id": "auto-1bd890e062d8",
-      "title": "我，与「唯一」的 iPhone Air",
-      "source": "少数派",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "评测",
-      "trust": "媒体汇总",
-      "date": "2026-08-12",
-      "time": "03:04",
-      "publishedAt": "2026-08-12T03:04:34.000Z",
-      "url": "https://sspai.com/post/112880",
-      "image": "",
-      "summary": "在 iPhone Air 之后才发现，有些产品存在的意义，是帮我确认我真正需要什么。",
-      "tags": [
-        "iPhone",
-        "评测",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-15b2101fa427",
-      "title": "Google sends out $150 discount codes ahead of Pixel 11 pre-orders",
-      "source": "9to5Google",
-      "brand": "Pixel",
-      "model": "Pixel 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-12",
-      "time": "02:30",
-      "publishedAt": "2026-08-12T02:30:00.000Z",
-      "url": "https://9to5google.com/2026/08/11/google-pixel-11-discount-code-email/",
-      "image": "",
-      "summary": "With less than 24 hours to go until the company’s Pixel 11 launch event, Google is sending $150 discount codes to customers looking to pre-order the new devices.",
-      "tags": [
-        "Pixel",
-        "爆料",
-        "自动抓取"
       ]
     }
   ]

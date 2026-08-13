@@ -1,14 +1,14 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-08-13T15:14:11.880Z",
+  "updatedAt": "2026-08-13T17:11:07.758Z",
   "issueDate": "2026-08-13",
   "issue": "VOL.260813",
   "title": "手机情报日报",
-  "intro": "今日筛出 10 条重点，其中 8 条是重点爆料，包含 9 条 iPhone 相关、0 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 11 条重点，其中 8 条是重点爆料，包含 8 条 iPhone 相关、1 条官方确认、0 条参数线索。",
   "stats": {
-    "total": 10,
-    "iphone": 9,
+    "total": 11,
+    "iphone": 8,
     "leaks": 8,
-    "official": 0,
+    "official": 1,
     "specs": 0
   },
   "sections": [
@@ -214,49 +214,86 @@ window.phoneRadarDaily = {
       "hint": "不是硬件爆料，但和 iPhone 体验或路线有关。",
       "items": [
         {
-          "id": "auto-7db85b81dc01",
-          "title": "把「闪念胶囊」（Almost）放到 iPhone 锁屏",
+          "id": "auto-9bbf43c61c96",
+          "title": "iPhone 系统功能 / AI 体验相关消息",
           "originalTitle": "",
-          "source": "少数派",
+          "source": "Apple Newsroom",
           "brand": "iPhone",
-          "type": "评测",
-          "trust": "媒体汇总",
-          "date": "2026-08-12",
-          "time": "09:30",
-          "publishedAt": "2026-08-12T09:30:00.000Z",
-          "url": "https://sspai.com/post/113219",
+          "type": "官方",
+          "trust": "官方确认",
+          "date": "2026-08-13",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://www.apple.com/newsroom/2026/06/apple-announces-changes-to-ios-in-brazil/",
           "image": "",
           "verdict": "先看",
-          "takeaway": "想法被及时、完好的记下来，然后呢？",
-          "detail": "想法被及时、完好的记下来，然后呢？",
+          "takeaway": "iPhone 系统功能 / AI 体验相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
+          "detail": "iPhone 系统功能 / AI 体验相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
+          "keyPoints": [
+            "官方"
+          ],
+          "confidence": "官方内容，可直接作为已确认信息记录。",
+          "impact": "可信度高，但如果不是配置/价格消息，只需要扫一眼。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        }
+      ]
+    },
+    {
+      "id": "launch",
+      "title": "新机与官方发布",
+      "hint": "能直接更新到参数库。",
+      "items": [
+        {
+          "id": "auto-ac3bee5d7df1",
+          "title": "派早报：荣耀发布 Robot Phone、Google 推出 Pixel 11 系列等",
+          "originalTitle": "",
+          "source": "少数派",
+          "brand": "HONOR",
+          "type": "评测",
+          "trust": "媒体汇总",
+          "date": "2026-08-13",
+          "time": "00:14",
+          "publishedAt": "2026-08-13T00:14:09.000Z",
+          "url": "https://sspai.com/post/113385",
+          "image": "",
+          "verdict": "先看",
+          "takeaway": "影石发布 Insta360 X6、SpaceXAI 推出 Grok Bot 等。",
+          "detail": "影石发布 Insta360 X6、SpaceXAI 推出 Grok Bot 等。",
           "keyPoints": [
             "评测"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是实际体验内容，买前适合重点看缺点和取舍。",
           "action": "中文源可以直接点开快读；看完只保留和购机有关的点。"
-        },
+        }
+      ]
+    },
+    {
+      "id": "review",
+      "title": "评测与体验",
+      "hint": "买前再细看，平时扫一眼即可。",
+      "items": [
         {
-          "id": "auto-1bd890e062d8",
-          "title": "我，与「唯一」的 iPhone Air",
+          "id": "auto-9e89dc1d0274",
+          "title": "超薄机身的代价：iFixit 为三星 Galaxy Z Fold8 可维修性打出 4/10 分",
           "originalTitle": "",
-          "source": "少数派",
-          "brand": "iPhone",
-          "type": "评测",
+          "source": "IT之家",
+          "brand": "Samsung",
+          "type": "爆料",
           "trust": "媒体汇总",
-          "date": "2026-08-12",
-          "time": "03:04",
-          "publishedAt": "2026-08-12T03:04:34.000Z",
-          "url": "https://sspai.com/post/112880",
-          "image": "",
+          "date": "2026-08-13",
+          "time": "14:22",
+          "publishedAt": "2026-08-13T14:22:31.000Z",
+          "url": "https://www.ithome.com/0/989/469.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/8/a082a0fd-62f9-4bb8-8182-179cd5914a6a.jpg?x-bce-process=image/format,f_auto",
           "verdict": "先看",
-          "takeaway": "在 iPhone Air 之后才发现，有些产品存在的意义，是帮我确认我真正需要什么。",
-          "detail": "在 iPhone Air 之后才发现，有些产品存在的意义，是帮我确认我真正需要什么。",
+          "takeaway": "IT之家 8 月 13 日消息，iFixit 今天（13 日）晚间公布了 三星 Galaxy Z Fold8 的可维修性评测报告，结果显示，超薄机身依然是以 牺牲可维修 性为代价实现的。 iFixit 给 Galaxy Z Fold8 打出了 4/10 的可维修性评分。 过于脆弱的内屏、复杂的铰链结构，以及实际防护能力有限的防尘等级 ，都是主要扣分项。 G…",
+          "detail": "IT之家 8 月 13 日消息，iFixit 今天（13 日）晚间公布了 三星 Galaxy Z Fold8 的可维修性评测报告，结果显示，超薄机身依然是以 牺牲可维修 性为代价实现的。 iFixit 给 Galaxy Z Fold8 打出了 4/10 的可维修性评分。 过于脆弱的内屏、复杂的铰链结构，以及实际防护能力有限的防尘等级 ，都是主要扣分项。 G…",
           "keyPoints": [
-            "评测"
+            "爆料"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是实际体验内容，买前适合重点看缺点和取舍。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
           "action": "中文源可以直接点开快读；看完只保留和购机有关的点。"
         }
       ]
