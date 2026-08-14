@@ -1,6 +1,86 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-08-14T17:10:07.370Z",
+  "updatedAt": "2026-08-14T19:12:38.319Z",
   "news": [
+    {
+      "id": "auto-94041d8dfbd7",
+      "title": "Best Pixel 11 cases: Pixelsnap-ready, metal, protective, customizable, deals, more",
+      "source": "9to5Google",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-14",
+      "time": "18:16",
+      "publishedAt": "2026-08-14T18:16:35.000Z",
+      "url": "https://9to5google.com/2026/08/14/best-new-pixel-11-cases/",
+      "image": "",
+      "summary": "The Pixel 11, 11 Pro, 11 Pro XL, and 11 Pro Fold pre-order deals are still flying but many of our favorite case makers are now ready to wrap your new device up in style and protec…",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-26d7832311eb",
+      "title": "Google’s best new camera feature is only for the Pixel 11 series",
+      "source": "The Verge",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-14",
+      "time": "17:35",
+      "publishedAt": "2026-08-14T17:35:22.000Z",
+      "url": "https://www.theverge.com/tech/980467/google-pixel-11-camera-looks-older-phones",
+      "image": "",
+      "summary": "Arguably the coolest new photo feature for the Pixel 11 lineup is Google's new Camera Looks, which process image data differently at the sensor level to produce photos that don't…",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-92e4875473ca",
+      "title": "Review: TerraMow V1000 is the easiest iPhone-controlled robot lawn mower I’ve tested",
+      "source": "9to5Mac",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-14",
+      "time": "17:15",
+      "publishedAt": "2026-08-14T17:15:57.000Z",
+      "url": "https://9to5mac.com/2026/08/14/review-terramow-v1000-is-the-easiest-iphone-controlled-robot-lawn-mower-ive-tested/",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/terramow-v1000-lead-01-iphone-control.webp?w=1600",
+      "summary": "Earlier this year, I replaced my battery-powered push mower with an iPhone-controlled robot lawn mower. That machine creates a virtual map by letting you manually steer it around…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-a8a1f30a3136",
+      "title": "Pixel 11 Pro Fold is stuck as the fourth-best foldable, and that’s a good thing for you [Gallery]",
+      "source": "9to5Google",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-14",
+      "time": "17:05",
+      "publishedAt": "2026-08-14T17:05:00.000Z",
+      "url": "https://9to5google.com/2026/08/14/pixel-11-pro-fold-is-stuck-as-the-fourth-best-foldable-and-thats-a-good-thing-for-you-gallery/",
+      "image": "",
+      "summary": "Google came back onto the foldable scene with splash in the Pixel 9 Pro Fold, but a couple of years later, the Pixel 11 Pro Fold is launching in a totally different market. There…",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-a65e1a3d00a9",
       "title": "Galaxy Z Fold 8 storage upgrades are a bit cheaper in the UK for a limited time",
@@ -739,6 +819,46 @@ window.phoneRadarAuto = {
         "iPhone",
         "官方",
         "自动抓取"
+      ]
+    },
+    {
+      "id": "newsnow-94026d01fb36",
+      "title": "5999是买mate80promax还是k100promax",
+      "source": "酷安热榜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-08-14",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/73229716",
+      "image": "",
+      "summary": "5999是买mate80promax还是k100promax",
+      "tags": [
+        "行业",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-5c9af00a6a09",
+      "title": "iOS在逐渐砍动画，安卓这边动画反倒是越来越牛逼了",
+      "source": "酷安热榜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-08-14",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/73243052",
+      "image": "",
+      "summary": "iOS在逐渐砍动画，安卓这边动画反倒是越来越牛逼了",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "NewsNow"
       ]
     },
     {

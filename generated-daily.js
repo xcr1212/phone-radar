@@ -1,12 +1,12 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-08-14T17:10:07.370Z",
+  "updatedAt": "2026-08-14T19:12:38.319Z",
   "issueDate": "2026-08-14",
   "issue": "VOL.260814",
   "title": "手机情报日报",
-  "intro": "今日筛出 13 条重点，其中 8 条是重点爆料，包含 4 条 iPhone 相关、1 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 13 条重点，其中 8 条是重点爆料，包含 5 条 iPhone 相关、1 条官方确认、0 条参数线索。",
   "stats": {
     "total": 13,
-    "iphone": 4,
+    "iphone": 5,
     "leaks": 8,
     "official": 1,
     "specs": 0
@@ -237,6 +237,29 @@ window.phoneRadarDaily = {
           "action": "中文源可以直接点开快读；看完只保留和购机有关的点。"
         },
         {
+          "id": "newsnow-5c9af00a6a09",
+          "title": "iOS在逐渐砍动画，安卓这边动画反倒是越来越牛逼了",
+          "originalTitle": "",
+          "source": "酷安热榜",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "高关注爆料源",
+          "date": "2026-08-14",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://www.coolapk.com/feed/73243052",
+          "image": "",
+          "verdict": "先看",
+          "takeaway": "iOS在逐渐砍动画，安卓这边动画反倒是越来越牛逼了",
+          "detail": "iOS在逐渐砍动画，安卓这边动画反倒是越来越牛逼了",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        },
+        {
           "id": "auto-9bbf43c61c96",
           "title": "iPhone 系统功能 / AI 体验相关消息",
           "originalTitle": "",
@@ -311,36 +334,6 @@ window.phoneRadarDaily = {
           "confidence": "可信度较高，但仍属于发布前线索。",
           "impact": "影响性能和寿命判断，适合放进参数库。",
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        }
-      ]
-    },
-    {
-      "id": "review",
-      "title": "评测与体验",
-      "hint": "买前再细看，平时扫一眼即可。",
-      "items": [
-        {
-          "id": "auto-c56a8263db4d",
-          "title": "iPhone 17 影像能力相关消息",
-          "originalTitle": "",
-          "source": "Gizmochina",
-          "brand": "Samsung",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-08-14",
-          "time": "13:12",
-          "publishedAt": "2026-08-14T13:12:35.000Z",
-          "url": "https://www.gizmochina.com/2026/08/14/iphone-17-ties-galaxy-s26-ultra-and-oppo-find-x7-ultra-in-dxomarks-camera-test/",
-          "image": "https://www.gizmochina.com/wp-content/uploads/2026/08/appshunter-io-TTOxy4GVH5E-unsplash-300x200.jpg?x23692",
-          "verdict": "扫一眼",
-          "takeaway": "Samsung 影像能力相关宣传或案例，主要看是否透露拍摄能力变化。",
-          "detail": "iPhone 17 影像能力相关消息。重点看影像功能是否和新机硬件有关，如果只是拍摄案例或营销内容，参考价值会低一些。",
-          "keyPoints": [
-            "影像硬件"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "影响拍照体验，买旗舰机时值得关注。",
-          "action": "有具体参数就记录到参数库；没有参数就先收藏。"
         }
       ]
     }
