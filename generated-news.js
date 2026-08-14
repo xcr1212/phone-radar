@@ -1,22 +1,162 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-08-14T09:19:33.464Z",
+  "updatedAt": "2026-08-14T11:07:44.978Z",
   "news": [
     {
-      "id": "coolapk-user-d76274f972e2",
-      "title": "JSCHEN小小狐：『荣耀下半年新机发布节奏曝光：首批 SM8975』 9 月底： 荣耀 Magic9 系列新机（首批骁龙 8E6 P…",
+      "id": "auto-e139f2ef7831",
+      "title": "Honor Magic 9 to adopt all-metal body, targeting heat management",
+      "source": "Huawei Central",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-14",
+      "time": "10:39",
+      "publishedAt": "2026-08-14T10:39:00.000Z",
+      "url": "https://www.huaweicentral.com/honor-magic-9-to-adopt-all-metal-body/",
+      "image": "https://www.huaweicentral.com/wp-content/uploads/2026/08/Magic-9-camera.jpg",
+      "summary": "Honor Magic 9 series will debut next month, and the flagship will likely use an all-metal body. A new leak describes what the upcoming top-tier Magic smartphone will feature and h…",
+      "tags": [
+        "HONOR",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-983bbbbea563",
+      "title": "The Pixel 11 Pro is a slap in the face to Android enthusiasts everywhere",
+      "source": "Android Authority",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-14",
+      "time": "10:30",
+      "publishedAt": "2026-08-14T10:30:31.000Z",
+      "url": "https://www.androidauthority.com/pixel-11-pro-not-for-android-enthusiasts-3697917/",
+      "image": "",
+      "summary": "Enthusiasts are being left behind.",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-8ae5d65f50d7",
+      "title": "苹果扩大雇佣间谍软件威胁通知：iPhone 锁屏和“设置”均可显示，已覆盖 150 多个国家地区",
+      "source": "IT之家",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-14",
+      "time": "10:16",
+      "publishedAt": "2026-08-14T10:16:17.000Z",
+      "url": "https://www.ithome.com/0/989/886.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/8/f8e384d9-6b41-4c1d-b0f9-950b244ee0e9.png?x-bce-process=image/resize,w_1200,h_1243/format,f_auto",
+      "summary": "IT之家 8 月 14 日消息，苹果公司于当地时间 8 月 13 日更新了官方支持文档，并向全球 110 个国家和地区的用户发送了新一批雇佣间谍软件威胁通知，使接收者能更便捷地获取后续处理信息。 苹果表示，这类通知属于高可信度安全警报，意味着相关用户可能已被针对性攻击。据介绍，雇佣间谍软件攻击与常规网络犯罪活动存在明显区别。攻击者通常投入数百万美元，利用高…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-0404836f5c22",
+      "title": "Pixel 11 Pro XL vs. Galaxy S26 Ultra: There’s only one I’d spend my money on",
+      "source": "Android Authority",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-14",
+      "time": "10:00",
+      "publishedAt": "2026-08-14T10:00:23.000Z",
+      "url": "https://www.androidauthority.com/pixel-11-pro-xl-vs-galaxy-s26-ultra-3695328/",
+      "image": "",
+      "summary": "Both phones are great, but Google's vision speaks to me a bit more.",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-165c4ca8f254",
+      "title": "JSCHEN小小狐：iQOO Z11S 预热：天玑 7500 满血版 / IP69 防尘防水",
       "source": "JSCHEN小小狐",
       "brand": "HONOR",
       "model": "HONOR 相关机型",
       "type": "爆料",
       "trust": "高可信爆料",
       "date": "2026-08-14",
-      "time": "09:11",
-      "publishedAt": "2026-08-14T09:11:48.000Z",
-      "url": "https://www.coolapk.com/feed/73238936",
-      "image": "http://image.coolapk.com/feed/2026/0814/17/4702274_5620a1e4_8706_6472_502@1440x670.jpg",
-      "summary": "『荣耀下半年新机发布节奏曝光：首批 SM8975』 9 月底： 荣耀 Magic9 系列新机（首批骁龙 8E6 Pro） 10 月（预计）： 荣耀 WIN 2 系列新机 年前（中端线）： 荣耀 700 系列新机 荣耀 X / Power 系列新机（万级大电池新高） #今日热点# #荣耀Magic9# #荣耀WIN2#",
+      "time": "09:51",
+      "publishedAt": "2026-08-14T09:51:05.000Z",
+      "url": "https://www.coolapk.com/feed/73240009",
+      "image": "http://image.coolapk.com/feed/2026/0814/17/4702274_492e4676_1063_751_85@2494x3325.jpg",
+      "summary": "『iQOO Z11S 预热：天玑 7500 满血版 / IP69』 天玑 7500 满血版 ◇ 王者荣耀原生 120FPS 极高帧率 ◇ 安兔免综合跑分达 1,309,171 分 ◇ 冰穹 VC 液冷散热 IP68 / IP69 防尘防水认证 通过 7 项国家军标测试 #今日热点# #iQOOZ11S# #iQOONeo11至尊版#",
       "tags": [
         "HONOR",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-77788ef54600",
+      "title": "Best phones to buy if you’re upgrading from Redmi Note 12",
+      "source": "Gizmochina",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-14",
+      "time": "09:44",
+      "publishedAt": "2026-08-14T09:44:44.000Z",
+      "url": "https://www.gizmochina.com/2026/08/14/best-phones-to-buy-if-youre-upgrading-from-the-redmi-note-12/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2023/01/Redmi-Note-12-5G-review-1-6-300x225.jpg?x23692",
+      "summary": "If you bought the Redmi Note 12 when it launched, you have probably been using it for quite some time now. And after three years, some things are bound to feel old. The phone may…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-1941fc74c9ea",
+      "title": "课间休息也不行：捷克计划禁止学生在学校使用智能手机",
+      "source": "IT之家",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-14",
+      "time": "09:30",
+      "publishedAt": "2026-08-14T09:30:30.000Z",
+      "url": "https://www.ithome.com/0/989/811.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/8/8bf589f2-7f86-4d4c-81f0-52b49ff5c15e.jpg?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 8 月 14 日消息，据外媒 Golem 今天报道，捷克教育部长 罗伯特 · 普拉加 （Robert Plaga）计划出台校园智能手机禁令，影响所有九年义务教育学校及 6-15 岁的学生。 如果该计划最终落地，捷克的学生们将不能在课堂内使用智能手机，课间休息、校园内其他区域同样也禁止使用。 IT之家从原报道获悉， 目前超 90% 的捷克学校已通过…",
+      "tags": [
+        "行业",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-83395bee2d92",
+      "title": "JSCHEN小小狐：博主对比 vivo / 小米 2nm 小屏旗舰影像方案",
+      "source": "JSCHEN小小狐",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-08-14",
+      "time": "09:27",
+      "publishedAt": "2026-08-14T09:27:32.000Z",
+      "url": "https://www.coolapk.com/feed/73239372",
+      "image": "http://image.coolapk.com/feed/2026/0814/17/4702274_ce6cef53_9650_9932_672@1440x855.jpg",
+      "summary": "『博主对比 vivo / 小米 2nm 小屏旗舰影像方案』 vivo X500 Pro： ◇ 50Mp 1/1.28\" LYTIA L910 LOFIC 主摄 ◇ 64Mp 1/2\" LYTIA 610 85mm 微距潜望 ◇ 50Mp 1/2.76''± JN1/JN5 小底超广角 小米 18 Pro： ◇ 200Mp 1/1.28\" SCC80XS 超…",
+      "tags": [
+        "Xiaomi",
         "爆料",
         "酷安博主"
       ]
@@ -143,7 +283,7 @@ window.phoneRadarAuto = {
     },
     {
       "id": "coolapk-user-fa669289a5b9",
-      "title": "竹本青：【REDMI回应 K100 Pro系列 澎湃OS 4 Beta版本推送排期：首月优先保障用户稳定体验】 8月14日…",
+      "title": "竹本青：REDMI回应 K100 Pro系列 澎湃OS 4 Beta版本推送排期",
       "source": "竹本青",
       "brand": "Xiaomi",
       "model": "Xiaomi 相关机型",
@@ -163,7 +303,7 @@ window.phoneRadarAuto = {
     },
     {
       "id": "coolapk-user-c2b6e899212f",
-      "title": "竹本青：【追觅卖出首台手机：24K足金镶宝石，背面有俞浩签名，交易金额超3万美元】 蓝鲸新闻今日报道，追觅手机负责人13日…",
+      "title": "竹本青：追觅卖出首台手机：交易金额超3万美元",
       "source": "竹本青",
       "brand": "行业",
       "model": "智能手机市场",
@@ -179,46 +319,6 @@ window.phoneRadarAuto = {
         "行业",
         "爆料",
         "酷安博主"
-      ]
-    },
-    {
-      "id": "auto-6c85d4c122f6",
-      "title": "三星新手机设计图曝光：水平后摄布局，有望应用于 Galaxy S27 Ultra",
-      "source": "IT之家",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-14",
-      "time": "06:11",
-      "publishedAt": "2026-08-14T06:11:36.000Z",
-      "url": "https://www.ithome.com/0/989/698.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/8/7e78381c-2599-44fe-95ce-73f3a52ab235.png?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 8 月 14 日消息，科技媒体 sammyguru 昨日（8 月 13 日）发布博文，挖掘世界知识产权组织（WIPO）全球外观设计数据库， 在公开图片中发现了新的三星手机设计方案，最早可能应用于 Galaxy S27 Ultra 机型上。 不同于三星 Galaxy S 近几代手机设计，3 颗摄像头横向并列，集中位于同一个水平模块内。除相机区域外，…",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-3ac216417efd",
-      "title": "中芯国际赵海军：手机类和面板驱动类产品至今没有涨价，这些客户当下同样困难",
-      "source": "IT之家",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-14",
-      "time": "05:56",
-      "publishedAt": "2026-08-14T05:56:29.000Z",
-      "url": "https://www.ithome.com/0/989/693.htm",
-      "image": "",
-      "summary": "IT之家 8 月 14 日消息，中芯国际昨日（8 月 13 日）发布 2026 年第二季度（2026 年 4 月～2026 年 6 月）报告 ，营业总收入 30.06 亿美元 （IT之家注：现汇率约合 203.12 亿元人民币） ，同比增长 36.1%；归母净利润 4.79 亿美元 （现汇率约合 32.37 亿元人民币） ，同比增长 261.7%。 据界面…",
-      "tags": [
-        "行业",
-        "爆料",
-        "自动抓取"
       ]
     },
     {
@@ -437,26 +537,6 @@ window.phoneRadarAuto = {
       "summary": "真是 18 码了。麒麟 9000S 在鸿蒙 6.1 就吃上了沉浸光感，虽说是残血版。你拿着骁龙 8e同代的 天玑 9400+ 还好意思说“硬件性能限制”？#HyperOS4##HyperOS3# #REDMIK90至尊版#",
       "tags": [
         "Huawei",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-34e37adf4fa4",
-      "title": "首款折叠iPhone",
-      "source": "微博热搜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "待验证",
-      "date": "2026-08-14",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://s.weibo.com/weibo?q=%E9%A6%96%E6%AC%BE%E6%8A%98%E5%8F%A0iPhone&t=31&band_rank=24&Refer=top",
-      "image": "",
-      "summary": "首款折叠iPhone",
-      "tags": [
-        "iPhone",
         "爆料",
         "NewsNow"
       ]
