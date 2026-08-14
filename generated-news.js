@@ -1,6 +1,146 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-08-14T11:07:44.978Z",
+  "updatedAt": "2026-08-14T13:41:29.097Z",
   "news": [
+    {
+      "id": "auto-c56a8263db4d",
+      "title": "iPhone 17 ties Galaxy S26 Ultra and Oppo Find X7 Ultra in DxOMark’s camera test",
+      "source": "Gizmochina",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-14",
+      "time": "13:12",
+      "publishedAt": "2026-08-14T13:12:35.000Z",
+      "url": "https://www.gizmochina.com/2026/08/14/iphone-17-ties-galaxy-s26-ultra-and-oppo-find-x7-ultra-in-dxomarks-camera-test/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/08/iphone-17-galaxy-s26-camera-test-1-300x169.jpg?x23692",
+      "summary": "Apple’s regular iPhone 17 is still holding its own in a crowded camera field. Fresh independent testing has put the dual-camera base model in some surprisingly good company on one…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-6177d9ea14fe",
+      "title": "Pixel 11 Pro trades one niche feature for another — but which is your favorite?",
+      "source": "Android Authority",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-14",
+      "time": "13:00",
+      "publishedAt": "2026-08-14T13:00:39.000Z",
+      "url": "https://www.androidauthority.com/pixel-11-pro-hilight-thermometer-open-thread-3698634/",
+      "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f5e3.png",
+      "summary": "Thermometer or HiLight? Pick your challenger.",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-d8a8809bbca8",
+      "title": "The ‘FlipPad’ is a compact game controller for Android, now available for $29.99",
+      "source": "9to5Google",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-14",
+      "time": "12:55",
+      "publishedAt": "2026-08-14T12:55:00.000Z",
+      "url": "https://9to5google.com/2026/08/14/8bitdo-flippad-compact-game-controller-android/",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/01/8bitdo-flip-pad-1.jpg?quality=82&strip=all&w=1600",
+      "summary": "Initially announced earlier this year at CES 2026, 8BitDo has finally opened up sales of its clever little FlipPad game controller that works with Android and iOS, and it’s just $…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-79206f316e0d",
+      "title": "Google has another Pixel 11 discount for up to $175 off, here’s where to find it",
+      "source": "9to5Google",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-14",
+      "time": "12:30",
+      "publishedAt": "2026-08-14T12:30:00.000Z",
+      "url": "https://9to5google.com/2026/08/14/google-play-pixel-11-discount/",
+      "image": "",
+      "summary": "Following a collection of discount codes that were sent out ahead of the Pixel 11 launch this week, Google has another discount code worth up to $175 hidden just beneath the surfa…",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-8fc3f2a5a057",
+      "title": "My DIY iPhone camera mod looks absurd but is great to use",
+      "source": "9to5Mac",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-14",
+      "time": "12:12",
+      "publishedAt": "2026-08-14T12:12:30.000Z",
+      "url": "https://9to5mac.com/2026/08/14/my-diy-iphone-camera-mod-looks-absurd-but-is-great-to-use/",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/My-DIY-iPhone-camera-mod-looks-absurd-but-is-great-to-use.jpg?quality=82&strip=all&w=1600",
+      "summary": "I fully acknowledge that my DIY iPhone camera mod looks exceedingly silly – but it’s actually made my iPhone photography more practical and more enjoyable. It was initially someth…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-388703f28e17",
+      "title": "Best mid-range phone for the younger gen: The OPPO Reno16 Series is built for social content creators",
+      "source": "Android Authority",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-14",
+      "time": "11:52",
+      "publishedAt": "2026-08-14T11:52:53.000Z",
+      "url": "https://www.androidauthority.com/oppo-reno16-series-3696926/",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2026/08/reno16-featured.jpg",
+      "summary": "From capture to upload, the OPPO Reno16 Series does it all.",
+      "tags": [
+        "OPPO",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-a7ff7ff9527b",
+      "title": "竹本青：【阿维塔雍军公开回应：所谓“华为非必要”争议是误读】 8月14日，阿维塔科技副总裁雍军公开回应近期争议：所谓“华为…",
+      "source": "竹本青",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-08-14",
+      "time": "11:37",
+      "publishedAt": "2026-08-14T11:37:47.000Z",
+      "url": "https://www.coolapk.com/feed/73242409",
+      "image": "http://image.coolapk.com/feed/2026/0814/19/4248714_2feba06c_7466_9024_752@1236x700.jpg",
+      "summary": "【阿维塔雍军公开回应：所谓“华为非必要”争议是误读】 8月14日，阿维塔科技副总裁雍军公开回应近期争议：所谓“华为非必要项”其实是误读，他原本表达的是“没必要让引望为阿维塔单独定制一个智驾版本”，并不是说华为对阿维塔不重要。 实际上，双方合作还在继续加深。刚推出的阿维塔07L就是双方联创车型，华为团队从产品定义到外观、内饰、配色等环节都有深度参与；阿维塔目…",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "酷安博主"
+      ]
+    },
     {
       "id": "auto-e139f2ef7831",
       "title": "Honor Magic 9 to adopt all-metal body, targeting heat management",
@@ -262,26 +402,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-b942cea3a18b",
-      "title": "小米澎湃 OS 4 Beta 版首批机型开始推送，各批次推送时间公布",
-      "source": "IT之家",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-14",
-      "time": "07:12",
-      "publishedAt": "2026-08-14T07:12:39.000Z",
-      "url": "https://www.ithome.com/0/989/718.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/8/2bafd3e1-275e-4f94-abb5-e0d6426b9c91.jpg?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 8 月 14 日消息，小米澎湃 OS 公告君今日宣布， 小米澎湃 OS 4 Beta 版 已经开始向各批次机型陆续推送，官方公布了分批次推送的时间与对应机型名单。 IT之家从公告获悉，本次推送分三个阶段， 目前第一阶段已经开启陆续推送 ，对应机型如下： 手机端： Xiaomi 17 Ultra / Xiaomi 17 Ultra 徕卡版 、Xia…",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "coolapk-user-fa669289a5b9",
       "title": "竹本青：REDMI回应 K100 Pro系列 澎湃OS 4 Beta版本推送排期",
       "source": "竹本青",
@@ -297,86 +417,6 @@ window.phoneRadarAuto = {
       "summary": "【REDMI回应 K100 Pro系列 澎湃OS 4 Beta版本推送排期：首月优先保障用户稳定体验】 8月14日，REDMI发布“K100 Pro系列答网友问”，针对该系列机型的小米澎湃OS 4 Beta版本推送节奏作出解释。 官方表示，REDMI K100 Pro系列 虽然Beta版本安排在第三批开放，但会是澎湃OS 4 正式版的首批支持机型之一。 K…",
       "tags": [
         "Xiaomi",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
-      "id": "coolapk-user-c2b6e899212f",
-      "title": "竹本青：追觅卖出首台手机：交易金额超3万美元",
-      "source": "竹本青",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-08-14",
-      "time": "06:49",
-      "publishedAt": "2026-08-14T06:49:46.000Z",
-      "url": "https://www.coolapk.com/feed/73234721",
-      "image": "http://image.coolapk.com/feed/2026/0814/14/4248714_fba17409_0374_0871_301@1080x1188.jpg",
-      "summary": "【追觅卖出首台手机：24K足金镶宝石，背面有俞浩签名，交易金额超3万美元】 蓝鲸新闻今日报道，追觅手机负责人13日在朋友圈透露，公司已正式交付001号AURORA手机。据其透露，三万美金交易款项已全部到账，其中首付款1万美金，尾款21184美金。 其称，这是 “中国智能手机历史上迄今为止卖出去单台售价最高的旗舰智能手机”。 从曝光图片来看，手机不仅背面带有…",
-      "tags": [
-        "行业",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
-      "id": "coolapk-user-f40021e9e48f",
-      "title": "竹本青：安兔兔称骁龙8 Elite Gen6 Pro 跑分真实性存疑",
-      "source": "竹本青",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-08-14",
-      "time": "05:35",
-      "publishedAt": "2026-08-14T05:35:29.000Z",
-      "url": "https://www.coolapk.com/feed/73233395",
-      "image": "http://image.coolapk.com/feed/2026/0814/13/4248714_d493b4e3_5727_7907_192@1440x1217.jpg",
-      "summary": "【网传骁龙8 Elite Gen6 Pro跑分曝光，安兔兔称成绩真实性存疑】 8月14日，博主数码闲聊站放出SM8975（骁龙8 Elite Gen6 Pro）安兔兔V11.1.4 跑分截图。 截图显示，整机综合跑分4835412分；CPU得分1368930分；GPU得分1854826分；GPU标识为Adreno 850。 但随后，安兔兔官方账号在该帖下留…",
-      "tags": [
-        "行业",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
-      "id": "coolapk-user-f65ffe2acb6c",
-      "title": "竹本青：2026年第32周国内手机市场份额曝光：荣耀升至榜五",
-      "source": "竹本青",
-      "brand": "HONOR",
-      "model": "HONOR 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-08-14",
-      "time": "05:31",
-      "publishedAt": "2026-08-14T05:31:56.000Z",
-      "url": "https://www.coolapk.com/feed/73233343",
-      "image": "http://image.coolapk.com/feed/2026/0814/13/4248714_0d55ee9e_5515_9412_405@1439x1030.jpg",
-      "summary": "【2026年第32周 国内手机市场份额曝光：华为保持榜首，荣耀升至榜五】 ● 2026 W32 —— 大盘下降约5% 1.华为 —— 20.6% 2.OPPO —— 17.2%（含一加 3.1%，realme 0.6%） 3.vivo —— 16.0%（含iQOO 4.1%） 4.小米 —— 14.3% 5.荣耀 —— 13.8% 6.苹果 —— 13.3…",
-      "tags": [
-        "HONOR",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
-      "id": "coolapk-user-6af77b263eaf",
-      "title": "竹本青：魅族手机官宣不涨价：在售机型维持原价销售",
-      "source": "竹本青",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-08-14",
-      "time": "05:22",
-      "publishedAt": "2026-08-14T05:22:25.000Z",
-      "url": "https://www.coolapk.com/feed/73233217",
-      "image": "http://image.coolapk.com/feed/2026/0814/13/4248714_d95eb441_4942_845_313@960x1280.jpg",
-      "summary": "【魅族手机官宣不涨价：在售机型维持原价销售】 魅族手机今天发布公告称，近期，内存芯片价格持续上涨，行业内多款机型已调整售价。魅族将继续坚持在售机型诚意不涨价：魅族 Note16 、 魅族 22 、魅族 22 归航限定版维持原价销售，且可叠加国家购机补贴。 魅族 Note16 8GB+128GB —— 799元 8GB+256GB —— 999元 12GB+…",
-      "tags": [
-        "行业",
         "爆料",
         "酷安博主"
       ]
@@ -522,66 +562,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-c855a84b7c68",
-      "title": "真是 18 码了。麒麟 9000S 在鸿蒙 6.1 就吃上了沉浸光感，虽说是残血版。你拿着骁龙 8e同代的 天玑 9400+ 还好意思说“硬件性能限制”？#HyperOS4##HyperOS3# #REDMIK90至尊版#",
-      "source": "酷安热榜",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-08-14",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73215442",
-      "image": "",
-      "summary": "真是 18 码了。麒麟 9000S 在鸿蒙 6.1 就吃上了沉浸光感，虽说是残血版。你拿着骁龙 8e同代的 天玑 9400+ 还好意思说“硬件性能限制”？#HyperOS4##HyperOS3# #REDMIK90至尊版#",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-33cd904a4c7d",
-      "title": "追觅卖出首台手机 售价超20万元",
-      "source": "今日头条热榜",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-14",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.toutiao.com/trending/7673679213765181476/",
-      "image": "",
-      "summary": "追觅卖出首台手机 售价超20万元",
-      "tags": [
-        "行业",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-f55edbf153a3",
-      "title": "追觅卖出首台手机售价超20万元",
-      "source": "百度热搜",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-14",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.baidu.com/s?wd=%E8%BF%BD%E8%A7%85%E5%8D%96%E5%87%BA%E9%A6%96%E5%8F%B0%E6%89%8B%E6%9C%BA%E5%94%AE%E4%BB%B7%E8%B6%8520%E4%B8%87%E5%85%83",
-      "image": "",
-      "summary": "追觅卖出首台手机售价超20万元",
-      "tags": [
-        "行业",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
       "id": "auto-c314e18e9244",
       "title": "iPhone 17 Pro One Year Later: What Held Up and What Didn't",
       "source": "MacRumors",
@@ -618,26 +598,6 @@ window.phoneRadarAuto = {
       "tags": [
         "Pixel",
         "评测",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-9114e8d9b85a",
-      "title": "Netflix is closing two game studios",
-      "source": "The Verge",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-13",
-      "time": "21:11",
-      "publishedAt": "2026-08-13T21:11:44.000Z",
-      "url": "https://www.theverge.com/games/979855/netflix-shut-down-night-school-studio-moonloot-games",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24814434/OXENFREEII_rileyjacobbridge_EN.png?quality=90&strip=all&crop=0,0,100,100",
-      "summary": "Netflix plans to shut down two of its gaming studios, as reported by Game File and Variety, as it makes a bigger shift toward party games and titles streamed to TVs. One of the st…",
-      "tags": [
-        "iPhone",
-        "爆料",
         "自动抓取"
       ]
     },
@@ -737,26 +697,6 @@ window.phoneRadarAuto = {
       "summary": "In the lead-up to launch, iQOO today confirmed that its upcoming Neo 11 Ultra smartphone will be the first phone in the industry to use the new MediaTek Dimensity 9500M processor.…",
       "tags": [
         "vivo",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-8a8c0c0ae5e8",
-      "title": "The Pixel 11a just became the Pixel 11 phone I actually want to buy",
-      "source": "Android Police",
-      "brand": "Pixel",
-      "model": "Pixel 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-13",
-      "time": "17:30",
-      "publishedAt": "2026-08-13T17:30:16.000Z",
-      "url": "https://www.androidpolice.com/the-pixel-11a-just-became-the-pixel-11-phone-i-actually-want-to-buy/",
-      "image": "",
-      "summary": "Forgot flagship, I'm going budget",
-      "tags": [
-        "Pixel",
         "爆料",
         "自动抓取"
       ]
@@ -1297,26 +1237,6 @@ window.phoneRadarAuto = {
       "summary": "Blink and you might miss Google's adorable Pixel makeover.",
       "tags": [
         "Pixel",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-cb5d0693a3a3",
-      "title": "Honor Magic 9 series to embrace dual 200MP camera expertise",
-      "source": "Huawei Central",
-      "brand": "HONOR",
-      "model": "HONOR 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-13",
-      "time": "09:51",
-      "publishedAt": "2026-08-13T09:51:20.000Z",
-      "url": "https://www.huaweicentral.com/honor-magic-9-series-to-embrace-dual-200mp-camera-expertise/",
-      "image": "https://www.huaweicentral.com/wp-content/uploads/2026/05/Magic8Pro.jpg",
-      "summary": "After ROBOT PHONE, Honor is now up with the Magic 9 series launch preparations and it seems the flagship smartphone lineup will embrace ARRI imaging solutions and dual 200MP camer…",
-      "tags": [
-        "HONOR",
         "爆料",
         "自动抓取"
       ]

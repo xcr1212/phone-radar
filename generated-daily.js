@@ -1,14 +1,14 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-08-14T11:07:44.978Z",
+  "updatedAt": "2026-08-14T13:41:29.097Z",
   "issueDate": "2026-08-14",
   "issue": "VOL.260814",
   "title": "手机情报日报",
-  "intro": "今日筛出 10 条重点，其中 8 条是重点爆料，包含 4 条 iPhone 相关、0 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 13 条重点，其中 8 条是重点爆料，包含 4 条 iPhone 相关、1 条官方确认、0 条参数线索。",
   "stats": {
-    "total": 10,
+    "total": 13,
     "iphone": 4,
     "leaks": 8,
-    "official": 0,
+    "official": 1,
     "specs": 0
   },
   "sections": [
@@ -36,29 +36,6 @@ window.phoneRadarDaily = {
           "keyPoints": [
             "影像硬件",
             "爆料来源"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "auto-9114e8d9b85a",
-          "title": "iPhone 系统功能 / AI 体验相关消息",
-          "originalTitle": "",
-          "source": "The Verge",
-          "brand": "iPhone",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-08-13",
-          "time": "21:11",
-          "publishedAt": "2026-08-13T21:11:44.000Z",
-          "url": "https://www.theverge.com/games/979855/netflix-shut-down-night-school-studio-moonloot-games",
-          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24814434/OXENFREEII_rileyjacobbridge_EN.png?quality=90&strip=all&crop=0,0,100,100",
-          "verdict": "先看",
-          "takeaway": "iPhone 系统功能 / AI 体验相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
-          "detail": "iPhone 系统功能 / AI 体验相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
-          "keyPoints": [
-            "爆料"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
@@ -103,6 +80,29 @@ window.phoneRadarDaily = {
           "verdict": "先看",
           "takeaway": "【REDMI 回应 K100 Pro 独占「流萤追光」配色：玻璃材质后盖更适配】 8月14日，REDMI 手机发布答网友问，解释 K100 Pro 独占「流萤追光」配色原因： 综合呈现效果、透明度、光感、耐久性等考虑，采用玻璃材质背盖的 K100 Pro 会更加适合。至于采用了玻纤材质背盖的 K100 Pro Max，则准备了其他配色和设计方案。 #RED…",
           "detail": "【REDMI 回应 K100 Pro 独占「流萤追光」配色：玻璃材质后盖更适配】 8月14日，REDMI 手机发布答网友问，解释 K100 Pro 独占「流萤追光」配色原因： 综合呈现效果、透明度、光感、耐久性等考虑，采用玻璃材质背盖的 K100 Pro 会更加适合。至于采用了玻纤材质背盖的 K100 Pro Max，则准备了其他配色和设计方案。 #RED…",
+          "keyPoints": [
+            "外观 / 配色 / 尺寸"
+          ],
+          "confidence": "可信度较高，但仍属于发布前线索。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "coolapk-user-a7ff7ff9527b",
+          "title": "竹本青：【阿维塔雍军公开回应：所谓“华为非必要”争议是误读】 8月14日，阿维塔科技副总裁雍军公开回应近期争议：所谓“华为…",
+          "originalTitle": "",
+          "source": "竹本青",
+          "brand": "Huawei",
+          "type": "爆料",
+          "trust": "高可信爆料",
+          "date": "2026-08-14",
+          "time": "11:37",
+          "publishedAt": "2026-08-14T11:37:47.000Z",
+          "url": "https://www.coolapk.com/feed/73242409",
+          "image": "http://image.coolapk.com/feed/2026/0814/19/4248714_2feba06c_7466_9024_752@1236x700.jpg",
+          "verdict": "先看",
+          "takeaway": "【阿维塔雍军公开回应：所谓“华为非必要”争议是误读】 8月14日，阿维塔科技副总裁雍军公开回应近期争议：所谓“华为非必要项”其实是误读，他原本表达的是“没必要让引望为阿维塔单独定制一个智驾版本”，并不是说华为对阿维塔不重要。 实际上，双方合作还在继续加深。刚推出的阿维塔07L就是双方联创车型，华为团队从产品定义到外观、内饰、配色等环节都有深度参与；阿维塔目…",
+          "detail": "【阿维塔雍军公开回应：所谓“华为非必要”争议是误读】 8月14日，阿维塔科技副总裁雍军公开回应近期争议：所谓“华为非必要项”其实是误读，他原本表达的是“没必要让引望为阿维塔单独定制一个智驾版本”，并不是说华为对阿维塔不重要。 实际上，双方合作还在继续加深。刚推出的阿维塔07L就是双方联创车型，华为团队从产品定义到外观、内饰、配色等环节都有深度参与；阿维塔目…",
           "keyPoints": [
             "外观 / 配色 / 尺寸"
           ],
@@ -233,6 +233,29 @@ window.phoneRadarDaily = {
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
           "action": "中文源可以直接点开快读；看完只保留和购机有关的点。"
+        },
+        {
+          "id": "auto-9bbf43c61c96",
+          "title": "iPhone 系统功能 / AI 体验相关消息",
+          "originalTitle": "",
+          "source": "Apple Newsroom",
+          "brand": "iPhone",
+          "type": "官方",
+          "trust": "官方确认",
+          "date": "2026-08-14",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://www.apple.com/newsroom/2026/06/apple-announces-changes-to-ios-in-brazil/",
+          "image": "",
+          "verdict": "先看",
+          "takeaway": "iPhone 系统功能 / AI 体验相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
+          "detail": "iPhone 系统功能 / AI 体验相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
+          "keyPoints": [
+            "官方"
+          ],
+          "confidence": "官方内容，可直接作为已确认信息记录。",
+          "impact": "可信度高，但如果不是配置/价格消息，只需要扫一眼。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         }
       ]
     },
@@ -263,6 +286,59 @@ window.phoneRadarDaily = {
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是实际体验内容，买前适合重点看缺点和取舍。",
           "action": "中文源可以直接点开快读；看完只保留和购机有关的点。"
+        },
+        {
+          "id": "coolapk-user-fa669289a5b9",
+          "title": "竹本青：REDMI回应 K100 Pro系列 澎湃OS 4 Beta版本推送排期",
+          "originalTitle": "",
+          "source": "竹本青",
+          "brand": "Xiaomi",
+          "type": "爆料",
+          "trust": "高可信爆料",
+          "date": "2026-08-14",
+          "time": "07:02",
+          "publishedAt": "2026-08-14T07:02:20.000Z",
+          "url": "https://www.coolapk.com/feed/73235045",
+          "image": "http://image.coolapk.com/feed/2026/0814/15/4248714_4ce09002_1329_979_66@2136x1834.jpg",
+          "verdict": "扫一眼",
+          "takeaway": "【REDMI回应 K100 Pro系列 澎湃OS 4 Beta版本推送排期：首月优先保障用户稳定体验】 8月14日，REDMI发布“K100 Pro系列答网友问”，针对该系列机型的小米澎湃OS 4 Beta版本推送节奏作出解释。 官方表示，REDMI K100 Pro系列 虽然Beta版本安排在第三批开放，但会是澎湃OS 4 正式版的首批支持机型之一。 K…",
+          "detail": "【REDMI回应 K100 Pro系列 澎湃OS 4 Beta版本推送排期：首月优先保障用户稳定体验】 8月14日，REDMI发布“K100 Pro系列答网友问”，针对该系列机型的小米澎湃OS 4 Beta版本推送节奏作出解释。 官方表示，REDMI K100 Pro系列 虽然Beta版本安排在第三批开放，但会是澎湃OS 4 正式版的首批支持机型之一。 K…",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "可信度较高，但仍属于发布前线索。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        }
+      ]
+    },
+    {
+      "id": "review",
+      "title": "评测与体验",
+      "hint": "买前再细看，平时扫一眼即可。",
+      "items": [
+        {
+          "id": "auto-c56a8263db4d",
+          "title": "iPhone 17 影像能力相关消息",
+          "originalTitle": "",
+          "source": "Gizmochina",
+          "brand": "Samsung",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-08-14",
+          "time": "13:12",
+          "publishedAt": "2026-08-14T13:12:35.000Z",
+          "url": "https://www.gizmochina.com/2026/08/14/iphone-17-ties-galaxy-s26-ultra-and-oppo-find-x7-ultra-in-dxomarks-camera-test/",
+          "image": "https://www.gizmochina.com/wp-content/uploads/2026/08/iphone-17-galaxy-s26-camera-test-1-300x169.jpg?x23692",
+          "verdict": "扫一眼",
+          "takeaway": "Samsung 影像能力相关宣传或案例，主要看是否透露拍摄能力变化。",
+          "detail": "iPhone 17 影像能力相关消息。重点看影像功能是否和新机硬件有关，如果只是拍摄案例或营销内容，参考价值会低一些。",
+          "keyPoints": [
+            "影像硬件"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "影响拍照体验，买旗舰机时值得关注。",
+          "action": "有具体参数就记录到参数库；没有参数就先收藏。"
         }
       ]
     }
