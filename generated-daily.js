@@ -1,14 +1,14 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-08-13T23:01:31.806Z",
-  "issueDate": "2026-08-13",
-  "issue": "VOL.260813",
+  "updatedAt": "2026-08-14T02:44:52.871Z",
+  "issueDate": "2026-08-14",
+  "issue": "VOL.260814",
   "title": "手机情报日报",
-  "intro": "今日筛出 12 条重点，其中 8 条是重点爆料，包含 6 条 iPhone 相关、1 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 16 条重点，其中 8 条是重点爆料，包含 5 条 iPhone 相关、2 条官方确认、0 条参数线索。",
   "stats": {
-    "total": 12,
-    "iphone": 6,
+    "total": 16,
+    "iphone": 5,
     "leaks": 8,
-    "official": 1,
+    "official": 2,
     "specs": 0
   },
   "sections": [
@@ -18,23 +18,23 @@ window.phoneRadarDaily = {
       "hint": "机模、配色、影像、屏幕、电池和芯片线索先看。",
       "items": [
         {
-          "id": "auto-a64bae26ebcd",
-          "title": "消息称苹果首款折叠屏手机 iPhone Ultra 产能有限，首批货源优先供应美国市场",
+          "id": "auto-c314e18e9244",
+          "title": "iPhone 相关消息",
           "originalTitle": "",
-          "source": "IT之家",
+          "source": "MacRumors",
           "brand": "iPhone",
           "type": "爆料",
           "trust": "媒体汇总",
           "date": "2026-08-13",
-          "time": "13:46",
-          "publishedAt": "2026-08-13T13:46:07.000Z",
-          "url": "https://www.ithome.com/0/989/460.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/6/a43f2043-5b67-4f56-bd3f-0ecc9a105e29.png",
+          "time": "23:58",
+          "publishedAt": "2026-08-13T23:58:50.000Z",
+          "url": "https://www.macrumors.com/2026/08/13/iphone-17-pro-one-year-later/",
+          "image": "",
           "verdict": "先看",
-          "takeaway": "IT之家 8 月 13 日消息，外媒 ChannelNews 援引一位匿名零部件供应商消息，称苹果首款折叠屏手机 iPhone Ultra 有限的首批货源可能会优先供应美国市场，随后再陆续进入包括中国在内的其他主要市场。 事实上，此前就已经有多份消息称 iPhone Ultra 初期产能可能非常有限 。如果供应情况确实如此紧张，那么苹果采取美国市场优先、随…",
-          "detail": "IT之家 8 月 13 日消息，外媒 ChannelNews 援引一位匿名零部件供应商消息，称苹果首款折叠屏手机 iPhone Ultra 有限的首批货源可能会优先供应美国市场，随后再陆续进入包括中国在内的其他主要市场。 事实上，此前就已经有多份消息称 iPhone Ultra 初期产能可能非常有限 。如果供应情况确实如此紧张，那么苹果采取美国市场优先、随…",
+          "takeaway": "iPhone 相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
+          "detail": "iPhone 相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
           "keyPoints": [
-            "屏幕形态",
+            "影像硬件",
             "爆料来源"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
@@ -57,29 +57,6 @@ window.phoneRadarDaily = {
           "verdict": "先看",
           "takeaway": "iPhone 系统功能 / AI 体验相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
           "detail": "iPhone 系统功能 / AI 体验相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "auto-873cd3702a8e",
-          "title": "iPhone 相关消息",
-          "originalTitle": "",
-          "source": "MacRumors",
-          "brand": "iPhone",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-08-13",
-          "time": "14:11",
-          "publishedAt": "2026-08-13T14:11:35.000Z",
-          "url": "https://www.macrumors.com/2026/08/13/when-is-iphone-18-pro-iphone-ultra-apple-event/",
-          "image": "https://images.macrumors.com/article-new/2026/04/Four-iPhone-18-Pro-Colors-Mock-Feature.jpg",
-          "verdict": "先看",
-          "takeaway": "iPhone 相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
-          "detail": "iPhone 相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
           "keyPoints": [
             "爆料"
           ],
@@ -111,73 +88,50 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
-          "id": "auto-e82a22824209",
-          "title": "iPhone 影像能力相关消息",
-          "originalTitle": "",
-          "source": "9to5Mac",
-          "brand": "iPhone",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-08-12",
-          "time": "17:27",
-          "publishedAt": "2026-08-12T17:27:04.000Z",
-          "url": "https://9to5mac.com/2026/08/12/iphone-ultras-cameras-might-get-very-unorthodox-placement-per-leak/",
-          "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/03/iphone-fold-mockup-purple.jpg?quality=82&strip=all&w=1600",
-          "verdict": "先看",
-          "takeaway": "iPhone 影像能力相关宣传或案例，主要看是否透露拍摄能力变化。",
-          "detail": "iPhone 影像能力相关消息。重点看影像功能是否和新机硬件有关，如果只是拍摄案例或营销内容，参考价值会低一些。",
-          "keyPoints": [
-            "影像硬件",
-            "爆料来源"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "auto-8b1ea5df0fc8",
-          "title": "iPhone 18 Pro 屏幕规格相关消息",
-          "originalTitle": "",
-          "source": "MacRumors",
-          "brand": "iPhone",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-08-12",
-          "time": "16:43",
-          "publishedAt": "2026-08-12T16:43:06.000Z",
-          "url": "https://www.macrumors.com/2026/08/12/iphone-18-pro-lower-oled-display-cost-report/",
-          "image": "https://images.macrumors.com/article-new/2026/05/Low-Angle-iPhone-Purple.jpg",
-          "verdict": "先看",
-          "takeaway": "iPhone 18 Pro 屏幕规格相关消息。如果涉及订阅、售价或硬件成本，才需要进一步看细节。",
-          "detail": "iPhone 18 Pro 屏幕规格相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
-          "keyPoints": [
-            "屏幕形态",
-            "成本 / 价格"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "auto-7d6b0625a853",
-          "title": "iQOO Z11S 手机官宣搭载天玑 7500 满血版芯片，安兔兔综合跑分超 130 万",
+          "id": "auto-251fa64a3651",
+          "title": "消息称某厂骁龙 8E6 Pro 新机搭载 2K 三星直屏、全新 ID 设计，预计为 iQOO 16",
           "originalTitle": "",
           "source": "IT之家",
-          "brand": "HONOR",
+          "brand": "Samsung",
           "type": "爆料",
           "trust": "媒体汇总",
-          "date": "2026-08-13",
-          "time": "11:56",
-          "publishedAt": "2026-08-13T11:56:51.000Z",
-          "url": "https://www.ithome.com/0/989/430.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/8/f8c39db7-3fe1-4b0c-b10e-77df4cba41d2.jpg?x-bce-process=image/format,f_auto",
+          "date": "2026-08-14",
+          "time": "02:02",
+          "publishedAt": "2026-08-14T02:02:07.000Z",
+          "url": "https://www.ithome.com/0/989/538.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/8/12cfc5af-ec05-4f47-aad7-01718ca0f876.png",
           "verdict": "先看",
-          "takeaway": "IT之家 8 月 13 日消息，iQOO 手机官方今日宣布， iQOO Z11S 将搭载天玑 7500 满血版芯片 ，安兔兔综合跑分达 1,309,171 分。 官方预热海报显示，iQOO Z11S 手机还搭载了冰穹 VC 液冷散热系统， 适配《王者荣耀》原生 120FPS 极高帧率模式 。 据IT之家昨日报道， iQOO Z11S 手机还会搭载 144H…",
-          "detail": "IT之家 8 月 13 日消息，iQOO 手机官方今日宣布， iQOO Z11S 将搭载天玑 7500 满血版芯片 ，安兔兔综合跑分达 1,309,171 分。 官方预热海报显示，iQOO Z11S 手机还搭载了冰穹 VC 液冷散热系统， 适配《王者荣耀》原生 120FPS 极高帧率模式 。 据IT之家昨日报道， iQOO Z11S 手机还会搭载 144H…",
+          "takeaway": "IT之家 8 月 14 日消息，博主 @数码闲聊站 今日曝光某厂子系骁龙 8E6 Pro / SM8975 新机部分信息，预计为 iQOO 16。 据其爆料，该机搭载 6.85 英寸 2K+165Hz 新一代三星直屏，工程机的 R 角形态和边框变化不大，镜头 DECO 是左上角小方块， 采用全新 ID 设计 。 今年 7 月，该博主还爆料某厂子系骁龙 8…",
+          "detail": "IT之家 8 月 14 日消息，博主 @数码闲聊站 今日曝光某厂子系骁龙 8E6 Pro / SM8975 新机部分信息，预计为 iQOO 16。 据其爆料，该机搭载 6.85 英寸 2K+165Hz 新一代三星直屏，工程机的 R 角形态和边框变化不大，镜头 DECO 是左上角小方块， 采用全新 ID 设计 。 今年 7 月，该博主还爆料某厂子系骁龙 8…",
           "keyPoints": [
-            "芯片 / 性能"
+            "屏幕形态",
+            "爆料来源"
           ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "weibo-93a71a5bc4e7",
+          "title": "数码闲聊站：独家信息：子系骁龙8E6 Pro/SM8975新机，6.85\"2K+165Hz…",
+          "originalTitle": "",
+          "source": "数码闲聊站",
+          "brand": "Samsung",
+          "type": "爆料",
+          "trust": "高关注爆料源",
+          "date": "2026-08-14",
+          "time": "01:38",
+          "publishedAt": "2026-08-14T01:38:00.000Z",
+          "url": "https://weibo.com/6048569942/RdjW2qorc",
+          "image": "",
+          "verdict": "先看",
+          "takeaway": "独家信息，子系骁龙8E6 Pro/SM8975新机，6.85\"2K+165Hz新一代三星直屏，工程机的R角形态和边框变化不大，镜头DECO是左上角小方块，全新ID设计👖",
+          "detail": "独家信息，子系骁龙8E6 Pro/SM8975新机，6.85\"2K+165Hz新一代三星直屏，工程机的R角形态和边框变化不大，镜头DECO是左上角小方块，全新ID设计👖",
+          "keyPoints": [
+            "屏幕形态",
+            "爆料来源"
+          ],
+          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
@@ -204,6 +158,109 @@ window.phoneRadarDaily = {
           "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "coolapk-user-83611a7ea57d",
+          "title": "竹本青：【vivo S50t 元气版上架：骁龙8s Gen3处理器，1.5K中直屏，限时售价2999元起】 12GB+25…",
+          "originalTitle": "",
+          "source": "竹本青",
+          "brand": "vivo",
+          "type": "爆料",
+          "trust": "高可信爆料",
+          "date": "2026-08-13",
+          "time": "18:19",
+          "publishedAt": "2026-08-13T18:19:50.000Z",
+          "url": "https://www.coolapk.com/feed/73227883",
+          "image": "http://image.coolapk.com/feed/2026/0814/02/4248714_179b7a26_5182_5732_754@1270x952.jpg",
+          "verdict": "先看",
+          "takeaway": "【vivo S50t 元气版上架：骁龙8s Gen3处理器，1.5K中直屏，限时售价2999元起】 12GB+256GB —— 2999元（原价3299元） 12GB+512GB —— 3299元（原价3599元） ▫️6.59英寸1.5K 120Hz直屏 ▫️骁龙8s Gen3处理器 ▫️LPDDR5+UFS3.1 ▫️6500mAh电池+90W快充 前…",
+          "detail": "【vivo S50t 元气版上架：骁龙8s Gen3处理器，1.5K中直屏，限时售价2999元起】 12GB+256GB —— 2999元（原价3299元） 12GB+512GB —— 3299元（原价3599元） ▫️6.59英寸1.5K 120Hz直屏 ▫️骁龙8s Gen3处理器 ▫️LPDDR5+UFS3.1 ▫️6500mAh电池+90W快充 前…",
+          "keyPoints": [
+            "屏幕形态",
+            "电池 / 充电",
+            "芯片 / 性能",
+            "成本 / 价格"
+          ],
+          "confidence": "可信度较高，但仍属于发布前线索。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "coolapk-user-a28024b8b67a",
+          "title": "JSCHEN小小狐：iQOO Neo11 至尊版预热汇总：天玑 9500M",
+          "originalTitle": "",
+          "source": "JSCHEN小小狐",
+          "brand": "vivo",
+          "type": "爆料",
+          "trust": "高可信爆料",
+          "date": "2026-08-13",
+          "time": "09:22",
+          "publishedAt": "2026-08-13T09:22:54.000Z",
+          "url": "https://www.coolapk.com/feed/73219812",
+          "image": "http://image.coolapk.com/feed/2026/0813/17/4702274_ef2f1f71_2971_3286_953@1500x3934.jpg",
+          "verdict": "先看",
+          "takeaway": "『iQOO Neo11 至尊版预热汇总：天玑 9500M』 ◇ 天玑 9500M 平台（GPU 12 核 → 11 核） ◇ Monster 超核引擎｜8K 冰穹 3D VC 散热 ◇ 自研电竞芯片 Q2｜寰宇电竞 Wi-Fi 三芯片 ◇ 超感触控芯片：多指 500Hz / 瞬时 4000Hz ◇ 6.83 英寸 2K OLED 直屏（维信诺 F2） ◇…",
+          "detail": "『iQOO Neo11 至尊版预热汇总：天玑 9500M』 ◇ 天玑 9500M 平台（GPU 12 核 → 11 核） ◇ Monster 超核引擎｜8K 冰穹 3D VC 散热 ◇ 自研电竞芯片 Q2｜寰宇电竞 Wi-Fi 三芯片 ◇ 超感触控芯片：多指 500Hz / 瞬时 4000Hz ◇ 6.83 英寸 2K OLED 直屏（维信诺 F2） ◇…",
+          "keyPoints": [
+            "屏幕形态",
+            "芯片 / 性能"
+          ],
+          "confidence": "可信度较高，但仍属于发布前线索。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        }
+      ]
+    },
+    {
+      "id": "iphone",
+      "title": "iPhone 重点",
+      "hint": "不是硬件爆料，但和 iPhone 体验或路线有关。",
+      "items": [
+        {
+          "id": "auto-55e5a3ebbb69",
+          "title": "Omdia：苹果 iPhone 用户在微短剧上的消费比安卓用户高出 40%",
+          "originalTitle": "",
+          "source": "IT之家",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-08-14",
+          "time": "02:39",
+          "publishedAt": "2026-08-14T02:39:52.000Z",
+          "url": "https://www.ithome.com/0/989/597.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/8/f3824bf8-15e7-4c25-8996-7b05be53d366.png",
+          "verdict": "先看",
+          "takeaway": "IT之家 8 月 14 日消息，Omdia 今日发布的最新研究显示， iPhone 用户在微短剧应用上的消费比安卓用户高出约 40% ，这一发现颠覆了外界对这一快速增长的娱乐形态用户消费习惯和付费意愿的普遍认知。 尽管微短剧常被认为主要吸引低收入或小众受众，但 Omdia 的最新消费者研究表明，实际情况要复杂得多。 在多个主要市场中，iPhone 用户为微…",
+          "detail": "IT之家 8 月 14 日消息，Omdia 今日发布的最新研究显示， iPhone 用户在微短剧应用上的消费比安卓用户高出约 40% ，这一发现颠覆了外界对这一快速增长的娱乐形态用户消费习惯和付费意愿的普遍认知。 尽管微短剧常被认为主要吸引低收入或小众受众，但 Omdia 的最新消费者研究表明，实际情况要复杂得多。 在多个主要市场中，iPhone 用户为微…",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "中文源可以直接点开快读；看完只保留和购机有关的点。"
+        },
+        {
+          "id": "newsnow-57d56850e7d6",
+          "title": "iPhoneUltra或优先供应美国市场",
+          "originalTitle": "",
+          "source": "微博热搜",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "待验证",
+          "date": "2026-08-14",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://s.weibo.com/weibo?q=%23iPhoneUltra%E6%88%96%E4%BC%98%E5%85%88%E4%BE%9B%E5%BA%94%E7%BE%8E%E5%9B%BD%E5%B8%82%E5%9C%BA%23&t=31&band_rank=19&Refer=top",
+          "image": "",
+          "verdict": "扫一眼",
+          "takeaway": "iPhoneUltra或优先供应美国市场",
+          "detail": "iPhoneUltra或优先供应美国市场",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         }
       ]
     },
@@ -236,29 +293,6 @@ window.phoneRadarDaily = {
           "action": "中文源可以直接点开快读；看完只保留和购机有关的点。"
         },
         {
-          "id": "newsnow-ca60ee5b25cb",
-          "title": "REDMI K100 Pro 系列发布：首销 3699 元起",
-          "originalTitle": "",
-          "source": "酷安热榜",
-          "brand": "Xiaomi",
-          "type": "爆料",
-          "trust": "高关注爆料源",
-          "date": "2026-08-13",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://www.coolapk.com/feed/73186553",
-          "image": "",
-          "verdict": "先看",
-          "takeaway": "REDMI K100 Pro 系列发布：首销 3699 元起",
-          "detail": "REDMI K100 Pro 系列发布：首销 3699 元起",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
-        {
           "id": "auto-b8cd47ce0d60",
           "title": "Pixel 11 Pro 功能更新或覆盖范围扩大",
           "originalTitle": "",
@@ -280,6 +314,52 @@ window.phoneRadarDaily = {
           "confidence": "官方内容，可直接作为已确认信息记录。",
           "impact": "可信度高，但如果不是配置/价格消息，只需要扫一眼。",
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        },
+        {
+          "id": "auto-7a6f8a0e8ced",
+          "title": "HONOR 相关消息",
+          "originalTitle": "",
+          "source": "Google Blog",
+          "brand": "HONOR",
+          "type": "官方",
+          "trust": "官方确认",
+          "date": "2026-08-13",
+          "time": "16:00",
+          "publishedAt": "2026-08-13T16:00:00.000Z",
+          "url": "https://blog.google/products-and-platforms/devices/pixel/pixel-11-magic-capture/",
+          "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/MagicCapture.max-600x600.format-webp.webp",
+          "verdict": "扫一眼",
+          "takeaway": "HONOR 相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
+          "detail": "HONOR 相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
+          "keyPoints": [
+            "官方"
+          ],
+          "confidence": "官方内容，可直接作为已确认信息记录。",
+          "impact": "可信度高，但如果不是配置/价格消息，只需要扫一眼。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        },
+        {
+          "id": "coolapk-user-1b74b8fe652b",
+          "title": "JSCHEN小小狐：谷歌 Pixel 11 系列硬件变化汇总",
+          "originalTitle": "",
+          "source": "JSCHEN小小狐",
+          "brand": "Pixel",
+          "type": "爆料",
+          "trust": "高可信爆料",
+          "date": "2026-08-13",
+          "time": "07:43",
+          "publishedAt": "2026-08-13T07:43:02.000Z",
+          "url": "https://www.coolapk.com/feed/73217976",
+          "image": "http://image.coolapk.com/feed_cover/2026/0813/15/4702274_0f5549aa_6792_0132_506@1600x720.jpg",
+          "verdict": "扫一眼",
+          "takeaway": "前言：8 月 12 日，谷歌通过 “Made by Google” 发布会，带来了全新的 Pixel 11、Pixel 11 Pro、Pixel 11 Pro XL 及 Pixel 11 Pro Fold 四款机型。除了统一搭载新一代 Tensor G6 和 Titan M3 外，它们在硬件选型上也较前代作出了一些区别。 谷歌 Pixel 11 Pro F…",
+          "detail": "前言：8 月 12 日，谷歌通过 “Made by Google” 发布会，带来了全新的 Pixel 11、Pixel 11 Pro、Pixel 11 Pro XL 及 Pixel 11 Pro Fold 四款机型。除了统一搭载新一代 Tensor G6 和 Titan M3 外，它们在硬件选型上也较前代作出了一些区别。 谷歌 Pixel 11 Pro F…",
+          "keyPoints": [
+            "芯片 / 性能"
+          ],
+          "confidence": "可信度较高，但仍属于发布前线索。",
+          "impact": "影响性能和寿命判断，适合放进参数库。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         }
       ]
     },
@@ -289,27 +369,57 @@ window.phoneRadarDaily = {
       "hint": "买前再细看，平时扫一眼即可。",
       "items": [
         {
-          "id": "auto-9e89dc1d0274",
-          "title": "超薄机身的代价：iFixit 为三星 Galaxy Z Fold8 可维修性打出 4/10 分",
+          "id": "auto-663d86e148a9",
+          "title": "Pixel 11 Pro 系统功能 / AI 体验相关消息",
           "originalTitle": "",
-          "source": "IT之家",
-          "brand": "Samsung",
-          "type": "爆料",
+          "source": "Android Central",
+          "brand": "Pixel",
+          "type": "评测",
           "trust": "媒体汇总",
           "date": "2026-08-13",
-          "time": "14:22",
-          "publishedAt": "2026-08-13T14:22:31.000Z",
-          "url": "https://www.ithome.com/0/989/469.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/8/a082a0fd-62f9-4bb8-8182-179cd5914a6a.jpg?x-bce-process=image/format,f_auto",
-          "verdict": "先看",
-          "takeaway": "IT之家 8 月 13 日消息，iFixit 今天（13 日）晚间公布了 三星 Galaxy Z Fold8 的可维修性评测报告，结果显示，超薄机身依然是以 牺牲可维修 性为代价实现的。 iFixit 给 Galaxy Z Fold8 打出了 4/10 的可维修性评分。 过于脆弱的内屏、复杂的铰链结构，以及实际防护能力有限的防尘等级 ，都是主要扣分项。 G…",
-          "detail": "IT之家 8 月 13 日消息，iFixit 今天（13 日）晚间公布了 三星 Galaxy Z Fold8 的可维修性评测报告，结果显示，超薄机身依然是以 牺牲可维修 性为代价实现的。 iFixit 给 Galaxy Z Fold8 打出了 4/10 的可维修性评分。 过于脆弱的内屏、复杂的铰链结构，以及实际防护能力有限的防尘等级 ，都是主要扣分项。 G…",
+          "time": "23:52",
+          "publishedAt": "2026-08-13T23:52:18.000Z",
+          "url": "https://www.androidcentral.com/phones/google-pixel/google-play-is-hiding-a-pixel-11-pro-discount-in-plain-sight",
+          "image": "https://cdn.mos.cms.futurecdn.net/TUecib8oncenTrUWjj5cgF-1280-80.jpg",
+          "verdict": "可略过",
+          "takeaway": "Pixel 有系统功能或 AI 体验更新，适合关注后续是否影响日常使用。",
+          "detail": "Pixel 11 Pro 系统功能 / AI 体验相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
+          "keyPoints": [
+            "评测"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是实际体验内容，买前适合重点看缺点和取舍。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        }
+      ]
+    },
+    {
+      "id": "market",
+      "title": "行业趋势",
+      "hint": "看方向，不急着当购买依据。",
+      "items": [
+        {
+          "id": "newsnow-c855a84b7c68",
+          "title": "真是 18 码了。麒麟 9000S 在鸿蒙 6.1 就吃上了沉浸光感，虽说是残血版。你拿着骁龙 8e同代的 天玑 9400+ 还好意思说“硬件性能限制”？#HyperOS4##HyperOS3# #REDMIK90至尊版#",
+          "originalTitle": "",
+          "source": "酷安热榜",
+          "brand": "Huawei",
+          "type": "爆料",
+          "trust": "高关注爆料源",
+          "date": "2026-08-14",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://www.coolapk.com/feed/73215442",
+          "image": "",
+          "verdict": "扫一眼",
+          "takeaway": "真是 18 码了。麒麟 9000S 在鸿蒙 6.1 就吃上了沉浸光感，虽说是残血版。你拿着骁龙 8e同代的 天玑 9400+ 还好意思说“硬件性能限制”？#HyperOS4##HyperOS3# #REDMIK90至尊版#",
+          "detail": "真是 18 码了。麒麟 9000S 在鸿蒙 6.1 就吃上了沉浸光感，虽说是残血版。你拿着骁龙 8e同代的 天玑 9400+ 还好意思说“硬件性能限制”？#HyperOS4##HyperOS3# #REDMIK90至尊版#",
           "keyPoints": [
             "爆料"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "中文源可以直接点开快读；看完只保留和购机有关的点。"
+          "impact": "影响性能和寿命判断，适合放进参数库。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         }
       ]
     }
