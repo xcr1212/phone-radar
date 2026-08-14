@@ -1,6 +1,146 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-08-14T15:06:08.793Z",
+  "updatedAt": "2026-08-14T17:10:07.370Z",
   "news": [
+    {
+      "id": "auto-a65e1a3d00a9",
+      "title": "Galaxy Z Fold 8 storage upgrades are a bit cheaper in the UK for a limited time",
+      "source": "SamMobile",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-14",
+      "time": "17:00",
+      "publishedAt": "2026-08-14T17:00:19.000Z",
+      "url": "https://www.sammobile.com/news/galaxy-z-fold-8-storage-upgrades-are-a-bit-cheaper-in-the-uk-for-a-limited-time/",
+      "image": "",
+      "summary": "Samsung typically offers free storage upgrades during the pre-order period for its new premium devices, but it didn't do that this time around for the Galaxy Z Fold 8 and the Gala…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-9d4aa9967e28",
+      "title": "Here are 4 ways to get your Google Pixel 11 Pro preorder for FREE — just follow these steps",
+      "source": "Android Central",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-08-14",
+      "time": "16:50",
+      "publishedAt": "2026-08-14T16:50:57.000Z",
+      "url": "https://www.androidcentral.com/phones/google-pixel/here-are-4-ways-to-get-your-google-pixel-11-pro-preorder-for-free-just-follow-these-steps",
+      "image": "https://cdn.mos.cms.futurecdn.net/szVyTdHT46kDfFJ64rRg37-1280-80.jpg",
+      "summary": "The Google Pixel 11 lineup has been revealed, and there are already a few preorder deals that could get you the Pixel 11 Pro for free.",
+      "tags": [
+        "Pixel",
+        "评测",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-f8cdeb0f5460",
+      "title": "Galaxy Z Fold 8 is crushing it in one of Apple’s top markets",
+      "source": "SamMobile",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-14",
+      "time": "16:16",
+      "publishedAt": "2026-08-14T16:16:05.000Z",
+      "url": "https://www.sammobile.com/news/galaxy-z-fold-8-is-crushing-it-in-one-of-apples-top-markets/",
+      "image": "",
+      "summary": "Japan is firmly Apple territory. They love their iPhones down there, and Samsung hasn't given them enough of a reason to switch. It appears that the tide might just be turning. Ne…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-b07855288e04",
+      "title": "Google Pixel 12: Everything we know so far",
+      "source": "Android Central",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-08-14",
+      "time": "15:48",
+      "publishedAt": "2026-08-14T15:48:18.000Z",
+      "url": "https://www.androidcentral.com/phones/google-pixel/google-pixel-12",
+      "image": "https://cdn.mos.cms.futurecdn.net/ZfYh9jeYCMJWwY6SWpYX8R-1280-80.jpg",
+      "summary": "In 2027, we're expecting four new Pixels, along with some important upgrades. Find out what the Pixel 12 series is shaping up to be!",
+      "tags": [
+        "Pixel",
+        "评测",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-010bf7b8599d",
+      "title": "Google Health 5.06 rolling out to control the Coach in Today tab",
+      "source": "9to5Google",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-14",
+      "time": "15:46",
+      "publishedAt": "2026-08-14T15:46:06.000Z",
+      "url": "https://9to5google.com/2026/08/14/google-health-5-06-release-notes/",
+      "image": "",
+      "summary": "Google Health 5.06 is rolling out on Android and iOS to let you control what Health Coach guidance appears in the Today tab.",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-5383665e86b1",
+      "title": "竹本青：【小米澎湃OS 4「柔光玻璃」材质适配名单公布：Beta期仅对部分机型适配，正式版将适配更多系列】 8月14日，小…",
+      "source": "竹本青",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-08-14",
+      "time": "15:40",
+      "publishedAt": "2026-08-14T15:40:41.000Z",
+      "url": "https://www.coolapk.com/feed/73247185",
+      "image": "http://image.coolapk.com/feed/2026/0814/23/4248714_de78264d_2040_2418_626@533x557.jpg",
+      "summary": "【小米澎湃OS 4「柔光玻璃」材质适配名单公布：Beta期仅对部分机型适配，正式版将适配更多系列】 8月14日，小米澎湃OS发布答网友问，针对「柔光玻璃」材质适配问题进行说明。 官方表示，澎湃OS 4 目前处于Beta测试阶段，显示效果与整机性能仍在调优。因此，仅对部分机型适配，后续将依据用户反馈迭代优化。 未来，澎湃OS 4 正式版面向存量机型推送后，以…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-f20a0cc6ee66",
+      "title": "Deals: Pixel 11 Pro XL extra $150 off + $200 credit, FREE Google Home Speaker offer, Legion Tab all-time low, more",
+      "source": "9to5Google",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-14",
+      "time": "15:21",
+      "publishedAt": "2026-08-14T15:21:29.000Z",
+      "url": "https://9to5google.com/2026/08/14/deals-pixel-11-free-google-home-speaker-legion-tab/",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/08/9to5Google-Aug-14-2.webp?w=1600",
+      "summary": "The Pixel 11, 11 Pro, 11 Pro XL, and 11 Pro Fold pre-order deals continue as we approach the weekend, but only can you score a Pixel 11 Pro XL using code PIXEL11 at checkout. This…",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-498f96585bd9",
       "title": "I miss when Pixel phones felt like experiments, not just premium slabs",
@@ -462,46 +602,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "coolapk-user-3078635f7f7e",
-      "title": "竹本青：【REDMI 回应 K100 Pro 独占「流萤追光」配色：玻璃材质后盖更适配】 8月14日，REDMI 手机发布…",
-      "source": "竹本青",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-08-14",
-      "time": "07:19",
-      "publishedAt": "2026-08-14T07:19:22.000Z",
-      "url": "https://www.coolapk.com/feed/73235741",
-      "image": "http://image.coolapk.com/feed/2026/0814/15/4248714_fcc5a54c_1960_7925_540@1400x724.jpg",
-      "summary": "【REDMI 回应 K100 Pro 独占「流萤追光」配色：玻璃材质后盖更适配】 8月14日，REDMI 手机发布答网友问，解释 K100 Pro 独占「流萤追光」配色原因： 综合呈现效果、透明度、光感、耐久性等考虑，采用玻璃材质背盖的 K100 Pro 会更加适合。至于采用了玻纤材质背盖的 K100 Pro Max，则准备了其他配色和设计方案。 #RED…",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
-      "id": "coolapk-user-fa669289a5b9",
-      "title": "竹本青：REDMI回应 K100 Pro系列 澎湃OS 4 Beta版本推送排期",
-      "source": "竹本青",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-08-14",
-      "time": "07:02",
-      "publishedAt": "2026-08-14T07:02:20.000Z",
-      "url": "https://www.coolapk.com/feed/73235045",
-      "image": "http://image.coolapk.com/feed/2026/0814/15/4248714_4ce09002_1329_979_66@2136x1834.jpg",
-      "summary": "【REDMI回应 K100 Pro系列 澎湃OS 4 Beta版本推送排期：首月优先保障用户稳定体验】 8月14日，REDMI发布“K100 Pro系列答网友问”，针对该系列机型的小米澎湃OS 4 Beta版本推送节奏作出解释。 官方表示，REDMI K100 Pro系列 虽然Beta版本安排在第三批开放，但会是澎湃OS 4 正式版的首批支持机型之一。 K…",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
       "id": "coolapk-user-103b41c98227",
       "title": "JSCHEN小小狐：骁龙 8E6 Pro 首个安兔兔跑分曝光：483万",
       "source": "JSCHEN小小狐",
@@ -639,6 +739,26 @@ window.phoneRadarAuto = {
         "iPhone",
         "官方",
         "自动抓取"
+      ]
+    },
+    {
+      "id": "newsnow-5b7bb7d29083",
+      "title": "对着别人手机念数字就可能背上贷款",
+      "source": "百度热搜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-14",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.baidu.com/s?wd=%E5%AF%B9%E7%9D%80%E5%88%AB%E4%BA%BA%E6%89%8B%E6%9C%BA%E5%BF%B5%E6%95%B0%E5%AD%97%E5%B0%B1%E5%8F%AF%E8%83%BD%E8%83%8C%E4%B8%8A%E8%B4%B7%E6%AC%BE",
+      "image": "",
+      "summary": "对着别人手机念数字就可能背上贷款",
+      "tags": [
+        "行业",
+        "爆料",
+        "NewsNow"
       ]
     },
     {
