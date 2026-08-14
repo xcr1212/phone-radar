@@ -1,6 +1,66 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-08-14T19:12:38.319Z",
+  "updatedAt": "2026-08-14T20:44:24.386Z",
   "news": [
+    {
+      "id": "auto-e921e67b6c2f",
+      "title": "iPhone 18 Pro Max vs Pro: Here’s how Apple will differentiate models",
+      "source": "9to5Mac",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-14",
+      "time": "19:35",
+      "publishedAt": "2026-08-14T19:35:33.000Z",
+      "url": "https://9to5mac.com/2026/08/14/iphone-18-pro-max-vs-pro-heres-how-apple-will-differentiate-models/",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/iphone-18-pro-mockup.jpg?quality=82&strip=all&w=1600",
+      "summary": "iPhone 18 Pro will be unveiled soon , and rumors indicate the Pro Max model could have unique advantages this year in a key area or two. Here’s what to expect.",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-4c4385ca3510",
+      "title": "Apple takes down billboard after accusations of normalizing ‘electronic babysitting’",
+      "source": "9to5Mac",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-14",
+      "time": "19:29",
+      "publishedAt": "2026-08-14T19:29:55.000Z",
+      "url": "https://9to5mac.com/2026/08/14/apple-takes-down-billboard-after-accusations-of-normalizing-electronic-babysitting/",
+      "image": "",
+      "summary": "Apple has replaced a billboard in Milan that showed a toddler holding an iPhone, as part of its newest “Relax, it’s iPhone” campaign. Here are the details.",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-0b0c5fd3c213",
+      "title": "Should You Buy an iPhone 17 Now or Wait for iPhone 18?",
+      "source": "MacRumors",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-14",
+      "time": "19:15",
+      "publishedAt": "2026-08-14T19:15:15.000Z",
+      "url": "https://www.macrumors.com/2026/08/14/iphone-17-vs-iphone-18-buying/",
+      "image": "",
+      "summary": "For the first time since Apple started selling standard and \"Pro\" iPhones, we're not going to get an entry-level iPhone model this fall. Apple doesn't plan to release an iPhone 18…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-94041d8dfbd7",
       "title": "Best Pixel 11 cases: Pixelsnap-ready, metal, protective, customizable, deals, more",
@@ -215,26 +275,6 @@ window.phoneRadarAuto = {
       "url": "https://9to5google.com/2026/08/14/deals-pixel-11-free-google-home-speaker-legion-tab/",
       "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/08/9to5Google-Aug-14-2.webp?w=1600",
       "summary": "The Pixel 11, 11 Pro, 11 Pro XL, and 11 Pro Fold pre-order deals continue as we approach the weekend, but only can you score a Pixel 11 Pro XL using code PIXEL11 at checkout. This…",
-      "tags": [
-        "Pixel",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-498f96585bd9",
-      "title": "I miss when Pixel phones felt like experiments, not just premium slabs",
-      "source": "Android Police",
-      "brand": "Pixel",
-      "model": "Pixel 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-14",
-      "time": "15:00",
-      "publishedAt": "2026-08-14T15:00:15.000Z",
-      "url": "https://www.androidpolice.com/miss-pixel-phones-experiments-not-premium-slabs/",
-      "image": "",
-      "summary": "The Pixel 11 proves Google finally built an iPhone killer. But in trading fun experiments for premium slabs, did it forget how to be Google?",
       "tags": [
         "Pixel",
         "爆料",

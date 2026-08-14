@@ -1,12 +1,12 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-08-14T19:12:38.319Z",
+  "updatedAt": "2026-08-14T20:44:24.386Z",
   "issueDate": "2026-08-14",
   "issue": "VOL.260814",
   "title": "手机情报日报",
-  "intro": "今日筛出 13 条重点，其中 8 条是重点爆料，包含 5 条 iPhone 相关、1 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 12 条重点，其中 8 条是重点爆料，包含 6 条 iPhone 相关、1 条官方确认、0 条参数线索。",
   "stats": {
-    "total": 13,
-    "iphone": 5,
+    "total": 12,
+    "iphone": 6,
     "leaks": 8,
     "official": 1,
     "specs": 0
@@ -18,24 +18,46 @@ window.phoneRadarDaily = {
       "hint": "机模、配色、影像、屏幕、电池和芯片线索先看。",
       "items": [
         {
-          "id": "auto-c314e18e9244",
+          "id": "auto-e921e67b6c2f",
           "title": "iPhone 相关消息",
+          "originalTitle": "",
+          "source": "9to5Mac",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-08-14",
+          "time": "19:35",
+          "publishedAt": "2026-08-14T19:35:33.000Z",
+          "url": "https://9to5mac.com/2026/08/14/iphone-18-pro-max-vs-pro-heres-how-apple-will-differentiate-models/",
+          "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/iphone-18-pro-mockup.jpg?quality=82&strip=all&w=1600",
+          "verdict": "先看",
+          "takeaway": "iPhone 相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
+          "detail": "iPhone 相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
+          "keyPoints": [
+            "爆料来源"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "auto-0b0c5fd3c213",
+          "title": "iPhone 17 系统功能 / AI 体验相关消息",
           "originalTitle": "",
           "source": "MacRumors",
           "brand": "iPhone",
           "type": "爆料",
           "trust": "媒体汇总",
-          "date": "2026-08-13",
-          "time": "23:58",
-          "publishedAt": "2026-08-13T23:58:50.000Z",
-          "url": "https://www.macrumors.com/2026/08/13/iphone-17-pro-one-year-later/",
+          "date": "2026-08-14",
+          "time": "19:15",
+          "publishedAt": "2026-08-14T19:15:15.000Z",
+          "url": "https://www.macrumors.com/2026/08/14/iphone-17-vs-iphone-18-buying/",
           "image": "",
           "verdict": "先看",
-          "takeaway": "iPhone 相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
-          "detail": "iPhone 相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
+          "takeaway": "iPhone 有系统功能或 AI 体验更新，适合关注后续是否影响日常使用。",
+          "detail": "iPhone 17 系统功能 / AI 体验相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
           "keyPoints": [
-            "影像硬件",
-            "爆料来源"
+            "爆料"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
@@ -182,29 +204,6 @@ window.phoneRadarDaily = {
           "confidence": "可信度较高，但仍属于发布前线索。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "auto-1941fc74c9ea",
-          "title": "课间休息也不行：捷克计划禁止学生在学校使用智能手机",
-          "originalTitle": "",
-          "source": "IT之家",
-          "brand": "行业",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-08-14",
-          "time": "09:30",
-          "publishedAt": "2026-08-14T09:30:30.000Z",
-          "url": "https://www.ithome.com/0/989/811.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/8/8bf589f2-7f86-4d4c-81f0-52b49ff5c15e.jpg?x-bce-process=image/format,f_auto",
-          "verdict": "先看",
-          "takeaway": "IT之家 8 月 14 日消息，据外媒 Golem 今天报道，捷克教育部长 罗伯特 · 普拉加 （Robert Plaga）计划出台校园智能手机禁令，影响所有九年义务教育学校及 6-15 岁的学生。 如果该计划最终落地，捷克的学生们将不能在课堂内使用智能手机，课间休息、校园内其他区域同样也禁止使用。 IT之家从原报道获悉， 目前超 90% 的捷克学校已通过…",
-          "detail": "IT之家 8 月 14 日消息，据外媒 Golem 今天报道，捷克教育部长 罗伯特 · 普拉加 （Robert Plaga）计划出台校园智能手机禁令，影响所有九年义务教育学校及 6-15 岁的学生。 如果该计划最终落地，捷克的学生们将不能在课堂内使用智能手机，课间休息、校园内其他区域同样也禁止使用。 IT之家从原报道获悉， 目前超 90% 的捷克学校已通过…",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         }
       ]
     },
@@ -311,29 +310,6 @@ window.phoneRadarDaily = {
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是实际体验内容，买前适合重点看缺点和取舍。",
           "action": "中文源可以直接点开快读；看完只保留和购机有关的点。"
-        },
-        {
-          "id": "coolapk-user-5383665e86b1",
-          "title": "竹本青：【小米澎湃OS 4「柔光玻璃」材质适配名单公布：Beta期仅对部分机型适配，正式版将适配更多系列】 8月14日，小…",
-          "originalTitle": "",
-          "source": "竹本青",
-          "brand": "Xiaomi",
-          "type": "爆料",
-          "trust": "高可信爆料",
-          "date": "2026-08-14",
-          "time": "15:40",
-          "publishedAt": "2026-08-14T15:40:41.000Z",
-          "url": "https://www.coolapk.com/feed/73247185",
-          "image": "http://image.coolapk.com/feed/2026/0814/23/4248714_de78264d_2040_2418_626@533x557.jpg",
-          "verdict": "扫一眼",
-          "takeaway": "【小米澎湃OS 4「柔光玻璃」材质适配名单公布：Beta期仅对部分机型适配，正式版将适配更多系列】 8月14日，小米澎湃OS发布答网友问，针对「柔光玻璃」材质适配问题进行说明。 官方表示，澎湃OS 4 目前处于Beta测试阶段，显示效果与整机性能仍在调优。因此，仅对部分机型适配，后续将依据用户反馈迭代优化。 未来，澎湃OS 4 正式版面向存量机型推送后，以…",
-          "detail": "【小米澎湃OS 4「柔光玻璃」材质适配名单公布：Beta期仅对部分机型适配，正式版将适配更多系列】 8月14日，小米澎湃OS发布答网友问，针对「柔光玻璃」材质适配问题进行说明。 官方表示，澎湃OS 4 目前处于Beta测试阶段，显示效果与整机性能仍在调优。因此，仅对部分机型适配，后续将依据用户反馈迭代优化。 未来，澎湃OS 4 正式版面向存量机型推送后，以…",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "可信度较高，但仍属于发布前线索。",
-          "impact": "影响性能和寿命判断，适合放进参数库。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         }
       ]
     }
