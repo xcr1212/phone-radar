@@ -1,14 +1,14 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-08-14T02:44:52.871Z",
+  "updatedAt": "2026-08-14T05:45:16.897Z",
   "issueDate": "2026-08-14",
   "issue": "VOL.260814",
   "title": "手机情报日报",
-  "intro": "今日筛出 16 条重点，其中 8 条是重点爆料，包含 5 条 iPhone 相关、2 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 9 条重点，其中 8 条是重点爆料，包含 6 条 iPhone 相关、0 条官方确认、0 条参数线索。",
   "stats": {
-    "total": 16,
-    "iphone": 5,
+    "total": 9,
+    "iphone": 6,
     "leaks": 8,
-    "official": 2,
+    "official": 0,
     "specs": 0
   },
   "sections": [
@@ -17,6 +17,52 @@ window.phoneRadarDaily = {
       "title": "重点爆料",
       "hint": "机模、配色、影像、屏幕、电池和芯片线索先看。",
       "items": [
+        {
+          "id": "auto-fa27edd48c20",
+          "title": "豆包输入法 iOS 版 1.5.0 新增账号登录，词库定时云端同步",
+          "originalTitle": "",
+          "source": "IT之家",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-08-14",
+          "time": "03:43",
+          "publishedAt": "2026-08-14T03:43:11.000Z",
+          "url": "https://www.ithome.com/0/989/648.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/8/384073f5-5546-4976-891b-c8b9d0326ba6.jpg?x-bce-process=image/format,f_auto",
+          "verdict": "先看",
+          "takeaway": "IT之家 8 月 14 日消息，豆包输入法 iOS 版 8 月 13 日正式推送 1.5.0 版本升级，IT之家附更新内容如下： 新增账号登录，词库定时云端同步，换设备也不丢数据 优化语音输入的跳转异常的问题。 豆包输入法 iOS 版于去年 11 月登录苹果 iOS 平台， 支持豆包同款语音输入 。IT之家附官方功能说明： 语音输入：使用豆包同款语音大模型…",
+          "detail": "IT之家 8 月 14 日消息，豆包输入法 iOS 版 8 月 13 日正式推送 1.5.0 版本升级，IT之家附更新内容如下： 新增账号登录，词库定时云端同步，换设备也不丢数据 优化语音输入的跳转异常的问题。 豆包输入法 iOS 版于去年 11 月登录苹果 iOS 平台， 支持豆包同款语音输入 。IT之家附官方功能说明： 语音输入：使用豆包同款语音大模型…",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "newsnow-7b316938f5dd",
+          "title": "首款折叠iPhone",
+          "originalTitle": "",
+          "source": "微博热搜",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "待验证",
+          "date": "2026-08-14",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://s.weibo.com/weibo?q=%E9%A6%96%E6%AC%BE%E6%8A%98%E5%8F%A0iPhone&t=31&band_rank=19&Refer=top",
+          "image": "",
+          "verdict": "先看",
+          "takeaway": "首款折叠iPhone",
+          "detail": "首款折叠iPhone",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
         {
           "id": "auto-c314e18e9244",
           "title": "iPhone 相关消息",
@@ -112,6 +158,30 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
+          "id": "weibo-ad69fe29f517",
+          "title": "数码闲聊站：今年节奏都很快，耀子9月底上Magic9系列，10月预计会上WIN2系列，首批…",
+          "originalTitle": "",
+          "source": "数码闲聊站",
+          "brand": "HONOR",
+          "type": "爆料",
+          "trust": "高关注爆料源",
+          "date": "2026-08-14",
+          "time": "04:38",
+          "publishedAt": "2026-08-14T04:38:00.000Z",
+          "url": "https://weibo.com/6048569942/Rdl76k1Rp",
+          "image": "",
+          "verdict": "先看",
+          "takeaway": "今年节奏都很快，耀子9月底上Magic9系列，10月预计会上WIN2系列，首批上线SM8975； 另外争取年前的中端线还有700系列、X系列、Power新机，万级大电池刷新高，选择很多[二哈]",
+          "detail": "今年节奏都很快，耀子9月底上Magic9系列，10月预计会上WIN2系列，首批上线SM8975； 另外争取年前的中端线还有700系列、X系列、Power新机，万级大电池刷新高，选择很多[二哈]",
+          "keyPoints": [
+            "电池 / 充电",
+            "爆料来源"
+          ],
+          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
           "id": "weibo-93a71a5bc4e7",
           "title": "数码闲聊站：独家信息：子系骁龙8E6 Pro/SM8975新机，6.85\"2K+165Hz…",
           "originalTitle": "",
@@ -132,80 +202,6 @@ window.phoneRadarDaily = {
             "爆料来源"
           ],
           "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "weibo-c432e961ce56",
-          "title": "数码闲聊站：荣耀Magic9系列定档9月28日，200Mp 1/1.28\"超大底主摄，F1…",
-          "originalTitle": "",
-          "source": "数码闲聊站",
-          "brand": "HONOR",
-          "type": "爆料",
-          "trust": "高关注爆料源",
-          "date": "2026-08-13",
-          "time": "00:47",
-          "publishedAt": "2026-08-13T00:47:00.000Z",
-          "url": "https://weibo.com/6048569942/RdaaQgaKN",
-          "image": "https://tvax3.sinaimg.cn/mw2000/006BlblIgy1ig1ahkspqbj30xu0u7tkl.jpg",
-          "verdict": "先看",
-          "takeaway": "荣耀Magic9系列定档9月28日，200Mp 1/1.28\"超大底主摄，F1.57大光圈，支持3°OIS光学防抖；200Mp 1/1.4\"常规大底潜望长焦，F2.6光圈，阿莱影像。又被我猜中了，首批骁龙2nm旗舰芯，期待吗？[二哈]",
-          "detail": "荣耀Magic9系列定档9月28日，200Mp 1/1.28\"超大底主摄，F1.57大光圈，支持3°OIS光学防抖；200Mp 1/1.4\"常规大底潜望长焦，F2.6光圈，阿莱影像。又被我猜中了，首批骁龙2nm旗舰芯，期待吗？[二哈]",
-          "keyPoints": [
-            "影像硬件",
-            "爆料来源"
-          ],
-          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "coolapk-user-83611a7ea57d",
-          "title": "竹本青：【vivo S50t 元气版上架：骁龙8s Gen3处理器，1.5K中直屏，限时售价2999元起】 12GB+25…",
-          "originalTitle": "",
-          "source": "竹本青",
-          "brand": "vivo",
-          "type": "爆料",
-          "trust": "高可信爆料",
-          "date": "2026-08-13",
-          "time": "18:19",
-          "publishedAt": "2026-08-13T18:19:50.000Z",
-          "url": "https://www.coolapk.com/feed/73227883",
-          "image": "http://image.coolapk.com/feed/2026/0814/02/4248714_179b7a26_5182_5732_754@1270x952.jpg",
-          "verdict": "先看",
-          "takeaway": "【vivo S50t 元气版上架：骁龙8s Gen3处理器，1.5K中直屏，限时售价2999元起】 12GB+256GB —— 2999元（原价3299元） 12GB+512GB —— 3299元（原价3599元） ▫️6.59英寸1.5K 120Hz直屏 ▫️骁龙8s Gen3处理器 ▫️LPDDR5+UFS3.1 ▫️6500mAh电池+90W快充 前…",
-          "detail": "【vivo S50t 元气版上架：骁龙8s Gen3处理器，1.5K中直屏，限时售价2999元起】 12GB+256GB —— 2999元（原价3299元） 12GB+512GB —— 3299元（原价3599元） ▫️6.59英寸1.5K 120Hz直屏 ▫️骁龙8s Gen3处理器 ▫️LPDDR5+UFS3.1 ▫️6500mAh电池+90W快充 前…",
-          "keyPoints": [
-            "屏幕形态",
-            "电池 / 充电",
-            "芯片 / 性能",
-            "成本 / 价格"
-          ],
-          "confidence": "可信度较高，但仍属于发布前线索。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "coolapk-user-a28024b8b67a",
-          "title": "JSCHEN小小狐：iQOO Neo11 至尊版预热汇总：天玑 9500M",
-          "originalTitle": "",
-          "source": "JSCHEN小小狐",
-          "brand": "vivo",
-          "type": "爆料",
-          "trust": "高可信爆料",
-          "date": "2026-08-13",
-          "time": "09:22",
-          "publishedAt": "2026-08-13T09:22:54.000Z",
-          "url": "https://www.coolapk.com/feed/73219812",
-          "image": "http://image.coolapk.com/feed/2026/0813/17/4702274_ef2f1f71_2971_3286_953@1500x3934.jpg",
-          "verdict": "先看",
-          "takeaway": "『iQOO Neo11 至尊版预热汇总：天玑 9500M』 ◇ 天玑 9500M 平台（GPU 12 核 → 11 核） ◇ Monster 超核引擎｜8K 冰穹 3D VC 散热 ◇ 自研电竞芯片 Q2｜寰宇电竞 Wi-Fi 三芯片 ◇ 超感触控芯片：多指 500Hz / 瞬时 4000Hz ◇ 6.83 英寸 2K OLED 直屏（维信诺 F2） ◇…",
-          "detail": "『iQOO Neo11 至尊版预热汇总：天玑 9500M』 ◇ 天玑 9500M 平台（GPU 12 核 → 11 核） ◇ Monster 超核引擎｜8K 冰穹 3D VC 散热 ◇ 自研电竞芯片 Q2｜寰宇电竞 Wi-Fi 三芯片 ◇ 超感触控芯片：多指 500Hz / 瞬时 4000Hz ◇ 6.83 英寸 2K OLED 直屏（维信诺 F2） ◇…",
-          "keyPoints": [
-            "屏幕形态",
-            "芯片 / 性能"
-          ],
-          "confidence": "可信度较高，但仍属于发布前线索。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         }
@@ -238,188 +234,6 @@ window.phoneRadarDaily = {
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
           "action": "中文源可以直接点开快读；看完只保留和购机有关的点。"
-        },
-        {
-          "id": "newsnow-57d56850e7d6",
-          "title": "iPhoneUltra或优先供应美国市场",
-          "originalTitle": "",
-          "source": "微博热搜",
-          "brand": "iPhone",
-          "type": "爆料",
-          "trust": "待验证",
-          "date": "2026-08-14",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://s.weibo.com/weibo?q=%23iPhoneUltra%E6%88%96%E4%BC%98%E5%85%88%E4%BE%9B%E5%BA%94%E7%BE%8E%E5%9B%BD%E5%B8%82%E5%9C%BA%23&t=31&band_rank=19&Refer=top",
-          "image": "",
-          "verdict": "扫一眼",
-          "takeaway": "iPhoneUltra或优先供应美国市场",
-          "detail": "iPhoneUltra或优先供应美国市场",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        }
-      ]
-    },
-    {
-      "id": "launch",
-      "title": "新机与官方发布",
-      "hint": "能直接更新到参数库。",
-      "items": [
-        {
-          "id": "auto-ac3bee5d7df1",
-          "title": "派早报：荣耀发布 Robot Phone、Google 推出 Pixel 11 系列等",
-          "originalTitle": "",
-          "source": "少数派",
-          "brand": "HONOR",
-          "type": "评测",
-          "trust": "媒体汇总",
-          "date": "2026-08-13",
-          "time": "00:14",
-          "publishedAt": "2026-08-13T00:14:09.000Z",
-          "url": "https://sspai.com/post/113385",
-          "image": "",
-          "verdict": "先看",
-          "takeaway": "影石发布 Insta360 X6、SpaceXAI 推出 Grok Bot 等。",
-          "detail": "影石发布 Insta360 X6、SpaceXAI 推出 Grok Bot 等。",
-          "keyPoints": [
-            "评测"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是实际体验内容，买前适合重点看缺点和取舍。",
-          "action": "中文源可以直接点开快读；看完只保留和购机有关的点。"
-        },
-        {
-          "id": "auto-b8cd47ce0d60",
-          "title": "Pixel 11 Pro 功能更新或覆盖范围扩大",
-          "originalTitle": "",
-          "source": "Google Blog",
-          "brand": "Pixel",
-          "type": "官方",
-          "trust": "官方确认",
-          "date": "2026-08-13",
-          "time": "16:00",
-          "publishedAt": "2026-08-13T16:00:00.000Z",
-          "url": "https://blog.google/products-and-platforms/devices/pixel/pixel-11-pro-hilight/",
-          "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/KW_G_HiLite.max-600x600.format-webp.webp",
-          "verdict": "扫一眼",
-          "takeaway": "Pixel 11 Pro 功能更新或覆盖范围扩大。已转成中文摘要展示，详细内容可打开原文核对。",
-          "detail": "Pixel 11 Pro 功能更新或覆盖范围扩大。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
-          "keyPoints": [
-            "官方"
-          ],
-          "confidence": "官方内容，可直接作为已确认信息记录。",
-          "impact": "可信度高，但如果不是配置/价格消息，只需要扫一眼。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
-        {
-          "id": "auto-7a6f8a0e8ced",
-          "title": "HONOR 相关消息",
-          "originalTitle": "",
-          "source": "Google Blog",
-          "brand": "HONOR",
-          "type": "官方",
-          "trust": "官方确认",
-          "date": "2026-08-13",
-          "time": "16:00",
-          "publishedAt": "2026-08-13T16:00:00.000Z",
-          "url": "https://blog.google/products-and-platforms/devices/pixel/pixel-11-magic-capture/",
-          "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/MagicCapture.max-600x600.format-webp.webp",
-          "verdict": "扫一眼",
-          "takeaway": "HONOR 相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
-          "detail": "HONOR 相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
-          "keyPoints": [
-            "官方"
-          ],
-          "confidence": "官方内容，可直接作为已确认信息记录。",
-          "impact": "可信度高，但如果不是配置/价格消息，只需要扫一眼。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
-        {
-          "id": "coolapk-user-1b74b8fe652b",
-          "title": "JSCHEN小小狐：谷歌 Pixel 11 系列硬件变化汇总",
-          "originalTitle": "",
-          "source": "JSCHEN小小狐",
-          "brand": "Pixel",
-          "type": "爆料",
-          "trust": "高可信爆料",
-          "date": "2026-08-13",
-          "time": "07:43",
-          "publishedAt": "2026-08-13T07:43:02.000Z",
-          "url": "https://www.coolapk.com/feed/73217976",
-          "image": "http://image.coolapk.com/feed_cover/2026/0813/15/4702274_0f5549aa_6792_0132_506@1600x720.jpg",
-          "verdict": "扫一眼",
-          "takeaway": "前言：8 月 12 日，谷歌通过 “Made by Google” 发布会，带来了全新的 Pixel 11、Pixel 11 Pro、Pixel 11 Pro XL 及 Pixel 11 Pro Fold 四款机型。除了统一搭载新一代 Tensor G6 和 Titan M3 外，它们在硬件选型上也较前代作出了一些区别。 谷歌 Pixel 11 Pro F…",
-          "detail": "前言：8 月 12 日，谷歌通过 “Made by Google” 发布会，带来了全新的 Pixel 11、Pixel 11 Pro、Pixel 11 Pro XL 及 Pixel 11 Pro Fold 四款机型。除了统一搭载新一代 Tensor G6 和 Titan M3 外，它们在硬件选型上也较前代作出了一些区别。 谷歌 Pixel 11 Pro F…",
-          "keyPoints": [
-            "芯片 / 性能"
-          ],
-          "confidence": "可信度较高，但仍属于发布前线索。",
-          "impact": "影响性能和寿命判断，适合放进参数库。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        }
-      ]
-    },
-    {
-      "id": "review",
-      "title": "评测与体验",
-      "hint": "买前再细看，平时扫一眼即可。",
-      "items": [
-        {
-          "id": "auto-663d86e148a9",
-          "title": "Pixel 11 Pro 系统功能 / AI 体验相关消息",
-          "originalTitle": "",
-          "source": "Android Central",
-          "brand": "Pixel",
-          "type": "评测",
-          "trust": "媒体汇总",
-          "date": "2026-08-13",
-          "time": "23:52",
-          "publishedAt": "2026-08-13T23:52:18.000Z",
-          "url": "https://www.androidcentral.com/phones/google-pixel/google-play-is-hiding-a-pixel-11-pro-discount-in-plain-sight",
-          "image": "https://cdn.mos.cms.futurecdn.net/TUecib8oncenTrUWjj5cgF-1280-80.jpg",
-          "verdict": "可略过",
-          "takeaway": "Pixel 有系统功能或 AI 体验更新，适合关注后续是否影响日常使用。",
-          "detail": "Pixel 11 Pro 系统功能 / AI 体验相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
-          "keyPoints": [
-            "评测"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是实际体验内容，买前适合重点看缺点和取舍。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        }
-      ]
-    },
-    {
-      "id": "market",
-      "title": "行业趋势",
-      "hint": "看方向，不急着当购买依据。",
-      "items": [
-        {
-          "id": "newsnow-c855a84b7c68",
-          "title": "真是 18 码了。麒麟 9000S 在鸿蒙 6.1 就吃上了沉浸光感，虽说是残血版。你拿着骁龙 8e同代的 天玑 9400+ 还好意思说“硬件性能限制”？#HyperOS4##HyperOS3# #REDMIK90至尊版#",
-          "originalTitle": "",
-          "source": "酷安热榜",
-          "brand": "Huawei",
-          "type": "爆料",
-          "trust": "高关注爆料源",
-          "date": "2026-08-14",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://www.coolapk.com/feed/73215442",
-          "image": "",
-          "verdict": "扫一眼",
-          "takeaway": "真是 18 码了。麒麟 9000S 在鸿蒙 6.1 就吃上了沉浸光感，虽说是残血版。你拿着骁龙 8e同代的 天玑 9400+ 还好意思说“硬件性能限制”？#HyperOS4##HyperOS3# #REDMIK90至尊版#",
-          "detail": "真是 18 码了。麒麟 9000S 在鸿蒙 6.1 就吃上了沉浸光感，虽说是残血版。你拿着骁龙 8e同代的 天玑 9400+ 还好意思说“硬件性能限制”？#HyperOS4##HyperOS3# #REDMIK90至尊版#",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "影响性能和寿命判断，适合放进参数库。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         }
       ]
     }

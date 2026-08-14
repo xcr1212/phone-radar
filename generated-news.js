@@ -1,6 +1,266 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-08-14T02:44:52.871Z",
+  "updatedAt": "2026-08-14T05:45:16.897Z",
   "news": [
+    {
+      "id": "coolapk-user-f40021e9e48f",
+      "title": "竹本青：【网传骁龙8 Elite Gen6 Pro跑分曝光，安兔兔称成绩真实性存疑】 8月14日，博主数码闲聊站放出SM8…",
+      "source": "竹本青",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-08-14",
+      "time": "05:35",
+      "publishedAt": "2026-08-14T05:35:29.000Z",
+      "url": "https://www.coolapk.com/feed/73233395",
+      "image": "http://image.coolapk.com/feed/2026/0814/13/4248714_d493b4e3_5727_7907_192@1440x1217.jpg",
+      "summary": "【网传骁龙8 Elite Gen6 Pro跑分曝光，安兔兔称成绩真实性存疑】 8月14日，博主数码闲聊站放出SM8975（骁龙8 Elite Gen6 Pro）安兔兔V11.1.4 跑分截图。 截图显示，整机综合跑分4835412分；CPU得分1368930分；GPU得分1854826分；GPU标识为Adreno 850。 但随后，安兔兔官方账号在该帖下留…",
+      "tags": [
+        "行业",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "coolapk-user-f65ffe2acb6c",
+      "title": "竹本青：【2026年第32周 国内手机市场份额曝光：华为保持榜首，大盘下降约5%】 ● 2026 W32 —— 大盘下降约…",
+      "source": "竹本青",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-08-14",
+      "time": "05:31",
+      "publishedAt": "2026-08-14T05:31:56.000Z",
+      "url": "https://www.coolapk.com/feed/73233343",
+      "image": "http://image.coolapk.com/feed/2026/0814/13/4248714_0d55ee9e_5515_9412_405@1439x1030.jpg",
+      "summary": "【2026年第32周 国内手机市场份额曝光：华为保持榜首，大盘下降约5%】 ● 2026 W32 —— 大盘下降约5% 1.华为 —— 20.6% 2.OPPO —— 17.2%（含一加 3.1%，realme 0.6%） 3.vivo —— 16.0%（含iQOO 4.1%） 4.小米 —— 14.3% 5.荣耀 —— 13.8% 6.苹果 —— 13.…",
+      "tags": [
+        "HONOR",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "coolapk-user-6af77b263eaf",
+      "title": "竹本青：【魅族手机官宣不涨价：在售机型维持原价销售】 魅族手机今天发布公告称，近期，内存芯片价格持续上涨，行业内多款机型已…",
+      "source": "竹本青",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-08-14",
+      "time": "05:22",
+      "publishedAt": "2026-08-14T05:22:25.000Z",
+      "url": "https://www.coolapk.com/feed/73233217",
+      "image": "http://image.coolapk.com/feed/2026/0814/13/4248714_d95eb441_4942_845_313@960x1280.jpg",
+      "summary": "【魅族手机官宣不涨价：在售机型维持原价销售】 魅族手机今天发布公告称，近期，内存芯片价格持续上涨，行业内多款机型已调整售价。魅族将继续坚持在售机型诚意不涨价：魅族 Note16 、 魅族 22 、魅族 22 归航限定版维持原价销售，且可叠加国家购机补贴。 魅族 Note16 8GB+128GB —— 799元 8GB+256GB —— 999元 12GB+…",
+      "tags": [
+        "行业",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-d58c383b43de",
+      "title": "微软品牌 Windows Phone 手机工程机上手视频曝光",
+      "source": "IT之家",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-14",
+      "time": "05:09",
+      "publishedAt": "2026-08-14T05:09:29.000Z",
+      "url": "https://www.ithome.com/0/989/681.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/8/75c1e9a8-ae56-4096-9a80-7e7764263989.jpg?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 8 月 14 日消息，科技媒体 Windows Central 在昨日的播客节目中， 分享了一段上手视频，进一步展示了微软品牌 WP 手机工程机。 IT之家此前报道， 该手机代号可能是 Raven ，开发时间大约在 2013 年-2014 年，采用银色金属边框、背面印有微软 Logo，搭载未知型号的高通处理器，拥有 720P 屏幕。 消息源 gu…",
+      "tags": [
+        "行业",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-fa3744d1d6dd",
+      "title": "高通骁龙 8 Elite Gen6 Pro（SM8975）跑分曝光，消息称今年 2nm 旗舰芯门槛 500 万分",
+      "source": "IT之家",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-14",
+      "time": "04:57",
+      "publishedAt": "2026-08-14T04:57:27.000Z",
+      "url": "https://www.ithome.com/0/989/678.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/8/103fabf4-253f-4260-98d5-e70bbbbb1fbe.png",
+      "summary": "IT之家 8 月 14 日消息，博主 @数码闲聊站 今日晒出了一张 SM8975 的安兔兔跑分截图，总分超 483 万分。 该博主表示： 安兔兔 500 万会是今年 2nm 旗舰芯的门槛 ，坐等首批量产新机登场了。 IT之家综合以往爆料，SM8975 预计是指 高通骁龙 8 Elite Gen6 Pro ，其 CPU 架构采用 2+3+3 设计：包含两颗超…",
+      "tags": [
+        "行业",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-103b41c98227",
+      "title": "JSCHEN小小狐：『骁龙 8E6 Pro 首个安兔兔跑分曝光：483 万』 型号：SM8975 安兔兔 V11.1.4 综合成绩：4…",
+      "source": "JSCHEN小小狐",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-08-14",
+      "time": "04:49",
+      "publishedAt": "2026-08-14T04:49:56.000Z",
+      "url": "https://www.coolapk.com/feed/73232763",
+      "image": "http://image.coolapk.com/feed/2026/0814/12/4702274_2833e7ba_2994_7725_326@914x1721.jpg",
+      "summary": "『骁龙 8E6 Pro 首个安兔兔跑分曝光：483 万』 型号：SM8975 安兔兔 V11.1.4 综合成绩：4,835,412 分 ◇ CPU 总分：1,368,930 分 ◇ GPU 总分：1,854,826 分 骁龙 8 Elite Gen6 Pro 已知规格： ◇ 2+3+3 新一代 Oryon CPU，16MB 共享 L2 ◇ Adreno 8…",
+      "tags": [
+        "行业",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-ec772dbc21bc",
+      "title": "追觅卖出首台超 3 万美元 AURORA 手机：编号 001，带有俞浩签名",
+      "source": "IT之家",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-14",
+      "time": "04:49",
+      "publishedAt": "2026-08-14T04:49:41.000Z",
+      "url": "https://www.ithome.com/0/989/677.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/8/3f4bf2ad-3a3c-4be1-8814-8556a1123a6f.png?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 8 月 14 日消息，综合蓝鲸新闻、红星资本局今日报道，追觅手机负责人 8 月 13 日在朋友圈透露，公司已正式交付 001 号 AURORA 手机。 据其透露，3 万美元 （IT之家注：现汇率约合 20.3 万元人民币） 交易款项已全部到账， 其中首付款 1 万美元，尾款 21,184 美元 。其称，这是“中国智能手机历史上迄今为止卖出去单台售…",
+      "tags": [
+        "行业",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "weibo-ad69fe29f517",
+      "title": "数码闲聊站：今年节奏都很快，耀子9月底上Magic9系列，10月预计会上WIN2系列，首批…",
+      "source": "数码闲聊站",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-08-14",
+      "time": "04:38",
+      "publishedAt": "2026-08-14T04:38:00.000Z",
+      "url": "https://weibo.com/6048569942/Rdl76k1Rp",
+      "image": "",
+      "summary": "今年节奏都很快，耀子9月底上Magic9系列，10月预计会上WIN2系列，首批上线SM8975； 另外争取年前的中端线还有700系列、X系列、Power新机，万级大电池刷新高，选择很多[二哈]",
+      "tags": [
+        "HONOR",
+        "爆料",
+        "微博"
+      ]
+    },
+    {
+      "id": "auto-40de2b5cc962",
+      "title": "Another Galaxy S25+ caught fire while charging; Samsung denies compensation blaming customer negligence",
+      "source": "Gizmochina",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-14",
+      "time": "04:37",
+      "publishedAt": "2026-08-14T04:37:03.000Z",
+      "url": "https://www.gizmochina.com/2026/08/14/another-galaxy-s25-exploded-while-charging-samsung-denies-compensation-blaming-customer-negligence/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/08/Samsung-Galaxy-S25-Plus-explode-image-1024x576-1-300x169.jpg?x23692",
+      "summary": "A routine late-night charge turned scary for a family in Qingdao, China, when their Samsung Galaxy S25+ suddenly popped, started smoking, and caught fire. What should have been a…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-7af6e3c5afb6",
+      "title": "iQOO 16 to bring 2K 165Hz screen, Snapdragon 8 Elite Gen 6 Pro, new rear design",
+      "source": "Gizmochina",
+      "brand": "vivo",
+      "model": "vivo 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-14",
+      "time": "04:04",
+      "publishedAt": "2026-08-14T04:04:59.000Z",
+      "url": "https://www.gizmochina.com/2026/08/14/iqoo-16-165hz-2k-display-snapdragon-8-elite-gen-6-pro-new-design/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2025/12/iQOO-15-halo-300x225.jpg?x23692",
+      "summary": "It was reported yesterday that the iQOO 16 has bagged 3C certification in China, indicating that it may launch by the end of September or by early October in China. As per a new l…",
+      "tags": [
+        "vivo",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-fa27edd48c20",
+      "title": "豆包输入法 iOS 版 1.5.0 新增账号登录，词库定时云端同步",
+      "source": "IT之家",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-14",
+      "time": "03:43",
+      "publishedAt": "2026-08-14T03:43:11.000Z",
+      "url": "https://www.ithome.com/0/989/648.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/8/384073f5-5546-4976-891b-c8b9d0326ba6.jpg?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 8 月 14 日消息，豆包输入法 iOS 版 8 月 13 日正式推送 1.5.0 版本升级，IT之家附更新内容如下： 新增账号登录，词库定时云端同步，换设备也不丢数据 优化语音输入的跳转异常的问题。 豆包输入法 iOS 版于去年 11 月登录苹果 iOS 平台， 支持豆包同款语音输入 。IT之家附官方功能说明： 语音输入：使用豆包同款语音大模型…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-3ebf427e2bca",
+      "title": "新型恶意安卓攻击曝光：盗刷信用卡、以受害者名义贷款",
+      "source": "IT之家",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-14",
+      "time": "03:32",
+      "publishedAt": "2026-08-14T03:32:33.000Z",
+      "url": "https://www.ithome.com/0/989/621.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/8/8695332a-1749-4e34-a2b0-f4758e40ee1e.png?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 8 月 14 日消息，网络安全公司 Group-IB 最新披露一起真实的安卓恶意软件攻击事件， 攻击者通过恶意安卓软件组合，盗用受害者信用卡并以受害者名义贷款。 在本次事件中，攻击者首先冒充银行员工，以支付卡出现问题为由致电受害者，并在通话中诱导其安装恶意软件。 攻击者要求受害者在安卓手机上安装伪装成正规应用的 SpyNote RAT，随后取得…",
+      "tags": [
+        "行业",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "weibo-c36e2c652fdd",
+      "title": "数码闲聊站：一张SM8975安兔兔跑分，大家觉得2nm芯片这个性能表现怎么样？安兔兔500…",
+      "source": "数码闲聊站",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-08-14",
+      "time": "03:05",
+      "publishedAt": "2026-08-14T03:05:00.000Z",
+      "url": "https://weibo.com/6048569942/Rdkvm08AI",
+      "image": "https://tvax3.sinaimg.cn/mw2000/006BlblIgy1ig2x6r4seuj30pe1btwxn.jpg",
+      "summary": "一张SM8975安兔兔跑分，大家觉得2nm芯片这个性能表现怎么样？安兔兔500万会是今年2nm旗舰芯的门槛，坐等首批量产新机登场了[doge]",
+      "tags": [
+        "行业",
+        "爆料",
+        "微博"
+      ]
+    },
     {
       "id": "auto-55e5a3ebbb69",
       "title": "Omdia：苹果 iPhone 用户在微短剧上的消费比安卓用户高出 40%",
@@ -59,26 +319,6 @@ window.phoneRadarAuto = {
         "Samsung",
         "爆料",
         "自动抓取"
-      ]
-    },
-    {
-      "id": "coolapk-user-d4404f9f82e8",
-      "title": "竹本青：【消息称iQOO 16将搭载165Hz 三星大直屏】 ▫️骁龙8 Elite Gen6 Pro+独显芯 ▫️6.8…",
-      "source": "竹本青",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-08-14",
-      "time": "01:51",
-      "publishedAt": "2026-08-14T01:51:54.000Z",
-      "url": "https://www.coolapk.com/feed/73230095",
-      "image": "http://image.coolapk.com/feed/2026/0814/09/4248714_9d4ac010_2312_6485_491@1272x327.jpg",
-      "summary": "【消息称iQOO 16将搭载165Hz 三星大直屏】 ▫️骁龙8 Elite Gen6 Pro+独显芯 ▫️6.85\"2K 165Hz新一代三星直屏 ▫️出厂自带抗反AR膜 ▫️50Mp OV50Q 1/1.3\"主摄 ▫️50Mp 中底潜望镜 ▫️50Mp 凑数超广角 ▫️vivo下放算法+风格化影调 ▫️双1115系扬声器｜0916系马达 ▫️超声波指纹…",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "酷安博主"
       ]
     },
     {
@@ -142,8 +382,8 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-57d56850e7d6",
-      "title": "iPhoneUltra或优先供应美国市场",
+      "id": "newsnow-7b316938f5dd",
+      "title": "首款折叠iPhone",
       "source": "微博热搜",
       "brand": "iPhone",
       "model": "iPhone 相关机型",
@@ -152,9 +392,9 @@ window.phoneRadarAuto = {
       "date": "2026-08-14",
       "time": "",
       "publishedAt": "",
-      "url": "https://s.weibo.com/weibo?q=%23iPhoneUltra%E6%88%96%E4%BC%98%E5%85%88%E4%BE%9B%E5%BA%94%E7%BE%8E%E5%9B%BD%E5%B8%82%E5%9C%BA%23&t=31&band_rank=19&Refer=top",
+      "url": "https://s.weibo.com/weibo?q=%E9%A6%96%E6%AC%BE%E6%8A%98%E5%8F%A0iPhone&t=31&band_rank=19&Refer=top",
       "image": "",
-      "summary": "iPhoneUltra或优先供应美国市场",
+      "summary": "首款折叠iPhone",
       "tags": [
         "iPhone",
         "爆料",
@@ -299,26 +539,6 @@ window.phoneRadarAuto = {
         "Pixel",
         "爆料",
         "自动抓取"
-      ]
-    },
-    {
-      "id": "coolapk-user-83611a7ea57d",
-      "title": "竹本青：【vivo S50t 元气版上架：骁龙8s Gen3处理器，1.5K中直屏，限时售价2999元起】 12GB+25…",
-      "source": "竹本青",
-      "brand": "vivo",
-      "model": "vivo 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-08-13",
-      "time": "18:19",
-      "publishedAt": "2026-08-13T18:19:50.000Z",
-      "url": "https://www.coolapk.com/feed/73227883",
-      "image": "http://image.coolapk.com/feed/2026/0814/02/4248714_179b7a26_5182_5732_754@1270x952.jpg",
-      "summary": "【vivo S50t 元气版上架：骁龙8s Gen3处理器，1.5K中直屏，限时售价2999元起】 12GB+256GB —— 2999元（原价3299元） 12GB+512GB —— 3299元（原价3599元） ▫️6.59英寸1.5K 120Hz直屏 ▫️骁龙8s Gen3处理器 ▫️LPDDR5+UFS3.1 ▫️6500mAh电池+90W快充 前…",
-      "tags": [
-        "vivo",
-        "爆料",
-        "酷安博主"
       ]
     },
     {
@@ -762,26 +982,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "coolapk-user-5d9d3e2d325d",
-      "title": "竹本青：大疆Osmo 360 II 全景运动相机正式发布，售价3299元起",
-      "source": "竹本青",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-08-13",
-      "time": "12:00",
-      "publishedAt": "2026-08-13T12:00:47.000Z",
-      "url": "https://www.coolapk.com/feed/73222521",
-      "image": "http://image.coolapk.com/feed/2026/0813/20/4248714_db278b67_3688_7792_16@750x1000.png",
-      "summary": "【大疆Osmo 360 II 全景运动相机 正式发布，售价3299元起】 标准套装 —— 3299元（图4） 无界骑行套装 —— 3499元（图5） 畅玩套装 —— 3549元（图6） 人气套装 —— 3599元（图7） 畅拍套装 —— 3999元（图8） ● 传感器： 双1/1.1\"英寸方形+全新影像芯 14.5档全景动态范围 f/1.9光圈｜10-Bi…",
-      "tags": [
-        "行业",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
       "id": "auto-5b208b2275b3",
       "title": "Download the Google Pixel 11 wallpapers here",
       "source": "Android Authority",
@@ -1022,26 +1222,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-700610fa195b",
-      "title": "Samsung updates Galaxy Z Fold 8 series with August 2026 security patch",
-      "source": "SamMobile",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-13",
-      "time": "08:37",
-      "publishedAt": "2026-08-13T08:37:04.000Z",
-      "url": "https://www.sammobile.com/news/samsung-updates-galaxy-z-fold-8-series-with-august-2026-security-patch/",
-      "image": "",
-      "summary": "Samsung has released new software updates for the Galaxy Z Fold 8 Ultra and the Galaxy Z Fold 8. They bring the August 2026 security patch, which fixes 56 security issues present…",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-17cc32c1e716",
       "title": "More Pixel 11 phones now have this NFC payments upgrade",
       "source": "Android Authority",
@@ -1217,26 +1397,6 @@ window.phoneRadarAuto = {
       "summary": "Last month, the Vivo X500 Pro Max’s global version bearing the model number V2610 was spotted on Indonesia’s TKDN certification platform. In a new development, its Chinese edition…",
       "tags": [
         "vivo",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-8fab538d2145",
-      "title": "Honor Magic 9 series leak reveals chip and camera specs",
-      "source": "Huawei Central",
-      "brand": "HONOR",
-      "model": "HONOR 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-13",
-      "time": "04:14",
-      "publishedAt": "2026-08-13T04:14:24.000Z",
-      "url": "https://www.huaweicentral.com/honor-magic-9-series-leak-reveals-chip-and-camera-specs/",
-      "image": "https://www.huaweicentral.com/wp-content/uploads/2026/08/Magic-9-launch.jpg",
-      "summary": "Honor Magic 9 series will officially launch next month, and in the meantime, tipsters have started revealing the key specs of the flagship, including chipset and camera parameters…",
-      "tags": [
-        "HONOR",
         "爆料",
         "自动抓取"
       ]
