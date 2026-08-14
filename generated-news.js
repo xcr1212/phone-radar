@@ -1,6 +1,86 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-08-14T13:41:29.097Z",
+  "updatedAt": "2026-08-14T15:06:08.793Z",
   "news": [
+    {
+      "id": "auto-498f96585bd9",
+      "title": "I miss when Pixel phones felt like experiments, not just premium slabs",
+      "source": "Android Police",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-14",
+      "time": "15:00",
+      "publishedAt": "2026-08-14T15:00:15.000Z",
+      "url": "https://www.androidpolice.com/miss-pixel-phones-experiments-not-premium-slabs/",
+      "image": "",
+      "summary": "The Pixel 11 proves Google finally built an iPhone killer. But in trading fun experiments for premium slabs, did it forget how to be Google?",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-76f4f3c63382",
+      "title": "This Pixel 11 Pro XL promo code saves you $150 and stacks with Amazon’s gift card",
+      "source": "Android Authority",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-14",
+      "time": "14:57",
+      "publishedAt": "2026-08-14T14:57:18.000Z",
+      "url": "https://www.androidauthority.com/amazon-pixel-11-pro-xl-promo-code-deal-3698895/",
+      "image": "",
+      "summary": "A promo code makes an already strong pre-order deal even better.",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-c6fb8aaabb47",
+      "title": "Pixel 11 tidbits: The key details you should know about Google’s latest phones",
+      "source": "9to5Google",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-14",
+      "time": "14:30",
+      "publishedAt": "2026-08-14T14:30:00.000Z",
+      "url": "https://9to5google.com/2026/08/14/google-pixel-11-tidbits-details/",
+      "image": "",
+      "summary": "While not as major of a release as most years, Google’s Pixel 11 devices bring a lot of new things to the table, including some little details you might have missed during the eve…",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-e5e6859a0294",
+      "title": "vivo Y31T 手机规格曝光：6.75 寸 LCD 屏幕，骁龙 4 Gen 2 芯片",
+      "source": "IT之家",
+      "brand": "vivo",
+      "model": "vivo 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-14",
+      "time": "13:50",
+      "publishedAt": "2026-08-14T13:50:09.000Z",
+      "url": "https://www.ithome.com/0/989/938.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/8/4f3e24bb-1a74-4b88-bd0e-9e88ac2cabdb.jpg?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 8 月 14 日消息，据科技媒体 XpertPick 今天报道，vivo 正准备在印度市场推出 Y31T 手机，新机主打中低端市场， 配备 7200mAh 大电池 。 据介绍， 这款手机将配备 6.75 英寸的 LCD 屏幕 ，分辨率为 HD+，峰值亮度可达 1250nits。搭载骁龙 4 Gen 2 芯片，预计提供 4+128GB、6+128G…",
+      "tags": [
+        "vivo",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-c56a8263db4d",
       "title": "iPhone 17 ties Galaxy S26 Ultra and Oppo Find X7 Ultra in DxOMark’s camera test",
@@ -13,7 +93,7 @@ window.phoneRadarAuto = {
       "time": "13:12",
       "publishedAt": "2026-08-14T13:12:35.000Z",
       "url": "https://www.gizmochina.com/2026/08/14/iphone-17-ties-galaxy-s26-ultra-and-oppo-find-x7-ultra-in-dxomarks-camera-test/",
-      "image": "https://www.gizmochina.com/wp-content/uploads/2026/08/iphone-17-galaxy-s26-camera-test-1-300x169.jpg?x23692",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/08/appshunter-io-TTOxy4GVH5E-unsplash-300x200.jpg?x23692",
       "summary": "Apple’s regular iPhone 17 is still holding its own in a crowded camera field. Fresh independent testing has put the dual-camera base model in some surprisingly good company on one…",
       "tags": [
         "Samsung",
@@ -977,26 +1057,6 @@ window.phoneRadarAuto = {
       "summary": "It is now mid-August, meaning that Apple's annual iPhone event is just around the corner. Below, we take a look at when the event might be held this year. This September, Apple is…",
       "tags": [
         "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-c069d9753a4e",
-      "title": "Impressive Pixel 11 Pro Fold still can’t beat the Galaxy Z Fold 8’s desirability",
-      "source": "SamMobile",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-13",
-      "time": "14:00",
-      "publishedAt": "2026-08-13T14:00:00.000Z",
-      "url": "https://www.sammobile.com/opinion/impressive-pixel-11-pro-fold-cant-beat-galaxy-z-fold-8-desirability/",
-      "image": "",
-      "summary": "Samsung has had to make the deliberate choice of reserving some of its best specs for the Ultra variants of its Galaxy S flagships while giving its Galaxy Z foldables just enough…",
-      "tags": [
-        "Samsung",
         "爆料",
         "自动抓取"
       ]
