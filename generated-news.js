@@ -1,9 +1,129 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-08-14T05:45:16.897Z",
+  "updatedAt": "2026-08-14T07:49:09.620Z",
   "news": [
     {
+      "id": "coolapk-user-3078635f7f7e",
+      "title": "竹本青：【REDMI 回应 K100 Pro 独占「流萤追光」配色：玻璃材质后盖更适配】 8月14日，REDMI 手机发布…",
+      "source": "竹本青",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-08-14",
+      "time": "07:19",
+      "publishedAt": "2026-08-14T07:19:22.000Z",
+      "url": "https://www.coolapk.com/feed/73235741",
+      "image": "http://image.coolapk.com/feed/2026/0814/15/4248714_fcc5a54c_1960_7925_540@1400x724.jpg",
+      "summary": "【REDMI 回应 K100 Pro 独占「流萤追光」配色：玻璃材质后盖更适配】 8月14日，REDMI 手机发布答网友问，解释 K100 Pro 独占「流萤追光」配色原因： 综合呈现效果、透明度、光感、耐久性等考虑，采用玻璃材质背盖的 K100 Pro 会更加适合。至于采用了玻纤材质背盖的 K100 Pro Max，则准备了其他配色和设计方案。 #RED…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-b942cea3a18b",
+      "title": "小米澎湃 OS 4 Beta 版首批机型开始推送，各批次推送时间公布",
+      "source": "IT之家",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-14",
+      "time": "07:12",
+      "publishedAt": "2026-08-14T07:12:39.000Z",
+      "url": "https://www.ithome.com/0/989/718.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/8/2bafd3e1-275e-4f94-abb5-e0d6426b9c91.jpg?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 8 月 14 日消息，小米澎湃 OS 公告君今日宣布， 小米澎湃 OS 4 Beta 版 已经开始向各批次机型陆续推送，官方公布了分批次推送的时间与对应机型名单。 IT之家从公告获悉，本次推送分三个阶段， 目前第一阶段已经开启陆续推送 ，对应机型如下： 手机端： Xiaomi 17 Ultra / Xiaomi 17 Ultra 徕卡版 、Xia…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-fa669289a5b9",
+      "title": "竹本青：【REDMI回应 K100 Pro系列 澎湃OS 4 Beta版本推送排期：首月优先保障用户稳定体验】 8月14日…",
+      "source": "竹本青",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-08-14",
+      "time": "07:02",
+      "publishedAt": "2026-08-14T07:02:20.000Z",
+      "url": "https://www.coolapk.com/feed/73235045",
+      "image": "http://image.coolapk.com/feed/2026/0814/15/4248714_4ce09002_1329_979_66@2136x1834.jpg",
+      "summary": "【REDMI回应 K100 Pro系列 澎湃OS 4 Beta版本推送排期：首月优先保障用户稳定体验】 8月14日，REDMI发布“K100 Pro系列答网友问”，针对该系列机型的小米澎湃OS 4 Beta版本推送节奏作出解释。 官方表示，REDMI K100 Pro系列 虽然Beta版本安排在第三批开放，但会是澎湃OS 4 正式版的首批支持机型之一。 K…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "coolapk-user-c2b6e899212f",
+      "title": "竹本青：【追觅卖出首台手机：24K足金镶宝石，背面有俞浩签名，交易金额超3万美元】 蓝鲸新闻今日报道，追觅手机负责人13日…",
+      "source": "竹本青",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-08-14",
+      "time": "06:49",
+      "publishedAt": "2026-08-14T06:49:46.000Z",
+      "url": "https://www.coolapk.com/feed/73234721",
+      "image": "http://image.coolapk.com/feed/2026/0814/14/4248714_fba17409_0374_0871_301@1080x1188.jpg",
+      "summary": "【追觅卖出首台手机：24K足金镶宝石，背面有俞浩签名，交易金额超3万美元】 蓝鲸新闻今日报道，追觅手机负责人13日在朋友圈透露，公司已正式交付001号AURORA手机。据其透露，三万美金交易款项已全部到账，其中首付款1万美金，尾款21184美金。 其称，这是 “中国智能手机历史上迄今为止卖出去单台售价最高的旗舰智能手机”。 从曝光图片来看，手机不仅背面带有…",
+      "tags": [
+        "行业",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-6c85d4c122f6",
+      "title": "三星新手机设计图曝光：水平后摄布局，有望应用于 Galaxy S27 Ultra",
+      "source": "IT之家",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-14",
+      "time": "06:11",
+      "publishedAt": "2026-08-14T06:11:36.000Z",
+      "url": "https://www.ithome.com/0/989/698.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/8/7e78381c-2599-44fe-95ce-73f3a52ab235.png?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 8 月 14 日消息，科技媒体 sammyguru 昨日（8 月 13 日）发布博文，挖掘世界知识产权组织（WIPO）全球外观设计数据库， 在公开图片中发现了新的三星手机设计方案，最早可能应用于 Galaxy S27 Ultra 机型上。 不同于三星 Galaxy S 近几代手机设计，3 颗摄像头横向并列，集中位于同一个水平模块内。除相机区域外，…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-3ac216417efd",
+      "title": "中芯国际赵海军：手机类和面板驱动类产品至今没有涨价，这些客户当下同样困难",
+      "source": "IT之家",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-14",
+      "time": "05:56",
+      "publishedAt": "2026-08-14T05:56:29.000Z",
+      "url": "https://www.ithome.com/0/989/693.htm",
+      "image": "",
+      "summary": "IT之家 8 月 14 日消息，中芯国际昨日（8 月 13 日）发布 2026 年第二季度（2026 年 4 月～2026 年 6 月）报告 ，营业总收入 30.06 亿美元 （IT之家注：现汇率约合 203.12 亿元人民币） ，同比增长 36.1%；归母净利润 4.79 亿美元 （现汇率约合 32.37 亿元人民币） ，同比增长 261.7%。 据界面…",
+      "tags": [
+        "行业",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
       "id": "coolapk-user-f40021e9e48f",
-      "title": "竹本青：【网传骁龙8 Elite Gen6 Pro跑分曝光，安兔兔称成绩真实性存疑】 8月14日，博主数码闲聊站放出SM8…",
+      "title": "竹本青：安兔兔称骁龙8 Elite Gen6 Pro 跑分真实性存疑",
       "source": "竹本青",
       "brand": "行业",
       "model": "智能手机市场",
@@ -23,7 +143,7 @@ window.phoneRadarAuto = {
     },
     {
       "id": "coolapk-user-f65ffe2acb6c",
-      "title": "竹本青：【2026年第32周 国内手机市场份额曝光：华为保持榜首，大盘下降约5%】 ● 2026 W32 —— 大盘下降约…",
+      "title": "竹本青：2026年第32周国内手机市场份额曝光：荣耀升至榜五",
       "source": "竹本青",
       "brand": "HONOR",
       "model": "HONOR 相关机型",
@@ -34,7 +154,7 @@ window.phoneRadarAuto = {
       "publishedAt": "2026-08-14T05:31:56.000Z",
       "url": "https://www.coolapk.com/feed/73233343",
       "image": "http://image.coolapk.com/feed/2026/0814/13/4248714_0d55ee9e_5515_9412_405@1439x1030.jpg",
-      "summary": "【2026年第32周 国内手机市场份额曝光：华为保持榜首，大盘下降约5%】 ● 2026 W32 —— 大盘下降约5% 1.华为 —— 20.6% 2.OPPO —— 17.2%（含一加 3.1%，realme 0.6%） 3.vivo —— 16.0%（含iQOO 4.1%） 4.小米 —— 14.3% 5.荣耀 —— 13.8% 6.苹果 —— 13.…",
+      "summary": "【2026年第32周 国内手机市场份额曝光：华为保持榜首，荣耀升至榜五】 ● 2026 W32 —— 大盘下降约5% 1.华为 —— 20.6% 2.OPPO —— 17.2%（含一加 3.1%，realme 0.6%） 3.vivo —— 16.0%（含iQOO 4.1%） 4.小米 —— 14.3% 5.荣耀 —— 13.8% 6.苹果 —— 13.3…",
       "tags": [
         "HONOR",
         "爆料",
@@ -43,7 +163,7 @@ window.phoneRadarAuto = {
     },
     {
       "id": "coolapk-user-6af77b263eaf",
-      "title": "竹本青：【魅族手机官宣不涨价：在售机型维持原价销售】 魅族手机今天发布公告称，近期，内存芯片价格持续上涨，行业内多款机型已…",
+      "title": "竹本青：魅族手机官宣不涨价：在售机型维持原价销售",
       "source": "竹本青",
       "brand": "行业",
       "model": "智能手机市场",
@@ -103,7 +223,7 @@ window.phoneRadarAuto = {
     },
     {
       "id": "coolapk-user-103b41c98227",
-      "title": "JSCHEN小小狐：『骁龙 8E6 Pro 首个安兔兔跑分曝光：483 万』 型号：SM8975 安兔兔 V11.1.4 综合成绩：4…",
+      "title": "JSCHEN小小狐：骁龙 8E6 Pro 首个安兔兔跑分曝光：483万",
       "source": "JSCHEN小小狐",
       "brand": "行业",
       "model": "智能手机市场",
@@ -222,26 +342,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-3ebf427e2bca",
-      "title": "新型恶意安卓攻击曝光：盗刷信用卡、以受害者名义贷款",
-      "source": "IT之家",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-14",
-      "time": "03:32",
-      "publishedAt": "2026-08-14T03:32:33.000Z",
-      "url": "https://www.ithome.com/0/989/621.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/8/8695332a-1749-4e34-a2b0-f4758e40ee1e.png?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 8 月 14 日消息，网络安全公司 Group-IB 最新披露一起真实的安卓恶意软件攻击事件， 攻击者通过恶意安卓软件组合，盗用受害者信用卡并以受害者名义贷款。 在本次事件中，攻击者首先冒充银行员工，以支付卡出现问题为由致电受害者，并在通话中诱导其安装恶意软件。 攻击者要求受害者在安卓手机上安装伪装成正规应用的 SpyNote RAT，随后取得…",
-      "tags": [
-        "行业",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "weibo-c36e2c652fdd",
       "title": "数码闲聊站：一张SM8975安兔兔跑分，大家觉得2nm芯片这个性能表现怎么样？安兔兔500…",
       "source": "数码闲聊站",
@@ -259,66 +359,6 @@ window.phoneRadarAuto = {
         "行业",
         "爆料",
         "微博"
-      ]
-    },
-    {
-      "id": "auto-55e5a3ebbb69",
-      "title": "Omdia：苹果 iPhone 用户在微短剧上的消费比安卓用户高出 40%",
-      "source": "IT之家",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-14",
-      "time": "02:39",
-      "publishedAt": "2026-08-14T02:39:52.000Z",
-      "url": "https://www.ithome.com/0/989/597.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/8/f3824bf8-15e7-4c25-8996-7b05be53d366.png",
-      "summary": "IT之家 8 月 14 日消息，Omdia 今日发布的最新研究显示， iPhone 用户在微短剧应用上的消费比安卓用户高出约 40% ，这一发现颠覆了外界对这一快速增长的娱乐形态用户消费习惯和付费意愿的普遍认知。 尽管微短剧常被认为主要吸引低收入或小众受众，但 Omdia 的最新消费者研究表明，实际情况要复杂得多。 在多个主要市场中，iPhone 用户为微…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-ed598b615a33",
-      "title": "谷歌硬件副总裁彭昱钧：Tensor G6 芯片采用台积电最新改良 3nm 制程",
-      "source": "IT之家",
-      "brand": "Pixel",
-      "model": "Pixel 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-14",
-      "time": "02:09",
-      "publishedAt": "2026-08-14T02:09:23.000Z",
-      "url": "https://www.ithome.com/0/989/551.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/8/52cf2a46-8087-42f4-9c8c-a20797a3e9d0.png",
-      "summary": "IT之家 8 月 14 日消息，Google（谷歌）硬件副总裁彭昱钧昨日确认，本周早些时候发布的 Pixel 11 系列智能手机所搭载的 Tensor G6 芯片采用台积电最新改良 3nm 制程。这意味着 此前“Tensor G6 移动端首发台积电 2nm”的传闻不实 。 谷歌表示 Tensor G6 是其有史以来速度最快、功能最强大的自研芯片：升级后的…",
-      "tags": [
-        "Pixel",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-251fa64a3651",
-      "title": "消息称某厂骁龙 8E6 Pro 新机搭载 2K 三星直屏、全新 ID 设计，预计为 iQOO 16",
-      "source": "IT之家",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-14",
-      "time": "02:02",
-      "publishedAt": "2026-08-14T02:02:07.000Z",
-      "url": "https://www.ithome.com/0/989/538.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/8/12cfc5af-ec05-4f47-aad7-01718ca0f876.png",
-      "summary": "IT之家 8 月 14 日消息，博主 @数码闲聊站 今日曝光某厂子系骁龙 8E6 Pro / SM8975 新机部分信息，预计为 iQOO 16。 据其爆料，该机搭载 6.85 英寸 2K+165Hz 新一代三星直屏，工程机的 R 角形态和边框变化不大，镜头 DECO 是左上角小方块， 采用全新 ID 设计 。 今年 7 月，该博主还爆料某厂子系骁龙 8…",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
       ]
     },
     {
@@ -382,7 +422,7 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-7b316938f5dd",
+      "id": "newsnow-a2ea47c4a62f",
       "title": "首款折叠iPhone",
       "source": "微博热搜",
       "brand": "iPhone",
@@ -392,9 +432,29 @@ window.phoneRadarAuto = {
       "date": "2026-08-14",
       "time": "",
       "publishedAt": "",
-      "url": "https://s.weibo.com/weibo?q=%E9%A6%96%E6%AC%BE%E6%8A%98%E5%8F%A0iPhone&t=31&band_rank=19&Refer=top",
+      "url": "https://s.weibo.com/weibo?q=%E9%A6%96%E6%AC%BE%E6%8A%98%E5%8F%A0iPhone&t=31&band_rank=2&Refer=top",
       "image": "",
       "summary": "首款折叠iPhone",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-61d10abc4857",
+      "title": "iPhoneAir2再爆料",
+      "source": "微博热搜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "待验证",
+      "date": "2026-08-14",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://s.weibo.com/weibo?q=%23iPhoneAir2%E5%86%8D%E7%88%86%E6%96%99%23&t=31&band_rank=27&Refer=top",
+      "image": "",
+      "summary": "iPhoneAir2再爆料",
       "tags": [
         "iPhone",
         "爆料",
@@ -1335,26 +1395,6 @@ window.phoneRadarAuto = {
       "url": "https://www.gizmochina.com/2026/08/13/honor-700-rear-display-12000mah-phone-wide-foldable-leak/",
       "image": "https://www.gizmochina.com/wp-content/uploads/2026/05/Honor-600-Pro-300x235.png?x23692",
       "summary": "Honor has just launched the futuristic Robot Phone in China and is scheduled to launch its next flagship, the Magic 9 series, on September 28 in the country. Apart from the Magic…",
-      "tags": [
-        "HONOR",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-927b46aacac7",
-      "title": "Standard Honor Magic 9 design details emerged – better than before",
-      "source": "Huawei Central",
-      "brand": "HONOR",
-      "model": "HONOR 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-13",
-      "time": "05:29",
-      "publishedAt": "2026-08-13T05:29:01.000Z",
-      "url": "https://www.huaweicentral.com/standard-honor-magic-9-design-details-emerged/",
-      "image": "https://www.huaweicentral.com/wp-content/uploads/2026/08/Magic-9-camera.jpg",
-      "summary": "Honor has showcased the design of the high-end Magic 9 variant at the new Robot Phone launch event, while the standard model was missing from the frame. Now a new leak says the va…",
       "tags": [
         "HONOR",
         "爆料",

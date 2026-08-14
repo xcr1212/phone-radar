@@ -1,11 +1,11 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-08-14T05:45:16.897Z",
+  "updatedAt": "2026-08-14T07:49:09.620Z",
   "issueDate": "2026-08-14",
   "issue": "VOL.260814",
   "title": "手机情报日报",
-  "intro": "今日筛出 9 条重点，其中 8 条是重点爆料，包含 6 条 iPhone 相关、0 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 8 条重点，其中 8 条是重点爆料，包含 6 条 iPhone 相关、0 条官方确认、0 条参数线索。",
   "stats": {
-    "total": 9,
+    "total": 8,
     "iphone": 6,
     "leaks": 8,
     "official": 0,
@@ -41,7 +41,7 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
-          "id": "newsnow-7b316938f5dd",
+          "id": "newsnow-a2ea47c4a62f",
           "title": "首款折叠iPhone",
           "originalTitle": "",
           "source": "微博热搜",
@@ -51,13 +51,36 @@ window.phoneRadarDaily = {
           "date": "2026-08-14",
           "time": "",
           "publishedAt": "",
-          "url": "https://s.weibo.com/weibo?q=%E9%A6%96%E6%AC%BE%E6%8A%98%E5%8F%A0iPhone&t=31&band_rank=19&Refer=top",
+          "url": "https://s.weibo.com/weibo?q=%E9%A6%96%E6%AC%BE%E6%8A%98%E5%8F%A0iPhone&t=31&band_rank=2&Refer=top",
           "image": "",
           "verdict": "先看",
           "takeaway": "首款折叠iPhone",
           "detail": "首款折叠iPhone",
           "keyPoints": [
             "爆料"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "newsnow-61d10abc4857",
+          "title": "iPhoneAir2再爆料",
+          "originalTitle": "",
+          "source": "微博热搜",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "待验证",
+          "date": "2026-08-14",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://s.weibo.com/weibo?q=%23iPhoneAir2%E5%86%8D%E7%88%86%E6%96%99%23&t=31&band_rank=27&Refer=top",
+          "image": "",
+          "verdict": "先看",
+          "takeaway": "iPhoneAir2再爆料",
+          "detail": "iPhoneAir2再爆料",
+          "keyPoints": [
+            "爆料来源"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
@@ -134,106 +157,51 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
-          "id": "auto-251fa64a3651",
-          "title": "消息称某厂骁龙 8E6 Pro 新机搭载 2K 三星直屏、全新 ID 设计，预计为 iQOO 16",
+          "id": "coolapk-user-3078635f7f7e",
+          "title": "竹本青：【REDMI 回应 K100 Pro 独占「流萤追光」配色：玻璃材质后盖更适配】 8月14日，REDMI 手机发布…",
+          "originalTitle": "",
+          "source": "竹本青",
+          "brand": "Xiaomi",
+          "type": "爆料",
+          "trust": "高可信爆料",
+          "date": "2026-08-14",
+          "time": "07:19",
+          "publishedAt": "2026-08-14T07:19:22.000Z",
+          "url": "https://www.coolapk.com/feed/73235741",
+          "image": "http://image.coolapk.com/feed/2026/0814/15/4248714_fcc5a54c_1960_7925_540@1400x724.jpg",
+          "verdict": "先看",
+          "takeaway": "【REDMI 回应 K100 Pro 独占「流萤追光」配色：玻璃材质后盖更适配】 8月14日，REDMI 手机发布答网友问，解释 K100 Pro 独占「流萤追光」配色原因： 综合呈现效果、透明度、光感、耐久性等考虑，采用玻璃材质背盖的 K100 Pro 会更加适合。至于采用了玻纤材质背盖的 K100 Pro Max，则准备了其他配色和设计方案。 #RED…",
+          "detail": "【REDMI 回应 K100 Pro 独占「流萤追光」配色：玻璃材质后盖更适配】 8月14日，REDMI 手机发布答网友问，解释 K100 Pro 独占「流萤追光」配色原因： 综合呈现效果、透明度、光感、耐久性等考虑，采用玻璃材质背盖的 K100 Pro 会更加适合。至于采用了玻纤材质背盖的 K100 Pro Max，则准备了其他配色和设计方案。 #RED…",
+          "keyPoints": [
+            "外观 / 配色 / 尺寸"
+          ],
+          "confidence": "可信度较高，但仍属于发布前线索。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "auto-6c85d4c122f6",
+          "title": "三星新手机设计图曝光：水平后摄布局，有望应用于 Galaxy S27 Ultra",
           "originalTitle": "",
           "source": "IT之家",
           "brand": "Samsung",
           "type": "爆料",
           "trust": "媒体汇总",
           "date": "2026-08-14",
-          "time": "02:02",
-          "publishedAt": "2026-08-14T02:02:07.000Z",
-          "url": "https://www.ithome.com/0/989/538.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/8/12cfc5af-ec05-4f47-aad7-01718ca0f876.png",
+          "time": "06:11",
+          "publishedAt": "2026-08-14T06:11:36.000Z",
+          "url": "https://www.ithome.com/0/989/698.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/8/7e78381c-2599-44fe-95ce-73f3a52ab235.png?x-bce-process=image/format,f_auto",
           "verdict": "先看",
-          "takeaway": "IT之家 8 月 14 日消息，博主 @数码闲聊站 今日曝光某厂子系骁龙 8E6 Pro / SM8975 新机部分信息，预计为 iQOO 16。 据其爆料，该机搭载 6.85 英寸 2K+165Hz 新一代三星直屏，工程机的 R 角形态和边框变化不大，镜头 DECO 是左上角小方块， 采用全新 ID 设计 。 今年 7 月，该博主还爆料某厂子系骁龙 8…",
-          "detail": "IT之家 8 月 14 日消息，博主 @数码闲聊站 今日曝光某厂子系骁龙 8E6 Pro / SM8975 新机部分信息，预计为 iQOO 16。 据其爆料，该机搭载 6.85 英寸 2K+165Hz 新一代三星直屏，工程机的 R 角形态和边框变化不大，镜头 DECO 是左上角小方块， 采用全新 ID 设计 。 今年 7 月，该博主还爆料某厂子系骁龙 8…",
+          "takeaway": "IT之家 8 月 14 日消息，科技媒体 sammyguru 昨日（8 月 13 日）发布博文，挖掘世界知识产权组织（WIPO）全球外观设计数据库， 在公开图片中发现了新的三星手机设计方案，最早可能应用于 Galaxy S27 Ultra 机型上。 不同于三星 Galaxy S 近几代手机设计，3 颗摄像头横向并列，集中位于同一个水平模块内。除相机区域外，…",
+          "detail": "IT之家 8 月 14 日消息，科技媒体 sammyguru 昨日（8 月 13 日）发布博文，挖掘世界知识产权组织（WIPO）全球外观设计数据库， 在公开图片中发现了新的三星手机设计方案，最早可能应用于 Galaxy S27 Ultra 机型上。 不同于三星 Galaxy S 近几代手机设计，3 颗摄像头横向并列，集中位于同一个水平模块内。除相机区域外，…",
           "keyPoints": [
-            "屏幕形态",
-            "爆料来源"
-          ],
-          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "weibo-ad69fe29f517",
-          "title": "数码闲聊站：今年节奏都很快，耀子9月底上Magic9系列，10月预计会上WIN2系列，首批…",
-          "originalTitle": "",
-          "source": "数码闲聊站",
-          "brand": "HONOR",
-          "type": "爆料",
-          "trust": "高关注爆料源",
-          "date": "2026-08-14",
-          "time": "04:38",
-          "publishedAt": "2026-08-14T04:38:00.000Z",
-          "url": "https://weibo.com/6048569942/Rdl76k1Rp",
-          "image": "",
-          "verdict": "先看",
-          "takeaway": "今年节奏都很快，耀子9月底上Magic9系列，10月预计会上WIN2系列，首批上线SM8975； 另外争取年前的中端线还有700系列、X系列、Power新机，万级大电池刷新高，选择很多[二哈]",
-          "detail": "今年节奏都很快，耀子9月底上Magic9系列，10月预计会上WIN2系列，首批上线SM8975； 另外争取年前的中端线还有700系列、X系列、Power新机，万级大电池刷新高，选择很多[二哈]",
-          "keyPoints": [
-            "电池 / 充电",
-            "爆料来源"
-          ],
-          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "weibo-93a71a5bc4e7",
-          "title": "数码闲聊站：独家信息：子系骁龙8E6 Pro/SM8975新机，6.85\"2K+165Hz…",
-          "originalTitle": "",
-          "source": "数码闲聊站",
-          "brand": "Samsung",
-          "type": "爆料",
-          "trust": "高关注爆料源",
-          "date": "2026-08-14",
-          "time": "01:38",
-          "publishedAt": "2026-08-14T01:38:00.000Z",
-          "url": "https://weibo.com/6048569942/RdjW2qorc",
-          "image": "",
-          "verdict": "先看",
-          "takeaway": "独家信息，子系骁龙8E6 Pro/SM8975新机，6.85\"2K+165Hz新一代三星直屏，工程机的R角形态和边框变化不大，镜头DECO是左上角小方块，全新ID设计👖",
-          "detail": "独家信息，子系骁龙8E6 Pro/SM8975新机，6.85\"2K+165Hz新一代三星直屏，工程机的R角形态和边框变化不大，镜头DECO是左上角小方块，全新ID设计👖",
-          "keyPoints": [
-            "屏幕形态",
-            "爆料来源"
-          ],
-          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        }
-      ]
-    },
-    {
-      "id": "iphone",
-      "title": "iPhone 重点",
-      "hint": "不是硬件爆料，但和 iPhone 体验或路线有关。",
-      "items": [
-        {
-          "id": "auto-55e5a3ebbb69",
-          "title": "Omdia：苹果 iPhone 用户在微短剧上的消费比安卓用户高出 40%",
-          "originalTitle": "",
-          "source": "IT之家",
-          "brand": "iPhone",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-08-14",
-          "time": "02:39",
-          "publishedAt": "2026-08-14T02:39:52.000Z",
-          "url": "https://www.ithome.com/0/989/597.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/8/f3824bf8-15e7-4c25-8996-7b05be53d366.png",
-          "verdict": "先看",
-          "takeaway": "IT之家 8 月 14 日消息，Omdia 今日发布的最新研究显示， iPhone 用户在微短剧应用上的消费比安卓用户高出约 40% ，这一发现颠覆了外界对这一快速增长的娱乐形态用户消费习惯和付费意愿的普遍认知。 尽管微短剧常被认为主要吸引低收入或小众受众，但 Omdia 的最新消费者研究表明，实际情况要复杂得多。 在多个主要市场中，iPhone 用户为微…",
-          "detail": "IT之家 8 月 14 日消息，Omdia 今日发布的最新研究显示， iPhone 用户在微短剧应用上的消费比安卓用户高出约 40% ，这一发现颠覆了外界对这一快速增长的娱乐形态用户消费习惯和付费意愿的普遍认知。 尽管微短剧常被认为主要吸引低收入或小众受众，但 Omdia 的最新消费者研究表明，实际情况要复杂得多。 在多个主要市场中，iPhone 用户为微…",
-          "keyPoints": [
-            "爆料"
+            "外观 / 配色 / 尺寸",
+            "影像硬件"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "中文源可以直接点开快读；看完只保留和购机有关的点。"
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         }
       ]
     }
