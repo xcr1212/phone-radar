@@ -1,6 +1,106 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-08-14T07:49:09.620Z",
+  "updatedAt": "2026-08-14T09:19:33.464Z",
   "news": [
+    {
+      "id": "coolapk-user-d76274f972e2",
+      "title": "JSCHEN小小狐：『荣耀下半年新机发布节奏曝光：首批 SM8975』 9 月底： 荣耀 Magic9 系列新机（首批骁龙 8E6 P…",
+      "source": "JSCHEN小小狐",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-08-14",
+      "time": "09:11",
+      "publishedAt": "2026-08-14T09:11:48.000Z",
+      "url": "https://www.coolapk.com/feed/73238936",
+      "image": "http://image.coolapk.com/feed/2026/0814/17/4702274_5620a1e4_8706_6472_502@1440x670.jpg",
+      "summary": "『荣耀下半年新机发布节奏曝光：首批 SM8975』 9 月底： 荣耀 Magic9 系列新机（首批骁龙 8E6 Pro） 10 月（预计）： 荣耀 WIN 2 系列新机 年前（中端线）： 荣耀 700 系列新机 荣耀 X / Power 系列新机（万级大电池新高） #今日热点# #荣耀Magic9# #荣耀WIN2#",
+      "tags": [
+        "HONOR",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-5a25cde1349f",
+      "title": "Camera Looks may finally fix the biggest sin of Google Pixel cameras",
+      "source": "Android Authority",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-14",
+      "time": "09:00",
+      "publishedAt": "2026-08-14T09:00:14.000Z",
+      "url": "https://www.androidauthority.com/google-pixel-11-camera-looks-important-why-3696165/",
+      "image": "",
+      "summary": "Camera Looks brings fully customizable, film-like simulations to the Pixel 11 series.",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-83779e01136d",
+      "title": "Huawei will likely launch these smartphones in September",
+      "source": "Huawei Central",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-14",
+      "time": "08:37",
+      "publishedAt": "2026-08-14T08:37:08.000Z",
+      "url": "https://www.huaweicentral.com/huawei-will-likely-launch-these-smartphones-in-september/",
+      "image": "https://www.huaweicentral.com/wp-content/uploads/2026/06/mate80-phones.jpg",
+      "summary": "After the August 2026 Launch Event, Huawei is up with new smartphones that will debut in September. Apart from the flagship Mate 90 series and the third tri-fold, the company has…",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "weibo-af5c758a1388",
+      "title": "数码闲聊站：2nm小屏旗舰，你们猜哪个影像会更强？[并不简单] ①50Mp 1/1.28\"…",
+      "source": "数码闲聊站",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-08-14",
+      "time": "08:21",
+      "publishedAt": "2026-08-14T08:21:11.000Z",
+      "url": "https://weibo.com/6048569942/RdmzGFBJy",
+      "image": "",
+      "summary": "2nm小屏旗舰，你们猜哪个影像会更强？[并不简单] ①50Mp 1/1.28\"LOFIC超大底主摄+50Mp小底超广角+64Mp 1/2\"中底潜望长焦，支持长焦微距 ②200Mp 1/1.28\"超大底主摄+50Mp小底超广角+200Mp 1/1.56\"大底潜望长焦，支持长焦微距",
+      "tags": [
+        "行业",
+        "爆料",
+        "微博"
+      ]
+    },
+    {
+      "id": "auto-a3f9a37ddbc1",
+      "title": "Forget the Pixel 11, this Google product is turning plenty of heads this year",
+      "source": "Android Authority",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-14",
+      "time": "08:00",
+      "publishedAt": "2026-08-14T08:00:37.000Z",
+      "url": "https://www.androidauthority.com/fitness-tracker-fitbit-air-poll-results-3698641/",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2026/05/google-fitbit-air-worn-on-ankle-3.jpg",
+      "summary": "Survey says the Fitbit Air is the Google product our readers crave.",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "coolapk-user-3078635f7f7e",
       "title": "竹本青：【REDMI 回应 K100 Pro 独占「流萤追光」配色：玻璃材质后盖更适配】 8月14日，REDMI 手机发布…",
@@ -182,46 +282,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-d58c383b43de",
-      "title": "微软品牌 Windows Phone 手机工程机上手视频曝光",
-      "source": "IT之家",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-14",
-      "time": "05:09",
-      "publishedAt": "2026-08-14T05:09:29.000Z",
-      "url": "https://www.ithome.com/0/989/681.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/8/75c1e9a8-ae56-4096-9a80-7e7764263989.jpg?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 8 月 14 日消息，科技媒体 Windows Central 在昨日的播客节目中， 分享了一段上手视频，进一步展示了微软品牌 WP 手机工程机。 IT之家此前报道， 该手机代号可能是 Raven ，开发时间大约在 2013 年-2014 年，采用银色金属边框、背面印有微软 Logo，搭载未知型号的高通处理器，拥有 720P 屏幕。 消息源 gu…",
-      "tags": [
-        "行业",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-fa3744d1d6dd",
-      "title": "高通骁龙 8 Elite Gen6 Pro（SM8975）跑分曝光，消息称今年 2nm 旗舰芯门槛 500 万分",
-      "source": "IT之家",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-14",
-      "time": "04:57",
-      "publishedAt": "2026-08-14T04:57:27.000Z",
-      "url": "https://www.ithome.com/0/989/678.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/8/103fabf4-253f-4260-98d5-e70bbbbb1fbe.png",
-      "summary": "IT之家 8 月 14 日消息，博主 @数码闲聊站 今日晒出了一张 SM8975 的安兔兔跑分截图，总分超 483 万分。 该博主表示： 安兔兔 500 万会是今年 2nm 旗舰芯的门槛 ，坐等首批量产新机登场了。 IT之家综合以往爆料，SM8975 预计是指 高通骁龙 8 Elite Gen6 Pro ，其 CPU 架构采用 2+3+3 设计：包含两颗超…",
-      "tags": [
-        "行业",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "coolapk-user-103b41c98227",
       "title": "JSCHEN小小狐：骁龙 8E6 Pro 首个安兔兔跑分曝光：483万",
       "source": "JSCHEN小小狐",
@@ -239,26 +299,6 @@ window.phoneRadarAuto = {
         "行业",
         "爆料",
         "酷安博主"
-      ]
-    },
-    {
-      "id": "auto-ec772dbc21bc",
-      "title": "追觅卖出首台超 3 万美元 AURORA 手机：编号 001，带有俞浩签名",
-      "source": "IT之家",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-14",
-      "time": "04:49",
-      "publishedAt": "2026-08-14T04:49:41.000Z",
-      "url": "https://www.ithome.com/0/989/677.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/8/3f4bf2ad-3a3c-4be1-8814-8556a1123a6f.png?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 8 月 14 日消息，综合蓝鲸新闻、红星资本局今日报道，追觅手机负责人 8 月 13 日在朋友圈透露，公司已正式交付 001 号 AURORA 手机。 据其透露，3 万美元 （IT之家注：现汇率约合 20.3 万元人民币） 交易款项已全部到账， 其中首付款 1 万美元，尾款 21,184 美元 。其称，这是“中国智能手机历史上迄今为止卖出去单台售…",
-      "tags": [
-        "行业",
-        "爆料",
-        "自动抓取"
       ]
     },
     {
@@ -317,26 +357,6 @@ window.phoneRadarAuto = {
       "summary": "It was reported yesterday that the iQOO 16 has bagged 3C certification in China, indicating that it may launch by the end of September or by early October in China. As per a new l…",
       "tags": [
         "vivo",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-fa27edd48c20",
-      "title": "豆包输入法 iOS 版 1.5.0 新增账号登录，词库定时云端同步",
-      "source": "IT之家",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-14",
-      "time": "03:43",
-      "publishedAt": "2026-08-14T03:43:11.000Z",
-      "url": "https://www.ithome.com/0/989/648.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/8/384073f5-5546-4976-891b-c8b9d0326ba6.jpg?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 8 月 14 日消息，豆包输入法 iOS 版 8 月 13 日正式推送 1.5.0 版本升级，IT之家附更新内容如下： 新增账号登录，词库定时云端同步，换设备也不丢数据 优化语音输入的跳转异常的问题。 豆包输入法 iOS 版于去年 11 月登录苹果 iOS 平台， 支持豆包同款语音输入 。IT之家附官方功能说明： 语音输入：使用豆包同款语音大模型…",
-      "tags": [
-        "iPhone",
         "爆料",
         "自动抓取"
       ]
@@ -422,7 +442,7 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-a2ea47c4a62f",
+      "id": "newsnow-34e37adf4fa4",
       "title": "首款折叠iPhone",
       "source": "微博热搜",
       "brand": "iPhone",
@@ -432,7 +452,7 @@ window.phoneRadarAuto = {
       "date": "2026-08-14",
       "time": "",
       "publishedAt": "",
-      "url": "https://s.weibo.com/weibo?q=%E9%A6%96%E6%AC%BE%E6%8A%98%E5%8F%A0iPhone&t=31&band_rank=2&Refer=top",
+      "url": "https://s.weibo.com/weibo?q=%E9%A6%96%E6%AC%BE%E6%8A%98%E5%8F%A0iPhone&t=31&band_rank=24&Refer=top",
       "image": "",
       "summary": "首款折叠iPhone",
       "tags": [
@@ -442,21 +462,41 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-61d10abc4857",
-      "title": "iPhoneAir2再爆料",
-      "source": "微博热搜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
+      "id": "newsnow-33cd904a4c7d",
+      "title": "追觅卖出首台手机 售价超20万元",
+      "source": "今日头条热榜",
+      "brand": "行业",
+      "model": "智能手机市场",
       "type": "爆料",
-      "trust": "待验证",
+      "trust": "媒体汇总",
       "date": "2026-08-14",
       "time": "",
       "publishedAt": "",
-      "url": "https://s.weibo.com/weibo?q=%23iPhoneAir2%E5%86%8D%E7%88%86%E6%96%99%23&t=31&band_rank=27&Refer=top",
+      "url": "https://www.toutiao.com/trending/7673679213765181476/",
       "image": "",
-      "summary": "iPhoneAir2再爆料",
+      "summary": "追觅卖出首台手机 售价超20万元",
       "tags": [
-        "iPhone",
+        "行业",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-f55edbf153a3",
+      "title": "追觅卖出首台手机售价超20万元",
+      "source": "百度热搜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-14",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.baidu.com/s?wd=%E8%BF%BD%E8%A7%85%E5%8D%96%E5%87%BA%E9%A6%96%E5%8F%B0%E6%89%8B%E6%9C%BA%E5%94%AE%E4%BB%B7%E8%B6%8520%E4%B8%87%E5%85%83",
+      "image": "",
+      "summary": "追觅卖出首台手机售价超20万元",
+      "tags": [
+        "行业",
         "爆料",
         "NewsNow"
       ]
@@ -1342,26 +1382,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-a30cd326fba1",
-      "title": "Huawei Mate 90 series launch event could be more excellent than Mate 60",
-      "source": "Huawei Central",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-13",
-      "time": "07:32",
-      "publishedAt": "2026-08-13T07:32:15.000Z",
-      "url": "https://www.huaweicentral.com/huawei-mate-90-series-excellent-launch-event/",
-      "image": "https://www.huaweicentral.com/wp-content/uploads/2026/02/Mate80Pro-global.jpg",
-      "summary": "Huawei Mate 60 series launch event was one of the company’s most excellent conferences as it marked the return of 5G Kirin chips but it looks like the 2026 flagship – Mate 90 can…",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-4cca7ec8cfa7",
       "title": "Pixel 11 phones get seven years of spare parts to go with update policy",
       "source": "Android Authority",
@@ -1479,26 +1499,6 @@ window.phoneRadarAuto = {
         "HONOR",
         "爆料",
         "酷安博主"
-      ]
-    },
-    {
-      "id": "weibo-c432e961ce56",
-      "title": "数码闲聊站：荣耀Magic9系列定档9月28日，200Mp 1/1.28\"超大底主摄，F1…",
-      "source": "数码闲聊站",
-      "brand": "HONOR",
-      "model": "HONOR 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-08-13",
-      "time": "00:47",
-      "publishedAt": "2026-08-13T00:47:00.000Z",
-      "url": "https://weibo.com/6048569942/RdaaQgaKN",
-      "image": "https://tvax3.sinaimg.cn/mw2000/006BlblIgy1ig1ahkspqbj30xu0u7tkl.jpg",
-      "summary": "荣耀Magic9系列定档9月28日，200Mp 1/1.28\"超大底主摄，F1.57大光圈，支持3°OIS光学防抖；200Mp 1/1.4\"常规大底潜望长焦，F2.6光圈，阿莱影像。又被我猜中了，首批骁龙2nm旗舰芯，期待吗？[二哈]",
-      "tags": [
-        "HONOR",
-        "爆料",
-        "微博"
       ]
     },
     {
