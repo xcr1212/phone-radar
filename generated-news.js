@@ -1,6 +1,46 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-08-14T20:44:24.386Z",
+  "updatedAt": "2026-08-14T22:39:52.566Z",
   "news": [
+    {
+      "id": "auto-e07afbe7a36f",
+      "title": "Best Google Pixel 11 Pro Fold screen protectors",
+      "source": "Android Central",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-08-14",
+      "time": "21:56",
+      "publishedAt": "2026-08-14T21:56:42.000Z",
+      "url": "https://www.androidcentral.com/accessories/cases-screen-protectors/best-google-pixel-11-pro-fold-screen-protectors",
+      "image": "https://cdn.mos.cms.futurecdn.net/jACnRUVfFxq6iHPHCyggBN-1280-80.jpg",
+      "summary": "The massive new Pixel foldable desperately needs the best Google Pixel 11 Pro Fold screen protectors to keep its displays safe. I've found the best ones.",
+      "tags": [
+        "Pixel",
+        "评测",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-68aea104d610",
+      "title": "Pixelated 112: Mid by Google",
+      "source": "9to5Google",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-14",
+      "time": "20:45",
+      "publishedAt": "2026-08-14T20:45:00.000Z",
+      "url": "https://9to5google.com/2026/08/14/pixelated-112-mid-by-google/",
+      "image": "",
+      "summary": "Welcome to Pixelated episode 112. This week, Damien, Abner, and Will share their early impressions of the Pixel 11 series, offer a full breakdown of the actual Made by Google even…",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-e921e67b6c2f",
       "title": "iPhone 18 Pro Max vs Pro: Here’s how Apple will differentiate models",
@@ -1497,26 +1537,6 @@ window.phoneRadarAuto = {
       "summary": "Good artists copy and all that.",
       "tags": [
         "Pixel",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-298f4883eed8",
-      "title": "Base iPhone 18 Tipped to Get These Two Pro-Level Upgrades",
-      "source": "MacRumors",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-13",
-      "time": "10:02",
-      "publishedAt": "2026-08-13T10:02:43.000Z",
-      "url": "https://www.macrumors.com/2026/08/13/base-iphone-18-two-pro-level-upgrades/",
-      "image": "https://images.macrumors.com/article-new/2025/09/iPhone-17-Colors.jpg",
-      "summary": "The base iPhone 18 model that Apple is expected to release by March 2027 will be equipped with 12GB of RAM, up from 8GB in the iPhone 17, according to analyst Jeff Pu. Pu's latest…",
-      "tags": [
-        "iPhone",
         "爆料",
         "自动抓取"
       ]
