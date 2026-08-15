@@ -1,6 +1,86 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-08-15T10:38:11.178Z",
+  "updatedAt": "2026-08-15T12:58:04.298Z",
   "news": [
+    {
+      "id": "auto-3b4da2301519",
+      "title": "沃尔沃推出“安全教练”应用：能分析你的驾驶行为并打分，降低事故风险",
+      "source": "IT之家",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-15",
+      "time": "12:26",
+      "publishedAt": "2026-08-15T12:26:10.000Z",
+      "url": "https://www.ithome.com/0/990/168.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/8/c535c187-1568-4c17-b0df-948c3d539b1c.png?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 8 月 15 日消息，据外媒 Carscoops 今天（15 日）报道，沃尔沃将推出全新的“安全教练”应用，开始把更多精力放到事故发生之前，希望通过软件 提前降低事故风险 ，而不是只依靠车辆本身。 “安全教练”提供车机、手机应用，会结合真实事故数据和沃尔沃自身的安全研究，在驾驶过程中 分析驾驶行为并给出建议 。 驾驶者可以自行选择是否启用“安全教…",
+      "tags": [
+        "行业",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-55159a3a1c29",
+      "title": "Thinking of buying the base Pixel 11? Here are 6 Pro camera features you’ll miss",
+      "source": "Android Authority",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-15",
+      "time": "12:00",
+      "publishedAt": "2026-08-15T12:00:50.000Z",
+      "url": "https://www.androidauthority.com/missing-camera-features-pixel-11-3695959/",
+      "image": "",
+      "summary": "If you're a camera buff, the regular Pixel 11 may not be the best choice.",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-a6fb29772dc6",
+      "title": "Is the Pixel 11’s Tensor G6 actually a good upgrade from the G5? I crunched the numbers",
+      "source": "Android Authority",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-15",
+      "time": "11:00",
+      "publishedAt": "2026-08-15T11:00:22.000Z",
+      "url": "https://www.androidauthority.com/tensor-g6-deep-dive-3695968/",
+      "image": "",
+      "summary": "Tensor G6 isn't chasing benchmark glory. Here's what Google's new chip is really prioritizing.",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-1574963763c9",
+      "title": "Best Google Pixel 11 and Pixel 11 Pro screen protectors",
+      "source": "Android Central",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-08-15",
+      "time": "10:45",
+      "publishedAt": "2026-08-15T10:45:56.000Z",
+      "url": "https://www.androidcentral.com/accessories/cases-screen-protectors/best-google-pixel-11-and-pixel-11-pro-screen-protectors",
+      "image": "https://cdn.mos.cms.futurecdn.net/EmyZt9zsrrCYiqBmqJ4yih-1280-80.jpg",
+      "summary": "Small screens of identical sizes means that the list of the best Google Pixel 11 and Pixel 11 Pro screen protectors is shared!",
+      "tags": [
+        "Pixel",
+        "评测",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-7d1a50ef46ae",
       "title": "Pixel 11 or Pixel 10a? Here’s why the Pixel 11 really is worth $400 more",
@@ -202,46 +282,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-d4952d301173",
-      "title": "小米 18 系列手机爆料：标准版延至 2027 年初发布，“妙享背屏”为 Pro 机型专属",
-      "source": "IT之家",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-15",
-      "time": "04:10",
-      "publishedAt": "2026-08-15T04:10:12.000Z",
-      "url": "https://www.ithome.com/0/990/027.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/8/d7c54ff7-3af1-4cbc-87c2-40e352f4f0df.jpg",
-      "summary": "IT之家 8 月 15 日消息，科技媒体 ximitime 昨日（8 月 14 日）发布博文，报道称基于设备型号等诸多线索， 推测小米公司会分成 2 个阶段发布小米 18 系列。 IT之家援引博文介绍，基于 Mi Code 挖掘的代码信息，并综合其它消息，小米 18 系列预估会推出以下 4 款机型： 机型 代号 预估发布时间 型号后缀数字 小米 18 Pr…",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-ba13153e37f8",
-      "title": "iQOO Neo11 至尊版参数汇总：天玑 9500M、维信诺 2K 直屏等",
-      "source": "IT之家",
-      "brand": "vivo",
-      "model": "vivo 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-15",
-      "time": "03:24",
-      "publishedAt": "2026-08-15T03:24:33.000Z",
-      "url": "https://www.ithome.com/0/990/020.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/8/c33367b5-07a3-4332-8462-8dabbcea2846.png",
-      "summary": "IT之家 8 月 15 日消息， iQOO Neo11 至尊版将于 8 月 18 日 19:00 发布并开售，博主 @数码闲聊站 对这款新机的参数进行了汇总： 6.83 英寸 2K+144Hz LTPS 直屏，维信诺 F2 发光材料，全屏手动最高 1000nit； 天玑 9500M（11 核 GPU），自研 Q2 电竞芯片，新思 S3910V 触控； 91…",
-      "tags": [
-        "vivo",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "coolapk-user-66c6f5f1176a",
       "title": "JSCHEN小小狐：iQOO Neo11 至尊版爆料参数汇总：2K LTPS",
       "source": "JSCHEN小小狐",
@@ -322,26 +362,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "coolapk-user-1c9b2969c103",
-      "title": "竹本青：荣耀罗巍：明年还有一款大家没见过、没想过的产品面世",
-      "source": "竹本青",
-      "brand": "HONOR",
-      "model": "HONOR 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-08-15",
-      "time": "00:09",
-      "publishedAt": "2026-08-15T00:09:02.000Z",
-      "url": "https://www.coolapk.com/feed/73250686",
-      "image": "http://image.coolapk.com/feed/2026/0815/08/4248714_06c742e1_2487_5919_125@1439x950.jpg",
-      "summary": "【荣耀罗巍：明年还有一款大家没见过、甚至没有想过的产品面世】 8月15日资讯，荣耀首席影像工程师罗巍昨晚发文透露：“明年还有一款大家没见过、甚至没有想过的产品面世。” 在此之前，荣耀高管方飞也表态称，Robot Phone只是第一代探索，荣耀会继续把想象变成用户真正能够感知、使用和信任的产品。 #今日热点# #荣耀ROBOTPHONE#",
-      "tags": [
-        "HONOR",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
       "id": "auto-9bbf43c61c96",
       "title": "Apple announces changes to iOS in Brazil",
       "source": "Apple Newsroom",
@@ -395,26 +415,6 @@ window.phoneRadarAuto = {
       "url": "https://www.coolapk.com/feed/73229716",
       "image": "",
       "summary": "5999是买mate80promax还是k100promax",
-      "tags": [
-        "行业",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-4fdf8d329484",
-      "title": "手机涨得快买不起了",
-      "source": "微博热搜",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "待验证",
-      "date": "2026-08-15",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://s.weibo.com/weibo?q=%23%E6%89%8B%E6%9C%BA%E6%B6%A8%E5%BE%97%E5%BF%AB%E4%B9%B0%E4%B8%8D%E8%B5%B7%E4%BA%86%23&t=31&band_rank=19&Refer=top",
-      "image": "",
-      "summary": "手机涨得快买不起了",
       "tags": [
         "行业",
         "爆料",

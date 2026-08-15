@@ -1,12 +1,12 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-08-15T10:38:11.178Z",
+  "updatedAt": "2026-08-15T12:58:04.298Z",
   "issueDate": "2026-08-15",
   "issue": "VOL.260815",
   "title": "手机情报日报",
-  "intro": "今日筛出 9 条重点，其中 8 条是重点爆料，包含 4 条 iPhone 相关、1 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 12 条重点，其中 8 条是重点爆料，包含 5 条 iPhone 相关、1 条官方确认、0 条参数线索。",
   "stats": {
-    "total": 9,
-    "iphone": 4,
+    "total": 12,
+    "iphone": 5,
     "leaks": 8,
     "official": 1,
     "specs": 0
@@ -157,47 +157,49 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
-          "id": "auto-d4952d301173",
-          "title": "小米 18 系列手机爆料：标准版延至 2027 年初发布，“妙享背屏”为 Pro 机型专属",
+          "id": "weibo-0edf647328dc",
+          "title": "数码闲聊站：iQOO Neo11至尊版，猜猜定价吧： 6.83\"2K+144Hz LTPS…",
           "originalTitle": "",
-          "source": "IT之家",
-          "brand": "Xiaomi",
+          "source": "数码闲聊站",
+          "brand": "vivo",
           "type": "爆料",
-          "trust": "媒体汇总",
+          "trust": "高关注爆料源",
           "date": "2026-08-15",
-          "time": "04:10",
-          "publishedAt": "2026-08-15T04:10:12.000Z",
-          "url": "https://www.ithome.com/0/990/027.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/8/d7c54ff7-3af1-4cbc-87c2-40e352f4f0df.jpg",
+          "time": "03:04",
+          "publishedAt": "2026-08-15T03:04:00.000Z",
+          "url": "https://weibo.com/6048569942/RdtVrp5dQ",
+          "image": "https://tvax2.sinaimg.cn/mw2000/006BlblIgy1ig3y09df6kj30xv1hvh42.jpg",
           "verdict": "先看",
-          "takeaway": "IT之家 8 月 15 日消息，科技媒体 ximitime 昨日（8 月 14 日）发布博文，报道称基于设备型号等诸多线索， 推测小米公司会分成 2 个阶段发布小米 18 系列。 IT之家援引博文介绍，基于 Mi Code 挖掘的代码信息，并综合其它消息，小米 18 系列预估会推出以下 4 款机型： 机型 代号 预估发布时间 型号后缀数字 小米 18 Pr…",
-          "detail": "IT之家 8 月 15 日消息，科技媒体 ximitime 昨日（8 月 14 日）发布博文，报道称基于设备型号等诸多线索， 推测小米公司会分成 2 个阶段发布小米 18 系列。 IT之家援引博文介绍，基于 Mi Code 挖掘的代码信息，并综合其它消息，小米 18 系列预估会推出以下 4 款机型： 机型 代号 预估发布时间 型号后缀数字 小米 18 Pr…",
+          "takeaway": "iQOO Neo11至尊版，猜猜定价吧： 6.83\"2K+144Hz LTPS直屏，维信诺F2发光材料，全屏手动最高1000nit；天玑9500M(11核GPU)，自研Q2电竞芯片，新思S3910V触控，9100mAh电池+100W快充；前置16Mp，后置横排50Mp大底主摄+8Mp超广角；3D超声波指纹，金属中框，IP68/IP69，8.6mm/225g",
+          "detail": "iQOO Neo11至尊版，猜猜定价吧： 6.83\"2K+144Hz LTPS直屏，维信诺F2发光材料，全屏手动最高1000nit；天玑9500M(11核GPU)，自研Q2电竞芯片，新思S3910V触控，9100mAh电池+100W快充；前置16Mp，后置横排50Mp大底主摄+8Mp超广角；3D超声波指纹，金属中框，IP68/IP69，8.6mm/225g",
           "keyPoints": [
+            "屏幕形态",
+            "电池 / 充电",
+            "芯片 / 性能",
             "爆料来源"
           ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
-          "id": "auto-ba13153e37f8",
-          "title": "iQOO Neo11 至尊版参数汇总：天玑 9500M、维信诺 2K 直屏等",
+          "id": "weibo-ad69fe29f517",
+          "title": "数码闲聊站：今年节奏都很快，耀子9月底上Magic9系列，10月预计会上WIN2系列，首批…",
           "originalTitle": "",
-          "source": "IT之家",
-          "brand": "vivo",
+          "source": "数码闲聊站",
+          "brand": "HONOR",
           "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-08-15",
-          "time": "03:24",
-          "publishedAt": "2026-08-15T03:24:33.000Z",
-          "url": "https://www.ithome.com/0/990/020.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/8/c33367b5-07a3-4332-8462-8dabbcea2846.png",
+          "trust": "高关注爆料源",
+          "date": "2026-08-14",
+          "time": "04:38",
+          "publishedAt": "2026-08-14T04:38:00.000Z",
+          "url": "https://weibo.com/6048569942/Rdl76k1Rp",
+          "image": "",
           "verdict": "先看",
-          "takeaway": "IT之家 8 月 15 日消息， iQOO Neo11 至尊版将于 8 月 18 日 19:00 发布并开售，博主 @数码闲聊站 对这款新机的参数进行了汇总： 6.83 英寸 2K+144Hz LTPS 直屏，维信诺 F2 发光材料，全屏手动最高 1000nit； 天玑 9500M（11 核 GPU），自研 Q2 电竞芯片，新思 S3910V 触控； 91…",
-          "detail": "IT之家 8 月 15 日消息， iQOO Neo11 至尊版将于 8 月 18 日 19:00 发布并开售，博主 @数码闲聊站 对这款新机的参数进行了汇总： 6.83 英寸 2K+144Hz LTPS 直屏，维信诺 F2 发光材料，全屏手动最高 1000nit； 天玑 9500M（11 核 GPU），自研 Q2 电竞芯片，新思 S3910V 触控； 91…",
+          "takeaway": "今年节奏都很快，耀子9月底上Magic9系列，10月预计会上WIN2系列，首批上线SM8975； 另外争取年前的中端线还有700系列、X系列、Power新机，万级大电池刷新高，选择很多[二哈]",
+          "detail": "今年节奏都很快，耀子9月底上Magic9系列，10月预计会上WIN2系列，首批上线SM8975； 另外争取年前的中端线还有700系列、X系列、Power新机，万级大电池刷新高，选择很多[二哈]",
           "keyPoints": [
-            "屏幕形态",
-            "芯片 / 性能",
+            "电池 / 充电",
             "爆料来源"
           ],
           "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
@@ -232,6 +234,89 @@ window.phoneRadarDaily = {
           ],
           "confidence": "官方内容，可直接作为已确认信息记录。",
           "impact": "可信度高，但如果不是配置/价格消息，只需要扫一眼。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        },
+        {
+          "id": "auto-92e4875473ca",
+          "title": "iPhone 芯片 / 性能相关消息",
+          "originalTitle": "",
+          "source": "9to5Mac",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-08-14",
+          "time": "17:15",
+          "publishedAt": "2026-08-14T17:15:57.000Z",
+          "url": "https://9to5mac.com/2026/08/14/review-terramow-v1000-is-the-easiest-iphone-controlled-robot-lawn-mower-ive-tested/",
+          "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/terramow-v1000-lead-01-iphone-control.webp?w=1600",
+          "verdict": "扫一眼",
+          "takeaway": "iPhone 芯片 / 性能相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
+          "detail": "iPhone 芯片 / 性能相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
+          "keyPoints": [
+            "电池 / 充电"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "影响日常体验，尤其是游戏、拍照和长时间使用。",
+          "action": "有具体参数就记录到参数库；没有参数就先收藏。"
+        }
+      ]
+    },
+    {
+      "id": "review",
+      "title": "评测与体验",
+      "hint": "买前再细看，平时扫一眼即可。",
+      "items": [
+        {
+          "id": "auto-c56a8263db4d",
+          "title": "iPhone 17 影像能力相关消息",
+          "originalTitle": "",
+          "source": "Gizmochina",
+          "brand": "Samsung",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-08-14",
+          "time": "13:12",
+          "publishedAt": "2026-08-14T13:12:35.000Z",
+          "url": "https://www.gizmochina.com/2026/08/14/iphone-17-ties-galaxy-s26-ultra-and-oppo-find-x7-ultra-in-dxomarks-camera-test/",
+          "image": "https://www.gizmochina.com/wp-content/uploads/2026/08/appshunter-io-TTOxy4GVH5E-unsplash-300x200.jpg?x23692",
+          "verdict": "扫一眼",
+          "takeaway": "Samsung 影像能力相关宣传或案例，主要看是否透露拍摄能力变化。",
+          "detail": "iPhone 17 影像能力相关消息。重点看影像功能是否和新机硬件有关，如果只是拍摄案例或营销内容，参考价值会低一些。",
+          "keyPoints": [
+            "影像硬件"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "影响拍照体验，买旗舰机时值得关注。",
+          "action": "有具体参数就记录到参数库；没有参数就先收藏。"
+        }
+      ]
+    },
+    {
+      "id": "market",
+      "title": "行业趋势",
+      "hint": "看方向，不急着当购买依据。",
+      "items": [
+        {
+          "id": "coolapk-user-f78c883f61ba",
+          "title": "竹本青：【华为Pura X Max 最新销量曝光：全系超68万台，典藏版近35.5万台】 华为 Pura X Max： ●…",
+          "originalTitle": "",
+          "source": "竹本青",
+          "brand": "Huawei",
+          "type": "爆料",
+          "trust": "高可信爆料",
+          "date": "2026-08-15",
+          "time": "06:59",
+          "publishedAt": "2026-08-15T06:59:42.000Z",
+          "url": "https://www.coolapk.com/feed/73256789",
+          "image": "http://image.coolapk.com/feed/2026/0815/14/4248714_b67d1f10_7181_1285_245@1270x466.jpg",
+          "verdict": "扫一眼",
+          "takeaway": "【华为Pura X Max 最新销量曝光：全系超68万台，典藏版近35.5万台】 华为 Pura X Max： ● 截至2026 W31 —— 约32.55万 截至2026 W30 —— 约30.47万 截至2026 W29 —— 约28.59万 截至2026 W28 —— 约26.88万 华为 Pura X Max 典藏版： ● 截至2026 W31 —…",
+          "detail": "【华为Pura X Max 最新销量曝光：全系超68万台，典藏版近35.5万台】 华为 Pura X Max： ● 截至2026 W31 —— 约32.55万 截至2026 W30 —— 约30.47万 截至2026 W29 —— 约28.59万 截至2026 W28 —— 约26.88万 华为 Pura X Max 典藏版： ● 截至2026 W31 —…",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "可信度较高，但仍属于发布前线索。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         }
       ]
