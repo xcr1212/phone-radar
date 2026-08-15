@@ -1,12 +1,12 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-08-15T03:04:02.421Z",
+  "updatedAt": "2026-08-15T04:46:01.547Z",
   "issueDate": "2026-08-15",
   "issue": "VOL.260815",
   "title": "手机情报日报",
-  "intro": "今日筛出 14 条重点，其中 8 条是重点爆料，包含 7 条 iPhone 相关、1 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 9 条重点，其中 8 条是重点爆料，包含 5 条 iPhone 相关、1 条官方确认、0 条参数线索。",
   "stats": {
-    "total": 14,
-    "iphone": 7,
+    "total": 9,
+    "iphone": 5,
     "leaks": 8,
     "official": 1,
     "specs": 0
@@ -35,6 +35,30 @@ window.phoneRadarDaily = {
           "detail": "IT之家 8 月 15 日消息，科技媒体 AppleInsider 昨日（8 月 14 日）发布博文， 报道称因被指控倡导“电子保姆”行为给幼儿使用 iPhone，苹果公司在意大利米兰撤下了争议广告。 IT之家此前报道，该广告牌画面显示 1 名幼儿手持 iPhone，并配有标语“Tutto ok, è iPhone”（都没事，是 iPhone）。 该广告属…",
           "keyPoints": [
             "爆料"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "newsnow-3eaba655a160",
+          "title": "换皮不换Ultra，红米这波服从性测试真恶心，iPhone18ProMax是不是也可以这样学呢？继续用苹果A19Pro，一个处理器用两代，大量节约成本。",
+          "originalTitle": "",
+          "source": "酷安热榜",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "高关注爆料源",
+          "date": "2026-08-15",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://www.coolapk.com/feed/73249323",
+          "image": "",
+          "verdict": "先看",
+          "takeaway": "换皮不换Ultra，红米这波服从性测试真恶心，iPhone18ProMax是不是也可以这样学呢？继续用苹果A19Pro，一个处理器用两代，大量节约成本。",
+          "detail": "换皮不换Ultra，红米这波服从性测试真恶心，iPhone18ProMax是不是也可以这样学呢？继续用苹果A19Pro，一个处理器用两代，大量节约成本。",
+          "keyPoints": [
+            "芯片 / 性能",
+            "成本 / 价格"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
@@ -87,6 +111,54 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
+          "id": "auto-d4952d301173",
+          "title": "小米 18 系列手机爆料：标准版延至 2027 年初发布，“妙享背屏”为 Pro 机型专属",
+          "originalTitle": "",
+          "source": "IT之家",
+          "brand": "Xiaomi",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-08-15",
+          "time": "04:10",
+          "publishedAt": "2026-08-15T04:10:12.000Z",
+          "url": "https://www.ithome.com/0/990/027.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/8/d7c54ff7-3af1-4cbc-87c2-40e352f4f0df.jpg",
+          "verdict": "先看",
+          "takeaway": "IT之家 8 月 15 日消息，科技媒体 ximitime 昨日（8 月 14 日）发布博文，报道称基于设备型号等诸多线索， 推测小米公司会分成 2 个阶段发布小米 18 系列。 IT之家援引博文介绍，基于 Mi Code 挖掘的代码信息，并综合其它消息，小米 18 系列预估会推出以下 4 款机型： 机型 代号 预估发布时间 型号后缀数字 小米 18 Pr…",
+          "detail": "IT之家 8 月 15 日消息，科技媒体 ximitime 昨日（8 月 14 日）发布博文，报道称基于设备型号等诸多线索， 推测小米公司会分成 2 个阶段发布小米 18 系列。 IT之家援引博文介绍，基于 Mi Code 挖掘的代码信息，并综合其它消息，小米 18 系列预估会推出以下 4 款机型： 机型 代号 预估发布时间 型号后缀数字 小米 18 Pr…",
+          "keyPoints": [
+            "爆料来源"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "auto-ba13153e37f8",
+          "title": "iQOO Neo11 至尊版参数汇总：天玑 9500M、维信诺 2K 直屏等",
+          "originalTitle": "",
+          "source": "IT之家",
+          "brand": "vivo",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-08-15",
+          "time": "03:24",
+          "publishedAt": "2026-08-15T03:24:33.000Z",
+          "url": "https://www.ithome.com/0/990/020.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/8/c33367b5-07a3-4332-8462-8dabbcea2846.png",
+          "verdict": "先看",
+          "takeaway": "IT之家 8 月 15 日消息， iQOO Neo11 至尊版将于 8 月 18 日 19:00 发布并开售，博主 @数码闲聊站 对这款新机的参数进行了汇总： 6.83 英寸 2K+144Hz LTPS 直屏，维信诺 F2 发光材料，全屏手动最高 1000nit； 天玑 9500M（11 核 GPU），自研 Q2 电竞芯片，新思 S3910V 触控； 91…",
+          "detail": "IT之家 8 月 15 日消息， iQOO Neo11 至尊版将于 8 月 18 日 19:00 发布并开售，博主 @数码闲聊站 对这款新机的参数进行了汇总： 6.83 英寸 2K+144Hz LTPS 直屏，维信诺 F2 发光材料，全屏手动最高 1000nit； 天玑 9500M（11 核 GPU），自研 Q2 电竞芯片，新思 S3910V 触控； 91…",
+          "keyPoints": [
+            "屏幕形态",
+            "芯片 / 性能",
+            "爆料来源"
+          ],
+          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
           "id": "auto-de168b9a6ee8",
           "title": "iQOO X 概念机内部发布：骁龙 8 Elite Gen10 Pro 处理器、15000mAh 固态电池",
           "originalTitle": "",
@@ -132,77 +204,6 @@ window.phoneRadarDaily = {
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "auto-7402074c792a",
-          "title": "印度网友反馈其三星 Galaxy 手机突发起火，导致双手和大腿区域被烧伤",
-          "originalTitle": "",
-          "source": "IT之家",
-          "brand": "Samsung",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-08-15",
-          "time": "00:44",
-          "publishedAt": "2026-08-15T00:44:47.000Z",
-          "url": "https://www.ithome.com/0/989/988.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/8/f54495d3-951d-4153-9b87-01e9d9ffecc4.png",
-          "verdict": "先看",
-          "takeaway": "IT之家 8 月 15 日消息，《自由新闻报》昨日（8 月 14 日）发布博文，报道称在印度大诺伊达（Greater Noida）一名男子的三星 Galaxy S 手机突发起火，导致双手、大腿区域被烧伤。 消息称该男子于 1 个月前购入这款三星 Galaxy 手机，事发时并未处于使用状态，放在裤兜里突发起火并爆炸。男子随后将其抽出，过程中导致双手和大腿部分…",
-          "detail": "IT之家 8 月 15 日消息，《自由新闻报》昨日（8 月 14 日）发布博文，报道称在印度大诺伊达（Greater Noida）一名男子的三星 Galaxy S 手机突发起火，导致双手、大腿区域被烧伤。 消息称该男子于 1 个月前购入这款三星 Galaxy 手机，事发时并未处于使用状态，放在裤兜里突发起火并爆炸。男子随后将其抽出，过程中导致双手和大腿部分…",
-          "keyPoints": [
-            "爆料来源"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "weibo-ad69fe29f517",
-          "title": "数码闲聊站：今年节奏都很快，耀子9月底上Magic9系列，10月预计会上WIN2系列，首批…",
-          "originalTitle": "",
-          "source": "数码闲聊站",
-          "brand": "HONOR",
-          "type": "爆料",
-          "trust": "高关注爆料源",
-          "date": "2026-08-14",
-          "time": "04:38",
-          "publishedAt": "2026-08-14T04:38:00.000Z",
-          "url": "https://weibo.com/6048569942/Rdl76k1Rp",
-          "image": "",
-          "verdict": "先看",
-          "takeaway": "今年节奏都很快，耀子9月底上Magic9系列，10月预计会上WIN2系列，首批上线SM8975； 另外争取年前的中端线还有700系列、X系列、Power新机，万级大电池刷新高，选择很多[二哈]",
-          "detail": "今年节奏都很快，耀子9月底上Magic9系列，10月预计会上WIN2系列，首批上线SM8975； 另外争取年前的中端线还有700系列、X系列、Power新机，万级大电池刷新高，选择很多[二哈]",
-          "keyPoints": [
-            "电池 / 充电",
-            "爆料来源"
-          ],
-          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "weibo-93a71a5bc4e7",
-          "title": "数码闲聊站：独家信息：子系骁龙8E6 Pro/SM8975新机，6.85\"2K+165Hz…",
-          "originalTitle": "",
-          "source": "数码闲聊站",
-          "brand": "Samsung",
-          "type": "爆料",
-          "trust": "高关注爆料源",
-          "date": "2026-08-14",
-          "time": "01:38",
-          "publishedAt": "2026-08-14T01:38:00.000Z",
-          "url": "https://weibo.com/6048569942/RdjW2qorc",
-          "image": "",
-          "verdict": "先看",
-          "takeaway": "独家信息，子系骁龙8E6 Pro/SM8975新机，6.85\"2K+165Hz新一代三星直屏，工程机的R角形态和边框变化不大，镜头DECO是左上角小方块，全新ID设计👖",
-          "detail": "独家信息，子系骁龙8E6 Pro/SM8975新机，6.85\"2K+165Hz新一代三星直屏，工程机的R角形态和边框变化不大，镜头DECO是左上角小方块，全新ID设计👖",
-          "keyPoints": [
-            "屏幕形态",
-            "爆料来源"
-          ],
-          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         }
       ]
     },
@@ -211,29 +212,6 @@ window.phoneRadarDaily = {
       "title": "iPhone 重点",
       "hint": "不是硬件爆料，但和 iPhone 体验或路线有关。",
       "items": [
-        {
-          "id": "newsnow-50133d4710e5",
-          "title": "iOS在逐渐砍动画，安卓这边动画反倒是越来越牛逼了",
-          "originalTitle": "",
-          "source": "酷安热榜",
-          "brand": "iPhone",
-          "type": "爆料",
-          "trust": "高关注爆料源",
-          "date": "2026-08-15",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://www.coolapk.com/feed/73243052",
-          "image": "",
-          "verdict": "先看",
-          "takeaway": "iOS在逐渐砍动画，安卓这边动画反倒是越来越牛逼了",
-          "detail": "iOS在逐渐砍动画，安卓这边动画反倒是越来越牛逼了",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
         {
           "id": "auto-9bbf43c61c96",
           "title": "iPhone 系统功能 / AI 体验相关消息",
@@ -256,112 +234,6 @@ window.phoneRadarDaily = {
           "confidence": "官方内容，可直接作为已确认信息记录。",
           "impact": "可信度高，但如果不是配置/价格消息，只需要扫一眼。",
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
-        {
-          "id": "auto-92e4875473ca",
-          "title": "iPhone 芯片 / 性能相关消息",
-          "originalTitle": "",
-          "source": "9to5Mac",
-          "brand": "iPhone",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-08-14",
-          "time": "17:15",
-          "publishedAt": "2026-08-14T17:15:57.000Z",
-          "url": "https://9to5mac.com/2026/08/14/review-terramow-v1000-is-the-easiest-iphone-controlled-robot-lawn-mower-ive-tested/",
-          "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/terramow-v1000-lead-01-iphone-control.webp?w=1600",
-          "verdict": "扫一眼",
-          "takeaway": "iPhone 芯片 / 性能相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
-          "detail": "iPhone 芯片 / 性能相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
-          "keyPoints": [
-            "电池 / 充电"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "影响日常体验，尤其是游戏、拍照和长时间使用。",
-          "action": "有具体参数就记录到参数库；没有参数就先收藏。"
-        },
-        {
-          "id": "auto-8fc3f2a5a057",
-          "title": "iPhone 影像能力相关消息",
-          "originalTitle": "",
-          "source": "9to5Mac",
-          "brand": "iPhone",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-08-14",
-          "time": "12:12",
-          "publishedAt": "2026-08-14T12:12:30.000Z",
-          "url": "https://9to5mac.com/2026/08/14/my-diy-iphone-camera-mod-looks-absurd-but-is-great-to-use/",
-          "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/My-DIY-iPhone-camera-mod-looks-absurd-but-is-great-to-use.jpg?quality=82&strip=all&w=1600",
-          "verdict": "扫一眼",
-          "takeaway": "iPhone 影像能力相关宣传或案例，主要看是否透露拍摄能力变化。",
-          "detail": "iPhone 影像能力相关消息。重点看影像功能是否和新机硬件有关，如果只是拍摄案例或营销内容，参考价值会低一些。",
-          "keyPoints": [
-            "影像硬件"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "影响拍照体验，买旗舰机时值得关注。",
-          "action": "有具体参数就记录到参数库；没有参数就先收藏。"
-        }
-      ]
-    },
-    {
-      "id": "launch",
-      "title": "新机与官方发布",
-      "hint": "能直接更新到参数库。",
-      "items": [
-        {
-          "id": "coolapk-user-5383665e86b1",
-          "title": "竹本青：【小米澎湃OS 4「柔光玻璃」材质适配名单公布：Beta期仅对部分机型适配，正式版将适配更多系列】 8月14日，小…",
-          "originalTitle": "",
-          "source": "竹本青",
-          "brand": "Xiaomi",
-          "type": "爆料",
-          "trust": "高可信爆料",
-          "date": "2026-08-14",
-          "time": "15:40",
-          "publishedAt": "2026-08-14T15:40:41.000Z",
-          "url": "https://www.coolapk.com/feed/73247185",
-          "image": "http://image.coolapk.com/feed/2026/0814/23/4248714_de78264d_2040_2418_626@533x557.jpg",
-          "verdict": "扫一眼",
-          "takeaway": "【小米澎湃OS 4「柔光玻璃」材质适配名单公布：Beta期仅对部分机型适配，正式版将适配更多系列】 8月14日，小米澎湃OS发布答网友问，针对「柔光玻璃」材质适配问题进行说明。 官方表示，澎湃OS 4 目前处于Beta测试阶段，显示效果与整机性能仍在调优。因此，仅对部分机型适配，后续将依据用户反馈迭代优化。 未来，澎湃OS 4 正式版面向存量机型推送后，以…",
-          "detail": "【小米澎湃OS 4「柔光玻璃」材质适配名单公布：Beta期仅对部分机型适配，正式版将适配更多系列】 8月14日，小米澎湃OS发布答网友问，针对「柔光玻璃」材质适配问题进行说明。 官方表示，澎湃OS 4 目前处于Beta测试阶段，显示效果与整机性能仍在调优。因此，仅对部分机型适配，后续将依据用户反馈迭代优化。 未来，澎湃OS 4 正式版面向存量机型推送后，以…",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "可信度较高，但仍属于发布前线索。",
-          "impact": "影响性能和寿命判断，适合放进参数库。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        }
-      ]
-    },
-    {
-      "id": "review",
-      "title": "评测与体验",
-      "hint": "买前再细看，平时扫一眼即可。",
-      "items": [
-        {
-          "id": "auto-c56a8263db4d",
-          "title": "iPhone 17 影像能力相关消息",
-          "originalTitle": "",
-          "source": "Gizmochina",
-          "brand": "Samsung",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-08-14",
-          "time": "13:12",
-          "publishedAt": "2026-08-14T13:12:35.000Z",
-          "url": "https://www.gizmochina.com/2026/08/14/iphone-17-ties-galaxy-s26-ultra-and-oppo-find-x7-ultra-in-dxomarks-camera-test/",
-          "image": "https://www.gizmochina.com/wp-content/uploads/2026/08/appshunter-io-TTOxy4GVH5E-unsplash-300x200.jpg?x23692",
-          "verdict": "扫一眼",
-          "takeaway": "Samsung 影像能力相关宣传或案例，主要看是否透露拍摄能力变化。",
-          "detail": "iPhone 17 影像能力相关消息。重点看影像功能是否和新机硬件有关，如果只是拍摄案例或营销内容，参考价值会低一些。",
-          "keyPoints": [
-            "影像硬件"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "影响拍照体验，买旗舰机时值得关注。",
-          "action": "有具体参数就记录到参数库；没有参数就先收藏。"
         }
       ]
     }

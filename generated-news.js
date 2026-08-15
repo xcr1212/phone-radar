@@ -1,6 +1,86 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-08-15T03:04:02.421Z",
+  "updatedAt": "2026-08-15T04:46:01.547Z",
   "news": [
+    {
+      "id": "auto-d4952d301173",
+      "title": "小米 18 系列手机爆料：标准版延至 2027 年初发布，“妙享背屏”为 Pro 机型专属",
+      "source": "IT之家",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-15",
+      "time": "04:10",
+      "publishedAt": "2026-08-15T04:10:12.000Z",
+      "url": "https://www.ithome.com/0/990/027.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/8/d7c54ff7-3af1-4cbc-87c2-40e352f4f0df.jpg",
+      "summary": "IT之家 8 月 15 日消息，科技媒体 ximitime 昨日（8 月 14 日）发布博文，报道称基于设备型号等诸多线索， 推测小米公司会分成 2 个阶段发布小米 18 系列。 IT之家援引博文介绍，基于 Mi Code 挖掘的代码信息，并综合其它消息，小米 18 系列预估会推出以下 4 款机型： 机型 代号 预估发布时间 型号后缀数字 小米 18 Pr…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-ba13153e37f8",
+      "title": "iQOO Neo11 至尊版参数汇总：天玑 9500M、维信诺 2K 直屏等",
+      "source": "IT之家",
+      "brand": "vivo",
+      "model": "vivo 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-15",
+      "time": "03:24",
+      "publishedAt": "2026-08-15T03:24:33.000Z",
+      "url": "https://www.ithome.com/0/990/020.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/8/c33367b5-07a3-4332-8462-8dabbcea2846.png",
+      "summary": "IT之家 8 月 15 日消息， iQOO Neo11 至尊版将于 8 月 18 日 19:00 发布并开售，博主 @数码闲聊站 对这款新机的参数进行了汇总： 6.83 英寸 2K+144Hz LTPS 直屏，维信诺 F2 发光材料，全屏手动最高 1000nit； 天玑 9500M（11 核 GPU），自研 Q2 电竞芯片，新思 S3910V 触控； 91…",
+      "tags": [
+        "vivo",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-66c6f5f1176a",
+      "title": "JSCHEN小小狐：『博主汇总 iQOO Neo11 至尊版核心参数规格』 ◇ 6.83 英寸 2K 144Hz LTPS OLED…",
+      "source": "JSCHEN小小狐",
+      "brand": "vivo",
+      "model": "vivo 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-08-15",
+      "time": "03:23",
+      "publishedAt": "2026-08-15T03:23:07.000Z",
+      "url": "https://www.coolapk.com/feed/73253301",
+      "image": "http://image.coolapk.com/feed/2026/0815/11/4702274_4a2cc567_4185_5754_200@1440x919.jpg",
+      "summary": "『博主汇总 iQOO Neo11 至尊版核心参数规格』 ◇ 6.83 英寸 2K 144Hz LTPS OLED 直屏 ◇ 维信诺 F2 基材，手动最高 1100nits ◇ 天玑 9500M 移动平台（11 核 GPU） ◇ 自研电竞芯片 Q2，新思 S3910V 触控 ◇ 9100mAh 蓝海电池 + 100W 有线快充 ◇ 后置 50Mp 1/1.5…",
+      "tags": [
+        "vivo",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "weibo-0edf647328dc",
+      "title": "数码闲聊站：iQOO Neo11至尊版，猜猜定价吧： 6.83\"2K+144Hz LTPS…",
+      "source": "数码闲聊站",
+      "brand": "vivo",
+      "model": "vivo 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-08-15",
+      "time": "03:04",
+      "publishedAt": "2026-08-15T03:04:00.000Z",
+      "url": "https://weibo.com/6048569942/RdtVrp5dQ",
+      "image": "https://tvax2.sinaimg.cn/mw2000/006BlblIgy1ig3y09df6kj30xv1hvh42.jpg",
+      "summary": "iQOO Neo11至尊版，猜猜定价吧： 6.83\"2K+144Hz LTPS直屏，维信诺F2发光材料，全屏手动最高1000nit；天玑9500M(11核GPU)，自研Q2电竞芯片，新思S3910V触控，9100mAh电池+100W快充；前置16Mp，后置横排50Mp大底主摄+8Mp超广角；3D超声波指纹，金属中框，IP68/IP69，8.6mm/225g",
+      "tags": [
+        "vivo",
+        "爆料",
+        "微博"
+      ]
+    },
     {
       "id": "auto-80419c9d8d70",
       "title": "亿咖通：Flyme Auto 系统 7 月装机 135,201 辆，目前累计装机量超 328 万",
@@ -222,8 +302,8 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-50133d4710e5",
-      "title": "iOS在逐渐砍动画，安卓这边动画反倒是越来越牛逼了",
+      "id": "newsnow-3eaba655a160",
+      "title": "换皮不换Ultra，红米这波服从性测试真恶心，iPhone18ProMax是不是也可以这样学呢？继续用苹果A19Pro，一个处理器用两代，大量节约成本。",
       "source": "酷安热榜",
       "brand": "iPhone",
       "model": "iPhone 相关机型",
@@ -232,9 +312,9 @@ window.phoneRadarAuto = {
       "date": "2026-08-15",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73243052",
+      "url": "https://www.coolapk.com/feed/73249323",
       "image": "",
-      "summary": "iOS在逐渐砍动画，安卓这边动画反倒是越来越牛逼了",
+      "summary": "换皮不换Ultra，红米这波服从性测试真恶心，iPhone18ProMax是不是也可以这样学呢？继续用苹果A19Pro，一个处理器用两代，大量节约成本。",
       "tags": [
         "iPhone",
         "爆料",
@@ -242,19 +322,19 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-0da0361b97ca",
-      "title": "对着别人手机念数字就可能背上贷款",
-      "source": "百度热搜",
+      "id": "newsnow-5de05770f862",
+      "title": "手机涨得快买不起了",
+      "source": "微博热搜",
       "brand": "行业",
       "model": "智能手机市场",
       "type": "爆料",
-      "trust": "媒体汇总",
+      "trust": "待验证",
       "date": "2026-08-15",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.baidu.com/s?wd=%E5%AF%B9%E7%9D%80%E5%88%AB%E4%BA%BA%E6%89%8B%E6%9C%BA%E5%BF%B5%E6%95%B0%E5%AD%97%E5%B0%B1%E5%8F%AF%E8%83%BD%E8%83%8C%E4%B8%8A%E8%B4%B7%E6%AC%BE",
+      "url": "https://s.weibo.com/weibo?q=%23%E6%89%8B%E6%9C%BA%E6%B6%A8%E5%BE%97%E5%BF%AB%E4%B9%B0%E4%B8%8D%E8%B5%B7%E4%BA%86%23&t=31&band_rank=15&Refer=top",
       "image": "",
-      "summary": "对着别人手机念数字就可能背上贷款",
+      "summary": "手机涨得快买不起了",
       "tags": [
         "行业",
         "爆料",
