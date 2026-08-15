@@ -1,6 +1,86 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-08-15T01:48:40.655Z",
+  "updatedAt": "2026-08-15T03:04:02.421Z",
   "news": [
+    {
+      "id": "auto-80419c9d8d70",
+      "title": "亿咖通：Flyme Auto 系统 7 月装机 135,201 辆，目前累计装机量超 328 万",
+      "source": "IT之家",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-15",
+      "time": "02:56",
+      "publishedAt": "2026-08-15T02:56:07.000Z",
+      "url": "https://www.ithome.com/0/990/014.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/8/32369701-bc7c-4cf0-a3b0-90d40162abe4.jpg?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 8 月 15 日消息，亿咖通科技昨晚宣布， Flyme Auto 系统 7 月装机 135,201 辆 。 据介绍，Flyme Auto 系统 1-7 月装机量超 101.8 万。截至目前，产品累计装机量超 328.5 万。 据IT之家此前报道， 魅族 Flyme Auto 车载软件系统发布于 2023 年 3 月 ，支持无缝接力、手机辅助 OT…",
+      "tags": [
+        "行业",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-3ab41c97e8ee",
+      "title": "竹本青：【OriginOS 7官方爆料：“首帧交互可打断”】 立刻响应应用内的操作，不用等待动画结束。以三方应用bilib…",
+      "source": "竹本青",
+      "brand": "vivo",
+      "model": "vivo 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-08-15",
+      "time": "02:49",
+      "publishedAt": "2026-08-15T02:49:32.000Z",
+      "url": "https://www.coolapk.com/feed/73252722",
+      "image": "http://image.coolapk.com/feed/2026/0815/10/4248714_6d7d4600_2125_9827_655-livepic@1440x2560.jpg",
+      "summary": "【OriginOS 7官方爆料：“首帧交互可打断”】 立刻响应应用内的操作，不用等待动画结束。以三方应用bilibili为例，刚点开，正上下划着，突然想切到左右页，手指一转方向，界面立马跟着走。上下滑、左右切，任意衔接。 #今日热点# #OriginOS6# #OriginOS7#",
+      "tags": [
+        "vivo",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-4173338ee73e",
+      "title": "vivo OriginOS 7 系统交互可打断升级，支持全新「首帧交互可打断」技术",
+      "source": "IT之家",
+      "brand": "vivo",
+      "model": "vivo 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-15",
+      "time": "02:36",
+      "publishedAt": "2026-08-15T02:36:47.000Z",
+      "url": "https://www.ithome.com/0/990/010.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/8/7189a166-2bf5-4785-a5f5-aa8e1ba4b2a4.jpg?x-bce-process=image/auto-orient,o_1",
+      "summary": "IT之家 8 月 15 日消息， OriginOS 7 系统已于今年 7 月底开启了 Beta 内测招募 ，首批适配 vivo X300 Pro 、 vivo X Fold6 、 iQOO 15 等机型。 IT之家注意到，vivo OS 产品总监 @vivo百奇Bucky 今日发文分享，在 OriginOS 7 中，「交互可打断」又进一步， 带来了全新的「…",
+      "tags": [
+        "vivo",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-d105ef5d081f",
+      "title": "竹本青：【iQOO最强信号发射功率，Neo11 至尊版官宣搭载寰宇电竞Wi-Fi三芯片】 ● 寰宇电竞Wi-Fi三芯片，2…",
+      "source": "竹本青",
+      "brand": "vivo",
+      "model": "vivo 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-08-15",
+      "time": "02:01",
+      "publishedAt": "2026-08-15T02:01:16.000Z",
+      "url": "https://www.coolapk.com/feed/73251921",
+      "image": "http://image.coolapk.com/feed/2026/0815/10/4248714_3e97d3b8_9274_0253_149@2494x3325.jpg",
+      "summary": "【iQOO最强信号发射功率，Neo11 至尊版官宣搭载寰宇电竞Wi-Fi三芯片】 ● 寰宇电竞Wi-Fi三芯片，220米连接 ● IP68&IP69防尘防水 ● iQOO15 Ultra 同款超感触控芯片 ● 9100mAh电池，四年健康度≥80% #今日热点# #iQOONeo11至尊版# #OriginOS6#",
+      "tags": [
+        "vivo",
+        "爆料",
+        "酷安博主"
+      ]
+    },
     {
       "id": "auto-de168b9a6ee8",
       "title": "iQOO X 概念机内部发布：骁龙 8 Elite Gen10 Pro 处理器、15000mAh 固态电池",
@@ -162,19 +242,19 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-f78dc80a7bf2",
-      "title": "王楚然一看手机天又塌了",
-      "source": "微博热搜",
+      "id": "newsnow-0da0361b97ca",
+      "title": "对着别人手机念数字就可能背上贷款",
+      "source": "百度热搜",
       "brand": "行业",
       "model": "智能手机市场",
       "type": "爆料",
-      "trust": "待验证",
+      "trust": "媒体汇总",
       "date": "2026-08-15",
       "time": "",
       "publishedAt": "",
-      "url": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E7%84%B6%E4%B8%80%E7%9C%8B%E6%89%8B%E6%9C%BA%E5%A4%A9%E5%8F%88%E5%A1%8C%E4%BA%86%23&t=31&band_rank=15&Refer=top",
+      "url": "https://www.baidu.com/s?wd=%E5%AF%B9%E7%9D%80%E5%88%AB%E4%BA%BA%E6%89%8B%E6%9C%BA%E5%BF%B5%E6%95%B0%E5%AD%97%E5%B0%B1%E5%8F%AF%E8%83%BD%E8%83%8C%E4%B8%8A%E8%B4%B7%E6%AC%BE",
       "image": "",
-      "summary": "王楚然一看手机天又塌了",
+      "summary": "对着别人手机念数字就可能背上贷款",
       "tags": [
         "行业",
         "爆料",
@@ -622,26 +702,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-e5e6859a0294",
-      "title": "vivo Y31T 手机规格曝光：6.75 寸 LCD 屏幕，骁龙 4 Gen 2 芯片",
-      "source": "IT之家",
-      "brand": "vivo",
-      "model": "vivo 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-14",
-      "time": "13:50",
-      "publishedAt": "2026-08-14T13:50:09.000Z",
-      "url": "https://www.ithome.com/0/989/938.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/8/4f3e24bb-1a74-4b88-bd0e-9e88ac2cabdb.jpg?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 8 月 14 日消息，据科技媒体 XpertPick 今天报道，vivo 正准备在印度市场推出 Y31T 手机，新机主打中低端市场， 配备 7200mAh 大电池 。 据介绍， 这款手机将配备 6.75 英寸的 LCD 屏幕 ，分辨率为 HD+，峰值亮度可达 1250nits。搭载骁龙 4 Gen 2 芯片，预计提供 4+128GB、6+128G…",
-      "tags": [
-        "vivo",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-c56a8263db4d",
       "title": "iPhone 17 ties Galaxy S26 Ultra and Oppo Find X7 Ultra in DxOMark’s camera test",
       "source": "Gizmochina",
@@ -759,26 +819,6 @@ window.phoneRadarAuto = {
         "OPPO",
         "爆料",
         "自动抓取"
-      ]
-    },
-    {
-      "id": "coolapk-user-a7ff7ff9527b",
-      "title": "竹本青：【阿维塔雍军公开回应：所谓“华为非必要”争议是误读】 8月14日，阿维塔科技副总裁雍军公开回应近期争议：所谓“华为…",
-      "source": "竹本青",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-08-14",
-      "time": "11:37",
-      "publishedAt": "2026-08-14T11:37:47.000Z",
-      "url": "https://www.coolapk.com/feed/73242409",
-      "image": "http://image.coolapk.com/feed/2026/0814/19/4248714_2feba06c_7466_9024_752@1236x700.jpg",
-      "summary": "【阿维塔雍军公开回应：所谓“华为非必要”争议是误读】 8月14日，阿维塔科技副总裁雍军公开回应近期争议：所谓“华为非必要项”其实是误读，他原本表达的是“没必要让引望为阿维塔单独定制一个智驾版本”，并不是说华为对阿维塔不重要。 实际上，双方合作还在继续加深。刚推出的阿维塔07L就是双方联创车型，华为团队从产品定义到外观、内饰、配色等环节都有深度参与；阿维塔目…",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "酷安博主"
       ]
     },
     {
