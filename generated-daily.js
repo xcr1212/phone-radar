@@ -1,12 +1,12 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-08-15T14:38:01.798Z",
+  "updatedAt": "2026-08-15T16:40:27.654Z",
   "issueDate": "2026-08-15",
   "issue": "VOL.260815",
   "title": "手机情报日报",
-  "intro": "今日筛出 12 条重点，其中 8 条是重点爆料，包含 5 条 iPhone 相关、1 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 14 条重点，其中 8 条是重点爆料，包含 6 条 iPhone 相关、1 条官方确认、0 条参数线索。",
   "stats": {
-    "total": 12,
-    "iphone": 5,
+    "total": 14,
+    "iphone": 6,
     "leaks": 8,
     "official": 1,
     "specs": 0
@@ -111,29 +111,6 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
-          "id": "auto-7ae56ca70e8c",
-          "title": "小米 Poco M8x 5G 手机预热，后置双摄、金色 + 绿色外观",
-          "originalTitle": "",
-          "source": "IT之家",
-          "brand": "Xiaomi",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-08-15",
-          "time": "06:42",
-          "publishedAt": "2026-08-15T06:42:58.000Z",
-          "url": "https://www.ithome.com/0/990/050.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/8/373866f8-add6-493c-a0a5-1d1b9e06dca5.jpg?x-bce-process=image/format,f_auto",
-          "verdict": "先看",
-          "takeaway": "IT之家 8 月 15 日消息，小米现已在海外电商平台 Flipkart 预热 Poco M8x 5G 手机， 新品预计定位中低端 ，将于后续在印度上市。 据介绍，这款手机预计将配备后置双摄和 LED 闪光灯，机身后盖为绿色设计，边框和摄像头模组则是以金色点缀，后盖底部中央还印有 Poco 品牌标识。 目前，Poco 官方暂未公布这款手机的具体上市日期、核…",
-          "detail": "IT之家 8 月 15 日消息，小米现已在海外电商平台 Flipkart 预热 Poco M8x 5G 手机， 新品预计定位中低端 ，将于后续在印度上市。 据介绍，这款手机预计将配备后置双摄和 LED 闪光灯，机身后盖为绿色设计，边框和摄像头模组则是以金色点缀，后盖底部中央还印有 Poco 品牌标识。 目前，Poco 官方暂未公布这款手机的具体上市日期、核…",
-          "keyPoints": [
-            "外观 / 配色 / 尺寸"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
           "id": "weibo-0edf647328dc",
           "title": "数码闲聊站：iQOO Neo11至尊版，猜猜定价吧： 6.83\"2K+144Hz LTPS…",
           "originalTitle": "",
@@ -205,6 +182,30 @@ window.phoneRadarDaily = {
           "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "weibo-93a71a5bc4e7",
+          "title": "数码闲聊站：独家信息：子系骁龙8E6 Pro/SM8975新机，6.85\"2K+165Hz…",
+          "originalTitle": "",
+          "source": "数码闲聊站",
+          "brand": "Samsung",
+          "type": "爆料",
+          "trust": "高关注爆料源",
+          "date": "2026-08-14",
+          "time": "01:38",
+          "publishedAt": "2026-08-14T01:38:00.000Z",
+          "url": "https://weibo.com/6048569942/RdjW2qorc",
+          "image": "",
+          "verdict": "先看",
+          "takeaway": "独家信息，子系骁龙8E6 Pro/SM8975新机，6.85\"2K+165Hz新一代三星直屏，工程机的R角形态和边框变化不大，镜头DECO是左上角小方块，全新ID设计👖",
+          "detail": "独家信息，子系骁龙8E6 Pro/SM8975新机，6.85\"2K+165Hz新一代三星直屏，工程机的R角形态和边框变化不大，镜头DECO是左上角小方块，全新ID设计👖",
+          "keyPoints": [
+            "屏幕形态",
+            "爆料来源"
+          ],
+          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         }
       ]
     },
@@ -258,6 +259,29 @@ window.phoneRadarDaily = {
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "影响拍照体验，买旗舰机时值得关注。",
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        },
+        {
+          "id": "auto-92e4875473ca",
+          "title": "iPhone 芯片 / 性能相关消息",
+          "originalTitle": "",
+          "source": "9to5Mac",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-08-14",
+          "time": "17:15",
+          "publishedAt": "2026-08-14T17:15:57.000Z",
+          "url": "https://9to5mac.com/2026/08/14/review-terramow-v1000-is-the-easiest-iphone-controlled-robot-lawn-mower-ive-tested/",
+          "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/terramow-v1000-lead-01-iphone-control.webp?w=1600",
+          "verdict": "扫一眼",
+          "takeaway": "iPhone 芯片 / 性能相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
+          "detail": "iPhone 芯片 / 性能相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
+          "keyPoints": [
+            "电池 / 充电"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "影响日常体验，尤其是游戏、拍照和长时间使用。",
+          "action": "有具体参数就记录到参数库；没有参数就先收藏。"
         }
       ]
     },
@@ -288,6 +312,29 @@ window.phoneRadarDaily = {
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "影响拍照体验，买旗舰机时值得关注。",
           "action": "有具体参数就记录到参数库；没有参数就先收藏。"
+        },
+        {
+          "id": "auto-2bc0783c4e22",
+          "title": "Samsung 折叠屏相关消息",
+          "originalTitle": "",
+          "source": "Android Central",
+          "brand": "Samsung",
+          "type": "评测",
+          "trust": "媒体汇总",
+          "date": "2026-08-15",
+          "time": "15:51",
+          "publishedAt": "2026-08-15T15:51:35.000Z",
+          "url": "https://www.androidcentral.com/phones/samsung-galaxy/should-you-buy-the-samsung-galaxy-z-fold-8",
+          "image": "https://cdn.mos.cms.futurecdn.net/fnPgnsVNmCnxEAsnzFiENb-1280-80.jpg",
+          "verdict": "可略过",
+          "takeaway": "Samsung 折叠屏相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
+          "detail": "Samsung 折叠屏相关消息。重点看折痕、铰链、厚度、屏幕可靠性和重量是否有实质改善。",
+          "keyPoints": [
+            "评测"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是实际体验内容，买前适合重点看缺点和取舍。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         }
       ]
     },

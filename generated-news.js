@@ -1,6 +1,106 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-08-15T14:38:01.798Z",
+  "updatedAt": "2026-08-15T16:40:27.654Z",
   "news": [
+    {
+      "id": "auto-2bc0783c4e22",
+      "title": "4 reasons why you should buy a Galaxy Z Fold 8, and 4 reasons why you should skip it",
+      "source": "Android Central",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-08-15",
+      "time": "15:51",
+      "publishedAt": "2026-08-15T15:51:35.000Z",
+      "url": "https://www.androidcentral.com/phones/samsung-galaxy/should-you-buy-the-samsung-galaxy-z-fold-8",
+      "image": "https://cdn.mos.cms.futurecdn.net/fnPgnsVNmCnxEAsnzFiENb-1280-80.jpg",
+      "summary": "The Galaxy Z Fold 8 is a popular phone, but should you buy it? Here's what I think after testing it for the past few weeks.",
+      "tags": [
+        "Samsung",
+        "评测",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-d84b81fdc95d",
+      "title": "The Pixel 11 Pro's best feature is broken; Google already has the tools to fix it",
+      "source": "Android Police",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-15",
+      "time": "15:15",
+      "publishedAt": "2026-08-15T15:15:15.000Z",
+      "url": "https://www.androidpolice.com/the-pixel-11-pros-best-feature-is-broken-google-already-has-the-tools-to-fix-it/",
+      "image": "",
+      "summary": "HiLight is wasted potential",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-d8e15ddbdba8",
+      "title": "I reviewed the Samsung Galaxy Z Fold 8 Ultra and it has a problem. It's called the Galaxy Z Fold 8",
+      "source": "Android Police",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-15",
+      "time": "15:00",
+      "publishedAt": "2026-08-15T15:00:16.000Z",
+      "url": "https://www.androidpolice.com/samsung-galaxy-z-fold-8-ultra-review/",
+      "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2026/08/samsung-galaxy-z-fold-8-ultra-back-hand.JPG",
+      "summary": "It's an excellent phone, but there's more fun elsewhere",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-6a3d3ff6e423",
+      "title": "My mom charges her Galaxy S25+ to 100% daily; our batteries tell very different stories",
+      "source": "Android Police",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-15",
+      "time": "15:00",
+      "publishedAt": "2026-08-15T15:00:16.000Z",
+      "url": "https://www.androidpolice.com/charges-galaxy-s25-100-batteries-different-stories/",
+      "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2026/08/two-galaxy-s25-phones-showing-different-battery-guru-health-results.jpg",
+      "summary": "I only charge mine to 80%",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-41adfd363364",
+      "title": "Galaxy S27 line drawing reaffirms major camera redesign",
+      "source": "Gizmochina",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-15",
+      "time": "14:46",
+      "publishedAt": "2026-08-15T14:46:01.000Z",
+      "url": "https://www.gizmochina.com/2026/08/15/galaxy-s27-line-drawing-reaffirms-major-camera-redesign/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/08/Screenshot-2026-08-15-200212-300x169.jpg?x23692",
+      "summary": "Fresh patent images that popped up in the WIPO Global Design Database show what could be the Galaxy S27’s rear cameras. The line drawings show three sensors lined up side by side…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-9ca6a41eeb02",
       "title": "These are my favorite ultra-slim iPhone accessories for 2026 [Video]",
@@ -202,26 +302,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-7ae56ca70e8c",
-      "title": "小米 Poco M8x 5G 手机预热，后置双摄、金色 + 绿色外观",
-      "source": "IT之家",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-15",
-      "time": "06:42",
-      "publishedAt": "2026-08-15T06:42:58.000Z",
-      "url": "https://www.ithome.com/0/990/050.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/8/373866f8-add6-493c-a0a5-1d1b9e06dca5.jpg?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 8 月 15 日消息，小米现已在海外电商平台 Flipkart 预热 Poco M8x 5G 手机， 新品预计定位中低端 ，将于后续在印度上市。 据介绍，这款手机预计将配备后置双摄和 LED 闪光灯，机身后盖为绿色设计，边框和摄像头模组则是以金色点缀，后盖底部中央还印有 Poco 品牌标识。 目前，Poco 官方暂未公布这款手机的具体上市日期、核…",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-e5bbff6a7ed4",
       "title": "iQOO Neo 11 Ultra full specifications leak days ahead of launch",
       "source": "Gizmochina",
@@ -342,26 +422,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "coolapk-user-d105ef5d081f",
-      "title": "竹本青：iQOO Neo11 至尊版将搭载寰宇电竞Wi-Fi三芯片",
-      "source": "竹本青",
-      "brand": "vivo",
-      "model": "vivo 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-08-15",
-      "time": "02:01",
-      "publishedAt": "2026-08-15T02:01:16.000Z",
-      "url": "https://www.coolapk.com/feed/73251921",
-      "image": "http://image.coolapk.com/feed/2026/0815/10/4248714_3e97d3b8_9274_0253_149@2494x3325.jpg",
-      "summary": "【iQOO最强信号发射功率，Neo11 至尊版官宣搭载寰宇电竞Wi-Fi三芯片】 ● 寰宇电竞Wi-Fi三芯片，220米连接 ● IP68&IP69防尘防水 ● iQOO15 Ultra 同款超感触控芯片 ● 9100mAh电池，四年健康度≥80% #今日热点# #iQOONeo11至尊版# #OriginOS6#",
-      "tags": [
-        "vivo",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
       "id": "auto-9bbf43c61c96",
       "title": "Apple announces changes to iOS in Brazil",
       "source": "Apple Newsroom",
@@ -379,26 +439,6 @@ window.phoneRadarAuto = {
         "iPhone",
         "官方",
         "自动抓取"
-      ]
-    },
-    {
-      "id": "newsnow-3eaba655a160",
-      "title": "换皮不换Ultra，红米这波服从性测试真恶心，iPhone18ProMax是不是也可以这样学呢？继续用苹果A19Pro，一个处理器用两代，大量节约成本。",
-      "source": "酷安热榜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-08-15",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73249323",
-      "image": "",
-      "summary": "换皮不换Ultra，红米这波服从性测试真恶心，iPhone18ProMax是不是也可以这样学呢？继续用苹果A19Pro，一个处理器用两代，大量节约成本。",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "NewsNow"
       ]
     },
     {
@@ -422,6 +462,26 @@ window.phoneRadarAuto = {
       ]
     },
     {
+      "id": "newsnow-3eaba655a160",
+      "title": "换皮不换Ultra，红米这波服从性测试真恶心，iPhone18ProMax是不是也可以这样学呢？继续用苹果A19Pro，一个处理器用两代，大量节约成本。",
+      "source": "酷安热榜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-08-15",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/73249323",
+      "image": "",
+      "summary": "换皮不换Ultra，红米这波服从性测试真恶心，iPhone18ProMax是不是也可以这样学呢？继续用苹果A19Pro，一个处理器用两代，大量节约成本。",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
       "id": "newsnow-718b33d851af",
       "title": "我真是服了，为什么我每次说手机有点卡，一堆人说我的手机是假货，故意黑？我买的小米 17pm，用了一星期卡过两次，一次是别人打了个微信电话，然后屏幕直接点不动没任何反应，然后我锁屏，重新打开屏幕才恢复了，不过背屏我很喜欢。",
       "source": "酷安热榜",
@@ -437,6 +497,46 @@ window.phoneRadarAuto = {
       "summary": "我真是服了，为什么我每次说手机有点卡，一堆人说我的手机是假货，故意黑？我买的小米 17pm，用了一星期卡过两次，一次是别人打了个微信电话，然后屏幕直接点不动没任何反应，然后我锁屏，重新打开屏幕才恢复了，不过背屏我很喜欢。",
       "tags": [
         "Xiaomi",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-561030ae83b8",
+      "title": "手机涨价别着急换新",
+      "source": "微博热搜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "待验证",
+      "date": "2026-08-15",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://s.weibo.com/weibo?q=%23%E6%89%8B%E6%9C%BA%E6%B6%A8%E4%BB%B7%E5%88%AB%E7%9D%80%E6%80%A5%E6%8D%A2%E6%96%B0%23&t=31&band_rank=18&Refer=top",
+      "image": "",
+      "summary": "手机涨价别着急换新",
+      "tags": [
+        "行业",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-0a71e8d74204",
+      "title": "关灯侧躺刷手机 毁眼睛",
+      "source": "百度热搜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-15",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.baidu.com/s?wd=%E5%85%B3%E7%81%AF%E4%BE%A7%E8%BA%BA%E5%88%B7%E6%89%8B%E6%9C%BA+%E6%AF%81%E7%9C%BC%E7%9D%9B",
+      "image": "",
+      "summary": "关灯侧躺刷手机 毁眼睛",
+      "tags": [
+        "行业",
         "爆料",
         "NewsNow"
       ]
@@ -575,26 +675,6 @@ window.phoneRadarAuto = {
       "url": "https://9to5google.com/2026/08/14/best-new-pixel-11-cases/",
       "image": "",
       "summary": "The Pixel 11, 11 Pro, 11 Pro XL, and 11 Pro Fold pre-order deals are still flying but many of our favorite case makers are now ready to wrap your new device up in style and protec…",
-      "tags": [
-        "Pixel",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-26d7832311eb",
-      "title": "Google’s best new camera feature is only for the Pixel 11 series",
-      "source": "The Verge",
-      "brand": "Pixel",
-      "model": "Pixel 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-14",
-      "time": "17:35",
-      "publishedAt": "2026-08-14T17:35:22.000Z",
-      "url": "https://www.theverge.com/tech/980467/google-pixel-11-camera-looks-older-phones",
-      "image": "",
-      "summary": "Arguably the coolest new photo feature for the Pixel 11 lineup is Google's new Camera Looks, which process image data differently at the sensor level to produce photos that don't…",
       "tags": [
         "Pixel",
         "爆料",
