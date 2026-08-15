@@ -1,12 +1,12 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-08-15T16:40:27.654Z",
+  "updatedAt": "2026-08-15T18:46:27.079Z",
   "issueDate": "2026-08-15",
   "issue": "VOL.260815",
   "title": "手机情报日报",
-  "intro": "今日筛出 14 条重点，其中 8 条是重点爆料，包含 6 条 iPhone 相关、1 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 14 条重点，其中 8 条是重点爆料，包含 7 条 iPhone 相关、1 条官方确认、0 条参数线索。",
   "stats": {
     "total": 14,
-    "iphone": 6,
+    "iphone": 7,
     "leaks": 8,
     "official": 1,
     "specs": 0
@@ -261,27 +261,50 @@ window.phoneRadarDaily = {
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         },
         {
-          "id": "auto-92e4875473ca",
-          "title": "iPhone 芯片 / 性能相关消息",
+          "id": "newsnow-890bdbb66190",
+          "title": "把「闪念胶囊」（Almost）放到 iPhone 锁屏",
           "originalTitle": "",
-          "source": "9to5Mac",
+          "source": "少数派热榜",
           "brand": "iPhone",
-          "type": "爆料",
+          "type": "评测",
           "trust": "媒体汇总",
-          "date": "2026-08-14",
-          "time": "17:15",
-          "publishedAt": "2026-08-14T17:15:57.000Z",
-          "url": "https://9to5mac.com/2026/08/14/review-terramow-v1000-is-the-easiest-iphone-controlled-robot-lawn-mower-ive-tested/",
-          "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/terramow-v1000-lead-01-iphone-control.webp?w=1600",
+          "date": "2026-08-15",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://sspai.com/post/113219",
+          "image": "",
           "verdict": "扫一眼",
-          "takeaway": "iPhone 芯片 / 性能相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
-          "detail": "iPhone 芯片 / 性能相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
+          "takeaway": "把「闪念胶囊」（Almost）放到 iPhone 锁屏",
+          "detail": "把「闪念胶囊」（Almost）放到 iPhone 锁屏",
           "keyPoints": [
-            "电池 / 充电"
+            "评测"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "影响日常体验，尤其是游戏、拍照和长时间使用。",
-          "action": "有具体参数就记录到参数库；没有参数就先收藏。"
+          "impact": "这是实际体验内容，买前适合重点看缺点和取舍。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        },
+        {
+          "id": "newsnow-d1d5772a159a",
+          "title": "我，与「唯一」的 iPhone Air",
+          "originalTitle": "",
+          "source": "少数派热榜",
+          "brand": "iPhone",
+          "type": "评测",
+          "trust": "媒体汇总",
+          "date": "2026-08-15",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://sspai.com/post/112880",
+          "image": "",
+          "verdict": "扫一眼",
+          "takeaway": "我，与「唯一」的 iPhone Air",
+          "detail": "我，与「唯一」的 iPhone Air",
+          "keyPoints": [
+            "评测"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是实际体验内容，买前适合重点看缺点和取舍。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         }
       ]
     },
@@ -312,29 +335,6 @@ window.phoneRadarDaily = {
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "影响拍照体验，买旗舰机时值得关注。",
           "action": "有具体参数就记录到参数库；没有参数就先收藏。"
-        },
-        {
-          "id": "auto-2bc0783c4e22",
-          "title": "Samsung 折叠屏相关消息",
-          "originalTitle": "",
-          "source": "Android Central",
-          "brand": "Samsung",
-          "type": "评测",
-          "trust": "媒体汇总",
-          "date": "2026-08-15",
-          "time": "15:51",
-          "publishedAt": "2026-08-15T15:51:35.000Z",
-          "url": "https://www.androidcentral.com/phones/samsung-galaxy/should-you-buy-the-samsung-galaxy-z-fold-8",
-          "image": "https://cdn.mos.cms.futurecdn.net/fnPgnsVNmCnxEAsnzFiENb-1280-80.jpg",
-          "verdict": "可略过",
-          "takeaway": "Samsung 折叠屏相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
-          "detail": "Samsung 折叠屏相关消息。重点看折痕、铰链、厚度、屏幕可靠性和重量是否有实质改善。",
-          "keyPoints": [
-            "评测"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是实际体验内容，买前适合重点看缺点和取舍。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         }
       ]
     },

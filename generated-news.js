@@ -1,6 +1,26 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-08-15T16:40:27.654Z",
+  "updatedAt": "2026-08-15T18:46:27.079Z",
   "news": [
+    {
+      "id": "auto-b5476cb91be3",
+      "title": "Grab this 3-pack of glass screen protectors for the Samsung Galaxy S26 Ultra for just $3",
+      "source": "Android Police",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-15",
+      "time": "17:30",
+      "publishedAt": "2026-08-15T17:30:28.000Z",
+      "url": "https://www.androidpolice.com/samsung-galaxy-s26-ultra-tempered-glass-screen-protector-3-deal/",
+      "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2026/05/samsung-galaxy-s26-ultra-smashed-screen-1.jpg",
+      "summary": "An easy choice",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-2bc0783c4e22",
       "title": "4 reasons why you should buy a Galaxy Z Fold 8, and 4 reasons why you should skip it",
@@ -182,6 +202,26 @@ window.phoneRadarAuto = {
       ]
     },
     {
+      "id": "auto-fa61b398e0d9",
+      "title": "Honor’s iconic center camera design to retire with Magic 9 flagship",
+      "source": "Huawei Central",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-15",
+      "time": "11:22",
+      "publishedAt": "2026-08-15T11:22:20.000Z",
+      "url": "https://www.huaweicentral.com/honors-iconic-center-camera-design-to-retire-with-magic-9-flagship/",
+      "image": "https://www.huaweicentral.com/wp-content/uploads/2026/08/Magic-9-camera.jpg",
+      "summary": "Almost a decade ago, Honor introduced the Magic 3 series with what became a signature look for the company’s flagship phones: a centrally placed camera bump. And this fall, with H…",
+      "tags": [
+        "HONOR",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
       "id": "auto-a6fb29772dc6",
       "title": "Is the Pixel 11’s Tensor G6 actually a good upgrade from the G5? I crunched the numbers",
       "source": "Android Authority",
@@ -222,6 +262,26 @@ window.phoneRadarAuto = {
       ]
     },
     {
+      "id": "auto-9f17057790df",
+      "title": "Huawei Pura 90 series to soon introduce a budget-friendly option",
+      "source": "Huawei Central",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-15",
+      "time": "10:23",
+      "publishedAt": "2026-08-15T10:23:11.000Z",
+      "url": "https://www.huaweicentral.com/huawei-pura-90-series-to-soon-introduce-a-budget-friendly-option/",
+      "image": "https://www.huaweicentral.com/wp-content/uploads/2026/04/Pura90-Pro.jpg",
+      "summary": "When Huawei unveiled the Pura 90 series in April this year, it brought three models – Standard, Pro, and Pro Max, though it seems the company is now up with a budget-friendly opti…",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
       "id": "auto-7d1a50ef46ae",
       "title": "Pixel 11 or Pixel 10a? Here’s why the Pixel 11 really is worth $400 more",
       "source": "Android Authority",
@@ -242,6 +302,26 @@ window.phoneRadarAuto = {
       ]
     },
     {
+      "id": "auto-6c02f03e2ecf",
+      "title": "Honor plans to boost mobile gaming with 12000mAh battery",
+      "source": "Huawei Central",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-15",
+      "time": "09:07",
+      "publishedAt": "2026-08-15T09:07:30.000Z",
+      "url": "https://www.huaweicentral.com/honor-plans-to-boost-mobile-gaming-with-12000mah-battery/",
+      "image": "https://www.huaweicentral.com/wp-content/uploads/2026/07/Honor-WIN-Series.jpg",
+      "summary": "As we approach the official launch timeframe of the Magic 9 series, Honor began the trial production of a 12000mAh battery, targeting the mobile gaming experience. And it seems th…",
+      "tags": [
+        "HONOR",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
       "id": "auto-3bc0c52dad2c",
       "title": "REDMI Turbo 5, iQOO 15, 15R, Neo 10 prices go up by up to ₹10,000",
       "source": "Gizmochina",
@@ -253,7 +333,7 @@ window.phoneRadarAuto = {
       "time": "09:02",
       "publishedAt": "2026-08-15T09:02:38.000Z",
       "url": "https://www.gizmochina.com/2026/08/15/redmi-turbo-5-iqoo-15-15r-neo-10-prices-go-up-by-up-to-%e2%82%b910000/",
-      "image": "https://www.gizmochina.com/wp-content/uploads/2026/08/afe37f3c49288b3603b4939127da9f4a-300x169.jpg?x23692",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/08/screen01_bg-300x169.jpg?x23692",
       "summary": "iQOO has once again raised the cost of a few of its popular models. The latest increases hit the flagship iQOO 15, along with the 15R and Neo 10, and they reflect the same industr…",
       "tags": [
         "Xiaomi",
@@ -442,6 +522,46 @@ window.phoneRadarAuto = {
       ]
     },
     {
+      "id": "newsnow-890bdbb66190",
+      "title": "把「闪念胶囊」（Almost）放到 iPhone 锁屏",
+      "source": "少数派热榜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-08-15",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://sspai.com/post/113219",
+      "image": "",
+      "summary": "把「闪念胶囊」（Almost）放到 iPhone 锁屏",
+      "tags": [
+        "iPhone",
+        "评测",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-d1d5772a159a",
+      "title": "我，与「唯一」的 iPhone Air",
+      "source": "少数派热榜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-08-15",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://sspai.com/post/112880",
+      "image": "",
+      "summary": "我，与「唯一」的 iPhone Air",
+      "tags": [
+        "iPhone",
+        "评测",
+        "NewsNow"
+      ]
+    },
+    {
       "id": "newsnow-99125f9eb334",
       "title": "5999是买mate80promax还是k100promax",
       "source": "酷安热榜",
@@ -497,26 +617,6 @@ window.phoneRadarAuto = {
       "summary": "我真是服了，为什么我每次说手机有点卡，一堆人说我的手机是假货，故意黑？我买的小米 17pm，用了一星期卡过两次，一次是别人打了个微信电话，然后屏幕直接点不动没任何反应，然后我锁屏，重新打开屏幕才恢复了，不过背屏我很喜欢。",
       "tags": [
         "Xiaomi",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-561030ae83b8",
-      "title": "手机涨价别着急换新",
-      "source": "微博热搜",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "待验证",
-      "date": "2026-08-15",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://s.weibo.com/weibo?q=%23%E6%89%8B%E6%9C%BA%E6%B6%A8%E4%BB%B7%E5%88%AB%E7%9D%80%E6%80%A5%E6%8D%A2%E6%96%B0%23&t=31&band_rank=18&Refer=top",
-      "image": "",
-      "summary": "手机涨价别着急换新",
-      "tags": [
-        "行业",
         "爆料",
         "NewsNow"
       ]
