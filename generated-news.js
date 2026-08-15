@@ -1,6 +1,46 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-08-15T12:58:04.298Z",
+  "updatedAt": "2026-08-15T14:38:01.798Z",
   "news": [
+    {
+      "id": "auto-9ca6a41eeb02",
+      "title": "These are my favorite ultra-slim iPhone accessories for 2026 [Video]",
+      "source": "9to5Mac",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-15",
+      "time": "14:00",
+      "publishedAt": "2026-08-15T14:00:00.000Z",
+      "url": "https://9to5mac.com/2026/08/15/these-are-my-favorite-ultra-slim-iphone-accessories-for-2026-video/",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/edc.jpg?quality=82&strip=all&w=1600",
+      "summary": "I am always looking for ultra-slim accessories that complement my everyday carry, and I have usually been drawn to how slim tech companies and brands can make their products. Acce…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-84c516c8bc4f",
+      "title": "小米 Poco F9 系列手机曝光：基于 REDMI K100 Pro/Pro Max 打造",
+      "source": "IT之家",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-15",
+      "time": "13:39",
+      "publishedAt": "2026-08-15T13:39:44.000Z",
+      "url": "https://www.ithome.com/0/990/175.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/8/5dc154ed-9a0f-40f6-b54d-e5b1fc43024b.png?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 8 月 15 日消息，据科技媒体 WinFuture 前天发文，小米即将在海外市场推出 Poco F9 系列手机，新机预计定位中高端市场， 基于 REDMI K100 Pro 系列机型打造 。 IT之家在此援引 WinFuture，Poco F9 Pro 将配备 6.59 英寸的 OLED 屏幕，最高支持 185Hz 刷新率。而 F9 Ultra…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-3b4da2301519",
       "title": "沃尔沃推出“安全教练”应用：能分析你的驾驶行为并打分，降低事故风险",
@@ -222,46 +262,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-13cb510e897f",
-      "title": "谷歌承诺 Pixel 11 系列手机在官方销售市场提供 7 年备件支持",
-      "source": "IT之家",
-      "brand": "Pixel",
-      "model": "Pixel 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-15",
-      "time": "05:21",
-      "publishedAt": "2026-08-15T05:21:06.000Z",
-      "url": "https://www.ithome.com/0/990/035.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/8/7795b79c-e9a0-4dd3-b28c-204f87284fbc.png",
-      "summary": "IT之家 8 月 15 日消息，科技媒体 smartprix 昨日（8 月 14 日）发布博文，报道称谷歌承诺和软件更新一样， Pixel 11 系列手机在所有官方销售市场均可获得 7 年备件支持。 在印度 Pixel 11 系列发布活动中，谷歌公司承诺 Pixel 11 系列手机支持 7 年的系统更新，同时在美国等所有官方销售市场上，提供 7 年备件供应…",
-      "tags": [
-        "Pixel",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-4d307746909e",
-      "title": "小米 REDMI 产品经理详解澎湃 HyperOS 4 Beta 版用途，K100 Pro 系列手机确认首批升级正式版系统",
-      "source": "IT之家",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-15",
-      "time": "05:17",
-      "publishedAt": "2026-08-15T05:17:29.000Z",
-      "url": "https://www.ithome.com/0/990/034.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/8/b5ab665a-70c5-4561-b1bc-673f411ebec5.jpg?x-bce-process=image/resize,w_1200,h_801",
-      "summary": "IT之家 8 月 15 日消息，小米 REDMI 产品经理 @笋寸 今日发文再度确认，在小米澎湃 HyperOS 4 正式版更新时， REDMI K100 Pro 系列将会是首批支持机型之一。 ▲ IT之家开箱：REDMI K100 Pro 系列图赏 她还介绍了澎湃 OS Beta 版系统的用途： Beta 版的核心目的是收集用户真实场景下的反馈， 排查内…",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "coolapk-user-f6bf0f6980a6",
       "title": "竹本青：【小米精英驾驶・国家B级赛照培训官宣：8月17日开放报名，小米车主专属价12999元】 8月17日早10:00北京…",
       "source": "竹本青",
@@ -417,6 +417,26 @@ window.phoneRadarAuto = {
       "summary": "5999是买mate80promax还是k100promax",
       "tags": [
         "行业",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-718b33d851af",
+      "title": "我真是服了，为什么我每次说手机有点卡，一堆人说我的手机是假货，故意黑？我买的小米 17pm，用了一星期卡过两次，一次是别人打了个微信电话，然后屏幕直接点不动没任何反应，然后我锁屏，重新打开屏幕才恢复了，不过背屏我很喜欢。",
+      "source": "酷安热榜",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-08-15",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/73256526",
+      "image": "",
+      "summary": "我真是服了，为什么我每次说手机有点卡，一堆人说我的手机是假货，故意黑？我买的小米 17pm，用了一星期卡过两次，一次是别人打了个微信电话，然后屏幕直接点不动没任何反应，然后我锁屏，重新打开屏幕才恢复了，不过背屏我很喜欢。",
+      "tags": [
+        "Xiaomi",
         "爆料",
         "NewsNow"
       ]
