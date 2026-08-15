@@ -1,5 +1,5 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-08-15T18:46:27.079Z",
+  "updatedAt": "2026-08-15T20:37:14.399Z",
   "news": [
     {
       "id": "auto-b5476cb91be3",
@@ -562,6 +562,46 @@ window.phoneRadarAuto = {
       ]
     },
     {
+      "id": "newsnow-718b33d851af",
+      "title": "我真是服了，为什么我每次说手机有点卡，一堆人说我的手机是假货，故意黑？我买的小米 17pm，用了一星期卡过两次，一次是别人打了个微信电话，然后屏幕直接点不动没任何反应，然后我锁屏，重新打开屏幕才恢复了，不过背屏我很喜欢。",
+      "source": "酷安热榜",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-08-15",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/73256526",
+      "image": "",
+      "summary": "我真是服了，为什么我每次说手机有点卡，一堆人说我的手机是假货，故意黑？我买的小米 17pm，用了一星期卡过两次，一次是别人打了个微信电话，然后屏幕直接点不动没任何反应，然后我锁屏，重新打开屏幕才恢复了，不过背屏我很喜欢。",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-0b5ebd9ac128",
+      "title": "这是我最新os4的桌搭，诸位酷友有什么好设计[受虐滑稽] #REDMIK100ProMax# #HyperOS4# #红米K90#",
+      "source": "酷安热榜",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-08-15",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/73263504",
+      "image": "",
+      "summary": "这是我最新os4的桌搭，诸位酷友有什么好设计[受虐滑稽] #REDMIK100ProMax# #HyperOS4# #红米K90#",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
       "id": "newsnow-99125f9eb334",
       "title": "5999是买mate80promax还是k100promax",
       "source": "酷安热榜",
@@ -582,28 +622,8 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-3eaba655a160",
-      "title": "换皮不换Ultra，红米这波服从性测试真恶心，iPhone18ProMax是不是也可以这样学呢？继续用苹果A19Pro，一个处理器用两代，大量节约成本。",
-      "source": "酷安热榜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-08-15",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73249323",
-      "image": "",
-      "summary": "换皮不换Ultra，红米这波服从性测试真恶心，iPhone18ProMax是不是也可以这样学呢？继续用苹果A19Pro，一个处理器用两代，大量节约成本。",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-718b33d851af",
-      "title": "我真是服了，为什么我每次说手机有点卡，一堆人说我的手机是假货，故意黑？我买的小米 17pm，用了一星期卡过两次，一次是别人打了个微信电话，然后屏幕直接点不动没任何反应，然后我锁屏，重新打开屏幕才恢复了，不过背屏我很喜欢。",
+      "id": "newsnow-fcb14da4f761",
+      "title": "移植机型：REDMI K90 4.0.0.18.XPKCNXM",
       "source": "酷安热榜",
       "brand": "Xiaomi",
       "model": "Xiaomi 相关机型",
@@ -612,9 +632,9 @@ window.phoneRadarAuto = {
       "date": "2026-08-15",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73256526",
+      "url": "https://www.coolapk.com/feed/73256433",
       "image": "",
-      "summary": "我真是服了，为什么我每次说手机有点卡，一堆人说我的手机是假货，故意黑？我买的小米 17pm，用了一星期卡过两次，一次是别人打了个微信电话，然后屏幕直接点不动没任何反应，然后我锁屏，重新打开屏幕才恢复了，不过背屏我很喜欢。",
+      "summary": "移植机型：REDMI K90 4.0.0.18.XPKCNXM",
       "tags": [
         "Xiaomi",
         "爆料",

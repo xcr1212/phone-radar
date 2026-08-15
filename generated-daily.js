@@ -1,12 +1,12 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-08-15T18:46:27.079Z",
+  "updatedAt": "2026-08-15T20:37:14.399Z",
   "issueDate": "2026-08-15",
   "issue": "VOL.260815",
   "title": "手机情报日报",
-  "intro": "今日筛出 14 条重点，其中 8 条是重点爆料，包含 7 条 iPhone 相关、1 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 15 条重点，其中 8 条是重点爆料，包含 5 条 iPhone 相关、1 条官方确认、0 条参数线索。",
   "stats": {
-    "total": 14,
-    "iphone": 7,
+    "total": 15,
+    "iphone": 5,
     "leaks": 8,
     "official": 1,
     "specs": 0
@@ -17,30 +17,6 @@ window.phoneRadarDaily = {
       "title": "重点爆料",
       "hint": "机模、配色、影像、屏幕、电池和芯片线索先看。",
       "items": [
-        {
-          "id": "newsnow-3eaba655a160",
-          "title": "换皮不换Ultra，红米这波服从性测试真恶心，iPhone18ProMax是不是也可以这样学呢？继续用苹果A19Pro，一个处理器用两代，大量节约成本。",
-          "originalTitle": "",
-          "source": "酷安热榜",
-          "brand": "iPhone",
-          "type": "爆料",
-          "trust": "高关注爆料源",
-          "date": "2026-08-15",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://www.coolapk.com/feed/73249323",
-          "image": "",
-          "verdict": "先看",
-          "takeaway": "换皮不换Ultra，红米这波服从性测试真恶心，iPhone18ProMax是不是也可以这样学呢？继续用苹果A19Pro，一个处理器用两代，大量节约成本。",
-          "detail": "换皮不换Ultra，红米这波服从性测试真恶心，iPhone18ProMax是不是也可以这样学呢？继续用苹果A19Pro，一个处理器用两代，大量节约成本。",
-          "keyPoints": [
-            "芯片 / 性能",
-            "成本 / 价格"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
         {
           "id": "auto-e921e67b6c2f",
           "title": "iPhone 相关消息",
@@ -206,6 +182,29 @@ window.phoneRadarDaily = {
           "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "coolapk-user-f6bf0f6980a6",
+          "title": "竹本青：【小米精英驾驶・国家B级赛照培训官宣：8月17日开放报名，小米车主专属价12999元】 8月17日早10:00北京…",
+          "originalTitle": "",
+          "source": "竹本青",
+          "brand": "Xiaomi",
+          "type": "爆料",
+          "trust": "高可信爆料",
+          "date": "2026-08-15",
+          "time": "05:03",
+          "publishedAt": "2026-08-15T05:03:34.000Z",
+          "url": "https://www.coolapk.com/feed/73255045",
+          "image": "http://image.coolapk.com/feed/2026/0815/13/4248714_c51f9c11_0205_5238_929@1176x2506.jpg",
+          "verdict": "先看",
+          "takeaway": "【小米精英驾驶・国家B级赛照培训官宣：8月17日开放报名，小米车主专属价12999元】 8月17日早10:00北京站、厦门站同步开放报名 北京站：9.4-9.6金港国际赛车场（FIA 三级认证赛道） 厦门站：9.11-9.13厦门国际赛车场（FIA 四级认证赛道） 冠军教练团队、单人5小时以上赛道实操、专业赛事用车全覆盖，考核通过即可获取国家认可场地B级赛…",
+          "detail": "【小米精英驾驶・国家B级赛照培训官宣：8月17日开放报名，小米车主专属价12999元】 8月17日早10:00北京站、厦门站同步开放报名 北京站：9.4-9.6金港国际赛车场（FIA 三级认证赛道） 厦门站：9.11-9.13厦门国际赛车场（FIA 四级认证赛道） 冠军教练团队、单人5小时以上赛道实操、专业赛事用车全覆盖，考核通过即可获取国家认可场地B级赛…",
+          "keyPoints": [
+            "芯片 / 性能"
+          ],
+          "confidence": "可信度较高，但仍属于发布前线索。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         }
       ]
     },
@@ -282,29 +281,6 @@ window.phoneRadarDaily = {
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是实际体验内容，买前适合重点看缺点和取舍。",
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
-        {
-          "id": "newsnow-d1d5772a159a",
-          "title": "我，与「唯一」的 iPhone Air",
-          "originalTitle": "",
-          "source": "少数派热榜",
-          "brand": "iPhone",
-          "type": "评测",
-          "trust": "媒体汇总",
-          "date": "2026-08-15",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://sspai.com/post/112880",
-          "image": "",
-          "verdict": "扫一眼",
-          "takeaway": "我，与「唯一」的 iPhone Air",
-          "detail": "我，与「唯一」的 iPhone Air",
-          "keyPoints": [
-            "评测"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是实际体验内容，买前适合重点看缺点和取舍。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         }
       ]
     },
@@ -343,6 +319,52 @@ window.phoneRadarDaily = {
       "title": "行业趋势",
       "hint": "看方向，不急着当购买依据。",
       "items": [
+        {
+          "id": "newsnow-0b5ebd9ac128",
+          "title": "这是我最新os4的桌搭，诸位酷友有什么好设计[受虐滑稽] #REDMIK100ProMax# #HyperOS4# #红米K90#",
+          "originalTitle": "",
+          "source": "酷安热榜",
+          "brand": "Xiaomi",
+          "type": "爆料",
+          "trust": "高关注爆料源",
+          "date": "2026-08-15",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://www.coolapk.com/feed/73263504",
+          "image": "",
+          "verdict": "扫一眼",
+          "takeaway": "这是我最新os4的桌搭，诸位酷友有什么好设计[受虐滑稽] #REDMIK100ProMax# #HyperOS4# #红米K90#",
+          "detail": "这是我最新os4的桌搭，诸位酷友有什么好设计[受虐滑稽] #REDMIK100ProMax# #HyperOS4# #红米K90#",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        },
+        {
+          "id": "newsnow-fcb14da4f761",
+          "title": "移植机型：REDMI K90 4.0.0.18.XPKCNXM",
+          "originalTitle": "",
+          "source": "酷安热榜",
+          "brand": "Xiaomi",
+          "type": "爆料",
+          "trust": "高关注爆料源",
+          "date": "2026-08-15",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://www.coolapk.com/feed/73256433",
+          "image": "",
+          "verdict": "扫一眼",
+          "takeaway": "移植机型：REDMI K90 4.0.0.18.XPKCNXM",
+          "detail": "移植机型：REDMI K90 4.0.0.18.XPKCNXM",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        },
         {
           "id": "coolapk-user-f78c883f61ba",
           "title": "竹本青：【华为Pura X Max 最新销量曝光：全系超68万台，典藏版近35.5万台】 华为 Pura X Max： ●…",
