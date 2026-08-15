@@ -1,6 +1,46 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-08-15T06:56:34.478Z",
+  "updatedAt": "2026-08-15T08:44:24.378Z",
   "news": [
+    {
+      "id": "auto-e0414a6cd9f7",
+      "title": "Top 5 alternatives to the Redmi K100 Pro Max in 2026",
+      "source": "Gizmochina",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-15",
+      "time": "08:19",
+      "publishedAt": "2026-08-15T08:19:28.000Z",
+      "url": "https://www.gizmochina.com/2026/08/15/redmi-k100-pro-max-top-5-alternatives/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/08/REDMI-K100-Pro-Max-300x193.jpg?x23692",
+      "summary": "The Redmi K100 Pro Max raises the bar for performance-focused smartphones with an unusually large battery, high-refresh-rate display, and flagship-grade hardware. However, its ava…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-f78c883f61ba",
+      "title": "竹本青：【华为Pura X Max 最新销量曝光：全系超68万台，典藏版近35.5万台】 华为 Pura X Max： ●…",
+      "source": "竹本青",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-08-15",
+      "time": "06:59",
+      "publishedAt": "2026-08-15T06:59:42.000Z",
+      "url": "https://www.coolapk.com/feed/73256789",
+      "image": "http://image.coolapk.com/feed/2026/0815/14/4248714_b67d1f10_7181_1285_245@1270x466.jpg",
+      "summary": "【华为Pura X Max 最新销量曝光：全系超68万台，典藏版近35.5万台】 华为 Pura X Max： ● 截至2026 W31 —— 约32.55万 截至2026 W30 —— 约30.47万 截至2026 W29 —— 约28.59万 截至2026 W28 —— 约26.88万 华为 Pura X Max 典藏版： ● 截至2026 W31 —…",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "酷安博主"
+      ]
+    },
     {
       "id": "auto-7ae56ca70e8c",
       "title": "小米 Poco M8x 5G 手机预热，后置双摄、金色 + 绿色外观",
@@ -163,7 +203,7 @@ window.phoneRadarAuto = {
     },
     {
       "id": "coolapk-user-66c6f5f1176a",
-      "title": "JSCHEN小小狐：『博主汇总 iQOO Neo11 至尊版参数：2K LTPS』 ◇ 6.83 英寸 2K 144Hz LTPS O…",
+      "title": "JSCHEN小小狐：iQOO Neo11 至尊版爆料参数汇总：2K LTPS",
       "source": "JSCHEN小小狐",
       "brand": "vivo",
       "model": "vivo 相关机型",
@@ -263,7 +303,7 @@ window.phoneRadarAuto = {
     },
     {
       "id": "coolapk-user-d105ef5d081f",
-      "title": "竹本青：【iQOO最强信号发射功率，Neo11 至尊版官宣搭载寰宇电竞Wi-Fi三芯片】 ● 寰宇电竞Wi-Fi三芯片，2…",
+      "title": "竹本青：iQOO Neo11 至尊版将搭载寰宇电竞Wi-Fi三芯片",
       "source": "竹本青",
       "brand": "vivo",
       "model": "vivo 相关机型",
@@ -282,88 +322,8 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-de168b9a6ee8",
-      "title": "iQOO X 概念机内部发布：骁龙 8 Elite Gen10 Pro 处理器、15000mAh 固态电池",
-      "source": "IT之家",
-      "brand": "vivo",
-      "model": "vivo 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-15",
-      "time": "01:47",
-      "publishedAt": "2026-08-15T01:47:38.000Z",
-      "url": "https://www.ithome.com/0/990/000.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/8/e36f7958-47d2-4e52-a641-6a02cd29cdff.png",
-      "summary": "IT之家 8 月 15 日消息，据博主 @闪飞 分享，iQOO 昨日内部发布了一款十周年概念机 —— iQOO X。据称，这部手机由“酷客”们参与共创。 据介绍，这款手机搭载了 骁龙 8 Elite Gen10 Pro 处理器 + 自研电竞芯片 QX 、内置 15000mAh 全固态蓝冰电池、配备 真 · 全面屏 LTPO 6.0 （支持 2K+240Hz…",
-      "tags": [
-        "vivo",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-8ce4807ba892",
-      "title": "可维修模块化手机 Fairphone 6+ 官宣 8 月 18 日发布：升级 12GB 内存",
-      "source": "IT之家",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-15",
-      "time": "01:21",
-      "publishedAt": "2026-08-15T01:21:24.000Z",
-      "url": "https://www.ithome.com/0/989/996.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/8/c5174f9a-79c0-429c-8ca7-a41524df296d.png",
-      "summary": "IT之家 8 月 15 日消息，荷兰品牌 @Fairphone 昨日（8 月 14 日）官宣将于 欧洲中部时间 8 月 18 日 13 点（北京时间 8 月 18 日 19 点）推出可维修模块化手机 Fairphone 6+。 颜色方面，IT之家此前报道，Fairphone 6+ 会有蓝色（Cobalt Blue）、黑色（Horizon Black）以及绿…",
-      "tags": [
-        "行业",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-2c2ffb35e07e",
-      "title": "谷歌拟扩展 Pixel 手机防护，反诈功能覆盖拨出电话",
-      "source": "IT之家",
-      "brand": "Pixel",
-      "model": "Pixel 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-15",
-      "time": "00:55",
-      "publishedAt": "2026-08-15T00:55:21.000Z",
-      "url": "https://www.ithome.com/0/989/990.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/8/90c20cb5-f139-4553-876b-f6696ce626ee.jpg?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 8 月 15 日消息，科技媒体 Android Authority 昨日（8 月 14 日）发布博文， 报道称谷歌计划在 Pixel 系列手机上扩展“诈骗检测”功能，覆盖用户主动拨出的电话。 IT之家注：“诈骗检测”（Scam Detection）是谷歌 Pixel 系列手机的通话安全功能，会分析电话音频，寻找可能存在的诈骗话术或行为线索。 当前…",
-      "tags": [
-        "Pixel",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-7402074c792a",
-      "title": "印度网友反馈其三星 Galaxy 手机突发起火，导致双手和大腿区域被烧伤",
-      "source": "IT之家",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-15",
-      "time": "00:44",
-      "publishedAt": "2026-08-15T00:44:47.000Z",
-      "url": "https://www.ithome.com/0/989/988.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/8/f54495d3-951d-4153-9b87-01e9d9ffecc4.png",
-      "summary": "IT之家 8 月 15 日消息，《自由新闻报》昨日（8 月 14 日）发布博文，报道称在印度大诺伊达（Greater Noida）一名男子的三星 Galaxy S 手机突发起火，导致双手、大腿区域被烧伤。 消息称该男子于 1 个月前购入这款三星 Galaxy 手机，事发时并未处于使用状态，放在裤兜里突发起火并爆炸。男子随后将其抽出，过程中导致双手和大腿部分…",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "coolapk-user-1c9b2969c103",
-      "title": "竹本青：【荣耀罗巍：明年还有一款大家没见过、甚至没有想过的产品面世】 8月15日资讯，荣耀首席影像工程师罗巍昨晚发文透露：…",
+      "title": "竹本青：荣耀罗巍：明年还有一款大家没见过、没想过的产品面世",
       "source": "竹本青",
       "brand": "HONOR",
       "model": "HONOR 相关机型",
@@ -442,7 +402,7 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-f11a8c2b4322",
+      "id": "newsnow-0ddce9c4c698",
       "title": "手机涨得快买不起了",
       "source": "微博热搜",
       "brand": "行业",
@@ -452,7 +412,7 @@ window.phoneRadarAuto = {
       "date": "2026-08-15",
       "time": "",
       "publishedAt": "",
-      "url": "https://s.weibo.com/weibo?q=%23%E6%89%8B%E6%9C%BA%E6%B6%A8%E5%BE%97%E5%BF%AB%E4%B9%B0%E4%B8%8D%E8%B5%B7%E4%BA%86%23&t=31&band_rank=9&Refer=top",
+      "url": "https://s.weibo.com/weibo?q=%23%E6%89%8B%E6%9C%BA%E6%B6%A8%E5%BE%97%E5%BF%AB%E4%B9%B0%E4%B8%8D%E8%B5%B7%E4%BA%86%23&t=31&band_rank=18&Refer=top",
       "image": "",
       "summary": "手机涨得快买不起了",
       "tags": [
@@ -779,26 +739,6 @@ window.phoneRadarAuto = {
         "iPhone",
         "爆料",
         "自动抓取"
-      ]
-    },
-    {
-      "id": "coolapk-user-5383665e86b1",
-      "title": "竹本青：【小米澎湃OS 4「柔光玻璃」材质适配名单公布：Beta期仅对部分机型适配，正式版将适配更多系列】 8月14日，小…",
-      "source": "竹本青",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-08-14",
-      "time": "15:40",
-      "publishedAt": "2026-08-14T15:40:41.000Z",
-      "url": "https://www.coolapk.com/feed/73247185",
-      "image": "http://image.coolapk.com/feed/2026/0814/23/4248714_de78264d_2040_2418_626@533x557.jpg",
-      "summary": "【小米澎湃OS 4「柔光玻璃」材质适配名单公布：Beta期仅对部分机型适配，正式版将适配更多系列】 8月14日，小米澎湃OS发布答网友问，针对「柔光玻璃」材质适配问题进行说明。 官方表示，澎湃OS 4 目前处于Beta测试阶段，显示效果与整机性能仍在调优。因此，仅对部分机型适配，后续将依据用户反馈迭代优化。 未来，澎湃OS 4 正式版面向存量机型推送后，以…",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "酷安博主"
       ]
     },
     {
