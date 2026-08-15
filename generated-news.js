@@ -1,6 +1,46 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-08-15T08:44:24.378Z",
+  "updatedAt": "2026-08-15T10:38:11.178Z",
   "news": [
+    {
+      "id": "auto-7d1a50ef46ae",
+      "title": "Pixel 11 or Pixel 10a? Here’s why the Pixel 11 really is worth $400 more",
+      "source": "Android Authority",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-15",
+      "time": "09:30",
+      "publishedAt": "2026-08-15T09:30:56.000Z",
+      "url": "https://www.androidauthority.com/pixel-11-vs-pixel-10a-3696152/",
+      "image": "",
+      "summary": "The Pixel 11 really is worth splurging for.",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-3bc0c52dad2c",
+      "title": "REDMI Turbo 5, iQOO 15, 15R, Neo 10 prices go up by up to ₹10,000",
+      "source": "Gizmochina",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-15",
+      "time": "09:02",
+      "publishedAt": "2026-08-15T09:02:38.000Z",
+      "url": "https://www.gizmochina.com/2026/08/15/redmi-turbo-5-iqoo-15-15r-neo-10-prices-go-up-by-up-to-%e2%82%b910000/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/08/afe37f3c49288b3603b4939127da9f4a-300x169.jpg?x23692",
+      "summary": "iQOO has once again raised the cost of a few of its popular models. The latest increases hit the flagship iQOO 15, along with the 15R and Neo 10, and they reflect the same industr…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-e0414a6cd9f7",
       "title": "Top 5 alternatives to the Redmi K100 Pro Max in 2026",
@@ -242,26 +282,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-80419c9d8d70",
-      "title": "亿咖通：Flyme Auto 系统 7 月装机 135,201 辆，目前累计装机量超 328 万",
-      "source": "IT之家",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-15",
-      "time": "02:56",
-      "publishedAt": "2026-08-15T02:56:07.000Z",
-      "url": "https://www.ithome.com/0/990/014.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/8/32369701-bc7c-4cf0-a3b0-90d40162abe4.jpg?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 8 月 15 日消息，亿咖通科技昨晚宣布， Flyme Auto 系统 7 月装机 135,201 辆 。 据介绍，Flyme Auto 系统 1-7 月装机量超 101.8 万。截至目前，产品累计装机量超 328.5 万。 据IT之家此前报道， 魅族 Flyme Auto 车载软件系统发布于 2023 年 3 月 ，支持无缝接力、手机辅助 OT…",
-      "tags": [
-        "行业",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "coolapk-user-3ab41c97e8ee",
       "title": "竹本青：【OriginOS 7官方爆料：“首帧交互可打断”】 立刻响应应用内的操作，不用等待动画结束。以三方应用bilib…",
       "source": "竹本青",
@@ -279,26 +299,6 @@ window.phoneRadarAuto = {
         "vivo",
         "爆料",
         "酷安博主"
-      ]
-    },
-    {
-      "id": "auto-4173338ee73e",
-      "title": "vivo OriginOS 7 系统交互可打断升级，支持全新「首帧交互可打断」技术",
-      "source": "IT之家",
-      "brand": "vivo",
-      "model": "vivo 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-15",
-      "time": "02:36",
-      "publishedAt": "2026-08-15T02:36:47.000Z",
-      "url": "https://www.ithome.com/0/990/010.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/8/7189a166-2bf5-4785-a5f5-aa8e1ba4b2a4.jpg?x-bce-process=image/auto-orient,o_1",
-      "summary": "IT之家 8 月 15 日消息， OriginOS 7 系统已于今年 7 月底开启了 Beta 内测招募 ，首批适配 vivo X300 Pro 、 vivo X Fold6 、 iQOO 15 等机型。 IT之家注意到，vivo OS 产品总监 @vivo百奇Bucky 今日发文分享，在 OriginOS 7 中，「交互可打断」又进一步， 带来了全新的「…",
-      "tags": [
-        "vivo",
-        "爆料",
-        "自动抓取"
       ]
     },
     {
@@ -402,7 +402,7 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-0ddce9c4c698",
+      "id": "newsnow-4fdf8d329484",
       "title": "手机涨得快买不起了",
       "source": "微博热搜",
       "brand": "行业",
@@ -412,29 +412,9 @@ window.phoneRadarAuto = {
       "date": "2026-08-15",
       "time": "",
       "publishedAt": "",
-      "url": "https://s.weibo.com/weibo?q=%23%E6%89%8B%E6%9C%BA%E6%B6%A8%E5%BE%97%E5%BF%AB%E4%B9%B0%E4%B8%8D%E8%B5%B7%E4%BA%86%23&t=31&band_rank=18&Refer=top",
+      "url": "https://s.weibo.com/weibo?q=%23%E6%89%8B%E6%9C%BA%E6%B6%A8%E5%BE%97%E5%BF%AB%E4%B9%B0%E4%B8%8D%E8%B5%B7%E4%BA%86%23&t=31&band_rank=19&Refer=top",
       "image": "",
       "summary": "手机涨得快买不起了",
-      "tags": [
-        "行业",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-e1f701dfe4ce",
-      "title": "手机为什么越卖越贵了",
-      "source": "百度热搜",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-15",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.baidu.com/s?wd=%E6%89%8B%E6%9C%BA%E4%B8%BA%E4%BB%80%E4%B9%88%E8%B6%8A%E5%8D%96%E8%B6%8A%E8%B4%B5%E4%BA%86",
-      "image": "",
-      "summary": "手机为什么越卖越贵了",
       "tags": [
         "行业",
         "爆料",
@@ -754,7 +734,7 @@ window.phoneRadarAuto = {
       "publishedAt": "2026-08-14T15:21:29.000Z",
       "url": "https://9to5google.com/2026/08/14/deals-pixel-11-free-google-home-speaker-legion-tab/",
       "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/08/9to5Google-Aug-14-2.webp?w=1600",
-      "summary": "The Pixel 11, 11 Pro, 11 Pro XL, and 11 Pro Fold pre-order deals continue as we approach the weekend, but only can you score a Pixel 11 Pro XL using code PIXEL11 at checkout. This…",
+      "summary": "Update: Best Buy is offering the official Qi2 25W Google Pixelsnap Charger with Stand even lower at $28.99 if you’re quick – this is the best price we have ever tracked at nearly…",
       "tags": [
         "Pixel",
         "爆料",
