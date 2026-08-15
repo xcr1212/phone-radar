@@ -1,6 +1,126 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-08-15T04:46:01.547Z",
+  "updatedAt": "2026-08-15T06:56:34.478Z",
   "news": [
+    {
+      "id": "auto-7ae56ca70e8c",
+      "title": "小米 Poco M8x 5G 手机预热，后置双摄、金色 + 绿色外观",
+      "source": "IT之家",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-15",
+      "time": "06:42",
+      "publishedAt": "2026-08-15T06:42:58.000Z",
+      "url": "https://www.ithome.com/0/990/050.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/8/373866f8-add6-493c-a0a5-1d1b9e06dca5.jpg?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 8 月 15 日消息，小米现已在海外电商平台 Flipkart 预热 Poco M8x 5G 手机， 新品预计定位中低端 ，将于后续在印度上市。 据介绍，这款手机预计将配备后置双摄和 LED 闪光灯，机身后盖为绿色设计，边框和摄像头模组则是以金色点缀，后盖底部中央还印有 Poco 品牌标识。 目前，Poco 官方暂未公布这款手机的具体上市日期、核…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-e5bbff6a7ed4",
+      "title": "iQOO Neo 11 Ultra full specifications leak days ahead of launch",
+      "source": "Gizmochina",
+      "brand": "vivo",
+      "model": "vivo 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-15",
+      "time": "05:50",
+      "publishedAt": "2026-08-15T05:50:20.000Z",
+      "url": "https://www.gizmochina.com/2026/08/15/iqoo-neo-11-ultra-full-specifications-leak-days-ahead-of-launch/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/08/iQOO-Neo-11-Ultra-color-options-300x212.jpg?x23692",
+      "summary": "The iQOO Neo 11 Ultra is almost here, and a fresh leak from tipster Digital Chat Station lays out nearly everything the phone will offer before it goes on sale on August 18 in Chi…",
+      "tags": [
+        "vivo",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-c4d58492fea6",
+      "title": "iQOO X concept phone unveiled with Snapdragon 8 Elite Gen 10 Pro, 15,000mAh battery",
+      "source": "Gizmochina",
+      "brand": "vivo",
+      "model": "vivo 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-15",
+      "time": "05:29",
+      "publishedAt": "2026-08-15T05:29:11.000Z",
+      "url": "https://www.gizmochina.com/2026/08/15/iqoo-x-concept-phone-unveiled-with-snapdragon-8-elite-gen-10-pro-15000mah-battery/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/08/IQOO-X-Concept-Phone-300x200.jpg?x23692",
+      "summary": "You know a brand is feeling confident when it starts building phones to show off what it can do. That’s exactly what iQOO is doing with its new concept device, the iQOO X. The com…",
+      "tags": [
+        "vivo",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-13cb510e897f",
+      "title": "谷歌承诺 Pixel 11 系列手机在官方销售市场提供 7 年备件支持",
+      "source": "IT之家",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-15",
+      "time": "05:21",
+      "publishedAt": "2026-08-15T05:21:06.000Z",
+      "url": "https://www.ithome.com/0/990/035.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/8/7795b79c-e9a0-4dd3-b28c-204f87284fbc.png",
+      "summary": "IT之家 8 月 15 日消息，科技媒体 smartprix 昨日（8 月 14 日）发布博文，报道称谷歌承诺和软件更新一样， Pixel 11 系列手机在所有官方销售市场均可获得 7 年备件支持。 在印度 Pixel 11 系列发布活动中，谷歌公司承诺 Pixel 11 系列手机支持 7 年的系统更新，同时在美国等所有官方销售市场上，提供 7 年备件供应…",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-4d307746909e",
+      "title": "小米 REDMI 产品经理详解澎湃 HyperOS 4 Beta 版用途，K100 Pro 系列手机确认首批升级正式版系统",
+      "source": "IT之家",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-15",
+      "time": "05:17",
+      "publishedAt": "2026-08-15T05:17:29.000Z",
+      "url": "https://www.ithome.com/0/990/034.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/8/b5ab665a-70c5-4561-b1bc-673f411ebec5.jpg?x-bce-process=image/resize,w_1200,h_801",
+      "summary": "IT之家 8 月 15 日消息，小米 REDMI 产品经理 @笋寸 今日发文再度确认，在小米澎湃 HyperOS 4 正式版更新时， REDMI K100 Pro 系列将会是首批支持机型之一。 ▲ IT之家开箱：REDMI K100 Pro 系列图赏 她还介绍了澎湃 OS Beta 版系统的用途： Beta 版的核心目的是收集用户真实场景下的反馈， 排查内…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-f6bf0f6980a6",
+      "title": "竹本青：【小米精英驾驶・国家B级赛照培训官宣：8月17日开放报名，小米车主专属价12999元】 8月17日早10:00北京…",
+      "source": "竹本青",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-08-15",
+      "time": "05:03",
+      "publishedAt": "2026-08-15T05:03:34.000Z",
+      "url": "https://www.coolapk.com/feed/73255045",
+      "image": "http://image.coolapk.com/feed/2026/0815/13/4248714_c51f9c11_0205_5238_929@1176x2506.jpg",
+      "summary": "【小米精英驾驶・国家B级赛照培训官宣：8月17日开放报名，小米车主专属价12999元】 8月17日早10:00北京站、厦门站同步开放报名 北京站：9.4-9.6金港国际赛车场（FIA 三级认证赛道） 厦门站：9.11-9.13厦门国际赛车场（FIA 四级认证赛道） 冠军教练团队、单人5小时以上赛道实操、专业赛事用车全覆盖，考核通过即可获取国家认可场地B级赛…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "酷安博主"
+      ]
+    },
     {
       "id": "auto-d4952d301173",
       "title": "小米 18 系列手机爆料：标准版延至 2027 年初发布，“妙享背屏”为 Pro 机型专属",
@@ -43,7 +163,7 @@ window.phoneRadarAuto = {
     },
     {
       "id": "coolapk-user-66c6f5f1176a",
-      "title": "JSCHEN小小狐：『博主汇总 iQOO Neo11 至尊版核心参数规格』 ◇ 6.83 英寸 2K 144Hz LTPS OLED…",
+      "title": "JSCHEN小小狐：『博主汇总 iQOO Neo11 至尊版参数：2K LTPS』 ◇ 6.83 英寸 2K 144Hz LTPS O…",
       "source": "JSCHEN小小狐",
       "brand": "vivo",
       "model": "vivo 相关机型",
@@ -54,7 +174,7 @@ window.phoneRadarAuto = {
       "publishedAt": "2026-08-15T03:23:07.000Z",
       "url": "https://www.coolapk.com/feed/73253301",
       "image": "http://image.coolapk.com/feed/2026/0815/11/4702274_4a2cc567_4185_5754_200@1440x919.jpg",
-      "summary": "『博主汇总 iQOO Neo11 至尊版核心参数规格』 ◇ 6.83 英寸 2K 144Hz LTPS OLED 直屏 ◇ 维信诺 F2 基材，手动最高 1100nits ◇ 天玑 9500M 移动平台（11 核 GPU） ◇ 自研电竞芯片 Q2，新思 S3910V 触控 ◇ 9100mAh 蓝海电池 + 100W 有线快充 ◇ 后置 50Mp 1/1.5…",
+      "summary": "『博主汇总 iQOO Neo11 至尊版参数：2K LTPS』 ◇ 6.83 英寸 2K 144Hz LTPS OLED 直屏 ◇ 维信诺 F2 基材，手动最高 1100nits ◇ 天玑 9500M 移动平台（11 核 GPU） ◇ 自研电竞芯片 Q2，新思 S3910V 触控 ◇ 9100mAh 蓝海电池 + 100W 有线快充 ◇ 后置 50Mp 1…",
       "tags": [
         "vivo",
         "爆料",
@@ -282,26 +402,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-99125f9eb334",
-      "title": "5999是买mate80promax还是k100promax",
-      "source": "酷安热榜",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-08-15",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73229716",
-      "image": "",
-      "summary": "5999是买mate80promax还是k100promax",
-      "tags": [
-        "行业",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
       "id": "newsnow-3eaba655a160",
       "title": "换皮不换Ultra，红米这波服从性测试真恶心，iPhone18ProMax是不是也可以这样学呢？继续用苹果A19Pro，一个处理器用两代，大量节约成本。",
       "source": "酷安热榜",
@@ -322,7 +422,27 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-5de05770f862",
+      "id": "newsnow-99125f9eb334",
+      "title": "5999是买mate80promax还是k100promax",
+      "source": "酷安热榜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-08-15",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/73229716",
+      "image": "",
+      "summary": "5999是买mate80promax还是k100promax",
+      "tags": [
+        "行业",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-f11a8c2b4322",
       "title": "手机涨得快买不起了",
       "source": "微博热搜",
       "brand": "行业",
@@ -332,7 +452,7 @@ window.phoneRadarAuto = {
       "date": "2026-08-15",
       "time": "",
       "publishedAt": "",
-      "url": "https://s.weibo.com/weibo?q=%23%E6%89%8B%E6%9C%BA%E6%B6%A8%E5%BE%97%E5%BF%AB%E4%B9%B0%E4%B8%8D%E8%B5%B7%E4%BA%86%23&t=31&band_rank=15&Refer=top",
+      "url": "https://s.weibo.com/weibo?q=%23%E6%89%8B%E6%9C%BA%E6%B6%A8%E5%BE%97%E5%BF%AB%E4%B9%B0%E4%B8%8D%E8%B5%B7%E4%BA%86%23&t=31&band_rank=9&Refer=top",
       "image": "",
       "summary": "手机涨得快买不起了",
       "tags": [
@@ -342,8 +462,8 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-1b23e99f0331",
-      "title": "大规模涨价 手机快买不起了",
+      "id": "newsnow-e1f701dfe4ce",
+      "title": "手机为什么越卖越贵了",
       "source": "百度热搜",
       "brand": "行业",
       "model": "智能手机市场",
@@ -352,53 +472,13 @@ window.phoneRadarAuto = {
       "date": "2026-08-15",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.baidu.com/s?wd=%E5%A4%A7%E8%A7%84%E6%A8%A1%E6%B6%A8%E4%BB%B7+%E6%89%8B%E6%9C%BA%E5%BF%AB%E4%B9%B0%E4%B8%8D%E8%B5%B7%E4%BA%86",
+      "url": "https://www.baidu.com/s?wd=%E6%89%8B%E6%9C%BA%E4%B8%BA%E4%BB%80%E4%B9%88%E8%B6%8A%E5%8D%96%E8%B6%8A%E8%B4%B5%E4%BA%86",
       "image": "",
-      "summary": "大规模涨价 手机快买不起了",
+      "summary": "手机为什么越卖越贵了",
       "tags": [
         "行业",
         "爆料",
         "NewsNow"
-      ]
-    },
-    {
-      "id": "auto-cf5b508bc06a",
-      "title": "苹果在意大利撤下“幼儿手持 iPhone”争议宣传海报",
-      "source": "IT之家",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-14",
-      "time": "23:59",
-      "publishedAt": "2026-08-14T23:59:33.000Z",
-      "url": "https://www.ithome.com/0/989/982.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/8/779e7450-a9b6-4130-8c71-2658e919ace9.jpg?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 8 月 15 日消息，科技媒体 AppleInsider 昨日（8 月 14 日）发布博文， 报道称因被指控倡导“电子保姆”行为给幼儿使用 iPhone，苹果公司在意大利米兰撤下了争议广告。 IT之家此前报道，该广告牌画面显示 1 名幼儿手持 iPhone，并配有标语“Tutto ok, è iPhone”（都没事，是 iPhone）。 该广告属…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-76bb68e001ee",
-      "title": "荣耀罗巍：明年还有一款大家没见过甚至没有想过的产品面世",
-      "source": "IT之家",
-      "brand": "HONOR",
-      "model": "HONOR 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-14",
-      "time": "23:17",
-      "publishedAt": "2026-08-14T23:17:14.000Z",
-      "url": "https://www.ithome.com/0/989/974.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/8/060b7329-d75a-41c9-abdd-848b1ac0beb9.png?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 8 月 15 日消息，荣耀首席影像工程师罗巍昨晚分享了自己 2018 年 3 月为华为 P20 手机写下的一篇总结文章，他表示后面会给 Robot Phone 再写一篇。 另外，罗巍透露， 明年还有一款大家没见过甚至没有想过的产品面世 。 据IT之家此前报道，今年 7 月底，罗巍曾发文表示，整个移动影像行业近几年都在默认的框架里循环内卷。他认为，…",
-      "tags": [
-        "HONOR",
-        "爆料",
-        "自动抓取"
       ]
     },
     {

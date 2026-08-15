@@ -1,14 +1,14 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-08-15T04:46:01.547Z",
+  "updatedAt": "2026-08-15T06:56:34.478Z",
   "issueDate": "2026-08-15",
   "issue": "VOL.260815",
   "title": "手机情报日报",
-  "intro": "今日筛出 9 条重点，其中 8 条是重点爆料，包含 5 条 iPhone 相关、1 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 8 条重点，其中 8 条是重点爆料，包含 3 条 iPhone 相关、0 条官方确认、0 条参数线索。",
   "stats": {
-    "total": 9,
-    "iphone": 5,
+    "total": 8,
+    "iphone": 3,
     "leaks": 8,
-    "official": 1,
+    "official": 0,
     "specs": 0
   },
   "sections": [
@@ -17,29 +17,6 @@ window.phoneRadarDaily = {
       "title": "重点爆料",
       "hint": "机模、配色、影像、屏幕、电池和芯片线索先看。",
       "items": [
-        {
-          "id": "auto-cf5b508bc06a",
-          "title": "苹果在意大利撤下“幼儿手持 iPhone”争议宣传海报",
-          "originalTitle": "",
-          "source": "IT之家",
-          "brand": "iPhone",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-08-14",
-          "time": "23:59",
-          "publishedAt": "2026-08-14T23:59:33.000Z",
-          "url": "https://www.ithome.com/0/989/982.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/8/779e7450-a9b6-4130-8c71-2658e919ace9.jpg?x-bce-process=image/format,f_auto",
-          "verdict": "先看",
-          "takeaway": "IT之家 8 月 15 日消息，科技媒体 AppleInsider 昨日（8 月 14 日）发布博文， 报道称因被指控倡导“电子保姆”行为给幼儿使用 iPhone，苹果公司在意大利米兰撤下了争议广告。 IT之家此前报道，该广告牌画面显示 1 名幼儿手持 iPhone，并配有标语“Tutto ok, è iPhone”（都没事，是 iPhone）。 该广告属…",
-          "detail": "IT之家 8 月 15 日消息，科技媒体 AppleInsider 昨日（8 月 14 日）发布博文， 报道称因被指控倡导“电子保姆”行为给幼儿使用 iPhone，苹果公司在意大利米兰撤下了争议广告。 IT之家此前报道，该广告牌画面显示 1 名幼儿手持 iPhone，并配有标语“Tutto ok, è iPhone”（都没事，是 iPhone）。 该广告属…",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
         {
           "id": "newsnow-3eaba655a160",
           "title": "换皮不换Ultra，红米这波服从性测试真恶心，iPhone18ProMax是不是也可以这样学呢？继续用苹果A19Pro，一个处理器用两代，大量节约成本。",
@@ -111,6 +88,75 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
+          "id": "auto-7ae56ca70e8c",
+          "title": "小米 Poco M8x 5G 手机预热，后置双摄、金色 + 绿色外观",
+          "originalTitle": "",
+          "source": "IT之家",
+          "brand": "Xiaomi",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-08-15",
+          "time": "06:42",
+          "publishedAt": "2026-08-15T06:42:58.000Z",
+          "url": "https://www.ithome.com/0/990/050.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/8/373866f8-add6-493c-a0a5-1d1b9e06dca5.jpg?x-bce-process=image/format,f_auto",
+          "verdict": "先看",
+          "takeaway": "IT之家 8 月 15 日消息，小米现已在海外电商平台 Flipkart 预热 Poco M8x 5G 手机， 新品预计定位中低端 ，将于后续在印度上市。 据介绍，这款手机预计将配备后置双摄和 LED 闪光灯，机身后盖为绿色设计，边框和摄像头模组则是以金色点缀，后盖底部中央还印有 Poco 品牌标识。 目前，Poco 官方暂未公布这款手机的具体上市日期、核…",
+          "detail": "IT之家 8 月 15 日消息，小米现已在海外电商平台 Flipkart 预热 Poco M8x 5G 手机， 新品预计定位中低端 ，将于后续在印度上市。 据介绍，这款手机预计将配备后置双摄和 LED 闪光灯，机身后盖为绿色设计，边框和摄像头模组则是以金色点缀，后盖底部中央还印有 Poco 品牌标识。 目前，Poco 官方暂未公布这款手机的具体上市日期、核…",
+          "keyPoints": [
+            "外观 / 配色 / 尺寸"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "auto-13cb510e897f",
+          "title": "谷歌承诺 Pixel 11 系列手机在官方销售市场提供 7 年备件支持",
+          "originalTitle": "",
+          "source": "IT之家",
+          "brand": "Pixel",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-08-15",
+          "time": "05:21",
+          "publishedAt": "2026-08-15T05:21:06.000Z",
+          "url": "https://www.ithome.com/0/990/035.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/8/7795b79c-e9a0-4dd3-b28c-204f87284fbc.png",
+          "verdict": "先看",
+          "takeaway": "IT之家 8 月 15 日消息，科技媒体 smartprix 昨日（8 月 14 日）发布博文，报道称谷歌承诺和软件更新一样， Pixel 11 系列手机在所有官方销售市场均可获得 7 年备件支持。 在印度 Pixel 11 系列发布活动中，谷歌公司承诺 Pixel 11 系列手机支持 7 年的系统更新，同时在美国等所有官方销售市场上，提供 7 年备件供应…",
+          "detail": "IT之家 8 月 15 日消息，科技媒体 smartprix 昨日（8 月 14 日）发布博文，报道称谷歌承诺和软件更新一样， Pixel 11 系列手机在所有官方销售市场均可获得 7 年备件支持。 在印度 Pixel 11 系列发布活动中，谷歌公司承诺 Pixel 11 系列手机支持 7 年的系统更新，同时在美国等所有官方销售市场上，提供 7 年备件供应…",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "auto-4d307746909e",
+          "title": "小米 REDMI 产品经理详解澎湃 HyperOS 4 Beta 版用途，K100 Pro 系列手机确认首批升级正式版系统",
+          "originalTitle": "",
+          "source": "IT之家",
+          "brand": "Xiaomi",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-08-15",
+          "time": "05:17",
+          "publishedAt": "2026-08-15T05:17:29.000Z",
+          "url": "https://www.ithome.com/0/990/034.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/8/b5ab665a-70c5-4561-b1bc-673f411ebec5.jpg?x-bce-process=image/resize,w_1200,h_801",
+          "verdict": "先看",
+          "takeaway": "IT之家 8 月 15 日消息，小米 REDMI 产品经理 @笋寸 今日发文再度确认，在小米澎湃 HyperOS 4 正式版更新时， REDMI K100 Pro 系列将会是首批支持机型之一。 ▲ IT之家开箱：REDMI K100 Pro 系列图赏 她还介绍了澎湃 OS Beta 版系统的用途： Beta 版的核心目的是收集用户真实场景下的反馈， 排查内…",
+          "detail": "IT之家 8 月 15 日消息，小米 REDMI 产品经理 @笋寸 今日发文再度确认，在小米澎湃 HyperOS 4 正式版更新时， REDMI K100 Pro 系列将会是首批支持机型之一。 ▲ IT之家开箱：REDMI K100 Pro 系列图赏 她还介绍了澎湃 OS Beta 版系统的用途： Beta 版的核心目的是收集用户真实场景下的反馈， 排查内…",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
           "id": "auto-d4952d301173",
           "title": "小米 18 系列手机爆料：标准版延至 2027 年初发布，“妙享背屏”为 Pro 机型专属",
           "originalTitle": "",
@@ -157,83 +203,6 @@ window.phoneRadarDaily = {
           "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "auto-de168b9a6ee8",
-          "title": "iQOO X 概念机内部发布：骁龙 8 Elite Gen10 Pro 处理器、15000mAh 固态电池",
-          "originalTitle": "",
-          "source": "IT之家",
-          "brand": "vivo",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-08-15",
-          "time": "01:47",
-          "publishedAt": "2026-08-15T01:47:38.000Z",
-          "url": "https://www.ithome.com/0/990/000.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/8/e36f7958-47d2-4e52-a641-6a02cd29cdff.png",
-          "verdict": "先看",
-          "takeaway": "IT之家 8 月 15 日消息，据博主 @闪飞 分享，iQOO 昨日内部发布了一款十周年概念机 —— iQOO X。据称，这部手机由“酷客”们参与共创。 据介绍，这款手机搭载了 骁龙 8 Elite Gen10 Pro 处理器 + 自研电竞芯片 QX 、内置 15000mAh 全固态蓝冰电池、配备 真 · 全面屏 LTPO 6.0 （支持 2K+240Hz…",
-          "detail": "IT之家 8 月 15 日消息，据博主 @闪飞 分享，iQOO 昨日内部发布了一款十周年概念机 —— iQOO X。据称，这部手机由“酷客”们参与共创。 据介绍，这款手机搭载了 骁龙 8 Elite Gen10 Pro 处理器 + 自研电竞芯片 QX 、内置 15000mAh 全固态蓝冰电池、配备 真 · 全面屏 LTPO 6.0 （支持 2K+240Hz…",
-          "keyPoints": [
-            "电池 / 充电",
-            "芯片 / 性能"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "auto-2c2ffb35e07e",
-          "title": "谷歌拟扩展 Pixel 手机防护，反诈功能覆盖拨出电话",
-          "originalTitle": "",
-          "source": "IT之家",
-          "brand": "Pixel",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-08-15",
-          "time": "00:55",
-          "publishedAt": "2026-08-15T00:55:21.000Z",
-          "url": "https://www.ithome.com/0/989/990.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/8/90c20cb5-f139-4553-876b-f6696ce626ee.jpg?x-bce-process=image/format,f_auto",
-          "verdict": "先看",
-          "takeaway": "IT之家 8 月 15 日消息，科技媒体 Android Authority 昨日（8 月 14 日）发布博文， 报道称谷歌计划在 Pixel 系列手机上扩展“诈骗检测”功能，覆盖用户主动拨出的电话。 IT之家注：“诈骗检测”（Scam Detection）是谷歌 Pixel 系列手机的通话安全功能，会分析电话音频，寻找可能存在的诈骗话术或行为线索。 当前…",
-          "detail": "IT之家 8 月 15 日消息，科技媒体 Android Authority 昨日（8 月 14 日）发布博文， 报道称谷歌计划在 Pixel 系列手机上扩展“诈骗检测”功能，覆盖用户主动拨出的电话。 IT之家注：“诈骗检测”（Scam Detection）是谷歌 Pixel 系列手机的通话安全功能，会分析电话音频，寻找可能存在的诈骗话术或行为线索。 当前…",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        }
-      ]
-    },
-    {
-      "id": "iphone",
-      "title": "iPhone 重点",
-      "hint": "不是硬件爆料，但和 iPhone 体验或路线有关。",
-      "items": [
-        {
-          "id": "auto-9bbf43c61c96",
-          "title": "iPhone 系统功能 / AI 体验相关消息",
-          "originalTitle": "",
-          "source": "Apple Newsroom",
-          "brand": "iPhone",
-          "type": "官方",
-          "trust": "官方确认",
-          "date": "2026-08-15",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://www.apple.com/newsroom/2026/06/apple-announces-changes-to-ios-in-brazil/",
-          "image": "",
-          "verdict": "先看",
-          "takeaway": "iPhone 系统功能 / AI 体验相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
-          "detail": "iPhone 系统功能 / AI 体验相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
-          "keyPoints": [
-            "官方"
-          ],
-          "confidence": "官方内容，可直接作为已确认信息记录。",
-          "impact": "可信度高，但如果不是配置/价格消息，只需要扫一眼。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         }
       ]
     }
