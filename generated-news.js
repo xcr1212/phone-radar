@@ -1,5 +1,5 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-08-16T04:49:13.184Z",
+  "updatedAt": "2026-08-16T06:57:47.645Z",
   "news": [
     {
       "id": "auto-fe537f231d93",
@@ -242,6 +242,26 @@ window.phoneRadarAuto = {
       ]
     },
     {
+      "id": "newsnow-7a9b14ef6f1a",
+      "title": "老规矩，这四台手机都在手，有问题随便问",
+      "source": "酷安热榜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-08-16",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/73265419",
+      "image": "",
+      "summary": "老规矩，这四台手机都在手，有问题随便问",
+      "tags": [
+        "行业",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
       "id": "newsnow-efcfbafc799e",
       "title": "买这家四五次了，都不带踩雷的，要的就是这种瓦楞磨砂透白的手机壳，还是一如既往的舒服的手感，不用担心手机壳油腻的感觉，这个手机壳最大的优点就是不硬其次就是不顶膜！！！像那种全覆盖的膜不会顶，因为没有做收边处理。",
       "source": "酷安热榜",
@@ -262,7 +282,27 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-564453a14a72",
+      "id": "newsnow-43c74a05de30",
+      "title": "张睿一看手机天又塌了",
+      "source": "微博热搜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "待验证",
+      "date": "2026-08-16",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://s.weibo.com/weibo?q=%23%E5%BC%A0%E7%9D%BF%E4%B8%80%E7%9C%8B%E6%89%8B%E6%9C%BA%E5%A4%A9%E5%8F%88%E5%A1%8C%E4%BA%86%23&t=31&band_rank=4&Refer=top",
+      "image": "",
+      "summary": "张睿一看手机天又塌了",
+      "tags": [
+        "行业",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-338878b9a809",
       "title": "手机涨价何时是个头",
       "source": "微博热搜",
       "brand": "行业",
@@ -272,7 +312,27 @@ window.phoneRadarAuto = {
       "date": "2026-08-16",
       "time": "",
       "publishedAt": "",
-      "url": "https://s.weibo.com/weibo?q=%23%E6%89%8B%E6%9C%BA%E6%B6%A8%E4%BB%B7%E4%BD%95%E6%97%B6%E6%98%AF%E4%B8%AA%E5%A4%B4%23&t=31&band_rank=20&Refer=top",
+      "url": "https://s.weibo.com/weibo?q=%23%E6%89%8B%E6%9C%BA%E6%B6%A8%E4%BB%B7%E4%BD%95%E6%97%B6%E6%98%AF%E4%B8%AA%E5%A4%B4%23&t=31&band_rank=30&Refer=top",
+      "image": "",
+      "summary": "手机涨价何时是个头",
+      "tags": [
+        "行业",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-1ffa99cab3db",
+      "title": "手机涨价何时是个头",
+      "source": "百度热搜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-16",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.baidu.com/s?wd=%E6%89%8B%E6%9C%BA%E6%B6%A8%E4%BB%B7%E4%BD%95%E6%97%B6%E6%98%AF%E4%B8%AA%E5%A4%B4",
       "image": "",
       "summary": "手机涨价何时是个头",
       "tags": [
@@ -442,26 +502,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-fa61b398e0d9",
-      "title": "Honor’s iconic center camera design to retire with Magic 9 flagship",
-      "source": "Huawei Central",
-      "brand": "HONOR",
-      "model": "HONOR 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-15",
-      "time": "11:22",
-      "publishedAt": "2026-08-15T11:22:20.000Z",
-      "url": "https://www.huaweicentral.com/honors-iconic-center-camera-design-to-retire-with-magic-9-flagship/",
-      "image": "https://www.huaweicentral.com/wp-content/uploads/2026/08/Magic-9-camera.jpg",
-      "summary": "Almost a decade ago, Honor introduced the Magic 3 series with what became a signature look for the company’s flagship phones: a centrally placed camera bump. And this fall, with H…",
-      "tags": [
-        "HONOR",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-a6fb29772dc6",
       "title": "Is the Pixel 11’s Tensor G6 actually a good upgrade from the G5? I crunched the numbers",
       "source": "Android Authority",
@@ -502,26 +542,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-9f17057790df",
-      "title": "Huawei Pura 90 series to soon introduce a budget-friendly option",
-      "source": "Huawei Central",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-15",
-      "time": "10:23",
-      "publishedAt": "2026-08-15T10:23:11.000Z",
-      "url": "https://www.huaweicentral.com/huawei-pura-90-series-to-soon-introduce-a-budget-friendly-option/",
-      "image": "https://www.huaweicentral.com/wp-content/uploads/2026/04/Pura90-Pro.jpg",
-      "summary": "When Huawei unveiled the Pura 90 series in April this year, it brought three models – Standard, Pro, and Pro Max, though it seems the company is now up with a budget-friendly opti…",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-7d1a50ef46ae",
       "title": "Pixel 11 or Pixel 10a? Here’s why the Pixel 11 really is worth $400 more",
       "source": "Android Authority",
@@ -537,26 +557,6 @@ window.phoneRadarAuto = {
       "summary": "The Pixel 11 really is worth splurging for.",
       "tags": [
         "Pixel",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-6c02f03e2ecf",
-      "title": "Honor plans to boost mobile gaming with 12000mAh battery",
-      "source": "Huawei Central",
-      "brand": "HONOR",
-      "model": "HONOR 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-15",
-      "time": "09:07",
-      "publishedAt": "2026-08-15T09:07:30.000Z",
-      "url": "https://www.huaweicentral.com/honor-plans-to-boost-mobile-gaming-with-12000mah-battery/",
-      "image": "https://www.huaweicentral.com/wp-content/uploads/2026/07/Honor-WIN-Series.jpg",
-      "summary": "As we approach the official launch timeframe of the Magic 9 series, Honor began the trial production of a 12000mAh battery, targeting the mobile gaming experience. And it seems th…",
-      "tags": [
-        "HONOR",
         "爆料",
         "自动抓取"
       ]
