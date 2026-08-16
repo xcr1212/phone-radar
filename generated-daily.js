@@ -1,15 +1,15 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-08-16T01:56:16.387Z",
+  "updatedAt": "2026-08-16T03:12:01.358Z",
   "issueDate": "2026-08-16",
   "issue": "VOL.260816",
   "title": "手机情报日报",
-  "intro": "今日筛出 20 条重点，其中 7 条是重点爆料，包含 4 条 iPhone 相关、1 条官方确认、1 条参数线索。",
+  "intro": "今日筛出 20 条重点，其中 8 条是重点爆料，包含 4 条 iPhone 相关、1 条官方确认、0 条参数线索。",
   "stats": {
     "total": 20,
     "iphone": 4,
-    "leaks": 7,
+    "leaks": 8,
     "official": 1,
-    "specs": 1
+    "specs": 0
   },
   "sections": [
     {
@@ -17,6 +17,29 @@ window.phoneRadarDaily = {
       "title": "重点爆料",
       "hint": "机模、配色、影像、屏幕、电池和芯片线索先看。",
       "items": [
+        {
+          "id": "auto-ced2e21d574b",
+          "title": "iQOO Neo11 至尊版手机官宣搭载 5000 万像素索尼超防抖大底主摄",
+          "originalTitle": "",
+          "source": "IT之家",
+          "brand": "vivo",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-08-16",
+          "time": "02:12",
+          "publishedAt": "2026-08-16T02:12:02.000Z",
+          "url": "https://www.ithome.com/0/990/243.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/8/e3ebae79-4be3-4c72-9bff-3a60bd68472a.png",
+          "verdict": "先看",
+          "takeaway": "IT之家 8 月 16 日消息，iQOO 官方今日宣布， iQOO Neo11 至尊版将搭载 5000 万像素索尼超防抖大底主摄 ，支持光学防抖、人眼仿生技术和全新原生光影。 另外，iQOO Neo11 至尊版手机的 Live Photo 功能也迎来全面升级，画质更高， 同时还支持防抖、美颜和滤镜等功能 。 据IT之家此前报道，iQOO Neo11 至尊版…",
+          "detail": "IT之家 8 月 16 日消息，iQOO 官方今日宣布， iQOO Neo11 至尊版将搭载 5000 万像素索尼超防抖大底主摄 ，支持光学防抖、人眼仿生技术和全新原生光影。 另外，iQOO Neo11 至尊版手机的 Live Photo 功能也迎来全面升级，画质更高， 同时还支持防抖、美颜和滤镜等功能 。 据IT之家此前报道，iQOO Neo11 至尊版…",
+          "keyPoints": [
+            "影像硬件"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
         {
           "id": "auto-15f7a5d2f6ba",
           "title": "三星 Galaxy S26 FE 第三方手机壳渲染图曝光，直观展示机身外观设计",
@@ -286,32 +309,32 @@ window.phoneRadarDaily = {
       ]
     },
     {
-      "id": "specs",
-      "title": "参数、跑分、认证",
-      "hint": "适合验证芯片、屏幕、影像和电池。",
+      "id": "launch",
+      "title": "新机与官方发布",
+      "hint": "能直接更新到参数库。",
       "items": [
         {
-          "id": "auto-a6fb29772dc6",
-          "title": "Pixel 11 芯片 / 性能相关消息",
+          "id": "auto-5a6ac9849398",
+          "title": "王晓雁庆祝小米手机迎来 15 周岁生日：2011 年 8 月 16 日初代机型发布",
           "originalTitle": "",
-          "source": "Android Authority",
-          "brand": "Pixel",
+          "source": "IT之家",
+          "brand": "Xiaomi",
           "type": "爆料",
           "trust": "媒体汇总",
-          "date": "2026-08-15",
-          "time": "11:00",
-          "publishedAt": "2026-08-15T11:00:22.000Z",
-          "url": "https://www.androidauthority.com/tensor-g6-deep-dive-3695968/",
-          "image": "",
-          "verdict": "可略过",
-          "takeaway": "Pixel 芯片或连接能力相关线索，可能影响性能和续航判断。",
-          "detail": "Pixel 11 芯片 / 性能相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
+          "date": "2026-08-16",
+          "time": "02:03",
+          "publishedAt": "2026-08-16T02:03:19.000Z",
+          "url": "https://www.ithome.com/0/990/241.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/8/6dbd0560-b5ed-49e8-9327-a5d7e4e11f6a.jpg?x-bce-process=image/format,f_auto",
+          "verdict": "先看",
+          "takeaway": "IT之家 8 月 16 日消息，小米集团高级副总裁、中国区总裁王晓雁今日发文表示：“今天是小米手机的生日，一起祝小米手机 15 岁生日快乐。” 公开信息显示，北京小米科技有限公司于 2010 年 4 月 6 日正式成立，最初办公地点位于银谷大厦。同年 8 月，小米推出内测版 MIUI 系统；2011 年 8 月 16 日，初代小米手机在北京发布，售价 19…",
+          "detail": "IT之家 8 月 16 日消息，小米集团高级副总裁、中国区总裁王晓雁今日发文表示：“今天是小米手机的生日，一起祝小米手机 15 岁生日快乐。” 公开信息显示，北京小米科技有限公司于 2010 年 4 月 6 日正式成立，最初办公地点位于银谷大厦。同年 8 月，小米推出内测版 MIUI 系统；2011 年 8 月 16 日，初代小米手机在北京发布，售价 19…",
           "keyPoints": [
-            "芯片 / 性能"
+            "成本 / 价格"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "影响性能和寿命判断，适合放进参数库。",
-          "action": "有具体参数就记录到参数库；没有参数就先收藏。"
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "中文源可以直接点开快读；看完只保留和购机有关的点。"
         }
       ]
     },
@@ -338,29 +361,6 @@ window.phoneRadarDaily = {
           "detail": "Samsung 折叠屏相关消息。重点看折痕、铰链、厚度、屏幕可靠性和重量是否有实质改善。",
           "keyPoints": [
             "评测"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是实际体验内容，买前适合重点看缺点和取舍。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
-        {
-          "id": "auto-1574963763c9",
-          "title": "Pixel 11 a 屏幕规格相关消息",
-          "originalTitle": "",
-          "source": "Android Central",
-          "brand": "Pixel",
-          "type": "评测",
-          "trust": "媒体汇总",
-          "date": "2026-08-15",
-          "time": "10:45",
-          "publishedAt": "2026-08-15T10:45:56.000Z",
-          "url": "https://www.androidcentral.com/accessories/cases-screen-protectors/best-google-pixel-11-and-pixel-11-pro-screen-protectors",
-          "image": "https://cdn.mos.cms.futurecdn.net/EmyZt9zsrrCYiqBmqJ4yih-1280-80.jpg",
-          "verdict": "可略过",
-          "takeaway": "Pixel 11 a 屏幕规格相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
-          "detail": "Pixel 11 a 屏幕规格相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
-          "keyPoints": [
-            "屏幕形态"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是实际体验内容，买前适合重点看缺点和取舍。",
@@ -412,6 +412,29 @@ window.phoneRadarDaily = {
           "verdict": "扫一眼",
           "takeaway": "移植机型：REDMI K90 4.0.0.18.XPKCNXM",
           "detail": "移植机型：REDMI K90 4.0.0.18.XPKCNXM",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        },
+        {
+          "id": "newsnow-efcfbafc799e",
+          "title": "买这家四五次了，都不带踩雷的，要的就是这种瓦楞磨砂透白的手机壳，还是一如既往的舒服的手感，不用担心手机壳油腻的感觉，这个手机壳最大的优点就是不硬其次就是不顶膜！！！像那种全覆盖的膜不会顶，因为没有做收边处理。",
+          "originalTitle": "",
+          "source": "酷安热榜",
+          "brand": "行业",
+          "type": "爆料",
+          "trust": "高关注爆料源",
+          "date": "2026-08-16",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://www.coolapk.com/feed/73257982",
+          "image": "",
+          "verdict": "扫一眼",
+          "takeaway": "买这家四五次了，都不带踩雷的，要的就是这种瓦楞磨砂透白的手机壳，还是一如既往的舒服的手感，不用担心手机壳油腻的感觉，这个手机壳最大的优点就是不硬其次就是不顶膜！！！像那种全覆盖的膜不会顶，因为没有做收边处理。",
+          "detail": "买这家四五次了，都不带踩雷的，要的就是这种瓦楞磨砂透白的手机壳，还是一如既往的舒服的手感，不用担心手机壳油腻的感觉，这个手机壳最大的优点就是不硬其次就是不顶膜！！！像那种全覆盖的膜不会顶，因为没有做收边处理。",
           "keyPoints": [
             "爆料"
           ],
@@ -486,29 +509,6 @@ window.phoneRadarDaily = {
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
-        {
-          "id": "auto-b5476cb91be3",
-          "title": "Galaxy S26 Ultra 屏幕规格相关消息",
-          "originalTitle": "",
-          "source": "Android Police",
-          "brand": "Samsung",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-08-15",
-          "time": "17:30",
-          "publishedAt": "2026-08-15T17:30:28.000Z",
-          "url": "https://www.androidpolice.com/samsung-galaxy-s26-ultra-tempered-glass-screen-protector-3-deal/",
-          "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2026/05/samsung-galaxy-s26-ultra-smashed-screen-1.jpg",
-          "verdict": "可略过",
-          "takeaway": "Galaxy S26 Ultra 屏幕规格相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
-          "detail": "Galaxy S26 Ultra 屏幕规格相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
-          "keyPoints": [
-            "屏幕形态"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "影响手感和显示体验，适合和其他机型对比。",
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         }
       ]
