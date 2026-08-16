@@ -1,15 +1,15 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-08-16T16:40:45.274Z",
+  "updatedAt": "2026-08-16T18:46:00.799Z",
   "issueDate": "2026-08-16",
   "issue": "VOL.260816",
   "title": "手机情报日报",
-  "intro": "今日筛出 19 条重点，其中 6 条是重点爆料，包含 4 条 iPhone 相关、1 条官方确认、1 条参数线索。",
+  "intro": "今日筛出 18 条重点，其中 6 条是重点爆料，包含 4 条 iPhone 相关、1 条官方确认、0 条参数线索。",
   "stats": {
-    "total": 19,
+    "total": 18,
     "iphone": 4,
     "leaks": 6,
     "official": 1,
-    "specs": 1
+    "specs": 0
   },
   "sections": [
     {
@@ -289,65 +289,28 @@ window.phoneRadarDaily = {
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        }
-      ]
-    },
-    {
-      "id": "specs",
-      "title": "参数、跑分、认证",
-      "hint": "适合验证芯片、屏幕、影像和电池。",
-      "items": [
+        },
         {
-          "id": "auto-a6fb29772dc6",
-          "title": "Pixel 11 芯片 / 性能相关消息",
+          "id": "auto-ff154b7d769a",
+          "title": "Huawei 折叠屏相关消息",
           "originalTitle": "",
-          "source": "Android Authority",
-          "brand": "Pixel",
+          "source": "Huawei Central",
+          "brand": "Huawei",
           "type": "爆料",
           "trust": "媒体汇总",
-          "date": "2026-08-15",
-          "time": "11:00",
-          "publishedAt": "2026-08-15T11:00:22.000Z",
-          "url": "https://www.androidauthority.com/tensor-g6-deep-dive-3695968/",
+          "date": "2026-08-16",
+          "time": "06:41",
+          "publishedAt": "2026-08-16T06:41:22.000Z",
+          "url": "https://www.huaweicentral.com/apples-foldable-iphone-will-form-a-competition-with-huawei-and-samsung/",
           "image": "",
           "verdict": "可略过",
-          "takeaway": "Pixel 芯片或连接能力相关线索，可能影响性能和续航判断。",
-          "detail": "Pixel 11 芯片 / 性能相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
+          "takeaway": "Huawei 折叠屏相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
+          "detail": "Huawei 折叠屏相关消息。重点看折痕、铰链、厚度、屏幕可靠性和重量是否有实质改善。",
           "keyPoints": [
-            "芯片 / 性能"
+            "爆料"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "影响性能和寿命判断，适合放进参数库。",
-          "action": "有具体参数就记录到参数库；没有参数就先收藏。"
-        }
-      ]
-    },
-    {
-      "id": "review",
-      "title": "评测与体验",
-      "hint": "买前再细看，平时扫一眼即可。",
-      "items": [
-        {
-          "id": "auto-1574963763c9",
-          "title": "Pixel 11 a 屏幕规格相关消息",
-          "originalTitle": "",
-          "source": "Android Central",
-          "brand": "Pixel",
-          "type": "评测",
-          "trust": "媒体汇总",
-          "date": "2026-08-15",
-          "time": "10:45",
-          "publishedAt": "2026-08-15T10:45:56.000Z",
-          "url": "https://www.androidcentral.com/accessories/cases-screen-protectors/best-google-pixel-11-and-pixel-11-pro-screen-protectors",
-          "image": "https://cdn.mos.cms.futurecdn.net/EmyZt9zsrrCYiqBmqJ4yih-1280-80.jpg",
-          "verdict": "可略过",
-          "takeaway": "Pixel 11 a 屏幕规格相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
-          "detail": "Pixel 11 a 屏幕规格相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
-          "keyPoints": [
-            "屏幕形态"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是实际体验内容，买前适合重点看缺点和取舍。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         }
       ]

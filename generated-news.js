@@ -1,5 +1,5 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-08-16T16:40:45.274Z",
+  "updatedAt": "2026-08-16T18:46:00.799Z",
   "news": [
     {
       "id": "auto-60f864d30f81",
@@ -137,6 +137,46 @@ window.phoneRadarAuto = {
       "summary": "Xiaomi has reportedly pulled the plug on the Xiaomi 18 Ultra, and you might see the word Ultra disappear from a lot more Chinese flagships next year. Words for this come from tips…",
       "tags": [
         "Xiaomi",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-b3eb7564b39e",
+      "title": "Standard Huawei Mate 90 to bring performance upgrade with Kirin 9030 chip",
+      "source": "Huawei Central",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-16",
+      "time": "07:29",
+      "publishedAt": "2026-08-16T07:29:51.000Z",
+      "url": "https://www.huaweicentral.com/standard-huawei-mate-90-to-bring-performance-upgrade-with-kirin-9030-chip/",
+      "image": "",
+      "summary": "Huawei Mate 90 series is coming, and its standard version will upgrade performance thanks to the new Kirin 9030 chipset, which the Kirin 9020 used in the standard Mate 80. Accordi…",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-ff154b7d769a",
+      "title": "Apple’s foldable iPhone will form a competition with Huawei and Samsung",
+      "source": "Huawei Central",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-16",
+      "time": "06:41",
+      "publishedAt": "2026-08-16T06:41:22.000Z",
+      "url": "https://www.huaweicentral.com/apples-foldable-iphone-will-form-a-competition-with-huawei-and-samsung/",
+      "image": "",
+      "summary": "Apple’s first foldable iPhone will launch in September, competing against Huawei and Samsung, two of the biggest foldable smartphone-selling companies. Digital FixedFocus said tha…",
+      "tags": [
+        "Huawei",
         "爆料",
         "自动抓取"
       ]
@@ -342,6 +382,26 @@ window.phoneRadarAuto = {
       ]
     },
     {
+      "id": "newsnow-ef4c263be2af",
+      "title": "手机消费毁了逛街和创造力吗",
+      "source": "百度热搜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-16",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.baidu.com/s?wd=%E6%89%8B%E6%9C%BA%E6%B6%88%E8%B4%B9%E6%AF%81%E4%BA%86%E9%80%9B%E8%A1%97%E5%92%8C%E5%88%9B%E9%80%A0%E5%8A%9B%E5%90%97",
+      "image": "",
+      "summary": "手机消费毁了逛街和创造力吗",
+      "tags": [
+        "行业",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
       "id": "auto-2bc0783c4e22",
       "title": "4 reasons why you should buy a Galaxy Z Fold 8, and 4 reasons why you should skip it",
       "source": "Android Central",
@@ -422,6 +482,26 @@ window.phoneRadarAuto = {
       ]
     },
     {
+      "id": "auto-fa61b398e0d9",
+      "title": "Honor’s iconic center camera design to retire with Magic 9 flagship",
+      "source": "Huawei Central",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-15",
+      "time": "11:22",
+      "publishedAt": "2026-08-15T11:22:20.000Z",
+      "url": "https://www.huaweicentral.com/honors-iconic-center-camera-design-to-retire-with-magic-9-flagship/",
+      "image": "https://www.huaweicentral.com/wp-content/uploads/2026/08/Magic-9-camera.jpg",
+      "summary": "Almost a decade ago, Honor introduced the Magic 3 series with what became a signature look for the company’s flagship phones: a centrally placed camera bump. And this fall, with H…",
+      "tags": [
+        "HONOR",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
       "id": "auto-a6fb29772dc6",
       "title": "Is the Pixel 11’s Tensor G6 actually a good upgrade from the G5? I crunched the numbers",
       "source": "Android Authority",
@@ -462,6 +542,26 @@ window.phoneRadarAuto = {
       ]
     },
     {
+      "id": "auto-9f17057790df",
+      "title": "Huawei Pura 90 series to soon introduce a budget-friendly option",
+      "source": "Huawei Central",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-15",
+      "time": "10:23",
+      "publishedAt": "2026-08-15T10:23:11.000Z",
+      "url": "https://www.huaweicentral.com/huawei-pura-90-series-to-soon-introduce-a-budget-friendly-option/",
+      "image": "https://www.huaweicentral.com/wp-content/uploads/2026/04/Pura90-Pro.jpg",
+      "summary": "When Huawei unveiled the Pura 90 series in April this year, it brought three models – Standard, Pro, and Pro Max, though it seems the company is now up with a budget-friendly opti…",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
       "id": "auto-7d1a50ef46ae",
       "title": "Pixel 11 or Pixel 10a? Here’s why the Pixel 11 really is worth $400 more",
       "source": "Android Authority",
@@ -477,6 +577,26 @@ window.phoneRadarAuto = {
       "summary": "The Pixel 11 really is worth splurging for.",
       "tags": [
         "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-6c02f03e2ecf",
+      "title": "Honor plans to boost mobile gaming with 12000mAh battery",
+      "source": "Huawei Central",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-15",
+      "time": "09:07",
+      "publishedAt": "2026-08-15T09:07:30.000Z",
+      "url": "https://www.huaweicentral.com/honor-plans-to-boost-mobile-gaming-with-12000mah-battery/",
+      "image": "https://www.huaweicentral.com/wp-content/uploads/2026/07/Honor-WIN-Series.jpg",
+      "summary": "As we approach the official launch timeframe of the Magic 9 series, Honor began the trial production of a 12000mAh battery, targeting the mobile gaming experience. And it seems th…",
+      "tags": [
+        "HONOR",
         "爆料",
         "自动抓取"
       ]
