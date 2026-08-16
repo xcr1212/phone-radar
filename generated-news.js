@@ -1,6 +1,66 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-08-16T08:45:52.143Z",
+  "updatedAt": "2026-08-16T10:38:35.588Z",
   "news": [
+    {
+      "id": "coolapk-user-514e8f21b4b7",
+      "title": "竹本青：这集神了 #HyperOS3# #HyperOS4#",
+      "source": "竹本青",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-08-16",
+      "time": "10:15",
+      "publishedAt": "2026-08-16T10:15:34.000Z",
+      "url": "https://www.coolapk.com/feed/73276314",
+      "image": "",
+      "summary": "这集神了 #HyperOS3# #HyperOS4#",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "coolapk-user-0ad398e8a43a",
+      "title": "竹本青：【REDMI K100 Pro系列 首销日销量曝光：约为上代的65%】 8月16日，博主「RD观测」分享第三方统计…",
+      "source": "竹本青",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-08-16",
+      "time": "10:06",
+      "publishedAt": "2026-08-16T10:06:19.000Z",
+      "url": "https://www.coolapk.com/feed/73276158",
+      "image": "http://image.coolapk.com/feed/2026/0816/18/4248714_4f8063e9_4806_7984_859@1440x879.jpg",
+      "summary": "【REDMI K100 Pro系列 首销日销量曝光：约为上代的65%】 8月16日，博主「RD观测」分享第三方统计的REDMI K100 Pro系列首销情况。以首销日（首销当晚+次日）为标准，新机市场表现如下： K100 Pro系列 —— 约为K90/Pro Max的65% K100 Pro —— 约为K90的50% K100 Pro Max —— 约为K…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-214774ab9b3d",
+      "title": "Have a Pixel 10 Pro? Here are 6 reasons you shouldn’t upgrade to the Pixel 11 Pro",
+      "source": "Android Authority",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-16",
+      "time": "09:30",
+      "publishedAt": "2026-08-16T09:30:25.000Z",
+      "url": "https://www.androidauthority.com/pixel-10-pro-vs-pixel-11-pro-3696445/",
+      "image": "",
+      "summary": "Don't be tempted by the Pixel 11 Pro. Google's 2025 Pixel still has plenty to give.",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-20804f9792fb",
       "title": "Xiaomi scraps Xiaomi 18 Ultra, Oppo and Vivo to limit their Ultra model to China only: Leak",
@@ -57,26 +117,6 @@ window.phoneRadarAuto = {
       "summary": "IT之家 8 月 16 日消息，iQOO 官方今日宣布， iQOO Neo11 至尊版将搭载 5000 万像素索尼超防抖大底主摄 ，支持光学防抖、人眼仿生技术和全新原生光影。 另外，iQOO Neo11 至尊版手机的 Live Photo 功能也迎来全面升级，画质更高， 同时还支持防抖、美颜和滤镜等功能 。 据IT之家此前报道，iQOO Neo11 至尊版…",
       "tags": [
         "vivo",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-5a6ac9849398",
-      "title": "王晓雁庆祝小米手机迎来 15 周岁生日：2011 年 8 月 16 日初代机型发布",
-      "source": "IT之家",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-16",
-      "time": "02:03",
-      "publishedAt": "2026-08-16T02:03:19.000Z",
-      "url": "https://www.ithome.com/0/990/241.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/8/6dbd0560-b5ed-49e8-9327-a5d7e4e11f6a.jpg?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 8 月 16 日消息，小米集团高级副总裁、中国区总裁王晓雁今日发文表示：“今天是小米手机的生日，一起祝小米手机 15 岁生日快乐。” 公开信息显示，北京小米科技有限公司于 2010 年 4 月 6 日正式成立，最初办公地点位于银谷大厦。同年 8 月，小米推出内测版 MIUI 系统；2011 年 8 月 16 日，初代小米手机在北京发布，售价 19…",
-      "tags": [
-        "Xiaomi",
         "爆料",
         "自动抓取"
       ]
@@ -262,19 +302,19 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-1ffa99cab3db",
-      "title": "手机涨价何时是个头",
-      "source": "百度热搜",
+      "id": "newsnow-efcfbafc799e",
+      "title": "买这家四五次了，都不带踩雷的，要的就是这种瓦楞磨砂透白的手机壳，还是一如既往的舒服的手感，不用担心手机壳油腻的感觉，这个手机壳最大的优点就是不硬其次就是不顶膜！！！像那种全覆盖的膜不会顶，因为没有做收边处理。",
+      "source": "酷安热榜",
       "brand": "行业",
       "model": "智能手机市场",
       "type": "爆料",
-      "trust": "媒体汇总",
+      "trust": "高关注爆料源",
       "date": "2026-08-16",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.baidu.com/s?wd=%E6%89%8B%E6%9C%BA%E6%B6%A8%E4%BB%B7%E4%BD%95%E6%97%B6%E6%98%AF%E4%B8%AA%E5%A4%B4",
+      "url": "https://www.coolapk.com/feed/73257982",
       "image": "",
-      "summary": "手机涨价何时是个头",
+      "summary": "买这家四五次了，都不带踩雷的，要的就是这种瓦楞磨砂透白的手机壳，还是一如既往的舒服的手感，不用担心手机壳油腻的感觉，这个手机壳最大的优点就是不硬其次就是不顶膜！！！像那种全覆盖的膜不会顶，因为没有做收边处理。",
       "tags": [
         "行业",
         "爆料",
@@ -375,26 +415,6 @@ window.phoneRadarAuto = {
       "url": "https://www.androidpolice.com/samsung-galaxy-z-fold-8-ultra-review/",
       "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2026/08/samsung-galaxy-z-fold-8-ultra-back-hand.JPG",
       "summary": "It's an excellent phone, but there's more fun elsewhere",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-6a3d3ff6e423",
-      "title": "My mom charges her Galaxy S25+ to 100% daily; our batteries tell very different stories",
-      "source": "Android Police",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-15",
-      "time": "15:00",
-      "publishedAt": "2026-08-15T15:00:16.000Z",
-      "url": "https://www.androidpolice.com/charges-galaxy-s25-100-batteries-different-stories/",
-      "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2026/08/two-galaxy-s25-phones-showing-different-battery-guru-health-results.jpg",
-      "summary": "I only charge mine to 80%",
       "tags": [
         "Samsung",
         "爆料",
@@ -622,26 +642,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "coolapk-user-f6bf0f6980a6",
-      "title": "竹本青：小米精英驾驶・国家B级赛照培训官宣：小米车主专属价12999元",
-      "source": "竹本青",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-08-15",
-      "time": "05:03",
-      "publishedAt": "2026-08-15T05:03:34.000Z",
-      "url": "https://www.coolapk.com/feed/73255045",
-      "image": "http://image.coolapk.com/feed/2026/0815/13/4248714_c51f9c11_0205_5238_929@1176x2506.jpg",
-      "summary": "【小米精英驾驶・国家B级赛照培训官宣：8月17日开放报名，小米车主专属价12999元】 8月17日早10:00北京站、厦门站同步开放报名 北京站：9.4-9.6金港国际赛车场（FIA 三级认证赛道） 厦门站：9.11-9.13厦门国际赛车场（FIA 四级认证赛道） 冠军教练团队、单人5小时以上赛道实操、专业赛事用车全覆盖，考核通过即可获取国家认可场地B级赛…",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
       "id": "coolapk-user-66c6f5f1176a",
       "title": "JSCHEN小小狐：iQOO Neo11 至尊版爆料参数汇总：2K LTPS",
       "source": "JSCHEN小小狐",
@@ -679,26 +679,6 @@ window.phoneRadarAuto = {
         "vivo",
         "爆料",
         "微博"
-      ]
-    },
-    {
-      "id": "coolapk-user-3ab41c97e8ee",
-      "title": "竹本青：【OriginOS 7官方爆料：“首帧交互可打断”】 立刻响应应用内的操作，不用等待动画结束。以三方应用bilib…",
-      "source": "竹本青",
-      "brand": "vivo",
-      "model": "vivo 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-08-15",
-      "time": "02:49",
-      "publishedAt": "2026-08-15T02:49:32.000Z",
-      "url": "https://www.coolapk.com/feed/73252722",
-      "image": "http://image.coolapk.com/feed/2026/0815/10/4248714_6d7d4600_2125_9827_655-livepic@1440x2560.jpg",
-      "summary": "【OriginOS 7官方爆料：“首帧交互可打断”】 立刻响应应用内的操作，不用等待动画结束。以三方应用bilibili为例，刚点开，正上下划着，突然想切到左右页，手指一转方向，界面立马跟着走。上下滑、左右切，任意衔接。 #今日热点# #OriginOS6# #OriginOS7#",
-      "tags": [
-        "vivo",
-        "爆料",
-        "酷安博主"
       ]
     }
   ]
