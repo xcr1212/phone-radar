@@ -1,15 +1,15 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-08-16T18:46:00.799Z",
+  "updatedAt": "2026-08-16T20:36:12.134Z",
   "issueDate": "2026-08-16",
   "issue": "VOL.260816",
   "title": "手机情报日报",
-  "intro": "今日筛出 18 条重点，其中 6 条是重点爆料，包含 4 条 iPhone 相关、1 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 18 条重点，其中 5 条是重点爆料，包含 4 条 iPhone 相关、1 条官方确认、1 条参数线索。",
   "stats": {
     "total": 18,
     "iphone": 4,
-    "leaks": 6,
+    "leaks": 5,
     "official": 1,
-    "specs": 0
+    "specs": 1
   },
   "sections": [
     {
@@ -17,29 +17,6 @@ window.phoneRadarDaily = {
       "title": "重点爆料",
       "hint": "机模、配色、影像、屏幕、电池和芯片线索先看。",
       "items": [
-        {
-          "id": "newsnow-58c69443b1f7",
-          "title": "我真是服了，为什么我每次说手机有点卡，一堆人说我的手机是假货，故意黑？我买的小米 17pm，用了一星期卡过两次，一次是别人打了个微信电话，然后屏幕直接点不动没任何反应，然后我锁屏，重新打开屏幕才恢复了，不过背屏我很喜欢。",
-          "originalTitle": "",
-          "source": "酷安热榜",
-          "brand": "Xiaomi",
-          "type": "爆料",
-          "trust": "高关注爆料源",
-          "date": "2026-08-16",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://www.coolapk.com/feed/73256526",
-          "image": "",
-          "verdict": "先看",
-          "takeaway": "我真是服了，为什么我每次说手机有点卡，一堆人说我的手机是假货，故意黑？我买的小米 17pm，用了一星期卡过两次，一次是别人打了个微信电话，然后屏幕直接点不动没任何反应，然后我锁屏，重新打开屏幕才恢复了，不过背屏我很喜欢。",
-          "detail": "我真是服了，为什么我每次说手机有点卡，一堆人说我的手机是假货，故意黑？我买的小米 17pm，用了一星期卡过两次，一次是别人打了个微信电话，然后屏幕直接点不动没任何反应，然后我锁屏，重新打开屏幕才恢复了，不过背屏我很喜欢。",
-          "keyPoints": [
-            "屏幕形态"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
         {
           "id": "newsnow-1e10b4dbaa22",
           "title": "正式脱离黑厂，黑厂这个破续航我是真的受不了了，明天到祸黑厂的机子就可以出掉了，具体要出的东西看我上一个贴子#OPPOFindX8Ultra# #数码日常# #小米17ProMax#",
@@ -289,28 +266,65 @@ window.phoneRadarDaily = {
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
+        }
+      ]
+    },
+    {
+      "id": "specs",
+      "title": "参数、跑分、认证",
+      "hint": "适合验证芯片、屏幕、影像和电池。",
+      "items": [
         {
-          "id": "auto-ff154b7d769a",
-          "title": "Huawei 折叠屏相关消息",
+          "id": "auto-a6fb29772dc6",
+          "title": "Pixel 11 芯片 / 性能相关消息",
           "originalTitle": "",
-          "source": "Huawei Central",
-          "brand": "Huawei",
+          "source": "Android Authority",
+          "brand": "Pixel",
           "type": "爆料",
           "trust": "媒体汇总",
-          "date": "2026-08-16",
-          "time": "06:41",
-          "publishedAt": "2026-08-16T06:41:22.000Z",
-          "url": "https://www.huaweicentral.com/apples-foldable-iphone-will-form-a-competition-with-huawei-and-samsung/",
+          "date": "2026-08-15",
+          "time": "11:00",
+          "publishedAt": "2026-08-15T11:00:22.000Z",
+          "url": "https://www.androidauthority.com/tensor-g6-deep-dive-3695968/",
           "image": "",
           "verdict": "可略过",
-          "takeaway": "Huawei 折叠屏相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
-          "detail": "Huawei 折叠屏相关消息。重点看折痕、铰链、厚度、屏幕可靠性和重量是否有实质改善。",
+          "takeaway": "Pixel 芯片或连接能力相关线索，可能影响性能和续航判断。",
+          "detail": "Pixel 11 芯片 / 性能相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
           "keyPoints": [
-            "爆料"
+            "芯片 / 性能"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "impact": "影响性能和寿命判断，适合放进参数库。",
+          "action": "有具体参数就记录到参数库；没有参数就先收藏。"
+        }
+      ]
+    },
+    {
+      "id": "review",
+      "title": "评测与体验",
+      "hint": "买前再细看，平时扫一眼即可。",
+      "items": [
+        {
+          "id": "auto-1574963763c9",
+          "title": "Pixel 11 a 屏幕规格相关消息",
+          "originalTitle": "",
+          "source": "Android Central",
+          "brand": "Pixel",
+          "type": "评测",
+          "trust": "媒体汇总",
+          "date": "2026-08-15",
+          "time": "10:45",
+          "publishedAt": "2026-08-15T10:45:56.000Z",
+          "url": "https://www.androidcentral.com/accessories/cases-screen-protectors/best-google-pixel-11-and-pixel-11-pro-screen-protectors",
+          "image": "https://cdn.mos.cms.futurecdn.net/EmyZt9zsrrCYiqBmqJ4yih-1280-80.jpg",
+          "verdict": "可略过",
+          "takeaway": "Pixel 11 a 屏幕规格相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
+          "detail": "Pixel 11 a 屏幕规格相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
+          "keyPoints": [
+            "屏幕形态"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是实际体验内容，买前适合重点看缺点和取舍。",
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         }
       ]
@@ -320,6 +334,29 @@ window.phoneRadarDaily = {
       "title": "行业趋势",
       "hint": "看方向，不急着当购买依据。",
       "items": [
+        {
+          "id": "newsnow-9cf9f38f7b81",
+          "title": "亮哥直播间中了个17标准版 兄弟们留x100还是17啊 #vivoX100# #iPhone17# #数码日常#",
+          "originalTitle": "",
+          "source": "酷安热榜",
+          "brand": "vivo",
+          "type": "爆料",
+          "trust": "高关注爆料源",
+          "date": "2026-08-16",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://www.coolapk.com/feed/73269892",
+          "image": "",
+          "verdict": "先看",
+          "takeaway": "亮哥直播间中了个17标准版 兄弟们留x100还是17啊 #vivoX100# #iPhone17# #数码日常#",
+          "detail": "亮哥直播间中了个17标准版 兄弟们留x100还是17啊 #vivoX100# #iPhone17# #数码日常#",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        },
         {
           "id": "coolapk-user-0ad398e8a43a",
           "title": "竹本青：【REDMI K100 Pro系列 首销日销量曝光：约为上代的65%】 8月16日，博主「RD观测」分享第三方统计…",
@@ -344,52 +381,6 @@ window.phoneRadarDaily = {
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         },
         {
-          "id": "newsnow-20dcf3900e03",
-          "title": "移植机型：REDMI K90 4.0.0.18.XPKCNXM",
-          "originalTitle": "",
-          "source": "酷安热榜",
-          "brand": "Xiaomi",
-          "type": "爆料",
-          "trust": "高关注爆料源",
-          "date": "2026-08-16",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://www.coolapk.com/feed/73256433",
-          "image": "",
-          "verdict": "扫一眼",
-          "takeaway": "移植机型：REDMI K90 4.0.0.18.XPKCNXM",
-          "detail": "移植机型：REDMI K90 4.0.0.18.XPKCNXM",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
-        {
-          "id": "newsnow-c8f4c8b05435",
-          "title": "诸位酷友有什么好设计[受虐滑稽]让我参考下，可以不分享桌搭，但麻烦不要恶评[嘿哈] #REDMIK100ProMax# #HyperOS4# #红米K90#",
-          "originalTitle": "",
-          "source": "酷安热榜",
-          "brand": "Xiaomi",
-          "type": "爆料",
-          "trust": "高关注爆料源",
-          "date": "2026-08-16",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://www.coolapk.com/feed/73263504",
-          "image": "",
-          "verdict": "扫一眼",
-          "takeaway": "诸位酷友有什么好设计[受虐滑稽]让我参考下，可以不分享桌搭，但麻烦不要恶评[嘿哈] #REDMIK100ProMax# #HyperOS4# #红米K90#",
-          "detail": "诸位酷友有什么好设计[受虐滑稽]让我参考下，可以不分享桌搭，但麻烦不要恶评[嘿哈] #REDMIK100ProMax# #HyperOS4# #红米K90#",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
-        {
           "id": "newsnow-7a9b14ef6f1a",
           "title": "老规矩，这四台手机都在手，有问题随便问",
           "originalTitle": "",
@@ -405,6 +396,29 @@ window.phoneRadarDaily = {
           "verdict": "扫一眼",
           "takeaway": "老规矩，这四台手机都在手，有问题随便问",
           "detail": "老规矩，这四台手机都在手，有问题随便问",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        },
+        {
+          "id": "newsnow-936f4fe3ec08",
+          "title": "来一张最后的大合照吧，从此脱离黑厂了#数码日常# #OPPOFindX8Ultra# #小米17ProMax#",
+          "originalTitle": "",
+          "source": "酷安热榜",
+          "brand": "Xiaomi",
+          "type": "爆料",
+          "trust": "高关注爆料源",
+          "date": "2026-08-16",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://www.coolapk.com/feed/73281486",
+          "image": "",
+          "verdict": "扫一眼",
+          "takeaway": "来一张最后的大合照吧，从此脱离黑厂了#数码日常# #OPPOFindX8Ultra# #小米17ProMax#",
+          "detail": "来一张最后的大合照吧，从此脱离黑厂了#数码日常# #OPPOFindX8Ultra# #小米17ProMax#",
           "keyPoints": [
             "爆料"
           ],
