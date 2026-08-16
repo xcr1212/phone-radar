@@ -1,13 +1,13 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-08-16T14:37:29.594Z",
+  "updatedAt": "2026-08-16T16:40:45.274Z",
   "issueDate": "2026-08-16",
   "issue": "VOL.260816",
   "title": "手机情报日报",
-  "intro": "今日筛出 19 条重点，其中 5 条是重点爆料，包含 4 条 iPhone 相关、1 条官方确认、1 条参数线索。",
+  "intro": "今日筛出 19 条重点，其中 6 条是重点爆料，包含 4 条 iPhone 相关、1 条官方确认、1 条参数线索。",
   "stats": {
     "total": 19,
     "iphone": 4,
-    "leaks": 5,
+    "leaks": 6,
     "official": 1,
     "specs": 1
   },
@@ -35,6 +35,29 @@ window.phoneRadarDaily = {
           "detail": "我真是服了，为什么我每次说手机有点卡，一堆人说我的手机是假货，故意黑？我买的小米 17pm，用了一星期卡过两次，一次是别人打了个微信电话，然后屏幕直接点不动没任何反应，然后我锁屏，重新打开屏幕才恢复了，不过背屏我很喜欢。",
           "keyPoints": [
             "屏幕形态"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "newsnow-1e10b4dbaa22",
+          "title": "正式脱离黑厂，黑厂这个破续航我是真的受不了了，明天到祸黑厂的机子就可以出掉了，具体要出的东西看我上一个贴子#OPPOFindX8Ultra# #数码日常# #小米17ProMax#",
+          "originalTitle": "",
+          "source": "酷安热榜",
+          "brand": "Xiaomi",
+          "type": "爆料",
+          "trust": "高关注爆料源",
+          "date": "2026-08-16",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://www.coolapk.com/feed/73265055",
+          "image": "",
+          "verdict": "先看",
+          "takeaway": "正式脱离黑厂，黑厂这个破续航我是真的受不了了，明天到祸黑厂的机子就可以出掉了，具体要出的东西看我上一个贴子#OPPOFindX8Ultra# #数码日常# #小米17ProMax#",
+          "detail": "正式脱离黑厂，黑厂这个破续航我是真的受不了了，明天到祸黑厂的机子就可以出掉了，具体要出的东西看我上一个贴子#OPPOFindX8Ultra# #数码日常# #小米17ProMax#",
+          "keyPoints": [
+            "电池 / 充电"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
@@ -304,29 +327,6 @@ window.phoneRadarDaily = {
       "title": "评测与体验",
       "hint": "买前再细看，平时扫一眼即可。",
       "items": [
-        {
-          "id": "auto-2bc0783c4e22",
-          "title": "Samsung 折叠屏相关消息",
-          "originalTitle": "",
-          "source": "Android Central",
-          "brand": "Samsung",
-          "type": "评测",
-          "trust": "媒体汇总",
-          "date": "2026-08-15",
-          "time": "15:51",
-          "publishedAt": "2026-08-15T15:51:35.000Z",
-          "url": "https://www.androidcentral.com/phones/samsung-galaxy/should-you-buy-the-samsung-galaxy-z-fold-8",
-          "image": "https://cdn.mos.cms.futurecdn.net/fnPgnsVNmCnxEAsnzFiENb-1280-80.jpg",
-          "verdict": "可略过",
-          "takeaway": "Samsung 折叠屏相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
-          "detail": "Samsung 折叠屏相关消息。重点看折痕、铰链、厚度、屏幕可靠性和重量是否有实质改善。",
-          "keyPoints": [
-            "评测"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是实际体验内容，买前适合重点看缺点和取舍。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
         {
           "id": "auto-1574963763c9",
           "title": "Pixel 11 a 屏幕规格相关消息",

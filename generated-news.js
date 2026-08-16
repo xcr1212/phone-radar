@@ -1,6 +1,26 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-08-16T14:37:29.594Z",
+  "updatedAt": "2026-08-16T16:40:45.274Z",
   "news": [
+    {
+      "id": "auto-60f864d30f81",
+      "title": "Samsung's Galaxy Z Fold 8 rocks for video — except for one problem you can't un-hear",
+      "source": "Android Police",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-16",
+      "time": "15:00",
+      "publishedAt": "2026-08-16T15:00:16.000Z",
+      "url": "https://www.androidpolice.com/ive-watched-hours-of-tv-shows-on-the-samsung-galaxy-z-fold-8/",
+      "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2026/08/samsung-galaxy-z-fold-8-house-of-dragons.jpg",
+      "summary": "The speaker placement is a problem",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-97baa15aded4",
       "title": "I'd skip the expensive Samsung Galaxy S26 Ultra for these phones every time",
@@ -255,6 +275,26 @@ window.phoneRadarAuto = {
       "url": "https://www.coolapk.com/feed/73263504",
       "image": "",
       "summary": "诸位酷友有什么好设计[受虐滑稽]让我参考下，可以不分享桌搭，但麻烦不要恶评[嘿哈] #REDMIK100ProMax# #HyperOS4# #红米K90#",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-1e10b4dbaa22",
+      "title": "正式脱离黑厂，黑厂这个破续航我是真的受不了了，明天到祸黑厂的机子就可以出掉了，具体要出的东西看我上一个贴子#OPPOFindX8Ultra# #数码日常# #小米17ProMax#",
+      "source": "酷安热榜",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-08-16",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/73265055",
+      "image": "",
+      "summary": "正式脱离黑厂，黑厂这个破续航我是真的受不了了，明天到祸黑厂的机子就可以出掉了，具体要出的东西看我上一个贴子#OPPOFindX8Ultra# #数码日常# #小米17ProMax#",
       "tags": [
         "Xiaomi",
         "爆料",
