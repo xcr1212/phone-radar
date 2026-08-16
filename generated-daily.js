@@ -1,13 +1,13 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-08-16T10:38:35.588Z",
+  "updatedAt": "2026-08-16T12:59:43.062Z",
   "issueDate": "2026-08-16",
   "issue": "VOL.260816",
   "title": "手机情报日报",
-  "intro": "今日筛出 17 条重点，其中 6 条是重点爆料，包含 4 条 iPhone 相关、1 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 17 条重点，其中 5 条是重点爆料，包含 4 条 iPhone 相关、1 条官方确认、0 条参数线索。",
   "stats": {
     "total": 17,
     "iphone": 4,
-    "leaks": 6,
+    "leaks": 5,
     "official": 1,
     "specs": 0
   },
@@ -17,29 +17,6 @@ window.phoneRadarDaily = {
       "title": "重点爆料",
       "hint": "机模、配色、影像、屏幕、电池和芯片线索先看。",
       "items": [
-        {
-          "id": "auto-ced2e21d574b",
-          "title": "iQOO Neo11 至尊版手机官宣搭载 5000 万像素索尼超防抖大底主摄",
-          "originalTitle": "",
-          "source": "IT之家",
-          "brand": "vivo",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-08-16",
-          "time": "02:12",
-          "publishedAt": "2026-08-16T02:12:02.000Z",
-          "url": "https://www.ithome.com/0/990/243.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/8/e3ebae79-4be3-4c72-9bff-3a60bd68472a.png",
-          "verdict": "先看",
-          "takeaway": "IT之家 8 月 16 日消息，iQOO 官方今日宣布， iQOO Neo11 至尊版将搭载 5000 万像素索尼超防抖大底主摄 ，支持光学防抖、人眼仿生技术和全新原生光影。 另外，iQOO Neo11 至尊版手机的 Live Photo 功能也迎来全面升级，画质更高， 同时还支持防抖、美颜和滤镜等功能 。 据IT之家此前报道，iQOO Neo11 至尊版…",
-          "detail": "IT之家 8 月 16 日消息，iQOO 官方今日宣布， iQOO Neo11 至尊版将搭载 5000 万像素索尼超防抖大底主摄 ，支持光学防抖、人眼仿生技术和全新原生光影。 另外，iQOO Neo11 至尊版手机的 Live Photo 功能也迎来全面升级，画质更高， 同时还支持防抖、美颜和滤镜等功能 。 据IT之家此前报道，iQOO Neo11 至尊版…",
-          "keyPoints": [
-            "影像硬件"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
         {
           "id": "newsnow-58c69443b1f7",
           "title": "我真是服了，为什么我每次说手机有点卡，一堆人说我的手机是假货，故意黑？我买的小米 17pm，用了一星期卡过两次，一次是别人打了个微信电话，然后屏幕直接点不动没任何反应，然后我锁屏，重新打开屏幕才恢复了，不过背屏我很喜欢。",
@@ -258,6 +235,36 @@ window.phoneRadarDaily = {
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "影响拍照体验，买旗舰机时值得关注。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        }
+      ]
+    },
+    {
+      "id": "launch",
+      "title": "新机与官方发布",
+      "hint": "能直接更新到参数库。",
+      "items": [
+        {
+          "id": "auto-ff154b7d769a",
+          "title": "Huawei 折叠屏相关消息",
+          "originalTitle": "",
+          "source": "Huawei Central",
+          "brand": "Huawei",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-08-16",
+          "time": "06:41",
+          "publishedAt": "2026-08-16T06:41:22.000Z",
+          "url": "https://www.huaweicentral.com/apples-foldable-iphone-will-form-a-competition-with-huawei-and-samsung/",
+          "image": "",
+          "verdict": "可略过",
+          "takeaway": "Huawei 折叠屏相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
+          "detail": "Huawei 折叠屏相关消息。重点看折痕、铰链、厚度、屏幕可靠性和重量是否有实质改善。",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         }
       ]

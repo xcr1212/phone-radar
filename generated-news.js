@@ -1,5 +1,5 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-08-16T10:38:35.588Z",
+  "updatedAt": "2026-08-16T12:59:43.062Z",
   "news": [
     {
       "id": "coolapk-user-514e8f21b4b7",
@@ -82,6 +82,46 @@ window.phoneRadarAuto = {
       ]
     },
     {
+      "id": "auto-b3eb7564b39e",
+      "title": "Standard Huawei Mate 90 to bring performance upgrade with Kirin 9030 chip",
+      "source": "Huawei Central",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-16",
+      "time": "07:29",
+      "publishedAt": "2026-08-16T07:29:51.000Z",
+      "url": "https://www.huaweicentral.com/standard-huawei-mate-90-to-bring-performance-upgrade-with-kirin-9030-chip/",
+      "image": "",
+      "summary": "Huawei Mate 90 series is coming, and its standard version will upgrade performance thanks to the new Kirin 9030 chipset, which the Kirin 9020 used in the standard Mate 80. Accordi…",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-ff154b7d769a",
+      "title": "Apple’s foldable iPhone will form a competition with Huawei and Samsung",
+      "source": "Huawei Central",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-16",
+      "time": "06:41",
+      "publishedAt": "2026-08-16T06:41:22.000Z",
+      "url": "https://www.huaweicentral.com/apples-foldable-iphone-will-form-a-competition-with-huawei-and-samsung/",
+      "image": "",
+      "summary": "Apple’s first foldable iPhone will launch in September, competing against Huawei and Samsung, two of the biggest foldable smartphone-selling companies. Digital FixedFocus said tha…",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
       "id": "auto-fe537f231d93",
       "title": "小米 REDMI K100 Pro 系列手机首销日成绩曝光，销量约上代的 65%",
       "source": "IT之家",
@@ -97,26 +137,6 @@ window.phoneRadarAuto = {
       "summary": "IT之家 8 月 16 日消息，长期关注国内手机市场份额的数码博主 @RD观测 今日发文，分享了 REDMI K100 Pro 系列手机的首销情况。 REDMI K100 系列（K100 Pro / Pro Max）首销日（ 首销当晚 + 次日 ）SO 约为 REDMI K90 系列（K90 / Pro Max）的 65%。其中： REDMI K100 P…",
       "tags": [
         "Xiaomi",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-ced2e21d574b",
-      "title": "iQOO Neo11 至尊版手机官宣搭载 5000 万像素索尼超防抖大底主摄",
-      "source": "IT之家",
-      "brand": "vivo",
-      "model": "vivo 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-16",
-      "time": "02:12",
-      "publishedAt": "2026-08-16T02:12:02.000Z",
-      "url": "https://www.ithome.com/0/990/243.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/8/e3ebae79-4be3-4c72-9bff-3a60bd68472a.png",
-      "summary": "IT之家 8 月 16 日消息，iQOO 官方今日宣布， iQOO Neo11 至尊版将搭载 5000 万像素索尼超防抖大底主摄 ，支持光学防抖、人眼仿生技术和全新原生光影。 另外，iQOO Neo11 至尊版手机的 Live Photo 功能也迎来全面升级，画质更高， 同时还支持防抖、美颜和滤镜等功能 。 据IT之家此前报道，iQOO Neo11 至尊版…",
-      "tags": [
-        "vivo",
         "爆料",
         "自动抓取"
       ]
@@ -322,26 +342,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-5b6dbebe38c6",
-      "title": "手机壳 医疗垃圾",
-      "source": "百度热搜",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-16",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.baidu.com/s?wd=%E6%89%8B%E6%9C%BA%E5%A3%B3+%E5%8C%BB%E7%96%97%E5%9E%83%E5%9C%BE",
-      "image": "",
-      "summary": "手机壳 医疗垃圾",
-      "tags": [
-        "行业",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
       "id": "auto-b5476cb91be3",
       "title": "Grab this 3-pack of glass screen protectors for the Samsung Galaxy S26 Ultra for just $3",
       "source": "Android Police",
@@ -378,46 +378,6 @@ window.phoneRadarAuto = {
       "tags": [
         "Samsung",
         "评测",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-d84b81fdc95d",
-      "title": "The Pixel 11 Pro's best feature is broken; Google already has the tools to fix it",
-      "source": "Android Police",
-      "brand": "Pixel",
-      "model": "Pixel 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-15",
-      "time": "15:15",
-      "publishedAt": "2026-08-15T15:15:15.000Z",
-      "url": "https://www.androidpolice.com/the-pixel-11-pros-best-feature-is-broken-google-already-has-the-tools-to-fix-it/",
-      "image": "",
-      "summary": "HiLight is wasted potential",
-      "tags": [
-        "Pixel",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-d8e15ddbdba8",
-      "title": "I reviewed the Samsung Galaxy Z Fold 8 Ultra and it has a problem. It's called the Galaxy Z Fold 8",
-      "source": "Android Police",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-15",
-      "time": "15:00",
-      "publishedAt": "2026-08-15T15:00:16.000Z",
-      "url": "https://www.androidpolice.com/samsung-galaxy-z-fold-8-ultra-review/",
-      "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2026/08/samsung-galaxy-z-fold-8-ultra-back-hand.JPG",
-      "summary": "It's an excellent phone, but there's more fun elsewhere",
-      "tags": [
-        "Samsung",
-        "爆料",
         "自动抓取"
       ]
     },
@@ -482,6 +442,26 @@ window.phoneRadarAuto = {
       ]
     },
     {
+      "id": "auto-fa61b398e0d9",
+      "title": "Honor’s iconic center camera design to retire with Magic 9 flagship",
+      "source": "Huawei Central",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-15",
+      "time": "11:22",
+      "publishedAt": "2026-08-15T11:22:20.000Z",
+      "url": "https://www.huaweicentral.com/honors-iconic-center-camera-design-to-retire-with-magic-9-flagship/",
+      "image": "https://www.huaweicentral.com/wp-content/uploads/2026/08/Magic-9-camera.jpg",
+      "summary": "Almost a decade ago, Honor introduced the Magic 3 series with what became a signature look for the company’s flagship phones: a centrally placed camera bump. And this fall, with H…",
+      "tags": [
+        "HONOR",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
       "id": "auto-a6fb29772dc6",
       "title": "Is the Pixel 11’s Tensor G6 actually a good upgrade from the G5? I crunched the numbers",
       "source": "Android Authority",
@@ -522,6 +502,26 @@ window.phoneRadarAuto = {
       ]
     },
     {
+      "id": "auto-9f17057790df",
+      "title": "Huawei Pura 90 series to soon introduce a budget-friendly option",
+      "source": "Huawei Central",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-15",
+      "time": "10:23",
+      "publishedAt": "2026-08-15T10:23:11.000Z",
+      "url": "https://www.huaweicentral.com/huawei-pura-90-series-to-soon-introduce-a-budget-friendly-option/",
+      "image": "https://www.huaweicentral.com/wp-content/uploads/2026/04/Pura90-Pro.jpg",
+      "summary": "When Huawei unveiled the Pura 90 series in April this year, it brought three models – Standard, Pro, and Pro Max, though it seems the company is now up with a budget-friendly opti…",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
       "id": "auto-7d1a50ef46ae",
       "title": "Pixel 11 or Pixel 10a? Here’s why the Pixel 11 really is worth $400 more",
       "source": "Android Authority",
@@ -537,6 +537,26 @@ window.phoneRadarAuto = {
       "summary": "The Pixel 11 really is worth splurging for.",
       "tags": [
         "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-6c02f03e2ecf",
+      "title": "Honor plans to boost mobile gaming with 12000mAh battery",
+      "source": "Huawei Central",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-15",
+      "time": "09:07",
+      "publishedAt": "2026-08-15T09:07:30.000Z",
+      "url": "https://www.huaweicentral.com/honor-plans-to-boost-mobile-gaming-with-12000mah-battery/",
+      "image": "https://www.huaweicentral.com/wp-content/uploads/2026/07/Honor-WIN-Series.jpg",
+      "summary": "As we approach the official launch timeframe of the Magic 9 series, Honor began the trial production of a 12000mAh battery, targeting the mobile gaming experience. And it seems th…",
+      "tags": [
+        "HONOR",
         "爆料",
         "自动抓取"
       ]
@@ -579,26 +599,6 @@ window.phoneRadarAuto = {
         "Xiaomi",
         "爆料",
         "自动抓取"
-      ]
-    },
-    {
-      "id": "coolapk-user-f78c883f61ba",
-      "title": "竹本青：华为Pura X Max 最新销量曝光：全系超68万台",
-      "source": "竹本青",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-08-15",
-      "time": "06:59",
-      "publishedAt": "2026-08-15T06:59:42.000Z",
-      "url": "https://www.coolapk.com/feed/73256789",
-      "image": "http://image.coolapk.com/feed/2026/0815/14/4248714_b67d1f10_7181_1285_245@1270x466.jpg",
-      "summary": "【华为Pura X Max 最新销量曝光：全系超68万台，典藏版近35.5万台】 华为 Pura X Max： ● 截至2026 W31 —— 约32.55万 截至2026 W30 —— 约30.47万 截至2026 W29 —— 约28.59万 截至2026 W28 —— 约26.88万 华为 Pura X Max 典藏版： ● 截至2026 W31 —…",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "酷安博主"
       ]
     },
     {
