@@ -1,13 +1,13 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-08-16T03:12:01.358Z",
+  "updatedAt": "2026-08-16T04:49:13.184Z",
   "issueDate": "2026-08-16",
   "issue": "VOL.260816",
   "title": "手机情报日报",
-  "intro": "今日筛出 20 条重点，其中 8 条是重点爆料，包含 4 条 iPhone 相关、1 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 19 条重点，其中 7 条是重点爆料，包含 4 条 iPhone 相关、1 条官方确认、0 条参数线索。",
   "stats": {
-    "total": 20,
+    "total": 19,
     "iphone": 4,
-    "leaks": 8,
+    "leaks": 7,
     "official": 1,
     "specs": 0
   },
@@ -35,29 +35,6 @@ window.phoneRadarDaily = {
           "detail": "IT之家 8 月 16 日消息，iQOO 官方今日宣布， iQOO Neo11 至尊版将搭载 5000 万像素索尼超防抖大底主摄 ，支持光学防抖、人眼仿生技术和全新原生光影。 另外，iQOO Neo11 至尊版手机的 Live Photo 功能也迎来全面升级，画质更高， 同时还支持防抖、美颜和滤镜等功能 。 据IT之家此前报道，iQOO Neo11 至尊版…",
           "keyPoints": [
             "影像硬件"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "auto-15f7a5d2f6ba",
-          "title": "三星 Galaxy S26 FE 第三方手机壳渲染图曝光，直观展示机身外观设计",
-          "originalTitle": "",
-          "source": "IT之家",
-          "brand": "Samsung",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-08-15",
-          "time": "23:25",
-          "publishedAt": "2026-08-15T23:25:49.000Z",
-          "url": "https://www.ithome.com/0/990/205.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/8/610a4648-e723-40e4-8560-a56dab90db74.png?x-bce-process=image/format,f_auto",
-          "verdict": "先看",
-          "takeaway": "IT之家 8 月 16 日消息，许多手机配件制造商会通过各种方式在新机发布之前获得手机的参数规格信息，以期提前铺货抢占市场。例如目前配件厂商 ARMOR-X 已在官网上架多款 Galaxy S26 FE 手机壳，产品渲染图机型为 Pistachio（开心果绿）版本，整体外观与现款 S25 FE 相似。 综合外媒 sammyguru，当下三星 Galaxy…",
-          "detail": "IT之家 8 月 16 日消息，许多手机配件制造商会通过各种方式在新机发布之前获得手机的参数规格信息，以期提前铺货抢占市场。例如目前配件厂商 ARMOR-X 已在官网上架多款 Galaxy S26 FE 手机壳，产品渲染图机型为 Pistachio（开心果绿）版本，整体外观与现款 S25 FE 相似。 综合外媒 sammyguru，当下三星 Galaxy…",
-          "keyPoints": [
-            "外观 / 配色 / 尺寸"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
@@ -374,6 +351,29 @@ window.phoneRadarDaily = {
       "hint": "看方向，不急着当购买依据。",
       "items": [
         {
+          "id": "auto-fe537f231d93",
+          "title": "小米 REDMI K100 Pro 系列手机首销日成绩曝光，销量约上代的 65%",
+          "originalTitle": "",
+          "source": "IT之家",
+          "brand": "Xiaomi",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-08-16",
+          "time": "03:52",
+          "publishedAt": "2026-08-16T03:52:53.000Z",
+          "url": "https://www.ithome.com/0/990/263.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/8/fa9a2500-1789-4624-b3aa-d50b42cf481e.png",
+          "verdict": "先看",
+          "takeaway": "IT之家 8 月 16 日消息，长期关注国内手机市场份额的数码博主 @RD观测 今日发文，分享了 REDMI K100 Pro 系列手机的首销情况。 REDMI K100 系列（K100 Pro / Pro Max）首销日（ 首销当晚 + 次日 ）SO 约为 REDMI K90 系列（K90 / Pro Max）的 65%。其中： REDMI K100 P…",
+          "detail": "IT之家 8 月 16 日消息，长期关注国内手机市场份额的数码博主 @RD观测 今日发文，分享了 REDMI K100 Pro 系列手机的首销情况。 REDMI K100 系列（K100 Pro / Pro Max）首销日（ 首销当晚 + 次日 ）SO 约为 REDMI K90 系列（K90 / Pro Max）的 65%。其中： REDMI K100 P…",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "中文源可以直接点开快读；看完只保留和购机有关的点。"
+        },
+        {
           "id": "newsnow-c8f4c8b05435",
           "title": "这是我最新os4的桌搭，诸位酷友有什么好设计[受虐滑稽] #REDMIK100ProMax# #HyperOS4# #红米K90#",
           "originalTitle": "",
@@ -485,29 +485,6 @@ window.phoneRadarDaily = {
             "爆料"
           ],
           "confidence": "可信度较高，但仍属于发布前线索。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
-        {
-          "id": "newsnow-c3a510156261",
-          "title": "5999是买mate80promax还是k100promax",
-          "originalTitle": "",
-          "source": "酷安热榜",
-          "brand": "行业",
-          "type": "爆料",
-          "trust": "高关注爆料源",
-          "date": "2026-08-16",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://www.coolapk.com/feed/73229716",
-          "image": "",
-          "verdict": "可略过",
-          "takeaway": "5999是买mate80promax还是k100promax",
-          "detail": "5999是买mate80promax还是k100promax",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         }

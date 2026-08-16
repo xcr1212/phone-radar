@@ -1,6 +1,26 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-08-16T03:12:01.358Z",
+  "updatedAt": "2026-08-16T04:49:13.184Z",
   "news": [
+    {
+      "id": "auto-fe537f231d93",
+      "title": "小米 REDMI K100 Pro 系列手机首销日成绩曝光，销量约上代的 65%",
+      "source": "IT之家",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-16",
+      "time": "03:52",
+      "publishedAt": "2026-08-16T03:52:53.000Z",
+      "url": "https://www.ithome.com/0/990/263.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/8/fa9a2500-1789-4624-b3aa-d50b42cf481e.png",
+      "summary": "IT之家 8 月 16 日消息，长期关注国内手机市场份额的数码博主 @RD观测 今日发文，分享了 REDMI K100 Pro 系列手机的首销情况。 REDMI K100 系列（K100 Pro / Pro Max）首销日（ 首销当晚 + 次日 ）SO 约为 REDMI K90 系列（K90 / Pro Max）的 65%。其中： REDMI K100 P…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-ced2e21d574b",
       "title": "iQOO Neo11 至尊版手机官宣搭载 5000 万像素索尼超防抖大底主摄",
@@ -73,7 +93,7 @@ window.phoneRadarAuto = {
       "time": "00:11",
       "publishedAt": "2026-08-16T00:11:13.000Z",
       "url": "https://www.ithome.com/0/990/219.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/8/88718578-a7f7-42d8-afd5-07e6a11c7305.jpg?x-bce-process=image/format,f_auto",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/8/88718578-a7f7-42d8-afd5-07e6a11c7305.jpg",
       "summary": "IT之家 8 月 16 日消息，开发者 Rlightz7iF_RLZ 发文，宣布为经典手机小米 6 带来了澎湃 OS4 Beta 刷机包“HyperOS 4.0.0.9.XCACNXM For Sagit”，该包本身基于小米 17 Pudding 内测包打造，系统底层基于安卓 17。 参考其展示的上手视频，小米 6 运行澎湃 OS 4 的整体流畅度较佳，部…",
       "tags": [
         "Xiaomi",
@@ -242,23 +262,23 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-15f7a5d2f6ba",
-      "title": "三星 Galaxy S26 FE 第三方手机壳渲染图曝光，直观展示机身外观设计",
-      "source": "IT之家",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
+      "id": "newsnow-564453a14a72",
+      "title": "手机涨价何时是个头",
+      "source": "微博热搜",
+      "brand": "行业",
+      "model": "智能手机市场",
       "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-15",
-      "time": "23:25",
-      "publishedAt": "2026-08-15T23:25:49.000Z",
-      "url": "https://www.ithome.com/0/990/205.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/8/610a4648-e723-40e4-8560-a56dab90db74.png?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 8 月 16 日消息，许多手机配件制造商会通过各种方式在新机发布之前获得手机的参数规格信息，以期提前铺货抢占市场。例如目前配件厂商 ARMOR-X 已在官网上架多款 Galaxy S26 FE 手机壳，产品渲染图机型为 Pistachio（开心果绿）版本，整体外观与现款 S25 FE 相似。 综合外媒 sammyguru，当下三星 Galaxy…",
+      "trust": "待验证",
+      "date": "2026-08-16",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://s.weibo.com/weibo?q=%23%E6%89%8B%E6%9C%BA%E6%B6%A8%E4%BB%B7%E4%BD%95%E6%97%B6%E6%98%AF%E4%B8%AA%E5%A4%B4%23&t=31&band_rank=20&Refer=top",
+      "image": "",
+      "summary": "手机涨价何时是个头",
       "tags": [
-        "Samsung",
+        "行业",
         "爆料",
-        "自动抓取"
+        "NewsNow"
       ]
     },
     {
@@ -422,6 +442,26 @@ window.phoneRadarAuto = {
       ]
     },
     {
+      "id": "auto-fa61b398e0d9",
+      "title": "Honor’s iconic center camera design to retire with Magic 9 flagship",
+      "source": "Huawei Central",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-15",
+      "time": "11:22",
+      "publishedAt": "2026-08-15T11:22:20.000Z",
+      "url": "https://www.huaweicentral.com/honors-iconic-center-camera-design-to-retire-with-magic-9-flagship/",
+      "image": "https://www.huaweicentral.com/wp-content/uploads/2026/08/Magic-9-camera.jpg",
+      "summary": "Almost a decade ago, Honor introduced the Magic 3 series with what became a signature look for the company’s flagship phones: a centrally placed camera bump. And this fall, with H…",
+      "tags": [
+        "HONOR",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
       "id": "auto-a6fb29772dc6",
       "title": "Is the Pixel 11’s Tensor G6 actually a good upgrade from the G5? I crunched the numbers",
       "source": "Android Authority",
@@ -462,6 +502,26 @@ window.phoneRadarAuto = {
       ]
     },
     {
+      "id": "auto-9f17057790df",
+      "title": "Huawei Pura 90 series to soon introduce a budget-friendly option",
+      "source": "Huawei Central",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-15",
+      "time": "10:23",
+      "publishedAt": "2026-08-15T10:23:11.000Z",
+      "url": "https://www.huaweicentral.com/huawei-pura-90-series-to-soon-introduce-a-budget-friendly-option/",
+      "image": "https://www.huaweicentral.com/wp-content/uploads/2026/04/Pura90-Pro.jpg",
+      "summary": "When Huawei unveiled the Pura 90 series in April this year, it brought three models – Standard, Pro, and Pro Max, though it seems the company is now up with a budget-friendly opti…",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
       "id": "auto-7d1a50ef46ae",
       "title": "Pixel 11 or Pixel 10a? Here’s why the Pixel 11 really is worth $400 more",
       "source": "Android Authority",
@@ -477,6 +537,26 @@ window.phoneRadarAuto = {
       "summary": "The Pixel 11 really is worth splurging for.",
       "tags": [
         "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-6c02f03e2ecf",
+      "title": "Honor plans to boost mobile gaming with 12000mAh battery",
+      "source": "Huawei Central",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-15",
+      "time": "09:07",
+      "publishedAt": "2026-08-15T09:07:30.000Z",
+      "url": "https://www.huaweicentral.com/honor-plans-to-boost-mobile-gaming-with-12000mah-battery/",
+      "image": "https://www.huaweicentral.com/wp-content/uploads/2026/07/Honor-WIN-Series.jpg",
+      "summary": "As we approach the official launch timeframe of the Magic 9 series, Honor began the trial production of a 12000mAh battery, targeting the mobile gaming experience. And it seems th…",
+      "tags": [
+        "HONOR",
         "爆料",
         "自动抓取"
       ]
