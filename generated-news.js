@@ -1,6 +1,46 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-08-16T12:59:43.062Z",
+  "updatedAt": "2026-08-16T14:37:29.594Z",
   "news": [
+    {
+      "id": "auto-97baa15aded4",
+      "title": "I'd skip the expensive Samsung Galaxy S26 Ultra for these phones every time",
+      "source": "Android Police",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-16",
+      "time": "13:00",
+      "publishedAt": "2026-08-16T13:00:16.000Z",
+      "url": "https://www.androidpolice.com/id-skip-the-expensive-samsung-galaxy-s26-ultra-for-these-phones-every-time/",
+      "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2026/04/img_3235.jpg",
+      "summary": "Forget Samsung's latest, these five phones are great alternatives",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-f7f578a5f51e",
+      "title": "Pixel 11 Pro’s ‘HiLight’ is another half-baked feature burdened by bad first impressions",
+      "source": "9to5Google",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-16",
+      "time": "13:00",
+      "publishedAt": "2026-08-16T13:00:00.000Z",
+      "url": "https://9to5google.com/2026/08/16/google-pixel-11-hilight/",
+      "image": "",
+      "summary": "There are a few trends that have shown up on Pixel phones over the years, but one of the most frustrating is that Google keeps launching half-baked features on its devices that ta…",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "coolapk-user-514e8f21b4b7",
       "title": "竹本青：这集神了 #HyperOS3# #HyperOS4#",
@@ -75,66 +115,6 @@ window.phoneRadarAuto = {
       "url": "https://www.gizmochina.com/2026/08/16/xiaomi-scraps-xiaomi-18-ultra-oppo-and-vivo-to-limit-their-ultra-model-to-china-only-leak/",
       "image": "https://www.gizmochina.com/wp-content/uploads/2026/01/G_rGZSFbkAA2jAs-300x244.jpg?x23692",
       "summary": "Xiaomi has reportedly pulled the plug on the Xiaomi 18 Ultra, and you might see the word Ultra disappear from a lot more Chinese flagships next year. Words for this come from tips…",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-b3eb7564b39e",
-      "title": "Standard Huawei Mate 90 to bring performance upgrade with Kirin 9030 chip",
-      "source": "Huawei Central",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-16",
-      "time": "07:29",
-      "publishedAt": "2026-08-16T07:29:51.000Z",
-      "url": "https://www.huaweicentral.com/standard-huawei-mate-90-to-bring-performance-upgrade-with-kirin-9030-chip/",
-      "image": "",
-      "summary": "Huawei Mate 90 series is coming, and its standard version will upgrade performance thanks to the new Kirin 9030 chipset, which the Kirin 9020 used in the standard Mate 80. Accordi…",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-ff154b7d769a",
-      "title": "Apple’s foldable iPhone will form a competition with Huawei and Samsung",
-      "source": "Huawei Central",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-16",
-      "time": "06:41",
-      "publishedAt": "2026-08-16T06:41:22.000Z",
-      "url": "https://www.huaweicentral.com/apples-foldable-iphone-will-form-a-competition-with-huawei-and-samsung/",
-      "image": "",
-      "summary": "Apple’s first foldable iPhone will launch in September, competing against Huawei and Samsung, two of the biggest foldable smartphone-selling companies. Digital FixedFocus said tha…",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-fe537f231d93",
-      "title": "小米 REDMI K100 Pro 系列手机首销日成绩曝光，销量约上代的 65%",
-      "source": "IT之家",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-16",
-      "time": "03:52",
-      "publishedAt": "2026-08-16T03:52:53.000Z",
-      "url": "https://www.ithome.com/0/990/263.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/8/fa9a2500-1789-4624-b3aa-d50b42cf481e.png",
-      "summary": "IT之家 8 月 16 日消息，长期关注国内手机市场份额的数码博主 @RD观测 今日发文，分享了 REDMI K100 Pro 系列手机的首销情况。 REDMI K100 系列（K100 Pro / Pro Max）首销日（ 首销当晚 + 次日 ）SO 约为 REDMI K90 系列（K90 / Pro Max）的 65%。其中： REDMI K100 P…",
       "tags": [
         "Xiaomi",
         "爆料",
@@ -242,26 +222,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-c8f4c8b05435",
-      "title": "诸位酷友有什么好设计[受虐滑稽]让我参考下，可以不分享桌搭，但麻烦不要恶评[嘿哈] #REDMIK100ProMax# #HyperOS4# #红米K90#",
-      "source": "酷安热榜",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-08-16",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73263504",
-      "image": "",
-      "summary": "诸位酷友有什么好设计[受虐滑稽]让我参考下，可以不分享桌搭，但麻烦不要恶评[嘿哈] #REDMIK100ProMax# #HyperOS4# #红米K90#",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
       "id": "newsnow-20dcf3900e03",
       "title": "移植机型：REDMI K90 4.0.0.18.XPKCNXM",
       "source": "酷安热榜",
@@ -275,6 +235,26 @@ window.phoneRadarAuto = {
       "url": "https://www.coolapk.com/feed/73256433",
       "image": "",
       "summary": "移植机型：REDMI K90 4.0.0.18.XPKCNXM",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-c8f4c8b05435",
+      "title": "诸位酷友有什么好设计[受虐滑稽]让我参考下，可以不分享桌搭，但麻烦不要恶评[嘿哈] #REDMIK100ProMax# #HyperOS4# #红米K90#",
+      "source": "酷安热榜",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-08-16",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/73263504",
+      "image": "",
+      "summary": "诸位酷友有什么好设计[受虐滑稽]让我参考下，可以不分享桌搭，但麻烦不要恶评[嘿哈] #REDMIK100ProMax# #HyperOS4# #红米K90#",
       "tags": [
         "Xiaomi",
         "爆料",
@@ -319,46 +299,6 @@ window.phoneRadarAuto = {
         "行业",
         "爆料",
         "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-efcfbafc799e",
-      "title": "买这家四五次了，都不带踩雷的，要的就是这种瓦楞磨砂透白的手机壳，还是一如既往的舒服的手感，不用担心手机壳油腻的感觉，这个手机壳最大的优点就是不硬其次就是不顶膜！！！像那种全覆盖的膜不会顶，因为没有做收边处理。",
-      "source": "酷安热榜",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-08-16",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73257982",
-      "image": "",
-      "summary": "买这家四五次了，都不带踩雷的，要的就是这种瓦楞磨砂透白的手机壳，还是一如既往的舒服的手感，不用担心手机壳油腻的感觉，这个手机壳最大的优点就是不硬其次就是不顶膜！！！像那种全覆盖的膜不会顶，因为没有做收边处理。",
-      "tags": [
-        "行业",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "auto-b5476cb91be3",
-      "title": "Grab this 3-pack of glass screen protectors for the Samsung Galaxy S26 Ultra for just $3",
-      "source": "Android Police",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-15",
-      "time": "17:30",
-      "publishedAt": "2026-08-15T17:30:28.000Z",
-      "url": "https://www.androidpolice.com/samsung-galaxy-s26-ultra-tempered-glass-screen-protector-3-deal/",
-      "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2026/05/samsung-galaxy-s26-ultra-smashed-screen-1.jpg",
-      "summary": "An easy choice",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
       ]
     },
     {
@@ -442,26 +382,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-fa61b398e0d9",
-      "title": "Honor’s iconic center camera design to retire with Magic 9 flagship",
-      "source": "Huawei Central",
-      "brand": "HONOR",
-      "model": "HONOR 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-15",
-      "time": "11:22",
-      "publishedAt": "2026-08-15T11:22:20.000Z",
-      "url": "https://www.huaweicentral.com/honors-iconic-center-camera-design-to-retire-with-magic-9-flagship/",
-      "image": "https://www.huaweicentral.com/wp-content/uploads/2026/08/Magic-9-camera.jpg",
-      "summary": "Almost a decade ago, Honor introduced the Magic 3 series with what became a signature look for the company’s flagship phones: a centrally placed camera bump. And this fall, with H…",
-      "tags": [
-        "HONOR",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-a6fb29772dc6",
       "title": "Is the Pixel 11’s Tensor G6 actually a good upgrade from the G5? I crunched the numbers",
       "source": "Android Authority",
@@ -502,26 +422,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-9f17057790df",
-      "title": "Huawei Pura 90 series to soon introduce a budget-friendly option",
-      "source": "Huawei Central",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-15",
-      "time": "10:23",
-      "publishedAt": "2026-08-15T10:23:11.000Z",
-      "url": "https://www.huaweicentral.com/huawei-pura-90-series-to-soon-introduce-a-budget-friendly-option/",
-      "image": "https://www.huaweicentral.com/wp-content/uploads/2026/04/Pura90-Pro.jpg",
-      "summary": "When Huawei unveiled the Pura 90 series in April this year, it brought three models – Standard, Pro, and Pro Max, though it seems the company is now up with a budget-friendly opti…",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-7d1a50ef46ae",
       "title": "Pixel 11 or Pixel 10a? Here’s why the Pixel 11 really is worth $400 more",
       "source": "Android Authority",
@@ -537,26 +437,6 @@ window.phoneRadarAuto = {
       "summary": "The Pixel 11 really is worth splurging for.",
       "tags": [
         "Pixel",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-6c02f03e2ecf",
-      "title": "Honor plans to boost mobile gaming with 12000mAh battery",
-      "source": "Huawei Central",
-      "brand": "HONOR",
-      "model": "HONOR 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-15",
-      "time": "09:07",
-      "publishedAt": "2026-08-15T09:07:30.000Z",
-      "url": "https://www.huaweicentral.com/honor-plans-to-boost-mobile-gaming-with-12000mah-battery/",
-      "image": "https://www.huaweicentral.com/wp-content/uploads/2026/07/Honor-WIN-Series.jpg",
-      "summary": "As we approach the official launch timeframe of the Magic 9 series, Honor began the trial production of a 12000mAh battery, targeting the mobile gaming experience. And it seems th…",
-      "tags": [
-        "HONOR",
         "爆料",
         "自动抓取"
       ]

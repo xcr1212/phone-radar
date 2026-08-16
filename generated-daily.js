@@ -1,15 +1,15 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-08-16T12:59:43.062Z",
+  "updatedAt": "2026-08-16T14:37:29.594Z",
   "issueDate": "2026-08-16",
   "issue": "VOL.260816",
   "title": "手机情报日报",
-  "intro": "今日筛出 17 条重点，其中 5 条是重点爆料，包含 4 条 iPhone 相关、1 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 19 条重点，其中 5 条是重点爆料，包含 4 条 iPhone 相关、1 条官方确认、1 条参数线索。",
   "stats": {
-    "total": 17,
+    "total": 19,
     "iphone": 4,
     "leaks": 5,
     "official": 1,
-    "specs": 0
+    "specs": 1
   },
   "sections": [
     {
@@ -245,27 +245,57 @@ window.phoneRadarDaily = {
       "hint": "能直接更新到参数库。",
       "items": [
         {
-          "id": "auto-ff154b7d769a",
-          "title": "Huawei 折叠屏相关消息",
+          "id": "auto-f7f578a5f51e",
+          "title": "Pixel 相关消息",
           "originalTitle": "",
-          "source": "Huawei Central",
-          "brand": "Huawei",
+          "source": "9to5Google",
+          "brand": "Pixel",
           "type": "爆料",
           "trust": "媒体汇总",
           "date": "2026-08-16",
-          "time": "06:41",
-          "publishedAt": "2026-08-16T06:41:22.000Z",
-          "url": "https://www.huaweicentral.com/apples-foldable-iphone-will-form-a-competition-with-huawei-and-samsung/",
+          "time": "13:00",
+          "publishedAt": "2026-08-16T13:00:00.000Z",
+          "url": "https://9to5google.com/2026/08/16/google-pixel-11-hilight/",
           "image": "",
           "verdict": "可略过",
-          "takeaway": "Huawei 折叠屏相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
-          "detail": "Huawei 折叠屏相关消息。重点看折痕、铰链、厚度、屏幕可靠性和重量是否有实质改善。",
+          "takeaway": "Pixel 相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
+          "detail": "Pixel 相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
           "keyPoints": [
             "爆料"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        }
+      ]
+    },
+    {
+      "id": "specs",
+      "title": "参数、跑分、认证",
+      "hint": "适合验证芯片、屏幕、影像和电池。",
+      "items": [
+        {
+          "id": "auto-a6fb29772dc6",
+          "title": "Pixel 11 芯片 / 性能相关消息",
+          "originalTitle": "",
+          "source": "Android Authority",
+          "brand": "Pixel",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-08-15",
+          "time": "11:00",
+          "publishedAt": "2026-08-15T11:00:22.000Z",
+          "url": "https://www.androidauthority.com/tensor-g6-deep-dive-3695968/",
+          "image": "",
+          "verdict": "可略过",
+          "takeaway": "Pixel 芯片或连接能力相关线索，可能影响性能和续航判断。",
+          "detail": "Pixel 11 芯片 / 性能相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
+          "keyPoints": [
+            "芯片 / 性能"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "影响性能和寿命判断，适合放进参数库。",
+          "action": "有具体参数就记录到参数库；没有参数就先收藏。"
         }
       ]
     },
@@ -296,6 +326,29 @@ window.phoneRadarDaily = {
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是实际体验内容，买前适合重点看缺点和取舍。",
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        },
+        {
+          "id": "auto-1574963763c9",
+          "title": "Pixel 11 a 屏幕规格相关消息",
+          "originalTitle": "",
+          "source": "Android Central",
+          "brand": "Pixel",
+          "type": "评测",
+          "trust": "媒体汇总",
+          "date": "2026-08-15",
+          "time": "10:45",
+          "publishedAt": "2026-08-15T10:45:56.000Z",
+          "url": "https://www.androidcentral.com/accessories/cases-screen-protectors/best-google-pixel-11-and-pixel-11-pro-screen-protectors",
+          "image": "https://cdn.mos.cms.futurecdn.net/EmyZt9zsrrCYiqBmqJ4yih-1280-80.jpg",
+          "verdict": "可略过",
+          "takeaway": "Pixel 11 a 屏幕规格相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
+          "detail": "Pixel 11 a 屏幕规格相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
+          "keyPoints": [
+            "屏幕形态"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是实际体验内容，买前适合重点看缺点和取舍。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         }
       ]
     },
@@ -304,29 +357,6 @@ window.phoneRadarDaily = {
       "title": "行业趋势",
       "hint": "看方向，不急着当购买依据。",
       "items": [
-        {
-          "id": "auto-fe537f231d93",
-          "title": "小米 REDMI K100 Pro 系列手机首销日成绩曝光，销量约上代的 65%",
-          "originalTitle": "",
-          "source": "IT之家",
-          "brand": "Xiaomi",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-08-16",
-          "time": "03:52",
-          "publishedAt": "2026-08-16T03:52:53.000Z",
-          "url": "https://www.ithome.com/0/990/263.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/8/fa9a2500-1789-4624-b3aa-d50b42cf481e.png",
-          "verdict": "先看",
-          "takeaway": "IT之家 8 月 16 日消息，长期关注国内手机市场份额的数码博主 @RD观测 今日发文，分享了 REDMI K100 Pro 系列手机的首销情况。 REDMI K100 系列（K100 Pro / Pro Max）首销日（ 首销当晚 + 次日 ）SO 约为 REDMI K90 系列（K90 / Pro Max）的 65%。其中： REDMI K100 P…",
-          "detail": "IT之家 8 月 16 日消息，长期关注国内手机市场份额的数码博主 @RD观测 今日发文，分享了 REDMI K100 Pro 系列手机的首销情况。 REDMI K100 系列（K100 Pro / Pro Max）首销日（ 首销当晚 + 次日 ）SO 约为 REDMI K90 系列（K90 / Pro Max）的 65%。其中： REDMI K100 P…",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "中文源可以直接点开快读；看完只保留和购机有关的点。"
-        },
         {
           "id": "coolapk-user-0ad398e8a43a",
           "title": "竹本青：【REDMI K100 Pro系列 首销日销量曝光：约为上代的65%】 8月16日，博主「RD观测」分享第三方统计…",
@@ -351,29 +381,6 @@ window.phoneRadarDaily = {
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         },
         {
-          "id": "newsnow-c8f4c8b05435",
-          "title": "诸位酷友有什么好设计[受虐滑稽]让我参考下，可以不分享桌搭，但麻烦不要恶评[嘿哈] #REDMIK100ProMax# #HyperOS4# #红米K90#",
-          "originalTitle": "",
-          "source": "酷安热榜",
-          "brand": "Xiaomi",
-          "type": "爆料",
-          "trust": "高关注爆料源",
-          "date": "2026-08-16",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://www.coolapk.com/feed/73263504",
-          "image": "",
-          "verdict": "扫一眼",
-          "takeaway": "诸位酷友有什么好设计[受虐滑稽]让我参考下，可以不分享桌搭，但麻烦不要恶评[嘿哈] #REDMIK100ProMax# #HyperOS4# #红米K90#",
-          "detail": "诸位酷友有什么好设计[受虐滑稽]让我参考下，可以不分享桌搭，但麻烦不要恶评[嘿哈] #REDMIK100ProMax# #HyperOS4# #红米K90#",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
-        {
           "id": "newsnow-20dcf3900e03",
           "title": "移植机型：REDMI K90 4.0.0.18.XPKCNXM",
           "originalTitle": "",
@@ -389,6 +396,29 @@ window.phoneRadarDaily = {
           "verdict": "扫一眼",
           "takeaway": "移植机型：REDMI K90 4.0.0.18.XPKCNXM",
           "detail": "移植机型：REDMI K90 4.0.0.18.XPKCNXM",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        },
+        {
+          "id": "newsnow-c8f4c8b05435",
+          "title": "诸位酷友有什么好设计[受虐滑稽]让我参考下，可以不分享桌搭，但麻烦不要恶评[嘿哈] #REDMIK100ProMax# #HyperOS4# #红米K90#",
+          "originalTitle": "",
+          "source": "酷安热榜",
+          "brand": "Xiaomi",
+          "type": "爆料",
+          "trust": "高关注爆料源",
+          "date": "2026-08-16",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://www.coolapk.com/feed/73263504",
+          "image": "",
+          "verdict": "扫一眼",
+          "takeaway": "诸位酷友有什么好设计[受虐滑稽]让我参考下，可以不分享桌搭，但麻烦不要恶评[嘿哈] #REDMIK100ProMax# #HyperOS4# #红米K90#",
+          "detail": "诸位酷友有什么好设计[受虐滑稽]让我参考下，可以不分享桌搭，但麻烦不要恶评[嘿哈] #REDMIK100ProMax# #HyperOS4# #红米K90#",
           "keyPoints": [
             "爆料"
           ],
@@ -420,25 +450,48 @@ window.phoneRadarDaily = {
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         },
         {
-          "id": "newsnow-efcfbafc799e",
-          "title": "买这家四五次了，都不带踩雷的，要的就是这种瓦楞磨砂透白的手机壳，还是一如既往的舒服的手感，不用担心手机壳油腻的感觉，这个手机壳最大的优点就是不硬其次就是不顶膜！！！像那种全覆盖的膜不会顶，因为没有做收边处理。",
+          "id": "coolapk-user-514e8f21b4b7",
+          "title": "竹本青：这集神了 #HyperOS3# #HyperOS4#",
           "originalTitle": "",
-          "source": "酷安热榜",
-          "brand": "行业",
+          "source": "竹本青",
+          "brand": "Xiaomi",
           "type": "爆料",
-          "trust": "高关注爆料源",
+          "trust": "高可信爆料",
           "date": "2026-08-16",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://www.coolapk.com/feed/73257982",
+          "time": "10:15",
+          "publishedAt": "2026-08-16T10:15:34.000Z",
+          "url": "https://www.coolapk.com/feed/73276314",
           "image": "",
           "verdict": "扫一眼",
-          "takeaway": "买这家四五次了，都不带踩雷的，要的就是这种瓦楞磨砂透白的手机壳，还是一如既往的舒服的手感，不用担心手机壳油腻的感觉，这个手机壳最大的优点就是不硬其次就是不顶膜！！！像那种全覆盖的膜不会顶，因为没有做收边处理。",
-          "detail": "买这家四五次了，都不带踩雷的，要的就是这种瓦楞磨砂透白的手机壳，还是一如既往的舒服的手感，不用担心手机壳油腻的感觉，这个手机壳最大的优点就是不硬其次就是不顶膜！！！像那种全覆盖的膜不会顶，因为没有做收边处理。",
+          "takeaway": "这集神了 #HyperOS3# #HyperOS4#",
+          "detail": "这集神了 #HyperOS3# #HyperOS4#",
           "keyPoints": [
             "爆料"
           ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "confidence": "可信度较高，但仍属于发布前线索。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        },
+        {
+          "id": "coolapk-user-f9bf53f73350",
+          "title": "竹本青：【小米澎程回应全系标配9个碰撞传感器：不追求数量，而是希望覆盖得更全面】 小米澎程全系布置了9个碰撞传感器，分别位…",
+          "originalTitle": "",
+          "source": "竹本青",
+          "brand": "Xiaomi",
+          "type": "爆料",
+          "trust": "高可信爆料",
+          "date": "2026-08-16",
+          "time": "01:26",
+          "publishedAt": "2026-08-16T01:26:46.000Z",
+          "url": "https://www.coolapk.com/feed/73268631",
+          "image": "http://image.coolapk.com/feed/2026/0816/09/4248714_23370c47_3604_7446_408@1438x1249.jpg",
+          "verdict": "扫一眼",
+          "takeaway": "【小米澎程回应全系标配9个碰撞传感器：不追求数量，而是希望覆盖得更全面】 小米澎程全系布置了9个碰撞传感器，分别位于前防撞梁、前纵梁、前门、B柱以及C柱位置，覆盖车辆前部到乘员舱侧面的多个关键区域。 这样设计主要考虑的是，现实中的碰撞位置和碰撞方向非常复杂，通过在车身不同位置布置传感器，可以更充分地获取碰撞信息，更准确地识别碰撞发生的位置和方向，为安全气囊…",
+          "detail": "【小米澎程回应全系标配9个碰撞传感器：不追求数量，而是希望覆盖得更全面】 小米澎程全系布置了9个碰撞传感器，分别位于前防撞梁、前纵梁、前门、B柱以及C柱位置，覆盖车辆前部到乘员舱侧面的多个关键区域。 这样设计主要考虑的是，现实中的碰撞位置和碰撞方向非常复杂，通过在车身不同位置布置传感器，可以更充分地获取碰撞信息，更准确地识别碰撞发生的位置和方向，为安全气囊…",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "可信度较高，但仍属于发布前线索。",
           "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         }
