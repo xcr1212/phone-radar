@@ -1,6 +1,26 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-08-16T06:57:47.645Z",
+  "updatedAt": "2026-08-16T08:45:52.143Z",
   "news": [
+    {
+      "id": "auto-20804f9792fb",
+      "title": "Xiaomi scraps Xiaomi 18 Ultra, Oppo and Vivo to limit their Ultra model to China only: Leak",
+      "source": "Gizmochina",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-16",
+      "time": "07:48",
+      "publishedAt": "2026-08-16T07:48:02.000Z",
+      "url": "https://www.gizmochina.com/2026/08/16/xiaomi-scraps-xiaomi-18-ultra-oppo-and-vivo-to-limit-their-ultra-model-to-china-only-leak/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/01/G_rGZSFbkAA2jAs-300x244.jpg?x23692",
+      "summary": "Xiaomi has reportedly pulled the plug on the Xiaomi 18 Ultra, and you might see the word Ultra disappear from a lot more Chinese flagships next year. Words for this come from tips…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-fe537f231d93",
       "title": "小米 REDMI K100 Pro 系列手机首销日成绩曝光，销量约上代的 65%",
@@ -79,26 +99,6 @@ window.phoneRadarAuto = {
         "Xiaomi",
         "爆料",
         "酷安博主"
-      ]
-    },
-    {
-      "id": "auto-0bdb4a40000d",
-      "title": "9 年前“钉子户”经典神机还能战：开发者为小米 6 带来澎湃 OS 4 Beta 刷机包",
-      "source": "IT之家",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-16",
-      "time": "00:11",
-      "publishedAt": "2026-08-16T00:11:13.000Z",
-      "url": "https://www.ithome.com/0/990/219.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/8/88718578-a7f7-42d8-afd5-07e6a11c7305.jpg",
-      "summary": "IT之家 8 月 16 日消息，开发者 Rlightz7iF_RLZ 发文，宣布为经典手机小米 6 带来了澎湃 OS4 Beta 刷机包“HyperOS 4.0.0.9.XCACNXM For Sagit”，该包本身基于小米 17 Pudding 内测包打造，系统底层基于安卓 17。 参考其展示的上手视频，小米 6 运行澎湃 OS 4 的整体流畅度较佳，部…",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "自动抓取"
       ]
     },
     {
@@ -183,7 +183,7 @@ window.phoneRadarAuto = {
     },
     {
       "id": "newsnow-c8f4c8b05435",
-      "title": "这是我最新os4的桌搭，诸位酷友有什么好设计[受虐滑稽] #REDMIK100ProMax# #HyperOS4# #红米K90#",
+      "title": "诸位酷友有什么好设计[受虐滑稽]让我参考下，可以不分享桌搭，但麻烦不要恶评[嘿哈] #REDMIK100ProMax# #HyperOS4# #红米K90#",
       "source": "酷安热榜",
       "brand": "Xiaomi",
       "model": "Xiaomi 相关机型",
@@ -194,7 +194,7 @@ window.phoneRadarAuto = {
       "publishedAt": "",
       "url": "https://www.coolapk.com/feed/73263504",
       "image": "",
-      "summary": "这是我最新os4的桌搭，诸位酷友有什么好设计[受虐滑稽] #REDMIK100ProMax# #HyperOS4# #红米K90#",
+      "summary": "诸位酷友有什么好设计[受虐滑稽]让我参考下，可以不分享桌搭，但麻烦不要恶评[嘿哈] #REDMIK100ProMax# #HyperOS4# #红米K90#",
       "tags": [
         "Xiaomi",
         "爆料",
@@ -222,26 +222,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-c3a510156261",
-      "title": "5999是买mate80promax还是k100promax",
-      "source": "酷安热榜",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-08-16",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73229716",
-      "image": "",
-      "summary": "5999是买mate80promax还是k100promax",
-      "tags": [
-        "行业",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
       "id": "newsnow-7a9b14ef6f1a",
       "title": "老规矩，这四台手机都在手，有问题随便问",
       "source": "酷安热榜",
@@ -262,8 +242,8 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-efcfbafc799e",
-      "title": "买这家四五次了，都不带踩雷的，要的就是这种瓦楞磨砂透白的手机壳，还是一如既往的舒服的手感，不用担心手机壳油腻的感觉，这个手机壳最大的优点就是不硬其次就是不顶膜！！！像那种全覆盖的膜不会顶，因为没有做收边处理。",
+      "id": "newsnow-c3a510156261",
+      "title": "5999是买mate80promax还是k100promax",
       "source": "酷安热榜",
       "brand": "行业",
       "model": "智能手机市场",
@@ -272,49 +252,9 @@ window.phoneRadarAuto = {
       "date": "2026-08-16",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73257982",
+      "url": "https://www.coolapk.com/feed/73229716",
       "image": "",
-      "summary": "买这家四五次了，都不带踩雷的，要的就是这种瓦楞磨砂透白的手机壳，还是一如既往的舒服的手感，不用担心手机壳油腻的感觉，这个手机壳最大的优点就是不硬其次就是不顶膜！！！像那种全覆盖的膜不会顶，因为没有做收边处理。",
-      "tags": [
-        "行业",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-43c74a05de30",
-      "title": "张睿一看手机天又塌了",
-      "source": "微博热搜",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "待验证",
-      "date": "2026-08-16",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://s.weibo.com/weibo?q=%23%E5%BC%A0%E7%9D%BF%E4%B8%80%E7%9C%8B%E6%89%8B%E6%9C%BA%E5%A4%A9%E5%8F%88%E5%A1%8C%E4%BA%86%23&t=31&band_rank=4&Refer=top",
-      "image": "",
-      "summary": "张睿一看手机天又塌了",
-      "tags": [
-        "行业",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-338878b9a809",
-      "title": "手机涨价何时是个头",
-      "source": "微博热搜",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "待验证",
-      "date": "2026-08-16",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://s.weibo.com/weibo?q=%23%E6%89%8B%E6%9C%BA%E6%B6%A8%E4%BB%B7%E4%BD%95%E6%97%B6%E6%98%AF%E4%B8%AA%E5%A4%B4%23&t=31&band_rank=30&Refer=top",
-      "image": "",
-      "summary": "手机涨价何时是个头",
+      "summary": "5999是买mate80promax还是k100promax",
       "tags": [
         "行业",
         "爆料",
@@ -335,6 +275,26 @@ window.phoneRadarAuto = {
       "url": "https://www.baidu.com/s?wd=%E6%89%8B%E6%9C%BA%E6%B6%A8%E4%BB%B7%E4%BD%95%E6%97%B6%E6%98%AF%E4%B8%AA%E5%A4%B4",
       "image": "",
       "summary": "手机涨价何时是个头",
+      "tags": [
+        "行业",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-5b6dbebe38c6",
+      "title": "手机壳 医疗垃圾",
+      "source": "百度热搜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-16",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.baidu.com/s?wd=%E6%89%8B%E6%9C%BA%E5%A3%B3+%E5%8C%BB%E7%96%97%E5%9E%83%E5%9C%BE",
+      "image": "",
+      "summary": "手机壳 医疗垃圾",
       "tags": [
         "行业",
         "爆料",
@@ -603,7 +563,7 @@ window.phoneRadarAuto = {
     },
     {
       "id": "coolapk-user-f78c883f61ba",
-      "title": "竹本青：【华为Pura X Max 最新销量曝光：全系超68万台，典藏版近35.5万台】 华为 Pura X Max： ●…",
+      "title": "竹本青：华为Pura X Max 最新销量曝光：全系超68万台",
       "source": "竹本青",
       "brand": "Huawei",
       "model": "Huawei 相关机型",
@@ -663,7 +623,7 @@ window.phoneRadarAuto = {
     },
     {
       "id": "coolapk-user-f6bf0f6980a6",
-      "title": "竹本青：【小米精英驾驶・国家B级赛照培训官宣：8月17日开放报名，小米车主专属价12999元】 8月17日早10:00北京…",
+      "title": "竹本青：小米精英驾驶・国家B级赛照培训官宣：小米车主专属价12999元",
       "source": "竹本青",
       "brand": "Xiaomi",
       "model": "Xiaomi 相关机型",

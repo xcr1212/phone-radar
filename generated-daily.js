@@ -1,13 +1,13 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-08-16T06:57:47.645Z",
+  "updatedAt": "2026-08-16T08:45:52.143Z",
   "issueDate": "2026-08-16",
   "issue": "VOL.260816",
   "title": "手机情报日报",
-  "intro": "今日筛出 19 条重点，其中 7 条是重点爆料，包含 4 条 iPhone 相关、1 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 20 条重点，其中 8 条是重点爆料，包含 4 条 iPhone 相关、1 条官方确认、0 条参数线索。",
   "stats": {
-    "total": 19,
+    "total": 20,
     "iphone": 4,
-    "leaks": 7,
+    "leaks": 8,
     "official": 1,
     "specs": 0
   },
@@ -91,7 +91,7 @@ window.phoneRadarDaily = {
         },
         {
           "id": "coolapk-user-f6bf0f6980a6",
-          "title": "竹本青：【小米精英驾驶・国家B级赛照培训官宣：8月17日开放报名，小米车主专属价12999元】 8月17日早10:00北京…",
+          "title": "竹本青：小米精英驾驶・国家B级赛照培训官宣：小米车主专属价12999元",
           "originalTitle": "",
           "source": "竹本青",
           "brand": "Xiaomi",
@@ -158,6 +158,29 @@ window.phoneRadarDaily = {
             "爆料来源"
           ],
           "confidence": "可信度较高，但仍属于发布前线索。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "auto-20804f9792fb",
+          "title": "Xiaomi 相关消息",
+          "originalTitle": "",
+          "source": "Gizmochina",
+          "brand": "Xiaomi",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-08-16",
+          "time": "07:48",
+          "publishedAt": "2026-08-16T07:48:02.000Z",
+          "url": "https://www.gizmochina.com/2026/08/16/xiaomi-scraps-xiaomi-18-ultra-oppo-and-vivo-to-limit-their-ultra-model-to-china-only-leak/",
+          "image": "https://www.gizmochina.com/wp-content/uploads/2026/01/G_rGZSFbkAA2jAs-300x244.jpg?x23692",
+          "verdict": "先看",
+          "takeaway": "Xiaomi 相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
+          "detail": "Xiaomi 相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
+          "keyPoints": [
+            "爆料来源"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
@@ -375,7 +398,7 @@ window.phoneRadarDaily = {
         },
         {
           "id": "newsnow-c8f4c8b05435",
-          "title": "这是我最新os4的桌搭，诸位酷友有什么好设计[受虐滑稽] #REDMIK100ProMax# #HyperOS4# #红米K90#",
+          "title": "诸位酷友有什么好设计[受虐滑稽]让我参考下，可以不分享桌搭，但麻烦不要恶评[嘿哈] #REDMIK100ProMax# #HyperOS4# #红米K90#",
           "originalTitle": "",
           "source": "酷安热榜",
           "brand": "Xiaomi",
@@ -387,8 +410,8 @@ window.phoneRadarDaily = {
           "url": "https://www.coolapk.com/feed/73263504",
           "image": "",
           "verdict": "扫一眼",
-          "takeaway": "这是我最新os4的桌搭，诸位酷友有什么好设计[受虐滑稽] #REDMIK100ProMax# #HyperOS4# #红米K90#",
-          "detail": "这是我最新os4的桌搭，诸位酷友有什么好设计[受虐滑稽] #REDMIK100ProMax# #HyperOS4# #红米K90#",
+          "takeaway": "诸位酷友有什么好设计[受虐滑稽]让我参考下，可以不分享桌搭，但麻烦不要恶评[嘿哈] #REDMIK100ProMax# #HyperOS4# #红米K90#",
+          "detail": "诸位酷友有什么好设计[受虐滑稽]让我参考下，可以不分享桌搭，但麻烦不要恶评[嘿哈] #REDMIK100ProMax# #HyperOS4# #红米K90#",
           "keyPoints": [
             "爆料"
           ],
@@ -443,29 +466,6 @@ window.phoneRadarDaily = {
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         },
         {
-          "id": "newsnow-efcfbafc799e",
-          "title": "买这家四五次了，都不带踩雷的，要的就是这种瓦楞磨砂透白的手机壳，还是一如既往的舒服的手感，不用担心手机壳油腻的感觉，这个手机壳最大的优点就是不硬其次就是不顶膜！！！像那种全覆盖的膜不会顶，因为没有做收边处理。",
-          "originalTitle": "",
-          "source": "酷安热榜",
-          "brand": "行业",
-          "type": "爆料",
-          "trust": "高关注爆料源",
-          "date": "2026-08-16",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://www.coolapk.com/feed/73257982",
-          "image": "",
-          "verdict": "扫一眼",
-          "takeaway": "买这家四五次了，都不带踩雷的，要的就是这种瓦楞磨砂透白的手机壳，还是一如既往的舒服的手感，不用担心手机壳油腻的感觉，这个手机壳最大的优点就是不硬其次就是不顶膜！！！像那种全覆盖的膜不会顶，因为没有做收边处理。",
-          "detail": "买这家四五次了，都不带踩雷的，要的就是这种瓦楞磨砂透白的手机壳，还是一如既往的舒服的手感，不用担心手机壳油腻的感觉，这个手机壳最大的优点就是不硬其次就是不顶膜！！！像那种全覆盖的膜不会顶，因为没有做收边处理。",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
-        {
           "id": "coolapk-user-f9bf53f73350",
           "title": "竹本青：【小米澎程回应全系标配9个碰撞传感器：不追求数量，而是希望覆盖得更全面】 小米澎程全系布置了9个碰撞传感器，分别位…",
           "originalTitle": "",
@@ -481,6 +481,29 @@ window.phoneRadarDaily = {
           "verdict": "扫一眼",
           "takeaway": "【小米澎程回应全系标配9个碰撞传感器：不追求数量，而是希望覆盖得更全面】 小米澎程全系布置了9个碰撞传感器，分别位于前防撞梁、前纵梁、前门、B柱以及C柱位置，覆盖车辆前部到乘员舱侧面的多个关键区域。 这样设计主要考虑的是，现实中的碰撞位置和碰撞方向非常复杂，通过在车身不同位置布置传感器，可以更充分地获取碰撞信息，更准确地识别碰撞发生的位置和方向，为安全气囊…",
           "detail": "【小米澎程回应全系标配9个碰撞传感器：不追求数量，而是希望覆盖得更全面】 小米澎程全系布置了9个碰撞传感器，分别位于前防撞梁、前纵梁、前门、B柱以及C柱位置，覆盖车辆前部到乘员舱侧面的多个关键区域。 这样设计主要考虑的是，现实中的碰撞位置和碰撞方向非常复杂，通过在车身不同位置布置传感器，可以更充分地获取碰撞信息，更准确地识别碰撞发生的位置和方向，为安全气囊…",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "可信度较高，但仍属于发布前线索。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        },
+        {
+          "id": "coolapk-user-f78c883f61ba",
+          "title": "竹本青：华为Pura X Max 最新销量曝光：全系超68万台",
+          "originalTitle": "",
+          "source": "竹本青",
+          "brand": "Huawei",
+          "type": "爆料",
+          "trust": "高可信爆料",
+          "date": "2026-08-15",
+          "time": "06:59",
+          "publishedAt": "2026-08-15T06:59:42.000Z",
+          "url": "https://www.coolapk.com/feed/73256789",
+          "image": "http://image.coolapk.com/feed/2026/0815/14/4248714_b67d1f10_7181_1285_245@1270x466.jpg",
+          "verdict": "扫一眼",
+          "takeaway": "【华为Pura X Max 最新销量曝光：全系超68万台，典藏版近35.5万台】 华为 Pura X Max： ● 截至2026 W31 —— 约32.55万 截至2026 W30 —— 约30.47万 截至2026 W29 —— 约28.59万 截至2026 W28 —— 约26.88万 华为 Pura X Max 典藏版： ● 截至2026 W31 —…",
+          "detail": "【华为Pura X Max 最新销量曝光：全系超68万台，典藏版近35.5万台】 华为 Pura X Max： ● 截至2026 W31 —— 约32.55万 截至2026 W30 —— 约30.47万 截至2026 W29 —— 约28.59万 截至2026 W28 —— 约26.88万 华为 Pura X Max 典藏版： ● 截至2026 W31 —…",
           "keyPoints": [
             "爆料"
           ],
