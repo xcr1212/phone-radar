@@ -1,6 +1,66 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-08-17T18:56:32.374Z",
+  "updatedAt": "2026-08-17T20:42:34.579Z",
   "news": [
+    {
+      "id": "auto-906170ac3cd4",
+      "title": "Over 10,000 readers told us that the Pixel 11 series missed the mark",
+      "source": "Android Authority",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-17",
+      "time": "20:18",
+      "publishedAt": "2026-08-17T20:18:13.000Z",
+      "url": "https://www.androidauthority.com/pixel-11-series-hot-or-not-poll-results-3699451/",
+      "image": "",
+      "summary": "Our reader survey reveals a pretty brutal verdict on Google's latest flagship.",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-76e9b410f6ad",
+      "title": "Standard Xiaomi 18 to launch in December only, claims leak",
+      "source": "Gizmochina",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-17",
+      "time": "20:16",
+      "publishedAt": "2026-08-17T20:16:06.000Z",
+      "url": "https://www.gizmochina.com/2026/08/17/standard-xiaomi-18-to-launch-in-december-only-claims-leak/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/03/Xiaomi-17-300x300.png?x23692",
+      "summary": "The Xiaomi 18 series won’t launch together this year. According to the latest tip from Digital Chat Station, the standard Xiaomi 18 will land in December, well after its Pro sibli…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-0a3e3de2be4c",
+      "title": "Leaker details A20 Pro chip’s new speed gains",
+      "source": "9to5Mac",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-17",
+      "time": "19:13",
+      "publishedAt": "2026-08-17T19:13:55.000Z",
+      "url": "https://9to5mac.com/2026/08/17/leaker-details-a20-pro-chips-new-speed-gains/",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/12/a20-pro-chip-mockup.jpg?quality=82&strip=all&w=1600",
+      "summary": "iPhone 18 Pro and iPhone Ultra will be unveiled next month with a new A20 Pro chip, and this weekend a reputable leaker shared performance gains to expect per supply chain sources.",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "coolapk-user-30d1aa3498e4",
       "title": "竹本青：【影石Insta360 Luna Pro 云台相机官宣，将于8月20日发布】 ● 支持4K竖屏拍摄（30fps）…",
@@ -43,7 +103,7 @@ window.phoneRadarAuto = {
     },
     {
       "id": "auto-a7ad782c19e4",
-      "title": "Samsung's next wide foldable could be the screen breakthrough Apple's iPhone Ultra won't have",
+      "title": "Galaxy Z Fold 8's runaway success just sparked Samsung's boldest foldable move yet",
       "source": "Android Police",
       "brand": "Samsung",
       "model": "Samsung 相关机型",
@@ -342,26 +402,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-a2ff69e99370",
-      "title": "I flashed my old Android phone with this open source OS to give it a new life",
-      "source": "Android Police",
-      "brand": "Pixel",
-      "model": "Pixel 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-17",
-      "time": "13:30",
-      "publishedAt": "2026-08-17T13:30:15.000Z",
-      "url": "https://www.androidpolice.com/flashed-old-android-phone-with-open-source-os-and-gave-it-new-life/",
-      "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2026/01/copy-of-169-8.jpg",
-      "summary": "Google quit on my Pixel 5 in 2023, so volunteers took over",
-      "tags": [
-        "Pixel",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-17671305ea3b",
       "title": "华为鸿蒙 HarmonyOS 7 系统 3D 空间壁纸适配机型公布，含 Pura 90、Mate 80 等系列",
       "source": "IT之家",
@@ -383,7 +423,7 @@ window.phoneRadarAuto = {
     },
     {
       "id": "coolapk-user-5db99feef5fa",
-      "title": "竹本青：【OriginOS 7 官方预热：光影美学设计】 ● 能感知｜在不同的界面背景下，线条会遵循真实的光学规律发生折射…",
+      "title": "竹本青：【OriginOS 7 官方爆料：光影美学设计】 ● 能感知｜在不同的界面背景下，线条会遵循真实的光学规律发生折射…",
       "source": "竹本青",
       "brand": "vivo",
       "model": "vivo 相关机型",
@@ -394,7 +434,7 @@ window.phoneRadarAuto = {
       "publishedAt": "2026-08-17T11:36:32.000Z",
       "url": "https://www.coolapk.com/feed/73294516",
       "image": "http://image.coolapk.com/feed/2026/0817/19/4248714_53c105cf_6591_0111_75-livepic@1080x1440.jpg",
-      "summary": "【OriginOS 7 官方预热：光影美学设计】 ● 能感知｜在不同的界面背景下，线条会遵循真实的光学规律发生折射，让界面始终保持清晰的层次； ● 可互动｜点按和划动都有自然的光影回应，让交互更有生命力； ● 有智慧｜小V工作时，光效能够结合你的意图，精准引导视觉和操作； ● 懂情绪｜多种个性玩法，通过光影呈现不同的氛围，让界面更有你自己的样子。 #Ori…",
+      "summary": "【OriginOS 7 官方爆料：光影美学设计】 ● 能感知｜在不同的界面背景下，线条会遵循真实的光学规律发生折射，让界面始终保持清晰的层次； ● 可互动｜点按和划动都有自然的光影回应，让交互更有生命力； ● 有智慧｜小V工作时，光效能够结合你的意图，精准引导视觉和操作； ● 懂情绪｜多种个性玩法，通过光影呈现不同的氛围，让界面更有你自己的样子。 #Ori…",
       "tags": [
         "vivo",
         "爆料",
@@ -782,21 +822,21 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-a572bb0121fa",
-      "title": "正式脱离黑厂，黑厂这个破续航我是真的受不了了，明天到祸黑厂的机子就可以出掉了，具体要出的东西看我上一个贴子#OPPOFindX8Ultra# #数码日常# #小米17ProMax#",
+      "id": "newsnow-5d8347246b8d",
+      "title": "最后还是把 iPhone air 回收换了荣耀 air",
       "source": "酷安热榜",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-08-17",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73265055",
+      "url": "https://www.coolapk.com/feed/73286226",
       "image": "",
-      "summary": "正式脱离黑厂，黑厂这个破续航我是真的受不了了，明天到祸黑厂的机子就可以出掉了，具体要出的东西看我上一个贴子#OPPOFindX8Ultra# #数码日常# #小米17ProMax#",
+      "summary": "最后还是把 iPhone air 回收换了荣耀 air",
       "tags": [
-        "Xiaomi",
+        "HONOR",
         "爆料",
         "NewsNow"
       ]
@@ -822,8 +862,8 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-0998d73aa292",
-      "title": "REDMI K100 Pro系列首销日销量曝光：约上代65%",
+      "id": "newsnow-a572bb0121fa",
+      "title": "正式脱离黑厂，黑厂这个破续航我是真的受不了了，明天到祸黑厂的机子就可以出掉了，具体要出的东西看我上一个贴子#OPPOFindX8Ultra# #数码日常# #小米17ProMax#",
       "source": "酷安热榜",
       "brand": "Xiaomi",
       "model": "Xiaomi 相关机型",
@@ -832,9 +872,9 @@ window.phoneRadarAuto = {
       "date": "2026-08-17",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73276158",
+      "url": "https://www.coolapk.com/feed/73265055",
       "image": "",
-      "summary": "REDMI K100 Pro系列首销日销量曝光：约上代65%",
+      "summary": "正式脱离黑厂，黑厂这个破续航我是真的受不了了，明天到祸黑厂的机子就可以出掉了，具体要出的东西看我上一个贴子#OPPOFindX8Ultra# #数码日常# #小米17ProMax#",
       "tags": [
         "Xiaomi",
         "爆料",
@@ -842,7 +882,7 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-3ef0aeabf1f2",
+      "id": "newsnow-4c0dff744b7a",
       "title": "曝iPhone18ProMax独占可变光圈",
       "source": "微博热搜",
       "brand": "iPhone",
@@ -852,7 +892,7 @@ window.phoneRadarAuto = {
       "date": "2026-08-17",
       "time": "",
       "publishedAt": "",
-      "url": "https://s.weibo.com/weibo?q=%23%E6%9B%9DiPhone18ProMax%E7%8B%AC%E5%8D%A0%E5%8F%AF%E5%8F%98%E5%85%89%E5%9C%88%23&t=31&band_rank=23&Refer=top",
+      "url": "https://s.weibo.com/weibo?q=%23%E6%9B%9DiPhone18ProMax%E7%8B%AC%E5%8D%A0%E5%8F%AF%E5%8F%98%E5%85%89%E5%9C%88%23&t=31&band_rank=25&Refer=top",
       "image": "",
       "summary": "曝iPhone18ProMax独占可变光圈",
       "tags": [
