@@ -1,5 +1,5 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-08-17T16:44:46.609Z",
+  "updatedAt": "2026-08-17T18:56:32.374Z",
   "issueDate": "2026-08-17",
   "issue": "VOL.260817",
   "title": "手机情报日报",
@@ -18,25 +18,25 @@ window.phoneRadarDaily = {
       "hint": "机模、配色、影像、屏幕、电池和芯片线索先看。",
       "items": [
         {
-          "id": "coolapk-user-77277868e213",
-          "title": "竹本青：消息称 iPhone 17系列中国区销量已突破4000万台",
+          "id": "auto-9b06e6615868",
+          "title": "iPhone 18 Pro 系统功能 / AI 体验相关消息",
           "originalTitle": "",
-          "source": "竹本青",
+          "source": "MacRumors",
           "brand": "iPhone",
           "type": "爆料",
-          "trust": "高可信爆料",
+          "trust": "媒体汇总",
           "date": "2026-08-17",
-          "time": "08:50",
-          "publishedAt": "2026-08-17T08:50:29.000Z",
-          "url": "https://www.coolapk.com/feed/73291456",
-          "image": "http://image.coolapk.com/feed/2026/0817/16/4248714_371ec6f9_6908_2602_479@2160x1782.jpg",
+          "time": "18:09",
+          "publishedAt": "2026-08-17T18:09:40.000Z",
+          "url": "https://www.macrumors.com/2026/08/17/iphone-18-pro-and-iphone-ultra-rumors/",
+          "image": "https://images.macrumors.com/article-new/2026/08/iPhone-18-Pro-Dark-Cherry-Feature.jpg",
           "verdict": "先看",
-          "takeaway": "【消息称 iPhone 17系列 中国区销量已突破4000万台】 8月17日，博主「RD观测」发布第三方统计数据：截至2026年第32周，iPhone 17系列手机在中国市场累计销量约4004.58万台，周环比新增约50.33万台。 前几周数据如下： 截至 W31 —— 约3954.25万（周增57.22万） 截至 W30 —— 约3897.03万（周增5…",
-          "detail": "【消息称 iPhone 17系列 中国区销量已突破4000万台】 8月17日，博主「RD观测」发布第三方统计数据：截至2026年第32周，iPhone 17系列手机在中国市场累计销量约4004.58万台，周环比新增约50.33万台。 前几周数据如下： 截至 W31 —— 约3954.25万（周增57.22万） 截至 W30 —— 约3897.03万（周增5…",
+          "takeaway": "iPhone 有系统功能或 AI 体验更新，适合关注后续是否影响日常使用。",
+          "detail": "iPhone 18 Pro 系统功能 / AI 体验相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
           "keyPoints": [
             "爆料来源"
           ],
-          "confidence": "可信度较高，但仍属于发布前线索。",
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
@@ -135,30 +135,6 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
-          "id": "auto-ee996311883e",
-          "title": "小米首款万级电池手机！REDMI Note 17 Pro Max 5G 海外官宣",
-          "originalTitle": "",
-          "source": "IT之家",
-          "brand": "Xiaomi",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-08-17",
-          "time": "10:07",
-          "publishedAt": "2026-08-17T10:07:05.000Z",
-          "url": "https://www.ithome.com/0/990/769.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/8/8dbf882f-9279-4dfd-8c12-7ee7d608bd70.jpg?x-bce-process=image/format,f_auto",
-          "verdict": "先看",
-          "takeaway": "IT之家 8 月 17 日消息，小米日本官方账号在社交媒体上宣布， REDMI Note 17 Pro Max 5G 将于 8 月 27 日正式发布，届时会公布价格、配置等详细信息。 据介绍， REDMI Note 17 Pro Max 5G 将成为小米首款拥有万级电池容量的手机 ，并定于 8 月 28 日正式发售。 参考IT之家此前报道，一款型号为 26…",
-          "detail": "IT之家 8 月 17 日消息，小米日本官方账号在社交媒体上宣布， REDMI Note 17 Pro Max 5G 将于 8 月 27 日正式发布，届时会公布价格、配置等详细信息。 据介绍， REDMI Note 17 Pro Max 5G 将成为小米首款拥有万级电池容量的手机 ，并定于 8 月 28 日正式发售。 参考IT之家此前报道，一款型号为 26…",
-          "keyPoints": [
-            "电池 / 充电",
-            "成本 / 价格"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
           "id": "newsnow-a572bb0121fa",
           "title": "正式脱离黑厂，黑厂这个破续航我是真的受不了了，明天到祸黑厂的机子就可以出掉了，具体要出的东西看我上一个贴子#OPPOFindX8Ultra# #数码日常# #小米17ProMax#",
           "originalTitle": "",
@@ -178,6 +154,31 @@ window.phoneRadarDaily = {
             "电池 / 充电"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "coolapk-user-2b7a50929aec",
+          "title": "竹本青：【荣耀Robot Phone 今天正式开售，售价9999元起】 12GB+512GB —— 9999元 16GB+…",
+          "originalTitle": "",
+          "source": "竹本青",
+          "brand": "HONOR",
+          "type": "爆料",
+          "trust": "高可信爆料",
+          "date": "2026-08-17",
+          "time": "17:13",
+          "publishedAt": "2026-08-17T17:13:18.000Z",
+          "url": "https://www.coolapk.com/feed/73299852",
+          "image": "http://image.coolapk.com/feed/2026/0818/01/4248714_66461eac_6797_0096_138@1159x7156.jpg",
+          "verdict": "先看",
+          "takeaway": "【荣耀Robot Phone 今天正式开售，售价9999元起】 12GB+512GB —— 9999元 16GB+1TB —— 12999元 核心： ● 6.31\"1.5K 120Hz LTPO直屏 ● 骁龙8 Elite Gen5处理器 ● LPDDR5X+UFS4.1 ● 7060mAh+120W有线+50W无线 ● 自研钛合金云台架构 ● 可折叠云台…",
+          "detail": "【荣耀Robot Phone 今天正式开售，售价9999元起】 12GB+512GB —— 9999元 16GB+1TB —— 12999元 核心： ● 6.31\"1.5K 120Hz LTPO直屏 ● 骁龙8 Elite Gen5处理器 ● LPDDR5X+UFS4.1 ● 7060mAh+120W有线+50W无线 ● 自研钛合金云台架构 ● 可折叠云台…",
+          "keyPoints": [
+            "屏幕形态",
+            "芯片 / 性能",
+            "成本 / 价格"
+          ],
+          "confidence": "可信度较高，但仍属于发布前线索。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
