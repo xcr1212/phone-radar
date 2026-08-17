@@ -1,14 +1,14 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-08-17T13:04:32.427Z",
+  "updatedAt": "2026-08-17T14:43:11.395Z",
   "issueDate": "2026-08-17",
   "issue": "VOL.260817",
   "title": "手机情报日报",
-  "intro": "今日筛出 16 条重点，其中 8 条是重点爆料，包含 5 条 iPhone 相关、1 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 16 条重点，其中 8 条是重点爆料，包含 5 条 iPhone 相关、0 条官方确认、0 条参数线索。",
   "stats": {
     "total": 16,
     "iphone": 5,
     "leaks": 8,
-    "official": 1,
+    "official": 0,
     "specs": 0
   },
   "sections": [
@@ -37,6 +37,52 @@ window.phoneRadarDaily = {
             "爆料来源"
           ],
           "confidence": "可信度较高，但仍属于发布前线索。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "auto-cff1c9eeca12",
+          "title": "iPhone 系统功能 / AI 体验相关消息",
+          "originalTitle": "",
+          "source": "9to5Mac",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-08-17",
+          "time": "13:47",
+          "publishedAt": "2026-08-17T13:47:23.000Z",
+          "url": "https://9to5mac.com/2026/08/17/new-iphone-ultra-leaks-cover-release-timing-availability-and-name/",
+          "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/03/iphone-fold-mockup-blue.jpg?quality=82&strip=all&w=1600",
+          "verdict": "先看",
+          "takeaway": "iPhone 有系统功能或 AI 体验更新，适合关注后续是否影响日常使用。",
+          "detail": "iPhone 系统功能 / AI 体验相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
+          "keyPoints": [
+            "爆料来源"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "auto-09dda66b658b",
+          "title": "小米 REDMI K100 / 90 Pro Max 手机隐藏升级点曝光，机身顶部加入 NFC 刷卡区",
+          "originalTitle": "",
+          "source": "IT之家",
+          "brand": "Xiaomi",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-08-17",
+          "time": "13:53",
+          "publishedAt": "2026-08-17T13:53:03.000Z",
+          "url": "https://www.ithome.com/0/990/833.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/8/fae799c9-8c41-4b19-8503-f68e8762fc36.png?x-bce-process=image/format,f_auto",
+          "verdict": "先看",
+          "takeaway": "IT之家 8 月 17 日消息，博主 @缪特mt 今日分享了 REDMI K100 Pro Max 的一个“史诗级”升级： 在机身顶部加入了 NFC 刷卡区，无论是背部还是顶部都能正常触发刷卡 小米 REDMI 产品经理 @笋寸 随后补充， 称 REDMI K90 Pro Max 也支持该功能 。 IT之家注意到，有网友询问 REDMI K100 Pro…",
+          "detail": "IT之家 8 月 17 日消息，博主 @缪特mt 今日分享了 REDMI K100 Pro Max 的一个“史诗级”升级： 在机身顶部加入了 NFC 刷卡区，无论是背部还是顶部都能正常触发刷卡 小米 REDMI 产品经理 @笋寸 随后补充， 称 REDMI K90 Pro Max 也支持该功能 。 IT之家注意到，有网友询问 REDMI K100 Pro…",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
@@ -156,52 +202,6 @@ window.phoneRadarDaily = {
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "auto-04ed871b02ed",
-          "title": "电信终端产业协会倡议推行手机整机、配件分离销售模式，统一配件标准",
-          "originalTitle": "",
-          "source": "IT之家",
-          "brand": "行业",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-08-17",
-          "time": "08:50",
-          "publishedAt": "2026-08-17T08:50:12.000Z",
-          "url": "https://www.ithome.com/0/990/711.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/5/ceb7ad04-f189-4d8b-8c7a-48ee47936ee9.jpg?x-bce-process=image/auto-orient,o_1",
-          "verdict": "先看",
-          "takeaway": "IT之家 8 月 17 日消息，电信终端产业协会今日发布公告，为推动电子信息制造业绿色升级，强化终端设备全生命周期绿色管控，遏制低水平同质化重复生产，构建绿色低碳供应链，压减产业链冗余产能，提升产业链供应链现代化水平，面向行业发出如下倡议： 一、推行分离销售模式，引领绿色转型 倡导终端整机企业积极践行绿色低碳发展理念，在充分保障消费者知情权与自主选择权的前…",
-          "detail": "IT之家 8 月 17 日消息，电信终端产业协会今日发布公告，为推动电子信息制造业绿色升级，强化终端设备全生命周期绿色管控，遏制低水平同质化重复生产，构建绿色低碳供应链，压减产业链冗余产能，提升产业链供应链现代化水平，面向行业发出如下倡议： 一、推行分离销售模式，引领绿色转型 倡导终端整机企业积极践行绿色低碳发展理念，在充分保障消费者知情权与自主选择权的前…",
-          "keyPoints": [
-            "爆料来源"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "auto-13224592b7a2",
-          "title": "韩国多地出台中小学限用智能手机措施",
-          "originalTitle": "",
-          "source": "IT之家",
-          "brand": "行业",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-08-17",
-          "time": "08:31",
-          "publishedAt": "2026-08-17T08:31:41.000Z",
-          "url": "https://www.ithome.com/0/990/688.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/8/b0c455b8-473c-413c-95ff-bcb4e7e47f37.png?x-bce-process=image/format,f_auto",
-          "verdict": "先看",
-          "takeaway": "IT之家 8 月 17 日消息，据央视新闻今天报道，韩国多地教育部门近日出台措施，拟进一步强化中小学校园内学生智能手机使用管控，旨在提升学生课堂专注力、遏制网络霸凌。 IT之家从原报道了解到，韩国修订版《初等及中等教育法》于今年 3 月生效，明确禁止学生在课堂使用智能手机，但未明确校方该如何保管手机，也没有对课堂以外使用智能手机等情形作出规定。数月来，越来…",
-          "detail": "IT之家 8 月 17 日消息，据央视新闻今天报道，韩国多地教育部门近日出台措施，拟进一步强化中小学校园内学生智能手机使用管控，旨在提升学生课堂专注力、遏制网络霸凌。 IT之家从原报道了解到，韩国修订版《初等及中等教育法》于今年 3 月生效，明确禁止学生在课堂使用智能手机，但未明确校方该如何保管手机，也没有对课堂以外使用智能手机等情形作出规定。数月来，越来…",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         }
       ]
     },
@@ -232,29 +232,6 @@ window.phoneRadarDaily = {
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
           "action": "中文源可以直接点开快读；看完只保留和购机有关的点。"
-        },
-        {
-          "id": "auto-9bbf43c61c96",
-          "title": "iPhone 系统功能 / AI 体验相关消息",
-          "originalTitle": "",
-          "source": "Apple Newsroom",
-          "brand": "iPhone",
-          "type": "官方",
-          "trust": "官方确认",
-          "date": "2026-08-17",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://www.apple.com/newsroom/2026/06/apple-announces-changes-to-ios-in-brazil/",
-          "image": "",
-          "verdict": "先看",
-          "takeaway": "iPhone 系统功能 / AI 体验相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
-          "detail": "iPhone 系统功能 / AI 体验相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
-          "keyPoints": [
-            "官方"
-          ],
-          "confidence": "官方内容，可直接作为已确认信息记录。",
-          "impact": "可信度高，但如果不是配置/价格消息，只需要扫一眼。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         },
         {
           "id": "newsnow-471cd41cbbcb",
@@ -331,6 +308,29 @@ window.phoneRadarDaily = {
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        },
+        {
+          "id": "auto-17671305ea3b",
+          "title": "华为鸿蒙 HarmonyOS 7 系统 3D 空间壁纸适配机型公布，含 Pura 90、Mate 80 等系列",
+          "originalTitle": "",
+          "source": "IT之家",
+          "brand": "Huawei",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-08-17",
+          "time": "13:21",
+          "publishedAt": "2026-08-17T13:21:19.000Z",
+          "url": "https://www.ithome.com/0/990/827.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/3/6d133459-9ff7-437f-833f-0e8550478091.jpg?x-bce-process=image/auto-orient,o_1",
+          "verdict": "扫一眼",
+          "takeaway": "IT之家 8 月 17 日消息， 华为今日开启了鸿蒙 HarmonyOS 7.0.0.102 SP8 版本推送 ，首批面向 Mate 80、Mate 70 等系列机型，系统包大小约 6.79 GB。新版本带来了 3D 空间壁纸、亲密圈、户外探索模式等功能。 ▲ IT之家开箱：华为 Mate 80 Pro Max 风驰版图赏 IT之家询问华为客户服务小艺获悉…",
+          "detail": "IT之家 8 月 17 日消息， 华为今日开启了鸿蒙 HarmonyOS 7.0.0.102 SP8 版本推送 ，首批面向 Mate 80、Mate 70 等系列机型，系统包大小约 6.79 GB。新版本带来了 3D 空间壁纸、亲密圈、户外探索模式等功能。 ▲ IT之家开箱：华为 Mate 80 Pro Max 风驰版图赏 IT之家询问华为客户服务小艺获悉…",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "中文源可以直接点开快读；看完只保留和购机有关的点。"
         },
         {
           "id": "coolapk-user-0616108e6123",

@@ -1,6 +1,126 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-08-17T13:04:32.427Z",
+  "updatedAt": "2026-08-17T14:43:11.395Z",
   "news": [
+    {
+      "id": "auto-b6fcc3231e5a",
+      "title": "Set up your Galaxy Z Fold 8 with Smart Switch? Your zoom level may be wrong",
+      "source": "SamMobile",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-17",
+      "time": "14:19",
+      "publishedAt": "2026-08-17T14:19:11.000Z",
+      "url": "https://www.sammobile.com/news/set-up-your-galaxy-z-fold-8-with-smart-switch-your-zoom-level-may-be-wrong/",
+      "image": "https://www.sammobile.com/wp-content/uploads/2026/08/Screenshot_20260817_160935_Settings.jpg",
+      "summary": "If you've upgraded your Galaxy phone before and transferred your settings from your old phone to the new one using Smart Switch, you know how convenient it is. It may be one of th…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-09dda66b658b",
+      "title": "小米 REDMI K100 / 90 Pro Max 手机隐藏升级点曝光，机身顶部加入 NFC 刷卡区",
+      "source": "IT之家",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-17",
+      "time": "13:53",
+      "publishedAt": "2026-08-17T13:53:03.000Z",
+      "url": "https://www.ithome.com/0/990/833.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/8/fae799c9-8c41-4b19-8503-f68e8762fc36.png?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 8 月 17 日消息，博主 @缪特mt 今日分享了 REDMI K100 Pro Max 的一个“史诗级”升级： 在机身顶部加入了 NFC 刷卡区，无论是背部还是顶部都能正常触发刷卡 小米 REDMI 产品经理 @笋寸 随后补充， 称 REDMI K90 Pro Max 也支持该功能 。 IT之家注意到，有网友询问 REDMI K100 Pro…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-cff1c9eeca12",
+      "title": "New iPhone Ultra leaks cover release timing, availability, and name",
+      "source": "9to5Mac",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-17",
+      "time": "13:47",
+      "publishedAt": "2026-08-17T13:47:23.000Z",
+      "url": "https://9to5mac.com/2026/08/17/new-iphone-ultra-leaks-cover-release-timing-availability-and-name/",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/03/iphone-fold-mockup-blue.jpg?quality=82&strip=all&w=1600",
+      "summary": "Apple’s foldable iPhone Ultra will be unveiled in just a few weeks , and new leaks cover what to expect from release timing, availability, and the product’s name.",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-2ca9ebc3c35b",
+      "title": "Samsung is reportedly building an even wider Galaxy Z Fold 9 for video viewing",
+      "source": "9to5Google",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-17",
+      "time": "13:35",
+      "publishedAt": "2026-08-17T13:35:00.000Z",
+      "url": "https://9to5google.com/2026/08/17/samsung-galaxy-z-fold-9-wider-design-video-report/",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/07/galaxy-z-fold-8-review-47.jpg?quality=82&strip=all&w=1600",
+      "summary": "The Galaxy Z Fold 8 is an absolute smash hit and, with that in mind, Samsung is reportedly doubling down on the form factor with a second wide device now in the works for the Gala…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-a2ff69e99370",
+      "title": "I flashed my old Android phone with this open source OS to give it a new life",
+      "source": "Android Police",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-17",
+      "time": "13:30",
+      "publishedAt": "2026-08-17T13:30:15.000Z",
+      "url": "https://www.androidpolice.com/flashed-old-android-phone-with-open-source-os-and-gave-it-new-life/",
+      "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2026/01/copy-of-169-8.jpg",
+      "summary": "Google quit on my Pixel 5 in 2023, so volunteers took over",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-17671305ea3b",
+      "title": "华为鸿蒙 HarmonyOS 7 系统 3D 空间壁纸适配机型公布，含 Pura 90、Mate 80 等系列",
+      "source": "IT之家",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-17",
+      "time": "13:21",
+      "publishedAt": "2026-08-17T13:21:19.000Z",
+      "url": "https://www.ithome.com/0/990/827.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/3/6d133459-9ff7-437f-833f-0e8550478091.jpg?x-bce-process=image/auto-orient,o_1",
+      "summary": "IT之家 8 月 17 日消息， 华为今日开启了鸿蒙 HarmonyOS 7.0.0.102 SP8 版本推送 ，首批面向 Mate 80、Mate 70 等系列机型，系统包大小约 6.79 GB。新版本带来了 3D 空间壁纸、亲密圈、户外探索模式等功能。 ▲ IT之家开箱：华为 Mate 80 Pro Max 风驰版图赏 IT之家询问华为客户服务小艺获悉…",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-fca441b2491d",
       "title": "Google made my Pixel phone so good that upgrading to the Pixel 11 feels pointless",
@@ -362,46 +482,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-04ed871b02ed",
-      "title": "电信终端产业协会倡议推行手机整机、配件分离销售模式，统一配件标准",
-      "source": "IT之家",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-17",
-      "time": "08:50",
-      "publishedAt": "2026-08-17T08:50:12.000Z",
-      "url": "https://www.ithome.com/0/990/711.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/5/ceb7ad04-f189-4d8b-8c7a-48ee47936ee9.jpg?x-bce-process=image/auto-orient,o_1",
-      "summary": "IT之家 8 月 17 日消息，电信终端产业协会今日发布公告，为推动电子信息制造业绿色升级，强化终端设备全生命周期绿色管控，遏制低水平同质化重复生产，构建绿色低碳供应链，压减产业链冗余产能，提升产业链供应链现代化水平，面向行业发出如下倡议： 一、推行分离销售模式，引领绿色转型 倡导终端整机企业积极践行绿色低碳发展理念，在充分保障消费者知情权与自主选择权的前…",
-      "tags": [
-        "行业",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-13224592b7a2",
-      "title": "韩国多地出台中小学限用智能手机措施",
-      "source": "IT之家",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-17",
-      "time": "08:31",
-      "publishedAt": "2026-08-17T08:31:41.000Z",
-      "url": "https://www.ithome.com/0/990/688.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/8/b0c455b8-473c-413c-95ff-bcb4e7e47f37.png?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 8 月 17 日消息，据央视新闻今天报道，韩国多地教育部门近日出台措施，拟进一步强化中小学校园内学生智能手机使用管控，旨在提升学生课堂专注力、遏制网络霸凌。 IT之家从原报道了解到，韩国修订版《初等及中等教育法》于今年 3 月生效，明确禁止学生在课堂使用智能手机，但未明确校方该如何保管手机，也没有对课堂以外使用智能手机等情形作出规定。数月来，越来…",
-      "tags": [
-        "行业",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-cb184b5ef937",
       "title": "Honor Magic 9 series is coming with compact phone variant",
       "source": "Huawei Central",
@@ -662,22 +742,22 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-f67ae443b210",
-      "title": "iPhone17国内销量曝光",
-      "source": "微博热搜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "待验证",
+      "id": "newsnow-335e4b7bde02",
+      "title": "如何看待追觅卖出首台 AURORA 手机，售价超 20 万元？靠高奢定制切入手机赛道可行吗？",
+      "source": "知乎热榜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "市场报告",
+      "trust": "媒体汇总",
       "date": "2026-08-17",
       "time": "",
       "publishedAt": "",
-      "url": "https://s.weibo.com/weibo?q=%23iPhone17%E5%9B%BD%E5%86%85%E9%94%80%E9%87%8F%E6%9B%9D%E5%85%89%23&t=31&band_rank=6&Refer=top",
+      "url": "https://www.zhihu.com/question/2071642621957747105",
       "image": "",
-      "summary": "iPhone17国内销量曝光",
+      "summary": "如何看待追觅卖出首台 AURORA 手机，售价超 20 万元？靠高奢定制切入手机赛道可行吗？",
       "tags": [
-        "iPhone",
-        "爆料",
+        "行业",
+        "市场报告",
         "NewsNow"
       ]
     },
@@ -702,21 +782,21 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-3db7bbb2be30",
-      "title": "iPhone 17或全球涨价",
-      "source": "抖音热点",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
+      "id": "newsnow-b6bd245b360f",
+      "title": "闪过念头就刷到广告 是手机在偷听吗",
+      "source": "百度热搜",
+      "brand": "行业",
+      "model": "智能手机市场",
       "type": "爆料",
-      "trust": "待验证",
+      "trust": "媒体汇总",
       "date": "2026-08-17",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.douyin.com/hot/2613175",
+      "url": "https://www.baidu.com/s?wd=%E9%97%AA%E8%BF%87%E5%BF%B5%E5%A4%B4%E5%B0%B1%E5%88%B7%E5%88%B0%E5%B9%BF%E5%91%8A+%E6%98%AF%E6%89%8B%E6%9C%BA%E5%9C%A8%E5%81%B7%E5%90%AC%E5%90%97",
       "image": "",
-      "summary": "iPhone 17或全球涨价",
+      "summary": "闪过念头就刷到广告 是手机在偷听吗",
       "tags": [
-        "iPhone",
+        "行业",
         "爆料",
         "NewsNow"
       ]
