@@ -1,11 +1,11 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-08-17T10:47:30.428Z",
+  "updatedAt": "2026-08-17T13:04:32.427Z",
   "issueDate": "2026-08-17",
   "issue": "VOL.260817",
   "title": "手机情报日报",
-  "intro": "今日筛出 20 条重点，其中 8 条是重点爆料，包含 5 条 iPhone 相关、1 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 16 条重点，其中 8 条是重点爆料，包含 5 条 iPhone 相关、1 条官方确认、0 条参数线索。",
   "stats": {
-    "total": 20,
+    "total": 16,
     "iphone": 5,
     "leaks": 8,
     "official": 1,
@@ -37,6 +37,30 @@ window.phoneRadarDaily = {
             "爆料来源"
           ],
           "confidence": "可信度较高，但仍属于发布前线索。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "auto-68b6b1972bed",
+          "title": "Galaxy Z Fold9 系列要有五款机型？消息称三星明年再推一款全新阔折叠手机，更适合看视频",
+          "originalTitle": "",
+          "source": "IT之家",
+          "brand": "Samsung",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-08-17",
+          "time": "11:03",
+          "publishedAt": "2026-08-17T11:03:15.000Z",
+          "url": "https://www.ithome.com/0/990/795.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/8/3db61c86-81f3-4a8d-8621-6eb41cea2487.jpg",
+          "verdict": "先看",
+          "takeaway": "IT之家 8 月 17 日消息，据韩媒 EtNews 今天报道，三星电子计划在明年推出一款全新阔折叠手机。业内认为，今年上市的 Galaxy Z Fold8 市场反馈较好，从而让三星“尝到了甜头”，希望继续探索折叠屏手机新形态。 据业内消息，三星电子已在内部启动两款宽折叠新机的研发工作，并将相关计划告知合作伙伴。因此明年的 Galaxy Z Fold9 系…",
+          "detail": "IT之家 8 月 17 日消息，据韩媒 EtNews 今天报道，三星电子计划在明年推出一款全新阔折叠手机。业内认为，今年上市的 Galaxy Z Fold8 市场反馈较好，从而让三星“尝到了甜头”，希望继续探索折叠屏手机新形态。 据业内消息，三星电子已在内部启动两款宽折叠新机的研发工作，并将相关计划告知合作伙伴。因此明年的 Galaxy Z Fold9 系…",
+          "keyPoints": [
+            "屏幕形态",
+            "爆料来源"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
@@ -82,6 +106,29 @@ window.phoneRadarDaily = {
           "detail": "正式脱离黑厂，黑厂这个破续航我是真的受不了了，明天到祸黑厂的机子就可以出掉了，具体要出的东西看我上一个贴子#OPPOFindX8Ultra# #数码日常# #小米17ProMax#",
           "keyPoints": [
             "电池 / 充电"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "auto-a7306930d040",
+          "title": "Omdia：成本上涨重塑非洲百元智能手机市场，今年 Q2 出货大降 34%",
+          "originalTitle": "",
+          "source": "IT之家",
+          "brand": "行业",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-08-17",
+          "time": "11:02",
+          "publishedAt": "2026-08-17T11:02:40.000Z",
+          "url": "https://www.ithome.com/0/990/794.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/8/1bec8fae-2538-4101-a604-d23f55ebc67a.png",
+          "verdict": "先看",
+          "takeaway": "IT之家 8 月 17 日消息，Omdia 最新报告指出，非洲 100 美元 （IT之家注：现汇率约合 674.9 元人民币） 以下智能手机市场正面临越来越大的压力，内存价格上涨正在挤压入门级设备的利润空间。数据显示，2026 年第二季度，非洲 100 美元 （现汇率约合 674.9 元人民币） 以下智能手机出货量同比下降 34%，厂商们正越来越多地转向融…",
+          "detail": "IT之家 8 月 17 日消息，Omdia 最新报告指出，非洲 100 美元 （IT之家注：现汇率约合 674.9 元人民币） 以下智能手机市场正面临越来越大的压力，内存价格上涨正在挤压入门级设备的利润空间。数据显示，2026 年第二季度，非洲 100 美元 （现汇率约合 674.9 元人民币） 以下智能手机出货量同比下降 34%，厂商们正越来越多地转向融…",
+          "keyPoints": [
+            "成本 / 价格"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
@@ -153,53 +200,6 @@ window.phoneRadarDaily = {
             "爆料"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "weibo-c39a153147ea",
-          "title": "数码闲聊站：独家信息：子系另一台骁龙8E6 Pro新旗舰，工程机50Mp 1/1.3\" F…",
-          "originalTitle": "",
-          "source": "数码闲聊站",
-          "brand": "行业",
-          "type": "爆料",
-          "trust": "高关注爆料源",
-          "date": "2026-08-17",
-          "time": "03:15",
-          "publishedAt": "2026-08-17T03:15:00.000Z",
-          "url": "https://weibo.com/6048569942/RdMQTFKuM",
-          "image": "https://tvax1.sinaimg.cn/mw2000/006BlblIgy1ig58n2etprj30xv0evtdl.jpg",
-          "verdict": "先看",
-          "takeaway": "独家信息，子系另一台骁龙8E6 Pro新旗舰，工程机50Mp 1/1.3\" F1.68超大底主摄+50Mp F2.0小底超广角+50Mp 1/1.95\" F2.65中底潜望镜，镜组看起来有点像倒置方案，长焦微距待定👖",
-          "detail": "独家信息，子系另一台骁龙8E6 Pro新旗舰，工程机50Mp 1/1.3\" F1.68超大底主摄+50Mp F2.0小底超广角+50Mp 1/1.95\" F2.65中底潜望镜，镜组看起来有点像倒置方案，长焦微距待定👖",
-          "keyPoints": [
-            "影像硬件",
-            "爆料来源"
-          ],
-          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "coolapk-user-4fdc8c636d4b",
-          "title": "竹本青：电信终端产业协会倡议：手机整机与配件分离销售",
-          "originalTitle": "",
-          "source": "竹本青",
-          "brand": "行业",
-          "type": "爆料",
-          "trust": "高可信爆料",
-          "date": "2026-08-17",
-          "time": "09:05",
-          "publishedAt": "2026-08-17T09:05:49.000Z",
-          "url": "https://www.coolapk.com/feed/73291743",
-          "image": "http://image.coolapk.com/feed/2026/0817/17/4248714_134f2866_7934_5051_424@1271x1415.jpg",
-          "verdict": "先看",
-          "takeaway": "【电信终端产业协会倡议：手机整机与配件分离销售，快充协议等领域协同统一】 8月17日，电信终端产业协会发布“关于推动移动终端产业绿色化发展 推行整机、配件分离销售模式的倡议书”： 为推动电子信息制造业绿色升级，强化终端设备全生命周期绿色管控，遏制低水平同质化重复生产，构建绿色低碳供应链，压减产业链冗余产能，提升产业链供应链现代化水平，面向行业发出如下倡议：…",
-          "detail": "【电信终端产业协会倡议：手机整机与配件分离销售，快充协议等领域协同统一】 8月17日，电信终端产业协会发布“关于推动移动终端产业绿色化发展 推行整机、配件分离销售模式的倡议书”： 为推动电子信息制造业绿色升级，强化终端设备全生命周期绿色管控，遏制低水平同质化重复生产，构建绿色低碳供应链，压减产业链冗余产能，提升产业链供应链现代化水平，面向行业发出如下倡议：…",
-          "keyPoints": [
-            "爆料来源"
-          ],
-          "confidence": "可信度较高，但仍属于发布前线索。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         }
@@ -305,60 +305,6 @@ window.phoneRadarDaily = {
       ]
     },
     {
-      "id": "launch",
-      "title": "新机与官方发布",
-      "hint": "能直接更新到参数库。",
-      "items": [
-        {
-          "id": "auto-c2b090d28bd2",
-          "title": "Galaxy S26 FE 外观设计线索曝光",
-          "originalTitle": "",
-          "source": "Gizmochina",
-          "brand": "Samsung",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-08-17",
-          "time": "10:23",
-          "publishedAt": "2026-08-17T10:23:49.000Z",
-          "url": "https://www.gizmochina.com/2026/08/17/galaxy-s26-fe-hands-on-video-shows-redesigned-camera-island-confirms-key-specs/",
-          "image": "https://www.gizmochina.com/wp-content/uploads/2026/08/galaxy-s26-fe-hands-on-design-300x169.jpg?x23692",
-          "verdict": "可略过",
-          "takeaway": "Galaxy S26 FE 外观设计线索曝光。重点看外观、颜色、尺寸是否和上一代有明显变化。",
-          "detail": "Galaxy S26 FE 外观设计线索曝光。这类内容主要看外观设计、按键布局、相机模组和尺寸变化，后续最好等更多渲染图或保护壳线索互相验证。",
-          "keyPoints": [
-            "外观 / 配色 / 尺寸",
-            "影像硬件"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "影响拍照体验，买旗舰机时值得关注。",
-          "action": "有具体参数就记录到参数库；没有参数就先收藏。"
-        },
-        {
-          "id": "auto-6b67ce9895cb",
-          "title": "Xiaomi 发布 / 上市相关消息",
-          "originalTitle": "",
-          "source": "Gizmochina",
-          "brand": "Xiaomi",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-08-17",
-          "time": "10:08",
-          "publishedAt": "2026-08-17T10:08:42.000Z",
-          "url": "https://www.gizmochina.com/2026/08/17/redmi-note-17-series-global-launch-date-announced/",
-          "image": "https://www.gizmochina.com/wp-content/uploads/2026/08/Redmi-Note-17-series-battery-300x200.jpg?x23692",
-          "verdict": "可略过",
-          "takeaway": "Xiaomi 有发布或新功能消息，适合确认是否和新机有关。",
-          "detail": "Xiaomi 发布 / 上市相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        }
-      ]
-    },
-    {
       "id": "market",
       "title": "行业趋势",
       "hint": "看方向，不急着当购买依据。",
@@ -433,73 +379,25 @@ window.phoneRadarDaily = {
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         },
         {
-          "id": "auto-ed56831b0be5",
-          "title": "Pixel 11 Pro Fold 折叠屏相关消息",
+          "id": "coolapk-user-5db99feef5fa",
+          "title": "竹本青：【OriginOS 7 官方预热：光影美学设计】 ● 能感知｜在不同的界面背景下，线条会遵循真实的光学规律发生折射…",
           "originalTitle": "",
-          "source": "Gizmochina",
-          "brand": "Samsung",
+          "source": "竹本青",
+          "brand": "vivo",
           "type": "爆料",
-          "trust": "媒体汇总",
+          "trust": "高可信爆料",
           "date": "2026-08-17",
-          "time": "10:46",
-          "publishedAt": "2026-08-17T10:46:49.000Z",
-          "url": "https://www.gizmochina.com/2026/08/17/google-pixel-11-pro-fold-vs-samsung-galaxy-z-fold8/",
-          "image": "https://www.gizmochina.com/wp-content/uploads/2026/08/image-66-300x189.png?x23692",
-          "verdict": "可略过",
-          "takeaway": "Samsung 影像能力相关宣传或案例，主要看是否透露拍摄能力变化。",
-          "detail": "Pixel 11 Pro Fold 折叠屏相关消息。重点看折痕、铰链、厚度、屏幕可靠性和重量是否有实质改善。",
-          "keyPoints": [
-            "影像硬件",
-            "屏幕形态",
-            "成本 / 价格"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "影响购买预算，值得先看。",
-          "action": "有具体参数就记录到参数库；没有参数就先收藏。"
-        },
-        {
-          "id": "auto-28b848b80af6",
-          "title": "Samsung 折叠屏相关消息",
-          "originalTitle": "",
-          "source": "SamMobile",
-          "brand": "Samsung",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-08-17",
-          "time": "10:41",
-          "publishedAt": "2026-08-17T10:41:38.000Z",
-          "url": "https://www.sammobile.com/news/galaxy-z-fold-8-popular-samsung-launching-additional-wide-model/",
-          "image": "",
-          "verdict": "可略过",
-          "takeaway": "Samsung 折叠屏相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
-          "detail": "Samsung 折叠屏相关消息。重点看折痕、铰链、厚度、屏幕可靠性和重量是否有实质改善。",
+          "time": "11:36",
+          "publishedAt": "2026-08-17T11:36:32.000Z",
+          "url": "https://www.coolapk.com/feed/73294516",
+          "image": "http://image.coolapk.com/feed/2026/0817/19/4248714_53c105cf_6591_0111_75-livepic@1080x1440.jpg",
+          "verdict": "扫一眼",
+          "takeaway": "【OriginOS 7 官方预热：光影美学设计】 ● 能感知｜在不同的界面背景下，线条会遵循真实的光学规律发生折射，让界面始终保持清晰的层次； ● 可互动｜点按和划动都有自然的光影回应，让交互更有生命力； ● 有智慧｜小V工作时，光效能够结合你的意图，精准引导视觉和操作； ● 懂情绪｜多种个性玩法，通过光影呈现不同的氛围，让界面更有你自己的样子。 #Ori…",
+          "detail": "【OriginOS 7 官方预热：光影美学设计】 ● 能感知｜在不同的界面背景下，线条会遵循真实的光学规律发生折射，让界面始终保持清晰的层次； ● 可互动｜点按和划动都有自然的光影回应，让交互更有生命力； ● 有智慧｜小V工作时，光效能够结合你的意图，精准引导视觉和操作； ● 懂情绪｜多种个性玩法，通过光影呈现不同的氛围，让界面更有你自己的样子。 #Ori…",
           "keyPoints": [
             "爆料"
           ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
-        {
-          "id": "auto-28e5bfd7045f",
-          "title": "Pixel 11 系统功能 / AI 体验相关消息",
-          "originalTitle": "",
-          "source": "Android Authority",
-          "brand": "Pixel",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-08-17",
-          "time": "10:30",
-          "publishedAt": "2026-08-17T10:30:58.000Z",
-          "url": "https://www.androidauthority.com/google-pixel-11-alternatives-3697717/",
-          "image": "",
-          "verdict": "可略过",
-          "takeaway": "Pixel 11 系统功能 / AI 体验相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
-          "detail": "Pixel 11 系统功能 / AI 体验相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "confidence": "可信度较高，但仍属于发布前线索。",
           "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         }

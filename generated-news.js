@@ -1,6 +1,106 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-08-17T10:47:30.428Z",
+  "updatedAt": "2026-08-17T13:04:32.427Z",
   "news": [
+    {
+      "id": "auto-fca441b2491d",
+      "title": "Google made my Pixel phone so good that upgrading to the Pixel 11 feels pointless",
+      "source": "Android Police",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-17",
+      "time": "12:00",
+      "publishedAt": "2026-08-17T12:00:16.000Z",
+      "url": "https://www.androidpolice.com/google-made-my-pixel-so-good-upgrading-to-pixel-11-feels-pointless/",
+      "image": "",
+      "summary": "I'm keeping my Pixel phone until Google delivers a genuine successor",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-5db99feef5fa",
+      "title": "竹本青：【OriginOS 7 官方预热：光影美学设计】 ● 能感知｜在不同的界面背景下，线条会遵循真实的光学规律发生折射…",
+      "source": "竹本青",
+      "brand": "vivo",
+      "model": "vivo 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-08-17",
+      "time": "11:36",
+      "publishedAt": "2026-08-17T11:36:32.000Z",
+      "url": "https://www.coolapk.com/feed/73294516",
+      "image": "http://image.coolapk.com/feed/2026/0817/19/4248714_53c105cf_6591_0111_75-livepic@1080x1440.jpg",
+      "summary": "【OriginOS 7 官方预热：光影美学设计】 ● 能感知｜在不同的界面背景下，线条会遵循真实的光学规律发生折射，让界面始终保持清晰的层次； ● 可互动｜点按和划动都有自然的光影回应，让交互更有生命力； ● 有智慧｜小V工作时，光效能够结合你的意图，精准引导视觉和操作； ● 懂情绪｜多种个性玩法，通过光影呈现不同的氛围，让界面更有你自己的样子。 #Ori…",
+      "tags": [
+        "vivo",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-68b6b1972bed",
+      "title": "Galaxy Z Fold9 系列要有五款机型？消息称三星明年再推一款全新阔折叠手机，更适合看视频",
+      "source": "IT之家",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-17",
+      "time": "11:03",
+      "publishedAt": "2026-08-17T11:03:15.000Z",
+      "url": "https://www.ithome.com/0/990/795.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/8/3db61c86-81f3-4a8d-8621-6eb41cea2487.jpg",
+      "summary": "IT之家 8 月 17 日消息，据韩媒 EtNews 今天报道，三星电子计划在明年推出一款全新阔折叠手机。业内认为，今年上市的 Galaxy Z Fold8 市场反馈较好，从而让三星“尝到了甜头”，希望继续探索折叠屏手机新形态。 据业内消息，三星电子已在内部启动两款宽折叠新机的研发工作，并将相关计划告知合作伙伴。因此明年的 Galaxy Z Fold9 系…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-a7306930d040",
+      "title": "Omdia：成本上涨重塑非洲百元智能手机市场，今年 Q2 出货大降 34%",
+      "source": "IT之家",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-17",
+      "time": "11:02",
+      "publishedAt": "2026-08-17T11:02:40.000Z",
+      "url": "https://www.ithome.com/0/990/794.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/8/1bec8fae-2538-4101-a604-d23f55ebc67a.png",
+      "summary": "IT之家 8 月 17 日消息，Omdia 最新报告指出，非洲 100 美元 （IT之家注：现汇率约合 674.9 元人民币） 以下智能手机市场正面临越来越大的压力，内存价格上涨正在挤压入门级设备的利润空间。数据显示，2026 年第二季度，非洲 100 美元 （现汇率约合 674.9 元人民币） 以下智能手机出货量同比下降 34%，厂商们正越来越多地转向融…",
+      "tags": [
+        "行业",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-00951004353f",
+      "title": "Samsung could launch a second wide-format foldable alongside Galaxy Z Fold 9",
+      "source": "SamMobile",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-17",
+      "time": "10:50",
+      "publishedAt": "2026-08-17T10:50:09.000Z",
+      "url": "https://www.sammobile.com/news/samsung-could-launch-second-wide-format-foldable-alongside-galaxy-z-fold-9/",
+      "image": "",
+      "summary": "Samsung’s first smartphone with a 4:3 aspect ratio book-style foldable display, the Galaxy Z Fold 8, has been a huge hit globally, with the brand reportedly struggling to keep up…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-ed56831b0be5",
       "title": "Google Pixel 11 Pro Fold vs Samsung Galaxy Z Fold8: Specs, Camera and Price Compared",
@@ -15,26 +115,6 @@ window.phoneRadarAuto = {
       "url": "https://www.gizmochina.com/2026/08/17/google-pixel-11-pro-fold-vs-samsung-galaxy-z-fold8/",
       "image": "https://www.gizmochina.com/wp-content/uploads/2026/08/image-66-300x189.png?x23692",
       "summary": "Foldables are evolving beyond bigger screens, and the Google Pixel 11 Pro Fold and Samsung Galaxy Z Fold8 show two very different ways to build a flagship. The Pixel focuses on di…",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-28b848b80af6",
-      "title": "Galaxy Z Fold 8 is so popular that Samsung is making an additional wide model",
-      "source": "SamMobile",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-17",
-      "time": "10:41",
-      "publishedAt": "2026-08-17T10:41:38.000Z",
-      "url": "https://www.sammobile.com/news/galaxy-z-fold-8-popular-samsung-launching-additional-wide-model/",
-      "image": "",
-      "summary": "It appears the Galaxy Z Fold 8 is selling even better than Samsung expected, forcing the South Korean firm to increase production by an additional one million units. Now, a new re…",
       "tags": [
         "Samsung",
         "爆料",
@@ -322,6 +402,46 @@ window.phoneRadarAuto = {
       ]
     },
     {
+      "id": "auto-cb184b5ef937",
+      "title": "Honor Magic 9 series is coming with compact phone variant",
+      "source": "Huawei Central",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-17",
+      "time": "07:24",
+      "publishedAt": "2026-08-17T07:24:51.000Z",
+      "url": "https://www.huaweicentral.com/honor-magic-9-series-is-coming-with-compact-phone-variant/",
+      "image": "https://www.huaweicentral.com/wp-content/uploads/2025/10/Honor-Magic-8-series.jpg",
+      "summary": "Honor Magic 9 series will launch next month with a special “compact” variant. The flagship lineup seems to have at least three new models this time – a base version – probably the…",
+      "tags": [
+        "HONOR",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-3506535f803a",
+      "title": "Huawei Mate 90 to stick with circular camera design – no square format",
+      "source": "Huawei Central",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-17",
+      "time": "06:14",
+      "publishedAt": "2026-08-17T06:14:39.000Z",
+      "url": "https://www.huaweicentral.com/huawei-mate-90-to-stick-with-circular-camera-design/",
+      "image": "https://www.huaweicentral.com/wp-content/uploads/2026/02/Mate80ProMax2.jpg",
+      "summary": "Last week saw conflicting reports on whether Huawei will adopt a square rear camera module for its upcoming flagship phones, but a new leak says there is no such plan for the Mate…",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
       "id": "auto-f7ba231f0ffd",
       "title": "Google Pixel 12 Pro Fold: Everything we know so far and want to see",
       "source": "Android Central",
@@ -399,6 +519,26 @@ window.phoneRadarAuto = {
         "行业",
         "爆料",
         "微博"
+      ]
+    },
+    {
+      "id": "auto-9dad90f3bf5a",
+      "title": "Huawei Pura 100 rumored to skip signature triangular camera look",
+      "source": "Huawei Central",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-17",
+      "time": "03:05",
+      "publishedAt": "2026-08-17T03:05:01.000Z",
+      "url": "https://www.huaweicentral.com/huawei-pura-100-camera-look/",
+      "image": "https://www.huaweicentral.com/wp-content/uploads/2026/04/pura90-img.jpg",
+      "summary": "Huawei Pura 100 series might get a very unorthodox camera look next year. A new rumor indicates that the next-gen imaging flagship could ditch the signature triangular design it h…",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "自动抓取"
       ]
     },
     {
@@ -522,19 +662,39 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-b72c90580c9a",
-      "title": "手机壳 国标",
+      "id": "newsnow-f67ae443b210",
+      "title": "iPhone17国内销量曝光",
       "source": "微博热搜",
-      "brand": "行业",
-      "model": "智能手机市场",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
       "type": "爆料",
       "trust": "待验证",
       "date": "2026-08-17",
       "time": "",
       "publishedAt": "",
-      "url": "https://s.weibo.com/weibo?q=%E6%89%8B%E6%9C%BA%E5%A3%B3%20%E5%9B%BD%E6%A0%87&t=31&band_rank=18&Refer=top",
+      "url": "https://s.weibo.com/weibo?q=%23iPhone17%E5%9B%BD%E5%86%85%E9%94%80%E9%87%8F%E6%9B%9D%E5%85%89%23&t=31&band_rank=6&Refer=top",
       "image": "",
-      "summary": "手机壳 国标",
+      "summary": "iPhone17国内销量曝光",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-9d75cfe47c76",
+      "title": "9块9包邮的手机壳还敢买吗",
+      "source": "百度热搜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-17",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.baidu.com/s?wd=9%E5%9D%979%E5%8C%85%E9%82%AE%E7%9A%84%E6%89%8B%E6%9C%BA%E5%A3%B3%E8%BF%98%E6%95%A2%E4%B9%B0%E5%90%97",
+      "image": "",
+      "summary": "9块9包邮的手机壳还敢买吗",
       "tags": [
         "行业",
         "爆料",
@@ -542,61 +702,21 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-bfa5433cbc77",
-      "title": "9块9的手机壳还敢买吗",
-      "source": "微博热搜",
-      "brand": "行业",
-      "model": "智能手机市场",
+      "id": "newsnow-3db7bbb2be30",
+      "title": "iPhone 17或全球涨价",
+      "source": "抖音热点",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
       "type": "爆料",
       "trust": "待验证",
       "date": "2026-08-17",
       "time": "",
       "publishedAt": "",
-      "url": "https://s.weibo.com/weibo?q=%239%E5%9D%979%E7%9A%84%E6%89%8B%E6%9C%BA%E5%A3%B3%E8%BF%98%E6%95%A2%E4%B9%B0%E5%90%97%23&t=31&band_rank=19&Refer=top",
+      "url": "https://www.douyin.com/hot/2613175",
       "image": "",
-      "summary": "9块9的手机壳还敢买吗",
+      "summary": "iPhone 17或全球涨价",
       "tags": [
-        "行业",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-c8320fa0b141",
-      "title": "建议这类手机壳赶紧扔掉",
-      "source": "微博热搜",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "待验证",
-      "date": "2026-08-17",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://s.weibo.com/weibo?q=%23%E5%BB%BA%E8%AE%AE%E8%BF%99%E7%B1%BB%E6%89%8B%E6%9C%BA%E5%A3%B3%E8%B5%B6%E7%B4%A7%E6%89%94%E6%8E%89%23&t=31&band_rank=28&Refer=top",
-      "image": "",
-      "summary": "建议这类手机壳赶紧扔掉",
-      "tags": [
-        "行业",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-33d2ad5bed84",
-      "title": "手机壳 性早熟",
-      "source": "微博热搜",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "待验证",
-      "date": "2026-08-17",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://s.weibo.com/weibo?q=%E6%89%8B%E6%9C%BA%E5%A3%B3%20%E6%80%A7%E6%97%A9%E7%86%9F&t=31&band_rank=29&Refer=top",
-      "image": "",
-      "summary": "手机壳 性早熟",
-      "tags": [
-        "行业",
+        "iPhone",
         "爆料",
         "NewsNow"
       ]
@@ -617,26 +737,6 @@ window.phoneRadarAuto = {
       "summary": "iQOO’s latest official teaser for the Neo11 Ultra is all about the camera. They’ve confirmed a 50MP “ultra-stabilized” large Sony sensor as the main camera. The teaser also mentio…",
       "tags": [
         "vivo",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-60f864d30f81",
-      "title": "Samsung's Galaxy Z Fold 8 rocks for video — except for one problem you can't un-hear",
-      "source": "Android Police",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-16",
-      "time": "15:00",
-      "publishedAt": "2026-08-16T15:00:16.000Z",
-      "url": "https://www.androidpolice.com/ive-watched-hours-of-tv-shows-on-the-samsung-galaxy-z-fold-8/",
-      "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2026/08/samsung-galaxy-z-fold-8-house-of-dragons.jpg",
-      "summary": "The speaker placement is a problem",
-      "tags": [
-        "Samsung",
         "爆料",
         "自动抓取"
       ]
