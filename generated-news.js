@@ -1,6 +1,46 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-08-17T20:42:34.579Z",
+  "updatedAt": "2026-08-17T22:39:42.646Z",
   "news": [
+    {
+      "id": "auto-b346ecbaf35a",
+      "title": "One year with the Google Pixel 10 Pro: Why do bad things happen to good phones?",
+      "source": "Android Central",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-08-17",
+      "time": "22:34",
+      "publishedAt": "2026-08-17T22:34:10.000Z",
+      "url": "https://www.androidcentral.com/phones/google-pixel/one-year-with-the-google-pixel-10-pro",
+      "image": "https://cdn.mos.cms.futurecdn.net/QzD5oSKZNB28YgXTma5BZZ-1280-80.jpg",
+      "summary": "The Google Pixel 10 Pro marked a watershed moment in Pixel history, but was that a good or a bad moment? One year later, I have a conclusion.",
+      "tags": [
+        "Pixel",
+        "评测",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-e316e74f5354",
+      "title": "Samsung’s wide Galaxy Z Fold 8 was such a hit that it’s reportedly making another one",
+      "source": "Android Central",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-08-17",
+      "time": "21:56",
+      "publishedAt": "2026-08-17T21:56:55.000Z",
+      "url": "https://www.androidcentral.com/phones/samsung-galaxy/samsungs-wide-galaxy-z-fold-8-was-such-a-hit-that-its-reportedly-making-another-one",
+      "image": "https://cdn.mos.cms.futurecdn.net/FJE2mkucw4mjQXmMz3EJTb-1280-80.jpg",
+      "summary": "Samsung could be doubling down on wider foldables for 2027 with two new video-focused Z9 models after the Z Fold 8 smashed pre-order records.",
+      "tags": [
+        "Samsung",
+        "评测",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-906170ac3cd4",
       "title": "Over 10,000 readers told us that the Pixel 11 series missed the mark",
@@ -562,26 +602,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-a578db645325",
-      "title": "曝苹果 iPhone 17 系列国内销量突破 4000 万台",
-      "source": "IT之家",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-17",
-      "time": "10:20",
-      "publishedAt": "2026-08-17T10:20:07.000Z",
-      "url": "https://www.ithome.com/0/990/774.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/8/8afbed2a-837f-4be9-960f-0460ac6141e1.png?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 8 月 17 日消息，长期关注国内手机市场份额的数码博主 @RD观测 今日发文，曝光了苹果 iPhone 17 系列的国内市场最新销量情况。 截至 2026 W32（8.3-8.9）旗舰 SO-苹果 iPhone 17 系列约 4004.58 万 iPhone 17 系列机型于去年 9 月 10 日发布、9 月 19 日开售 ，其中 iPhone…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-6b67ce9895cb",
       "title": "Redmi Note 17 series global launch date announced",
       "source": "Gizmochina",
@@ -857,46 +877,6 @@ window.phoneRadarAuto = {
       "summary": "亮哥直播间中了个17标准版 兄弟们留x100还是17啊 #vivoX100# #iPhone17# #数码日常#",
       "tags": [
         "vivo",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-a572bb0121fa",
-      "title": "正式脱离黑厂，黑厂这个破续航我是真的受不了了，明天到祸黑厂的机子就可以出掉了，具体要出的东西看我上一个贴子#OPPOFindX8Ultra# #数码日常# #小米17ProMax#",
-      "source": "酷安热榜",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-08-17",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73265055",
-      "image": "",
-      "summary": "正式脱离黑厂，黑厂这个破续航我是真的受不了了，明天到祸黑厂的机子就可以出掉了，具体要出的东西看我上一个贴子#OPPOFindX8Ultra# #数码日常# #小米17ProMax#",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-4c0dff744b7a",
-      "title": "曝iPhone18ProMax独占可变光圈",
-      "source": "微博热搜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "待验证",
-      "date": "2026-08-17",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://s.weibo.com/weibo?q=%23%E6%9B%9DiPhone18ProMax%E7%8B%AC%E5%8D%A0%E5%8F%AF%E5%8F%98%E5%85%89%E5%9C%88%23&t=31&band_rank=25&Refer=top",
-      "image": "",
-      "summary": "曝iPhone18ProMax独占可变光圈",
-      "tags": [
-        "iPhone",
         "爆料",
         "NewsNow"
       ]

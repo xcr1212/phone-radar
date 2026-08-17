@@ -1,11 +1,11 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-08-17T20:42:34.579Z",
+  "updatedAt": "2026-08-17T22:39:42.646Z",
   "issueDate": "2026-08-17",
   "issue": "VOL.260817",
   "title": "手机情报日报",
-  "intro": "今日筛出 14 条重点，其中 8 条是重点爆料，包含 4 条 iPhone 相关、0 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 15 条重点，其中 8 条是重点爆料，包含 4 条 iPhone 相关、0 条官方确认、0 条参数线索。",
   "stats": {
-    "total": 14,
+    "total": 15,
     "iphone": 4,
     "leaks": 8,
     "official": 0,
@@ -135,29 +135,6 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
-          "id": "newsnow-a572bb0121fa",
-          "title": "正式脱离黑厂，黑厂这个破续航我是真的受不了了，明天到祸黑厂的机子就可以出掉了，具体要出的东西看我上一个贴子#OPPOFindX8Ultra# #数码日常# #小米17ProMax#",
-          "originalTitle": "",
-          "source": "酷安热榜",
-          "brand": "Xiaomi",
-          "type": "爆料",
-          "trust": "高关注爆料源",
-          "date": "2026-08-17",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://www.coolapk.com/feed/73265055",
-          "image": "",
-          "verdict": "先看",
-          "takeaway": "正式脱离黑厂，黑厂这个破续航我是真的受不了了，明天到祸黑厂的机子就可以出掉了，具体要出的东西看我上一个贴子#OPPOFindX8Ultra# #数码日常# #小米17ProMax#",
-          "detail": "正式脱离黑厂，黑厂这个破续航我是真的受不了了，明天到祸黑厂的机子就可以出掉了，具体要出的东西看我上一个贴子#OPPOFindX8Ultra# #数码日常# #小米17ProMax#",
-          "keyPoints": [
-            "电池 / 充电"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
           "id": "coolapk-user-2b7a50929aec",
           "title": "竹本青：【荣耀Robot Phone 今天正式开售，售价9999元起】 12GB+512GB —— 9999元 16GB+…",
           "originalTitle": "",
@@ -204,6 +181,29 @@ window.phoneRadarDaily = {
           "confidence": "可信度较高，但仍属于发布前线索。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "auto-a7306930d040",
+          "title": "Omdia：成本上涨重塑非洲百元智能手机市场，今年 Q2 出货大降 34%",
+          "originalTitle": "",
+          "source": "IT之家",
+          "brand": "行业",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-08-17",
+          "time": "11:02",
+          "publishedAt": "2026-08-17T11:02:40.000Z",
+          "url": "https://www.ithome.com/0/990/794.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/8/1bec8fae-2538-4101-a604-d23f55ebc67a.png",
+          "verdict": "先看",
+          "takeaway": "IT之家 8 月 17 日消息，Omdia 最新报告指出，非洲 100 美元 （IT之家注：现汇率约合 674.9 元人民币） 以下智能手机市场正面临越来越大的压力，内存价格上涨正在挤压入门级设备的利润空间。数据显示，2026 年第二季度，非洲 100 美元 （现汇率约合 674.9 元人民币） 以下智能手机出货量同比下降 34%，厂商们正越来越多地转向融…",
+          "detail": "IT之家 8 月 17 日消息，Omdia 最新报告指出，非洲 100 美元 （IT之家注：现汇率约合 674.9 元人民币） 以下智能手机市场正面临越来越大的压力，内存价格上涨正在挤压入门级设备的利润空间。数据显示，2026 年第二季度，非洲 100 美元 （现汇率约合 674.9 元人民币） 以下智能手机出货量同比下降 34%，厂商们正越来越多地转向融…",
+          "keyPoints": [
+            "成本 / 价格"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         }
       ]
     },
@@ -212,29 +212,6 @@ window.phoneRadarDaily = {
       "title": "iPhone 重点",
       "hint": "不是硬件爆料，但和 iPhone 体验或路线有关。",
       "items": [
-        {
-          "id": "auto-a578db645325",
-          "title": "曝苹果 iPhone 17 系列国内销量突破 4000 万台",
-          "originalTitle": "",
-          "source": "IT之家",
-          "brand": "iPhone",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-08-17",
-          "time": "10:20",
-          "publishedAt": "2026-08-17T10:20:07.000Z",
-          "url": "https://www.ithome.com/0/990/774.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/8/8afbed2a-837f-4be9-960f-0460ac6141e1.png?x-bce-process=image/format,f_auto",
-          "verdict": "先看",
-          "takeaway": "IT之家 8 月 17 日消息，长期关注国内手机市场份额的数码博主 @RD观测 今日发文，曝光了苹果 iPhone 17 系列的国内市场最新销量情况。 截至 2026 W32（8.3-8.9）旗舰 SO-苹果 iPhone 17 系列约 4004.58 万 iPhone 17 系列机型于去年 9 月 10 日发布、9 月 19 日开售 ，其中 iPhone…",
-          "detail": "IT之家 8 月 17 日消息，长期关注国内手机市场份额的数码博主 @RD观测 今日发文，曝光了苹果 iPhone 17 系列的国内市场最新销量情况。 截至 2026 W32（8.3-8.9）旗舰 SO-苹果 iPhone 17 系列约 4004.58 万 iPhone 17 系列机型于去年 9 月 10 日发布、9 月 19 日开售 ，其中 iPhone…",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "中文源可以直接点开快读；看完只保留和购机有关的点。"
-        },
         {
           "id": "auto-5ab98bb6c593",
           "title": "iPhone 相关消息",
@@ -256,6 +233,29 @@ window.phoneRadarDaily = {
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        },
+        {
+          "id": "newsnow-471cd41cbbcb",
+          "title": "把「闪念胶囊」（Almost）放到 iPhone 锁屏",
+          "originalTitle": "",
+          "source": "少数派热榜",
+          "brand": "iPhone",
+          "type": "评测",
+          "trust": "媒体汇总",
+          "date": "2026-08-17",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://sspai.com/post/113219",
+          "image": "",
+          "verdict": "扫一眼",
+          "takeaway": "把「闪念胶囊」（Almost）放到 iPhone 锁屏",
+          "detail": "把「闪念胶囊」（Almost）放到 iPhone 锁屏",
+          "keyPoints": [
+            "评测"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是实际体验内容，买前适合重点看缺点和取舍。",
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         }
       ]
@@ -350,6 +350,29 @@ window.phoneRadarDaily = {
           "verdict": "扫一眼",
           "takeaway": "【荣耀MagicOS 11 开启内测log版本推送，共覆盖15款手机】 ▫️荣耀Magic V6／V5 ▫️荣耀Magic 8系列 ▫️荣耀Magic 7系列 ▫️荣耀600 Pro系列 ▫️荣耀WIN／WIN RT ▫️荣耀GT Pro log版本 —— 现已提前开启推送 nolog版本 —— 计划明天20:00推送 #今日热点# #MagicOS11#…",
           "detail": "【荣耀MagicOS 11 开启内测log版本推送，共覆盖15款手机】 ▫️荣耀Magic V6／V5 ▫️荣耀Magic 8系列 ▫️荣耀Magic 7系列 ▫️荣耀600 Pro系列 ▫️荣耀WIN／WIN RT ▫️荣耀GT Pro log版本 —— 现已提前开启推送 nolog版本 —— 计划明天20:00推送 #今日热点# #MagicOS11#…",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "可信度较高，但仍属于发布前线索。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        },
+        {
+          "id": "coolapk-user-150926de64d4",
+          "title": "竹本青：【华为Mate 80系列 最新销量曝光：周增约17.73万台，累计超845万台】 8月17日，博主「RD观测」分享…",
+          "originalTitle": "",
+          "source": "竹本青",
+          "brand": "Huawei",
+          "type": "爆料",
+          "trust": "高可信爆料",
+          "date": "2026-08-17",
+          "time": "15:10",
+          "publishedAt": "2026-08-17T15:10:59.000Z",
+          "url": "https://www.coolapk.com/feed/73298109",
+          "image": "http://image.coolapk.com/feed/2026/0817/23/4248714_e67e8f50_9458_6578_95@3319x2497.jpg",
+          "verdict": "扫一眼",
+          "takeaway": "【华为Mate 80系列 最新销量曝光：周增约17.73万台，累计超845万台】 8月17日，博主「RD观测」分享第三方统计数据：截至2026年第32周，华为Mate 80系列累计销量约845.57万台，周新增约17.73万台。 前几周数据如下： 截至26 W31 —— 约827.84万（周增18.84万） 截至26 W30 —— 约809万（周增16.9…",
+          "detail": "【华为Mate 80系列 最新销量曝光：周增约17.73万台，累计超845万台】 8月17日，博主「RD观测」分享第三方统计数据：截至2026年第32周，华为Mate 80系列累计销量约845.57万台，周新增约17.73万台。 前几周数据如下： 截至26 W31 —— 约827.84万（周增18.84万） 截至26 W30 —— 约809万（周增16.9…",
           "keyPoints": [
             "爆料"
           ],
