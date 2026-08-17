@@ -1,13 +1,13 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-08-17T03:12:04.329Z",
+  "updatedAt": "2026-08-17T04:56:49.888Z",
   "issueDate": "2026-08-17",
   "issue": "VOL.260817",
   "title": "手机情报日报",
-  "intro": "今日筛出 12 条重点，其中 4 条是重点爆料，包含 3 条 iPhone 相关、1 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 19 条重点，其中 8 条是重点爆料，包含 5 条 iPhone 相关、1 条官方确认、0 条参数线索。",
   "stats": {
-    "total": 12,
-    "iphone": 3,
-    "leaks": 4,
+    "total": 19,
+    "iphone": 5,
+    "leaks": 8,
     "official": 1,
     "specs": 0
   },
@@ -17,6 +17,30 @@ window.phoneRadarDaily = {
       "title": "重点爆料",
       "hint": "机模、配色、影像、屏幕、电池和芯片线索先看。",
       "items": [
+        {
+          "id": "auto-08e45c905a02",
+          "title": "某厂骁龙 8E6 Pro 新旗舰工程机影像曝光，预计为 iQOO 16",
+          "originalTitle": "",
+          "source": "IT之家",
+          "brand": "vivo",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-08-17",
+          "time": "03:37",
+          "publishedAt": "2026-08-17T03:37:03.000Z",
+          "url": "https://www.ithome.com/0/990/569.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/8/f35397ab-faeb-4ec3-bf8f-b3cbb0229697.png?x-bce-process=image/format,f_auto",
+          "verdict": "先看",
+          "takeaway": "IT之家 8 月 17 日消息，博主 @数码闲聊站 今日爆料，某厂子系骁龙 8E6 Pro 新旗舰，工程机 50Mp 1/1.3\" F1.68 超大底主摄 +50Mp F2.0 小底超广角 +50Mp 1/1.95\" F2.65 中底潜望镜，镜组看起来有点像倒置方案，长焦微距待定。 今年 7 月，该博主爆料某厂子系骁龙 8 Elite Gen 6 Pro…",
+          "detail": "IT之家 8 月 17 日消息，博主 @数码闲聊站 今日爆料，某厂子系骁龙 8E6 Pro 新旗舰，工程机 50Mp 1/1.3\" F1.68 超大底主摄 +50Mp F2.0 小底超广角 +50Mp 1/1.95\" F2.65 中底潜望镜，镜组看起来有点像倒置方案，长焦微距待定。 今年 7 月，该博主爆料某厂子系骁龙 8 Elite Gen 6 Pro…",
+          "keyPoints": [
+            "影像硬件",
+            "爆料来源"
+          ],
+          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
         {
           "id": "newsnow-a572bb0121fa",
           "title": "正式脱离黑厂，黑厂这个破续航我是真的受不了了，明天到祸黑厂的机子就可以出掉了，具体要出的东西看我上一个贴子#OPPOFindX8Ultra# #数码日常# #小米17ProMax#",
@@ -37,6 +61,30 @@ window.phoneRadarDaily = {
             "电池 / 充电"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "weibo-c39a153147ea",
+          "title": "数码闲聊站：独家信息：子系另一台骁龙8E6 Pro新旗舰，工程机50Mp 1/1.3\" F…",
+          "originalTitle": "",
+          "source": "数码闲聊站",
+          "brand": "行业",
+          "type": "爆料",
+          "trust": "高关注爆料源",
+          "date": "2026-08-17",
+          "time": "03:15",
+          "publishedAt": "2026-08-17T03:15:00.000Z",
+          "url": "https://weibo.com/6048569942/RdMQTFKuM",
+          "image": "https://tvax1.sinaimg.cn/mw2000/006BlblIgy1ig58n2etprj30xv0evtdl.jpg",
+          "verdict": "先看",
+          "takeaway": "独家信息，子系另一台骁龙8E6 Pro新旗舰，工程机50Mp 1/1.3\" F1.68超大底主摄+50Mp F2.0小底超广角+50Mp 1/1.95\" F2.65中底潜望镜，镜组看起来有点像倒置方案，长焦微距待定👖",
+          "detail": "独家信息，子系另一台骁龙8E6 Pro新旗舰，工程机50Mp 1/1.3\" F1.68超大底主摄+50Mp F2.0小底超广角+50Mp 1/1.95\" F2.65中底潜望镜，镜组看起来有点像倒置方案，长焦微距待定👖",
+          "keyPoints": [
+            "影像硬件",
+            "爆料来源"
+          ],
+          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
@@ -83,6 +131,56 @@ window.phoneRadarDaily = {
             "外观 / 配色 / 尺寸"
           ],
           "confidence": "可信度较高，但仍属于发布前线索。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "auto-097f5926d724",
+          "title": "vivo 影像能力相关消息",
+          "originalTitle": "",
+          "source": "Gizmochina",
+          "brand": "vivo",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-08-17",
+          "time": "04:08",
+          "publishedAt": "2026-08-17T04:08:28.000Z",
+          "url": "https://www.gizmochina.com/2026/08/17/iqoo-16-camera-specifications-leaked/",
+          "image": "https://www.gizmochina.com/wp-content/uploads/2025/12/iQOO-15-halo1-300x225.jpg?x23692",
+          "verdict": "先看",
+          "takeaway": "vivo 影像能力相关宣传或案例，主要看是否透露拍摄能力变化。",
+          "detail": "vivo 影像能力相关消息。重点看影像功能是否和新机硬件有关，如果只是拍摄案例或营销内容，参考价值会低一些。",
+          "keyPoints": [
+            "外观 / 配色 / 尺寸",
+            "影像硬件",
+            "屏幕形态",
+            "芯片 / 性能"
+          ],
+          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "auto-580b5bc8c99e",
+          "title": "OPPO 屏幕规格相关消息",
+          "originalTitle": "",
+          "source": "Gizmochina",
+          "brand": "OPPO",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-08-17",
+          "time": "03:48",
+          "publishedAt": "2026-08-17T03:48:45.000Z",
+          "url": "https://www.gizmochina.com/2026/08/17/oneplus-16-major-display-upgrade/",
+          "image": "https://www.gizmochina.com/wp-content/uploads/2025/10/OnePlus-15-display-300x169.jpg?x23692",
+          "verdict": "先看",
+          "takeaway": "OPPO 屏幕规格相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
+          "detail": "OPPO 屏幕规格相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
+          "keyPoints": [
+            "屏幕形态",
+            "爆料来源"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
@@ -184,6 +282,52 @@ window.phoneRadarDaily = {
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是实际体验内容，买前适合重点看缺点和取舍。",
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        },
+        {
+          "id": "newsnow-7c4153937df0",
+          "title": "iPhoneUltra备货量",
+          "originalTitle": "",
+          "source": "微博热搜",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "待验证",
+          "date": "2026-08-17",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://s.weibo.com/weibo?q=%23iPhoneUltra%E5%A4%87%E8%B4%A7%E9%87%8F%23&t=31&band_rank=9&Refer=top",
+          "image": "",
+          "verdict": "扫一眼",
+          "takeaway": "iPhoneUltra备货量",
+          "detail": "iPhoneUltra备货量",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        },
+        {
+          "id": "newsnow-a4c0ed96f3a1",
+          "title": "iPhone17或全球涨价",
+          "originalTitle": "",
+          "source": "微博热搜",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "待验证",
+          "date": "2026-08-17",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://s.weibo.com/weibo?q=%23iPhone17%E6%88%96%E5%85%A8%E7%90%83%E6%B6%A8%E4%BB%B7%23&t=31&band_rank=16&Refer=top",
+          "image": "",
+          "verdict": "扫一眼",
+          "takeaway": "iPhone17或全球涨价",
+          "detail": "iPhone17或全球涨价",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "影响购买预算，值得先看。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         }
       ]
     },
@@ -192,29 +336,6 @@ window.phoneRadarDaily = {
       "title": "新机与官方发布",
       "hint": "能直接更新到参数库。",
       "items": [
-        {
-          "id": "auto-ce7d02c23ffa",
-          "title": "vivo 影像能力相关消息",
-          "originalTitle": "",
-          "source": "Gizmochina",
-          "brand": "vivo",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-08-16",
-          "time": "23:51",
-          "publishedAt": "2026-08-16T23:51:25.000Z",
-          "url": "https://www.gizmochina.com/2026/08/16/iqoo-neo11-ultra-camera-samples-impress-with-social-media-ready-look-and-no-artifacts/",
-          "image": "https://www.gizmochina.com/wp-content/uploads/2026/08/007B27Qzgy1ig2mmxw7nmj32bc334kjm-300x169.png?x23692",
-          "verdict": "可略过",
-          "takeaway": "vivo 影像能力相关宣传或案例，主要看是否透露拍摄能力变化。",
-          "detail": "vivo 影像能力相关消息。重点看影像功能是否和新机硬件有关，如果只是拍摄案例或营销内容，参考价值会低一些。",
-          "keyPoints": [
-            "影像硬件"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "影响拍照体验，买旗舰机时值得关注。",
-          "action": "有具体参数就记录到参数库；没有参数就先收藏。"
-        },
         {
           "id": "auto-f7f578a5f51e",
           "title": "Pixel 相关消息",
@@ -236,6 +357,36 @@ window.phoneRadarDaily = {
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        }
+      ]
+    },
+    {
+      "id": "review",
+      "title": "评测与体验",
+      "hint": "买前再细看，平时扫一眼即可。",
+      "items": [
+        {
+          "id": "auto-f7ba231f0ffd",
+          "title": "Pixel 12 Pro Fold 折叠屏相关消息",
+          "originalTitle": "",
+          "source": "Android Central",
+          "brand": "Pixel",
+          "type": "评测",
+          "trust": "媒体汇总",
+          "date": "2026-08-17",
+          "time": "04:44",
+          "publishedAt": "2026-08-17T04:44:01.000Z",
+          "url": "https://www.androidcentral.com/phones/google-pixel/google-pixel-12-pro-fold",
+          "image": "https://cdn.mos.cms.futurecdn.net/zpjPFzH5LNf7vf7ViBdohN-1280-80.jpg",
+          "verdict": "可略过",
+          "takeaway": "Pixel 12 Pro Fold 折叠屏相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
+          "detail": "Pixel 12 Pro Fold 折叠屏相关消息。重点看折痕、铰链、厚度、屏幕可靠性和重量是否有实质改善。",
+          "keyPoints": [
+            "评测"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是实际体验内容，买前适合重点看缺点和取舍。",
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         }
       ]
@@ -265,6 +416,29 @@ window.phoneRadarDaily = {
             "爆料"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        },
+        {
+          "id": "coolapk-user-e1262a08050f",
+          "title": "竹本青：接入大模型以后还不如不接入，算的堪称奇才",
+          "originalTitle": "",
+          "source": "竹本青",
+          "brand": "OPPO",
+          "type": "爆料",
+          "trust": "高可信爆料",
+          "date": "2026-08-17",
+          "time": "04:12",
+          "publishedAt": "2026-08-17T04:12:09.000Z",
+          "url": "https://www.coolapk.com/feed/73287349",
+          "image": "http://image.coolapk.com/feed/2026/0817/12/4248714_116660e7_9928_1917_841@1439x3168.jpg",
+          "verdict": "扫一眼",
+          "takeaway": "接入大模型以后还不如不接入，算的堪称奇才",
+          "detail": "接入大模型以后还不如不接入，算的堪称奇才",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "可信度较高，但仍属于发布前线索。",
           "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         },
