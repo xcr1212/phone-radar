@@ -1,6 +1,186 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-08-17T14:43:11.395Z",
+  "updatedAt": "2026-08-17T16:44:46.609Z",
   "news": [
+    {
+      "id": "auto-0a7ddaabde54",
+      "title": "T-Mobile is giving away the Google Pixel 11 Pro XL for FREE without trade — so what's the catch?",
+      "source": "Android Central",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-08-17",
+      "time": "16:16",
+      "publishedAt": "2026-08-17T16:16:51.000Z",
+      "url": "https://www.androidcentral.com/phones/google-pixel/t-mobile-is-giving-away-the-google-pixel-11-pro-xl-for-free-without-trade-so-whats-the-catch",
+      "image": "https://cdn.mos.cms.futurecdn.net/nM4bJN9wyXDtnf5HF6H4f4-1280-80.jpg",
+      "summary": "The Google Pixel 11 Pro XL has arrived, and there are already some great deals to consider.",
+      "tags": [
+        "Pixel",
+        "评测",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-ced40079332f",
+      "title": "Google’s Pixel 11 ads tease a mysterious fitness tracker",
+      "source": "Android Authority",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-17",
+      "time": "15:33",
+      "publishedAt": "2026-08-17T15:33:19.000Z",
+      "url": "https://www.androidauthority.com/google-fitness-tracker-ad-leak-3699347/",
+      "image": "",
+      "summary": "A mysterious screen-equipped tracker appears in Pixel 11 ads. What is Google hiding?",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-5ab98bb6c593",
+      "title": "iPhone 18 Pro: Six new features are coming next month",
+      "source": "9to5Mac",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-17",
+      "time": "15:33",
+      "publishedAt": "2026-08-17T15:33:10.000Z",
+      "url": "https://9to5mac.com/2026/08/17/iphone-18-pro-six-new-features-are-coming-this-fall/",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/05/iphone-17-pro-blue-angle-two.jpg?quality=82&strip=all&w=1600",
+      "summary": "Next month’s new iPhone lineup will bring a brand new ‘iPhone Ultra’ foldable , but the most popular models will no doubt be the iPhone 18 Pro and Pro Max. Here are six new featur…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-47efa0f3ae22",
+      "title": "竹本青：【REDMI K90／K100 Pro Max 隐藏升级点：支持顶部刷NFC】 8月17日，有博主发文表示，RED…",
+      "source": "竹本青",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-08-17",
+      "time": "15:26",
+      "publishedAt": "2026-08-17T15:26:23.000Z",
+      "url": "https://www.coolapk.com/feed/73298349",
+      "image": "http://image.coolapk.com/feed/2026/0817/23/4248714_7058127d_0624_1425_825@1272x1533.jpg",
+      "summary": "【REDMI K90／K100 Pro Max 隐藏升级点：支持顶部刷NFC】 8月17日，有博主发文表示，REDMI K100 Pro Max迎来一项实用升级，该机在机身顶部增设NFC刷卡区域，背部、顶部都可以正常完成NFC刷卡触发。 随后，REDMI产品经理“笋寸”转发作出补充，称K90 Pro Max机身顶部同样支持该功能。 #RedmiK90Pro…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-3ec918ecc3dd",
+      "title": "曝荣耀多款迭代新机采用万级大电池，预计将落地 WIN2、X、Power 等系列机型",
+      "source": "IT之家",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-17",
+      "time": "15:20",
+      "publishedAt": "2026-08-17T15:20:35.000Z",
+      "url": "https://www.ithome.com/0/990/851.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/8/9e8bcfc0-ee41-4c66-9ccd-90cee47c6191.png?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 8 月 17 日消息，博主 @数码闲聊站 今日发文爆料，荣耀新机迭代线开了多块万级大电池，除了最大的 11790mAh/12000mAh± 电池外， 还有一块硅含量相对低的 11600mAh/12000mAh± 电池 。 另外，荣耀的万级容量级别电池里还有一块额定 9800mAh 和一块额定 9850mAh 的电池，全都采用单电芯方案。博主称，…",
+      "tags": [
+        "HONOR",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-2654eb3430a6",
+      "title": "New Galaxy Z Fold 8 campaign positions it as a companion for fatherhood",
+      "source": "SamMobile",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-17",
+      "time": "15:12",
+      "publishedAt": "2026-08-17T15:12:21.000Z",
+      "url": "https://www.sammobile.com/news/new-galaxy-z-fold-8-campaign-positions-it-as-a-companion-for-fatherhood/",
+      "image": "",
+      "summary": "Samsung has rolled out a new ad campaign for the Galaxy Z Fold 8 and the Galaxy Z Fold 8 Ultra which takes a slightly different approach than what you'd expect from a smartphone a…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-150926de64d4",
+      "title": "竹本青：【华为Mate 80系列 最新销量曝光：周增约17.73万台，累计超845万台】 8月17日，博主「RD观测」分享…",
+      "source": "竹本青",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-08-17",
+      "time": "15:10",
+      "publishedAt": "2026-08-17T15:10:59.000Z",
+      "url": "https://www.coolapk.com/feed/73298109",
+      "image": "http://image.coolapk.com/feed/2026/0817/23/4248714_e67e8f50_9458_6578_95@3319x2497.jpg",
+      "summary": "【华为Mate 80系列 最新销量曝光：周增约17.73万台，累计超845万台】 8月17日，博主「RD观测」分享第三方统计数据：截至2026年第32周，华为Mate 80系列累计销量约845.57万台，周新增约17.73万台。 前几周数据如下： 截至26 W31 —— 约827.84万（周增18.84万） 截至26 W30 —— 约809万（周增16.9…",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-9685a2fd5ba4",
+      "title": "Galaxy Z Fold 8 gets a $200 no trade-in credit, here’s what you can use it for",
+      "source": "SamMobile",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-17",
+      "time": "14:55",
+      "publishedAt": "2026-08-17T14:55:05.000Z",
+      "url": "https://www.sammobile.com/news/galaxy-z-fold-8-gets-a-200-no-trade-in-credit-heres-what-you-can-use-it-for/",
+      "image": "",
+      "summary": "For a limited time only, Samsung is offering customers who buy the Galaxy Z Fold 8 through its online store in the United States a $200 trade-in credit if they don't have a device…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-c55264fa4948",
+      "title": "Google says Pixel 11’s new MediaTek modem is ‘faster and more power efficient’",
+      "source": "9to5Google",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-17",
+      "time": "14:45",
+      "publishedAt": "2026-08-17T14:45:00.000Z",
+      "url": "https://9to5google.com/2026/08/17/google-pixel-11-mediatek-modem/",
+      "image": "",
+      "summary": "The Pixel 11 series brings Google’s updated Tensor G6 chipset that, while not quite as big of an upgrade as we expected, still brings a big new change in a MediaTek-made modem tha…",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-b6fcc3231e5a",
       "title": "Set up your Galaxy Z Fold 8 with Smart Switch? Your zoom level may be wrong",
@@ -362,26 +542,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-7425c03ed114",
-      "title": "能换电池的国产手机：CUBOT KINGKONG Dura 官宣，支持 IP68 防尘防水",
-      "source": "IT之家",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-17",
-      "time": "09:41",
-      "publishedAt": "2026-08-17T09:41:29.000Z",
-      "url": "https://www.ithome.com/0/990/729.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/8/1b614f2c-a88e-4d96-a2c5-246069644c9f.jpg",
-      "summary": "IT之家 8 月 17 日消息，国产手机品牌 CUBOT 在海外预告了一款 KINGKONG Dura 手机，这是一款三防智能手机， 采用了复古的可换电池设计 。 KINGKONG Dura 将推出 双电池套装 和专用电池充电底座，从而实现“一块电池工作，另一块电池充电”的日常使用模式，方便实时工作、旅行或进行户外活动。 IT之家从官方介绍获悉，KINGK…",
-      "tags": [
-        "行业",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-6544f2118660",
       "title": "The Pixel 11 Pro fixes my biggest complaint about older Pixel flagships",
       "source": "Android Authority",
@@ -439,26 +599,6 @@ window.phoneRadarAuto = {
         "行业",
         "爆料",
         "酷安博主"
-      ]
-    },
-    {
-      "id": "auto-19bf8a1ec312",
-      "title": "华为鸿蒙 HarmonyOS 7.0.0.102 SP8 版本开推，新增 3D 空间壁纸等功能",
-      "source": "IT之家",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-17",
-      "time": "09:05",
-      "publishedAt": "2026-08-17T09:05:42.000Z",
-      "url": "https://www.ithome.com/0/990/719.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/6/4ff9931c-1f17-45ba-86cb-8105f9a70290.jpg?x-bce-process=image/format,f_auto/auto-orient,o_1",
-      "summary": "IT之家 8 月 17 日消息，华为今日开启了鸿蒙 HarmonyOS 7.0.0.102 SP8 版本推送，首批面向 Mate 80、Mate 70 等系列机型，系统包大小约 6.79 GB。据介绍，新版本带来了 3D 空间壁纸、亲密圈、户外探索模式等功能。 ▲ IT之家开箱：华为 nova 16 Pro 手机美图 IT之家附华为鸿蒙 HarmonyOS…",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "自动抓取"
       ]
     },
     {
@@ -579,26 +719,6 @@ window.phoneRadarAuto = {
         "OPPO",
         "爆料",
         "自动抓取"
-      ]
-    },
-    {
-      "id": "weibo-c39a153147ea",
-      "title": "数码闲聊站：独家信息：子系另一台骁龙8E6 Pro新旗舰，工程机50Mp 1/1.3\" F…",
-      "source": "数码闲聊站",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-08-17",
-      "time": "03:15",
-      "publishedAt": "2026-08-17T03:15:00.000Z",
-      "url": "https://weibo.com/6048569942/RdMQTFKuM",
-      "image": "https://tvax1.sinaimg.cn/mw2000/006BlblIgy1ig58n2etprj30xv0evtdl.jpg",
-      "summary": "独家信息，子系另一台骁龙8E6 Pro新旗舰，工程机50Mp 1/1.3\" F1.68超大底主摄+50Mp F2.0小底超广角+50Mp 1/1.95\" F2.65中底潜望镜，镜组看起来有点像倒置方案，长焦微距待定👖",
-      "tags": [
-        "行业",
-        "爆料",
-        "微博"
       ]
     },
     {
@@ -742,6 +862,26 @@ window.phoneRadarAuto = {
       ]
     },
     {
+      "id": "newsnow-b1c948e0b5f3",
+      "title": "曝iPhone18ProMax独占可变光圈",
+      "source": "微博热搜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "待验证",
+      "date": "2026-08-17",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://s.weibo.com/weibo?q=%23%E6%9B%9DiPhone18ProMax%E7%8B%AC%E5%8D%A0%E5%8F%AF%E5%8F%98%E5%85%89%E5%9C%88%23&t=31&band_rank=6&Refer=top",
+      "image": "",
+      "summary": "曝iPhone18ProMax独占可变光圈",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
       "id": "newsnow-335e4b7bde02",
       "title": "如何看待追觅卖出首台 AURORA 手机，售价超 20 万元？靠高奢定制切入手机赛道可行吗？",
       "source": "知乎热榜",
@@ -762,26 +902,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-9d75cfe47c76",
-      "title": "9块9包邮的手机壳还敢买吗",
-      "source": "百度热搜",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-17",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.baidu.com/s?wd=9%E5%9D%979%E5%8C%85%E9%82%AE%E7%9A%84%E6%89%8B%E6%9C%BA%E5%A3%B3%E8%BF%98%E6%95%A2%E4%B9%B0%E5%90%97",
-      "image": "",
-      "summary": "9块9包邮的手机壳还敢买吗",
-      "tags": [
-        "行业",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
       "id": "newsnow-b6bd245b360f",
       "title": "闪过念头就刷到广告 是手机在偷听吗",
       "source": "百度热搜",
@@ -795,6 +915,26 @@ window.phoneRadarAuto = {
       "url": "https://www.baidu.com/s?wd=%E9%97%AA%E8%BF%87%E5%BF%B5%E5%A4%B4%E5%B0%B1%E5%88%B7%E5%88%B0%E5%B9%BF%E5%91%8A+%E6%98%AF%E6%89%8B%E6%9C%BA%E5%9C%A8%E5%81%B7%E5%90%AC%E5%90%97",
       "image": "",
       "summary": "闪过念头就刷到广告 是手机在偷听吗",
+      "tags": [
+        "行业",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-9d75cfe47c76",
+      "title": "9块9包邮的手机壳还敢买吗",
+      "source": "百度热搜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-17",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.baidu.com/s?wd=9%E5%9D%979%E5%8C%85%E9%82%AE%E7%9A%84%E6%89%8B%E6%9C%BA%E5%A3%B3%E8%BF%98%E6%95%A2%E4%B9%B0%E5%90%97",
+      "image": "",
+      "summary": "9块9包邮的手机壳还敢买吗",
       "tags": [
         "行业",
         "爆料",

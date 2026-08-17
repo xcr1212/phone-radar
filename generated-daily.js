@@ -1,12 +1,12 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-08-17T14:43:11.395Z",
+  "updatedAt": "2026-08-17T16:44:46.609Z",
   "issueDate": "2026-08-17",
   "issue": "VOL.260817",
   "title": "手机情报日报",
-  "intro": "今日筛出 16 条重点，其中 8 条是重点爆料，包含 5 条 iPhone 相关、0 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 16 条重点，其中 8 条是重点爆料，包含 4 条 iPhone 相关、0 条官方确认、0 条参数线索。",
   "stats": {
     "total": 16,
-    "iphone": 5,
+    "iphone": 4,
     "leaks": 8,
     "official": 0,
     "specs": 0
@@ -60,6 +60,30 @@ window.phoneRadarDaily = {
             "爆料来源"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "auto-3ec918ecc3dd",
+          "title": "曝荣耀多款迭代新机采用万级大电池，预计将落地 WIN2、X、Power 等系列机型",
+          "originalTitle": "",
+          "source": "IT之家",
+          "brand": "HONOR",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-08-17",
+          "time": "15:20",
+          "publishedAt": "2026-08-17T15:20:35.000Z",
+          "url": "https://www.ithome.com/0/990/851.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/8/9e8bcfc0-ee41-4c66-9ccd-90cee47c6191.png?x-bce-process=image/format,f_auto",
+          "verdict": "先看",
+          "takeaway": "IT之家 8 月 17 日消息，博主 @数码闲聊站 今日发文爆料，荣耀新机迭代线开了多块万级大电池，除了最大的 11790mAh/12000mAh± 电池外， 还有一块硅含量相对低的 11600mAh/12000mAh± 电池 。 另外，荣耀的万级容量级别电池里还有一块额定 9800mAh 和一块额定 9850mAh 的电池，全都采用单电芯方案。博主称，…",
+          "detail": "IT之家 8 月 17 日消息，博主 @数码闲聊站 今日发文爆料，荣耀新机迭代线开了多块万级大电池，除了最大的 11790mAh/12000mAh± 电池外， 还有一块硅含量相对低的 11600mAh/12000mAh± 电池 。 另外，荣耀的万级容量级别电池里还有一块额定 9800mAh 和一块额定 9850mAh 的电池，全都采用单电芯方案。博主称，…",
+          "keyPoints": [
+            "电池 / 充电",
+            "爆料来源"
+          ],
+          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
@@ -179,29 +203,6 @@ window.phoneRadarDaily = {
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "auto-7425c03ed114",
-          "title": "能换电池的国产手机：CUBOT KINGKONG Dura 官宣，支持 IP68 防尘防水",
-          "originalTitle": "",
-          "source": "IT之家",
-          "brand": "行业",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-08-17",
-          "time": "09:41",
-          "publishedAt": "2026-08-17T09:41:29.000Z",
-          "url": "https://www.ithome.com/0/990/729.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/8/1b614f2c-a88e-4d96-a2c5-246069644c9f.jpg",
-          "verdict": "先看",
-          "takeaway": "IT之家 8 月 17 日消息，国产手机品牌 CUBOT 在海外预告了一款 KINGKONG Dura 手机，这是一款三防智能手机， 采用了复古的可换电池设计 。 KINGKONG Dura 将推出 双电池套装 和专用电池充电底座，从而实现“一块电池工作，另一块电池充电”的日常使用模式，方便实时工作、旅行或进行户外活动。 IT之家从官方介绍获悉，KINGK…",
-          "detail": "IT之家 8 月 17 日消息，国产手机品牌 CUBOT 在海外预告了一款 KINGKONG Dura 手机，这是一款三防智能手机， 采用了复古的可换电池设计 。 KINGKONG Dura 将推出 双电池套装 和专用电池充电底座，从而实现“一块电池工作，另一块电池充电”的日常使用模式，方便实时工作、旅行或进行户外活动。 IT之家从官方介绍获悉，KINGK…",
-          "keyPoints": [
-            "电池 / 充电"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         }
       ]
     },
@@ -234,49 +235,26 @@ window.phoneRadarDaily = {
           "action": "中文源可以直接点开快读；看完只保留和购机有关的点。"
         },
         {
-          "id": "newsnow-471cd41cbbcb",
-          "title": "把「闪念胶囊」（Almost）放到 iPhone 锁屏",
+          "id": "auto-5ab98bb6c593",
+          "title": "iPhone 相关消息",
           "originalTitle": "",
-          "source": "少数派热榜",
+          "source": "9to5Mac",
           "brand": "iPhone",
-          "type": "评测",
+          "type": "爆料",
           "trust": "媒体汇总",
           "date": "2026-08-17",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://sspai.com/post/113219",
-          "image": "",
+          "time": "15:33",
+          "publishedAt": "2026-08-17T15:33:10.000Z",
+          "url": "https://9to5mac.com/2026/08/17/iphone-18-pro-six-new-features-are-coming-this-fall/",
+          "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/05/iphone-17-pro-blue-angle-two.jpg?quality=82&strip=all&w=1600",
           "verdict": "扫一眼",
-          "takeaway": "把「闪念胶囊」（Almost）放到 iPhone 锁屏",
-          "detail": "把「闪念胶囊」（Almost）放到 iPhone 锁屏",
+          "takeaway": "iPhone 相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
+          "detail": "iPhone 相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
           "keyPoints": [
-            "评测"
+            "爆料"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是实际体验内容，买前适合重点看缺点和取舍。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
-        {
-          "id": "newsnow-b3630a10e1bc",
-          "title": "我，与「唯一」的 iPhone Air",
-          "originalTitle": "",
-          "source": "少数派热榜",
-          "brand": "iPhone",
-          "type": "评测",
-          "trust": "媒体汇总",
-          "date": "2026-08-17",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://sspai.com/post/112880",
-          "image": "",
-          "verdict": "扫一眼",
-          "takeaway": "我，与「唯一」的 iPhone Air",
-          "detail": "我，与「唯一」的 iPhone Air",
-          "keyPoints": [
-            "评测"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是实际体验内容，买前适合重点看缺点和取舍。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         }
       ]
@@ -375,6 +353,29 @@ window.phoneRadarDaily = {
             "爆料"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        },
+        {
+          "id": "coolapk-user-150926de64d4",
+          "title": "竹本青：【华为Mate 80系列 最新销量曝光：周增约17.73万台，累计超845万台】 8月17日，博主「RD观测」分享…",
+          "originalTitle": "",
+          "source": "竹本青",
+          "brand": "Huawei",
+          "type": "爆料",
+          "trust": "高可信爆料",
+          "date": "2026-08-17",
+          "time": "15:10",
+          "publishedAt": "2026-08-17T15:10:59.000Z",
+          "url": "https://www.coolapk.com/feed/73298109",
+          "image": "http://image.coolapk.com/feed/2026/0817/23/4248714_e67e8f50_9458_6578_95@3319x2497.jpg",
+          "verdict": "扫一眼",
+          "takeaway": "【华为Mate 80系列 最新销量曝光：周增约17.73万台，累计超845万台】 8月17日，博主「RD观测」分享第三方统计数据：截至2026年第32周，华为Mate 80系列累计销量约845.57万台，周新增约17.73万台。 前几周数据如下： 截至26 W31 —— 约827.84万（周增18.84万） 截至26 W30 —— 约809万（周增16.9…",
+          "detail": "【华为Mate 80系列 最新销量曝光：周增约17.73万台，累计超845万台】 8月17日，博主「RD观测」分享第三方统计数据：截至2026年第32周，华为Mate 80系列累计销量约845.57万台，周新增约17.73万台。 前几周数据如下： 截至26 W31 —— 约827.84万（周增18.84万） 截至26 W30 —— 约809万（周增16.9…",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "可信度较高，但仍属于发布前线索。",
           "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         },
