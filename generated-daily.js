@@ -1,15 +1,15 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-08-16T22:35:18.140Z",
-  "issueDate": "2026-08-16",
-  "issue": "VOL.260816",
+  "updatedAt": "2026-08-17T01:53:54.911Z",
+  "issueDate": "2026-08-17",
+  "issue": "VOL.260817",
   "title": "手机情报日报",
-  "intro": "今日筛出 18 条重点，其中 5 条是重点爆料，包含 4 条 iPhone 相关、1 条官方确认、1 条参数线索。",
+  "intro": "今日筛出 13 条重点，其中 2 条是重点爆料，包含 4 条 iPhone 相关、1 条官方确认、0 条参数线索。",
   "stats": {
-    "total": 18,
+    "total": 13,
     "iphone": 4,
-    "leaks": 5,
+    "leaks": 2,
     "official": 1,
-    "specs": 1
+    "specs": 0
   },
   "sections": [
     {
@@ -18,14 +18,14 @@ window.phoneRadarDaily = {
       "hint": "机模、配色、影像、屏幕、电池和芯片线索先看。",
       "items": [
         {
-          "id": "newsnow-1e10b4dbaa22",
+          "id": "newsnow-a572bb0121fa",
           "title": "正式脱离黑厂，黑厂这个破续航我是真的受不了了，明天到祸黑厂的机子就可以出掉了，具体要出的东西看我上一个贴子#OPPOFindX8Ultra# #数码日常# #小米17ProMax#",
           "originalTitle": "",
           "source": "酷安热榜",
           "brand": "Xiaomi",
           "type": "爆料",
           "trust": "高关注爆料源",
-          "date": "2026-08-16",
+          "date": "2026-08-17",
           "time": "",
           "publishedAt": "",
           "url": "https://www.coolapk.com/feed/73265055",
@@ -37,58 +37,6 @@ window.phoneRadarDaily = {
             "电池 / 充电"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "weibo-0edf647328dc",
-          "title": "数码闲聊站：iQOO Neo11至尊版，猜猜定价吧： 6.83\"2K+144Hz LTPS…",
-          "originalTitle": "",
-          "source": "数码闲聊站",
-          "brand": "vivo",
-          "type": "爆料",
-          "trust": "高关注爆料源",
-          "date": "2026-08-15",
-          "time": "03:04",
-          "publishedAt": "2026-08-15T03:04:00.000Z",
-          "url": "https://weibo.com/6048569942/RdtVrp5dQ",
-          "image": "https://tvax2.sinaimg.cn/mw2000/006BlblIgy1ig3y09df6kj30xv1hvh42.jpg",
-          "verdict": "先看",
-          "takeaway": "iQOO Neo11至尊版，猜猜定价吧： 6.83\"2K+144Hz LTPS直屏，维信诺F2发光材料，全屏手动最高1000nit；天玑9500M(11核GPU)，自研Q2电竞芯片，新思S3910V触控，9100mAh电池+100W快充；前置16Mp，后置横排50Mp大底主摄+8Mp超广角；3D超声波指纹，金属中框，IP68/IP69，8.6mm/225g",
-          "detail": "iQOO Neo11至尊版，猜猜定价吧： 6.83\"2K+144Hz LTPS直屏，维信诺F2发光材料，全屏手动最高1000nit；天玑9500M(11核GPU)，自研Q2电竞芯片，新思S3910V触控，9100mAh电池+100W快充；前置16Mp，后置横排50Mp大底主摄+8Mp超广角；3D超声波指纹，金属中框，IP68/IP69，8.6mm/225g",
-          "keyPoints": [
-            "屏幕形态",
-            "电池 / 充电",
-            "芯片 / 性能",
-            "爆料来源"
-          ],
-          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "coolapk-user-66c6f5f1176a",
-          "title": "JSCHEN小小狐：iQOO Neo11 至尊版爆料参数汇总：2K LTPS",
-          "originalTitle": "",
-          "source": "JSCHEN小小狐",
-          "brand": "vivo",
-          "type": "爆料",
-          "trust": "高可信爆料",
-          "date": "2026-08-15",
-          "time": "03:23",
-          "publishedAt": "2026-08-15T03:23:07.000Z",
-          "url": "https://www.coolapk.com/feed/73253301",
-          "image": "http://image.coolapk.com/feed/2026/0815/11/4702274_4a2cc567_4185_5754_200@1440x919.jpg",
-          "verdict": "先看",
-          "takeaway": "『博主汇总 iQOO Neo11 至尊版参数：2K LTPS』 ◇ 6.83 英寸 2K 144Hz LTPS OLED 直屏 ◇ 维信诺 F2 基材，手动最高 1100nits ◇ 天玑 9500M 移动平台（11 核 GPU） ◇ 自研电竞芯片 Q2，新思 S3910V 触控 ◇ 9100mAh 蓝海电池 + 100W 有线快充 ◇ 后置 50Mp 1…",
-          "detail": "『博主汇总 iQOO Neo11 至尊版参数：2K LTPS』 ◇ 6.83 英寸 2K 144Hz LTPS OLED 直屏 ◇ 维信诺 F2 基材，手动最高 1100nits ◇ 天玑 9500M 移动平台（11 核 GPU） ◇ 自研电竞芯片 Q2，新思 S3910V 触控 ◇ 9100mAh 蓝海电池 + 100W 有线快充 ◇ 后置 50Mp 1…",
-          "keyPoints": [
-            "屏幕形态",
-            "电池 / 充电",
-            "芯片 / 性能",
-            "爆料来源"
-          ],
-          "confidence": "可信度较高，但仍属于发布前线索。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
@@ -114,29 +62,6 @@ window.phoneRadarDaily = {
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "auto-e5bbff6a7ed4",
-          "title": "vivo 发布 / 上市相关消息",
-          "originalTitle": "",
-          "source": "Gizmochina",
-          "brand": "vivo",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-08-15",
-          "time": "05:50",
-          "publishedAt": "2026-08-15T05:50:20.000Z",
-          "url": "https://www.gizmochina.com/2026/08/15/iqoo-neo-11-ultra-full-specifications-leak-days-ahead-of-launch/",
-          "image": "https://www.gizmochina.com/wp-content/uploads/2026/08/iQOO-Neo-11-Ultra-color-options-300x212.jpg?x23692",
-          "verdict": "先看",
-          "takeaway": "vivo 有发布或新功能消息，适合确认是否和新机有关。",
-          "detail": "vivo 发布 / 上市相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
-          "keyPoints": [
-            "爆料来源"
-          ],
-          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         }
       ]
     },
@@ -146,6 +71,29 @@ window.phoneRadarDaily = {
       "hint": "不是硬件爆料，但和 iPhone 体验或路线有关。",
       "items": [
         {
+          "id": "auto-712d498bef52",
+          "title": "Mozilla 宣布正为苹果 iOS 版 Firefox 火狐浏览器引入原生广告拦截功能",
+          "originalTitle": "",
+          "source": "IT之家",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-08-16",
+          "time": "23:12",
+          "publishedAt": "2026-08-16T23:12:00.000Z",
+          "url": "https://www.ithome.com/0/990/415.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/8/81260ffb-523d-47ca-94ee-d6ae2e37d237.jpg?x-bce-process=image/format,f_auto",
+          "verdict": "先看",
+          "takeaway": "IT之家 8 月 17 日消息，Mozilla 发文，计划为苹果 iOS 版 Firefox 火狐浏览器加入原生广告拦截功能，允许 iOS 版 Firefox 直接拦截广告，而无需依赖扩展等第三方解决方案。 据 Mozilla 公布的支持文档，该功能使用了基于 EasyList 的过滤规则列表，可以在网络层面屏蔽多种广告内容，包括第三方广告网络、广告追踪器…",
+          "detail": "IT之家 8 月 17 日消息，Mozilla 发文，计划为苹果 iOS 版 Firefox 火狐浏览器加入原生广告拦截功能，允许 iOS 版 Firefox 直接拦截广告，而无需依赖扩展等第三方解决方案。 据 Mozilla 公布的支持文档，该功能使用了基于 EasyList 的过滤规则列表，可以在网络层面屏蔽多种广告内容，包括第三方广告网络、广告追踪器…",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "中文源可以直接点开快读；看完只保留和购机有关的点。"
+        },
+        {
           "id": "auto-9bbf43c61c96",
           "title": "iPhone 系统功能 / AI 体验相关消息",
           "originalTitle": "",
@@ -153,7 +101,7 @@ window.phoneRadarDaily = {
           "brand": "iPhone",
           "type": "官方",
           "trust": "官方确认",
-          "date": "2026-08-16",
+          "date": "2026-08-17",
           "time": "",
           "publishedAt": "",
           "url": "https://www.apple.com/newsroom/2026/06/apple-announces-changes-to-ios-in-brazil/",
@@ -169,14 +117,14 @@ window.phoneRadarDaily = {
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         },
         {
-          "id": "newsnow-6e1356361a0c",
+          "id": "newsnow-471cd41cbbcb",
           "title": "把「闪念胶囊」（Almost）放到 iPhone 锁屏",
           "originalTitle": "",
           "source": "少数派热榜",
           "brand": "iPhone",
           "type": "评测",
           "trust": "媒体汇总",
-          "date": "2026-08-16",
+          "date": "2026-08-17",
           "time": "",
           "publishedAt": "",
           "url": "https://sspai.com/post/113219",
@@ -192,14 +140,14 @@ window.phoneRadarDaily = {
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         },
         {
-          "id": "newsnow-7559c4e9ab2d",
+          "id": "newsnow-b3630a10e1bc",
           "title": "我，与「唯一」的 iPhone Air",
           "originalTitle": "",
           "source": "少数派热榜",
           "brand": "iPhone",
           "type": "评测",
           "trust": "媒体汇总",
-          "date": "2026-08-16",
+          "date": "2026-08-17",
           "time": "",
           "publishedAt": "",
           "url": "https://sspai.com/post/112880",
@@ -213,29 +161,6 @@ window.phoneRadarDaily = {
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是实际体验内容，买前适合重点看缺点和取舍。",
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
-        {
-          "id": "auto-9ca6a41eeb02",
-          "title": "iPhone 影像能力相关消息",
-          "originalTitle": "",
-          "source": "9to5Mac",
-          "brand": "iPhone",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-08-15",
-          "time": "14:00",
-          "publishedAt": "2026-08-15T14:00:00.000Z",
-          "url": "https://9to5mac.com/2026/08/15/these-are-my-favorite-ultra-slim-iphone-accessories-for-2026-video/",
-          "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/edc.jpg?quality=82&strip=all&w=1600",
-          "verdict": "扫一眼",
-          "takeaway": "iPhone 影像能力相关宣传或案例，主要看是否透露拍摄能力变化。",
-          "detail": "iPhone 影像能力相关消息。重点看影像功能是否和新机硬件有关，如果只是拍摄案例或营销内容，参考价值会低一些。",
-          "keyPoints": [
-            "影像硬件"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "影响拍照体验，买旗舰机时值得关注。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         }
       ]
     },
@@ -244,6 +169,29 @@ window.phoneRadarDaily = {
       "title": "新机与官方发布",
       "hint": "能直接更新到参数库。",
       "items": [
+        {
+          "id": "auto-ce7d02c23ffa",
+          "title": "vivo 影像能力相关消息",
+          "originalTitle": "",
+          "source": "Gizmochina",
+          "brand": "vivo",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-08-16",
+          "time": "23:51",
+          "publishedAt": "2026-08-16T23:51:25.000Z",
+          "url": "https://www.gizmochina.com/2026/08/16/iqoo-neo11-ultra-camera-samples-impress-with-social-media-ready-look-and-no-artifacts/",
+          "image": "https://www.gizmochina.com/wp-content/uploads/2026/08/007B27Qzgy1ig2mmxw7nmj32bc334kjm-300x169.png?x23692",
+          "verdict": "可略过",
+          "takeaway": "vivo 影像能力相关宣传或案例，主要看是否透露拍摄能力变化。",
+          "detail": "vivo 影像能力相关消息。重点看影像功能是否和新机硬件有关，如果只是拍摄案例或营销内容，参考价值会低一些。",
+          "keyPoints": [
+            "影像硬件"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "影响拍照体验，买旗舰机时值得关注。",
+          "action": "有具体参数就记录到参数库；没有参数就先收藏。"
+        },
         {
           "id": "auto-f7f578a5f51e",
           "title": "Pixel 相关消息",
@@ -270,79 +218,19 @@ window.phoneRadarDaily = {
       ]
     },
     {
-      "id": "specs",
-      "title": "参数、跑分、认证",
-      "hint": "适合验证芯片、屏幕、影像和电池。",
-      "items": [
-        {
-          "id": "auto-a6fb29772dc6",
-          "title": "Pixel 11 芯片 / 性能相关消息",
-          "originalTitle": "",
-          "source": "Android Authority",
-          "brand": "Pixel",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-08-15",
-          "time": "11:00",
-          "publishedAt": "2026-08-15T11:00:22.000Z",
-          "url": "https://www.androidauthority.com/tensor-g6-deep-dive-3695968/",
-          "image": "",
-          "verdict": "可略过",
-          "takeaway": "Pixel 芯片或连接能力相关线索，可能影响性能和续航判断。",
-          "detail": "Pixel 11 芯片 / 性能相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
-          "keyPoints": [
-            "芯片 / 性能"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "影响性能和寿命判断，适合放进参数库。",
-          "action": "有具体参数就记录到参数库；没有参数就先收藏。"
-        }
-      ]
-    },
-    {
-      "id": "review",
-      "title": "评测与体验",
-      "hint": "买前再细看，平时扫一眼即可。",
-      "items": [
-        {
-          "id": "auto-1574963763c9",
-          "title": "Pixel 11 a 屏幕规格相关消息",
-          "originalTitle": "",
-          "source": "Android Central",
-          "brand": "Pixel",
-          "type": "评测",
-          "trust": "媒体汇总",
-          "date": "2026-08-15",
-          "time": "10:45",
-          "publishedAt": "2026-08-15T10:45:56.000Z",
-          "url": "https://www.androidcentral.com/accessories/cases-screen-protectors/best-google-pixel-11-and-pixel-11-pro-screen-protectors",
-          "image": "https://cdn.mos.cms.futurecdn.net/EmyZt9zsrrCYiqBmqJ4yih-1280-80.jpg",
-          "verdict": "可略过",
-          "takeaway": "Pixel 11 a 屏幕规格相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
-          "detail": "Pixel 11 a 屏幕规格相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
-          "keyPoints": [
-            "屏幕形态"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是实际体验内容，买前适合重点看缺点和取舍。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        }
-      ]
-    },
-    {
       "id": "market",
       "title": "行业趋势",
       "hint": "看方向，不急着当购买依据。",
       "items": [
         {
-          "id": "newsnow-9cf9f38f7b81",
+          "id": "newsnow-4c82e181f0d7",
           "title": "亮哥直播间中了个17标准版 兄弟们留x100还是17啊 #vivoX100# #iPhone17# #数码日常#",
           "originalTitle": "",
           "source": "酷安热榜",
           "brand": "vivo",
           "type": "爆料",
           "trust": "高关注爆料源",
-          "date": "2026-08-16",
+          "date": "2026-08-17",
           "time": "",
           "publishedAt": "",
           "url": "https://www.coolapk.com/feed/73269892",
@@ -381,14 +269,14 @@ window.phoneRadarDaily = {
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         },
         {
-          "id": "newsnow-7a9b14ef6f1a",
+          "id": "newsnow-3927edae4176",
           "title": "老规矩，这四台手机都在手，有问题随便问",
           "originalTitle": "",
           "source": "酷安热榜",
           "brand": "行业",
           "type": "爆料",
           "trust": "高关注爆料源",
-          "date": "2026-08-16",
+          "date": "2026-08-17",
           "time": "",
           "publishedAt": "",
           "url": "https://www.coolapk.com/feed/73265419",
@@ -396,29 +284,6 @@ window.phoneRadarDaily = {
           "verdict": "扫一眼",
           "takeaway": "老规矩，这四台手机都在手，有问题随便问",
           "detail": "老规矩，这四台手机都在手，有问题随便问",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
-        {
-          "id": "newsnow-936f4fe3ec08",
-          "title": "来一张最后的大合照吧，从此脱离黑厂了#数码日常# #OPPOFindX8Ultra# #小米17ProMax#",
-          "originalTitle": "",
-          "source": "酷安热榜",
-          "brand": "Xiaomi",
-          "type": "爆料",
-          "trust": "高关注爆料源",
-          "date": "2026-08-16",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://www.coolapk.com/feed/73281486",
-          "image": "",
-          "verdict": "扫一眼",
-          "takeaway": "来一张最后的大合照吧，从此脱离黑厂了#数码日常# #OPPOFindX8Ultra# #小米17ProMax#",
-          "detail": "来一张最后的大合照吧，从此脱离黑厂了#数码日常# #OPPOFindX8Ultra# #小米17ProMax#",
           "keyPoints": [
             "爆料"
           ],
@@ -450,26 +315,26 @@ window.phoneRadarDaily = {
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         },
         {
-          "id": "coolapk-user-f9bf53f73350",
-          "title": "竹本青：【小米澎程回应全系标配9个碰撞传感器：不追求数量，而是希望覆盖得更全面】 小米澎程全系布置了9个碰撞传感器，分别位…",
+          "id": "auto-60f864d30f81",
+          "title": "Samsung 折叠屏相关消息",
           "originalTitle": "",
-          "source": "竹本青",
-          "brand": "Xiaomi",
+          "source": "Android Police",
+          "brand": "Samsung",
           "type": "爆料",
-          "trust": "高可信爆料",
+          "trust": "媒体汇总",
           "date": "2026-08-16",
-          "time": "01:26",
-          "publishedAt": "2026-08-16T01:26:46.000Z",
-          "url": "https://www.coolapk.com/feed/73268631",
-          "image": "http://image.coolapk.com/feed/2026/0816/09/4248714_23370c47_3604_7446_408@1438x1249.jpg",
-          "verdict": "扫一眼",
-          "takeaway": "【小米澎程回应全系标配9个碰撞传感器：不追求数量，而是希望覆盖得更全面】 小米澎程全系布置了9个碰撞传感器，分别位于前防撞梁、前纵梁、前门、B柱以及C柱位置，覆盖车辆前部到乘员舱侧面的多个关键区域。 这样设计主要考虑的是，现实中的碰撞位置和碰撞方向非常复杂，通过在车身不同位置布置传感器，可以更充分地获取碰撞信息，更准确地识别碰撞发生的位置和方向，为安全气囊…",
-          "detail": "【小米澎程回应全系标配9个碰撞传感器：不追求数量，而是希望覆盖得更全面】 小米澎程全系布置了9个碰撞传感器，分别位于前防撞梁、前纵梁、前门、B柱以及C柱位置，覆盖车辆前部到乘员舱侧面的多个关键区域。 这样设计主要考虑的是，现实中的碰撞位置和碰撞方向非常复杂，通过在车身不同位置布置传感器，可以更充分地获取碰撞信息，更准确地识别碰撞发生的位置和方向，为安全气囊…",
+          "time": "15:00",
+          "publishedAt": "2026-08-16T15:00:16.000Z",
+          "url": "https://www.androidpolice.com/ive-watched-hours-of-tv-shows-on-the-samsung-galaxy-z-fold-8/",
+          "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2026/08/samsung-galaxy-z-fold-8-house-of-dragons.jpg",
+          "verdict": "可略过",
+          "takeaway": "Samsung 影像能力相关宣传或案例，主要看是否透露拍摄能力变化。",
+          "detail": "Samsung 折叠屏相关消息。重点看折痕、铰链、厚度、屏幕可靠性和重量是否有实质改善。",
           "keyPoints": [
-            "爆料"
+            "影像硬件"
           ],
-          "confidence": "可信度较高，但仍属于发布前线索。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "影响拍照体验，买旗舰机时值得关注。",
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         }
       ]
