@@ -1,12 +1,12 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-08-17T04:56:49.888Z",
+  "updatedAt": "2026-08-17T07:15:04.221Z",
   "issueDate": "2026-08-17",
   "issue": "VOL.260817",
   "title": "手机情报日报",
-  "intro": "今日筛出 19 条重点，其中 8 条是重点爆料，包含 5 条 iPhone 相关、1 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 16 条重点，其中 8 条是重点爆料，包含 3 条 iPhone 相关、1 条官方确认、0 条参数线索。",
   "stats": {
-    "total": 19,
-    "iphone": 5,
+    "total": 16,
+    "iphone": 3,
     "leaks": 8,
     "official": 1,
     "specs": 0
@@ -17,6 +17,29 @@ window.phoneRadarDaily = {
       "title": "重点爆料",
       "hint": "机模、配色、影像、屏幕、电池和芯片线索先看。",
       "items": [
+        {
+          "id": "auto-f0d9855f7ccd",
+          "title": "小米 17 Pro 系列手机支付宝背屏亮码全新上线，支持付款、乘车两种高频场景",
+          "originalTitle": "",
+          "source": "IT之家",
+          "brand": "Xiaomi",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-08-17",
+          "time": "06:31",
+          "publishedAt": "2026-08-17T06:31:55.000Z",
+          "url": "https://www.ithome.com/0/990/630.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/8/b48d4e80-0052-4f9f-80a8-c0e8e65874e3.jpg",
+          "verdict": "先看",
+          "takeaway": "IT之家 8 月 17 日消息，小米手机官方今日宣布， 小米 17 Pro 系列手机支付宝背屏亮码全新上线 ，宣称“亮码无需翻应用”。 据介绍，用户双击电源键，可快速唤起支付宝二维码， 支持付款、乘车两种高频场景 。 参考IT之家此前报道，小米 17 Pro 系列手机背屏现还支持 实时天气壁纸，可根据实时天气状态自动切换对应动态背景 ； 隐身模式：背屏一键…",
+          "detail": "IT之家 8 月 17 日消息，小米手机官方今日宣布， 小米 17 Pro 系列手机支付宝背屏亮码全新上线 ，宣称“亮码无需翻应用”。 据介绍，用户双击电源键，可快速唤起支付宝二维码， 支持付款、乘车两种高频场景 。 参考IT之家此前报道，小米 17 Pro 系列手机背屏现还支持 实时天气壁纸，可根据实时天气状态自动切换对应动态背景 ； 隐身模式：背屏一键…",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
         {
           "id": "auto-08e45c905a02",
           "title": "某厂骁龙 8E6 Pro 新旗舰工程机影像曝光，预计为 iQOO 16",
@@ -61,6 +84,31 @@ window.phoneRadarDaily = {
             "电池 / 充电"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "coolapk-user-30f34bd748db",
+          "title": "竹本青：荣耀 Play11T 开售：1199元起",
+          "originalTitle": "",
+          "source": "竹本青",
+          "brand": "HONOR",
+          "type": "爆料",
+          "trust": "高可信爆料",
+          "date": "2026-08-17",
+          "time": "06:46",
+          "publishedAt": "2026-08-17T06:46:23.000Z",
+          "url": "https://www.coolapk.com/feed/73289470",
+          "image": "http://image.coolapk.com/feed/2026/0817/14/4248714_d4821a58_9181_541_124@2160x3840.jpg",
+          "verdict": "先看",
+          "takeaway": "【荣耀 Play11T 今日开售：720P LCD屏+骁龙4 Gen4，售价1199元起】 6GB+128GB —— 1199元 8GB+128GB —— 1299元 6GB+256GB —— 1500元 8GB+256GB —— 1599元 ● 6.61\"120Hz 720P LCD屏 ● 骁龙4 Gen4处理器 ● 7500mAh电池+45W快充 ●…",
+          "detail": "【荣耀 Play11T 今日开售：720P LCD屏+骁龙4 Gen4，售价1199元起】 6GB+128GB —— 1199元 8GB+128GB —— 1299元 6GB+256GB —— 1500元 8GB+256GB —— 1599元 ● 6.61\"120Hz 720P LCD屏 ● 骁龙4 Gen4处理器 ● 7500mAh电池+45W快充 ●…",
+          "keyPoints": [
+            "电池 / 充电",
+            "芯片 / 性能",
+            "成本 / 价格"
+          ],
+          "confidence": "可信度较高，但仍属于发布前线索。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
@@ -159,53 +207,6 @@ window.phoneRadarDaily = {
           "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "auto-580b5bc8c99e",
-          "title": "OPPO 屏幕规格相关消息",
-          "originalTitle": "",
-          "source": "Gizmochina",
-          "brand": "OPPO",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-08-17",
-          "time": "03:48",
-          "publishedAt": "2026-08-17T03:48:45.000Z",
-          "url": "https://www.gizmochina.com/2026/08/17/oneplus-16-major-display-upgrade/",
-          "image": "https://www.gizmochina.com/wp-content/uploads/2025/10/OnePlus-15-display-300x169.jpg?x23692",
-          "verdict": "先看",
-          "takeaway": "OPPO 屏幕规格相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
-          "detail": "OPPO 屏幕规格相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
-          "keyPoints": [
-            "屏幕形态",
-            "爆料来源"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "auto-20804f9792fb",
-          "title": "Xiaomi 相关消息",
-          "originalTitle": "",
-          "source": "Gizmochina",
-          "brand": "Xiaomi",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-08-16",
-          "time": "07:48",
-          "publishedAt": "2026-08-16T07:48:02.000Z",
-          "url": "https://www.gizmochina.com/2026/08/16/xiaomi-scraps-xiaomi-18-ultra-oppo-and-vivo-to-limit-their-ultra-model-to-china-only-leak/",
-          "image": "https://www.gizmochina.com/wp-content/uploads/2026/01/G_rGZSFbkAA2jAs-300x244.jpg?x23692",
-          "verdict": "先看",
-          "takeaway": "Xiaomi 相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
-          "detail": "Xiaomi 相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
-          "keyPoints": [
-            "爆料来源"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         }
       ]
     },
@@ -281,52 +282,6 @@ window.phoneRadarDaily = {
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是实际体验内容，买前适合重点看缺点和取舍。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
-        {
-          "id": "newsnow-7c4153937df0",
-          "title": "iPhoneUltra备货量",
-          "originalTitle": "",
-          "source": "微博热搜",
-          "brand": "iPhone",
-          "type": "爆料",
-          "trust": "待验证",
-          "date": "2026-08-17",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://s.weibo.com/weibo?q=%23iPhoneUltra%E5%A4%87%E8%B4%A7%E9%87%8F%23&t=31&band_rank=9&Refer=top",
-          "image": "",
-          "verdict": "扫一眼",
-          "takeaway": "iPhoneUltra备货量",
-          "detail": "iPhoneUltra备货量",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
-        {
-          "id": "newsnow-a4c0ed96f3a1",
-          "title": "iPhone17或全球涨价",
-          "originalTitle": "",
-          "source": "微博热搜",
-          "brand": "iPhone",
-          "type": "爆料",
-          "trust": "待验证",
-          "date": "2026-08-17",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://s.weibo.com/weibo?q=%23iPhone17%E6%88%96%E5%85%A8%E7%90%83%E6%B6%A8%E4%BB%B7%23&t=31&band_rank=16&Refer=top",
-          "image": "",
-          "verdict": "扫一眼",
-          "takeaway": "iPhone17或全球涨价",
-          "detail": "iPhone17或全球涨价",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "影响购买预算，值得先看。",
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         }
       ]
@@ -440,29 +395,6 @@ window.phoneRadarDaily = {
           ],
           "confidence": "可信度较高，但仍属于发布前线索。",
           "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
-        {
-          "id": "coolapk-user-d9d001cd34ee",
-          "title": "竹本青：iQOO Neo11至尊版预热：新一代Monster超核引擎",
-          "originalTitle": "",
-          "source": "竹本青",
-          "brand": "vivo",
-          "type": "爆料",
-          "trust": "高可信爆料",
-          "date": "2026-08-17",
-          "time": "02:02",
-          "publishedAt": "2026-08-17T02:02:31.000Z",
-          "url": "https://www.coolapk.com/feed/73285453",
-          "image": "http://image.coolapk.com/feed/2026/0817/10/4248714_628d62d2_2150_2111_780@2494x3325.jpg",
-          "verdict": "扫一眼",
-          "takeaway": "【iQOO Neo11 至尊版性能预热：新一代Monster超核引擎】 ● 预判掉帧风险 ● 《开放世界手游》60帧+极高画质，1小时边充边玩全程满帧 #今日热点# #iQOONeo11至尊版#",
-          "detail": "【iQOO Neo11 至尊版性能预热：新一代Monster超核引擎】 ● 预判掉帧风险 ● 《开放世界手游》60帧+极高画质，1小时边充边玩全程满帧 #今日热点# #iQOONeo11至尊版#",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "可信度较高，但仍属于发布前线索。",
-          "impact": "影响性能和寿命判断，适合放进参数库。",
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         },
         {

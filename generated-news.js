@@ -1,6 +1,46 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-08-17T04:56:49.888Z",
+  "updatedAt": "2026-08-17T07:15:04.221Z",
   "news": [
+    {
+      "id": "coolapk-user-30f34bd748db",
+      "title": "竹本青：荣耀 Play11T 开售：1199元起",
+      "source": "竹本青",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-08-17",
+      "time": "06:46",
+      "publishedAt": "2026-08-17T06:46:23.000Z",
+      "url": "https://www.coolapk.com/feed/73289470",
+      "image": "http://image.coolapk.com/feed/2026/0817/14/4248714_d4821a58_9181_541_124@2160x3840.jpg",
+      "summary": "【荣耀 Play11T 今日开售：720P LCD屏+骁龙4 Gen4，售价1199元起】 6GB+128GB —— 1199元 8GB+128GB —— 1299元 6GB+256GB —— 1500元 8GB+256GB —— 1599元 ● 6.61\"120Hz 720P LCD屏 ● 骁龙4 Gen4处理器 ● 7500mAh电池+45W快充 ●…",
+      "tags": [
+        "HONOR",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-f0d9855f7ccd",
+      "title": "小米 17 Pro 系列手机支付宝背屏亮码全新上线，支持付款、乘车两种高频场景",
+      "source": "IT之家",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-17",
+      "time": "06:31",
+      "publishedAt": "2026-08-17T06:31:55.000Z",
+      "url": "https://www.ithome.com/0/990/630.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/8/b48d4e80-0052-4f9f-80a8-c0e8e65874e3.jpg",
+      "summary": "IT之家 8 月 17 日消息，小米手机官方今日宣布， 小米 17 Pro 系列手机支付宝背屏亮码全新上线 ，宣称“亮码无需翻应用”。 据介绍，用户双击电源键，可快速唤起支付宝二维码， 支持付款、乘车两种高频场景 。 参考IT之家此前报道，小米 17 Pro 系列手机背屏现还支持 实时天气壁纸，可根据实时天气状态自动切换对应动态背景 ； 隐身模式：背屏一键…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-f7ba231f0ffd",
       "title": "Google Pixel 12 Pro Fold: Everything we know so far and want to see",
@@ -182,26 +222,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "coolapk-user-d9d001cd34ee",
-      "title": "竹本青：iQOO Neo11至尊版预热：新一代Monster超核引擎",
-      "source": "竹本青",
-      "brand": "vivo",
-      "model": "vivo 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-08-17",
-      "time": "02:02",
-      "publishedAt": "2026-08-17T02:02:31.000Z",
-      "url": "https://www.coolapk.com/feed/73285453",
-      "image": "http://image.coolapk.com/feed/2026/0817/10/4248714_628d62d2_2150_2111_780@2494x3325.jpg",
-      "summary": "【iQOO Neo11 至尊版性能预热：新一代Monster超核引擎】 ● 预判掉帧风险 ● 《开放世界手游》60帧+极高画质，1小时边充边玩全程满帧 #今日热点# #iQOONeo11至尊版#",
-      "tags": [
-        "vivo",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
       "id": "auto-9bbf43c61c96",
       "title": "Apple announces changes to iOS in Brazil",
       "source": "Apple Newsroom",
@@ -302,7 +322,27 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-b0b5889fd2f0",
+      "id": "newsnow-a1c12f6fe895",
+      "title": "9块9的手机壳还敢买吗",
+      "source": "微博热搜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "待验证",
+      "date": "2026-08-17",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://s.weibo.com/weibo?q=%239%E5%9D%979%E7%9A%84%E6%89%8B%E6%9C%BA%E5%A3%B3%E8%BF%98%E6%95%A2%E4%B9%B0%E5%90%97%23&t=31&band_rank=1&Refer=top",
+      "image": "",
+      "summary": "9块9的手机壳还敢买吗",
+      "tags": [
+        "行业",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-fb945db9ec19",
       "title": "建议这类手机壳赶紧扔掉",
       "source": "微博热搜",
       "brand": "行业",
@@ -312,7 +352,7 @@ window.phoneRadarAuto = {
       "date": "2026-08-17",
       "time": "",
       "publishedAt": "",
-      "url": "https://s.weibo.com/weibo?q=%23%E5%BB%BA%E8%AE%AE%E8%BF%99%E7%B1%BB%E6%89%8B%E6%9C%BA%E5%A3%B3%E8%B5%B6%E7%B4%A7%E6%89%94%E6%8E%89%23&t=31&band_rank=4&Refer=top",
+      "url": "https://s.weibo.com/weibo?q=%23%E5%BB%BA%E8%AE%AE%E8%BF%99%E7%B1%BB%E6%89%8B%E6%9C%BA%E5%A3%B3%E8%B5%B6%E7%B4%A7%E6%89%94%E6%8E%89%23&t=31&band_rank=9&Refer=top",
       "image": "",
       "summary": "建议这类手机壳赶紧扔掉",
       "tags": [
@@ -322,59 +362,19 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-7c4153937df0",
-      "title": "iPhoneUltra备货量",
+      "id": "newsnow-e362a84ccf44",
+      "title": "刘冲手机里的王一博",
       "source": "微博热搜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "待验证",
-      "date": "2026-08-17",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://s.weibo.com/weibo?q=%23iPhoneUltra%E5%A4%87%E8%B4%A7%E9%87%8F%23&t=31&band_rank=9&Refer=top",
-      "image": "",
-      "summary": "iPhoneUltra备货量",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-a4c0ed96f3a1",
-      "title": "iPhone17或全球涨价",
-      "source": "微博热搜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "待验证",
-      "date": "2026-08-17",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://s.weibo.com/weibo?q=%23iPhone17%E6%88%96%E5%85%A8%E7%90%83%E6%B6%A8%E4%BB%B7%23&t=31&band_rank=16&Refer=top",
-      "image": "",
-      "summary": "iPhone17或全球涨价",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-e9cdca03ff7c",
-      "title": "为什么侧躺看手机更伤眼",
-      "source": "今日头条热榜",
       "brand": "行业",
       "model": "智能手机市场",
       "type": "爆料",
-      "trust": "媒体汇总",
+      "trust": "待验证",
       "date": "2026-08-17",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.toutiao.com/trending/7674449334646128678/",
+      "url": "https://s.weibo.com/weibo?q=%23%E5%88%98%E5%86%B2%E6%89%8B%E6%9C%BA%E9%87%8C%E7%9A%84%E7%8E%8B%E4%B8%80%E5%8D%9A%23&t=31&band_rank=28&Refer=top",
       "image": "",
-      "summary": "为什么侧躺看手机更伤眼",
+      "summary": "刘冲手机里的王一博",
       "tags": [
         "行业",
         "爆料",
