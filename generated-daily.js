@@ -1,13 +1,13 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-08-17T01:53:54.911Z",
+  "updatedAt": "2026-08-17T03:12:04.329Z",
   "issueDate": "2026-08-17",
   "issue": "VOL.260817",
   "title": "手机情报日报",
-  "intro": "今日筛出 13 条重点，其中 2 条是重点爆料，包含 4 条 iPhone 相关、1 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 12 条重点，其中 4 条是重点爆料，包含 3 条 iPhone 相关、1 条官方确认、0 条参数线索。",
   "stats": {
-    "total": 13,
-    "iphone": 4,
-    "leaks": 2,
+    "total": 12,
+    "iphone": 3,
+    "leaks": 4,
     "official": 1,
     "specs": 0
   },
@@ -41,6 +41,52 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
+          "id": "coolapk-user-43b3ee685179",
+          "title": "竹本青：【ColorOS16 八月体验升级：桌面角标快速清理、锁屏岛支持酷狗概念版】 ● 双指外扩清空桌面全部应用角标 ●…",
+          "originalTitle": "",
+          "source": "竹本青",
+          "brand": "OPPO",
+          "type": "爆料",
+          "trust": "高可信爆料",
+          "date": "2026-08-17",
+          "time": "03:07",
+          "publishedAt": "2026-08-17T03:07:12.000Z",
+          "url": "https://www.coolapk.com/feed/73286421",
+          "image": "http://image.coolapk.com/feed/2026/0817/11/4248714_711ffe15_6030_9997_624@720x11930.jpg",
+          "verdict": "先看",
+          "takeaway": "【ColorOS16 八月体验升级：桌面角标快速清理、锁屏岛支持酷狗概念版】 ● 双指外扩清空桌面全部应用角标 ● 锁屏岛全屏音乐歌词新增支持酷狗概念版 ● 交通优行卡覆盖全国 330+ 城市公交地铁 ● 智能到站提醒新增广州、深圳等城市 …………完整更新内容及适配机型见图1 #ColorOS16# #ColorOS17# #今日热点#",
+          "detail": "【ColorOS16 八月体验升级：桌面角标快速清理、锁屏岛支持酷狗概念版】 ● 双指外扩清空桌面全部应用角标 ● 锁屏岛全屏音乐歌词新增支持酷狗概念版 ● 交通优行卡覆盖全国 330+ 城市公交地铁 ● 智能到站提醒新增广州、深圳等城市 …………完整更新内容及适配机型见图1 #ColorOS16# #ColorOS17# #今日热点#",
+          "keyPoints": [
+            "外观 / 配色 / 尺寸"
+          ],
+          "confidence": "可信度较高，但仍属于发布前线索。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "coolapk-user-620e0ccbd36b",
+          "title": "竹本青：小米米家智能鱼缸 2 Pro 开启预约：众筹价599元",
+          "originalTitle": "",
+          "source": "竹本青",
+          "brand": "Xiaomi",
+          "type": "爆料",
+          "trust": "高可信爆料",
+          "date": "2026-08-17",
+          "time": "02:20",
+          "publishedAt": "2026-08-17T02:20:51.000Z",
+          "url": "https://www.coolapk.com/feed/73285735",
+          "image": "http://image.coolapk.com/feed/2026/0817/10/4248714_886ec277_3991_3769_485@1272x1696.jpg",
+          "verdict": "先看",
+          "takeaway": "【小米 米家智能鱼缸 2 Pro 开启预约：31L宽体智能生态缸，众筹价599元】 外观： ▫️1.47\" LCD彩屏显示水温、设备状态等 ▫️31L 50cm加宽缸体，比例16:9 ▫️高精度浮法成型工艺超白玻璃 ▫️24颗RRGB灯珠，增强660nm红光 过滤： ▫️多重定向精滤，定制循环水路 ▫️过滤盒采用分层隔离结构 ▫️双生化滤芯（易拆易洗，可更…",
+          "detail": "【小米 米家智能鱼缸 2 Pro 开启预约：31L宽体智能生态缸，众筹价599元】 外观： ▫️1.47\" LCD彩屏显示水温、设备状态等 ▫️31L 50cm加宽缸体，比例16:9 ▫️高精度浮法成型工艺超白玻璃 ▫️24颗RRGB灯珠，增强660nm红光 过滤： ▫️多重定向精滤，定制循环水路 ▫️过滤盒采用分层隔离结构 ▫️双生化滤芯（易拆易洗，可更…",
+          "keyPoints": [
+            "外观 / 配色 / 尺寸"
+          ],
+          "confidence": "可信度较高，但仍属于发布前线索。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
           "id": "auto-20804f9792fb",
           "title": "Xiaomi 相关消息",
           "originalTitle": "",
@@ -70,29 +116,6 @@ window.phoneRadarDaily = {
       "title": "iPhone 重点",
       "hint": "不是硬件爆料，但和 iPhone 体验或路线有关。",
       "items": [
-        {
-          "id": "auto-712d498bef52",
-          "title": "Mozilla 宣布正为苹果 iOS 版 Firefox 火狐浏览器引入原生广告拦截功能",
-          "originalTitle": "",
-          "source": "IT之家",
-          "brand": "iPhone",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-08-16",
-          "time": "23:12",
-          "publishedAt": "2026-08-16T23:12:00.000Z",
-          "url": "https://www.ithome.com/0/990/415.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/8/81260ffb-523d-47ca-94ee-d6ae2e37d237.jpg?x-bce-process=image/format,f_auto",
-          "verdict": "先看",
-          "takeaway": "IT之家 8 月 17 日消息，Mozilla 发文，计划为苹果 iOS 版 Firefox 火狐浏览器加入原生广告拦截功能，允许 iOS 版 Firefox 直接拦截广告，而无需依赖扩展等第三方解决方案。 据 Mozilla 公布的支持文档，该功能使用了基于 EasyList 的过滤规则列表，可以在网络层面屏蔽多种广告内容，包括第三方广告网络、广告追踪器…",
-          "detail": "IT之家 8 月 17 日消息，Mozilla 发文，计划为苹果 iOS 版 Firefox 火狐浏览器加入原生广告拦截功能，允许 iOS 版 Firefox 直接拦截广告，而无需依赖扩展等第三方解决方案。 据 Mozilla 公布的支持文档，该功能使用了基于 EasyList 的过滤规则列表，可以在网络层面屏蔽多种广告内容，包括第三方广告网络、广告追踪器…",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "中文源可以直接点开快读；看完只保留和购机有关的点。"
-        },
         {
           "id": "auto-9bbf43c61c96",
           "title": "iPhone 系统功能 / AI 体验相关消息",
@@ -246,72 +269,26 @@ window.phoneRadarDaily = {
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         },
         {
-          "id": "coolapk-user-0ad398e8a43a",
-          "title": "竹本青：【REDMI K100 Pro系列 首销日销量曝光：约为上代的65%】 8月16日，博主「RD观测」分享第三方统计…",
+          "id": "coolapk-user-d9d001cd34ee",
+          "title": "竹本青：iQOO Neo11至尊版预热：新一代Monster超核引擎",
           "originalTitle": "",
           "source": "竹本青",
-          "brand": "Xiaomi",
+          "brand": "vivo",
           "type": "爆料",
           "trust": "高可信爆料",
-          "date": "2026-08-16",
-          "time": "10:06",
-          "publishedAt": "2026-08-16T10:06:19.000Z",
-          "url": "https://www.coolapk.com/feed/73276158",
-          "image": "http://image.coolapk.com/feed/2026/0816/18/4248714_4f8063e9_4806_7984_859@1440x879.jpg",
-          "verdict": "扫一眼",
-          "takeaway": "【REDMI K100 Pro系列 首销日销量曝光：约为上代的65%】 8月16日，博主「RD观测」分享第三方统计的REDMI K100 Pro系列首销情况。以首销日（首销当晚+次日）为标准，新机市场表现如下： K100 Pro系列 —— 约为K90/Pro Max的65% K100 Pro —— 约为K90的50% K100 Pro Max —— 约为K…",
-          "detail": "【REDMI K100 Pro系列 首销日销量曝光：约为上代的65%】 8月16日，博主「RD观测」分享第三方统计的REDMI K100 Pro系列首销情况。以首销日（首销当晚+次日）为标准，新机市场表现如下： K100 Pro系列 —— 约为K90/Pro Max的65% K100 Pro —— 约为K90的50% K100 Pro Max —— 约为K…",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "可信度较高，但仍属于发布前线索。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
-        {
-          "id": "newsnow-3927edae4176",
-          "title": "老规矩，这四台手机都在手，有问题随便问",
-          "originalTitle": "",
-          "source": "酷安热榜",
-          "brand": "行业",
-          "type": "爆料",
-          "trust": "高关注爆料源",
           "date": "2026-08-17",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://www.coolapk.com/feed/73265419",
-          "image": "",
+          "time": "02:02",
+          "publishedAt": "2026-08-17T02:02:31.000Z",
+          "url": "https://www.coolapk.com/feed/73285453",
+          "image": "http://image.coolapk.com/feed/2026/0817/10/4248714_628d62d2_2150_2111_780@2494x3325.jpg",
           "verdict": "扫一眼",
-          "takeaway": "老规矩，这四台手机都在手，有问题随便问",
-          "detail": "老规矩，这四台手机都在手，有问题随便问",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
-        {
-          "id": "coolapk-user-514e8f21b4b7",
-          "title": "竹本青：这集神了 #HyperOS3# #HyperOS4#",
-          "originalTitle": "",
-          "source": "竹本青",
-          "brand": "Xiaomi",
-          "type": "爆料",
-          "trust": "高可信爆料",
-          "date": "2026-08-16",
-          "time": "10:15",
-          "publishedAt": "2026-08-16T10:15:34.000Z",
-          "url": "https://www.coolapk.com/feed/73276314",
-          "image": "",
-          "verdict": "扫一眼",
-          "takeaway": "这集神了 #HyperOS3# #HyperOS4#",
-          "detail": "这集神了 #HyperOS3# #HyperOS4#",
+          "takeaway": "【iQOO Neo11 至尊版性能预热：新一代Monster超核引擎】 ● 预判掉帧风险 ● 《开放世界手游》60帧+极高画质，1小时边充边玩全程满帧 #今日热点# #iQOONeo11至尊版#",
+          "detail": "【iQOO Neo11 至尊版性能预热：新一代Monster超核引擎】 ● 预判掉帧风险 ● 《开放世界手游》60帧+极高画质，1小时边充边玩全程满帧 #今日热点# #iQOONeo11至尊版#",
           "keyPoints": [
             "爆料"
           ],
           "confidence": "可信度较高，但仍属于发布前线索。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "impact": "影响性能和寿命判断，适合放进参数库。",
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         },
         {
