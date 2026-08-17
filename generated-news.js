@@ -1,9 +1,269 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-08-17T08:59:39.615Z",
+  "updatedAt": "2026-08-17T10:47:30.428Z",
   "news": [
     {
+      "id": "auto-ed56831b0be5",
+      "title": "Google Pixel 11 Pro Fold vs Samsung Galaxy Z Fold8: Specs, Camera and Price Compared",
+      "source": "Gizmochina",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-17",
+      "time": "10:46",
+      "publishedAt": "2026-08-17T10:46:49.000Z",
+      "url": "https://www.gizmochina.com/2026/08/17/google-pixel-11-pro-fold-vs-samsung-galaxy-z-fold8/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/08/image-66-300x189.png?x23692",
+      "summary": "Foldables are evolving beyond bigger screens, and the Google Pixel 11 Pro Fold and Samsung Galaxy Z Fold8 show two very different ways to build a flagship. The Pixel focuses on di…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-28b848b80af6",
+      "title": "Galaxy Z Fold 8 is so popular that Samsung is making an additional wide model",
+      "source": "SamMobile",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-17",
+      "time": "10:41",
+      "publishedAt": "2026-08-17T10:41:38.000Z",
+      "url": "https://www.sammobile.com/news/galaxy-z-fold-8-popular-samsung-launching-additional-wide-model/",
+      "image": "",
+      "summary": "It appears the Galaxy Z Fold 8 is selling even better than Samsung expected, forcing the South Korean firm to increase production by an additional one million units. Now, a new re…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-28e5bfd7045f",
+      "title": "5 Android phones you should buy instead of the Google Pixel 11",
+      "source": "Android Authority",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-17",
+      "time": "10:30",
+      "publishedAt": "2026-08-17T10:30:58.000Z",
+      "url": "https://www.androidauthority.com/google-pixel-11-alternatives-3697717/",
+      "image": "",
+      "summary": "The Pixel 11 is tempting, but these alternatives might still be better.",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-c2b090d28bd2",
+      "title": "Galaxy S26 FE hands-on video shows redesigned camera island, confirms key specs",
+      "source": "Gizmochina",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-17",
+      "time": "10:23",
+      "publishedAt": "2026-08-17T10:23:49.000Z",
+      "url": "https://www.gizmochina.com/2026/08/17/galaxy-s26-fe-hands-on-video-shows-redesigned-camera-island-confirms-key-specs/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/08/galaxy-s26-fe-hands-on-design-300x169.jpg?x23692",
+      "summary": "Samsung’s next Fan Edition phone is already showing up in the wild. A real-life hands-on video has given us the clearest look yet at the unreleased Galaxy S26 FE, showing off its…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-a578db645325",
+      "title": "曝苹果 iPhone 17 系列国内销量突破 4000 万台",
+      "source": "IT之家",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-17",
+      "time": "10:20",
+      "publishedAt": "2026-08-17T10:20:07.000Z",
+      "url": "https://www.ithome.com/0/990/774.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/8/8afbed2a-837f-4be9-960f-0460ac6141e1.png?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 8 月 17 日消息，长期关注国内手机市场份额的数码博主 @RD观测 今日发文，曝光了苹果 iPhone 17 系列的国内市场最新销量情况。 截至 2026 W32（8.3-8.9）旗舰 SO-苹果 iPhone 17 系列约 4004.58 万 iPhone 17 系列机型于去年 9 月 10 日发布、9 月 19 日开售 ，其中 iPhone…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-6b67ce9895cb",
+      "title": "Redmi Note 17 series global launch date announced",
+      "source": "Gizmochina",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-17",
+      "time": "10:08",
+      "publishedAt": "2026-08-17T10:08:42.000Z",
+      "url": "https://www.gizmochina.com/2026/08/17/redmi-note-17-series-global-launch-date-announced/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/08/Redmi-Note-17-series-battery-300x200.jpg?x23692",
+      "summary": "Xiaomi is bringing the Redmi Note 17 series to Malaysia on August 18, 2026. For the first time, the lineup will also include a new top-end model, the Redmi Note 17 Pro Max. It wil…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-ee996311883e",
+      "title": "小米首款万级电池手机！REDMI Note 17 Pro Max 5G 海外官宣",
+      "source": "IT之家",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-17",
+      "time": "10:07",
+      "publishedAt": "2026-08-17T10:07:05.000Z",
+      "url": "https://www.ithome.com/0/990/769.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/8/8dbf882f-9279-4dfd-8c12-7ee7d608bd70.jpg?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 8 月 17 日消息，小米日本官方账号在社交媒体上宣布， REDMI Note 17 Pro Max 5G 将于 8 月 27 日正式发布，届时会公布价格、配置等详细信息。 据介绍， REDMI Note 17 Pro Max 5G 将成为小米首款拥有万级电池容量的手机 ，并定于 8 月 28 日正式发售。 参考IT之家此前报道，一款型号为 26…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-0616108e6123",
+      "title": "竹本青：荣耀MagicOS 11开启内测log版本推送，共覆盖15款手机",
+      "source": "竹本青",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-08-17",
+      "time": "09:43",
+      "publishedAt": "2026-08-17T09:43:58.000Z",
+      "url": "https://www.coolapk.com/feed/73292507",
+      "image": "http://image.coolapk.com/feed/2026/0817/17/4248714_0f75f0f4_9837_1745_96@1440x1920.jpg",
+      "summary": "【荣耀MagicOS 11 开启内测log版本推送，共覆盖15款手机】 ▫️荣耀Magic V6／V5 ▫️荣耀Magic 8系列 ▫️荣耀Magic 7系列 ▫️荣耀600 Pro系列 ▫️荣耀WIN／WIN RT ▫️荣耀GT Pro log版本 —— 现已提前开启推送 nolog版本 —— 计划明天20:00推送 #今日热点# #MagicOS11#…",
+      "tags": [
+        "HONOR",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-7425c03ed114",
+      "title": "能换电池的国产手机：CUBOT KINGKONG Dura 官宣，支持 IP68 防尘防水",
+      "source": "IT之家",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-17",
+      "time": "09:41",
+      "publishedAt": "2026-08-17T09:41:29.000Z",
+      "url": "https://www.ithome.com/0/990/729.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/8/1b614f2c-a88e-4d96-a2c5-246069644c9f.jpg",
+      "summary": "IT之家 8 月 17 日消息，国产手机品牌 CUBOT 在海外预告了一款 KINGKONG Dura 手机，这是一款三防智能手机， 采用了复古的可换电池设计 。 KINGKONG Dura 将推出 双电池套装 和专用电池充电底座，从而实现“一块电池工作，另一块电池充电”的日常使用模式，方便实时工作、旅行或进行户外活动。 IT之家从官方介绍获悉，KINGK…",
+      "tags": [
+        "行业",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-6544f2118660",
+      "title": "The Pixel 11 Pro fixes my biggest complaint about older Pixel flagships",
+      "source": "Android Authority",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-17",
+      "time": "09:30",
+      "publishedAt": "2026-08-17T09:30:49.000Z",
+      "url": "https://www.androidauthority.com/google-pixel-11-pro-colors-much-better-3698503/",
+      "image": "",
+      "summary": "Those Canyon and Olive colorways look fantastic.",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-246db50ef55b",
+      "title": "Why the iPhone Ultra might not drastically affect Galaxy Z Fold 8 sales at launch",
+      "source": "SamMobile",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-17",
+      "time": "09:06",
+      "publishedAt": "2026-08-17T09:06:41.000Z",
+      "url": "https://www.sammobile.com/news/iphone-ultra-launch-wont-drastically-affect-galaxy-z-fold-8-sales/",
+      "image": "https://www.sammobile.com/wp-content/uploads/2026/08/Apple-iPhone-Ultra-Fan-Render.jpg",
+      "summary": "Apple is expected to unveil its first foldable iPhone later this year, seven years after Samsung unveiled the original Galaxy Fold. This upcoming iPhone is widely being called the…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-4fdc8c636d4b",
+      "title": "竹本青：电信终端产业协会倡议：手机整机与配件分离销售",
+      "source": "竹本青",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-08-17",
+      "time": "09:05",
+      "publishedAt": "2026-08-17T09:05:49.000Z",
+      "url": "https://www.coolapk.com/feed/73291743",
+      "image": "http://image.coolapk.com/feed/2026/0817/17/4248714_134f2866_7934_5051_424@1271x1415.jpg",
+      "summary": "【电信终端产业协会倡议：手机整机与配件分离销售，快充协议等领域协同统一】 8月17日，电信终端产业协会发布“关于推动移动终端产业绿色化发展 推行整机、配件分离销售模式的倡议书”： 为推动电子信息制造业绿色升级，强化终端设备全生命周期绿色管控，遏制低水平同质化重复生产，构建绿色低碳供应链，压减产业链冗余产能，提升产业链供应链现代化水平，面向行业发出如下倡议：…",
+      "tags": [
+        "行业",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-19bf8a1ec312",
+      "title": "华为鸿蒙 HarmonyOS 7.0.0.102 SP8 版本开推，新增 3D 空间壁纸等功能",
+      "source": "IT之家",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-17",
+      "time": "09:05",
+      "publishedAt": "2026-08-17T09:05:42.000Z",
+      "url": "https://www.ithome.com/0/990/719.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/6/4ff9931c-1f17-45ba-86cb-8105f9a70290.jpg?x-bce-process=image/format,f_auto/auto-orient,o_1",
+      "summary": "IT之家 8 月 17 日消息，华为今日开启了鸿蒙 HarmonyOS 7.0.0.102 SP8 版本推送，首批面向 Mate 80、Mate 70 等系列机型，系统包大小约 6.79 GB。据介绍，新版本带来了 3D 空间壁纸、亲密圈、户外探索模式等功能。 ▲ IT之家开箱：华为 nova 16 Pro 手机美图 IT之家附华为鸿蒙 HarmonyOS…",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
       "id": "coolapk-user-77277868e213",
-      "title": "竹本青：【消息称 iPhone 17系列 中国区销量已突破4000万台】 8月17日，博主「RD观测」发布第三方统计数据：…",
+      "title": "竹本青：消息称 iPhone 17系列中国区销量已突破4000万台",
       "source": "竹本青",
       "brand": "iPhone",
       "model": "iPhone 相关机型",
@@ -57,46 +317,6 @@ window.phoneRadarAuto = {
       "summary": "IT之家 8 月 17 日消息，据央视新闻今天报道，韩国多地教育部门近日出台措施，拟进一步强化中小学校园内学生智能手机使用管控，旨在提升学生课堂专注力、遏制网络霸凌。 IT之家从原报道了解到，韩国修订版《初等及中等教育法》于今年 3 月生效，明确禁止学生在课堂使用智能手机，但未明确校方该如何保管手机，也没有对课堂以外使用智能手机等情形作出规定。数月来，越来…",
       "tags": [
         "行业",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "coolapk-user-30f34bd748db",
-      "title": "竹本青：荣耀 Play11T 开售：1199元起",
-      "source": "竹本青",
-      "brand": "HONOR",
-      "model": "HONOR 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-08-17",
-      "time": "06:46",
-      "publishedAt": "2026-08-17T06:46:23.000Z",
-      "url": "https://www.coolapk.com/feed/73289470",
-      "image": "http://image.coolapk.com/feed/2026/0817/14/4248714_d4821a58_9181_541_124@2160x3840.jpg",
-      "summary": "【荣耀 Play11T 今日开售：720P LCD屏+骁龙4 Gen4，售价1199元起】 6GB+128GB —— 1199元 8GB+128GB —— 1299元 6GB+256GB —— 1500元 8GB+256GB —— 1599元 ● 6.61\"120Hz 720P LCD屏 ● 骁龙4 Gen4处理器 ● 7500mAh电池+45W快充 ●…",
-      "tags": [
-        "HONOR",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
-      "id": "auto-f0d9855f7ccd",
-      "title": "小米 17 Pro 系列手机支付宝背屏亮码全新上线，支持付款、乘车两种高频场景",
-      "source": "IT之家",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-17",
-      "time": "06:31",
-      "publishedAt": "2026-08-17T06:31:55.000Z",
-      "url": "https://www.ithome.com/0/990/630.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/8/b48d4e80-0052-4f9f-80a8-c0e8e65874e3.jpg",
-      "summary": "IT之家 8 月 17 日消息，小米手机官方今日宣布， 小米 17 Pro 系列手机支付宝背屏亮码全新上线 ，宣称“亮码无需翻应用”。 据介绍，用户双击电源键，可快速唤起支付宝二维码， 支持付款、乘车两种高频场景 。 参考IT之家此前报道，小米 17 Pro 系列手机背屏现还支持 实时天气壁纸，可根据实时天气状态自动切换对应动态背景 ； 隐身模式：背屏一键…",
-      "tags": [
-        "Xiaomi",
         "爆料",
         "自动抓取"
       ]
@@ -157,46 +377,6 @@ window.phoneRadarAuto = {
       "summary": "The rumor mill has been consistently leaking details about the OnePlus 16, and the latest one points to a major display upgrade. The upcoming flagship is reportedly being develope…",
       "tags": [
         "OPPO",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-160451687a99",
-      "title": "Discord 调高免费用户单文件上传容量限制：10MB → 20MB",
-      "source": "IT之家",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-17",
-      "time": "03:46",
-      "publishedAt": "2026-08-17T03:46:35.000Z",
-      "url": "https://www.ithome.com/0/990/578.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/8/851d6334-e561-449c-be93-706a54e000c4.jpg?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 8 月 17 日消息，Discord 宣布即日起将免费账号的单文件上传容量限制从 10MB 提高至 20MB。未订阅 Nitro 会员的用户现在可以在聊天中分享更大的图片、视频和文档等文件。 不过，Discord 此次也同步调整了手机端的文件大小判定方式，改为在文件压缩之前检查原始文件大小， 这意味着虽然官方将容量上限提高了一倍，但部分用户实际能…",
-      "tags": [
-        "行业",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-08e45c905a02",
-      "title": "某厂骁龙 8E6 Pro 新旗舰工程机影像曝光，预计为 iQOO 16",
-      "source": "IT之家",
-      "brand": "vivo",
-      "model": "vivo 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-17",
-      "time": "03:37",
-      "publishedAt": "2026-08-17T03:37:03.000Z",
-      "url": "https://www.ithome.com/0/990/569.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/8/f35397ab-faeb-4ec3-bf8f-b3cbb0229697.png?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 8 月 17 日消息，博主 @数码闲聊站 今日爆料，某厂子系骁龙 8E6 Pro 新旗舰，工程机 50Mp 1/1.3\" F1.68 超大底主摄 +50Mp F2.0 小底超广角 +50Mp 1/1.95\" F2.65 中底潜望镜，镜组看起来有点像倒置方案，长焦微距待定。 今年 7 月，该博主爆料某厂子系骁龙 8 Elite Gen 6 Pro…",
-      "tags": [
-        "vivo",
         "爆料",
         "自动抓取"
       ]
@@ -342,7 +522,27 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-898436eb5223",
+      "id": "newsnow-b72c90580c9a",
+      "title": "手机壳 国标",
+      "source": "微博热搜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "待验证",
+      "date": "2026-08-17",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://s.weibo.com/weibo?q=%E6%89%8B%E6%9C%BA%E5%A3%B3%20%E5%9B%BD%E6%A0%87&t=31&band_rank=18&Refer=top",
+      "image": "",
+      "summary": "手机壳 国标",
+      "tags": [
+        "行业",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-bfa5433cbc77",
       "title": "9块9的手机壳还敢买吗",
       "source": "微博热搜",
       "brand": "行业",
@@ -352,7 +552,7 @@ window.phoneRadarAuto = {
       "date": "2026-08-17",
       "time": "",
       "publishedAt": "",
-      "url": "https://s.weibo.com/weibo?q=%239%E5%9D%979%E7%9A%84%E6%89%8B%E6%9C%BA%E5%A3%B3%E8%BF%98%E6%95%A2%E4%B9%B0%E5%90%97%23&t=31&band_rank=12&Refer=top",
+      "url": "https://s.weibo.com/weibo?q=%239%E5%9D%979%E7%9A%84%E6%89%8B%E6%9C%BA%E5%A3%B3%E8%BF%98%E6%95%A2%E4%B9%B0%E5%90%97%23&t=31&band_rank=19&Refer=top",
       "image": "",
       "summary": "9块9的手机壳还敢买吗",
       "tags": [
@@ -362,7 +562,7 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-e64d66dabcf9",
+      "id": "newsnow-c8320fa0b141",
       "title": "建议这类手机壳赶紧扔掉",
       "source": "微博热搜",
       "brand": "行业",
@@ -372,7 +572,7 @@ window.phoneRadarAuto = {
       "date": "2026-08-17",
       "time": "",
       "publishedAt": "",
-      "url": "https://s.weibo.com/weibo?q=%23%E5%BB%BA%E8%AE%AE%E8%BF%99%E7%B1%BB%E6%89%8B%E6%9C%BA%E5%A3%B3%E8%B5%B6%E7%B4%A7%E6%89%94%E6%8E%89%23&t=31&band_rank=16&Refer=top",
+      "url": "https://s.weibo.com/weibo?q=%23%E5%BB%BA%E8%AE%AE%E8%BF%99%E7%B1%BB%E6%89%8B%E6%9C%BA%E5%A3%B3%E8%B5%B6%E7%B4%A7%E6%89%94%E6%8E%89%23&t=31&band_rank=28&Refer=top",
       "image": "",
       "summary": "建议这类手机壳赶紧扔掉",
       "tags": [
@@ -382,7 +582,7 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-755fc33d8b03",
+      "id": "newsnow-33d2ad5bed84",
       "title": "手机壳 性早熟",
       "source": "微博热搜",
       "brand": "行业",
@@ -392,7 +592,7 @@ window.phoneRadarAuto = {
       "date": "2026-08-17",
       "time": "",
       "publishedAt": "",
-      "url": "https://s.weibo.com/weibo?q=%E6%89%8B%E6%9C%BA%E5%A3%B3%20%E6%80%A7%E6%97%A9%E7%86%9F&t=31&band_rank=25&Refer=top",
+      "url": "https://s.weibo.com/weibo?q=%E6%89%8B%E6%9C%BA%E5%A3%B3%20%E6%80%A7%E6%97%A9%E7%86%9F&t=31&band_rank=29&Refer=top",
       "image": "",
       "summary": "手机壳 性早熟",
       "tags": [
