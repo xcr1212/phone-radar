@@ -1,6 +1,66 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-08-17T07:15:04.221Z",
+  "updatedAt": "2026-08-17T08:59:39.615Z",
   "news": [
+    {
+      "id": "coolapk-user-77277868e213",
+      "title": "竹本青：【消息称 iPhone 17系列 中国区销量已突破4000万台】 8月17日，博主「RD观测」发布第三方统计数据：…",
+      "source": "竹本青",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-08-17",
+      "time": "08:50",
+      "publishedAt": "2026-08-17T08:50:29.000Z",
+      "url": "https://www.coolapk.com/feed/73291456",
+      "image": "http://image.coolapk.com/feed/2026/0817/16/4248714_371ec6f9_6908_2602_479@2160x1782.jpg",
+      "summary": "【消息称 iPhone 17系列 中国区销量已突破4000万台】 8月17日，博主「RD观测」发布第三方统计数据：截至2026年第32周，iPhone 17系列手机在中国市场累计销量约4004.58万台，周环比新增约50.33万台。 前几周数据如下： 截至 W31 —— 约3954.25万（周增57.22万） 截至 W30 —— 约3897.03万（周增5…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-04ed871b02ed",
+      "title": "电信终端产业协会倡议推行手机整机、配件分离销售模式，统一配件标准",
+      "source": "IT之家",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-17",
+      "time": "08:50",
+      "publishedAt": "2026-08-17T08:50:12.000Z",
+      "url": "https://www.ithome.com/0/990/711.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/5/ceb7ad04-f189-4d8b-8c7a-48ee47936ee9.jpg?x-bce-process=image/auto-orient,o_1",
+      "summary": "IT之家 8 月 17 日消息，电信终端产业协会今日发布公告，为推动电子信息制造业绿色升级，强化终端设备全生命周期绿色管控，遏制低水平同质化重复生产，构建绿色低碳供应链，压减产业链冗余产能，提升产业链供应链现代化水平，面向行业发出如下倡议： 一、推行分离销售模式，引领绿色转型 倡导终端整机企业积极践行绿色低碳发展理念，在充分保障消费者知情权与自主选择权的前…",
+      "tags": [
+        "行业",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-13224592b7a2",
+      "title": "韩国多地出台中小学限用智能手机措施",
+      "source": "IT之家",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-17",
+      "time": "08:31",
+      "publishedAt": "2026-08-17T08:31:41.000Z",
+      "url": "https://www.ithome.com/0/990/688.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/8/b0c455b8-473c-413c-95ff-bcb4e7e47f37.png?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 8 月 17 日消息，据央视新闻今天报道，韩国多地教育部门近日出台措施，拟进一步强化中小学校园内学生智能手机使用管控，旨在提升学生课堂专注力、遏制网络霸凌。 IT之家从原报道了解到，韩国修订版《初等及中等教育法》于今年 3 月生效，明确禁止学生在课堂使用智能手机，但未明确校方该如何保管手机，也没有对课堂以外使用智能手机等情形作出规定。数月来，越来…",
+      "tags": [
+        "行业",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "coolapk-user-30f34bd748db",
       "title": "竹本青：荣耀 Play11T 开售：1199元起",
@@ -59,26 +119,6 @@ window.phoneRadarAuto = {
         "Pixel",
         "评测",
         "自动抓取"
-      ]
-    },
-    {
-      "id": "coolapk-user-e1262a08050f",
-      "title": "竹本青：接入大模型以后还不如不接入，算的堪称奇才",
-      "source": "竹本青",
-      "brand": "OPPO",
-      "model": "OPPO 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-08-17",
-      "time": "04:12",
-      "publishedAt": "2026-08-17T04:12:09.000Z",
-      "url": "https://www.coolapk.com/feed/73287349",
-      "image": "http://image.coolapk.com/feed/2026/0817/12/4248714_116660e7_9928_1917_841@1439x3168.jpg",
-      "summary": "接入大模型以后还不如不接入，算的堪称奇才",
-      "tags": [
-        "OPPO",
-        "爆料",
-        "酷安博主"
       ]
     },
     {
@@ -182,46 +222,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "coolapk-user-43b3ee685179",
-      "title": "竹本青：【ColorOS16 八月体验升级：桌面角标快速清理、锁屏岛支持酷狗概念版】 ● 双指外扩清空桌面全部应用角标 ●…",
-      "source": "竹本青",
-      "brand": "OPPO",
-      "model": "OPPO 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-08-17",
-      "time": "03:07",
-      "publishedAt": "2026-08-17T03:07:12.000Z",
-      "url": "https://www.coolapk.com/feed/73286421",
-      "image": "http://image.coolapk.com/feed/2026/0817/11/4248714_711ffe15_6030_9997_624@720x11930.jpg",
-      "summary": "【ColorOS16 八月体验升级：桌面角标快速清理、锁屏岛支持酷狗概念版】 ● 双指外扩清空桌面全部应用角标 ● 锁屏岛全屏音乐歌词新增支持酷狗概念版 ● 交通优行卡覆盖全国 330+ 城市公交地铁 ● 智能到站提醒新增广州、深圳等城市 …………完整更新内容及适配机型见图1 #ColorOS16# #ColorOS17# #今日热点#",
-      "tags": [
-        "OPPO",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
-      "id": "coolapk-user-620e0ccbd36b",
-      "title": "竹本青：小米米家智能鱼缸 2 Pro 开启预约：众筹价599元",
-      "source": "竹本青",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-08-17",
-      "time": "02:20",
-      "publishedAt": "2026-08-17T02:20:51.000Z",
-      "url": "https://www.coolapk.com/feed/73285735",
-      "image": "http://image.coolapk.com/feed/2026/0817/10/4248714_886ec277_3991_3769_485@1272x1696.jpg",
-      "summary": "【小米 米家智能鱼缸 2 Pro 开启预约：31L宽体智能生态缸，众筹价599元】 外观： ▫️1.47\" LCD彩屏显示水温、设备状态等 ▫️31L 50cm加宽缸体，比例16:9 ▫️高精度浮法成型工艺超白玻璃 ▫️24颗RRGB灯珠，增强660nm红光 过滤： ▫️多重定向精滤，定制循环水路 ▫️过滤盒采用分层隔离结构 ▫️双生化滤芯（易拆易洗，可更…",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
       "id": "auto-9bbf43c61c96",
       "title": "Apple announces changes to iOS in Brazil",
       "source": "Apple Newsroom",
@@ -322,7 +322,27 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-a1c12f6fe895",
+      "id": "newsnow-0998d73aa292",
+      "title": "REDMI K100 Pro系列首销日销量曝光：约上代65%",
+      "source": "酷安热榜",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-08-17",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/73276158",
+      "image": "",
+      "summary": "REDMI K100 Pro系列首销日销量曝光：约上代65%",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-898436eb5223",
       "title": "9块9的手机壳还敢买吗",
       "source": "微博热搜",
       "brand": "行业",
@@ -332,7 +352,7 @@ window.phoneRadarAuto = {
       "date": "2026-08-17",
       "time": "",
       "publishedAt": "",
-      "url": "https://s.weibo.com/weibo?q=%239%E5%9D%979%E7%9A%84%E6%89%8B%E6%9C%BA%E5%A3%B3%E8%BF%98%E6%95%A2%E4%B9%B0%E5%90%97%23&t=31&band_rank=1&Refer=top",
+      "url": "https://s.weibo.com/weibo?q=%239%E5%9D%979%E7%9A%84%E6%89%8B%E6%9C%BA%E5%A3%B3%E8%BF%98%E6%95%A2%E4%B9%B0%E5%90%97%23&t=31&band_rank=12&Refer=top",
       "image": "",
       "summary": "9块9的手机壳还敢买吗",
       "tags": [
@@ -342,7 +362,7 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-fb945db9ec19",
+      "id": "newsnow-e64d66dabcf9",
       "title": "建议这类手机壳赶紧扔掉",
       "source": "微博热搜",
       "brand": "行业",
@@ -352,7 +372,7 @@ window.phoneRadarAuto = {
       "date": "2026-08-17",
       "time": "",
       "publishedAt": "",
-      "url": "https://s.weibo.com/weibo?q=%23%E5%BB%BA%E8%AE%AE%E8%BF%99%E7%B1%BB%E6%89%8B%E6%9C%BA%E5%A3%B3%E8%B5%B6%E7%B4%A7%E6%89%94%E6%8E%89%23&t=31&band_rank=9&Refer=top",
+      "url": "https://s.weibo.com/weibo?q=%23%E5%BB%BA%E8%AE%AE%E8%BF%99%E7%B1%BB%E6%89%8B%E6%9C%BA%E5%A3%B3%E8%B5%B6%E7%B4%A7%E6%89%94%E6%8E%89%23&t=31&band_rank=16&Refer=top",
       "image": "",
       "summary": "建议这类手机壳赶紧扔掉",
       "tags": [
@@ -362,8 +382,8 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-e362a84ccf44",
-      "title": "刘冲手机里的王一博",
+      "id": "newsnow-755fc33d8b03",
+      "title": "手机壳 性早熟",
       "source": "微博热搜",
       "brand": "行业",
       "model": "智能手机市场",
@@ -372,9 +392,9 @@ window.phoneRadarAuto = {
       "date": "2026-08-17",
       "time": "",
       "publishedAt": "",
-      "url": "https://s.weibo.com/weibo?q=%23%E5%88%98%E5%86%B2%E6%89%8B%E6%9C%BA%E9%87%8C%E7%9A%84%E7%8E%8B%E4%B8%80%E5%8D%9A%23&t=31&band_rank=28&Refer=top",
+      "url": "https://s.weibo.com/weibo?q=%E6%89%8B%E6%9C%BA%E5%A3%B3%20%E6%80%A7%E6%97%A9%E7%86%9F&t=31&band_rank=25&Refer=top",
       "image": "",
-      "summary": "刘冲手机里的王一博",
+      "summary": "手机壳 性早熟",
       "tags": [
         "行业",
         "爆料",
