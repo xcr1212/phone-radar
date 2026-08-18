@@ -1,12 +1,12 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-08-18T01:49:28.972Z",
+  "updatedAt": "2026-08-18T03:07:45.448Z",
   "issueDate": "2026-08-18",
   "issue": "VOL.260818",
   "title": "手机情报日报",
-  "intro": "今日筛出 18 条重点，其中 8 条是重点爆料，包含 6 条 iPhone 相关、0 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 19 条重点，其中 8 条是重点爆料，包含 5 条 iPhone 相关、0 条官方确认、0 条参数线索。",
   "stats": {
-    "total": 18,
-    "iphone": 6,
+    "total": 19,
+    "iphone": 5,
     "leaks": 8,
     "official": 0,
     "specs": 0
@@ -17,29 +17,6 @@ window.phoneRadarDaily = {
       "title": "重点爆料",
       "hint": "机模、配色、影像、屏幕、电池和芯片线索先看。",
       "items": [
-        {
-          "id": "auto-939a45da380d",
-          "title": "入职奖金约 8800 元：曝富士康扩大招工备战苹果 iPhone 18 Pro / Max 及 iPhone Ultra",
-          "originalTitle": "",
-          "source": "IT之家",
-          "brand": "iPhone",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-08-17",
-          "time": "23:30",
-          "publishedAt": "2026-08-17T23:30:50.000Z",
-          "url": "https://www.ithome.com/0/990/880.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/8/0b1fb760-9751-4c48-9181-2cf4d17f9523.png?x-bce-process=image/format,f_auto",
-          "verdict": "先看",
-          "takeaway": "IT之家 8 月 18 日消息，科技媒体 macobserver 昨日（8 月 17 日）发布博文，报道称 富士康为满足苹果 iPhone 18 Pro 系列以及首款折叠手机（上市后预估名为 iPhone Ultra）产能，正扩大郑州工厂的招工规模。 消息称为了在苹果秋季发布会（预估 9 月 8 日 / 9 日）召开前最大限度地提高产能， 富士康向新入职员…",
-          "detail": "IT之家 8 月 18 日消息，科技媒体 macobserver 昨日（8 月 17 日）发布博文，报道称 富士康为满足苹果 iPhone 18 Pro 系列以及首款折叠手机（上市后预估名为 iPhone Ultra）产能，正扩大郑州工厂的招工规模。 消息称为了在苹果秋季发布会（预估 9 月 8 日 / 9 日）召开前最大限度地提高产能， 富士康向新入职员…",
-          "keyPoints": [
-            "爆料来源"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
         {
           "id": "auto-9b06e6615868",
           "title": "iPhone 18 Pro 系统功能 / AI 体验相关消息",
@@ -88,7 +65,7 @@ window.phoneRadarDaily = {
         },
         {
           "id": "coolapk-user-375bb28be030",
-          "title": "竹本青：【荣耀Robot Phone 今日正式开售，售价9999元起】 12GB+512GB —— 9999元 16GB+…",
+          "title": "竹本青：荣耀Robot Phone 正式开售，售价9999元起",
           "originalTitle": "",
           "source": "竹本青",
           "brand": "HONOR",
@@ -113,7 +90,7 @@ window.phoneRadarDaily = {
         },
         {
           "id": "coolapk-user-5db99feef5fa",
-          "title": "竹本青：【OriginOS 7 官方爆料：光影美学设计】 ● 能感知｜在不同的界面背景下，线条会遵循真实的光学规律发生折射…",
+          "title": "竹本青：OriginOS 7 官方爆料：光影美学设计",
           "originalTitle": "",
           "source": "竹本青",
           "brand": "vivo",
@@ -160,7 +137,7 @@ window.phoneRadarDaily = {
         },
         {
           "id": "coolapk-user-30d1aa3498e4",
-          "title": "竹本青：【影石Insta360 Luna Pro 云台相机官宣，将于8月20日发布】 ● 支持4K竖屏拍摄（30fps）…",
+          "title": "竹本青：影石Insta360 Luna Pro 云台相机将于8月20日发布",
           "originalTitle": "",
           "source": "竹本青",
           "brand": "行业",
@@ -183,7 +160,7 @@ window.phoneRadarDaily = {
         },
         {
           "id": "coolapk-user-47efa0f3ae22",
-          "title": "竹本青：【REDMI K90／K100 Pro Max 隐藏升级点：支持顶部刷NFC】 8月17日，有博主发文表示，RED…",
+          "title": "竹本青：REDMI K90／K100 Pro Max 隐藏升级点：顶部刷NFC",
           "originalTitle": "",
           "source": "竹本青",
           "brand": "Xiaomi",
@@ -201,6 +178,29 @@ window.phoneRadarDaily = {
             "爆料"
           ],
           "confidence": "可信度较高，但仍属于发布前线索。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "auto-e316e74f5354",
+          "title": "Samsung 折叠屏相关消息",
+          "originalTitle": "",
+          "source": "Android Central",
+          "brand": "Samsung",
+          "type": "评测",
+          "trust": "媒体汇总",
+          "date": "2026-08-17",
+          "time": "21:56",
+          "publishedAt": "2026-08-17T21:56:55.000Z",
+          "url": "https://www.androidcentral.com/phones/samsung-galaxy/samsungs-wide-galaxy-z-fold-8-was-such-a-hit-that-its-reportedly-making-another-one",
+          "image": "https://cdn.mos.cms.futurecdn.net/FJE2mkucw4mjQXmMz3EJTb-1280-80.jpg",
+          "verdict": "先看",
+          "takeaway": "Samsung 折叠屏相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
+          "detail": "Samsung 折叠屏相关消息。重点看折痕、铰链、厚度、屏幕可靠性和重量是否有实质改善。",
+          "keyPoints": [
+            "影像硬件"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         }
@@ -288,27 +288,28 @@ window.phoneRadarDaily = {
       "hint": "能直接更新到参数库。",
       "items": [
         {
-          "id": "auto-30c8f708bb34",
-          "title": "谷歌向 Pixel 系列手机推送安卓 17 QPR1 Beta 9 更新：修复“圈选即搜”等功能 Bug",
+          "id": "auto-c2b090d28bd2",
+          "title": "Galaxy S26 FE 外观设计线索曝光",
           "originalTitle": "",
-          "source": "IT之家",
-          "brand": "Pixel",
+          "source": "Gizmochina",
+          "brand": "Samsung",
           "type": "爆料",
           "trust": "媒体汇总",
           "date": "2026-08-17",
-          "time": "22:55",
-          "publishedAt": "2026-08-17T22:55:52.000Z",
-          "url": "https://www.ithome.com/0/990/871.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/8/04dd4c4a-c6ad-468f-bf77-477c8b0292cc.png?x-bce-process=image/format,f_auto",
-          "verdict": "先看",
-          "takeaway": "IT之家 8 月 18 日消息，谷歌近日开始向 Pixel 系列推送安卓 17 QPR1 Beta 9 更新。此次更新主要修复多项系统问题，这也意味着 Pixel 6 / Pro 系列机型将迎来最后一个测试版更新。 事实上，谷歌 Pixel 6 系列手机最初仅提供 3 年安全更新，在 Pixel 8 发布后，谷歌将 Pixel 6 系列手机软件更新生命周期…",
-          "detail": "IT之家 8 月 18 日消息，谷歌近日开始向 Pixel 系列推送安卓 17 QPR1 Beta 9 更新。此次更新主要修复多项系统问题，这也意味着 Pixel 6 / Pro 系列机型将迎来最后一个测试版更新。 事实上，谷歌 Pixel 6 系列手机最初仅提供 3 年安全更新，在 Pixel 8 发布后，谷歌将 Pixel 6 系列手机软件更新生命周期…",
+          "time": "10:23",
+          "publishedAt": "2026-08-17T10:23:49.000Z",
+          "url": "https://www.gizmochina.com/2026/08/17/galaxy-s26-fe-hands-on-video-shows-redesigned-camera-island-confirms-key-specs/",
+          "image": "https://www.gizmochina.com/wp-content/uploads/2026/08/galaxy-s26-fe-hands-on-design-300x169.jpg?x23692",
+          "verdict": "可略过",
+          "takeaway": "Galaxy S26 FE 外观设计线索曝光。重点看外观、颜色、尺寸是否和上一代有明显变化。",
+          "detail": "Galaxy S26 FE 外观设计线索曝光。这类内容主要看外观设计、按键布局、相机模组和尺寸变化，后续最好等更多渲染图或保护壳线索互相验证。",
           "keyPoints": [
-            "爆料"
+            "外观 / 配色 / 尺寸",
+            "影像硬件"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "中文源可以直接点开快读；看完只保留和购机有关的点。"
+          "impact": "影响拍照体验，买旗舰机时值得关注。",
+          "action": "有具体参数就记录到参数库；没有参数就先收藏。"
         }
       ]
     },
@@ -418,7 +419,7 @@ window.phoneRadarDaily = {
         },
         {
           "id": "coolapk-user-150926de64d4",
-          "title": "竹本青：【华为Mate 80系列 最新销量曝光：周增约17.73万台，累计超845万台】 8月17日，博主「RD观测」分享…",
+          "title": "竹本青：华为Mate 80系列最新销量曝光：周增约17.73万台",
           "originalTitle": "",
           "source": "竹本青",
           "brand": "Huawei",
@@ -460,6 +461,31 @@ window.phoneRadarDaily = {
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "影响性能和寿命判断，适合放进参数库。",
+          "action": "有具体参数就记录到参数库；没有参数就先收藏。"
+        },
+        {
+          "id": "auto-ed56831b0be5",
+          "title": "Pixel 11 Pro Fold 折叠屏相关消息",
+          "originalTitle": "",
+          "source": "Gizmochina",
+          "brand": "Samsung",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-08-17",
+          "time": "10:46",
+          "publishedAt": "2026-08-17T10:46:49.000Z",
+          "url": "https://www.gizmochina.com/2026/08/17/google-pixel-11-pro-fold-vs-samsung-galaxy-z-fold8/",
+          "image": "https://www.gizmochina.com/wp-content/uploads/2026/08/image-66-300x189.png?x23692",
+          "verdict": "可略过",
+          "takeaway": "Samsung 影像能力相关宣传或案例，主要看是否透露拍摄能力变化。",
+          "detail": "Pixel 11 Pro Fold 折叠屏相关消息。重点看折痕、铰链、厚度、屏幕可靠性和重量是否有实质改善。",
+          "keyPoints": [
+            "影像硬件",
+            "屏幕形态",
+            "成本 / 价格"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "影响购买预算，值得先看。",
           "action": "有具体参数就记录到参数库；没有参数就先收藏。"
         }
       ]

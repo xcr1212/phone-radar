@@ -1,5 +1,5 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-08-18T01:49:28.972Z",
+  "updatedAt": "2026-08-18T03:07:45.448Z",
   "news": [
     {
       "id": "auto-367933cb123c",
@@ -163,7 +163,7 @@ window.phoneRadarAuto = {
     },
     {
       "id": "coolapk-user-375bb28be030",
-      "title": "竹本青：【荣耀Robot Phone 今日正式开售，售价9999元起】 12GB+512GB —— 9999元 16GB+…",
+      "title": "竹本青：荣耀Robot Phone 正式开售，售价9999元起",
       "source": "竹本青",
       "brand": "HONOR",
       "model": "HONOR 相关机型",
@@ -179,46 +179,6 @@ window.phoneRadarAuto = {
         "HONOR",
         "爆料",
         "酷安博主"
-      ]
-    },
-    {
-      "id": "auto-939a45da380d",
-      "title": "入职奖金约 8800 元：曝富士康扩大招工备战苹果 iPhone 18 Pro / Max 及 iPhone Ultra",
-      "source": "IT之家",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-17",
-      "time": "23:30",
-      "publishedAt": "2026-08-17T23:30:50.000Z",
-      "url": "https://www.ithome.com/0/990/880.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/8/0b1fb760-9751-4c48-9181-2cf4d17f9523.png?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 8 月 18 日消息，科技媒体 macobserver 昨日（8 月 17 日）发布博文，报道称 富士康为满足苹果 iPhone 18 Pro 系列以及首款折叠手机（上市后预估名为 iPhone Ultra）产能，正扩大郑州工厂的招工规模。 消息称为了在苹果秋季发布会（预估 9 月 8 日 / 9 日）召开前最大限度地提高产能， 富士康向新入职员…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-30c8f708bb34",
-      "title": "谷歌向 Pixel 系列手机推送安卓 17 QPR1 Beta 9 更新：修复“圈选即搜”等功能 Bug",
-      "source": "IT之家",
-      "brand": "Pixel",
-      "model": "Pixel 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-17",
-      "time": "22:55",
-      "publishedAt": "2026-08-17T22:55:52.000Z",
-      "url": "https://www.ithome.com/0/990/871.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/8/04dd4c4a-c6ad-468f-bf77-477c8b0292cc.png?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 8 月 18 日消息，谷歌近日开始向 Pixel 系列推送安卓 17 QPR1 Beta 9 更新。此次更新主要修复多项系统问题，这也意味着 Pixel 6 / Pro 系列机型将迎来最后一个测试版更新。 事实上，谷歌 Pixel 6 系列手机最初仅提供 3 年安全更新，在 Pixel 8 发布后，谷歌将 Pixel 6 系列手机软件更新生命周期…",
-      "tags": [
-        "Pixel",
-        "爆料",
-        "自动抓取"
       ]
     },
     {
@@ -323,7 +283,7 @@ window.phoneRadarAuto = {
     },
     {
       "id": "coolapk-user-30d1aa3498e4",
-      "title": "竹本青：【影石Insta360 Luna Pro 云台相机官宣，将于8月20日发布】 ● 支持4K竖屏拍摄（30fps）…",
+      "title": "竹本青：影石Insta360 Luna Pro 云台相机将于8月20日发布",
       "source": "竹本青",
       "brand": "行业",
       "model": "智能手机市场",
@@ -443,7 +403,7 @@ window.phoneRadarAuto = {
     },
     {
       "id": "coolapk-user-47efa0f3ae22",
-      "title": "竹本青：【REDMI K90／K100 Pro Max 隐藏升级点：支持顶部刷NFC】 8月17日，有博主发文表示，RED…",
+      "title": "竹本青：REDMI K90／K100 Pro Max 隐藏升级点：顶部刷NFC",
       "source": "竹本青",
       "brand": "Xiaomi",
       "model": "Xiaomi 相关机型",
@@ -483,7 +443,7 @@ window.phoneRadarAuto = {
     },
     {
       "id": "coolapk-user-150926de64d4",
-      "title": "竹本青：【华为Mate 80系列 最新销量曝光：周增约17.73万台，累计超845万台】 8月17日，博主「RD观测」分享…",
+      "title": "竹本青：华为Mate 80系列最新销量曝光：周增约17.73万台",
       "source": "竹本青",
       "brand": "Huawei",
       "model": "Huawei 相关机型",
@@ -603,7 +563,7 @@ window.phoneRadarAuto = {
     },
     {
       "id": "coolapk-user-5db99feef5fa",
-      "title": "竹本青：【OriginOS 7 官方爆料：光影美学设计】 ● 能感知｜在不同的界面背景下，线条会遵循真实的光学规律发生折射…",
+      "title": "竹本青：OriginOS 7 官方爆料：光影美学设计",
       "source": "竹本青",
       "brand": "vivo",
       "model": "vivo 相关机型",
@@ -879,26 +839,6 @@ window.phoneRadarAuto = {
         "行业",
         "爆料",
         "微博"
-      ]
-    },
-    {
-      "id": "auto-9dad90f3bf5a",
-      "title": "Huawei Pura 100 rumored to skip signature triangular camera look",
-      "source": "Huawei Central",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-17",
-      "time": "03:05",
-      "publishedAt": "2026-08-17T03:05:01.000Z",
-      "url": "https://www.huaweicentral.com/huawei-pura-100-camera-look/",
-      "image": "https://www.huaweicentral.com/wp-content/uploads/2026/04/pura90-img.jpg",
-      "summary": "Huawei Pura 100 series might get a very unorthodox camera look next year. A new rumor indicates that the next-gen imaging flagship could ditch the signature triangular design it h…",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "自动抓取"
       ]
     }
   ]
