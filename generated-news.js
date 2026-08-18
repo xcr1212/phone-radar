@@ -1,6 +1,226 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-08-18T08:52:21.894Z",
+  "updatedAt": "2026-08-18T10:45:35.893Z",
   "news": [
+    {
+      "id": "auto-a21f43d4d32d",
+      "title": "Samsung makes it easier to own and maintain a Galaxy Z Fold 8 or Fold 8 Ultra in India",
+      "source": "SamMobile",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-18",
+      "time": "10:38",
+      "publishedAt": "2026-08-18T10:38:34.000Z",
+      "url": "https://www.sammobile.com/news/easier-own-galaxy-z-fold-8-ultra-maintain-india/",
+      "image": "",
+      "summary": "The Galaxy Z Fold 8 and Galaxy Z Fold 8 Ultra are impressive devices that offer large screens and great flexibility. However, they are also quite expensive. To address this, Samsu…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-dec6a9df44fe",
+      "title": "Realme 17 Pro+ leaks resurface with 200MP triple cameras and 1.5K display",
+      "source": "Gizmochina",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-18",
+      "time": "10:37",
+      "publishedAt": "2026-08-18T10:37:21.000Z",
+      "url": "https://www.gizmochina.com/2026/08/18/realme-17-pro-plus-leak-resurface/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/01/Realme-16-Pro-300x174.png?x23692",
+      "summary": "There have been some internal restructuring changes within the Oppo group, which oversees both OnePlus and Realme. As part of the changes, OnePlus will remain active in China and…",
+      "tags": [
+        "OPPO",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-b4308181d273",
+      "title": "三星 Galaxy Z Fold8 折叠屏新机大卖，但内存涨价导致 DX 部门持续亏损",
+      "source": "IT之家",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-18",
+      "time": "10:27",
+      "publishedAt": "2026-08-18T10:27:36.000Z",
+      "url": "https://www.ithome.com/0/991/281.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/8/6f4edabb-9b62-4644-a2ea-338036947247.jpg",
+      "summary": "IT之家 8 月 18 日消息，据韩媒 Maekyung ECONOMY 今天报道，三星电子 DX（设备体验）部门希望凭借 Galaxy Z Fold8 系列折叠屏手机扭转局面，但实际业绩预期难以达到预期。由于内存价格暴涨导致成本压力大幅增加，该部门预计将持续亏损。 据业内人士透露，三星电子上个月推出的新折叠屏手机系列 Z Fold8，在韩国预售量达 14…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-78fbcd317c42",
+      "title": "JSCHEN小小狐：REDMI M100 上架：骁龙 4 Gen5 / 1799 元起",
+      "source": "JSCHEN小小狐",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-08-18",
+      "time": "10:11",
+      "publishedAt": "2026-08-18T10:11:15.000Z",
+      "url": "https://www.coolapk.com/feed/73310344",
+      "image": "http://image.coolapk.com/feed/2026/0818/18/4702274_a824cc73_7871_3301_397@1080x1188.jpg",
+      "summary": "『REDMI M100 上架：骁龙 4 Gen5 / 1799 起』 8GB + 128GB —— 1799 元 6GB + 256GB —— 1999 元 8GB + 256GB —— 2199 元 ◇ 外观 星雨白、旷野绿、皓夜黑 塑胶边框 + 复合板材后盖 170.12×78.42×8.8mm，232 克 RGB 动态灯效，金属相机 Deco ◇ 性…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-7870f25f8e8e",
+      "title": "Record Galaxy Z Fold 8 sales fail to save Samsung’s mobile unit from losses",
+      "source": "SamMobile",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-18",
+      "time": "09:51",
+      "publishedAt": "2026-08-18T09:51:44.000Z",
+      "url": "https://www.sammobile.com/news/galaxy-z-fold-8-sales-record-fail-save-samsung-mobile-division-losses/",
+      "image": "",
+      "summary": "It is no secret that people are loving the Galaxy Z Fold 8. Pre-orders have broken all previous records for a Galaxy device, and sales remain strong across multiple countries. How…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "weibo-1dba92dd299e",
+      "title": "数码闲聊站：草，摸到真真下一台新机了，6.78\"1.5K超高刷直屏，200Mp大底主摄+8…",
+      "source": "数码闲聊站",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-08-18",
+      "time": "09:42",
+      "publishedAt": "2026-08-18T09:42:00.000Z",
+      "url": "https://weibo.com/6048569942/RdYOtFbQ2",
+      "image": "",
+      "summary": "草，摸到真真下一台新机了，6.78\"1.5K超高刷直屏，200Mp大底主摄+8Mp超广角+50Mp潜望镜，应该是数字系列，海外限定……聚焦中低端了[捂嘴哭]",
+      "tags": [
+        "行业",
+        "爆料",
+        "微博"
+      ]
+    },
+    {
+      "id": "auto-7ccc4f9ca5ed",
+      "title": "iPhone 18 Pro Max Rumored to Get Exclusive Camera Upgrade",
+      "source": "MacRumors",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-18",
+      "time": "09:39",
+      "publishedAt": "2026-08-18T09:39:01.000Z",
+      "url": "https://www.macrumors.com/2026/08/18/iphone-18-pro-max-camera-upgrade-exclusive/",
+      "image": "https://images.macrumors.com/article-new/2025/09/iphone-17-cameras-zoom.jpg",
+      "summary": "Apple's upcoming iPhone 18 Pro models may be differentiated by a new camera feature that could be exclusive to the larger Pro Max model, if a Chinese leaker is to be believed. Sin…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-1cb033c94daf",
+      "title": "竹本青：小米集团2026上半年及Q2财报公布：上半年总营收破2080亿",
+      "source": "竹本青",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-08-18",
+      "time": "09:37",
+      "publishedAt": "2026-08-18T09:37:51.000Z",
+      "url": "https://www.coolapk.com/feed/73309784",
+      "image": "http://image.coolapk.com/feed/2026/0818/17/4248714_1f8cbe47_5870_0203_917@983x8421.jpg",
+      "summary": "【小米集团2026上半年及Q2财报公布：上半年总营收破2080亿，Q2单季营收再超千亿】 2026上半年： ● 总营收：2080.63亿元，同比下降8.4% ● 毛利润：434.19亿元，同比下降15.7% ● 毛利率：20.87%，同比下降1.80个百分点 ● 归母净利润：141.98亿元，同比下降37.6% ● 经调整净利润：122.91亿元，同比下降…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "coolapk-user-5f4222279e00",
+      "title": "竹本青：OriginOS 7 官方爆料：手动切换界面质感",
+      "source": "竹本青",
+      "brand": "vivo",
+      "model": "vivo 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-08-18",
+      "time": "09:02",
+      "publishedAt": "2026-08-18T09:02:44.000Z",
+      "url": "https://www.coolapk.com/feed/73309174",
+      "image": "http://image.coolapk.com/feed/2026/0818/17/4248714_36ae7de9_3762_7547_719-livepic@2896x1630.jpg",
+      "summary": "【OriginOS 7 官方爆料：手动切换界面质感】 「自然」：真实感和可读性更均衡 「真实」：更通透 「柔和」：更在意清晰易读 #OriginOS6# #今日热点# #OriginOS7#",
+      "tags": [
+        "vivo",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-96abc7de793c",
+      "title": "Huawei Mate 90 to use Kirin 9030, Pro/RS models to adopt Tau Law chips",
+      "source": "Huawei Central",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-18",
+      "time": "09:01",
+      "publishedAt": "2026-08-18T09:01:55.000Z",
+      "url": "https://www.huaweicentral.com/huawei-mate-90-to-use-kirin-9030-pro-rs-models-to-adopt-tau-law-chips/",
+      "image": "https://www.huaweicentral.com/wp-content/uploads/2026/05/Kirin-chip.jpg",
+      "summary": "Huawei Mate 90 vanilla version and Pro/RS Ultimate models will likely go official next month with upgraded Kirin chips. Now, a new short leak from a reputable tipster has revealed…",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-72f10f30e157",
+      "title": "If I’m spending $2,000 on a foldable, I’m skipping the Pixel 11 Pro Fold for Samsung",
+      "source": "Android Authority",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-18",
+      "time": "09:00",
+      "publishedAt": "2026-08-18T09:00:04.000Z",
+      "url": "https://www.androidauthority.com/pixel-11-pro-fold-vs-galaxy-z-fold-8-ultra-3698287/",
+      "image": "",
+      "summary": "Google and Samsung have very different foldable visions.",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-976782317f07",
       "title": "Hands-on videos show off Galaxy S26 FE, confirm that crazy Horizontal Lock video mode",
@@ -142,26 +362,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-8cedd2013f4d",
-      "title": "消息称 OPPO Find X10 系列新机屏幕“加料”，支持目前行业最高规格 BT.2020 超广色域",
-      "source": "IT之家",
-      "brand": "OPPO",
-      "model": "OPPO 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-18",
-      "time": "06:56",
-      "publishedAt": "2026-08-18T06:56:41.000Z",
-      "url": "https://www.ithome.com/0/991/086.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/8/770e0575-9d36-4d9a-8ce4-730dcdfc0887.png",
-      "summary": "IT之家 8 月 18 日消息，博主 @数码闲聊站 今日爆料，OPPO Find X10 系列新机屏幕“加料”，联合研发的全新护眼基材， 能够支持目前行业最高规格的 BT.2020 超广色域 。 据称， 这块屏幕还实现了行业上最高有益红光和最低有害蓝光 。博主表示，在“绿厂”新的屏幕双产线加持下，这块屏还更进一步， 将支持边框超窄特性 。 博主还透露，友商…",
-      "tags": [
-        "OPPO",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-f2a527edcd6d",
       "title": "Honor Magic 9 series full back design revealed in new renders",
       "source": "Huawei Central",
@@ -259,46 +459,6 @@ window.phoneRadarAuto = {
         "行业",
         "爆料",
         "微博"
-      ]
-    },
-    {
-      "id": "auto-f145418a57f1",
-      "title": "为满足 iPhone Ultra 等折叠屏需求，曝三星显示时隔 5 年重启 A7 OLED 工厂投资",
-      "source": "IT之家",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-18",
-      "time": "04:56",
-      "publishedAt": "2026-08-18T04:56:45.000Z",
-      "url": "https://www.ithome.com/0/991/061.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/8/3a962f58-ca10-4ef8-969f-2ae93bb508a5.png",
-      "summary": "IT之家 8 月 18 日消息，韩媒“每日经济新闻”昨日（8 月 17 日）发布博文，报道称 三星显示（Samsung Display）重启忠清南道牙山第 2 园区新厂（A7）投资，目标在 2028 年初完工。 IT之家曾于 7 月报道， 三星显示位于牙山 8.6G IT OLED 生产线 A6 已于上月启动量产 ，而伴随着折叠手机屏幕需求快速增长，三星显…",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "coolapk-user-6ea98bdd5406",
-      "title": "JSCHEN小小狐：华为 Mate90 Pro Max 曝光：新一代满血芯片",
-      "source": "JSCHEN小小狐",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-08-18",
-      "time": "04:35",
-      "publishedAt": "2026-08-18T04:35:35.000Z",
-      "url": "https://www.coolapk.com/feed/73305085",
-      "image": "http://image.coolapk.com/feed/2026/0818/12/4702274_5aaa0639_7733_6073_353@1440x760.jpg",
-      "summary": "『华为 Mate90 Pro Max 曝光：新一代满血芯片』 ◇ 新一代满血芯片（预计为麒麟 9050 Pro） ◇ 6.9 英寸 1.5K LTPO 双层 OLED 直屏 ◇ 屏幕支持 BT.2020 超广色域 ◇ 约 6800～7000mAh 电池 两版长焦方案： ① 50Mp + 50Mp 双潜望方案（RS 测试 10X） ② 200Mp 1/1.2…",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "酷安博主"
       ]
     },
     {
@@ -437,6 +597,26 @@ window.phoneRadarAuto = {
       "summary": "REDMI K90／K100 Pro Max 隐藏升级点：顶部刷NFC",
       "tags": [
         "Xiaomi",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-c8ce2642cf49",
+      "title": "华为 Mate90 Pro Max 曝光：新一代满血芯片",
+      "source": "酷安热榜",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-08-18",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/73305085",
+      "image": "",
+      "summary": "华为 Mate90 Pro Max 曝光：新一代满血芯片",
+      "tags": [
+        "Huawei",
         "爆料",
         "NewsNow"
       ]
@@ -722,26 +902,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-b6fcc3231e5a",
-      "title": "Set up your Galaxy Z Fold 8 with Smart Switch? Your zoom level may be wrong",
-      "source": "SamMobile",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-17",
-      "time": "14:19",
-      "publishedAt": "2026-08-17T14:19:11.000Z",
-      "url": "https://www.sammobile.com/news/set-up-your-galaxy-z-fold-8-with-smart-switch-your-zoom-level-may-be-wrong/",
-      "image": "https://www.sammobile.com/wp-content/uploads/2026/08/Screenshot_20260817_160935_Settings.jpg",
-      "summary": "If you've upgraded your Galaxy phone before and transferred your settings from your old phone to the new one using Smart Switch, you know how convenient it is. It may be one of th…",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-cff1c9eeca12",
       "title": "New iPhone Ultra leaks cover release timing, availability, and name",
       "source": "9to5Mac",
@@ -898,26 +1058,6 @@ window.phoneRadarAuto = {
       "tags": [
         "Pixel",
         "评测",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-097f5926d724",
-      "title": "iQOO 16 camera specifications leak hints at a major upgrade in the making",
-      "source": "Gizmochina",
-      "brand": "vivo",
-      "model": "vivo 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-17",
-      "time": "04:08",
-      "publishedAt": "2026-08-17T04:08:28.000Z",
-      "url": "https://www.gizmochina.com/2026/08/17/iqoo-16-camera-specifications-leaked/",
-      "image": "https://www.gizmochina.com/wp-content/uploads/2025/12/iQOO-15-halo1-300x225.jpg?x23692",
-      "summary": "In a recent report, reliable tipster Digital Chat Station shared key details about the iQOO 16’s display, chipset, and design. Now, the tipster has published a new Weibo post reve…",
-      "tags": [
-        "vivo",
-        "爆料",
         "自动抓取"
       ]
     },
