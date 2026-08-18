@@ -1,6 +1,66 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-08-18T13:06:42.350Z",
+  "updatedAt": "2026-08-18T14:51:43.434Z",
   "news": [
+    {
+      "id": "auto-ca6dfce9052f",
+      "title": "Redmi M100 launches with 7900mAh battery, Snapdragon 4 Gen 5 mobile platform",
+      "source": "Gizmochina",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-18",
+      "time": "14:47",
+      "publishedAt": "2026-08-18T14:47:22.000Z",
+      "url": "https://www.gizmochina.com/2026/08/18/redmi-m100-launches-with-7900mah-battery-snapdragon-4-gen-5-mobile-platform/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/08/Redmi-M100-Launch-Specs-Price-300x200.jpg?x23692",
+      "summary": "Redmi is launching a brand-new smartphone series with the Redmi M100. The phone debuted in China without fanfare and is already on sale locally. The M100 is built around a 6.9-inc…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-22ee413629c1",
+      "title": "iQOO Z11S debuts as brand’s first phone with 10,000mAh battery",
+      "source": "Gizmochina",
+      "brand": "vivo",
+      "model": "vivo 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-18",
+      "time": "14:37",
+      "publishedAt": "2026-08-18T14:37:39.000Z",
+      "url": "https://www.gizmochina.com/2026/08/18/iqoo-z11s-debuts-as-brands-first-phone-with-10000mah-battery/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/08/iQOO-Z11S-back-300x169.jpg?x23692",
+      "summary": "iQOO just dropped a new mid-range phone that’s all about one thing: lasting forever. The Z11S is the company’s first phone with a massive 10,000mAh battery. The company worked wit…",
+      "tags": [
+        "vivo",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-e30c9068b7c9",
+      "title": "小米 REDMI 产品经理科普手机顶部 NFC 使用方式，称不是用金属中框戳的意思",
+      "source": "IT之家",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-18",
+      "time": "13:36",
+      "publishedAt": "2026-08-18T13:36:07.000Z",
+      "url": "https://www.ithome.com/0/991/328.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/8/93c45559-ac09-41b5-b2ea-1e5ed90622a6.jpg",
+      "summary": "IT之家 8 月 18 日消息， 小米 REDMI K100 / 90 Pro Max 手机隐藏升级点昨日曝光 ，两款机型在机身顶部加入了 NFC 刷卡区，无论是背部还是顶部都能正常触发刷卡。 IT之家注意到，小米 REDMI 产品经理 @笋寸 今日发文介绍了手机顶部 NFC 的使用方式， 称顶部 NFC 的意思是手机背面的顶部有 NFC 线圈 。 所以刷…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-62907a5f106d",
       "title": "Fairphone (Gen. 6+) 模块化智能手机发布：高通骁龙 7s Gen 4 搭配 12GB 内存",
@@ -259,26 +319,6 @@ window.phoneRadarAuto = {
         "iPhone",
         "爆料",
         "自动抓取"
-      ]
-    },
-    {
-      "id": "coolapk-user-ec4b9a0fd516",
-      "title": "竹本青：小米将参展IFA 2026：米家品牌规模入欧起点",
-      "source": "竹本青",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-08-18",
-      "time": "11:04",
-      "publishedAt": "2026-08-18T11:04:31.000Z",
-      "url": "https://www.coolapk.com/feed/73311192",
-      "image": "http://image.coolapk.com/feed/2026/0818/19/4248714_84497ea1_1069_8859_930@1271x1605.jpg",
-      "summary": "【小米将参展IFA 2026：人车家全生态亮相，将是米家品牌规模入欧起点】 8月18日，小米高管徐洁云透露，小米将以人车家全生态完整阵容参加9月德国IFA展会。本次参展，将是米家（MIJIA）品牌正式规模进入欧洲市场的起点。 本月7日，小米印度营销与公关副总监已官宣，米家（MIJIA）品牌即将登陆印度市场，将与Xiaomi、REDMI、POCO共同构成小米…",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "酷安博主"
       ]
     },
     {
@@ -782,6 +822,26 @@ window.phoneRadarAuto = {
       ]
     },
     {
+      "id": "newsnow-7f16aa56a708",
+      "title": "iQOO Neo11 至尊版发布：天玑9500M，首销3399元起",
+      "source": "酷安热榜",
+      "brand": "vivo",
+      "model": "vivo 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-08-18",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/73311738",
+      "image": "",
+      "summary": "iQOO Neo11 至尊版发布：天玑9500M，首销3399元起",
+      "tags": [
+        "vivo",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
       "id": "newsnow-c8ce2642cf49",
       "title": "华为 Mate90 Pro Max 曝光：新一代满血芯片",
       "source": "酷安热榜",
@@ -817,26 +877,6 @@ window.phoneRadarAuto = {
       "summary": "REDMI K90／K100 Pro Max 隐藏升级点：顶部刷NFC",
       "tags": [
         "Xiaomi",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-bd84ee328efb",
-      "title": "手机价格涨20%以上",
-      "source": "微博热搜",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "待验证",
-      "date": "2026-08-18",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://s.weibo.com/weibo?q=%23%E6%89%8B%E6%9C%BA%E4%BB%B7%E6%A0%BC%E6%B6%A820%25%E4%BB%A5%E4%B8%8A%23&t=31&band_rank=20&Refer=top",
-      "image": "",
-      "summary": "手机价格涨20%以上",
-      "tags": [
-        "行业",
         "爆料",
         "NewsNow"
       ]
@@ -1122,26 +1162,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-ed56831b0be5",
-      "title": "Google Pixel 11 Pro Fold vs Samsung Galaxy Z Fold8: Specs, Camera and Price Compared",
-      "source": "Gizmochina",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-17",
-      "time": "10:46",
-      "publishedAt": "2026-08-17T10:46:49.000Z",
-      "url": "https://www.gizmochina.com/2026/08/17/google-pixel-11-pro-fold-vs-samsung-galaxy-z-fold8/",
-      "image": "https://www.gizmochina.com/wp-content/uploads/2026/08/image-66-300x189.png?x23692",
-      "summary": "Foldables are evolving beyond bigger screens, and the Google Pixel 11 Pro Fold and Samsung Galaxy Z Fold8 show two very different ways to build a flagship. The Pixel focuses on di…",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-28e5bfd7045f",
       "title": "5 Android phones you should buy instead of the Google Pixel 11",
       "source": "Android Authority",
@@ -1157,46 +1177,6 @@ window.phoneRadarAuto = {
       "summary": "The Pixel 11 is tempting, but these alternatives might still be better.",
       "tags": [
         "Pixel",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-c2b090d28bd2",
-      "title": "Galaxy S26 FE hands-on video shows redesigned camera island, confirms key specs",
-      "source": "Gizmochina",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-17",
-      "time": "10:23",
-      "publishedAt": "2026-08-17T10:23:49.000Z",
-      "url": "https://www.gizmochina.com/2026/08/17/galaxy-s26-fe-hands-on-video-shows-redesigned-camera-island-confirms-key-specs/",
-      "image": "https://www.gizmochina.com/wp-content/uploads/2026/08/galaxy-s26-fe-hands-on-design-300x169.jpg?x23692",
-      "summary": "Samsung’s next Fan Edition phone is already showing up in the wild. A real-life hands-on video has given us the clearest look yet at the unreleased Galaxy S26 FE, showing off its…",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-6b67ce9895cb",
-      "title": "Redmi Note 17 series global launch date announced",
-      "source": "Gizmochina",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-17",
-      "time": "10:08",
-      "publishedAt": "2026-08-17T10:08:42.000Z",
-      "url": "https://www.gizmochina.com/2026/08/17/redmi-note-17-series-global-launch-date-announced/",
-      "image": "https://www.gizmochina.com/wp-content/uploads/2026/08/Redmi-Note-17-series-battery-300x200.jpg?x23692",
-      "summary": "Xiaomi is bringing the Redmi Note 17 series to Malaysia on August 18, 2026. For the first time, the lineup will also include a new top-end model, the Redmi Note 17 Pro Max. It wil…",
-      "tags": [
-        "Xiaomi",
         "爆料",
         "自动抓取"
       ]

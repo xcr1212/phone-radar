@@ -1,5 +1,5 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-08-18T13:06:42.350Z",
+  "updatedAt": "2026-08-18T14:51:43.434Z",
   "issueDate": "2026-08-18",
   "issue": "VOL.260818",
   "title": "手机情报日报",
@@ -82,6 +82,29 @@ window.phoneRadarDaily = {
           "detail": "iPhone 系统功能 / AI 体验相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
           "keyPoints": [
             "爆料来源"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "auto-e30c9068b7c9",
+          "title": "小米 REDMI 产品经理科普手机顶部 NFC 使用方式，称不是用金属中框戳的意思",
+          "originalTitle": "",
+          "source": "IT之家",
+          "brand": "Xiaomi",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-08-18",
+          "time": "13:36",
+          "publishedAt": "2026-08-18T13:36:07.000Z",
+          "url": "https://www.ithome.com/0/991/328.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/8/93c45559-ac09-41b5-b2ea-1e5ed90622a6.jpg",
+          "verdict": "先看",
+          "takeaway": "IT之家 8 月 18 日消息， 小米 REDMI K100 / 90 Pro Max 手机隐藏升级点昨日曝光 ，两款机型在机身顶部加入了 NFC 刷卡区，无论是背部还是顶部都能正常触发刷卡。 IT之家注意到，小米 REDMI 产品经理 @笋寸 今日发文介绍了手机顶部 NFC 的使用方式， 称顶部 NFC 的意思是手机背面的顶部有 NFC 线圈 。 所以刷…",
+          "detail": "IT之家 8 月 18 日消息， 小米 REDMI K100 / 90 Pro Max 手机隐藏升级点昨日曝光 ，两款机型在机身顶部加入了 NFC 刷卡区，无论是背部还是顶部都能正常触发刷卡。 IT之家注意到，小米 REDMI 产品经理 @笋寸 今日发文介绍了手机顶部 NFC 的使用方式， 称顶部 NFC 的意思是手机背面的顶部有 NFC 线圈 。 所以刷…",
+          "keyPoints": [
+            "爆料"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
@@ -175,29 +198,6 @@ window.phoneRadarDaily = {
           "verdict": "先看",
           "takeaway": "华为 Mate90 Pro Max 曝光：新一代满血芯片",
           "detail": "华为 Mate90 Pro Max 曝光：新一代满血芯片",
-          "keyPoints": [
-            "芯片 / 性能"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "auto-62907a5f106d",
-          "title": "Fairphone (Gen. 6+) 模块化智能手机发布：高通骁龙 7s Gen 4 搭配 12GB 内存",
-          "originalTitle": "",
-          "source": "IT之家",
-          "brand": "行业",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-08-18",
-          "time": "12:23",
-          "publishedAt": "2026-08-18T12:23:02.000Z",
-          "url": "https://www.ithome.com/0/991/312.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/8/4c6b82cc-4faa-4ad5-97b2-3c001dc1273c.jpg",
-          "verdict": "先看",
-          "takeaway": "IT之家 8 月 18 日消息，模块化消费电子硬件品牌 Fairphone 荷兰当地时间今日发布了其新一代模块化智能手机 Fairphone (Gen. 6+) ，这也是 该品牌首款正式在美国市场销售的产品 。 Fairphone (Gen. 6+) 由 12 个易于更换的零部件构成，获得 IP55 防尘防水、MIL-STD 810H 抗跌落认证。其 基于…",
-          "detail": "IT之家 8 月 18 日消息，模块化消费电子硬件品牌 Fairphone 荷兰当地时间今日发布了其新一代模块化智能手机 Fairphone (Gen. 6+) ，这也是 该品牌首款正式在美国市场销售的产品 。 Fairphone (Gen. 6+) 由 12 个易于更换的零部件构成，获得 IP55 防尘防水、MIL-STD 810H 抗跌落认证。其 基于…",
           "keyPoints": [
             "芯片 / 性能"
           ],
