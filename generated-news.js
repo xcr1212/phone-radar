@@ -1,9 +1,149 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-08-18T04:50:42.001Z",
+  "updatedAt": "2026-08-18T07:03:24.974Z",
   "news": [
     {
+      "id": "auto-8cedd2013f4d",
+      "title": "消息称 OPPO Find X10 系列新机屏幕“加料”，支持目前行业最高规格 BT.2020 超广色域",
+      "source": "IT之家",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-18",
+      "time": "06:56",
+      "publishedAt": "2026-08-18T06:56:41.000Z",
+      "url": "https://www.ithome.com/0/991/086.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/8/770e0575-9d36-4d9a-8ce4-730dcdfc0887.png",
+      "summary": "IT之家 8 月 18 日消息，博主 @数码闲聊站 今日爆料，OPPO Find X10 系列新机屏幕“加料”，联合研发的全新护眼基材， 能够支持目前行业最高规格的 BT.2020 超广色域 。 据称， 这块屏幕还实现了行业上最高有益红光和最低有害蓝光 。博主表示，在“绿厂”新的屏幕双产线加持下，这块屏还更进一步， 将支持边框超窄特性 。 博主还透露，友商…",
+      "tags": [
+        "OPPO",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-f2a527edcd6d",
+      "title": "Honor Magic 9 series full back design revealed in new renders",
+      "source": "Huawei Central",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-18",
+      "time": "06:38",
+      "publishedAt": "2026-08-18T06:38:14.000Z",
+      "url": "https://www.huaweicentral.com/honor-magic-9-series-full-back-design-revealed-in-new-renders/",
+      "image": "https://www.huaweicentral.com/wp-content/uploads/2026/08/render.jpg",
+      "summary": "Some fresh leaks are now showing the official-looking renders of the Honor Magic 9 series, uncovering the full back camera design that has been in the dark during the ROBOT PHONE…",
+      "tags": [
+        "HONOR",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-f767074b8285",
+      "title": "New Vivo V80 Lite design leak hints at Vivo S2 rebrand",
+      "source": "Gizmochina",
+      "brand": "vivo",
+      "model": "vivo 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-18",
+      "time": "06:34",
+      "publishedAt": "2026-08-18T06:34:36.000Z",
+      "url": "https://www.gizmochina.com/2026/08/18/new-vivo-v80-lite-design-leak-hints-at-vivo-s2-rebrand/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/08/Vivo-S2-Sapphire-Blue-300x148.jpg?x23692",
+      "summary": "A new leak is adding weight to earlier reports that the Vivo S2 could be sold internationally under a different name. An image of the Vivo V80 Lite has surfaced on the web, and al…",
+      "tags": [
+        "vivo",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-9974dd3dff8f",
+      "title": "Vivo X500 clears major certification, September launch expected",
+      "source": "Gizmochina",
+      "brand": "vivo",
+      "model": "vivo 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-18",
+      "time": "06:18",
+      "publishedAt": "2026-08-18T06:18:19.000Z",
+      "url": "https://www.gizmochina.com/2026/08/18/vivo-x500-3c-certified/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/06/Vivo-X300-300x225.jpg?x23692",
+      "summary": "Several reports have claimed that Vivo is planning to unveil the Vivo X500 series in September in China. Ahead of the launch, the X500 members are gradually bagging key certificat…",
+      "tags": [
+        "vivo",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-5c426fcd9b56",
+      "title": "竹本青：OPPO Find X10系列爆料：全新护眼基材、BT.2020色域",
+      "source": "竹本青",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-08-18",
+      "time": "06:01",
+      "publishedAt": "2026-08-18T06:01:58.000Z",
+      "url": "https://www.coolapk.com/feed/73306346",
+      "image": "http://image.coolapk.com/feed/2026/0818/14/4248714_7f87d66c_2916_9093_47@1440x594.jpg",
+      "summary": "【OPPO Find X10系列 屏幕爆料：联合研发全新护眼基材，支持BT.2020色域】 ● 联合研发全新护眼基材 ● 边框超窄、超通透 ● 支持BT.2020超广色域 ● 行业上最高有益红光和最低有害蓝光 #今日热点# #OPPOFindX9Pro# #ColorOS16#",
+      "tags": [
+        "OPPO",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "weibo-c12e65223b75",
+      "title": "数码闲聊站：独家，Find X10系列新机摸了一下，屏幕也加料了，联合研发的全新护眼基材，…",
+      "source": "数码闲聊站",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-08-18",
+      "time": "06:00",
+      "publishedAt": "2026-08-18T06:00:00.000Z",
+      "url": "https://weibo.com/6048569942/RdXmn5Z8k",
+      "image": "",
+      "summary": "独家，Find X10系列新机摸了一下，屏幕也加料了，联合研发的全新护眼基材，能够支持目前行业最高规格的BT.2020超广色域，还实现行业上最高有益红光和最低有害蓝光，色彩和护眼都拉满。在绿厂新的屏幕双产线加持下，这块屏还更进一步，边框超窄！超通透！[偷乐] Tips: 友商也在研究类似的屏幕特性，但进度慢一些，估计得明年落地",
+      "tags": [
+        "行业",
+        "爆料",
+        "微博"
+      ]
+    },
+    {
+      "id": "auto-f145418a57f1",
+      "title": "为满足 iPhone Ultra 等折叠屏需求，曝三星显示时隔 5 年重启 A7 OLED 工厂投资",
+      "source": "IT之家",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-18",
+      "time": "04:56",
+      "publishedAt": "2026-08-18T04:56:45.000Z",
+      "url": "https://www.ithome.com/0/991/061.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/8/3a962f58-ca10-4ef8-969f-2ae93bb508a5.png",
+      "summary": "IT之家 8 月 18 日消息，韩媒“每日经济新闻”昨日（8 月 17 日）发布博文，报道称 三星显示（Samsung Display）重启忠清南道牙山第 2 园区新厂（A7）投资，目标在 2028 年初完工。 IT之家曾于 7 月报道， 三星显示位于牙山 8.6G IT OLED 生产线 A6 已于上月启动量产 ，而伴随着折叠手机屏幕需求快速增长，三星显…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
       "id": "coolapk-user-6ea98bdd5406",
-      "title": "JSCHEN小小狐：『华为 Mate90 Pro Max 曝光：新一代满血芯片』 ◇ 新一代满血芯片（预计为麒麟 9050 Pro）…",
+      "title": "JSCHEN小小狐：华为 Mate90 Pro Max 曝光：新一代满血芯片",
       "source": "JSCHEN小小狐",
       "brand": "Huawei",
       "model": "Huawei 相关机型",
@@ -142,26 +282,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-367933cb123c",
-      "title": "代码显示谷歌正为 Pixel 系列手机开发“Connectivity Health”网络诊断功能，可帮助用户快速排错",
-      "source": "IT之家",
-      "brand": "Pixel",
-      "model": "Pixel 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-18",
-      "time": "01:17",
-      "publishedAt": "2026-08-18T01:17:38.000Z",
-      "url": "https://www.ithome.com/0/990/911.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/8/81722cf9-9e32-4b9e-99f8-b9db1abf9a40.jpg",
-      "summary": "IT之家 8 月 18 日消息，外媒 Android Authority 在检查安卓系统代码时，发现谷歌正计划为 Pixel 手机引入一项名为“Connectivity Health”的网络诊断功能，如果用户发现连不上网络，则可以使用相应功能尝试排错。 外媒设法在系统上启用了这一功能，在激活后，Connectivity Health 将位于 Pixel 手…",
-      "tags": [
-        "Pixel",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-9bbf43c61c96",
       "title": "Apple announces changes to iOS in Brazil",
       "source": "Apple Newsroom",
@@ -242,26 +362,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-014e2b379803",
-      "title": "亮哥直播间中了个17标准版 兄弟们留x100还是17啊 #vivoX100# #iPhone17# #数码日常#",
-      "source": "酷安热榜",
-      "brand": "vivo",
-      "model": "vivo 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-08-18",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73269892",
-      "image": "",
-      "summary": "亮哥直播间中了个17标准版 兄弟们留x100还是17啊 #vivoX100# #iPhone17# #数码日常#",
-      "tags": [
-        "vivo",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
       "id": "newsnow-97e0fd6b70a1",
       "title": "REDMI K90／K100 Pro Max 隐藏升级点：顶部刷NFC",
       "source": "酷安热榜",
@@ -282,6 +382,26 @@ window.phoneRadarAuto = {
       ]
     },
     {
+      "id": "newsnow-014e2b379803",
+      "title": "亮哥直播间中了个17标准版 兄弟们留x100还是17啊 #vivoX100# #iPhone17# #数码日常#",
+      "source": "酷安热榜",
+      "brand": "vivo",
+      "model": "vivo 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-08-18",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/73269892",
+      "image": "",
+      "summary": "亮哥直播间中了个17标准版 兄弟们留x100还是17啊 #vivoX100# #iPhone17# #数码日常#",
+      "tags": [
+        "vivo",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
       "id": "newsnow-919b7faace39",
       "title": "小米首款「万级大电池」手机将于8月27日在日本发布",
       "source": "酷安热榜",
@@ -297,46 +417,6 @@ window.phoneRadarAuto = {
       "summary": "小米首款「万级大电池」手机将于8月27日在日本发布",
       "tags": [
         "Xiaomi",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-86f68e6ff003",
-      "title": "iPhone18Pro系列六大升级",
-      "source": "微博热搜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "待验证",
-      "date": "2026-08-18",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://s.weibo.com/weibo?q=%23iPhone18Pro%E7%B3%BB%E5%88%97%E5%85%AD%E5%A4%A7%E5%8D%87%E7%BA%A7%23&t=31&band_rank=17&Refer=top",
-      "image": "",
-      "summary": "iPhone18Pro系列六大升级",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-dde3946a1430",
-      "title": "闪过念头就刷到广告 是手机在偷听吗",
-      "source": "百度热搜",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-18",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.baidu.com/s?wd=%E9%97%AA%E8%BF%87%E5%BF%B5%E5%A4%B4%E5%B0%B1%E5%88%B7%E5%88%B0%E5%B9%BF%E5%91%8A+%E6%98%AF%E6%89%8B%E6%9C%BA%E5%9C%A8%E5%81%B7%E5%90%AC%E5%90%97",
-      "image": "",
-      "summary": "闪过念头就刷到广告 是手机在偷听吗",
-      "tags": [
-        "行业",
         "爆料",
         "NewsNow"
       ]
@@ -602,26 +682,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "coolapk-user-150926de64d4",
-      "title": "竹本青：华为Mate 80系列最新销量曝光：周增约17.73万台",
-      "source": "竹本青",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-08-17",
-      "time": "15:10",
-      "publishedAt": "2026-08-17T15:10:59.000Z",
-      "url": "https://www.coolapk.com/feed/73298109",
-      "image": "http://image.coolapk.com/feed/2026/0817/23/4248714_e67e8f50_9458_6578_95@3319x2497.jpg",
-      "summary": "【华为Mate 80系列 最新销量曝光：周增约17.73万台，累计超845万台】 8月17日，博主「RD观测」分享第三方统计数据：截至2026年第32周，华为Mate 80系列累计销量约845.57万台，周新增约17.73万台。 前几周数据如下： 截至26 W31 —— 约827.84万（周增18.84万） 截至26 W30 —— 约809万（周增16.9…",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
       "id": "auto-9685a2fd5ba4",
       "title": "Galaxy Z Fold 8 gets a $200 no trade-in credit, here’s what you can use it for",
       "source": "SamMobile",
@@ -857,46 +917,6 @@ window.phoneRadarAuto = {
       "summary": "Apple is expected to unveil its first foldable iPhone later this year, seven years after Samsung unveiled the original Galaxy Fold. This upcoming iPhone is widely being called the…",
       "tags": [
         "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-cb184b5ef937",
-      "title": "Honor Magic 9 series is coming with compact phone variant",
-      "source": "Huawei Central",
-      "brand": "HONOR",
-      "model": "HONOR 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-17",
-      "time": "07:24",
-      "publishedAt": "2026-08-17T07:24:51.000Z",
-      "url": "https://www.huaweicentral.com/honor-magic-9-series-is-coming-with-compact-phone-variant/",
-      "image": "https://www.huaweicentral.com/wp-content/uploads/2025/10/Honor-Magic-8-series.jpg",
-      "summary": "Honor Magic 9 series will launch next month with a special “compact” variant. The flagship lineup seems to have at least three new models this time – a base version – probably the…",
-      "tags": [
-        "HONOR",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-3506535f803a",
-      "title": "Huawei Mate 90 to stick with circular camera design – no square format",
-      "source": "Huawei Central",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-17",
-      "time": "06:14",
-      "publishedAt": "2026-08-17T06:14:39.000Z",
-      "url": "https://www.huaweicentral.com/huawei-mate-90-to-stick-with-circular-camera-design/",
-      "image": "https://www.huaweicentral.com/wp-content/uploads/2026/02/Mate80ProMax2.jpg",
-      "summary": "Last week saw conflicting reports on whether Huawei will adopt a square rear camera module for its upcoming flagship phones, but a new leak says there is no such plan for the Mate…",
-      "tags": [
-        "Huawei",
         "爆料",
         "自动抓取"
       ]

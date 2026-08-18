@@ -1,12 +1,12 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-08-18T04:50:42.001Z",
+  "updatedAt": "2026-08-18T07:03:24.974Z",
   "issueDate": "2026-08-18",
   "issue": "VOL.260818",
   "title": "手机情报日报",
-  "intro": "今日筛出 13 条重点，其中 8 条是重点爆料，包含 4 条 iPhone 相关、0 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 9 条重点，其中 8 条是重点爆料，包含 2 条 iPhone 相关、0 条官方确认、0 条参数线索。",
   "stats": {
-    "total": 13,
-    "iphone": 4,
+    "total": 9,
+    "iphone": 2,
     "leaks": 8,
     "official": 0,
     "specs": 0
@@ -17,29 +17,6 @@ window.phoneRadarDaily = {
       "title": "重点爆料",
       "hint": "机模、配色、影像、屏幕、电池和芯片线索先看。",
       "items": [
-        {
-          "id": "newsnow-86f68e6ff003",
-          "title": "iPhone18Pro系列六大升级",
-          "originalTitle": "",
-          "source": "微博热搜",
-          "brand": "iPhone",
-          "type": "爆料",
-          "trust": "待验证",
-          "date": "2026-08-18",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://s.weibo.com/weibo?q=%23iPhone18Pro%E7%B3%BB%E5%88%97%E5%85%AD%E5%A4%A7%E5%8D%87%E7%BA%A7%23&t=31&band_rank=17&Refer=top",
-          "image": "",
-          "verdict": "先看",
-          "takeaway": "iPhone18Pro系列六大升级",
-          "detail": "iPhone18Pro系列六大升级",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
         {
           "id": "auto-9b06e6615868",
           "title": "iPhone 18 Pro 系统功能 / AI 体验相关消息",
@@ -80,6 +57,54 @@ window.phoneRadarDaily = {
           "takeaway": "iPhone 有系统功能或 AI 体验更新，适合关注后续是否影响日常使用。",
           "detail": "iPhone 系统功能 / AI 体验相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
           "keyPoints": [
+            "爆料来源"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "auto-8cedd2013f4d",
+          "title": "消息称 OPPO Find X10 系列新机屏幕“加料”，支持目前行业最高规格 BT.2020 超广色域",
+          "originalTitle": "",
+          "source": "IT之家",
+          "brand": "OPPO",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-08-18",
+          "time": "06:56",
+          "publishedAt": "2026-08-18T06:56:41.000Z",
+          "url": "https://www.ithome.com/0/991/086.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/8/770e0575-9d36-4d9a-8ce4-730dcdfc0887.png",
+          "verdict": "先看",
+          "takeaway": "IT之家 8 月 18 日消息，博主 @数码闲聊站 今日爆料，OPPO Find X10 系列新机屏幕“加料”，联合研发的全新护眼基材， 能够支持目前行业最高规格的 BT.2020 超广色域 。 据称， 这块屏幕还实现了行业上最高有益红光和最低有害蓝光 。博主表示，在“绿厂”新的屏幕双产线加持下，这块屏还更进一步， 将支持边框超窄特性 。 博主还透露，友商…",
+          "detail": "IT之家 8 月 18 日消息，博主 @数码闲聊站 今日爆料，OPPO Find X10 系列新机屏幕“加料”，联合研发的全新护眼基材， 能够支持目前行业最高规格的 BT.2020 超广色域 。 据称， 这块屏幕还实现了行业上最高有益红光和最低有害蓝光 。博主表示，在“绿厂”新的屏幕双产线加持下，这块屏还更进一步， 将支持边框超窄特性 。 博主还透露，友商…",
+          "keyPoints": [
+            "屏幕形态",
+            "爆料来源"
+          ],
+          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "auto-f145418a57f1",
+          "title": "为满足 iPhone Ultra 等折叠屏需求，曝三星显示时隔 5 年重启 A7 OLED 工厂投资",
+          "originalTitle": "",
+          "source": "IT之家",
+          "brand": "Samsung",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-08-18",
+          "time": "04:56",
+          "publishedAt": "2026-08-18T04:56:45.000Z",
+          "url": "https://www.ithome.com/0/991/061.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/8/3a962f58-ca10-4ef8-969f-2ae93bb508a5.png",
+          "verdict": "先看",
+          "takeaway": "IT之家 8 月 18 日消息，韩媒“每日经济新闻”昨日（8 月 17 日）发布博文，报道称 三星显示（Samsung Display）重启忠清南道牙山第 2 园区新厂（A7）投资，目标在 2028 年初完工。 IT之家曾于 7 月报道， 三星显示位于牙山 8.6G IT OLED 生产线 A6 已于上月启动量产 ，而伴随着折叠手机屏幕需求快速增长，三星显…",
+          "detail": "IT之家 8 月 18 日消息，韩媒“每日经济新闻”昨日（8 月 17 日）发布博文，报道称 三星显示（Samsung Display）重启忠清南道牙山第 2 园区新厂（A7）投资，目标在 2028 年初完工。 IT之家曾于 7 月报道， 三星显示位于牙山 8.6G IT OLED 生产线 A6 已于上月启动量产 ，而伴随着折叠手机屏幕需求快速增长，三星显…",
+          "keyPoints": [
+            "屏幕形态",
             "爆料来源"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
@@ -177,59 +202,6 @@ window.phoneRadarDaily = {
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "newsnow-919b7faace39",
-          "title": "小米首款「万级大电池」手机将于8月27日在日本发布",
-          "originalTitle": "",
-          "source": "酷安热榜",
-          "brand": "Xiaomi",
-          "type": "爆料",
-          "trust": "高关注爆料源",
-          "date": "2026-08-18",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://www.coolapk.com/feed/73292822",
-          "image": "",
-          "verdict": "先看",
-          "takeaway": "小米首款「万级大电池」手机将于8月27日在日本发布",
-          "detail": "小米首款「万级大电池」手机将于8月27日在日本发布",
-          "keyPoints": [
-            "电池 / 充电"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        }
-      ]
-    },
-    {
-      "id": "iphone",
-      "title": "iPhone 重点",
-      "hint": "不是硬件爆料，但和 iPhone 体验或路线有关。",
-      "items": [
-        {
-          "id": "newsnow-3b3aa6844d65",
-          "title": "把「闪念胶囊」（Almost）放到 iPhone 锁屏",
-          "originalTitle": "",
-          "source": "少数派热榜",
-          "brand": "iPhone",
-          "type": "评测",
-          "trust": "媒体汇总",
-          "date": "2026-08-18",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://sspai.com/post/113219",
-          "image": "",
-          "verdict": "扫一眼",
-          "takeaway": "把「闪念胶囊」（Almost）放到 iPhone 锁屏",
-          "detail": "把「闪念胶囊」（Almost）放到 iPhone 锁屏",
-          "keyPoints": [
-            "评测"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是实际体验内容，买前适合重点看缺点和取舍。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         }
       ]
     },
@@ -238,29 +210,6 @@ window.phoneRadarDaily = {
       "title": "行业趋势",
       "hint": "看方向，不急着当购买依据。",
       "items": [
-        {
-          "id": "auto-367933cb123c",
-          "title": "代码显示谷歌正为 Pixel 系列手机开发“Connectivity Health”网络诊断功能，可帮助用户快速排错",
-          "originalTitle": "",
-          "source": "IT之家",
-          "brand": "Pixel",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-08-18",
-          "time": "01:17",
-          "publishedAt": "2026-08-18T01:17:38.000Z",
-          "url": "https://www.ithome.com/0/990/911.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/8/81722cf9-9e32-4b9e-99f8-b9db1abf9a40.jpg",
-          "verdict": "先看",
-          "takeaway": "IT之家 8 月 18 日消息，外媒 Android Authority 在检查安卓系统代码时，发现谷歌正计划为 Pixel 手机引入一项名为“Connectivity Health”的网络诊断功能，如果用户发现连不上网络，则可以使用相应功能尝试排错。 外媒设法在系统上启用了这一功能，在激活后，Connectivity Health 将位于 Pixel 手…",
-          "detail": "IT之家 8 月 18 日消息，外媒 Android Authority 在检查安卓系统代码时，发现谷歌正计划为 Pixel 手机引入一项名为“Connectivity Health”的网络诊断功能，如果用户发现连不上网络，则可以使用相应功能尝试排错。 外媒设法在系统上启用了这一功能，在激活后，Connectivity Health 将位于 Pixel 手…",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "中文源可以直接点开快读；看完只保留和购机有关的点。"
-        },
         {
           "id": "newsnow-4be8a0542294",
           "title": "最后还是把 iPhone air 回收换了荣耀 air",
@@ -281,52 +230,6 @@ window.phoneRadarDaily = {
             "爆料"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
-        {
-          "id": "newsnow-014e2b379803",
-          "title": "亮哥直播间中了个17标准版 兄弟们留x100还是17啊 #vivoX100# #iPhone17# #数码日常#",
-          "originalTitle": "",
-          "source": "酷安热榜",
-          "brand": "vivo",
-          "type": "爆料",
-          "trust": "高关注爆料源",
-          "date": "2026-08-18",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://www.coolapk.com/feed/73269892",
-          "image": "",
-          "verdict": "先看",
-          "takeaway": "亮哥直播间中了个17标准版 兄弟们留x100还是17啊 #vivoX100# #iPhone17# #数码日常#",
-          "detail": "亮哥直播间中了个17标准版 兄弟们留x100还是17啊 #vivoX100# #iPhone17# #数码日常#",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
-        {
-          "id": "coolapk-user-23ae03ed63d7",
-          "title": "JSCHEN小小狐：vivo X500 Ultra 主摄曝光：定制 1/1.12'' HPU",
-          "originalTitle": "",
-          "source": "JSCHEN小小狐",
-          "brand": "Samsung",
-          "type": "爆料",
-          "trust": "高可信爆料",
-          "date": "2026-08-18",
-          "time": "03:27",
-          "publishedAt": "2026-08-18T03:27:56.000Z",
-          "url": "https://www.coolapk.com/feed/73304076",
-          "image": "http://image.coolapk.com/feed/2026/0818/11/4702274_68fa5fab_3675_3592_556@1440x511.jpg",
-          "verdict": "扫一眼",
-          "takeaway": "『vivo X500 Ultra 主摄曝光：定制 1/1.12'' HPU』 三星 HPU： ◇ 200Mp 1/1.12'' LOFIC 规格 ◇ 基于 HPA 的定制 Sensor ◇ 预计由 X500 Ultra 搭载 #今日热点# #vivoX500# #vivoX500Ultra#",
-          "detail": "『vivo X500 Ultra 主摄曝光：定制 1/1.12'' HPU』 三星 HPU： ◇ 200Mp 1/1.12'' LOFIC 规格 ◇ 基于 HPA 的定制 Sensor ◇ 预计由 X500 Ultra 搭载 #今日热点# #vivoX500# #vivoX500Ultra#",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "可信度较高，但仍属于发布前线索。",
           "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         }
