@@ -1,6 +1,66 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-08-18T16:47:28.251Z",
+  "updatedAt": "2026-08-18T18:55:08.283Z",
   "news": [
+    {
+      "id": "auto-44d1239c7080",
+      "title": "Latest leak reveals almost all Galaxy S26 FE details before launch",
+      "source": "SamMobile",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-18",
+      "time": "18:09",
+      "publishedAt": "2026-08-18T18:09:29.000Z",
+      "url": "https://www.sammobile.com/news/latest-leak-reveals-almost-all-galaxy-s26-fe-details-before-launch/",
+      "image": "https://www.sammobile.com/wp-content/uploads/2026/08/galaxy-s26-fe-details-leak-4.jpeg",
+      "summary": "The steady stream of leaks over the past couple of weeks have made it clear that the Galaxy S26 FE launch isn't that far off. A new leak today has revealed almost all details abou…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-188c99c49dbf",
+      "title": "You can get an unlocked Google Pixel 11 for as little as $99 at Best Buy (sort of) — here's how",
+      "source": "Android Central",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-08-18",
+      "time": "17:17",
+      "publishedAt": "2026-08-18T17:17:19.000Z",
+      "url": "https://www.androidcentral.com/phones/google-pixel/you-can-get-an-unlocked-google-pixel-11-for-as-little-as-usd99-at-best-buy-sort-of-heres-how",
+      "image": "https://cdn.mos.cms.futurecdn.net/TGd8cqfUVmamDmwHN4Xph-1280-80.jpg",
+      "summary": "Best Buy is offering up to $700 off the base model Google Pixel 11 when you trade in an old or broken phone. You'll also get a gift card!",
+      "tags": [
+        "Pixel",
+        "评测",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-6825a4c028dc",
+      "title": "Leak suggests the Galaxy S26 FE’s hardware may not please everybody",
+      "source": "Android Authority",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-18",
+      "time": "16:58",
+      "publishedAt": "2026-08-18T16:58:55.000Z",
+      "url": "https://www.androidauthority.com/samsung-galaxy-s26-fe-design-specs-features-leak-3699924/",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2025/09/Samsung-Galaxy-S25-FE-in-all-four-colors-fanned-out-in-mans-hand.jpg",
+      "summary": "The Galaxy S26 FE may be a couple of weeks away from launch, but an extensive leak has spared no detail.",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-5c127eb08fca",
       "title": "New Galaxy S26 FE leak suggests its launch is near",
@@ -114,7 +174,7 @@ window.phoneRadarAuto = {
       "publishedAt": "2026-08-18T14:47:22.000Z",
       "url": "https://www.gizmochina.com/2026/08/18/redmi-m100-launches-with-7900mah-battery-snapdragon-4-gen-5-mobile-platform/",
       "image": "https://www.gizmochina.com/wp-content/uploads/2026/08/Redmi-M100-Launch-Specs-Price-300x200.jpg?x23692",
-      "summary": "Redmi is launching a brand-new smartphone series with the Redmi M100. The phone debuted in China without fanfare and is already on sale locally. The M100 is built around a 6.9-inc…",
+      "summary": "Redmi is launching a brand-new smartphone series with the Redmi M100. The phone debuted in China without fanfare and is already on sale locally. Also ReadThe Best Phones with 8000…",
       "tags": [
         "Xiaomi",
         "爆料",
@@ -217,26 +277,6 @@ window.phoneRadarAuto = {
       "summary": "IT之家 8 月 18 日消息，小米 REDMI M100 手机今日上新小米商城，其搭载第五代骁龙 4 移动平台、内置 7900mAh 电池， 定价 1799 元起 。 8GB+128GB 规格：1799 元 6GB+256GB 规格：1999 元 8GB+256GB 规格：2199 元 据介绍，小米 REDMI M100 手机主打护眼超大屏 + 耐用大电…",
       "tags": [
         "Xiaomi",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-cbfcfa0c4e58",
-      "title": "After years of copying Apple, Android users can stop envying these 4 iPhone features",
-      "source": "Android Police",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-18",
-      "time": "12:00",
-      "publishedAt": "2026-08-18T12:00:16.000Z",
-      "url": "https://www.androidpolice.com/iphone-envy-list-expired/",
-      "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2025/09/pxl_20250909_170856784.jpg",
-      "summary": "The iPhone advantages that made people switch in 2023 don't exist anymore",
-      "tags": [
-        "iPhone",
         "爆料",
         "自动抓取"
       ]
@@ -582,26 +622,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-dbc9afb96ea6",
-      "title": "Galaxy S26 FE appears in two colors ahead of official announcement",
-      "source": "SamMobile",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-18",
-      "time": "07:41",
-      "publishedAt": "2026-08-18T07:41:20.000Z",
-      "url": "https://www.sammobile.com/news/galaxy-s26-fe-two-colors-leaked-official-announcement/",
-      "image": "https://www.sammobile.com/wp-content/uploads/2026/08/Samsung-Galaxy-S25-FE-Colors-Grey-Mint.jpg",
-      "summary": "The Galaxy S26 FE is expected to go official sometime next month, but almost everything about the phone is already known. After its detailed specifications were leaked last week,…",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-c5527e0dcbbd",
       "title": "iQOO Z11S camera samples out ahead of launch",
       "source": "Gizmochina",
@@ -902,7 +922,7 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-6f3a3ca0849a",
+      "id": "newsnow-d0b97a55f841",
       "title": "现在该不该换手机",
       "source": "微博热搜",
       "brand": "行业",
@@ -912,31 +932,11 @@ window.phoneRadarAuto = {
       "date": "2026-08-18",
       "time": "",
       "publishedAt": "",
-      "url": "https://s.weibo.com/weibo?q=%23%E7%8E%B0%E5%9C%A8%E8%AF%A5%E4%B8%8D%E8%AF%A5%E6%8D%A2%E6%89%8B%E6%9C%BA%23&t=31&band_rank=20&Refer=top",
+      "url": "https://s.weibo.com/weibo?q=%23%E7%8E%B0%E5%9C%A8%E8%AF%A5%E4%B8%8D%E8%AF%A5%E6%8D%A2%E6%89%8B%E6%9C%BA%23&t=31&band_rank=7&Refer=top",
       "image": "",
       "summary": "现在该不该换手机",
       "tags": [
         "行业",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-01327fbfec9c",
-      "title": "小米手机平均售价创历史新高",
-      "source": "百度热搜",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-18",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E7%B1%B3%E6%89%8B%E6%9C%BA%E5%B9%B3%E5%9D%87%E5%94%AE%E4%BB%B7%E5%88%9B%E5%8E%86%E5%8F%B2%E6%96%B0%E9%AB%98",
-      "image": "",
-      "summary": "小米手机平均售价创历史新高",
-      "tags": [
-        "Xiaomi",
         "爆料",
         "NewsNow"
       ]
