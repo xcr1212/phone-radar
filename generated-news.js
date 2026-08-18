@@ -1,6 +1,306 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-08-18T10:45:35.893Z",
+  "updatedAt": "2026-08-18T13:06:42.350Z",
   "news": [
+    {
+      "id": "auto-62907a5f106d",
+      "title": "Fairphone (Gen. 6+) 模块化智能手机发布：高通骁龙 7s Gen 4 搭配 12GB 内存",
+      "source": "IT之家",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-18",
+      "time": "12:23",
+      "publishedAt": "2026-08-18T12:23:02.000Z",
+      "url": "https://www.ithome.com/0/991/312.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/8/4c6b82cc-4faa-4ad5-97b2-3c001dc1273c.jpg",
+      "summary": "IT之家 8 月 18 日消息，模块化消费电子硬件品牌 Fairphone 荷兰当地时间今日发布了其新一代模块化智能手机 Fairphone (Gen. 6+) ，这也是 该品牌首款正式在美国市场销售的产品 。 Fairphone (Gen. 6+) 由 12 个易于更换的零部件构成，获得 IP55 防尘防水、MIL-STD 810H 抗跌落认证。其 基于…",
+      "tags": [
+        "行业",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-d6c4149727cc",
+      "title": "竹本青：【REDMI M100 5G手机上架：骁龙4 Gen5处理器，720P LCD屏，售价1799元起】 8GB+12…",
+      "source": "竹本青",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-08-18",
+      "time": "12:09",
+      "publishedAt": "2026-08-18T12:09:20.000Z",
+      "url": "https://www.coolapk.com/feed/73312254",
+      "image": "http://image.coolapk.com/feed/2026/0818/20/4248714_2b24d1b9_5466_4561_998@1440x1920.jpg",
+      "summary": "【REDMI M100 5G手机上架：骁龙4 Gen5处理器，720P LCD屏，售价1799元起】 8GB+128GB —— 1799元 6GB+256GB —— 1999元 8GB+256GB —— 2199元 ● 6.9\"120Hz 720P LCD直屏 ● 骁龙4 Gen5处理器 ● LPDDR4X+UFS 2.2 ● 7900mAh电池+45W有…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-752d0ef9bbe2",
+      "title": "小米 REDMI M100 新机上市：骁龙 4 Gen5 处理器、7900mAh 电池，1799 元起",
+      "source": "IT之家",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-18",
+      "time": "12:05",
+      "publishedAt": "2026-08-18T12:05:07.000Z",
+      "url": "https://www.ithome.com/0/991/307.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/8/d93c2355-ed75-42fd-95fe-d01676f4ab71.jpg?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 8 月 18 日消息，小米 REDMI M100 手机今日上新小米商城，其搭载第五代骁龙 4 移动平台、内置 7900mAh 电池， 定价 1799 元起 。 8GB+128GB 规格：1799 元 6GB+256GB 规格：1999 元 8GB+256GB 规格：2199 元 据介绍，小米 REDMI M100 手机主打护眼超大屏 + 耐用大电…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-cbfcfa0c4e58",
+      "title": "After years of copying Apple, Android users can stop envying these 4 iPhone features",
+      "source": "Android Police",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-18",
+      "time": "12:00",
+      "publishedAt": "2026-08-18T12:00:16.000Z",
+      "url": "https://www.androidpolice.com/iphone-envy-list-expired/",
+      "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2025/09/pxl_20250909_170856784.jpg",
+      "summary": "The iPhone advantages that made people switch in 2023 don't exist anymore",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "weibo-6c3dbad0287f",
+      "title": "数码闲聊站：iQOO Neo11至尊版，这首发价格可还行？ 12GB+256GB——339…",
+      "source": "数码闲聊站",
+      "brand": "vivo",
+      "model": "vivo 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-08-18",
+      "time": "12:00",
+      "publishedAt": "2026-08-18T12:00:07.000Z",
+      "url": "https://weibo.com/6048569942/RdZIxs818",
+      "image": "",
+      "summary": "iQOO Neo11至尊版，这首发价格可还行？ 12GB+256GB——3399元/原价3699 16GB+256GB——3799元/原价4099 12GB+512GB——3999元/原价4299 16GB+512GB——4399元/原价4699",
+      "tags": [
+        "vivo",
+        "爆料",
+        "微博"
+      ]
+    },
+    {
+      "id": "coolapk-user-6627aa5bdfcf",
+      "title": "竹本青：iQOO Z11S 正式发布：首销1799元起",
+      "source": "竹本青",
+      "brand": "vivo",
+      "model": "vivo 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-08-18",
+      "time": "11:57",
+      "publishedAt": "2026-08-18T11:57:07.000Z",
+      "url": "https://www.coolapk.com/feed/73312036",
+      "image": "http://image.coolapk.com/feed/2026/0818/20/4248714_632e45d3_6746_4099_205@1500x3488.jpg",
+      "summary": "【iQOO Z11S 正式发布：10000mAh电池，天玑7500满血版，首销1799元起】 8GB+128GB —— 1799元 8GB+256GB —— 1999元 12GB+256GB —— 2299元 12GB+512GB —— 2699元 核心： ● 6.83\"1.5K 144Hz LTPS直屏 ● 天玑7500满血版芯片 ● LPDDR4X+U…",
+      "tags": [
+        "vivo",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "coolapk-user-de216cabf5d9",
+      "title": "竹本青：【iQOO Neo11 至尊版 正式发布：天玑9500M，2K 维信诺F2直屏，首销3399元起】 12GB+25…",
+      "source": "竹本青",
+      "brand": "vivo",
+      "model": "vivo 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-08-18",
+      "time": "11:56",
+      "publishedAt": "2026-08-18T11:56:28.000Z",
+      "url": "https://www.coolapk.com/feed/73312023",
+      "image": "http://image.coolapk.com/feed/2026/0818/20/4248714_f9124cb5_6545_6064_234@1500x4303.jpg",
+      "summary": "【iQOO Neo11 至尊版 正式发布：天玑9500M，2K 维信诺F2直屏，首销3399元起】 12GB+256GB —— 3399元 16GB+256GB —— 3799元 12GB+512GB —— 3999元 16GB+512GB —— 4399元 核心： ● 6.83\"2K 144Hz LTPS直屏 ● 天玑9500M+电竞芯Q2 ● LPDD…",
+      "tags": [
+        "vivo",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "coolapk-user-3c96fc0cb75a",
+      "title": "JSCHEN小小狐：『iQOO Neo11 至尊版发布：首销 3399 元起』 12GB + 256GB —— 3399 元（原价 3…",
+      "source": "JSCHEN小小狐",
+      "brand": "vivo",
+      "model": "vivo 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-08-18",
+      "time": "11:56",
+      "publishedAt": "2026-08-18T11:56:24.000Z",
+      "url": "https://www.coolapk.com/feed/73312022",
+      "image": "http://image.coolapk.com/feed/2026/0818/20/4702274_09fd0293_4463_6074_753@2160x2432.jpg",
+      "summary": "『iQOO Neo11 至尊版发布：首销 3399 元起』 12GB + 256GB —— 3399 元（原价 3699） 16GB + 256GB —— 3799 元（原价 4099） 12GB + 512GB —— 3999 元（原价 4299） 16GB + 512GB —— 4399 元（原价 4699） ◇ 外观 乘风、驰光白、疾影黑（玻纤） 金…",
+      "tags": [
+        "vivo",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "coolapk-user-87641f5dc341",
+      "title": "JSCHEN小小狐：『iQOO Z11S 正式发布：首销售价 1799 元起』 8GB + 128GB —— 1799 元（原价 19…",
+      "source": "JSCHEN小小狐",
+      "brand": "vivo",
+      "model": "vivo 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-08-18",
+      "time": "11:55",
+      "publishedAt": "2026-08-18T11:55:12.000Z",
+      "url": "https://www.coolapk.com/feed/73312008",
+      "image": "http://image.coolapk.com/feed/2026/0818/20/4702274_dce15456_4447_3151_428@2160x2432.jpg",
+      "summary": "『iQOO Z11S 正式发布：首销售价 1799 元起』 8GB + 128GB —— 1799 元（原价 1999） 8GB + 256GB —— 1999 元（原价 2199） 12GB + 256GB —— 2299 元（原价 2499） 12GB + 512GB —— 2699 元（原价 2899） ◇ 外观 万里浮光、雪屿白、墨岩黑 塑胶边框…",
+      "tags": [
+        "vivo",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "coolapk-user-e0e2603c5001",
+      "title": "竹本青：小米17系列最新销量曝光：全系突破597万台",
+      "source": "竹本青",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-08-18",
+      "time": "11:50",
+      "publishedAt": "2026-08-18T11:50:37.000Z",
+      "url": "https://www.coolapk.com/feed/73311938",
+      "image": "http://image.coolapk.com/feed/2026/0818/19/4248714_4e8f3fe8_3836_3686_499@1439x487.jpg",
+      "summary": "【小米 17系列 最新销量曝光：全系突破597万台，Ultra约24.1万台】 8月18日，博主「RD观测」分享第三方数据：截至2026年第32周，小米 17系列累计销量约597.43万台；其中，Ultra约24.12万台。 前几周数据如下： 小米 17系列 截至2026 W31 —— 约591.76万 截至2026 W30 —— 约583.9万 截至20…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "coolapk-user-92c296d3f45c",
+      "title": "竹本青：卢伟冰：小米新一代玄戒芯片即将发布",
+      "source": "竹本青",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-08-18",
+      "time": "11:31",
+      "publishedAt": "2026-08-18T11:31:57.000Z",
+      "url": "https://www.coolapk.com/feed/73311632",
+      "image": "http://image.coolapk.com/feed/2026/0818/19/4248714_087cf242_2716_2188_402@1440x1920.jpg",
+      "summary": "【卢伟冰：小米新一代玄戒芯片即将发布】 8月18日，小米集团合伙人卢伟冰在财报电话会上透露，去年小米成功推出的玄戒O1芯片，在三款终端上的累计出货量已超过百万，实现了旗舰芯片规模化验证，全新一代小米玄戒芯片也即将发布。 #今日热点# #玄戒# #HyperOS4#",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "coolapk-user-9dc27b8ce2fb",
+      "title": "竹本青：额，发布会怎么敢说满血铁三角的，M比标准版，GPU砍了一个核心",
+      "source": "竹本青",
+      "brand": "vivo",
+      "model": "vivo 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-08-18",
+      "time": "11:24",
+      "publishedAt": "2026-08-18T11:24:10.000Z",
+      "url": "https://www.coolapk.com/feed/73311515",
+      "image": "",
+      "summary": "额，发布会怎么敢说满血铁三角的，M比标准版，GPU砍了一个核心",
+      "tags": [
+        "vivo",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-5ff91a9f217a",
+      "title": "Two camera features may be unique to the iPhone 18 Pro Max, suggests leaker",
+      "source": "9to5Mac",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-18",
+      "time": "11:04",
+      "publishedAt": "2026-08-18T11:04:52.000Z",
+      "url": "https://9to5mac.com/2026/08/18/two-camera-features-may-be-unique-to-the-iphone-18-pro-max-suggests-leaker/",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/iphone-18-pro-pro-max-mockup-di.jpg?quality=82&strip=all&w=1600",
+      "summary": "Whether or not you need to buy Apple’s largest iPhone Pro in order to get the best camera features has varied by generation. So far, reporting has mostly suggested that there will…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-ec4b9a0fd516",
+      "title": "竹本青：小米将参展IFA 2026：米家品牌规模入欧起点",
+      "source": "竹本青",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-08-18",
+      "time": "11:04",
+      "publishedAt": "2026-08-18T11:04:31.000Z",
+      "url": "https://www.coolapk.com/feed/73311192",
+      "image": "http://image.coolapk.com/feed/2026/0818/19/4248714_84497ea1_1069_8859_930@1271x1605.jpg",
+      "summary": "【小米将参展IFA 2026：人车家全生态亮相，将是米家品牌规模入欧起点】 8月18日，小米高管徐洁云透露，小米将以人车家全生态完整阵容参加9月德国IFA展会。本次参展，将是米家（MIJIA）品牌正式规模进入欧洲市场的起点。 本月7日，小米印度营销与公关副总监已官宣，米家（MIJIA）品牌即将登陆印度市场，将与Xiaomi、REDMI、POCO共同构成小米…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-0a33a3068a02",
+      "title": "小米 12S Pro、REDMI Note 12R 等机型终止软件维护支持",
+      "source": "IT之家",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-18",
+      "time": "10:54",
+      "publishedAt": "2026-08-18T10:54:10.000Z",
+      "url": "https://www.ithome.com/0/991/290.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/8/4cbdc467-2e7f-4f59-84bd-b4c9108e5fca.png?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 8 月 18 日消息，今日有用户发现，小米安全中心于 8 月 17 日更新了终止维护的机型名单，包括小米 12S Pro 等经典产品已经停止软件支持。 小米不再为进入终止软件支持产品列表的相关产品提供软件或固件更新（含安全性更新），也可能不再响应针对这些产品的安全漏洞报告。但如果遇到非常严重的安全漏洞，即使设备已经停止软件支持，小米也可能会提供必…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-a21f43d4d32d",
       "title": "Samsung makes it easier to own and maintain a Galaxy Z Fold 8 or Fold 8 Ultra in India",
@@ -142,46 +442,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "coolapk-user-1cb033c94daf",
-      "title": "竹本青：小米集团2026上半年及Q2财报公布：上半年总营收破2080亿",
-      "source": "竹本青",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-08-18",
-      "time": "09:37",
-      "publishedAt": "2026-08-18T09:37:51.000Z",
-      "url": "https://www.coolapk.com/feed/73309784",
-      "image": "http://image.coolapk.com/feed/2026/0818/17/4248714_1f8cbe47_5870_0203_917@983x8421.jpg",
-      "summary": "【小米集团2026上半年及Q2财报公布：上半年总营收破2080亿，Q2单季营收再超千亿】 2026上半年： ● 总营收：2080.63亿元，同比下降8.4% ● 毛利润：434.19亿元，同比下降15.7% ● 毛利率：20.87%，同比下降1.80个百分点 ● 归母净利润：141.98亿元，同比下降37.6% ● 经调整净利润：122.91亿元，同比下降…",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
-      "id": "coolapk-user-5f4222279e00",
-      "title": "竹本青：OriginOS 7 官方爆料：手动切换界面质感",
-      "source": "竹本青",
-      "brand": "vivo",
-      "model": "vivo 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-08-18",
-      "time": "09:02",
-      "publishedAt": "2026-08-18T09:02:44.000Z",
-      "url": "https://www.coolapk.com/feed/73309174",
-      "image": "http://image.coolapk.com/feed/2026/0818/17/4248714_36ae7de9_3762_7547_719-livepic@2896x1630.jpg",
-      "summary": "【OriginOS 7 官方爆料：手动切换界面质感】 「自然」：真实感和可读性更均衡 「真实」：更通透 「柔和」：更在意清晰易读 #OriginOS6# #今日热点# #OriginOS7#",
-      "tags": [
-        "vivo",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
       "id": "auto-96abc7de793c",
       "title": "Huawei Mate 90 to use Kirin 9030, Pro/RS models to adopt Tau Law chips",
       "source": "Huawei Central",
@@ -239,26 +499,6 @@ window.phoneRadarAuto = {
         "Samsung",
         "爆料",
         "自动抓取"
-      ]
-    },
-    {
-      "id": "coolapk-user-6454197ab73e",
-      "title": "竹本青：OriginOS 7 官方爆料：材质升级，更通透自然的效果",
-      "source": "竹本青",
-      "brand": "vivo",
-      "model": "vivo 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-08-18",
-      "time": "08:07",
-      "publishedAt": "2026-08-18T08:07:02.000Z",
-      "url": "https://www.coolapk.com/feed/73308270",
-      "image": "http://image.coolapk.com/feed/2026/0818/16/4248714_3fb524a9_0420_1721_721-livepic@1440x1920.jpg",
-      "summary": "【OriginOS 7 官方爆料：材质升级，更通透自然的效果】 ● 复杂背景下 材质遵循真实的光学规律发生折射，前后层次更加分明，让你时刻感知环境变化。 ● 信息始终看得清 当文字与背景对比度不足时，系统会实时识别这些区域，再通过像素级透彩技术进行局部优化。该透的地方继续透，该清楚的信息依然清楚。 ● 兼顾性能和功耗 全新的视效渲染引擎，配合更高效的渲染算…",
-      "tags": [
-        "vivo",
-        "爆料",
-        "酷安博主"
       ]
     },
     {
@@ -342,26 +582,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "coolapk-user-44a878611ba6",
-      "title": "竹本青：REDMI 产品经理科普“顶部刷NFC”使用方式",
-      "source": "竹本青",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-08-18",
-      "time": "07:22",
-      "publishedAt": "2026-08-18T07:22:39.000Z",
-      "url": "https://www.coolapk.com/feed/73307548",
-      "image": "http://image.coolapk.com/feed/2026/0818/15/4248714_ba9eca85_7757_9987_390@1439x1451.jpg",
-      "summary": "【REDMI 产品经理科普“顶部刷NFC”使用方式：机身背部上侧感应，顶部边框无法触发】 8月18日，REDMI 产品经理 笋寸再发文，针对K90 Pro Max、K100 Pro Max的“顶部刷NFC”功能进行科普解读。 她介绍，NFC线圈布置在手机背部上侧，正确刷卡方式为，将机身背部上侧贴近读卡器完成识别，并不能通过顶部的金属边框触发刷卡。 #今日热…",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
       "id": "auto-f2a527edcd6d",
       "title": "Honor Magic 9 series full back design revealed in new renders",
       "source": "Huawei Central",
@@ -419,26 +639,6 @@ window.phoneRadarAuto = {
         "vivo",
         "爆料",
         "自动抓取"
-      ]
-    },
-    {
-      "id": "coolapk-user-5c426fcd9b56",
-      "title": "竹本青：OPPO Find X10系列爆料：全新护眼基材、BT.2020色域",
-      "source": "竹本青",
-      "brand": "OPPO",
-      "model": "OPPO 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-08-18",
-      "time": "06:01",
-      "publishedAt": "2026-08-18T06:01:58.000Z",
-      "url": "https://www.coolapk.com/feed/73306346",
-      "image": "http://image.coolapk.com/feed/2026/0818/14/4248714_7f87d66c_2916_9093_47@1440x594.jpg",
-      "summary": "【OPPO Find X10系列 屏幕爆料：联合研发全新护眼基材，支持BT.2020色域】 ● 联合研发全新护眼基材 ● 边框超窄、超通透 ● 支持BT.2020超广色域 ● 行业上最高有益红光和最低有害蓝光 #今日热点# #OPPOFindX9Pro# #ColorOS16#",
-      "tags": [
-        "OPPO",
-        "爆料",
-        "酷安博主"
       ]
     },
     {
@@ -582,26 +782,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-97e0fd6b70a1",
-      "title": "REDMI K90／K100 Pro Max 隐藏升级点：顶部刷NFC",
-      "source": "酷安热榜",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-08-18",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73298349",
-      "image": "",
-      "summary": "REDMI K90／K100 Pro Max 隐藏升级点：顶部刷NFC",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
       "id": "newsnow-c8ce2642cf49",
       "title": "华为 Mate90 Pro Max 曝光：新一代满血芯片",
       "source": "酷安热榜",
@@ -622,7 +802,27 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-216e11518a5b",
+      "id": "newsnow-97e0fd6b70a1",
+      "title": "REDMI K90／K100 Pro Max 隐藏升级点：顶部刷NFC",
+      "source": "酷安热榜",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-08-18",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/73298349",
+      "image": "",
+      "summary": "REDMI K90／K100 Pro Max 隐藏升级点：顶部刷NFC",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-bd84ee328efb",
       "title": "手机价格涨20%以上",
       "source": "微博热搜",
       "brand": "行业",
@@ -632,7 +832,27 @@ window.phoneRadarAuto = {
       "date": "2026-08-18",
       "time": "",
       "publishedAt": "",
-      "url": "https://s.weibo.com/weibo?q=%23%E6%89%8B%E6%9C%BA%E4%BB%B7%E6%A0%BC%E6%B6%A820%25%E4%BB%A5%E4%B8%8A%23&t=31&band_rank=8&Refer=top",
+      "url": "https://s.weibo.com/weibo?q=%23%E6%89%8B%E6%9C%BA%E4%BB%B7%E6%A0%BC%E6%B6%A820%25%E4%BB%A5%E4%B8%8A%23&t=31&band_rank=20&Refer=top",
+      "image": "",
+      "summary": "手机价格涨20%以上",
+      "tags": [
+        "行业",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-52ade30bb9b3",
+      "title": "手机价格涨20%以上",
+      "source": "百度热搜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-18",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.baidu.com/s?wd=%E6%89%8B%E6%9C%BA%E4%BB%B7%E6%A0%BC%E6%B6%A820%25%E4%BB%A5%E4%B8%8A",
       "image": "",
       "summary": "手机价格涨20%以上",
       "tags": [
@@ -762,26 +982,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-a7ad782c19e4",
-      "title": "Galaxy Z Fold 8's runaway success just sparked Samsung's boldest foldable move yet",
-      "source": "Android Police",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-17",
-      "time": "17:30",
-      "publishedAt": "2026-08-17T17:30:50.000Z",
-      "url": "https://www.androidpolice.com/samsungs-next-wide-foldable-could-be-the-screen-breakthrough-apples-iphone-ultra-wont-have/",
-      "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2026/08/samsung-galaxy-z-fold-8-house-of-dragons.jpg",
-      "summary": "The 2027 lineup will reportedly include a wider Fold",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-0a7ddaabde54",
       "title": "T-Mobile is giving away the Google Pixel 11 Pro XL for FREE without trade — so what's the catch?",
       "source": "Android Central",
@@ -855,26 +1055,6 @@ window.phoneRadarAuto = {
       "url": "https://www.sammobile.com/news/new-galaxy-z-fold-8-campaign-positions-it-as-a-companion-for-fatherhood/",
       "image": "",
       "summary": "Samsung has rolled out a new ad campaign for the Galaxy Z Fold 8 and the Galaxy Z Fold 8 Ultra which takes a slightly different approach than what you'd expect from a smartphone a…",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-9685a2fd5ba4",
-      "title": "Galaxy Z Fold 8 gets a $200 no trade-in credit, here’s what you can use it for",
-      "source": "SamMobile",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-17",
-      "time": "14:55",
-      "publishedAt": "2026-08-17T14:55:05.000Z",
-      "url": "https://www.sammobile.com/news/galaxy-z-fold-8-gets-a-200-no-trade-in-credit-heres-what-you-can-use-it-for/",
-      "image": "",
-      "summary": "For a limited time only, Samsung is offering customers who buy the Galaxy Z Fold 8 through its online store in the United States a $200 trade-in credit if they don't have a device…",
       "tags": [
         "Samsung",
         "爆料",
@@ -1059,26 +1239,6 @@ window.phoneRadarAuto = {
         "Pixel",
         "评测",
         "自动抓取"
-      ]
-    },
-    {
-      "id": "weibo-c39a153147ea",
-      "title": "数码闲聊站：独家信息：子系另一台骁龙8E6 Pro新旗舰，工程机50Mp 1/1.3\" F…",
-      "source": "数码闲聊站",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-08-17",
-      "time": "03:15",
-      "publishedAt": "2026-08-17T03:15:00.000Z",
-      "url": "https://weibo.com/6048569942/RdMQTFKuM",
-      "image": "https://tvax1.sinaimg.cn/mw2000/006BlblIgy1ig58n2etprj30xv0evtdl.jpg",
-      "summary": "独家信息，子系另一台骁龙8E6 Pro新旗舰，工程机50Mp 1/1.3\" F1.68超大底主摄+50Mp F2.0小底超广角+50Mp 1/1.95\" F2.65中底潜望镜，镜组看起来有点像倒置方案，长焦微距待定👖",
-      "tags": [
-        "行业",
-        "爆料",
-        "微博"
       ]
     }
   ]
