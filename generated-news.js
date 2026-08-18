@@ -1,6 +1,26 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-08-18T18:55:08.283Z",
+  "updatedAt": "2026-08-18T20:39:22.334Z",
   "news": [
+    {
+      "id": "auto-2e770fcc9701",
+      "title": "The Sideload 041: A vision of Pixels to come",
+      "source": "9to5Google",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-18",
+      "time": "20:30",
+      "publishedAt": "2026-08-18T20:30:00.000Z",
+      "url": "https://9to5google.com/2026/08/18/the-sideload-041-a-vision-of-pixels-to-come/",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2025/08/sideload-podcast-wider-copy-1.jpg?quality=82&strip=all&w=1600",
+      "summary": "Welcome to episode 41 of The Sideload, a 9to5Google podcast. This week, Ben Schoon joins Will to discuss the future of Pixel, as Google’s Pixel 11 attempts to bridge the gap betwe…",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-44d1239c7080",
       "title": "Latest leak reveals almost all Galaxy S26 FE details before launch",
@@ -142,26 +162,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-da5ab696f24a",
-      "title": "The Pixel 11 Pro's best camera upgrade I care about has nothing to do with 120x zoom",
-      "source": "Android Police",
-      "brand": "Pixel",
-      "model": "Pixel 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-18",
-      "time": "15:15",
-      "publishedAt": "2026-08-18T15:15:16.000Z",
-      "url": "https://www.androidpolice.com/pixel-11-pro-best-camera-upgrades-nothing-to-do-120x-zoom/",
-      "image": "",
-      "summary": "Instant Night Sight and Camera Looks",
-      "tags": [
-        "Pixel",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-ca6dfce9052f",
       "title": "Redmi M100 launches with 7900mAh battery, Snapdragon 4 Gen 5 mobile platform",
       "source": "Gizmochina",
@@ -242,26 +242,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "coolapk-user-d6c4149727cc",
-      "title": "竹本青：【REDMI M100 5G手机上架：骁龙4 Gen5处理器，720P LCD屏，售价1799元起】 8GB+12…",
-      "source": "竹本青",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-08-18",
-      "time": "12:09",
-      "publishedAt": "2026-08-18T12:09:20.000Z",
-      "url": "https://www.coolapk.com/feed/73312254",
-      "image": "http://image.coolapk.com/feed/2026/0818/20/4248714_2b24d1b9_5466_4561_998@1440x1920.jpg",
-      "summary": "【REDMI M100 5G手机上架：骁龙4 Gen5处理器，720P LCD屏，售价1799元起】 8GB+128GB —— 1799元 6GB+256GB —— 1999元 8GB+256GB —— 2199元 ● 6.9\"120Hz 720P LCD直屏 ● 骁龙4 Gen5处理器 ● LPDDR4X+UFS 2.2 ● 7900mAh电池+45W有…",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
       "id": "auto-752d0ef9bbe2",
       "title": "小米 REDMI M100 新机上市：骁龙 4 Gen5 处理器、7900mAh 电池，1799 元起",
       "source": "IT之家",
@@ -299,26 +279,6 @@ window.phoneRadarAuto = {
         "vivo",
         "爆料",
         "微博"
-      ]
-    },
-    {
-      "id": "coolapk-user-6627aa5bdfcf",
-      "title": "竹本青：iQOO Z11S 正式发布：首销1799元起",
-      "source": "竹本青",
-      "brand": "vivo",
-      "model": "vivo 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-08-18",
-      "time": "11:57",
-      "publishedAt": "2026-08-18T11:57:07.000Z",
-      "url": "https://www.coolapk.com/feed/73312036",
-      "image": "http://image.coolapk.com/feed/2026/0818/20/4248714_632e45d3_6746_4099_205@1500x3488.jpg",
-      "summary": "【iQOO Z11S 正式发布：10000mAh电池，天玑7500满血版，首销1799元起】 8GB+128GB —— 1799元 8GB+256GB —— 1999元 12GB+256GB —— 2299元 12GB+512GB —— 2699元 核心： ● 6.83\"1.5K 144Hz LTPS直屏 ● 天玑7500满血版芯片 ● LPDDR4X+U…",
-      "tags": [
-        "vivo",
-        "爆料",
-        "酷安博主"
       ]
     },
     {
@@ -623,7 +583,7 @@ window.phoneRadarAuto = {
     },
     {
       "id": "auto-c5527e0dcbbd",
-      "title": "iQOO Z11S camera samples out ahead of launch",
+      "title": "iQOO Z11S camera samples revealed",
       "source": "Gizmochina",
       "brand": "vivo",
       "model": "vivo 相关机型",
@@ -633,7 +593,7 @@ window.phoneRadarAuto = {
       "time": "07:28",
       "publishedAt": "2026-08-18T07:28:30.000Z",
       "url": "https://www.gizmochina.com/2026/08/18/iqoo-z11s-camera-samples-out-ahead-of-launch/",
-      "image": "https://www.gizmochina.com/wp-content/uploads/2026/08/iqoo-z11s-camera-sample-1-300x169.jpg?x23692",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/08/iqoo-z11s-camera-sample-300x200.jpg?x23692",
       "summary": "The iQOO Z11S is only a couple of hours away from the big reveal, but the company has already shared quite a lot of details about the phone, with the latest ones being detailed ca…",
       "tags": [
         "vivo",
@@ -862,21 +822,21 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-4be8a0542294",
-      "title": "最后还是把 iPhone air 回收换了荣耀 air",
+      "id": "newsnow-bebc5ca42b22",
+      "title": "#REDMIK90至尊版# #HyperOS4# 为什么8e5的骁龙后面有个R标，而8e没有[受虐滑稽]",
       "source": "酷安热榜",
-      "brand": "HONOR",
-      "model": "HONOR 相关机型",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-08-18",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73286226",
+      "url": "https://www.coolapk.com/feed/73287872",
       "image": "",
-      "summary": "最后还是把 iPhone air 回收换了荣耀 air",
+      "summary": "#REDMIK90至尊版# #HyperOS4# 为什么8e5的骁龙后面有个R标，而8e没有[受虐滑稽]",
       "tags": [
-        "HONOR",
+        "Xiaomi",
         "爆料",
         "NewsNow"
       ]
@@ -902,8 +862,28 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-97e0fd6b70a1",
-      "title": "REDMI K90／K100 Pro Max 隐藏升级点：顶部刷NFC",
+      "id": "newsnow-d9fddecf2b3e",
+      "title": "iQOO Z11S 正式发布：首销1799元起",
+      "source": "酷安热榜",
+      "brand": "vivo",
+      "model": "vivo 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-08-18",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/73312036",
+      "image": "",
+      "summary": "iQOO Z11S 正式发布：首销1799元起",
+      "tags": [
+        "vivo",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-ae1699ce7088",
+      "title": "【REDMI M100 5G手机上架：骁龙4 Gen5处理器，720P LCD屏，售价1799元起】",
       "source": "酷安热榜",
       "brand": "Xiaomi",
       "model": "Xiaomi 相关机型",
@@ -912,9 +892,9 @@ window.phoneRadarAuto = {
       "date": "2026-08-18",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73298349",
+      "url": "https://www.coolapk.com/feed/73312254",
       "image": "",
-      "summary": "REDMI K90／K100 Pro Max 隐藏升级点：顶部刷NFC",
+      "summary": "【REDMI M100 5G手机上架：骁龙4 Gen5处理器，720P LCD屏，售价1799元起】",
       "tags": [
         "Xiaomi",
         "爆料",
@@ -922,7 +902,47 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-d0b97a55f841",
+      "id": "newsnow-4be8a0542294",
+      "title": "最后还是把 iPhone air 回收换了荣耀 air",
+      "source": "酷安热榜",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-08-18",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/73286226",
+      "image": "",
+      "summary": "最后还是把 iPhone air 回收换了荣耀 air",
+      "tags": [
+        "HONOR",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-a499d3b9949d",
+      "title": "澎湃4真是巨巨巨流畅，关超大核的顺手程度比澎湃3开超大核还高，就是不知道K90ProMax没有音乐灵动岛的问题是系统问题还是我哪个模块不适配[cos滑稽]#RedmiK90ProMax#",
+      "source": "酷安热榜",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-08-18",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/73315792",
+      "image": "",
+      "summary": "澎湃4真是巨巨巨流畅，关超大核的顺手程度比澎湃3开超大核还高，就是不知道K90ProMax没有音乐灵动岛的问题是系统问题还是我哪个模块不适配[cos滑稽]#RedmiK90ProMax#",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-2bb3ce41cc21",
       "title": "现在该不该换手机",
       "source": "微博热搜",
       "brand": "行业",
@@ -932,7 +952,7 @@ window.phoneRadarAuto = {
       "date": "2026-08-18",
       "time": "",
       "publishedAt": "",
-      "url": "https://s.weibo.com/weibo?q=%23%E7%8E%B0%E5%9C%A8%E8%AF%A5%E4%B8%8D%E8%AF%A5%E6%8D%A2%E6%89%8B%E6%9C%BA%23&t=31&band_rank=7&Refer=top",
+      "url": "https://s.weibo.com/weibo?q=%23%E7%8E%B0%E5%9C%A8%E8%AF%A5%E4%B8%8D%E8%AF%A5%E6%8D%A2%E6%89%8B%E6%9C%BA%23&t=31&band_rank=13&Refer=top",
       "image": "",
       "summary": "现在该不该换手机",
       "tags": [
@@ -1035,26 +1055,6 @@ window.phoneRadarAuto = {
       "url": "https://9to5mac.com/2026/08/17/leaker-details-a20-pro-chips-new-speed-gains/",
       "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/12/a20-pro-chip-mockup.jpg?quality=82&strip=all&w=1600",
       "summary": "iPhone 18 Pro and iPhone Ultra will be unveiled next month with a new A20 Pro chip, and this weekend a reputable leaker shared performance gains to expect per supply chain sources.",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-9b06e6615868",
-      "title": "iPhone 18 Pro and iPhone Ultra: New Details Leak as Apple Event Nears",
-      "source": "MacRumors",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-17",
-      "time": "18:09",
-      "publishedAt": "2026-08-17T18:09:40.000Z",
-      "url": "https://www.macrumors.com/2026/08/17/iphone-18-pro-and-iphone-ultra-rumors/",
-      "image": "https://images.macrumors.com/article-new/2026/08/iPhone-18-Pro-Dark-Cherry-Feature.jpg",
-      "summary": "\"iPhone Ultra\" supply will be very limited when the foldable device is first released later this year, according to Fixed Focus Digital , a known leaker on the Chinese social medi…",
       "tags": [
         "iPhone",
         "爆料",

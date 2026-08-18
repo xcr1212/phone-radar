@@ -1,12 +1,12 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-08-18T18:55:08.283Z",
+  "updatedAt": "2026-08-18T20:39:22.334Z",
   "issueDate": "2026-08-18",
   "issue": "VOL.260818",
   "title": "手机情报日报",
-  "intro": "今日筛出 8 条重点，其中 8 条是重点爆料，包含 3 条 iPhone 相关、0 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 8 条重点，其中 8 条是重点爆料，包含 2 条 iPhone 相关、0 条官方确认、0 条参数线索。",
   "stats": {
     "total": 8,
-    "iphone": 3,
+    "iphone": 2,
     "leaks": 8,
     "official": 0,
     "specs": 0
@@ -35,29 +35,6 @@ window.phoneRadarDaily = {
           "detail": "iPhone 18 Pro Max 影像能力相关消息。重点看影像功能是否和新机硬件有关，如果只是拍摄案例或营销内容，参考价值会低一些。",
           "keyPoints": [
             "影像硬件",
-            "爆料来源"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "auto-9b06e6615868",
-          "title": "iPhone 18 Pro 系统功能 / AI 体验相关消息",
-          "originalTitle": "",
-          "source": "MacRumors",
-          "brand": "iPhone",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-08-17",
-          "time": "18:09",
-          "publishedAt": "2026-08-17T18:09:40.000Z",
-          "url": "https://www.macrumors.com/2026/08/17/iphone-18-pro-and-iphone-ultra-rumors/",
-          "image": "https://images.macrumors.com/article-new/2026/08/iPhone-18-Pro-Dark-Cherry-Feature.jpg",
-          "verdict": "先看",
-          "takeaway": "iPhone 有系统功能或 AI 体验更新，适合关注后续是否影响日常使用。",
-          "detail": "iPhone 18 Pro 系统功能 / AI 体验相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
-          "keyPoints": [
             "爆料来源"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
@@ -176,6 +153,30 @@ window.phoneRadarDaily = {
           "detail": "华为 Mate90 Pro Max 曝光：新一代满血芯片",
           "keyPoints": [
             "芯片 / 性能"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "newsnow-ae1699ce7088",
+          "title": "【REDMI M100 5G手机上架：骁龙4 Gen5处理器，720P LCD屏，售价1799元起】",
+          "originalTitle": "",
+          "source": "酷安热榜",
+          "brand": "Xiaomi",
+          "type": "爆料",
+          "trust": "高关注爆料源",
+          "date": "2026-08-18",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://www.coolapk.com/feed/73312254",
+          "image": "",
+          "verdict": "先看",
+          "takeaway": "【REDMI M100 5G手机上架：骁龙4 Gen5处理器，720P LCD屏，售价1799元起】",
+          "detail": "【REDMI M100 5G手机上架：骁龙4 Gen5处理器，720P LCD屏，售价1799元起】",
+          "keyPoints": [
+            "芯片 / 性能",
+            "成本 / 价格"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
