@@ -1,6 +1,26 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-08-18T20:39:22.334Z",
+  "updatedAt": "2026-08-18T22:40:49.186Z",
   "news": [
+    {
+      "id": "auto-79c1fa7803f3",
+      "title": "Massive Galaxy S26 FE leak reveals almost everything ahead of launch",
+      "source": "Android Central",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-08-18",
+      "time": "21:22",
+      "publishedAt": "2026-08-18T21:22:55.000Z",
+      "url": "https://www.androidcentral.com/phones/samsung-galaxy/galaxy-s26-fe-just-got-its-biggest-leak-ahead-of-the-launch",
+      "image": "https://cdn.mos.cms.futurecdn.net/7tF3GgW37VhPfKZNvsHHSF-1280-80.jpg",
+      "summary": "Twenty-eight marketing images have leaked for the Galaxy S26 FE, revealing design, specs, colors, and software features in full.",
+      "tags": [
+        "Samsung",
+        "评测",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-2e770fcc9701",
       "title": "The Sideload 041: A vision of Pixels to come",
@@ -917,46 +937,6 @@ window.phoneRadarAuto = {
       "summary": "最后还是把 iPhone air 回收换了荣耀 air",
       "tags": [
         "HONOR",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-a499d3b9949d",
-      "title": "澎湃4真是巨巨巨流畅，关超大核的顺手程度比澎湃3开超大核还高，就是不知道K90ProMax没有音乐灵动岛的问题是系统问题还是我哪个模块不适配[cos滑稽]#RedmiK90ProMax#",
-      "source": "酷安热榜",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-08-18",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73315792",
-      "image": "",
-      "summary": "澎湃4真是巨巨巨流畅，关超大核的顺手程度比澎湃3开超大核还高，就是不知道K90ProMax没有音乐灵动岛的问题是系统问题还是我哪个模块不适配[cos滑稽]#RedmiK90ProMax#",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-2bb3ce41cc21",
-      "title": "现在该不该换手机",
-      "source": "微博热搜",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "待验证",
-      "date": "2026-08-18",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://s.weibo.com/weibo?q=%23%E7%8E%B0%E5%9C%A8%E8%AF%A5%E4%B8%8D%E8%AF%A5%E6%8D%A2%E6%89%8B%E6%9C%BA%23&t=31&band_rank=13&Refer=top",
-      "image": "",
-      "summary": "现在该不该换手机",
-      "tags": [
-        "行业",
         "爆料",
         "NewsNow"
       ]

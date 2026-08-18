@@ -1,5 +1,5 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-08-18T20:39:22.334Z",
+  "updatedAt": "2026-08-18T22:40:49.186Z",
   "issueDate": "2026-08-18",
   "issue": "VOL.260818",
   "title": "手机情报日报",
