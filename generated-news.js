@@ -1,6 +1,146 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-08-18T07:03:24.974Z",
+  "updatedAt": "2026-08-18T08:52:21.894Z",
   "news": [
+    {
+      "id": "auto-976782317f07",
+      "title": "Hands-on videos show off Galaxy S26 FE, confirm that crazy Horizontal Lock video mode",
+      "source": "Android Authority",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-18",
+      "time": "08:13",
+      "publishedAt": "2026-08-18T08:13:09.000Z",
+      "url": "https://www.androidauthority.com/samsung-galaxy-s26-fe-hands-on-videos-leak-3699595/",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2026/08/Samsung-Galaxy-S26-FE-hands-on-video-_samz02.jpg",
+      "summary": "The Galaxy S26 FE is shown off in all its glory in these clips, along with photo samples, camera features, and more.",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-6454197ab73e",
+      "title": "竹本青：OriginOS 7 官方爆料：材质升级，更通透自然的效果",
+      "source": "竹本青",
+      "brand": "vivo",
+      "model": "vivo 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-08-18",
+      "time": "08:07",
+      "publishedAt": "2026-08-18T08:07:02.000Z",
+      "url": "https://www.coolapk.com/feed/73308270",
+      "image": "http://image.coolapk.com/feed/2026/0818/16/4248714_3fb524a9_0420_1721_721-livepic@1440x1920.jpg",
+      "summary": "【OriginOS 7 官方爆料：材质升级，更通透自然的效果】 ● 复杂背景下 材质遵循真实的光学规律发生折射，前后层次更加分明，让你时刻感知环境变化。 ● 信息始终看得清 当文字与背景对比度不足时，系统会实时识别这些区域，再通过像素级透彩技术进行局部优化。该透的地方继续透，该清楚的信息依然清楚。 ● 兼顾性能和功耗 全新的视效渲染引擎，配合更高效的渲染算…",
+      "tags": [
+        "vivo",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-f9c458c41a43",
+      "title": "More details on Huawei Mate 90 RS display and battery leaked",
+      "source": "Huawei Central",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-18",
+      "time": "08:04",
+      "publishedAt": "2026-08-18T08:04:51.000Z",
+      "url": "https://www.huaweicentral.com/huawei-mate-90-rs-display-battery/",
+      "image": "https://www.huaweicentral.com/wp-content/uploads/2026/08/Mate90RS-leak.jpg",
+      "summary": "A credible Weibo tipster has brought more details on the Huawei Mate 90 RS Ultimate Design’s specifications, including display and battery capacity. The leak says that the top-tie…",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-dbc9afb96ea6",
+      "title": "Galaxy S26 FE appears in two colors ahead of official announcement",
+      "source": "SamMobile",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-18",
+      "time": "07:41",
+      "publishedAt": "2026-08-18T07:41:20.000Z",
+      "url": "https://www.sammobile.com/news/galaxy-s26-fe-two-colors-leaked-official-announcement/",
+      "image": "https://www.sammobile.com/wp-content/uploads/2026/08/Samsung-Galaxy-S25-FE-Colors-Grey-Mint.jpg",
+      "summary": "The Galaxy S26 FE is expected to go official sometime next month, but almost everything about the phone is already known. After its detailed specifications were leaked last week,…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-c5527e0dcbbd",
+      "title": "iQOO Z11S camera samples out ahead of launch",
+      "source": "Gizmochina",
+      "brand": "vivo",
+      "model": "vivo 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-18",
+      "time": "07:28",
+      "publishedAt": "2026-08-18T07:28:30.000Z",
+      "url": "https://www.gizmochina.com/2026/08/18/iqoo-z11s-camera-samples-out-ahead-of-launch/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/08/iqoo-z11s-camera-sample-1-300x169.jpg?x23692",
+      "summary": "The iQOO Z11S is only a couple of hours away from the big reveal, but the company has already shared quite a lot of details about the phone, with the latest ones being detailed ca…",
+      "tags": [
+        "vivo",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-95422900b30b",
+      "title": "Huawei Mate 90 RS to go big on periscope tech with 200MP camera",
+      "source": "Huawei Central",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-18",
+      "time": "07:26",
+      "publishedAt": "2026-08-18T07:26:54.000Z",
+      "url": "https://www.huaweicentral.com/huawei-mate-90-rs-200mp-periscope-camera/",
+      "image": "https://www.huaweicentral.com/wp-content/uploads/2025/11/mate-80-rs-ultimate.jpg",
+      "summary": "Huawei Mate 90 RS Ultimate Design is seemingly just a month away and new leaks indicate it could bring an especially noteworthy batch of periscope camera upgrades, including a 200…",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-44a878611ba6",
+      "title": "竹本青：REDMI 产品经理科普“顶部刷NFC”使用方式",
+      "source": "竹本青",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-08-18",
+      "time": "07:22",
+      "publishedAt": "2026-08-18T07:22:39.000Z",
+      "url": "https://www.coolapk.com/feed/73307548",
+      "image": "http://image.coolapk.com/feed/2026/0818/15/4248714_ba9eca85_7757_9987_390@1439x1451.jpg",
+      "summary": "【REDMI 产品经理科普“顶部刷NFC”使用方式：机身背部上侧感应，顶部边框无法触发】 8月18日，REDMI 产品经理 笋寸再发文，针对K90 Pro Max、K100 Pro Max的“顶部刷NFC”功能进行科普解读。 她介绍，NFC线圈布置在手机背部上侧，正确刷卡方式为，将机身背部上侧贴近读卡器完成识别，并不能通过顶部的金属边框触发刷卡。 #今日热…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "酷安博主"
+      ]
+    },
     {
       "id": "auto-8cedd2013f4d",
       "title": "消息称 OPPO Find X10 系列新机屏幕“加料”，支持目前行业最高规格 BT.2020 超广色域",
@@ -162,26 +302,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-a76f3397b3de",
-      "title": "消息称国际版小米 18 Ultra 取消发布，OPPO / vivo 收缩海外 Ultra 手机规划",
-      "source": "IT之家",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-18",
-      "time": "04:11",
-      "publishedAt": "2026-08-18T04:11:08.000Z",
-      "url": "https://www.ithome.com/0/991/048.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/8/d0d0eb95-f589-4079-9fdd-24d1fb5b46b3.png?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 8 月 18 日消息，消息源卡蒂基 · 辛格（Kartikey Singh）昨日（8 月 17 日）在 X 平台发布推文， 指出小米公司可能不会在国际市场上推出小米 18 Ultra 机型。 IT之家翻译推文内容如下： 小米已取消 18 Ultra 项目，OPPO 和 vivo 品牌也决定不在国际市场上推出下一代 Ultra 机型。在国际市场上，…",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "weibo-dd629572c697",
       "title": "数码闲聊站：咳咳，Top5关于某厂大大杯，临近量产的几版工程机的屏幕/芯片/电池等方案基本…",
       "source": "数码闲聊站",
@@ -202,46 +322,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-80db9cb9f9bb",
-      "title": "三星 Galaxy A08/A07s 手机曝光：联发科 Helio G99 芯片、水滴屏",
-      "source": "IT之家",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-18",
-      "time": "03:51",
-      "publishedAt": "2026-08-18T03:51:16.000Z",
-      "url": "https://www.ithome.com/0/991/042.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/8/3aa42ce1-d744-4bba-9ba2-b63a1a69424a.png",
-      "summary": "IT之家 8 月 18 日消息，科技媒体 91Mobile 昨日（8 月 17 日）发布博文，报道称在 Google Play Console 数据库中， 挖掘发现 Galaxy A08 和 Galaxy A07s 两款三星手机踪迹。 根据页面信息，三星 &nbsp;Galaxy A08 型号为 SM-A085F。根据信息显示，这款入门级手机将搭载联发科处…",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-e9df1df94d71",
-      "title": "三星 Galaxy S26 FE 手机曝光：Exynos 2500 芯片，8GB 内存",
-      "source": "IT之家",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-18",
-      "time": "03:43",
-      "publishedAt": "2026-08-18T03:43:20.000Z",
-      "url": "https://www.ithome.com/0/991/039.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/8/a5ba7469-763a-4687-a442-8c77c6b4b73a.jpg?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 8 月 18 日消息，科技媒体 YtechB 昨日（8 月 17 日）发布博文， 报道称 三星 Galaxy S26 FE（型号 SM-S741U）手机现身 Google Play Console 数据库，显示其搭载 Exynos 2500 芯片以及三星 Xclipse 950 GPU。 页面信息显示，三星 Galaxy S26 FE 手机配备…",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "coolapk-user-23ae03ed63d7",
       "title": "JSCHEN小小狐：vivo X500 Ultra 主摄曝光：定制 1/1.12'' HPU",
       "source": "JSCHEN小小狐",
@@ -259,26 +339,6 @@ window.phoneRadarAuto = {
         "Samsung",
         "爆料",
         "酷安博主"
-      ]
-    },
-    {
-      "id": "auto-9b23f8877b08",
-      "title": "安卓 17 测试版再现线索，谷歌 Pixel 10 等手机将支持双击锁屏",
-      "source": "IT之家",
-      "brand": "Pixel",
-      "model": "Pixel 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-18",
-      "time": "03:12",
-      "publishedAt": "2026-08-18T03:12:38.000Z",
-      "url": "https://www.ithome.com/0/991/018.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/8/b6524a50-e2c3-4f08-b729-67adb344142a.jpg?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 8 月 18 日消息，科技媒体 Android Authority 昨日（8 月 17 日）发布博文，报道称谷歌计划为 Pixel 10 等手机， 引入“轻触 2 次锁屏”功能。 在很多第三方 ROM 以及国内几乎所有手机厂商系统中，都已整合“轻触 2 次锁屏”功能，用户不需要按下电源键， 只需要双击主屏幕上的空白区域，系统随后关闭屏幕。 该媒体…",
-      "tags": [
-        "Pixel",
-        "爆料",
-        "自动抓取"
       ]
     },
     {
@@ -382,63 +442,23 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-014e2b379803",
-      "title": "亮哥直播间中了个17标准版 兄弟们留x100还是17啊 #vivoX100# #iPhone17# #数码日常#",
-      "source": "酷安热榜",
-      "brand": "vivo",
-      "model": "vivo 相关机型",
+      "id": "newsnow-216e11518a5b",
+      "title": "手机价格涨20%以上",
+      "source": "微博热搜",
+      "brand": "行业",
+      "model": "智能手机市场",
       "type": "爆料",
-      "trust": "高关注爆料源",
+      "trust": "待验证",
       "date": "2026-08-18",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73269892",
+      "url": "https://s.weibo.com/weibo?q=%23%E6%89%8B%E6%9C%BA%E4%BB%B7%E6%A0%BC%E6%B6%A820%25%E4%BB%A5%E4%B8%8A%23&t=31&band_rank=8&Refer=top",
       "image": "",
-      "summary": "亮哥直播间中了个17标准版 兄弟们留x100还是17啊 #vivoX100# #iPhone17# #数码日常#",
+      "summary": "手机价格涨20%以上",
       "tags": [
-        "vivo",
+        "行业",
         "爆料",
         "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-919b7faace39",
-      "title": "小米首款「万级大电池」手机将于8月27日在日本发布",
-      "source": "酷安热榜",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-08-18",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73292822",
-      "image": "",
-      "summary": "小米首款「万级大电池」手机将于8月27日在日本发布",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "coolapk-user-375bb28be030",
-      "title": "竹本青：荣耀Robot Phone 正式开售，售价9999元起",
-      "source": "竹本青",
-      "brand": "HONOR",
-      "model": "HONOR 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-08-17",
-      "time": "23:36",
-      "publishedAt": "2026-08-17T23:36:51.000Z",
-      "url": "https://www.coolapk.com/feed/73301407",
-      "image": "http://image.coolapk.com/feed/2026/0818/07/4248714_8c78bbfd_9809_8108_528@1159x7156.jpg",
-      "summary": "【荣耀Robot Phone 今日正式开售，售价9999元起】 12GB+512GB —— 9999元 16GB+1TB —— 12999元 核心： ● 6.31\"1.5K 120Hz LTPO直屏 ● 骁龙8 Elite Gen5处理器 ● LPDDR5X+UFS4.1 ● 7060mAh+120W有线+50W无线 ● 自研钛合金云台架构 ● 可折叠云台…",
-      "tags": [
-        "HONOR",
-        "爆料",
-        "酷安博主"
       ]
     },
     {
@@ -539,26 +559,6 @@ window.phoneRadarAuto = {
         "iPhone",
         "爆料",
         "自动抓取"
-      ]
-    },
-    {
-      "id": "coolapk-user-30d1aa3498e4",
-      "title": "竹本青：影石Insta360 Luna Pro 云台相机将于8月20日发布",
-      "source": "竹本青",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-08-17",
-      "time": "18:29",
-      "publishedAt": "2026-08-17T18:29:55.000Z",
-      "url": "https://www.coolapk.com/feed/73300554",
-      "image": "http://image.coolapk.com/feed/2026/0818/02/4248714_62142501_1394_6513_433@1011x1348.jpg",
-      "summary": "【影石Insta360 Luna Pro 云台相机官宣，将于8月20日发布】 ● 支持4K竖屏拍摄（30fps） ● 徕卡 Summicron光学镜头 ● 1英寸传感器，光圈F/1.8 ● 14档动态范围 ● 可拆卸图传遥控屏（Ultra同款） ● 3轴机械防抖+FlowState防抖 #今日热点# #影石Insta360LunaPro# #影石Insta…",
-      "tags": [
-        "行业",
-        "爆料",
-        "酷安博主"
       ]
     },
     {
@@ -782,26 +782,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-00951004353f",
-      "title": "Samsung could launch a second wide-format foldable alongside Galaxy Z Fold 9",
-      "source": "SamMobile",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-17",
-      "time": "10:50",
-      "publishedAt": "2026-08-17T10:50:09.000Z",
-      "url": "https://www.sammobile.com/news/samsung-could-launch-second-wide-format-foldable-alongside-galaxy-z-fold-9/",
-      "image": "",
-      "summary": "Samsung’s first smartphone with a 4:3 aspect ratio book-style foldable display, the Galaxy Z Fold 8, has been a huge hit globally, with the brand reportedly struggling to keep up…",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-ed56831b0be5",
       "title": "Google Pixel 11 Pro Fold vs Samsung Galaxy Z Fold8: Specs, Camera and Price Compared",
       "source": "Gizmochina",
@@ -902,26 +882,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-246db50ef55b",
-      "title": "Why the iPhone Ultra might not drastically affect Galaxy Z Fold 8 sales at launch",
-      "source": "SamMobile",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-17",
-      "time": "09:06",
-      "publishedAt": "2026-08-17T09:06:41.000Z",
-      "url": "https://www.sammobile.com/news/iphone-ultra-launch-wont-drastically-affect-galaxy-z-fold-8-sales/",
-      "image": "https://www.sammobile.com/wp-content/uploads/2026/08/Apple-iPhone-Ultra-Fan-Render.jpg",
-      "summary": "Apple is expected to unveil its first foldable iPhone later this year, seven years after Samsung unveiled the original Galaxy Fold. This upcoming iPhone is widely being called the…",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-f7ba231f0ffd",
       "title": "Google Pixel 12 Pro Fold: Everything we know so far and want to see",
       "source": "Android Central",
@@ -957,26 +917,6 @@ window.phoneRadarAuto = {
       "summary": "In a recent report, reliable tipster Digital Chat Station shared key details about the iQOO 16’s display, chipset, and design. Now, the tipster has published a new Weibo post reve…",
       "tags": [
         "vivo",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-580b5bc8c99e",
-      "title": "OnePlus 16’s custom screen could bring a major display upgrade",
-      "source": "Gizmochina",
-      "brand": "OPPO",
-      "model": "OPPO 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-17",
-      "time": "03:48",
-      "publishedAt": "2026-08-17T03:48:45.000Z",
-      "url": "https://www.gizmochina.com/2026/08/17/oneplus-16-major-display-upgrade/",
-      "image": "https://www.gizmochina.com/wp-content/uploads/2025/10/OnePlus-15-display-300x169.jpg?x23692",
-      "summary": "The rumor mill has been consistently leaking details about the OnePlus 16, and the latest one points to a major display upgrade. The upcoming flagship is reportedly being develope…",
-      "tags": [
-        "OPPO",
         "爆料",
         "自动抓取"
       ]
