@@ -1,5 +1,5 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-08-18T14:51:43.434Z",
+  "updatedAt": "2026-08-18T16:47:28.251Z",
   "issueDate": "2026-08-18",
   "issue": "VOL.260818",
   "title": "手机情报日报",
@@ -135,30 +135,6 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
-          "id": "auto-b4308181d273",
-          "title": "三星 Galaxy Z Fold8 折叠屏新机大卖，但内存涨价导致 DX 部门持续亏损",
-          "originalTitle": "",
-          "source": "IT之家",
-          "brand": "Samsung",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-08-18",
-          "time": "10:27",
-          "publishedAt": "2026-08-18T10:27:36.000Z",
-          "url": "https://www.ithome.com/0/991/281.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/8/6f4edabb-9b62-4644-a2ea-338036947247.jpg",
-          "verdict": "先看",
-          "takeaway": "IT之家 8 月 18 日消息，据韩媒 Maekyung ECONOMY 今天报道，三星电子 DX（设备体验）部门希望凭借 Galaxy Z Fold8 系列折叠屏手机扭转局面，但实际业绩预期难以达到预期。由于内存价格暴涨导致成本压力大幅增加，该部门预计将持续亏损。 据业内人士透露，三星电子上个月推出的新折叠屏手机系列 Z Fold8，在韩国预售量达 14…",
-          "detail": "IT之家 8 月 18 日消息，据韩媒 Maekyung ECONOMY 今天报道，三星电子 DX（设备体验）部门希望凭借 Galaxy Z Fold8 系列折叠屏手机扭转局面，但实际业绩预期难以达到预期。由于内存价格暴涨导致成本压力大幅增加，该部门预计将持续亏损。 据业内人士透露，三星电子上个月推出的新折叠屏手机系列 Z Fold8，在韩国预售量达 14…",
-          "keyPoints": [
-            "屏幕形态",
-            "成本 / 价格"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
           "id": "weibo-6c3dbad0287f",
           "title": "数码闲聊站：iQOO Neo11至尊版，这首发价格可还行？ 12GB+256GB——339…",
           "originalTitle": "",
@@ -198,6 +174,29 @@ window.phoneRadarDaily = {
           "verdict": "先看",
           "takeaway": "华为 Mate90 Pro Max 曝光：新一代满血芯片",
           "detail": "华为 Mate90 Pro Max 曝光：新一代满血芯片",
+          "keyPoints": [
+            "芯片 / 性能"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "auto-62907a5f106d",
+          "title": "Fairphone (Gen. 6+) 模块化智能手机发布：高通骁龙 7s Gen 4 搭配 12GB 内存",
+          "originalTitle": "",
+          "source": "IT之家",
+          "brand": "行业",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-08-18",
+          "time": "12:23",
+          "publishedAt": "2026-08-18T12:23:02.000Z",
+          "url": "https://www.ithome.com/0/991/312.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/8/4c6b82cc-4faa-4ad5-97b2-3c001dc1273c.jpg",
+          "verdict": "先看",
+          "takeaway": "IT之家 8 月 18 日消息，模块化消费电子硬件品牌 Fairphone 荷兰当地时间今日发布了其新一代模块化智能手机 Fairphone (Gen. 6+) ，这也是 该品牌首款正式在美国市场销售的产品 。 Fairphone (Gen. 6+) 由 12 个易于更换的零部件构成，获得 IP55 防尘防水、MIL-STD 810H 抗跌落认证。其 基于…",
+          "detail": "IT之家 8 月 18 日消息，模块化消费电子硬件品牌 Fairphone 荷兰当地时间今日发布了其新一代模块化智能手机 Fairphone (Gen. 6+) ，这也是 该品牌首款正式在美国市场销售的产品 。 Fairphone (Gen. 6+) 由 12 个易于更换的零部件构成，获得 IP55 防尘防水、MIL-STD 810H 抗跌落认证。其 基于…",
           "keyPoints": [
             "芯片 / 性能"
           ],

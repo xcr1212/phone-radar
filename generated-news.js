@@ -1,6 +1,106 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-08-18T14:51:43.434Z",
+  "updatedAt": "2026-08-18T16:47:28.251Z",
   "news": [
+    {
+      "id": "auto-5c127eb08fca",
+      "title": "New Galaxy S26 FE leak suggests its launch is near",
+      "source": "SamMobile",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-18",
+      "time": "16:32",
+      "publishedAt": "2026-08-18T16:32:13.000Z",
+      "url": "https://www.sammobile.com/news/new-galaxy-s26-fe-leak-suggests-launch-near/",
+      "image": "",
+      "summary": "Earlier this month, Samsung announced that it will soon launch a new Galaxy S Fan Edition smartphone, the Galaxy S26 FE, which will succeed the Galaxy S25 FE. Even before the bran…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-f19187027ac5",
+      "title": "A second wide foldable in 2027 may do Samsung more harm than good",
+      "source": "SamMobile",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-18",
+      "time": "16:00",
+      "publishedAt": "2026-08-18T16:00:56.000Z",
+      "url": "https://www.sammobile.com/opinion/second-wide-samsung-foldable-2027-more-harm-than-good/",
+      "image": "",
+      "summary": "The Galaxy Z Fold 8 is Samsung's first passport-style foldable with a wider form factor compared to the tried and tested book-style Galaxy Z Fold 8 Ultra form factor. The new devi…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-49910405bc88",
+      "title": "小米“大会师”新品将至，卢伟冰发文预告 9 月“精彩纷呈”",
+      "source": "IT之家",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-18",
+      "time": "16:00",
+      "publishedAt": "2026-08-18T16:00:03.000Z",
+      "url": "https://www.ithome.com/0/991/365.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/8/d19c79d6-9397-4bad-aec4-2554991ff521.png?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 8 月 19 日消息，小米集团合伙人 / 总裁、手机部总裁、小米品牌总经理卢伟冰刚刚发文预告：“ 静待 9 月，精彩纷呈。 ” 值得一提的是，有网友在评论区留言：“小米大会师的产品要来了，非常期待 9 月的新品。”卢伟冰以“[爱心]”作为回复， 暗示小米“大会师”新品将至 。 参考IT之家此前报道，在今年 1 月的 2025 小米“千万技术大奖”…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-f2d8b3171849",
+      "title": "Should you use this Galaxy Z8 fingerprint setting to speed up phone unlocks?",
+      "source": "SamMobile",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-18",
+      "time": "15:21",
+      "publishedAt": "2026-08-18T15:21:36.000Z",
+      "url": "https://www.sammobile.com/news/should-you-use-galaxy-z8-fingerprint-setting-faster-phone-unlocks/",
+      "image": "https://www.sammobile.com/wp-content/uploads/2026/08/2galaxy-fold-8-fingerprint-options.jpg",
+      "summary": "If you've been using non-foldable Galaxy phones for the past five or so years, chances are you haven't touched a side-mounted fingerprint sensor for at least that long. But if you…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-da5ab696f24a",
+      "title": "The Pixel 11 Pro's best camera upgrade I care about has nothing to do with 120x zoom",
+      "source": "Android Police",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-18",
+      "time": "15:15",
+      "publishedAt": "2026-08-18T15:15:16.000Z",
+      "url": "https://www.androidpolice.com/pixel-11-pro-best-camera-upgrades-nothing-to-do-120x-zoom/",
+      "image": "",
+      "summary": "Instant Night Sight and Camera Looks",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-ca6dfce9052f",
       "title": "Redmi M100 launches with 7900mAh battery, Snapdragon 4 Gen 5 mobile platform",
@@ -23,7 +123,7 @@ window.phoneRadarAuto = {
     },
     {
       "id": "auto-22ee413629c1",
-      "title": "iQOO Z11S debuts as brand’s first phone with 10,000mAh battery",
+      "title": "iQOO Z11S debuts with 10,000mAh battery, 6.83-inch 144Hz AMOLED display, Dimensity 7500 chipset",
       "source": "Gizmochina",
       "brand": "vivo",
       "model": "vivo 相关机型",
@@ -262,46 +362,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "coolapk-user-92c296d3f45c",
-      "title": "竹本青：卢伟冰：小米新一代玄戒芯片即将发布",
-      "source": "竹本青",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-08-18",
-      "time": "11:31",
-      "publishedAt": "2026-08-18T11:31:57.000Z",
-      "url": "https://www.coolapk.com/feed/73311632",
-      "image": "http://image.coolapk.com/feed/2026/0818/19/4248714_087cf242_2716_2188_402@1440x1920.jpg",
-      "summary": "【卢伟冰：小米新一代玄戒芯片即将发布】 8月18日，小米集团合伙人卢伟冰在财报电话会上透露，去年小米成功推出的玄戒O1芯片，在三款终端上的累计出货量已超过百万，实现了旗舰芯片规模化验证，全新一代小米玄戒芯片也即将发布。 #今日热点# #玄戒# #HyperOS4#",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
-      "id": "coolapk-user-9dc27b8ce2fb",
-      "title": "竹本青：额，发布会怎么敢说满血铁三角的，M比标准版，GPU砍了一个核心",
-      "source": "竹本青",
-      "brand": "vivo",
-      "model": "vivo 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-08-18",
-      "time": "11:24",
-      "publishedAt": "2026-08-18T11:24:10.000Z",
-      "url": "https://www.coolapk.com/feed/73311515",
-      "image": "",
-      "summary": "额，发布会怎么敢说满血铁三角的，M比标准版，GPU砍了一个核心",
-      "tags": [
-        "vivo",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
       "id": "auto-5ff91a9f217a",
       "title": "Two camera features may be unique to the iPhone 18 Pro Max, suggests leaker",
       "source": "9to5Mac",
@@ -317,26 +377,6 @@ window.phoneRadarAuto = {
       "summary": "Whether or not you need to buy Apple’s largest iPhone Pro in order to get the best camera features has varied by generation. So far, reporting has mostly suggested that there will…",
       "tags": [
         "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-0a33a3068a02",
-      "title": "小米 12S Pro、REDMI Note 12R 等机型终止软件维护支持",
-      "source": "IT之家",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-18",
-      "time": "10:54",
-      "publishedAt": "2026-08-18T10:54:10.000Z",
-      "url": "https://www.ithome.com/0/991/290.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/8/4cbdc467-2e7f-4f59-84bd-b4c9108e5fca.png?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 8 月 18 日消息，今日有用户发现，小米安全中心于 8 月 17 日更新了终止维护的机型名单，包括小米 12S Pro 等经典产品已经停止软件支持。 小米不再为进入终止软件支持产品列表的相关产品提供软件或固件更新（含安全性更新），也可能不再响应针对这些产品的安全漏洞报告。但如果遇到非常严重的安全漏洞，即使设备已经停止软件支持，小米也可能会提供必…",
-      "tags": [
-        "Xiaomi",
         "爆料",
         "自动抓取"
       ]
@@ -377,26 +417,6 @@ window.phoneRadarAuto = {
       "summary": "There have been some internal restructuring changes within the Oppo group, which oversees both OnePlus and Realme. As part of the changes, OnePlus will remain active in China and…",
       "tags": [
         "OPPO",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-b4308181d273",
-      "title": "三星 Galaxy Z Fold8 折叠屏新机大卖，但内存涨价导致 DX 部门持续亏损",
-      "source": "IT之家",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-18",
-      "time": "10:27",
-      "publishedAt": "2026-08-18T10:27:36.000Z",
-      "url": "https://www.ithome.com/0/991/281.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/8/6f4edabb-9b62-4644-a2ea-338036947247.jpg",
-      "summary": "IT之家 8 月 18 日消息，据韩媒 Maekyung ECONOMY 今天报道，三星电子 DX（设备体验）部门希望凭借 Galaxy Z Fold8 系列折叠屏手机扭转局面，但实际业绩预期难以达到预期。由于内存价格暴涨导致成本压力大幅增加，该部门预计将持续亏损。 据业内人士透露，三星电子上个月推出的新折叠屏手机系列 Z Fold8，在韩国预售量达 14…",
-      "tags": [
-        "Samsung",
         "爆料",
         "自动抓取"
       ]
@@ -802,26 +822,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-4be8a0542294",
-      "title": "最后还是把 iPhone air 回收换了荣耀 air",
-      "source": "酷安热榜",
-      "brand": "HONOR",
-      "model": "HONOR 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-08-18",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73286226",
-      "image": "",
-      "summary": "最后还是把 iPhone air 回收换了荣耀 air",
-      "tags": [
-        "HONOR",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
       "id": "newsnow-7f16aa56a708",
       "title": "iQOO Neo11 至尊版发布：天玑9500M，首销3399元起",
       "source": "酷安热榜",
@@ -837,6 +837,26 @@ window.phoneRadarAuto = {
       "summary": "iQOO Neo11 至尊版发布：天玑9500M，首销3399元起",
       "tags": [
         "vivo",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-4be8a0542294",
+      "title": "最后还是把 iPhone air 回收换了荣耀 air",
+      "source": "酷安热榜",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-08-18",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/73286226",
+      "image": "",
+      "summary": "最后还是把 iPhone air 回收换了荣耀 air",
+      "tags": [
+        "HONOR",
         "爆料",
         "NewsNow"
       ]
@@ -882,21 +902,41 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-52ade30bb9b3",
-      "title": "手机价格涨20%以上",
-      "source": "百度热搜",
+      "id": "newsnow-6f3a3ca0849a",
+      "title": "现在该不该换手机",
+      "source": "微博热搜",
       "brand": "行业",
       "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "待验证",
+      "date": "2026-08-18",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://s.weibo.com/weibo?q=%23%E7%8E%B0%E5%9C%A8%E8%AF%A5%E4%B8%8D%E8%AF%A5%E6%8D%A2%E6%89%8B%E6%9C%BA%23&t=31&band_rank=20&Refer=top",
+      "image": "",
+      "summary": "现在该不该换手机",
+      "tags": [
+        "行业",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-01327fbfec9c",
+      "title": "小米手机平均售价创历史新高",
+      "source": "百度热搜",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
       "type": "爆料",
       "trust": "媒体汇总",
       "date": "2026-08-18",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.baidu.com/s?wd=%E6%89%8B%E6%9C%BA%E4%BB%B7%E6%A0%BC%E6%B6%A820%25%E4%BB%A5%E4%B8%8A",
+      "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E7%B1%B3%E6%89%8B%E6%9C%BA%E5%B9%B3%E5%9D%87%E5%94%AE%E4%BB%B7%E5%88%9B%E5%8E%86%E5%8F%B2%E6%96%B0%E9%AB%98",
       "image": "",
-      "summary": "手机价格涨20%以上",
+      "summary": "小米手机平均售价创历史新高",
       "tags": [
-        "行业",
+        "Xiaomi",
         "爆料",
         "NewsNow"
       ]
@@ -1077,26 +1117,6 @@ window.phoneRadarAuto = {
       "summary": "Next month’s new iPhone lineup will bring a brand new ‘iPhone Ultra’ foldable , but the most popular models will no doubt be the iPhone 18 Pro and Pro Max. Here are six new featur…",
       "tags": [
         "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-2654eb3430a6",
-      "title": "New Galaxy Z Fold 8 campaign positions it as a companion for fatherhood",
-      "source": "SamMobile",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-17",
-      "time": "15:12",
-      "publishedAt": "2026-08-17T15:12:21.000Z",
-      "url": "https://www.sammobile.com/news/new-galaxy-z-fold-8-campaign-positions-it-as-a-companion-for-fatherhood/",
-      "image": "",
-      "summary": "Samsung has rolled out a new ad campaign for the Galaxy Z Fold 8 and the Galaxy Z Fold 8 Ultra which takes a slightly different approach than what you'd expect from a smartphone a…",
-      "tags": [
-        "Samsung",
         "爆料",
         "自动抓取"
       ]
