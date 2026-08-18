@@ -1,6 +1,146 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-08-18T03:07:45.448Z",
+  "updatedAt": "2026-08-18T04:50:42.001Z",
   "news": [
+    {
+      "id": "coolapk-user-6ea98bdd5406",
+      "title": "JSCHEN小小狐：『华为 Mate90 Pro Max 曝光：新一代满血芯片』 ◇ 新一代满血芯片（预计为麒麟 9050 Pro）…",
+      "source": "JSCHEN小小狐",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-08-18",
+      "time": "04:35",
+      "publishedAt": "2026-08-18T04:35:35.000Z",
+      "url": "https://www.coolapk.com/feed/73305085",
+      "image": "http://image.coolapk.com/feed/2026/0818/12/4702274_5aaa0639_7733_6073_353@1440x760.jpg",
+      "summary": "『华为 Mate90 Pro Max 曝光：新一代满血芯片』 ◇ 新一代满血芯片（预计为麒麟 9050 Pro） ◇ 6.9 英寸 1.5K LTPO 双层 OLED 直屏 ◇ 屏幕支持 BT.2020 超广色域 ◇ 约 6800～7000mAh 电池 两版长焦方案： ① 50Mp + 50Mp 双潜望方案（RS 测试 10X） ② 200Mp 1/1.2…",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-a76f3397b3de",
+      "title": "消息称国际版小米 18 Ultra 取消发布，OPPO / vivo 收缩海外 Ultra 手机规划",
+      "source": "IT之家",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-18",
+      "time": "04:11",
+      "publishedAt": "2026-08-18T04:11:08.000Z",
+      "url": "https://www.ithome.com/0/991/048.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/8/d0d0eb95-f589-4079-9fdd-24d1fb5b46b3.png?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 8 月 18 日消息，消息源卡蒂基 · 辛格（Kartikey Singh）昨日（8 月 17 日）在 X 平台发布推文， 指出小米公司可能不会在国际市场上推出小米 18 Ultra 机型。 IT之家翻译推文内容如下： 小米已取消 18 Ultra 项目，OPPO 和 vivo 品牌也决定不在国际市场上推出下一代 Ultra 机型。在国际市场上，…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "weibo-dd629572c697",
+      "title": "数码闲聊站：咳咳，Top5关于某厂大大杯，临近量产的几版工程机的屏幕/芯片/电池等方案基本…",
+      "source": "数码闲聊站",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-08-18",
+      "time": "04:08",
+      "publishedAt": "2026-08-18T04:08:00.000Z",
+      "url": "https://weibo.com/6048569942/RdWCUnVxR",
+      "image": "",
+      "summary": "咳咳，Top5关于某厂大大杯，临近量产的几版工程机的屏幕/芯片/电池等方案基本没差，6.9英寸1.5K LTPO直屏，Tandem OLED技术+BT.2020色域，满血新芯，7K左右电池，影像是长焦方案有两个版本，一个是早期说过的双潜望长焦，一个是2亿超大底单潜望，不知道落地哪个[污]",
+      "tags": [
+        "行业",
+        "爆料",
+        "微博"
+      ]
+    },
+    {
+      "id": "auto-80db9cb9f9bb",
+      "title": "三星 Galaxy A08/A07s 手机曝光：联发科 Helio G99 芯片、水滴屏",
+      "source": "IT之家",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-18",
+      "time": "03:51",
+      "publishedAt": "2026-08-18T03:51:16.000Z",
+      "url": "https://www.ithome.com/0/991/042.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/8/3aa42ce1-d744-4bba-9ba2-b63a1a69424a.png",
+      "summary": "IT之家 8 月 18 日消息，科技媒体 91Mobile 昨日（8 月 17 日）发布博文，报道称在 Google Play Console 数据库中， 挖掘发现 Galaxy A08 和 Galaxy A07s 两款三星手机踪迹。 根据页面信息，三星 &nbsp;Galaxy A08 型号为 SM-A085F。根据信息显示，这款入门级手机将搭载联发科处…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-e9df1df94d71",
+      "title": "三星 Galaxy S26 FE 手机曝光：Exynos 2500 芯片，8GB 内存",
+      "source": "IT之家",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-18",
+      "time": "03:43",
+      "publishedAt": "2026-08-18T03:43:20.000Z",
+      "url": "https://www.ithome.com/0/991/039.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/8/a5ba7469-763a-4687-a442-8c77c6b4b73a.jpg?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 8 月 18 日消息，科技媒体 YtechB 昨日（8 月 17 日）发布博文， 报道称 三星 Galaxy S26 FE（型号 SM-S741U）手机现身 Google Play Console 数据库，显示其搭载 Exynos 2500 芯片以及三星 Xclipse 950 GPU。 页面信息显示，三星 Galaxy S26 FE 手机配备…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-23ae03ed63d7",
+      "title": "JSCHEN小小狐：vivo X500 Ultra 主摄曝光：定制 1/1.12'' HPU",
+      "source": "JSCHEN小小狐",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-08-18",
+      "time": "03:27",
+      "publishedAt": "2026-08-18T03:27:56.000Z",
+      "url": "https://www.coolapk.com/feed/73304076",
+      "image": "http://image.coolapk.com/feed/2026/0818/11/4702274_68fa5fab_3675_3592_556@1440x511.jpg",
+      "summary": "『vivo X500 Ultra 主摄曝光：定制 1/1.12'' HPU』 三星 HPU： ◇ 200Mp 1/1.12'' LOFIC 规格 ◇ 基于 HPA 的定制 Sensor ◇ 预计由 X500 Ultra 搭载 #今日热点# #vivoX500# #vivoX500Ultra#",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-9b23f8877b08",
+      "title": "安卓 17 测试版再现线索，谷歌 Pixel 10 等手机将支持双击锁屏",
+      "source": "IT之家",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-18",
+      "time": "03:12",
+      "publishedAt": "2026-08-18T03:12:38.000Z",
+      "url": "https://www.ithome.com/0/991/018.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/8/b6524a50-e2c3-4f08-b729-67adb344142a.jpg?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 8 月 18 日消息，科技媒体 Android Authority 昨日（8 月 17 日）发布博文，报道称谷歌计划为 Pixel 10 等手机， 引入“轻触 2 次锁屏”功能。 在很多第三方 ROM 以及国内几乎所有手机厂商系统中，都已整合“轻触 2 次锁屏”功能，用户不需要按下电源键， 只需要双击主屏幕上的空白区域，系统随后关闭屏幕。 该媒体…",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-367933cb123c",
       "title": "代码显示谷歌正为 Pixel 系列手机开发“Connectivity Health”网络诊断功能，可帮助用户快速排错",
@@ -122,22 +262,62 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-f1bcf28cc01c",
-      "title": "如何看待追觅卖出首台 AURORA 手机，售价超 20 万元？靠高奢定制切入手机赛道可行吗？",
-      "source": "知乎热榜",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "市场报告",
-      "trust": "媒体汇总",
+      "id": "newsnow-97e0fd6b70a1",
+      "title": "REDMI K90／K100 Pro Max 隐藏升级点：顶部刷NFC",
+      "source": "酷安热榜",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
       "date": "2026-08-18",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.zhihu.com/question/2071642621957747105",
+      "url": "https://www.coolapk.com/feed/73298349",
       "image": "",
-      "summary": "如何看待追觅卖出首台 AURORA 手机，售价超 20 万元？靠高奢定制切入手机赛道可行吗？",
+      "summary": "REDMI K90／K100 Pro Max 隐藏升级点：顶部刷NFC",
       "tags": [
-        "行业",
-        "市场报告",
+        "Xiaomi",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-919b7faace39",
+      "title": "小米首款「万级大电池」手机将于8月27日在日本发布",
+      "source": "酷安热榜",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-08-18",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/73292822",
+      "image": "",
+      "summary": "小米首款「万级大电池」手机将于8月27日在日本发布",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-86f68e6ff003",
+      "title": "iPhone18Pro系列六大升级",
+      "source": "微博热搜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "待验证",
+      "date": "2026-08-18",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://s.weibo.com/weibo?q=%23iPhone18Pro%E7%B3%BB%E5%88%97%E5%85%AD%E5%A4%A7%E5%8D%87%E7%BA%A7%23&t=31&band_rank=17&Refer=top",
+      "image": "",
+      "summary": "iPhone18Pro系列六大升级",
+      "tags": [
+        "iPhone",
+        "爆料",
         "NewsNow"
       ]
     },
@@ -402,26 +582,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "coolapk-user-47efa0f3ae22",
-      "title": "竹本青：REDMI K90／K100 Pro Max 隐藏升级点：顶部刷NFC",
-      "source": "竹本青",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-08-17",
-      "time": "15:26",
-      "publishedAt": "2026-08-17T15:26:23.000Z",
-      "url": "https://www.coolapk.com/feed/73298349",
-      "image": "http://image.coolapk.com/feed/2026/0817/23/4248714_7058127d_0624_1425_825@1272x1533.jpg",
-      "summary": "【REDMI K90／K100 Pro Max 隐藏升级点：支持顶部刷NFC】 8月17日，有博主发文表示，REDMI K100 Pro Max迎来一项实用升级，该机在机身顶部增设NFC刷卡区域，背部、顶部都可以正常完成NFC刷卡触发。 随后，REDMI产品经理“笋寸”转发作出补充，称K90 Pro Max机身顶部同样支持该功能。 #RedmiK90Pro…",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
       "id": "auto-2654eb3430a6",
       "title": "New Galaxy Z Fold 8 campaign positions it as a companion for fatherhood",
       "source": "SamMobile",
@@ -559,26 +719,6 @@ window.phoneRadarAuto = {
         "Samsung",
         "爆料",
         "自动抓取"
-      ]
-    },
-    {
-      "id": "coolapk-user-5db99feef5fa",
-      "title": "竹本青：OriginOS 7 官方爆料：光影美学设计",
-      "source": "竹本青",
-      "brand": "vivo",
-      "model": "vivo 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-08-17",
-      "time": "11:36",
-      "publishedAt": "2026-08-17T11:36:32.000Z",
-      "url": "https://www.coolapk.com/feed/73294516",
-      "image": "http://image.coolapk.com/feed/2026/0817/19/4248714_53c105cf_6591_0111_75-livepic@1080x1440.jpg",
-      "summary": "【OriginOS 7 官方爆料：光影美学设计】 ● 能感知｜在不同的界面背景下，线条会遵循真实的光学规律发生折射，让界面始终保持清晰的层次； ● 可互动｜点按和划动都有自然的光影回应，让交互更有生命力； ● 有智慧｜小V工作时，光效能够结合你的意图，精准引导视觉和操作； ● 懂情绪｜多种个性玩法，通过光影呈现不同的氛围，让界面更有你自己的样子。 #Ori…",
-      "tags": [
-        "vivo",
-        "爆料",
-        "酷安博主"
       ]
     },
     {
