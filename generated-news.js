@@ -1,6 +1,226 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-08-17T22:39:42.646Z",
+  "updatedAt": "2026-08-18T01:49:28.972Z",
   "news": [
+    {
+      "id": "auto-367933cb123c",
+      "title": "代码显示谷歌正为 Pixel 系列手机开发“Connectivity Health”网络诊断功能，可帮助用户快速排错",
+      "source": "IT之家",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-18",
+      "time": "01:17",
+      "publishedAt": "2026-08-18T01:17:38.000Z",
+      "url": "https://www.ithome.com/0/990/911.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/8/81722cf9-9e32-4b9e-99f8-b9db1abf9a40.jpg",
+      "summary": "IT之家 8 月 18 日消息，外媒 Android Authority 在检查安卓系统代码时，发现谷歌正计划为 Pixel 手机引入一项名为“Connectivity Health”的网络诊断功能，如果用户发现连不上网络，则可以使用相应功能尝试排错。 外媒设法在系统上启用了这一功能，在激活后，Connectivity Health 将位于 Pixel 手…",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-9bbf43c61c96",
+      "title": "Apple announces changes to iOS in Brazil",
+      "source": "Apple Newsroom",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "官方",
+      "trust": "官方确认",
+      "date": "2026-08-18",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.apple.com/newsroom/2026/06/apple-announces-changes-to-ios-in-brazil/",
+      "image": "",
+      "summary": "Apple today announced changes impacting iOS apps in Brazil that reflect a recent agreement with Brazil’s competition regulator, CADE.",
+      "tags": [
+        "iPhone",
+        "官方",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "newsnow-3b3aa6844d65",
+      "title": "把「闪念胶囊」（Almost）放到 iPhone 锁屏",
+      "source": "少数派热榜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-08-18",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://sspai.com/post/113219",
+      "image": "",
+      "summary": "把「闪念胶囊」（Almost）放到 iPhone 锁屏",
+      "tags": [
+        "iPhone",
+        "评测",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-73bcf380a317",
+      "title": "我，与「唯一」的 iPhone Air",
+      "source": "少数派热榜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-08-18",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://sspai.com/post/112880",
+      "image": "",
+      "summary": "我，与「唯一」的 iPhone Air",
+      "tags": [
+        "iPhone",
+        "评测",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-4be8a0542294",
+      "title": "最后还是把 iPhone air 回收换了荣耀 air",
+      "source": "酷安热榜",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-08-18",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/73286226",
+      "image": "",
+      "summary": "最后还是把 iPhone air 回收换了荣耀 air",
+      "tags": [
+        "HONOR",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-014e2b379803",
+      "title": "亮哥直播间中了个17标准版 兄弟们留x100还是17啊 #vivoX100# #iPhone17# #数码日常#",
+      "source": "酷安热榜",
+      "brand": "vivo",
+      "model": "vivo 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-08-18",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/73269892",
+      "image": "",
+      "summary": "亮哥直播间中了个17标准版 兄弟们留x100还是17啊 #vivoX100# #iPhone17# #数码日常#",
+      "tags": [
+        "vivo",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-f1bcf28cc01c",
+      "title": "如何看待追觅卖出首台 AURORA 手机，售价超 20 万元？靠高奢定制切入手机赛道可行吗？",
+      "source": "知乎热榜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "市场报告",
+      "trust": "媒体汇总",
+      "date": "2026-08-18",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.zhihu.com/question/2071642621957747105",
+      "image": "",
+      "summary": "如何看待追觅卖出首台 AURORA 手机，售价超 20 万元？靠高奢定制切入手机赛道可行吗？",
+      "tags": [
+        "行业",
+        "市场报告",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-dde3946a1430",
+      "title": "闪过念头就刷到广告 是手机在偷听吗",
+      "source": "百度热搜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-18",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.baidu.com/s?wd=%E9%97%AA%E8%BF%87%E5%BF%B5%E5%A4%B4%E5%B0%B1%E5%88%B7%E5%88%B0%E5%B9%BF%E5%91%8A+%E6%98%AF%E6%89%8B%E6%9C%BA%E5%9C%A8%E5%81%B7%E5%90%AC%E5%90%97",
+      "image": "",
+      "summary": "闪过念头就刷到广告 是手机在偷听吗",
+      "tags": [
+        "行业",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "coolapk-user-375bb28be030",
+      "title": "竹本青：【荣耀Robot Phone 今日正式开售，售价9999元起】 12GB+512GB —— 9999元 16GB+…",
+      "source": "竹本青",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-08-17",
+      "time": "23:36",
+      "publishedAt": "2026-08-17T23:36:51.000Z",
+      "url": "https://www.coolapk.com/feed/73301407",
+      "image": "http://image.coolapk.com/feed/2026/0818/07/4248714_8c78bbfd_9809_8108_528@1159x7156.jpg",
+      "summary": "【荣耀Robot Phone 今日正式开售，售价9999元起】 12GB+512GB —— 9999元 16GB+1TB —— 12999元 核心： ● 6.31\"1.5K 120Hz LTPO直屏 ● 骁龙8 Elite Gen5处理器 ● LPDDR5X+UFS4.1 ● 7060mAh+120W有线+50W无线 ● 自研钛合金云台架构 ● 可折叠云台…",
+      "tags": [
+        "HONOR",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-939a45da380d",
+      "title": "入职奖金约 8800 元：曝富士康扩大招工备战苹果 iPhone 18 Pro / Max 及 iPhone Ultra",
+      "source": "IT之家",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-17",
+      "time": "23:30",
+      "publishedAt": "2026-08-17T23:30:50.000Z",
+      "url": "https://www.ithome.com/0/990/880.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/8/0b1fb760-9751-4c48-9181-2cf4d17f9523.png?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 8 月 18 日消息，科技媒体 macobserver 昨日（8 月 17 日）发布博文，报道称 富士康为满足苹果 iPhone 18 Pro 系列以及首款折叠手机（上市后预估名为 iPhone Ultra）产能，正扩大郑州工厂的招工规模。 消息称为了在苹果秋季发布会（预估 9 月 8 日 / 9 日）召开前最大限度地提高产能， 富士康向新入职员…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-30c8f708bb34",
+      "title": "谷歌向 Pixel 系列手机推送安卓 17 QPR1 Beta 9 更新：修复“圈选即搜”等功能 Bug",
+      "source": "IT之家",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-17",
+      "time": "22:55",
+      "publishedAt": "2026-08-17T22:55:52.000Z",
+      "url": "https://www.ithome.com/0/990/871.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/8/04dd4c4a-c6ad-468f-bf77-477c8b0292cc.png?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 8 月 18 日消息，谷歌近日开始向 Pixel 系列推送安卓 17 QPR1 Beta 9 更新。此次更新主要修复多项系统问题，这也意味着 Pixel 6 / Pro 系列机型将迎来最后一个测试版更新。 事实上，谷歌 Pixel 6 系列手机最初仅提供 3 年安全更新，在 Pixel 8 发布后，谷歌将 Pixel 6 系列手机软件更新生命周期…",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-b346ecbaf35a",
       "title": "One year with the Google Pixel 10 Pro: Why do bad things happen to good phones?",
@@ -162,26 +382,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "coolapk-user-2b7a50929aec",
-      "title": "竹本青：【荣耀Robot Phone 今天正式开售，售价9999元起】 12GB+512GB —— 9999元 16GB+…",
-      "source": "竹本青",
-      "brand": "HONOR",
-      "model": "HONOR 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-08-17",
-      "time": "17:13",
-      "publishedAt": "2026-08-17T17:13:18.000Z",
-      "url": "https://www.coolapk.com/feed/73299852",
-      "image": "http://image.coolapk.com/feed/2026/0818/01/4248714_66461eac_6797_0096_138@1159x7156.jpg",
-      "summary": "【荣耀Robot Phone 今天正式开售，售价9999元起】 12GB+512GB —— 9999元 16GB+1TB —— 12999元 核心： ● 6.31\"1.5K 120Hz LTPO直屏 ● 骁龙8 Elite Gen5处理器 ● LPDDR5X+UFS4.1 ● 7060mAh+120W有线+50W无线 ● 自研钛合金云台架构 ● 可折叠云台…",
-      "tags": [
-        "HONOR",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
       "id": "auto-0a7ddaabde54",
       "title": "T-Mobile is giving away the Google Pixel 11 Pro XL for FREE without trade — so what's the catch?",
       "source": "Android Central",
@@ -259,26 +459,6 @@ window.phoneRadarAuto = {
         "Xiaomi",
         "爆料",
         "酷安博主"
-      ]
-    },
-    {
-      "id": "auto-3ec918ecc3dd",
-      "title": "曝荣耀多款迭代新机采用万级大电池，预计将落地 WIN2、X、Power 等系列机型",
-      "source": "IT之家",
-      "brand": "HONOR",
-      "model": "HONOR 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-17",
-      "time": "15:20",
-      "publishedAt": "2026-08-17T15:20:35.000Z",
-      "url": "https://www.ithome.com/0/990/851.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/8/9e8bcfc0-ee41-4c66-9ccd-90cee47c6191.png?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 8 月 17 日消息，博主 @数码闲聊站 今日发文爆料，荣耀新机迭代线开了多块万级大电池，除了最大的 11790mAh/12000mAh± 电池外， 还有一块硅含量相对低的 11600mAh/12000mAh± 电池 。 另外，荣耀的万级容量级别电池里还有一块额定 9800mAh 和一块额定 9850mAh 的电池，全都采用单电芯方案。博主称，…",
-      "tags": [
-        "HONOR",
-        "爆料",
-        "自动抓取"
       ]
     },
     {
@@ -382,26 +562,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-09dda66b658b",
-      "title": "小米 REDMI K100 / 90 Pro Max 手机隐藏升级点曝光，机身顶部加入 NFC 刷卡区",
-      "source": "IT之家",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-17",
-      "time": "13:53",
-      "publishedAt": "2026-08-17T13:53:03.000Z",
-      "url": "https://www.ithome.com/0/990/833.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/8/fae799c9-8c41-4b19-8503-f68e8762fc36.png?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 8 月 17 日消息，博主 @缪特mt 今日分享了 REDMI K100 Pro Max 的一个“史诗级”升级： 在机身顶部加入了 NFC 刷卡区，无论是背部还是顶部都能正常触发刷卡 小米 REDMI 产品经理 @笋寸 随后补充， 称 REDMI K90 Pro Max 也支持该功能 。 IT之家注意到，有网友询问 REDMI K100 Pro…",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-cff1c9eeca12",
       "title": "New iPhone Ultra leaks cover release timing, availability, and name",
       "source": "9to5Mac",
@@ -442,26 +602,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-17671305ea3b",
-      "title": "华为鸿蒙 HarmonyOS 7 系统 3D 空间壁纸适配机型公布，含 Pura 90、Mate 80 等系列",
-      "source": "IT之家",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-17",
-      "time": "13:21",
-      "publishedAt": "2026-08-17T13:21:19.000Z",
-      "url": "https://www.ithome.com/0/990/827.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/3/6d133459-9ff7-437f-833f-0e8550478091.jpg?x-bce-process=image/auto-orient,o_1",
-      "summary": "IT之家 8 月 17 日消息， 华为今日开启了鸿蒙 HarmonyOS 7.0.0.102 SP8 版本推送 ，首批面向 Mate 80、Mate 70 等系列机型，系统包大小约 6.79 GB。新版本带来了 3D 空间壁纸、亲密圈、户外探索模式等功能。 ▲ IT之家开箱：华为 Mate 80 Pro Max 风驰版图赏 IT之家询问华为客户服务小艺获悉…",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "coolapk-user-5db99feef5fa",
       "title": "竹本青：【OriginOS 7 官方爆料：光影美学设计】 ● 能感知｜在不同的界面背景下，线条会遵循真实的光学规律发生折射…",
       "source": "竹本青",
@@ -479,46 +619,6 @@ window.phoneRadarAuto = {
         "vivo",
         "爆料",
         "酷安博主"
-      ]
-    },
-    {
-      "id": "auto-68b6b1972bed",
-      "title": "Galaxy Z Fold9 系列要有五款机型？消息称三星明年再推一款全新阔折叠手机，更适合看视频",
-      "source": "IT之家",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-17",
-      "time": "11:03",
-      "publishedAt": "2026-08-17T11:03:15.000Z",
-      "url": "https://www.ithome.com/0/990/795.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/8/3db61c86-81f3-4a8d-8621-6eb41cea2487.jpg",
-      "summary": "IT之家 8 月 17 日消息，据韩媒 EtNews 今天报道，三星电子计划在明年推出一款全新阔折叠手机。业内认为，今年上市的 Galaxy Z Fold8 市场反馈较好，从而让三星“尝到了甜头”，希望继续探索折叠屏手机新形态。 据业内消息，三星电子已在内部启动两款宽折叠新机的研发工作，并将相关计划告知合作伙伴。因此明年的 Galaxy Z Fold9 系…",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-a7306930d040",
-      "title": "Omdia：成本上涨重塑非洲百元智能手机市场，今年 Q2 出货大降 34%",
-      "source": "IT之家",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-17",
-      "time": "11:02",
-      "publishedAt": "2026-08-17T11:02:40.000Z",
-      "url": "https://www.ithome.com/0/990/794.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/8/1bec8fae-2538-4101-a604-d23f55ebc67a.png",
-      "summary": "IT之家 8 月 17 日消息，Omdia 最新报告指出，非洲 100 美元 （IT之家注：现汇率约合 674.9 元人民币） 以下智能手机市场正面临越来越大的压力，内存价格上涨正在挤压入门级设备的利润空间。数据显示，2026 年第二季度，非洲 100 美元 （现汇率约合 674.9 元人民币） 以下智能手机出货量同比下降 34%，厂商们正越来越多地转向融…",
-      "tags": [
-        "行业",
-        "爆料",
-        "自动抓取"
       ]
     },
     {
@@ -622,26 +722,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "coolapk-user-0616108e6123",
-      "title": "竹本青：荣耀MagicOS 11开启内测log版本推送，共覆盖15款手机",
-      "source": "竹本青",
-      "brand": "HONOR",
-      "model": "HONOR 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-08-17",
-      "time": "09:43",
-      "publishedAt": "2026-08-17T09:43:58.000Z",
-      "url": "https://www.coolapk.com/feed/73292507",
-      "image": "http://image.coolapk.com/feed/2026/0817/17/4248714_0f75f0f4_9837_1745_96@1440x1920.jpg",
-      "summary": "【荣耀MagicOS 11 开启内测log版本推送，共覆盖15款手机】 ▫️荣耀Magic V6／V5 ▫️荣耀Magic 8系列 ▫️荣耀Magic 7系列 ▫️荣耀600 Pro系列 ▫️荣耀WIN／WIN RT ▫️荣耀GT Pro log版本 —— 现已提前开启推送 nolog版本 —— 计划明天20:00推送 #今日热点# #MagicOS11#…",
-      "tags": [
-        "HONOR",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
       "id": "auto-6544f2118660",
       "title": "The Pixel 11 Pro fixes my biggest complaint about older Pixel flagships",
       "source": "Android Authority",
@@ -682,23 +762,43 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "coolapk-user-4fdc8c636d4b",
-      "title": "竹本青：电信终端产业协会倡议：手机整机与配件分离销售",
-      "source": "竹本青",
-      "brand": "行业",
-      "model": "智能手机市场",
+      "id": "auto-cb184b5ef937",
+      "title": "Honor Magic 9 series is coming with compact phone variant",
+      "source": "Huawei Central",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
       "type": "爆料",
-      "trust": "高可信爆料",
+      "trust": "媒体汇总",
       "date": "2026-08-17",
-      "time": "09:05",
-      "publishedAt": "2026-08-17T09:05:49.000Z",
-      "url": "https://www.coolapk.com/feed/73291743",
-      "image": "http://image.coolapk.com/feed/2026/0817/17/4248714_134f2866_7934_5051_424@1271x1415.jpg",
-      "summary": "【电信终端产业协会倡议：手机整机与配件分离销售，快充协议等领域协同统一】 8月17日，电信终端产业协会发布“关于推动移动终端产业绿色化发展 推行整机、配件分离销售模式的倡议书”： 为推动电子信息制造业绿色升级，强化终端设备全生命周期绿色管控，遏制低水平同质化重复生产，构建绿色低碳供应链，压减产业链冗余产能，提升产业链供应链现代化水平，面向行业发出如下倡议：…",
+      "time": "07:24",
+      "publishedAt": "2026-08-17T07:24:51.000Z",
+      "url": "https://www.huaweicentral.com/honor-magic-9-series-is-coming-with-compact-phone-variant/",
+      "image": "https://www.huaweicentral.com/wp-content/uploads/2025/10/Honor-Magic-8-series.jpg",
+      "summary": "Honor Magic 9 series will launch next month with a special “compact” variant. The flagship lineup seems to have at least three new models this time – a base version – probably the…",
       "tags": [
-        "行业",
+        "HONOR",
         "爆料",
-        "酷安博主"
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-3506535f803a",
+      "title": "Huawei Mate 90 to stick with circular camera design – no square format",
+      "source": "Huawei Central",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-17",
+      "time": "06:14",
+      "publishedAt": "2026-08-17T06:14:39.000Z",
+      "url": "https://www.huaweicentral.com/huawei-mate-90-to-stick-with-circular-camera-design/",
+      "image": "https://www.huaweicentral.com/wp-content/uploads/2026/02/Mate80ProMax2.jpg",
+      "summary": "Last week saw conflicting reports on whether Huawei will adopt a square rear camera module for its upcoming flagship phones, but a new leak says there is no such plan for the Mate…",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "自动抓取"
       ]
     },
     {
@@ -782,201 +882,21 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-9bbf43c61c96",
-      "title": "Apple announces changes to iOS in Brazil",
-      "source": "Apple Newsroom",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "官方",
-      "trust": "官方确认",
-      "date": "2026-08-17",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.apple.com/newsroom/2026/06/apple-announces-changes-to-ios-in-brazil/",
-      "image": "",
-      "summary": "Apple today announced changes impacting iOS apps in Brazil that reflect a recent agreement with Brazil’s competition regulator, CADE.",
-      "tags": [
-        "iPhone",
-        "官方",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "newsnow-471cd41cbbcb",
-      "title": "把「闪念胶囊」（Almost）放到 iPhone 锁屏",
-      "source": "少数派热榜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "评测",
-      "trust": "媒体汇总",
-      "date": "2026-08-17",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://sspai.com/post/113219",
-      "image": "",
-      "summary": "把「闪念胶囊」（Almost）放到 iPhone 锁屏",
-      "tags": [
-        "iPhone",
-        "评测",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-b3630a10e1bc",
-      "title": "我，与「唯一」的 iPhone Air",
-      "source": "少数派热榜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "评测",
-      "trust": "媒体汇总",
-      "date": "2026-08-17",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://sspai.com/post/112880",
-      "image": "",
-      "summary": "我，与「唯一」的 iPhone Air",
-      "tags": [
-        "iPhone",
-        "评测",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-5d8347246b8d",
-      "title": "最后还是把 iPhone air 回收换了荣耀 air",
-      "source": "酷安热榜",
-      "brand": "HONOR",
-      "model": "HONOR 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-08-17",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73286226",
-      "image": "",
-      "summary": "最后还是把 iPhone air 回收换了荣耀 air",
-      "tags": [
-        "HONOR",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-4c82e181f0d7",
-      "title": "亮哥直播间中了个17标准版 兄弟们留x100还是17啊 #vivoX100# #iPhone17# #数码日常#",
-      "source": "酷安热榜",
-      "brand": "vivo",
-      "model": "vivo 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-08-17",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73269892",
-      "image": "",
-      "summary": "亮哥直播间中了个17标准版 兄弟们留x100还是17啊 #vivoX100# #iPhone17# #数码日常#",
-      "tags": [
-        "vivo",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-335e4b7bde02",
-      "title": "如何看待追觅卖出首台 AURORA 手机，售价超 20 万元？靠高奢定制切入手机赛道可行吗？",
-      "source": "知乎热榜",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "市场报告",
-      "trust": "媒体汇总",
-      "date": "2026-08-17",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.zhihu.com/question/2071642621957747105",
-      "image": "",
-      "summary": "如何看待追觅卖出首台 AURORA 手机，售价超 20 万元？靠高奢定制切入手机赛道可行吗？",
-      "tags": [
-        "行业",
-        "市场报告",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-b6bd245b360f",
-      "title": "闪过念头就刷到广告 是手机在偷听吗",
-      "source": "百度热搜",
-      "brand": "行业",
-      "model": "智能手机市场",
+      "id": "auto-9dad90f3bf5a",
+      "title": "Huawei Pura 100 rumored to skip signature triangular camera look",
+      "source": "Huawei Central",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
       "type": "爆料",
       "trust": "媒体汇总",
       "date": "2026-08-17",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.baidu.com/s?wd=%E9%97%AA%E8%BF%87%E5%BF%B5%E5%A4%B4%E5%B0%B1%E5%88%B7%E5%88%B0%E5%B9%BF%E5%91%8A+%E6%98%AF%E6%89%8B%E6%9C%BA%E5%9C%A8%E5%81%B7%E5%90%AC%E5%90%97",
-      "image": "",
-      "summary": "闪过念头就刷到广告 是手机在偷听吗",
+      "time": "03:05",
+      "publishedAt": "2026-08-17T03:05:01.000Z",
+      "url": "https://www.huaweicentral.com/huawei-pura-100-camera-look/",
+      "image": "https://www.huaweicentral.com/wp-content/uploads/2026/04/pura90-img.jpg",
+      "summary": "Huawei Pura 100 series might get a very unorthodox camera look next year. A new rumor indicates that the next-gen imaging flagship could ditch the signature triangular design it h…",
       "tags": [
-        "行业",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "auto-ce7d02c23ffa",
-      "title": "iQOO Neo11 Ultra camera samples impress with social media-ready look and no artifacts",
-      "source": "Gizmochina",
-      "brand": "vivo",
-      "model": "vivo 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-16",
-      "time": "23:51",
-      "publishedAt": "2026-08-16T23:51:25.000Z",
-      "url": "https://www.gizmochina.com/2026/08/16/iqoo-neo11-ultra-camera-samples-impress-with-social-media-ready-look-and-no-artifacts/",
-      "image": "https://www.gizmochina.com/wp-content/uploads/2026/08/007B27Qzgy1ifz5sw5y6dj32bc3341l0-1-300x169.jpg?x23692",
-      "summary": "iQOO’s latest official teaser for the Neo11 Ultra is all about the camera. They’ve confirmed a 50MP “ultra-stabilized” large Sony sensor as the main camera. The teaser also mentio…",
-      "tags": [
-        "vivo",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-f7f578a5f51e",
-      "title": "Pixel 11 Pro’s ‘HiLight’ is another half-baked feature burdened by bad first impressions",
-      "source": "9to5Google",
-      "brand": "Pixel",
-      "model": "Pixel 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-16",
-      "time": "13:00",
-      "publishedAt": "2026-08-16T13:00:00.000Z",
-      "url": "https://9to5google.com/2026/08/16/google-pixel-11-hilight/",
-      "image": "",
-      "summary": "There are a few trends that have shown up on Pixel phones over the years, but one of the most frustrating is that Google keeps launching half-baked features on its devices that ta…",
-      "tags": [
-        "Pixel",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-20804f9792fb",
-      "title": "Xiaomi scraps Xiaomi 18 Ultra, Oppo and Vivo to limit their Ultra model to China only: Leak",
-      "source": "Gizmochina",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-16",
-      "time": "07:48",
-      "publishedAt": "2026-08-16T07:48:02.000Z",
-      "url": "https://www.gizmochina.com/2026/08/16/xiaomi-scraps-xiaomi-18-ultra-oppo-and-vivo-to-limit-their-ultra-model-to-china-only-leak/",
-      "image": "https://www.gizmochina.com/wp-content/uploads/2026/01/G_rGZSFbkAA2jAs-300x244.jpg?x23692",
-      "summary": "Xiaomi has reportedly pulled the plug on the Xiaomi 18 Ultra, and you might see the word Ultra disappear from a lot more Chinese flagships next year. Words for this come from tips…",
-      "tags": [
-        "Xiaomi",
+        "Huawei",
         "爆料",
         "自动抓取"
       ]

@@ -1,12 +1,12 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-08-17T22:39:42.646Z",
-  "issueDate": "2026-08-17",
-  "issue": "VOL.260817",
+  "updatedAt": "2026-08-18T01:49:28.972Z",
+  "issueDate": "2026-08-18",
+  "issue": "VOL.260818",
   "title": "手机情报日报",
-  "intro": "今日筛出 15 条重点，其中 8 条是重点爆料，包含 4 条 iPhone 相关、0 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 18 条重点，其中 8 条是重点爆料，包含 6 条 iPhone 相关、0 条官方确认、0 条参数线索。",
   "stats": {
-    "total": 15,
-    "iphone": 4,
+    "total": 18,
+    "iphone": 6,
     "leaks": 8,
     "official": 0,
     "specs": 0
@@ -17,6 +17,29 @@ window.phoneRadarDaily = {
       "title": "重点爆料",
       "hint": "机模、配色、影像、屏幕、电池和芯片线索先看。",
       "items": [
+        {
+          "id": "auto-939a45da380d",
+          "title": "入职奖金约 8800 元：曝富士康扩大招工备战苹果 iPhone 18 Pro / Max 及 iPhone Ultra",
+          "originalTitle": "",
+          "source": "IT之家",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-08-17",
+          "time": "23:30",
+          "publishedAt": "2026-08-17T23:30:50.000Z",
+          "url": "https://www.ithome.com/0/990/880.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/8/0b1fb760-9751-4c48-9181-2cf4d17f9523.png?x-bce-process=image/format,f_auto",
+          "verdict": "先看",
+          "takeaway": "IT之家 8 月 18 日消息，科技媒体 macobserver 昨日（8 月 17 日）发布博文，报道称 富士康为满足苹果 iPhone 18 Pro 系列以及首款折叠手机（上市后预估名为 iPhone Ultra）产能，正扩大郑州工厂的招工规模。 消息称为了在苹果秋季发布会（预估 9 月 8 日 / 9 日）召开前最大限度地提高产能， 富士康向新入职员…",
+          "detail": "IT之家 8 月 18 日消息，科技媒体 macobserver 昨日（8 月 17 日）发布博文，报道称 富士康为满足苹果 iPhone 18 Pro 系列以及首款折叠手机（上市后预估名为 iPhone Ultra）产能，正扩大郑州工厂的招工规模。 消息称为了在苹果秋季发布会（预估 9 月 8 日 / 9 日）召开前最大限度地提高产能， 富士康向新入职员…",
+          "keyPoints": [
+            "爆料来源"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
         {
           "id": "auto-9b06e6615868",
           "title": "iPhone 18 Pro 系统功能 / AI 体验相关消息",
@@ -64,92 +87,21 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
-          "id": "auto-3ec918ecc3dd",
-          "title": "曝荣耀多款迭代新机采用万级大电池，预计将落地 WIN2、X、Power 等系列机型",
-          "originalTitle": "",
-          "source": "IT之家",
-          "brand": "HONOR",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-08-17",
-          "time": "15:20",
-          "publishedAt": "2026-08-17T15:20:35.000Z",
-          "url": "https://www.ithome.com/0/990/851.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/8/9e8bcfc0-ee41-4c66-9ccd-90cee47c6191.png?x-bce-process=image/format,f_auto",
-          "verdict": "先看",
-          "takeaway": "IT之家 8 月 17 日消息，博主 @数码闲聊站 今日发文爆料，荣耀新机迭代线开了多块万级大电池，除了最大的 11790mAh/12000mAh± 电池外， 还有一块硅含量相对低的 11600mAh/12000mAh± 电池 。 另外，荣耀的万级容量级别电池里还有一块额定 9800mAh 和一块额定 9850mAh 的电池，全都采用单电芯方案。博主称，…",
-          "detail": "IT之家 8 月 17 日消息，博主 @数码闲聊站 今日发文爆料，荣耀新机迭代线开了多块万级大电池，除了最大的 11790mAh/12000mAh± 电池外， 还有一块硅含量相对低的 11600mAh/12000mAh± 电池 。 另外，荣耀的万级容量级别电池里还有一块额定 9800mAh 和一块额定 9850mAh 的电池，全都采用单电芯方案。博主称，…",
-          "keyPoints": [
-            "电池 / 充电",
-            "爆料来源"
-          ],
-          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "auto-09dda66b658b",
-          "title": "小米 REDMI K100 / 90 Pro Max 手机隐藏升级点曝光，机身顶部加入 NFC 刷卡区",
-          "originalTitle": "",
-          "source": "IT之家",
-          "brand": "Xiaomi",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-08-17",
-          "time": "13:53",
-          "publishedAt": "2026-08-17T13:53:03.000Z",
-          "url": "https://www.ithome.com/0/990/833.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/8/fae799c9-8c41-4b19-8503-f68e8762fc36.png?x-bce-process=image/format,f_auto",
-          "verdict": "先看",
-          "takeaway": "IT之家 8 月 17 日消息，博主 @缪特mt 今日分享了 REDMI K100 Pro Max 的一个“史诗级”升级： 在机身顶部加入了 NFC 刷卡区，无论是背部还是顶部都能正常触发刷卡 小米 REDMI 产品经理 @笋寸 随后补充， 称 REDMI K90 Pro Max 也支持该功能 。 IT之家注意到，有网友询问 REDMI K100 Pro…",
-          "detail": "IT之家 8 月 17 日消息，博主 @缪特mt 今日分享了 REDMI K100 Pro Max 的一个“史诗级”升级： 在机身顶部加入了 NFC 刷卡区，无论是背部还是顶部都能正常触发刷卡 小米 REDMI 产品经理 @笋寸 随后补充， 称 REDMI K90 Pro Max 也支持该功能 。 IT之家注意到，有网友询问 REDMI K100 Pro…",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "auto-68b6b1972bed",
-          "title": "Galaxy Z Fold9 系列要有五款机型？消息称三星明年再推一款全新阔折叠手机，更适合看视频",
-          "originalTitle": "",
-          "source": "IT之家",
-          "brand": "Samsung",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-08-17",
-          "time": "11:03",
-          "publishedAt": "2026-08-17T11:03:15.000Z",
-          "url": "https://www.ithome.com/0/990/795.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/8/3db61c86-81f3-4a8d-8621-6eb41cea2487.jpg",
-          "verdict": "先看",
-          "takeaway": "IT之家 8 月 17 日消息，据韩媒 EtNews 今天报道，三星电子计划在明年推出一款全新阔折叠手机。业内认为，今年上市的 Galaxy Z Fold8 市场反馈较好，从而让三星“尝到了甜头”，希望继续探索折叠屏手机新形态。 据业内消息，三星电子已在内部启动两款宽折叠新机的研发工作，并将相关计划告知合作伙伴。因此明年的 Galaxy Z Fold9 系…",
-          "detail": "IT之家 8 月 17 日消息，据韩媒 EtNews 今天报道，三星电子计划在明年推出一款全新阔折叠手机。业内认为，今年上市的 Galaxy Z Fold8 市场反馈较好，从而让三星“尝到了甜头”，希望继续探索折叠屏手机新形态。 据业内消息，三星电子已在内部启动两款宽折叠新机的研发工作，并将相关计划告知合作伙伴。因此明年的 Galaxy Z Fold9 系…",
-          "keyPoints": [
-            "屏幕形态",
-            "爆料来源"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "coolapk-user-2b7a50929aec",
-          "title": "竹本青：【荣耀Robot Phone 今天正式开售，售价9999元起】 12GB+512GB —— 9999元 16GB+…",
+          "id": "coolapk-user-375bb28be030",
+          "title": "竹本青：【荣耀Robot Phone 今日正式开售，售价9999元起】 12GB+512GB —— 9999元 16GB+…",
           "originalTitle": "",
           "source": "竹本青",
           "brand": "HONOR",
           "type": "爆料",
           "trust": "高可信爆料",
           "date": "2026-08-17",
-          "time": "17:13",
-          "publishedAt": "2026-08-17T17:13:18.000Z",
-          "url": "https://www.coolapk.com/feed/73299852",
-          "image": "http://image.coolapk.com/feed/2026/0818/01/4248714_66461eac_6797_0096_138@1159x7156.jpg",
+          "time": "23:36",
+          "publishedAt": "2026-08-17T23:36:51.000Z",
+          "url": "https://www.coolapk.com/feed/73301407",
+          "image": "http://image.coolapk.com/feed/2026/0818/07/4248714_8c78bbfd_9809_8108_528@1159x7156.jpg",
           "verdict": "先看",
-          "takeaway": "【荣耀Robot Phone 今天正式开售，售价9999元起】 12GB+512GB —— 9999元 16GB+1TB —— 12999元 核心： ● 6.31\"1.5K 120Hz LTPO直屏 ● 骁龙8 Elite Gen5处理器 ● LPDDR5X+UFS4.1 ● 7060mAh+120W有线+50W无线 ● 自研钛合金云台架构 ● 可折叠云台…",
-          "detail": "【荣耀Robot Phone 今天正式开售，售价9999元起】 12GB+512GB —— 9999元 16GB+1TB —— 12999元 核心： ● 6.31\"1.5K 120Hz LTPO直屏 ● 骁龙8 Elite Gen5处理器 ● LPDDR5X+UFS4.1 ● 7060mAh+120W有线+50W无线 ● 自研钛合金云台架构 ● 可折叠云台…",
+          "takeaway": "【荣耀Robot Phone 今日正式开售，售价9999元起】 12GB+512GB —— 9999元 16GB+1TB —— 12999元 核心： ● 6.31\"1.5K 120Hz LTPO直屏 ● 骁龙8 Elite Gen5处理器 ● LPDDR5X+UFS4.1 ● 7060mAh+120W有线+50W无线 ● 自研钛合金云台架构 ● 可折叠云台…",
+          "detail": "【荣耀Robot Phone 今日正式开售，售价9999元起】 12GB+512GB —— 9999元 16GB+1TB —— 12999元 核心： ● 6.31\"1.5K 120Hz LTPO直屏 ● 骁龙8 Elite Gen5处理器 ● LPDDR5X+UFS4.1 ● 7060mAh+120W有线+50W无线 ● 自研钛合金云台架构 ● 可折叠云台…",
           "keyPoints": [
             "屏幕形态",
             "芯片 / 性能",
@@ -183,25 +135,72 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
-          "id": "auto-a7306930d040",
-          "title": "Omdia：成本上涨重塑非洲百元智能手机市场，今年 Q2 出货大降 34%",
+          "id": "weibo-c39a153147ea",
+          "title": "数码闲聊站：独家信息：子系另一台骁龙8E6 Pro新旗舰，工程机50Mp 1/1.3\" F…",
           "originalTitle": "",
-          "source": "IT之家",
+          "source": "数码闲聊站",
           "brand": "行业",
           "type": "爆料",
-          "trust": "媒体汇总",
+          "trust": "高关注爆料源",
           "date": "2026-08-17",
-          "time": "11:02",
-          "publishedAt": "2026-08-17T11:02:40.000Z",
-          "url": "https://www.ithome.com/0/990/794.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/8/1bec8fae-2538-4101-a604-d23f55ebc67a.png",
+          "time": "03:15",
+          "publishedAt": "2026-08-17T03:15:00.000Z",
+          "url": "https://weibo.com/6048569942/RdMQTFKuM",
+          "image": "https://tvax1.sinaimg.cn/mw2000/006BlblIgy1ig58n2etprj30xv0evtdl.jpg",
           "verdict": "先看",
-          "takeaway": "IT之家 8 月 17 日消息，Omdia 最新报告指出，非洲 100 美元 （IT之家注：现汇率约合 674.9 元人民币） 以下智能手机市场正面临越来越大的压力，内存价格上涨正在挤压入门级设备的利润空间。数据显示，2026 年第二季度，非洲 100 美元 （现汇率约合 674.9 元人民币） 以下智能手机出货量同比下降 34%，厂商们正越来越多地转向融…",
-          "detail": "IT之家 8 月 17 日消息，Omdia 最新报告指出，非洲 100 美元 （IT之家注：现汇率约合 674.9 元人民币） 以下智能手机市场正面临越来越大的压力，内存价格上涨正在挤压入门级设备的利润空间。数据显示，2026 年第二季度，非洲 100 美元 （现汇率约合 674.9 元人民币） 以下智能手机出货量同比下降 34%，厂商们正越来越多地转向融…",
+          "takeaway": "独家信息，子系另一台骁龙8E6 Pro新旗舰，工程机50Mp 1/1.3\" F1.68超大底主摄+50Mp F2.0小底超广角+50Mp 1/1.95\" F2.65中底潜望镜，镜组看起来有点像倒置方案，长焦微距待定👖",
+          "detail": "独家信息，子系另一台骁龙8E6 Pro新旗舰，工程机50Mp 1/1.3\" F1.68超大底主摄+50Mp F2.0小底超广角+50Mp 1/1.95\" F2.65中底潜望镜，镜组看起来有点像倒置方案，长焦微距待定👖",
           "keyPoints": [
-            "成本 / 价格"
+            "影像硬件",
+            "爆料来源"
           ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "coolapk-user-30d1aa3498e4",
+          "title": "竹本青：【影石Insta360 Luna Pro 云台相机官宣，将于8月20日发布】 ● 支持4K竖屏拍摄（30fps）…",
+          "originalTitle": "",
+          "source": "竹本青",
+          "brand": "行业",
+          "type": "爆料",
+          "trust": "高可信爆料",
+          "date": "2026-08-17",
+          "time": "18:29",
+          "publishedAt": "2026-08-17T18:29:55.000Z",
+          "url": "https://www.coolapk.com/feed/73300554",
+          "image": "http://image.coolapk.com/feed/2026/0818/02/4248714_62142501_1394_6513_433@1011x1348.jpg",
+          "verdict": "先看",
+          "takeaway": "【影石Insta360 Luna Pro 云台相机官宣，将于8月20日发布】 ● 支持4K竖屏拍摄（30fps） ● 徕卡 Summicron光学镜头 ● 1英寸传感器，光圈F/1.8 ● 14档动态范围 ● 可拆卸图传遥控屏（Ultra同款） ● 3轴机械防抖+FlowState防抖 #今日热点# #影石Insta360LunaPro# #影石Insta…",
+          "detail": "【影石Insta360 Luna Pro 云台相机官宣，将于8月20日发布】 ● 支持4K竖屏拍摄（30fps） ● 徕卡 Summicron光学镜头 ● 1英寸传感器，光圈F/1.8 ● 14档动态范围 ● 可拆卸图传遥控屏（Ultra同款） ● 3轴机械防抖+FlowState防抖 #今日热点# #影石Insta360LunaPro# #影石Insta…",
+          "keyPoints": [
+            "影像硬件"
+          ],
+          "confidence": "可信度较高，但仍属于发布前线索。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "coolapk-user-47efa0f3ae22",
+          "title": "竹本青：【REDMI K90／K100 Pro Max 隐藏升级点：支持顶部刷NFC】 8月17日，有博主发文表示，RED…",
+          "originalTitle": "",
+          "source": "竹本青",
+          "brand": "Xiaomi",
+          "type": "爆料",
+          "trust": "高可信爆料",
+          "date": "2026-08-17",
+          "time": "15:26",
+          "publishedAt": "2026-08-17T15:26:23.000Z",
+          "url": "https://www.coolapk.com/feed/73298349",
+          "image": "http://image.coolapk.com/feed/2026/0817/23/4248714_7058127d_0624_1425_825@1272x1533.jpg",
+          "verdict": "先看",
+          "takeaway": "【REDMI K90／K100 Pro Max 隐藏升级点：支持顶部刷NFC】 8月17日，有博主发文表示，REDMI K100 Pro Max迎来一项实用升级，该机在机身顶部增设NFC刷卡区域，背部、顶部都可以正常完成NFC刷卡触发。 随后，REDMI产品经理“笋寸”转发作出补充，称K90 Pro Max机身顶部同样支持该功能。 #RedmiK90Pro…",
+          "detail": "【REDMI K90／K100 Pro Max 隐藏升级点：支持顶部刷NFC】 8月17日，有博主发文表示，REDMI K100 Pro Max迎来一项实用升级，该机在机身顶部增设NFC刷卡区域，背部、顶部都可以正常完成NFC刷卡触发。 随后，REDMI产品经理“笋寸”转发作出补充，称K90 Pro Max机身顶部同样支持该功能。 #RedmiK90Pro…",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "可信度较高，但仍属于发布前线索。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         }
@@ -212,6 +211,52 @@ window.phoneRadarDaily = {
       "title": "iPhone 重点",
       "hint": "不是硬件爆料，但和 iPhone 体验或路线有关。",
       "items": [
+        {
+          "id": "newsnow-3b3aa6844d65",
+          "title": "把「闪念胶囊」（Almost）放到 iPhone 锁屏",
+          "originalTitle": "",
+          "source": "少数派热榜",
+          "brand": "iPhone",
+          "type": "评测",
+          "trust": "媒体汇总",
+          "date": "2026-08-18",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://sspai.com/post/113219",
+          "image": "",
+          "verdict": "扫一眼",
+          "takeaway": "把「闪念胶囊」（Almost）放到 iPhone 锁屏",
+          "detail": "把「闪念胶囊」（Almost）放到 iPhone 锁屏",
+          "keyPoints": [
+            "评测"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是实际体验内容，买前适合重点看缺点和取舍。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        },
+        {
+          "id": "newsnow-73bcf380a317",
+          "title": "我，与「唯一」的 iPhone Air",
+          "originalTitle": "",
+          "source": "少数派热榜",
+          "brand": "iPhone",
+          "type": "评测",
+          "trust": "媒体汇总",
+          "date": "2026-08-18",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://sspai.com/post/112880",
+          "image": "",
+          "verdict": "扫一眼",
+          "takeaway": "我，与「唯一」的 iPhone Air",
+          "detail": "我，与「唯一」的 iPhone Air",
+          "keyPoints": [
+            "评测"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是实际体验内容，买前适合重点看缺点和取舍。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        },
         {
           "id": "auto-5ab98bb6c593",
           "title": "iPhone 相关消息",
@@ -234,23 +279,60 @@ window.phoneRadarDaily = {
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
+        }
+      ]
+    },
+    {
+      "id": "launch",
+      "title": "新机与官方发布",
+      "hint": "能直接更新到参数库。",
+      "items": [
         {
-          "id": "newsnow-471cd41cbbcb",
-          "title": "把「闪念胶囊」（Almost）放到 iPhone 锁屏",
+          "id": "auto-30c8f708bb34",
+          "title": "谷歌向 Pixel 系列手机推送安卓 17 QPR1 Beta 9 更新：修复“圈选即搜”等功能 Bug",
           "originalTitle": "",
-          "source": "少数派热榜",
-          "brand": "iPhone",
+          "source": "IT之家",
+          "brand": "Pixel",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-08-17",
+          "time": "22:55",
+          "publishedAt": "2026-08-17T22:55:52.000Z",
+          "url": "https://www.ithome.com/0/990/871.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/8/04dd4c4a-c6ad-468f-bf77-477c8b0292cc.png?x-bce-process=image/format,f_auto",
+          "verdict": "先看",
+          "takeaway": "IT之家 8 月 18 日消息，谷歌近日开始向 Pixel 系列推送安卓 17 QPR1 Beta 9 更新。此次更新主要修复多项系统问题，这也意味着 Pixel 6 / Pro 系列机型将迎来最后一个测试版更新。 事实上，谷歌 Pixel 6 系列手机最初仅提供 3 年安全更新，在 Pixel 8 发布后，谷歌将 Pixel 6 系列手机软件更新生命周期…",
+          "detail": "IT之家 8 月 18 日消息，谷歌近日开始向 Pixel 系列推送安卓 17 QPR1 Beta 9 更新。此次更新主要修复多项系统问题，这也意味着 Pixel 6 / Pro 系列机型将迎来最后一个测试版更新。 事实上，谷歌 Pixel 6 系列手机最初仅提供 3 年安全更新，在 Pixel 8 发布后，谷歌将 Pixel 6 系列手机软件更新生命周期…",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "中文源可以直接点开快读；看完只保留和购机有关的点。"
+        }
+      ]
+    },
+    {
+      "id": "review",
+      "title": "评测与体验",
+      "hint": "买前再细看，平时扫一眼即可。",
+      "items": [
+        {
+          "id": "auto-b346ecbaf35a",
+          "title": "Pixel 相关消息",
+          "originalTitle": "",
+          "source": "Android Central",
+          "brand": "Pixel",
           "type": "评测",
           "trust": "媒体汇总",
           "date": "2026-08-17",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://sspai.com/post/113219",
-          "image": "",
-          "verdict": "扫一眼",
-          "takeaway": "把「闪念胶囊」（Almost）放到 iPhone 锁屏",
-          "detail": "把「闪念胶囊」（Almost）放到 iPhone 锁屏",
+          "time": "22:34",
+          "publishedAt": "2026-08-17T22:34:10.000Z",
+          "url": "https://www.androidcentral.com/phones/google-pixel/one-year-with-the-google-pixel-10-pro",
+          "image": "https://cdn.mos.cms.futurecdn.net/QzD5oSKZNB28YgXTma5BZZ-1280-80.jpg",
+          "verdict": "可略过",
+          "takeaway": "Pixel 相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
+          "detail": "Pixel 相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
           "keyPoints": [
             "评测"
           ],
@@ -266,14 +348,37 @@ window.phoneRadarDaily = {
       "hint": "看方向，不急着当购买依据。",
       "items": [
         {
-          "id": "newsnow-5d8347246b8d",
+          "id": "auto-367933cb123c",
+          "title": "代码显示谷歌正为 Pixel 系列手机开发“Connectivity Health”网络诊断功能，可帮助用户快速排错",
+          "originalTitle": "",
+          "source": "IT之家",
+          "brand": "Pixel",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-08-18",
+          "time": "01:17",
+          "publishedAt": "2026-08-18T01:17:38.000Z",
+          "url": "https://www.ithome.com/0/990/911.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/8/81722cf9-9e32-4b9e-99f8-b9db1abf9a40.jpg",
+          "verdict": "先看",
+          "takeaway": "IT之家 8 月 18 日消息，外媒 Android Authority 在检查安卓系统代码时，发现谷歌正计划为 Pixel 手机引入一项名为“Connectivity Health”的网络诊断功能，如果用户发现连不上网络，则可以使用相应功能尝试排错。 外媒设法在系统上启用了这一功能，在激活后，Connectivity Health 将位于 Pixel 手…",
+          "detail": "IT之家 8 月 18 日消息，外媒 Android Authority 在检查安卓系统代码时，发现谷歌正计划为 Pixel 手机引入一项名为“Connectivity Health”的网络诊断功能，如果用户发现连不上网络，则可以使用相应功能尝试排错。 外媒设法在系统上启用了这一功能，在激活后，Connectivity Health 将位于 Pixel 手…",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "中文源可以直接点开快读；看完只保留和购机有关的点。"
+        },
+        {
+          "id": "newsnow-4be8a0542294",
           "title": "最后还是把 iPhone air 回收换了荣耀 air",
           "originalTitle": "",
           "source": "酷安热榜",
           "brand": "HONOR",
           "type": "爆料",
           "trust": "高关注爆料源",
-          "date": "2026-08-17",
+          "date": "2026-08-18",
           "time": "",
           "publishedAt": "",
           "url": "https://www.coolapk.com/feed/73286226",
@@ -289,14 +394,14 @@ window.phoneRadarDaily = {
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         },
         {
-          "id": "newsnow-4c82e181f0d7",
+          "id": "newsnow-014e2b379803",
           "title": "亮哥直播间中了个17标准版 兄弟们留x100还是17啊 #vivoX100# #iPhone17# #数码日常#",
           "originalTitle": "",
           "source": "酷安热榜",
           "brand": "vivo",
           "type": "爆料",
           "trust": "高关注爆料源",
-          "date": "2026-08-17",
+          "date": "2026-08-18",
           "time": "",
           "publishedAt": "",
           "url": "https://www.coolapk.com/feed/73269892",
@@ -308,52 +413,6 @@ window.phoneRadarDaily = {
             "爆料"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
-        {
-          "id": "auto-17671305ea3b",
-          "title": "华为鸿蒙 HarmonyOS 7 系统 3D 空间壁纸适配机型公布，含 Pura 90、Mate 80 等系列",
-          "originalTitle": "",
-          "source": "IT之家",
-          "brand": "Huawei",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-08-17",
-          "time": "13:21",
-          "publishedAt": "2026-08-17T13:21:19.000Z",
-          "url": "https://www.ithome.com/0/990/827.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/3/6d133459-9ff7-437f-833f-0e8550478091.jpg?x-bce-process=image/auto-orient,o_1",
-          "verdict": "扫一眼",
-          "takeaway": "IT之家 8 月 17 日消息， 华为今日开启了鸿蒙 HarmonyOS 7.0.0.102 SP8 版本推送 ，首批面向 Mate 80、Mate 70 等系列机型，系统包大小约 6.79 GB。新版本带来了 3D 空间壁纸、亲密圈、户外探索模式等功能。 ▲ IT之家开箱：华为 Mate 80 Pro Max 风驰版图赏 IT之家询问华为客户服务小艺获悉…",
-          "detail": "IT之家 8 月 17 日消息， 华为今日开启了鸿蒙 HarmonyOS 7.0.0.102 SP8 版本推送 ，首批面向 Mate 80、Mate 70 等系列机型，系统包大小约 6.79 GB。新版本带来了 3D 空间壁纸、亲密圈、户外探索模式等功能。 ▲ IT之家开箱：华为 Mate 80 Pro Max 风驰版图赏 IT之家询问华为客户服务小艺获悉…",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "中文源可以直接点开快读；看完只保留和购机有关的点。"
-        },
-        {
-          "id": "coolapk-user-0616108e6123",
-          "title": "竹本青：荣耀MagicOS 11开启内测log版本推送，共覆盖15款手机",
-          "originalTitle": "",
-          "source": "竹本青",
-          "brand": "HONOR",
-          "type": "爆料",
-          "trust": "高可信爆料",
-          "date": "2026-08-17",
-          "time": "09:43",
-          "publishedAt": "2026-08-17T09:43:58.000Z",
-          "url": "https://www.coolapk.com/feed/73292507",
-          "image": "http://image.coolapk.com/feed/2026/0817/17/4248714_0f75f0f4_9837_1745_96@1440x1920.jpg",
-          "verdict": "扫一眼",
-          "takeaway": "【荣耀MagicOS 11 开启内测log版本推送，共覆盖15款手机】 ▫️荣耀Magic V6／V5 ▫️荣耀Magic 8系列 ▫️荣耀Magic 7系列 ▫️荣耀600 Pro系列 ▫️荣耀WIN／WIN RT ▫️荣耀GT Pro log版本 —— 现已提前开启推送 nolog版本 —— 计划明天20:00推送 #今日热点# #MagicOS11#…",
-          "detail": "【荣耀MagicOS 11 开启内测log版本推送，共覆盖15款手机】 ▫️荣耀Magic V6／V5 ▫️荣耀Magic 8系列 ▫️荣耀Magic 7系列 ▫️荣耀600 Pro系列 ▫️荣耀WIN／WIN RT ▫️荣耀GT Pro log版本 —— 现已提前开启推送 nolog版本 —— 计划明天20:00推送 #今日热点# #MagicOS11#…",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "可信度较高，但仍属于发布前线索。",
           "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         },
@@ -379,6 +438,29 @@ window.phoneRadarDaily = {
           "confidence": "可信度较高，但仍属于发布前线索。",
           "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        },
+        {
+          "id": "auto-c55264fa4948",
+          "title": "Pixel 11 芯片 / 性能相关消息",
+          "originalTitle": "",
+          "source": "9to5Google",
+          "brand": "Pixel",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-08-17",
+          "time": "14:45",
+          "publishedAt": "2026-08-17T14:45:00.000Z",
+          "url": "https://9to5google.com/2026/08/17/google-pixel-11-mediatek-modem/",
+          "image": "",
+          "verdict": "可略过",
+          "takeaway": "Pixel 芯片或连接能力相关线索，可能影响性能和续航判断。",
+          "detail": "Pixel 11 芯片 / 性能相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
+          "keyPoints": [
+            "芯片 / 性能"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "影响性能和寿命判断，适合放进参数库。",
+          "action": "有具体参数就记录到参数库；没有参数就先收藏。"
         }
       ]
     }
