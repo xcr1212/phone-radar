@@ -1,12 +1,12 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-08-19T07:04:17.736Z",
+  "updatedAt": "2026-08-19T08:53:32.549Z",
   "issueDate": "2026-08-19",
   "issue": "VOL.260819",
   "title": "手机情报日报",
-  "intro": "今日筛出 8 条重点，其中 8 条是重点爆料，包含 3 条 iPhone 相关、0 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 8 条重点，其中 8 条是重点爆料，包含 2 条 iPhone 相关、0 条官方确认、0 条参数线索。",
   "stats": {
     "total": 8,
-    "iphone": 3,
+    "iphone": 2,
     "leaks": 8,
     "official": 0,
     "specs": 0
@@ -17,30 +17,6 @@ window.phoneRadarDaily = {
       "title": "重点爆料",
       "hint": "机模、配色、影像、屏幕、电池和芯片线索先看。",
       "items": [
-        {
-          "id": "auto-95a01597cfdc",
-          "title": "苹果 iPhone 18 Pro 手机壳曝光，恐无缘可变光圈升级",
-          "originalTitle": "",
-          "source": "IT之家",
-          "brand": "iPhone",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-08-19",
-          "time": "04:38",
-          "publishedAt": "2026-08-19T04:38:40.000Z",
-          "url": "https://www.ithome.com/0/991/572.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/8/29d060f1-d291-43b9-99db-b5840bdb1658.png",
-          "verdict": "先看",
-          "takeaway": "IT之家 8 月 19 日消息，彭博社的马克 · 古尔曼（Mark Gurman）今天（8 月 19 日）在 X 平台发布推文， 指出配件厂商 Otterbox 已推出适用于苹果 iPhone 18 Pro 的手机壳，且已经在百思买（Best Buy）上架销售。 IT之家翻译古尔曼推文内容如下： Otterbox 推出的手机壳来看，苹果 iPhone 18…",
-          "detail": "IT之家 8 月 19 日消息，彭博社的马克 · 古尔曼（Mark Gurman）今天（8 月 19 日）在 X 平台发布推文， 指出配件厂商 Otterbox 已推出适用于苹果 iPhone 18 Pro 的手机壳，且已经在百思买（Best Buy）上架销售。 IT之家翻译古尔曼推文内容如下： Otterbox 推出的手机壳来看，苹果 iPhone 18…",
-          "keyPoints": [
-            "影像硬件",
-            "爆料来源"
-          ],
-          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
         {
           "id": "auto-5ff91a9f217a",
           "title": "iPhone 18 Pro Max 影像能力相关消息",
@@ -89,25 +65,27 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
-          "id": "auto-586f40a341d2",
-          "title": "三星 Galaxy S26 FE 手机上手视频曝光，拍摄样张流出",
+          "id": "auto-073ea2cf7655",
+          "title": "消息称 OPPO 阔直板新机有望归属旗舰产品线：目前评估 200Mp 大底影像方案，定义很顶级",
           "originalTitle": "",
           "source": "IT之家",
-          "brand": "Samsung",
+          "brand": "OPPO",
           "type": "爆料",
           "trust": "媒体汇总",
           "date": "2026-08-19",
-          "time": "03:22",
-          "publishedAt": "2026-08-19T03:22:37.000Z",
-          "url": "https://www.ithome.com/0/991/543.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/8/a6e3f8e9-8278-4b69-9093-77505464265a.jpg",
+          "time": "08:00",
+          "publishedAt": "2026-08-19T08:00:27.000Z",
+          "url": "https://www.ithome.com/0/991/680.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/8/fbeef846-3e4c-4e06-a6e5-c563e893e7f1.png?x-bce-process=image/format,f_auto",
           "verdict": "先看",
-          "takeaway": "IT之家 8 月 19 日消息，科技媒体 YtechB 今天（8 月 19 日）发布博文，分享了 三星 Galaxy S26 FE 手机的欧盟 EPREL 标签， 显示该机支持 IP68 级别防水防尘，在 1200 次充电循环后仍能保持 80% 的容量。 IT之家查询社交平台，网友 @_samz02 在 TikTok 还分享了一段约 90 秒的视频，展示了…",
-          "detail": "IT之家 8 月 19 日消息，科技媒体 YtechB 今天（8 月 19 日）发布博文，分享了 三星 Galaxy S26 FE 手机的欧盟 EPREL 标签， 显示该机支持 IP68 级别防水防尘，在 1200 次充电循环后仍能保持 80% 的容量。 IT之家查询社交平台，网友 @_samz02 在 TikTok 还分享了一段约 90 秒的视频，展示了…",
+          "takeaway": "IT之家 8 月 19 日消息，博主 @数码闲聊站 今日发文爆料，OPPO 阔直板新机“大概率”归属旗舰产品线。博主透露， 该机目前评估 200Mp 大底影像，有潜望长焦，定义很顶级 。 有网友询问该机进展顺利的话能否跟超大杯机型一起发布，博主称， 目前排期就是和超大杯一起 。 据IT之家此前报道，该博主曾爆料 OPPO 旗下 6.3-6.4 英寸阔直屏新…",
+          "detail": "IT之家 8 月 19 日消息，博主 @数码闲聊站 今日发文爆料，OPPO 阔直板新机“大概率”归属旗舰产品线。博主透露， 该机目前评估 200Mp 大底影像，有潜望长焦，定义很顶级 。 有网友询问该机进展顺利的话能否跟超大杯机型一起发布，博主称， 目前排期就是和超大杯一起 。 据IT之家此前报道，该博主曾爆料 OPPO 旗下 6.3-6.4 英寸阔直屏新…",
           "keyPoints": [
-            "电池 / 充电"
+            "影像硬件",
+            "屏幕形态",
+            "爆料来源"
           ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
@@ -204,6 +182,30 @@ window.phoneRadarDaily = {
             "爆料来源"
           ],
           "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "coolapk-user-dc120a078181",
+          "title": "竹本青：曝OPPO阔直板新机明年与超大杯同场发布",
+          "originalTitle": "",
+          "source": "竹本青",
+          "brand": "OPPO",
+          "type": "爆料",
+          "trust": "高可信爆料",
+          "date": "2026-08-19",
+          "time": "07:25",
+          "publishedAt": "2026-08-19T07:25:10.000Z",
+          "url": "https://www.coolapk.com/feed/73324212",
+          "image": "http://image.coolapk.com/feed/2026/0819/15/4248714_99d98c50_4408_2035_384@1439x1031.jpg",
+          "verdict": "先看",
+          "takeaway": "【曝OPPO阔直板新机归属旗舰线，明年与超大杯同场发布】 ● 6.3\"-6.4\"1.5K LTPO四等边屏 ● 2亿像素大底影像+潜望长焦 ● 明年上半年与Find X10 Ultra同场发布 #今日热点# #ColorOS17# #OPPOFindN6#",
+          "detail": "【曝OPPO阔直板新机归属旗舰线，明年与超大杯同场发布】 ● 6.3\"-6.4\"1.5K LTPO四等边屏 ● 2亿像素大底影像+潜望长焦 ● 明年上半年与Find X10 Ultra同场发布 #今日热点# #ColorOS17# #OPPOFindN6#",
+          "keyPoints": [
+            "外观 / 配色 / 尺寸",
+            "影像硬件"
+          ],
+          "confidence": "可信度较高，但仍属于发布前线索。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         }

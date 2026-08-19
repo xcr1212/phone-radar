@@ -1,6 +1,186 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-08-19T07:04:17.736Z",
+  "updatedAt": "2026-08-19T08:53:32.549Z",
   "news": [
+    {
+      "id": "auto-acac296aed32",
+      "title": "OnePlus 16’s BOE X4 display to bring 165Hz system-wide refresh rate and enhanced gaming experience",
+      "source": "Gizmochina",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-19",
+      "time": "08:31",
+      "publishedAt": "2026-08-19T08:31:58.000Z",
+      "url": "https://www.gizmochina.com/2026/08/19/oneplus-16-165hz-system-wide-refresh-rate/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2025/10/OnePlus-15-display-300x169.jpg?x23692",
+      "summary": "Tipster Digital Chat Station has been consistently sharing details about the OnePlus 16’s display. Yesterday, he revealed that OnePlus and BOE have jointly developed a new X4 ligh…",
+      "tags": [
+        "OPPO",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-6807ee471a65",
+      "title": "Motorola Moto G Max vs Redmi Note 17 Pro: Specs, Price and Features Compared",
+      "source": "Gizmochina",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-19",
+      "time": "08:19",
+      "publishedAt": "2026-08-19T08:19:47.000Z",
+      "url": "https://www.gizmochina.com/2026/08/19/motorola-moto-g-max-vs-redmi-note-17-pro/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/08/image-81-300x191.png?x23692",
+      "summary": "Motorola Moto G Max and Redmi Note 17 Pro take very different approaches to the mid-range smartphone battle. Both are powered by the Snapdragon 6s Gen 4, but the Redmi pushes furt…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-5e0dbbdd03a0",
+      "title": "iQOO 16, Neo 12 tipped to bring 2K displays with up to 185Hz refresh rate",
+      "source": "Gizmochina",
+      "brand": "vivo",
+      "model": "vivo 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-19",
+      "time": "08:05",
+      "publishedAt": "2026-08-19T08:05:06.000Z",
+      "url": "https://www.gizmochina.com/2026/08/19/iqoo-16-neo-12-display-specifications-tipped/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2025/12/iQOO-15-halo-300x225.jpg?x23692",
+      "summary": "By the end of September or early October, iQOO may unveil two new flagship phones in China. The iQOO 16 is expected to debut with the upcoming Snapdragon 8 Elite Gen 6 Pro, while…",
+      "tags": [
+        "vivo",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-073ea2cf7655",
+      "title": "消息称 OPPO 阔直板新机有望归属旗舰产品线：目前评估 200Mp 大底影像方案，定义很顶级",
+      "source": "IT之家",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-19",
+      "time": "08:00",
+      "publishedAt": "2026-08-19T08:00:27.000Z",
+      "url": "https://www.ithome.com/0/991/680.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/8/fbeef846-3e4c-4e06-a6e5-c563e893e7f1.png?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 8 月 19 日消息，博主 @数码闲聊站 今日发文爆料，OPPO 阔直板新机“大概率”归属旗舰产品线。博主透露， 该机目前评估 200Mp 大底影像，有潜望长焦，定义很顶级 。 有网友询问该机进展顺利的话能否跟超大杯机型一起发布，博主称， 目前排期就是和超大杯一起 。 据IT之家此前报道，该博主曾爆料 OPPO 旗下 6.3-6.4 英寸阔直屏新…",
+      "tags": [
+        "OPPO",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-f3c05e2c302e",
+      "title": "Galaxy S26 FE battery life could be longer than the Galaxy S25 FE",
+      "source": "SamMobile",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-19",
+      "time": "07:56",
+      "publishedAt": "2026-08-19T07:56:24.000Z",
+      "url": "https://www.sammobile.com/news/galaxy-s26-fe-battery-life-longer-galaxy-s25-fe/",
+      "image": "https://www.sammobile.com/wp-content/uploads/2026/08/Samsung-Galaxy-S26-FE-EPREL-ENERGY-Rating-Label.jpg",
+      "summary": "The Galaxy S26 FE could go official within the next few weeks, and most specifications of the phone have already leaked. Now, one of the ways the phone could be better than its pr…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-ab73a999e0fb",
+      "title": "Never mind OnePlus 15: OnePlus 16 could finally get true 165Hz refresh rate",
+      "source": "Android Authority",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-19",
+      "time": "07:54",
+      "publishedAt": "2026-08-19T07:54:25.000Z",
+      "url": "https://www.androidauthority.com/oneplus-16-165hz-screen-leak-3699661/",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2025/12/oneplus-15-Call-of-duty-165-fps.jpg",
+      "summary": "The OnePlus 16 could let you take full advantage of that 165Hz panel.",
+      "tags": [
+        "OPPO",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-3a4d6ff35cef",
+      "title": "竹本青：【OPPO「流体云」上线智能到站提醒】 覆盖城市：北京、上海、广州、深圳、杭州、成都、西安、合肥、沈阳、南京、福州…",
+      "source": "竹本青",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-08-19",
+      "time": "07:31",
+      "publishedAt": "2026-08-19T07:31:31.000Z",
+      "url": "https://www.coolapk.com/feed/73324325",
+      "image": "http://image.coolapk.com/feed/2026/0819/15/4248714_655008ca_4688_1369_801@2000x2815.jpg",
+      "summary": "【OPPO「流体云」上线智能到站提醒】 覆盖城市：北京、上海、广州、深圳、杭州、成都、西安、合肥、沈阳、南京、福州、长春、苏州、佛山、青岛、无锡、石家庄、厦门、济南、南宁、昆明、武汉、长沙。 #ColorOS16# #ColorOS17# #今日热点#",
+      "tags": [
+        "OPPO",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "coolapk-user-dc120a078181",
+      "title": "竹本青：曝OPPO阔直板新机明年与超大杯同场发布",
+      "source": "竹本青",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-08-19",
+      "time": "07:25",
+      "publishedAt": "2026-08-19T07:25:10.000Z",
+      "url": "https://www.coolapk.com/feed/73324212",
+      "image": "http://image.coolapk.com/feed/2026/0819/15/4248714_99d98c50_4408_2035_384@1439x1031.jpg",
+      "summary": "【曝OPPO阔直板新机归属旗舰线，明年与超大杯同场发布】 ● 6.3\"-6.4\"1.5K LTPO四等边屏 ● 2亿像素大底影像+潜望长焦 ● 明年上半年与Find X10 Ultra同场发布 #今日热点# #ColorOS17# #OPPOFindN6#",
+      "tags": [
+        "OPPO",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "weibo-894b9ddc2b80",
+      "title": "数码闲聊站：独家，O阔直板新机大概率是旗舰线，目前评估200Mp大底影像，有潜望长焦，定义…",
+      "source": "数码闲聊站",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-08-19",
+      "time": "07:18",
+      "publishedAt": "2026-08-19T07:18:00.000Z",
+      "url": "https://weibo.com/6048569942/Re7iwBkel",
+      "image": "",
+      "summary": "独家，O阔直板新机大概率是旗舰线，目前评估200Mp大底影像，有潜望长焦，定义很顶级[偷乐]",
+      "tags": [
+        "行业",
+        "爆料",
+        "微博"
+      ]
+    },
     {
       "id": "auto-e1069c758f4e",
       "title": "Xiaomi 18 Pro, 18 Pro Max receive 3C certification, fast charging speed revealed",
@@ -42,26 +222,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-95a01597cfdc",
-      "title": "苹果 iPhone 18 Pro 手机壳曝光，恐无缘可变光圈升级",
-      "source": "IT之家",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-19",
-      "time": "04:38",
-      "publishedAt": "2026-08-19T04:38:40.000Z",
-      "url": "https://www.ithome.com/0/991/572.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/8/29d060f1-d291-43b9-99db-b5840bdb1658.png",
-      "summary": "IT之家 8 月 19 日消息，彭博社的马克 · 古尔曼（Mark Gurman）今天（8 月 19 日）在 X 平台发布推文， 指出配件厂商 Otterbox 已推出适用于苹果 iPhone 18 Pro 的手机壳，且已经在百思买（Best Buy）上架销售。 IT之家翻译古尔曼推文内容如下： Otterbox 推出的手机壳来看，苹果 iPhone 18…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "coolapk-user-23f6781516b1",
       "title": "竹本青：【消息称 iQOO 中高端全线压宝2K超高刷屏】 迭代高端线：6.85\"±2K+165Hz 三星显示 迭代中端线：…",
       "source": "竹本青",
@@ -79,46 +239,6 @@ window.phoneRadarAuto = {
         "Samsung",
         "爆料",
         "酷安博主"
-      ]
-    },
-    {
-      "id": "auto-586f40a341d2",
-      "title": "三星 Galaxy S26 FE 手机上手视频曝光，拍摄样张流出",
-      "source": "IT之家",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-19",
-      "time": "03:22",
-      "publishedAt": "2026-08-19T03:22:37.000Z",
-      "url": "https://www.ithome.com/0/991/543.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/8/a6e3f8e9-8278-4b69-9093-77505464265a.jpg",
-      "summary": "IT之家 8 月 19 日消息，科技媒体 YtechB 今天（8 月 19 日）发布博文，分享了 三星 Galaxy S26 FE 手机的欧盟 EPREL 标签， 显示该机支持 IP68 级别防水防尘，在 1200 次充电循环后仍能保持 80% 的容量。 IT之家查询社交平台，网友 @_samz02 在 TikTok 还分享了一段约 90 秒的视频，展示了…",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-428d6dbeebdb",
-      "title": "小米智能摄像机视频通话版 2 单机上架：3.97 英寸彩屏，众筹价 429 元",
-      "source": "IT之家",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-19",
-      "time": "02:53",
-      "publishedAt": "2026-08-19T02:53:18.000Z",
-      "url": "https://www.ithome.com/0/991/501.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/8/ae33e52a-a8ae-41be-9477-128758eaaa8f.png",
-      "summary": "IT之家 8 月 19 日消息，小米智能摄像机视频通话版 2 单机今日上架小米有品并开启预约，8 月 26 日 10 点新开启众筹，众筹价 429 元（ 点击前往 ）。 IT之家从商品页面获悉，新品配备 3.97 英寸彩屏 ，全贴合工艺，分辨率 480x800。所有按键面积增大，按压感清晰，反应更灵敏，方便老人小孩操作。摄像机与手机、摄像机与摄像机之间均可…",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "自动抓取"
       ]
     },
     {
@@ -322,6 +442,26 @@ window.phoneRadarAuto = {
       ]
     },
     {
+      "id": "newsnow-57314446e406",
+      "title": "iPhone18发布会或定档9月9日",
+      "source": "微博热搜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "待验证",
+      "date": "2026-08-19",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://s.weibo.com/weibo?q=%23iPhone18%E5%8F%91%E5%B8%83%E4%BC%9A%E6%88%96%E5%AE%9A%E6%A1%A39%E6%9C%889%E6%97%A5%23&t=31&band_rank=17&Refer=top",
+      "image": "",
+      "summary": "iPhone18发布会或定档9月9日",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
       "id": "auto-d8199872a8ff",
       "title": "Apple's iPhone 18 Release Schedule: What's Coming and When",
       "source": "MacRumors",
@@ -382,26 +522,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-44d1239c7080",
-      "title": "Latest leak reveals almost all Galaxy S26 FE details before launch",
-      "source": "SamMobile",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-18",
-      "time": "18:09",
-      "publishedAt": "2026-08-18T18:09:29.000Z",
-      "url": "https://www.sammobile.com/news/latest-leak-reveals-almost-all-galaxy-s26-fe-details-before-launch/",
-      "image": "https://www.sammobile.com/wp-content/uploads/2026/08/galaxy-s26-fe-details-leak-4.jpeg",
-      "summary": "The steady stream of leaks over the past couple of weeks have made it clear that the Galaxy S26 FE launch isn't that far off. A new leak today has revealed almost all details abou…",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-188c99c49dbf",
       "title": "You can get an unlocked Google Pixel 11 for as little as $99 at Best Buy (sort of) — here's how",
       "source": "Android Central",
@@ -435,26 +555,6 @@ window.phoneRadarAuto = {
       "url": "https://www.androidauthority.com/samsung-galaxy-s26-fe-design-specs-features-leak-3699924/",
       "image": "https://www.androidauthority.com/wp-content/uploads/2025/09/Samsung-Galaxy-S25-FE-in-all-four-colors-fanned-out-in-mans-hand.jpg",
       "summary": "The Galaxy S26 FE may be a couple of weeks away from launch, but an extensive leak has spared no detail.",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-5c127eb08fca",
-      "title": "New Galaxy S26 FE leak suggests its launch is near",
-      "source": "SamMobile",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-18",
-      "time": "16:32",
-      "publishedAt": "2026-08-18T16:32:13.000Z",
-      "url": "https://www.sammobile.com/news/new-galaxy-s26-fe-leak-suggests-launch-near/",
-      "image": "",
-      "summary": "Earlier this month, Samsung announced that it will soon launch a new Galaxy S Fan Edition smartphone, the Galaxy S26 FE, which will succeed the Galaxy S25 FE. Even before the bran…",
       "tags": [
         "Samsung",
         "爆料",
@@ -782,26 +882,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-f2a527edcd6d",
-      "title": "Honor Magic 9 series full back design revealed in new renders",
-      "source": "Huawei Central",
-      "brand": "HONOR",
-      "model": "HONOR 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-18",
-      "time": "06:38",
-      "publishedAt": "2026-08-18T06:38:14.000Z",
-      "url": "https://www.huaweicentral.com/honor-magic-9-series-full-back-design-revealed-in-new-renders/",
-      "image": "https://www.huaweicentral.com/wp-content/uploads/2026/08/render.jpg",
-      "summary": "Some fresh leaks are now showing the official-looking renders of the Honor Magic 9 series, uncovering the full back camera design that has been in the dark during the ROBOT PHONE…",
-      "tags": [
-        "HONOR",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-f767074b8285",
       "title": "New Vivo V80 Lite design leak hints at Vivo S2 rebrand",
       "source": "Gizmochina",
@@ -855,26 +935,6 @@ window.phoneRadarAuto = {
       "url": "https://weibo.com/6048569942/RdXmn5Z8k",
       "image": "",
       "summary": "独家，Find X10系列新机摸了一下，屏幕也加料了，联合研发的全新护眼基材，能够支持目前行业最高规格的BT.2020超广色域，还实现行业上最高有益红光和最低有害蓝光，色彩和护眼都拉满。在绿厂新的屏幕双产线加持下，这块屏还更进一步，边框超窄！超通透！[偷乐] Tips: 友商也在研究类似的屏幕特性，但进度慢一些，估计得明年落地",
-      "tags": [
-        "行业",
-        "爆料",
-        "微博"
-      ]
-    },
-    {
-      "id": "weibo-dd629572c697",
-      "title": "数码闲聊站：咳咳，Top5关于某厂大大杯，临近量产的几版工程机的屏幕/芯片/电池等方案基本…",
-      "source": "数码闲聊站",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-08-18",
-      "time": "04:08",
-      "publishedAt": "2026-08-18T04:08:00.000Z",
-      "url": "https://weibo.com/6048569942/RdWCUnVxR",
-      "image": "",
-      "summary": "咳咳，Top5关于某厂大大杯，临近量产的几版工程机的屏幕/芯片/电池等方案基本没差，6.9英寸1.5K LTPO直屏，Tandem OLED技术+BT.2020色域，满血新芯，7K左右电池，影像是长焦方案有两个版本，一个是早期说过的双潜望长焦，一个是2亿超大底单潜望，不知道落地哪个[污]",
       "tags": [
         "行业",
         "爆料",
