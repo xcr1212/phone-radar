@@ -1,12 +1,12 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-08-19T18:52:23.564Z",
+  "updatedAt": "2026-08-19T20:44:18.285Z",
   "issueDate": "2026-08-19",
   "issue": "VOL.260819",
   "title": "手机情报日报",
-  "intro": "今日筛出 10 条重点，其中 8 条是重点爆料，包含 4 条 iPhone 相关、1 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 10 条重点，其中 8 条是重点爆料，包含 5 条 iPhone 相关、1 条官方确认、0 条参数线索。",
   "stats": {
     "total": 10,
-    "iphone": 4,
+    "iphone": 5,
     "leaks": 8,
     "official": 1,
     "specs": 0
@@ -35,6 +35,30 @@ window.phoneRadarDaily = {
           "detail": "iPhone 18 Pro Max 影像能力相关消息。重点看影像功能是否和新机硬件有关，如果只是拍摄案例或营销内容，参考价值会低一些。",
           "keyPoints": [
             "影像硬件",
+            "爆料来源"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "auto-b003ae2755ab",
+          "title": "iPhone 18 Pro 外观设计线索曝光",
+          "originalTitle": "",
+          "source": "9to5Mac",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-08-19",
+          "time": "20:03",
+          "publishedAt": "2026-08-19T20:03:12.000Z",
+          "url": "https://9to5mac.com/2026/08/19/iphone-18-pro-three-new-design-updates-are-coming-this-year/",
+          "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/02/iphone-18-pro-mockup.jpg?quality=82&strip=all&w=1600",
+          "verdict": "先看",
+          "takeaway": "iPhone 18 Pro 外观设计线索曝光。重点看外观、颜色、尺寸是否和上一代有明显变化。",
+          "detail": "iPhone 18 Pro 外观设计线索曝光。这类内容主要看外观设计、按键布局、相机模组和尺寸变化，后续最好等更多渲染图或保护壳线索互相验证。",
+          "keyPoints": [
+            "外观 / 配色 / 尺寸",
             "爆料来源"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
@@ -136,53 +160,6 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
-          "id": "newsnow-777dc6b89297",
-          "title": "华为 Mate90 Pro Max 曝光：新一代满血芯片",
-          "originalTitle": "",
-          "source": "酷安热榜",
-          "brand": "Huawei",
-          "type": "爆料",
-          "trust": "高关注爆料源",
-          "date": "2026-08-19",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://www.coolapk.com/feed/73305085",
-          "image": "",
-          "verdict": "先看",
-          "takeaway": "华为 Mate90 Pro Max 曝光：新一代满血芯片",
-          "detail": "华为 Mate90 Pro Max 曝光：新一代满血芯片",
-          "keyPoints": [
-            "芯片 / 性能"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "newsnow-de519d94c3a8",
-          "title": "【REDMI M100 5G手机上架：骁龙4 Gen5处理器，720P LCD屏，售价1799元起】",
-          "originalTitle": "",
-          "source": "酷安热榜",
-          "brand": "Xiaomi",
-          "type": "爆料",
-          "trust": "高关注爆料源",
-          "date": "2026-08-19",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://www.coolapk.com/feed/73312254",
-          "image": "",
-          "verdict": "先看",
-          "takeaway": "【REDMI M100 5G手机上架：骁龙4 Gen5处理器，720P LCD屏，售价1799元起】",
-          "detail": "【REDMI M100 5G手机上架：骁龙4 Gen5处理器，720P LCD屏，售价1799元起】",
-          "keyPoints": [
-            "芯片 / 性能",
-            "成本 / 价格"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
           "id": "weibo-6c3dbad0287f",
           "title": "数码闲聊站：iQOO Neo11至尊版，这首发价格可还行？ 12GB+256GB——339…",
           "originalTitle": "",
@@ -203,6 +180,29 @@ window.phoneRadarDaily = {
             "爆料来源"
           ],
           "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "coolapk-user-b8f3c74dd227",
+          "title": "竹本青：【荣耀MagicOS 11 新增功能：「存储空间优化技术2.0」】 荣耀员工“小芳哥”昨日介绍，为了让老手机能使用…",
+          "originalTitle": "",
+          "source": "竹本青",
+          "brand": "HONOR",
+          "type": "爆料",
+          "trust": "高可信爆料",
+          "date": "2026-08-19",
+          "time": "17:24",
+          "publishedAt": "2026-08-19T17:24:09.000Z",
+          "url": "https://www.coolapk.com/feed/73332943",
+          "image": "http://image.coolapk.com/feed/2026/0820/01/4248714_d909dc2f_0247_1051_693-livepic@1920x1080.jpg",
+          "verdict": "先看",
+          "takeaway": "【荣耀MagicOS 11 新增功能：「存储空间优化技术2.0」】 荣耀员工“小芳哥”昨日介绍，为了让老手机能使用更久，荣耀MagicOS 11带来了「存储空间优化技术2.0」功能。升级后，手机能增加更多可用空间。 他透露，去年MagicOS 10 升级后最高能省出50G以上存储空间，今年MagicOS 11 内部测试效果优于去年。 #MagicOS10#…",
+          "detail": "【荣耀MagicOS 11 新增功能：「存储空间优化技术2.0」】 荣耀员工“小芳哥”昨日介绍，为了让老手机能使用更久，荣耀MagicOS 11带来了「存储空间优化技术2.0」功能。升级后，手机能增加更多可用空间。 他透露，去年MagicOS 10 升级后最高能省出50G以上存储空间，今年MagicOS 11 内部测试效果优于去年。 #MagicOS10#…",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "可信度较高，但仍属于发布前线索。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         }

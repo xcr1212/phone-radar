@@ -1,6 +1,46 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-08-19T18:52:23.564Z",
+  "updatedAt": "2026-08-19T20:44:18.285Z",
   "news": [
+    {
+      "id": "auto-b003ae2755ab",
+      "title": "iPhone 18 Pro: Three new design updates are coming",
+      "source": "9to5Mac",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-19",
+      "time": "20:03",
+      "publishedAt": "2026-08-19T20:03:12.000Z",
+      "url": "https://9to5mac.com/2026/08/19/iphone-18-pro-three-new-design-updates-are-coming-this-year/",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/02/iphone-18-pro-mockup.jpg?quality=82&strip=all&w=1600",
+      "summary": "iPhone 18 Pro and Pro Max will launch next month , and in addition to packing a variety of new features , there are three design changes reportedly coming. Here’s what rumors say…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-267c1dd6a6fc",
+      "title": "Pixel 11 introduces unified ‘Pixel search,’ hides it in the drawer",
+      "source": "9to5Google",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-19",
+      "time": "19:15",
+      "publishedAt": "2026-08-19T19:15:00.000Z",
+      "url": "https://9to5google.com/2026/08/19/pixel-11-search/",
+      "image": "",
+      "summary": "With the new phones this year, Google is introducing “Pixel search” as a “dedicated search companion designed to help you find personal information faster than ever.”",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-0a410baa2a39",
       "title": "Google Pixel 11 Pro camera review: Bringing back the magic",
@@ -242,26 +282,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-010066b46c43",
-      "title": "The Pixel 11 Pro is so good at being last year's phone, Google should have left it alone",
-      "source": "Android Police",
-      "brand": "Pixel",
-      "model": "Pixel 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-19",
-      "time": "16:00",
-      "publishedAt": "2026-08-19T16:00:10.000Z",
-      "url": "https://www.androidpolice.com/first-days-with-the-google-pixel-11-pro/",
-      "image": "",
-      "summary": "Good where you expect, but also frustrating where you expect too",
-      "tags": [
-        "Pixel",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-b5291adecd5f",
       "title": "Motorola's magnetic charger leaks, and it's exactly what Android needed",
       "source": "Android Central",
@@ -278,26 +298,6 @@ window.phoneRadarAuto = {
       "tags": [
         "行业",
         "评测",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-5831236134c1",
-      "title": "Google’s Pixel 11 Pro Fold feels like the end of an era",
-      "source": "The Verge",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-19",
-      "time": "15:48",
-      "publishedAt": "2026-08-19T15:48:16.000Z",
-      "url": "https://www.theverge.com/tech/981956/google-pixel-11-pro-fold-review",
-      "image": "",
-      "summary": "The foldable phone market is in the middle of a huge transformation, but no one told Google. Last year, Samsung transformed its Galaxy Z Fold 7 with a dramatically thinner design.…",
-      "tags": [
-        "Samsung",
-        "爆料",
         "自动抓取"
       ]
     },
@@ -802,61 +802,21 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-777dc6b89297",
-      "title": "华为 Mate90 Pro Max 曝光：新一代满血芯片",
+      "id": "newsnow-dc5bd0f85e4d",
+      "title": "2020 年，回头看仍是机圈极具魔幻现实主义色彩的一年。厂商大喊 “5G 元年”，对换机用户而言却是 “涨价元年”—— 旗舰机型仿佛统一了口径，集体上调八百至一千的价格，携手迈入3999的时代。",
       "source": "酷安热榜",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
+      "brand": "行业",
+      "model": "智能手机市场",
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-08-19",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73305085",
+      "url": "https://www.coolapk.com/feed/70266966",
       "image": "",
-      "summary": "华为 Mate90 Pro Max 曝光：新一代满血芯片",
+      "summary": "2020 年，回头看仍是机圈极具魔幻现实主义色彩的一年。厂商大喊 “5G 元年”，对换机用户而言却是 “涨价元年”—— 旗舰机型仿佛统一了口径，集体上调八百至一千的价格，携手迈入3999的时代。",
       "tags": [
-        "Huawei",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-de519d94c3a8",
-      "title": "【REDMI M100 5G手机上架：骁龙4 Gen5处理器，720P LCD屏，售价1799元起】",
-      "source": "酷安热榜",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-08-19",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73312254",
-      "image": "",
-      "summary": "【REDMI M100 5G手机上架：骁龙4 Gen5处理器，720P LCD屏，售价1799元起】",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-29f5c63ec2a0",
-      "title": "#REDMIK90至尊版# #HyperOS4# 为什么8e5的骁龙后面有个R标，而8e没有[受虐滑稽]",
-      "source": "酷安热榜",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-08-19",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73287872",
-      "image": "",
-      "summary": "#REDMIK90至尊版# #HyperOS4# 为什么8e5的骁龙后面有个R标，而8e没有[受虐滑稽]",
-      "tags": [
-        "Xiaomi",
+        "行业",
         "爆料",
         "NewsNow"
       ]
@@ -1162,43 +1122,23 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-976782317f07",
-      "title": "Hands-on videos show off Galaxy S26 FE, confirm that crazy Horizontal Lock video mode",
-      "source": "Android Authority",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
+      "id": "coolapk-user-6ea98bdd5406",
+      "title": "JSCHEN小小狐：华为 Mate90 Pro Max 曝光：新一代满血芯片",
+      "source": "JSCHEN小小狐",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
       "type": "爆料",
-      "trust": "媒体汇总",
+      "trust": "高可信爆料",
       "date": "2026-08-18",
-      "time": "08:13",
-      "publishedAt": "2026-08-18T08:13:09.000Z",
-      "url": "https://www.androidauthority.com/samsung-galaxy-s26-fe-hands-on-videos-leak-3699595/",
-      "image": "https://www.androidauthority.com/wp-content/uploads/2026/08/Samsung-Galaxy-S26-FE-hands-on-video-_samz02.jpg",
-      "summary": "The Galaxy S26 FE is shown off in all its glory in these clips, along with photo samples, camera features, and more.",
+      "time": "04:35",
+      "publishedAt": "2026-08-18T04:35:35.000Z",
+      "url": "https://www.coolapk.com/feed/73305085",
+      "image": "http://image.coolapk.com/feed/2026/0818/12/4702274_5aaa0639_7733_6073_353@1440x760.jpg",
+      "summary": "『华为 Mate90 Pro Max 曝光：新一代满血芯片』 ◇ 新一代满血芯片（预计为麒麟 9050 Pro） ◇ 6.9 英寸 1.5K LTPO 双层 OLED 直屏 ◇ 屏幕支持 BT.2020 超广色域 ◇ 约 6800～7000mAh 电池 两版长焦方案： ① 50Mp + 50Mp 双潜望方案（RS 测试 10X） ② 200Mp 1/1.2…",
       "tags": [
-        "Samsung",
+        "Huawei",
         "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-c5527e0dcbbd",
-      "title": "iQOO Z11S camera samples revealed",
-      "source": "Gizmochina",
-      "brand": "vivo",
-      "model": "vivo 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-18",
-      "time": "07:28",
-      "publishedAt": "2026-08-18T07:28:30.000Z",
-      "url": "https://www.gizmochina.com/2026/08/18/iqoo-z11s-camera-samples-out-ahead-of-launch/",
-      "image": "https://www.gizmochina.com/wp-content/uploads/2026/08/iqoo-z11s-camera-sample-300x200.jpg?x23692",
-      "summary": "The iQOO Z11S is only a couple of hours away from the big reveal, but the company has already shared quite a lot of details about the phone, with the latest ones being detailed ca…",
-      "tags": [
-        "vivo",
-        "爆料",
-        "自动抓取"
+        "酷安博主"
       ]
     },
     {
