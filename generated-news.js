@@ -1,6 +1,46 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-08-19T04:50:58.419Z",
+  "updatedAt": "2026-08-19T07:04:17.736Z",
   "news": [
+    {
+      "id": "auto-e1069c758f4e",
+      "title": "Xiaomi 18 Pro, 18 Pro Max receive 3C certification, fast charging speed revealed",
+      "source": "Gizmochina",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-19",
+      "time": "06:36",
+      "publishedAt": "2026-08-19T06:36:10.000Z",
+      "url": "https://www.gizmochina.com/2026/08/19/xiaomi-18-pro-series-3c-certified/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2025/09/Xiaomi-17-Pro-Max-Review_1.mp4_20250930_164941.855-300x150.jpg?x23692",
+      "summary": "Xiaomi appears to be preparing its next major flagship launch, with the Xiaomi 18 Pro series now moving closer to its expected debut. The latest development has revealed some key…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-43def2cd5867",
+      "title": "竹本青：【消息称多数安卓厂商对新旗舰销量预期是上代的50%】 博主数码闲聊站今天分享称，因芯片和内存涨价，多数安卓厂商对于…",
+      "source": "竹本青",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-08-19",
+      "time": "06:04",
+      "publishedAt": "2026-08-19T06:04:15.000Z",
+      "url": "https://www.coolapk.com/feed/73323091",
+      "image": "http://image.coolapk.com/feed/2026/0819/14/4248714_c323ed4a_9454_5057_640@1272x337.jpg",
+      "summary": "【消息称多数安卓厂商对新旗舰销量预期是上代的50%】 博主数码闲聊站今天分享称，因芯片和内存涨价，多数安卓厂商对于新一代旗舰手机的销量预期，大概是上一代的50%。 #今日热点# #ColorOS16# #HyperOS4#",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "酷安博主"
+      ]
+    },
     {
       "id": "auto-95a01597cfdc",
       "title": "苹果 iPhone 18 Pro 手机壳曝光，恐无缘可变光圈升级",
@@ -77,26 +117,6 @@ window.phoneRadarAuto = {
       "summary": "IT之家 8 月 19 日消息，小米智能摄像机视频通话版 2 单机今日上架小米有品并开启预约，8 月 26 日 10 点新开启众筹，众筹价 429 元（ 点击前往 ）。 IT之家从商品页面获悉，新品配备 3.97 英寸彩屏 ，全贴合工艺，分辨率 480x800。所有按键面积增大，按压感清晰，反应更灵敏，方便老人小孩操作。摄像机与手机、摄像机与摄像机之间均可…",
       "tags": [
         "Xiaomi",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-d81cc00691be",
-      "title": "三星 Galaxy S26 FE 手机宣传图曝光：7 年安卓系统更新、4900mAh 电池、Exynos 2500 芯片",
-      "source": "IT之家",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-19",
-      "time": "01:50",
-      "publishedAt": "2026-08-19T01:50:06.000Z",
-      "url": "https://www.ithome.com/0/991/432.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/8/349f637c-2bfc-47ff-9b64-396555383060.png",
-      "summary": "IT之家 8 月 19 日消息，科技媒体 Android Headline 昨日（8 月 18 日）发布博文， 分享了一组宣传图，展示了 三星 Galaxy S26 FE 手机。 颜色方面，本次曝光的宣传图展示了 Blueberry（蓝莓色）、Graphite（石墨色）和 Pistachio（开心果色）3 种配色。 外观方面，手机正面采用平面屏幕，前置摄像…",
-      "tags": [
-        "Samsung",
         "爆料",
         "自动抓取"
       ]
@@ -222,26 +242,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-29f5c63ec2a0",
-      "title": "#REDMIK90至尊版# #HyperOS4# 为什么8e5的骁龙后面有个R标，而8e没有[受虐滑稽]",
-      "source": "酷安热榜",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-08-19",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73287872",
-      "image": "",
-      "summary": "#REDMIK90至尊版# #HyperOS4# 为什么8e5的骁龙后面有个R标，而8e没有[受虐滑稽]",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
       "id": "newsnow-777dc6b89297",
       "title": "华为 Mate90 Pro Max 曝光：新一代满血芯片",
       "source": "酷安热榜",
@@ -257,6 +257,26 @@ window.phoneRadarAuto = {
       "summary": "华为 Mate90 Pro Max 曝光：新一代满血芯片",
       "tags": [
         "Huawei",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-29f5c63ec2a0",
+      "title": "#REDMIK90至尊版# #HyperOS4# 为什么8e5的骁龙后面有个R标，而8e没有[受虐滑稽]",
+      "source": "酷安热榜",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-08-19",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/73287872",
+      "image": "",
+      "summary": "#REDMIK90至尊版# #HyperOS4# 为什么8e5的骁龙后面有个R标，而8e没有[受虐滑稽]",
+      "tags": [
+        "Xiaomi",
         "爆料",
         "NewsNow"
       ]
@@ -435,46 +455,6 @@ window.phoneRadarAuto = {
       "url": "https://www.sammobile.com/news/new-galaxy-s26-fe-leak-suggests-launch-near/",
       "image": "",
       "summary": "Earlier this month, Samsung announced that it will soon launch a new Galaxy S Fan Edition smartphone, the Galaxy S26 FE, which will succeed the Galaxy S25 FE. Even before the bran…",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-f19187027ac5",
-      "title": "A second wide foldable in 2027 may do Samsung more harm than good",
-      "source": "SamMobile",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-18",
-      "time": "16:00",
-      "publishedAt": "2026-08-18T16:00:56.000Z",
-      "url": "https://www.sammobile.com/opinion/second-wide-samsung-foldable-2027-more-harm-than-good/",
-      "image": "",
-      "summary": "The Galaxy Z Fold 8 is Samsung's first passport-style foldable with a wider form factor compared to the tried and tested book-style Galaxy Z Fold 8 Ultra form factor. The new devi…",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-f2d8b3171849",
-      "title": "Should you use this Galaxy Z8 fingerprint setting to speed up phone unlocks?",
-      "source": "SamMobile",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-18",
-      "time": "15:21",
-      "publishedAt": "2026-08-18T15:21:36.000Z",
-      "url": "https://www.sammobile.com/news/should-you-use-galaxy-z8-fingerprint-setting-faster-phone-unlocks/",
-      "image": "https://www.sammobile.com/wp-content/uploads/2026/08/2galaxy-fold-8-fingerprint-options.jpg",
-      "summary": "If you've been using non-foldable Galaxy phones for the past five or so years, chances are you haven't touched a side-mounted fingerprint sensor for at least that long. But if you…",
       "tags": [
         "Samsung",
         "爆料",

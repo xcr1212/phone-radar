@@ -1,5 +1,5 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-08-19T04:50:58.419Z",
+  "updatedAt": "2026-08-19T07:04:17.736Z",
   "issueDate": "2026-08-19",
   "issue": "VOL.260819",
   "title": "手机情报日报",
@@ -60,32 +60,6 @@ window.phoneRadarDaily = {
           "keyPoints": [
             "影像硬件",
             "爆料来源"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "auto-d81cc00691be",
-          "title": "三星 Galaxy S26 FE 手机宣传图曝光：7 年安卓系统更新、4900mAh 电池、Exynos 2500 芯片",
-          "originalTitle": "",
-          "source": "IT之家",
-          "brand": "Samsung",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-08-19",
-          "time": "01:50",
-          "publishedAt": "2026-08-19T01:50:06.000Z",
-          "url": "https://www.ithome.com/0/991/432.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/8/349f637c-2bfc-47ff-9b64-396555383060.png",
-          "verdict": "先看",
-          "takeaway": "IT之家 8 月 19 日消息，科技媒体 Android Headline 昨日（8 月 18 日）发布博文， 分享了一组宣传图，展示了 三星 Galaxy S26 FE 手机。 颜色方面，本次曝光的宣传图展示了 Blueberry（蓝莓色）、Graphite（石墨色）和 Pistachio（开心果色）3 种配色。 外观方面，手机正面采用平面屏幕，前置摄像…",
-          "detail": "IT之家 8 月 19 日消息，科技媒体 Android Headline 昨日（8 月 18 日）发布博文， 分享了一组宣传图，展示了 三星 Galaxy S26 FE 手机。 颜色方面，本次曝光的宣传图展示了 Blueberry（蓝莓色）、Graphite（石墨色）和 Pistachio（开心果色）3 种配色。 外观方面，手机正面采用平面屏幕，前置摄像…",
-          "keyPoints": [
-            "外观 / 配色 / 尺寸",
-            "屏幕形态",
-            "电池 / 充电",
-            "芯片 / 性能"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
@@ -206,6 +180,30 @@ window.phoneRadarDaily = {
             "成本 / 价格"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "weibo-6c3dbad0287f",
+          "title": "数码闲聊站：iQOO Neo11至尊版，这首发价格可还行？ 12GB+256GB——339…",
+          "originalTitle": "",
+          "source": "数码闲聊站",
+          "brand": "vivo",
+          "type": "爆料",
+          "trust": "高关注爆料源",
+          "date": "2026-08-18",
+          "time": "12:00",
+          "publishedAt": "2026-08-18T12:00:07.000Z",
+          "url": "https://weibo.com/6048569942/RdZIxs818",
+          "image": "",
+          "verdict": "先看",
+          "takeaway": "iQOO Neo11至尊版，这首发价格可还行？ 12GB+256GB——3399元/原价3699 16GB+256GB——3799元/原价4099 12GB+512GB——3999元/原价4299 16GB+512GB——4399元/原价4699",
+          "detail": "iQOO Neo11至尊版，这首发价格可还行？ 12GB+256GB——3399元/原价3699 16GB+256GB——3799元/原价4099 12GB+512GB——3999元/原价4299 16GB+512GB——4399元/原价4699",
+          "keyPoints": [
+            "成本 / 价格",
+            "爆料来源"
+          ],
+          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         }
