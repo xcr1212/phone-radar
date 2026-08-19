@@ -1,6 +1,86 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-08-19T13:07:21.269Z",
+  "updatedAt": "2026-08-19T14:52:28.299Z",
   "news": [
+    {
+      "id": "coolapk-user-f7e74e3654fe",
+      "title": "竹本青：【芒米AIR Y系列 竖版安卓掌机 今日开售：骁龙662/骁龙865，早鸟价599元起】 AIR Y 3GB+32…",
+      "source": "竹本青",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-08-19",
+      "time": "14:42",
+      "publishedAt": "2026-08-19T14:42:21.000Z",
+      "url": "https://www.coolapk.com/feed/73330716",
+      "image": "http://image.coolapk.com/feed/2026/0819/22/4248714_b050bd99_0540_1386_323@1440x1920.jpg",
+      "summary": "【芒米AIR Y系列 竖版安卓掌机 今日开售：骁龙662/骁龙865，早鸟价599元起】 AIR Y 3GB+32GB —— 599元 AIR Y Pro 4GB+64GB —— 999元 8GB+128GB —— 1199元 ● AIR Y： 骁龙662｜LPDDR4X+eMMC 4.2英寸 1280*960 IPS屏 5000mAh电池+15W充电 单…",
+      "tags": [
+        "行业",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-955a036fc58a",
+      "title": "Pixel 11 Pro’s telephoto camera has an upgrade Google forgot to mention",
+      "source": "Android Authority",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-19",
+      "time": "14:22",
+      "publishedAt": "2026-08-19T14:22:17.000Z",
+      "url": "https://www.androidauthority.com/google-pixel-11-pro-telephoto-focus-distance-3700468/",
+      "image": "",
+      "summary": "You can zoom in on closer subjects.",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-13d474543d8f",
+      "title": "竹本青：怕是你自己造的梗…… #ColorOS17#",
+      "source": "竹本青",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-08-19",
+      "time": "13:55",
+      "publishedAt": "2026-08-19T13:55:59.000Z",
+      "url": "https://www.coolapk.com/feed/73330004",
+      "image": "http://image.coolapk.com/feed/2026/0819/21/4248714_08783a23_7758_4083_288@1271x615.jpg",
+      "summary": "怕是你自己造的梗…… #ColorOS17#",
+      "tags": [
+        "OPPO",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "coolapk-user-c8845f1e25e8",
+      "title": "竹本青：【天马天工屏2.0官宣：全新光谱材料，8月26日发布】 天马今天官宣，将在8月26日发布全新天工屏2.0。以“原色…",
+      "source": "竹本青",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-08-19",
+      "time": "13:13",
+      "publishedAt": "2026-08-19T13:13:19.000Z",
+      "url": "https://www.coolapk.com/feed/73329394",
+      "image": "http://image.coolapk.com/feed/2026/0819/21/4248714_0bb25868_5716_3713_335@673x315.jpg",
+      "summary": "【天马天工屏2.0官宣：全新光谱材料，8月26日发布】 天马今天官宣，将在8月26日发布全新天工屏2.0。以“原色好光”全新光谱材料实现全场景护眼、臻视界通透的全方位升级。 天工屏场景化标签：1nit暗光显示；3840Hz超高频PWM调光；硬件级低蓝光；8000nits高亮可视。 今年上半年，天马发布新一代天工屏U9 Pro基材，并由OPPO Find X…",
+      "tags": [
+        "OPPO",
+        "爆料",
+        "酷安博主"
+      ]
+    },
     {
       "id": "coolapk-user-6af203a903b3",
       "title": "竹本青：【埃安超级纯电轿车 Ray7 正式亮相：风阻0.22cd，192线激光雷达】 ● 车身：5米级车身，低趴宽体 ●…",
@@ -43,7 +123,7 @@ window.phoneRadarAuto = {
     },
     {
       "id": "auto-a2d7ac993061",
-      "title": "Google Pixel 11 Pro's telephoto camera quietly gets a big close-up upgrade",
+      "title": "Google Pixel 11 Pro's telephoto camera quietly gets a big close-up upgrade [Updated]",
       "source": "Android Police",
       "brand": "Pixel",
       "model": "Pixel 相关机型",
@@ -54,7 +134,7 @@ window.phoneRadarAuto = {
       "publishedAt": "2026-08-19T12:44:00.000Z",
       "url": "https://www.androidpolice.com/google-pixel-11-pro-telephoto-camera-big-close-up-upgrade/",
       "image": "",
-      "summary": "A better minimum focusing distance",
+      "summary": "No need to switch to Pro mode to get the best performance",
       "tags": [
         "Pixel",
         "爆料",
@@ -179,46 +259,6 @@ window.phoneRadarAuto = {
         "Samsung",
         "爆料",
         "自动抓取"
-      ]
-    },
-    {
-      "id": "coolapk-user-fb633c163c4e",
-      "title": "竹本青：【OriginOS 7 官方爆料：动态光影出现在更多操作和状态里】 vivo OS产品总监介绍，去年，Origin…",
-      "source": "竹本青",
-      "brand": "vivo",
-      "model": "vivo 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-08-19",
-      "time": "10:17",
-      "publishedAt": "2026-08-19T10:17:48.000Z",
-      "url": "https://www.coolapk.com/feed/73326786",
-      "image": "http://image.coolapk.com/feed/2026/0819/18/4248714_89e46d79_4666_5917_279-livepic@1440x1920.jpg",
-      "summary": "【OriginOS 7 官方爆料：动态光影出现在更多操作和状态里】 vivo OS产品总监介绍，去年，OriginOS已经开始尝试通过光影，跟随每一次操作，带来直觉式的引导。 今年，在OS 7中，动态光影出现在更多操作和状态里。按下按钮，光效像水波般漾开；滑动时，明暗随轨迹流转。每一步都有即时而连贯的反馈。 #OriginOS6# #今日热点# #Orig…",
-      "tags": [
-        "vivo",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
-      "id": "coolapk-user-494a94acfb6e",
-      "title": "竹本青：【小米新一代人形机器人亮相 2026 世界机器人博览会，明日起展台对普通观众开放】 8月19日，小米公司宣布，小米…",
-      "source": "竹本青",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-08-19",
-      "time": "10:13",
-      "publishedAt": "2026-08-19T10:13:43.000Z",
-      "url": "https://www.coolapk.com/feed/73326722",
-      "image": "http://image.coolapk.com/feed/2026/0819/18/4248714_0884954d_4419_9306_48@2000x1336.jpg",
-      "summary": "【小米新一代人形机器人亮相 2026 世界机器人博览会，明日起展台对普通观众开放】 8月19日，小米公司宣布，小米新一代人形机器人亮相 2026 世界机器人博览会，登陆「具身花园」展台。明日起，将对普通观众开放。 据介绍，本次小米新一代人形机器人化身“花艺师”，抓取香片撒花并递送给现场观众，还能握手、碰拳，动作自然又流畅。 下午《每日经济新闻》报道称，该款…",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "酷安博主"
       ]
     },
     {
@@ -382,46 +422,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "coolapk-user-3a4d6ff35cef",
-      "title": "竹本青：【OPPO「流体云」上线智能到站提醒】 覆盖城市：北京、上海、广州、深圳、杭州、成都、西安、合肥、沈阳、南京、福州…",
-      "source": "竹本青",
-      "brand": "OPPO",
-      "model": "OPPO 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-08-19",
-      "time": "07:31",
-      "publishedAt": "2026-08-19T07:31:31.000Z",
-      "url": "https://www.coolapk.com/feed/73324325",
-      "image": "http://image.coolapk.com/feed/2026/0819/15/4248714_655008ca_4688_1369_801@2000x2815.jpg",
-      "summary": "【OPPO「流体云」上线智能到站提醒】 覆盖城市：北京、上海、广州、深圳、杭州、成都、西安、合肥、沈阳、南京、福州、长春、苏州、佛山、青岛、无锡、石家庄、厦门、济南、南宁、昆明、武汉、长沙。 #ColorOS16# #ColorOS17# #今日热点#",
-      "tags": [
-        "OPPO",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
-      "id": "coolapk-user-dc120a078181",
-      "title": "竹本青：曝OPPO阔直板新机明年与超大杯同场发布",
-      "source": "竹本青",
-      "brand": "OPPO",
-      "model": "OPPO 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-08-19",
-      "time": "07:25",
-      "publishedAt": "2026-08-19T07:25:10.000Z",
-      "url": "https://www.coolapk.com/feed/73324212",
-      "image": "http://image.coolapk.com/feed/2026/0819/15/4248714_99d98c50_4408_2035_384@1439x1031.jpg",
-      "summary": "【曝OPPO阔直板新机归属旗舰线，明年与超大杯同场发布】 ● 6.3\"-6.4\"1.5K LTPO四等边屏 ● 2亿像素大底影像+潜望长焦 ● 明年上半年与Find X10 Ultra同场发布 #今日热点# #ColorOS17# #OPPOFindN6#",
-      "tags": [
-        "OPPO",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
       "id": "weibo-894b9ddc2b80",
       "title": "数码闲聊站：独家，O阔直板新机大概率是旗舰线，目前评估200Mp大底影像，有潜望长焦，定义…",
       "source": "数码闲聊站",
@@ -459,26 +459,6 @@ window.phoneRadarAuto = {
         "Xiaomi",
         "爆料",
         "自动抓取"
-      ]
-    },
-    {
-      "id": "coolapk-user-43def2cd5867",
-      "title": "竹本青：【消息称多数安卓厂商对新旗舰销量预期是上代的50%】 博主数码闲聊站今天分享称，因芯片和内存涨价，多数安卓厂商对于…",
-      "source": "竹本青",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-08-19",
-      "time": "06:04",
-      "publishedAt": "2026-08-19T06:04:15.000Z",
-      "url": "https://www.coolapk.com/feed/73323091",
-      "image": "http://image.coolapk.com/feed/2026/0819/14/4248714_c323ed4a_9454_5057_640@1272x337.jpg",
-      "summary": "【消息称多数安卓厂商对新旗舰销量预期是上代的50%】 博主数码闲聊站今天分享称，因芯片和内存涨价，多数安卓厂商对于新一代旗舰手机的销量预期，大概是上一代的50%。 #今日热点# #ColorOS16# #HyperOS4#",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "酷安博主"
       ]
     },
     {
@@ -939,26 +919,6 @@ window.phoneRadarAuto = {
         "行业",
         "爆料",
         "微博"
-      ]
-    },
-    {
-      "id": "auto-7ccc4f9ca5ed",
-      "title": "iPhone 18 Pro Max Rumored to Get Exclusive Camera Upgrade",
-      "source": "MacRumors",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-18",
-      "time": "09:39",
-      "publishedAt": "2026-08-18T09:39:01.000Z",
-      "url": "https://www.macrumors.com/2026/08/18/iphone-18-pro-max-camera-upgrade-exclusive/",
-      "image": "https://images.macrumors.com/article-new/2025/09/iphone-17-cameras-zoom.jpg",
-      "summary": "Apple's upcoming iPhone 18 Pro models may be differentiated by a new camera feature that could be exclusive to the larger Pro Max model, if a Chinese leaker is to be believed. Sin…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
       ]
     },
     {
