@@ -1,6 +1,66 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-08-19T16:45:44.730Z",
+  "updatedAt": "2026-08-19T18:52:23.564Z",
   "news": [
+    {
+      "id": "auto-0a410baa2a39",
+      "title": "Google Pixel 11 Pro camera review: Bringing back the magic",
+      "source": "Android Central",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-08-19",
+      "time": "17:34",
+      "publishedAt": "2026-08-19T17:34:21.000Z",
+      "url": "https://www.androidcentral.com/phones/google-pixel/google-pixel-11-pro-camera-review",
+      "image": "https://cdn.mos.cms.futurecdn.net/zXqvdbYQvReBkWwYM35yZE-1280-80.jpg",
+      "summary": "The Pixel 11 Pro steps up its photo quality and adds some fun camera software features, marking a return to greatness for Google.",
+      "tags": [
+        "HONOR",
+        "评测",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-0b8d524b61d9",
+      "title": "竹本青：【影石Insta360 X6上市三日，海外多国亚马逊运动相机榜单登顶】 8月20日资讯，影石CEO刘靖康昨日分享称…",
+      "source": "竹本青",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-08-19",
+      "time": "17:31",
+      "publishedAt": "2026-08-19T17:31:10.000Z",
+      "url": "https://www.coolapk.com/feed/73332984",
+      "image": "http://image.coolapk.com/feed/2026/0820/01/4248714_b2674f84_0669_0443_401@900x1200.jpg",
+      "summary": "【影石Insta360 X6上市三日，海外多国亚马逊运动相机榜单登顶】 8月20日资讯，影石CEO刘靖康昨日分享称，Insta360 X6全景相机上市仅三日，即登顶海外各主要电商平台榜首。 其中，美国站登上运动相机Hot New Releases热门新品榜TOP1；德国站、日本站拿下运动相机Best Seller畅销榜TOP1。 数据来源：8月15日亚马逊…",
+      "tags": [
+        "行业",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "coolapk-user-b8f3c74dd227",
+      "title": "竹本青：【荣耀MagicOS 11 新增功能：「存储空间优化技术2.0」】 荣耀员工“小芳哥”昨日介绍，为了让老手机能使用…",
+      "source": "竹本青",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-08-19",
+      "time": "17:24",
+      "publishedAt": "2026-08-19T17:24:09.000Z",
+      "url": "https://www.coolapk.com/feed/73332943",
+      "image": "http://image.coolapk.com/feed/2026/0820/01/4248714_d909dc2f_0247_1051_693-livepic@1920x1080.jpg",
+      "summary": "【荣耀MagicOS 11 新增功能：「存储空间优化技术2.0」】 荣耀员工“小芳哥”昨日介绍，为了让老手机能使用更久，荣耀MagicOS 11带来了「存储空间优化技术2.0」功能。升级后，手机能增加更多可用空间。 他透露，去年MagicOS 10 升级后最高能省出50G以上存储空间，今年MagicOS 11 内部测试效果优于去年。 #MagicOS10#…",
+      "tags": [
+        "HONOR",
+        "爆料",
+        "酷安博主"
+      ]
+    },
     {
       "id": "auto-ee3a943ab9a4",
       "title": "I really want to love the Pixel 11 Pro Fold, but it’s not off to the best start",
@@ -118,26 +178,6 @@ window.phoneRadarAuto = {
       "tags": [
         "Samsung",
         "评测",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-28b31a22e042",
-      "title": "The Pixel 11 isn’t the best Pixel of 2026, but it’s the smartest buy",
-      "source": "The Verge",
-      "brand": "Pixel",
-      "model": "Pixel 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-19",
-      "time": "16:07",
-      "publishedAt": "2026-08-19T16:07:44.000Z",
-      "url": "https://www.theverge.com/tech/982190/google-pixel-11-review",
-      "image": "",
-      "summary": "It'd be easy to overlook the Pixel 11. Want the best cameras? The Pixel 11 Pro is your answer. Want the best bargain? The Pixel 10A is still a great deal. But the Pixel 11 might b…",
-      "tags": [
-        "Pixel",
-        "爆料",
         "自动抓取"
       ]
     },
@@ -342,26 +382,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "coolapk-user-6af203a903b3",
-      "title": "竹本青：【埃安超级纯电轿车 Ray7 正式亮相：风阻0.22cd，192线激光雷达】 ● 车身：5米级车身，低趴宽体 ●…",
-      "source": "竹本青",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-08-19",
-      "time": "12:50",
-      "publishedAt": "2026-08-19T12:50:46.000Z",
-      "url": "https://www.coolapk.com/feed/73329065",
-      "image": "http://image.coolapk.com/feed/2026/0819/20/4248714_8277a7a9_3845_1151_465@1259x4096.jpg",
-      "summary": "【埃安超级纯电轿车 Ray7 正式亮相：风阻0.22cd，192线激光雷达】 ● 车身：5米级车身，低趴宽体 ● 风阻：0.22cd ● 双色：闪电黄、仲夏紫 ● 灯光：量子星环前后灯组 ● 底盘： 首发芯片级强制融合架构 华为EMB全电线控制制动、iTRACK智能扭矩控制系统 铝混前双叉臂+后五连杆悬架 FSD可变阻尼悬架+HRS液压回弹止动器 ● 三电…",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
       "id": "auto-8ff6717618a0",
       "title": "Galaxy S26 Ultra is now available at its lowest-ever price in India",
       "source": "SamMobile",
@@ -377,26 +397,6 @@ window.phoneRadarAuto = {
       "summary": "Samsung’s latest flagship non-foldable smartphone, the Galaxy S26 Ultra, is available at its lowest-ever price in India. The brand launched the base variant of the Galaxy S26 Ultr…",
       "tags": [
         "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-a2d7ac993061",
-      "title": "Google Pixel 11 Pro's telephoto camera quietly gets a big close-up upgrade [Updated]",
-      "source": "Android Police",
-      "brand": "Pixel",
-      "model": "Pixel 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-19",
-      "time": "12:44",
-      "publishedAt": "2026-08-19T12:44:00.000Z",
-      "url": "https://www.androidpolice.com/google-pixel-11-pro-telephoto-camera-big-close-up-upgrade/",
-      "image": "",
-      "summary": "No need to switch to Pro mode to get the best performance",
-      "tags": [
-        "Pixel",
         "爆料",
         "自动抓取"
       ]

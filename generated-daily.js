@@ -1,11 +1,11 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-08-19T16:45:44.730Z",
+  "updatedAt": "2026-08-19T18:52:23.564Z",
   "issueDate": "2026-08-19",
   "issue": "VOL.260819",
   "title": "手机情报日报",
-  "intro": "今日筛出 11 条重点，其中 8 条是重点爆料，包含 4 条 iPhone 相关、1 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 10 条重点，其中 8 条是重点爆料，包含 4 条 iPhone 相关、1 条官方确认、0 条参数线索。",
   "stats": {
-    "total": 11,
+    "total": 10,
     "iphone": 4,
     "leaks": 8,
     "official": 1,
@@ -259,36 +259,6 @@ window.phoneRadarDaily = {
           "verdict": "先看",
           "takeaway": "iQOO Neo11 至尊版发布：天玑9500M，首销3399元起",
           "detail": "iQOO Neo11 至尊版发布：天玑9500M，首销3399元起",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        }
-      ]
-    },
-    {
-      "id": "market",
-      "title": "行业趋势",
-      "hint": "看方向，不急着当购买依据。",
-      "items": [
-        {
-          "id": "newsnow-29f5c63ec2a0",
-          "title": "#REDMIK90至尊版# #HyperOS4# 为什么8e5的骁龙后面有个R标，而8e没有[受虐滑稽]",
-          "originalTitle": "",
-          "source": "酷安热榜",
-          "brand": "Xiaomi",
-          "type": "爆料",
-          "trust": "高关注爆料源",
-          "date": "2026-08-19",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://www.coolapk.com/feed/73287872",
-          "image": "",
-          "verdict": "扫一眼",
-          "takeaway": "#REDMIK90至尊版# #HyperOS4# 为什么8e5的骁龙后面有个R标，而8e没有[受虐滑稽]",
-          "detail": "#REDMIK90至尊版# #HyperOS4# 为什么8e5的骁龙后面有个R标，而8e没有[受虐滑稽]",
           "keyPoints": [
             "爆料"
           ],
