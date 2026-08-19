@@ -1,6 +1,66 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-08-19T03:10:05.831Z",
+  "updatedAt": "2026-08-19T04:50:58.419Z",
   "news": [
+    {
+      "id": "auto-95a01597cfdc",
+      "title": "苹果 iPhone 18 Pro 手机壳曝光，恐无缘可变光圈升级",
+      "source": "IT之家",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-19",
+      "time": "04:38",
+      "publishedAt": "2026-08-19T04:38:40.000Z",
+      "url": "https://www.ithome.com/0/991/572.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/8/29d060f1-d291-43b9-99db-b5840bdb1658.png",
+      "summary": "IT之家 8 月 19 日消息，彭博社的马克 · 古尔曼（Mark Gurman）今天（8 月 19 日）在 X 平台发布推文， 指出配件厂商 Otterbox 已推出适用于苹果 iPhone 18 Pro 的手机壳，且已经在百思买（Best Buy）上架销售。 IT之家翻译古尔曼推文内容如下： Otterbox 推出的手机壳来看，苹果 iPhone 18…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-23f6781516b1",
+      "title": "竹本青：【消息称 iQOO 中高端全线压宝2K超高刷屏】 迭代高端线：6.85\"±2K+165Hz 三星显示 迭代中端线：…",
+      "source": "竹本青",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-08-19",
+      "time": "04:12",
+      "publishedAt": "2026-08-19T04:12:16.000Z",
+      "url": "https://www.coolapk.com/feed/73321588",
+      "image": "http://image.coolapk.com/feed/2026/0819/12/4248714_ec756419_2735_4955_180@1439x472.jpg",
+      "summary": "【消息称 iQOO 中高端全线压宝2K超高刷屏】 迭代高端线：6.85\"±2K+165Hz 三星显示 迭代中端线：6.83\"±2K+165Hz/185Hz 维信诺 #今日热点# #OriginOS7# #iQOO16#",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-586f40a341d2",
+      "title": "三星 Galaxy S26 FE 手机上手视频曝光，拍摄样张流出",
+      "source": "IT之家",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-19",
+      "time": "03:22",
+      "publishedAt": "2026-08-19T03:22:37.000Z",
+      "url": "https://www.ithome.com/0/991/543.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/8/a6e3f8e9-8278-4b69-9093-77505464265a.jpg",
+      "summary": "IT之家 8 月 19 日消息，科技媒体 YtechB 今天（8 月 19 日）发布博文，分享了 三星 Galaxy S26 FE 手机的欧盟 EPREL 标签， 显示该机支持 IP68 级别防水防尘，在 1200 次充电循环后仍能保持 80% 的容量。 IT之家查询社交平台，网友 @_samz02 在 TikTok 还分享了一段约 90 秒的视频，展示了…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-428d6dbeebdb",
       "title": "小米智能摄像机视频通话版 2 单机上架：3.97 英寸彩屏，众筹价 429 元",
@@ -22,46 +82,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "coolapk-user-d1d0a73e2200",
-      "title": "竹本青：曝一加16首发新一代东方屏：全局165Hz",
-      "source": "竹本青",
-      "brand": "OPPO",
-      "model": "OPPO 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-08-19",
-      "time": "02:17",
-      "publishedAt": "2026-08-19T02:17:02.000Z",
-      "url": "https://www.coolapk.com/feed/73319909",
-      "image": "http://image.coolapk.com/feed/2026/0819/10/4248714_d2b05cc8_5821_9577_79@1272x463.jpg",
-      "summary": "【全局165Hz，曝一加16首发新一代东方屏】 ● 首发新一代东方屏：行业首个支持全局165Hz超高刷的屏幕； ● 出厂预装ColorOS 17：全新系统级动效，综合流畅体验“比夯更夯”。 #ColorOS17# #一加16# #今日热点#",
-      "tags": [
-        "OPPO",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
-      "id": "coolapk-user-96c5aeef451c",
-      "title": "竹本青：iQOO产品经理回应 Z11S售价：这个价格很有诚意了",
-      "source": "竹本青",
-      "brand": "vivo",
-      "model": "vivo 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-08-19",
-      "time": "02:02",
-      "publishedAt": "2026-08-19T02:02:41.000Z",
-      "url": "https://www.coolapk.com/feed/73319731",
-      "image": "http://image.coolapk.com/feed/2026/0819/10/4248714_acdc14ad_4960_5655_272@1439x1427.jpg",
-      "summary": "【iQOO 产品经理回应 Z11S手机售价：这个价格很有诚意了】 8月18日，iQOO Z11S正式发布，首销1799元起，搭载天玑7500满血版芯片，10000mAh电池、1.5K 144Hz直屏等配置。 当晚，iQOO产品经理邢程转发称：“在当前环境下，Z11S这个价格很有诚意了，有需求的小伙伴可以下手了。” #今日热点# #iQOOZ11S# #Or…",
-      "tags": [
-        "vivo",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
       "id": "auto-d81cc00691be",
       "title": "三星 Galaxy S26 FE 手机宣传图曝光：7 年安卓系统更新、4900mAh 电池、Exynos 2500 芯片",
       "source": "IT之家",
@@ -77,26 +97,6 @@ window.phoneRadarAuto = {
       "summary": "IT之家 8 月 19 日消息，科技媒体 Android Headline 昨日（8 月 18 日）发布博文， 分享了一组宣传图，展示了 三星 Galaxy S26 FE 手机。 颜色方面，本次曝光的宣传图展示了 Blueberry（蓝莓色）、Graphite（石墨色）和 Pistachio（开心果色）3 种配色。 外观方面，手机正面采用平面屏幕，前置摄像…",
       "tags": [
         "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-f842dd8cedd8",
-      "title": "小米 18 Pro 系列新机疑通过 3C 认证，支持 100W 快充、UWB 超宽带技术",
-      "source": "IT之家",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-19",
-      "time": "01:04",
-      "publishedAt": "2026-08-19T01:04:04.000Z",
-      "url": "https://www.ithome.com/0/991/415.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/8/ea3a6be6-9497-45c7-b0a8-4b5f09c46378.png?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 8 月 19 日消息，一款型号为 M154FF 的小米新机昨日通过了 3C 认证， 支持 100W 快充 ，博主 @数码闲聊站 推测为小米 18 Pro 系列。 据其爆料，该机各种备案已齐全，大概率首发骁龙 2nm 旗舰芯，支持 100W 快充，N79 5G 频段，UWB 超宽带技术，屏幕 / 影像 / 性能 / 外围等硬件全方位升级。 IT之家…",
-      "tags": [
-        "Xiaomi",
         "爆料",
         "自动抓取"
       ]
@@ -262,26 +262,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-86dc97055f6e",
-      "title": "iQOO Z11S 正式发布：首销1799元起",
-      "source": "酷安热榜",
-      "brand": "vivo",
-      "model": "vivo 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-08-19",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73312036",
-      "image": "",
-      "summary": "iQOO Z11S 正式发布：首销1799元起",
-      "tags": [
-        "vivo",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
       "id": "newsnow-de519d94c3a8",
       "title": "【REDMI M100 5G手机上架：骁龙4 Gen5处理器，720P LCD屏，售价1799元起】",
       "source": "酷安热榜",
@@ -297,6 +277,26 @@ window.phoneRadarAuto = {
       "summary": "【REDMI M100 5G手机上架：骁龙4 Gen5处理器，720P LCD屏，售价1799元起】",
       "tags": [
         "Xiaomi",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-86dc97055f6e",
+      "title": "iQOO Z11S 正式发布：首销1799元起",
+      "source": "酷安热榜",
+      "brand": "vivo",
+      "model": "vivo 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-08-19",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/73312036",
+      "image": "",
+      "summary": "iQOO Z11S 正式发布：首销1799元起",
+      "tags": [
+        "vivo",
         "爆料",
         "NewsNow"
       ]

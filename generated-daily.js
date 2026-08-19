@@ -1,12 +1,12 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-08-19T03:10:05.831Z",
+  "updatedAt": "2026-08-19T04:50:58.419Z",
   "issueDate": "2026-08-19",
   "issue": "VOL.260819",
   "title": "手机情报日报",
-  "intro": "今日筛出 8 条重点，其中 8 条是重点爆料，包含 2 条 iPhone 相关、0 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 8 条重点，其中 8 条是重点爆料，包含 3 条 iPhone 相关、0 条官方确认、0 条参数线索。",
   "stats": {
     "total": 8,
-    "iphone": 2,
+    "iphone": 3,
     "leaks": 8,
     "official": 0,
     "specs": 0
@@ -17,6 +17,30 @@ window.phoneRadarDaily = {
       "title": "重点爆料",
       "hint": "机模、配色、影像、屏幕、电池和芯片线索先看。",
       "items": [
+        {
+          "id": "auto-95a01597cfdc",
+          "title": "苹果 iPhone 18 Pro 手机壳曝光，恐无缘可变光圈升级",
+          "originalTitle": "",
+          "source": "IT之家",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-08-19",
+          "time": "04:38",
+          "publishedAt": "2026-08-19T04:38:40.000Z",
+          "url": "https://www.ithome.com/0/991/572.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/8/29d060f1-d291-43b9-99db-b5840bdb1658.png",
+          "verdict": "先看",
+          "takeaway": "IT之家 8 月 19 日消息，彭博社的马克 · 古尔曼（Mark Gurman）今天（8 月 19 日）在 X 平台发布推文， 指出配件厂商 Otterbox 已推出适用于苹果 iPhone 18 Pro 的手机壳，且已经在百思买（Best Buy）上架销售。 IT之家翻译古尔曼推文内容如下： Otterbox 推出的手机壳来看，苹果 iPhone 18…",
+          "detail": "IT之家 8 月 19 日消息，彭博社的马克 · 古尔曼（Mark Gurman）今天（8 月 19 日）在 X 平台发布推文， 指出配件厂商 Otterbox 已推出适用于苹果 iPhone 18 Pro 的手机壳，且已经在百思买（Best Buy）上架销售。 IT之家翻译古尔曼推文内容如下： Otterbox 推出的手机壳来看，苹果 iPhone 18…",
+          "keyPoints": [
+            "影像硬件",
+            "爆料来源"
+          ],
+          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
         {
           "id": "auto-5ff91a9f217a",
           "title": "iPhone 18 Pro Max 影像能力相关消息",
@@ -91,28 +115,25 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
-          "id": "auto-f842dd8cedd8",
-          "title": "小米 18 Pro 系列新机疑通过 3C 认证，支持 100W 快充、UWB 超宽带技术",
+          "id": "auto-586f40a341d2",
+          "title": "三星 Galaxy S26 FE 手机上手视频曝光，拍摄样张流出",
           "originalTitle": "",
           "source": "IT之家",
-          "brand": "Xiaomi",
+          "brand": "Samsung",
           "type": "爆料",
           "trust": "媒体汇总",
           "date": "2026-08-19",
-          "time": "01:04",
-          "publishedAt": "2026-08-19T01:04:04.000Z",
-          "url": "https://www.ithome.com/0/991/415.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/8/ea3a6be6-9497-45c7-b0a8-4b5f09c46378.png?x-bce-process=image/format,f_auto",
+          "time": "03:22",
+          "publishedAt": "2026-08-19T03:22:37.000Z",
+          "url": "https://www.ithome.com/0/991/543.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/8/a6e3f8e9-8278-4b69-9093-77505464265a.jpg",
           "verdict": "先看",
-          "takeaway": "IT之家 8 月 19 日消息，一款型号为 M154FF 的小米新机昨日通过了 3C 认证， 支持 100W 快充 ，博主 @数码闲聊站 推测为小米 18 Pro 系列。 据其爆料，该机各种备案已齐全，大概率首发骁龙 2nm 旗舰芯，支持 100W 快充，N79 5G 频段，UWB 超宽带技术，屏幕 / 影像 / 性能 / 外围等硬件全方位升级。 IT之家…",
-          "detail": "IT之家 8 月 19 日消息，一款型号为 M154FF 的小米新机昨日通过了 3C 认证， 支持 100W 快充 ，博主 @数码闲聊站 推测为小米 18 Pro 系列。 据其爆料，该机各种备案已齐全，大概率首发骁龙 2nm 旗舰芯，支持 100W 快充，N79 5G 频段，UWB 超宽带技术，屏幕 / 影像 / 性能 / 外围等硬件全方位升级。 IT之家…",
+          "takeaway": "IT之家 8 月 19 日消息，科技媒体 YtechB 今天（8 月 19 日）发布博文，分享了 三星 Galaxy S26 FE 手机的欧盟 EPREL 标签， 显示该机支持 IP68 级别防水防尘，在 1200 次充电循环后仍能保持 80% 的容量。 IT之家查询社交平台，网友 @_samz02 在 TikTok 还分享了一段约 90 秒的视频，展示了…",
+          "detail": "IT之家 8 月 19 日消息，科技媒体 YtechB 今天（8 月 19 日）发布博文，分享了 三星 Galaxy S26 FE 手机的欧盟 EPREL 标签， 显示该机支持 IP68 级别防水防尘，在 1200 次充电循环后仍能保持 80% 的容量。 IT之家查询社交平台，网友 @_samz02 在 TikTok 还分享了一段约 90 秒的视频，展示了…",
           "keyPoints": [
-            "影像硬件",
-            "屏幕形态",
-            "芯片 / 性能",
-            "爆料来源"
+            "电池 / 充电"
           ],
-          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
@@ -185,30 +206,6 @@ window.phoneRadarDaily = {
             "成本 / 价格"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "weibo-6c3dbad0287f",
-          "title": "数码闲聊站：iQOO Neo11至尊版，这首发价格可还行？ 12GB+256GB——339…",
-          "originalTitle": "",
-          "source": "数码闲聊站",
-          "brand": "vivo",
-          "type": "爆料",
-          "trust": "高关注爆料源",
-          "date": "2026-08-18",
-          "time": "12:00",
-          "publishedAt": "2026-08-18T12:00:07.000Z",
-          "url": "https://weibo.com/6048569942/RdZIxs818",
-          "image": "",
-          "verdict": "先看",
-          "takeaway": "iQOO Neo11至尊版，这首发价格可还行？ 12GB+256GB——3399元/原价3699 16GB+256GB——3799元/原价4099 12GB+512GB——3999元/原价4299 16GB+512GB——4399元/原价4699",
-          "detail": "iQOO Neo11至尊版，这首发价格可还行？ 12GB+256GB——3399元/原价3699 16GB+256GB——3799元/原价4099 12GB+512GB——3999元/原价4299 16GB+512GB——4399元/原价4699",
-          "keyPoints": [
-            "成本 / 价格",
-            "爆料来源"
-          ],
-          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         }
