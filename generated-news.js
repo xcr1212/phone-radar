@@ -1,6 +1,286 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-08-18T22:40:49.186Z",
+  "updatedAt": "2026-08-19T01:51:58.891Z",
   "news": [
+    {
+      "id": "auto-d81cc00691be",
+      "title": "三星 Galaxy S26 FE 手机宣传图曝光：7 年安卓系统更新、4900mAh 电池、Exynos 2500 芯片",
+      "source": "IT之家",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-19",
+      "time": "01:50",
+      "publishedAt": "2026-08-19T01:50:06.000Z",
+      "url": "https://www.ithome.com/0/991/432.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/8/349f637c-2bfc-47ff-9b64-396555383060.png",
+      "summary": "IT之家 8 月 19 日消息，科技媒体 Android Headline 昨日（8 月 18 日）发布博文， 分享了一组宣传图，展示了 三星 Galaxy S26 FE 手机。 颜色方面，本次曝光的宣传图展示了 Blueberry（蓝莓色）、Graphite（石墨色）和 Pistachio（开心果色）3 种配色。 外观方面，手机正面采用平面屏幕，前置摄像…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-f842dd8cedd8",
+      "title": "小米 18 Pro 系列新机疑通过 3C 认证，支持 100W 快充、UWB 超宽带技术",
+      "source": "IT之家",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-19",
+      "time": "01:04",
+      "publishedAt": "2026-08-19T01:04:04.000Z",
+      "url": "https://www.ithome.com/0/991/415.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/8/ea3a6be6-9497-45c7-b0a8-4b5f09c46378.png?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 8 月 19 日消息，一款型号为 M154FF 的小米新机昨日通过了 3C 认证， 支持 100W 快充 ，博主 @数码闲聊站 推测为小米 18 Pro 系列。 据其爆料，该机各种备案已齐全，大概率首发骁龙 2nm 旗舰芯，支持 100W 快充，N79 5G 频段，UWB 超宽带技术，屏幕 / 影像 / 性能 / 外围等硬件全方位升级。 IT之家…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-3eabc19cbbaf",
+      "title": "JSCHEN小小狐：『小米 18 Pro 系列疑似入网：支持 100W 快充』 知名数码博主 数码闲聊站 发博爆料称，全新小米 18…",
+      "source": "JSCHEN小小狐",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-08-19",
+      "time": "00:57",
+      "publishedAt": "2026-08-19T00:57:33.000Z",
+      "url": "https://www.coolapk.com/feed/73319020",
+      "image": "http://image.coolapk.com/feed/2026/0819/08/4702274_4c1e9266_1051_3125_316@1659x572.jpg",
+      "summary": "『小米 18 Pro 系列疑似入网：支持 100W 快充』 知名数码博主 数码闲聊站 发博爆料称，全新小米 18 Pro 系列已疑似入网，且相关备案信息均已齐全。小米 18 Pro / Pro Max 已知信息如下： 小米 18 Pro： ◇ 6.3～6.4 英寸超级像素 OLED 直屏 ◇ LIPO 极窄四等边｜BT.2020 色域 ◇ 2nm 骁龙 8…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "weibo-85a14e2c9790",
+      "title": "数码闲聊站：小米18 Pro系列新机疑入网，各种备案已齐全，大概率首发骁龙2nm旗舰芯，支…",
+      "source": "数码闲聊站",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-08-19",
+      "time": "00:48",
+      "publishedAt": "2026-08-19T00:48:00.000Z",
+      "url": "https://weibo.com/6048569942/Re4Ke99F0",
+      "image": "https://tvax3.sinaimg.cn/mw2000/006BlblIgy1ig8j5pb75ij31a30fw44f.jpg",
+      "summary": "小米18 Pro系列新机疑入网，各种备案已齐全，大概率首发骁龙2nm旗舰芯，支持100W快充，N79 5G频段，UWB超宽带技术，屏幕/影像/性能/外围等硬件全方位升级，期待吗？！[笑而不语]",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "微博"
+      ]
+    },
+    {
+      "id": "auto-9bbf43c61c96",
+      "title": "Apple announces changes to iOS in Brazil",
+      "source": "Apple Newsroom",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "官方",
+      "trust": "官方确认",
+      "date": "2026-08-19",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.apple.com/newsroom/2026/06/apple-announces-changes-to-ios-in-brazil/",
+      "image": "",
+      "summary": "Apple today announced changes impacting iOS apps in Brazil that reflect a recent agreement with Brazil’s competition regulator, CADE.",
+      "tags": [
+        "iPhone",
+        "官方",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "newsnow-74a1f93481b6",
+      "title": "把「闪念胶囊」（Almost）放到 iPhone 锁屏",
+      "source": "少数派热榜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-08-19",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://sspai.com/post/113219",
+      "image": "",
+      "summary": "把「闪念胶囊」（Almost）放到 iPhone 锁屏",
+      "tags": [
+        "iPhone",
+        "评测",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-e78b36a9a093",
+      "title": "我，与「唯一」的 iPhone Air",
+      "source": "少数派热榜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-08-19",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://sspai.com/post/112880",
+      "image": "",
+      "summary": "我，与「唯一」的 iPhone Air",
+      "tags": [
+        "iPhone",
+        "评测",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-a4fde0a91b7c",
+      "title": "iQOO Neo11 至尊版发布：天玑9500M，首销3399元起",
+      "source": "酷安热榜",
+      "brand": "vivo",
+      "model": "vivo 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-08-19",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/73311738",
+      "image": "",
+      "summary": "iQOO Neo11 至尊版发布：天玑9500M，首销3399元起",
+      "tags": [
+        "vivo",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-29f5c63ec2a0",
+      "title": "#REDMIK90至尊版# #HyperOS4# 为什么8e5的骁龙后面有个R标，而8e没有[受虐滑稽]",
+      "source": "酷安热榜",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-08-19",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/73287872",
+      "image": "",
+      "summary": "#REDMIK90至尊版# #HyperOS4# 为什么8e5的骁龙后面有个R标，而8e没有[受虐滑稽]",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-777dc6b89297",
+      "title": "华为 Mate90 Pro Max 曝光：新一代满血芯片",
+      "source": "酷安热榜",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-08-19",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/73305085",
+      "image": "",
+      "summary": "华为 Mate90 Pro Max 曝光：新一代满血芯片",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-86dc97055f6e",
+      "title": "iQOO Z11S 正式发布：首销1799元起",
+      "source": "酷安热榜",
+      "brand": "vivo",
+      "model": "vivo 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-08-19",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/73312036",
+      "image": "",
+      "summary": "iQOO Z11S 正式发布：首销1799元起",
+      "tags": [
+        "vivo",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-de519d94c3a8",
+      "title": "【REDMI M100 5G手机上架：骁龙4 Gen5处理器，720P LCD屏，售价1799元起】",
+      "source": "酷安热榜",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-08-19",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/73312254",
+      "image": "",
+      "summary": "【REDMI M100 5G手机上架：骁龙4 Gen5处理器，720P LCD屏，售价1799元起】",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "auto-d8199872a8ff",
+      "title": "Apple's iPhone 18 Release Schedule: What's Coming and When",
+      "source": "MacRumors",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-18",
+      "time": "22:58",
+      "publishedAt": "2026-08-18T22:58:50.000Z",
+      "url": "https://www.macrumors.com/guide/iphone-18-release-schedule/",
+      "image": "https://images.macrumors.com/article-new/2026/04/Four-iPhone-18-Pro-Colors-Mock-Feature.jpg",
+      "summary": "Since 2019, Apple has released a more affordable standard iPhone and a higher-end \"Pro\" variant, giving customers multiple flagship iPhones to choose from. Apple is deviating from…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-760cc5198ae4",
+      "title": "消息称苹果 iPhone 18 Pro Max 独占可变光圈升级",
+      "source": "IT之家",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-18",
+      "time": "22:58",
+      "publishedAt": "2026-08-18T22:58:25.000Z",
+      "url": "https://www.ithome.com/0/991/377.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/8/215ada86-b9ee-43f7-b3e3-6354dfbe0261.png?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 8 月 19 日消息，消息源 @i冰宇宙 昨日（8 月 18 日）发布微博，在#曝iPhone18ProMax独占可变光圈#话题下， 表示“想体验满级影像只能忍受砖头重量这件事苹果也不能幸免了”。 供应链消息称苹果 iPhone 18 Pro 和 iPhone 18 Pro Max 除了电池和屏幕方面的差异外，在影像方面也会存在差别。 电池方面，…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-79c1fa7803f3",
       "title": "Massive Galaxy S26 FE leak reveals almost everything ahead of launch",
@@ -222,66 +502,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-e30c9068b7c9",
-      "title": "小米 REDMI 产品经理科普手机顶部 NFC 使用方式，称不是用金属中框戳的意思",
-      "source": "IT之家",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-18",
-      "time": "13:36",
-      "publishedAt": "2026-08-18T13:36:07.000Z",
-      "url": "https://www.ithome.com/0/991/328.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/8/93c45559-ac09-41b5-b2ea-1e5ed90622a6.jpg",
-      "summary": "IT之家 8 月 18 日消息， 小米 REDMI K100 / 90 Pro Max 手机隐藏升级点昨日曝光 ，两款机型在机身顶部加入了 NFC 刷卡区，无论是背部还是顶部都能正常触发刷卡。 IT之家注意到，小米 REDMI 产品经理 @笋寸 今日发文介绍了手机顶部 NFC 的使用方式， 称顶部 NFC 的意思是手机背面的顶部有 NFC 线圈 。 所以刷…",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-62907a5f106d",
-      "title": "Fairphone (Gen. 6+) 模块化智能手机发布：高通骁龙 7s Gen 4 搭配 12GB 内存",
-      "source": "IT之家",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-18",
-      "time": "12:23",
-      "publishedAt": "2026-08-18T12:23:02.000Z",
-      "url": "https://www.ithome.com/0/991/312.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/8/4c6b82cc-4faa-4ad5-97b2-3c001dc1273c.jpg",
-      "summary": "IT之家 8 月 18 日消息，模块化消费电子硬件品牌 Fairphone 荷兰当地时间今日发布了其新一代模块化智能手机 Fairphone (Gen. 6+) ，这也是 该品牌首款正式在美国市场销售的产品 。 Fairphone (Gen. 6+) 由 12 个易于更换的零部件构成，获得 IP55 防尘防水、MIL-STD 810H 抗跌落认证。其 基于…",
-      "tags": [
-        "行业",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-752d0ef9bbe2",
-      "title": "小米 REDMI M100 新机上市：骁龙 4 Gen5 处理器、7900mAh 电池，1799 元起",
-      "source": "IT之家",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-18",
-      "time": "12:05",
-      "publishedAt": "2026-08-18T12:05:07.000Z",
-      "url": "https://www.ithome.com/0/991/307.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/8/d93c2355-ed75-42fd-95fe-d01676f4ab71.jpg?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 8 月 18 日消息，小米 REDMI M100 手机今日上新小米商城，其搭载第五代骁龙 4 移动平台、内置 7900mAh 电池， 定价 1799 元起 。 8GB+128GB 规格：1799 元 6GB+256GB 规格：1999 元 8GB+256GB 规格：2199 元 据介绍，小米 REDMI M100 手机主打护眼超大屏 + 耐用大电…",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "weibo-6c3dbad0287f",
       "title": "数码闲聊站：iQOO Neo11至尊版，这首发价格可还行？ 12GB+256GB——339…",
       "source": "数码闲聊站",
@@ -362,26 +582,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "coolapk-user-e0e2603c5001",
-      "title": "竹本青：小米17系列最新销量曝光：全系突破597万台",
-      "source": "竹本青",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-08-18",
-      "time": "11:50",
-      "publishedAt": "2026-08-18T11:50:37.000Z",
-      "url": "https://www.coolapk.com/feed/73311938",
-      "image": "http://image.coolapk.com/feed/2026/0818/19/4248714_4e8f3fe8_3836_3686_499@1439x487.jpg",
-      "summary": "【小米 17系列 最新销量曝光：全系突破597万台，Ultra约24.1万台】 8月18日，博主「RD观测」分享第三方数据：截至2026年第32周，小米 17系列累计销量约597.43万台；其中，Ultra约24.12万台。 前几周数据如下： 小米 17系列 截至2026 W31 —— 约591.76万 截至2026 W30 —— 约583.9万 截至20…",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
       "id": "auto-5ff91a9f217a",
       "title": "Two camera features may be unique to the iPhone 18 Pro Max, suggests leaker",
       "source": "9to5Mac",
@@ -397,26 +597,6 @@ window.phoneRadarAuto = {
       "summary": "Whether or not you need to buy Apple’s largest iPhone Pro in order to get the best camera features has varied by generation. So far, reporting has mostly suggested that there will…",
       "tags": [
         "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-a21f43d4d32d",
-      "title": "Samsung makes it easier to own and maintain a Galaxy Z Fold 8 or Fold 8 Ultra in India",
-      "source": "SamMobile",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-18",
-      "time": "10:38",
-      "publishedAt": "2026-08-18T10:38:34.000Z",
-      "url": "https://www.sammobile.com/news/easier-own-galaxy-z-fold-8-ultra-maintain-india/",
-      "image": "",
-      "summary": "The Galaxy Z Fold 8 and Galaxy Z Fold 8 Ultra are impressive devices that offer large screens and great flexibility. However, they are also quite expensive. To address this, Samsu…",
-      "tags": [
-        "Samsung",
         "爆料",
         "自动抓取"
       ]
@@ -459,26 +639,6 @@ window.phoneRadarAuto = {
         "Xiaomi",
         "爆料",
         "酷安博主"
-      ]
-    },
-    {
-      "id": "auto-7870f25f8e8e",
-      "title": "Record Galaxy Z Fold 8 sales fail to save Samsung’s mobile unit from losses",
-      "source": "SamMobile",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-18",
-      "time": "09:51",
-      "publishedAt": "2026-08-18T09:51:44.000Z",
-      "url": "https://www.sammobile.com/news/galaxy-z-fold-8-sales-record-fail-save-samsung-mobile-division-losses/",
-      "image": "",
-      "summary": "It is no secret that people are loving the Galaxy Z Fold 8. Pre-orders have broken all previous records for a Galaxy device, and sales remain strong across multiple countries. How…",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
       ]
     },
     {
@@ -759,466 +919,6 @@ window.phoneRadarAuto = {
         "Samsung",
         "爆料",
         "酷安博主"
-      ]
-    },
-    {
-      "id": "auto-9bbf43c61c96",
-      "title": "Apple announces changes to iOS in Brazil",
-      "source": "Apple Newsroom",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "官方",
-      "trust": "官方确认",
-      "date": "2026-08-18",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.apple.com/newsroom/2026/06/apple-announces-changes-to-ios-in-brazil/",
-      "image": "",
-      "summary": "Apple today announced changes impacting iOS apps in Brazil that reflect a recent agreement with Brazil’s competition regulator, CADE.",
-      "tags": [
-        "iPhone",
-        "官方",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "newsnow-3b3aa6844d65",
-      "title": "把「闪念胶囊」（Almost）放到 iPhone 锁屏",
-      "source": "少数派热榜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "评测",
-      "trust": "媒体汇总",
-      "date": "2026-08-18",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://sspai.com/post/113219",
-      "image": "",
-      "summary": "把「闪念胶囊」（Almost）放到 iPhone 锁屏",
-      "tags": [
-        "iPhone",
-        "评测",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-73bcf380a317",
-      "title": "我，与「唯一」的 iPhone Air",
-      "source": "少数派热榜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "评测",
-      "trust": "媒体汇总",
-      "date": "2026-08-18",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://sspai.com/post/112880",
-      "image": "",
-      "summary": "我，与「唯一」的 iPhone Air",
-      "tags": [
-        "iPhone",
-        "评测",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-7f16aa56a708",
-      "title": "iQOO Neo11 至尊版发布：天玑9500M，首销3399元起",
-      "source": "酷安热榜",
-      "brand": "vivo",
-      "model": "vivo 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-08-18",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73311738",
-      "image": "",
-      "summary": "iQOO Neo11 至尊版发布：天玑9500M，首销3399元起",
-      "tags": [
-        "vivo",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-bebc5ca42b22",
-      "title": "#REDMIK90至尊版# #HyperOS4# 为什么8e5的骁龙后面有个R标，而8e没有[受虐滑稽]",
-      "source": "酷安热榜",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-08-18",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73287872",
-      "image": "",
-      "summary": "#REDMIK90至尊版# #HyperOS4# 为什么8e5的骁龙后面有个R标，而8e没有[受虐滑稽]",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-c8ce2642cf49",
-      "title": "华为 Mate90 Pro Max 曝光：新一代满血芯片",
-      "source": "酷安热榜",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-08-18",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73305085",
-      "image": "",
-      "summary": "华为 Mate90 Pro Max 曝光：新一代满血芯片",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-d9fddecf2b3e",
-      "title": "iQOO Z11S 正式发布：首销1799元起",
-      "source": "酷安热榜",
-      "brand": "vivo",
-      "model": "vivo 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-08-18",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73312036",
-      "image": "",
-      "summary": "iQOO Z11S 正式发布：首销1799元起",
-      "tags": [
-        "vivo",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-ae1699ce7088",
-      "title": "【REDMI M100 5G手机上架：骁龙4 Gen5处理器，720P LCD屏，售价1799元起】",
-      "source": "酷安热榜",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-08-18",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73312254",
-      "image": "",
-      "summary": "【REDMI M100 5G手机上架：骁龙4 Gen5处理器，720P LCD屏，售价1799元起】",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-4be8a0542294",
-      "title": "最后还是把 iPhone air 回收换了荣耀 air",
-      "source": "酷安热榜",
-      "brand": "HONOR",
-      "model": "HONOR 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-08-18",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73286226",
-      "image": "",
-      "summary": "最后还是把 iPhone air 回收换了荣耀 air",
-      "tags": [
-        "HONOR",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "auto-b346ecbaf35a",
-      "title": "One year with the Google Pixel 10 Pro: Why do bad things happen to good phones?",
-      "source": "Android Central",
-      "brand": "Pixel",
-      "model": "Pixel 相关机型",
-      "type": "评测",
-      "trust": "媒体汇总",
-      "date": "2026-08-17",
-      "time": "22:34",
-      "publishedAt": "2026-08-17T22:34:10.000Z",
-      "url": "https://www.androidcentral.com/phones/google-pixel/one-year-with-the-google-pixel-10-pro",
-      "image": "https://cdn.mos.cms.futurecdn.net/QzD5oSKZNB28YgXTma5BZZ-1280-80.jpg",
-      "summary": "The Google Pixel 10 Pro marked a watershed moment in Pixel history, but was that a good or a bad moment? One year later, I have a conclusion.",
-      "tags": [
-        "Pixel",
-        "评测",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-e316e74f5354",
-      "title": "Samsung’s wide Galaxy Z Fold 8 was such a hit that it’s reportedly making another one",
-      "source": "Android Central",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "评测",
-      "trust": "媒体汇总",
-      "date": "2026-08-17",
-      "time": "21:56",
-      "publishedAt": "2026-08-17T21:56:55.000Z",
-      "url": "https://www.androidcentral.com/phones/samsung-galaxy/samsungs-wide-galaxy-z-fold-8-was-such-a-hit-that-its-reportedly-making-another-one",
-      "image": "https://cdn.mos.cms.futurecdn.net/FJE2mkucw4mjQXmMz3EJTb-1280-80.jpg",
-      "summary": "Samsung could be doubling down on wider foldables for 2027 with two new video-focused Z9 models after the Z Fold 8 smashed pre-order records.",
-      "tags": [
-        "Samsung",
-        "评测",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-906170ac3cd4",
-      "title": "Over 10,000 readers told us that the Pixel 11 series missed the mark",
-      "source": "Android Authority",
-      "brand": "Pixel",
-      "model": "Pixel 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-17",
-      "time": "20:18",
-      "publishedAt": "2026-08-17T20:18:13.000Z",
-      "url": "https://www.androidauthority.com/pixel-11-series-hot-or-not-poll-results-3699451/",
-      "image": "",
-      "summary": "Our reader survey reveals a pretty brutal verdict on Google's latest flagship.",
-      "tags": [
-        "Pixel",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-76e9b410f6ad",
-      "title": "Standard Xiaomi 18 to launch in December only, claims leak",
-      "source": "Gizmochina",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-17",
-      "time": "20:16",
-      "publishedAt": "2026-08-17T20:16:06.000Z",
-      "url": "https://www.gizmochina.com/2026/08/17/standard-xiaomi-18-to-launch-in-december-only-claims-leak/",
-      "image": "https://www.gizmochina.com/wp-content/uploads/2026/03/Xiaomi-17-300x300.png?x23692",
-      "summary": "The Xiaomi 18 series won’t launch together this year. According to the latest tip from Digital Chat Station, the standard Xiaomi 18 will land in December, well after its Pro sibli…",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-0a3e3de2be4c",
-      "title": "Leaker details A20 Pro chip’s new speed gains",
-      "source": "9to5Mac",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-17",
-      "time": "19:13",
-      "publishedAt": "2026-08-17T19:13:55.000Z",
-      "url": "https://9to5mac.com/2026/08/17/leaker-details-a20-pro-chips-new-speed-gains/",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/12/a20-pro-chip-mockup.jpg?quality=82&strip=all&w=1600",
-      "summary": "iPhone 18 Pro and iPhone Ultra will be unveiled next month with a new A20 Pro chip, and this weekend a reputable leaker shared performance gains to expect per supply chain sources.",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-0a7ddaabde54",
-      "title": "T-Mobile is giving away the Google Pixel 11 Pro XL for FREE without trade — so what's the catch?",
-      "source": "Android Central",
-      "brand": "Pixel",
-      "model": "Pixel 相关机型",
-      "type": "评测",
-      "trust": "媒体汇总",
-      "date": "2026-08-17",
-      "time": "16:16",
-      "publishedAt": "2026-08-17T16:16:51.000Z",
-      "url": "https://www.androidcentral.com/phones/google-pixel/t-mobile-is-giving-away-the-google-pixel-11-pro-xl-for-free-without-trade-so-whats-the-catch",
-      "image": "https://cdn.mos.cms.futurecdn.net/nM4bJN9wyXDtnf5HF6H4f4-1280-80.jpg",
-      "summary": "The Google Pixel 11 Pro XL has arrived, and there are already some great deals to consider.",
-      "tags": [
-        "Pixel",
-        "评测",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-ced40079332f",
-      "title": "Google’s Pixel 11 ads tease a mysterious fitness tracker",
-      "source": "Android Authority",
-      "brand": "Pixel",
-      "model": "Pixel 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-17",
-      "time": "15:33",
-      "publishedAt": "2026-08-17T15:33:19.000Z",
-      "url": "https://www.androidauthority.com/google-fitness-tracker-ad-leak-3699347/",
-      "image": "",
-      "summary": "A mysterious screen-equipped tracker appears in Pixel 11 ads. What is Google hiding?",
-      "tags": [
-        "Pixel",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-5ab98bb6c593",
-      "title": "iPhone 18 Pro: Six new features are coming next month",
-      "source": "9to5Mac",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-17",
-      "time": "15:33",
-      "publishedAt": "2026-08-17T15:33:10.000Z",
-      "url": "https://9to5mac.com/2026/08/17/iphone-18-pro-six-new-features-are-coming-this-fall/",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/05/iphone-17-pro-blue-angle-two.jpg?quality=82&strip=all&w=1600",
-      "summary": "Next month’s new iPhone lineup will bring a brand new ‘iPhone Ultra’ foldable , but the most popular models will no doubt be the iPhone 18 Pro and Pro Max. Here are six new featur…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-c55264fa4948",
-      "title": "Google says Pixel 11’s new MediaTek modem is ‘faster and more power efficient’",
-      "source": "9to5Google",
-      "brand": "Pixel",
-      "model": "Pixel 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-17",
-      "time": "14:45",
-      "publishedAt": "2026-08-17T14:45:00.000Z",
-      "url": "https://9to5google.com/2026/08/17/google-pixel-11-mediatek-modem/",
-      "image": "",
-      "summary": "The Pixel 11 series brings Google’s updated Tensor G6 chipset that, while not quite as big of an upgrade as we expected, still brings a big new change in a MediaTek-made modem tha…",
-      "tags": [
-        "Pixel",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-cff1c9eeca12",
-      "title": "New iPhone Ultra leaks cover release timing, availability, and name",
-      "source": "9to5Mac",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-17",
-      "time": "13:47",
-      "publishedAt": "2026-08-17T13:47:23.000Z",
-      "url": "https://9to5mac.com/2026/08/17/new-iphone-ultra-leaks-cover-release-timing-availability-and-name/",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/03/iphone-fold-mockup-blue.jpg?quality=82&strip=all&w=1600",
-      "summary": "Apple’s foldable iPhone Ultra will be unveiled in just a few weeks , and new leaks cover what to expect from release timing, availability, and the product’s name.",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-2ca9ebc3c35b",
-      "title": "Samsung is reportedly building an even wider Galaxy Z Fold 9 for video viewing",
-      "source": "9to5Google",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-17",
-      "time": "13:35",
-      "publishedAt": "2026-08-17T13:35:00.000Z",
-      "url": "https://9to5google.com/2026/08/17/samsung-galaxy-z-fold-9-wider-design-video-report/",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/07/galaxy-z-fold-8-review-47.jpg?quality=82&strip=all&w=1600",
-      "summary": "The Galaxy Z Fold 8 is an absolute smash hit and, with that in mind, Samsung is reportedly doubling down on the form factor with a second wide device now in the works for the Gala…",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-28e5bfd7045f",
-      "title": "5 Android phones you should buy instead of the Google Pixel 11",
-      "source": "Android Authority",
-      "brand": "Pixel",
-      "model": "Pixel 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-17",
-      "time": "10:30",
-      "publishedAt": "2026-08-17T10:30:58.000Z",
-      "url": "https://www.androidauthority.com/google-pixel-11-alternatives-3697717/",
-      "image": "",
-      "summary": "The Pixel 11 is tempting, but these alternatives might still be better.",
-      "tags": [
-        "Pixel",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-6544f2118660",
-      "title": "The Pixel 11 Pro fixes my biggest complaint about older Pixel flagships",
-      "source": "Android Authority",
-      "brand": "Pixel",
-      "model": "Pixel 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-17",
-      "time": "09:30",
-      "publishedAt": "2026-08-17T09:30:49.000Z",
-      "url": "https://www.androidauthority.com/google-pixel-11-pro-colors-much-better-3698503/",
-      "image": "",
-      "summary": "Those Canyon and Olive colorways look fantastic.",
-      "tags": [
-        "Pixel",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-f7ba231f0ffd",
-      "title": "Google Pixel 12 Pro Fold: Everything we know so far and want to see",
-      "source": "Android Central",
-      "brand": "Pixel",
-      "model": "Pixel 相关机型",
-      "type": "评测",
-      "trust": "媒体汇总",
-      "date": "2026-08-17",
-      "time": "04:44",
-      "publishedAt": "2026-08-17T04:44:01.000Z",
-      "url": "https://www.androidcentral.com/phones/google-pixel/google-pixel-12-pro-fold",
-      "image": "https://cdn.mos.cms.futurecdn.net/zpjPFzH5LNf7vf7ViBdohN-1280-80.jpg",
-      "summary": "With the Pixel 11 Pro Fold now on sale, let's take a look at what Google is planning next year with the Pixel 12 Pro Fold.",
-      "tags": [
-        "Pixel",
-        "评测",
-        "自动抓取"
       ]
     }
   ]
