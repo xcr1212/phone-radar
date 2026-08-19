@@ -1,12 +1,12 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-08-19T01:51:58.891Z",
+  "updatedAt": "2026-08-19T03:10:05.831Z",
   "issueDate": "2026-08-19",
   "issue": "VOL.260819",
   "title": "手机情报日报",
-  "intro": "今日筛出 8 条重点，其中 8 条是重点爆料，包含 3 条 iPhone 相关、0 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 8 条重点，其中 8 条是重点爆料，包含 2 条 iPhone 相关、0 条官方确认、0 条参数线索。",
   "stats": {
     "total": 8,
-    "iphone": 3,
+    "iphone": 2,
     "leaks": 8,
     "official": 0,
     "specs": 0
@@ -17,32 +17,6 @@ window.phoneRadarDaily = {
       "title": "重点爆料",
       "hint": "机模、配色、影像、屏幕、电池和芯片线索先看。",
       "items": [
-        {
-          "id": "auto-760cc5198ae4",
-          "title": "消息称苹果 iPhone 18 Pro Max 独占可变光圈升级",
-          "originalTitle": "",
-          "source": "IT之家",
-          "brand": "iPhone",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-08-18",
-          "time": "22:58",
-          "publishedAt": "2026-08-18T22:58:25.000Z",
-          "url": "https://www.ithome.com/0/991/377.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/8/215ada86-b9ee-43f7-b3e3-6354dfbe0261.png?x-bce-process=image/format,f_auto",
-          "verdict": "先看",
-          "takeaway": "IT之家 8 月 19 日消息，消息源 @i冰宇宙 昨日（8 月 18 日）发布微博，在#曝iPhone18ProMax独占可变光圈#话题下， 表示“想体验满级影像只能忍受砖头重量这件事苹果也不能幸免了”。 供应链消息称苹果 iPhone 18 Pro 和 iPhone 18 Pro Max 除了电池和屏幕方面的差异外，在影像方面也会存在差别。 电池方面，…",
-          "detail": "IT之家 8 月 19 日消息，消息源 @i冰宇宙 昨日（8 月 18 日）发布微博，在#曝iPhone18ProMax独占可变光圈#话题下， 表示“想体验满级影像只能忍受砖头重量这件事苹果也不能幸免了”。 供应链消息称苹果 iPhone 18 Pro 和 iPhone 18 Pro Max 除了电池和屏幕方面的差异外，在影像方面也会存在差别。 电池方面，…",
-          "keyPoints": [
-            "影像硬件",
-            "屏幕形态",
-            "电池 / 充电",
-            "爆料来源"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
         {
           "id": "auto-5ff91a9f217a",
           "title": "iPhone 18 Pro Max 影像能力相关消息",
@@ -211,6 +185,30 @@ window.phoneRadarDaily = {
             "成本 / 价格"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "weibo-6c3dbad0287f",
+          "title": "数码闲聊站：iQOO Neo11至尊版，这首发价格可还行？ 12GB+256GB——339…",
+          "originalTitle": "",
+          "source": "数码闲聊站",
+          "brand": "vivo",
+          "type": "爆料",
+          "trust": "高关注爆料源",
+          "date": "2026-08-18",
+          "time": "12:00",
+          "publishedAt": "2026-08-18T12:00:07.000Z",
+          "url": "https://weibo.com/6048569942/RdZIxs818",
+          "image": "",
+          "verdict": "先看",
+          "takeaway": "iQOO Neo11至尊版，这首发价格可还行？ 12GB+256GB——3399元/原价3699 16GB+256GB——3799元/原价4099 12GB+512GB——3999元/原价4299 16GB+512GB——4399元/原价4699",
+          "detail": "iQOO Neo11至尊版，这首发价格可还行？ 12GB+256GB——3399元/原价3699 16GB+256GB——3799元/原价4099 12GB+512GB——3999元/原价4299 16GB+512GB——4399元/原价4699",
+          "keyPoints": [
+            "成本 / 价格",
+            "爆料来源"
+          ],
+          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         }

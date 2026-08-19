@@ -1,6 +1,66 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-08-19T01:51:58.891Z",
+  "updatedAt": "2026-08-19T03:10:05.831Z",
   "news": [
+    {
+      "id": "auto-428d6dbeebdb",
+      "title": "小米智能摄像机视频通话版 2 单机上架：3.97 英寸彩屏，众筹价 429 元",
+      "source": "IT之家",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-19",
+      "time": "02:53",
+      "publishedAt": "2026-08-19T02:53:18.000Z",
+      "url": "https://www.ithome.com/0/991/501.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/8/ae33e52a-a8ae-41be-9477-128758eaaa8f.png",
+      "summary": "IT之家 8 月 19 日消息，小米智能摄像机视频通话版 2 单机今日上架小米有品并开启预约，8 月 26 日 10 点新开启众筹，众筹价 429 元（ 点击前往 ）。 IT之家从商品页面获悉，新品配备 3.97 英寸彩屏 ，全贴合工艺，分辨率 480x800。所有按键面积增大，按压感清晰，反应更灵敏，方便老人小孩操作。摄像机与手机、摄像机与摄像机之间均可…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-d1d0a73e2200",
+      "title": "竹本青：曝一加16首发新一代东方屏：全局165Hz",
+      "source": "竹本青",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-08-19",
+      "time": "02:17",
+      "publishedAt": "2026-08-19T02:17:02.000Z",
+      "url": "https://www.coolapk.com/feed/73319909",
+      "image": "http://image.coolapk.com/feed/2026/0819/10/4248714_d2b05cc8_5821_9577_79@1272x463.jpg",
+      "summary": "【全局165Hz，曝一加16首发新一代东方屏】 ● 首发新一代东方屏：行业首个支持全局165Hz超高刷的屏幕； ● 出厂预装ColorOS 17：全新系统级动效，综合流畅体验“比夯更夯”。 #ColorOS17# #一加16# #今日热点#",
+      "tags": [
+        "OPPO",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "coolapk-user-96c5aeef451c",
+      "title": "竹本青：iQOO产品经理回应 Z11S售价：这个价格很有诚意了",
+      "source": "竹本青",
+      "brand": "vivo",
+      "model": "vivo 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-08-19",
+      "time": "02:02",
+      "publishedAt": "2026-08-19T02:02:41.000Z",
+      "url": "https://www.coolapk.com/feed/73319731",
+      "image": "http://image.coolapk.com/feed/2026/0819/10/4248714_acdc14ad_4960_5655_272@1439x1427.jpg",
+      "summary": "【iQOO 产品经理回应 Z11S手机售价：这个价格很有诚意了】 8月18日，iQOO Z11S正式发布，首销1799元起，搭载天玑7500满血版芯片，10000mAh电池、1.5K 144Hz直屏等配置。 当晚，iQOO产品经理邢程转发称：“在当前环境下，Z11S这个价格很有诚意了，有需求的小伙伴可以下手了。” #今日热点# #iQOOZ11S# #Or…",
+      "tags": [
+        "vivo",
+        "爆料",
+        "酷安博主"
+      ]
+    },
     {
       "id": "auto-d81cc00691be",
       "title": "三星 Galaxy S26 FE 手机宣传图曝光：7 年安卓系统更新、4900mAh 电池、Exynos 2500 芯片",
@@ -43,7 +103,7 @@ window.phoneRadarAuto = {
     },
     {
       "id": "coolapk-user-3eabc19cbbaf",
-      "title": "JSCHEN小小狐：『小米 18 Pro 系列疑似入网：支持 100W 快充』 知名数码博主 数码闲聊站 发博爆料称，全新小米 18…",
+      "title": "JSCHEN小小狐：小米 18 Pro 系列通过质量认证：100W 快充",
       "source": "JSCHEN小小狐",
       "brand": "Xiaomi",
       "model": "Xiaomi 相关机型",
@@ -54,7 +114,7 @@ window.phoneRadarAuto = {
       "publishedAt": "2026-08-19T00:57:33.000Z",
       "url": "https://www.coolapk.com/feed/73319020",
       "image": "http://image.coolapk.com/feed/2026/0819/08/4702274_4c1e9266_1051_3125_316@1659x572.jpg",
-      "summary": "『小米 18 Pro 系列疑似入网：支持 100W 快充』 知名数码博主 数码闲聊站 发博爆料称，全新小米 18 Pro 系列已疑似入网，且相关备案信息均已齐全。小米 18 Pro / Pro Max 已知信息如下： 小米 18 Pro： ◇ 6.3～6.4 英寸超级像素 OLED 直屏 ◇ LIPO 极窄四等边｜BT.2020 色域 ◇ 2nm 骁龙 8…",
+      "summary": "『小米 18 Pro 系列通过质量认证：100W 快充』 知名数码博主 数码闲聊站 发博表示，全新小米 18 Pro 系列已通过国家质量认证，且相关备案信息均已齐全。小米 18 Pro 系列已知信息如下： 型号：M154FF、M311AD 小米 18 Pro ◇ 6.3～6.4 英寸超级像素 OLED 直屏 ◇ LIPO 极窄四等边｜BT.2020 色域…",
       "tags": [
         "Xiaomi",
         "爆料",
@@ -262,26 +322,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-760cc5198ae4",
-      "title": "消息称苹果 iPhone 18 Pro Max 独占可变光圈升级",
-      "source": "IT之家",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-18",
-      "time": "22:58",
-      "publishedAt": "2026-08-18T22:58:25.000Z",
-      "url": "https://www.ithome.com/0/991/377.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/8/215ada86-b9ee-43f7-b3e3-6354dfbe0261.png?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 8 月 19 日消息，消息源 @i冰宇宙 昨日（8 月 18 日）发布微博，在#曝iPhone18ProMax独占可变光圈#话题下， 表示“想体验满级影像只能忍受砖头重量这件事苹果也不能幸免了”。 供应链消息称苹果 iPhone 18 Pro 和 iPhone 18 Pro Max 除了电池和屏幕方面的差异外，在影像方面也会存在差别。 电池方面，…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-79c1fa7803f3",
       "title": "Massive Galaxy S26 FE leak reveals almost everything ahead of launch",
       "source": "Android Central",
@@ -422,26 +462,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-49910405bc88",
-      "title": "小米“大会师”新品将至，卢伟冰发文预告 9 月“精彩纷呈”",
-      "source": "IT之家",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-18",
-      "time": "16:00",
-      "publishedAt": "2026-08-18T16:00:03.000Z",
-      "url": "https://www.ithome.com/0/991/365.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/8/d19c79d6-9397-4bad-aec4-2554991ff521.png?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 8 月 19 日消息，小米集团合伙人 / 总裁、手机部总裁、小米品牌总经理卢伟冰刚刚发文预告：“ 静待 9 月，精彩纷呈。 ” 值得一提的是，有网友在评论区留言：“小米大会师的产品要来了，非常期待 9 月的新品。”卢伟冰以“[爱心]”作为回复， 暗示小米“大会师”新品将至 。 参考IT之家此前报道，在今年 1 月的 2025 小米“千万技术大奖”…",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-f2d8b3171849",
       "title": "Should you use this Galaxy Z8 fingerprint setting to speed up phone unlocks?",
       "source": "SamMobile",
@@ -519,26 +539,6 @@ window.phoneRadarAuto = {
         "vivo",
         "爆料",
         "微博"
-      ]
-    },
-    {
-      "id": "coolapk-user-de216cabf5d9",
-      "title": "竹本青：【iQOO Neo11 至尊版 正式发布：天玑9500M，2K 维信诺F2直屏，首销3399元起】 12GB+25…",
-      "source": "竹本青",
-      "brand": "vivo",
-      "model": "vivo 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-08-18",
-      "time": "11:56",
-      "publishedAt": "2026-08-18T11:56:28.000Z",
-      "url": "https://www.coolapk.com/feed/73312023",
-      "image": "http://image.coolapk.com/feed/2026/0818/20/4248714_f9124cb5_6545_6064_234@1500x4303.jpg",
-      "summary": "【iQOO Neo11 至尊版 正式发布：天玑9500M，2K 维信诺F2直屏，首销3399元起】 12GB+256GB —— 3399元 16GB+256GB —— 3799元 12GB+512GB —— 3999元 16GB+512GB —— 4399元 核心： ● 6.83\"2K 144Hz LTPS直屏 ● 天玑9500M+电竞芯Q2 ● LPDD…",
-      "tags": [
-        "vivo",
-        "爆料",
-        "酷安博主"
       ]
     },
     {
