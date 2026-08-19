@@ -1,5 +1,5 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-08-19T20:44:18.285Z",
+  "updatedAt": "2026-08-19T22:40:04.874Z",
   "news": [
     {
       "id": "auto-b003ae2755ab",
@@ -162,26 +162,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-782bfdc4ca6e",
-      "title": "The Pixel 11 Pro is a great phone, no thanks to its flashiest new features",
-      "source": "The Verge",
-      "brand": "Pixel",
-      "model": "Pixel 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-19",
-      "time": "16:12",
-      "publishedAt": "2026-08-19T16:12:12.000Z",
-      "url": "https://www.theverge.com/tech/981713/google-pixel-11-pro-review",
-      "image": "",
-      "summary": "Google is trying to get you off your phone. The Pixel 11 Pro is \"A Phone Designed to Help You Use It Less,\" the company promises. It can proactively help you book restaurant reser…",
-      "tags": [
-        "Pixel",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-7ab091365605",
       "title": "A week with the Pixel 11: 5 upgrades I already fell in love with",
       "source": "Android Police",
@@ -255,26 +235,6 @@ window.phoneRadarAuto = {
       "url": "https://www.androidauthority.com/google-pixel-11-hands-on-impressions-3699583/",
       "image": "",
       "summary": "The more I use the regular Pixel 11, the harder I find it to justify the Pro.",
-      "tags": [
-        "Pixel",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-40ab1210ed84",
-      "title": "The Pixel 11 fixes the biggest problem with Google's lost-item network",
-      "source": "Android Police",
-      "brand": "Pixel",
-      "model": "Pixel 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-19",
-      "time": "16:00",
-      "publishedAt": "2026-08-19T16:00:10.000Z",
-      "url": "https://www.androidpolice.com/pixel-11-fixes-googles-find-hubs-biggest-obstacle/",
-      "image": "",
-      "summary": "Google found a good middle ground.",
       "tags": [
         "Pixel",
         "爆料",
