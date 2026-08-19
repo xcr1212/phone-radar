@@ -1,6 +1,266 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-08-19T14:52:28.299Z",
+  "updatedAt": "2026-08-19T16:45:44.730Z",
   "news": [
+    {
+      "id": "auto-ee3a943ab9a4",
+      "title": "I really want to love the Pixel 11 Pro Fold, but it’s not off to the best start",
+      "source": "9to5Google",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-19",
+      "time": "16:35",
+      "publishedAt": "2026-08-19T16:35:00.000Z",
+      "url": "https://9to5google.com/2026/08/19/google-pixel-11-pro-fold-first-impressions/",
+      "image": "",
+      "summary": "The Pixel 11 Pro Fold is debuting into an increasingly tough market because, really, everything is good now. My first week with Google’s latest foldable has been one that started…",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-7956629155b8",
+      "title": "What’s the best Pixel 11 Pro color? Android Authority readers are split",
+      "source": "Android Authority",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-19",
+      "time": "16:31",
+      "publishedAt": "2026-08-19T16:31:07.000Z",
+      "url": "https://www.androidauthority.com/pixel-11-pro-color-poll-results-3700585/",
+      "image": "",
+      "summary": "Olive is the favorite, but just barely.",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-bb3317d2d348",
+      "title": "Yes, the Pixelsnap magnets on Pixel 11 are stronger this year",
+      "source": "9to5Google",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-19",
+      "time": "16:30",
+      "publishedAt": "2026-08-19T16:30:00.000Z",
+      "url": "https://9to5google.com/2026/08/19/pixel-11-magnets-stronger/",
+      "image": "",
+      "summary": "Pixelsnap is one of the best things added to Pixel phones in a number of years, but it wasn’t quite a perfect first attempt. Luckily, this year those pesky magnets are a little st…",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-782bfdc4ca6e",
+      "title": "The Pixel 11 Pro is a great phone, no thanks to its flashiest new features",
+      "source": "The Verge",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-19",
+      "time": "16:12",
+      "publishedAt": "2026-08-19T16:12:12.000Z",
+      "url": "https://www.theverge.com/tech/981713/google-pixel-11-pro-review",
+      "image": "",
+      "summary": "Google is trying to get you off your phone. The Pixel 11 Pro is \"A Phone Designed to Help You Use It Less,\" the company promises. It can proactively help you book restaurant reser…",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-7ab091365605",
+      "title": "A week with the Pixel 11: 5 upgrades I already fell in love with",
+      "source": "Android Police",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-19",
+      "time": "16:10",
+      "publishedAt": "2026-08-19T16:10:10.000Z",
+      "url": "https://www.androidpolice.com/5-pixel-11-upgrades-ive-already-fallen-in-love-with/",
+      "image": "",
+      "summary": "There's more to the cheaper Pixel 11 than you thought",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-ed830cdf989d",
+      "title": "Google Pixel 11 Pro vs. Samsung Galaxy S26: Which small flagship is better?",
+      "source": "Android Central",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-08-19",
+      "time": "16:10",
+      "publishedAt": "2026-08-19T16:10:00.000Z",
+      "url": "https://www.androidcentral.com/phones/google-pixel/google-pixel-11-pro-vs-samsung-galaxy-s26",
+      "image": "https://cdn.mos.cms.futurecdn.net/458VKqtF8yUPDuX7a9GhL7-1280-80.jpg",
+      "summary": "Anyone interested in buying a standard flagship Android phone right now is wondering which is better, the Google Pixel 11 Pro or the Samsung Galaxy S26?",
+      "tags": [
+        "Samsung",
+        "评测",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-28b31a22e042",
+      "title": "The Pixel 11 isn’t the best Pixel of 2026, but it’s the smartest buy",
+      "source": "The Verge",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-19",
+      "time": "16:07",
+      "publishedAt": "2026-08-19T16:07:44.000Z",
+      "url": "https://www.theverge.com/tech/982190/google-pixel-11-review",
+      "image": "",
+      "summary": "It'd be easy to overlook the Pixel 11. Want the best cameras? The Pixel 11 Pro is your answer. Want the best bargain? The Pixel 10A is still a great deal. But the Pixel 11 might b…",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-a6c1bb3db86b",
+      "title": "Pixel 11 Initial Review: This probably could have been a software update [Video]",
+      "source": "9to5Google",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-19",
+      "time": "16:01",
+      "publishedAt": "2026-08-19T16:01:00.000Z",
+      "url": "https://9to5google.com/2026/08/19/pixel-11-initial-review/",
+      "image": "",
+      "summary": "You can understand a lot about a product from its first couple of hours, and if that is anything to go by, the Pixel 11 feels like an adequate but modest update that is likely onl…",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-b8bf7efb42c7",
+      "title": "I spent 3 days with the Pixel 11 and Pixel 11 Pro — and there’s only one I would buy",
+      "source": "Android Authority",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-19",
+      "time": "16:00",
+      "publishedAt": "2026-08-19T16:00:43.000Z",
+      "url": "https://www.androidauthority.com/google-pixel-11-hands-on-impressions-3699583/",
+      "image": "",
+      "summary": "The more I use the regular Pixel 11, the harder I find it to justify the Pro.",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-40ab1210ed84",
+      "title": "The Pixel 11 fixes the biggest problem with Google's lost-item network",
+      "source": "Android Police",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-19",
+      "time": "16:00",
+      "publishedAt": "2026-08-19T16:00:10.000Z",
+      "url": "https://www.androidpolice.com/pixel-11-fixes-googles-find-hubs-biggest-obstacle/",
+      "image": "",
+      "summary": "Google found a good middle ground.",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-010066b46c43",
+      "title": "The Pixel 11 Pro is so good at being last year's phone, Google should have left it alone",
+      "source": "Android Police",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-19",
+      "time": "16:00",
+      "publishedAt": "2026-08-19T16:00:10.000Z",
+      "url": "https://www.androidpolice.com/first-days-with-the-google-pixel-11-pro/",
+      "image": "",
+      "summary": "Good where you expect, but also frustrating where you expect too",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-b5291adecd5f",
+      "title": "Motorola's magnetic charger leaks, and it's exactly what Android needed",
+      "source": "Android Central",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-08-19",
+      "time": "15:59",
+      "publishedAt": "2026-08-19T15:59:51.000Z",
+      "url": "https://www.androidcentral.com/accessories/power-charging/motorolas-magnetic-charger-leaks-and-its-exactly-what-android-needed",
+      "image": "https://cdn.mos.cms.futurecdn.net/pVRNQ9T9YfL3sifC9w2jc3-1280-80.jpg",
+      "summary": "Motorola’s leaked Moto Snap hints that Qi2 magnetic charging could soon spread beyond the Edge 70 Max and become a bigger part of its Android lineup.",
+      "tags": [
+        "行业",
+        "评测",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-5831236134c1",
+      "title": "Google’s Pixel 11 Pro Fold feels like the end of an era",
+      "source": "The Verge",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-19",
+      "time": "15:48",
+      "publishedAt": "2026-08-19T15:48:16.000Z",
+      "url": "https://www.theverge.com/tech/981956/google-pixel-11-pro-fold-review",
+      "image": "",
+      "summary": "The foldable phone market is in the middle of a huge transformation, but no one told Google. Last year, Samsung transformed its Galaxy Z Fold 7 with a dramatically thinner design.…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "coolapk-user-f7e74e3654fe",
       "title": "竹本青：【芒米AIR Y系列 竖版安卓掌机 今日开售：骁龙662/骁龙865，早鸟价599元起】 AIR Y 3GB+32…",
@@ -135,46 +395,6 @@ window.phoneRadarAuto = {
       "url": "https://www.androidpolice.com/google-pixel-11-pro-telephoto-camera-big-close-up-upgrade/",
       "image": "",
       "summary": "No need to switch to Pro mode to get the best performance",
-      "tags": [
-        "Pixel",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-772c28d2ef05",
-      "title": "I can forgive the Tensor G6's performance if the Pixel 11 delivers on these things",
-      "source": "Android Police",
-      "brand": "Pixel",
-      "model": "Pixel 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-19",
-      "time": "12:15",
-      "publishedAt": "2026-08-19T12:15:10.000Z",
-      "url": "https://www.androidpolice.com/i-can-forgive-tensor-g6-performance-pixel-11-delivers-these-things/",
-      "image": "",
-      "summary": "Real-world use > Benchmark scores",
-      "tags": [
-        "Pixel",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-2198bd3909da",
-      "title": "The Pixel 11 Pro's notification light is half-baked; Google knows it",
-      "source": "Android Police",
-      "brand": "Pixel",
-      "model": "Pixel 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-19",
-      "time": "12:00",
-      "publishedAt": "2026-08-19T12:00:10.000Z",
-      "url": "https://www.androidpolice.com/the-pixel-11-pros-notification-light-is-half-baked-and-google-knows-it/",
-      "image": "",
-      "summary": "HiLight is Google's throwback to notification LEDs — except it actually makes them worse",
       "tags": [
         "Pixel",
         "爆料",
