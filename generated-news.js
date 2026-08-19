@@ -1,6 +1,146 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-08-19T08:53:32.549Z",
+  "updatedAt": "2026-08-19T10:45:05.689Z",
   "news": [
+    {
+      "id": "auto-a8927300d92d",
+      "title": "荣耀 MagicOS 11 官宣支持「存储空间优化技术 2.0」，升级后手机能增加更多可用空间",
+      "source": "IT之家",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-19",
+      "time": "10:41",
+      "publishedAt": "2026-08-19T10:41:38.000Z",
+      "url": "https://www.ithome.com/0/991/789.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/8/bfef7c31-a124-4f79-ab7d-6c8664fff6cb.jpg",
+      "summary": "IT之家 8 月 19 日消息，荣耀产品维护与升级 @荣耀小芳哥 今日发文，称为了让老手机能使用更久，荣耀在 MagicOS 11 上带来了「存储空间优化技术 2.0」， 升级后手机能增加更多可用空间 。 荣耀产品维护与升级 @荣耀小芳哥 表示， 去年 MagicOS 10 升级后最高能省出 50G 以上存储空间 ，今年 MagicOS11 内部测试效果优…",
+      "tags": [
+        "HONOR",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-daa1352bdcd0",
+      "title": "Testing the Galaxy S26 Plus at night exposes flagship smartphone cameras’ biggest mistake",
+      "source": "Android Authority",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-19",
+      "time": "10:30",
+      "publishedAt": "2026-08-19T10:30:37.000Z",
+      "url": "https://www.androidauthority.com/samsung-galaxy-s26-plus-low-light-camera-test-mistake-3698846/",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2026/08/Samsung-Galaxy-S26-Plus-camera.jpg",
+      "summary": "Bigger camera sensors still matter, especially when the lights go down.",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-fb633c163c4e",
+      "title": "竹本青：【OriginOS 7 官方爆料：动态光影出现在更多操作和状态里】 vivo OS产品总监介绍，去年，Origin…",
+      "source": "竹本青",
+      "brand": "vivo",
+      "model": "vivo 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-08-19",
+      "time": "10:17",
+      "publishedAt": "2026-08-19T10:17:48.000Z",
+      "url": "https://www.coolapk.com/feed/73326786",
+      "image": "http://image.coolapk.com/feed/2026/0819/18/4248714_89e46d79_4666_5917_279-livepic@1440x1920.jpg",
+      "summary": "【OriginOS 7 官方爆料：动态光影出现在更多操作和状态里】 vivo OS产品总监介绍，去年，OriginOS已经开始尝试通过光影，跟随每一次操作，带来直觉式的引导。 今年，在OS 7中，动态光影出现在更多操作和状态里。按下按钮，光效像水波般漾开；滑动时，明暗随轨迹流转。每一步都有即时而连贯的反馈。 #OriginOS6# #今日热点# #Orig…",
+      "tags": [
+        "vivo",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "coolapk-user-494a94acfb6e",
+      "title": "竹本青：【小米新一代人形机器人亮相 2026 世界机器人博览会，明日起展台对普通观众开放】 8月19日，小米公司宣布，小米…",
+      "source": "竹本青",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-08-19",
+      "time": "10:13",
+      "publishedAt": "2026-08-19T10:13:43.000Z",
+      "url": "https://www.coolapk.com/feed/73326722",
+      "image": "http://image.coolapk.com/feed/2026/0819/18/4248714_0884954d_4419_9306_48@2000x1336.jpg",
+      "summary": "【小米新一代人形机器人亮相 2026 世界机器人博览会，明日起展台对普通观众开放】 8月19日，小米公司宣布，小米新一代人形机器人亮相 2026 世界机器人博览会，登陆「具身花园」展台。明日起，将对普通观众开放。 据介绍，本次小米新一代人形机器人化身“花艺师”，抓取香片撒花并递送给现场观众，还能握手、碰拳，动作自然又流畅。 下午《每日经济新闻》报道称，该款…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-8ba95a44861a",
+      "title": "Galaxy S26 FE leak points to longer battery life, but with a notable trade-off",
+      "source": "Android Authority",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-19",
+      "time": "09:40",
+      "publishedAt": "2026-08-19T09:40:39.000Z",
+      "url": "https://www.androidauthority.com/galaxy-s26-fe-battery-charging-cycle-leak-3700316/",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2026/08/Galaxy-S26-FE-Leak-AH-2.jpeg",
+      "summary": "Leaked European Energy Labels point to a longer battery life, but with a sharp decline in charging cycles.",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-9b78259bd480",
+      "title": "iPhone 17 Pro Cases Fit iPhone 18 Pro - Or At Least Otterbox Thinks So",
+      "source": "MacRumors",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-19",
+      "time": "09:39",
+      "publishedAt": "2026-08-19T09:39:55.000Z",
+      "url": "https://www.macrumors.com/2026/08/19/iphone-17-pro-cases-fit-iphone-18-pro/",
+      "image": "https://images.macrumors.com/article-new/2026/08/iphone-17-18-pro-case-otterbox@2x-scaled.jpg",
+      "summary": "Bloomberg 's Mark Gurman noted on X (Twitter) today that Otterbox is already selling iPhone 18 Pro cases at Best Buy. While the timing is early for a new iPhone that isn't expecte…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-cb375995890b",
+      "title": "With the Pixel 11, Google has abandoned the main reason I used to recommend Pixels",
+      "source": "Android Authority",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-19",
+      "time": "09:00",
+      "publishedAt": "2026-08-19T09:00:46.000Z",
+      "url": "https://www.androidauthority.com/pixel-11-price-increase-abandons-google-advantage-3698897/",
+      "image": "",
+      "summary": "Google’s prices have fallen in line with its competitors — and that’s bad news for everyone.",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-acac296aed32",
       "title": "OnePlus 16’s BOE X4 display to bring 165Hz system-wide refresh rate and enhanced gaming experience",
@@ -442,26 +582,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-57314446e406",
-      "title": "iPhone18发布会或定档9月9日",
-      "source": "微博热搜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "待验证",
-      "date": "2026-08-19",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://s.weibo.com/weibo?q=%23iPhone18%E5%8F%91%E5%B8%83%E4%BC%9A%E6%88%96%E5%AE%9A%E6%A1%A39%E6%9C%889%E6%97%A5%23&t=31&band_rank=17&Refer=top",
-      "image": "",
-      "summary": "iPhone18发布会或定档9月9日",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
       "id": "auto-d8199872a8ff",
       "title": "Apple's iPhone 18 Release Schedule: What's Coming and When",
       "source": "MacRumors",
@@ -822,26 +942,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-f9c458c41a43",
-      "title": "More details on Huawei Mate 90 RS display and battery leaked",
-      "source": "Huawei Central",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-18",
-      "time": "08:04",
-      "publishedAt": "2026-08-18T08:04:51.000Z",
-      "url": "https://www.huaweicentral.com/huawei-mate-90-rs-display-battery/",
-      "image": "https://www.huaweicentral.com/wp-content/uploads/2026/08/Mate90RS-leak.jpg",
-      "summary": "A credible Weibo tipster has brought more details on the Huawei Mate 90 RS Ultimate Design’s specifications, including display and battery capacity. The leak says that the top-tie…",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-c5527e0dcbbd",
       "title": "iQOO Z11S camera samples revealed",
       "source": "Gizmochina",
@@ -859,86 +959,6 @@ window.phoneRadarAuto = {
         "vivo",
         "爆料",
         "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-95422900b30b",
-      "title": "Huawei Mate 90 RS to go big on periscope tech with 200MP camera",
-      "source": "Huawei Central",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-18",
-      "time": "07:26",
-      "publishedAt": "2026-08-18T07:26:54.000Z",
-      "url": "https://www.huaweicentral.com/huawei-mate-90-rs-200mp-periscope-camera/",
-      "image": "https://www.huaweicentral.com/wp-content/uploads/2025/11/mate-80-rs-ultimate.jpg",
-      "summary": "Huawei Mate 90 RS Ultimate Design is seemingly just a month away and new leaks indicate it could bring an especially noteworthy batch of periscope camera upgrades, including a 200…",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-f767074b8285",
-      "title": "New Vivo V80 Lite design leak hints at Vivo S2 rebrand",
-      "source": "Gizmochina",
-      "brand": "vivo",
-      "model": "vivo 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-18",
-      "time": "06:34",
-      "publishedAt": "2026-08-18T06:34:36.000Z",
-      "url": "https://www.gizmochina.com/2026/08/18/new-vivo-v80-lite-design-leak-hints-at-vivo-s2-rebrand/",
-      "image": "https://www.gizmochina.com/wp-content/uploads/2026/08/Vivo-S2-Sapphire-Blue-300x148.jpg?x23692",
-      "summary": "A new leak is adding weight to earlier reports that the Vivo S2 could be sold internationally under a different name. An image of the Vivo V80 Lite has surfaced on the web, and al…",
-      "tags": [
-        "vivo",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-9974dd3dff8f",
-      "title": "Vivo X500 clears major certification, September launch expected",
-      "source": "Gizmochina",
-      "brand": "vivo",
-      "model": "vivo 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-18",
-      "time": "06:18",
-      "publishedAt": "2026-08-18T06:18:19.000Z",
-      "url": "https://www.gizmochina.com/2026/08/18/vivo-x500-3c-certified/",
-      "image": "https://www.gizmochina.com/wp-content/uploads/2026/06/Vivo-X300-300x225.jpg?x23692",
-      "summary": "Several reports have claimed that Vivo is planning to unveil the Vivo X500 series in September in China. Ahead of the launch, the X500 members are gradually bagging key certificat…",
-      "tags": [
-        "vivo",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "weibo-c12e65223b75",
-      "title": "数码闲聊站：独家，Find X10系列新机摸了一下，屏幕也加料了，联合研发的全新护眼基材，…",
-      "source": "数码闲聊站",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-08-18",
-      "time": "06:00",
-      "publishedAt": "2026-08-18T06:00:00.000Z",
-      "url": "https://weibo.com/6048569942/RdXmn5Z8k",
-      "image": "",
-      "summary": "独家，Find X10系列新机摸了一下，屏幕也加料了，联合研发的全新护眼基材，能够支持目前行业最高规格的BT.2020超广色域，还实现行业上最高有益红光和最低有害蓝光，色彩和护眼都拉满。在绿厂新的屏幕双产线加持下，这块屏还更进一步，边框超窄！超通透！[偷乐] Tips: 友商也在研究类似的屏幕特性，但进度慢一些，估计得明年落地",
-      "tags": [
-        "行业",
-        "爆料",
-        "微博"
       ]
     },
     {

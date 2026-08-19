@@ -1,12 +1,12 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-08-19T08:53:32.549Z",
+  "updatedAt": "2026-08-19T10:45:05.689Z",
   "issueDate": "2026-08-19",
   "issue": "VOL.260819",
   "title": "手机情报日报",
-  "intro": "今日筛出 8 条重点，其中 8 条是重点爆料，包含 2 条 iPhone 相关、0 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 8 条重点，其中 8 条是重点爆料，包含 3 条 iPhone 相关、0 条官方确认、0 条参数线索。",
   "stats": {
     "total": 8,
-    "iphone": 2,
+    "iphone": 3,
     "leaks": 8,
     "official": 0,
     "specs": 0
@@ -42,6 +42,29 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
+          "id": "auto-9b78259bd480",
+          "title": "iPhone 相关消息",
+          "originalTitle": "",
+          "source": "MacRumors",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-08-19",
+          "time": "09:39",
+          "publishedAt": "2026-08-19T09:39:55.000Z",
+          "url": "https://www.macrumors.com/2026/08/19/iphone-17-pro-cases-fit-iphone-18-pro/",
+          "image": "https://images.macrumors.com/article-new/2026/08/iphone-17-18-pro-case-otterbox@2x-scaled.jpg",
+          "verdict": "先看",
+          "takeaway": "iPhone 相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
+          "detail": "iPhone 相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
+          "keyPoints": [
+            "爆料来源"
+          ],
+          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
           "id": "auto-d8199872a8ff",
           "title": "iPhone 18 发布 / 上市相关消息",
           "originalTitle": "",
@@ -57,6 +80,29 @@ window.phoneRadarDaily = {
           "verdict": "先看",
           "takeaway": "iPhone 有发布或新功能消息，适合确认是否和新机有关。",
           "detail": "iPhone 18 发布 / 上市相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "auto-a8927300d92d",
+          "title": "荣耀 MagicOS 11 官宣支持「存储空间优化技术 2.0」，升级后手机能增加更多可用空间",
+          "originalTitle": "",
+          "source": "IT之家",
+          "brand": "HONOR",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-08-19",
+          "time": "10:41",
+          "publishedAt": "2026-08-19T10:41:38.000Z",
+          "url": "https://www.ithome.com/0/991/789.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/8/bfef7c31-a124-4f79-ab7d-6c8664fff6cb.jpg",
+          "verdict": "先看",
+          "takeaway": "IT之家 8 月 19 日消息，荣耀产品维护与升级 @荣耀小芳哥 今日发文，称为了让老手机能使用更久，荣耀在 MagicOS 11 上带来了「存储空间优化技术 2.0」， 升级后手机能增加更多可用空间 。 荣耀产品维护与升级 @荣耀小芳哥 表示， 去年 MagicOS 10 升级后最高能省出 50G 以上存储空间 ，今年 MagicOS11 内部测试效果优…",
+          "detail": "IT之家 8 月 19 日消息，荣耀产品维护与升级 @荣耀小芳哥 今日发文，称为了让老手机能使用更久，荣耀在 MagicOS 11 上带来了「存储空间优化技术 2.0」， 升级后手机能增加更多可用空间 。 荣耀产品维护与升级 @荣耀小芳哥 表示， 去年 MagicOS 10 升级后最高能省出 50G 以上存储空间 ，今年 MagicOS11 内部测试效果优…",
           "keyPoints": [
             "爆料"
           ],
@@ -158,54 +204,6 @@ window.phoneRadarDaily = {
             "成本 / 价格"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "weibo-6c3dbad0287f",
-          "title": "数码闲聊站：iQOO Neo11至尊版，这首发价格可还行？ 12GB+256GB——339…",
-          "originalTitle": "",
-          "source": "数码闲聊站",
-          "brand": "vivo",
-          "type": "爆料",
-          "trust": "高关注爆料源",
-          "date": "2026-08-18",
-          "time": "12:00",
-          "publishedAt": "2026-08-18T12:00:07.000Z",
-          "url": "https://weibo.com/6048569942/RdZIxs818",
-          "image": "",
-          "verdict": "先看",
-          "takeaway": "iQOO Neo11至尊版，这首发价格可还行？ 12GB+256GB——3399元/原价3699 16GB+256GB——3799元/原价4099 12GB+512GB——3999元/原价4299 16GB+512GB——4399元/原价4699",
-          "detail": "iQOO Neo11至尊版，这首发价格可还行？ 12GB+256GB——3399元/原价3699 16GB+256GB——3799元/原价4099 12GB+512GB——3999元/原价4299 16GB+512GB——4399元/原价4699",
-          "keyPoints": [
-            "成本 / 价格",
-            "爆料来源"
-          ],
-          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "coolapk-user-dc120a078181",
-          "title": "竹本青：曝OPPO阔直板新机明年与超大杯同场发布",
-          "originalTitle": "",
-          "source": "竹本青",
-          "brand": "OPPO",
-          "type": "爆料",
-          "trust": "高可信爆料",
-          "date": "2026-08-19",
-          "time": "07:25",
-          "publishedAt": "2026-08-19T07:25:10.000Z",
-          "url": "https://www.coolapk.com/feed/73324212",
-          "image": "http://image.coolapk.com/feed/2026/0819/15/4248714_99d98c50_4408_2035_384@1439x1031.jpg",
-          "verdict": "先看",
-          "takeaway": "【曝OPPO阔直板新机归属旗舰线，明年与超大杯同场发布】 ● 6.3\"-6.4\"1.5K LTPO四等边屏 ● 2亿像素大底影像+潜望长焦 ● 明年上半年与Find X10 Ultra同场发布 #今日热点# #ColorOS17# #OPPOFindN6#",
-          "detail": "【曝OPPO阔直板新机归属旗舰线，明年与超大杯同场发布】 ● 6.3\"-6.4\"1.5K LTPO四等边屏 ● 2亿像素大底影像+潜望长焦 ● 明年上半年与Find X10 Ultra同场发布 #今日热点# #ColorOS17# #OPPOFindN6#",
-          "keyPoints": [
-            "外观 / 配色 / 尺寸",
-            "影像硬件"
-          ],
-          "confidence": "可信度较高，但仍属于发布前线索。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         }
