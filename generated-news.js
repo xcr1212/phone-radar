@@ -1,6 +1,146 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-08-19T10:45:05.689Z",
+  "updatedAt": "2026-08-19T13:07:21.269Z",
   "news": [
+    {
+      "id": "coolapk-user-6af203a903b3",
+      "title": "竹本青：【埃安超级纯电轿车 Ray7 正式亮相：风阻0.22cd，192线激光雷达】 ● 车身：5米级车身，低趴宽体 ●…",
+      "source": "竹本青",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-08-19",
+      "time": "12:50",
+      "publishedAt": "2026-08-19T12:50:46.000Z",
+      "url": "https://www.coolapk.com/feed/73329065",
+      "image": "http://image.coolapk.com/feed/2026/0819/20/4248714_8277a7a9_3845_1151_465@1259x4096.jpg",
+      "summary": "【埃安超级纯电轿车 Ray7 正式亮相：风阻0.22cd，192线激光雷达】 ● 车身：5米级车身，低趴宽体 ● 风阻：0.22cd ● 双色：闪电黄、仲夏紫 ● 灯光：量子星环前后灯组 ● 底盘： 首发芯片级强制融合架构 华为EMB全电线控制制动、iTRACK智能扭矩控制系统 铝混前双叉臂+后五连杆悬架 FSD可变阻尼悬架+HRS液压回弹止动器 ● 三电…",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-8ff6717618a0",
+      "title": "Galaxy S26 Ultra is now available at its lowest-ever price in India",
+      "source": "SamMobile",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-19",
+      "time": "12:49",
+      "publishedAt": "2026-08-19T12:49:39.000Z",
+      "url": "https://www.sammobile.com/news/galaxy-s26-ultra-now-available-lowest-ever-price-india/",
+      "image": "",
+      "summary": "Samsung’s latest flagship non-foldable smartphone, the Galaxy S26 Ultra, is available at its lowest-ever price in India. The brand launched the base variant of the Galaxy S26 Ultr…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-a2d7ac993061",
+      "title": "Google Pixel 11 Pro's telephoto camera quietly gets a big close-up upgrade",
+      "source": "Android Police",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-19",
+      "time": "12:44",
+      "publishedAt": "2026-08-19T12:44:00.000Z",
+      "url": "https://www.androidpolice.com/google-pixel-11-pro-telephoto-camera-big-close-up-upgrade/",
+      "image": "",
+      "summary": "A better minimum focusing distance",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-772c28d2ef05",
+      "title": "I can forgive the Tensor G6's performance if the Pixel 11 delivers on these things",
+      "source": "Android Police",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-19",
+      "time": "12:15",
+      "publishedAt": "2026-08-19T12:15:10.000Z",
+      "url": "https://www.androidpolice.com/i-can-forgive-tensor-g6-performance-pixel-11-delivers-these-things/",
+      "image": "",
+      "summary": "Real-world use > Benchmark scores",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-2198bd3909da",
+      "title": "The Pixel 11 Pro's notification light is half-baked; Google knows it",
+      "source": "Android Police",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-19",
+      "time": "12:00",
+      "publishedAt": "2026-08-19T12:00:10.000Z",
+      "url": "https://www.androidpolice.com/the-pixel-11-pros-notification-light-is-half-baked-and-google-knows-it/",
+      "image": "",
+      "summary": "HiLight is Google's throwback to notification LEDs — except it actually makes them worse",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-6fd66c823b00",
+      "title": "Otterbox and Astropad think iPhone 17 Pro cases will fit iPhone 18 Pro",
+      "source": "9to5Mac",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-19",
+      "time": "11:21",
+      "publishedAt": "2026-08-19T11:21:19.000Z",
+      "url": "https://9to5mac.com/2026/08/19/otterbox-and-astropad-think-iphone-17-pro-cases-will-fit-iphone-18-pro/",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/iphone-18-pro-mockup.jpg?quality=82&strip=all&w=1600",
+      "summary": "One of the hidden expenses in upgrading to a new iPhone can often be the need to replace your case when the dimensions differ. That so far seemed a likely bet for anyone upgrading…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-7d54d655d7ac",
+      "title": "These Huawei Pura phones receiving EMUI August 2026 update",
+      "source": "Huawei Central",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-19",
+      "time": "10:53",
+      "publishedAt": "2026-08-19T10:53:46.000Z",
+      "url": "https://www.huaweicentral.com/these-huawei-pura-phones-receiving-emui-august-2026-update/",
+      "image": "https://www.huaweicentral.com/wp-content/uploads/2026/08/EMUI-updates.jpg",
+      "summary": "Huawei has started rolling out the EMUI August 2026 update for the flagship Pura phones. The new firmware ensures that the device remains stable and continues to work efficiently…",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-a8927300d92d",
       "title": "荣耀 MagicOS 11 官宣支持「存储空间优化技术 2.0」，升级后手机能增加更多可用空间",
@@ -202,26 +342,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-073ea2cf7655",
-      "title": "消息称 OPPO 阔直板新机有望归属旗舰产品线：目前评估 200Mp 大底影像方案，定义很顶级",
-      "source": "IT之家",
-      "brand": "OPPO",
-      "model": "OPPO 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-19",
-      "time": "08:00",
-      "publishedAt": "2026-08-19T08:00:27.000Z",
-      "url": "https://www.ithome.com/0/991/680.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/8/fbeef846-3e4c-4e06-a6e5-c563e893e7f1.png?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 8 月 19 日消息，博主 @数码闲聊站 今日发文爆料，OPPO 阔直板新机“大概率”归属旗舰产品线。博主透露， 该机目前评估 200Mp 大底影像，有潜望长焦，定义很顶级 。 有网友询问该机进展顺利的话能否跟超大杯机型一起发布，博主称， 目前排期就是和超大杯一起 。 据IT之家此前报道，该博主曾爆料 OPPO 旗下 6.3-6.4 英寸阔直屏新…",
-      "tags": [
-        "OPPO",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-f3c05e2c302e",
       "title": "Galaxy S26 FE battery life could be longer than the Galaxy S25 FE",
       "source": "SamMobile",
@@ -357,26 +477,6 @@ window.phoneRadarAuto = {
       "summary": "【消息称多数安卓厂商对新旗舰销量预期是上代的50%】 博主数码闲聊站今天分享称，因芯片和内存涨价，多数安卓厂商对于新一代旗舰手机的销量预期，大概是上一代的50%。 #今日热点# #ColorOS16# #HyperOS4#",
       "tags": [
         "Xiaomi",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
-      "id": "coolapk-user-23f6781516b1",
-      "title": "竹本青：【消息称 iQOO 中高端全线压宝2K超高刷屏】 迭代高端线：6.85\"±2K+165Hz 三星显示 迭代中端线：…",
-      "source": "竹本青",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-08-19",
-      "time": "04:12",
-      "publishedAt": "2026-08-19T04:12:16.000Z",
-      "url": "https://www.coolapk.com/feed/73321588",
-      "image": "http://image.coolapk.com/feed/2026/0819/12/4248714_ec756419_2735_4955_180@1439x472.jpg",
-      "summary": "【消息称 iQOO 中高端全线压宝2K超高刷屏】 迭代高端线：6.85\"±2K+165Hz 三星显示 迭代中端线：6.83\"±2K+165Hz/185Hz 维信诺 #今日热点# #OriginOS7# #iQOO16#",
-      "tags": [
-        "Samsung",
         "爆料",
         "酷安博主"
       ]
@@ -522,26 +622,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-29f5c63ec2a0",
-      "title": "#REDMIK90至尊版# #HyperOS4# 为什么8e5的骁龙后面有个R标，而8e没有[受虐滑稽]",
-      "source": "酷安热榜",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-08-19",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73287872",
-      "image": "",
-      "summary": "#REDMIK90至尊版# #HyperOS4# 为什么8e5的骁龙后面有个R标，而8e没有[受虐滑稽]",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
       "id": "newsnow-de519d94c3a8",
       "title": "【REDMI M100 5G手机上架：骁龙4 Gen5处理器，720P LCD屏，售价1799元起】",
       "source": "酷安热榜",
@@ -562,21 +642,21 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-86dc97055f6e",
-      "title": "iQOO Z11S 正式发布：首销1799元起",
+      "id": "newsnow-29f5c63ec2a0",
+      "title": "#REDMIK90至尊版# #HyperOS4# 为什么8e5的骁龙后面有个R标，而8e没有[受虐滑稽]",
       "source": "酷安热榜",
-      "brand": "vivo",
-      "model": "vivo 相关机型",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-08-19",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73312036",
+      "url": "https://www.coolapk.com/feed/73287872",
       "image": "",
-      "summary": "iQOO Z11S 正式发布：首销1799元起",
+      "summary": "#REDMIK90至尊版# #HyperOS4# 为什么8e5的骁龙后面有个R标，而8e没有[受虐滑稽]",
       "tags": [
-        "vivo",
+        "Xiaomi",
         "爆料",
         "NewsNow"
       ]
@@ -877,26 +957,6 @@ window.phoneRadarAuto = {
       "summary": "Apple's upcoming iPhone 18 Pro models may be differentiated by a new camera feature that could be exclusive to the larger Pro Max model, if a Chinese leaker is to be believed. Sin…",
       "tags": [
         "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-96abc7de793c",
-      "title": "Huawei Mate 90 to use Kirin 9030, Pro/RS models to adopt Tau Law chips",
-      "source": "Huawei Central",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-18",
-      "time": "09:01",
-      "publishedAt": "2026-08-18T09:01:55.000Z",
-      "url": "https://www.huaweicentral.com/huawei-mate-90-to-use-kirin-9030-pro-rs-models-to-adopt-tau-law-chips/",
-      "image": "https://www.huaweicentral.com/wp-content/uploads/2026/05/Kirin-chip.jpg",
-      "summary": "Huawei Mate 90 vanilla version and Pro/RS Ultimate models will likely go official next month with upgraded Kirin chips. Now, a new short leak from a reputable tipster has revealed…",
-      "tags": [
-        "Huawei",
         "爆料",
         "自动抓取"
       ]

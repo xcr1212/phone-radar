@@ -1,14 +1,14 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-08-19T10:45:05.689Z",
+  "updatedAt": "2026-08-19T13:07:21.269Z",
   "issueDate": "2026-08-19",
   "issue": "VOL.260819",
   "title": "手机情报日报",
-  "intro": "今日筛出 8 条重点，其中 8 条是重点爆料，包含 3 条 iPhone 相关、0 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 9 条重点，其中 8 条是重点爆料，包含 4 条 iPhone 相关、1 条官方确认、0 条参数线索。",
   "stats": {
-    "total": 8,
-    "iphone": 3,
+    "total": 9,
+    "iphone": 4,
     "leaks": 8,
-    "official": 0,
+    "official": 1,
     "specs": 0
   },
   "sections": [
@@ -111,31 +111,6 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
-          "id": "auto-073ea2cf7655",
-          "title": "消息称 OPPO 阔直板新机有望归属旗舰产品线：目前评估 200Mp 大底影像方案，定义很顶级",
-          "originalTitle": "",
-          "source": "IT之家",
-          "brand": "OPPO",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-08-19",
-          "time": "08:00",
-          "publishedAt": "2026-08-19T08:00:27.000Z",
-          "url": "https://www.ithome.com/0/991/680.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/8/fbeef846-3e4c-4e06-a6e5-c563e893e7f1.png?x-bce-process=image/format,f_auto",
-          "verdict": "先看",
-          "takeaway": "IT之家 8 月 19 日消息，博主 @数码闲聊站 今日发文爆料，OPPO 阔直板新机“大概率”归属旗舰产品线。博主透露， 该机目前评估 200Mp 大底影像，有潜望长焦，定义很顶级 。 有网友询问该机进展顺利的话能否跟超大杯机型一起发布，博主称， 目前排期就是和超大杯一起 。 据IT之家此前报道，该博主曾爆料 OPPO 旗下 6.3-6.4 英寸阔直屏新…",
-          "detail": "IT之家 8 月 19 日消息，博主 @数码闲聊站 今日发文爆料，OPPO 阔直板新机“大概率”归属旗舰产品线。博主透露， 该机目前评估 200Mp 大底影像，有潜望长焦，定义很顶级 。 有网友询问该机进展顺利的话能否跟超大杯机型一起发布，博主称， 目前排期就是和超大杯一起 。 据IT之家此前报道，该博主曾爆料 OPPO 旗下 6.3-6.4 英寸阔直屏新…",
-          "keyPoints": [
-            "影像硬件",
-            "屏幕形态",
-            "爆料来源"
-          ],
-          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
           "id": "weibo-85a14e2c9790",
           "title": "数码闲聊站：小米18 Pro系列新机疑入网，各种备案已齐全，大概率首发骁龙2nm旗舰芯，支…",
           "originalTitle": "",
@@ -206,6 +181,60 @@ window.phoneRadarDaily = {
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "weibo-6c3dbad0287f",
+          "title": "数码闲聊站：iQOO Neo11至尊版，这首发价格可还行？ 12GB+256GB——339…",
+          "originalTitle": "",
+          "source": "数码闲聊站",
+          "brand": "vivo",
+          "type": "爆料",
+          "trust": "高关注爆料源",
+          "date": "2026-08-18",
+          "time": "12:00",
+          "publishedAt": "2026-08-18T12:00:07.000Z",
+          "url": "https://weibo.com/6048569942/RdZIxs818",
+          "image": "",
+          "verdict": "先看",
+          "takeaway": "iQOO Neo11至尊版，这首发价格可还行？ 12GB+256GB——3399元/原价3699 16GB+256GB——3799元/原价4099 12GB+512GB——3999元/原价4299 16GB+512GB——4399元/原价4699",
+          "detail": "iQOO Neo11至尊版，这首发价格可还行？ 12GB+256GB——3399元/原价3699 16GB+256GB——3799元/原价4099 12GB+512GB——3999元/原价4299 16GB+512GB——4399元/原价4699",
+          "keyPoints": [
+            "成本 / 价格",
+            "爆料来源"
+          ],
+          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        }
+      ]
+    },
+    {
+      "id": "iphone",
+      "title": "iPhone 重点",
+      "hint": "不是硬件爆料，但和 iPhone 体验或路线有关。",
+      "items": [
+        {
+          "id": "auto-9bbf43c61c96",
+          "title": "iPhone 系统功能 / AI 体验相关消息",
+          "originalTitle": "",
+          "source": "Apple Newsroom",
+          "brand": "iPhone",
+          "type": "官方",
+          "trust": "官方确认",
+          "date": "2026-08-19",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://www.apple.com/newsroom/2026/06/apple-announces-changes-to-ios-in-brazil/",
+          "image": "",
+          "verdict": "先看",
+          "takeaway": "iPhone 系统功能 / AI 体验相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
+          "detail": "iPhone 系统功能 / AI 体验相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
+          "keyPoints": [
+            "官方"
+          ],
+          "confidence": "官方内容，可直接作为已确认信息记录。",
+          "impact": "可信度高，但如果不是配置/价格消息，只需要扫一眼。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         }
       ]
     }
