@@ -1,6 +1,186 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-08-19T22:40:04.874Z",
+  "updatedAt": "2026-08-20T01:50:29.309Z",
   "news": [
+    {
+      "id": "coolapk-user-09a3278e6ea6",
+      "title": "竹本青：【姜超确认红魔12 Pro系列手机正常迭代】 8月20日资讯，红魔高管姜超昨日在回复网友提问时确认，红魔12 Pr…",
+      "source": "竹本青",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-08-20",
+      "time": "01:19",
+      "publishedAt": "2026-08-20T01:19:11.000Z",
+      "url": "https://www.coolapk.com/feed/73334949",
+      "image": "http://image.coolapk.com/feed/2026/0820/09/4248714_4fca6eec_8750_0924_978@2916x2843.jpg",
+      "summary": "【姜超确认红魔12 Pro系列手机正常迭代】 8月20日资讯，红魔高管姜超昨日在回复网友提问时确认，红魔12 Pro系列手机将正常迭代。至于目前暂无相关爆料信息，他解释称，产品还没有到预热时间。 作为参考，红魔11 Pro系列于去年10月发布，Pro售价4999元起；Pro+售价5699元起。 #今日热点# #红魔11Pro# #红魔11PRO+#",
+      "tags": [
+        "行业",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-9bbf43c61c96",
+      "title": "Apple announces changes to iOS in Brazil",
+      "source": "Apple Newsroom",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "官方",
+      "trust": "官方确认",
+      "date": "2026-08-20",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.apple.com/newsroom/2026/06/apple-announces-changes-to-ios-in-brazil/",
+      "image": "",
+      "summary": "Apple today announced changes impacting iOS apps in Brazil that reflect a recent agreement with Brazil’s competition regulator, CADE.",
+      "tags": [
+        "iPhone",
+        "官方",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "newsnow-15f271d244c3",
+      "title": "把「闪念胶囊」（Almost）放到 iPhone 锁屏",
+      "source": "少数派热榜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-08-20",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://sspai.com/post/113219",
+      "image": "",
+      "summary": "把「闪念胶囊」（Almost）放到 iPhone 锁屏",
+      "tags": [
+        "iPhone",
+        "评测",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-e215e8cb25f9",
+      "title": "我，与「唯一」的 iPhone Air",
+      "source": "少数派热榜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-08-20",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://sspai.com/post/112880",
+      "image": "",
+      "summary": "我，与「唯一」的 iPhone Air",
+      "tags": [
+        "iPhone",
+        "评测",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-17e9afc5abb3",
+      "title": "遇见砍价的我就说便宜卖了 你骂他们他们不会难受 但是他们没捡到漏可能会真难受 兄弟们 评论区持续更新[受虐滑稽] #iPhone17ProMax# #红米k90promax# #REDMIK100ProMax#",
+      "source": "酷安热榜",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-08-20",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/73319686",
+      "image": "",
+      "summary": "遇见砍价的我就说便宜卖了 你骂他们他们不会难受 但是他们没捡到漏可能会真难受 兄弟们 评论区持续更新[受虐滑稽] #iPhone17ProMax# #红米k90promax# #REDMIK100ProMax#",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-0be1786288d3",
+      "title": "iQOO Neo11 至尊版发布：天玑9500M，首销3399元起",
+      "source": "酷安热榜",
+      "brand": "vivo",
+      "model": "vivo 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-08-20",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/73311738",
+      "image": "",
+      "summary": "iQOO Neo11 至尊版发布：天玑9500M，首销3399元起",
+      "tags": [
+        "vivo",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "auto-d2cad0b72f33",
+      "title": "三星宣布将于 8 月 27 日举办 Galaxy 发布会，有望推出 S26 FE",
+      "source": "IT之家",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-19",
+      "time": "23:14",
+      "publishedAt": "2026-08-19T23:14:48.000Z",
+      "url": "https://www.ithome.com/0/991/872.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/8/c9f9fa30-4bf1-498f-809c-4856475c41df.png",
+      "summary": "IT之家 8 月 20 日消息，三星官网今日发文称，Galaxy S26 系列凭借迄今为止力度最大的影像与人工智能创新树立了全新标杆，让用户日常拍摄、创作与互联变得更加轻松。三星电子将于 8 月 27 日举办“2026 年 8 月 Galaxy 发布会”，推出 Galaxy S26 系列全新机型。 据官方介绍，这款新品经过精心打造，面向注重核心体验的用户，…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-935f575ec5cc",
+      "title": "三星 Galaxy A58 和 Galaxy Xcover FR 手机踪迹曝光",
+      "source": "IT之家",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-19",
+      "time": "23:10",
+      "publishedAt": "2026-08-19T23:10:51.000Z",
+      "url": "https://www.ithome.com/0/991/870.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/8/ad3f4436-e58e-46d7-9556-10ea4dcd7b15.jpg?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 8 月 20 日消息，科技媒体 SamMobile 昨日（8 月 19 日）发布博文， 报道称在 GSMA IMEI 数据库中，发现了三星 Galaxy A58 以及 Galaxy Xcover FR 两款手机的踪迹。 上图为 Galaxy A57 手机 三星于 2026 年 3 月 25 日发布 Galaxy A57 手机，而作为继任机型，Ga…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-f9f28f9bcb59",
+      "title": "Google Pixel 11 gets dbrand’s full case lineup, including Tank for the first time [Gallery]",
+      "source": "9to5Google",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-19",
+      "time": "22:30",
+      "publishedAt": "2026-08-19T22:30:00.000Z",
+      "url": "https://9to5google.com/2026/08/19/google-pixel-11-dbrand-cases/",
+      "image": "",
+      "summary": "Best known for its skins, dbrand has been building some of the best cases in the game in recent years and, for the Pixel 11 series, you can get every option for your new phone. He…",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-b003ae2755ab",
       "title": "iPhone 18 Pro: Three new design updates are coming",
@@ -322,26 +502,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "coolapk-user-c8845f1e25e8",
-      "title": "竹本青：【天马天工屏2.0官宣：全新光谱材料，8月26日发布】 天马今天官宣，将在8月26日发布全新天工屏2.0。以“原色…",
-      "source": "竹本青",
-      "brand": "OPPO",
-      "model": "OPPO 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-08-19",
-      "time": "13:13",
-      "publishedAt": "2026-08-19T13:13:19.000Z",
-      "url": "https://www.coolapk.com/feed/73329394",
-      "image": "http://image.coolapk.com/feed/2026/0819/21/4248714_0bb25868_5716_3713_335@673x315.jpg",
-      "summary": "【天马天工屏2.0官宣：全新光谱材料，8月26日发布】 天马今天官宣，将在8月26日发布全新天工屏2.0。以“原色好光”全新光谱材料实现全场景护眼、臻视界通透的全方位升级。 天工屏场景化标签：1nit暗光显示；3840Hz超高频PWM调光；硬件级低蓝光；8000nits高亮可视。 今年上半年，天马发布新一代天工屏U9 Pro基材，并由OPPO Find X…",
-      "tags": [
-        "OPPO",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
       "id": "auto-8ff6717618a0",
       "title": "Galaxy S26 Ultra is now available at its lowest-ever price in India",
       "source": "SamMobile",
@@ -397,26 +557,6 @@ window.phoneRadarAuto = {
       "summary": "Huawei has started rolling out the EMUI August 2026 update for the flagship Pura phones. The new firmware ensures that the device remains stable and continues to work efficiently…",
       "tags": [
         "Huawei",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-a8927300d92d",
-      "title": "荣耀 MagicOS 11 官宣支持「存储空间优化技术 2.0」，升级后手机能增加更多可用空间",
-      "source": "IT之家",
-      "brand": "HONOR",
-      "model": "HONOR 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-19",
-      "time": "10:41",
-      "publishedAt": "2026-08-19T10:41:38.000Z",
-      "url": "https://www.ithome.com/0/991/789.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/8/bfef7c31-a124-4f79-ab7d-6c8664fff6cb.jpg",
-      "summary": "IT之家 8 月 19 日消息，荣耀产品维护与升级 @荣耀小芳哥 今日发文，称为了让老手机能使用更久，荣耀在 MagicOS 11 上带来了「存储空间优化技术 2.0」， 升级后手机能增加更多可用空间 。 荣耀产品维护与升级 @荣耀小芳哥 表示， 去年 MagicOS 10 升级后最高能省出 50G 以上存储空间 ，今年 MagicOS11 内部测试效果优…",
-      "tags": [
-        "HONOR",
         "爆料",
         "自动抓取"
       ]
@@ -679,446 +819,6 @@ window.phoneRadarAuto = {
         "Xiaomi",
         "爆料",
         "微博"
-      ]
-    },
-    {
-      "id": "auto-9bbf43c61c96",
-      "title": "Apple announces changes to iOS in Brazil",
-      "source": "Apple Newsroom",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "官方",
-      "trust": "官方确认",
-      "date": "2026-08-19",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.apple.com/newsroom/2026/06/apple-announces-changes-to-ios-in-brazil/",
-      "image": "",
-      "summary": "Apple today announced changes impacting iOS apps in Brazil that reflect a recent agreement with Brazil’s competition regulator, CADE.",
-      "tags": [
-        "iPhone",
-        "官方",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "newsnow-74a1f93481b6",
-      "title": "把「闪念胶囊」（Almost）放到 iPhone 锁屏",
-      "source": "少数派热榜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "评测",
-      "trust": "媒体汇总",
-      "date": "2026-08-19",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://sspai.com/post/113219",
-      "image": "",
-      "summary": "把「闪念胶囊」（Almost）放到 iPhone 锁屏",
-      "tags": [
-        "iPhone",
-        "评测",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-e78b36a9a093",
-      "title": "我，与「唯一」的 iPhone Air",
-      "source": "少数派热榜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "评测",
-      "trust": "媒体汇总",
-      "date": "2026-08-19",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://sspai.com/post/112880",
-      "image": "",
-      "summary": "我，与「唯一」的 iPhone Air",
-      "tags": [
-        "iPhone",
-        "评测",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-a4fde0a91b7c",
-      "title": "iQOO Neo11 至尊版发布：天玑9500M，首销3399元起",
-      "source": "酷安热榜",
-      "brand": "vivo",
-      "model": "vivo 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-08-19",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73311738",
-      "image": "",
-      "summary": "iQOO Neo11 至尊版发布：天玑9500M，首销3399元起",
-      "tags": [
-        "vivo",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-dc5bd0f85e4d",
-      "title": "2020 年，回头看仍是机圈极具魔幻现实主义色彩的一年。厂商大喊 “5G 元年”，对换机用户而言却是 “涨价元年”—— 旗舰机型仿佛统一了口径，集体上调八百至一千的价格，携手迈入3999的时代。",
-      "source": "酷安热榜",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-08-19",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/70266966",
-      "image": "",
-      "summary": "2020 年，回头看仍是机圈极具魔幻现实主义色彩的一年。厂商大喊 “5G 元年”，对换机用户而言却是 “涨价元年”—— 旗舰机型仿佛统一了口径，集体上调八百至一千的价格，携手迈入3999的时代。",
-      "tags": [
-        "行业",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "auto-d8199872a8ff",
-      "title": "Apple's iPhone 18 Release Schedule: What's Coming and When",
-      "source": "MacRumors",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-18",
-      "time": "22:58",
-      "publishedAt": "2026-08-18T22:58:50.000Z",
-      "url": "https://www.macrumors.com/guide/iphone-18-release-schedule/",
-      "image": "https://images.macrumors.com/article-new/2026/04/Four-iPhone-18-Pro-Colors-Mock-Feature.jpg",
-      "summary": "Since 2019, Apple has released a more affordable standard iPhone and a higher-end \"Pro\" variant, giving customers multiple flagship iPhones to choose from. Apple is deviating from…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-79c1fa7803f3",
-      "title": "Massive Galaxy S26 FE leak reveals almost everything ahead of launch",
-      "source": "Android Central",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "评测",
-      "trust": "媒体汇总",
-      "date": "2026-08-18",
-      "time": "21:22",
-      "publishedAt": "2026-08-18T21:22:55.000Z",
-      "url": "https://www.androidcentral.com/phones/samsung-galaxy/galaxy-s26-fe-just-got-its-biggest-leak-ahead-of-the-launch",
-      "image": "https://cdn.mos.cms.futurecdn.net/7tF3GgW37VhPfKZNvsHHSF-1280-80.jpg",
-      "summary": "Twenty-eight marketing images have leaked for the Galaxy S26 FE, revealing design, specs, colors, and software features in full.",
-      "tags": [
-        "Samsung",
-        "评测",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-2e770fcc9701",
-      "title": "The Sideload 041: A vision of Pixels to come",
-      "source": "9to5Google",
-      "brand": "Pixel",
-      "model": "Pixel 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-18",
-      "time": "20:30",
-      "publishedAt": "2026-08-18T20:30:00.000Z",
-      "url": "https://9to5google.com/2026/08/18/the-sideload-041-a-vision-of-pixels-to-come/",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2025/08/sideload-podcast-wider-copy-1.jpg?quality=82&strip=all&w=1600",
-      "summary": "Welcome to episode 41 of The Sideload, a 9to5Google podcast. This week, Ben Schoon joins Will to discuss the future of Pixel, as Google’s Pixel 11 attempts to bridge the gap betwe…",
-      "tags": [
-        "Pixel",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-188c99c49dbf",
-      "title": "You can get an unlocked Google Pixel 11 for as little as $99 at Best Buy (sort of) — here's how",
-      "source": "Android Central",
-      "brand": "Pixel",
-      "model": "Pixel 相关机型",
-      "type": "评测",
-      "trust": "媒体汇总",
-      "date": "2026-08-18",
-      "time": "17:17",
-      "publishedAt": "2026-08-18T17:17:19.000Z",
-      "url": "https://www.androidcentral.com/phones/google-pixel/you-can-get-an-unlocked-google-pixel-11-for-as-little-as-usd99-at-best-buy-sort-of-heres-how",
-      "image": "https://cdn.mos.cms.futurecdn.net/TGd8cqfUVmamDmwHN4Xph-1280-80.jpg",
-      "summary": "Best Buy is offering up to $700 off the base model Google Pixel 11 when you trade in an old or broken phone. You'll also get a gift card!",
-      "tags": [
-        "Pixel",
-        "评测",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-6825a4c028dc",
-      "title": "Leak suggests the Galaxy S26 FE’s hardware may not please everybody",
-      "source": "Android Authority",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-18",
-      "time": "16:58",
-      "publishedAt": "2026-08-18T16:58:55.000Z",
-      "url": "https://www.androidauthority.com/samsung-galaxy-s26-fe-design-specs-features-leak-3699924/",
-      "image": "https://www.androidauthority.com/wp-content/uploads/2025/09/Samsung-Galaxy-S25-FE-in-all-four-colors-fanned-out-in-mans-hand.jpg",
-      "summary": "The Galaxy S26 FE may be a couple of weeks away from launch, but an extensive leak has spared no detail.",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-ca6dfce9052f",
-      "title": "Redmi M100 launches with 7900mAh battery, Snapdragon 4 Gen 5 mobile platform",
-      "source": "Gizmochina",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-18",
-      "time": "14:47",
-      "publishedAt": "2026-08-18T14:47:22.000Z",
-      "url": "https://www.gizmochina.com/2026/08/18/redmi-m100-launches-with-7900mah-battery-snapdragon-4-gen-5-mobile-platform/",
-      "image": "https://www.gizmochina.com/wp-content/uploads/2026/08/Redmi-M100-Launch-Specs-Price-300x200.jpg?x23692",
-      "summary": "Redmi is launching a brand-new smartphone series with the Redmi M100. The phone debuted in China without fanfare and is already on sale locally. Also ReadThe Best Phones with 8000…",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-22ee413629c1",
-      "title": "iQOO Z11S debuts with 10,000mAh battery, 6.83-inch 144Hz AMOLED display, Dimensity 7500 chipset",
-      "source": "Gizmochina",
-      "brand": "vivo",
-      "model": "vivo 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-18",
-      "time": "14:37",
-      "publishedAt": "2026-08-18T14:37:39.000Z",
-      "url": "https://www.gizmochina.com/2026/08/18/iqoo-z11s-debuts-as-brands-first-phone-with-10000mah-battery/",
-      "image": "https://www.gizmochina.com/wp-content/uploads/2026/08/iQOO-Z11S-back-300x169.jpg?x23692",
-      "summary": "iQOO just dropped a new mid-range phone that’s all about one thing: lasting forever. The Z11S is the company’s first phone with a massive 10,000mAh battery. The company worked wit…",
-      "tags": [
-        "vivo",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "weibo-6c3dbad0287f",
-      "title": "数码闲聊站：iQOO Neo11至尊版，这首发价格可还行？ 12GB+256GB——339…",
-      "source": "数码闲聊站",
-      "brand": "vivo",
-      "model": "vivo 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-08-18",
-      "time": "12:00",
-      "publishedAt": "2026-08-18T12:00:07.000Z",
-      "url": "https://weibo.com/6048569942/RdZIxs818",
-      "image": "",
-      "summary": "iQOO Neo11至尊版，这首发价格可还行？ 12GB+256GB——3399元/原价3699 16GB+256GB——3799元/原价4099 12GB+512GB——3999元/原价4299 16GB+512GB——4399元/原价4699",
-      "tags": [
-        "vivo",
-        "爆料",
-        "微博"
-      ]
-    },
-    {
-      "id": "coolapk-user-3c96fc0cb75a",
-      "title": "JSCHEN小小狐：『iQOO Neo11 至尊版发布：首销 3399 元起』 12GB + 256GB —— 3399 元（原价 3…",
-      "source": "JSCHEN小小狐",
-      "brand": "vivo",
-      "model": "vivo 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-08-18",
-      "time": "11:56",
-      "publishedAt": "2026-08-18T11:56:24.000Z",
-      "url": "https://www.coolapk.com/feed/73312022",
-      "image": "http://image.coolapk.com/feed/2026/0818/20/4702274_09fd0293_4463_6074_753@2160x2432.jpg",
-      "summary": "『iQOO Neo11 至尊版发布：首销 3399 元起』 12GB + 256GB —— 3399 元（原价 3699） 16GB + 256GB —— 3799 元（原价 4099） 12GB + 512GB —— 3999 元（原价 4299） 16GB + 512GB —— 4399 元（原价 4699） ◇ 外观 乘风、驰光白、疾影黑（玻纤） 金…",
-      "tags": [
-        "vivo",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
-      "id": "coolapk-user-87641f5dc341",
-      "title": "JSCHEN小小狐：『iQOO Z11S 正式发布：首销售价 1799 元起』 8GB + 128GB —— 1799 元（原价 19…",
-      "source": "JSCHEN小小狐",
-      "brand": "vivo",
-      "model": "vivo 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-08-18",
-      "time": "11:55",
-      "publishedAt": "2026-08-18T11:55:12.000Z",
-      "url": "https://www.coolapk.com/feed/73312008",
-      "image": "http://image.coolapk.com/feed/2026/0818/20/4702274_dce15456_4447_3151_428@2160x2432.jpg",
-      "summary": "『iQOO Z11S 正式发布：首销售价 1799 元起』 8GB + 128GB —— 1799 元（原价 1999） 8GB + 256GB —— 1999 元（原价 2199） 12GB + 256GB —— 2299 元（原价 2499） 12GB + 512GB —— 2699 元（原价 2899） ◇ 外观 万里浮光、雪屿白、墨岩黑 塑胶边框…",
-      "tags": [
-        "vivo",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
-      "id": "auto-5ff91a9f217a",
-      "title": "Two camera features may be unique to the iPhone 18 Pro Max, suggests leaker",
-      "source": "9to5Mac",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-18",
-      "time": "11:04",
-      "publishedAt": "2026-08-18T11:04:52.000Z",
-      "url": "https://9to5mac.com/2026/08/18/two-camera-features-may-be-unique-to-the-iphone-18-pro-max-suggests-leaker/",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/iphone-18-pro-pro-max-mockup-di.jpg?quality=82&strip=all&w=1600",
-      "summary": "Whether or not you need to buy Apple’s largest iPhone Pro in order to get the best camera features has varied by generation. So far, reporting has mostly suggested that there will…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-dec6a9df44fe",
-      "title": "Realme 17 Pro+ leaks resurface with 200MP triple cameras and 1.5K display",
-      "source": "Gizmochina",
-      "brand": "OPPO",
-      "model": "OPPO 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-18",
-      "time": "10:37",
-      "publishedAt": "2026-08-18T10:37:21.000Z",
-      "url": "https://www.gizmochina.com/2026/08/18/realme-17-pro-plus-leak-resurface/",
-      "image": "https://www.gizmochina.com/wp-content/uploads/2026/01/Realme-16-Pro-300x174.png?x23692",
-      "summary": "There have been some internal restructuring changes within the Oppo group, which oversees both OnePlus and Realme. As part of the changes, OnePlus will remain active in China and…",
-      "tags": [
-        "OPPO",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "coolapk-user-78fbcd317c42",
-      "title": "JSCHEN小小狐：REDMI M100 上架：骁龙 4 Gen5 / 1799 元起",
-      "source": "JSCHEN小小狐",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-08-18",
-      "time": "10:11",
-      "publishedAt": "2026-08-18T10:11:15.000Z",
-      "url": "https://www.coolapk.com/feed/73310344",
-      "image": "http://image.coolapk.com/feed/2026/0818/18/4702274_a824cc73_7871_3301_397@1080x1188.jpg",
-      "summary": "『REDMI M100 上架：骁龙 4 Gen5 / 1799 起』 8GB + 128GB —— 1799 元 6GB + 256GB —— 1999 元 8GB + 256GB —— 2199 元 ◇ 外观 星雨白、旷野绿、皓夜黑 塑胶边框 + 复合板材后盖 170.12×78.42×8.8mm，232 克 RGB 动态灯效，金属相机 Deco ◇ 性…",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
-      "id": "weibo-1dba92dd299e",
-      "title": "数码闲聊站：草，摸到真真下一台新机了，6.78\"1.5K超高刷直屏，200Mp大底主摄+8…",
-      "source": "数码闲聊站",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-08-18",
-      "time": "09:42",
-      "publishedAt": "2026-08-18T09:42:00.000Z",
-      "url": "https://weibo.com/6048569942/RdYOtFbQ2",
-      "image": "",
-      "summary": "草，摸到真真下一台新机了，6.78\"1.5K超高刷直屏，200Mp大底主摄+8Mp超广角+50Mp潜望镜，应该是数字系列，海外限定……聚焦中低端了[捂嘴哭]",
-      "tags": [
-        "行业",
-        "爆料",
-        "微博"
-      ]
-    },
-    {
-      "id": "auto-72f10f30e157",
-      "title": "If I’m spending $2,000 on a foldable, I’m skipping the Pixel 11 Pro Fold for Samsung",
-      "source": "Android Authority",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-18",
-      "time": "09:00",
-      "publishedAt": "2026-08-18T09:00:04.000Z",
-      "url": "https://www.androidauthority.com/pixel-11-pro-fold-vs-galaxy-z-fold-8-ultra-3698287/",
-      "image": "",
-      "summary": "Google and Samsung have very different foldable visions.",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "coolapk-user-6ea98bdd5406",
-      "title": "JSCHEN小小狐：华为 Mate90 Pro Max 曝光：新一代满血芯片",
-      "source": "JSCHEN小小狐",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-08-18",
-      "time": "04:35",
-      "publishedAt": "2026-08-18T04:35:35.000Z",
-      "url": "https://www.coolapk.com/feed/73305085",
-      "image": "http://image.coolapk.com/feed/2026/0818/12/4702274_5aaa0639_7733_6073_353@1440x760.jpg",
-      "summary": "『华为 Mate90 Pro Max 曝光：新一代满血芯片』 ◇ 新一代满血芯片（预计为麒麟 9050 Pro） ◇ 6.9 英寸 1.5K LTPO 双层 OLED 直屏 ◇ 屏幕支持 BT.2020 超广色域 ◇ 约 6800～7000mAh 电池 两版长焦方案： ① 50Mp + 50Mp 双潜望方案（RS 测试 10X） ② 200Mp 1/1.2…",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
-      "id": "coolapk-user-23ae03ed63d7",
-      "title": "JSCHEN小小狐：vivo X500 Ultra 主摄曝光：定制 1/1.12'' HPU",
-      "source": "JSCHEN小小狐",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-08-18",
-      "time": "03:27",
-      "publishedAt": "2026-08-18T03:27:56.000Z",
-      "url": "https://www.coolapk.com/feed/73304076",
-      "image": "http://image.coolapk.com/feed/2026/0818/11/4702274_68fa5fab_3675_3592_556@1440x511.jpg",
-      "summary": "『vivo X500 Ultra 主摄曝光：定制 1/1.12'' HPU』 三星 HPU： ◇ 200Mp 1/1.12'' LOFIC 规格 ◇ 基于 HPA 的定制 Sensor ◇ 预计由 X500 Ultra 搭载 #今日热点# #vivoX500# #vivoX500Ultra#",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "酷安博主"
       ]
     }
   ]
