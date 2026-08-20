@@ -1,6 +1,26 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-08-20T18:58:08.587Z",
+  "updatedAt": "2026-08-20T20:45:28.812Z",
   "news": [
+    {
+      "id": "auto-09662bf9ca9c",
+      "title": "Here are some more Galaxy S26 FE leaked renders, because why not",
+      "source": "SamMobile",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-20",
+      "time": "19:58",
+      "publishedAt": "2026-08-20T19:58:58.000Z",
+      "url": "https://www.sammobile.com/news/here-are-some-more-galaxy-s26-fe-leaked-renders-because-why-not/",
+      "image": "https://www.sammobile.com/wp-content/uploads/2026/08/leaked-Galaxy-S26-FE-1.jpeg",
+      "summary": "The Galaxy S26 FE has already been comprehensively leaked and even though the device is expected to be unveiled in the near future, the leaks are still coming in. Several more pre…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-fd52485ddad1",
       "title": "Google’s got some new Pixel 11 videos for the big release day",
@@ -182,26 +202,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-94db88e550ac",
-      "title": "I now understand why Google's keeping Pixel 11's best features locked away from older phones",
-      "source": "Android Police",
-      "brand": "Pixel",
-      "model": "Pixel 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-20",
-      "time": "16:15",
-      "publishedAt": "2026-08-20T16:15:10.000Z",
-      "url": "https://www.androidpolice.com/i-understand-why-googles-keeping-pixel-11-best-features-locked-away-older-phones/",
-      "image": "",
-      "summary": "Some Pixel 11 exclusives make sense; others don't",
-      "tags": [
-        "Pixel",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-6189c0f4c93f",
       "title": "Someone already figured out how to fully control Pixel 11 Pro’s ‘HiLight’ and make it useful [Gallery]",
       "source": "9to5Google",
@@ -303,7 +303,7 @@ window.phoneRadarAuto = {
     },
     {
       "id": "auto-5243cc284824",
-      "title": "iPhone 18 Pro: Pre-Orders and Release Date?",
+      "title": "iPhone 18 Pro: Pre-Orders and Release Date",
       "source": "MacRumors",
       "brand": "iPhone",
       "model": "iPhone 相关机型",
@@ -1242,26 +1242,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-4d5241114cb7",
-      "title": "华为阔直板新机Pura X View 曝光：6.39'' 天马屏",
-      "source": "酷安热榜",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-08-20",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73340633",
-      "image": "",
-      "summary": "华为阔直板新机Pura X View 曝光：6.39'' 天马屏",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
       "id": "newsnow-b514e367258b",
       "title": "华为 Pura X View 上架官方商城",
       "source": "酷安热榜",
@@ -1282,28 +1262,8 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-afcb4b6bd1ba",
-      "title": "OPPO发布新一代屏幕双产线技术：Find X10 系列首发搭载",
-      "source": "酷安热榜",
-      "brand": "OPPO",
-      "model": "OPPO 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-08-20",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73335539",
-      "image": "",
-      "summary": "OPPO发布新一代屏幕双产线技术：Find X10 系列首发搭载",
-      "tags": [
-        "OPPO",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-972e1605b492",
-      "title": "【全球首款阔直板手机正式亮相：华为Pura X View】",
+      "id": "newsnow-4d5241114cb7",
+      "title": "华为阔直板新机Pura X View 曝光：6.39'' 天马屏",
       "source": "酷安热榜",
       "brand": "Huawei",
       "model": "Huawei 相关机型",
@@ -1312,9 +1272,9 @@ window.phoneRadarAuto = {
       "date": "2026-08-20",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73340964",
+      "url": "https://www.coolapk.com/feed/73340633",
       "image": "",
-      "summary": "【全球首款阔直板手机正式亮相：华为Pura X View】",
+      "summary": "华为阔直板新机Pura X View 曝光：6.39'' 天马屏",
       "tags": [
         "Huawei",
         "爆料",
@@ -1322,7 +1282,87 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-4724205a8363",
+      "id": "newsnow-8517323d8ccd",
+      "title": "阔直板机最快8.28可体验，屏幕如果是天马，芯片是9030S的话还是算了吧[流泪]#华为Mate90ProMax# #鸿蒙7# #华为Mate80ProMax#",
+      "source": "酷安热榜",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-08-20",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/73341160",
+      "image": "",
+      "summary": "阔直板机最快8.28可体验，屏幕如果是天马，芯片是9030S的话还是算了吧[流泪]#华为Mate90ProMax# #鸿蒙7# #华为Mate80ProMax#",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-79d9590d65de",
+      "title": "真的吗？这手机原本定位是nova，然后因为存储飙升，然后把定位提档了。这样可以卖更高的价格。 如果是，那真的是生不逢时[笑哭]还有发现都是12g的，这不就代表本来就是nova系列的？#数码日常# #华为Mate80ProMax# #鸿蒙7#",
+      "source": "酷安热榜",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-08-20",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/73347078",
+      "image": "",
+      "summary": "真的吗？这手机原本定位是nova，然后因为存储飙升，然后把定位提档了。这样可以卖更高的价格。 如果是，那真的是生不逢时[笑哭]还有发现都是12g的，这不就代表本来就是nova系列的？#数码日常# #华为Mate80ProMax# #鸿蒙7#",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-eae84ce0a4dc",
+      "title": "澎湃4功耗发热流畅度确实站起来了，尤其手机发热后的流畅度和澎湃3相比有质变",
+      "source": "酷安热榜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-08-20",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/73348318",
+      "image": "",
+      "summary": "澎湃4功耗发热流畅度确实站起来了，尤其手机发热后的流畅度和澎湃3相比有质变",
+      "tags": [
+        "行业",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-65e71e1dbd8e",
+      "title": "其实阔屏这个项目我们在五六年前就已经有了。当时我们觉得技术不成熟，所以就没做。后来友商做了，我们把他们的不足都给完善了。所以直至今天我们才推出我们的阔屏机#华为Mate80ProMax# #鸿蒙7#",
+      "source": "酷安热榜",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-08-20",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/73348099",
+      "image": "",
+      "summary": "其实阔屏这个项目我们在五六年前就已经有了。当时我们觉得技术不成熟，所以就没做。后来友商做了，我们把他们的不足都给完善了。所以直至今天我们才推出我们的阔屏机#华为Mate80ProMax# #鸿蒙7#",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-af9a90850afc",
       "title": "华为PuraXView",
       "source": "微博热搜",
       "brand": "Huawei",
@@ -1332,7 +1372,7 @@ window.phoneRadarAuto = {
       "date": "2026-08-20",
       "time": "",
       "publishedAt": "",
-      "url": "https://s.weibo.com/weibo?q=%E5%8D%8E%E4%B8%BAPuraXView&t=31&band_rank=28&Refer=top",
+      "url": "https://s.weibo.com/weibo?q=%E5%8D%8E%E4%B8%BAPuraXView&t=31&band_rank=29&Refer=top",
       "image": "",
       "summary": "华为PuraXView",
       "tags": [
