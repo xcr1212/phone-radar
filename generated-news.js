@@ -1,6 +1,66 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-08-20T20:45:28.812Z",
+  "updatedAt": "2026-08-20T22:44:07.776Z",
   "news": [
+    {
+      "id": "auto-ef2876880d73",
+      "title": "The Galaxy S26 Ultra’s red screen fix saga is finally (almost) over",
+      "source": "Android Authority",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-20",
+      "time": "21:56",
+      "publishedAt": "2026-08-20T21:56:22.000Z",
+      "url": "https://www.androidauthority.com/galaxy-s26-red-screen-update-3701277/",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2026/03/Samsung-Galaxy-S26-Ultra-s-pen-and-ports.jpg",
+      "summary": "What's the point of a software fix if you need to travel to a service center to get it?",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-6063bf17403f",
+      "title": "This Galaxy S26 FE leak just exposed the full color palette",
+      "source": "Android Authority",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-20",
+      "time": "21:13",
+      "publishedAt": "2026-08-20T21:13:40.000Z",
+      "url": "https://www.androidauthority.com/galaxy-s26-fe-colors-and-angles-3701295/",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2025/09/Samsung-Galaxy-S25-FE-in-Navy-with-a-focus-on-the-three-rear-camera-lenses.jpg",
+      "summary": "The Galaxy S26 FE just got completely exposed by this leak.",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-b60cdfd5dfe0",
+      "title": "WhatsApp is working on even more Liquid Glass interface changes on iOS",
+      "source": "9to5Mac",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-20",
+      "time": "20:55",
+      "publishedAt": "2026-08-20T20:55:53.000Z",
+      "url": "https://9to5mac.com/2026/08/20/whatsapp-is-working-on-even-more-liquid-glass-interface-changes-on-ios/",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/08/whatsapp-glass.jpg?quality=82&strip=all&w=1600",
+      "summary": "Following the initial rollout of Liquid Glass on iOS earlier this year, WhatsApp is now working to bring the design to more interface elements. Here are the details.",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-09662bf9ca9c",
       "title": "Here are some more Galaxy S26 FE leaked renders, because why not",
@@ -17,6 +77,26 @@ window.phoneRadarAuto = {
       "summary": "The Galaxy S26 FE has already been comprehensively leaked and even though the device is expected to be unveiled in the near future, the leaks are still coming in. Several more pre…",
       "tags": [
         "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-4f0cfddfd3af",
+      "title": "Counterpoint 报告 2026Q2 拉美智能手机出货量：三星同比增 6%、摩托罗拉降 14%、小米降 27%、荣耀降 8%、苹果增 5%",
+      "source": "IT之家",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-20",
+      "time": "19:24",
+      "publishedAt": "2026-08-20T19:24:48.000Z",
+      "url": "https://www.ithome.com/0/992/413.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/8/5ee3ef8c-fe65-4978-be24-ee986c0bdffe.png?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 8 月 21 日消息，根据 Counterpoint Research 的最新市场监测报告， 2026 年第二季度拉丁美洲智能手机出货量同比下滑 10% ，主要受持续的内存短缺问题推动。 该季度出货量迎来 2023 年第三季度以来最大同比降幅，当时疫情后的经济衰退和高库存曾导致智能手机出货量出现两位数下滑。 下滑的主要原因是，2026 年第一季度…",
+      "tags": [
+        "HONOR",
         "爆料",
         "自动抓取"
       ]
@@ -1362,21 +1442,21 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-af9a90850afc",
-      "title": "华为PuraXView",
+      "id": "newsnow-34b22b30d6c2",
+      "title": "女生吵架扔礼物内含手机金项链",
       "source": "微博热搜",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
+      "brand": "行业",
+      "model": "智能手机市场",
       "type": "爆料",
       "trust": "待验证",
       "date": "2026-08-20",
       "time": "",
       "publishedAt": "",
-      "url": "https://s.weibo.com/weibo?q=%E5%8D%8E%E4%B8%BAPuraXView&t=31&band_rank=29&Refer=top",
+      "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%94%9F%E5%90%B5%E6%9E%B6%E6%89%94%E7%A4%BC%E7%89%A9%E5%86%85%E5%90%AB%E6%89%8B%E6%9C%BA%E9%87%91%E9%A1%B9%E9%93%BE%23&t=31&band_rank=27&Refer=top",
       "image": "",
-      "summary": "华为PuraXView",
+      "summary": "女生吵架扔礼物内含手机金项链",
       "tags": [
-        "Huawei",
+        "行业",
         "爆料",
         "NewsNow"
       ]
@@ -1442,26 +1522,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-6a73d81963cb",
-      "title": "华为发布阔直板手机",
-      "source": "抖音热点",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "待验证",
-      "date": "2026-08-20",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.douyin.com/hot/2617292",
-      "image": "",
-      "summary": "华为发布阔直板手机",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
       "id": "newsnow-7fd7cb8fdc15",
       "title": "华为阔直板手机首发开箱",
       "source": "抖音热点",
@@ -1475,6 +1535,26 @@ window.phoneRadarAuto = {
       "url": "https://www.douyin.com/hot/2617436",
       "image": "",
       "summary": "华为阔直板手机首发开箱",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-6a73d81963cb",
+      "title": "华为发布阔直板手机",
+      "source": "抖音热点",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "待验证",
+      "date": "2026-08-20",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.douyin.com/hot/2617292",
+      "image": "",
+      "summary": "华为发布阔直板手机",
       "tags": [
         "Huawei",
         "爆料",
