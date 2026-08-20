@@ -1,15 +1,15 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-08-20T08:55:51.821Z",
+  "updatedAt": "2026-08-20T10:46:00.858Z",
   "issueDate": "2026-08-20",
   "issue": "VOL.260820",
   "title": "手机情报日报",
-  "intro": "今日筛出 20 条重点，其中 8 条是重点爆料，包含 6 条 iPhone 相关、1 条官方确认、1 条参数线索。",
+  "intro": "今日筛出 15 条重点，其中 8 条是重点爆料，包含 4 条 iPhone 相关、1 条官方确认、0 条参数线索。",
   "stats": {
-    "total": 20,
-    "iphone": 6,
+    "total": 15,
+    "iphone": 4,
     "leaks": 8,
     "official": 1,
-    "specs": 1
+    "specs": 0
   },
   "sections": [
     {
@@ -65,6 +65,104 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
+          "id": "weibo-8512ec3dfff4",
+          "title": "数码闲聊站：Omdia调研数据，2026年折叠屏市场规模预计增长超22%，未来3年将实现翻…",
+          "originalTitle": "",
+          "source": "数码闲聊站",
+          "brand": "Xiaomi",
+          "type": "爆料",
+          "trust": "高关注爆料源",
+          "date": "2026-08-20",
+          "time": "10:22",
+          "publishedAt": "2026-08-20T10:22:00.000Z",
+          "url": "https://weibo.com/6048569942/RehVIa4Rn",
+          "image": "",
+          "verdict": "先看",
+          "takeaway": "Omdia调研数据，2026年折叠屏市场规模预计增长超22%，未来3年将实现翻倍。 阔折叠把整个品类都带到起飞，接下来小米和苹果的阔折叠新品也会陆续发布，新形态设计和产品定位都很接近，“新折叠元年”真的来了[笑而不语]",
+          "detail": "Omdia调研数据，2026年折叠屏市场规模预计增长超22%，未来3年将实现翻倍。 阔折叠把整个品类都带到起飞，接下来小米和苹果的阔折叠新品也会陆续发布，新形态设计和产品定位都很接近，“新折叠元年”真的来了[笑而不语]",
+          "keyPoints": [
+            "屏幕形态",
+            "爆料来源"
+          ],
+          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "weibo-a47516a31ec7",
+          "title": "数码闲聊站：全网首猜华为阔直板✓6.39英寸2232*1320p 1.5K 6500nit…",
+          "originalTitle": "",
+          "source": "数码闲聊站",
+          "brand": "Huawei",
+          "type": "爆料",
+          "trust": "高关注爆料源",
+          "date": "2026-08-20",
+          "time": "09:16",
+          "publishedAt": "2026-08-20T09:16:34.000Z",
+          "url": "https://weibo.com/6048569942/Rehv9gLoI",
+          "image": "https://tvax2.sinaimg.cn/mw2000/006BlblIgy1igadg9tz9gj30xv19dgxu.jpg",
+          "verdict": "先看",
+          "takeaway": "全网首猜华为阔直板✓6.39英寸2232*1320p 1.5K 6500nits小阔屏✓7000mAh大电池✓三摄长焦红枫影像✓6.68mm/201g 首发鸿蒙OS7 华为Pura X View猜得准不准，回答我？！[doge]",
+          "detail": "全网首猜华为阔直板✓6.39英寸2232*1320p 1.5K 6500nits小阔屏✓7000mAh大电池✓三摄长焦红枫影像✓6.68mm/201g 首发鸿蒙OS7 华为Pura X View猜得准不准，回答我？！[doge]",
+          "keyPoints": [
+            "影像硬件",
+            "电池 / 充电",
+            "爆料来源"
+          ],
+          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "weibo-25f46087b395",
+          "title": "数码闲聊站：华为Pura X View，阔直板新机，感受一下：",
+          "originalTitle": "",
+          "source": "数码闲聊站",
+          "brand": "Huawei",
+          "type": "爆料",
+          "trust": "高关注爆料源",
+          "date": "2026-08-20",
+          "time": "08:10",
+          "publishedAt": "2026-08-20T08:10:23.000Z",
+          "url": "https://weibo.com/6048569942/Reh4hCAYQ",
+          "image": "https://tvax1.sinaimg.cn/mw2000/006BlblIgy1igad2zvknxj33202a8e83.jpg",
+          "verdict": "先看",
+          "takeaway": "华为Pura X View，阔直板新机，感受一下：",
+          "detail": "华为Pura X View，阔直板新机，感受一下：",
+          "keyPoints": [
+            "爆料来源"
+          ],
+          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "weibo-3efbc442bce0",
+          "title": "数码闲聊站：Magic9系列主打超大底双2亿+阿莱影像 WIN2系列主打2K新直屏+超万级…",
+          "originalTitle": "",
+          "source": "数码闲聊站",
+          "brand": "HONOR",
+          "type": "爆料",
+          "trust": "高关注爆料源",
+          "date": "2026-08-20",
+          "time": "03:07",
+          "publishedAt": "2026-08-20T03:07:00.000Z",
+          "url": "https://weibo.com/6048569942/Ref593nsC",
+          "image": "",
+          "verdict": "先看",
+          "takeaway": "Magic9系列主打超大底双2亿+阿莱影像 WIN2系列主打2K新直屏+超万级大电池+风扇 700系列主打2亿影像+潮流新ID+中屏大电池 X/Power系列主打7英寸级超大屏+行业最大电池",
+          "detail": "Magic9系列主打超大底双2亿+阿莱影像 WIN2系列主打2K新直屏+超万级大电池+风扇 700系列主打2亿影像+潮流新ID+中屏大电池 X/Power系列主打7英寸级超大屏+行业最大电池",
+          "keyPoints": [
+            "影像硬件",
+            "屏幕形态",
+            "电池 / 充电",
+            "爆料来源"
+          ],
+          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
           "id": "newsnow-afcb4b6bd1ba",
           "title": "OPPO发布新一代屏幕双产线技术：Find X10 系列首发搭载",
           "originalTitle": "",
@@ -89,7 +187,7 @@ window.phoneRadarDaily = {
         },
         {
           "id": "coolapk-user-a4365d346d46",
-          "title": "JSCHEN小小狐：『消息称小米 18 Pro Max 落地 0916 系大马达』 知名数码博主 数码闲聊站 今日爆料称，小米 18…",
+          "title": "JSCHEN小小狐：消息称小米 18 Pro Max 落地 0916 系大马达",
           "originalTitle": "",
           "source": "JSCHEN小小狐",
           "brand": "Xiaomi",
@@ -101,105 +199,12 @@ window.phoneRadarDaily = {
           "url": "https://www.coolapk.com/feed/73341161",
           "image": "http://image.coolapk.com/feed/2026/0820/16/4702274_12d62d41_5344_4646_683@1440x323.jpg",
           "verdict": "先看",
-          "takeaway": "『消息称小米 18 Pro Max 落地 0916 系大马达』 知名数码博主 数码闲聊站 今日爆料称，小米 18 Pro Max 确认落地 0916 系超大 X 轴线性马达。 据悉，去年发布的小米 17 Pro Max 一度将马达由 15 Pro 的 0816 更换为 0809E。而在今年早先的爆料中，小米 18 Pro Max 曾传出正在评估对称式双扬声…",
-          "detail": "『消息称小米 18 Pro Max 落地 0916 系大马达』 知名数码博主 数码闲聊站 今日爆料称，小米 18 Pro Max 确认落地 0916 系超大 X 轴线性马达。 据悉，去年发布的小米 17 Pro Max 一度将马达由 15 Pro 的 0816 更换为 0809E。而在今年早先的爆料中，小米 18 Pro Max 曾传出正在评估对称式双扬声…",
+          "takeaway": "『消息称小米 18 Pro Max 落地 0916 系大马达』 知名数码博主 数码闲聊站 今日爆料称，小米 18 Pro Max 确认落地 0916 系超大 X 轴线性马达。 据悉，去年发布的小米 17 Pro Max 一度将马达由 15 Pro 的 0816 更换为 0809E。而今年早些时候的爆料中，小米 18 Pro Max 曾传出有评估对称式双扬声…",
+          "detail": "『消息称小米 18 Pro Max 落地 0916 系大马达』 知名数码博主 数码闲聊站 今日爆料称，小米 18 Pro Max 确认落地 0916 系超大 X 轴线性马达。 据悉，去年发布的小米 17 Pro Max 一度将马达由 15 Pro 的 0816 更换为 0809E。而今年早些时候的爆料中，小米 18 Pro Max 曾传出有评估对称式双扬声…",
           "keyPoints": [
             "爆料来源"
           ],
           "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "coolapk-user-4c85f00ca4f0",
-          "title": "JSCHEN小小狐：曝 OPPO 开案 68Mp 1:1 方形前摄：明年上市",
-          "originalTitle": "",
-          "source": "JSCHEN小小狐",
-          "brand": "Samsung",
-          "type": "爆料",
-          "trust": "高可信爆料",
-          "date": "2026-08-20",
-          "time": "08:14",
-          "publishedAt": "2026-08-20T08:14:41.000Z",
-          "url": "https://www.coolapk.com/feed/73340682",
-          "image": "http://image.coolapk.com/feed/2026/0820/16/4702274_759216f5_3680_8913_168@1440x425.jpg",
-          "verdict": "先看",
-          "takeaway": "『曝 OPPO 开案 68Mp 1:1 方形前摄：明年上市』 知名数码博主 数码闲聊站 今日爆料称，OPPO 近期开案了一颗 6800 万像素、 1:1 画幅的方形前摄 CMOS，或将搭载于明年的 Reno 系列新机。 据悉，此前 OPPO 已在 Find X10 系列新机上测试 1 亿像素方形前摄。该款 100Mp 1:1 画幅 CMOS 由三星供货，尺…",
-          "detail": "『曝 OPPO 开案 68Mp 1:1 方形前摄：明年上市』 知名数码博主 数码闲聊站 今日爆料称，OPPO 近期开案了一颗 6800 万像素、 1:1 画幅的方形前摄 CMOS，或将搭载于明年的 Reno 系列新机。 据悉，此前 OPPO 已在 Find X10 系列新机上测试 1 亿像素方形前摄。该款 100Mp 1:1 画幅 CMOS 由三星供货，尺…",
-          "keyPoints": [
-            "爆料来源"
-          ],
-          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "coolapk-user-48c8a8a9628a",
-          "title": "竹本青：OriginOS 7 官方爆料：全新锁屏主题",
-          "originalTitle": "",
-          "source": "竹本青",
-          "brand": "vivo",
-          "type": "爆料",
-          "trust": "高可信爆料",
-          "date": "2026-08-20",
-          "time": "07:27",
-          "publishedAt": "2026-08-20T07:27:58.000Z",
-          "url": "https://www.coolapk.com/feed/73339973",
-          "image": "http://image.coolapk.com/feed/2026/0820/15/4248714_b0909da0_0829_2999_315-livepic@1080x2400.jpg",
-          "verdict": "先看",
-          "takeaway": "【OriginOS 7 官方爆料：全新锁屏主题】 「液态主题」抬手一晃就 Duang Duang，随手晃两下；此外，还有水波纹效果。 「闪卡主题」喜欢的角色、舞台和风景，都能变成“电子闪卡”，全部收藏在锁屏里。 配合OS7新的时钟字体，长度、粗细依然可调，为锁屏带来新感觉。 #OriginOS6# #今日热点# #OriginOS7#",
-          "detail": "【OriginOS 7 官方爆料：全新锁屏主题】 「液态主题」抬手一晃就 Duang Duang，随手晃两下；此外，还有水波纹效果。 「闪卡主题」喜欢的角色、舞台和风景，都能变成“电子闪卡”，全部收藏在锁屏里。 配合OS7新的时钟字体，长度、粗细依然可调，为锁屏带来新感觉。 #OriginOS6# #今日热点# #OriginOS7#",
-          "keyPoints": [
-            "爆料来源"
-          ],
-          "confidence": "可信度较高，但仍属于发布前线索。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "auto-e2174e28ecf3",
-          "title": "OPPO 影像能力相关消息",
-          "originalTitle": "",
-          "source": "Gizmochina",
-          "brand": "OPPO",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-08-20",
-          "time": "06:28",
-          "publishedAt": "2026-08-20T06:28:33.000Z",
-          "url": "https://www.gizmochina.com/2026/08/20/oppo-reno-18-series-68mp-1-1-selfie-camera/",
-          "image": "https://www.gizmochina.com/wp-content/uploads/2026/07/Oppo-Reno-16-5-1-300x225.jpg?x23692",
-          "verdict": "先看",
-          "takeaway": "OPPO 影像能力相关宣传或案例，主要看是否透露拍摄能力变化。",
-          "detail": "OPPO 影像能力相关消息。重点看影像功能是否和新机硬件有关，如果只是拍摄案例或营销内容，参考价值会低一些。",
-          "keyPoints": [
-            "影像硬件"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "coolapk-user-bc5d2e1dc0b1",
-          "title": "JSCHEN小小狐：荣耀Magic9系列、WIN2系列等多款新机卖点曝光",
-          "originalTitle": "",
-          "source": "JSCHEN小小狐",
-          "brand": "HONOR",
-          "type": "爆料",
-          "trust": "高可信爆料",
-          "date": "2026-08-20",
-          "time": "03:46",
-          "publishedAt": "2026-08-20T03:46:33.000Z",
-          "url": "https://www.coolapk.com/feed/73336995",
-          "image": "http://image.coolapk.com/feed/2026/0820/11/4702274_de773d80_7592_7083_668@1440x868.jpg",
-          "verdict": "先看",
-          "takeaway": "『荣耀多款新机卖点曝光：Magic9、WIN 2 等』 Magic9 系列： ◇ 至高骁龙 8 Elite Gen6 Pro（SM8975） ◇ 超大底双 2 亿 + 阿莱影像 ◇ 预计 9 月底正式发布 WIN 2 系列： ◇ 至高骁龙 8 Elite Gen6 Pro（SM8975） ◇ 6.89''± 2K 185Hz 新直屏 ◇ 10000mAh+…",
-          "detail": "『荣耀多款新机卖点曝光：Magic9、WIN 2 等』 Magic9 系列： ◇ 至高骁龙 8 Elite Gen6 Pro（SM8975） ◇ 超大底双 2 亿 + 阿莱影像 ◇ 预计 9 月底正式发布 WIN 2 系列： ◇ 至高骁龙 8 Elite Gen6 Pro（SM8975） ◇ 6.89''± 2K 185Hz 新直屏 ◇ 10000mAh+…",
-          "keyPoints": [
-            "影像硬件",
-            "屏幕形态"
-          ],
-          "confidence": "可信度较高，但仍属于发布前线索。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         }
@@ -255,52 +260,6 @@ window.phoneRadarDaily = {
           "confidence": "官方内容，可直接作为已确认信息记录。",
           "impact": "可信度高，但如果不是配置/价格消息，只需要扫一眼。",
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
-        {
-          "id": "newsnow-15f271d244c3",
-          "title": "把「闪念胶囊」（Almost）放到 iPhone 锁屏",
-          "originalTitle": "",
-          "source": "少数派热榜",
-          "brand": "iPhone",
-          "type": "评测",
-          "trust": "媒体汇总",
-          "date": "2026-08-20",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://sspai.com/post/113219",
-          "image": "",
-          "verdict": "扫一眼",
-          "takeaway": "把「闪念胶囊」（Almost）放到 iPhone 锁屏",
-          "detail": "把「闪念胶囊」（Almost）放到 iPhone 锁屏",
-          "keyPoints": [
-            "评测"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是实际体验内容，买前适合重点看缺点和取舍。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
-        {
-          "id": "newsnow-e215e8cb25f9",
-          "title": "我，与「唯一」的 iPhone Air",
-          "originalTitle": "",
-          "source": "少数派热榜",
-          "brand": "iPhone",
-          "type": "评测",
-          "trust": "媒体汇总",
-          "date": "2026-08-20",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://sspai.com/post/112880",
-          "image": "",
-          "verdict": "扫一眼",
-          "takeaway": "我，与「唯一」的 iPhone Air",
-          "detail": "我，与「唯一」的 iPhone Air",
-          "keyPoints": [
-            "评测"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是实际体验内容，买前适合重点看缺点和取舍。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         }
       ]
     },
@@ -354,82 +313,6 @@ window.phoneRadarDaily = {
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
-        {
-          "id": "coolapk-user-944917363173",
-          "title": "竹本青：【鸿蒙智行累计交付破150万台，成为最快达成该交付规模的中国新势力品牌】 8月20日，在享界G9及鸿蒙智行新品发布…",
-          "originalTitle": "",
-          "source": "竹本青",
-          "brand": "Huawei",
-          "type": "爆料",
-          "trust": "高可信爆料",
-          "date": "2026-08-20",
-          "time": "07:53",
-          "publishedAt": "2026-08-20T07:53:53.000Z",
-          "url": "https://www.coolapk.com/feed/73340370",
-          "image": "http://image.coolapk.com/feed/2026/0820/15/4248714_5cd913eb_2432_4974_803@2160x2016.jpg",
-          "verdict": "扫一眼",
-          "takeaway": "【鸿蒙智行累计交付破150万台，成为最快达成该交付规模的中国新势力品牌】 8月20日，在享界G9及鸿蒙智行新品发布会上，华为高管余承东宣布：截至8月16日，仅用53个月，鸿蒙智行全系累计交付量已正式突破150万辆，成为最快达成该交付规模的中国新势力品牌。 据介绍，鸿蒙智行依托华为终端全流程主导、全栈技术赋能、全生命周期管理，构建研发、技术、质量、服务等全链…",
-          "detail": "【鸿蒙智行累计交付破150万台，成为最快达成该交付规模的中国新势力品牌】 8月20日，在享界G9及鸿蒙智行新品发布会上，华为高管余承东宣布：截至8月16日，仅用53个月，鸿蒙智行全系累计交付量已正式突破150万辆，成为最快达成该交付规模的中国新势力品牌。 据介绍，鸿蒙智行依托华为终端全流程主导、全栈技术赋能、全生命周期管理，构建研发、技术、质量、服务等全链…",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "可信度较高，但仍属于发布前线索。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
-        {
-          "id": "auto-0853bdc5f5b8",
-          "title": "vivo 屏幕规格相关消息",
-          "originalTitle": "",
-          "source": "Gizmochina",
-          "brand": "vivo",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-08-20",
-          "time": "05:53",
-          "publishedAt": "2026-08-20T05:53:58.000Z",
-          "url": "https://www.gizmochina.com/2026/08/20/iqoo-16-display-upgrade-2k-165hz-samsung-panel/",
-          "image": "https://www.gizmochina.com/wp-content/uploads/2025/09/iQOO-15-front-225x300.jpg?x23692",
-          "verdict": "可略过",
-          "takeaway": "vivo 屏幕规格相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
-          "detail": "vivo 屏幕规格相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
-          "keyPoints": [
-            "屏幕形态"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "影响手感和显示体验，适合和其他机型对比。",
-          "action": "有具体参数就记录到参数库；没有参数就先收藏。"
-        }
-      ]
-    },
-    {
-      "id": "specs",
-      "title": "参数、跑分、认证",
-      "hint": "适合验证芯片、屏幕、影像和电池。",
-      "items": [
-        {
-          "id": "auto-c56a7885ef59",
-          "title": "2026 年，手机厂商为什么非做 Pocket 不可？｜硬哲学",
-          "originalTitle": "",
-          "source": "爱范儿",
-          "brand": "行业",
-          "type": "评测",
-          "trust": "媒体汇总",
-          "date": "2026-08-20",
-          "time": "07:55",
-          "publishedAt": "2026-08-20T07:55:24.000Z",
-          "url": "https://www.ifanr.com/1675750?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "image": "https://s3.ifanr.com/wp-content/uploads/2026/08/8-360x203.jpg",
-          "verdict": "扫一眼",
-          "takeaway": "参数之外，手机厂商有机会重写体验",
-          "detail": "参数之外，手机厂商有机会重写体验",
-          "keyPoints": [
-            "评测"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是实际体验内容，买前适合重点看缺点和取舍。",
-          "action": "中文源可以直接点开快读；看完只保留和购机有关的点。"
         }
       ]
     },
@@ -439,74 +322,73 @@ window.phoneRadarDaily = {
       "hint": "看方向，不急着当购买依据。",
       "items": [
         {
-          "id": "coolapk-user-603904eada97",
-          "title": "JSCHEN小小狐：轨道交通的魅力， 从靠近的那一刻，便悄然开始。 #手机摄影#",
+          "id": "auto-83c0469a9bc6",
+          "title": "华为 nova 16 SE 手机计划 9 月开启鸿蒙 HarmonyOS 7 花粉 Beta 招募",
           "originalTitle": "",
-          "source": "JSCHEN小小狐",
-          "brand": "Xiaomi",
+          "source": "IT之家",
+          "brand": "Huawei",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-08-20",
+          "time": "10:17",
+          "publishedAt": "2026-08-20T10:17:48.000Z",
+          "url": "https://www.ithome.com/0/992/255.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/8/09b870e7-4939-40cb-a4cf-e3350022232a.jpg",
+          "verdict": "先看",
+          "takeaway": "IT之家 8 月 20 日消息，华为官方今日放出了鸿蒙 HarmonyOS 7 花粉 Beta 招募计划。目前，新版本系统已支持 Mate 80、Pura 90、nova 16、MatePad Edge、MateBook Fold 非凡大师等机型 Beta 尝鲜。 IT之家注意到，在官方宣传海报中提到， nova 16 SE 计划在 9 月开启鸿蒙 Har…",
+          "detail": "IT之家 8 月 20 日消息，华为官方今日放出了鸿蒙 HarmonyOS 7 花粉 Beta 招募计划。目前，新版本系统已支持 Mate 80、Pura 90、nova 16、MatePad Edge、MateBook Fold 非凡大师等机型 Beta 尝鲜。 IT之家注意到，在官方宣传海报中提到， nova 16 SE 计划在 9 月开启鸿蒙 Har…",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "中文源可以直接点开快读；看完只保留和购机有关的点。"
+        },
+        {
+          "id": "newsnow-4d5241114cb7",
+          "title": "华为阔直板新机Pura X View 曝光：6.39'' 天马屏",
+          "originalTitle": "",
+          "source": "酷安热榜",
+          "brand": "Huawei",
+          "type": "爆料",
+          "trust": "高关注爆料源",
+          "date": "2026-08-20",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://www.coolapk.com/feed/73340633",
+          "image": "",
+          "verdict": "先看",
+          "takeaway": "华为阔直板新机Pura X View 曝光：6.39'' 天马屏",
+          "detail": "华为阔直板新机Pura X View 曝光：6.39'' 天马屏",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        },
+        {
+          "id": "coolapk-user-56c5310f18c7",
+          "title": "竹本青：华为HarmonyOS 6 终端设备数破8000万",
+          "originalTitle": "",
+          "source": "竹本青",
+          "brand": "Huawei",
           "type": "爆料",
           "trust": "高可信爆料",
           "date": "2026-08-20",
-          "time": "06:18",
-          "publishedAt": "2026-08-20T06:18:01.000Z",
-          "url": "https://www.coolapk.com/feed/73339043",
-          "image": "http://image.coolapk.com/feed/2026/0820/14/4702274_729ce944_6676_8653_441-uhdr@2366x3503.jpg",
+          "time": "10:09",
+          "publishedAt": "2026-08-20T10:09:38.000Z",
+          "url": "https://www.coolapk.com/feed/73342708",
+          "image": "http://image.coolapk.com/feed/2026/0820/18/4248714_94a166c8_0576_8577_499@1080x1920.jpg",
           "verdict": "扫一眼",
-          "takeaway": "轨道交通的魅力， 从靠近的那一刻，便悄然开始。 #手机摄影#",
-          "detail": "轨道交通的魅力， 从靠近的那一刻，便悄然开始。 #手机摄影#",
+          "takeaway": "【华为HarmonyOS 6 终端设备数破8000万】 华为高管余承东今天宣布，HarmonyOS 6 终端设备数突破8000万。今年6月，在华为开发者大会上，余承东曾官宣，鸿蒙操作系统已经成为中国第二大智能手机操作系统。 26年8月20日：鸿蒙6 终端设备数超8000万 26年7月2日：鸿蒙6 终端设备数超7000万 26年6月12日：鸿蒙6 终端设备数…",
+          "detail": "【华为HarmonyOS 6 终端设备数破8000万】 华为高管余承东今天宣布，HarmonyOS 6 终端设备数突破8000万。今年6月，在华为开发者大会上，余承东曾官宣，鸿蒙操作系统已经成为中国第二大智能手机操作系统。 26年8月20日：鸿蒙6 终端设备数超8000万 26年7月2日：鸿蒙6 终端设备数超7000万 26年6月12日：鸿蒙6 终端设备数…",
           "keyPoints": [
             "爆料"
           ],
           "confidence": "可信度较高，但仍属于发布前线索。",
           "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
-        {
-          "id": "auto-16b07edb2182",
-          "title": "Galaxy S27 芯片 / 性能相关消息",
-          "originalTitle": "",
-          "source": "SamMobile",
-          "brand": "Samsung",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-08-20",
-          "time": "07:21",
-          "publishedAt": "2026-08-20T07:21:24.000Z",
-          "url": "https://www.sammobile.com/news/galaxy-s27-snapdragon-chip-teased-as-qualcomm-confirms-two-new-flagships/",
-          "image": "",
-          "verdict": "可略过",
-          "takeaway": "Samsung 芯片或连接能力相关线索，可能影响性能和续航判断。",
-          "detail": "Galaxy S27 芯片 / 性能相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
-          "keyPoints": [
-            "芯片 / 性能"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "影响性能和寿命判断，适合放进参数库。",
-          "action": "有具体参数就记录到参数库；没有参数就先收藏。"
-        },
-        {
-          "id": "auto-854e023ff38b",
-          "title": "HONOR 外观设计线索曝光",
-          "originalTitle": "",
-          "source": "Huawei Central",
-          "brand": "HONOR",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-08-20",
-          "time": "06:46",
-          "publishedAt": "2026-08-20T06:46:35.000Z",
-          "url": "https://www.huaweicentral.com/honor-700-series-to-continue-200mp-camera-trend-with-new-design/",
-          "image": "https://www.huaweicentral.com/wp-content/uploads/2026/04/Honor600Pro.jpg",
-          "verdict": "可略过",
-          "takeaway": "HONOR 外观设计线索曝光。重点看外观、颜色、尺寸是否和上一代有明显变化。",
-          "detail": "HONOR 外观设计线索曝光。这类内容主要看外观设计、按键布局、相机模组和尺寸变化，后续最好等更多渲染图或保护壳线索互相验证。",
-          "keyPoints": [
-            "外观 / 配色 / 尺寸",
-            "影像硬件"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "影响拍照体验，买旗舰机时值得关注。",
-          "action": "有具体参数就记录到参数库；没有参数就先收藏。"
         }
       ]
     }

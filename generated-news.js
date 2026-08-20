@@ -1,9 +1,249 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-08-20T08:55:51.821Z",
+  "updatedAt": "2026-08-20T10:46:00.858Z",
   "news": [
     {
+      "id": "auto-60079e438c5e",
+      "title": "索尼 Xperia 10 VIII 现身 Geekbench，仍搭载高通骁龙 6 Gen 3 处理器",
+      "source": "IT之家",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-20",
+      "time": "10:41",
+      "publishedAt": "2026-08-20T10:41:37.000Z",
+      "url": "https://www.ithome.com/0/992/303.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/8/c95a322a-c04a-4a35-8df8-a86440e1ed3c.jpg",
+      "summary": "IT之家 8 月 20 日消息，一款型号为 XQ-GH54 的索尼手机出现在了 Geekbench 数据库中，经日媒 sumahodigest 确认为索尼 Xperia 10 VIII。 据介绍，2026 款 Xperia 手机包括“XQ-GE”和“XQ-GH”开头的两种型号，而这款 XQ-GH54 据信是 Xperia 10 VIII 欧版。 这款新机在…",
+      "tags": [
+        "行业",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-3925ac5577e8",
+      "title": "Pixel 11 adds new Screen Saver features, including a new style that’s impossible to ignore",
+      "source": "Android Authority",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-20",
+      "time": "10:34",
+      "publishedAt": "2026-08-20T10:34:56.000Z",
+      "url": "https://www.androidauthority.com/pixel-11-charge-screen-saver-digital-analog-clocks-3700935/",
+      "image": "",
+      "summary": "And also brings new analog and digital clock styles.",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "weibo-8512ec3dfff4",
+      "title": "数码闲聊站：Omdia调研数据，2026年折叠屏市场规模预计增长超22%，未来3年将实现翻…",
+      "source": "数码闲聊站",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-08-20",
+      "time": "10:22",
+      "publishedAt": "2026-08-20T10:22:00.000Z",
+      "url": "https://weibo.com/6048569942/RehVIa4Rn",
+      "image": "",
+      "summary": "Omdia调研数据，2026年折叠屏市场规模预计增长超22%，未来3年将实现翻倍。 阔折叠把整个品类都带到起飞，接下来小米和苹果的阔折叠新品也会陆续发布，新形态设计和产品定位都很接近，“新折叠元年”真的来了[笑而不语]",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "微博"
+      ]
+    },
+    {
+      "id": "auto-83c0469a9bc6",
+      "title": "华为 nova 16 SE 手机计划 9 月开启鸿蒙 HarmonyOS 7 花粉 Beta 招募",
+      "source": "IT之家",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-20",
+      "time": "10:17",
+      "publishedAt": "2026-08-20T10:17:48.000Z",
+      "url": "https://www.ithome.com/0/992/255.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/8/09b870e7-4939-40cb-a4cf-e3350022232a.jpg",
+      "summary": "IT之家 8 月 20 日消息，华为官方今日放出了鸿蒙 HarmonyOS 7 花粉 Beta 招募计划。目前，新版本系统已支持 Mate 80、Pura 90、nova 16、MatePad Edge、MateBook Fold 非凡大师等机型 Beta 尝鲜。 IT之家注意到，在官方宣传海报中提到， nova 16 SE 计划在 9 月开启鸿蒙 Har…",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-56c5310f18c7",
+      "title": "竹本青：华为HarmonyOS 6 终端设备数破8000万",
+      "source": "竹本青",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-08-20",
+      "time": "10:09",
+      "publishedAt": "2026-08-20T10:09:38.000Z",
+      "url": "https://www.coolapk.com/feed/73342708",
+      "image": "http://image.coolapk.com/feed/2026/0820/18/4248714_94a166c8_0576_8577_499@1080x1920.jpg",
+      "summary": "【华为HarmonyOS 6 终端设备数破8000万】 华为高管余承东今天宣布，HarmonyOS 6 终端设备数突破8000万。今年6月，在华为开发者大会上，余承东曾官宣，鸿蒙操作系统已经成为中国第二大智能手机操作系统。 26年8月20日：鸿蒙6 终端设备数超8000万 26年7月2日：鸿蒙6 终端设备数超7000万 26年6月12日：鸿蒙6 终端设备数…",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-c1f2777f4fa4",
+      "title": "Using the Pixel 11 Pro for a week confirmed my biggest fear about Pixel’s future",
+      "source": "Android Authority",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-20",
+      "time": "10:00",
+      "publishedAt": "2026-08-20T10:00:48.000Z",
+      "url": "https://www.androidauthority.com/pixel-11-pro-one-week-later-impressions-3699430/",
+      "image": "",
+      "summary": "The Pixel 11 Pro is great, but not for the reasons it needs to be.",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-2fc29af4d789",
+      "title": "Samsung reveals when Galaxy S26 Ultra display red tint fix update will arrive",
+      "source": "SamMobile",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-20",
+      "time": "09:48",
+      "publishedAt": "2026-08-20T09:48:54.000Z",
+      "url": "https://www.sammobile.com/news/samsung-reveals-when-galaxy-s26-ultra-display-red-tint-fix-update-will-arrive/",
+      "image": "",
+      "summary": "Last month, Galaxy S26 Ultra users started complaining about a red tint appearing on the phone’s display. Samsung acknowledged the issue, confirmed that it was software-related ra…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-9eb7326c8d57",
+      "title": "Huawei Pura X View debuts – the first wide-screen smartphone",
+      "source": "Huawei Central",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-20",
+      "time": "09:41",
+      "publishedAt": "2026-08-20T09:41:33.000Z",
+      "url": "https://www.huaweicentral.com/huawei-pura-x-view-debuts-the-first-wide-screen-smartphone/",
+      "image": "https://www.huaweicentral.com/wp-content/uploads/2026/08/dimensions.jpg",
+      "summary": "The wait is over as Huawei has showcased its first wide-screen smartphone – the Pura X View. The mid-sized device with an extremely broad display claims to deliver a formidable ex…",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-1457e56cb9e7",
+      "title": "索尼 Xperia 新品发布会定档 8 月 25 日",
+      "source": "IT之家",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-20",
+      "time": "09:29",
+      "publishedAt": "2026-08-20T09:29:16.000Z",
+      "url": "https://www.ithome.com/0/992/231.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/8/c74254aa-3f62-4c38-adf2-d3b32f9ee873.jpg",
+      "summary": "IT之家 8 月 20 日消息，Sony（索尼）Xperia 官方今日宣布将于北京时间 2026 年 8 月 25 日 10:00 举行 Xperia 新品发布活动。 从时间点上来看， 即将发布的新设备应该是中端智能手机系列 Xperia 10 的迭代机型 。上代 Xperia 10 VII 发布于 2025 年 9 月，基于高通骁龙 6 Gen 3 移动…",
+      "tags": [
+        "行业",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "weibo-a47516a31ec7",
+      "title": "数码闲聊站：全网首猜华为阔直板✓6.39英寸2232*1320p 1.5K 6500nit…",
+      "source": "数码闲聊站",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-08-20",
+      "time": "09:16",
+      "publishedAt": "2026-08-20T09:16:34.000Z",
+      "url": "https://weibo.com/6048569942/Rehv9gLoI",
+      "image": "https://tvax2.sinaimg.cn/mw2000/006BlblIgy1igadg9tz9gj30xv19dgxu.jpg",
+      "summary": "全网首猜华为阔直板✓6.39英寸2232*1320p 1.5K 6500nits小阔屏✓7000mAh大电池✓三摄长焦红枫影像✓6.68mm/201g 首发鸿蒙OS7 华为Pura X View猜得准不准，回答我？！[doge]",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "微博"
+      ]
+    },
+    {
+      "id": "auto-9dd99ff41ca8",
+      "title": "Samsung just confirmed when the Galaxy S26 FE will make its debut",
+      "source": "Android Central",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-08-20",
+      "time": "09:08",
+      "publishedAt": "2026-08-20T09:08:32.000Z",
+      "url": "https://www.androidcentral.com/phones/samsung-galaxy/samsung-confirms-launch-date-galaxy-s26-fe",
+      "image": "https://cdn.mos.cms.futurecdn.net/BHuZTijDCu3hRigV5AUKZF-1280-80.jpg",
+      "summary": "Samsung's next launch confirmed.",
+      "tags": [
+        "Samsung",
+        "评测",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-b8559751f16e",
+      "title": "We tested the Pixel 11’s Tensor G6 chip, and the results are brutal",
+      "source": "Android Authority",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-20",
+      "time": "09:00",
+      "publishedAt": "2026-08-20T09:00:22.000Z",
+      "url": "https://www.androidauthority.com/tensor-g6-benchmarks-tests-3699714/",
+      "image": "",
+      "summary": "The G6 is better, but not in the ways it needs to be.",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
       "id": "coolapk-user-a4365d346d46",
-      "title": "JSCHEN小小狐：『消息称小米 18 Pro Max 落地 0916 系大马达』 知名数码博主 数码闲聊站 今日爆料称，小米 18…",
+      "title": "JSCHEN小小狐：消息称小米 18 Pro Max 落地 0916 系大马达",
       "source": "JSCHEN小小狐",
       "brand": "Xiaomi",
       "model": "Xiaomi 相关机型",
@@ -14,7 +254,7 @@ window.phoneRadarAuto = {
       "publishedAt": "2026-08-20T08:42:25.000Z",
       "url": "https://www.coolapk.com/feed/73341161",
       "image": "http://image.coolapk.com/feed/2026/0820/16/4702274_12d62d41_5344_4646_683@1440x323.jpg",
-      "summary": "『消息称小米 18 Pro Max 落地 0916 系大马达』 知名数码博主 数码闲聊站 今日爆料称，小米 18 Pro Max 确认落地 0916 系超大 X 轴线性马达。 据悉，去年发布的小米 17 Pro Max 一度将马达由 15 Pro 的 0816 更换为 0809E。而在今年早先的爆料中，小米 18 Pro Max 曾传出正在评估对称式双扬声…",
+      "summary": "『消息称小米 18 Pro Max 落地 0916 系大马达』 知名数码博主 数码闲聊站 今日爆料称，小米 18 Pro Max 确认落地 0916 系超大 X 轴线性马达。 据悉，去年发布的小米 17 Pro Max 一度将马达由 15 Pro 的 0816 更换为 0809E。而今年早些时候的爆料中，小米 18 Pro Max 曾传出有评估对称式双扬声…",
       "tags": [
         "Xiaomi",
         "爆料",
@@ -62,6 +302,26 @@ window.phoneRadarAuto = {
       ]
     },
     {
+      "id": "weibo-25f46087b395",
+      "title": "数码闲聊站：华为Pura X View，阔直板新机，感受一下：",
+      "source": "数码闲聊站",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-08-20",
+      "time": "08:10",
+      "publishedAt": "2026-08-20T08:10:23.000Z",
+      "url": "https://weibo.com/6048569942/Reh4hCAYQ",
+      "image": "https://tvax1.sinaimg.cn/mw2000/006BlblIgy1igad2zvknxj33202a8e83.jpg",
+      "summary": "华为Pura X View，阔直板新机，感受一下：",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "微博"
+      ]
+    },
+    {
       "id": "auto-c56a7885ef59",
       "title": "2026 年，手机厂商为什么非做 Pocket 不可？｜硬哲学",
       "source": "爱范儿",
@@ -102,26 +362,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "coolapk-user-48c8a8a9628a",
-      "title": "竹本青：OriginOS 7 官方爆料：全新锁屏主题",
-      "source": "竹本青",
-      "brand": "vivo",
-      "model": "vivo 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-08-20",
-      "time": "07:27",
-      "publishedAt": "2026-08-20T07:27:58.000Z",
-      "url": "https://www.coolapk.com/feed/73339973",
-      "image": "http://image.coolapk.com/feed/2026/0820/15/4248714_b0909da0_0829_2999_315-livepic@1080x2400.jpg",
-      "summary": "【OriginOS 7 官方爆料：全新锁屏主题】 「液态主题」抬手一晃就 Duang Duang，随手晃两下；此外，还有水波纹效果。 「闪卡主题」喜欢的角色、舞台和风景，都能变成“电子闪卡”，全部收藏在锁屏里。 配合OS7新的时钟字体，长度、粗细依然可调，为锁屏带来新感觉。 #OriginOS6# #今日热点# #OriginOS7#",
-      "tags": [
-        "vivo",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
       "id": "auto-d580ea1f5ff1",
       "title": "iQOO Z11’s India version brings a surprise that other markets don’t get",
       "source": "Gizmochina",
@@ -157,26 +397,6 @@ window.phoneRadarAuto = {
       "summary": "For many years, Samsung has been using Qualcomm’s flagship chipsets in its premium smartphones, including the Galaxy Z and Galaxy S series. The South Korean tech giant is expected…",
       "tags": [
         "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-93de3e1ce09f",
-      "title": "消息称华为阔直板新品今天亮相，将于 8 月 28 日开启预售",
-      "source": "IT之家",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-20",
-      "time": "06:59",
-      "publishedAt": "2026-08-20T06:59:44.000Z",
-      "url": "https://www.ithome.com/0/992/105.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/8/3db1f02f-9e4b-406f-8e3b-ec9c3e168bd8.png?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 8 月 20 日消息，博主 @鹏鹏君驾到 今日发文透露， 华为阔直板新品今天将亮相 ，将于 8 月 28 日开启预售。 据IT之家此前报道，博主 @数码闲聊站 在本月初发文透露， 某厂的阔直板新手机已 Ready ，方案属于行业首发。结合该博主此前的爆料来看，新机归属华为品牌。 博主表示， 这款手机的产品定义很顶级 ，定位不低，其它家也在跟进中，…",
-      "tags": [
-        "Huawei",
         "爆料",
         "自动抓取"
       ]
@@ -382,6 +602,26 @@ window.phoneRadarAuto = {
       ]
     },
     {
+      "id": "weibo-3efbc442bce0",
+      "title": "数码闲聊站：Magic9系列主打超大底双2亿+阿莱影像 WIN2系列主打2K新直屏+超万级…",
+      "source": "数码闲聊站",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-08-20",
+      "time": "03:07",
+      "publishedAt": "2026-08-20T03:07:00.000Z",
+      "url": "https://weibo.com/6048569942/Ref593nsC",
+      "image": "",
+      "summary": "Magic9系列主打超大底双2亿+阿莱影像 WIN2系列主打2K新直屏+超万级大电池+风扇 700系列主打2亿影像+潮流新ID+中屏大电池 X/Power系列主打7英寸级超大屏+行业最大电池",
+      "tags": [
+        "HONOR",
+        "爆料",
+        "微博"
+      ]
+    },
+    {
       "id": "auto-581db254b123",
       "title": "Samsung just set a date for its next Galaxy S26 launch, and this one is for the fans!",
       "source": "Android Authority",
@@ -502,6 +742,26 @@ window.phoneRadarAuto = {
       ]
     },
     {
+      "id": "newsnow-4d5241114cb7",
+      "title": "华为阔直板新机Pura X View 曝光：6.39'' 天马屏",
+      "source": "酷安热榜",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-08-20",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/73340633",
+      "image": "",
+      "summary": "华为阔直板新机Pura X View 曝光：6.39'' 天马屏",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
       "id": "newsnow-afcb4b6bd1ba",
       "title": "OPPO发布新一代屏幕双产线技术：Find X10 系列首发搭载",
       "source": "酷安热榜",
@@ -517,6 +777,46 @@ window.phoneRadarAuto = {
       "summary": "OPPO发布新一代屏幕双产线技术：Find X10 系列首发搭载",
       "tags": [
         "OPPO",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-5026e7765582",
+      "title": "华为Pura X View 阔直屏亮相：28日开启门店体验",
+      "source": "酷安热榜",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-08-20",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/73340812",
+      "image": "",
+      "summary": "华为Pura X View 阔直屏亮相：28日开启门店体验",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-b514e367258b",
+      "title": "华为 Pura X View 上架官方商城",
+      "source": "酷安热榜",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-08-20",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/73341486",
+      "image": "",
+      "summary": "华为 Pura X View 上架官方商城",
+      "tags": [
+        "Huawei",
         "爆料",
         "NewsNow"
       ]
@@ -542,7 +842,27 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-e3285c5aebf9",
+      "id": "newsnow-5026d6e3c0f7",
+      "title": "华为PuraXView",
+      "source": "微博热搜",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "待验证",
+      "date": "2026-08-20",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://s.weibo.com/weibo?q=%E5%8D%8E%E4%B8%BAPuraXView&t=31&band_rank=5&Refer=top",
+      "image": "",
+      "summary": "华为PuraXView",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-1434bab57834",
       "title": "华为阔直板手机亮相",
       "source": "微博热搜",
       "brand": "Huawei",
@@ -552,7 +872,7 @@ window.phoneRadarAuto = {
       "date": "2026-08-20",
       "time": "",
       "publishedAt": "",
-      "url": "https://s.weibo.com/weibo?q=%23%E5%8D%8E%E4%B8%BA%E9%98%94%E7%9B%B4%E6%9D%BF%E6%89%8B%E6%9C%BA%E4%BA%AE%E7%9B%B8%23&t=31&band_rank=6&Refer=top",
+      "url": "https://s.weibo.com/weibo?q=%23%E5%8D%8E%E4%B8%BA%E9%98%94%E7%9B%B4%E6%9D%BF%E6%89%8B%E6%9C%BA%E4%BA%AE%E7%9B%B8%23&t=31&band_rank=27&Refer=top",
       "image": "",
       "summary": "华为阔直板手机亮相",
       "tags": [
@@ -562,22 +882,82 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-30f83a049033",
-      "title": "媒体曝劣质手机壳是用医疗垃圾做的，其释放的塑化剂是儿童性早熟主要诱因，长期接触真会导致性早熟吗？",
-      "source": "知乎热榜",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "市场报告",
+      "id": "newsnow-0aac0e879325",
+      "title": "华为阔直板手机亮相",
+      "source": "今日头条热榜",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
       "trust": "媒体汇总",
       "date": "2026-08-20",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.zhihu.com/question/2072722723030000085",
+      "url": "https://www.toutiao.com/trending/7675773540247044139/",
       "image": "",
-      "summary": "媒体曝劣质手机壳是用医疗垃圾做的，其释放的塑化剂是儿童性早熟主要诱因，长期接触真会导致性早熟吗？",
+      "summary": "华为阔直板手机亮相",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-7d923e7bfea3",
+      "title": "女生吵架后扔礼物 内有手机和金项链",
+      "source": "今日头条热榜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-20",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.toutiao.com/trending/7676032499759202323/",
+      "image": "",
+      "summary": "女生吵架后扔礼物 内有手机和金项链",
       "tags": [
         "行业",
-        "市场报告",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-5338ec8b679f",
+      "title": "华为阔直板手机",
+      "source": "百度热搜",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-20",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.baidu.com/s?wd=%E5%8D%8E%E4%B8%BA%E9%98%94%E7%9B%B4%E6%9D%BF%E6%89%8B%E6%9C%BA",
+      "image": "",
+      "summary": "华为阔直板手机",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-6a73d81963cb",
+      "title": "华为发布阔直板手机",
+      "source": "抖音热点",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "待验证",
+      "date": "2026-08-20",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.douyin.com/hot/2617292",
+      "image": "",
+      "summary": "华为发布阔直板手机",
+      "tags": [
+        "Huawei",
+        "爆料",
         "NewsNow"
       ]
     },
@@ -822,26 +1202,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-8ff6717618a0",
-      "title": "Galaxy S26 Ultra is now available at its lowest-ever price in India",
-      "source": "SamMobile",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-19",
-      "time": "12:49",
-      "publishedAt": "2026-08-19T12:49:39.000Z",
-      "url": "https://www.sammobile.com/news/galaxy-s26-ultra-now-available-lowest-ever-price-india/",
-      "image": "",
-      "summary": "Samsung’s latest flagship non-foldable smartphone, the Galaxy S26 Ultra, is available at its lowest-ever price in India. The brand launched the base variant of the Galaxy S26 Ultr…",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-6fd66c823b00",
       "title": "Otterbox and Astropad think iPhone 17 Pro cases will fit iPhone 18 Pro",
       "source": "9to5Mac",
@@ -857,26 +1217,6 @@ window.phoneRadarAuto = {
       "summary": "One of the hidden expenses in upgrading to a new iPhone can often be the need to replace your case when the dimensions differ. That so far seemed a likely bet for anyone upgrading…",
       "tags": [
         "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-7d54d655d7ac",
-      "title": "These Huawei Pura phones receiving EMUI August 2026 update",
-      "source": "Huawei Central",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-19",
-      "time": "10:53",
-      "publishedAt": "2026-08-19T10:53:46.000Z",
-      "url": "https://www.huaweicentral.com/these-huawei-pura-phones-receiving-emui-august-2026-update/",
-      "image": "https://www.huaweicentral.com/wp-content/uploads/2026/08/EMUI-updates.jpg",
-      "summary": "Huawei has started rolling out the EMUI August 2026 update for the flagship Pura phones. The new firmware ensures that the device remains stable and continues to work efficiently…",
-      "tags": [
-        "Huawei",
         "爆料",
         "自动抓取"
       ]
@@ -1039,6 +1379,26 @@ window.phoneRadarAuto = {
         "OPPO",
         "爆料",
         "自动抓取"
+      ]
+    },
+    {
+      "id": "weibo-894b9ddc2b80",
+      "title": "数码闲聊站：独家，O阔直板新机大概率是旗舰线，目前评估200Mp大底影像，有潜望长焦，定义…",
+      "source": "数码闲聊站",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-08-19",
+      "time": "07:18",
+      "publishedAt": "2026-08-19T07:18:00.000Z",
+      "url": "https://weibo.com/6048569942/Re7iwBkel",
+      "image": "",
+      "summary": "独家，O阔直板新机大概率是旗舰线，目前评估200Mp大底影像，有潜望长焦，定义很顶级[偷乐]",
+      "tags": [
+        "行业",
+        "爆料",
+        "微博"
       ]
     },
     {
