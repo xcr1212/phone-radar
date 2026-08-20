@@ -1,6 +1,166 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-08-20T07:04:54.456Z",
+  "updatedAt": "2026-08-20T08:55:51.821Z",
   "news": [
+    {
+      "id": "coolapk-user-a4365d346d46",
+      "title": "JSCHEN小小狐：『消息称小米 18 Pro Max 落地 0916 系大马达』 知名数码博主 数码闲聊站 今日爆料称，小米 18…",
+      "source": "JSCHEN小小狐",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-08-20",
+      "time": "08:42",
+      "publishedAt": "2026-08-20T08:42:25.000Z",
+      "url": "https://www.coolapk.com/feed/73341161",
+      "image": "http://image.coolapk.com/feed/2026/0820/16/4702274_12d62d41_5344_4646_683@1440x323.jpg",
+      "summary": "『消息称小米 18 Pro Max 落地 0916 系大马达』 知名数码博主 数码闲聊站 今日爆料称，小米 18 Pro Max 确认落地 0916 系超大 X 轴线性马达。 据悉，去年发布的小米 17 Pro Max 一度将马达由 15 Pro 的 0816 更换为 0809E。而在今年早先的爆料中，小米 18 Pro Max 曾传出正在评估对称式双扬声…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "coolapk-user-4c85f00ca4f0",
+      "title": "JSCHEN小小狐：曝 OPPO 开案 68Mp 1:1 方形前摄：明年上市",
+      "source": "JSCHEN小小狐",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-08-20",
+      "time": "08:14",
+      "publishedAt": "2026-08-20T08:14:41.000Z",
+      "url": "https://www.coolapk.com/feed/73340682",
+      "image": "http://image.coolapk.com/feed/2026/0820/16/4702274_759216f5_3680_8913_168@1440x425.jpg",
+      "summary": "『曝 OPPO 开案 68Mp 1:1 方形前摄：明年上市』 知名数码博主 数码闲聊站 今日爆料称，OPPO 近期开案了一颗 6800 万像素、 1:1 画幅的方形前摄 CMOS，或将搭载于明年的 Reno 系列新机。 据悉，此前 OPPO 已在 Find X10 系列新机上测试 1 亿像素方形前摄。该款 100Mp 1:1 画幅 CMOS 由三星供货，尺…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-49a4d12c1eaa",
+      "title": "旗舰机型先行：首批 GrapheneOS 摩托罗拉设备预计 2027 年上市",
+      "source": "IT之家",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-20",
+      "time": "08:11",
+      "publishedAt": "2026-08-20T08:11:59.000Z",
+      "url": "https://www.ithome.com/0/992/193.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/8/848b9ce8-5af9-4075-be21-12471b2cebcc.png",
+      "summary": "IT之家 8 月 20 日消息，GrapheneOS 官方本月早些时候确认，运行其同名 Android 操作系统发行版的 Motorola（摩托罗拉）设备预计将于 2027 年开始上市。 首批运行 GrapheneOS 的摩托罗拉智能手机将是旗舰机型， 硬件配置和定价均高于 Google（谷歌）Pixel 系列 。 另一方面，由于高通的处理方式和摩托罗拉此…",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-c56a7885ef59",
+      "title": "2026 年，手机厂商为什么非做 Pocket 不可？｜硬哲学",
+      "source": "爱范儿",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-08-20",
+      "time": "07:55",
+      "publishedAt": "2026-08-20T07:55:24.000Z",
+      "url": "https://www.ifanr.com/1675750?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "image": "https://s3.ifanr.com/wp-content/uploads/2026/08/8-360x203.jpg",
+      "summary": "参数之外，手机厂商有机会重写体验",
+      "tags": [
+        "行业",
+        "评测",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-944917363173",
+      "title": "竹本青：【鸿蒙智行累计交付破150万台，成为最快达成该交付规模的中国新势力品牌】 8月20日，在享界G9及鸿蒙智行新品发布…",
+      "source": "竹本青",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-08-20",
+      "time": "07:53",
+      "publishedAt": "2026-08-20T07:53:53.000Z",
+      "url": "https://www.coolapk.com/feed/73340370",
+      "image": "http://image.coolapk.com/feed/2026/0820/15/4248714_5cd913eb_2432_4974_803@2160x2016.jpg",
+      "summary": "【鸿蒙智行累计交付破150万台，成为最快达成该交付规模的中国新势力品牌】 8月20日，在享界G9及鸿蒙智行新品发布会上，华为高管余承东宣布：截至8月16日，仅用53个月，鸿蒙智行全系累计交付量已正式突破150万辆，成为最快达成该交付规模的中国新势力品牌。 据介绍，鸿蒙智行依托华为终端全流程主导、全栈技术赋能、全生命周期管理，构建研发、技术、质量、服务等全链…",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "coolapk-user-48c8a8a9628a",
+      "title": "竹本青：OriginOS 7 官方爆料：全新锁屏主题",
+      "source": "竹本青",
+      "brand": "vivo",
+      "model": "vivo 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-08-20",
+      "time": "07:27",
+      "publishedAt": "2026-08-20T07:27:58.000Z",
+      "url": "https://www.coolapk.com/feed/73339973",
+      "image": "http://image.coolapk.com/feed/2026/0820/15/4248714_b0909da0_0829_2999_315-livepic@1080x2400.jpg",
+      "summary": "【OriginOS 7 官方爆料：全新锁屏主题】 「液态主题」抬手一晃就 Duang Duang，随手晃两下；此外，还有水波纹效果。 「闪卡主题」喜欢的角色、舞台和风景，都能变成“电子闪卡”，全部收藏在锁屏里。 配合OS7新的时钟字体，长度、粗细依然可调，为锁屏带来新感觉。 #OriginOS6# #今日热点# #OriginOS7#",
+      "tags": [
+        "vivo",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-d580ea1f5ff1",
+      "title": "iQOO Z11’s India version brings a surprise that other markets don’t get",
+      "source": "Gizmochina",
+      "brand": "vivo",
+      "model": "vivo 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-20",
+      "time": "07:26",
+      "publishedAt": "2026-08-20T07:26:38.000Z",
+      "url": "https://www.gizmochina.com/2026/08/20/iqoo-z11-launched-india-price-specifications/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/08/iQOO-Z11-featured-300x165.jpg?x23692",
+      "summary": "The iQOO Z11 has now reached India in a version tailored specifically for the local market. It joins the Chinese and Malaysian variants with a different chipset and hardware confi…",
+      "tags": [
+        "vivo",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-16b07edb2182",
+      "title": "Galaxy S27’s Snapdragon chip gets teased as Qualcomm confirms two new flagships",
+      "source": "SamMobile",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-20",
+      "time": "07:21",
+      "publishedAt": "2026-08-20T07:21:24.000Z",
+      "url": "https://www.sammobile.com/news/galaxy-s27-snapdragon-chip-teased-as-qualcomm-confirms-two-new-flagships/",
+      "image": "",
+      "summary": "For many years, Samsung has been using Qualcomm’s flagship chipsets in its premium smartphones, including the Galaxy Z and Galaxy S series. The South Korean tech giant is expected…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-93de3e1ce09f",
       "title": "消息称华为阔直板新品今天亮相，将于 8 月 28 日开启预售",
@@ -53,7 +213,7 @@ window.phoneRadarAuto = {
       "time": "06:28",
       "publishedAt": "2026-08-20T06:28:33.000Z",
       "url": "https://www.gizmochina.com/2026/08/20/oppo-reno-18-series-68mp-1-1-selfie-camera/",
-      "image": "https://www.gizmochina.com/wp-content/uploads/2026/08/image-85.png?x23692",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/07/Oppo-Reno-16-5-1-300x225.jpg?x23692",
       "summary": "It was reported back in May that Oppo is testing a square 1:1 selfie camera. Available on the iPhone 17 series, a 1:1 front camera sensor offers more flexible framing and portrait…",
       "tags": [
         "OPPO",
@@ -97,26 +257,6 @@ window.phoneRadarAuto = {
       "summary": "iQOO appears to be preparing another major display upgrade for its next flagship smartphone. A company executive has hinted at what to expect from the iQOO 16, while earlier infor…",
       "tags": [
         "vivo",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-89451719d70a",
-      "title": "谷歌 Pixel 11 系列手机上线自定义振动功能，可给联系人设置专属振动",
-      "source": "IT之家",
-      "brand": "Pixel",
-      "model": "Pixel 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-20",
-      "time": "04:33",
-      "publishedAt": "2026-08-20T04:33:43.000Z",
-      "url": "https://www.ithome.com/0/992/069.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/8/e29ab346-5444-4841-98bf-dc13c0362d2e.jpg?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 8 月 20 日消息，谷歌悄悄在 Pixel 11 系列手机上推出了自定义振动模式功能，让用户可以更加自由地控制手机在来电和通知时的振动方式。 如果想自定义 Pixel 11 来电铃声的振动方式，可以进入“设置 > 声音和振动 > 电话铃声 > 振动”。谷歌会根据用户当前选择的铃声，自动推荐一种振动模式，因此用户无需自己反复尝试哪种组合更加合适。…",
-      "tags": [
-        "Pixel",
         "爆料",
         "自动抓取"
       ]
@@ -234,31 +374,11 @@ window.phoneRadarAuto = {
       "publishedAt": "2026-08-20T03:46:33.000Z",
       "url": "https://www.coolapk.com/feed/73336995",
       "image": "http://image.coolapk.com/feed/2026/0820/11/4702274_de773d80_7592_7083_668@1440x868.jpg",
-      "summary": "『荣耀多款新机卖点曝光：Magic9、WIN 2 等』 Magic9 系列： ◇ 至高骁龙 8 Elite Gen6 Pro（SM8975） ◇ 超大底双 2 亿 + 阿莱影像 ◇ 预计 9 月底正式发布 WIN 2 系列： ◇ 至高骁龙 8 Elite Gen6（SM8950） ◇ 6.89''± 2K 185Hz 新直屏 ◇ 10000mAh++ 大电…",
+      "summary": "『荣耀多款新机卖点曝光：Magic9、WIN 2 等』 Magic9 系列： ◇ 至高骁龙 8 Elite Gen6 Pro（SM8975） ◇ 超大底双 2 亿 + 阿莱影像 ◇ 预计 9 月底正式发布 WIN 2 系列： ◇ 至高骁龙 8 Elite Gen6 Pro（SM8975） ◇ 6.89''± 2K 185Hz 新直屏 ◇ 10000mAh+…",
       "tags": [
         "HONOR",
         "爆料",
         "酷安博主"
-      ]
-    },
-    {
-      "id": "weibo-3efbc442bce0",
-      "title": "数码闲聊站：Magic9系列主打超大底双2亿+阿莱影像 WIN2系列主打2K新直屏+超万级…",
-      "source": "数码闲聊站",
-      "brand": "HONOR",
-      "model": "HONOR 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-08-20",
-      "time": "03:07",
-      "publishedAt": "2026-08-20T03:07:00.000Z",
-      "url": "https://weibo.com/6048569942/Ref593nsC",
-      "image": "",
-      "summary": "Magic9系列主打超大底双2亿+阿莱影像 WIN2系列主打2K新直屏+超万级大电池+风扇 700系列主打2亿影像+潮流新ID+中屏大电池 X/Power系列主打7英寸级超大屏+行业最大电池",
-      "tags": [
-        "HONOR",
-        "爆料",
-        "微博"
       ]
     },
     {
@@ -319,46 +439,6 @@ window.phoneRadarAuto = {
         "iPhone",
         "评测",
         "自动抓取"
-      ]
-    },
-    {
-      "id": "coolapk-user-728817dc666c",
-      "title": "竹本青：OPPO发布新一代屏幕双产线技术：全链路显示升级",
-      "source": "竹本青",
-      "brand": "OPPO",
-      "model": "OPPO 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-08-20",
-      "time": "02:02",
-      "publishedAt": "2026-08-20T02:02:41.000Z",
-      "url": "https://www.coolapk.com/feed/73335472",
-      "image": "http://image.coolapk.com/feed/2026/0820/10/4248714_c4a4605a_1359_1818_762@2000x1333.jpg",
-      "summary": "【全链路显示升级，OPPO发布新一代屏幕双产线技术】 8月20日，OPPO新一代屏幕双产线技术正式发布。从基材定制到像素级校准，实现全链路显示升级。 RGB三色发光材料全面换新，光谱深度优化，BT.2020色域覆盖率达行业新高，色彩无限接近真实世界。 #今日热点# #ColorOS17# #OPPOFindX10#",
-      "tags": [
-        "OPPO",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
-      "id": "coolapk-user-09a3278e6ea6",
-      "title": "竹本青：姜超确认红魔12 Pro系列手机正常迭代",
-      "source": "竹本青",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-08-20",
-      "time": "01:19",
-      "publishedAt": "2026-08-20T01:19:11.000Z",
-      "url": "https://www.coolapk.com/feed/73334949",
-      "image": "http://image.coolapk.com/feed/2026/0820/09/4248714_4fca6eec_8750_0924_978@2916x2843.jpg",
-      "summary": "【姜超确认红魔12 Pro系列手机正常迭代】 8月20日资讯，红魔高管姜超昨日在回复网友提问时确认，红魔12 Pro系列手机将正常迭代。至于目前暂无相关爆料信息，他解释称，产品还没有到预热时间。 作为参考，红魔11 Pro系列于去年10月发布，Pro售价4999元起；Pro+售价5699元起。 #今日热点# #红魔11Pro# #红魔11PRO+#",
-      "tags": [
-        "行业",
-        "爆料",
-        "酷安博主"
       ]
     },
     {
@@ -442,26 +522,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-17e9afc5abb3",
-      "title": "遇见砍价的我就说便宜卖了 你骂他们他们不会难受 但是他们没捡到漏可能会真难受 兄弟们 评论区持续更新[受虐滑稽] #iPhone17ProMax# #红米k90promax# #REDMIK100ProMax#",
-      "source": "酷安热榜",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-08-20",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73319686",
-      "image": "",
-      "summary": "遇见砍价的我就说便宜卖了 你骂他们他们不会难受 但是他们没捡到漏可能会真难受 兄弟们 评论区持续更新[受虐滑稽] #iPhone17ProMax# #红米k90promax# #REDMIK100ProMax#",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
       "id": "newsnow-0be1786288d3",
       "title": "iQOO Neo11 至尊版发布：天玑9500M，首销3399元起",
       "source": "酷安热榜",
@@ -477,6 +537,26 @@ window.phoneRadarAuto = {
       "summary": "iQOO Neo11 至尊版发布：天玑9500M，首销3399元起",
       "tags": [
         "vivo",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-e3285c5aebf9",
+      "title": "华为阔直板手机亮相",
+      "source": "微博热搜",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "待验证",
+      "date": "2026-08-20",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://s.weibo.com/weibo?q=%23%E5%8D%8E%E4%B8%BA%E9%98%94%E7%9B%B4%E6%9D%BF%E6%89%8B%E6%9C%BA%E4%BA%AE%E7%9B%B8%23&t=31&band_rank=6&Refer=top",
+      "image": "",
+      "summary": "华为阔直板手机亮相",
+      "tags": [
+        "Huawei",
         "爆料",
         "NewsNow"
       ]
@@ -962,26 +1042,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "weibo-894b9ddc2b80",
-      "title": "数码闲聊站：独家，O阔直板新机大概率是旗舰线，目前评估200Mp大底影像，有潜望长焦，定义…",
-      "source": "数码闲聊站",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-08-19",
-      "time": "07:18",
-      "publishedAt": "2026-08-19T07:18:00.000Z",
-      "url": "https://weibo.com/6048569942/Re7iwBkel",
-      "image": "",
-      "summary": "独家，O阔直板新机大概率是旗舰线，目前评估200Mp大底影像，有潜望长焦，定义很顶级[偷乐]",
-      "tags": [
-        "行业",
-        "爆料",
-        "微博"
-      ]
-    },
-    {
       "id": "auto-e1069c758f4e",
       "title": "Xiaomi 18 Pro, 18 Pro Max receive 3C certification, fast charging speed revealed",
       "source": "Gizmochina",
@@ -1019,26 +1079,6 @@ window.phoneRadarAuto = {
         "Xiaomi",
         "爆料",
         "酷安博主"
-      ]
-    },
-    {
-      "id": "weibo-85a14e2c9790",
-      "title": "数码闲聊站：小米18 Pro系列新机疑入网，各种备案已齐全，大概率首发骁龙2nm旗舰芯，支…",
-      "source": "数码闲聊站",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-08-19",
-      "time": "00:48",
-      "publishedAt": "2026-08-19T00:48:00.000Z",
-      "url": "https://weibo.com/6048569942/Re4Ke99F0",
-      "image": "https://tvax3.sinaimg.cn/mw2000/006BlblIgy1ig8j5pb75ij31a30fw44f.jpg",
-      "summary": "小米18 Pro系列新机疑入网，各种备案已齐全，大概率首发骁龙2nm旗舰芯，支持100W快充，N79 5G频段，UWB超宽带技术，屏幕/影像/性能/外围等硬件全方位升级，期待吗？！[笑而不语]",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "微博"
       ]
     }
   ]

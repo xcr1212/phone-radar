@@ -1,15 +1,15 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-08-20T07:04:54.456Z",
+  "updatedAt": "2026-08-20T08:55:51.821Z",
   "issueDate": "2026-08-20",
   "issue": "VOL.260820",
   "title": "手机情报日报",
-  "intro": "今日筛出 18 条重点，其中 8 条是重点爆料，包含 6 条 iPhone 相关、1 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 20 条重点，其中 8 条是重点爆料，包含 6 条 iPhone 相关、1 条官方确认、1 条参数线索。",
   "stats": {
-    "total": 18,
+    "total": 20,
     "iphone": 6,
     "leaks": 8,
     "official": 1,
-    "specs": 0
+    "specs": 1
   },
   "sections": [
     {
@@ -65,32 +65,6 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
-          "id": "weibo-3efbc442bce0",
-          "title": "数码闲聊站：Magic9系列主打超大底双2亿+阿莱影像 WIN2系列主打2K新直屏+超万级…",
-          "originalTitle": "",
-          "source": "数码闲聊站",
-          "brand": "HONOR",
-          "type": "爆料",
-          "trust": "高关注爆料源",
-          "date": "2026-08-20",
-          "time": "03:07",
-          "publishedAt": "2026-08-20T03:07:00.000Z",
-          "url": "https://weibo.com/6048569942/Ref593nsC",
-          "image": "",
-          "verdict": "先看",
-          "takeaway": "Magic9系列主打超大底双2亿+阿莱影像 WIN2系列主打2K新直屏+超万级大电池+风扇 700系列主打2亿影像+潮流新ID+中屏大电池 X/Power系列主打7英寸级超大屏+行业最大电池",
-          "detail": "Magic9系列主打超大底双2亿+阿莱影像 WIN2系列主打2K新直屏+超万级大电池+风扇 700系列主打2亿影像+潮流新ID+中屏大电池 X/Power系列主打7英寸级超大屏+行业最大电池",
-          "keyPoints": [
-            "影像硬件",
-            "屏幕形态",
-            "电池 / 充电",
-            "爆料来源"
-          ],
-          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
           "id": "newsnow-afcb4b6bd1ba",
           "title": "OPPO发布新一代屏幕双产线技术：Find X10 系列首发搭载",
           "originalTitle": "",
@@ -114,27 +88,71 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
-          "id": "weibo-85a14e2c9790",
-          "title": "数码闲聊站：小米18 Pro系列新机疑入网，各种备案已齐全，大概率首发骁龙2nm旗舰芯，支…",
+          "id": "coolapk-user-a4365d346d46",
+          "title": "JSCHEN小小狐：『消息称小米 18 Pro Max 落地 0916 系大马达』 知名数码博主 数码闲聊站 今日爆料称，小米 18…",
           "originalTitle": "",
-          "source": "数码闲聊站",
+          "source": "JSCHEN小小狐",
           "brand": "Xiaomi",
           "type": "爆料",
-          "trust": "高关注爆料源",
-          "date": "2026-08-19",
-          "time": "00:48",
-          "publishedAt": "2026-08-19T00:48:00.000Z",
-          "url": "https://weibo.com/6048569942/Re4Ke99F0",
-          "image": "https://tvax3.sinaimg.cn/mw2000/006BlblIgy1ig8j5pb75ij31a30fw44f.jpg",
+          "trust": "高可信爆料",
+          "date": "2026-08-20",
+          "time": "08:42",
+          "publishedAt": "2026-08-20T08:42:25.000Z",
+          "url": "https://www.coolapk.com/feed/73341161",
+          "image": "http://image.coolapk.com/feed/2026/0820/16/4702274_12d62d41_5344_4646_683@1440x323.jpg",
           "verdict": "先看",
-          "takeaway": "小米18 Pro系列新机疑入网，各种备案已齐全，大概率首发骁龙2nm旗舰芯，支持100W快充，N79 5G频段，UWB超宽带技术，屏幕/影像/性能/外围等硬件全方位升级，期待吗？！[笑而不语]",
-          "detail": "小米18 Pro系列新机疑入网，各种备案已齐全，大概率首发骁龙2nm旗舰芯，支持100W快充，N79 5G频段，UWB超宽带技术，屏幕/影像/性能/外围等硬件全方位升级，期待吗？！[笑而不语]",
+          "takeaway": "『消息称小米 18 Pro Max 落地 0916 系大马达』 知名数码博主 数码闲聊站 今日爆料称，小米 18 Pro Max 确认落地 0916 系超大 X 轴线性马达。 据悉，去年发布的小米 17 Pro Max 一度将马达由 15 Pro 的 0816 更换为 0809E。而在今年早先的爆料中，小米 18 Pro Max 曾传出正在评估对称式双扬声…",
+          "detail": "『消息称小米 18 Pro Max 落地 0916 系大马达』 知名数码博主 数码闲聊站 今日爆料称，小米 18 Pro Max 确认落地 0916 系超大 X 轴线性马达。 据悉，去年发布的小米 17 Pro Max 一度将马达由 15 Pro 的 0816 更换为 0809E。而在今年早先的爆料中，小米 18 Pro Max 曾传出正在评估对称式双扬声…",
           "keyPoints": [
-            "影像硬件",
-            "屏幕形态",
             "爆料来源"
           ],
           "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "coolapk-user-4c85f00ca4f0",
+          "title": "JSCHEN小小狐：曝 OPPO 开案 68Mp 1:1 方形前摄：明年上市",
+          "originalTitle": "",
+          "source": "JSCHEN小小狐",
+          "brand": "Samsung",
+          "type": "爆料",
+          "trust": "高可信爆料",
+          "date": "2026-08-20",
+          "time": "08:14",
+          "publishedAt": "2026-08-20T08:14:41.000Z",
+          "url": "https://www.coolapk.com/feed/73340682",
+          "image": "http://image.coolapk.com/feed/2026/0820/16/4702274_759216f5_3680_8913_168@1440x425.jpg",
+          "verdict": "先看",
+          "takeaway": "『曝 OPPO 开案 68Mp 1:1 方形前摄：明年上市』 知名数码博主 数码闲聊站 今日爆料称，OPPO 近期开案了一颗 6800 万像素、 1:1 画幅的方形前摄 CMOS，或将搭载于明年的 Reno 系列新机。 据悉，此前 OPPO 已在 Find X10 系列新机上测试 1 亿像素方形前摄。该款 100Mp 1:1 画幅 CMOS 由三星供货，尺…",
+          "detail": "『曝 OPPO 开案 68Mp 1:1 方形前摄：明年上市』 知名数码博主 数码闲聊站 今日爆料称，OPPO 近期开案了一颗 6800 万像素、 1:1 画幅的方形前摄 CMOS，或将搭载于明年的 Reno 系列新机。 据悉，此前 OPPO 已在 Find X10 系列新机上测试 1 亿像素方形前摄。该款 100Mp 1:1 画幅 CMOS 由三星供货，尺…",
+          "keyPoints": [
+            "爆料来源"
+          ],
+          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "coolapk-user-48c8a8a9628a",
+          "title": "竹本青：OriginOS 7 官方爆料：全新锁屏主题",
+          "originalTitle": "",
+          "source": "竹本青",
+          "brand": "vivo",
+          "type": "爆料",
+          "trust": "高可信爆料",
+          "date": "2026-08-20",
+          "time": "07:27",
+          "publishedAt": "2026-08-20T07:27:58.000Z",
+          "url": "https://www.coolapk.com/feed/73339973",
+          "image": "http://image.coolapk.com/feed/2026/0820/15/4248714_b0909da0_0829_2999_315-livepic@1080x2400.jpg",
+          "verdict": "先看",
+          "takeaway": "【OriginOS 7 官方爆料：全新锁屏主题】 「液态主题」抬手一晃就 Duang Duang，随手晃两下；此外，还有水波纹效果。 「闪卡主题」喜欢的角色、舞台和风景，都能变成“电子闪卡”，全部收藏在锁屏里。 配合OS7新的时钟字体，长度、粗细依然可调，为锁屏带来新感觉。 #OriginOS6# #今日热点# #OriginOS7#",
+          "detail": "【OriginOS 7 官方爆料：全新锁屏主题】 「液态主题」抬手一晃就 Duang Duang，随手晃两下；此外，还有水波纹效果。 「闪卡主题」喜欢的角色、舞台和风景，都能变成“电子闪卡”，全部收藏在锁屏里。 配合OS7新的时钟字体，长度、粗细依然可调，为锁屏带来新感觉。 #OriginOS6# #今日热点# #OriginOS7#",
+          "keyPoints": [
+            "爆料来源"
+          ],
+          "confidence": "可信度较高，但仍属于发布前线索。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
@@ -150,7 +168,7 @@ window.phoneRadarDaily = {
           "time": "06:28",
           "publishedAt": "2026-08-20T06:28:33.000Z",
           "url": "https://www.gizmochina.com/2026/08/20/oppo-reno-18-series-68mp-1-1-selfie-camera/",
-          "image": "https://www.gizmochina.com/wp-content/uploads/2026/08/image-85.png?x23692",
+          "image": "https://www.gizmochina.com/wp-content/uploads/2026/07/Oppo-Reno-16-5-1-300x225.jpg?x23692",
           "verdict": "先看",
           "takeaway": "OPPO 影像能力相关宣传或案例，主要看是否透露拍摄能力变化。",
           "detail": "OPPO 影像能力相关消息。重点看影像功能是否和新机硬件有关，如果只是拍摄案例或营销内容，参考价值会低一些。",
@@ -175,34 +193,10 @@ window.phoneRadarDaily = {
           "url": "https://www.coolapk.com/feed/73336995",
           "image": "http://image.coolapk.com/feed/2026/0820/11/4702274_de773d80_7592_7083_668@1440x868.jpg",
           "verdict": "先看",
-          "takeaway": "『荣耀多款新机卖点曝光：Magic9、WIN 2 等』 Magic9 系列： ◇ 至高骁龙 8 Elite Gen6 Pro（SM8975） ◇ 超大底双 2 亿 + 阿莱影像 ◇ 预计 9 月底正式发布 WIN 2 系列： ◇ 至高骁龙 8 Elite Gen6（SM8950） ◇ 6.89''± 2K 185Hz 新直屏 ◇ 10000mAh++ 大电…",
-          "detail": "『荣耀多款新机卖点曝光：Magic9、WIN 2 等』 Magic9 系列： ◇ 至高骁龙 8 Elite Gen6 Pro（SM8975） ◇ 超大底双 2 亿 + 阿莱影像 ◇ 预计 9 月底正式发布 WIN 2 系列： ◇ 至高骁龙 8 Elite Gen6（SM8950） ◇ 6.89''± 2K 185Hz 新直屏 ◇ 10000mAh++ 大电…",
+          "takeaway": "『荣耀多款新机卖点曝光：Magic9、WIN 2 等』 Magic9 系列： ◇ 至高骁龙 8 Elite Gen6 Pro（SM8975） ◇ 超大底双 2 亿 + 阿莱影像 ◇ 预计 9 月底正式发布 WIN 2 系列： ◇ 至高骁龙 8 Elite Gen6 Pro（SM8975） ◇ 6.89''± 2K 185Hz 新直屏 ◇ 10000mAh+…",
+          "detail": "『荣耀多款新机卖点曝光：Magic9、WIN 2 等』 Magic9 系列： ◇ 至高骁龙 8 Elite Gen6 Pro（SM8975） ◇ 超大底双 2 亿 + 阿莱影像 ◇ 预计 9 月底正式发布 WIN 2 系列： ◇ 至高骁龙 8 Elite Gen6 Pro（SM8975） ◇ 6.89''± 2K 185Hz 新直屏 ◇ 10000mAh+…",
           "keyPoints": [
             "影像硬件",
-            "屏幕形态"
-          ],
-          "confidence": "可信度较高，但仍属于发布前线索。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "coolapk-user-728817dc666c",
-          "title": "竹本青：OPPO发布新一代屏幕双产线技术：全链路显示升级",
-          "originalTitle": "",
-          "source": "竹本青",
-          "brand": "OPPO",
-          "type": "爆料",
-          "trust": "高可信爆料",
-          "date": "2026-08-20",
-          "time": "02:02",
-          "publishedAt": "2026-08-20T02:02:41.000Z",
-          "url": "https://www.coolapk.com/feed/73335472",
-          "image": "http://image.coolapk.com/feed/2026/0820/10/4248714_c4a4605a_1359_1818_762@2000x1333.jpg",
-          "verdict": "先看",
-          "takeaway": "【全链路显示升级，OPPO发布新一代屏幕双产线技术】 8月20日，OPPO新一代屏幕双产线技术正式发布。从基材定制到像素级校准，实现全链路显示升级。 RGB三色发光材料全面换新，光谱深度优化，BT.2020色域覆盖率达行业新高，色彩无限接近真实世界。 #今日热点# #ColorOS17# #OPPOFindX10#",
-          "detail": "【全链路显示升级，OPPO发布新一代屏幕双产线技术】 8月20日，OPPO新一代屏幕双产线技术正式发布。从基材定制到像素级校准，实现全链路显示升级。 RGB三色发光材料全面换新，光谱深度优化，BT.2020色域覆盖率达行业新高，色彩无限接近真实世界。 #今日热点# #ColorOS17# #OPPOFindX10#",
-          "keyPoints": [
-            "外观 / 配色 / 尺寸",
             "屏幕形态"
           ],
           "confidence": "可信度较高，但仍属于发布前线索。",
@@ -316,6 +310,29 @@ window.phoneRadarDaily = {
       "hint": "能直接更新到参数库。",
       "items": [
         {
+          "id": "auto-49a4d12c1eaa",
+          "title": "旗舰机型先行：首批 GrapheneOS 摩托罗拉设备预计 2027 年上市",
+          "originalTitle": "",
+          "source": "IT之家",
+          "brand": "Pixel",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-08-20",
+          "time": "08:11",
+          "publishedAt": "2026-08-20T08:11:59.000Z",
+          "url": "https://www.ithome.com/0/992/193.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/8/848b9ce8-5af9-4075-be21-12471b2cebcc.png",
+          "verdict": "先看",
+          "takeaway": "IT之家 8 月 20 日消息，GrapheneOS 官方本月早些时候确认，运行其同名 Android 操作系统发行版的 Motorola（摩托罗拉）设备预计将于 2027 年开始上市。 首批运行 GrapheneOS 的摩托罗拉智能手机将是旗舰机型， 硬件配置和定价均高于 Google（谷歌）Pixel 系列 。 另一方面，由于高通的处理方式和摩托罗拉此…",
+          "detail": "IT之家 8 月 20 日消息，GrapheneOS 官方本月早些时候确认，运行其同名 Android 操作系统发行版的 Motorola（摩托罗拉）设备预计将于 2027 年开始上市。 首批运行 GrapheneOS 的摩托罗拉智能手机将是旗舰机型， 硬件配置和定价均高于 Google（谷歌）Pixel 系列 。 另一方面，由于高通的处理方式和摩托罗拉此…",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "中文源可以直接点开快读；看完只保留和购机有关的点。"
+        },
+        {
           "id": "newsnow-0be1786288d3",
           "title": "iQOO Neo11 至尊版发布：天玑9500M，首销3399元起",
           "originalTitle": "",
@@ -335,6 +352,29 @@ window.phoneRadarDaily = {
             "爆料"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        },
+        {
+          "id": "coolapk-user-944917363173",
+          "title": "竹本青：【鸿蒙智行累计交付破150万台，成为最快达成该交付规模的中国新势力品牌】 8月20日，在享界G9及鸿蒙智行新品发布…",
+          "originalTitle": "",
+          "source": "竹本青",
+          "brand": "Huawei",
+          "type": "爆料",
+          "trust": "高可信爆料",
+          "date": "2026-08-20",
+          "time": "07:53",
+          "publishedAt": "2026-08-20T07:53:53.000Z",
+          "url": "https://www.coolapk.com/feed/73340370",
+          "image": "http://image.coolapk.com/feed/2026/0820/15/4248714_5cd913eb_2432_4974_803@2160x2016.jpg",
+          "verdict": "扫一眼",
+          "takeaway": "【鸿蒙智行累计交付破150万台，成为最快达成该交付规模的中国新势力品牌】 8月20日，在享界G9及鸿蒙智行新品发布会上，华为高管余承东宣布：截至8月16日，仅用53个月，鸿蒙智行全系累计交付量已正式突破150万辆，成为最快达成该交付规模的中国新势力品牌。 据介绍，鸿蒙智行依托华为终端全流程主导、全栈技术赋能、全生命周期管理，构建研发、技术、质量、服务等全链…",
+          "detail": "【鸿蒙智行累计交付破150万台，成为最快达成该交付规模的中国新势力品牌】 8月20日，在享界G9及鸿蒙智行新品发布会上，华为高管余承东宣布：截至8月16日，仅用53个月，鸿蒙智行全系累计交付量已正式突破150万辆，成为最快达成该交付规模的中国新势力品牌。 据介绍，鸿蒙智行依托华为终端全流程主导、全栈技术赋能、全生命周期管理，构建研发、技术、质量、服务等全链…",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "可信度较高，但仍属于发布前线索。",
           "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         },
@@ -364,56 +404,40 @@ window.phoneRadarDaily = {
       ]
     },
     {
+      "id": "specs",
+      "title": "参数、跑分、认证",
+      "hint": "适合验证芯片、屏幕、影像和电池。",
+      "items": [
+        {
+          "id": "auto-c56a7885ef59",
+          "title": "2026 年，手机厂商为什么非做 Pocket 不可？｜硬哲学",
+          "originalTitle": "",
+          "source": "爱范儿",
+          "brand": "行业",
+          "type": "评测",
+          "trust": "媒体汇总",
+          "date": "2026-08-20",
+          "time": "07:55",
+          "publishedAt": "2026-08-20T07:55:24.000Z",
+          "url": "https://www.ifanr.com/1675750?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "image": "https://s3.ifanr.com/wp-content/uploads/2026/08/8-360x203.jpg",
+          "verdict": "扫一眼",
+          "takeaway": "参数之外，手机厂商有机会重写体验",
+          "detail": "参数之外，手机厂商有机会重写体验",
+          "keyPoints": [
+            "评测"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是实际体验内容，买前适合重点看缺点和取舍。",
+          "action": "中文源可以直接点开快读；看完只保留和购机有关的点。"
+        }
+      ]
+    },
+    {
       "id": "market",
       "title": "行业趋势",
       "hint": "看方向，不急着当购买依据。",
       "items": [
-        {
-          "id": "auto-89451719d70a",
-          "title": "谷歌 Pixel 11 系列手机上线自定义振动功能，可给联系人设置专属振动",
-          "originalTitle": "",
-          "source": "IT之家",
-          "brand": "Pixel",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-08-20",
-          "time": "04:33",
-          "publishedAt": "2026-08-20T04:33:43.000Z",
-          "url": "https://www.ithome.com/0/992/069.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/8/e29ab346-5444-4841-98bf-dc13c0362d2e.jpg?x-bce-process=image/format,f_auto",
-          "verdict": "先看",
-          "takeaway": "IT之家 8 月 20 日消息，谷歌悄悄在 Pixel 11 系列手机上推出了自定义振动模式功能，让用户可以更加自由地控制手机在来电和通知时的振动方式。 如果想自定义 Pixel 11 来电铃声的振动方式，可以进入“设置 > 声音和振动 > 电话铃声 > 振动”。谷歌会根据用户当前选择的铃声，自动推荐一种振动模式，因此用户无需自己反复尝试哪种组合更加合适。…",
-          "detail": "IT之家 8 月 20 日消息，谷歌悄悄在 Pixel 11 系列手机上推出了自定义振动模式功能，让用户可以更加自由地控制手机在来电和通知时的振动方式。 如果想自定义 Pixel 11 来电铃声的振动方式，可以进入“设置 > 声音和振动 > 电话铃声 > 振动”。谷歌会根据用户当前选择的铃声，自动推荐一种振动模式，因此用户无需自己反复尝试哪种组合更加合适。…",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "中文源可以直接点开快读；看完只保留和购机有关的点。"
-        },
-        {
-          "id": "newsnow-17e9afc5abb3",
-          "title": "遇见砍价的我就说便宜卖了 你骂他们他们不会难受 但是他们没捡到漏可能会真难受 兄弟们 评论区持续更新[受虐滑稽] #iPhone17ProMax# #红米k90promax# #REDMIK100ProMax#",
-          "originalTitle": "",
-          "source": "酷安热榜",
-          "brand": "Xiaomi",
-          "type": "爆料",
-          "trust": "高关注爆料源",
-          "date": "2026-08-20",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://www.coolapk.com/feed/73319686",
-          "image": "",
-          "verdict": "先看",
-          "takeaway": "遇见砍价的我就说便宜卖了 你骂他们他们不会难受 但是他们没捡到漏可能会真难受 兄弟们 评论区持续更新[受虐滑稽] #iPhone17ProMax# #红米k90promax# #REDMIK100ProMax#",
-          "detail": "遇见砍价的我就说便宜卖了 你骂他们他们不会难受 但是他们没捡到漏可能会真难受 兄弟们 评论区持续更新[受虐滑稽] #iPhone17ProMax# #红米k90promax# #REDMIK100ProMax#",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
         {
           "id": "coolapk-user-603904eada97",
           "title": "JSCHEN小小狐：轨道交通的魅力， 从靠近的那一刻，便悄然开始。 #手机摄影#",
@@ -436,6 +460,29 @@ window.phoneRadarDaily = {
           "confidence": "可信度较高，但仍属于发布前线索。",
           "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        },
+        {
+          "id": "auto-16b07edb2182",
+          "title": "Galaxy S27 芯片 / 性能相关消息",
+          "originalTitle": "",
+          "source": "SamMobile",
+          "brand": "Samsung",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-08-20",
+          "time": "07:21",
+          "publishedAt": "2026-08-20T07:21:24.000Z",
+          "url": "https://www.sammobile.com/news/galaxy-s27-snapdragon-chip-teased-as-qualcomm-confirms-two-new-flagships/",
+          "image": "",
+          "verdict": "可略过",
+          "takeaway": "Samsung 芯片或连接能力相关线索，可能影响性能和续航判断。",
+          "detail": "Galaxy S27 芯片 / 性能相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
+          "keyPoints": [
+            "芯片 / 性能"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "影响性能和寿命判断，适合放进参数库。",
+          "action": "有具体参数就记录到参数库；没有参数就先收藏。"
         },
         {
           "id": "auto-854e023ff38b",
