@@ -1,5 +1,5 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-08-20T13:09:47.714Z",
+  "updatedAt": "2026-08-20T14:53:50.472Z",
   "issueDate": "2026-08-20",
   "issue": "VOL.260820",
   "title": "手机情报日报",
@@ -248,21 +248,21 @@ window.phoneRadarDaily = {
       "hint": "看方向，不急着当购买依据。",
       "items": [
         {
-          "id": "auto-83c0469a9bc6",
-          "title": "华为 nova 16 SE 手机计划 9 月开启鸿蒙 HarmonyOS 7 花粉 Beta 招募",
+          "id": "auto-5211e0421d61",
+          "title": "曝周杰伦将代言 vivo 手机，广告片拍摄现场画面曝光",
           "originalTitle": "",
           "source": "IT之家",
-          "brand": "Huawei",
+          "brand": "vivo",
           "type": "爆料",
           "trust": "媒体汇总",
           "date": "2026-08-20",
-          "time": "10:17",
-          "publishedAt": "2026-08-20T10:17:48.000Z",
-          "url": "https://www.ithome.com/0/992/255.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/8/09b870e7-4939-40cb-a4cf-e3350022232a.jpg",
+          "time": "13:54",
+          "publishedAt": "2026-08-20T13:54:48.000Z",
+          "url": "https://www.ithome.com/0/992/367.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/8/75a8557a-049c-4d83-af9c-a4bc48d1782a.jpg",
           "verdict": "先看",
-          "takeaway": "IT之家 8 月 20 日消息，华为官方今日放出了鸿蒙 HarmonyOS 7 花粉 Beta 招募计划。目前，新版本系统已支持 Mate 80、Pura 90、nova 16、MatePad Edge、MateBook Fold 非凡大师等机型 Beta 尝鲜。 IT之家注意到，在官方宣传海报中提到， nova 16 SE 计划在 9 月开启鸿蒙 Har…",
-          "detail": "IT之家 8 月 20 日消息，华为官方今日放出了鸿蒙 HarmonyOS 7 花粉 Beta 招募计划。目前，新版本系统已支持 Mate 80、Pura 90、nova 16、MatePad Edge、MateBook Fold 非凡大师等机型 Beta 尝鲜。 IT之家注意到，在官方宣传海报中提到， nova 16 SE 计划在 9 月开启鸿蒙 Har…",
+          "takeaway": "IT之家 8 月 20 日消息，据博主 @周杰伦的床边故事推广大使 分享，周杰伦正在给 vivo 手机拍摄广告片。有网友询问周杰伦是否会代言 vivo 手机，博主称：“ 应该是，等官宣。 ” IT之家注意到，周杰伦此次广告片的拍摄现场画面也已曝光。 值得一提的是，博主分享的广告片画面中，周杰伦手持着一台后摄采用大圆模组设计（看起来模组内有 4 到 5 个开…",
+          "detail": "IT之家 8 月 20 日消息，据博主 @周杰伦的床边故事推广大使 分享，周杰伦正在给 vivo 手机拍摄广告片。有网友询问周杰伦是否会代言 vivo 手机，博主称：“ 应该是，等官宣。 ” IT之家注意到，周杰伦此次广告片的拍摄现场画面也已曝光。 值得一提的是，博主分享的广告片画面中，周杰伦手持着一台后摄采用大圆模组设计（看起来模组内有 4 到 5 个开…",
           "keyPoints": [
             "爆料"
           ],

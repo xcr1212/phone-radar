@@ -1,6 +1,86 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-08-20T13:09:47.714Z",
+  "updatedAt": "2026-08-20T14:53:50.472Z",
   "news": [
+    {
+      "id": "auto-7be7ad3881d9",
+      "title": "iPhone 18 won’t launch next month, here’s when it’s coming instead",
+      "source": "9to5Mac",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-20",
+      "time": "14:02",
+      "publishedAt": "2026-08-20T14:02:14.000Z",
+      "url": "https://9to5mac.com/2026/08/20/iphone-18-wont-launch-next-month-heres-when-its-coming-instead/",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/12/iphone-17-black.jpg?quality=82&strip=all&w=1600",
+      "summary": "Apple’s big September event is just weeks away, but there’s one key product that all reporting indicates will be missing: the base iPhone 18. Here’s when to expect its launch.",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-03862ca08788",
+      "title": "Huawei Pura X View vs Pura X Max: Major Differences",
+      "source": "Huawei Central",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-20",
+      "time": "14:00",
+      "publishedAt": "2026-08-20T14:00:00.000Z",
+      "url": "https://www.huaweicentral.com/huawei-pura-x-view-vs-pura-x-max-major-differences/",
+      "image": "https://www.huaweicentral.com/wp-content/uploads/2026/08/PuraX-View-vs-Pura-X-Max.jpg",
+      "summary": "Huawei Pura X View has become a big headline right after its first glimpse on the stage, and here are some major differences between the new wide non-fold smartphone and the Pura…",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-5211e0421d61",
+      "title": "曝周杰伦将代言 vivo 手机，广告片拍摄现场画面曝光",
+      "source": "IT之家",
+      "brand": "vivo",
+      "model": "vivo 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-20",
+      "time": "13:54",
+      "publishedAt": "2026-08-20T13:54:48.000Z",
+      "url": "https://www.ithome.com/0/992/367.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/8/75a8557a-049c-4d83-af9c-a4bc48d1782a.jpg",
+      "summary": "IT之家 8 月 20 日消息，据博主 @周杰伦的床边故事推广大使 分享，周杰伦正在给 vivo 手机拍摄广告片。有网友询问周杰伦是否会代言 vivo 手机，博主称：“ 应该是，等官宣。 ” IT之家注意到，周杰伦此次广告片的拍摄现场画面也已曝光。 值得一提的是，博主分享的广告片画面中，周杰伦手持着一台后摄采用大圆模组设计（看起来模组内有 4 到 5 个开…",
+      "tags": [
+        "vivo",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-d028c05dbf53",
+      "title": "The wide-screen phone trend is expanding beyond foldables",
+      "source": "Android Authority",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-20",
+      "time": "13:28",
+      "publishedAt": "2026-08-20T13:28:58.000Z",
+      "url": "https://www.androidauthority.com/huawei-pura-x-view-launch-3701064/",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2026/08/HUAWEI-Pura-X-View_1.jpg",
+      "summary": "HUAWEI's new Pura X View brings a wide 16:9.5 display aspect ratio to traditional glass-slab smartphones.",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-4984eddb764f",
       "title": "Camera Looks on the Pixel 11 delivers what I’ve wanted from Google’s photos for years",
@@ -23,7 +103,7 @@ window.phoneRadarAuto = {
     },
     {
       "id": "coolapk-user-876f5c577c9c",
-      "title": "竹本青：【滴滴升级线下司机服务门店体系，首家司机服务旗舰店正式启用】 据滴滴官方今天消息，全国首家滴滴司机服务授权旗舰店，…",
+      "title": "竹本青：全国首家滴滴司机服务授权旗舰店正式投入使用",
       "source": "竹本青",
       "brand": "行业",
       "model": "智能手机市场",
@@ -337,26 +417,6 @@ window.phoneRadarAuto = {
       "summary": "The wait is over as Huawei has showcased its first wide-screen smartphone – the Pura X View. The mid-sized device with an extremely broad display claims to deliver a formidable ex…",
       "tags": [
         "Huawei",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-1457e56cb9e7",
-      "title": "索尼 Xperia 新品发布会定档 8 月 25 日",
-      "source": "IT之家",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-20",
-      "time": "09:29",
-      "publishedAt": "2026-08-20T09:29:16.000Z",
-      "url": "https://www.ithome.com/0/992/231.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/8/c74254aa-3f62-4c38-adf2-d3b32f9ee873.jpg",
-      "summary": "IT之家 8 月 20 日消息，Sony（索尼）Xperia 官方今日宣布将于北京时间 2026 年 8 月 25 日 10:00 举行 Xperia 新品发布活动。 从时间点上来看， 即将发布的新设备应该是中端智能手机系列 Xperia 10 的迭代机型 。上代 Xperia 10 VII 发布于 2025 年 9 月，基于高通骁龙 6 Gen 3 移动…",
-      "tags": [
-        "行业",
         "爆料",
         "自动抓取"
       ]
@@ -962,7 +1022,7 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-51544c9b1226",
+      "id": "newsnow-215a33bf4cf2",
       "title": "华为PuraXView",
       "source": "微博热搜",
       "brand": "Huawei",
@@ -972,7 +1032,7 @@ window.phoneRadarAuto = {
       "date": "2026-08-20",
       "time": "",
       "publishedAt": "",
-      "url": "https://s.weibo.com/weibo?q=%E5%8D%8E%E4%B8%BAPuraXView&t=31&band_rank=25&Refer=top",
+      "url": "https://s.weibo.com/weibo?q=%E5%8D%8E%E4%B8%BAPuraXView&t=31&band_rank=19&Refer=top",
       "image": "",
       "summary": "华为PuraXView",
       "tags": [
@@ -1042,26 +1102,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-5338ec8b679f",
-      "title": "华为阔直板手机",
-      "source": "百度热搜",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-20",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.baidu.com/s?wd=%E5%8D%8E%E4%B8%BA%E9%98%94%E7%9B%B4%E6%9D%BF%E6%89%8B%E6%9C%BA",
-      "image": "",
-      "summary": "华为阔直板手机",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
       "id": "newsnow-6a73d81963cb",
       "title": "华为发布阔直板手机",
       "source": "抖音热点",
@@ -1075,6 +1115,26 @@ window.phoneRadarAuto = {
       "url": "https://www.douyin.com/hot/2617292",
       "image": "",
       "summary": "华为发布阔直板手机",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-7fd7cb8fdc15",
+      "title": "华为阔直板手机首发开箱",
+      "source": "抖音热点",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "待验证",
+      "date": "2026-08-20",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.douyin.com/hot/2617436",
+      "image": "",
+      "summary": "华为阔直板手机首发开箱",
       "tags": [
         "Huawei",
         "爆料",
