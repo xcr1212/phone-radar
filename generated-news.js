@@ -1,6 +1,186 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-08-20T10:46:00.858Z",
+  "updatedAt": "2026-08-20T13:09:47.714Z",
   "news": [
+    {
+      "id": "auto-4984eddb764f",
+      "title": "Camera Looks on the Pixel 11 delivers what I’ve wanted from Google’s photos for years",
+      "source": "9to5Google",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-20",
+      "time": "13:00",
+      "publishedAt": "2026-08-20T13:00:00.000Z",
+      "url": "https://9to5google.com/2026/08/20/google-pixel-11-camera-looks-thoughts-impressions-results/",
+      "image": "",
+      "summary": "The Pixel 11 lineup has earned its reputation as a safe upgrade — or boring, if you’re looking to be a little less generous to Google — but it’s delivering one thing I’ve been beg…",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-876f5c577c9c",
+      "title": "竹本青：【滴滴升级线下司机服务门店体系，首家司机服务旗舰店正式启用】 据滴滴官方今天消息，全国首家滴滴司机服务授权旗舰店，…",
+      "source": "竹本青",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-08-20",
+      "time": "12:55",
+      "publishedAt": "2026-08-20T12:55:09.000Z",
+      "url": "https://www.coolapk.com/feed/73345343",
+      "image": "http://image.coolapk.com/feed/2026/0820/20/4248714_dda2c9e6_0344_3929_983@1280x742.jpg",
+      "summary": "【滴滴升级线下司机服务门店体系，首家司机服务旗舰店正式启用】 据滴滴官方今天消息，全国首家滴滴司机服务授权旗舰店，近日已在杭州正式投入使用。伴随杭州旗舰店的启用和深圳、上海旗舰店的试运营，滴滴三层立体的线下司机服务门店体系正式完成升级。 滴滴司机服务授权旗舰店聚焦“司机问题面对面解决”、“休憩补给”、“保障与关怀”、“新司机出车指导”四大核心功能，围绕司机…",
+      "tags": [
+        "行业",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-9625338e3894",
+      "title": "Fake Cases Hint at New Clear and TechWoven Colors for iPhone 18 Pro",
+      "source": "MacRumors",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-20",
+      "time": "11:59",
+      "publishedAt": "2026-08-20T11:59:35.000Z",
+      "url": "https://www.macrumors.com/2026/08/20/new-clear-and-techwoven-cases-for-iphone-18-pro/",
+      "image": "https://images.macrumors.com/article-new/2026/08/iphone-18-pro-max-case-techwoven-duanrui.jpg",
+      "summary": "The leaker known as \" DuanRui \" today shared video and images of cases designed for the iPhone 18 Pro Max, potentially offering an early look at some of the new color options for…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-67d778e27d7d",
+      "title": "华为把 Pura X 掰直了，一台阔直板手机来了",
+      "source": "爱范儿",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-08-20",
+      "time": "11:59",
+      "publishedAt": "2026-08-20T11:59:11.000Z",
+      "url": "https://www.ifanr.com/1675859?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "image": "https://s3.ifanr.com/images/ep/uploads/xview/303ae911-7be6-44ab-b299-3e192782b5da.png",
+      "summary": "这是一台不需要展开的手机，只靠更宽的屏幕，多装一些内容，就能凭空创造出新的需求。",
+      "tags": [
+        "Huawei",
+        "评测",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-da9080dbc086",
+      "title": "Huawei Pura X View pre-order begins with three storage options",
+      "source": "Huawei Central",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-20",
+      "time": "11:53",
+      "publishedAt": "2026-08-20T11:53:07.000Z",
+      "url": "https://www.huaweicentral.com/huawei-pura-x-view-pre-order-begins-with-three-storage-options/",
+      "image": "https://www.huaweicentral.com/wp-content/uploads/2026/08/Pura-X-View-pre-order.jpg",
+      "summary": "Huawei has opened the gates of the Pura X View pre-order activity on the official VMall and JD.com stores. Interested consumers can visit these online retail channels and place an…",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-993cccff77c6",
+      "title": "Omdia 预测：折叠屏智能手机 2028 年出货量将达 2025 年的 2 倍",
+      "source": "IT之家",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-20",
+      "time": "11:33",
+      "publishedAt": "2026-08-20T11:33:42.000Z",
+      "url": "https://www.ithome.com/0/992/323.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/8/c9786d1f-3beb-44ab-947f-8451e0d6a3ae.png?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 8 月 20 日消息，Omdia 今日发布预测，认为全球折叠屏智能手机市场将在 2025 年的减速后短期内回归高速增长轨道：这一细分领域 有望在 2026~2028 年持续实现 20+% 出货年增幅 ；到 2028 年规模达 3600 万部。 ▲ 图源：Omdia Omdia 的数据显示，2025 年折叠屏智能手机出货量达 1820 万部（ 这意…",
+      "tags": [
+        "行业",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-85ef983e2cbe",
+      "title": "Strong iPhone Sales Are Giving Samsung Display a Big OLED Boost",
+      "source": "MacRumors",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-20",
+      "time": "11:10",
+      "publishedAt": "2026-08-20T11:10:55.000Z",
+      "url": "https://www.macrumors.com/2026/08/20/strong-iphone-sales-boosting-samsung-oled/",
+      "image": "https://images.macrumors.com/article-new/2022/09/iPhone-14-Pro-Display-Two-Times-Brighter-Feature.jpg",
+      "summary": "Strong iPhone sales have helped boost flexible OLED display shipments from Samsung Display so far this year, according to a report from The Elec . Samsung shipped approximately 12…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-fdbfa007ec50",
+      "title": "Huawei Pura X View launches as world’s first wide-screen candybar phone: 1.05 mm bezels, 7,000mAh battery, 6.68mm thickness",
+      "source": "Gizmochina",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-20",
+      "time": "11:08",
+      "publishedAt": "2026-08-20T11:08:35.000Z",
+      "url": "https://www.gizmochina.com/2026/08/20/huawei-pura-x-view-launches-as-worlds-first-wide-screen-candybar-phone-1-05-mm-bezels-7000mah-battery-6-68mm-thickness/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/08/huawei-pura-x-view-kv-xs-300x169.jpg?x23692",
+      "summary": "Huawei has just introduced a new form factor to the smartphone market, a wider screen experience in a regular non-folding design. Today, August 20, the company officially launched…",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-c3aebb9e5dcc",
+      "title": "Pura X View is first Huawei phone to debut with HarmonyOS 7",
+      "source": "Huawei Central",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-20",
+      "time": "11:00",
+      "publishedAt": "2026-08-20T11:00:54.000Z",
+      "url": "https://www.huaweicentral.com/pura-x-view-is-first-huawei-phone-to-debut-with-harmonyos-7/",
+      "image": "https://www.huaweicentral.com/wp-content/uploads/2026/08/HarmonyOS-7.jpg",
+      "summary": "Huawei Pura X View debuted today at the Enjoy G9 launch event, and it is the first smartphone to feature HarmonyOS 7.0. While the new software iteration was in the news to go offi…",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-60079e438c5e",
       "title": "索尼 Xperia 10 VIII 现身 Geekbench，仍搭载高通骁龙 6 Gen 3 处理器",
@@ -254,7 +434,7 @@ window.phoneRadarAuto = {
       "publishedAt": "2026-08-20T08:42:25.000Z",
       "url": "https://www.coolapk.com/feed/73341161",
       "image": "http://image.coolapk.com/feed/2026/0820/16/4702274_12d62d41_5344_4646_683@1440x323.jpg",
-      "summary": "『消息称小米 18 Pro Max 落地 0916 系大马达』 知名数码博主 数码闲聊站 今日爆料称，小米 18 Pro Max 确认落地 0916 系超大 X 轴线性马达。 据悉，去年发布的小米 17 Pro Max 一度将马达由 15 Pro 的 0816 更换为 0809E。而今年早些时候的爆料中，小米 18 Pro Max 曾传出有评估对称式双扬声…",
+      "summary": "『消息称小米 18 Pro Max 落地 0916 系大马达』 知名数码博主 数码闲聊站 今日爆料称，小米 18 Pro Max 确认落地 0916 系超大 X 轴线性马达。 据悉，去年发布的小米 17 Pro Max 一度将马达由 15 Pro 的 0816 更换为 0809E。而在今年早些时候的爆料中，小米 18 Pro Max 曾传出有评估对称式双扬…",
       "tags": [
         "Xiaomi",
         "爆料",
@@ -279,26 +459,6 @@ window.phoneRadarAuto = {
         "Samsung",
         "爆料",
         "酷安博主"
-      ]
-    },
-    {
-      "id": "auto-49a4d12c1eaa",
-      "title": "旗舰机型先行：首批 GrapheneOS 摩托罗拉设备预计 2027 年上市",
-      "source": "IT之家",
-      "brand": "Pixel",
-      "model": "Pixel 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-20",
-      "time": "08:11",
-      "publishedAt": "2026-08-20T08:11:59.000Z",
-      "url": "https://www.ithome.com/0/992/193.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/8/848b9ce8-5af9-4075-be21-12471b2cebcc.png",
-      "summary": "IT之家 8 月 20 日消息，GrapheneOS 官方本月早些时候确认，运行其同名 Android 操作系统发行版的 Motorola（摩托罗拉）设备预计将于 2027 年开始上市。 首批运行 GrapheneOS 的摩托罗拉智能手机将是旗舰机型， 硬件配置和定价均高于 Google（谷歌）Pixel 系列 。 另一方面，由于高通的处理方式和摩托罗拉此…",
-      "tags": [
-        "Pixel",
-        "爆料",
-        "自动抓取"
       ]
     },
     {
@@ -339,26 +499,6 @@ window.phoneRadarAuto = {
         "行业",
         "评测",
         "自动抓取"
-      ]
-    },
-    {
-      "id": "coolapk-user-944917363173",
-      "title": "竹本青：【鸿蒙智行累计交付破150万台，成为最快达成该交付规模的中国新势力品牌】 8月20日，在享界G9及鸿蒙智行新品发布…",
-      "source": "竹本青",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-08-20",
-      "time": "07:53",
-      "publishedAt": "2026-08-20T07:53:53.000Z",
-      "url": "https://www.coolapk.com/feed/73340370",
-      "image": "http://image.coolapk.com/feed/2026/0820/15/4248714_5cd913eb_2432_4974_803@2160x2016.jpg",
-      "summary": "【鸿蒙智行累计交付破150万台，成为最快达成该交付规模的中国新势力品牌】 8月20日，在享界G9及鸿蒙智行新品发布会上，华为高管余承东宣布：截至8月16日，仅用53个月，鸿蒙智行全系累计交付量已正式突破150万辆，成为最快达成该交付规模的中国新势力品牌。 据介绍，鸿蒙智行依托华为终端全流程主导、全栈技术赋能、全生命周期管理，构建研发、技术、质量、服务等全链…",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "酷安博主"
       ]
     },
     {
@@ -762,26 +902,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-afcb4b6bd1ba",
-      "title": "OPPO发布新一代屏幕双产线技术：Find X10 系列首发搭载",
-      "source": "酷安热榜",
-      "brand": "OPPO",
-      "model": "OPPO 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-08-20",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73335539",
-      "image": "",
-      "summary": "OPPO发布新一代屏幕双产线技术：Find X10 系列首发搭载",
-      "tags": [
-        "OPPO",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
       "id": "newsnow-5026e7765582",
       "title": "华为Pura X View 阔直屏亮相：28日开启门店体验",
       "source": "酷安热榜",
@@ -822,27 +942,27 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-0be1786288d3",
-      "title": "iQOO Neo11 至尊版发布：天玑9500M，首销3399元起",
+      "id": "newsnow-afcb4b6bd1ba",
+      "title": "OPPO发布新一代屏幕双产线技术：Find X10 系列首发搭载",
       "source": "酷安热榜",
-      "brand": "vivo",
-      "model": "vivo 相关机型",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-08-20",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73311738",
+      "url": "https://www.coolapk.com/feed/73335539",
       "image": "",
-      "summary": "iQOO Neo11 至尊版发布：天玑9500M，首销3399元起",
+      "summary": "OPPO发布新一代屏幕双产线技术：Find X10 系列首发搭载",
       "tags": [
-        "vivo",
+        "OPPO",
         "爆料",
         "NewsNow"
       ]
     },
     {
-      "id": "newsnow-5026d6e3c0f7",
+      "id": "newsnow-51544c9b1226",
       "title": "华为PuraXView",
       "source": "微博热搜",
       "brand": "Huawei",
@@ -852,7 +972,7 @@ window.phoneRadarAuto = {
       "date": "2026-08-20",
       "time": "",
       "publishedAt": "",
-      "url": "https://s.weibo.com/weibo?q=%E5%8D%8E%E4%B8%BAPuraXView&t=31&band_rank=5&Refer=top",
+      "url": "https://s.weibo.com/weibo?q=%E5%8D%8E%E4%B8%BAPuraXView&t=31&band_rank=25&Refer=top",
       "image": "",
       "summary": "华为PuraXView",
       "tags": [
@@ -862,22 +982,22 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-1434bab57834",
-      "title": "华为阔直板手机亮相",
-      "source": "微博热搜",
+      "id": "newsnow-39f0016cca4a",
+      "title": "如何评价华为发布阔直板？为什么华为和苹果都在把手机做阔？",
+      "source": "知乎热榜",
       "brand": "Huawei",
       "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "待验证",
+      "type": "市场报告",
+      "trust": "媒体汇总",
       "date": "2026-08-20",
       "time": "",
       "publishedAt": "",
-      "url": "https://s.weibo.com/weibo?q=%23%E5%8D%8E%E4%B8%BA%E9%98%94%E7%9B%B4%E6%9D%BF%E6%89%8B%E6%9C%BA%E4%BA%AE%E7%9B%B8%23&t=31&band_rank=27&Refer=top",
+      "url": "https://www.zhihu.com/question/2073734322373267652",
       "image": "",
-      "summary": "华为阔直板手机亮相",
+      "summary": "如何评价华为发布阔直板？为什么华为和苹果都在把手机做阔？",
       "tags": [
         "Huawei",
-        "爆料",
+        "市场报告",
         "NewsNow"
       ]
     },
@@ -902,9 +1022,9 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-7d923e7bfea3",
-      "title": "女生吵架后扔礼物 内有手机和金项链",
-      "source": "今日头条热榜",
+      "id": "newsnow-aa02d6af6417",
+      "title": "大数据杀熟 3台手机竟显示3个价格",
+      "source": "百度热搜",
       "brand": "行业",
       "model": "智能手机市场",
       "type": "爆料",
@@ -912,9 +1032,9 @@ window.phoneRadarAuto = {
       "date": "2026-08-20",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.toutiao.com/trending/7676032499759202323/",
+      "url": "https://www.baidu.com/s?wd=%E5%A4%A7%E6%95%B0%E6%8D%AE%E6%9D%80%E7%86%9F+3%E5%8F%B0%E6%89%8B%E6%9C%BA%E7%AB%9F%E6%98%BE%E7%A4%BA3%E4%B8%AA%E4%BB%B7%E6%A0%BC",
       "image": "",
-      "summary": "女生吵架后扔礼物 内有手机和金项链",
+      "summary": "大数据杀熟 3台手机竟显示3个价格",
       "tags": [
         "行业",
         "爆料",
@@ -1399,26 +1519,6 @@ window.phoneRadarAuto = {
         "行业",
         "爆料",
         "微博"
-      ]
-    },
-    {
-      "id": "auto-e1069c758f4e",
-      "title": "Xiaomi 18 Pro, 18 Pro Max receive 3C certification, fast charging speed revealed",
-      "source": "Gizmochina",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-19",
-      "time": "06:36",
-      "publishedAt": "2026-08-19T06:36:10.000Z",
-      "url": "https://www.gizmochina.com/2026/08/19/xiaomi-18-pro-series-3c-certified/",
-      "image": "https://www.gizmochina.com/wp-content/uploads/2025/09/Xiaomi-17-Pro-Max-Review_1.mp4_20250930_164941.855-300x150.jpg?x23692",
-      "summary": "Xiaomi appears to be preparing its next major flagship launch, with the Xiaomi 18 Pro series now moving closer to its expected debut. The latest development has revealed some key…",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "自动抓取"
       ]
     },
     {
