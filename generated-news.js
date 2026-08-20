@@ -1,6 +1,186 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-08-20T16:49:36.675Z",
+  "updatedAt": "2026-08-20T18:58:08.587Z",
   "news": [
+    {
+      "id": "auto-fd52485ddad1",
+      "title": "Google’s got some new Pixel 11 videos for the big release day",
+      "source": "Android Authority",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-20",
+      "time": "18:56",
+      "publishedAt": "2026-08-20T18:56:39.000Z",
+      "url": "https://www.androidauthority.com/google-pixel-11-videos-3701248/",
+      "image": "",
+      "summary": "Google hypes up the Pixel 11 Pro in trio of new promo spots.",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-ccb7cc402909",
+      "title": "Your Galaxy Z Fold 8 may have a little hinge play, and that can be normal",
+      "source": "SamMobile",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-20",
+      "time": "18:39",
+      "publishedAt": "2026-08-20T18:39:45.000Z",
+      "url": "https://www.sammobile.com/news/samsung-galaxy-z-fold-8-may-have-little-hinge-play-normal/",
+      "image": "",
+      "summary": "You may have noticed something slightly odd about your Galaxy Z Fold 8 when it is closed. If you hold the bottom half firmly and push the upper half up or down from one of the out…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-0b1680e23a34",
+      "title": "Google releases Pixel 11 series factory images",
+      "source": "9to5Google",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-20",
+      "time": "18:14",
+      "publishedAt": "2026-08-20T18:14:42.000Z",
+      "url": "https://9to5google.com/2026/08/20/pixel-11-factory-images/",
+      "image": "",
+      "summary": "With the Pixel 11 series hitting store shelves today, Google has released factory images for all the devices.",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-f31b0c06b1c5",
+      "title": "The preorder period may be over, but you can still get a FREE Google Pixel 11 with this Verizon deal",
+      "source": "Android Central",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-08-20",
+      "time": "17:39",
+      "publishedAt": "2026-08-20T17:39:51.000Z",
+      "url": "https://www.androidcentral.com/phones/google-pixel/the-preorder-period-may-be-over-but-you-can-still-get-a-free-google-pixel-11-with-this-verizon-deal",
+      "image": "https://cdn.mos.cms.futurecdn.net/khF2n62C8Z2iVYcupgEsih-1280-80.jpg",
+      "summary": "Release day has arrived, and there are already some Pixel 11 deals that could make the flagship phones completely free.",
+      "tags": [
+        "Pixel",
+        "评测",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-a793b8011ea0",
+      "title": "Galaxy S26 FE breaks cover in new case leak",
+      "source": "Android Authority",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-20",
+      "time": "17:36",
+      "publishedAt": "2026-08-20T17:36:29.000Z",
+      "url": "https://www.androidauthority.com/galaxy-s26-fe-cases-leaks-3701222/",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2025/09/Samsung-Galaxy-S25-FE-in-Navy-standing-in-front-of-plant.jpg",
+      "summary": "Get a good look at the Galaxy S26 FE's cases.",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-145e64d890bf",
+      "title": "The Pixel 11 reminded me why I stopped getting excited about phone upgrades",
+      "source": "Android Police",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-20",
+      "time": "17:30",
+      "publishedAt": "2026-08-20T17:30:10.000Z",
+      "url": "https://www.androidpolice.com/pixel-11-reminded-why-i-stopped-getting-excited-about-phone-upgrades/",
+      "image": "",
+      "summary": "It proved that better hardware isn't enough",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-88d2d7c0e69b",
+      "title": "The wide-screen revolution might soon come to a non-foldable phone near you",
+      "source": "Android Central",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-08-20",
+      "time": "17:20",
+      "publishedAt": "2026-08-20T17:20:10.000Z",
+      "url": "https://www.androidcentral.com/phones/huawei/the-wide-screen-revolution-might-soon-come-to-a-non-foldable-near-you",
+      "image": "https://cdn.mos.cms.futurecdn.net/zvMarZNXfeN7dziCbSa9HD-1280-80.jpg",
+      "summary": "Huawei’s Pura X View takes a bold route beyond foldables with a wider display, slim bezels and up to 1TB storage, but its price and full specs remain under wraps.",
+      "tags": [
+        "Huawei",
+        "评测",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-5079361dbdc1",
+      "title": "Framework says it’s addressing a BIOS update that bricked some of its older laptops",
+      "source": "The Verge",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-20",
+      "time": "17:16",
+      "publishedAt": "2026-08-20T17:16:02.000Z",
+      "url": "https://www.theverge.com/gadgets/982800/framework-laptop-13-amd-7040-bios-320-bricking-warranty",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24940154/236795_Framework_Laptop_13__AMD__AKrales_0025.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "summary": "Some Framework Laptop 13 owners with last-gen AMD chips have reported that a recent BIOS update is bricking their laptops on both Windows and Linux. The BIOS update causing this i…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-00b502003642",
+      "title": "Pixel 11’s Magic Capture perfectly solves a very modern parenting dilemma",
+      "source": "9to5Google",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-20",
+      "time": "17:15",
+      "publishedAt": "2026-08-20T17:15:00.000Z",
+      "url": "https://9to5google.com/2026/08/20/pixel-11s-magic-capture-perfectly-solves-a-very-modern-parenting-dilemma/",
+      "image": "",
+      "summary": "Over the past week, I’ve probably shot more video of my kids than in the previous year combined. I’m a photographer, so I take photos — thousands of them — but rarely swipe over t…",
+      "tags": [
+        "HONOR",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-94db88e550ac",
       "title": "I now understand why Google's keeping Pixel 11's best features locked away from older phones",
@@ -1142,6 +1322,26 @@ window.phoneRadarAuto = {
       ]
     },
     {
+      "id": "newsnow-4724205a8363",
+      "title": "华为PuraXView",
+      "source": "微博热搜",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "待验证",
+      "date": "2026-08-20",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://s.weibo.com/weibo?q=%E5%8D%8E%E4%B8%BAPuraXView&t=31&band_rank=28&Refer=top",
+      "image": "",
+      "summary": "华为PuraXView",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
       "id": "newsnow-39f0016cca4a",
       "title": "如何评价华为发布阔直板？为什么华为和苹果都在把手机做阔？",
       "source": "知乎热榜",
@@ -1597,26 +1797,6 @@ window.phoneRadarAuto = {
       "summary": "Motorola Moto G Max and Redmi Note 17 Pro take very different approaches to the mid-range smartphone battle. Both are powered by the Snapdragon 6s Gen 4, but the Redmi pushes furt…",
       "tags": [
         "Xiaomi",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-5e0dbbdd03a0",
-      "title": "iQOO 16, Neo 12 tipped to bring 2K displays with up to 185Hz refresh rate",
-      "source": "Gizmochina",
-      "brand": "vivo",
-      "model": "vivo 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-19",
-      "time": "08:05",
-      "publishedAt": "2026-08-19T08:05:06.000Z",
-      "url": "https://www.gizmochina.com/2026/08/19/iqoo-16-neo-12-display-specifications-tipped/",
-      "image": "https://www.gizmochina.com/wp-content/uploads/2025/12/iQOO-15-halo-300x225.jpg?x23692",
-      "summary": "By the end of September or early October, iQOO may unveil two new flagship phones in China. The iQOO 16 is expected to debut with the upcoming Snapdragon 8 Elite Gen 6 Pro, while…",
-      "tags": [
-        "vivo",
         "爆料",
         "自动抓取"
       ]
