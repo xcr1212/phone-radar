@@ -1,9 +1,129 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-08-20T01:50:29.309Z",
+  "updatedAt": "2026-08-20T03:09:20.963Z",
   "news": [
     {
+      "id": "weibo-3efbc442bce0",
+      "title": "数码闲聊站：Magic9系列主打超大底双2亿+阿莱影像 WIN2系列主打2K新直屏+超万级…",
+      "source": "数码闲聊站",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-08-20",
+      "time": "03:07",
+      "publishedAt": "2026-08-20T03:07:00.000Z",
+      "url": "https://weibo.com/6048569942/Ref593nsC",
+      "image": "",
+      "summary": "Magic9系列主打超大底双2亿+阿莱影像 WIN2系列主打2K新直屏+超万级大电池+风扇 700系列主打2亿影像+潮流新ID+中屏大电池 X/Power系列主打7英寸级超大屏+行业最大电池",
+      "tags": [
+        "HONOR",
+        "爆料",
+        "微博"
+      ]
+    },
+    {
+      "id": "auto-581db254b123",
+      "title": "Samsung just set a date for its next Galaxy S26 launch, and this one is for the fans!",
+      "source": "Android Authority",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-20",
+      "time": "02:53",
+      "publishedAt": "2026-08-20T02:53:45.000Z",
+      "url": "https://www.androidauthority.com/samsung-galaxy-s26-fe-launch-date-3700799/",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2026/08/Samsung-Event-Galaxy-S26-FE-Invite.jpg",
+      "summary": "Samsung is getting ready to make the Galaxy S26 FE official.",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-18aa8850b098",
+      "title": "Samsung confirms August 27 event for the ‘newest addition to the Galaxy S26 family’",
+      "source": "9to5Google",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-20",
+      "time": "02:45",
+      "publishedAt": "2026-08-20T02:45:00.000Z",
+      "url": "https://9to5google.com/2026/08/19/samsung-august-event-galaxy-s26-family/",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/02/Galaxy-S26-family-1-1.jpg?quality=82&strip=all&w=1600",
+      "summary": "Samsung is teasing a new entrant to the Galaxy S26 series coming at an event on August 27, but it’s probably not going to be that exciting.",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-a9502de6c1a0",
+      "title": "iPhone X 彻底「停产」了，但我们还没走出它定义的时代｜明日后视镜",
+      "source": "爱范儿",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-08-20",
+      "time": "02:11",
+      "publishedAt": "2026-08-20T02:11:32.000Z",
+      "url": "https://www.ifanr.com/1675378?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "image": "https://s3.ifanr.com/images/ep/uploads/%E8%8B%B9%E6%9E%9C%E5%AE%98%E7%BD%91%E4%B8%8A%E9%82%A3%E4%BB%BD%E9%BB%98%E9%BB%98%E6%9B%B4%E6%96%B0%E7%9A%84%E5%90%8D%E5%8D%95%E9%87%8C%EF%BC%8C%E4%B8%8A%E5%91%A8%E5%A4%9A%E4%BA%86%E4%B8%80%E4%B8%AA%E5%A4%A7%E5%AE%B6%E7%86%9F%E6%82%89%E7%9A%84%E5%90%8D%E5%AD%97%E3%80%82/2845b8f2-ff3f-47a6-8ba2-1c1fff9d0d02.png",
+      "summary": "下一个「iPhone X」在哪里？",
+      "tags": [
+        "iPhone",
+        "评测",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-e0ba9db9c3f4",
+      "title": "OPPO 新一代屏幕双产线技术发布，号称“色彩无限接近真实世界”",
+      "source": "IT之家",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-20",
+      "time": "02:05",
+      "publishedAt": "2026-08-20T02:05:11.000Z",
+      "url": "https://www.ithome.com/0/991/942.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/8/2195f6fa-5f71-4166-9a42-037eea29721c.png?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 8 月 20 日消息，OPPO 今日官宣新一代屏幕双产线技术正式发布，从基材定制到像素级校准，实现全链路显示升级。RGB 三色发光材料全面换新，光谱深度优化，BT.2020 色域覆盖率达行业新高， 色彩无限接近真实世界 。好屏幕没有捷径，就是回到本源，把细节做扎实。 IT之家注意到，博主 @数码闲聊站 此前曾爆料，OPPO Find X10 系列…",
+      "tags": [
+        "OPPO",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-728817dc666c",
+      "title": "竹本青：OPPO发布新一代屏幕双产线技术：全链路显示升级",
+      "source": "竹本青",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-08-20",
+      "time": "02:02",
+      "publishedAt": "2026-08-20T02:02:41.000Z",
+      "url": "https://www.coolapk.com/feed/73335472",
+      "image": "http://image.coolapk.com/feed/2026/0820/10/4248714_c4a4605a_1359_1818_762@2000x1333.jpg",
+      "summary": "【全链路显示升级，OPPO发布新一代屏幕双产线技术】 8月20日，OPPO新一代屏幕双产线技术正式发布。从基材定制到像素级校准，实现全链路显示升级。 RGB三色发光材料全面换新，光谱深度优化，BT.2020色域覆盖率达行业新高，色彩无限接近真实世界。 #今日热点# #ColorOS17# #OPPOFindX10#",
+      "tags": [
+        "OPPO",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
       "id": "coolapk-user-09a3278e6ea6",
-      "title": "竹本青：【姜超确认红魔12 Pro系列手机正常迭代】 8月20日资讯，红魔高管姜超昨日在回复网友提问时确认，红魔12 Pr…",
+      "title": "竹本青：姜超确认红魔12 Pro系列手机正常迭代",
       "source": "竹本青",
       "brand": "行业",
       "model": "智能手机市场",
@@ -122,46 +242,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-d2cad0b72f33",
-      "title": "三星宣布将于 8 月 27 日举办 Galaxy 发布会，有望推出 S26 FE",
-      "source": "IT之家",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-19",
-      "time": "23:14",
-      "publishedAt": "2026-08-19T23:14:48.000Z",
-      "url": "https://www.ithome.com/0/991/872.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/8/c9f9fa30-4bf1-498f-809c-4856475c41df.png",
-      "summary": "IT之家 8 月 20 日消息，三星官网今日发文称，Galaxy S26 系列凭借迄今为止力度最大的影像与人工智能创新树立了全新标杆，让用户日常拍摄、创作与互联变得更加轻松。三星电子将于 8 月 27 日举办“2026 年 8 月 Galaxy 发布会”，推出 Galaxy S26 系列全新机型。 据官方介绍，这款新品经过精心打造，面向注重核心体验的用户，…",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-935f575ec5cc",
-      "title": "三星 Galaxy A58 和 Galaxy Xcover FR 手机踪迹曝光",
-      "source": "IT之家",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-19",
-      "time": "23:10",
-      "publishedAt": "2026-08-19T23:10:51.000Z",
-      "url": "https://www.ithome.com/0/991/870.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/8/ad3f4436-e58e-46d7-9556-10ea4dcd7b15.jpg?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 8 月 20 日消息，科技媒体 SamMobile 昨日（8 月 19 日）发布博文， 报道称在 GSMA IMEI 数据库中，发现了三星 Galaxy A58 以及 Galaxy Xcover FR 两款手机的踪迹。 上图为 Galaxy A57 手机 三星于 2026 年 3 月 25 日发布 Galaxy A57 手机，而作为继任机型，Ga…",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-f9f28f9bcb59",
       "title": "Google Pixel 11 gets dbrand’s full case lineup, including Tank for the first time [Gallery]",
       "source": "9to5Google",
@@ -243,7 +323,7 @@ window.phoneRadarAuto = {
     },
     {
       "id": "coolapk-user-0b8d524b61d9",
-      "title": "竹本青：【影石Insta360 X6上市三日，海外多国亚马逊运动相机榜单登顶】 8月20日资讯，影石CEO刘靖康昨日分享称…",
+      "title": "竹本青：Insta360 X6上市三日在多国亚马逊运动相机榜单登顶",
       "source": "竹本青",
       "brand": "行业",
       "model": "智能手机市场",
@@ -342,26 +422,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-7ab091365605",
-      "title": "A week with the Pixel 11: 5 upgrades I already fell in love with",
-      "source": "Android Police",
-      "brand": "Pixel",
-      "model": "Pixel 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-19",
-      "time": "16:10",
-      "publishedAt": "2026-08-19T16:10:10.000Z",
-      "url": "https://www.androidpolice.com/5-pixel-11-upgrades-ive-already-fallen-in-love-with/",
-      "image": "",
-      "summary": "There's more to the cheaper Pixel 11 than you thought",
-      "tags": [
-        "Pixel",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-ed830cdf989d",
       "title": "Google Pixel 11 Pro vs. Samsung Galaxy S26: Which small flagship is better?",
       "source": "Android Central",
@@ -442,26 +502,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "coolapk-user-f7e74e3654fe",
-      "title": "竹本青：【芒米AIR Y系列 竖版安卓掌机 今日开售：骁龙662/骁龙865，早鸟价599元起】 AIR Y 3GB+32…",
-      "source": "竹本青",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-08-19",
-      "time": "14:42",
-      "publishedAt": "2026-08-19T14:42:21.000Z",
-      "url": "https://www.coolapk.com/feed/73330716",
-      "image": "http://image.coolapk.com/feed/2026/0819/22/4248714_b050bd99_0540_1386_323@1440x1920.jpg",
-      "summary": "【芒米AIR Y系列 竖版安卓掌机 今日开售：骁龙662/骁龙865，早鸟价599元起】 AIR Y 3GB+32GB —— 599元 AIR Y Pro 4GB+64GB —— 999元 8GB+128GB —— 1199元 ● AIR Y： 骁龙662｜LPDDR4X+eMMC 4.2英寸 1280*960 IPS屏 5000mAh电池+15W充电 单…",
-      "tags": [
-        "行业",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
       "id": "auto-955a036fc58a",
       "title": "Pixel 11 Pro’s telephoto camera has an upgrade Google forgot to mention",
       "source": "Android Authority",
@@ -479,26 +519,6 @@ window.phoneRadarAuto = {
         "Pixel",
         "爆料",
         "自动抓取"
-      ]
-    },
-    {
-      "id": "coolapk-user-13d474543d8f",
-      "title": "竹本青：怕是你自己造的梗…… #ColorOS17#",
-      "source": "竹本青",
-      "brand": "OPPO",
-      "model": "OPPO 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-08-19",
-      "time": "13:55",
-      "publishedAt": "2026-08-19T13:55:59.000Z",
-      "url": "https://www.coolapk.com/feed/73330004",
-      "image": "http://image.coolapk.com/feed/2026/0819/21/4248714_08783a23_7758_4083_288@1271x615.jpg",
-      "summary": "怕是你自己造的梗…… #ColorOS17#",
-      "tags": [
-        "OPPO",
-        "爆料",
-        "酷安博主"
       ]
     },
     {

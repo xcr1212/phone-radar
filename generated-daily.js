@@ -1,12 +1,12 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-08-20T01:50:29.309Z",
+  "updatedAt": "2026-08-20T03:09:20.963Z",
   "issueDate": "2026-08-20",
   "issue": "VOL.260820",
   "title": "手机情报日报",
-  "intro": "今日筛出 20 条重点，其中 8 条是重点爆料，包含 5 条 iPhone 相关、1 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 20 条重点，其中 8 条是重点爆料，包含 6 条 iPhone 相关、1 条官方确认、0 条参数线索。",
   "stats": {
     "total": 20,
-    "iphone": 5,
+    "iphone": 6,
     "leaks": 8,
     "official": 1,
     "specs": 0
@@ -65,25 +65,28 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
-          "id": "auto-935f575ec5cc",
-          "title": "三星 Galaxy A58 和 Galaxy Xcover FR 手机踪迹曝光",
+          "id": "weibo-3efbc442bce0",
+          "title": "数码闲聊站：Magic9系列主打超大底双2亿+阿莱影像 WIN2系列主打2K新直屏+超万级…",
           "originalTitle": "",
-          "source": "IT之家",
-          "brand": "Samsung",
+          "source": "数码闲聊站",
+          "brand": "HONOR",
           "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-08-19",
-          "time": "23:10",
-          "publishedAt": "2026-08-19T23:10:51.000Z",
-          "url": "https://www.ithome.com/0/991/870.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/8/ad3f4436-e58e-46d7-9556-10ea4dcd7b15.jpg?x-bce-process=image/format,f_auto",
+          "trust": "高关注爆料源",
+          "date": "2026-08-20",
+          "time": "03:07",
+          "publishedAt": "2026-08-20T03:07:00.000Z",
+          "url": "https://weibo.com/6048569942/Ref593nsC",
+          "image": "",
           "verdict": "先看",
-          "takeaway": "IT之家 8 月 20 日消息，科技媒体 SamMobile 昨日（8 月 19 日）发布博文， 报道称在 GSMA IMEI 数据库中，发现了三星 Galaxy A58 以及 Galaxy Xcover FR 两款手机的踪迹。 上图为 Galaxy A57 手机 三星于 2026 年 3 月 25 日发布 Galaxy A57 手机，而作为继任机型，Ga…",
-          "detail": "IT之家 8 月 20 日消息，科技媒体 SamMobile 昨日（8 月 19 日）发布博文， 报道称在 GSMA IMEI 数据库中，发现了三星 Galaxy A58 以及 Galaxy Xcover FR 两款手机的踪迹。 上图为 Galaxy A57 手机 三星于 2026 年 3 月 25 日发布 Galaxy A57 手机，而作为继任机型，Ga…",
+          "takeaway": "Magic9系列主打超大底双2亿+阿莱影像 WIN2系列主打2K新直屏+超万级大电池+风扇 700系列主打2亿影像+潮流新ID+中屏大电池 X/Power系列主打7英寸级超大屏+行业最大电池",
+          "detail": "Magic9系列主打超大底双2亿+阿莱影像 WIN2系列主打2K新直屏+超万级大电池+风扇 700系列主打2亿影像+潮流新ID+中屏大电池 X/Power系列主打7英寸级超大屏+行业最大电池",
           "keyPoints": [
-            "爆料"
+            "影像硬件",
+            "屏幕形态",
+            "电池 / 充电",
+            "爆料来源"
           ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
@@ -109,6 +112,30 @@ window.phoneRadarDaily = {
             "爆料来源"
           ],
           "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "coolapk-user-728817dc666c",
+          "title": "竹本青：OPPO发布新一代屏幕双产线技术：全链路显示升级",
+          "originalTitle": "",
+          "source": "竹本青",
+          "brand": "OPPO",
+          "type": "爆料",
+          "trust": "高可信爆料",
+          "date": "2026-08-20",
+          "time": "02:02",
+          "publishedAt": "2026-08-20T02:02:41.000Z",
+          "url": "https://www.coolapk.com/feed/73335472",
+          "image": "http://image.coolapk.com/feed/2026/0820/10/4248714_c4a4605a_1359_1818_762@2000x1333.jpg",
+          "verdict": "先看",
+          "takeaway": "【全链路显示升级，OPPO发布新一代屏幕双产线技术】 8月20日，OPPO新一代屏幕双产线技术正式发布。从基材定制到像素级校准，实现全链路显示升级。 RGB三色发光材料全面换新，光谱深度优化，BT.2020色域覆盖率达行业新高，色彩无限接近真实世界。 #今日热点# #ColorOS17# #OPPOFindX10#",
+          "detail": "【全链路显示升级，OPPO发布新一代屏幕双产线技术】 8月20日，OPPO新一代屏幕双产线技术正式发布。从基材定制到像素级校准，实现全链路显示升级。 RGB三色发光材料全面换新，光谱深度优化，BT.2020色域覆盖率达行业新高，色彩无限接近真实世界。 #今日热点# #ColorOS17# #OPPOFindX10#",
+          "keyPoints": [
+            "外观 / 配色 / 尺寸",
+            "屏幕形态"
+          ],
+          "confidence": "可信度较高，但仍属于发布前线索。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
@@ -183,30 +210,6 @@ window.phoneRadarDaily = {
           "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "coolapk-user-09a3278e6ea6",
-          "title": "竹本青：【姜超确认红魔12 Pro系列手机正常迭代】 8月20日资讯，红魔高管姜超昨日在回复网友提问时确认，红魔12 Pr…",
-          "originalTitle": "",
-          "source": "竹本青",
-          "brand": "行业",
-          "type": "爆料",
-          "trust": "高可信爆料",
-          "date": "2026-08-20",
-          "time": "01:19",
-          "publishedAt": "2026-08-20T01:19:11.000Z",
-          "url": "https://www.coolapk.com/feed/73334949",
-          "image": "http://image.coolapk.com/feed/2026/0820/09/4248714_4fca6eec_8750_0924_978@2916x2843.jpg",
-          "verdict": "先看",
-          "takeaway": "【姜超确认红魔12 Pro系列手机正常迭代】 8月20日资讯，红魔高管姜超昨日在回复网友提问时确认，红魔12 Pro系列手机将正常迭代。至于目前暂无相关爆料信息，他解释称，产品还没有到预热时间。 作为参考，红魔11 Pro系列于去年10月发布，Pro售价4999元起；Pro+售价5699元起。 #今日热点# #红魔11Pro# #红魔11PRO+#",
-          "detail": "【姜超确认红魔12 Pro系列手机正常迭代】 8月20日资讯，红魔高管姜超昨日在回复网友提问时确认，红魔12 Pro系列手机将正常迭代。至于目前暂无相关爆料信息，他解释称，产品还没有到预热时间。 作为参考，红魔11 Pro系列于去年10月发布，Pro售价4999元起；Pro+售价5699元起。 #今日热点# #红魔11Pro# #红魔11PRO+#",
-          "keyPoints": [
-            "成本 / 价格",
-            "爆料来源"
-          ],
-          "confidence": "可信度较高，但仍属于发布前线索。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         }
       ]
     },
@@ -215,6 +218,29 @@ window.phoneRadarDaily = {
       "title": "iPhone 重点",
       "hint": "不是硬件爆料，但和 iPhone 体验或路线有关。",
       "items": [
+        {
+          "id": "auto-a9502de6c1a0",
+          "title": "iPhone X 彻底「停产」了，但我们还没走出它定义的时代｜明日后视镜",
+          "originalTitle": "",
+          "source": "爱范儿",
+          "brand": "iPhone",
+          "type": "评测",
+          "trust": "媒体汇总",
+          "date": "2026-08-20",
+          "time": "02:11",
+          "publishedAt": "2026-08-20T02:11:32.000Z",
+          "url": "https://www.ifanr.com/1675378?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "image": "https://s3.ifanr.com/images/ep/uploads/%E8%8B%B9%E6%9E%9C%E5%AE%98%E7%BD%91%E4%B8%8A%E9%82%A3%E4%BB%BD%E9%BB%98%E9%BB%98%E6%9B%B4%E6%96%B0%E7%9A%84%E5%90%8D%E5%8D%95%E9%87%8C%EF%BC%8C%E4%B8%8A%E5%91%A8%E5%A4%9A%E4%BA%86%E4%B8%80%E4%B8%AA%E5%A4%A7%E5%AE%B6%E7%86%9F%E6%82%89%E7%9A%84%E5%90%8D%E5%AD%97%E3%80%82/2845b8f2-ff3f-47a6-8ba2-1c1fff9d0d02.png",
+          "verdict": "先看",
+          "takeaway": "下一个「iPhone X」在哪里？",
+          "detail": "下一个「iPhone X」在哪里？",
+          "keyPoints": [
+            "评测"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是实际体验内容，买前适合重点看缺点和取舍。",
+          "action": "中文源可以直接点开快读；看完只保留和购机有关的点。"
+        },
         {
           "id": "auto-9bbf43c61c96",
           "title": "iPhone 系统功能 / AI 体验相关消息",
@@ -313,6 +339,29 @@ window.phoneRadarDaily = {
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        },
+        {
+          "id": "auto-581db254b123",
+          "title": "Galaxy S26 发布 / 上市相关消息",
+          "originalTitle": "",
+          "source": "Android Authority",
+          "brand": "Samsung",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-08-20",
+          "time": "02:53",
+          "publishedAt": "2026-08-20T02:53:45.000Z",
+          "url": "https://www.androidauthority.com/samsung-galaxy-s26-fe-launch-date-3700799/",
+          "image": "https://www.androidauthority.com/wp-content/uploads/2026/08/Samsung-Event-Galaxy-S26-FE-Invite.jpg",
+          "verdict": "可略过",
+          "takeaway": "Samsung 有发布或新功能消息，适合确认是否和新机有关。",
+          "detail": "Galaxy S26 发布 / 上市相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         }
       ]
     },
@@ -343,29 +392,6 @@ window.phoneRadarDaily = {
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是实际体验内容，买前适合重点看缺点和取舍。",
           "action": "有具体参数就记录到参数库；没有参数就先收藏。"
-        },
-        {
-          "id": "auto-ed830cdf989d",
-          "title": "Samsung 相关消息",
-          "originalTitle": "",
-          "source": "Android Central",
-          "brand": "Samsung",
-          "type": "评测",
-          "trust": "媒体汇总",
-          "date": "2026-08-19",
-          "time": "16:10",
-          "publishedAt": "2026-08-19T16:10:00.000Z",
-          "url": "https://www.androidcentral.com/phones/google-pixel/google-pixel-11-pro-vs-samsung-galaxy-s26",
-          "image": "https://cdn.mos.cms.futurecdn.net/458VKqtF8yUPDuX7a9GhL7-1280-80.jpg",
-          "verdict": "可略过",
-          "takeaway": "Samsung 相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
-          "detail": "Samsung 相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
-          "keyPoints": [
-            "评测"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是实际体验内容，买前适合重点看缺点和取舍。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         }
       ]
     },
@@ -398,25 +424,25 @@ window.phoneRadarDaily = {
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         },
         {
-          "id": "coolapk-user-13d474543d8f",
-          "title": "竹本青：怕是你自己造的梗…… #ColorOS17#",
+          "id": "auto-18aa8850b098",
+          "title": "Samsung 相关消息",
           "originalTitle": "",
-          "source": "竹本青",
-          "brand": "OPPO",
+          "source": "9to5Google",
+          "brand": "Samsung",
           "type": "爆料",
-          "trust": "高可信爆料",
-          "date": "2026-08-19",
-          "time": "13:55",
-          "publishedAt": "2026-08-19T13:55:59.000Z",
-          "url": "https://www.coolapk.com/feed/73330004",
-          "image": "http://image.coolapk.com/feed/2026/0819/21/4248714_08783a23_7758_4083_288@1271x615.jpg",
-          "verdict": "扫一眼",
-          "takeaway": "怕是你自己造的梗…… #ColorOS17#",
-          "detail": "怕是你自己造的梗…… #ColorOS17#",
+          "trust": "媒体汇总",
+          "date": "2026-08-20",
+          "time": "02:45",
+          "publishedAt": "2026-08-20T02:45:00.000Z",
+          "url": "https://9to5google.com/2026/08/19/samsung-august-event-galaxy-s26-family/",
+          "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/02/Galaxy-S26-family-1-1.jpg?quality=82&strip=all&w=1600",
+          "verdict": "可略过",
+          "takeaway": "Samsung 相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
+          "detail": "Samsung 相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
           "keyPoints": [
-            "外观 / 配色 / 尺寸"
+            "爆料"
           ],
-          "confidence": "可信度较高，但仍属于发布前线索。",
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         },
@@ -484,29 +510,6 @@ window.phoneRadarDaily = {
           "detail": "Pixel 11 Pro Fold 折叠屏相关消息。重点看折痕、铰链、厚度、屏幕可靠性和重量是否有实质改善。",
           "keyPoints": [
             "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
-        {
-          "id": "auto-7956629155b8",
-          "title": "Pixel 11 Pro 机模 / 配色信息曝光",
-          "originalTitle": "",
-          "source": "Android Authority",
-          "brand": "Pixel",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-08-19",
-          "time": "16:31",
-          "publishedAt": "2026-08-19T16:31:07.000Z",
-          "url": "https://www.androidauthority.com/pixel-11-pro-color-poll-results-3700585/",
-          "image": "",
-          "verdict": "可略过",
-          "takeaway": "Pixel 11 Pro 机模 / 配色信息曝光。已转成中文摘要展示，详细内容可打开原文核对。",
-          "detail": "Pixel 11 Pro 机模 / 配色信息曝光。来源提到未发布机型的机模/配色图，适合先判断外观方向、颜色变化和机身轮廓，但最终量产版本仍可能调整。",
-          "keyPoints": [
-            "外观 / 配色 / 尺寸"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
