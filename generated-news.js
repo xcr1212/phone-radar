@@ -1,6 +1,146 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-08-20T03:09:20.963Z",
+  "updatedAt": "2026-08-20T04:52:01.075Z",
   "news": [
+    {
+      "id": "auto-89451719d70a",
+      "title": "谷歌 Pixel 11 系列手机上线自定义振动功能，可给联系人设置专属振动",
+      "source": "IT之家",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-20",
+      "time": "04:33",
+      "publishedAt": "2026-08-20T04:33:43.000Z",
+      "url": "https://www.ithome.com/0/992/069.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/8/e29ab346-5444-4841-98bf-dc13c0362d2e.jpg?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 8 月 20 日消息，谷歌悄悄在 Pixel 11 系列手机上推出了自定义振动模式功能，让用户可以更加自由地控制手机在来电和通知时的振动方式。 如果想自定义 Pixel 11 来电铃声的振动方式，可以进入“设置 > 声音和振动 > 电话铃声 > 振动”。谷歌会根据用户当前选择的铃声，自动推荐一种振动模式，因此用户无需自己反复尝试哪种组合更加合适。…",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-e5d1aa946492",
+      "title": "Google Pixel 11's hidden upgrade finally solves Android's biggest search problem",
+      "source": "Android Police",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-20",
+      "time": "04:32",
+      "publishedAt": "2026-08-20T04:32:52.000Z",
+      "url": "https://www.androidpolice.com/google-pixel-11-hidden-upgrade-solves-androids-biggest-search-problem/",
+      "image": "",
+      "summary": "A unified search tool",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-fe4be0c23708",
+      "title": "Pixel 11 series quietly and exclusively adds one of the most useful new haptic features",
+      "source": "Android Authority",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-20",
+      "time": "04:17",
+      "publishedAt": "2026-08-20T04:17:34.000Z",
+      "url": "https://www.androidauthority.com/google-pixel-11-custom-vibration-3700805/",
+      "image": "",
+      "summary": "Pixel 11's new custom vibration options are music to your…fingertips.",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-0a9c56423b63",
+      "title": "Upcoming Huawei wide phone can sport Pura X Max-like camera setup",
+      "source": "Huawei Central",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-20",
+      "time": "04:07",
+      "publishedAt": "2026-08-20T04:07:02.000Z",
+      "url": "https://www.huaweicentral.com/huawei-wide-phone-camera-setup/",
+      "image": "https://www.huaweicentral.com/wp-content/uploads/2026/06/Pura-X-Max.jpg",
+      "summary": "The upcoming Huawei wide “non-foldable” Pura phone might look different on the outside from other Pura X series siblings; however, it can be similar to a great extent when you div…",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-0791f53613fc",
+      "title": "Gboard starts rolling out new ‘Emoji size’ setting",
+      "source": "9to5Google",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-20",
+      "time": "03:50",
+      "publishedAt": "2026-08-20T03:50:48.000Z",
+      "url": "https://9to5google.com/2026/08/19/gboard-emoji-size-setting/",
+      "image": "",
+      "summary": "As the Pixel 11 series gets Rambler and Google’s new 3D emoji , Gboard is rolling out a new “Emoji size” setting to beta users.",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-3f0b94619c8e",
+      "title": "Samsung Galaxy S26 FE launch date is set, here’s what to expect",
+      "source": "Gizmochina",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-20",
+      "time": "03:50",
+      "publishedAt": "2026-08-20T03:50:09.000Z",
+      "url": "https://www.gizmochina.com/2026/08/20/samsung-galaxy-s26-fe-launch-date/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/08/Samsung-Galaxy-Event-2026-invite-300x169.jpg?x23692",
+      "summary": "Samsung has scheduled another Galaxy event for August 27, adding to an already busy year for its smartphone lineup. The company has not revealed the product launching at the event…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-bc5d2e1dc0b1",
+      "title": "JSCHEN小小狐：荣耀Magic9系列、WIN2系列等多款新机卖点曝光",
+      "source": "JSCHEN小小狐",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-08-20",
+      "time": "03:46",
+      "publishedAt": "2026-08-20T03:46:33.000Z",
+      "url": "https://www.coolapk.com/feed/73336995",
+      "image": "http://image.coolapk.com/feed/2026/0820/11/4702274_de773d80_7592_7083_668@1440x868.jpg",
+      "summary": "『荣耀多款新机卖点曝光：Magic9、WIN 2 等』 Magic9 系列： ◇ 至高骁龙 8 Elite Gen6 Pro（SM8975） ◇ 超大底双 2 亿 + 阿莱影像 ◇ 预计 9 月底正式发布 WIN 2 系列： ◇ 至高骁龙 8 Elite Gen6（SM8950） ◇ 6.89''± 2K 185Hz 新直屏 ◇ 10000mAh++ 大电…",
+      "tags": [
+        "HONOR",
+        "爆料",
+        "酷安博主"
+      ]
+    },
     {
       "id": "weibo-3efbc442bce0",
       "title": "数码闲聊站：Magic9系列主打超大底双2亿+阿莱影像 WIN2系列主打2K新直屏+超万级…",
@@ -222,6 +362,26 @@ window.phoneRadarAuto = {
       ]
     },
     {
+      "id": "newsnow-afcb4b6bd1ba",
+      "title": "OPPO发布新一代屏幕双产线技术：Find X10 系列首发搭载",
+      "source": "酷安热榜",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-08-20",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/73335539",
+      "image": "",
+      "summary": "OPPO发布新一代屏幕双产线技术：Find X10 系列首发搭载",
+      "tags": [
+        "OPPO",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
       "id": "newsnow-0be1786288d3",
       "title": "iQOO Neo11 至尊版发布：天玑9500M，首销3399元起",
       "source": "酷安热榜",
@@ -238,6 +398,26 @@ window.phoneRadarAuto = {
       "tags": [
         "vivo",
         "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-30f83a049033",
+      "title": "媒体曝劣质手机壳是用医疗垃圾做的，其释放的塑化剂是儿童性早熟主要诱因，长期接触真会导致性早熟吗？",
+      "source": "知乎热榜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "市场报告",
+      "trust": "媒体汇总",
+      "date": "2026-08-20",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.zhihu.com/question/2072722723030000085",
+      "image": "",
+      "summary": "媒体曝劣质手机壳是用医疗垃圾做的，其释放的塑化剂是儿童性早熟主要诱因，长期接触真会导致性早熟吗？",
+      "tags": [
+        "行业",
+        "市场报告",
         "NewsNow"
       ]
     },
@@ -337,26 +517,6 @@ window.phoneRadarAuto = {
       "summary": "【影石Insta360 X6上市三日，海外多国亚马逊运动相机榜单登顶】 8月20日资讯，影石CEO刘靖康昨日分享称，Insta360 X6全景相机上市仅三日，即登顶海外各主要电商平台榜首。 其中，美国站登上运动相机Hot New Releases热门新品榜TOP1；德国站、日本站拿下运动相机Best Seller畅销榜TOP1。 数据来源：8月15日亚马逊…",
       "tags": [
         "行业",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
-      "id": "coolapk-user-b8f3c74dd227",
-      "title": "竹本青：【荣耀MagicOS 11 新增功能：「存储空间优化技术2.0」】 荣耀员工“小芳哥”昨日介绍，为了让老手机能使用…",
-      "source": "竹本青",
-      "brand": "HONOR",
-      "model": "HONOR 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-08-19",
-      "time": "17:24",
-      "publishedAt": "2026-08-19T17:24:09.000Z",
-      "url": "https://www.coolapk.com/feed/73332943",
-      "image": "http://image.coolapk.com/feed/2026/0820/01/4248714_d909dc2f_0247_1051_693-livepic@1920x1080.jpg",
-      "summary": "【荣耀MagicOS 11 新增功能：「存储空间优化技术2.0」】 荣耀员工“小芳哥”昨日介绍，为了让老手机能使用更久，荣耀MagicOS 11带来了「存储空间优化技术2.0」功能。升级后，手机能增加更多可用空间。 他透露，去年MagicOS 10 升级后最高能省出50G以上存储空间，今年MagicOS 11 内部测试效果优于去年。 #MagicOS10#…",
-      "tags": [
-        "HONOR",
         "爆料",
         "酷安博主"
       ]
