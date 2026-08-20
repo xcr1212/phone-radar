@@ -1,5 +1,5 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-08-20T04:52:01.075Z",
+  "updatedAt": "2026-08-20T07:04:54.456Z",
   "issueDate": "2026-08-20",
   "issue": "VOL.260820",
   "title": "手机情报日报",
@@ -139,6 +139,29 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
+          "id": "auto-e2174e28ecf3",
+          "title": "OPPO 影像能力相关消息",
+          "originalTitle": "",
+          "source": "Gizmochina",
+          "brand": "OPPO",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-08-20",
+          "time": "06:28",
+          "publishedAt": "2026-08-20T06:28:33.000Z",
+          "url": "https://www.gizmochina.com/2026/08/20/oppo-reno-18-series-68mp-1-1-selfie-camera/",
+          "image": "https://www.gizmochina.com/wp-content/uploads/2026/08/image-85.png?x23692",
+          "verdict": "先看",
+          "takeaway": "OPPO 影像能力相关宣传或案例，主要看是否透露拍摄能力变化。",
+          "detail": "OPPO 影像能力相关消息。重点看影像功能是否和新机硬件有关，如果只是拍摄案例或营销内容，参考价值会低一些。",
+          "keyPoints": [
+            "影像硬件"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
           "id": "coolapk-user-bc5d2e1dc0b1",
           "title": "JSCHEN小小狐：荣耀Magic9系列、WIN2系列等多款新机卖点曝光",
           "originalTitle": "",
@@ -183,31 +206,6 @@ window.phoneRadarDaily = {
             "屏幕形态"
           ],
           "confidence": "可信度较高，但仍属于发布前线索。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "coolapk-user-3eabc19cbbaf",
-          "title": "JSCHEN小小狐：小米 18 Pro 系列通过质量认证：100W 快充",
-          "originalTitle": "",
-          "source": "JSCHEN小小狐",
-          "brand": "Xiaomi",
-          "type": "爆料",
-          "trust": "高可信爆料",
-          "date": "2026-08-19",
-          "time": "00:57",
-          "publishedAt": "2026-08-19T00:57:33.000Z",
-          "url": "https://www.coolapk.com/feed/73319020",
-          "image": "http://image.coolapk.com/feed/2026/0819/08/4702274_4c1e9266_1051_3125_316@1659x572.jpg",
-          "verdict": "先看",
-          "takeaway": "『小米 18 Pro 系列通过质量认证：100W 快充』 知名数码博主 数码闲聊站 发博表示，全新小米 18 Pro 系列已通过国家质量认证，且相关备案信息均已齐全。小米 18 Pro 系列已知信息如下： 型号：M154FF、M311AD 小米 18 Pro ◇ 6.3～6.4 英寸超级像素 OLED 直屏 ◇ LIPO 极窄四等边｜BT.2020 色域…",
-          "detail": "『小米 18 Pro 系列通过质量认证：100W 快充』 知名数码博主 数码闲聊站 发博表示，全新小米 18 Pro 系列已通过国家质量认证，且相关备案信息均已齐全。小米 18 Pro 系列已知信息如下： 型号：M154FF、M311AD 小米 18 Pro ◇ 6.3～6.4 英寸超级像素 OLED 直屏 ◇ LIPO 极窄四等边｜BT.2020 色域…",
-          "keyPoints": [
-            "屏幕形态",
-            "芯片 / 性能",
-            "爆料来源"
-          ],
-          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         }
@@ -341,27 +339,27 @@ window.phoneRadarDaily = {
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         },
         {
-          "id": "auto-3f0b94619c8e",
-          "title": "Galaxy S26 FE 发布 / 上市相关消息",
+          "id": "auto-0853bdc5f5b8",
+          "title": "vivo 屏幕规格相关消息",
           "originalTitle": "",
           "source": "Gizmochina",
-          "brand": "Samsung",
+          "brand": "vivo",
           "type": "爆料",
           "trust": "媒体汇总",
           "date": "2026-08-20",
-          "time": "03:50",
-          "publishedAt": "2026-08-20T03:50:09.000Z",
-          "url": "https://www.gizmochina.com/2026/08/20/samsung-galaxy-s26-fe-launch-date/",
-          "image": "https://www.gizmochina.com/wp-content/uploads/2026/08/Samsung-Galaxy-Event-2026-invite-300x169.jpg?x23692",
+          "time": "05:53",
+          "publishedAt": "2026-08-20T05:53:58.000Z",
+          "url": "https://www.gizmochina.com/2026/08/20/iqoo-16-display-upgrade-2k-165hz-samsung-panel/",
+          "image": "https://www.gizmochina.com/wp-content/uploads/2025/09/iQOO-15-front-225x300.jpg?x23692",
           "verdict": "可略过",
-          "takeaway": "Samsung 有发布或新功能消息，适合确认是否和新机有关。",
-          "detail": "Galaxy S26 FE 发布 / 上市相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
+          "takeaway": "vivo 屏幕规格相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
+          "detail": "vivo 屏幕规格相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
           "keyPoints": [
-            "爆料"
+            "屏幕形态"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+          "impact": "影响手感和显示体验，适合和其他机型对比。",
+          "action": "有具体参数就记录到参数库；没有参数就先收藏。"
         }
       ]
     },
@@ -417,45 +415,46 @@ window.phoneRadarDaily = {
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         },
         {
-          "id": "auto-e5d1aa946492",
-          "title": "Pixel 11 系统功能 / AI 体验相关消息",
+          "id": "coolapk-user-603904eada97",
+          "title": "JSCHEN小小狐：轨道交通的魅力， 从靠近的那一刻，便悄然开始。 #手机摄影#",
           "originalTitle": "",
-          "source": "Android Police",
-          "brand": "Pixel",
+          "source": "JSCHEN小小狐",
+          "brand": "Xiaomi",
           "type": "爆料",
-          "trust": "媒体汇总",
+          "trust": "高可信爆料",
           "date": "2026-08-20",
-          "time": "04:32",
-          "publishedAt": "2026-08-20T04:32:52.000Z",
-          "url": "https://www.androidpolice.com/google-pixel-11-hidden-upgrade-solves-androids-biggest-search-problem/",
-          "image": "",
-          "verdict": "可略过",
-          "takeaway": "Pixel 11 系统功能 / AI 体验相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
-          "detail": "Pixel 11 系统功能 / AI 体验相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
+          "time": "06:18",
+          "publishedAt": "2026-08-20T06:18:01.000Z",
+          "url": "https://www.coolapk.com/feed/73339043",
+          "image": "http://image.coolapk.com/feed/2026/0820/14/4702274_729ce944_6676_8653_441-uhdr@2366x3503.jpg",
+          "verdict": "扫一眼",
+          "takeaway": "轨道交通的魅力， 从靠近的那一刻，便悄然开始。 #手机摄影#",
+          "detail": "轨道交通的魅力， 从靠近的那一刻，便悄然开始。 #手机摄影#",
           "keyPoints": [
             "爆料"
           ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "confidence": "可信度较高，但仍属于发布前线索。",
           "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         },
         {
-          "id": "auto-0a9c56423b63",
-          "title": "Huawei 影像能力相关消息",
+          "id": "auto-854e023ff38b",
+          "title": "HONOR 外观设计线索曝光",
           "originalTitle": "",
           "source": "Huawei Central",
-          "brand": "Huawei",
+          "brand": "HONOR",
           "type": "爆料",
           "trust": "媒体汇总",
           "date": "2026-08-20",
-          "time": "04:07",
-          "publishedAt": "2026-08-20T04:07:02.000Z",
-          "url": "https://www.huaweicentral.com/huawei-wide-phone-camera-setup/",
-          "image": "https://www.huaweicentral.com/wp-content/uploads/2026/06/Pura-X-Max.jpg",
+          "time": "06:46",
+          "publishedAt": "2026-08-20T06:46:35.000Z",
+          "url": "https://www.huaweicentral.com/honor-700-series-to-continue-200mp-camera-trend-with-new-design/",
+          "image": "https://www.huaweicentral.com/wp-content/uploads/2026/04/Honor600Pro.jpg",
           "verdict": "可略过",
-          "takeaway": "Huawei 影像能力相关宣传或案例，主要看是否透露拍摄能力变化。",
-          "detail": "Huawei 影像能力相关消息。重点看影像功能是否和新机硬件有关，如果只是拍摄案例或营销内容，参考价值会低一些。",
+          "takeaway": "HONOR 外观设计线索曝光。重点看外观、颜色、尺寸是否和上一代有明显变化。",
+          "detail": "HONOR 外观设计线索曝光。这类内容主要看外观设计、按键布局、相机模组和尺寸变化，后续最好等更多渲染图或保护壳线索互相验证。",
           "keyPoints": [
+            "外观 / 配色 / 尺寸",
             "影像硬件"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",

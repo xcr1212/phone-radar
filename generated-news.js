@@ -1,6 +1,106 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-08-20T04:52:01.075Z",
+  "updatedAt": "2026-08-20T07:04:54.456Z",
   "news": [
+    {
+      "id": "auto-93de3e1ce09f",
+      "title": "消息称华为阔直板新品今天亮相，将于 8 月 28 日开启预售",
+      "source": "IT之家",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-20",
+      "time": "06:59",
+      "publishedAt": "2026-08-20T06:59:44.000Z",
+      "url": "https://www.ithome.com/0/992/105.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/8/3db1f02f-9e4b-406f-8e3b-ec9c3e168bd8.png?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 8 月 20 日消息，博主 @鹏鹏君驾到 今日发文透露， 华为阔直板新品今天将亮相 ，将于 8 月 28 日开启预售。 据IT之家此前报道，博主 @数码闲聊站 在本月初发文透露， 某厂的阔直板新手机已 Ready ，方案属于行业首发。结合该博主此前的爆料来看，新机归属华为品牌。 博主表示， 这款手机的产品定义很顶级 ，定位不低，其它家也在跟进中，…",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-854e023ff38b",
+      "title": "Honor 700 series to continue 200MP camera trend with new design",
+      "source": "Huawei Central",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-20",
+      "time": "06:46",
+      "publishedAt": "2026-08-20T06:46:35.000Z",
+      "url": "https://www.huaweicentral.com/honor-700-series-to-continue-200mp-camera-trend-with-new-design/",
+      "image": "https://www.huaweicentral.com/wp-content/uploads/2026/04/Honor600Pro.jpg",
+      "summary": "Honor 700 Series will make its way to the real world by the end of this year, and in addition to packing a variety of new features, the digital phone lineup will continue the 200M…",
+      "tags": [
+        "HONOR",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-e2174e28ecf3",
+      "title": "Oppo Reno 18 series may sport 68MP 1:1 selfie camera",
+      "source": "Gizmochina",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-20",
+      "time": "06:28",
+      "publishedAt": "2026-08-20T06:28:33.000Z",
+      "url": "https://www.gizmochina.com/2026/08/20/oppo-reno-18-series-68mp-1-1-selfie-camera/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/08/image-85.png?x23692",
+      "summary": "It was reported back in May that Oppo is testing a square 1:1 selfie camera. Available on the iPhone 17 series, a 1:1 front camera sensor offers more flexible framing and portrait…",
+      "tags": [
+        "OPPO",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-603904eada97",
+      "title": "JSCHEN小小狐：轨道交通的魅力， 从靠近的那一刻，便悄然开始。 #手机摄影#",
+      "source": "JSCHEN小小狐",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-08-20",
+      "time": "06:18",
+      "publishedAt": "2026-08-20T06:18:01.000Z",
+      "url": "https://www.coolapk.com/feed/73339043",
+      "image": "http://image.coolapk.com/feed/2026/0820/14/4702274_729ce944_6676_8653_441-uhdr@2366x3503.jpg",
+      "summary": "轨道交通的魅力， 从靠近的那一刻，便悄然开始。 #手机摄影#",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-0853bdc5f5b8",
+      "title": "iQOO 16’s display officially confirmed to be a major upgrade over its predecessor",
+      "source": "Gizmochina",
+      "brand": "vivo",
+      "model": "vivo 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-20",
+      "time": "05:53",
+      "publishedAt": "2026-08-20T05:53:58.000Z",
+      "url": "https://www.gizmochina.com/2026/08/20/iqoo-16-display-upgrade-2k-165hz-samsung-panel/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2025/09/iQOO-15-front-225x300.jpg?x23692",
+      "summary": "iQOO appears to be preparing another major display upgrade for its next flagship smartphone. A company executive has hinted at what to expect from the iQOO 16, while earlier infor…",
+      "tags": [
+        "vivo",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-89451719d70a",
       "title": "谷歌 Pixel 11 系列手机上线自定义振动功能，可给联系人设置专属振动",
@@ -222,26 +322,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-e0ba9db9c3f4",
-      "title": "OPPO 新一代屏幕双产线技术发布，号称“色彩无限接近真实世界”",
-      "source": "IT之家",
-      "brand": "OPPO",
-      "model": "OPPO 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-20",
-      "time": "02:05",
-      "publishedAt": "2026-08-20T02:05:11.000Z",
-      "url": "https://www.ithome.com/0/991/942.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/8/2195f6fa-5f71-4166-9a42-037eea29721c.png?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 8 月 20 日消息，OPPO 今日官宣新一代屏幕双产线技术正式发布，从基材定制到像素级校准，实现全链路显示升级。RGB 三色发光材料全面换新，光谱深度优化，BT.2020 色域覆盖率达行业新高， 色彩无限接近真实世界 。好屏幕没有捷径，就是回到本源，把细节做扎实。 IT之家注意到，博主 @数码闲聊站 此前曾爆料，OPPO Find X10 系列…",
-      "tags": [
-        "OPPO",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "coolapk-user-728817dc666c",
       "title": "竹本青：OPPO发布新一代屏幕双产线技术：全链路显示升级",
       "source": "竹本青",
@@ -342,26 +422,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-17e9afc5abb3",
-      "title": "遇见砍价的我就说便宜卖了 你骂他们他们不会难受 但是他们没捡到漏可能会真难受 兄弟们 评论区持续更新[受虐滑稽] #iPhone17ProMax# #红米k90promax# #REDMIK100ProMax#",
-      "source": "酷安热榜",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-08-20",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73319686",
-      "image": "",
-      "summary": "遇见砍价的我就说便宜卖了 你骂他们他们不会难受 但是他们没捡到漏可能会真难受 兄弟们 评论区持续更新[受虐滑稽] #iPhone17ProMax# #红米k90promax# #REDMIK100ProMax#",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
       "id": "newsnow-afcb4b6bd1ba",
       "title": "OPPO发布新一代屏幕双产线技术：Find X10 系列首发搭载",
       "source": "酷安热榜",
@@ -377,6 +437,26 @@ window.phoneRadarAuto = {
       "summary": "OPPO发布新一代屏幕双产线技术：Find X10 系列首发搭载",
       "tags": [
         "OPPO",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-17e9afc5abb3",
+      "title": "遇见砍价的我就说便宜卖了 你骂他们他们不会难受 但是他们没捡到漏可能会真难受 兄弟们 评论区持续更新[受虐滑稽] #iPhone17ProMax# #红米k90promax# #REDMIK100ProMax#",
+      "source": "酷安热榜",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-08-20",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/73319686",
+      "image": "",
+      "summary": "遇见砍价的我就说便宜卖了 你骂他们他们不会难受 但是他们没捡到漏可能会真难受 兄弟们 评论区持续更新[受虐滑稽] #iPhone17ProMax# #红米k90promax# #REDMIK100ProMax#",
+      "tags": [
+        "Xiaomi",
         "爆料",
         "NewsNow"
       ]
@@ -499,26 +579,6 @@ window.phoneRadarAuto = {
         "HONOR",
         "评测",
         "自动抓取"
-      ]
-    },
-    {
-      "id": "coolapk-user-0b8d524b61d9",
-      "title": "竹本青：Insta360 X6上市三日在多国亚马逊运动相机榜单登顶",
-      "source": "竹本青",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-08-19",
-      "time": "17:31",
-      "publishedAt": "2026-08-19T17:31:10.000Z",
-      "url": "https://www.coolapk.com/feed/73332984",
-      "image": "http://image.coolapk.com/feed/2026/0820/01/4248714_b2674f84_0669_0443_401@900x1200.jpg",
-      "summary": "【影石Insta360 X6上市三日，海外多国亚马逊运动相机榜单登顶】 8月20日资讯，影石CEO刘靖康昨日分享称，Insta360 X6全景相机上市仅三日，即登顶海外各主要电商平台榜首。 其中，美国站登上运动相机Hot New Releases热门新品榜TOP1；德国站、日本站拿下运动相机Best Seller畅销榜TOP1。 数据来源：8月15日亚马逊…",
-      "tags": [
-        "行业",
-        "爆料",
-        "酷安博主"
       ]
     },
     {
@@ -877,26 +937,6 @@ window.phoneRadarAuto = {
       "summary": "By the end of September or early October, iQOO may unveil two new flagship phones in China. The iQOO 16 is expected to debut with the upcoming Snapdragon 8 Elite Gen 6 Pro, while…",
       "tags": [
         "vivo",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-f3c05e2c302e",
-      "title": "Galaxy S26 FE battery life could be longer than the Galaxy S25 FE",
-      "source": "SamMobile",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-19",
-      "time": "07:56",
-      "publishedAt": "2026-08-19T07:56:24.000Z",
-      "url": "https://www.sammobile.com/news/galaxy-s26-fe-battery-life-longer-galaxy-s25-fe/",
-      "image": "https://www.sammobile.com/wp-content/uploads/2026/08/Samsung-Galaxy-S26-FE-EPREL-ENERGY-Rating-Label.jpg",
-      "summary": "The Galaxy S26 FE could go official within the next few weeks, and most specifications of the phone have already leaked. Now, one of the ways the phone could be better than its pr…",
-      "tags": [
-        "Samsung",
         "爆料",
         "自动抓取"
       ]
