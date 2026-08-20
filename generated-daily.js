@@ -1,11 +1,11 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-08-20T14:53:50.472Z",
+  "updatedAt": "2026-08-20T16:49:36.675Z",
   "issueDate": "2026-08-20",
   "issue": "VOL.260820",
   "title": "手机情报日报",
-  "intro": "今日筛出 10 条重点，其中 8 条是重点爆料，包含 4 条 iPhone 相关、0 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 9 条重点，其中 8 条是重点爆料，包含 4 条 iPhone 相关、0 条官方确认、0 条参数线索。",
   "stats": {
-    "total": 10,
+    "total": 9,
     "iphone": 4,
     "leaks": 8,
     "official": 0,
@@ -43,6 +43,29 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
+          "id": "auto-5243cc284824",
+          "title": "iPhone 18 Pro 发布 / 上市相关消息",
+          "originalTitle": "",
+          "source": "MacRumors",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-08-20",
+          "time": "15:00",
+          "publishedAt": "2026-08-20T15:00:42.000Z",
+          "url": "https://www.macrumors.com/2026/08/20/iphone-18-pro-preorders-release-date-when/",
+          "image": "https://images.macrumors.com/article-new/2026/04/Four-iPhone-18-Pro-Colors-Mock-Feature.jpg",
+          "verdict": "先看",
+          "takeaway": "iPhone 有发布或新功能消息，适合确认是否和新机有关。",
+          "detail": "iPhone 18 Pro 发布 / 上市相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
           "id": "auto-b003ae2755ab",
           "title": "iPhone 18 Pro 外观设计线索曝光",
           "originalTitle": "",
@@ -67,25 +90,25 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
-          "id": "auto-9b78259bd480",
-          "title": "iPhone 相关消息",
+          "id": "auto-94d88a827976",
+          "title": "小米 REDMI K100 Pro 系列手机首销 7 天成绩曝光，Max 销量约前代 135%",
           "originalTitle": "",
-          "source": "MacRumors",
-          "brand": "iPhone",
+          "source": "IT之家",
+          "brand": "Xiaomi",
           "type": "爆料",
           "trust": "媒体汇总",
-          "date": "2026-08-19",
-          "time": "09:39",
-          "publishedAt": "2026-08-19T09:39:55.000Z",
-          "url": "https://www.macrumors.com/2026/08/19/iphone-17-pro-cases-fit-iphone-18-pro/",
-          "image": "https://images.macrumors.com/article-new/2026/08/iphone-17-18-pro-case-otterbox@2x-scaled.jpg",
+          "date": "2026-08-20",
+          "time": "15:01",
+          "publishedAt": "2026-08-20T15:01:10.000Z",
+          "url": "https://www.ithome.com/0/992/400.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/8/bd975bd6-6e4a-4cb1-a925-ae90113cc4d5.png",
           "verdict": "先看",
-          "takeaway": "iPhone 相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
-          "detail": "iPhone 相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
+          "takeaway": "IT之家 8 月 20 日消息，据长期关注国内手机市场份额的数码博主 @RD观测 今日发文，爆料了 REDMI K100 Pro 系列手机的首销情况。 REDMI K100 系列（K100 Pro / Pro Max）首销 7 天（首销当晚 + 之后 7 天）SO 约为 REDMI K90 系列（K90/Pro Max）的 95%。其中： REDMI K1…",
+          "detail": "IT之家 8 月 20 日消息，据长期关注国内手机市场份额的数码博主 @RD观测 今日发文，爆料了 REDMI K100 Pro 系列手机的首销情况。 REDMI K100 系列（K100 Pro / Pro Max）首销 7 天（首销当晚 + 之后 7 天）SO 约为 REDMI K90 系列（K90/Pro Max）的 95%。其中： REDMI K1…",
           "keyPoints": [
             "爆料来源"
           ],
-          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
@@ -183,32 +206,6 @@ window.phoneRadarDaily = {
           "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "weibo-3efbc442bce0",
-          "title": "数码闲聊站：Magic9系列主打超大底双2亿+阿莱影像 WIN2系列主打2K新直屏+超万级…",
-          "originalTitle": "",
-          "source": "数码闲聊站",
-          "brand": "HONOR",
-          "type": "爆料",
-          "trust": "高关注爆料源",
-          "date": "2026-08-20",
-          "time": "03:07",
-          "publishedAt": "2026-08-20T03:07:00.000Z",
-          "url": "https://weibo.com/6048569942/Ref593nsC",
-          "image": "",
-          "verdict": "先看",
-          "takeaway": "Magic9系列主打超大底双2亿+阿莱影像 WIN2系列主打2K新直屏+超万级大电池+风扇 700系列主打2亿影像+潮流新ID+中屏大电池 X/Power系列主打7英寸级超大屏+行业最大电池",
-          "detail": "Magic9系列主打超大底双2亿+阿莱影像 WIN2系列主打2K新直屏+超万级大电池+风扇 700系列主打2亿影像+潮流新ID+中屏大电池 X/Power系列主打7英寸级超大屏+行业最大电池",
-          "keyPoints": [
-            "影像硬件",
-            "屏幕形态",
-            "电池 / 充电",
-            "爆料来源"
-          ],
-          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         }
       ]
     },
@@ -238,36 +235,6 @@ window.phoneRadarDaily = {
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是实际体验内容，买前适合重点看缺点和取舍。",
-          "action": "中文源可以直接点开快读；看完只保留和购机有关的点。"
-        }
-      ]
-    },
-    {
-      "id": "market",
-      "title": "行业趋势",
-      "hint": "看方向，不急着当购买依据。",
-      "items": [
-        {
-          "id": "auto-5211e0421d61",
-          "title": "曝周杰伦将代言 vivo 手机，广告片拍摄现场画面曝光",
-          "originalTitle": "",
-          "source": "IT之家",
-          "brand": "vivo",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-08-20",
-          "time": "13:54",
-          "publishedAt": "2026-08-20T13:54:48.000Z",
-          "url": "https://www.ithome.com/0/992/367.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/8/75a8557a-049c-4d83-af9c-a4bc48d1782a.jpg",
-          "verdict": "先看",
-          "takeaway": "IT之家 8 月 20 日消息，据博主 @周杰伦的床边故事推广大使 分享，周杰伦正在给 vivo 手机拍摄广告片。有网友询问周杰伦是否会代言 vivo 手机，博主称：“ 应该是，等官宣。 ” IT之家注意到，周杰伦此次广告片的拍摄现场画面也已曝光。 值得一提的是，博主分享的广告片画面中，周杰伦手持着一台后摄采用大圆模组设计（看起来模组内有 4 到 5 个开…",
-          "detail": "IT之家 8 月 20 日消息，据博主 @周杰伦的床边故事推广大使 分享，周杰伦正在给 vivo 手机拍摄广告片。有网友询问周杰伦是否会代言 vivo 手机，博主称：“ 应该是，等官宣。 ” IT之家注意到，周杰伦此次广告片的拍摄现场画面也已曝光。 值得一提的是，博主分享的广告片画面中，周杰伦手持着一台后摄采用大圆模组设计（看起来模组内有 4 到 5 个开…",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
           "action": "中文源可以直接点开快读；看完只保留和购机有关的点。"
         }
       ]

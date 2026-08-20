@@ -1,6 +1,186 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-08-20T14:53:50.472Z",
+  "updatedAt": "2026-08-20T16:49:36.675Z",
   "news": [
+    {
+      "id": "auto-94db88e550ac",
+      "title": "I now understand why Google's keeping Pixel 11's best features locked away from older phones",
+      "source": "Android Police",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-20",
+      "time": "16:15",
+      "publishedAt": "2026-08-20T16:15:10.000Z",
+      "url": "https://www.androidpolice.com/i-understand-why-googles-keeping-pixel-11-best-features-locked-away-older-phones/",
+      "image": "",
+      "summary": "Some Pixel 11 exclusives make sense; others don't",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-6189c0f4c93f",
+      "title": "Someone already figured out how to fully control Pixel 11 Pro’s ‘HiLight’ and make it useful [Gallery]",
+      "source": "9to5Google",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-20",
+      "time": "16:05",
+      "publishedAt": "2026-08-20T16:05:00.000Z",
+      "url": "https://9to5google.com/2026/08/20/google-pixel-11-pro-hilight-third-party-control-feature/",
+      "image": "",
+      "summary": "“HiLight” is one of the biggest hardware features on Google’s Pixel 11 Pro devices, but it’s also one that the company hindered by heavily limited what you can do with it. Android…",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-db1e23b621e7",
+      "title": "The best Google Pixel 11 Pro Fold deals at launch — how to get the premium foldable for as cheap as possible",
+      "source": "Android Central",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-08-20",
+      "time": "15:35",
+      "publishedAt": "2026-08-20T15:35:35.000Z",
+      "url": "https://www.androidcentral.com/phones/google-pixel/best-google-pixel-11-pro-fold-deals",
+      "image": "https://cdn.mos.cms.futurecdn.net/MtvEao5eodYEPuauTVKrgN-1280-80.jpg",
+      "summary": "The Google Pixel 11 Pro Fold has arrived, and I'm gathering all of the best deals into this guide.",
+      "tags": [
+        "Pixel",
+        "评测",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-0f8124b120d6",
+      "title": "Google Pixel 11 flaunts its haptics with vibrations that match your ringtone",
+      "source": "9to5Google",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-20",
+      "time": "15:35",
+      "publishedAt": "2026-08-20T15:35:00.000Z",
+      "url": "https://9to5google.com/2026/08/20/google-pixel-11-flaunts-its-haptics-with-vibrations-that-match-your-ringtone/",
+      "image": "",
+      "summary": "Google’s Pixel phones have had killer haptic motors for several generations now, with the Pixel 11 further emphasizing these with a new ability to match the vibration patterns to…",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-37a3fb641240",
+      "title": "竹本青：【REDMI K100 Pro系列 首销7日销量曝光：Max约为上代135%，全系约为上代95%】 8月20日，博…",
+      "source": "竹本青",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-08-20",
+      "time": "15:07",
+      "publishedAt": "2026-08-20T15:07:57.000Z",
+      "url": "https://www.coolapk.com/feed/73347436",
+      "image": "http://image.coolapk.com/feed/2026/0820/23/4248714_cc6d30b3_8476_056_782@1271x761.jpg",
+      "summary": "【REDMI K100 Pro系列 首销7日销量曝光：Max约为上代135%，全系约为上代95%】 8月20日，博主「RD观测」分享第三方统计的REDMI K100 Pro系列 首销7日销量情况： K100 Pro系列 —— 约为K90/Pro Max的95% K100 Pro —— 约为K90的70% K100 Pro Max —— 约为K90 Pro…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-94d88a827976",
+      "title": "小米 REDMI K100 Pro 系列手机首销 7 天成绩曝光，Max 销量约前代 135%",
+      "source": "IT之家",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-20",
+      "time": "15:01",
+      "publishedAt": "2026-08-20T15:01:10.000Z",
+      "url": "https://www.ithome.com/0/992/400.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/8/bd975bd6-6e4a-4cb1-a925-ae90113cc4d5.png",
+      "summary": "IT之家 8 月 20 日消息，据长期关注国内手机市场份额的数码博主 @RD观测 今日发文，爆料了 REDMI K100 Pro 系列手机的首销情况。 REDMI K100 系列（K100 Pro / Pro Max）首销 7 天（首销当晚 + 之后 7 天）SO 约为 REDMI K90 系列（K90/Pro Max）的 95%。其中： REDMI K1…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-5243cc284824",
+      "title": "iPhone 18 Pro: Pre-Orders and Release Date?",
+      "source": "MacRumors",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-20",
+      "time": "15:00",
+      "publishedAt": "2026-08-20T15:00:42.000Z",
+      "url": "https://www.macrumors.com/2026/08/20/iphone-18-pro-preorders-release-date-when/",
+      "image": "https://images.macrumors.com/article-new/2026/04/Four-iPhone-18-Pro-Colors-Mock-Feature.jpg",
+      "summary": "Apple has yet to reveal when the iPhone 18 Pro and iPhone Ultra will be announced and released, but the dates usually follow a familiar pattern. As usual, the iPhone event is expe…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-43e5ca560ed6",
+      "title": "I'm ranking the best Google Pixel 11 and Pixel 11 Pro deals at launch — free phones, trade-in discounts, and more",
+      "source": "Android Central",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-08-20",
+      "time": "14:55",
+      "publishedAt": "2026-08-20T14:55:50.000Z",
+      "url": "https://www.androidcentral.com/phones/google-pixel/best-google-pixel-11-deals",
+      "image": "https://cdn.mos.cms.futurecdn.net/5kNkNMV9q7yhfhQL26vFLK-1280-80.jpg",
+      "summary": "The preorder period is over, and I'm tracking down the best Pixel 11 and Pixel 11 Pro deals from across the web.",
+      "tags": [
+        "Pixel",
+        "评测",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-62b6d1b95c40",
+      "title": "Tensor G6 vs Snapdragon 8 Elite Gen 5: Benchmark score, spec sheet, and more",
+      "source": "Gizmochina",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-20",
+      "time": "14:55",
+      "publishedAt": "2026-08-20T14:55:02.000Z",
+      "url": "https://www.gizmochina.com/2026/08/20/tensor-g6-vs-snapdragon-8-elite-gen-5-benchmark-score-spec-sheet-more/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/08/Tensor-G6-vs-Snapdragon-8-Elite-Gen-5-300x200.png?x23692",
+      "summary": "The Tensor G6 has been released with the new Pixel 11 series, and it brings serious upgrades over last year’s Tensor G5. The new chip utilizes ARM’s latest C1-Ultra and C1-Pro cor…",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-7be7ad3881d9",
       "title": "iPhone 18 won’t launch next month, here’s when it’s coming instead",
@@ -262,26 +442,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-60079e438c5e",
-      "title": "索尼 Xperia 10 VIII 现身 Geekbench，仍搭载高通骁龙 6 Gen 3 处理器",
-      "source": "IT之家",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-20",
-      "time": "10:41",
-      "publishedAt": "2026-08-20T10:41:37.000Z",
-      "url": "https://www.ithome.com/0/992/303.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/8/c95a322a-c04a-4a35-8df8-a86440e1ed3c.jpg",
-      "summary": "IT之家 8 月 20 日消息，一款型号为 XQ-GH54 的索尼手机出现在了 Geekbench 数据库中，经日媒 sumahodigest 确认为索尼 Xperia 10 VIII。 据介绍，2026 款 Xperia 手机包括“XQ-GE”和“XQ-GH”开头的两种型号，而这款 XQ-GH54 据信是 Xperia 10 VIII 欧版。 这款新机在…",
-      "tags": [
-        "行业",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-3925ac5577e8",
       "title": "Pixel 11 adds new Screen Saver features, including a new style that’s impossible to ignore",
       "source": "Android Authority",
@@ -319,46 +479,6 @@ window.phoneRadarAuto = {
         "Xiaomi",
         "爆料",
         "微博"
-      ]
-    },
-    {
-      "id": "auto-83c0469a9bc6",
-      "title": "华为 nova 16 SE 手机计划 9 月开启鸿蒙 HarmonyOS 7 花粉 Beta 招募",
-      "source": "IT之家",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-20",
-      "time": "10:17",
-      "publishedAt": "2026-08-20T10:17:48.000Z",
-      "url": "https://www.ithome.com/0/992/255.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/8/09b870e7-4939-40cb-a4cf-e3350022232a.jpg",
-      "summary": "IT之家 8 月 20 日消息，华为官方今日放出了鸿蒙 HarmonyOS 7 花粉 Beta 招募计划。目前，新版本系统已支持 Mate 80、Pura 90、nova 16、MatePad Edge、MateBook Fold 非凡大师等机型 Beta 尝鲜。 IT之家注意到，在官方宣传海报中提到， nova 16 SE 计划在 9 月开启鸿蒙 Har…",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "coolapk-user-56c5310f18c7",
-      "title": "竹本青：华为HarmonyOS 6 终端设备数破8000万",
-      "source": "竹本青",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-08-20",
-      "time": "10:09",
-      "publishedAt": "2026-08-20T10:09:38.000Z",
-      "url": "https://www.coolapk.com/feed/73342708",
-      "image": "http://image.coolapk.com/feed/2026/0820/18/4248714_94a166c8_0576_8577_499@1080x1920.jpg",
-      "summary": "【华为HarmonyOS 6 终端设备数破8000万】 华为高管余承东今天宣布，HarmonyOS 6 终端设备数突破8000万。今年6月，在华为开发者大会上，余承东曾官宣，鸿蒙操作系统已经成为中国第二大智能手机操作系统。 26年8月20日：鸿蒙6 终端设备数超8000万 26年7月2日：鸿蒙6 终端设备数超7000万 26年6月12日：鸿蒙6 终端设备数…",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "酷安博主"
       ]
     },
     {
@@ -682,26 +802,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-e5d1aa946492",
-      "title": "Google Pixel 11's hidden upgrade finally solves Android's biggest search problem",
-      "source": "Android Police",
-      "brand": "Pixel",
-      "model": "Pixel 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-20",
-      "time": "04:32",
-      "publishedAt": "2026-08-20T04:32:52.000Z",
-      "url": "https://www.androidpolice.com/google-pixel-11-hidden-upgrade-solves-androids-biggest-search-problem/",
-      "image": "",
-      "summary": "A unified search tool",
-      "tags": [
-        "Pixel",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-fe4be0c23708",
       "title": "Pixel 11 series quietly and exclusively adds one of the most useful new haptic features",
       "source": "Android Authority",
@@ -942,26 +1042,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-4d5241114cb7",
-      "title": "华为阔直板新机Pura X View 曝光：6.39'' 天马屏",
-      "source": "酷安热榜",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-08-20",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73340633",
-      "image": "",
-      "summary": "华为阔直板新机Pura X View 曝光：6.39'' 天马屏",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
       "id": "newsnow-5026e7765582",
       "title": "华为Pura X View 阔直屏亮相：28日开启门店体验",
       "source": "酷安热榜",
@@ -975,6 +1055,26 @@ window.phoneRadarAuto = {
       "url": "https://www.coolapk.com/feed/73340812",
       "image": "",
       "summary": "华为Pura X View 阔直屏亮相：28日开启门店体验",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-4d5241114cb7",
+      "title": "华为阔直板新机Pura X View 曝光：6.39'' 天马屏",
+      "source": "酷安热榜",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-08-20",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/73340633",
+      "image": "",
+      "summary": "华为阔直板新机Pura X View 曝光：6.39'' 天马屏",
       "tags": [
         "Huawei",
         "爆料",
@@ -1022,19 +1122,19 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-215a33bf4cf2",
-      "title": "华为PuraXView",
-      "source": "微博热搜",
+      "id": "newsnow-972e1605b492",
+      "title": "【全球首款阔直板手机正式亮相：华为Pura X View】",
+      "source": "酷安热榜",
       "brand": "Huawei",
       "model": "Huawei 相关机型",
       "type": "爆料",
-      "trust": "待验证",
+      "trust": "高关注爆料源",
       "date": "2026-08-20",
       "time": "",
       "publishedAt": "",
-      "url": "https://s.weibo.com/weibo?q=%E5%8D%8E%E4%B8%BAPuraXView&t=31&band_rank=19&Refer=top",
+      "url": "https://www.coolapk.com/feed/73340964",
       "image": "",
-      "summary": "华为PuraXView",
+      "summary": "【全球首款阔直板手机正式亮相：华为Pura X View】",
       "tags": [
         "Huawei",
         "爆料",
@@ -1437,26 +1537,6 @@ window.phoneRadarAuto = {
       "summary": "Leaked European Energy Labels point to a longer battery life, but with a sharp decline in charging cycles.",
       "tags": [
         "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-9b78259bd480",
-      "title": "iPhone 17 Pro Cases Fit iPhone 18 Pro - Or At Least Otterbox Thinks So",
-      "source": "MacRumors",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-19",
-      "time": "09:39",
-      "publishedAt": "2026-08-19T09:39:55.000Z",
-      "url": "https://www.macrumors.com/2026/08/19/iphone-17-pro-cases-fit-iphone-18-pro/",
-      "image": "https://images.macrumors.com/article-new/2026/08/iphone-17-18-pro-case-otterbox@2x-scaled.jpg",
-      "summary": "Bloomberg 's Mark Gurman noted on X (Twitter) today that Otterbox is already selling iPhone 18 Pro cases at Best Buy. While the timing is early for a new iPhone that isn't expecte…",
-      "tags": [
-        "iPhone",
         "爆料",
         "自动抓取"
       ]
