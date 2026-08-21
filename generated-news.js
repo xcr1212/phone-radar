@@ -1,6 +1,86 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-08-21T01:56:24.267Z",
+  "updatedAt": "2026-08-21T03:15:11.211Z",
   "news": [
+    {
+      "id": "auto-bc9d34327239",
+      "title": "谷歌 Pixel 11 系列手机新增 Charge 屏保，可充当床头时钟",
+      "source": "IT之家",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-21",
+      "time": "03:05",
+      "publishedAt": "2026-08-21T03:05:36.000Z",
+      "url": "https://www.ithome.com/0/992/509.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/8/73a4cb04-de58-48d7-8fbb-95feac916768.png?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 8 月 21 日消息，科技媒体 Android Authority 昨日（8 月 20 日）发布博文，报道称在 Pixel 11 系列手机中， 谷歌新增 Charge 屏保，让手机在充电闲置状态下可以充当床头时钟。 Pixel 11 系列手机启用 Charge 屏保之后，屏幕底部会显示电量进度条，并以大号文字展示精确电池百分比。界面还会以较小字体…",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-68c419e944d8",
+      "title": "Huawei Pura X View Price: Here is how much it can cost",
+      "source": "Huawei Central",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-21",
+      "time": "03:02",
+      "publishedAt": "2026-08-21T03:02:53.000Z",
+      "url": "https://www.huaweicentral.com/huawei-pura-x-view-price-here-is-how-much-it-can-cost/",
+      "image": "https://www.huaweicentral.com/wp-content/uploads/2026/08/Pura-X-View-Features.jpg",
+      "summary": "Huawei Pura X View appeared unexpectedly at the HarmonyOS-backed Enjoy G9 launch event, and while the company has already showcased its specs and features, it hasn’t disclosed the…",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-cbe35f195dbb",
+      "title": "竹本青：【荣耀员工确认：Robot Phone屏幕支持HDR VIVID、杜比视界】 8月21日，荣耀研发工程师 曹工 回…",
+      "source": "竹本青",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-08-21",
+      "time": "02:43",
+      "publishedAt": "2026-08-21T02:43:21.000Z",
+      "url": "https://www.coolapk.com/feed/73352398",
+      "image": "http://image.coolapk.com/feed/2026/0821/10/4248714_b25d111b_0200_7871_658@1439x710.jpg",
+      "summary": "【荣耀员工确认：Robot Phone屏幕支持HDR VIVID、杜比视界】 8月21日，荣耀研发工程师 曹工 回复网友，确认荣耀Robot Phone手机的屏幕支持HDR VIVID以及杜比视界标准。 该员工表示，Robot Phone新增特性较多，发布没有全部讲解，相关参数现已在官网补充。 #今日热点# #荣耀ROBOTPHONE# #MagicOS1…",
+      "tags": [
+        "HONOR",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-739f99dfded0",
+      "title": "三星 Galaxy S26 FE 手机渲染图曝光，8 月 27 日发布",
+      "source": "IT之家",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-21",
+      "time": "02:01",
+      "publishedAt": "2026-08-21T02:01:29.000Z",
+      "url": "https://www.ithome.com/0/992/461.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/8/82cbdbb5-2a2d-4a76-b6a0-6bf64bfa0561.png?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 8 月 21 日消息，科技媒体 sammyguru 今天（8 月 21 日）发布博文， 分享了一组渲染图，展示了 三星 Galaxy S26 FE，该手机此前已官宣 8 月 27 日发布。 颜色方面，该机预估配备 Blueberry（蓝莓色）、Graphite（石墨色）和 Pistachio（开心果色）3 种配色。 外观方面，手机正面采用平面屏幕…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-816bf6171c03",
       "title": "微信 iOS 版 8.0.76 最新官方正式版下载发布",
@@ -222,6 +302,26 @@ window.phoneRadarAuto = {
       ]
     },
     {
+      "id": "newsnow-bf7b77454996",
+      "title": "真的吗？这手机原本定位是nova，然后因为存储飙升，然后把定位提档了。这样可以卖更高的价格。 如果是，那真的是生不逢时[笑哭]还有发现都是12g的，这不就代表本来就是nova系列的？#数码日常# #华为Mate80ProMax# #鸿蒙7#",
+      "source": "酷安热榜",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-08-21",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/73347078",
+      "image": "",
+      "summary": "真的吗？这手机原本定位是nova，然后因为存储飙升，然后把定位提档了。这样可以卖更高的价格。 如果是，那真的是生不逢时[笑哭]还有发现都是12g的，这不就代表本来就是nova系列的？#数码日常# #华为Mate80ProMax# #鸿蒙7#",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
       "id": "newsnow-2fbde5c59be6",
       "title": "阔直板机最快8.28可体验，屏幕如果是天马，芯片是9030S的话还是算了吧[流泪]#华为Mate90ProMax# #鸿蒙7# #华为Mate80ProMax#",
       "source": "酷安热榜",
@@ -242,21 +342,21 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-bf7b77454996",
-      "title": "真的吗？这手机原本定位是nova，然后因为存储飙升，然后把定位提档了。这样可以卖更高的价格。 如果是，那真的是生不逢时[笑哭]还有发现都是12g的，这不就代表本来就是nova系列的？#数码日常# #华为Mate80ProMax# #鸿蒙7#",
+      "id": "newsnow-0fde87fec672",
+      "title": "苹果是真耐用啊，一个宝妈还在用十年前的手机#数码日常#",
       "source": "酷安热榜",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-08-21",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73347078",
+      "url": "https://www.coolapk.com/feed/73339643",
       "image": "",
-      "summary": "真的吗？这手机原本定位是nova，然后因为存储飙升，然后把定位提档了。这样可以卖更高的价格。 如果是，那真的是生不逢时[笑哭]还有发现都是12g的，这不就代表本来就是nova系列的？#数码日常# #华为Mate80ProMax# #鸿蒙7#",
+      "summary": "苹果是真耐用啊，一个宝妈还在用十年前的手机#数码日常#",
       "tags": [
-        "Huawei",
+        "iPhone",
         "爆料",
         "NewsNow"
       ]
@@ -298,46 +398,6 @@ window.phoneRadarAuto = {
       "tags": [
         "Huawei",
         "市场报告",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-716c2ed6861b",
-      "title": "大数据杀熟 3台手机竟显示3个价格",
-      "source": "百度热搜",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-21",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.baidu.com/s?wd=%E5%A4%A7%E6%95%B0%E6%8D%AE%E6%9D%80%E7%86%9F+3%E5%8F%B0%E6%89%8B%E6%9C%BA%E7%AB%9F%E6%98%BE%E7%A4%BA3%E4%B8%AA%E4%BB%B7%E6%A0%BC",
-      "image": "",
-      "summary": "大数据杀熟 3台手机竟显示3个价格",
-      "tags": [
-        "行业",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-63977412d36e",
-      "title": "华为发布阔直板手机",
-      "source": "抖音热点",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "待验证",
-      "date": "2026-08-21",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.douyin.com/hot/2617292",
-      "image": "",
-      "summary": "华为发布阔直板手机",
-      "tags": [
-        "Huawei",
-        "爆料",
         "NewsNow"
       ]
     },
@@ -457,26 +517,6 @@ window.phoneRadarAuto = {
       "summary": "The Galaxy S26 FE has already been comprehensively leaked and even though the device is expected to be unveiled in the near future, the leaks are still coming in. Several more pre…",
       "tags": [
         "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-4f0cfddfd3af",
-      "title": "Counterpoint 报告 2026Q2 拉美智能手机出货量：三星同比增 6%、摩托罗拉降 14%、小米降 27%、荣耀降 8%、苹果增 5%",
-      "source": "IT之家",
-      "brand": "HONOR",
-      "model": "HONOR 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-20",
-      "time": "19:24",
-      "publishedAt": "2026-08-20T19:24:48.000Z",
-      "url": "https://www.ithome.com/0/992/413.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/8/5ee3ef8c-fe65-4978-be24-ee986c0bdffe.png?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 8 月 21 日消息，根据 Counterpoint Research 的最新市场监测报告， 2026 年第二季度拉丁美洲智能手机出货量同比下滑 10% ，主要受持续的内存短缺问题推动。 该季度出货量迎来 2023 年第三季度以来最大同比降幅，当时疫情后的经济衰退和高库存曾导致智能手机出货量出现两位数下滑。 下滑的主要原因是，2026 年第一季度…",
-      "tags": [
-        "HONOR",
         "爆料",
         "自动抓取"
       ]
@@ -722,46 +762,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "coolapk-user-37a3fb641240",
-      "title": "竹本青：【REDMI K100 Pro系列 首销7日销量曝光：Max约为上代135%，全系约为上代95%】 8月20日，博…",
-      "source": "竹本青",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-08-20",
-      "time": "15:07",
-      "publishedAt": "2026-08-20T15:07:57.000Z",
-      "url": "https://www.coolapk.com/feed/73347436",
-      "image": "http://image.coolapk.com/feed/2026/0820/23/4248714_cc6d30b3_8476_056_782@1271x761.jpg",
-      "summary": "【REDMI K100 Pro系列 首销7日销量曝光：Max约为上代135%，全系约为上代95%】 8月20日，博主「RD观测」分享第三方统计的REDMI K100 Pro系列 首销7日销量情况： K100 Pro系列 —— 约为K90/Pro Max的95% K100 Pro —— 约为K90的70% K100 Pro Max —— 约为K90 Pro…",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
-      "id": "auto-94d88a827976",
-      "title": "小米 REDMI K100 Pro 系列手机首销 7 天成绩曝光，Max 销量约前代 135%",
-      "source": "IT之家",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-20",
-      "time": "15:01",
-      "publishedAt": "2026-08-20T15:01:10.000Z",
-      "url": "https://www.ithome.com/0/992/400.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/8/bd975bd6-6e4a-4cb1-a925-ae90113cc4d5.png",
-      "summary": "IT之家 8 月 20 日消息，据长期关注国内手机市场份额的数码博主 @RD观测 今日发文，爆料了 REDMI K100 Pro 系列手机的首销情况。 REDMI K100 系列（K100 Pro / Pro Max）首销 7 天（首销当晚 + 之后 7 天）SO 约为 REDMI K90 系列（K90/Pro Max）的 95%。其中： REDMI K1…",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-5243cc284824",
       "title": "iPhone 18 Pro: Pre-Orders and Release Date",
       "source": "MacRumors",
@@ -899,26 +899,6 @@ window.phoneRadarAuto = {
         "Pixel",
         "爆料",
         "自动抓取"
-      ]
-    },
-    {
-      "id": "coolapk-user-876f5c577c9c",
-      "title": "竹本青：全国首家滴滴司机服务授权旗舰店正式投入使用",
-      "source": "竹本青",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-08-20",
-      "time": "12:55",
-      "publishedAt": "2026-08-20T12:55:09.000Z",
-      "url": "https://www.coolapk.com/feed/73345343",
-      "image": "http://image.coolapk.com/feed/2026/0820/20/4248714_dda2c9e6_0344_3929_983@1280x742.jpg",
-      "summary": "【滴滴升级线下司机服务门店体系，首家司机服务旗舰店正式启用】 据滴滴官方今天消息，全国首家滴滴司机服务授权旗舰店，近日已在杭州正式投入使用。伴随杭州旗舰店的启用和深圳、上海旗舰店的试运营，滴滴三层立体的线下司机服务门店体系正式完成升级。 滴滴司机服务授权旗舰店聚焦“司机问题面对面解决”、“休憩补给”、“保障与关怀”、“新司机出车指导”四大核心功能，围绕司机…",
-      "tags": [
-        "行业",
-        "爆料",
-        "酷安博主"
       ]
     },
     {

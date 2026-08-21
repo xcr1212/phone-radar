@@ -1,12 +1,12 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-08-21T01:56:24.267Z",
+  "updatedAt": "2026-08-21T03:15:11.211Z",
   "issueDate": "2026-08-21",
   "issue": "VOL.260821",
   "title": "手机情报日报",
-  "intro": "今日筛出 10 条重点，其中 8 条是重点爆料，包含 6 条 iPhone 相关、0 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 9 条重点，其中 8 条是重点爆料，包含 5 条 iPhone 相关、0 条官方确认、0 条参数线索。",
   "stats": {
-    "total": 10,
-    "iphone": 6,
+    "total": 9,
+    "iphone": 5,
     "leaks": 8,
     "official": 0,
     "specs": 0
@@ -65,6 +65,30 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
+          "id": "auto-739f99dfded0",
+          "title": "三星 Galaxy S26 FE 手机渲染图曝光，8 月 27 日发布",
+          "originalTitle": "",
+          "source": "IT之家",
+          "brand": "Samsung",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-08-21",
+          "time": "02:01",
+          "publishedAt": "2026-08-21T02:01:29.000Z",
+          "url": "https://www.ithome.com/0/992/461.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/8/82cbdbb5-2a2d-4a76-b6a0-6bf64bfa0561.png?x-bce-process=image/format,f_auto",
+          "verdict": "先看",
+          "takeaway": "IT之家 8 月 21 日消息，科技媒体 sammyguru 今天（8 月 21 日）发布博文， 分享了一组渲染图，展示了 三星 Galaxy S26 FE，该手机此前已官宣 8 月 27 日发布。 颜色方面，该机预估配备 Blueberry（蓝莓色）、Graphite（石墨色）和 Pistachio（开心果色）3 种配色。 外观方面，手机正面采用平面屏幕…",
+          "detail": "IT之家 8 月 21 日消息，科技媒体 sammyguru 今天（8 月 21 日）发布博文， 分享了一组渲染图，展示了 三星 Galaxy S26 FE，该手机此前已官宣 8 月 27 日发布。 颜色方面，该机预估配备 Blueberry（蓝莓色）、Graphite（石墨色）和 Pistachio（开心果色）3 种配色。 外观方面，手机正面采用平面屏幕…",
+          "keyPoints": [
+            "外观 / 配色 / 尺寸",
+            "屏幕形态"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
           "id": "auto-5079361dbdc1",
           "title": "iPhone 芯片 / 性能相关消息",
           "originalTitle": "",
@@ -111,23 +135,24 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
-          "id": "auto-94d88a827976",
-          "title": "小米 REDMI K100 Pro 系列手机首销 7 天成绩曝光，Max 销量约前代 135%",
+          "id": "auto-bc9d34327239",
+          "title": "谷歌 Pixel 11 系列手机新增 Charge 屏保，可充当床头时钟",
           "originalTitle": "",
           "source": "IT之家",
-          "brand": "Xiaomi",
+          "brand": "Pixel",
           "type": "爆料",
           "trust": "媒体汇总",
-          "date": "2026-08-20",
-          "time": "15:01",
-          "publishedAt": "2026-08-20T15:01:10.000Z",
-          "url": "https://www.ithome.com/0/992/400.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/8/bd975bd6-6e4a-4cb1-a925-ae90113cc4d5.png",
+          "date": "2026-08-21",
+          "time": "03:05",
+          "publishedAt": "2026-08-21T03:05:36.000Z",
+          "url": "https://www.ithome.com/0/992/509.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/8/73a4cb04-de58-48d7-8fbb-95feac916768.png?x-bce-process=image/format,f_auto",
           "verdict": "先看",
-          "takeaway": "IT之家 8 月 20 日消息，据长期关注国内手机市场份额的数码博主 @RD观测 今日发文，爆料了 REDMI K100 Pro 系列手机的首销情况。 REDMI K100 系列（K100 Pro / Pro Max）首销 7 天（首销当晚 + 之后 7 天）SO 约为 REDMI K90 系列（K90/Pro Max）的 95%。其中： REDMI K1…",
-          "detail": "IT之家 8 月 20 日消息，据长期关注国内手机市场份额的数码博主 @RD观测 今日发文，爆料了 REDMI K100 Pro 系列手机的首销情况。 REDMI K100 系列（K100 Pro / Pro Max）首销 7 天（首销当晚 + 之后 7 天）SO 约为 REDMI K90 系列（K90/Pro Max）的 95%。其中： REDMI K1…",
+          "takeaway": "IT之家 8 月 21 日消息，科技媒体 Android Authority 昨日（8 月 20 日）发布博文，报道称在 Pixel 11 系列手机中， 谷歌新增 Charge 屏保，让手机在充电闲置状态下可以充当床头时钟。 Pixel 11 系列手机启用 Charge 屏保之后，屏幕底部会显示电量进度条，并以大号文字展示精确电池百分比。界面还会以较小字体…",
+          "detail": "IT之家 8 月 21 日消息，科技媒体 Android Authority 昨日（8 月 20 日）发布博文，报道称在 Pixel 11 系列手机中， 谷歌新增 Charge 屏保，让手机在充电闲置状态下可以充当床头时钟。 Pixel 11 系列手机启用 Charge 屏保之后，屏幕底部会显示电量进度条，并以大号文字展示精确电池百分比。界面还会以较小字体…",
           "keyPoints": [
-            "爆料来源"
+            "屏幕形态",
+            "电池 / 充电"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
@@ -178,30 +203,6 @@ window.phoneRadarDaily = {
           "confidence": "可信度较高，但仍属于发布前线索。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "newsnow-2fbde5c59be6",
-          "title": "阔直板机最快8.28可体验，屏幕如果是天马，芯片是9030S的话还是算了吧[流泪]#华为Mate90ProMax# #鸿蒙7# #华为Mate80ProMax#",
-          "originalTitle": "",
-          "source": "酷安热榜",
-          "brand": "Huawei",
-          "type": "爆料",
-          "trust": "高关注爆料源",
-          "date": "2026-08-21",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://www.coolapk.com/feed/73341160",
-          "image": "",
-          "verdict": "先看",
-          "takeaway": "阔直板机最快8.28可体验，屏幕如果是天马，芯片是9030S的话还是算了吧[流泪]#华为Mate90ProMax# #鸿蒙7# #华为Mate80ProMax#",
-          "detail": "阔直板机最快8.28可体验，屏幕如果是天马，芯片是9030S的话还是算了吧[流泪]#华为Mate90ProMax# #鸿蒙7# #华为Mate80ProMax#",
-          "keyPoints": [
-            "屏幕形态",
-            "芯片 / 性能"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         }
       ]
     },
@@ -231,29 +232,6 @@ window.phoneRadarDaily = {
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "中文源可以直接点开快读；看完只保留和购机有关的点。"
-        },
-        {
-          "id": "auto-a9502de6c1a0",
-          "title": "iPhone X 彻底「停产」了，但我们还没走出它定义的时代｜明日后视镜",
-          "originalTitle": "",
-          "source": "爱范儿",
-          "brand": "iPhone",
-          "type": "评测",
-          "trust": "媒体汇总",
-          "date": "2026-08-20",
-          "time": "02:11",
-          "publishedAt": "2026-08-20T02:11:32.000Z",
-          "url": "https://www.ifanr.com/1675378?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "image": "https://s3.ifanr.com/images/ep/uploads/%E8%8B%B9%E6%9E%9C%E5%AE%98%E7%BD%91%E4%B8%8A%E9%82%A3%E4%BB%BD%E9%BB%98%E9%BB%98%E6%9B%B4%E6%96%B0%E7%9A%84%E5%90%8D%E5%8D%95%E9%87%8C%EF%BC%8C%E4%B8%8A%E5%91%A8%E5%A4%9A%E4%BA%86%E4%B8%80%E4%B8%AA%E5%A4%A7%E5%AE%B6%E7%86%9F%E6%82%89%E7%9A%84%E5%90%8D%E5%AD%97%E3%80%82/2845b8f2-ff3f-47a6-8ba2-1c1fff9d0d02.png",
-          "verdict": "先看",
-          "takeaway": "下一个「iPhone X」在哪里？",
-          "detail": "下一个「iPhone X」在哪里？",
-          "keyPoints": [
-            "评测"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是实际体验内容，买前适合重点看缺点和取舍。",
           "action": "中文源可以直接点开快读；看完只保留和购机有关的点。"
         }
       ]
