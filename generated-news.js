@@ -1,6 +1,106 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-08-21T16:50:15.631Z",
+  "updatedAt": "2026-08-21T18:55:01.096Z",
   "news": [
+    {
+      "id": "auto-74fcc934feb5",
+      "title": "Pixel 11 gets in on the digicam trend",
+      "source": "The Verge",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-21",
+      "time": "18:24",
+      "publishedAt": "2026-08-21T18:24:41.000Z",
+      "url": "https://www.theverge.com/podcast/983288/pixel-11-gets-in-on-the-digicam-trend",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/VST082126_Site.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "summary": "I recently looked back at a photo I'd taken on a smartphone in 2014, and I was struck by just how good it looked. The details were soft, the shadows were dark. It was the kind of…",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-35776778a0a2",
+      "title": "Mint Mobile will basically give you a FREE year of wireless when you buy the Google Pixel 11 — here's how it works",
+      "source": "Android Central",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-08-21",
+      "time": "17:50",
+      "publishedAt": "2026-08-21T17:50:08.000Z",
+      "url": "https://www.androidcentral.com/phones/google-pixel/mint-mobile-will-basically-give-you-a-free-year-of-wireless-when-you-buy-the-google-pixel-11-heres-how-it-works",
+      "image": "https://cdn.mos.cms.futurecdn.net/FU3MpjwcwWSdwzEXkC5Vzm-1280-80.jpg",
+      "summary": "Mint Mobile has finally received its Google Pixel 11 stock, and the deals are epic.",
+      "tags": [
+        "Pixel",
+        "评测",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-10a88c7f6e62",
+      "title": "The MacRumors Show: Michael Fisher Talks iPhone Ultra",
+      "source": "MacRumors",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-21",
+      "time": "17:48",
+      "publishedAt": "2026-08-21T17:48:57.000Z",
+      "url": "https://www.macrumors.com/2026/08/21/the-macrumors-show-michael-fisher-iphone-ultra/",
+      "image": "",
+      "summary": "YouTuber Michael Fisher, known as \" MrMobile ,\" joins us on this week's episode of The MacRumors Show to talk through key rumors about the \" iPhone Ultra \" and how the device coul…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-76151addcc7f",
+      "title": "iPhone 18 Pro release date: Here’s when Apple’s new flagship is coming",
+      "source": "9to5Mac",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-21",
+      "time": "17:47",
+      "publishedAt": "2026-08-21T17:47:34.000Z",
+      "url": "https://9to5mac.com/2026/08/21/iphone-18-release-date-when-apples-new-model-is-coming/",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/iphone-18-pro-mockup-fi-new-color.jpg?quality=82&strip=all&w=1600",
+      "summary": "Apple’s new flagship iPhone 18 Pro and iPhone Ultra will be unveiled soon, following the same release pattern the company has kept for years. Here’s when to expect the iPhone 18 P…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-695efcdb6728",
+      "title": "I bought the Galaxy Z Fold 8 Ultra because Samsung fixed the one thing I needed it to",
+      "source": "SamMobile",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-21",
+      "time": "17:32",
+      "publishedAt": "2026-08-21T17:32:13.000Z",
+      "url": "https://www.sammobile.com/news/i-bought-the-galaxy-z-fold-8-ultra-because-samsung-fixed-the-one-thing-i-needed-it-to/",
+      "image": "",
+      "summary": "The Galaxy Z Fold 8 is the hero foldable device this year. A new form factor, an interesting design, and the wider form factor have made it a clear hit. For many Galaxy Z Fold 7 o…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-a8443c9e6d69",
       "title": "Samsung Galaxy S26 FE gets an early unboxing, revealing key design details",
@@ -322,26 +422,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-68667eb60afe",
-      "title": "I stopped caring about camera hardware years ago; the Pixel 11 Pro changed that",
-      "source": "Android Police",
-      "brand": "Pixel",
-      "model": "Pixel 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-21",
-      "time": "12:00",
-      "publishedAt": "2026-08-21T12:00:10.000Z",
-      "url": "https://www.androidpolice.com/i-stopped-caring-about-camera-hardware-years-ago-the-pixel-11-pro-changed-that/",
-      "image": "",
-      "summary": "Camera upgrades can still be meaningful",
-      "tags": [
-        "Pixel",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-8a38dbbf7cea",
       "title": "Counterpoint 预测 2026 年全球智能手机出货量下降 14.3%，华为逆势增长、三星重回第一",
       "source": "IT之家",
@@ -557,26 +637,6 @@ window.phoneRadarAuto = {
       "summary": "Fresh from the factory for your new Pixel 11.",
       "tags": [
         "Pixel",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-55c81a96676d",
-      "title": "Galaxy A08 4G gets a jump in battery capacity over the Galaxy A07",
-      "source": "SamMobile",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-21",
-      "time": "04:24",
-      "publishedAt": "2026-08-21T04:24:21.000Z",
-      "url": "https://www.sammobile.com/news/galaxy-a08-4g-battery-capacity-jump/",
-      "image": "",
-      "summary": "Besides the Galaxy S26 FE, Samsung is expected to unveil two new entry-level smartphones soon. The Galaxy A08 4G will be the cheaper of the two entry-level devices and could featu…",
-      "tags": [
-        "Samsung",
         "爆料",
         "自动抓取"
       ]
