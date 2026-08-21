@@ -1,6 +1,106 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-08-21T04:53:03.420Z",
+  "updatedAt": "2026-08-21T07:06:19.107Z",
   "news": [
+    {
+      "id": "auto-5aaef4787d0b",
+      "title": "小米 Poco F9 Ultra 手机现身 Geekbench，16GB 内存 + 骁龙 8 Elite Gen 5 芯片",
+      "source": "IT之家",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-21",
+      "time": "06:44",
+      "publishedAt": "2026-08-21T06:44:23.000Z",
+      "url": "https://www.ithome.com/0/992/635.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/8/26860e25-3545-4152-8be2-b26318d4c8e4.png?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 8 月 21 日消息，一款型号为 26077PC53G 的小米新机近日现身 Geekbench 跑分数据库，X 平台消息人士 Abhishek Yadav 认为该机是 Poco F9 Ultra。 数据库信息显示， 这款手机将搭载高通骁龙 8 Elite Gen 5 芯片 ，辅以 Adreno 840 GPU，并在本次跑分中录得单核 2980 分…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-b350b5419451",
+      "title": "Vivo X500 Pro / Pro Max spotted in the wild, reveals modified camera design",
+      "source": "Gizmochina",
+      "brand": "vivo",
+      "model": "vivo 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-21",
+      "time": "06:27",
+      "publishedAt": "2026-08-21T06:27:04.000Z",
+      "url": "https://www.gizmochina.com/2026/08/21/vivo-x500-pro-pro-max-spotted-wild-rear-design/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/08/Vivo-X500-Pro-series-phone-300x189.jpg?x23692",
+      "summary": "Vivo is expected to unveil the Vivo X500 series next month (September) in China. The lineup is expected to include at least three models, namely the X500, X500 Pro, and X500 Pro M…",
+      "tags": [
+        "vivo",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-21196697d09c",
+      "title": "竹本青：OriginOS 7 全新个性主题效果演示公开",
+      "source": "竹本青",
+      "brand": "vivo",
+      "model": "vivo 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-08-21",
+      "time": "06:03",
+      "publishedAt": "2026-08-21T06:03:59.000Z",
+      "url": "https://www.coolapk.com/feed/73355255",
+      "image": "http://image.coolapk.com/feed/2026/0821/14/4248714_22d77746_2237_1245_463-livepic@1440x1920.jpg",
+      "summary": "【OriginOS 7 全新个性主题效果演示公开】 「液态主题」抬手一晃就 Duang Duang，随手晃两下；此外还有水波纹效果。 「闪卡主题」喜欢的角色、舞台和风景，都能变成“电子闪卡”，全部收藏在锁屏里。 #OriginOS6# #今日热点# #OriginOS7#",
+      "tags": [
+        "vivo",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-7f04b5da49ff",
+      "title": "Pixel 11 series factory images are now available to download",
+      "source": "Android Authority",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-21",
+      "time": "05:33",
+      "publishedAt": "2026-08-21T05:33:22.000Z",
+      "url": "https://www.androidauthority.com/pixel-11-factory-images-3701343/",
+      "image": "",
+      "summary": "Fresh from the factory for your new Pixel 11.",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-377c3c2b578d",
+      "title": "JSCHEN小小狐：vivo X500 Pro Max 疑似现身：周杰伦或代言",
+      "source": "JSCHEN小小狐",
+      "brand": "vivo",
+      "model": "vivo 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-08-21",
+      "time": "05:16",
+      "publishedAt": "2026-08-21T05:16:35.000Z",
+      "url": "https://www.coolapk.com/feed/73354642",
+      "image": "http://image.coolapk.com/feed/2026/0821/13/4702274_2fea7080_9392_732_130@1080x1440.jpg",
+      "summary": "『vivo X500 Pro Max 疑似现身：周杰伦或代言』 近日，有博主在小红书爆料称，周杰伦正在为 vivo 手机拍摄广告片，并放出了相关拍摄现场的路透图。当被问及周杰伦是否代言 vivo 时，该博主回应称“应该是，等官宣”。 由路透图分析，该机或对应 vivo X500 Pro Max，采用中置大圆三摄模组 + 左上角竖条闪光灯设计，直角金属中框…",
+      "tags": [
+        "vivo",
+        "爆料",
+        "酷安博主"
+      ]
+    },
     {
       "id": "auto-55c81a96676d",
       "title": "Galaxy A08 4G gets a jump in battery capacity over the Galaxy A07",
@@ -23,7 +123,7 @@ window.phoneRadarAuto = {
     },
     {
       "id": "coolapk-user-9770e890b738",
-      "title": "竹本青：【2026年第33周 国内手机市场份额曝光：华为连续9周榜首，小米本周升至榜二】 ● 2026 W33：大盘上涨约…",
+      "title": "竹本青：2026年第33周国内手机市场份额曝光：小米升至榜二",
       "source": "竹本青",
       "brand": "HONOR",
       "model": "HONOR 相关机型",
@@ -75,86 +175,6 @@ window.phoneRadarAuto = {
       "url": "https://www.huaweicentral.com/huawei-pura-x-view-price-here-is-how-much-it-can-cost/",
       "image": "https://www.huaweicentral.com/wp-content/uploads/2026/08/Pura-X-View-Features.jpg",
       "summary": "Huawei Pura X View appeared unexpectedly at the HarmonyOS-backed Enjoy G9 launch event, and while the company has already showcased its specs and features, it hasn’t disclosed the…",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "coolapk-user-cbe35f195dbb",
-      "title": "竹本青：【荣耀员工确认：Robot Phone屏幕支持HDR VIVID、杜比视界】 8月21日，荣耀研发工程师 曹工 回…",
-      "source": "竹本青",
-      "brand": "HONOR",
-      "model": "HONOR 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-08-21",
-      "time": "02:43",
-      "publishedAt": "2026-08-21T02:43:21.000Z",
-      "url": "https://www.coolapk.com/feed/73352398",
-      "image": "http://image.coolapk.com/feed/2026/0821/10/4248714_b25d111b_0200_7871_658@1439x710.jpg",
-      "summary": "【荣耀员工确认：Robot Phone屏幕支持HDR VIVID、杜比视界】 8月21日，荣耀研发工程师 曹工 回复网友，确认荣耀Robot Phone手机的屏幕支持HDR VIVID以及杜比视界标准。 该员工表示，Robot Phone新增特性较多，发布没有全部讲解，相关参数现已在官网补充。 #今日热点# #荣耀ROBOTPHONE# #MagicOS1…",
-      "tags": [
-        "HONOR",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
-      "id": "auto-739f99dfded0",
-      "title": "三星 Galaxy S26 FE 手机渲染图曝光，8 月 27 日发布",
-      "source": "IT之家",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-21",
-      "time": "02:01",
-      "publishedAt": "2026-08-21T02:01:29.000Z",
-      "url": "https://www.ithome.com/0/992/461.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/8/82cbdbb5-2a2d-4a76-b6a0-6bf64bfa0561.png?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 8 月 21 日消息，科技媒体 sammyguru 今天（8 月 21 日）发布博文， 分享了一组渲染图，展示了 三星 Galaxy S26 FE，该手机此前已官宣 8 月 27 日发布。 颜色方面，该机预估配备 Blueberry（蓝莓色）、Graphite（石墨色）和 Pistachio（开心果色）3 种配色。 外观方面，手机正面采用平面屏幕…",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-816bf6171c03",
-      "title": "微信 iOS 版 8.0.76 最新官方正式版下载发布",
-      "source": "IT之家",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-21",
-      "time": "01:34",
-      "publishedAt": "2026-08-21T01:34:05.000Z",
-      "url": "https://www.ithome.com/0/992/450.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2022/4/d612a258-250d-4852-908c-ad3413aaa709.jpg?x-bce-process=image/watermark,image_aW1nL3dhdGVybWFyay9xdy9xdzEzOC5wbmc=,g_7,x_14,y_14,a_0,t_100",
-      "summary": "IT之家 8 月 21 日消息，微信 iOS 平台迎来了 8.0.76 正式版更新。 官方更新日志为： 本次更新： - 解决了一些已知问题。 大家在 IT之家微信号 回复“ 微信 ”两字，即可获取当前最新官方内部版微信下载。 本文由机器人发布，IT之家稍后将为大家带来具体更新内容。如果你发现了日志中未提及的更新点，欢迎发在评论区供大家参考~[微笑]",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-2d02cdb533d9",
-      "title": "【视频】华为Pura X View 首发体验，当“阔”屏来到直板机",
-      "source": "IT之家",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-21",
-      "time": "01:13",
-      "publishedAt": "2026-08-21T01:13:30.000Z",
-      "url": "https://www.ithome.com/0/992/443.htm",
-      "image": "",
-      "summary": "华为Pura X View 首发体验，当“阔”屏来到直板机。 点击关注IT之家B站账号",
       "tags": [
         "Huawei",
         "爆料",
@@ -282,46 +302,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-91b151767af6",
-      "title": "华为阔直板新机Pura X View 曝光：6.39'' 天马屏",
-      "source": "酷安热榜",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-08-21",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73340633",
-      "image": "",
-      "summary": "华为阔直板新机Pura X View 曝光：6.39'' 天马屏",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-bf7b77454996",
-      "title": "真的吗？这手机原本定位是nova，然后因为存储飙升，然后把定位提档了。这样可以卖更高的价格。 如果是，那真的是生不逢时[笑哭]还有发现都是12g的，这不就代表本来就是nova系列的？#数码日常# #华为Mate80ProMax# #鸿蒙7#",
-      "source": "酷安热榜",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-08-21",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73347078",
-      "image": "",
-      "summary": "真的吗？这手机原本定位是nova，然后因为存储飙升，然后把定位提档了。这样可以卖更高的价格。 如果是，那真的是生不逢时[笑哭]还有发现都是12g的，这不就代表本来就是nova系列的？#数码日常# #华为Mate80ProMax# #鸿蒙7#",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
       "id": "newsnow-0fde87fec672",
       "title": "苹果是真耐用啊，一个宝妈还在用十年前的手机#数码日常#",
       "source": "酷安热榜",
@@ -342,6 +322,26 @@ window.phoneRadarAuto = {
       ]
     },
     {
+      "id": "newsnow-91b151767af6",
+      "title": "华为阔直板新机Pura X View 曝光：6.39'' 天马屏",
+      "source": "酷安热榜",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-08-21",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/73340633",
+      "image": "",
+      "summary": "华为阔直板新机Pura X View 曝光：6.39'' 天马屏",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
       "id": "newsnow-2fbde5c59be6",
       "title": "阔直板机最快8.28可体验，屏幕如果是天马，芯片是9030S的话还是算了吧[流泪]#华为Mate90ProMax# #鸿蒙7# #华为Mate80ProMax#",
       "source": "酷安热榜",
@@ -355,6 +355,26 @@ window.phoneRadarAuto = {
       "url": "https://www.coolapk.com/feed/73341160",
       "image": "",
       "summary": "阔直板机最快8.28可体验，屏幕如果是天马，芯片是9030S的话还是算了吧[流泪]#华为Mate90ProMax# #鸿蒙7# #华为Mate80ProMax#",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-bf7b77454996",
+      "title": "真的吗？这手机原本定位是nova，然后因为存储飙升，然后把定位提档了。这样可以卖更高的价格。 如果是，那真的是生不逢时[笑哭]还有发现都是12g的，这不就代表本来就是nova系列的？#数码日常# #华为Mate80ProMax# #鸿蒙7#",
+      "source": "酷安热榜",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-08-21",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/73347078",
+      "image": "",
+      "summary": "真的吗？这手机原本定位是nova，然后因为存储飙升，然后把定位提档了。这样可以卖更高的价格。 如果是，那真的是生不逢时[笑哭]还有发现都是12g的，这不就代表本来就是nova系列的？#数码日常# #华为Mate80ProMax# #鸿蒙7#",
       "tags": [
         "Huawei",
         "爆料",

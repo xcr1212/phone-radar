@@ -1,5 +1,5 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-08-21T04:53:03.420Z",
+  "updatedAt": "2026-08-21T07:06:19.107Z",
   "issueDate": "2026-08-21",
   "issue": "VOL.260821",
   "title": "手机情报日报",
@@ -36,30 +36,6 @@ window.phoneRadarDaily = {
           "keyPoints": [
             "外观 / 配色 / 尺寸",
             "爆料来源"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "auto-739f99dfded0",
-          "title": "三星 Galaxy S26 FE 手机渲染图曝光，8 月 27 日发布",
-          "originalTitle": "",
-          "source": "IT之家",
-          "brand": "Samsung",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-08-21",
-          "time": "02:01",
-          "publishedAt": "2026-08-21T02:01:29.000Z",
-          "url": "https://www.ithome.com/0/992/461.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/8/82cbdbb5-2a2d-4a76-b6a0-6bf64bfa0561.png?x-bce-process=image/format,f_auto",
-          "verdict": "先看",
-          "takeaway": "IT之家 8 月 21 日消息，科技媒体 sammyguru 今天（8 月 21 日）发布博文， 分享了一组渲染图，展示了 三星 Galaxy S26 FE，该手机此前已官宣 8 月 27 日发布。 颜色方面，该机预估配备 Blueberry（蓝莓色）、Graphite（石墨色）和 Pistachio（开心果色）3 种配色。 外观方面，手机正面采用平面屏幕…",
-          "detail": "IT之家 8 月 21 日消息，科技媒体 sammyguru 今天（8 月 21 日）发布博文， 分享了一组渲染图，展示了 三星 Galaxy S26 FE，该手机此前已官宣 8 月 27 日发布。 颜色方面，该机预估配备 Blueberry（蓝莓色）、Graphite（石墨色）和 Pistachio（开心果色）3 种配色。 外观方面，手机正面采用平面屏幕…",
-          "keyPoints": [
-            "外观 / 配色 / 尺寸",
-            "屏幕形态"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
@@ -106,6 +82,29 @@ window.phoneRadarDaily = {
           "detail": "iPhone 18 Pro 发布 / 上市相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
           "keyPoints": [
             "爆料"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "auto-5aaef4787d0b",
+          "title": "小米 Poco F9 Ultra 手机现身 Geekbench，16GB 内存 + 骁龙 8 Elite Gen 5 芯片",
+          "originalTitle": "",
+          "source": "IT之家",
+          "brand": "Xiaomi",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-08-21",
+          "time": "06:44",
+          "publishedAt": "2026-08-21T06:44:23.000Z",
+          "url": "https://www.ithome.com/0/992/635.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/8/26860e25-3545-4152-8be2-b26318d4c8e4.png?x-bce-process=image/format,f_auto",
+          "verdict": "先看",
+          "takeaway": "IT之家 8 月 21 日消息，一款型号为 26077PC53G 的小米新机近日现身 Geekbench 跑分数据库，X 平台消息人士 Abhishek Yadav 认为该机是 Poco F9 Ultra。 数据库信息显示， 这款手机将搭载高通骁龙 8 Elite Gen 5 芯片 ，辅以 Adreno 840 GPU，并在本次跑分中录得单核 2980 分…",
+          "detail": "IT之家 8 月 21 日消息，一款型号为 26077PC53G 的小米新机近日现身 Geekbench 跑分数据库，X 平台消息人士 Abhishek Yadav 认为该机是 Poco F9 Ultra。 数据库信息显示， 这款手机将搭载高通骁龙 8 Elite Gen 5 芯片 ，辅以 Adreno 840 GPU，并在本次跑分中录得单核 2980 分…",
+          "keyPoints": [
+            "芯片 / 性能"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
@@ -214,29 +213,6 @@ window.phoneRadarDaily = {
       "hint": "不是硬件爆料，但和 iPhone 体验或路线有关。",
       "items": [
         {
-          "id": "auto-816bf6171c03",
-          "title": "微信 iOS 版 8.0.76 最新官方正式版下载发布",
-          "originalTitle": "",
-          "source": "IT之家",
-          "brand": "iPhone",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-08-21",
-          "time": "01:34",
-          "publishedAt": "2026-08-21T01:34:05.000Z",
-          "url": "https://www.ithome.com/0/992/450.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2022/4/d612a258-250d-4852-908c-ad3413aaa709.jpg?x-bce-process=image/watermark,image_aW1nL3dhdGVybWFyay9xdy9xdzEzOC5wbmc=,g_7,x_14,y_14,a_0,t_100",
-          "verdict": "先看",
-          "takeaway": "IT之家 8 月 21 日消息，微信 iOS 平台迎来了 8.0.76 正式版更新。 官方更新日志为： 本次更新： - 解决了一些已知问题。 大家在 IT之家微信号 回复“ 微信 ”两字，即可获取当前最新官方内部版微信下载。 本文由机器人发布，IT之家稍后将为大家带来具体更新内容。如果你发现了日志中未提及的更新点，欢迎发在评论区供大家参考~[微笑]",
-          "detail": "IT之家 8 月 21 日消息，微信 iOS 平台迎来了 8.0.76 正式版更新。 官方更新日志为： 本次更新： - 解决了一些已知问题。 大家在 IT之家微信号 回复“ 微信 ”两字，即可获取当前最新官方内部版微信下载。 本文由机器人发布，IT之家稍后将为大家带来具体更新内容。如果你发现了日志中未提及的更新点，欢迎发在评论区供大家参考~[微笑]",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "中文源可以直接点开快读；看完只保留和购机有关的点。"
-        },
-        {
           "id": "auto-a9502de6c1a0",
           "title": "iPhone X 彻底「停产」了，但我们还没走出它定义的时代｜明日后视镜",
           "originalTitle": "",
@@ -258,6 +234,29 @@ window.phoneRadarDaily = {
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是实际体验内容，买前适合重点看缺点和取舍。",
           "action": "中文源可以直接点开快读；看完只保留和购机有关的点。"
+        },
+        {
+          "id": "newsnow-0fde87fec672",
+          "title": "苹果是真耐用啊，一个宝妈还在用十年前的手机#数码日常#",
+          "originalTitle": "",
+          "source": "酷安热榜",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "高关注爆料源",
+          "date": "2026-08-21",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://www.coolapk.com/feed/73339643",
+          "image": "",
+          "verdict": "先看",
+          "takeaway": "苹果是真耐用啊，一个宝妈还在用十年前的手机#数码日常#",
+          "detail": "苹果是真耐用啊，一个宝妈还在用十年前的手机#数码日常#",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         }
       ]
     }
