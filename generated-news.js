@@ -1,6 +1,26 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-08-21T18:55:01.096Z",
+  "updatedAt": "2026-08-21T20:40:06.394Z",
   "news": [
+    {
+      "id": "auto-78f89c14165e",
+      "title": "Pixelated 113: Made You (Camera) Look",
+      "source": "9to5Google",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-21",
+      "time": "20:30",
+      "publishedAt": "2026-08-21T20:30:00.000Z",
+      "url": "https://9to5google.com/2026/08/21/pixelated-113-made-you-camera-look/",
+      "image": "",
+      "summary": "Welcome to Pixelated episode 113. This week, Damien, Abner, and Will dive into their thoughts and reviews of the Pixel 11, Pixel 11 Pro and Pro XL, and the Pixel 11 Pro Fold. Enjo…",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-74fcc934feb5",
       "title": "Pixel 11 gets in on the digicam trend",
@@ -362,26 +382,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-71a132d61d1a",
-      "title": "The Pixel 11's new Extreme Charging mode let me down from day one",
-      "source": "Android Police",
-      "brand": "Pixel",
-      "model": "Pixel 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-21",
-      "time": "12:45",
-      "publishedAt": "2026-08-21T12:45:10.000Z",
-      "url": "https://www.androidpolice.com/excited-extreme-charging-mode-but-unavailable-every-pixel-11/",
-      "image": "",
-      "summary": "The toggle keeps saying it's \"Unavailable\"",
-      "tags": [
-        "Pixel",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-4cbfc7803098",
       "title": "Galaxy S26 FE leaks in unboxing video ahead of August 27 launch",
       "source": "SamMobile",
@@ -395,26 +395,6 @@ window.phoneRadarAuto = {
       "url": "https://www.sammobile.com/news/galaxy-s26-fe-leaks-in-unboxing-video-ahead-of-august-27-launch/",
       "image": "",
       "summary": "A new Fan Edition Galaxy S model is just around the corner. Earlier this week, Samsung sent out invitations for the upcoming August 27 launch event, but the company hasn't been ab…",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-ceaeee4c90b5",
-      "title": "I ditched the Galaxy Z Fold 8's main screen; it was brilliant until I tried to type",
-      "source": "Android Police",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-21",
-      "time": "12:15",
-      "publishedAt": "2026-08-21T12:15:10.000Z",
-      "url": "https://www.androidpolice.com/i-kept-the-samsung-galaxy-z-fold-8-folded-for-a-weekend/",
-      "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2026/08/samsung-galaxy-z-fold-8-foldeded.jpg",
-      "summary": "A great little screen ... for most tasks",
       "tags": [
         "Samsung",
         "爆料",
@@ -742,6 +722,46 @@ window.phoneRadarAuto = {
       ]
     },
     {
+      "id": "newsnow-172f898e0c8e",
+      "title": "华为首款阔直屏 #华为PuraXView# 就要发布了，大家觉得起售价会是多少呢？",
+      "source": "酷安热榜",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-08-21",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/73361789",
+      "image": "",
+      "summary": "华为首款阔直屏 #华为PuraXView# 就要发布了，大家觉得起售价会是多少呢？",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-e83537596b01",
+      "title": "如果说有手机能超越苹果，华为是不是最有机会的那一个[受虐滑稽]#数码日常# #华为Mate80ProMax# #鸿蒙6#",
+      "source": "酷安热榜",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-08-21",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/73358801",
+      "image": "",
+      "summary": "如果说有手机能超越苹果，华为是不是最有机会的那一个[受虐滑稽]#数码日常# #华为Mate80ProMax# #鸿蒙6#",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
       "id": "newsnow-e74a2d431050",
       "title": "vivo X500 Pro Max 疑似现身：周杰伦或代言",
       "source": "酷安热榜",
@@ -762,21 +782,21 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-7650398f18ce",
-      "title": "华为 Pura X View 上架官方商城",
+      "id": "newsnow-4eee6da4343d",
+      "title": "澎湃4功耗发热流畅度确实站起来了，尤其手机发热后的流畅度和澎湃3相比有质变",
       "source": "酷安热榜",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
+      "brand": "行业",
+      "model": "智能手机市场",
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-08-21",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73341486",
+      "url": "https://www.coolapk.com/feed/73348318",
       "image": "",
-      "summary": "华为 Pura X View 上架官方商城",
+      "summary": "澎湃4功耗发热流畅度确实站起来了，尤其手机发热后的流畅度和澎湃3相比有质变",
       "tags": [
-        "Huawei",
+        "行业",
         "爆料",
         "NewsNow"
       ]
@@ -802,8 +822,28 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-6b0bb2dafcdc",
-      "title": "华为Pura X View 阔直屏亮相：28日开启门店体验",
+      "id": "newsnow-26b29e727252",
+      "title": "小米将二手手机列入非保修范围",
+      "source": "酷安热榜",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-08-21",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/73365737",
+      "image": "",
+      "summary": "小米将二手手机列入非保修范围",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-20acfb79d6ea",
+      "title": "开玩笑的吗？这只是一台先端上来的前菜阔直板，芯片和影像都不算华为顶级水平，这要能卖一万，后面的mate90系列怎么定价呀，疯了吧？ #华为Mate80ProMax# #鸿蒙6# #鸿蒙7#",
       "source": "酷安热榜",
       "brand": "Huawei",
       "model": "Huawei 相关机型",
@@ -812,69 +852,9 @@ window.phoneRadarAuto = {
       "date": "2026-08-21",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73340812",
+      "url": "https://www.coolapk.com/feed/73364759",
       "image": "",
-      "summary": "华为Pura X View 阔直屏亮相：28日开启门店体验",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-172f898e0c8e",
-      "title": "华为首款阔直屏 #华为PuraXView# 就要发布了，大家觉得起售价会是多少呢？",
-      "source": "酷安热榜",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-08-21",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73361789",
-      "image": "",
-      "summary": "华为首款阔直屏 #华为PuraXView# 就要发布了，大家觉得起售价会是多少呢？",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-017f573614ad",
-      "title": "华子我最不理解的就是自家cpu，售价这么高肯定能覆盖9030pro和s的差价啊，一颗9030pro和s差价成本能有多少钱？本身就落后而且一个月就要出新的了，到时候不管是pro和s不都是破烂了吗，给新机上上pro能亏死吗？最主要的是pro还能勉强用，s是真接近没法用了",
-      "source": "酷安热榜",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-08-21",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73348004",
-      "image": "",
-      "summary": "华子我最不理解的就是自家cpu，售价这么高肯定能覆盖9030pro和s的差价啊，一颗9030pro和s差价成本能有多少钱？本身就落后而且一个月就要出新的了，到时候不管是pro和s不都是破烂了吗，给新机上上pro能亏死吗？最主要的是pro还能勉强用，s是真接近没法用了",
-      "tags": [
-        "行业",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-91b151767af6",
-      "title": "华为阔直板新机Pura X View 曝光：6.39'' 天马屏",
-      "source": "酷安热榜",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-08-21",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73340633",
-      "image": "",
-      "summary": "华为阔直板新机Pura X View 曝光：6.39'' 天马屏",
+      "summary": "开玩笑的吗？这只是一台先端上来的前菜阔直板，芯片和影像都不算华为顶级水平，这要能卖一万，后面的mate90系列怎么定价呀，疯了吧？ #华为Mate80ProMax# #鸿蒙6# #鸿蒙7#",
       "tags": [
         "Huawei",
         "爆料",
@@ -1162,26 +1142,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-5243cc284824",
-      "title": "iPhone 18 Pro: Pre-Orders and Release Date",
-      "source": "MacRumors",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-20",
-      "time": "15:00",
-      "publishedAt": "2026-08-20T15:00:42.000Z",
-      "url": "https://www.macrumors.com/2026/08/20/iphone-18-pro-preorders-release-date-when/",
-      "image": "https://images.macrumors.com/article-new/2026/04/Four-iPhone-18-Pro-Colors-Mock-Feature.jpg",
-      "summary": "Apple has yet to reveal when the iPhone 18 Pro and iPhone Ultra will be announced and released, but the dates usually follow a familiar pattern. As usual, the iPhone event is expe…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-43e5ca560ed6",
       "title": "I'm ranking the best Google Pixel 11 and Pixel 11 Pro deals at launch — free phones, trade-in discounts, and more",
       "source": "Android Central",
@@ -1439,6 +1399,26 @@ window.phoneRadarAuto = {
         "Pixel",
         "爆料",
         "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-4a3554a0dd43",
+      "title": "JSCHEN小小狐：华为 Pura X View 上架官方商城",
+      "source": "JSCHEN小小狐",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-08-20",
+      "time": "08:58",
+      "publishedAt": "2026-08-20T08:58:49.000Z",
+      "url": "https://www.coolapk.com/feed/73341486",
+      "image": "http://image.coolapk.com/feed/2026/0820/16/4702274_647e0587_6325_9274_814@1440x1440.png",
+      "summary": "『华为 Pura X View 上架商城：18:08 开启预约』 配色：亚麻灰 / 跃影红 / 幻夜黑 / 零度白 版本： 12GB+256GB / 12GB+512GB / 12GB+1TB ◇ 6.39'' 16:9.5 2232×1320 OLED ◇ 1.05mm 四等边｜96.1% 屏占比 ◇ 1% APL 局部峰值亮度 6500nits ◇ 2…",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "酷安博主"
       ]
     },
     {
