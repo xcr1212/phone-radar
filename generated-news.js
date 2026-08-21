@@ -1,6 +1,126 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-08-21T08:56:56.763Z",
+  "updatedAt": "2026-08-21T10:46:37.450Z",
   "news": [
+    {
+      "id": "auto-48d03a947fe4",
+      "title": "Samsung’s unexpected Galaxy S8 and Note 8 update is now reaching more users",
+      "source": "Android Authority",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-21",
+      "time": "10:26",
+      "publishedAt": "2026-08-21T10:26:45.000Z",
+      "url": "https://www.androidauthority.com/samsung-galaxy-s8-note-8-update-global-rollout-3701394/",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2020/05/Samsung-Galaxy-Note-9-rear-shot-side-lit.jpg",
+      "summary": "The update first spotted in the US is now showing up on global Galaxy S8 and Note 8 models.",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-3d1b6ae75f95",
+      "title": "消息称一加即将在海外发布全新平价手机，专供印度市场",
+      "source": "IT之家",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-21",
+      "time": "10:16",
+      "publishedAt": "2026-08-21T10:16:36.000Z",
+      "url": "https://www.ithome.com/0/992/798.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/7/f4dff01a-72b6-4a77-bd8c-3a6b5a76ad42.jpg",
+      "summary": "IT之家 8 月 21 日消息，据 X 平台消息人士 Yogesh Brar 昨日爆料，一加即将在海外市场推出全新平价手机，新机仅支持 4G 网络。 据介绍，这款手机最早会在下个月发布，定位入门级， 并且只在印度市场销售 。 根据现有消息来看，这款手机可能属于 OnePlus N 系列，定位可能比 N6x 更低端。 作为参考，一加曾在上个月推出 N6x 手…",
+      "tags": [
+        "OPPO",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-57eb51fd9872",
+      "title": "5 Android phones you should buy instead of the Pixel 11 Pro XL",
+      "source": "Android Authority",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-21",
+      "time": "09:30",
+      "publishedAt": "2026-08-21T09:30:59.000Z",
+      "url": "https://www.androidauthority.com/pixel-11-pro-xl-alternatives-3697184/",
+      "image": "",
+      "summary": "It's not an easy decision this year.",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-b046b27d9af0",
+      "title": "新型安卓远程控制木马 Manic 现身，设备断网后可利用蓝牙或 Wi-Fi 中继窃取数据",
+      "source": "IT之家",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-21",
+      "time": "09:29",
+      "publishedAt": "2026-08-21T09:29:07.000Z",
+      "url": "https://www.ithome.com/0/992/756.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/8/8a11754c-bf02-4a8f-8480-b4906fda05f5.png?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 8 月 21 日消息，安全公司 ThreatFabric 发文，披露了一种名为 Manic 的新型远程控制木马，该木马能够远程控制安卓手机，窃取受害者设备上的银行账号密码。 同时，其还具备在受感染设备之间中继数据的能力。当某部受感染手机被强制断网，无法连接至黑客架设的命令与控制（C2）服务器时，相应木马会将受害者手机上的数据通过 Wi-Fi 或蓝…",
+      "tags": [
+        "行业",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-f88e9797c6cc",
+      "title": "Google’s new Tap to Share feature on the Pixel 11 is incredible. Here’s how to use it",
+      "source": "Android Authority",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-21",
+      "time": "09:00",
+      "publishedAt": "2026-08-21T09:00:24.000Z",
+      "url": "https://www.androidauthority.com/pixel-11-tap-to-share-how-use-3700155/",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2026/08/Tap-To-Share-1-scaled.jpg",
+      "summary": "Just a tap away.",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-d85d4ba3e9c0",
+      "title": "OPPO's Reno 16 Pro proves you don't need a flagship to take amazing photos",
+      "source": "Android Central",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-08-21",
+      "time": "08:54",
+      "publishedAt": "2026-08-21T08:54:45.000Z",
+      "url": "https://www.androidcentral.com/phones/oppo-phones/oppo-reno-16-pro-review",
+      "image": "https://cdn.mos.cms.futurecdn.net/4gkFUsgdzfJqNBhQQwVWJM-1280-80.jpg",
+      "summary": "The Reno 16 Pro is costlier than its predecessors, but its standout cameras along with a gorgeous design and great battery life combine to create a truly stellar phone.",
+      "tags": [
+        "OPPO",
+        "评测",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-9126eeddd3a6",
       "title": "Huawei to upgrade Mate 90 Fan Edition with surprising cooling tech",
@@ -102,26 +222,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-5aaef4787d0b",
-      "title": "小米 Poco F9 Ultra 手机现身 Geekbench，16GB 内存 + 骁龙 8 Elite Gen 5 芯片",
-      "source": "IT之家",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-21",
-      "time": "06:44",
-      "publishedAt": "2026-08-21T06:44:23.000Z",
-      "url": "https://www.ithome.com/0/992/635.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/8/26860e25-3545-4152-8be2-b26318d4c8e4.png?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 8 月 21 日消息，一款型号为 26077PC53G 的小米新机近日现身 Geekbench 跑分数据库，X 平台消息人士 Abhishek Yadav 认为该机是 Poco F9 Ultra。 数据库信息显示， 这款手机将搭载高通骁龙 8 Elite Gen 5 芯片 ，辅以 Adreno 840 GPU，并在本次跑分中录得单核 2980 分…",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-b350b5419451",
       "title": "Vivo X500 Pro / Pro Max spotted in the wild, reveals modified camera design",
       "source": "Gizmochina",
@@ -199,26 +299,6 @@ window.phoneRadarAuto = {
         "Samsung",
         "爆料",
         "自动抓取"
-      ]
-    },
-    {
-      "id": "coolapk-user-9770e890b738",
-      "title": "竹本青：2026年第33周国内手机市场份额曝光：小米升至榜二",
-      "source": "竹本青",
-      "brand": "HONOR",
-      "model": "HONOR 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-08-21",
-      "time": "03:34",
-      "publishedAt": "2026-08-21T03:34:05.000Z",
-      "url": "https://www.coolapk.com/feed/73353219",
-      "image": "http://image.coolapk.com/feed/2026/0821/11/4248714_28d2de55_3245_1486_507@1270x909.jpg",
-      "summary": "【2026年第33周 国内手机市场份额曝光：华为连续9周榜首，小米本周升至榜二】 ● 2026 W33：大盘上涨约8% 1.华为 —— 20.6% 2.小米 —— 18.2% 3.OPPO —— 16.1%（含一加 3%，realme 0.5%） 4.vivo —— 15.1%（含iQOO 3.9%） 5.荣耀 —— 12.9% 6.苹果 —— 12.8%…",
-      "tags": [
-        "HONOR",
-        "爆料",
-        "酷安博主"
       ]
     },
     {
@@ -322,6 +402,26 @@ window.phoneRadarAuto = {
       ]
     },
     {
+      "id": "newsnow-e74a2d431050",
+      "title": "vivo X500 Pro Max 疑似现身：周杰伦或代言",
+      "source": "酷安热榜",
+      "brand": "vivo",
+      "model": "vivo 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-08-21",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/73354642",
+      "image": "",
+      "summary": "vivo X500 Pro Max 疑似现身：周杰伦或代言",
+      "tags": [
+        "vivo",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
       "id": "newsnow-6b0bb2dafcdc",
       "title": "华为Pura X View 阔直屏亮相：28日开启门店体验",
       "source": "酷安热榜",
@@ -362,26 +462,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-e74a2d431050",
-      "title": "vivo X500 Pro Max 疑似现身：周杰伦或代言",
-      "source": "酷安热榜",
-      "brand": "vivo",
-      "model": "vivo 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-08-21",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73354642",
-      "image": "",
-      "summary": "vivo X500 Pro Max 疑似现身：周杰伦或代言",
-      "tags": [
-        "vivo",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
       "id": "newsnow-0fde87fec672",
       "title": "苹果是真耐用啊，一个宝妈还在用十年前的手机#数码日常#",
       "source": "酷安热榜",
@@ -402,26 +482,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-91b151767af6",
-      "title": "华为阔直板新机Pura X View 曝光：6.39'' 天马屏",
-      "source": "酷安热榜",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-08-21",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73340633",
-      "image": "",
-      "summary": "华为阔直板新机Pura X View 曝光：6.39'' 天马屏",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
       "id": "newsnow-017f573614ad",
       "title": "华子我最不理解的就是自家cpu，售价这么高肯定能覆盖9030pro和s的差价啊，一颗9030pro和s差价成本能有多少钱？本身就落后而且一个月就要出新的了，到时候不管是pro和s不都是破烂了吗，给新机上上pro能亏死吗？最主要的是pro还能勉强用，s是真接近没法用了",
       "source": "酷安热榜",
@@ -437,6 +497,26 @@ window.phoneRadarAuto = {
       "summary": "华子我最不理解的就是自家cpu，售价这么高肯定能覆盖9030pro和s的差价啊，一颗9030pro和s差价成本能有多少钱？本身就落后而且一个月就要出新的了，到时候不管是pro和s不都是破烂了吗，给新机上上pro能亏死吗？最主要的是pro还能勉强用，s是真接近没法用了",
       "tags": [
         "行业",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-91b151767af6",
+      "title": "华为阔直板新机Pura X View 曝光：6.39'' 天马屏",
+      "source": "酷安热榜",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-08-21",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/73340633",
+      "image": "",
+      "summary": "华为阔直板新机Pura X View 曝光：6.39'' 天马屏",
+      "tags": [
+        "Huawei",
         "爆料",
         "NewsNow"
       ]
@@ -518,6 +598,26 @@ window.phoneRadarAuto = {
       "tags": [
         "iPhone",
         "市场报告",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-64f18c90229a",
+      "title": "微信按住转文字仅在iOS端测试",
+      "source": "今日头条热榜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-21",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.toutiao.com/trending/7675748976494280730/",
+      "image": "",
+      "summary": "微信按住转文字仅在iOS端测试",
+      "tags": [
+        "iPhone",
+        "爆料",
         "NewsNow"
       ]
     },
@@ -1558,26 +1658,6 @@ window.phoneRadarAuto = {
       "tags": [
         "Samsung",
         "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-a9502de6c1a0",
-      "title": "iPhone X 彻底「停产」了，但我们还没走出它定义的时代｜明日后视镜",
-      "source": "爱范儿",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "评测",
-      "trust": "媒体汇总",
-      "date": "2026-08-20",
-      "time": "02:11",
-      "publishedAt": "2026-08-20T02:11:32.000Z",
-      "url": "https://www.ifanr.com/1675378?utm_source=rss&utm_medium=rss&utm_campaign=",
-      "image": "https://s3.ifanr.com/images/ep/uploads/%E8%8B%B9%E6%9E%9C%E5%AE%98%E7%BD%91%E4%B8%8A%E9%82%A3%E4%BB%BD%E9%BB%98%E9%BB%98%E6%9B%B4%E6%96%B0%E7%9A%84%E5%90%8D%E5%8D%95%E9%87%8C%EF%BC%8C%E4%B8%8A%E5%91%A8%E5%A4%9A%E4%BA%86%E4%B8%80%E4%B8%AA%E5%A4%A7%E5%AE%B6%E7%86%9F%E6%82%89%E7%9A%84%E5%90%8D%E5%AD%97%E3%80%82/2845b8f2-ff3f-47a6-8ba2-1c1fff9d0d02.png",
-      "summary": "下一个「iPhone X」在哪里？",
-      "tags": [
-        "iPhone",
-        "评测",
         "自动抓取"
       ]
     }
