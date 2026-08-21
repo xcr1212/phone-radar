@@ -1,6 +1,146 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-08-21T13:09:34.836Z",
+  "updatedAt": "2026-08-21T14:52:43.240Z",
   "news": [
+    {
+      "id": "auto-2355f1b936e1",
+      "title": "微信灰度测试“按住转文字”新功能引热议：苹果 iOS 及安卓用户率先体验，鸿蒙用户仍需等待",
+      "source": "IT之家",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-21",
+      "time": "14:44",
+      "publishedAt": "2026-08-21T14:44:13.000Z",
+      "url": "https://www.ithome.com/0/992/874.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/8/214e9830-6b82-49ce-a03d-7bfde9adf52d.jpg",
+      "summary": "IT之家 8 月 21 日消息，微信 iOS 平台今日迎来了 8.0.76 正式版更新。根据用户反馈，微信 iOS 更新 8.0.76 版本后，全新“深色”图标已经上线。 除此之外，微信近期还灰度测试了一项名为“按住转文字”的聊天输入框新功能，但根据用户反馈，目前该功能的识别率不如录入语音后转文字。 如图所示，该功能将原本独立的麦克风按钮整合进输入框，用户…",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-86b81316720b",
+      "title": "Name of the Galaxy S27 Ultra’s Snapdragon chip has leaked",
+      "source": "SamMobile",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-21",
+      "time": "14:38",
+      "publishedAt": "2026-08-21T14:38:09.000Z",
+      "url": "https://www.sammobile.com/news/galaxy-s27-pro-ultra-snapdragon-chip-name-leaks/",
+      "image": "",
+      "summary": "Samsung has been using flagship Qualcomm chips in its top-of-the-line Galaxy S and Galaxy Z series phones every year, and 2027 will be no different. The South Korean firm is expec…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-168f8ee7af1d",
+      "title": "Google’s Pixel 10A is a great deal at 15 percent off",
+      "source": "The Verge",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-21",
+      "time": "14:35",
+      "publishedAt": "2026-08-21T14:35:22.000Z",
+      "url": "https://www.theverge.com/gadgets/983171/google-pixel-10a-steelseries-gaming-headset-soldering-4k-bluray-deal-sale",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/vergedealslotr.png?quality=90&strip=all&crop=0,0,100,100",
+      "summary": "This week, all of Google’s Pixel 11 phones launched, including the $899 Pixel 11, the $1,099 Pixel 11 Pro (with the same processor and starting 12GB RAM as the standard model, but…",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-72b8113ac389",
+      "title": "荣耀 Turbo 5G 手机海外发布，骁龙 6 Gen 4 芯片",
+      "source": "IT之家",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-21",
+      "time": "13:44",
+      "publishedAt": "2026-08-21T13:44:39.000Z",
+      "url": "https://www.ithome.com/0/992/867.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/8/55a5d97c-c853-45dd-93c1-68157587dbff.jpg",
+      "summary": "IT之家 8 月 21 日消息，荣耀现已在欧亚地区推出 Turbo 5G 手机，新机定位中端， 搭载骁龙 6 Gen 4 芯片 。 据介绍， 这款手机配备一块 6.79 英寸的 AMOLED 屏幕 ，分辨率为 Full HD+，支持 120Hz 高刷。采用后置双摄影像方案，涵盖一颗 5000 万像素主摄和一颗 500 万像素超广角镜头。 规格方面，这款手机…",
+      "tags": [
+        "HONOR",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-a0e485fd9b97",
+      "title": "Pura X View is light and thin unlike foldable’s bulkiness: Huawei",
+      "source": "Huawei Central",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-21",
+      "time": "13:42",
+      "publishedAt": "2026-08-21T13:42:23.000Z",
+      "url": "https://www.huaweicentral.com/pura-x-view-is-light-and-thin-unlike-foldables-bulkiness-huawei/",
+      "image": "https://www.huaweicentral.com/wp-content/uploads/2026/08/PuraXView.jpg",
+      "summary": "Huawei Pura X View has obtained a lot of attention in the market for its light and thin design, and unlike many foldable phones, it doesn’t bring bulkiness despite a similar forma…",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-2ff7cc90b37d",
+      "title": "Check your Galaxy Note 8 and Galaxy S8, there’s a new update",
+      "source": "SamMobile",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-21",
+      "time": "13:37",
+      "publishedAt": "2026-08-21T13:37:26.000Z",
+      "url": "https://www.sammobile.com/news/check-your-galaxy-note-8-and-galaxy-s8-theres-a-new-update/",
+      "image": "https://www.sammobile.com/wp-content/uploads/2026/08/galaxy-s8-new-update-2026.jpeg",
+      "summary": "You wouldn't think the Galaxy Note 8 and Galaxy S8 would receive any firmware updates anymore. The Galaxy Note series itself has been discontinued for quite a while now. However,…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-d946c0a3af2c",
+      "title": "vivo 海外新机 V80 Lite 公布，10000mAh 大电池",
+      "source": "IT之家",
+      "brand": "vivo",
+      "model": "vivo 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-21",
+      "time": "13:27",
+      "publishedAt": "2026-08-21T13:27:05.000Z",
+      "url": "https://www.ithome.com/0/992/862.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/8/f38d6868-297d-46db-93c2-76ada4310230.jpg?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 8 月 21 日消息，vivo 现已在 Instagram 社交平台公布 V80 Lite 手机， 新机主打 10000mAh 大电池 ，9 月 3 日在马来西亚发布。 据介绍，这款手机将搭载一块容量高达 10000mAh 的电池，提供黑色、绿色和粉色三种配色，采用直角边框，粉色还将使用渐变后盖设计。 同时，这款手机将配备方形后置摄像头模组， 拥…",
+      "tags": [
+        "vivo",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-f2a7eaf8cf72",
       "title": "6 phones to buy instead of the Google Pixel 11 Pro",
@@ -123,7 +263,7 @@ window.phoneRadarAuto = {
     },
     {
       "id": "auto-8a38dbbf7cea",
-      "title": "Counterpoint 预测 2026 年全球智能手机出货量下降 14.3%，三星、华为逆势增长",
+      "title": "Counterpoint 预测 2026 年全球智能手机出货量下降 14.3%，华为逆势增长、三星重回第一",
       "source": "IT之家",
       "brand": "Huawei",
       "model": "Huawei 相关机型",
@@ -133,7 +273,7 @@ window.phoneRadarAuto = {
       "time": "11:50",
       "publishedAt": "2026-08-21T11:50:33.000Z",
       "url": "https://www.ithome.com/0/992/838.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/8/cbf0a5e0-a307-4f8e-946f-2d44532f9ec9.png?x-bce-process=image/format,f_auto",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/8/cbf0a5e0-a307-4f8e-946f-2d44532f9ec9.png",
       "summary": "IT之家 8 月 21 日消息，受存储芯片供应短缺及成本上涨影响，Counterpoint Research 预测市场下行压力预计将持续至 2027 年，2028 年方能迎来复苏。 Counterpoint Research 今日发布了最新《智能手机市场展望追踪报告》，预测 2026 年全球智能手机出货量将同比下降 14.3%，预计 2026 年第二季度主…",
       "tags": [
         "Huawei",
@@ -277,26 +417,6 @@ window.phoneRadarAuto = {
       "summary": "Huawei Mate 90 Series is coming very soon with plenty of cutting-edge tech capabilities, and its FAN EDITION is expected to inherit the same features with a new active cooling upg…",
       "tags": [
         "Huawei",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-9283a5b94115",
-      "title": "小米 Poco M8x 5G 手机海外发布：骁龙 4 Gen 5 芯片，6.9 寸 720P LCD 屏",
-      "source": "IT之家",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-21",
-      "time": "08:37",
-      "publishedAt": "2026-08-21T08:37:19.000Z",
-      "url": "https://www.ithome.com/0/992/719.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/8/8c47f515-7710-40fb-baca-d1049456ccc1.jpg?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 8 月 21 日消息，小米 Poco 现已在印度市场推出 M8x 5G 手机。新品定位中低端，配备 7900mAh 电池、120Hz 高刷屏幕，起售价 18,999 卢比 （IT之家注：现汇率约合 1,336 元人民币） 。 据介绍， 这款手机配备一块 6.9 英寸的 IPS LCD 屏幕 ，分辨率为 HD+，峰值亮度可达 825nits，表面覆…",
-      "tags": [
-        "Xiaomi",
         "爆料",
         "自动抓取"
       ]
@@ -782,26 +902,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-ccb7cc402909",
-      "title": "Your Galaxy Z Fold 8 may have a little hinge play, and that can be normal",
-      "source": "SamMobile",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-20",
-      "time": "18:39",
-      "publishedAt": "2026-08-20T18:39:45.000Z",
-      "url": "https://www.sammobile.com/news/samsung-galaxy-z-fold-8-may-have-little-hinge-play-normal/",
-      "image": "",
-      "summary": "You may have noticed something slightly odd about your Galaxy Z Fold 8 when it is closed. If you hold the bottom half firmly and push the upper half up or down from one of the out…",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-0b1680e23a34",
       "title": "Google releases Pixel 11 series factory images",
       "source": "9to5Google",
@@ -1042,26 +1142,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-03862ca08788",
-      "title": "Huawei Pura X View vs Pura X Max: Major Differences",
-      "source": "Huawei Central",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-20",
-      "time": "14:00",
-      "publishedAt": "2026-08-20T14:00:00.000Z",
-      "url": "https://www.huaweicentral.com/huawei-pura-x-view-vs-pura-x-max-major-differences/",
-      "image": "https://www.huaweicentral.com/wp-content/uploads/2026/08/PuraX-View-vs-Pura-X-Max.jpg",
-      "summary": "Huawei Pura X View has become a big headline right after its first glimpse on the stage, and here are some major differences between the new wide non-fold smartphone and the Pura…",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-d028c05dbf53",
       "title": "The wide-screen phone trend is expanding beyond foldables",
       "source": "Android Authority",
@@ -1142,26 +1222,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-85ef983e2cbe",
-      "title": "Strong iPhone Sales Are Giving Samsung Display a Big OLED Boost",
-      "source": "MacRumors",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-20",
-      "time": "11:10",
-      "publishedAt": "2026-08-20T11:10:55.000Z",
-      "url": "https://www.macrumors.com/2026/08/20/strong-iphone-sales-boosting-samsung-oled/",
-      "image": "https://images.macrumors.com/article-new/2022/09/iPhone-14-Pro-Display-Two-Times-Brighter-Feature.jpg",
-      "summary": "Strong iPhone sales have helped boost flexible OLED display shipments from Samsung Display so far this year, according to a report from The Elec . Samsung shipped approximately 12…",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-fdbfa007ec50",
       "title": "Huawei Pura X View launches as world’s first wide-screen candybar phone: 1.05 mm bezels, 7,000mAh battery, 6.68mm thickness",
       "source": "Gizmochina",
@@ -1237,26 +1297,6 @@ window.phoneRadarAuto = {
       "summary": "The Pixel 11 Pro is great, but not for the reasons it needs to be.",
       "tags": [
         "Pixel",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-2fc29af4d789",
-      "title": "Samsung reveals when Galaxy S26 Ultra display red tint fix update will arrive",
-      "source": "SamMobile",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-20",
-      "time": "09:48",
-      "publishedAt": "2026-08-20T09:48:54.000Z",
-      "url": "https://www.sammobile.com/news/samsung-reveals-when-galaxy-s26-ultra-display-red-tint-fix-update-will-arrive/",
-      "image": "",
-      "summary": "Last month, Galaxy S26 Ultra users started complaining about a red tint appearing on the phone’s display. Samsung acknowledged the issue, confirmed that it was software-related ra…",
-      "tags": [
-        "Samsung",
         "爆料",
         "自动抓取"
       ]
