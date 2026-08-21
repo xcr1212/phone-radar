@@ -1,6 +1,146 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-08-21T10:46:37.450Z",
+  "updatedAt": "2026-08-21T13:09:34.836Z",
   "news": [
+    {
+      "id": "auto-f2a7eaf8cf72",
+      "title": "6 phones to buy instead of the Google Pixel 11 Pro",
+      "source": "Android Central",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-08-21",
+      "time": "12:51",
+      "publishedAt": "2026-08-21T12:51:12.000Z",
+      "url": "https://www.androidcentral.com/phones/google-pixel/6-phones-to-buy-instead-of-the-google-pixel-11-pro",
+      "image": "https://cdn.mos.cms.futurecdn.net/83zRfrvGksWWzbzpd4d7e3-1280-80.jpg",
+      "summary": "The Pixel 11 Pro XL is underwhelming — these alternatives are not.",
+      "tags": [
+        "Pixel",
+        "评测",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-33bf919fc8fa",
+      "title": "The camera I always have with me keeps paying dividends",
+      "source": "9to5Mac",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-21",
+      "time": "12:45",
+      "publishedAt": "2026-08-21T12:45:11.000Z",
+      "url": "https://9to5mac.com/2026/08/21/the-camera-i-always-have-with-me-keeps-paying-dividends/",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/London-sunset-by-the-Thames.jpg?quality=82&strip=all&w=1600",
+      "summary": "There’s an old photography saying that the best camera is the one you have on you at the time. The iPhone is of course the camera that most of us have on us most of the time, and…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-71a132d61d1a",
+      "title": "The Pixel 11's new Extreme Charging mode let me down from day one",
+      "source": "Android Police",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-21",
+      "time": "12:45",
+      "publishedAt": "2026-08-21T12:45:10.000Z",
+      "url": "https://www.androidpolice.com/excited-extreme-charging-mode-but-unavailable-every-pixel-11/",
+      "image": "",
+      "summary": "The toggle keeps saying it's \"Unavailable\"",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-4cbfc7803098",
+      "title": "Galaxy S26 FE leaks in unboxing video ahead of August 27 launch",
+      "source": "SamMobile",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-21",
+      "time": "12:35",
+      "publishedAt": "2026-08-21T12:35:55.000Z",
+      "url": "https://www.sammobile.com/news/galaxy-s26-fe-leaks-in-unboxing-video-ahead-of-august-27-launch/",
+      "image": "",
+      "summary": "A new Fan Edition Galaxy S model is just around the corner. Earlier this week, Samsung sent out invitations for the upcoming August 27 launch event, but the company hasn't been ab…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-ceaeee4c90b5",
+      "title": "I ditched the Galaxy Z Fold 8's main screen; it was brilliant until I tried to type",
+      "source": "Android Police",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-21",
+      "time": "12:15",
+      "publishedAt": "2026-08-21T12:15:10.000Z",
+      "url": "https://www.androidpolice.com/i-kept-the-samsung-galaxy-z-fold-8-folded-for-a-weekend/",
+      "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2026/08/samsung-galaxy-z-fold-8-foldeded.jpg",
+      "summary": "A great little screen ... for most tasks",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-68667eb60afe",
+      "title": "I stopped caring about camera hardware years ago; the Pixel 11 Pro changed that",
+      "source": "Android Police",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-21",
+      "time": "12:00",
+      "publishedAt": "2026-08-21T12:00:10.000Z",
+      "url": "https://www.androidpolice.com/i-stopped-caring-about-camera-hardware-years-ago-the-pixel-11-pro-changed-that/",
+      "image": "",
+      "summary": "Camera upgrades can still be meaningful",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-8a38dbbf7cea",
+      "title": "Counterpoint 预测 2026 年全球智能手机出货量下降 14.3%，三星、华为逆势增长",
+      "source": "IT之家",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-21",
+      "time": "11:50",
+      "publishedAt": "2026-08-21T11:50:33.000Z",
+      "url": "https://www.ithome.com/0/992/838.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/8/cbf0a5e0-a307-4f8e-946f-2d44532f9ec9.png?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 8 月 21 日消息，受存储芯片供应短缺及成本上涨影响，Counterpoint Research 预测市场下行压力预计将持续至 2027 年，2028 年方能迎来复苏。 Counterpoint Research 今日发布了最新《智能手机市场展望追踪报告》，预测 2026 年全球智能手机出货量将同比下降 14.3%，预计 2026 年第二季度主…",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-48d03a947fe4",
       "title": "Samsung’s unexpected Galaxy S8 and Note 8 update is now reaching more users",
@@ -162,26 +302,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-eef2b87fb2d5",
-      "title": "“僵尸卡”漏洞曝光：2 部安卓手机中继复活过期银行卡，演示成功支付 500 美元",
-      "source": "IT之家",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-21",
-      "time": "07:33",
-      "publishedAt": "2026-08-21T07:33:06.000Z",
-      "url": "https://www.ithome.com/0/992/660.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/8/e98412bc-ffb0-40f4-9d6a-8af3861767b3.png",
-      "summary": "IT之家 8 月 21 日消息，科技媒体 cybersecuritynews 昨日（8 月 20 日）发布比文本，报道了 “僵尸卡”攻击方式，可借助 2 部支持 NFC 的安卓手机，中继篡改已过期 Visa 非接触式卡片，完成最高 500 美元 （IT之家注：现汇率约合 3,370 元人民币） 支付。 在第 35 届 USENIX 安全研讨会上，来自美国马…",
-      "tags": [
-        "行业",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "weibo-c55a7a7db138",
       "title": "数码闲聊站：独家，母系2nm新旗舰的极窄四等边＜1mm，配合大R角设计+新OS，纯直屏观感…",
       "source": "数码闲聊站",
@@ -239,26 +359,6 @@ window.phoneRadarAuto = {
         "vivo",
         "爆料",
         "自动抓取"
-      ]
-    },
-    {
-      "id": "coolapk-user-21196697d09c",
-      "title": "竹本青：OriginOS 7 全新个性主题效果演示公开",
-      "source": "竹本青",
-      "brand": "vivo",
-      "model": "vivo 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-08-21",
-      "time": "06:03",
-      "publishedAt": "2026-08-21T06:03:59.000Z",
-      "url": "https://www.coolapk.com/feed/73355255",
-      "image": "http://image.coolapk.com/feed/2026/0821/14/4248714_22d77746_2237_1245_463-livepic@1440x1920.jpg",
-      "summary": "【OriginOS 7 全新个性主题效果演示公开】 「液态主题」抬手一晃就 Duang Duang，随手晃两下；此外还有水波纹效果。 「闪卡主题」喜欢的角色、舞台和风景，都能变成“电子闪卡”，全部收藏在锁屏里。 #OriginOS6# #今日热点# #OriginOS7#",
-      "tags": [
-        "vivo",
-        "爆料",
-        "酷安博主"
       ]
     },
     {
@@ -422,26 +522,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-6b0bb2dafcdc",
-      "title": "华为Pura X View 阔直屏亮相：28日开启门店体验",
-      "source": "酷安热榜",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-08-21",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73340812",
-      "image": "",
-      "summary": "华为Pura X View 阔直屏亮相：28日开启门店体验",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
       "id": "newsnow-7650398f18ce",
       "title": "华为 Pura X View 上架官方商城",
       "source": "酷安热榜",
@@ -462,11 +542,31 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-0fde87fec672",
-      "title": "苹果是真耐用啊，一个宝妈还在用十年前的手机#数码日常#",
+      "id": "newsnow-6b0bb2dafcdc",
+      "title": "华为Pura X View 阔直屏亮相：28日开启门店体验",
       "source": "酷安热榜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-08-21",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/73340812",
+      "image": "",
+      "summary": "华为Pura X View 阔直屏亮相：28日开启门店体验",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-0fde87fec672",
+      "title": "坐高铁碰见一个年轻宝妈还在用十年前的手机[列文虎克]#数码日常#",
+      "source": "酷安热榜",
+      "brand": "行业",
+      "model": "智能手机市场",
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-08-21",
@@ -474,9 +574,9 @@ window.phoneRadarAuto = {
       "publishedAt": "",
       "url": "https://www.coolapk.com/feed/73339643",
       "image": "",
-      "summary": "苹果是真耐用啊，一个宝妈还在用十年前的手机#数码日常#",
+      "summary": "坐高铁碰见一个年轻宝妈还在用十年前的手机[列文虎克]#数码日常#",
       "tags": [
-        "iPhone",
+        "行业",
         "爆料",
         "NewsNow"
       ]
@@ -542,26 +642,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-bf7b77454996",
-      "title": "真的吗？这手机原本定位是nova，然后因为存储飙升，然后把定位提档了。这样可以卖更高的价格。 如果是，那真的是生不逢时[笑哭]还有发现都是12g的，这不就代表本来就是nova系列的？#数码日常# #华为Mate80ProMax# #鸿蒙7#",
-      "source": "酷安热榜",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-08-21",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73347078",
-      "image": "",
-      "summary": "真的吗？这手机原本定位是nova，然后因为存储飙升，然后把定位提档了。这样可以卖更高的价格。 如果是，那真的是生不逢时[笑哭]还有发现都是12g的，这不就代表本来就是nova系列的？#数码日常# #华为Mate80ProMax# #鸿蒙7#",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
       "id": "newsnow-bb4b3409cf3e",
       "title": "华为发布全球首款阔直板手机，此前被曝定价 6000-7000 元，你看好其市场前景吗？",
       "source": "知乎热榜",
@@ -598,66 +678,6 @@ window.phoneRadarAuto = {
       "tags": [
         "iPhone",
         "市场报告",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-64f18c90229a",
-      "title": "微信按住转文字仅在iOS端测试",
-      "source": "今日头条热榜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-21",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.toutiao.com/trending/7675748976494280730/",
-      "image": "",
-      "summary": "微信按住转文字仅在iOS端测试",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-1fba8e83f37f",
-      "title": "为什么华为在做阔直板手机",
-      "source": "今日头条热榜",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-21",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.toutiao.com/trending/7675243141280120875/",
-      "image": "",
-      "summary": "为什么华为在做阔直板手机",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-ca350122c5ee",
-      "title": "华为阔直板手机首发开箱",
-      "source": "抖音热点",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "待验证",
-      "date": "2026-08-21",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.douyin.com/hot/2617436",
-      "image": "",
-      "summary": "华为阔直板手机首发开箱",
-      "tags": [
-        "Huawei",
-        "爆料",
         "NewsNow"
       ]
     },
@@ -842,26 +862,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-145e64d890bf",
-      "title": "The Pixel 11 reminded me why I stopped getting excited about phone upgrades",
-      "source": "Android Police",
-      "brand": "Pixel",
-      "model": "Pixel 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-20",
-      "time": "17:30",
-      "publishedAt": "2026-08-20T17:30:10.000Z",
-      "url": "https://www.androidpolice.com/pixel-11-reminded-why-i-stopped-getting-excited-about-phone-upgrades/",
-      "image": "",
-      "summary": "It proved that better hardware isn't enough",
-      "tags": [
-        "Pixel",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-88d2d7c0e69b",
       "title": "The wide-screen revolution might soon come to a non-foldable phone near you",
       "source": "Android Central",
@@ -878,26 +878,6 @@ window.phoneRadarAuto = {
       "tags": [
         "Huawei",
         "评测",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-5079361dbdc1",
-      "title": "Framework says it’s addressing a BIOS update that bricked some of its older laptops",
-      "source": "The Verge",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-20",
-      "time": "17:16",
-      "publishedAt": "2026-08-20T17:16:02.000Z",
-      "url": "https://www.theverge.com/gadgets/982800/framework-laptop-13-amd-7040-bios-320-bricking-warranty",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24940154/236795_Framework_Laptop_13__AMD__AKrales_0025.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "summary": "Some Framework Laptop 13 owners with last-gen AMD chips have reported that a recent BIOS update is bricking their laptops on both Windows and Linux. The BIOS update causing this i…",
-      "tags": [
-        "iPhone",
-        "爆料",
         "自动抓取"
       ]
     },
@@ -1162,26 +1142,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-da9080dbc086",
-      "title": "Huawei Pura X View pre-order begins with three storage options",
-      "source": "Huawei Central",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-20",
-      "time": "11:53",
-      "publishedAt": "2026-08-20T11:53:07.000Z",
-      "url": "https://www.huaweicentral.com/huawei-pura-x-view-pre-order-begins-with-three-storage-options/",
-      "image": "https://www.huaweicentral.com/wp-content/uploads/2026/08/Pura-X-View-pre-order.jpg",
-      "summary": "Huawei has opened the gates of the Pura X View pre-order activity on the official VMall and JD.com stores. Interested consumers can visit these online retail channels and place an…",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-85ef983e2cbe",
       "title": "Strong iPhone Sales Are Giving Samsung Display a Big OLED Boost",
       "source": "MacRumors",
@@ -1215,26 +1175,6 @@ window.phoneRadarAuto = {
       "url": "https://www.gizmochina.com/2026/08/20/huawei-pura-x-view-launches-as-worlds-first-wide-screen-candybar-phone-1-05-mm-bezels-7000mah-battery-6-68mm-thickness/",
       "image": "https://www.gizmochina.com/wp-content/uploads/2026/08/huawei-pura-x-view-kv-xs-300x169.jpg?x23692",
       "summary": "Huawei has just introduced a new form factor to the smartphone market, a wider screen experience in a regular non-folding design. Today, August 20, the company officially launched…",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-c3aebb9e5dcc",
-      "title": "Pura X View is first Huawei phone to debut with HarmonyOS 7",
-      "source": "Huawei Central",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-20",
-      "time": "11:00",
-      "publishedAt": "2026-08-20T11:00:54.000Z",
-      "url": "https://www.huaweicentral.com/pura-x-view-is-first-huawei-phone-to-debut-with-harmonyos-7/",
-      "image": "https://www.huaweicentral.com/wp-content/uploads/2026/08/HarmonyOS-7.jpg",
-      "summary": "Huawei Pura X View debuted today at the Enjoy G9 launch event, and it is the first smartphone to feature HarmonyOS 7.0. While the new software iteration was in the news to go offi…",
       "tags": [
         "Huawei",
         "爆料",
@@ -1317,26 +1257,6 @@ window.phoneRadarAuto = {
       "summary": "Last month, Galaxy S26 Ultra users started complaining about a red tint appearing on the phone’s display. Samsung acknowledged the issue, confirmed that it was software-related ra…",
       "tags": [
         "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-9eb7326c8d57",
-      "title": "Huawei Pura X View debuts – the first wide-screen smartphone",
-      "source": "Huawei Central",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-20",
-      "time": "09:41",
-      "publishedAt": "2026-08-20T09:41:33.000Z",
-      "url": "https://www.huaweicentral.com/huawei-pura-x-view-debuts-the-first-wide-screen-smartphone/",
-      "image": "https://www.huaweicentral.com/wp-content/uploads/2026/08/dimensions.jpg",
-      "summary": "The wait is over as Huawei has showcased its first wide-screen smartphone – the Pura X View. The mid-sized device with an extremely broad display claims to deliver a formidable ex…",
-      "tags": [
-        "Huawei",
         "爆料",
         "自动抓取"
       ]
@@ -1439,26 +1359,6 @@ window.phoneRadarAuto = {
         "Huawei",
         "爆料",
         "微博"
-      ]
-    },
-    {
-      "id": "auto-c56a7885ef59",
-      "title": "2026 年，手机厂商为什么非做 Pocket 不可？｜硬哲学",
-      "source": "爱范儿",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "评测",
-      "trust": "媒体汇总",
-      "date": "2026-08-20",
-      "time": "07:55",
-      "publishedAt": "2026-08-20T07:55:24.000Z",
-      "url": "https://www.ifanr.com/1675750?utm_source=rss&utm_medium=rss&utm_campaign=",
-      "image": "https://s3.ifanr.com/wp-content/uploads/2026/08/8-360x203.jpg",
-      "summary": "参数之外，手机厂商有机会重写体验",
-      "tags": [
-        "行业",
-        "评测",
-        "自动抓取"
       ]
     },
     {
