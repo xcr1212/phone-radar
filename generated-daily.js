@@ -1,11 +1,11 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-08-21T03:15:11.211Z",
+  "updatedAt": "2026-08-21T04:53:03.420Z",
   "issueDate": "2026-08-21",
   "issue": "VOL.260821",
   "title": "手机情报日报",
-  "intro": "今日筛出 9 条重点，其中 8 条是重点爆料，包含 5 条 iPhone 相关、0 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 10 条重点，其中 8 条是重点爆料，包含 5 条 iPhone 相关、0 条官方确认、0 条参数线索。",
   "stats": {
-    "total": 9,
+    "total": 10,
     "iphone": 5,
     "leaks": 8,
     "official": 0,
@@ -17,29 +17,6 @@ window.phoneRadarDaily = {
       "title": "重点爆料",
       "hint": "机模、配色、影像、屏幕、电池和芯片线索先看。",
       "items": [
-        {
-          "id": "auto-08eb39edfd48",
-          "title": "CounterPoint 称 2026Q2 欧洲手机出货量同比下降 10%，苹果 iPhone 占比逆势飙升",
-          "originalTitle": "",
-          "source": "IT之家",
-          "brand": "iPhone",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-08-21",
-          "time": "00:15",
-          "publishedAt": "2026-08-21T00:15:55.000Z",
-          "url": "https://www.ithome.com/0/992/431.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/8/857b9bf9-5a3c-4977-8c33-77722eece7eb.png",
-          "verdict": "先看",
-          "takeaway": "IT之家 8 月 21 日消息，市场调查机构 CounterPoint Research 于 8 月 19 日发布博文， 报告称 2026 年第 2 季度欧洲智能手机出货量为 3500 万部，同比下降 10%，创下该地区三年来第二季度最低水平。 报告指出，零部件成本上涨抬高了终端设备价格。为保护利润率，厂商缩减了促销活动。与此同时，欧洲多地经济前景存在不确…",
-          "detail": "IT之家 8 月 21 日消息，市场调查机构 CounterPoint Research 于 8 月 19 日发布博文， 报告称 2026 年第 2 季度欧洲智能手机出货量为 3500 万部，同比下降 10%，创下该地区三年来第二季度最低水平。 报告指出，零部件成本上涨抬高了终端设备价格。为保护利润率，厂商缩减了促销活动。与此同时，欧洲多地经济前景存在不确…",
-          "keyPoints": [
-            "成本 / 价格"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
         {
           "id": "auto-8359f214b731",
           "title": "iPhone 18 Pro 机模 / 配色信息曝光",
@@ -182,25 +159,50 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
-          "id": "coolapk-user-2236af436b42",
-          "title": "竹本青：【华为Pura X View 四款配色官图公布：红/灰/白/黑】 跃影红、亚麻灰、零度白、幻夜黑 几何美学、阔感设…",
+          "id": "newsnow-2fbde5c59be6",
+          "title": "阔直板机最快8.28可体验，屏幕如果是天马，芯片是9030S的话还是算了吧[流泪]#华为Mate90ProMax# #鸿蒙7# #华为Mate80ProMax#",
           "originalTitle": "",
-          "source": "竹本青",
+          "source": "酷安热榜",
           "brand": "Huawei",
           "type": "爆料",
-          "trust": "高可信爆料",
+          "trust": "高关注爆料源",
           "date": "2026-08-21",
-          "time": "01:01",
-          "publishedAt": "2026-08-21T01:01:59.000Z",
-          "url": "https://www.coolapk.com/feed/73351130",
-          "image": "http://image.coolapk.com/feed/2026/0821/09/4248714_6d5fa969_4117_2919_576@3839x2160.jpg",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://www.coolapk.com/feed/73341160",
+          "image": "",
           "verdict": "先看",
-          "takeaway": "【华为Pura X View 四款配色官图公布：红/灰/白/黑】 跃影红、亚麻灰、零度白、幻夜黑 几何美学、阔感设计 SKU：12+256GB、12+512GB、12+1TB #今日热点# #华为PuraXView# #鸿蒙7#",
-          "detail": "【华为Pura X View 四款配色官图公布：红/灰/白/黑】 跃影红、亚麻灰、零度白、幻夜黑 几何美学、阔感设计 SKU：12+256GB、12+512GB、12+1TB #今日热点# #华为PuraXView# #鸿蒙7#",
+          "takeaway": "阔直板机最快8.28可体验，屏幕如果是天马，芯片是9030S的话还是算了吧[流泪]#华为Mate90ProMax# #鸿蒙7# #华为Mate80ProMax#",
+          "detail": "阔直板机最快8.28可体验，屏幕如果是天马，芯片是9030S的话还是算了吧[流泪]#华为Mate90ProMax# #鸿蒙7# #华为Mate80ProMax#",
           "keyPoints": [
-            "外观 / 配色 / 尺寸"
+            "屏幕形态",
+            "芯片 / 性能"
           ],
-          "confidence": "可信度较高，但仍属于发布前线索。",
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "weibo-8512ec3dfff4",
+          "title": "数码闲聊站：Omdia调研数据，2026年折叠屏市场规模预计增长超22%，未来3年将实现翻…",
+          "originalTitle": "",
+          "source": "数码闲聊站",
+          "brand": "Xiaomi",
+          "type": "爆料",
+          "trust": "高关注爆料源",
+          "date": "2026-08-20",
+          "time": "10:22",
+          "publishedAt": "2026-08-20T10:22:00.000Z",
+          "url": "https://weibo.com/6048569942/RehVIa4Rn",
+          "image": "",
+          "verdict": "先看",
+          "takeaway": "Omdia调研数据，2026年折叠屏市场规模预计增长超22%，未来3年将实现翻倍。 阔折叠把整个品类都带到起飞，接下来小米和苹果的阔折叠新品也会陆续发布，新形态设计和产品定位都很接近，“新折叠元年”真的来了[笑而不语]",
+          "detail": "Omdia调研数据，2026年折叠屏市场规模预计增长超22%，未来3年将实现翻倍。 阔折叠把整个品类都带到起飞，接下来小米和苹果的阔折叠新品也会陆续发布，新形态设计和产品定位都很接近，“新折叠元年”真的来了[笑而不语]",
+          "keyPoints": [
+            "屏幕形态",
+            "爆料来源"
+          ],
+          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         }
@@ -232,6 +234,29 @@ window.phoneRadarDaily = {
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "中文源可以直接点开快读；看完只保留和购机有关的点。"
+        },
+        {
+          "id": "auto-a9502de6c1a0",
+          "title": "iPhone X 彻底「停产」了，但我们还没走出它定义的时代｜明日后视镜",
+          "originalTitle": "",
+          "source": "爱范儿",
+          "brand": "iPhone",
+          "type": "评测",
+          "trust": "媒体汇总",
+          "date": "2026-08-20",
+          "time": "02:11",
+          "publishedAt": "2026-08-20T02:11:32.000Z",
+          "url": "https://www.ifanr.com/1675378?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "image": "https://s3.ifanr.com/images/ep/uploads/%E8%8B%B9%E6%9E%9C%E5%AE%98%E7%BD%91%E4%B8%8A%E9%82%A3%E4%BB%BD%E9%BB%98%E9%BB%98%E6%9B%B4%E6%96%B0%E7%9A%84%E5%90%8D%E5%8D%95%E9%87%8C%EF%BC%8C%E4%B8%8A%E5%91%A8%E5%A4%9A%E4%BA%86%E4%B8%80%E4%B8%AA%E5%A4%A7%E5%AE%B6%E7%86%9F%E6%82%89%E7%9A%84%E5%90%8D%E5%AD%97%E3%80%82/2845b8f2-ff3f-47a6-8ba2-1c1fff9d0d02.png",
+          "verdict": "先看",
+          "takeaway": "下一个「iPhone X」在哪里？",
+          "detail": "下一个「iPhone X」在哪里？",
+          "keyPoints": [
+            "评测"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是实际体验内容，买前适合重点看缺点和取舍。",
           "action": "中文源可以直接点开快读；看完只保留和购机有关的点。"
         }
       ]

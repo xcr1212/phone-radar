@@ -1,6 +1,46 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-08-21T03:15:11.211Z",
+  "updatedAt": "2026-08-21T04:53:03.420Z",
   "news": [
+    {
+      "id": "auto-55c81a96676d",
+      "title": "Galaxy A08 4G gets a jump in battery capacity over the Galaxy A07",
+      "source": "SamMobile",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-21",
+      "time": "04:24",
+      "publishedAt": "2026-08-21T04:24:21.000Z",
+      "url": "https://www.sammobile.com/news/galaxy-a08-4g-battery-capacity-jump/",
+      "image": "",
+      "summary": "Besides the Galaxy S26 FE, Samsung is expected to unveil two new entry-level smartphones soon. The Galaxy A08 4G will be the cheaper of the two entry-level devices and could featu…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-9770e890b738",
+      "title": "竹本青：【2026年第33周 国内手机市场份额曝光：华为连续9周榜首，小米本周升至榜二】 ● 2026 W33：大盘上涨约…",
+      "source": "竹本青",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-08-21",
+      "time": "03:34",
+      "publishedAt": "2026-08-21T03:34:05.000Z",
+      "url": "https://www.coolapk.com/feed/73353219",
+      "image": "http://image.coolapk.com/feed/2026/0821/11/4248714_28d2de55_3245_1486_507@1270x909.jpg",
+      "summary": "【2026年第33周 国内手机市场份额曝光：华为连续9周榜首，小米本周升至榜二】 ● 2026 W33：大盘上涨约8% 1.华为 —— 20.6% 2.小米 —— 18.2% 3.OPPO —— 16.1%（含一加 3%，realme 0.5%） 4.vivo —— 15.1%（含iQOO 3.9%） 5.荣耀 —— 12.9% 6.苹果 —— 12.8%…",
+      "tags": [
+        "HONOR",
+        "爆料",
+        "酷安博主"
+      ]
+    },
     {
       "id": "auto-bc9d34327239",
       "title": "谷歌 Pixel 11 系列手机新增 Charge 屏保，可充当床头时钟",
@@ -122,26 +162,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "coolapk-user-2236af436b42",
-      "title": "竹本青：【华为Pura X View 四款配色官图公布：红/灰/白/黑】 跃影红、亚麻灰、零度白、幻夜黑 几何美学、阔感设…",
-      "source": "竹本青",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-08-21",
-      "time": "01:01",
-      "publishedAt": "2026-08-21T01:01:59.000Z",
-      "url": "https://www.coolapk.com/feed/73351130",
-      "image": "http://image.coolapk.com/feed/2026/0821/09/4248714_6d5fa969_4117_2919_576@3839x2160.jpg",
-      "summary": "【华为Pura X View 四款配色官图公布：红/灰/白/黑】 跃影红、亚麻灰、零度白、幻夜黑 几何美学、阔感设计 SKU：12+256GB、12+512GB、12+1TB #今日热点# #华为PuraXView# #鸿蒙7#",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
       "id": "auto-8359f214b731",
       "title": "Dark Cherry and More: Every iPhone 18 Pro and iPhone Ultra Color Rumor",
       "source": "MacRumors",
@@ -155,26 +175,6 @@ window.phoneRadarAuto = {
       "url": "https://www.macrumors.com/guide/iphone-18-pro-ultra-colors/",
       "image": "https://images.macrumors.com/article-new/2026/04/iPhone-18-Pro-Rumored-Colors.jpg",
       "summary": "We're likely about a month away from when Apple will launch new iPhone models, and color has been a major topic of discussion. There's going to be a dramatic new color for the iPh…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-08eb39edfd48",
-      "title": "CounterPoint 称 2026Q2 欧洲手机出货量同比下降 10%，苹果 iPhone 占比逆势飙升",
-      "source": "IT之家",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-21",
-      "time": "00:15",
-      "publishedAt": "2026-08-21T00:15:55.000Z",
-      "url": "https://www.ithome.com/0/992/431.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/8/857b9bf9-5a3c-4977-8c33-77722eece7eb.png",
-      "summary": "IT之家 8 月 21 日消息，市场调查机构 CounterPoint Research 于 8 月 19 日发布博文， 报告称 2026 年第 2 季度欧洲智能手机出货量为 3500 万部，同比下降 10%，创下该地区三年来第二季度最低水平。 报告指出，零部件成本上涨抬高了终端设备价格。为保护利润率，厂商缩减了促销活动。与此同时，欧洲多地经济前景存在不确…",
       "tags": [
         "iPhone",
         "爆料",
@@ -322,26 +322,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-2fbde5c59be6",
-      "title": "阔直板机最快8.28可体验，屏幕如果是天马，芯片是9030S的话还是算了吧[流泪]#华为Mate90ProMax# #鸿蒙7# #华为Mate80ProMax#",
-      "source": "酷安热榜",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-08-21",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73341160",
-      "image": "",
-      "summary": "阔直板机最快8.28可体验，屏幕如果是天马，芯片是9030S的话还是算了吧[流泪]#华为Mate90ProMax# #鸿蒙7# #华为Mate80ProMax#",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
       "id": "newsnow-0fde87fec672",
       "title": "苹果是真耐用啊，一个宝妈还在用十年前的手机#数码日常#",
       "source": "酷安热榜",
@@ -362,21 +342,41 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-83dc8612c277",
-      "title": "[流汗滑稽]不要纠结二手保修了，问了人工客服和实体店员，二手也给保修的[吃瓜]只是有的地方会要凭证，尤其是走Micare……自己吓自己#小米17Max# #REDMIK100ProMax# #数码日常#",
+      "id": "newsnow-2fbde5c59be6",
+      "title": "阔直板机最快8.28可体验，屏幕如果是天马，芯片是9030S的话还是算了吧[流泪]#华为Mate90ProMax# #鸿蒙7# #华为Mate80ProMax#",
       "source": "酷安热榜",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-08-21",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73335229",
+      "url": "https://www.coolapk.com/feed/73341160",
       "image": "",
-      "summary": "[流汗滑稽]不要纠结二手保修了，问了人工客服和实体店员，二手也给保修的[吃瓜]只是有的地方会要凭证，尤其是走Micare……自己吓自己#小米17Max# #REDMIK100ProMax# #数码日常#",
+      "summary": "阔直板机最快8.28可体验，屏幕如果是天马，芯片是9030S的话还是算了吧[流泪]#华为Mate90ProMax# #鸿蒙7# #华为Mate80ProMax#",
       "tags": [
-        "Xiaomi",
+        "Huawei",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-017f573614ad",
+      "title": "华子我最不理解的就是自家cpu，售价这么高肯定能覆盖9030pro和s的差价啊，一颗9030pro和s差价成本能有多少钱？本身就落后而且一个月就要出新的了，到时候不管是pro和s不都是破烂了吗，给新机上上pro能亏死吗？最主要的是pro还能勉强用，s是真接近没法用了",
+      "source": "酷安热榜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-08-21",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/73348004",
+      "image": "",
+      "summary": "华子我最不理解的就是自家cpu，售价这么高肯定能覆盖9030pro和s的差价啊，一颗9030pro和s差价成本能有多少钱？本身就落后而且一个月就要出新的了，到时候不管是pro和s不都是破烂了吗，给新机上上pro能亏死吗？最主要的是pro还能勉强用，s是真接近没法用了",
+      "tags": [
+        "行业",
         "爆料",
         "NewsNow"
       ]
@@ -402,6 +402,26 @@ window.phoneRadarAuto = {
       ]
     },
     {
+      "id": "newsnow-1856ee726d00",
+      "title": "曝 iPhone17 系列国内销量超 4000 万，为何消费者仍青睐苹果？",
+      "source": "知乎热榜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "市场报告",
+      "trust": "媒体汇总",
+      "date": "2026-08-21",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.zhihu.com/question/2072772413494973775",
+      "image": "",
+      "summary": "曝 iPhone17 系列国内销量超 4000 万，为何消费者仍青睐苹果？",
+      "tags": [
+        "iPhone",
+        "市场报告",
+        "NewsNow"
+      ]
+    },
+    {
       "id": "newsnow-ca350122c5ee",
       "title": "华为阔直板手机首发开箱",
       "source": "抖音热点",
@@ -419,26 +439,6 @@ window.phoneRadarAuto = {
         "Huawei",
         "爆料",
         "NewsNow"
-      ]
-    },
-    {
-      "id": "auto-1791ed49ab7d",
-      "title": "Omdia：2026 年非洲智能手机市场预计下滑 26%，结束连续三年增长态势",
-      "source": "IT之家",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-20",
-      "time": "23:25",
-      "publishedAt": "2026-08-20T23:25:25.000Z",
-      "url": "https://www.ithome.com/0/992/421.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/8/fc8864be-589d-4189-858f-8107193ddc08.png",
-      "summary": "IT之家 8 月 21 日消息，根据 Omdia 最新研究，非洲智能手机市场正在进入调整期，Omdia 预计 2026 年市场将 下降 26% ，结束连续三年的增长态势。 IT之家从报告获悉，2026 年第二季度，非洲智能手机市场三年来首次出现同比下滑， 出货量下降 7% 。随着设备价格持续上涨，整个非洲市场的消费者购买力承受更大的压力。其中，100 美元…",
-      "tags": [
-        "行业",
-        "爆料",
-        "自动抓取"
       ]
     },
     {
@@ -1282,26 +1282,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-16b07edb2182",
-      "title": "Galaxy S27’s Snapdragon chip gets teased as Qualcomm confirms two new flagships",
-      "source": "SamMobile",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-20",
-      "time": "07:21",
-      "publishedAt": "2026-08-20T07:21:24.000Z",
-      "url": "https://www.sammobile.com/news/galaxy-s27-snapdragon-chip-teased-as-qualcomm-confirms-two-new-flagships/",
-      "image": "",
-      "summary": "For many years, Samsung has been using Qualcomm’s flagship chipsets in its premium smartphones, including the Galaxy Z and Galaxy S series. The South Korean tech giant is expected…",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-854e023ff38b",
       "title": "Honor 700 series to continue 200MP camera trend with new design",
       "source": "Huawei Central",
@@ -1397,26 +1377,6 @@ window.phoneRadarAuto = {
       "summary": "Pixel 11's new custom vibration options are music to your…fingertips.",
       "tags": [
         "Pixel",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-0a9c56423b63",
-      "title": "Upcoming Huawei wide phone can sport Pura X Max-like camera setup",
-      "source": "Huawei Central",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-20",
-      "time": "04:07",
-      "publishedAt": "2026-08-20T04:07:02.000Z",
-      "url": "https://www.huaweicentral.com/huawei-wide-phone-camera-setup/",
-      "image": "https://www.huaweicentral.com/wp-content/uploads/2026/06/Pura-X-Max.jpg",
-      "summary": "The upcoming Huawei wide “non-foldable” Pura phone might look different on the outside from other Pura X series siblings; however, it can be similar to a great extent when you div…",
-      "tags": [
-        "Huawei",
         "爆料",
         "自动抓取"
       ]
