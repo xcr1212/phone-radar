@@ -1,6 +1,86 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-08-21T14:52:43.240Z",
+  "updatedAt": "2026-08-21T16:50:15.631Z",
   "news": [
+    {
+      "id": "auto-a8443c9e6d69",
+      "title": "Samsung Galaxy S26 FE gets an early unboxing, revealing key design details",
+      "source": "Android Authority",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-21",
+      "time": "16:08",
+      "publishedAt": "2026-08-21T16:08:18.000Z",
+      "url": "https://www.androidauthority.com/samsung-galaxy-s26-fe-unboxing-video-leak-3701540/",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2025/09/Samsung-Galaxy-S25-FE-in-Navy-with-a-focus-on-the-three-rear-camera-lenses.jpg",
+      "summary": "A new unboxing leak gives us an early look at the Galaxy S26 FE's design and the rumored 'Blueberry' color.",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-481e7edbcee9",
+      "title": "Pixel 11 Pro vs. iPhone 17 Pro: Can a re-run contend with a re-do [Video]",
+      "source": "9to5Google",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-21",
+      "time": "16:00",
+      "publishedAt": "2026-08-21T16:00:00.000Z",
+      "url": "https://9to5google.com/2026/08/21/pixel-11-pro-vs-iphone-17-pro-can-a-re-run-contend-with-a-re-do-video/",
+      "image": "",
+      "summary": "How close does the Pixel 11 Pro get to the iPhone 17 Pro? Does Google’s best of 2026 contend with Apple’s best of 2025? Find out here.",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-0a77d2620805",
+      "title": "Here's how to use sign-to-text translation on Pixel 11.",
+      "source": "Google Blog",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "官方",
+      "trust": "官方确认",
+      "date": "2026-08-21",
+      "time": "15:00",
+      "publishedAt": "2026-08-21T15:00:00.000Z",
+      "url": "https://blog.google/products-and-platforms/devices/pixel/american-sign-language-sign-to-text-pixel-11/",
+      "image": "",
+      "summary": "Developed in partnership with the Deaf community, sign-to-text translates ASL into text in real time.",
+      "tags": [
+        "Pixel",
+        "官方",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-0ea8c7897786",
+      "title": "Here’s how iPhone 18 Pro will differentiate itself from prior models",
+      "source": "9to5Mac",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-21",
+      "time": "14:58",
+      "publishedAt": "2026-08-21T14:58:32.000Z",
+      "url": "https://9to5mac.com/2026/08/21/heres-how-iphone-18-pro-will-differentiate-itself-from-prior-models/",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/05/iphone-17-pro-silver-centered.jpg?quality=82&strip=all&w=1600",
+      "summary": "iPhone 18 Pro will be unveiled next month , and many iPhone users might be asking: what’s going to be truly different this year? Here are some key ways Apple plans to differentiat…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-2355f1b936e1",
       "title": "微信灰度测试“按住转文字”新功能引热议：苹果 iOS 及安卓用户率先体验，鸿蒙用户仍需等待",
@@ -342,26 +422,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-b046b27d9af0",
-      "title": "新型安卓远程控制木马 Manic 现身，设备断网后可利用蓝牙或 Wi-Fi 中继窃取数据",
-      "source": "IT之家",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-21",
-      "time": "09:29",
-      "publishedAt": "2026-08-21T09:29:07.000Z",
-      "url": "https://www.ithome.com/0/992/756.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/8/8a11754c-bf02-4a8f-8480-b4906fda05f5.png?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 8 月 21 日消息，安全公司 ThreatFabric 发文，披露了一种名为 Manic 的新型远程控制木马，该木马能够远程控制安卓手机，窃取受害者设备上的银行账号密码。 同时，其还具备在受感染设备之间中继数据的能力。当某部受感染手机被强制断网，无法连接至黑客架设的命令与控制（C2）服务器时，相应木马会将受害者手机上的数据通过 Wi-Fi 或蓝…",
-      "tags": [
-        "行业",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-f88e9797c6cc",
       "title": "Google’s new Tap to Share feature on the Pixel 11 is incredible. Here’s how to use it",
       "source": "Android Authority",
@@ -662,6 +722,26 @@ window.phoneRadarAuto = {
       ]
     },
     {
+      "id": "newsnow-0fde87fec672",
+      "title": "坐高铁碰见一个年轻宝妈还在用十年前的手机[列文虎克]#数码日常#",
+      "source": "酷安热榜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-08-21",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/73339643",
+      "image": "",
+      "summary": "坐高铁碰见一个年轻宝妈还在用十年前的手机[列文虎克]#数码日常#",
+      "tags": [
+        "行业",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
       "id": "newsnow-6b0bb2dafcdc",
       "title": "华为Pura X View 阔直屏亮相：28日开启门店体验",
       "source": "酷安热榜",
@@ -682,21 +762,21 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-0fde87fec672",
-      "title": "坐高铁碰见一个年轻宝妈还在用十年前的手机[列文虎克]#数码日常#",
+      "id": "newsnow-172f898e0c8e",
+      "title": "华为首款阔直屏 #华为PuraXView# 就要发布了，大家觉得起售价会是多少呢？",
       "source": "酷安热榜",
-      "brand": "行业",
-      "model": "智能手机市场",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-08-21",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73339643",
+      "url": "https://www.coolapk.com/feed/73361789",
       "image": "",
-      "summary": "坐高铁碰见一个年轻宝妈还在用十年前的手机[列文虎克]#数码日常#",
+      "summary": "华为首款阔直屏 #华为PuraXView# 就要发布了，大家觉得起售价会是多少呢？",
       "tags": [
-        "行业",
+        "Huawei",
         "爆料",
         "NewsNow"
       ]
@@ -735,26 +815,6 @@ window.phoneRadarAuto = {
       "url": "https://www.coolapk.com/feed/73340633",
       "image": "",
       "summary": "华为阔直板新机Pura X View 曝光：6.39'' 天马屏",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-2fbde5c59be6",
-      "title": "阔直板机最快8.28可体验，屏幕如果是天马，芯片是9030S的话还是算了吧[流泪]#华为Mate90ProMax# #鸿蒙7# #华为Mate80ProMax#",
-      "source": "酷安热榜",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-08-21",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73341160",
-      "image": "",
-      "summary": "阔直板机最快8.28可体验，屏幕如果是天马，芯片是9030S的话还是算了吧[流泪]#华为Mate90ProMax# #鸿蒙7# #华为Mate80ProMax#",
       "tags": [
         "Huawei",
         "爆料",
@@ -857,26 +917,6 @@ window.phoneRadarAuto = {
       "summary": "Following the initial rollout of Liquid Glass on iOS earlier this year, WhatsApp is now working to bring the design to more interface elements. Here are the details.",
       "tags": [
         "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-09662bf9ca9c",
-      "title": "Here are some more Galaxy S26 FE leaked renders, because why not",
-      "source": "SamMobile",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-20",
-      "time": "19:58",
-      "publishedAt": "2026-08-20T19:58:58.000Z",
-      "url": "https://www.sammobile.com/news/here-are-some-more-galaxy-s26-fe-leaked-renders-because-why-not/",
-      "image": "https://www.sammobile.com/wp-content/uploads/2026/08/leaked-Galaxy-S26-FE-1.jpeg",
-      "summary": "The Galaxy S26 FE has already been comprehensively leaked and even though the device is expected to be unveiled in the near future, the leaks are still coming in. Several more pre…",
-      "tags": [
-        "Samsung",
         "爆料",
         "自动抓取"
       ]
@@ -1177,26 +1217,6 @@ window.phoneRadarAuto = {
       "summary": "The Pixel 11 lineup has earned its reputation as a safe upgrade — or boring, if you’re looking to be a little less generous to Google — but it’s delivering one thing I’ve been beg…",
       "tags": [
         "Pixel",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-9625338e3894",
-      "title": "Fake Cases Hint at New Clear and TechWoven Colors for iPhone 18 Pro",
-      "source": "MacRumors",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-20",
-      "time": "11:59",
-      "publishedAt": "2026-08-20T11:59:35.000Z",
-      "url": "https://www.macrumors.com/2026/08/20/new-clear-and-techwoven-cases-for-iphone-18-pro/",
-      "image": "https://images.macrumors.com/article-new/2026/08/iphone-18-pro-max-case-techwoven-duanrui.jpg",
-      "summary": "The leaker known as \" DuanRui \" today shared video and images of cases designed for the iPhone 18 Pro Max, potentially offering an early look at some of the new color options for…",
-      "tags": [
-        "iPhone",
         "爆料",
         "自动抓取"
       ]

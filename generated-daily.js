@@ -1,5 +1,5 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-08-21T14:52:43.240Z",
+  "updatedAt": "2026-08-21T16:50:15.631Z",
   "issueDate": "2026-08-21",
   "issue": "VOL.260821",
   "title": "手机情报日报",
@@ -184,8 +184,8 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
-          "id": "newsnow-2fbde5c59be6",
-          "title": "阔直板机最快8.28可体验，屏幕如果是天马，芯片是9030S的话还是算了吧[流泪]#华为Mate90ProMax# #鸿蒙7# #华为Mate80ProMax#",
+          "id": "newsnow-172f898e0c8e",
+          "title": "华为首款阔直屏 #华为PuraXView# 就要发布了，大家觉得起售价会是多少呢？",
           "originalTitle": "",
           "source": "酷安热榜",
           "brand": "Huawei",
@@ -194,14 +194,14 @@ window.phoneRadarDaily = {
           "date": "2026-08-21",
           "time": "",
           "publishedAt": "",
-          "url": "https://www.coolapk.com/feed/73341160",
+          "url": "https://www.coolapk.com/feed/73361789",
           "image": "",
           "verdict": "先看",
-          "takeaway": "阔直板机最快8.28可体验，屏幕如果是天马，芯片是9030S的话还是算了吧[流泪]#华为Mate90ProMax# #鸿蒙7# #华为Mate80ProMax#",
-          "detail": "阔直板机最快8.28可体验，屏幕如果是天马，芯片是9030S的话还是算了吧[流泪]#华为Mate90ProMax# #鸿蒙7# #华为Mate80ProMax#",
+          "takeaway": "华为首款阔直屏 #华为PuraXView# 就要发布了，大家觉得起售价会是多少呢？",
+          "detail": "华为首款阔直屏 #华为PuraXView# 就要发布了，大家觉得起售价会是多少呢？",
           "keyPoints": [
             "屏幕形态",
-            "芯片 / 性能"
+            "成本 / 价格"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
