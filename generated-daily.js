@@ -1,14 +1,14 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-08-21T07:06:19.107Z",
+  "updatedAt": "2026-08-21T08:56:56.763Z",
   "issueDate": "2026-08-21",
   "issue": "VOL.260821",
   "title": "手机情报日报",
-  "intro": "今日筛出 10 条重点，其中 8 条是重点爆料，包含 5 条 iPhone 相关、0 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 11 条重点，其中 8 条是重点爆料，包含 6 条 iPhone 相关、1 条官方确认、0 条参数线索。",
   "stats": {
-    "total": 10,
-    "iphone": 5,
+    "total": 11,
+    "iphone": 6,
     "leaks": 8,
-    "official": 0,
+    "official": 1,
     "specs": 0
   },
   "sections": [
@@ -88,6 +88,32 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
+          "id": "auto-9283a5b94115",
+          "title": "小米 Poco M8x 5G 手机海外发布：骁龙 4 Gen 5 芯片，6.9 寸 720P LCD 屏",
+          "originalTitle": "",
+          "source": "IT之家",
+          "brand": "Xiaomi",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-08-21",
+          "time": "08:37",
+          "publishedAt": "2026-08-21T08:37:19.000Z",
+          "url": "https://www.ithome.com/0/992/719.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/8/8c47f515-7710-40fb-baca-d1049456ccc1.jpg?x-bce-process=image/format,f_auto",
+          "verdict": "先看",
+          "takeaway": "IT之家 8 月 21 日消息，小米 Poco 现已在印度市场推出 M8x 5G 手机。新品定位中低端，配备 7900mAh 电池、120Hz 高刷屏幕，起售价 18,999 卢比 （IT之家注：现汇率约合 1,336 元人民币） 。 据介绍， 这款手机配备一块 6.9 英寸的 IPS LCD 屏幕 ，分辨率为 HD+，峰值亮度可达 825nits，表面覆…",
+          "detail": "IT之家 8 月 21 日消息，小米 Poco 现已在印度市场推出 M8x 5G 手机。新品定位中低端，配备 7900mAh 电池、120Hz 高刷屏幕，起售价 18,999 卢比 （IT之家注：现汇率约合 1,336 元人民币） 。 据介绍， 这款手机配备一块 6.9 英寸的 IPS LCD 屏幕 ，分辨率为 HD+，峰值亮度可达 825nits，表面覆…",
+          "keyPoints": [
+            "屏幕形态",
+            "电池 / 充电",
+            "芯片 / 性能",
+            "成本 / 价格"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
           "id": "auto-5aaef4787d0b",
           "title": "小米 Poco F9 Ultra 手机现身 Geekbench，16GB 内存 + 骁龙 8 Elite Gen 5 芯片",
           "originalTitle": "",
@@ -105,30 +131,6 @@ window.phoneRadarDaily = {
           "detail": "IT之家 8 月 21 日消息，一款型号为 26077PC53G 的小米新机近日现身 Geekbench 跑分数据库，X 平台消息人士 Abhishek Yadav 认为该机是 Poco F9 Ultra。 数据库信息显示， 这款手机将搭载高通骁龙 8 Elite Gen 5 芯片 ，辅以 Adreno 840 GPU，并在本次跑分中录得单核 2980 分…",
           "keyPoints": [
             "芯片 / 性能"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "auto-bc9d34327239",
-          "title": "谷歌 Pixel 11 系列手机新增 Charge 屏保，可充当床头时钟",
-          "originalTitle": "",
-          "source": "IT之家",
-          "brand": "Pixel",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-08-21",
-          "time": "03:05",
-          "publishedAt": "2026-08-21T03:05:36.000Z",
-          "url": "https://www.ithome.com/0/992/509.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/8/73a4cb04-de58-48d7-8fbb-95feac916768.png?x-bce-process=image/format,f_auto",
-          "verdict": "先看",
-          "takeaway": "IT之家 8 月 21 日消息，科技媒体 Android Authority 昨日（8 月 20 日）发布博文，报道称在 Pixel 11 系列手机中， 谷歌新增 Charge 屏保，让手机在充电闲置状态下可以充当床头时钟。 Pixel 11 系列手机启用 Charge 屏保之后，屏幕底部会显示电量进度条，并以大号文字展示精确电池百分比。界面还会以较小字体…",
-          "detail": "IT之家 8 月 21 日消息，科技媒体 Android Authority 昨日（8 月 20 日）发布博文，报道称在 Pixel 11 系列手机中， 谷歌新增 Charge 屏保，让手机在充电闲置状态下可以充当床头时钟。 Pixel 11 系列手机启用 Charge 屏保之后，屏幕底部会显示电量进度条，并以大号文字展示精确电池百分比。界面还会以较小字体…",
-          "keyPoints": [
-            "屏幕形态",
-            "电池 / 充电"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
@@ -256,6 +258,29 @@ window.phoneRadarDaily = {
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        },
+        {
+          "id": "auto-9bbf43c61c96",
+          "title": "iPhone 系统功能 / AI 体验相关消息",
+          "originalTitle": "",
+          "source": "Apple Newsroom",
+          "brand": "iPhone",
+          "type": "官方",
+          "trust": "官方确认",
+          "date": "2026-08-21",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://www.apple.com/newsroom/2026/06/apple-announces-changes-to-ios-in-brazil/",
+          "image": "",
+          "verdict": "先看",
+          "takeaway": "iPhone 系统功能 / AI 体验相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
+          "detail": "iPhone 系统功能 / AI 体验相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
+          "keyPoints": [
+            "官方"
+          ],
+          "confidence": "官方内容，可直接作为已确认信息记录。",
+          "impact": "可信度高，但如果不是配置/价格消息，只需要扫一眼。",
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         }
       ]

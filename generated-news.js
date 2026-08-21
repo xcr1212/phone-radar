@@ -1,6 +1,106 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-08-21T07:06:19.107Z",
+  "updatedAt": "2026-08-21T08:56:56.763Z",
   "news": [
+    {
+      "id": "auto-9126eeddd3a6",
+      "title": "Huawei to upgrade Mate 90 Fan Edition with surprising cooling tech",
+      "source": "Huawei Central",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-21",
+      "time": "08:44",
+      "publishedAt": "2026-08-21T08:44:55.000Z",
+      "url": "https://www.huaweicentral.com/huawei-to-upgrade-mate-90-fan-edition-with-surprising-cooling-tech/",
+      "image": "https://www.huaweicentral.com/wp-content/uploads/2026/03/huawei-mate-80-pro-max-wind-edition-img11.jpg",
+      "summary": "Huawei Mate 90 Series is coming very soon with plenty of cutting-edge tech capabilities, and its FAN EDITION is expected to inherit the same features with a new active cooling upg…",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-9283a5b94115",
+      "title": "小米 Poco M8x 5G 手机海外发布：骁龙 4 Gen 5 芯片，6.9 寸 720P LCD 屏",
+      "source": "IT之家",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-21",
+      "time": "08:37",
+      "publishedAt": "2026-08-21T08:37:19.000Z",
+      "url": "https://www.ithome.com/0/992/719.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/8/8c47f515-7710-40fb-baca-d1049456ccc1.jpg?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 8 月 21 日消息，小米 Poco 现已在印度市场推出 M8x 5G 手机。新品定位中低端，配备 7900mAh 电池、120Hz 高刷屏幕，起售价 18,999 卢比 （IT之家注：现汇率约合 1,336 元人民币） 。 据介绍， 这款手机配备一块 6.9 英寸的 IPS LCD 屏幕 ，分辨率为 HD+，峰值亮度可达 825nits，表面覆…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-eef2b87fb2d5",
+      "title": "“僵尸卡”漏洞曝光：2 部安卓手机中继复活过期银行卡，演示成功支付 500 美元",
+      "source": "IT之家",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-21",
+      "time": "07:33",
+      "publishedAt": "2026-08-21T07:33:06.000Z",
+      "url": "https://www.ithome.com/0/992/660.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/8/e98412bc-ffb0-40f4-9d6a-8af3861767b3.png",
+      "summary": "IT之家 8 月 21 日消息，科技媒体 cybersecuritynews 昨日（8 月 20 日）发布比文本，报道了 “僵尸卡”攻击方式，可借助 2 部支持 NFC 的安卓手机，中继篡改已过期 Visa 非接触式卡片，完成最高 500 美元 （IT之家注：现汇率约合 3,370 元人民币） 支付。 在第 35 届 USENIX 安全研讨会上，来自美国马…",
+      "tags": [
+        "行业",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "weibo-c55a7a7db138",
+      "title": "数码闲聊站：独家，母系2nm新旗舰的极窄四等边＜1mm，配合大R角设计+新OS，纯直屏观感…",
+      "source": "数码闲聊站",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-08-21",
+      "time": "07:15",
+      "publishedAt": "2026-08-21T07:15:24.000Z",
+      "url": "https://weibo.com/6048569942/Req8t5JsF",
+      "image": "",
+      "summary": "独家，母系2nm新旗舰的极窄四等边＜1mm，配合大R角设计+新OS，纯直屏观感再上一层楼",
+      "tags": [
+        "行业",
+        "爆料",
+        "微博"
+      ]
+    },
+    {
+      "id": "auto-ef620f6842ad",
+      "title": "Huawei Pura X View vs iPhone 17 Pro Max: Top changes that matter",
+      "source": "Huawei Central",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-21",
+      "time": "07:06",
+      "publishedAt": "2026-08-21T07:06:48.000Z",
+      "url": "https://www.huaweicentral.com/huawei-pura-x-view-vs-iphone-17-pro-max-top-changes-that-matter/",
+      "image": "https://www.huaweicentral.com/wp-content/uploads/2026/08/slimness-comparison.jpg",
+      "summary": "Huawei Pura X View has created a new buzz in the smartphone market after its first appearance, and it is now being compared with the iPhone 17 Pro Max, centered on top specs and f…",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-5aaef4787d0b",
       "title": "小米 Poco F9 Ultra 手机现身 Geekbench，16GB 内存 + 骁龙 8 Elite Gen 5 芯片",
@@ -82,26 +182,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "coolapk-user-377c3c2b578d",
-      "title": "JSCHEN小小狐：vivo X500 Pro Max 疑似现身：周杰伦或代言",
-      "source": "JSCHEN小小狐",
-      "brand": "vivo",
-      "model": "vivo 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-08-21",
-      "time": "05:16",
-      "publishedAt": "2026-08-21T05:16:35.000Z",
-      "url": "https://www.coolapk.com/feed/73354642",
-      "image": "http://image.coolapk.com/feed/2026/0821/13/4702274_2fea7080_9392_732_130@1080x1440.jpg",
-      "summary": "『vivo X500 Pro Max 疑似现身：周杰伦或代言』 近日，有博主在小红书爆料称，周杰伦正在为 vivo 手机拍摄广告片，并放出了相关拍摄现场的路透图。当被问及周杰伦是否代言 vivo 时，该博主回应称“应该是，等官宣”。 由路透图分析，该机或对应 vivo X500 Pro Max，采用中置大圆三摄模组 + 左上角竖条闪光灯设计，直角金属中框…",
-      "tags": [
-        "vivo",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
       "id": "auto-55c81a96676d",
       "title": "Galaxy A08 4G gets a jump in battery capacity over the Galaxy A07",
       "source": "SamMobile",
@@ -139,26 +219,6 @@ window.phoneRadarAuto = {
         "HONOR",
         "爆料",
         "酷安博主"
-      ]
-    },
-    {
-      "id": "auto-bc9d34327239",
-      "title": "谷歌 Pixel 11 系列手机新增 Charge 屏保，可充当床头时钟",
-      "source": "IT之家",
-      "brand": "Pixel",
-      "model": "Pixel 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-21",
-      "time": "03:05",
-      "publishedAt": "2026-08-21T03:05:36.000Z",
-      "url": "https://www.ithome.com/0/992/509.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/8/73a4cb04-de58-48d7-8fbb-95feac916768.png?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 8 月 21 日消息，科技媒体 Android Authority 昨日（8 月 20 日）发布博文，报道称在 Pixel 11 系列手机中， 谷歌新增 Charge 屏保，让手机在充电闲置状态下可以充当床头时钟。 Pixel 11 系列手机启用 Charge 屏保之后，屏幕底部会显示电量进度条，并以大号文字展示精确电池百分比。界面还会以较小字体…",
-      "tags": [
-        "Pixel",
-        "爆料",
-        "自动抓取"
       ]
     },
     {
@@ -302,6 +362,26 @@ window.phoneRadarAuto = {
       ]
     },
     {
+      "id": "newsnow-e74a2d431050",
+      "title": "vivo X500 Pro Max 疑似现身：周杰伦或代言",
+      "source": "酷安热榜",
+      "brand": "vivo",
+      "model": "vivo 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-08-21",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/73354642",
+      "image": "",
+      "summary": "vivo X500 Pro Max 疑似现身：周杰伦或代言",
+      "tags": [
+        "vivo",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
       "id": "newsnow-0fde87fec672",
       "title": "苹果是真耐用啊，一个宝妈还在用十年前的手机#数码日常#",
       "source": "酷安热榜",
@@ -337,6 +417,26 @@ window.phoneRadarAuto = {
       "summary": "华为阔直板新机Pura X View 曝光：6.39'' 天马屏",
       "tags": [
         "Huawei",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-017f573614ad",
+      "title": "华子我最不理解的就是自家cpu，售价这么高肯定能覆盖9030pro和s的差价啊，一颗9030pro和s差价成本能有多少钱？本身就落后而且一个月就要出新的了，到时候不管是pro和s不都是破烂了吗，给新机上上pro能亏死吗？最主要的是pro还能勉强用，s是真接近没法用了",
+      "source": "酷安热榜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-08-21",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/73348004",
+      "image": "",
+      "summary": "华子我最不理解的就是自家cpu，售价这么高肯定能覆盖9030pro和s的差价啊，一颗9030pro和s差价成本能有多少钱？本身就落后而且一个月就要出新的了，到时候不管是pro和s不都是破烂了吗，给新机上上pro能亏死吗？最主要的是pro还能勉强用，s是真接近没法用了",
+      "tags": [
+        "行业",
         "爆料",
         "NewsNow"
       ]
@@ -382,26 +482,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-017f573614ad",
-      "title": "华子我最不理解的就是自家cpu，售价这么高肯定能覆盖9030pro和s的差价啊，一颗9030pro和s差价成本能有多少钱？本身就落后而且一个月就要出新的了，到时候不管是pro和s不都是破烂了吗，给新机上上pro能亏死吗？最主要的是pro还能勉强用，s是真接近没法用了",
-      "source": "酷安热榜",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-08-21",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73348004",
-      "image": "",
-      "summary": "华子我最不理解的就是自家cpu，售价这么高肯定能覆盖9030pro和s的差价啊，一颗9030pro和s差价成本能有多少钱？本身就落后而且一个月就要出新的了，到时候不管是pro和s不都是破烂了吗，给新机上上pro能亏死吗？最主要的是pro还能勉强用，s是真接近没法用了",
-      "tags": [
-        "行业",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
       "id": "newsnow-bb4b3409cf3e",
       "title": "华为发布全球首款阔直板手机，此前被曝定价 6000-7000 元，你看好其市场前景吗？",
       "source": "知乎热榜",
@@ -438,6 +518,26 @@ window.phoneRadarAuto = {
       "tags": [
         "iPhone",
         "市场报告",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-1fba8e83f37f",
+      "title": "为什么华为在做阔直板手机",
+      "source": "今日头条热榜",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-21",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.toutiao.com/trending/7675243141280120875/",
+      "image": "",
+      "summary": "为什么华为在做阔直板手机",
+      "tags": [
+        "Huawei",
+        "爆料",
         "NewsNow"
       ]
     },
@@ -1202,26 +1302,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "coolapk-user-a4365d346d46",
-      "title": "JSCHEN小小狐：消息称小米 18 Pro Max 落地 0916 系大马达",
-      "source": "JSCHEN小小狐",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-08-20",
-      "time": "08:42",
-      "publishedAt": "2026-08-20T08:42:25.000Z",
-      "url": "https://www.coolapk.com/feed/73341161",
-      "image": "http://image.coolapk.com/feed/2026/0820/16/4702274_12d62d41_5344_4646_683@1440x323.jpg",
-      "summary": "『消息称小米 18 Pro Max 落地 0916 系大马达』 知名数码博主 数码闲聊站 今日爆料称，小米 18 Pro Max 确认落地 0916 系超大 X 轴线性马达。 据悉，去年发布的小米 17 Pro Max 一度将马达由 15 Pro 的 0816 更换为 0809E。而在今年早些时候的爆料中，小米 18 Pro Max 曾传出有评估对称式双扬…",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
       "id": "coolapk-user-4c85f00ca4f0",
       "title": "JSCHEN小小狐：曝 OPPO 开案 68Mp 1:1 方形前摄：明年上市",
       "source": "JSCHEN小小狐",
@@ -1297,26 +1377,6 @@ window.phoneRadarAuto = {
       "summary": "The iQOO Z11 has now reached India in a version tailored specifically for the local market. It joins the Chinese and Malaysian variants with a different chipset and hardware confi…",
       "tags": [
         "vivo",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-854e023ff38b",
-      "title": "Honor 700 series to continue 200MP camera trend with new design",
-      "source": "Huawei Central",
-      "brand": "HONOR",
-      "model": "HONOR 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-20",
-      "time": "06:46",
-      "publishedAt": "2026-08-20T06:46:35.000Z",
-      "url": "https://www.huaweicentral.com/honor-700-series-to-continue-200mp-camera-trend-with-new-design/",
-      "image": "https://www.huaweicentral.com/wp-content/uploads/2026/04/Honor600Pro.jpg",
-      "summary": "Honor 700 Series will make its way to the real world by the end of this year, and in addition to packing a variety of new features, the digital phone lineup will continue the 200M…",
-      "tags": [
-        "HONOR",
         "爆料",
         "自动抓取"
       ]
@@ -1459,26 +1519,6 @@ window.phoneRadarAuto = {
         "HONOR",
         "爆料",
         "酷安博主"
-      ]
-    },
-    {
-      "id": "weibo-3efbc442bce0",
-      "title": "数码闲聊站：Magic9系列主打超大底双2亿+阿莱影像 WIN2系列主打2K新直屏+超万级…",
-      "source": "数码闲聊站",
-      "brand": "HONOR",
-      "model": "HONOR 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-08-20",
-      "time": "03:07",
-      "publishedAt": "2026-08-20T03:07:00.000Z",
-      "url": "https://weibo.com/6048569942/Ref593nsC",
-      "image": "",
-      "summary": "Magic9系列主打超大底双2亿+阿莱影像 WIN2系列主打2K新直屏+超万级大电池+风扇 700系列主打2亿影像+潮流新ID+中屏大电池 X/Power系列主打7英寸级超大屏+行业最大电池",
-      "tags": [
-        "HONOR",
-        "爆料",
-        "微博"
       ]
     },
     {
