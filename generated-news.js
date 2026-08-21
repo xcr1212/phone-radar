@@ -1,5 +1,5 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-08-21T20:40:06.394Z",
+  "updatedAt": "2026-08-21T22:40:42.645Z",
   "news": [
     {
       "id": "auto-78f89c14165e",
@@ -102,7 +102,7 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-695efcdb6728",
+      "id": "auto-5242b524a86b",
       "title": "I bought the Galaxy Z Fold 8 Ultra because Samsung fixed the one thing I needed it to",
       "source": "SamMobile",
       "brand": "Samsung",
@@ -112,7 +112,7 @@ window.phoneRadarAuto = {
       "date": "2026-08-21",
       "time": "17:32",
       "publishedAt": "2026-08-21T17:32:13.000Z",
-      "url": "https://www.sammobile.com/news/i-bought-the-galaxy-z-fold-8-ultra-because-samsung-fixed-the-one-thing-i-needed-it-to/",
+      "url": "https://www.sammobile.com/opinion/i-bought-galaxy-z-fold-8-ultra-samsung-fixed-one-thing-i-needed/",
       "image": "",
       "summary": "The Galaxy Z Fold 8 is the hero foldable device this year. A new form factor, an interesting design, and the wider form factor have made it a clear hit. For many Galaxy Z Fold 7 o…",
       "tags": [
@@ -782,21 +782,21 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-4eee6da4343d",
-      "title": "澎湃4功耗发热流畅度确实站起来了，尤其手机发热后的流畅度和澎湃3相比有质变",
+      "id": "newsnow-26b29e727252",
+      "title": "小米将二手手机列入非保修范围",
       "source": "酷安热榜",
-      "brand": "行业",
-      "model": "智能手机市场",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-08-21",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73348318",
+      "url": "https://www.coolapk.com/feed/73365737",
       "image": "",
-      "summary": "澎湃4功耗发热流畅度确实站起来了，尤其手机发热后的流畅度和澎湃3相比有质变",
+      "summary": "小米将二手手机列入非保修范围",
       "tags": [
-        "行业",
+        "Xiaomi",
         "爆料",
         "NewsNow"
       ]
@@ -822,21 +822,21 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-26b29e727252",
-      "title": "小米将二手手机列入非保修范围",
+      "id": "newsnow-4eee6da4343d",
+      "title": "澎湃4功耗发热流畅度确实站起来了，尤其手机发热后的流畅度和澎湃3相比有质变",
       "source": "酷安热榜",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
+      "brand": "行业",
+      "model": "智能手机市场",
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-08-21",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73365737",
+      "url": "https://www.coolapk.com/feed/73348318",
       "image": "",
-      "summary": "小米将二手手机列入非保修范围",
+      "summary": "澎湃4功耗发热流畅度确实站起来了，尤其手机发热后的流畅度和澎湃3相比有质变",
       "tags": [
-        "Xiaomi",
+        "行业",
         "爆料",
         "NewsNow"
       ]
