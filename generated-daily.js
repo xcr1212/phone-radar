@@ -1,12 +1,12 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-08-20T22:44:07.776Z",
-  "issueDate": "2026-08-20",
-  "issue": "VOL.260820",
+  "updatedAt": "2026-08-21T01:56:24.267Z",
+  "issueDate": "2026-08-21",
+  "issue": "VOL.260821",
   "title": "手机情报日报",
-  "intro": "今日筛出 8 条重点，其中 8 条是重点爆料，包含 4 条 iPhone 相关、0 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 10 条重点，其中 8 条是重点爆料，包含 6 条 iPhone 相关、0 条官方确认、0 条参数线索。",
   "stats": {
-    "total": 8,
-    "iphone": 4,
+    "total": 10,
+    "iphone": 6,
     "leaks": 8,
     "official": 0,
     "specs": 0
@@ -18,24 +18,46 @@ window.phoneRadarDaily = {
       "hint": "机模、配色、影像、屏幕、电池和芯片线索先看。",
       "items": [
         {
-          "id": "auto-9625338e3894",
+          "id": "auto-08eb39edfd48",
+          "title": "CounterPoint 称 2026Q2 欧洲手机出货量同比下降 10%，苹果 iPhone 占比逆势飙升",
+          "originalTitle": "",
+          "source": "IT之家",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-08-21",
+          "time": "00:15",
+          "publishedAt": "2026-08-21T00:15:55.000Z",
+          "url": "https://www.ithome.com/0/992/431.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/8/857b9bf9-5a3c-4977-8c33-77722eece7eb.png",
+          "verdict": "先看",
+          "takeaway": "IT之家 8 月 21 日消息，市场调查机构 CounterPoint Research 于 8 月 19 日发布博文， 报告称 2026 年第 2 季度欧洲智能手机出货量为 3500 万部，同比下降 10%，创下该地区三年来第二季度最低水平。 报告指出，零部件成本上涨抬高了终端设备价格。为保护利润率，厂商缩减了促销活动。与此同时，欧洲多地经济前景存在不确…",
+          "detail": "IT之家 8 月 21 日消息，市场调查机构 CounterPoint Research 于 8 月 19 日发布博文， 报告称 2026 年第 2 季度欧洲智能手机出货量为 3500 万部，同比下降 10%，创下该地区三年来第二季度最低水平。 报告指出，零部件成本上涨抬高了终端设备价格。为保护利润率，厂商缩减了促销活动。与此同时，欧洲多地经济前景存在不确…",
+          "keyPoints": [
+            "成本 / 价格"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "auto-8359f214b731",
           "title": "iPhone 18 Pro 机模 / 配色信息曝光",
           "originalTitle": "",
           "source": "MacRumors",
           "brand": "iPhone",
           "type": "爆料",
           "trust": "媒体汇总",
-          "date": "2026-08-20",
-          "time": "11:59",
-          "publishedAt": "2026-08-20T11:59:35.000Z",
-          "url": "https://www.macrumors.com/2026/08/20/new-clear-and-techwoven-cases-for-iphone-18-pro/",
-          "image": "https://images.macrumors.com/article-new/2026/08/iphone-18-pro-max-case-techwoven-duanrui.jpg",
+          "date": "2026-08-21",
+          "time": "00:33",
+          "publishedAt": "2026-08-21T00:33:41.000Z",
+          "url": "https://www.macrumors.com/guide/iphone-18-pro-ultra-colors/",
+          "image": "https://images.macrumors.com/article-new/2026/04/iPhone-18-Pro-Rumored-Colors.jpg",
           "verdict": "先看",
           "takeaway": "iPhone 18 Pro 机模 / 配色信息曝光。已转成中文摘要展示，详细内容可打开原文核对。",
           "detail": "iPhone 18 Pro 机模 / 配色信息曝光。来源提到未发布机型的机模/配色图，适合先判断外观方向、颜色变化和机身轮廓，但最终量产版本仍可能调整。",
           "keyPoints": [
             "外观 / 配色 / 尺寸",
-            "影像硬件",
             "爆料来源"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
@@ -89,30 +111,6 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
-          "id": "auto-b003ae2755ab",
-          "title": "iPhone 18 Pro 外观设计线索曝光",
-          "originalTitle": "",
-          "source": "9to5Mac",
-          "brand": "iPhone",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-08-19",
-          "time": "20:03",
-          "publishedAt": "2026-08-19T20:03:12.000Z",
-          "url": "https://9to5mac.com/2026/08/19/iphone-18-pro-three-new-design-updates-are-coming-this-year/",
-          "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/02/iphone-18-pro-mockup.jpg?quality=82&strip=all&w=1600",
-          "verdict": "先看",
-          "takeaway": "iPhone 18 Pro 外观设计线索曝光。重点看外观、颜色、尺寸是否和上一代有明显变化。",
-          "detail": "iPhone 18 Pro 外观设计线索曝光。这类内容主要看外观设计、按键布局、相机模组和尺寸变化，后续最好等更多渲染图或保护壳线索互相验证。",
-          "keyPoints": [
-            "外观 / 配色 / 尺寸",
-            "爆料来源"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
           "id": "auto-94d88a827976",
           "title": "小米 REDMI K100 Pro 系列手机首销 7 天成绩曝光，Max 销量约前代 135%",
           "originalTitle": "",
@@ -159,53 +157,104 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
-          "id": "weibo-8512ec3dfff4",
-          "title": "数码闲聊站：Omdia调研数据，2026年折叠屏市场规模预计增长超22%，未来3年将实现翻…",
+          "id": "coolapk-user-2236af436b42",
+          "title": "竹本青：【华为Pura X View 四款配色官图公布：红/灰/白/黑】 跃影红、亚麻灰、零度白、幻夜黑 几何美学、阔感设…",
           "originalTitle": "",
-          "source": "数码闲聊站",
-          "brand": "Xiaomi",
+          "source": "竹本青",
+          "brand": "Huawei",
           "type": "爆料",
-          "trust": "高关注爆料源",
-          "date": "2026-08-20",
-          "time": "10:22",
-          "publishedAt": "2026-08-20T10:22:00.000Z",
-          "url": "https://weibo.com/6048569942/RehVIa4Rn",
-          "image": "",
+          "trust": "高可信爆料",
+          "date": "2026-08-21",
+          "time": "01:01",
+          "publishedAt": "2026-08-21T01:01:59.000Z",
+          "url": "https://www.coolapk.com/feed/73351130",
+          "image": "http://image.coolapk.com/feed/2026/0821/09/4248714_6d5fa969_4117_2919_576@3839x2160.jpg",
           "verdict": "先看",
-          "takeaway": "Omdia调研数据，2026年折叠屏市场规模预计增长超22%，未来3年将实现翻倍。 阔折叠把整个品类都带到起飞，接下来小米和苹果的阔折叠新品也会陆续发布，新形态设计和产品定位都很接近，“新折叠元年”真的来了[笑而不语]",
-          "detail": "Omdia调研数据，2026年折叠屏市场规模预计增长超22%，未来3年将实现翻倍。 阔折叠把整个品类都带到起飞，接下来小米和苹果的阔折叠新品也会陆续发布，新形态设计和产品定位都很接近，“新折叠元年”真的来了[笑而不语]",
+          "takeaway": "【华为Pura X View 四款配色官图公布：红/灰/白/黑】 跃影红、亚麻灰、零度白、幻夜黑 几何美学、阔感设计 SKU：12+256GB、12+512GB、12+1TB #今日热点# #华为PuraXView# #鸿蒙7#",
+          "detail": "【华为Pura X View 四款配色官图公布：红/灰/白/黑】 跃影红、亚麻灰、零度白、幻夜黑 几何美学、阔感设计 SKU：12+256GB、12+512GB、12+1TB #今日热点# #华为PuraXView# #鸿蒙7#",
           "keyPoints": [
-            "屏幕形态",
-            "爆料来源"
+            "外观 / 配色 / 尺寸"
           ],
-          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
+          "confidence": "可信度较高，但仍属于发布前线索。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
-          "id": "weibo-a47516a31ec7",
-          "title": "数码闲聊站：全网首猜华为阔直板✓6.39英寸2232*1320p 1.5K 6500nit…",
+          "id": "newsnow-2fbde5c59be6",
+          "title": "阔直板机最快8.28可体验，屏幕如果是天马，芯片是9030S的话还是算了吧[流泪]#华为Mate90ProMax# #鸿蒙7# #华为Mate80ProMax#",
           "originalTitle": "",
-          "source": "数码闲聊站",
+          "source": "酷安热榜",
           "brand": "Huawei",
           "type": "爆料",
           "trust": "高关注爆料源",
-          "date": "2026-08-20",
-          "time": "09:16",
-          "publishedAt": "2026-08-20T09:16:34.000Z",
-          "url": "https://weibo.com/6048569942/Rehv9gLoI",
-          "image": "https://tvax2.sinaimg.cn/mw2000/006BlblIgy1igadg9tz9gj30xv19dgxu.jpg",
+          "date": "2026-08-21",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://www.coolapk.com/feed/73341160",
+          "image": "",
           "verdict": "先看",
-          "takeaway": "全网首猜华为阔直板✓6.39英寸2232*1320p 1.5K 6500nits小阔屏✓7000mAh大电池✓三摄长焦红枫影像✓6.68mm/201g 首发鸿蒙OS7 华为Pura X View猜得准不准，回答我？！[doge]",
-          "detail": "全网首猜华为阔直板✓6.39英寸2232*1320p 1.5K 6500nits小阔屏✓7000mAh大电池✓三摄长焦红枫影像✓6.68mm/201g 首发鸿蒙OS7 华为Pura X View猜得准不准，回答我？！[doge]",
+          "takeaway": "阔直板机最快8.28可体验，屏幕如果是天马，芯片是9030S的话还是算了吧[流泪]#华为Mate90ProMax# #鸿蒙7# #华为Mate80ProMax#",
+          "detail": "阔直板机最快8.28可体验，屏幕如果是天马，芯片是9030S的话还是算了吧[流泪]#华为Mate90ProMax# #鸿蒙7# #华为Mate80ProMax#",
           "keyPoints": [
-            "影像硬件",
-            "电池 / 充电",
-            "爆料来源"
+            "屏幕形态",
+            "芯片 / 性能"
           ],
-          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        }
+      ]
+    },
+    {
+      "id": "iphone",
+      "title": "iPhone 重点",
+      "hint": "不是硬件爆料，但和 iPhone 体验或路线有关。",
+      "items": [
+        {
+          "id": "auto-816bf6171c03",
+          "title": "微信 iOS 版 8.0.76 最新官方正式版下载发布",
+          "originalTitle": "",
+          "source": "IT之家",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-08-21",
+          "time": "01:34",
+          "publishedAt": "2026-08-21T01:34:05.000Z",
+          "url": "https://www.ithome.com/0/992/450.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2022/4/d612a258-250d-4852-908c-ad3413aaa709.jpg?x-bce-process=image/watermark,image_aW1nL3dhdGVybWFyay9xdy9xdzEzOC5wbmc=,g_7,x_14,y_14,a_0,t_100",
+          "verdict": "先看",
+          "takeaway": "IT之家 8 月 21 日消息，微信 iOS 平台迎来了 8.0.76 正式版更新。 官方更新日志为： 本次更新： - 解决了一些已知问题。 大家在 IT之家微信号 回复“ 微信 ”两字，即可获取当前最新官方内部版微信下载。 本文由机器人发布，IT之家稍后将为大家带来具体更新内容。如果你发现了日志中未提及的更新点，欢迎发在评论区供大家参考~[微笑]",
+          "detail": "IT之家 8 月 21 日消息，微信 iOS 平台迎来了 8.0.76 正式版更新。 官方更新日志为： 本次更新： - 解决了一些已知问题。 大家在 IT之家微信号 回复“ 微信 ”两字，即可获取当前最新官方内部版微信下载。 本文由机器人发布，IT之家稍后将为大家带来具体更新内容。如果你发现了日志中未提及的更新点，欢迎发在评论区供大家参考~[微笑]",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "中文源可以直接点开快读；看完只保留和购机有关的点。"
+        },
+        {
+          "id": "auto-a9502de6c1a0",
+          "title": "iPhone X 彻底「停产」了，但我们还没走出它定义的时代｜明日后视镜",
+          "originalTitle": "",
+          "source": "爱范儿",
+          "brand": "iPhone",
+          "type": "评测",
+          "trust": "媒体汇总",
+          "date": "2026-08-20",
+          "time": "02:11",
+          "publishedAt": "2026-08-20T02:11:32.000Z",
+          "url": "https://www.ifanr.com/1675378?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "image": "https://s3.ifanr.com/images/ep/uploads/%E8%8B%B9%E6%9E%9C%E5%AE%98%E7%BD%91%E4%B8%8A%E9%82%A3%E4%BB%BD%E9%BB%98%E9%BB%98%E6%9B%B4%E6%96%B0%E7%9A%84%E5%90%8D%E5%8D%95%E9%87%8C%EF%BC%8C%E4%B8%8A%E5%91%A8%E5%A4%9A%E4%BA%86%E4%B8%80%E4%B8%AA%E5%A4%A7%E5%AE%B6%E7%86%9F%E6%82%89%E7%9A%84%E5%90%8D%E5%AD%97%E3%80%82/2845b8f2-ff3f-47a6-8ba2-1c1fff9d0d02.png",
+          "verdict": "先看",
+          "takeaway": "下一个「iPhone X」在哪里？",
+          "detail": "下一个「iPhone X」在哪里？",
+          "keyPoints": [
+            "评测"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是实际体验内容，买前适合重点看缺点和取舍。",
+          "action": "中文源可以直接点开快读；看完只保留和购机有关的点。"
         }
       ]
     }
