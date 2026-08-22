@@ -1,6 +1,106 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-08-22T04:48:14.811Z",
+  "updatedAt": "2026-08-22T06:58:21.031Z",
   "news": [
+    {
+      "id": "auto-f414948958c4",
+      "title": "vivo V70 Lite 4G 手机规格曝光：展锐 T7300 处理器、配 8GB RAM",
+      "source": "IT之家",
+      "brand": "vivo",
+      "model": "vivo 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-22",
+      "time": "06:37",
+      "publishedAt": "2026-08-22T06:37:49.000Z",
+      "url": "https://www.ithome.com/0/992/997.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/8/19c925dd-c3f3-4ff2-a78e-4e4870aff92b.png?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 8 月 22 日消息，外媒 GSMArena 现已曝光 vivo 旗下 V70 Lite 4G 手机，该机采用展锐 T7300 处理器，将于近期上市。 该机提供蓝白双色可选，获得 IP69 认证，正面配备一块 6.83 英寸 1260x2800 分辨率 120Hz AMOLED 面板，匹配 32Mp 自拍摄像头；手机背面采用 50Mp 主摄和 2…",
+      "tags": [
+        "vivo",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-e225bc6f0c07",
+      "title": "竹本青：【总成绩9.32秒，荣耀自研机器人闪电打破人类百米世界纪录】 8月22日，第二届世界人形机器人运动会启幕。在备赛环…",
+      "source": "竹本青",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-08-22",
+      "time": "06:34",
+      "publishedAt": "2026-08-22T06:34:40.000Z",
+      "url": "https://www.coolapk.com/feed/73372230",
+      "image": "http://image.coolapk.com/feed/2026/0822/14/4248714_26802fe2_0479_7188_368@2170x3819.jpg",
+      "summary": "【总成绩9.32秒，荣耀自研机器人闪电打破人类百米世界纪录】 8月22日，第二届世界人形机器人运动会启幕。在备赛环节中，荣耀旗下自研机器人“闪电”，以总成绩9.32s，打破人类百米纪录。 荣耀官方表示，该机器人的超强续航能力、散热和可靠性设计，将在9月发布的Magic 9系列上完整回归。 #今日热点# #荣耀Magic9# #机器人#",
+      "tags": [
+        "HONOR",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-e9a318847c75",
+      "title": "REDMI K100 Pro series sales figures: K100 Pro Max reaches 135% of the K90 Pro Max’s sales",
+      "source": "Gizmochina",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-22",
+      "time": "05:50",
+      "publishedAt": "2026-08-22T05:50:28.000Z",
+      "url": "https://www.gizmochina.com/2026/08/22/redmi-k100-pro-series-sales-figures-k100-pro-max-reaches-135-of-the-k90-pro-maxs-sales/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/08/redmi-k100-pro-max-300x169.png?x23692",
+      "summary": "Early sales numbers for Xiaomi’s new REDMI flagship series are in, and they’re a bit of a mixed bag. Digital blogger @RDObservation, who keeps a close eye on the Chinese smartphon…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-e4a4ac4a3c00",
+      "title": "消息称荣耀计划推出独立的手持云台相机",
+      "source": "IT之家",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-22",
+      "time": "05:43",
+      "publishedAt": "2026-08-22T05:43:56.000Z",
+      "url": "https://www.ithome.com/0/992/983.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/8/5cb3cf85-ed2a-4e53-ae46-99ccf6362929.png?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 8 月 22 日消息，据博主 @数码闲聊站 今日爆料，荣耀计划推出独立的手持云台相机，全品类发力。 IT之家注意到，荣耀本月刚刚推出 Robot Phone 手机产品， 行业首创钛合金灵巧云台 ，售价 9999 元起。架构采用航空级钛合金，与行业主流云台相比体积缩减 65%；行业首发钛合金云台电机，云台电机最大转速 360°/秒。云台配备 200…",
+      "tags": [
+        "HONOR",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-b400ec25fe43",
+      "title": "I used the Samsung Galaxy Z Fold 8 Ultra, and it does just enough to be called an upgrade",
+      "source": "Android Central",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-08-22",
+      "time": "05:28",
+      "publishedAt": "2026-08-22T05:28:42.000Z",
+      "url": "https://www.androidcentral.com/phones/samsung-galaxy/samsung-galaxy-z-fold-8-ultra-review",
+      "image": "https://cdn.mos.cms.futurecdn.net/4oiPpW74pmaesmCFbnZscd-1280-80.jpg",
+      "summary": "The Galaxy Z Fold 8 Ultra looks the same as last year, but Samsung made a few changes: it has a bigger battery, gets brighter, and is a little faster. Does that justify the Ultra…",
+      "tags": [
+        "Samsung",
+        "评测",
+        "自动抓取"
+      ]
+    },
     {
       "id": "coolapk-user-33b7b0dc7e58",
       "title": "竹本青：#酷态科# 不懂就问，为什么在拼多多买酷态科，无论是啥 都送两个七号电池",
@@ -23,7 +123,7 @@ window.phoneRadarAuto = {
     },
     {
       "id": "coolapk-user-08b13928880a",
-      "title": "竹本青：【消息称华为Pura X Max销量已超71万台】 华为 Pura X Max ● 截至 W32 —— 约34.4…",
+      "title": "竹本青：消息称华为Pura X Max销量已超71万台",
       "source": "竹本青",
       "brand": "Huawei",
       "model": "Huawei 相关机型",
@@ -162,6 +262,26 @@ window.phoneRadarAuto = {
       ]
     },
     {
+      "id": "newsnow-089159d4e7bc",
+      "title": "别犟，70 Air和X View都不是Mate/Pura正统团队做的。和配置无关，别的团队也有能力规划旗舰的配置，只是能不能量产上市的问题。",
+      "source": "酷安热榜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-08-22",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/73368491",
+      "image": "",
+      "summary": "别犟，70 Air和X View都不是Mate/Pura正统团队做的。和配置无关，别的团队也有能力规划旗舰的配置，只是能不能量产上市的问题。",
+      "tags": [
+        "行业",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
       "id": "newsnow-f5aac795908c",
       "title": "开玩笑的吗？这只是一台先端上来的前菜阔直板，芯片和影像都不算华为顶级水平，这要能卖一万，后面的mate90系列怎么定价呀，疯了吧？ #华为Mate80ProMax# #鸿蒙6# #鸿蒙7#",
       "source": "酷安热榜",
@@ -222,61 +342,21 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-089159d4e7bc",
-      "title": "别犟，70 Air和X View都不是Mate/Pura正统团队做的。和配置无关，别的团队也有能力规划旗舰的配置，只是能不能量产上市的问题。",
-      "source": "酷安热榜",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-08-22",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73368491",
-      "image": "",
-      "summary": "别犟，70 Air和X View都不是Mate/Pura正统团队做的。和配置无关，别的团队也有能力规划旗舰的配置，只是能不能量产上市的问题。",
-      "tags": [
-        "行业",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-18173eee263d",
-      "title": "曾辉手机壳是跟韩雨彤的合照",
+      "id": "newsnow-82a5eb75bc6e",
+      "title": "父子因iPhone争执坠崖母亲也跳下",
       "source": "微博热搜",
-      "brand": "行业",
-      "model": "智能手机市场",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
       "type": "爆料",
       "trust": "待验证",
       "date": "2026-08-22",
       "time": "",
       "publishedAt": "",
-      "url": "https://s.weibo.com/weibo?q=%23%E6%9B%BE%E8%BE%89%E6%89%8B%E6%9C%BA%E5%A3%B3%E6%98%AF%E8%B7%9F%E9%9F%A9%E9%9B%A8%E5%BD%A4%E7%9A%84%E5%90%88%E7%85%A7%23&t=31&band_rank=15&Refer=top",
+      "url": "https://s.weibo.com/weibo?q=%23%E7%88%B6%E5%AD%90%E5%9B%A0iPhone%E4%BA%89%E6%89%A7%E5%9D%A0%E5%B4%96%E6%AF%8D%E4%BA%B2%E4%B9%9F%E8%B7%B3%E4%B8%8B%23&t=31&band_rank=21&Refer=top",
       "image": "",
-      "summary": "曾辉手机壳是跟韩雨彤的合照",
+      "summary": "父子因iPhone争执坠崖母亲也跳下",
       "tags": [
-        "行业",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-c90d3b9790b6",
-      "title": "印度少年为要手机致一家三口坠崖",
-      "source": "微博热搜",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "待验证",
-      "date": "2026-08-22",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://s.weibo.com/weibo?q=%23%E5%8D%B0%E5%BA%A6%E5%B0%91%E5%B9%B4%E4%B8%BA%E8%A6%81%E6%89%8B%E6%9C%BA%E8%87%B4%E4%B8%80%E5%AE%B6%E4%B8%89%E5%8F%A3%E5%9D%A0%E5%B4%96%23&t=31&band_rank=23&Refer=top",
-      "image": "",
-      "summary": "印度少年为要手机致一家三口坠崖",
-      "tags": [
-        "行业",
+        "iPhone",
         "爆料",
         "NewsNow"
       ]
@@ -295,26 +375,6 @@ window.phoneRadarAuto = {
       "url": "https://www.toutiao.com/trending/7676511515221966874/",
       "image": "",
       "summary": "因为一部手机印度一家三口坠崖死亡",
-      "tags": [
-        "行业",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-a71da278dbd6",
-      "title": "手机出现这行字 存款正被转走",
-      "source": "百度热搜",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-22",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.baidu.com/s?wd=%E6%89%8B%E6%9C%BA%E5%87%BA%E7%8E%B0%E8%BF%99%E8%A1%8C%E5%AD%97+%E5%AD%98%E6%AC%BE%E6%AD%A3%E8%A2%AB%E8%BD%AC%E8%B5%B0",
-      "image": "",
-      "summary": "手机出现这行字 存款正被转走",
       "tags": [
         "行业",
         "爆料",

@@ -1,12 +1,12 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-08-22T04:48:14.811Z",
+  "updatedAt": "2026-08-22T06:58:21.031Z",
   "issueDate": "2026-08-22",
   "issue": "VOL.260822",
   "title": "手机情报日报",
-  "intro": "今日筛出 19 条重点，其中 8 条是重点爆料，包含 7 条 iPhone 相关、2 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 17 条重点，其中 8 条是重点爆料，包含 8 条 iPhone 相关、2 条官方确认、0 条参数线索。",
   "stats": {
-    "total": 19,
-    "iphone": 7,
+    "total": 17,
+    "iphone": 8,
     "leaks": 8,
     "official": 2,
     "specs": 0
@@ -88,6 +88,30 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
+          "id": "auto-f414948958c4",
+          "title": "vivo V70 Lite 4G 手机规格曝光：展锐 T7300 处理器、配 8GB RAM",
+          "originalTitle": "",
+          "source": "IT之家",
+          "brand": "vivo",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-08-22",
+          "time": "06:37",
+          "publishedAt": "2026-08-22T06:37:49.000Z",
+          "url": "https://www.ithome.com/0/992/997.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/8/19c925dd-c3f3-4ff2-a78e-4e4870aff92b.png?x-bce-process=image/format,f_auto",
+          "verdict": "先看",
+          "takeaway": "IT之家 8 月 22 日消息，外媒 GSMArena 现已曝光 vivo 旗下 V70 Lite 4G 手机，该机采用展锐 T7300 处理器，将于近期上市。 该机提供蓝白双色可选，获得 IP69 认证，正面配备一块 6.83 英寸 1260x2800 分辨率 120Hz AMOLED 面板，匹配 32Mp 自拍摄像头；手机背面采用 50Mp 主摄和 2…",
+          "detail": "IT之家 8 月 22 日消息，外媒 GSMArena 现已曝光 vivo 旗下 V70 Lite 4G 手机，该机采用展锐 T7300 处理器，将于近期上市。 该机提供蓝白双色可选，获得 IP69 认证，正面配备一块 6.83 英寸 1260x2800 分辨率 120Hz AMOLED 面板，匹配 32Mp 自拍摄像头；手机背面采用 50Mp 主摄和 2…",
+          "keyPoints": [
+            "屏幕形态",
+            "芯片 / 性能"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
           "id": "newsnow-73fe7f39e525",
           "title": "华为首款阔直屏 #华为PuraXView# 就要发布了，大家觉得起售价会是多少呢？",
           "originalTitle": "",
@@ -136,25 +160,25 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
-          "id": "newsnow-6e374d55f473",
-          "title": "澎湃4功耗发热流畅度确实站起来了，尤其手机发热后的流畅度和澎湃3相比有质变",
+          "id": "coolapk-user-e225bc6f0c07",
+          "title": "竹本青：【总成绩9.32秒，荣耀自研机器人闪电打破人类百米世界纪录】 8月22日，第二届世界人形机器人运动会启幕。在备赛环…",
           "originalTitle": "",
-          "source": "酷安热榜",
-          "brand": "行业",
+          "source": "竹本青",
+          "brand": "HONOR",
           "type": "爆料",
-          "trust": "高关注爆料源",
+          "trust": "高可信爆料",
           "date": "2026-08-22",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://www.coolapk.com/feed/73348318",
-          "image": "",
+          "time": "06:34",
+          "publishedAt": "2026-08-22T06:34:40.000Z",
+          "url": "https://www.coolapk.com/feed/73372230",
+          "image": "http://image.coolapk.com/feed/2026/0822/14/4248714_26802fe2_0479_7188_368@2170x3819.jpg",
           "verdict": "先看",
-          "takeaway": "澎湃4功耗发热流畅度确实站起来了，尤其手机发热后的流畅度和澎湃3相比有质变",
-          "detail": "澎湃4功耗发热流畅度确实站起来了，尤其手机发热后的流畅度和澎湃3相比有质变",
+          "takeaway": "【总成绩9.32秒，荣耀自研机器人闪电打破人类百米世界纪录】 8月22日，第二届世界人形机器人运动会启幕。在备赛环节中，荣耀旗下自研机器人“闪电”，以总成绩9.32s，打破人类百米纪录。 荣耀官方表示，该机器人的超强续航能力、散热和可靠性设计，将在9月发布的Magic 9系列上完整回归。 #今日热点# #荣耀Magic9# #机器人#",
+          "detail": "【总成绩9.32秒，荣耀自研机器人闪电打破人类百米世界纪录】 8月22日，第二届世界人形机器人运动会启幕。在备赛环节中，荣耀旗下自研机器人“闪电”，以总成绩9.32s，打破人类百米纪录。 荣耀官方表示，该机器人的超强续航能力、散热和可靠性设计，将在9月发布的Magic 9系列上完整回归。 #今日热点# #荣耀Magic9# #机器人#",
           "keyPoints": [
-            "爆料"
+            "电池 / 充电"
           ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "confidence": "可信度较高，但仍属于发布前线索。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
@@ -178,30 +202,6 @@ window.phoneRadarDaily = {
             "爆料来源"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "weibo-c55a7a7db138",
-          "title": "数码闲聊站：独家，母系2nm新旗舰的极窄四等边＜1mm，配合大R角设计+新OS，纯直屏观感…",
-          "originalTitle": "",
-          "source": "数码闲聊站",
-          "brand": "行业",
-          "type": "爆料",
-          "trust": "高关注爆料源",
-          "date": "2026-08-21",
-          "time": "07:15",
-          "publishedAt": "2026-08-21T07:15:24.000Z",
-          "url": "https://weibo.com/6048569942/Req8t5JsF",
-          "image": "",
-          "verdict": "先看",
-          "takeaway": "独家，母系2nm新旗舰的极窄四等边＜1mm，配合大R角设计+新OS，纯直屏观感再上一层楼",
-          "detail": "独家，母系2nm新旗舰的极窄四等边＜1mm，配合大R角设计+新OS，纯直屏观感再上一层楼",
-          "keyPoints": [
-            "屏幕形态",
-            "爆料来源"
-          ],
-          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         }
@@ -279,6 +279,29 @@ window.phoneRadarDaily = {
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是实际体验内容，买前适合重点看缺点和取舍。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        },
+        {
+          "id": "newsnow-82a5eb75bc6e",
+          "title": "父子因iPhone争执坠崖母亲也跳下",
+          "originalTitle": "",
+          "source": "微博热搜",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "待验证",
+          "date": "2026-08-22",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%88%B6%E5%AD%90%E5%9B%A0iPhone%E4%BA%89%E6%89%A7%E5%9D%A0%E5%B4%96%E6%AF%8D%E4%BA%B2%E4%B9%9F%E8%B7%B3%E4%B8%8B%23&t=31&band_rank=21&Refer=top",
+          "image": "",
+          "verdict": "扫一眼",
+          "takeaway": "父子因iPhone争执坠崖母亲也跳下",
+          "detail": "父子因iPhone争执坠崖母亲也跳下",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         },
         {
@@ -408,75 +431,6 @@ window.phoneRadarDaily = {
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
-        {
-          "id": "auto-54c8b67846f4",
-          "title": "Pixel 11 Pro Fold 折叠屏相关消息",
-          "originalTitle": "",
-          "source": "9to5Google",
-          "brand": "Pixel",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-08-21",
-          "time": "23:15",
-          "publishedAt": "2026-08-21T23:15:00.000Z",
-          "url": "https://9to5google.com/2026/08/21/pixel-11-pro-fold-still-doesnt-survive-bend-test-but-at-least-it-didnt-explode-this-time-video/",
-          "image": "",
-          "verdict": "可略过",
-          "takeaway": "Pixel 影像能力相关宣传或案例，主要看是否透露拍摄能力变化。",
-          "detail": "Pixel 11 Pro Fold 折叠屏相关消息。重点看折痕、铰链、厚度、屏幕可靠性和重量是否有实质改善。",
-          "keyPoints": [
-            "影像硬件"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "影响拍照体验，买旗舰机时值得关注。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
-        {
-          "id": "auto-5242b524a86b",
-          "title": "Samsung 折叠屏相关消息",
-          "originalTitle": "",
-          "source": "SamMobile",
-          "brand": "Samsung",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-08-21",
-          "time": "17:32",
-          "publishedAt": "2026-08-21T17:32:13.000Z",
-          "url": "https://www.sammobile.com/opinion/i-bought-galaxy-z-fold-8-ultra-samsung-fixed-one-thing-i-needed/",
-          "image": "",
-          "verdict": "可略过",
-          "takeaway": "Samsung 折叠屏相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
-          "detail": "Samsung 折叠屏相关消息。重点看折痕、铰链、厚度、屏幕可靠性和重量是否有实质改善。",
-          "keyPoints": [
-            "外观 / 配色 / 尺寸"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
-        {
-          "id": "auto-481e7edbcee9",
-          "title": "Pixel 11 Pro 对比 iPhone 17 Pro：差异整理",
-          "originalTitle": "",
-          "source": "9to5Google",
-          "brand": "Pixel",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-08-21",
-          "time": "16:00",
-          "publishedAt": "2026-08-21T16:00:00.000Z",
-          "url": "https://9to5google.com/2026/08/21/pixel-11-pro-vs-iphone-17-pro-can-a-re-run-contend-with-a-re-do-video/",
-          "image": "",
-          "verdict": "可略过",
-          "takeaway": "Pixel 11 Pro 对比 iPhone 17 Pro：重点看定位、配置差异和价格差，判断是否值得等更高端型号。",
-          "detail": "Pixel 11 Pro 对比 iPhone 17 Pro 的差异整理。重点看两款机型的定位、影像规格、屏幕尺寸、价格区间和发布时间是否拉开差距。",
-          "keyPoints": [
-            "影像硬件"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "影响拍照体验，买旗舰机时值得关注。",
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         }
       ]
