@@ -1,12 +1,12 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-08-22T14:36:59.130Z",
+  "updatedAt": "2026-08-22T16:39:37.164Z",
   "issueDate": "2026-08-22",
   "issue": "VOL.260822",
   "title": "手机情报日报",
-  "intro": "今日筛出 17 条重点，其中 8 条是重点爆料，包含 5 条 iPhone 相关、2 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 17 条重点，其中 8 条是重点爆料，包含 6 条 iPhone 相关、2 条官方确认、0 条参数线索。",
   "stats": {
     "total": 17,
-    "iphone": 5,
+    "iphone": 6,
     "leaks": 8,
     "official": 2,
     "specs": 0
@@ -217,6 +217,29 @@ window.phoneRadarDaily = {
       "hint": "不是硬件爆料，但和 iPhone 体验或路线有关。",
       "items": [
         {
+          "id": "auto-9a13172cc535",
+          "title": "印度少年为买新款苹果 iPhone 威胁父母跳崖，最终三人接连坠崖身亡",
+          "originalTitle": "",
+          "source": "IT之家",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-08-22",
+          "time": "16:15",
+          "publishedAt": "2026-08-22T16:15:27.000Z",
+          "url": "https://www.ithome.com/0/993/119.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/8/632401c2-80da-48a7-8fcc-eb85a6f6fa5b.jpg",
+          "verdict": "先看",
+          "takeaway": "IT之家 8 月 23 日消息，当地时间 8 月 21 日，印度马哈拉施特拉邦钱德拉普尔地区发生一起悲剧事件。 据当地警方通报，一名青年男子因购买手机的问题与父母发生争执，然后前往当地的 Khavdya Dongar 山，并站在悬崖边试图轻生，以此威胁父母。 家人、村民、警方和消防人员持续劝阻约 3 小时未果，最终男子还是坠崖，父亲在试图施救时一同坠下，母…",
+          "detail": "IT之家 8 月 23 日消息，当地时间 8 月 21 日，印度马哈拉施特拉邦钱德拉普尔地区发生一起悲剧事件。 据当地警方通报，一名青年男子因购买手机的问题与父母发生争执，然后前往当地的 Khavdya Dongar 山，并站在悬崖边试图轻生，以此威胁父母。 家人、村民、警方和消防人员持续劝阻约 3 小时未果，最终男子还是坠崖，父亲在试图施救时一同坠下，母…",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "中文源可以直接点开快读；看完只保留和购机有关的点。"
+        },
+        {
           "id": "auto-9bbf43c61c96",
           "title": "iPhone 系统功能 / AI 体验相关消息",
           "originalTitle": "",
@@ -269,29 +292,6 @@ window.phoneRadarDaily = {
       "title": "新机与官方发布",
       "hint": "能直接更新到参数库。",
       "items": [
-        {
-          "id": "auto-06d979e7338a",
-          "title": "三星 Galaxy S26 FE 手机开箱视频曝光，8 月 27 日发布",
-          "originalTitle": "",
-          "source": "IT之家",
-          "brand": "Samsung",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-08-22",
-          "time": "07:34",
-          "publishedAt": "2026-08-22T07:34:00.000Z",
-          "url": "https://www.ithome.com/0/993/017.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/8/9e282634-af1c-441a-b5a3-112463c7b8e9.jpg?x-bce-process=image/format,f_auto",
-          "verdict": "先看",
-          "takeaway": "IT之家 8 月 22 日消息，网友 @ mundoelectronica.aa 昨日（8 月 21 日）在 Instagram 平台发布视频， 分享了 三星 Galaxy S26 FE 手机的开箱视频，该手机此前已官宣 8 月 27 日发布。 颜色方面，该手机预估会推出 Blueberry（蓝莓色）、Graphite（石墨色）和 Pistachio（开心…",
-          "detail": "IT之家 8 月 22 日消息，网友 @ mundoelectronica.aa 昨日（8 月 21 日）在 Instagram 平台发布视频， 分享了 三星 Galaxy S26 FE 手机的开箱视频，该手机此前已官宣 8 月 27 日发布。 颜色方面，该手机预估会推出 Blueberry（蓝莓色）、Graphite（石墨色）和 Pistachio（开心…",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "中文源可以直接点开快读；看完只保留和购机有关的点。"
-        },
         {
           "id": "auto-5b5e8d58fdf2",
           "title": "“奥利奥”风格后摄模组：多亲 J36 手机预热，下周发布",

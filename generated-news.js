@@ -1,6 +1,86 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-08-22T14:36:59.130Z",
+  "updatedAt": "2026-08-22T16:39:37.164Z",
   "news": [
+    {
+      "id": "auto-9a13172cc535",
+      "title": "印度少年为买新款苹果 iPhone 威胁父母跳崖，最终三人接连坠崖身亡",
+      "source": "IT之家",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-22",
+      "time": "16:15",
+      "publishedAt": "2026-08-22T16:15:27.000Z",
+      "url": "https://www.ithome.com/0/993/119.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/8/632401c2-80da-48a7-8fcc-eb85a6f6fa5b.jpg",
+      "summary": "IT之家 8 月 23 日消息，当地时间 8 月 21 日，印度马哈拉施特拉邦钱德拉普尔地区发生一起悲剧事件。 据当地警方通报，一名青年男子因购买手机的问题与父母发生争执，然后前往当地的 Khavdya Dongar 山，并站在悬崖边试图轻生，以此威胁父母。 家人、村民、警方和消防人员持续劝阻约 3 小时未果，最终男子还是坠崖，父亲在试图施救时一同坠下，母…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-5f3c2301e988",
+      "title": "I expected a bigger Pixel 11 battery, but Google is betting on a chip that historically runs hot",
+      "source": "Android Police",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-22",
+      "time": "15:30",
+      "publishedAt": "2026-08-22T15:30:10.000Z",
+      "url": "https://www.androidpolice.com/i-expected-bigger-pixel-11-battery-google-betting-chip-runs-hot/",
+      "image": "",
+      "summary": "Google is asking a lot from the Tensor G6",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-3b196efe61e4",
+      "title": "I gave up my Pixel 10 Pro for the Galaxy Z Fold 8; I already regret losing this feature",
+      "source": "Android Police",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-22",
+      "time": "15:15",
+      "publishedAt": "2026-08-22T15:15:10.000Z",
+      "url": "https://www.androidpolice.com/i-stopped-using-the-pixel-10-pro-this-week-and-i-miss-this-feature/",
+      "image": "",
+      "summary": "The Galaxy Z Fold 8 has a lot going for it, but it lacks in one key area",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-13d048321637",
+      "title": "I tested the Pixel 11 Pro and Galaxy S26 Ultra's cameras at a car meet. I could barely split them",
+      "source": "Android Police",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-22",
+      "time": "15:00",
+      "publishedAt": "2026-08-22T15:00:10.000Z",
+      "url": "https://www.androidpolice.com/google-pixel-11-pro-vs-samsung-galaxy-s26-ultra-camera-comparison/",
+      "image": "",
+      "summary": "Can the Galaxy S26 Ultra hold off Google's latest when put to the test?",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-c0b2ce07c319",
       "title": "Please don’t buy Google’s wildly overpriced Pixel 11 Clear Case",
@@ -182,26 +262,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-06d979e7338a",
-      "title": "三星 Galaxy S26 FE 手机开箱视频曝光，8 月 27 日发布",
-      "source": "IT之家",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-22",
-      "time": "07:34",
-      "publishedAt": "2026-08-22T07:34:00.000Z",
-      "url": "https://www.ithome.com/0/993/017.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/8/9e282634-af1c-441a-b5a3-112463c7b8e9.jpg?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 8 月 22 日消息，网友 @ mundoelectronica.aa 昨日（8 月 21 日）在 Instagram 平台发布视频， 分享了 三星 Galaxy S26 FE 手机的开箱视频，该手机此前已官宣 8 月 27 日发布。 颜色方面，该手机预估会推出 Blueberry（蓝莓色）、Graphite（石墨色）和 Pistachio（开心…",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-e9a318847c75",
       "title": "REDMI K100 Pro series sales figures: K100 Pro Max reaches 135% of the K90 Pro Max’s sales",
       "source": "Gizmochina",
@@ -342,26 +402,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-02824f5e5b03",
-      "title": "vivo X500 Pro Max 疑似现身：周杰伦或代言",
-      "source": "酷安热榜",
-      "brand": "vivo",
-      "model": "vivo 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-08-22",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73354642",
-      "image": "",
-      "summary": "vivo X500 Pro Max 疑似现身：周杰伦或代言",
-      "tags": [
-        "vivo",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
       "id": "newsnow-07db383add0a",
       "title": "[嘿哈]酷友们，给女朋友高考完的弟弟送手机，选nova15U还是荣耀winrt好呀。或者有没有同价位其他选择推荐，不限牌子[微笑]。",
       "source": "酷安热榜",
@@ -377,6 +417,26 @@ window.phoneRadarAuto = {
       "summary": "[嘿哈]酷友们，给女朋友高考完的弟弟送手机，选nova15U还是荣耀winrt好呀。或者有没有同价位其他选择推荐，不限牌子[微笑]。",
       "tags": [
         "HONOR",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-02824f5e5b03",
+      "title": "vivo X500 Pro Max 疑似现身：周杰伦或代言",
+      "source": "酷安热榜",
+      "brand": "vivo",
+      "model": "vivo 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-08-22",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/73354642",
+      "image": "",
+      "summary": "vivo X500 Pro Max 疑似现身：周杰伦或代言",
+      "tags": [
+        "vivo",
         "爆料",
         "NewsNow"
       ]
@@ -442,7 +502,27 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-33cf3b46ff2d",
+      "id": "newsnow-68094155e2ff",
+      "title": "王源一句话让几万人低头看手机",
+      "source": "微博热搜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "待验证",
+      "date": "2026-08-22",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%BA%90%E4%B8%80%E5%8F%A5%E8%AF%9D%E8%AE%A9%E5%87%A0%E4%B8%87%E4%BA%BA%E4%BD%8E%E5%A4%B4%E7%9C%8B%E6%89%8B%E6%9C%BA%23&t=31&band_rank=4&Refer=top",
+      "image": "",
+      "summary": "王源一句话让几万人低头看手机",
+      "tags": [
+        "行业",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-a7afd1dae670",
       "title": "iPhone18ProMax手机壳曝光",
       "source": "微博热搜",
       "brand": "iPhone",
@@ -452,11 +532,31 @@ window.phoneRadarAuto = {
       "date": "2026-08-22",
       "time": "",
       "publishedAt": "",
-      "url": "https://s.weibo.com/weibo?q=%23iPhone18ProMax%E6%89%8B%E6%9C%BA%E5%A3%B3%E6%9B%9D%E5%85%89%23&t=31&band_rank=7&Refer=top",
+      "url": "https://s.weibo.com/weibo?q=%23iPhone18ProMax%E6%89%8B%E6%9C%BA%E5%A3%B3%E6%9B%9D%E5%85%89%23&t=31&band_rank=21&Refer=top",
       "image": "",
       "summary": "iPhone18ProMax手机壳曝光",
       "tags": [
         "iPhone",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-ec507ae010f7",
+      "title": "手机出现这行字存款正被转走",
+      "source": "微博热搜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "待验证",
+      "date": "2026-08-22",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://s.weibo.com/weibo?q=%23%E6%89%8B%E6%9C%BA%E5%87%BA%E7%8E%B0%E8%BF%99%E8%A1%8C%E5%AD%97%E5%AD%98%E6%AC%BE%E6%AD%A3%E8%A2%AB%E8%BD%AC%E8%B5%B0%23&t=31&band_rank=30&Refer=top",
+      "image": "",
+      "summary": "手机出现这行字存款正被转走",
+      "tags": [
+        "行业",
         "爆料",
         "NewsNow"
       ]
