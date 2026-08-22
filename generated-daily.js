@@ -1,11 +1,11 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-08-22T03:06:23.498Z",
+  "updatedAt": "2026-08-22T04:48:14.811Z",
   "issueDate": "2026-08-22",
   "issue": "VOL.260822",
   "title": "手机情报日报",
-  "intro": "今日筛出 20 条重点，其中 8 条是重点爆料，包含 7 条 iPhone 相关、2 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 19 条重点，其中 8 条是重点爆料，包含 7 条 iPhone 相关、2 条官方确认、0 条参数线索。",
   "stats": {
-    "total": 20,
+    "total": 19,
     "iphone": 7,
     "leaks": 8,
     "official": 2,
@@ -88,31 +88,6 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
-          "id": "auto-72b8113ac389",
-          "title": "荣耀 Turbo 5G 手机海外发布，骁龙 6 Gen 4 芯片",
-          "originalTitle": "",
-          "source": "IT之家",
-          "brand": "HONOR",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-08-21",
-          "time": "13:44",
-          "publishedAt": "2026-08-21T13:44:39.000Z",
-          "url": "https://www.ithome.com/0/992/867.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/8/55a5d97c-c853-45dd-93c1-68157587dbff.jpg",
-          "verdict": "先看",
-          "takeaway": "IT之家 8 月 21 日消息，荣耀现已在欧亚地区推出 Turbo 5G 手机，新机定位中端， 搭载骁龙 6 Gen 4 芯片 。 据介绍， 这款手机配备一块 6.79 英寸的 AMOLED 屏幕 ，分辨率为 Full HD+，支持 120Hz 高刷。采用后置双摄影像方案，涵盖一颗 5000 万像素主摄和一颗 500 万像素超广角镜头。 规格方面，这款手机…",
-          "detail": "IT之家 8 月 21 日消息，荣耀现已在欧亚地区推出 Turbo 5G 手机，新机定位中端， 搭载骁龙 6 Gen 4 芯片 。 据介绍， 这款手机配备一块 6.79 英寸的 AMOLED 屏幕 ，分辨率为 Full HD+，支持 120Hz 高刷。采用后置双摄影像方案，涵盖一颗 5000 万像素主摄和一颗 500 万像素超广角镜头。 规格方面，这款手机…",
-          "keyPoints": [
-            "影像硬件",
-            "屏幕形态",
-            "芯片 / 性能"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
           "id": "newsnow-73fe7f39e525",
           "title": "华为首款阔直屏 #华为PuraXView# 就要发布了，大家觉得起售价会是多少呢？",
           "originalTitle": "",
@@ -178,6 +153,29 @@ window.phoneRadarDaily = {
           "detail": "澎湃4功耗发热流畅度确实站起来了，尤其手机发热后的流畅度和澎湃3相比有质变",
           "keyPoints": [
             "爆料"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "newsnow-089159d4e7bc",
+          "title": "别犟，70 Air和X View都不是Mate/Pura正统团队做的。和配置无关，别的团队也有能力规划旗舰的配置，只是能不能量产上市的问题。",
+          "originalTitle": "",
+          "source": "酷安热榜",
+          "brand": "行业",
+          "type": "爆料",
+          "trust": "高关注爆料源",
+          "date": "2026-08-22",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://www.coolapk.com/feed/73368491",
+          "image": "",
+          "verdict": "先看",
+          "takeaway": "别犟，70 Air和X View都不是Mate/Pura正统团队做的。和配置无关，别的团队也有能力规划旗舰的配置，只是能不能量产上市的问题。",
+          "detail": "别犟，70 Air和X View都不是Mate/Pura正统团队做的。和配置无关，别的团队也有能力规划旗舰的配置，只是能不能量产上市的问题。",
+          "keyPoints": [
+            "爆料来源"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
@@ -339,63 +337,10 @@ window.phoneRadarDaily = {
       ]
     },
     {
-      "id": "review",
-      "title": "评测与体验",
-      "hint": "买前再细看，平时扫一眼即可。",
-      "items": [
-        {
-          "id": "auto-2355f1b936e1",
-          "title": "微信灰度测试“按住转文字”新功能引热议：苹果 iOS 及安卓用户率先体验，鸿蒙用户仍需等待",
-          "originalTitle": "",
-          "source": "IT之家",
-          "brand": "Huawei",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-08-21",
-          "time": "14:44",
-          "publishedAt": "2026-08-21T14:44:13.000Z",
-          "url": "https://www.ithome.com/0/992/874.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/8/214e9830-6b82-49ce-a03d-7bfde9adf52d.jpg",
-          "verdict": "先看",
-          "takeaway": "IT之家 8 月 21 日消息，微信 iOS 平台今日迎来了 8.0.76 正式版更新。根据用户反馈，微信 iOS 更新 8.0.76 版本后，全新“深色”图标已经上线。 除此之外，微信近期还灰度测试了一项名为“按住转文字”的聊天输入框新功能，但根据用户反馈，目前该功能的识别率不如录入语音后转文字。 如图所示，该功能将原本独立的麦克风按钮整合进输入框，用户…",
-          "detail": "IT之家 8 月 21 日消息，微信 iOS 平台今日迎来了 8.0.76 正式版更新。根据用户反馈，微信 iOS 更新 8.0.76 版本后，全新“深色”图标已经上线。 除此之外，微信近期还灰度测试了一项名为“按住转文字”的聊天输入框新功能，但根据用户反馈，目前该功能的识别率不如录入语音后转文字。 如图所示，该功能将原本独立的麦克风按钮整合进输入框，用户…",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "中文源可以直接点开快读；看完只保留和购机有关的点。"
-        }
-      ]
-    },
-    {
       "id": "market",
       "title": "行业趋势",
       "hint": "看方向，不急着当购买依据。",
       "items": [
-        {
-          "id": "newsnow-ec0be0c935de",
-          "title": "小米将二手手机列入非保修范围",
-          "originalTitle": "",
-          "source": "酷安热榜",
-          "brand": "Xiaomi",
-          "type": "爆料",
-          "trust": "高关注爆料源",
-          "date": "2026-08-22",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://www.coolapk.com/feed/73365737",
-          "image": "",
-          "verdict": "先看",
-          "takeaway": "小米将二手手机列入非保修范围",
-          "detail": "小米将二手手机列入非保修范围",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
         {
           "id": "newsnow-2318774587ec",
           "title": "如果说有手机能超越苹果，华为是不是最有机会的那一个[受虐滑稽]#数码日常# #华为Mate80ProMax# #鸿蒙6#",
@@ -509,6 +454,29 @@ window.phoneRadarDaily = {
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        },
+        {
+          "id": "auto-481e7edbcee9",
+          "title": "Pixel 11 Pro 对比 iPhone 17 Pro：差异整理",
+          "originalTitle": "",
+          "source": "9to5Google",
+          "brand": "Pixel",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-08-21",
+          "time": "16:00",
+          "publishedAt": "2026-08-21T16:00:00.000Z",
+          "url": "https://9to5google.com/2026/08/21/pixel-11-pro-vs-iphone-17-pro-can-a-re-run-contend-with-a-re-do-video/",
+          "image": "",
+          "verdict": "可略过",
+          "takeaway": "Pixel 11 Pro 对比 iPhone 17 Pro：重点看定位、配置差异和价格差，判断是否值得等更高端型号。",
+          "detail": "Pixel 11 Pro 对比 iPhone 17 Pro 的差异整理。重点看两款机型的定位、影像规格、屏幕尺寸、价格区间和发布时间是否拉开差距。",
+          "keyPoints": [
+            "影像硬件"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "影响拍照体验，买旗舰机时值得关注。",
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         }
       ]

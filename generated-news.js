@@ -1,6 +1,26 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-08-22T03:06:23.498Z",
+  "updatedAt": "2026-08-22T04:48:14.811Z",
   "news": [
+    {
+      "id": "coolapk-user-33b7b0dc7e58",
+      "title": "竹本青：#酷态科# 不懂就问，为什么在拼多多买酷态科，无论是啥 都送两个七号电池",
+      "source": "竹本青",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-08-22",
+      "time": "04:25",
+      "publishedAt": "2026-08-22T04:25:54.000Z",
+      "url": "https://www.coolapk.com/feed/73370489",
+      "image": "",
+      "summary": "#酷态科# 不懂就问，为什么在拼多多买酷态科，无论是啥 都送两个七号电池",
+      "tags": [
+        "行业",
+        "爆料",
+        "酷安博主"
+      ]
+    },
     {
       "id": "coolapk-user-08b13928880a",
       "title": "竹本青：【消息称华为Pura X Max销量已超71万台】 华为 Pura X Max ● 截至 W32 —— 约34.4…",
@@ -82,26 +102,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-ec0be0c935de",
-      "title": "小米将二手手机列入非保修范围",
-      "source": "酷安热榜",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-08-22",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73365737",
-      "image": "",
-      "summary": "小米将二手手机列入非保修范围",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
       "id": "newsnow-73fe7f39e525",
       "title": "华为首款阔直屏 #华为PuraXView# 就要发布了，大家觉得起售价会是多少呢？",
       "source": "酷安热榜",
@@ -162,6 +162,26 @@ window.phoneRadarAuto = {
       ]
     },
     {
+      "id": "newsnow-f5aac795908c",
+      "title": "开玩笑的吗？这只是一台先端上来的前菜阔直板，芯片和影像都不算华为顶级水平，这要能卖一万，后面的mate90系列怎么定价呀，疯了吧？ #华为Mate80ProMax# #鸿蒙6# #鸿蒙7#",
+      "source": "酷安热榜",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-08-22",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/73364759",
+      "image": "",
+      "summary": "开玩笑的吗？这只是一台先端上来的前菜阔直板，芯片和影像都不算华为顶级水平，这要能卖一万，后面的mate90系列怎么定价呀，疯了吧？ #华为Mate80ProMax# #鸿蒙6# #鸿蒙7#",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
       "id": "newsnow-fad693e07678",
       "title": "坐高铁碰见一个年轻宝妈还在用十年前的手机[列文虎克]#数码日常#",
       "source": "酷安热榜",
@@ -202,27 +222,27 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-f5aac795908c",
-      "title": "开玩笑的吗？这只是一台先端上来的前菜阔直板，芯片和影像都不算华为顶级水平，这要能卖一万，后面的mate90系列怎么定价呀，疯了吧？ #华为Mate80ProMax# #鸿蒙6# #鸿蒙7#",
+      "id": "newsnow-089159d4e7bc",
+      "title": "别犟，70 Air和X View都不是Mate/Pura正统团队做的。和配置无关，别的团队也有能力规划旗舰的配置，只是能不能量产上市的问题。",
       "source": "酷安热榜",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
+      "brand": "行业",
+      "model": "智能手机市场",
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-08-22",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73364759",
+      "url": "https://www.coolapk.com/feed/73368491",
       "image": "",
-      "summary": "开玩笑的吗？这只是一台先端上来的前菜阔直板，芯片和影像都不算华为顶级水平，这要能卖一万，后面的mate90系列怎么定价呀，疯了吧？ #华为Mate80ProMax# #鸿蒙6# #鸿蒙7#",
+      "summary": "别犟，70 Air和X View都不是Mate/Pura正统团队做的。和配置无关，别的团队也有能力规划旗舰的配置，只是能不能量产上市的问题。",
       "tags": [
-        "Huawei",
+        "行业",
         "爆料",
         "NewsNow"
       ]
     },
     {
-      "id": "newsnow-8e66ae4879c5",
+      "id": "newsnow-18173eee263d",
       "title": "曾辉手机壳是跟韩雨彤的合照",
       "source": "微博热搜",
       "brand": "行业",
@@ -232,7 +252,7 @@ window.phoneRadarAuto = {
       "date": "2026-08-22",
       "time": "",
       "publishedAt": "",
-      "url": "https://s.weibo.com/weibo?q=%23%E6%9B%BE%E8%BE%89%E6%89%8B%E6%9C%BA%E5%A3%B3%E6%98%AF%E8%B7%9F%E9%9F%A9%E9%9B%A8%E5%BD%A4%E7%9A%84%E5%90%88%E7%85%A7%23&t=31&band_rank=16&Refer=top",
+      "url": "https://s.weibo.com/weibo?q=%23%E6%9B%BE%E8%BE%89%E6%89%8B%E6%9C%BA%E5%A3%B3%E6%98%AF%E8%B7%9F%E9%9F%A9%E9%9B%A8%E5%BD%A4%E7%9A%84%E5%90%88%E7%85%A7%23&t=31&band_rank=15&Refer=top",
       "image": "",
       "summary": "曾辉手机壳是跟韩雨彤的合照",
       "tags": [
@@ -242,8 +262,28 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-a9eeef69ae2a",
-      "title": "两男子骑电动自行车抢手机被抓",
+      "id": "newsnow-c90d3b9790b6",
+      "title": "印度少年为要手机致一家三口坠崖",
+      "source": "微博热搜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "待验证",
+      "date": "2026-08-22",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://s.weibo.com/weibo?q=%23%E5%8D%B0%E5%BA%A6%E5%B0%91%E5%B9%B4%E4%B8%BA%E8%A6%81%E6%89%8B%E6%9C%BA%E8%87%B4%E4%B8%80%E5%AE%B6%E4%B8%89%E5%8F%A3%E5%9D%A0%E5%B4%96%23&t=31&band_rank=23&Refer=top",
+      "image": "",
+      "summary": "印度少年为要手机致一家三口坠崖",
+      "tags": [
+        "行业",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-d058ebb782b7",
+      "title": "因为一部手机印度一家三口坠崖死亡",
       "source": "今日头条热榜",
       "brand": "行业",
       "model": "智能手机市场",
@@ -252,9 +292,9 @@ window.phoneRadarAuto = {
       "date": "2026-08-22",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.toutiao.com/trending/7676492332670484489/",
+      "url": "https://www.toutiao.com/trending/7676511515221966874/",
       "image": "",
-      "summary": "两男子骑电动自行车抢手机被抓",
+      "summary": "因为一部手机印度一家三口坠崖死亡",
       "tags": [
         "行业",
         "爆料",
@@ -275,6 +315,26 @@ window.phoneRadarAuto = {
       "url": "https://www.baidu.com/s?wd=%E6%89%8B%E6%9C%BA%E5%87%BA%E7%8E%B0%E8%BF%99%E8%A1%8C%E5%AD%97+%E5%AD%98%E6%AC%BE%E6%AD%A3%E8%A2%AB%E8%BD%AC%E8%B5%B0",
       "image": "",
       "summary": "手机出现这行字 存款正被转走",
+      "tags": [
+        "行业",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-94158f47de0d",
+      "title": "因为一部手机 印度一家三口坠崖身亡",
+      "source": "百度热搜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-22",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.baidu.com/s?wd=%E5%9B%A0%E4%B8%BA%E4%B8%80%E9%83%A8%E6%89%8B%E6%9C%BA+%E5%8D%B0%E5%BA%A6%E4%B8%80%E5%AE%B6%E4%B8%89%E5%8F%A3%E5%9D%A0%E5%B4%96%E8%BA%AB%E4%BA%A1",
+      "image": "",
+      "summary": "因为一部手机 印度一家三口坠崖身亡",
       "tags": [
         "行业",
         "爆料",
@@ -522,26 +582,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-2355f1b936e1",
-      "title": "微信灰度测试“按住转文字”新功能引热议：苹果 iOS 及安卓用户率先体验，鸿蒙用户仍需等待",
-      "source": "IT之家",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-21",
-      "time": "14:44",
-      "publishedAt": "2026-08-21T14:44:13.000Z",
-      "url": "https://www.ithome.com/0/992/874.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/8/214e9830-6b82-49ce-a03d-7bfde9adf52d.jpg",
-      "summary": "IT之家 8 月 21 日消息，微信 iOS 平台今日迎来了 8.0.76 正式版更新。根据用户反馈，微信 iOS 更新 8.0.76 版本后，全新“深色”图标已经上线。 除此之外，微信近期还灰度测试了一项名为“按住转文字”的聊天输入框新功能，但根据用户反馈，目前该功能的识别率不如录入语音后转文字。 如图所示，该功能将原本独立的麦克风按钮整合进输入框，用户…",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-86b81316720b",
       "title": "Name of the Galaxy S27 Ultra’s Snapdragon chip has leaked",
       "source": "SamMobile",
@@ -577,26 +617,6 @@ window.phoneRadarAuto = {
       "summary": "This week, all of Google’s Pixel 11 phones launched, including the $899 Pixel 11, the $1,099 Pixel 11 Pro (with the same processor and starting 12GB RAM as the standard model, but…",
       "tags": [
         "Pixel",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-72b8113ac389",
-      "title": "荣耀 Turbo 5G 手机海外发布，骁龙 6 Gen 4 芯片",
-      "source": "IT之家",
-      "brand": "HONOR",
-      "model": "HONOR 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-21",
-      "time": "13:44",
-      "publishedAt": "2026-08-21T13:44:39.000Z",
-      "url": "https://www.ithome.com/0/992/867.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/8/55a5d97c-c853-45dd-93c1-68157587dbff.jpg",
-      "summary": "IT之家 8 月 21 日消息，荣耀现已在欧亚地区推出 Turbo 5G 手机，新机定位中端， 搭载骁龙 6 Gen 4 芯片 。 据介绍， 这款手机配备一块 6.79 英寸的 AMOLED 屏幕 ，分辨率为 Full HD+，支持 120Hz 高刷。采用后置双摄影像方案，涵盖一颗 5000 万像素主摄和一颗 500 万像素超广角镜头。 规格方面，这款手机…",
-      "tags": [
-        "HONOR",
         "爆料",
         "自动抓取"
       ]
@@ -877,26 +897,6 @@ window.phoneRadarAuto = {
       "summary": "Fresh from the factory for your new Pixel 11.",
       "tags": [
         "Pixel",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-68c419e944d8",
-      "title": "Huawei Pura X View Price: Here is how much it can cost",
-      "source": "Huawei Central",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-21",
-      "time": "03:02",
-      "publishedAt": "2026-08-21T03:02:53.000Z",
-      "url": "https://www.huaweicentral.com/huawei-pura-x-view-price-here-is-how-much-it-can-cost/",
-      "image": "https://www.huaweicentral.com/wp-content/uploads/2026/08/Pura-X-View-Features.jpg",
-      "summary": "Huawei Pura X View appeared unexpectedly at the HarmonyOS-backed Enjoy G9 launch event, and while the company has already showcased its specs and features, it hasn’t disclosed the…",
-      "tags": [
-        "Huawei",
         "爆料",
         "自动抓取"
       ]
