@@ -1,12 +1,12 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-08-22T18:47:53.120Z",
+  "updatedAt": "2026-08-22T20:38:20.458Z",
   "issueDate": "2026-08-22",
   "issue": "VOL.260822",
   "title": "手机情报日报",
-  "intro": "今日筛出 17 条重点，其中 8 条是重点爆料，包含 6 条 iPhone 相关、2 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 18 条重点，其中 8 条是重点爆料，包含 9 条 iPhone 相关、2 条官方确认、0 条参数线索。",
   "stats": {
-    "total": 17,
-    "iphone": 6,
+    "total": 18,
+    "iphone": 9,
     "leaks": 8,
     "official": 2,
     "specs": 0
@@ -136,30 +136,6 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
-          "id": "newsnow-f5aac795908c",
-          "title": "开玩笑的吗？这只是一台先端上来的前菜阔直板，芯片和影像都不算华为顶级水平，这要能卖一万，后面的mate90系列怎么定价呀，疯了吧？ #华为Mate80ProMax# #鸿蒙6# #鸿蒙7#",
-          "originalTitle": "",
-          "source": "酷安热榜",
-          "brand": "Huawei",
-          "type": "爆料",
-          "trust": "高关注爆料源",
-          "date": "2026-08-22",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://www.coolapk.com/feed/73364759",
-          "image": "",
-          "verdict": "先看",
-          "takeaway": "开玩笑的吗？这只是一台先端上来的前菜阔直板，芯片和影像都不算华为顶级水平，这要能卖一万，后面的mate90系列怎么定价呀，疯了吧？ #华为Mate80ProMax# #鸿蒙6# #鸿蒙7#",
-          "detail": "开玩笑的吗？这只是一台先端上来的前菜阔直板，芯片和影像都不算华为顶级水平，这要能卖一万，后面的mate90系列怎么定价呀，疯了吧？ #华为Mate80ProMax# #鸿蒙6# #鸿蒙7#",
-          "keyPoints": [
-            "影像硬件",
-            "芯片 / 性能"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
           "id": "coolapk-user-f9a7771d69b5",
           "title": "竹本青：【荣耀Play11 Pro 现已开售：天玑6500 Elite处理器，7000mAh电池，首发1899元起】 8+…",
           "originalTitle": "",
@@ -203,6 +179,29 @@ window.phoneRadarDaily = {
           "keyPoints": [
             "影像硬件",
             "屏幕形态",
+            "爆料来源"
+          ],
+          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "coolapk-user-3180f0bf44e1",
+          "title": "JSCHEN小小狐：『消息称 OPPO 小屏机项目暂停：让位阔直板』 知名数码博主 数码闲聊站 今日爆料称，随着旗下阔屏直板机的定版测…",
+          "originalTitle": "",
+          "source": "JSCHEN小小狐",
+          "brand": "OPPO",
+          "type": "爆料",
+          "trust": "高可信爆料",
+          "date": "2026-08-22",
+          "time": "08:46",
+          "publishedAt": "2026-08-22T08:46:17.000Z",
+          "url": "https://www.coolapk.com/feed/73374162",
+          "image": "http://image.coolapk.com/feed/2026/0822/16/4702274_7de49761_8376_5855_868@1440x505.jpg",
+          "verdict": "先看",
+          "takeaway": "『消息称 OPPO 小屏机项目暂停：让位阔直板』 知名数码博主 数码闲聊站 今日爆料称，随着旗下阔屏直板机的定版测试，OPPO 目前已暂停传统比例小屏手机的项目进程。此前该项目曾推出包括 Find X8s、Find X9s Pro 在内的多款产品。 OPPO 阔屏直板机爆料如下： ◇ 6.3～6.4± 英寸极窄四等边 1.5K LTPO ◇ 评估 200M…",
+          "detail": "『消息称 OPPO 小屏机项目暂停：让位阔直板』 知名数码博主 数码闲聊站 今日爆料称，随着旗下阔屏直板机的定版测试，OPPO 目前已暂停传统比例小屏手机的项目进程。此前该项目曾推出包括 Find X8s、Find X9s Pro 在内的多款产品。 OPPO 阔屏直板机爆料如下： ◇ 6.3～6.4± 英寸极窄四等边 1.5K LTPO ◇ 评估 200M…",
+          "keyPoints": [
             "爆料来源"
           ],
           "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
@@ -284,6 +283,75 @@ window.phoneRadarDaily = {
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        },
+        {
+          "id": "newsnow-895daa66b399",
+          "title": "把「闪念胶囊」（Almost）放到 iPhone 锁屏",
+          "originalTitle": "",
+          "source": "少数派热榜",
+          "brand": "iPhone",
+          "type": "评测",
+          "trust": "媒体汇总",
+          "date": "2026-08-22",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://sspai.com/post/113219",
+          "image": "",
+          "verdict": "扫一眼",
+          "takeaway": "把「闪念胶囊」（Almost）放到 iPhone 锁屏",
+          "detail": "把「闪念胶囊」（Almost）放到 iPhone 锁屏",
+          "keyPoints": [
+            "评测"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是实际体验内容，买前适合重点看缺点和取舍。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        },
+        {
+          "id": "newsnow-47407c89d579",
+          "title": "我，与「唯一」的 iPhone Air",
+          "originalTitle": "",
+          "source": "少数派热榜",
+          "brand": "iPhone",
+          "type": "评测",
+          "trust": "媒体汇总",
+          "date": "2026-08-22",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://sspai.com/post/112880",
+          "image": "",
+          "verdict": "扫一眼",
+          "takeaway": "我，与「唯一」的 iPhone Air",
+          "detail": "我，与「唯一」的 iPhone Air",
+          "keyPoints": [
+            "评测"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是实际体验内容，买前适合重点看缺点和取舍。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        },
+        {
+          "id": "auto-76151addcc7f",
+          "title": "iPhone 18 Pro 发布 / 上市相关消息",
+          "originalTitle": "",
+          "source": "9to5Mac",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-08-21",
+          "time": "17:47",
+          "publishedAt": "2026-08-21T17:47:34.000Z",
+          "url": "https://9to5mac.com/2026/08/21/iphone-18-release-date-when-apples-new-model-is-coming/",
+          "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/iphone-18-pro-mockup-fi-new-color.jpg?quality=82&strip=all&w=1600",
+          "verdict": "扫一眼",
+          "takeaway": "iPhone 有发布或新功能消息，适合确认是否和新机有关。",
+          "detail": "iPhone 18 Pro 发布 / 上市相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         }
       ]
     },
@@ -346,8 +414,8 @@ window.phoneRadarDaily = {
       "hint": "看方向，不急着当购买依据。",
       "items": [
         {
-          "id": "newsnow-2318774587ec",
-          "title": "如果说有手机能超越苹果，华为是不是最有机会的那一个[受虐滑稽]#数码日常# #华为Mate80ProMax# #鸿蒙6#",
+          "id": "newsnow-597e199d9416",
+          "title": "#HyperOS4# #数码日常# #HyperOS# 真恶心啊，二手拒保，但凡正经点的手机厂华为oppovivo苹果三星会这样吗？SN码是赤石的？",
           "originalTitle": "",
           "source": "酷安热榜",
           "brand": "Huawei",
@@ -356,11 +424,11 @@ window.phoneRadarDaily = {
           "date": "2026-08-22",
           "time": "",
           "publishedAt": "",
-          "url": "https://www.coolapk.com/feed/73358801",
+          "url": "https://www.coolapk.com/feed/73365659",
           "image": "",
           "verdict": "先看",
-          "takeaway": "如果说有手机能超越苹果，华为是不是最有机会的那一个[受虐滑稽]#数码日常# #华为Mate80ProMax# #鸿蒙6#",
-          "detail": "如果说有手机能超越苹果，华为是不是最有机会的那一个[受虐滑稽]#数码日常# #华为Mate80ProMax# #鸿蒙6#",
+          "takeaway": "#HyperOS4# #数码日常# #HyperOS# 真恶心啊，二手拒保，但凡正经点的手机厂华为oppovivo苹果三星会这样吗？SN码是赤石的？",
+          "detail": "#HyperOS4# #数码日常# #HyperOS# 真恶心啊，二手拒保，但凡正经点的手机厂华为oppovivo苹果三星会这样吗？SN码是赤石的？",
           "keyPoints": [
             "爆料"
           ],
@@ -384,52 +452,6 @@ window.phoneRadarDaily = {
           "verdict": "先看",
           "takeaway": "[嘿哈]酷友们，给女朋友高考完的弟弟送手机，选nova15U还是荣耀winrt好呀。或者有没有同价位其他选择推荐，不限牌子[微笑]。",
           "detail": "[嘿哈]酷友们，给女朋友高考完的弟弟送手机，选nova15U还是荣耀winrt好呀。或者有没有同价位其他选择推荐，不限牌子[微笑]。",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
-        {
-          "id": "newsnow-02824f5e5b03",
-          "title": "vivo X500 Pro Max 疑似现身：周杰伦或代言",
-          "originalTitle": "",
-          "source": "酷安热榜",
-          "brand": "vivo",
-          "type": "爆料",
-          "trust": "高关注爆料源",
-          "date": "2026-08-22",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://www.coolapk.com/feed/73354642",
-          "image": "",
-          "verdict": "扫一眼",
-          "takeaway": "vivo X500 Pro Max 疑似现身：周杰伦或代言",
-          "detail": "vivo X500 Pro Max 疑似现身：周杰伦或代言",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
-        {
-          "id": "newsnow-fad693e07678",
-          "title": "坐高铁碰见一个年轻宝妈还在用十年前的手机[列文虎克]#数码日常#",
-          "originalTitle": "",
-          "source": "酷安热榜",
-          "brand": "行业",
-          "type": "爆料",
-          "trust": "高关注爆料源",
-          "date": "2026-08-22",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://www.coolapk.com/feed/73339643",
-          "image": "",
-          "verdict": "扫一眼",
-          "takeaway": "坐高铁碰见一个年轻宝妈还在用十年前的手机[列文虎克]#数码日常#",
-          "detail": "坐高铁碰见一个年轻宝妈还在用十年前的手机[列文虎克]#数码日常#",
           "keyPoints": [
             "爆料"
           ],

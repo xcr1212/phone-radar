@@ -1,5 +1,5 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-08-22T18:47:53.120Z",
+  "updatedAt": "2026-08-22T20:38:20.458Z",
   "news": [
     {
       "id": "auto-01459d6f20ca",
@@ -382,6 +382,26 @@ window.phoneRadarAuto = {
       ]
     },
     {
+      "id": "newsnow-597e199d9416",
+      "title": "#HyperOS4# #数码日常# #HyperOS# 真恶心啊，二手拒保，但凡正经点的手机厂华为oppovivo苹果三星会这样吗？SN码是赤石的？",
+      "source": "酷安热榜",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-08-22",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/73365659",
+      "image": "",
+      "summary": "#HyperOS4# #数码日常# #HyperOS# 真恶心啊，二手拒保，但凡正经点的手机厂华为oppovivo苹果三星会这样吗？SN码是赤石的？",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
       "id": "newsnow-73fe7f39e525",
       "title": "华为首款阔直屏 #华为PuraXView# 就要发布了，大家觉得起售价会是多少呢？",
       "source": "酷安热榜",
@@ -395,26 +415,6 @@ window.phoneRadarAuto = {
       "url": "https://www.coolapk.com/feed/73361789",
       "image": "",
       "summary": "华为首款阔直屏 #华为PuraXView# 就要发布了，大家觉得起售价会是多少呢？",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-2318774587ec",
-      "title": "如果说有手机能超越苹果，华为是不是最有机会的那一个[受虐滑稽]#数码日常# #华为Mate80ProMax# #鸿蒙6#",
-      "source": "酷安热榜",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-08-22",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73358801",
-      "image": "",
-      "summary": "如果说有手机能超越苹果，华为是不是最有机会的那一个[受虐滑稽]#数码日常# #华为Mate80ProMax# #鸿蒙6#",
       "tags": [
         "Huawei",
         "爆料",
@@ -442,86 +442,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-02824f5e5b03",
-      "title": "vivo X500 Pro Max 疑似现身：周杰伦或代言",
-      "source": "酷安热榜",
-      "brand": "vivo",
-      "model": "vivo 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-08-22",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73354642",
-      "image": "",
-      "summary": "vivo X500 Pro Max 疑似现身：周杰伦或代言",
-      "tags": [
-        "vivo",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-089159d4e7bc",
-      "title": "别犟，70 Air和X View都不是Mate/Pura正统团队做的。和配置无关，别的团队也有能力规划旗舰的配置，只是能不能量产上市的问题。",
-      "source": "酷安热榜",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-08-22",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73368491",
-      "image": "",
-      "summary": "别犟，70 Air和X View都不是Mate/Pura正统团队做的。和配置无关，别的团队也有能力规划旗舰的配置，只是能不能量产上市的问题。",
-      "tags": [
-        "行业",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-fad693e07678",
-      "title": "坐高铁碰见一个年轻宝妈还在用十年前的手机[列文虎克]#数码日常#",
-      "source": "酷安热榜",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-08-22",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73339643",
-      "image": "",
-      "summary": "坐高铁碰见一个年轻宝妈还在用十年前的手机[列文虎克]#数码日常#",
-      "tags": [
-        "行业",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-f5aac795908c",
-      "title": "开玩笑的吗？这只是一台先端上来的前菜阔直板，芯片和影像都不算华为顶级水平，这要能卖一万，后面的mate90系列怎么定价呀，疯了吧？ #华为Mate80ProMax# #鸿蒙6# #鸿蒙7#",
-      "source": "酷安热榜",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-08-22",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73364759",
-      "image": "",
-      "summary": "开玩笑的吗？这只是一台先端上来的前菜阔直板，芯片和影像都不算华为顶级水平，这要能卖一万，后面的mate90系列怎么定价呀，疯了吧？ #华为Mate80ProMax# #鸿蒙6# #鸿蒙7#",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
       "id": "newsnow-6caa60112631",
       "title": "王源一句话让几万人低头看手机",
       "source": "微博热搜",
@@ -542,27 +462,7 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-a7afd1dae670",
-      "title": "iPhone18ProMax手机壳曝光",
-      "source": "微博热搜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "待验证",
-      "date": "2026-08-22",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://s.weibo.com/weibo?q=%23iPhone18ProMax%E6%89%8B%E6%9C%BA%E5%A3%B3%E6%9B%9D%E5%85%89%23&t=31&band_rank=21&Refer=top",
-      "image": "",
-      "summary": "iPhone18ProMax手机壳曝光",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-e51f329da3ec",
+      "id": "newsnow-82afb526fe9c",
       "title": "手机出现这行字存款正被转走",
       "source": "微博热搜",
       "brand": "行业",
@@ -572,7 +472,7 @@ window.phoneRadarAuto = {
       "date": "2026-08-22",
       "time": "",
       "publishedAt": "",
-      "url": "https://s.weibo.com/weibo?q=%23%E6%89%8B%E6%9C%BA%E5%87%BA%E7%8E%B0%E8%BF%99%E8%A1%8C%E5%AD%97%E5%AD%98%E6%AC%BE%E6%AD%A3%E8%A2%AB%E8%BD%AC%E8%B5%B0%23&t=31&band_rank=28&Refer=top",
+      "url": "https://s.weibo.com/weibo?q=%23%E6%89%8B%E6%9C%BA%E5%87%BA%E7%8E%B0%E8%BF%99%E8%A1%8C%E5%AD%97%E5%AD%98%E6%AC%BE%E6%AD%A3%E8%A2%AB%E8%BD%AC%E8%B5%B0%23&t=31&band_rank=26&Refer=top",
       "image": "",
       "summary": "手机出现这行字存款正被转走",
       "tags": [
@@ -1039,6 +939,26 @@ window.phoneRadarAuto = {
         "Pixel",
         "爆料",
         "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-377c3c2b578d",
+      "title": "JSCHEN小小狐：vivo X500 Pro Max 疑似现身：周杰伦或代言",
+      "source": "JSCHEN小小狐",
+      "brand": "vivo",
+      "model": "vivo 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-08-21",
+      "time": "05:16",
+      "publishedAt": "2026-08-21T05:16:35.000Z",
+      "url": "https://www.coolapk.com/feed/73354642",
+      "image": "http://image.coolapk.com/feed/2026/0821/13/4702274_2fea7080_9392_732_130@1080x1440.jpg",
+      "summary": "『vivo X500 Pro Max 疑似现身：周杰伦或代言』 近日，有博主在小红书爆料称，周杰伦正在为 vivo 手机拍摄广告片，并放出了相关拍摄现场的路透图。当被问及周杰伦是否代言 vivo 时，该博主回应称“应该是，等官宣”。 由路透图分析，该机或对应 vivo X500 Pro Max，采用中置大圆三摄模组 + 左上角外置闪光灯设计，直角金属中框…",
+      "tags": [
+        "vivo",
+        "爆料",
+        "酷安博主"
       ]
     },
     {
