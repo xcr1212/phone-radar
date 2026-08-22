@@ -1,6 +1,66 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-08-22T06:58:21.031Z",
+  "updatedAt": "2026-08-22T08:47:00.029Z",
   "news": [
+    {
+      "id": "coolapk-user-3180f0bf44e1",
+      "title": "JSCHEN小小狐：『消息称 OPPO 小屏机项目暂停：让位阔直板』 知名数码博主 数码闲聊站 今日爆料称，随着旗下阔屏直板机的定版测…",
+      "source": "JSCHEN小小狐",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-08-22",
+      "time": "08:46",
+      "publishedAt": "2026-08-22T08:46:17.000Z",
+      "url": "https://www.coolapk.com/feed/73374162",
+      "image": "http://image.coolapk.com/feed/2026/0822/16/4702274_7de49761_8376_5855_868@1440x505.jpg",
+      "summary": "『消息称 OPPO 小屏机项目暂停：让位阔直板』 知名数码博主 数码闲聊站 今日爆料称，随着旗下阔屏直板机的定版测试，OPPO 目前已暂停传统比例小屏手机的项目进程。此前该项目曾推出包括 Find X8s、Find X9s Pro 在内的多款产品。 #今日热点# #OPPO阔直板手机曝光# #OPPOFindX9sPro#",
+      "tags": [
+        "OPPO",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-06d979e7338a",
+      "title": "三星 Galaxy S26 FE 手机开箱视频曝光，8 月 27 日发布",
+      "source": "IT之家",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-22",
+      "time": "07:34",
+      "publishedAt": "2026-08-22T07:34:00.000Z",
+      "url": "https://www.ithome.com/0/993/017.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/8/9e282634-af1c-441a-b5a3-112463c7b8e9.jpg?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 8 月 22 日消息，网友 @ mundoelectronica.aa 昨日（8 月 21 日）在 Instagram 平台发布视频， 分享了 三星 Galaxy S26 FE 手机的开箱视频，该手机此前已官宣 8 月 27 日发布。 颜色方面，该手机预估会推出 Blueberry（蓝莓色）、Graphite（石墨色）和 Pistachio（开心…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-0ba9055e13ec",
+      "title": "苹果 iPhone 18 Pro / Max 手机壳曝光：更窄边框、深灰 / 深樱桃红颜色",
+      "source": "IT之家",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-22",
+      "time": "07:13",
+      "publishedAt": "2026-08-22T07:13:56.000Z",
+      "url": "https://www.ithome.com/0/993/009.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/8/6536d140-176c-4041-8ff1-84ce71faaba2.png",
+      "summary": "IT之家 8 月 22 日消息，消息源 @saaaanjjjuuu 昨日（8 月 21 日）在 X 平台发布推文， 分享了一组适用于苹果 iPhone 18 Pro 和 iPhone 18 Pro Max 的手机壳渲染图。 消息源称基于最新曝光的手机壳渲染图，机身正面采用更窄的边框，其中 iPhone 18 Pro 似乎采用了深灰色，而 iPhone 18…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-f414948958c4",
       "title": "vivo V70 Lite 4G 手机规格曝光：展锐 T7300 处理器、配 8GB RAM",
@@ -242,26 +302,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-02824f5e5b03",
-      "title": "vivo X500 Pro Max 疑似现身：周杰伦或代言",
-      "source": "酷安热榜",
-      "brand": "vivo",
-      "model": "vivo 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-08-22",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73354642",
-      "image": "",
-      "summary": "vivo X500 Pro Max 疑似现身：周杰伦或代言",
-      "tags": [
-        "vivo",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
       "id": "newsnow-089159d4e7bc",
       "title": "别犟，70 Air和X View都不是Mate/Pura正统团队做的。和配置无关，别的团队也有能力规划旗舰的配置，只是能不能量产上市的问题。",
       "source": "酷安热榜",
@@ -277,6 +317,26 @@ window.phoneRadarAuto = {
       "summary": "别犟，70 Air和X View都不是Mate/Pura正统团队做的。和配置无关，别的团队也有能力规划旗舰的配置，只是能不能量产上市的问题。",
       "tags": [
         "行业",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-02824f5e5b03",
+      "title": "vivo X500 Pro Max 疑似现身：周杰伦或代言",
+      "source": "酷安热榜",
+      "brand": "vivo",
+      "model": "vivo 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-08-22",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/73354642",
+      "image": "",
+      "summary": "vivo X500 Pro Max 疑似现身：周杰伦或代言",
+      "tags": [
+        "vivo",
         "爆料",
         "NewsNow"
       ]
@@ -322,27 +382,27 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-6e374d55f473",
-      "title": "澎湃4功耗发热流畅度确实站起来了，尤其手机发热后的流畅度和澎湃3相比有质变",
+      "id": "newsnow-07db383add0a",
+      "title": "[嘿哈]酷友们，给女朋友高考完的弟弟送手机，选nova15U还是荣耀winrt好呀。或者有没有同价位其他选择推荐，不限牌子[微笑]。",
       "source": "酷安热榜",
-      "brand": "行业",
-      "model": "智能手机市场",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-08-22",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73348318",
+      "url": "https://www.coolapk.com/feed/73359640",
       "image": "",
-      "summary": "澎湃4功耗发热流畅度确实站起来了，尤其手机发热后的流畅度和澎湃3相比有质变",
+      "summary": "[嘿哈]酷友们，给女朋友高考完的弟弟送手机，选nova15U还是荣耀winrt好呀。或者有没有同价位其他选择推荐，不限牌子[微笑]。",
       "tags": [
-        "行业",
+        "HONOR",
         "爆料",
         "NewsNow"
       ]
     },
     {
-      "id": "newsnow-82a5eb75bc6e",
+      "id": "newsnow-92f0bc2572e8",
       "title": "父子因iPhone争执坠崖母亲也跳下",
       "source": "微博热搜",
       "brand": "iPhone",
@@ -352,7 +412,7 @@ window.phoneRadarAuto = {
       "date": "2026-08-22",
       "time": "",
       "publishedAt": "",
-      "url": "https://s.weibo.com/weibo?q=%23%E7%88%B6%E5%AD%90%E5%9B%A0iPhone%E4%BA%89%E6%89%A7%E5%9D%A0%E5%B4%96%E6%AF%8D%E4%BA%B2%E4%B9%9F%E8%B7%B3%E4%B8%8B%23&t=31&band_rank=21&Refer=top",
+      "url": "https://s.weibo.com/weibo?q=%23%E7%88%B6%E5%AD%90%E5%9B%A0iPhone%E4%BA%89%E6%89%A7%E5%9D%A0%E5%B4%96%E6%AF%8D%E4%BA%B2%E4%B9%9F%E8%B7%B3%E4%B8%8B%23&t=31&band_rank=22&Refer=top",
       "image": "",
       "summary": "父子因iPhone争执坠崖母亲也跳下",
       "tags": [
@@ -375,6 +435,26 @@ window.phoneRadarAuto = {
       "url": "https://www.toutiao.com/trending/7676511515221966874/",
       "image": "",
       "summary": "因为一部手机印度一家三口坠崖死亡",
+      "tags": [
+        "行业",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-a71da278dbd6",
+      "title": "手机出现这行字 存款正被转走",
+      "source": "百度热搜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-22",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.baidu.com/s?wd=%E6%89%8B%E6%9C%BA%E5%87%BA%E7%8E%B0%E8%BF%99%E8%A1%8C%E5%AD%97+%E5%AD%98%E6%AC%BE%E6%AD%A3%E8%A2%AB%E8%BD%AC%E8%B5%B0",
+      "image": "",
+      "summary": "手机出现这行字 存款正被转走",
       "tags": [
         "行业",
         "爆料",
@@ -862,26 +942,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-9126eeddd3a6",
-      "title": "Huawei to upgrade Mate 90 Fan Edition with surprising cooling tech",
-      "source": "Huawei Central",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-21",
-      "time": "08:44",
-      "publishedAt": "2026-08-21T08:44:55.000Z",
-      "url": "https://www.huaweicentral.com/huawei-to-upgrade-mate-90-fan-edition-with-surprising-cooling-tech/",
-      "image": "https://www.huaweicentral.com/wp-content/uploads/2026/03/huawei-mate-80-pro-max-wind-edition-img11.jpg",
-      "summary": "Huawei Mate 90 Series is coming very soon with plenty of cutting-edge tech capabilities, and its FAN EDITION is expected to inherit the same features with a new active cooling upg…",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "weibo-c55a7a7db138",
       "title": "数码闲聊站：独家，母系2nm新旗舰的极窄四等边＜1mm，配合大R角设计+新OS，纯直屏观感…",
       "source": "数码闲聊站",
@@ -899,26 +959,6 @@ window.phoneRadarAuto = {
         "行业",
         "爆料",
         "微博"
-      ]
-    },
-    {
-      "id": "auto-ef620f6842ad",
-      "title": "Huawei Pura X View vs iPhone 17 Pro Max: Top changes that matter",
-      "source": "Huawei Central",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-21",
-      "time": "07:06",
-      "publishedAt": "2026-08-21T07:06:48.000Z",
-      "url": "https://www.huaweicentral.com/huawei-pura-x-view-vs-iphone-17-pro-max-top-changes-that-matter/",
-      "image": "https://www.huaweicentral.com/wp-content/uploads/2026/08/slimness-comparison.jpg",
-      "summary": "Huawei Pura X View has created a new buzz in the smartphone market after its first appearance, and it is now being compared with the iPhone 17 Pro Max, centered on top specs and f…",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "自动抓取"
       ]
     },
     {

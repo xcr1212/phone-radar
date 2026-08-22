@@ -1,12 +1,12 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-08-22T06:58:21.031Z",
+  "updatedAt": "2026-08-22T08:47:00.029Z",
   "issueDate": "2026-08-22",
   "issue": "VOL.260822",
   "title": "手机情报日报",
-  "intro": "今日筛出 17 条重点，其中 8 条是重点爆料，包含 8 条 iPhone 相关、2 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 16 条重点，其中 8 条是重点爆料，包含 6 条 iPhone 相关、2 条官方确认、0 条参数线索。",
   "stats": {
-    "total": 17,
-    "iphone": 8,
+    "total": 16,
+    "iphone": 6,
     "leaks": 8,
     "official": 2,
     "specs": 0
@@ -17,6 +17,29 @@ window.phoneRadarDaily = {
       "title": "重点爆料",
       "hint": "机模、配色、影像、屏幕、电池和芯片线索先看。",
       "items": [
+        {
+          "id": "auto-0ba9055e13ec",
+          "title": "苹果 iPhone 18 Pro / Max 手机壳曝光：更窄边框、深灰 / 深樱桃红颜色",
+          "originalTitle": "",
+          "source": "IT之家",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-08-22",
+          "time": "07:13",
+          "publishedAt": "2026-08-22T07:13:56.000Z",
+          "url": "https://www.ithome.com/0/993/009.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/8/6536d140-176c-4041-8ff1-84ce71faaba2.png",
+          "verdict": "先看",
+          "takeaway": "IT之家 8 月 22 日消息，消息源 @saaaanjjjuuu 昨日（8 月 21 日）在 X 平台发布推文， 分享了一组适用于苹果 iPhone 18 Pro 和 iPhone 18 Pro Max 的手机壳渲染图。 消息源称基于最新曝光的手机壳渲染图，机身正面采用更窄的边框，其中 iPhone 18 Pro 似乎采用了深灰色，而 iPhone 18…",
+          "detail": "IT之家 8 月 22 日消息，消息源 @saaaanjjjuuu 昨日（8 月 21 日）在 X 平台发布推文， 分享了一组适用于苹果 iPhone 18 Pro 和 iPhone 18 Pro Max 的手机壳渲染图。 消息源称基于最新曝光的手机壳渲染图，机身正面采用更窄的边框，其中 iPhone 18 Pro 似乎采用了深灰色，而 iPhone 18…",
+          "keyPoints": [
+            "外观 / 配色 / 尺寸"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
         {
           "id": "auto-8359f214b731",
           "title": "iPhone 18 Pro 机模 / 配色信息曝光",
@@ -160,48 +183,25 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
-          "id": "coolapk-user-e225bc6f0c07",
-          "title": "竹本青：【总成绩9.32秒，荣耀自研机器人闪电打破人类百米世界纪录】 8月22日，第二届世界人形机器人运动会启幕。在备赛环…",
+          "id": "coolapk-user-3180f0bf44e1",
+          "title": "JSCHEN小小狐：『消息称 OPPO 小屏机项目暂停：让位阔直板』 知名数码博主 数码闲聊站 今日爆料称，随着旗下阔屏直板机的定版测…",
           "originalTitle": "",
-          "source": "竹本青",
-          "brand": "HONOR",
+          "source": "JSCHEN小小狐",
+          "brand": "OPPO",
           "type": "爆料",
           "trust": "高可信爆料",
           "date": "2026-08-22",
-          "time": "06:34",
-          "publishedAt": "2026-08-22T06:34:40.000Z",
-          "url": "https://www.coolapk.com/feed/73372230",
-          "image": "http://image.coolapk.com/feed/2026/0822/14/4248714_26802fe2_0479_7188_368@2170x3819.jpg",
+          "time": "08:46",
+          "publishedAt": "2026-08-22T08:46:17.000Z",
+          "url": "https://www.coolapk.com/feed/73374162",
+          "image": "http://image.coolapk.com/feed/2026/0822/16/4702274_7de49761_8376_5855_868@1440x505.jpg",
           "verdict": "先看",
-          "takeaway": "【总成绩9.32秒，荣耀自研机器人闪电打破人类百米世界纪录】 8月22日，第二届世界人形机器人运动会启幕。在备赛环节中，荣耀旗下自研机器人“闪电”，以总成绩9.32s，打破人类百米纪录。 荣耀官方表示，该机器人的超强续航能力、散热和可靠性设计，将在9月发布的Magic 9系列上完整回归。 #今日热点# #荣耀Magic9# #机器人#",
-          "detail": "【总成绩9.32秒，荣耀自研机器人闪电打破人类百米世界纪录】 8月22日，第二届世界人形机器人运动会启幕。在备赛环节中，荣耀旗下自研机器人“闪电”，以总成绩9.32s，打破人类百米纪录。 荣耀官方表示，该机器人的超强续航能力、散热和可靠性设计，将在9月发布的Magic 9系列上完整回归。 #今日热点# #荣耀Magic9# #机器人#",
-          "keyPoints": [
-            "电池 / 充电"
-          ],
-          "confidence": "可信度较高，但仍属于发布前线索。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "newsnow-089159d4e7bc",
-          "title": "别犟，70 Air和X View都不是Mate/Pura正统团队做的。和配置无关，别的团队也有能力规划旗舰的配置，只是能不能量产上市的问题。",
-          "originalTitle": "",
-          "source": "酷安热榜",
-          "brand": "行业",
-          "type": "爆料",
-          "trust": "高关注爆料源",
-          "date": "2026-08-22",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://www.coolapk.com/feed/73368491",
-          "image": "",
-          "verdict": "先看",
-          "takeaway": "别犟，70 Air和X View都不是Mate/Pura正统团队做的。和配置无关，别的团队也有能力规划旗舰的配置，只是能不能量产上市的问题。",
-          "detail": "别犟，70 Air和X View都不是Mate/Pura正统团队做的。和配置无关，别的团队也有能力规划旗舰的配置，只是能不能量产上市的问题。",
+          "takeaway": "『消息称 OPPO 小屏机项目暂停：让位阔直板』 知名数码博主 数码闲聊站 今日爆料称，随着旗下阔屏直板机的定版测试，OPPO 目前已暂停传统比例小屏手机的项目进程。此前该项目曾推出包括 Find X8s、Find X9s Pro 在内的多款产品。 #今日热点# #OPPO阔直板手机曝光# #OPPOFindX9sPro#",
+          "detail": "『消息称 OPPO 小屏机项目暂停：让位阔直板』 知名数码博主 数码闲聊站 今日爆料称，随着旗下阔屏直板机的定版测试，OPPO 目前已暂停传统比例小屏手机的项目进程。此前该项目曾推出包括 Find X8s、Find X9s Pro 在内的多款产品。 #今日热点# #OPPO阔直板手机曝光# #OPPOFindX9sPro#",
           "keyPoints": [
             "爆料来源"
           ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         }
@@ -257,75 +257,6 @@ window.phoneRadarDaily = {
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是实际体验内容，买前适合重点看缺点和取舍。",
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
-        {
-          "id": "newsnow-47407c89d579",
-          "title": "我，与「唯一」的 iPhone Air",
-          "originalTitle": "",
-          "source": "少数派热榜",
-          "brand": "iPhone",
-          "type": "评测",
-          "trust": "媒体汇总",
-          "date": "2026-08-22",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://sspai.com/post/112880",
-          "image": "",
-          "verdict": "扫一眼",
-          "takeaway": "我，与「唯一」的 iPhone Air",
-          "detail": "我，与「唯一」的 iPhone Air",
-          "keyPoints": [
-            "评测"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是实际体验内容，买前适合重点看缺点和取舍。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
-        {
-          "id": "newsnow-82a5eb75bc6e",
-          "title": "父子因iPhone争执坠崖母亲也跳下",
-          "originalTitle": "",
-          "source": "微博热搜",
-          "brand": "iPhone",
-          "type": "爆料",
-          "trust": "待验证",
-          "date": "2026-08-22",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%88%B6%E5%AD%90%E5%9B%A0iPhone%E4%BA%89%E6%89%A7%E5%9D%A0%E5%B4%96%E6%AF%8D%E4%BA%B2%E4%B9%9F%E8%B7%B3%E4%B8%8B%23&t=31&band_rank=21&Refer=top",
-          "image": "",
-          "verdict": "扫一眼",
-          "takeaway": "父子因iPhone争执坠崖母亲也跳下",
-          "detail": "父子因iPhone争执坠崖母亲也跳下",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
-        {
-          "id": "auto-76151addcc7f",
-          "title": "iPhone 18 Pro 发布 / 上市相关消息",
-          "originalTitle": "",
-          "source": "9to5Mac",
-          "brand": "iPhone",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-08-21",
-          "time": "17:47",
-          "publishedAt": "2026-08-21T17:47:34.000Z",
-          "url": "https://9to5mac.com/2026/08/21/iphone-18-release-date-when-apples-new-model-is-coming/",
-          "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/iphone-18-pro-mockup-fi-new-color.jpg?quality=82&strip=all&w=1600",
-          "verdict": "扫一眼",
-          "takeaway": "iPhone 有发布或新功能消息，适合确认是否和新机有关。",
-          "detail": "iPhone 18 Pro 发布 / 上市相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         }
       ]
     },
@@ -334,6 +265,29 @@ window.phoneRadarDaily = {
       "title": "新机与官方发布",
       "hint": "能直接更新到参数库。",
       "items": [
+        {
+          "id": "auto-06d979e7338a",
+          "title": "三星 Galaxy S26 FE 手机开箱视频曝光，8 月 27 日发布",
+          "originalTitle": "",
+          "source": "IT之家",
+          "brand": "Samsung",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-08-22",
+          "time": "07:34",
+          "publishedAt": "2026-08-22T07:34:00.000Z",
+          "url": "https://www.ithome.com/0/993/017.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/8/9e282634-af1c-441a-b5a3-112463c7b8e9.jpg?x-bce-process=image/format,f_auto",
+          "verdict": "先看",
+          "takeaway": "IT之家 8 月 22 日消息，网友 @ mundoelectronica.aa 昨日（8 月 21 日）在 Instagram 平台发布视频， 分享了 三星 Galaxy S26 FE 手机的开箱视频，该手机此前已官宣 8 月 27 日发布。 颜色方面，该手机预估会推出 Blueberry（蓝莓色）、Graphite（石墨色）和 Pistachio（开心…",
+          "detail": "IT之家 8 月 22 日消息，网友 @ mundoelectronica.aa 昨日（8 月 21 日）在 Instagram 平台发布视频， 分享了 三星 Galaxy S26 FE 手机的开箱视频，该手机此前已官宣 8 月 27 日发布。 颜色方面，该手机预估会推出 Blueberry（蓝莓色）、Graphite（石墨色）和 Pistachio（开心…",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "中文源可以直接点开快读；看完只保留和购机有关的点。"
+        },
         {
           "id": "auto-0a77d2620805",
           "title": "Pixel 相关消息",
@@ -380,6 +334,29 @@ window.phoneRadarDaily = {
           "verdict": "先看",
           "takeaway": "如果说有手机能超越苹果，华为是不是最有机会的那一个[受虐滑稽]#数码日常# #华为Mate80ProMax# #鸿蒙6#",
           "detail": "如果说有手机能超越苹果，华为是不是最有机会的那一个[受虐滑稽]#数码日常# #华为Mate80ProMax# #鸿蒙6#",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        },
+        {
+          "id": "newsnow-07db383add0a",
+          "title": "[嘿哈]酷友们，给女朋友高考完的弟弟送手机，选nova15U还是荣耀winrt好呀。或者有没有同价位其他选择推荐，不限牌子[微笑]。",
+          "originalTitle": "",
+          "source": "酷安热榜",
+          "brand": "HONOR",
+          "type": "爆料",
+          "trust": "高关注爆料源",
+          "date": "2026-08-22",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://www.coolapk.com/feed/73359640",
+          "image": "",
+          "verdict": "先看",
+          "takeaway": "[嘿哈]酷友们，给女朋友高考完的弟弟送手机，选nova15U还是荣耀winrt好呀。或者有没有同价位其他选择推荐，不限牌子[微笑]。",
+          "detail": "[嘿哈]酷友们，给女朋友高考完的弟弟送手机，选nova15U还是荣耀winrt好呀。或者有没有同价位其他选择推荐，不限牌子[微笑]。",
           "keyPoints": [
             "爆料"
           ],
