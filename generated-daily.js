@@ -1,12 +1,12 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-08-22T08:47:00.029Z",
+  "updatedAt": "2026-08-22T10:39:08.169Z",
   "issueDate": "2026-08-22",
   "issue": "VOL.260822",
   "title": "手机情报日报",
-  "intro": "今日筛出 16 条重点，其中 8 条是重点爆料，包含 6 条 iPhone 相关、2 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 15 条重点，其中 8 条是重点爆料，包含 5 条 iPhone 相关、2 条官方确认、0 条参数线索。",
   "stats": {
-    "total": 16,
-    "iphone": 6,
+    "total": 15,
+    "iphone": 5,
     "leaks": 8,
     "official": 2,
     "specs": 0
@@ -111,6 +111,30 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
+          "id": "auto-9445627cb8cf",
+          "title": "消息称 OPPO 阔直板机型进版测试，小屏手机项目暂停",
+          "originalTitle": "",
+          "source": "IT之家",
+          "brand": "OPPO",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-08-22",
+          "time": "09:48",
+          "publishedAt": "2026-08-22T09:48:57.000Z",
+          "url": "https://www.ithome.com/0/993/048.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/8/aab29de1-e62c-4bfd-8167-a54d6a2d270c.jpg?x-bce-process=image/format,f_auto",
+          "verdict": "先看",
+          "takeaway": "IT之家 8 月 22 日消息，博主 @数码闲聊站 今日在微博发文称，OPPO 的阔直板机型进版测试后， 小屏手机项目已经暂停 。 IT之家注意到，OPPO 系品牌目前在售的小屏旗舰机型有 Find X9s Pro、 一加 15T 等。其中 Find X9s Pro 采用天玑 9500 芯片，整体重量 198g，配备 6.32 英寸 1.5K 144Hz…",
+          "detail": "IT之家 8 月 22 日消息，博主 @数码闲聊站 今日在微博发文称，OPPO 的阔直板机型进版测试后， 小屏手机项目已经暂停 。 IT之家注意到，OPPO 系品牌目前在售的小屏旗舰机型有 Find X9s Pro、 一加 15T 等。其中 Find X9s Pro 采用天玑 9500 芯片，整体重量 198g，配备 6.32 英寸 1.5K 144Hz…",
+          "keyPoints": [
+            "芯片 / 性能",
+            "爆料来源"
+          ],
+          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
           "id": "auto-f414948958c4",
           "title": "vivo V70 Lite 4G 手机规格曝光：展锐 T7300 处理器、配 8GB RAM",
           "originalTitle": "",
@@ -181,29 +205,6 @@ window.phoneRadarDaily = {
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "coolapk-user-3180f0bf44e1",
-          "title": "JSCHEN小小狐：『消息称 OPPO 小屏机项目暂停：让位阔直板』 知名数码博主 数码闲聊站 今日爆料称，随着旗下阔屏直板机的定版测…",
-          "originalTitle": "",
-          "source": "JSCHEN小小狐",
-          "brand": "OPPO",
-          "type": "爆料",
-          "trust": "高可信爆料",
-          "date": "2026-08-22",
-          "time": "08:46",
-          "publishedAt": "2026-08-22T08:46:17.000Z",
-          "url": "https://www.coolapk.com/feed/73374162",
-          "image": "http://image.coolapk.com/feed/2026/0822/16/4702274_7de49761_8376_5855_868@1440x505.jpg",
-          "verdict": "先看",
-          "takeaway": "『消息称 OPPO 小屏机项目暂停：让位阔直板』 知名数码博主 数码闲聊站 今日爆料称，随着旗下阔屏直板机的定版测试，OPPO 目前已暂停传统比例小屏手机的项目进程。此前该项目曾推出包括 Find X8s、Find X9s Pro 在内的多款产品。 #今日热点# #OPPO阔直板手机曝光# #OPPOFindX9sPro#",
-          "detail": "『消息称 OPPO 小屏机项目暂停：让位阔直板』 知名数码博主 数码闲聊站 今日爆料称，随着旗下阔屏直板机的定版测试，OPPO 目前已暂停传统比例小屏手机的项目进程。此前该项目曾推出包括 Find X8s、Find X9s Pro 在内的多款产品。 #今日热点# #OPPO阔直板手机曝光# #OPPOFindX9sPro#",
-          "keyPoints": [
-            "爆料来源"
-          ],
-          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         }
       ]
     },
@@ -234,29 +235,6 @@ window.phoneRadarDaily = {
           "confidence": "官方内容，可直接作为已确认信息记录。",
           "impact": "可信度高，但如果不是配置/价格消息，只需要扫一眼。",
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
-        {
-          "id": "newsnow-895daa66b399",
-          "title": "把「闪念胶囊」（Almost）放到 iPhone 锁屏",
-          "originalTitle": "",
-          "source": "少数派热榜",
-          "brand": "iPhone",
-          "type": "评测",
-          "trust": "媒体汇总",
-          "date": "2026-08-22",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://sspai.com/post/113219",
-          "image": "",
-          "verdict": "扫一眼",
-          "takeaway": "把「闪念胶囊」（Almost）放到 iPhone 锁屏",
-          "detail": "把「闪念胶囊」（Almost）放到 iPhone 锁屏",
-          "keyPoints": [
-            "评测"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是实际体验内容，买前适合重点看缺点和取舍。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         }
       ]
     },
@@ -281,6 +259,29 @@ window.phoneRadarDaily = {
           "verdict": "先看",
           "takeaway": "IT之家 8 月 22 日消息，网友 @ mundoelectronica.aa 昨日（8 月 21 日）在 Instagram 平台发布视频， 分享了 三星 Galaxy S26 FE 手机的开箱视频，该手机此前已官宣 8 月 27 日发布。 颜色方面，该手机预估会推出 Blueberry（蓝莓色）、Graphite（石墨色）和 Pistachio（开心…",
           "detail": "IT之家 8 月 22 日消息，网友 @ mundoelectronica.aa 昨日（8 月 21 日）在 Instagram 平台发布视频， 分享了 三星 Galaxy S26 FE 手机的开箱视频，该手机此前已官宣 8 月 27 日发布。 颜色方面，该手机预估会推出 Blueberry（蓝莓色）、Graphite（石墨色）和 Pistachio（开心…",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "中文源可以直接点开快读；看完只保留和购机有关的点。"
+        },
+        {
+          "id": "auto-5b5e8d58fdf2",
+          "title": "“奥利奥”风格后摄模组：多亲 J36 手机预热，下周发布",
+          "originalTitle": "",
+          "source": "IT之家",
+          "brand": "行业",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-08-22",
+          "time": "09:25",
+          "publishedAt": "2026-08-22T09:25:25.000Z",
+          "url": "https://www.ithome.com/0/993/045.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/8/950ba5af-dc51-486e-8477-28396d518d40.png",
+          "verdict": "扫一眼",
+          "takeaway": "IT之家 8 月 22 日消息，多亲官方昨日发文预热旗下新品 J36 手机， 新机将于 8 月 26 日（下周三）正式发布 。 据介绍，这款手机采用中置摄像头设计，从官方公布的照片来看，该机的摄像头模组是“奥利奥”圆形风格。 同时， 这款手机还能够选择有摄像头版与无摄像头版 ，满足不同场景需求。 截至目前，多亲暂未公布这款手机的详细参数信息，IT之家将持续…",
+          "detail": "IT之家 8 月 22 日消息，多亲官方昨日发文预热旗下新品 J36 手机， 新机将于 8 月 26 日（下周三）正式发布 。 据介绍，这款手机采用中置摄像头设计，从官方公布的照片来看，该机的摄像头模组是“奥利奥”圆形风格。 同时， 这款手机还能够选择有摄像头版与无摄像头版 ，满足不同场景需求。 截至目前，多亲暂未公布这款手机的详细参数信息，IT之家将持续…",
           "keyPoints": [
             "爆料"
           ],
@@ -380,29 +381,6 @@ window.phoneRadarDaily = {
           "verdict": "扫一眼",
           "takeaway": "vivo X500 Pro Max 疑似现身：周杰伦或代言",
           "detail": "vivo X500 Pro Max 疑似现身：周杰伦或代言",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
-        {
-          "id": "newsnow-fad693e07678",
-          "title": "坐高铁碰见一个年轻宝妈还在用十年前的手机[列文虎克]#数码日常#",
-          "originalTitle": "",
-          "source": "酷安热榜",
-          "brand": "行业",
-          "type": "爆料",
-          "trust": "高关注爆料源",
-          "date": "2026-08-22",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://www.coolapk.com/feed/73339643",
-          "image": "",
-          "verdict": "扫一眼",
-          "takeaway": "坐高铁碰见一个年轻宝妈还在用十年前的手机[列文虎克]#数码日常#",
-          "detail": "坐高铁碰见一个年轻宝妈还在用十年前的手机[列文虎克]#数码日常#",
           "keyPoints": [
             "爆料"
           ],

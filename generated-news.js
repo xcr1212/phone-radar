@@ -1,6 +1,86 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-08-22T08:47:00.029Z",
+  "updatedAt": "2026-08-22T10:39:08.169Z",
   "news": [
+    {
+      "id": "coolapk-user-9ccf022efb10",
+      "title": "竹本青：消息称OPPO阔直板手机进版测试、小屏项目暂停 #今日热点# #ColorOS17# #OPPOFindX10#",
+      "source": "竹本青",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-08-22",
+      "time": "10:34",
+      "publishedAt": "2026-08-22T10:34:52.000Z",
+      "url": "https://www.coolapk.com/feed/73375684",
+      "image": "http://image.coolapk.com/feed/2026/0822/18/4248714_ce764dcf_4891_2296_476@1270x433.jpg",
+      "summary": "消息称OPPO阔直板手机进版测试、小屏项目暂停 #今日热点# #ColorOS17# #OPPOFindX10#",
+      "tags": [
+        "OPPO",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-58914d4e2a73",
+      "title": "Whatever you do, don’t buy a Pixel 11 right now if you already have a Pixel 10",
+      "source": "Android Authority",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-22",
+      "time": "10:00",
+      "publishedAt": "2026-08-22T10:00:25.000Z",
+      "url": "https://www.androidauthority.com/pixel-10-vs-pixel-11-3697199/",
+      "image": "",
+      "summary": "The Pixel 11 series looks great, but the Pixel 10 hasn't aged much in just a year.",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-9445627cb8cf",
+      "title": "消息称 OPPO 阔直板机型进版测试，小屏手机项目暂停",
+      "source": "IT之家",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-22",
+      "time": "09:48",
+      "publishedAt": "2026-08-22T09:48:57.000Z",
+      "url": "https://www.ithome.com/0/993/048.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/8/aab29de1-e62c-4bfd-8167-a54d6a2d270c.jpg?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 8 月 22 日消息，博主 @数码闲聊站 今日在微博发文称，OPPO 的阔直板机型进版测试后， 小屏手机项目已经暂停 。 IT之家注意到，OPPO 系品牌目前在售的小屏旗舰机型有 Find X9s Pro、 一加 15T 等。其中 Find X9s Pro 采用天玑 9500 芯片，整体重量 198g，配备 6.32 英寸 1.5K 144Hz…",
+      "tags": [
+        "OPPO",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-5b5e8d58fdf2",
+      "title": "“奥利奥”风格后摄模组：多亲 J36 手机预热，下周发布",
+      "source": "IT之家",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-22",
+      "time": "09:25",
+      "publishedAt": "2026-08-22T09:25:25.000Z",
+      "url": "https://www.ithome.com/0/993/045.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/8/950ba5af-dc51-486e-8477-28396d518d40.png",
+      "summary": "IT之家 8 月 22 日消息，多亲官方昨日发文预热旗下新品 J36 手机， 新机将于 8 月 26 日（下周三）正式发布 。 据介绍，这款手机采用中置摄像头设计，从官方公布的照片来看，该机的摄像头模组是“奥利奥”圆形风格。 同时， 这款手机还能够选择有摄像头版与无摄像头版 ，满足不同场景需求。 截至目前，多亲暂未公布这款手机的详细参数信息，IT之家将持续…",
+      "tags": [
+        "行业",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "coolapk-user-3180f0bf44e1",
       "title": "JSCHEN小小狐：『消息称 OPPO 小屏机项目暂停：让位阔直板』 知名数码博主 数码闲聊站 今日爆料称，随着旗下阔屏直板机的定版测…",
@@ -14,7 +94,7 @@ window.phoneRadarAuto = {
       "publishedAt": "2026-08-22T08:46:17.000Z",
       "url": "https://www.coolapk.com/feed/73374162",
       "image": "http://image.coolapk.com/feed/2026/0822/16/4702274_7de49761_8376_5855_868@1440x505.jpg",
-      "summary": "『消息称 OPPO 小屏机项目暂停：让位阔直板』 知名数码博主 数码闲聊站 今日爆料称，随着旗下阔屏直板机的定版测试，OPPO 目前已暂停传统比例小屏手机的项目进程。此前该项目曾推出包括 Find X8s、Find X9s Pro 在内的多款产品。 #今日热点# #OPPO阔直板手机曝光# #OPPOFindX9sPro#",
+      "summary": "『消息称 OPPO 小屏机项目暂停：让位阔直板』 知名数码博主 数码闲聊站 今日爆料称，随着旗下阔屏直板机的定版测试，OPPO 目前已暂停传统比例小屏手机的项目进程。此前该项目曾推出包括 Find X8s、Find X9s Pro 在内的多款产品。 OPPO 阔屏直板机爆料如下： ◇ 6.3～6.4± 英寸极窄四等边 1.5K LTPO ◇ 评估 200M…",
       "tags": [
         "OPPO",
         "爆料",
@@ -182,26 +262,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "coolapk-user-08b13928880a",
-      "title": "竹本青：消息称华为Pura X Max销量已超71万台",
-      "source": "竹本青",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-08-22",
-      "time": "02:06",
-      "publishedAt": "2026-08-22T02:06:40.000Z",
-      "url": "https://www.coolapk.com/feed/73368574",
-      "image": "http://image.coolapk.com/feed/2026/0822/10/4248714_3ff0c655_4399_0287_182@1271x440.jpg",
-      "summary": "【消息称华为Pura X Max销量已超71万台】 华为 Pura X Max ● 截至 W32 —— 约34.46万（周增1.91万） 截至 W31 —— 约32.55万（周增2.08万） 截至 W30 —— 约30.47万（周增1.88万） 截至 W29 —— 约28.59万（周增1.71万） 华为 Pura X Max 典藏版 ● 截至 W32 ——…",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
       "id": "auto-9bbf43c61c96",
       "title": "Apple announces changes to iOS in Brazil",
       "source": "Apple Newsroom",
@@ -302,26 +362,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-089159d4e7bc",
-      "title": "别犟，70 Air和X View都不是Mate/Pura正统团队做的。和配置无关，别的团队也有能力规划旗舰的配置，只是能不能量产上市的问题。",
-      "source": "酷安热榜",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-08-22",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73368491",
-      "image": "",
-      "summary": "别犟，70 Air和X View都不是Mate/Pura正统团队做的。和配置无关，别的团队也有能力规划旗舰的配置，只是能不能量产上市的问题。",
-      "tags": [
-        "行业",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
       "id": "newsnow-02824f5e5b03",
       "title": "vivo X500 Pro Max 疑似现身：周杰伦或代言",
       "source": "酷安热榜",
@@ -337,6 +377,26 @@ window.phoneRadarAuto = {
       "summary": "vivo X500 Pro Max 疑似现身：周杰伦或代言",
       "tags": [
         "vivo",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-089159d4e7bc",
+      "title": "别犟，70 Air和X View都不是Mate/Pura正统团队做的。和配置无关，别的团队也有能力规划旗舰的配置，只是能不能量产上市的问题。",
+      "source": "酷安热榜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-08-22",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/73368491",
+      "image": "",
+      "summary": "别犟，70 Air和X View都不是Mate/Pura正统团队做的。和配置无关，别的团队也有能力规划旗舰的配置，只是能不能量产上市的问题。",
+      "tags": [
+        "行业",
         "爆料",
         "NewsNow"
       ]
@@ -402,46 +462,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-92f0bc2572e8",
-      "title": "父子因iPhone争执坠崖母亲也跳下",
-      "source": "微博热搜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "待验证",
-      "date": "2026-08-22",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://s.weibo.com/weibo?q=%23%E7%88%B6%E5%AD%90%E5%9B%A0iPhone%E4%BA%89%E6%89%A7%E5%9D%A0%E5%B4%96%E6%AF%8D%E4%BA%B2%E4%B9%9F%E8%B7%B3%E4%B8%8B%23&t=31&band_rank=22&Refer=top",
-      "image": "",
-      "summary": "父子因iPhone争执坠崖母亲也跳下",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-d058ebb782b7",
-      "title": "因为一部手机印度一家三口坠崖死亡",
-      "source": "今日头条热榜",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-22",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.toutiao.com/trending/7676511515221966874/",
-      "image": "",
-      "summary": "因为一部手机印度一家三口坠崖死亡",
-      "tags": [
-        "行业",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
       "id": "newsnow-a71da278dbd6",
       "title": "手机出现这行字 存款正被转走",
       "source": "百度热搜",
@@ -455,26 +475,6 @@ window.phoneRadarAuto = {
       "url": "https://www.baidu.com/s?wd=%E6%89%8B%E6%9C%BA%E5%87%BA%E7%8E%B0%E8%BF%99%E8%A1%8C%E5%AD%97+%E5%AD%98%E6%AC%BE%E6%AD%A3%E8%A2%AB%E8%BD%AC%E8%B5%B0",
       "image": "",
       "summary": "手机出现这行字 存款正被转走",
-      "tags": [
-        "行业",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-94158f47de0d",
-      "title": "因为一部手机 印度一家三口坠崖身亡",
-      "source": "百度热搜",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-22",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.baidu.com/s?wd=%E5%9B%A0%E4%B8%BA%E4%B8%80%E9%83%A8%E6%89%8B%E6%9C%BA+%E5%8D%B0%E5%BA%A6%E4%B8%80%E5%AE%B6%E4%B8%89%E5%8F%A3%E5%9D%A0%E5%B4%96%E8%BA%AB%E4%BA%A1",
-      "image": "",
-      "summary": "因为一部手机 印度一家三口坠崖身亡",
       "tags": [
         "行业",
         "爆料",
