@@ -1,6 +1,26 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-08-22T16:39:37.164Z",
+  "updatedAt": "2026-08-22T18:47:53.120Z",
   "news": [
+    {
+      "id": "auto-01459d6f20ca",
+      "title": "iPhone 18 Pro event date: When Apple announced its event over the last six years",
+      "source": "9to5Mac",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-22",
+      "time": "17:32",
+      "publishedAt": "2026-08-22T17:32:09.000Z",
+      "url": "https://9to5mac.com/2026/08/22/iphone-18-pro-event-date-when-announcement/",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/iphone-18-pro-concept.jpg?quality=82&strip=all&w=1600",
+      "summary": "When should we expect the iPhone 18 Pro event, and when will Apple officially announce the date? Apple hasn’t sent invitations yet, but its announcement history gives us a remarka…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-9a13172cc535",
       "title": "印度少年为买新款苹果 iPhone 威胁父母跳崖，最终三人接连坠崖身亡",
@@ -502,7 +522,7 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-68094155e2ff",
+      "id": "newsnow-6caa60112631",
       "title": "王源一句话让几万人低头看手机",
       "source": "微博热搜",
       "brand": "行业",
@@ -512,7 +532,7 @@ window.phoneRadarAuto = {
       "date": "2026-08-22",
       "time": "",
       "publishedAt": "",
-      "url": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%BA%90%E4%B8%80%E5%8F%A5%E8%AF%9D%E8%AE%A9%E5%87%A0%E4%B8%87%E4%BA%BA%E4%BD%8E%E5%A4%B4%E7%9C%8B%E6%89%8B%E6%9C%BA%23&t=31&band_rank=4&Refer=top",
+      "url": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%BA%90%E4%B8%80%E5%8F%A5%E8%AF%9D%E8%AE%A9%E5%87%A0%E4%B8%87%E4%BA%BA%E4%BD%8E%E5%A4%B4%E7%9C%8B%E6%89%8B%E6%9C%BA%23&t=31&band_rank=5&Refer=top",
       "image": "",
       "summary": "王源一句话让几万人低头看手机",
       "tags": [
@@ -542,7 +562,7 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-ec507ae010f7",
+      "id": "newsnow-e51f329da3ec",
       "title": "手机出现这行字存款正被转走",
       "source": "微博热搜",
       "brand": "行业",
@@ -552,29 +572,9 @@ window.phoneRadarAuto = {
       "date": "2026-08-22",
       "time": "",
       "publishedAt": "",
-      "url": "https://s.weibo.com/weibo?q=%23%E6%89%8B%E6%9C%BA%E5%87%BA%E7%8E%B0%E8%BF%99%E8%A1%8C%E5%AD%97%E5%AD%98%E6%AC%BE%E6%AD%A3%E8%A2%AB%E8%BD%AC%E8%B5%B0%23&t=31&band_rank=30&Refer=top",
+      "url": "https://s.weibo.com/weibo?q=%23%E6%89%8B%E6%9C%BA%E5%87%BA%E7%8E%B0%E8%BF%99%E8%A1%8C%E5%AD%97%E5%AD%98%E6%AC%BE%E6%AD%A3%E8%A2%AB%E8%BD%AC%E8%B5%B0%23&t=31&band_rank=28&Refer=top",
       "image": "",
       "summary": "手机出现这行字存款正被转走",
-      "tags": [
-        "行业",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-375c0dcdcfe1",
-      "title": "4步手机自查身份证是否被别人绑定",
-      "source": "百度热搜",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-22",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.baidu.com/s?wd=4%E6%AD%A5%E6%89%8B%E6%9C%BA%E8%87%AA%E6%9F%A5%E8%BA%AB%E4%BB%BD%E8%AF%81%E6%98%AF%E5%90%A6%E8%A2%AB%E5%88%AB%E4%BA%BA%E7%BB%91%E5%AE%9A",
-      "image": "",
-      "summary": "4步手机自查身份证是否被别人绑定",
       "tags": [
         "行业",
         "爆料",

@@ -1,5 +1,5 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-08-22T16:39:37.164Z",
+  "updatedAt": "2026-08-22T18:47:53.120Z",
   "issueDate": "2026-08-22",
   "issue": "VOL.260822",
   "title": "手机情报日报",
@@ -263,26 +263,26 @@ window.phoneRadarDaily = {
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         },
         {
-          "id": "newsnow-895daa66b399",
-          "title": "把「闪念胶囊」（Almost）放到 iPhone 锁屏",
+          "id": "auto-01459d6f20ca",
+          "title": "iPhone 18 Pro e 发布 / 上市相关消息",
           "originalTitle": "",
-          "source": "少数派热榜",
+          "source": "9to5Mac",
           "brand": "iPhone",
-          "type": "评测",
+          "type": "爆料",
           "trust": "媒体汇总",
           "date": "2026-08-22",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://sspai.com/post/113219",
-          "image": "",
+          "time": "17:32",
+          "publishedAt": "2026-08-22T17:32:09.000Z",
+          "url": "https://9to5mac.com/2026/08/22/iphone-18-pro-event-date-when-announcement/",
+          "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/iphone-18-pro-concept.jpg?quality=82&strip=all&w=1600",
           "verdict": "扫一眼",
-          "takeaway": "把「闪念胶囊」（Almost）放到 iPhone 锁屏",
-          "detail": "把「闪念胶囊」（Almost）放到 iPhone 锁屏",
+          "takeaway": "iPhone 18 Pro e 发布 / 上市相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
+          "detail": "iPhone 18 Pro e 发布 / 上市相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
           "keyPoints": [
-            "评测"
+            "爆料"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是实际体验内容，买前适合重点看缺点和取舍。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         }
       ]
