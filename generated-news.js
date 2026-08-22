@@ -1,6 +1,26 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-08-22T01:49:20.100Z",
+  "updatedAt": "2026-08-22T03:06:23.498Z",
   "news": [
+    {
+      "id": "coolapk-user-08b13928880a",
+      "title": "竹本青：【消息称华为Pura X Max销量已超71万台】 华为 Pura X Max ● 截至 W32 —— 约34.4…",
+      "source": "竹本青",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-08-22",
+      "time": "02:06",
+      "publishedAt": "2026-08-22T02:06:40.000Z",
+      "url": "https://www.coolapk.com/feed/73368574",
+      "image": "http://image.coolapk.com/feed/2026/0822/10/4248714_3ff0c655_4399_0287_182@1271x440.jpg",
+      "summary": "【消息称华为Pura X Max销量已超71万台】 华为 Pura X Max ● 截至 W32 —— 约34.46万（周增1.91万） 截至 W31 —— 约32.55万（周增2.08万） 截至 W30 —— 约30.47万（周增1.88万） 截至 W29 —— 约28.59万（周增1.71万） 华为 Pura X Max 典藏版 ● 截至 W32 ——…",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "酷安博主"
+      ]
+    },
     {
       "id": "auto-9bbf43c61c96",
       "title": "Apple announces changes to iOS in Brazil",
@@ -62,26 +82,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-73fe7f39e525",
-      "title": "华为首款阔直屏 #华为PuraXView# 就要发布了，大家觉得起售价会是多少呢？",
-      "source": "酷安热榜",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-08-22",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73361789",
-      "image": "",
-      "summary": "华为首款阔直屏 #华为PuraXView# 就要发布了，大家觉得起售价会是多少呢？",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
       "id": "newsnow-ec0be0c935de",
       "title": "小米将二手手机列入非保修范围",
       "source": "酷安热榜",
@@ -97,6 +97,26 @@ window.phoneRadarAuto = {
       "summary": "小米将二手手机列入非保修范围",
       "tags": [
         "Xiaomi",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-73fe7f39e525",
+      "title": "华为首款阔直屏 #华为PuraXView# 就要发布了，大家觉得起售价会是多少呢？",
+      "source": "酷安热榜",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-08-22",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/73361789",
+      "image": "",
+      "summary": "华为首款阔直屏 #华为PuraXView# 就要发布了，大家觉得起售价会是多少呢？",
+      "tags": [
+        "Huawei",
         "爆料",
         "NewsNow"
       ]
@@ -202,7 +222,7 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-18173eee263d",
+      "id": "newsnow-8e66ae4879c5",
       "title": "曾辉手机壳是跟韩雨彤的合照",
       "source": "微博热搜",
       "brand": "行业",
@@ -212,7 +232,7 @@ window.phoneRadarAuto = {
       "date": "2026-08-22",
       "time": "",
       "publishedAt": "",
-      "url": "https://s.weibo.com/weibo?q=%23%E6%9B%BE%E8%BE%89%E6%89%8B%E6%9C%BA%E5%A3%B3%E6%98%AF%E8%B7%9F%E9%9F%A9%E9%9B%A8%E5%BD%A4%E7%9A%84%E5%90%88%E7%85%A7%23&t=31&band_rank=15&Refer=top",
+      "url": "https://s.weibo.com/weibo?q=%23%E6%9B%BE%E8%BE%89%E6%89%8B%E6%9C%BA%E5%A3%B3%E6%98%AF%E8%B7%9F%E9%9F%A9%E9%9B%A8%E5%BD%A4%E7%9A%84%E5%90%88%E7%85%A7%23&t=31&band_rank=16&Refer=top",
       "image": "",
       "summary": "曾辉手机壳是跟韩雨彤的合照",
       "tags": [
@@ -617,26 +637,6 @@ window.phoneRadarAuto = {
       "summary": "You wouldn't think the Galaxy Note 8 and Galaxy S8 would receive any firmware updates anymore. The Galaxy Note series itself has been discontinued for quite a while now. However,…",
       "tags": [
         "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-d946c0a3af2c",
-      "title": "vivo 海外新机 V80 Lite 公布，10000mAh 大电池",
-      "source": "IT之家",
-      "brand": "vivo",
-      "model": "vivo 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-21",
-      "time": "13:27",
-      "publishedAt": "2026-08-21T13:27:05.000Z",
-      "url": "https://www.ithome.com/0/992/862.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/8/f38d6868-297d-46db-93c2-76ada4310230.jpg?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 8 月 21 日消息，vivo 现已在 Instagram 社交平台公布 V80 Lite 手机， 新机主打 10000mAh 大电池 ，9 月 3 日在马来西亚发布。 据介绍，这款手机将搭载一块容量高达 10000mAh 的电池，提供黑色、绿色和粉色三种配色，采用直角边框，粉色还将使用渐变后盖设计。 同时，这款手机将配备方形后置摄像头模组， 拥…",
-      "tags": [
-        "vivo",
         "爆料",
         "自动抓取"
       ]

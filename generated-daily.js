@@ -1,5 +1,5 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-08-22T01:49:20.100Z",
+  "updatedAt": "2026-08-22T03:06:23.498Z",
   "issueDate": "2026-08-22",
   "issue": "VOL.260822",
   "title": "手机情报日报",
@@ -36,30 +36,6 @@ window.phoneRadarDaily = {
           "keyPoints": [
             "外观 / 配色 / 尺寸",
             "爆料来源"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "auto-d946c0a3af2c",
-          "title": "vivo 海外新机 V80 Lite 公布，10000mAh 大电池",
-          "originalTitle": "",
-          "source": "IT之家",
-          "brand": "vivo",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-08-21",
-          "time": "13:27",
-          "publishedAt": "2026-08-21T13:27:05.000Z",
-          "url": "https://www.ithome.com/0/992/862.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/8/f38d6868-297d-46db-93c2-76ada4310230.jpg?x-bce-process=image/format,f_auto",
-          "verdict": "先看",
-          "takeaway": "IT之家 8 月 21 日消息，vivo 现已在 Instagram 社交平台公布 V80 Lite 手机， 新机主打 10000mAh 大电池 ，9 月 3 日在马来西亚发布。 据介绍，这款手机将搭载一块容量高达 10000mAh 的电池，提供黑色、绿色和粉色三种配色，采用直角边框，粉色还将使用渐变后盖设计。 同时，这款手机将配备方形后置摄像头模组， 拥…",
-          "detail": "IT之家 8 月 21 日消息，vivo 现已在 Instagram 社交平台公布 V80 Lite 手机， 新机主打 10000mAh 大电池 ，9 月 3 日在马来西亚发布。 据介绍，这款手机将搭载一块容量高达 10000mAh 的电池，提供黑色、绿色和粉色三种配色，采用直角边框，粉色还将使用渐变后盖设计。 同时，这款手机将配备方形后置摄像头模组， 拥…",
-          "keyPoints": [
-            "外观 / 配色 / 尺寸",
-            "电池 / 充电"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
@@ -204,6 +180,30 @@ window.phoneRadarDaily = {
             "爆料"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "weibo-c55a7a7db138",
+          "title": "数码闲聊站：独家，母系2nm新旗舰的极窄四等边＜1mm，配合大R角设计+新OS，纯直屏观感…",
+          "originalTitle": "",
+          "source": "数码闲聊站",
+          "brand": "行业",
+          "type": "爆料",
+          "trust": "高关注爆料源",
+          "date": "2026-08-21",
+          "time": "07:15",
+          "publishedAt": "2026-08-21T07:15:24.000Z",
+          "url": "https://weibo.com/6048569942/Req8t5JsF",
+          "image": "",
+          "verdict": "先看",
+          "takeaway": "独家，母系2nm新旗舰的极窄四等边＜1mm，配合大R角设计+新OS，纯直屏观感再上一层楼",
+          "detail": "独家，母系2nm新旗舰的极窄四等边＜1mm，配合大R角设计+新OS，纯直屏观感再上一层楼",
+          "keyPoints": [
+            "屏幕形态",
+            "爆料来源"
+          ],
+          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         }
