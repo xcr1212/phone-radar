@@ -1,11 +1,11 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-08-22T12:59:25.075Z",
+  "updatedAt": "2026-08-22T14:36:59.130Z",
   "issueDate": "2026-08-22",
   "issue": "VOL.260822",
   "title": "手机情报日报",
-  "intro": "今日筛出 15 条重点，其中 8 条是重点爆料，包含 5 条 iPhone 相关、2 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 17 条重点，其中 8 条是重点爆料，包含 5 条 iPhone 相关、2 条官方确认、0 条参数线索。",
   "stats": {
-    "total": 15,
+    "total": 17,
     "iphone": 5,
     "leaks": 8,
     "official": 2,
@@ -17,29 +17,6 @@ window.phoneRadarDaily = {
       "title": "重点爆料",
       "hint": "机模、配色、影像、屏幕、电池和芯片线索先看。",
       "items": [
-        {
-          "id": "auto-0ba9055e13ec",
-          "title": "苹果 iPhone 18 Pro / Max 手机壳曝光：更窄边框、深灰 / 深樱桃红颜色",
-          "originalTitle": "",
-          "source": "IT之家",
-          "brand": "iPhone",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-08-22",
-          "time": "07:13",
-          "publishedAt": "2026-08-22T07:13:56.000Z",
-          "url": "https://www.ithome.com/0/993/009.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/8/6536d140-176c-4041-8ff1-84ce71faaba2.png",
-          "verdict": "先看",
-          "takeaway": "IT之家 8 月 22 日消息，消息源 @saaaanjjjuuu 昨日（8 月 21 日）在 X 平台发布推文， 分享了一组适用于苹果 iPhone 18 Pro 和 iPhone 18 Pro Max 的手机壳渲染图。 消息源称基于最新曝光的手机壳渲染图，机身正面采用更窄的边框，其中 iPhone 18 Pro 似乎采用了深灰色，而 iPhone 18…",
-          "detail": "IT之家 8 月 22 日消息，消息源 @saaaanjjjuuu 昨日（8 月 21 日）在 X 平台发布推文， 分享了一组适用于苹果 iPhone 18 Pro 和 iPhone 18 Pro Max 的手机壳渲染图。 消息源称基于最新曝光的手机壳渲染图，机身正面采用更窄的边框，其中 iPhone 18 Pro 似乎采用了深灰色，而 iPhone 18…",
-          "keyPoints": [
-            "外观 / 配色 / 尺寸"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
         {
           "id": "auto-8359f214b731",
           "title": "iPhone 18 Pro 机模 / 配色信息曝光",
@@ -122,7 +99,7 @@ window.phoneRadarDaily = {
           "time": "09:48",
           "publishedAt": "2026-08-22T09:48:57.000Z",
           "url": "https://www.ithome.com/0/993/048.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/8/aab29de1-e62c-4bfd-8167-a54d6a2d270c.jpg?x-bce-process=image/format,f_auto",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/8/aab29de1-e62c-4bfd-8167-a54d6a2d270c.jpg",
           "verdict": "先看",
           "takeaway": "IT之家 8 月 22 日消息，博主 @数码闲聊站 今日在微博发文称，OPPO 的阔直板机型进版测试后， 小屏手机项目已经暂停 。 IT之家注意到，OPPO 系品牌目前在售的小屏旗舰机型有 Find X9s Pro、 一加 15T 等。其中 Find X9s Pro 采用天玑 9500 芯片，整体重量 198g，配备 6.32 英寸 1.5K 144Hz…",
           "detail": "IT之家 8 月 22 日消息，博主 @数码闲聊站 今日在微博发文称，OPPO 的阔直板机型进版测试后， 小屏手机项目已经暂停 。 IT之家注意到，OPPO 系品牌目前在售的小屏旗舰机型有 Find X9s Pro、 一加 15T 等。其中 Find X9s Pro 采用天玑 9500 芯片，整体重量 198g，配备 6.32 英寸 1.5K 144Hz…",
@@ -184,7 +161,7 @@ window.phoneRadarDaily = {
         },
         {
           "id": "coolapk-user-f9a7771d69b5",
-          "title": "竹本青：【荣耀Play11 Pro 现已开售：天玑6500 Elite处理器，7000mAh电池，售价1899元起】 8+…",
+          "title": "竹本青：【荣耀Play11 Pro 现已开售：天玑6500 Elite处理器，7000mAh电池，首发1899元起】 8+…",
           "originalTitle": "",
           "source": "竹本青",
           "brand": "HONOR",
@@ -196,15 +173,39 @@ window.phoneRadarDaily = {
           "url": "https://www.coolapk.com/feed/73377546",
           "image": "http://image.coolapk.com/feed/2026/0822/20/4248714_334cd6eb_2780_5554_938@750x1443.jpg",
           "verdict": "先看",
-          "takeaway": "【荣耀Play11 Pro 现已开售：天玑6500 Elite处理器，7000mAh电池，售价1899元起】 8+128GB —— 1899元 8+256GB —— 2099元 12+256GB —— 2399元 核心： ● 天玑6500 Elite处理器 ● LPDDR4X+UFS 2.2 ● 6.6\"1.5K 120Hz OLED直屏 ● 7000mA…",
-          "detail": "【荣耀Play11 Pro 现已开售：天玑6500 Elite处理器，7000mAh电池，售价1899元起】 8+128GB —— 1899元 8+256GB —— 2099元 12+256GB —— 2399元 核心： ● 天玑6500 Elite处理器 ● LPDDR4X+UFS 2.2 ● 6.6\"1.5K 120Hz OLED直屏 ● 7000mA…",
+          "takeaway": "【荣耀Play11 Pro 现已开售：天玑6500 Elite处理器，7000mAh电池，首发1899元起】 8+128GB —— 1899元 8+256GB —— 2099元 12+256GB —— 2399元 核心： ● 天玑6500 Elite处理器 ● LPDDR4X+UFS 2.2 ● 6.6\"1.5K 120Hz OLED直屏 ● 7000mA…",
+          "detail": "【荣耀Play11 Pro 现已开售：天玑6500 Elite处理器，7000mAh电池，首发1899元起】 8+128GB —— 1899元 8+256GB —— 2099元 12+256GB —— 2399元 核心： ● 天玑6500 Elite处理器 ● LPDDR4X+UFS 2.2 ● 6.6\"1.5K 120Hz OLED直屏 ● 7000mA…",
           "keyPoints": [
             "屏幕形态",
             "电池 / 充电",
-            "芯片 / 性能",
-            "成本 / 价格"
+            "芯片 / 性能"
           ],
           "confidence": "可信度较高，但仍属于发布前线索。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "coolapk-user-9ccf022efb10",
+          "title": "竹本青：【消息称OPPO阔直板手机进版测试、传统小屏手机项目暂停】 8月22日，博主数码闲聊站爆料称，OPPO在阔直板手机…",
+          "originalTitle": "",
+          "source": "竹本青",
+          "brand": "OPPO",
+          "type": "爆料",
+          "trust": "高可信爆料",
+          "date": "2026-08-22",
+          "time": "10:34",
+          "publishedAt": "2026-08-22T10:34:52.000Z",
+          "url": "https://www.coolapk.com/feed/73375684",
+          "image": "http://image.coolapk.com/feed/2026/0822/18/4248714_ce764dcf_4891_2296_476@1270x433.jpg",
+          "verdict": "先看",
+          "takeaway": "【消息称OPPO阔直板手机进版测试、传统小屏手机项目暂停】 8月22日，博主数码闲聊站爆料称，OPPO在阔直板手机进版测试后，将原本的传统比例小屏手机项目暂停。 此前爆料显示，OPPO阔直板手机归属Find产品线。硬件配备6.3-6.4英寸1.5K LTPO四等边屏幕、2亿大底主摄以及潜望长焦。预计明年上半年，与Find X10 Ultra同台发布。 #今…",
+          "detail": "【消息称OPPO阔直板手机进版测试、传统小屏手机项目暂停】 8月22日，博主数码闲聊站爆料称，OPPO在阔直板手机进版测试后，将原本的传统比例小屏手机项目暂停。 此前爆料显示，OPPO阔直板手机归属Find产品线。硬件配备6.3-6.4英寸1.5K LTPO四等边屏幕、2亿大底主摄以及潜望长焦。预计明年上半年，与Find X10 Ultra同台发布。 #今…",
+          "keyPoints": [
+            "影像硬件",
+            "屏幕形态",
+            "爆料来源"
+          ],
+          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         }
@@ -236,6 +237,29 @@ window.phoneRadarDaily = {
           ],
           "confidence": "官方内容，可直接作为已确认信息记录。",
           "impact": "可信度高，但如果不是配置/价格消息，只需要扫一眼。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        },
+        {
+          "id": "newsnow-895daa66b399",
+          "title": "把「闪念胶囊」（Almost）放到 iPhone 锁屏",
+          "originalTitle": "",
+          "source": "少数派热榜",
+          "brand": "iPhone",
+          "type": "评测",
+          "trust": "媒体汇总",
+          "date": "2026-08-22",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://sspai.com/post/113219",
+          "image": "",
+          "verdict": "扫一眼",
+          "takeaway": "把「闪念胶囊」（Almost）放到 iPhone 锁屏",
+          "detail": "把「闪念胶囊」（Almost）放到 iPhone 锁屏",
+          "keyPoints": [
+            "评测"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是实际体验内容，买前适合重点看缺点和取舍。",
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         }
       ]
@@ -383,6 +407,29 @@ window.phoneRadarDaily = {
           "verdict": "扫一眼",
           "takeaway": "vivo X500 Pro Max 疑似现身：周杰伦或代言",
           "detail": "vivo X500 Pro Max 疑似现身：周杰伦或代言",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        },
+        {
+          "id": "newsnow-fad693e07678",
+          "title": "坐高铁碰见一个年轻宝妈还在用十年前的手机[列文虎克]#数码日常#",
+          "originalTitle": "",
+          "source": "酷安热榜",
+          "brand": "行业",
+          "type": "爆料",
+          "trust": "高关注爆料源",
+          "date": "2026-08-22",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://www.coolapk.com/feed/73339643",
+          "image": "",
+          "verdict": "扫一眼",
+          "takeaway": "坐高铁碰见一个年轻宝妈还在用十年前的手机[列文虎克]#数码日常#",
+          "detail": "坐高铁碰见一个年轻宝妈还在用十年前的手机[列文虎克]#数码日常#",
           "keyPoints": [
             "爆料"
           ],

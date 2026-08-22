@@ -1,9 +1,29 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-08-22T12:59:25.075Z",
+  "updatedAt": "2026-08-22T14:36:59.130Z",
   "news": [
     {
+      "id": "auto-c0b2ce07c319",
+      "title": "Please don’t buy Google’s wildly overpriced Pixel 11 Clear Case",
+      "source": "9to5Google",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-22",
+      "time": "13:00",
+      "publishedAt": "2026-08-22T13:00:00.000Z",
+      "url": "https://9to5google.com/2026/08/22/please-dont-buy-googles-wildly-overpriced-pixel-11-clear-case/",
+      "image": "",
+      "summary": "Buying a new smartphone usually means buying a new case alongside it, unless you’re one of those risk-fueled daredevils who opt to go caseless. And while there’s no shortage of th…",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
       "id": "coolapk-user-f9a7771d69b5",
-      "title": "竹本青：【荣耀Play11 Pro 现已开售：天玑6500 Elite处理器，7000mAh电池，售价1899元起】 8+…",
+      "title": "竹本青：【荣耀Play11 Pro 现已开售：天玑6500 Elite处理器，7000mAh电池，首发1899元起】 8+…",
       "source": "竹本青",
       "brand": "HONOR",
       "model": "HONOR 相关机型",
@@ -14,7 +34,7 @@ window.phoneRadarAuto = {
       "publishedAt": "2026-08-22T12:46:21.000Z",
       "url": "https://www.coolapk.com/feed/73377546",
       "image": "http://image.coolapk.com/feed/2026/0822/20/4248714_334cd6eb_2780_5554_938@750x1443.jpg",
-      "summary": "【荣耀Play11 Pro 现已开售：天玑6500 Elite处理器，7000mAh电池，售价1899元起】 8+128GB —— 1899元 8+256GB —— 2099元 12+256GB —— 2399元 核心： ● 天玑6500 Elite处理器 ● LPDDR4X+UFS 2.2 ● 6.6\"1.5K 120Hz OLED直屏 ● 7000mA…",
+      "summary": "【荣耀Play11 Pro 现已开售：天玑6500 Elite处理器，7000mAh电池，首发1899元起】 8+128GB —— 1899元 8+256GB —— 2099元 12+256GB —— 2399元 核心： ● 天玑6500 Elite处理器 ● LPDDR4X+UFS 2.2 ● 6.6\"1.5K 120Hz OLED直屏 ● 7000mA…",
       "tags": [
         "HONOR",
         "爆料",
@@ -113,7 +133,7 @@ window.phoneRadarAuto = {
       "time": "09:48",
       "publishedAt": "2026-08-22T09:48:57.000Z",
       "url": "https://www.ithome.com/0/993/048.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/8/aab29de1-e62c-4bfd-8167-a54d6a2d270c.jpg?x-bce-process=image/format,f_auto",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/8/aab29de1-e62c-4bfd-8167-a54d6a2d270c.jpg",
       "summary": "IT之家 8 月 22 日消息，博主 @数码闲聊站 今日在微博发文称，OPPO 的阔直板机型进版测试后， 小屏手机项目已经暂停 。 IT之家注意到，OPPO 系品牌目前在售的小屏旗舰机型有 Find X9s Pro、 一加 15T 等。其中 Find X9s Pro 采用天玑 9500 芯片，整体重量 198g，配备 6.32 英寸 1.5K 144Hz…",
       "tags": [
         "OPPO",
@@ -179,46 +199,6 @@ window.phoneRadarAuto = {
         "Samsung",
         "爆料",
         "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-0ba9055e13ec",
-      "title": "苹果 iPhone 18 Pro / Max 手机壳曝光：更窄边框、深灰 / 深樱桃红颜色",
-      "source": "IT之家",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-22",
-      "time": "07:13",
-      "publishedAt": "2026-08-22T07:13:56.000Z",
-      "url": "https://www.ithome.com/0/993/009.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/8/6536d140-176c-4041-8ff1-84ce71faaba2.png",
-      "summary": "IT之家 8 月 22 日消息，消息源 @saaaanjjjuuu 昨日（8 月 21 日）在 X 平台发布推文， 分享了一组适用于苹果 iPhone 18 Pro 和 iPhone 18 Pro Max 的手机壳渲染图。 消息源称基于最新曝光的手机壳渲染图，机身正面采用更窄的边框，其中 iPhone 18 Pro 似乎采用了深灰色，而 iPhone 18…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "coolapk-user-e225bc6f0c07",
-      "title": "竹本青：【总成绩9.32秒，荣耀自研机器人闪电打破人类百米世界纪录】 8月22日，第二届世界人形机器人运动会启幕。在备赛环…",
-      "source": "竹本青",
-      "brand": "HONOR",
-      "model": "HONOR 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-08-22",
-      "time": "06:34",
-      "publishedAt": "2026-08-22T06:34:40.000Z",
-      "url": "https://www.coolapk.com/feed/73372230",
-      "image": "http://image.coolapk.com/feed/2026/0822/14/4248714_26802fe2_0479_7188_368@2170x3819.jpg",
-      "summary": "【总成绩9.32秒，荣耀自研机器人闪电打破人类百米世界纪录】 8月22日，第二届世界人形机器人运动会启幕。在备赛环节中，荣耀旗下自研机器人“闪电”，以总成绩9.32s，打破人类百米纪录。 荣耀官方表示，该机器人的超强续航能力、散热和可靠性设计，将在9月发布的Magic 9系列上完整回归。 #今日热点# #荣耀Magic9# #机器人#",
-      "tags": [
-        "HONOR",
-        "爆料",
-        "酷安博主"
       ]
     },
     {
@@ -382,26 +362,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-089159d4e7bc",
-      "title": "别犟，70 Air和X View都不是Mate/Pura正统团队做的。和配置无关，别的团队也有能力规划旗舰的配置，只是能不能量产上市的问题。",
-      "source": "酷安热榜",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-08-22",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73368491",
-      "image": "",
-      "summary": "别犟，70 Air和X View都不是Mate/Pura正统团队做的。和配置无关，别的团队也有能力规划旗舰的配置，只是能不能量产上市的问题。",
-      "tags": [
-        "行业",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
       "id": "newsnow-07db383add0a",
       "title": "[嘿哈]酷友们，给女朋友高考完的弟弟送手机，选nova15U还是荣耀winrt好呀。或者有没有同价位其他选择推荐，不限牌子[微笑]。",
       "source": "酷安热榜",
@@ -417,6 +377,26 @@ window.phoneRadarAuto = {
       "summary": "[嘿哈]酷友们，给女朋友高考完的弟弟送手机，选nova15U还是荣耀winrt好呀。或者有没有同价位其他选择推荐，不限牌子[微笑]。",
       "tags": [
         "HONOR",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-089159d4e7bc",
+      "title": "别犟，70 Air和X View都不是Mate/Pura正统团队做的。和配置无关，别的团队也有能力规划旗舰的配置，只是能不能量产上市的问题。",
+      "source": "酷安热榜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-08-22",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/73368491",
+      "image": "",
+      "summary": "别犟，70 Air和X View都不是Mate/Pura正统团队做的。和配置无关，别的团队也有能力规划旗舰的配置，只是能不能量产上市的问题。",
+      "tags": [
+        "行业",
         "爆料",
         "NewsNow"
       ]
@@ -457,6 +437,46 @@ window.phoneRadarAuto = {
       "summary": "开玩笑的吗？这只是一台先端上来的前菜阔直板，芯片和影像都不算华为顶级水平，这要能卖一万，后面的mate90系列怎么定价呀，疯了吧？ #华为Mate80ProMax# #鸿蒙6# #鸿蒙7#",
       "tags": [
         "Huawei",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-33cf3b46ff2d",
+      "title": "iPhone18ProMax手机壳曝光",
+      "source": "微博热搜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "待验证",
+      "date": "2026-08-22",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://s.weibo.com/weibo?q=%23iPhone18ProMax%E6%89%8B%E6%9C%BA%E5%A3%B3%E6%9B%9D%E5%85%89%23&t=31&band_rank=7&Refer=top",
+      "image": "",
+      "summary": "iPhone18ProMax手机壳曝光",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-375c0dcdcfe1",
+      "title": "4步手机自查身份证是否被别人绑定",
+      "source": "百度热搜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-22",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.baidu.com/s?wd=4%E6%AD%A5%E6%89%8B%E6%9C%BA%E8%87%AA%E6%9F%A5%E8%BA%AB%E4%BB%BD%E8%AF%81%E6%98%AF%E5%90%A6%E8%A2%AB%E5%88%AB%E4%BA%BA%E7%BB%91%E5%AE%9A",
+      "image": "",
+      "summary": "4步手机自查身份证是否被别人绑定",
+      "tags": [
+        "行业",
         "爆料",
         "NewsNow"
       ]
@@ -515,26 +535,6 @@ window.phoneRadarAuto = {
       "url": "https://9to5google.com/2026/08/21/pixelated-113-made-you-camera-look/",
       "image": "",
       "summary": "Welcome to Pixelated episode 113. This week, Damien, Abner, and Will dive into their thoughts and reviews of the Pixel 11, Pixel 11 Pro and Pro XL, and the Pixel 11 Pro Fold. Enjo…",
-      "tags": [
-        "Pixel",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-74fcc934feb5",
-      "title": "Pixel 11 gets in on the digicam trend",
-      "source": "The Verge",
-      "brand": "Pixel",
-      "model": "Pixel 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-21",
-      "time": "18:24",
-      "publishedAt": "2026-08-21T18:24:41.000Z",
-      "url": "https://www.theverge.com/podcast/983288/pixel-11-gets-in-on-the-digicam-trend",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/VST082126_Site.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "summary": "I recently looked back at a photo I'd taken on a smartphone in 2014, and I was struck by just how good it looked. The details were soft, the shadows were dark. It was the kind of…",
       "tags": [
         "Pixel",
         "爆料",
@@ -717,26 +717,6 @@ window.phoneRadarAuto = {
       "summary": "Samsung has been using flagship Qualcomm chips in its top-of-the-line Galaxy S and Galaxy Z series phones every year, and 2027 will be no different. The South Korean firm is expec…",
       "tags": [
         "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-a0e485fd9b97",
-      "title": "Pura X View is light and thin unlike foldable’s bulkiness: Huawei",
-      "source": "Huawei Central",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-21",
-      "time": "13:42",
-      "publishedAt": "2026-08-21T13:42:23.000Z",
-      "url": "https://www.huaweicentral.com/pura-x-view-is-light-and-thin-unlike-foldables-bulkiness-huawei/",
-      "image": "https://www.huaweicentral.com/wp-content/uploads/2026/08/PuraXView.jpg",
-      "summary": "Huawei Pura X View has obtained a lot of attention in the market for its light and thin design, and unlike many foldable phones, it doesn’t bring bulkiness despite a similar forma…",
-      "tags": [
-        "Huawei",
         "爆料",
         "自动抓取"
       ]
