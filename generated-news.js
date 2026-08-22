@@ -1,9 +1,69 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-08-22T10:39:08.169Z",
+  "updatedAt": "2026-08-22T12:59:25.075Z",
   "news": [
     {
+      "id": "coolapk-user-f9a7771d69b5",
+      "title": "竹本青：【荣耀Play11 Pro 现已开售：天玑6500 Elite处理器，7000mAh电池，售价1899元起】 8+…",
+      "source": "竹本青",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-08-22",
+      "time": "12:46",
+      "publishedAt": "2026-08-22T12:46:21.000Z",
+      "url": "https://www.coolapk.com/feed/73377546",
+      "image": "http://image.coolapk.com/feed/2026/0822/20/4248714_334cd6eb_2780_5554_938@750x1443.jpg",
+      "summary": "【荣耀Play11 Pro 现已开售：天玑6500 Elite处理器，7000mAh电池，售价1899元起】 8+128GB —— 1899元 8+256GB —— 2099元 12+256GB —— 2399元 核心： ● 天玑6500 Elite处理器 ● LPDDR4X+UFS 2.2 ● 6.6\"1.5K 120Hz OLED直屏 ● 7000mA…",
+      "tags": [
+        "HONOR",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "coolapk-user-944b91e977e0",
+      "title": "竹本青：日常能用的水平……[受虐滑稽]，这一代，会比之前翻倍的贵[受虐滑稽]// @向着欧斩星魔剑 :处理器什么水平 #蓝…",
+      "source": "竹本青",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-08-22",
+      "time": "11:21",
+      "publishedAt": "2026-08-22T11:21:26.000Z",
+      "url": "https://www.coolapk.com/feed/73376321",
+      "image": "",
+      "summary": "日常能用的水平……[受虐滑稽]，这一代，会比之前翻倍的贵[受虐滑稽]// @向着欧斩星魔剑 :处理器什么水平 #蓝狐AuraA1# #蓝狐手机#",
+      "tags": [
+        "行业",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-5b660751debb",
+      "title": "The Pixel 11 Pro is setting a dangerous precedent for Android upgrades",
+      "source": "Android Authority",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-22",
+      "time": "11:00",
+      "publishedAt": "2026-08-22T11:00:02.000Z",
+      "url": "https://www.androidauthority.com/pixel-11-pro-setting-dangerous-precedent-android-upgrades-3699468/",
+      "image": "",
+      "summary": "Old Pixels are going to pay the price.",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
       "id": "coolapk-user-9ccf022efb10",
-      "title": "竹本青：消息称OPPO阔直板手机进版测试、小屏项目暂停 #今日热点# #ColorOS17# #OPPOFindX10#",
+      "title": "竹本青：【消息称OPPO阔直板手机进版测试、传统小屏手机项目暂停】 8月22日，博主数码闲聊站爆料称，OPPO在阔直板手机…",
       "source": "竹本青",
       "brand": "OPPO",
       "model": "OPPO 相关机型",
@@ -14,7 +74,7 @@ window.phoneRadarAuto = {
       "publishedAt": "2026-08-22T10:34:52.000Z",
       "url": "https://www.coolapk.com/feed/73375684",
       "image": "http://image.coolapk.com/feed/2026/0822/18/4248714_ce764dcf_4891_2296_476@1270x433.jpg",
-      "summary": "消息称OPPO阔直板手机进版测试、小屏项目暂停 #今日热点# #ColorOS17# #OPPOFindX10#",
+      "summary": "【消息称OPPO阔直板手机进版测试、传统小屏手机项目暂停】 8月22日，博主数码闲聊站爆料称，OPPO在阔直板手机进版测试后，将原本的传统比例小屏手机项目暂停。 此前爆料显示，OPPO阔直板手机归属Find产品线。硬件配备6.3-6.4英寸1.5K LTPO四等边屏幕、2亿大底主摄以及潜望长焦。预计明年上半年，与Find X10 Ultra同台发布。 #今…",
       "tags": [
         "OPPO",
         "爆料",
@@ -142,26 +202,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-f414948958c4",
-      "title": "vivo V70 Lite 4G 手机规格曝光：展锐 T7300 处理器、配 8GB RAM",
-      "source": "IT之家",
-      "brand": "vivo",
-      "model": "vivo 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-22",
-      "time": "06:37",
-      "publishedAt": "2026-08-22T06:37:49.000Z",
-      "url": "https://www.ithome.com/0/992/997.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/8/19c925dd-c3f3-4ff2-a78e-4e4870aff92b.png?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 8 月 22 日消息，外媒 GSMArena 现已曝光 vivo 旗下 V70 Lite 4G 手机，该机采用展锐 T7300 处理器，将于近期上市。 该机提供蓝白双色可选，获得 IP69 认证，正面配备一块 6.83 英寸 1260x2800 分辨率 120Hz AMOLED 面板，匹配 32Mp 自拍摄像头；手机背面采用 50Mp 主摄和 2…",
-      "tags": [
-        "vivo",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "coolapk-user-e225bc6f0c07",
       "title": "竹本青：【总成绩9.32秒，荣耀自研机器人闪电打破人类百米世界纪录】 8月22日，第二届世界人形机器人运动会启幕。在备赛环…",
       "source": "竹本青",
@@ -202,26 +242,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-e4a4ac4a3c00",
-      "title": "消息称荣耀计划推出独立的手持云台相机",
-      "source": "IT之家",
-      "brand": "HONOR",
-      "model": "HONOR 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-22",
-      "time": "05:43",
-      "publishedAt": "2026-08-22T05:43:56.000Z",
-      "url": "https://www.ithome.com/0/992/983.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/8/5cb3cf85-ed2a-4e53-ae46-99ccf6362929.png?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 8 月 22 日消息，据博主 @数码闲聊站 今日爆料，荣耀计划推出独立的手持云台相机，全品类发力。 IT之家注意到，荣耀本月刚刚推出 Robot Phone 手机产品， 行业首创钛合金灵巧云台 ，售价 9999 元起。架构采用航空级钛合金，与行业主流云台相比体积缩减 65%；行业首发钛合金云台电机，云台电机最大转速 360°/秒。云台配备 200…",
-      "tags": [
-        "HONOR",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-b400ec25fe43",
       "title": "I used the Samsung Galaxy Z Fold 8 Ultra, and it does just enough to be called an upgrade",
       "source": "Android Central",
@@ -239,26 +259,6 @@ window.phoneRadarAuto = {
         "Samsung",
         "评测",
         "自动抓取"
-      ]
-    },
-    {
-      "id": "coolapk-user-33b7b0dc7e58",
-      "title": "竹本青：#酷态科# 不懂就问，为什么在拼多多买酷态科，无论是啥 都送两个七号电池",
-      "source": "竹本青",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-08-22",
-      "time": "04:25",
-      "publishedAt": "2026-08-22T04:25:54.000Z",
-      "url": "https://www.coolapk.com/feed/73370489",
-      "image": "",
-      "summary": "#酷态科# 不懂就问，为什么在拼多多买酷态科，无论是啥 都送两个七号电池",
-      "tags": [
-        "行业",
-        "爆料",
-        "酷安博主"
       ]
     },
     {
@@ -402,21 +402,21 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-f5aac795908c",
-      "title": "开玩笑的吗？这只是一台先端上来的前菜阔直板，芯片和影像都不算华为顶级水平，这要能卖一万，后面的mate90系列怎么定价呀，疯了吧？ #华为Mate80ProMax# #鸿蒙6# #鸿蒙7#",
+      "id": "newsnow-07db383add0a",
+      "title": "[嘿哈]酷友们，给女朋友高考完的弟弟送手机，选nova15U还是荣耀winrt好呀。或者有没有同价位其他选择推荐，不限牌子[微笑]。",
       "source": "酷安热榜",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-08-22",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73364759",
+      "url": "https://www.coolapk.com/feed/73359640",
       "image": "",
-      "summary": "开玩笑的吗？这只是一台先端上来的前菜阔直板，芯片和影像都不算华为顶级水平，这要能卖一万，后面的mate90系列怎么定价呀，疯了吧？ #华为Mate80ProMax# #鸿蒙6# #鸿蒙7#",
+      "summary": "[嘿哈]酷友们，给女朋友高考完的弟弟送手机，选nova15U还是荣耀winrt好呀。或者有没有同价位其他选择推荐，不限牌子[微笑]。",
       "tags": [
-        "Huawei",
+        "HONOR",
         "爆料",
         "NewsNow"
       ]
@@ -442,41 +442,21 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-07db383add0a",
-      "title": "[嘿哈]酷友们，给女朋友高考完的弟弟送手机，选nova15U还是荣耀winrt好呀。或者有没有同价位其他选择推荐，不限牌子[微笑]。",
+      "id": "newsnow-f5aac795908c",
+      "title": "开玩笑的吗？这只是一台先端上来的前菜阔直板，芯片和影像都不算华为顶级水平，这要能卖一万，后面的mate90系列怎么定价呀，疯了吧？ #华为Mate80ProMax# #鸿蒙6# #鸿蒙7#",
       "source": "酷安热榜",
-      "brand": "HONOR",
-      "model": "HONOR 相关机型",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-08-22",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73359640",
+      "url": "https://www.coolapk.com/feed/73364759",
       "image": "",
-      "summary": "[嘿哈]酷友们，给女朋友高考完的弟弟送手机，选nova15U还是荣耀winrt好呀。或者有没有同价位其他选择推荐，不限牌子[微笑]。",
+      "summary": "开玩笑的吗？这只是一台先端上来的前菜阔直板，芯片和影像都不算华为顶级水平，这要能卖一万，后面的mate90系列怎么定价呀，疯了吧？ #华为Mate80ProMax# #鸿蒙6# #鸿蒙7#",
       "tags": [
-        "HONOR",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-a71da278dbd6",
-      "title": "手机出现这行字 存款正被转走",
-      "source": "百度热搜",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-22",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.baidu.com/s?wd=%E6%89%8B%E6%9C%BA%E5%87%BA%E7%8E%B0%E8%BF%99%E8%A1%8C%E5%AD%97+%E5%AD%98%E6%AC%BE%E6%AD%A3%E8%A2%AB%E8%BD%AC%E8%B5%B0",
-      "image": "",
-      "summary": "手机出现这行字 存款正被转走",
-      "tags": [
-        "行业",
+        "Huawei",
         "爆料",
         "NewsNow"
       ]
@@ -737,26 +717,6 @@ window.phoneRadarAuto = {
       "summary": "Samsung has been using flagship Qualcomm chips in its top-of-the-line Galaxy S and Galaxy Z series phones every year, and 2027 will be no different. The South Korean firm is expec…",
       "tags": [
         "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-168f8ee7af1d",
-      "title": "Google’s Pixel 10A is a great deal at 15 percent off",
-      "source": "The Verge",
-      "brand": "Pixel",
-      "model": "Pixel 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-21",
-      "time": "14:35",
-      "publishedAt": "2026-08-21T14:35:22.000Z",
-      "url": "https://www.theverge.com/gadgets/983171/google-pixel-10a-steelseries-gaming-headset-soldering-4k-bluray-deal-sale",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/vergedealslotr.png?quality=90&strip=all&crop=0,0,100,100",
-      "summary": "This week, all of Google’s Pixel 11 phones launched, including the $899 Pixel 11, the $1,099 Pixel 11 Pro (with the same processor and starting 12GB RAM as the standard model, but…",
-      "tags": [
-        "Pixel",
         "爆料",
         "自动抓取"
       ]

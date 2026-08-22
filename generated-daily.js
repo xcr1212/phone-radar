@@ -1,5 +1,5 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-08-22T10:39:08.169Z",
+  "updatedAt": "2026-08-22T12:59:25.075Z",
   "issueDate": "2026-08-22",
   "issue": "VOL.260822",
   "title": "手机情报日报",
@@ -135,30 +135,6 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
-          "id": "auto-f414948958c4",
-          "title": "vivo V70 Lite 4G 手机规格曝光：展锐 T7300 处理器、配 8GB RAM",
-          "originalTitle": "",
-          "source": "IT之家",
-          "brand": "vivo",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-08-22",
-          "time": "06:37",
-          "publishedAt": "2026-08-22T06:37:49.000Z",
-          "url": "https://www.ithome.com/0/992/997.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/8/19c925dd-c3f3-4ff2-a78e-4e4870aff92b.png?x-bce-process=image/format,f_auto",
-          "verdict": "先看",
-          "takeaway": "IT之家 8 月 22 日消息，外媒 GSMArena 现已曝光 vivo 旗下 V70 Lite 4G 手机，该机采用展锐 T7300 处理器，将于近期上市。 该机提供蓝白双色可选，获得 IP69 认证，正面配备一块 6.83 英寸 1260x2800 分辨率 120Hz AMOLED 面板，匹配 32Mp 自拍摄像头；手机背面采用 50Mp 主摄和 2…",
-          "detail": "IT之家 8 月 22 日消息，外媒 GSMArena 现已曝光 vivo 旗下 V70 Lite 4G 手机，该机采用展锐 T7300 处理器，将于近期上市。 该机提供蓝白双色可选，获得 IP69 认证，正面配备一块 6.83 英寸 1260x2800 分辨率 120Hz AMOLED 面板，匹配 32Mp 自拍摄像头；手机背面采用 50Mp 主摄和 2…",
-          "keyPoints": [
-            "屏幕形态",
-            "芯片 / 性能"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
           "id": "newsnow-73fe7f39e525",
           "title": "华为首款阔直屏 #华为PuraXView# 就要发布了，大家觉得起售价会是多少呢？",
           "originalTitle": "",
@@ -203,6 +179,32 @@ window.phoneRadarDaily = {
             "芯片 / 性能"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "coolapk-user-f9a7771d69b5",
+          "title": "竹本青：【荣耀Play11 Pro 现已开售：天玑6500 Elite处理器，7000mAh电池，售价1899元起】 8+…",
+          "originalTitle": "",
+          "source": "竹本青",
+          "brand": "HONOR",
+          "type": "爆料",
+          "trust": "高可信爆料",
+          "date": "2026-08-22",
+          "time": "12:46",
+          "publishedAt": "2026-08-22T12:46:21.000Z",
+          "url": "https://www.coolapk.com/feed/73377546",
+          "image": "http://image.coolapk.com/feed/2026/0822/20/4248714_334cd6eb_2780_5554_938@750x1443.jpg",
+          "verdict": "先看",
+          "takeaway": "【荣耀Play11 Pro 现已开售：天玑6500 Elite处理器，7000mAh电池，售价1899元起】 8+128GB —— 1899元 8+256GB —— 2099元 12+256GB —— 2399元 核心： ● 天玑6500 Elite处理器 ● LPDDR4X+UFS 2.2 ● 6.6\"1.5K 120Hz OLED直屏 ● 7000mA…",
+          "detail": "【荣耀Play11 Pro 现已开售：天玑6500 Elite处理器，7000mAh电池，售价1899元起】 8+128GB —— 1899元 8+256GB —— 2099元 12+256GB —— 2399元 核心： ● 天玑6500 Elite处理器 ● LPDDR4X+UFS 2.2 ● 6.6\"1.5K 120Hz OLED直屏 ● 7000mA…",
+          "keyPoints": [
+            "屏幕形态",
+            "电池 / 充电",
+            "芯片 / 性能",
+            "成本 / 价格"
+          ],
+          "confidence": "可信度较高，但仍属于发布前线索。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         }
