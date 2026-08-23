@@ -1,6 +1,26 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-08-23T20:38:25.732Z",
+  "updatedAt": "2026-08-23T22:36:46.687Z",
   "news": [
+    {
+      "id": "auto-b561a0b13c85",
+      "title": "Samsung reportedly bringing this major redesign back from the dead with Galaxy S27 [Gallery]",
+      "source": "9to5Google",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-23",
+      "time": "21:55",
+      "publishedAt": "2026-08-23T21:55:00.000Z",
+      "url": "https://9to5google.com/2026/08/23/samsung-galaxy-s27-redesign-leaks/",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2025/09/galaxy-s26-edge-cad-2.jpg?quality=82&strip=all&w=1600",
+      "summary": "According to new leaks, Samsung is planning to revive a lost redesign with its Galaxy S27 series, but details are light.",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-4b68c3b966df",
       "title": "Hands-on: Mophie’s new battery banks offer pocketable power, built-in cables at low price",
@@ -657,6 +677,26 @@ window.phoneRadarAuto = {
       "summary": "iphone信号并不差，实测下来其实是果子信号显示真实😂，地下车库一加15显示5g少一格(这个速度其实已经是4g了)，上行都跑不动，iphone显示4g跑出来也是和一加15差不多",
       "tags": [
         "OPPO",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-503126e64c74",
+      "title": "华为真戒网瘾啊，打个王者都是生死局，不ge跟手，掉帧。不带手机壳，打把王者荣耀手机发热严重。我都清空后台关闭性能模式了，换x200ultra打王者机身就温热",
+      "source": "酷安热榜",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-08-23",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/73381812",
+      "image": "",
+      "summary": "华为真戒网瘾啊，打个王者都是生死局，不ge跟手，掉帧。不带手机壳，打把王者荣耀手机发热严重。我都清空后台关闭性能模式了，换x200ultra打王者机身就温热",
+      "tags": [
+        "HONOR",
         "爆料",
         "NewsNow"
       ]
