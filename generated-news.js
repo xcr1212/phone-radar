@@ -1,6 +1,66 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-08-23T13:00:47.939Z",
+  "updatedAt": "2026-08-23T14:37:47.438Z",
   "news": [
+    {
+      "id": "auto-7abee1860169",
+      "title": "Galaxy S27’s Exynos 2700 could outpace Snapdragon in speed and efficiency",
+      "source": "SamMobile",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-23",
+      "time": "14:19",
+      "publishedAt": "2026-08-23T14:19:13.000Z",
+      "url": "https://www.sammobile.com/news/galaxy-s27-exynos-2700-outpace-snapdragon-speed-efficiency/",
+      "image": "https://www.sammobile.com/wp-content/uploads/2026/08/Samsung-Exynos-2700-Geekbench-AI-1.7-Performance-Score-Database.jpg",
+      "summary": "Samsung has been trying hard to make Exynos chips perform as well as rival Snapdragon chips. While they have improved over the past few years, the chips haven't been able to outpa…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-481f09b124df",
+      "title": "三星 Galaxy S27 Ultra 手机后盖工程图流出，可能存在两个版本",
+      "source": "IT之家",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-23",
+      "time": "14:07",
+      "publishedAt": "2026-08-23T14:07:20.000Z",
+      "url": "https://www.ithome.com/0/993/303.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/8/0c4621b5-8d47-426b-a9f3-dddca1a472ca.jpg?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 8 月 23 日消息，微博博主 @i冰宇宙 今日放出了三星 Galaxy S27 Ultra 手机的后盖工程图，显示该机目前存在两个版本：一个和后摄模组对齐，一个靠下。 X 平台消息人士 Sonny Dickson 随后表示， Galaxy S27 Ultra 将有两种尺寸 。如果消息属实，这将是三星 Galaxy S Ultra 系列直板手机首…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-05d70ff2da34",
+      "title": "竹本青：【荣耀机器人闪电打破五项人类世界纪录】 8月23日，荣耀公司宣布旗下自研机器人“闪电”，在第二届世界人形机器人运动…",
+      "source": "竹本青",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-08-23",
+      "time": "13:49",
+      "publishedAt": "2026-08-23T13:49:29.000Z",
+      "url": "https://www.coolapk.com/feed/73393863",
+      "image": "http://image.coolapk.com/feed/2026/0823/21/4248714_39382324_2969_0998_183@1280x2276.jpg",
+      "summary": "【荣耀机器人闪电打破五项人类世界纪录】 8月23日，荣耀公司宣布旗下自研机器人“闪电”，在第二届世界人形机器人运动会上，打破五项人类世界纪录： ● 50分26秒，打破人类半马世界纪录 ● 2分30秒，打破人类1500米世界纪录 ● 39.45秒，打破人类400米世界纪录 ● 9.32秒，打破人类百米世界纪录 ● 14.5米/秒，超越人类巅峰速度 #今日热点…",
+      "tags": [
+        "HONOR",
+        "爆料",
+        "酷安博主"
+      ]
+    },
     {
       "id": "auto-3570e4bb785f",
       "title": "iQOO Z11 vs Realme 16x 5G: Which Phone Offers Better Value?",
@@ -282,66 +342,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "coolapk-user-c9424800388a",
-      "title": "竹本青：【玄戒家族全新成员，小米玄戒芯片技术沟通会官宣明日举行】 8月23日，小米公司宣布玄戒芯片家族迎来全新成员。明天1…",
-      "source": "竹本青",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-08-23",
-      "time": "06:15",
-      "publishedAt": "2026-08-23T06:15:18.000Z",
-      "url": "https://www.coolapk.com/feed/73387393",
-      "image": "http://image.coolapk.com/feed/2026/0823/14/4248714_62246ba2_5717_0473_694@1440x1920.jpg",
-      "summary": "【玄戒家族全新成员，小米玄戒芯片技术沟通会官宣明日举行】 8月23日，小米公司宣布玄戒芯片家族迎来全新成员。明天14点，玄戒芯片负责人朱丹，带来最新进展，将以图文直播的形式与大家见面。 本月18日，小米集团合伙人卢伟冰在财报电话会上透露，去年小米成功推出的玄戒O1芯片，在三款终端上的累计出货量已超过百万，实现了旗舰芯片规模化验证，全新一代小米玄戒芯片也即将…",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
-      "id": "auto-824d065307eb",
-      "title": "小米玄戒芯片技术沟通会明天见，时隔 459 天再迎全新成员",
-      "source": "IT之家",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-23",
-      "time": "06:07",
-      "publishedAt": "2026-08-23T06:07:57.000Z",
-      "url": "https://www.ithome.com/0/993/181.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/8/46c71ef0-ff51-488a-9f95-ff3a32e7aea2.png?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 8 月 23 日消息，小米手机今日官宣，小米玄戒芯片技术沟通会明天见： 2025 年 5 月 22 日，玄戒第一款旗舰处理器面世 时隔 459 天，芯片家族迎来全新成员 明天 14 点，小米玄戒芯片负责人朱丹，带来最新进展，将以图文直播的形式与大家见面，不见不散！ IT之家注意到，8 月 18 日，小米集团合伙人 / 总裁、手机部总裁、小米品牌总…",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-d9ca1292988f",
-      "title": "华为 Pura X Max 系列手机 HarmonyOS 7.0.0.102SP8 升级不限量开放，新增 3D 空间壁纸等功能",
-      "source": "IT之家",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-23",
-      "time": "05:51",
-      "publishedAt": "2026-08-23T05:51:11.000Z",
-      "url": "https://www.ithome.com/0/993/180.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/8/dbf6c1c3-ef1b-4f4f-8f83-89890b238111.jpg",
-      "summary": "IT之家 8 月 23 日消息，华为官方昨晚宣布， HUAWEI Pura X Max 系列横向阔折叠手机的鸿蒙 HarmonyOS 7.0.0.100 SP10 → 7.0.0.102 SP8 版本 升级不限量开放 （升级方式：设置 > 搜索“软件更新”> 检查更新）。 IT之家附版本更新日志： 亮点推荐 1. 新增 3D 空间壁纸功能，通过照片中的元素…",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-9bbf43c61c96",
       "title": "Apple announces changes to iOS in Brazil",
       "source": "Apple Newsroom",
@@ -359,6 +359,186 @@ window.phoneRadarAuto = {
         "iPhone",
         "官方",
         "自动抓取"
+      ]
+    },
+    {
+      "id": "newsnow-8d917b3a70b9",
+      "title": "把「闪念胶囊」（Almost）放到 iPhone 锁屏",
+      "source": "少数派热榜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-08-23",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://sspai.com/post/113219",
+      "image": "",
+      "summary": "把「闪念胶囊」（Almost）放到 iPhone 锁屏",
+      "tags": [
+        "iPhone",
+        "评测",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-6742403f4b02",
+      "title": "我，与「唯一」的 iPhone Air",
+      "source": "少数派热榜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-08-23",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://sspai.com/post/112880",
+      "image": "",
+      "summary": "我，与「唯一」的 iPhone Air",
+      "tags": [
+        "iPhone",
+        "评测",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-66e619880549",
+      "title": "小米能来一个华为Pura X View这种的吗？",
+      "source": "酷安热榜",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-08-23",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/73382841",
+      "image": "",
+      "summary": "小米能来一个华为Pura X View这种的吗？",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-56a9b19d443f",
+      "title": "大家为什么都默认能卖爆？这手机目前的三大竞争对手是线上降价的mate80pro max、pura 90pro max以及9月新品mate90pro。",
+      "source": "酷安热榜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-08-23",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/73378362",
+      "image": "",
+      "summary": "大家为什么都默认能卖爆？这手机目前的三大竞争对手是线上降价的mate80pro max、pura 90pro max以及9月新品mate90pro。",
+      "tags": [
+        "行业",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-01e63087fff6",
+      "title": "#数码日常# #鸿蒙NEXT# #酷工作# 喷了一辈子华为手机结果还是跑来华为上班了，以后不喷了[受虐滑稽]",
+      "source": "酷安热榜",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-08-23",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/73385197",
+      "image": "",
+      "summary": "#数码日常# #鸿蒙NEXT# #酷工作# 喷了一辈子华为手机结果还是跑来华为上班了，以后不喷了[受虐滑稽]",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-d9a48d151ff0",
+      "title": "[t耐克嘴][耐克嘴]红米k90至尊版上扬声器靠近红外发射器孔的那个孔难道是装饰的风味假孔?首先我就拿水冲一下怎么发现里面有白色的点一开始我还以为是灰尘呢然后我拿牙签一刮疯狂结果疯狂掉黑色的渣又冲水里面的渣感觉像是水溶性的油漆全部漂浮起来了水冲走了结果这个孔就变成白色了和手机边框一个颜色不是这啥意思而且这孔里面的质地和边框质地差不多而且碰着很硬感觉就是铝合金还有这个不是红外发射器也不是泄压孔这机型泄压孔只有一个在下方扬声器而且有防呆设计我这个没有防呆设计而且孔位特别浅很容易碰到底部而且底部特别硬上扬声器原版长p2这样有没有懂哥知道的目前防水还在因为我又下水了一次一点问题没有所以这个孔何意味风味假孔吗也不可能是麦克风这个机型双麦克风都有对应位置了已经排除红外-泄压孔-麦克风-扬声器了这个孔也不会发出声音因为其他孔进水放歌会碰水的这个孔毫无动静",
+      "source": "酷安热榜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-08-23",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/73360264",
+      "image": "",
+      "summary": "[t耐克嘴][耐克嘴]红米k90至尊版上扬声器靠近红外发射器孔的那个孔难道是装饰的风味假孔?首先我就拿水冲一下怎么发现里面有白色的点一开始我还以为是灰尘呢然后我拿牙签一刮疯狂结果疯狂掉黑色的渣又冲水里面的渣感觉像是水溶性的油漆全部漂浮起来了水冲走了结果这个孔就变成白色了和手机边框一个颜色不是这啥意思而且这孔里面的质地和边框质地差不多而且碰着很硬感觉就是铝合…",
+      "tags": [
+        "行业",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-503126e64c74",
+      "title": "华为真戒网瘾啊，打个王者都是生死局，不ge跟手，掉帧。不带手机壳，打把王者荣耀手机发热严重。我都清空后台关闭性能模式了，换x200ultra打王者机身就温热",
+      "source": "酷安热榜",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-08-23",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/73381812",
+      "image": "",
+      "summary": "华为真戒网瘾啊，打个王者都是生死局，不ge跟手，掉帧。不带手机壳，打把王者荣耀手机发热严重。我都清空后台关闭性能模式了，换x200ultra打王者机身就温热",
+      "tags": [
+        "HONOR",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-00ad73c466fa",
+      "title": "华为首款阔直屏 #华为PuraXView# 就要发布了，大家觉得起售价会是多少呢？",
+      "source": "酷安热榜",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-08-23",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/73361789",
+      "image": "",
+      "summary": "华为首款阔直屏 #华为PuraXView# 就要发布了，大家觉得起售价会是多少呢？",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-b407c0a64bb8",
+      "title": "开学前班级群通知换老师引家长焦虑",
+      "source": "百度热搜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-23",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.baidu.com/s?wd=%E5%BC%80%E5%AD%A6%E5%89%8D%E7%8F%AD%E7%BA%A7%E7%BE%A4%E9%80%9A%E7%9F%A5%E6%8D%A2%E8%80%81%E5%B8%88%E5%BC%95%E5%AE%B6%E9%95%BF%E7%84%A6%E8%99%91",
+      "image": "",
+      "summary": "开学前班级群通知换老师引家长焦虑",
+      "tags": [
+        "行业",
+        "爆料",
+        "NewsNow"
       ]
     },
     {
@@ -395,6 +575,26 @@ window.phoneRadarAuto = {
       "url": "https://9to5mac.com/2026/08/22/iphone-18-pro-event-date-when-announcement/",
       "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/iphone-18-pro-concept.jpg?quality=82&strip=all&w=1600",
       "summary": "When should we expect the iPhone 18 Pro event, and when will Apple officially announce the date? Apple hasn’t sent invitations yet, but its announcement history gives us a remarka…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-7155206efc21",
+      "title": "Which do you plan to buy: iPhone 18 Pro or foldable iPhone Ultra? [Poll]",
+      "source": "9to5Mac",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-22",
+      "time": "13:00",
+      "publishedAt": "2026-08-22T13:00:00.000Z",
+      "url": "https://9to5mac.com/2026/08/22/which-do-you-plan-to-buy-iphone-18-pro-or-foldable-iphone-ultra-poll/",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/02/iphone-18-pro-mockup.jpg?quality=82&strip=all&w=1600",
+      "summary": "Apple’s fall iPhone event is expected to look different this year. Rather than unveiling four closely related models, rumors point to a flagship-only September lineup consisting o…",
       "tags": [
         "iPhone",
         "爆料",
