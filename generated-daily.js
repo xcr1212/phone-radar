@@ -1,13 +1,13 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-08-23T08:47:38.314Z",
+  "updatedAt": "2026-08-23T10:38:49.330Z",
   "issueDate": "2026-08-23",
   "issue": "VOL.260823",
   "title": "手机情报日报",
-  "intro": "今日筛出 17 条重点，其中 6 条是重点爆料，包含 5 条 iPhone 相关、1 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 20 条重点，其中 8 条是重点爆料，包含 5 条 iPhone 相关、1 条官方确认、0 条参数线索。",
   "stats": {
-    "total": 17,
+    "total": 20,
     "iphone": 5,
-    "leaks": 6,
+    "leaks": 8,
     "official": 1,
     "specs": 0
   },
@@ -17,6 +17,29 @@ window.phoneRadarDaily = {
       "title": "重点爆料",
       "hint": "机模、配色、影像、屏幕、电池和芯片线索先看。",
       "items": [
+        {
+          "id": "auto-d1a311bc9b4c",
+          "title": "消息称华为 Mate 90 系列手机风驰版继续迭代，友商也会跟进",
+          "originalTitle": "",
+          "source": "IT之家",
+          "brand": "Huawei",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-08-23",
+          "time": "08:50",
+          "publishedAt": "2026-08-23T08:50:16.000Z",
+          "url": "https://www.ithome.com/0/993/233.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/8/0f276408-9e95-4b46-a412-77b86f31a970.jpg?x-bce-process=image/format,f_auto",
+          "verdict": "先看",
+          "takeaway": "IT之家 8 月 23 日消息，据博主 @智慧皮卡丘 消息，华为 Mate 90 系列手机风驰版继续迭代（预计为华为 Mate 90 Pro Max 风驰版），而且友商也会跟。 博主在评论区进一步表示，友商跟进的方式为“ 旗舰机上主动散热 ”。 ▲ IT之家开箱：华为 Mate 80 Pro Max 风驰版图赏 据IT之家此前报道， 华为 Mate 80…",
+          "detail": "IT之家 8 月 23 日消息，据博主 @智慧皮卡丘 消息，华为 Mate 90 系列手机风驰版继续迭代（预计为华为 Mate 90 Pro Max 风驰版），而且友商也会跟。 博主在评论区进一步表示，友商跟进的方式为“ 旗舰机上主动散热 ”。 ▲ IT之家开箱：华为 Mate 80 Pro Max 风驰版图赏 据IT之家此前报道， 华为 Mate 80…",
+          "keyPoints": [
+            "爆料来源"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
         {
           "id": "auto-d9ca1292988f",
           "title": "华为 Pura X Max 系列手机 HarmonyOS 7.0.0.102SP8 升级不限量开放，新增 3D 空间壁纸等功能",
@@ -64,6 +87,29 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
+          "id": "newsnow-503126e64c74",
+          "title": "华为真戒网瘾啊，打个王者都是生死局，不ge跟手，掉帧。不带手机壳，打把王者荣耀手机发热严重。我都清空后台关闭性能模式了，换x200ultra打王者机身就温热",
+          "originalTitle": "",
+          "source": "酷安热榜",
+          "brand": "HONOR",
+          "type": "爆料",
+          "trust": "高关注爆料源",
+          "date": "2026-08-23",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://www.coolapk.com/feed/73381812",
+          "image": "",
+          "verdict": "先看",
+          "takeaway": "华为真戒网瘾啊，打个王者都是生死局，不ge跟手，掉帧。不带手机壳，打把王者荣耀手机发热严重。我都清空后台关闭性能模式了，换x200ultra打王者机身就温热",
+          "detail": "华为真戒网瘾啊，打个王者都是生死局，不ge跟手，掉帧。不带手机壳，打把王者荣耀手机发热严重。我都清空后台关闭性能模式了，换x200ultra打王者机身就温热",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
           "id": "newsnow-00ad73c466fa",
           "title": "华为首款阔直屏 #华为PuraXView# 就要发布了，大家觉得起售价会是多少呢？",
           "originalTitle": "",
@@ -82,29 +128,6 @@ window.phoneRadarDaily = {
           "keyPoints": [
             "屏幕形态",
             "成本 / 价格"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "newsnow-503126e64c74",
-          "title": "华为真戒网瘾啊，打个王者都是生死局，不ge跟手，掉帧。不带手机壳，打把王者荣耀手机发热严重。我都清空后台关闭性能模式了，换x200ultra打王者机身就温热",
-          "originalTitle": "",
-          "source": "酷安热榜",
-          "brand": "HONOR",
-          "type": "爆料",
-          "trust": "高关注爆料源",
-          "date": "2026-08-23",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://www.coolapk.com/feed/73381812",
-          "image": "",
-          "verdict": "先看",
-          "takeaway": "华为真戒网瘾啊，打个王者都是生死局，不ge跟手，掉帧。不带手机壳，打把王者荣耀手机发热严重。我都清空后台关闭性能模式了，换x200ultra打王者机身就温热",
-          "detail": "华为真戒网瘾啊，打个王者都是生死局，不ge跟手，掉帧。不带手机壳，打把王者荣耀手机发热严重。我都清空后台关闭性能模式了，换x200ultra打王者机身就温热",
-          "keyPoints": [
-            "爆料"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
@@ -155,6 +178,29 @@ window.phoneRadarDaily = {
           "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "auto-0f65cf2166bc",
+          "title": "Galaxy S27 Ultra 机模 / 配色信息曝光",
+          "originalTitle": "",
+          "source": "SamMobile",
+          "brand": "Samsung",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-08-23",
+          "time": "10:00",
+          "publishedAt": "2026-08-23T10:00:42.000Z",
+          "url": "https://www.sammobile.com/news/galaxy-s27-ultra-design-first-look/",
+          "image": "https://www.sammobile.com/wp-content/uploads/2026/08/Samsung-Galaxy-S27-Ultra-Design-AI-Render.jpg",
+          "verdict": "先看",
+          "takeaway": "Galaxy S27 Ultra 机模 / 配色信息曝光。重点看外观、颜色、尺寸是否和上一代有明显变化。",
+          "detail": "Galaxy S27 Ultra 机模 / 配色信息曝光。来源提到未发布机型的机模/配色图，适合先判断外观方向、颜色变化和机身轮廓，但最终量产版本仍可能调整。",
+          "keyPoints": [
+            "外观 / 配色 / 尺寸"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         }
       ]
     },
@@ -163,6 +209,29 @@ window.phoneRadarDaily = {
       "title": "iPhone 重点",
       "hint": "不是硬件爆料，但和 iPhone 体验或路线有关。",
       "items": [
+        {
+          "id": "coolapk-user-5834e1919620",
+          "title": "竹本青：【iPhone 17系列 中国区最新销量曝光：周增约52.58万台，累计超4057万台】 8月23日，博主「RD观…",
+          "originalTitle": "",
+          "source": "竹本青",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "高可信爆料",
+          "date": "2026-08-23",
+          "time": "10:32",
+          "publishedAt": "2026-08-23T10:32:34.000Z",
+          "url": "https://www.coolapk.com/feed/73391026",
+          "image": "http://image.coolapk.com/feed/2026/0823/18/4248714_72804f21_1439_3214_482@2160x1796.jpg",
+          "verdict": "先看",
+          "takeaway": "【iPhone 17系列 中国区最新销量曝光：周增约52.58万台，累计超4057万台】 8月23日，博主「RD观测」发布第三方统计数据：截至2026年第33周，iPhone 17系列手机在中国市场累计销量约4057.16万台，周环比新增约52.58万台。 前几周数据如下： 截至 W32 —— 约4004.58万（周增50.33万） 截至 W31 —— 约…",
+          "detail": "【iPhone 17系列 中国区最新销量曝光：周增约52.58万台，累计超4057万台】 8月23日，博主「RD观测」发布第三方统计数据：截至2026年第33周，iPhone 17系列手机在中国市场累计销量约4057.16万台，周环比新增约52.58万台。 前几周数据如下： 截至 W32 —— 约4004.58万（周增50.33万） 截至 W31 —— 约…",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "可信度较高，但仍属于发布前线索。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        },
         {
           "id": "auto-9bbf43c61c96",
           "title": "iPhone 系统功能 / AI 体验相关消息",
@@ -233,29 +302,6 @@ window.phoneRadarDaily = {
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         },
         {
-          "id": "newsnow-1b15da88d412",
-          "title": "iPhone会涨价吗",
-          "originalTitle": "",
-          "source": "B站热搜",
-          "brand": "iPhone",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-08-23",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://search.bilibili.com/all?keyword=iPhone%E4%BC%9A%E6%B6%A8%E4%BB%B7%E5%90%97",
-          "image": "",
-          "verdict": "扫一眼",
-          "takeaway": "iPhone会涨价吗",
-          "detail": "iPhone会涨价吗",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "影响购买预算，值得先看。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
-        {
           "id": "auto-01459d6f20ca",
           "title": "iPhone 18 Pro e 发布 / 上市相关消息",
           "originalTitle": "",
@@ -271,6 +317,36 @@ window.phoneRadarDaily = {
           "verdict": "扫一眼",
           "takeaway": "iPhone 18 Pro e 发布 / 上市相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
           "detail": "iPhone 18 Pro e 发布 / 上市相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        }
+      ]
+    },
+    {
+      "id": "launch",
+      "title": "新机与官方发布",
+      "hint": "能直接更新到参数库。",
+      "items": [
+        {
+          "id": "auto-cda0f6b5e57a",
+          "title": "Xiaomi 发布 / 上市相关消息",
+          "originalTitle": "",
+          "source": "Gizmochina",
+          "brand": "Xiaomi",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-08-23",
+          "time": "09:07",
+          "publishedAt": "2026-08-23T09:07:13.000Z",
+          "url": "https://www.gizmochina.com/2026/08/23/redmi-note-17-pro-pro-max-india-launch-date-leaked-9000mah-10000mah-batteries-tipped/",
+          "image": "https://www.gizmochina.com/wp-content/uploads/2026/08/videoframe_2716-300x169.png?x23692",
+          "verdict": "可略过",
+          "takeaway": "Xiaomi 有发布或新功能消息，适合确认是否和新机有关。",
+          "detail": "Xiaomi 发布 / 上市相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
           "keyPoints": [
             "爆料"
           ],
@@ -309,29 +385,6 @@ window.phoneRadarDaily = {
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         },
         {
-          "id": "newsnow-56a9b19d443f",
-          "title": "大家为什么都默认能卖爆？这手机目前的三大竞争对手是线上降价的mate80pro max、pura 90pro max以及9月新品mate90pro。",
-          "originalTitle": "",
-          "source": "酷安热榜",
-          "brand": "行业",
-          "type": "爆料",
-          "trust": "高关注爆料源",
-          "date": "2026-08-23",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://www.coolapk.com/feed/73378362",
-          "image": "",
-          "verdict": "扫一眼",
-          "takeaway": "大家为什么都默认能卖爆？这手机目前的三大竞争对手是线上降价的mate80pro max、pura 90pro max以及9月新品mate90pro。",
-          "detail": "大家为什么都默认能卖爆？这手机目前的三大竞争对手是线上降价的mate80pro max、pura 90pro max以及9月新品mate90pro。",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "影响购买预算，值得先看。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
-        {
           "id": "newsnow-66e619880549",
           "title": "小米能来一个华为Pura X View这种的吗？",
           "originalTitle": "",
@@ -352,6 +405,29 @@ window.phoneRadarDaily = {
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        },
+        {
+          "id": "newsnow-56a9b19d443f",
+          "title": "大家为什么都默认能卖爆？这手机目前的三大竞争对手是线上降价的mate80pro max、pura 90pro max以及9月新品mate90pro。",
+          "originalTitle": "",
+          "source": "酷安热榜",
+          "brand": "行业",
+          "type": "爆料",
+          "trust": "高关注爆料源",
+          "date": "2026-08-23",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://www.coolapk.com/feed/73378362",
+          "image": "",
+          "verdict": "扫一眼",
+          "takeaway": "大家为什么都默认能卖爆？这手机目前的三大竞争对手是线上降价的mate80pro max、pura 90pro max以及9月新品mate90pro。",
+          "detail": "大家为什么都默认能卖爆？这手机目前的三大竞争对手是线上降价的mate80pro max、pura 90pro max以及9月新品mate90pro。",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "影响购买预算，值得先看。",
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         },
         {

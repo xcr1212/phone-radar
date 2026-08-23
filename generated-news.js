@@ -1,6 +1,126 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-08-23T08:47:38.314Z",
+  "updatedAt": "2026-08-23T10:38:49.330Z",
   "news": [
+    {
+      "id": "coolapk-user-5834e1919620",
+      "title": "竹本青：【iPhone 17系列 中国区最新销量曝光：周增约52.58万台，累计超4057万台】 8月23日，博主「RD观…",
+      "source": "竹本青",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-08-23",
+      "time": "10:32",
+      "publishedAt": "2026-08-23T10:32:34.000Z",
+      "url": "https://www.coolapk.com/feed/73391026",
+      "image": "http://image.coolapk.com/feed/2026/0823/18/4248714_72804f21_1439_3214_482@2160x1796.jpg",
+      "summary": "【iPhone 17系列 中国区最新销量曝光：周增约52.58万台，累计超4057万台】 8月23日，博主「RD观测」发布第三方统计数据：截至2026年第33周，iPhone 17系列手机在中国市场累计销量约4057.16万台，周环比新增约52.58万台。 前几周数据如下： 截至 W32 —— 约4004.58万（周增50.33万） 截至 W31 —— 约…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-66aae7937afb",
+      "title": "Pixel 11 specs might disappoint, but Google got one crucial detail right",
+      "source": "Android Authority",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-23",
+      "time": "10:30",
+      "publishedAt": "2026-08-23T10:30:06.000Z",
+      "url": "https://www.androidauthority.com/pixel-11-pixelsnap-great-why-3699383/",
+      "image": "",
+      "summary": "Pixelsnap (thankfully) hasn't gone anywhere.",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-0f65cf2166bc",
+      "title": "Is this your first look at the Galaxy S27 Ultra’s design?",
+      "source": "SamMobile",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-23",
+      "time": "10:00",
+      "publishedAt": "2026-08-23T10:00:42.000Z",
+      "url": "https://www.sammobile.com/news/galaxy-s27-ultra-design-first-look/",
+      "image": "https://www.sammobile.com/wp-content/uploads/2026/08/Samsung-Galaxy-S27-Ultra-Design-AI-Render.jpg",
+      "summary": "After announcing the Galaxy S26 FE on August 27, Samsung's next high-end smartphone announcement will arrive in early 2027. The South Korean tech giant is expected to unveil four…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-a32aaa169a12",
+      "title": "Google’s foldable strategy is broken, and the Pixel 11 Pro Fold proves it",
+      "source": "Android Authority",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-23",
+      "time": "09:30",
+      "publishedAt": "2026-08-23T09:30:08.000Z",
+      "url": "https://www.androidauthority.com/google-foldable-strategy-broken-pixel-11-pro-fold-proves-3698972/",
+      "image": "",
+      "summary": "This Fold left me cold.",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-cda0f6b5e57a",
+      "title": "REDMI Note 17 Pro/Pro Max tipped to launch in India on September 15",
+      "source": "Gizmochina",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-23",
+      "time": "09:07",
+      "publishedAt": "2026-08-23T09:07:13.000Z",
+      "url": "https://www.gizmochina.com/2026/08/23/redmi-note-17-pro-pro-max-india-launch-date-leaked-9000mah-10000mah-batteries-tipped/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/08/videoframe_2716-300x169.png?x23692",
+      "summary": "REDMI is getting ready to drop its next mid-range Pro phones in India. According to industry insider Yogesh Brar, the REDMI Note 17 Pro and Note 17 Pro Max are set for an official…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-d1a311bc9b4c",
+      "title": "消息称华为 Mate 90 系列手机风驰版继续迭代，友商也会跟进",
+      "source": "IT之家",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-23",
+      "time": "08:50",
+      "publishedAt": "2026-08-23T08:50:16.000Z",
+      "url": "https://www.ithome.com/0/993/233.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/8/0f276408-9e95-4b46-a412-77b86f31a970.jpg?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 8 月 23 日消息，据博主 @智慧皮卡丘 消息，华为 Mate 90 系列手机风驰版继续迭代（预计为华为 Mate 90 Pro Max 风驰版），而且友商也会跟。 博主在评论区进一步表示，友商跟进的方式为“ 旗舰机上主动散热 ”。 ▲ IT之家开箱：华为 Mate 80 Pro Max 风驰版图赏 据IT之家此前报道， 华为 Mate 80…",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "coolapk-user-eee819ddb17e",
       "title": "竹本青：【400米决赛39.45秒，荣耀机器人闪电打破人类世界纪录】 荣耀公司今天宣布，在第二届世界人形机器人运动会，40…",
@@ -162,26 +282,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-f7bc410d6abe",
-      "title": "微软 Edge 浏览器移动版推出邀请好友得积分活动，一年最多可获 9 万 Rewards 积分",
-      "source": "IT之家",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-23",
-      "time": "01:42",
-      "publishedAt": "2026-08-23T01:42:48.000Z",
-      "url": "https://www.ithome.com/0/993/145.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/8/229c9f56-3a9e-4cd4-be2a-85101a28e883.jpg?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 8 月 23 日消息，只要邀请足够多的朋友使用 Microsoft Edge，你就可以通过 Microsoft Rewards 轻松兑换 Xbox Game Pass 或礼品卡。 微软推出了一项新的推广活动：用户在手机上使用 Edge，并通过专属推荐链接邀请朋友体验这款浏览器，就能获得 Microsoft Rewards 积分。根据测试，每成功邀…",
-      "tags": [
-        "行业",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "coolapk-user-f29f22dd3606",
       "title": "竹本青：荣耀机器人闪电打破400米田径项目人类世界纪录",
       "source": "竹本青",
@@ -262,26 +362,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-56a9b19d443f",
-      "title": "大家为什么都默认能卖爆？这手机目前的三大竞争对手是线上降价的mate80pro max、pura 90pro max以及9月新品mate90pro。",
-      "source": "酷安热榜",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-08-23",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73378362",
-      "image": "",
-      "summary": "大家为什么都默认能卖爆？这手机目前的三大竞争对手是线上降价的mate80pro max、pura 90pro max以及9月新品mate90pro。",
-      "tags": [
-        "行业",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
       "id": "newsnow-66e619880549",
       "title": "小米能来一个华为Pura X View这种的吗？",
       "source": "酷安热榜",
@@ -297,6 +377,26 @@ window.phoneRadarAuto = {
       "summary": "小米能来一个华为Pura X View这种的吗？",
       "tags": [
         "Huawei",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-56a9b19d443f",
+      "title": "大家为什么都默认能卖爆？这手机目前的三大竞争对手是线上降价的mate80pro max、pura 90pro max以及9月新品mate90pro。",
+      "source": "酷安热榜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-08-23",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/73378362",
+      "image": "",
+      "summary": "大家为什么都默认能卖爆？这手机目前的三大竞争对手是线上降价的mate80pro max、pura 90pro max以及9月新品mate90pro。",
+      "tags": [
+        "行业",
         "爆料",
         "NewsNow"
       ]
@@ -322,26 +422,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-00ad73c466fa",
-      "title": "华为首款阔直屏 #华为PuraXView# 就要发布了，大家觉得起售价会是多少呢？",
-      "source": "酷安热榜",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-08-23",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73361789",
-      "image": "",
-      "summary": "华为首款阔直屏 #华为PuraXView# 就要发布了，大家觉得起售价会是多少呢？",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
       "id": "newsnow-503126e64c74",
       "title": "华为真戒网瘾啊，打个王者都是生死局，不ge跟手，掉帧。不带手机壳，打把王者荣耀手机发热严重。我都清空后台关闭性能模式了，换x200ultra打王者机身就温热",
       "source": "酷安热榜",
@@ -362,6 +442,26 @@ window.phoneRadarAuto = {
       ]
     },
     {
+      "id": "newsnow-00ad73c466fa",
+      "title": "华为首款阔直屏 #华为PuraXView# 就要发布了，大家觉得起售价会是多少呢？",
+      "source": "酷安热榜",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-08-23",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/73361789",
+      "image": "",
+      "summary": "华为首款阔直屏 #华为PuraXView# 就要发布了，大家觉得起售价会是多少呢？",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
       "id": "newsnow-01e63087fff6",
       "title": "#数码日常# #鸿蒙NEXT# #酷工作# 喷了一辈子华为手机结果还是跑来华为上班了，以后不喷了[受虐滑稽]",
       "source": "酷安热榜",
@@ -377,26 +477,6 @@ window.phoneRadarAuto = {
       "summary": "#数码日常# #鸿蒙NEXT# #酷工作# 喷了一辈子华为手机结果还是跑来华为上班了，以后不喷了[受虐滑稽]",
       "tags": [
         "Huawei",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-1b15da88d412",
-      "title": "iPhone会涨价吗",
-      "source": "B站热搜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-23",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://search.bilibili.com/all?keyword=iPhone%E4%BC%9A%E6%B6%A8%E4%BB%B7%E5%90%97",
-      "image": "",
-      "summary": "iPhone会涨价吗",
-      "tags": [
-        "iPhone",
         "爆料",
         "NewsNow"
       ]
