@@ -1,6 +1,26 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-08-23T18:47:20.068Z",
+  "updatedAt": "2026-08-23T20:38:25.732Z",
   "news": [
+    {
+      "id": "auto-4b68c3b966df",
+      "title": "Hands-on: Mophie’s new battery banks offer pocketable power, built-in cables at low price",
+      "source": "9to5Mac",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-23",
+      "time": "20:27",
+      "publishedAt": "2026-08-23T20:27:08.000Z",
+      "url": "https://9to5mac.com/2026/08/23/mophie-new-pocketable-battery-banks-for-iphone/",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/Mophie-4-batteries.jpg?quality=82&strip=all&w=1600",
+      "summary": "Recently, Mophie debuted four new power banks for the iPhone. They slide nicely into your pocket, come in two finishes, offer built-in cables, and pack 5000mAh or 10000mAh of capa…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-ef071f43ab8e",
       "title": "Gurman: iPhone Ultra Wows Early Testers, Except for Its Camera",
@@ -542,8 +562,8 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-56a9b19d443f",
-      "title": "大家为什么都默认能卖爆？这手机目前的三大竞争对手是线上降价的mate80pro max、pura 90pro max以及9月新品mate90pro。",
+      "id": "newsnow-3c6ef0c46d2f",
+      "title": "还以为是假的，特地去翻下，结果居然是真的！！！不给二手保修是怎么想的？这以后要是其他手机厂商都跟进不得炸了[受虐滑稽]",
       "source": "酷安热榜",
       "brand": "行业",
       "model": "智能手机市场",
@@ -552,9 +572,9 @@ window.phoneRadarAuto = {
       "date": "2026-08-23",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73378362",
+      "url": "https://www.coolapk.com/feed/73384903",
       "image": "",
-      "summary": "大家为什么都默认能卖爆？这手机目前的三大竞争对手是线上降价的mate80pro max、pura 90pro max以及9月新品mate90pro。",
+      "summary": "还以为是假的，特地去翻下，结果居然是真的！！！不给二手保修是怎么想的？这以后要是其他手机厂商都跟进不得炸了[受虐滑稽]",
       "tags": [
         "行业",
         "爆料",
@@ -582,48 +602,8 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-503126e64c74",
-      "title": "华为真戒网瘾啊，打个王者都是生死局，不ge跟手，掉帧。不带手机壳，打把王者荣耀手机发热严重。我都清空后台关闭性能模式了，换x200ultra打王者机身就温热",
-      "source": "酷安热榜",
-      "brand": "HONOR",
-      "model": "HONOR 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-08-23",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73381812",
-      "image": "",
-      "summary": "华为真戒网瘾啊，打个王者都是生死局，不ge跟手，掉帧。不带手机壳，打把王者荣耀手机发热严重。我都清空后台关闭性能模式了，换x200ultra打王者机身就温热",
-      "tags": [
-        "HONOR",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-d9a48d151ff0",
-      "title": "[t耐克嘴][耐克嘴]红米k90至尊版上扬声器靠近红外发射器孔的那个孔难道是装饰的风味假孔?首先我就拿水冲一下怎么发现里面有白色的点一开始我还以为是灰尘呢然后我拿牙签一刮疯狂结果疯狂掉黑色的渣又冲水里面的渣感觉像是水溶性的油漆全部漂浮起来了水冲走了结果这个孔就变成白色了和手机边框一个颜色不是这啥意思而且这孔里面的质地和边框质地差不多而且碰着很硬感觉就是铝合金还有这个不是红外发射器也不是泄压孔这机型泄压孔只有一个在下方扬声器而且有防呆设计我这个没有防呆设计而且孔位特别浅很容易碰到底部而且底部特别硬上扬声器原版长p2这样有没有懂哥知道的目前防水还在因为我又下水了一次一点问题没有所以这个孔何意味风味假孔吗也不可能是麦克风这个机型双麦克风都有对应位置了已经排除红外-泄压孔-麦克风-扬声器了这个孔也不会发出声音因为其他孔进水放歌会碰水的这个孔毫无动静",
-      "source": "酷安热榜",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-08-23",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73360264",
-      "image": "",
-      "summary": "[t耐克嘴][耐克嘴]红米k90至尊版上扬声器靠近红外发射器孔的那个孔难道是装饰的风味假孔?首先我就拿水冲一下怎么发现里面有白色的点一开始我还以为是灰尘呢然后我拿牙签一刮疯狂结果疯狂掉黑色的渣又冲水里面的渣感觉像是水溶性的油漆全部漂浮起来了水冲走了结果这个孔就变成白色了和手机边框一个颜色不是这啥意思而且这孔里面的质地和边框质地差不多而且碰着很硬感觉就是铝合…",
-      "tags": [
-        "行业",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-00ad73c466fa",
-      "title": "华为首款阔直屏 #华为PuraXView# 就要发布了，大家觉得起售价会是多少呢？",
+      "id": "newsnow-ac247a18bc9a",
+      "title": "确定是9030s了[流汗滑稽][流汗滑稽]各位有没有价格爆料？拍照规格大概是pura90pro的主摄加nova16ultra的长焦吧#鸿蒙7# #华为PuraXMax#",
       "source": "酷安热榜",
       "brand": "Huawei",
       "model": "Huawei 相关机型",
@@ -632,11 +612,51 @@ window.phoneRadarAuto = {
       "date": "2026-08-23",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73361789",
+      "url": "https://www.coolapk.com/feed/73390616",
       "image": "",
-      "summary": "华为首款阔直屏 #华为PuraXView# 就要发布了，大家觉得起售价会是多少呢？",
+      "summary": "确定是9030s了[流汗滑稽][流汗滑稽]各位有没有价格爆料？拍照规格大概是pura90pro的主摄加nova16ultra的长焦吧#鸿蒙7# #华为PuraXMax#",
       "tags": [
         "Huawei",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-56a9b19d443f",
+      "title": "大家为什么都默认能卖爆？这手机目前的三大竞争对手是线上降价的mate80pro max、pura 90pro max以及9月新品mate90pro。",
+      "source": "酷安热榜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-08-23",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/73378362",
+      "image": "",
+      "summary": "大家为什么都默认能卖爆？这手机目前的三大竞争对手是线上降价的mate80pro max、pura 90pro max以及9月新品mate90pro。",
+      "tags": [
+        "行业",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-de35ec87c09e",
+      "title": "iphone信号并不差，实测下来其实是果子信号显示真实😂，地下车库一加15显示5g少一格(这个速度其实已经是4g了)，上行都跑不动，iphone显示4g跑出来也是和一加15差不多",
+      "source": "酷安热榜",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-08-23",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/73387590",
+      "image": "",
+      "summary": "iphone信号并不差，实测下来其实是果子信号显示真实😂，地下车库一加15显示5g少一格(这个速度其实已经是4g了)，上行都跑不动，iphone显示4g跑出来也是和一加15差不多",
+      "tags": [
+        "OPPO",
         "爆料",
         "NewsNow"
       ]
