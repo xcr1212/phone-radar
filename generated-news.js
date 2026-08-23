@@ -1,6 +1,66 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-08-23T04:51:10.899Z",
+  "updatedAt": "2026-08-23T07:00:05.638Z",
   "news": [
+    {
+      "id": "coolapk-user-c9424800388a",
+      "title": "竹本青：【玄戒家族全新成员，小米玄戒芯片技术沟通会官宣明日举行】 8月23日，小米公司宣布玄戒芯片家族迎来全新成员。明天1…",
+      "source": "竹本青",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-08-23",
+      "time": "06:15",
+      "publishedAt": "2026-08-23T06:15:18.000Z",
+      "url": "https://www.coolapk.com/feed/73387393",
+      "image": "http://image.coolapk.com/feed/2026/0823/14/4248714_62246ba2_5717_0473_694@1440x1920.jpg",
+      "summary": "【玄戒家族全新成员，小米玄戒芯片技术沟通会官宣明日举行】 8月23日，小米公司宣布玄戒芯片家族迎来全新成员。明天14点，玄戒芯片负责人朱丹，带来最新进展，将以图文直播的形式与大家见面。 本月18日，小米集团合伙人卢伟冰在财报电话会上透露，去年小米成功推出的玄戒O1芯片，在三款终端上的累计出货量已超过百万，实现了旗舰芯片规模化验证，全新一代小米玄戒芯片也即将…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-824d065307eb",
+      "title": "小米玄戒芯片技术沟通会明天见，时隔 459 天再迎全新成员",
+      "source": "IT之家",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-23",
+      "time": "06:07",
+      "publishedAt": "2026-08-23T06:07:57.000Z",
+      "url": "https://www.ithome.com/0/993/181.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/8/46c71ef0-ff51-488a-9f95-ff3a32e7aea2.png?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 8 月 23 日消息，小米手机今日官宣，小米玄戒芯片技术沟通会明天见： 2025 年 5 月 22 日，玄戒第一款旗舰处理器面世 时隔 459 天，芯片家族迎来全新成员 明天 14 点，小米玄戒芯片负责人朱丹，带来最新进展，将以图文直播的形式与大家见面，不见不散！ IT之家注意到，8 月 18 日，小米集团合伙人 / 总裁、手机部总裁、小米品牌总…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-d9ca1292988f",
+      "title": "华为 Pura X Max 系列手机 HarmonyOS 7.0.0.102SP8 升级不限量开放，新增 3D 空间壁纸等功能",
+      "source": "IT之家",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-23",
+      "time": "05:51",
+      "publishedAt": "2026-08-23T05:51:11.000Z",
+      "url": "https://www.ithome.com/0/993/180.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/8/dbf6c1c3-ef1b-4f4f-8f83-89890b238111.jpg",
+      "summary": "IT之家 8 月 23 日消息，华为官方昨晚宣布， HUAWEI Pura X Max 系列横向阔折叠手机的鸿蒙 HarmonyOS 7.0.0.100 SP10 → 7.0.0.102 SP8 版本 升级不限量开放 （升级方式：设置 > 搜索“软件更新”> 检查更新）。 IT之家附版本更新日志： 亮点推荐 1. 新增 3D 空间壁纸功能，通过照片中的元素…",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-29a56a2bc055",
       "title": "消息称某厂新机透明版设计回归，预计归属小米 18 系列",
@@ -43,7 +103,7 @@ window.phoneRadarAuto = {
     },
     {
       "id": "coolapk-user-f29f22dd3606",
-      "title": "竹本青：【400米田径跑出40.6秒，荣耀机器人闪电打破该项人类世界纪录】 8月22日晚间，在第二届世界人形机器人运动会4…",
+      "title": "竹本青：荣耀机器人闪电打破400米田径项目人类世界纪录",
       "source": "竹本青",
       "brand": "HONOR",
       "model": "HONOR 相关机型",
@@ -73,8 +133,8 @@ window.phoneRadarAuto = {
       "time": "00:07",
       "publishedAt": "2026-08-23T00:07:42.000Z",
       "url": "https://www.ithome.com/0/993/132.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/8/7398d147-66f3-48a1-a079-dcc47c0dc9ab.png",
-      "summary": "IT之家 8 月 23 日消息，长期关注国内手机市场份额的博主 @RD观测 今日分享了华为折叠屏手机首月销量情况：截至 2026 W32（IT之家注：8 月 3 日-8 月 9 日）， 华为 Pura X Max 约 34.46 万台、Pura X Max 典藏版约 36.88 万台 。 从数据来看，华为 Pura X Max 系列横向阔折叠手机的总销量已…",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/8/7398d147-66f3-48a1-a079-dcc47c0dc9ab.png?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 8 月 23 日消息，长期关注国内手机市场份额的博主 @RD观测 分享了华为折叠屏手机首月销量情况：截至 2026 W32（IT之家注：8 月 3 日-8 月 9 日）， 华为 Pura X Max 约 34.46 万台、Pura X Max 典藏版约 36.88 万台 。 从数据来看，华为 Pura X Max 系列横向阔折叠手机的总销量已突破…",
       "tags": [
         "Huawei",
         "爆料",
@@ -142,26 +202,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-d9a48d151ff0",
-      "title": "[t耐克嘴][耐克嘴]红米k90至尊版上扬声器靠近红外发射器孔的那个孔难道是装饰的风味假孔?首先我就拿水冲一下怎么发现里面有白色的点一开始我还以为是灰尘呢然后我拿牙签一刮疯狂结果疯狂掉黑色的渣又冲水里面的渣感觉像是水溶性的油漆全部漂浮起来了水冲走了结果这个孔就变成白色了和手机边框一个颜色不是这啥意思而且这孔里面的质地和边框质地差不多而且碰着很硬感觉就是铝合金还有这个不是红外发射器也不是泄压孔这机型泄压孔只有一个在下方扬声器而且有防呆设计我这个没有防呆设计而且孔位特别浅很容易碰到底部而且底部特别硬上扬声器原版长p2这样有没有懂哥知道的目前防水还在因为我又下水了一次一点问题没有所以这个孔何意味风味假孔吗也不可能是麦克风这个机型双麦克风都有对应位置了已经排除红外-泄压孔-麦克风-扬声器了这个孔也不会发出声音因为其他孔进水放歌会碰水的这个孔毫无动静",
-      "source": "酷安热榜",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-08-23",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73360264",
-      "image": "",
-      "summary": "[t耐克嘴][耐克嘴]红米k90至尊版上扬声器靠近红外发射器孔的那个孔难道是装饰的风味假孔?首先我就拿水冲一下怎么发现里面有白色的点一开始我还以为是灰尘呢然后我拿牙签一刮疯狂结果疯狂掉黑色的渣又冲水里面的渣感觉像是水溶性的油漆全部漂浮起来了水冲走了结果这个孔就变成白色了和手机边框一个颜色不是这啥意思而且这孔里面的质地和边框质地差不多而且碰着很硬感觉就是铝合…",
-      "tags": [
-        "行业",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
       "id": "newsnow-56a9b19d443f",
       "title": "大家为什么都默认能卖爆？这手机目前的三大竞争对手是线上降价的mate80pro max、pura 90pro max以及9月新品mate90pro。",
       "source": "酷安热榜",
@@ -175,6 +215,26 @@ window.phoneRadarAuto = {
       "url": "https://www.coolapk.com/feed/73378362",
       "image": "",
       "summary": "大家为什么都默认能卖爆？这手机目前的三大竞争对手是线上降价的mate80pro max、pura 90pro max以及9月新品mate90pro。",
+      "tags": [
+        "行业",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-d9a48d151ff0",
+      "title": "[t耐克嘴][耐克嘴]红米k90至尊版上扬声器靠近红外发射器孔的那个孔难道是装饰的风味假孔?首先我就拿水冲一下怎么发现里面有白色的点一开始我还以为是灰尘呢然后我拿牙签一刮疯狂结果疯狂掉黑色的渣又冲水里面的渣感觉像是水溶性的油漆全部漂浮起来了水冲走了结果这个孔就变成白色了和手机边框一个颜色不是这啥意思而且这孔里面的质地和边框质地差不多而且碰着很硬感觉就是铝合金还有这个不是红外发射器也不是泄压孔这机型泄压孔只有一个在下方扬声器而且有防呆设计我这个没有防呆设计而且孔位特别浅很容易碰到底部而且底部特别硬上扬声器原版长p2这样有没有懂哥知道的目前防水还在因为我又下水了一次一点问题没有所以这个孔何意味风味假孔吗也不可能是麦克风这个机型双麦克风都有对应位置了已经排除红外-泄压孔-麦克风-扬声器了这个孔也不会发出声音因为其他孔进水放歌会碰水的这个孔毫无动静",
+      "source": "酷安热榜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-08-23",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/73360264",
+      "image": "",
+      "summary": "[t耐克嘴][耐克嘴]红米k90至尊版上扬声器靠近红外发射器孔的那个孔难道是装饰的风味假孔?首先我就拿水冲一下怎么发现里面有白色的点一开始我还以为是灰尘呢然后我拿牙签一刮疯狂结果疯狂掉黑色的渣又冲水里面的渣感觉像是水溶性的油漆全部漂浮起来了水冲走了结果这个孔就变成白色了和手机边框一个颜色不是这啥意思而且这孔里面的质地和边框质地差不多而且碰着很硬感觉就是铝合…",
       "tags": [
         "行业",
         "爆料",
@@ -197,6 +257,46 @@ window.phoneRadarAuto = {
       "summary": "华为首款阔直屏 #华为PuraXView# 就要发布了，大家觉得起售价会是多少呢？",
       "tags": [
         "Huawei",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-66e619880549",
+      "title": "小米能来一个华为Pura X View这种的吗？",
+      "source": "酷安热榜",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-08-23",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/73382841",
+      "image": "",
+      "summary": "小米能来一个华为Pura X View这种的吗？",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-503126e64c74",
+      "title": "华为真戒网瘾啊，打个王者都是生死局，不ge跟手，掉帧。不带手机壳，打把王者荣耀手机发热严重。我都清空后台关闭性能模式了，换x200ultra打王者机身就温热",
+      "source": "酷安热榜",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-08-23",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/73381812",
+      "image": "",
+      "summary": "华为真戒网瘾啊，打个王者都是生死局，不ge跟手，掉帧。不带手机壳，打把王者荣耀手机发热严重。我都清空后台关闭性能模式了，换x200ultra打王者机身就温热",
+      "tags": [
+        "HONOR",
         "爆料",
         "NewsNow"
       ]
@@ -242,6 +342,46 @@ window.phoneRadarAuto = {
       ]
     },
     {
+      "id": "newsnow-94fcea9143cc",
+      "title": "两男子飞车抢手机2小时后落网",
+      "source": "今日头条热榜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-23",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.toutiao.com/trending/7676674496669483062/",
+      "image": "",
+      "summary": "两男子飞车抢手机2小时后落网",
+      "tags": [
+        "行业",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-6f8cc551f326",
+      "title": "华为Pura X Max销量突破71万台",
+      "source": "今日头条热榜",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-23",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.toutiao.com/trending/7676456915718717483/",
+      "image": "",
+      "summary": "华为Pura X Max销量突破71万台",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
       "id": "auto-19c10526be6b",
       "title": "Google’s new Pixel 11 offers an incredible camera feature that Apple should copy",
       "source": "9to5Mac",
@@ -275,26 +415,6 @@ window.phoneRadarAuto = {
       "url": "https://9to5mac.com/2026/08/22/iphone-18-pro-event-date-when-announcement/",
       "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/iphone-18-pro-concept.jpg?quality=82&strip=all&w=1600",
       "summary": "When should we expect the iPhone 18 Pro event, and when will Apple officially announce the date? Apple hasn’t sent invitations yet, but its announcement history gives us a remarka…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-9a13172cc535",
-      "title": "印度少年为买新款苹果 iPhone 威胁父母跳崖，最终三人接连坠崖身亡",
-      "source": "IT之家",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-22",
-      "time": "16:15",
-      "publishedAt": "2026-08-22T16:15:27.000Z",
-      "url": "https://www.ithome.com/0/993/119.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/8/632401c2-80da-48a7-8fcc-eb85a6f6fa5b.jpg",
-      "summary": "IT之家 8 月 23 日消息，当地时间 8 月 21 日，印度马哈拉施特拉邦钱德拉普尔地区发生一起悲剧事件。 据当地警方通报，一名青年男子因购买手机的问题与父母发生争执，然后前往当地的 Khavdya Dongar 山，并站在悬崖边试图轻生，以此威胁父母。 家人、村民、警方和消防人员持续劝阻约 3 小时未果，最终男子还是坠崖，父亲在试图施救时一同坠下，母…",
       "tags": [
         "iPhone",
         "爆料",
@@ -383,7 +503,7 @@ window.phoneRadarAuto = {
     },
     {
       "id": "coolapk-user-f9a7771d69b5",
-      "title": "竹本青：【荣耀Play11 Pro 现已开售：天玑6500 Elite处理器，7000mAh电池，首发1899元起】 8+…",
+      "title": "竹本青：荣耀Play11 Pro 开售：首发1899元起",
       "source": "竹本青",
       "brand": "HONOR",
       "model": "HONOR 相关机型",
@@ -443,7 +563,7 @@ window.phoneRadarAuto = {
     },
     {
       "id": "coolapk-user-3180f0bf44e1",
-      "title": "JSCHEN小小狐：『消息称 OPPO 小屏机项目暂停：让位阔直板』 知名数码博主 数码闲聊站 今日爆料称，随着旗下阔屏直板机的定版测…",
+      "title": "JSCHEN小小狐：消息称 OPPO 小屏机项目暂停：让位阔直板",
       "source": "JSCHEN小小狐",
       "brand": "OPPO",
       "model": "OPPO 相关机型",
