@@ -1,13 +1,13 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-08-23T01:58:30.422Z",
+  "updatedAt": "2026-08-23T03:14:19.991Z",
   "issueDate": "2026-08-23",
   "issue": "VOL.260823",
   "title": "手机情报日报",
-  "intro": "今日筛出 17 条重点，其中 5 条是重点爆料，包含 5 条 iPhone 相关、1 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 18 条重点，其中 6 条是重点爆料，包含 5 条 iPhone 相关、1 条官方确认、0 条参数线索。",
   "stats": {
-    "total": 17,
+    "total": 18,
     "iphone": 5,
-    "leaks": 5,
+    "leaks": 6,
     "official": 1,
     "specs": 0
   },
@@ -17,6 +17,29 @@ window.phoneRadarDaily = {
       "title": "重点爆料",
       "hint": "机模、配色、影像、屏幕、电池和芯片线索先看。",
       "items": [
+        {
+          "id": "auto-29a56a2bc055",
+          "title": "消息称某厂新机透明版设计回归，预计归属小米 18 系列",
+          "originalTitle": "",
+          "source": "IT之家",
+          "brand": "Xiaomi",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-08-23",
+          "time": "02:59",
+          "publishedAt": "2026-08-23T02:59:57.000Z",
+          "url": "https://www.ithome.com/0/993/157.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/8/66602d2a-7e5c-41ef-a0fa-80005d08f6a1.png?x-bce-process=image/format,f_auto",
+          "verdict": "先看",
+          "takeaway": "IT之家 8 月 23 日消息，博主 @数码闲聊站 昨日发文透露，某厂新机透明版设计将回归。根据评论区网友讨论来看， 预计归属小米 18 系列 。 有网友询问什么时候回归小 R 角设计，博主回复称：“ 不流行小 R 角了。 ”还有网友希望升降摄像头设计回归，博主表示：“ 机械结构很难回归啊。 ” 据IT之家此前报道， 型号为 M154FF 的小米新机已通过…",
+          "detail": "IT之家 8 月 23 日消息，博主 @数码闲聊站 昨日发文透露，某厂新机透明版设计将回归。根据评论区网友讨论来看， 预计归属小米 18 系列 。 有网友询问什么时候回归小 R 角设计，博主回复称：“ 不流行小 R 角了。 ”还有网友希望升降摄像头设计回归，博主表示：“ 机械结构很难回归啊。 ” 据IT之家此前报道， 型号为 M154FF 的小米新机已通过…",
+          "keyPoints": [
+            "爆料来源"
+          ],
+          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
         {
           "id": "auto-bfc5f8942172",
           "title": "消息称华为 Pura X Max 系列横阔折手机销量破 70 万台，标准版与典藏版差距明显缩小",
@@ -296,29 +319,6 @@ window.phoneRadarDaily = {
       "hint": "看方向，不急着当购买依据。",
       "items": [
         {
-          "id": "newsnow-592563d9f80e",
-          "title": "#HyperOS4# #数码日常# #HyperOS# 真恶心啊，二手拒保，但凡正经点的手机厂华为oppovivo苹果三星会这样吗？SN码是赤石的？",
-          "originalTitle": "",
-          "source": "酷安热榜",
-          "brand": "Huawei",
-          "type": "爆料",
-          "trust": "高关注爆料源",
-          "date": "2026-08-23",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://www.coolapk.com/feed/73365659",
-          "image": "",
-          "verdict": "先看",
-          "takeaway": "#HyperOS4# #数码日常# #HyperOS# 真恶心啊，二手拒保，但凡正经点的手机厂华为oppovivo苹果三星会这样吗？SN码是赤石的？",
-          "detail": "#HyperOS4# #数码日常# #HyperOS# 真恶心啊，二手拒保，但凡正经点的手机厂华为oppovivo苹果三星会这样吗？SN码是赤石的？",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
-        {
           "id": "newsnow-1ba06aa22037",
           "title": "[嘿哈]酷友们，给女朋友高考完的弟弟送手机，选nova15U还是荣耀winrt好呀。或者有没有同价位其他选择推荐，不限牌子[微笑]。",
           "originalTitle": "",
@@ -365,6 +365,29 @@ window.phoneRadarDaily = {
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         },
         {
+          "id": "newsnow-56a9b19d443f",
+          "title": "大家为什么都默认能卖爆？这手机目前的三大竞争对手是线上降价的mate80pro max、pura 90pro max以及9月新品mate90pro。",
+          "originalTitle": "",
+          "source": "酷安热榜",
+          "brand": "行业",
+          "type": "爆料",
+          "trust": "高关注爆料源",
+          "date": "2026-08-23",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://www.coolapk.com/feed/73378362",
+          "image": "",
+          "verdict": "扫一眼",
+          "takeaway": "大家为什么都默认能卖爆？这手机目前的三大竞争对手是线上降价的mate80pro max、pura 90pro max以及9月新品mate90pro。",
+          "detail": "大家为什么都默认能卖爆？这手机目前的三大竞争对手是线上降价的mate80pro max、pura 90pro max以及9月新品mate90pro。",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "影响购买预算，值得先看。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        },
+        {
           "id": "coolapk-user-f29f22dd3606",
           "title": "竹本青：【400米田径跑出40.6秒，荣耀机器人闪电打破该项人类世界纪录】 8月22日晚间，在第二届世界人形机器人运动会4…",
           "originalTitle": "",
@@ -384,6 +407,29 @@ window.phoneRadarDaily = {
             "爆料"
           ],
           "confidence": "可信度较高，但仍属于发布前线索。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        },
+        {
+          "id": "newsnow-b4afe5b7cc25",
+          "title": "某些人能不能别意淫了。就Pura90标准版这垃圾都能4699起售，xv可能4999起售吗。估价也长点脑子别张口就来",
+          "originalTitle": "",
+          "source": "酷安热榜",
+          "brand": "行业",
+          "type": "爆料",
+          "trust": "高关注爆料源",
+          "date": "2026-08-23",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://www.coolapk.com/feed/73382770",
+          "image": "",
+          "verdict": "可略过",
+          "takeaway": "某些人能不能别意淫了。就Pura90标准版这垃圾都能4699起售，xv可能4999起售吗。估价也长点脑子别张口就来",
+          "detail": "某些人能不能别意淫了。就Pura90标准版这垃圾都能4699起售，xv可能4999起售吗。估价也长点脑子别张口就来",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         },
@@ -408,30 +454,6 @@ window.phoneRadarDaily = {
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "影响拍照体验，买旗舰机时值得关注。",
-          "action": "有具体参数就记录到参数库；没有参数就先收藏。"
-        },
-        {
-          "id": "auto-5f3c2301e988",
-          "title": "Pixel 11 电池 / 充电相关消息",
-          "originalTitle": "",
-          "source": "Android Police",
-          "brand": "Pixel",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-08-22",
-          "time": "15:30",
-          "publishedAt": "2026-08-22T15:30:10.000Z",
-          "url": "https://www.androidpolice.com/i-expected-bigger-pixel-11-battery-google-betting-chip-runs-hot/",
-          "image": "",
-          "verdict": "可略过",
-          "takeaway": "Pixel 芯片或连接能力相关线索，可能影响性能和续航判断。",
-          "detail": "Pixel 11 电池 / 充电相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
-          "keyPoints": [
-            "电池 / 充电",
-            "芯片 / 性能"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "影响性能和寿命判断，适合放进参数库。",
           "action": "有具体参数就记录到参数库；没有参数就先收藏。"
         }
       ]
