@@ -1,6 +1,86 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-08-23T10:38:49.330Z",
+  "updatedAt": "2026-08-23T13:00:47.939Z",
   "news": [
+    {
+      "id": "auto-3570e4bb785f",
+      "title": "iQOO Z11 vs Realme 16x 5G: Which Phone Offers Better Value?",
+      "source": "Gizmochina",
+      "brand": "vivo",
+      "model": "vivo 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-23",
+      "time": "12:52",
+      "publishedAt": "2026-08-23T12:52:26.000Z",
+      "url": "https://www.gizmochina.com/2026/08/23/iqoo-z11-vs-realme-16x-5g/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/08/image-88-300x192.png?x23692",
+      "summary": "iQOO Z11 and Realme 16x 5G take different approaches to the mid-range smartphone segment. While both offer 144Hz displays, large batteries and 5G connectivity, the iQOO Z11 pushes…",
+      "tags": [
+        "vivo",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-940fa67a90d7",
+      "title": "竹本青：最近看阿甘视频种草了一个吹风机，小米米家h501se，夕夕叠劵后也就85-100左右 之前一直用的是，随便买的最普…",
+      "source": "竹本青",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-08-23",
+      "time": "12:14",
+      "publishedAt": "2026-08-23T12:14:10.000Z",
+      "url": "https://www.coolapk.com/feed/73392408",
+      "image": "http://image.coolapk.com/feed/2026/0823/20/4248714_5741aa66_7249_0242_710@3325x2494.jpg",
+      "summary": "最近看阿甘视频种草了一个吹风机，小米米家h501se，夕夕叠劵后也就85-100左右 之前一直用的是，随便买的最普通几十块钱那种，对比之下，小米这个高速确实吹着声音小多了，风力挺大，而且后面灯板显色做的不错，不同模式对应不同颜色，很直观，也有冷热混合模式 还不错，也推荐给其他网友 #最近买过# #好物安利#",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-650a8f91469b",
+      "title": "2 分 30 秒完赛，荣耀机器人“闪电”打破 1500 米人类世界纪录",
+      "source": "IT之家",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-23",
+      "time": "11:44",
+      "publishedAt": "2026-08-23T11:44:22.000Z",
+      "url": "https://www.ithome.com/0/993/262.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/8/1beb7ca0-9c32-4043-b7f0-a5865121eb60.jpg?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 8 月 23 日消息，今天（23 日）晚间，荣耀手机官微宣布，在第二届世界人形机器人运动会 1500 米大型组项目决赛中，荣耀机器人“闪电” 以 2 分 30 秒的成绩完赛 ，打破 1500 米人类世界纪录。 值得一提的是，在本届运动会 400 米大型组田径项目中，荣耀机器人闪电以 40.6 秒的惊人成绩 冲线，打破该项人类世界纪录。 综合IT之…",
+      "tags": [
+        "HONOR",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-42fbf217e140",
+      "title": "竹本青：【2分30秒完赛，荣耀机器人闪电打破1500米人类世界纪录】 荣耀公司刚刚宣布，在第二届世界人形机器人运动会，15…",
+      "source": "竹本青",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-08-23",
+      "time": "11:37",
+      "publishedAt": "2026-08-23T11:37:07.000Z",
+      "url": "https://www.coolapk.com/feed/73391941",
+      "image": "http://image.coolapk.com/feed/2026/0823/19/4248714_a1dbf8a2_5026_7963_318@2160x3840.jpg",
+      "summary": "【2分30秒完赛，荣耀机器人闪电打破1500米人类世界纪录】 荣耀公司刚刚宣布，在第二届世界人形机器人运动会，1500米大型组项目决赛中，旗下机器人闪电以2分30秒的成绩完赛，打破1500米人类世界纪录。 #今日热点# #机器人# #荣耀#",
+      "tags": [
+        "HONOR",
+        "爆料",
+        "酷安博主"
+      ]
+    },
     {
       "id": "coolapk-user-5834e1919620",
       "title": "竹本青：【iPhone 17系列 中国区最新销量曝光：周增约52.58万台，累计超4057万台】 8月23日，博主「RD观…",
@@ -262,46 +342,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-29a56a2bc055",
-      "title": "消息称某厂新机透明版设计回归，预计归属小米 18 系列",
-      "source": "IT之家",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-23",
-      "time": "02:59",
-      "publishedAt": "2026-08-23T02:59:57.000Z",
-      "url": "https://www.ithome.com/0/993/157.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/8/66602d2a-7e5c-41ef-a0fa-80005d08f6a1.png?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 8 月 23 日消息，博主 @数码闲聊站 昨日发文透露，某厂新机透明版设计将回归。根据评论区网友讨论来看， 预计归属小米 18 系列 。 有网友询问什么时候回归小 R 角设计，博主回复称：“ 不流行小 R 角了。 ”还有网友希望升降摄像头设计回归，博主表示：“ 机械结构很难回归啊。 ” 据IT之家此前报道， 型号为 M154FF 的小米新机已通过…",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "coolapk-user-f29f22dd3606",
-      "title": "竹本青：荣耀机器人闪电打破400米田径项目人类世界纪录",
-      "source": "竹本青",
-      "brand": "HONOR",
-      "model": "HONOR 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-08-23",
-      "time": "01:22",
-      "publishedAt": "2026-08-23T01:22:12.000Z",
-      "url": "https://www.coolapk.com/feed/73383614",
-      "image": "http://image.coolapk.com/feed/2026/0823/09/4248714_fb5c640d_8131_3937_147@2160x3840.jpg",
-      "summary": "【400米田径跑出40.6秒，荣耀机器人闪电打破该项人类世界纪录】 8月22日晚间，在第二届世界人形机器人运动会400米大型组田径项目中，荣耀机器人闪电以40.6秒冲线，打破该项人类世界纪录。 8月22日午间，同样在第二届世界人形机器人运动会，备赛环节中，荣耀旗下自研机器人闪电，以总成绩9.32s，打破人类百米纪录。 #今日热点# #机器人# #荣耀#",
-      "tags": [
-        "HONOR",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
       "id": "auto-9bbf43c61c96",
       "title": "Apple announces changes to iOS in Brazil",
       "source": "Apple Newsroom",
@@ -319,166 +359,6 @@ window.phoneRadarAuto = {
         "iPhone",
         "官方",
         "自动抓取"
-      ]
-    },
-    {
-      "id": "newsnow-8d917b3a70b9",
-      "title": "把「闪念胶囊」（Almost）放到 iPhone 锁屏",
-      "source": "少数派热榜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "评测",
-      "trust": "媒体汇总",
-      "date": "2026-08-23",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://sspai.com/post/113219",
-      "image": "",
-      "summary": "把「闪念胶囊」（Almost）放到 iPhone 锁屏",
-      "tags": [
-        "iPhone",
-        "评测",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-6742403f4b02",
-      "title": "我，与「唯一」的 iPhone Air",
-      "source": "少数派热榜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "评测",
-      "trust": "媒体汇总",
-      "date": "2026-08-23",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://sspai.com/post/112880",
-      "image": "",
-      "summary": "我，与「唯一」的 iPhone Air",
-      "tags": [
-        "iPhone",
-        "评测",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-66e619880549",
-      "title": "小米能来一个华为Pura X View这种的吗？",
-      "source": "酷安热榜",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-08-23",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73382841",
-      "image": "",
-      "summary": "小米能来一个华为Pura X View这种的吗？",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-56a9b19d443f",
-      "title": "大家为什么都默认能卖爆？这手机目前的三大竞争对手是线上降价的mate80pro max、pura 90pro max以及9月新品mate90pro。",
-      "source": "酷安热榜",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-08-23",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73378362",
-      "image": "",
-      "summary": "大家为什么都默认能卖爆？这手机目前的三大竞争对手是线上降价的mate80pro max、pura 90pro max以及9月新品mate90pro。",
-      "tags": [
-        "行业",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-d9a48d151ff0",
-      "title": "[t耐克嘴][耐克嘴]红米k90至尊版上扬声器靠近红外发射器孔的那个孔难道是装饰的风味假孔?首先我就拿水冲一下怎么发现里面有白色的点一开始我还以为是灰尘呢然后我拿牙签一刮疯狂结果疯狂掉黑色的渣又冲水里面的渣感觉像是水溶性的油漆全部漂浮起来了水冲走了结果这个孔就变成白色了和手机边框一个颜色不是这啥意思而且这孔里面的质地和边框质地差不多而且碰着很硬感觉就是铝合金还有这个不是红外发射器也不是泄压孔这机型泄压孔只有一个在下方扬声器而且有防呆设计我这个没有防呆设计而且孔位特别浅很容易碰到底部而且底部特别硬上扬声器原版长p2这样有没有懂哥知道的目前防水还在因为我又下水了一次一点问题没有所以这个孔何意味风味假孔吗也不可能是麦克风这个机型双麦克风都有对应位置了已经排除红外-泄压孔-麦克风-扬声器了这个孔也不会发出声音因为其他孔进水放歌会碰水的这个孔毫无动静",
-      "source": "酷安热榜",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-08-23",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73360264",
-      "image": "",
-      "summary": "[t耐克嘴][耐克嘴]红米k90至尊版上扬声器靠近红外发射器孔的那个孔难道是装饰的风味假孔?首先我就拿水冲一下怎么发现里面有白色的点一开始我还以为是灰尘呢然后我拿牙签一刮疯狂结果疯狂掉黑色的渣又冲水里面的渣感觉像是水溶性的油漆全部漂浮起来了水冲走了结果这个孔就变成白色了和手机边框一个颜色不是这啥意思而且这孔里面的质地和边框质地差不多而且碰着很硬感觉就是铝合…",
-      "tags": [
-        "行业",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-503126e64c74",
-      "title": "华为真戒网瘾啊，打个王者都是生死局，不ge跟手，掉帧。不带手机壳，打把王者荣耀手机发热严重。我都清空后台关闭性能模式了，换x200ultra打王者机身就温热",
-      "source": "酷安热榜",
-      "brand": "HONOR",
-      "model": "HONOR 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-08-23",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73381812",
-      "image": "",
-      "summary": "华为真戒网瘾啊，打个王者都是生死局，不ge跟手，掉帧。不带手机壳，打把王者荣耀手机发热严重。我都清空后台关闭性能模式了，换x200ultra打王者机身就温热",
-      "tags": [
-        "HONOR",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-00ad73c466fa",
-      "title": "华为首款阔直屏 #华为PuraXView# 就要发布了，大家觉得起售价会是多少呢？",
-      "source": "酷安热榜",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-08-23",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73361789",
-      "image": "",
-      "summary": "华为首款阔直屏 #华为PuraXView# 就要发布了，大家觉得起售价会是多少呢？",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-01e63087fff6",
-      "title": "#数码日常# #鸿蒙NEXT# #酷工作# 喷了一辈子华为手机结果还是跑来华为上班了，以后不喷了[受虐滑稽]",
-      "source": "酷安热榜",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-08-23",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73385197",
-      "image": "",
-      "summary": "#数码日常# #鸿蒙NEXT# #酷工作# 喷了一辈子华为手机结果还是跑来华为上班了，以后不喷了[受虐滑稽]",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "NewsNow"
       ]
     },
     {
@@ -517,66 +397,6 @@ window.phoneRadarAuto = {
       "summary": "When should we expect the iPhone 18 Pro event, and when will Apple officially announce the date? Apple hasn’t sent invitations yet, but its announcement history gives us a remarka…",
       "tags": [
         "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-5f3c2301e988",
-      "title": "I expected a bigger Pixel 11 battery, but Google is betting on a chip that historically runs hot",
-      "source": "Android Police",
-      "brand": "Pixel",
-      "model": "Pixel 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-22",
-      "time": "15:30",
-      "publishedAt": "2026-08-22T15:30:10.000Z",
-      "url": "https://www.androidpolice.com/i-expected-bigger-pixel-11-battery-google-betting-chip-runs-hot/",
-      "image": "",
-      "summary": "Google is asking a lot from the Tensor G6",
-      "tags": [
-        "Pixel",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-3b196efe61e4",
-      "title": "I gave up my Pixel 10 Pro for the Galaxy Z Fold 8; I already regret losing this feature",
-      "source": "Android Police",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-22",
-      "time": "15:15",
-      "publishedAt": "2026-08-22T15:15:10.000Z",
-      "url": "https://www.androidpolice.com/i-stopped-using-the-pixel-10-pro-this-week-and-i-miss-this-feature/",
-      "image": "",
-      "summary": "The Galaxy Z Fold 8 has a lot going for it, but it lacks in one key area",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-13d048321637",
-      "title": "I tested the Pixel 11 Pro and Galaxy S26 Ultra's cameras at a car meet. I could barely split them",
-      "source": "Android Police",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-22",
-      "time": "15:00",
-      "publishedAt": "2026-08-22T15:00:10.000Z",
-      "url": "https://www.androidpolice.com/google-pixel-11-pro-vs-samsung-galaxy-s26-ultra-camera-comparison/",
-      "image": "",
-      "summary": "Can the Galaxy S26 Ultra hold off Google's latest when put to the test?",
-      "tags": [
-        "Samsung",
         "爆料",
         "自动抓取"
       ]
