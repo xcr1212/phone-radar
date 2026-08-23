@@ -1,6 +1,106 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-08-23T14:37:47.438Z",
+  "updatedAt": "2026-08-23T16:42:02.381Z",
   "news": [
+    {
+      "id": "auto-a74c37fa0a15",
+      "title": "Galaxy S27 Ultra’s latest renders spark criticism over wild redesign",
+      "source": "Gizmochina",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-23",
+      "time": "15:29",
+      "publishedAt": "2026-08-23T15:29:01.000Z",
+      "url": "https://www.gizmochina.com/2026/08/23/galaxy-s27-ultras-latest-renders-spark-criticism-over-wild-redesign/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/08/HQYhOe4bUAASjW6-300x169.jpg?x23692",
+      "summary": "The Galaxy S27 Ultra has been widely rumored to include one less camera on the back. The 3x telephoto seems to be on the chopping block. A shift in the camera layout is also inevi…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-8cea1ff42196",
+      "title": "古尔曼：iPhone 18 系列计划涨价，苹果将自行消化一部分成本",
+      "source": "IT之家",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-23",
+      "time": "15:00",
+      "publishedAt": "2026-08-23T15:00:38.000Z",
+      "url": "https://www.ithome.com/0/993/312.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/7/df5ddeb5-c1b1-48b0-bac7-5bedd1b8368f.jpg?x-bce-process=image/format,f_auto/auto-orient,o_1",
+      "summary": "IT之家 8 月 23 日消息，彭博社记者马克 · 古尔曼今天（23 日）晚间更新《Power On》时事通讯称，苹果即将用首款折叠屏 iPhone 重新找回久违的产品新鲜感。同时，公司正在考虑上调下个月发布的新款 iPhone 18 系列售价。 古尔曼表示，继三星和谷歌之后，苹果 也准备上调 iPhone 价格 。两个月前，苹果已经几乎全面提高了 iPh…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-35221b5d5f19",
+      "title": "消息称苹果外部已有人体验过折叠屏 iPhone：屏幕铰链评价积极，但缺少长焦镜头",
+      "source": "IT之家",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-23",
+      "time": "14:55",
+      "publishedAt": "2026-08-23T14:55:30.000Z",
+      "url": "https://www.ithome.com/0/993/311.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/8/37f598f2-8fc7-4c1e-b8a7-89dfd24a3a81.jpg",
+      "summary": "IT之家 8 月 23 日消息，彭博社记者马克 · 古尔曼在最新一期《Power On》通讯中透露，他已经与多位体验过苹果折叠屏 iPhone 手机的外部人士交流。 这款手机预计将于下个月和大众见面 ，外界普遍认为其名为 iPhone Ultra。 古尔曼表示，这些体验过 iPhone Ultra 的人都认为该机存在不少亮点。据他所述，这款手机折叠后比较厚…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-c176fb00ec74",
+      "title": "Two weeks with the Samsung Galaxy Z Flip 8 almost made me forget about the Motorola Razr",
+      "source": "Android Central",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-08-23",
+      "time": "14:49",
+      "publishedAt": "2026-08-23T14:49:00.000Z",
+      "url": "https://www.androidcentral.com/phones/samsung-galaxy/samsung-galaxy-z-flip-8-review",
+      "image": "https://cdn.mos.cms.futurecdn.net/owVr8h6uxmDFqdzShrtzRb-1280-80.jpg",
+      "summary": "The Galaxy Z Flip 8 doesn't get a ton of upgrades, but the few changes it does get make it a better flip phone than I expected. But for $1,200?",
+      "tags": [
+        "Samsung",
+        "评测",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-2a245c055027",
+      "title": "Here’s what people who have used the iPhone Ultra like most",
+      "source": "9to5Mac",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-23",
+      "time": "14:41",
+      "publishedAt": "2026-08-23T14:41:50.000Z",
+      "url": "https://9to5mac.com/2026/08/23/heres-what-people-who-have-used-the-iphone-ultra-like-most/",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/iphone-ultra-concept-orange.jpg?quality=82&strip=all&w=1600",
+      "summary": "We’re just a few weeks away from the rumored launch of the foldable iPhone Ultra. As we’ve written before , excitement for the device is mounting. A new report from Bloomberg toda…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-7abee1860169",
       "title": "Galaxy S27’s Exynos 2700 could outpace Snapdragon in speed and efficiency",
@@ -302,26 +402,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-e4b2ff9038b9",
-      "title": "上纬新材董事长彭志辉：机器人的终点不是站在舞台上跳舞，而是真正进入每一个人的生活",
-      "source": "IT之家",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-23",
-      "time": "07:43",
-      "publishedAt": "2026-08-23T07:43:32.000Z",
-      "url": "https://www.ithome.com/0/993/221.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/8/fe884a06-937a-43df-88d7-a5e2d27590bb.png?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 8 月 23 日消息，上纬新材消费级机器人启元 Q1、启元 T1 双产品开启预订，预计首批发货时间为今年 9 月。 智元机器人联合创始人兼 CTO、上纬新材董事长彭志辉（IT之家注：网名“稚晖君”）今日发文称，创业以来一直相信： 机器人的终点不是站在舞台上跳舞，而是真正进入每一个人的生活，成为像手机一样自然的智能终端 。 彭志辉表示，未来的机器人…",
-      "tags": [
-        "行业",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-9e652836a4ad",
       "title": "Huawei Pura X View draws global attention with its wide display design",
       "source": "Huawei Central",
@@ -462,26 +542,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-d9a48d151ff0",
-      "title": "[t耐克嘴][耐克嘴]红米k90至尊版上扬声器靠近红外发射器孔的那个孔难道是装饰的风味假孔?首先我就拿水冲一下怎么发现里面有白色的点一开始我还以为是灰尘呢然后我拿牙签一刮疯狂结果疯狂掉黑色的渣又冲水里面的渣感觉像是水溶性的油漆全部漂浮起来了水冲走了结果这个孔就变成白色了和手机边框一个颜色不是这啥意思而且这孔里面的质地和边框质地差不多而且碰着很硬感觉就是铝合金还有这个不是红外发射器也不是泄压孔这机型泄压孔只有一个在下方扬声器而且有防呆设计我这个没有防呆设计而且孔位特别浅很容易碰到底部而且底部特别硬上扬声器原版长p2这样有没有懂哥知道的目前防水还在因为我又下水了一次一点问题没有所以这个孔何意味风味假孔吗也不可能是麦克风这个机型双麦克风都有对应位置了已经排除红外-泄压孔-麦克风-扬声器了这个孔也不会发出声音因为其他孔进水放歌会碰水的这个孔毫无动静",
-      "source": "酷安热榜",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-08-23",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73360264",
-      "image": "",
-      "summary": "[t耐克嘴][耐克嘴]红米k90至尊版上扬声器靠近红外发射器孔的那个孔难道是装饰的风味假孔?首先我就拿水冲一下怎么发现里面有白色的点一开始我还以为是灰尘呢然后我拿牙签一刮疯狂结果疯狂掉黑色的渣又冲水里面的渣感觉像是水溶性的油漆全部漂浮起来了水冲走了结果这个孔就变成白色了和手机边框一个颜色不是这啥意思而且这孔里面的质地和边框质地差不多而且碰着很硬感觉就是铝合…",
-      "tags": [
-        "行业",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
       "id": "newsnow-503126e64c74",
       "title": "华为真戒网瘾啊，打个王者都是生死局，不ge跟手，掉帧。不带手机壳，打把王者荣耀手机发热严重。我都清空后台关闭性能模式了，换x200ultra打王者机身就温热",
       "source": "酷安热榜",
@@ -502,6 +562,26 @@ window.phoneRadarAuto = {
       ]
     },
     {
+      "id": "newsnow-d9a48d151ff0",
+      "title": "[t耐克嘴][耐克嘴]红米k90至尊版上扬声器靠近红外发射器孔的那个孔难道是装饰的风味假孔?首先我就拿水冲一下怎么发现里面有白色的点一开始我还以为是灰尘呢然后我拿牙签一刮疯狂结果疯狂掉黑色的渣又冲水里面的渣感觉像是水溶性的油漆全部漂浮起来了水冲走了结果这个孔就变成白色了和手机边框一个颜色不是这啥意思而且这孔里面的质地和边框质地差不多而且碰着很硬感觉就是铝合金还有这个不是红外发射器也不是泄压孔这机型泄压孔只有一个在下方扬声器而且有防呆设计我这个没有防呆设计而且孔位特别浅很容易碰到底部而且底部特别硬上扬声器原版长p2这样有没有懂哥知道的目前防水还在因为我又下水了一次一点问题没有所以这个孔何意味风味假孔吗也不可能是麦克风这个机型双麦克风都有对应位置了已经排除红外-泄压孔-麦克风-扬声器了这个孔也不会发出声音因为其他孔进水放歌会碰水的这个孔毫无动静",
+      "source": "酷安热榜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-08-23",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/73360264",
+      "image": "",
+      "summary": "[t耐克嘴][耐克嘴]红米k90至尊版上扬声器靠近红外发射器孔的那个孔难道是装饰的风味假孔?首先我就拿水冲一下怎么发现里面有白色的点一开始我还以为是灰尘呢然后我拿牙签一刮疯狂结果疯狂掉黑色的渣又冲水里面的渣感觉像是水溶性的油漆全部漂浮起来了水冲走了结果这个孔就变成白色了和手机边框一个颜色不是这啥意思而且这孔里面的质地和边框质地差不多而且碰着很硬感觉就是铝合…",
+      "tags": [
+        "行业",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
       "id": "newsnow-00ad73c466fa",
       "title": "华为首款阔直屏 #华为PuraXView# 就要发布了，大家觉得起售价会是多少呢？",
       "source": "酷安热榜",
@@ -517,26 +597,6 @@ window.phoneRadarAuto = {
       "summary": "华为首款阔直屏 #华为PuraXView# 就要发布了，大家觉得起售价会是多少呢？",
       "tags": [
         "Huawei",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-b407c0a64bb8",
-      "title": "开学前班级群通知换老师引家长焦虑",
-      "source": "百度热搜",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-23",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.baidu.com/s?wd=%E5%BC%80%E5%AD%A6%E5%89%8D%E7%8F%AD%E7%BA%A7%E7%BE%A4%E9%80%9A%E7%9F%A5%E6%8D%A2%E8%80%81%E5%B8%88%E5%BC%95%E5%AE%B6%E9%95%BF%E7%84%A6%E8%99%91",
-      "image": "",
-      "summary": "开学前班级群通知换老师引家长焦虑",
-      "tags": [
-        "行业",
         "爆料",
         "NewsNow"
       ]
