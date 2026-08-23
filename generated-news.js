@@ -1,5 +1,5 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-08-23T03:14:19.991Z",
+  "updatedAt": "2026-08-23T04:51:10.899Z",
   "news": [
     {
       "id": "auto-29a56a2bc055",
@@ -162,6 +162,26 @@ window.phoneRadarAuto = {
       ]
     },
     {
+      "id": "newsnow-56a9b19d443f",
+      "title": "大家为什么都默认能卖爆？这手机目前的三大竞争对手是线上降价的mate80pro max、pura 90pro max以及9月新品mate90pro。",
+      "source": "酷安热榜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-08-23",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/73378362",
+      "image": "",
+      "summary": "大家为什么都默认能卖爆？这手机目前的三大竞争对手是线上降价的mate80pro max、pura 90pro max以及9月新品mate90pro。",
+      "tags": [
+        "行业",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
       "id": "newsnow-00ad73c466fa",
       "title": "华为首款阔直屏 #华为PuraXView# 就要发布了，大家觉得起售价会是多少呢？",
       "source": "酷安热榜",
@@ -177,26 +197,6 @@ window.phoneRadarAuto = {
       "summary": "华为首款阔直屏 #华为PuraXView# 就要发布了，大家觉得起售价会是多少呢？",
       "tags": [
         "Huawei",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-1ba06aa22037",
-      "title": "[嘿哈]酷友们，给女朋友高考完的弟弟送手机，选nova15U还是荣耀winrt好呀。或者有没有同价位其他选择推荐，不限牌子[微笑]。",
-      "source": "酷安热榜",
-      "brand": "HONOR",
-      "model": "HONOR 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-08-23",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73359640",
-      "image": "",
-      "summary": "[嘿哈]酷友们，给女朋友高考完的弟弟送手机，选nova15U还是荣耀winrt好呀。或者有没有同价位其他选择推荐，不限牌子[微笑]。",
-      "tags": [
-        "HONOR",
         "爆料",
         "NewsNow"
       ]
@@ -222,21 +222,21 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-56a9b19d443f",
-      "title": "大家为什么都默认能卖爆？这手机目前的三大竞争对手是线上降价的mate80pro max、pura 90pro max以及9月新品mate90pro。",
+      "id": "newsnow-1ba06aa22037",
+      "title": "[嘿哈]酷友们，给女朋友高考完的弟弟送手机，选nova15U还是荣耀winrt好呀。或者有没有同价位其他选择推荐，不限牌子[微笑]。",
       "source": "酷安热榜",
-      "brand": "行业",
-      "model": "智能手机市场",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-08-23",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73378362",
+      "url": "https://www.coolapk.com/feed/73359640",
       "image": "",
-      "summary": "大家为什么都默认能卖爆？这手机目前的三大竞争对手是线上降价的mate80pro max、pura 90pro max以及9月新品mate90pro。",
+      "summary": "[嘿哈]酷友们，给女朋友高考完的弟弟送手机，选nova15U还是荣耀winrt好呀。或者有没有同价位其他选择推荐，不限牌子[微笑]。",
       "tags": [
-        "行业",
+        "HONOR",
         "爆料",
         "NewsNow"
       ]
@@ -397,26 +397,6 @@ window.phoneRadarAuto = {
       "summary": "【荣耀Play11 Pro 现已开售：天玑6500 Elite处理器，7000mAh电池，首发1899元起】 8+128GB —— 1899元 8+256GB —— 2099元 12+256GB —— 2399元 核心： ● 天玑6500 Elite处理器 ● LPDDR4X+UFS 2.2 ● 6.6\"1.5K 120Hz OLED直屏 ● 7000mA…",
       "tags": [
         "HONOR",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
-      "id": "coolapk-user-944b91e977e0",
-      "title": "竹本青：日常能用的水平……[受虐滑稽]，这一代，会比之前翻倍的贵[受虐滑稽]// @向着欧斩星魔剑 :处理器什么水平 #蓝…",
-      "source": "竹本青",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-08-22",
-      "time": "11:21",
-      "publishedAt": "2026-08-22T11:21:26.000Z",
-      "url": "https://www.coolapk.com/feed/73376321",
-      "image": "",
-      "summary": "日常能用的水平……[受虐滑稽]，这一代，会比之前翻倍的贵[受虐滑稽]// @向着欧斩星魔剑 :处理器什么水平 #蓝狐AuraA1# #蓝狐手机#",
-      "tags": [
-        "行业",
         "爆料",
         "酷安博主"
       ]
