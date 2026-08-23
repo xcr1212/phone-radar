@@ -1,6 +1,46 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-08-23T16:42:02.381Z",
+  "updatedAt": "2026-08-23T18:47:20.068Z",
   "news": [
+    {
+      "id": "auto-ef071f43ab8e",
+      "title": "Gurman: iPhone Ultra Wows Early Testers, Except for Its Camera",
+      "source": "MacRumors",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-23",
+      "time": "18:19",
+      "publishedAt": "2026-08-23T18:19:25.000Z",
+      "url": "https://www.macrumors.com/2026/08/23/apple-foldable-iphone-early-tester-thoughts/",
+      "image": "https://images.macrumors.com/article-new/2025/08/Apple-Foldable-Thumb.jpg",
+      "summary": "Apple's upcoming foldable iPhone Ultra is winning over the few people who have had hands-on time with the device, though the camera setup may leave some users wanting, according t…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-0ed4c141846a",
+      "title": "Every way the Galaxy Z Fold 8 feels first-gen",
+      "source": "SamMobile",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-23",
+      "time": "18:08",
+      "publishedAt": "2026-08-23T18:08:51.000Z",
+      "url": "https://www.sammobile.com/opinion/every-way-galaxy-z-fold-8-feels-first-gen/",
+      "image": "https://www.sammobile.com/wp-content/uploads/2026/07/Galaxy-Z-Fold-8-bottom-design-2-1920x1080.jpg",
+      "summary": "So far, I haven't talked much about the Galaxy Z Fold 8 even though it quickly became my all-time favorite mobile device. Or, at the very least, I feel like I haven't highlighted…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-a74c37fa0a15",
       "title": "Galaxy S27 Ultra’s latest renders spark criticism over wild redesign",

@@ -1,11 +1,11 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-08-23T16:42:02.381Z",
+  "updatedAt": "2026-08-23T18:47:20.068Z",
   "issueDate": "2026-08-23",
   "issue": "VOL.260823",
   "title": "手机情报日报",
-  "intro": "今日筛出 18 条重点，其中 8 条是重点爆料，包含 7 条 iPhone 相关、1 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 17 条重点，其中 8 条是重点爆料，包含 7 条 iPhone 相关、1 条官方确认、0 条参数线索。",
   "stats": {
-    "total": 18,
+    "total": 17,
     "iphone": 7,
     "leaks": 8,
     "official": 1,
@@ -39,6 +39,30 @@ window.phoneRadarDaily = {
             "爆料来源"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "auto-ef071f43ab8e",
+          "title": "iPhone 影像能力相关消息",
+          "originalTitle": "",
+          "source": "MacRumors",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-08-23",
+          "time": "18:19",
+          "publishedAt": "2026-08-23T18:19:25.000Z",
+          "url": "https://www.macrumors.com/2026/08/23/apple-foldable-iphone-early-tester-thoughts/",
+          "image": "https://images.macrumors.com/article-new/2025/08/Apple-Foldable-Thumb.jpg",
+          "verdict": "先看",
+          "takeaway": "iPhone 影像能力相关宣传或案例，主要看是否透露拍摄能力变化。",
+          "detail": "iPhone 影像能力相关消息。重点看影像功能是否和新机硬件有关，如果只是拍摄案例或营销内容，参考价值会低一些。",
+          "keyPoints": [
+            "影像硬件",
+            "爆料来源"
+          ],
+          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
@@ -180,30 +204,6 @@ window.phoneRadarDaily = {
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "newsnow-00ad73c466fa",
-          "title": "华为首款阔直屏 #华为PuraXView# 就要发布了，大家觉得起售价会是多少呢？",
-          "originalTitle": "",
-          "source": "酷安热榜",
-          "brand": "Huawei",
-          "type": "爆料",
-          "trust": "高关注爆料源",
-          "date": "2026-08-23",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://www.coolapk.com/feed/73361789",
-          "image": "",
-          "verdict": "先看",
-          "takeaway": "华为首款阔直屏 #华为PuraXView# 就要发布了，大家觉得起售价会是多少呢？",
-          "detail": "华为首款阔直屏 #华为PuraXView# 就要发布了，大家觉得起售价会是多少呢？",
-          "keyPoints": [
-            "屏幕形态",
-            "成本 / 价格"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         }
       ]
     },
@@ -274,29 +274,6 @@ window.phoneRadarDaily = {
           "verdict": "扫一眼",
           "takeaway": "把「闪念胶囊」（Almost）放到 iPhone 锁屏",
           "detail": "把「闪念胶囊」（Almost）放到 iPhone 锁屏",
-          "keyPoints": [
-            "评测"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是实际体验内容，买前适合重点看缺点和取舍。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
-        {
-          "id": "newsnow-6742403f4b02",
-          "title": "我，与「唯一」的 iPhone Air",
-          "originalTitle": "",
-          "source": "少数派热榜",
-          "brand": "iPhone",
-          "type": "评测",
-          "trust": "媒体汇总",
-          "date": "2026-08-23",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://sspai.com/post/112880",
-          "image": "",
-          "verdict": "扫一眼",
-          "takeaway": "我，与「唯一」的 iPhone Air",
-          "detail": "我，与「唯一」的 iPhone Air",
           "keyPoints": [
             "评测"
           ],
