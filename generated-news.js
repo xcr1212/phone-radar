@@ -1,6 +1,86 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-08-23T07:00:05.638Z",
+  "updatedAt": "2026-08-23T08:47:38.314Z",
   "news": [
+    {
+      "id": "coolapk-user-eee819ddb17e",
+      "title": "竹本青：【400米决赛39.45秒，荣耀机器人闪电打破人类世界纪录】 荣耀公司今天宣布，在第二届世界人形机器人运动会，40…",
+      "source": "竹本青",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-08-23",
+      "time": "08:16",
+      "publishedAt": "2026-08-23T08:16:43.000Z",
+      "url": "https://www.coolapk.com/feed/73389056",
+      "image": "http://image.coolapk.com/feed/2026/0823/16/4248714_cdfa21f3_3002_9789_238@2160x3840.jpg",
+      "summary": "【400米决赛39.45秒，荣耀机器人闪电打破人类世界纪录】 荣耀公司今天宣布，在第二届世界人形机器人运动会，400米项目决赛中，旗下机器人闪电以39.45秒的成绩冲线，打破范尼凯克在2016年里约奥运会创造的43.03秒人类世界纪录。 #今日热点# #机器人#",
+      "tags": [
+        "HONOR",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "coolapk-user-804322616ef8",
+      "title": "竹本青：【华为Mate 80系列 最新销量曝光：周增约17.34万台，累计超862万台】 8月23日，博主「RD观测」分享…",
+      "source": "竹本青",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-08-23",
+      "time": "08:07",
+      "publishedAt": "2026-08-23T08:07:39.000Z",
+      "url": "https://www.coolapk.com/feed/73388955",
+      "image": "http://image.coolapk.com/feed/2026/0823/16/4248714_2694f6fa_2594_4774_329@3336x2484.jpg",
+      "summary": "【华为Mate 80系列 最新销量曝光：周增约17.34万台，累计超862万台】 8月23日，博主「RD观测」分享第三方统计数据：截至2026年第33周，华为Mate 80系列累计销量约862.91万台，周新增约17.34万台。 前几周数据如下： 截至26 W32 —— 约845.57万（周增17.73万） 截至26 W31 —— 约827.84万（周增1…",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-e4b2ff9038b9",
+      "title": "上纬新材董事长彭志辉：机器人的终点不是站在舞台上跳舞，而是真正进入每一个人的生活",
+      "source": "IT之家",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-23",
+      "time": "07:43",
+      "publishedAt": "2026-08-23T07:43:32.000Z",
+      "url": "https://www.ithome.com/0/993/221.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/8/fe884a06-937a-43df-88d7-a5e2d27590bb.png?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 8 月 23 日消息，上纬新材消费级机器人启元 Q1、启元 T1 双产品开启预订，预计首批发货时间为今年 9 月。 智元机器人联合创始人兼 CTO、上纬新材董事长彭志辉（IT之家注：网名“稚晖君”）今日发文称，创业以来一直相信： 机器人的终点不是站在舞台上跳舞，而是真正进入每一个人的生活，成为像手机一样自然的智能终端 。 彭志辉表示，未来的机器人…",
+      "tags": [
+        "行业",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-9e652836a4ad",
+      "title": "Huawei Pura X View draws global attention with its wide display design",
+      "source": "Huawei Central",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-23",
+      "time": "07:11",
+      "publishedAt": "2026-08-23T07:11:50.000Z",
+      "url": "https://www.huaweicentral.com/huawei-pura-x-view-draws-global-attention-with-its-wide-display-design/",
+      "image": "https://www.huaweicentral.com/wp-content/uploads/2026/08/PuraXView.jpg",
+      "summary": "A few days ago, Huawei unveiled the Pura X View, the first-ever wide-fold bar-type phone that caught global attention for its unique design. On August 20, Yu Chengdong, Chairman o…",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "coolapk-user-c9424800388a",
       "title": "竹本青：【玄戒家族全新成员，小米玄戒芯片技术沟通会官宣明日举行】 8月23日，小米公司宣布玄戒芯片家族迎来全新成员。明天1…",
@@ -122,26 +202,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-bfc5f8942172",
-      "title": "消息称华为 Pura X Max 系列横阔折手机销量破 70 万台，标准版与典藏版差距明显缩小",
-      "source": "IT之家",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-23",
-      "time": "00:07",
-      "publishedAt": "2026-08-23T00:07:42.000Z",
-      "url": "https://www.ithome.com/0/993/132.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/8/7398d147-66f3-48a1-a079-dcc47c0dc9ab.png?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 8 月 23 日消息，长期关注国内手机市场份额的博主 @RD观测 分享了华为折叠屏手机首月销量情况：截至 2026 W32（IT之家注：8 月 3 日-8 月 9 日）， 华为 Pura X Max 约 34.46 万台、Pura X Max 典藏版约 36.88 万台 。 从数据来看，华为 Pura X Max 系列横向阔折叠手机的总销量已突破…",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-9bbf43c61c96",
       "title": "Apple announces changes to iOS in Brazil",
       "source": "Apple Newsroom",
@@ -222,6 +282,26 @@ window.phoneRadarAuto = {
       ]
     },
     {
+      "id": "newsnow-66e619880549",
+      "title": "小米能来一个华为Pura X View这种的吗？",
+      "source": "酷安热榜",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-08-23",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/73382841",
+      "image": "",
+      "summary": "小米能来一个华为Pura X View这种的吗？",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
       "id": "newsnow-d9a48d151ff0",
       "title": "[t耐克嘴][耐克嘴]红米k90至尊版上扬声器靠近红外发射器孔的那个孔难道是装饰的风味假孔?首先我就拿水冲一下怎么发现里面有白色的点一开始我还以为是灰尘呢然后我拿牙签一刮疯狂结果疯狂掉黑色的渣又冲水里面的渣感觉像是水溶性的油漆全部漂浮起来了水冲走了结果这个孔就变成白色了和手机边框一个颜色不是这啥意思而且这孔里面的质地和边框质地差不多而且碰着很硬感觉就是铝合金还有这个不是红外发射器也不是泄压孔这机型泄压孔只有一个在下方扬声器而且有防呆设计我这个没有防呆设计而且孔位特别浅很容易碰到底部而且底部特别硬上扬声器原版长p2这样有没有懂哥知道的目前防水还在因为我又下水了一次一点问题没有所以这个孔何意味风味假孔吗也不可能是麦克风这个机型双麦克风都有对应位置了已经排除红外-泄压孔-麦克风-扬声器了这个孔也不会发出声音因为其他孔进水放歌会碰水的这个孔毫无动静",
       "source": "酷安热榜",
@@ -262,26 +342,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-66e619880549",
-      "title": "小米能来一个华为Pura X View这种的吗？",
-      "source": "酷安热榜",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-08-23",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73382841",
-      "image": "",
-      "summary": "小米能来一个华为Pura X View这种的吗？",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
       "id": "newsnow-503126e64c74",
       "title": "华为真戒网瘾啊，打个王者都是生死局，不ge跟手，掉帧。不带手机壳，打把王者荣耀手机发热严重。我都清空后台关闭性能模式了，换x200ultra打王者机身就温热",
       "source": "酷安热榜",
@@ -302,81 +362,41 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-b4afe5b7cc25",
-      "title": "某些人能不能别意淫了。就Pura90标准版这垃圾都能4699起售，xv可能4999起售吗。估价也长点脑子别张口就来",
+      "id": "newsnow-01e63087fff6",
+      "title": "#数码日常# #鸿蒙NEXT# #酷工作# 喷了一辈子华为手机结果还是跑来华为上班了，以后不喷了[受虐滑稽]",
       "source": "酷安热榜",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-08-23",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73382770",
-      "image": "",
-      "summary": "某些人能不能别意淫了。就Pura90标准版这垃圾都能4699起售，xv可能4999起售吗。估价也长点脑子别张口就来",
-      "tags": [
-        "行业",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-1ba06aa22037",
-      "title": "[嘿哈]酷友们，给女朋友高考完的弟弟送手机，选nova15U还是荣耀winrt好呀。或者有没有同价位其他选择推荐，不限牌子[微笑]。",
-      "source": "酷安热榜",
-      "brand": "HONOR",
-      "model": "HONOR 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-08-23",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73359640",
-      "image": "",
-      "summary": "[嘿哈]酷友们，给女朋友高考完的弟弟送手机，选nova15U还是荣耀winrt好呀。或者有没有同价位其他选择推荐，不限牌子[微笑]。",
-      "tags": [
-        "HONOR",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-94fcea9143cc",
-      "title": "两男子飞车抢手机2小时后落网",
-      "source": "今日头条热榜",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-23",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.toutiao.com/trending/7676674496669483062/",
-      "image": "",
-      "summary": "两男子飞车抢手机2小时后落网",
-      "tags": [
-        "行业",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-6f8cc551f326",
-      "title": "华为Pura X Max销量突破71万台",
-      "source": "今日头条热榜",
       "brand": "Huawei",
       "model": "Huawei 相关机型",
       "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-08-23",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/73385197",
+      "image": "",
+      "summary": "#数码日常# #鸿蒙NEXT# #酷工作# 喷了一辈子华为手机结果还是跑来华为上班了，以后不喷了[受虐滑稽]",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-1b15da88d412",
+      "title": "iPhone会涨价吗",
+      "source": "B站热搜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
       "trust": "媒体汇总",
       "date": "2026-08-23",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.toutiao.com/trending/7676456915718717483/",
+      "url": "https://search.bilibili.com/all?keyword=iPhone%E4%BC%9A%E6%B6%A8%E4%BB%B7%E5%90%97",
       "image": "",
-      "summary": "华为Pura X Max销量突破71万台",
+      "summary": "iPhone会涨价吗",
       "tags": [
-        "Huawei",
+        "iPhone",
         "爆料",
         "NewsNow"
       ]
@@ -499,26 +519,6 @@ window.phoneRadarAuto = {
         "Pixel",
         "爆料",
         "自动抓取"
-      ]
-    },
-    {
-      "id": "coolapk-user-f9a7771d69b5",
-      "title": "竹本青：荣耀Play11 Pro 开售：首发1899元起",
-      "source": "竹本青",
-      "brand": "HONOR",
-      "model": "HONOR 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-08-22",
-      "time": "12:46",
-      "publishedAt": "2026-08-22T12:46:21.000Z",
-      "url": "https://www.coolapk.com/feed/73377546",
-      "image": "http://image.coolapk.com/feed/2026/0822/20/4248714_334cd6eb_2780_5554_938@750x1443.jpg",
-      "summary": "【荣耀Play11 Pro 现已开售：天玑6500 Elite处理器，7000mAh电池，首发1899元起】 8+128GB —— 1899元 8+256GB —— 2099元 12+256GB —— 2399元 核心： ● 天玑6500 Elite处理器 ● LPDDR4X+UFS 2.2 ● 6.6\"1.5K 120Hz OLED直屏 ● 7000mA…",
-      "tags": [
-        "HONOR",
-        "爆料",
-        "酷安博主"
       ]
     },
     {
