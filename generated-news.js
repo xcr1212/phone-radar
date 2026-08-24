@@ -1,24 +1,64 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-08-24T03:15:44.168Z",
+  "updatedAt": "2026-08-24T05:00:14.597Z",
   "news": [
     {
-      "id": "coolapk-user-5dcdd1233090",
-      "title": "竹本青：小米手机/手环等产品售后规则调整：二手不属于三包范围，需支付维修费 #今日热点# #HyperOS4#",
-      "source": "竹本青",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
+      "id": "auto-d2aaffec63ef",
+      "title": "古尔曼：中国折叠机占全球半壁江山，苹果得打好硬件和身份两张牌",
+      "source": "IT之家",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
       "type": "爆料",
-      "trust": "高可信爆料",
+      "trust": "媒体汇总",
       "date": "2026-08-24",
-      "time": "03:14",
-      "publishedAt": "2026-08-24T03:14:55.000Z",
-      "url": "https://www.coolapk.com/feed/73400486",
-      "image": "http://image.coolapk.com/feed/2026/0824/11/4248714_0edcf7fa_1293_7656_608@1440x262.jpg",
-      "summary": "小米手机/手环等产品售后规则调整：二手不属于三包范围，需支付维修费 #今日热点# #HyperOS4#",
+      "time": "04:53",
+      "publishedAt": "2026-08-24T04:53:36.000Z",
+      "url": "https://www.ithome.com/0/993/484.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/8/a7fc1818-4897-4b7f-9124-2e6cec5b3f57.png?x-bce-process=image/format,f_auto",
+      "summary": "北京时间 8 月 24 日，彭博社知名苹果记者马克 · 古尔曼 (Mark Gurman) 周日发文称，中国占据了全球折叠屏手机出货量的一半以上，赢得这里消费者的青睐至关重要。 苹果折叠机设计类似三星 Galaxy Z Fold 8 古尔曼表示，9 月 9 日前后发布的折叠屏 iPhone 将是苹果这几年来最令人期待的新品。不过，他在文中也谈到了苹果折叠屏…",
       "tags": [
-        "Xiaomi",
+        "Samsung",
         "爆料",
-        "酷安博主"
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-f2541bb0273e",
+      "title": "四川省地震局通报：成都高新减灾研究所冒用“中国地震预警网”名义发布震级为 7.7 级预警信息，已终止其授权",
+      "source": "IT之家",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-24",
+      "time": "04:49",
+      "publishedAt": "2026-08-24T04:49:00.000Z",
+      "url": "https://www.ithome.com/0/993/483.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/8/eee5f558-8bba-4ab6-adc2-81d67207fa72.jpg",
+      "summary": "IT之家 8 月 24 日消息，四川省地震局今日午间发布关于宜宾长宁 4.7 级地震预警相关情况的通报： 据中国地震台网正式测定：2026 年 8 月 24 日 8 时 26 分在四川宜宾市长宁县（北纬 28.33 度，东经 104.98 度）发生 4.7 级地震，震源深度 5 公里。 成都高新减灾研究所冒用“中国地震预警网”名义，通过荣耀、维沃手机以及小…",
+      "tags": [
+        "HONOR",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "weibo-413253630e91",
+      "title": "数码闲聊站：玄戒芯片新进展将于今天下午公布，估计会同步官宣首款新机，各种意义上\"大的要来了…",
+      "source": "数码闲聊站",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-08-24",
+      "time": "03:47",
+      "publishedAt": "2026-08-24T03:47:06.000Z",
+      "url": "https://weibo.com/6048569942/ReR3pj5In",
+      "image": "",
+      "summary": "玄戒芯片新进展将于今天下午公布，估计会同步官宣首款新机，各种意义上\"大的要来了\"[笑而不语]",
+      "tags": [
+        "行业",
+        "爆料",
+        "微博"
       ]
     },
     {
@@ -357,26 +397,6 @@ window.phoneRadarAuto = {
       "summary": "大家为什么都默认能卖爆？这手机目前的三大竞争对手是线上降价的mate80pro max、pura 90pro max以及9月新品mate90pro。",
       "tags": [
         "行业",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-14e2f57dffc2",
-      "title": "华为真戒网瘾啊，打个王者都是生死局，不ge跟手，掉帧。不带手机壳，打把王者荣耀手机发热严重。我都清空后台关闭性能模式了，换x200ultra打王者机身就温热",
-      "source": "酷安热榜",
-      "brand": "HONOR",
-      "model": "HONOR 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-08-24",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73381812",
-      "image": "",
-      "summary": "华为真戒网瘾啊，打个王者都是生死局，不ge跟手，掉帧。不带手机壳，打把王者荣耀手机发热严重。我都清空后台关闭性能模式了，换x200ultra打王者机身就温热",
-      "tags": [
-        "HONOR",
         "爆料",
         "NewsNow"
       ]
