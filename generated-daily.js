@@ -1,12 +1,12 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-08-24T14:58:45.374Z",
+  "updatedAt": "2026-08-24T16:54:03.957Z",
   "issueDate": "2026-08-24",
   "issue": "VOL.260824",
   "title": "手机情报日报",
-  "intro": "今日筛出 8 条重点，其中 8 条是重点爆料，包含 7 条 iPhone 相关、0 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 8 条重点，其中 8 条是重点爆料，包含 8 条 iPhone 相关、0 条官方确认、0 条参数线索。",
   "stats": {
     "total": 8,
-    "iphone": 7,
+    "iphone": 8,
     "leaks": 8,
     "official": 0,
     "specs": 0
@@ -17,6 +17,30 @@ window.phoneRadarDaily = {
       "title": "重点爆料",
       "hint": "机模、配色、影像、屏幕、电池和芯片线索先看。",
       "items": [
+        {
+          "id": "auto-5ddd8331721f",
+          "title": "iPhone 18 Pro 与折叠屏 iPhone 即将登场，苹果 2026 秋季新品发布会何时举办？",
+          "originalTitle": "",
+          "source": "IT之家",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-08-24",
+          "time": "15:13",
+          "publishedAt": "2026-08-24T15:13:02.000Z",
+          "url": "https://www.ithome.com/0/993/754.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/8/f92fbc85-c3fd-4536-ada1-aebc9ca52d2f.jpg?x-bce-process=image/format,f_auto",
+          "verdict": "先看",
+          "takeaway": "IT之家 8 月 24 日消息，苹果 2026 秋季新品发布会即将到来，届时 iPhone 18 Pro，以及最受大伙期待的折叠屏 iPhone 将会登场。外媒 MacRumors 今日发文，分析这场发布会的具体举办时间。 澳大利亚媒体 ChannelNews 近日发文称，iPhone 18 Pro 和 iPhone Ultra 的发布会将于 9 月 8…",
+          "detail": "IT之家 8 月 24 日消息，苹果 2026 秋季新品发布会即将到来，届时 iPhone 18 Pro，以及最受大伙期待的折叠屏 iPhone 将会登场。外媒 MacRumors 今日发文，分析这场发布会的具体举办时间。 澳大利亚媒体 ChannelNews 近日发文称，iPhone 18 Pro 和 iPhone Ultra 的发布会将于 9 月 8…",
+          "keyPoints": [
+            "屏幕形态",
+            "爆料来源"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
         {
           "id": "auto-89c4f2337a6a",
           "title": "折叠 iPhone 细节曝光，苹果想折叠的不只是屏幕",
@@ -175,30 +199,6 @@ window.phoneRadarDaily = {
           "takeaway": "iPhone 相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
           "detail": "iPhone 相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
           "keyPoints": [
-            "爆料来源"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "auto-8a85b4c2cc09",
-          "title": "消息称三星 Galaxy S27 Ultra 手机尺寸与前代几乎完全相同，主要重新设计摄像头布局",
-          "originalTitle": "",
-          "source": "IT之家",
-          "brand": "Samsung",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-08-24",
-          "time": "14:26",
-          "publishedAt": "2026-08-24T14:26:24.000Z",
-          "url": "https://www.ithome.com/0/993/743.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/8/a5869ef8-5982-4148-831b-ecec02772852.jpg?x-bce-process=image/format,f_auto",
-          "verdict": "先看",
-          "takeaway": "IT之家 8 月 24 日消息，博主 @i冰宇宙 今日透露， 三星 Galaxy S27 Ultra 的尺寸和显示屏尺寸将与 Galaxy S26 Ultra 几乎完全相同 。 博主称新机的 S Pen 将继续位于左侧，扬声器也将保留在左侧。 除了重新设计的摄像头布局外 ，这两款手机的外观几乎一模一样，仅有一些细微的差异。 作为参考，三星 Galaxy S…",
-          "detail": "IT之家 8 月 24 日消息，博主 @i冰宇宙 今日透露， 三星 Galaxy S27 Ultra 的尺寸和显示屏尺寸将与 Galaxy S26 Ultra 几乎完全相同 。 博主称新机的 S Pen 将继续位于左侧，扬声器也将保留在左侧。 除了重新设计的摄像头布局外 ，这两款手机的外观几乎一模一样，仅有一些细微的差异。 作为参考，三星 Galaxy S…",
-          "keyPoints": [
-            "外观 / 配色 / 尺寸",
             "爆料来源"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",

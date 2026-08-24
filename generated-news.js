@@ -1,6 +1,66 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-08-24T14:58:45.374Z",
+  "updatedAt": "2026-08-24T16:54:03.957Z",
   "news": [
+    {
+      "id": "auto-567d58a6aea1",
+      "title": "Samsung's $1,300 Galaxy S26 Ultra still can't snap onto a charger without a case",
+      "source": "Android Police",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-24",
+      "time": "15:15",
+      "publishedAt": "2026-08-24T15:15:10.000Z",
+      "url": "https://www.androidpolice.com/galaxy-s26-ultra-still-no-magnets/",
+      "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2026/08/samsung-galaxy-s26-ultra-in-a-magnetic-case-next-to-a-qi2-wireless-charger.jpg",
+      "summary": "Samsung's excuses for the Galaxy S26 Ultra don't add up",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-a733694a50fa",
+      "title": "竹本青：【供应链：长鑫存储为小米玄戒O3的LPDDR6核心合作伙伴】 8月24日，财联社消息，小米正式发布玄戒O3芯片。新…",
+      "source": "竹本青",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-08-24",
+      "time": "15:14",
+      "publishedAt": "2026-08-24T15:14:40.000Z",
+      "url": "https://www.coolapk.com/feed/73411818",
+      "image": "http://image.coolapk.com/feed/2026/0824/23/4248714_d9635c6e_4479_8148_801@1440x1920.jpg",
+      "summary": "【供应链：长鑫存储为小米玄戒O3的LPDDR6核心合作伙伴】 8月24日，财联社消息，小米正式发布玄戒O3芯片。新一代玄戒O3芯片是全球首个支持LPDDR6内存芯片的旗舰移动处理器。 财联社记者从供应链获悉，国内存储龙头长鑫存储（CXMT）是小米玄戒O3的LPDDR6内存核心合作伙伴。 今年3月，已有消息传出长鑫LPDDR6已经给关键客户送样，8月初，多家…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-5ddd8331721f",
+      "title": "iPhone 18 Pro 与折叠屏 iPhone 即将登场，苹果 2026 秋季新品发布会何时举办？",
+      "source": "IT之家",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-24",
+      "time": "15:13",
+      "publishedAt": "2026-08-24T15:13:02.000Z",
+      "url": "https://www.ithome.com/0/993/754.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/8/f92fbc85-c3fd-4536-ada1-aebc9ca52d2f.jpg?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 8 月 24 日消息，苹果 2026 秋季新品发布会即将到来，届时 iPhone 18 Pro，以及最受大伙期待的折叠屏 iPhone 将会登场。外媒 MacRumors 今日发文，分析这场发布会的具体举办时间。 澳大利亚媒体 ChannelNews 近日发文称，iPhone 18 Pro 和 iPhone Ultra 的发布会将于 9 月 8…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-9d6ef371348c",
       "title": "Galaxy S26 Ultra is now available at a new record-low price in India",
@@ -562,26 +622,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-fdf613e01fb2",
-      "title": "消息称一加 16 依然是子系旗舰机最窄四等边，定制新屏幕观感“很通透”",
-      "source": "IT之家",
-      "brand": "OPPO",
-      "model": "OPPO 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-24",
-      "time": "09:21",
-      "publishedAt": "2026-08-24T09:21:07.000Z",
-      "url": "https://www.ithome.com/0/993/655.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/8/449016f0-bea7-4e3e-a552-89871d104207.png?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 8 月 24 日消息，微博博主 @数码闲聊站 今日在微博发文称： 新一轮骁龙 8 Elite 超级至尊版新机，一加 16 依然是子系旗舰中的最窄四等边，“大概这么窄🤏”，而且定制新屏观感也很通透，预定一个正面颜值 Top 结合IT之家此前援引博主消息 ，一加 16 将首发新一代东方屏，行业首个支持全局 165Hz 超高刷的屏幕。新机出厂预装 C…",
-      "tags": [
-        "OPPO",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-dbf1694ffd52",
       "title": "New OnePlus 16 leak gives us another clue about what the US will miss out on",
       "source": "Android Authority",
@@ -617,26 +657,6 @@ window.phoneRadarAuto = {
       "summary": "All those promos add up fast.",
       "tags": [
         "Pixel",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-c682715852c9",
-      "title": "Samsung Galaxy S27 Ultra could look more like an iPhone than ever",
-      "source": "Android Police",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-24",
-      "time": "07:41",
-      "publishedAt": "2026-08-24T07:41:47.000Z",
-      "url": "https://www.androidpolice.com/samsung-galaxy-s27-ultra-could-look-more-like-iphone-than-ever/",
-      "image": "",
-      "summary": "Samsung's next flagship could take a big design cue from iPhone 17 Pro",
-      "tags": [
-        "Samsung",
         "爆料",
         "自动抓取"
       ]
@@ -882,26 +902,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-99ede9029e9e",
-      "title": "小米能来一个华为Pura X View这种的吗？",
-      "source": "酷安热榜",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-08-24",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73382841",
-      "image": "",
-      "summary": "小米能来一个华为Pura X View这种的吗？",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
       "id": "newsnow-e3a75b06cd3a",
       "title": "确定是9030s了[流汗滑稽][流汗滑稽]各位有没有价格爆料？拍照规格大概是pura90pro的主摄加nova16ultra的长焦吧#鸿蒙7# #华为PuraXMax#",
       "source": "酷安热榜",
@@ -915,6 +915,26 @@ window.phoneRadarAuto = {
       "url": "https://www.coolapk.com/feed/73390616",
       "image": "",
       "summary": "确定是9030s了[流汗滑稽][流汗滑稽]各位有没有价格爆料？拍照规格大概是pura90pro的主摄加nova16ultra的长焦吧#鸿蒙7# #华为PuraXMax#",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-99ede9029e9e",
+      "title": "小米能来一个华为Pura X View这种的吗？",
+      "source": "酷安热榜",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-08-24",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/73382841",
+      "image": "",
+      "summary": "小米能来一个华为Pura X View这种的吗？",
       "tags": [
         "Huawei",
         "爆料",
@@ -942,7 +962,7 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-a6cb7aa3d0ec",
+      "id": "newsnow-41dcda51c681",
       "title": "网友外卖里吃出手机",
       "source": "微博热搜",
       "brand": "行业",
@@ -952,9 +972,49 @@ window.phoneRadarAuto = {
       "date": "2026-08-24",
       "time": "",
       "publishedAt": "",
-      "url": "https://s.weibo.com/weibo?q=%E7%BD%91%E5%8F%8B%E5%A4%96%E5%8D%96%E9%87%8C%E5%90%83%E5%87%BA%E6%89%8B%E6%9C%BA&t=31&band_rank=8&Refer=top",
+      "url": "https://s.weibo.com/weibo?q=%E7%BD%91%E5%8F%8B%E5%A4%96%E5%8D%96%E9%87%8C%E5%90%83%E5%87%BA%E6%89%8B%E6%9C%BA&t=31&band_rank=11&Refer=top",
       "image": "",
       "summary": "网友外卖里吃出手机",
+      "tags": [
+        "行业",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-4b24543ba5e1",
+      "title": "女子下楼梯时玩手机直接摔下去",
+      "source": "今日头条热榜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-24",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.toutiao.com/trending/7677180486596788251/",
+      "image": "",
+      "summary": "女子下楼梯时玩手机直接摔下去",
+      "tags": [
+        "行业",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-51b016a8aba4",
+      "title": "男子帮人把手机放车筐妻子转头偷走",
+      "source": "今日头条热榜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-24",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.toutiao.com/trending/7677425915664302099/",
+      "image": "",
+      "summary": "男子帮人把手机放车筐妻子转头偷走",
       "tags": [
         "行业",
         "爆料",
