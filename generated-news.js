@@ -1,6 +1,226 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-08-24T09:03:40.422Z",
+  "updatedAt": "2026-08-24T10:52:53.667Z",
   "news": [
+    {
+      "id": "auto-ac3a328ed998",
+      "title": "HMD 诺基亚 300 Charge 手机发布：3700mAh 电池、支持 10W 反向充电",
+      "source": "IT之家",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-24",
+      "time": "10:45",
+      "publishedAt": "2026-08-24T10:45:03.000Z",
+      "url": "https://www.ithome.com/0/993/695.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/8/c778989a-b7b7-4ce2-85bf-6e77378f301c.jpg?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 8 月 24 日消息，HMD 现已在海外市场推出诺基亚 300 Charge 手机，这是一台功能手机，没有什么花哨的功能。 据介绍， 这款手机最大的亮点就是 3700mAh 电池和 USB-C 接口 ，这个容量对功能手机来说已经是海量。其待机时间最长可达 40 天，连续通话时长可达 37 小时。 同时，这款手机侧面带有一个“Out”按键，按下后可…",
+      "tags": [
+        "行业",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-5a18cb281744",
+      "title": "The Galaxy S27 Ultra looks like an outright iPhone copy in this latest leak",
+      "source": "Android Central",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-08-24",
+      "time": "10:29",
+      "publishedAt": "2026-08-24T10:29:22.000Z",
+      "url": "https://www.androidcentral.com/phones/samsung-galaxy/galaxy-s27-ultra-looks-like-an-absolute-iphone-copy-in-the-latest-leak",
+      "image": "https://cdn.mos.cms.futurecdn.net/HFLKfPMSoWGqmUUaAm5rHo-1280-80.jpg",
+      "summary": "Samsung Galaxy S27 Ultra leak reveals iPhone-like redesign",
+      "tags": [
+        "Samsung",
+        "评测",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-cdf14be73806",
+      "title": "Galaxy S26 Ultra’s portrait lighting trick could be coming to the S25 Ultra",
+      "source": "Android Authority",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-24",
+      "time": "10:20",
+      "publishedAt": "2026-08-24T10:20:19.000Z",
+      "url": "https://www.androidauthority.com/samsung-galaxy-s25-ultra-one-ui-9-portrait-lighting-leak-3702045/",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2026/02/Samsung-Galaxy-S26-Ultra-lay-down-next-to-S25-Ultra.jpg",
+      "summary": "The feature could help brighten subjects in uneven lighting.",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-0d81a1ec8bf0",
+      "title": "竹本青：消息称OPPO阔直板机型推进量产，但暂未定版",
+      "source": "竹本青",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-08-24",
+      "time": "10:13",
+      "publishedAt": "2026-08-24T10:13:07.000Z",
+      "url": "https://www.coolapk.com/feed/73407093",
+      "image": "http://image.coolapk.com/feed/2026/0824/18/4248714_4648a5c7_6386_4459_571@1272x373.jpg",
+      "summary": "【消息称OPPO阔直板机型推进量产，但暂未定版】 8月24日，博主数码闲聊站爆料，阔直板手机赛道，除华为之外，OPPO正在推进量产机型，但产品暂未定版。 其余主流手机厂商大多还处在评估阶段，暂无明确量产规划，后续是否入局，很大程度取决于首款阔直板产品的市场反响。 另据此前爆料，OPPO阔直板机型已进版测试，归属Find系列，将搭载6.3‑6.4英寸1.5K…",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "weibo-710e14f0bfff",
+      "title": "数码闲聊站：关于阔直板手机，主流大厂除H之外，O也在推进量产机型，但暂未定版。其它手机厂商…",
+      "source": "数码闲聊站",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-08-24",
+      "time": "10:06",
+      "publishedAt": "2026-08-24T10:06:00.000Z",
+      "url": "https://weibo.com/6048569942/ReTxcszaC",
+      "image": "",
+      "summary": "关于阔直板手机，主流大厂除H之外，O也在推进量产机型，但暂未定版。其它手机厂商大多还停留在评估阶段，暂无明确量产规划，后续是否入局，很大程度要看第一款的市场反响。。。。",
+      "tags": [
+        "行业",
+        "爆料",
+        "微博"
+      ]
+    },
+    {
+      "id": "auto-ede423699fd9",
+      "title": "I want to love the Pixel 11 Pro Fold, but one silly change is stopping me",
+      "source": "Android Authority",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-24",
+      "time": "10:00",
+      "publishedAt": "2026-08-24T10:00:20.000Z",
+      "url": "https://www.androidauthority.com/pixel-11-pro-fold-uneven-thickness-3700383/",
+      "image": "",
+      "summary": "To make the Pixel 11 Pro Fold roughly 1mm thinner, Google made this compromise.",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-89c4f2337a6a",
+      "title": "折叠 iPhone 细节曝光，苹果想折叠的不只是屏幕",
+      "source": "爱范儿",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-08-24",
+      "time": "09:31",
+      "publishedAt": "2026-08-24T09:31:09.000Z",
+      "url": "https://www.ifanr.com/1676310?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "image": "https://s3.ifanr.com/wp-content/uploads/2026/08/10-5.png",
+      "summary": "期待值拉满，槽点也不少",
+      "tags": [
+        "iPhone",
+        "评测",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-278d8ae82d0f",
+      "title": "Galaxy Z Fold 8 rival with a wide design to debut in China next month",
+      "source": "SamMobile",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-24",
+      "time": "09:30",
+      "publishedAt": "2026-08-24T09:30:16.000Z",
+      "url": "https://www.sammobile.com/news/galaxy-z-fold-8-rival-xiaomi-18-fold-launch-china-september/",
+      "image": "https://www.sammobile.com/wp-content/uploads/2026/08/Xiaomi-Xring-O3-O100-D100-Processor.jpg",
+      "summary": "The Galaxy Z Fold 8 has definitely turned heads, thanks to its compact design. It has proven popular with users, as pre-orders reached record-breaking levels. However, it will fac…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-9623322b2e9f",
+      "title": "Pixel 11 Pro Fold cracks in bend test despite Google’s ‘3x stronger’ claims",
+      "source": "Android Authority",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-24",
+      "time": "09:24",
+      "publishedAt": "2026-08-24T09:24:55.000Z",
+      "url": "https://www.androidauthority.com/google-pixel-11-pro-fold-durability-test-fail-3702040/",
+      "image": "",
+      "summary": "This makes the Pixel 11 Pro Fold the fourth consecutive Google foldable to fail in this aspect.",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-fdf613e01fb2",
+      "title": "消息称一加 16 依然是子系旗舰机最窄四等边，定制新屏幕观感“很通透”",
+      "source": "IT之家",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-24",
+      "time": "09:21",
+      "publishedAt": "2026-08-24T09:21:07.000Z",
+      "url": "https://www.ithome.com/0/993/655.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/8/449016f0-bea7-4e3e-a552-89871d104207.png?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 8 月 24 日消息，微博博主 @数码闲聊站 今日在微博发文称： 新一轮骁龙 8 Elite 超级至尊版新机，一加 16 依然是子系旗舰中的最窄四等边，“大概这么窄🤏”，而且定制新屏观感也很通透，预定一个正面颜值 Top 结合IT之家此前援引博主消息 ，一加 16 将首发新一代东方屏，行业首个支持全局 165Hz 超高刷的屏幕。新机出厂预装 C…",
+      "tags": [
+        "OPPO",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-dbf1694ffd52",
+      "title": "New OnePlus 16 leak gives us another clue about what the US will miss out on",
+      "source": "Android Authority",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-24",
+      "time": "09:08",
+      "publishedAt": "2026-08-24T09:08:04.000Z",
+      "url": "https://www.androidauthority.com/oneplus-16-leak-custom-screen-ultra-narrow-bezels-3701998/",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2026/07/OnePlus-15-surrounded-by-phones-scaled.jpg",
+      "summary": "It's a shame that it won't launch in the US.",
+      "tags": [
+        "OPPO",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-499b55d7db67",
       "title": "Google wants $1,099 for the Pixel 11 Pro — here’s how I paid only $399",
@@ -82,26 +302,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "coolapk-user-b38109eb1ffc",
-      "title": "竹本青：🐮牛批 #HyperOS4# #玄戒O3#",
-      "source": "竹本青",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-08-24",
-      "time": "06:20",
-      "publishedAt": "2026-08-24T06:20:42.000Z",
-      "url": "https://www.coolapk.com/feed/73403088",
-      "image": "",
-      "summary": "🐮牛批 #HyperOS4# #玄戒O3#",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
       "id": "auto-b1ed68d06da4",
       "title": "If these Galaxy S27 Ultra renders are accurate, Samsung can’t stop Apple copycat claims",
       "source": "Android Authority",
@@ -133,7 +333,7 @@ window.phoneRadarAuto = {
       "time": "05:19",
       "publishedAt": "2026-08-24T05:19:31.000Z",
       "url": "https://www.ifanr.com/1676426?utm_source=rss&utm_medium=rss&utm_campaign=",
-      "image": "https://ifanr.feishu.cn/space/api/box/stream/download/asynccode/?code=NjVhNWNlNTZmNDdiYzIyMjZlMTBkMWFhNzc2YjllN2ZfTHJaTmNtbzd0c1FHT2F0ZXo3OFBqdVpycFdhS2dJNGJfVG9rZW46WHJ0N2JHUzJVb2tzbzZ4eGVZSGNlaFdFbm5jXzE3ODc1NDgxNTU6MTc4NzU1MTc1NV9WNA&add_watermark=true&scene_type=CCM",
+      "image": "https://s3.ifanr.com/wp-content/uploads/2026/08/img_6a8c150691eef.jpeg",
       "summary": "一万五的 iPhone，你会买吗",
       "tags": [
         "iPhone",
@@ -342,26 +542,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-26e828840f40",
-      "title": "还以为是假的，特地去翻下，结果居然是真的！！！不给二手保修是怎么想的？这以后要是其他手机厂商都跟进不得炸了[受虐滑稽]",
-      "source": "酷安热榜",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-08-24",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73384903",
-      "image": "",
-      "summary": "还以为是假的，特地去翻下，结果居然是真的！！！不给二手保修是怎么想的？这以后要是其他手机厂商都跟进不得炸了[受虐滑稽]",
-      "tags": [
-        "行业",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
       "id": "newsnow-0345fce40737",
       "title": "iphone信号并不差，实测下来其实是果子信号显示真实😂，地下车库一加15显示5g少一格(这个速度其实已经是4g了)，上行都跑不动，iphone显示4g跑出来也是和一加15差不多",
       "source": "酷安热榜",
@@ -382,21 +562,21 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-96b521c1adf0",
-      "title": "vivo X500系列官宣9月发布：全系三杯",
+      "id": "newsnow-26e828840f40",
+      "title": "还以为是假的，特地去翻下，结果居然是真的！！！不给二手保修是怎么想的？这以后要是其他手机厂商都跟进不得炸了[受虐滑稽]",
       "source": "酷安热榜",
-      "brand": "vivo",
-      "model": "vivo 相关机型",
+      "brand": "行业",
+      "model": "智能手机市场",
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-08-24",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73399367",
+      "url": "https://www.coolapk.com/feed/73384903",
       "image": "",
-      "summary": "vivo X500系列官宣9月发布：全系三杯",
+      "summary": "还以为是假的，特地去翻下，结果居然是真的！！！不给二手保修是怎么想的？这以后要是其他手机厂商都跟进不得炸了[受虐滑稽]",
       "tags": [
-        "vivo",
+        "行业",
         "爆料",
         "NewsNow"
       ]
@@ -597,26 +777,6 @@ window.phoneRadarAuto = {
       "summary": "Pixelsnap (thankfully) hasn't gone anywhere.",
       "tags": [
         "Pixel",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-0f65cf2166bc",
-      "title": "Is this your first look at the Galaxy S27 Ultra’s design?",
-      "source": "SamMobile",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-23",
-      "time": "10:00",
-      "publishedAt": "2026-08-23T10:00:42.000Z",
-      "url": "https://www.sammobile.com/news/galaxy-s27-ultra-design-first-look/",
-      "image": "https://www.sammobile.com/wp-content/uploads/2026/08/Samsung-Galaxy-S27-Ultra-Design-AI-Render.jpg",
-      "summary": "After announcing the Galaxy S26 FE on August 27, Samsung's next high-end smartphone announcement will arrive in early 2027. The South Korean tech giant is expected to unveil four…",
-      "tags": [
-        "Samsung",
         "爆料",
         "自动抓取"
       ]

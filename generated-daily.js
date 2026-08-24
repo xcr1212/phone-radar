@@ -1,12 +1,12 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-08-24T09:03:40.422Z",
+  "updatedAt": "2026-08-24T10:52:53.667Z",
   "issueDate": "2026-08-24",
   "issue": "VOL.260824",
   "title": "手机情报日报",
-  "intro": "今日筛出 18 条重点，其中 8 条是重点爆料，包含 6 条 iPhone 相关、1 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 15 条重点，其中 8 条是重点爆料，包含 7 条 iPhone 相关、1 条官方确认、0 条参数线索。",
   "stats": {
-    "total": 18,
-    "iphone": 6,
+    "total": 15,
+    "iphone": 7,
     "leaks": 8,
     "official": 1,
     "specs": 0
@@ -17,6 +17,29 @@ window.phoneRadarDaily = {
       "title": "重点爆料",
       "hint": "机模、配色、影像、屏幕、电池和芯片线索先看。",
       "items": [
+        {
+          "id": "auto-89c4f2337a6a",
+          "title": "折叠 iPhone 细节曝光，苹果想折叠的不只是屏幕",
+          "originalTitle": "",
+          "source": "爱范儿",
+          "brand": "iPhone",
+          "type": "评测",
+          "trust": "媒体汇总",
+          "date": "2026-08-24",
+          "time": "09:31",
+          "publishedAt": "2026-08-24T09:31:09.000Z",
+          "url": "https://www.ifanr.com/1676310?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "image": "https://s3.ifanr.com/wp-content/uploads/2026/08/10-5.png",
+          "verdict": "先看",
+          "takeaway": "期待值拉满，槽点也不少",
+          "detail": "期待值拉满，槽点也不少",
+          "keyPoints": [
+            "屏幕形态"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
         {
           "id": "auto-461f179752be",
           "title": "折叠 iPhone 最全爆料汇总：用过的都说好，但有两个大缺点",
@@ -29,7 +52,7 @@ window.phoneRadarDaily = {
           "time": "05:19",
           "publishedAt": "2026-08-24T05:19:31.000Z",
           "url": "https://www.ifanr.com/1676426?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "image": "https://ifanr.feishu.cn/space/api/box/stream/download/asynccode/?code=NjVhNWNlNTZmNDdiYzIyMjZlMTBkMWFhNzc2YjllN2ZfTHJaTmNtbzd0c1FHT2F0ZXo3OFBqdVpycFdhS2dJNGJfVG9rZW46WHJ0N2JHUzJVb2tzbzZ4eGVZSGNlaFdFbm5jXzE3ODc1NDgxNTU6MTc4NzU1MTc1NV9WNA&add_watermark=true&scene_type=CCM",
+          "image": "https://s3.ifanr.com/wp-content/uploads/2026/08/img_6a8c150691eef.jpeg",
           "verdict": "先看",
           "takeaway": "一万五的 iPhone，你会买吗",
           "detail": "一万五的 iPhone，你会买吗",
@@ -84,6 +107,30 @@ window.phoneRadarDaily = {
             "爆料来源"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "auto-fdf613e01fb2",
+          "title": "消息称一加 16 依然是子系旗舰机最窄四等边，定制新屏幕观感“很通透”",
+          "originalTitle": "",
+          "source": "IT之家",
+          "brand": "OPPO",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-08-24",
+          "time": "09:21",
+          "publishedAt": "2026-08-24T09:21:07.000Z",
+          "url": "https://www.ithome.com/0/993/655.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/8/449016f0-bea7-4e3e-a552-89871d104207.png?x-bce-process=image/format,f_auto",
+          "verdict": "先看",
+          "takeaway": "IT之家 8 月 24 日消息，微博博主 @数码闲聊站 今日在微博发文称： 新一轮骁龙 8 Elite 超级至尊版新机，一加 16 依然是子系旗舰中的最窄四等边，“大概这么窄🤏”，而且定制新屏观感也很通透，预定一个正面颜值 Top 结合IT之家此前援引博主消息 ，一加 16 将首发新一代东方屏，行业首个支持全局 165Hz 超高刷的屏幕。新机出厂预装 C…",
+          "detail": "IT之家 8 月 24 日消息，微博博主 @数码闲聊站 今日在微博发文称： 新一轮骁龙 8 Elite 超级至尊版新机，一加 16 依然是子系旗舰中的最窄四等边，“大概这么窄🤏”，而且定制新屏观感也很通透，预定一个正面颜值 Top 结合IT之家此前援引博主消息 ，一加 16 将首发新一代东方屏，行业首个支持全局 165Hz 超高刷的屏幕。新机出厂预装 C…",
+          "keyPoints": [
+            "屏幕形态",
+            "爆料来源"
+          ],
+          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
@@ -154,54 +201,6 @@ window.phoneRadarDaily = {
             "影像硬件",
             "成本 / 价格",
             "爆料来源"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "weibo-413253630e91",
-          "title": "数码闲聊站：玄戒芯片新进展将于今天下午公布，估计会同步官宣首款新机，各种意义上\"大的要来了…",
-          "originalTitle": "",
-          "source": "数码闲聊站",
-          "brand": "行业",
-          "type": "爆料",
-          "trust": "高关注爆料源",
-          "date": "2026-08-24",
-          "time": "03:47",
-          "publishedAt": "2026-08-24T03:47:06.000Z",
-          "url": "https://weibo.com/6048569942/ReR3pj5In",
-          "image": "",
-          "verdict": "先看",
-          "takeaway": "玄戒芯片新进展将于今天下午公布，估计会同步官宣首款新机，各种意义上\"大的要来了\"[笑而不语]",
-          "detail": "玄戒芯片新进展将于今天下午公布，估计会同步官宣首款新机，各种意义上\"大的要来了\"[笑而不语]",
-          "keyPoints": [
-            "芯片 / 性能",
-            "爆料来源"
-          ],
-          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "auto-b1ed68d06da4",
-          "title": "Galaxy S27 Ultra 外观设计线索曝光",
-          "originalTitle": "",
-          "source": "Android Authority",
-          "brand": "Samsung",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-08-24",
-          "time": "06:14",
-          "publishedAt": "2026-08-24T06:14:02.000Z",
-          "url": "https://www.androidauthority.com/samsung-galaxy-s27-ultra-render-leak-3701790/",
-          "image": "https://www.androidauthority.com/wp-content/uploads/2026/05/Samsung-Galaxy-S26-Ultra-and-Apple-iPhone-16-Pro.jpg",
-          "verdict": "先看",
-          "takeaway": "Galaxy S27 Ultra 外观设计线索曝光。重点看外观、颜色、尺寸是否和上一代有明显变化。",
-          "detail": "Galaxy S27 Ultra 外观设计线索曝光。这类内容主要看外观设计、按键布局、相机模组和尺寸变化，后续最好等更多渲染图或保护壳线索互相验证。",
-          "keyPoints": [
-            "外观 / 配色 / 尺寸",
-            "影像硬件"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
@@ -281,36 +280,6 @@ window.phoneRadarDaily = {
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是实际体验内容，买前适合重点看缺点和取舍。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        }
-      ]
-    },
-    {
-      "id": "launch",
-      "title": "新机与官方发布",
-      "hint": "能直接更新到参数库。",
-      "items": [
-        {
-          "id": "newsnow-96b521c1adf0",
-          "title": "vivo X500系列官宣9月发布：全系三杯",
-          "originalTitle": "",
-          "source": "酷安热榜",
-          "brand": "vivo",
-          "type": "爆料",
-          "trust": "高关注爆料源",
-          "date": "2026-08-24",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://www.coolapk.com/feed/73399367",
-          "image": "",
-          "verdict": "先看",
-          "takeaway": "vivo X500系列官宣9月发布：全系三杯",
-          "detail": "vivo X500系列官宣9月发布：全系三杯",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         }
       ]
@@ -405,52 +374,6 @@ window.phoneRadarDaily = {
           "verdict": "扫一眼",
           "takeaway": "还以为是假的，特地去翻下，结果居然是真的！！！不给二手保修是怎么想的？这以后要是其他手机厂商都跟进不得炸了[受虐滑稽]",
           "detail": "还以为是假的，特地去翻下，结果居然是真的！！！不给二手保修是怎么想的？这以后要是其他手机厂商都跟进不得炸了[受虐滑稽]",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
-        {
-          "id": "coolapk-user-b38109eb1ffc",
-          "title": "竹本青：🐮牛批 #HyperOS4# #玄戒O3#",
-          "originalTitle": "",
-          "source": "竹本青",
-          "brand": "Xiaomi",
-          "type": "爆料",
-          "trust": "高可信爆料",
-          "date": "2026-08-24",
-          "time": "06:20",
-          "publishedAt": "2026-08-24T06:20:42.000Z",
-          "url": "https://www.coolapk.com/feed/73403088",
-          "image": "",
-          "verdict": "扫一眼",
-          "takeaway": "🐮牛批 #HyperOS4# #玄戒O3#",
-          "detail": "🐮牛批 #HyperOS4# #玄戒O3#",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "可信度较高，但仍属于发布前线索。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
-        {
-          "id": "auto-499b55d7db67",
-          "title": "Pixel 11 Pro 系统功能 / AI 体验相关消息",
-          "originalTitle": "",
-          "source": "Android Authority",
-          "brand": "Pixel",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-08-24",
-          "time": "09:00",
-          "publishedAt": "2026-08-24T09:00:57.000Z",
-          "url": "https://www.androidauthority.com/i-bought-pixel-11-pro-for-399-promos-how-3701652/",
-          "image": "",
-          "verdict": "可略过",
-          "takeaway": "Pixel 有系统功能或 AI 体验更新，适合关注后续是否影响日常使用。",
-          "detail": "Pixel 11 Pro 系统功能 / AI 体验相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
           "keyPoints": [
             "爆料"
           ],
