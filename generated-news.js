@@ -1,6 +1,126 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-08-24T18:57:56.836Z",
+  "updatedAt": "2026-08-24T20:47:01.777Z",
   "news": [
+    {
+      "id": "auto-945384218d54",
+      "title": "Apple’s Emergency SOS Live Video is now available in Brazil",
+      "source": "9to5Mac",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-24",
+      "time": "20:28",
+      "publishedAt": "2026-08-24T20:28:19.000Z",
+      "url": "https://9to5mac.com/2026/08/24/apples-emergency-sos-live-video-is-now-available-in-brazil/",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/emergency-video-call.jpg?quality=82&strip=all&w=1600",
+      "summary": "Thanks to a new partnership with RapidSOS, emergency services in Brazil can now request live video from iPhone users. Here are the details.",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-2e42a55bf98c",
+      "title": "Pixel 11 Pro buyers are getting a $200 gift card before August 27",
+      "source": "Android Police",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-24",
+      "time": "20:23",
+      "publishedAt": "2026-08-24T20:23:42.000Z",
+      "url": "https://www.androidpolice.com/grab-a-200-gift-card-with-the-pixel-11-pro/",
+      "image": "",
+      "summary": "Time's winding down",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-ee245c263642",
+      "title": "The Pixel 11 Pro XL is built to last and easy to fix, teardown finds",
+      "source": "Android Authority",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-24",
+      "time": "20:12",
+      "publishedAt": "2026-08-24T20:12:44.000Z",
+      "url": "https://www.androidauthority.com/google-pixel-11-pro-xl-durability-test-3702439/",
+      "image": "",
+      "summary": "It's pricey, but at least you'll be able to hold onto it a few years.",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-776242fb59f6",
+      "title": "The Galaxy S27 Ultra may debut with self-healing glass",
+      "source": "Android Authority",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-24",
+      "time": "19:18",
+      "publishedAt": "2026-08-24T19:18:37.000Z",
+      "url": "https://www.androidauthority.com/samsung-galaxy-s27-ultra-self-healing-glass-3702407/",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2026/03/Samsung-Galaxy-S26-Ultra-display.jpg",
+      "summary": "Android Authority remembers the LG G Flex 2.",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-c808d9d19e83",
+      "title": "Galaxy S27 Pro could look identical to the S27 Ultra, only smaller",
+      "source": "Gizmochina",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-24",
+      "time": "19:11",
+      "publishedAt": "2026-08-24T19:11:45.000Z",
+      "url": "https://www.gizmochina.com/2026/08/24/galaxy-s27-pro-could-look-identical-to-the-s27-ultra-only-smaller/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/08/galaxy-s27-ultra-s27-pro-size-difference-300x169.jpg?x23692",
+      "summary": "Leaked CAD models suggest Samsung is looking at some pretty big design changes for its next Ultra flagship, including a new camera arrangement and possibly even different sizes. W…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-2463831275eb",
+      "title": "iPhone Ultra is coming, but it might not have these key features",
+      "source": "9to5Mac",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-24",
+      "time": "18:58",
+      "publishedAt": "2026-08-24T18:58:49.000Z",
+      "url": "https://9to5mac.com/2026/08/24/iphone-ultra-wont-have-these-five-features/",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/03/iphone-fold-mockup-purple.jpg?quality=82&strip=all&w=1600",
+      "summary": "Apple’s first foldable iPhone will reportedly be announced in just over two weeks. Despite potentially being branded as the “ iPhone Ultra ” and priced at over $2,000, it will hav…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-897569dc25b9",
       "title": "The Galaxy Z Fold 8 may get Samsung’s luxury treatment again",
@@ -802,26 +922,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-936c631e7e3d",
-      "title": "Pixel 11 owners can’t play Genshin Impact, but a fix is on the way",
-      "source": "Android Authority",
-      "brand": "Pixel",
-      "model": "Pixel 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-24",
-      "time": "07:12",
-      "publishedAt": "2026-08-24T07:12:44.000Z",
-      "url": "https://www.androidauthority.com/google-pixel-11-genshin-impact-3701959/",
-      "image": "",
-      "summary": "Genshin Impact unplayable on your new Pixel 11 phone? You're not alone, but a fix is coming.",
-      "tags": [
-        "Pixel",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-b1ed68d06da4",
       "title": "If these Galaxy S27 Ultra renders are accurate, Samsung can’t stop Apple copycat claims",
       "source": "Android Authority",
@@ -1002,87 +1102,7 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-ae1773c04109",
-      "title": "#数码日常# #鸿蒙NEXT# #酷工作# 喷了一辈子华为手机结果还是跑来华为上班了，以后不喷了[受虐滑稽]",
-      "source": "酷安热榜",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-08-24",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73385197",
-      "image": "",
-      "summary": "#数码日常# #鸿蒙NEXT# #酷工作# 喷了一辈子华为手机结果还是跑来华为上班了，以后不喷了[受虐滑稽]",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-e3a75b06cd3a",
-      "title": "确定是9030s了[流汗滑稽][流汗滑稽]各位有没有价格爆料？拍照规格大概是pura90pro的主摄加nova16ultra的长焦吧#鸿蒙7# #华为PuraXMax#",
-      "source": "酷安热榜",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-08-24",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73390616",
-      "image": "",
-      "summary": "确定是9030s了[流汗滑稽][流汗滑稽]各位有没有价格爆料？拍照规格大概是pura90pro的主摄加nova16ultra的长焦吧#鸿蒙7# #华为PuraXMax#",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-99ede9029e9e",
-      "title": "小米能来一个华为Pura X View这种的吗？",
-      "source": "酷安热榜",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-08-24",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73382841",
-      "image": "",
-      "summary": "小米能来一个华为Pura X View这种的吗？",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-0345fce40737",
-      "title": "iphone信号并不差，实测下来其实是果子信号显示真实😂，地下车库一加15显示5g少一格(这个速度其实已经是4g了)，上行都跑不动，iphone显示4g跑出来也是和一加15差不多",
-      "source": "酷安热榜",
-      "brand": "OPPO",
-      "model": "OPPO 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-08-24",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73387590",
-      "image": "",
-      "summary": "iphone信号并不差，实测下来其实是果子信号显示真实😂，地下车库一加15显示5g少一格(这个速度其实已经是4g了)，上行都跑不动，iphone显示4g跑出来也是和一加15差不多",
-      "tags": [
-        "OPPO",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-bdf8669de38d",
+      "id": "newsnow-86a8ebfce81c",
       "title": "网友外卖里吃出手机",
       "source": "微博热搜",
       "brand": "行业",
@@ -1092,7 +1112,7 @@ window.phoneRadarAuto = {
       "date": "2026-08-24",
       "time": "",
       "publishedAt": "",
-      "url": "https://s.weibo.com/weibo?q=%E7%BD%91%E5%8F%8B%E5%A4%96%E5%8D%96%E9%87%8C%E5%90%83%E5%87%BA%E6%89%8B%E6%9C%BA&t=31&band_rank=16&Refer=top",
+      "url": "https://s.weibo.com/weibo?q=%E7%BD%91%E5%8F%8B%E5%A4%96%E5%8D%96%E9%87%8C%E5%90%83%E5%87%BA%E6%89%8B%E6%9C%BA&t=31&band_rank=26&Refer=top",
       "image": "",
       "summary": "网友外卖里吃出手机",
       "tags": [
