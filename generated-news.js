@@ -1,6 +1,46 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-08-24T07:19:16.024Z",
+  "updatedAt": "2026-08-24T09:03:40.422Z",
   "news": [
+    {
+      "id": "auto-499b55d7db67",
+      "title": "Google wants $1,099 for the Pixel 11 Pro — here’s how I paid only $399",
+      "source": "Android Authority",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-24",
+      "time": "09:00",
+      "publishedAt": "2026-08-24T09:00:57.000Z",
+      "url": "https://www.androidauthority.com/i-bought-pixel-11-pro-for-399-promos-how-3701652/",
+      "image": "",
+      "summary": "All those promos add up fast.",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-c682715852c9",
+      "title": "Samsung Galaxy S27 Ultra could look more like an iPhone than ever",
+      "source": "Android Police",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-24",
+      "time": "07:41",
+      "publishedAt": "2026-08-24T07:41:47.000Z",
+      "url": "https://www.androidpolice.com/samsung-galaxy-s27-ultra-could-look-more-like-iphone-than-ever/",
+      "image": "",
+      "summary": "Samsung's next flagship could take a big design cue from iPhone 17 Pro",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-936c631e7e3d",
       "title": "Pixel 11 owners can’t play Genshin Impact, but a fix is on the way",
@@ -82,66 +122,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-ff4b01fe91fd",
-      "title": "曝小米 17 系列手机销量突破 600 万台，Ultra 约 24.3 万台",
-      "source": "IT之家",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-24",
-      "time": "05:37",
-      "publishedAt": "2026-08-24T05:37:05.000Z",
-      "url": "https://www.ithome.com/0/993/492.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/8/6c700191-a5a5-4557-966b-79a21ee38d25.png?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 8 月 24 日消息，据长期关注国内手机市场份额的数码博主 @RD观测 昨晚爆料，截至 2026 年第 33 周（8 月 10 日-8 月 16 日），小米 17 系列旗舰的销量突破 600 万台。 小米 17 系列约 602.63 万 小米 17 Ultra 约 24.3 万 博主此前发文注解， 称小米 17 系列的销量数据已加入小米 17 U…",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-d49abb916850",
-      "title": "玄戒 O3 确认！REDMI 产品经理胡馨心意外爆料小米自研芯片家族全新成员命名",
-      "source": "IT之家",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-24",
-      "time": "05:27",
-      "publishedAt": "2026-08-24T05:27:08.000Z",
-      "url": "https://www.ithome.com/0/993/489.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/8/8acb2a70-5455-4669-b83d-051c1b1f668d.png",
-      "summary": "IT之家 8 月 24 日消息， 小米手机昨日官宣，会在今天举行小米玄戒芯片技术沟通会 ，届时会带来玄戒芯片家族迎来全新成员的最新进展。 IT之家注意到，小米 REDMI 产品经理胡馨心刚刚发布微博，意外爆料了玄戒家族全新成员。从其微博未调整的原文来看， 这名新成员命名为“玄戒 O3” 。 目前，小米暂未披露更多关于玄戒新芯片的消息，感兴趣的小伙伴可以关注…",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "coolapk-user-a87800c02f5b",
-      "title": "竹本青：消息称小米17系列销量已突破600万台",
-      "source": "竹本青",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-08-24",
-      "time": "05:26",
-      "publishedAt": "2026-08-24T05:26:33.000Z",
-      "url": "https://www.coolapk.com/feed/73402343",
-      "image": "http://image.coolapk.com/feed/2026/0824/13/4248714_d30df777_9192_2759_563@1271x477.jpg",
-      "summary": "【消息称小米 17系列 销量已突破600万台】 8月24日，博主「RD观测」分享第三方数据：截至2026年第33周，小米 17系列累计销量约602.63万台；其中，Ultra约24.3万台。 前几周数据如下： 小米 17系列 截至2026 W32 —— 约597.43万 截至2026 W31 —— 约591.76万 截至2026 W30 —— 约583.9…",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
       "id": "auto-461f179752be",
       "title": "折叠 iPhone 最全爆料汇总：用过的都说好，但有两个大缺点",
       "source": "爱范儿",
@@ -158,66 +138,6 @@ window.phoneRadarAuto = {
       "tags": [
         "iPhone",
         "评测",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-f348f7218423",
-      "title": "“大的要来了”：小米玄戒芯片新进展今天公布，消息称预计会同步官宣首款新机",
-      "source": "IT之家",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-24",
-      "time": "05:14",
-      "publishedAt": "2026-08-24T05:14:58.000Z",
-      "url": "https://www.ithome.com/0/993/487.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/8/8acb2a70-5455-4669-b83d-051c1b1f668d.png?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 8 月 24 日消息，小米手机昨日官宣，会在今天举行小米玄戒芯片技术沟通会： 2025 年 5 月 22 日，玄戒第一款旗舰处理器面世 时隔 459 天，芯片家族迎来全新成员 明天 14 点，小米玄戒芯片负责人朱丹，带来最新进展，将以图文直播的形式与大家见面，不见不散！ 据博主 @数码闲聊站 透露，玄戒芯片新进展将于今天下午公布， 估计会同步官宣…",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-d2aaffec63ef",
-      "title": "古尔曼：中国折叠机占全球半壁江山，苹果得打好硬件和身份两张牌",
-      "source": "IT之家",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-24",
-      "time": "04:53",
-      "publishedAt": "2026-08-24T04:53:36.000Z",
-      "url": "https://www.ithome.com/0/993/484.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/8/a7fc1818-4897-4b7f-9124-2e6cec5b3f57.png?x-bce-process=image/format,f_auto",
-      "summary": "北京时间 8 月 24 日，彭博社知名苹果记者马克 · 古尔曼 (Mark Gurman) 周日发文称，中国占据了全球折叠屏手机出货量的一半以上，赢得这里消费者的青睐至关重要。 苹果折叠机设计类似三星 Galaxy Z Fold 8 古尔曼表示，9 月 9 日前后发布的折叠屏 iPhone 将是苹果这几年来最令人期待的新品。不过，他在文中也谈到了苹果折叠屏…",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-f2541bb0273e",
-      "title": "四川省地震局通报：成都高新减灾研究所冒用“中国地震预警网”名义发布震级为 7.7 级预警信息，今年 7 月已终止其授权",
-      "source": "IT之家",
-      "brand": "HONOR",
-      "model": "HONOR 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-24",
-      "time": "04:49",
-      "publishedAt": "2026-08-24T04:49:00.000Z",
-      "url": "https://www.ithome.com/0/993/483.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/8/eee5f558-8bba-4ab6-adc2-81d67207fa72.jpg",
-      "summary": "IT之家 8 月 24 日消息，四川省地震局今日午间发布关于宜宾长宁 4.7 级地震预警相关情况的通报： 据中国地震台网正式测定：2026 年 8 月 24 日 8 时 26 分在四川宜宾市长宁县（北纬 28.33 度，东经 104.98 度）发生 4.7 级地震，震源深度 5 公里。 成都高新减灾研究所冒用“中国地震预警网”名义，通过荣耀、维沃手机以及小…",
-      "tags": [
-        "HONOR",
-        "爆料",
         "自动抓取"
       ]
     },
@@ -239,26 +159,6 @@ window.phoneRadarAuto = {
         "行业",
         "爆料",
         "微博"
-      ]
-    },
-    {
-      "id": "auto-613c4ece83e8",
-      "title": "小米手机售后规则调整，明确二手产品 / 商品不属于三包范围",
-      "source": "IT之家",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-24",
-      "time": "03:01",
-      "publishedAt": "2026-08-24T03:01:48.000Z",
-      "url": "https://www.ithome.com/0/993/392.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/8/7d5b3ede-fff3-47ff-bc02-9de7cabc207f.jpg",
-      "summary": "IT之家 8 月 24 日消息，据用户反馈，小米手机的服务价格及服务政策迎来调整。在非保修条款中， 不属于三包范围的情况明确新增“产品属于二手商品” （二手商品系指用户购买时为非全新的产品或者用户自闲置资源交流社区购买或其他二手平台购买或者产品经过回收）。 IT之家查询获悉，不只保修政策，服务权益只换不修和电池保也是类似说明，用户享有权益的手机， 发生过任…",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "自动抓取"
       ]
     },
     {
@@ -402,26 +302,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-99ede9029e9e",
-      "title": "小米能来一个华为Pura X View这种的吗？",
-      "source": "酷安热榜",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-08-24",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73382841",
-      "image": "",
-      "summary": "小米能来一个华为Pura X View这种的吗？",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
       "id": "newsnow-e3a75b06cd3a",
       "title": "确定是9030s了[流汗滑稽][流汗滑稽]各位有没有价格爆料？拍照规格大概是pura90pro的主摄加nova16ultra的长焦吧#鸿蒙7# #华为PuraXMax#",
       "source": "酷安热榜",
@@ -435,6 +315,26 @@ window.phoneRadarAuto = {
       "url": "https://www.coolapk.com/feed/73390616",
       "image": "",
       "summary": "确定是9030s了[流汗滑稽][流汗滑稽]各位有没有价格爆料？拍照规格大概是pura90pro的主摄加nova16ultra的长焦吧#鸿蒙7# #华为PuraXMax#",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-99ede9029e9e",
+      "title": "小米能来一个华为Pura X View这种的吗？",
+      "source": "酷安热榜",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-08-24",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/73382841",
+      "image": "",
+      "summary": "小米能来一个华为Pura X View这种的吗？",
       "tags": [
         "Huawei",
         "爆料",
