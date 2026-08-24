@@ -1,12 +1,12 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-08-24T01:56:30.185Z",
+  "updatedAt": "2026-08-24T03:15:44.168Z",
   "issueDate": "2026-08-24",
   "issue": "VOL.260824",
   "title": "手机情报日报",
-  "intro": "今日筛出 18 条重点，其中 8 条是重点爆料，包含 7 条 iPhone 相关、1 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 18 条重点，其中 8 条是重点爆料，包含 6 条 iPhone 相关、1 条官方确认、0 条参数线索。",
   "stats": {
     "total": 18,
-    "iphone": 7,
+    "iphone": 6,
     "leaks": 8,
     "official": 1,
     "specs": 0
@@ -17,31 +17,6 @@ window.phoneRadarDaily = {
       "title": "重点爆料",
       "hint": "机模、配色、影像、屏幕、电池和芯片线索先看。",
       "items": [
-        {
-          "id": "auto-35221b5d5f19",
-          "title": "消息称苹果外部已有人体验过折叠屏 iPhone：屏幕铰链评价积极，但缺少长焦镜头",
-          "originalTitle": "",
-          "source": "IT之家",
-          "brand": "iPhone",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-08-23",
-          "time": "14:55",
-          "publishedAt": "2026-08-23T14:55:30.000Z",
-          "url": "https://www.ithome.com/0/993/311.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/8/37f598f2-8fc7-4c1e-b8a7-89dfd24a3a81.jpg",
-          "verdict": "先看",
-          "takeaway": "IT之家 8 月 23 日消息，彭博社记者马克 · 古尔曼在最新一期《Power On》通讯中透露，他已经与多位体验过苹果折叠屏 iPhone 手机的外部人士交流。 这款手机预计将于下个月和大众见面 ，外界普遍认为其名为 iPhone Ultra。 古尔曼表示，这些体验过 iPhone Ultra 的人都认为该机存在不少亮点。据他所述，这款手机折叠后比较厚…",
-          "detail": "IT之家 8 月 23 日消息，彭博社记者马克 · 古尔曼在最新一期《Power On》通讯中透露，他已经与多位体验过苹果折叠屏 iPhone 手机的外部人士交流。 这款手机预计将于下个月和大众见面 ，外界普遍认为其名为 iPhone Ultra。 古尔曼表示，这些体验过 iPhone Ultra 的人都认为该机存在不少亮点。据他所述，这款手机折叠后比较厚…",
-          "keyPoints": [
-            "影像硬件",
-            "屏幕形态",
-            "爆料来源"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
         {
           "id": "auto-ef071f43ab8e",
           "title": "iPhone 影像能力相关消息",
@@ -90,6 +65,30 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
+          "id": "auto-613c4ece83e8",
+          "title": "小米手机售后规则调整，明确二手产品 / 商品不属于三包范围",
+          "originalTitle": "",
+          "source": "IT之家",
+          "brand": "Xiaomi",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-08-24",
+          "time": "03:01",
+          "publishedAt": "2026-08-24T03:01:48.000Z",
+          "url": "https://www.ithome.com/0/993/392.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/8/7d5b3ede-fff3-47ff-bc02-9de7cabc207f.jpg",
+          "verdict": "先看",
+          "takeaway": "IT之家 8 月 24 日消息，据用户反馈，小米手机的服务价格及服务政策迎来调整。在非保修条款中， 不属于三包范围的情况明确新增“产品属于二手商品” （二手商品系指用户购买时为非全新的产品或者用户自闲置资源交流社区购买或其他二手平台购买或者产品经过回收）。 IT之家查询获悉，不只保修政策，服务权益只换不修和电池保也是类似说明，用户享有权益的手机， 发生过任…",
+          "detail": "IT之家 8 月 24 日消息，据用户反馈，小米手机的服务价格及服务政策迎来调整。在非保修条款中， 不属于三包范围的情况明确新增“产品属于二手商品” （二手商品系指用户购买时为非全新的产品或者用户自闲置资源交流社区购买或其他二手平台购买或者产品经过回收）。 IT之家查询获悉，不只保修政策，服务权益只换不修和电池保也是类似说明，用户享有权益的手机， 发生过任…",
+          "keyPoints": [
+            "电池 / 充电",
+            "成本 / 价格"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
           "id": "auto-e0e728dbdb55",
           "title": "消息称 vivo X500 系列首发与索尼联合定义“蓝图光御 900”主摄，2 亿灭霸长焦",
           "originalTitle": "",
@@ -114,49 +113,25 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
-          "id": "auto-8cea1ff42196",
-          "title": "古尔曼：iPhone 18 系列计划涨价，苹果将自行消化一部分成本",
+          "id": "weibo-b585949509ad",
+          "title": "数码闲聊站：新一轮骁龙8 Elite超级至尊版新机，一加16依然是子系旗舰中的最窄四等边，…",
           "originalTitle": "",
-          "source": "IT之家",
-          "brand": "Samsung",
+          "source": "数码闲聊站",
+          "brand": "OPPO",
           "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-08-23",
-          "time": "15:00",
-          "publishedAt": "2026-08-23T15:00:38.000Z",
-          "url": "https://www.ithome.com/0/993/312.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/7/df5ddeb5-c1b1-48b0-bac7-5bedd1b8368f.jpg?x-bce-process=image/format,f_auto/auto-orient,o_1",
+          "trust": "高关注爆料源",
+          "date": "2026-08-24",
+          "time": "02:03",
+          "publishedAt": "2026-08-24T02:03:00.000Z",
+          "url": "https://weibo.com/6048569942/ReQn9pLnq",
+          "image": "",
           "verdict": "先看",
-          "takeaway": "IT之家 8 月 23 日消息，彭博社记者马克 · 古尔曼今天（23 日）晚间更新《Power On》时事通讯称，苹果即将用首款折叠屏 iPhone 重新找回久违的产品新鲜感。同时，公司正在考虑上调下个月发布的新款 iPhone 18 系列售价。 古尔曼表示，继三星和谷歌之后，苹果 也准备上调 iPhone 价格 。两个月前，苹果已经几乎全面提高了 iPh…",
-          "detail": "IT之家 8 月 23 日消息，彭博社记者马克 · 古尔曼今天（23 日）晚间更新《Power On》时事通讯称，苹果即将用首款折叠屏 iPhone 重新找回久违的产品新鲜感。同时，公司正在考虑上调下个月发布的新款 iPhone 18 系列售价。 古尔曼表示，继三星和谷歌之后，苹果 也准备上调 iPhone 价格 。两个月前，苹果已经几乎全面提高了 iPh…",
+          "takeaway": "新一轮骁龙8 Elite超级至尊版新机，一加16依然是子系旗舰中的最窄四等边，“大概这么窄🤏”，而且定制新屏观感也很通透，预定一个正面颜值Top",
+          "detail": "新一轮骁龙8 Elite超级至尊版新机，一加16依然是子系旗舰中的最窄四等边，“大概这么窄🤏”，而且定制新屏观感也很通透，预定一个正面颜值Top",
           "keyPoints": [
-            "屏幕形态",
-            "成本 / 价格"
+            "爆料来源"
           ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "auto-481f09b124df",
-          "title": "三星 Galaxy S27 Ultra 手机后盖工程图流出，可能存在两个版本",
-          "originalTitle": "",
-          "source": "IT之家",
-          "brand": "Samsung",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-08-23",
-          "time": "14:07",
-          "publishedAt": "2026-08-23T14:07:20.000Z",
-          "url": "https://www.ithome.com/0/993/303.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/8/0c4621b5-8d47-426b-a9f3-dddca1a472ca.jpg?x-bce-process=image/format,f_auto",
-          "verdict": "先看",
-          "takeaway": "IT之家 8 月 23 日消息，微博博主 @i冰宇宙 今日放出了三星 Galaxy S27 Ultra 手机的后盖工程图，显示该机目前存在两个版本：一个和后摄模组对齐，一个靠下。 X 平台消息人士 Sonny Dickson 随后表示， Galaxy S27 Ultra 将有两种尺寸 。如果消息属实，这将是三星 Galaxy S Ultra 系列直板手机首…",
-          "detail": "IT之家 8 月 23 日消息，微博博主 @i冰宇宙 今日放出了三星 Galaxy S27 Ultra 手机的后盖工程图，显示该机目前存在两个版本：一个和后摄模组对齐，一个靠下。 X 平台消息人士 Sonny Dickson 随后表示， Galaxy S27 Ultra 将有两种尺寸 。如果消息属实，这将是三星 Galaxy S Ultra 系列直板手机首…",
-          "keyPoints": [
-            "外观 / 配色 / 尺寸"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
@@ -207,6 +182,29 @@ window.phoneRadarDaily = {
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "coolapk-user-cebaae4c5e6a",
+          "title": "竹本青：vivo X500系列官宣9月发布：全系三杯",
+          "originalTitle": "",
+          "source": "竹本青",
+          "brand": "vivo",
+          "type": "爆料",
+          "trust": "高可信爆料",
+          "date": "2026-08-24",
+          "time": "02:00",
+          "publishedAt": "2026-08-24T02:00:46.000Z",
+          "url": "https://www.coolapk.com/feed/73399367",
+          "image": "http://image.coolapk.com/feed/2026/0824/10/4248714_0f52f5d2_6845_6136_849@2000x2667.jpg",
+          "verdict": "先看",
+          "takeaway": "【vivo X500系列官宣9月发布：全系三杯，Pro系列主摄首发「蓝图光御900」】 8月24日，vivo 产品经理韩伯啸宣布，全新X500系列将在9月正式见面。全系共3杯，分别为X500、X500 Pro、X500 Pro Max。 他介绍，全新“灭霸500”将带来视频、拍照、性能、屏幕、OS的五大升级： 第一大升级：「视频」 本次Pro系列，全球首发…",
+          "detail": "【vivo X500系列官宣9月发布：全系三杯，Pro系列主摄首发「蓝图光御900」】 8月24日，vivo 产品经理韩伯啸宣布，全新X500系列将在9月正式见面。全系共3杯，分别为X500、X500 Pro、X500 Pro Max。 他介绍，全新“灭霸500”将带来视频、拍照、性能、屏幕、OS的五大升级： 第一大升级：「视频」 本次Pro系列，全球首发…",
+          "keyPoints": [
+            "屏幕形态"
+          ],
+          "confidence": "可信度较高，但仍属于发布前线索。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         }
       ]
     },
@@ -240,7 +238,7 @@ window.phoneRadarDaily = {
         },
         {
           "id": "coolapk-user-5834e1919620",
-          "title": "竹本青：【iPhone 17系列 中国区最新销量曝光：周增约52.58万台，累计超4057万台】 8月23日，博主「RD观…",
+          "title": "竹本青：iPhone 17系列中国区最新销量曝光：周增约52.58万台",
           "originalTitle": "",
           "source": "竹本青",
           "brand": "iPhone",
@@ -361,6 +359,29 @@ window.phoneRadarDaily = {
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         },
         {
+          "id": "coolapk-user-5dcdd1233090",
+          "title": "竹本青：小米手机/手环等产品售后规则调整：二手不属于三包范围，需支付维修费 #今日热点# #HyperOS4#",
+          "originalTitle": "",
+          "source": "竹本青",
+          "brand": "Xiaomi",
+          "type": "爆料",
+          "trust": "高可信爆料",
+          "date": "2026-08-24",
+          "time": "03:14",
+          "publishedAt": "2026-08-24T03:14:55.000Z",
+          "url": "https://www.coolapk.com/feed/73400486",
+          "image": "http://image.coolapk.com/feed/2026/0824/11/4248714_0edcf7fa_1293_7656_608@1440x262.jpg",
+          "verdict": "扫一眼",
+          "takeaway": "小米手机/手环等产品售后规则调整：二手不属于三包范围，需支付维修费 #今日热点# #HyperOS4#",
+          "detail": "小米手机/手环等产品售后规则调整：二手不属于三包范围，需支付维修费 #今日热点# #HyperOS4#",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "可信度较高，但仍属于发布前线索。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        },
+        {
           "id": "newsnow-99ede9029e9e",
           "title": "小米能来一个华为Pura X View这种的吗？",
           "originalTitle": "",
@@ -427,29 +448,6 @@ window.phoneRadarDaily = {
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "影响购买预算，值得先看。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
-        {
-          "id": "coolapk-user-05d70ff2da34",
-          "title": "竹本青：【荣耀机器人闪电打破五项人类世界纪录】 8月23日，荣耀公司宣布旗下自研机器人“闪电”，在第二届世界人形机器人运动…",
-          "originalTitle": "",
-          "source": "竹本青",
-          "brand": "HONOR",
-          "type": "爆料",
-          "trust": "高可信爆料",
-          "date": "2026-08-23",
-          "time": "13:49",
-          "publishedAt": "2026-08-23T13:49:29.000Z",
-          "url": "https://www.coolapk.com/feed/73393863",
-          "image": "http://image.coolapk.com/feed/2026/0823/21/4248714_39382324_2969_0998_183@1280x2276.jpg",
-          "verdict": "扫一眼",
-          "takeaway": "【荣耀机器人闪电打破五项人类世界纪录】 8月23日，荣耀公司宣布旗下自研机器人“闪电”，在第二届世界人形机器人运动会上，打破五项人类世界纪录： ● 50分26秒，打破人类半马世界纪录 ● 2分30秒，打破人类1500米世界纪录 ● 39.45秒，打破人类400米世界纪录 ● 9.32秒，打破人类百米世界纪录 ● 14.5米/秒，超越人类巅峰速度 #今日热点…",
-          "detail": "【荣耀机器人闪电打破五项人类世界纪录】 8月23日，荣耀公司宣布旗下自研机器人“闪电”，在第二届世界人形机器人运动会上，打破五项人类世界纪录： ● 50分26秒，打破人类半马世界纪录 ● 2分30秒，打破人类1500米世界纪录 ● 39.45秒，打破人类400米世界纪录 ● 9.32秒，打破人类百米世界纪录 ● 14.5米/秒，超越人类巅峰速度 #今日热点…",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "可信度较高，但仍属于发布前线索。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         }
       ]

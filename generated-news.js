@@ -1,6 +1,126 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-08-24T01:56:30.185Z",
+  "updatedAt": "2026-08-24T03:15:44.168Z",
   "news": [
+    {
+      "id": "coolapk-user-5dcdd1233090",
+      "title": "竹本青：小米手机/手环等产品售后规则调整：二手不属于三包范围，需支付维修费 #今日热点# #HyperOS4#",
+      "source": "竹本青",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-08-24",
+      "time": "03:14",
+      "publishedAt": "2026-08-24T03:14:55.000Z",
+      "url": "https://www.coolapk.com/feed/73400486",
+      "image": "http://image.coolapk.com/feed/2026/0824/11/4248714_0edcf7fa_1293_7656_608@1440x262.jpg",
+      "summary": "小米手机/手环等产品售后规则调整：二手不属于三包范围，需支付维修费 #今日热点# #HyperOS4#",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-613c4ece83e8",
+      "title": "小米手机售后规则调整，明确二手产品 / 商品不属于三包范围",
+      "source": "IT之家",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-24",
+      "time": "03:01",
+      "publishedAt": "2026-08-24T03:01:48.000Z",
+      "url": "https://www.ithome.com/0/993/392.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/8/7d5b3ede-fff3-47ff-bc02-9de7cabc207f.jpg",
+      "summary": "IT之家 8 月 24 日消息，据用户反馈，小米手机的服务价格及服务政策迎来调整。在非保修条款中， 不属于三包范围的情况明确新增“产品属于二手商品” （二手商品系指用户购买时为非全新的产品或者用户自闲置资源交流社区购买或其他二手平台购买或者产品经过回收）。 IT之家查询获悉，不只保修政策，服务权益只换不修和电池保也是类似说明，用户享有权益的手机， 发生过任…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-2d17dc58b7b4",
+      "title": "Official: Vivo X500 series confirmed for September with cinema-grade video capabilities",
+      "source": "Gizmochina",
+      "brand": "vivo",
+      "model": "vivo 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-24",
+      "time": "02:33",
+      "publishedAt": "2026-08-24T02:33:06.000Z",
+      "url": "https://www.gizmochina.com/2026/08/24/vivo-x500-series-september-launch-confirmed/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/08/Vivo-X500-series-first-details-confirmed-225x300.png?x23692",
+      "summary": "Vivo has officially confirmed that the X500 series will arrive in September in China, with three models in the lineup: the X500, X500 Pro, and X500 Pro Max. This also confirms tha…",
+      "tags": [
+        "vivo",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-770800daa529",
+      "title": "vivo 韩伯啸官宣全新 X500 系列 9 月亮相，全系 3 杯",
+      "source": "IT之家",
+      "brand": "vivo",
+      "model": "vivo 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-24",
+      "time": "02:09",
+      "publishedAt": "2026-08-24T02:09:07.000Z",
+      "url": "https://www.ithome.com/0/993/369.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/8/1c78f2c4-3432-449c-a265-a97b55547a39.png?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 8 月 24 日消息，vivo 通信科技有限公司产品经理韩伯啸今日宣布，全新的 X500 系列将在 9 月正式和大家见面，全系 3 杯，包括 X500、X500 Pro、X500 Pro Max。 他表示，X 系列作为长期定义的“专业影像旗舰”， 不仅在拍照和视频上长期称王，也是性能之王 。而在影像上，我们要在本代把手机视频再拉高一个维度 ——…",
+      "tags": [
+        "vivo",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "weibo-b585949509ad",
+      "title": "数码闲聊站：新一轮骁龙8 Elite超级至尊版新机，一加16依然是子系旗舰中的最窄四等边，…",
+      "source": "数码闲聊站",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-08-24",
+      "time": "02:03",
+      "publishedAt": "2026-08-24T02:03:00.000Z",
+      "url": "https://weibo.com/6048569942/ReQn9pLnq",
+      "image": "",
+      "summary": "新一轮骁龙8 Elite超级至尊版新机，一加16依然是子系旗舰中的最窄四等边，“大概这么窄🤏”，而且定制新屏观感也很通透，预定一个正面颜值Top",
+      "tags": [
+        "OPPO",
+        "爆料",
+        "微博"
+      ]
+    },
+    {
+      "id": "coolapk-user-cebaae4c5e6a",
+      "title": "竹本青：vivo X500系列官宣9月发布：全系三杯",
+      "source": "竹本青",
+      "brand": "vivo",
+      "model": "vivo 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-08-24",
+      "time": "02:00",
+      "publishedAt": "2026-08-24T02:00:46.000Z",
+      "url": "https://www.coolapk.com/feed/73399367",
+      "image": "http://image.coolapk.com/feed/2026/0824/10/4248714_0f52f5d2_6845_6136_849@2000x2667.jpg",
+      "summary": "【vivo X500系列官宣9月发布：全系三杯，Pro系列主摄首发「蓝图光御900」】 8月24日，vivo 产品经理韩伯啸宣布，全新X500系列将在9月正式见面。全系共3杯，分别为X500、X500 Pro、X500 Pro Max。 他介绍，全新“灭霸500”将带来视频、拍照、性能、屏幕、OS的五大升级： 第一大升级：「视频」 本次Pro系列，全球首发…",
+      "tags": [
+        "vivo",
+        "爆料",
+        "酷安博主"
+      ]
+    },
     {
       "id": "auto-e0e728dbdb55",
       "title": "消息称 vivo X500 系列首发与索尼联合定义“蓝图光御 900”主摄，2 亿灭霸长焦",
@@ -23,7 +143,7 @@ window.phoneRadarAuto = {
     },
     {
       "id": "coolapk-user-ae3610f401c4",
-      "title": "竹本青：【曝vivo X500系列 首发「蓝图光御900」主摄：与索尼联合定义，17EV动态范围】 博主数码闲聊站今天爆料…",
+      "title": "竹本青：曝vivo X500系列首发「蓝图光御900」主摄",
       "source": "竹本青",
       "brand": "vivo",
       "model": "vivo 相关机型",
@@ -122,6 +242,26 @@ window.phoneRadarAuto = {
       ]
     },
     {
+      "id": "newsnow-ae1773c04109",
+      "title": "#数码日常# #鸿蒙NEXT# #酷工作# 喷了一辈子华为手机结果还是跑来华为上班了，以后不喷了[受虐滑稽]",
+      "source": "酷安热榜",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-08-24",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/73385197",
+      "image": "",
+      "summary": "#数码日常# #鸿蒙NEXT# #酷工作# 喷了一辈子华为手机结果还是跑来华为上班了，以后不喷了[受虐滑稽]",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
       "id": "newsnow-99ede9029e9e",
       "title": "小米能来一个华为Pura X View这种的吗？",
       "source": "酷安热榜",
@@ -142,8 +282,8 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-ae1773c04109",
-      "title": "#数码日常# #鸿蒙NEXT# #酷工作# 喷了一辈子华为手机结果还是跑来华为上班了，以后不喷了[受虐滑稽]",
+      "id": "newsnow-e3a75b06cd3a",
+      "title": "确定是9030s了[流汗滑稽][流汗滑稽]各位有没有价格爆料？拍照规格大概是pura90pro的主摄加nova16ultra的长焦吧#鸿蒙7# #华为PuraXMax#",
       "source": "酷安热榜",
       "brand": "Huawei",
       "model": "Huawei 相关机型",
@@ -152,9 +292,9 @@ window.phoneRadarAuto = {
       "date": "2026-08-24",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73385197",
+      "url": "https://www.coolapk.com/feed/73390616",
       "image": "",
-      "summary": "#数码日常# #鸿蒙NEXT# #酷工作# 喷了一辈子华为手机结果还是跑来华为上班了，以后不喷了[受虐滑稽]",
+      "summary": "确定是9030s了[流汗滑稽][流汗滑稽]各位有没有价格爆料？拍照规格大概是pura90pro的主摄加nova16ultra的长焦吧#鸿蒙7# #华为PuraXMax#",
       "tags": [
         "Huawei",
         "爆料",
@@ -182,21 +322,21 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-e3a75b06cd3a",
-      "title": "确定是9030s了[流汗滑稽][流汗滑稽]各位有没有价格爆料？拍照规格大概是pura90pro的主摄加nova16ultra的长焦吧#鸿蒙7# #华为PuraXMax#",
+      "id": "newsnow-0345fce40737",
+      "title": "iphone信号并不差，实测下来其实是果子信号显示真实😂，地下车库一加15显示5g少一格(这个速度其实已经是4g了)，上行都跑不动，iphone显示4g跑出来也是和一加15差不多",
       "source": "酷安热榜",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-08-24",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73390616",
+      "url": "https://www.coolapk.com/feed/73387590",
       "image": "",
-      "summary": "确定是9030s了[流汗滑稽][流汗滑稽]各位有没有价格爆料？拍照规格大概是pura90pro的主摄加nova16ultra的长焦吧#鸿蒙7# #华为PuraXMax#",
+      "summary": "iphone信号并不差，实测下来其实是果子信号显示真实😂，地下车库一加15显示5g少一格(这个速度其实已经是4g了)，上行都跑不动，iphone显示4g跑出来也是和一加15差不多",
       "tags": [
-        "Huawei",
+        "OPPO",
         "爆料",
         "NewsNow"
       ]
@@ -217,26 +357,6 @@ window.phoneRadarAuto = {
       "summary": "大家为什么都默认能卖爆？这手机目前的三大竞争对手是线上降价的mate80pro max、pura 90pro max以及9月新品mate90pro。",
       "tags": [
         "行业",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-0345fce40737",
-      "title": "iphone信号并不差，实测下来其实是果子信号显示真实😂，地下车库一加15显示5g少一格(这个速度其实已经是4g了)，上行都跑不动，iphone显示4g跑出来也是和一加15差不多",
-      "source": "酷安热榜",
-      "brand": "OPPO",
-      "model": "OPPO 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-08-24",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73387590",
-      "image": "",
-      "summary": "iphone信号并不差，实测下来其实是果子信号显示真实😂，地下车库一加15显示5g少一格(这个速度其实已经是4g了)，上行都跑不动，iphone显示4g跑出来也是和一加15差不多",
-      "tags": [
-        "OPPO",
         "爆料",
         "NewsNow"
       ]
@@ -382,46 +502,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-8cea1ff42196",
-      "title": "古尔曼：iPhone 18 系列计划涨价，苹果将自行消化一部分成本",
-      "source": "IT之家",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-23",
-      "time": "15:00",
-      "publishedAt": "2026-08-23T15:00:38.000Z",
-      "url": "https://www.ithome.com/0/993/312.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/7/df5ddeb5-c1b1-48b0-bac7-5bedd1b8368f.jpg?x-bce-process=image/format,f_auto/auto-orient,o_1",
-      "summary": "IT之家 8 月 23 日消息，彭博社记者马克 · 古尔曼今天（23 日）晚间更新《Power On》时事通讯称，苹果即将用首款折叠屏 iPhone 重新找回久违的产品新鲜感。同时，公司正在考虑上调下个月发布的新款 iPhone 18 系列售价。 古尔曼表示，继三星和谷歌之后，苹果 也准备上调 iPhone 价格 。两个月前，苹果已经几乎全面提高了 iPh…",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-35221b5d5f19",
-      "title": "消息称苹果外部已有人体验过折叠屏 iPhone：屏幕铰链评价积极，但缺少长焦镜头",
-      "source": "IT之家",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-23",
-      "time": "14:55",
-      "publishedAt": "2026-08-23T14:55:30.000Z",
-      "url": "https://www.ithome.com/0/993/311.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/8/37f598f2-8fc7-4c1e-b8a7-89dfd24a3a81.jpg",
-      "summary": "IT之家 8 月 23 日消息，彭博社记者马克 · 古尔曼在最新一期《Power On》通讯中透露，他已经与多位体验过苹果折叠屏 iPhone 手机的外部人士交流。 这款手机预计将于下个月和大众见面 ，外界普遍认为其名为 iPhone Ultra。 古尔曼表示，这些体验过 iPhone Ultra 的人都认为该机存在不少亮点。据他所述，这款手机折叠后比较厚…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-c176fb00ec74",
       "title": "Two weeks with the Samsung Galaxy Z Flip 8 almost made me forget about the Motorola Razr",
       "source": "Android Central",
@@ -482,28 +562,8 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-481f09b124df",
-      "title": "三星 Galaxy S27 Ultra 手机后盖工程图流出，可能存在两个版本",
-      "source": "IT之家",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-23",
-      "time": "14:07",
-      "publishedAt": "2026-08-23T14:07:20.000Z",
-      "url": "https://www.ithome.com/0/993/303.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/8/0c4621b5-8d47-426b-a9f3-dddca1a472ca.jpg?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 8 月 23 日消息，微博博主 @i冰宇宙 今日放出了三星 Galaxy S27 Ultra 手机的后盖工程图，显示该机目前存在两个版本：一个和后摄模组对齐，一个靠下。 X 平台消息人士 Sonny Dickson 随后表示， Galaxy S27 Ultra 将有两种尺寸 。如果消息属实，这将是三星 Galaxy S Ultra 系列直板手机首…",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "coolapk-user-05d70ff2da34",
-      "title": "竹本青：【荣耀机器人闪电打破五项人类世界纪录】 8月23日，荣耀公司宣布旗下自研机器人“闪电”，在第二届世界人形机器人运动…",
+      "title": "竹本青：荣耀机器人闪电打破五项人类世界纪录",
       "source": "竹本青",
       "brand": "HONOR",
       "model": "HONOR 相关机型",
@@ -583,7 +643,7 @@ window.phoneRadarAuto = {
     },
     {
       "id": "coolapk-user-5834e1919620",
-      "title": "竹本青：【iPhone 17系列 中国区最新销量曝光：周增约52.58万台，累计超4057万台】 8月23日，博主「RD观…",
+      "title": "竹本青：iPhone 17系列中国区最新销量曝光：周增约52.58万台",
       "source": "竹本青",
       "brand": "iPhone",
       "model": "iPhone 相关机型",
@@ -679,46 +739,6 @@ window.phoneRadarAuto = {
         "Xiaomi",
         "爆料",
         "自动抓取"
-      ]
-    },
-    {
-      "id": "coolapk-user-eee819ddb17e",
-      "title": "竹本青：【400米决赛39.45秒，荣耀机器人闪电打破人类世界纪录】 荣耀公司今天宣布，在第二届世界人形机器人运动会，40…",
-      "source": "竹本青",
-      "brand": "HONOR",
-      "model": "HONOR 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-08-23",
-      "time": "08:16",
-      "publishedAt": "2026-08-23T08:16:43.000Z",
-      "url": "https://www.coolapk.com/feed/73389056",
-      "image": "http://image.coolapk.com/feed/2026/0823/16/4248714_cdfa21f3_3002_9789_238@2160x3840.jpg",
-      "summary": "【400米决赛39.45秒，荣耀机器人闪电打破人类世界纪录】 荣耀公司今天宣布，在第二届世界人形机器人运动会，400米项目决赛中，旗下机器人闪电以39.45秒的成绩冲线，打破范尼凯克在2016年里约奥运会创造的43.03秒人类世界纪录。 #今日热点# #机器人#",
-      "tags": [
-        "HONOR",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
-      "id": "coolapk-user-804322616ef8",
-      "title": "竹本青：【华为Mate 80系列 最新销量曝光：周增约17.34万台，累计超862万台】 8月23日，博主「RD观测」分享…",
-      "source": "竹本青",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-08-23",
-      "time": "08:07",
-      "publishedAt": "2026-08-23T08:07:39.000Z",
-      "url": "https://www.coolapk.com/feed/73388955",
-      "image": "http://image.coolapk.com/feed/2026/0823/16/4248714_2694f6fa_2594_4774_329@3336x2484.jpg",
-      "summary": "【华为Mate 80系列 最新销量曝光：周增约17.34万台，累计超862万台】 8月23日，博主「RD观测」分享第三方统计数据：截至2026年第33周，华为Mate 80系列累计销量约862.91万台，周新增约17.34万台。 前几周数据如下： 截至26 W32 —— 约845.57万（周增17.73万） 截至26 W31 —— 约827.84万（周增1…",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "酷安博主"
       ]
     },
     {
