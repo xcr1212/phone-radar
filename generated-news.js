@@ -1,6 +1,146 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-08-24T16:54:03.957Z",
+  "updatedAt": "2026-08-24T18:57:56.836Z",
   "news": [
+    {
+      "id": "auto-897569dc25b9",
+      "title": "The Galaxy Z Fold 8 may get Samsung’s luxury treatment again",
+      "source": "Android Central",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-08-24",
+      "time": "18:28",
+      "publishedAt": "2026-08-24T18:28:59.000Z",
+      "url": "https://www.androidcentral.com/phones/samsung-galaxy/the-galaxy-z-fold-8-may-get-samsungs-luxury-treatment-again",
+      "image": "https://cdn.mos.cms.futurecdn.net/b3CjV24PFApvsomWzfSDGb-1280-80.jpg",
+      "summary": "Samsung reportedly plans to keep the Galaxy Z Fold 8 hype going with a pricey, limited-edition luxury collab, and Thom Browne is the top candidate to return.",
+      "tags": [
+        "Samsung",
+        "评测",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-a16368a05898",
+      "title": "iPhone 18 Pro’s new price might be better than expected",
+      "source": "9to5Mac",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-24",
+      "time": "18:22",
+      "publishedAt": "2026-08-24T18:22:34.000Z",
+      "url": "https://9to5mac.com/2026/08/24/iphone-18-pros-new-price-might-be-better-than-expected/",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/iphone-18-price-dollar-cost.jpg?quality=82&strip=all&w=1600",
+      "summary": "Apple will launch the iPhone 18 Pro soon, and a new report indicates its price might not be as high as several analysts have suggested. Here are the details.",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-b1ea47477509",
+      "title": "Apple’s 20th anniversary iPhone could take some inspiration from Android phones",
+      "source": "Android Authority",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-24",
+      "time": "18:13",
+      "publishedAt": "2026-08-24T18:13:26.000Z",
+      "url": "https://www.androidauthority.com/apple-iphone-20th-anniversary-android-3702273/",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2025/09/Apple-iPhone-Air_9-scaled-e1761389770799-500w-260h.jpg",
+      "summary": "A leaked render of the 20th anniversary iPhone reveals a radical new redesign, with some familiar elements.",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-2d613fb77e79",
+      "title": "Galaxy S27 series design gets way more interesting in new leaked renders",
+      "source": "SamMobile",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-24",
+      "time": "18:09",
+      "publishedAt": "2026-08-24T18:09:05.000Z",
+      "url": "https://www.sammobile.com/news/galaxy-s27-series-design-gets-way-more-interesting-in-new-leaked-renders/",
+      "image": "https://www.sammobile.com/wp-content/uploads/2026/08/galaxy-s27-ultra-cad-1-1.jpeg",
+      "summary": "A few more design cues for the entire Galaxy S27 series have just been revealed through a series of fan-made CAD renders. According to leaks, next year's Galaxy S27 series might f…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-e43987104518",
+      "title": "Xiaomi CEO Confirms Separate Launches for Xiaomi 18 Fold and 18 Pro",
+      "source": "Gizmochina",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-24",
+      "time": "17:49",
+      "publishedAt": "2026-08-24T17:49:51.000Z",
+      "url": "https://www.gizmochina.com/2026/08/24/xiaomi-ceo-confirms-separate-launches-for-xiaomi-18-fold-and-18-pro/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2024/07/Xiaomi-MIX-Fold-4_1.mp4_20240726_180859.498-300x169.jpg?x23692",
+      "summary": "Xiaomi CEO Lei Jun says September will be a “big month” for the company as new products are lined up one after another. According to Lei, the month will begin with the launch of X…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-7c4f3cbd9926",
+      "title": "Pixel 10 vs. Pixel 11: Where are the upgrades? [Video]",
+      "source": "9to5Google",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-24",
+      "time": "17:15",
+      "publishedAt": "2026-08-24T17:15:00.000Z",
+      "url": "https://9to5google.com/2026/08/24/pixel-10-vs-pixel-11/",
+      "image": "",
+      "summary": "A year in tech used to bring about big, bold changes. Today, things are iterative, merely refinements, and that has never been more apparent than going from the Pixel 10 to the Pi…",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-193ff26f6ef5",
+      "title": "The Pixel 11 Pro’s flashlight is a little bit worse because of ‘HiLight’ [Gallery]",
+      "source": "9to5Google",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-24",
+      "time": "17:05",
+      "publishedAt": "2026-08-24T17:05:00.000Z",
+      "url": "https://9to5google.com/2026/08/24/the-pixel-11-pros-flashlight-is-a-little-bit-worse-because-of-hilight-gallery/",
+      "image": "",
+      "summary": "“HiLight” on the Pixel 11 Pro doesn’t provide much utility, but making matters worse, it also worsens a common use case of every other phone’s rear LED – the ability to use it as…",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-567d58a6aea1",
       "title": "Samsung's $1,300 Galaxy S26 Ultra still can't snap onto a charger without a case",
@@ -842,26 +982,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-d0a4b57caee2",
-      "title": "我，与「唯一」的 iPhone Air",
-      "source": "少数派热榜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "评测",
-      "trust": "媒体汇总",
-      "date": "2026-08-24",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://sspai.com/post/112880",
-      "image": "",
-      "summary": "我，与「唯一」的 iPhone Air",
-      "tags": [
-        "iPhone",
-        "评测",
-        "NewsNow"
-      ]
-    },
-    {
       "id": "newsnow-b56af22cdd00",
       "title": "[疑问]吓哭了，玄戒O3参数看起来很猛啊，各种脚踢苹果A19Pro，安兔兔和GeekBench的跑分也是猛的一匹，相比上代玄戒O1简直是牙膏踩爆了[疑问]难道我米这次真的要成了？[受虐滑稽] #玄戒O3# #小米15SPro# #iPhone17ProMax#",
       "source": "酷安热榜",
@@ -962,7 +1082,7 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-41dcda51c681",
+      "id": "newsnow-bdf8669de38d",
       "title": "网友外卖里吃出手机",
       "source": "微博热搜",
       "brand": "行业",
@@ -972,7 +1092,7 @@ window.phoneRadarAuto = {
       "date": "2026-08-24",
       "time": "",
       "publishedAt": "",
-      "url": "https://s.weibo.com/weibo?q=%E7%BD%91%E5%8F%8B%E5%A4%96%E5%8D%96%E9%87%8C%E5%90%83%E5%87%BA%E6%89%8B%E6%9C%BA&t=31&band_rank=11&Refer=top",
+      "url": "https://s.weibo.com/weibo?q=%E7%BD%91%E5%8F%8B%E5%A4%96%E5%8D%96%E9%87%8C%E5%90%83%E5%87%BA%E6%89%8B%E6%9C%BA&t=31&band_rank=16&Refer=top",
       "image": "",
       "summary": "网友外卖里吃出手机",
       "tags": [
