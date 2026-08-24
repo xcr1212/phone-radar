@@ -1,6 +1,166 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-08-24T10:52:53.667Z",
+  "updatedAt": "2026-08-24T13:11:29.417Z",
   "news": [
+    {
+      "id": "auto-1234b63b1ff4",
+      "title": "Buying the Pixel 11? Maybe consider this poll-winning alternative first",
+      "source": "Android Authority",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-24",
+      "time": "13:01",
+      "publishedAt": "2026-08-24T13:01:44.000Z",
+      "url": "https://www.androidauthority.com/best-pixel-11-alternative-poll-results-3702135/",
+      "image": "",
+      "summary": "This poll nearly offered up a huge upset, but a heavyweight won the bout in the end.",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-78219f9dcdfc",
+      "title": "iPhone 20's Curved Glass Design to Be Made Like iPhone Air",
+      "source": "MacRumors",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-24",
+      "time": "12:42",
+      "publishedAt": "2026-08-24T12:42:09.000Z",
+      "url": "https://www.macrumors.com/2026/08/24/iphone-20-curved-glass-to-be-like-iphone-air/",
+      "image": "https://images.macrumors.com/article-new/2026/07/iphone-20-anniversary.jpg",
+      "summary": "Apple's 20th-anniversary iPhone will be made using the same glass manufacturing process developed for the iPhone Air , according to the leaker known as \" Fixed Focus Digital .\" In…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-f795acbc8de0",
+      "title": "Google Pixel 11 Pro is a major downgrade to Pixel 10 Pro in one key area; that's why I didn't buy it",
+      "source": "Android Police",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-24",
+      "time": "12:15",
+      "publishedAt": "2026-08-24T12:15:10.000Z",
+      "url": "https://www.androidpolice.com/google-pixel-11-pro-is-major-downgrade-to-pixel-10-pro-in-one-key-area-that-is-why-i-did-not-buy-it/",
+      "image": "",
+      "summary": "This wasn't the upgrade I expected",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-975b00c453f8",
+      "title": "原定 9 月 2 日发布，字节 PICO Space Pro 头显发布时间调整至今年第四季度",
+      "source": "IT之家",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-24",
+      "time": "11:23",
+      "publishedAt": "2026-08-24T11:23:16.000Z",
+      "url": "https://www.ithome.com/0/993/709.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/8/9a7d1a33-c263-42be-bb4b-fa74d8d58770.jpg",
+      "summary": "IT之家 8 月 24 日消息，字节旗下的 PICO-XR 官方今晚宣布，为了让 PICO Space Pro 以更完整的状态与大家见面， 决定将产品发布时间调整至今年第四季度 。 过去一段时间，PICO Space Pro 的硬件和软件已经达到了较高的完成度，但在最后阶段的体验验证中，我们看到了一个令人兴奋的全新机会，并希望能在首发版本中就把它带给大家。…",
+      "tags": [
+        "行业",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-70d73cb0b401",
+      "title": "Apple Preparing to Increase iPhone Prices",
+      "source": "MacRumors",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-24",
+      "time": "11:17",
+      "publishedAt": "2026-08-24T11:17:31.000Z",
+      "url": "https://www.macrumors.com/2026/08/24/apple-preparing-to-increase-iphone-prices/",
+      "image": "https://images.macrumors.com/article-new/2026/08/iPhone-18-Pro-Dark-Cherry-Feature.jpg",
+      "summary": "Apple is preparing to raise iPhone prices following similar moves from Samsung and Google, according to Bloomberg 's Mark Gurman . Apple raised prices on almost every major produc…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-dd83687e7b6e",
+      "title": "JSCHEN小小狐：极客湾发布玄戒 O3 前瞻上手视频：提升显著",
+      "source": "JSCHEN小小狐",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-08-24",
+      "time": "11:12",
+      "publishedAt": "2026-08-24T11:12:22.000Z",
+      "url": "https://www.coolapk.com/feed/73408034",
+      "image": "http://image.coolapk.com/feed/2026/0824/19/4702274_c6042594_9930_4855_773@2160x2432.jpg",
+      "summary": "『极客湾发布玄戒 O3 前瞻上手视频：提升显著』 测试平台：小米玄戒 O3 开发板 内存规格：LPDDR6 10667MT/s 96bit C1-Ultra CPU 超大核： ◇ 在目前已推出的安卓 SoC 中拔得头筹 ◇ 面积小于天玑 9500 C1-Ultra 超大核 ◇ 稍逊于苹果 A19 Pro 超大核（P 核） C1-Premium CPU 超大…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "coolapk-user-975f253c241f",
+      "title": "竹本青：PICO Space Pro 调整至今年第四季度上市",
+      "source": "竹本青",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-08-24",
+      "time": "11:11",
+      "publishedAt": "2026-08-24T11:11:46.000Z",
+      "url": "https://www.coolapk.com/feed/73408019",
+      "image": "http://image.coolapk.com/feed/2026/0824/19/4248714_706cc331_9905_3386_886@1440x1920.jpg",
+      "summary": "【PICO Space Pro延期发布：看到了一个令人兴奋的机会，调整至今年第四季度上市】 8月24日，PICO发布公告，宣布Space Pro产品发布时间调整至2026年第四季度。 官方表示，该机软硬件已具备较高完成度，但在最后阶段的体验验证中，看到了一个令人兴奋的全新机会。因此，将对软件体验开展重大升级，希望首发版本带来更好体验与新惊喜。 #今日热点#…",
+      "tags": [
+        "行业",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-0d542d16b8bf",
+      "title": "Google Pixel 11 Pro XL vs Pixel 9 Pro XL: Is it actually an upgrade?",
+      "source": "Android Central",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-08-24",
+      "time": "11:02",
+      "publishedAt": "2026-08-24T11:02:15.000Z",
+      "url": "https://www.androidcentral.com/phones/google-pixel/google-pixel-11-pro-xl-vs-google-pixel-9-pro-xl",
+      "image": "https://cdn.mos.cms.futurecdn.net/9WnHYhQwJnV4T2L3nxpiHm-1280-80.jpg",
+      "summary": "The Pixel 11 Pro XL is Google's latest phone, but how does it measure up against the Pixel 9 Pro XL? I used both phones, and I think the 9 Pro XL still has plenty to give.",
+      "tags": [
+        "Pixel",
+        "评测",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-ac3a328ed998",
       "title": "HMD 诺基亚 300 Charge 手机发布：3700mAh 电池、支持 10W 反向充电",
@@ -282,26 +442,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-27c0b10ee7f0",
-      "title": "卢伟冰已用上小米 18 Fold 折叠屏手机：首发玄戒 O3 旗舰芯，9 月正式上市",
-      "source": "IT之家",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-24",
-      "time": "07:12",
-      "publishedAt": "2026-08-24T07:12:06.000Z",
-      "url": "https://www.ithome.com/0/993/563.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/8/fba996a1-864f-47b1-b486-c8bf34526e2c.jpg?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 8 月 24 日消息，在今天下午举行的小米玄戒芯片技术沟通会上，小米正式发布了玄戒 O3 芯片，同时宣布小米 18 Fold 折叠屏手机将首发玄戒 O3 芯片， 将于 9 月正式上市 。 IT之家注意到，小米集团合伙人 / 总裁、手机部总裁、小米品牌总经理卢伟冰已换上了这款新机（ 微博机型小尾巴显示“Xiaomi 18 Fold” ），并开启了小…",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-b1ed68d06da4",
       "title": "If these Galaxy S27 Ultra renders are accurate, Samsung can’t stop Apple copycat claims",
       "source": "Android Authority",
@@ -562,21 +702,21 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-26e828840f40",
-      "title": "还以为是假的，特地去翻下，结果居然是真的！！！不给二手保修是怎么想的？这以后要是其他手机厂商都跟进不得炸了[受虐滑稽]",
+      "id": "newsnow-b56af22cdd00",
+      "title": "[疑问]吓哭了，玄戒O3参数看起来很猛啊，各种脚踢苹果A19Pro，安兔兔和GeekBench的跑分也是猛的一匹，相比上代玄戒O1简直是牙膏踩爆了[疑问]难道我米这次真的要成了？[受虐滑稽] #玄戒O3# #小米15SPro# #iPhone17ProMax#",
       "source": "酷安热榜",
-      "brand": "行业",
-      "model": "智能手机市场",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-08-24",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73384903",
+      "url": "https://www.coolapk.com/feed/73403022",
       "image": "",
-      "summary": "还以为是假的，特地去翻下，结果居然是真的！！！不给二手保修是怎么想的？这以后要是其他手机厂商都跟进不得炸了[受虐滑稽]",
+      "summary": "[疑问]吓哭了，玄戒O3参数看起来很猛啊，各种脚踢苹果A19Pro，安兔兔和GeekBench的跑分也是猛的一匹，相比上代玄戒O1简直是牙膏踩爆了[疑问]难道我米这次真的要成了？[受虐滑稽] #玄戒O3# #小米15SPro# #iPhone17ProMax#",
       "tags": [
-        "行业",
+        "Xiaomi",
         "爆料",
         "NewsNow"
       ]

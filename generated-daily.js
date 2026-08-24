@@ -1,12 +1,12 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-08-24T10:52:53.667Z",
+  "updatedAt": "2026-08-24T13:11:29.417Z",
   "issueDate": "2026-08-24",
   "issue": "VOL.260824",
   "title": "手机情报日报",
-  "intro": "今日筛出 15 条重点，其中 8 条是重点爆料，包含 7 条 iPhone 相关、1 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 12 条重点，其中 8 条是重点爆料，包含 6 条 iPhone 相关、1 条官方确认、0 条参数线索。",
   "stats": {
-    "total": 15,
-    "iphone": 7,
+    "total": 12,
+    "iphone": 6,
     "leaks": 8,
     "official": 1,
     "specs": 0
@@ -57,6 +57,30 @@ window.phoneRadarDaily = {
           "takeaway": "一万五的 iPhone，你会买吗",
           "detail": "一万五的 iPhone，你会买吗",
           "keyPoints": [
+            "爆料来源"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "auto-78219f9dcdfc",
+          "title": "iPhone 20 外观设计线索曝光",
+          "originalTitle": "",
+          "source": "MacRumors",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-08-24",
+          "time": "12:42",
+          "publishedAt": "2026-08-24T12:42:09.000Z",
+          "url": "https://www.macrumors.com/2026/08/24/iphone-20-curved-glass-to-be-like-iphone-air/",
+          "image": "https://images.macrumors.com/article-new/2026/07/iphone-20-anniversary.jpg",
+          "verdict": "先看",
+          "takeaway": "iPhone 20 外观设计线索曝光。重点看外观、颜色、尺寸是否和上一代有明显变化。",
+          "detail": "iPhone 20 外观设计线索曝光。这类内容主要看外观设计、按键布局、相机模组和尺寸变化，后续最好等更多渲染图或保护壳线索互相验证。",
+          "keyPoints": [
+            "外观 / 配色 / 尺寸",
             "爆料来源"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
@@ -131,30 +155,6 @@ window.phoneRadarDaily = {
             "爆料来源"
           ],
           "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "auto-27c0b10ee7f0",
-          "title": "卢伟冰已用上小米 18 Fold 折叠屏手机：首发玄戒 O3 旗舰芯，9 月正式上市",
-          "originalTitle": "",
-          "source": "IT之家",
-          "brand": "Xiaomi",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-08-24",
-          "time": "07:12",
-          "publishedAt": "2026-08-24T07:12:06.000Z",
-          "url": "https://www.ithome.com/0/993/563.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/8/fba996a1-864f-47b1-b486-c8bf34526e2c.jpg?x-bce-process=image/format,f_auto",
-          "verdict": "先看",
-          "takeaway": "IT之家 8 月 24 日消息，在今天下午举行的小米玄戒芯片技术沟通会上，小米正式发布了玄戒 O3 芯片，同时宣布小米 18 Fold 折叠屏手机将首发玄戒 O3 芯片， 将于 9 月正式上市 。 IT之家注意到，小米集团合伙人 / 总裁、手机部总裁、小米品牌总经理卢伟冰已换上了这款新机（ 微博机型小尾巴显示“Xiaomi 18 Fold” ），并开启了小…",
-          "detail": "IT之家 8 月 24 日消息，在今天下午举行的小米玄戒芯片技术沟通会上，小米正式发布了玄戒 O3 芯片，同时宣布小米 18 Fold 折叠屏手机将首发玄戒 O3 芯片， 将于 9 月正式上市 。 IT之家注意到，小米集团合伙人 / 总裁、手机部总裁、小米品牌总经理卢伟冰已换上了这款新机（ 微博机型小尾巴显示“Xiaomi 18 Fold” ），并开启了小…",
-          "keyPoints": [
-            "屏幕形态",
-            "芯片 / 性能"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
@@ -235,51 +235,35 @@ window.phoneRadarDaily = {
           "confidence": "官方内容，可直接作为已确认信息记录。",
           "impact": "可信度高，但如果不是配置/价格消息，只需要扫一眼。",
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
+        }
+      ]
+    },
+    {
+      "id": "launch",
+      "title": "新机与官方发布",
+      "hint": "能直接更新到参数库。",
+      "items": [
         {
-          "id": "newsnow-c4e08113662e",
-          "title": "把「闪念胶囊」（Almost）放到 iPhone 锁屏",
+          "id": "coolapk-user-dd83687e7b6e",
+          "title": "JSCHEN小小狐：极客湾发布玄戒 O3 前瞻上手视频：提升显著",
           "originalTitle": "",
-          "source": "少数派热榜",
-          "brand": "iPhone",
-          "type": "评测",
-          "trust": "媒体汇总",
+          "source": "JSCHEN小小狐",
+          "brand": "Xiaomi",
+          "type": "爆料",
+          "trust": "高可信爆料",
           "date": "2026-08-24",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://sspai.com/post/113219",
-          "image": "",
+          "time": "11:12",
+          "publishedAt": "2026-08-24T11:12:22.000Z",
+          "url": "https://www.coolapk.com/feed/73408034",
+          "image": "http://image.coolapk.com/feed/2026/0824/19/4702274_c6042594_9930_4855_773@2160x2432.jpg",
           "verdict": "扫一眼",
-          "takeaway": "把「闪念胶囊」（Almost）放到 iPhone 锁屏",
-          "detail": "把「闪念胶囊」（Almost）放到 iPhone 锁屏",
+          "takeaway": "『极客湾发布玄戒 O3 前瞻上手视频：提升显著』 测试平台：小米玄戒 O3 开发板 内存规格：LPDDR6 10667MT/s 96bit C1-Ultra CPU 超大核： ◇ 在目前已推出的安卓 SoC 中拔得头筹 ◇ 面积小于天玑 9500 C1-Ultra 超大核 ◇ 稍逊于苹果 A19 Pro 超大核（P 核） C1-Premium CPU 超大…",
+          "detail": "『极客湾发布玄戒 O3 前瞻上手视频：提升显著』 测试平台：小米玄戒 O3 开发板 内存规格：LPDDR6 10667MT/s 96bit C1-Ultra CPU 超大核： ◇ 在目前已推出的安卓 SoC 中拔得头筹 ◇ 面积小于天玑 9500 C1-Ultra 超大核 ◇ 稍逊于苹果 A19 Pro 超大核（P 核） C1-Premium CPU 超大…",
           "keyPoints": [
-            "评测"
+            "爆料"
           ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是实际体验内容，买前适合重点看缺点和取舍。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
-        {
-          "id": "newsnow-d0a4b57caee2",
-          "title": "我，与「唯一」的 iPhone Air",
-          "originalTitle": "",
-          "source": "少数派热榜",
-          "brand": "iPhone",
-          "type": "评测",
-          "trust": "媒体汇总",
-          "date": "2026-08-24",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://sspai.com/post/112880",
-          "image": "",
-          "verdict": "扫一眼",
-          "takeaway": "我，与「唯一」的 iPhone Air",
-          "detail": "我，与「唯一」的 iPhone Air",
-          "keyPoints": [
-            "评测"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是实际体验内容，买前适合重点看缺点和取舍。",
+          "confidence": "可信度较高，但仍属于发布前线索。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         }
       ]
@@ -328,52 +312,6 @@ window.phoneRadarDaily = {
           "verdict": "先看",
           "takeaway": "iphone信号并不差，实测下来其实是果子信号显示真实😂，地下车库一加15显示5g少一格(这个速度其实已经是4g了)，上行都跑不动，iphone显示4g跑出来也是和一加15差不多",
           "detail": "iphone信号并不差，实测下来其实是果子信号显示真实😂，地下车库一加15显示5g少一格(这个速度其实已经是4g了)，上行都跑不动，iphone显示4g跑出来也是和一加15差不多",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
-        {
-          "id": "newsnow-99ede9029e9e",
-          "title": "小米能来一个华为Pura X View这种的吗？",
-          "originalTitle": "",
-          "source": "酷安热榜",
-          "brand": "Huawei",
-          "type": "爆料",
-          "trust": "高关注爆料源",
-          "date": "2026-08-24",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://www.coolapk.com/feed/73382841",
-          "image": "",
-          "verdict": "扫一眼",
-          "takeaway": "小米能来一个华为Pura X View这种的吗？",
-          "detail": "小米能来一个华为Pura X View这种的吗？",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
-        {
-          "id": "newsnow-26e828840f40",
-          "title": "还以为是假的，特地去翻下，结果居然是真的！！！不给二手保修是怎么想的？这以后要是其他手机厂商都跟进不得炸了[受虐滑稽]",
-          "originalTitle": "",
-          "source": "酷安热榜",
-          "brand": "行业",
-          "type": "爆料",
-          "trust": "高关注爆料源",
-          "date": "2026-08-24",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://www.coolapk.com/feed/73384903",
-          "image": "",
-          "verdict": "扫一眼",
-          "takeaway": "还以为是假的，特地去翻下，结果居然是真的！！！不给二手保修是怎么想的？这以后要是其他手机厂商都跟进不得炸了[受虐滑稽]",
-          "detail": "还以为是假的，特地去翻下，结果居然是真的！！！不给二手保修是怎么想的？这以后要是其他手机厂商都跟进不得炸了[受虐滑稽]",
           "keyPoints": [
             "爆料"
           ],
