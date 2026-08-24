@@ -1,12 +1,12 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-08-24T05:00:14.597Z",
+  "updatedAt": "2026-08-24T07:19:16.024Z",
   "issueDate": "2026-08-24",
   "issue": "VOL.260824",
   "title": "手机情报日报",
-  "intro": "今日筛出 18 条重点，其中 8 条是重点爆料，包含 6 条 iPhone 相关、1 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 16 条重点，其中 8 条是重点爆料，包含 5 条 iPhone 相关、1 条官方确认、0 条参数线索。",
   "stats": {
-    "total": 18,
-    "iphone": 6,
+    "total": 16,
+    "iphone": 5,
     "leaks": 8,
     "official": 1,
     "specs": 0
@@ -17,6 +17,29 @@ window.phoneRadarDaily = {
       "title": "重点爆料",
       "hint": "机模、配色、影像、屏幕、电池和芯片线索先看。",
       "items": [
+        {
+          "id": "auto-461f179752be",
+          "title": "折叠 iPhone 最全爆料汇总：用过的都说好，但有两个大缺点",
+          "originalTitle": "",
+          "source": "爱范儿",
+          "brand": "iPhone",
+          "type": "评测",
+          "trust": "媒体汇总",
+          "date": "2026-08-24",
+          "time": "05:19",
+          "publishedAt": "2026-08-24T05:19:31.000Z",
+          "url": "https://www.ifanr.com/1676426?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "image": "https://ifanr.feishu.cn/space/api/box/stream/download/asynccode/?code=NjVhNWNlNTZmNDdiYzIyMjZlMTBkMWFhNzc2YjllN2ZfTHJaTmNtbzd0c1FHT2F0ZXo3OFBqdVpycFdhS2dJNGJfVG9rZW46WHJ0N2JHUzJVb2tzbzZ4eGVZSGNlaFdFbm5jXzE3ODc1NDgxNTU6MTc4NzU1MTc1NV9WNA&add_watermark=true&scene_type=CCM",
+          "verdict": "先看",
+          "takeaway": "一万五的 iPhone，你会买吗",
+          "detail": "一万五的 iPhone，你会买吗",
+          "keyPoints": [
+            "爆料来源"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
         {
           "id": "auto-ef071f43ab8e",
           "title": "iPhone 影像能力相关消息",
@@ -65,6 +88,101 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
+          "id": "auto-27c0b10ee7f0",
+          "title": "卢伟冰已用上小米 18 Fold 折叠屏手机：首发玄戒 O3 旗舰芯，9 月正式上市",
+          "originalTitle": "",
+          "source": "IT之家",
+          "brand": "Xiaomi",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-08-24",
+          "time": "07:12",
+          "publishedAt": "2026-08-24T07:12:06.000Z",
+          "url": "https://www.ithome.com/0/993/563.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/8/fba996a1-864f-47b1-b486-c8bf34526e2c.jpg?x-bce-process=image/format,f_auto",
+          "verdict": "先看",
+          "takeaway": "IT之家 8 月 24 日消息，在今天下午举行的小米玄戒芯片技术沟通会上，小米正式发布了玄戒 O3 芯片，同时宣布小米 18 Fold 折叠屏手机将首发玄戒 O3 芯片， 将于 9 月正式上市 。 IT之家注意到，小米集团合伙人 / 总裁、手机部总裁、小米品牌总经理卢伟冰已换上了这款新机（ 微博机型小尾巴显示“Xiaomi 18 Fold” ），并开启了小…",
+          "detail": "IT之家 8 月 24 日消息，在今天下午举行的小米玄戒芯片技术沟通会上，小米正式发布了玄戒 O3 芯片，同时宣布小米 18 Fold 折叠屏手机将首发玄戒 O3 芯片， 将于 9 月正式上市 。 IT之家注意到，小米集团合伙人 / 总裁、手机部总裁、小米品牌总经理卢伟冰已换上了这款新机（ 微博机型小尾巴显示“Xiaomi 18 Fold” ），并开启了小…",
+          "keyPoints": [
+            "屏幕形态",
+            "芯片 / 性能"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "auto-ff4b01fe91fd",
+          "title": "曝小米 17 系列手机销量突破 600 万台，Ultra 约 24.3 万台",
+          "originalTitle": "",
+          "source": "IT之家",
+          "brand": "Xiaomi",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-08-24",
+          "time": "05:37",
+          "publishedAt": "2026-08-24T05:37:05.000Z",
+          "url": "https://www.ithome.com/0/993/492.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/8/6c700191-a5a5-4557-966b-79a21ee38d25.png?x-bce-process=image/format,f_auto",
+          "verdict": "先看",
+          "takeaway": "IT之家 8 月 24 日消息，据长期关注国内手机市场份额的数码博主 @RD观测 昨晚爆料，截至 2026 年第 33 周（8 月 10 日-8 月 16 日），小米 17 系列旗舰的销量突破 600 万台。 小米 17 系列约 602.63 万 小米 17 Ultra 约 24.3 万 博主此前发文注解， 称小米 17 系列的销量数据已加入小米 17 U…",
+          "detail": "IT之家 8 月 24 日消息，据长期关注国内手机市场份额的数码博主 @RD观测 昨晚爆料，截至 2026 年第 33 周（8 月 10 日-8 月 16 日），小米 17 系列旗舰的销量突破 600 万台。 小米 17 系列约 602.63 万 小米 17 Ultra 约 24.3 万 博主此前发文注解， 称小米 17 系列的销量数据已加入小米 17 U…",
+          "keyPoints": [
+            "爆料来源"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "auto-d49abb916850",
+          "title": "玄戒 O3 确认！REDMI 产品经理胡馨心意外爆料小米自研芯片家族全新成员命名",
+          "originalTitle": "",
+          "source": "IT之家",
+          "brand": "Xiaomi",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-08-24",
+          "time": "05:27",
+          "publishedAt": "2026-08-24T05:27:08.000Z",
+          "url": "https://www.ithome.com/0/993/489.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/8/8acb2a70-5455-4669-b83d-051c1b1f668d.png",
+          "verdict": "先看",
+          "takeaway": "IT之家 8 月 24 日消息， 小米手机昨日官宣，会在今天举行小米玄戒芯片技术沟通会 ，届时会带来玄戒芯片家族迎来全新成员的最新进展。 IT之家注意到，小米 REDMI 产品经理胡馨心刚刚发布微博，意外爆料了玄戒家族全新成员。从其微博未调整的原文来看， 这名新成员命名为“玄戒 O3” 。 目前，小米暂未披露更多关于玄戒新芯片的消息，感兴趣的小伙伴可以关注…",
+          "detail": "IT之家 8 月 24 日消息， 小米手机昨日官宣，会在今天举行小米玄戒芯片技术沟通会 ，届时会带来玄戒芯片家族迎来全新成员的最新进展。 IT之家注意到，小米 REDMI 产品经理胡馨心刚刚发布微博，意外爆料了玄戒家族全新成员。从其微博未调整的原文来看， 这名新成员命名为“玄戒 O3” 。 目前，小米暂未披露更多关于玄戒新芯片的消息，感兴趣的小伙伴可以关注…",
+          "keyPoints": [
+            "芯片 / 性能",
+            "爆料来源"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "auto-f348f7218423",
+          "title": "“大的要来了”：小米玄戒芯片新进展今天公布，消息称预计会同步官宣首款新机",
+          "originalTitle": "",
+          "source": "IT之家",
+          "brand": "Xiaomi",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-08-24",
+          "time": "05:14",
+          "publishedAt": "2026-08-24T05:14:58.000Z",
+          "url": "https://www.ithome.com/0/993/487.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/8/8acb2a70-5455-4669-b83d-051c1b1f668d.png?x-bce-process=image/format,f_auto",
+          "verdict": "先看",
+          "takeaway": "IT之家 8 月 24 日消息，小米手机昨日官宣，会在今天举行小米玄戒芯片技术沟通会： 2025 年 5 月 22 日，玄戒第一款旗舰处理器面世 时隔 459 天，芯片家族迎来全新成员 明天 14 点，小米玄戒芯片负责人朱丹，带来最新进展，将以图文直播的形式与大家见面，不见不散！ 据博主 @数码闲聊站 透露，玄戒芯片新进展将于今天下午公布， 估计会同步官宣…",
+          "detail": "IT之家 8 月 24 日消息，小米手机昨日官宣，会在今天举行小米玄戒芯片技术沟通会： 2025 年 5 月 22 日，玄戒第一款旗舰处理器面世 时隔 459 天，芯片家族迎来全新成员 明天 14 点，小米玄戒芯片负责人朱丹，带来最新进展，将以图文直播的形式与大家见面，不见不散！ 据博主 @数码闲聊站 透露，玄戒芯片新进展将于今天下午公布， 估计会同步官宣…",
+          "keyPoints": [
+            "芯片 / 性能",
+            "爆料来源"
+          ],
+          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
           "id": "auto-613c4ece83e8",
           "title": "小米手机售后规则调整，明确二手产品 / 商品不属于三包范围",
           "originalTitle": "",
@@ -85,124 +203,6 @@ window.phoneRadarDaily = {
             "成本 / 价格"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "auto-e0e728dbdb55",
-          "title": "消息称 vivo X500 系列首发与索尼联合定义“蓝图光御 900”主摄，2 亿灭霸长焦",
-          "originalTitle": "",
-          "source": "IT之家",
-          "brand": "vivo",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-08-24",
-          "time": "01:06",
-          "publishedAt": "2026-08-24T01:06:12.000Z",
-          "url": "https://www.ithome.com/0/993/352.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/8/fa492f71-36b1-4311-9d27-9621f9b0a34e.png?x-bce-process=image/format,f_auto",
-          "verdict": "先看",
-          "takeaway": "IT之家 8 月 24 日消息，博主 @数码闲聊站 今日爆料，vivo X500 系列代号是「灭霸 500」，定义灭霸超级加强版，主打拍照强视频更猛。 据其爆料，该机主摄首发与索尼联合定义的「蓝图光御 900」， 50Mp 1/1.28\" 电影级主摄 ，全新超高动态技术，动态范围直接拉到行业最高的 17EV，同时支持 3°OIS 云台级防抖、CIPA7.0…",
-          "detail": "IT之家 8 月 24 日消息，博主 @数码闲聊站 今日爆料，vivo X500 系列代号是「灭霸 500」，定义灭霸超级加强版，主打拍照强视频更猛。 据其爆料，该机主摄首发与索尼联合定义的「蓝图光御 900」， 50Mp 1/1.28\" 电影级主摄 ，全新超高动态技术，动态范围直接拉到行业最高的 17EV，同时支持 3°OIS 云台级防抖、CIPA7.0…",
-          "keyPoints": [
-            "影像硬件",
-            "爆料来源"
-          ],
-          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "weibo-b585949509ad",
-          "title": "数码闲聊站：新一轮骁龙8 Elite超级至尊版新机，一加16依然是子系旗舰中的最窄四等边，…",
-          "originalTitle": "",
-          "source": "数码闲聊站",
-          "brand": "OPPO",
-          "type": "爆料",
-          "trust": "高关注爆料源",
-          "date": "2026-08-24",
-          "time": "02:03",
-          "publishedAt": "2026-08-24T02:03:00.000Z",
-          "url": "https://weibo.com/6048569942/ReQn9pLnq",
-          "image": "",
-          "verdict": "先看",
-          "takeaway": "新一轮骁龙8 Elite超级至尊版新机，一加16依然是子系旗舰中的最窄四等边，“大概这么窄🤏”，而且定制新屏观感也很通透，预定一个正面颜值Top",
-          "detail": "新一轮骁龙8 Elite超级至尊版新机，一加16依然是子系旗舰中的最窄四等边，“大概这么窄🤏”，而且定制新屏观感也很通透，预定一个正面颜值Top",
-          "keyPoints": [
-            "爆料来源"
-          ],
-          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "newsnow-e3a75b06cd3a",
-          "title": "确定是9030s了[流汗滑稽][流汗滑稽]各位有没有价格爆料？拍照规格大概是pura90pro的主摄加nova16ultra的长焦吧#鸿蒙7# #华为PuraXMax#",
-          "originalTitle": "",
-          "source": "酷安热榜",
-          "brand": "Huawei",
-          "type": "爆料",
-          "trust": "高关注爆料源",
-          "date": "2026-08-24",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://www.coolapk.com/feed/73390616",
-          "image": "",
-          "verdict": "先看",
-          "takeaway": "确定是9030s了[流汗滑稽][流汗滑稽]各位有没有价格爆料？拍照规格大概是pura90pro的主摄加nova16ultra的长焦吧#鸿蒙7# #华为PuraXMax#",
-          "detail": "确定是9030s了[流汗滑稽][流汗滑稽]各位有没有价格爆料？拍照规格大概是pura90pro的主摄加nova16ultra的长焦吧#鸿蒙7# #华为PuraXMax#",
-          "keyPoints": [
-            "影像硬件",
-            "成本 / 价格",
-            "爆料来源"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "coolapk-user-cebaae4c5e6a",
-          "title": "竹本青：vivo X500系列官宣9月发布：全系三杯",
-          "originalTitle": "",
-          "source": "竹本青",
-          "brand": "vivo",
-          "type": "爆料",
-          "trust": "高可信爆料",
-          "date": "2026-08-24",
-          "time": "02:00",
-          "publishedAt": "2026-08-24T02:00:46.000Z",
-          "url": "https://www.coolapk.com/feed/73399367",
-          "image": "http://image.coolapk.com/feed/2026/0824/10/4248714_0f52f5d2_6845_6136_849@2000x2667.jpg",
-          "verdict": "先看",
-          "takeaway": "【vivo X500系列官宣9月发布：全系三杯，Pro系列主摄首发「蓝图光御900」】 8月24日，vivo 产品经理韩伯啸宣布，全新X500系列将在9月正式见面。全系共3杯，分别为X500、X500 Pro、X500 Pro Max。 他介绍，全新“灭霸500”将带来视频、拍照、性能、屏幕、OS的五大升级： 第一大升级：「视频」 本次Pro系列，全球首发…",
-          "detail": "【vivo X500系列官宣9月发布：全系三杯，Pro系列主摄首发「蓝图光御900」】 8月24日，vivo 产品经理韩伯啸宣布，全新X500系列将在9月正式见面。全系共3杯，分别为X500、X500 Pro、X500 Pro Max。 他介绍，全新“灭霸500”将带来视频、拍照、性能、屏幕、OS的五大升级： 第一大升级：「视频」 本次Pro系列，全球首发…",
-          "keyPoints": [
-            "屏幕形态"
-          ],
-          "confidence": "可信度较高，但仍属于发布前线索。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "coolapk-user-ae3610f401c4",
-          "title": "竹本青：曝vivo X500系列首发「蓝图光御900」主摄",
-          "originalTitle": "",
-          "source": "竹本青",
-          "brand": "vivo",
-          "type": "爆料",
-          "trust": "高可信爆料",
-          "date": "2026-08-24",
-          "time": "01:02",
-          "publishedAt": "2026-08-24T01:02:16.000Z",
-          "url": "https://www.coolapk.com/feed/73398733",
-          "image": "http://image.coolapk.com/feed/2026/0824/09/4248714_d415d327_3335_5837_100@1270x735.jpg",
-          "verdict": "先看",
-          "takeaway": "【曝vivo X500系列 首发「蓝图光御900」主摄：与索尼联合定义，17EV动态范围】 博主数码闲聊站今天爆料，vivo X500系列 内部代号「灭霸500」，定义“灭霸超级加强版”，主打拍照强、视频更猛。 主摄——首发与索尼联合定义的「蓝图光御900」，50Mp 1/1.28\"主摄，全新超高动态技术，行业最高17EV动态范围，支持3°OIS云台级防抖…",
-          "detail": "【曝vivo X500系列 首发「蓝图光御900」主摄：与索尼联合定义，17EV动态范围】 博主数码闲聊站今天爆料，vivo X500系列 内部代号「灭霸500」，定义“灭霸超级加强版”，主打拍照强、视频更猛。 主摄——首发与索尼联合定义的「蓝图光御900」，50Mp 1/1.28\"主摄，全新超高动态技术，行业最高17EV动态范围，支持3°OIS云台级防抖…",
-          "keyPoints": [
-            "爆料来源"
-          ],
-          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         }
@@ -237,29 +237,6 @@ window.phoneRadarDaily = {
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         },
         {
-          "id": "coolapk-user-5834e1919620",
-          "title": "竹本青：iPhone 17系列中国区最新销量曝光：周增约52.58万台",
-          "originalTitle": "",
-          "source": "竹本青",
-          "brand": "iPhone",
-          "type": "爆料",
-          "trust": "高可信爆料",
-          "date": "2026-08-23",
-          "time": "10:32",
-          "publishedAt": "2026-08-23T10:32:34.000Z",
-          "url": "https://www.coolapk.com/feed/73391026",
-          "image": "http://image.coolapk.com/feed/2026/0823/18/4248714_72804f21_1439_3214_482@2160x1796.jpg",
-          "verdict": "先看",
-          "takeaway": "【iPhone 17系列 中国区最新销量曝光：周增约52.58万台，累计超4057万台】 8月23日，博主「RD观测」发布第三方统计数据：截至2026年第33周，iPhone 17系列手机在中国市场累计销量约4057.16万台，周环比新增约52.58万台。 前几周数据如下： 截至 W32 —— 约4004.58万（周增50.33万） 截至 W31 —— 约…",
-          "detail": "【iPhone 17系列 中国区最新销量曝光：周增约52.58万台，累计超4057万台】 8月23日，博主「RD观测」发布第三方统计数据：截至2026年第33周，iPhone 17系列手机在中国市场累计销量约4057.16万台，周环比新增约52.58万台。 前几周数据如下： 截至 W32 —— 约4004.58万（周增50.33万） 截至 W31 —— 约…",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "可信度较高，但仍属于发布前线索。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
-        {
           "id": "newsnow-c4e08113662e",
           "title": "把「闪念胶囊」（Almost）放到 iPhone 锁屏",
           "originalTitle": "",
@@ -281,28 +258,35 @@ window.phoneRadarDaily = {
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是实际体验内容，买前适合重点看缺点和取舍。",
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
+        }
+      ]
+    },
+    {
+      "id": "launch",
+      "title": "新机与官方发布",
+      "hint": "能直接更新到参数库。",
+      "items": [
         {
-          "id": "newsnow-d0a4b57caee2",
-          "title": "我，与「唯一」的 iPhone Air",
+          "id": "newsnow-96b521c1adf0",
+          "title": "vivo X500系列官宣9月发布：全系三杯",
           "originalTitle": "",
-          "source": "少数派热榜",
-          "brand": "iPhone",
-          "type": "评测",
-          "trust": "媒体汇总",
+          "source": "酷安热榜",
+          "brand": "vivo",
+          "type": "爆料",
+          "trust": "高关注爆料源",
           "date": "2026-08-24",
           "time": "",
           "publishedAt": "",
-          "url": "https://sspai.com/post/112880",
+          "url": "https://www.coolapk.com/feed/73399367",
           "image": "",
-          "verdict": "扫一眼",
-          "takeaway": "我，与「唯一」的 iPhone Air",
-          "detail": "我，与「唯一」的 iPhone Air",
+          "verdict": "先看",
+          "takeaway": "vivo X500系列官宣9月发布：全系三杯",
+          "detail": "vivo X500系列官宣9月发布：全系三杯",
           "keyPoints": [
-            "评测"
+            "爆料"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是实际体验内容，买前适合重点看缺点和取舍。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         }
       ]
@@ -405,44 +389,21 @@ window.phoneRadarDaily = {
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         },
         {
-          "id": "newsnow-2eb178f138eb",
-          "title": "大家为什么都默认能卖爆？这手机目前的三大竞争对手是线上降价的mate80pro max、pura 90pro max以及9月新品mate90pro。",
-          "originalTitle": "",
-          "source": "酷安热榜",
-          "brand": "行业",
-          "type": "爆料",
-          "trust": "高关注爆料源",
-          "date": "2026-08-24",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://www.coolapk.com/feed/73378362",
-          "image": "",
-          "verdict": "扫一眼",
-          "takeaway": "大家为什么都默认能卖爆？这手机目前的三大竞争对手是线上降价的mate80pro max、pura 90pro max以及9月新品mate90pro。",
-          "detail": "大家为什么都默认能卖爆？这手机目前的三大竞争对手是线上降价的mate80pro max、pura 90pro max以及9月新品mate90pro。",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "影响购买预算，值得先看。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
-        {
-          "id": "coolapk-user-05d70ff2da34",
-          "title": "竹本青：荣耀机器人闪电打破五项人类世界纪录",
+          "id": "coolapk-user-b38109eb1ffc",
+          "title": "竹本青：🐮牛批 #HyperOS4# #玄戒O3#",
           "originalTitle": "",
           "source": "竹本青",
-          "brand": "HONOR",
+          "brand": "Xiaomi",
           "type": "爆料",
           "trust": "高可信爆料",
-          "date": "2026-08-23",
-          "time": "13:49",
-          "publishedAt": "2026-08-23T13:49:29.000Z",
-          "url": "https://www.coolapk.com/feed/73393863",
-          "image": "http://image.coolapk.com/feed/2026/0823/21/4248714_39382324_2969_0998_183@1280x2276.jpg",
+          "date": "2026-08-24",
+          "time": "06:20",
+          "publishedAt": "2026-08-24T06:20:42.000Z",
+          "url": "https://www.coolapk.com/feed/73403088",
+          "image": "",
           "verdict": "扫一眼",
-          "takeaway": "【荣耀机器人闪电打破五项人类世界纪录】 8月23日，荣耀公司宣布旗下自研机器人“闪电”，在第二届世界人形机器人运动会上，打破五项人类世界纪录： ● 50分26秒，打破人类半马世界纪录 ● 2分30秒，打破人类1500米世界纪录 ● 39.45秒，打破人类400米世界纪录 ● 9.32秒，打破人类百米世界纪录 ● 14.5米/秒，超越人类巅峰速度 #今日热点…",
-          "detail": "【荣耀机器人闪电打破五项人类世界纪录】 8月23日，荣耀公司宣布旗下自研机器人“闪电”，在第二届世界人形机器人运动会上，打破五项人类世界纪录： ● 50分26秒，打破人类半马世界纪录 ● 2分30秒，打破人类1500米世界纪录 ● 39.45秒，打破人类400米世界纪录 ● 9.32秒，打破人类百米世界纪录 ● 14.5米/秒，超越人类巅峰速度 #今日热点…",
+          "takeaway": "🐮牛批 #HyperOS4# #玄戒O3#",
+          "detail": "🐮牛批 #HyperOS4# #玄戒O3#",
           "keyPoints": [
             "爆料"
           ],

@@ -1,6 +1,186 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-08-24T05:00:14.597Z",
+  "updatedAt": "2026-08-24T07:19:16.024Z",
   "news": [
+    {
+      "id": "auto-936c631e7e3d",
+      "title": "Pixel 11 owners can’t play Genshin Impact, but a fix is on the way",
+      "source": "Android Authority",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-24",
+      "time": "07:12",
+      "publishedAt": "2026-08-24T07:12:44.000Z",
+      "url": "https://www.androidauthority.com/google-pixel-11-genshin-impact-3701959/",
+      "image": "",
+      "summary": "Genshin Impact unplayable on your new Pixel 11 phone? You're not alone, but a fix is coming.",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-27c0b10ee7f0",
+      "title": "卢伟冰已用上小米 18 Fold 折叠屏手机：首发玄戒 O3 旗舰芯，9 月正式上市",
+      "source": "IT之家",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-24",
+      "time": "07:12",
+      "publishedAt": "2026-08-24T07:12:06.000Z",
+      "url": "https://www.ithome.com/0/993/563.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/8/fba996a1-864f-47b1-b486-c8bf34526e2c.jpg?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 8 月 24 日消息，在今天下午举行的小米玄戒芯片技术沟通会上，小米正式发布了玄戒 O3 芯片，同时宣布小米 18 Fold 折叠屏手机将首发玄戒 O3 芯片， 将于 9 月正式上市 。 IT之家注意到，小米集团合伙人 / 总裁、手机部总裁、小米品牌总经理卢伟冰已换上了这款新机（ 微博机型小尾巴显示“Xiaomi 18 Fold” ），并开启了小…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-b38109eb1ffc",
+      "title": "竹本青：🐮牛批 #HyperOS4# #玄戒O3#",
+      "source": "竹本青",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-08-24",
+      "time": "06:20",
+      "publishedAt": "2026-08-24T06:20:42.000Z",
+      "url": "https://www.coolapk.com/feed/73403088",
+      "image": "",
+      "summary": "🐮牛批 #HyperOS4# #玄戒O3#",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-b1ed68d06da4",
+      "title": "If these Galaxy S27 Ultra renders are accurate, Samsung can’t stop Apple copycat claims",
+      "source": "Android Authority",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-24",
+      "time": "06:14",
+      "publishedAt": "2026-08-24T06:14:02.000Z",
+      "url": "https://www.androidauthority.com/samsung-galaxy-s27-ultra-render-leak-3701790/",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2026/05/Samsung-Galaxy-S26-Ultra-and-Apple-iPhone-16-Pro.jpg",
+      "summary": "iPhones weren't the first to adopt this camera bump design, but it's interesting that Samsung might be adopting it now.",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-ff4b01fe91fd",
+      "title": "曝小米 17 系列手机销量突破 600 万台，Ultra 约 24.3 万台",
+      "source": "IT之家",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-24",
+      "time": "05:37",
+      "publishedAt": "2026-08-24T05:37:05.000Z",
+      "url": "https://www.ithome.com/0/993/492.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/8/6c700191-a5a5-4557-966b-79a21ee38d25.png?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 8 月 24 日消息，据长期关注国内手机市场份额的数码博主 @RD观测 昨晚爆料，截至 2026 年第 33 周（8 月 10 日-8 月 16 日），小米 17 系列旗舰的销量突破 600 万台。 小米 17 系列约 602.63 万 小米 17 Ultra 约 24.3 万 博主此前发文注解， 称小米 17 系列的销量数据已加入小米 17 U…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-d49abb916850",
+      "title": "玄戒 O3 确认！REDMI 产品经理胡馨心意外爆料小米自研芯片家族全新成员命名",
+      "source": "IT之家",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-24",
+      "time": "05:27",
+      "publishedAt": "2026-08-24T05:27:08.000Z",
+      "url": "https://www.ithome.com/0/993/489.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/8/8acb2a70-5455-4669-b83d-051c1b1f668d.png",
+      "summary": "IT之家 8 月 24 日消息， 小米手机昨日官宣，会在今天举行小米玄戒芯片技术沟通会 ，届时会带来玄戒芯片家族迎来全新成员的最新进展。 IT之家注意到，小米 REDMI 产品经理胡馨心刚刚发布微博，意外爆料了玄戒家族全新成员。从其微博未调整的原文来看， 这名新成员命名为“玄戒 O3” 。 目前，小米暂未披露更多关于玄戒新芯片的消息，感兴趣的小伙伴可以关注…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-a87800c02f5b",
+      "title": "竹本青：消息称小米17系列销量已突破600万台",
+      "source": "竹本青",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-08-24",
+      "time": "05:26",
+      "publishedAt": "2026-08-24T05:26:33.000Z",
+      "url": "https://www.coolapk.com/feed/73402343",
+      "image": "http://image.coolapk.com/feed/2026/0824/13/4248714_d30df777_9192_2759_563@1271x477.jpg",
+      "summary": "【消息称小米 17系列 销量已突破600万台】 8月24日，博主「RD观测」分享第三方数据：截至2026年第33周，小米 17系列累计销量约602.63万台；其中，Ultra约24.3万台。 前几周数据如下： 小米 17系列 截至2026 W32 —— 约597.43万 截至2026 W31 —— 约591.76万 截至2026 W30 —— 约583.9…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-461f179752be",
+      "title": "折叠 iPhone 最全爆料汇总：用过的都说好，但有两个大缺点",
+      "source": "爱范儿",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-08-24",
+      "time": "05:19",
+      "publishedAt": "2026-08-24T05:19:31.000Z",
+      "url": "https://www.ifanr.com/1676426?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "image": "https://ifanr.feishu.cn/space/api/box/stream/download/asynccode/?code=NjVhNWNlNTZmNDdiYzIyMjZlMTBkMWFhNzc2YjllN2ZfTHJaTmNtbzd0c1FHT2F0ZXo3OFBqdVpycFdhS2dJNGJfVG9rZW46WHJ0N2JHUzJVb2tzbzZ4eGVZSGNlaFdFbm5jXzE3ODc1NDgxNTU6MTc4NzU1MTc1NV9WNA&add_watermark=true&scene_type=CCM",
+      "summary": "一万五的 iPhone，你会买吗",
+      "tags": [
+        "iPhone",
+        "评测",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-f348f7218423",
+      "title": "“大的要来了”：小米玄戒芯片新进展今天公布，消息称预计会同步官宣首款新机",
+      "source": "IT之家",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-24",
+      "time": "05:14",
+      "publishedAt": "2026-08-24T05:14:58.000Z",
+      "url": "https://www.ithome.com/0/993/487.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/8/8acb2a70-5455-4669-b83d-051c1b1f668d.png?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 8 月 24 日消息，小米手机昨日官宣，会在今天举行小米玄戒芯片技术沟通会： 2025 年 5 月 22 日，玄戒第一款旗舰处理器面世 时隔 459 天，芯片家族迎来全新成员 明天 14 点，小米玄戒芯片负责人朱丹，带来最新进展，将以图文直播的形式与大家见面，不见不散！ 据博主 @数码闲聊站 透露，玄戒芯片新进展将于今天下午公布， 估计会同步官宣…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-d2aaffec63ef",
       "title": "古尔曼：中国折叠机占全球半壁江山，苹果得打好硬件和身份两张牌",
@@ -23,7 +203,7 @@ window.phoneRadarAuto = {
     },
     {
       "id": "auto-f2541bb0273e",
-      "title": "四川省地震局通报：成都高新减灾研究所冒用“中国地震预警网”名义发布震级为 7.7 级预警信息，已终止其授权",
+      "title": "四川省地震局通报：成都高新减灾研究所冒用“中国地震预警网”名义发布震级为 7.7 级预警信息，今年 7 月已终止其授权",
       "source": "IT之家",
       "brand": "HONOR",
       "model": "HONOR 相关机型",
@@ -102,26 +282,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-770800daa529",
-      "title": "vivo 韩伯啸官宣全新 X500 系列 9 月亮相，全系 3 杯",
-      "source": "IT之家",
-      "brand": "vivo",
-      "model": "vivo 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-24",
-      "time": "02:09",
-      "publishedAt": "2026-08-24T02:09:07.000Z",
-      "url": "https://www.ithome.com/0/993/369.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/8/1c78f2c4-3432-449c-a265-a97b55547a39.png?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 8 月 24 日消息，vivo 通信科技有限公司产品经理韩伯啸今日宣布，全新的 X500 系列将在 9 月正式和大家见面，全系 3 杯，包括 X500、X500 Pro、X500 Pro Max。 他表示，X 系列作为长期定义的“专业影像旗舰”， 不仅在拍照和视频上长期称王，也是性能之王 。而在影像上，我们要在本代把手机视频再拉高一个维度 ——…",
-      "tags": [
-        "vivo",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "weibo-b585949509ad",
       "title": "数码闲聊站：新一轮骁龙8 Elite超级至尊版新机，一加16依然是子系旗舰中的最窄四等边，…",
       "source": "数码闲聊站",
@@ -139,66 +299,6 @@ window.phoneRadarAuto = {
         "OPPO",
         "爆料",
         "微博"
-      ]
-    },
-    {
-      "id": "coolapk-user-cebaae4c5e6a",
-      "title": "竹本青：vivo X500系列官宣9月发布：全系三杯",
-      "source": "竹本青",
-      "brand": "vivo",
-      "model": "vivo 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-08-24",
-      "time": "02:00",
-      "publishedAt": "2026-08-24T02:00:46.000Z",
-      "url": "https://www.coolapk.com/feed/73399367",
-      "image": "http://image.coolapk.com/feed/2026/0824/10/4248714_0f52f5d2_6845_6136_849@2000x2667.jpg",
-      "summary": "【vivo X500系列官宣9月发布：全系三杯，Pro系列主摄首发「蓝图光御900」】 8月24日，vivo 产品经理韩伯啸宣布，全新X500系列将在9月正式见面。全系共3杯，分别为X500、X500 Pro、X500 Pro Max。 他介绍，全新“灭霸500”将带来视频、拍照、性能、屏幕、OS的五大升级： 第一大升级：「视频」 本次Pro系列，全球首发…",
-      "tags": [
-        "vivo",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
-      "id": "auto-e0e728dbdb55",
-      "title": "消息称 vivo X500 系列首发与索尼联合定义“蓝图光御 900”主摄，2 亿灭霸长焦",
-      "source": "IT之家",
-      "brand": "vivo",
-      "model": "vivo 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-24",
-      "time": "01:06",
-      "publishedAt": "2026-08-24T01:06:12.000Z",
-      "url": "https://www.ithome.com/0/993/352.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/8/fa492f71-36b1-4311-9d27-9621f9b0a34e.png?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 8 月 24 日消息，博主 @数码闲聊站 今日爆料，vivo X500 系列代号是「灭霸 500」，定义灭霸超级加强版，主打拍照强视频更猛。 据其爆料，该机主摄首发与索尼联合定义的「蓝图光御 900」， 50Mp 1/1.28\" 电影级主摄 ，全新超高动态技术，动态范围直接拉到行业最高的 17EV，同时支持 3°OIS 云台级防抖、CIPA7.0…",
-      "tags": [
-        "vivo",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "coolapk-user-ae3610f401c4",
-      "title": "竹本青：曝vivo X500系列首发「蓝图光御900」主摄",
-      "source": "竹本青",
-      "brand": "vivo",
-      "model": "vivo 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-08-24",
-      "time": "01:02",
-      "publishedAt": "2026-08-24T01:02:16.000Z",
-      "url": "https://www.coolapk.com/feed/73398733",
-      "image": "http://image.coolapk.com/feed/2026/0824/09/4248714_d415d327_3335_5837_100@1270x735.jpg",
-      "summary": "【曝vivo X500系列 首发「蓝图光御900」主摄：与索尼联合定义，17EV动态范围】 博主数码闲聊站今天爆料，vivo X500系列 内部代号「灭霸500」，定义“灭霸超级加强版”，主打拍照强、视频更猛。 主摄——首发与索尼联合定义的「蓝图光御900」，50Mp 1/1.28\"主摄，全新超高动态技术，行业最高17EV动态范围，支持3°OIS云台级防抖…",
-      "tags": [
-        "vivo",
-        "爆料",
-        "酷安博主"
       ]
     },
     {
@@ -382,41 +482,21 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-2eb178f138eb",
-      "title": "大家为什么都默认能卖爆？这手机目前的三大竞争对手是线上降价的mate80pro max、pura 90pro max以及9月新品mate90pro。",
+      "id": "newsnow-96b521c1adf0",
+      "title": "vivo X500系列官宣9月发布：全系三杯",
       "source": "酷安热榜",
-      "brand": "行业",
-      "model": "智能手机市场",
+      "brand": "vivo",
+      "model": "vivo 相关机型",
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-08-24",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73378362",
+      "url": "https://www.coolapk.com/feed/73399367",
       "image": "",
-      "summary": "大家为什么都默认能卖爆？这手机目前的三大竞争对手是线上降价的mate80pro max、pura 90pro max以及9月新品mate90pro。",
+      "summary": "vivo X500系列官宣9月发布：全系三杯",
       "tags": [
-        "行业",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-71627398822e",
-      "title": "官方回应手机收到长宁7.7级地震预警",
-      "source": "今日头条热榜",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-24",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.toutiao.com/trending/7677221953384693810/",
-      "image": "",
-      "summary": "官方回应手机收到长宁7.7级地震预警",
-      "tags": [
-        "行业",
+        "vivo",
         "爆料",
         "NewsNow"
       ]
@@ -582,26 +662,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "coolapk-user-05d70ff2da34",
-      "title": "竹本青：荣耀机器人闪电打破五项人类世界纪录",
-      "source": "竹本青",
-      "brand": "HONOR",
-      "model": "HONOR 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-08-23",
-      "time": "13:49",
-      "publishedAt": "2026-08-23T13:49:29.000Z",
-      "url": "https://www.coolapk.com/feed/73393863",
-      "image": "http://image.coolapk.com/feed/2026/0823/21/4248714_39382324_2969_0998_183@1280x2276.jpg",
-      "summary": "【荣耀机器人闪电打破五项人类世界纪录】 8月23日，荣耀公司宣布旗下自研机器人“闪电”，在第二届世界人形机器人运动会上，打破五项人类世界纪录： ● 50分26秒，打破人类半马世界纪录 ● 2分30秒，打破人类1500米世界纪录 ● 39.45秒，打破人类400米世界纪录 ● 9.32秒，打破人类百米世界纪录 ● 14.5米/秒，超越人类巅峰速度 #今日热点…",
-      "tags": [
-        "HONOR",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
       "id": "auto-3570e4bb785f",
       "title": "iQOO Z11 vs Realme 16x 5G: Which Phone Offers Better Value?",
       "source": "Gizmochina",
@@ -619,66 +679,6 @@ window.phoneRadarAuto = {
         "vivo",
         "爆料",
         "自动抓取"
-      ]
-    },
-    {
-      "id": "coolapk-user-940fa67a90d7",
-      "title": "竹本青：最近看阿甘视频种草了一个吹风机，小米米家h501se，夕夕叠劵后也就85-100左右 之前一直用的是，随便买的最普…",
-      "source": "竹本青",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-08-23",
-      "time": "12:14",
-      "publishedAt": "2026-08-23T12:14:10.000Z",
-      "url": "https://www.coolapk.com/feed/73392408",
-      "image": "http://image.coolapk.com/feed/2026/0823/20/4248714_5741aa66_7249_0242_710@3325x2494.jpg",
-      "summary": "最近看阿甘视频种草了一个吹风机，小米米家h501se，夕夕叠劵后也就85-100左右 之前一直用的是，随便买的最普通几十块钱那种，对比之下，小米这个高速确实吹着声音小多了，风力挺大，而且后面灯板显色做的不错，不同模式对应不同颜色，很直观，也有冷热混合模式 还不错，也推荐给其他网友 #最近买过# #好物安利#",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
-      "id": "coolapk-user-42fbf217e140",
-      "title": "竹本青：【2分30秒完赛，荣耀机器人闪电打破1500米人类世界纪录】 荣耀公司刚刚宣布，在第二届世界人形机器人运动会，15…",
-      "source": "竹本青",
-      "brand": "HONOR",
-      "model": "HONOR 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-08-23",
-      "time": "11:37",
-      "publishedAt": "2026-08-23T11:37:07.000Z",
-      "url": "https://www.coolapk.com/feed/73391941",
-      "image": "http://image.coolapk.com/feed/2026/0823/19/4248714_a1dbf8a2_5026_7963_318@2160x3840.jpg",
-      "summary": "【2分30秒完赛，荣耀机器人闪电打破1500米人类世界纪录】 荣耀公司刚刚宣布，在第二届世界人形机器人运动会，1500米大型组项目决赛中，旗下机器人闪电以2分30秒的成绩完赛，打破1500米人类世界纪录。 #今日热点# #机器人# #荣耀#",
-      "tags": [
-        "HONOR",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
-      "id": "coolapk-user-5834e1919620",
-      "title": "竹本青：iPhone 17系列中国区最新销量曝光：周增约52.58万台",
-      "source": "竹本青",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-08-23",
-      "time": "10:32",
-      "publishedAt": "2026-08-23T10:32:34.000Z",
-      "url": "https://www.coolapk.com/feed/73391026",
-      "image": "http://image.coolapk.com/feed/2026/0823/18/4248714_72804f21_1439_3214_482@2160x1796.jpg",
-      "summary": "【iPhone 17系列 中国区最新销量曝光：周增约52.58万台，累计超4057万台】 8月23日，博主「RD观测」发布第三方统计数据：截至2026年第33周，iPhone 17系列手机在中国市场累计销量约4057.16万台，周环比新增约52.58万台。 前几周数据如下： 截至 W32 —— 约4004.58万（周增50.33万） 截至 W31 —— 约…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "酷安博主"
       ]
     },
     {
