@@ -1,6 +1,26 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-08-24T20:47:01.777Z",
+  "updatedAt": "2026-08-24T22:43:18.461Z",
   "news": [
+    {
+      "id": "auto-a75ba051fbaa",
+      "title": "Forget iPhones — this hack brings Quick Share to Kindles",
+      "source": "Android Authority",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-24",
+      "time": "21:42",
+      "publishedAt": "2026-08-24T21:42:36.000Z",
+      "url": "https://www.androidauthority.com/quick-share-to-kindles-hack-3702476/",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2025/09/Kindle-Scribe-Compared-to-Phone-scaled.jpg",
+      "summary": "An unofficial project called Kindshare adds Quick Share to jailbroken Kindles, with a few key limitations.",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-945384218d54",
       "title": "Apple’s Emergency SOS Live Video is now available in Brazil",
@@ -562,26 +582,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-f795acbc8de0",
-      "title": "Google Pixel 11 Pro is a major downgrade to Pixel 10 Pro in one key area; that's why I didn't buy it",
-      "source": "Android Police",
-      "brand": "Pixel",
-      "model": "Pixel 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-24",
-      "time": "12:15",
-      "publishedAt": "2026-08-24T12:15:10.000Z",
-      "url": "https://www.androidpolice.com/google-pixel-11-pro-is-major-downgrade-to-pixel-10-pro-in-one-key-area-that-is-why-i-did-not-buy-it/",
-      "image": "",
-      "summary": "This wasn't the upgrade I expected",
-      "tags": [
-        "Pixel",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-975b00c453f8",
       "title": "原定 9 月 2 日发布，字节 PICO Space Pro 头显发布时间调整至今年第四季度",
       "source": "IT之家",
@@ -702,26 +702,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-ac3a328ed998",
-      "title": "HMD 诺基亚 300 Charge 手机发布：3700mAh 电池、支持 10W 反向充电",
-      "source": "IT之家",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-24",
-      "time": "10:45",
-      "publishedAt": "2026-08-24T10:45:03.000Z",
-      "url": "https://www.ithome.com/0/993/695.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/8/c778989a-b7b7-4ce2-85bf-6e77378f301c.jpg?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 8 月 24 日消息，HMD 现已在海外市场推出诺基亚 300 Charge 手机，这是一台功能手机，没有什么花哨的功能。 据介绍， 这款手机最大的亮点就是 3700mAh 电池和 USB-C 接口 ，这个容量对功能手机来说已经是海量。其待机时间最长可达 40 天，连续通话时长可达 37 小时。 同时，这款手机侧面带有一个“Out”按键，按下后可…",
-      "tags": [
-        "行业",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-5a18cb281744",
       "title": "The Galaxy S27 Ultra looks like an outright iPhone copy in this latest leak",
       "source": "Android Central",
@@ -838,26 +818,6 @@ window.phoneRadarAuto = {
       "tags": [
         "iPhone",
         "评测",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-278d8ae82d0f",
-      "title": "Galaxy Z Fold 8 rival with a wide design to debut in China next month",
-      "source": "SamMobile",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-24",
-      "time": "09:30",
-      "publishedAt": "2026-08-24T09:30:16.000Z",
-      "url": "https://www.sammobile.com/news/galaxy-z-fold-8-rival-xiaomi-18-fold-launch-china-september/",
-      "image": "https://www.sammobile.com/wp-content/uploads/2026/08/Xiaomi-Xring-O3-O100-D100-Processor.jpg",
-      "summary": "The Galaxy Z Fold 8 has definitely turned heads, thanks to its compact design. It has proven popular with users, as pre-orders reached record-breaking levels. However, it will fac…",
-      "tags": [
-        "Samsung",
-        "爆料",
         "自动抓取"
       ]
     },
@@ -1102,19 +1062,19 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-86a8ebfce81c",
-      "title": "网友外卖里吃出手机",
-      "source": "微博热搜",
+      "id": "newsnow-51b016a8aba4",
+      "title": "男子帮人把手机放车筐妻子转头偷走",
+      "source": "今日头条热榜",
       "brand": "行业",
       "model": "智能手机市场",
       "type": "爆料",
-      "trust": "待验证",
+      "trust": "媒体汇总",
       "date": "2026-08-24",
       "time": "",
       "publishedAt": "",
-      "url": "https://s.weibo.com/weibo?q=%E7%BD%91%E5%8F%8B%E5%A4%96%E5%8D%96%E9%87%8C%E5%90%83%E5%87%BA%E6%89%8B%E6%9C%BA&t=31&band_rank=26&Refer=top",
+      "url": "https://www.toutiao.com/trending/7677425915664302099/",
       "image": "",
-      "summary": "网友外卖里吃出手机",
+      "summary": "男子帮人把手机放车筐妻子转头偷走",
       "tags": [
         "行业",
         "爆料",
@@ -1135,26 +1095,6 @@ window.phoneRadarAuto = {
       "url": "https://www.toutiao.com/trending/7677180486596788251/",
       "image": "",
       "summary": "女子下楼梯时玩手机直接摔下去",
-      "tags": [
-        "行业",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-51b016a8aba4",
-      "title": "男子帮人把手机放车筐妻子转头偷走",
-      "source": "今日头条热榜",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-24",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.toutiao.com/trending/7677425915664302099/",
-      "image": "",
-      "summary": "男子帮人把手机放车筐妻子转头偷走",
       "tags": [
         "行业",
         "爆料",
@@ -1195,26 +1135,6 @@ window.phoneRadarAuto = {
       "url": "https://9to5mac.com/2026/08/23/mophie-new-pocketable-battery-banks-for-iphone/",
       "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/Mophie-4-batteries.jpg?quality=82&strip=all&w=1600",
       "summary": "Recently, Mophie debuted four new power banks for the iPhone. They slide nicely into your pocket, come in two finishes, offer built-in cables, and pack 5000mAh or 10000mAh of capa…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-ef071f43ab8e",
-      "title": "Gurman: iPhone Ultra Wows Early Testers, Except for Its Camera",
-      "source": "MacRumors",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-23",
-      "time": "18:19",
-      "publishedAt": "2026-08-23T18:19:25.000Z",
-      "url": "https://www.macrumors.com/2026/08/23/apple-foldable-iphone-early-tester-thoughts/",
-      "image": "https://images.macrumors.com/article-new/2025/08/Apple-Foldable-Thumb.jpg",
-      "summary": "Apple's upcoming foldable iPhone Ultra is winning over the few people who have had hands-on time with the device, though the camera setup may leave some users wanting, according t…",
       "tags": [
         "iPhone",
         "爆料",
