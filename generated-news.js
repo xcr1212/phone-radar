@@ -1,6 +1,206 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-08-24T13:11:29.417Z",
+  "updatedAt": "2026-08-24T14:58:45.374Z",
   "news": [
+    {
+      "id": "auto-9d6ef371348c",
+      "title": "Galaxy S26 Ultra is now available at a new record-low price in India",
+      "source": "SamMobile",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-24",
+      "time": "14:57",
+      "publishedAt": "2026-08-24T14:57:33.000Z",
+      "url": "https://www.sammobile.com/news/galaxy-s26-ultra-now-available-new-record-low-price-india/",
+      "image": "",
+      "summary": "Last week, Samsung’s latest flagship non-foldable phone, the Galaxy S26 Ultra, was available in India at its lowest-ever price in the country since launch. Now, the device is avai…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-6521fb279fd3",
+      "title": "Lava 推出 Virat V1 Pro 5G 手机：6.75 寸 720P LCD 屏幕、紫光展锐 T8200 芯片",
+      "source": "IT之家",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-24",
+      "time": "14:56",
+      "publishedAt": "2026-08-24T14:56:48.000Z",
+      "url": "https://www.ithome.com/0/993/747.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/8/0186b9cc-897a-43b2-80e8-eeb829a274c1.jpg?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 8 月 24 日消息，Lava 今天在印度市场推出 Virat V1 Pro 5G 手机，新品定位中低端，采用 720P 屏幕和紫光展锐芯片。 据介绍， 这款手机配备 6.75 英寸的 LCD 屏幕 ，分辨率为 720*1600，支持 120Hz 高刷。搭载紫光展锐 T8200 芯片，拥有 6GB 内存和 128GB 存储空间。 同时，这款手机的…",
+      "tags": [
+        "行业",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-7bc9e4d6267f",
+      "title": "Vivo X300e vs Xiaomi 17T Pro: Which Flagship Phone Should You Buy?",
+      "source": "Gizmochina",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-24",
+      "time": "14:30",
+      "publishedAt": "2026-08-24T14:30:14.000Z",
+      "url": "https://www.gizmochina.com/2026/08/24/vivo-x300e-vs-xiaomi-17t-pro/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/08/image-93-300x195.png?x23692",
+      "summary": "Vivo X300e and Xiaomi 17T Pro take different approaches to the flagship smartphone experience. Vivo emphasizes battery endurance, selfie photography, and Snapdragon performance, w…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-26d51cf557b2",
+      "title": "法国出台有关法律，今秋新学年起实施高中校园手机禁令",
+      "source": "IT之家",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-24",
+      "time": "14:29",
+      "publishedAt": "2026-08-24T14:29:02.000Z",
+      "url": "https://www.ithome.com/0/993/744.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/7/ef841820-7bc0-4fde-98ca-ec145ce6d68d.jpg?x-bce-process=image/watermark,text_QUnnlJ_miJA,type_RlpMYW5UaW5nSGVpU0JHQg==,size_28,color_ffffffdd,skw_1,skc_00000051,g_7,blr_50,bls_50,x_11,y_11/auto-orient,o_1",
+      "summary": "IT之家 8 月 24 日消息，据央视新闻，当地时间 8 月 24 日，法国总统马克龙表示，他已颁布有关法律，从今年秋季新学年起禁止高中生在校使用手机。 马克龙表示，保护儿童免受电子屏幕带来的负面影响已刻不容缓，“没有手机的学校意味着 重新找回安宁的学习环境 ”。 法国议会此前于 7 月 21 日通过旨在 保护未成年人免受社交网络风险影响 的相关法律。法律…",
+      "tags": [
+        "行业",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-8a85b4c2cc09",
+      "title": "消息称三星 Galaxy S27 Ultra 手机尺寸与前代几乎完全相同，主要重新设计摄像头布局",
+      "source": "IT之家",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-24",
+      "time": "14:26",
+      "publishedAt": "2026-08-24T14:26:24.000Z",
+      "url": "https://www.ithome.com/0/993/743.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/8/a5869ef8-5982-4148-831b-ecec02772852.jpg?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 8 月 24 日消息，博主 @i冰宇宙 今日透露， 三星 Galaxy S27 Ultra 的尺寸和显示屏尺寸将与 Galaxy S26 Ultra 几乎完全相同 。 博主称新机的 S Pen 将继续位于左侧，扬声器也将保留在左侧。 除了重新设计的摄像头布局外 ，这两款手机的外观几乎一模一样，仅有一些细微的差异。 作为参考，三星 Galaxy S…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-33d50bbbccc3",
+      "title": "Caviar unveils ultra-luxury iPhone Ultra with a $18,840 sterling silver makeover",
+      "source": "Gizmochina",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-24",
+      "time": "14:19",
+      "publishedAt": "2026-08-24T14:19:27.000Z",
+      "url": "https://www.gizmochina.com/2026/08/24/caviar-liquid-metal-iphone-ultra-unveiled-specs-price/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/08/Caviar-Liquid-Metal-iPhone-Ultra-300x169.png?x23692",
+      "summary": "Apple isn’t expected to officially unveil its highly anticipated foldable iPhone Ultra until next month, but luxury customization brand Caviar is already showing off what the devi…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-133facaf3e02",
+      "title": "iPhone 20 Pro’s all-glass design gets new update from leaker",
+      "source": "9to5Mac",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-24",
+      "time": "13:48",
+      "publishedAt": "2026-08-24T13:48:09.000Z",
+      "url": "https://9to5mac.com/2026/08/24/iphone-20-pros-all-glass-design-gets-new-update-from-leaker/",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/05/iphone-19-pro-20-anniversary-max.jpg?quality=82&strip=all&w=1600",
+      "summary": "Next year’s iPhone Pro models are expected to feature a new, all-glass design timed for the iPhone’s 20th anniversary. And a new leak today details Apple’s progress on the innovat…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-1c3c123e43b9",
+      "title": "iPhone 18 Pro and iPhone Ultra: When Will Apple Event Be Announced?",
+      "source": "MacRumors",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-24",
+      "time": "13:45",
+      "publishedAt": "2026-08-24T13:45:00.000Z",
+      "url": "https://www.macrumors.com/2026/08/24/iphone-18-pro-iphone-ultra-apple-event-when/",
+      "image": "https://images.macrumors.com/article-new/2026/04/Four-iPhone-18-Pro-Colors-Mock-Feature.jpg",
+      "summary": "It is now late August, meaning that Apple's annual iPhone event is just around the corner. Below, we take a look at when the event might be held this year. This September, Apple i…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-6775d6842153",
+      "title": "Samsung Galaxy S27 Ultra to be offered in two sizes, really?!",
+      "source": "SamMobile",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-24",
+      "time": "13:27",
+      "publishedAt": "2026-08-24T13:27:57.000Z",
+      "url": "https://www.sammobile.com/news/samsung-galaxy-s27-ultra-to-be-offered-in-two-sizes-really/",
+      "image": "",
+      "summary": "A purported CAD render leak of the Galaxy S27 Ultra has caused some ripples in the echo chamber today. It's claimed that this render shows the design of the device's camera bar wh…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-59312b82b46e",
+      "title": "荣耀 Play 20A 手机海外发布：搭载背屏、联发科 Helio G81 芯片",
+      "source": "IT之家",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-24",
+      "time": "13:14",
+      "publishedAt": "2026-08-24T13:14:05.000Z",
+      "url": "https://www.ithome.com/0/993/731.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/8/f1661f90-6900-44cb-805f-65ee91316e09.jpg?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 8 月 24 日消息，荣耀现已在海外市场推出 Play 20A 手机，新品定位中低端市场， 背部带有一块副屏 。 IT之家了解到，这款手机的副屏可用于自拍，还能够显示时间、来电、音乐和照片等。规格方面，该机配备 6.9 英寸 IPS 水滴屏，支持 90Hz 刷新率，前摄为 500 万像素。 同时，这款手机搭载联发科 Helio G81 芯片，拥有…",
+      "tags": [
+        "HONOR",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-1234b63b1ff4",
       "title": "Buying the Pixel 11? Maybe consider this poll-winning alternative first",
@@ -139,6 +339,26 @@ window.phoneRadarAuto = {
         "行业",
         "爆料",
         "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-8a768d58e4fc",
+      "title": "2026 年上半年国内市场手机总出货量 1.33 亿部，超 98% 支持北斗定位",
+      "source": "IT之家",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-24",
+      "time": "11:09",
+      "publishedAt": "2026-08-24T11:09:45.000Z",
+      "url": "https://www.ithome.com/0/993/706.htm",
+      "image": "",
+      "summary": "IT之家 8 月 24 日消息，据央视新闻从工业和信息化部了解到，近年来，北斗系统在各行业的应用广度和深度加快拓展， 重点行业综合应用渗透率约 90% 。 工业和信息化部从 2024 年正式启动北斗规模应用试点工作。截至今年上半年，39 个城市试点累计推广北斗独立定位应用终端超 1200 万台（套）。其中，大众消费领域超 720 万台（套），工业制造领域超…",
+      "tags": [
+        "行业",
+        "爆料",
+        "自动抓取"
       ]
     },
     {
@@ -622,6 +842,26 @@ window.phoneRadarAuto = {
       ]
     },
     {
+      "id": "newsnow-b56af22cdd00",
+      "title": "[疑问]吓哭了，玄戒O3参数看起来很猛啊，各种脚踢苹果A19Pro，安兔兔和GeekBench的跑分也是猛的一匹，相比上代玄戒O1简直是牙膏踩爆了[疑问]难道我米这次真的要成了？[受虐滑稽] #玄戒O3# #小米15SPro# #iPhone17ProMax#",
+      "source": "酷安热榜",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-08-24",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/73403022",
+      "image": "",
+      "summary": "[疑问]吓哭了，玄戒O3参数看起来很猛啊，各种脚踢苹果A19Pro，安兔兔和GeekBench的跑分也是猛的一匹，相比上代玄戒O1简直是牙膏踩爆了[疑问]难道我米这次真的要成了？[受虐滑稽] #玄戒O3# #小米15SPro# #iPhone17ProMax#",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
       "id": "newsnow-ae1773c04109",
       "title": "#数码日常# #鸿蒙NEXT# #酷工作# 喷了一辈子华为手机结果还是跑来华为上班了，以后不喷了[受虐滑稽]",
       "source": "酷安热榜",
@@ -635,26 +875,6 @@ window.phoneRadarAuto = {
       "url": "https://www.coolapk.com/feed/73385197",
       "image": "",
       "summary": "#数码日常# #鸿蒙NEXT# #酷工作# 喷了一辈子华为手机结果还是跑来华为上班了，以后不喷了[受虐滑稽]",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-e3a75b06cd3a",
-      "title": "确定是9030s了[流汗滑稽][流汗滑稽]各位有没有价格爆料？拍照规格大概是pura90pro的主摄加nova16ultra的长焦吧#鸿蒙7# #华为PuraXMax#",
-      "source": "酷安热榜",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-08-24",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73390616",
-      "image": "",
-      "summary": "确定是9030s了[流汗滑稽][流汗滑稽]各位有没有价格爆料？拍照规格大概是pura90pro的主摄加nova16ultra的长焦吧#鸿蒙7# #华为PuraXMax#",
       "tags": [
         "Huawei",
         "爆料",
@@ -682,6 +902,26 @@ window.phoneRadarAuto = {
       ]
     },
     {
+      "id": "newsnow-e3a75b06cd3a",
+      "title": "确定是9030s了[流汗滑稽][流汗滑稽]各位有没有价格爆料？拍照规格大概是pura90pro的主摄加nova16ultra的长焦吧#鸿蒙7# #华为PuraXMax#",
+      "source": "酷安热榜",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-08-24",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/73390616",
+      "image": "",
+      "summary": "确定是9030s了[流汗滑稽][流汗滑稽]各位有没有价格爆料？拍照规格大概是pura90pro的主摄加nova16ultra的长焦吧#鸿蒙7# #华为PuraXMax#",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
       "id": "newsnow-0345fce40737",
       "title": "iphone信号并不差，实测下来其实是果子信号显示真实😂，地下车库一加15显示5g少一格(这个速度其实已经是4g了)，上行都跑不动，iphone显示4g跑出来也是和一加15差不多",
       "source": "酷安热榜",
@@ -702,21 +942,21 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-b56af22cdd00",
-      "title": "[疑问]吓哭了，玄戒O3参数看起来很猛啊，各种脚踢苹果A19Pro，安兔兔和GeekBench的跑分也是猛的一匹，相比上代玄戒O1简直是牙膏踩爆了[疑问]难道我米这次真的要成了？[受虐滑稽] #玄戒O3# #小米15SPro# #iPhone17ProMax#",
-      "source": "酷安热榜",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
+      "id": "newsnow-a6cb7aa3d0ec",
+      "title": "网友外卖里吃出手机",
+      "source": "微博热搜",
+      "brand": "行业",
+      "model": "智能手机市场",
       "type": "爆料",
-      "trust": "高关注爆料源",
+      "trust": "待验证",
       "date": "2026-08-24",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73403022",
+      "url": "https://s.weibo.com/weibo?q=%E7%BD%91%E5%8F%8B%E5%A4%96%E5%8D%96%E9%87%8C%E5%90%83%E5%87%BA%E6%89%8B%E6%9C%BA&t=31&band_rank=8&Refer=top",
       "image": "",
-      "summary": "[疑问]吓哭了，玄戒O3参数看起来很猛啊，各种脚踢苹果A19Pro，安兔兔和GeekBench的跑分也是猛的一匹，相比上代玄戒O1简直是牙膏踩爆了[疑问]难道我米这次真的要成了？[受虐滑稽] #玄戒O3# #小米15SPro# #iPhone17ProMax#",
+      "summary": "网友外卖里吃出手机",
       "tags": [
-        "Xiaomi",
+        "行业",
         "爆料",
         "NewsNow"
       ]
@@ -782,26 +1022,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-0ed4c141846a",
-      "title": "Every way the Galaxy Z Fold 8 feels first-gen",
-      "source": "SamMobile",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-23",
-      "time": "18:08",
-      "publishedAt": "2026-08-23T18:08:51.000Z",
-      "url": "https://www.sammobile.com/opinion/every-way-galaxy-z-fold-8-feels-first-gen/",
-      "image": "https://www.sammobile.com/wp-content/uploads/2026/07/Galaxy-Z-Fold-8-bottom-design-2-1920x1080.jpg",
-      "summary": "So far, I haven't talked much about the Galaxy Z Fold 8 even though it quickly became my all-time favorite mobile device. Or, at the very least, I feel like I haven't highlighted…",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-a74c37fa0a15",
       "title": "Galaxy S27 Ultra’s latest renders spark criticism over wild redesign",
       "source": "Gizmochina",
@@ -857,26 +1077,6 @@ window.phoneRadarAuto = {
       "summary": "We’re just a few weeks away from the rumored launch of the foldable iPhone Ultra. As we’ve written before , excitement for the device is mounting. A new report from Bloomberg toda…",
       "tags": [
         "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-7abee1860169",
-      "title": "Galaxy S27’s Exynos 2700 could outpace Snapdragon in speed and efficiency",
-      "source": "SamMobile",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-23",
-      "time": "14:19",
-      "publishedAt": "2026-08-23T14:19:13.000Z",
-      "url": "https://www.sammobile.com/news/galaxy-s27-exynos-2700-outpace-snapdragon-speed-efficiency/",
-      "image": "https://www.sammobile.com/wp-content/uploads/2026/08/Samsung-Exynos-2700-Geekbench-AI-1.7-Performance-Score-Database.jpg",
-      "summary": "Samsung has been trying hard to make Exynos chips perform as well as rival Snapdragon chips. While they have improved over the past few years, the chips haven't been able to outpa…",
-      "tags": [
-        "Samsung",
         "爆料",
         "自动抓取"
       ]
@@ -957,26 +1157,6 @@ window.phoneRadarAuto = {
       "summary": "REDMI is getting ready to drop its next mid-range Pro phones in India. According to industry insider Yogesh Brar, the REDMI Note 17 Pro and Note 17 Pro Max are set for an official…",
       "tags": [
         "Xiaomi",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-9e652836a4ad",
-      "title": "Huawei Pura X View draws global attention with its wide display design",
-      "source": "Huawei Central",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-23",
-      "time": "07:11",
-      "publishedAt": "2026-08-23T07:11:50.000Z",
-      "url": "https://www.huaweicentral.com/huawei-pura-x-view-draws-global-attention-with-its-wide-display-design/",
-      "image": "https://www.huaweicentral.com/wp-content/uploads/2026/08/PuraXView.jpg",
-      "summary": "A few days ago, Huawei unveiled the Pura X View, the first-ever wide-fold bar-type phone that caught global attention for its unique design. On August 20, Yu Chengdong, Chairman o…",
-      "tags": [
-        "Huawei",
         "爆料",
         "自动抓取"
       ]
