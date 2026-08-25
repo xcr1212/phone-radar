@@ -1,5 +1,5 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-08-25T01:51:15.445Z",
+  "updatedAt": "2026-08-25T03:11:52.730Z",
   "news": [
     {
       "id": "auto-c27aa6c5b3b3",
@@ -19,6 +19,126 @@ window.phoneRadarAuto = {
         "Samsung",
         "官方",
         "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-e07fb5b42ea5",
+      "title": "道交法修订草案出炉：开车玩手机 / 打电话 / 看视频致交通事故将处 200 元以上罚款、可并处暂扣三个月机动车驾驶证",
+      "source": "IT之家",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-25",
+      "time": "02:23",
+      "publishedAt": "2026-08-25T02:23:44.000Z",
+      "url": "https://www.ithome.com/0/993/852.htm",
+      "image": "",
+      "summary": "IT之家 8 月 25 日消息，小轿车司机边开车边看视频，网约车司机边开车边抢单…… 类似视频见诸媒体，引发人们对“盲驾”行为的高度关注。 据新华社报道，在今天（8 月 25 日）提请十四届全国人大常委会会议初次审议的道路交通安全法修订草案中明确，对拨打或者接听手持电话、观看视频等妨碍安全驾驶行为并造成交通事故或者其他严重后果的， 处 200 元以上 50…",
+      "tags": [
+        "行业",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-35531ca3dd15",
+      "title": "竹本青：vivo X500 Pro Max 官方爆料：主摄支持3度OIS防抖",
+      "source": "竹本青",
+      "brand": "vivo",
+      "model": "vivo 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-08-25",
+      "time": "02:13",
+      "publishedAt": "2026-08-25T02:13:10.000Z",
+      "url": "https://www.coolapk.com/feed/73416388",
+      "image": "http://image.coolapk.com/feed/2026/0825/10/4248714_d646b647_4408_0596_886-livepic@1080x1920.jpg",
+      "summary": "【vivo X500 Pro Max 官方爆料：主摄支持3度OIS防抖】 ● 联合索尼定义「蓝图光御900」 ● 50MP 1/1.28\"｜17EV动态范围 ● 3°OIS云台级防抖｜CIPA7.0防抖 ● 4K 240fps慢动作／4K 120fps HDR直出 #今日热点# #vivoX500ProMax# #OriginOS7#",
+      "tags": [
+        "vivo",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-ba4eb9e8b992",
+      "title": "索尼 Xperia 10 VIII 手机发布：屏幕亮度提升 50%、搭骁龙 6 Gen 3 处理器",
+      "source": "IT之家",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-25",
+      "time": "02:12",
+      "publishedAt": "2026-08-25T02:12:01.000Z",
+      "url": "https://www.ithome.com/0/993/840.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/8/2dbca99a-4f83-4611-a778-802408cd4d52.png?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 8 月 25 日消息，索尼在今天的发布会中正式推出了 Xperia 10 VIII 手机，该机继续采用无刘海、无挖孔屏设计，同时保持较窄的左右边框和相对较宽的上下边框。 该机搭载一块 6.1 英寸 120Hz OLED 面板（亮度相对上一代提升 50%）；机身右侧提供了拍照按钮；机身双扬声器获得升级，号称可以提供更加饱满的声音。 该机采用后置双摄…",
+      "tags": [
+        "行业",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-7f1870bfa039",
+      "title": "联发科首款 2nm 芯片：天玑 9600 Pro 芯片跑分曝光",
+      "source": "IT之家",
+      "brand": "vivo",
+      "model": "vivo 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-25",
+      "time": "02:00",
+      "publishedAt": "2026-08-25T02:00:18.000Z",
+      "url": "https://www.ithome.com/0/993/829.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/8/3f557971-f7b3-45bc-9bbb-7688f912de07.jpg",
+      "summary": "IT之家 8 月 25 日消息，vivo X500 Pro Max（型号 V2610）手机昨日（8 月 24 日）现身 GeekBench 跑分库， 6.7.1 版本单核成绩为 2653 分，多核成绩为 7516 分。 根据跑分库页面信息，该手机搭载联发科 MT6995（ENG）芯片，配备 2+3+3 集群 CPU 设计，搭载 Mali-G2-Ultra-…",
+      "tags": [
+        "vivo",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-8be333e019c5",
+      "title": "竹本青：消息称华为 Pura X View 搭载麒麟9030S处理器",
+      "source": "竹本青",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-08-25",
+      "time": "01:54",
+      "publishedAt": "2026-08-25T01:54:32.000Z",
+      "url": "https://www.coolapk.com/feed/73416140",
+      "image": "http://image.coolapk.com/feed/2026/0825/09/4248714_cb23eea8_2871_5177_145@1440x796.jpg",
+      "summary": "【消息称华为Pura X View搭载麒麟9030S 处理器】 ● 麒麟9030S 处理器 ● 7000mAh电池+66W快充 ● 首发搭载鸿蒙 7系统 ● 1/1.28\"主摄+50MP潜望+超广+第二代红枫 ● SKU： 12+256GB／12+512GB／12+1TB 幻夜黑／零度白／跃影红／亚麻灰 ● 屏幕： 6.39英寸 16:9.5 OLED 阔…",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "coolapk-user-1d399c9cbb20",
+      "title": "竹本青：【比亚迪 × 荣耀达成深度手车互联合作】 ● 地址流转一拖即达 ● 音乐无缝流转 ● 微信扫一扫一句话唤起 #今日…",
+      "source": "竹本青",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-08-25",
+      "time": "01:54",
+      "publishedAt": "2026-08-25T01:54:10.000Z",
+      "url": "https://www.coolapk.com/feed/73416065",
+      "image": "http://image.coolapk.com/feed/2026/0825/09/4248714_7a971bc6_2542_3344_409@807x10274.jpg",
+      "summary": "【比亚迪 × 荣耀达成深度手车互联合作】 ● 地址流转一拖即达 ● 音乐无缝流转 ● 微信扫一扫一句话唤起 #今日热点# #比亚迪# #MagicOS11#",
+      "tags": [
+        "HONOR",
+        "爆料",
+        "酷安博主"
       ]
     },
     {
@@ -42,46 +162,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "coolapk-user-389e9861f3ba",
-      "title": "竹本青：【HarmonyOS7｜HUAWEI Mate XT 2 及全场景新品发布会，官宣9月7日举行】 8月25日，华为…",
-      "source": "竹本青",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-08-25",
-      "time": "01:01",
-      "publishedAt": "2026-08-25T01:01:27.000Z",
-      "url": "https://www.coolapk.com/feed/73415516",
-      "image": "http://image.coolapk.com/feed/2026/0825/09/4248714_23f89437_9685_895_47@1920x1080.jpg",
-      "summary": "【HarmonyOS7｜HUAWEI Mate XT 2 及全场景新品发布会，官宣9月7日举行】 8月25日，华为高管何刚发文官宣，华为新品发布会定档9月7日14:30。 HUAWEI Mate XT 2、HUAWEI Pura X View 将首发搭载HarmonyOS 7正式登场，同时还将带来多款全场景新品。 #今日热点# #鸿蒙7# #华为PuraX…",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
-      "id": "coolapk-user-a0a96a040dea",
-      "title": "竹本青：【天玑9600 Pro 早期跑分曝光：单核2653分/多核7516分，限制2.9GHz】 8月25日，博主数码闲聊…",
-      "source": "竹本青",
-      "brand": "vivo",
-      "model": "vivo 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-08-25",
-      "time": "01:00",
-      "publishedAt": "2026-08-25T01:00:02.000Z",
-      "url": "https://www.coolapk.com/feed/73415500",
-      "image": "http://image.coolapk.com/feed/2026/0825/09/4248714_d755e958_9601_569_82@1271x1968.jpg",
-      "summary": "【天玑9600 Pro 早期跑分曝光：单核2653分/多核7516分，限制2.9GHz】 8月25日，博主数码闲聊站放出搭载天玑9600 Pro的vivo X500 Pro Max工程机跑分。限制2.9GHz情况下，在Geekbench 6.7.1取得单核2653分/多核7516分的成绩。 ● 台积电N2p工艺 ● GPU：12核 G2 Ultra NX…",
-      "tags": [
-        "vivo",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
       "id": "auto-861c4bf6fc89",
       "title": "消息称佳能计划推出新款 PowerShot 卡片相机：基于现款机型小改款、引入 USB-C 接口等特性",
       "source": "IT之家",
@@ -99,26 +179,6 @@ window.phoneRadarAuto = {
         "行业",
         "爆料",
         "自动抓取"
-      ]
-    },
-    {
-      "id": "weibo-0f4d2e826ad7",
-      "title": "数码闲聊站：vivo X500 Pro Max/天玑9600 Pro早期跑分： 台积电N2…",
-      "source": "数码闲聊站",
-      "brand": "vivo",
-      "model": "vivo 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-08-25",
-      "time": "00:45",
-      "publishedAt": "2026-08-25T00:45:16.000Z",
-      "url": "https://weibo.com/6048569942/ReZi66lmX",
-      "image": "https://tvax1.sinaimg.cn/mw2000/006BlblIgy1igfr948fi0j30xv14i45f.jpg",
-      "summary": "vivo X500 Pro Max/天玑9600 Pro早期跑分： 台积电N2p，2+3+3架构，双Canyon超大核主频4.55GHz，2*4.55GHz Canyon+3*4.35GHz Gelas-b+3*3.10GHz Gelas； GPU是G2 Ultra NX MC12，玄戒O3是MC16。 工程机只跑到2.9GHz，理论上单核应该能上4K",
-      "tags": [
-        "vivo",
-        "爆料",
-        "微博"
       ]
     },
     {
@@ -182,7 +242,27 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-a43900443dd5",
+      "id": "newsnow-64e53aed77d5",
+      "title": "抖音在澎湃4还有MIUI实验室遗留代码的视频下的评论区说了句：“但是澎湃4流畅度确实可以了”，和触犯天条了一样，一堆人在下面喷我，说我没吃过细糠，说“输有输的赢法是吗”，说什么find x7现在的流畅度都爆杀澎湃4，真是给我整无语了，我就想问问他们用过澎湃4吗，看了点网上的视频就跟风硬黑，好歹用用再评价啊，以前的澎湃确实是区，但是澎湃4论流畅度方面我觉得真没有很大短板了，就说了句真实体验过后的实话某些人就急了[发怒]#小米17Ultra# #一加13##HyperOS4#",
+      "source": "酷安热榜",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-08-25",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/73412412",
+      "image": "",
+      "summary": "抖音在澎湃4还有MIUI实验室遗留代码的视频下的评论区说了句：“但是澎湃4流畅度确实可以了”，和触犯天条了一样，一堆人在下面喷我，说我没吃过细糠，说“输有输的赢法是吗”，说什么find x7现在的流畅度都爆杀澎湃4，真是给我整无语了，我就想问问他们用过澎湃4吗，看了点网上的视频就跟风硬黑，好歹用用再评价啊，以前的澎湃确实是区，但是澎湃4论流畅度方面我觉得真…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-9e0cf928b0f0",
       "title": "iPhone18涨价幅度",
       "source": "微博热搜",
       "brand": "iPhone",
@@ -192,7 +272,7 @@ window.phoneRadarAuto = {
       "date": "2026-08-25",
       "time": "",
       "publishedAt": "",
-      "url": "https://s.weibo.com/weibo?q=%23iPhone18%E6%B6%A8%E4%BB%B7%E5%B9%85%E5%BA%A6%23&t=31&band_rank=7&Refer=top",
+      "url": "https://s.weibo.com/weibo?q=%23iPhone18%E6%B6%A8%E4%BB%B7%E5%B9%85%E5%BA%A6%23&t=31&band_rank=9&Refer=top",
       "image": "",
       "summary": "iPhone18涨价幅度",
       "tags": [
@@ -213,7 +293,7 @@ window.phoneRadarAuto = {
       "time": "23:36",
       "publishedAt": "2026-08-24T23:36:00.000Z",
       "url": "https://www.ithome.com/0/993/790.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/8/9dd902bf-c1d1-4d54-a6ae-bf8ccc8fa2c2.png",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/8/9dd902bf-c1d1-4d54-a6ae-bf8ccc8fa2c2.png?x-bce-process=image/format,f_auto",
       "summary": "IT之家 8 月 25 日消息，消息源 Yogesh Brar 发文，展示了苹果 20 周年版 iPhone 新渲染图。 相应图片显示，20 周年版 iPhone 正面采用四曲面屏设计，匹配单打孔摄像头，手机背面也采用了曲面设计。此外，图片还显示该机采用后置水平双摄设计，整体风格有点类似网传的 iPhone Air 2。 IT之家注意到，此前消息显示苹果…",
       "tags": [
         "iPhone",
@@ -562,26 +642,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "coolapk-user-a733694a50fa",
-      "title": "竹本青：【供应链：长鑫存储为小米玄戒O3的LPDDR6核心合作伙伴】 8月24日，财联社消息，小米正式发布玄戒O3芯片。新…",
-      "source": "竹本青",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-08-24",
-      "time": "15:14",
-      "publishedAt": "2026-08-24T15:14:40.000Z",
-      "url": "https://www.coolapk.com/feed/73411818",
-      "image": "http://image.coolapk.com/feed/2026/0824/23/4248714_d9635c6e_4479_8148_801@1440x1920.jpg",
-      "summary": "【供应链：长鑫存储为小米玄戒O3的LPDDR6核心合作伙伴】 8月24日，财联社消息，小米正式发布玄戒O3芯片。新一代玄戒O3芯片是全球首个支持LPDDR6内存芯片的旗舰移动处理器。 财联社记者从供应链获悉，国内存储龙头长鑫存储（CXMT）是小米玄戒O3的LPDDR6内存核心合作伙伴。 今年3月，已有消息传出长鑫LPDDR6已经给关键客户送样，8月初，多家…",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
       "id": "auto-9d6ef371348c",
       "title": "Galaxy S26 Ultra is now available at a new record-low price in India",
       "source": "SamMobile",
@@ -737,26 +797,6 @@ window.phoneRadarAuto = {
       "summary": "Apple's 20th-anniversary iPhone will be made using the same glass manufacturing process developed for the iPhone Air , according to the leaker known as \" Fixed Focus Digital .\" In…",
       "tags": [
         "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-70d73cb0b401",
-      "title": "Apple Preparing to Increase iPhone Prices",
-      "source": "MacRumors",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-24",
-      "time": "11:17",
-      "publishedAt": "2026-08-24T11:17:31.000Z",
-      "url": "https://www.macrumors.com/2026/08/24/apple-preparing-to-increase-iphone-prices/",
-      "image": "https://images.macrumors.com/article-new/2026/08/iPhone-18-Pro-Dark-Cherry-Feature.jpg",
-      "summary": "Apple is preparing to raise iPhone prices following similar moves from Samsung and Google, according to Bloomberg 's Mark Gurman . Apple raised prices on almost every major produc…",
-      "tags": [
-        "Samsung",
         "爆料",
         "自动抓取"
       ]

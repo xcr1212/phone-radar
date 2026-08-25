@@ -1,5 +1,5 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-08-25T01:51:15.445Z",
+  "updatedAt": "2026-08-25T03:11:52.730Z",
   "issueDate": "2026-08-25",
   "issue": "VOL.260825",
   "title": "手机情报日报",
@@ -29,7 +29,7 @@ window.phoneRadarDaily = {
           "time": "23:36",
           "publishedAt": "2026-08-24T23:36:00.000Z",
           "url": "https://www.ithome.com/0/993/790.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/8/9dd902bf-c1d1-4d54-a6ae-bf8ccc8fa2c2.png",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/8/9dd902bf-c1d1-4d54-a6ae-bf8ccc8fa2c2.png?x-bce-process=image/format,f_auto",
           "verdict": "先看",
           "takeaway": "IT之家 8 月 25 日消息，消息源 Yogesh Brar 发文，展示了苹果 20 周年版 iPhone 新渲染图。 相应图片显示，20 周年版 iPhone 正面采用四曲面屏设计，匹配单打孔摄像头，手机背面也采用了曲面设计。此外，图片还显示该机采用后置水平双摄设计，整体风格有点类似网传的 iPhone Air 2。 IT之家注意到，此前消息显示苹果…",
           "detail": "IT之家 8 月 25 日消息，消息源 Yogesh Brar 发文，展示了苹果 20 周年版 iPhone 新渲染图。 相应图片显示，20 周年版 iPhone 正面采用四曲面屏设计，匹配单打孔摄像头，手机背面也采用了曲面设计。此外，图片还显示该机采用后置水平双摄设计，整体风格有点类似网传的 iPhone Air 2。 IT之家注意到，此前消息显示苹果…",
