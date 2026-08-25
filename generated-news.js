@@ -1,5 +1,5 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-08-25T03:11:52.730Z",
+  "updatedAt": "2026-08-25T04:52:45.200Z",
   "news": [
     {
       "id": "auto-c27aa6c5b3b3",
@@ -22,6 +22,106 @@ window.phoneRadarAuto = {
       ]
     },
     {
+      "id": "auto-2d3883e75a57",
+      "title": "索尼 Xperia 10 VIII 手机细节：屏幕亮度提升 50%，保留 3.5mm 端口，6 年安全更新",
+      "source": "IT之家",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-25",
+      "time": "04:09",
+      "publishedAt": "2026-08-25T04:09:29.000Z",
+      "url": "https://www.ithome.com/0/993/948.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/8/15d6e5dc-a7b9-43a1-bbcd-3bd2ca25ff43.png",
+      "summary": "IT之家 8 月 25 日消息，在今天（8 月 25 日）召开的新品发布会上， 索尼正式发布 Xperia 10 VIII 手机 ，官方后续发布推文，介绍了这款旗舰手机的更多细节。 屏幕方面，这款手机采用 6.1 英寸屏幕，分辨率为 19.5:9，刷新率为 120Hz。索尼称 Xperia 10 VIII 手机亮度比上一代提升了 50%，并具备自动色彩调节…",
+      "tags": [
+        "行业",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-6a04e303c90a",
+      "title": "Huawei CEO reveals sale date for Pura X View phone",
+      "source": "Huawei Central",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-25",
+      "time": "04:01",
+      "publishedAt": "2026-08-25T04:01:17.000Z",
+      "url": "https://www.huaweicentral.com/huawei-ceo-reveals-sale-date-for-pura-x-view-phone/",
+      "image": "https://www.huaweicentral.com/wp-content/uploads/2026/08/PuraX-View.jpg",
+      "summary": "Huawei Pura X View launched as the first wide, flat-screen smartphone, and its sale date is now in sight. One of the company’s officials has revealed today when the flagship with…",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-b08c8b7358fb",
+      "title": "版本间隔 4 周 → 2 周：微软加速 WebView2 Runtime 更迭，和 Edge 浏览器同步更新",
+      "source": "IT之家",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-25",
+      "time": "03:49",
+      "publishedAt": "2026-08-25T03:49:38.000Z",
+      "url": "https://www.ithome.com/0/993/945.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/8/5b563342-8ecb-4761-ab0f-5472ef8cbdae.png?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 8 月 25 日消息，微软昨日（8 月 24 日）发布博文，宣布自 Microsoft Edge 152 版本（计划 8 月 27 日发布）开始，WebView2 Runtime 将跟随 Edge 浏览器的更新节奏， 从现有的 4 周一次缩短到每隔 2 周一次。 WebView2 Runtime 是微软推出的网页渲染底层运行库，可视为连接“本地客…",
+      "tags": [
+        "行业",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "weibo-9d76746b15b2",
+      "title": "数码闲聊站：骁龙8 Elite Extreme Gen6/SM8975： 台积电N2p，2…",
+      "source": "数码闲聊站",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-08-25",
+      "time": "03:23",
+      "publishedAt": "2026-08-25T03:23:39.000Z",
+      "url": "https://weibo.com/6048569942/Rf0ko4k9T",
+      "image": "https://tvax1.sinaimg.cn/mw2000/006BlblIly1igfwvclognj30xv1vkkc8.jpg",
+      "summary": "骁龙8 Elite Extreme Gen6/SM8975： 台积电N2p，2+3+3 Oryon CPU架构，双超大核主频5.01GHz，2*5.01GHz+3*4.03GHz+3*3.74GHz，Adreno 850 GPU 天玑9600 Pro： 台积电N2p，2+3+3架构，双Canyon超大核主频4.55GHz，2*4.55GHz Canyon+…",
+      "tags": [
+        "行业",
+        "爆料",
+        "微博"
+      ]
+    },
+    {
+      "id": "auto-daf3cb4da882",
+      "title": "号称全球首款“真 0mm 无边框”，传音 TECNO 概念手机真机上手视频曝光",
+      "source": "IT之家",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-25",
+      "time": "03:13",
+      "publishedAt": "2026-08-25T03:13:40.000Z",
+      "url": "https://www.ithome.com/0/993/883.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/8/6af54f18-72e1-40fa-8d57-43302be790e1.jpg",
+      "summary": "IT之家 8 月 25 日消息，YouTube 频道 Marques Brownlee（也称 MKBHD）今天（8 月 25 日）发布视频，上手体验了传音 TECNO 新一代无边框概念手机，号称全球首款“真 0mm 无边框”。 这款概念手机采用“一整块玻璃”设计，计划在 IFA 2026 展会上进行实机展示。TECNO 宣称这一概念机型可以做到“真 0mm…",
+      "tags": [
+        "行业",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
       "id": "auto-e07fb5b42ea5",
       "title": "道交法修订草案出炉：开车玩手机 / 打电话 / 看视频致交通事故将处 200 元以上罚款、可并处暂扣三个月机动车驾驶证",
       "source": "IT之家",
@@ -37,6 +137,26 @@ window.phoneRadarAuto = {
       "summary": "IT之家 8 月 25 日消息，小轿车司机边开车边看视频，网约车司机边开车边抢单…… 类似视频见诸媒体，引发人们对“盲驾”行为的高度关注。 据新华社报道，在今天（8 月 25 日）提请十四届全国人大常委会会议初次审议的道路交通安全法修订草案中明确，对拨打或者接听手持电话、观看视频等妨碍安全驾驶行为并造成交通事故或者其他严重后果的， 处 200 元以上 50…",
       "tags": [
         "行业",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-a2f745d1a96e",
+      "title": "Apple Reportedly Will Announce iPhone 18 Pro Event Date This Week",
+      "source": "MacRumors",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-25",
+      "time": "02:15",
+      "publishedAt": "2026-08-25T02:15:00.000Z",
+      "url": "https://www.macrumors.com/2026/08/24/apple-invites-iphone-18-pro-event-soon/",
+      "image": "",
+      "summary": "Apple plans to send out invites for its annual iPhone event this week, according to Bloomberg 's Mark Gurman . The event will likely take place on Wednesday, September 9, he said.…",
+      "tags": [
+        "iPhone",
         "爆料",
         "自动抓取"
       ]
@@ -262,63 +382,23 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-9e0cf928b0f0",
-      "title": "iPhone18涨价幅度",
-      "source": "微博热搜",
+      "id": "newsnow-39f009d5df88",
+      "title": "网传iPhone 18 Pro Max包装盒流出",
+      "source": "今日头条热榜",
       "brand": "iPhone",
       "model": "iPhone 相关机型",
       "type": "爆料",
-      "trust": "待验证",
+      "trust": "媒体汇总",
       "date": "2026-08-25",
       "time": "",
       "publishedAt": "",
-      "url": "https://s.weibo.com/weibo?q=%23iPhone18%E6%B6%A8%E4%BB%B7%E5%B9%85%E5%BA%A6%23&t=31&band_rank=9&Refer=top",
+      "url": "https://www.toutiao.com/trending/7676986742054289451/",
       "image": "",
-      "summary": "iPhone18涨价幅度",
+      "summary": "网传iPhone 18 Pro Max包装盒流出",
       "tags": [
         "iPhone",
         "爆料",
         "NewsNow"
-      ]
-    },
-    {
-      "id": "auto-0007af9c01fa",
-      "title": "苹果 20 周年纪念版 iPhone 新渲染图曝光：后置双摄、前置单挖孔设计",
-      "source": "IT之家",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-24",
-      "time": "23:36",
-      "publishedAt": "2026-08-24T23:36:00.000Z",
-      "url": "https://www.ithome.com/0/993/790.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/8/9dd902bf-c1d1-4d54-a6ae-bf8ccc8fa2c2.png?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 8 月 25 日消息，消息源 Yogesh Brar 发文，展示了苹果 20 周年版 iPhone 新渲染图。 相应图片显示，20 周年版 iPhone 正面采用四曲面屏设计，匹配单打孔摄像头，手机背面也采用了曲面设计。此外，图片还显示该机采用后置水平双摄设计，整体风格有点类似网传的 iPhone Air 2。 IT之家注意到，此前消息显示苹果…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-03cc415c4b43",
-      "title": "消息称三星联合康宁研发自修复玻璃，Galaxy S27 Ultra 手机有望搭载",
-      "source": "IT之家",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-24",
-      "time": "23:17",
-      "publishedAt": "2026-08-24T23:17:42.000Z",
-      "url": "https://www.ithome.com/0/993/782.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/8/e81325ac-7b2a-4468-9356-5256d38bb3f7.jpg?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 8 月 25 日消息，三星 Galaxy S27 Ultra 可能会拥有一项颇为有趣的新特性，而且如果传闻属实，这项功能或许能给用户带来实实在在的好处。有消息称，三星即将推出的 Ultra 旗舰手机将采用一种具备自修复能力的玻璃，可以自行修复轻微划痕。 IT之家注意到，上周末，行业观察人士 Schrödinger 在 X 上表示，康宁与三星正在联…",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
       ]
     },
     {
@@ -777,26 +857,6 @@ window.phoneRadarAuto = {
       "summary": "This poll nearly offered up a huge upset, but a heavyweight won the bout in the end.",
       "tags": [
         "Pixel",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-78219f9dcdfc",
-      "title": "iPhone 20's Curved Glass Design to Be Made Like iPhone Air",
-      "source": "MacRumors",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-24",
-      "time": "12:42",
-      "publishedAt": "2026-08-24T12:42:09.000Z",
-      "url": "https://www.macrumors.com/2026/08/24/iphone-20-curved-glass-to-be-like-iphone-air/",
-      "image": "https://images.macrumors.com/article-new/2026/07/iphone-20-anniversary.jpg",
-      "summary": "Apple's 20th-anniversary iPhone will be made using the same glass manufacturing process developed for the iPhone Air , according to the leaker known as \" Fixed Focus Digital .\" In…",
-      "tags": [
-        "iPhone",
         "爆料",
         "自动抓取"
       ]
