@@ -1,12 +1,12 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-08-25T15:04:19.864Z",
+  "updatedAt": "2026-08-25T16:54:11.668Z",
   "issueDate": "2026-08-25",
   "issue": "VOL.260825",
   "title": "手机情报日报",
-  "intro": "今日筛出 12 条重点，其中 8 条是重点爆料，包含 7 条 iPhone 相关、0 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 10 条重点，其中 8 条是重点爆料，包含 8 条 iPhone 相关、0 条官方确认、0 条参数线索。",
   "stats": {
-    "total": 12,
-    "iphone": 7,
+    "total": 10,
+    "iphone": 8,
     "leaks": 8,
     "official": 0,
     "specs": 0
@@ -57,6 +57,30 @@ window.phoneRadarDaily = {
           "takeaway": "一万五的 iPhone，你会买吗",
           "detail": "一万五的 iPhone，你会买吗",
           "keyPoints": [
+            "爆料来源"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "auto-e3f9dc466a73",
+          "title": "iPhone 芯片 / 性能相关消息",
+          "originalTitle": "",
+          "source": "Gizmochina",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-08-25",
+          "time": "16:33",
+          "publishedAt": "2026-08-25T16:33:18.000Z",
+          "url": "https://www.gizmochina.com/2026/08/25/alleged-iphone-ultra-motherboard-leaks-soc-dram-sit-side-by-side-instead-of-being-stacked/",
+          "image": "https://www.gizmochina.com/wp-content/uploads/2026/08/HQfqjdFbYAAcchT-300x169.jpg?x23692",
+          "verdict": "先看",
+          "takeaway": "iPhone 芯片 / 性能相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
+          "detail": "iPhone 芯片 / 性能相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
+          "keyPoints": [
+            "影像硬件",
             "爆料来源"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
@@ -179,30 +203,6 @@ window.phoneRadarDaily = {
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "auto-fdcb1db8c9f0",
-          "title": "小米手机售后规则再调整，删除二手产品 / 商品不属于三包范围相关表述",
-          "originalTitle": "",
-          "source": "IT之家",
-          "brand": "Xiaomi",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-08-25",
-          "time": "14:55",
-          "publishedAt": "2026-08-25T14:55:23.000Z",
-          "url": "https://www.ithome.com/0/994/254.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/8/c8a80e61-19a7-4bb2-8084-a8223ebec151.jpg?x-bce-process=image/format,f_auto",
-          "verdict": "先看",
-          "takeaway": "IT之家 8 月 25 日消息，据用户反馈，小米手机的服务价格及服务政策再次迎来调整。在非保修条款中， 不属于三包范围的情况删除了关于二手产品 / 商品的相关表述 。 不过， 服务权益中的「只换不修」和「电池保」依然保留相关条款 。用户享有权益的手机，发生过任何回收业务、转售情况及赠予或转交第三方使用的也不能享受只换不修 / 电池保。 IT之家注：三包政策…",
-          "detail": "IT之家 8 月 25 日消息，据用户反馈，小米手机的服务价格及服务政策再次迎来调整。在非保修条款中， 不属于三包范围的情况删除了关于二手产品 / 商品的相关表述 。 不过， 服务权益中的「只换不修」和「电池保」依然保留相关条款 。用户享有权益的手机，发生过任何回收业务、转售情况及赠予或转交第三方使用的也不能享受只换不修 / 电池保。 IT之家注：三包政策…",
-          "keyPoints": [
-            "电池 / 充电",
-            "成本 / 价格"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         }
       ]
     },
@@ -261,59 +261,6 @@ window.phoneRadarDaily = {
             "爆料"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        }
-      ]
-    },
-    {
-      "id": "market",
-      "title": "行业趋势",
-      "hint": "看方向，不急着当购买依据。",
-      "items": [
-        {
-          "id": "coolapk-user-3db85aeb33f1",
-          "title": "竹本青：【百米田径8秒94，荣耀机器人闪电再次打破人类世界纪录】 荣耀公司今天宣布，旗下机器人闪电在第二届世界人形机器人运…",
-          "originalTitle": "",
-          "source": "竹本青",
-          "brand": "HONOR",
-          "type": "爆料",
-          "trust": "高可信爆料",
-          "date": "2026-08-25",
-          "time": "12:42",
-          "publishedAt": "2026-08-25T12:42:59.000Z",
-          "url": "https://www.coolapk.com/feed/73426027",
-          "image": "http://image.coolapk.com/feed/2026/0825/20/4248714_fe87093c_1777_7455_33@2000x3556.jpg",
-          "verdict": "扫一眼",
-          "takeaway": "【百米田径8秒94，荣耀机器人闪电再次打破人类世界纪录】 荣耀公司今天宣布，旗下机器人闪电在第二届世界人形机器人运动会，百米田径大型组项目中跑出8秒94，再次打破人类世界纪录。 #今日热点# #机器人# #荣耀#",
-          "detail": "【百米田径8秒94，荣耀机器人闪电再次打破人类世界纪录】 荣耀公司今天宣布，旗下机器人闪电在第二届世界人形机器人运动会，百米田径大型组项目中跑出8秒94，再次打破人类世界纪录。 #今日热点# #机器人# #荣耀#",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "可信度较高，但仍属于发布前线索。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
-        {
-          "id": "coolapk-user-dd30274da823",
-          "title": "JSCHEN小小狐：博主对比骁龙、天玑 2nm 旗舰平台顶配规格",
-          "originalTitle": "",
-          "source": "JSCHEN小小狐",
-          "brand": "行业",
-          "type": "爆料",
-          "trust": "高可信爆料",
-          "date": "2026-08-25",
-          "time": "05:25",
-          "publishedAt": "2026-08-25T05:25:54.000Z",
-          "url": "https://www.coolapk.com/feed/73419221",
-          "image": "http://image.coolapk.com/feed/2026/0825/13/4702274_93f84964_5552_9482_395@1440x1151.jpg",
-          "verdict": "扫一眼",
-          "takeaway": "『博主对比骁龙、天玑 2nm 旗舰平台顶配规格』 骁龙 8 Elite Extreme Gen6（SM8975） ◇ 台积电 N2p 制程工艺 ◇ 2+3+3 Oryon CPU 架构 ◇ 双超大核主频 5.01GHz ◇ 2×5.01GHz + 3×4.03GHz + 3×3.74GHz ◇ Adreno 850 6 Slice GPU 天玑 9600…",
-          "detail": "『博主对比骁龙、天玑 2nm 旗舰平台顶配规格』 骁龙 8 Elite Extreme Gen6（SM8975） ◇ 台积电 N2p 制程工艺 ◇ 2+3+3 Oryon CPU 架构 ◇ 双超大核主频 5.01GHz ◇ 2×5.01GHz + 3×4.03GHz + 3×3.74GHz ◇ Adreno 850 6 Slice GPU 天玑 9600…",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "可信度较高，但仍属于发布前线索。",
           "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         }

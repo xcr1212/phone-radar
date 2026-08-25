@@ -1,6 +1,106 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-08-25T15:04:19.864Z",
+  "updatedAt": "2026-08-25T16:54:11.668Z",
   "news": [
+    {
+      "id": "auto-e3f9dc466a73",
+      "title": "Alleged iPhone Ultra motherboard leaks: SoC, DRAM sit side-by-side instead of being stacked",
+      "source": "Gizmochina",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-25",
+      "time": "16:33",
+      "publishedAt": "2026-08-25T16:33:18.000Z",
+      "url": "https://www.gizmochina.com/2026/08/25/alleged-iphone-ultra-motherboard-leaks-soc-dram-sit-side-by-side-instead-of-being-stacked/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/08/HQfqjdFbYAAcchT-300x169.jpg?x23692",
+      "summary": "Some images and a short video making the rounds online claim to show actual internal hardware from Apple’s long-rumored foldable iPhone, and they’re popping up weeks before the th…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-7ee627e584e6",
+      "title": "Redmi 17C 5G launches with a 6.9-inch 120Hz screen, a 6,000mAh battery and 50MP camera",
+      "source": "Gizmochina",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-25",
+      "time": "16:33",
+      "publishedAt": "2026-08-25T16:33:09.000Z",
+      "url": "https://www.gizmochina.com/2026/08/25/redmi-17c-5g-launched-price-specifications/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/08/Redmi-17C-5G_-300x179.jpg?x23692",
+      "summary": "Earlier this month, Redmi unveiled the Redmi 17 4G and Redmi 17 5G for the global market. Now, the Redmi 17C 5G has officially appeared in Singapore, adding another affordable opt…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-f2ab6ab678c1",
+      "title": "Motorola Edge 70 Fusion, Edge 60 Fusion get a ₹3,000 price hike across all variants",
+      "source": "Gizmochina",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-25",
+      "time": "15:40",
+      "publishedAt": "2026-08-25T15:40:35.000Z",
+      "url": "https://www.gizmochina.com/2026/08/25/motorola-edge-70-fusion-edge-60-fusion-get-a-%e2%82%b93000-price-hike-across-all-variants/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/08/Screenshot-2026-08-25-205800.png?x23692",
+      "summary": "Motorola has raised the prices of two of its mid-range phones in India, citing the usual industry-wide cost pressures. Starting August 25, 2026, the Edge 70 Fusion and Edge 60 Fus…",
+      "tags": [
+        "行业",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-a707f33a2ed4",
+      "title": "小米 REDMI 17C 5G 手机海外发布：天玑 6300 芯片，279 新加坡元",
+      "source": "IT之家",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-25",
+      "time": "15:35",
+      "publishedAt": "2026-08-25T15:35:10.000Z",
+      "url": "https://www.ithome.com/0/994/263.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/8/08822e1c-3c49-40bb-939b-4135b542d2e4.jpg?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 8 月 25 日消息，小米 REDMI 17C 5G 手机现已在海外市场发布。新机定位入门，顾名思义是 REDMI 17C 的 5G 版本。 据介绍 ，这款手机正面配备 6.9 英寸 720P LCD 水滴屏 ，支持 120Hz 高刷，峰值亮度可达 800nits。 规格方面， 这款手机搭载联发科天玑 6300 芯片 ，配备 4GB LPDDR4…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-8d70d86752b6",
+      "title": "Google Pixel 11 is discounted up to $450 at Mint Mobile, as pre-order deals start to end",
+      "source": "9to5Google",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-25",
+      "time": "15:16",
+      "publishedAt": "2026-08-25T15:16:14.000Z",
+      "url": "https://9to5google.com/2026/08/25/google-pixel-11-discounted-up-to-450-as-pre-orders-end/",
+      "image": "",
+      "summary": "If you’re inclined to switch carriers, Mint Mobile’s Pixel 11 series deal brings the Pixel 11 Pro down to $724. And that’s not even the best deal.",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-42d9fc1c41b6",
       "title": "Galaxy S27 Ultra's redesign looks even more iPhone-like in new renders",
@@ -802,26 +902,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-ac51aa0bad35",
-      "title": "团伙在四川多地流窜扒窃手机被捕",
-      "source": "今日头条热榜",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-25",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.toutiao.com/trending/7677493871472148521/",
-      "image": "",
-      "summary": "团伙在四川多地流窜扒窃手机被捕",
-      "tags": [
-        "行业",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
       "id": "auto-6f377c2241cd",
       "title": "Vivo X500 Pro Max Geekbench listing reveals 2 prime cores clocked at up to 4.55 GHz",
       "source": "Gizmochina",
@@ -1398,26 +1478,6 @@ window.phoneRadarAuto = {
       "tags": [
         "iPhone",
         "评测",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-2d17dc58b7b4",
-      "title": "Official: Vivo X500 series confirmed for September with cinema-grade video capabilities",
-      "source": "Gizmochina",
-      "brand": "vivo",
-      "model": "vivo 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-24",
-      "time": "02:33",
-      "publishedAt": "2026-08-24T02:33:06.000Z",
-      "url": "https://www.gizmochina.com/2026/08/24/vivo-x500-series-september-launch-confirmed/",
-      "image": "https://www.gizmochina.com/wp-content/uploads/2026/08/Vivo-X500-series-first-details-confirmed-225x300.png?x23692",
-      "summary": "Vivo has officially confirmed that the X500 series will arrive in September in China, with three models in the lineup: the X500, X500 Pro, and X500 Pro Max. This also confirms tha…",
-      "tags": [
-        "vivo",
-        "爆料",
         "自动抓取"
       ]
     }
