@@ -1,5 +1,5 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-08-25T20:44:48.007Z",
+  "updatedAt": "2026-08-25T22:43:51.188Z",
   "news": [
     {
       "id": "auto-18db8fffaebd",
@@ -317,26 +317,6 @@ window.phoneRadarAuto = {
       "summary": "IT之家 8 月 25 日消息，印度智能穿戴品牌 Fire-Boltt 近日首次进军智能手机市场，并推出 Boltt Ace 5G 和 Boltt Evo 4G 两款新机。 IT之家附两款新品详情如下： Boltt Ace 5G 这款手机配备一块 6.79 英寸 LCD 屏幕，支持 120Hz 刷新率，峰值亮度最高可达 600 尼特。规格方面，该机搭载紫光…",
       "tags": [
         "行业",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-75a6401b437b",
-      "title": "Poll shows plenty of Pixel 10 Pro owners are skipping the Pixel 11 Pro",
-      "source": "Android Authority",
-      "brand": "Pixel",
-      "model": "Pixel 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-25",
-      "time": "14:44",
-      "publishedAt": "2026-08-25T14:44:39.000Z",
-      "url": "https://www.androidauthority.com/pixel-10-pro-vs-pixel-11-pro-poll-results-3702671/",
-      "image": "",
-      "summary": "Annual upgrades continue to lose their shine, even for Pixel owners.",
-      "tags": [
-        "Pixel",
         "爆料",
         "自动抓取"
       ]
@@ -955,6 +935,26 @@ window.phoneRadarAuto = {
       "url": "https://www.coolapk.com/feed/73403022",
       "image": "",
       "summary": "[疑问]吓哭了，玄戒O3参数看起来很猛啊，各种脚踢苹果A19Pro，安兔兔和GeekBench的跑分也是猛的一匹，相比上代玄戒O1简直是牙膏踩爆了[疑问]难道我米这次真的要成了？[受虐滑稽] #玄戒O3# #小米15SPro# #iPhone17ProMax#",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-64e53aed77d5",
+      "title": "抖音在澎湃4还有MIUI实验室遗留代码的视频下的评论区说了句：“但是澎湃4流畅度确实可以了”，和触犯天条了一样，一堆人在下面喷我，说我没吃过细糠，说“输有输的赢法是吗”，说什么find x7现在的流畅度都爆杀澎湃4，真是给我整无语了，我就想问问他们用过澎湃4吗，看了点网上的视频就跟风硬黑，好歹用用再评价啊，以前的澎湃确实是区，但是澎湃4论流畅度方面我觉得真没有很大短板了，就说了句真实体验过后的实话某些人就急了[发怒]#小米17Ultra# #一加13##HyperOS4#",
+      "source": "酷安热榜",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-08-25",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/73412412",
+      "image": "",
+      "summary": "抖音在澎湃4还有MIUI实验室遗留代码的视频下的评论区说了句：“但是澎湃4流畅度确实可以了”，和触犯天条了一样，一堆人在下面喷我，说我没吃过细糠，说“输有输的赢法是吗”，说什么find x7现在的流畅度都爆杀澎湃4，真是给我整无语了，我就想问问他们用过澎湃4吗，看了点网上的视频就跟风硬黑，好歹用用再评价啊，以前的澎湃确实是区，但是澎湃4论流畅度方面我觉得真…",
       "tags": [
         "Xiaomi",
         "爆料",
