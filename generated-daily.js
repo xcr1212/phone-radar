@@ -1,7 +1,7 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-08-24T22:43:18.461Z",
-  "issueDate": "2026-08-24",
-  "issue": "VOL.260824",
+  "updatedAt": "2026-08-25T01:51:15.445Z",
+  "issueDate": "2026-08-25",
+  "issue": "VOL.260825",
   "title": "手机情报日报",
   "intro": "今日筛出 8 条重点，其中 8 条是重点爆料，包含 8 条 iPhone 相关、0 条官方确认、0 条参数线索。",
   "stats": {
@@ -18,24 +18,23 @@ window.phoneRadarDaily = {
       "hint": "机模、配色、影像、屏幕、电池和芯片线索先看。",
       "items": [
         {
-          "id": "auto-5ddd8331721f",
-          "title": "iPhone 18 Pro 与折叠屏 iPhone 即将登场，苹果 2026 秋季新品发布会何时举办？",
+          "id": "auto-0007af9c01fa",
+          "title": "苹果 20 周年纪念版 iPhone 新渲染图曝光：后置双摄、前置单挖孔设计",
           "originalTitle": "",
           "source": "IT之家",
           "brand": "iPhone",
           "type": "爆料",
           "trust": "媒体汇总",
           "date": "2026-08-24",
-          "time": "15:13",
-          "publishedAt": "2026-08-24T15:13:02.000Z",
-          "url": "https://www.ithome.com/0/993/754.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/8/f92fbc85-c3fd-4536-ada1-aebc9ca52d2f.jpg?x-bce-process=image/format,f_auto",
+          "time": "23:36",
+          "publishedAt": "2026-08-24T23:36:00.000Z",
+          "url": "https://www.ithome.com/0/993/790.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/8/9dd902bf-c1d1-4d54-a6ae-bf8ccc8fa2c2.png",
           "verdict": "先看",
-          "takeaway": "IT之家 8 月 24 日消息，苹果 2026 秋季新品发布会即将到来，届时 iPhone 18 Pro，以及最受大伙期待的折叠屏 iPhone 将会登场。外媒 MacRumors 今日发文，分析这场发布会的具体举办时间。 澳大利亚媒体 ChannelNews 近日发文称，iPhone 18 Pro 和 iPhone Ultra 的发布会将于 9 月 8…",
-          "detail": "IT之家 8 月 24 日消息，苹果 2026 秋季新品发布会即将到来，届时 iPhone 18 Pro，以及最受大伙期待的折叠屏 iPhone 将会登场。外媒 MacRumors 今日发文，分析这场发布会的具体举办时间。 澳大利亚媒体 ChannelNews 近日发文称，iPhone 18 Pro 和 iPhone Ultra 的发布会将于 9 月 8…",
+          "takeaway": "IT之家 8 月 25 日消息，消息源 Yogesh Brar 发文，展示了苹果 20 周年版 iPhone 新渲染图。 相应图片显示，20 周年版 iPhone 正面采用四曲面屏设计，匹配单打孔摄像头，手机背面也采用了曲面设计。此外，图片还显示该机采用后置水平双摄设计，整体风格有点类似网传的 iPhone Air 2。 IT之家注意到，此前消息显示苹果…",
+          "detail": "IT之家 8 月 25 日消息，消息源 Yogesh Brar 发文，展示了苹果 20 周年版 iPhone 新渲染图。 相应图片显示，20 周年版 iPhone 正面采用四曲面屏设计，匹配单打孔摄像头，手机背面也采用了曲面设计。此外，图片还显示该机采用后置水平双摄设计，整体风格有点类似网传的 iPhone Air 2。 IT之家注意到，此前消息显示苹果…",
           "keyPoints": [
-            "屏幕形态",
-            "爆料来源"
+            "外观 / 配色 / 尺寸"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
