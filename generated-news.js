@@ -1,6 +1,226 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-08-25T13:10:28.417Z",
+  "updatedAt": "2026-08-25T15:04:19.864Z",
   "news": [
+    {
+      "id": "auto-42d9fc1c41b6",
+      "title": "Galaxy S27 Ultra's redesign looks even more iPhone-like in new renders",
+      "source": "Android Central",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-08-25",
+      "time": "14:59",
+      "publishedAt": "2026-08-25T14:59:18.000Z",
+      "url": "https://www.androidcentral.com/phones/samsung-galaxy/galaxy-s27-ultras-redesign-looks-even-more-iphone-like-in-new-renders",
+      "image": "https://cdn.mos.cms.futurecdn.net/xq2rwqwUFgHrGuvsLHd3nf-1280-80.jpg",
+      "summary": "New renders confirm the Galaxy S27 Ultra's horizontal camera plateau, and the similarities to the iPhone 17 Pro are hard to ignore.",
+      "tags": [
+        "Samsung",
+        "评测",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-fdcb1db8c9f0",
+      "title": "小米手机售后规则再调整，删除二手产品 / 商品不属于三包范围相关表述",
+      "source": "IT之家",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-25",
+      "time": "14:55",
+      "publishedAt": "2026-08-25T14:55:23.000Z",
+      "url": "https://www.ithome.com/0/994/254.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/8/c8a80e61-19a7-4bb2-8084-a8223ebec151.jpg?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 8 月 25 日消息，据用户反馈，小米手机的服务价格及服务政策再次迎来调整。在非保修条款中， 不属于三包范围的情况删除了关于二手产品 / 商品的相关表述 。 不过， 服务权益中的「只换不修」和「电池保」依然保留相关条款 。用户享有权益的手机，发生过任何回收业务、转售情况及赠予或转交第三方使用的也不能享受只换不修 / 电池保。 IT之家注：三包政策…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-a8951d004ffa",
+      "title": "That crazy Galaxy S27 Ultra camera is front and center in new CAD renders",
+      "source": "Android Authority",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-25",
+      "time": "14:52",
+      "publishedAt": "2026-08-25T14:52:13.000Z",
+      "url": "https://www.androidauthority.com/galaxy-s27-ultra-cad-renders-3702728/",
+      "image": "",
+      "summary": "Let the iPhone comparisons begin.",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-70acb42e5038",
+      "title": "印度智能穿戴品牌 Fire-Boltt 首次进军智能手机市场，推出 Boltt Ace 5G、Evo 4G 两款新机",
+      "source": "IT之家",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-25",
+      "time": "14:48",
+      "publishedAt": "2026-08-25T14:48:46.000Z",
+      "url": "https://www.ithome.com/0/994/251.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/8/750dc1c3-0598-4975-ba58-020b60950be4.jpg?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 8 月 25 日消息，印度智能穿戴品牌 Fire-Boltt 近日首次进军智能手机市场，并推出 Boltt Ace 5G 和 Boltt Evo 4G 两款新机。 IT之家附两款新品详情如下： Boltt Ace 5G 这款手机配备一块 6.79 英寸 LCD 屏幕，支持 120Hz 刷新率，峰值亮度最高可达 600 尼特。规格方面，该机搭载紫光…",
+      "tags": [
+        "行业",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-75a6401b437b",
+      "title": "Poll shows plenty of Pixel 10 Pro owners are skipping the Pixel 11 Pro",
+      "source": "Android Authority",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-25",
+      "time": "14:44",
+      "publishedAt": "2026-08-25T14:44:39.000Z",
+      "url": "https://www.androidauthority.com/pixel-10-pro-vs-pixel-11-pro-poll-results-3702671/",
+      "image": "",
+      "summary": "Annual upgrades continue to lose their shine, even for Pixel owners.",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-5f6a4b844dd3",
+      "title": "Mint Mobile finally launched its Google Pixel 11 deals, and they’re even better than I expected",
+      "source": "Android Central",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-08-25",
+      "time": "14:21",
+      "publishedAt": "2026-08-25T14:21:06.000Z",
+      "url": "https://www.androidcentral.com/phones/google-pixel/mint-mobile-google-pixel-11-deals-aug-2026",
+      "image": "https://cdn.mos.cms.futurecdn.net/qHHnR5QErCBQapE2F3jrXP-1280-80.jpg",
+      "summary": "Mint Mobile has finally received its Google Pixel 11 stock, and the deals are epic.",
+      "tags": [
+        "Pixel",
+        "评测",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-384cd75a6a4b",
+      "title": "Galaxy S27 Ultra leak reveals a massive horizontal camera bar redesign",
+      "source": "SamMobile",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-25",
+      "time": "14:17",
+      "publishedAt": "2026-08-25T14:17:06.000Z",
+      "url": "https://www.sammobile.com/news/galaxy-s27-ultra-design-leaks-rectangular-camera-bar/",
+      "image": "https://www.sammobile.com/wp-content/uploads/2026/08/Samsung-Galaxy-S27-Ultra-Design-Final-CAD-Render-Black.jpg",
+      "summary": "Over the past few days, several reports have claimed that Samsung is bringing a major redesign with the Galaxy S27 Ultra. Now, a new leak has almost confirmed that change. It appe…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-983758d6d787",
+      "title": "Galaxy S27 Ultra’s major redesign detailed in new renders, price hike rumored",
+      "source": "9to5Google",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-25",
+      "time": "14:00",
+      "publishedAt": "2026-08-25T14:00:00.000Z",
+      "url": "https://9to5google.com/2026/08/25/samsung-galaxy-s27-ultra-redesign-renders/",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/08/galaxy-s27-ultra-onl-2.webp?w=1600",
+      "summary": "Samsung’s new Galaxy S27 Ultra is getting a massive redesign and, thanks to the latest leak, we’ve got a better look at what to expect, but we’re also now bracing for a major pric…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-e89f8bd8b51b",
+      "title": "Uber 优步推出青少年乘车新安全功能：家长可实时查看网约车内视频监控",
+      "source": "IT之家",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-25",
+      "time": "13:41",
+      "publishedAt": "2026-08-25T13:41:20.000Z",
+      "url": "https://www.ithome.com/0/994/218.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/8/c2064f21-0ade-477e-863a-c05a087c4ada.png?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 8 月 25 日消息，Uber 优步今日在美国推出全新青少年安全保障措施，家长可在孩子乘坐网约车期间，通过手机查看车内实时视频监控。 IT之家了解到， 该功能可将司机手机的前置摄像头画面实时传输到家长手机上 。行程开始后，如果该功能处于可用状态，家长或监护人的手机将收到推送通知。如果他们选择观看监控，司机和乘客都会看到通知。 Uber 表示，只有…",
+      "tags": [
+        "行业",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-881ee24f0b52",
+      "title": "I've folded the Galaxy Z Fold 8 for a month; the crease issue is overblown",
+      "source": "Android Police",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-25",
+      "time": "13:30",
+      "publishedAt": "2026-08-25T13:30:10.000Z",
+      "url": "https://www.androidpolice.com/ive-used-the-galaxy-z-fold-8-the-crease-isnt-an-issue/",
+      "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2026/08/samsung-galaxy-z-fold-8-google-folder.jpg",
+      "summary": "Not every Fold is a permanent one",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-fe8f94553019",
+      "title": "Huawei Pura X Max is receiving new 3D Spatial Wallpapers",
+      "source": "Huawei Central",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-25",
+      "time": "13:21",
+      "publishedAt": "2026-08-25T13:21:01.000Z",
+      "url": "https://www.huaweicentral.com/huawei-pura-x-max-is-receiving-new-3d-spatial-wallpapers/",
+      "image": "https://www.huaweicentral.com/wp-content/uploads/2026/06/PuraXMax.jpg",
+      "summary": "Huawei Pura X Max is now receiving 3D Spatial Wallpapers with the latest HarmonyOS 7.0 closed beta. The company has started pushing the new test build to its eligible devices with…",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-bb06cd8479cf",
       "title": "China’s best answer to the Galaxy Z TriFold is coming next month",
@@ -222,26 +442,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-dd71429da529",
-      "title": "iQOO Z11 印度版手机发布：6.83 英寸曲面屏，天玑 7500 Turbo 芯片",
-      "source": "IT之家",
-      "brand": "vivo",
-      "model": "vivo 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-25",
-      "time": "09:51",
-      "publishedAt": "2026-08-25T09:51:23.000Z",
-      "url": "https://www.ithome.com/0/994/120.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/8/d8c34299-6bb4-43b2-aac3-786d677b4325.jpg",
-      "summary": "IT之家 8 月 25 日消息， iQOO Z11 手机现已在印度发售，新机提供极光绿、星空蓝两种配色，拥有 6+128GB/8+128GB/8+256GB/12+256GB 四种内存 / 存储空间组合，起售价为 34,999 卢比 （IT之家注：现汇率约合 2,459 元人民币） 。 据悉，印度版 iQOO Z11 的配置与中国版、马来西亚版本有所不同。…",
-      "tags": [
-        "vivo",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-85110e1cc7f9",
       "title": "The Pixel 11 Pro’s camera flash is a ‘LoLight’ thanks to HiLight",
       "source": "Android Authority",
@@ -359,26 +559,6 @@ window.phoneRadarAuto = {
         "Samsung",
         "官方",
         "自动抓取"
-      ]
-    },
-    {
-      "id": "coolapk-user-724de2de11f5",
-      "title": "竹本青：9月旗舰扎堆，博主称这或许是机圈史上最激烈的新品月",
-      "source": "竹本青",
-      "brand": "HONOR",
-      "model": "HONOR 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-08-25",
-      "time": "07:19",
-      "publishedAt": "2026-08-25T07:19:21.000Z",
-      "url": "https://www.coolapk.com/feed/73420898",
-      "image": "http://image.coolapk.com/feed/2026/0825/15/4248714_c356bc2b_4429_9482_174@1440x750.jpg",
-      "summary": "【“果华米OV耀”旗舰扎堆，博主称9月或是机圈史上最激烈的新品月】 高端折叠线——华为三折叠、小米阔折叠、苹果阔折叠 芯片线——小米玄戒O3、苹果A20系列、天玑9600系列、骁龙8E6系列、华为麒麟2026τ芯片 旗舰线——iPhone 18系列、vivo X500系列、OPPO Find X10系列、华为Mate90系列、小米18系列、荣耀Magic9…",
-      "tags": [
-        "HONOR",
-        "爆料",
-        "酷安博主"
       ]
     },
     {
@@ -622,6 +802,26 @@ window.phoneRadarAuto = {
       ]
     },
     {
+      "id": "newsnow-ac51aa0bad35",
+      "title": "团伙在四川多地流窜扒窃手机被捕",
+      "source": "今日头条热榜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-25",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.toutiao.com/trending/7677493871472148521/",
+      "image": "",
+      "summary": "团伙在四川多地流窜扒窃手机被捕",
+      "tags": [
+        "行业",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
       "id": "auto-6f377c2241cd",
       "title": "Vivo X500 Pro Max Geekbench listing reveals 2 prime cores clocked at up to 4.55 GHz",
       "source": "Gizmochina",
@@ -677,26 +877,6 @@ window.phoneRadarAuto = {
       "summary": "Thanks to a new partnership with RapidSOS, emergency services in Brazil can now request live video from iPhone users. Here are the details.",
       "tags": [
         "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-2e42a55bf98c",
-      "title": "Pixel 11 Pro buyers are getting a $200 gift card before August 27",
-      "source": "Android Police",
-      "brand": "Pixel",
-      "model": "Pixel 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-24",
-      "time": "20:23",
-      "publishedAt": "2026-08-24T20:23:42.000Z",
-      "url": "https://www.androidpolice.com/grab-a-200-gift-card-with-the-pixel-11-pro/",
-      "image": "",
-      "summary": "Time's winding down",
-      "tags": [
-        "Pixel",
         "爆料",
         "自动抓取"
       ]
