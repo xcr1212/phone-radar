@@ -1,5 +1,5 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-08-25T04:52:45.200Z",
+  "updatedAt": "2026-08-25T07:07:23.868Z",
   "issueDate": "2026-08-25",
   "issue": "VOL.260825",
   "title": "手机情报日报",
@@ -181,23 +181,24 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
-          "id": "newsnow-cf7ed93fc4fa",
-          "title": "[疑问]吓哭了，玄戒O3参数看起来很猛啊，各种脚踢苹果A19Pro，安兔兔和GeekBench的跑分也是猛的一匹，相比上代玄戒O1简直是牙膏踩爆了[疑问]难道我米这次真的要成了？[受虐滑稽] #玄戒O3# #小米15SPro# #iPhone17ProMax#",
+          "id": "auto-0d45f6e4a7f3",
+          "title": "三星 Galaxy S27 系列手机爆料：标准 / Plus / Pro 版底部扬声器移至右侧",
           "originalTitle": "",
-          "source": "酷安热榜",
-          "brand": "Xiaomi",
+          "source": "IT之家",
+          "brand": "Samsung",
           "type": "爆料",
-          "trust": "高关注爆料源",
+          "trust": "媒体汇总",
           "date": "2026-08-25",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://www.coolapk.com/feed/73403022",
-          "image": "",
+          "time": "05:41",
+          "publishedAt": "2026-08-25T05:41:40.000Z",
+          "url": "https://www.ithome.com/0/993/968.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/8/9d036eca-3b8e-4611-8170-6954b161c379.png",
           "verdict": "先看",
-          "takeaway": "[疑问]吓哭了，玄戒O3参数看起来很猛啊，各种脚踢苹果A19Pro，安兔兔和GeekBench的跑分也是猛的一匹，相比上代玄戒O1简直是牙膏踩爆了[疑问]难道我米这次真的要成了？[受虐滑稽] #玄戒O3# #小米15SPro# #iPhone17ProMax#",
-          "detail": "[疑问]吓哭了，玄戒O3参数看起来很猛啊，各种脚踢苹果A19Pro，安兔兔和GeekBench的跑分也是猛的一匹，相比上代玄戒O1简直是牙膏踩爆了[疑问]难道我米这次真的要成了？[受虐滑稽] #玄戒O3# #小米15SPro# #iPhone17ProMax#",
+          "takeaway": "IT之家 8 月 25 日消息，消息源 @i冰宇宙 昨日（8 月 24 日）发布微博， 分享了三星 Galaxy S27、Galaxy S27+、Galaxy S27 Pro 以及 Galaxy S27 Ultra 四款机型的相关信息。 关于三星 Galaxy S27 Ultra 机型，消息源表示： 独家：三星 Galaxy S27 Ultra 的尺寸和显…",
+          "detail": "IT之家 8 月 25 日消息，消息源 @i冰宇宙 昨日（8 月 24 日）发布微博， 分享了三星 Galaxy S27、Galaxy S27+、Galaxy S27 Pro 以及 Galaxy S27 Ultra 四款机型的相关信息。 关于三星 Galaxy S27 Ultra 机型，消息源表示： 独家：三星 Galaxy S27 Ultra 的尺寸和显…",
           "keyPoints": [
-            "芯片 / 性能"
+            "外观 / 配色 / 尺寸",
+            "爆料来源"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",

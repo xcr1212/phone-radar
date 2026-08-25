@@ -1,5 +1,5 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-08-25T04:52:45.200Z",
+  "updatedAt": "2026-08-25T07:07:23.868Z",
   "news": [
     {
       "id": "auto-c27aa6c5b3b3",
@@ -22,6 +22,66 @@ window.phoneRadarAuto = {
       ]
     },
     {
+      "id": "auto-9d5bcb25b175",
+      "title": "Snapdragon 8 Elite Extreme Gen 6 benchmark reveals disappointing performance despite 5GHz speed",
+      "source": "Gizmochina",
+      "brand": "vivo",
+      "model": "vivo 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-25",
+      "time": "06:38",
+      "publishedAt": "2026-08-25T06:38:30.000Z",
+      "url": "https://www.gizmochina.com/2026/08/25/snapdragon-8-elite-extreme-gen-6-benchmark-reveals-disappointing-performance-despite-5ghz-speed/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/08/snapdragon-8-elite-gen-6-300x169.png?x23692",
+      "summary": "After AnTuTu, the Snapdragon 8 Elite Extreme Gen 6 has appeared on Geekbench for the first time in an unannounced iQOO device. The scores come from an iQOO 16 prototype carrying t…",
+      "tags": [
+        "vivo",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-0d45f6e4a7f3",
+      "title": "三星 Galaxy S27 系列手机爆料：标准 / Plus / Pro 版底部扬声器移至右侧",
+      "source": "IT之家",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-25",
+      "time": "05:41",
+      "publishedAt": "2026-08-25T05:41:40.000Z",
+      "url": "https://www.ithome.com/0/993/968.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/8/9d036eca-3b8e-4611-8170-6954b161c379.png",
+      "summary": "IT之家 8 月 25 日消息，消息源 @i冰宇宙 昨日（8 月 24 日）发布微博， 分享了三星 Galaxy S27、Galaxy S27+、Galaxy S27 Pro 以及 Galaxy S27 Ultra 四款机型的相关信息。 关于三星 Galaxy S27 Ultra 机型，消息源表示： 独家：三星 Galaxy S27 Ultra 的尺寸和显…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-dd30274da823",
+      "title": "JSCHEN小小狐：『博主对比骁龙、天玑 2nm 旗舰平台顶配规格』 骁龙 8 Elite Extreme Gen6（SM8975）…",
+      "source": "JSCHEN小小狐",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-08-25",
+      "time": "05:25",
+      "publishedAt": "2026-08-25T05:25:54.000Z",
+      "url": "https://www.coolapk.com/feed/73419221",
+      "image": "http://image.coolapk.com/feed/2026/0825/13/4702274_93f84964_5552_9482_395@1440x1151.jpg",
+      "summary": "『博主对比骁龙、天玑 2nm 旗舰平台顶配规格』 骁龙 8 Elite Extreme Gen6（SM8975） ◇ 台积电 N2p 制程工艺 ◇ 2+3+3 Oryon CPU 架构 ◇ 双超大核主频 5.01GHz ◇ 2×5.01GHz + 3×4.03GHz + 3×3.74GHz ◇ Adreno 850 6 Slice GPU 天玑 9600…",
+      "tags": [
+        "行业",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
       "id": "auto-2d3883e75a57",
       "title": "索尼 Xperia 10 VIII 手机细节：屏幕亮度提升 50%，保留 3.5mm 端口，6 年安全更新",
       "source": "IT之家",
@@ -33,8 +93,8 @@ window.phoneRadarAuto = {
       "time": "04:09",
       "publishedAt": "2026-08-25T04:09:29.000Z",
       "url": "https://www.ithome.com/0/993/948.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/8/15d6e5dc-a7b9-43a1-bbcd-3bd2ca25ff43.png",
-      "summary": "IT之家 8 月 25 日消息，在今天（8 月 25 日）召开的新品发布会上， 索尼正式发布 Xperia 10 VIII 手机 ，官方后续发布推文，介绍了这款旗舰手机的更多细节。 屏幕方面，这款手机采用 6.1 英寸屏幕，分辨率为 19.5:9，刷新率为 120Hz。索尼称 Xperia 10 VIII 手机亮度比上一代提升了 50%，并具备自动色彩调节…",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/8/15d6e5dc-a7b9-43a1-bbcd-3bd2ca25ff43.png?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 8 月 25 日消息，在今天（8 月 25 日）召开的新品发布会上， 索尼正式发布 Xperia 10 VIII 手机 ，官方后续发布推文，介绍了这款手机的更多细节。 屏幕方面，这款手机采用 6.1 英寸屏幕，分辨率为 19.5:9，刷新率为 120Hz。索尼称 Xperia 10 VIII 手机亮度比上一代提升了 50%，并具备自动色彩调节功能…",
       "tags": [
         "行业",
         "爆料",
@@ -202,66 +262,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-7f1870bfa039",
-      "title": "联发科首款 2nm 芯片：天玑 9600 Pro 芯片跑分曝光",
-      "source": "IT之家",
-      "brand": "vivo",
-      "model": "vivo 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-25",
-      "time": "02:00",
-      "publishedAt": "2026-08-25T02:00:18.000Z",
-      "url": "https://www.ithome.com/0/993/829.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/8/3f557971-f7b3-45bc-9bbb-7688f912de07.jpg",
-      "summary": "IT之家 8 月 25 日消息，vivo X500 Pro Max（型号 V2610）手机昨日（8 月 24 日）现身 GeekBench 跑分库， 6.7.1 版本单核成绩为 2653 分，多核成绩为 7516 分。 根据跑分库页面信息，该手机搭载联发科 MT6995（ENG）芯片，配备 2+3+3 集群 CPU 设计，搭载 Mali-G2-Ultra-…",
-      "tags": [
-        "vivo",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "coolapk-user-8be333e019c5",
-      "title": "竹本青：消息称华为 Pura X View 搭载麒麟9030S处理器",
-      "source": "竹本青",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-08-25",
-      "time": "01:54",
-      "publishedAt": "2026-08-25T01:54:32.000Z",
-      "url": "https://www.coolapk.com/feed/73416140",
-      "image": "http://image.coolapk.com/feed/2026/0825/09/4248714_cb23eea8_2871_5177_145@1440x796.jpg",
-      "summary": "【消息称华为Pura X View搭载麒麟9030S 处理器】 ● 麒麟9030S 处理器 ● 7000mAh电池+66W快充 ● 首发搭载鸿蒙 7系统 ● 1/1.28\"主摄+50MP潜望+超广+第二代红枫 ● SKU： 12+256GB／12+512GB／12+1TB 幻夜黑／零度白／跃影红／亚麻灰 ● 屏幕： 6.39英寸 16:9.5 OLED 阔…",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
-      "id": "coolapk-user-1d399c9cbb20",
-      "title": "竹本青：【比亚迪 × 荣耀达成深度手车互联合作】 ● 地址流转一拖即达 ● 音乐无缝流转 ● 微信扫一扫一句话唤起 #今日…",
-      "source": "竹本青",
-      "brand": "HONOR",
-      "model": "HONOR 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-08-25",
-      "time": "01:54",
-      "publishedAt": "2026-08-25T01:54:10.000Z",
-      "url": "https://www.coolapk.com/feed/73416065",
-      "image": "http://image.coolapk.com/feed/2026/0825/09/4248714_7a971bc6_2542_3344_409@807x10274.jpg",
-      "summary": "【比亚迪 × 荣耀达成深度手车互联合作】 ● 地址流转一拖即达 ● 音乐无缝流转 ● 微信扫一扫一句话唤起 #今日热点# #比亚迪# #MagicOS11#",
-      "tags": [
-        "HONOR",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
       "id": "weibo-ddcbaf6429f3",
       "title": "数码闲聊站：华为Mate XT2三折叠定档9.7，又被我猜对了[doge] 之前说三折叠不…",
       "source": "数码闲聊站",
@@ -279,26 +279,6 @@ window.phoneRadarAuto = {
         "Huawei",
         "爆料",
         "微博"
-      ]
-    },
-    {
-      "id": "auto-861c4bf6fc89",
-      "title": "消息称佳能计划推出新款 PowerShot 卡片相机：基于现款机型小改款、引入 USB-C 接口等特性",
-      "source": "IT之家",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-25",
-      "time": "00:49",
-      "publishedAt": "2026-08-25T00:49:01.000Z",
-      "url": "https://www.ithome.com/0/993/802.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/8/f22b6f41-ef28-41bf-abaa-50755747e2ee.png?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 8 月 25 日消息，据 CanonRumors 报道，受卡片机重新流行影响，佳能正在开发一系列主打便携性的 PowerShot 卡片相机，相应产品分为 3 种版本，分别定位高端、长焦以及入门市场，但具体型号暂不知悉。 据报道，相应 PowerShot 卡片相机预计是基于现有型号进行升级，主要将 Mini USB 接口调整为 USB-C 接口，同…",
-      "tags": [
-        "行业",
-        "爆料",
-        "自动抓取"
       ]
     },
     {
@@ -377,6 +357,26 @@ window.phoneRadarAuto = {
       "summary": "抖音在澎湃4还有MIUI实验室遗留代码的视频下的评论区说了句：“但是澎湃4流畅度确实可以了”，和触犯天条了一样，一堆人在下面喷我，说我没吃过细糠，说“输有输的赢法是吗”，说什么find x7现在的流畅度都爆杀澎湃4，真是给我整无语了，我就想问问他们用过澎湃4吗，看了点网上的视频就跟风硬黑，好歹用用再评价啊，以前的澎湃确实是区，但是澎湃4论流畅度方面我觉得真…",
       "tags": [
         "Xiaomi",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-3fc1b7e14a83",
+      "title": "消息称华为 Pura X View 搭载麒麟9030S处理器",
+      "source": "酷安热榜",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-08-25",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/73416140",
+      "image": "",
+      "summary": "消息称华为 Pura X View 搭载麒麟9030S处理器",
+      "tags": [
+        "Huawei",
         "爆料",
         "NewsNow"
       ]
@@ -1157,26 +1157,6 @@ window.phoneRadarAuto = {
       "summary": "新一轮骁龙8 Elite超级至尊版新机，一加16依然是子系旗舰中的最窄四等边，“大概这么窄🤏”，而且定制新屏观感也很通透，预定一个正面颜值Top",
       "tags": [
         "OPPO",
-        "爆料",
-        "微博"
-      ]
-    },
-    {
-      "id": "weibo-190952d936d9",
-      "title": "数码闲聊站：蓝厂X500系列代号是「灭霸500」，定义灭霸超级加强版，主打拍照强视频更猛。…",
-      "source": "数码闲聊站",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-08-24",
-      "time": "01:00",
-      "publishedAt": "2026-08-24T01:00:01.000Z",
-      "url": "https://weibo.com/6048569942/RePXAoCa3",
-      "image": "",
-      "summary": "蓝厂X500系列代号是「灭霸500」，定义灭霸超级加强版，主打拍照强视频更猛。 主摄——首发与索尼大法联合定义的「蓝图光御900」，50Mp 1/1.28\"电影级主摄，全新超高动态技术，动态范围直接拉到行业最高的17EV，同时支持3°OIS云台级防抖、CIPA7.0专业防抖。 长焦——X300U超大杯同款的2亿灭霸长焦，200Mp HP0定制大底潜望，料堆…",
-      "tags": [
-        "行业",
         "爆料",
         "微博"
       ]
