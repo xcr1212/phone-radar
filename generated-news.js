@@ -1,6 +1,46 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-08-25T18:55:54.668Z",
+  "updatedAt": "2026-08-25T20:44:48.007Z",
   "news": [
+    {
+      "id": "auto-18db8fffaebd",
+      "title": "Pixel 11’s ‘Rambler’ voice-to-text is a game-changer, but it should copy this feature [Video]",
+      "source": "9to5Google",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-25",
+      "time": "20:05",
+      "publishedAt": "2026-08-25T20:05:00.000Z",
+      "url": "https://9to5google.com/2026/08/25/google-pixel-11-rambler-feature-upgrade-idea/",
+      "image": "",
+      "summary": "If there’s one part of using the Pixel 11 that I’ve really come to enjoy, it’s Gboard’s new voice-to-text tool, “Rambler.” But there is one big flaw, and that’s the lack of a live…",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-b739f1dc95d9",
+      "title": "Can’t wait for the Galaxy S26 FE? Check out these cases to tide you over",
+      "source": "Android Authority",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-25",
+      "time": "19:26",
+      "publishedAt": "2026-08-25T19:26:24.000Z",
+      "url": "https://www.androidauthority.com/samsung-galaxy-s26-fe-cases-3702917/",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2025/09/Samsung-Galaxy-S25-FE-in-Navy-standing-on-book-shelf.jpg",
+      "summary": "At least one store in South Africa is very ready for the S26 FE's launch.",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-2a9a315aadd9",
       "title": "This new Android & iPhone tracker hides in your bike or golf clubs with 3-year battery life [Gallery]",
@@ -382,26 +422,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-881ee24f0b52",
-      "title": "I've folded the Galaxy Z Fold 8 for a month; the crease issue is overblown",
-      "source": "Android Police",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-25",
-      "time": "13:30",
-      "publishedAt": "2026-08-25T13:30:10.000Z",
-      "url": "https://www.androidpolice.com/ive-used-the-galaxy-z-fold-8-the-crease-isnt-an-issue/",
-      "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2026/08/samsung-galaxy-z-fold-8-google-folder.jpg",
-      "summary": "Not every Fold is a permanent one",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-fe8f94553019",
       "title": "Huawei Pura X Max is receiving new 3D Spatial Wallpapers",
       "source": "Huawei Central",
@@ -437,26 +457,6 @@ window.phoneRadarAuto = {
       "summary": "Samsung is among the very few manufacturers who've made and sold a tri-folding phone. The Galaxy Z TriFold only got a limited launch, but its established Samsung's ability to push…",
       "tags": [
         "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-a5c39f48f2f7",
-      "title": "荣耀晒人形机器人运动会百米战果：“元气仔”预赛夺冠，“闪电”再破人类纪录",
-      "source": "IT之家",
-      "brand": "HONOR",
-      "model": "HONOR 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-25",
-      "time": "12:51",
-      "publishedAt": "2026-08-25T12:51:15.000Z",
-      "url": "https://www.ithome.com/0/994/197.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/8/bf7a4a2d-55fd-46c1-aed1-58e50f979ab7.jpg?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 8 月 25 日消息，@荣耀手机 官微今天（25 日）晚间宣布，第二届世界人形机器人运动会百米预赛，荣耀机器人元气仔以 12.02 秒的成绩 夺得冠军并包揽前四名。 此外，荣耀机器人闪电在第二届世界机器人运动会 100 米复赛中突破上限，跑出 8 秒 94， 再次打破人类纪录 。 值得一提的是，荣耀的闪电机器人虽然打破了人类纪录，但并非此次赛事跑…",
-      "tags": [
-        "HONOR",
         "爆料",
         "自动抓取"
       ]
@@ -882,6 +882,66 @@ window.phoneRadarAuto = {
       ]
     },
     {
+      "id": "newsnow-38cfda6ce1b4",
+      "title": "给大家说一个我们最近新折腾的东西，酷回收，之前好多酷友一直让我们做一个二手平台，不过以我们的资源和能力，根本不可能做一个二手平台，所以我们就换一个思路，搞手机回收试试看，回收相对更加简单，一般也不会咸鱼那些容易扯皮的事情；",
+      "source": "酷安热榜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-08-25",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/73420976",
+      "image": "",
+      "summary": "给大家说一个我们最近新折腾的东西，酷回收，之前好多酷友一直让我们做一个二手平台，不过以我们的资源和能力，根本不可能做一个二手平台，所以我们就换一个思路，搞手机回收试试看，回收相对更加简单，一般也不会咸鱼那些容易扯皮的事情；",
+      "tags": [
+        "行业",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-b4bf200e0311",
+      "title": "小米的首发权益只换不修真是被不少人薅了不少羊毛。刷抖音刷到好多用了快一年，随便编个理由，录个bug视频，就能换个新手机了。其实录这种故障视频实在太简单了，只要让手机发热严重，闪退，重启，卡死的界面随便都会有一个复现岀来。这个只换不修权益初心是好的，本就是为了回馈支持小米的首发用户，一年内岀现质量问题直接换新，可是算漏了人心，包括我在内，一开始我也被煽动了想换，后来我想想自己这台手机实在挑不出毛病，日常用得也不错，就是打王者开小窗发热，所以就没做这种事情。想想苹果售后以前也这样，好好的福利权益被谋利之人薅没了。导致后面真正岀现问题的机主售被各种限制。委屈了真正需要的用户。#小米17Pro# #小米17Ultra# #小米17#",
+      "source": "酷安热榜",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-08-25",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/73403441",
+      "image": "",
+      "summary": "小米的首发权益只换不修真是被不少人薅了不少羊毛。刷抖音刷到好多用了快一年，随便编个理由，录个bug视频，就能换个新手机了。其实录这种故障视频实在太简单了，只要让手机发热严重，闪退，重启，卡死的界面随便都会有一个复现岀来。这个只换不修权益初心是好的，本就是为了回馈支持小米的首发用户，一年内岀现质量问题直接换新，可是算漏了人心，包括我在内，一开始我也被煽动了想…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-ba8201d49d9e",
+      "title": "参考mini的涨幅，iPhone18系列做好+2000起的准备[微微一笑]",
+      "source": "酷安热榜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-08-25",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/73428116",
+      "image": "",
+      "summary": "参考mini的涨幅，iPhone18系列做好+2000起的准备[微微一笑]",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
       "id": "newsnow-cf7ed93fc4fa",
       "title": "[疑问]吓哭了，玄戒O3参数看起来很猛啊，各种脚踢苹果A19Pro，安兔兔和GeekBench的跑分也是猛的一匹，相比上代玄戒O1简直是牙膏踩爆了[疑问]难道我米这次真的要成了？[受虐滑稽] #玄戒O3# #小米15SPro# #iPhone17ProMax#",
       "source": "酷安热榜",
@@ -897,46 +957,6 @@ window.phoneRadarAuto = {
       "summary": "[疑问]吓哭了，玄戒O3参数看起来很猛啊，各种脚踢苹果A19Pro，安兔兔和GeekBench的跑分也是猛的一匹，相比上代玄戒O1简直是牙膏踩爆了[疑问]难道我米这次真的要成了？[受虐滑稽] #玄戒O3# #小米15SPro# #iPhone17ProMax#",
       "tags": [
         "Xiaomi",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-64e53aed77d5",
-      "title": "抖音在澎湃4还有MIUI实验室遗留代码的视频下的评论区说了句：“但是澎湃4流畅度确实可以了”，和触犯天条了一样，一堆人在下面喷我，说我没吃过细糠，说“输有输的赢法是吗”，说什么find x7现在的流畅度都爆杀澎湃4，真是给我整无语了，我就想问问他们用过澎湃4吗，看了点网上的视频就跟风硬黑，好歹用用再评价啊，以前的澎湃确实是区，但是澎湃4论流畅度方面我觉得真没有很大短板了，就说了句真实体验过后的实话某些人就急了[发怒]#小米17Ultra# #一加13##HyperOS4#",
-      "source": "酷安热榜",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-08-25",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73412412",
-      "image": "",
-      "summary": "抖音在澎湃4还有MIUI实验室遗留代码的视频下的评论区说了句：“但是澎湃4流畅度确实可以了”，和触犯天条了一样，一堆人在下面喷我，说我没吃过细糠，说“输有输的赢法是吗”，说什么find x7现在的流畅度都爆杀澎湃4，真是给我整无语了，我就想问问他们用过澎湃4吗，看了点网上的视频就跟风硬黑，好歹用用再评价啊，以前的澎湃确实是区，但是澎湃4论流畅度方面我觉得真…",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-3fc1b7e14a83",
-      "title": "消息称华为 Pura X View 搭载麒麟9030S处理器",
-      "source": "酷安热榜",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-08-25",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73416140",
-      "image": "",
-      "summary": "消息称华为 Pura X View 搭载麒麟9030S处理器",
-      "tags": [
-        "Huawei",
         "爆料",
         "NewsNow"
       ]
