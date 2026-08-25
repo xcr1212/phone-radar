@@ -1,12 +1,12 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-08-25T07:07:23.868Z",
+  "updatedAt": "2026-08-25T08:59:03.539Z",
   "issueDate": "2026-08-25",
   "issue": "VOL.260825",
   "title": "手机情报日报",
-  "intro": "今日筛出 9 条重点，其中 8 条是重点爆料，包含 7 条 iPhone 相关、0 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 8 条重点，其中 8 条是重点爆料，包含 8 条 iPhone 相关、0 条官方确认、0 条参数线索。",
   "stats": {
-    "total": 9,
-    "iphone": 7,
+    "total": 8,
+    "iphone": 8,
     "leaks": 8,
     "official": 0,
     "specs": 0
@@ -17,6 +17,30 @@ window.phoneRadarDaily = {
       "title": "重点爆料",
       "hint": "机模、配色、影像、屏幕、电池和芯片线索先看。",
       "items": [
+        {
+          "id": "auto-b7ff5be25272",
+          "title": "Caviar 更新定制版苹果 iPhone Ultra 折叠屏手机：新增 4 种外观，1.4 万美元起",
+          "originalTitle": "",
+          "source": "IT之家",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-08-25",
+          "time": "08:36",
+          "publishedAt": "2026-08-25T08:36:21.000Z",
+          "url": "https://www.ithome.com/0/994/070.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/8/510dec73-c436-4d8b-8640-d41957af0d60.jpg",
+          "verdict": "先看",
+          "takeaway": "IT之家 8 月 25 日消息，奢侈品制造商 Caviar 今天宣布更新定制版苹果 iPhone Ultra 折叠屏手机系列，新增 4 种外观版本。 据介绍，本次更新的定制版手机有 Liquid Metal（液态金属）、Jobs（乔布斯）、Magenta（洋红色）和 Karat（克拉）版本。 其中液态金属版采用 925 纯银外壳 ，表面可呈现波纹状的镜面反…",
+          "detail": "IT之家 8 月 25 日消息，奢侈品制造商 Caviar 今天宣布更新定制版苹果 iPhone Ultra 折叠屏手机系列，新增 4 种外观版本。 据介绍，本次更新的定制版手机有 Liquid Metal（液态金属）、Jobs（乔布斯）、Magenta（洋红色）和 Karat（克拉）版本。 其中液态金属版采用 925 纯银外壳 ，表面可呈现波纹状的镜面反…",
+          "keyPoints": [
+            "外观 / 配色 / 尺寸",
+            "屏幕形态"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
         {
           "id": "auto-89c4f2337a6a",
           "title": "折叠 iPhone 细节曝光，苹果想折叠的不只是屏幕",
@@ -179,60 +203,6 @@ window.phoneRadarDaily = {
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "auto-0d45f6e4a7f3",
-          "title": "三星 Galaxy S27 系列手机爆料：标准 / Plus / Pro 版底部扬声器移至右侧",
-          "originalTitle": "",
-          "source": "IT之家",
-          "brand": "Samsung",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-08-25",
-          "time": "05:41",
-          "publishedAt": "2026-08-25T05:41:40.000Z",
-          "url": "https://www.ithome.com/0/993/968.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/8/9d036eca-3b8e-4611-8170-6954b161c379.png",
-          "verdict": "先看",
-          "takeaway": "IT之家 8 月 25 日消息，消息源 @i冰宇宙 昨日（8 月 24 日）发布微博， 分享了三星 Galaxy S27、Galaxy S27+、Galaxy S27 Pro 以及 Galaxy S27 Ultra 四款机型的相关信息。 关于三星 Galaxy S27 Ultra 机型，消息源表示： 独家：三星 Galaxy S27 Ultra 的尺寸和显…",
-          "detail": "IT之家 8 月 25 日消息，消息源 @i冰宇宙 昨日（8 月 24 日）发布微博， 分享了三星 Galaxy S27、Galaxy S27+、Galaxy S27 Pro 以及 Galaxy S27 Ultra 四款机型的相关信息。 关于三星 Galaxy S27 Ultra 机型，消息源表示： 独家：三星 Galaxy S27 Ultra 的尺寸和显…",
-          "keyPoints": [
-            "外观 / 配色 / 尺寸",
-            "爆料来源"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        }
-      ]
-    },
-    {
-      "id": "launch",
-      "title": "新机与官方发布",
-      "hint": "能直接更新到参数库。",
-      "items": [
-        {
-          "id": "auto-daf3cb4da882",
-          "title": "号称全球首款“真 0mm 无边框”，传音 TECNO 概念手机真机上手视频曝光",
-          "originalTitle": "",
-          "source": "IT之家",
-          "brand": "行业",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-08-25",
-          "time": "03:13",
-          "publishedAt": "2026-08-25T03:13:40.000Z",
-          "url": "https://www.ithome.com/0/993/883.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/8/6af54f18-72e1-40fa-8d57-43302be790e1.jpg",
-          "verdict": "扫一眼",
-          "takeaway": "IT之家 8 月 25 日消息，YouTube 频道 Marques Brownlee（也称 MKBHD）今天（8 月 25 日）发布视频，上手体验了传音 TECNO 新一代无边框概念手机，号称全球首款“真 0mm 无边框”。 这款概念手机采用“一整块玻璃”设计，计划在 IFA 2026 展会上进行实机展示。TECNO 宣称这一概念机型可以做到“真 0mm…",
-          "detail": "IT之家 8 月 25 日消息，YouTube 频道 Marques Brownlee（也称 MKBHD）今天（8 月 25 日）发布视频，上手体验了传音 TECNO 新一代无边框概念手机，号称全球首款“真 0mm 无边框”。 这款概念手机采用“一整块玻璃”设计，计划在 IFA 2026 展会上进行实机展示。TECNO 宣称这一概念机型可以做到“真 0mm…",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "中文源可以直接点开快读；看完只保留和购机有关的点。"
         }
       ]
     }
