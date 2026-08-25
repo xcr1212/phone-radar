@@ -1,22 +1,322 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-08-25T08:59:03.539Z",
+  "updatedAt": "2026-08-25T13:10:28.417Z",
   "news": [
     {
-      "id": "auto-d49c558849c3",
-      "title": "消息称华为 Pura X View 阔直板手机搭载麒麟 9030S 处理器，现阶段全系采用 12GB 运存",
+      "id": "auto-bb06cd8479cf",
+      "title": "China’s best answer to the Galaxy Z TriFold is coming next month",
+      "source": "SamMobile",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-25",
+      "time": "13:09",
+      "publishedAt": "2026-08-25T13:09:00.000Z",
+      "url": "https://www.sammobile.com/news/chinas-best-answer-to-the-galaxy-z-trifold-is-coming-next-month/",
+      "image": "",
+      "summary": "Samsung is among the very few manufacturers who've made and sold a tri-folding phone. The Galaxy Z TriFold only got a limited launch, but its established Samsung's ability to push…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-a5c39f48f2f7",
+      "title": "荣耀晒人形机器人运动会百米战果：“元气仔”预赛夺冠，“闪电”再破人类纪录",
       "source": "IT之家",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-25",
+      "time": "12:51",
+      "publishedAt": "2026-08-25T12:51:15.000Z",
+      "url": "https://www.ithome.com/0/994/197.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/8/bf7a4a2d-55fd-46c1-aed1-58e50f979ab7.jpg?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 8 月 25 日消息，@荣耀手机 官微今天（25 日）晚间宣布，第二届世界人形机器人运动会百米预赛，荣耀机器人元气仔以 12.02 秒的成绩 夺得冠军并包揽前四名。 此外，荣耀机器人闪电在第二届世界机器人运动会 100 米复赛中突破上限，跑出 8 秒 94， 再次打破人类纪录 。 值得一提的是，荣耀的闪电机器人虽然打破了人类纪录，但并非此次赛事跑…",
+      "tags": [
+        "HONOR",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "weibo-6b52a133174f",
+      "title": "数码闲聊站：刚刚确认了一下，骁龙下一代旗舰芯的定频就是5.0GHz，全球首个5GHz手机C…",
+      "source": "数码闲聊站",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-08-25",
+      "time": "12:50",
+      "publishedAt": "2026-08-25T12:50:02.000Z",
+      "url": "https://weibo.com/6048569942/Rf42hfySg",
+      "image": "",
+      "summary": "刚刚确认了一下，骁龙下一代旗舰芯的定频就是5.0GHz，全球首个5GHz手机CPU，SM8950/SM8975双旗舰芯齐发，架构设计很哈人。 之前说过这代缓存也有调整，L2做成了共享缓存架构，配合每核大L1指令缓存，理论上能显著降低跨核心任务切换延迟，完全就是为Agent而生[笑而不语]",
+      "tags": [
+        "行业",
+        "爆料",
+        "微博"
+      ]
+    },
+    {
+      "id": "coolapk-user-3db85aeb33f1",
+      "title": "竹本青：【百米田径8秒94，荣耀机器人闪电再次打破人类世界纪录】 荣耀公司今天宣布，旗下机器人闪电在第二届世界人形机器人运…",
+      "source": "竹本青",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-08-25",
+      "time": "12:42",
+      "publishedAt": "2026-08-25T12:42:59.000Z",
+      "url": "https://www.coolapk.com/feed/73426027",
+      "image": "http://image.coolapk.com/feed/2026/0825/20/4248714_fe87093c_1777_7455_33@2000x3556.jpg",
+      "summary": "【百米田径8秒94，荣耀机器人闪电再次打破人类世界纪录】 荣耀公司今天宣布，旗下机器人闪电在第二届世界人形机器人运动会，百米田径大型组项目中跑出8秒94，再次打破人类世界纪录。 #今日热点# #机器人# #荣耀#",
+      "tags": [
+        "HONOR",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-bdc7ef0a60c9",
+      "title": "The Pixel 11's 7-year promise is why I'm taking quantum-safe boot seriously",
+      "source": "Android Police",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-25",
+      "time": "12:15",
+      "publishedAt": "2026-08-25T12:15:10.000Z",
+      "url": "https://www.androidpolice.com/pixel-11-quantum-safe-boot-seven-year-security/",
+      "image": "",
+      "summary": "The boring security stuff is becoming more important than ever",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-4f6ebc09b749",
+      "title": "Samsung might offer a luxury branded Galaxy Z Fold 8 edition soon",
+      "source": "SamMobile",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-25",
+      "time": "12:11",
+      "publishedAt": "2026-08-25T12:11:38.000Z",
+      "url": "https://www.sammobile.com/news/samsung-might-offer-a-luxury-branded-galaxy-z-fold-8-edition-soon/",
+      "image": "",
+      "summary": "Samsung has collaborated with several luxury brands in the past to develop special editions of its popular devices. If a new report out of South Korea is to be believed, the compa…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-35458ea3ea7a",
+      "title": "The Pixel 11 doesn't record your life; it records the version you wish had happened",
+      "source": "Android Police",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-25",
+      "time": "12:00",
+      "publishedAt": "2026-08-25T12:00:10.000Z",
+      "url": "https://www.androidpolice.com/pixel-11-flatters-your-life/",
+      "image": "",
+      "summary": "Pixel 11 rewrites reality for you",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-56c238e9b8bf",
+      "title": "iPhone Trade-In Values Slide Ahead of New Model Launch",
+      "source": "MacRumors",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-25",
+      "time": "11:27",
+      "publishedAt": "2026-08-25T11:27:41.000Z",
+      "url": "https://www.macrumors.com/2026/08/25/iphone-trade-in-values-slide-ahead-of-launch/",
+      "image": "https://images.macrumors.com/article-new/2024/05/apple-trade-in-2024.jpg",
+      "summary": "Ahead of the announcement of the iPhone 18 Pro , &zwnj;iPhone 18 Pro&zwnj; Max, and first foldable iPhone next month, a new study from trade-in comparison site SellCell finds that…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-dafe156463d7",
+      "title": "Affordable Huawei Pura 90 could launch alongside 2026 tri-fold",
+      "source": "Huawei Central",
       "brand": "Huawei",
       "model": "Huawei 相关机型",
       "type": "爆料",
       "trust": "媒体汇总",
       "date": "2026-08-25",
-      "time": "08:49",
-      "publishedAt": "2026-08-25T08:49:44.000Z",
-      "url": "https://www.ithome.com/0/994/090.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/8/c2e6b15f-c92f-4b1f-a841-77a9d5b11dda.png?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 8 月 25 日消息，博主 @数码闲聊站 今日发文透露， 华为 Pura X View 阔直板手机搭载的是麒麟 9030S 处理器 。 关于华为新款三折叠手机 Mate XT 2 手机的处理器情况，博主表示：“不知道， 我这边资料只写了新一代麒麟 9 处理器 ，不知道如何界定，等我再探一下。” 有网友询问了 Pura X View 的运存情况，博…",
+      "time": "10:56",
+      "publishedAt": "2026-08-25T10:56:58.000Z",
+      "url": "https://www.huaweicentral.com/affordable-huawei-pura-90-could-launch-alongside-2026-tri-fold/",
+      "image": "https://www.huaweicentral.com/wp-content/uploads/2026/04/huawei-pura-90-pro-max-img1-2.jpg",
+      "summary": "Huawei is seemingly gearing up for a more affordable Pura 90 flagship and may launch it alongside the Mate XT 2 triple-foldable on September 7. A new leak suggests that the compan…",
       "tags": [
         "Huawei",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-d6bad09b15f4",
+      "title": "One year with the Google Pixel 10 Pro Fold: Sometimes it's good to be boring",
+      "source": "Android Central",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-08-25",
+      "time": "10:06",
+      "publishedAt": "2026-08-25T10:06:40.000Z",
+      "url": "https://www.androidcentral.com/phones/google-pixel/one-year-with-the-google-pixel-10-pro-fold",
+      "image": "https://cdn.mos.cms.futurecdn.net/hxu3WKG9nAHUWEPXRgtkTH-1280-80.jpg",
+      "summary": "The Pixel 10 Pro Fold isn't what I'd call an exciting phone, but it nails the basics, and it proved to be much better than I imagined over the course of the year.",
+      "tags": [
+        "Pixel",
+        "评测",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-41b7d13fe136",
+      "title": "After just 5 days, my Pixel 11 Pro is already a brick",
+      "source": "Android Authority",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-25",
+      "time": "10:00",
+      "publishedAt": "2026-08-25T10:00:05.000Z",
+      "url": "https://www.androidauthority.com/pixel-11-pro-shutdown-brick-issue-3701938/",
+      "image": "",
+      "summary": "This isn't a great start.",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-dd71429da529",
+      "title": "iQOO Z11 印度版手机发布：6.83 英寸曲面屏，天玑 7500 Turbo 芯片",
+      "source": "IT之家",
+      "brand": "vivo",
+      "model": "vivo 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-25",
+      "time": "09:51",
+      "publishedAt": "2026-08-25T09:51:23.000Z",
+      "url": "https://www.ithome.com/0/994/120.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/8/d8c34299-6bb4-43b2-aac3-786d677b4325.jpg",
+      "summary": "IT之家 8 月 25 日消息， iQOO Z11 手机现已在印度发售，新机提供极光绿、星空蓝两种配色，拥有 6+128GB/8+128GB/8+256GB/12+256GB 四种内存 / 存储空间组合，起售价为 34,999 卢比 （IT之家注：现汇率约合 2,459 元人民币） 。 据悉，印度版 iQOO Z11 的配置与中国版、马来西亚版本有所不同。…",
+      "tags": [
+        "vivo",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-85110e1cc7f9",
+      "title": "The Pixel 11 Pro’s camera flash is a ‘LoLight’ thanks to HiLight",
+      "source": "Android Authority",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-25",
+      "time": "09:32",
+      "publishedAt": "2026-08-25T09:32:14.000Z",
+      "url": "https://www.androidauthority.com/google-pixel-11-pro-camera-flash-downgrade-3702204/",
+      "image": "",
+      "summary": "Users complain that the Pixel 11 Pro's camera flash is a big downgrade over other phones, and HiLight could be to blame here.",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-b0a24cebc695",
+      "title": "The Galaxy Z Fold 8 has a camera problem, and it has nothing to do with photo quality",
+      "source": "Android Authority",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-25",
+      "time": "09:30",
+      "publishedAt": "2026-08-25T09:30:00.000Z",
+      "url": "https://www.androidauthority.com/galaxy-z-fold-8-selfie-camera-problem-3701901/",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2026/08/Samsung-Galaxy-Z-Fold-8-2-scaled.jpg",
+      "summary": "Samsung put the Galaxy Z Fold 8's folding display selfie camera in the worst spot.",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-7464031b21fe",
+      "title": "Samsung may be working on self-healing glass for the Galaxy S27 Ultra",
+      "source": "Android Central",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-08-25",
+      "time": "09:23",
+      "publishedAt": "2026-08-25T09:23:52.000Z",
+      "url": "https://www.androidcentral.com/phones/samsung-galaxy/galaxy-s27-ultra-self-healing-glass-leak",
+      "image": "https://cdn.mos.cms.futurecdn.net/ygMKG9aBZikNUtH6YX99bf-1280-80.jpg",
+      "summary": "Samsung's Galaxy S27 Ultra could feature glass that heals itself.",
+      "tags": [
+        "Samsung",
+        "评测",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-25ab5271fef7",
+      "title": "Google’s Tensor G7 has one last chance to save the Pixel 12",
+      "source": "Android Authority",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-25",
+      "time": "09:00",
+      "publishedAt": "2026-08-25T09:00:21.000Z",
+      "url": "https://www.androidauthority.com/tensor-g7-pixel-12-wishlist-3701123/",
+      "image": "",
+      "summary": "Dubious silicon is detracting from Pixel's best features.",
+      "tags": [
+        "Pixel",
         "爆料",
         "自动抓取"
       ]
@@ -42,26 +342,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-b7ff5be25272",
-      "title": "Caviar 更新定制版苹果 iPhone Ultra 折叠屏手机：新增 4 种外观，1.4 万美元起",
-      "source": "IT之家",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-25",
-      "time": "08:36",
-      "publishedAt": "2026-08-25T08:36:21.000Z",
-      "url": "https://www.ithome.com/0/994/070.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/8/510dec73-c436-4d8b-8640-d41957af0d60.jpg",
-      "summary": "IT之家 8 月 25 日消息，奢侈品制造商 Caviar 今天宣布更新定制版苹果 iPhone Ultra 折叠屏手机系列，新增 4 种外观版本。 据介绍，本次更新的定制版手机有 Liquid Metal（液态金属）、Jobs（乔布斯）、Magenta（洋红色）和 Karat（克拉）版本。 其中液态金属版采用 925 纯银外壳 ，表面可呈现波纹状的镜面反…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-c27aa6c5b3b3",
       "title": "An Easier Way To Switch to the New Galaxy Z Fold8",
       "source": "Samsung Newsroom",
@@ -78,106 +358,6 @@ window.phoneRadarAuto = {
       "tags": [
         "Samsung",
         "官方",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-712445936268",
-      "title": "真我海外新机 realme C100i 曝光：6.75 寸 720P LCD 屏幕、紫光展锐 T7250 芯片",
-      "source": "IT之家",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-25",
-      "time": "07:58",
-      "publishedAt": "2026-08-25T07:58:01.000Z",
-      "url": "https://www.ithome.com/0/994/029.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/8/7937cc2e-7fa6-4f89-8efc-e8557515cbeb.png?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 8 月 25 日消息，真我将于 8 月 27 日在印度市场推出 realme C100i。新机定位中低端，采用 LCD 屏幕。 据介绍， 这款手机配备 6.75 英寸 720P LCD 屏幕 ，支持 120Hz 高刷，峰值亮度 900nits。搭载紫光展锐 T7250 芯片， 拥有 6500mAh 电池 。 同时，这款手机采用 800 万像素后置…",
-      "tags": [
-        "行业",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-8ab847d661ff",
-      "title": "More details about Galaxy S27 Pro’s and S27 Ultra’s Snapdragon chip emerge",
-      "source": "SamMobile",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-25",
-      "time": "07:43",
-      "publishedAt": "2026-08-25T07:43:35.000Z",
-      "url": "https://www.sammobile.com/news/galaxy-s27-pro-ultra-snapdragon-chip-specs-emerge/",
-      "image": "",
-      "summary": "Out of the four rumored Galaxy S27 series devices that are expected to launch early next year, two models could use Qualcomm's flagship Snapdragon chipset. And more details about…",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-a9f8957d540c",
-      "title": "曝 9 月或是机圈史上最激烈新品月，“华米 OV 耀”旗舰新机将轮番登场",
-      "source": "IT之家",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-25",
-      "time": "07:37",
-      "publishedAt": "2026-08-25T07:37:06.000Z",
-      "url": "https://www.ithome.com/0/994/020.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/8/4679ba03-e5d7-4970-ba6b-d5cd23bfc955.png?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 8 月 25 日消息，博主 @数码闲聊站 今日发文称，9 月或许是机圈史上最激烈的新品月： 高端折叠线 —— 华为三折叠、小米阔折叠、苹果阔折叠 芯片线 —— 小米玄戒 O3、苹果 A20 系列、天玑 9600 系列、骁龙 8E6 系列、华为麒麟 2026τ 芯片 旗舰线 ——iPhone 18 系列、vivo X500 系列、OPPO Find…",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-1d7a7cc42ced",
-      "title": "vivo X500 Pro Max 手机“蓝图光御 900”主摄采用 3 度大角度云台级防抖，达到 CIPA 7.0 专业级防抖",
-      "source": "IT之家",
-      "brand": "vivo",
-      "model": "vivo 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-25",
-      "time": "07:24",
-      "publishedAt": "2026-08-25T07:24:35.000Z",
-      "url": "https://www.ithome.com/0/994/016.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/8/c8f48cec-c759-4347-90bb-b4fdc04fd3af.jpg?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 8 月 25 日消息，vivo 通信科技有限公司产品经理韩伯啸昨日宣布，全新的 X500 系列将在 9 月正式和大家见面，全系 3 杯，包括 X500、X500 Pro、X500 Pro Max。 韩伯啸今日继续预热新机，据其介绍，为了达到电影级视频的标准，蓝图 × 索尼独家定制的「蔡司超动态主摄」—— 蓝图光御 900，把视频的“亮”拉到了电影…",
-      "tags": [
-        "vivo",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-5a0937bde8f6",
-      "title": "主频峰值冲上 5.0GHz：高通第六代骁龙 8 超级至尊版芯片跑分再曝",
-      "source": "IT之家",
-      "brand": "vivo",
-      "model": "vivo 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-25",
-      "time": "07:20",
-      "publishedAt": "2026-08-25T07:20:17.000Z",
-      "url": "https://www.ithome.com/0/994/013.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/8/127ed3ac-a2b5-4f27-ae23-833931c334ed.jpg",
-      "summary": "IT之家 8 月 25 日消息，科技媒体 NotebookCheck 今天（8 月 25 日）发布博文，报道称型号为 V2606A 的 vivo 手机现身 GeekBench 跑分库， 显示 SM8975 主频峰值超过 5.0GHz。 名称方面，IT之家此前报道， SM8975 正式上市后可能名为高通第六代骁龙 8 超级至尊版（Snapdragon 8 E…",
-      "tags": [
-        "vivo",
-        "爆料",
         "自动抓取"
       ]
     },
@@ -199,26 +379,6 @@ window.phoneRadarAuto = {
         "HONOR",
         "爆料",
         "酷安博主"
-      ]
-    },
-    {
-      "id": "auto-108b43207d3a",
-      "title": "单价超 2 万元！消息称华为三折叠手机全球累计发货量突破 100 万台",
-      "source": "IT之家",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-25",
-      "time": "07:17",
-      "publishedAt": "2026-08-25T07:17:35.000Z",
-      "url": "https://www.ithome.com/0/994/012.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/8/7e6230c8-ee8b-447c-a0e8-52eeba720f87.png?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 8 月 25 日消息，华为常务董事、产品投资评审委员会主任、终端 BG 董事长余承东今日官宣， 全新三折叠即将登场 。华为鸿蒙 HarmonyOS 7 | HUAWEI Mate XT 2 及全场景新品发布会定档 9 月 7 日 14:30。 据博主 @我鸿 分享， 华为三折叠手机（Mate XT / XTs 非凡大师两代）全球累计发货量已突破…",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "自动抓取"
       ]
     },
     {
@@ -257,26 +417,6 @@ window.phoneRadarAuto = {
       "summary": "After AnTuTu, the Snapdragon 8 Elite Extreme Gen 6 has appeared on Geekbench for the first time in an unannounced iQOO device. The scores come from an iQOO 16 prototype carrying t…",
       "tags": [
         "vivo",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-0d45f6e4a7f3",
-      "title": "三星 Galaxy S27 系列手机爆料：标准 / Plus / Pro 版底部扬声器移至右侧",
-      "source": "IT之家",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-25",
-      "time": "05:41",
-      "publishedAt": "2026-08-25T05:41:40.000Z",
-      "url": "https://www.ithome.com/0/993/968.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/8/9d036eca-3b8e-4611-8170-6954b161c379.png",
-      "summary": "IT之家 8 月 25 日消息，消息源 @i冰宇宙 昨日（8 月 24 日）发布微博， 分享了三星 Galaxy S27、Galaxy S27+、Galaxy S27 Pro 以及 Galaxy S27 Ultra 四款机型的相关信息。 关于三星 Galaxy S27 Ultra 机型，消息源表示： 独家：三星 Galaxy S27 Ultra 的尺寸和显…",
-      "tags": [
-        "Samsung",
         "爆料",
         "自动抓取"
       ]
@@ -702,26 +842,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-2d613fb77e79",
-      "title": "Galaxy S27 series design gets way more interesting in new leaked renders",
-      "source": "SamMobile",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-24",
-      "time": "18:09",
-      "publishedAt": "2026-08-24T18:09:05.000Z",
-      "url": "https://www.sammobile.com/news/galaxy-s27-series-design-gets-way-more-interesting-in-new-leaked-renders/",
-      "image": "https://www.sammobile.com/wp-content/uploads/2026/08/galaxy-s27-ultra-cad-1-1.jpeg",
-      "summary": "A few more design cues for the entire Galaxy S27 series have just been revealed through a series of fan-made CAD renders. According to leaks, next year's Galaxy S27 series might f…",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-e43987104518",
       "title": "Xiaomi CEO Confirms Separate Launches for Xiaomi 18 Fold and 18 Pro",
       "source": "Gizmochina",
@@ -734,7 +854,7 @@ window.phoneRadarAuto = {
       "publishedAt": "2026-08-24T17:49:51.000Z",
       "url": "https://www.gizmochina.com/2026/08/24/xiaomi-ceo-confirms-separate-launches-for-xiaomi-18-fold-and-18-pro/",
       "image": "https://www.gizmochina.com/wp-content/uploads/2024/07/Xiaomi-MIX-Fold-4_1.mp4_20240726_180859.498-300x169.jpg?x23692",
-      "summary": "Xiaomi CEO Lei Jun says September will be a “big month” for the company as new products are lined up one after another. According to Lei, the month will begin with the launch of X…",
+      "summary": "Xiaomi CEO Lei Jun says September will be a “big month” for the company as new products are lined up one after another. Also ReadThe Best Smartphones of 2026 Q1&Q2 | Gizmochina Aw…",
       "tags": [
         "Xiaomi",
         "爆料",
@@ -777,46 +897,6 @@ window.phoneRadarAuto = {
       "summary": "“HiLight” on the Pixel 11 Pro doesn’t provide much utility, but making matters worse, it also worsens a common use case of every other phone’s rear LED – the ability to use it as…",
       "tags": [
         "Pixel",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-567d58a6aea1",
-      "title": "Samsung's $1,300 Galaxy S26 Ultra still can't snap onto a charger without a case",
-      "source": "Android Police",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-24",
-      "time": "15:15",
-      "publishedAt": "2026-08-24T15:15:10.000Z",
-      "url": "https://www.androidpolice.com/galaxy-s26-ultra-still-no-magnets/",
-      "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2026/08/samsung-galaxy-s26-ultra-in-a-magnetic-case-next-to-a-qi2-wireless-charger.jpg",
-      "summary": "Samsung's excuses for the Galaxy S26 Ultra don't add up",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-9d6ef371348c",
-      "title": "Galaxy S26 Ultra is now available at a new record-low price in India",
-      "source": "SamMobile",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-24",
-      "time": "14:57",
-      "publishedAt": "2026-08-24T14:57:33.000Z",
-      "url": "https://www.sammobile.com/news/galaxy-s26-ultra-now-available-new-record-low-price-india/",
-      "image": "",
-      "summary": "Last week, Samsung’s latest flagship non-foldable phone, the Galaxy S26 Ultra, was available in India at its lowest-ever price in the country since launch. Now, the device is avai…",
-      "tags": [
-        "Samsung",
         "爆料",
         "自动抓取"
       ]
@@ -877,46 +957,6 @@ window.phoneRadarAuto = {
       "summary": "Next year’s iPhone Pro models are expected to feature a new, all-glass design timed for the iPhone’s 20th anniversary. And a new leak today details Apple’s progress on the innovat…",
       "tags": [
         "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-1c3c123e43b9",
-      "title": "iPhone 18 Pro and iPhone Ultra: When Will Apple Event Be Announced?",
-      "source": "MacRumors",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-24",
-      "time": "13:45",
-      "publishedAt": "2026-08-24T13:45:00.000Z",
-      "url": "https://www.macrumors.com/2026/08/24/iphone-18-pro-iphone-ultra-apple-event-when/",
-      "image": "https://images.macrumors.com/article-new/2026/04/Four-iPhone-18-Pro-Colors-Mock-Feature.jpg",
-      "summary": "It is now late August, meaning that Apple's annual iPhone event is just around the corner. Below, we take a look at when the event might be held this year. This September, Apple i…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-6775d6842153",
-      "title": "Samsung Galaxy S27 Ultra to be offered in two sizes, really?!",
-      "source": "SamMobile",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-24",
-      "time": "13:27",
-      "publishedAt": "2026-08-24T13:27:57.000Z",
-      "url": "https://www.sammobile.com/news/samsung-galaxy-s27-ultra-to-be-offered-in-two-sizes-really/",
-      "image": "",
-      "summary": "A purported CAD render leak of the Galaxy S27 Ultra has caused some ripples in the echo chamber today. It's claimed that this render shows the design of the device's camera bar wh…",
-      "tags": [
-        "Samsung",
         "爆料",
         "自动抓取"
       ]
