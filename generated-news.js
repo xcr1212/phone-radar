@@ -1,6 +1,106 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-08-25T16:54:11.668Z",
+  "updatedAt": "2026-08-25T18:55:54.668Z",
   "news": [
+    {
+      "id": "auto-2a9a315aadd9",
+      "title": "This new Android & iPhone tracker hides in your bike or golf clubs with 3-year battery life [Gallery]",
+      "source": "9to5Mac",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-25",
+      "time": "18:48",
+      "publishedAt": "2026-08-25T18:48:18.000Z",
+      "url": "https://9to5google.com/2026/08/25/pebblebee-loc8-android-iphone-bike-tracker/",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/pebblebee-loc8-find-hub-7.jpg?quality=82&strip=all&w=1600",
+      "summary": "Pebblebee has launched “LÔC8,” a unique new Android Find Hub / Apple Find My tracker that’s designed to hide within your bike handles, golf clubs, and other places to help you kee…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-048da144249c",
+      "title": "Pixel 11 post-launch deals: Amazon now lets you stack trade-in bonus with $100+ gift cards",
+      "source": "9to5Google",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-25",
+      "time": "18:35",
+      "publishedAt": "2026-08-25T18:35:13.000Z",
+      "url": "https://9to5google.com/2026/08/25/pixel-11-post-launch-deals/",
+      "image": "",
+      "summary": "With the Pixel 11 series hitting store shelves on August 20, launch deals are beginning to wind down. However, some still remain for a limited time, including how Amazon now lets…",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-39983b1171f4",
+      "title": "Apple Maps launches ads on iPhone, here’s what’s new",
+      "source": "9to5Mac",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-25",
+      "time": "18:33",
+      "publishedAt": "2026-08-25T18:33:10.000Z",
+      "url": "https://9to5mac.com/2026/08/25/apple-maps-launches-ads-on-iphone-heres-whats-new/",
+      "image": "",
+      "summary": "Apple has officially launched ads in Apple Maps, with the rollout ramping up in the coming weeks. Here are the details.",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-dfe3ea10144f",
+      "title": "OnePlus 16 tipped to pair narrowest bezels in brand’s flagship lineup with 165Hz system-wide refresh rate",
+      "source": "Gizmochina",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-25",
+      "time": "18:13",
+      "publishedAt": "2026-08-25T18:13:21.000Z",
+      "url": "https://www.gizmochina.com/2026/08/25/oneplus-16-tipped-to-pair-narrowest-bezels-in-brands-flagship-lineup-with-165hz-system-wide-refresh-rate/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/08/OnePlus-15-display-1024x576-1-300x169.jpg?x23692",
+      "summary": "Early details suggest OnePlus‘s next flagship could have one of the cleanest, most immersive screen experiences in the Android flagship space right now. According to Weibo tipster…",
+      "tags": [
+        "OPPO",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-27bc2b3e43a3",
+      "title": "Apple just revealed two ways iPhone 18 Pro could get big upgrades",
+      "source": "9to5Mac",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-25",
+      "time": "17:30",
+      "publishedAt": "2026-08-25T17:30:58.000Z",
+      "url": "https://9to5mac.com/2026/08/25/apple-just-revealed-two-ways-iphone-18-pro-could-get-big-upgrades/",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/iphone-18-pro-black-mockup.jpg?quality=82&strip=all&w=1600",
+      "summary": "Today Apple unveiled its M6 chip , the first of a new chip generation that will soon include iPhone 18 Pro’s A20 Pro. Here’s what the M6 reveals about iPhone 18 Pro gains to expec…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-e3f9dc466a73",
       "title": "Alleged iPhone Ultra motherboard leaks: SoC, DRAM sit side-by-side instead of being stacked",
@@ -402,26 +502,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-bdc7ef0a60c9",
-      "title": "The Pixel 11's 7-year promise is why I'm taking quantum-safe boot seriously",
-      "source": "Android Police",
-      "brand": "Pixel",
-      "model": "Pixel 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-25",
-      "time": "12:15",
-      "publishedAt": "2026-08-25T12:15:10.000Z",
-      "url": "https://www.androidpolice.com/pixel-11-quantum-safe-boot-seven-year-security/",
-      "image": "",
-      "summary": "The boring security stuff is becoming more important than ever",
-      "tags": [
-        "Pixel",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-4f6ebc09b749",
       "title": "Samsung might offer a luxury branded Galaxy Z Fold 8 edition soon",
       "source": "SamMobile",
@@ -437,26 +517,6 @@ window.phoneRadarAuto = {
       "summary": "Samsung has collaborated with several luxury brands in the past to develop special editions of its popular devices. If a new report out of South Korea is to be believed, the compa…",
       "tags": [
         "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-35458ea3ea7a",
-      "title": "The Pixel 11 doesn't record your life; it records the version you wish had happened",
-      "source": "Android Police",
-      "brand": "Pixel",
-      "model": "Pixel 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-25",
-      "time": "12:00",
-      "publishedAt": "2026-08-25T12:00:10.000Z",
-      "url": "https://www.androidpolice.com/pixel-11-flatters-your-life/",
-      "image": "",
-      "summary": "Pixel 11 rewrites reality for you",
-      "tags": [
-        "Pixel",
         "爆料",
         "自动抓取"
       ]
@@ -634,7 +694,7 @@ window.phoneRadarAuto = {
       "publishedAt": "2026-08-25T08:46:09.000Z",
       "url": "https://www.gizmochina.com/2026/08/25/vivo-x500-pro-max-teased-with-3-degree-gimbal-stabilization-for-its-main-camera/",
       "image": "https://www.gizmochina.com/wp-content/uploads/2026/07/Vivo-X300-Pro-5G-phone-300x169.png?x23692",
-      "summary": "A day after teasing the phone’s 17EV dynamic range, Vivo product manager Han Boxiao is talking about X500 Pro Max’s camera stabilization in his latest Weibo post. Han makes a fair…",
+      "summary": "A day after teasing the phone’s 17EV dynamic range, Vivo product manager Han Boxiao talks about X500 Pro Max’s camera stabilization in his latest Weibo post. Han makes a fairly si…",
       "tags": [
         "vivo",
         "爆料",
@@ -759,26 +819,6 @@ window.phoneRadarAuto = {
         "行业",
         "爆料",
         "微博"
-      ]
-    },
-    {
-      "id": "auto-a2f745d1a96e",
-      "title": "Apple Reportedly Will Announce iPhone 18 Pro Event Date This Week",
-      "source": "MacRumors",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-25",
-      "time": "02:15",
-      "publishedAt": "2026-08-25T02:15:00.000Z",
-      "url": "https://www.macrumors.com/2026/08/24/apple-invites-iphone-18-pro-event-soon/",
-      "image": "",
-      "summary": "Apple plans to send out invites for its annual iPhone event this week, according to Bloomberg 's Mark Gurman . The event will likely take place on Wednesday, September 9, he said.…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
       ]
     },
     {
