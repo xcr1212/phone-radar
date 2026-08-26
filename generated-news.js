@@ -1,6 +1,166 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-08-26T16:58:15.233Z",
+  "updatedAt": "2026-08-26T20:01:22.074Z",
   "news": [
+    {
+      "id": "auto-95162d13b334",
+      "title": "Maybe Samsung isn’t the problem, maybe bar phone design has simply peaked",
+      "source": "SamMobile",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-26",
+      "time": "19:41",
+      "publishedAt": "2026-08-26T19:41:25.000Z",
+      "url": "https://www.sammobile.com/opinion/maybe-samsung-isnt-problem-bar-phone-design-peaked/",
+      "image": "https://www.sammobile.com/wp-content/uploads/2026/08/Samsung-Galaxy-S27-Ultra-Design-Final-CAD-Render-Black.jpg",
+      "summary": "The leaked rear design of Samsung's Galaxy S27 Ultra may not be final, but it gives us a good idea of the direction Samsung is considering. And unsurprisingly, the sketches have a…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-a6530cf99d77",
+      "title": "Google Translate thinks Apple’s iPhone Ultra event tagline in China includes a hidden ‘foldable’ teaser",
+      "source": "9to5Mac",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-26",
+      "time": "19:41",
+      "publishedAt": "2026-08-26T19:41:07.000Z",
+      "url": "https://9to5mac.com/2026/08/26/apples-iphone-ultra-event-tagline-in-china-includes-a-hidden-foldable-teaser/",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/translated-apple-event-tagline-china.webp?w=1600",
+      "summary": "Apple officially announced the date for its big September event with the tagline “Surprise and shine,” a play on the phrase rise and shine. This is for the event where Apple is ex…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-c61191b0c6de",
+      "title": "Amazon knocks $150 off Pixel 11 phones, with up to $200 in gift cards",
+      "source": "The Verge",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-26",
+      "time": "19:18",
+      "publishedAt": "2026-08-26T19:18:23.000Z",
+      "url": "https://www.theverge.com/gadgets/984516/pixel-11-promo-code-doom-dark-ages-deal-sale",
+      "image": "",
+      "summary": "If you’ve been on the fence about Google’s latest Pixel phones, this might be your best chance to save some cash. Amazon is offering an extra $150 off the Pixel 11, Pixel 11 Pro,…",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-f86fcf815a71",
+      "title": "Samsung Galaxy S26 Ultra just dropped to $961, and it's the Android phone to buy in 2026",
+      "source": "Android Police",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-26",
+      "time": "19:10",
+      "publishedAt": "2026-08-26T19:10:13.000Z",
+      "url": "https://www.androidpolice.com/samsung-galaxy-s26-ultra-961-deal/",
+      "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2026/02/samsung-galaxy-s26-ultra-display-1.jpg",
+      "summary": "It's now even easier to recommend",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-6f0970146ddb",
+      "title": "Leaker says iPhone Ultra will come in these colors, with one surprise [Updated]",
+      "source": "9to5Mac",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-26",
+      "time": "18:17",
+      "publishedAt": "2026-08-26T18:17:53.000Z",
+      "url": "https://9to5mac.com/2026/08/26/leaker-says-iphone-ultra-will-come-in-these-colors-with-one-surprise/",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/03/iphone-fold-mockup-red.jpg?quality=82&strip=all&w=1600",
+      "summary": "Leaker Evan Blass has just posted what he claims are the three colors coming to iPhone Ultra, and they include a surprising red option. Update : Mark Gurman posted on X that there…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-d5068f0bac0f",
+      "title": "Apple Maps has ads now",
+      "source": "The Verge",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-26",
+      "time": "17:34",
+      "publishedAt": "2026-08-26T17:34:32.000Z",
+      "url": "https://www.theverge.com/tech/985249/apple-maps-iphone-ads",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/Apple-Business-ads-on-Apple-Maps.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "summary": "Ads have started popping up in Apple Maps, following Apple's announcement in March that it would let businesses pay for top spots. They're appearing on my iPhone as the first entr…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-c17128987dd7",
+      "title": "iPhone Ultra is coming: Three new features will be worth the wait",
+      "source": "9to5Mac",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-26",
+      "time": "17:18",
+      "publishedAt": "2026-08-26T17:18:11.000Z",
+      "url": "https://9to5mac.com/2026/08/26/iphone-ultra-is-coming-three-new-features-will-be-worth-the-wait/",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/04/iphone-ultra-fold-mockup.jpg?quality=82&strip=all&w=1600",
+      "summary": "The iPhone Ultra will be unveiled very soon at the just-confirmed September 9 event . Apple’s foldable will debut seven years after competing products, but three key iPhone Ultra…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-7d3c88be15ac",
+      "title": "The Galaxy S27 Ultra battery upgrade could have been much wilder",
+      "source": "Android Authority",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-26",
+      "time": "17:13",
+      "publishedAt": "2026-08-26T17:13:55.000Z",
+      "url": "https://www.androidauthority.com/galaxy-s27-ultra-7000mah-battery-prototype-leak-3703387/",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2026/06/s26-ultra-on-a-table-scaled.jpg",
+      "summary": "A 7,000mAh battery may have been on the table for the S27 Ultra.",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-084cccd16801",
       "title": "Get ready, Samsung fans, the foldable iPhone launches on September 9",
@@ -59,6 +219,26 @@ window.phoneRadarAuto = {
         "iPhone",
         "爆料",
         "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-860d8c2447d3",
+      "title": "竹本青：【苹果官宣2026秋季发布会，将于北京时间9月10日举行】 8月27日凌晨，苹果公司正式官宣2026秋季发布会。活…",
+      "source": "竹本青",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-08-26",
+      "time": "16:12",
+      "publishedAt": "2026-08-26T16:12:13.000Z",
+      "url": "https://www.coolapk.com/feed/73445760",
+      "image": "http://image.coolapk.com/feed/2026/0827/00/4248714_c1dd531f_0732_4754_44@1260x1644.jpg",
+      "summary": "【苹果官宣2026秋季发布会，将于北京时间9月10日举行】 8月27日凌晨，苹果公司正式官宣2026秋季发布会。活动将于太平洋时间9月9日10点（北京时间9月10日凌晨1点）举行。 结合此前多方消息，本次发布会将推出三款新机：iPhone 18 Pro/Max与苹果首款横向折叠iPhone Ultra。另据供应链消息，受内存芯片成本上涨影响，本次新机大概率…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "酷安博主"
       ]
     },
     {
@@ -282,6 +462,26 @@ window.phoneRadarAuto = {
       ]
     },
     {
+      "id": "coolapk-user-cef6d9287c4a",
+      "title": "竹本青：【ColorOS 17 官方爆料：系统材质全新升级】 在保持最大化通透的情况下，优化了信息的清晰可读性，降低非必要…",
+      "source": "竹本青",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-08-26",
+      "time": "14:07",
+      "publishedAt": "2026-08-26T14:07:46.000Z",
+      "url": "https://www.coolapk.com/feed/73443822",
+      "image": "http://image.coolapk.com/feed/2026/0826/22/4248714_b03f6f51_3263_1278_417-livepic@1080x2356.jpg",
+      "summary": "【ColorOS 17 官方爆料：系统材质全新升级】 在保持最大化通透的情况下，优化了信息的清晰可读性，降低非必要的视觉干扰；材质的应用上，全局也更加统一。 除了锁屏、桌面等场景，在系统应用的横向一致性上，做到 ColorOS 有史以来最好。ColorOS 17 下个月和大家见面。（陈希） #ColorOS17# #今日热点# #ColorOS16#",
+      "tags": [
+        "OPPO",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
       "id": "auto-0ec6a73b9da3",
       "title": "Concept Video Imagines Apple's Foldable iPhone Ultra Reveal",
       "source": "MacRumors",
@@ -417,26 +617,6 @@ window.phoneRadarAuto = {
       "summary": "IT之家 8 月 26 日消息，CNET 委托 YouGov 于 2026 年 8 月 13 日至 17 日进行的一项在线调查显示，75% 的美国成年人表示对购买折叠屏 iPhone 没有兴趣。 IT之家注意到，此次调查共覆盖 2605 名美国成年人。调查显示，各年龄段对折叠屏 iPhone 的兴趣均处于较低水平。 其中，1946 年至 1964 年出生的…",
       "tags": [
         "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-72038d4a7501",
-      "title": "Pixel 11's new search feature made me realize my phone is becoming my digital memory",
-      "source": "Android Police",
-      "brand": "Pixel",
-      "model": "Pixel 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-26",
-      "time": "13:30",
-      "publishedAt": "2026-08-26T13:30:10.000Z",
-      "url": "https://www.androidpolice.com/pixel-11-ai-search-feature/",
-      "image": "",
-      "summary": "I stopped organizing my phone because Pixel finally learned how to search",
-      "tags": [
-        "Pixel",
         "爆料",
         "自动抓取"
       ]
@@ -702,26 +882,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-7fd07725e40a",
-      "title": "Samsung appears to have fixed Galaxy S26 Ultra’s display red tint issue",
-      "source": "SamMobile",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-26",
-      "time": "09:40",
-      "publishedAt": "2026-08-26T09:40:58.000Z",
-      "url": "https://www.sammobile.com/news/samsung-may-have-fixed-galaxy-s26-ultra-display-red-tint-issue/",
-      "image": "",
-      "summary": "Last month, the users of the Galaxy S26 Ultra started complaining that a red tint had appeared on the displays of their phones. Samsung acknowledged the problem and said it would…",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-dd19febf17e1",
       "title": "The HUAWEI Pura 90s Pro Max is so good that it makes me a little sad",
       "source": "Android Authority",
@@ -759,26 +919,6 @@ window.phoneRadarAuto = {
         "Pixel",
         "爆料",
         "自动抓取"
-      ]
-    },
-    {
-      "id": "coolapk-user-5cb4c3c23a7c",
-      "title": "JSCHEN小小狐：OPPO Find X10 系列命名曝光：含三款机型",
-      "source": "JSCHEN小小狐",
-      "brand": "OPPO",
-      "model": "OPPO 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-08-26",
-      "time": "08:07",
-      "publishedAt": "2026-08-26T08:07:41.000Z",
-      "url": "https://www.coolapk.com/feed/73438201",
-      "image": "http://image.coolapk.com/feed/2026/0826/16/4702274_7d4da097_1660_2283_280@1440x421.jpg",
-      "summary": "『OPPO Find X10 系列命名曝光：含三款机型』 知名数码博主 数码闲聊站 今日曝光了 OPPO Find X10 系列新机命名，共包括以下三款机型： · OPPO Find X10 Pro Max（大屏） · OPPO Find X10（中屏） · OPPO Find X10 E（中屏） X10 Pro Max： ◇ 6.78\" 1.5K LTP…",
-      "tags": [
-        "OPPO",
-        "爆料",
-        "酷安博主"
       ]
     },
     {
@@ -1002,6 +1142,26 @@ window.phoneRadarAuto = {
       ]
     },
     {
+      "id": "newsnow-0608ea30d9fb",
+      "title": "这是一个悲伤的故事。我的小15已经丢了一个星期了。[流泪]天杀的捡了手机不还我。[流泪]还把卡拔了。",
+      "source": "酷安热榜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-08-26",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/73416990",
+      "image": "",
+      "summary": "这是一个悲伤的故事。我的小15已经丢了一个星期了。[流泪]天杀的捡了手机不还我。[流泪]还把卡拔了。",
+      "tags": [
+        "行业",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
       "id": "newsnow-5eb84cb88c75",
       "title": "要是那些2nm芯片，打不过3nm的玄戒O3，那就真成行业奇观了[捂脸] #小米18Fold# #玄戒O3# #REDMIK100ProMax#",
       "source": "酷安热榜",
@@ -1017,6 +1177,26 @@ window.phoneRadarAuto = {
       "summary": "要是那些2nm芯片，打不过3nm的玄戒O3，那就真成行业奇观了[捂脸] #小米18Fold# #玄戒O3# #REDMIK100ProMax#",
       "tags": [
         "Xiaomi",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-6b5d5a750971",
+      "title": "OPPO Find X10 系列命名曝光：含三款机型",
+      "source": "酷安热榜",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-08-26",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/73438201",
+      "image": "",
+      "summary": "OPPO Find X10 系列命名曝光：含三款机型",
+      "tags": [
+        "OPPO",
         "爆料",
         "NewsNow"
       ]
@@ -1042,81 +1222,21 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-2a0bab615027",
-      "title": "不知各位感觉到没有，在2026年的当下，手机系统的「重要性」正在被前所未有的拔高到新的战略高度。这在多年前可不是这样的，系统会成为购买决策的加分项，但硬件才是决定项。但是为什么是系统呢？为什么硬件的高度成熟没有削弱系统的重要性呢？",
+      "id": "newsnow-9af80b8f919e",
+      "title": "首先小米玄界O3能测出这么好的成绩，首先他用的是一块开发板，但是高通和联发科给媒体送测的都是一个手机，就是不带被动散热的手机，上面有摄像头，电池，屏幕这些正常手机该有的硬件，以上这些东西开发板都没有，所以落实到实际性能，还是需要看最终的小米的量产机能做成什么样子。",
       "source": "酷安热榜",
-      "brand": "行业",
-      "model": "智能手机市场",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-08-26",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73433230",
+      "url": "https://www.coolapk.com/feed/73431020",
       "image": "",
-      "summary": "不知各位感觉到没有，在2026年的当下，手机系统的「重要性」正在被前所未有的拔高到新的战略高度。这在多年前可不是这样的，系统会成为购买决策的加分项，但硬件才是决定项。但是为什么是系统呢？为什么硬件的高度成熟没有削弱系统的重要性呢？",
+      "summary": "首先小米玄界O3能测出这么好的成绩，首先他用的是一块开发板，但是高通和联发科给媒体送测的都是一个手机，就是不带被动散热的手机，上面有摄像头，电池，屏幕这些正常手机该有的硬件，以上这些东西开发板都没有，所以落实到实际性能，还是需要看最终的小米的量产机能做成什么样子。",
       "tags": [
-        "行业",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-0608ea30d9fb",
-      "title": "这是一个悲伤的故事。我的小15已经丢了一个星期了。[流泪]天杀的捡了手机不还我。[流泪]还把卡拔了。",
-      "source": "酷安热榜",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-08-26",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73416990",
-      "image": "",
-      "summary": "这是一个悲伤的故事。我的小15已经丢了一个星期了。[流泪]天杀的捡了手机不还我。[流泪]还把卡拔了。",
-      "tags": [
-        "行业",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-e019e39f398e",
-      "title": "智界高管：现在不买 L3 就像当年不买 5G 手机",
-      "source": "酷安热榜",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-08-26",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73434344",
-      "image": "",
-      "summary": "智界高管：现在不买 L3 就像当年不买 5G 手机",
-      "tags": [
-        "行业",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-8c5ccfaebd10",
-      "title": "三星 Galaxy S27 Ultra CAD渲染图曝光：后摄模组大改",
-      "source": "酷安热榜",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-08-26",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73434445",
-      "image": "",
-      "summary": "三星 Galaxy S27 Ultra CAD渲染图曝光：后摄模组大改",
-      "tags": [
-        "Samsung",
+        "Xiaomi",
         "爆料",
         "NewsNow"
       ]
@@ -1142,21 +1262,21 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-6e53beed6e33",
-      "title": "“8个2”手机号399万元起拍",
+      "id": "newsnow-76328cca84b1",
+      "title": "鸿蒙成世界第三大手机操作系统",
       "source": "今日头条热榜",
-      "brand": "行业",
-      "model": "智能手机市场",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
       "type": "爆料",
       "trust": "媒体汇总",
       "date": "2026-08-26",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.toutiao.com/trending/7678211631416524854/",
+      "url": "https://www.toutiao.com/trending/7678173607227474470/",
       "image": "",
-      "summary": "“8个2”手机号399万元起拍",
+      "summary": "鸿蒙成世界第三大手机操作系统",
       "tags": [
-        "行业",
+        "Huawei",
         "爆料",
         "NewsNow"
       ]
