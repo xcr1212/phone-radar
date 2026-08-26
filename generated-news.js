@@ -1,6 +1,146 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-08-26T15:54:02.522Z",
+  "updatedAt": "2026-08-26T16:58:15.233Z",
   "news": [
+    {
+      "id": "auto-084cccd16801",
+      "title": "Get ready, Samsung fans, the foldable iPhone launches on September 9",
+      "source": "SamMobile",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-26",
+      "time": "16:46",
+      "publishedAt": "2026-08-26T16:46:45.000Z",
+      "url": "https://www.sammobile.com/news/get-ready-samsung-fans-the-foldable-iphone-launches-on-september-9/",
+      "image": "",
+      "summary": "Apple hasn't gone head-to-head with Samsung in the foldable segment so far, but that's set to change next month. The company has just confirmed a new product launch event for Sept…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-14cf0e2cd71b",
+      "title": "Xiaomi’s version of the wider Galaxy Z Fold 8 shows up in hands-on leak ahead of launch",
+      "source": "9to5Google",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-26",
+      "time": "16:25",
+      "publishedAt": "2026-08-26T16:25:00.000Z",
+      "url": "https://9to5google.com/2026/08/26/xiaomi-18-fold-leak-galaxy-z-fold-8-wide/",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/08/fold-8-xiaomi-18-fold-leak.jpg?quality=82&strip=all&w=1600",
+      "summary": "The Xiaomi 18 Fold is officially launching next month and, ahead of its formal debut, a hands-on leak is showing off the wider Galaxy Z Fold 8-like form factor.",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-e64fed43c5d9",
+      "title": "Apple announces September iPhone launch event",
+      "source": "The Verge",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-26",
+      "time": "16:20",
+      "publishedAt": "2026-08-26T16:20:36.000Z",
+      "url": "https://www.theverge.com/tech/983407/apple-iphone-launch-event-2026-date",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Screenshot-2026-08-26-at-9.17.30-AM.png?quality=90&strip=all&crop=0,0,100,94.827045012242",
+      "summary": "Apple's next launch event will take place on September 9th at 1PM ET. Invites to the event, which has a \"Surprise and shine\" tagline, were sent out on Wednesday. The event will ta…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-990a48dc2b95",
+      "title": "开启 iPhone 18 Pro / Ultra 系列新篇章，苹果发布会官宣定档 9 月 10 日",
+      "source": "IT之家",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-26",
+      "time": "16:06",
+      "publishedAt": "2026-08-26T16:06:30.000Z",
+      "url": "https://www.ithome.com/0/994/787.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/8/52817fea-c2b2-47b6-ba71-667796c6b4cc.jpg",
+      "summary": "IT之家 8 月 27 日消息，苹果官方宣布将于当地时间 9 月 9 日（北京时间 9 月 10 日凌晨 1 点）举行秋季新品发布会，主题为“惊喜闪耀”（Surprise and shine）。 这将是约翰 · 特努斯（John Ternus）于 9 月 1 日正式接任苹果 CEO 后的首场发布会，预计将推出全新一代 iPhone 18 Pro / Max…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-86da394e9e88",
+      "title": "Apple Event Announced for September 9: 'Surprise and Shine'",
+      "source": "MacRumors",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-26",
+      "time": "16:02",
+      "publishedAt": "2026-08-26T16:02:48.000Z",
+      "url": "https://www.macrumors.com/2026/08/26/apple-iphone-event-2026/",
+      "image": "",
+      "summary": "Apple plans to hold its annual iPhone-centric event on Wednesday, September 9 at the Apple Park campus in Cupertino, California. The event will begin at 10:00 a.m. Pacific Time, w…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-2e1b4f8a9eeb",
+      "title": "Apple announces iPhone 18 Pro and foldable iPhone Ultra event: ‘Surprise and shine’",
+      "source": "9to5Mac",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-26",
+      "time": "16:02",
+      "publishedAt": "2026-08-26T16:02:04.000Z",
+      "url": "https://9to5mac.com/2026/08/26/apple-officially-announces-iphone-18-pro-foldable-event/",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/iphone-18-pro-max-ultra-event.webp?w=1600",
+      "summary": "Apple has officially announced its next product event, where it will unveil the iPhone 18 Pro lineup and its first foldable iPhone. The event will take place on September 9 at 10…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-e6a963dd976a",
+      "title": "I tested Google's new Qi2 charging on my old charging pads; it's a total mess",
+      "source": "Android Police",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-26",
+      "time": "16:00",
+      "publishedAt": "2026-08-26T16:00:10.000Z",
+      "url": "https://www.androidpolice.com/tested-googles-qi2-charging-on-old-charging-pads-its-a-mess/",
+      "image": "",
+      "summary": "Qi2 on the Pixel 10 sounds better on paper than it feels in daily use",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-e768fae8e80b",
       "title": "Galaxy Z Flip 6 gets August 2026 security update",
@@ -139,26 +279,6 @@ window.phoneRadarAuto = {
         "Samsung",
         "爆料",
         "自动抓取"
-      ]
-    },
-    {
-      "id": "coolapk-user-cef6d9287c4a",
-      "title": "竹本青：【ColorOS 17 官方爆料：系统材质全新升级】 在保持最大化通透的情况下，优化了信息的清晰可读性，降低非必要…",
-      "source": "竹本青",
-      "brand": "OPPO",
-      "model": "OPPO 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-08-26",
-      "time": "14:07",
-      "publishedAt": "2026-08-26T14:07:46.000Z",
-      "url": "https://www.coolapk.com/feed/73443822",
-      "image": "http://image.coolapk.com/feed/2026/0826/22/4248714_b03f6f51_3263_1278_417-livepic@1080x2356.jpg",
-      "summary": "【ColorOS 17 官方爆料：系统材质全新升级】 在保持最大化通透的情况下，优化了信息的清晰可读性，降低非必要的视觉干扰；材质的应用上，全局也更加统一。 除了锁屏、桌面等场景，在系统应用的横向一致性上，做到 ColorOS 有史以来最好。ColorOS 17 下个月和大家见面。（陈希） #ColorOS17# #今日热点# #ColorOS16#",
-      "tags": [
-        "OPPO",
-        "爆料",
-        "酷安博主"
       ]
     },
     {
@@ -562,26 +682,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-187216f5ed34",
-      "title": "Google's $900 Pixel 11 killed the cheap Android dream we all believed in",
-      "source": "Android Police",
-      "brand": "Pixel",
-      "model": "Pixel 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-26",
-      "time": "10:00",
-      "publishedAt": "2026-08-26T10:00:10.000Z",
-      "url": "https://www.androidpolice.com/pixel-11-900-new-android-floor/",
-      "image": "",
-      "summary": "When four phone makers control the market, your $900 Pixel 11 is only the beginning",
-      "tags": [
-        "Pixel",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-a42bc6aeee75",
       "title": "New Galaxy S25 FE update brings August 2026 security patch",
       "source": "SamMobile",
@@ -637,26 +737,6 @@ window.phoneRadarAuto = {
       "summary": "HUAWEI's Google-less phones continue to be a painful reminder of what could have been.",
       "tags": [
         "Huawei",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-c750965f5fcb",
-      "title": "Galaxy S26, S26+, S26 Ultra get August 2026 security update",
-      "source": "SamMobile",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-26",
-      "time": "09:12",
-      "publishedAt": "2026-08-26T09:12:14.000Z",
-      "url": "https://www.sammobile.com/news/galaxy-s26-s26-s26-ultra-get-august-2026-security-update/",
-      "image": "",
-      "summary": "Samsung started rolling out this month’s security patch to Galaxy smartphones later than usual. On top of that, the brand has been rolling out the update rather slowly, with many…",
-      "tags": [
-        "Samsung",
         "爆料",
         "自动抓取"
       ]
@@ -1055,6 +1135,26 @@ window.phoneRadarAuto = {
       "url": "https://www.toutiao.com/trending/7678115105061634111/",
       "image": "",
       "summary": "办事大厅被曝9点没人上班后禁带手机",
+      "tags": [
+        "行业",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-6e53beed6e33",
+      "title": "“8个2”手机号399万元起拍",
+      "source": "今日头条热榜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-26",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.toutiao.com/trending/7678211631416524854/",
+      "image": "",
+      "summary": "“8个2”手机号399万元起拍",
       "tags": [
         "行业",
         "爆料",

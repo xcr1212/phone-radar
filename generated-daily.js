@@ -1,14 +1,14 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-08-26T15:54:02.522Z",
+  "updatedAt": "2026-08-26T16:58:15.233Z",
   "issueDate": "2026-08-26",
   "issue": "VOL.260826",
   "title": "手机情报日报",
-  "intro": "今日筛出 12 条重点，其中 8 条是重点爆料，包含 5 条 iPhone 相关、2 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 12 条重点，其中 8 条是重点爆料，包含 6 条 iPhone 相关、1 条官方确认、0 条参数线索。",
   "stats": {
     "total": 12,
-    "iphone": 5,
+    "iphone": 6,
     "leaks": 8,
-    "official": 2,
+    "official": 1,
     "specs": 0
   },
   "sections": [
@@ -212,6 +212,29 @@ window.phoneRadarDaily = {
       "hint": "不是硬件爆料，但和 iPhone 体验或路线有关。",
       "items": [
         {
+          "id": "auto-990a48dc2b95",
+          "title": "开启 iPhone 18 Pro / Ultra 系列新篇章，苹果发布会官宣定档 9 月 10 日",
+          "originalTitle": "",
+          "source": "IT之家",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-08-26",
+          "time": "16:06",
+          "publishedAt": "2026-08-26T16:06:30.000Z",
+          "url": "https://www.ithome.com/0/994/787.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/8/52817fea-c2b2-47b6-ba71-667796c6b4cc.jpg",
+          "verdict": "先看",
+          "takeaway": "IT之家 8 月 27 日消息，苹果官方宣布将于当地时间 9 月 9 日（北京时间 9 月 10 日凌晨 1 点）举行秋季新品发布会，主题为“惊喜闪耀”（Surprise and shine）。 这将是约翰 · 特努斯（John Ternus）于 9 月 1 日正式接任苹果 CEO 后的首场发布会，预计将推出全新一代 iPhone 18 Pro / Max…",
+          "detail": "IT之家 8 月 27 日消息，苹果官方宣布将于当地时间 9 月 9 日（北京时间 9 月 10 日凌晨 1 点）举行秋季新品发布会，主题为“惊喜闪耀”（Surprise and shine）。 这将是约翰 · 特努斯（John Ternus）于 9 月 1 日正式接任苹果 CEO 后的首场发布会，预计将推出全新一代 iPhone 18 Pro / Max…",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "中文源可以直接点开快读；看完只保留和购机有关的点。"
+        },
+        {
           "id": "auto-9bbf43c61c96",
           "title": "iPhone 系统功能 / AI 体验相关消息",
           "originalTitle": "",
@@ -227,36 +250,6 @@ window.phoneRadarDaily = {
           "verdict": "先看",
           "takeaway": "iPhone 系统功能 / AI 体验相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
           "detail": "iPhone 系统功能 / AI 体验相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
-          "keyPoints": [
-            "官方"
-          ],
-          "confidence": "官方内容，可直接作为已确认信息记录。",
-          "impact": "可信度高，但如果不是配置/价格消息，只需要扫一眼。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        }
-      ]
-    },
-    {
-      "id": "launch",
-      "title": "新机与官方发布",
-      "hint": "能直接更新到参数库。",
-      "items": [
-        {
-          "id": "auto-c27aa6c5b3b3",
-          "title": "Samsung 折叠屏相关消息",
-          "originalTitle": "",
-          "source": "Samsung Newsroom",
-          "brand": "Samsung",
-          "type": "官方",
-          "trust": "官方确认",
-          "date": "2026-08-25",
-          "time": "08:00",
-          "publishedAt": "2026-08-25T08:00:00.000Z",
-          "url": "https://news.samsung.com/global/an-easier-way-to-switch-to-the-new-galaxy-z-fold8",
-          "image": "https://img.global.news.samsung.com/global/wp-content/uploads/2026/08/24173049/Samsung-Mobile-Smart-Switch-Galaxy-Z-Fold8-One-UI-9-Switching-to-a-New-Phone_Thumb932-728x410.jpg",
-          "verdict": "扫一眼",
-          "takeaway": "Samsung 折叠屏相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
-          "detail": "Samsung 折叠屏相关消息。重点看折痕、铰链、厚度、屏幕可靠性和重量是否有实质改善。",
           "keyPoints": [
             "官方"
           ],
