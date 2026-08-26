@@ -1,11 +1,11 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-08-26T01:57:20.453Z",
+  "updatedAt": "2026-08-26T03:17:05.293Z",
   "issueDate": "2026-08-26",
   "issue": "VOL.260826",
   "title": "手机情报日报",
-  "intro": "今日筛出 22 条重点，其中 8 条是重点爆料，包含 7 条 iPhone 相关、2 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 18 条重点，其中 8 条是重点爆料，包含 7 条 iPhone 相关、2 条官方确认、0 条参数线索。",
   "stats": {
-    "total": 22,
+    "total": 18,
     "iphone": 7,
     "leaks": 8,
     "official": 2,
@@ -17,30 +17,6 @@ window.phoneRadarDaily = {
       "title": "重点爆料",
       "hint": "机模、配色、影像、屏幕、电池和芯片线索先看。",
       "items": [
-        {
-          "id": "auto-92cfe0cd6f91",
-          "title": "三星 Galaxy S27 Ultra 手机渲染图曝光：背面相机模组迎最大变化，保留 S Pen 插槽",
-          "originalTitle": "",
-          "source": "IT之家",
-          "brand": "Samsung",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-08-25",
-          "time": "22:45",
-          "publishedAt": "2026-08-25T22:45:48.000Z",
-          "url": "https://www.ithome.com/0/994/290.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/8/1e3c70f6-b16d-4906-9e39-13168bc9af1e.png?x-bce-process=image/format,f_auto",
-          "verdict": "先看",
-          "takeaway": "IT之家 8 月 26 日消息，科技媒体 Android Headline 昨日（8 月 25 日）发布博文， 分享了一组渲染图，展示了三星 Galaxy S27 Ultra 旗舰手机。 外观方面，三星 Galaxy S27 Ultra 大体延续 Galaxy S26 Ultra 的设计，最大变化是摄像头模组。渲染图显示三星将原本沿机身左侧纵向排列的镜头，…",
-          "detail": "IT之家 8 月 26 日消息，科技媒体 Android Headline 昨日（8 月 25 日）发布博文， 分享了一组渲染图，展示了三星 Galaxy S27 Ultra 旗舰手机。 外观方面，三星 Galaxy S27 Ultra 大体延续 Galaxy S26 Ultra 的设计，最大变化是摄像头模组。渲染图显示三星将原本沿机身左侧纵向排列的镜头，…",
-          "keyPoints": [
-            "外观 / 配色 / 尺寸",
-            "影像硬件"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
         {
           "id": "auto-e3f9dc466a73",
           "title": "iPhone 芯片 / 性能相关消息",
@@ -83,6 +59,29 @@ window.phoneRadarDaily = {
           "detail": "iPhone 发布 / 上市相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
           "keyPoints": [
             "爆料"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "newsnow-5eb84cb88c75",
+          "title": "要是那些2nm芯片，打不过3nm的玄戒O3，那就真成行业奇观了[捂脸] #小米18Fold# #玄戒O3# #REDMIK100ProMax#",
+          "originalTitle": "",
+          "source": "酷安热榜",
+          "brand": "Xiaomi",
+          "type": "爆料",
+          "trust": "高关注爆料源",
+          "date": "2026-08-26",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://www.coolapk.com/feed/73424237",
+          "image": "",
+          "verdict": "先看",
+          "takeaway": "要是那些2nm芯片，打不过3nm的玄戒O3，那就真成行业奇观了[捂脸] #小米18Fold# #玄戒O3# #REDMIK100ProMax#",
+          "detail": "要是那些2nm芯片，打不过3nm的玄戒O3，那就真成行业奇观了[捂脸] #小米18Fold# #玄戒O3# #REDMIK100ProMax#",
+          "keyPoints": [
+            "芯片 / 性能"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
@@ -136,6 +135,30 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
+          "id": "coolapk-user-04678b414e45",
+          "title": "竹本青：【vivo X500 Pro Max 官方爆料：X300 Ultra同款三星HP0潜望长焦】 ▫️1/1.4\" 蓝…",
+          "originalTitle": "",
+          "source": "竹本青",
+          "brand": "Samsung",
+          "type": "爆料",
+          "trust": "高可信爆料",
+          "date": "2026-08-26",
+          "time": "02:06",
+          "publishedAt": "2026-08-26T02:06:39.000Z",
+          "url": "https://www.coolapk.com/feed/73432613",
+          "image": "http://image.coolapk.com/feed/2026/0826/10/4248714_e34fdb5e_9998_4423_698@1440x2003.jpg",
+          "verdict": "先看",
+          "takeaway": "【vivo X500 Pro Max 官方爆料：X300 Ultra同款三星HP0潜望长焦】 ▫️1/1.4\" 蓝图×三星HP0，X300 Ultra同款 ▫️支持硬件4×isz ▫️云端增强放进相机入口 ▫️支持Ultra同款400mm增距镜 ▫️CIPA 7.0专业级防抖 ▫️超级抓拍引擎，至高30X抓拍 #今日热点# #vivoX500ProMax#…",
+          "detail": "【vivo X500 Pro Max 官方爆料：X300 Ultra同款三星HP0潜望长焦】 ▫️1/1.4\" 蓝图×三星HP0，X300 Ultra同款 ▫️支持硬件4×isz ▫️云端增强放进相机入口 ▫️支持Ultra同款400mm增距镜 ▫️CIPA 7.0专业级防抖 ▫️超级抓拍引擎，至高30X抓拍 #今日热点# #vivoX500ProMax#…",
+          "keyPoints": [
+            "影像硬件",
+            "爆料来源"
+          ],
+          "confidence": "可信度较高，但仍属于发布前线索。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
           "id": "auto-54746446fda2",
           "title": "HMD Salo 手机曝光：面向 B 端市场，搭骁龙 4 Gen 2 处理器",
           "originalTitle": "",
@@ -159,45 +182,25 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
-          "id": "weibo-6b52a133174f",
-          "title": "数码闲聊站：刚刚确认了一下，骁龙下一代旗舰芯的定频就是5.0GHz，全球首个5GHz手机C…",
+          "id": "weibo-70c316056259",
+          "title": "数码闲聊站：独家信息：10000mAh±巨容量电池，骁龙8E处理器，1.5K超高刷大直屏，…",
           "originalTitle": "",
           "source": "数码闲聊站",
           "brand": "行业",
           "type": "爆料",
           "trust": "高关注爆料源",
-          "date": "2026-08-25",
-          "time": "12:50",
-          "publishedAt": "2026-08-25T12:50:02.000Z",
-          "url": "https://weibo.com/6048569942/Rf42hfySg",
+          "date": "2026-08-26",
+          "time": "02:38",
+          "publishedAt": "2026-08-26T02:38:00.000Z",
+          "url": "https://weibo.com/6048569942/Rf9sm0IM0",
           "image": "",
           "verdict": "先看",
-          "takeaway": "刚刚确认了一下，骁龙下一代旗舰芯的定频就是5.0GHz，全球首个5GHz手机CPU，SM8950/SM8975双旗舰芯齐发，架构设计很哈人。 之前说过这代缓存也有调整，L2做成了共享缓存架构，配合每核大L1指令缓存，理论上能显著降低跨核心任务切换延迟，完全就是为Agent而生[笑而不语]",
-          "detail": "刚刚确认了一下，骁龙下一代旗舰芯的定频就是5.0GHz，全球首个5GHz手机CPU，SM8950/SM8975双旗舰芯齐发，架构设计很哈人。 之前说过这代缓存也有调整，L2做成了共享缓存架构，配合每核大L1指令缓存，理论上能显著降低跨核心任务切换延迟，完全就是为Agent而生[笑而不语]",
+          "takeaway": "独家信息，10000mAh±巨容量电池，骁龙8E处理器，1.5K超高刷大直屏，子系这套配置够用吧~",
+          "detail": "独家信息，10000mAh±巨容量电池，骁龙8E处理器，1.5K超高刷大直屏，子系这套配置够用吧~",
           "keyPoints": [
-            "爆料来源"
-          ],
-          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "weibo-ddcbaf6429f3",
-          "title": "数码闲聊站：华为Mate XT2三折叠定档9.7，又被我猜对了[doge] 之前说三折叠不…",
-          "originalTitle": "",
-          "source": "数码闲聊站",
-          "brand": "Huawei",
-          "type": "爆料",
-          "trust": "高关注爆料源",
-          "date": "2026-08-25",
-          "time": "01:42",
-          "publishedAt": "2026-08-25T01:42:27.000Z",
-          "url": "https://weibo.com/6048569942/ReZFjcorQ",
-          "image": "https://tvax3.sinaimg.cn/mw2000/006BlblIly1igft5ct4hmj30xv0a8jur.jpg",
-          "verdict": "先看",
-          "takeaway": "华为Mate XT2三折叠定档9.7，又被我猜对了[doge] 之前说三折叠不会和Mate90系列一起发，还有人不信。另外同期还有阔直板，阔直板是K9030S",
-          "detail": "华为Mate XT2三折叠定档9.7，又被我猜对了[doge] 之前说三折叠不会和Mate90系列一起发，还有人不信。另外同期还有阔直板，阔直板是K9030S",
-          "keyPoints": [
+            "屏幕形态",
+            "电池 / 充电",
+            "芯片 / 性能",
             "爆料来源"
           ],
           "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
@@ -379,77 +382,6 @@ window.phoneRadarDaily = {
           "confidence": "官方内容，可直接作为已确认信息记录。",
           "impact": "可信度高，但如果不是配置/价格消息，只需要扫一眼。",
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
-        {
-          "id": "auto-b739f1dc95d9",
-          "title": "Galaxy S26 FE 系统功能 / AI 体验相关消息",
-          "originalTitle": "",
-          "source": "Android Authority",
-          "brand": "Samsung",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-08-25",
-          "time": "19:26",
-          "publishedAt": "2026-08-25T19:26:24.000Z",
-          "url": "https://www.androidauthority.com/samsung-galaxy-s26-fe-cases-3702917/",
-          "image": "https://www.androidauthority.com/wp-content/uploads/2025/09/Samsung-Galaxy-S25-FE-in-Navy-standing-on-book-shelf.jpg",
-          "verdict": "可略过",
-          "takeaway": "Samsung 有系统功能或 AI 体验更新，适合关注后续是否影响日常使用。",
-          "detail": "Galaxy S26 FE 系统功能 / AI 体验相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
-        {
-          "id": "auto-048da144249c",
-          "title": "Pixel 11 发布 / 上市相关消息",
-          "originalTitle": "",
-          "source": "9to5Google",
-          "brand": "Pixel",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-08-25",
-          "time": "18:35",
-          "publishedAt": "2026-08-25T18:35:13.000Z",
-          "url": "https://9to5google.com/2026/08/25/pixel-11-post-launch-deals/",
-          "image": "",
-          "verdict": "可略过",
-          "takeaway": "Pixel 有发布或新功能消息，适合确认是否和新机有关。",
-          "detail": "Pixel 11 发布 / 上市相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
-        {
-          "id": "auto-7ee627e584e6",
-          "title": "Xiaomi 影像能力相关消息",
-          "originalTitle": "",
-          "source": "Gizmochina",
-          "brand": "Xiaomi",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-08-25",
-          "time": "16:33",
-          "publishedAt": "2026-08-25T16:33:09.000Z",
-          "url": "https://www.gizmochina.com/2026/08/25/redmi-17c-5g-launched-price-specifications/",
-          "image": "https://www.gizmochina.com/wp-content/uploads/2026/08/Redmi-17C-5G_-300x179.jpg?x23692",
-          "verdict": "可略过",
-          "takeaway": "Xiaomi 影像能力相关宣传或案例，主要看是否透露拍摄能力变化。",
-          "detail": "Xiaomi 影像能力相关消息。重点看影像功能是否和新机硬件有关，如果只是拍摄案例或营销内容，参考价值会低一些。",
-          "keyPoints": [
-            "影像硬件",
-            "屏幕形态",
-            "电池 / 充电"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "影响日常体验，尤其是游戏、拍照和长时间使用。",
-          "action": "有具体参数就记录到参数库；没有参数就先收藏。"
         }
       ]
     },
@@ -478,29 +410,6 @@ window.phoneRadarDaily = {
             "爆料"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
-        {
-          "id": "coolapk-user-3db85aeb33f1",
-          "title": "竹本青：【百米田径8秒94，荣耀机器人闪电再次打破人类世界纪录】 荣耀公司今天宣布，旗下机器人闪电在第二届世界人形机器人运…",
-          "originalTitle": "",
-          "source": "竹本青",
-          "brand": "HONOR",
-          "type": "爆料",
-          "trust": "高可信爆料",
-          "date": "2026-08-25",
-          "time": "12:42",
-          "publishedAt": "2026-08-25T12:42:59.000Z",
-          "url": "https://www.coolapk.com/feed/73426027",
-          "image": "http://image.coolapk.com/feed/2026/0825/20/4248714_fe87093c_1777_7455_33@2000x3556.jpg",
-          "verdict": "扫一眼",
-          "takeaway": "【百米田径8秒94，荣耀机器人闪电再次打破人类世界纪录】 荣耀公司今天宣布，旗下机器人闪电在第二届世界人形机器人运动会，百米田径大型组项目中跑出8秒94，再次打破人类世界纪录。 #今日热点# #机器人# #荣耀#",
-          "detail": "【百米田径8秒94，荣耀机器人闪电再次打破人类世界纪录】 荣耀公司今天宣布，旗下机器人闪电在第二届世界人形机器人运动会，百米田径大型组项目中跑出8秒94，再次打破人类世界纪录。 #今日热点# #机器人# #荣耀#",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "可信度较高，但仍属于发布前线索。",
           "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         },

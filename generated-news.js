@@ -1,6 +1,126 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-08-26T01:57:20.453Z",
+  "updatedAt": "2026-08-26T03:17:05.293Z",
   "news": [
+    {
+      "id": "coolapk-user-2c7f51758791",
+      "title": "竹本青：【vivo X500/X500 Pro 长焦型号公布：全新6400万索尼LYTIA610】 ● 蔡司6400万 蓝…",
+      "source": "竹本青",
+      "brand": "vivo",
+      "model": "vivo 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-08-26",
+      "time": "03:02",
+      "publishedAt": "2026-08-26T03:02:44.000Z",
+      "url": "https://www.coolapk.com/feed/73433484",
+      "image": "http://image.coolapk.com/feed/2026/0826/11/4248714_a353414d_3363_3698_606@2000x2667.jpg",
+      "summary": "【vivo X500/X500 Pro 长焦型号公布：全新6400万索尼LYTIA610】 ● 蔡司6400万 蓝图×索尼LYTIA610 APO长焦 （X500标准版同款） ● 85mm GG1×1 RB2×2 创新设计 ● CIPA 7.0专业级防抖 ● 对焦更快，长焦视频追焦更稳 ● 4K 120fps慢动作、4K 60fps HDR直出 #今日热点…",
+      "tags": [
+        "vivo",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "weibo-70c316056259",
+      "title": "数码闲聊站：独家信息：10000mAh±巨容量电池，骁龙8E处理器，1.5K超高刷大直屏，…",
+      "source": "数码闲聊站",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-08-26",
+      "time": "02:38",
+      "publishedAt": "2026-08-26T02:38:00.000Z",
+      "url": "https://weibo.com/6048569942/Rf9sm0IM0",
+      "image": "",
+      "summary": "独家信息，10000mAh±巨容量电池，骁龙8E处理器，1.5K超高刷大直屏，子系这套配置够用吧~",
+      "tags": [
+        "行业",
+        "爆料",
+        "微博"
+      ]
+    },
+    {
+      "id": "auto-34778642d67a",
+      "title": "小米智能摄像机视频通话版 2 单机开启众筹：3.97 英寸彩屏、支持手势呼叫，429 元",
+      "source": "IT之家",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-26",
+      "time": "02:35",
+      "publishedAt": "2026-08-26T02:35:34.000Z",
+      "url": "https://www.ithome.com/0/994/402.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/8/944a70a9-3a07-4789-9608-1796d35c1738.jpg?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 8 月 26 日消息，小米智能摄像机视频通话版 2 单机现已在小米有品开启众筹（ 点击前往 ），首发价 429 元。 该机配备 3.97 英寸 480x800 分辨率彩屏。具备大按键面积，按压感清晰，反应更灵敏，方便老人小孩操作。摄像机与手机、摄像机与摄像机之间均可双向视频通话，操作简单的同时，使用场景更丰富。 新品支持手势呼叫、一键呼叫、联动呼…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-f440843b8057",
+      "title": "中国地震局回应成都高新减灾研究所误报 7.7 级地震：地震部门曾多次约谈并要求严肃整改",
+      "source": "IT之家",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-26",
+      "time": "02:15",
+      "publishedAt": "2026-08-26T02:15:42.000Z",
+      "url": "https://www.ithome.com/0/994/376.htm",
+      "image": "",
+      "summary": "IT之家 8 月 26 日消息，2026 年 8 月 24 日 8 时 26 分，四川宜宾市长宁县发生 4.7 级地震。中国地震预警网震后 6 秒通过微信小程序、华为手机、小米手机和地震预警专用终端等渠道，向震中周边区域 1,000 余万用户推送了官方地震预警信息。此事引发公众广泛关注。 据央视新闻报道，中国地震局今日针对三方面问题进行回应。 中国地震局表…",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-04678b414e45",
+      "title": "竹本青：【vivo X500 Pro Max 官方爆料：X300 Ultra同款三星HP0潜望长焦】 ▫️1/1.4\" 蓝…",
+      "source": "竹本青",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-08-26",
+      "time": "02:06",
+      "publishedAt": "2026-08-26T02:06:39.000Z",
+      "url": "https://www.coolapk.com/feed/73432613",
+      "image": "http://image.coolapk.com/feed/2026/0826/10/4248714_e34fdb5e_9998_4423_698@1440x2003.jpg",
+      "summary": "【vivo X500 Pro Max 官方爆料：X300 Ultra同款三星HP0潜望长焦】 ▫️1/1.4\" 蓝图×三星HP0，X300 Ultra同款 ▫️支持硬件4×isz ▫️云端增强放进相机入口 ▫️支持Ultra同款400mm增距镜 ▫️CIPA 7.0专业级防抖 ▫️超级抓拍引擎，至高30X抓拍 #今日热点# #vivoX500ProMax#…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "coolapk-user-a959daff0c73",
+      "title": "JSCHEN小小狐：vivo X500 Pro Max 官宣搭载三星 HP0 潜望",
+      "source": "JSCHEN小小狐",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-08-26",
+      "time": "02:03",
+      "publishedAt": "2026-08-26T02:03:27.000Z",
+      "url": "https://www.coolapk.com/feed/73432570",
+      "image": "http://image.coolapk.com/feed/2026/0826/10/4702274_e0b92235_9787_1672_731@2494x3325.jpg",
+      "summary": "『vivo X500 Pro Max 官宣搭载三星 HP0 潜望』 蔡司 2 亿 APO 超级长焦 ◇ X300 Ultra 同款蓝图 × 三星 HP0 ◇ 200Mp 1/1.4''｜支持硬件 4× ISZ ◇ 支持 G2 Ultra 400mm 增距镜 ◇ 行业最强 CIPA 7.0 专业级防抖 ◇ 超级抓拍引擎：至高 30X 抓拍 #今日热点# #v…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "酷安博主"
+      ]
+    },
     {
       "id": "auto-ec4e770f5df9",
       "title": "深圳皇岗海关查获进境客车夹藏旧手机 23 台",
@@ -102,6 +222,26 @@ window.phoneRadarAuto = {
       ]
     },
     {
+      "id": "newsnow-5eb84cb88c75",
+      "title": "要是那些2nm芯片，打不过3nm的玄戒O3，那就真成行业奇观了[捂脸] #小米18Fold# #玄戒O3# #REDMIK100ProMax#",
+      "source": "酷安热榜",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-08-26",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/73424237",
+      "image": "",
+      "summary": "要是那些2nm芯片，打不过3nm的玄戒O3，那就真成行业奇观了[捂脸] #小米18Fold# #玄戒O3# #REDMIK100ProMax#",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
       "id": "newsnow-f6feac5fc363",
       "title": "小米的首发权益只换不修真是被不少人薅了不少羊毛。刷抖音刷到好多用了快一年，随便编个理由，录个bug视频，就能换个新手机了。其实录这种故障视频实在太简单了，只要让手机发热严重，闪退，重启，卡死的界面随便都会有一个复现岀来。这个只换不修权益初心是好的，本就是为了回馈支持小米的首发用户，一年内岀现质量问题直接换新，可是算漏了人心，包括我在内，一开始我也被煽动了想换，后来我想想自己这台手机实在挑不出毛病，日常用得也不错，就是打王者开小窗发热，所以就没做这种事情。想想苹果售后以前也这样，好好的福利权益被谋利之人薅没了。导致后面真正岀现问题的机主售被各种限制。委屈了真正需要的用户。#小米17Pro# #小米17Ultra# #小米17#",
       "source": "酷安热榜",
@@ -175,26 +315,6 @@ window.phoneRadarAuto = {
       "url": "https://www.sammobile.com/opinion/hot-take-i-wish-galaxy-z-fold-8-had-one-fewer-selfie-camera/",
       "image": "https://www.sammobile.com/wp-content/uploads/2026/07/2-Galaxy-Z-Fold-8-main-display-1920x1080.jpg",
       "summary": "Using the proverb “less is more” feels risky in a world where many people believe big tech companies and their products offer less value for money each year. Still, the adage fits…",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-92cfe0cd6f91",
-      "title": "三星 Galaxy S27 Ultra 手机渲染图曝光：背面相机模组迎最大变化，保留 S Pen 插槽",
-      "source": "IT之家",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-25",
-      "time": "22:45",
-      "publishedAt": "2026-08-25T22:45:48.000Z",
-      "url": "https://www.ithome.com/0/994/290.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/8/1e3c70f6-b16d-4906-9e39-13168bc9af1e.png?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 8 月 26 日消息，科技媒体 Android Headline 昨日（8 月 25 日）发布博文， 分享了一组渲染图，展示了三星 Galaxy S27 Ultra 旗舰手机。 外观方面，三星 Galaxy S27 Ultra 大体延续 Galaxy S26 Ultra 的设计，最大变化是摄像头模组。渲染图显示三星将原本沿机身左侧纵向排列的镜头，…",
       "tags": [
         "Samsung",
         "爆料",
@@ -579,26 +699,6 @@ window.phoneRadarAuto = {
         "行业",
         "爆料",
         "微博"
-      ]
-    },
-    {
-      "id": "coolapk-user-3db85aeb33f1",
-      "title": "竹本青：【百米田径8秒94，荣耀机器人闪电再次打破人类世界纪录】 荣耀公司今天宣布，旗下机器人闪电在第二届世界人形机器人运…",
-      "source": "竹本青",
-      "brand": "HONOR",
-      "model": "HONOR 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-08-25",
-      "time": "12:42",
-      "publishedAt": "2026-08-25T12:42:59.000Z",
-      "url": "https://www.coolapk.com/feed/73426027",
-      "image": "http://image.coolapk.com/feed/2026/0825/20/4248714_fe87093c_1777_7455_33@2000x3556.jpg",
-      "summary": "【百米田径8秒94，荣耀机器人闪电再次打破人类世界纪录】 荣耀公司今天宣布，旗下机器人闪电在第二届世界人形机器人运动会，百米田径大型组项目中跑出8秒94，再次打破人类世界纪录。 #今日热点# #机器人# #荣耀#",
-      "tags": [
-        "HONOR",
-        "爆料",
-        "酷安博主"
       ]
     },
     {
