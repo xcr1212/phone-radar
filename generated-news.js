@@ -1,6 +1,146 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-08-26T10:51:04.849Z",
+  "updatedAt": "2026-08-26T13:15:31.457Z",
   "news": [
+    {
+      "id": "auto-f2be70b9a053",
+      "title": "75% of US Adults Aren't Interested in a Foldable iPhone",
+      "source": "MacRumors",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-26",
+      "time": "12:53",
+      "publishedAt": "2026-08-26T12:53:46.000Z",
+      "url": "https://www.macrumors.com/2026/08/26/most-arent-interested-in-a-foldable-iphone/",
+      "image": "https://images.macrumors.com/article-new/2025/03/Foldable-iPhone-2023-Feature-Iridescent-1.jpg",
+      "summary": "Three out of four U.S. adults say they have no interest in buying a foldable iPhone, according to a new survey from CNET . CNET 's survey was conducted online by YouGov between Au…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-9811bbc78f97",
+      "title": "If you have a Pixel 11 Pro XL, you need to turn on this hidden feature to boost your charging time",
+      "source": "Android Central",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-08-26",
+      "time": "11:50",
+      "publishedAt": "2026-08-26T11:50:00.000Z",
+      "url": "https://www.androidcentral.com/phones/google-pixel/google-pixel-11-extreme-charging",
+      "image": "https://cdn.mos.cms.futurecdn.net/iKydhnCmFnXxseEYTSXa9Y-1280-80.jpg",
+      "summary": "Extreme Charging for the Google Pixel 11 series promises faster charging, but does it deliver? Find out the results and how to use it here.",
+      "tags": [
+        "Pixel",
+        "评测",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-fdc105112e70",
+      "title": "Instagram can now create Reels automatically – but Meta doesn’t want to upset creators",
+      "source": "9to5Mac",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-26",
+      "time": "11:43",
+      "publishedAt": "2026-08-26T11:43:14.000Z",
+      "url": "https://9to5mac.com/2026/08/26/instagram-can-now-create-reels-automatically-but-meta-doesnt-want-to-upset-creators/",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/Instagram-can-now-create-Reels-automatically-–-but-Meta-doesnt-want-to-upset-creators.jpg?quality=82&strip=all&w=1600",
+      "summary": "Instagram now has a new iPhone-exclusive feature that can create reels automatically. You just select your video clips and it creates an edit with a single tap. However, Meta is b…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-06804abe8d18",
+      "title": "Alleged Foldable iPhone Motherboard Photos Surface Online",
+      "source": "MacRumors",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-26",
+      "time": "11:34",
+      "publishedAt": "2026-08-26T11:34:00.000Z",
+      "url": "https://www.macrumors.com/2026/08/26/foldable-iphone-motherboard-photos-surface/",
+      "image": "https://images.macrumors.com/article-new/2026/08/foldable-iphone-boards.jpeg",
+      "summary": "Images and video claiming to show circuitry from Apple's upcoming foldable iPhone are circulating on X and Chinese social media platforms. For example, on X, the user \" LusiRoy7 \"…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-80513980feb3",
+      "title": "Should you buy the Google Pixel 11 Pro Fold?",
+      "source": "Android Central",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-08-26",
+      "time": "11:24",
+      "publishedAt": "2026-08-26T11:24:48.000Z",
+      "url": "https://www.androidcentral.com/phones/google-pixel/should-you-buy-the-google-pixel-11-pro-fold",
+      "image": "https://cdn.mos.cms.futurecdn.net/WBJj6auZhcwakcrCGAcDcd-1280-80.jpg",
+      "summary": "The Pixel 11 Pro Fold may not look like much of an upgrade, but it has a lot to like if you're a Pixel fan.",
+      "tags": [
+        "Pixel",
+        "评测",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-1b99984d6d15",
+      "title": "25% of US adults are interested in the iPhone Ultra – but won’t pay for it",
+      "source": "9to5Mac",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-26",
+      "time": "11:23",
+      "publishedAt": "2026-08-26T11:23:25.000Z",
+      "url": "https://9to5mac.com/2026/08/26/25-of-us-adults-are-interested-in-the-iphone-ultra-but-wont-pay-for-it/",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/03/iphone-fold-mockup-blue.jpg?quality=82&strip=all&w=1600",
+      "summary": "Sometimes a headline is the complete inverse of the real news in the story, and that’s the case with a new survey measuring interest in the upcoming iPhone Ultra . The headline sa…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-b3ed03c06093",
+      "title": "真我新机 realme P4s 印度发布：144Hz 高刷屏、8000mAh 电池，3.5 万卢比起售",
+      "source": "IT之家",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-26",
+      "time": "11:20",
+      "publishedAt": "2026-08-26T11:20:14.000Z",
+      "url": "https://www.ithome.com/0/994/715.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/8/f5d343db-65f1-4503-aad8-644ab0d91360.jpg?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 8 月 26 日消息，真我今天在印度发布了最新机型 realme P4s，目前 P4 系列已经拥有超过 6 款智能手机产品。 P4s 采用 三星供应的 6.77 英寸 144Hz AMOLED 屏幕 ，基于 M14 OLED 技术打造，覆盖 AGC DT Star D+ 玻璃，分辨率 2772×1272，峰值亮度 6500 尼特，并支持 HDR1…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "weibo-79704a1ec658",
       "title": "数码闲聊站：9.7疑似有3场发布会，都是TOP5手机大厂……[哆啦A梦害怕]",
@@ -262,26 +402,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-8c7d29817fde",
-      "title": "工信部：鸿蒙手机操作系统成为世界第三大手机操作系统，开源鸿蒙生态设备累计超 13.5 亿台",
-      "source": "IT之家",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-26",
-      "time": "08:42",
-      "publishedAt": "2026-08-26T08:42:37.000Z",
-      "url": "https://www.ithome.com/0/994/630.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/8/1fcc89fb-3921-4dbe-9113-a7414a8c7be5.jpg?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 8 月 26 日消息，国务院新闻办公室今日举行“开局起步‘十五五’”系列主题新闻发布会，介绍全力抓好“十五五”规划实施，加快推进新型工业化有关情况。 工业和信息化部信息通信发展司司长刘郁林在回答相关提问时表示，基础软件是数字社会的“基石”，工业软件是制造业数字化转型的“灵魂”。“十四五”以来，我国基础软件和工业软件的供给能力和应用水平大幅提升。…",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "coolapk-user-5cb4c3c23a7c",
       "title": "JSCHEN小小狐：OPPO Find X10 系列命名曝光：含三款机型",
       "source": "JSCHEN小小狐",
@@ -299,46 +419,6 @@ window.phoneRadarAuto = {
         "OPPO",
         "爆料",
         "酷安博主"
-      ]
-    },
-    {
-      "id": "auto-8958ebe24d54",
-      "title": "vivo X500 Pro Max 手机搭载蔡司 2 亿 APO 超级长焦：X300 Ultra 同款传感器，1/1.4\" 三星 HP0",
-      "source": "IT之家",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-26",
-      "time": "07:54",
-      "publishedAt": "2026-08-26T07:54:12.000Z",
-      "url": "https://www.ithome.com/0/994/579.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/8/a77bedf3-46e5-4034-bd81-78f7a3d95690.jpg?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 8 月 26 日消息，vivo 通信科技有限公司产品经理韩伯啸今日宣布，vivo X500 Pro Max 手机搭载蔡司 2 亿 APO 超级长焦，传感器为 X300 Ultra 同款 ， 1/1.4\" 蓝图 × 三星 HP0 。 韩伯啸表示，传感器支持 硬件 4 × isz ，能实现两次无损变焦，2 亿像素做长焦的价值才能发挥出来。此外，本代新…",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-940d4a7d126a",
-      "title": "小米澎湃 OS 4 相机美学焕新：深度对齐系统设计体系，非 Xiaomi 17 Ultra 徕卡版机型可体验",
-      "source": "IT之家",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-26",
-      "time": "07:42",
-      "publishedAt": "2026-08-26T07:42:23.000Z",
-      "url": "https://www.ithome.com/0/994/573.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/8/7bc2a3ba-a4e5-403c-a9e4-d53106ffb6a4.jpg?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 8 月 26 日消息，小米相机部的产品经理 @Bao_小李 今日宣布，小米澎湃 OS 4 相机整体都做了美学焕新， 深度对齐系统设计体系，统一字体、重绘图标 。 需要注意的是， 这次改动升级只针对「非 Xiaomi 17 Ultra 徕卡版 」生效 。 小米相机部的产品经理 @Bao_小李 解释称，小米 17 Ultra 徕卡版本的相机软件整体设…",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "自动抓取"
       ]
     },
     {
@@ -394,7 +474,7 @@ window.phoneRadarAuto = {
       "publishedAt": "2026-08-26T05:43:52.000Z",
       "url": "https://www.gizmochina.com/2026/08/26/xiaomi-18-fold-first-real-life-images-leak-revealing-design/",
       "image": "https://www.gizmochina.com/wp-content/uploads/2026/08/Xiaomi-18-Fold-design-leaks-300x200.jpg?x23692",
-      "summary": "New photos claiming to show the Xiaomi 18 Fold have started circulating online, and they look similar to a phone Xiaomi CEO Lei Jun was seen holding earlier this week. The phone i…",
+      "summary": "New photos claiming to show the Xiaomi 18 Fold have started circulating online, and they look similar to a phone Xiaomi CEO Lei Jun was seen holding earlier this week. Also ReadTh…",
       "tags": [
         "Xiaomi",
         "爆料",
@@ -622,26 +702,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-f6feac5fc363",
-      "title": "小米的首发权益只换不修真是被不少人薅了不少羊毛。刷抖音刷到好多用了快一年，随便编个理由，录个bug视频，就能换个新手机了。其实录这种故障视频实在太简单了，只要让手机发热严重，闪退，重启，卡死的界面随便都会有一个复现岀来。这个只换不修权益初心是好的，本就是为了回馈支持小米的首发用户，一年内岀现质量问题直接换新，可是算漏了人心，包括我在内，一开始我也被煽动了想换，后来我想想自己这台手机实在挑不出毛病，日常用得也不错，就是打王者开小窗发热，所以就没做这种事情。想想苹果售后以前也这样，好好的福利权益被谋利之人薅没了。导致后面真正岀现问题的机主售被各种限制。委屈了真正需要的用户。#小米17Pro# #小米17Ultra# #小米17#",
-      "source": "酷安热榜",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-08-26",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73403441",
-      "image": "",
-      "summary": "小米的首发权益只换不修真是被不少人薅了不少羊毛。刷抖音刷到好多用了快一年，随便编个理由，录个bug视频，就能换个新手机了。其实录这种故障视频实在太简单了，只要让手机发热严重，闪退，重启，卡死的界面随便都会有一个复现岀来。这个只换不修权益初心是好的，本就是为了回馈支持小米的首发用户，一年内岀现质量问题直接换新，可是算漏了人心，包括我在内，一开始我也被煽动了想…",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
       "id": "newsnow-e019e39f398e",
       "title": "智界高管：现在不买 L3 就像当年不买 5G 手机",
       "source": "酷安热榜",
@@ -662,6 +722,26 @@ window.phoneRadarAuto = {
       ]
     },
     {
+      "id": "newsnow-f6feac5fc363",
+      "title": "小米的首发权益只换不修真是被不少人薅了不少羊毛。刷抖音刷到好多用了快一年，随便编个理由，录个bug视频，就能换个新手机了。其实录这种故障视频实在太简单了，只要让手机发热严重，闪退，重启，卡死的界面随便都会有一个复现岀来。这个只换不修权益初心是好的，本就是为了回馈支持小米的首发用户，一年内岀现质量问题直接换新，可是算漏了人心，包括我在内，一开始我也被煽动了想换，后来我想想自己这台手机实在挑不出毛病，日常用得也不错，就是打王者开小窗发热，所以就没做这种事情。想想苹果售后以前也这样，好好的福利权益被谋利之人薅没了。导致后面真正岀现问题的机主售被各种限制。委屈了真正需要的用户。#小米17Pro# #小米17Ultra# #小米17#",
+      "source": "酷安热榜",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-08-26",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/73403441",
+      "image": "",
+      "summary": "小米的首发权益只换不修真是被不少人薅了不少羊毛。刷抖音刷到好多用了快一年，随便编个理由，录个bug视频，就能换个新手机了。其实录这种故障视频实在太简单了，只要让手机发热严重，闪退，重启，卡死的界面随便都会有一个复现岀来。这个只换不修权益初心是好的，本就是为了回馈支持小米的首发用户，一年内岀现质量问题直接换新，可是算漏了人心，包括我在内，一开始我也被煽动了想…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
       "id": "newsnow-8c5ccfaebd10",
       "title": "三星 Galaxy S27 Ultra CAD渲染图曝光：后摄模组大改",
       "source": "酷安热榜",
@@ -677,26 +757,6 @@ window.phoneRadarAuto = {
       "summary": "三星 Galaxy S27 Ultra CAD渲染图曝光：后摄模组大改",
       "tags": [
         "Samsung",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-a1fa74653404",
-      "title": "鸿蒙成世界第三大手机操作系统",
-      "source": "微博热搜",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "待验证",
-      "date": "2026-08-26",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://s.weibo.com/weibo?q=%E9%B8%BF%E8%92%99%E6%88%90%E4%B8%96%E7%95%8C%E7%AC%AC%E4%B8%89%E5%A4%A7%E6%89%8B%E6%9C%BA%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F&t=31&band_rank=19&Refer=top",
-      "image": "",
-      "summary": "鸿蒙成世界第三大手机操作系统",
-      "tags": [
-        "Huawei",
         "爆料",
         "NewsNow"
       ]
@@ -1022,26 +1082,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-384cd75a6a4b",
-      "title": "Galaxy S27 Ultra leak reveals a massive horizontal camera bar redesign",
-      "source": "SamMobile",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-25",
-      "time": "14:17",
-      "publishedAt": "2026-08-25T14:17:06.000Z",
-      "url": "https://www.sammobile.com/news/galaxy-s27-ultra-design-leaks-rectangular-camera-bar/",
-      "image": "https://www.sammobile.com/wp-content/uploads/2026/08/Samsung-Galaxy-S27-Ultra-Design-Final-CAD-Render-Black.jpg",
-      "summary": "Over the past few days, several reports have claimed that Samsung is bringing a major redesign with the Galaxy S27 Ultra. Now, a new leak has almost confirmed that change. It appe…",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-983758d6d787",
       "title": "Galaxy S27 Ultra’s major redesign detailed in new renders, price hike rumored",
       "source": "9to5Google",
@@ -1099,46 +1139,6 @@ window.phoneRadarAuto = {
         "行业",
         "爆料",
         "微博"
-      ]
-    },
-    {
-      "id": "auto-56c238e9b8bf",
-      "title": "iPhone Trade-In Values Slide Ahead of New Model Launch",
-      "source": "MacRumors",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-25",
-      "time": "11:27",
-      "publishedAt": "2026-08-25T11:27:41.000Z",
-      "url": "https://www.macrumors.com/2026/08/25/iphone-trade-in-values-slide-ahead-of-launch/",
-      "image": "https://images.macrumors.com/article-new/2024/05/apple-trade-in-2024.jpg",
-      "summary": "Ahead of the announcement of the iPhone 18 Pro , &zwnj;iPhone 18 Pro&zwnj; Max, and first foldable iPhone next month, a new study from trade-in comparison site SellCell finds that…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-dafe156463d7",
-      "title": "Affordable Huawei Pura 90 could launch alongside 2026 tri-fold",
-      "source": "Huawei Central",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-25",
-      "time": "10:56",
-      "publishedAt": "2026-08-25T10:56:58.000Z",
-      "url": "https://www.huaweicentral.com/affordable-huawei-pura-90-could-launch-alongside-2026-tri-fold/",
-      "image": "https://www.huaweicentral.com/wp-content/uploads/2026/04/huawei-pura-90-pro-max-img1-2.jpg",
-      "summary": "Huawei is seemingly gearing up for a more affordable Pura 90 flagship and may launch it alongside the Mate XT 2 triple-foldable on September 7. A new leak suggests that the compan…",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "自动抓取"
       ]
     },
     {
