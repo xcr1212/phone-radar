@@ -1,6 +1,86 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-08-26T20:01:22.074Z",
+  "updatedAt": "2026-08-26T23:31:20.971Z",
   "news": [
+    {
+      "id": "auto-f40650717b3c",
+      "title": "Galaxy S27 Ultra leak reveals the 7,000mAh battery Samsung reportedly rejected",
+      "source": "Android Police",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-26",
+      "time": "23:08",
+      "publishedAt": "2026-08-26T23:08:58.000Z",
+      "url": "https://www.androidpolice.com/the-galaxy-s27-ultra-could-have-arrived-with-a-7000mah-battery/",
+      "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2026/08/this-is-the-galaxy-s26-ultra-2-26-screenshot.png",
+      "summary": "We can always dream",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-a0bc51630523",
+      "title": "Review: Google’s Pixel 11 Pro Fold just barely keeps up",
+      "source": "9to5Google",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-26",
+      "time": "21:40",
+      "publishedAt": "2026-08-26T21:40:00.000Z",
+      "url": "https://9to5google.com/2026/08/26/google-pixel-11-pro-fold-review/",
+      "image": "",
+      "summary": "The foldable market has been moving fast, with hardware and software we saw just a few years ago having been completely rethought and drastically improved. In the middle of it all…",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-212d39786a55",
+      "title": "Here’s how many foldable iPhones IDC expects Apple to ship in one year",
+      "source": "9to5Mac",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-26",
+      "time": "21:13",
+      "publishedAt": "2026-08-26T21:13:32.000Z",
+      "url": "https://9to5mac.com/2026/08/26/heres-how-many-foldable-iphones-idc-expects-apple-to-ship-in-one-year/",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/03/iphone-fold-mockup-blue.jpg?quality=82&strip=all&w=1600",
+      "summary": "As Apple reportedly gears up to announce its first foldable iPhone on September 9, Bloomberg reports that IDC has a bullish outlook on the device’s performance during its first ye…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-60eb7172f826",
+      "title": "Counterpoint: iPhone 17 topped worldwide smartphone sales during Q2",
+      "source": "9to5Mac",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-26",
+      "time": "20:07",
+      "publishedAt": "2026-08-26T20:07:02.000Z",
+      "url": "https://9to5mac.com/2026/08/26/counterpoint-iphone-17-topped-worldwide-smartphone-sales-during-q2/",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/iphone-17-purple-hand.jpg?quality=82&strip=all&w=1600",
+      "summary": "In a report published today, Counterpoint Research says Apple once again secured five spots among the world’s 10 best-selling smartphones during the second quarter of 2026. Here a…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-95162d13b334",
       "title": "Maybe Samsung isn’t the problem, maybe bar phone design has simply peaked",
@@ -542,26 +622,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-0a6609108c38",
-      "title": "No one is talking about how good the Pixel 11's 5x portrait mode is",
-      "source": "Android Police",
-      "brand": "Pixel",
-      "model": "Pixel 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-26",
-      "time": "14:00",
-      "publishedAt": "2026-08-26T14:00:10.000Z",
-      "url": "https://www.androidpolice.com/pixel-11-5x-portrait-mode-excellent/",
-      "image": "",
-      "summary": "A proper game-changer for my photography",
-      "tags": [
-        "Pixel",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-3806c160c67c",
       "title": "Galaxy S27 breaks cover in new renders, and it’s both good news and bad news",
       "source": "Android Authority",
@@ -682,26 +742,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-06804abe8d18",
-      "title": "Alleged Foldable iPhone Motherboard Photos Surface Online",
-      "source": "MacRumors",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-26",
-      "time": "11:34",
-      "publishedAt": "2026-08-26T11:34:00.000Z",
-      "url": "https://www.macrumors.com/2026/08/26/foldable-iphone-motherboard-photos-surface/",
-      "image": "https://images.macrumors.com/article-new/2026/08/foldable-iphone-boards.jpeg",
-      "summary": "Images and video claiming to show circuitry from Apple's upcoming foldable iPhone are circulating on X and Chinese social media platforms. For example, on X, the user \" LusiRoy7 \"…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-80513980feb3",
       "title": "Should you buy the Google Pixel 11 Pro Fold?",
       "source": "Android Central",
@@ -742,26 +782,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-b3ed03c06093",
-      "title": "真我新机 realme P4s 印度发布：144Hz 高刷屏、8000mAh 电池，3.5 万卢比起售",
-      "source": "IT之家",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-26",
-      "time": "11:20",
-      "publishedAt": "2026-08-26T11:20:14.000Z",
-      "url": "https://www.ithome.com/0/994/715.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/8/f5d343db-65f1-4503-aad8-644ab0d91360.jpg?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 8 月 26 日消息，真我今天在印度发布了最新机型 realme P4s，目前 P4 系列已经拥有超过 6 款智能手机产品。 P4s 采用 三星供应的 6.77 英寸 144Hz AMOLED 屏幕 ，基于 M14 OLED 技术打造，覆盖 AGC DT Star D+ 玻璃，分辨率 2772×1272，峰值亮度 6500 尼特，并支持 HDR1…",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "weibo-79704a1ec658",
       "title": "数码闲聊站：9.7疑似有3场发布会，都是TOP5手机大厂……[哆啦A梦害怕]",
       "source": "数码闲聊站",
@@ -797,26 +817,6 @@ window.phoneRadarAuto = {
       "summary": "Samsung, after rolling out the August 2026 security patch to the Galaxy S26 and the Galaxy S25 series, is now rolling it out to the Galaxy S24 lineup. The update is live in the br…",
       "tags": [
         "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-3079d9b7a8c8",
-      "title": "The Pixel 11 Pro is the wrong Pixel to buy this year",
-      "source": "Android Authority",
-      "brand": "Pixel",
-      "model": "Pixel 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-26",
-      "time": "10:30",
-      "publishedAt": "2026-08-26T10:30:36.000Z",
-      "url": "https://www.androidauthority.com/pixel-11-pro-wrong-pixel-buy-3699311/",
-      "image": "",
-      "summary": "The Pro has its upsides, but is it enough to justify the extra cost?",
-      "tags": [
-        "Pixel",
         "爆料",
         "自动抓取"
       ]
@@ -1242,6 +1242,26 @@ window.phoneRadarAuto = {
       ]
     },
     {
+      "id": "newsnow-b2337631778a",
+      "title": "办事大厅被拍空岗后禁群众带手机进入",
+      "source": "微博热搜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "待验证",
+      "date": "2026-08-26",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://s.weibo.com/weibo?q=%23%E5%8A%9E%E4%BA%8B%E5%A4%A7%E5%8E%85%E8%A2%AB%E6%8B%8D%E7%A9%BA%E5%B2%97%E5%90%8E%E7%A6%81%E7%BE%A4%E4%BC%97%E5%B8%A6%E6%89%8B%E6%9C%BA%E8%BF%9B%E5%85%A5%23&t=31&band_rank=4&Refer=top",
+      "image": "",
+      "summary": "办事大厅被拍空岗后禁群众带手机进入",
+      "tags": [
+        "行业",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
       "id": "newsnow-dd862d44c211",
       "title": "办事大厅被曝9点没人上班后禁带手机",
       "source": "今日头条热榜",
@@ -1262,21 +1282,61 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-76328cca84b1",
-      "title": "鸿蒙成世界第三大手机操作系统",
+      "id": "newsnow-ab93bf6b54fc",
+      "title": "折叠屏iPhone9月10日将亮相",
       "source": "今日头条热榜",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
       "type": "爆料",
       "trust": "媒体汇总",
       "date": "2026-08-26",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.toutiao.com/trending/7678173607227474470/",
+      "url": "https://www.toutiao.com/trending/7677409889687240710/",
       "image": "",
-      "summary": "鸿蒙成世界第三大手机操作系统",
+      "summary": "折叠屏iPhone9月10日将亮相",
       "tags": [
-        "Huawei",
+        "iPhone",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-6e53beed6e33",
+      "title": "“8个2”手机号399万元起拍",
+      "source": "今日头条热榜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-26",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.toutiao.com/trending/7678211631416524854/",
+      "image": "",
+      "summary": "“8个2”手机号399万元起拍",
+      "tags": [
+        "行业",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-0a6cbb1048e0",
+      "title": "苹果首款折叠屏手机将亮相",
+      "source": "百度热搜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-26",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.baidu.com/s?wd=%E8%8B%B9%E6%9E%9C%E9%A6%96%E6%AC%BE%E6%8A%98%E5%8F%A0%E5%B1%8F%E6%89%8B%E6%9C%BA%E5%B0%86%E4%BA%AE%E7%9B%B8",
+      "image": "",
+      "summary": "苹果首款折叠屏手机将亮相",
+      "tags": [
+        "iPhone",
         "爆料",
         "NewsNow"
       ]
