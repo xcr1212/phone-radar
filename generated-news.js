@@ -1,6 +1,326 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-08-26T13:15:31.457Z",
+  "updatedAt": "2026-08-26T15:54:02.522Z",
   "news": [
+    {
+      "id": "auto-e768fae8e80b",
+      "title": "Galaxy Z Flip 6 gets August 2026 security update",
+      "source": "SamMobile",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-26",
+      "time": "15:20",
+      "publishedAt": "2026-08-26T15:20:03.000Z",
+      "url": "https://www.sammobile.com/news/galaxy-z-flip-6-gets-august-2026-security-update/",
+      "image": "",
+      "summary": "After the Galaxy Z Flip 8 and the Galaxy Z Flip 7, Samsung is now rolling out the August 2026 security patch to the Galaxy Z Flip 6. It fixes 56 security issues present in the pre…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-3a09e1d113c8",
+      "title": "iPhone 17 Remains World's Best Selling Smartphone",
+      "source": "MacRumors",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-26",
+      "time": "15:19",
+      "publishedAt": "2026-08-26T15:19:29.000Z",
+      "url": "https://www.macrumors.com/2026/08/26/iphone-17-remains-best-selling-smartphone/",
+      "image": "https://images.macrumors.com/article-new/2025/09/iphone-17-models.jpg",
+      "summary": "The iPhone 17 retained its position as the world's best selling smartphone in the second quarter of 2026, according to Counterpoint Research , with the iPhone 17 Pro Max and &zwnj…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-7e1e008104de",
+      "title": "Should you buy the Google Pixel 11?",
+      "source": "Android Central",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-08-26",
+      "time": "15:13",
+      "publishedAt": "2026-08-26T15:13:37.000Z",
+      "url": "https://www.androidcentral.com/phones/google-pixel/should-you-buy-the-google-pixel-11",
+      "image": "https://cdn.mos.cms.futurecdn.net/xagY7tjxopdazWG4nAfh4D-1280-80.jpg",
+      "summary": "The standard Pixel 11 doesn't have much in the way of new features, and if you have a relatively recent phone, it doesn't make any sense to buy it.",
+      "tags": [
+        "Pixel",
+        "评测",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-a67b1ab1c240",
+      "title": "New Galaxy Z Fold 7, Z Flip 7 updates make the phones more secure",
+      "source": "SamMobile",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-26",
+      "time": "14:45",
+      "publishedAt": "2026-08-26T14:45:17.000Z",
+      "url": "https://www.sammobile.com/news/new-galaxy-z-fold-7-z-flip-7-updates-make-phones-more-secure/",
+      "image": "",
+      "summary": "Samsung offered the August 2026 security patch first to the Galaxy Z Fold 8 series and the Galaxy Z Flip 8. Now, the brand is rolling out the latest security patch to their predec…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-8289e084f77f",
+      "title": "延续纵向三摄布局，三星 Galaxy S27 标准版渲染图曝光",
+      "source": "IT之家",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-26",
+      "time": "14:33",
+      "publishedAt": "2026-08-26T14:33:50.000Z",
+      "url": "https://www.ithome.com/0/994/769.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/8/72c00a82-5008-4256-863f-7f3a3f101492.png",
+      "summary": "IT之家 8 月 26 日消息，继曝光重新设计的三星 Galaxy S27 Ultra CAD 渲染图后，外媒 Android Headlines 今天（26 日）又继续公布了标准版 Galaxy S27 的 CAD 渲染图。 从正面、背面到侧面，新机的整体设计已经一览无余。Galaxy S27 整体造型 几乎延续 Galaxy S26 。背面依旧采用纵向…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-3b286a30d8ac",
+      "title": "Galaxy S27 leaks reveal a design that Samsung just won’t kill",
+      "source": "9to5Google",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-26",
+      "time": "14:30",
+      "publishedAt": "2026-08-26T14:30:50.000Z",
+      "url": "https://9to5google.com/2026/08/26/galaxy-s27-design-leaks/",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/08/Galaxy-S27-leak-header.jpg?quality=82&strip=all&w=1400",
+      "summary": "Whether you’re a fan of the Galaxy S27 Ultra’s new camera design or not, Samsung is ditching the cohesive design that has tied its Galaxy S models together last year. The Galaxy S…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-13ed481debcb",
+      "title": "Galaxy S26 Ultra is the world’s most popular Android phone, and that’s a first",
+      "source": "9to5Google",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-26",
+      "time": "14:30",
+      "publishedAt": "2026-08-26T14:30:00.000Z",
+      "url": "https://9to5google.com/2026/08/26/samsung-galaxy-s26-ultra-best-selling-android-phone-q2-2026/",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/03/galaxy-s26-ultra-review-2.jpg?quality=82&strip=all&w=1600",
+      "summary": "Android phones are never the top-selling smartphones globally, but the ones that get closest are almost always budget models. In Q2 2026, though, Samsung achieved a major win with…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-cef6d9287c4a",
+      "title": "竹本青：【ColorOS 17 官方爆料：系统材质全新升级】 在保持最大化通透的情况下，优化了信息的清晰可读性，降低非必要…",
+      "source": "竹本青",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-08-26",
+      "time": "14:07",
+      "publishedAt": "2026-08-26T14:07:46.000Z",
+      "url": "https://www.coolapk.com/feed/73443822",
+      "image": "http://image.coolapk.com/feed/2026/0826/22/4248714_b03f6f51_3263_1278_417-livepic@1080x2356.jpg",
+      "summary": "【ColorOS 17 官方爆料：系统材质全新升级】 在保持最大化通透的情况下，优化了信息的清晰可读性，降低非必要的视觉干扰；材质的应用上，全局也更加统一。 除了锁屏、桌面等场景，在系统应用的横向一致性上，做到 ColorOS 有史以来最好。ColorOS 17 下个月和大家见面。（陈希） #ColorOS17# #今日热点# #ColorOS16#",
+      "tags": [
+        "OPPO",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-0ec6a73b9da3",
+      "title": "Concept Video Imagines Apple's Foldable iPhone Ultra Reveal",
+      "source": "MacRumors",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-26",
+      "time": "14:06",
+      "publishedAt": "2026-08-26T14:06:48.000Z",
+      "url": "https://www.macrumors.com/2026/08/26/concept-video-imagines-foldable-iphone-reveal/",
+      "image": "",
+      "summary": "A new fan-made concept video imagining Apple's rumored foldable iPhone is circulating online, weeks before the company is expected to unveil the device at its annual fall keynote.…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-b41cf5683df8",
+      "title": "Galaxy S27 leak reveals an uninspired design with minimal changes",
+      "source": "SamMobile",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-26",
+      "time": "14:04",
+      "publishedAt": "2026-08-26T14:04:36.000Z",
+      "url": "https://www.sammobile.com/news/galaxy-s27-leak-reveals-an-uninspired-design-with-minimal-changes/",
+      "image": "https://www.sammobile.com/wp-content/uploads/2026/08/Samsung-Galaxy-S27-2-scaled-1-1920x1080.webp",
+      "summary": "Samsung may release not three, but four mainline Galaxy S27 models next year. Unofficial renders recently revealed what the Galaxy S27 Ultra might look like, and now, a new collec…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-6b1bb384d122",
+      "title": "The fix for the Galaxy S26 Ultra’s red tint bug is rolling out",
+      "source": "Android Authority",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-26",
+      "time": "14:04",
+      "publishedAt": "2026-08-26T14:04:12.000Z",
+      "url": "https://www.androidauthority.com/samsung-galaxy-s26-ultra-red-tint-fix-update-3703275/",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2026/05/Samsung-Galaxy-S26-Ultra-showing-One-UI-lock-screen.jpg",
+      "summary": "The August 2026 security update could likely include a fix for this annoying display glitch.",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-0a6609108c38",
+      "title": "No one is talking about how good the Pixel 11's 5x portrait mode is",
+      "source": "Android Police",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-26",
+      "time": "14:00",
+      "publishedAt": "2026-08-26T14:00:10.000Z",
+      "url": "https://www.androidpolice.com/pixel-11-5x-portrait-mode-excellent/",
+      "image": "",
+      "summary": "A proper game-changer for my photography",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-3806c160c67c",
+      "title": "Galaxy S27 breaks cover in new renders, and it’s both good news and bad news",
+      "source": "Android Authority",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-26",
+      "time": "13:56",
+      "publishedAt": "2026-08-26T13:56:53.000Z",
+      "url": "https://www.androidauthority.com/galaxy-s27-cad-renders-leak-3703360/",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2026/08/Samsung-Galaxy-S27-leaked-renders-copy.jpg",
+      "summary": "The unchanged design may be disappointing, but not as much as an iPhone-lookalike would be.",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-428f6419085b",
+      "title": "Last chance! Grab a free $100 gift card with your Google Pixel 11 (before it's too late)",
+      "source": "Android Central",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-08-26",
+      "time": "13:40",
+      "publishedAt": "2026-08-26T13:40:00.000Z",
+      "url": "https://www.androidcentral.com/phones/google-pixel/last-chance-grab-a-free-usd100-gift-card-with-your-google-pixel-11-before-its-too-late",
+      "image": "https://cdn.mos.cms.futurecdn.net/KgPWHYESoRzvHtkRWJWNeh-1280-80.jpg",
+      "summary": "Ready to buy your new Google Pixel 11? Grab the phone unlocked from Amazon and you'll score a free gift card worth up to $200.",
+      "tags": [
+        "Pixel",
+        "评测",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-1ce0265ed183",
+      "title": "调查显示 75% 美国成年人对折叠屏 iPhone 不感兴趣，平均只愿支付 781 美元",
+      "source": "IT之家",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-26",
+      "time": "13:35",
+      "publishedAt": "2026-08-26T13:35:05.000Z",
+      "url": "https://www.ithome.com/0/994/754.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/8/b5ea549e-cc75-42e3-baa6-9968667da2a1.jpg?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 8 月 26 日消息，CNET 委托 YouGov 于 2026 年 8 月 13 日至 17 日进行的一项在线调查显示，75% 的美国成年人表示对购买折叠屏 iPhone 没有兴趣。 IT之家注意到，此次调查共覆盖 2605 名美国成年人。调查显示，各年龄段对折叠屏 iPhone 的兴趣均处于较低水平。 其中，1946 年至 1964 年出生的…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-72038d4a7501",
+      "title": "Pixel 11's new search feature made me realize my phone is becoming my digital memory",
+      "source": "Android Police",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-26",
+      "time": "13:30",
+      "publishedAt": "2026-08-26T13:30:10.000Z",
+      "url": "https://www.androidpolice.com/pixel-11-ai-search-feature/",
+      "image": "",
+      "summary": "I stopped organizing my phone because Pixel finally learned how to search",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-f2be70b9a053",
       "title": "75% of US Adults Aren't Interested in a Foldable iPhone",
@@ -262,26 +582,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-1a431296ae67",
-      "title": "张雪 820X ADV 摩托车实车曝光，有望 9 月摩博会上市",
-      "source": "IT之家",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-26",
-      "time": "09:57",
-      "publishedAt": "2026-08-26T09:57:22.000Z",
-      "url": "https://www.ithome.com/0/994/683.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/8/068b465d-3b7d-47d1-b48a-e96fda8c30a5.jpg?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 8 月 26 日消息，网上日前流传出张雪 820X 摩托车的实车图，这是一款 ADV 车型（探险摩托车）。 从图中可以看到，车上印有 820X 字样，配备类似手机比例的 竖向仪表屏 ，尾部搭载尾箱。 IT之家注意到，张雪 820X 本月已现身工信部申报名单，还有黑色尾箱版本； 搭载 819cc 排量直列三缸水冷发动机，最大功率 85kW 。 张雪…",
-      "tags": [
-        "行业",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-a42bc6aeee75",
       "title": "New Galaxy S25 FE update brings August 2026 security patch",
       "source": "SamMobile",
@@ -315,26 +615,6 @@ window.phoneRadarAuto = {
       "url": "https://www.sammobile.com/news/samsung-may-have-fixed-galaxy-s26-ultra-display-red-tint-issue/",
       "image": "",
       "summary": "Last month, the users of the Galaxy S26 Ultra started complaining that a red tint had appeared on the displays of their phones. Samsung acknowledged the problem and said it would…",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-1471c08bd13e",
-      "title": "Samsung Galaxy S27 Ultra may look familiar until you see its camera bump",
-      "source": "Android Police",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-26",
-      "time": "09:22",
-      "publishedAt": "2026-08-26T09:22:05.000Z",
-      "url": "https://www.androidpolice.com/samsung-galaxy-s27-ultra-may-look-familiar-until-see-camera-bump/",
-      "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2026/03/samsung_galaxy_s26_ultra_double-2.jpg",
-      "summary": "It's going to be all about that camera island",
       "tags": [
         "Samsung",
         "爆料",
@@ -702,6 +982,26 @@ window.phoneRadarAuto = {
       ]
     },
     {
+      "id": "newsnow-0608ea30d9fb",
+      "title": "这是一个悲伤的故事。我的小15已经丢了一个星期了。[流泪]天杀的捡了手机不还我。[流泪]还把卡拔了。",
+      "source": "酷安热榜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-08-26",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/73416990",
+      "image": "",
+      "summary": "这是一个悲伤的故事。我的小15已经丢了一个星期了。[流泪]天杀的捡了手机不还我。[流泪]还把卡拔了。",
+      "tags": [
+        "行业",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
       "id": "newsnow-e019e39f398e",
       "title": "智界高管：现在不买 L3 就像当年不买 5G 手机",
       "source": "酷安热榜",
@@ -717,26 +1017,6 @@ window.phoneRadarAuto = {
       "summary": "智界高管：现在不买 L3 就像当年不买 5G 手机",
       "tags": [
         "行业",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-f6feac5fc363",
-      "title": "小米的首发权益只换不修真是被不少人薅了不少羊毛。刷抖音刷到好多用了快一年，随便编个理由，录个bug视频，就能换个新手机了。其实录这种故障视频实在太简单了，只要让手机发热严重，闪退，重启，卡死的界面随便都会有一个复现岀来。这个只换不修权益初心是好的，本就是为了回馈支持小米的首发用户，一年内岀现质量问题直接换新，可是算漏了人心，包括我在内，一开始我也被煽动了想换，后来我想想自己这台手机实在挑不出毛病，日常用得也不错，就是打王者开小窗发热，所以就没做这种事情。想想苹果售后以前也这样，好好的福利权益被谋利之人薅没了。导致后面真正岀现问题的机主售被各种限制。委屈了真正需要的用户。#小米17Pro# #小米17Ultra# #小米17#",
-      "source": "酷安热榜",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-08-26",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73403441",
-      "image": "",
-      "summary": "小米的首发权益只换不修真是被不少人薅了不少羊毛。刷抖音刷到好多用了快一年，随便编个理由，录个bug视频，就能换个新手机了。其实录这种故障视频实在太简单了，只要让手机发热严重，闪退，重启，卡死的界面随便都会有一个复现岀来。这个只换不修权益初心是好的，本就是为了回馈支持小米的首发用户，一年内岀现质量问题直接换新，可是算漏了人心，包括我在内，一开始我也被煽动了想…",
-      "tags": [
-        "Xiaomi",
         "爆料",
         "NewsNow"
       ]
@@ -779,26 +1059,6 @@ window.phoneRadarAuto = {
         "行业",
         "爆料",
         "NewsNow"
-      ]
-    },
-    {
-      "id": "auto-b6d41b5c003e",
-      "title": "Hot take, but I wish my Galaxy Z Fold 8 had one fewer selfie camera",
-      "source": "SamMobile",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-25",
-      "time": "23:00",
-      "publishedAt": "2026-08-25T23:00:00.000Z",
-      "url": "https://www.sammobile.com/opinion/hot-take-i-wish-galaxy-z-fold-8-had-one-fewer-selfie-camera/",
-      "image": "https://www.sammobile.com/wp-content/uploads/2026/07/2-Galaxy-Z-Fold-8-main-display-1920x1080.jpg",
-      "summary": "Using the proverb “less is more” feels risky in a world where many people believe big tech companies and their products offer less value for money each year. Still, the adage fits…",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
       ]
     },
     {
@@ -1097,26 +1357,6 @@ window.phoneRadarAuto = {
       "summary": "Samsung’s new Galaxy S27 Ultra is getting a massive redesign and, thanks to the latest leak, we’ve got a better look at what to expect, but we’re also now bracing for a major pric…",
       "tags": [
         "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-fe8f94553019",
-      "title": "Huawei Pura X Max is receiving new 3D Spatial Wallpapers",
-      "source": "Huawei Central",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-25",
-      "time": "13:21",
-      "publishedAt": "2026-08-25T13:21:01.000Z",
-      "url": "https://www.huaweicentral.com/huawei-pura-x-max-is-receiving-new-3d-spatial-wallpapers/",
-      "image": "https://www.huaweicentral.com/wp-content/uploads/2026/06/PuraXMax.jpg",
-      "summary": "Huawei Pura X Max is now receiving 3D Spatial Wallpapers with the latest HarmonyOS 7.0 closed beta. The company has started pushing the new test build to its eligible devices with…",
-      "tags": [
-        "Huawei",
         "爆料",
         "自动抓取"
       ]

@@ -1,12 +1,12 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-08-26T13:15:31.457Z",
+  "updatedAt": "2026-08-26T15:54:02.522Z",
   "issueDate": "2026-08-26",
   "issue": "VOL.260826",
   "title": "手机情报日报",
-  "intro": "今日筛出 16 条重点，其中 8 条是重点爆料，包含 6 条 iPhone 相关、2 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 12 条重点，其中 8 条是重点爆料，包含 5 条 iPhone 相关、2 条官方确认、0 条参数线索。",
   "stats": {
-    "total": 16,
-    "iphone": 6,
+    "total": 12,
+    "iphone": 5,
     "leaks": 8,
     "official": 2,
     "specs": 0
@@ -18,7 +18,53 @@ window.phoneRadarDaily = {
       "hint": "机模、配色、影像、屏幕、电池和芯片线索先看。",
       "items": [
         {
-          "id": "auto-f2be70b9a053",
+          "id": "auto-1ce0265ed183",
+          "title": "调查显示 75% 美国成年人对折叠屏 iPhone 不感兴趣，平均只愿支付 781 美元",
+          "originalTitle": "",
+          "source": "IT之家",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-08-26",
+          "time": "13:35",
+          "publishedAt": "2026-08-26T13:35:05.000Z",
+          "url": "https://www.ithome.com/0/994/754.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/8/b5ea549e-cc75-42e3-baa6-9968667da2a1.jpg?x-bce-process=image/format,f_auto",
+          "verdict": "先看",
+          "takeaway": "IT之家 8 月 26 日消息，CNET 委托 YouGov 于 2026 年 8 月 13 日至 17 日进行的一项在线调查显示，75% 的美国成年人表示对购买折叠屏 iPhone 没有兴趣。 IT之家注意到，此次调查共覆盖 2605 名美国成年人。调查显示，各年龄段对折叠屏 iPhone 的兴趣均处于较低水平。 其中，1946 年至 1964 年出生的…",
+          "detail": "IT之家 8 月 26 日消息，CNET 委托 YouGov 于 2026 年 8 月 13 日至 17 日进行的一项在线调查显示，75% 的美国成年人表示对购买折叠屏 iPhone 没有兴趣。 IT之家注意到，此次调查共覆盖 2605 名美国成年人。调查显示，各年龄段对折叠屏 iPhone 的兴趣均处于较低水平。 其中，1946 年至 1964 年出生的…",
+          "keyPoints": [
+            "屏幕形态"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "auto-3a09e1d113c8",
+          "title": "iPhone 17 系统功能 / AI 体验相关消息",
+          "originalTitle": "",
+          "source": "MacRumors",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-08-26",
+          "time": "15:19",
+          "publishedAt": "2026-08-26T15:19:29.000Z",
+          "url": "https://www.macrumors.com/2026/08/26/iphone-17-remains-best-selling-smartphone/",
+          "image": "https://images.macrumors.com/article-new/2025/09/iphone-17-models.jpg",
+          "verdict": "先看",
+          "takeaway": "iPhone 有系统功能或 AI 体验更新，适合关注后续是否影响日常使用。",
+          "detail": "iPhone 17 系统功能 / AI 体验相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "auto-0ec6a73b9da3",
           "title": "iPhone 折叠屏相关消息",
           "originalTitle": "",
           "source": "MacRumors",
@@ -26,15 +72,16 @@ window.phoneRadarDaily = {
           "type": "爆料",
           "trust": "媒体汇总",
           "date": "2026-08-26",
-          "time": "12:53",
-          "publishedAt": "2026-08-26T12:53:46.000Z",
-          "url": "https://www.macrumors.com/2026/08/26/most-arent-interested-in-a-foldable-iphone/",
-          "image": "https://images.macrumors.com/article-new/2025/03/Foldable-iPhone-2023-Feature-Iridescent-1.jpg",
+          "time": "14:06",
+          "publishedAt": "2026-08-26T14:06:48.000Z",
+          "url": "https://www.macrumors.com/2026/08/26/concept-video-imagines-foldable-iphone-reveal/",
+          "image": "",
           "verdict": "先看",
-          "takeaway": "iPhone 折叠屏相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
+          "takeaway": "iPhone 影像能力相关宣传或案例，主要看是否透露拍摄能力变化。",
           "detail": "iPhone 折叠屏相关消息。重点看折痕、铰链、厚度、屏幕可靠性和重量是否有实质改善。",
           "keyPoints": [
-            "爆料"
+            "影像硬件",
+            "爆料来源"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
@@ -59,6 +106,29 @@ window.phoneRadarDaily = {
           "keyPoints": [
             "影像硬件",
             "爆料来源"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "auto-8289e084f77f",
+          "title": "延续纵向三摄布局，三星 Galaxy S27 标准版渲染图曝光",
+          "originalTitle": "",
+          "source": "IT之家",
+          "brand": "Samsung",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-08-26",
+          "time": "14:33",
+          "publishedAt": "2026-08-26T14:33:50.000Z",
+          "url": "https://www.ithome.com/0/994/769.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/8/72c00a82-5008-4256-863f-7f3a3f101492.png",
+          "verdict": "先看",
+          "takeaway": "IT之家 8 月 26 日消息，继曝光重新设计的三星 Galaxy S27 Ultra CAD 渲染图后，外媒 Android Headlines 今天（26 日）又继续公布了标准版 Galaxy S27 的 CAD 渲染图。 从正面、背面到侧面，新机的整体设计已经一览无余。Galaxy S27 整体造型 几乎延续 Galaxy S26 。背面依旧采用纵向…",
+          "detail": "IT之家 8 月 26 日消息，继曝光重新设计的三星 Galaxy S27 Ultra CAD 渲染图后，外媒 Android Headlines 今天（26 日）又继续公布了标准版 Galaxy S27 的 CAD 渲染图。 从正面、背面到侧面，新机的整体设计已经一览无余。Galaxy S27 整体造型 几乎延续 Galaxy S26 。背面依旧采用纵向…",
+          "keyPoints": [
+            "外观 / 配色 / 尺寸"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
@@ -112,29 +182,6 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
-          "id": "newsnow-f6feac5fc363",
-          "title": "小米的首发权益只换不修真是被不少人薅了不少羊毛。刷抖音刷到好多用了快一年，随便编个理由，录个bug视频，就能换个新手机了。其实录这种故障视频实在太简单了，只要让手机发热严重，闪退，重启，卡死的界面随便都会有一个复现岀来。这个只换不修权益初心是好的，本就是为了回馈支持小米的首发用户，一年内岀现质量问题直接换新，可是算漏了人心，包括我在内，一开始我也被煽动了想换，后来我想想自己这台手机实在挑不出毛病，日常用得也不错，就是打王者开小窗发热，所以就没做这种事情。想想苹果售后以前也这样，好好的福利权益被谋利之人薅没了。导致后面真正岀现问题的机主售被各种限制。委屈了真正需要的用户。#小米17Pro# #小米17Ultra# #小米17#",
-          "originalTitle": "",
-          "source": "酷安热榜",
-          "brand": "Xiaomi",
-          "type": "爆料",
-          "trust": "高关注爆料源",
-          "date": "2026-08-26",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://www.coolapk.com/feed/73403441",
-          "image": "",
-          "verdict": "先看",
-          "takeaway": "小米的首发权益只换不修真是被不少人薅了不少羊毛。刷抖音刷到好多用了快一年，随便编个理由，录个bug视频，就能换个新手机了。其实录这种故障视频实在太简单了，只要让手机发热严重，闪退，重启，卡死的界面随便都会有一个复现岀来。这个只换不修权益初心是好的，本就是为了回馈支持小米的首发用户，一年内岀现质量问题直接换新，可是算漏了人心，包括我在内，一开始我也被煽动了想…",
-          "detail": "小米的首发权益只换不修真是被不少人薅了不少羊毛。刷抖音刷到好多用了快一年，随便编个理由，录个bug视频，就能换个新手机了。其实录这种故障视频实在太简单了，只要让手机发热严重，闪退，重启，卡死的界面随便都会有一个复现岀来。这个只换不修权益初心是好的，本就是为了回馈支持小米的首发用户，一年内岀现质量问题直接换新，可是算漏了人心，包括我在内，一开始我也被煽动了想…",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
           "id": "newsnow-8c5ccfaebd10",
           "title": "三星 Galaxy S27 Ultra CAD渲染图曝光：后摄模组大改",
           "originalTitle": "",
@@ -154,53 +201,6 @@ window.phoneRadarDaily = {
             "外观 / 配色 / 尺寸"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "weibo-aa493ba2b4c9",
-          "title": "数码闲聊站：9月或许是机圈史上最激烈的新品月： 高端折叠线——华为三折叠、小米阔折叠、苹果…",
-          "originalTitle": "",
-          "source": "数码闲聊站",
-          "brand": "HONOR",
-          "type": "爆料",
-          "trust": "高关注爆料源",
-          "date": "2026-08-25",
-          "time": "07:08",
-          "publishedAt": "2026-08-25T07:08:00.000Z",
-          "url": "https://weibo.com/6048569942/Rf1Ns08jA",
-          "image": "",
-          "verdict": "先看",
-          "takeaway": "9月或许是机圈史上最激烈的新品月： 高端折叠线——华为三折叠、小米阔折叠、苹果阔折叠 芯片线——小米玄戒O3、苹果A20系列、天玑9600系列、骁龙8E6系列、华为麒麟2026τ芯片 旗舰线——iPhone 18系列、vivo X500系列、OPPO Find X10系列、华为Mate90系列、小米18系列、荣耀Magic9系列、iQOO16……",
-          "detail": "9月或许是机圈史上最激烈的新品月： 高端折叠线——华为三折叠、小米阔折叠、苹果阔折叠 芯片线——小米玄戒O3、苹果A20系列、天玑9600系列、骁龙8E6系列、华为麒麟2026τ芯片 旗舰线——iPhone 18系列、vivo X500系列、OPPO Find X10系列、华为Mate90系列、小米18系列、荣耀Magic9系列、iQOO16……",
-          "keyPoints": [
-            "芯片 / 性能",
-            "爆料来源"
-          ],
-          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "coolapk-user-5cb4c3c23a7c",
-          "title": "JSCHEN小小狐：OPPO Find X10 系列命名曝光：含三款机型",
-          "originalTitle": "",
-          "source": "JSCHEN小小狐",
-          "brand": "OPPO",
-          "type": "爆料",
-          "trust": "高可信爆料",
-          "date": "2026-08-26",
-          "time": "08:07",
-          "publishedAt": "2026-08-26T08:07:41.000Z",
-          "url": "https://www.coolapk.com/feed/73438201",
-          "image": "http://image.coolapk.com/feed/2026/0826/16/4702274_7d4da097_1660_2283_280@1440x421.jpg",
-          "verdict": "先看",
-          "takeaway": "『OPPO Find X10 系列命名曝光：含三款机型』 知名数码博主 数码闲聊站 今日曝光了 OPPO Find X10 系列新机命名，共包括以下三款机型： · OPPO Find X10 Pro Max（大屏） · OPPO Find X10（中屏） · OPPO Find X10 E（中屏） X10 Pro Max： ◇ 6.78\" 1.5K LTP…",
-          "detail": "『OPPO Find X10 系列命名曝光：含三款机型』 知名数码博主 数码闲聊站 今日曝光了 OPPO Find X10 系列新机命名，共包括以下三款机型： · OPPO Find X10 Pro Max（大屏） · OPPO Find X10（中屏） · OPPO Find X10 E（中屏） X10 Pro Max： ◇ 6.78\" 1.5K LTP…",
-          "keyPoints": [
-            "爆料来源"
-          ],
-          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         }
@@ -233,76 +233,6 @@ window.phoneRadarDaily = {
           "confidence": "官方内容，可直接作为已确认信息记录。",
           "impact": "可信度高，但如果不是配置/价格消息，只需要扫一眼。",
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
-        {
-          "id": "auto-1b99984d6d15",
-          "title": "iPhone 相关消息",
-          "originalTitle": "",
-          "source": "9to5Mac",
-          "brand": "iPhone",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-08-26",
-          "time": "11:23",
-          "publishedAt": "2026-08-26T11:23:25.000Z",
-          "url": "https://9to5mac.com/2026/08/26/25-of-us-adults-are-interested-in-the-iphone-ultra-but-wont-pay-for-it/",
-          "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/03/iphone-fold-mockup-blue.jpg?quality=82&strip=all&w=1600",
-          "verdict": "扫一眼",
-          "takeaway": "iPhone 相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
-          "detail": "iPhone 相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
-        {
-          "id": "newsnow-a7d2fe648068",
-          "title": "把「闪念胶囊」（Almost）放到 iPhone 锁屏",
-          "originalTitle": "",
-          "source": "少数派热榜",
-          "brand": "iPhone",
-          "type": "评测",
-          "trust": "媒体汇总",
-          "date": "2026-08-26",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://sspai.com/post/113219",
-          "image": "",
-          "verdict": "扫一眼",
-          "takeaway": "把「闪念胶囊」（Almost）放到 iPhone 锁屏",
-          "detail": "把「闪念胶囊」（Almost）放到 iPhone 锁屏",
-          "keyPoints": [
-            "评测"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是实际体验内容，买前适合重点看缺点和取舍。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
-        {
-          "id": "auto-2a9a315aadd9",
-          "title": "iPhone 电池 / 充电相关消息",
-          "originalTitle": "",
-          "source": "9to5Mac",
-          "brand": "iPhone",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-08-25",
-          "time": "18:48",
-          "publishedAt": "2026-08-25T18:48:18.000Z",
-          "url": "https://9to5google.com/2026/08/25/pebblebee-loc8-android-iphone-bike-tracker/",
-          "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/pebblebee-loc8-find-hub-7.jpg?quality=82&strip=all&w=1600",
-          "verdict": "扫一眼",
-          "takeaway": "iPhone 电池 / 充电相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
-          "detail": "iPhone 电池 / 充电相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
-          "keyPoints": [
-            "外观 / 配色 / 尺寸",
-            "电池 / 充电"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "影响日常体验，尤其是游戏、拍照和长时间使用。",
-          "action": "有具体参数就记录到参数库；没有参数就先收藏。"
         }
       ]
     },
@@ -380,29 +310,6 @@ window.phoneRadarDaily = {
           "verdict": "扫一眼",
           "takeaway": "不知各位感觉到没有，在2026年的当下，手机系统的「重要性」正在被前所未有的拔高到新的战略高度。这在多年前可不是这样的，系统会成为购买决策的加分项，但硬件才是决定项。但是为什么是系统呢？为什么硬件的高度成熟没有削弱系统的重要性呢？",
           "detail": "不知各位感觉到没有，在2026年的当下，手机系统的「重要性」正在被前所未有的拔高到新的战略高度。这在多年前可不是这样的，系统会成为购买决策的加分项，但硬件才是决定项。但是为什么是系统呢？为什么硬件的高度成熟没有削弱系统的重要性呢？",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
-        {
-          "id": "newsnow-e019e39f398e",
-          "title": "智界高管：现在不买 L3 就像当年不买 5G 手机",
-          "originalTitle": "",
-          "source": "酷安热榜",
-          "brand": "行业",
-          "type": "爆料",
-          "trust": "高关注爆料源",
-          "date": "2026-08-26",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://www.coolapk.com/feed/73434344",
-          "image": "",
-          "verdict": "扫一眼",
-          "takeaway": "智界高管：现在不买 L3 就像当年不买 5G 手机",
-          "detail": "智界高管：现在不买 L3 就像当年不买 5G 手机",
           "keyPoints": [
             "爆料"
           ],
