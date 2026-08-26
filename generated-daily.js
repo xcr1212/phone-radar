@@ -1,12 +1,12 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-08-26T03:17:05.293Z",
+  "updatedAt": "2026-08-26T04:54:40.328Z",
   "issueDate": "2026-08-26",
   "issue": "VOL.260826",
   "title": "手机情报日报",
-  "intro": "今日筛出 18 条重点，其中 8 条是重点爆料，包含 7 条 iPhone 相关、2 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 18 条重点，其中 8 条是重点爆料，包含 6 条 iPhone 相关、2 条官方确认、0 条参数线索。",
   "stats": {
     "total": 18,
-    "iphone": 7,
+    "iphone": 6,
     "leaks": 8,
     "official": 2,
     "specs": 0
@@ -159,29 +159,6 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
-          "id": "auto-54746446fda2",
-          "title": "HMD Salo 手机曝光：面向 B 端市场，搭骁龙 4 Gen 2 处理器",
-          "originalTitle": "",
-          "source": "IT之家",
-          "brand": "行业",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-08-25",
-          "time": "23:55",
-          "publishedAt": "2026-08-25T23:55:07.000Z",
-          "url": "https://www.ithome.com/0/994/316.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/8/d80033cc-0493-4749-9261-cf111cafcc0a.png?x-bce-process=image/format,f_auto",
-          "verdict": "先看",
-          "takeaway": "IT之家 8 月 26 日消息，综合消息源 smashx_60 和 cosmo_bjoern，HMD Global 将于近期推出一款专门面向 B 端市场的 HMD Salo 手机，该机仅向企业开放销售，本质上是 2024 年被砍的 HMD Titan 5G 项目更名版本。 该机搭载一块 6.75 英寸 HD+ 90Hz IPS LCD 面板，匹配 8Mp…",
-          "detail": "IT之家 8 月 26 日消息，综合消息源 smashx_60 和 cosmo_bjoern，HMD Global 将于近期推出一款专门面向 B 端市场的 HMD Salo 手机，该机仅向企业开放销售，本质上是 2024 年被砍的 HMD Titan 5G 项目更名版本。 该机搭载一块 6.75 英寸 HD+ 90Hz IPS LCD 面板，匹配 8Mp…",
-          "keyPoints": [
-            "芯片 / 性能"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
           "id": "weibo-70c316056259",
           "title": "数码闲聊站：独家信息：10000mAh±巨容量电池，骁龙8E处理器，1.5K超高刷大直屏，…",
           "originalTitle": "",
@@ -206,6 +183,29 @@ window.phoneRadarDaily = {
           "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "weibo-6b52a133174f",
+          "title": "数码闲聊站：刚刚确认了一下，骁龙下一代旗舰芯的定频就是5.0GHz，全球首个5GHz手机C…",
+          "originalTitle": "",
+          "source": "数码闲聊站",
+          "brand": "行业",
+          "type": "爆料",
+          "trust": "高关注爆料源",
+          "date": "2026-08-25",
+          "time": "12:50",
+          "publishedAt": "2026-08-25T12:50:02.000Z",
+          "url": "https://weibo.com/6048569942/Rf42hfySg",
+          "image": "",
+          "verdict": "先看",
+          "takeaway": "刚刚确认了一下，骁龙下一代旗舰芯的定频就是5.0GHz，全球首个5GHz手机CPU，SM8950/SM8975双旗舰芯齐发，架构设计很哈人。 之前说过这代缓存也有调整，L2做成了共享缓存架构，配合每核大L1指令缓存，理论上能显著降低跨核心任务切换延迟，完全就是为Agent而生[笑而不语]",
+          "detail": "刚刚确认了一下，骁龙下一代旗舰芯的定频就是5.0GHz，全球首个5GHz手机CPU，SM8950/SM8975双旗舰芯齐发，架构设计很哈人。 之前说过这代缓存也有调整，L2做成了共享缓存架构，配合每核大L1指令缓存，理论上能显著降低跨核心任务切换延迟，完全就是为Agent而生[笑而不语]",
+          "keyPoints": [
+            "爆料来源"
+          ],
+          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         }
       ]
     },
@@ -214,29 +214,6 @@ window.phoneRadarDaily = {
       "title": "iPhone 重点",
       "hint": "不是硬件爆料，但和 iPhone 体验或路线有关。",
       "items": [
-        {
-          "id": "auto-3a38b81fd2ec",
-          "title": "数码考古：微软首款智能手机问世比苹果 iPhone 早约 5 年",
-          "originalTitle": "",
-          "source": "IT之家",
-          "brand": "iPhone",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-08-26",
-          "time": "00:10",
-          "publishedAt": "2026-08-26T00:10:14.000Z",
-          "url": "https://www.ithome.com/0/994/321.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/8/90ea4926-a65d-45eb-91eb-0c52f764ae9d.png",
-          "verdict": "先看",
-          "takeaway": "IT之家 8 月 26 日消息，科技媒体 Windows Latest 昨日（8 月 25 日）发布“数码考古”博文，回顾了微软首款智能手机， 于 2002 年 10 月 28 日在英国发布的 Orange SPV ，比苹果初代 iPhone 亮相（2007 年）早约 5 年时间。 该媒体指出在安卓和苹果 iOS 主导移动市场之前，微软曾在移动软件领域占据…",
-          "detail": "IT之家 8 月 26 日消息，科技媒体 Windows Latest 昨日（8 月 25 日）发布“数码考古”博文，回顾了微软首款智能手机， 于 2002 年 10 月 28 日在英国发布的 Orange SPV ，比苹果初代 iPhone 亮相（2007 年）早约 5 年时间。 该媒体指出在安卓和苹果 iOS 主导移动市场之前，微软曾在移动软件领域占据…",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "中文源可以直接点开快读；看完只保留和购机有关的点。"
-        },
         {
           "id": "auto-9bbf43c61c96",
           "title": "iPhone 系统功能 / AI 体验相关消息",
@@ -338,29 +315,6 @@ window.phoneRadarDaily = {
       "hint": "能直接更新到参数库。",
       "items": [
         {
-          "id": "auto-ec4e770f5df9",
-          "title": "深圳皇岗海关查获进境客车夹藏旧手机 23 台",
-          "originalTitle": "",
-          "source": "IT之家",
-          "brand": "行业",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-08-26",
-          "time": "00:16",
-          "publishedAt": "2026-08-26T00:16:32.000Z",
-          "url": "https://www.ithome.com/0/994/322.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/8/459f2661-776b-4f8b-ac1d-6b9e06c6c5e1.png?x-bce-process=image/format,f_auto",
-          "verdict": "扫一眼",
-          "takeaway": "IT之家 8 月 26 日消息，据“海关发布”公众号，近日，深圳皇岗海关查获一辆进境客车夹藏旧手机 23 台。 ▲ 图源“海关发布”公众号（下同） 当日，一辆跨境客车从皇岗口岸客运车道进境，在经过海关监管区时未向海关主动申报，且车辆机检图像存在异常。经进一步检查，海关关员在该车辆天窗的夹层处查获旧手机 23 台。 海关部门表示，这种以藏匿的方式走私电子产品…",
-          "detail": "IT之家 8 月 26 日消息，据“海关发布”公众号，近日，深圳皇岗海关查获一辆进境客车夹藏旧手机 23 台。 ▲ 图源“海关发布”公众号（下同） 当日，一辆跨境客车从皇岗口岸客运车道进境，在经过海关监管区时未向海关主动申报，且车辆机检图像存在异常。经进一步检查，海关关员在该车辆天窗的夹层处查获旧手机 23 台。 海关部门表示，这种以藏匿的方式走私电子产品…",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "中文源可以直接点开快读；看完只保留和购机有关的点。"
-        },
-        {
           "id": "auto-c27aa6c5b3b3",
           "title": "Samsung 折叠屏相关消息",
           "originalTitle": "",
@@ -382,6 +336,29 @@ window.phoneRadarDaily = {
           "confidence": "官方内容，可直接作为已确认信息记录。",
           "impact": "可信度高，但如果不是配置/价格消息，只需要扫一眼。",
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        },
+        {
+          "id": "auto-12e3e38b7d25",
+          "title": "vivo 影像能力相关消息",
+          "originalTitle": "",
+          "source": "Gizmochina",
+          "brand": "vivo",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-08-26",
+          "time": "03:53",
+          "publishedAt": "2026-08-26T03:53:05.000Z",
+          "url": "https://www.gizmochina.com/2026/08/26/vivo-x500-pro-max-x500-pro-periscope-telephoto-camera-details/",
+          "image": "https://www.gizmochina.com/wp-content/uploads/2026/08/Vivo-X500-Pro-Max-telpehoto-scaled.jpg?x23692",
+          "verdict": "可略过",
+          "takeaway": "vivo 有系统功能或 AI 体验更新，适合关注后续是否影响日常使用。",
+          "detail": "vivo 影像能力相关消息。重点看影像功能是否和新机硬件有关，如果只是拍摄案例或营销内容，参考价值会低一些。",
+          "keyPoints": [
+            "影像硬件"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "影响拍照体验，买旗舰机时值得关注。",
+          "action": "有具体参数就记录到参数库；没有参数就先收藏。"
         }
       ]
     },
@@ -414,6 +391,52 @@ window.phoneRadarDaily = {
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         },
         {
+          "id": "coolapk-user-212f44521d97",
+          "title": "竹本青：等更新了",
+          "originalTitle": "",
+          "source": "竹本青",
+          "brand": "Xiaomi",
+          "type": "爆料",
+          "trust": "高可信爆料",
+          "date": "2026-08-26",
+          "time": "04:34",
+          "publishedAt": "2026-08-26T04:34:19.000Z",
+          "url": "https://www.coolapk.com/feed/73435190",
+          "image": "http://image.coolapk.com/feed/2026/0826/12/4248714_2fa92982_8858_3304_494@1440x808.jpg",
+          "verdict": "扫一眼",
+          "takeaway": "等更新了",
+          "detail": "等更新了",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "可信度较高，但仍属于发布前线索。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        },
+        {
+          "id": "coolapk-user-f5a6658cac5c",
+          "title": "竹本青：看评论区说14U话题有故意弄坏换新15U、17U的，刚去搜了一下 确实不少…… #小米15Ultra# #小米17…",
+          "originalTitle": "",
+          "source": "竹本青",
+          "brand": "Xiaomi",
+          "type": "爆料",
+          "trust": "高可信爆料",
+          "date": "2026-08-26",
+          "time": "03:36",
+          "publishedAt": "2026-08-26T03:36:27.000Z",
+          "url": "https://www.coolapk.com/feed/73434168",
+          "image": "",
+          "verdict": "扫一眼",
+          "takeaway": "看评论区说14U话题有故意弄坏换新15U、17U的，刚去搜了一下 确实不少…… #小米15Ultra# #小米17Ultra# #小米14Ultra#",
+          "detail": "看评论区说14U话题有故意弄坏换新15U、17U的，刚去搜了一下 确实不少…… #小米15Ultra# #小米17Ultra# #小米14Ultra#",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "可信度较高，但仍属于发布前线索。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        },
+        {
           "id": "coolapk-user-dd30274da823",
           "title": "JSCHEN小小狐：博主对比骁龙、天玑 2nm 旗舰平台顶配规格",
           "originalTitle": "",
@@ -434,29 +457,6 @@ window.phoneRadarDaily = {
           ],
           "confidence": "可信度较高，但仍属于发布前线索。",
           "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
-        {
-          "id": "auto-18db8fffaebd",
-          "title": "Pixel 11 影像能力相关消息",
-          "originalTitle": "",
-          "source": "9to5Google",
-          "brand": "Pixel",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-08-25",
-          "time": "20:05",
-          "publishedAt": "2026-08-25T20:05:00.000Z",
-          "url": "https://9to5google.com/2026/08/25/google-pixel-11-rambler-feature-upgrade-idea/",
-          "image": "",
-          "verdict": "可略过",
-          "takeaway": "Pixel 影像能力相关宣传或案例，主要看是否透露拍摄能力变化。",
-          "detail": "Pixel 11 影像能力相关消息。重点看影像功能是否和新机硬件有关，如果只是拍摄案例或营销内容，参考价值会低一些。",
-          "keyPoints": [
-            "影像硬件"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "影响拍照体验，买旗舰机时值得关注。",
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         }
       ]

@@ -1,9 +1,129 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-08-26T03:17:05.293Z",
+  "updatedAt": "2026-08-26T04:54:40.328Z",
   "news": [
     {
+      "id": "coolapk-user-212f44521d97",
+      "title": "竹本青：等更新了",
+      "source": "竹本青",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-08-26",
+      "time": "04:34",
+      "publishedAt": "2026-08-26T04:34:19.000Z",
+      "url": "https://www.coolapk.com/feed/73435190",
+      "image": "http://image.coolapk.com/feed/2026/0826/12/4248714_2fa92982_8858_3304_494@1440x808.jpg",
+      "summary": "等更新了",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-9e09b51d2449",
+      "title": "Samsung Galaxy S27 Ultra looks nothing like its predecessor in latest renders",
+      "source": "Gizmochina",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-26",
+      "time": "04:15",
+      "publishedAt": "2026-08-26T04:15:29.000Z",
+      "url": "https://www.gizmochina.com/2026/08/26/galaxy-s27-ultra-cad-renders-camera-plateau-leak/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/08/Samsung-Galaxy-S27-Ultra-Render-2-300x200.jpg?x23692",
+      "summary": "Samsung‘s camera design has remained largely untouched for years, but that streak appears to be ending with the Galaxy S27 Ultra. Fresh CAD renders from leaker OnLeaks show that t…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "weibo-2b6e438857d5",
+      "title": "数码闲聊站：Find X10系列首发这块天马OLED，N1发光材料，全局激发亮度2000n…",
+      "source": "数码闲聊站",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-08-26",
+      "time": "04:04",
+      "publishedAt": "2026-08-26T04:04:44.000Z",
+      "url": "https://weibo.com/6048569942/Rfa1yn4IW",
+      "image": "https://tvax4.sinaimg.cn/mw2000/006BlblIgy1igh3parlvaj325o25ox6p.jpg",
+      "summary": "Find X10系列首发这块天马OLED，N1发光材料，全局激发亮度2000nit，更窄四等边，支持95％ BT.2020色域，5.5％有益红光，9月见[吃瓜]",
+      "tags": [
+        "行业",
+        "爆料",
+        "微博"
+      ]
+    },
+    {
+      "id": "auto-12e3e38b7d25",
+      "title": "Vivo X500 Pro Max and X500 Pro periscope telephoto camera details revealed well before launch",
+      "source": "Gizmochina",
+      "brand": "vivo",
+      "model": "vivo 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-26",
+      "time": "03:53",
+      "publishedAt": "2026-08-26T03:53:05.000Z",
+      "url": "https://www.gizmochina.com/2026/08/26/vivo-x500-pro-max-x500-pro-periscope-telephoto-camera-details/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/08/Vivo-X500-Pro-Max-telpehoto-scaled.jpg?x23692",
+      "summary": "Vivo recently confirmed that the X500 series will launch in China in September. The lineup includes three models: the X500, X500 Pro, and X500 Pro Max. With only a couple of weeks…",
+      "tags": [
+        "vivo",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-f5a6658cac5c",
+      "title": "竹本青：看评论区说14U话题有故意弄坏换新15U、17U的，刚去搜了一下 确实不少…… #小米15Ultra# #小米17…",
+      "source": "竹本青",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-08-26",
+      "time": "03:36",
+      "publishedAt": "2026-08-26T03:36:27.000Z",
+      "url": "https://www.coolapk.com/feed/73434168",
+      "image": "",
+      "summary": "看评论区说14U话题有故意弄坏换新15U、17U的，刚去搜了一下 确实不少…… #小米15Ultra# #小米17Ultra# #小米14Ultra#",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-11178bf996cf",
+      "title": "Huawei Mate XT 2 render resembles Pura X View-like camera design",
+      "source": "Huawei Central",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-26",
+      "time": "03:21",
+      "publishedAt": "2026-08-26T03:21:20.000Z",
+      "url": "https://www.huaweicentral.com/huawei-mate-xt-2-render-camera-design/",
+      "image": "https://www.huaweicentral.com/wp-content/uploads/2026/08/Mate-XT-2-render.jpg",
+      "summary": "With just a few days left to go before the Huawei Mate XT 2 launch event, a new render leak has shown off the redesigned camera look of the triple-fold. It seems the company is gi…",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
       "id": "coolapk-user-2c7f51758791",
-      "title": "竹本青：【vivo X500/X500 Pro 长焦型号公布：全新6400万索尼LYTIA610】 ● 蔡司6400万 蓝…",
+      "title": "竹本青：vivo X500/X500 Pro 搭载全新6400万索尼LYTIA610",
       "source": "竹本青",
       "brand": "vivo",
       "model": "vivo 相关机型",
@@ -14,7 +134,7 @@ window.phoneRadarAuto = {
       "publishedAt": "2026-08-26T03:02:44.000Z",
       "url": "https://www.coolapk.com/feed/73433484",
       "image": "http://image.coolapk.com/feed/2026/0826/11/4248714_a353414d_3363_3698_606@2000x2667.jpg",
-      "summary": "【vivo X500/X500 Pro 长焦型号公布：全新6400万索尼LYTIA610】 ● 蔡司6400万 蓝图×索尼LYTIA610 APO长焦 （X500标准版同款） ● 85mm GG1×1 RB2×2 创新设计 ● CIPA 7.0专业级防抖 ● 对焦更快，长焦视频追焦更稳 ● 4K 120fps慢动作、4K 60fps HDR直出 #今日热点…",
+      "summary": "【vivo X500/X500 Pro 长焦型号公布：全新6400万索尼LYTIA610】 ● 蔡司6400万 蓝图×索尼LYTIA610 APO长焦 （X500标准版同款） ● 85mm焦段（X500 Pro） ● GG1×1 RB2×2 创新设计 ● CIPA 7.0专业级防抖 ● 对焦更快，长焦视频追焦更稳 ● 4K 120fps慢动作、4K 60f…",
       "tags": [
         "vivo",
         "爆料",
@@ -122,46 +242,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-ec4e770f5df9",
-      "title": "深圳皇岗海关查获进境客车夹藏旧手机 23 台",
-      "source": "IT之家",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-26",
-      "time": "00:16",
-      "publishedAt": "2026-08-26T00:16:32.000Z",
-      "url": "https://www.ithome.com/0/994/322.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/8/459f2661-776b-4f8b-ac1d-6b9e06c6c5e1.png?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 8 月 26 日消息，据“海关发布”公众号，近日，深圳皇岗海关查获一辆进境客车夹藏旧手机 23 台。 ▲ 图源“海关发布”公众号（下同） 当日，一辆跨境客车从皇岗口岸客运车道进境，在经过海关监管区时未向海关主动申报，且车辆机检图像存在异常。经进一步检查，海关关员在该车辆天窗的夹层处查获旧手机 23 台。 海关部门表示，这种以藏匿的方式走私电子产品…",
-      "tags": [
-        "行业",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-3a38b81fd2ec",
-      "title": "数码考古：微软首款智能手机问世比苹果 iPhone 早约 5 年",
-      "source": "IT之家",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-26",
-      "time": "00:10",
-      "publishedAt": "2026-08-26T00:10:14.000Z",
-      "url": "https://www.ithome.com/0/994/321.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/8/90ea4926-a65d-45eb-91eb-0c52f764ae9d.png",
-      "summary": "IT之家 8 月 26 日消息，科技媒体 Windows Latest 昨日（8 月 25 日）发布“数码考古”博文，回顾了微软首款智能手机， 于 2002 年 10 月 28 日在英国发布的 Orange SPV ，比苹果初代 iPhone 亮相（2007 年）早约 5 年时间。 该媒体指出在安卓和苹果 iOS 主导移动市场之前，微软曾在移动软件领域占据…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-9bbf43c61c96",
       "title": "Apple announces changes to iOS in Brazil",
       "source": "Apple Newsroom",
@@ -259,46 +339,6 @@ window.phoneRadarAuto = {
         "Xiaomi",
         "爆料",
         "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-b0c342b61b6b",
-      "title": "骑手高速狂飙时速超200公里玩手机",
-      "source": "今日头条热榜",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-26",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.toutiao.com/trending/7677894387942195758/",
-      "image": "",
-      "summary": "骑手高速狂飙时速超200公里玩手机",
-      "tags": [
-        "行业",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "auto-54746446fda2",
-      "title": "HMD Salo 手机曝光：面向 B 端市场，搭骁龙 4 Gen 2 处理器",
-      "source": "IT之家",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-25",
-      "time": "23:55",
-      "publishedAt": "2026-08-25T23:55:07.000Z",
-      "url": "https://www.ithome.com/0/994/316.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/8/d80033cc-0493-4749-9261-cf111cafcc0a.png?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 8 月 26 日消息，综合消息源 smashx_60 和 cosmo_bjoern，HMD Global 将于近期推出一款专门面向 B 端市场的 HMD Salo 手机，该机仅向企业开放销售，本质上是 2024 年被砍的 HMD Titan 5G 项目更名版本。 该机搭载一块 6.75 英寸 HD+ 90Hz IPS LCD 面板，匹配 8Mp…",
-      "tags": [
-        "行业",
-        "爆料",
-        "自动抓取"
       ]
     },
     {
@@ -979,26 +1019,6 @@ window.phoneRadarAuto = {
         "行业",
         "爆料",
         "酷安博主"
-      ]
-    },
-    {
-      "id": "auto-6a04e303c90a",
-      "title": "Huawei CEO reveals sale date for Pura X View phone",
-      "source": "Huawei Central",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-25",
-      "time": "04:01",
-      "publishedAt": "2026-08-25T04:01:17.000Z",
-      "url": "https://www.huaweicentral.com/huawei-ceo-reveals-sale-date-for-pura-x-view-phone/",
-      "image": "https://www.huaweicentral.com/wp-content/uploads/2026/08/PuraX-View.jpg",
-      "summary": "Huawei Pura X View launched as the first wide, flat-screen smartphone, and its sale date is now in sight. One of the company’s officials has revealed today when the flagship with…",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "自动抓取"
       ]
     },
     {
