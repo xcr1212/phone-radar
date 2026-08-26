@@ -1,6 +1,106 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-08-26T04:54:40.328Z",
+  "updatedAt": "2026-08-26T07:07:29.846Z",
   "news": [
+    {
+      "id": "auto-2cd3bdd44073",
+      "title": "蓝图 × 索尼 LYTIA610：vivo X500 Pro 手机官宣搭载全新 85mm 蔡司 6400 万 APO 超级长焦",
+      "source": "IT之家",
+      "brand": "vivo",
+      "model": "vivo 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-26",
+      "time": "06:59",
+      "publishedAt": "2026-08-26T06:59:51.000Z",
+      "url": "https://www.ithome.com/0/994/544.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/8/c81aad08-a55d-48b8-bd66-8f8631979c3a.jpg?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 8 月 26 日消息，vivo 通信科技有限公司产品经理韩伯啸今日宣布，vivo X500 Pro 手机将搭载全新 85mm 蔡司 6400 万 APO 超级长焦。他表示， 这个方案不逊于一些非硬件 4×isz 的 2 亿方案 。 首先是几乎为蓝厂量身定制的，蓝图 × 索尼 LYTIA610 （X500 标准版也是这颗） 。采用了非常大胆的 GG…",
+      "tags": [
+        "vivo",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-910628bd6868",
+      "title": "Oppo Find X10 series will use Tianma’s new screen to cut blue light exposure",
+      "source": "Gizmochina",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-26",
+      "time": "06:57",
+      "publishedAt": "2026-08-26T06:57:08.000Z",
+      "url": "https://www.gizmochina.com/2026/08/26/oppo-find-x10-series-will-use-tianmas-new-screen-to-cut-blue-light-exposure/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/08/Oppo-Find-X9-red-630x420-1-300x169.jpg?x23692",
+      "summary": "Oppo’s upcoming Find X10 series will use Tianma’s new Tiangong Screen 2.0, a high-end OLED panel that puts more emphasis on eye comfort and low-brightness performance. The second-…",
+      "tags": [
+        "OPPO",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-e60ab2ddf33d",
+      "title": "小米 18 Fold 真机曝光：提供类赤霞珠红配色、横向 Deco，采用阔折叠设计",
+      "source": "IT之家",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-26",
+      "time": "06:32",
+      "publishedAt": "2026-08-26T06:32:50.000Z",
+      "url": "https://www.ithome.com/0/994/536.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/8/a2b86041-3a58-4fb0-8698-1e80acab3e7b.png",
+      "summary": "IT之家 8 月 26 日消息，博主 @韩路 今日分享了网传的小米 18 Fold 真机图。 从博主分享的图片来看，小米 18 Fold 提供类似 REDMI K100 Pro Max 的赤霞珠红配色，后置横向跑道相机 Deco， 并采用阔折叠屏设计 。 目前，小米 18 Fold 全新折叠旗舰机百元预约现已开启。据IT之家此前报道， 小米 18 Fold…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-990e09fe0228",
+      "title": "Counterpoint：苹果 iPhone 17 成为 2026 年 Q2 全球最畅销智能手机",
+      "source": "IT之家",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-26",
+      "time": "05:57",
+      "publishedAt": "2026-08-26T05:57:03.000Z",
+      "url": "https://www.ithome.com/0/994/498.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/8/b4f4b1e0-b91e-4710-bd38-bd5e0798a3e3.png",
+      "summary": "IT之家 8 月 26 日消息，Counterpoint Research 最新数据显示， 苹果 iPhone 17 是 2026 年第二季度全球最畅销的智能手机 ，占据全球智能手机总出货量的 6% 份额，同时 iPhone 17 Pro Max 和 iPhone 17 Pro 也占据了榜单第二名和第三名的位置。 苹果和三星各占据全球畅销智能手机 TOP1…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-390ec0ea024c",
+      "title": "Xiaomi 18 Fold first real-life images leak, revealing design",
+      "source": "Gizmochina",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-26",
+      "time": "05:43",
+      "publishedAt": "2026-08-26T05:43:52.000Z",
+      "url": "https://www.gizmochina.com/2026/08/26/xiaomi-18-fold-first-real-life-images-leak-revealing-design/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/08/Xiaomi-18-Fold-design-leaks-300x200.jpg?x23692",
+      "summary": "New photos claiming to show the Xiaomi 18 Fold have started circulating online, and they look similar to a phone Xiaomi CEO Lei Jun was seen holding earlier this week. The phone i…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "coolapk-user-212f44521d97",
       "title": "竹本青：等更新了",
@@ -73,7 +173,7 @@ window.phoneRadarAuto = {
       "time": "03:53",
       "publishedAt": "2026-08-26T03:53:05.000Z",
       "url": "https://www.gizmochina.com/2026/08/26/vivo-x500-pro-max-x500-pro-periscope-telephoto-camera-details/",
-      "image": "https://www.gizmochina.com/wp-content/uploads/2026/08/Vivo-X500-Pro-Max-telpehoto-scaled.jpg?x23692",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/08/Vivo-X500-Pro-Max-telpehoto--300x231.jpg?x23692",
       "summary": "Vivo recently confirmed that the X500 series will launch in China in September. The lineup includes three models: the X500, X500 Pro, and X500 Pro Max. With only a couple of weeks…",
       "tags": [
         "vivo",
@@ -182,46 +282,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-f440843b8057",
-      "title": "中国地震局回应成都高新减灾研究所误报 7.7 级地震：地震部门曾多次约谈并要求严肃整改",
-      "source": "IT之家",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-26",
-      "time": "02:15",
-      "publishedAt": "2026-08-26T02:15:42.000Z",
-      "url": "https://www.ithome.com/0/994/376.htm",
-      "image": "",
-      "summary": "IT之家 8 月 26 日消息，2026 年 8 月 24 日 8 时 26 分，四川宜宾市长宁县发生 4.7 级地震。中国地震预警网震后 6 秒通过微信小程序、华为手机、小米手机和地震预警专用终端等渠道，向震中周边区域 1,000 余万用户推送了官方地震预警信息。此事引发公众广泛关注。 据央视新闻报道，中国地震局今日针对三方面问题进行回应。 中国地震局表…",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "coolapk-user-04678b414e45",
-      "title": "竹本青：【vivo X500 Pro Max 官方爆料：X300 Ultra同款三星HP0潜望长焦】 ▫️1/1.4\" 蓝…",
-      "source": "竹本青",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-08-26",
-      "time": "02:06",
-      "publishedAt": "2026-08-26T02:06:39.000Z",
-      "url": "https://www.coolapk.com/feed/73432613",
-      "image": "http://image.coolapk.com/feed/2026/0826/10/4248714_e34fdb5e_9998_4423_698@1440x2003.jpg",
-      "summary": "【vivo X500 Pro Max 官方爆料：X300 Ultra同款三星HP0潜望长焦】 ▫️1/1.4\" 蓝图×三星HP0，X300 Ultra同款 ▫️支持硬件4×isz ▫️云端增强放进相机入口 ▫️支持Ultra同款400mm增距镜 ▫️CIPA 7.0专业级防抖 ▫️超级抓拍引擎，至高30X抓拍 #今日热点# #vivoX500ProMax#…",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
       "id": "coolapk-user-a959daff0c73",
       "title": "JSCHEN小小狐：vivo X500 Pro Max 官宣搭载三星 HP0 潜望",
       "source": "JSCHEN小小狐",
@@ -282,6 +342,26 @@ window.phoneRadarAuto = {
       ]
     },
     {
+      "id": "newsnow-5eb84cb88c75",
+      "title": "要是那些2nm芯片，打不过3nm的玄戒O3，那就真成行业奇观了[捂脸] #小米18Fold# #玄戒O3# #REDMIK100ProMax#",
+      "source": "酷安热榜",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-08-26",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/73424237",
+      "image": "",
+      "summary": "要是那些2nm芯片，打不过3nm的玄戒O3，那就真成行业奇观了[捂脸] #小米18Fold# #玄戒O3# #REDMIK100ProMax#",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
       "id": "newsnow-dbb159f225b2",
       "title": "给大家说一个我们最近新折腾的东西，酷回收，之前好多酷友一直让我们做一个二手平台，不过以我们的资源和能力，根本不可能做一个二手平台，所以我们就换一个思路，搞手机回收试试看，回收相对更加简单，一般也不会咸鱼那些容易扯皮的事情；",
       "source": "酷安热榜",
@@ -302,21 +382,21 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-5eb84cb88c75",
-      "title": "要是那些2nm芯片，打不过3nm的玄戒O3，那就真成行业奇观了[捂脸] #小米18Fold# #玄戒O3# #REDMIK100ProMax#",
+      "id": "newsnow-2a0bab615027",
+      "title": "不知各位感觉到没有，在2026年的当下，手机系统的「重要性」正在被前所未有的拔高到新的战略高度。这在多年前可不是这样的，系统会成为购买决策的加分项，但硬件才是决定项。但是为什么是系统呢？为什么硬件的高度成熟没有削弱系统的重要性呢？",
       "source": "酷安热榜",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
+      "brand": "行业",
+      "model": "智能手机市场",
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-08-26",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73424237",
+      "url": "https://www.coolapk.com/feed/73433230",
       "image": "",
-      "summary": "要是那些2nm芯片，打不过3nm的玄戒O3，那就真成行业奇观了[捂脸] #小米18Fold# #玄戒O3# #REDMIK100ProMax#",
+      "summary": "不知各位感觉到没有，在2026年的当下，手机系统的「重要性」正在被前所未有的拔高到新的战略高度。这在多年前可不是这样的，系统会成为购买决策的加分项，但硬件才是决定项。但是为什么是系统呢？为什么硬件的高度成熟没有削弱系统的重要性呢？",
       "tags": [
-        "Xiaomi",
+        "行业",
         "爆料",
         "NewsNow"
       ]

@@ -1,12 +1,12 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-08-26T04:54:40.328Z",
+  "updatedAt": "2026-08-26T07:07:29.846Z",
   "issueDate": "2026-08-26",
   "issue": "VOL.260826",
   "title": "手机情报日报",
-  "intro": "今日筛出 18 条重点，其中 8 条是重点爆料，包含 6 条 iPhone 相关、2 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 17 条重点，其中 8 条是重点爆料，包含 5 条 iPhone 相关、2 条官方确认、0 条参数线索。",
   "stats": {
-    "total": 18,
-    "iphone": 6,
+    "total": 17,
+    "iphone": 5,
     "leaks": 8,
     "official": 2,
     "specs": 0
@@ -59,6 +59,29 @@ window.phoneRadarDaily = {
           "detail": "iPhone 发布 / 上市相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
           "keyPoints": [
             "爆料"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "auto-2cd3bdd44073",
+          "title": "蓝图 × 索尼 LYTIA610：vivo X500 Pro 手机官宣搭载全新 85mm 蔡司 6400 万 APO 超级长焦",
+          "originalTitle": "",
+          "source": "IT之家",
+          "brand": "vivo",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-08-26",
+          "time": "06:59",
+          "publishedAt": "2026-08-26T06:59:51.000Z",
+          "url": "https://www.ithome.com/0/994/544.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/8/c81aad08-a55d-48b8-bd66-8f8631979c3a.jpg?x-bce-process=image/format,f_auto",
+          "verdict": "先看",
+          "takeaway": "IT之家 8 月 26 日消息，vivo 通信科技有限公司产品经理韩伯啸今日宣布，vivo X500 Pro 手机将搭载全新 85mm 蔡司 6400 万 APO 超级长焦。他表示， 这个方案不逊于一些非硬件 4×isz 的 2 亿方案 。 首先是几乎为蓝厂量身定制的，蓝图 × 索尼 LYTIA610 （X500 标准版也是这颗） 。采用了非常大胆的 GG…",
+          "detail": "IT之家 8 月 26 日消息，vivo 通信科技有限公司产品经理韩伯啸今日宣布，vivo X500 Pro 手机将搭载全新 85mm 蔡司 6400 万 APO 超级长焦。他表示， 这个方案不逊于一些非硬件 4×isz 的 2 亿方案 。 首先是几乎为蓝厂量身定制的，蓝图 × 索尼 LYTIA610 （X500 标准版也是这颗） 。采用了非常大胆的 GG…",
+          "keyPoints": [
+            "影像硬件"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
@@ -131,30 +154,6 @@ window.phoneRadarDaily = {
             "爆料来源"
           ],
           "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "coolapk-user-04678b414e45",
-          "title": "竹本青：【vivo X500 Pro Max 官方爆料：X300 Ultra同款三星HP0潜望长焦】 ▫️1/1.4\" 蓝…",
-          "originalTitle": "",
-          "source": "竹本青",
-          "brand": "Samsung",
-          "type": "爆料",
-          "trust": "高可信爆料",
-          "date": "2026-08-26",
-          "time": "02:06",
-          "publishedAt": "2026-08-26T02:06:39.000Z",
-          "url": "https://www.coolapk.com/feed/73432613",
-          "image": "http://image.coolapk.com/feed/2026/0826/10/4248714_e34fdb5e_9998_4423_698@1440x2003.jpg",
-          "verdict": "先看",
-          "takeaway": "【vivo X500 Pro Max 官方爆料：X300 Ultra同款三星HP0潜望长焦】 ▫️1/1.4\" 蓝图×三星HP0，X300 Ultra同款 ▫️支持硬件4×isz ▫️云端增强放进相机入口 ▫️支持Ultra同款400mm增距镜 ▫️CIPA 7.0专业级防抖 ▫️超级抓拍引擎，至高30X抓拍 #今日热点# #vivoX500ProMax#…",
-          "detail": "【vivo X500 Pro Max 官方爆料：X300 Ultra同款三星HP0潜望长焦】 ▫️1/1.4\" 蓝图×三星HP0，X300 Ultra同款 ▫️支持硬件4×isz ▫️云端增强放进相机入口 ▫️支持Ultra同款400mm增距镜 ▫️CIPA 7.0专业级防抖 ▫️超级抓拍引擎，至高30X抓拍 #今日热点# #vivoX500ProMax#…",
-          "keyPoints": [
-            "影像硬件",
-            "爆料来源"
-          ],
-          "confidence": "可信度较高，但仍属于发布前线索。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
@@ -283,29 +282,6 @@ window.phoneRadarDaily = {
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "影响日常体验，尤其是游戏、拍照和长时间使用。",
           "action": "有具体参数就记录到参数库；没有参数就先收藏。"
-        },
-        {
-          "id": "auto-27bc2b3e43a3",
-          "title": "iPhone 相关消息",
-          "originalTitle": "",
-          "source": "9to5Mac",
-          "brand": "iPhone",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-08-25",
-          "time": "17:30",
-          "publishedAt": "2026-08-25T17:30:58.000Z",
-          "url": "https://9to5mac.com/2026/08/25/apple-just-revealed-two-ways-iphone-18-pro-could-get-big-upgrades/",
-          "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/iphone-18-pro-black-mockup.jpg?quality=82&strip=all&w=1600",
-          "verdict": "扫一眼",
-          "takeaway": "iPhone 相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
-          "detail": "iPhone 相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
-          "keyPoints": [
-            "芯片 / 性能"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "有具体参数就记录到参数库；没有参数就先收藏。"
         }
       ]
     },
@@ -336,29 +312,6 @@ window.phoneRadarDaily = {
           "confidence": "官方内容，可直接作为已确认信息记录。",
           "impact": "可信度高，但如果不是配置/价格消息，只需要扫一眼。",
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
-        {
-          "id": "auto-12e3e38b7d25",
-          "title": "vivo 影像能力相关消息",
-          "originalTitle": "",
-          "source": "Gizmochina",
-          "brand": "vivo",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-08-26",
-          "time": "03:53",
-          "publishedAt": "2026-08-26T03:53:05.000Z",
-          "url": "https://www.gizmochina.com/2026/08/26/vivo-x500-pro-max-x500-pro-periscope-telephoto-camera-details/",
-          "image": "https://www.gizmochina.com/wp-content/uploads/2026/08/Vivo-X500-Pro-Max-telpehoto-scaled.jpg?x23692",
-          "verdict": "可略过",
-          "takeaway": "vivo 有系统功能或 AI 体验更新，适合关注后续是否影响日常使用。",
-          "detail": "vivo 影像能力相关消息。重点看影像功能是否和新机硬件有关，如果只是拍摄案例或营销内容，参考价值会低一些。",
-          "keyPoints": [
-            "影像硬件"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "影响拍照体验，买旗舰机时值得关注。",
-          "action": "有具体参数就记录到参数库；没有参数就先收藏。"
         }
       ]
     },
@@ -367,6 +320,29 @@ window.phoneRadarDaily = {
       "title": "行业趋势",
       "hint": "看方向，不急着当购买依据。",
       "items": [
+        {
+          "id": "auto-990e09fe0228",
+          "title": "Counterpoint：苹果 iPhone 17 成为 2026 年 Q2 全球最畅销智能手机",
+          "originalTitle": "",
+          "source": "IT之家",
+          "brand": "Samsung",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-08-26",
+          "time": "05:57",
+          "publishedAt": "2026-08-26T05:57:03.000Z",
+          "url": "https://www.ithome.com/0/994/498.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/8/b4f4b1e0-b91e-4710-bd38-bd5e0798a3e3.png",
+          "verdict": "先看",
+          "takeaway": "IT之家 8 月 26 日消息，Counterpoint Research 最新数据显示， 苹果 iPhone 17 是 2026 年第二季度全球最畅销的智能手机 ，占据全球智能手机总出货量的 6% 份额，同时 iPhone 17 Pro Max 和 iPhone 17 Pro 也占据了榜单第二名和第三名的位置。 苹果和三星各占据全球畅销智能手机 TOP1…",
+          "detail": "IT之家 8 月 26 日消息，Counterpoint Research 最新数据显示， 苹果 iPhone 17 是 2026 年第二季度全球最畅销的智能手机 ，占据全球智能手机总出货量的 6% 份额，同时 iPhone 17 Pro Max 和 iPhone 17 Pro 也占据了榜单第二名和第三名的位置。 苹果和三星各占据全球畅销智能手机 TOP1…",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "中文源可以直接点开快读；看完只保留和购机有关的点。"
+        },
         {
           "id": "newsnow-dbb159f225b2",
           "title": "给大家说一个我们最近新折腾的东西，酷回收，之前好多酷友一直让我们做一个二手平台，不过以我们的资源和能力，根本不可能做一个二手平台，所以我们就换一个思路，搞手机回收试试看，回收相对更加简单，一般也不会咸鱼那些容易扯皮的事情；",
@@ -383,6 +359,29 @@ window.phoneRadarDaily = {
           "verdict": "扫一眼",
           "takeaway": "给大家说一个我们最近新折腾的东西，酷回收，之前好多酷友一直让我们做一个二手平台，不过以我们的资源和能力，根本不可能做一个二手平台，所以我们就换一个思路，搞手机回收试试看，回收相对更加简单，一般也不会咸鱼那些容易扯皮的事情；",
           "detail": "给大家说一个我们最近新折腾的东西，酷回收，之前好多酷友一直让我们做一个二手平台，不过以我们的资源和能力，根本不可能做一个二手平台，所以我们就换一个思路，搞手机回收试试看，回收相对更加简单，一般也不会咸鱼那些容易扯皮的事情；",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        },
+        {
+          "id": "newsnow-2a0bab615027",
+          "title": "不知各位感觉到没有，在2026年的当下，手机系统的「重要性」正在被前所未有的拔高到新的战略高度。这在多年前可不是这样的，系统会成为购买决策的加分项，但硬件才是决定项。但是为什么是系统呢？为什么硬件的高度成熟没有削弱系统的重要性呢？",
+          "originalTitle": "",
+          "source": "酷安热榜",
+          "brand": "行业",
+          "type": "爆料",
+          "trust": "高关注爆料源",
+          "date": "2026-08-26",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://www.coolapk.com/feed/73433230",
+          "image": "",
+          "verdict": "扫一眼",
+          "takeaway": "不知各位感觉到没有，在2026年的当下，手机系统的「重要性」正在被前所未有的拔高到新的战略高度。这在多年前可不是这样的，系统会成为购买决策的加分项，但硬件才是决定项。但是为什么是系统呢？为什么硬件的高度成熟没有削弱系统的重要性呢？",
+          "detail": "不知各位感觉到没有，在2026年的当下，手机系统的「重要性」正在被前所未有的拔高到新的战略高度。这在多年前可不是这样的，系统会成为购买决策的加分项，但硬件才是决定项。但是为什么是系统呢？为什么硬件的高度成熟没有削弱系统的重要性呢？",
           "keyPoints": [
             "爆料"
           ],
@@ -429,29 +428,6 @@ window.phoneRadarDaily = {
           "verdict": "扫一眼",
           "takeaway": "看评论区说14U话题有故意弄坏换新15U、17U的，刚去搜了一下 确实不少…… #小米15Ultra# #小米17Ultra# #小米14Ultra#",
           "detail": "看评论区说14U话题有故意弄坏换新15U、17U的，刚去搜了一下 确实不少…… #小米15Ultra# #小米17Ultra# #小米14Ultra#",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "可信度较高，但仍属于发布前线索。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
-        {
-          "id": "coolapk-user-dd30274da823",
-          "title": "JSCHEN小小狐：博主对比骁龙、天玑 2nm 旗舰平台顶配规格",
-          "originalTitle": "",
-          "source": "JSCHEN小小狐",
-          "brand": "行业",
-          "type": "爆料",
-          "trust": "高可信爆料",
-          "date": "2026-08-25",
-          "time": "05:25",
-          "publishedAt": "2026-08-25T05:25:54.000Z",
-          "url": "https://www.coolapk.com/feed/73419221",
-          "image": "http://image.coolapk.com/feed/2026/0825/13/4702274_93f84964_5552_9482_395@1440x1151.jpg",
-          "verdict": "扫一眼",
-          "takeaway": "『博主对比骁龙、天玑 2nm 旗舰平台顶配规格』 骁龙 8 Elite Extreme Gen6（SM8975） ◇ 台积电 N2p 制程工艺 ◇ 2+3+3 Oryon CPU 架构 ◇ 双超大核主频 5.01GHz ◇ 2×5.01GHz + 3×4.03GHz + 3×3.74GHz ◇ Adreno 850 6 Slice GPU 天玑 9600…",
-          "detail": "『博主对比骁龙、天玑 2nm 旗舰平台顶配规格』 骁龙 8 Elite Extreme Gen6（SM8975） ◇ 台积电 N2p 制程工艺 ◇ 2+3+3 Oryon CPU 架构 ◇ 双超大核主频 5.01GHz ◇ 2×5.01GHz + 3×4.03GHz + 3×3.74GHz ◇ Adreno 850 6 Slice GPU 天玑 9600…",
           "keyPoints": [
             "爆料"
           ],
