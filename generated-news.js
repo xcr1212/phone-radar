@@ -1,6 +1,246 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-08-26T09:01:29.660Z",
+  "updatedAt": "2026-08-26T10:51:04.849Z",
   "news": [
+    {
+      "id": "weibo-79704a1ec658",
+      "title": "数码闲聊站：9.7疑似有3场发布会，都是TOP5手机大厂……[哆啦A梦害怕]",
+      "source": "数码闲聊站",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-08-26",
+      "time": "10:43",
+      "publishedAt": "2026-08-26T10:43:00.000Z",
+      "url": "https://weibo.com/6048569942/RfcDdgl5n",
+      "image": "",
+      "summary": "9.7疑似有3场发布会，都是TOP5手机大厂……[哆啦A梦害怕]",
+      "tags": [
+        "行业",
+        "爆料",
+        "微博"
+      ]
+    },
+    {
+      "id": "auto-67bcbdf82ea1",
+      "title": "Galaxy S24 series gets August 2026 security update",
+      "source": "SamMobile",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-26",
+      "time": "10:40",
+      "publishedAt": "2026-08-26T10:40:53.000Z",
+      "url": "https://www.sammobile.com/news/galaxy-s24-series-gets-august-2026-security-update/",
+      "image": "",
+      "summary": "Samsung, after rolling out the August 2026 security patch to the Galaxy S26 and the Galaxy S25 series, is now rolling it out to the Galaxy S24 lineup. The update is live in the br…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-3079d9b7a8c8",
+      "title": "The Pixel 11 Pro is the wrong Pixel to buy this year",
+      "source": "Android Authority",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-26",
+      "time": "10:30",
+      "publishedAt": "2026-08-26T10:30:36.000Z",
+      "url": "https://www.androidauthority.com/pixel-11-pro-wrong-pixel-buy-3699311/",
+      "image": "",
+      "summary": "The Pro has its upsides, but is it enough to justify the extra cost?",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-7b7ed5fe7511",
+      "title": "New Galaxy S25 update brings August 2026 security patch",
+      "source": "SamMobile",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-26",
+      "time": "10:13",
+      "publishedAt": "2026-08-26T10:13:53.000Z",
+      "url": "https://www.sammobile.com/news/new-galaxy-s25-update-brings-august-2026-security-patch/",
+      "image": "",
+      "summary": "After a slow start to the August 2026 security patch rollout, Samsung is finally picking up the pace. Earlier today, the brand released the update for the Galaxy S26 lineup, and n…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-210d646f8572",
+      "title": "The Galaxy S26 Ultra just achieved a first for Android phone sales",
+      "source": "Android Authority",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-26",
+      "time": "10:04",
+      "publishedAt": "2026-08-26T10:04:40.000Z",
+      "url": "https://www.androidauthority.com/best-selling-android-phone-q2-2026-3703124/",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2026/03/Samsung-Galaxy-S26-Ultra-home-screen.jpg",
+      "summary": "Samsung is the sole Android brand in the top 10, but the S26 Ultra also made a notable achievement.",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-187216f5ed34",
+      "title": "Google's $900 Pixel 11 killed the cheap Android dream we all believed in",
+      "source": "Android Police",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-26",
+      "time": "10:00",
+      "publishedAt": "2026-08-26T10:00:10.000Z",
+      "url": "https://www.androidpolice.com/pixel-11-900-new-android-floor/",
+      "image": "",
+      "summary": "When four phone makers control the market, your $900 Pixel 11 is only the beginning",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-1a431296ae67",
+      "title": "张雪 820X ADV 摩托车实车曝光，有望 9 月摩博会上市",
+      "source": "IT之家",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-26",
+      "time": "09:57",
+      "publishedAt": "2026-08-26T09:57:22.000Z",
+      "url": "https://www.ithome.com/0/994/683.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/8/068b465d-3b7d-47d1-b48a-e96fda8c30a5.jpg?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 8 月 26 日消息，网上日前流传出张雪 820X 摩托车的实车图，这是一款 ADV 车型（探险摩托车）。 从图中可以看到，车上印有 820X 字样，配备类似手机比例的 竖向仪表屏 ，尾部搭载尾箱。 IT之家注意到，张雪 820X 本月已现身工信部申报名单，还有黑色尾箱版本； 搭载 819cc 排量直列三缸水冷发动机，最大功率 85kW 。 张雪…",
+      "tags": [
+        "行业",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-a42bc6aeee75",
+      "title": "New Galaxy S25 FE update brings August 2026 security patch",
+      "source": "SamMobile",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-26",
+      "time": "09:46",
+      "publishedAt": "2026-08-26T09:46:26.000Z",
+      "url": "https://www.sammobile.com/news/new-galaxy-s25-fe-update-brings-august-2026-security-patch/",
+      "image": "",
+      "summary": "Samsung has started rolling out a new software update to the Galaxy S25 FE. It brings the August 2026 security patch, which fixes 56 security issues. As usual, the brand is offeri…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-7fd07725e40a",
+      "title": "Samsung appears to have fixed Galaxy S26 Ultra’s display red tint issue",
+      "source": "SamMobile",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-26",
+      "time": "09:40",
+      "publishedAt": "2026-08-26T09:40:58.000Z",
+      "url": "https://www.sammobile.com/news/samsung-may-have-fixed-galaxy-s26-ultra-display-red-tint-issue/",
+      "image": "",
+      "summary": "Last month, the users of the Galaxy S26 Ultra started complaining that a red tint had appeared on the displays of their phones. Samsung acknowledged the problem and said it would…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-1471c08bd13e",
+      "title": "Samsung Galaxy S27 Ultra may look familiar until you see its camera bump",
+      "source": "Android Police",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-26",
+      "time": "09:22",
+      "publishedAt": "2026-08-26T09:22:05.000Z",
+      "url": "https://www.androidpolice.com/samsung-galaxy-s27-ultra-may-look-familiar-until-see-camera-bump/",
+      "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2026/03/samsung_galaxy_s26_ultra_double-2.jpg",
+      "summary": "It's going to be all about that camera island",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-dd19febf17e1",
+      "title": "The HUAWEI Pura 90s Pro Max is so good that it makes me a little sad",
+      "source": "Android Authority",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-26",
+      "time": "09:15",
+      "publishedAt": "2026-08-26T09:15:21.000Z",
+      "url": "https://www.androidauthority.com/huawei-pura-90s-pro-max-hands-on-3700133/",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2026/08/HUAWEI-Pura-90s-Pro-Max-8.jpg",
+      "summary": "HUAWEI's Google-less phones continue to be a painful reminder of what could have been.",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-c750965f5fcb",
+      "title": "Galaxy S26, S26+, S26 Ultra get August 2026 security update",
+      "source": "SamMobile",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-26",
+      "time": "09:12",
+      "publishedAt": "2026-08-26T09:12:14.000Z",
+      "url": "https://www.sammobile.com/news/galaxy-s26-s26-s26-ultra-get-august-2026-security-update/",
+      "image": "",
+      "summary": "Samsung started rolling out this month’s security patch to Galaxy smartphones later than usual. On top of that, the brand has been rolling out the update rather slowly, with many…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-7c7b9a60c74e",
       "title": "Google’s smartest Pixel 11 Pro feature is already driving me crazy",
@@ -54,7 +294,7 @@ window.phoneRadarAuto = {
       "publishedAt": "2026-08-26T08:07:41.000Z",
       "url": "https://www.coolapk.com/feed/73438201",
       "image": "http://image.coolapk.com/feed/2026/0826/16/4702274_7d4da097_1660_2283_280@1440x421.jpg",
-      "summary": "『OPPO Find X10 系列命名曝光：含三款机型』 知名数码博主 数码闲聊站 今日曝光了 OPPO Find X10 系列新机命名，共包括以下三款机型： · OPPO Find X10 Pro Max（大屏） · OPPO Find X10（中屏） · OPPO Find X10E（中屏） X10 Pro Max： ◇ 6.78\"± 1.5K LTP…",
+      "summary": "『OPPO Find X10 系列命名曝光：含三款机型』 知名数码博主 数码闲聊站 今日曝光了 OPPO Find X10 系列新机命名，共包括以下三款机型： · OPPO Find X10 Pro Max（大屏） · OPPO Find X10（中屏） · OPPO Find X10 E（中屏） X10 Pro Max： ◇ 6.78\" 1.5K LTP…",
       "tags": [
         "OPPO",
         "爆料",
@@ -102,66 +342,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-e7454cb4c52d",
-      "title": "奥之心官宣 9 月 9 日发布新品，有望为 PEN 系列相机",
-      "source": "IT之家",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-26",
-      "time": "07:37",
-      "publishedAt": "2026-08-26T07:37:05.000Z",
-      "url": "https://www.ithome.com/0/994/569.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/8/4fb5fbb7-fd28-4758-9c15-f02aae8354d0.jpg",
-      "summary": "IT之家 8 月 26 日消息，奥之心（OM Digital Solutions）宣布将于 2026 年 9 月 9 日发布新品。 关于这款新品，43Rumors 称已确认奥之心 9 月 9 日发布的新品为一款 PEN 系列相机，同时还放出了一张新机的轮廓图，显示其顶部设计比奥林巴斯 PEN-F 更为简洁。 IT之家注意到，奥之心此前在 2026 年 CP…",
-      "tags": [
-        "行业",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-028686935cb7",
-      "title": "消息称小米 REDMI K100 标准版手机将配 10000mAh 巨量电池，搭载骁龙 8 至尊处理器",
-      "source": "IT之家",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-26",
-      "time": "07:35",
-      "publishedAt": "2026-08-26T07:35:14.000Z",
-      "url": "https://www.ithome.com/0/994/568.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/8/548ff79e-5a99-461c-b45a-791d4458b3d9.jpg?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 8 月 26 日消息，博主 @数码闲聊站 今日发文透露， 某厂子系新机将配备 10000mAh± 巨容量电池 ，搭载骁龙 8E 处理器（即骁龙 8 至尊版）和 1.5K 超高刷大直屏。 从评论区讨论来看， 这款新机预计是 REDMI K100 标准版机型 。 IT之家注意到，在 8 月 11 日的 REDMI K100 Pro 系列新品发布会上，…",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-ce647125d094",
-      "title": "三星 Galaxy S27 Ultra 手机机模曝光：厚约 7.9mm，重构后摄布局",
-      "source": "IT之家",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-26",
-      "time": "07:25",
-      "publishedAt": "2026-08-26T07:25:40.000Z",
-      "url": "https://www.ithome.com/0/994/559.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/8/1349ac7c-ebeb-4943-af43-93ef42489c9b.jpg?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 8 月 26 日消息，消息源 @wallegalaxy 今天（8 月 26 日）在 X 平台发布推文，分享了一组来自第三方配件厂商的照片， 展示了三星 Galaxy S27 Ultra 机模。 消息源称 Galaxy S27 Ultra 机模厚度约为 7.9mm，与 Galaxy S26 Ultra 接近。新机边框及其他主要结构预计不会出现明显变…",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "weibo-5d6bf6d5de6f",
       "title": "数码闲聊站：独家，小杯中屏E/中杯中屏标准版3nm DX5/大大杯大屏PM 2nm DX6…",
       "source": "数码闲聊站",
@@ -179,26 +359,6 @@ window.phoneRadarAuto = {
         "行业",
         "爆料",
         "微博"
-      ]
-    },
-    {
-      "id": "auto-2cd3bdd44073",
-      "title": "蓝图 × 索尼 LYTIA610：vivo X500 Pro 手机官宣搭载全新 85mm 蔡司 6400 万 APO 超级长焦",
-      "source": "IT之家",
-      "brand": "vivo",
-      "model": "vivo 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-26",
-      "time": "06:59",
-      "publishedAt": "2026-08-26T06:59:51.000Z",
-      "url": "https://www.ithome.com/0/994/544.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/8/c81aad08-a55d-48b8-bd66-8f8631979c3a.jpg?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 8 月 26 日消息，vivo 通信科技有限公司产品经理韩伯啸今日宣布，vivo X500 Pro 手机将搭载全新 85mm 蔡司 6400 万 APO 超级长焦。他表示， 这个方案不逊于一些非硬件 4×isz 的 2 亿方案 。 首先是几乎为蓝厂量身定制的，蓝图 × 索尼 LYTIA610 （X500 标准版也是这颗） 。采用了非常大胆的 GG…",
-      "tags": [
-        "vivo",
-        "爆料",
-        "自动抓取"
       ]
     },
     {
@@ -239,26 +399,6 @@ window.phoneRadarAuto = {
         "Xiaomi",
         "爆料",
         "自动抓取"
-      ]
-    },
-    {
-      "id": "coolapk-user-212f44521d97",
-      "title": "竹本青：等更新了",
-      "source": "竹本青",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-08-26",
-      "time": "04:34",
-      "publishedAt": "2026-08-26T04:34:19.000Z",
-      "url": "https://www.coolapk.com/feed/73435190",
-      "image": "http://image.coolapk.com/feed/2026/0826/12/4248714_2fa92982_8858_3304_494@1440x808.jpg",
-      "summary": "等更新了",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "酷安博主"
       ]
     },
     {
@@ -542,21 +682,41 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-76328cca84b1",
+      "id": "newsnow-a1fa74653404",
       "title": "鸿蒙成世界第三大手机操作系统",
-      "source": "今日头条热榜",
+      "source": "微博热搜",
       "brand": "Huawei",
       "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "待验证",
+      "date": "2026-08-26",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://s.weibo.com/weibo?q=%E9%B8%BF%E8%92%99%E6%88%90%E4%B8%96%E7%95%8C%E7%AC%AC%E4%B8%89%E5%A4%A7%E6%89%8B%E6%9C%BA%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F&t=31&band_rank=19&Refer=top",
+      "image": "",
+      "summary": "鸿蒙成世界第三大手机操作系统",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-dd862d44c211",
+      "title": "办事大厅被曝9点没人上班后禁带手机",
+      "source": "今日头条热榜",
+      "brand": "行业",
+      "model": "智能手机市场",
       "type": "爆料",
       "trust": "媒体汇总",
       "date": "2026-08-26",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.toutiao.com/trending/7678173607227474470/",
+      "url": "https://www.toutiao.com/trending/7678115105061634111/",
       "image": "",
-      "summary": "鸿蒙成世界第三大手机操作系统",
+      "summary": "办事大厅被曝9点没人上班后禁带手机",
       "tags": [
-        "Huawei",
+        "行业",
         "爆料",
         "NewsNow"
       ]
@@ -922,26 +1082,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-bb06cd8479cf",
-      "title": "China’s best answer to the Galaxy Z TriFold is coming next month",
-      "source": "SamMobile",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-25",
-      "time": "13:09",
-      "publishedAt": "2026-08-25T13:09:00.000Z",
-      "url": "https://www.sammobile.com/news/chinas-best-answer-to-the-galaxy-z-trifold-is-coming-next-month/",
-      "image": "",
-      "summary": "Samsung is among the very few manufacturers who've made and sold a tri-folding phone. The Galaxy Z TriFold only got a limited launch, but its established Samsung's ability to push…",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "weibo-6b52a133174f",
       "title": "数码闲聊站：刚刚确认了一下，骁龙下一代旗舰芯的定频就是5.0GHz，全球首个5GHz手机C…",
       "source": "数码闲聊站",
@@ -959,26 +1099,6 @@ window.phoneRadarAuto = {
         "行业",
         "爆料",
         "微博"
-      ]
-    },
-    {
-      "id": "auto-4f6ebc09b749",
-      "title": "Samsung might offer a luxury branded Galaxy Z Fold 8 edition soon",
-      "source": "SamMobile",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-25",
-      "time": "12:11",
-      "publishedAt": "2026-08-25T12:11:38.000Z",
-      "url": "https://www.sammobile.com/news/samsung-might-offer-a-luxury-branded-galaxy-z-fold-8-edition-soon/",
-      "image": "",
-      "summary": "Samsung has collaborated with several luxury brands in the past to develop special editions of its popular devices. If a new report out of South Korea is to be believed, the compa…",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
       ]
     },
     {
@@ -1239,26 +1359,6 @@ window.phoneRadarAuto = {
         "行业",
         "爆料",
         "酷安博主"
-      ]
-    },
-    {
-      "id": "weibo-9d76746b15b2",
-      "title": "数码闲聊站：骁龙8 Elite Extreme Gen6/SM8975： 台积电N2p，2…",
-      "source": "数码闲聊站",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-08-25",
-      "time": "03:23",
-      "publishedAt": "2026-08-25T03:23:39.000Z",
-      "url": "https://weibo.com/6048569942/Rf0ko4k9T",
-      "image": "https://tvax1.sinaimg.cn/mw2000/006BlblIly1igfwvclognj30xv1vkkc8.jpg",
-      "summary": "骁龙8 Elite Extreme Gen6/SM8975： 台积电N2p，2+3+3 Oryon CPU架构，双超大核主频5.01GHz，2*5.01GHz+3*4.03GHz+3*3.74GHz，Adreno 850 GPU 天玑9600 Pro： 台积电N2p，2+3+3架构，双Canyon超大核主频4.55GHz，2*4.55GHz Canyon+…",
-      "tags": [
-        "行业",
-        "爆料",
-        "微博"
       ]
     }
   ]
