@@ -1,6 +1,186 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-08-26T07:07:29.846Z",
+  "updatedAt": "2026-08-26T09:01:29.660Z",
   "news": [
+    {
+      "id": "auto-7c7b9a60c74e",
+      "title": "Google’s smartest Pixel 11 Pro feature is already driving me crazy",
+      "source": "Android Authority",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-26",
+      "time": "09:00",
+      "publishedAt": "2026-08-26T09:00:41.000Z",
+      "url": "https://www.androidauthority.com/pixel-11-pro-hilight-hands-on-issues-3701386/",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2026/08/HiLight-for-calls-working-on-Google-11-Pro-XL.jpg",
+      "summary": "A bright idea gone dim.",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-8c7d29817fde",
+      "title": "工信部：鸿蒙手机操作系统成为世界第三大手机操作系统，开源鸿蒙生态设备累计超 13.5 亿台",
+      "source": "IT之家",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-26",
+      "time": "08:42",
+      "publishedAt": "2026-08-26T08:42:37.000Z",
+      "url": "https://www.ithome.com/0/994/630.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/8/1fcc89fb-3921-4dbe-9113-a7414a8c7be5.jpg?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 8 月 26 日消息，国务院新闻办公室今日举行“开局起步‘十五五’”系列主题新闻发布会，介绍全力抓好“十五五”规划实施，加快推进新型工业化有关情况。 工业和信息化部信息通信发展司司长刘郁林在回答相关提问时表示，基础软件是数字社会的“基石”，工业软件是制造业数字化转型的“灵魂”。“十四五”以来，我国基础软件和工业软件的供给能力和应用水平大幅提升。…",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-5cb4c3c23a7c",
+      "title": "JSCHEN小小狐：OPPO Find X10 系列命名曝光：含三款机型",
+      "source": "JSCHEN小小狐",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-08-26",
+      "time": "08:07",
+      "publishedAt": "2026-08-26T08:07:41.000Z",
+      "url": "https://www.coolapk.com/feed/73438201",
+      "image": "http://image.coolapk.com/feed/2026/0826/16/4702274_7d4da097_1660_2283_280@1440x421.jpg",
+      "summary": "『OPPO Find X10 系列命名曝光：含三款机型』 知名数码博主 数码闲聊站 今日曝光了 OPPO Find X10 系列新机命名，共包括以下三款机型： · OPPO Find X10 Pro Max（大屏） · OPPO Find X10（中屏） · OPPO Find X10E（中屏） X10 Pro Max： ◇ 6.78\"± 1.5K LTP…",
+      "tags": [
+        "OPPO",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-8958ebe24d54",
+      "title": "vivo X500 Pro Max 手机搭载蔡司 2 亿 APO 超级长焦：X300 Ultra 同款传感器，1/1.4\" 三星 HP0",
+      "source": "IT之家",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-26",
+      "time": "07:54",
+      "publishedAt": "2026-08-26T07:54:12.000Z",
+      "url": "https://www.ithome.com/0/994/579.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/8/a77bedf3-46e5-4034-bd81-78f7a3d95690.jpg?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 8 月 26 日消息，vivo 通信科技有限公司产品经理韩伯啸今日宣布，vivo X500 Pro Max 手机搭载蔡司 2 亿 APO 超级长焦，传感器为 X300 Ultra 同款 ， 1/1.4\" 蓝图 × 三星 HP0 。 韩伯啸表示，传感器支持 硬件 4 × isz ，能实现两次无损变焦，2 亿像素做长焦的价值才能发挥出来。此外，本代新…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-940d4a7d126a",
+      "title": "小米澎湃 OS 4 相机美学焕新：深度对齐系统设计体系，非 Xiaomi 17 Ultra 徕卡版机型可体验",
+      "source": "IT之家",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-26",
+      "time": "07:42",
+      "publishedAt": "2026-08-26T07:42:23.000Z",
+      "url": "https://www.ithome.com/0/994/573.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/8/7bc2a3ba-a4e5-403c-a9e4-d53106ffb6a4.jpg?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 8 月 26 日消息，小米相机部的产品经理 @Bao_小李 今日宣布，小米澎湃 OS 4 相机整体都做了美学焕新， 深度对齐系统设计体系，统一字体、重绘图标 。 需要注意的是， 这次改动升级只针对「非 Xiaomi 17 Ultra 徕卡版 」生效 。 小米相机部的产品经理 @Bao_小李 解释称，小米 17 Ultra 徕卡版本的相机软件整体设…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-e7454cb4c52d",
+      "title": "奥之心官宣 9 月 9 日发布新品，有望为 PEN 系列相机",
+      "source": "IT之家",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-26",
+      "time": "07:37",
+      "publishedAt": "2026-08-26T07:37:05.000Z",
+      "url": "https://www.ithome.com/0/994/569.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/8/4fb5fbb7-fd28-4758-9c15-f02aae8354d0.jpg",
+      "summary": "IT之家 8 月 26 日消息，奥之心（OM Digital Solutions）宣布将于 2026 年 9 月 9 日发布新品。 关于这款新品，43Rumors 称已确认奥之心 9 月 9 日发布的新品为一款 PEN 系列相机，同时还放出了一张新机的轮廓图，显示其顶部设计比奥林巴斯 PEN-F 更为简洁。 IT之家注意到，奥之心此前在 2026 年 CP…",
+      "tags": [
+        "行业",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-028686935cb7",
+      "title": "消息称小米 REDMI K100 标准版手机将配 10000mAh 巨量电池，搭载骁龙 8 至尊处理器",
+      "source": "IT之家",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-26",
+      "time": "07:35",
+      "publishedAt": "2026-08-26T07:35:14.000Z",
+      "url": "https://www.ithome.com/0/994/568.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/8/548ff79e-5a99-461c-b45a-791d4458b3d9.jpg?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 8 月 26 日消息，博主 @数码闲聊站 今日发文透露， 某厂子系新机将配备 10000mAh± 巨容量电池 ，搭载骁龙 8E 处理器（即骁龙 8 至尊版）和 1.5K 超高刷大直屏。 从评论区讨论来看， 这款新机预计是 REDMI K100 标准版机型 。 IT之家注意到，在 8 月 11 日的 REDMI K100 Pro 系列新品发布会上，…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-ce647125d094",
+      "title": "三星 Galaxy S27 Ultra 手机机模曝光：厚约 7.9mm，重构后摄布局",
+      "source": "IT之家",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-26",
+      "time": "07:25",
+      "publishedAt": "2026-08-26T07:25:40.000Z",
+      "url": "https://www.ithome.com/0/994/559.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/8/1349ac7c-ebeb-4943-af43-93ef42489c9b.jpg?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 8 月 26 日消息，消息源 @wallegalaxy 今天（8 月 26 日）在 X 平台发布推文，分享了一组来自第三方配件厂商的照片， 展示了三星 Galaxy S27 Ultra 机模。 消息源称 Galaxy S27 Ultra 机模厚度约为 7.9mm，与 Galaxy S26 Ultra 接近。新机边框及其他主要结构预计不会出现明显变…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "weibo-5d6bf6d5de6f",
+      "title": "数码闲聊站：独家，小杯中屏E/中杯中屏标准版3nm DX5/大大杯大屏PM 2nm DX6…",
+      "source": "数码闲聊站",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-08-26",
+      "time": "07:14",
+      "publishedAt": "2026-08-26T07:14:00.000Z",
+      "url": "https://weibo.com/6048569942/RfbgnuIQj",
+      "image": "",
+      "summary": "独家，小杯中屏E/中杯中屏标准版3nm DX5/大大杯大屏PM 2nm DX6，中杯开始标配主摄/长焦双200Mp[偷乐]",
+      "tags": [
+        "行业",
+        "爆料",
+        "微博"
+      ]
+    },
     {
       "id": "auto-2cd3bdd44073",
       "title": "蓝图 × 索尼 LYTIA610：vivo X500 Pro 手机官宣搭载全新 85mm 蔡司 6400 万 APO 超级长焦",
@@ -37,46 +217,6 @@ window.phoneRadarAuto = {
       "summary": "Oppo’s upcoming Find X10 series will use Tianma’s new Tiangong Screen 2.0, a high-end OLED panel that puts more emphasis on eye comfort and low-brightness performance. The second-…",
       "tags": [
         "OPPO",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-e60ab2ddf33d",
-      "title": "小米 18 Fold 真机曝光：提供类赤霞珠红配色、横向 Deco，采用阔折叠设计",
-      "source": "IT之家",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-26",
-      "time": "06:32",
-      "publishedAt": "2026-08-26T06:32:50.000Z",
-      "url": "https://www.ithome.com/0/994/536.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/8/a2b86041-3a58-4fb0-8698-1e80acab3e7b.png",
-      "summary": "IT之家 8 月 26 日消息，博主 @韩路 今日分享了网传的小米 18 Fold 真机图。 从博主分享的图片来看，小米 18 Fold 提供类似 REDMI K100 Pro Max 的赤霞珠红配色，后置横向跑道相机 Deco， 并采用阔折叠屏设计 。 目前，小米 18 Fold 全新折叠旗舰机百元预约现已开启。据IT之家此前报道， 小米 18 Fold…",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-990e09fe0228",
-      "title": "Counterpoint：苹果 iPhone 17 成为 2026 年 Q2 全球最畅销智能手机",
-      "source": "IT之家",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-26",
-      "time": "05:57",
-      "publishedAt": "2026-08-26T05:57:03.000Z",
-      "url": "https://www.ithome.com/0/994/498.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/8/b4f4b1e0-b91e-4710-bd38-bd5e0798a3e3.png",
-      "summary": "IT之家 8 月 26 日消息，Counterpoint Research 最新数据显示， 苹果 iPhone 17 是 2026 年第二季度全球最畅销的智能手机 ，占据全球智能手机总出货量的 6% 份额，同时 iPhone 17 Pro Max 和 iPhone 17 Pro 也占据了榜单第二名和第三名的位置。 苹果和三星各占据全球畅销智能手机 TOP1…",
-      "tags": [
-        "Samsung",
         "爆料",
         "自动抓取"
       ]
@@ -182,26 +322,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "coolapk-user-f5a6658cac5c",
-      "title": "竹本青：看评论区说14U话题有故意弄坏换新15U、17U的，刚去搜了一下 确实不少…… #小米15Ultra# #小米17…",
-      "source": "竹本青",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-08-26",
-      "time": "03:36",
-      "publishedAt": "2026-08-26T03:36:27.000Z",
-      "url": "https://www.coolapk.com/feed/73434168",
-      "image": "",
-      "summary": "看评论区说14U话题有故意弄坏换新15U、17U的，刚去搜了一下 确实不少…… #小米15Ultra# #小米17Ultra# #小米14Ultra#",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
       "id": "auto-11178bf996cf",
       "title": "Huawei Mate XT 2 render resembles Pura X View-like camera design",
       "source": "Huawei Central",
@@ -222,26 +342,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "coolapk-user-2c7f51758791",
-      "title": "竹本青：vivo X500/X500 Pro 搭载全新6400万索尼LYTIA610",
-      "source": "竹本青",
-      "brand": "vivo",
-      "model": "vivo 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-08-26",
-      "time": "03:02",
-      "publishedAt": "2026-08-26T03:02:44.000Z",
-      "url": "https://www.coolapk.com/feed/73433484",
-      "image": "http://image.coolapk.com/feed/2026/0826/11/4248714_a353414d_3363_3698_606@2000x2667.jpg",
-      "summary": "【vivo X500/X500 Pro 长焦型号公布：全新6400万索尼LYTIA610】 ● 蔡司6400万 蓝图×索尼LYTIA610 APO长焦 （X500标准版同款） ● 85mm焦段（X500 Pro） ● GG1×1 RB2×2 创新设计 ● CIPA 7.0专业级防抖 ● 对焦更快，长焦视频追焦更稳 ● 4K 120fps慢动作、4K 60f…",
-      "tags": [
-        "vivo",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
       "id": "weibo-70c316056259",
       "title": "数码闲聊站：独家信息：10000mAh±巨容量电池，骁龙8E处理器，1.5K超高刷大直屏，…",
       "source": "数码闲聊站",
@@ -259,26 +359,6 @@ window.phoneRadarAuto = {
         "行业",
         "爆料",
         "微博"
-      ]
-    },
-    {
-      "id": "auto-34778642d67a",
-      "title": "小米智能摄像机视频通话版 2 单机开启众筹：3.97 英寸彩屏、支持手势呼叫，429 元",
-      "source": "IT之家",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-26",
-      "time": "02:35",
-      "publishedAt": "2026-08-26T02:35:34.000Z",
-      "url": "https://www.ithome.com/0/994/402.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/8/944a70a9-3a07-4789-9608-1796d35c1738.jpg?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 8 月 26 日消息，小米智能摄像机视频通话版 2 单机现已在小米有品开启众筹（ 点击前往 ），首发价 429 元。 该机配备 3.97 英寸 480x800 分辨率彩屏。具备大按键面积，按压感清晰，反应更灵敏，方便老人小孩操作。摄像机与手机、摄像机与摄像机之间均可双向视频通话，操作简单的同时，使用场景更丰富。 新品支持手势呼叫、一键呼叫、联动呼…",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "自动抓取"
       ]
     },
     {
@@ -417,6 +497,66 @@ window.phoneRadarAuto = {
       "summary": "小米的首发权益只换不修真是被不少人薅了不少羊毛。刷抖音刷到好多用了快一年，随便编个理由，录个bug视频，就能换个新手机了。其实录这种故障视频实在太简单了，只要让手机发热严重，闪退，重启，卡死的界面随便都会有一个复现岀来。这个只换不修权益初心是好的，本就是为了回馈支持小米的首发用户，一年内岀现质量问题直接换新，可是算漏了人心，包括我在内，一开始我也被煽动了想…",
       "tags": [
         "Xiaomi",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-e019e39f398e",
+      "title": "智界高管：现在不买 L3 就像当年不买 5G 手机",
+      "source": "酷安热榜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-08-26",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/73434344",
+      "image": "",
+      "summary": "智界高管：现在不买 L3 就像当年不买 5G 手机",
+      "tags": [
+        "行业",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-8c5ccfaebd10",
+      "title": "三星 Galaxy S27 Ultra CAD渲染图曝光：后摄模组大改",
+      "source": "酷安热榜",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-08-26",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/73434445",
+      "image": "",
+      "summary": "三星 Galaxy S27 Ultra CAD渲染图曝光：后摄模组大改",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-76328cca84b1",
+      "title": "鸿蒙成世界第三大手机操作系统",
+      "source": "今日头条热榜",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-26",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.toutiao.com/trending/7678173607227474470/",
+      "image": "",
+      "summary": "鸿蒙成世界第三大手机操作系统",
+      "tags": [
+        "Huawei",
         "爆料",
         "NewsNow"
       ]
@@ -1117,26 +1257,6 @@ window.phoneRadarAuto = {
       "summary": "骁龙8 Elite Extreme Gen6/SM8975： 台积电N2p，2+3+3 Oryon CPU架构，双超大核主频5.01GHz，2*5.01GHz+3*4.03GHz+3*3.74GHz，Adreno 850 GPU 天玑9600 Pro： 台积电N2p，2+3+3架构，双Canyon超大核主频4.55GHz，2*4.55GHz Canyon+…",
       "tags": [
         "行业",
-        "爆料",
-        "微博"
-      ]
-    },
-    {
-      "id": "weibo-ddcbaf6429f3",
-      "title": "数码闲聊站：华为Mate XT2三折叠定档9.7，又被我猜对了[doge] 之前说三折叠不…",
-      "source": "数码闲聊站",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-08-25",
-      "time": "01:42",
-      "publishedAt": "2026-08-25T01:42:27.000Z",
-      "url": "https://weibo.com/6048569942/ReZFjcorQ",
-      "image": "https://tvax3.sinaimg.cn/mw2000/006BlblIly1igft5ct4hmj30xv0a8jur.jpg",
-      "summary": "华为Mate XT2三折叠定档9.7，又被我猜对了[doge] 之前说三折叠不会和Mate90系列一起发，还有人不信。另外同期还有阔直板，阔直板是K9030S",
-      "tags": [
-        "Huawei",
         "爆料",
         "微博"
       ]
