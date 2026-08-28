@@ -1,14 +1,14 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-08-28T06:06:30.828Z",
+  "updatedAt": "2026-08-28T18:40:39.382Z",
   "issueDate": "2026-08-28",
   "issue": "VOL.260828",
   "title": "手机情报日报",
-  "intro": "今日筛出 8 条重点，其中 8 条是重点爆料，包含 3 条 iPhone 相关、0 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 12 条重点，其中 8 条是重点爆料，包含 4 条 iPhone 相关、1 条官方确认、0 条参数线索。",
   "stats": {
-    "total": 8,
-    "iphone": 3,
+    "total": 12,
+    "iphone": 4,
     "leaks": 8,
-    "official": 0,
+    "official": 1,
     "specs": 0
   },
   "sections": [
@@ -41,49 +41,22 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
-          "id": "weibo-559340766f38",
-          "title": "数码闲聊站：苹果发布会定档9.10，iPhone 18 Pro系列新机+iPhone Ul…",
-          "originalTitle": "",
-          "source": "数码闲聊站",
-          "brand": "iPhone",
-          "type": "爆料",
-          "trust": "高关注爆料源",
-          "date": "2026-08-27",
-          "time": "02:38",
-          "publishedAt": "2026-08-27T02:38:00.000Z",
-          "url": "https://weibo.com/6048569942/RfiSQuquh",
-          "image": "https://tvax1.sinaimg.cn/mw2000/006BlblIgy1igi5v9lntkj30xv0hgn38.jpg",
-          "verdict": "先看",
-          "takeaway": "苹果发布会定档9.10，iPhone 18 Pro系列新机+iPhone Ultra折叠屏，重点关注2nm A20 Pro性能表现、可变光圈影像、苹果首款阔比例折叠，可能全都是万元档产品，准备冲哪个？[doge]",
-          "detail": "苹果发布会定档9.10，iPhone 18 Pro系列新机+iPhone Ultra折叠屏，重点关注2nm A20 Pro性能表现、可变光圈影像、苹果首款阔比例折叠，可能全都是万元档产品，准备冲哪个？[doge]",
-          "keyPoints": [
-            "影像硬件",
-            "屏幕形态",
-            "爆料来源"
-          ],
-          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "auto-8f58c9fde574",
+          "id": "auto-8c7b67f556b1",
           "title": "iPhone 相关消息",
           "originalTitle": "",
-          "source": "MacRumors",
+          "source": "9to5Mac",
           "brand": "iPhone",
           "type": "爆料",
           "trust": "媒体汇总",
-          "date": "2026-08-27",
-          "time": "11:46",
-          "publishedAt": "2026-08-27T11:46:03.000Z",
-          "url": "https://www.macrumors.com/2026/08/27/apple-event-hints-iphone-18-pro-features/",
-          "image": "https://images.macrumors.com/article-new/2026/08/Apple-Surprise-Shine.jpeg",
+          "date": "2026-08-28",
+          "time": "16:14",
+          "publishedAt": "2026-08-28T16:14:44.000Z",
+          "url": "https://9to5mac.com/2026/08/28/iphone-18-pro-two-new-features-im-excited-to-upgrade-for/",
+          "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/iphone-18-pro-mockup-fi-new-color.jpg?quality=82&strip=all&w=1600",
           "verdict": "先看",
           "takeaway": "iPhone 相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
           "detail": "iPhone 相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
           "keyPoints": [
-            "外观 / 配色 / 尺寸",
-            "影像硬件",
             "爆料来源"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
@@ -91,26 +64,25 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
-          "id": "auto-13a7be481574",
-          "title": "曝 OPPO Find X10 Pro Max 手机全球首发三 2 亿全大底影像，主摄首发三星 HPC",
+          "id": "auto-84dc7bc95487",
+          "title": "荣耀暂停手机地震预警服务：合作第三方出现“异常偏差”，Q4 起推送新版",
           "originalTitle": "",
           "source": "IT之家",
-          "brand": "Samsung",
+          "brand": "HONOR",
           "type": "爆料",
           "trust": "媒体汇总",
           "date": "2026-08-28",
-          "time": "05:46",
-          "publishedAt": "2026-08-28T05:46:24.000Z",
-          "url": "https://www.ithome.com/0/995/523.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/8/f80bff5b-24a6-4428-906a-c4bd23757fab.png?x-bce-process=image/format,f_auto",
+          "time": "13:27",
+          "publishedAt": "2026-08-28T13:27:23.000Z",
+          "url": "https://www.ithome.com/0/995/792.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/8/1920574e-4be5-4834-99b7-ed8251945f8e.jpg",
           "verdict": "先看",
-          "takeaway": "IT之家 8 月 28 日消息，博主 @数码闲聊站 今日爆料，OPPO Find X10 Pro Max 手机 全球首发三 2 亿全大底影像 。 这套最激进的影像方案真落地了， 主摄全球首发 HPC ，行业唯一 2 亿像素 DeepPix 超高动态主摄，不仅主摄长焦是 2 亿，就连超广角也是 2 亿。 据IT之家此前报道， 三星半导体 8 月 6 日发布旗…",
-          "detail": "IT之家 8 月 28 日消息，博主 @数码闲聊站 今日爆料，OPPO Find X10 Pro Max 手机 全球首发三 2 亿全大底影像 。 这套最激进的影像方案真落地了， 主摄全球首发 HPC ，行业唯一 2 亿像素 DeepPix 超高动态主摄，不仅主摄长焦是 2 亿，就连超广角也是 2 亿。 据IT之家此前报道， 三星半导体 8 月 6 日发布旗…",
+          "takeaway": "IT之家 8 月 28 日消息，27 日傍晚，荣耀俱乐部团队发布《关于荣耀手机【地震预警服务】系统升级及服务维护的公告》，宣布将暂停手机地震预警服务，并于今年第三季度完成新版地震预警服务的功能适配及测试，第四季度陆续向存量机型推送系统更新。 IT之家附公告原文如下： 尊敬的荣耀用户： 近日，由于合作的第三方 地震数据源服务出现异常偏差 ，导致部分已开启地震…",
+          "detail": "IT之家 8 月 28 日消息，27 日傍晚，荣耀俱乐部团队发布《关于荣耀手机【地震预警服务】系统升级及服务维护的公告》，宣布将暂停手机地震预警服务，并于今年第三季度完成新版地震预警服务的功能适配及测试，第四季度陆续向存量机型推送系统更新。 IT之家附公告原文如下： 尊敬的荣耀用户： 近日，由于合作的第三方 地震数据源服务出现异常偏差 ，导致部分已开启地震…",
           "keyPoints": [
-            "影像硬件",
-            "爆料来源"
+            "爆料"
           ],
-          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
@@ -162,51 +134,188 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
-          "id": "coolapk-user-f5066bed668e",
-          "title": "竹本青：vivo X500 Pro系列官宣：首发天玑9600 Pro处理器 #今日热点# #OriginOS7# #viv…",
+          "id": "auto-9ef5d99996e0",
+          "title": "华为鸿蒙 HarmonyOS 7.0.0.105 版本开推：优化桌面显示、图库等，覆盖 Mate 80、Pura 80 等机型",
           "originalTitle": "",
-          "source": "竹本青",
-          "brand": "vivo",
+          "source": "IT之家",
+          "brand": "Huawei",
           "type": "爆料",
-          "trust": "高可信爆料",
+          "trust": "媒体汇总",
           "date": "2026-08-28",
-          "time": "06:05",
-          "publishedAt": "2026-08-28T06:05:48.000Z",
-          "url": "https://www.coolapk.com/feed/73470271",
-          "image": "http://image.coolapk.com/feed/2026/0828/14/4248714_cf122cd5_7147_025_71@480x853.jpg",
+          "time": "15:37",
+          "publishedAt": "2026-08-28T15:37:50.000Z",
+          "url": "https://www.ithome.com/0/995/815.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/3/0226f36a-4825-4419-a039-2fa19352cea5.jpg?x-bce-process=image/format,f_auto",
           "verdict": "先看",
-          "takeaway": "vivo X500 Pro系列官宣：首发天玑9600 Pro处理器 #今日热点# #OriginOS7# #vivoX500ProMax#",
-          "detail": "vivo X500 Pro系列官宣：首发天玑9600 Pro处理器 #今日热点# #OriginOS7# #vivoX500ProMax#",
+          "takeaway": "IT之家 8 月 28 日消息，华为今日面向 Mate 80、Pura 80 等机型推送了 HarmonyOS 7.0.0.105 SP6 版本升级，系统包大小超 6GB（机型不同大小也有不同）。据介绍，本次更新优化了桌面显示、图库使用等场景下的使用体验。 ▲ IT之家开箱：华为 Mate 80 Pro Max 风驰版图赏 IT之家附华为鸿蒙 Harmon…",
+          "detail": "IT之家 8 月 28 日消息，华为今日面向 Mate 80、Pura 80 等机型推送了 HarmonyOS 7.0.0.105 SP6 版本升级，系统包大小超 6GB（机型不同大小也有不同）。据介绍，本次更新优化了桌面显示、图库使用等场景下的使用体验。 ▲ IT之家开箱：华为 Mate 80 Pro Max 风驰版图赏 IT之家附华为鸿蒙 Harmon…",
           "keyPoints": [
-            "芯片 / 性能"
+            "爆料"
           ],
-          "confidence": "可信度较高，但仍属于发布前线索。",
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
-          "id": "coolapk-user-e7de7daf6f66",
-          "title": "JSCHEN小小狐：『OPPO Find X10 Pro Max 首发三 2 亿全大底』 知名数码博主 数码闲聊站 今日爆料称，即将于…",
+          "id": "coolapk-user-f1297d66218c",
+          "title": "JSCHEN小小狐：华为 Mate XT 2 曝光：新一代芯片/硬件防窥",
           "originalTitle": "",
           "source": "JSCHEN小小狐",
-          "brand": "OPPO",
+          "brand": "Huawei",
           "type": "爆料",
           "trust": "高可信爆料",
-          "date": "2026-08-28",
-          "time": "05:36",
-          "publishedAt": "2026-08-28T05:36:27.000Z",
-          "url": "https://www.coolapk.com/feed/73469836",
-          "image": "http://image.coolapk.com/feed/2026/0828/13/4702274_f7d46760_5386_019_532@1440x993.jpg",
+          "date": "2026-08-27",
+          "time": "05:57",
+          "publishedAt": "2026-08-27T05:57:54.000Z",
+          "url": "https://www.coolapk.com/feed/73452317",
+          "image": "http://image.coolapk.com/feed/2026/0827/13/4702274_5073091d_0273_7932_49@1440x591.jpg",
           "verdict": "先看",
-          "takeaway": "『OPPO Find X10 Pro Max 首发三 2 亿全大底』 知名数码博主 数码闲聊站 今日爆料称，即将于 9 月发布的 OPPO Find X10 Pro Max 确认将全球首发三 2 亿全大底影像。除主摄、长焦外，超广角也首次升级为 2 亿像素 1/1.56 英寸规格。 完整影像规格： 主摄｜200Mp 1/1.3'' HPC（17EV 动态范…",
-          "detail": "『OPPO Find X10 Pro Max 首发三 2 亿全大底』 知名数码博主 数码闲聊站 今日爆料称，即将于 9 月发布的 OPPO Find X10 Pro Max 确认将全球首发三 2 亿全大底影像。除主摄、长焦外，超广角也首次升级为 2 亿像素 1/1.56 英寸规格。 完整影像规格： 主摄｜200Mp 1/1.3'' HPC（17EV 动态范…",
+          "takeaway": "『华为 Mate XT 2 曝光：新一代芯片/硬件防窥』 知名数码博主 数码闲聊站 今日爆料称，根据其获得的第三方资料，华为将于 9 月 7 日发布的新一代三折叠手机 Mate XT 2 有望配备以下参数： ◇ 新一代 Pro 芯片（或为麒麟 9050 Pro） ◇ 折叠形态改变（或调整为 “U” 型方案） ◇ 10.2± 英寸屏幕｜升级硬件防窥方案 ◇…",
+          "detail": "『华为 Mate XT 2 曝光：新一代芯片/硬件防窥』 知名数码博主 数码闲聊站 今日爆料称，根据其获得的第三方资料，华为将于 9 月 7 日发布的新一代三折叠手机 Mate XT 2 有望配备以下参数： ◇ 新一代 Pro 芯片（或为麒麟 9050 Pro） ◇ 折叠形态改变（或调整为 “U” 型方案） ◇ 10.2± 英寸屏幕｜升级硬件防窥方案 ◇…",
           "keyPoints": [
-            "影像硬件",
+            "屏幕形态",
+            "芯片 / 性能",
             "爆料来源"
           ],
           "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "coolapk-user-7efa0ac8c623",
+          "title": "JSCHEN小小狐：vivo X500 Pro 系列全球首发蓝晶 × 天玑 2nm 旗舰芯",
+          "originalTitle": "",
+          "source": "JSCHEN小小狐",
+          "brand": "vivo",
+          "type": "爆料",
+          "trust": "高可信爆料",
+          "date": "2026-08-27",
+          "time": "02:13",
+          "publishedAt": "2026-08-27T02:13:53.000Z",
+          "url": "https://www.coolapk.com/feed/73449145",
+          "image": "http://image.coolapk.com/feed/2026/0827/10/4702274_8bcc8490_6832_2157_408@2494x3325.jpg",
+          "verdict": "先看",
+          "takeaway": "『vivo X500 Pro 系列预热：全球首发蓝晶 × 天玑 2nm 旗舰芯』 蓝晶 × 天玑 2nm 旗舰芯： ◇ 第二代 2nm N2P 制程 ◇ 全新 GPU 架构 - 峰值性能、综合能效行业第一 五大联合技术： ◇ 专业 Log 视频硬件专区 - 4K 120fps 10bit Log 烧录直出 ◇ 超能效影像 NPU 2.0 - 行业独家 60…",
+          "detail": "『vivo X500 Pro 系列预热：全球首发蓝晶 × 天玑 2nm 旗舰芯』 蓝晶 × 天玑 2nm 旗舰芯： ◇ 第二代 2nm N2P 制程 ◇ 全新 GPU 架构 - 峰值性能、综合能效行业第一 五大联合技术： ◇ 专业 Log 视频硬件专区 - 4K 120fps 10bit Log 烧录直出 ◇ 超能效影像 NPU 2.0 - 行业独家 60…",
+          "keyPoints": [
+            "影像硬件"
+          ],
+          "confidence": "可信度较高，但仍属于发布前线索。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        }
+      ]
+    },
+    {
+      "id": "iphone",
+      "title": "iPhone 重点",
+      "hint": "不是硬件爆料，但和 iPhone 体验或路线有关。",
+      "items": [
+        {
+          "id": "newsnow-464b048be371",
+          "title": "隔壁平台对性能要求是真不高啊，iPhone8P一点不卡的来了[受虐滑稽]#iPhone17# #iPhone16# #iPhone15#",
+          "originalTitle": "",
+          "source": "酷安热榜",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "高关注爆料源",
+          "date": "2026-08-28",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://www.coolapk.com/feed/73439689",
+          "image": "",
+          "verdict": "先看",
+          "takeaway": "隔壁平台对性能要求是真不高啊，iPhone8P一点不卡的来了[受虐滑稽]#iPhone17# #iPhone16# #iPhone15#",
+          "detail": "隔壁平台对性能要求是真不高啊，iPhone8P一点不卡的来了[受虐滑稽]#iPhone17# #iPhone16# #iPhone15#",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "影响性能和寿命判断，适合放进参数库。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        },
+        {
+          "id": "auto-9bbf43c61c96",
+          "title": "iPhone 系统功能 / AI 体验相关消息",
+          "originalTitle": "",
+          "source": "Apple Newsroom",
+          "brand": "iPhone",
+          "type": "官方",
+          "trust": "官方确认",
+          "date": "2026-08-28",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://www.apple.com/newsroom/2026/06/apple-announces-changes-to-ios-in-brazil/",
+          "image": "",
+          "verdict": "先看",
+          "takeaway": "iPhone 系统功能 / AI 体验相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
+          "detail": "iPhone 系统功能 / AI 体验相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
+          "keyPoints": [
+            "官方"
+          ],
+          "confidence": "官方内容，可直接作为已确认信息记录。",
+          "impact": "可信度高，但如果不是配置/价格消息，只需要扫一眼。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        }
+      ]
+    },
+    {
+      "id": "launch",
+      "title": "新机与官方发布",
+      "hint": "能直接更新到参数库。",
+      "items": [
+        {
+          "id": "coolapk-user-cf95a89f2c0f",
+          "title": "竹本青：【荣耀手机「地震预警」服务暂时停止：第三方数据源异常偏差，今年Q4起推送新版】 8月28日资讯，日前，荣耀地震预警…",
+          "originalTitle": "",
+          "source": "竹本青",
+          "brand": "HONOR",
+          "type": "爆料",
+          "trust": "高可信爆料",
+          "date": "2026-08-28",
+          "time": "13:45",
+          "publishedAt": "2026-08-28T13:45:16.000Z",
+          "url": "https://www.coolapk.com/feed/73477164",
+          "image": "http://image.coolapk.com/feed/2026/0828/21/4248714_e201af8b_4715_9145_174@2136x1467.jpg",
+          "verdict": "扫一眼",
+          "takeaway": "【荣耀手机「地震预警」服务暂时停止：第三方数据源异常偏差，今年Q4起推送新版】 8月28日资讯，日前，荣耀地震预警业务团队在官方俱乐部发布公告： 近日，由于合作的第三方地震数据源服务出现异常偏差，导致部分已开启地震预警功能的用户收到了不准确的预警提示，给您带来了困扰与不便，我们对此深表歉意。 用户的生命财产安全与使用体验始终是荣耀关注的首要事项。我们将对系…",
+          "detail": "【荣耀手机「地震预警」服务暂时停止：第三方数据源异常偏差，今年Q4起推送新版】 8月28日资讯，日前，荣耀地震预警业务团队在官方俱乐部发布公告： 近日，由于合作的第三方地震数据源服务出现异常偏差，导致部分已开启地震预警功能的用户收到了不准确的预警提示，给您带来了困扰与不便，我们对此深表歉意。 用户的生命财产安全与使用体验始终是荣耀关注的首要事项。我们将对系…",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "可信度较高，但仍属于发布前线索。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        }
+      ]
+    },
+    {
+      "id": "market",
+      "title": "行业趋势",
+      "hint": "看方向，不急着当购买依据。",
+      "items": [
+        {
+          "id": "coolapk-user-bb60006ae102",
+          "title": "竹本青：2026第34周国内手机市场份额：华为连续10周榜首",
+          "originalTitle": "",
+          "source": "竹本青",
+          "brand": "HONOR",
+          "type": "爆料",
+          "trust": "高可信爆料",
+          "date": "2026-08-28",
+          "time": "08:51",
+          "publishedAt": "2026-08-28T08:51:00.000Z",
+          "url": "https://www.coolapk.com/feed/73472674",
+          "image": "http://image.coolapk.com/feed/2026/0828/16/4248714_0ce7667b_7059_9248_666@1439x1039.jpg",
+          "verdict": "扫一眼",
+          "takeaway": "【2026年第34周 国内手机市场份额曝光：华为连续10周榜首，大盘变化不大】 ● 2026 W34：大盘变化不大 1.华为 —— 20.2% 2.vivo —— 16.3%（含iQOO 4.5%） 3.OPPO —— 16.2%（含一加 3.3%，realme 0.5%） 4.小米 —— 15.1% 5.苹果 —— 14.6% 6.荣耀 —— 13.7%…",
+          "detail": "【2026年第34周 国内手机市场份额曝光：华为连续10周榜首，大盘变化不大】 ● 2026 W34：大盘变化不大 1.华为 —— 20.2% 2.vivo —— 16.3%（含iQOO 4.5%） 3.OPPO —— 16.2%（含一加 3.3%，realme 0.5%） 4.小米 —— 15.1% 5.苹果 —— 14.6% 6.荣耀 —— 13.7%…",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "可信度较高，但仍属于发布前线索。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         }
       ]
     }

@@ -1,44 +1,604 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-08-28T06:06:30.828Z",
+  "updatedAt": "2026-08-28T18:40:39.382Z",
   "news": [
     {
-      "id": "coolapk-user-f5066bed668e",
-      "title": "竹本青：vivo X500 Pro系列官宣：首发天玑9600 Pro处理器 #今日热点# #OriginOS7# #viv…",
-      "source": "竹本青",
-      "brand": "vivo",
-      "model": "vivo 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-08-28",
-      "time": "06:05",
-      "publishedAt": "2026-08-28T06:05:48.000Z",
-      "url": "https://www.coolapk.com/feed/73470271",
-      "image": "http://image.coolapk.com/feed/2026/0828/14/4248714_cf122cd5_7147_025_71@480x853.jpg",
-      "summary": "vivo X500 Pro系列官宣：首发天玑9600 Pro处理器 #今日热点# #OriginOS7# #vivoX500ProMax#",
-      "tags": [
-        "vivo",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
-      "id": "auto-13a7be481574",
-      "title": "曝 OPPO Find X10 Pro Max 手机全球首发三 2 亿全大底影像，主摄首发三星 HPC",
-      "source": "IT之家",
+      "id": "auto-aceeb34933e6",
+      "title": "Xiaomi’s “Smart Privacy Display” could bring Samsung’s privacy screen idea to its next flagship",
+      "source": "Gizmochina",
       "brand": "Samsung",
       "model": "Samsung 相关机型",
       "type": "爆料",
       "trust": "媒体汇总",
       "date": "2026-08-28",
-      "time": "05:46",
-      "publishedAt": "2026-08-28T05:46:24.000Z",
-      "url": "https://www.ithome.com/0/995/523.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/8/f80bff5b-24a6-4428-906a-c4bd23757fab.png?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 8 月 28 日消息，博主 @数码闲聊站 今日爆料，OPPO Find X10 Pro Max 手机 全球首发三 2 亿全大底影像 。 这套最激进的影像方案真落地了， 主摄全球首发 HPC ，行业唯一 2 亿像素 DeepPix 超高动态主摄，不仅主摄长焦是 2 亿，就连超广角也是 2 亿。 据IT之家此前报道， 三星半导体 8 月 6 日发布旗…",
+      "time": "18:35",
+      "publishedAt": "2026-08-28T18:35:50.000Z",
+      "url": "https://www.gizmochina.com/2026/08/28/xiaomis-smart-privacy-display-could-bring-samsungs-privacy-screen-idea-to-its-next-flagship/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/01/Samsung-Galaxy-S26-Ultra-Privacy-Display-300x200.jpg?x23692",
+      "summary": "Samsung was the first to bring hardware-based screen privacy to its phones with the Galaxy S26 Ultra. Xiaomi is now working on a similar feature, according to new screenshots that…",
       "tags": [
         "Samsung",
         "爆料",
         "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-4e5bcff4f285",
+      "title": "Galaxy S26 Ultra was the world’s best-selling Android phone in Q2 2026",
+      "source": "SamMobile",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-28",
+      "time": "18:15",
+      "publishedAt": "2026-08-28T18:15:19.000Z",
+      "url": "https://www.sammobile.com/news/galaxy-s26-ultra-best-selling-android-phone-q2-2026/",
+      "image": "https://www.sammobile.com/wp-content/uploads/2026/08/Counterpoint-Research-Share-Of-Worlds-Top-10-Best-Selling-Smartpbhones-Globally-Samsung-Galalxy-S26-Ultra-Was-Fourth-1920x1080.jpg",
+      "summary": "Counterpoint Research has published a report on the best-selling smartphones globally in Q2 2026. According to it, Samsung’s latest flagship non-foldable smartphone, the Galaxy S2…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-bb7952cf3ccb",
+      "title": "The iPhone Fold could make concerts even worse",
+      "source": "The Verge",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-28",
+      "time": "17:03",
+      "publishedAt": "2026-08-28T17:03:26.000Z",
+      "url": "https://www.theverge.com/podcast/986145/m6-mac-mini-meta-settlement-gta-6-vergecast",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/VRG_VST_0828_Site.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "summary": "You know the person blocking your view of the concert because their phone is swaying in the air, recording the entire thing? Get ready for the unfolded version of it. This week on…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-3c96c11c8244",
+      "title": "WhatsApp rolls out new chat themes on iOS, including animated wallpapers",
+      "source": "9to5Mac",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-28",
+      "time": "16:30",
+      "publishedAt": "2026-08-28T16:30:09.000Z",
+      "url": "https://9to5mac.com/2026/08/28/whatsapp-rolls-out-new-chat-themes-on-ios-including-animated-wallpapers/",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/11/whatsapp-ios-26.jpg?quality=82&strip=all&w=1600",
+      "summary": "Following the recent discovery that WhatsApp was working on new chat themes, the feature is now rolling out to iPhone users. Here are the details.",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-056b35c98b6f",
+      "title": "Oppo Find X10 ‘Pro Max’ reportedly gets three 200MP cameras",
+      "source": "9to5Google",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-28",
+      "time": "16:20",
+      "publishedAt": "2026-08-28T16:20:00.000Z",
+      "url": "https://9to5google.com/2026/08/28/oppo-find-x10-pro-max-reportedly-gets-three-200mp-cameras/",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2025/12/Oppo-Find-X9-Pro-camera.jpg?quality=82&strip=all&w=1600",
+      "summary": "Oppo Find X10 isn’t too far away and, according to a new leak, a “Pro Max” model is going to ship with three 200MP cameras.",
+      "tags": [
+        "OPPO",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-8c7b67f556b1",
+      "title": "iPhone 18 Pro: Two new features I’m excited to upgrade for",
+      "source": "9to5Mac",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-28",
+      "time": "16:14",
+      "publishedAt": "2026-08-28T16:14:44.000Z",
+      "url": "https://9to5mac.com/2026/08/28/iphone-18-pro-two-new-features-im-excited-to-upgrade-for/",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/iphone-18-pro-mockup-fi-new-color.jpg?quality=82&strip=all&w=1600",
+      "summary": "Apple will unveil the iPhone 18 Pro on September 9 , but rumors have already leaked a lot of what to expect. And there are two standout features that I’m excited to upgrade for.",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-6c30188e3b96",
+      "title": "This video experiment perfectly illustrates my frustration with iPhone Cinematic mode",
+      "source": "9to5Mac",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-28",
+      "time": "16:00",
+      "publishedAt": "2026-08-28T16:00:00.000Z",
+      "url": "https://9to5mac.com/2026/08/28/this-video-experiment-perfectly-illustrates-my-frustration-with-iphone-cinematic-mode/",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/This-video-experiment-perfectly-illustrates-my-frustration-with-iPhone-Cinematic-mode.jpg?quality=82&strip=all&w=1600",
+      "summary": "I recently observed that Apple appeared to have abandoned Cinematic mode , and a video experiment perfectly illustrates my frustration at this fact. That’s not because the feature…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-36b3eed79e1a",
+      "title": "Pixel 11 vs. Pixel 11 Pro: More similar than ever before [Video]",
+      "source": "9to5Google",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-28",
+      "time": "16:00",
+      "publishedAt": "2026-08-28T16:00:00.000Z",
+      "url": "https://9to5google.com/2026/08/28/pixel-11-vs-pixel-11-pro-more-similar-than-ever-before-video/",
+      "image": "",
+      "summary": "More of the same isn’t always a bad thing, but in some cases it could be. Does that ring true with the Pixel 11 and Pixel 11 Pro? Find out here.",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-f90b46a6a5bb",
+      "title": "Google Health 5.07 rolling out with better manual logging, maps, & more",
+      "source": "9to5Google",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-28",
+      "time": "15:57",
+      "publishedAt": "2026-08-28T15:57:31.000Z",
+      "url": "https://9to5google.com/2026/08/28/google-health-5-07-release-notes/",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/08/Pokemon-Sleep-Fitbit-Air-vs-others.jpg?quality=82&strip=all&w=1600",
+      "summary": "Google Health 5.07 is rolling out on Android and iOS with meaningful updates to manual workout logging and a handful of bug fixes.",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-9ef5d99996e0",
+      "title": "华为鸿蒙 HarmonyOS 7.0.0.105 版本开推：优化桌面显示、图库等，覆盖 Mate 80、Pura 80 等机型",
+      "source": "IT之家",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-28",
+      "time": "15:37",
+      "publishedAt": "2026-08-28T15:37:50.000Z",
+      "url": "https://www.ithome.com/0/995/815.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/3/0226f36a-4825-4419-a039-2fa19352cea5.jpg?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 8 月 28 日消息，华为今日面向 Mate 80、Pura 80 等机型推送了 HarmonyOS 7.0.0.105 SP6 版本升级，系统包大小超 6GB（机型不同大小也有不同）。据介绍，本次更新优化了桌面显示、图库使用等场景下的使用体验。 ▲ IT之家开箱：华为 Mate 80 Pro Max 风驰版图赏 IT之家附华为鸿蒙 Harmon…",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-de746a90891a",
+      "title": "iPhone 18 Pro Pre-Orders May Start at an Unusual Time",
+      "source": "MacRumors",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-28",
+      "time": "15:17",
+      "publishedAt": "2026-08-28T15:17:27.000Z",
+      "url": "https://www.macrumors.com/2026/08/28/iphone-18-pro-pre-orders-may-start-at-unusual-time/",
+      "image": "https://images.macrumors.com/article-new/2026/08/iPhone-18-Pro-Dark-Cherry-Feature.jpg",
+      "summary": "Pre-orders of Apple's iPhone 18 Pro may not open until Saturday, September 12, a day later than the company's usual schedule, according to a new report. Apple is set to hold its a…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-fdc212575982",
+      "title": "Review: The Pixel 11 Pro XL is great, but a little too early for Google’s futuristic vision",
+      "source": "9to5Google",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-28",
+      "time": "15:00",
+      "publishedAt": "2026-08-28T15:00:00.000Z",
+      "url": "https://9to5google.com/2026/08/28/google-pixel-11-pro-xl-review/",
+      "image": "",
+      "summary": "At this point, phones have been boring for long enough that even calling them boring feels a little passé. The days of smartphones feeling like the cutting edge of technology are…",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-d35b3780d6d3",
+      "title": "Galaxy S27 Ultra frame design tweak could make it more comfortable to hold",
+      "source": "SamMobile",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-28",
+      "time": "14:50",
+      "publishedAt": "2026-08-28T14:50:40.000Z",
+      "url": "https://www.sammobile.com/news/galaxy-s27-ultra-frame-design-tweak-could-make-it-more-comfortable-to-hold/",
+      "image": "",
+      "summary": "If the recent leaks prove accurate next year, the upcoming Galaxy S27 Ultra will redefine Samsung's design language with a new camera housing. That's the most significant rumored…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-4e51b3d1bcb0",
+      "title": "Android still dominates global smartphone sales; Google’s Pixel 10a shines in one country",
+      "source": "9to5Google",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-28",
+      "time": "13:58",
+      "publishedAt": "2026-08-28T13:58:00.000Z",
+      "url": "https://9to5google.com/2026/08/28/android-global-smartphone-sales-q2-2026/",
+      "image": "",
+      "summary": "Updated data shows that, yep, Android is still the dominant force in the global smartphone market, but country-by-country breakdowns would hint otherwise – and Google’s Pixel seri…",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-cf95a89f2c0f",
+      "title": "竹本青：【荣耀手机「地震预警」服务暂时停止：第三方数据源异常偏差，今年Q4起推送新版】 8月28日资讯，日前，荣耀地震预警…",
+      "source": "竹本青",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-08-28",
+      "time": "13:45",
+      "publishedAt": "2026-08-28T13:45:16.000Z",
+      "url": "https://www.coolapk.com/feed/73477164",
+      "image": "http://image.coolapk.com/feed/2026/0828/21/4248714_e201af8b_4715_9145_174@2136x1467.jpg",
+      "summary": "【荣耀手机「地震预警」服务暂时停止：第三方数据源异常偏差，今年Q4起推送新版】 8月28日资讯，日前，荣耀地震预警业务团队在官方俱乐部发布公告： 近日，由于合作的第三方地震数据源服务出现异常偏差，导致部分已开启地震预警功能的用户收到了不准确的预警提示，给您带来了困扰与不便，我们对此深表歉意。 用户的生命财产安全与使用体验始终是荣耀关注的首要事项。我们将对系…",
+      "tags": [
+        "HONOR",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-cc546051464f",
+      "title": "iPhone 18 Pro pre-orders could kick off slightly later than usual",
+      "source": "9to5Mac",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-28",
+      "time": "13:45",
+      "publishedAt": "2026-08-28T13:45:13.000Z",
+      "url": "https://9to5mac.com/2026/08/28/iphone-18-pro-pre-orders-could-kick-off-slightly-later-than-usual/",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/02/iphone-18-pro-mockup.jpg?quality=82&strip=all&w=1600",
+      "summary": "iPhone 18 Pro will be unveiled on September 9, and a new report says pre-orders for the device will kick off slightly later than usual.",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-f111a18a29fb",
+      "title": "My Pixel 11 will be better in 6 months, so I'm waiting to buy it then",
+      "source": "Android Police",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-28",
+      "time": "13:30",
+      "publishedAt": "2026-08-28T13:30:10.000Z",
+      "url": "https://www.androidpolice.com/stopped-pre-ordering-pixels/",
+      "image": "",
+      "summary": "Google's habit of shipping features late taught me to buy late",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-84dc7bc95487",
+      "title": "荣耀暂停手机地震预警服务：合作第三方出现“异常偏差”，Q4 起推送新版",
+      "source": "IT之家",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-28",
+      "time": "13:27",
+      "publishedAt": "2026-08-28T13:27:23.000Z",
+      "url": "https://www.ithome.com/0/995/792.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/8/1920574e-4be5-4834-99b7-ed8251945f8e.jpg",
+      "summary": "IT之家 8 月 28 日消息，27 日傍晚，荣耀俱乐部团队发布《关于荣耀手机【地震预警服务】系统升级及服务维护的公告》，宣布将暂停手机地震预警服务，并于今年第三季度完成新版地震预警服务的功能适配及测试，第四季度陆续向存量机型推送系统更新。 IT之家附公告原文如下： 尊敬的荣耀用户： 近日，由于合作的第三方 地震数据源服务出现异常偏差 ，导致部分已开启地震…",
+      "tags": [
+        "HONOR",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-7f2857bf8fa7",
+      "title": "小米澎湃 OS 超级岛升级：三指一滑，取餐、取件码直接“上岛”",
+      "source": "IT之家",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-28",
+      "time": "12:59",
+      "publishedAt": "2026-08-28T12:59:54.000Z",
+      "url": "https://www.ithome.com/0/995/789.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/8/cf7d998d-cbbb-46aa-a310-195eae2d7d9f.jpg?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 8 月 28 日消息，今天（28 日）晚间，小米澎湃 OS 官微宣布小米超级岛再升级： 三指一滑，取餐、取件码等信息直接上岛 。借助该功能，用户将告别“临时找码”，常用码号抬眼可见；支持上岛应用集中设置，管理更省心，重要信息岛上见。 IT之家注：码号上岛仅手机端可用，使用该功能需将超级小爱 升级至 V8.2 版本及以上 ，机型及功能适配情况以实际…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-7dd5c5bc740d",
+      "title": "A brief look at how fashion color trends could influence Samsung’s 2027 phone lineup",
+      "source": "SamMobile",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-28",
+      "time": "12:54",
+      "publishedAt": "2026-08-28T12:54:49.000Z",
+      "url": "https://www.sammobile.com/opinion/a-brief-look-at-how-fashion-color-trends-could-influence-samsung-2027-phone-lineup/",
+      "image": "https://www.sammobile.com/wp-content/uploads/2026/07/Galaxy-Z-Fold-8-Ultra-green-shadow-1920x1079.jpg",
+      "summary": "It's Friday, and the Galaxy S26 FE launch is wrapped. Let's do something different for a change and talk a little about fashion color trends and how they could influence Samsung's…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-051aa8a92a18",
+      "title": "I was planning to skip the Pixel 11. These 5 upgrades changed my mind",
+      "source": "Android Authority",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-28",
+      "time": "10:30",
+      "publishedAt": "2026-08-28T10:30:36.000Z",
+      "url": "https://www.androidauthority.com/pixel-11-vs-pixel-9-3702125/",
+      "image": "",
+      "summary": "The Pixel 11 looks familiar, but two years of upgrades add up to a lot.",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-285a7ce67594",
+      "title": "Oppo Find X10 Pro Max to feature triple 200MP camera with Samsung’s new HPC Sensor",
+      "source": "Gizmochina",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-28",
+      "time": "10:20",
+      "publishedAt": "2026-08-28T10:20:32.000Z",
+      "url": "https://www.gizmochina.com/2026/08/28/oppo-find-x10-pro-max-to-feature-triple-200mp-camera-with-samsungs-new-hpc-sensor/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/04/Screenshot-2026-04-21-233911-300x172.png?x23692",
+      "summary": "Insider Digital Chat Station has shared new details about the Oppo Find X10 Pro Max’s camera setup. According to the tipster, the phone could be the world’s first smartphone with…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-06003d95c7c4",
+      "title": "英特尔退出基带业务后遗症：Linux 内核 SAR 驱动因维护者离职停更，辐射暴露调节功能成摆设",
+      "source": "IT之家",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-28",
+      "time": "09:54",
+      "publishedAt": "2026-08-28T09:54:04.000Z",
+      "url": "https://www.ithome.com/0/995/740.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/8/cb6694b5-40e1-4fad-8ad1-8d7580e21720.jpg?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 8 月 28 日消息，据 Phoronix 当地时间 8 月 27 日报道，英特尔 Linux 内核开发者 Dave Hansen 提交了一项补丁，将名为 BIOS SAR INT1092 的驱动程序状态标记为孤儿（Orphan）。据介绍，此次变更的原因是该驱动唯一维护者已从英特尔离职，且公司内部无人接手。 IT之家注：SAR 即比吸收率（Spe…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-18ed320c5288",
+      "title": "Google’s latest attempt at fast wired charging on the Pixel 11 Pro XL is a disaster",
+      "source": "Android Authority",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-28",
+      "time": "09:30",
+      "publishedAt": "2026-08-28T09:30:03.000Z",
+      "url": "https://www.androidauthority.com/pixel-11-pro-xl-45w-charging-test-disaster-3703148/",
+      "image": "",
+      "summary": "What good is Extreme Charging if it doesn't even turn on?",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-2544bdf09c65",
+      "title": "Galaxy S27 render reveals design almost identical to the S26",
+      "source": "Gizmochina",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-28",
+      "time": "09:21",
+      "publishedAt": "2026-08-28T09:21:31.000Z",
+      "url": "https://www.gizmochina.com/2026/08/28/galaxy-s27-render-reveals-design-almost-identical-to-the-s26/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/08/galaxy-s27-render-300x167.jpg?x23692",
+      "summary": "Some fresh CAD renders of the regular Galaxy S27 have leaked, courtesy of OnLeaks and Android Headline, giving us an early peek at next year’s base flagship. While the Ultra is ge…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-d32924a2bc63",
+      "title": "Latest Galaxy S26 beta update comes with plenty of goodies from the Fold 8",
+      "source": "Android Authority",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-28",
+      "time": "09:20",
+      "publishedAt": "2026-08-28T09:20:03.000Z",
+      "url": "https://www.androidauthority.com/samsung-galaxy-s26-one-ui-9-beta-7-features-3704243/",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2026/05/OneUI-9-update-screen-on-S26-Ultra-stood-next-to-base-S26-on-an-angle.jpg",
+      "summary": "There's My FanCam, Call Brief, Custom Cards in Now Brief, and more in this new update for the S26.",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-645ac521d1d9",
+      "title": "Samsung doesn’t care about the Galaxy S27, and the leaked renders prove it",
+      "source": "Android Authority",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-28",
+      "time": "09:00",
+      "publishedAt": "2026-08-28T09:00:55.000Z",
+      "url": "https://www.androidauthority.com/samsung-doesnt-care-about-galaxy-s27-3703793/",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2026/02/Samsung-Galaxy-S26-rear-cameras.jpg",
+      "summary": "I hate the leaked Galaxy S27 design, but Samsung knows exactly what it's doing.",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-e351ab8761da",
+      "title": "Samsung updates Galaxy S24 FE with August 2026 security patch",
+      "source": "SamMobile",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-28",
+      "time": "08:52",
+      "publishedAt": "2026-08-28T08:52:21.000Z",
+      "url": "https://www.sammobile.com/news/samsung-updates-galaxy-s24-fe-with-august-2026-security-patch/",
+      "image": "",
+      "summary": "Yesterday, Samsung released software updates for the three core devices in the Galaxy S24 series, the regular, plus, and Ultra models. They brought the August 2026 security patch.…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-bb60006ae102",
+      "title": "竹本青：2026第34周国内手机市场份额：华为连续10周榜首",
+      "source": "竹本青",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-08-28",
+      "time": "08:51",
+      "publishedAt": "2026-08-28T08:51:00.000Z",
+      "url": "https://www.coolapk.com/feed/73472674",
+      "image": "http://image.coolapk.com/feed/2026/0828/16/4248714_0ce7667b_7059_9248_666@1439x1039.jpg",
+      "summary": "【2026年第34周 国内手机市场份额曝光：华为连续10周榜首，大盘变化不大】 ● 2026 W34：大盘变化不大 1.华为 —— 20.2% 2.vivo —— 16.3%（含iQOO 4.5%） 3.OPPO —— 16.2%（含一加 3.3%，realme 0.5%） 4.小米 —— 15.1% 5.苹果 —— 14.6% 6.荣耀 —— 13.7%…",
+      "tags": [
+        "HONOR",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "weibo-de118556dac7",
+      "title": "数码闲聊站：各家母系Pro Max，首次落地的新硬件： *200Mp+200Mp+200M…",
+      "source": "数码闲聊站",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-08-28",
+      "time": "07:20",
+      "publishedAt": "2026-08-28T07:20:00.000Z",
+      "url": "https://weibo.com/6048569942/Rfu9Obv3Z",
+      "image": "",
+      "summary": "各家母系Pro Max，首次落地的新硬件： *200Mp+200Mp+200Mp全大底影像 *0916系超大尺寸X轴马达 *6.85\"2K+144Hz LIPO直屏",
+      "tags": [
+        "行业",
+        "爆料",
+        "微博"
       ]
     },
     {
@@ -59,46 +619,6 @@ window.phoneRadarAuto = {
         "Huawei",
         "爆料",
         "自动抓取"
-      ]
-    },
-    {
-      "id": "coolapk-user-e7de7daf6f66",
-      "title": "JSCHEN小小狐：『OPPO Find X10 Pro Max 首发三 2 亿全大底』 知名数码博主 数码闲聊站 今日爆料称，即将于…",
-      "source": "JSCHEN小小狐",
-      "brand": "OPPO",
-      "model": "OPPO 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-08-28",
-      "time": "05:36",
-      "publishedAt": "2026-08-28T05:36:27.000Z",
-      "url": "https://www.coolapk.com/feed/73469836",
-      "image": "http://image.coolapk.com/feed/2026/0828/13/4702274_f7d46760_5386_019_532@1440x993.jpg",
-      "summary": "『OPPO Find X10 Pro Max 首发三 2 亿全大底』 知名数码博主 数码闲聊站 今日爆料称，即将于 9 月发布的 OPPO Find X10 Pro Max 确认将全球首发三 2 亿全大底影像。除主摄、长焦外，超广角也首次升级为 2 亿像素 1/1.56 英寸规格。 完整影像规格： 主摄｜200Mp 1/1.3'' HPC（17EV 动态范…",
-      "tags": [
-        "OPPO",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
-      "id": "coolapk-user-91047055ac3b",
-      "title": "竹本青：【消息称 OPPO Find X10 Pro Max 全球首发三2亿全大底影像，主摄首发三星HPC】 ● 影像：…",
-      "source": "竹本青",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-08-28",
-      "time": "05:32",
-      "publishedAt": "2026-08-28T05:32:11.000Z",
-      "url": "https://www.coolapk.com/feed/73469780",
-      "image": "http://image.coolapk.com/feed/2026/0828/13/4248714_788bea43_5568_6022_348@1272x887.jpg",
-      "summary": "【消息称 OPPO Find X10 Pro Max 全球首发三2亿全大底影像，主摄首发三星HPC】 ● 影像： 主摄｜200Mp 三星HPC 1/1.3\" DeepPix技术 潜望｜200Mp 1/1.28\"± 超广｜200Mp 1/1.56\" 多光谱｜3Mp± ● N1发光材料 第二代天工屏 ● 2nm 天玑最新旗舰处理器 #今日热点# #ColorO…",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "酷安博主"
       ]
     },
     {
@@ -137,26 +657,6 @@ window.phoneRadarAuto = {
       "summary": "Oppo is preparing another major step in smartphone imaging, with the company revealing a new technology focused on improving how cameras capture and display high-dynamic-range con…",
       "tags": [
         "OPPO",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-d857d33e261b",
-      "title": "众筹逼近 170 万美元，全键盘手机 Minimal Phone 2 内存起步升级至 12GB",
-      "source": "IT之家",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-28",
-      "time": "04:03",
-      "publishedAt": "2026-08-28T04:03:03.000Z",
-      "url": "https://www.ithome.com/0/995/506.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/8/e62997f9-6a0d-4dd2-8d49-b0c122928e69.jpg?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 8 月 28 日消息，Minimal 公司联合创始人 @Youkhna 昨日（8 月 27 日）在 X 平台发布推文， 宣布 Minimal Phone 2 手机订单内存起步从 8GB 升级到 12GB，此外 Founders Ember 版从 12GB 升级到 16GB。 Minimal Phone 2 手机于 8 月 11 日上线 Kicks…",
-      "tags": [
-        "行业",
         "爆料",
         "自动抓取"
       ]
@@ -202,86 +702,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-7c90221ee928",
-      "title": "全球限 7 台：Caviar 推出定制版 iPhone 17 Pro，可探测辐射",
-      "source": "IT之家",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-28",
-      "time": "03:46",
-      "publishedAt": "2026-08-28T03:46:55.000Z",
-      "url": "https://www.ithome.com/0/995/501.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/8/a48d20bf-0ade-4cab-bfa7-dd090c6dd90a.png?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 8 月 28 日消息，奢侈定制品牌 Caviar 于 8 月 26 日发布博文， 宣布推出名为 Geiger 的定制 iPhone 17 Pro / Max，全球限量 7 台，起售价为 13,130 美元（IT之家注：现汇率约合 88,459 元人民币）。 硬件方面，Geiger 背面嵌入了一枚型号为 SIG-RM1208 的实体剂量计模块，能够…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-82ff6eae7545",
-      "title": "消息称内存成手机 BOM 成本第一大户：12+256GB 组合采购价贵过最新一代旗舰芯",
-      "source": "IT之家",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-28",
-      "time": "03:30",
-      "publishedAt": "2026-08-28T03:30:07.000Z",
-      "url": "https://www.ithome.com/0/995/495.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/8/bd05555e-1056-4d50-b499-1de41b5ae606.jpg",
-      "summary": "IT之家 8 月 28 日消息，据博主 @数码闲聊站 透露，内存和 SoC 的价格实现倒挂， 内存已经成为手机 BOM 成本第一大户 ： 12+256GB 内存组合当前采购价约 2200，去年同期 500，涨了 1700 最新一代旗舰芯当前采购价约 2000，去年同期约 1500，涨了 500 IT之家注意到，根据 Counterpoint Researc…",
-      "tags": [
-        "行业",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-fd6cc8706ee6",
-      "title": "打击道路低头族：意大利拟对行人过马路时使用手机罚款 75 欧元",
-      "source": "IT之家",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-28",
-      "time": "03:17",
-      "publishedAt": "2026-08-28T03:17:06.000Z",
-      "url": "https://www.ithome.com/0/995/488.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/8/08d220fb-a8d6-42ce-aca4-289595795f04.png",
-      "summary": "IT之家 8 月 28 日消息，参考意大利媒体 Fanpage 报道， 该国拟议的新版《道路交通法》计划对过马路时分心使用手机的行人罚款 75 欧元 （现汇率约合 588.2 元人民币） 。 IT之家了解到，这一处罚金额远低于司机同类违法的水平。不过全球范围内打击交通“低头族”的法规此前往往仅针对车辆驾驶者。 意大利基础设施与交通部表示， 不影响双耳清晰获…",
-      "tags": [
-        "行业",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "coolapk-user-34ab732d834c",
-      "title": "竹本青：曝手机行业成本倒挂：内存采购价反超旗舰SoC",
-      "source": "竹本青",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-08-28",
-      "time": "03:13",
-      "publishedAt": "2026-08-28T03:13:53.000Z",
-      "url": "https://www.coolapk.com/feed/73467709",
-      "image": "http://image.coolapk.com/feed/2026/0828/11/4248714_de6c1288_6832_6718_309@1271x551.jpg",
-      "summary": "【曝手机行业成本倒挂：内存采购价反超旗舰SoC，成为手机最大物料成本】 8月28日，博主数码闲聊站爆料 存储与芯片采购成本出现倒挂，内存套件价格大幅上涨，已超过旗舰SoC： ● 12+256GB内存组合：当前采购价约2200元，去年同期约500元，上涨1700元； ● 新一代旗舰SoC：当前采购价约2000元，去年同期约1500元，上涨500元。 根据该数…",
-      "tags": [
-        "行业",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
       "id": "weibo-32804e345b8d",
       "title": "数码闲聊站：活久见，内存和SoC的价格真的倒挂了[打脸] 12+256GB内存组合当前采购…",
       "source": "数码闲聊站",
@@ -299,26 +719,6 @@ window.phoneRadarAuto = {
         "行业",
         "爆料",
         "微博"
-      ]
-    },
-    {
-      "id": "auto-72ba74a8f7f6",
-      "title": "华为徐直军：鸿蒙原生应用突破 10 万个，预计鸿蒙生态年底突破 1 亿用户",
-      "source": "IT之家",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-28",
-      "time": "02:51",
-      "publishedAt": "2026-08-28T02:51:49.000Z",
-      "url": "https://www.ithome.com/0/995/471.htm",
-      "image": "",
-      "summary": "IT之家 8 月 28 日消息，据科创板日报消息，在鸿蒙生态大会 2026 上，华为轮值董事长徐直军表示， 当前鸿蒙原生应用突破 10 万个 ，在 HarmonyOS 手机上可获取的应用超过 40 万个。 截至 8 月 20 日，装载 HarmonyOS 6 终端设备数已突破 8000 万台，预计今年第四季度突破 1 亿用户。这意味着， 鸿蒙生态今年年底突…",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "自动抓取"
       ]
     },
     {
@@ -402,21 +802,21 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-8940979d3328",
-      "title": "来个人劝劝我，出哪台最合适，5台都是1T的，想出，又都舍不得，毕竟都涨价了[吃瓜]。 #OPPOFindX9Pro# #小米17ProMax#",
+      "id": "newsnow-d47e45bfc052",
+      "title": "曝手机行业成本倒挂：内存采购价反超旗舰SoC",
       "source": "酷安热榜",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
+      "brand": "行业",
+      "model": "智能手机市场",
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-08-28",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73443473",
+      "url": "https://www.coolapk.com/feed/73467709",
       "image": "",
-      "summary": "来个人劝劝我，出哪台最合适，5台都是1T的，想出，又都舍不得，毕竟都涨价了[吃瓜]。 #OPPOFindX9Pro# #小米17ProMax#",
+      "summary": "曝手机行业成本倒挂：内存采购价反超旗舰SoC",
       "tags": [
-        "Xiaomi",
+        "行业",
         "爆料",
         "NewsNow"
       ]
@@ -435,6 +835,26 @@ window.phoneRadarAuto = {
       "url": "https://www.coolapk.com/feed/73451386",
       "image": "",
       "summary": "绷不住了，大家一定要避雷小米一款产品，就是小米养生壶恒温壶P1，会自动烧水并且直到烧干，设定恒温40℃，他经常会自动烧水，然后烧到97-98℃不跳100，然后就一直烧，直到把水烧干，太太太离谱了，现在是第三个了，这玩意迟早在我不在家的时候把我家烧了，最后一张图叠个甲吧，非黑子，黑子不会去小米商城买这玩意#年度避雷产品# #小米15# #RedmiK90Pr…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-8940979d3328",
+      "title": "来个人劝劝我，出哪台最合适，5台都是1T的，想出，又都舍不得，毕竟都涨价了[吃瓜]。 #OPPOFindX9Pro# #小米17ProMax#",
+      "source": "酷安热榜",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-08-28",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/73443473",
+      "image": "",
+      "summary": "来个人劝劝我，出哪台最合适，5台都是1T的，想出，又都舍不得，毕竟都涨价了[吃瓜]。 #OPPOFindX9Pro# #小米17ProMax#",
       "tags": [
         "Xiaomi",
         "爆料",
@@ -482,41 +902,21 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-55504836490b",
-      "title": "华为Pura X View深度体验",
-      "source": "今日头条热榜",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-28",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.toutiao.com/trending/7678266684255354943/",
-      "image": "",
-      "summary": "华为Pura X View深度体验",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-5561b6df54d9",
-      "title": "苹果华为小米折叠屏集中撞档9月",
+      "id": "newsnow-5081bccd0228",
+      "title": "用手机拍光绘镜头签",
       "source": "抖音热点",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
+      "brand": "行业",
+      "model": "智能手机市场",
       "type": "爆料",
       "trust": "待验证",
       "date": "2026-08-28",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.douyin.com/hot/2625706",
+      "url": "https://www.douyin.com/hot/2627104",
       "image": "",
-      "summary": "苹果华为小米折叠屏集中撞档9月",
+      "summary": "用手机拍光绘镜头签",
       "tags": [
-        "Huawei",
+        "行业",
         "爆料",
         "NewsNow"
       ]
@@ -555,26 +955,6 @@ window.phoneRadarAuto = {
       "url": "https://www.androidauthority.com/pixel-11-google-maps-immersive-navigation-missing-3704172/",
       "image": "https://www.androidauthority.com/wp-content/uploads/2025/11/a-route-with-a-turn-in-google-maps-scaled.jpg",
       "summary": "Immersive Navigation is missing for some.",
-      "tags": [
-        "Pixel",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-31eef3ad5f49",
-      "title": "You can't beat this Pixel 11 Pro promotion that knocks $150 and includes a $200 gift card",
-      "source": "Android Police",
-      "brand": "Pixel",
-      "model": "Pixel 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-27",
-      "time": "20:49",
-      "publishedAt": "2026-08-27T20:49:19.000Z",
-      "url": "https://www.androidpolice.com/this-is-the-best-price-youll-find-on-the-pixel-11/",
-      "image": "",
-      "summary": "$150 discount + $200 gift card",
       "tags": [
         "Pixel",
         "爆料",
@@ -654,7 +1034,7 @@ window.phoneRadarAuto = {
       "publishedAt": "2026-08-27T17:08:00.000Z",
       "url": "https://www.gizmochina.com/2026/08/27/top-5-redmi-note-17-pro-max-alternatives/",
       "image": "https://www.gizmochina.com/wp-content/uploads/2026/08/Redmi-NOte-17-Pro-Max-featured-300x189.jpg?x23692",
-      "summary": "The Redmi Note 17 Pro Max stands out as Xiaomi’s endurance champion, packing a massive 10,000mAh silicon-carbon battery, a 6.83-inch 1.5K 120Hz display, a Snapdragon 6 Gen 5 chip,…",
+      "summary": "The Redmi Note 17 Pro Max stands out as Xiaomi’s endurance champion, packing a massive 10,000mAh silicon-carbon battery (9,210mAh in select markets), a 6.83-inch 1.5K 120Hz displa…",
       "tags": [
         "Xiaomi",
         "爆料",
@@ -762,26 +1142,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-e69639509515",
-      "title": "Hidden Galaxy Z Fold 8 setting fixes awkward aspect ratios in some apps",
-      "source": "SamMobile",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-27",
-      "time": "15:38",
-      "publishedAt": "2026-08-27T15:38:02.000Z",
-      "url": "https://www.sammobile.com/news/hidden-galaxy-z-fold-8-setting-fixes-awkward-aspect-ratios-in-some-apps/",
-      "image": "https://www.sammobile.com/wp-content/uploads/2026/08/Screenshot_20260827_142903_Settings-1920x1336.jpg",
-      "summary": "The Galaxy Z Fold 8's 4:3 inner display is great for many applications, but it is an unusual aspect ratio that isn't used all that much across the Android landscape. As a result,…",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-6c2754b768bd",
       "title": "Google Store error rejecting trade-in credits for Pixel 10 owners upgrading to Pixel 11",
       "source": "9to5Google",
@@ -797,26 +1157,6 @@ window.phoneRadarAuto = {
       "summary": "The Google Store seems to have an ongoing problem that is causing Pixel 11 upgraders to get a failed trade-in with removed credits when moving up from a Pixel 10.",
       "tags": [
         "Pixel",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-c60532018be7",
-      "title": "I thought I wanted the Galaxy Z Fold 8 Ultra. The cheaper Fold 8 changed my mind",
-      "source": "Android Police",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-27",
-      "time": "15:15",
-      "publishedAt": "2026-08-27T15:15:10.000Z",
-      "url": "https://www.androidpolice.com/thought-i-wanted-galaxy-z-fold-8-ultra-fold-8-changed-my-mind/",
-      "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2026/08/samsung-galaxy-z-fold-8-and-z-fold-8-ultra-held-side-by-side.jpg",
-      "summary": "I stopped chasing the biggest screen",
-      "tags": [
-        "Samsung",
         "爆料",
         "自动抓取"
       ]
@@ -902,26 +1242,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-8e8099cdc3f6",
-      "title": "Galaxy S27 Pro leak shows it’s the most iPhone-coded Samsung phone yet",
-      "source": "SamMobile",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-27",
-      "time": "14:05",
-      "publishedAt": "2026-08-27T14:05:32.000Z",
-      "url": "https://www.sammobile.com/news/galaxy-s27-pro-leak-shows-its-the-most-iphone-coded-samsung-phone-yet/",
-      "image": "https://www.sammobile.com/wp-content/uploads/2026/08/leaked-galaxy-s27-pro-render-3.jpeg",
-      "summary": "Samsung has done a lot of good work over the years to shed the notion that it copies Apple's design language for the iPhone. It seems, though, that the company is asking for that…",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-424fc9b7daac",
       "title": "T-Mobile wants to give you 4 free Galaxy S26 phones and 4 lines for just $25/month per line — how to claim the offer",
       "source": "Android Central",
@@ -942,26 +1262,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-8a6e2f43d5f3",
-      "title": "I finally understand why Google brought back the notification light on the Pixel 11 Pro",
-      "source": "Android Police",
-      "brand": "Pixel",
-      "model": "Pixel 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-27",
-      "time": "13:30",
-      "publishedAt": "2026-08-27T13:30:10.000Z",
-      "url": "https://www.androidpolice.com/pixel-11-face-down-mode/",
-      "image": "",
-      "summary": "Face down is smart",
-      "tags": [
-        "Pixel",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-6a1edda6bb4f",
       "title": "The Galaxy S27 and S27 Pro just leaked, and one of them looks seriously lazy",
       "source": "Android Central",
@@ -978,126 +1278,6 @@ window.phoneRadarAuto = {
       "tags": [
         "Samsung",
         "评测",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-02cd0c75695f",
-      "title": "Select US carriers will get the Galaxy S26 FE a day early on September 3",
-      "source": "SamMobile",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-27",
-      "time": "12:30",
-      "publishedAt": "2026-08-27T12:30:54.000Z",
-      "url": "https://www.sammobile.com/news/select-us-carriers-will-get-the-galaxy-s26-fe-a-day-early-on-september-3/",
-      "image": "",
-      "summary": "Samsung has unveiled the Galaxy S26 FE today. The latest addition to its FE lineup brings several improvements, as well as a slightly higher price tag than the model it's replacin…",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-523b4d3c7b3f",
-      "title": "Does the Galaxy S26 FE have a silicon-carbon battery? Here’s all you need to know",
-      "source": "SamMobile",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-27",
-      "time": "12:30",
-      "publishedAt": "2026-08-27T12:30:42.000Z",
-      "url": "https://www.sammobile.com/news/does-galaxy-s26-fe-have-silicon-carbon-battery/",
-      "image": "",
-      "summary": "In July 2026, the Galaxy Z Flip 8, Fold 8, and Fold 8 Ultra became Samsung's first smartphones to feature silicon-carbon (Si-C) battery technology. They won't be the last in Samsu…",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-5d786e35e690",
-      "title": "Sorry US buyers, you don’t get the 512GB Galaxy S26 FE",
-      "source": "SamMobile",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-27",
-      "time": "12:15",
-      "publishedAt": "2026-08-27T12:15:58.000Z",
-      "url": "https://www.sammobile.com/news/us-buyers-dont-get-512gb-galaxy-s26-fe/",
-      "image": "",
-      "summary": "Samsung unveiled the Galaxy S26 FE today and has confirmed the various configurations that the device will be offered in. Customers will be able to buy the Galaxy S26 FE with up t…",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-601c88a755a5",
-      "title": "Galaxy S26 FE features Super Steady video recording with Horizontal Lock",
-      "source": "SamMobile",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-27",
-      "time": "12:15",
-      "publishedAt": "2026-08-27T12:15:43.000Z",
-      "url": "https://www.sammobile.com/news/galaxy-s26-fe-super-steady-video-recording-horizontal-lock/",
-      "image": "",
-      "summary": "Samsung has just launched its newest Galaxy S Fan Edition smartphone, the Galaxy S26 FE. It succeeds the Galaxy S25 FE and brings several hardware and software upgrades over its p…",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-ce74d36d5619",
-      "title": "Galaxy S26 FE exclusively uses the Exynos 2500 chip globally",
-      "source": "SamMobile",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-27",
-      "time": "12:15",
-      "publishedAt": "2026-08-27T12:15:08.000Z",
-      "url": "https://www.sammobile.com/news/galaxy-s26-fe-exclusively-uses-exynos-2500-chip-globally/",
-      "image": "",
-      "summary": "Samsung has just launched a new Galaxy S Fan Edition smartphone, the Galaxy S26 FE. It comes with some upgrades over its predecessor, the Galaxy S25 FE. That includes a newer proc…",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-8f58c9fde574",
-      "title": "Apple Event Logo Hints at Two iPhone 18 Pro Features",
-      "source": "MacRumors",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-27",
-      "time": "11:46",
-      "publishedAt": "2026-08-27T11:46:03.000Z",
-      "url": "https://www.macrumors.com/2026/08/27/apple-event-hints-iphone-18-pro-features/",
-      "image": "https://images.macrumors.com/article-new/2026/08/Apple-Surprise-Shine.jpeg",
-      "summary": "Apple's logo for its upcoming September 9 \"Surprise and shine\" event hints at two rumored iPhone 18 Pro features, including new color options and a new camera system. Apple fans o…",
-      "tags": [
-        "iPhone",
-        "爆料",
         "自动抓取"
       ]
     },
@@ -1197,46 +1377,6 @@ window.phoneRadarAuto = {
       "summary": "I asked for this. Oops...",
       "tags": [
         "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-bcb67f21aefb",
-      "title": "'Exclusive Red' iPhone Ultra Images Not What They Seem",
-      "source": "MacRumors",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-27",
-      "time": "08:58",
-      "publishedAt": "2026-08-27T08:58:05.000Z",
-      "url": "https://www.macrumors.com/2026/08/27/exclusive-red-iphone-ultra-images/",
-      "image": "https://images.macrumors.com/article-new/2026/08/evan-blass-red-iphone-ultra-xiaomi.jpeg",
-      "summary": "Bloomberg 's Mark Gurman has disputed the authenticity of iPhone Ultra renders shared by the typically-reliable leaker Evan Blass on X (Twitter). The images show the unreleased fo…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-f9b9bac1aa81",
-      "title": "Android sales share dips globally in 2Q26 as HarmonyOS intensifies competition",
-      "source": "Huawei Central",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-27",
-      "time": "08:16",
-      "publishedAt": "2026-08-27T08:16:30.000Z",
-      "url": "https://www.huaweicentral.com/android-sales-share-dips-globally-in-2q26-as-harmonyos-intensifies-competition/",
-      "image": "https://www.huaweicentral.com/wp-content/uploads/2026/08/smartphone-sales-OS.jpg",
-      "summary": "Counterpoint has shared a new report on the global smartphone sales market by operating system in 2Q26 and mentioned that Android share fell significantly as HarmonyOS and iOS int…",
-      "tags": [
-        "Huawei",
         "爆料",
         "自动抓取"
       ]
@@ -1399,26 +1539,6 @@ window.phoneRadarAuto = {
         "Pixel",
         "评测",
         "自动抓取"
-      ]
-    },
-    {
-      "id": "weibo-559340766f38",
-      "title": "数码闲聊站：苹果发布会定档9.10，iPhone 18 Pro系列新机+iPhone Ul…",
-      "source": "数码闲聊站",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-08-27",
-      "time": "02:38",
-      "publishedAt": "2026-08-27T02:38:00.000Z",
-      "url": "https://weibo.com/6048569942/RfiSQuquh",
-      "image": "https://tvax1.sinaimg.cn/mw2000/006BlblIgy1igi5v9lntkj30xv0hgn38.jpg",
-      "summary": "苹果发布会定档9.10，iPhone 18 Pro系列新机+iPhone Ultra折叠屏，重点关注2nm A20 Pro性能表现、可变光圈影像、苹果首款阔比例折叠，可能全都是万元档产品，准备冲哪个？[doge]",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "微博"
       ]
     },
     {
