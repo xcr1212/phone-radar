@@ -1,6 +1,586 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-08-27T20:29:29.166Z",
+  "updatedAt": "2026-08-28T06:06:30.828Z",
   "news": [
+    {
+      "id": "coolapk-user-f5066bed668e",
+      "title": "竹本青：vivo X500 Pro系列官宣：首发天玑9600 Pro处理器 #今日热点# #OriginOS7# #viv…",
+      "source": "竹本青",
+      "brand": "vivo",
+      "model": "vivo 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-08-28",
+      "time": "06:05",
+      "publishedAt": "2026-08-28T06:05:48.000Z",
+      "url": "https://www.coolapk.com/feed/73470271",
+      "image": "http://image.coolapk.com/feed/2026/0828/14/4248714_cf122cd5_7147_025_71@480x853.jpg",
+      "summary": "vivo X500 Pro系列官宣：首发天玑9600 Pro处理器 #今日热点# #OriginOS7# #vivoX500ProMax#",
+      "tags": [
+        "vivo",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-13a7be481574",
+      "title": "曝 OPPO Find X10 Pro Max 手机全球首发三 2 亿全大底影像，主摄首发三星 HPC",
+      "source": "IT之家",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-28",
+      "time": "05:46",
+      "publishedAt": "2026-08-28T05:46:24.000Z",
+      "url": "https://www.ithome.com/0/995/523.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/8/f80bff5b-24a6-4428-906a-c4bd23757fab.png?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 8 月 28 日消息，博主 @数码闲聊站 今日爆料，OPPO Find X10 Pro Max 手机 全球首发三 2 亿全大底影像 。 这套最激进的影像方案真落地了， 主摄全球首发 HPC ，行业唯一 2 亿像素 DeepPix 超高动态主摄，不仅主摄长焦是 2 亿，就连超广角也是 2 亿。 据IT之家此前报道， 三星半导体 8 月 6 日发布旗…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-38d53ddbadd8",
+      "title": "Huawei Pura X View image leak confirms chipset details",
+      "source": "Huawei Central",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-28",
+      "time": "05:44",
+      "publishedAt": "2026-08-28T05:44:29.000Z",
+      "url": "https://www.huaweicentral.com/huawei-pura-x-view-image-leak-confirms-chipset-details/",
+      "image": "https://www.huaweicentral.com/wp-content/uploads/2026/08/Pura-X-View-chipset.jpg",
+      "summary": "Huawei Pura X View has reached offline stores, and now we have exact details about the device’s chipset. A Weibo tipster has shared the mobile information page screenshot, confirm…",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-e7de7daf6f66",
+      "title": "JSCHEN小小狐：『OPPO Find X10 Pro Max 首发三 2 亿全大底』 知名数码博主 数码闲聊站 今日爆料称，即将于…",
+      "source": "JSCHEN小小狐",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-08-28",
+      "time": "05:36",
+      "publishedAt": "2026-08-28T05:36:27.000Z",
+      "url": "https://www.coolapk.com/feed/73469836",
+      "image": "http://image.coolapk.com/feed/2026/0828/13/4702274_f7d46760_5386_019_532@1440x993.jpg",
+      "summary": "『OPPO Find X10 Pro Max 首发三 2 亿全大底』 知名数码博主 数码闲聊站 今日爆料称，即将于 9 月发布的 OPPO Find X10 Pro Max 确认将全球首发三 2 亿全大底影像。除主摄、长焦外，超广角也首次升级为 2 亿像素 1/1.56 英寸规格。 完整影像规格： 主摄｜200Mp 1/1.3'' HPC（17EV 动态范…",
+      "tags": [
+        "OPPO",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "coolapk-user-91047055ac3b",
+      "title": "竹本青：【消息称 OPPO Find X10 Pro Max 全球首发三2亿全大底影像，主摄首发三星HPC】 ● 影像：…",
+      "source": "竹本青",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-08-28",
+      "time": "05:32",
+      "publishedAt": "2026-08-28T05:32:11.000Z",
+      "url": "https://www.coolapk.com/feed/73469780",
+      "image": "http://image.coolapk.com/feed/2026/0828/13/4248714_788bea43_5568_6022_348@1272x887.jpg",
+      "summary": "【消息称 OPPO Find X10 Pro Max 全球首发三2亿全大底影像，主摄首发三星HPC】 ● 影像： 主摄｜200Mp 三星HPC 1/1.3\" DeepPix技术 潜望｜200Mp 1/1.28\"± 超广｜200Mp 1/1.56\" 多光谱｜3Mp± ● N1发光材料 第二代天工屏 ● 2nm 天玑最新旗舰处理器 #今日热点# #ColorO…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "weibo-d28da2872cac",
+      "title": "数码闲聊站：咳咳，接着官方的爆料，我这边独家确定： Find X10 Pro Max——全…",
+      "source": "数码闲聊站",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-08-28",
+      "time": "05:30",
+      "publishedAt": "2026-08-28T05:30:04.000Z",
+      "url": "https://weibo.com/6048569942/RftrbqxOP",
+      "image": "https://tvax3.sinaimg.cn/mw2000/006BlblIgy1igjcpgdq2wj30xw19l4dg.jpg",
+      "summary": "咳咳，接着官方的爆料，我这边独家确定： Find X10 Pro Max——全球首发三2亿全大底影像 这套最激进的影像方案真落地了，主摄全球首发HPC，行业唯一2亿像素DeepPix超高动态主摄，不仅主摄长焦是2亿，就连超广角也是2亿。 照片、视频能力双线拉满，这套规格确实超模了[笑而不语]",
+      "tags": [
+        "行业",
+        "爆料",
+        "微博"
+      ]
+    },
+    {
+      "id": "auto-8b58bb05d3c0",
+      "title": "Oppo’s ProXDR camera tech could bring 17EV dynamic range, 4K HDR video to Find X10",
+      "source": "Gizmochina",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-28",
+      "time": "04:05",
+      "publishedAt": "2026-08-28T04:05:28.000Z",
+      "url": "https://www.gizmochina.com/2026/08/28/oppo-proxdr-17ev-dynamic-range-4k-hdr-video/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/08/Oppo-ProXDR-camera-tech-300x225.jpg?x23692",
+      "summary": "Oppo is preparing another major step in smartphone imaging, with the company revealing a new technology focused on improving how cameras capture and display high-dynamic-range con…",
+      "tags": [
+        "OPPO",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-d857d33e261b",
+      "title": "众筹逼近 170 万美元，全键盘手机 Minimal Phone 2 内存起步升级至 12GB",
+      "source": "IT之家",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-28",
+      "time": "04:03",
+      "publishedAt": "2026-08-28T04:03:03.000Z",
+      "url": "https://www.ithome.com/0/995/506.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/8/e62997f9-6a0d-4dd2-8d49-b0c122928e69.jpg?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 8 月 28 日消息，Minimal 公司联合创始人 @Youkhna 昨日（8 月 27 日）在 X 平台发布推文， 宣布 Minimal Phone 2 手机订单内存起步从 8GB 升级到 12GB，此外 Founders Ember 版从 12GB 升级到 16GB。 Minimal Phone 2 手机于 8 月 11 日上线 Kicks…",
+      "tags": [
+        "行业",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-c6222b5e45aa",
+      "title": "全球首款阔直板探索计划：华为 Pura X View 新品有奖体验",
+      "source": "少数派",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-08-28",
+      "time": "04:00",
+      "publishedAt": "2026-08-28T04:00:00.000Z",
+      "url": "https://sspai.com/post/113883",
+      "image": "",
+      "summary": "继创新形态的阔折叠手机取得了市场的广泛好评后，华为延续阔屏设计，带来全球首款阔直板旗舰HUAWEIPuraXView。HUAWEIPuraXView薄至6.68mm，轻至201g，拥有7000mAh超 ...",
+      "tags": [
+        "Huawei",
+        "评测",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-dbad8b69ef00",
+      "title": "Vivo X500 Pro Max gets a massive 6.85-inch 2K display, promises better visuals and efficiency",
+      "source": "Gizmochina",
+      "brand": "vivo",
+      "model": "vivo 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-28",
+      "time": "03:49",
+      "publishedAt": "2026-08-28T03:49:40.000Z",
+      "url": "https://www.gizmochina.com/2026/08/28/vivo-x500-pro-max-display-specs-confirmed/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/08/Vivo-X500-Pro-Max-display-specs--300x160.jpg?x23692",
+      "summary": "For the past few days, Vivo Product Manager Han Boxiao has been confirming new features of the Vivo X500 series. In his latest Weibo post, he has confirmed details about the new d…",
+      "tags": [
+        "vivo",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-7c90221ee928",
+      "title": "全球限 7 台：Caviar 推出定制版 iPhone 17 Pro，可探测辐射",
+      "source": "IT之家",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-28",
+      "time": "03:46",
+      "publishedAt": "2026-08-28T03:46:55.000Z",
+      "url": "https://www.ithome.com/0/995/501.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/8/a48d20bf-0ade-4cab-bfa7-dd090c6dd90a.png?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 8 月 28 日消息，奢侈定制品牌 Caviar 于 8 月 26 日发布博文， 宣布推出名为 Geiger 的定制 iPhone 17 Pro / Max，全球限量 7 台，起售价为 13,130 美元（IT之家注：现汇率约合 88,459 元人民币）。 硬件方面，Geiger 背面嵌入了一枚型号为 SIG-RM1208 的实体剂量计模块，能够…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-82ff6eae7545",
+      "title": "消息称内存成手机 BOM 成本第一大户：12+256GB 组合采购价贵过最新一代旗舰芯",
+      "source": "IT之家",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-28",
+      "time": "03:30",
+      "publishedAt": "2026-08-28T03:30:07.000Z",
+      "url": "https://www.ithome.com/0/995/495.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/8/bd05555e-1056-4d50-b499-1de41b5ae606.jpg",
+      "summary": "IT之家 8 月 28 日消息，据博主 @数码闲聊站 透露，内存和 SoC 的价格实现倒挂， 内存已经成为手机 BOM 成本第一大户 ： 12+256GB 内存组合当前采购价约 2200，去年同期 500，涨了 1700 最新一代旗舰芯当前采购价约 2000，去年同期约 1500，涨了 500 IT之家注意到，根据 Counterpoint Researc…",
+      "tags": [
+        "行业",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-fd6cc8706ee6",
+      "title": "打击道路低头族：意大利拟对行人过马路时使用手机罚款 75 欧元",
+      "source": "IT之家",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-28",
+      "time": "03:17",
+      "publishedAt": "2026-08-28T03:17:06.000Z",
+      "url": "https://www.ithome.com/0/995/488.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/8/08d220fb-a8d6-42ce-aca4-289595795f04.png",
+      "summary": "IT之家 8 月 28 日消息，参考意大利媒体 Fanpage 报道， 该国拟议的新版《道路交通法》计划对过马路时分心使用手机的行人罚款 75 欧元 （现汇率约合 588.2 元人民币） 。 IT之家了解到，这一处罚金额远低于司机同类违法的水平。不过全球范围内打击交通“低头族”的法规此前往往仅针对车辆驾驶者。 意大利基础设施与交通部表示， 不影响双耳清晰获…",
+      "tags": [
+        "行业",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-34ab732d834c",
+      "title": "竹本青：曝手机行业成本倒挂：内存采购价反超旗舰SoC",
+      "source": "竹本青",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-08-28",
+      "time": "03:13",
+      "publishedAt": "2026-08-28T03:13:53.000Z",
+      "url": "https://www.coolapk.com/feed/73467709",
+      "image": "http://image.coolapk.com/feed/2026/0828/11/4248714_de6c1288_6832_6718_309@1271x551.jpg",
+      "summary": "【曝手机行业成本倒挂：内存采购价反超旗舰SoC，成为手机最大物料成本】 8月28日，博主数码闲聊站爆料 存储与芯片采购成本出现倒挂，内存套件价格大幅上涨，已超过旗舰SoC： ● 12+256GB内存组合：当前采购价约2200元，去年同期约500元，上涨1700元； ● 新一代旗舰SoC：当前采购价约2000元，去年同期约1500元，上涨500元。 根据该数…",
+      "tags": [
+        "行业",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "weibo-32804e345b8d",
+      "title": "数码闲聊站：活久见，内存和SoC的价格真的倒挂了[打脸] 12+256GB内存组合当前采购…",
+      "source": "数码闲聊站",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-08-28",
+      "time": "03:05",
+      "publishedAt": "2026-08-28T03:05:02.000Z",
+      "url": "https://weibo.com/6048569942/RfsujvrSC",
+      "image": "",
+      "summary": "活久见，内存和SoC的价格真的倒挂了[打脸] 12+256GB内存组合当前采购价约2200，去年同期500，涨了1700。 最新一代旗舰芯当前采购价约2000，去年同期约1500，涨了500。 内存已经成为手机BOM成本第一大户！",
+      "tags": [
+        "行业",
+        "爆料",
+        "微博"
+      ]
+    },
+    {
+      "id": "auto-72ba74a8f7f6",
+      "title": "华为徐直军：鸿蒙原生应用突破 10 万个，预计鸿蒙生态年底突破 1 亿用户",
+      "source": "IT之家",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-28",
+      "time": "02:51",
+      "publishedAt": "2026-08-28T02:51:49.000Z",
+      "url": "https://www.ithome.com/0/995/471.htm",
+      "image": "",
+      "summary": "IT之家 8 月 28 日消息，据科创板日报消息，在鸿蒙生态大会 2026 上，华为轮值董事长徐直军表示， 当前鸿蒙原生应用突破 10 万个 ，在 HarmonyOS 手机上可获取的应用超过 40 万个。 截至 8 月 20 日，装载 HarmonyOS 6 终端设备数已突破 8000 万台，预计今年第四季度突破 1 亿用户。这意味着， 鸿蒙生态今年年底突…",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-1ba109b74ae6",
+      "title": "用了阔直板华为，忘了回忆里的黑莓｜华为 Pura X View 评测",
+      "source": "爱范儿",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-08-28",
+      "time": "01:00",
+      "publishedAt": "2026-08-28T01:00:05.000Z",
+      "url": "https://www.ifanr.com/1677161?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "image": "https://s3.ifanr.com/wp-content/uploads/2026/08/banner16t9-8.jpg",
+      "summary": "华为 Passport",
+      "tags": [
+        "Huawei",
+        "评测",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "weibo-6582bdced51d",
+      "title": "数码闲聊站：咳咳，蓝厂今年屏幕也下了狠料，X500 PM定制一块6.85英寸BOE Q11…",
+      "source": "数码闲聊站",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-08-28",
+      "time": "01:00",
+      "publishedAt": "2026-08-28T01:00:01.000Z",
+      "url": "https://weibo.com/6048569942/RfrFzsycU",
+      "image": "",
+      "summary": "咳咳，蓝厂今年屏幕也下了狠料，X500 PM定制一块6.85英寸BOE Q11 2K直屏，显示细腻度较前代提升明显，功耗不升反降，使用寿命也翻倍了，灭霸500的新屏可以期待一下。 iQOO16，定义最强三星2K屏，搭载三星最新一代M系列发光材料，通透感再升级。今年最好的两块2K屏都被蓝厂拿下了，很强势[并不简单]",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "微博"
+      ]
+    },
+    {
+      "id": "auto-9bbf43c61c96",
+      "title": "Apple announces changes to iOS in Brazil",
+      "source": "Apple Newsroom",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "官方",
+      "trust": "官方确认",
+      "date": "2026-08-28",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.apple.com/newsroom/2026/06/apple-announces-changes-to-ios-in-brazil/",
+      "image": "",
+      "summary": "Apple today announced changes impacting iOS apps in Brazil that reflect a recent agreement with Brazil’s competition regulator, CADE.",
+      "tags": [
+        "iPhone",
+        "官方",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "newsnow-e2e4f1558f89",
+      "title": "把「闪念胶囊」（Almost）放到 iPhone 锁屏",
+      "source": "少数派热榜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-08-28",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://sspai.com/post/113219",
+      "image": "",
+      "summary": "把「闪念胶囊」（Almost）放到 iPhone 锁屏",
+      "tags": [
+        "iPhone",
+        "评测",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-8940979d3328",
+      "title": "来个人劝劝我，出哪台最合适，5台都是1T的，想出，又都舍不得，毕竟都涨价了[吃瓜]。 #OPPOFindX9Pro# #小米17ProMax#",
+      "source": "酷安热榜",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-08-28",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/73443473",
+      "image": "",
+      "summary": "来个人劝劝我，出哪台最合适，5台都是1T的，想出，又都舍不得，毕竟都涨价了[吃瓜]。 #OPPOFindX9Pro# #小米17ProMax#",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-ce710e4007e3",
+      "title": "绷不住了，大家一定要避雷小米一款产品，就是小米养生壶恒温壶P1，会自动烧水并且直到烧干，设定恒温40℃，他经常会自动烧水，然后烧到97-98℃不跳100，然后就一直烧，直到把水烧干，太太太离谱了，现在是第三个了，这玩意迟早在我不在家的时候把我家烧了，最后一张图叠个甲吧，非黑子，黑子不会去小米商城买这玩意#年度避雷产品# #小米15# #RedmiK90ProMax#",
+      "source": "酷安热榜",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-08-28",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/73451386",
+      "image": "",
+      "summary": "绷不住了，大家一定要避雷小米一款产品，就是小米养生壶恒温壶P1，会自动烧水并且直到烧干，设定恒温40℃，他经常会自动烧水，然后烧到97-98℃不跳100，然后就一直烧，直到把水烧干，太太太离谱了，现在是第三个了，这玩意迟早在我不在家的时候把我家烧了，最后一张图叠个甲吧，非黑子，黑子不会去小米商城买这玩意#年度避雷产品# #小米15# #RedmiK90Pr…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-464b048be371",
+      "title": "隔壁平台对性能要求是真不高啊，iPhone8P一点不卡的来了[受虐滑稽]#iPhone17# #iPhone16# #iPhone15#",
+      "source": "酷安热榜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-08-28",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/73439689",
+      "image": "",
+      "summary": "隔壁平台对性能要求是真不高啊，iPhone8P一点不卡的来了[受虐滑稽]#iPhone17# #iPhone16# #iPhone15#",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-dfcafbebd122",
+      "title": "5G 商用七年了，除了手机右上角多 5G 标识，网速体验和 4G 没差别，信号甚至更差，我该如何反驳这种观点？",
+      "source": "知乎热榜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "市场报告",
+      "trust": "媒体汇总",
+      "date": "2026-08-28",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.zhihu.com/question/2076052849881104673",
+      "image": "",
+      "summary": "5G 商用七年了，除了手机右上角多 5G 标识，网速体验和 4G 没差别，信号甚至更差，我该如何反驳这种观点？",
+      "tags": [
+        "行业",
+        "市场报告",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-55504836490b",
+      "title": "华为Pura X View深度体验",
+      "source": "今日头条热榜",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-28",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.toutiao.com/trending/7678266684255354943/",
+      "image": "",
+      "summary": "华为Pura X View深度体验",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-5561b6df54d9",
+      "title": "苹果华为小米折叠屏集中撞档9月",
+      "source": "抖音热点",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "待验证",
+      "date": "2026-08-28",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.douyin.com/hot/2625706",
+      "image": "",
+      "summary": "苹果华为小米折叠屏集中撞档9月",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "auto-15e3e424b6ea",
+      "title": "Apple Pay is getting even better with four new features and more",
+      "source": "9to5Mac",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-27",
+      "time": "23:34",
+      "publishedAt": "2026-08-27T23:34:07.000Z",
+      "url": "https://9to5mac.com/2026/08/27/apple-pay-is-getting-even-better-with-four-new-features/",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2021/10/apple-pay-header.jpg?quality=82&strip=all&w=1600",
+      "summary": "Apple Pay is a go-to feature for iPhone users when shopping in stores, online, and in apps. Apple recently announced four new features that make Apple Pay even better. Here’s how…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-09a9982d6cfe",
+      "title": "Lost Google Maps’ big navigation upgrade? Your new Pixel 11 might be to blame",
+      "source": "Android Authority",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-27",
+      "time": "21:14",
+      "publishedAt": "2026-08-27T21:14:54.000Z",
+      "url": "https://www.androidauthority.com/pixel-11-google-maps-immersive-navigation-missing-3704172/",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2025/11/a-route-with-a-turn-in-google-maps-scaled.jpg",
+      "summary": "Immersive Navigation is missing for some.",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-31eef3ad5f49",
+      "title": "You can't beat this Pixel 11 Pro promotion that knocks $150 and includes a $200 gift card",
+      "source": "Android Police",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-27",
+      "time": "20:49",
+      "publishedAt": "2026-08-27T20:49:19.000Z",
+      "url": "https://www.androidpolice.com/this-is-the-best-price-youll-find-on-the-pixel-11/",
+      "image": "",
+      "summary": "$150 discount + $200 gift card",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-df35d95caaa8",
       "title": "Redmi Note 17 Pro launches with an 8340mAh silicon-carbon battery",
@@ -182,26 +762,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "coolapk-user-9d36ba52a4ae",
-      "title": "竹本青：【滴滴专车正式发布8大服务承诺 ：365天洁净，主动提拿行李等】 1、洁净 365天洁净，每程清洁 车内无杂物，内…",
-      "source": "竹本青",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-08-27",
-      "time": "15:44",
-      "publishedAt": "2026-08-27T15:44:53.000Z",
-      "url": "https://www.coolapk.com/feed/73462698",
-      "image": "http://image.coolapk.com/feed/2026/0827/23/4248714_ce5c98ed_5489_459_282@1242x1660.jpg",
-      "summary": "【滴滴专车正式发布8大服务承诺 ：365天洁净，主动提拿行李等】 1、洁净 365天洁净，每程清洁 车内无杂物，内饰无灰尘 2、净味 保持个人卫生，不在车内抽烟 单单开窗通风，车内无异味 3、安静 全程0打扰，手机声音不外放 不接打电话不刷手机，不主动攀谈 4、省心 接驾不取消，主动提拿行李 可提供帮开车门、送进小区等个性化服务 5、舒心 车内空间宽敞，配…",
-      "tags": [
-        "行业",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
       "id": "auto-e69639509515",
       "title": "Hidden Galaxy Z Fold 8 setting fixes awkward aspect ratios in some apps",
       "source": "SamMobile",
@@ -362,26 +922,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-d97cffd57ad2",
-      "title": "三星 Galaxy S27 Pro 渲染图曝光：无 S Pen 的小号 Ultra，约 6.6 英寸屏",
-      "source": "IT之家",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-27",
-      "time": "13:56",
-      "publishedAt": "2026-08-27T13:56:19.000Z",
-      "url": "https://www.ithome.com/0/995/303.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/8/04484d21-ac6d-4e70-9e35-11705b72c27c.jpg?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 8 月 27 日消息，科技媒体 Android Headlines 今日与爆料人 OnLeaks 合作，曝光了三星 Galaxy S27 Pro 的官方 CAD 渲染图及关键信息。 据介绍，这款机型将作为 Galaxy S27 系列中的新成员，定位介于标准版与顶配 Ultra 版之间。 根据曝光的 CAD 渲染图，S27 Pro 的设计语言与 S…",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-424fc9b7daac",
       "title": "T-Mobile wants to give you 4 free Galaxy S26 phones and 4 lines for just $25/month per line — how to claim the offer",
       "source": "Android Central",
@@ -438,26 +978,6 @@ window.phoneRadarAuto = {
       "tags": [
         "Samsung",
         "评测",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-40cef301f7c8",
-      "title": "The Redmi Note 17 Pro Max has a battery so big, it doubles as a power bank. I tried it out",
-      "source": "Android Police",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-27",
-      "time": "12:41",
-      "publishedAt": "2026-08-27T12:41:07.000Z",
-      "url": "https://www.androidpolice.com/redmi-note-17-pro-max-hands-on/",
-      "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2026/08/redmi-note-17-pro-max-orange.JPG",
-      "summary": "It changes color in sunlight too",
-      "tags": [
-        "Xiaomi",
-        "爆料",
         "自动抓取"
       ]
     },
@@ -562,46 +1082,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-614b806efa5e",
-      "title": "Samsung Galaxy S26 FE hands-on",
-      "source": "SamMobile",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-27",
-      "time": "12:01",
-      "publishedAt": "2026-08-27T12:01:12.000Z",
-      "url": "https://www.sammobile.com/samsung/galaxy-s26-fe/hands-on/",
-      "image": "https://www.sammobile.com/wp-content/uploads/2026/08/Galaxy-S26-FE-colors-5-1920x1079.jpg",
-      "summary": "Samsung has officially added another Fan Edition smartphone to its lineup with the Galaxy S26 FE. On paper, it brings a few upgrades over the Galaxy S25 FE, including a newer proc…",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-c37cf8f95185",
-      "title": "Samsung Galaxy S26 FE hands-on: It won't excite you, but here's why it might be a smart buy",
-      "source": "Android Police",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-27",
-      "time": "12:00",
-      "publishedAt": "2026-08-27T12:00:10.000Z",
-      "url": "https://www.androidpolice.com/samsung-galaxy-s26-fe-hands-on/",
-      "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2026/08/galaxy-s26-fe-blueberry-back.JPG",
-      "summary": "Try not to compare it to the Galaxy S25 FE though",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-8f58c9fde574",
       "title": "Apple Event Logo Hints at Two iPhone 18 Pro Features",
       "source": "MacRumors",
@@ -622,26 +1102,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "coolapk-user-4b7b8bf61d96",
-      "title": "竹本青：华为Pura X Max 最新销量曝光：全系超74万台",
-      "source": "竹本青",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-08-27",
-      "time": "11:35",
-      "publishedAt": "2026-08-27T11:35:20.000Z",
-      "url": "https://www.coolapk.com/feed/73458690",
-      "image": "http://image.coolapk.com/feed/2026/0827/19/4248714_9bb904db_0519_3248_94@1272x453.jpg",
-      "summary": "【华为Pura X Max 最新销量曝光：全系超74万台，典藏版约38.26万台】 Pura X Max ● 截至 W33 —— 约36.32万（周增1.86万） 截至 W32 —— 约34.46万（周增1.91万） 截至 W31 —— 约32.55万（周增2.08万） 截至 W30 —— 约30.47万（周增1.88万） Pura X Max 典藏版 ●…",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
       "id": "auto-c3e179789d77",
       "title": "The Xiaomi 18 Fold leaks, ahead of the iPhone Ultra launch",
       "source": "9to5Mac",
@@ -657,26 +1117,6 @@ window.phoneRadarAuto = {
       "summary": "For a time, it was unclear whether the flip or fold form factor was the future of folding smartphones, but for now at least, it seems clear that the book-style fold is the winner.…",
       "tags": [
         "Xiaomi",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-f61e81973f7f",
-      "title": "武汉地铁联合支付宝推出同行乘车码服务，1 部手机同一账号可供 6 人刷码过闸",
-      "source": "IT之家",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-27",
-      "time": "11:03",
-      "publishedAt": "2026-08-27T11:03:08.000Z",
-      "url": "https://www.ithome.com/0/995/251.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/8/e70c3d05-b0a7-49ac-9704-8bc5b2f32fc4.jpg",
-      "summary": "IT之家 8 月 27 日消息，武汉地铁宣布与支付宝合作，上线地铁同行票功能，可实现一部手机同一账户多码过闸， 最多可支持 6 人同行刷码过闸乘坐地铁 ，适用于和老人或小朋友共同出行时对方不便操作手机场景。 据官方介绍，用户可以打开支付宝，在首页“出行”菜单进入后选择“武汉地铁乘车码”，点击“查看”—“同行票”—“去激活”，跳转签约页面后点击“去激活”即完…",
-      "tags": [
-        "行业",
         "爆料",
         "自动抓取"
       ]
@@ -982,821 +1422,21 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-9bbf43c61c96",
-      "title": "Apple announces changes to iOS in Brazil",
-      "source": "Apple Newsroom",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "官方",
-      "trust": "官方确认",
-      "date": "2026-08-27",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.apple.com/newsroom/2026/06/apple-announces-changes-to-ios-in-brazil/",
-      "image": "",
-      "summary": "Apple today announced changes impacting iOS apps in Brazil that reflect a recent agreement with Brazil’s competition regulator, CADE.",
-      "tags": [
-        "iPhone",
-        "官方",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "newsnow-591c20d860f7",
-      "title": "把「闪念胶囊」（Almost）放到 iPhone 锁屏",
-      "source": "少数派热榜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "评测",
-      "trust": "媒体汇总",
-      "date": "2026-08-27",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://sspai.com/post/113219",
-      "image": "",
-      "summary": "把「闪念胶囊」（Almost）放到 iPhone 锁屏",
-      "tags": [
-        "iPhone",
-        "评测",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-1b5bcd096fe1",
-      "title": "来个人劝劝我，出哪台最合适，5台都是1T的，想出，又都舍不得，毕竟都涨价了[吃瓜]。 #OPPOFindX9Pro# #小米17ProMax#",
-      "source": "酷安热榜",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-08-27",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73443473",
-      "image": "",
-      "summary": "来个人劝劝我，出哪台最合适，5台都是1T的，想出，又都舍不得，毕竟都涨价了[吃瓜]。 #OPPOFindX9Pro# #小米17ProMax#",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-d252777b000a",
-      "title": "vivo X500 Pro 系列全球首发蓝晶 × 天玑 2nm 旗舰芯",
-      "source": "酷安热榜",
+      "id": "coolapk-user-7efa0ac8c623",
+      "title": "JSCHEN小小狐：vivo X500 Pro 系列全球首发蓝晶 × 天玑 2nm 旗舰芯",
+      "source": "JSCHEN小小狐",
       "brand": "vivo",
       "model": "vivo 相关机型",
       "type": "爆料",
-      "trust": "高关注爆料源",
+      "trust": "高可信爆料",
       "date": "2026-08-27",
-      "time": "",
-      "publishedAt": "",
+      "time": "02:13",
+      "publishedAt": "2026-08-27T02:13:53.000Z",
       "url": "https://www.coolapk.com/feed/73449145",
-      "image": "",
-      "summary": "vivo X500 Pro 系列全球首发蓝晶 × 天玑 2nm 旗舰芯",
+      "image": "http://image.coolapk.com/feed/2026/0827/10/4702274_8bcc8490_6832_2157_408@2494x3325.jpg",
+      "summary": "『vivo X500 Pro 系列预热：全球首发蓝晶 × 天玑 2nm 旗舰芯』 蓝晶 × 天玑 2nm 旗舰芯： ◇ 第二代 2nm N2P 制程 ◇ 全新 GPU 架构 - 峰值性能、综合能效行业第一 五大联合技术： ◇ 专业 Log 视频硬件专区 - 4K 120fps 10bit Log 烧录直出 ◇ 超能效影像 NPU 2.0 - 行业独家 60…",
       "tags": [
         "vivo",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-42a32580e47c",
-      "title": "给大家说一个我们最近新折腾的东西，酷回收，之前好多酷友一直让我们做一个二手平台，不过以我们的资源和能力，根本不可能做一个二手平台，所以我们就换一个思路，搞手机回收试试看，回收相对更加简单，一般也不会咸鱼那些容易扯皮的事情；",
-      "source": "酷安热榜",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-08-27",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73420976",
-      "image": "",
-      "summary": "给大家说一个我们最近新折腾的东西，酷回收，之前好多酷友一直让我们做一个二手平台，不过以我们的资源和能力，根本不可能做一个二手平台，所以我们就换一个思路，搞手机回收试试看，回收相对更加简单，一般也不会咸鱼那些容易扯皮的事情；",
-      "tags": [
-        "行业",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-654786583b25",
-      "title": "感谢小米让我用上了这么好用的手机[流泪]，直接无敌了都 #红米k90promax# #小米17# #小米17ProMax#",
-      "source": "酷安热榜",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-08-27",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73439045",
-      "image": "",
-      "summary": "感谢小米让我用上了这么好用的手机[流泪]，直接无敌了都 #红米k90promax# #小米17# #小米17ProMax#",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-eeaf7941d0e7",
-      "title": "隔壁平台对性能要求是真不高啊，iPhone8P一点不卡的来了[受虐滑稽]#iPhone17# #iPhone16# #iPhone15#",
-      "source": "酷安热榜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-08-27",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73439689",
-      "image": "",
-      "summary": "隔壁平台对性能要求是真不高啊，iPhone8P一点不卡的来了[受虐滑稽]#iPhone17# #iPhone16# #iPhone15#",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-813f9a170980",
-      "title": "9岁儿子疯狂沉迷手机单亲妈妈急哭",
-      "source": "微博热搜",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "待验证",
-      "date": "2026-08-27",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://s.weibo.com/weibo?q=%239%E5%B2%81%E5%84%BF%E5%AD%90%E7%96%AF%E7%8B%82%E6%B2%89%E8%BF%B7%E6%89%8B%E6%9C%BA%E5%8D%95%E4%BA%B2%E5%A6%88%E5%A6%88%E6%80%A5%E5%93%AD%23&t=31&band_rank=13&Refer=top",
-      "image": "",
-      "summary": "9岁儿子疯狂沉迷手机单亲妈妈急哭",
-      "tags": [
-        "行业",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-b4ac983b693c",
-      "title": "许诺孩子如果考年级前十，就给他买个苹果手机，孩子这次考试年级第十，要不要买？",
-      "source": "知乎热榜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "市场报告",
-      "trust": "媒体汇总",
-      "date": "2026-08-27",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.zhihu.com/question/2075707445230552055",
-      "image": "",
-      "summary": "许诺孩子如果考年级前十，就给他买个苹果手机，孩子这次考试年级第十，要不要买？",
-      "tags": [
-        "iPhone",
-        "市场报告",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "auto-5a23105beeee",
-      "title": "Apple's iPhone Event Tagline is Different in Every Country",
-      "source": "MacRumors",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-26",
-      "time": "23:41",
-      "publishedAt": "2026-08-26T23:41:10.000Z",
-      "url": "https://www.macrumors.com/2026/08/26/apple-iphone-event-taglines/",
-      "image": "https://images.macrumors.com/article-new/2026/08/Surprise-and-Shine-Feature.jpg",
-      "summary": "Apple today announced it will hold its annual iPhone-centric event on Wednesday, September 9 at 10 a.m. Pacific Time. In the U.S. and several other countries, Apple used \"Surprise…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-a0bc51630523",
-      "title": "Review: Google’s Pixel 11 Pro Fold just barely keeps up",
-      "source": "9to5Google",
-      "brand": "Pixel",
-      "model": "Pixel 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-26",
-      "time": "21:40",
-      "publishedAt": "2026-08-26T21:40:00.000Z",
-      "url": "https://9to5google.com/2026/08/26/google-pixel-11-pro-fold-review/",
-      "image": "",
-      "summary": "The foldable market has been moving fast, with hardware and software we saw just a few years ago having been completely rethought and drastically improved. In the middle of it all…",
-      "tags": [
-        "Pixel",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-212d39786a55",
-      "title": "Here’s how many foldable iPhones IDC expects Apple to ship in one year",
-      "source": "9to5Mac",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-26",
-      "time": "21:13",
-      "publishedAt": "2026-08-26T21:13:32.000Z",
-      "url": "https://9to5mac.com/2026/08/26/heres-how-many-foldable-iphones-idc-expects-apple-to-ship-in-one-year/",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/03/iphone-fold-mockup-blue.jpg?quality=82&strip=all&w=1600",
-      "summary": "As Apple reportedly gears up to announce its first foldable iPhone on September 9, Bloomberg reports that IDC has a bullish outlook on the device’s performance during its first ye…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-60eb7172f826",
-      "title": "Counterpoint: iPhone 17 topped worldwide smartphone sales during Q2",
-      "source": "9to5Mac",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-26",
-      "time": "20:07",
-      "publishedAt": "2026-08-26T20:07:02.000Z",
-      "url": "https://9to5mac.com/2026/08/26/counterpoint-iphone-17-topped-worldwide-smartphone-sales-during-q2/",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/iphone-17-purple-hand.jpg?quality=82&strip=all&w=1600",
-      "summary": "In a report published today, Counterpoint Research says Apple once again secured five spots among the world’s 10 best-selling smartphones during the second quarter of 2026. Here a…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-a6530cf99d77",
-      "title": "Google Translate thinks Apple’s iPhone Ultra event tagline in China includes a hidden ‘foldable’ teaser",
-      "source": "9to5Mac",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-26",
-      "time": "19:41",
-      "publishedAt": "2026-08-26T19:41:07.000Z",
-      "url": "https://9to5mac.com/2026/08/26/apples-iphone-ultra-event-tagline-in-china-includes-a-hidden-foldable-teaser/",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/translated-apple-event-tagline-china.webp?w=1600",
-      "summary": "Apple officially announced the date for its big September event with the tagline “Surprise and shine,” a play on the phrase rise and shine. This is for the event where Apple is ex…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-6f0970146ddb",
-      "title": "Leaker says iPhone Ultra will come in these colors, with one surprise [Updated]",
-      "source": "9to5Mac",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-26",
-      "time": "18:17",
-      "publishedAt": "2026-08-26T18:17:53.000Z",
-      "url": "https://9to5mac.com/2026/08/26/leaker-says-iphone-ultra-will-come-in-these-colors-with-one-surprise/",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/03/iphone-fold-mockup-red.jpg?quality=82&strip=all&w=1600",
-      "summary": "Leaker Evan Blass has just posted what he claims are the three colors coming to iPhone Ultra, and they include a surprising red option. Update : Mark Gurman posted on X that there…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-c17128987dd7",
-      "title": "iPhone Ultra is coming: Three new features will be worth the wait",
-      "source": "9to5Mac",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-26",
-      "time": "17:18",
-      "publishedAt": "2026-08-26T17:18:11.000Z",
-      "url": "https://9to5mac.com/2026/08/26/iphone-ultra-is-coming-three-new-features-will-be-worth-the-wait/",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/04/iphone-ultra-fold-mockup.jpg?quality=82&strip=all&w=1600",
-      "summary": "The iPhone Ultra will be unveiled very soon at the just-confirmed September 9 event . Apple’s foldable will debut seven years after competing products, but three key iPhone Ultra…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-7d3c88be15ac",
-      "title": "The Galaxy S27 Ultra battery upgrade could have been much wilder",
-      "source": "Android Authority",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-26",
-      "time": "17:13",
-      "publishedAt": "2026-08-26T17:13:55.000Z",
-      "url": "https://www.androidauthority.com/galaxy-s27-ultra-7000mah-battery-prototype-leak-3703387/",
-      "image": "https://www.androidauthority.com/wp-content/uploads/2026/06/s26-ultra-on-a-table-scaled.jpg",
-      "summary": "A 7,000mAh battery may have been on the table for the S27 Ultra.",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-14cf0e2cd71b",
-      "title": "Xiaomi’s version of the wider Galaxy Z Fold 8 shows up in hands-on leak ahead of launch",
-      "source": "9to5Google",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-26",
-      "time": "16:25",
-      "publishedAt": "2026-08-26T16:25:00.000Z",
-      "url": "https://9to5google.com/2026/08/26/xiaomi-18-fold-leak-galaxy-z-fold-8-wide/",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/08/fold-8-xiaomi-18-fold-leak.jpg?quality=82&strip=all&w=1600",
-      "summary": "The Xiaomi 18 Fold is officially launching next month and, ahead of its formal debut, a hands-on leak is showing off the wider Galaxy Z Fold 8-like form factor.",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-86da394e9e88",
-      "title": "Apple Event Announced for September 9: 'Surprise and Shine'",
-      "source": "MacRumors",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-26",
-      "time": "16:02",
-      "publishedAt": "2026-08-26T16:02:48.000Z",
-      "url": "https://www.macrumors.com/2026/08/26/apple-iphone-event-2026/",
-      "image": "",
-      "summary": "Apple plans to hold its annual iPhone-centric event on Wednesday, September 9 at the Apple Park campus in Cupertino, California. The event will begin at 10:00 a.m. Pacific Time, w…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-2e1b4f8a9eeb",
-      "title": "Apple announces iPhone 18 Pro and foldable iPhone Ultra event: ‘Surprise and shine’",
-      "source": "9to5Mac",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-26",
-      "time": "16:02",
-      "publishedAt": "2026-08-26T16:02:04.000Z",
-      "url": "https://9to5mac.com/2026/08/26/apple-officially-announces-iphone-18-pro-foldable-event/",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/iphone-18-pro-max-ultra-event.webp?w=1600",
-      "summary": "Apple has officially announced its next product event, where it will unveil the iPhone 18 Pro lineup and its first foldable iPhone. The event will take place on September 9 at 10…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-7e1e008104de",
-      "title": "Should you buy the Google Pixel 11?",
-      "source": "Android Central",
-      "brand": "Pixel",
-      "model": "Pixel 相关机型",
-      "type": "评测",
-      "trust": "媒体汇总",
-      "date": "2026-08-26",
-      "time": "15:13",
-      "publishedAt": "2026-08-26T15:13:37.000Z",
-      "url": "https://www.androidcentral.com/phones/google-pixel/should-you-buy-the-google-pixel-11",
-      "image": "https://cdn.mos.cms.futurecdn.net/xagY7tjxopdazWG4nAfh4D-1280-80.jpg",
-      "summary": "The standard Pixel 11 doesn't have much in the way of new features, and if you have a relatively recent phone, it doesn't make any sense to buy it.",
-      "tags": [
-        "Pixel",
-        "评测",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-3b286a30d8ac",
-      "title": "Galaxy S27 leaks reveal a design that Samsung just won’t kill",
-      "source": "9to5Google",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-26",
-      "time": "14:30",
-      "publishedAt": "2026-08-26T14:30:50.000Z",
-      "url": "https://9to5google.com/2026/08/26/galaxy-s27-design-leaks/",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/08/Galaxy-S27-leak-header.jpg?quality=82&strip=all&w=1400",
-      "summary": "Whether you’re a fan of the Galaxy S27 Ultra’s new camera design or not, Samsung is ditching the cohesive design that has tied its Galaxy S models together last year. The Galaxy S…",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-13ed481debcb",
-      "title": "Galaxy S26 Ultra is the world’s most popular Android phone, and that’s a first",
-      "source": "9to5Google",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-26",
-      "time": "14:30",
-      "publishedAt": "2026-08-26T14:30:00.000Z",
-      "url": "https://9to5google.com/2026/08/26/samsung-galaxy-s26-ultra-best-selling-android-phone-q2-2026/",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/03/galaxy-s26-ultra-review-2.jpg?quality=82&strip=all&w=1600",
-      "summary": "Android phones are never the top-selling smartphones globally, but the ones that get closest are almost always budget models. In Q2 2026, though, Samsung achieved a major win with…",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-6b1bb384d122",
-      "title": "The fix for the Galaxy S26 Ultra’s red tint bug is rolling out",
-      "source": "Android Authority",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-26",
-      "time": "14:04",
-      "publishedAt": "2026-08-26T14:04:12.000Z",
-      "url": "https://www.androidauthority.com/samsung-galaxy-s26-ultra-red-tint-fix-update-3703275/",
-      "image": "https://www.androidauthority.com/wp-content/uploads/2026/05/Samsung-Galaxy-S26-Ultra-showing-One-UI-lock-screen.jpg",
-      "summary": "The August 2026 security update could likely include a fix for this annoying display glitch.",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-3806c160c67c",
-      "title": "Galaxy S27 breaks cover in new renders, and it’s both good news and bad news",
-      "source": "Android Authority",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-26",
-      "time": "13:56",
-      "publishedAt": "2026-08-26T13:56:53.000Z",
-      "url": "https://www.androidauthority.com/galaxy-s27-cad-renders-leak-3703360/",
-      "image": "https://www.androidauthority.com/wp-content/uploads/2026/08/Samsung-Galaxy-S27-leaked-renders-copy.jpg",
-      "summary": "The unchanged design may be disappointing, but not as much as an iPhone-lookalike would be.",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-428f6419085b",
-      "title": "Last chance! Grab a free $100 gift card with your Google Pixel 11 (before it's too late)",
-      "source": "Android Central",
-      "brand": "Pixel",
-      "model": "Pixel 相关机型",
-      "type": "评测",
-      "trust": "媒体汇总",
-      "date": "2026-08-26",
-      "time": "13:40",
-      "publishedAt": "2026-08-26T13:40:00.000Z",
-      "url": "https://www.androidcentral.com/phones/google-pixel/last-chance-grab-a-free-usd100-gift-card-with-your-google-pixel-11-before-its-too-late",
-      "image": "https://cdn.mos.cms.futurecdn.net/KgPWHYESoRzvHtkRWJWNeh-1280-80.jpg",
-      "summary": "Ready to buy your new Google Pixel 11? Grab the phone unlocked from Amazon and you'll score a free gift card worth up to $200.",
-      "tags": [
-        "Pixel",
-        "评测",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-9811bbc78f97",
-      "title": "If you have a Pixel 11 Pro XL, you need to turn on this hidden feature to boost your charging time",
-      "source": "Android Central",
-      "brand": "Pixel",
-      "model": "Pixel 相关机型",
-      "type": "评测",
-      "trust": "媒体汇总",
-      "date": "2026-08-26",
-      "time": "11:50",
-      "publishedAt": "2026-08-26T11:50:00.000Z",
-      "url": "https://www.androidcentral.com/phones/google-pixel/google-pixel-11-extreme-charging",
-      "image": "https://cdn.mos.cms.futurecdn.net/iKydhnCmFnXxseEYTSXa9Y-1280-80.jpg",
-      "summary": "Extreme Charging for the Google Pixel 11 series promises faster charging, but does it deliver? Find out the results and how to use it here.",
-      "tags": [
-        "Pixel",
-        "评测",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-fdc105112e70",
-      "title": "Instagram can now create Reels automatically – but Meta doesn’t want to upset creators",
-      "source": "9to5Mac",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-26",
-      "time": "11:43",
-      "publishedAt": "2026-08-26T11:43:14.000Z",
-      "url": "https://9to5mac.com/2026/08/26/instagram-can-now-create-reels-automatically-but-meta-doesnt-want-to-upset-creators/",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/Instagram-can-now-create-Reels-automatically-–-but-Meta-doesnt-want-to-upset-creators.jpg?quality=82&strip=all&w=1600",
-      "summary": "Instagram now has a new iPhone-exclusive feature that can create reels automatically. You just select your video clips and it creates an edit with a single tap. However, Meta is b…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-80513980feb3",
-      "title": "Should you buy the Google Pixel 11 Pro Fold?",
-      "source": "Android Central",
-      "brand": "Pixel",
-      "model": "Pixel 相关机型",
-      "type": "评测",
-      "trust": "媒体汇总",
-      "date": "2026-08-26",
-      "time": "11:24",
-      "publishedAt": "2026-08-26T11:24:48.000Z",
-      "url": "https://www.androidcentral.com/phones/google-pixel/should-you-buy-the-google-pixel-11-pro-fold",
-      "image": "https://cdn.mos.cms.futurecdn.net/WBJj6auZhcwakcrCGAcDcd-1280-80.jpg",
-      "summary": "The Pixel 11 Pro Fold may not look like much of an upgrade, but it has a lot to like if you're a Pixel fan.",
-      "tags": [
-        "Pixel",
-        "评测",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-1b99984d6d15",
-      "title": "25% of US adults are interested in the iPhone Ultra – but won’t pay for it",
-      "source": "9to5Mac",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-26",
-      "time": "11:23",
-      "publishedAt": "2026-08-26T11:23:25.000Z",
-      "url": "https://9to5mac.com/2026/08/26/25-of-us-adults-are-interested-in-the-iphone-ultra-but-wont-pay-for-it/",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/03/iphone-fold-mockup-blue.jpg?quality=82&strip=all&w=1600",
-      "summary": "Sometimes a headline is the complete inverse of the real news in the story, and that’s the case with a new survey measuring interest in the upcoming iPhone Ultra . The headline sa…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "weibo-79704a1ec658",
-      "title": "数码闲聊站：9.7疑似有3场发布会，都是TOP5手机大厂……[哆啦A梦害怕]",
-      "source": "数码闲聊站",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-08-26",
-      "time": "10:43",
-      "publishedAt": "2026-08-26T10:43:00.000Z",
-      "url": "https://weibo.com/6048569942/RfcDdgl5n",
-      "image": "",
-      "summary": "9.7疑似有3场发布会，都是TOP5手机大厂……[哆啦A梦害怕]",
-      "tags": [
-        "行业",
-        "爆料",
-        "微博"
-      ]
-    },
-    {
-      "id": "auto-210d646f8572",
-      "title": "The Galaxy S26 Ultra just achieved a first for Android phone sales",
-      "source": "Android Authority",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-26",
-      "time": "10:04",
-      "publishedAt": "2026-08-26T10:04:40.000Z",
-      "url": "https://www.androidauthority.com/best-selling-android-phone-q2-2026-3703124/",
-      "image": "https://www.androidauthority.com/wp-content/uploads/2026/03/Samsung-Galaxy-S26-Ultra-home-screen.jpg",
-      "summary": "Samsung is the sole Android brand in the top 10, but the S26 Ultra also made a notable achievement.",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-dd19febf17e1",
-      "title": "The HUAWEI Pura 90s Pro Max is so good that it makes me a little sad",
-      "source": "Android Authority",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-26",
-      "time": "09:15",
-      "publishedAt": "2026-08-26T09:15:21.000Z",
-      "url": "https://www.androidauthority.com/huawei-pura-90s-pro-max-hands-on-3700133/",
-      "image": "https://www.androidauthority.com/wp-content/uploads/2026/08/HUAWEI-Pura-90s-Pro-Max-8.jpg",
-      "summary": "HUAWEI's Google-less phones continue to be a painful reminder of what could have been.",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-7c7b9a60c74e",
-      "title": "Google’s smartest Pixel 11 Pro feature is already driving me crazy",
-      "source": "Android Authority",
-      "brand": "Pixel",
-      "model": "Pixel 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-26",
-      "time": "09:00",
-      "publishedAt": "2026-08-26T09:00:41.000Z",
-      "url": "https://www.androidauthority.com/pixel-11-pro-hilight-hands-on-issues-3701386/",
-      "image": "https://www.androidauthority.com/wp-content/uploads/2026/08/HiLight-for-calls-working-on-Google-11-Pro-XL.jpg",
-      "summary": "A bright idea gone dim.",
-      "tags": [
-        "Pixel",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "coolapk-user-5cb4c3c23a7c",
-      "title": "JSCHEN小小狐：OPPO Find X10 系列命名曝光：含三款机型",
-      "source": "JSCHEN小小狐",
-      "brand": "OPPO",
-      "model": "OPPO 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-08-26",
-      "time": "08:07",
-      "publishedAt": "2026-08-26T08:07:41.000Z",
-      "url": "https://www.coolapk.com/feed/73438201",
-      "image": "http://image.coolapk.com/feed/2026/0826/16/4702274_7d4da097_1660_2283_280@1440x421.jpg",
-      "summary": "『OPPO Find X10 系列命名曝光：含三款机型』 知名数码博主 数码闲聊站 今日曝光了 OPPO Find X10 系列新机命名，共包括以下三款机型： · OPPO Find X10 Pro Max（大屏） · OPPO Find X10（中屏） · OPPO Find X10 E（中屏） X10 Pro Max： ◇ 6.78\" 1.5K LTP…",
-      "tags": [
-        "OPPO",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
-      "id": "weibo-5d6bf6d5de6f",
-      "title": "数码闲聊站：独家，小杯中屏E/中杯中屏标准版3nm DX5/大大杯大屏PM 2nm DX6…",
-      "source": "数码闲聊站",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-08-26",
-      "time": "07:14",
-      "publishedAt": "2026-08-26T07:14:00.000Z",
-      "url": "https://weibo.com/6048569942/RfbgnuIQj",
-      "image": "",
-      "summary": "独家，小杯中屏E/中杯中屏标准版3nm DX5/大大杯大屏PM 2nm DX6，中杯开始标配主摄/长焦双200Mp[偷乐]",
-      "tags": [
-        "行业",
-        "爆料",
-        "微博"
-      ]
-    },
-    {
-      "id": "auto-910628bd6868",
-      "title": "Oppo Find X10 series will use Tianma’s new screen to cut blue light exposure",
-      "source": "Gizmochina",
-      "brand": "OPPO",
-      "model": "OPPO 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-26",
-      "time": "06:57",
-      "publishedAt": "2026-08-26T06:57:08.000Z",
-      "url": "https://www.gizmochina.com/2026/08/26/oppo-find-x10-series-will-use-tianmas-new-screen-to-cut-blue-light-exposure/",
-      "image": "https://www.gizmochina.com/wp-content/uploads/2026/08/Oppo-Find-X9-red-630x420-1-300x169.jpg?x23692",
-      "summary": "Oppo’s upcoming Find X10 series will use Tianma’s new Tiangong Screen 2.0, a high-end OLED panel that puts more emphasis on eye comfort and low-brightness performance. The second-…",
-      "tags": [
-        "OPPO",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-390ec0ea024c",
-      "title": "Xiaomi 18 Fold first real-life images leak, revealing design",
-      "source": "Gizmochina",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-26",
-      "time": "05:43",
-      "publishedAt": "2026-08-26T05:43:52.000Z",
-      "url": "https://www.gizmochina.com/2026/08/26/xiaomi-18-fold-first-real-life-images-leak-revealing-design/",
-      "image": "https://www.gizmochina.com/wp-content/uploads/2026/08/Xiaomi-18-Fold-design-leaks-300x200.jpg?x23692",
-      "summary": "New photos claiming to show the Xiaomi 18 Fold have started circulating online, and they look similar to a phone Xiaomi CEO Lei Jun was seen holding earlier this week. Also ReadTh…",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-9e09b51d2449",
-      "title": "Samsung Galaxy S27 Ultra looks nothing like its predecessor in latest renders",
-      "source": "Gizmochina",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-26",
-      "time": "04:15",
-      "publishedAt": "2026-08-26T04:15:29.000Z",
-      "url": "https://www.gizmochina.com/2026/08/26/galaxy-s27-ultra-cad-renders-camera-plateau-leak/",
-      "image": "https://www.gizmochina.com/wp-content/uploads/2026/08/Samsung-Galaxy-S27-Ultra-Render-2-300x200.jpg?x23692",
-      "summary": "Samsung‘s camera design has remained largely untouched for years, but that streak appears to be ending with the Galaxy S27 Ultra. Fresh CAD renders from leaker OnLeaks show that t…",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-12e3e38b7d25",
-      "title": "Vivo X500 Pro Max and X500 Pro periscope telephoto camera details revealed well before launch",
-      "source": "Gizmochina",
-      "brand": "vivo",
-      "model": "vivo 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-26",
-      "time": "03:53",
-      "publishedAt": "2026-08-26T03:53:05.000Z",
-      "url": "https://www.gizmochina.com/2026/08/26/vivo-x500-pro-max-x500-pro-periscope-telephoto-camera-details/",
-      "image": "https://www.gizmochina.com/wp-content/uploads/2026/08/Vivo-X500-Pro-Max-telpehoto--300x231.jpg?x23692",
-      "summary": "Vivo recently confirmed that the X500 series will launch in China in September. The lineup includes three models: the X500, X500 Pro, and X500 Pro Max. With only a couple of weeks…",
-      "tags": [
-        "vivo",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "coolapk-user-a959daff0c73",
-      "title": "JSCHEN小小狐：vivo X500 Pro Max 官宣搭载三星 HP0 潜望",
-      "source": "JSCHEN小小狐",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-08-26",
-      "time": "02:03",
-      "publishedAt": "2026-08-26T02:03:27.000Z",
-      "url": "https://www.coolapk.com/feed/73432570",
-      "image": "http://image.coolapk.com/feed/2026/0826/10/4702274_e0b92235_9787_1672_731@2494x3325.jpg",
-      "summary": "『vivo X500 Pro Max 官宣搭载三星 HP0 潜望』 蔡司 2 亿 APO 超级长焦 ◇ X300 Ultra 同款蓝图 × 三星 HP0 ◇ 200Mp 1/1.4''｜支持硬件 4× ISZ ◇ 支持 G2 Ultra 400mm 增距镜 ◇ 行业最强 CIPA 7.0 专业级防抖 ◇ 超级抓拍引擎：至高 30X 抓拍 #今日热点# #v…",
-      "tags": [
-        "Samsung",
         "爆料",
         "酷安博主"
       ]
