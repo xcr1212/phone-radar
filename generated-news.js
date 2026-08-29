@@ -1,20 +1,300 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-08-29T02:48:49.025Z",
+  "updatedAt": "2026-08-29T11:04:22.647Z",
   "news": [
     {
-      "id": "coolapk-user-a8b2b7893715",
-      "title": "竹本青：【小米18 Fold 全球首发长鑫LPDDR6内存，10667Mbps速率】 8月29日，长鑫存储与小米公司联合官…",
+      "id": "auto-ab6fc8571ce9",
+      "title": "The Pixel 11 Pro’s HiLight feature looks cool, but it’s missing 5 big features",
+      "source": "Android Authority",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-29",
+      "time": "11:00",
+      "publishedAt": "2026-08-29T11:00:53.000Z",
+      "url": "https://www.androidauthority.com/pixel-11-pro-hilight-missing-features-3701835/",
+      "image": "",
+      "summary": "The glow-up isn't finished yet.",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-6fe88451db10",
+      "title": "华为 HarmonyOS 开发套件 26.0.0 正式发布：API 版本号启用语义化版本格式，鸿蒙 7.0 用户占比 4.65%",
+      "source": "IT之家",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-29",
+      "time": "10:57",
+      "publishedAt": "2026-08-29T10:57:24.000Z",
+      "url": "https://www.ithome.com/0/996/013.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/8/e354e118-5335-424a-8556-f7c7182569e8.jpg?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 8 月 29 日消息，华为昨晚面向 Mate 80、Pura 80 等机型推送了 HarmonyOS 7.0.0.105 SP6 版本升级，系统包大小超 6GB（机型不同大小也有不同）。 本次更新优化了桌面显示、图库使用等场景下的使用体验。同时，更新后的 OpenHarmony 版本已经升级到最新的 7.0 Release 版本，API 版本 2…",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-30281a32da65",
+      "title": "Two Honor Magic 9 phones certified with 100W fast charging",
+      "source": "Huawei Central",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-29",
+      "time": "10:56",
+      "publishedAt": "2026-08-29T10:56:25.000Z",
+      "url": "https://www.huaweicentral.com/two-honor-magic-9-phones-certified-with-100w-fast-charging/",
+      "image": "https://www.huaweicentral.com/wp-content/uploads/2026/08/3C-certificate.jpg",
+      "summary": "Honor is accelerating the development of the Magic 9 series and has certified two new models in the lineup with 100W charging. A new leak reveals certification details and the num…",
+      "tags": [
+        "HONOR",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-aa21dcf655b4",
+      "title": "苹果 iPhone Ultra 折叠屏手机维修费用曝光：更换内屏费用或超 1 千美元",
+      "source": "IT之家",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-29",
+      "time": "10:48",
+      "publishedAt": "2026-08-29T10:48:54.000Z",
+      "url": "https://www.ithome.com/0/996/012.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/8/2454100f-6324-48e8-af32-ca02239307fe.jpg?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 8 月 29 日消息，据科技媒体 MacObserver 今天报道，苹果预计将在下个月推出其首款折叠屏手机 iPhone Ultra，起售价可能突破 2,000 美元 （IT之家注：现汇率约合 13,484 元人民币） 。 据报道，苹果这款折叠屏手机的内屏更换费用将非常昂贵。维修公司 Correct 创始人 Ricky Panesar 认为， 这…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-153e2d299853",
+      "title": "I need to stop using the Galaxy Z Fold 8, but I can’t",
+      "source": "Android Authority",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-29",
+      "time": "10:30",
+      "publishedAt": "2026-08-29T10:30:03.000Z",
+      "url": "https://www.androidauthority.com/cant-stop-using-galaxy-z-fold-8-3702806/",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2026/08/Samsung-Galaxy-Z-Fold-8-orange-flowers-scaled.jpg",
+      "summary": "It really is a hard phone to put down.",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-6e430c5abfdc",
+      "title": "竹本青：【长鑫存储起诉美国国防部，要求从“涉军企业”黑名单中移除】 据路透社报道，当地时间8月28日，中国芯片制造商长鑫存…",
+      "source": "竹本青",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-08-29",
+      "time": "10:23",
+      "publishedAt": "2026-08-29T10:23:02.000Z",
+      "url": "https://www.coolapk.com/feed/73490159",
+      "image": "http://image.coolapk.com/feed/2026/0829/18/4248714_d5fe28a9_8897_5034_291@1272x868.jpg",
+      "summary": "【长鑫存储起诉美国国防部，要求从“涉军企业”黑名单中移除】 据路透社报道，当地时间8月28日，中国芯片制造商长鑫存储（CXMT）向美国哥伦比亚特区联邦地区法院提起诉讼，指控美国防部将该公司列入所谓“涉军企业”名单的决定是“武断的”、缺乏证据支持，且违反正当程序。长鑫存储要求推翻该决定，并将其从所谓名单中移除。 长鑫存储表示，其设计的DRAM芯片用于民用和商…",
+      "tags": [
+        "行业",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "coolapk-user-42bc2227e9b2",
+      "title": "JSCHEN小小狐：终于抽出机会去看了一下 X View，得说屏幕面积比想象中震撼很多，皮薄馅大的感觉真好。 虽然在出境易里读相机信息…",
+      "source": "JSCHEN小小狐",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-08-29",
+      "time": "09:48",
+      "publishedAt": "2026-08-29T09:48:53.000Z",
+      "url": "https://www.coolapk.com/feed/73489680",
+      "image": "http://image.coolapk.com/feed/2026/0829/18/4702274_70b89f71_7900_2427_852-uhdr@2366x3503.jpg",
+      "summary": "终于抽出机会去看了一下 X View，得说屏幕面积比想象中震撼很多，皮薄馅大的感觉真好。 虽然在出境易里读相机信息不完全可靠，但结合硬件特征与规格支持情况，基本可以确定超广角就是 Mate70 Air 那颗 8Mp 1/4'' 16mm。另外前摄是那颗 50Mp 1/2.5'' f/2.4。这套影像硬件从各种意义上都更接近刀了超广角的 nova 16 Pr…",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-43703b12409d",
+      "title": "Vloggers will love this phone and rear screen add-on, but will anyone else?",
+      "source": "Android Authority",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-29",
+      "time": "09:45",
+      "publishedAt": "2026-08-29T09:45:04.000Z",
+      "url": "https://www.androidauthority.com/oppo-reno-16-pro-hands-on-3698232/",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2026/08/OPPO-Bubble-on-back-of-Reno-16-Pro-scaled-e1787058642485-500w-260h.jpg",
+      "summary": "The OPPO Reno 16 Pro is a solid Android phone with a quirky accessory, but the price tag is a stretch to get it all.",
+      "tags": [
+        "OPPO",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-6cd446d0a0d3",
+      "title": "Global Oppo Find X10 series launch timeline leaks",
+      "source": "Gizmochina",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-29",
+      "time": "09:32",
+      "publishedAt": "2026-08-29T09:32:52.000Z",
+      "url": "https://www.gizmochina.com/2026/08/29/global-oppo-find-x10-series-launch-timeline-leaks/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/08/Oppo-Find-X9-red-630x420-1-300x169.jpg?x23692",
+      "summary": "Oppo is reportedly planning to launch its next flagship series, the Find X10, in global markets by late October. According to industry insider Yogesh Brar (via SmartPrix), the lau…",
+      "tags": [
+        "OPPO",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-f337fbbc77af",
+      "title": "Honor Magic 9 series certification confirms 100W charging",
+      "source": "Gizmochina",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-29",
+      "time": "08:36",
+      "publishedAt": "2026-08-29T08:36:31.000Z",
+      "url": "https://www.gizmochina.com/2026/08/29/honor-magic-9-series-certification-confirms-100w-charging/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/08/Honor-Magic-9-camera-module-300x278.jpg?x23692",
+      "summary": "Honor is set to launch the Magic 9 series in September, and ahead of the big reveal, the phone has secured a new certification in China. According to tipster Digital Chat Station,…",
+      "tags": [
+        "HONOR",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "weibo-ac2c37d74e68",
+      "title": "数码闲聊站：确认了一下，iPhone 18 Pro系列、vivo X500系列、OPPO…",
+      "source": "数码闲聊站",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-08-29",
+      "time": "08:16",
+      "publishedAt": "2026-08-29T08:16:15.000Z",
+      "url": "https://weibo.com/6048569942/RfDX8sZee",
+      "image": "",
+      "summary": "确认了一下，iPhone 18 Pro系列、vivo X500系列、OPPO Find X10系列、华为Mate90系列、小米18 Pro系列、荣耀Magic9系列，这些直板旗舰都会在9月开售，你们能在国庆假期之前拿到新机[笑而不语]",
+      "tags": [
+        "HONOR",
+        "爆料",
+        "微博"
+      ]
+    },
+    {
+      "id": "auto-4c6a80816c79",
+      "title": "余承东展示华为 Mate XT 2 三折叠真机，9 月 7 日见",
+      "source": "IT之家",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-29",
+      "time": "06:44",
+      "publishedAt": "2026-08-29T06:44:37.000Z",
+      "url": "https://www.ithome.com/0/995/910.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/8/1a24815e-bce3-4fe2-b487-398876979398.jpg",
+      "summary": "IT之家 8 月 29 日消息，华为常务董事、产品投资评审委员会主任、终端 BG 董事长余承东今日展示了华为全新展翼三折叠 HUAWEI Mate XT 2 非凡大师真机，这款新机将于 9 月 7 日发布。 可以看到，新机的后置摄像头部分采用与前代近似的八边形模组设计，新机的折叠方式由前代的“Z”型折叠改为“G”型折叠。除此之外，这款新机还配置一块外屏，可…",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-1a19135b91bb",
+      "title": "Xiaomi 18 Fold confirmed to debut with CXMT’s LPDDR6 memory",
+      "source": "Gizmochina",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-29",
+      "time": "06:32",
+      "publishedAt": "2026-08-29T06:32:08.000Z",
+      "url": "https://www.gizmochina.com/2026/08/29/xiaomi-18-fold-confirmed-to-debut-with-cxmts-lpddr6-memory/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/08/Xiaomi-18-Fold-CXMT-LPDDR6-memory-300x276.jpg?x23692",
+      "summary": "Xiaomi confirmed today that the Xiaomi 18 Fold will be the world’s first phone to ship with CXMT’s new LPDDR6 memory. The foldable is set to launch in September alongside the new…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-f9730ac432ef",
+      "title": "竹本青：7月国内手机市场份额曝光：大盘下降约17%",
+      "source": "竹本青",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-08-29",
+      "time": "06:02",
+      "publishedAt": "2026-08-29T06:02:59.000Z",
+      "url": "https://www.coolapk.com/feed/73486494",
+      "image": "http://image.coolapk.com/feed/2026/0829/14/4248714_fdd7a3da_3378_8308_255@1440x1031.jpg",
+      "summary": "【7月国内手机市场份额曝光：华为、OPPO、vivo分列前三，大盘下降约17%】 ● 7月：大盘下降约17% 1.华为 —— 20.6% 2.OPPO —— 16.9%（含一加 3.4%，realme 0.7%） 3.vivo —— 16.2%（含iQOO 4.3%） 4.小米 —— 15.0% 5.苹果 —— 15.0% 6.荣耀 —— 12.3% ●…",
+      "tags": [
+        "HONOR",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "coolapk-user-e6d508d848e8",
+      "title": "竹本青：【央视财经评长鑫LPDDR6首搭小米18 Fold：从单点技术突破到产业链协同发力】 8月29日，长鑫存储宣布新一…",
       "source": "竹本青",
       "brand": "Xiaomi",
       "model": "Xiaomi 相关机型",
       "type": "爆料",
       "trust": "高可信爆料",
       "date": "2026-08-29",
-      "time": "02:00",
-      "publishedAt": "2026-08-29T02:00:36.000Z",
-      "url": "https://www.coolapk.com/feed/73483136",
-      "image": "http://image.coolapk.com/feed/2026/0829/10/4248714_0cf812f8_8835_4523_157@1440x1920.jpg",
-      "summary": "【小米18 Fold 全球首发长鑫LPDDR6内存，10667Mbps速率】 8月29日，长鑫存储与小米公司联合官宣：长鑫LPDDR6内存正式量产，小米18 Fold新折叠旗舰手机即将首发搭载，9月见。 昨日，长鑫科技在2026年半年度报告中披露，公司自主研发的LPDDR6芯片性能较上一代LPDDR5X实现全面跃升：通过架构创新及数据传输优化技术，充分释放…",
+      "time": "05:26",
+      "publishedAt": "2026-08-29T05:26:38.000Z",
+      "url": "https://www.coolapk.com/feed/73486022",
+      "image": "http://image.coolapk.com/feed/2026/0829/13/4248714_eff9431e_1197_4114_428@1440x1718.jpg",
+      "summary": "【央视财经评长鑫LPDDR6首搭小米18 Fold：从单点技术突破到产业链协同发力】 8月29日，长鑫存储宣布新一代LPDDR6内存正式量产，并首发搭载于小米18 Fold旗舰折叠屏手机。而就在本周，小米集团也宣布将在该机型上搭载其最新旗舰移动处理器玄戒O3。 小米将自主研发设计的移动处理器与国产新一代LPDDR6内存一同导入旗舰量产机型，敢于让国产核心器…",
       "tags": [
         "Xiaomi",
         "爆料",
@@ -22,21 +302,21 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-630b263c6950",
-      "title": "中国电信为西藏吉隆受灾地区免费提供天通手机直连卫星应急通信服务",
+      "id": "auto-03b63de73981",
+      "title": "华为 Mate XT 2 三折叠手机外观曝光：新增外屏，折叠方式改为“G”型",
       "source": "IT之家",
-      "brand": "行业",
-      "model": "智能手机市场",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
       "type": "爆料",
       "trust": "媒体汇总",
       "date": "2026-08-29",
-      "time": "01:42",
-      "publishedAt": "2026-08-29T01:42:10.000Z",
-      "url": "https://www.ithome.com/0/995/864.htm",
-      "image": "",
-      "summary": "IT之家 8 月 29 日消息，近日，因尼泊尔一侧发生泥石流灾害，造成西藏日喀则市吉隆县吉隆口岸重大人员伤亡、失联。 中国电信卫星公司宣布，为最大程度保障受灾群众与救援人员通信畅通、助力抢险救援提速增效，中国电信西藏公司面向受灾地区客户、一线救援人员， 免费提供天通手机直连卫星应急通信服务 。 此外，中国电信卫星公司 为灾区天通应急号码免费开通紧急复机服务…",
+      "time": "04:46",
+      "publishedAt": "2026-08-29T04:46:13.000Z",
+      "url": "https://www.ithome.com/0/995/898.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/8/2051809e-5a63-488c-ad32-0cc6cc0c26a1.png?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 8 月 29 日消息，博主 @Adak封狼居胥 今日分享了一段华为 Mate XT 2 三折叠手机的外观视频。根据视频内容，华为 Mate XT 2 三折叠手机 新增了一块外屏 ，并采用 前置“药丸”设计 。 新机的折叠方式也发生了变化，由前代的“Z”型折叠改为“G”型折叠。 新机的后置摄像头部分则采用与前代近似的八边形模组设计。 据IT之家此前…",
       "tags": [
-        "行业",
+        "Huawei",
         "爆料",
         "自动抓取"
       ]
@@ -57,26 +337,6 @@ window.phoneRadarAuto = {
       "summary": "『华为 Mate XT 2 现身：八边形模组 / 暗紫色』 ◇ “宝石质感” 八边形镜头模组 ◇ 暗紫色背板 + 编织纹理 ◇ 转轴印有非凡大师徽标 Mate XT 2 曝光参数： · 或搭载麒麟 9050 Pro 芯片 · 新一代 “U” 型方案三折铰链 · 10.2''± 屏幕｜硬件防窥方案 · 1/1.28'' 超大底主摄｜最高档动态范围 · 1/2…",
       "tags": [
         "Huawei",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
-      "id": "coolapk-user-19c890ca845f",
-      "title": "竹本青：【消息称荣耀 Magic9系列 三杯齐发：两款影像旗舰+带风扇的性能小杯】 8月29日，博主数码闲聊站爆料，荣耀M…",
-      "source": "竹本青",
-      "brand": "HONOR",
-      "model": "HONOR 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-08-29",
-      "time": "01:19",
-      "publishedAt": "2026-08-29T01:19:47.000Z",
-      "url": "https://www.coolapk.com/feed/73482614",
-      "image": "http://image.coolapk.com/feed/2026/0829/09/4248714_a1bd64f8_6385_9442_116@1271x948.jpg",
-      "summary": "【消息称荣耀 Magic9系列 三杯齐发：两款影像旗舰+带风扇的性能小杯】 8月29日，博主数码闲聊站爆料，荣耀Magic9系列两款新机疑似入网，内部代号Twinkle。“这次是三个杯，有个带风扇的版本，我管它叫小杯，定义偏性能旗舰，正代是影像旗舰，9月底一起发布。” 该博主此前爆料，荣耀Magic 9系列将全系搭载大R角2.5D直屏。 其中，大杯版本将搭…",
-      "tags": [
-        "HONOR",
         "爆料",
         "酷安博主"
       ]
@@ -202,6 +462,26 @@ window.phoneRadarAuto = {
       ]
     },
     {
+      "id": "newsnow-c9a0adbe4879",
+      "title": "华为Mate XT2 三折叠手机亮相：八边形Deco，G型内折",
+      "source": "酷安热榜",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-08-29",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/73485149",
+      "image": "",
+      "summary": "华为Mate XT2 三折叠手机亮相：八边形Deco，G型内折",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
       "id": "newsnow-093f0bf0ba82",
       "title": "曝手机行业成本倒挂：内存采购价反超旗舰SoC",
       "source": "酷安热榜",
@@ -217,6 +497,26 @@ window.phoneRadarAuto = {
       "summary": "曝手机行业成本倒挂：内存采购价反超旗舰SoC",
       "tags": [
         "行业",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-1737d1476886",
+      "title": "华为全新三折叠手机外观曝光",
+      "source": "百度热搜",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-29",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.baidu.com/s?wd=%E5%8D%8E%E4%B8%BA%E5%85%A8%E6%96%B0%E4%B8%89%E6%8A%98%E5%8F%A0%E6%89%8B%E6%9C%BA%E5%A4%96%E8%A7%82%E6%9B%9D%E5%85%89",
+      "image": "",
+      "summary": "华为全新三折叠手机外观曝光",
+      "tags": [
+        "Huawei",
         "爆料",
         "NewsNow"
       ]
@@ -239,26 +539,6 @@ window.phoneRadarAuto = {
         "行业",
         "爆料",
         "NewsNow"
-      ]
-    },
-    {
-      "id": "auto-00aa681d85c5",
-      "title": "谷歌为 Pixel 手机测试用户推送安卓 17 QPR2 Beta 4 版本",
-      "source": "IT之家",
-      "brand": "Pixel",
-      "model": "Pixel 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-28",
-      "time": "23:10",
-      "publishedAt": "2026-08-28T23:10:13.000Z",
-      "url": "https://www.ithome.com/0/995/831.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/8/25139a3d-a062-42bc-8245-bea69e942594.png",
-      "summary": "IT之家 8 月 29 日消息，谷歌现已为 Pixel 手机测试用户推送安卓 17 QPR2 Beta 4 版本，版本号根据设备不同分别为 CP41.260814.003.A2 和 CP41.260814.003.B1 。 值得注意的是，尽管 Pixel 11 系列上周已经正式上市，谷歌目前仍未向该系列提供 QPR2 测试版。此次 Beta 4 支持列表中…",
-      "tags": [
-        "Pixel",
-        "爆料",
-        "自动抓取"
       ]
     },
     {
@@ -482,26 +762,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-9ef5d99996e0",
-      "title": "华为鸿蒙 HarmonyOS 7.0.0.105 版本开推：优化桌面显示、图库等，覆盖 Mate 80、Pura 80 等机型",
-      "source": "IT之家",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-28",
-      "time": "15:37",
-      "publishedAt": "2026-08-28T15:37:50.000Z",
-      "url": "https://www.ithome.com/0/995/815.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/3/0226f36a-4825-4419-a039-2fa19352cea5.jpg?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 8 月 28 日消息，华为今日面向 Mate 80、Pura 80 等机型推送了 HarmonyOS 7.0.0.105 SP6 版本升级，系统包大小超 6GB（机型不同大小也有不同）。据介绍，本次更新优化了桌面显示、图库使用等场景下的使用体验。 ▲ IT之家开箱：华为 Mate 80 Pro Max 风驰版图赏 IT之家附华为鸿蒙 Harmon…",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-de746a90891a",
       "title": "iPhone 18 Pro Pre-Orders May Start at an Unusual Time",
       "source": "MacRumors",
@@ -582,26 +842,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "coolapk-user-cf95a89f2c0f",
-      "title": "竹本青：【荣耀手机「地震预警」服务暂时停止：第三方数据源异常偏差，今年Q4起推送新版】 8月28日资讯，日前，荣耀地震预警…",
-      "source": "竹本青",
-      "brand": "HONOR",
-      "model": "HONOR 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-08-28",
-      "time": "13:45",
-      "publishedAt": "2026-08-28T13:45:16.000Z",
-      "url": "https://www.coolapk.com/feed/73477164",
-      "image": "http://image.coolapk.com/feed/2026/0828/21/4248714_e201af8b_4715_9145_174@2136x1467.jpg",
-      "summary": "【荣耀手机「地震预警」服务暂时停止：第三方数据源异常偏差，今年Q4起推送新版】 8月28日资讯，日前，荣耀地震预警业务团队在官方俱乐部发布公告： 近日，由于合作的第三方地震数据源服务出现异常偏差，导致部分已开启地震预警功能的用户收到了不准确的预警提示，给您带来了困扰与不便，我们对此深表歉意。 用户的生命财产安全与使用体验始终是荣耀关注的首要事项。我们将对系…",
-      "tags": [
-        "HONOR",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
       "id": "auto-cc546051464f",
       "title": "iPhone 18 Pro pre-orders could kick off slightly later than usual",
       "source": "9to5Mac",
@@ -617,26 +857,6 @@ window.phoneRadarAuto = {
       "summary": "iPhone 18 Pro will be unveiled on September 9, and a new report says pre-orders for the device will kick off slightly later than usual.",
       "tags": [
         "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-f111a18a29fb",
-      "title": "My Pixel 11 will be better in 6 months, so I'm waiting to buy it then",
-      "source": "Android Police",
-      "brand": "Pixel",
-      "model": "Pixel 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-28",
-      "time": "13:30",
-      "publishedAt": "2026-08-28T13:30:10.000Z",
-      "url": "https://www.androidpolice.com/stopped-pre-ordering-pixels/",
-      "image": "",
-      "summary": "Google's habit of shipping features late taught me to buy late",
-      "tags": [
-        "Pixel",
         "爆料",
         "自动抓取"
       ]
@@ -822,26 +1042,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-38d53ddbadd8",
-      "title": "Huawei Pura X View image leak confirms chipset details",
-      "source": "Huawei Central",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-28",
-      "time": "05:44",
-      "publishedAt": "2026-08-28T05:44:29.000Z",
-      "url": "https://www.huaweicentral.com/huawei-pura-x-view-image-leak-confirms-chipset-details/",
-      "image": "https://www.huaweicentral.com/wp-content/uploads/2026/08/Pura-X-View-chipset.jpg",
-      "summary": "Huawei Pura X View has reached offline stores, and now we have exact details about the device’s chipset. A Weibo tipster has shared the mobile information page screenshot, confirm…",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "weibo-d28da2872cac",
       "title": "数码闲聊站：咳咳，接着官方的爆料，我这边独家确定： Find X10 Pro Max——全…",
       "source": "数码闲聊站",
@@ -939,6 +1139,26 @@ window.phoneRadarAuto = {
         "行业",
         "爆料",
         "微博"
+      ]
+    },
+    {
+      "id": "coolapk-user-c7cfacc271f8",
+      "title": "JSCHEN小小狐：第二批评测已经解禁了，整理一下新增信息： 三围：143.17 × 85.76 × 6.68mm ◇ 麒麟 9030…",
+      "source": "JSCHEN小小狐",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-08-28",
+      "time": "01:57",
+      "publishedAt": "2026-08-28T01:57:58.000Z",
+      "url": "https://www.coolapk.com/feed/73466530",
+      "image": "http://image.coolapk.com/feed/2026/0828/09/4702274_bcac21c4_2274_8311_673@3121x1440.jpg",
+      "summary": "第二批评测已经解禁了，整理一下新增信息： 三围：143.17 × 85.76 × 6.68mm ◇ 麒麟 9030S 5G SoC ◇ 66W 有线 + 50W 无线 超聚光主摄｜200Mp 1/1.28'' f/1.8 RYYB 超聚光长焦｜50Mp 1/2.5'' f/2.6 RYYB 3.7X 超广角微距｜8Mp 1/4'' f/2.2 112° 2…",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "酷安博主"
       ]
     },
     {
