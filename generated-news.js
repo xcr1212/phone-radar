@@ -1,6 +1,106 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-08-29T11:04:22.647Z",
+  "updatedAt": "2026-08-29T16:42:34.266Z",
   "news": [
+    {
+      "id": "auto-702fb970c655",
+      "title": "Best OnePlus Phones of 2026",
+      "source": "Gizmochina",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-29",
+      "time": "16:39",
+      "publishedAt": "2026-08-29T16:39:25.000Z",
+      "url": "https://www.gizmochina.com/2026/08/29/best-oneplus-phones/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/04/OnePlus-15T-Review_1.mp4_20260402_142241.000-300x150.jpg?x23692",
+      "summary": "We’d normally start a roundup like this by talking about which OnePlus phone has the fastest chipset or the biggest battery. This year, though, the more important story is outside…",
+      "tags": [
+        "OPPO",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-b70c3987402b",
+      "title": "印度消费电子品牌 Mivi 跨界进军手机市场，首款产品 9 月发布",
+      "source": "IT之家",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-29",
+      "time": "15:02",
+      "publishedAt": "2026-08-29T15:02:07.000Z",
+      "url": "https://www.ithome.com/0/996/049.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/8/6a51c3c5-69f3-4739-b655-48918d82f68d.jpg?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 8 月 29 日消息，印度知名消费电子品牌 Mivi 近日官宣跨界进军智能手机市场，首款产品 9 月发布。 Mivi 官方在 X 平台透露， 公司将于 9 月在印度推出一款 5G 手机 。从官方发布的预热图片来看，这款手机采用绿色配色，背部为平面设计，边框采用平直造型，搭载骁龙芯片。 据科技媒体 91Mobiles 报道，这款智能手机的售价将低于…",
+      "tags": [
+        "行业",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-0f4d3d2bcc92",
+      "title": "竹本青：蓝狐Aura A1小屏手机开售：首发1399元起",
+      "source": "竹本青",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-08-29",
+      "time": "13:36",
+      "publishedAt": "2026-08-29T13:36:06.000Z",
+      "url": "https://www.coolapk.com/feed/73493065",
+      "image": "http://image.coolapk.com/feed/2026/0829/21/4248714_217e6b62_0563_9203_452@2160x3840.jpg",
+      "summary": "【蓝狐Aura A1 手机今日开售：联发科G100处理器，4.7英寸LCD屏，首发1399元起】 8GB+128GB —— 1399元 12GB+256GB —— 1699元 核心： ● 4.7英寸90Hz LCD屏 ● 联发科 G100处理器 ● LPDDR4X+UFS2.2 ● 3550mAh+18W快充 ● 120.4*57*12.6mm/约150g…",
+      "tags": [
+        "行业",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-68dba0110215",
+      "title": "Honor Magic 9 series to feature three models, including Fan Edition",
+      "source": "Huawei Central",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-29",
+      "time": "12:20",
+      "publishedAt": "2026-08-29T12:20:29.000Z",
+      "url": "https://www.huaweicentral.com/honor-magic-9-fan-edition/",
+      "image": "https://www.huaweicentral.com/wp-content/uploads/2026/08/Magic-9-camera.jpg",
+      "summary": "Honor Magic 9 series is scheduled to launch in late September, and looks like there won’t be two but three main models, including a Fan Edition. The OEM will probably adopt a new…",
+      "tags": [
+        "HONOR",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-054d04c46f9c",
+      "title": "The Pixel 11 Pro Fold is a solid upgrade, but after testing it against other foldables, I wish Google had gone a bit further",
+      "source": "Android Central",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-08-29",
+      "time": "12:05",
+      "publishedAt": "2026-08-29T12:05:00.000Z",
+      "url": "https://www.androidcentral.com/phones/google-pixel/google-pixel-11-pro-fold-review",
+      "image": "https://cdn.mos.cms.futurecdn.net/NEgbRW2KGhaD62jFsXWqRU-1280-80.jpg",
+      "summary": "The Google Pixel 11 Pro Fold makes some notable improvements year-over-year, but some of the biggest Pixel problems still plague this release.",
+      "tags": [
+        "Pixel",
+        "评测",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-ab6fc8571ce9",
       "title": "The Pixel 11 Pro’s HiLight feature looks cool, but it’s missing 5 big features",
@@ -133,7 +233,7 @@ window.phoneRadarAuto = {
       "time": "09:48",
       "publishedAt": "2026-08-29T09:48:53.000Z",
       "url": "https://www.coolapk.com/feed/73489680",
-      "image": "http://image.coolapk.com/feed/2026/0829/18/4702274_70b89f71_7900_2427_852-uhdr@2366x3503.jpg",
+      "image": "http://image.coolapk.com/feed/2026/0829/20/4702274_3087aff6_7614_8973_442-uhdr@2366x3503.jpg",
       "summary": "终于抽出机会去看了一下 X View，得说屏幕面积比想象中震撼很多，皮薄馅大的感觉真好。 虽然在出境易里读相机信息不完全可靠，但结合硬件特征与规格支持情况，基本可以确定超广角就是 Mate70 Air 那颗 8Mp 1/4'' 16mm。另外前摄是那颗 50Mp 1/2.5'' f/2.4。这套影像硬件从各种意义上都更接近刀了超广角的 nova 16 Pr…",
       "tags": [
         "Huawei",
@@ -222,26 +322,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-4c6a80816c79",
-      "title": "余承东展示华为 Mate XT 2 三折叠真机，9 月 7 日见",
-      "source": "IT之家",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-29",
-      "time": "06:44",
-      "publishedAt": "2026-08-29T06:44:37.000Z",
-      "url": "https://www.ithome.com/0/995/910.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/8/1a24815e-bce3-4fe2-b487-398876979398.jpg",
-      "summary": "IT之家 8 月 29 日消息，华为常务董事、产品投资评审委员会主任、终端 BG 董事长余承东今日展示了华为全新展翼三折叠 HUAWEI Mate XT 2 非凡大师真机，这款新机将于 9 月 7 日发布。 可以看到，新机的后置摄像头部分采用与前代近似的八边形模组设计，新机的折叠方式由前代的“Z”型折叠改为“G”型折叠。除此之外，这款新机还配置一块外屏，可…",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-1a19135b91bb",
       "title": "Xiaomi 18 Fold confirmed to debut with CXMT’s LPDDR6 memory",
       "source": "Gizmochina",
@@ -299,26 +379,6 @@ window.phoneRadarAuto = {
         "Xiaomi",
         "爆料",
         "酷安博主"
-      ]
-    },
-    {
-      "id": "auto-03b63de73981",
-      "title": "华为 Mate XT 2 三折叠手机外观曝光：新增外屏，折叠方式改为“G”型",
-      "source": "IT之家",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-29",
-      "time": "04:46",
-      "publishedAt": "2026-08-29T04:46:13.000Z",
-      "url": "https://www.ithome.com/0/995/898.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/8/2051809e-5a63-488c-ad32-0cc6cc0c26a1.png?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 8 月 29 日消息，博主 @Adak封狼居胥 今日分享了一段华为 Mate XT 2 三折叠手机的外观视频。根据视频内容，华为 Mate XT 2 三折叠手机 新增了一块外屏 ，并采用 前置“药丸”设计 。 新机的折叠方式也发生了变化，由前代的“Z”型折叠改为“G”型折叠。 新机的后置摄像头部分则采用与前代近似的八边形模组设计。 据IT之家此前…",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "自动抓取"
       ]
     },
     {
@@ -442,26 +502,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-5e51ec539617",
-      "title": "2026第34周国内手机市场份额：华为连续10周榜首",
-      "source": "酷安热榜",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-08-29",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73472674",
-      "image": "",
-      "summary": "2026第34周国内手机市场份额：华为连续10周榜首",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
       "id": "newsnow-c9a0adbe4879",
       "title": "华为Mate XT2 三折叠手机亮相：八边形Deco，G型内折",
       "source": "酷安热榜",
@@ -475,6 +515,26 @@ window.phoneRadarAuto = {
       "url": "https://www.coolapk.com/feed/73485149",
       "image": "",
       "summary": "华为Mate XT2 三折叠手机亮相：八边形Deco，G型内折",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-5e51ec539617",
+      "title": "2026第34周国内手机市场份额：华为连续10周榜首",
+      "source": "酷安热榜",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-08-29",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/73472674",
+      "image": "",
+      "summary": "2026第34周国内手机市场份额：华为连续10周榜首",
       "tags": [
         "Huawei",
         "爆料",
@@ -502,9 +562,9 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-1737d1476886",
-      "title": "华为全新三折叠手机外观曝光",
-      "source": "百度热搜",
+      "id": "newsnow-f67dba636a60",
+      "title": "华为苹果折叠屏9月对决",
+      "source": "今日头条热榜",
       "brand": "Huawei",
       "model": "Huawei 相关机型",
       "type": "爆料",
@@ -512,11 +572,31 @@ window.phoneRadarAuto = {
       "date": "2026-08-29",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.baidu.com/s?wd=%E5%8D%8E%E4%B8%BA%E5%85%A8%E6%96%B0%E4%B8%89%E6%8A%98%E5%8F%A0%E6%89%8B%E6%9C%BA%E5%A4%96%E8%A7%82%E6%9B%9D%E5%85%89",
+      "url": "https://www.toutiao.com/trending/7678561965215842330/",
       "image": "",
-      "summary": "华为全新三折叠手机外观曝光",
+      "summary": "华为苹果折叠屏9月对决",
       "tags": [
         "Huawei",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-11dc59198a21",
+      "title": "多地立法禁止学生带手机入校",
+      "source": "百度热搜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-29",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.baidu.com/s?wd=%E5%A4%9A%E5%9C%B0%E7%AB%8B%E6%B3%95%E7%A6%81%E6%AD%A2%E5%AD%A6%E7%94%9F%E5%B8%A6%E6%89%8B%E6%9C%BA%E5%85%A5%E6%A0%A1",
+      "image": "",
+      "summary": "多地立法禁止学生带手机入校",
+      "tags": [
+        "行业",
         "爆料",
         "NewsNow"
       ]
@@ -762,6 +842,26 @@ window.phoneRadarAuto = {
       ]
     },
     {
+      "id": "auto-4203fe95a92c",
+      "title": "The Galaxy Z Flip 8 is at its best when there’s friction",
+      "source": "The Verge",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-28",
+      "time": "15:26",
+      "publishedAt": "2026-08-28T15:26:51.000Z",
+      "url": "https://www.theverge.com/tech/986033/samsung-galaxy-z-flip-8-review",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/samsung-galaxy-z-flip-8-review-13.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "summary": "What do you want from a flip phone when it's closed? A simple interface, perhaps notifications and a widget or two, for handling the basics? Or a fully fledged Android experience…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
       "id": "auto-de746a90891a",
       "title": "iPhone 18 Pro Pre-Orders May Start at an Unusual Time",
       "source": "MacRumors",
@@ -995,26 +1095,6 @@ window.phoneRadarAuto = {
       "url": "https://www.androidauthority.com/samsung-doesnt-care-about-galaxy-s27-3703793/",
       "image": "https://www.androidauthority.com/wp-content/uploads/2026/02/Samsung-Galaxy-S26-rear-cameras.jpg",
       "summary": "I hate the leaked Galaxy S27 design, but Samsung knows exactly what it's doing.",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-e351ab8761da",
-      "title": "Samsung updates Galaxy S24 FE with August 2026 security patch",
-      "source": "SamMobile",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-28",
-      "time": "08:52",
-      "publishedAt": "2026-08-28T08:52:21.000Z",
-      "url": "https://www.sammobile.com/news/samsung-updates-galaxy-s24-fe-with-august-2026-security-patch/",
-      "image": "",
-      "summary": "Yesterday, Samsung released software updates for the three core devices in the Galaxy S24 series, the regular, plus, and Ultra models. They brought the August 2026 security patch.…",
       "tags": [
         "Samsung",
         "爆料",
