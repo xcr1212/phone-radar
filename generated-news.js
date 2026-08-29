@@ -1,6 +1,26 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-08-29T16:42:34.266Z",
+  "updatedAt": "2026-08-29T20:54:51.061Z",
   "news": [
+    {
+      "id": "auto-47ee4dbafb0a",
+      "title": "I finally cloned apps on my Pixel 11 Pro Fold using a hidden privacy setting",
+      "source": "Android Police",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-29",
+      "time": "20:00",
+      "publishedAt": "2026-08-29T20:00:10.000Z",
+      "url": "https://www.androidpolice.com/cloned-apps-on-pixel-11-pro-fold-using-hidden-privacy-setting/",
+      "image": "",
+      "summary": "Unfolding the multitasking restraints",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-702fb970c655",
       "title": "Best OnePlus Phones of 2026",
@@ -37,46 +57,6 @@ window.phoneRadarAuto = {
       "summary": "IT之家 8 月 29 日消息，印度知名消费电子品牌 Mivi 近日官宣跨界进军智能手机市场，首款产品 9 月发布。 Mivi 官方在 X 平台透露， 公司将于 9 月在印度推出一款 5G 手机 。从官方发布的预热图片来看，这款手机采用绿色配色，背部为平面设计，边框采用平直造型，搭载骁龙芯片。 据科技媒体 91Mobiles 报道，这款智能手机的售价将低于…",
       "tags": [
         "行业",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "coolapk-user-0f4d3d2bcc92",
-      "title": "竹本青：蓝狐Aura A1小屏手机开售：首发1399元起",
-      "source": "竹本青",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-08-29",
-      "time": "13:36",
-      "publishedAt": "2026-08-29T13:36:06.000Z",
-      "url": "https://www.coolapk.com/feed/73493065",
-      "image": "http://image.coolapk.com/feed/2026/0829/21/4248714_217e6b62_0563_9203_452@2160x3840.jpg",
-      "summary": "【蓝狐Aura A1 手机今日开售：联发科G100处理器，4.7英寸LCD屏，首发1399元起】 8GB+128GB —— 1399元 12GB+256GB —— 1699元 核心： ● 4.7英寸90Hz LCD屏 ● 联发科 G100处理器 ● LPDDR4X+UFS2.2 ● 3550mAh+18W快充 ● 120.4*57*12.6mm/约150g…",
-      "tags": [
-        "行业",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
-      "id": "auto-68dba0110215",
-      "title": "Honor Magic 9 series to feature three models, including Fan Edition",
-      "source": "Huawei Central",
-      "brand": "HONOR",
-      "model": "HONOR 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-29",
-      "time": "12:20",
-      "publishedAt": "2026-08-29T12:20:29.000Z",
-      "url": "https://www.huaweicentral.com/honor-magic-9-fan-edition/",
-      "image": "https://www.huaweicentral.com/wp-content/uploads/2026/08/Magic-9-camera.jpg",
-      "summary": "Honor Magic 9 series is scheduled to launch in late September, and looks like there won’t be two but three main models, including a Fan Edition. The OEM will probably adopt a new…",
-      "tags": [
-        "HONOR",
         "爆料",
         "自动抓取"
       ]
@@ -137,26 +117,6 @@ window.phoneRadarAuto = {
       "summary": "IT之家 8 月 29 日消息，华为昨晚面向 Mate 80、Pura 80 等机型推送了 HarmonyOS 7.0.0.105 SP6 版本升级，系统包大小超 6GB（机型不同大小也有不同）。 本次更新优化了桌面显示、图库使用等场景下的使用体验。同时，更新后的 OpenHarmony 版本已经升级到最新的 7.0 Release 版本，API 版本 2…",
       "tags": [
         "Huawei",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-30281a32da65",
-      "title": "Two Honor Magic 9 phones certified with 100W fast charging",
-      "source": "Huawei Central",
-      "brand": "HONOR",
-      "model": "HONOR 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-29",
-      "time": "10:56",
-      "publishedAt": "2026-08-29T10:56:25.000Z",
-      "url": "https://www.huaweicentral.com/two-honor-magic-9-phones-certified-with-100w-fast-charging/",
-      "image": "https://www.huaweicentral.com/wp-content/uploads/2026/08/3C-certificate.jpg",
-      "summary": "Honor is accelerating the development of the Magic 9 series and has certified two new models in the lineup with 100W charging. A new leak reveals certification details and the num…",
-      "tags": [
-        "HONOR",
         "爆料",
         "自动抓取"
       ]
@@ -462,6 +422,26 @@ window.phoneRadarAuto = {
       ]
     },
     {
+      "id": "newsnow-94d56922b01b",
+      "title": "紧急消息！SB NC华为给全新的PuraX view加了全局性能模式[发怒][发怒][发怒][发怒]",
+      "source": "酷安热榜",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-08-29",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/73495548",
+      "image": "",
+      "summary": "紧急消息！SB NC华为给全新的PuraX view加了全局性能模式[发怒][发怒][发怒][发怒]",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
       "id": "newsnow-a209beb4cab4",
       "title": "性价比和质量真的不挂钩？手机放兜里，一台K80U一台iPhone13p，回家路上淋雨了，淋了几分钟，到家k80u直接花屏，后面直接不开机了，拿去售后工程师说没有维修价值，不原意开拒保说明，直接取消了我的售后申请，连维修报价都没给开，还问我要不要以旧换新换K90零至尊版！真离谱，这台手机才买两个月！三年前买的iPhone13p淋雨还好好的，真怀疑这台手机根本没有防水设计，大家使用的时候要谨慎啊",
       "source": "酷安热榜",
@@ -482,8 +462,8 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-784a56936832",
-      "title": "我的手还挺大的，所以我感觉宽度我能接受，我不算很讨厌这个产品，但是扬声器确实挺一般的。我挺不理解，影音娱乐属性这么强的手机，外放居然没做好",
+      "id": "newsnow-2cc8ed7ba613",
+      "title": "蓝狐Aura A1小屏手机开售：首发1399元起",
       "source": "酷安热榜",
       "brand": "行业",
       "model": "智能手机市场",
@@ -492,9 +472,9 @@ window.phoneRadarAuto = {
       "date": "2026-08-29",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73478441",
+      "url": "https://www.coolapk.com/feed/73493065",
       "image": "",
-      "summary": "我的手还挺大的，所以我感觉宽度我能接受，我不算很讨厌这个产品，但是扬声器确实挺一般的。我挺不理解，影音娱乐属性这么强的手机，外放居然没做好",
+      "summary": "蓝狐Aura A1小屏手机开售：首发1399元起",
       "tags": [
         "行业",
         "爆料",
@@ -522,8 +502,8 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-5e51ec539617",
-      "title": "2026第34周国内手机市场份额：华为连续10周榜首",
+      "id": "newsnow-c0ada3a2c9bd",
+      "title": "额，这话说得有点扯淡了，华为的折叠屏在国内是现象级的领先[受虐滑稽]",
       "source": "酷安热榜",
       "brand": "Huawei",
       "model": "Huawei 相关机型",
@@ -532,31 +512,11 @@ window.phoneRadarAuto = {
       "date": "2026-08-29",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73472674",
+      "url": "https://www.coolapk.com/feed/73473541",
       "image": "",
-      "summary": "2026第34周国内手机市场份额：华为连续10周榜首",
+      "summary": "额，这话说得有点扯淡了，华为的折叠屏在国内是现象级的领先[受虐滑稽]",
       "tags": [
         "Huawei",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-093f0bf0ba82",
-      "title": "曝手机行业成本倒挂：内存采购价反超旗舰SoC",
-      "source": "酷安热榜",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-08-29",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73467709",
-      "image": "",
-      "summary": "曝手机行业成本倒挂：内存采购价反超旗舰SoC",
-      "tags": [
-        "行业",
         "爆料",
         "NewsNow"
       ]
@@ -577,6 +537,26 @@ window.phoneRadarAuto = {
       "summary": "华为苹果折叠屏9月对决",
       "tags": [
         "Huawei",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-79dbabe962ea",
+      "title": "蔡依林晚上7点关手机9点半睡觉",
+      "source": "百度热搜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-29",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.baidu.com/s?wd=%E8%94%A1%E4%BE%9D%E6%9E%97%E6%99%9A%E4%B8%8A7%E7%82%B9%E5%85%B3%E6%89%8B%E6%9C%BA9%E7%82%B9%E5%8D%8A%E7%9D%A1%E8%A7%89",
+      "image": "",
+      "summary": "蔡依林晚上7点关手机9点半睡觉",
+      "tags": [
+        "行业",
         "爆料",
         "NewsNow"
       ]
@@ -697,26 +677,6 @@ window.phoneRadarAuto = {
       "summary": "Counterpoint Research has published a report on the best-selling smartphones globally in Q2 2026. According to it, Samsung’s latest flagship non-foldable smartphone, the Galaxy S2…",
       "tags": [
         "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-bb7952cf3ccb",
-      "title": "The iPhone Fold could make concerts even worse",
-      "source": "The Verge",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-28",
-      "time": "17:03",
-      "publishedAt": "2026-08-28T17:03:26.000Z",
-      "url": "https://www.theverge.com/podcast/986145/m6-mac-mini-meta-settlement-gta-6-vergecast",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/VRG_VST_0828_Site.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "summary": "You know the person blocking your view of the concert because their phone is swaying in the air, recording the entire thing? Get ready for the unfolded version of it. This week on…",
-      "tags": [
-        "iPhone",
         "爆料",
         "自动抓取"
       ]
