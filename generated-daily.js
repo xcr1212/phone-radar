@@ -1,12 +1,12 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-08-30T00:18:57.660Z",
+  "updatedAt": "2026-08-30T08:17:53.974Z",
   "issueDate": "2026-08-30",
   "issue": "VOL.260830",
   "title": "手机情报日报",
-  "intro": "今日筛出 18 条重点，其中 8 条是重点爆料，包含 5 条 iPhone 相关、1 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 14 条重点，其中 8 条是重点爆料，包含 2 条 iPhone 相关、1 条官方确认、0 条参数线索。",
   "stats": {
-    "total": 18,
-    "iphone": 5,
+    "total": 14,
+    "iphone": 2,
     "leaks": 8,
     "official": 1,
     "specs": 0
@@ -18,96 +18,21 @@ window.phoneRadarDaily = {
       "hint": "机模、配色、影像、屏幕、电池和芯片线索先看。",
       "items": [
         {
-          "id": "auto-aa21dcf655b4",
-          "title": "苹果 iPhone Ultra 折叠屏手机维修费用曝光：更换内屏费用或超 1 千美元",
-          "originalTitle": "",
-          "source": "IT之家",
-          "brand": "iPhone",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-08-29",
-          "time": "10:48",
-          "publishedAt": "2026-08-29T10:48:54.000Z",
-          "url": "https://www.ithome.com/0/996/012.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/8/2454100f-6324-48e8-af32-ca02239307fe.jpg?x-bce-process=image/format,f_auto",
-          "verdict": "先看",
-          "takeaway": "IT之家 8 月 29 日消息，据科技媒体 MacObserver 今天报道，苹果预计将在下个月推出其首款折叠屏手机 iPhone Ultra，起售价可能突破 2,000 美元 （IT之家注：现汇率约合 13,484 元人民币） 。 据报道，苹果这款折叠屏手机的内屏更换费用将非常昂贵。维修公司 Correct 创始人 Ricky Panesar 认为， 这…",
-          "detail": "IT之家 8 月 29 日消息，据科技媒体 MacObserver 今天报道，苹果预计将在下个月推出其首款折叠屏手机 iPhone Ultra，起售价可能突破 2,000 美元 （IT之家注：现汇率约合 13,484 元人民币） 。 据报道，苹果这款折叠屏手机的内屏更换费用将非常昂贵。维修公司 Correct 创始人 Ricky Panesar 认为， 这…",
-          "keyPoints": [
-            "屏幕形态",
-            "成本 / 价格"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "auto-b70c3987402b",
-          "title": "印度消费电子品牌 Mivi 跨界进军手机市场，首款产品 9 月发布",
-          "originalTitle": "",
-          "source": "IT之家",
-          "brand": "行业",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-08-29",
-          "time": "15:02",
-          "publishedAt": "2026-08-29T15:02:07.000Z",
-          "url": "https://www.ithome.com/0/996/049.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/8/6a51c3c5-69f3-4739-b655-48918d82f68d.jpg?x-bce-process=image/format,f_auto",
-          "verdict": "先看",
-          "takeaway": "IT之家 8 月 29 日消息，印度知名消费电子品牌 Mivi 近日官宣跨界进军智能手机市场，首款产品 9 月发布。 Mivi 官方在 X 平台透露， 公司将于 9 月在印度推出一款 5G 手机 。从官方发布的预热图片来看，这款手机采用绿色配色，背部为平面设计，边框采用平直造型，搭载骁龙芯片。 据科技媒体 91Mobiles 报道，这款智能手机的售价将低于…",
-          "detail": "IT之家 8 月 29 日消息，印度知名消费电子品牌 Mivi 近日官宣跨界进军智能手机市场，首款产品 9 月发布。 Mivi 官方在 X 平台透露， 公司将于 9 月在印度推出一款 5G 手机 。从官方发布的预热图片来看，这款手机采用绿色配色，背部为平面设计，边框采用平直造型，搭载骁龙芯片。 据科技媒体 91Mobiles 报道，这款智能手机的售价将低于…",
-          "keyPoints": [
-            "外观 / 配色 / 尺寸",
-            "芯片 / 性能",
-            "成本 / 价格"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "auto-62c1a4d082b2",
-          "title": "消息称小米 18 Fold 折叠屏手机搭载 6000mAh 电池，支持 67W 快充",
-          "originalTitle": "",
-          "source": "IT之家",
-          "brand": "Xiaomi",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-08-30",
-          "time": "00:13",
-          "publishedAt": "2026-08-30T00:13:16.000Z",
-          "url": "https://www.ithome.com/0/996/066.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/8/950d801f-7a29-4bcf-b827-4a4b6bb607dd.png",
-          "verdict": "先看",
-          "takeaway": "IT之家 8 月 30 日消息，博主 @熊猫很禿然 近日爆料，小米 18 Fold 折叠屏手机搭载 6000mAh 电，支持 67W 有线快充 +50W 无线快充，屏幕为 7.6 英寸左右。 IT之家注意到，在 8 月 24 日举行的小米玄戒芯片技术沟通会上，小米正式发布了玄戒 O3 芯片，同时宣布小米 18 Fold 折叠屏手机将首发玄戒 O3 芯片，…",
-          "detail": "IT之家 8 月 30 日消息，博主 @熊猫很禿然 近日爆料，小米 18 Fold 折叠屏手机搭载 6000mAh 电，支持 67W 有线快充 +50W 无线快充，屏幕为 7.6 英寸左右。 IT之家注意到，在 8 月 24 日举行的小米玄戒芯片技术沟通会上，小米正式发布了玄戒 O3 芯片，同时宣布小米 18 Fold 折叠屏手机将首发玄戒 O3 芯片，…",
-          "keyPoints": [
-            "屏幕形态",
-            "电池 / 充电",
-            "芯片 / 性能",
-            "爆料来源"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "auto-ece015037752",
-          "title": "提前布局“G”型内折方案，华为 Mate XT 2 三折叠手机 11 年前早期手稿曝光",
+          "id": "auto-c208ee6ab8da",
+          "title": "华为李小龙“认领”古早三折叠手机设计草稿：花了 11 年把梦想照进现实",
           "originalTitle": "",
           "source": "IT之家",
           "brand": "Huawei",
           "type": "爆料",
           "trust": "媒体汇总",
-          "date": "2026-08-29",
-          "time": "23:41",
-          "publishedAt": "2026-08-29T23:41:51.000Z",
-          "url": "https://www.ithome.com/0/996/061.htm",
+          "date": "2026-08-30",
+          "time": "04:14",
+          "publishedAt": "2026-08-30T04:14:41.000Z",
+          "url": "https://www.ithome.com/0/996/109.htm",
           "image": "https://img.ithome.com/newsuploadfiles/2026/8/2d654983-312a-4c3b-a3f5-fc0685685b7d.jpg?x-bce-process=image/format,f_auto",
           "verdict": "先看",
-          "takeaway": "IT之家 8 月 30 日消息，博主 @Welber 昨日分享了华为 Mate XT 2 三折叠手机 11 年前的早期手稿。 博主分享的图片显示， 这张手稿由华为终端 BG CTO 李小龙于 2015 年 7 月 25 日绘制，展示了华为三折叠的两种方案 ：一种是此前 Mate XT 和 Mate XTs 采用的“Z”型方案；一种是已曝光的 Mate XT…",
-          "detail": "IT之家 8 月 30 日消息，博主 @Welber 昨日分享了华为 Mate XT 2 三折叠手机 11 年前的早期手稿。 博主分享的图片显示， 这张手稿由华为终端 BG CTO 李小龙于 2015 年 7 月 25 日绘制，展示了华为三折叠的两种方案 ：一种是此前 Mate XT 和 Mate XTs 采用的“Z”型方案；一种是已曝光的 Mate XT…",
+          "takeaway": "IT之家 8 月 30 日消息，博主 @Welber 昨日分享了华为 Mate XT 2 三折叠手机 11 年前的早期手稿。 IT之家注意到，华为终端 BG CTO 李小龙刚刚“认领”了这张古早三折叠手机设计草稿，称：“ 花了 11 年把梦想照进现实。 ” 博主分享的图片显示，这张手稿由华为终端 BG CTO 李小龙于 2015 年 7 月 25 日绘制，…",
+          "detail": "IT之家 8 月 30 日消息，博主 @Welber 昨日分享了华为 Mate XT 2 三折叠手机 11 年前的早期手稿。 IT之家注意到，华为终端 BG CTO 李小龙刚刚“认领”了这张古早三折叠手机设计草稿，称：“ 花了 11 年把梦想照进现实。 ” 博主分享的图片显示，这张手稿由华为终端 BG CTO 李小龙于 2015 年 7 月 25 日绘制，…",
           "keyPoints": [
             "爆料"
           ],
@@ -116,23 +41,142 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
-          "id": "auto-1062b032db06",
-          "title": "消息称 Pura X View 阔直板手机将首发华为分享远程发送功能，当前没有文件大小 / 网速限制",
+          "id": "auto-e1ad08ae5a6a",
+          "title": "何刚谈华为 Mate XT 2 非凡大师全新展翼三折叠手机：极致美学、工艺与创新的集大成者",
           "originalTitle": "",
           "source": "IT之家",
           "brand": "Huawei",
           "type": "爆料",
           "trust": "媒体汇总",
-          "date": "2026-08-29",
-          "time": "23:05",
-          "publishedAt": "2026-08-29T23:05:15.000Z",
-          "url": "https://www.ithome.com/0/996/056.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/8/35ad031d-b7e9-4957-ab34-d1eba58fc82e.png?x-bce-process=image/format,f_auto",
+          "date": "2026-08-30",
+          "time": "03:24",
+          "publishedAt": "2026-08-30T03:24:35.000Z",
+          "url": "https://www.ithome.com/0/996/101.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/8/ab4c63e6-5340-4e3a-abcf-052b4e8ca0cf.jpg",
           "verdict": "先看",
-          "takeaway": "IT之家 8 月 30 日消息，据博主 @Adak封狼居胥 透露， 华为 Pura X View 阔直板手机将首发华为分享远程发送功能 。 基于华为 PUSH 能力 ，华为分享告别近场限制，可以远程分享给不在身边的联系人，无论是图片、视频、文档还是压缩包等等，近场华为分享可以传输的远程分享也都可以，并且相较于微信、QQ， 华为分享远程发送功能当前没有任何文…",
-          "detail": "IT之家 8 月 30 日消息，据博主 @Adak封狼居胥 透露， 华为 Pura X View 阔直板手机将首发华为分享远程发送功能 。 基于华为 PUSH 能力 ，华为分享告别近场限制，可以远程分享给不在身边的联系人，无论是图片、视频、文档还是压缩包等等，近场华为分享可以传输的远程分享也都可以，并且相较于微信、QQ， 华为分享远程发送功能当前没有任何文…",
+          "takeaway": "IT之家 8 月 30 日消息，华为今日官宣了 Mate XT 2 非凡大师全新三折叠手机。据介绍，新机采用全新展翼三折叠设计。 华为终端 BG CEO 何刚随后发文谈及了 Mate XT 2 非凡大师全新展翼三折叠手机，并表示， 该机是极致美学、极致工艺、极致创新的集大成者 ，拥有全新的外观设计和开合方式。 可以看到，新机的后置摄像头部分采用与前代近似的…",
+          "detail": "IT之家 8 月 30 日消息，华为今日官宣了 Mate XT 2 非凡大师全新三折叠手机。据介绍，新机采用全新展翼三折叠设计。 华为终端 BG CEO 何刚随后发文谈及了 Mate XT 2 非凡大师全新展翼三折叠手机，并表示， 该机是极致美学、极致工艺、极致创新的集大成者 ，拥有全新的外观设计和开合方式。 可以看到，新机的后置摄像头部分采用与前代近似的…",
           "keyPoints": [
-            "爆料来源"
+            "外观 / 配色 / 尺寸"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "auto-b73fab902a55",
+          "title": "华为余承东：Mate XT 2 非凡大师展开后依旧是业界最薄、尺寸最大折叠屏手机",
+          "originalTitle": "",
+          "source": "IT之家",
+          "brand": "Huawei",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-08-30",
+          "time": "02:21",
+          "publishedAt": "2026-08-30T02:21:26.000Z",
+          "url": "https://www.ithome.com/0/996/091.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/8/d08949df-b753-4b08-bdd1-7baeb9799f8c.jpg",
+          "verdict": "先看",
+          "takeaway": "IT之家 8 月 30 日消息，华为常务董事、产品投资评审委员会主任、终端 BG 董事长余承东刚刚发文，介绍了 Mate XT 2 非凡大师全新三折叠手机的全新展翼设计。 两年前，我们发布华为 Mate XT 非凡大师，首创华为天工铰链系统，通过双轨联动，将一块超薄柔性大屏内外翻折，打造出全球首款商用三折叠手机！这一次，华为 MateXT 2 非凡大师作为…",
+          "detail": "IT之家 8 月 30 日消息，华为常务董事、产品投资评审委员会主任、终端 BG 董事长余承东刚刚发文，介绍了 Mate XT 2 非凡大师全新三折叠手机的全新展翼设计。 两年前，我们发布华为 Mate XT 非凡大师，首创华为天工铰链系统，通过双轨联动，将一块超薄柔性大屏内外翻折，打造出全球首款商用三折叠手机！这一次，华为 MateXT 2 非凡大师作为…",
+          "keyPoints": [
+            "外观 / 配色 / 尺寸",
+            "屏幕形态"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "newsnow-da0751ec3299",
+          "title": "兄弟们有没有看新闻，这也太吓人了吧，要是12+256搭配骁龙8e6这两个成本就要，4200，，加上屏幕摄像头基本的配件，2k屏幕加3个5000万摄像头加起来差不多1000采购价，其它零零散散电池马达麦克风扬声器这些比较便宜不过估计也要300打底，怎么算毛利率得低的不行，今年难不成要6499起步标准版？？？ 子戏性价比机型5999起步？ #小米18# #iQOO16# #HyperOS4#",
+          "originalTitle": "",
+          "source": "酷安热榜",
+          "brand": "Xiaomi",
+          "type": "爆料",
+          "trust": "高关注爆料源",
+          "date": "2026-08-30",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://www.coolapk.com/feed/73483143",
+          "image": "",
+          "verdict": "先看",
+          "takeaway": "兄弟们有没有看新闻，这也太吓人了吧，要是12+256搭配骁龙8e6这两个成本就要，4200，，加上屏幕摄像头基本的配件，2k屏幕加3个5000万摄像头加起来差不多1000采购价，其它零零散散电池马达麦克风扬声器这些比较便宜不过估计也要300打底，怎么算毛利率得低的不行，今年难不成要6499起步标准版？？？ 子戏性价比机型5999起步？ #小米18# #iQ…",
+          "detail": "兄弟们有没有看新闻，这也太吓人了吧，要是12+256搭配骁龙8e6这两个成本就要，4200，，加上屏幕摄像头基本的配件，2k屏幕加3个5000万摄像头加起来差不多1000采购价，其它零零散散电池马达麦克风扬声器这些比较便宜不过估计也要300打底，怎么算毛利率得低的不行，今年难不成要6499起步标准版？？？ 子戏性价比机型5999起步？ #小米18# #iQ…",
+          "keyPoints": [
+            "屏幕形态",
+            "电池 / 充电",
+            "成本 / 价格"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "newsnow-767b92aaaadf",
+          "title": "小米以为自研处理器能带火折叠屏业务，但实际上折叠屏依旧是小众需求，而且大部分人买回来一周打开不了几次大屏，基本就是当初小众猎奇心理购买的，这自研处理器不仅可能带不火这折叠屏，还会被折叠屏拖累，要是后期能搭载在直板机就好了，要不然这次研发经费可能真的很难赚回来了",
+          "originalTitle": "",
+          "source": "酷安热榜",
+          "brand": "Xiaomi",
+          "type": "爆料",
+          "trust": "高关注爆料源",
+          "date": "2026-08-30",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://www.coolapk.com/feed/73481380",
+          "image": "",
+          "verdict": "先看",
+          "takeaway": "小米以为自研处理器能带火折叠屏业务，但实际上折叠屏依旧是小众需求，而且大部分人买回来一周打开不了几次大屏，基本就是当初小众猎奇心理购买的，这自研处理器不仅可能带不火这折叠屏，还会被折叠屏拖累，要是后期能搭载在直板机就好了，要不然这次研发经费可能真的很难赚回来了",
+          "detail": "小米以为自研处理器能带火折叠屏业务，但实际上折叠屏依旧是小众需求，而且大部分人买回来一周打开不了几次大屏，基本就是当初小众猎奇心理购买的，这自研处理器不仅可能带不火这折叠屏，还会被折叠屏拖累，要是后期能搭载在直板机就好了，要不然这次研发经费可能真的很难赚回来了",
+          "keyPoints": [
+            "屏幕形态",
+            "芯片 / 性能"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "newsnow-f0a2f40b975d",
+          "title": "华为Mate XT2 三折叠手机亮相：八边形Deco，G型内折",
+          "originalTitle": "",
+          "source": "酷安热榜",
+          "brand": "Huawei",
+          "type": "爆料",
+          "trust": "高关注爆料源",
+          "date": "2026-08-30",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://www.coolapk.com/feed/73485149",
+          "image": "",
+          "verdict": "先看",
+          "takeaway": "华为Mate XT2 三折叠手机亮相：八边形Deco，G型内折",
+          "detail": "华为Mate XT2 三折叠手机亮相：八边形Deco，G型内折",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "newsnow-04e24893e0d2",
+          "title": "额，这话说得有点扯淡了，华为的折叠屏在国内是现象级的领先[受虐滑稽]",
+          "originalTitle": "",
+          "source": "酷安热榜",
+          "brand": "Huawei",
+          "type": "爆料",
+          "trust": "高关注爆料源",
+          "date": "2026-08-30",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://www.coolapk.com/feed/73473541",
+          "image": "",
+          "verdict": "先看",
+          "takeaway": "额，这话说得有点扯淡了，华为的折叠屏在国内是现象级的领先[受虐滑稽]",
+          "detail": "额，这话说得有点扯淡了，华为的折叠屏在国内是现象级的领先[受虐滑稽]",
+          "keyPoints": [
+            "屏幕形态"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
@@ -160,55 +204,6 @@ window.phoneRadarDaily = {
           "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "coolapk-user-42bc2227e9b2",
-          "title": "JSCHEN小小狐：终于抽出机会去看了一下 X View，得说屏幕面积比想象中震撼很多，皮薄馅大的感觉真好。 虽然在出境易里读相机信息…",
-          "originalTitle": "",
-          "source": "JSCHEN小小狐",
-          "brand": "Huawei",
-          "type": "爆料",
-          "trust": "高可信爆料",
-          "date": "2026-08-29",
-          "time": "09:48",
-          "publishedAt": "2026-08-29T09:48:53.000Z",
-          "url": "https://www.coolapk.com/feed/73489680",
-          "image": "http://image.coolapk.com/feed/2026/0829/20/4702274_3087aff6_7614_8973_442-uhdr@2366x3503.jpg",
-          "verdict": "先看",
-          "takeaway": "终于抽出机会去看了一下 X View，得说屏幕面积比想象中震撼很多，皮薄馅大的感觉真好。 虽然在出境易里读相机信息不完全可靠，但结合硬件特征与规格支持情况，基本可以确定超广角就是 Mate70 Air 那颗 8Mp 1/4'' 16mm。另外前摄是那颗 50Mp 1/2.5'' f/2.4。这套影像硬件从各种意义上都更接近刀了超广角的 nova 16 Pr…",
-          "detail": "终于抽出机会去看了一下 X View，得说屏幕面积比想象中震撼很多，皮薄馅大的感觉真好。 虽然在出境易里读相机信息不完全可靠，但结合硬件特征与规格支持情况，基本可以确定超广角就是 Mate70 Air 那颗 8Mp 1/4'' 16mm。另外前摄是那颗 50Mp 1/2.5'' f/2.4。这套影像硬件从各种意义上都更接近刀了超广角的 nova 16 Pr…",
-          "keyPoints": [
-            "影像硬件",
-            "屏幕形态"
-          ],
-          "confidence": "可信度较高，但仍属于发布前线索。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "coolapk-user-e6d508d848e8",
-          "title": "竹本青：【央视财经评长鑫LPDDR6首搭小米18 Fold：从单点技术突破到产业链协同发力】 8月29日，长鑫存储宣布新一…",
-          "originalTitle": "",
-          "source": "竹本青",
-          "brand": "Xiaomi",
-          "type": "爆料",
-          "trust": "高可信爆料",
-          "date": "2026-08-29",
-          "time": "05:26",
-          "publishedAt": "2026-08-29T05:26:38.000Z",
-          "url": "https://www.coolapk.com/feed/73486022",
-          "image": "http://image.coolapk.com/feed/2026/0829/13/4248714_eff9431e_1197_4114_428@1440x1718.jpg",
-          "verdict": "先看",
-          "takeaway": "【央视财经评长鑫LPDDR6首搭小米18 Fold：从单点技术突破到产业链协同发力】 8月29日，长鑫存储宣布新一代LPDDR6内存正式量产，并首发搭载于小米18 Fold旗舰折叠屏手机。而就在本周，小米集团也宣布将在该机型上搭载其最新旗舰移动处理器玄戒O3。 小米将自主研发设计的移动处理器与国产新一代LPDDR6内存一同导入旗舰量产机型，敢于让国产核心器…",
-          "detail": "【央视财经评长鑫LPDDR6首搭小米18 Fold：从单点技术突破到产业链协同发力】 8月29日，长鑫存储宣布新一代LPDDR6内存正式量产，并首发搭载于小米18 Fold旗舰折叠屏手机。而就在本周，小米集团也宣布将在该机型上搭载其最新旗舰移动处理器玄戒O3。 小米将自主研发设计的移动处理器与国产新一代LPDDR6内存一同导入旗舰量产机型，敢于让国产核心器…",
-          "keyPoints": [
-            "屏幕形态",
-            "芯片 / 性能",
-            "爆料来源"
-          ],
-          "confidence": "可信度较高，但仍属于发布前线索。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         }
       ]
     },
@@ -217,29 +212,6 @@ window.phoneRadarDaily = {
       "title": "iPhone 重点",
       "hint": "不是硬件爆料，但和 iPhone 体验或路线有关。",
       "items": [
-        {
-          "id": "auto-c90477936899",
-          "title": "微软 Edge 152 浏览器发布：支持苹果账号登录，移除 Drop 跨设备传输",
-          "originalTitle": "",
-          "source": "IT之家",
-          "brand": "iPhone",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-08-29",
-          "time": "23:04",
-          "publishedAt": "2026-08-29T23:04:12.000Z",
-          "url": "https://www.ithome.com/0/996/055.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/8/02a083ae-dc50-4683-b61e-48b433445937.png",
-          "verdict": "先看",
-          "takeaway": "IT之家 8 月 30 日消息，微软于 8 月 27 日发布 Microsoft Edge 浏览器 152 稳定版（152.0.4191.53）， 在逐步淘汰实时视频翻译功能外，还宣布正式移除内置跨设备传输工具 Drop。 更新节奏方面，该版本也是 Edge 转向“两周一个主版本”发布节奏后的首批常规更新，Windows 和 macOS 用户将随正常浏览器…",
-          "detail": "IT之家 8 月 30 日消息，微软于 8 月 27 日发布 Microsoft Edge 浏览器 152 稳定版（152.0.4191.53）， 在逐步淘汰实时视频翻译功能外，还宣布正式移除内置跨设备传输工具 Drop。 更新节奏方面，该版本也是 Edge 转向“两周一个主版本”发布节奏后的首批常规更新，Windows 和 macOS 用户将随正常浏览器…",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "中文源可以直接点开快读；看完只保留和购机有关的点。"
-        },
         {
           "id": "newsnow-70b3393d078d",
           "title": "性价比和质量真的不挂钩？手机放兜里，一台K80U一台iPhone13p，回家路上淋雨了，淋了几分钟，到家k80u直接花屏，后面直接不开机了，拿去售后工程师说没有维修价值，不原意开拒保说明，直接取消了我的售后申请，连维修报价都没给开，还问我要不要以旧换新换K90零至尊版！真离谱，这台手机才买两个月！三年前买的iPhone13p淋雨还好好的，真怀疑这台手机根本没有防水设计，大家使用的时候要谨慎啊",
@@ -285,29 +257,36 @@ window.phoneRadarDaily = {
           "confidence": "官方内容，可直接作为已确认信息记录。",
           "impact": "可信度高，但如果不是配置/价格消息，只需要扫一眼。",
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
+        }
+      ]
+    },
+    {
+      "id": "launch",
+      "title": "新机与官方发布",
+      "hint": "能直接更新到参数库。",
+      "items": [
         {
-          "id": "newsnow-c87eae183b8c",
-          "title": "把「闪念胶囊」（Almost）放到 iPhone 锁屏",
+          "id": "auto-e9c343aedf3e",
+          "title": "小米 18 Pro 系列手机有望首发：防窥屏界面曝光，支付 / 转账等 4 类敏感场景自动开启",
           "originalTitle": "",
-          "source": "少数派热榜",
-          "brand": "iPhone",
-          "type": "评测",
+          "source": "IT之家",
+          "brand": "Xiaomi",
+          "type": "爆料",
           "trust": "媒体汇总",
           "date": "2026-08-30",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://sspai.com/post/113219",
-          "image": "",
-          "verdict": "扫一眼",
-          "takeaway": "把「闪念胶囊」（Almost）放到 iPhone 锁屏",
-          "detail": "把「闪念胶囊」（Almost）放到 iPhone 锁屏",
+          "time": "02:32",
+          "publishedAt": "2026-08-30T02:32:58.000Z",
+          "url": "https://www.ithome.com/0/996/093.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/8/b02b0c60-e6e1-41c1-a13a-5653ea623288.png?x-bce-process=image/format,f_auto",
+          "verdict": "先看",
+          "takeaway": "IT之家 8 月 30 日消息，消息源 @kacskrz 于 8 月 28 日在 X 平台发布推文，分享了 1 段视频和 3 张图片，从国际版 ROM 固件中挖掘发现小米防窥屏相关信息。 根据界面截图信息，该功能名为“智能隐私显示”（Smart privacy display），用户可创建应用分组，并为各组内应用分别配置隐私显示策略，形成按使用场景区分的设…",
+          "detail": "IT之家 8 月 30 日消息，消息源 @kacskrz 于 8 月 28 日在 X 平台发布推文，分享了 1 段视频和 3 张图片，从国际版 ROM 固件中挖掘发现小米防窥屏相关信息。 根据界面截图信息，该功能名为“智能隐私显示”（Smart privacy display），用户可创建应用分组，并为各组内应用分别配置隐私显示策略，形成按使用场景区分的设…",
           "keyPoints": [
-            "评测"
+            "屏幕形态"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是实际体验内容，买前适合重点看缺点和取舍。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+          "impact": "影响手感和显示体验，适合和其他机型对比。",
+          "action": "有具体参数就记录到参数库；没有参数就先收藏。"
         }
       ]
     },
@@ -317,27 +296,27 @@ window.phoneRadarDaily = {
       "hint": "看方向，不急着当购买依据。",
       "items": [
         {
-          "id": "coolapk-user-f9730ac432ef",
-          "title": "竹本青：7月国内手机市场份额曝光：大盘下降约17%",
+          "id": "auto-b2bd300ea825",
+          "title": "因缺少 MTE 安全功能，GrapheneOS 当前阶段放弃适配谷歌 Pixel 11 系列手机",
           "originalTitle": "",
-          "source": "竹本青",
-          "brand": "HONOR",
+          "source": "IT之家",
+          "brand": "Pixel",
           "type": "爆料",
-          "trust": "高可信爆料",
-          "date": "2026-08-29",
-          "time": "06:02",
-          "publishedAt": "2026-08-29T06:02:59.000Z",
-          "url": "https://www.coolapk.com/feed/73486494",
-          "image": "http://image.coolapk.com/feed/2026/0829/14/4248714_fdd7a3da_3378_8308_255@1440x1031.jpg",
-          "verdict": "扫一眼",
-          "takeaway": "【7月国内手机市场份额曝光：华为、OPPO、vivo分列前三，大盘下降约17%】 ● 7月：大盘下降约17% 1.华为 —— 20.6% 2.OPPO —— 16.9%（含一加 3.4%，realme 0.7%） 3.vivo —— 16.2%（含iQOO 4.3%） 4.小米 —— 15.0% 5.苹果 —— 15.0% 6.荣耀 —— 12.3% ●…",
-          "detail": "【7月国内手机市场份额曝光：华为、OPPO、vivo分列前三，大盘下降约17%】 ● 7月：大盘下降约17% 1.华为 —— 20.6% 2.OPPO —— 16.9%（含一加 3.4%，realme 0.7%） 3.vivo —— 16.2%（含iQOO 4.3%） 4.小米 —— 15.0% 5.苹果 —— 15.0% 6.荣耀 —— 12.3% ●…",
+          "trust": "媒体汇总",
+          "date": "2026-08-30",
+          "time": "07:48",
+          "publishedAt": "2026-08-30T07:48:17.000Z",
+          "url": "https://www.ithome.com/0/996/177.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/8/04c4c7b8-8c3e-411a-884d-170f13221af6.jpg",
+          "verdict": "先看",
+          "takeaway": "IT之家 8 月 30 日消息，GrapheneOS（石墨烯 OS）开发团队今天在 X 平台宣布，由于谷歌 Pixel 11 系列手机缺少 MTE（Arm 内存标记扩展）安全功能，他们当前不得不放弃 Pixel 11 的 GrapheneOS 适配工作。 官方表示，他们经过一周的工作后完成了 Pixel 11 系列 GrapheneOS 初步移植。但由于该…",
+          "detail": "IT之家 8 月 30 日消息，GrapheneOS（石墨烯 OS）开发团队今天在 X 平台宣布，由于谷歌 Pixel 11 系列手机缺少 MTE（Arm 内存标记扩展）安全功能，他们当前不得不放弃 Pixel 11 的 GrapheneOS 适配工作。 官方表示，他们经过一周的工作后完成了 Pixel 11 系列 GrapheneOS 初步移植。但由于该…",
           "keyPoints": [
             "爆料"
           ],
-          "confidence": "可信度较高，但仍属于发布前线索。",
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+          "action": "中文源可以直接点开快读；看完只保留和购机有关的点。"
         },
         {
           "id": "newsnow-5e7d98612366",
@@ -363,29 +342,6 @@ window.phoneRadarDaily = {
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         },
         {
-          "id": "newsnow-c0ca8d295a2a",
-          "title": "紧急消息！SB NC华为给全新的PuraX view加了全局性能模式[发怒][发怒][发怒][发怒]",
-          "originalTitle": "",
-          "source": "酷安热榜",
-          "brand": "Huawei",
-          "type": "爆料",
-          "trust": "高关注爆料源",
-          "date": "2026-08-30",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://www.coolapk.com/feed/73495548",
-          "image": "",
-          "verdict": "扫一眼",
-          "takeaway": "紧急消息！SB NC华为给全新的PuraX view加了全局性能模式[发怒][发怒][发怒][发怒]",
-          "detail": "紧急消息！SB NC华为给全新的PuraX view加了全局性能模式[发怒][发怒][发怒][发怒]",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "影响性能和寿命判断，适合放进参数库。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
-        {
           "id": "newsnow-17990edbc828",
           "title": "蓝狐Aura A1小屏手机开售：首发1399元起",
           "originalTitle": "",
@@ -407,53 +363,6 @@ window.phoneRadarDaily = {
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
-        {
-          "id": "auto-47ee4dbafb0a",
-          "title": "Pixel 11 Pro Fold 折叠屏相关消息",
-          "originalTitle": "",
-          "source": "Android Police",
-          "brand": "Pixel",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-08-29",
-          "time": "20:00",
-          "publishedAt": "2026-08-29T20:00:10.000Z",
-          "url": "https://www.androidpolice.com/cloned-apps-on-pixel-11-pro-fold-using-hidden-privacy-setting/",
-          "image": "",
-          "verdict": "可略过",
-          "takeaway": "Pixel 11 Pro Fold 折叠屏相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
-          "detail": "Pixel 11 Pro Fold 折叠屏相关消息。重点看折痕、铰链、厚度、屏幕可靠性和重量是否有实质改善。",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
-        {
-          "id": "auto-702fb970c655",
-          "title": "OPPO 相关消息",
-          "originalTitle": "",
-          "source": "Gizmochina",
-          "brand": "OPPO",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-08-29",
-          "time": "16:39",
-          "publishedAt": "2026-08-29T16:39:25.000Z",
-          "url": "https://www.gizmochina.com/2026/08/29/best-oneplus-phones/",
-          "image": "https://www.gizmochina.com/wp-content/uploads/2026/04/OnePlus-15T-Review_1.mp4_20260402_142241.000-300x150.jpg?x23692",
-          "verdict": "可略过",
-          "takeaway": "OPPO 相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
-          "detail": "OPPO 相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
-          "keyPoints": [
-            "电池 / 充电",
-            "芯片 / 性能"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "影响日常体验，尤其是游戏、拍照和长时间使用。",
-          "action": "有具体参数就记录到参数库；没有参数就先收藏。"
         }
       ]
     }
