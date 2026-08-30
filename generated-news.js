@@ -1,6 +1,26 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-08-30T19:18:36.190Z",
+  "updatedAt": "2026-08-30T22:43:46.996Z",
   "news": [
+    {
+      "id": "auto-df9824bc6f0e",
+      "title": "Best Oppo Phones of 2026",
+      "source": "Gizmochina",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-30",
+      "time": "19:34",
+      "publishedAt": "2026-08-30T19:34:34.000Z",
+      "url": "https://www.gizmochina.com/2026/08/30/best-oppo-phones/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2025/12/Oppo-Find-X9-Pro-e1768250703865-300x166.jpg?x23692",
+      "summary": "Oppo has had a busy 2026 so far, with new phones across almost every price range. The company also expanded its flagship Find X9 Ultra to the global market for the first time. It…",
+      "tags": [
+        "OPPO",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-3bf019decba9",
       "title": "Xiaomi 18 Fold to pack a massive 6,000mAh battery, wired and wireless charging speeds also emerge",
@@ -19,26 +39,6 @@ window.phoneRadarAuto = {
         "Xiaomi",
         "爆料",
         "自动抓取"
-      ]
-    },
-    {
-      "id": "coolapk-user-bb8c1158ad2b",
-      "title": "竹本青：【荣耀WIN系列 被曝缺失导热凝胶，商品页标注\"航天级导热凝胶\"】 8月30日资讯，近日，多位用户反馈荣耀系列（W…",
-      "source": "竹本青",
-      "brand": "HONOR",
-      "model": "HONOR 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-08-30",
-      "time": "15:13",
-      "publishedAt": "2026-08-30T15:13:23.000Z",
-      "url": "https://www.coolapk.com/feed/73509430",
-      "image": "http://image.coolapk.com/feed/2026/0830/23/4248714_df8fba3a_2799_5046_347@1440x1410.jpg",
-      "summary": "【荣耀WIN系列 被曝缺失导热凝胶，商品页标注\"航天级导热凝胶\"】 8月30日资讯，近日，多位用户反馈荣耀系列（WIN、WIN RT）存在主板与后盖接触面未涂导热凝胶问题。 经对比多位博主的拆解视频，发现确存差异：部分主板处可见导热凝胶，部分又未发现该材料。另有用户表示，自行拆机或前往售后拆机后，其设备同样未见导热凝胶。 但值得注意的是，荣耀WIN、WIN…",
-      "tags": [
-        "HONOR",
-        "爆料",
-        "酷安博主"
       ]
     },
     {
@@ -119,26 +119,6 @@ window.phoneRadarAuto = {
         "iPhone",
         "爆料",
         "自动抓取"
-      ]
-    },
-    {
-      "id": "coolapk-user-50756e1a195d",
-      "title": "竹本青：vivo手机内存升级官方活动将于8月31日结束",
-      "source": "竹本青",
-      "brand": "vivo",
-      "model": "vivo 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-08-30",
-      "time": "12:45",
-      "publishedAt": "2026-08-30T12:45:07.000Z",
-      "url": "https://www.coolapk.com/feed/73507341",
-      "image": "http://image.coolapk.com/feed/2026/0830/20/4248714_9b2634ee_3903_2758_310@1440x1809.jpg",
-      "summary": "【vivo 手机「内存升级」官方活动 即将于明日结束】 ● 官方特惠，售价含手工费 ● 修后主板享90天质保 ● 未使用随时退款 ● 支持到店或邮寄送修 ▫️X90 Pro 12+256GB —— 1649元 ▫️X90 Pro 12+512GB —— 1749元 ▫️S18e 12+512GB —— 949元 ▫️S17e 12+256GB —— 749…",
-      "tags": [
-        "vivo",
-        "爆料",
-        "酷安博主"
       ]
     },
     {
@@ -322,6 +302,26 @@ window.phoneRadarAuto = {
       ]
     },
     {
+      "id": "coolapk-user-2892f3fcbcb4",
+      "title": "JSCHEN小小狐：『华为 Mate XT 2 正式官宣：全新展翼三折叠』 全新展翼三折叠形态 - 手机通过左右翻折双翼展开，上手更直…",
+      "source": "JSCHEN小小狐",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-08-30",
+      "time": "02:12",
+      "publishedAt": "2026-08-30T02:12:00.000Z",
+      "url": "https://www.coolapk.com/feed/73498766",
+      "image": "http://image.coolapk.com/feed/2026/0830/10/4702274_ec6b4c04_5892_7595_145@2560x1440.jpg",
+      "summary": "『华为 Mate XT 2 正式官宣：全新展翼三折叠』 全新展翼三折叠形态 - 手机通过左右翻折双翼展开，上手更直观好用 中轴对称设计 - 整机重量分布更均匀，展开握持更舒适 3.5mm 超纤薄机身 - 该厚度下首次容纳内外两块屏幕 - 展开后业界最薄、尺寸最大的折叠屏手机 全新折叠架构 - 更强大的外屏、更坚韧的内屏 - 更精密的铰链系统 - 抗跌耐摔，…",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
       "id": "coolapk-user-4ff8a215d65d",
       "title": "竹本青：华为Mate XT2非凡大师官宣：G型内折，9月7号发布",
       "source": "竹本青",
@@ -402,28 +402,28 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-5e7d98612366",
-      "title": "更新完OS4小掉帧随处可见[吃瓜]信息流太卡了尤其是抖音[噗] #REDMIK90Ultra# #HyperOS4#",
+      "id": "newsnow-5898ed24df39",
+      "title": "vivo手机内存升级官方活动将于8月31日结束",
       "source": "酷安热榜",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
+      "brand": "vivo",
+      "model": "vivo 相关机型",
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-08-30",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73484351",
+      "url": "https://www.coolapk.com/feed/73507341",
       "image": "",
-      "summary": "更新完OS4小掉帧随处可见[吃瓜]信息流太卡了尤其是抖音[噗] #REDMIK90Ultra# #HyperOS4#",
+      "summary": "vivo手机内存升级官方活动将于8月31日结束",
       "tags": [
-        "Xiaomi",
+        "vivo",
         "爆料",
         "NewsNow"
       ]
     },
     {
-      "id": "newsnow-17990edbc828",
-      "title": "蓝狐Aura A1小屏手机开售：首发1399元起",
+      "id": "newsnow-4f2eedd38e9e",
+      "title": "是我心理不正常吗？感觉现在找女朋友除了解决x需求，其他都没啥用，让我整天抱着手机跟她微信聊天，各种提供情绪价值，整天围着她转，过节送礼物转账 我真的做不到，感觉好麻烦啊。不是为了那点事，我甚至都不想搭理女的[喷][喷][喷] #初恋这件小事# #相亲# #恋爱这件小事#",
       "source": "酷安热榜",
       "brand": "行业",
       "model": "智能手机市场",
@@ -432,51 +432,11 @@ window.phoneRadarAuto = {
       "date": "2026-08-30",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73493065",
+      "url": "https://www.coolapk.com/feed/73497861",
       "image": "",
-      "summary": "蓝狐Aura A1小屏手机开售：首发1399元起",
+      "summary": "是我心理不正常吗？感觉现在找女朋友除了解决x需求，其他都没啥用，让我整天抱着手机跟她微信聊天，各种提供情绪价值，整天围着她转，过节送礼物转账 我真的做不到，感觉好麻烦啊。不是为了那点事，我甚至都不想搭理女的[喷][喷][喷] #初恋这件小事# #相亲# #恋爱这件小事#",
       "tags": [
         "行业",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-767b92aaaadf",
-      "title": "小米以为自研处理器能带火折叠屏业务，但实际上折叠屏依旧是小众需求，而且大部分人买回来一周打开不了几次大屏，基本就是当初小众猎奇心理购买的，这自研处理器不仅可能带不火这折叠屏，还会被折叠屏拖累，要是后期能搭载在直板机就好了，要不然这次研发经费可能真的很难赚回来了",
-      "source": "酷安热榜",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-08-30",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73481380",
-      "image": "",
-      "summary": "小米以为自研处理器能带火折叠屏业务，但实际上折叠屏依旧是小众需求，而且大部分人买回来一周打开不了几次大屏，基本就是当初小众猎奇心理购买的，这自研处理器不仅可能带不火这折叠屏，还会被折叠屏拖累，要是后期能搭载在直板机就好了，要不然这次研发经费可能真的很难赚回来了",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-70b3393d078d",
-      "title": "性价比和质量真的不挂钩？手机放兜里，一台K80U一台iPhone13p，回家路上淋雨了，淋了几分钟，到家k80u直接花屏，后面直接不开机了，拿去售后工程师说没有维修价值，不原意开拒保说明，直接取消了我的售后申请，连维修报价都没给开，还问我要不要以旧换新换K90零至尊版！真离谱，这台手机才买两个月！三年前买的iPhone13p淋雨还好好的，真怀疑这台手机根本没有防水设计，大家使用的时候要谨慎啊",
-      "source": "酷安热榜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-08-30",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73466397",
-      "image": "",
-      "summary": "性价比和质量真的不挂钩？手机放兜里，一台K80U一台iPhone13p，回家路上淋雨了，淋了几分钟，到家k80u直接花屏，后面直接不开机了，拿去售后工程师说没有维修价值，不原意开拒保说明，直接取消了我的售后申请，连维修报价都没给开，还问我要不要以旧换新换K90零至尊版！真离谱，这台手机才买两个月！三年前买的iPhone13p淋雨还好好的，真怀疑这台手机根本…",
-      "tags": [
-        "iPhone",
         "爆料",
         "NewsNow"
       ]
@@ -539,6 +499,26 @@ window.phoneRadarAuto = {
         "OPPO",
         "爆料",
         "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-0f4d3d2bcc92",
+      "title": "竹本青：蓝狐Aura A1小屏手机开售：首发1399元起",
+      "source": "竹本青",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-08-29",
+      "time": "13:36",
+      "publishedAt": "2026-08-29T13:36:06.000Z",
+      "url": "https://www.coolapk.com/feed/73493065",
+      "image": "http://image.coolapk.com/feed/2026/0829/21/4248714_217e6b62_0563_9203_452@2160x3840.jpg",
+      "summary": "【蓝狐Aura A1 手机今日开售：联发科G100处理器，4.7英寸LCD屏，首发1399元起】 8GB+128GB —— 1399元 12GB+256GB —— 1699元 核心： ● 4.7英寸90Hz LCD屏 ● 联发科 G100处理器 ● LPDDR4X+UFS2.2 ● 3550mAh+18W快充 ● 120.4*57*12.6mm/约150g…",
+      "tags": [
+        "行业",
+        "爆料",
+        "酷安博主"
       ]
     },
     {
@@ -679,6 +659,26 @@ window.phoneRadarAuto = {
         "HONOR",
         "爆料",
         "自动抓取"
+      ]
+    },
+    {
+      "id": "weibo-ac2c37d74e68",
+      "title": "数码闲聊站：确认了一下，iPhone 18 Pro系列、vivo X500系列、OPPO…",
+      "source": "数码闲聊站",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-08-29",
+      "time": "08:16",
+      "publishedAt": "2026-08-29T08:16:15.000Z",
+      "url": "https://weibo.com/6048569942/RfDX8sZee",
+      "image": "",
+      "summary": "确认了一下，iPhone 18 Pro系列、vivo X500系列、OPPO Find X10系列、华为Mate90系列、小米18 Pro系列、荣耀Magic9系列，这些直板旗舰都会在9月开售，你们能在国庆假期之前拿到新机[笑而不语]",
+      "tags": [
+        "HONOR",
+        "爆料",
+        "微博"
       ]
     },
     {
