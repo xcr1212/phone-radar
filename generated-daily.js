@@ -1,12 +1,12 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-08-30T14:52:07.429Z",
+  "updatedAt": "2026-08-30T19:18:36.190Z",
   "issueDate": "2026-08-30",
   "issue": "VOL.260830",
   "title": "手机情报日报",
-  "intro": "今日筛出 15 条重点，其中 8 条是重点爆料，包含 5 条 iPhone 相关、1 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 16 条重点，其中 8 条是重点爆料，包含 6 条 iPhone 相关、1 条官方确认、0 条参数线索。",
   "stats": {
-    "total": 15,
-    "iphone": 5,
+    "total": 16,
+    "iphone": 6,
     "leaks": 8,
     "official": 1,
     "specs": 0
@@ -161,29 +161,6 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
-          "id": "weibo-ac2c37d74e68",
-          "title": "数码闲聊站：确认了一下，iPhone 18 Pro系列、vivo X500系列、OPPO…",
-          "originalTitle": "",
-          "source": "数码闲聊站",
-          "brand": "HONOR",
-          "type": "爆料",
-          "trust": "高关注爆料源",
-          "date": "2026-08-29",
-          "time": "08:16",
-          "publishedAt": "2026-08-29T08:16:15.000Z",
-          "url": "https://weibo.com/6048569942/RfDX8sZee",
-          "image": "",
-          "verdict": "先看",
-          "takeaway": "确认了一下，iPhone 18 Pro系列、vivo X500系列、OPPO Find X10系列、华为Mate90系列、小米18 Pro系列、荣耀Magic9系列，这些直板旗舰都会在9月开售，你们能在国庆假期之前拿到新机[笑而不语]",
-          "detail": "确认了一下，iPhone 18 Pro系列、vivo X500系列、OPPO Find X10系列、华为Mate90系列、小米18 Pro系列、荣耀Magic9系列，这些直板旗舰都会在9月开售，你们能在国庆假期之前拿到新机[笑而不语]",
-          "keyPoints": [
-            "爆料来源"
-          ],
-          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
           "id": "coolapk-user-50756e1a195d",
           "title": "竹本青：vivo手机内存升级官方活动将于8月31日结束",
           "originalTitle": "",
@@ -201,6 +178,30 @@ window.phoneRadarDaily = {
           "detail": "【vivo 手机「内存升级」官方活动 即将于明日结束】 ● 官方特惠，售价含手工费 ● 修后主板享90天质保 ● 未使用随时退款 ● 支持到店或邮寄送修 ▫️X90 Pro 12+256GB —— 1649元 ▫️X90 Pro 12+512GB —— 1749元 ▫️S18e 12+512GB —— 949元 ▫️S17e 12+256GB —— 749…",
           "keyPoints": [
             "成本 / 价格"
+          ],
+          "confidence": "可信度较高，但仍属于发布前线索。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "coolapk-user-cb1c9be6f80b",
+          "title": "竹本青：华为Mate XT2 非凡大师预热：展开后3.5mm",
+          "originalTitle": "",
+          "source": "竹本青",
+          "brand": "Huawei",
+          "type": "爆料",
+          "trust": "高可信爆料",
+          "date": "2026-08-30",
+          "time": "04:48",
+          "publishedAt": "2026-08-30T04:48:43.000Z",
+          "url": "https://www.coolapk.com/feed/73500835",
+          "image": "http://image.coolapk.com/feed/2026/0830/12/4248714_9336bf21_5322_0164_434@1271x1657.jpg",
+          "verdict": "先看",
+          "takeaway": "【全新展翼形态｜余承东：华为Mate XT2 非凡大师展开后3.5mm，依旧是业界最薄、尺寸最大折叠屏手机】 ▫️全新展翼三折叠形态 ▫️左右翻折展开｜中轴对称设计 ▫️重量分布更均匀，握持更舒适 ▫️3.5mm机身首次容纳内外屏幕 ▫️整机可靠性跨越式提升 余承东今天上午发文，介绍华为全新Mate XT2 非凡大师 三折叠手机： “这一次，华为Mate…",
+          "detail": "【全新展翼形态｜余承东：华为Mate XT2 非凡大师展开后3.5mm，依旧是业界最薄、尺寸最大折叠屏手机】 ▫️全新展翼三折叠形态 ▫️左右翻折展开｜中轴对称设计 ▫️重量分布更均匀，握持更舒适 ▫️3.5mm机身首次容纳内外屏幕 ▫️整机可靠性跨越式提升 余承东今天上午发文，介绍华为全新Mate XT2 非凡大师 三折叠手机： “这一次，华为Mate…",
+          "keyPoints": [
+            "外观 / 配色 / 尺寸",
+            "屏幕形态"
           ],
           "confidence": "可信度较高，但仍属于发布前线索。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
@@ -260,6 +261,29 @@ window.phoneRadarDaily = {
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         },
         {
+          "id": "newsnow-142a3a987e52",
+          "title": "为什么很多大学生更喜欢买标准版 iPhone，而不是 Pro？",
+          "originalTitle": "",
+          "source": "知乎热榜",
+          "brand": "iPhone",
+          "type": "市场报告",
+          "trust": "媒体汇总",
+          "date": "2026-08-30",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://www.zhihu.com/question/2075613391306208746",
+          "image": "",
+          "verdict": "扫一眼",
+          "takeaway": "为什么很多大学生更喜欢买标准版 iPhone，而不是 Pro？",
+          "detail": "为什么很多大学生更喜欢买标准版 iPhone，而不是 Pro？",
+          "keyPoints": [
+            "市场报告"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "目前更像背景信息，对买手机影响不大。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        },
+        {
           "id": "newsnow-c87eae183b8c",
           "title": "把「闪念胶囊」（Almost）放到 iPhone 锁屏",
           "originalTitle": "",
@@ -280,6 +304,36 @@ window.phoneRadarDaily = {
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是实际体验内容，买前适合重点看缺点和取舍。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        }
+      ]
+    },
+    {
+      "id": "review",
+      "title": "评测与体验",
+      "hint": "买前再细看，平时扫一眼即可。",
+      "items": [
+        {
+          "id": "coolapk-user-bb8c1158ad2b",
+          "title": "竹本青：【荣耀WIN系列 被曝缺失导热凝胶，商品页标注\"航天级导热凝胶\"】 8月30日资讯，近日，多位用户反馈荣耀系列（W…",
+          "originalTitle": "",
+          "source": "竹本青",
+          "brand": "HONOR",
+          "type": "爆料",
+          "trust": "高可信爆料",
+          "date": "2026-08-30",
+          "time": "15:13",
+          "publishedAt": "2026-08-30T15:13:23.000Z",
+          "url": "https://www.coolapk.com/feed/73509430",
+          "image": "http://image.coolapk.com/feed/2026/0830/23/4248714_df8fba3a_2799_5046_347@1440x1410.jpg",
+          "verdict": "扫一眼",
+          "takeaway": "【荣耀WIN系列 被曝缺失导热凝胶，商品页标注\"航天级导热凝胶\"】 8月30日资讯，近日，多位用户反馈荣耀系列（WIN、WIN RT）存在主板与后盖接触面未涂导热凝胶问题。 经对比多位博主的拆解视频，发现确存差异：部分主板处可见导热凝胶，部分又未发现该材料。另有用户表示，自行拆机或前往售后拆机后，其设备同样未见导热凝胶。 但值得注意的是，荣耀WIN、WIN…",
+          "detail": "【荣耀WIN系列 被曝缺失导热凝胶，商品页标注\"航天级导热凝胶\"】 8月30日资讯，近日，多位用户反馈荣耀系列（WIN、WIN RT）存在主板与后盖接触面未涂导热凝胶问题。 经对比多位博主的拆解视频，发现确存差异：部分主板处可见导热凝胶，部分又未发现该材料。另有用户表示，自行拆机或前往售后拆机后，其设备同样未见导热凝胶。 但值得注意的是，荣耀WIN、WIN…",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "可信度较高，但仍属于发布前线索。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         }
       ]
@@ -351,29 +405,6 @@ window.phoneRadarDaily = {
           "verdict": "扫一眼",
           "takeaway": "蓝狐Aura A1小屏手机开售：首发1399元起",
           "detail": "蓝狐Aura A1小屏手机开售：首发1399元起",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
-        {
-          "id": "auto-49dfa94bc35b",
-          "title": "Pixel 相关消息",
-          "originalTitle": "",
-          "source": "Android Authority",
-          "brand": "Pixel",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-08-30",
-          "time": "11:00",
-          "publishedAt": "2026-08-30T11:00:52.000Z",
-          "url": "https://www.androidauthority.com/pixel-11-settings-change-tips-3702992/",
-          "image": "",
-          "verdict": "可略过",
-          "takeaway": "Pixel 相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
-          "detail": "Pixel 相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
           "keyPoints": [
             "爆料"
           ],

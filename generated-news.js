@@ -1,6 +1,86 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-08-30T14:52:07.429Z",
+  "updatedAt": "2026-08-30T19:18:36.190Z",
   "news": [
+    {
+      "id": "auto-3bf019decba9",
+      "title": "Xiaomi 18 Fold to pack a massive 6,000mAh battery, wired and wireless charging speeds also emerge",
+      "source": "Gizmochina",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-30",
+      "time": "19:14",
+      "publishedAt": "2026-08-30T19:14:02.000Z",
+      "url": "https://www.gizmochina.com/2026/08/30/xiaomi-18-fold-battery-charging-details-leaked/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/08/Xiaomi-18-Fold-Image-1-300x285.jpg?x23692",
+      "summary": "Rumors suggest that Xiaomi will unveil the Xiaomi 18 Fold by early September in China. Ahead of the launch, the brand has already confirmed that it will be equipped with the all-n…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-bb8c1158ad2b",
+      "title": "竹本青：【荣耀WIN系列 被曝缺失导热凝胶，商品页标注\"航天级导热凝胶\"】 8月30日资讯，近日，多位用户反馈荣耀系列（W…",
+      "source": "竹本青",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-08-30",
+      "time": "15:13",
+      "publishedAt": "2026-08-30T15:13:23.000Z",
+      "url": "https://www.coolapk.com/feed/73509430",
+      "image": "http://image.coolapk.com/feed/2026/0830/23/4248714_df8fba3a_2799_5046_347@1440x1410.jpg",
+      "summary": "【荣耀WIN系列 被曝缺失导热凝胶，商品页标注\"航天级导热凝胶\"】 8月30日资讯，近日，多位用户反馈荣耀系列（WIN、WIN RT）存在主板与后盖接触面未涂导热凝胶问题。 经对比多位博主的拆解视频，发现确存差异：部分主板处可见导热凝胶，部分又未发现该材料。另有用户表示，自行拆机或前往售后拆机后，其设备同样未见导热凝胶。 但值得注意的是，荣耀WIN、WIN…",
+      "tags": [
+        "HONOR",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-47f1ecf859b5",
+      "title": "上海电信突发大范围断网，官方称经紧急处置服务已陆续恢复",
+      "source": "IT之家",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-30",
+      "time": "15:10",
+      "publishedAt": "2026-08-30T15:10:23.000Z",
+      "url": "https://www.ithome.com/0/996/250.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/8/35a09f83-fcb1-4fb1-8e4d-6cbbe4392878.png?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 8 月 30 日消息，今日晚间多位网友反映上海电信突发大范围断网，有用户反馈宽带、手机信号全面中断。#上海电信断网#登上热搜。 针对此事，@中国电信上海客服 官微服刚刚发文回应称，“2026 年 8 月 30 日 20 时 30 分，上海电信嘉定部分城区发生网络故障，造成宽带业务用户受影响。经紧急处置，服务于 21 时 20 分起陆续恢复。“对于…",
+      "tags": [
+        "行业",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-49421229064c",
+      "title": "苹果与康宁在美国肯塔基州开设创新中心：探索全新玻璃材料，新增数百个岗位",
+      "source": "IT之家",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-30",
+      "time": "15:06",
+      "publishedAt": "2026-08-30T15:06:47.000Z",
+      "url": "https://www.ithome.com/0/996/249.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/8/b4848347-abcf-4a37-a274-0e688345c745.jpg?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 8 月 30 日消息，据科技媒体 MacObserver 今天报道，苹果将与康宁在美国肯塔基州中部开设创新中心，为未来硬件产品探索全新玻璃材料。 据报道，该项目是苹果推动制造业回流美国的重要一步，康宁正在将肯塔基哈罗兹堡（Harrodsburg）工厂改造成全球最大智能手机玻璃生产线。该厂投产后， 将为全球新款 iPhone 生产盖板玻璃 。 该项…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-ac04609ac70d",
       "title": "Apple reportedly considered launching a new Apple Pencil for iPhone Ultra",
@@ -402,6 +482,26 @@ window.phoneRadarAuto = {
       ]
     },
     {
+      "id": "newsnow-142a3a987e52",
+      "title": "为什么很多大学生更喜欢买标准版 iPhone，而不是 Pro？",
+      "source": "知乎热榜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "市场报告",
+      "trust": "媒体汇总",
+      "date": "2026-08-30",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.zhihu.com/question/2075613391306208746",
+      "image": "",
+      "summary": "为什么很多大学生更喜欢买标准版 iPhone，而不是 Pro？",
+      "tags": [
+        "iPhone",
+        "市场报告",
+        "NewsNow"
+      ]
+    },
+    {
       "id": "newsnow-6068bb3d0943",
       "title": "张靓颖演唱会掏出手机看歌词",
       "source": "百度热搜",
@@ -419,26 +519,6 @@ window.phoneRadarAuto = {
         "行业",
         "爆料",
         "NewsNow"
-      ]
-    },
-    {
-      "id": "auto-47ee4dbafb0a",
-      "title": "I finally cloned apps on my Pixel 11 Pro Fold using a hidden privacy setting",
-      "source": "Android Police",
-      "brand": "Pixel",
-      "model": "Pixel 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-29",
-      "time": "20:00",
-      "publishedAt": "2026-08-29T20:00:10.000Z",
-      "url": "https://www.androidpolice.com/cloned-apps-on-pixel-11-pro-fold-using-hidden-privacy-setting/",
-      "image": "",
-      "summary": "Unfolding the multitasking restraints",
-      "tags": [
-        "Pixel",
-        "爆料",
-        "自动抓取"
       ]
     },
     {
@@ -522,26 +602,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "coolapk-user-6e430c5abfdc",
-      "title": "竹本青：【长鑫存储起诉美国国防部，要求从“涉军企业”黑名单中移除】 据路透社报道，当地时间8月28日，中国芯片制造商长鑫存…",
-      "source": "竹本青",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-08-29",
-      "time": "10:23",
-      "publishedAt": "2026-08-29T10:23:02.000Z",
-      "url": "https://www.coolapk.com/feed/73490159",
-      "image": "http://image.coolapk.com/feed/2026/0829/18/4248714_d5fe28a9_8897_5034_291@1272x868.jpg",
-      "summary": "【长鑫存储起诉美国国防部，要求从“涉军企业”黑名单中移除】 据路透社报道，当地时间8月28日，中国芯片制造商长鑫存储（CXMT）向美国哥伦比亚特区联邦地区法院提起诉讼，指控美国防部将该公司列入所谓“涉军企业”名单的决定是“武断的”、缺乏证据支持，且违反正当程序。长鑫存储要求推翻该决定，并将其从所谓名单中移除。 长鑫存储表示，其设计的DRAM芯片用于民用和商…",
-      "tags": [
-        "行业",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
       "id": "coolapk-user-42bc2227e9b2",
       "title": "JSCHEN小小狐：终于抽出机会去看了一下 X View，得说屏幕面积比想象中震撼很多，皮薄馅大的感觉真好。 虽然在出境易里读相机信息…",
       "source": "JSCHEN小小狐",
@@ -619,26 +679,6 @@ window.phoneRadarAuto = {
         "HONOR",
         "爆料",
         "自动抓取"
-      ]
-    },
-    {
-      "id": "weibo-ac2c37d74e68",
-      "title": "数码闲聊站：确认了一下，iPhone 18 Pro系列、vivo X500系列、OPPO…",
-      "source": "数码闲聊站",
-      "brand": "HONOR",
-      "model": "HONOR 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-08-29",
-      "time": "08:16",
-      "publishedAt": "2026-08-29T08:16:15.000Z",
-      "url": "https://weibo.com/6048569942/RfDX8sZee",
-      "image": "",
-      "summary": "确认了一下，iPhone 18 Pro系列、vivo X500系列、OPPO Find X10系列、华为Mate90系列、小米18 Pro系列、荣耀Magic9系列，这些直板旗舰都会在9月开售，你们能在国庆假期之前拿到新机[笑而不语]",
-      "tags": [
-        "HONOR",
-        "爆料",
-        "微博"
       ]
     },
     {
