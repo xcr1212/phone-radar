@@ -1,12 +1,12 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-08-30T08:17:53.974Z",
+  "updatedAt": "2026-08-30T14:52:07.429Z",
   "issueDate": "2026-08-30",
   "issue": "VOL.260830",
   "title": "手机情报日报",
-  "intro": "今日筛出 14 条重点，其中 8 条是重点爆料，包含 2 条 iPhone 相关、1 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 15 条重点，其中 8 条是重点爆料，包含 5 条 iPhone 相关、1 条官方确认、0 条参数线索。",
   "stats": {
-    "total": 14,
-    "iphone": 2,
+    "total": 15,
+    "iphone": 5,
     "leaks": 8,
     "official": 1,
     "specs": 0
@@ -18,21 +18,21 @@ window.phoneRadarDaily = {
       "hint": "机模、配色、影像、屏幕、电池和芯片线索先看。",
       "items": [
         {
-          "id": "auto-c208ee6ab8da",
-          "title": "华为李小龙“认领”古早三折叠手机设计草稿：花了 11 年把梦想照进现实",
+          "id": "auto-ac04609ac70d",
+          "title": "iPhone 发布 / 上市相关消息",
           "originalTitle": "",
-          "source": "IT之家",
-          "brand": "Huawei",
+          "source": "9to5Mac",
+          "brand": "iPhone",
           "type": "爆料",
           "trust": "媒体汇总",
           "date": "2026-08-30",
-          "time": "04:14",
-          "publishedAt": "2026-08-30T04:14:41.000Z",
-          "url": "https://www.ithome.com/0/996/109.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/8/2d654983-312a-4c3b-a3f5-fc0685685b7d.jpg?x-bce-process=image/format,f_auto",
+          "time": "14:38",
+          "publishedAt": "2026-08-30T14:38:37.000Z",
+          "url": "https://9to5mac.com/2026/08/30/iphone-ultra-apple-pencil-support-tested/",
+          "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/iphone-ultra-concept-orange.jpg?quality=82&strip=all&w=1600",
           "verdict": "先看",
-          "takeaway": "IT之家 8 月 30 日消息，博主 @Welber 昨日分享了华为 Mate XT 2 三折叠手机 11 年前的早期手稿。 IT之家注意到，华为终端 BG CTO 李小龙刚刚“认领”了这张古早三折叠手机设计草稿，称：“ 花了 11 年把梦想照进现实。 ” 博主分享的图片显示，这张手稿由华为终端 BG CTO 李小龙于 2015 年 7 月 25 日绘制，…",
-          "detail": "IT之家 8 月 30 日消息，博主 @Welber 昨日分享了华为 Mate XT 2 三折叠手机 11 年前的早期手稿。 IT之家注意到，华为终端 BG CTO 李小龙刚刚“认领”了这张古早三折叠手机设计草稿，称：“ 花了 11 年把梦想照进现实。 ” 博主分享的图片显示，这张手稿由华为终端 BG CTO 李小龙于 2015 年 7 月 25 日绘制，…",
+          "takeaway": "iPhone 有发布或新功能消息，适合确认是否和新机有关。",
+          "detail": "iPhone 发布 / 上市相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
           "keyPoints": [
             "爆料"
           ],
@@ -41,47 +41,71 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
-          "id": "auto-e1ad08ae5a6a",
-          "title": "何刚谈华为 Mate XT 2 非凡大师全新展翼三折叠手机：极致美学、工艺与创新的集大成者",
+          "id": "auto-6a8b3aaea3d8",
+          "title": "iPhone 相关消息",
           "originalTitle": "",
-          "source": "IT之家",
-          "brand": "Huawei",
+          "source": "MacRumors",
+          "brand": "iPhone",
           "type": "爆料",
           "trust": "媒体汇总",
           "date": "2026-08-30",
-          "time": "03:24",
-          "publishedAt": "2026-08-30T03:24:35.000Z",
-          "url": "https://www.ithome.com/0/996/101.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/8/ab4c63e6-5340-4e3a-abcf-052b4e8ca0cf.jpg",
+          "time": "14:27",
+          "publishedAt": "2026-08-30T14:27:55.000Z",
+          "url": "https://www.macrumors.com/2026/08/30/apple-pencil-for-iphone-ultra-was-tested/",
+          "image": "https://images.macrumors.com/article-new/2026/08/Apple-Pencil-Pro-iPad-Pro.jpg",
           "verdict": "先看",
-          "takeaway": "IT之家 8 月 30 日消息，华为今日官宣了 Mate XT 2 非凡大师全新三折叠手机。据介绍，新机采用全新展翼三折叠设计。 华为终端 BG CEO 何刚随后发文谈及了 Mate XT 2 非凡大师全新展翼三折叠手机，并表示， 该机是极致美学、极致工艺、极致创新的集大成者 ，拥有全新的外观设计和开合方式。 可以看到，新机的后置摄像头部分采用与前代近似的…",
-          "detail": "IT之家 8 月 30 日消息，华为今日官宣了 Mate XT 2 非凡大师全新三折叠手机。据介绍，新机采用全新展翼三折叠设计。 华为终端 BG CEO 何刚随后发文谈及了 Mate XT 2 非凡大师全新展翼三折叠手机，并表示， 该机是极致美学、极致工艺、极致创新的集大成者 ，拥有全新的外观设计和开合方式。 可以看到，新机的后置摄像头部分采用与前代近似的…",
+          "takeaway": "iPhone 相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
+          "detail": "iPhone 相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
           "keyPoints": [
-            "外观 / 配色 / 尺寸"
+            "爆料来源"
+          ],
+          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "auto-1818f8d1fa72",
+          "title": "消息称小米 14 Pro 手机官方电池升级为 5140mAh，提升 260mAh",
+          "originalTitle": "",
+          "source": "IT之家",
+          "brand": "Xiaomi",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-08-30",
+          "time": "11:42",
+          "publishedAt": "2026-08-30T11:42:17.000Z",
+          "url": "https://www.ithome.com/0/996/223.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/8/de4f37fb-2e71-4f9a-ac52-8cdb1fad3a7c.jpg?x-bce-process=image/format,f_auto",
+          "verdict": "先看",
+          "takeaway": "IT之家 8 月 30 日消息，博主 @体验more 今日透露，小米 14 Pro 官方电池升级为 5140mAh（额定 5000mAh）， 提升了 260mAh 。 小米官方此前表示，普通换新是更换同规格新电池， 电池升级是在原有基础上再进一步，更换容量更大的电池 。目前已支持小米 13、13 Pro、13 Ultra 机型： Xiaomi 13：450…",
+          "detail": "IT之家 8 月 30 日消息，博主 @体验more 今日透露，小米 14 Pro 官方电池升级为 5140mAh（额定 5000mAh）， 提升了 260mAh 。 小米官方此前表示，普通换新是更换同规格新电池， 电池升级是在原有基础上再进一步，更换容量更大的电池 。目前已支持小米 13、13 Pro、13 Ultra 机型： Xiaomi 13：450…",
+          "keyPoints": [
+            "电池 / 充电",
+            "爆料来源"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
-          "id": "auto-b73fab902a55",
-          "title": "华为余承东：Mate XT 2 非凡大师展开后依旧是业界最薄、尺寸最大折叠屏手机",
+          "id": "auto-b30e2ba4230f",
+          "title": "华为 Mate XT 2 非凡大师三折叠手机核心配置曝光，有望首发麒麟 9050 Pro 处理器",
           "originalTitle": "",
           "source": "IT之家",
           "brand": "Huawei",
           "type": "爆料",
           "trust": "媒体汇总",
           "date": "2026-08-30",
-          "time": "02:21",
-          "publishedAt": "2026-08-30T02:21:26.000Z",
-          "url": "https://www.ithome.com/0/996/091.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/8/d08949df-b753-4b08-bdd1-7baeb9799f8c.jpg",
+          "time": "11:07",
+          "publishedAt": "2026-08-30T11:07:55.000Z",
+          "url": "https://www.ithome.com/0/996/219.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/8/99ceacd4-7e90-4f1f-8955-646b2669f547.jpg",
           "verdict": "先看",
-          "takeaway": "IT之家 8 月 30 日消息，华为常务董事、产品投资评审委员会主任、终端 BG 董事长余承东刚刚发文，介绍了 Mate XT 2 非凡大师全新三折叠手机的全新展翼设计。 两年前，我们发布华为 Mate XT 非凡大师，首创华为天工铰链系统，通过双轨联动，将一块超薄柔性大屏内外翻折，打造出全球首款商用三折叠手机！这一次，华为 MateXT 2 非凡大师作为…",
-          "detail": "IT之家 8 月 30 日消息，华为常务董事、产品投资评审委员会主任、终端 BG 董事长余承东刚刚发文，介绍了 Mate XT 2 非凡大师全新三折叠手机的全新展翼设计。 两年前，我们发布华为 Mate XT 非凡大师，首创华为天工铰链系统，通过双轨联动，将一块超薄柔性大屏内外翻折，打造出全球首款商用三折叠手机！这一次，华为 MateXT 2 非凡大师作为…",
+          "takeaway": "IT之家 8 月 30 日消息，华为今日官宣了 Mate XT 2 非凡大师全新三折叠手机。据介绍，新机采用全新展翼三折叠设计。 博主 @熊猫很禿然 刚刚发文，曝光了华为 Mate XT 2 非凡大师三折叠手机的核心配置。其中提到，新机将搭载麒麟 9050 Pro 处理器。 如果爆料属实，那么该机有望首发新一代麒麟旗舰平台 。 另外，爆料显示， Mate…",
+          "detail": "IT之家 8 月 30 日消息，华为今日官宣了 Mate XT 2 非凡大师全新三折叠手机。据介绍，新机采用全新展翼三折叠设计。 博主 @熊猫很禿然 刚刚发文，曝光了华为 Mate XT 2 非凡大师三折叠手机的核心配置。其中提到，新机将搭载麒麟 9050 Pro 处理器。 如果爆料属实，那么该机有望首发新一代麒麟旗舰平台 。 另外，爆料显示， Mate…",
           "keyPoints": [
-            "外观 / 配色 / 尺寸",
-            "屏幕形态"
+            "芯片 / 性能",
+            "爆料来源"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
@@ -137,52 +161,6 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
-          "id": "newsnow-f0a2f40b975d",
-          "title": "华为Mate XT2 三折叠手机亮相：八边形Deco，G型内折",
-          "originalTitle": "",
-          "source": "酷安热榜",
-          "brand": "Huawei",
-          "type": "爆料",
-          "trust": "高关注爆料源",
-          "date": "2026-08-30",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://www.coolapk.com/feed/73485149",
-          "image": "",
-          "verdict": "先看",
-          "takeaway": "华为Mate XT2 三折叠手机亮相：八边形Deco，G型内折",
-          "detail": "华为Mate XT2 三折叠手机亮相：八边形Deco，G型内折",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "newsnow-04e24893e0d2",
-          "title": "额，这话说得有点扯淡了，华为的折叠屏在国内是现象级的领先[受虐滑稽]",
-          "originalTitle": "",
-          "source": "酷安热榜",
-          "brand": "Huawei",
-          "type": "爆料",
-          "trust": "高关注爆料源",
-          "date": "2026-08-30",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://www.coolapk.com/feed/73473541",
-          "image": "",
-          "verdict": "先看",
-          "takeaway": "额，这话说得有点扯淡了，华为的折叠屏在国内是现象级的领先[受虐滑稽]",
-          "detail": "额，这话说得有点扯淡了，华为的折叠屏在国内是现象级的领先[受虐滑稽]",
-          "keyPoints": [
-            "屏幕形态"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
           "id": "weibo-ac2c37d74e68",
           "title": "数码闲聊站：确认了一下，iPhone 18 Pro系列、vivo X500系列、OPPO…",
           "originalTitle": "",
@@ -202,6 +180,29 @@ window.phoneRadarDaily = {
             "爆料来源"
           ],
           "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "coolapk-user-50756e1a195d",
+          "title": "竹本青：vivo手机内存升级官方活动将于8月31日结束",
+          "originalTitle": "",
+          "source": "竹本青",
+          "brand": "vivo",
+          "type": "爆料",
+          "trust": "高可信爆料",
+          "date": "2026-08-30",
+          "time": "12:45",
+          "publishedAt": "2026-08-30T12:45:07.000Z",
+          "url": "https://www.coolapk.com/feed/73507341",
+          "image": "http://image.coolapk.com/feed/2026/0830/20/4248714_9b2634ee_3903_2758_310@1440x1809.jpg",
+          "verdict": "先看",
+          "takeaway": "【vivo 手机「内存升级」官方活动 即将于明日结束】 ● 官方特惠，售价含手工费 ● 修后主板享90天质保 ● 未使用随时退款 ● 支持到店或邮寄送修 ▫️X90 Pro 12+256GB —— 1649元 ▫️X90 Pro 12+512GB —— 1749元 ▫️S18e 12+512GB —— 949元 ▫️S17e 12+256GB —— 749…",
+          "detail": "【vivo 手机「内存升级」官方活动 即将于明日结束】 ● 官方特惠，售价含手工费 ● 修后主板享90天质保 ● 未使用随时退款 ● 支持到店或邮寄送修 ▫️X90 Pro 12+256GB —— 1649元 ▫️X90 Pro 12+512GB —— 1749元 ▫️S18e 12+512GB —— 949元 ▫️S17e 12+256GB —— 749…",
+          "keyPoints": [
+            "成本 / 价格"
+          ],
+          "confidence": "可信度较高，但仍属于发布前线索。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         }
@@ -257,36 +258,29 @@ window.phoneRadarDaily = {
           "confidence": "官方内容，可直接作为已确认信息记录。",
           "impact": "可信度高，但如果不是配置/价格消息，只需要扫一眼。",
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        }
-      ]
-    },
-    {
-      "id": "launch",
-      "title": "新机与官方发布",
-      "hint": "能直接更新到参数库。",
-      "items": [
+        },
         {
-          "id": "auto-e9c343aedf3e",
-          "title": "小米 18 Pro 系列手机有望首发：防窥屏界面曝光，支付 / 转账等 4 类敏感场景自动开启",
+          "id": "newsnow-c87eae183b8c",
+          "title": "把「闪念胶囊」（Almost）放到 iPhone 锁屏",
           "originalTitle": "",
-          "source": "IT之家",
-          "brand": "Xiaomi",
-          "type": "爆料",
+          "source": "少数派热榜",
+          "brand": "iPhone",
+          "type": "评测",
           "trust": "媒体汇总",
           "date": "2026-08-30",
-          "time": "02:32",
-          "publishedAt": "2026-08-30T02:32:58.000Z",
-          "url": "https://www.ithome.com/0/996/093.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/8/b02b0c60-e6e1-41c1-a13a-5653ea623288.png?x-bce-process=image/format,f_auto",
-          "verdict": "先看",
-          "takeaway": "IT之家 8 月 30 日消息，消息源 @kacskrz 于 8 月 28 日在 X 平台发布推文，分享了 1 段视频和 3 张图片，从国际版 ROM 固件中挖掘发现小米防窥屏相关信息。 根据界面截图信息，该功能名为“智能隐私显示”（Smart privacy display），用户可创建应用分组，并为各组内应用分别配置隐私显示策略，形成按使用场景区分的设…",
-          "detail": "IT之家 8 月 30 日消息，消息源 @kacskrz 于 8 月 28 日在 X 平台发布推文，分享了 1 段视频和 3 张图片，从国际版 ROM 固件中挖掘发现小米防窥屏相关信息。 根据界面截图信息，该功能名为“智能隐私显示”（Smart privacy display），用户可创建应用分组，并为各组内应用分别配置隐私显示策略，形成按使用场景区分的设…",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://sspai.com/post/113219",
+          "image": "",
+          "verdict": "扫一眼",
+          "takeaway": "把「闪念胶囊」（Almost）放到 iPhone 锁屏",
+          "detail": "把「闪念胶囊」（Almost）放到 iPhone 锁屏",
           "keyPoints": [
-            "屏幕形态"
+            "评测"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "影响手感和显示体验，适合和其他机型对比。",
-          "action": "有具体参数就记录到参数库；没有参数就先收藏。"
+          "impact": "这是实际体验内容，买前适合重点看缺点和取舍。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         }
       ]
     },
@@ -357,6 +351,29 @@ window.phoneRadarDaily = {
           "verdict": "扫一眼",
           "takeaway": "蓝狐Aura A1小屏手机开售：首发1399元起",
           "detail": "蓝狐Aura A1小屏手机开售：首发1399元起",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        },
+        {
+          "id": "auto-49dfa94bc35b",
+          "title": "Pixel 相关消息",
+          "originalTitle": "",
+          "source": "Android Authority",
+          "brand": "Pixel",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-08-30",
+          "time": "11:00",
+          "publishedAt": "2026-08-30T11:00:52.000Z",
+          "url": "https://www.androidauthority.com/pixel-11-settings-change-tips-3702992/",
+          "image": "",
+          "verdict": "可略过",
+          "takeaway": "Pixel 相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
+          "detail": "Pixel 相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
           "keyPoints": [
             "爆料"
           ],

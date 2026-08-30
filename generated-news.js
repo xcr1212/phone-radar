@@ -1,9 +1,149 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-08-30T08:17:53.974Z",
+  "updatedAt": "2026-08-30T14:52:07.429Z",
   "news": [
     {
+      "id": "auto-ac04609ac70d",
+      "title": "Apple reportedly considered launching a new Apple Pencil for iPhone Ultra",
+      "source": "9to5Mac",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-30",
+      "time": "14:38",
+      "publishedAt": "2026-08-30T14:38:37.000Z",
+      "url": "https://9to5mac.com/2026/08/30/iphone-ultra-apple-pencil-support-tested/",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/iphone-ultra-concept-orange.jpg?quality=82&strip=all&w=1600",
+      "summary": "Apple’s first foldable iPhone should be making its debut in just over a week. In the development process, Apple was reportedly mulling the idea of launching a new Apple Pencil to…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-6a8b3aaea3d8",
+      "title": "Apple Pencil for iPhone Ultra Was Tested",
+      "source": "MacRumors",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-30",
+      "time": "14:27",
+      "publishedAt": "2026-08-30T14:27:55.000Z",
+      "url": "https://www.macrumors.com/2026/08/30/apple-pencil-for-iphone-ultra-was-tested/",
+      "image": "https://images.macrumors.com/article-new/2026/08/Apple-Pencil-Pro-iPad-Pro.jpg",
+      "summary": "Apple has internally prototyped, tested, and considered launching an Apple Pencil for the upcoming foldable iPhone, according to Bloomberg 's Mark Gurman . However, he said it is…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-50756e1a195d",
+      "title": "竹本青：vivo手机内存升级官方活动将于8月31日结束",
+      "source": "竹本青",
+      "brand": "vivo",
+      "model": "vivo 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-08-30",
+      "time": "12:45",
+      "publishedAt": "2026-08-30T12:45:07.000Z",
+      "url": "https://www.coolapk.com/feed/73507341",
+      "image": "http://image.coolapk.com/feed/2026/0830/20/4248714_9b2634ee_3903_2758_310@1440x1809.jpg",
+      "summary": "【vivo 手机「内存升级」官方活动 即将于明日结束】 ● 官方特惠，售价含手工费 ● 修后主板享90天质保 ● 未使用随时退款 ● 支持到店或邮寄送修 ▫️X90 Pro 12+256GB —— 1649元 ▫️X90 Pro 12+512GB —— 1749元 ▫️S18e 12+512GB —— 949元 ▫️S17e 12+256GB —— 749…",
+      "tags": [
+        "vivo",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-1818f8d1fa72",
+      "title": "消息称小米 14 Pro 手机官方电池升级为 5140mAh，提升 260mAh",
+      "source": "IT之家",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-30",
+      "time": "11:42",
+      "publishedAt": "2026-08-30T11:42:17.000Z",
+      "url": "https://www.ithome.com/0/996/223.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/8/de4f37fb-2e71-4f9a-ac52-8cdb1fad3a7c.jpg?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 8 月 30 日消息，博主 @体验more 今日透露，小米 14 Pro 官方电池升级为 5140mAh（额定 5000mAh）， 提升了 260mAh 。 小米官方此前表示，普通换新是更换同规格新电池， 电池升级是在原有基础上再进一步，更换容量更大的电池 。目前已支持小米 13、13 Pro、13 Ultra 机型： Xiaomi 13：450…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-b30e2ba4230f",
+      "title": "华为 Mate XT 2 非凡大师三折叠手机核心配置曝光，有望首发麒麟 9050 Pro 处理器",
+      "source": "IT之家",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-30",
+      "time": "11:07",
+      "publishedAt": "2026-08-30T11:07:55.000Z",
+      "url": "https://www.ithome.com/0/996/219.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/8/99ceacd4-7e90-4f1f-8955-646b2669f547.jpg",
+      "summary": "IT之家 8 月 30 日消息，华为今日官宣了 Mate XT 2 非凡大师全新三折叠手机。据介绍，新机采用全新展翼三折叠设计。 博主 @熊猫很禿然 刚刚发文，曝光了华为 Mate XT 2 非凡大师三折叠手机的核心配置。其中提到，新机将搭载麒麟 9050 Pro 处理器。 如果爆料属实，那么该机有望首发新一代麒麟旗舰平台 。 另外，爆料显示， Mate…",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-49dfa94bc35b",
+      "title": "Just get a Pixel 11? Here are the first 10 settings you need to change",
+      "source": "Android Authority",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-30",
+      "time": "11:00",
+      "publishedAt": "2026-08-30T11:00:52.000Z",
+      "url": "https://www.androidauthority.com/pixel-11-settings-change-tips-3702992/",
+      "image": "",
+      "summary": "Set up your new Pixel 11 properly with these 10 essential tweaks.",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-1a430cf6849c",
+      "title": "5 Android phones you should buy instead of the Google Pixel 11 Pro Fold",
+      "source": "Android Authority",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-30",
+      "time": "10:30",
+      "publishedAt": "2026-08-30T10:30:44.000Z",
+      "url": "https://www.androidauthority.com/google-pixel-11-pro-fold-alternatives-3698460/",
+      "image": "",
+      "summary": "These five phones are the Pixel 11 Pro Fold's fiercest competitors.",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
       "id": "coolapk-user-c93aee4ca730",
-      "title": "竹本青：【鸿蒙版 网易云音乐 官宣9月上架】 8月30日，网易正式官宣，鸿蒙版 网易云音乐 即将于9月上架，但具体日期暂时…",
+      "title": "竹本青：鸿蒙版网易云音乐官宣：9月上架",
       "source": "竹本青",
       "brand": "Huawei",
       "model": "Huawei 相关机型",
@@ -83,7 +223,7 @@ window.phoneRadarAuto = {
     },
     {
       "id": "coolapk-user-cb1c9be6f80b",
-      "title": "竹本青：【全新展翼形态｜余承东：华为Mate XT2 非凡大师展开后3.5mm，依旧是业界最薄、尺寸最大折叠屏手机】 ▫️…",
+      "title": "竹本青：华为Mate XT2 非凡大师预热：展开后3.5mm",
       "source": "竹本青",
       "brand": "Huawei",
       "model": "Huawei 相关机型",
@@ -102,128 +242,8 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-c208ee6ab8da",
-      "title": "华为李小龙“认领”古早三折叠手机设计草稿：花了 11 年把梦想照进现实",
-      "source": "IT之家",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-30",
-      "time": "04:14",
-      "publishedAt": "2026-08-30T04:14:41.000Z",
-      "url": "https://www.ithome.com/0/996/109.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/8/2d654983-312a-4c3b-a3f5-fc0685685b7d.jpg?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 8 月 30 日消息，博主 @Welber 昨日分享了华为 Mate XT 2 三折叠手机 11 年前的早期手稿。 IT之家注意到，华为终端 BG CTO 李小龙刚刚“认领”了这张古早三折叠手机设计草稿，称：“ 花了 11 年把梦想照进现实。 ” 博主分享的图片显示，这张手稿由华为终端 BG CTO 李小龙于 2015 年 7 月 25 日绘制，…",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-500322656323",
-      "title": "约 94% 准确率：手机配件 SweepLED 问世，成本不到 7 美元、5 秒内找出针孔摄像头",
-      "source": "IT之家",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-30",
-      "time": "03:56",
-      "publishedAt": "2026-08-30T03:56:49.000Z",
-      "url": "https://www.ithome.com/0/996/107.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/8/1e48c036-1b5b-440d-8171-1739eeba8683.jpg?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 8 月 30 日消息，韩媒 ETNews 今天（8 月 30 日）发布博文，报道称韩国科学技术院（KAIST）联合发布 SweepLED 技术， 成本不到 7 美元 （IT之家注：现汇率约合 47.2 元人民币） ，能在 5 秒内精准找到针孔摄像头，准确率达到 94%。 该研究由韩国科学技术院（KAIST）计算机学院韩俊（Jun Han）教授团队…",
-      "tags": [
-        "行业",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-e1ad08ae5a6a",
-      "title": "何刚谈华为 Mate XT 2 非凡大师全新展翼三折叠手机：极致美学、工艺与创新的集大成者",
-      "source": "IT之家",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-30",
-      "time": "03:24",
-      "publishedAt": "2026-08-30T03:24:35.000Z",
-      "url": "https://www.ithome.com/0/996/101.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/8/ab4c63e6-5340-4e3a-abcf-052b4e8ca0cf.jpg",
-      "summary": "IT之家 8 月 30 日消息，华为今日官宣了 Mate XT 2 非凡大师全新三折叠手机。据介绍，新机采用全新展翼三折叠设计。 华为终端 BG CEO 何刚随后发文谈及了 Mate XT 2 非凡大师全新展翼三折叠手机，并表示， 该机是极致美学、极致工艺、极致创新的集大成者 ，拥有全新的外观设计和开合方式。 可以看到，新机的后置摄像头部分采用与前代近似的…",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-f71ea8e1190e",
-      "title": "小米 18 Fold 首发长鑫 LPDDR6 内存，央视财经报道称“中国半导体两个好消息”",
-      "source": "IT之家",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-30",
-      "time": "03:11",
-      "publishedAt": "2026-08-30T03:11:37.000Z",
-      "url": "https://www.ithome.com/0/996/099.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/8/ae265d87-b32f-49fe-b5c2-aaf61e2f73ea.jpg?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 8 月 30 日消息，小米昨日官宣， Xiaomi 18 Fold 全球首发长鑫 LPDDR6 内存 ，9 月见。 IT之家注意到，央视新闻官方微博昨日发文报道“从“芯”到“存”，从单点技术突破到产业链协同发力！ 中国半导体两个好消息 ”： 8 月 29 日，长鑫存储宣布新一代 LPDDR6 内存正式量产，并首发搭载于小米 18Fold 旗舰折叠…",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-e9c343aedf3e",
-      "title": "小米 18 Pro 系列手机有望首发：防窥屏界面曝光，支付 / 转账等 4 类敏感场景自动开启",
-      "source": "IT之家",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-30",
-      "time": "02:32",
-      "publishedAt": "2026-08-30T02:32:58.000Z",
-      "url": "https://www.ithome.com/0/996/093.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/8/b02b0c60-e6e1-41c1-a13a-5653ea623288.png?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 8 月 30 日消息，消息源 @kacskrz 于 8 月 28 日在 X 平台发布推文，分享了 1 段视频和 3 张图片，从国际版 ROM 固件中挖掘发现小米防窥屏相关信息。 根据界面截图信息，该功能名为“智能隐私显示”（Smart privacy display），用户可创建应用分组，并为各组内应用分别配置隐私显示策略，形成按使用场景区分的设…",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-b73fab902a55",
-      "title": "华为余承东：Mate XT 2 非凡大师展开后依旧是业界最薄、尺寸最大折叠屏手机",
-      "source": "IT之家",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-30",
-      "time": "02:21",
-      "publishedAt": "2026-08-30T02:21:26.000Z",
-      "url": "https://www.ithome.com/0/996/091.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/8/d08949df-b753-4b08-bdd1-7baeb9799f8c.jpg",
-      "summary": "IT之家 8 月 30 日消息，华为常务董事、产品投资评审委员会主任、终端 BG 董事长余承东刚刚发文，介绍了 Mate XT 2 非凡大师全新三折叠手机的全新展翼设计。 两年前，我们发布华为 Mate XT 非凡大师，首创华为天工铰链系统，通过双轨联动，将一块超薄柔性大屏内外翻折，打造出全球首款商用三折叠手机！这一次，华为 MateXT 2 非凡大师作为…",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "coolapk-user-4ff8a215d65d",
-      "title": "竹本青：【华为Mate XT2 非凡大师 正式官宣：G型内折，中置药丸外屏，9月7号发布】 8月30日，华为正式官宣新款三…",
+      "title": "竹本青：华为Mate XT2非凡大师官宣：G型内折，9月7号发布",
       "source": "竹本青",
       "brand": "Huawei",
       "model": "Huawei 相关机型",
@@ -282,26 +302,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-5e7d98612366",
-      "title": "更新完OS4小掉帧随处可见[吃瓜]信息流太卡了尤其是抖音[噗] #REDMIK90Ultra# #HyperOS4#",
-      "source": "酷安热榜",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-08-30",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73484351",
-      "image": "",
-      "summary": "更新完OS4小掉帧随处可见[吃瓜]信息流太卡了尤其是抖音[噗] #REDMIK90Ultra# #HyperOS4#",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
       "id": "newsnow-da0751ec3299",
       "title": "兄弟们有没有看新闻，这也太吓人了吧，要是12+256搭配骁龙8e6这两个成本就要，4200，，加上屏幕摄像头基本的配件，2k屏幕加3个5000万摄像头加起来差不多1000采购价，其它零零散散电池马达麦克风扬声器这些比较便宜不过估计也要300打底，怎么算毛利率得低的不行，今年难不成要6499起步标准版？？？ 子戏性价比机型5999起步？ #小米18# #iQOO16# #HyperOS4#",
       "source": "酷安热榜",
@@ -315,6 +315,26 @@ window.phoneRadarAuto = {
       "url": "https://www.coolapk.com/feed/73483143",
       "image": "",
       "summary": "兄弟们有没有看新闻，这也太吓人了吧，要是12+256搭配骁龙8e6这两个成本就要，4200，，加上屏幕摄像头基本的配件，2k屏幕加3个5000万摄像头加起来差不多1000采购价，其它零零散散电池马达麦克风扬声器这些比较便宜不过估计也要300打底，怎么算毛利率得低的不行，今年难不成要6499起步标准版？？？ 子戏性价比机型5999起步？ #小米18# #iQ…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-5e7d98612366",
+      "title": "更新完OS4小掉帧随处可见[吃瓜]信息流太卡了尤其是抖音[噗] #REDMIK90Ultra# #HyperOS4#",
+      "source": "酷安热榜",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-08-30",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/73484351",
+      "image": "",
+      "summary": "更新完OS4小掉帧随处可见[吃瓜]信息流太卡了尤其是抖音[噗] #REDMIK90Ultra# #HyperOS4#",
       "tags": [
         "Xiaomi",
         "爆料",
@@ -382,68 +402,8 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-f0a2f40b975d",
-      "title": "华为Mate XT2 三折叠手机亮相：八边形Deco，G型内折",
-      "source": "酷安热榜",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-08-30",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73485149",
-      "image": "",
-      "summary": "华为Mate XT2 三折叠手机亮相：八边形Deco，G型内折",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-fd1e0b15a271",
-      "title": "扫码了小米，2026年还能卡住滑都滑不动就一个王者荣耀，后台啥也没，这还是8至尊，8至尊之下还能用吗？ #RedmiK90# #RedmiK90ProMax# #HyperOS4# 04还卡吗",
-      "source": "酷安热榜",
-      "brand": "HONOR",
-      "model": "HONOR 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-08-30",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73487768",
-      "image": "",
-      "summary": "扫码了小米，2026年还能卡住滑都滑不动就一个王者荣耀，后台啥也没，这还是8至尊，8至尊之下还能用吗？ #RedmiK90# #RedmiK90ProMax# #HyperOS4# 04还卡吗",
-      "tags": [
-        "HONOR",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-04e24893e0d2",
-      "title": "额，这话说得有点扯淡了，华为的折叠屏在国内是现象级的领先[受虐滑稽]",
-      "source": "酷安热榜",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-08-30",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73473541",
-      "image": "",
-      "summary": "额，这话说得有点扯淡了，华为的折叠屏在国内是现象级的领先[受虐滑稽]",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-74c22420fa20",
-      "title": "16岁少女车祸离世 手机被人捡走刷机",
+      "id": "newsnow-6068bb3d0943",
+      "title": "张靓颖演唱会掏出手机看歌词",
       "source": "百度热搜",
       "brand": "行业",
       "model": "智能手机市场",
@@ -452,9 +412,9 @@ window.phoneRadarAuto = {
       "date": "2026-08-30",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.baidu.com/s?wd=16%E5%B2%81%E5%B0%91%E5%A5%B3%E8%BD%A6%E7%A5%B8%E7%A6%BB%E4%B8%96+%E6%89%8B%E6%9C%BA%E8%A2%AB%E4%BA%BA%E6%8D%A1%E8%B5%B0%E5%88%B7%E6%9C%BA",
+      "url": "https://www.baidu.com/s?wd=%E5%BC%A0%E9%9D%93%E9%A2%96%E6%BC%94%E5%94%B1%E4%BC%9A%E6%8E%8F%E5%87%BA%E6%89%8B%E6%9C%BA%E7%9C%8B%E6%AD%8C%E8%AF%8D",
       "image": "",
-      "summary": "16岁少女车祸离世 手机被人捡走刷机",
+      "summary": "张靓颖演唱会掏出手机看歌词",
       "tags": [
         "行业",
         "爆料",
