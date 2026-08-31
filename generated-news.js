@@ -1,6 +1,386 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-08-31T13:47:27.662Z",
+  "updatedAt": "2026-08-31T20:03:39.895Z",
   "news": [
+    {
+      "id": "auto-d5ae736a7855",
+      "title": "Pixel 11 owners say their phones are waking up without being touched",
+      "source": "Android Authority",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-31",
+      "time": "19:58",
+      "publishedAt": "2026-08-31T19:58:04.000Z",
+      "url": "https://www.androidauthority.com/pixel-11-lift-to-check-phone-too-sensitive-3705133/",
+      "image": "",
+      "summary": "The reports on Reddit suggest one gesture is way too sensitive on the latest Pixels.",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-a6b3d315e879",
+      "title": "How to run Mario Kart 64 with native Metal rendering, high frame rate, and HD textures on iPhone [Video]",
+      "source": "9to5Mac",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-31",
+      "time": "19:50",
+      "publishedAt": "2026-08-31T19:50:57.000Z",
+      "url": "https://9to5mac.com/2026/08/31/how-to-run-mario-kart-64-with-native-metal-rendering-high-frame-rate-and-hd-textures-on-iphone-video/",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/Mario-Kart-64-SpaghettiPad-Tutorial-Native-Metal-Rendering-iPhone-018.jpg?quality=82&strip=all&w=1600",
+      "summary": "Love Mario Kart 64 and want to play it on iPhone? You may have tried Delta or another N64 emulator in the past to make that happen. And while that works, it’s now possible to run…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-20852e0bf1fa",
+      "title": "Pixel 11 Pro users report annoying crackling noises in videos",
+      "source": "Android Police",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-31",
+      "time": "19:28",
+      "publishedAt": "2026-08-31T19:28:10.000Z",
+      "url": "https://www.androidpolice.com/pixel-11-pro-users-report-annoying-crackling-noises-in-videos/",
+      "image": "",
+      "summary": "Video Boost or Audio Zoom could be to blame",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-fea76426a4be",
+      "title": "iPhone Ultra release timing: Here’s what the latest reporting says",
+      "source": "9to5Mac",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-31",
+      "time": "18:55",
+      "publishedAt": "2026-08-31T18:55:25.000Z",
+      "url": "https://9to5mac.com/2026/08/31/iphone-ultra-release-timing-heres-what-the-latest-reporting-says/",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/iphone-ultra-concept-blue.jpg?quality=82&strip=all&w=1600",
+      "summary": "Apple will unveil its foldable iPhone Ultra next week at the September event , but it’s unclear exactly when the new model will ship to users. Here’s what to expect per the latest…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-551882f014ff",
+      "title": "竹本青：【华为、小米、荣耀多款手机正式涨价，覆盖Mate 80系列、小米 17系列、Magic 8等】 9月1日资讯，今天…",
+      "source": "竹本青",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-08-31",
+      "time": "18:31",
+      "publishedAt": "2026-08-31T18:31:51.000Z",
+      "url": "https://www.coolapk.com/feed/73527352",
+      "image": "http://image.coolapk.com/feed/2026/0901/03/4248714_c08bf4bf_2803_9227_114@2136x1518.jpg",
+      "summary": "【华为、小米、荣耀多款手机正式涨价，覆盖Mate 80系列、小米 17系列、Magic 8等】 9月1日资讯，今天零时起，华为、小米、荣耀三家手机厂商对旗下部分机型上调售价，以下为涉及机型与对应调价幅度。 ● 华为 Mate 80：全系上调800元 12+256GB：4699元 → 5499元 12+512GB：5199元 → 5999元 16+512GB…",
+      "tags": [
+        "HONOR",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-3ed875ea9c3e",
+      "title": "iQOO Z11 Review: A Battery-Focused Mid-Ranger That Gets Most Things Right",
+      "source": "Gizmochina",
+      "brand": "vivo",
+      "model": "vivo 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-31",
+      "time": "18:27",
+      "publishedAt": "2026-08-31T18:27:50.000Z",
+      "url": "https://www.gizmochina.com/2026/08/31/iqoo-z11-review/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/08/iQOO-Z11-2-300x225.jpg?x23692",
+      "summary": "The iQOO Z11 is available in three distinct variants across different markets, with each version taking a different approach to hardware. The China model is powered by the MediaTe…",
+      "tags": [
+        "vivo",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-681a243cb955",
+      "title": "竹本青：【ColorOS 17 官方爆料：全局浮岛式导航、流体融合动效、柔性反馈系统】 ● 全局浮岛式导航： 设计贯穿全局…",
+      "source": "竹本青",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-08-31",
+      "time": "18:16",
+      "publishedAt": "2026-08-31T18:16:22.000Z",
+      "url": "https://www.coolapk.com/feed/73527281",
+      "image": "http://image.coolapk.com/feed/2026/0901/02/4248714_b505e76e_0178_8812_953-livepic@1584x1080.jpg",
+      "summary": "【ColorOS 17 官方爆料：全局浮岛式导航、流体融合动效、柔性反馈系统】 ● 全局浮岛式导航： 设计贯穿全局，覆盖几乎所有的内置应用，让全场景的视觉感受更加轻盈纯净；我们还进一步优化了全局圆角，让界面元素也呈现一致的温润自然。 ● 流体融合动效： 继承于ColorOS16的流体动效融合效果，将这一特性贯穿系统全局，无论是锁屏岛、通知的侧滑、应用搜索还…",
+      "tags": [
+        "OPPO",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-175322beae27",
+      "title": "Not good: Google's Video Boost offers nothing but static for Pixel 11 Pro users",
+      "source": "Android Central",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-08-31",
+      "time": "18:02",
+      "publishedAt": "2026-08-31T18:02:26.000Z",
+      "url": "https://www.androidcentral.com/phones/google-pixel/not-good-googles-video-boost-offers-nothing-but-static-for-pixel-11-pro-users",
+      "image": "https://cdn.mos.cms.futurecdn.net/r5QL39VYdE5Bru5sjS6uGK-1280-80.jpg",
+      "summary": "The Pixel 11 Pro launch is marred by emerging audio static issues when recording videos with \"Video Boost\" enabled.",
+      "tags": [
+        "Pixel",
+        "评测",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-efb2e8a7de61",
+      "title": "华为、小米、荣耀手机今日集体调价",
+      "source": "IT之家",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-31",
+      "time": "17:54",
+      "publishedAt": "2026-08-31T17:54:32.000Z",
+      "url": "https://www.ithome.com/0/996/694.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/9/342d5acb-1b7d-43fe-bcef-9e1f1c362bfd.png",
+      "summary": "IT之家 9 月 1 日消息，据博主 @旺仔百事通 消息，华为 Mate 80 系列和 华为畅享 90 Pro Max 今日（9 月 1 日）进行调价。 华为 Mate 80： 12GB+256GB 调价前 4,699 元，调价后 5,499 元 12GB+512GB 调价前 5,199 元，调价后 5,999 元 16GB+512GB 调价前 5,499…",
+      "tags": [
+        "HONOR",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-646a14045fe7",
+      "title": "2026 年 8 月全球桌面浏览器排行：Chrome 73.28%、Edge 10.46%、Firefox 5.31%",
+      "source": "IT之家",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-31",
+      "time": "17:13",
+      "publishedAt": "2026-08-31T17:13:33.000Z",
+      "url": "https://www.ithome.com/0/996/687.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/9/8dd52794-a5df-4aa8-8cfd-fe2d8921490f.png",
+      "summary": "IT之家 9 月 1 日消息，根据市场调查机构 Statcounter 公布的最新报告，2026 年 8 月全球桌面浏览器市场中， Chrome 依然稳居第一，占比 73.28% ；Edge 以 10.46% 的份额占据第二，Firefox 以 5.31% 位居第三。 全球桌面浏览器 Chrome 占比 73.28%，环比上升 2.61 个百分点 Edge…",
+      "tags": [
+        "行业",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-9b48999c7c79",
+      "title": "Samsung's Galaxy S26 Ultra fix backfires, swapping red tint for screen dots",
+      "source": "Android Police",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-31",
+      "time": "16:56",
+      "publishedAt": "2026-08-31T16:56:58.000Z",
+      "url": "https://www.androidpolice.com/samsungs-galaxy-s26-ultra-fix-backfires-swapping-red-tint-for-screen-dots/",
+      "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2026/03/samsung_galaxy_s26_ultra_privacy_display_menu-1.jpg",
+      "summary": "Software update doesn't do the trick",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-820b8e377109",
+      "title": "Read Tim Cook’s final message to Apple staff as CEO",
+      "source": "The Verge",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-31",
+      "time": "16:34",
+      "publishedAt": "2026-08-31T16:34:31.000Z",
+      "url": "https://www.theverge.com/tech/986832/read-tim-cooks-final-message-as-ceo-to-apple-staff",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/Screenshot-2026-06-08-at-1.01.41PM.png?quality=90&strip=all&crop=0,0,100,100",
+      "summary": "Steve Jobs' successor carried the torch of the iPhone and built Apple into a global powerhouse with few rivals. Since becoming CEO in 2011, Tim Cook has led the company to become…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-313409c189a7",
+      "title": "Galaxy Z Fold 8 is selling so well, Samsung is borrowing parts from the future",
+      "source": "Android Authority",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-31",
+      "time": "15:18",
+      "publishedAt": "2026-08-31T15:18:33.000Z",
+      "url": "https://www.androidauthority.com/samsung-galaxy-z-fold-8-ddi-demand-ramp-up-3704985/",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2026/08/Samsung-Galaxy-Z-Fold-8-3-scaled.jpg",
+      "summary": "The company is reportedly using future component reserves to fill the gap.",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-eb23f13c4de3",
+      "title": "Samsung might ditch Galaxy S27 Ultra's 3x and 5x cameras for an all-new zoom sensor",
+      "source": "Android Central",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-08-31",
+      "time": "15:07",
+      "publishedAt": "2026-08-31T15:07:53.000Z",
+      "url": "https://www.androidcentral.com/phones/samsung-galaxy/samsung-may-replace-two-galaxy-s27-ultra-telephoto-cameras-with-a-4x-zoom-lens",
+      "image": "https://cdn.mos.cms.futurecdn.net/HFLKfPMSoWGqmUUaAm5rHo-1280-80.jpg",
+      "summary": "Samsung could replace two S27 Ultra zoom cameras with just one new lens.",
+      "tags": [
+        "Samsung",
+        "评测",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-0a4ec399d6c7",
+      "title": "Galaxy S27 Scam Detection feature may arrive on older phones too",
+      "source": "SamMobile",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-31",
+      "time": "14:50",
+      "publishedAt": "2026-08-31T14:50:48.000Z",
+      "url": "https://www.sammobile.com/news/galaxy-s27-scam-detection-feature-may-arrive-on-older-phones-too/",
+      "image": "",
+      "summary": "Google launched the Scam Detection feature as a Pixel 9 series exclusive before bringing it to the Galaxy S26 series and the latest Galaxy foldable phones. Hints have been spotted…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-2fffcf8561e1",
+      "title": "Pixel 11 Pro bug causing static sounds in recordings while using Video Boost",
+      "source": "9to5Google",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-31",
+      "time": "14:45",
+      "publishedAt": "2026-08-31T14:45:00.000Z",
+      "url": "https://9to5google.com/2026/08/31/google-pixel-11-pro-bug-static-sounds-video/",
+      "image": "",
+      "summary": "Google continues to improve on video quality with each new Pixel release, but a bug on the Pixel 11 Pro series causes static audio issues when using the Video Boost feature. more…",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-26ba03ba507c",
+      "title": "iPhone 18 Pro is coming: Here’s what’s new with each model",
+      "source": "9to5Mac",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-31",
+      "time": "14:06",
+      "publishedAt": "2026-08-31T14:06:04.000Z",
+      "url": "https://9to5mac.com/2026/08/31/iphone-18-pro-is-coming-heres-whats-new-with-each-model/",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/iphone-18-pro-mockup-fi-new-color.jpg?quality=82&strip=all&w=1600",
+      "summary": "iPhone 18 Pro will be unveiled next week on September 9 , with new Pro and Pro Max models debuting. Here’s what rumors say is new with each model. more…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-f18a8edd5be8",
+      "title": "竹本青：【OriginOS 7 官方爆料：全新「液态动效」】 全新「液态动效」+更通透自然的全新材质，界面元素拥有了如液体…",
+      "source": "竹本青",
+      "brand": "vivo",
+      "model": "vivo 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-08-31",
+      "time": "14:01",
+      "publishedAt": "2026-08-31T14:01:58.000Z",
+      "url": "https://www.coolapk.com/feed/73523993",
+      "image": "http://image.coolapk.com/feed/2026/0831/22/4248714_f684a320_4916_4408_734-livepic@1440x1920.jpg",
+      "summary": "【OriginOS 7 官方爆料：全新「液态动效」】 全新「液态动效」+更通透自然的全新材质，界面元素拥有了如液体般的灵动。 底层技术全面升级，蓝河流畅引擎「虚拟显卡 4.0」重构了渲染管线和编译框架，渲染速度较 OriginOS 6 提升14%。同时，升级了拟真渲染，动效基于状态实时动态计算，并极致优化渲染逻辑。在动效体验大幅提升的前提下，以最佳能效控制…",
+      "tags": [
+        "vivo",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-548c7938c88a",
+      "title": "Xiaomi's Redmi Note 17 Pro Max has the best battery life of any phone — I still wouldn't use it",
+      "source": "Android Central",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-08-31",
+      "time": "13:59",
+      "publishedAt": "2026-08-31T13:59:42.000Z",
+      "url": "https://www.androidcentral.com/phones/xiaomi/redmi-note-17-pro-max-review",
+      "image": "https://cdn.mos.cms.futurecdn.net/4bpVWARHwX42nT2E4qYuRe-1280-80.jpg",
+      "summary": "The Redmi Note 17 Pro Max has a 9,210mAh battery, and it lasts two and a half days between charges. However, it has considerable downgrades in other areas.",
+      "tags": [
+        "Xiaomi",
+        "评测",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-2a7a04031260",
       "title": "Survey reveals your favorite Pixel 11 Pro XL alternatives",
@@ -162,26 +542,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "coolapk-user-1db4fe88aa75",
-      "title": "竹本青：安伯尼克RG 55G1 安卓掌机开售：骁龙G1 Gen2，首发899元起",
-      "source": "竹本青",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-08-31",
-      "time": "10:50",
-      "publishedAt": "2026-08-31T10:50:53.000Z",
-      "url": "https://www.coolapk.com/feed/73520976",
-      "image": "http://image.coolapk.com/feed/2026/0831/18/4248714_01db0526_3451_3264_41@1200x1620.png",
-      "summary": "【ANBERNIC 安伯尼克RG 55G1 安卓掌机现已开售：骁龙G1 Gen2，首发899元起】 4+64GB —— 899元 8+128GB —— 1049元 ● 骁龙G1 Gen2+主动散热风扇 ● 5.5英寸 IPS 1080P屏幕 ● 6000mAh电池+18W充电 ● 霍尔扳机+3D RGB霍尔摇杆 ● 安卓14系统｜蓝牙5.0｜ WiFi 5…",
-      "tags": [
-        "行业",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
       "id": "auto-c6b28b858b90",
       "title": "Honor Magic 9 Pro tipped with Android’s first square selfie camera and 200MP triple rear setup",
       "source": "Gizmochina",
@@ -262,26 +622,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "coolapk-user-da341fca1cc5",
-      "title": "竹本青：此举不亚于铁树开花 #鸿蒙7# #网易云音乐#",
-      "source": "竹本青",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-08-31",
-      "time": "10:17",
-      "publishedAt": "2026-08-31T10:17:00.000Z",
-      "url": "https://www.coolapk.com/feed/73520442",
-      "image": "",
-      "summary": "此举不亚于铁树开花 #鸿蒙7# #网易云音乐#",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
       "id": "auto-dd81c043a9e8",
       "title": "Vivo X300 E vs OnePlus 15: Which Flagship Smartphone Is Better?",
       "source": "Gizmochina",
@@ -338,26 +678,6 @@ window.phoneRadarAuto = {
       "tags": [
         "iPhone",
         "评测",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-fdfc5f98883c",
-      "title": "August 2025 security update is rolling out to Galaxy S25 more widely",
-      "source": "SamMobile",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-31",
-      "time": "09:39",
-      "publishedAt": "2026-08-31T09:39:49.000Z",
-      "url": "https://www.sammobile.com/news/galaxy-s25-august-2025-security-update-rolling-out-more-widely/",
-      "image": "",
-      "summary": "Samsung has released a new software update for the Galaxy S25 series globally. The update was first released in South Korea last week and is now expanding to several other countri…",
-      "tags": [
-        "Samsung",
-        "爆料",
         "自动抓取"
       ]
     },
@@ -462,26 +782,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-05a420322b91",
-      "title": "Galaxy S23 series gets the latest security update on the last day of the month",
-      "source": "SamMobile",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-31",
-      "time": "06:30",
-      "publishedAt": "2026-08-31T06:30:56.000Z",
-      "url": "https://www.sammobile.com/news/galaxy-s23-august-2026-security-update-last-day-month/",
-      "image": "https://www.sammobile.com/wp-content/uploads/2026/08/Samsung-Galaxy-S26-Plus-Ultra-August-2026-Security-Patch-South-Korea.jpg",
-      "summary": "Samsung has finally released the latest security update for the Galaxy S23 series. The new update comes on the last day of this month, as the company has been lagging in rolling o…",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "weibo-440b6fab1f56",
       "title": "数码闲聊站：独家信息：子系第一台万级大电池新机，工程机有超高刷直屏✓双芯性能平台✓对称双扬…",
       "source": "数码闲聊站",
@@ -542,6 +842,26 @@ window.phoneRadarAuto = {
       ]
     },
     {
+      "id": "coolapk-user-f5145f70949d",
+      "title": "JSCHEN小小狐：『华为 Mate XT 2 非凡大师上架：10:08 起预定』 配色：锦紫 / 皓白 / 玄黑 版本： 16GB…",
+      "source": "JSCHEN小小狐",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-08-31",
+      "time": "01:42",
+      "publishedAt": "2026-08-31T01:42:51.000Z",
+      "url": "https://www.coolapk.com/feed/73513139",
+      "image": "http://image.coolapk.com/feed/2026/0831/09/4702274_b0573657_0563_1744_395@800x800.png",
+      "summary": "『华为 Mate XT 2 非凡大师上架：10:08 起预定』 配色：锦紫 / 皓白 / 玄黑 版本： 16GB + 512GB 16GB + 1TB 16GB + 1TB 灵盾防窥屏 16GB + 2TB 手写笔套装（灵盾防窥屏） ◆ 全新展翼三折叠形态 ◆ 3.5mm 超纤薄机身 ◆ 整机可靠性跨越式提升 爆料参数： - “年度旗舰同款” 新一代 Pr…",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
       "id": "weibo-3cb29c2af909",
       "title": "数码闲聊站：Find X10 定位最强旗舰标准版，核心亮点多多： 同档唯一 8000mAh…",
       "source": "数码闲聊站",
@@ -582,6 +902,26 @@ window.phoneRadarAuto = {
       ]
     },
     {
+      "id": "newsnow-90d136fc6ab2",
+      "title": "全球首款阔直板探索计划：华为 Pura X View 新品有奖体验",
+      "source": "少数派热榜",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-08-31",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://sspai.com/post/113883",
+      "image": "",
+      "summary": "全球首款阔直板探索计划：华为 Pura X View 新品有奖体验",
+      "tags": [
+        "Huawei",
+        "评测",
+        "NewsNow"
+      ]
+    },
+    {
       "id": "newsnow-b1816b820ad7",
       "title": "把「闪念胶囊」（Almost）放到 iPhone 锁屏",
       "source": "少数派热榜",
@@ -602,8 +942,8 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-cd03bb50b191",
-      "title": "兄弟们有没有看新闻，这也太吓人了吧，要是12+256搭配骁龙8e6这两个成本就要，4200，，加上屏幕摄像头基本的配件，2k屏幕加3个5000万摄像头加起来差不多1000采购价，其它零零散散电池马达麦克风扬声器这些比较便宜不过估计也要300打底，怎么算毛利率得低的不行，今年难不成要6499起步标准版？？？ 子戏性价比机型5999起步？ #小米18# #iQOO16# #HyperOS4#",
+      "id": "newsnow-abdd7c16488d",
+      "title": "#数码日常# 我chovy，红米牛逼，小米牛逼[斗鸡眼滑稽]，今天骑车出车祸，人直接飞了三四米，红米被挂树上，居然没坏，Redmi牛逼[受虐滑稽]",
       "source": "酷安热榜",
       "brand": "Xiaomi",
       "model": "Xiaomi 相关机型",
@@ -612,9 +952,9 @@ window.phoneRadarAuto = {
       "date": "2026-08-31",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73483143",
+      "url": "https://www.coolapk.com/feed/73523253",
       "image": "",
-      "summary": "兄弟们有没有看新闻，这也太吓人了吧，要是12+256搭配骁龙8e6这两个成本就要，4200，，加上屏幕摄像头基本的配件，2k屏幕加3个5000万摄像头加起来差不多1000采购价，其它零零散散电池马达麦克风扬声器这些比较便宜不过估计也要300打底，怎么算毛利率得低的不行，今年难不成要6499起步标准版？？？ 子戏性价比机型5999起步？ #小米18# #iQ…",
+      "summary": "#数码日常# 我chovy，红米牛逼，小米牛逼[斗鸡眼滑稽]，今天骑车出车祸，人直接飞了三四米，红米被挂树上，居然没坏，Redmi牛逼[受虐滑稽]",
       "tags": [
         "Xiaomi",
         "爆料",
@@ -622,21 +962,61 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-ecbd70cd01e0",
-      "title": "vivo手机内存升级官方活动将于8月31日结束",
+      "id": "newsnow-aa40a93b47b4",
+      "title": "华为Mate 80系列调价：",
       "source": "酷安热榜",
-      "brand": "vivo",
-      "model": "vivo 相关机型",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-08-31",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73507341",
+      "url": "https://www.coolapk.com/feed/73526560",
       "image": "",
-      "summary": "vivo手机内存升级官方活动将于8月31日结束",
+      "summary": "华为Mate 80系列调价：",
       "tags": [
-        "vivo",
+        "Huawei",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-8903665efe5e",
+      "title": "9月1日0点Mate80全系列调价了？建议零售价Pro Max涨1000元，Pro涨1000元，标准版涨800元！",
+      "source": "酷安热榜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-08-31",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/73526204",
+      "image": "",
+      "summary": "9月1日0点Mate80全系列调价了？建议零售价Pro Max涨1000元，Pro涨1000元，标准版涨800元！",
+      "tags": [
+        "行业",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-ba9f903cadcd",
+      "title": "根据b站荧的测试，9050pro的单核性能似乎达到了2200，多核性能8500，也就是单核8gen3，多核8gen3.5的水平，对比9030pro的单核8+，多核8gen3的水平，提升应该是挺大的吧[呲牙][呲牙][呲牙]#鸿蒙7# #华为MateXT2# #华为PuraXView#",
+      "source": "酷安热榜",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-08-31",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/73526337",
+      "image": "",
+      "summary": "根据b站荧的测试，9050pro的单核性能似乎达到了2200，多核性能8500，也就是单核8gen3，多核8gen3.5的水平，对比9030pro的单核8+，多核8gen3的水平，提升应该是挺大的吧[呲牙][呲牙][呲牙]#鸿蒙7# #华为MateXT2# #华为PuraXView#",
+      "tags": [
+        "Huawei",
         "爆料",
         "NewsNow"
       ]
