@@ -1,14 +1,14 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-08-31T20:03:39.895Z",
+  "updatedAt": "2026-08-31T23:50:05.385Z",
   "issueDate": "2026-08-31",
   "issue": "VOL.260831",
   "title": "手机情报日报",
-  "intro": "今日筛出 12 条重点，其中 8 条是重点爆料，包含 6 条 iPhone 相关、1 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 10 条重点，其中 8 条是重点爆料，包含 4 条 iPhone 相关、0 条官方确认、0 条参数线索。",
   "stats": {
-    "total": 12,
-    "iphone": 6,
+    "total": 10,
+    "iphone": 4,
     "leaks": 8,
-    "official": 1,
+    "official": 0,
     "specs": 0
   },
   "sections": [
@@ -17,29 +17,6 @@ window.phoneRadarDaily = {
       "title": "重点爆料",
       "hint": "机模、配色、影像、屏幕、电池和芯片线索先看。",
       "items": [
-        {
-          "id": "auto-e3bda93f019d",
-          "title": "正面和背面看起来不像一个时代，HMD Asha 305 Pro 手机曝光",
-          "originalTitle": "",
-          "source": "IT之家",
-          "brand": "iPhone",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-08-31",
-          "time": "10:37",
-          "publishedAt": "2026-08-31T10:37:11.000Z",
-          "url": "https://www.ithome.com/0/996/612.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/8/e77eb7da-ae27-4a71-ad31-268cf9fe135d.jpg?x-bce-process=image/format,f_auto",
-          "verdict": "先看",
-          "takeaway": "IT之家 8 月 31 日消息，X 平台消息源 @smashx_60 今日曝光 HMD Asha 305 Pro 手机。从外观来看，这台手机的正面非常复古，跟 2017 年以前的中低端机型无异；而背面却有着类似近年 iPhone 1X Pro 的摄像头模组，两个面看起来不像是同一个时代的产物。 据介绍，这款手机可选黑色、粉色，搭载 5.0 英寸 FWVGA…",
-          "detail": "IT之家 8 月 31 日消息，X 平台消息源 @smashx_60 今日曝光 HMD Asha 305 Pro 手机。从外观来看，这台手机的正面非常复古，跟 2017 年以前的中低端机型无异；而背面却有着类似近年 iPhone 1X Pro 的摄像头模组，两个面看起来不像是同一个时代的产物。 据介绍，这款手机可选黑色、粉色，搭载 5.0 英寸 FWVGA…",
-          "keyPoints": [
-            "外观 / 配色 / 尺寸"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
         {
           "id": "auto-2357e23b4c88",
           "title": "折叠屏 iPhone 永远不该配手写笔｜硬哲学",
@@ -158,6 +135,29 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
+          "id": "auto-70fcda2569e0",
+          "title": "华为 Mate XT 2 非凡大师三折叠手机首搭灵盾防窥屏，杨幂在片场首秀内屏防窥模式",
+          "originalTitle": "",
+          "source": "IT之家",
+          "brand": "Huawei",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-08-31",
+          "time": "23:20",
+          "publishedAt": "2026-08-31T23:20:40.000Z",
+          "url": "https://www.ithome.com/0/996/704.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/8/e69d5d4d-66bd-4597-84ae-b90c94d36225.jpg?x-bce-process=image/format,f_auto",
+          "verdict": "先看",
+          "takeaway": "IT之家 9 月 1 日消息，华为 Mate XT 2 非凡大师全新展翼三折叠手机已于昨日 10:08 开启预订。 根据华为官网信息， 华为 Mate XT 2 非凡大师的 16GB+1TB 规格可选“灵盾防窥屏”版本 ，同时紫色款的 16GB+2TB 规格则标配“灵盾防窥屏”。这也是华为首次在手机上提供“灵盾防窥屏”可选。 IT之家注意到，杨幂片场路透显…",
+          "detail": "IT之家 9 月 1 日消息，华为 Mate XT 2 非凡大师全新展翼三折叠手机已于昨日 10:08 开启预订。 根据华为官网信息， 华为 Mate XT 2 非凡大师的 16GB+1TB 规格可选“灵盾防窥屏”版本 ，同时紫色款的 16GB+2TB 规格则标配“灵盾防窥屏”。这也是华为首次在手机上提供“灵盾防窥屏”可选。 IT之家注意到，杨幂片场路透显…",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
           "id": "weibo-3cb29c2af909",
           "title": "数码闲聊站：Find X10 定位最强旗舰标准版，核心亮点多多： 同档唯一 8000mAh…",
           "originalTitle": "",
@@ -209,40 +209,33 @@ window.phoneRadarDaily = {
       ]
     },
     {
-      "id": "iphone",
-      "title": "iPhone 重点",
-      "hint": "不是硬件爆料，但和 iPhone 体验或路线有关。",
-      "items": [
-        {
-          "id": "auto-9bbf43c61c96",
-          "title": "iPhone 系统功能 / AI 体验相关消息",
-          "originalTitle": "",
-          "source": "Apple Newsroom",
-          "brand": "iPhone",
-          "type": "官方",
-          "trust": "官方确认",
-          "date": "2026-08-31",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://www.apple.com/newsroom/2026/06/apple-announces-changes-to-ios-in-brazil/",
-          "image": "",
-          "verdict": "先看",
-          "takeaway": "iPhone 系统功能 / AI 体验相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
-          "detail": "iPhone 系统功能 / AI 体验相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
-          "keyPoints": [
-            "官方"
-          ],
-          "confidence": "官方内容，可直接作为已确认信息记录。",
-          "impact": "可信度高，但如果不是配置/价格消息，只需要扫一眼。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        }
-      ]
-    },
-    {
       "id": "market",
       "title": "行业趋势",
       "hint": "看方向，不急着当购买依据。",
       "items": [
+        {
+          "id": "auto-0b6a7fbaba0c",
+          "title": "IT早报 0901：华为、小米、荣耀手机今日集体调价；库克担任苹果 CEO 最后一天给员工发告别信；曝网易全系产品将登陆华为鸿蒙系统；国内首部 AIGC 长剧《后西游记》开播...",
+          "originalTitle": "",
+          "source": "IT之家",
+          "brand": "HONOR",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-08-31",
+          "time": "23:44",
+          "publishedAt": "2026-08-31T23:44:23.000Z",
+          "url": "https://www.ithome.com/0/996/709.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/9/a1cc0c13-36a1-4f94-a8b3-67aafc604de4.png",
+          "verdict": "先看",
+          "takeaway": "“IT早报”时间，大家好，现在是 2026 年 9 月 1 日星期二，今天的重要科技资讯有： 1. 华为、小米、荣耀手机 9 月 1 日集体调价 华为 Mate 80 系列和 华为畅享 90 Pro Max 9 月 1 日进行调价。荣耀 Power2 和 Magic8 两款产品今日进行调价。小米 17 系列、 REDMI K90 系列等进行了调价。>> 查…",
+          "detail": "“IT早报”时间，大家好，现在是 2026 年 9 月 1 日星期二，今天的重要科技资讯有： 1. 华为、小米、荣耀手机 9 月 1 日集体调价 华为 Mate 80 系列和 华为畅享 90 Pro Max 9 月 1 日进行调价。荣耀 Power2 和 Magic8 两款产品今日进行调价。小米 17 系列、 REDMI K90 系列等进行了调价。>> 查…",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "中文源可以直接点开快读；看完只保留和购机有关的点。"
+        },
         {
           "id": "auto-efb2e8a7de61",
           "title": "华为、小米、荣耀手机今日集体调价",
@@ -265,52 +258,6 @@ window.phoneRadarDaily = {
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
           "action": "中文源可以直接点开快读；看完只保留和购机有关的点。"
-        },
-        {
-          "id": "coolapk-user-551882f014ff",
-          "title": "竹本青：【华为、小米、荣耀多款手机正式涨价，覆盖Mate 80系列、小米 17系列、Magic 8等】 9月1日资讯，今天…",
-          "originalTitle": "",
-          "source": "竹本青",
-          "brand": "HONOR",
-          "type": "爆料",
-          "trust": "高可信爆料",
-          "date": "2026-08-31",
-          "time": "18:31",
-          "publishedAt": "2026-08-31T18:31:51.000Z",
-          "url": "https://www.coolapk.com/feed/73527352",
-          "image": "http://image.coolapk.com/feed/2026/0901/03/4248714_c08bf4bf_2803_9227_114@2136x1518.jpg",
-          "verdict": "扫一眼",
-          "takeaway": "【华为、小米、荣耀多款手机正式涨价，覆盖Mate 80系列、小米 17系列、Magic 8等】 9月1日资讯，今天零时起，华为、小米、荣耀三家手机厂商对旗下部分机型上调售价，以下为涉及机型与对应调价幅度。 ● 华为 Mate 80：全系上调800元 12+256GB：4699元 → 5499元 12+512GB：5199元 → 5999元 16+512GB…",
-          "detail": "【华为、小米、荣耀多款手机正式涨价，覆盖Mate 80系列、小米 17系列、Magic 8等】 9月1日资讯，今天零时起，华为、小米、荣耀三家手机厂商对旗下部分机型上调售价，以下为涉及机型与对应调价幅度。 ● 华为 Mate 80：全系上调800元 12+256GB：4699元 → 5499元 12+512GB：5199元 → 5999元 16+512GB…",
-          "keyPoints": [
-            "成本 / 价格"
-          ],
-          "confidence": "可信度较高，但仍属于发布前线索。",
-          "impact": "影响购买预算，值得先看。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
-        {
-          "id": "coolapk-user-80a8c5efe4fc",
-          "title": "竹本青：【华为用户分享使用卫星通信脱险经历，李小龙转发】 8月31日，华为终端BG CTO李小龙在社交平台转发一则网友分享…",
-          "originalTitle": "",
-          "source": "竹本青",
-          "brand": "Huawei",
-          "type": "爆料",
-          "trust": "高可信爆料",
-          "date": "2026-08-31",
-          "time": "12:31",
-          "publishedAt": "2026-08-31T12:31:01.000Z",
-          "url": "https://www.coolapk.com/feed/73522373",
-          "image": "http://image.coolapk.com/feed/2026/0831/20/4248714_e16a88de_9459_0822_983@1440x1562.jpg",
-          "verdict": "扫一眼",
-          "takeaway": "【华为用户分享使用卫星通信脱险经历，李小龙转发】 8月31日，华为终端BG CTO李小龙在社交平台转发一则网友分享内容。 这名网友表示，自己亲历了尼泊尔泥石流灾害。当地出现断网，他借助华为手机北斗卫星短信的功能，对外发送了带有地理位置的信息，后续得以联系直升机转移并至安全地带。 据悉，华为北斗卫星短信功能，可在无地面网络信号覆盖的空旷环境下，不依赖蜂窝、无…",
-          "detail": "【华为用户分享使用卫星通信脱险经历，李小龙转发】 8月31日，华为终端BG CTO李小龙在社交平台转发一则网友分享内容。 这名网友表示，自己亲历了尼泊尔泥石流灾害。当地出现断网，他借助华为手机北斗卫星短信的功能，对外发送了带有地理位置的信息，后续得以联系直升机转移并至安全地带。 据悉，华为北斗卫星短信功能，可在无地面网络信号覆盖的空旷环境下，不依赖蜂窝、无…",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "可信度较高，但仍属于发布前线索。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         }
       ]
     }

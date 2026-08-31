@@ -1,6 +1,126 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-08-31T20:03:39.895Z",
+  "updatedAt": "2026-08-31T23:50:05.385Z",
   "news": [
+    {
+      "id": "auto-0b6a7fbaba0c",
+      "title": "IT早报 0901：华为、小米、荣耀手机今日集体调价；库克担任苹果 CEO 最后一天给员工发告别信；曝网易全系产品将登陆华为鸿蒙系统；国内首部 AIGC 长剧《后西游记》开播...",
+      "source": "IT之家",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-31",
+      "time": "23:44",
+      "publishedAt": "2026-08-31T23:44:23.000Z",
+      "url": "https://www.ithome.com/0/996/709.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/9/a1cc0c13-36a1-4f94-a8b3-67aafc604de4.png",
+      "summary": "“IT早报”时间，大家好，现在是 2026 年 9 月 1 日星期二，今天的重要科技资讯有： 1. 华为、小米、荣耀手机 9 月 1 日集体调价 华为 Mate 80 系列和 华为畅享 90 Pro Max 9 月 1 日进行调价。荣耀 Power2 和 Magic8 两款产品今日进行调价。小米 17 系列、 REDMI K90 系列等进行了调价。>> 查…",
+      "tags": [
+        "HONOR",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-820b8e377109",
+      "title": "Read Tim Cook’s final message to Apple staff as CEO",
+      "source": "The Verge",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-31",
+      "time": "23:27",
+      "publishedAt": "2026-08-31T23:27:48.000Z",
+      "url": "https://www.theverge.com/tech/986832/read-tim-cooks-final-message-as-ceo-to-apple-staff",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/Screenshot-2026-06-08-at-1.01.41PM.png?quality=90&strip=all&crop=0,0,100,100",
+      "summary": "Steve Jobs' successor carried the torch of the iPhone and built Apple into a global powerhouse with few rivals. Since becoming CEO in 2011, Tim Cook has led the company to become…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-70fcda2569e0",
+      "title": "华为 Mate XT 2 非凡大师三折叠手机首搭灵盾防窥屏，杨幂在片场首秀内屏防窥模式",
+      "source": "IT之家",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-31",
+      "time": "23:20",
+      "publishedAt": "2026-08-31T23:20:40.000Z",
+      "url": "https://www.ithome.com/0/996/704.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/8/e69d5d4d-66bd-4597-84ae-b90c94d36225.jpg?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 9 月 1 日消息，华为 Mate XT 2 非凡大师全新展翼三折叠手机已于昨日 10:08 开启预订。 根据华为官网信息， 华为 Mate XT 2 非凡大师的 16GB+1TB 规格可选“灵盾防窥屏”版本 ，同时紫色款的 16GB+2TB 规格则标配“灵盾防窥屏”。这也是华为首次在手机上提供“灵盾防窥屏”可选。 IT之家注意到，杨幂片场路透显…",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-fac19de9176c",
+      "title": "Galaxy S27 and S27 Plus could finally get a meaningful zoom camera upgrade",
+      "source": "Android Authority",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-31",
+      "time": "21:40",
+      "publishedAt": "2026-08-31T21:40:31.000Z",
+      "url": "https://www.androidauthority.com/galaxy-s27-and-s27-plus-zoom-camera-rumor-3705167/",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2026/03/samsung-galaxy-s26-base-review-camera-sensors-scaled.jpg",
+      "summary": "A new leak suggests they'll feature the same 3x telephoto system as the S27 Pro.",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-4299b5ca787e",
+      "title": "Galaxy S27 Ultra could ditch 5x periscope telephoto for a 4x telephoto with larger sensor",
+      "source": "Gizmochina",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-31",
+      "time": "21:25",
+      "publishedAt": "2026-08-31T21:25:12.000Z",
+      "url": "https://www.gizmochina.com/2026/08/31/galaxy-s27-ultra-could-ditch-5x-periscope-telephoto-for-a-4x-telephoto-with-larger-sensor/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/08/HRBdcUvXEAANEgI-300x169.jpg?x23692",
+      "summary": "Samsung is preparing for a major camera refresh for the Galaxy S Ultra model for 2027. The Galaxy S27 Ultra was previously rumored to ditch the 3x telephoto camera, and now we hav…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-144c6bfdae14",
+      "title": "iPhone 18 Pro: Three reasons you might want to upgrade from iPhone 17 Pro",
+      "source": "9to5Mac",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-31",
+      "time": "20:21",
+      "publishedAt": "2026-08-31T20:21:16.000Z",
+      "url": "https://9to5mac.com/2026/08/31/iphone-18-pro-three-reasons-you-might-want-to-upgrade-from-iphone-17-pro/",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/04/iphone-17-pro-silver-camera-plateau.jpg?quality=82&strip=all&w=1600",
+      "summary": "iPhone 18 Pro will be unveiled next week , and while most iPhone 17 Pro owners won’t upgrade so soon, for those considering a new iPhone there are three main features likely to mo…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-d5ae736a7855",
       "title": "Pixel 11 owners say their phones are waking up without being touched",
@@ -217,26 +337,6 @@ window.phoneRadarAuto = {
       "summary": "Software update doesn't do the trick",
       "tags": [
         "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-820b8e377109",
-      "title": "Read Tim Cook’s final message to Apple staff as CEO",
-      "source": "The Verge",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-31",
-      "time": "16:34",
-      "publishedAt": "2026-08-31T16:34:31.000Z",
-      "url": "https://www.theverge.com/tech/986832/read-tim-cooks-final-message-as-ceo-to-apple-staff",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/Screenshot-2026-06-08-at-1.01.41PM.png?quality=90&strip=all&crop=0,0,100,100",
-      "summary": "Steve Jobs' successor carried the torch of the iPhone and built Apple into a global powerhouse with few rivals. Since becoming CEO in 2011, Tim Cook has led the company to become…",
-      "tags": [
-        "iPhone",
         "爆料",
         "自动抓取"
       ]
@@ -562,26 +662,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-e3bda93f019d",
-      "title": "正面和背面看起来不像一个时代，HMD Asha 305 Pro 手机曝光",
-      "source": "IT之家",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-31",
-      "time": "10:37",
-      "publishedAt": "2026-08-31T10:37:11.000Z",
-      "url": "https://www.ithome.com/0/996/612.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/8/e77eb7da-ae27-4a71-ad31-268cf9fe135d.jpg?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 8 月 31 日消息，X 平台消息源 @smashx_60 今日曝光 HMD Asha 305 Pro 手机。从外观来看，这台手机的正面非常复古，跟 2017 年以前的中低端机型无异；而背面却有着类似近年 iPhone 1X Pro 的摄像头模组，两个面看起来不像是同一个时代的产物。 据介绍，这款手机可选黑色、粉色，搭载 5.0 英寸 FWVGA…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-b682ec30dcda",
       "title": "I lived with Samsung’s worst 2025 Android phone for a year. Here’s why I’m finally giving up",
       "source": "Android Authority",
@@ -597,26 +677,6 @@ window.phoneRadarAuto = {
       "summary": "I tried so hard to love the Galaxy S25 Edge, but I couldn't keep it.",
       "tags": [
         "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-69377efbbc56",
-      "title": "Huawei’s Mate XT2 proves Samsung’s tri-fold design was right all along",
-      "source": "SamMobile",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-31",
-      "time": "10:21",
-      "publishedAt": "2026-08-31T10:21:37.000Z",
-      "url": "https://www.sammobile.com/news/huawei-mate-xt2-proves-samsung-tri-fold-design-right-all-along/",
-      "image": "https://www.sammobile.com/wp-content/uploads/2026/08/Huawei-Mate-XT2-Rear-Camera-Design-Open-Purple.jpg",
-      "summary": "Samsung's first tri-folding phone, the Galaxy Z TriFold, launched last year and served mostly as a technological showcase for the company. While it was not the world's first tri-f…",
-      "tags": [
-        "Huawei",
         "爆料",
         "自动抓取"
       ]
