@@ -1,11 +1,11 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-08-31T23:50:05.385Z",
-  "issueDate": "2026-08-31",
-  "issue": "VOL.260831",
+  "updatedAt": "2026-09-01T05:06:18.906Z",
+  "issueDate": "2026-09-01",
+  "issue": "VOL.260901",
   "title": "手机情报日报",
-  "intro": "今日筛出 10 条重点，其中 8 条是重点爆料，包含 4 条 iPhone 相关、0 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 8 条重点，其中 8 条是重点爆料，包含 4 条 iPhone 相关、0 条官方确认、0 条参数线索。",
   "stats": {
-    "total": 10,
+    "total": 8,
     "iphone": 4,
     "leaks": 8,
     "official": 0,
@@ -17,6 +17,29 @@ window.phoneRadarDaily = {
       "title": "重点爆料",
       "hint": "机模、配色、影像、屏幕、电池和芯片线索先看。",
       "items": [
+        {
+          "id": "auto-45cb00d74582",
+          "title": "碎屏背后的选择题：苹果 iPhone 独立维修案时隔 4 年重回法庭",
+          "originalTitle": "",
+          "source": "IT之家",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-09-01",
+          "time": "01:46",
+          "publishedAt": "2026-09-01T01:46:49.000Z",
+          "url": "https://www.ithome.com/0/996/760.htm",
+          "image": "",
+          "verdict": "先看",
+          "takeaway": "IT之家 9 月 1 日消息，科技媒体 AppleInsider 昨日（8 月 31 日）发布博文，报道称美国加州第六区上诉法院上月（2026 年 8 月）推翻此前驳回决定， 恢复 2 名消费者在 2022 年提出针对苹果第三方维修的相关诉讼。 IT之家援引博文介绍，这起法律纠纷可以追溯到 2021 年，Jesse Granato 和 Janice Zar…",
+          "detail": "IT之家 9 月 1 日消息，科技媒体 AppleInsider 昨日（8 月 31 日）发布博文，报道称美国加州第六区上诉法院上月（2026 年 8 月）推翻此前驳回决定， 恢复 2 名消费者在 2022 年提出针对苹果第三方维修的相关诉讼。 IT之家援引博文介绍，这起法律纠纷可以追溯到 2021 年，Jesse Granato 和 Janice Zar…",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
         {
           "id": "auto-2357e23b4c88",
           "title": "折叠屏 iPhone 永远不该配手写笔｜硬哲学",
@@ -88,29 +111,6 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
-          "id": "auto-ac04609ac70d",
-          "title": "iPhone 发布 / 上市相关消息",
-          "originalTitle": "",
-          "source": "9to5Mac",
-          "brand": "iPhone",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-08-30",
-          "time": "14:38",
-          "publishedAt": "2026-08-30T14:38:37.000Z",
-          "url": "https://9to5mac.com/2026/08/30/iphone-ultra-apple-pencil-support-tested/",
-          "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/iphone-ultra-concept-orange.jpg?quality=82&strip=all&w=1600",
-          "verdict": "先看",
-          "takeaway": "iPhone 有发布或新功能消息，适合确认是否和新机有关。",
-          "detail": "iPhone 发布 / 上市相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
           "id": "coolapk-user-f5145f70949d",
           "title": "JSCHEN小小狐：『华为 Mate XT 2 非凡大师上架：10:08 起预定』 配色：锦紫 / 皓白 / 玄黑 版本： 16GB…",
           "originalTitle": "",
@@ -135,21 +135,21 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
-          "id": "auto-70fcda2569e0",
-          "title": "华为 Mate XT 2 非凡大师三折叠手机首搭灵盾防窥屏，杨幂在片场首秀内屏防窥模式",
+          "id": "auto-52e4c55b7b8a",
+          "title": "荣耀 WIN 系列第一代手机确认在正式版本风扇区域取消导热凝胶设计",
           "originalTitle": "",
           "source": "IT之家",
-          "brand": "Huawei",
+          "brand": "HONOR",
           "type": "爆料",
           "trust": "媒体汇总",
-          "date": "2026-08-31",
-          "time": "23:20",
-          "publishedAt": "2026-08-31T23:20:40.000Z",
-          "url": "https://www.ithome.com/0/996/704.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/8/e69d5d4d-66bd-4597-84ae-b90c94d36225.jpg?x-bce-process=image/format,f_auto",
+          "date": "2026-09-01",
+          "time": "05:05",
+          "publishedAt": "2026-09-01T05:05:23.000Z",
+          "url": "https://www.ithome.com/0/996/885.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/9/92d00dd8-5f1f-470a-8480-7a9a373c68f2.jpg",
           "verdict": "先看",
-          "takeaway": "IT之家 9 月 1 日消息，华为 Mate XT 2 非凡大师全新展翼三折叠手机已于昨日 10:08 开启预订。 根据华为官网信息， 华为 Mate XT 2 非凡大师的 16GB+1TB 规格可选“灵盾防窥屏”版本 ，同时紫色款的 16GB+2TB 规格则标配“灵盾防窥屏”。这也是华为首次在手机上提供“灵盾防窥屏”可选。 IT之家注意到，杨幂片场路透显…",
-          "detail": "IT之家 9 月 1 日消息，华为 Mate XT 2 非凡大师全新展翼三折叠手机已于昨日 10:08 开启预订。 根据华为官网信息， 华为 Mate XT 2 非凡大师的 16GB+1TB 规格可选“灵盾防窥屏”版本 ，同时紫色款的 16GB+2TB 规格则标配“灵盾防窥屏”。这也是华为首次在手机上提供“灵盾防窥屏”可选。 IT之家注意到，杨幂片场路透显…",
+          "takeaway": "IT之家 9 月 1 日消息， 荣耀 WIN 手机导热凝胶问题近日引发热议，荣耀 WIN 手机产品经理 @赢王MHGA 今日发布说明，确认 WIN 系列第一代手机在正式版本风扇区域取消了导热凝胶设计。 IT之家附完整说明如下： 这几天大家在讨论的关于我们荣耀 WIN 手机导热凝胶问题，我作为产品经理，从技术原理和用户体验角度做下拆解分析： 产品的性能 &…",
+          "detail": "IT之家 9 月 1 日消息， 荣耀 WIN 手机导热凝胶问题近日引发热议，荣耀 WIN 手机产品经理 @赢王MHGA 今日发布说明，确认 WIN 系列第一代手机在正式版本风扇区域取消了导热凝胶设计。 IT之家附完整说明如下： 这几天大家在讨论的关于我们荣耀 WIN 手机导热凝胶问题，我作为产品经理，从技术原理和用户体验角度做下拆解分析： 产品的性能 &…",
           "keyPoints": [
             "爆料"
           ],
@@ -158,24 +158,23 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
-          "id": "weibo-3cb29c2af909",
-          "title": "数码闲聊站：Find X10 定位最强旗舰标准版，核心亮点多多： 同档唯一 8000mAh…",
+          "id": "auto-371c486d4d43",
+          "title": "iQOO 16 新机外观超前瞻：全新方形 Deco + 大 R 角设计，背板是独家研发的新工艺",
           "originalTitle": "",
-          "source": "数码闲聊站",
-          "brand": "OPPO",
+          "source": "IT之家",
+          "brand": "vivo",
           "type": "爆料",
-          "trust": "高关注爆料源",
-          "date": "2026-08-31",
-          "time": "01:35",
-          "publishedAt": "2026-08-31T01:35:00.000Z",
-          "url": "https://weibo.com/6048569942/RfUbgk0yw",
-          "image": "https://tvax2.sinaimg.cn/mw2000/006BlblIgy1igkf7r0l7nj30xv0f4q7c.jpg",
+          "trust": "媒体汇总",
+          "date": "2026-09-01",
+          "time": "03:32",
+          "publishedAt": "2026-09-01T03:32:26.000Z",
+          "url": "https://www.ithome.com/0/996/856.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/9/463a0830-46e6-4c2f-80c0-f6e26a7ab8f1.jpg",
           "verdict": "先看",
-          "takeaway": "Find X10 定位最强旗舰标准版，核心亮点多多： 同档唯一 8000mAh大电池 ✓ 同档唯一 主摄+长焦双2亿+色彩还原镜头 ✓ 同档唯一 BT.2020超广色域+行业最高有益红光 ✓ Tips：苹果今年没有标准版，不少厂商今年也不太敢讲标准版，OPPO 这次给友商上压力了[笑而不语]",
-          "detail": "Find X10 定位最强旗舰标准版，核心亮点多多： 同档唯一 8000mAh大电池 ✓ 同档唯一 主摄+长焦双2亿+色彩还原镜头 ✓ 同档唯一 BT.2020超广色域+行业最高有益红光 ✓ Tips：苹果今年没有标准版，不少厂商今年也不太敢讲标准版，OPPO 这次给友商上压力了[笑而不语]",
+          "takeaway": "IT之家 9 月 1 日消息，博主 @数码闲聊站 今日分享了 iQOO 16 新机的外观超前瞻： 全新方形 Deco+ 大 R 角设计 ，三颗摄像头被串联起来，真机在 Deco 外框和底层纹理都有一些设计小巧思， 精密机械感更强 ，有点像 UFO，有种天外来物的感觉，视觉设计很有辨识度。 背板是独家研发的新工艺， 整体设计走未来科幻美学风 ，在新旗舰阵营中…",
+          "detail": "IT之家 9 月 1 日消息，博主 @数码闲聊站 今日分享了 iQOO 16 新机的外观超前瞻： 全新方形 Deco+ 大 R 角设计 ，三颗摄像头被串联起来，真机在 Deco 外框和底层纹理都有一些设计小巧思， 精密机械感更强 ，有点像 UFO，有种天外来物的感觉，视觉设计很有辨识度。 背板是独家研发的新工艺， 整体设计走未来科幻美学风 ，在新旗舰阵营中…",
           "keyPoints": [
-            "影像硬件",
-            "电池 / 充电",
+            "外观 / 配色 / 尺寸",
             "爆料来源"
           ],
           "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
@@ -183,81 +182,27 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
-          "id": "coolapk-user-681a243cb955",
-          "title": "竹本青：【ColorOS 17 官方爆料：全局浮岛式导航、流体融合动效、柔性反馈系统】 ● 全局浮岛式导航： 设计贯穿全局…",
+          "id": "auto-fdf42cf6d959",
+          "title": "华为小米荣耀客服回应手机涨价",
           "originalTitle": "",
-          "source": "竹本青",
-          "brand": "OPPO",
+          "source": "IT之家",
+          "brand": "HONOR",
           "type": "爆料",
-          "trust": "高可信爆料",
-          "date": "2026-08-31",
-          "time": "18:16",
-          "publishedAt": "2026-08-31T18:16:22.000Z",
-          "url": "https://www.coolapk.com/feed/73527281",
-          "image": "http://image.coolapk.com/feed/2026/0901/02/4248714_b505e76e_0178_8812_953-livepic@1584x1080.jpg",
+          "trust": "媒体汇总",
+          "date": "2026-09-01",
+          "time": "03:04",
+          "publishedAt": "2026-09-01T03:04:00.000Z",
+          "url": "https://www.ithome.com/0/996/815.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/9/b980f18b-8081-4745-b519-534fb3a33af7.png",
           "verdict": "先看",
-          "takeaway": "【ColorOS 17 官方爆料：全局浮岛式导航、流体融合动效、柔性反馈系统】 ● 全局浮岛式导航： 设计贯穿全局，覆盖几乎所有的内置应用，让全场景的视觉感受更加轻盈纯净；我们还进一步优化了全局圆角，让界面元素也呈现一致的温润自然。 ● 流体融合动效： 继承于ColorOS16的流体动效融合效果，将这一特性贯穿系统全局，无论是锁屏岛、通知的侧滑、应用搜索还…",
-          "detail": "【ColorOS 17 官方爆料：全局浮岛式导航、流体融合动效、柔性反馈系统】 ● 全局浮岛式导航： 设计贯穿全局，覆盖几乎所有的内置应用，让全场景的视觉感受更加轻盈纯净；我们还进一步优化了全局圆角，让界面元素也呈现一致的温润自然。 ● 流体融合动效： 继承于ColorOS16的流体动效融合效果，将这一特性贯穿系统全局，无论是锁屏岛、通知的侧滑、应用搜索还…",
+          "takeaway": "IT之家 9 月 1 日消息，华为、小米、荣耀等品牌手机 今日（9 月 1 日）凌晨迎来集体涨价 ，涨价产品覆盖多个机型。 据中国新闻网报道，华为客服回应称， 因关键物料市场价格调整 ，产品成本上涨，对应售价进行相应调整。 小米客服则表示， 受核心元器件采购成本持续上涨影响 ，对相关产品适当调整了零售价格。 荣耀客服回复称， 产品价格及活动会根据市场需求进…",
+          "detail": "IT之家 9 月 1 日消息，华为、小米、荣耀等品牌手机 今日（9 月 1 日）凌晨迎来集体涨价 ，涨价产品覆盖多个机型。 据中国新闻网报道，华为客服回应称， 因关键物料市场价格调整 ，产品成本上涨，对应售价进行相应调整。 小米客服则表示， 受核心元器件采购成本持续上涨影响 ，对相关产品适当调整了零售价格。 荣耀客服回复称， 产品价格及活动会根据市场需求进…",
           "keyPoints": [
-            "外观 / 配色 / 尺寸",
-            "爆料来源"
+            "成本 / 价格"
           ],
-          "confidence": "可信度较高，但仍属于发布前线索。",
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        }
-      ]
-    },
-    {
-      "id": "market",
-      "title": "行业趋势",
-      "hint": "看方向，不急着当购买依据。",
-      "items": [
-        {
-          "id": "auto-0b6a7fbaba0c",
-          "title": "IT早报 0901：华为、小米、荣耀手机今日集体调价；库克担任苹果 CEO 最后一天给员工发告别信；曝网易全系产品将登陆华为鸿蒙系统；国内首部 AIGC 长剧《后西游记》开播...",
-          "originalTitle": "",
-          "source": "IT之家",
-          "brand": "HONOR",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-08-31",
-          "time": "23:44",
-          "publishedAt": "2026-08-31T23:44:23.000Z",
-          "url": "https://www.ithome.com/0/996/709.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/9/a1cc0c13-36a1-4f94-a8b3-67aafc604de4.png",
-          "verdict": "先看",
-          "takeaway": "“IT早报”时间，大家好，现在是 2026 年 9 月 1 日星期二，今天的重要科技资讯有： 1. 华为、小米、荣耀手机 9 月 1 日集体调价 华为 Mate 80 系列和 华为畅享 90 Pro Max 9 月 1 日进行调价。荣耀 Power2 和 Magic8 两款产品今日进行调价。小米 17 系列、 REDMI K90 系列等进行了调价。>> 查…",
-          "detail": "“IT早报”时间，大家好，现在是 2026 年 9 月 1 日星期二，今天的重要科技资讯有： 1. 华为、小米、荣耀手机 9 月 1 日集体调价 华为 Mate 80 系列和 华为畅享 90 Pro Max 9 月 1 日进行调价。荣耀 Power2 和 Magic8 两款产品今日进行调价。小米 17 系列、 REDMI K90 系列等进行了调价。>> 查…",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "中文源可以直接点开快读；看完只保留和购机有关的点。"
-        },
-        {
-          "id": "auto-efb2e8a7de61",
-          "title": "华为、小米、荣耀手机今日集体调价",
-          "originalTitle": "",
-          "source": "IT之家",
-          "brand": "HONOR",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-08-31",
-          "time": "17:54",
-          "publishedAt": "2026-08-31T17:54:32.000Z",
-          "url": "https://www.ithome.com/0/996/694.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/9/342d5acb-1b7d-43fe-bcef-9e1f1c362bfd.png",
-          "verdict": "先看",
-          "takeaway": "IT之家 9 月 1 日消息，据博主 @旺仔百事通 消息，华为 Mate 80 系列和 华为畅享 90 Pro Max 今日（9 月 1 日）进行调价。 华为 Mate 80： 12GB+256GB 调价前 4,699 元，调价后 5,499 元 12GB+512GB 调价前 5,199 元，调价后 5,999 元 16GB+512GB 调价前 5,499…",
-          "detail": "IT之家 9 月 1 日消息，据博主 @旺仔百事通 消息，华为 Mate 80 系列和 华为畅享 90 Pro Max 今日（9 月 1 日）进行调价。 华为 Mate 80： 12GB+256GB 调价前 4,699 元，调价后 5,499 元 12GB+512GB 调价前 5,199 元，调价后 5,999 元 16GB+512GB 调价前 5,499…",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "中文源可以直接点开快读；看完只保留和购机有关的点。"
         }
       ]
     }

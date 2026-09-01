@@ -1,24 +1,644 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-08-31T23:50:05.385Z",
+  "updatedAt": "2026-09-01T05:06:18.906Z",
   "news": [
     {
-      "id": "auto-0b6a7fbaba0c",
-      "title": "IT早报 0901：华为、小米、荣耀手机今日集体调价；库克担任苹果 CEO 最后一天给员工发告别信；曝网易全系产品将登陆华为鸿蒙系统；国内首部 AIGC 长剧《后西游记》开播...",
+      "id": "auto-faffe967715e",
+      "title": "[Interview] The People Behind the Galaxy Z Fold8 Series’ Camera Innovations ①: How My FanCam Keeps Favorite People in Focus",
+      "source": "Samsung Newsroom",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "官方",
+      "trust": "官方确认",
+      "date": "2026-09-01",
+      "time": "09:00",
+      "publishedAt": "2026-09-01T09:00:00.000Z",
+      "url": "https://news.samsung.com/global/interview-the-people-behind-the-galaxy-z-fold8-series-camera-innovations-%e2%91%a0-how-my-fancam-keeps-favorite-people-in-focus",
+      "image": "https://img.global.news.samsung.com/global/wp-content/uploads/2026/09/31160827/Samsung-Mobile-Galaxy-Z-Fold8-series-My-FanCam-Interview_Thumb932-728x410.jpg",
+      "summary": "Unveiled at Galaxy Unpacked July 2026, Samsung Electronics’ Galaxy Z Fold8 series introduces My FanCam — a new feature that lets users focus their edits on a person of their choic…",
+      "tags": [
+        "Samsung",
+        "官方",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "weibo-16e4837ef349",
+      "title": "数码闲聊站：iQOO16一个外观超前瞻： 全新方形Deco+大R角设计，三颗摄像头被串联起…",
+      "source": "数码闲聊站",
+      "brand": "vivo",
+      "model": "vivo 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-09-01",
+      "time": "05:06",
+      "publishedAt": "2026-09-01T05:06:18.906Z",
+      "url": "https://weibo.com/6048569942/Rg4kqgAOR",
+      "image": "https://tvax3.sinaimg.cn/mw2000/006BlblIgy1igo0955z8ej31fy0sgtbh.jpg",
+      "summary": "iQOO16一个外观超前瞻： 全新方形Deco+大R角设计，三颗摄像头被串联起来，真机在Deco外框和底层纹理都有一些设计小巧思，精密机械感更强，有点像UFO，有种天外来物的感觉，视觉设计很有辨识度。 背板是独家研发的新工艺，整体设计走未来科幻美学风，在新旗舰阵营中，很有视觉冲击力[笑而不语]",
+      "tags": [
+        "vivo",
+        "爆料",
+        "微博"
+      ]
+    },
+    {
+      "id": "weibo-1e0266776592",
+      "title": "数码闲聊站：独家信息：加加16定版影像方案： 安排子系唯一200Mp 1/1.4\"大底主摄…",
+      "source": "数码闲聊站",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-09-01",
+      "time": "05:06",
+      "publishedAt": "2026-09-01T05:06:18.906Z",
+      "url": "https://weibo.com/6048569942/Rg3X43c5U",
+      "image": "",
+      "summary": "独家信息，加加16定版影像方案： 安排子系唯一200Mp 1/1.4\"大底主摄； 升级50Mp 3X 1/1.95\"索尼潜望长焦； 全新50Mp超广角+50Mp AF前摄； 最新一代旗舰影像技术完整继承，横向看也是最强影像性能旗舰，该有的都有了[NO]",
+      "tags": [
+        "行业",
+        "爆料",
+        "微博"
+      ]
+    },
+    {
+      "id": "weibo-4093e8304808",
+      "title": "数码闲聊站：多款手机正式涨价，可以推测迭代新机的价格： 华为Mate90 12+256GB…",
+      "source": "数码闲聊站",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-09-01",
+      "time": "05:06",
+      "publishedAt": "2026-09-01T05:06:18.906Z",
+      "url": "https://weibo.com/6048569942/Rg3tfFq81",
+      "image": "",
+      "summary": "多款手机正式涨价，可以推测迭代新机的价格： 华为Mate90 12+256GB ≥ 5499元 华为Mate90 Pro 12+256GB ≥ 6999元 华为Mate90 Pro Max 16+512GB ≥ 8999元 荣耀Magic9 12+256GB ≥ 4799元 小米18 Pro 12+256GB ≥ 5699元 小米18 Pro Max 12…",
+      "tags": [
+        "HONOR",
+        "爆料",
+        "微博"
+      ]
+    },
+    {
+      "id": "auto-52e4c55b7b8a",
+      "title": "荣耀 WIN 系列第一代手机确认在正式版本风扇区域取消导热凝胶设计",
       "source": "IT之家",
       "brand": "HONOR",
       "model": "HONOR 相关机型",
       "type": "爆料",
       "trust": "媒体汇总",
-      "date": "2026-08-31",
-      "time": "23:44",
-      "publishedAt": "2026-08-31T23:44:23.000Z",
-      "url": "https://www.ithome.com/0/996/709.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/9/a1cc0c13-36a1-4f94-a8b3-67aafc604de4.png",
-      "summary": "“IT早报”时间，大家好，现在是 2026 年 9 月 1 日星期二，今天的重要科技资讯有： 1. 华为、小米、荣耀手机 9 月 1 日集体调价 华为 Mate 80 系列和 华为畅享 90 Pro Max 9 月 1 日进行调价。荣耀 Power2 和 Magic8 两款产品今日进行调价。小米 17 系列、 REDMI K90 系列等进行了调价。>> 查…",
+      "date": "2026-09-01",
+      "time": "05:05",
+      "publishedAt": "2026-09-01T05:05:23.000Z",
+      "url": "https://www.ithome.com/0/996/885.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/9/92d00dd8-5f1f-470a-8480-7a9a373c68f2.jpg",
+      "summary": "IT之家 9 月 1 日消息， 荣耀 WIN 手机导热凝胶问题近日引发热议，荣耀 WIN 手机产品经理 @赢王MHGA 今日发布说明，确认 WIN 系列第一代手机在正式版本风扇区域取消了导热凝胶设计。 IT之家附完整说明如下： 这几天大家在讨论的关于我们荣耀 WIN 手机导热凝胶问题，我作为产品经理，从技术原理和用户体验角度做下拆解分析： 产品的性能 &…",
       "tags": [
         "HONOR",
         "爆料",
         "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-39430fcd3761",
+      "title": "竹本青：华为/小米/荣耀客服回应手机涨价：产品成本上涨",
+      "source": "竹本青",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-09-01",
+      "time": "03:39",
+      "publishedAt": "2026-09-01T03:39:14.000Z",
+      "url": "https://www.coolapk.com/feed/73531147",
+      "image": "http://image.coolapk.com/feed/2026/0901/11/4248714_b06586ae_3953_0621_96@690x435.jpg",
+      "summary": "【华为/小米/荣耀 客服回应手机涨价：产品成本上涨，对应调整售价】 9月1日资讯，今天零时起，华为、小米、荣耀三家厂商对旗下部分机型上调售价。针对此事，中国新闻网分别咨询了三家品牌客服： 华为客服回应称，因关键物料市场价格调整，产品成本上涨，对应售价进行相应调整。 小米客服则表示，受核心元器件采购成本持续上涨影响，对相关产品适当调整了零售价格。 荣耀客服回…",
+      "tags": [
+        "HONOR",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-371c486d4d43",
+      "title": "iQOO 16 新机外观超前瞻：全新方形 Deco + 大 R 角设计，背板是独家研发的新工艺",
+      "source": "IT之家",
+      "brand": "vivo",
+      "model": "vivo 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-01",
+      "time": "03:32",
+      "publishedAt": "2026-09-01T03:32:26.000Z",
+      "url": "https://www.ithome.com/0/996/856.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/9/463a0830-46e6-4c2f-80c0-f6e26a7ab8f1.jpg",
+      "summary": "IT之家 9 月 1 日消息，博主 @数码闲聊站 今日分享了 iQOO 16 新机的外观超前瞻： 全新方形 Deco+ 大 R 角设计 ，三颗摄像头被串联起来，真机在 Deco 外框和底层纹理都有一些设计小巧思， 精密机械感更强 ，有点像 UFO，有种天外来物的感觉，视觉设计很有辨识度。 背板是独家研发的新工艺， 整体设计走未来科幻美学风 ，在新旗舰阵营中…",
+      "tags": [
+        "vivo",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-cca744e79426",
+      "title": "竹本青：iQOO16 外观超前瞻：大R角方形Deco，新工艺背板",
+      "source": "竹本青",
+      "brand": "vivo",
+      "model": "vivo 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-09-01",
+      "time": "03:28",
+      "publishedAt": "2026-09-01T03:28:18.000Z",
+      "url": "https://www.coolapk.com/feed/73530977",
+      "image": "http://image.coolapk.com/feed/2026/0901/11/4248714_ae9e419a_3296_3726_744-livepic@2560x1440.jpg",
+      "summary": "【iQOO16 外观超前瞻：大R角方形Deco，新工艺背板】 ● Deco：全新方形+大R角设计，外框和底层纹理精密机械感更强 ● 背板：独家研发新工艺，未来科幻美学风 #今日热点# #OriginOS7# #iQOO16#",
+      "tags": [
+        "vivo",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-fdf42cf6d959",
+      "title": "华为小米荣耀客服回应手机涨价",
+      "source": "IT之家",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-01",
+      "time": "03:04",
+      "publishedAt": "2026-09-01T03:04:00.000Z",
+      "url": "https://www.ithome.com/0/996/815.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/9/b980f18b-8081-4745-b519-534fb3a33af7.png",
+      "summary": "IT之家 9 月 1 日消息，华为、小米、荣耀等品牌手机 今日（9 月 1 日）凌晨迎来集体涨价 ，涨价产品覆盖多个机型。 据中国新闻网报道，华为客服回应称， 因关键物料市场价格调整 ，产品成本上涨，对应售价进行相应调整。 小米客服则表示， 受核心元器件采购成本持续上涨影响 ，对相关产品适当调整了零售价格。 荣耀客服回复称， 产品价格及活动会根据市场需求进…",
+      "tags": [
+        "HONOR",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-f809bf093bea",
+      "title": "OnePlus 16 detailed camera specs leak reveals 200MP main sensor, 50MP AF selfie camera, and more",
+      "source": "Gizmochina",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-01",
+      "time": "03:02",
+      "publishedAt": "2026-09-01T03:02:23.000Z",
+      "url": "https://www.gizmochina.com/2026/09/01/oneplus-16-camera-specifications-leaked/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2025/11/OnePlus-15-300x188.png?x23692",
+      "summary": "OnePlus is expected to announce the OnePlus 16 by early October in China. Ahead of the launch, reliable tipster Digital Chat Station has been consistently leaking details about th…",
+      "tags": [
+        "OPPO",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-75040ed939e5",
+      "title": "一加 16 手机定版影像方案曝光，搭载子系唯一 200Mp 1/1.4\" 大底主摄",
+      "source": "IT之家",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-01",
+      "time": "02:48",
+      "publishedAt": "2026-09-01T02:48:58.000Z",
+      "url": "https://www.ithome.com/0/996/794.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/9/39b088bf-4aef-408f-83e4-48ba91665402.png?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 9 月 1 日消息，博主 @数码闲聊站 今日曝光了一加 16 手机的定版影像方案： 安排子系唯一 200Mp 1/1.4\" 大底主摄； 升级 50Mp 3X 1/1.95\" 索尼潜望长焦； 全新 50Mp 超广角 +50Mp AF 前摄。 博主表示，最新一代旗舰影像技术完整继承，横向看也是最强影像性能旗舰， 该有的都有了 。 有网友询问一加 16…",
+      "tags": [
+        "OPPO",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-0c386c97a794",
+      "title": "vivo X500 Pro 系列手机官宣首发支持行业最高规格「4K 240fps 高光慢动作视频」录制",
+      "source": "IT之家",
+      "brand": "vivo",
+      "model": "vivo 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-01",
+      "time": "02:34",
+      "publishedAt": "2026-09-01T02:34:14.000Z",
+      "url": "https://www.ithome.com/0/996/787.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/9/f47c04de-9c9e-459f-8b74-4c2d5cd02eaa.jpg",
+      "summary": "IT之家 9 月 1 日消息，vivo 通信科技有限公司产品经理韩伯啸今日宣布，基于「蔡司超动态主摄」， X500 Pro 系列将首发支持行业最高规格的「4K 240fps 高光慢动作视频」录制 。韩伯啸称，在电影级主摄镜头的加持下，X500 Pro 系列手机可以拍出电影级的高画质、高分辨率和高帧率。 样片如下： 同时， 基于此能力 vivo 还将实现行业…",
+      "tags": [
+        "vivo",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-3e9be073bcbc",
+      "title": "小米 18 Fold 有望成小米首款起价破万元的手机",
+      "source": "IT之家",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-01",
+      "time": "01:51",
+      "publishedAt": "2026-09-01T01:51:19.000Z",
+      "url": "https://www.ithome.com/0/996/761.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/8/e21eda46-b6a8-49af-bcb2-8e4d57d20244.jpg",
+      "summary": "IT之家 9 月 1 日消息，据 36 氪昨日报道，小米已向全渠道头部经销商明确： 小米 18 Fold 全版本售价均将超万元，起售版本定价在 12,000 元左右 。 如果爆料属实，小米 18 Fold 将成为小米首款起价破万元的手机。 报道称，此次小米 18 Fold 作为小米新折叠形态的首款产品，定位小米手机产品线最高端机型，将会汇集内部包括小米玄戒…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-45cb00d74582",
+      "title": "碎屏背后的选择题：苹果 iPhone 独立维修案时隔 4 年重回法庭",
+      "source": "IT之家",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-01",
+      "time": "01:46",
+      "publishedAt": "2026-09-01T01:46:49.000Z",
+      "url": "https://www.ithome.com/0/996/760.htm",
+      "image": "",
+      "summary": "IT之家 9 月 1 日消息，科技媒体 AppleInsider 昨日（8 月 31 日）发布博文，报道称美国加州第六区上诉法院上月（2026 年 8 月）推翻此前驳回决定， 恢复 2 名消费者在 2022 年提出针对苹果第三方维修的相关诉讼。 IT之家援引博文介绍，这起法律纠纷可以追溯到 2021 年，Jesse Granato 和 Janice Zar…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-ef64bf13769a",
+      "title": "余承东官宣华为 Mate XT 2 非凡大师三折叠手机首次把硬件级防窥带入大屏，双击外屏即可开启",
+      "source": "IT之家",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-01",
+      "time": "01:18",
+      "publishedAt": "2026-09-01T01:18:30.000Z",
+      "url": "https://www.ithome.com/0/996/743.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/9/b0d68929-d81c-420b-920b-e7e2ec5013d9.jpg?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 9 月 1 日消息，华为常务董事、产品投资评审委员会主任、终端 BG 董事长余承东刚刚发文，预热了 Mate XT 2 非凡大师全新展翼三折叠手机。 余承东表示，这几年华为观察三折叠用户的使用， 发现大屏的隐私成为很多用户的刚需 。尤其是在机场、高铁这些公共场合使用时，更希望能够放心展开使用。 这次华为 Mate XT 2 非凡大师首次把硬件级防…",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-a3376beb64b2",
+      "title": "JSCHEN小小狐：华为 Mate XT 2 非凡大师预热：灵盾防窥屏",
+      "source": "JSCHEN小小狐",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-09-01",
+      "time": "01:16",
+      "publishedAt": "2026-09-01T01:16:33.000Z",
+      "url": "https://www.coolapk.com/feed/73529121",
+      "image": "http://image.coolapk.com/feed/2026/0901/09/4702274_fa332ddc_5390_9795_920-livepic@1080x1920.jpg",
+      "summary": "『华为 Mate XT 2 非凡大师预热：灵盾防窥屏』 全新「灵盾防窥屏」 - 首次将硬件级防窥带入折叠大屏 - 双击外屏即可优雅开启 - 正面清晰通透，侧面超大角度防窥 #今日热点# #华为MateXTs非凡大师# #华为MateXT非凡大师#",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-fb3f4b83a09a",
+      "title": "Galaxy Z Fold 8 is so popular that Samsung is stealing parts from next year’s phones just to make more",
+      "source": "9to5Google",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-01",
+      "time": "00:30",
+      "publishedAt": "2026-09-01T00:30:00.000Z",
+      "url": "https://9to5google.com/2026/08/31/samsung-galaxy-z-fold-8-demand-2027-parts-report/",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/07/galaxy-z-fold-8-17.jpg?quality=82&strip=all&w=1600",
+      "summary": "Samsung has a hit on its hands with the Galaxy Z Fold 8, to the point where the company is taking parts production from its 2027 smartphones just to meet demand for the foldable.…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-9bbf43c61c96",
+      "title": "Apple announces changes to iOS in Brazil",
+      "source": "Apple Newsroom",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "官方",
+      "trust": "官方确认",
+      "date": "2026-09-01",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.apple.com/newsroom/2026/06/apple-announces-changes-to-ios-in-brazil/",
+      "image": "",
+      "summary": "Apple today announced changes impacting iOS apps in Brazil that reflect a recent agreement with Brazil’s competition regulator, CADE.",
+      "tags": [
+        "iPhone",
+        "官方",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "newsnow-39ba44d60028",
+      "title": "全球首款阔直板探索计划：华为 Pura X View 新品有奖体验",
+      "source": "少数派热榜",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-09-01",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://sspai.com/post/113883",
+      "image": "",
+      "summary": "全球首款阔直板探索计划：华为 Pura X View 新品有奖体验",
+      "tags": [
+        "Huawei",
+        "评测",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-b25b9a13af06",
+      "title": "把「闪念胶囊」（Almost）放到 iPhone 锁屏",
+      "source": "少数派热榜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-09-01",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://sspai.com/post/113219",
+      "image": "",
+      "summary": "把「闪念胶囊」（Almost）放到 iPhone 锁屏",
+      "tags": [
+        "iPhone",
+        "评测",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-c4fc71c000ea",
+      "title": "华为、小米、荣耀多款手机正式涨价",
+      "source": "酷安热榜",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-09-01",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/73527352",
+      "image": "",
+      "summary": "华为、小米、荣耀多款手机正式涨价",
+      "tags": [
+        "HONOR",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-3f5157090c7b",
+      "title": "#数码日常# 我chovy，红米牛逼，小米牛逼[斗鸡眼滑稽]，今天骑车出车祸，人直接飞了三四米，红米被挂树上，居然没坏，Redmi牛逼[受虐滑稽]",
+      "source": "酷安热榜",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-09-01",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/73523253",
+      "image": "",
+      "summary": "#数码日常# 我chovy，红米牛逼，小米牛逼[斗鸡眼滑稽]，今天骑车出车祸，人直接飞了三四米，红米被挂树上，居然没坏，Redmi牛逼[受虐滑稽]",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-1b3a07b49f34",
+      "title": "9月1日0点Mate80全系列调价了？建议零售价Pro Max涨1000元，Pro涨1000元，标准版涨800元！",
+      "source": "酷安热榜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-09-01",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/73526204",
+      "image": "",
+      "summary": "9月1日0点Mate80全系列调价了？建议零售价Pro Max涨1000元，Pro涨1000元，标准版涨800元！",
+      "tags": [
+        "行业",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-de9fd4b71c73",
+      "title": "华为Mate 80系列调价｜价格上调八百至一千元",
+      "source": "酷安热榜",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-09-01",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/73526560",
+      "image": "",
+      "summary": "华为Mate 80系列调价｜价格上调八百至一千元",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-57dbaacda60f",
+      "title": "这几天大家在讨论的关于我们荣耀WIN手机导热凝胶问题，我作为产品经理，从技术原理和用户体验角度做下拆解分析：",
+      "source": "酷安热榜",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-09-01",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/73530645",
+      "image": "",
+      "summary": "这几天大家在讨论的关于我们荣耀WIN手机导热凝胶问题，我作为产品经理，从技术原理和用户体验角度做下拆解分析：",
+      "tags": [
+        "HONOR",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-036f6e194b8b",
+      "title": "华为小米荣耀回应手机涨价",
+      "source": "微博热搜",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "爆料",
+      "trust": "待验证",
+      "date": "2026-09-01",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://s.weibo.com/weibo?q=%23%E5%8D%8E%E4%B8%BA%E5%B0%8F%E7%B1%B3%E8%8D%A3%E8%80%80%E5%9B%9E%E5%BA%94%E6%89%8B%E6%9C%BA%E6%B6%A8%E4%BB%B7%23&t=31&band_rank=7&Refer=top",
+      "image": "",
+      "summary": "华为小米荣耀回应手机涨价",
+      "tags": [
+        "HONOR",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-634c14fb407d",
+      "title": "多款手机正式涨价",
+      "source": "微博热搜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "待验证",
+      "date": "2026-09-01",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://s.weibo.com/weibo?q=%23%E5%A4%9A%E6%AC%BE%E6%89%8B%E6%9C%BA%E6%AD%A3%E5%BC%8F%E6%B6%A8%E4%BB%B7%23&t=31&band_rank=9&Refer=top",
+      "image": "",
+      "summary": "多款手机正式涨价",
+      "tags": [
+        "行业",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-63c520cce3f5",
+      "title": "华为、小米、荣耀等手机品牌正式涨价，涨幅均超 200 元，最高涨千元，将对用户及手机市场带来哪些影响？",
+      "source": "知乎热榜",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "市场报告",
+      "trust": "媒体汇总",
+      "date": "2026-09-01",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.zhihu.com/question/2078035027267248519",
+      "image": "",
+      "summary": "华为、小米、荣耀等手机品牌正式涨价，涨幅均超 200 元，最高涨千元，将对用户及手机市场带来哪些影响？",
+      "tags": [
+        "HONOR",
+        "市场报告",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-88b388fbcd81",
+      "title": "华为小米荣耀多款手机集体调价",
+      "source": "今日头条热榜",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-01",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.toutiao.com/trending/7680248776607367707/",
+      "image": "",
+      "summary": "华为小米荣耀多款手机集体调价",
+      "tags": [
+        "HONOR",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-d6469d072746",
+      "title": "如何看华为重回中国手机市场份额第一",
+      "source": "今日头条热榜",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-01",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.toutiao.com/trending/7680363100805008959/",
+      "image": "",
+      "summary": "如何看华为重回中国手机市场份额第一",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-0dfbeb3c05d0",
+      "title": "华为小米荣耀手机今日集体调价",
+      "source": "百度热搜",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-01",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.baidu.com/s?wd=%E5%8D%8E%E4%B8%BA%E5%B0%8F%E7%B1%B3%E8%8D%A3%E8%80%80%E6%89%8B%E6%9C%BA%E4%BB%8A%E6%97%A5%E9%9B%86%E4%BD%93%E8%B0%83%E4%BB%B7",
+      "image": "",
+      "summary": "华为小米荣耀手机今日集体调价",
+      "tags": [
+        "HONOR",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-41064820858f",
+      "title": "多款手机正式涨价",
+      "source": "抖音热点",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "待验证",
+      "date": "2026-09-01",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.douyin.com/hot/2631214",
+      "image": "",
+      "summary": "多款手机正式涨价",
+      "tags": [
+        "行业",
+        "爆料",
+        "NewsNow"
       ]
     },
     {
@@ -37,26 +657,6 @@ window.phoneRadarAuto = {
       "summary": "Steve Jobs' successor carried the torch of the iPhone and built Apple into a global powerhouse with few rivals. Since becoming CEO in 2011, Tim Cook has led the company to become…",
       "tags": [
         "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-70fcda2569e0",
-      "title": "华为 Mate XT 2 非凡大师三折叠手机首搭灵盾防窥屏，杨幂在片场首秀内屏防窥模式",
-      "source": "IT之家",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-31",
-      "time": "23:20",
-      "publishedAt": "2026-08-31T23:20:40.000Z",
-      "url": "https://www.ithome.com/0/996/704.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/8/e69d5d4d-66bd-4597-84ae-b90c94d36225.jpg?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 9 月 1 日消息，华为 Mate XT 2 非凡大师全新展翼三折叠手机已于昨日 10:08 开启预订。 根据华为官网信息， 华为 Mate XT 2 非凡大师的 16GB+1TB 规格可选“灵盾防窥屏”版本 ，同时紫色款的 16GB+2TB 规格则标配“灵盾防窥屏”。这也是华为首次在手机上提供“灵盾防窥屏”可选。 IT之家注意到，杨幂片场路透显…",
-      "tags": [
-        "Huawei",
         "爆料",
         "自动抓取"
       ]
@@ -202,26 +802,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "coolapk-user-551882f014ff",
-      "title": "竹本青：【华为、小米、荣耀多款手机正式涨价，覆盖Mate 80系列、小米 17系列、Magic 8等】 9月1日资讯，今天…",
-      "source": "竹本青",
-      "brand": "HONOR",
-      "model": "HONOR 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-08-31",
-      "time": "18:31",
-      "publishedAt": "2026-08-31T18:31:51.000Z",
-      "url": "https://www.coolapk.com/feed/73527352",
-      "image": "http://image.coolapk.com/feed/2026/0901/03/4248714_c08bf4bf_2803_9227_114@2136x1518.jpg",
-      "summary": "【华为、小米、荣耀多款手机正式涨价，覆盖Mate 80系列、小米 17系列、Magic 8等】 9月1日资讯，今天零时起，华为、小米、荣耀三家手机厂商对旗下部分机型上调售价，以下为涉及机型与对应调价幅度。 ● 华为 Mate 80：全系上调800元 12+256GB：4699元 → 5499元 12+512GB：5199元 → 5999元 16+512GB…",
-      "tags": [
-        "HONOR",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
       "id": "auto-3ed875ea9c3e",
       "title": "iQOO Z11 Review: A Battery-Focused Mid-Ranger That Gets Most Things Right",
       "source": "Gizmochina",
@@ -242,26 +822,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "coolapk-user-681a243cb955",
-      "title": "竹本青：【ColorOS 17 官方爆料：全局浮岛式导航、流体融合动效、柔性反馈系统】 ● 全局浮岛式导航： 设计贯穿全局…",
-      "source": "竹本青",
-      "brand": "OPPO",
-      "model": "OPPO 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-08-31",
-      "time": "18:16",
-      "publishedAt": "2026-08-31T18:16:22.000Z",
-      "url": "https://www.coolapk.com/feed/73527281",
-      "image": "http://image.coolapk.com/feed/2026/0901/02/4248714_b505e76e_0178_8812_953-livepic@1584x1080.jpg",
-      "summary": "【ColorOS 17 官方爆料：全局浮岛式导航、流体融合动效、柔性反馈系统】 ● 全局浮岛式导航： 设计贯穿全局，覆盖几乎所有的内置应用，让全场景的视觉感受更加轻盈纯净；我们还进一步优化了全局圆角，让界面元素也呈现一致的温润自然。 ● 流体融合动效： 继承于ColorOS16的流体动效融合效果，将这一特性贯穿系统全局，无论是锁屏岛、通知的侧滑、应用搜索还…",
-      "tags": [
-        "OPPO",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
       "id": "auto-175322beae27",
       "title": "Not good: Google's Video Boost offers nothing but static for Pixel 11 Pro users",
       "source": "Android Central",
@@ -278,46 +838,6 @@ window.phoneRadarAuto = {
       "tags": [
         "Pixel",
         "评测",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-efb2e8a7de61",
-      "title": "华为、小米、荣耀手机今日集体调价",
-      "source": "IT之家",
-      "brand": "HONOR",
-      "model": "HONOR 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-31",
-      "time": "17:54",
-      "publishedAt": "2026-08-31T17:54:32.000Z",
-      "url": "https://www.ithome.com/0/996/694.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/9/342d5acb-1b7d-43fe-bcef-9e1f1c362bfd.png",
-      "summary": "IT之家 9 月 1 日消息，据博主 @旺仔百事通 消息，华为 Mate 80 系列和 华为畅享 90 Pro Max 今日（9 月 1 日）进行调价。 华为 Mate 80： 12GB+256GB 调价前 4,699 元，调价后 5,499 元 12GB+512GB 调价前 5,199 元，调价后 5,999 元 16GB+512GB 调价前 5,499…",
-      "tags": [
-        "HONOR",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-646a14045fe7",
-      "title": "2026 年 8 月全球桌面浏览器排行：Chrome 73.28%、Edge 10.46%、Firefox 5.31%",
-      "source": "IT之家",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-31",
-      "time": "17:13",
-      "publishedAt": "2026-08-31T17:13:33.000Z",
-      "url": "https://www.ithome.com/0/996/687.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/9/8dd52794-a5df-4aa8-8cfd-fe2d8921490f.png",
-      "summary": "IT之家 9 月 1 日消息，根据市场调查机构 Statcounter 公布的最新报告，2026 年 8 月全球桌面浏览器市场中， Chrome 依然稳居第一，占比 73.28% ；Edge 以 10.46% 的份额占据第二，Firefox 以 5.31% 位居第三。 全球桌面浏览器 Chrome 占比 73.28%，环比上升 2.61 个百分点 Edge…",
-      "tags": [
-        "行业",
-        "爆料",
         "自动抓取"
       ]
     },
@@ -442,26 +962,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "coolapk-user-f18a8edd5be8",
-      "title": "竹本青：【OriginOS 7 官方爆料：全新「液态动效」】 全新「液态动效」+更通透自然的全新材质，界面元素拥有了如液体…",
-      "source": "竹本青",
-      "brand": "vivo",
-      "model": "vivo 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-08-31",
-      "time": "14:01",
-      "publishedAt": "2026-08-31T14:01:58.000Z",
-      "url": "https://www.coolapk.com/feed/73523993",
-      "image": "http://image.coolapk.com/feed/2026/0831/22/4248714_f684a320_4916_4408_734-livepic@1440x1920.jpg",
-      "summary": "【OriginOS 7 官方爆料：全新「液态动效」】 全新「液态动效」+更通透自然的全新材质，界面元素拥有了如液体般的灵动。 底层技术全面升级，蓝河流畅引擎「虚拟显卡 4.0」重构了渲染管线和编译框架，渲染速度较 OriginOS 6 提升14%。同时，升级了拟真渲染，动效基于状态实时动态计算，并极致优化渲染逻辑。在动效体验大幅提升的前提下，以最佳能效控制…",
-      "tags": [
-        "vivo",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
       "id": "auto-548c7938c88a",
       "title": "Xiaomi's Redmi Note 17 Pro Max has the best battery life of any phone — I still wouldn't use it",
       "source": "Android Central",
@@ -522,46 +1022,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "coolapk-user-80a8c5efe4fc",
-      "title": "竹本青：【华为用户分享使用卫星通信脱险经历，李小龙转发】 8月31日，华为终端BG CTO李小龙在社交平台转发一则网友分享…",
-      "source": "竹本青",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-08-31",
-      "time": "12:31",
-      "publishedAt": "2026-08-31T12:31:01.000Z",
-      "url": "https://www.coolapk.com/feed/73522373",
-      "image": "http://image.coolapk.com/feed/2026/0831/20/4248714_e16a88de_9459_0822_983@1440x1562.jpg",
-      "summary": "【华为用户分享使用卫星通信脱险经历，李小龙转发】 8月31日，华为终端BG CTO李小龙在社交平台转发一则网友分享内容。 这名网友表示，自己亲历了尼泊尔泥石流灾害。当地出现断网，他借助华为手机北斗卫星短信的功能，对外发送了带有地理位置的信息，后续得以联系直升机转移并至安全地带。 据悉，华为北斗卫星短信功能，可在无地面网络信号覆盖的空旷环境下，不依赖蜂窝、无…",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
-      "id": "coolapk-user-fb124ae3f600",
-      "title": "竹本青：【华为Mate 80系列 最新销量曝光：周增近19万台，累计超881万台】 8月31日，博主「RD观测」分享第三方…",
-      "source": "竹本青",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-08-31",
-      "time": "12:17",
-      "publishedAt": "2026-08-31T12:17:30.000Z",
-      "url": "https://www.coolapk.com/feed/73522166",
-      "image": "http://image.coolapk.com/feed/2026/0831/20/4248714_17af9715_8648_7275_855@1272x1592.jpg",
-      "summary": "【华为Mate 80系列 最新销量曝光：周增近19万台，累计超881万台】 8月31日，博主「RD观测」分享第三方统计数据：截至2026年第34周，华为Mate 80系列累计销量约881.88万台，周新增约18.97万台。 前几周数据如下： 截至26 W33 —— 约862.91万（周增17.34万） 截至26 W32 —— 约845.57万（周增17.7…",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
       "id": "auto-0984b4df466b",
       "title": "Which Google Pixel 11 model should you buy?",
       "source": "Android Central",
@@ -579,26 +1039,6 @@ window.phoneRadarAuto = {
         "Pixel",
         "评测",
         "自动抓取"
-      ]
-    },
-    {
-      "id": "coolapk-user-06d608b82550",
-      "title": "竹本青：【荣耀方飞：Magic9系列 也将搭载ARRI色彩科学】 8月31日，荣耀高管方飞发文谈ARRI色彩科学。她表示，…",
-      "source": "竹本青",
-      "brand": "HONOR",
-      "model": "HONOR 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-08-31",
-      "time": "12:03",
-      "publishedAt": "2026-08-31T12:03:35.000Z",
-      "url": "https://www.coolapk.com/feed/73521992",
-      "image": "http://image.coolapk.com/feed/2026/0831/20/4248714_3c7fc3d4_7814_4357_0@1439x1682.jpg",
-      "summary": "【荣耀方飞：Magic9系列 也将搭载ARRI色彩科学】 8月31日，荣耀高管方飞发文谈ARRI色彩科学。她表示，ARRI的核心护城河是经过长期积累的色彩科学，能够带来光影自然、肤色细腻的胶片感画面。 其透露，9月即将发布的荣耀Magic9系列，也将搭载ARRI色彩科学。荣耀希望把过去只有专业创作者才能拍出来的画面、独有的色彩审美，变成每个人拿起手机就能做…",
-      "tags": [
-        "HONOR",
-        "爆料",
-        "酷安博主"
       ]
     },
     {
@@ -654,7 +1094,7 @@ window.phoneRadarAuto = {
       "publishedAt": "2026-08-31T10:49:30.000Z",
       "url": "https://www.gizmochina.com/2026/08/31/honor-magic-9-pro-tipped-with-androids-first-square-selfie-camera-and-200mp-triple-rear-setup/",
       "image": "https://www.gizmochina.com/wp-content/uploads/2026/01/Honor-Magic8-Pro-Global-修改1.mp4_20260120_201121.288-1-300x150.jpg?x23692",
-      "summary": "A new leak adds more detail to the Honor Magic 9 Pro’s camera setup, covering both the front and rear systems. According to the leak, the Honor Magic 9 Pro will run on the Snapdra…",
+      "summary": "A new leak adds more detail to the Honor Magic 9 Pro’s camera setup, covering both the front and rear systems. Also ReadBest camera phones with 200MP sensor in 2026 According to t…",
       "tags": [
         "HONOR",
         "爆料",
@@ -822,6 +1262,26 @@ window.phoneRadarAuto = {
       ]
     },
     {
+      "id": "auto-60f93d9f3b3e",
+      "title": "Huawei Mate 90, Mate XT 2, iPhone 18 Pro price chart surfaced online",
+      "source": "Huawei Central",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-08-31",
+      "time": "08:10",
+      "publishedAt": "2026-08-31T08:10:00.000Z",
+      "url": "https://www.huaweicentral.com/huawei-mate-90-mate-xt-2-iphone-18-pro-price-chart-surfaced-online/",
+      "image": "https://www.huaweicentral.com/wp-content/uploads/2026/08/Price-chart.jpg",
+      "summary": "Memory crises are constantly forcing phone brands to increase the price of their products, and a new leak regarding this situation hints at the possible cost of the Huawei Mate 90…",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
       "id": "weibo-85606527dba2",
       "title": "数码闲聊站：咳咳，骁龙8EE6/SM8975新旗舰，落地安卓首个1:1方形前摄，优势是前摄…",
       "source": "数码闲聊站",
@@ -939,326 +1399,6 @@ window.phoneRadarAuto = {
         "OPPO",
         "爆料",
         "微博"
-      ]
-    },
-    {
-      "id": "auto-9bbf43c61c96",
-      "title": "Apple announces changes to iOS in Brazil",
-      "source": "Apple Newsroom",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "官方",
-      "trust": "官方确认",
-      "date": "2026-08-31",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.apple.com/newsroom/2026/06/apple-announces-changes-to-ios-in-brazil/",
-      "image": "",
-      "summary": "Apple today announced changes impacting iOS apps in Brazil that reflect a recent agreement with Brazil’s competition regulator, CADE.",
-      "tags": [
-        "iPhone",
-        "官方",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "newsnow-90d136fc6ab2",
-      "title": "全球首款阔直板探索计划：华为 Pura X View 新品有奖体验",
-      "source": "少数派热榜",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "评测",
-      "trust": "媒体汇总",
-      "date": "2026-08-31",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://sspai.com/post/113883",
-      "image": "",
-      "summary": "全球首款阔直板探索计划：华为 Pura X View 新品有奖体验",
-      "tags": [
-        "Huawei",
-        "评测",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-b1816b820ad7",
-      "title": "把「闪念胶囊」（Almost）放到 iPhone 锁屏",
-      "source": "少数派热榜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "评测",
-      "trust": "媒体汇总",
-      "date": "2026-08-31",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://sspai.com/post/113219",
-      "image": "",
-      "summary": "把「闪念胶囊」（Almost）放到 iPhone 锁屏",
-      "tags": [
-        "iPhone",
-        "评测",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-abdd7c16488d",
-      "title": "#数码日常# 我chovy，红米牛逼，小米牛逼[斗鸡眼滑稽]，今天骑车出车祸，人直接飞了三四米，红米被挂树上，居然没坏，Redmi牛逼[受虐滑稽]",
-      "source": "酷安热榜",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-08-31",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73523253",
-      "image": "",
-      "summary": "#数码日常# 我chovy，红米牛逼，小米牛逼[斗鸡眼滑稽]，今天骑车出车祸，人直接飞了三四米，红米被挂树上，居然没坏，Redmi牛逼[受虐滑稽]",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-aa40a93b47b4",
-      "title": "华为Mate 80系列调价：",
-      "source": "酷安热榜",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-08-31",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73526560",
-      "image": "",
-      "summary": "华为Mate 80系列调价：",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-8903665efe5e",
-      "title": "9月1日0点Mate80全系列调价了？建议零售价Pro Max涨1000元，Pro涨1000元，标准版涨800元！",
-      "source": "酷安热榜",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-08-31",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73526204",
-      "image": "",
-      "summary": "9月1日0点Mate80全系列调价了？建议零售价Pro Max涨1000元，Pro涨1000元，标准版涨800元！",
-      "tags": [
-        "行业",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-ba9f903cadcd",
-      "title": "根据b站荧的测试，9050pro的单核性能似乎达到了2200，多核性能8500，也就是单核8gen3，多核8gen3.5的水平，对比9030pro的单核8+，多核8gen3的水平，提升应该是挺大的吧[呲牙][呲牙][呲牙]#鸿蒙7# #华为MateXT2# #华为PuraXView#",
-      "source": "酷安热榜",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-08-31",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73526337",
-      "image": "",
-      "summary": "根据b站荧的测试，9050pro的单核性能似乎达到了2200，多核性能8500，也就是单核8gen3，多核8gen3.5的水平，对比9030pro的单核8+，多核8gen3的水平，提升应该是挺大的吧[呲牙][呲牙][呲牙]#鸿蒙7# #华为MateXT2# #华为PuraXView#",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "auto-df9824bc6f0e",
-      "title": "Best Oppo Phones of 2026",
-      "source": "Gizmochina",
-      "brand": "OPPO",
-      "model": "OPPO 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-30",
-      "time": "19:34",
-      "publishedAt": "2026-08-30T19:34:34.000Z",
-      "url": "https://www.gizmochina.com/2026/08/30/best-oppo-phones/",
-      "image": "https://www.gizmochina.com/wp-content/uploads/2025/12/Oppo-Find-X9-Pro-e1768250703865-300x166.jpg?x23692",
-      "summary": "Oppo has had a busy 2026 so far, with new phones across almost every price range. The company also expanded its flagship Find X9 Ultra to the global market for the first time. It…",
-      "tags": [
-        "OPPO",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-3bf019decba9",
-      "title": "Xiaomi 18 Fold to pack a massive 6,000mAh battery, wired and wireless charging speeds also emerge",
-      "source": "Gizmochina",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-30",
-      "time": "19:14",
-      "publishedAt": "2026-08-30T19:14:02.000Z",
-      "url": "https://www.gizmochina.com/2026/08/30/xiaomi-18-fold-battery-charging-details-leaked/",
-      "image": "https://www.gizmochina.com/wp-content/uploads/2026/08/Xiaomi-18-Fold-Image-1-300x285.jpg?x23692",
-      "summary": "Rumors suggest that Xiaomi will unveil the Xiaomi 18 Fold by early September in China. Ahead of the launch, the brand has already confirmed that it will be equipped with the all-n…",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-ac04609ac70d",
-      "title": "Apple reportedly considered launching a new Apple Pencil for iPhone Ultra",
-      "source": "9to5Mac",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-30",
-      "time": "14:38",
-      "publishedAt": "2026-08-30T14:38:37.000Z",
-      "url": "https://9to5mac.com/2026/08/30/iphone-ultra-apple-pencil-support-tested/",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/iphone-ultra-concept-orange.jpg?quality=82&strip=all&w=1600",
-      "summary": "Apple’s first foldable iPhone should be making its debut in just over a week. In the development process, Apple was reportedly mulling the idea of launching a new Apple Pencil to…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-6a8b3aaea3d8",
-      "title": "Apple Pencil for iPhone Ultra Was Tested",
-      "source": "MacRumors",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-30",
-      "time": "14:27",
-      "publishedAt": "2026-08-30T14:27:55.000Z",
-      "url": "https://www.macrumors.com/2026/08/30/apple-pencil-for-iphone-ultra-was-tested/",
-      "image": "https://images.macrumors.com/article-new/2026/08/Apple-Pencil-Pro-iPad-Pro.jpg",
-      "summary": "Apple has internally prototyped, tested, and considered launching an Apple Pencil for the upcoming foldable iPhone, according to Bloomberg 's Mark Gurman . However, he said it is…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-49dfa94bc35b",
-      "title": "Just get a Pixel 11? Here are the first 10 settings you need to change",
-      "source": "Android Authority",
-      "brand": "Pixel",
-      "model": "Pixel 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-30",
-      "time": "11:00",
-      "publishedAt": "2026-08-30T11:00:52.000Z",
-      "url": "https://www.androidauthority.com/pixel-11-settings-change-tips-3702992/",
-      "image": "",
-      "summary": "Set up your new Pixel 11 properly with these 10 essential tweaks.",
-      "tags": [
-        "Pixel",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-1a430cf6849c",
-      "title": "5 Android phones you should buy instead of the Google Pixel 11 Pro Fold",
-      "source": "Android Authority",
-      "brand": "Pixel",
-      "model": "Pixel 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-30",
-      "time": "10:30",
-      "publishedAt": "2026-08-30T10:30:44.000Z",
-      "url": "https://www.androidauthority.com/google-pixel-11-pro-fold-alternatives-3698460/",
-      "image": "",
-      "summary": "These five phones are the Pixel 11 Pro Fold's fiercest competitors.",
-      "tags": [
-        "Pixel",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-dc295ac137ae",
-      "title": "There’s no GrapheneOS for Pixel 11 phones because Google cut a key security feature",
-      "source": "Android Authority",
-      "brand": "Pixel",
-      "model": "Pixel 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-30",
-      "time": "07:05",
-      "publishedAt": "2026-08-30T07:05:45.000Z",
-      "url": "https://www.androidauthority.com/no-grapheneos-google-pixel-11-3704622/",
-      "image": "",
-      "summary": "The GrapheneOS team suggests Google may have dropped this key security feature to 'save money'",
-      "tags": [
-        "Pixel",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-bc2a8f0308d2",
-      "title": "Galaxy Z Fold 8 Ultra becomes first large-screen Samsung foldable to fail JerryRigEverything’s durability test",
-      "source": "Gizmochina",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-30",
-      "time": "05:35",
-      "publishedAt": "2026-08-30T05:35:23.000Z",
-      "url": "https://www.gizmochina.com/2026/08/30/galaxy-z-fold-8-ultra-becomes-first-large-screen-samsung-foldable-to-fail-jerryrigeverythings-durability-test/",
-      "image": "https://www.gizmochina.com/wp-content/uploads/2026/08/Screenshot-2026-08-30-100845-300x168.png?x23692",
-      "summary": "Earlier this month, the regular Galaxy Z Fold 8 came out of JerryRigEverything’s tough durability tests looking pretty solid. It handled reverse bends, grit, and the usual stress…",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "coolapk-user-2892f3fcbcb4",
-      "title": "JSCHEN小小狐：『华为 Mate XT 2 正式官宣：全新展翼三折叠』 全新展翼三折叠形态 - 手机通过左右翻折双翼展开，上手更直…",
-      "source": "JSCHEN小小狐",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-08-30",
-      "time": "02:12",
-      "publishedAt": "2026-08-30T02:12:00.000Z",
-      "url": "https://www.coolapk.com/feed/73498766",
-      "image": "http://image.coolapk.com/feed/2026/0830/10/4702274_ec6b4c04_5892_7595_145@2560x1440.jpg",
-      "summary": "『华为 Mate XT 2 正式官宣：全新展翼三折叠』 全新展翼三折叠形态 - 手机通过左右翻折双翼展开，上手更直观好用 中轴对称设计 - 整机重量分布更均匀，展开握持更舒适 3.5mm 超纤薄机身 - 该厚度下首次容纳内外两块屏幕 - 展开后业界最薄、尺寸最大的折叠屏手机 全新折叠架构 - 更强大的外屏、更坚韧的内屏 - 更精密的铰链系统 - 抗跌耐摔，…",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "酷安博主"
       ]
     }
   ]
