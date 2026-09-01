@@ -1,5 +1,5 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-09-01T11:37:54.884Z",
+  "updatedAt": "2026-09-01T16:39:00.202Z",
   "news": [
     {
       "id": "weibo-c039302f37ab",
@@ -10,8 +10,8 @@ window.phoneRadarAuto = {
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-09-01",
-      "time": "11:37",
-      "publishedAt": "2026-09-01T11:37:54.884Z",
+      "time": "16:39",
+      "publishedAt": "2026-09-01T16:39:00.202Z",
       "url": "https://weibo.com/6048569942/Rg6pu8O3E",
       "image": "https://tvax4.sinaimg.cn/mw2000/006BlblIly1ignyj8jhbrj31to142n61.jpg",
       "summary": "vivo X500 Pro Max真机，6.85\"2K+144Hz BOE，目测是1mm级别四等边直屏：",
@@ -30,8 +30,8 @@ window.phoneRadarAuto = {
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-09-01",
-      "time": "11:37",
-      "publishedAt": "2026-09-01T11:37:54.884Z",
+      "time": "16:39",
+      "publishedAt": "2026-09-01T16:39:00.202Z",
       "url": "https://weibo.com/6048569942/Rg4kqgAOR",
       "image": "https://tvax3.sinaimg.cn/mw2000/006BlblIgy1igo0955z8ej31fy0sgtbh.jpg",
       "summary": "iQOO16一个外观超前瞻： 全新方形Deco+大R角设计，三颗摄像头被串联起来，真机在Deco外框和底层纹理都有一些设计小巧思，精密机械感更强，有点像UFO，有种天外来物的感觉，视觉设计很有辨识度。 背板是独家研发的新工艺，整体设计走未来科幻美学风，在新旗舰阵营中，很有视觉冲击力[笑而不语]",
@@ -50,8 +50,8 @@ window.phoneRadarAuto = {
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-09-01",
-      "time": "11:37",
-      "publishedAt": "2026-09-01T11:37:54.884Z",
+      "time": "16:39",
+      "publishedAt": "2026-09-01T16:39:00.202Z",
       "url": "https://weibo.com/6048569942/Rg3X43c5U",
       "image": "",
       "summary": "独家信息，加加16定版影像方案： 安排子系唯一200Mp 1/1.4\"大底主摄； 升级50Mp 3X 1/1.95\"索尼潜望长焦； 全新50Mp超广角+50Mp AF前摄； 最新一代旗舰影像技术完整继承，横向看也是最强影像性能旗舰，该有的都有了[NO]",
@@ -70,8 +70,8 @@ window.phoneRadarAuto = {
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-09-01",
-      "time": "11:37",
-      "publishedAt": "2026-09-01T11:37:54.884Z",
+      "time": "16:39",
+      "publishedAt": "2026-09-01T16:39:00.202Z",
       "url": "https://weibo.com/6048569942/Rg3tfFq81",
       "image": "",
       "summary": "多款手机正式涨价，可以推测迭代新机的价格： 华为Mate90 12+256GB ≥ 5499元 华为Mate90 Pro 12+256GB ≥ 6999元 华为Mate90 Pro Max 16+512GB ≥ 8999元 荣耀Magic9 12+256GB ≥ 4799元 小米18 Pro 12+256GB ≥ 5699元 小米18 Pro Max 12…",
@@ -79,6 +79,386 @@ window.phoneRadarAuto = {
         "HONOR",
         "爆料",
         "微博"
+      ]
+    },
+    {
+      "id": "coolapk-user-069d2567a6ed",
+      "title": "竹本青：【荣耀产品经理再回应 WIN系列 导热凝胶争议：媒体机与商用版不一致系疏忽问题】 ● Q1：为什么媒体机有导热凝胶…",
+      "source": "竹本青",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-09-01",
+      "time": "16:04",
+      "publishedAt": "2026-09-01T16:04:36.000Z",
+      "url": "https://www.coolapk.com/feed/73541764",
+      "image": "http://image.coolapk.com/feed/2026/0902/00/4248714_142959f4_8674_3192_161@2122x1669.jpg",
+      "summary": "【荣耀产品经理再回应 WIN系列 导热凝胶争议：媒体机与商用版不一致系疏忽问题】 ● Q1：为什么媒体机有导热凝胶，但商用机没有，这是不是厂商的特调方案？ WIN的上市时间是十二月份，已经错过了十月的集中上新期，非常紧张的项目节奏，只能在没有确认商用方案的条件下，投递部分媒体评测机器。 这确实是我们项目组的疏忽问题，导致媒体机的方案与商用版本方案不一致，给…",
+      "tags": [
+        "HONOR",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-0ddeb59a898d",
+      "title": "Deals: Best Buy Labor Day sale, Pixel 11 series up to $320 off, Z Fold 8 Ultra up to $600 off, more",
+      "source": "9to5Google",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-01",
+      "time": "15:50",
+      "publishedAt": "2026-09-01T15:50:35.000Z",
+      "url": "https://9to5google.com/2026/09/01/deals-best-buy-labor-day-sale-pixel-11-fold-8-ultra/",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/09/9to5Google-Sep-1.webp?w=1600",
+      "summary": "The giant Best Buy Labor Day sale is live with thousands of price drops alongside Amazon’s equally as wide-ranging holiday sale, and we have some fresh price drops to scope out. B…",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-f8985c74b634",
+      "title": "Razer Prio is an Android and iPhone game controller that folds down to roughly the size of a credit card",
+      "source": "9to5Google",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-01",
+      "time": "15:50",
+      "publishedAt": "2026-09-01T15:50:00.000Z",
+      "url": "https://9to5google.com/2026/09/01/razer-prio-usb-c-foldable-game-controller/",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/09/razer-prio-controller-1.jpg?quality=82&strip=all&w=1500",
+      "summary": "Razer has just launched its new Prio game controller, a USB-C controller for your smartphone that folds down to the footprint of a credit card. more…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-4456707ded2b",
+      "title": "Pixel 11 Pro bug causing static sounds in recordings while using Video Boost, fix coming [U]",
+      "source": "9to5Google",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-01",
+      "time": "15:37",
+      "publishedAt": "2026-09-01T15:37:58.000Z",
+      "url": "https://9to5google.com/2026/09/01/google-pixel-11-pro-bug-static-sounds-video/",
+      "image": "",
+      "summary": "Google continues to improve on video quality with each new Pixel release, but a bug on the Pixel 11 Pro series causes static audio issues when using the Video Boost feature. more…",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-151af6627799",
+      "title": "Oppo Find X10 reportedly has an 8,000 mAh battery and top-tier specs for a ‘base’ flagship",
+      "source": "9to5Google",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-01",
+      "time": "15:30",
+      "publishedAt": "2026-09-01T15:30:00.000Z",
+      "url": "https://9to5google.com/2026/09/01/oppo-find-x10-specs-battery-leak/",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/09/oppo-find-x9-pro.jpg?quality=82&strip=all&w=1600",
+      "summary": "Oppo is reportedly preparing top-tier flagship specs for its upcoming Find X10 release, with a new report detailing an 8,000 mAh battery and more. more…",
+      "tags": [
+        "OPPO",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-67b0b42a2229",
+      "title": "高通跃龙 Q-2390、IQ-2390 处理器发布：面向消费级物联网等领域，预计 2027 年初面市",
+      "source": "IT之家",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-01",
+      "time": "15:25",
+      "publishedAt": "2026-09-01T15:25:59.000Z",
+      "url": "https://www.ithome.com/0/997/185.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/9/a9696522-caf3-44a0-bcdd-6045a5efa869.png?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 9 月 1 日消息，高通公司今日宣布推出跃龙（Dragonwing）Q-2390 和 IQ-2390 处理器，面向消费级物联网、工业边缘计算等领域。 据介绍，这两款处理器均配备四核 Kryo CPU、Adreno704 GPU 以及实时 RISC-V MCU。支持 Linux、Android 和 Zephyr OS 操作系统，开发者可为其打造更多…",
+      "tags": [
+        "行业",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-44ce60efb20d",
+      "title": "iPhone 18 Pro Colors Apparently Include Black, But Skip Silver",
+      "source": "MacRumors",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-01",
+      "time": "15:22",
+      "publishedAt": "2026-09-01T15:22:57.000Z",
+      "url": "https://www.macrumors.com/2026/09/01/iphone-18-pro-colors-include-black-but-skip-silver/",
+      "image": "https://images.macrumors.com/article-new/2026/04/iphone-17-pro-black-feature.jpg",
+      "summary": "iPhone 18 Pro colors could include Dark Cherry, Sky Blue, and Black, with a Silver option unlikely to make the final lineup, according to the leaker known as \" Fixed Focus Digital…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-84c2fa9588a1",
+      "title": "The two problems Samsung’s FE branding causes for both average consumers and fans",
+      "source": "SamMobile",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-01",
+      "time": "14:57",
+      "publishedAt": "2026-09-01T14:57:31.000Z",
+      "url": "https://www.sammobile.com/opinion/two-problems-samsung-fe-branding-causes-average-consumers-fans/",
+      "image": "",
+      "summary": "As many of you know, the Galaxy S26 FE is official and almost ready to go on sale globally. The phone itself seems decent for what it is, but right now I'm more concerned about th…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-32cc1f9b2557",
+      "title": "竹本青：【江汽集团：“尊界效应”持续撬动百万级超豪华市场】 8月31日，尊界S800 Grand Design典藏大观、尊…",
+      "source": "竹本青",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-09-01",
+      "time": "14:07",
+      "publishedAt": "2026-09-01T14:07:19.000Z",
+      "url": "https://www.coolapk.com/feed/73540076",
+      "image": "http://image.coolapk.com/feed/2026/0901/22/4248714_5402e1fb_1638_9162_196@1269x846.jpg",
+      "summary": "【江汽集团：“尊界效应”持续撬动百万级超豪华市场】 8月31日，尊界S800 Grand Design典藏大观、尊界V800双旗舰新品全国首批车主交付仪式于上海举办。 在交付仪式上，江汽集团控股公司党委书记、董事长、总经理项兴初在致辞中表示：“两款旗舰，一种底色。尊界不是在复制传统豪华，而是在用科技创新与时代匠心重新定义超豪华。这条路，我们会坚定地走下去。…",
+      "tags": [
+        "行业",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-4b47b6b51bd0",
+      "title": "小米海外推出 POCO F9 Ultra 手机：为 REDMI K100 Pro Max“套娃机”、换用 8050mAh 电池",
+      "source": "IT之家",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-01",
+      "time": "14:03",
+      "publishedAt": "2026-09-01T14:03:37.000Z",
+      "url": "https://www.ithome.com/0/997/165.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/9/1fbd0575-f8b1-454e-ae1d-6a88c18259db.jpg?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 9 月 1 日消息，小米现已在海外市场推出 POCO F9 Ultra 手机，该机本质上就是 REDMI K100 Pro Max 的“套娃机”，其中 12GB RAM +256GB 存储空间版本 149,800 日元 （IT之家注：现汇率约合 6,311 元人民币） ，16GB RAM+512GB 存储空间版本 169,800 日元 （现汇率约…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-b2bd24a4c7b4",
+      "title": "小米 POCO X8 手机海外发布：8340mAh 大电池，骁龙 6s Gen 4 芯片",
+      "source": "IT之家",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-01",
+      "time": "13:45",
+      "publishedAt": "2026-09-01T13:45:47.000Z",
+      "url": "https://www.ithome.com/0/997/163.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/9/ea3007d4-53a8-4c1b-a118-7027995b0afc.jpg?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 9 月 1 日消息，小米今天在海外市场推出 POCO X8 手机。新机定位中低端市场，采用高通骁龙 6s Gen 4 移动平台， 配备 8340mAh 大电池 。 据介绍，POCO X8 的机身厚度是 8.6mm，重量 223g，提供银色、橙色、黑色等配色， 正面配备一块 6.83 英寸 AMOLED 屏幕 ，分辨率为 2772*1280，支持…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-231fd2e374ec",
+      "title": "Here are iPhone 18 Pro’s new colors, says leaker",
+      "source": "9to5Mac",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-01",
+      "time": "13:45",
+      "publishedAt": "2026-09-01T13:45:18.000Z",
+      "url": "https://9to5mac.com/2026/09/01/here-are-iphone-18-pros-new-colors-says-leaker/",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/02/iphone-18-pro-mockup.jpg?quality=82&strip=all&w=1600",
+      "summary": "iPhone 18 Pro will be unveiled next week , and a new post from a reputable Weibo leaker names three new colors expected to debut. more…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-0d3bb949ef13",
+      "title": "Pixel 11’s big modem switch hasn’t ended familiar connectivity complaints",
+      "source": "Android Authority",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-01",
+      "time": "13:21",
+      "publishedAt": "2026-09-01T13:21:13.000Z",
+      "url": "https://www.androidauthority.com/pixel-11-connectivity-issues-3705354/",
+      "image": "",
+      "summary": "Early owners report Wi-Fi, 5G and Bluetooth problems.",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-b7997db25208",
+      "title": "Firefox for iOS Gets Built-In Ad Blocker",
+      "source": "MacRumors",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-01",
+      "time": "13:00",
+      "publishedAt": "2026-09-01T13:00:11.000Z",
+      "url": "https://www.macrumors.com/2026/09/01/firefox-ios-ad-blocker/",
+      "image": "https://images.macrumors.com/article-new/2021/08/mozilla-firefox-banner-fixed.jpg",
+      "summary": "Mozilla today said it is adding an ad blocker to Firefox for iOS, allowing users to block many third-party ads and ad-related trackers. The ad blocker uses the EasyList filter lis…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-435c026d75d3",
+      "title": "消息称 OPPO 门店本月将上调多款机型价格，涨价幅度在 300 元-500 元之间",
+      "source": "IT之家",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-01",
+      "time": "12:57",
+      "publishedAt": "2026-09-01T12:57:15.000Z",
+      "url": "https://www.ithome.com/0/997/151.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/7/7f8406e6-1452-44c6-a136-41297ec85186.jpg?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 9 月 1 日消息，据界面新闻从上海多家线下门店获悉，OPPO 计划于本月对其旗下多款智能手机产品进行价格调整，涉及 Reno16 系列及 一加 Turbo 6X Pro 系列，涨价幅度在 300 元至 500 元区间。目前，部分门店已经更换 OPPO Reno16 价格指示牌，OPPO Reno16 型号改为 OPPO Reno16t。 据上海…",
+      "tags": [
+        "OPPO",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-2a9c97fbd5b5",
+      "title": "Galaxy Z Fold 8 is selling too fast for Samsung to keep up",
+      "source": "SamMobile",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-01",
+      "time": "12:51",
+      "publishedAt": "2026-09-01T12:51:18.000Z",
+      "url": "https://www.sammobile.com/news/galaxy-z-fold-8-selling-success-too-fast-samsung-keep-up/",
+      "image": "",
+      "summary": "The Galaxy Z Fold 8 has been a surprising hit, and Samsung was not fully prepared for its success. The phone helped break pre-order records in several countries and regions, even…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-8495348445f0",
+      "title": "This new Ultra phone has a rear speaker, a take on HiLight, and that iPhone 18 color",
+      "source": "Android Authority",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-01",
+      "time": "12:45",
+      "publishedAt": "2026-09-01T12:45:09.000Z",
+      "url": "https://www.androidauthority.com/poco-f9-pro-and-f9-ultra-3704280/",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2026/08/POCO-F9-Pro-and-Ultra-in-hand-scaled-1-e1788179504439-500w-260h.jpg",
+      "summary": "A rear speaker, Snapdragon 8 Elite Gen 5 chip, 185Hz screen, and versatile cameras. What's not to like?",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-0abc407e5b73",
+      "title": "竹本青：【OPPO门店：Reno 16系列和一加 Turbo 6X Pro手机本月涨价，幅度300元-500元】 9月1日…",
+      "source": "竹本青",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-09-01",
+      "time": "12:29",
+      "publishedAt": "2026-09-01T12:29:56.000Z",
+      "url": "https://www.coolapk.com/feed/73538560",
+      "image": "http://image.coolapk.com/feed/2026/0901/20/4248714_62d50426_5795_7246_908@1080x810.jpg",
+      "summary": "【OPPO门店：Reno 16系列和一加 Turbo 6X Pro手机本月涨价，幅度300元-500元】 9月1日，据界面新闻报道，OPPO本月将上调多款机型售价。涉及机型为OPPO Reno16系列和一加Turbo 6X Pro系列，涨价幅度为300元-500元之间。其中部分门店已经更换OPPO Reno16 价格指示牌，OPPO Reno16型号改为O…",
+      "tags": [
+        "OPPO",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-d04c8ab54e50",
+      "title": "Samsung updates Galaxy S22 with August 2026 security patch",
+      "source": "SamMobile",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-01",
+      "time": "12:12",
+      "publishedAt": "2026-09-01T12:12:33.000Z",
+      "url": "https://www.sammobile.com/news/samsung-updates-galaxy-s22-with-august-2026-security-patch/",
+      "image": "",
+      "summary": "Samsung is making its flagship non-foldable smartphones from 2022, the Galaxy S22 series, more secure with a new software update. It brings the August 2026 security patch, which f…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
       ]
     },
     {
@@ -142,26 +522,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-4260e624973e",
-      "title": "vivo OriginOS 7 系统新特性：折叠屏专属原子工作台下放直板手机",
-      "source": "IT之家",
-      "brand": "vivo",
-      "model": "vivo 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-09-01",
-      "time": "09:18",
-      "publishedAt": "2026-09-01T09:18:25.000Z",
-      "url": "https://www.ithome.com/0/997/041.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/9/2b5e9e90-4bd3-4c5f-a810-e70f8567a307.png",
-      "summary": "IT之家 9 月 1 日消息，vivo OS 产品总监 @vivo百奇Bucky 今日在微博透露，OriginOS 7 操作系统将带来新特性： 原本折叠屏专属的原子工作台将下放至直板手机 。 IT之家了解到，这项功能可将一个主窗口加四个原子窗放在屏幕上，最多五个应用快速切换，把原本来回跳转的操作连成一套工作流。 同时，vivo 本次自研了多级依赖调度算法，…",
-      "tags": [
-        "vivo",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-3af2c32639d0",
       "title": "Apple’s first folding iPhone won’t kill Android foldables — it will save them",
       "source": "Android Authority",
@@ -173,7 +533,7 @@ window.phoneRadarAuto = {
       "time": "09:00",
       "publishedAt": "2026-09-01T09:00:09.000Z",
       "url": "https://www.androidauthority.com/apple-foldable-iphone-save-android-phones-3704142/",
-      "image": "https://www.androidauthority.com/wp-content/uploads/2026/08/Samsung-Galaxy-Z-Fold-8-3-scaled.jpg",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2026/07/z-fold-8-hands-on-1.jpg",
       "summary": "Apple could finally make foldables cool.",
       "tags": [
         "iPhone",
@@ -202,26 +562,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "coolapk-user-620ea1e7dfe0",
-      "title": "竹本青：【OriginOS 7 官方爆料：原子工作台下放至直板机型，最多五个应用快速切换】 一个主窗口加四个原子窗，最多五…",
-      "source": "竹本青",
-      "brand": "vivo",
-      "model": "vivo 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-09-01",
-      "time": "08:38",
-      "publishedAt": "2026-09-01T08:38:07.000Z",
-      "url": "https://www.coolapk.com/feed/73535272",
-      "image": "http://image.coolapk.com/feed/2026/0901/16/4248714_bbe6aa95_1884_6042_410-livepic@1080x1920.jpg",
-      "summary": "【OriginOS 7 官方爆料：原子工作台下放至直板机型，最多五个应用快速切换】 一个主窗口加四个原子窗，最多五个应用快速切换，多个画面并行更新，布局自由组合。 ● 自研多级依赖调度算法 ● 重构内存调度模型 ● 与 MTK 等平台厂商联合调校 ● 重构多窗口渲染、合成逻辑 #OriginOS6# #今日热点# #OriginOS7#",
-      "tags": [
-        "vivo",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
       "id": "auto-0f9fb6c70d78",
       "title": "Xiaomi 18 Fold with powerful Xring O3 chip surfaces on Geekbench",
       "source": "Gizmochina",
@@ -237,66 +577,6 @@ window.phoneRadarAuto = {
       "summary": "Xiaomi is all set to unveil the Xiaomi 18 Fold later this month in China. The device will be powered by Xiaomi’s all-new Xring O3 chip, built with a 3nm manufacturing process. Ahe…",
       "tags": [
         "Xiaomi",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-f137fbbeae20",
-      "title": "Galaxy Z Fold 7’s August 2026 security update goes global",
-      "source": "SamMobile",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-09-01",
-      "time": "07:26",
-      "publishedAt": "2026-09-01T07:26:46.000Z",
-      "url": "https://www.sammobile.com/news/galaxy-z-fold-7s-august-2026-security-update-goes-global/",
-      "image": "",
-      "summary": "A few days ago, Samsung released the August 2026 security patch for the Galaxy Z Fold 7. However, the brand had made it available only in its home country, South Korea. Now, the c…",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "coolapk-user-1056f5260900",
-      "title": "竹本青：魅族手机官宣十一后涨价：已经坚持到最后一刻了",
-      "source": "竹本青",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-09-01",
-      "time": "07:01",
-      "publishedAt": "2026-09-01T07:01:02.000Z",
-      "url": "https://www.coolapk.com/feed/73533834",
-      "image": "http://image.coolapk.com/feed/2026/0901/15/4248714_5ede4ffd_6060_9517_55@1272x1324.jpg",
-      "summary": "【魅族手机官宣十一后涨价：已经坚持到最后一刻了】 9月1日，魅族科技发文称：“涨价是全行业都在面临的情况，我们已经坚持到最后一刻了。经公司讨论，我们再坚持一个月，十一后涨价。” ———————————————— 此前8月14日，魅族手机曾发公告称：“近期，内存芯片价格持续上涨，行业内多款机型已调整售价。魅族将继续坚持在售机型诚意不涨价：魅族 Note16…",
-      "tags": [
-        "行业",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
-      "id": "auto-8e158919b6c9",
-      "title": "I love my Galaxy Z Fold 8 so much I worry about ever having to go back",
-      "source": "SamMobile",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-09-01",
-      "time": "07:00",
-      "publishedAt": "2026-09-01T07:00:00.000Z",
-      "url": "https://www.sammobile.com/opinion/i-love-galaxy-z-fold-8-worry-about-having-to-go-back/",
-      "image": "",
-      "summary": "The Galaxy Z Fold 8 is honestly the most fun mobile device I've ever used. If there were such a metric as “fun-per-portability,” I'd place the Galaxy Z Fold 8 quite high, just bel…",
-      "tags": [
-        "Samsung",
         "爆料",
         "自动抓取"
       ]
@@ -602,8 +882,8 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-de9fd4b71c73",
-      "title": "华为Mate 80系列调价｜价格上调八百至一千元",
+      "id": "newsnow-71347644ba40",
+      "title": "根据b站荧的测试，9050pro的单核性能似乎达到了2200，多核性能8500，也就是单核8gen3，多核8gen3.5的水平，对比9030pro的单核8+，多核8gen3的水平，提升应该是挺大的吧[呲牙][呲牙][呲牙]#鸿蒙7# #华为MateXT2# #华为PuraXView#",
       "source": "酷安热榜",
       "brand": "Huawei",
       "model": "Huawei 相关机型",
@@ -612,9 +892,9 @@ window.phoneRadarAuto = {
       "date": "2026-09-01",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73526560",
+      "url": "https://www.coolapk.com/feed/73526337",
       "image": "",
-      "summary": "华为Mate 80系列调价｜价格上调八百至一千元",
+      "summary": "根据b站荧的测试，9050pro的单核性能似乎达到了2200，多核性能8500，也就是单核8gen3，多核8gen3.5的水平，对比9030pro的单核8+，多核8gen3的水平，提升应该是挺大的吧[呲牙][呲牙][呲牙]#鸿蒙7# #华为MateXT2# #华为PuraXView#",
       "tags": [
         "Huawei",
         "爆料",
@@ -622,7 +902,27 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-59952e7b6cb9",
+      "id": "newsnow-052bf228f4c9",
+      "title": "手机涨价 卖不动",
+      "source": "微博热搜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "待验证",
+      "date": "2026-09-01",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://s.weibo.com/weibo?q=%E6%89%8B%E6%9C%BA%E6%B6%A8%E4%BB%B7%20%E5%8D%96%E4%B8%8D%E5%8A%A8&t=31&band_rank=1&Refer=top",
+      "image": "",
+      "summary": "手机涨价 卖不动",
+      "tags": [
+        "行业",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-e452c9e688b4",
       "title": "手机涨价",
       "source": "微博热搜",
       "brand": "行业",
@@ -632,32 +932,12 @@ window.phoneRadarAuto = {
       "date": "2026-09-01",
       "time": "",
       "publishedAt": "",
-      "url": "https://s.weibo.com/weibo?q=%E6%89%8B%E6%9C%BA%E6%B6%A8%E4%BB%B7&t=31&band_rank=1&Refer=top",
+      "url": "https://s.weibo.com/weibo?q=%E6%89%8B%E6%9C%BA%E6%B6%A8%E4%BB%B7&t=31&band_rank=10&Refer=top",
       "image": "",
       "summary": "手机涨价",
       "tags": [
         "行业",
         "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-63c520cce3f5",
-      "title": "华为、小米、荣耀等手机品牌正式涨价，涨幅均超 200 元，最高涨千元，将对用户及手机市场带来哪些影响？",
-      "source": "知乎热榜",
-      "brand": "HONOR",
-      "model": "HONOR 相关机型",
-      "type": "市场报告",
-      "trust": "媒体汇总",
-      "date": "2026-09-01",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.zhihu.com/question/2078035027267248519",
-      "image": "",
-      "summary": "华为、小米、荣耀等手机品牌正式涨价，涨幅均超 200 元，最高涨千元，将对用户及手机市场带来哪些影响？",
-      "tags": [
-        "HONOR",
-        "市场报告",
         "NewsNow"
       ]
     },
@@ -682,66 +962,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-cb13e0ff3af7",
-      "title": "手机很贵的时代全面到来了吗",
-      "source": "今日头条热榜",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-09-01",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.toutiao.com/trending/7680440010910207494/",
-      "image": "",
-      "summary": "手机很贵的时代全面到来了吗",
-      "tags": [
-        "行业",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-ccd6990caa55",
-      "title": "国内手机用户平均换机周期破42个月",
-      "source": "今日头条热榜",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-09-01",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.toutiao.com/trending/7680161262999666742/",
-      "image": "",
-      "summary": "国内手机用户平均换机周期破42个月",
-      "tags": [
-        "行业",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-880449ce0558",
-      "title": "“手机等等党”彻底心碎了",
-      "source": "百度热搜",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-09-01",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.baidu.com/s?wd=%E2%80%9C%E6%89%8B%E6%9C%BA%E7%AD%89%E7%AD%89%E5%85%9A%E2%80%9D%E5%BD%BB%E5%BA%95%E5%BF%83%E7%A2%8E%E4%BA%86",
-      "image": "",
-      "summary": "“手机等等党”彻底心碎了",
-      "tags": [
-        "行业",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
       "id": "newsnow-033f9901408c",
       "title": "手机一夜涨价！赶紧下手还是等等",
       "source": "百度热搜",
@@ -755,6 +975,26 @@ window.phoneRadarAuto = {
       "url": "https://www.baidu.com/s?wd=%E6%89%8B%E6%9C%BA%E4%B8%80%E5%A4%9C%E6%B6%A8%E4%BB%B7%EF%BC%81%E8%B5%B6%E7%B4%A7%E4%B8%8B%E6%89%8B%E8%BF%98%E6%98%AF%E7%AD%89%E7%AD%89",
       "image": "",
       "summary": "手机一夜涨价！赶紧下手还是等等",
+      "tags": [
+        "行业",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-110e21193247",
+      "title": "“豆包手机”外观公布 有4种配色",
+      "source": "百度热搜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-01",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.baidu.com/s?wd=%E2%80%9C%E8%B1%86%E5%8C%85%E6%89%8B%E6%9C%BA%E2%80%9D%E5%A4%96%E8%A7%82%E5%85%AC%E5%B8%83+%E6%9C%894%E7%A7%8D%E9%85%8D%E8%89%B2",
+      "image": "",
+      "summary": "“豆包手机”外观公布 有4种配色",
       "tags": [
         "行业",
         "爆料",
@@ -882,26 +1122,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-20852e0bf1fa",
-      "title": "Pixel 11 Pro users report annoying crackling noises in videos",
-      "source": "Android Police",
-      "brand": "Pixel",
-      "model": "Pixel 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-31",
-      "time": "19:28",
-      "publishedAt": "2026-08-31T19:28:10.000Z",
-      "url": "https://www.androidpolice.com/pixel-11-pro-users-report-annoying-crackling-noises-in-videos/",
-      "image": "",
-      "summary": "Video Boost or Audio Zoom could be to blame",
-      "tags": [
-        "Pixel",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-fea76426a4be",
       "title": "iPhone Ultra release timing: Here’s what the latest reporting says",
       "source": "9to5Mac",
@@ -962,26 +1182,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-9b48999c7c79",
-      "title": "Samsung's Galaxy S26 Ultra fix backfires, swapping red tint for screen dots",
-      "source": "Android Police",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-31",
-      "time": "16:56",
-      "publishedAt": "2026-08-31T16:56:58.000Z",
-      "url": "https://www.androidpolice.com/samsungs-galaxy-s26-ultra-fix-backfires-swapping-red-tint-for-screen-dots/",
-      "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2026/03/samsung_galaxy_s26_ultra_privacy_display_menu-1.jpg",
-      "summary": "Software update doesn't do the trick",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-313409c189a7",
       "title": "Galaxy Z Fold 8 is selling so well, Samsung is borrowing parts from the future",
       "source": "Android Authority",
@@ -1018,26 +1218,6 @@ window.phoneRadarAuto = {
       "tags": [
         "Samsung",
         "评测",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-2fffcf8561e1",
-      "title": "Pixel 11 Pro bug causing static sounds in recordings while using Video Boost",
-      "source": "9to5Google",
-      "brand": "Pixel",
-      "model": "Pixel 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-31",
-      "time": "14:45",
-      "publishedAt": "2026-08-31T14:45:00.000Z",
-      "url": "https://9to5google.com/2026/08/31/google-pixel-11-pro-bug-static-sounds-video/",
-      "image": "",
-      "summary": "Google continues to improve on video quality with each new Pixel release, but a bug on the Pixel 11 Pro series causes static audio issues when using the Video Boost feature. more…",
-      "tags": [
-        "Pixel",
-        "爆料",
         "自动抓取"
       ]
     },
