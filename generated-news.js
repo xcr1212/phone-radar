@@ -1,6 +1,186 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-09-01T05:06:18.906Z",
+  "updatedAt": "2026-09-01T11:37:54.884Z",
   "news": [
+    {
+      "id": "weibo-c039302f37ab",
+      "title": "数码闲聊站：vivo X500 Pro Max真机，6.85\"2K+144Hz BOE，目…",
+      "source": "数码闲聊站",
+      "brand": "vivo",
+      "model": "vivo 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-09-01",
+      "time": "11:37",
+      "publishedAt": "2026-09-01T11:37:54.884Z",
+      "url": "https://weibo.com/6048569942/Rg6pu8O3E",
+      "image": "https://tvax4.sinaimg.cn/mw2000/006BlblIly1ignyj8jhbrj31to142n61.jpg",
+      "summary": "vivo X500 Pro Max真机，6.85\"2K+144Hz BOE，目测是1mm级别四等边直屏：",
+      "tags": [
+        "vivo",
+        "爆料",
+        "微博"
+      ]
+    },
+    {
+      "id": "weibo-16e4837ef349",
+      "title": "数码闲聊站：iQOO16一个外观超前瞻： 全新方形Deco+大R角设计，三颗摄像头被串联起…",
+      "source": "数码闲聊站",
+      "brand": "vivo",
+      "model": "vivo 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-09-01",
+      "time": "11:37",
+      "publishedAt": "2026-09-01T11:37:54.884Z",
+      "url": "https://weibo.com/6048569942/Rg4kqgAOR",
+      "image": "https://tvax3.sinaimg.cn/mw2000/006BlblIgy1igo0955z8ej31fy0sgtbh.jpg",
+      "summary": "iQOO16一个外观超前瞻： 全新方形Deco+大R角设计，三颗摄像头被串联起来，真机在Deco外框和底层纹理都有一些设计小巧思，精密机械感更强，有点像UFO，有种天外来物的感觉，视觉设计很有辨识度。 背板是独家研发的新工艺，整体设计走未来科幻美学风，在新旗舰阵营中，很有视觉冲击力[笑而不语]",
+      "tags": [
+        "vivo",
+        "爆料",
+        "微博"
+      ]
+    },
+    {
+      "id": "weibo-1e0266776592",
+      "title": "数码闲聊站：独家信息：加加16定版影像方案： 安排子系唯一200Mp 1/1.4\"大底主摄…",
+      "source": "数码闲聊站",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-09-01",
+      "time": "11:37",
+      "publishedAt": "2026-09-01T11:37:54.884Z",
+      "url": "https://weibo.com/6048569942/Rg3X43c5U",
+      "image": "",
+      "summary": "独家信息，加加16定版影像方案： 安排子系唯一200Mp 1/1.4\"大底主摄； 升级50Mp 3X 1/1.95\"索尼潜望长焦； 全新50Mp超广角+50Mp AF前摄； 最新一代旗舰影像技术完整继承，横向看也是最强影像性能旗舰，该有的都有了[NO]",
+      "tags": [
+        "行业",
+        "爆料",
+        "微博"
+      ]
+    },
+    {
+      "id": "weibo-4093e8304808",
+      "title": "数码闲聊站：多款手机正式涨价，可以推测迭代新机的价格： 华为Mate90 12+256GB…",
+      "source": "数码闲聊站",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-09-01",
+      "time": "11:37",
+      "publishedAt": "2026-09-01T11:37:54.884Z",
+      "url": "https://weibo.com/6048569942/Rg3tfFq81",
+      "image": "",
+      "summary": "多款手机正式涨价，可以推测迭代新机的价格： 华为Mate90 12+256GB ≥ 5499元 华为Mate90 Pro 12+256GB ≥ 6999元 华为Mate90 Pro Max 16+512GB ≥ 8999元 荣耀Magic9 12+256GB ≥ 4799元 小米18 Pro 12+256GB ≥ 5699元 小米18 Pro Max 12…",
+      "tags": [
+        "HONOR",
+        "爆料",
+        "微博"
+      ]
+    },
+    {
+      "id": "auto-3391fa192c73",
+      "title": "Google’s new Extreme Charging on the Pixel 11 Pro XL has a heat problem",
+      "source": "Android Authority",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-01",
+      "time": "10:30",
+      "publishedAt": "2026-09-01T10:30:41.000Z",
+      "url": "https://www.androidauthority.com/pixel-11-pro-extreme-charging-tested-heat-problem-3703479/",
+      "image": "",
+      "summary": "Is being 5 minutes faster really worth the higher temperatures?",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-cb88206ed9c6",
+      "title": "竹本青：2026荣耀全球开发者大会定档9月15日",
+      "source": "竹本青",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-09-01",
+      "time": "10:08",
+      "publishedAt": "2026-09-01T10:08:22.000Z",
+      "url": "https://www.coolapk.com/feed/73536642",
+      "image": "http://image.coolapk.com/feed/2026/0901/18/4248714_269d6fc4_7301_4362_517@1014x4412.jpg",
+      "summary": "【2026 荣耀全球开发者大会定档9月15日】 9月1日，荣耀俱乐部官宣，2026 荣耀全球开发者大会定于9月15日在深圳举办。 大会活动议程： ▫️09:30‑12:10：MagicOS产品经理专题交流 ▫️12:10‑13:00：午餐 ▫️13:15‑14:10：HGDC音乐会 ▫️14:10‑16:00：大会体验区逛展 #MagicOS11# #Ma…",
+      "tags": [
+        "HONOR",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-9849313b62a8",
+      "title": "The Galaxy S26 FE is the wrong Samsung phone to buy right now",
+      "source": "Android Authority",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-01",
+      "time": "09:30",
+      "publishedAt": "2026-09-01T09:30:48.000Z",
+      "url": "https://www.androidauthority.com/galaxy-s26-fe-wrong-samsung-phone-buy-3704387/",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2026/08/Samsung-Galaxy-S26FE-pistachio.jpg",
+      "summary": "The S26 FE seems fine, but that's not enough.",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-4260e624973e",
+      "title": "vivo OriginOS 7 系统新特性：折叠屏专属原子工作台下放直板手机",
+      "source": "IT之家",
+      "brand": "vivo",
+      "model": "vivo 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-01",
+      "time": "09:18",
+      "publishedAt": "2026-09-01T09:18:25.000Z",
+      "url": "https://www.ithome.com/0/997/041.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/9/2b5e9e90-4bd3-4c5f-a810-e70f8567a307.png",
+      "summary": "IT之家 9 月 1 日消息，vivo OS 产品总监 @vivo百奇Bucky 今日在微博透露，OriginOS 7 操作系统将带来新特性： 原本折叠屏专属的原子工作台将下放至直板手机 。 IT之家了解到，这项功能可将一个主窗口加四个原子窗放在屏幕上，最多五个应用快速切换，把原本来回跳转的操作连成一套工作流。 同时，vivo 本次自研了多级依赖调度算法，…",
+      "tags": [
+        "vivo",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-3af2c32639d0",
+      "title": "Apple’s first folding iPhone won’t kill Android foldables — it will save them",
+      "source": "Android Authority",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-01",
+      "time": "09:00",
+      "publishedAt": "2026-09-01T09:00:09.000Z",
+      "url": "https://www.androidauthority.com/apple-foldable-iphone-save-android-phones-3704142/",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2026/08/Samsung-Galaxy-Z-Fold-8-3-scaled.jpg",
+      "summary": "Apple could finally make foldables cool.",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-faffe967715e",
       "title": "[Interview] The People Behind the Galaxy Z Fold8 Series’ Camera Innovations ①: How My FanCam Keeps Favorite People in Focus",
@@ -22,119 +202,139 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "weibo-16e4837ef349",
-      "title": "数码闲聊站：iQOO16一个外观超前瞻： 全新方形Deco+大R角设计，三颗摄像头被串联起…",
-      "source": "数码闲聊站",
+      "id": "coolapk-user-620ea1e7dfe0",
+      "title": "竹本青：【OriginOS 7 官方爆料：原子工作台下放至直板机型，最多五个应用快速切换】 一个主窗口加四个原子窗，最多五…",
+      "source": "竹本青",
       "brand": "vivo",
       "model": "vivo 相关机型",
       "type": "爆料",
-      "trust": "高关注爆料源",
+      "trust": "高可信爆料",
       "date": "2026-09-01",
-      "time": "05:06",
-      "publishedAt": "2026-09-01T05:06:18.906Z",
-      "url": "https://weibo.com/6048569942/Rg4kqgAOR",
-      "image": "https://tvax3.sinaimg.cn/mw2000/006BlblIgy1igo0955z8ej31fy0sgtbh.jpg",
-      "summary": "iQOO16一个外观超前瞻： 全新方形Deco+大R角设计，三颗摄像头被串联起来，真机在Deco外框和底层纹理都有一些设计小巧思，精密机械感更强，有点像UFO，有种天外来物的感觉，视觉设计很有辨识度。 背板是独家研发的新工艺，整体设计走未来科幻美学风，在新旗舰阵营中，很有视觉冲击力[笑而不语]",
+      "time": "08:38",
+      "publishedAt": "2026-09-01T08:38:07.000Z",
+      "url": "https://www.coolapk.com/feed/73535272",
+      "image": "http://image.coolapk.com/feed/2026/0901/16/4248714_bbe6aa95_1884_6042_410-livepic@1080x1920.jpg",
+      "summary": "【OriginOS 7 官方爆料：原子工作台下放至直板机型，最多五个应用快速切换】 一个主窗口加四个原子窗，最多五个应用快速切换，多个画面并行更新，布局自由组合。 ● 自研多级依赖调度算法 ● 重构内存调度模型 ● 与 MTK 等平台厂商联合调校 ● 重构多窗口渲染、合成逻辑 #OriginOS6# #今日热点# #OriginOS7#",
       "tags": [
         "vivo",
         "爆料",
-        "微博"
+        "酷安博主"
       ]
     },
     {
-      "id": "weibo-1e0266776592",
-      "title": "数码闲聊站：独家信息：加加16定版影像方案： 安排子系唯一200Mp 1/1.4\"大底主摄…",
-      "source": "数码闲聊站",
+      "id": "auto-0f9fb6c70d78",
+      "title": "Xiaomi 18 Fold with powerful Xring O3 chip surfaces on Geekbench",
+      "source": "Gizmochina",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-01",
+      "time": "08:01",
+      "publishedAt": "2026-09-01T08:01:04.000Z",
+      "url": "https://www.gizmochina.com/2026/09/01/xiaomi-18-fold-geekbench-ai-listing-spotted/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/08/Xiaomi-18-Fold-design-leaks-300x200.jpg?x23692",
+      "summary": "Xiaomi is all set to unveil the Xiaomi 18 Fold later this month in China. The device will be powered by Xiaomi’s all-new Xring O3 chip, built with a 3nm manufacturing process. Ahe…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-f137fbbeae20",
+      "title": "Galaxy Z Fold 7’s August 2026 security update goes global",
+      "source": "SamMobile",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-01",
+      "time": "07:26",
+      "publishedAt": "2026-09-01T07:26:46.000Z",
+      "url": "https://www.sammobile.com/news/galaxy-z-fold-7s-august-2026-security-update-goes-global/",
+      "image": "",
+      "summary": "A few days ago, Samsung released the August 2026 security patch for the Galaxy Z Fold 7. However, the brand had made it available only in its home country, South Korea. Now, the c…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-1056f5260900",
+      "title": "竹本青：魅族手机官宣十一后涨价：已经坚持到最后一刻了",
+      "source": "竹本青",
       "brand": "行业",
       "model": "智能手机市场",
       "type": "爆料",
-      "trust": "高关注爆料源",
+      "trust": "高可信爆料",
       "date": "2026-09-01",
-      "time": "05:06",
-      "publishedAt": "2026-09-01T05:06:18.906Z",
-      "url": "https://weibo.com/6048569942/Rg3X43c5U",
-      "image": "",
-      "summary": "独家信息，加加16定版影像方案： 安排子系唯一200Mp 1/1.4\"大底主摄； 升级50Mp 3X 1/1.95\"索尼潜望长焦； 全新50Mp超广角+50Mp AF前摄； 最新一代旗舰影像技术完整继承，横向看也是最强影像性能旗舰，该有的都有了[NO]",
+      "time": "07:01",
+      "publishedAt": "2026-09-01T07:01:02.000Z",
+      "url": "https://www.coolapk.com/feed/73533834",
+      "image": "http://image.coolapk.com/feed/2026/0901/15/4248714_5ede4ffd_6060_9517_55@1272x1324.jpg",
+      "summary": "【魅族手机官宣十一后涨价：已经坚持到最后一刻了】 9月1日，魅族科技发文称：“涨价是全行业都在面临的情况，我们已经坚持到最后一刻了。经公司讨论，我们再坚持一个月，十一后涨价。” ———————————————— 此前8月14日，魅族手机曾发公告称：“近期，内存芯片价格持续上涨，行业内多款机型已调整售价。魅族将继续坚持在售机型诚意不涨价：魅族 Note16…",
       "tags": [
         "行业",
         "爆料",
-        "微博"
+        "酷安博主"
       ]
     },
     {
-      "id": "weibo-4093e8304808",
-      "title": "数码闲聊站：多款手机正式涨价，可以推测迭代新机的价格： 华为Mate90 12+256GB…",
-      "source": "数码闲聊站",
-      "brand": "HONOR",
-      "model": "HONOR 相关机型",
+      "id": "auto-8e158919b6c9",
+      "title": "I love my Galaxy Z Fold 8 so much I worry about ever having to go back",
+      "source": "SamMobile",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
       "type": "爆料",
-      "trust": "高关注爆料源",
+      "trust": "媒体汇总",
       "date": "2026-09-01",
-      "time": "05:06",
-      "publishedAt": "2026-09-01T05:06:18.906Z",
-      "url": "https://weibo.com/6048569942/Rg3tfFq81",
+      "time": "07:00",
+      "publishedAt": "2026-09-01T07:00:00.000Z",
+      "url": "https://www.sammobile.com/opinion/i-love-galaxy-z-fold-8-worry-about-having-to-go-back/",
       "image": "",
-      "summary": "多款手机正式涨价，可以推测迭代新机的价格： 华为Mate90 12+256GB ≥ 5499元 华为Mate90 Pro 12+256GB ≥ 6999元 华为Mate90 Pro Max 16+512GB ≥ 8999元 荣耀Magic9 12+256GB ≥ 4799元 小米18 Pro 12+256GB ≥ 5699元 小米18 Pro Max 12…",
+      "summary": "The Galaxy Z Fold 8 is honestly the most fun mobile device I've ever used. If there were such a metric as “fun-per-portability,” I'd place the Galaxy Z Fold 8 quite high, just bel…",
       "tags": [
-        "HONOR",
-        "爆料",
-        "微博"
-      ]
-    },
-    {
-      "id": "auto-52e4c55b7b8a",
-      "title": "荣耀 WIN 系列第一代手机确认在正式版本风扇区域取消导热凝胶设计",
-      "source": "IT之家",
-      "brand": "HONOR",
-      "model": "HONOR 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-09-01",
-      "time": "05:05",
-      "publishedAt": "2026-09-01T05:05:23.000Z",
-      "url": "https://www.ithome.com/0/996/885.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/9/92d00dd8-5f1f-470a-8480-7a9a373c68f2.jpg",
-      "summary": "IT之家 9 月 1 日消息， 荣耀 WIN 手机导热凝胶问题近日引发热议，荣耀 WIN 手机产品经理 @赢王MHGA 今日发布说明，确认 WIN 系列第一代手机在正式版本风扇区域取消了导热凝胶设计。 IT之家附完整说明如下： 这几天大家在讨论的关于我们荣耀 WIN 手机导热凝胶问题，我作为产品经理，从技术原理和用户体验角度做下拆解分析： 产品的性能 &…",
-      "tags": [
-        "HONOR",
+        "Samsung",
         "爆料",
         "自动抓取"
       ]
     },
     {
-      "id": "coolapk-user-39430fcd3761",
-      "title": "竹本青：华为/小米/荣耀客服回应手机涨价：产品成本上涨",
-      "source": "竹本青",
-      "brand": "HONOR",
-      "model": "HONOR 相关机型",
+      "id": "auto-edc91d6900fe",
+      "title": "OnePlus 16 leak reveals ‘final’ camera specs, and it’s what the OnePlus 15 should’ve had",
+      "source": "Android Authority",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
       "type": "爆料",
-      "trust": "高可信爆料",
+      "trust": "媒体汇总",
       "date": "2026-09-01",
-      "time": "03:39",
-      "publishedAt": "2026-09-01T03:39:14.000Z",
-      "url": "https://www.coolapk.com/feed/73531147",
-      "image": "http://image.coolapk.com/feed/2026/0901/11/4248714_b06586ae_3953_0621_96@690x435.jpg",
-      "summary": "【华为/小米/荣耀 客服回应手机涨价：产品成本上涨，对应调整售价】 9月1日资讯，今天零时起，华为、小米、荣耀三家厂商对旗下部分机型上调售价。针对此事，中国新闻网分别咨询了三家品牌客服： 华为客服回应称，因关键物料市场价格调整，产品成本上涨，对应售价进行相应调整。 小米客服则表示，受核心元器件采购成本持续上涨影响，对相关产品适当调整了零售价格。 荣耀客服回…",
+      "time": "06:55",
+      "publishedAt": "2026-09-01T06:55:07.000Z",
+      "url": "https://www.androidauthority.com/oneplus-16-final-camera-specs-leak-3705216/",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2025/11/OnePlus-15-camera-module-close-up.jpg",
+      "summary": "A worthy successor to the OnePlus 13's camera system?",
       "tags": [
-        "HONOR",
+        "OPPO",
         "爆料",
-        "酷安博主"
+        "自动抓取"
       ]
     },
     {
-      "id": "auto-371c486d4d43",
-      "title": "iQOO 16 新机外观超前瞻：全新方形 Deco + 大 R 角设计，背板是独家研发的新工艺",
-      "source": "IT之家",
+      "id": "auto-78544bc4366a",
+      "title": "Vivo X500 Pro series gets seriously impressive 4K slow-motion video",
+      "source": "Gizmochina",
       "brand": "vivo",
       "model": "vivo 相关机型",
       "type": "爆料",
       "trust": "媒体汇总",
       "date": "2026-09-01",
-      "time": "03:32",
-      "publishedAt": "2026-09-01T03:32:26.000Z",
-      "url": "https://www.ithome.com/0/996/856.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/9/463a0830-46e6-4c2f-80c0-f6e26a7ab8f1.jpg",
-      "summary": "IT之家 9 月 1 日消息，博主 @数码闲聊站 今日分享了 iQOO 16 新机的外观超前瞻： 全新方形 Deco+ 大 R 角设计 ，三颗摄像头被串联起来，真机在 Deco 外框和底层纹理都有一些设计小巧思， 精密机械感更强 ，有点像 UFO，有种天外来物的感觉，视觉设计很有辨识度。 背板是独家研发的新工艺， 整体设计走未来科幻美学风 ，在新旗舰阵营中…",
+      "time": "06:05",
+      "publishedAt": "2026-09-01T06:05:35.000Z",
+      "url": "https://www.gizmochina.com/2026/09/01/vivo-x500-pro-max-camera-4k-240fps-video-leaked-image/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/09/Vivo-X500-Pro-Max-left-with-Vivo-X300-Ultra-right-300x201.jpg?x23692",
+      "summary": "Official teasers that have been rolled out so far suggest that the Vivo X500 Pro series will be a major step forward for smartphone photography and videography. In the latest teas…",
       "tags": [
         "vivo",
         "爆料",
@@ -142,43 +342,23 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "coolapk-user-cca744e79426",
-      "title": "竹本青：iQOO16 外观超前瞻：大R角方形Deco，新工艺背板",
-      "source": "竹本青",
-      "brand": "vivo",
-      "model": "vivo 相关机型",
+      "id": "coolapk-user-009a706574a0",
+      "title": "JSCHEN小小狐：新款华为 MatePad Air / Mini 曝光：OLED屏",
+      "source": "JSCHEN小小狐",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
       "type": "爆料",
       "trust": "高可信爆料",
       "date": "2026-09-01",
-      "time": "03:28",
-      "publishedAt": "2026-09-01T03:28:18.000Z",
-      "url": "https://www.coolapk.com/feed/73530977",
-      "image": "http://image.coolapk.com/feed/2026/0901/11/4248714_ae9e419a_3296_3726_744-livepic@2560x1440.jpg",
-      "summary": "【iQOO16 外观超前瞻：大R角方形Deco，新工艺背板】 ● Deco：全新方形+大R角设计，外框和底层纹理精密机械感更强 ● 背板：独家研发新工艺，未来科幻美学风 #今日热点# #OriginOS7# #iQOO16#",
+      "time": "05:25",
+      "publishedAt": "2026-09-01T05:25:55.000Z",
+      "url": "https://www.coolapk.com/feed/73532610",
+      "image": "http://image.coolapk.com/feed/2026/0901/13/4702274_509b10eb_0354_5364_569@1440x612.jpg",
+      "summary": "『新款华为 MatePad Air / Mini 曝光：OLED 屏』 新款华为 MatePad Air： ◇ 12 英寸 2.8K 144Hz OLED 屏幕 ◇ 麒麟 T93 系列处理器 ◇ 10100mAh 大容量电池 ◇ 厚 5.3mm / 重约 509g ◇ 更轻薄 + 更高屏占比，9 月上市 华为 MatePad Mini 二代： ◇ 小尺寸…",
       "tags": [
-        "vivo",
+        "Huawei",
         "爆料",
         "酷安博主"
-      ]
-    },
-    {
-      "id": "auto-fdf42cf6d959",
-      "title": "华为小米荣耀客服回应手机涨价",
-      "source": "IT之家",
-      "brand": "HONOR",
-      "model": "HONOR 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-09-01",
-      "time": "03:04",
-      "publishedAt": "2026-09-01T03:04:00.000Z",
-      "url": "https://www.ithome.com/0/996/815.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/9/b980f18b-8081-4745-b519-534fb3a33af7.png",
-      "summary": "IT之家 9 月 1 日消息，华为、小米、荣耀等品牌手机 今日（9 月 1 日）凌晨迎来集体涨价 ，涨价产品覆盖多个机型。 据中国新闻网报道，华为客服回应称， 因关键物料市场价格调整 ，产品成本上涨，对应售价进行相应调整。 小米客服则表示， 受核心元器件采购成本持续上涨影响 ，对相关产品适当调整了零售价格。 荣耀客服回复称， 产品价格及活动会根据市场需求进…",
-      "tags": [
-        "HONOR",
-        "爆料",
-        "自动抓取"
       ]
     },
     {
@@ -197,106 +377,6 @@ window.phoneRadarAuto = {
       "summary": "OnePlus is expected to announce the OnePlus 16 by early October in China. Ahead of the launch, reliable tipster Digital Chat Station has been consistently leaking details about th…",
       "tags": [
         "OPPO",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-75040ed939e5",
-      "title": "一加 16 手机定版影像方案曝光，搭载子系唯一 200Mp 1/1.4\" 大底主摄",
-      "source": "IT之家",
-      "brand": "OPPO",
-      "model": "OPPO 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-09-01",
-      "time": "02:48",
-      "publishedAt": "2026-09-01T02:48:58.000Z",
-      "url": "https://www.ithome.com/0/996/794.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/9/39b088bf-4aef-408f-83e4-48ba91665402.png?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 9 月 1 日消息，博主 @数码闲聊站 今日曝光了一加 16 手机的定版影像方案： 安排子系唯一 200Mp 1/1.4\" 大底主摄； 升级 50Mp 3X 1/1.95\" 索尼潜望长焦； 全新 50Mp 超广角 +50Mp AF 前摄。 博主表示，最新一代旗舰影像技术完整继承，横向看也是最强影像性能旗舰， 该有的都有了 。 有网友询问一加 16…",
-      "tags": [
-        "OPPO",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-0c386c97a794",
-      "title": "vivo X500 Pro 系列手机官宣首发支持行业最高规格「4K 240fps 高光慢动作视频」录制",
-      "source": "IT之家",
-      "brand": "vivo",
-      "model": "vivo 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-09-01",
-      "time": "02:34",
-      "publishedAt": "2026-09-01T02:34:14.000Z",
-      "url": "https://www.ithome.com/0/996/787.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/9/f47c04de-9c9e-459f-8b74-4c2d5cd02eaa.jpg",
-      "summary": "IT之家 9 月 1 日消息，vivo 通信科技有限公司产品经理韩伯啸今日宣布，基于「蔡司超动态主摄」， X500 Pro 系列将首发支持行业最高规格的「4K 240fps 高光慢动作视频」录制 。韩伯啸称，在电影级主摄镜头的加持下，X500 Pro 系列手机可以拍出电影级的高画质、高分辨率和高帧率。 样片如下： 同时， 基于此能力 vivo 还将实现行业…",
-      "tags": [
-        "vivo",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-3e9be073bcbc",
-      "title": "小米 18 Fold 有望成小米首款起价破万元的手机",
-      "source": "IT之家",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-09-01",
-      "time": "01:51",
-      "publishedAt": "2026-09-01T01:51:19.000Z",
-      "url": "https://www.ithome.com/0/996/761.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/8/e21eda46-b6a8-49af-bcb2-8e4d57d20244.jpg",
-      "summary": "IT之家 9 月 1 日消息，据 36 氪昨日报道，小米已向全渠道头部经销商明确： 小米 18 Fold 全版本售价均将超万元，起售版本定价在 12,000 元左右 。 如果爆料属实，小米 18 Fold 将成为小米首款起价破万元的手机。 报道称，此次小米 18 Fold 作为小米新折叠形态的首款产品，定位小米手机产品线最高端机型，将会汇集内部包括小米玄戒…",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-45cb00d74582",
-      "title": "碎屏背后的选择题：苹果 iPhone 独立维修案时隔 4 年重回法庭",
-      "source": "IT之家",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-09-01",
-      "time": "01:46",
-      "publishedAt": "2026-09-01T01:46:49.000Z",
-      "url": "https://www.ithome.com/0/996/760.htm",
-      "image": "",
-      "summary": "IT之家 9 月 1 日消息，科技媒体 AppleInsider 昨日（8 月 31 日）发布博文，报道称美国加州第六区上诉法院上月（2026 年 8 月）推翻此前驳回决定， 恢复 2 名消费者在 2022 年提出针对苹果第三方维修的相关诉讼。 IT之家援引博文介绍，这起法律纠纷可以追溯到 2021 年，Jesse Granato 和 Janice Zar…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-ef64bf13769a",
-      "title": "余承东官宣华为 Mate XT 2 非凡大师三折叠手机首次把硬件级防窥带入大屏，双击外屏即可开启",
-      "source": "IT之家",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-09-01",
-      "time": "01:18",
-      "publishedAt": "2026-09-01T01:18:30.000Z",
-      "url": "https://www.ithome.com/0/996/743.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/9/b0d68929-d81c-420b-920b-e7e2ec5013d9.jpg?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 9 月 1 日消息，华为常务董事、产品投资评审委员会主任、终端 BG 董事长余承东刚刚发文，预热了 Mate XT 2 非凡大师全新展翼三折叠手机。 余承东表示，这几年华为观察三折叠用户的使用， 发现大屏的隐私成为很多用户的刚需 。尤其是在机场、高铁这些公共场合使用时，更希望能够放心展开使用。 这次华为 Mate XT 2 非凡大师首次把硬件级防…",
-      "tags": [
-        "Huawei",
         "爆料",
         "自动抓取"
       ]
@@ -422,6 +502,46 @@ window.phoneRadarAuto = {
       ]
     },
     {
+      "id": "newsnow-a0de28e25dda",
+      "title": "这苹果手机是不是有什么魔力啊[捂脸]我换 k80pro 之后就给小米15给我妹用了 用了一直挑毛病 说拍照没苹果清晰 屏幕也特别小 还说都怪我跟我爸说那个苹果13pro不值得买 然后就天天故意摔手机 问她干什么摔都说是手滑摔地上了[捂脸]可怜了我的手机",
+      "source": "酷安热榜",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-09-01",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/73533252",
+      "image": "",
+      "summary": "这苹果手机是不是有什么魔力啊[捂脸]我换 k80pro 之后就给小米15给我妹用了 用了一直挑毛病 说拍照没苹果清晰 屏幕也特别小 还说都怪我跟我爸说那个苹果13pro不值得买 然后就天天故意摔手机 问她干什么摔都说是手滑摔地上了[捂脸]可怜了我的手机",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-43c1cc48a00e",
+      "title": "荣耀产品经理确认：WIN系列第一代手机正式版风扇区域取消导热凝胶设计",
+      "source": "酷安热榜",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-09-01",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/73532797",
+      "image": "",
+      "summary": "荣耀产品经理确认：WIN系列第一代手机正式版风扇区域取消导热凝胶设计",
+      "tags": [
+        "HONOR",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
       "id": "newsnow-3f5157090c7b",
       "title": "#数码日常# 我chovy，红米牛逼，小米牛逼[斗鸡眼滑稽]，今天骑车出车祸，人直接飞了三四米，红米被挂树上，居然没坏，Redmi牛逼[受虐滑稽]",
       "source": "酷安热榜",
@@ -462,6 +582,26 @@ window.phoneRadarAuto = {
       ]
     },
     {
+      "id": "newsnow-e8887a303204",
+      "title": "【起售价或12000元，曝小米18 Fold 将成为小米首款全版本超万元手机】",
+      "source": "酷安热榜",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-09-01",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/73530066",
+      "image": "",
+      "summary": "【起售价或12000元，曝小米18 Fold 将成为小米首款全版本超万元手机】",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
       "id": "newsnow-de9fd4b71c73",
       "title": "华为Mate 80系列调价｜价格上调八百至一千元",
       "source": "酷安热榜",
@@ -482,48 +622,8 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-57dbaacda60f",
-      "title": "这几天大家在讨论的关于我们荣耀WIN手机导热凝胶问题，我作为产品经理，从技术原理和用户体验角度做下拆解分析：",
-      "source": "酷安热榜",
-      "brand": "HONOR",
-      "model": "HONOR 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-09-01",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73530645",
-      "image": "",
-      "summary": "这几天大家在讨论的关于我们荣耀WIN手机导热凝胶问题，我作为产品经理，从技术原理和用户体验角度做下拆解分析：",
-      "tags": [
-        "HONOR",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-036f6e194b8b",
-      "title": "华为小米荣耀回应手机涨价",
-      "source": "微博热搜",
-      "brand": "HONOR",
-      "model": "HONOR 相关机型",
-      "type": "爆料",
-      "trust": "待验证",
-      "date": "2026-09-01",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://s.weibo.com/weibo?q=%23%E5%8D%8E%E4%B8%BA%E5%B0%8F%E7%B1%B3%E8%8D%A3%E8%80%80%E5%9B%9E%E5%BA%94%E6%89%8B%E6%9C%BA%E6%B6%A8%E4%BB%B7%23&t=31&band_rank=7&Refer=top",
-      "image": "",
-      "summary": "华为小米荣耀回应手机涨价",
-      "tags": [
-        "HONOR",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-634c14fb407d",
-      "title": "多款手机正式涨价",
+      "id": "newsnow-59952e7b6cb9",
+      "title": "手机涨价",
       "source": "微博热搜",
       "brand": "行业",
       "model": "智能手机市场",
@@ -532,9 +632,9 @@ window.phoneRadarAuto = {
       "date": "2026-09-01",
       "time": "",
       "publishedAt": "",
-      "url": "https://s.weibo.com/weibo?q=%23%E5%A4%9A%E6%AC%BE%E6%89%8B%E6%9C%BA%E6%AD%A3%E5%BC%8F%E6%B6%A8%E4%BB%B7%23&t=31&band_rank=9&Refer=top",
+      "url": "https://s.weibo.com/weibo?q=%E6%89%8B%E6%9C%BA%E6%B6%A8%E4%BB%B7&t=31&band_rank=1&Refer=top",
       "image": "",
-      "summary": "多款手机正式涨价",
+      "summary": "手机涨价",
       "tags": [
         "行业",
         "爆料",
@@ -562,61 +662,101 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-88b388fbcd81",
-      "title": "华为小米荣耀多款手机集体调价",
+      "id": "newsnow-9e11e4ed94a4",
+      "title": "手机集体涨价 谁为性能溢出买单",
       "source": "今日头条热榜",
-      "brand": "HONOR",
-      "model": "HONOR 相关机型",
+      "brand": "行业",
+      "model": "智能手机市场",
       "type": "爆料",
       "trust": "媒体汇总",
       "date": "2026-09-01",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.toutiao.com/trending/7680248776607367707/",
+      "url": "https://www.toutiao.com/trending/7680303086493057033/",
       "image": "",
-      "summary": "华为小米荣耀多款手机集体调价",
+      "summary": "手机集体涨价 谁为性能溢出买单",
       "tags": [
-        "HONOR",
+        "行业",
         "爆料",
         "NewsNow"
       ]
     },
     {
-      "id": "newsnow-d6469d072746",
-      "title": "如何看华为重回中国手机市场份额第一",
+      "id": "newsnow-cb13e0ff3af7",
+      "title": "手机很贵的时代全面到来了吗",
       "source": "今日头条热榜",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
+      "brand": "行业",
+      "model": "智能手机市场",
       "type": "爆料",
       "trust": "媒体汇总",
       "date": "2026-09-01",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.toutiao.com/trending/7680363100805008959/",
+      "url": "https://www.toutiao.com/trending/7680440010910207494/",
       "image": "",
-      "summary": "如何看华为重回中国手机市场份额第一",
+      "summary": "手机很贵的时代全面到来了吗",
       "tags": [
-        "Huawei",
+        "行业",
         "爆料",
         "NewsNow"
       ]
     },
     {
-      "id": "newsnow-0dfbeb3c05d0",
-      "title": "华为小米荣耀手机今日集体调价",
+      "id": "newsnow-ccd6990caa55",
+      "title": "国内手机用户平均换机周期破42个月",
+      "source": "今日头条热榜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-01",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.toutiao.com/trending/7680161262999666742/",
+      "image": "",
+      "summary": "国内手机用户平均换机周期破42个月",
+      "tags": [
+        "行业",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-880449ce0558",
+      "title": "“手机等等党”彻底心碎了",
       "source": "百度热搜",
-      "brand": "HONOR",
-      "model": "HONOR 相关机型",
+      "brand": "行业",
+      "model": "智能手机市场",
       "type": "爆料",
       "trust": "媒体汇总",
       "date": "2026-09-01",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.baidu.com/s?wd=%E5%8D%8E%E4%B8%BA%E5%B0%8F%E7%B1%B3%E8%8D%A3%E8%80%80%E6%89%8B%E6%9C%BA%E4%BB%8A%E6%97%A5%E9%9B%86%E4%BD%93%E8%B0%83%E4%BB%B7",
+      "url": "https://www.baidu.com/s?wd=%E2%80%9C%E6%89%8B%E6%9C%BA%E7%AD%89%E7%AD%89%E5%85%9A%E2%80%9D%E5%BD%BB%E5%BA%95%E5%BF%83%E7%A2%8E%E4%BA%86",
       "image": "",
-      "summary": "华为小米荣耀手机今日集体调价",
+      "summary": "“手机等等党”彻底心碎了",
       "tags": [
-        "HONOR",
+        "行业",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-033f9901408c",
+      "title": "手机一夜涨价！赶紧下手还是等等",
+      "source": "百度热搜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-01",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.baidu.com/s?wd=%E6%89%8B%E6%9C%BA%E4%B8%80%E5%A4%9C%E6%B6%A8%E4%BB%B7%EF%BC%81%E8%B5%B6%E7%B4%A7%E4%B8%8B%E6%89%8B%E8%BF%98%E6%98%AF%E7%AD%89%E7%AD%89",
+      "image": "",
+      "summary": "手机一夜涨价！赶紧下手还是等等",
+      "tags": [
+        "行业",
         "爆料",
         "NewsNow"
       ]
@@ -639,26 +779,6 @@ window.phoneRadarAuto = {
         "行业",
         "爆料",
         "NewsNow"
-      ]
-    },
-    {
-      "id": "auto-820b8e377109",
-      "title": "Read Tim Cook’s final message to Apple staff as CEO",
-      "source": "The Verge",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-31",
-      "time": "23:27",
-      "publishedAt": "2026-08-31T23:27:48.000Z",
-      "url": "https://www.theverge.com/tech/986832/read-tim-cooks-final-message-as-ceo-to-apple-staff",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/Screenshot-2026-06-08-at-1.01.41PM.png?quality=90&strip=all&crop=0,0,100,100",
-      "summary": "Steve Jobs' successor carried the torch of the iPhone and built Apple into a global powerhouse with few rivals. Since becoming CEO in 2011, Tim Cook has led the company to become…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
       ]
     },
     {
@@ -902,26 +1022,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-0a4ec399d6c7",
-      "title": "Galaxy S27 Scam Detection feature may arrive on older phones too",
-      "source": "SamMobile",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-31",
-      "time": "14:50",
-      "publishedAt": "2026-08-31T14:50:48.000Z",
-      "url": "https://www.sammobile.com/news/galaxy-s27-scam-detection-feature-may-arrive-on-older-phones-too/",
-      "image": "",
-      "summary": "Google launched the Scam Detection feature as a Pixel 9 series exclusive before bringing it to the Galaxy S26 series and the latest Galaxy foldable phones. Hints have been spotted…",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-2fffcf8561e1",
       "title": "Pixel 11 Pro bug causing static sounds in recordings while using Video Boost",
       "source": "9to5Google",
@@ -997,26 +1097,6 @@ window.phoneRadarAuto = {
       "summary": "Our readers' top Pixel 11 Pro XL alternative may not be what you think it is",
       "tags": [
         "Pixel",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-68bfbe59d596",
-      "title": "One of my favorite Galaxy Z Fold 8 features reminds me of old folding clocks",
-      "source": "SamMobile",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-31",
-      "time": "13:00",
-      "publishedAt": "2026-08-31T13:00:00.000Z",
-      "url": "https://www.sammobile.com/opinion/one-favorite-galaxy-z-fold-8-feature-reminds-me-old-folding-clocks/",
-      "image": "https://www.sammobile.com/wp-content/uploads/2026/08/Galaxy-Z-Fold-8-review-31-1920x1080.jpg",
-      "summary": "If you ask me, the best thing about convertible 2-in-1 laptops that feature 360-degree hinges is the ability to use them in different, unconventional ways, such as tent and stand…",
-      "tags": [
-        "Samsung",
         "爆料",
         "自动抓取"
       ]
@@ -1262,26 +1342,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-60f93d9f3b3e",
-      "title": "Huawei Mate 90, Mate XT 2, iPhone 18 Pro price chart surfaced online",
-      "source": "Huawei Central",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-31",
-      "time": "08:10",
-      "publishedAt": "2026-08-31T08:10:00.000Z",
-      "url": "https://www.huaweicentral.com/huawei-mate-90-mate-xt-2-iphone-18-pro-price-chart-surfaced-online/",
-      "image": "https://www.huaweicentral.com/wp-content/uploads/2026/08/Price-chart.jpg",
-      "summary": "Memory crises are constantly forcing phone brands to increase the price of their products, and a new leak regarding this situation hints at the possible cost of the Huawei Mate 90…",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "weibo-85606527dba2",
       "title": "数码闲聊站：咳咳，骁龙8EE6/SM8975新旗舰，落地安卓首个1:1方形前摄，优势是前摄…",
       "source": "数码闲聊站",
@@ -1379,26 +1439,6 @@ window.phoneRadarAuto = {
         "Huawei",
         "爆料",
         "酷安博主"
-      ]
-    },
-    {
-      "id": "weibo-3cb29c2af909",
-      "title": "数码闲聊站：Find X10 定位最强旗舰标准版，核心亮点多多： 同档唯一 8000mAh…",
-      "source": "数码闲聊站",
-      "brand": "OPPO",
-      "model": "OPPO 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-08-31",
-      "time": "01:35",
-      "publishedAt": "2026-08-31T01:35:00.000Z",
-      "url": "https://weibo.com/6048569942/RfUbgk0yw",
-      "image": "https://tvax2.sinaimg.cn/mw2000/006BlblIgy1igkf7r0l7nj30xv0f4q7c.jpg",
-      "summary": "Find X10 定位最强旗舰标准版，核心亮点多多： 同档唯一 8000mAh大电池 ✓ 同档唯一 主摄+长焦双2亿+色彩还原镜头 ✓ 同档唯一 BT.2020超广色域+行业最高有益红光 ✓ Tips：苹果今年没有标准版，不少厂商今年也不太敢讲标准版，OPPO 这次给友商上压力了[笑而不语]",
-      "tags": [
-        "OPPO",
-        "爆料",
-        "微博"
       ]
     }
   ]
