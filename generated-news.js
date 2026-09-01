@@ -1,5 +1,5 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-09-01T16:39:00.202Z",
+  "updatedAt": "2026-09-01T21:01:16.977Z",
   "news": [
     {
       "id": "weibo-c039302f37ab",
@@ -10,8 +10,8 @@ window.phoneRadarAuto = {
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-09-01",
-      "time": "16:39",
-      "publishedAt": "2026-09-01T16:39:00.202Z",
+      "time": "21:01",
+      "publishedAt": "2026-09-01T21:01:16.977Z",
       "url": "https://weibo.com/6048569942/Rg6pu8O3E",
       "image": "https://tvax4.sinaimg.cn/mw2000/006BlblIly1ignyj8jhbrj31to142n61.jpg",
       "summary": "vivo X500 Pro Max真机，6.85\"2K+144Hz BOE，目测是1mm级别四等边直屏：",
@@ -30,8 +30,8 @@ window.phoneRadarAuto = {
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-09-01",
-      "time": "16:39",
-      "publishedAt": "2026-09-01T16:39:00.202Z",
+      "time": "21:01",
+      "publishedAt": "2026-09-01T21:01:16.977Z",
       "url": "https://weibo.com/6048569942/Rg4kqgAOR",
       "image": "https://tvax3.sinaimg.cn/mw2000/006BlblIgy1igo0955z8ej31fy0sgtbh.jpg",
       "summary": "iQOO16一个外观超前瞻： 全新方形Deco+大R角设计，三颗摄像头被串联起来，真机在Deco外框和底层纹理都有一些设计小巧思，精密机械感更强，有点像UFO，有种天外来物的感觉，视觉设计很有辨识度。 背板是独家研发的新工艺，整体设计走未来科幻美学风，在新旗舰阵营中，很有视觉冲击力[笑而不语]",
@@ -50,8 +50,8 @@ window.phoneRadarAuto = {
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-09-01",
-      "time": "16:39",
-      "publishedAt": "2026-09-01T16:39:00.202Z",
+      "time": "21:01",
+      "publishedAt": "2026-09-01T21:01:16.977Z",
       "url": "https://weibo.com/6048569942/Rg3X43c5U",
       "image": "",
       "summary": "独家信息，加加16定版影像方案： 安排子系唯一200Mp 1/1.4\"大底主摄； 升级50Mp 3X 1/1.95\"索尼潜望长焦； 全新50Mp超广角+50Mp AF前摄； 最新一代旗舰影像技术完整继承，横向看也是最强影像性能旗舰，该有的都有了[NO]",
@@ -70,8 +70,8 @@ window.phoneRadarAuto = {
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-09-01",
-      "time": "16:39",
-      "publishedAt": "2026-09-01T16:39:00.202Z",
+      "time": "21:01",
+      "publishedAt": "2026-09-01T21:01:16.977Z",
       "url": "https://weibo.com/6048569942/Rg3tfFq81",
       "image": "",
       "summary": "多款手机正式涨价，可以推测迭代新机的价格： 华为Mate90 12+256GB ≥ 5499元 华为Mate90 Pro 12+256GB ≥ 6999元 华为Mate90 Pro Max 16+512GB ≥ 8999元 荣耀Magic9 12+256GB ≥ 4799元 小米18 Pro 12+256GB ≥ 5699元 小米18 Pro Max 12…",
@@ -82,23 +82,63 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "coolapk-user-069d2567a6ed",
-      "title": "竹本青：【荣耀产品经理再回应 WIN系列 导热凝胶争议：媒体机与商用版不一致系疏忽问题】 ● Q1：为什么媒体机有导热凝胶…",
-      "source": "竹本青",
-      "brand": "HONOR",
-      "model": "HONOR 相关机型",
+      "id": "auto-4c8187650ed9",
+      "title": "New iPhone Ultra details arrive for specs, multitasking, launch timing, more",
+      "source": "9to5Mac",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
       "type": "爆料",
-      "trust": "高可信爆料",
+      "trust": "媒体汇总",
       "date": "2026-09-01",
-      "time": "16:04",
-      "publishedAt": "2026-09-01T16:04:36.000Z",
-      "url": "https://www.coolapk.com/feed/73541764",
-      "image": "http://image.coolapk.com/feed/2026/0902/00/4248714_142959f4_8674_3192_161@2122x1669.jpg",
-      "summary": "【荣耀产品经理再回应 WIN系列 导热凝胶争议：媒体机与商用版不一致系疏忽问题】 ● Q1：为什么媒体机有导热凝胶，但商用机没有，这是不是厂商的特调方案？ WIN的上市时间是十二月份，已经错过了十月的集中上新期，非常紧张的项目节奏，只能在没有确认商用方案的条件下，投递部分媒体评测机器。 这确实是我们项目组的疏忽问题，导致媒体机的方案与商用版本方案不一致，给…",
+      "time": "20:25",
+      "publishedAt": "2026-09-01T20:25:36.000Z",
+      "url": "https://9to5mac.com/2026/09/01/new-iphone-ultra-details-arrive-for-specs-multitasking-launch-timing-more/",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/03/iphone-fold-mockup-purple.jpg?quality=82&strip=all&w=1600",
+      "summary": "Next week, the iPhone Ultra will be unveiled at Apple’s September event , and today a new Tom’s Guide interview with Mark Gurman reveals several fresh details on what to expect fr…",
       "tags": [
-        "HONOR",
+        "iPhone",
         "爆料",
-        "酷安博主"
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-81ed0b377b5c",
+      "title": "Your Pixel 11 will soon have a fix for the static noise ruining your videos",
+      "source": "Android Authority",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-01",
+      "time": "17:03",
+      "publishedAt": "2026-09-01T17:03:40.000Z",
+      "url": "https://www.androidauthority.com/pixel-11-static-noise-fix-coming-3705634/",
+      "image": "",
+      "summary": "Google confirms Pixel 11 video static noise bug, promises a fix is coming.",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-9f250f0792b9",
+      "title": "Samsung’s Galaxy Z Fold 8 Ultra hits its lowest price since launch",
+      "source": "The Verge",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-01",
+      "time": "16:48",
+      "publishedAt": "2026-09-01T16:48:45.000Z",
+      "url": "https://www.theverge.com/gadgets/987490/galaxy-z-fold-8-ultra-remarkable-paper-pro-move-deal-sale",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Samsung-Galaxy-Z-Fold-8-Ultra-roundup.png?quality=90&strip=all&crop=0,0,100,100",
+      "summary": "If you missed the release promotions for the recent round of Samsung Galaxy phones, you’re in luck. The Samsung Galaxy Z Fold 8 Ultra is $300 off at Best Buy, the best deal we’ve…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
       ]
     },
     {
@@ -822,66 +862,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-3f5157090c7b",
-      "title": "#数码日常# 我chovy，红米牛逼，小米牛逼[斗鸡眼滑稽]，今天骑车出车祸，人直接飞了三四米，红米被挂树上，居然没坏，Redmi牛逼[受虐滑稽]",
-      "source": "酷安热榜",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-09-01",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73523253",
-      "image": "",
-      "summary": "#数码日常# 我chovy，红米牛逼，小米牛逼[斗鸡眼滑稽]，今天骑车出车祸，人直接飞了三四米，红米被挂树上，居然没坏，Redmi牛逼[受虐滑稽]",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-1b3a07b49f34",
-      "title": "9月1日0点Mate80全系列调价了？建议零售价Pro Max涨1000元，Pro涨1000元，标准版涨800元！",
-      "source": "酷安热榜",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-09-01",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73526204",
-      "image": "",
-      "summary": "9月1日0点Mate80全系列调价了？建议零售价Pro Max涨1000元，Pro涨1000元，标准版涨800元！",
-      "tags": [
-        "行业",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-e8887a303204",
-      "title": "【起售价或12000元，曝小米18 Fold 将成为小米首款全版本超万元手机】",
-      "source": "酷安热榜",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-09-01",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73530066",
-      "image": "",
-      "summary": "【起售价或12000元，曝小米18 Fold 将成为小米首款全版本超万元手机】",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
       "id": "newsnow-71347644ba40",
       "title": "根据b站荧的测试，9050pro的单核性能似乎达到了2200，多核性能8500，也就是单核8gen3，多核8gen3.5的水平，对比9030pro的单核8+，多核8gen3的水平，提升应该是挺大的吧[呲牙][呲牙][呲牙]#鸿蒙7# #华为MateXT2# #华为PuraXView#",
       "source": "酷安热榜",
@@ -922,7 +902,7 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-e452c9e688b4",
+      "id": "newsnow-302c78f496f3",
       "title": "手机涨价",
       "source": "微博热搜",
       "brand": "行业",
@@ -932,7 +912,7 @@ window.phoneRadarAuto = {
       "date": "2026-09-01",
       "time": "",
       "publishedAt": "",
-      "url": "https://s.weibo.com/weibo?q=%E6%89%8B%E6%9C%BA%E6%B6%A8%E4%BB%B7&t=31&band_rank=10&Refer=top",
+      "url": "https://s.weibo.com/weibo?q=%E6%89%8B%E6%9C%BA%E6%B6%A8%E4%BB%B7&t=31&band_rank=9&Refer=top",
       "image": "",
       "summary": "手机涨价",
       "tags": [
@@ -1577,26 +1557,6 @@ window.phoneRadarAuto = {
       "summary": "Oppo recently confirmed that the Find X10 series will be unveiled in September, although the official launch date remains under wraps. The lineup is expected to include three mode…",
       "tags": [
         "OPPO",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-7cad9508923a",
-      "title": "Some Galaxy S26 Ultra units reportedly develop a dot on display after red tint color calibration￼ ￼",
-      "source": "Gizmochina",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-08-31",
-      "time": "01:58",
-      "publishedAt": "2026-08-31T01:58:09.000Z",
-      "url": "https://www.gizmochina.com/2026/08/31/some-galaxy-s26-ultra-units-reportedly-develop-dots-on-display-after-red-tint-color-calibration/",
-      "image": "https://www.gizmochina.com/wp-content/uploads/2026/07/a-red-tint-issue-on-the-s26-ultra-display-please-check-your-v0-jnelp63ubzch1-2-300x169.jpg?x23692",
-      "summary": "Some Galaxy S26 Ultra users started noticing an unwanted reddish tint on the display last month, and now the software fix meant to clear it up might be creating fresh headaches fo…",
-      "tags": [
-        "Samsung",
         "爆料",
         "自动抓取"
       ]

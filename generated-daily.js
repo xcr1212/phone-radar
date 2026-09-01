@@ -1,5 +1,5 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-09-01T16:39:00.202Z",
+  "updatedAt": "2026-09-01T21:01:16.977Z",
   "issueDate": "2026-09-01",
   "issue": "VOL.260901",
   "title": "手机情报日报",
@@ -91,25 +91,25 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
-          "id": "auto-b7997db25208",
+          "id": "auto-4c8187650ed9",
           "title": "iPhone 系统功能 / AI 体验相关消息",
           "originalTitle": "",
-          "source": "MacRumors",
+          "source": "9to5Mac",
           "brand": "iPhone",
           "type": "爆料",
           "trust": "媒体汇总",
           "date": "2026-09-01",
-          "time": "13:00",
-          "publishedAt": "2026-09-01T13:00:11.000Z",
-          "url": "https://www.macrumors.com/2026/09/01/firefox-ios-ad-blocker/",
-          "image": "https://images.macrumors.com/article-new/2021/08/mozilla-firefox-banner-fixed.jpg",
+          "time": "20:25",
+          "publishedAt": "2026-09-01T20:25:36.000Z",
+          "url": "https://9to5mac.com/2026/09/01/new-iphone-ultra-details-arrive-for-specs-multitasking-launch-timing-more/",
+          "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/03/iphone-fold-mockup-purple.jpg?quality=82&strip=all&w=1600",
           "verdict": "先看",
-          "takeaway": "iPhone 系统功能 / AI 体验相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
+          "takeaway": "iPhone 有系统功能或 AI 体验更新，适合关注后续是否影响日常使用。",
           "detail": "iPhone 系统功能 / AI 体验相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
           "keyPoints": [
-            "爆料"
+            "爆料来源"
           ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
