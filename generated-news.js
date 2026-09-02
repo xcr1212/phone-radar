@@ -1,5 +1,5 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-09-02T16:33:37.113Z",
+  "updatedAt": "2026-09-02T21:02:10.751Z",
   "news": [
     {
       "id": "weibo-86106fba02a0",
@@ -10,8 +10,8 @@ window.phoneRadarAuto = {
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-09-02",
-      "time": "16:33",
-      "publishedAt": "2026-09-02T16:33:37.113Z",
+      "time": "21:02",
+      "publishedAt": "2026-09-02T21:02:10.751Z",
       "url": "https://weibo.com/6048569942/Rgf45j6Xx",
       "image": "",
       "summary": "小米18 Fold： 7.58英寸内屏，5.38英寸外屏，侧边指纹，徕卡Summilux三摄影像，主摄光圈F1.7，长焦光圈F2.8，17mm超广角，潜望长焦等效光变3.5X",
@@ -30,8 +30,8 @@ window.phoneRadarAuto = {
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-09-02",
-      "time": "16:33",
-      "publishedAt": "2026-09-02T16:33:37.113Z",
+      "time": "21:02",
+      "publishedAt": "2026-09-02T21:02:10.751Z",
       "url": "https://weibo.com/6048569942/Rg6pu8O3E",
       "image": "https://tvax4.sinaimg.cn/mw2000/006BlblIly1ignyj8jhbrj31to142n61.jpg",
       "summary": "vivo X500 Pro Max真机，6.85\"2K+144Hz BOE，目测是1mm级别四等边直屏：",
@@ -42,21 +42,61 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-2d88ed68751c",
-      "title": "Google’s got two big new upgrades for Translate on Android and iOS",
-      "source": "Android Authority",
+      "id": "auto-e7316cb30cf1",
+      "title": "iPhone 18 Pro will have three upgrades that have been rumored for years",
+      "source": "9to5Mac",
       "brand": "iPhone",
       "model": "iPhone 相关机型",
       "type": "爆料",
       "trust": "媒体汇总",
       "date": "2026-09-02",
-      "time": "16:00",
-      "publishedAt": "2026-09-02T16:00:11.000Z",
-      "url": "https://www.androidauthority.com/google-live-translate-background-3706261/",
-      "image": "https://www.androidauthority.com/wp-content/uploads/2023/01/Google-Translate-on-smartphone-stock-photo-3.jpg",
-      "summary": "Google shares Translate's latest tools for breaking down language barriers.",
+      "time": "18:21",
+      "publishedAt": "2026-09-02T18:21:33.000Z",
+      "url": "https://9to5mac.com/2026/09/02/iphone-18-pro-will-have-three-upgrades-that-have-been-rumored-for-years/",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/iphone-17-pro-blue-camera-array.jpg?quality=82&strip=all&w=1600",
+      "summary": "iPhone 18 Pro is launching next week , and expected to feature three upgrades that have been rumored for years. Here’s what’s coming. more…",
       "tags": [
         "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-264d9b6c13b5",
+      "title": "Vivo T5x, iQOO Z11x see another price hike: from ₹22,999 at launch to as much as ₹34,999",
+      "source": "Gizmochina",
+      "brand": "vivo",
+      "model": "vivo 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-02",
+      "time": "16:54",
+      "publishedAt": "2026-09-02T16:54:26.000Z",
+      "url": "https://www.gizmochina.com/2026/09/02/vivo-t5x-iqoo-z11x-see-another-price-hike-from-%e2%82%b922999-at-launch-to-as-much-as-%e2%82%b934999/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/09/iqooz11x-kv-img1-lg-x2-300x169.jpg?x23692",
+      "summary": "Budget phone shoppers in India just got another price hike to deal with. Vivo and its sub-brand iQOO have raised the prices of the T5x and Z11x (basically the same phone with diff…",
+      "tags": [
+        "vivo",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-4f8d85e597f6",
+      "title": "Samsung Galaxy Z Flip 8 gets its first big discount with $150 off",
+      "source": "Android Authority",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-02",
+      "time": "16:34",
+      "publishedAt": "2026-09-02T16:34:43.000Z",
+      "url": "https://www.androidauthority.com/samsung-galaxy-z-flip-8-deal-3706419/",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2026/07/Samsung-Galaxy-Z-Flip-8-with-cover-screen-in-hand-scaled-1.jpg",
+      "summary": "Samsung Galaxy Z Flip 8 drops to $1,049.99 at Amazon, the best price we've seen yet for Samsung's new flip foldable.",
+      "tags": [
+        "Samsung",
         "爆料",
         "自动抓取"
       ]
@@ -299,26 +339,6 @@ window.phoneRadarAuto = {
         "OPPO",
         "爆料",
         "自动抓取"
-      ]
-    },
-    {
-      "id": "coolapk-user-c27043b2b536",
-      "title": "竹本青：【ColorOS 17 官方爆料：全新「渐进式运动」效果】 在界面「入场、出场、切换」时，各种界面元素会随着手势滑…",
-      "source": "竹本青",
-      "brand": "OPPO",
-      "model": "OPPO 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-09-02",
-      "time": "11:56",
-      "publishedAt": "2026-09-02T11:56:00.000Z",
-      "url": "https://www.coolapk.com/feed/73552700",
-      "image": "http://image.coolapk.com/feed/2026/0902/19/4248714_04ad8bfe_0228_1427_210-livepic@1440x1640.jpg",
-      "summary": "【ColorOS 17 官方爆料：全新「渐进式运动」效果】 在界面「入场、出场、切换」时，各种界面元素会随着手势滑动位置、力度与速度渐进呈现，带来更自然、更细腻的交互反馈。 #ColorOS17# #ColorOS16# #今日热点#",
-      "tags": [
-        "OPPO",
-        "爆料",
-        "酷安博主"
       ]
     },
     {
@@ -742,26 +762,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-ca3bdab4e548",
-      "title": "华为、小米、荣耀多款手机正式涨价",
-      "source": "酷安热榜",
-      "brand": "HONOR",
-      "model": "HONOR 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-09-02",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73527352",
-      "image": "",
-      "summary": "华为、小米、荣耀多款手机正式涨价",
-      "tags": [
-        "HONOR",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
       "id": "newsnow-e57500e4c14b",
       "title": "大家回忆一下，这两年主打轻薄的直屏air机型，相机deco几乎都是清一色横向或者竖向镜头排列，像小米18fold这种折叠布局，仔细想一下，这个相机deco的布局是真玩不出花来，而且这个长度，它也不能用竖向布局，所以横向deco可能是这种阔折叠唯一的选择。",
       "source": "酷安热榜",
@@ -782,101 +782,41 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-5cf1f9d283dc",
-      "title": "这苹果手机是不是有什么魔力啊[捂脸]我换 k80pro 之后就给小米15给我妹用了 用了一直挑毛病 说拍照没苹果清晰 屏幕也特别小 还说都怪我跟我爸说那个苹果13pro不值得买 然后就天天故意摔手机 问她干什么摔都说是手滑摔地上了[捂脸]可怜了我的手机",
+      "id": "newsnow-ca3bdab4e548",
+      "title": "华为、小米、荣耀多款手机正式涨价",
       "source": "酷安热榜",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-09-02",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73533252",
+      "url": "https://www.coolapk.com/feed/73527352",
       "image": "",
-      "summary": "这苹果手机是不是有什么魔力啊[捂脸]我换 k80pro 之后就给小米15给我妹用了 用了一直挑毛病 说拍照没苹果清晰 屏幕也特别小 还说都怪我跟我爸说那个苹果13pro不值得买 然后就天天故意摔手机 问她干什么摔都说是手滑摔地上了[捂脸]可怜了我的手机",
+      "summary": "华为、小米、荣耀多款手机正式涨价",
       "tags": [
-        "Xiaomi",
+        "HONOR",
         "爆料",
         "NewsNow"
       ]
     },
     {
-      "id": "newsnow-0e5f709ef639",
-      "title": "说点真心话，很多人感觉因为没见过这个样子的产品，就很高潮。我就说两个点，第1个点就是这个手机他吹的所有显示上的优点，你记住是所有的优点都是通过这个手机的宽度比其他手机宽的多换来的。第二，这种形态其实没有任何问题，就是你喜欢哪个形态都可以，喜欢长的就买长的，喜欢这种短的就买这种短的。但是如果他因为这个形态而降配。加价，因为营销这个形态的噱头，然后比其他手机就是同样配置的手机卖的更贵，这一点我认为是非常不值得的。所以我觉得如果他和Pura 90 Pro这个产品价格差不多的话，那我觉得没有任何问题，这两个产品就是形态的选择，喜欢小一点，长一点的就买90Pro,喜欢宽的短的就买这个，但是如果他卖的更贵的话，我觉得他就是为了想涨价而故意营销这个概念。最后不管网上怎么说，这个屏幕有多好，你永远要记住，它，绝对没有mate80 Pro max的屏幕好。所以mate80 Pro max的用户... 查看更多",
+      "id": "newsnow-e901f0b4ae65",
+      "title": "华为、小米新品发布会撞档，博主称Mate90系列计划提前登场",
       "source": "酷安热榜",
-      "brand": "行业",
-      "model": "智能手机市场",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-09-02",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73536368",
+      "url": "https://www.coolapk.com/feed/73545205",
       "image": "",
-      "summary": "说点真心话，很多人感觉因为没见过这个样子的产品，就很高潮。我就说两个点，第1个点就是这个手机他吹的所有显示上的优点，你记住是所有的优点都是通过这个手机的宽度比其他手机宽的多换来的。第二，这种形态其实没有任何问题，就是你喜欢哪个形态都可以，喜欢长的就买长的，喜欢这种短的就买这种短的。但是如果他因为这个形态而降配。加价，因为营销这个形态的噱头，然后比其他手机就…",
+      "summary": "华为、小米新品发布会撞档，博主称Mate90系列计划提前登场",
       "tags": [
-        "行业",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-d9cffe9ece55",
-      "title": "很难受，换了十来部手机眼睛都难受，换到这部用了一个多月，眼睛都不难受，以为遇到了可以用的手机了。结果这两周开始眼睛一直酸胀[捂脸][捂脸][捂脸]k100promax屏幕会更舒服吗 #REDMIK100ProMax#",
-      "source": "酷安热榜",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-09-02",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73532653",
-      "image": "",
-      "summary": "很难受，换了十来部手机眼睛都难受，换到这部用了一个多月，眼睛都不难受，以为遇到了可以用的手机了。结果这两周开始眼睛一直酸胀[捂脸][捂脸][捂脸]k100promax屏幕会更舒服吗 #REDMIK100ProMax#",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-6ef9b5d96391",
-      "title": "卢伟冰：小米18 Fold 会成为下一代折叠屏的主流选择",
-      "source": "酷安热榜",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-09-02",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73547774",
-      "image": "",
-      "summary": "卢伟冰：小米18 Fold 会成为下一代折叠屏的主流选择",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-94bad0938c05",
-      "title": "联通5099的iPhone17抢到了，但是感觉更想买白色[皱眉][皱眉]#iPhone17# #iPhone17ProMax# #iPhone18#",
-      "source": "酷安热榜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-09-02",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73535367",
-      "image": "",
-      "summary": "联通5099的iPhone17抢到了，但是感觉更想买白色[皱眉][皱眉]#iPhone17# #iPhone17ProMax# #iPhone18#",
-      "tags": [
-        "iPhone",
+        "Huawei",
         "爆料",
         "NewsNow"
       ]
@@ -1082,26 +1022,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-44ce60efb20d",
-      "title": "iPhone 18 Pro Colors Apparently Include Black, But Skip Silver",
-      "source": "MacRumors",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-09-01",
-      "time": "15:22",
-      "publishedAt": "2026-09-01T15:22:57.000Z",
-      "url": "https://www.macrumors.com/2026/09/01/iphone-18-pro-colors-include-black-but-skip-silver/",
-      "image": "https://images.macrumors.com/article-new/2026/04/iphone-17-pro-black-feature.jpg",
-      "summary": "iPhone 18 Pro colors could include Dark Cherry, Sky Blue, and Black, with a Silver option unlikely to make the final lineup, according to the leaker known as \" Fixed Focus Digital…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-231fd2e374ec",
       "title": "Here are iPhone 18 Pro’s new colors, says leaker",
       "source": "9to5Mac",
@@ -1238,46 +1158,6 @@ window.phoneRadarAuto = {
       "tags": [
         "Samsung",
         "官方",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-0f9fb6c70d78",
-      "title": "Xiaomi 18 Fold with powerful Xring O3 chip surfaces on Geekbench",
-      "source": "Gizmochina",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-09-01",
-      "time": "08:01",
-      "publishedAt": "2026-09-01T08:01:04.000Z",
-      "url": "https://www.gizmochina.com/2026/09/01/xiaomi-18-fold-geekbench-ai-listing-spotted/",
-      "image": "https://www.gizmochina.com/wp-content/uploads/2026/08/Xiaomi-18-Fold-design-leaks-300x200.jpg?x23692",
-      "summary": "Xiaomi is all set to unveil the Xiaomi 18 Fold later this month in China. The device will be powered by Xiaomi’s all-new Xring O3 chip, built with a 3nm manufacturing process. Ahe…",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-edc91d6900fe",
-      "title": "OnePlus 16 leak reveals ‘final’ camera specs, and it’s what the OnePlus 15 should’ve had",
-      "source": "Android Authority",
-      "brand": "OPPO",
-      "model": "OPPO 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-09-01",
-      "time": "06:55",
-      "publishedAt": "2026-09-01T06:55:07.000Z",
-      "url": "https://www.androidauthority.com/oneplus-16-final-camera-specs-leak-3705216/",
-      "image": "https://www.androidauthority.com/wp-content/uploads/2025/11/OnePlus-15-camera-module-close-up.jpg",
-      "summary": "A worthy successor to the OnePlus 13's camera system?",
-      "tags": [
-        "OPPO",
-        "爆料",
         "自动抓取"
       ]
     },

@@ -1,12 +1,12 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-09-02T16:33:37.113Z",
+  "updatedAt": "2026-09-02T21:02:10.751Z",
   "issueDate": "2026-09-02",
   "issue": "VOL.260902",
   "title": "手机情报日报",
-  "intro": "今日筛出 8 条重点，其中 8 条是重点爆料，包含 4 条 iPhone 相关、0 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 11 条重点，其中 8 条是重点爆料，包含 5 条 iPhone 相关、0 条官方确认、0 条参数线索。",
   "stats": {
-    "total": 8,
-    "iphone": 4,
+    "total": 11,
+    "iphone": 5,
     "leaks": 8,
     "official": 0,
     "specs": 0
@@ -90,6 +90,29 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
+          "id": "auto-e7316cb30cf1",
+          "title": "iPhone 相关消息",
+          "originalTitle": "",
+          "source": "9to5Mac",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-09-02",
+          "time": "18:21",
+          "publishedAt": "2026-09-02T18:21:33.000Z",
+          "url": "https://9to5mac.com/2026/09/02/iphone-18-pro-will-have-three-upgrades-that-have-been-rumored-for-years/",
+          "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/iphone-17-pro-blue-camera-array.jpg?quality=82&strip=all&w=1600",
+          "verdict": "先看",
+          "takeaway": "iPhone 相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
+          "detail": "iPhone 相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
+          "keyPoints": [
+            "爆料来源"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
           "id": "auto-d13fc968bd26",
           "title": "iPhone 系统功能 / AI 体验相关消息",
           "originalTitle": "",
@@ -122,8 +145,8 @@ window.phoneRadarDaily = {
           "type": "爆料",
           "trust": "高关注爆料源",
           "date": "2026-09-02",
-          "time": "16:33",
-          "publishedAt": "2026-09-02T16:33:37.113Z",
+          "time": "21:02",
+          "publishedAt": "2026-09-02T21:02:10.751Z",
           "url": "https://weibo.com/6048569942/Rgf45j6Xx",
           "image": "",
           "verdict": "先看",
@@ -162,50 +185,113 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
-          "id": "newsnow-5cf1f9d283dc",
-          "title": "这苹果手机是不是有什么魔力啊[捂脸]我换 k80pro 之后就给小米15给我妹用了 用了一直挑毛病 说拍照没苹果清晰 屏幕也特别小 还说都怪我跟我爸说那个苹果13pro不值得买 然后就天天故意摔手机 问她干什么摔都说是手滑摔地上了[捂脸]可怜了我的手机",
+          "id": "coolapk-user-5512f1ae764f",
+          "title": "竹本青：【OPPO卓世杰否认网传 Find X10 Pro Max 外观图：比这好看】 9月2日，针对网上流传的OPPO…",
           "originalTitle": "",
-          "source": "酷安热榜",
-          "brand": "Xiaomi",
+          "source": "竹本青",
+          "brand": "Samsung",
           "type": "爆料",
-          "trust": "高关注爆料源",
+          "trust": "高可信爆料",
           "date": "2026-09-02",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://www.coolapk.com/feed/73533252",
-          "image": "",
+          "time": "12:19",
+          "publishedAt": "2026-09-02T12:19:57.000Z",
+          "url": "https://www.coolapk.com/feed/73552990",
+          "image": "http://image.coolapk.com/feed/2026/0902/20/4248714_624fc707_1595_7633_270@1440x1126.jpg",
           "verdict": "先看",
-          "takeaway": "这苹果手机是不是有什么魔力啊[捂脸]我换 k80pro 之后就给小米15给我妹用了 用了一直挑毛病 说拍照没苹果清晰 屏幕也特别小 还说都怪我跟我爸说那个苹果13pro不值得买 然后就天天故意摔手机 问她干什么摔都说是手滑摔地上了[捂脸]可怜了我的手机",
-          "detail": "这苹果手机是不是有什么魔力啊[捂脸]我换 k80pro 之后就给小米15给我妹用了 用了一直挑毛病 说拍照没苹果清晰 屏幕也特别小 还说都怪我跟我爸说那个苹果13pro不值得买 然后就天天故意摔手机 问她干什么摔都说是手滑摔地上了[捂脸]可怜了我的手机",
+          "takeaway": "【OPPO卓世杰否认网传 Find X10 Pro Max 外观图：比这好看】 9月2日，针对网上流传的OPPO Find X10 Pro Max外观泄露图，Find 系列产品负责人卓世杰转发辟谣，表示真机比网传图片更好看。 此前8月，博主数码闲聊站爆料，OPPO Find X10 Pro Max 将全球首发三2亿全大底影像： 主摄｜200Mp 三星HPC…",
+          "detail": "【OPPO卓世杰否认网传 Find X10 Pro Max 外观图：比这好看】 9月2日，针对网上流传的OPPO Find X10 Pro Max外观泄露图，Find 系列产品负责人卓世杰转发辟谣，表示真机比网传图片更好看。 此前8月，博主数码闲聊站爆料，OPPO Find X10 Pro Max 将全球首发三2亿全大底影像： 主摄｜200Mp 三星HPC…",
           "keyPoints": [
-            "屏幕形态"
+            "外观 / 配色 / 尺寸",
+            "影像硬件",
+            "爆料来源"
           ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        }
+      ]
+    },
+    {
+      "id": "launch",
+      "title": "新机与官方发布",
+      "hint": "能直接更新到参数库。",
+      "items": [
+        {
+          "id": "auto-1f6f295d1337",
+          "title": "vivo T5 5G 手机海外发布：天玑 7500 Turbo、6.83 英寸曲面 AMOLED 屏，34999 印度卢比起",
+          "originalTitle": "",
+          "source": "IT之家",
+          "brand": "vivo",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-09-02",
+          "time": "12:39",
+          "publishedAt": "2026-09-02T12:39:25.000Z",
+          "url": "https://www.ithome.com/0/997/655.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/9/a4f1d321-8de8-4593-9358-dc6349ad9f1a.jpg?x-bce-process=image/format,f_auto",
+          "verdict": "先看",
+          "takeaway": "IT之家 9 月 2 日消息，vivo 今日在海外发布了 vivo T5 5G 手机（T5 4G 发布于今年 5 月），将从 9 月 9 日在印度开售，售 价 34,999 印度卢比 （IT之家注：现汇率约合 2,472 元人民币） 起： 6GB/128GB：售价 34,999 印度卢比 （现汇率约合 2,472 元人民币） 8GB/128GB：售价 39…",
+          "detail": "IT之家 9 月 2 日消息，vivo 今日在海外发布了 vivo T5 5G 手机（T5 4G 发布于今年 5 月），将从 9 月 9 日在印度开售，售 价 34,999 印度卢比 （IT之家注：现汇率约合 2,472 元人民币） 起： 6GB/128GB：售价 34,999 印度卢比 （现汇率约合 2,472 元人民币） 8GB/128GB：售价 39…",
+          "keyPoints": [
+            "屏幕形态",
+            "成本 / 价格"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "中文源可以直接点开快读；看完只保留和购机有关的点。"
         },
         {
-          "id": "newsnow-d9cffe9ece55",
-          "title": "很难受，换了十来部手机眼睛都难受，换到这部用了一个多月，眼睛都不难受，以为遇到了可以用的手机了。结果这两周开始眼睛一直酸胀[捂脸][捂脸][捂脸]k100promax屏幕会更舒服吗 #REDMIK100ProMax#",
+          "id": "newsnow-e901f0b4ae65",
+          "title": "华为、小米新品发布会撞档，博主称Mate90系列计划提前登场",
           "originalTitle": "",
           "source": "酷安热榜",
-          "brand": "Xiaomi",
+          "brand": "Huawei",
           "type": "爆料",
           "trust": "高关注爆料源",
           "date": "2026-09-02",
           "time": "",
           "publishedAt": "",
-          "url": "https://www.coolapk.com/feed/73532653",
+          "url": "https://www.coolapk.com/feed/73545205",
           "image": "",
           "verdict": "先看",
-          "takeaway": "很难受，换了十来部手机眼睛都难受，换到这部用了一个多月，眼睛都不难受，以为遇到了可以用的手机了。结果这两周开始眼睛一直酸胀[捂脸][捂脸][捂脸]k100promax屏幕会更舒服吗 #REDMIK100ProMax#",
-          "detail": "很难受，换了十来部手机眼睛都难受，换到这部用了一个多月，眼睛都不难受，以为遇到了可以用的手机了。结果这两周开始眼睛一直酸胀[捂脸][捂脸][捂脸]k100promax屏幕会更舒服吗 #REDMIK100ProMax#",
+          "takeaway": "华为、小米新品发布会撞档，博主称Mate90系列计划提前登场",
+          "detail": "华为、小米新品发布会撞档，博主称Mate90系列计划提前登场",
           "keyPoints": [
-            "屏幕形态"
+            "爆料"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        }
+      ]
+    },
+    {
+      "id": "market",
+      "title": "行业趋势",
+      "hint": "看方向，不急着当购买依据。",
+      "items": [
+        {
+          "id": "newsnow-ca3bdab4e548",
+          "title": "华为、小米、荣耀多款手机正式涨价",
+          "originalTitle": "",
+          "source": "酷安热榜",
+          "brand": "HONOR",
+          "type": "爆料",
+          "trust": "高关注爆料源",
+          "date": "2026-09-02",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://www.coolapk.com/feed/73527352",
+          "image": "",
+          "verdict": "先看",
+          "takeaway": "华为、小米、荣耀多款手机正式涨价",
+          "detail": "华为、小米、荣耀多款手机正式涨价",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "影响购买预算，值得先看。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         }
       ]
     }
