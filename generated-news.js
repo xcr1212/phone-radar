@@ -1,5 +1,5 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-09-02T00:13:03.178Z",
+  "updatedAt": "2026-09-02T04:33:38.346Z",
   "news": [
     {
       "id": "weibo-c039302f37ab",
@@ -10,8 +10,8 @@ window.phoneRadarAuto = {
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-09-02",
-      "time": "00:13",
-      "publishedAt": "2026-09-02T00:13:03.178Z",
+      "time": "04:33",
+      "publishedAt": "2026-09-02T04:33:38.346Z",
       "url": "https://weibo.com/6048569942/Rg6pu8O3E",
       "image": "https://tvax4.sinaimg.cn/mw2000/006BlblIly1ignyj8jhbrj31to142n61.jpg",
       "summary": "vivo X500 Pro Max真机，6.85\"2K+144Hz BOE，目测是1mm级别四等边直屏：",
@@ -30,8 +30,8 @@ window.phoneRadarAuto = {
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-09-02",
-      "time": "00:13",
-      "publishedAt": "2026-09-02T00:13:03.178Z",
+      "time": "04:33",
+      "publishedAt": "2026-09-02T04:33:38.346Z",
       "url": "https://weibo.com/6048569942/Rg4kqgAOR",
       "image": "https://tvax3.sinaimg.cn/mw2000/006BlblIgy1igo0955z8ej31fy0sgtbh.jpg",
       "summary": "iQOO16一个外观超前瞻： 全新方形Deco+大R角设计，三颗摄像头被串联起来，真机在Deco外框和底层纹理都有一些设计小巧思，精密机械感更强，有点像UFO，有种天外来物的感觉，视觉设计很有辨识度。 背板是独家研发的新工艺，整体设计走未来科幻美学风，在新旗舰阵营中，很有视觉冲击力[笑而不语]",
@@ -50,8 +50,8 @@ window.phoneRadarAuto = {
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-09-02",
-      "time": "00:13",
-      "publishedAt": "2026-09-02T00:13:03.178Z",
+      "time": "04:33",
+      "publishedAt": "2026-09-02T04:33:38.346Z",
       "url": "https://weibo.com/6048569942/Rg3X43c5U",
       "image": "",
       "summary": "独家信息，加加16定版影像方案： 安排子系唯一200Mp 1/1.4\"大底主摄； 升级50Mp 3X 1/1.95\"索尼潜望长焦； 全新50Mp超广角+50Mp AF前摄； 最新一代旗舰影像技术完整继承，横向看也是最强影像性能旗舰，该有的都有了[NO]",
@@ -70,8 +70,8 @@ window.phoneRadarAuto = {
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-09-02",
-      "time": "00:13",
-      "publishedAt": "2026-09-02T00:13:03.178Z",
+      "time": "04:33",
+      "publishedAt": "2026-09-02T04:33:38.346Z",
       "url": "https://weibo.com/6048569942/Rg3tfFq81",
       "image": "",
       "summary": "多款手机正式涨价，可以推测迭代新机的价格： 华为Mate90 12+256GB ≥ 5499元 华为Mate90 Pro 12+256GB ≥ 6999元 华为Mate90 Pro Max 16+512GB ≥ 8999元 荣耀Magic9 12+256GB ≥ 4799元 小米18 Pro 12+256GB ≥ 5699元 小米18 Pro Max 12…",
@@ -79,6 +79,166 @@ window.phoneRadarAuto = {
         "HONOR",
         "爆料",
         "微博"
+      ]
+    },
+    {
+      "id": "coolapk-user-ca9623b051bb",
+      "title": "竹本青：小米 18 Fold真机亮相 #今日热点# #小米18Fold#",
+      "source": "竹本青",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-09-02",
+      "time": "04:26",
+      "publishedAt": "2026-09-02T04:26:48.000Z",
+      "url": "https://www.coolapk.com/feed/73546552",
+      "image": "http://image.coolapk.com/feed/2026/0902/12/4248714_b5462970_3207_1138_342@1271x1734.jpg",
+      "summary": "小米 18 Fold真机亮相 #今日热点# #小米18Fold#",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-b817a684d6ab",
+      "title": "Samsung Galaxy S27, S27 Plus bag major certification; January launch expected",
+      "source": "Gizmochina",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-02",
+      "time": "03:39",
+      "publishedAt": "2026-09-02T03:39:14.000Z",
+      "url": "https://www.gizmochina.com/2026/09/02/samsung-galaxy-s27-s27-plus-3c-certified/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/08/Exclusive-Samsung-Galaxy-S27-AH-1154x649-1-300x169.webp?x23692",
+      "summary": "The Galaxy S27 series is beginning to appear on certification platforms ahead of its expected debut. Samsung’s upcoming flagship lineup has now made an appearance in China’s 3C ce…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-25df2ca8b5b4",
+      "title": "vivo 创作者盛典定档 9 月 7 日，X500 系列旗舰新机官宣“本月见”",
+      "source": "IT之家",
+      "brand": "vivo",
+      "model": "vivo 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-02",
+      "time": "03:33",
+      "publishedAt": "2026-09-02T03:33:01.000Z",
+      "url": "https://www.ithome.com/0/997/285.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/9/1336fb6c-ca4c-4e84-8059-93f699603da7.jpg",
+      "summary": "IT之家 9 月 2 日消息，vivo 产品副总裁黄韬今日宣布， vivo 创作者盛典定档 9 月 7 日 19:00 举行 。 黄韬称，做影像的这些年，有一件事越来越确定：创作者，永远是影像的核心。风景再美、技术再极致，真正赋予影像灵魂的，始终是镜头背后的创作者。所以今年， vivo 正式把「影像盛典」更名为「创作者盛典」 ，一场为创作者的盛典。 他表示…",
+      "tags": [
+        "vivo",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-b92eb480dcc4",
+      "title": "竹本青：vivo「创作者盛典」定档9月7日，X500系列本月见",
+      "source": "竹本青",
+      "brand": "vivo",
+      "model": "vivo 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-09-02",
+      "time": "03:04",
+      "publishedAt": "2026-09-02T03:04:11.000Z",
+      "url": "https://www.coolapk.com/feed/73545436",
+      "image": "http://image.coolapk.com/feed/2026/0902/11/4248714_5cf2dde3_8249_6509_998@1440x2321.jpg",
+      "summary": "【vivo「创作者盛典」定档9月7日举行，X500系列官宣本月见】 9月2日，vivo产品副总裁黄韬发文官宣，X500系列本月见。同时原「影像盛典」升级为「创作者盛典」定档9月7日19点举办。 黄韬表示，X500系列是蓝图影像战略升级后的首款产品，定位拍照的第一选择、视频的唯一选择，搭载蔡司超动态主摄、双灭霸超级长焦等硬件，将推动手机视频进入电影级阶段。以…",
+      "tags": [
+        "vivo",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "coolapk-user-d72be5484abb",
+      "title": "竹本青：华为、小米新品发布会撞档，博主称Mate90系列计划提前登场",
+      "source": "竹本青",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-09-02",
+      "time": "02:49",
+      "publishedAt": "2026-09-02T02:49:44.000Z",
+      "url": "https://www.coolapk.com/feed/73545205",
+      "image": "http://image.coolapk.com/feed/2026/0902/10/4248714_241efbe5_7384_0551_189@1440x1528.jpg",
+      "summary": "【华为、小米新品发布会撞档，博主称Mate90 系列计划提前登场】 鸿蒙7｜华为Mate XT2及全场景新品发布会 —— 9月7日14:30 小米秋季旗舰新品发布会 —— 9月7日19:00 今天上午，小米公司正式官宣，小米秋季新品发布会定档9月7日19:00举行，将发布澎程N70 Pro、N70 Max、N90 Max三款新车和小米 18 Fold 折叠…",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "coolapk-user-14010a1a3e21",
+      "title": "竹本青：2026 荣耀全球开发者大会 9月15日 2026 vivo开发者大会 9月16日 2026 OPPO开发者大会…",
+      "source": "竹本青",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-09-02",
+      "time": "02:45",
+      "publishedAt": "2026-09-02T02:45:57.000Z",
+      "url": "https://www.coolapk.com/feed/73545160",
+      "image": "http://image.coolapk.com/feed/2026/0902/10/4248714_228a923b_7156_1107_324@1000x3516.jpg",
+      "summary": "2026 荣耀全球开发者大会 9月15日 2026 vivo开发者大会 9月16日 2026 OPPO开发者大会 9月17日 #ColorOS17# #MagicOS11#",
+      "tags": [
+        "HONOR",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "coolapk-user-9c6c04a63fa3",
+      "title": "竹本青：ColorOS 17 将于9月17日发布，Find X10系列首发搭载",
+      "source": "竹本青",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-09-02",
+      "time": "02:04",
+      "publishedAt": "2026-09-02T02:04:51.000Z",
+      "url": "https://www.coolapk.com/feed/73544610",
+      "image": "http://image.coolapk.com/feed/2026/0902/10/4248714_8014a035_5787_3124_332@1620x3926.jpg",
+      "summary": "【ColorOS 17 定档9月17日发布，OPPO Find X10系列 将首发搭载】 大会主题演讲： ● 坚持流畅本色，迈向主动智能 ● 全新ColorOS 17发布 9月2日，OPPO公司官宣，ColorOS 17 发布暨开发者大会将于9月17日珠海举行。 据介绍，全新ColorOS 17将由OPPO Find X10系列 首发搭载。17日下午，还将…",
+      "tags": [
+        "OPPO",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "coolapk-user-71bd6d509005",
+      "title": "JSCHEN小小狐：全新华为 MatePad Air 亮相：12'' 2.8K OLED",
+      "source": "JSCHEN小小狐",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-09-02",
+      "time": "00:39",
+      "publishedAt": "2026-09-02T00:39:09.000Z",
+      "url": "https://www.coolapk.com/feed/73543691",
+      "image": "http://image.coolapk.com/feed/2026/0902/09/4702274_5cd8183f_1511_8326_104@2494x3324.jpg",
+      "summary": "『全新华为 MatePad Air 亮相：12'' 2.8K OLED』 烟云灰 / 暖云白 / 樱语粉 / 晴光蓝 / 浅夏柠 ◇ 珠光电泳工艺 / 阳极氧化工艺（灰） ◇ 厚度 5.3mm，整机重量约 509 克 ◇ 麒麟 T93B 处理器，性能提升 25% ◇ 12'' 2.8K 超亮 OLED 云晰柔光屏 ◇ 144Hz｜2000nits｜4.6m…",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "酷安博主"
       ]
     },
     {
@@ -182,21 +342,21 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-2bdc969483e3",
-      "title": "荣耀产品经理确认：WIN系列第一代手机正式版风扇区域取消导热凝胶设计",
+      "id": "newsnow-0e5f709ef639",
+      "title": "说点真心话，很多人感觉因为没见过这个样子的产品，就很高潮。我就说两个点，第1个点就是这个手机他吹的所有显示上的优点，你记住是所有的优点都是通过这个手机的宽度比其他手机宽的多换来的。第二，这种形态其实没有任何问题，就是你喜欢哪个形态都可以，喜欢长的就买长的，喜欢这种短的就买这种短的。但是如果他因为这个形态而降配。加价，因为营销这个形态的噱头，然后比其他手机就是同样配置的手机卖的更贵，这一点我认为是非常不值得的。所以我觉得如果他和Pura 90 Pro这个产品价格差不多的话，那我觉得没有任何问题，这两个产品就是形态的选择，喜欢小一点，长一点的就买90Pro,喜欢宽的短的就买这个，但是如果他卖的更贵的话，我觉得他就是为了想涨价而故意营销这个概念。最后不管网上怎么说，这个屏幕有多好，你永远要记住，它，绝对没有mate80 Pro max的屏幕好。所以mate80 Pro max的用户... 查看更多",
       "source": "酷安热榜",
-      "brand": "HONOR",
-      "model": "HONOR 相关机型",
+      "brand": "行业",
+      "model": "智能手机市场",
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-09-02",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73532797",
+      "url": "https://www.coolapk.com/feed/73536368",
       "image": "",
-      "summary": "荣耀产品经理确认：WIN系列第一代手机正式版风扇区域取消导热凝胶设计",
+      "summary": "说点真心话，很多人感觉因为没见过这个样子的产品，就很高潮。我就说两个点，第1个点就是这个手机他吹的所有显示上的优点，你记住是所有的优点都是通过这个手机的宽度比其他手机宽的多换来的。第二，这种形态其实没有任何问题，就是你喜欢哪个形态都可以，喜欢长的就买长的，喜欢这种短的就买这种短的。但是如果他因为这个形态而降配。加价，因为营销这个形态的噱头，然后比其他手机就…",
       "tags": [
-        "HONOR",
+        "行业",
         "爆料",
         "NewsNow"
       ]
@@ -222,27 +382,27 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-d0b9b9c6d773",
-      "title": "手机涨价 卖不动",
-      "source": "微博热搜",
-      "brand": "行业",
-      "model": "智能手机市场",
+      "id": "newsnow-d9cffe9ece55",
+      "title": "很难受，换了十来部手机眼睛都难受，换到这部用了一个多月，眼睛都不难受，以为遇到了可以用的手机了。结果这两周开始眼睛一直酸胀[捂脸][捂脸][捂脸]k100promax屏幕会更舒服吗 #REDMIK100ProMax#",
+      "source": "酷安热榜",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
       "type": "爆料",
-      "trust": "待验证",
+      "trust": "高关注爆料源",
       "date": "2026-09-02",
       "time": "",
       "publishedAt": "",
-      "url": "https://s.weibo.com/weibo?q=%E6%89%8B%E6%9C%BA%E6%B6%A8%E4%BB%B7%20%E5%8D%96%E4%B8%8D%E5%8A%A8&t=31&band_rank=2&Refer=top",
+      "url": "https://www.coolapk.com/feed/73532653",
       "image": "",
-      "summary": "手机涨价 卖不动",
+      "summary": "很难受，换了十来部手机眼睛都难受，换到这部用了一个多月，眼睛都不难受，以为遇到了可以用的手机了。结果这两周开始眼睛一直酸胀[捂脸][捂脸][捂脸]k100promax屏幕会更舒服吗 #REDMIK100ProMax#",
       "tags": [
-        "行业",
+        "Xiaomi",
         "爆料",
         "NewsNow"
       ]
     },
     {
-      "id": "newsnow-5c2d5a08ab6c",
+      "id": "newsnow-666b208dc3eb",
       "title": "老款手机集体涨价",
       "source": "微博热搜",
       "brand": "行业",
@@ -252,7 +412,7 @@ window.phoneRadarAuto = {
       "date": "2026-09-02",
       "time": "",
       "publishedAt": "",
-      "url": "https://s.weibo.com/weibo?q=%23%E8%80%81%E6%AC%BE%E6%89%8B%E6%9C%BA%E9%9B%86%E4%BD%93%E6%B6%A8%E4%BB%B7%23&t=31&band_rank=18&Refer=top",
+      "url": "https://s.weibo.com/weibo?q=%23%E8%80%81%E6%AC%BE%E6%89%8B%E6%9C%BA%E9%9B%86%E4%BD%93%E6%B6%A8%E4%BB%B7%23&t=31&band_rank=17&Refer=top",
       "image": "",
       "summary": "老款手机集体涨价",
       "tags": [
@@ -262,61 +422,41 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-88c6d76a8ff5",
-      "title": "手机一夜涨价！赶紧下手还是等等",
-      "source": "百度热搜",
-      "brand": "行业",
-      "model": "智能手机市场",
+      "id": "newsnow-ad554784ac6e",
+      "title": "华为、小米、荣耀手机集体调价，华为 Mate80 全系涨价，最高涨 1000 元，普通人换机该怎么选？",
+      "source": "知乎热榜",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "市场报告",
+      "trust": "媒体汇总",
+      "date": "2026-09-02",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.zhihu.com/question/2078044954333651846",
+      "image": "",
+      "summary": "华为、小米、荣耀手机集体调价，华为 Mate80 全系涨价，最高涨 1000 元，普通人换机该怎么选？",
+      "tags": [
+        "HONOR",
+        "市场报告",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-01ce4cf614d7",
+      "title": "苹果首款折叠屏前瞻",
+      "source": "B站热搜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
       "type": "爆料",
       "trust": "媒体汇总",
       "date": "2026-09-02",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.baidu.com/s?wd=%E6%89%8B%E6%9C%BA%E4%B8%80%E5%A4%9C%E6%B6%A8%E4%BB%B7%EF%BC%81%E8%B5%B6%E7%B4%A7%E4%B8%8B%E6%89%8B%E8%BF%98%E6%98%AF%E7%AD%89%E7%AD%89",
+      "url": "https://search.bilibili.com/all?keyword=%E8%8B%B9%E6%9E%9C%E9%A6%96%E6%AC%BE%E6%8A%98%E5%8F%A0%E5%B1%8F%E5%89%8D%E7%9E%BB",
       "image": "",
-      "summary": "手机一夜涨价！赶紧下手还是等等",
+      "summary": "苹果首款折叠屏前瞻",
       "tags": [
-        "行业",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-d4599bf07d58",
-      "title": "“豆包手机”外观公布 有4种配色",
-      "source": "百度热搜",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-09-02",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.baidu.com/s?wd=%E2%80%9C%E8%B1%86%E5%8C%85%E6%89%8B%E6%9C%BA%E2%80%9D%E5%A4%96%E8%A7%82%E5%85%AC%E5%B8%83+%E6%9C%894%E7%A7%8D%E9%85%8D%E8%89%B2",
-      "image": "",
-      "summary": "“豆包手机”外观公布 有4种配色",
-      "tags": [
-        "行业",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-f133aa2e37d5",
-      "title": "多款手机正式涨价",
-      "source": "抖音热点",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "待验证",
-      "date": "2026-09-02",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.douyin.com/hot/2631214",
-      "image": "",
-      "summary": "多款手机正式涨价",
-      "tags": [
-        "行业",
+        "iPhone",
         "爆料",
         "NewsNow"
       ]
@@ -335,46 +475,6 @@ window.phoneRadarAuto = {
       "url": "https://www.macrumors.com/2026/09/01/iphone-air-one-year-review/",
       "image": "",
       "summary": "It's been almost 12 months since Apple launched the iPhone Air , and because MacRumors videographer Dan Barbera has been using it daily since launch, he decided to do a one-year r…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-169d37ab10a0",
-      "title": "苹果 iPhone 18 Pro Max 和首款折叠 iPhone Ultra 机模曝光",
-      "source": "IT之家",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-09-01",
-      "time": "23:32",
-      "publishedAt": "2026-09-01T23:32:00.000Z",
-      "url": "https://www.ithome.com/0/997/205.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/9/e5756b64-8a6e-4d03-a318-58f33a930604.jpg?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 9 月 2 日消息，YouTube 频道 Unbox Therapy 主播刘易斯 · 希尔森特格（Lewis Hilsenteger）于 8 月 30 日更新视频， 分享了苹果 iPhone 18 Pro Max 以及苹果首款折叠手机（上市后预估名为 iPhone Ultra）的机模。 相比较此前曝光的机模版本，该媒体晒出的 iPhone Ult…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-9e1b3aba3eb5",
-      "title": "苹果新 CEO 特努斯首封内部信：iPhone 18 Pro / Max 发布会必将惊艳四座",
-      "source": "IT之家",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-09-01",
-      "time": "22:45",
-      "publishedAt": "2026-09-01T22:45:44.000Z",
-      "url": "https://www.ithome.com/0/997/195.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/9/fbb86608-a129-4080-821d-c7816ac35c68.png",
-      "summary": "IT之家 9 月 2 日消息，苹果公司昨日（9 月 1 日）换帅迈入“特努斯时代”， 约翰 · 特努斯（John Ternus）接替蒂姆 · 库克（Tim Cook）出任苹果公司 CEO，而库克同日转任执行主席。 IT之家昨日报道，库克以 CEO 身份向苹果员工发送了一封充满感情的备忘录，这封告别信回顾了库克在苹果度过的时光，还对特努斯表达了期许。 特努斯…",
       "tags": [
         "iPhone",
         "爆料",
@@ -502,26 +602,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-67b0b42a2229",
-      "title": "高通跃龙 Q-2390、IQ-2390 处理器发布：面向消费级物联网等领域，预计 2027 年初面市",
-      "source": "IT之家",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-09-01",
-      "time": "15:25",
-      "publishedAt": "2026-09-01T15:25:59.000Z",
-      "url": "https://www.ithome.com/0/997/185.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/9/a9696522-caf3-44a0-bcdd-6045a5efa869.png?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 9 月 1 日消息，高通公司今日宣布推出跃龙（Dragonwing）Q-2390 和 IQ-2390 处理器，面向消费级物联网、工业边缘计算等领域。 据介绍，这两款处理器均配备四核 Kryo CPU、Adreno704 GPU 以及实时 RISC-V MCU。支持 Linux、Android 和 Zephyr OS 操作系统，开发者可为其打造更多…",
-      "tags": [
-        "行业",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-44ce60efb20d",
       "title": "iPhone 18 Pro Colors Apparently Include Black, But Skip Silver",
       "source": "MacRumors",
@@ -557,66 +637,6 @@ window.phoneRadarAuto = {
       "summary": "As many of you know, the Galaxy S26 FE is official and almost ready to go on sale globally. The phone itself seems decent for what it is, but right now I'm more concerned about th…",
       "tags": [
         "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "coolapk-user-32cc1f9b2557",
-      "title": "竹本青：【江汽集团：“尊界效应”持续撬动百万级超豪华市场】 8月31日，尊界S800 Grand Design典藏大观、尊…",
-      "source": "竹本青",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-09-01",
-      "time": "14:07",
-      "publishedAt": "2026-09-01T14:07:19.000Z",
-      "url": "https://www.coolapk.com/feed/73540076",
-      "image": "http://image.coolapk.com/feed/2026/0901/22/4248714_5402e1fb_1638_9162_196@1269x846.jpg",
-      "summary": "【江汽集团：“尊界效应”持续撬动百万级超豪华市场】 8月31日，尊界S800 Grand Design典藏大观、尊界V800双旗舰新品全国首批车主交付仪式于上海举办。 在交付仪式上，江汽集团控股公司党委书记、董事长、总经理项兴初在致辞中表示：“两款旗舰，一种底色。尊界不是在复制传统豪华，而是在用科技创新与时代匠心重新定义超豪华。这条路，我们会坚定地走下去。…",
-      "tags": [
-        "行业",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
-      "id": "auto-4b47b6b51bd0",
-      "title": "小米海外推出 POCO F9 Ultra 手机：为 REDMI K100 Pro Max“套娃机”、换用 8050mAh 电池",
-      "source": "IT之家",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-09-01",
-      "time": "14:03",
-      "publishedAt": "2026-09-01T14:03:37.000Z",
-      "url": "https://www.ithome.com/0/997/165.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/9/1fbd0575-f8b1-454e-ae1d-6a88c18259db.jpg?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 9 月 1 日消息，小米现已在海外市场推出 POCO F9 Ultra 手机，该机本质上就是 REDMI K100 Pro Max 的“套娃机”，其中 12GB RAM +256GB 存储空间版本 149,800 日元 （IT之家注：现汇率约合 6,311 元人民币） ，16GB RAM+512GB 存储空间版本 169,800 日元 （现汇率约…",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-b2bd24a4c7b4",
-      "title": "小米 POCO X8 手机海外发布：8340mAh 大电池，骁龙 6s Gen 4 芯片",
-      "source": "IT之家",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-09-01",
-      "time": "13:45",
-      "publishedAt": "2026-09-01T13:45:47.000Z",
-      "url": "https://www.ithome.com/0/997/163.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/9/ea3007d4-53a8-4c1b-a118-7027995b0afc.jpg?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 9 月 1 日消息，小米今天在海外市场推出 POCO X8 手机。新机定位中低端市场，采用高通骁龙 6s Gen 4 移动平台， 配备 8340mAh 大电池 。 据介绍，POCO X8 的机身厚度是 8.6mm，重量 223g，提供银色、橙色、黑色等配色， 正面配备一块 6.83 英寸 AMOLED 屏幕 ，分辨率为 2772*1280，支持…",
-      "tags": [
-        "Xiaomi",
         "爆料",
         "自动抓取"
       ]
@@ -682,26 +702,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-435c026d75d3",
-      "title": "消息称 OPPO 门店本月将上调多款机型价格，涨价幅度在 300 元-500 元之间",
-      "source": "IT之家",
-      "brand": "OPPO",
-      "model": "OPPO 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-09-01",
-      "time": "12:57",
-      "publishedAt": "2026-09-01T12:57:15.000Z",
-      "url": "https://www.ithome.com/0/997/151.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/7/7f8406e6-1452-44c6-a136-41297ec85186.jpg?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 9 月 1 日消息，据界面新闻从上海多家线下门店获悉，OPPO 计划于本月对其旗下多款智能手机产品进行价格调整，涉及 Reno16 系列及 一加 Turbo 6X Pro 系列，涨价幅度在 300 元至 500 元区间。目前，部分门店已经更换 OPPO Reno16 价格指示牌，OPPO Reno16 型号改为 OPPO Reno16t。 据上海…",
-      "tags": [
-        "OPPO",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-2a9c97fbd5b5",
       "title": "Galaxy Z Fold 8 is selling too fast for Samsung to keep up",
       "source": "SamMobile",
@@ -742,26 +742,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "coolapk-user-0abc407e5b73",
-      "title": "竹本青：【OPPO门店：Reno 16系列和一加 Turbo 6X Pro手机本月涨价，幅度300元-500元】 9月1日…",
-      "source": "竹本青",
-      "brand": "OPPO",
-      "model": "OPPO 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-09-01",
-      "time": "12:29",
-      "publishedAt": "2026-09-01T12:29:56.000Z",
-      "url": "https://www.coolapk.com/feed/73538560",
-      "image": "http://image.coolapk.com/feed/2026/0901/20/4248714_62d50426_5795_7246_908@1080x810.jpg",
-      "summary": "【OPPO门店：Reno 16系列和一加 Turbo 6X Pro手机本月涨价，幅度300元-500元】 9月1日，据界面新闻报道，OPPO本月将上调多款机型售价。涉及机型为OPPO Reno16系列和一加Turbo 6X Pro系列，涨价幅度为300元-500元之间。其中部分门店已经更换OPPO Reno16 价格指示牌，OPPO Reno16型号改为O…",
-      "tags": [
-        "OPPO",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
       "id": "auto-d04c8ab54e50",
       "title": "Samsung updates Galaxy S22 with August 2026 security patch",
       "source": "SamMobile",
@@ -799,26 +779,6 @@ window.phoneRadarAuto = {
         "Pixel",
         "爆料",
         "自动抓取"
-      ]
-    },
-    {
-      "id": "coolapk-user-cb88206ed9c6",
-      "title": "竹本青：2026荣耀全球开发者大会定档9月15日",
-      "source": "竹本青",
-      "brand": "HONOR",
-      "model": "HONOR 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-09-01",
-      "time": "10:08",
-      "publishedAt": "2026-09-01T10:08:22.000Z",
-      "url": "https://www.coolapk.com/feed/73536642",
-      "image": "http://image.coolapk.com/feed/2026/0901/18/4248714_269d6fc4_7301_4362_517@1014x4412.jpg",
-      "summary": "【2026 荣耀全球开发者大会定档9月15日】 9月1日，荣耀俱乐部官宣，2026 荣耀全球开发者大会定于9月15日在深圳举办。 大会活动议程： ▫️09:30‑12:10：MagicOS产品经理专题交流 ▫️12:10‑13:00：午餐 ▫️13:15‑14:10：HGDC音乐会 ▫️14:10‑16:00：大会体验区逛展 #MagicOS11# #Ma…",
-      "tags": [
-        "HONOR",
-        "爆料",
-        "酷安博主"
       ]
     },
     {

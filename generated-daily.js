@@ -1,12 +1,12 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-09-02T00:13:03.178Z",
+  "updatedAt": "2026-09-02T04:33:38.346Z",
   "issueDate": "2026-09-02",
   "issue": "VOL.260902",
   "title": "手机情报日报",
-  "intro": "今日筛出 15 条重点，其中 8 条是重点爆料，包含 7 条 iPhone 相关、1 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 14 条重点，其中 8 条是重点爆料，包含 4 条 iPhone 相关、1 条官方确认、0 条参数线索。",
   "stats": {
-    "total": 15,
-    "iphone": 7,
+    "total": 14,
+    "iphone": 4,
     "leaks": 8,
     "official": 1,
     "specs": 0
@@ -17,52 +17,6 @@ window.phoneRadarDaily = {
       "title": "重点爆料",
       "hint": "机模、配色、影像、屏幕、电池和芯片线索先看。",
       "items": [
-        {
-          "id": "auto-169d37ab10a0",
-          "title": "苹果 iPhone 18 Pro Max 和首款折叠 iPhone Ultra 机模曝光",
-          "originalTitle": "",
-          "source": "IT之家",
-          "brand": "iPhone",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-09-01",
-          "time": "23:32",
-          "publishedAt": "2026-09-01T23:32:00.000Z",
-          "url": "https://www.ithome.com/0/997/205.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/9/e5756b64-8a6e-4d03-a318-58f33a930604.jpg?x-bce-process=image/format,f_auto",
-          "verdict": "先看",
-          "takeaway": "IT之家 9 月 2 日消息，YouTube 频道 Unbox Therapy 主播刘易斯 · 希尔森特格（Lewis Hilsenteger）于 8 月 30 日更新视频， 分享了苹果 iPhone 18 Pro Max 以及苹果首款折叠手机（上市后预估名为 iPhone Ultra）的机模。 相比较此前曝光的机模版本，该媒体晒出的 iPhone Ult…",
-          "detail": "IT之家 9 月 2 日消息，YouTube 频道 Unbox Therapy 主播刘易斯 · 希尔森特格（Lewis Hilsenteger）于 8 月 30 日更新视频， 分享了苹果 iPhone 18 Pro Max 以及苹果首款折叠手机（上市后预估名为 iPhone Ultra）的机模。 相比较此前曝光的机模版本，该媒体晒出的 iPhone Ult…",
-          "keyPoints": [
-            "外观 / 配色 / 尺寸"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "auto-9e1b3aba3eb5",
-          "title": "苹果新 CEO 特努斯首封内部信：iPhone 18 Pro / Max 发布会必将惊艳四座",
-          "originalTitle": "",
-          "source": "IT之家",
-          "brand": "iPhone",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-09-01",
-          "time": "22:45",
-          "publishedAt": "2026-09-01T22:45:44.000Z",
-          "url": "https://www.ithome.com/0/997/195.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/9/fbb86608-a129-4080-821d-c7816ac35c68.png",
-          "verdict": "先看",
-          "takeaway": "IT之家 9 月 2 日消息，苹果公司昨日（9 月 1 日）换帅迈入“特努斯时代”， 约翰 · 特努斯（John Ternus）接替蒂姆 · 库克（Tim Cook）出任苹果公司 CEO，而库克同日转任执行主席。 IT之家昨日报道，库克以 CEO 身份向苹果员工发送了一封充满感情的备忘录，这封告别信回顾了库克在苹果度过的时光，还对特努斯表达了期许。 特努斯…",
-          "detail": "IT之家 9 月 2 日消息，苹果公司昨日（9 月 1 日）换帅迈入“特努斯时代”， 约翰 · 特努斯（John Ternus）接替蒂姆 · 库克（Tim Cook）出任苹果公司 CEO，而库克同日转任执行主席。 IT之家昨日报道，库克以 CEO 身份向苹果员工发送了一封充满感情的备忘录，这封告别信回顾了库克在苹果度过的时光，还对特努斯表达了期许。 特努斯…",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
         {
           "id": "auto-44ce60efb20d",
           "title": "iPhone 18 Pro 机模 / 配色信息曝光",
@@ -88,26 +42,23 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
-          "id": "auto-b2bd24a4c7b4",
-          "title": "小米 POCO X8 手机海外发布：8340mAh 大电池，骁龙 6s Gen 4 芯片",
+          "id": "newsnow-01ce4cf614d7",
+          "title": "苹果首款折叠屏前瞻",
           "originalTitle": "",
-          "source": "IT之家",
-          "brand": "Xiaomi",
+          "source": "B站热搜",
+          "brand": "iPhone",
           "type": "爆料",
           "trust": "媒体汇总",
-          "date": "2026-09-01",
-          "time": "13:45",
-          "publishedAt": "2026-09-01T13:45:47.000Z",
-          "url": "https://www.ithome.com/0/997/163.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/9/ea3007d4-53a8-4c1b-a118-7027995b0afc.jpg?x-bce-process=image/format,f_auto",
+          "date": "2026-09-02",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://search.bilibili.com/all?keyword=%E8%8B%B9%E6%9E%9C%E9%A6%96%E6%AC%BE%E6%8A%98%E5%8F%A0%E5%B1%8F%E5%89%8D%E7%9E%BB",
+          "image": "",
           "verdict": "先看",
-          "takeaway": "IT之家 9 月 1 日消息，小米今天在海外市场推出 POCO X8 手机。新机定位中低端市场，采用高通骁龙 6s Gen 4 移动平台， 配备 8340mAh 大电池 。 据介绍，POCO X8 的机身厚度是 8.6mm，重量 223g，提供银色、橙色、黑色等配色， 正面配备一块 6.83 英寸 AMOLED 屏幕 ，分辨率为 2772*1280，支持…",
-          "detail": "IT之家 9 月 1 日消息，小米今天在海外市场推出 POCO X8 手机。新机定位中低端市场，采用高通骁龙 6s Gen 4 移动平台， 配备 8340mAh 大电池 。 据介绍，POCO X8 的机身厚度是 8.6mm，重量 223g，提供银色、橙色、黑色等配色， 正面配备一块 6.83 英寸 AMOLED 屏幕 ，分辨率为 2772*1280，支持…",
+          "takeaway": "苹果首款折叠屏前瞻",
+          "detail": "苹果首款折叠屏前瞻",
           "keyPoints": [
-            "外观 / 配色 / 尺寸",
-            "屏幕形态",
-            "电池 / 充电",
-            "芯片 / 性能"
+            "屏幕形态"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
@@ -138,23 +89,23 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
-          "id": "auto-4b47b6b51bd0",
-          "title": "小米海外推出 POCO F9 Ultra 手机：为 REDMI K100 Pro Max“套娃机”、换用 8050mAh 电池",
+          "id": "auto-25df2ca8b5b4",
+          "title": "vivo 创作者盛典定档 9 月 7 日，X500 系列旗舰新机官宣“本月见”",
           "originalTitle": "",
           "source": "IT之家",
-          "brand": "Xiaomi",
+          "brand": "vivo",
           "type": "爆料",
           "trust": "媒体汇总",
-          "date": "2026-09-01",
-          "time": "14:03",
-          "publishedAt": "2026-09-01T14:03:37.000Z",
-          "url": "https://www.ithome.com/0/997/165.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/9/1fbd0575-f8b1-454e-ae1d-6a88c18259db.jpg?x-bce-process=image/format,f_auto",
+          "date": "2026-09-02",
+          "time": "03:33",
+          "publishedAt": "2026-09-02T03:33:01.000Z",
+          "url": "https://www.ithome.com/0/997/285.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/9/1336fb6c-ca4c-4e84-8059-93f699603da7.jpg",
           "verdict": "先看",
-          "takeaway": "IT之家 9 月 1 日消息，小米现已在海外市场推出 POCO F9 Ultra 手机，该机本质上就是 REDMI K100 Pro Max 的“套娃机”，其中 12GB RAM +256GB 存储空间版本 149,800 日元 （IT之家注：现汇率约合 6,311 元人民币） ，16GB RAM+512GB 存储空间版本 169,800 日元 （现汇率约…",
-          "detail": "IT之家 9 月 1 日消息，小米现已在海外市场推出 POCO F9 Ultra 手机，该机本质上就是 REDMI K100 Pro Max 的“套娃机”，其中 12GB RAM +256GB 存储空间版本 149,800 日元 （IT之家注：现汇率约合 6,311 元人民币） ，16GB RAM+512GB 存储空间版本 169,800 日元 （现汇率约…",
+          "takeaway": "IT之家 9 月 2 日消息，vivo 产品副总裁黄韬今日宣布， vivo 创作者盛典定档 9 月 7 日 19:00 举行 。 黄韬称，做影像的这些年，有一件事越来越确定：创作者，永远是影像的核心。风景再美、技术再极致，真正赋予影像灵魂的，始终是镜头背后的创作者。所以今年， vivo 正式把「影像盛典」更名为「创作者盛典」 ，一场为创作者的盛典。 他表示…",
+          "detail": "IT之家 9 月 2 日消息，vivo 产品副总裁黄韬今日宣布， vivo 创作者盛典定档 9 月 7 日 19:00 举行 。 黄韬称，做影像的这些年，有一件事越来越确定：创作者，永远是影像的核心。风景再美、技术再极致，真正赋予影像灵魂的，始终是镜头背后的创作者。所以今年， vivo 正式把「影像盛典」更名为「创作者盛典」 ，一场为创作者的盛典。 他表示…",
           "keyPoints": [
-            "电池 / 充电"
+            "影像硬件"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
@@ -169,8 +120,8 @@ window.phoneRadarDaily = {
           "type": "爆料",
           "trust": "高关注爆料源",
           "date": "2026-09-02",
-          "time": "00:13",
-          "publishedAt": "2026-09-02T00:13:03.178Z",
+          "time": "04:33",
+          "publishedAt": "2026-09-02T04:33:38.346Z",
           "url": "https://weibo.com/6048569942/Rg4kqgAOR",
           "image": "https://tvax3.sinaimg.cn/mw2000/006BlblIgy1igo0955z8ej31fy0sgtbh.jpg",
           "verdict": "先看",
@@ -193,8 +144,8 @@ window.phoneRadarDaily = {
           "type": "爆料",
           "trust": "高关注爆料源",
           "date": "2026-09-02",
-          "time": "00:13",
-          "publishedAt": "2026-09-02T00:13:03.178Z",
+          "time": "04:33",
+          "publishedAt": "2026-09-02T04:33:38.346Z",
           "url": "https://weibo.com/6048569942/Rg3tfFq81",
           "image": "",
           "verdict": "先看",
@@ -205,6 +156,52 @@ window.phoneRadarDaily = {
             "爆料来源"
           ],
           "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "newsnow-5cf1f9d283dc",
+          "title": "这苹果手机是不是有什么魔力啊[捂脸]我换 k80pro 之后就给小米15给我妹用了 用了一直挑毛病 说拍照没苹果清晰 屏幕也特别小 还说都怪我跟我爸说那个苹果13pro不值得买 然后就天天故意摔手机 问她干什么摔都说是手滑摔地上了[捂脸]可怜了我的手机",
+          "originalTitle": "",
+          "source": "酷安热榜",
+          "brand": "Xiaomi",
+          "type": "爆料",
+          "trust": "高关注爆料源",
+          "date": "2026-09-02",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://www.coolapk.com/feed/73533252",
+          "image": "",
+          "verdict": "先看",
+          "takeaway": "这苹果手机是不是有什么魔力啊[捂脸]我换 k80pro 之后就给小米15给我妹用了 用了一直挑毛病 说拍照没苹果清晰 屏幕也特别小 还说都怪我跟我爸说那个苹果13pro不值得买 然后就天天故意摔手机 问她干什么摔都说是手滑摔地上了[捂脸]可怜了我的手机",
+          "detail": "这苹果手机是不是有什么魔力啊[捂脸]我换 k80pro 之后就给小米15给我妹用了 用了一直挑毛病 说拍照没苹果清晰 屏幕也特别小 还说都怪我跟我爸说那个苹果13pro不值得买 然后就天天故意摔手机 问她干什么摔都说是手滑摔地上了[捂脸]可怜了我的手机",
+          "keyPoints": [
+            "屏幕形态"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "newsnow-d9cffe9ece55",
+          "title": "很难受，换了十来部手机眼睛都难受，换到这部用了一个多月，眼睛都不难受，以为遇到了可以用的手机了。结果这两周开始眼睛一直酸胀[捂脸][捂脸][捂脸]k100promax屏幕会更舒服吗 #REDMIK100ProMax#",
+          "originalTitle": "",
+          "source": "酷安热榜",
+          "brand": "Xiaomi",
+          "type": "爆料",
+          "trust": "高关注爆料源",
+          "date": "2026-09-02",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://www.coolapk.com/feed/73532653",
+          "image": "",
+          "verdict": "先看",
+          "takeaway": "很难受，换了十来部手机眼睛都难受，换到这部用了一个多月，眼睛都不难受，以为遇到了可以用的手机了。结果这两周开始眼睛一直酸胀[捂脸][捂脸][捂脸]k100promax屏幕会更舒服吗 #REDMIK100ProMax#",
+          "detail": "很难受，换了十来部手机眼睛都难受，换到这部用了一个多月，眼睛都不难受，以为遇到了可以用的手机了。结果这两周开始眼睛一直酸胀[捂脸][捂脸][捂脸]k100promax屏幕会更舒服吗 #REDMIK100ProMax#",
+          "keyPoints": [
+            "屏幕形态"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         }
@@ -240,52 +237,6 @@ window.phoneRadarDaily = {
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "影响性能和寿命判断，适合放进参数库。",
           "action": "有具体参数就记录到参数库；没有参数就先收藏。"
-        },
-        {
-          "id": "newsnow-a67eaea11236",
-          "title": "把「闪念胶囊」（Almost）放到 iPhone 锁屏",
-          "originalTitle": "",
-          "source": "少数派热榜",
-          "brand": "iPhone",
-          "type": "评测",
-          "trust": "媒体汇总",
-          "date": "2026-09-02",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://sspai.com/post/113219",
-          "image": "",
-          "verdict": "扫一眼",
-          "takeaway": "把「闪念胶囊」（Almost）放到 iPhone 锁屏",
-          "detail": "把「闪念胶囊」（Almost）放到 iPhone 锁屏",
-          "keyPoints": [
-            "评测"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是实际体验内容，买前适合重点看缺点和取舍。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
-        {
-          "id": "auto-f8985c74b634",
-          "title": "iPhone 折叠屏相关消息",
-          "originalTitle": "",
-          "source": "9to5Google",
-          "brand": "iPhone",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-09-01",
-          "time": "15:50",
-          "publishedAt": "2026-09-01T15:50:00.000Z",
-          "url": "https://9to5google.com/2026/09/01/razer-prio-usb-c-foldable-game-controller/",
-          "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/09/razer-prio-controller-1.jpg?quality=82&strip=all&w=1500",
-          "verdict": "扫一眼",
-          "takeaway": "iPhone 折叠屏相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
-          "detail": "iPhone 折叠屏相关消息。重点看折痕、铰链、厚度、屏幕可靠性和重量是否有实质改善。",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         }
       ]
     },
@@ -294,6 +245,29 @@ window.phoneRadarDaily = {
       "title": "新机与官方发布",
       "hint": "能直接更新到参数库。",
       "items": [
+        {
+          "id": "coolapk-user-9c6c04a63fa3",
+          "title": "竹本青：ColorOS 17 将于9月17日发布，Find X10系列首发搭载",
+          "originalTitle": "",
+          "source": "竹本青",
+          "brand": "OPPO",
+          "type": "爆料",
+          "trust": "高可信爆料",
+          "date": "2026-09-02",
+          "time": "02:04",
+          "publishedAt": "2026-09-02T02:04:51.000Z",
+          "url": "https://www.coolapk.com/feed/73544610",
+          "image": "http://image.coolapk.com/feed/2026/0902/10/4248714_8014a035_5787_3124_332@1620x3926.jpg",
+          "verdict": "扫一眼",
+          "takeaway": "【ColorOS 17 定档9月17日发布，OPPO Find X10系列 将首发搭载】 大会主题演讲： ● 坚持流畅本色，迈向主动智能 ● 全新ColorOS 17发布 9月2日，OPPO公司官宣，ColorOS 17 发布暨开发者大会将于9月17日珠海举行。 据介绍，全新ColorOS 17将由OPPO Find X10系列 首发搭载。17日下午，还将…",
+          "detail": "【ColorOS 17 定档9月17日发布，OPPO Find X10系列 将首发搭载】 大会主题演讲： ● 坚持流畅本色，迈向主动智能 ● 全新ColorOS 17发布 9月2日，OPPO公司官宣，ColorOS 17 发布暨开发者大会将于9月17日珠海举行。 据介绍，全新ColorOS 17将由OPPO Find X10系列 首发搭载。17日下午，还将…",
+          "keyPoints": [
+            "外观 / 配色 / 尺寸"
+          ],
+          "confidence": "可信度较高，但仍属于发布前线索。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        },
         {
           "id": "auto-faffe967715e",
           "title": "Samsung 折叠屏相关消息",
@@ -348,29 +322,6 @@ window.phoneRadarDaily = {
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         },
         {
-          "id": "newsnow-2bdc969483e3",
-          "title": "荣耀产品经理确认：WIN系列第一代手机正式版风扇区域取消导热凝胶设计",
-          "originalTitle": "",
-          "source": "酷安热榜",
-          "brand": "HONOR",
-          "type": "爆料",
-          "trust": "高关注爆料源",
-          "date": "2026-09-02",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://www.coolapk.com/feed/73532797",
-          "image": "",
-          "verdict": "先看",
-          "takeaway": "荣耀产品经理确认：WIN系列第一代手机正式版风扇区域取消导热凝胶设计",
-          "detail": "荣耀产品经理确认：WIN系列第一代手机正式版风扇区域取消导热凝胶设计",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
-        {
           "id": "newsnow-dfdaccd84dcb",
           "title": "根据b站荧的测试，9050pro的单核性能似乎达到了2200，多核性能8500，也就是单核8gen3，多核8gen3.5的水平，对比9030pro的单核8+，多核8gen3的水平，提升应该是挺大的吧[呲牙][呲牙][呲牙]#鸿蒙7# #华为MateXT2# #华为PuraXView#",
           "originalTitle": "",
@@ -391,6 +342,29 @@ window.phoneRadarDaily = {
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "影响性能和寿命判断，适合放进参数库。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        },
+        {
+          "id": "coolapk-user-ca9623b051bb",
+          "title": "竹本青：小米 18 Fold真机亮相 #今日热点# #小米18Fold#",
+          "originalTitle": "",
+          "source": "竹本青",
+          "brand": "Xiaomi",
+          "type": "爆料",
+          "trust": "高可信爆料",
+          "date": "2026-09-02",
+          "time": "04:26",
+          "publishedAt": "2026-09-02T04:26:48.000Z",
+          "url": "https://www.coolapk.com/feed/73546552",
+          "image": "http://image.coolapk.com/feed/2026/0902/12/4248714_b5462970_3207_1138_342@1271x1734.jpg",
+          "verdict": "扫一眼",
+          "takeaway": "小米 18 Fold真机亮相 #今日热点# #小米18Fold#",
+          "detail": "小米 18 Fold真机亮相 #今日热点# #小米18Fold#",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "可信度较高，但仍属于发布前线索。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         }
       ]
