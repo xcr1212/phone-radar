@@ -1,12 +1,12 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-09-03T04:35:43.733Z",
+  "updatedAt": "2026-09-03T11:12:46.365Z",
   "issueDate": "2026-09-03",
   "issue": "VOL.260903",
   "title": "手机情报日报",
-  "intro": "今日筛出 10 条重点，其中 8 条是重点爆料，包含 5 条 iPhone 相关、1 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 12 条重点，其中 8 条是重点爆料，包含 7 条 iPhone 相关、1 条官方确认、0 条参数线索。",
   "stats": {
-    "total": 10,
-    "iphone": 5,
+    "total": 12,
+    "iphone": 7,
     "leaks": 8,
     "official": 1,
     "specs": 0
@@ -17,29 +17,6 @@ window.phoneRadarDaily = {
       "title": "重点爆料",
       "hint": "机模、配色、影像、屏幕、电池和芯片线索先看。",
       "items": [
-        {
-          "id": "auto-e8df56b1f37b",
-          "title": "报道称 2026Q2 印度成全球第四大 iPhone 市场，出货量占比 6.25%",
-          "originalTitle": "",
-          "source": "IT之家",
-          "brand": "iPhone",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-09-03",
-          "time": "04:10",
-          "publishedAt": "2026-09-03T04:10:40.000Z",
-          "url": "https://www.ithome.com/0/997/856.htm",
-          "image": "",
-          "verdict": "先看",
-          "takeaway": "IT之家 9 月 3 日消息，科技媒体 business-standard 昨日（9 月 2 日）发布博文，援引市场调查机构 Omdia 数据， 称在 2026 年第 2 季度印度成为全球第四大 iPhone 市场。 博文报道称 2026 年第 2 季度全球 iPhone 总出货量为 5512 万部，其中向印度出货了 345 万部 iPhone（占其全球总…",
-          "detail": "IT之家 9 月 3 日消息，科技媒体 business-standard 昨日（9 月 2 日）发布博文，援引市场调查机构 Omdia 数据， 称在 2026 年第 2 季度印度成为全球第四大 iPhone 市场。 博文报道称 2026 年第 2 季度全球 iPhone 总出货量为 5512 万部，其中向印度出货了 345 万部 iPhone（占其全球总…",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
         {
           "id": "auto-ef58d64f27b4",
           "title": "除了折叠屏 iPhone，Apple 发布会还有哪些看点？",
@@ -58,6 +35,30 @@ window.phoneRadarDaily = {
           "detail": "上周，Apple公布了今年秋季发布会的时间和主题，这场名为「Surpriseandshine」的发布会将于北京时间9月10日凌晨一点在ApplePark举行。与过去两年的秋季发布会不同，今年的「科技春 ...",
           "keyPoints": [
             "屏幕形态"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "newsnow-ce3961247afc",
+          "title": "苹果首款折叠屏iPhone预计将在9月10日发布，大家觉得起售价会是多少呢？",
+          "originalTitle": "",
+          "source": "酷安热榜",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "高关注爆料源",
+          "date": "2026-09-03",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://www.coolapk.com/feed/73564021",
+          "image": "",
+          "verdict": "先看",
+          "takeaway": "苹果首款折叠屏iPhone预计将在9月10日发布，大家觉得起售价会是多少呢？",
+          "detail": "苹果首款折叠屏iPhone预计将在9月10日发布，大家觉得起售价会是多少呢？",
+          "keyPoints": [
+            "屏幕形态",
+            "成本 / 价格"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
@@ -88,6 +89,76 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
+          "id": "auto-9ce5601ccd30",
+          "title": "小米 18 Fold 中折叠手机亮相 IFA 2026，真机配色很抢眼",
+          "originalTitle": "",
+          "source": "IT之家",
+          "brand": "Xiaomi",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-09-03",
+          "time": "09:25",
+          "publishedAt": "2026-09-03T09:25:19.000Z",
+          "url": "https://www.ithome.com/0/998/045.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/9/281bf628-6aaa-4fbf-8f49-de94b57a48f2.jpg?x-bce-process=image/format,f_auto",
+          "verdict": "先看",
+          "takeaway": "IT之家 9 月 3 日消息，据科技媒体 GSMArena 今天报道，小米 18 Fold 中折叠手机现已在 IFA 2026 展会中亮相。该机采用更加圆润的机身形态， 搭载自研玄戒 O3 芯片 。 IT之家从原报道获悉，小米现场展示的真机锁在玻璃柜里， 暂时无法上手体验 。不过我们仍然可以近距离观看它的设计。 我们可以看到， 这台手机的「西野红」配色十分…",
+          "detail": "IT之家 9 月 3 日消息，据科技媒体 GSMArena 今天报道，小米 18 Fold 中折叠手机现已在 IFA 2026 展会中亮相。该机采用更加圆润的机身形态， 搭载自研玄戒 O3 芯片 。 IT之家从原报道获悉，小米现场展示的真机锁在玻璃柜里， 暂时无法上手体验 。不过我们仍然可以近距离观看它的设计。 我们可以看到， 这台手机的「西野红」配色十分…",
+          "keyPoints": [
+            "外观 / 配色 / 尺寸",
+            "芯片 / 性能"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "auto-974f2d407dac",
+          "title": "iPhone 18 Pro 价格 / 成本相关消息",
+          "originalTitle": "",
+          "source": "MacRumors",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-09-03",
+          "time": "10:41",
+          "publishedAt": "2026-09-03T10:41:31.000Z",
+          "url": "https://www.macrumors.com/2026/09/03/iphone-18-pro-prices-apple-event-next-week/",
+          "image": "https://images.macrumors.com/article-new/2026/08/iPhone-18-Pro-Dark-Cherry-Feature.jpg",
+          "verdict": "先看",
+          "takeaway": "iPhone 18 Pro 价格 / 成本相关消息。如果涉及订阅、售价或硬件成本，才需要进一步看细节。",
+          "detail": "iPhone 18 Pro 价格 / 成本相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
+          "keyPoints": [
+            "成本 / 价格"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "newsnow-4df2abc82c26",
+          "title": "曝iPhoneUltra无折痕失败",
+          "originalTitle": "",
+          "source": "微博热搜",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "待验证",
+          "date": "2026-09-03",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%9B%9DiPhoneUltra%E6%97%A0%E6%8A%98%E7%97%95%E5%A4%B1%E8%B4%A5%23&t=31&band_rank=27&Refer=top",
+          "image": "",
+          "verdict": "先看",
+          "takeaway": "曝iPhoneUltra无折痕失败",
+          "detail": "曝iPhoneUltra无折痕失败",
+          "keyPoints": [
+            "屏幕形态"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
           "id": "auto-e7316cb30cf1",
           "title": "iPhone 相关消息",
           "originalTitle": "",
@@ -111,96 +182,27 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
-          "id": "auto-09c00a1faddd",
-          "title": "vivo X500 系列标准版手机官宣搭载 X300 Pro 同款主摄传感器",
+          "id": "weibo-225f263a30f7",
+          "title": "数码闲聊站：华为Mate90系列疑似入网！摄像头数量6，可能是Pro系列，电池额定容量是6…",
           "originalTitle": "",
-          "source": "IT之家",
-          "brand": "vivo",
+          "source": "数码闲聊站",
+          "brand": "Huawei",
           "type": "爆料",
-          "trust": "媒体汇总",
+          "trust": "高关注爆料源",
           "date": "2026-09-03",
-          "time": "03:42",
-          "publishedAt": "2026-09-03T03:42:52.000Z",
-          "url": "https://www.ithome.com/0/997/842.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/9/1e2fe502-6d9a-40bb-bd85-6ad00b7d6b68.jpg?x-bce-process=image/format,f_auto",
+          "time": "11:12",
+          "publishedAt": "2026-09-03T11:12:46.365Z",
+          "url": "https://weibo.com/6048569942/RgmgNfcqr",
+          "image": "https://tvax1.sinaimg.cn/mw2000/006BlblIgy1igq7d8ce1ij30xr1a1dt7.jpg",
           "verdict": "先看",
-          "takeaway": "IT之家 9 月 3 日消息，vivo 通信科技有限公司产品经理韩伯啸今日发文，预热了 X500 系列标准版机型的影像硬件。 据介绍， vivo X500 标准版搭载 X300 Pro 同款主摄传感器 ：蓝图 × 索尼 LYTIA-828、1/1.28 英寸、X 系列标准版史上主摄最大底、蔡司云台级防抖、CIPA 5.5 专业防抖等级。 主摄之外， viv…",
-          "detail": "IT之家 9 月 3 日消息，vivo 通信科技有限公司产品经理韩伯啸今日发文，预热了 X500 系列标准版机型的影像硬件。 据介绍， vivo X500 标准版搭载 X300 Pro 同款主摄传感器 ：蓝图 × 索尼 LYTIA-828、1/1.28 英寸、X 系列标准版史上主摄最大底、蔡司云台级防抖、CIPA 5.5 专业防抖等级。 主摄之外， viv…",
+          "takeaway": "华为Mate90系列疑似入网！摄像头数量6，可能是Pro系列，电池额定容量是6615mAh，典型值预计是6800±，和之前我说的工程机容量吻合。 更大的亮点是标注了「5G数字移动电话机」，华为国行版也将以韬芯片形式正式回归5G？！[笑而不语]",
+          "detail": "华为Mate90系列疑似入网！摄像头数量6，可能是Pro系列，电池额定容量是6615mAh，典型值预计是6800±，和之前我说的工程机容量吻合。 更大的亮点是标注了「5G数字移动电话机」，华为国行版也将以韬芯片形式正式回归5G？！[笑而不语]",
           "keyPoints": [
-            "影像硬件"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "auto-6d45cf8ed93d",
-          "title": "三星 Galaxy A18 4G 手机曝光：3 种颜色，联发科 Helio G99 芯片",
-          "originalTitle": "",
-          "source": "IT之家",
-          "brand": "Samsung",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-09-03",
-          "time": "01:54",
-          "publishedAt": "2026-09-03T01:54:13.000Z",
-          "url": "https://www.ithome.com/0/997/763.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/9/7da9a2e1-709b-4075-aa64-51b03eed92bd.jpg?x-bce-process=image/format,f_auto",
-          "verdict": "先看",
-          "takeaway": "IT之家 9 月 3 日消息，消息源罗兰 · 匡特（Roland Quandt）昨日（9 月 2 日）在 Bluesky 平台发布动态， 爆料称三星 Galaxy A18 4G 手机将配有浅蓝色、黑色和银色 3 种颜色，并提供 128GB/256GB 两种存储规格。 尺寸方面，三星 Galaxy A18 4G 机身尺寸预估为 164.4 × 77.8 ×…",
-          "detail": "IT之家 9 月 3 日消息，消息源罗兰 · 匡特（Roland Quandt）昨日（9 月 2 日）在 Bluesky 平台发布动态， 爆料称三星 Galaxy A18 4G 手机将配有浅蓝色、黑色和银色 3 种颜色，并提供 128GB/256GB 两种存储规格。 尺寸方面，三星 Galaxy A18 4G 机身尺寸预估为 164.4 × 77.8 ×…",
-          "keyPoints": [
-            "外观 / 配色 / 尺寸",
+            "电池 / 充电",
             "芯片 / 性能",
             "爆料来源"
           ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "auto-3b0f99120a3c",
-          "title": "华为国行 5G 回归！Mate 90 系列年度旗舰“疑似”入网，新机或归属 Pro 系列",
-          "originalTitle": "",
-          "source": "IT之家",
-          "brand": "Huawei",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-09-03",
-          "time": "01:38",
-          "publishedAt": "2026-09-03T01:38:39.000Z",
-          "url": "https://www.ithome.com/0/997/757.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/9/23043708-3dc1-463f-a16b-7d650dded9ee.jpg?x-bce-process=image/format,f_auto",
-          "verdict": "先看",
-          "takeaway": "IT之家 9 月 3 日消息，型号为 CMM-AL10 和 CMM-AL00 的华为新机已现身电信设备终端网。 博主 @数码闲聊站 猜测是华为 Mate 90 系列年度旗舰手机 。 IT之家注意到，此次入网新机最大的亮点就是标注了“5G 数字移动电话机”， 这意味着华为国行手机也将迎来 5G 回归 。值得一提的是，华为 5G 手机近期已在海外正式回归，今年…",
-          "detail": "IT之家 9 月 3 日消息，型号为 CMM-AL10 和 CMM-AL00 的华为新机已现身电信设备终端网。 博主 @数码闲聊站 猜测是华为 Mate 90 系列年度旗舰手机 。 IT之家注意到，此次入网新机最大的亮点就是标注了“5G 数字移动电话机”， 这意味着华为国行手机也将迎来 5G 回归 。值得一提的是，华为 5G 手机近期已在海外正式回归，今年…",
-          "keyPoints": [
-            "爆料来源"
-          ],
           "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "auto-3e294d7e18e8",
-          "title": "华为何刚：全新展翼三折叠手机 Mate XT 2 非凡大师传承标志性星钻设计，拥有全新青云纹理",
-          "originalTitle": "",
-          "source": "IT之家",
-          "brand": "Huawei",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-09-03",
-          "time": "00:59",
-          "publishedAt": "2026-09-03T00:59:49.000Z",
-          "url": "https://www.ithome.com/0/997/746.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/9/ac89eda4-4cab-4342-bd99-c4f0a3b230f0.jpg",
-          "verdict": "先看",
-          "takeaway": "IT之家 9 月 3 日消息，华为终端 BG CEO 何刚今日发布视频，介绍了全新展翼三折叠手机 —— Mate XT 2 非凡大师的外观设计。 华为 Mate XT 2 非凡大师全新展翼三折叠手机传承了标志性星钻设计，含 33 个星钻切面；传统织金云锦工艺融入机身设计，拥有全新青云纹理。 何刚表示， 该设计蕴含了一份紫气东来、青云直上的美好寓意 。 参考…",
-          "detail": "IT之家 9 月 3 日消息，华为终端 BG CEO 何刚今日发布视频，介绍了全新展翼三折叠手机 —— Mate XT 2 非凡大师的外观设计。 华为 Mate XT 2 非凡大师全新展翼三折叠手机传承了标志性星钻设计，含 33 个星钻切面；传统织金云锦工艺融入机身设计，拥有全新青云纹理。 何刚表示， 该设计蕴含了一份紫气东来、青云直上的美好寓意 。 参考…",
-          "keyPoints": [
-            "外观 / 配色 / 尺寸"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         }
@@ -237,32 +239,78 @@ window.phoneRadarDaily = {
       ]
     },
     {
-      "id": "launch",
-      "title": "新机与官方发布",
-      "hint": "能直接更新到参数库。",
+      "id": "market",
+      "title": "行业趋势",
+      "hint": "看方向，不急着当购买依据。",
       "items": [
         {
-          "id": "auto-89579836d776",
-          "title": "三星 Galaxy S27 系列手机壳曝光，Pro / Ultra 启用矩阵后摄单元",
+          "id": "newsnow-3b079c7c4d74",
+          "title": "【曝华为Mate 90 Pro Max入网：鸿蒙5G手机，6颗摄像头】",
           "originalTitle": "",
-          "source": "IT之家",
-          "brand": "Samsung",
+          "source": "酷安热榜",
+          "brand": "Huawei",
           "type": "爆料",
-          "trust": "媒体汇总",
+          "trust": "高关注爆料源",
           "date": "2026-09-03",
-          "time": "01:44",
-          "publishedAt": "2026-09-03T01:44:37.000Z",
-          "url": "https://www.ithome.com/0/997/760.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/9/d0564a3d-8a7d-4d64-a5ba-46b553b9e80a.png?x-bce-process=image/format,f_auto",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://www.coolapk.com/feed/73558477",
+          "image": "",
           "verdict": "先看",
-          "takeaway": "IT之家 9 月 3 日消息，数码博主 @i冰宇宙 昨日（9 月 2 日）发布微博，分享了一张手机壳照片， 展示了三星 Galaxy S27 标准版、Galaxy S27+、Galaxy S27 Pro 和 Galaxy S27 Ultra 四款机型。 IT之家附上相关截图如下： 根据曝光的手机壳开孔显示，三星 Galaxy S27 标准版和 Galaxy…",
-          "detail": "IT之家 9 月 3 日消息，数码博主 @i冰宇宙 昨日（9 月 2 日）发布微博，分享了一张手机壳照片， 展示了三星 Galaxy S27 标准版、Galaxy S27+、Galaxy S27 Pro 和 Galaxy S27 Ultra 四款机型。 IT之家附上相关截图如下： 根据曝光的手机壳开孔显示，三星 Galaxy S27 标准版和 Galaxy…",
+          "takeaway": "【曝华为Mate 90 Pro Max入网：鸿蒙5G手机，6颗摄像头】",
+          "detail": "【曝华为Mate 90 Pro Max入网：鸿蒙5G手机，6颗摄像头】",
           "keyPoints": [
             "爆料"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "中文源可以直接点开快读；看完只保留和购机有关的点。"
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        },
+        {
+          "id": "newsnow-90bae4629bc2",
+          "title": "华为、小米、荣耀多款手机正式涨价",
+          "originalTitle": "",
+          "source": "酷安热榜",
+          "brand": "HONOR",
+          "type": "爆料",
+          "trust": "高关注爆料源",
+          "date": "2026-09-03",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://www.coolapk.com/feed/73527352",
+          "image": "",
+          "verdict": "先看",
+          "takeaway": "华为、小米、荣耀多款手机正式涨价",
+          "detail": "华为、小米、荣耀多款手机正式涨价",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "影响购买预算，值得先看。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        },
+        {
+          "id": "coolapk-user-8f8afb42b975",
+          "title": "JSCHEN小小狐：前段时间跑了趟金华 (×) 东阳 (✓) 不得不说金义东线真是个好东西 去了好多之前不太有空去的地方 #手机摄影#",
+          "originalTitle": "",
+          "source": "JSCHEN小小狐",
+          "brand": "Xiaomi",
+          "type": "爆料",
+          "trust": "高可信爆料",
+          "date": "2026-09-03",
+          "time": "10:30",
+          "publishedAt": "2026-09-03T10:30:03.000Z",
+          "url": "https://www.coolapk.com/feed/73565994",
+          "image": "http://image.coolapk.com/feed/2026/0903/18/4702274_e2b4749a_1398_463_135-uhdr@2365x3504.jpg",
+          "verdict": "扫一眼",
+          "takeaway": "前段时间跑了趟金华 (×) 东阳 (✓) 不得不说金义东线真是个好东西 去了好多之前不太有空去的地方 #手机摄影#",
+          "detail": "前段时间跑了趟金华 (×) 东阳 (✓) 不得不说金义东线真是个好东西 去了好多之前不太有空去的地方 #手机摄影#",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "可信度较高，但仍属于发布前线索。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         }
       ]
     }
