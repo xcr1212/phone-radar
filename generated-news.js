@@ -1,6 +1,26 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-09-03T00:14:47.424Z",
+  "updatedAt": "2026-09-03T04:35:43.733Z",
   "news": [
+    {
+      "id": "weibo-225f263a30f7",
+      "title": "数码闲聊站：华为Mate90系列疑似入网！摄像头数量6，可能是Pro系列，电池额定容量是6…",
+      "source": "数码闲聊站",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-09-03",
+      "time": "04:35",
+      "publishedAt": "2026-09-03T04:35:43.733Z",
+      "url": "https://weibo.com/6048569942/RgmgNfcqr",
+      "image": "https://tvax1.sinaimg.cn/mw2000/006BlblIgy1igq7d8ce1ij30xr1a1dt7.jpg",
+      "summary": "华为Mate90系列疑似入网！摄像头数量6，可能是Pro系列，电池额定容量是6615mAh，典型值预计是6800±，和之前我说的工程机容量吻合。 更大的亮点是标注了「5G数字移动电话机」，华为国行版也将以韬芯片形式正式回归5G？！[笑而不语]",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "微博"
+      ]
+    },
     {
       "id": "weibo-86106fba02a0",
       "title": "数码闲聊站：小米18 Fold： 7.58英寸内屏，5.38英寸外屏，侧边指纹，徕卡Sum…",
@@ -10,8 +30,8 @@ window.phoneRadarAuto = {
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-09-03",
-      "time": "00:14",
-      "publishedAt": "2026-09-03T00:14:47.424Z",
+      "time": "04:35",
+      "publishedAt": "2026-09-03T04:35:43.733Z",
       "url": "https://weibo.com/6048569942/Rgf45j6Xx",
       "image": "",
       "summary": "小米18 Fold： 7.58英寸内屏，5.38英寸外屏，侧边指纹，徕卡Summilux三摄影像，主摄光圈F1.7，长焦光圈F2.8，17mm超广角，潜望长焦等效光变3.5X",
@@ -22,23 +42,283 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "weibo-c039302f37ab",
-      "title": "数码闲聊站：vivo X500 Pro Max真机，6.85\"2K+144Hz BOE，目…",
-      "source": "数码闲聊站",
+      "id": "auto-5a9ea599cecc",
+      "title": "Here's how Samsung is safeguarding silicon batteries in the Galaxy Z Fold 8 and Fold 8 Ultra",
+      "source": "Android Central",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-09-03",
+      "time": "04:20",
+      "publishedAt": "2026-09-03T04:20:07.000Z",
+      "url": "https://www.androidcentral.com/phones/samsung-galaxy/heres-how-samsung-is-safeguarding-silicon-batteries-in-the-galaxy-z-fold-8-and-fold-8-ultra",
+      "image": "https://cdn.mos.cms.futurecdn.net/LWGuqW7BXL9T6AQNKkuMbd-1280-80.jpg",
+      "summary": "Samsung isn't just adding a silicon-carbon material to the anode — it redesigned the battery architecture.",
+      "tags": [
+        "Samsung",
+        "评测",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-e8df56b1f37b",
+      "title": "报道称 2026Q2 印度成全球第四大 iPhone 市场，出货量占比 6.25%",
+      "source": "IT之家",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-03",
+      "time": "04:10",
+      "publishedAt": "2026-09-03T04:10:40.000Z",
+      "url": "https://www.ithome.com/0/997/856.htm",
+      "image": "",
+      "summary": "IT之家 9 月 3 日消息，科技媒体 business-standard 昨日（9 月 2 日）发布博文，援引市场调查机构 Omdia 数据， 称在 2026 年第 2 季度印度成为全球第四大 iPhone 市场。 博文报道称 2026 年第 2 季度全球 iPhone 总出货量为 5512 万部，其中向印度出货了 345 万部 iPhone（占其全球总…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-fd7b19b13e56",
+      "title": "Vivo X500 officially confirmed to feature 50MP Sony LYT-838 main cam, 64MP periscope telephoto",
+      "source": "Gizmochina",
       "brand": "vivo",
       "model": "vivo 相关机型",
       "type": "爆料",
-      "trust": "高关注爆料源",
+      "trust": "媒体汇总",
       "date": "2026-09-03",
-      "time": "00:14",
-      "publishedAt": "2026-09-03T00:14:47.424Z",
-      "url": "https://weibo.com/6048569942/Rg6pu8O3E",
-      "image": "https://tvax4.sinaimg.cn/mw2000/006BlblIly1ignyj8jhbrj31to142n61.jpg",
-      "summary": "vivo X500 Pro Max真机，6.85\"2K+144Hz BOE，目测是1mm级别四等边直屏：",
+      "time": "03:46",
+      "publishedAt": "2026-09-03T03:46:26.000Z",
+      "url": "https://www.gizmochina.com/2026/09/03/vivo-x500-camera-specs-officially-confirmed/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/09/VIvo-X500-cameras--300x179.png?x23692",
+      "summary": "Vivo is expected to unveil the Vivo X500, X500 Pro, and X500 Pro Max later this month in China. Ahead of the launch, the company has already revealed camera details for the X500 P…",
       "tags": [
         "vivo",
         "爆料",
-        "微博"
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-09c00a1faddd",
+      "title": "vivo X500 系列标准版手机官宣搭载 X300 Pro 同款主摄传感器",
+      "source": "IT之家",
+      "brand": "vivo",
+      "model": "vivo 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-03",
+      "time": "03:42",
+      "publishedAt": "2026-09-03T03:42:52.000Z",
+      "url": "https://www.ithome.com/0/997/842.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/9/1e2fe502-6d9a-40bb-bd85-6ad00b7d6b68.jpg?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 9 月 3 日消息，vivo 通信科技有限公司产品经理韩伯啸今日发文，预热了 X500 系列标准版机型的影像硬件。 据介绍， vivo X500 标准版搭载 X300 Pro 同款主摄传感器 ：蓝图 × 索尼 LYTIA-828、1/1.28 英寸、X 系列标准版史上主摄最大底、蔡司云台级防抖、CIPA 5.5 专业防抖等级。 主摄之外， viv…",
+      "tags": [
+        "vivo",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-d3b75e9a8d7b",
+      "title": "竹本青：vivo产品经理回应X500搭载LYTIA-828主摄",
+      "source": "竹本青",
+      "brand": "vivo",
+      "model": "vivo 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-09-03",
+      "time": "03:21",
+      "publishedAt": "2026-09-03T03:21:07.000Z",
+      "url": "https://www.coolapk.com/feed/73560011",
+      "image": "http://image.coolapk.com/feed/2026/0903/11/4248714_e23adbba_5666_1954_654@1440x2031.jpg",
+      "summary": "【vivo韩伯啸回应 X500标准版 主摄搭载LYTIA-828：断差的优势】 9月3日，vivo产品经理韩伯啸爆料，X500标准版主摄将沿用上代X300Pro同款索尼LYTIA‑828传感器。 他随后转发补充称：“讲的再多，不如效果上直接给一记重锤。这种可见效果上断差的优势，可以帮助消费者简单明了的做出判断。” #今日热点# #vivoX500# #Or…",
+      "tags": [
+        "vivo",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "coolapk-user-649e74044a67",
+      "title": "竹本青：小米18 Fold 续航组合：6000mAh+67W+50W",
+      "source": "竹本青",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-09-03",
+      "time": "03:01",
+      "publishedAt": "2026-09-03T03:01:08.000Z",
+      "url": "https://www.coolapk.com/feed/73559744",
+      "image": "http://image.coolapk.com/feed/2026/0903/11/4248714_d36e1944_4467_1476_908@960x1280.jpg",
+      "summary": "【小米18 Fold 续航组合公布：6000mAh+67W有线+50W无线】 ● 6000mAh金沙江电池，创新叠片工艺 ● 电池含硅量20%，能量密度920Wh/L ● 支持67W有线快充，50W无线快充 #今日热点# #HyperOS4# #小米18Fold#",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "coolapk-user-64e4c97623ad",
+      "title": "竹本青：【小米18 Fold：抗跌落能力媲美直板旗舰】 ● 新一代小米龙骨转轴：自然水滴形态，三级连杆结构，全贴合保护 ●…",
+      "source": "竹本青",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-09-03",
+      "time": "02:09",
+      "publishedAt": "2026-09-03T02:09:12.000Z",
+      "url": "https://www.coolapk.com/feed/73559103",
+      "image": "http://image.coolapk.com/feed/2026/0903/10/4248714_283dea5a_1350_0637_816@1440x1920.jpg",
+      "summary": "【小米18 Fold：抗跌落能力媲美直板旗舰】 ● 新一代小米龙骨转轴：自然水滴形态，三级连杆结构，全贴合保护 ● 双层UTG超薄玻璃：50um+30um，屏幕强度、抗冲击性大幅提升 ● 前后双面龙晶玻璃3.0+7系铝合金中框 ● 拥有1.2米抗跌落能力，媲美直板旗舰 #今日热点# #小米18Fold# #HyperOS4#",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "coolapk-user-298d90ec5be6",
+      "title": "竹本青：vivo X500预热：LYTIA-828主摄／610潜望长焦",
+      "source": "竹本青",
+      "brand": "vivo",
+      "model": "vivo 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-09-03",
+      "time": "02:06",
+      "publishedAt": "2026-09-03T02:06:21.000Z",
+      "url": "https://www.coolapk.com/feed/73559061",
+      "image": "http://image.coolapk.com/feed/2026/0903/10/4248714_d8a47a64_1179_162_98@2000x2667.jpg",
+      "summary": "【vivo X500标准版 影像爆料：索尼 LYTIA-828主摄，索尼LYTIA-610潜望长焦】 ● 主摄｜50MP 蓝图×索尼 LYTIA-828 1/1.28\" CIPA 5.5防抖 ● 潜望长焦｜64MP 索尼LYTIA-610 CIPA 5.5防抖，4K 120fps慢动作 ● 支持「口红200」增距镜 #今日热点# #OriginOS7# #…",
+      "tags": [
+        "vivo",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-6d45cf8ed93d",
+      "title": "三星 Galaxy A18 4G 手机曝光：3 种颜色，联发科 Helio G99 芯片",
+      "source": "IT之家",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-03",
+      "time": "01:54",
+      "publishedAt": "2026-09-03T01:54:13.000Z",
+      "url": "https://www.ithome.com/0/997/763.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/9/7da9a2e1-709b-4075-aa64-51b03eed92bd.jpg?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 9 月 3 日消息，消息源罗兰 · 匡特（Roland Quandt）昨日（9 月 2 日）在 Bluesky 平台发布动态， 爆料称三星 Galaxy A18 4G 手机将配有浅蓝色、黑色和银色 3 种颜色，并提供 128GB/256GB 两种存储规格。 尺寸方面，三星 Galaxy A18 4G 机身尺寸预估为 164.4 × 77.8 ×…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-89579836d776",
+      "title": "三星 Galaxy S27 系列手机壳曝光，Pro / Ultra 启用矩阵后摄单元",
+      "source": "IT之家",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-03",
+      "time": "01:44",
+      "publishedAt": "2026-09-03T01:44:37.000Z",
+      "url": "https://www.ithome.com/0/997/760.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/9/d0564a3d-8a7d-4d64-a5ba-46b553b9e80a.png?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 9 月 3 日消息，数码博主 @i冰宇宙 昨日（9 月 2 日）发布微博，分享了一张手机壳照片， 展示了三星 Galaxy S27 标准版、Galaxy S27+、Galaxy S27 Pro 和 Galaxy S27 Ultra 四款机型。 IT之家附上相关截图如下： 根据曝光的手机壳开孔显示，三星 Galaxy S27 标准版和 Galaxy…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-3b0f99120a3c",
+      "title": "华为国行 5G 回归！Mate 90 系列年度旗舰“疑似”入网，新机或归属 Pro 系列",
+      "source": "IT之家",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-03",
+      "time": "01:38",
+      "publishedAt": "2026-09-03T01:38:39.000Z",
+      "url": "https://www.ithome.com/0/997/757.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/9/23043708-3dc1-463f-a16b-7d650dded9ee.jpg?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 9 月 3 日消息，型号为 CMM-AL10 和 CMM-AL00 的华为新机已现身电信设备终端网。 博主 @数码闲聊站 猜测是华为 Mate 90 系列年度旗舰手机 。 IT之家注意到，此次入网新机最大的亮点就是标注了“5G 数字移动电话机”， 这意味着华为国行手机也将迎来 5G 回归 。值得一提的是，华为 5G 手机近期已在海外正式回归，今年…",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-3e294d7e18e8",
+      "title": "华为何刚：全新展翼三折叠手机 Mate XT 2 非凡大师传承标志性星钻设计，拥有全新青云纹理",
+      "source": "IT之家",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-03",
+      "time": "00:59",
+      "publishedAt": "2026-09-03T00:59:49.000Z",
+      "url": "https://www.ithome.com/0/997/746.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/9/ac89eda4-4cab-4342-bd99-c4f0a3b230f0.jpg",
+      "summary": "IT之家 9 月 3 日消息，华为终端 BG CEO 何刚今日发布视频，介绍了全新展翼三折叠手机 —— Mate XT 2 非凡大师的外观设计。 华为 Mate XT 2 非凡大师全新展翼三折叠手机传承了标志性星钻设计，含 33 个星钻切面；传统织金云锦工艺融入机身设计，拥有全新青云纹理。 何刚表示， 该设计蕴含了一份紫气东来、青云直上的美好寓意 。 参考…",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-28801b70f28b",
+      "title": "同样麒麟 + 5G：华为 nova 16s 新机海外发布，搭载 Kirin 8020 处理器",
+      "source": "IT之家",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-03",
+      "time": "00:49",
+      "publishedAt": "2026-09-03T00:49:23.000Z",
+      "url": "https://www.ithome.com/0/997/745.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/9/a10964b0-ff26-4db1-85dc-a40d878621f6.jpg",
+      "summary": "IT之家 9 月 3 日消息，华为昨日在德国慕尼黑举行全球新品发布会，除了推出 nova 16s Pro 外， 还带来了 nova 16s 机型 ，主打 5000 万像素 RYYB 潜望长焦镜头、真实彩色相机（预计为红枫原色镜头）以及 7000mAh 大电池。 据介绍，nova 16s 配备一块 6.68 英寸圆角设计 OLED 屏幕，分辨率为 FHD+（…",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-a60adf029ad4",
+      "title": "Google’s next Pixel Fold reportedly adopting the same crease-less display as Apple",
+      "source": "9to5Google",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-03",
+      "time": "00:30",
+      "publishedAt": "2026-09-03T00:30:00.000Z",
+      "url": "https://9to5google.com/2026/09/02/google-pixel-12-pro-fold-crease-less-display-report/",
+      "image": "",
+      "summary": "We’re still a few days out from the debut of Apple’s first iPhone foldable which, as many have expected for years, will have a crease-less display. According to a new report, Goog…",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
       ]
     },
     {
@@ -122,46 +402,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-90bae4629bc2",
-      "title": "华为、小米、荣耀多款手机正式涨价",
-      "source": "酷安热榜",
-      "brand": "HONOR",
-      "model": "HONOR 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-09-03",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73527352",
-      "image": "",
-      "summary": "华为、小米、荣耀多款手机正式涨价",
-      "tags": [
-        "HONOR",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-d60b3b5375fe",
-      "title": "华为、小米新品发布会撞档，博主称Mate90系列计划提前登场",
-      "source": "酷安热榜",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-09-03",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73545205",
-      "image": "",
-      "summary": "华为、小米新品发布会撞档，博主称Mate90系列计划提前登场",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
       "id": "newsnow-feba454ea80c",
       "title": "来华为售后一个星期了，修到了好几例 mate 80 黑屏的问题，可能是通病，解决方案就是换一个 sim 小板就好了[doge笑哭]酷友们可以注意一下 ，mate80promax 只要拆过，防水几乎没有，必须返厂做气密才行[捂脸]#华为Mate80# #华为Mate80Pro# #华为#",
       "source": "酷安热榜",
@@ -182,19 +422,39 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-2808ce9af437",
-      "title": "为继承母亲手机号 姐弟三人打官司",
-      "source": "百度热搜",
-      "brand": "行业",
-      "model": "智能手机市场",
+      "id": "newsnow-90bae4629bc2",
+      "title": "华为、小米、荣耀多款手机正式涨价",
+      "source": "酷安热榜",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
       "type": "爆料",
-      "trust": "媒体汇总",
+      "trust": "高关注爆料源",
       "date": "2026-09-03",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.baidu.com/s?wd=%E4%B8%BA%E7%BB%A7%E6%89%BF%E6%AF%8D%E4%BA%B2%E6%89%8B%E6%9C%BA%E5%8F%B7+%E5%A7%90%E5%BC%9F%E4%B8%89%E4%BA%BA%E6%89%93%E5%AE%98%E5%8F%B8",
+      "url": "https://www.coolapk.com/feed/73527352",
       "image": "",
-      "summary": "为继承母亲手机号 姐弟三人打官司",
+      "summary": "华为、小米、荣耀多款手机正式涨价",
+      "tags": [
+        "HONOR",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-9c498141f478",
+      "title": "理性讨论，图1，2这两个deco除了都是长条跑道形，其余真一样吗[害怕]（非引战纯讨论，引战的评论我会隐藏[二哈盯]，非米粉非花粉非V粉，不是任一手机品牌粉丝）图3～图7用横跑道的手机多了去了。",
+      "source": "酷安热榜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-09-03",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/73553289",
+      "image": "",
+      "summary": "理性讨论，图1，2这两个deco除了都是长条跑道形，其余真一样吗[害怕]（非引战纯讨论，引战的评论我会隐藏[二哈盯]，非米粉非花粉非V粉，不是任一手机品牌粉丝）图3～图7用横跑道的手机多了去了。",
       "tags": [
         "行业",
         "爆料",
@@ -202,123 +462,43 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-0181a61ae604",
-      "title": "手机涨价以为会疯抢结果询价都没人",
-      "source": "百度热搜",
-      "brand": "行业",
-      "model": "智能手机市场",
+      "id": "newsnow-3b079c7c4d74",
+      "title": "【曝华为Mate 90 Pro Max入网：鸿蒙5G手机，6颗摄像头】",
+      "source": "酷安热榜",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
       "type": "爆料",
-      "trust": "媒体汇总",
+      "trust": "高关注爆料源",
       "date": "2026-09-03",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.baidu.com/s?wd=%E6%89%8B%E6%9C%BA%E6%B6%A8%E4%BB%B7%E4%BB%A5%E4%B8%BA%E4%BC%9A%E7%96%AF%E6%8A%A2%E7%BB%93%E6%9E%9C%E8%AF%A2%E4%BB%B7%E9%83%BD%E6%B2%A1%E4%BA%BA",
+      "url": "https://www.coolapk.com/feed/73558477",
       "image": "",
-      "summary": "手机涨价以为会疯抢结果询价都没人",
+      "summary": "【曝华为Mate 90 Pro Max入网：鸿蒙5G手机，6颗摄像头】",
       "tags": [
-        "行业",
+        "Huawei",
         "爆料",
         "NewsNow"
       ]
     },
     {
-      "id": "auto-a8d0fe012c66",
-      "title": "OPPO 卓世杰否认 Find X10 Pro Max 手机外观泄密图：比这好看",
-      "source": "IT之家",
-      "brand": "OPPO",
-      "model": "OPPO 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-09-02",
-      "time": "23:53",
-      "publishedAt": "2026-09-02T23:53:36.000Z",
-      "url": "https://www.ithome.com/0/997/733.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/9/047e1a9f-9ad2-4512-b671-7e66c8a62889.png",
-      "summary": "IT之家 9 月 3 日消息，有博主放出了最新 OPPO Find X10 Pro Max 外观泄密图。画面显示，新机哈苏定制款有全新白色，同时摄像头模组印有 LUMO 凝光影像标识。 不过 OPPO Find 系列产品负责人卓世杰很快对此进行了否认，并直言：“ 比这好看。 ” OPPO 首席产品官、一加创始人刘作虎在 8 月 28 日宣布，OPPO 发布…",
-      "tags": [
-        "OPPO",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-56f69d75b69d",
-      "title": "没有黑色：苹果 iPhone 18 Pro / Max 三种颜色卡托曝光",
-      "source": "IT之家",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-09-02",
-      "time": "23:44",
-      "publishedAt": "2026-09-02T23:44:03.000Z",
-      "url": "https://www.ithome.com/0/997/731.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/9/638535c9-82d6-4a6e-ae3d-c7cf84f0a69c.png?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 9 月 3 日消息，消息源 @SonnyDickson 昨日（9 月 2 日）转发科技媒体 @MacRumors 推文，分享了苹果 iPhone 18 Pro 和 iPhone 18 Pro Max 的 SIM 卡托，预估苹果 2026 年旗舰手机只有 3 种颜色。 @MacRumors 在博文中，爆料称苹果 iPhone 18 Pro 和 iP…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-5de3ff62abec",
-      "title": "5G、麒麟双回归！华为 nova 16s Pro 新机海外发布，搭载 Kirin 9010S 处理器",
-      "source": "IT之家",
+      "id": "newsnow-6105eca0ce3e",
+      "title": "曝华为Mate90系列提前发布",
+      "source": "微博热搜",
       "brand": "Huawei",
       "model": "Huawei 相关机型",
       "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-09-02",
-      "time": "23:33",
-      "publishedAt": "2026-09-02T23:33:16.000Z",
-      "url": "https://www.ithome.com/0/997/730.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/9/763808a6-3cb3-4661-ba22-d199cdeaf2fb.jpg?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 9 月 3 日消息，华为昨日在德国慕尼黑举行全球新品发布会，推出了 nova 16s Pro 手机，主打 2 亿像素 RYYB 超大传感器摄像头、前后真实彩色相机（预计为红枫原色镜头）以及 7000mAh 大电池。 据介绍， nova 16s Pro 配备一块 6.84 英寸圆角设计 OLED 屏幕 ，分辨率为 FHD+（2856×1320），支…",
+      "trust": "待验证",
+      "date": "2026-09-03",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://s.weibo.com/weibo?q=%23%E6%9B%9D%E5%8D%8E%E4%B8%BAMate90%E7%B3%BB%E5%88%97%E6%8F%90%E5%89%8D%E5%8F%91%E5%B8%83%23&t=31&band_rank=10&Refer=top",
+      "image": "",
+      "summary": "曝华为Mate90系列提前发布",
       "tags": [
         "Huawei",
         "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-abf54f543196",
-      "title": "三星 Exynos 2700 芯片曝光：SF2P 工艺、双主核设计，Galaxy S27 系列手机首发",
-      "source": "IT之家",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-09-02",
-      "time": "23:04",
-      "publishedAt": "2026-09-02T23:04:06.000Z",
-      "url": "https://www.ithome.com/0/997/723.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/9/1da2bbcf-9b2e-4c5e-8a60-a8ab8ffb19f2.png?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 9 月 3 日消息，半导体分析机构 @SemiAnalysis_ 昨日（9 月 2 日）在 X 平台发布推文，透露称三星 Exynos 2700 芯片可能采用 Samsung Foundry（三星晶圆代工）SF2P 工艺，Galaxy S27 系列有望首发。 IT之家注：SF2P 是三星晶圆代工的第 2 代 2 nm 逻辑制程，名称中的“P”通常…",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-4d2ac1dca03a",
-      "title": "华为 CMM-AL10 鸿蒙手机入网：配备 6615mAh 大电池",
-      "source": "IT之家",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-09-02",
-      "time": "22:04",
-      "publishedAt": "2026-09-02T22:04:14.000Z",
-      "url": "https://www.ithome.com/0/997/715.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/9/f12b4dc5-6462-4927-ab04-6fc62c520d30.png",
-      "summary": "IT之家 9 月 3 日消息，型号为 CMM-AL10 的华为 5G 新机已通过电信设备进网许可，未公布证件照。 IT之家注意到，该机配备 6615mAh 额定容量电池，搭载 HarmonyOS 鸿蒙操作系统，前后共 6 颗摄像头。 此外，本机支持 GSM、WCDMA、LTEFDD、TDLTE 网络，支持红外、蓝牙、USB、星闪连接方式。 更多详细参数信息…",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "自动抓取"
+        "NewsNow"
       ]
     },
     {
@@ -482,46 +662,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-ae1519b1d0f8",
-      "title": "古尔曼曝光苹果 iPhone Ultra 折叠屏手机更多细节，支持应用并排显示、内容拖拽操作",
-      "source": "IT之家",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-09-02",
-      "time": "14:19",
-      "publishedAt": "2026-09-02T14:19:49.000Z",
-      "url": "https://www.ithome.com/0/997/676.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/8/8ddc3127-6bd5-4325-a596-ac32c42ddeeb.jpg?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 9 月 2 日消息，下周，苹果首款折叠屏手机 iPhone Ultra 将在 9 月发布会上正式亮相。如今距离发布仅剩一周，彭博社记者马克 · 古尔曼（Mark Gurman）在接受 Tom's Guide 采访时又透露了不少新信息，涉及硬件规格、软件功能、上市时间以及售价等多个方面，其中还有一些此前从未曝光的细节。 距离 iPhone Ultr…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "coolapk-user-eee6358203aa",
-      "title": "竹本青：【新一代理想MEGA发布，售价50.98万元】 ● 动力： 前电机155kW+后电机258kW CLTC纯电续航7…",
-      "source": "竹本青",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-09-02",
-      "time": "12:56",
-      "publishedAt": "2026-09-02T12:56:40.000Z",
-      "url": "https://www.coolapk.com/feed/73553511",
-      "image": "http://image.coolapk.com/feed/2026/0902/20/4248714_7e55ea2a_3796_9086_965@1080x6954.jpg",
-      "summary": "【新一代理想MEGA发布，售价50.98万元】 ● 动力： 前电机155kW+后电机258kW CLTC纯电续航710公里 108kWh 三元锂5C超充 ● 底盘： 800V主动防倾魔毯底盘 双腔空气弹簧、双阀CDC可变阻尼减振器 线控转向、后轮转向系统 最小转弯半径5.5m ● 智驾： 骁龙8797芯片+双马赫M100芯片 标配4个激光雷达 29英寸OL…",
-      "tags": [
-        "行业",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
       "id": "auto-226a474ff2b1",
       "title": "After 10 minutes with the Samsung Galaxy S26 FE, I was envious of a feature my Z Fold 8 lacks",
       "source": "Android Police",
@@ -559,26 +699,6 @@ window.phoneRadarAuto = {
         "HONOR",
         "爆料",
         "自动抓取"
-      ]
-    },
-    {
-      "id": "coolapk-user-5512f1ae764f",
-      "title": "竹本青：【OPPO卓世杰否认网传 Find X10 Pro Max 外观图：比这好看】 9月2日，针对网上流传的OPPO…",
-      "source": "竹本青",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-09-02",
-      "time": "12:19",
-      "publishedAt": "2026-09-02T12:19:57.000Z",
-      "url": "https://www.coolapk.com/feed/73552990",
-      "image": "http://image.coolapk.com/feed/2026/0902/20/4248714_624fc707_1595_7633_270@1440x1126.jpg",
-      "summary": "【OPPO卓世杰否认网传 Find X10 Pro Max 外观图：比这好看】 9月2日，针对网上流传的OPPO Find X10 Pro Max外观泄露图，Find 系列产品负责人卓世杰转发辟谣，表示真机比网传图片更好看。 此前8月，博主数码闲聊站爆料，OPPO Find X10 Pro Max 将全球首发三2亿全大底影像： 主摄｜200Mp 三星HPC…",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "酷安博主"
       ]
     },
     {
@@ -662,26 +782,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "coolapk-user-bb4e98cb0e43",
-      "title": "竹本青：OPPO卓世杰：Find X10系列的屏幕黑边比上代还极致",
-      "source": "竹本青",
-      "brand": "OPPO",
-      "model": "OPPO 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-09-02",
-      "time": "10:26",
-      "publishedAt": "2026-09-02T10:26:52.000Z",
-      "url": "https://www.coolapk.com/feed/73551420",
-      "image": "http://image.coolapk.com/feed/2026/0902/19/4248714_9740a7eb_6809_946_509@2160x1114.jpg",
-      "summary": "【OPPO卓世杰：Find X10系列的屏幕黑边比上代还极致】 9月2日，OPPO Find 系列产品负责人卓世杰透露，Find X10系列新机发布会已进入密集筹备阶段。针对评论区询问的屏幕黑边问题，他回应称：“工程师又放大招了，比上代还极致。” 据此前官方披露，OPPO Find X10系列本月发布，将首发搭载第二代天马天工屏，全新N1发光材料，完成全场…",
-      "tags": [
-        "OPPO",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
       "id": "auto-01c8f6af7d5e",
       "title": "Leaked iPhone 18 Pro Parts Point to Three Color Options Excluding Black",
       "source": "MacRumors",
@@ -722,28 +822,8 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "coolapk-user-ab45c771a7bd",
-      "title": "竹本青：【曝荣耀阔折叠手机明年Q1发布，将搭载2nm骁龙芯片、阔折品类中最大电池】 9月2日，博主数码闲聊站爆料，荣耀也将…",
-      "source": "竹本青",
-      "brand": "HONOR",
-      "model": "HONOR 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-09-02",
-      "time": "09:50",
-      "publishedAt": "2026-09-02T09:50:48.000Z",
-      "url": "https://www.coolapk.com/feed/73550879",
-      "image": "http://image.coolapk.com/feed/2026/0902/17/4248714_8805538e_2970_4705_55@3599x2304.jpg",
-      "summary": "【曝荣耀阔折叠手机明年Q1发布，将搭载2nm骁龙芯片、阔折品类中最大电池】 9月2日，博主数码闲聊站爆料，荣耀也将发布阔折叠手机，产品搭载2nm骁龙新芯片，目前排期2027年第一季度发布。 随后，有网友提问该机是否会搭载更大容量电池，博主回应称：“不出意外的话，阔折最大电池”。 此前8月21日，该博主汇总了确定推出阔折叠产品的手机厂商名单，其中，华为、三星…",
-      "tags": [
-        "HONOR",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
       "id": "auto-ef58d64f27b4",
-      "title": "折叠屏 iPhone、新款 HomePod…… Apple 发布会有哪些看点？",
+      "title": "除了折叠屏 iPhone，Apple 发布会还有哪些看点？",
       "source": "少数派",
       "brand": "iPhone",
       "model": "iPhone 相关机型",
