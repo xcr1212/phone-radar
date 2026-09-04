@@ -1,14 +1,14 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-09-04T00:05:32.572Z",
+  "updatedAt": "2026-09-04T04:31:26.157Z",
   "issueDate": "2026-09-04",
   "issue": "VOL.260904",
   "title": "手机情报日报",
-  "intro": "今日筛出 12 条重点，其中 8 条是重点爆料，包含 9 条 iPhone 相关、1 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 8 条重点，其中 8 条是重点爆料，包含 7 条 iPhone 相关、0 条官方确认、0 条参数线索。",
   "stats": {
-    "total": 12,
-    "iphone": 9,
+    "total": 8,
+    "iphone": 7,
     "leaks": 8,
-    "official": 1,
+    "official": 0,
     "specs": 0
   },
   "sections": [
@@ -18,24 +18,22 @@ window.phoneRadarDaily = {
       "hint": "机模、配色、影像、屏幕、电池和芯片线索先看。",
       "items": [
         {
-          "id": "auto-41985b34d9fc",
-          "title": "消息称苹果折叠屏手机 iPhone Ultra 售价约为 17 Pro 的 1.7-1.8 倍",
+          "id": "newsnow-f8bf5a73be1f",
+          "title": "全网首发iphone 18 fold 宣传片爆料，",
           "originalTitle": "",
-          "source": "IT之家",
+          "source": "酷安热榜",
           "brand": "iPhone",
           "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-09-03",
-          "time": "22:41",
-          "publishedAt": "2026-09-03T22:41:01.000Z",
-          "url": "https://www.ithome.com/0/998/209.htm",
+          "trust": "高关注爆料源",
+          "date": "2026-09-04",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://www.coolapk.com/feed/73572654",
           "image": "",
           "verdict": "先看",
-          "takeaway": "IT之家 9 月 4 日消息，外媒 phonearena 综合目前运营商沃达丰曝光的价格信息，认为苹果 iPhone Ultra 的售价约为现款 iPhone 17 Pro 的 1.7-1.8 倍，而 iPhone 18 Pro 系列手机的售价约为现款 iPhone 17 Pro 系列的 1.1 倍。 在 &nbsp;iPhone Ultra 方面，先前运…",
-          "detail": "IT之家 9 月 4 日消息，外媒 phonearena 综合目前运营商沃达丰曝光的价格信息，认为苹果 iPhone Ultra 的售价约为现款 iPhone 17 Pro 的 1.7-1.8 倍，而 iPhone 18 Pro 系列手机的售价约为现款 iPhone 17 Pro 系列的 1.1 倍。 在 &nbsp;iPhone Ultra 方面，先前运…",
+          "takeaway": "全网首发iphone 18 fold 宣传片爆料，",
+          "detail": "全网首发iphone 18 fold 宣传片爆料，",
           "keyPoints": [
-            "屏幕形态",
-            "成本 / 价格",
             "爆料来源"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
@@ -67,21 +65,70 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
-          "id": "newsnow-877142a90e33",
-          "title": "苹果发布会定档北京时间 9 月 10 日，首款折叠屏 iPhone 将亮相，有哪些信息值得特别关注？",
+          "id": "weibo-12386804bf8b",
+          "title": "数码闲聊站：旗舰线上内置风扇、安卓阵营首个1:1方形前摄、双2亿ARRI联名影像、小屏最大…",
           "originalTitle": "",
-          "source": "知乎热榜",
+          "source": "数码闲聊站",
+          "brand": "HONOR",
+          "type": "爆料",
+          "trust": "高关注爆料源",
+          "date": "2026-09-04",
+          "time": "04:31",
+          "publishedAt": "2026-09-04T04:31:26.157Z",
+          "url": "https://weibo.com/6048569942/RgvFRq8rT",
+          "image": "",
+          "verdict": "先看",
+          "takeaway": "旗舰线上内置风扇、安卓阵营首个1:1方形前摄、双2亿ARRI联名影像、小屏最大8K电池等…… ↑耀子Magic9系列存在的一些亮点，配件还有Magic9 Pro Max的专业影像手柄+G500/G200增距镜，最长500mm超级望远镜，配色有爆米黄/开场白/幕布黑/橄榄青，苔青/影黑/银盐[二哈]",
+          "detail": "旗舰线上内置风扇、安卓阵营首个1:1方形前摄、双2亿ARRI联名影像、小屏最大8K电池等…… ↑耀子Magic9系列存在的一些亮点，配件还有Magic9 Pro Max的专业影像手柄+G500/G200增距镜，最长500mm超级望远镜，配色有爆米黄/开场白/幕布黑/橄榄青，苔青/影黑/银盐[二哈]",
+          "keyPoints": [
+            "外观 / 配色 / 尺寸",
+            "影像硬件",
+            "电池 / 充电",
+            "爆料来源"
+          ],
+          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "auto-f0733a63adff",
+          "title": "iPhone 相关消息",
+          "originalTitle": "",
+          "source": "MacRumors",
           "brand": "iPhone",
-          "type": "市场报告",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-09-04",
+          "time": "02:25",
+          "publishedAt": "2026-09-04T02:25:46.000Z",
+          "url": "https://www.macrumors.com/2026/09/03/iphone-18-pro-heres-what-we-know/",
+          "image": "https://images.macrumors.com/article-new/2026/09/iPhone-18-Pro-What-We-Know-Feature.jpg",
+          "verdict": "先看",
+          "takeaway": "iPhone 相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
+          "detail": "iPhone 相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "newsnow-c5de4c47ffb3",
+          "title": "苹果折叠屏真能无折痕吗",
+          "originalTitle": "",
+          "source": "B站热搜",
+          "brand": "iPhone",
+          "type": "爆料",
           "trust": "媒体汇总",
           "date": "2026-09-04",
           "time": "",
           "publishedAt": "",
-          "url": "https://www.zhihu.com/question/2076211010684327272",
+          "url": "https://search.bilibili.com/all?keyword=%E8%8B%B9%E6%9E%9C%E6%8A%98%E5%8F%A0%E5%B1%8F%E7%9C%9F%E8%83%BD%E6%97%A0%E6%8A%98%E7%97%95%E5%90%97",
           "image": "",
           "verdict": "先看",
-          "takeaway": "苹果发布会定档北京时间 9 月 10 日，首款折叠屏 iPhone 将亮相，有哪些信息值得特别关注？",
-          "detail": "苹果发布会定档北京时间 9 月 10 日，首款折叠屏 iPhone 将亮相，有哪些信息值得特别关注？",
+          "takeaway": "苹果折叠屏真能无折痕吗",
+          "detail": "苹果折叠屏真能无折痕吗",
           "keyPoints": [
             "屏幕形态"
           ],
@@ -158,159 +205,6 @@ window.phoneRadarDaily = {
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "auto-8176c67ff6f1",
-          "title": "iPhone 18 Pro 芯片 / 性能相关消息",
-          "originalTitle": "",
-          "source": "9to5Mac",
-          "brand": "iPhone",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-09-03",
-          "time": "12:15",
-          "publishedAt": "2026-09-03T12:15:08.000Z",
-          "url": "https://9to5mac.com/2026/09/03/leaker-claims-iphone-18-pro-chip-will-have-7-gpu-cores-and-faster-ram/",
-          "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/Leaker-claims-iPhone-18-Pro-chip-will-have-7-GPU-cores-and-faster-RAM.jpg?quality=82&strip=all&w=1600",
-          "verdict": "先看",
-          "takeaway": "iPhone 有系统功能或 AI 体验更新，适合关注后续是否影响日常使用。",
-          "detail": "iPhone 18 Pro 芯片 / 性能相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
-          "keyPoints": [
-            "芯片 / 性能",
-            "爆料来源"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "auto-974f2d407dac",
-          "title": "iPhone 18 Pro 价格 / 成本相关消息",
-          "originalTitle": "",
-          "source": "MacRumors",
-          "brand": "iPhone",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-09-03",
-          "time": "10:41",
-          "publishedAt": "2026-09-03T10:41:31.000Z",
-          "url": "https://www.macrumors.com/2026/09/03/iphone-18-pro-prices-apple-event-next-week/",
-          "image": "https://images.macrumors.com/article-new/2026/08/iPhone-18-Pro-Dark-Cherry-Feature.jpg",
-          "verdict": "先看",
-          "takeaway": "iPhone 18 Pro 价格 / 成本相关消息。如果涉及订阅、售价或硬件成本，才需要进一步看细节。",
-          "detail": "iPhone 18 Pro 价格 / 成本相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
-          "keyPoints": [
-            "成本 / 价格"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        }
-      ]
-    },
-    {
-      "id": "iphone",
-      "title": "iPhone 重点",
-      "hint": "不是硬件爆料，但和 iPhone 体验或路线有关。",
-      "items": [
-        {
-          "id": "auto-9bbf43c61c96",
-          "title": "iPhone 系统功能 / AI 体验相关消息",
-          "originalTitle": "",
-          "source": "Apple Newsroom",
-          "brand": "iPhone",
-          "type": "官方",
-          "trust": "官方确认",
-          "date": "2026-09-04",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://www.apple.com/newsroom/2026/06/apple-announces-changes-to-ios-in-brazil/",
-          "image": "",
-          "verdict": "先看",
-          "takeaway": "iPhone 系统功能 / AI 体验相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
-          "detail": "iPhone 系统功能 / AI 体验相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
-          "keyPoints": [
-            "官方"
-          ],
-          "confidence": "官方内容，可直接作为已确认信息记录。",
-          "impact": "可信度高，但如果不是配置/价格消息，只需要扫一眼。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        }
-      ]
-    },
-    {
-      "id": "market",
-      "title": "行业趋势",
-      "hint": "看方向，不急着当购买依据。",
-      "items": [
-        {
-          "id": "newsnow-6785f7749fc7",
-          "title": "华为、小米、荣耀多款手机正式涨价",
-          "originalTitle": "",
-          "source": "酷安热榜",
-          "brand": "HONOR",
-          "type": "爆料",
-          "trust": "高关注爆料源",
-          "date": "2026-09-04",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://www.coolapk.com/feed/73527352",
-          "image": "",
-          "verdict": "先看",
-          "takeaway": "华为、小米、荣耀多款手机正式涨价",
-          "detail": "华为、小米、荣耀多款手机正式涨价",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "影响购买预算，值得先看。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
-        {
-          "id": "coolapk-user-d3431a6a5861",
-          "title": "竹本青：不懂就问，这次在价格环节 还会Duang一下吗[受虐滑稽] #小米18Fold# #HyperOS4# #数码日常#",
-          "originalTitle": "",
-          "source": "竹本青",
-          "brand": "Xiaomi",
-          "type": "爆料",
-          "trust": "高可信爆料",
-          "date": "2026-09-03",
-          "time": "15:52",
-          "publishedAt": "2026-09-03T15:52:31.000Z",
-          "url": "https://www.coolapk.com/feed/73571120",
-          "image": "",
-          "verdict": "扫一眼",
-          "takeaway": "不懂就问，这次在价格环节 还会Duang一下吗[受虐滑稽] #小米18Fold# #HyperOS4# #数码日常#",
-          "detail": "不懂就问，这次在价格环节 还会Duang一下吗[受虐滑稽] #小米18Fold# #HyperOS4# #数码日常#",
-          "keyPoints": [
-            "成本 / 价格"
-          ],
-          "confidence": "可信度较高，但仍属于发布前线索。",
-          "impact": "影响购买预算，值得先看。",
-          "action": "有具体参数就记录到参数库；没有参数就先收藏。"
-        },
-        {
-          "id": "coolapk-user-8f8afb42b975",
-          "title": "JSCHEN小小狐：前段时间跑了趟金华 (×) 东阳 (✓) 不得不说金义东线真是个好东西 去了好多之前不太有空去的地方 #手机摄影#",
-          "originalTitle": "",
-          "source": "JSCHEN小小狐",
-          "brand": "Xiaomi",
-          "type": "爆料",
-          "trust": "高可信爆料",
-          "date": "2026-09-03",
-          "time": "10:30",
-          "publishedAt": "2026-09-03T10:30:03.000Z",
-          "url": "https://www.coolapk.com/feed/73565994",
-          "image": "http://image.coolapk.com/feed/2026/0903/18/4702274_e2b4749a_1398_463_135-uhdr@2365x3504.jpg",
-          "verdict": "扫一眼",
-          "takeaway": "前段时间跑了趟金华 (×) 东阳 (✓) 不得不说金义东线真是个好东西 去了好多之前不太有空去的地方 #手机摄影#",
-          "detail": "前段时间跑了趟金华 (×) 东阳 (✓) 不得不说金义东线真是个好东西 去了好多之前不太有空去的地方 #手机摄影#",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "可信度较高，但仍属于发布前线索。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         }
       ]
     }

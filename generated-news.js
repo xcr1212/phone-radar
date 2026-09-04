@@ -1,6 +1,66 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-09-04T00:05:32.572Z",
+  "updatedAt": "2026-09-04T04:31:26.157Z",
   "news": [
+    {
+      "id": "weibo-d7bbe86fc0e8",
+      "title": "数码闲聊站：预言成真了家人们，本月Pro Max大乱斗： iPhone 18 Pro Ma…",
+      "source": "数码闲聊站",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-09-04",
+      "time": "04:31",
+      "publishedAt": "2026-09-04T04:31:26.157Z",
+      "url": "https://weibo.com/6048569942/RgwUYsGD5",
+      "image": "https://tvax4.sinaimg.cn/mw2000/006BlblIgy1igrd36i0ilj30xv0f5djx.jpg",
+      "summary": "预言成真了家人们，本月Pro Max大乱斗： iPhone 18 Pro Max——A20 Pro/可变光圈/新ID Xiaomi 18 Pro Max——8EE6/徕卡新影像/背屏 华为 Mate90 Pro Max——9050 Pro/高动态影像 vivo X500 Pro Max——9600 Pro/高动态影像 OPPO Find X10 Pro M…",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "微博"
+      ]
+    },
+    {
+      "id": "weibo-a32a09bfee90",
+      "title": "数码闲聊站：独家，iQOO 16确认搭载三星新一代M16发光材料+新一代 LEAD™显示技…",
+      "source": "数码闲聊站",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-09-04",
+      "time": "04:31",
+      "publishedAt": "2026-09-04T04:31:26.157Z",
+      "url": "https://weibo.com/6048569942/Rgwgo39kW",
+      "image": "",
+      "summary": "独家，iQOO 16确认搭载三星新一代M16发光材料+新一代 LEAD™显示技术，苹果折叠屏同款方案。 除了这个安卓全球首发的新方案，iQOO还将和三星显示强强联合，打造全球最好屏，iQOO 16也将会联合三星有“行业首个大动作”，快了快了👖",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "微博"
+      ]
+    },
+    {
+      "id": "weibo-12386804bf8b",
+      "title": "数码闲聊站：旗舰线上内置风扇、安卓阵营首个1:1方形前摄、双2亿ARRI联名影像、小屏最大…",
+      "source": "数码闲聊站",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-09-04",
+      "time": "04:31",
+      "publishedAt": "2026-09-04T04:31:26.157Z",
+      "url": "https://weibo.com/6048569942/RgvFRq8rT",
+      "image": "",
+      "summary": "旗舰线上内置风扇、安卓阵营首个1:1方形前摄、双2亿ARRI联名影像、小屏最大8K电池等…… ↑耀子Magic9系列存在的一些亮点，配件还有Magic9 Pro Max的专业影像手柄+G500/G200增距镜，最长500mm超级望远镜，配色有爆米黄/开场白/幕布黑/橄榄青，苔青/影黑/银盐[二哈]",
+      "tags": [
+        "HONOR",
+        "爆料",
+        "微博"
+      ]
+    },
     {
       "id": "weibo-dc34c5548a91",
       "title": "数码闲聊站：米板9 Pro Max都看到了吧，13.3英寸LCD巨屏，120W闪充，电池很…",
@@ -10,8 +70,8 @@ window.phoneRadarAuto = {
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-09-04",
-      "time": "00:05",
-      "publishedAt": "2026-09-04T00:05:32.572Z",
+      "time": "04:31",
+      "publishedAt": "2026-09-04T04:31:26.157Z",
       "url": "https://weibo.com/6048569942/Rgq5k8dCS",
       "image": "",
       "summary": "米板9 Pro Max都看到了吧，13.3英寸LCD巨屏，120W闪充，电池很大，玄戒O3满血版，大尺寸全金属机身，散热肯定比折叠屏强，所以它能更好的发挥玄戒的性能，而且相对便宜很多[吃瓜]",
@@ -30,8 +90,8 @@ window.phoneRadarAuto = {
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-09-04",
-      "time": "00:05",
-      "publishedAt": "2026-09-04T00:05:32.572Z",
+      "time": "04:31",
+      "publishedAt": "2026-09-04T04:31:26.157Z",
       "url": "https://weibo.com/6048569942/RgmgNfcqr",
       "image": "https://tvax1.sinaimg.cn/mw2000/006BlblIgy1igq7d8ce1ij30xr1a1dt7.jpg",
       "summary": "华为Mate90系列疑似入网！摄像头数量6，可能是Pro系列，电池额定容量是6615mAh，典型值预计是6800±，和之前我说的工程机容量吻合。 更大的亮点是标注了「5G数字移动电话机」，华为国行版也将以韬芯片形式正式回归5G？！[笑而不语]",
@@ -42,23 +102,223 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "weibo-86106fba02a0",
-      "title": "数码闲聊站：小米18 Fold： 7.58英寸内屏，5.38英寸外屏，侧边指纹，徕卡Sum…",
-      "source": "数码闲聊站",
+      "id": "auto-eb5c0b11547f",
+      "title": "iQOO 16 could get Samsung’s M16 OLED 2K 165Hz display and a new level of mobile ray tracing",
+      "source": "Gizmochina",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-04",
+      "time": "04:20",
+      "publishedAt": "2026-09-04T04:20:42.000Z",
+      "url": "https://www.gizmochina.com/2026/09/04/iqoo-16-samsung-m16-lead-display-q4-gaming-features/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/09/iQOO-16-leaked-image--300x300.png?x96852",
+      "summary": "The next iQOO flagship is expected to bring several notable changes to the company’s high-end smartphone lineup. The iQOO 16 is also set to put considerable focus on display quali…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-aca982bc1a3e",
+      "title": "Xiaomi unveils its Galaxy Z Fold 8 rival at IFA 2026",
+      "source": "SamMobile",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-04",
+      "time": "04:19",
+      "publishedAt": "2026-09-04T04:19:24.000Z",
+      "url": "https://www.sammobile.com/news/galaxy-z-fold-8-rival-xiaomi-18-fold-unveiled-ifa-2026/",
+      "image": "https://www.sammobile.com/wp-content/uploads/2026/09/Xiaomi-18-Fold-Camera-Design.jpg",
+      "summary": "More than a month after Samsung announced the Galaxy Z Fold 8, Xiaomi has unveiled its first passport-style foldable phone. The Xiaomi 18 Fold was showcased at the ongoing IFA 202…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-78d5217bb693",
+      "title": "小米卢伟冰谈内存涨价：不能简单把成本转移，一定要把产品做得更好",
+      "source": "IT之家",
       "brand": "Xiaomi",
       "model": "Xiaomi 相关机型",
       "type": "爆料",
-      "trust": "高关注爆料源",
+      "trust": "媒体汇总",
       "date": "2026-09-04",
-      "time": "00:05",
-      "publishedAt": "2026-09-04T00:05:32.572Z",
-      "url": "https://weibo.com/6048569942/Rgf45j6Xx",
-      "image": "",
-      "summary": "小米18 Fold： 7.58英寸内屏，5.38英寸外屏，侧边指纹，徕卡Summilux三摄影像，主摄光圈F1.7，长焦光圈F2.8，17mm超广角，潜望长焦等效光变3.5X",
+      "time": "04:18",
+      "publishedAt": "2026-09-04T04:18:19.000Z",
+      "url": "https://www.ithome.com/0/998/365.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/9/e0e411f6-5aed-42a7-a1b1-24048ee95e9b.jpg?x-bce-process=image/format,f_auto",
+      "summary": "9 月 4 日中午消息，在 IFA 2026 小米全球发布会后，小米集团合伙人、总裁、手机部总裁卢伟冰与媒体对话。 谈及存储持续涨价话题，他表示，涨也好、跌也好，总要往前走。但小米在预测之后，至少有一个很简单的结论： 不能简单地把成本转移，一定要把产品做得更好 。 “产品要卖贵了，怎么让用户感受到物超所值才是关键。这次 K100 Pro 系列超出我的预期，…",
       "tags": [
         "Xiaomi",
         "爆料",
-        "微博"
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-2fae373c37e3",
+      "title": "竹本青：【小米卢伟冰：中折叠解决大小折的痛点，将推动市场翻倍】 9月4日，据新浪科技消息，在IFA 2026小米全球发布会…",
+      "source": "竹本青",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-09-04",
+      "time": "04:05",
+      "publishedAt": "2026-09-04T04:05:49.000Z",
+      "url": "https://www.coolapk.com/feed/73576417",
+      "image": "http://image.coolapk.com/feed/2026/0904/12/4248714_d8c2dc44_4745_8667_894@690x920.jpg",
+      "summary": "【小米卢伟冰：中折叠解决大小折的痛点，将推动市场翻倍】 9月4日，据新浪科技消息，在IFA 2026小米全球发布会后，小米集团合伙人、总裁、手机部总裁卢伟冰与媒体对话。 发布会上，小米首款中折叠旗舰手机小米18 Fold真机首次全球亮相，配备5.38英寸外屏，展开后为7.58英寸内屏。该产品是小米首款搭载新一代玄戒O3芯片的旗舰手机，还搭载小米澎湃OS 4…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-0462ee4d35b4",
+      "title": "Motorola Edge 70 Plus launches with a 5,200-nit 144Hz AMOLED display, 200MP camera, 6,500mAh battery",
+      "source": "Gizmochina",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-04",
+      "time": "02:59",
+      "publishedAt": "2026-09-04T02:59:16.000Z",
+      "url": "https://www.gizmochina.com/2026/09/04/motorola-edge-70-plus-launched-price-specifications/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/09/Motorola-Edge-70-Plus-300x150.png?x96852",
+      "summary": "Motorola Edge 70 Plus is the latest addition to the Edge 70 series, which already includes multiple models such as the Edge 70 Max, Edge 70 Pro+, Edge 70 Pro, Edge 70 Fusion, and…",
+      "tags": [
+        "行业",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-2836d2a6a752",
+      "title": "竹本青：【OPPO A7 Pro 官宣9月11日开售：8000mAh电池，跑道型双摄】 ● 6.57英寸 1080P直屏…",
+      "source": "竹本青",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-09-04",
+      "time": "02:41",
+      "publishedAt": "2026-09-04T02:41:42.000Z",
+      "url": "https://www.coolapk.com/feed/73575206",
+      "image": "http://image.coolapk.com/feed/2026/0904/10/4248714_bd694eda_9700_8223_956@1500x2792.jpg",
+      "summary": "【OPPO A7 Pro 官宣9月11日开售：8000mAh电池，跑道型双摄】 ● 6.57英寸 1080P直屏 ● 8000mAh电池+80W快充 ● 跑道型双摄设计 ● 支持防水、抗摔 #今日热点# #ColorOS16# #OPPOA7PRO#",
+      "tags": [
+        "OPPO",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "coolapk-user-61bf4413e9ce",
+      "title": "竹本青：iQOO16爆料：三星新一代M16材料 + 新一代LEAD技术",
+      "source": "竹本青",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-09-04",
+      "time": "02:39",
+      "publishedAt": "2026-09-04T02:39:22.000Z",
+      "url": "https://www.coolapk.com/feed/73575170",
+      "image": "http://image.coolapk.com/feed/2026/0904/10/4248714_e4577e3c_9561_6379_653@1271x461.jpg",
+      "summary": "【iQOO16 屏幕爆料：三星新一代M16材料+新一代 LEAD技术】 9月4日，博主数码闲聊站爆料，iQOO 16屏幕确认首发新方案：三星新一代M16发光材料与新一代LEAD显示技术，与苹果折叠屏同款。 此外，iQOO 16还将和三星显示推出“行业首个大动作”。 #今日热点# #iQOO16# #OriginOS7#",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-b3450bcf13d9",
+      "title": "OPPO A7 Pro 手机 9 月 11 日发售：后置双摄设计、内置 8000mAh 电池",
+      "source": "IT之家",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-04",
+      "time": "02:33",
+      "publishedAt": "2026-09-04T02:33:17.000Z",
+      "url": "https://www.ithome.com/0/998/285.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/9/d7687786-454d-4046-acb0-51d739270022.png?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 9 月 4 日消息，OPPO 宣布旗下 A7 Pro 手机将于 9 月 11 日 10:00 发售，不过其并未公布该机具体规格信息。参考官方海报，这款手机采用后置双摄设计，内置 8000mAh 电池。 综合IT之家先前报道，博主 @熊猫很禿然 先前曾曝光疑似这款 A7 Pro 手机的规格信息。 该机整体重量 204g、厚度 8.8mm，正面将配备…",
+      "tags": [
+        "OPPO",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-f0733a63adff",
+      "title": "Six Sleeps Until iPhone 18 Pro: Here's What We Know",
+      "source": "MacRumors",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-04",
+      "time": "02:25",
+      "publishedAt": "2026-09-04T02:25:46.000Z",
+      "url": "https://www.macrumors.com/2026/09/03/iphone-18-pro-heres-what-we-know/",
+      "image": "https://images.macrumors.com/article-new/2026/09/iPhone-18-Pro-What-We-Know-Feature.jpg",
+      "summary": "We are just six sleeps away from Apple's unveiling of its new-generation iPhone 18 Pro and iPhone 18 Pro Max models, not forgetting its first foldable iPhone. Apple is expected to…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-63fe1bcfc2a9",
+      "title": "竹本青：全新智界R7官宣：5亿元投入，本月开启预订",
+      "source": "竹本青",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-09-04",
+      "time": "01:47",
+      "publishedAt": "2026-09-04T01:47:10.000Z",
+      "url": "https://www.coolapk.com/feed/73574462",
+      "image": "http://image.coolapk.com/feed/2026/0904/09/4248714_3a2896a6_6429_3941_731@2160x3840.jpg",
+      "summary": "【余承东官宣全新智界R7：5亿元投入，八大升级，本月将开启预订】 ● 5亿投入 ● 八大升级 9月4日，余承东官宣并预热全新智界R7：“这次焕新，我们把重心放在真实的家庭用车场景上，投入5亿元，带来八大升级。座舱不止进一步优化空间，座椅也围绕家庭场景进行特别设计，让车内成为一个有温度的治愈空间。 智界R7兼顾轿跑姿态和续航表现，此次升级后，纯电续航里程CL…",
+      "tags": [
+        "行业",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-e046dab314af",
+      "title": "荣耀 Magic 9 系列前瞻：双 2 亿像素 + 阿莱联名，新增主动散热风扇版本",
+      "source": "IT之家",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-04",
+      "time": "01:22",
+      "publishedAt": "2026-09-04T01:22:21.000Z",
+      "url": "https://www.ithome.com/0/998/259.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/9/961eb9cd-4da0-41e6-9cf0-c950965754c0.png?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 9 月 4 日消息，微博博主 @数码闲聊站 今日披露了荣耀 Magic 9 系列的部分亮点信息。根据爆料，荣耀 Magic9 系列将提供多款机型，其中“超能版”有望内置主动散热风扇。 影像方面是该系列的一大看点。据称，该系列新机将配备双 2 亿像素影像方案，其中主摄为 200MP 1/1.28 英寸传感器，潜望长焦为 200MP 1/1.4 英寸…",
+      "tags": [
+        "HONOR",
+        "爆料",
+        "自动抓取"
       ]
     },
     {
@@ -142,21 +402,21 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-6785f7749fc7",
-      "title": "华为、小米、荣耀多款手机正式涨价",
+      "id": "newsnow-f8bf5a73be1f",
+      "title": "全网首发iphone 18 fold 宣传片爆料，",
       "source": "酷安热榜",
-      "brand": "HONOR",
-      "model": "HONOR 相关机型",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-09-04",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73527352",
+      "url": "https://www.coolapk.com/feed/73572654",
       "image": "",
-      "summary": "华为、小米、荣耀多款手机正式涨价",
+      "summary": "全网首发iphone 18 fold 宣传片爆料，",
       "tags": [
-        "HONOR",
+        "iPhone",
         "爆料",
         "NewsNow"
       ]
@@ -182,83 +442,43 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-877142a90e33",
-      "title": "苹果发布会定档北京时间 9 月 10 日，首款折叠屏 iPhone 将亮相，有哪些信息值得特别关注？",
+      "id": "newsnow-a34ae0a74b2a",
+      "title": "「豆包手机」努比亚 NaviX Ultra 完成大模型备案与入网许可，计划 9 月开售，哪些信息值得关注？",
       "source": "知乎热榜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
+      "brand": "行业",
+      "model": "智能手机市场",
       "type": "市场报告",
       "trust": "媒体汇总",
       "date": "2026-09-04",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.zhihu.com/question/2076211010684327272",
+      "url": "https://www.zhihu.com/question/2078256050948646045",
       "image": "",
-      "summary": "苹果发布会定档北京时间 9 月 10 日，首款折叠屏 iPhone 将亮相，有哪些信息值得特别关注？",
+      "summary": "「豆包手机」努比亚 NaviX Ultra 完成大模型备案与入网许可，计划 9 月开售，哪些信息值得关注？",
       "tags": [
-        "iPhone",
+        "行业",
         "市场报告",
         "NewsNow"
       ]
     },
     {
-      "id": "newsnow-e1215665f371",
-      "title": "手机集体涨价 吓跑了买手机的人",
-      "source": "百度热搜",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-09-04",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.baidu.com/s?wd=%E6%89%8B%E6%9C%BA%E9%9B%86%E4%BD%93%E6%B6%A8%E4%BB%B7+%E5%90%93%E8%B7%91%E4%BA%86%E4%B9%B0%E6%89%8B%E6%9C%BA%E7%9A%84%E4%BA%BA",
-      "image": "",
-      "summary": "手机集体涨价 吓跑了买手机的人",
-      "tags": [
-        "行业",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-a9451107eaa3",
-      "title": "折叠屏三国杀",
-      "source": "百度热搜",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-09-04",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.baidu.com/s?wd=%E6%8A%98%E5%8F%A0%E5%B1%8F%E4%B8%89%E5%9B%BD%E6%9D%80",
-      "image": "",
-      "summary": "折叠屏三国杀",
-      "tags": [
-        "行业",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "auto-41985b34d9fc",
-      "title": "消息称苹果折叠屏手机 iPhone Ultra 售价约为 17 Pro 的 1.7-1.8 倍",
-      "source": "IT之家",
+      "id": "newsnow-c5de4c47ffb3",
+      "title": "苹果折叠屏真能无折痕吗",
+      "source": "B站热搜",
       "brand": "iPhone",
       "model": "iPhone 相关机型",
       "type": "爆料",
       "trust": "媒体汇总",
-      "date": "2026-09-03",
-      "time": "22:41",
-      "publishedAt": "2026-09-03T22:41:01.000Z",
-      "url": "https://www.ithome.com/0/998/209.htm",
+      "date": "2026-09-04",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://search.bilibili.com/all?keyword=%E8%8B%B9%E6%9E%9C%E6%8A%98%E5%8F%A0%E5%B1%8F%E7%9C%9F%E8%83%BD%E6%97%A0%E6%8A%98%E7%97%95%E5%90%97",
       "image": "",
-      "summary": "IT之家 9 月 4 日消息，外媒 phonearena 综合目前运营商沃达丰曝光的价格信息，认为苹果 iPhone Ultra 的售价约为现款 iPhone 17 Pro 的 1.7-1.8 倍，而 iPhone 18 Pro 系列手机的售价约为现款 iPhone 17 Pro 系列的 1.1 倍。 在 &nbsp;iPhone Ultra 方面，先前运…",
+      "summary": "苹果折叠屏真能无折痕吗",
       "tags": [
         "iPhone",
         "爆料",
-        "自动抓取"
+        "NewsNow"
       ]
     },
     {
@@ -482,26 +702,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "coolapk-user-d3431a6a5861",
-      "title": "竹本青：不懂就问，这次在价格环节 还会Duang一下吗[受虐滑稽] #小米18Fold# #HyperOS4# #数码日常#",
-      "source": "竹本青",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-09-03",
-      "time": "15:52",
-      "publishedAt": "2026-09-03T15:52:31.000Z",
-      "url": "https://www.coolapk.com/feed/73571120",
-      "image": "",
-      "summary": "不懂就问，这次在价格环节 还会Duang一下吗[受虐滑稽] #小米18Fold# #HyperOS4# #数码日常#",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
       "id": "auto-55e49e102d0c",
       "title": "The first no-strings discounts on the Samsung Galaxy Z Fold 8 Ultra have arrived, thanks to these Labor Day sales",
       "source": "Android Central",
@@ -599,26 +799,6 @@ window.phoneRadarAuto = {
         "Samsung",
         "爆料",
         "自动抓取"
-      ]
-    },
-    {
-      "id": "coolapk-user-665faa5a7320",
-      "title": "竹本青：【卢伟冰：小米18 Fold有四款配色，还有一个“很中国”的特别版本】 9月3日，小米卢伟冰爆料18 Fold机身…",
-      "source": "竹本青",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-09-03",
-      "time": "13:38",
-      "publishedAt": "2026-09-03T13:38:20.000Z",
-      "url": "https://www.coolapk.com/feed/73568644",
-      "image": "http://image.coolapk.com/feed/2026/0903/22/4248714_a482959c_6220_2399_354-livepic@1080x1920.jpg",
-      "summary": "【卢伟冰：小米18 Fold有四款配色，还有一个“很中国”的特别版本】 9月3日，小米卢伟冰爆料18 Fold机身配色。 据介绍，小米18 Fold将提供四款配色，已亮相的“西野红”为其中之一，内部评估认为该配色最能契合产品整体气质。其余三款配色将在后续公布。 此外卢伟冰爆料，小米18 Fold还将推出一个“很中国”的特别版本。他透露，该版本整体氛围感与“…",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "酷安博主"
       ]
     },
     {
@@ -822,26 +1002,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-79fc8c8a9e19",
-      "title": "Samsung could face at least $24 million fine for Galaxy S22 GOS issues",
-      "source": "SamMobile",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-09-03",
-      "time": "07:48",
-      "publishedAt": "2026-09-03T07:48:17.000Z",
-      "url": "https://www.sammobile.com/news/galaxy-s22-gos-issue-usd-24-million-fine-potential/",
-      "image": "",
-      "summary": "Samsung has been under the scanner of South Korea's Fair Trade Commission (FTC) for the past four years over the Game Optimization Service (GOS) issue affecting the Galaxy S22 and…",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-f0a2a3c99dd7",
       "title": "Pixel 12 Pro Fold could copy iPhone Ultra tech for an almost crease-free display",
       "source": "Android Authority",
@@ -877,26 +1037,6 @@ window.phoneRadarAuto = {
       "summary": "Xiaomi has finally launched the Redmi 17 5G in India, a budget-focused smartphone built around battery life, a large display, and 5G connectivity. Redmi 17 5G Specifications Also…",
       "tags": [
         "Xiaomi",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-13f937506085",
-      "title": "Massive Exynos 2700 leak gives us our first look at Samsung’s next-gen flagship chip",
-      "source": "SamMobile",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-09-03",
-      "time": "06:04",
-      "publishedAt": "2026-09-03T06:04:38.000Z",
-      "url": "https://www.sammobile.com/news/galaxy-s27-exynos-2700-chip-design-leaks/",
-      "image": "https://www.sammobile.com/wp-content/uploads/2026/09/Samsung-Exynos-2700-Processor-Chip-Die-Shot.jpg",
-      "summary": "Samsung's next in-house flagship processor will be the Exynos 2700, and it is set to debut with the Galaxy S27 and the Galaxy S27+ in early 2027. Months ahead of the official anno…",
-      "tags": [
-        "Samsung",
         "爆料",
         "自动抓取"
       ]
