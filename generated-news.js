@@ -1,5 +1,5 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-09-03T21:01:17.082Z",
+  "updatedAt": "2026-09-04T00:05:32.572Z",
   "news": [
     {
       "id": "weibo-dc34c5548a91",
@@ -9,9 +9,9 @@ window.phoneRadarAuto = {
       "model": "智能手机市场",
       "type": "爆料",
       "trust": "高关注爆料源",
-      "date": "2026-09-03",
-      "time": "21:01",
-      "publishedAt": "2026-09-03T21:01:17.082Z",
+      "date": "2026-09-04",
+      "time": "00:05",
+      "publishedAt": "2026-09-04T00:05:32.572Z",
       "url": "https://weibo.com/6048569942/Rgq5k8dCS",
       "image": "",
       "summary": "米板9 Pro Max都看到了吧，13.3英寸LCD巨屏，120W闪充，电池很大，玄戒O3满血版，大尺寸全金属机身，散热肯定比折叠屏强，所以它能更好的发挥玄戒的性能，而且相对便宜很多[吃瓜]",
@@ -29,9 +29,9 @@ window.phoneRadarAuto = {
       "model": "Huawei 相关机型",
       "type": "爆料",
       "trust": "高关注爆料源",
-      "date": "2026-09-03",
-      "time": "21:01",
-      "publishedAt": "2026-09-03T21:01:17.082Z",
+      "date": "2026-09-04",
+      "time": "00:05",
+      "publishedAt": "2026-09-04T00:05:32.572Z",
       "url": "https://weibo.com/6048569942/RgmgNfcqr",
       "image": "https://tvax1.sinaimg.cn/mw2000/006BlblIgy1igq7d8ce1ij30xr1a1dt7.jpg",
       "summary": "华为Mate90系列疑似入网！摄像头数量6，可能是Pro系列，电池额定容量是6615mAh，典型值预计是6800±，和之前我说的工程机容量吻合。 更大的亮点是标注了「5G数字移动电话机」，华为国行版也将以韬芯片形式正式回归5G？！[笑而不语]",
@@ -49,9 +49,9 @@ window.phoneRadarAuto = {
       "model": "Xiaomi 相关机型",
       "type": "爆料",
       "trust": "高关注爆料源",
-      "date": "2026-09-03",
-      "time": "21:01",
-      "publishedAt": "2026-09-03T21:01:17.082Z",
+      "date": "2026-09-04",
+      "time": "00:05",
+      "publishedAt": "2026-09-04T00:05:32.572Z",
       "url": "https://weibo.com/6048569942/Rgf45j6Xx",
       "image": "",
       "summary": "小米18 Fold： 7.58英寸内屏，5.38英寸外屏，侧边指纹，徕卡Summilux三摄影像，主摄光圈F1.7，长焦光圈F2.8，17mm超广角，潜望长焦等效光变3.5X",
@@ -59,6 +59,206 @@ window.phoneRadarAuto = {
         "Xiaomi",
         "爆料",
         "微博"
+      ]
+    },
+    {
+      "id": "auto-9bbf43c61c96",
+      "title": "Apple announces changes to iOS in Brazil",
+      "source": "Apple Newsroom",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "官方",
+      "trust": "官方确认",
+      "date": "2026-09-04",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.apple.com/newsroom/2026/06/apple-announces-changes-to-ios-in-brazil/",
+      "image": "",
+      "summary": "Apple today announced changes impacting iOS apps in Brazil that reflect a recent agreement with Brazil’s competition regulator, CADE.",
+      "tags": [
+        "iPhone",
+        "官方",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "newsnow-4f2446a06d4f",
+      "title": "全球首款阔直板探索计划：华为 Pura X View 新品有奖体验",
+      "source": "少数派热榜",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-09-04",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://sspai.com/post/113883",
+      "image": "",
+      "summary": "全球首款阔直板探索计划：华为 Pura X View 新品有奖体验",
+      "tags": [
+        "Huawei",
+        "评测",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-7c14957fe923",
+      "title": "把「闪念胶囊」（Almost）放到 iPhone 锁屏",
+      "source": "少数派热榜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-09-04",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://sspai.com/post/113219",
+      "image": "",
+      "summary": "把「闪念胶囊」（Almost）放到 iPhone 锁屏",
+      "tags": [
+        "iPhone",
+        "评测",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-0d72c1eafcff",
+      "title": "大嘴早在发布“阔折叠”之前，就说了这个新形态手机，是所有厂商都做得到，但是想不到的，所以友商用不用这种比例是友商的自由。",
+      "source": "酷安热榜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-09-04",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/73567026",
+      "image": "",
+      "summary": "大嘴早在发布“阔折叠”之前，就说了这个新形态手机，是所有厂商都做得到，但是想不到的，所以友商用不用这种比例是友商的自由。",
+      "tags": [
+        "行业",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-6785f7749fc7",
+      "title": "华为、小米、荣耀多款手机正式涨价",
+      "source": "酷安热榜",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-09-04",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/73527352",
+      "image": "",
+      "summary": "华为、小米、荣耀多款手机正式涨价",
+      "tags": [
+        "HONOR",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-edcab952c6c8",
+      "title": "苹果首款折叠屏iPhone预计将在9月10日发布，大家觉得起售价会是多少呢？",
+      "source": "酷安热榜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-09-04",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/73564021",
+      "image": "",
+      "summary": "苹果首款折叠屏iPhone预计将在9月10日发布，大家觉得起售价会是多少呢？",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-877142a90e33",
+      "title": "苹果发布会定档北京时间 9 月 10 日，首款折叠屏 iPhone 将亮相，有哪些信息值得特别关注？",
+      "source": "知乎热榜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "市场报告",
+      "trust": "媒体汇总",
+      "date": "2026-09-04",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.zhihu.com/question/2076211010684327272",
+      "image": "",
+      "summary": "苹果发布会定档北京时间 9 月 10 日，首款折叠屏 iPhone 将亮相，有哪些信息值得特别关注？",
+      "tags": [
+        "iPhone",
+        "市场报告",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-e1215665f371",
+      "title": "手机集体涨价 吓跑了买手机的人",
+      "source": "百度热搜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-04",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.baidu.com/s?wd=%E6%89%8B%E6%9C%BA%E9%9B%86%E4%BD%93%E6%B6%A8%E4%BB%B7+%E5%90%93%E8%B7%91%E4%BA%86%E4%B9%B0%E6%89%8B%E6%9C%BA%E7%9A%84%E4%BA%BA",
+      "image": "",
+      "summary": "手机集体涨价 吓跑了买手机的人",
+      "tags": [
+        "行业",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-a9451107eaa3",
+      "title": "折叠屏三国杀",
+      "source": "百度热搜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-04",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.baidu.com/s?wd=%E6%8A%98%E5%8F%A0%E5%B1%8F%E4%B8%89%E5%9B%BD%E6%9D%80",
+      "image": "",
+      "summary": "折叠屏三国杀",
+      "tags": [
+        "行业",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "auto-41985b34d9fc",
+      "title": "消息称苹果折叠屏手机 iPhone Ultra 售价约为 17 Pro 的 1.7-1.8 倍",
+      "source": "IT之家",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-03",
+      "time": "22:41",
+      "publishedAt": "2026-09-03T22:41:01.000Z",
+      "url": "https://www.ithome.com/0/998/209.htm",
+      "image": "",
+      "summary": "IT之家 9 月 4 日消息，外媒 phonearena 综合目前运营商沃达丰曝光的价格信息，认为苹果 iPhone Ultra 的售价约为现款 iPhone 17 Pro 的 1.7-1.8 倍，而 iPhone 18 Pro 系列手机的售价约为现款 iPhone 17 Pro 系列的 1.1 倍。 在 &nbsp;iPhone Ultra 方面，先前运…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
       ]
     },
     {
@@ -139,26 +339,6 @@ window.phoneRadarAuto = {
         "iPhone",
         "爆料",
         "自动抓取"
-      ]
-    },
-    {
-      "id": "coolapk-user-8b71c24471b5",
-      "title": "竹本青：【小米手环11 正式发布：至高续航21天，首发澎湃OS 4，首销289元起】 标准版 —— 289元 NFC版 —…",
-      "source": "竹本青",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-09-03",
-      "time": "17:43",
-      "publishedAt": "2026-09-03T17:43:10.000Z",
-      "url": "https://www.coolapk.com/feed/73572355",
-      "image": "http://image.coolapk.com/feed/2026/0904/01/4248714_7b081525_7389_3073_798@1967x4214.jpg",
-      "summary": "【小米手环11 正式发布：至高续航21天，首发澎湃OS 4，首销289元起】 标准版 —— 289元 NFC版 —— 339元 陶瓷版 —— 399元 全金属版 —— 399元 外观： ▫️薄至9.99mm｜轻至15.58g ▫️多彩金属中框｜Unibody全金属版本 ▫️同色系背板，曲线圆润 屏幕： ▫️1.72\" AMOLED屏｜2mm四等边 ▫️峰值…",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "酷安博主"
       ]
     },
     {
@@ -442,26 +622,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-577bc0ef0a17",
-      "title": "Counterpoint：2026 年全球智能手机均价上涨约 15%，新机涨价 25%",
-      "source": "IT之家",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-09-03",
-      "time": "13:13",
-      "publishedAt": "2026-09-03T13:13:59.000Z",
-      "url": "https://www.ithome.com/0/998/152.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/8/b5ab665a-70c5-4561-b1bc-673f411ebec5.jpg?x-bce-process=image/resize,w_1200,h_801/format,f_auto",
-      "summary": "IT之家 9 月 3 日消息，受全球内存价格上涨推动，2026 年迄今已有超过 40% 的智能手机机型涨价，这在行业内尚属首次。Counterpoint Research 的全球智能手机涨价追踪报告显示， 2026 年迄今 全球智能手机零售均价已平均上涨 15% ，部分机型价格几乎翻倍，手机厂商将更高的内存和零部件成本转嫁给了消费者，新发布机型比去年同期推…",
-      "tags": [
-        "行业",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-65d27ff07d37",
       "title": "Global Oppo Find X10, X10 Pro Max appear in major certifications",
       "source": "Gizmochina",
@@ -477,26 +637,6 @@ window.phoneRadarAuto = {
       "summary": "Oppo is preparing its next flagship smartphone lineup, with the Find X10 series expected to make its debut soon. The upcoming phones have already started appearing across certific…",
       "tags": [
         "OPPO",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-1d8d0054d322",
-      "title": "TCL 首款 OLED 显示屏 NXTPAPER 手机 P80 Ultra 发布，可一键切换“电纸书”模式",
-      "source": "IT之家",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-09-03",
-      "time": "12:41",
-      "publishedAt": "2026-09-03T12:41:40.000Z",
-      "url": "https://www.ithome.com/0/998/142.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/9/a91e1a29-4fe1-46a4-be19-b8704d02da1f.png?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 9 月 3 日消息，TCL 今天（3 日）推出了全新的 P80 系列机型，首次把 OLED 屏幕带到 NXTPAPER 手机上。其中，Ultra 系列延续了此前 LCD 机型类似电子墨水的显示特点：需要阅读或减少干扰时， 可以切换到低功耗黑白模式，获得接近纸张的观感 ；正常使用时，则能恢复 TCL 所称的“旗舰级”OLED 显示效果。 P80 U…",
-      "tags": [
-        "行业",
         "爆料",
         "自动抓取"
       ]
@@ -535,26 +675,6 @@ window.phoneRadarAuto = {
       "url": "https://www.macrumors.com/2026/09/03/iphone-18-pro-chip-leak-suggests-improvements/",
       "image": "https://images.macrumors.com/article-new/2025/10/A20-Chip-Feature.jpg",
       "summary": "An alleged solder joint diagram for Apple's A20 Pro chip suggests the processor will deliver a number of significant upgrades, including a seven-core GPU, a wider memory interface…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-5ec727e49ba4",
-      "title": "TrendForce：苹果 iPhone 18 Pro 内存采购成本暴涨 400%，预估新机涨价 10%-20%",
-      "source": "IT之家",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-09-03",
-      "time": "11:56",
-      "publishedAt": "2026-09-03T11:56:24.000Z",
-      "url": "https://www.ithome.com/0/998/134.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/9/40db2095-148d-4311-aad4-53d327b76365.jpg?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 9 月 3 日消息，根据 TrendForce 集邦咨询最新手机产业研究指出，苹果自 2026 年起将调整产品发布节奏，拆分为秋季与春季两波。今年秋季将由旗舰款 iPhone 18 Pro、Pro Max 以及最受瞩目的首款折叠机 iPhone 18 Fold（暂名）领衔登场；至于 iPhone 18 基本款与其他延伸机种，则预计延后至 2027…",
       "tags": [
         "iPhone",
         "爆料",
@@ -722,26 +842,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-53bbb49bf69b",
-      "title": "MagicOS 11 will let Honor phones answer incoming calls on iPhone",
-      "source": "Huawei Central",
-      "brand": "HONOR",
-      "model": "HONOR 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-09-03",
-      "time": "07:40",
-      "publishedAt": "2026-09-03T07:40:10.000Z",
-      "url": "https://www.huaweicentral.com/honor-magicos-11-calls/",
-      "image": "https://www.huaweicentral.com/wp-content/uploads/2026/09/MagicOS-AI-calling-feature.jpg",
-      "summary": "Honor Magic 9 series and MagicOS 11 will debut later this month with some new connectivity features, and one of these could enable users to directly answer incoming calls on Apple…",
-      "tags": [
-        "HONOR",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-f0a2a3c99dd7",
       "title": "Pixel 12 Pro Fold could copy iPhone Ultra tech for an almost crease-free display",
       "source": "Android Authority",
@@ -879,406 +979,6 @@ window.phoneRadarAuto = {
         "Pixel",
         "爆料",
         "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-9bbf43c61c96",
-      "title": "Apple announces changes to iOS in Brazil",
-      "source": "Apple Newsroom",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "官方",
-      "trust": "官方确认",
-      "date": "2026-09-03",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.apple.com/newsroom/2026/06/apple-announces-changes-to-ios-in-brazil/",
-      "image": "",
-      "summary": "Apple today announced changes impacting iOS apps in Brazil that reflect a recent agreement with Brazil’s competition regulator, CADE.",
-      "tags": [
-        "iPhone",
-        "官方",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "newsnow-3b20cad44eba",
-      "title": "全球首款阔直板探索计划：华为 Pura X View 新品有奖体验",
-      "source": "少数派热榜",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "评测",
-      "trust": "媒体汇总",
-      "date": "2026-09-03",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://sspai.com/post/113883",
-      "image": "",
-      "summary": "全球首款阔直板探索计划：华为 Pura X View 新品有奖体验",
-      "tags": [
-        "Huawei",
-        "评测",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-982e83494abb",
-      "title": "把「闪念胶囊」（Almost）放到 iPhone 锁屏",
-      "source": "少数派热榜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "评测",
-      "trust": "媒体汇总",
-      "date": "2026-09-03",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://sspai.com/post/113219",
-      "image": "",
-      "summary": "把「闪念胶囊」（Almost）放到 iPhone 锁屏",
-      "tags": [
-        "iPhone",
-        "评测",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-6faf55e7a3a9",
-      "title": "大嘴早在发布“阔折叠”之前，就说了这个新形态手机，是所有厂商都做得到，但是想不到的，所以友商用不用这种比例是友商的自由。",
-      "source": "酷安热榜",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-09-03",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73567026",
-      "image": "",
-      "summary": "大嘴早在发布“阔折叠”之前，就说了这个新形态手机，是所有厂商都做得到，但是想不到的，所以友商用不用这种比例是友商的自由。",
-      "tags": [
-        "行业",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-90bae4629bc2",
-      "title": "华为、小米、荣耀多款手机正式涨价",
-      "source": "酷安热榜",
-      "brand": "HONOR",
-      "model": "HONOR 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-09-03",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73527352",
-      "image": "",
-      "summary": "华为、小米、荣耀多款手机正式涨价",
-      "tags": [
-        "HONOR",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-ce3961247afc",
-      "title": "苹果首款折叠屏iPhone预计将在9月10日发布，大家觉得起售价会是多少呢？",
-      "source": "酷安热榜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-09-03",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73564021",
-      "image": "",
-      "summary": "苹果首款折叠屏iPhone预计将在9月10日发布，大家觉得起售价会是多少呢？",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-26562f8f5ecd",
-      "title": "苹果发布会定档北京时间 9 月 10 日，首款折叠屏 iPhone 将亮相，有哪些信息值得特别关注？",
-      "source": "知乎热榜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "市场报告",
-      "trust": "媒体汇总",
-      "date": "2026-09-03",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.zhihu.com/question/2076211010684327272",
-      "image": "",
-      "summary": "苹果发布会定档北京时间 9 月 10 日，首款折叠屏 iPhone 将亮相，有哪些信息值得特别关注？",
-      "tags": [
-        "iPhone",
-        "市场报告",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-0d0ef068cdaa",
-      "title": "手机集体涨价 吓跑了买手机的人",
-      "source": "百度热搜",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-09-03",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.baidu.com/s?wd=%E6%89%8B%E6%9C%BA%E9%9B%86%E4%BD%93%E6%B6%A8%E4%BB%B7+%E5%90%93%E8%B7%91%E4%BA%86%E4%B9%B0%E6%89%8B%E6%9C%BA%E7%9A%84%E4%BA%BA",
-      "image": "",
-      "summary": "手机集体涨价 吓跑了买手机的人",
-      "tags": [
-        "行业",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-eea0045d2ed3",
-      "title": "折叠屏三国杀",
-      "source": "百度热搜",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-09-03",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.baidu.com/s?wd=%E6%8A%98%E5%8F%A0%E5%B1%8F%E4%B8%89%E5%9B%BD%E6%9D%80",
-      "image": "",
-      "summary": "折叠屏三国杀",
-      "tags": [
-        "行业",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "auto-e7316cb30cf1",
-      "title": "iPhone 18 Pro will have three upgrades that have been rumored for years",
-      "source": "9to5Mac",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-09-02",
-      "time": "18:21",
-      "publishedAt": "2026-09-02T18:21:33.000Z",
-      "url": "https://9to5mac.com/2026/09/02/iphone-18-pro-will-have-three-upgrades-that-have-been-rumored-for-years/",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/iphone-17-pro-blue-camera-array.jpg?quality=82&strip=all&w=1600",
-      "summary": "iPhone 18 Pro is launching next week , and expected to feature three upgrades that have been rumored for years. Here’s what’s coming. more…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-264d9b6c13b5",
-      "title": "Vivo T5x, iQOO Z11x see another price hike: from ₹22,999 at launch to as much as ₹34,999",
-      "source": "Gizmochina",
-      "brand": "vivo",
-      "model": "vivo 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-09-02",
-      "time": "16:54",
-      "publishedAt": "2026-09-02T16:54:26.000Z",
-      "url": "https://www.gizmochina.com/2026/09/02/vivo-t5x-iqoo-z11x-see-another-price-hike-from-%e2%82%b922999-at-launch-to-as-much-as-%e2%82%b934999/",
-      "image": "https://www.gizmochina.com/wp-content/uploads/2026/09/iqooz11x-kv-img1-lg-x2-300x169.jpg?x96852",
-      "summary": "Budget phone shoppers in India just got another price hike to deal with. Vivo and its sub-brand iQOO have raised the prices of the T5x and Z11x (basically the same phone with diff…",
-      "tags": [
-        "vivo",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-4f8d85e597f6",
-      "title": "Samsung Galaxy Z Flip 8 gets its first big discount with $150 off",
-      "source": "Android Authority",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-09-02",
-      "time": "16:34",
-      "publishedAt": "2026-09-02T16:34:43.000Z",
-      "url": "https://www.androidauthority.com/samsung-galaxy-z-flip-8-deal-3706419/",
-      "image": "https://www.androidauthority.com/wp-content/uploads/2026/07/Samsung-Galaxy-Z-Flip-8-with-cover-screen-in-hand-scaled-1.jpg",
-      "summary": "Samsung Galaxy Z Flip 8 drops to $1,049.99 at Amazon, the best price we've seen yet for Samsung's new flip foldable.",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-d274c0a8c5e8",
-      "title": "Galaxy Z Fold 8 owner shows corners of the inner display are flexing inward",
-      "source": "Gizmochina",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-09-02",
-      "time": "15:24",
-      "publishedAt": "2026-09-02T15:24:05.000Z",
-      "url": "https://www.gizmochina.com/2026/09/02/galaxy-z-fold-8-owner-shows-corners-of-the-inner-display-are-flexing-inward/",
-      "image": "https://www.gizmochina.com/wp-content/uploads/2026/09/Screenshot-2026-09-04-000028-1-300x169.png?x96852",
-      "summary": "A Galaxy Z Fold 8 user posted on Samsung’s official EU Community forum saying the corners of the inner screen seem to bend or sink in when you push them lightly. They noticed it w…",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-fd039f0f274f",
-      "title": "Google stops selling ‘Certified Refurbished’ Pixel 7 series, still no Pixel 9 yet",
-      "source": "9to5Google",
-      "brand": "Pixel",
-      "model": "Pixel 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-09-02",
-      "time": "15:05",
-      "publishedAt": "2026-09-02T15:05:00.000Z",
-      "url": "https://9to5google.com/2026/09/02/google-stops-selling-certified-refurbished-pixel-7-series-still-no-pixel-9-yet/",
-      "image": "",
-      "summary": "Google has pulled refurbished Pixel 7 devices from its store, with the Pixel 9 yet to make its debut. more…",
-      "tags": [
-        "Pixel",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-2ee0e6120d0c",
-      "title": "Amazon slashes $300 off the Galaxy Z Fold 8 Ultra in its first price drop",
-      "source": "Android Authority",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-09-02",
-      "time": "14:55",
-      "publishedAt": "2026-09-02T14:55:19.000Z",
-      "url": "https://www.androidauthority.com/galaxy-z-fold-8-ultra-deal-3706325/",
-      "image": "https://www.androidauthority.com/wp-content/uploads/2026/08/Samsung-Galaxy-Z-Fold-8-Ultra-unfolded-with-cover-display-and-back-panel-visible.jpg",
-      "summary": "Amazon cuts the new Samsung Galaxy Z Fold 8 Ultra to $1,799.99, making Samsung’s new foldable much more tempting.",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-377266d9a287",
-      "title": "Verizon is selling the Google Pixel 11 Pro XL for the price of a cup of coffee every month, just in time for Labor Day",
-      "source": "Android Central",
-      "brand": "Pixel",
-      "model": "Pixel 相关机型",
-      "type": "评测",
-      "trust": "媒体汇总",
-      "date": "2026-09-02",
-      "time": "14:35",
-      "publishedAt": "2026-09-02T14:35:51.000Z",
-      "url": "https://www.androidcentral.com/phones/google-pixel/verizon-is-selling-the-google-pixel-11-pro-xl-for-the-price-of-a-cup-of-coffee-every-month-just-in-time-for-labor-day",
-      "image": "https://cdn.mos.cms.futurecdn.net/QYbycEh3ZRG6imYyvB89qa-1280-80.jpg",
-      "summary": "Ready to buy Google's last masterpiece? Add a line with an eligible data plan and Verizon will give you the Pixel 11 Pro XL for only $5 per month.",
-      "tags": [
-        "Pixel",
-        "评测",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-90bfcfacb47e",
-      "title": "Galaxy S27 Ultra could go Exynos again, and this time, Snapdragon fans might get jealous",
-      "source": "Android Authority",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-09-02",
-      "time": "11:43",
-      "publishedAt": "2026-09-02T11:43:24.000Z",
-      "url": "https://www.androidauthority.com/galaxy-s27-ultra-exynos-rumor-3706017/",
-      "image": "https://www.androidauthority.com/wp-content/uploads/2026/08/Exclusive-Samsung-Galaxy-S27-Ultra-AH-3.jpg.webp",
-      "summary": "Internal testing at Samsung shows Exynos 2700 outperforms the Snapdragon 8 Elite Gen 6 Pro.",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-30e184325126",
-      "title": "Leakers battle over whether third iPhone 18 Pro color will be silver or black",
-      "source": "9to5Mac",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-09-02",
-      "time": "10:53",
-      "publishedAt": "2026-09-02T10:53:31.000Z",
-      "url": "https://9to5mac.com/2026/09/02/leakers-battle-over-whether-third-iphone-18-pro-color-will-be-silver-or-black/",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/04/iphone-18-pro-colors-02.jpg?quality=82&strip=all&w=1600",
-      "summary": "Based on a whole succession of leaks, there’s a clear consensus view on two of the three colors we can expect when the iPhone 18 Pro is unveiled next week. But two prominent leake…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-ef58d64f27b4",
-      "title": "除了折叠屏 iPhone，Apple 发布会还有哪些看点？",
-      "source": "少数派",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "评测",
-      "trust": "媒体汇总",
-      "date": "2026-09-02",
-      "time": "09:40",
-      "publishedAt": "2026-09-02T09:40:56.000Z",
-      "url": "https://sspai.com/post/114084",
-      "image": "",
-      "summary": "上周，Apple公布了今年秋季发布会的时间和主题，这场名为「Surpriseandshine」的发布会将于北京时间9月10日凌晨一点在ApplePark举行。与过去两年的秋季发布会不同，今年的「科技春 ...",
-      "tags": [
-        "iPhone",
-        "评测",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "coolapk-user-71bd6d509005",
-      "title": "JSCHEN小小狐：全新华为 MatePad Air 亮相：12'' 2.8K OLED",
-      "source": "JSCHEN小小狐",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-09-02",
-      "time": "00:39",
-      "publishedAt": "2026-09-02T00:39:09.000Z",
-      "url": "https://www.coolapk.com/feed/73543691",
-      "image": "http://image.coolapk.com/feed/2026/0902/09/4702274_5cd8183f_1511_8326_104@2494x3324.jpg",
-      "summary": "『全新华为 MatePad Air 亮相：12'' 2.8K OLED』 烟云灰 / 暖云白 / 樱语粉 / 晴光蓝 / 浅夏柠 ◇ 珠光电泳工艺 / 阳极氧化工艺（灰） ◇ 厚度 5.3mm，整机重量约 509 克 ◇ 麒麟 T93B 处理器，性能提升 25% ◇ 12'' 2.8K 超亮 OLED 云晰柔光屏 ◇ 144Hz｜2000nits｜4.6m…",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "酷安博主"
       ]
     }
   ]
