@@ -1,14 +1,14 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-09-04T11:16:20.309Z",
+  "updatedAt": "2026-09-04T16:20:24.779Z",
   "issueDate": "2026-09-04",
   "issue": "VOL.260904",
   "title": "手机情报日报",
-  "intro": "今日筛出 8 条重点，其中 8 条是重点爆料，包含 6 条 iPhone 相关、0 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 11 条重点，其中 8 条是重点爆料，包含 10 条 iPhone 相关、1 条官方确认、0 条参数线索。",
   "stats": {
-    "total": 8,
-    "iphone": 6,
+    "total": 11,
+    "iphone": 10,
     "leaks": 8,
-    "official": 0,
+    "official": 1,
     "specs": 0
   },
   "sections": [
@@ -18,24 +18,24 @@ window.phoneRadarDaily = {
       "hint": "机模、配色、影像、屏幕、电池和芯片线索先看。",
       "items": [
         {
-          "id": "auto-93f1b4f2da51",
-          "title": "OPPO A7 Pro 手机配色公布：8000mAh 电池，9 月 11 日发售",
+          "id": "auto-efb33da0dea6",
+          "title": "因苹果对质量要求极其严格，消息称折叠屏 iPhone Ultra 日产量截至上月底仅数百部",
           "originalTitle": "",
           "source": "IT之家",
-          "brand": "OPPO",
+          "brand": "iPhone",
           "type": "爆料",
           "trust": "媒体汇总",
           "date": "2026-09-04",
-          "time": "07:59",
-          "publishedAt": "2026-09-04T07:59:36.000Z",
-          "url": "https://www.ithome.com/0/998/431.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/9/479bee8b-b1d1-4123-bac6-0ce09071b3c8.png?x-bce-process=image/format,f_auto",
+          "time": "13:28",
+          "publishedAt": "2026-09-04T13:28:30.000Z",
+          "url": "https://www.ithome.com/0/998/600.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/8/8ddc3127-6bd5-4325-a596-ac32c42ddeeb.jpg?x-bce-process=image/format,f_auto",
           "verdict": "先看",
-          "takeaway": "IT之家 9 月 4 日消息，OPPO A7 Pro 手机将于 9 月 11 日 10:00 开售，号称“新一代耐用传奇”，这款新品的三款配色现已公布： 「乘风破浪」，心境昂扬向上，愿你一路风生水起。 「步步生花」，流光溢彩，愿你日日繁花似锦。 「大漠棕」，如大地生辉，愿你前路坦荡无疆。 IT之家注意到，这款新品已经上架官网，部分信息现已公布。新机内置 8…",
-          "detail": "IT之家 9 月 4 日消息，OPPO A7 Pro 手机将于 9 月 11 日 10:00 开售，号称“新一代耐用传奇”，这款新品的三款配色现已公布： 「乘风破浪」，心境昂扬向上，愿你一路风生水起。 「步步生花」，流光溢彩，愿你日日繁花似锦。 「大漠棕」，如大地生辉，愿你前路坦荡无疆。 IT之家注意到，这款新品已经上架官网，部分信息现已公布。新机内置 8…",
+          "takeaway": "IT之家 9 月 4 日消息，据《日经亚洲》今天（4 日）援引消息人士称，由于苹果对质量控制的要求极为严格，备受期待的折叠屏 iPhone（暂称为 iPhone Ultra）初期日产量 截至 8 月底仅有“几百部” 。 目前，苹果正加紧提高产量。一名了解情况的供应链经理表示：“苹果对质量的要求非常高，在正式生产前又于 8 月增加了一轮试生产。但产量提升速度…",
+          "detail": "IT之家 9 月 4 日消息，据《日经亚洲》今天（4 日）援引消息人士称，由于苹果对质量控制的要求极为严格，备受期待的折叠屏 iPhone（暂称为 iPhone Ultra）初期日产量 截至 8 月底仅有“几百部” 。 目前，苹果正加紧提高产量。一名了解情况的供应链经理表示：“苹果对质量的要求非常高，在正式生产前又于 8 月增加了一轮试生产。但产量提升速度…",
           "keyPoints": [
-            "外观 / 配色 / 尺寸",
-            "电池 / 充电"
+            "屏幕形态",
+            "爆料来源"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
@@ -73,8 +73,8 @@ window.phoneRadarDaily = {
           "type": "爆料",
           "trust": "高关注爆料源",
           "date": "2026-09-04",
-          "time": "11:16",
-          "publishedAt": "2026-09-04T11:16:20.309Z",
+          "time": "16:20",
+          "publishedAt": "2026-09-04T16:20:24.779Z",
           "url": "https://weibo.com/6048569942/RgvFRq8rT",
           "image": "",
           "verdict": "先看",
@@ -91,7 +91,7 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
-          "id": "auto-5356dfab20f5",
+          "id": "auto-97ba1d26d056",
           "title": "iPhone 相关消息",
           "originalTitle": "",
           "source": "MacRumors",
@@ -99,15 +99,38 @@ window.phoneRadarDaily = {
           "type": "爆料",
           "trust": "媒体汇总",
           "date": "2026-09-04",
-          "time": "10:09",
-          "publishedAt": "2026-09-04T10:09:03.000Z",
-          "url": "https://www.macrumors.com/2026/09/04/iphone-ultra-production-extremely-limited/",
-          "image": "https://images.macrumors.com/article-new/2026/08/iPhone-Ultra-Fold-Feature.jpg",
+          "time": "16:13",
+          "publishedAt": "2026-09-04T16:13:18.000Z",
+          "url": "https://www.macrumors.com/2026/09/04/the-macrumors-show-iphone-18-pro-event-expectations/",
+          "image": "",
           "verdict": "先看",
           "takeaway": "iPhone 相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
           "detail": "iPhone 相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
           "keyPoints": [
-            "爆料"
+            "爆料来源"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "auto-14f35e718e0a",
+          "title": "iPhone 折叠屏相关消息",
+          "originalTitle": "",
+          "source": "9to5Mac",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-09-04",
+          "time": "15:48",
+          "publishedAt": "2026-09-04T15:48:03.000Z",
+          "url": "https://9to5mac.com/2026/09/04/leaked-iphone-roadmap-reveals-plans-for-larger-foldable-biggest-overhaul-more/",
+          "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/07/apple-tim-cook-iphone-15-launch.jpg?quality=82&strip=all&w=1600",
+          "verdict": "先看",
+          "takeaway": "iPhone 折叠屏相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
+          "detail": "iPhone 折叠屏相关消息。重点看折痕、铰链、厚度、屏幕可靠性和重量是否有实质改善。",
+          "keyPoints": [
+            "爆料来源"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
@@ -131,29 +154,6 @@ window.phoneRadarDaily = {
           "detail": "iPhone 18 Pro 屏幕规格相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
           "keyPoints": [
             "屏幕形态",
-            "爆料来源"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "auto-dcc31f368807",
-          "title": "iPhone 折叠屏相关消息",
-          "originalTitle": "",
-          "source": "MacRumors",
-          "brand": "iPhone",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-09-03",
-          "time": "20:10",
-          "publishedAt": "2026-09-03T20:10:51.000Z",
-          "url": "https://www.macrumors.com/2026/09/03/iphone-ultra-latest-rumors/",
-          "image": "",
-          "verdict": "先看",
-          "takeaway": "iPhone 折叠屏相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
-          "detail": "iPhone 折叠屏相关消息。重点看折痕、铰链、厚度、屏幕可靠性和重量是否有实质改善。",
-          "keyPoints": [
             "爆料来源"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
@@ -206,6 +206,82 @@ window.phoneRadarDaily = {
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        }
+      ]
+    },
+    {
+      "id": "iphone",
+      "title": "iPhone 重点",
+      "hint": "不是硬件爆料，但和 iPhone 体验或路线有关。",
+      "items": [
+        {
+          "id": "auto-f7b7833633eb",
+          "title": "iPhone 系统功能 / AI 体验相关消息",
+          "originalTitle": "",
+          "source": "Google Blog",
+          "brand": "iPhone",
+          "type": "官方",
+          "trust": "官方确认",
+          "date": "2026-09-04",
+          "time": "16:00",
+          "publishedAt": "2026-09-04T16:00:00.000Z",
+          "url": "https://blog.google/products-and-platforms/products/translate/google-translate-ios-android-upgrades/",
+          "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Translate_Blog_Asset_1.max-600x600.format-webp.webp",
+          "verdict": "先看",
+          "takeaway": "iPhone 系统功能 / AI 体验相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
+          "detail": "iPhone 系统功能 / AI 体验相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
+          "keyPoints": [
+            "屏幕形态"
+          ],
+          "confidence": "官方内容，可直接作为已确认信息记录。",
+          "impact": "影响手感和显示体验，适合和其他机型对比。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        },
+        {
+          "id": "auto-7bba239f7b9e",
+          "title": "iPhone 18 Pro 影像能力相关消息",
+          "originalTitle": "",
+          "source": "9to5Mac",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-09-04",
+          "time": "14:36",
+          "publishedAt": "2026-09-04T14:36:10.000Z",
+          "url": "https://9to5mac.com/2026/09/04/new-iphone-18-pro-report-details-flagship-camera-feature-and-more/",
+          "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/04/iphone-17-pro-silver-camera-plateau.jpg?quality=82&strip=all&w=1600",
+          "verdict": "先看",
+          "takeaway": "iPhone 有系统功能或 AI 体验更新，适合关注后续是否影响日常使用。",
+          "detail": "iPhone 18 Pro 影像能力相关消息。重点看影像功能是否和新机硬件有关，如果只是拍摄案例或营销内容，参考价值会低一些。",
+          "keyPoints": [
+            "影像硬件"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "影响拍照体验，买旗舰机时值得关注。",
+          "action": "有具体参数就记录到参数库；没有参数就先收藏。"
+        },
+        {
+          "id": "coolapk-user-99733f7b4caf",
+          "title": "竹本青：这个机器现在好价是多少，上午看见视频平台的价格还可以，但是那个平台如果售后出问题，平台监管不到",
+          "originalTitle": "",
+          "source": "竹本青",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "高可信爆料",
+          "date": "2026-09-04",
+          "time": "10:49",
+          "publishedAt": "2026-09-04T10:49:42.000Z",
+          "url": "https://www.coolapk.com/feed/73581690",
+          "image": "",
+          "verdict": "先看",
+          "takeaway": "这个机器现在好价是多少，上午看见视频平台的价格还可以，但是那个平台如果售后出问题，平台监管不到",
+          "detail": "这个机器现在好价是多少，上午看见视频平台的价格还可以，但是那个平台如果售后出问题，平台监管不到",
+          "keyPoints": [
+            "成本 / 价格"
+          ],
+          "confidence": "可信度较高，但仍属于发布前线索。",
+          "impact": "影响购买预算，值得先看。",
+          "action": "有具体参数就记录到参数库；没有参数就先收藏。"
         }
       ]
     }
