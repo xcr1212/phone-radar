@@ -1,5 +1,5 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-09-04T16:20:24.779Z",
+  "updatedAt": "2026-09-04T20:44:57.195Z",
   "news": [
     {
       "id": "weibo-a094f2ec803d",
@@ -10,8 +10,8 @@ window.phoneRadarAuto = {
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-09-04",
-      "time": "16:20",
-      "publishedAt": "2026-09-04T16:20:24.779Z",
+      "time": "20:44",
+      "publishedAt": "2026-09-04T20:44:57.195Z",
       "url": "https://weibo.com/6048569942/Rgya65MCp",
       "image": "",
       "summary": "刚刚摸完所有母系新机确定了 小杯——天玑9500s、骁龙8E 中杯——天玑9600M、骁龙8E5、2nm骁龙8E6 大杯——2nm天玑9600 Pro、2nm骁龙8E6 大大杯——2nm天玑9600 Pro、2nm骁龙8EE6",
@@ -30,8 +30,8 @@ window.phoneRadarAuto = {
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-09-04",
-      "time": "16:20",
-      "publishedAt": "2026-09-04T16:20:24.779Z",
+      "time": "20:44",
+      "publishedAt": "2026-09-04T20:44:57.195Z",
       "url": "https://weibo.com/6048569942/RgwUYsGD5",
       "image": "https://tvax4.sinaimg.cn/mw2000/006BlblIgy1igrd36i0ilj30xv0f5djx.jpg",
       "summary": "预言成真了家人们，本月Pro Max大乱斗： iPhone 18 Pro Max——A20 Pro/可变光圈/新ID Xiaomi 18 Pro Max——8EE6/徕卡新影像/背屏 华为 Mate90 Pro Max——9050 Pro/高动态影像 vivo X500 Pro Max——9600 Pro/高动态影像 OPPO Find X10 Pro M…",
@@ -50,8 +50,8 @@ window.phoneRadarAuto = {
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-09-04",
-      "time": "16:20",
-      "publishedAt": "2026-09-04T16:20:24.779Z",
+      "time": "20:44",
+      "publishedAt": "2026-09-04T20:44:57.195Z",
       "url": "https://weibo.com/6048569942/Rgwgo39kW",
       "image": "",
       "summary": "独家，iQOO 16确认搭载三星新一代M16发光材料+新一代 LEAD™显示技术，苹果折叠屏同款方案。 除了这个安卓全球首发的新方案，iQOO还将和三星显示强强联合，打造全球最好屏，iQOO 16也将会联合三星有“行业首个大动作”，快了快了👖",
@@ -70,8 +70,8 @@ window.phoneRadarAuto = {
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-09-04",
-      "time": "16:20",
-      "publishedAt": "2026-09-04T16:20:24.779Z",
+      "time": "20:44",
+      "publishedAt": "2026-09-04T20:44:57.195Z",
       "url": "https://weibo.com/6048569942/RgvFRq8rT",
       "image": "",
       "summary": "旗舰线上内置风扇、安卓阵营首个1:1方形前摄、双2亿ARRI联名影像、小屏最大8K电池等…… ↑耀子Magic9系列存在的一些亮点，配件还有Magic9 Pro Max的专业影像手柄+G500/G200增距镜，最长500mm超级望远镜，配色有爆米黄/开场白/幕布黑/橄榄青，苔青/影黑/银盐[二哈]",
@@ -90,8 +90,8 @@ window.phoneRadarAuto = {
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-09-04",
-      "time": "16:20",
-      "publishedAt": "2026-09-04T16:20:24.779Z",
+      "time": "20:44",
+      "publishedAt": "2026-09-04T20:44:57.195Z",
       "url": "https://weibo.com/6048569942/Rgq5k8dCS",
       "image": "",
       "summary": "米板9 Pro Max都看到了吧，13.3英寸LCD巨屏，120W闪充，电池很大，玄戒O3满血版，大尺寸全金属机身，散热肯定比折叠屏强，所以它能更好的发挥玄戒的性能，而且相对便宜很多[吃瓜]",
@@ -99,6 +99,46 @@ window.phoneRadarAuto = {
         "行业",
         "爆料",
         "微博"
+      ]
+    },
+    {
+      "id": "auto-70f608c782d7",
+      "title": "iPhone Duo?",
+      "source": "MacRumors",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-04",
+      "time": "19:54",
+      "publishedAt": "2026-09-04T19:54:45.000Z",
+      "url": "https://www.macrumors.com/2026/09/04/iphone-duo/",
+      "image": "https://images.macrumors.com/article-new/2026/08/iPhone-Ultra-Fold-Feature.jpg",
+      "summary": "While the long-awaited foldable iPhone has often been referred to as the iPhone Ultra or the iPhone Fold in rumors, another name making the rounds is iPhone Duo. There is no actua…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-e285f1a18b38",
+      "title": "竹本青：其实，如果停一停也挺好，这代出的就不容易",
+      "source": "竹本青",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-09-04",
+      "time": "16:45",
+      "publishedAt": "2026-09-04T16:45:31.000Z",
+      "url": "https://www.coolapk.com/feed/73586906",
+      "image": "",
+      "summary": "其实，如果停一停也挺好，这代出的就不容易",
+      "tags": [
+        "OPPO",
+        "爆料",
+        "酷安博主"
       ]
     },
     {
@@ -135,6 +175,26 @@ window.phoneRadarAuto = {
       "url": "https://www.macrumors.com/2026/09/04/the-macrumors-show-iphone-18-pro-event-expectations/",
       "image": "",
       "summary": "Ahead of Apple's \"Surprise and shine\" event on September 9, we talk through everything to expect on this week's episode of The MacRumors Show . Subscribe to The MacRumors Show You…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-6e4fc6311cba",
+      "title": "Will the iPhone 18 Pro’s biggest upgrade really deliver?",
+      "source": "9to5Mac",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-04",
+      "time": "16:00",
+      "publishedAt": "2026-09-04T16:00:00.000Z",
+      "url": "https://9to5mac.com/2026/09/04/will-the-iphone-18-pros-biggest-upgrade-really-deliver/",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/Will-the-iPhone-18-Pros-biggest-upgrade-really-deliver.jpg?quality=82&strip=all&w=1600",
+      "summary": "In general, we’re not expecting the iPhone 18 Pro to be a significant upgrade over its predecessor. Indeed, if you currently have an older iPhone there are arguments for buying th…",
       "tags": [
         "iPhone",
         "爆料",
@@ -318,6 +378,26 @@ window.phoneRadarAuto = {
       "tags": [
         "iPhone",
         "评测",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-f05a2badb136",
+      "title": "Huawei Kirin 9050 series chip allegedly visits Geekbench, shows strong performance",
+      "source": "Huawei Central",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-04",
+      "time": "14:07",
+      "publishedAt": "2026-09-04T14:07:27.000Z",
+      "url": "https://www.huaweicentral.com/huawei-kirin-9050-series-chip-allegedly-visits-geekbench/",
+      "image": "https://www.huaweicentral.com/wp-content/uploads/2026/05/Kirin-chip.jpg",
+      "summary": "After the Mate 90 series certification, a new input indicates that a Huawei 5G Kirin 9050 series chip has been tested on Geekbench and showed strong performance in the single-core…",
+      "tags": [
+        "Huawei",
+        "爆料",
         "自动抓取"
       ]
     },
@@ -582,26 +662,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "coolapk-user-8333c05b1532",
-      "title": "竹本青：华为全系手机已接入中国地震预警网官方数据源",
-      "source": "竹本青",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-09-04",
-      "time": "09:10",
-      "publishedAt": "2026-09-04T09:10:09.000Z",
-      "url": "https://www.coolapk.com/feed/73580182",
-      "image": "http://image.coolapk.com/feed/2026/0904/17/4248714_83080c82_3007_6167_830@1272x1181.jpg",
-      "summary": "【何刚：华为全系手机已接入中国地震预警网官方数据源】 9月4日，华为手机宣布接入中国地震预警网官方数据源一周年，开启地震预警服务用户突破1亿。高管何刚转发该消息并配文：“华为全系手机已接入中国地震预警网官方数据源。” 据介绍，去年下半年，华为与中国地震台网中心达成战略合作，在HarmonyOS 6.0及以上版本率先完成官方数据源应用对接，2026年5月完成…",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
       "id": "auto-c685dc5f9ddb",
       "title": "摄像头能拆下当运动相机使用，RugOne 推出 Xsnap 7 Pro 三防手机",
       "source": "IT之家",
@@ -655,6 +715,26 @@ window.phoneRadarAuto = {
       "url": "https://www.gizmochina.com/2026/09/04/galaxy-s27-series-cases-reveal-major-design-split-between-standard-and-ultra-models/",
       "image": "https://www.gizmochina.com/wp-content/uploads/2026/09/HRLTecVaIAAy17Y-300x169.jpg?x96852",
       "summary": "New case leaks are giving us another early look at Samsung’s next flagship series. Photos of protective cases shared by a well-known tipster Ice Universe show four distinct device…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-f8c15a2a21af",
+      "title": "Samsung and LG to benefit as BOE reduces OLED supply for iPhones",
+      "source": "Huawei Central",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-04",
+      "time": "08:17",
+      "publishedAt": "2026-09-04T08:17:07.000Z",
+      "url": "https://www.huaweicentral.com/samsung-and-lg-to-benefit-as-boe-reduces-oled-supply-for-iphones/",
+      "image": "https://www.huaweicentral.com/wp-content/uploads/2026/09/iPhone-display.jpg",
+      "summary": "A new report reveals that BOE OLED supply share for iPhones has reduced to 14% in the first quarter this year, and the decline appears as an opportunity for Samsung and LG. These…",
       "tags": [
         "Samsung",
         "爆料",
@@ -717,6 +797,26 @@ window.phoneRadarAuto = {
       "summary": "OnePlus is expected to unveil the OnePlus 16 powered by the next-generation Snapdragon 8 Elite Gen 6 Pro chip in October in China. Reports have revealed that the brand is also wor…",
       "tags": [
         "OPPO",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-8e19bb7d7873",
+      "title": "Honor Magic 9 series to bring these seven colors",
+      "source": "Huawei Central",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-04",
+      "time": "05:13",
+      "publishedAt": "2026-09-04T05:13:53.000Z",
+      "url": "https://www.huaweicentral.com/honor-magic-9-series-to-bring-these-seven-colors/",
+      "image": "https://www.huaweicentral.com/wp-content/uploads/2026/08/Magic9-renders.jpg",
+      "summary": "Honor will introduce the Magic 9 series this month, and instead of just metallic or standard colors, the tech giant is planning a new palette for the upcoming flagship. A leak rev…",
+      "tags": [
+        "HONOR",
         "爆料",
         "自动抓取"
       ]
@@ -822,6 +922,26 @@ window.phoneRadarAuto = {
       ]
     },
     {
+      "id": "newsnow-2adae66a5876",
+      "title": "线下活动 | 全新 iPhone 发布在即，来与少数派一起看 Apple 发布会",
+      "source": "少数派热榜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-09-04",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://sspai.com/post/114071",
+      "image": "",
+      "summary": "线下活动 | 全新 iPhone 发布在即，来与少数派一起看 Apple 发布会",
+      "tags": [
+        "iPhone",
+        "评测",
+        "NewsNow"
+      ]
+    },
+    {
       "id": "newsnow-4f2446a06d4f",
       "title": "全球首款阔直板探索计划：华为 Pura X View 新品有奖体验",
       "source": "少数派热榜",
@@ -858,6 +978,26 @@ window.phoneRadarAuto = {
       "tags": [
         "iPhone",
         "评测",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-e6cbaeafa0b4",
+      "title": "摩托罗拉 edge 70 plus 发布：2 亿像素主摄+曲面屏",
+      "source": "酷安热榜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-09-04",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/73582603",
+      "image": "",
+      "summary": "摩托罗拉 edge 70 plus 发布：2 亿像素主摄+曲面屏",
+      "tags": [
+        "行业",
+        "爆料",
         "NewsNow"
       ]
     },
@@ -1118,26 +1258,6 @@ window.phoneRadarAuto = {
       "tags": [
         "Samsung",
         "评测",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-2fabc6dad125",
-      "title": "iPhone Ultra's Very High Price and Features Revealed in New Report",
-      "source": "MacRumors",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-09-03",
-      "time": "14:33",
-      "publishedAt": "2026-09-03T14:33:59.000Z",
-      "url": "https://www.macrumors.com/2026/09/03/iphone-ultra-features-price-specs/",
-      "image": "https://images.macrumors.com/article-new/2025/08/Apple-Foldable-Thumb.jpg",
-      "summary": "Ahead of Apple's event on Wednesday, September 9 , where it is expected to unveil its first-ever foldable iPhone, Taiwanese research firm TrendForce today outlined the device's es…",
-      "tags": [
-        "iPhone",
-        "爆料",
         "自动抓取"
       ]
     },

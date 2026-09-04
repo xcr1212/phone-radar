@@ -1,12 +1,12 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-09-04T16:20:24.779Z",
+  "updatedAt": "2026-09-04T20:44:57.195Z",
   "issueDate": "2026-09-04",
   "issue": "VOL.260904",
   "title": "手机情报日报",
-  "intro": "今日筛出 11 条重点，其中 8 条是重点爆料，包含 10 条 iPhone 相关、1 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 11 条重点，其中 8 条是重点爆料，包含 9 条 iPhone 相关、1 条官方确认、0 条参数线索。",
   "stats": {
     "total": 11,
-    "iphone": 10,
+    "iphone": 9,
     "leaks": 8,
     "official": 1,
     "specs": 0
@@ -73,8 +73,8 @@ window.phoneRadarDaily = {
           "type": "爆料",
           "trust": "高关注爆料源",
           "date": "2026-09-04",
-          "time": "16:20",
-          "publishedAt": "2026-09-04T16:20:24.779Z",
+          "time": "20:44",
+          "publishedAt": "2026-09-04T20:44:57.195Z",
           "url": "https://weibo.com/6048569942/RgvFRq8rT",
           "image": "",
           "verdict": "先看",
@@ -91,7 +91,7 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
-          "id": "auto-97ba1d26d056",
+          "id": "auto-70f608c782d7",
           "title": "iPhone 相关消息",
           "originalTitle": "",
           "source": "MacRumors",
@@ -99,10 +99,10 @@ window.phoneRadarDaily = {
           "type": "爆料",
           "trust": "媒体汇总",
           "date": "2026-09-04",
-          "time": "16:13",
-          "publishedAt": "2026-09-04T16:13:18.000Z",
-          "url": "https://www.macrumors.com/2026/09/04/the-macrumors-show-iphone-18-pro-event-expectations/",
-          "image": "",
+          "time": "19:54",
+          "publishedAt": "2026-09-04T19:54:45.000Z",
+          "url": "https://www.macrumors.com/2026/09/04/iphone-duo/",
+          "image": "https://images.macrumors.com/article-new/2026/08/iPhone-Ultra-Fold-Feature.jpg",
           "verdict": "先看",
           "takeaway": "iPhone 相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
           "detail": "iPhone 相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
@@ -161,29 +161,6 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
-          "id": "auto-2fabc6dad125",
-          "title": "iPhone 价格 / 成本相关消息",
-          "originalTitle": "",
-          "source": "MacRumors",
-          "brand": "iPhone",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-09-03",
-          "time": "14:33",
-          "publishedAt": "2026-09-03T14:33:59.000Z",
-          "url": "https://www.macrumors.com/2026/09/03/iphone-ultra-features-price-specs/",
-          "image": "https://images.macrumors.com/article-new/2025/08/Apple-Foldable-Thumb.jpg",
-          "verdict": "先看",
-          "takeaway": "iPhone 价格 / 成本相关消息。如果涉及订阅、售价或硬件成本，才需要进一步看细节。",
-          "detail": "iPhone 价格 / 成本相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
-          "keyPoints": [
-            "成本 / 价格"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
           "id": "auto-8176c67ff6f1",
           "title": "iPhone 18 Pro 芯片 / 性能相关消息",
           "originalTitle": "",
@@ -204,6 +181,30 @@ window.phoneRadarDaily = {
             "爆料来源"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "auto-a6330818e72e",
+          "title": "消息称 iQOO 16 确认搭载三星新一代 M16 发光材料，苹果折叠屏同款方案",
+          "originalTitle": "",
+          "source": "IT之家",
+          "brand": "Samsung",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-09-04",
+          "time": "11:57",
+          "publishedAt": "2026-09-04T11:57:49.000Z",
+          "url": "https://www.ithome.com/0/998/582.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/9/cc9ab4d4-a328-4462-a2ba-a1a87faf21d2.png",
+          "verdict": "先看",
+          "takeaway": "IT之家 9 月 4 日消息，博主 @数码闲聊站 今日爆料，iQOO 16 确认搭载三星新一代 M16 发光材料 + 新一代 LEAD™显示技术，苹果折叠屏同款方案。 据其爆料，除了这个安卓全球首发的新方案，iQOO 还将和三星显示强强联合，打造全球最好屏，iQOO 16 也将会联合三星有 “行业首个大动作” 。 今年 7 月，该博主爆料某厂子系骁龙 8…",
+          "detail": "IT之家 9 月 4 日消息，博主 @数码闲聊站 今日爆料，iQOO 16 确认搭载三星新一代 M16 发光材料 + 新一代 LEAD™显示技术，苹果折叠屏同款方案。 据其爆料，除了这个安卓全球首发的新方案，iQOO 还将和三星显示强强联合，打造全球最好屏，iQOO 16 也将会联合三星有 “行业首个大动作” 。 今年 7 月，该博主爆料某厂子系骁龙 8…",
+          "keyPoints": [
+            "屏幕形态",
+            "爆料来源"
+          ],
+          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         }
