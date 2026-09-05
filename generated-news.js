@@ -1,5 +1,5 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-09-05T15:12:27.364Z",
+  "updatedAt": "2026-09-05T18:17:10.860Z",
   "news": [
     {
       "id": "weibo-286bb43382d2",
@@ -10,8 +10,8 @@ window.phoneRadarAuto = {
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-09-05",
-      "time": "15:12",
-      "publishedAt": "2026-09-05T15:12:27.364Z",
+      "time": "18:17",
+      "publishedAt": "2026-09-05T18:17:10.860Z",
       "url": "https://weibo.com/6048569942/RgGpWa9l3",
       "image": "",
       "summary": "周末更新一些izhan专属黑话： 影像：小底＜1/2\"、中底＝1/2\"±、大底＝1/1.4\"-1/1.5\"±、超大底＝1/1.3\"±、超级大底＝1/1.1\"±、入门级长焦微距＝30cm±、近距离长焦微距＝10-15cm±、双2亿＝2亿主摄+2亿长焦 马达：小马达＝0809-9595、相对大马达＝0815-7514-0816、超大马达＝0916系 屏幕：超清…",
@@ -30,8 +30,8 @@ window.phoneRadarAuto = {
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-09-05",
-      "time": "15:12",
-      "publishedAt": "2026-09-05T15:12:27.364Z",
+      "time": "18:17",
+      "publishedAt": "2026-09-05T18:17:10.860Z",
       "url": "https://weibo.com/6048569942/RgFb7qGqW",
       "image": "https://tvax2.sinaimg.cn/mw2000/006BlblIgy1igrs0o3e5nj30xv0fs43n.jpg",
       "summary": "咳咳，骁龙8EE6旗舰机电池确定8400mAh👖",
@@ -50,8 +50,8 @@ window.phoneRadarAuto = {
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-09-05",
-      "time": "15:12",
-      "publishedAt": "2026-09-05T15:12:27.364Z",
+      "time": "18:17",
+      "publishedAt": "2026-09-05T18:17:10.860Z",
       "url": "https://weibo.com/6048569942/Rgya65MCp",
       "image": "",
       "summary": "刚刚摸完所有母系新机确定了 小杯——天玑9500s、骁龙8E 中杯——天玑9600M、骁龙8E5、2nm骁龙8E6 大杯——2nm天玑9600 Pro、2nm骁龙8E6 大大杯——2nm天玑9600 Pro、2nm骁龙8EE6",
@@ -70,8 +70,8 @@ window.phoneRadarAuto = {
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-09-05",
-      "time": "15:12",
-      "publishedAt": "2026-09-05T15:12:27.364Z",
+      "time": "18:17",
+      "publishedAt": "2026-09-05T18:17:10.860Z",
       "url": "https://weibo.com/6048569942/RgwUYsGD5",
       "image": "https://tvax4.sinaimg.cn/mw2000/006BlblIgy1igrd36i0ilj30xv0f5djx.jpg",
       "summary": "预言成真了家人们，本月Pro Max大乱斗： iPhone 18 Pro Max——A20 Pro/可变光圈/新ID Xiaomi 18 Pro Max——8EE6/徕卡新影像/背屏 华为 Mate90 Pro Max——9050 Pro/高动态影像 vivo X500 Pro Max——9600 Pro/高动态影像 OPPO Find X10 Pro M…",
@@ -90,8 +90,8 @@ window.phoneRadarAuto = {
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-09-05",
-      "time": "15:12",
-      "publishedAt": "2026-09-05T15:12:27.364Z",
+      "time": "18:17",
+      "publishedAt": "2026-09-05T18:17:10.860Z",
       "url": "https://weibo.com/6048569942/Rgwgo39kW",
       "image": "",
       "summary": "独家，iQOO 16确认搭载三星新一代M16发光材料+新一代 LEAD™显示技术，苹果折叠屏同款方案。 除了这个安卓全球首发的新方案，iQOO还将和三星显示强强联合，打造全球最好屏，iQOO 16也将会联合三星有“行业首个大动作”，快了快了👖",
@@ -99,6 +99,46 @@ window.phoneRadarAuto = {
         "Samsung",
         "爆料",
         "微博"
+      ]
+    },
+    {
+      "id": "auto-1a48de1f6ac2",
+      "title": "iPhone 18 Pro: Everything M6 Tells Us About the A20 Chip",
+      "source": "MacRumors",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-05",
+      "time": "16:00",
+      "publishedAt": "2026-09-05T16:00:13.000Z",
+      "url": "https://www.macrumors.com/2026/09/05/what-m6-tells-us-about-a20/",
+      "image": "https://images.macrumors.com/article-new/2026/09/m6-a20-pro-chips.jpg",
+      "summary": "Apple announced the M6 chip last week, just ahead of its September iPhone event, providing the clearest indication yet of what the A20 will bring to the iPhone 18 lineup. Apple si…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-e349035d21aa",
+      "title": "竹本青：【酷态科正式进军可穿戴移动科技领域】 9月5日，人民日报《环球人物》报道，酷态科CUKTECH昨日亮相IFA 20…",
+      "source": "竹本青",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-09-05",
+      "time": "15:52",
+      "publishedAt": "2026-09-05T15:52:11.000Z",
+      "url": "https://www.coolapk.com/feed/73601056",
+      "image": "http://image.coolapk.com/feed/2026/0905/23/4248714_9930c393_3527_5669_713@2000x1503.jpg",
+      "summary": "【酷态科正式进军可穿戴移动科技领域】 9月5日，人民日报《环球人物》报道，酷态科CUKTECH昨日亮相IFA 2026展会，展出首款可穿戴机器人原型机CUKTECH Power Exoskeleton Kit，正式从充电赛道进军可穿戴移动科技领域。 据介绍，这款轻量化下肢外骨骼重约2.5公斤，搭载运动意图识别技术，可适配多地形，电源支持互换复用。 ————…",
+      "tags": [
+        "行业",
+        "爆料",
+        "酷安博主"
       ]
     },
     {
@@ -282,26 +322,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-861b66d4655c",
-      "title": "Huawei Pura X View could be available for purchase on September 10",
-      "source": "Huawei Central",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-09-05",
-      "time": "09:42",
-      "publishedAt": "2026-09-05T09:42:02.000Z",
-      "url": "https://www.huaweicentral.com/huawei-pura-x-view-purchase-on-september-10/",
-      "image": "https://www.huaweicentral.com/wp-content/uploads/2026/08/PuraXView.jpg",
-      "summary": "Huawei Pura X View is also going to be a part of the September 7 launch event, though the purchase time could differ, and the first sale of this wide, flat-screen phone may begin…",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-7a853f6835ff",
       "title": "Google Photos on Android just got an iPhone feature I’ve waited a year for — how to use it now",
       "source": "Android Authority",
@@ -357,26 +377,6 @@ window.phoneRadarAuto = {
       "summary": "IT之家 9 月 5 日消息，科技媒体 GSMArena 昨日（9 月 4 日）发布博文，报道称在柏林召开的 IFA 2026 展会期间， 传音旗下品牌 TECNO 展示“0mm 显示边框”概念手机。 IT之家援引博文介绍，这里的“0mm 显示边框”主要是指屏幕外没有黑边，不过该媒体也指出，相比较主流手机， 这款概念手机的金属边框要更宽一些。 在结构方面，…",
       "tags": [
         "行业",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-c26d8a40c47e",
-      "title": "Huawei Mate 90 RS Ultimate could bring back ceramic rear design",
-      "source": "Huawei Central",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-09-05",
-      "time": "07:34",
-      "publishedAt": "2026-09-05T07:34:15.000Z",
-      "url": "https://www.huaweicentral.com/huawei-mate-90-rs-ultimate-could-bring-back-ceramic-rear-design/",
-      "image": "https://www.huaweicentral.com/wp-content/uploads/2026/09/Mate-90-RS-sketch.jpg",
-      "summary": "Mate 90 RS Ultimate will be the high-end Huawei smartphone model, which is expected to bring back a ceramic rear panel. A new leak says the company will once again use a ceramic m…",
-      "tags": [
-        "Huawei",
         "爆料",
         "自动抓取"
       ]
@@ -482,6 +482,26 @@ window.phoneRadarAuto = {
       ]
     },
     {
+      "id": "newsnow-12aed3108dfc",
+      "title": "除了折叠屏 iPhone，Apple 发布会还有哪些看点？",
+      "source": "少数派热榜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-09-05",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://sspai.com/post/114084",
+      "image": "",
+      "summary": "除了折叠屏 iPhone，Apple 发布会还有哪些看点？",
+      "tags": [
+        "iPhone",
+        "评测",
+        "NewsNow"
+      ]
+    },
+    {
       "id": "newsnow-6356b154a32d",
       "title": "线下活动 | 全新 iPhone 发布在即，来与少数派一起看 Apple 发布会",
       "source": "少数派热榜",
@@ -522,22 +542,22 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-44b3be110379",
-      "title": "把「闪念胶囊」（Almost）放到 iPhone 锁屏",
-      "source": "少数派热榜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "评测",
-      "trust": "媒体汇总",
+      "id": "newsnow-cfbe3bf67c82",
+      "title": "小米售后续集，店员私自取消售后寄回后，手机边框有磨损，跟拿去打灰了一样，摄像头全是指纹和细微划痕，屏幕贴的原厂膜被刮花了也不跟我说一声，6k的红米我替你们买了，这就是小米品牌售后态度",
+      "source": "酷安热榜",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
       "date": "2026-09-05",
       "time": "",
       "publishedAt": "",
-      "url": "https://sspai.com/post/113219",
+      "url": "https://www.coolapk.com/feed/73589830",
       "image": "",
-      "summary": "把「闪念胶囊」（Almost）放到 iPhone 锁屏",
+      "summary": "小米售后续集，店员私自取消售后寄回后，手机边框有磨损，跟拿去打灰了一样，摄像头全是指纹和细微划痕，屏幕贴的原厂膜被刮花了也不跟我说一声，6k的红米我替你们买了，这就是小米品牌售后态度",
       "tags": [
-        "iPhone",
-        "评测",
+        "Xiaomi",
+        "爆料",
         "NewsNow"
       ]
     },
@@ -562,28 +582,8 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-cfbe3bf67c82",
-      "title": "小米售后续集，店员私自取消售后寄回后，手机边框有磨损，跟拿去打灰了一样，摄像头全是指纹和细微划痕，屏幕贴的原厂膜被刮花了也不跟我说一声，6k的红米我替你们买了，这就是小米品牌售后态度",
-      "source": "酷安热榜",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-09-05",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73589830",
-      "image": "",
-      "summary": "小米售后续集，店员私自取消售后寄回后，手机边框有磨损，跟拿去打灰了一样，摄像头全是指纹和细微划痕，屏幕贴的原厂膜被刮花了也不跟我说一声，6k的红米我替你们买了，这就是小米品牌售后态度",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-db2aefd1f189",
-      "title": "苹果折叠手机价格",
+      "id": "newsnow-403dc5a2f37f",
+      "title": "曝iPhone18Pro灵动岛大瘦身",
       "source": "微博热搜",
       "brand": "iPhone",
       "model": "iPhone 相关机型",
@@ -592,9 +592,9 @@ window.phoneRadarAuto = {
       "date": "2026-09-05",
       "time": "",
       "publishedAt": "",
-      "url": "https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E6%8A%98%E5%8F%A0%E6%89%8B%E6%9C%BA%E4%BB%B7%E6%A0%BC%23&t=31&band_rank=8&Refer=top",
+      "url": "https://s.weibo.com/weibo?q=%23%E6%9B%9DiPhone18Pro%E7%81%B5%E5%8A%A8%E5%B2%9B%E5%A4%A7%E7%98%A6%E8%BA%AB%23&t=31&band_rank=25&Refer=top",
       "image": "",
-      "summary": "苹果折叠手机价格",
+      "summary": "曝iPhone18Pro灵动岛大瘦身",
       "tags": [
         "iPhone",
         "爆料",
@@ -618,6 +618,26 @@ window.phoneRadarAuto = {
       "tags": [
         "行业",
         "市场报告",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-506ce2b629cb",
+      "title": "UP主手搓iPhone折叠屏",
+      "source": "B站热搜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-05",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E6%89%8B%E6%90%93iPhone%E6%8A%98%E5%8F%A0%E5%B1%8F",
+      "image": "",
+      "summary": "UP主手搓iPhone折叠屏",
+      "tags": [
+        "iPhone",
+        "爆料",
         "NewsNow"
       ]
     },
@@ -1082,26 +1102,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-5356dfab20f5",
-      "title": "iPhone Ultra Production Hitting Just 'a Few Hundred' a Day, Says Nikkei",
-      "source": "MacRumors",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-09-04",
-      "time": "10:09",
-      "publishedAt": "2026-09-04T10:09:03.000Z",
-      "url": "https://www.macrumors.com/2026/09/04/iphone-ultra-production-extremely-limited/",
-      "image": "https://images.macrumors.com/article-new/2026/08/iPhone-Ultra-Fold-Feature.jpg",
-      "summary": "Apple last month only managed to produce \"a few hundred units a day\" of its upcoming foldable iPhone because of the company's extremely high quality control standards, according t…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-ae688bf1e1d7",
       "title": "The Galaxy S27 Pro could solve Samsung’s biggest problem — if it fixes these 5 things",
       "source": "Android Authority",
@@ -1257,26 +1257,6 @@ window.phoneRadarAuto = {
       "summary": "More than a month after Samsung announced the Galaxy Z Fold 8, Xiaomi has unveiled its first passport-style foldable phone. The Xiaomi 18 Fold was showcased at the ongoing IFA 202…",
       "tags": [
         "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-0462ee4d35b4",
-      "title": "Motorola Edge 70 Plus launches with a 5,200-nit 144Hz AMOLED display, 200MP camera, 6,500mAh battery",
-      "source": "Gizmochina",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-09-04",
-      "time": "02:59",
-      "publishedAt": "2026-09-04T02:59:16.000Z",
-      "url": "https://www.gizmochina.com/2026/09/04/motorola-edge-70-plus-launched-price-specifications/",
-      "image": "https://www.gizmochina.com/wp-content/uploads/2026/09/Motorola-Edge-70-Plus-300x150.png?x96852",
-      "summary": "Motorola Edge 70 Plus is the latest addition to the Edge 70 series, which already includes multiple models such as the Edge 70 Max, Edge 70 Pro+, Edge 70 Pro, Edge 70 Fusion, and…",
-      "tags": [
-        "行业",
         "爆料",
         "自动抓取"
       ]
