@@ -1,5 +1,5 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-09-05T20:27:04.134Z",
+  "updatedAt": "2026-09-05T23:53:37.560Z",
   "news": [
     {
       "id": "weibo-286bb43382d2",
@@ -10,8 +10,8 @@ window.phoneRadarAuto = {
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-09-05",
-      "time": "20:27",
-      "publishedAt": "2026-09-05T20:27:04.134Z",
+      "time": "23:53",
+      "publishedAt": "2026-09-05T23:53:37.560Z",
       "url": "https://weibo.com/6048569942/RgGpWa9l3",
       "image": "",
       "summary": "周末更新一些izhan专属黑话： 影像：小底＜1/2\"、中底＝1/2\"±、大底＝1/1.4\"-1/1.5\"±、超大底＝1/1.3\"±、超级大底＝1/1.1\"±、入门级长焦微距＝30cm±、近距离长焦微距＝10-15cm±、双2亿＝2亿主摄+2亿长焦 马达：小马达＝0809-9595、相对大马达＝0815-7514-0816、超大马达＝0916系 屏幕：超清…",
@@ -30,8 +30,8 @@ window.phoneRadarAuto = {
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-09-05",
-      "time": "20:27",
-      "publishedAt": "2026-09-05T20:27:04.134Z",
+      "time": "23:53",
+      "publishedAt": "2026-09-05T23:53:37.560Z",
       "url": "https://weibo.com/6048569942/RgFb7qGqW",
       "image": "https://tvax2.sinaimg.cn/mw2000/006BlblIgy1igrs0o3e5nj30xv0fs43n.jpg",
       "summary": "咳咳，骁龙8EE6旗舰机电池确定8400mAh👖",
@@ -50,8 +50,8 @@ window.phoneRadarAuto = {
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-09-05",
-      "time": "20:27",
-      "publishedAt": "2026-09-05T20:27:04.134Z",
+      "time": "23:53",
+      "publishedAt": "2026-09-05T23:53:37.560Z",
       "url": "https://weibo.com/6048569942/Rgya65MCp",
       "image": "",
       "summary": "刚刚摸完所有母系新机确定了 小杯——天玑9500s、骁龙8E 中杯——天玑9600M、骁龙8E5、2nm骁龙8E6 大杯——2nm天玑9600 Pro、2nm骁龙8E6 大大杯——2nm天玑9600 Pro、2nm骁龙8EE6",
@@ -70,8 +70,8 @@ window.phoneRadarAuto = {
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-09-05",
-      "time": "20:27",
-      "publishedAt": "2026-09-05T20:27:04.134Z",
+      "time": "23:53",
+      "publishedAt": "2026-09-05T23:53:37.560Z",
       "url": "https://weibo.com/6048569942/RgwUYsGD5",
       "image": "https://tvax4.sinaimg.cn/mw2000/006BlblIgy1igrd36i0ilj30xv0f5djx.jpg",
       "summary": "预言成真了家人们，本月Pro Max大乱斗： iPhone 18 Pro Max——A20 Pro/可变光圈/新ID Xiaomi 18 Pro Max——8EE6/徕卡新影像/背屏 华为 Mate90 Pro Max——9050 Pro/高动态影像 vivo X500 Pro Max——9600 Pro/高动态影像 OPPO Find X10 Pro M…",
@@ -90,8 +90,8 @@ window.phoneRadarAuto = {
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-09-05",
-      "time": "20:27",
-      "publishedAt": "2026-09-05T20:27:04.134Z",
+      "time": "23:53",
+      "publishedAt": "2026-09-05T23:53:37.560Z",
       "url": "https://weibo.com/6048569942/Rgwgo39kW",
       "image": "",
       "summary": "独家，iQOO 16确认搭载三星新一代M16发光材料+新一代 LEAD™显示技术，苹果折叠屏同款方案。 除了这个安卓全球首发的新方案，iQOO还将和三星显示强强联合，打造全球最好屏，iQOO 16也将会联合三星有“行业首个大动作”，快了快了👖",
@@ -99,6 +99,26 @@ window.phoneRadarAuto = {
         "Samsung",
         "爆料",
         "微博"
+      ]
+    },
+    {
+      "id": "auto-a61a1196a9dc",
+      "title": "珠海港珠澳大桥海关连查 4 起跨境客车司机藏匿旧手机进境案，合计查获旧手机 64 台",
+      "source": "IT之家",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-05",
+      "time": "23:29",
+      "publishedAt": "2026-09-05T23:29:13.000Z",
+      "url": "https://www.ithome.com/0/998/854.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/9/61b76cd2-538e-42f9-94df-b4843f309f35.png?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 9 月 6 日消息，据“海关发布”公众号，近日，拱北海关所属港珠澳大桥海关连查 4 起跨境客车司机藏匿旧手机进境案，合计查获旧手机 64 台。 8 月 20 日 15 时许，海关关员在港珠澳大桥珠海公路口岸进境客车通道监管时，发现一辆粤澳两地牌客车机检图像异常。经进一步检查，关员在该车中控台、扶手箱、座椅下等多个位置共查获藏匿的旧手机 16 台。…",
+      "tags": [
+        "行业",
+        "爆料",
+        "自动抓取"
       ]
     },
     {
@@ -362,66 +382,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-bfe7c946193a",
-      "title": "俞敏洪：打价格战永远不可能有长久发展前途，你只能做得比别人好",
-      "source": "IT之家",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-09-05",
-      "time": "08:10",
-      "publishedAt": "2026-09-05T08:10:05.000Z",
-      "url": "https://www.ithome.com/0/998/772.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/9/ba534124-3320-42f2-b286-05501428632f.jpg?x-bce-process=image/format,f_auto",
-      "summary": "9 月 5 日上午消息，2026 年亚布力论坛夏季年会于 9 月 4-6 日在成都举办。开幕式上，新东方教育科技集团董事长俞敏洪分享指出，全世界大概只有两种产品。 第一种，是创造出来的，人们从来没有用过的，而且还能打动人心的产品。 “乔布斯创造了苹果手机、智能手机，后来我们所有的智能手机只不过是追随者。”俞敏洪坦言，“当华为、小米等开始做智能手机的时候，苹…",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-a4667d03989a",
-      "title": "传音 TECNO 展示“0mm 边框”概念手机：双层玻璃隐藏屏幕黑边",
-      "source": "IT之家",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-09-05",
-      "time": "07:42",
-      "publishedAt": "2026-09-05T07:42:38.000Z",
-      "url": "https://www.ithome.com/0/998/756.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/9/220d773a-062c-4b13-94da-20fe3ff79406.jpg?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 9 月 5 日消息，科技媒体 GSMArena 昨日（9 月 4 日）发布博文，报道称在柏林召开的 IFA 2026 展会期间， 传音旗下品牌 TECNO 展示“0mm 显示边框”概念手机。 IT之家援引博文介绍，这里的“0mm 显示边框”主要是指屏幕外没有黑边，不过该媒体也指出，相比较主流手机， 这款概念手机的金属边框要更宽一些。 在结构方面，…",
-      "tags": [
-        "行业",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-9eecc99c9901",
-      "title": "小米 18 Fold 中折叠手机“暖金白”“黑色”配色官图公布，9 月 7 日发布",
-      "source": "IT之家",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-09-05",
-      "time": "07:15",
-      "publishedAt": "2026-09-05T07:15:33.000Z",
-      "url": "https://www.ithome.com/0/998/751.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/9/3c2169f5-2611-426f-9ab6-fa5075865e38.jpg",
-      "summary": "IT之家 9 月 5 日消息，小米 18 Fold 中折叠手机将于 9 月 7 日 19 点在小米秋季旗舰新品发布会上发布。小米官方今日公布了新机“ 暖金白 ”“ 黑色 ”配色官图。 据介绍，小米 18 Fold“中折叠”手机采用极窄四等边 + 超椭圆大 R 角设计；后置跑道型 Deco + 侧边纯平包裹式中框。 综合IT之家此前报道，小米 18 Fold…",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-abb87f26d48b",
       "title": "Samsung Galaxy S27 Pro, S27 Ultra certification reveals 60W charging speed",
       "source": "Gizmochina",
@@ -602,22 +562,22 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-a7d0341ebb53",
-      "title": "今年为什么各大手机厂商都在出阔折叠？",
-      "source": "知乎热榜",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "市场报告",
-      "trust": "媒体汇总",
+      "id": "newsnow-02b81109e5dd",
+      "title": "苹果折叠手机价格",
+      "source": "微博热搜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "待验证",
       "date": "2026-09-05",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.zhihu.com/question/2075539956064333862",
+      "url": "https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E6%8A%98%E5%8F%A0%E6%89%8B%E6%9C%BA%E4%BB%B7%E6%A0%BC%23&t=31&band_rank=19&Refer=top",
       "image": "",
-      "summary": "今年为什么各大手机厂商都在出阔折叠？",
+      "summary": "苹果折叠手机价格",
       "tags": [
-        "行业",
-        "市场报告",
+        "iPhone",
+        "爆料",
         "NewsNow"
       ]
     },
@@ -1217,26 +1177,6 @@ window.phoneRadarAuto = {
       "summary": "OnePlus is expected to unveil the OnePlus 16 powered by the next-generation Snapdragon 8 Elite Gen 6 Pro chip in October in China. Reports have revealed that the brand is also wor…",
       "tags": [
         "OPPO",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-eb5c0b11547f",
-      "title": "iQOO 16 to feature industry’s best 2K 165Hz OLED display and a new level of mobile ray tracing",
-      "source": "Gizmochina",
-      "brand": "vivo",
-      "model": "vivo 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-09-04",
-      "time": "04:20",
-      "publishedAt": "2026-09-04T04:20:42.000Z",
-      "url": "https://www.gizmochina.com/2026/09/04/iqoo-16-samsung-m16-lead-display-q4-gaming-features/",
-      "image": "https://www.gizmochina.com/wp-content/uploads/2026/09/iQOO-16-leaked-image--300x300.png?x96852",
-      "summary": "The next iQOO flagship is expected to bring several notable changes to the company’s high-end smartphone lineup. The iQOO 16 is also set to put considerable focus on display quali…",
-      "tags": [
-        "vivo",
         "爆料",
         "自动抓取"
       ]

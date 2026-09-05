@@ -1,12 +1,12 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-09-05T20:27:04.134Z",
+  "updatedAt": "2026-09-05T23:53:37.560Z",
   "issueDate": "2026-09-05",
   "issue": "VOL.260905",
   "title": "手机情报日报",
-  "intro": "今日筛出 10 条重点，其中 8 条是重点爆料，包含 7 条 iPhone 相关、1 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 12 条重点，其中 8 条是重点爆料，包含 8 条 iPhone 相关、1 条官方确认、0 条参数线索。",
   "stats": {
-    "total": 10,
-    "iphone": 7,
+    "total": 12,
+    "iphone": 8,
     "leaks": 8,
     "official": 1,
     "specs": 0
@@ -17,29 +17,6 @@ window.phoneRadarDaily = {
       "title": "重点爆料",
       "hint": "机模、配色、影像、屏幕、电池和芯片线索先看。",
       "items": [
-        {
-          "id": "auto-9eecc99c9901",
-          "title": "小米 18 Fold 中折叠手机“暖金白”“黑色”配色官图公布，9 月 7 日发布",
-          "originalTitle": "",
-          "source": "IT之家",
-          "brand": "Xiaomi",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-09-05",
-          "time": "07:15",
-          "publishedAt": "2026-09-05T07:15:33.000Z",
-          "url": "https://www.ithome.com/0/998/751.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/9/3c2169f5-2611-426f-9ab6-fa5075865e38.jpg",
-          "verdict": "先看",
-          "takeaway": "IT之家 9 月 5 日消息，小米 18 Fold 中折叠手机将于 9 月 7 日 19 点在小米秋季旗舰新品发布会上发布。小米官方今日公布了新机“ 暖金白 ”“ 黑色 ”配色官图。 据介绍，小米 18 Fold“中折叠”手机采用极窄四等边 + 超椭圆大 R 角设计；后置跑道型 Deco + 侧边纯平包裹式中框。 综合IT之家此前报道，小米 18 Fold…",
-          "detail": "IT之家 9 月 5 日消息，小米 18 Fold 中折叠手机将于 9 月 7 日 19 点在小米秋季旗舰新品发布会上发布。小米官方今日公布了新机“ 暖金白 ”“ 黑色 ”配色官图。 据介绍，小米 18 Fold“中折叠”手机采用极窄四等边 + 超椭圆大 R 角设计；后置跑道型 Deco + 侧边纯平包裹式中框。 综合IT之家此前报道，小米 18 Fold…",
-          "keyPoints": [
-            "外观 / 配色 / 尺寸"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
         {
           "id": "auto-f9431fe9c776",
           "title": "iPhone 相关消息",
@@ -128,6 +105,29 @@ window.phoneRadarDaily = {
           "detail": "除了折叠屏 iPhone，Apple 发布会还有哪些看点？",
           "keyPoints": [
             "屏幕形态"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "newsnow-02b81109e5dd",
+          "title": "苹果折叠手机价格",
+          "originalTitle": "",
+          "source": "微博热搜",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "待验证",
+          "date": "2026-09-05",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E6%8A%98%E5%8F%A0%E6%89%8B%E6%9C%BA%E4%BB%B7%E6%A0%BC%23&t=31&band_rank=19&Refer=top",
+          "image": "",
+          "verdict": "先看",
+          "takeaway": "苹果折叠手机价格",
+          "detail": "苹果折叠手机价格",
+          "keyPoints": [
+            "成本 / 价格"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
@@ -257,6 +257,66 @@ window.phoneRadarDaily = {
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "影响拍照体验，买旗舰机时值得关注。",
           "action": "有具体参数就记录到参数库；没有参数就先收藏。"
+        }
+      ]
+    },
+    {
+      "id": "launch",
+      "title": "新机与官方发布",
+      "hint": "能直接更新到参数库。",
+      "items": [
+        {
+          "id": "auto-a61a1196a9dc",
+          "title": "珠海港珠澳大桥海关连查 4 起跨境客车司机藏匿旧手机进境案，合计查获旧手机 64 台",
+          "originalTitle": "",
+          "source": "IT之家",
+          "brand": "行业",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-09-05",
+          "time": "23:29",
+          "publishedAt": "2026-09-05T23:29:13.000Z",
+          "url": "https://www.ithome.com/0/998/854.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/9/61b76cd2-538e-42f9-94df-b4843f309f35.png?x-bce-process=image/format,f_auto",
+          "verdict": "扫一眼",
+          "takeaway": "IT之家 9 月 6 日消息，据“海关发布”公众号，近日，拱北海关所属港珠澳大桥海关连查 4 起跨境客车司机藏匿旧手机进境案，合计查获旧手机 64 台。 8 月 20 日 15 时许，海关关员在港珠澳大桥珠海公路口岸进境客车通道监管时，发现一辆粤澳两地牌客车机检图像异常。经进一步检查，关员在该车中控台、扶手箱、座椅下等多个位置共查获藏匿的旧手机 16 台。…",
+          "detail": "IT之家 9 月 6 日消息，据“海关发布”公众号，近日，拱北海关所属港珠澳大桥海关连查 4 起跨境客车司机藏匿旧手机进境案，合计查获旧手机 64 台。 8 月 20 日 15 时许，海关关员在港珠澳大桥珠海公路口岸进境客车通道监管时，发现一辆粤澳两地牌客车机检图像异常。经进一步检查，关员在该车中控台、扶手箱、座椅下等多个位置共查获藏匿的旧手机 16 台。…",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "中文源可以直接点开快读；看完只保留和购机有关的点。"
+        }
+      ]
+    },
+    {
+      "id": "market",
+      "title": "行业趋势",
+      "hint": "看方向，不急着当购买依据。",
+      "items": [
+        {
+          "id": "newsnow-f2e51e47364c",
+          "title": "已经摸过真机了，配置大差不差，但是超大杯我是真喜欢啊，但是还没见哪个网传图传对了[doge][doge]敬请期待下吧 #数码日常# #OPPO# #OPPOFindX10系列曝光#",
+          "originalTitle": "",
+          "source": "酷安热榜",
+          "brand": "OPPO",
+          "type": "爆料",
+          "trust": "高关注爆料源",
+          "date": "2026-09-05",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://www.coolapk.com/feed/73574191",
+          "image": "",
+          "verdict": "扫一眼",
+          "takeaway": "已经摸过真机了，配置大差不差，但是超大杯我是真喜欢啊，但是还没见哪个网传图传对了[doge][doge]敬请期待下吧 #数码日常# #OPPO# #OPPOFindX10系列曝光#",
+          "detail": "已经摸过真机了，配置大差不差，但是超大杯我是真喜欢啊，但是还没见哪个网传图传对了[doge][doge]敬请期待下吧 #数码日常# #OPPO# #OPPOFindX10系列曝光#",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         }
       ]
     }
