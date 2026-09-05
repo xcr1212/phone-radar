@@ -1,6 +1,46 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-09-05T00:04:33.877Z",
+  "updatedAt": "2026-09-05T04:26:26.454Z",
   "news": [
+    {
+      "id": "weibo-286bb43382d2",
+      "title": "数码闲聊站：周末更新一些izhan专属黑话： 影像：小底＜1/2\"、中底＝1/2\"±、大底…",
+      "source": "数码闲聊站",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-09-05",
+      "time": "04:26",
+      "publishedAt": "2026-09-05T04:26:26.454Z",
+      "url": "https://weibo.com/6048569942/RgGpWa9l3",
+      "image": "",
+      "summary": "周末更新一些izhan专属黑话： 影像：小底＜1/2\"、中底＝1/2\"±、大底＝1/1.4\"-1/1.5\"±、超大底＝1/1.3\"±、超级大底＝1/1.1\"±、入门级长焦微距＝30cm±、近距离长焦微距＝10-15cm±、双2亿＝2亿主摄+2亿长焦 马达：小马达＝0809-9595、相对大马达＝0815-7514-0816、超大马达＝0916系 屏幕：超清…",
+      "tags": [
+        "行业",
+        "爆料",
+        "微博"
+      ]
+    },
+    {
+      "id": "weibo-dcc20f429c27",
+      "title": "数码闲聊站：咳咳，骁龙8EE6旗舰机电池确定8400mAh👖",
+      "source": "数码闲聊站",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-09-05",
+      "time": "04:26",
+      "publishedAt": "2026-09-05T04:26:26.454Z",
+      "url": "https://weibo.com/6048569942/RgFb7qGqW",
+      "image": "https://tvax2.sinaimg.cn/mw2000/006BlblIgy1igrs0o3e5nj30xv0fs43n.jpg",
+      "summary": "咳咳，骁龙8EE6旗舰机电池确定8400mAh👖",
+      "tags": [
+        "行业",
+        "爆料",
+        "微博"
+      ]
+    },
     {
       "id": "weibo-a094f2ec803d",
       "title": "数码闲聊站：刚刚摸完所有母系新机确定了 小杯——天玑9500s、骁龙8E 中杯——天玑96…",
@@ -10,8 +50,8 @@ window.phoneRadarAuto = {
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-09-05",
-      "time": "00:04",
-      "publishedAt": "2026-09-05T00:04:33.877Z",
+      "time": "04:26",
+      "publishedAt": "2026-09-05T04:26:26.454Z",
       "url": "https://weibo.com/6048569942/Rgya65MCp",
       "image": "",
       "summary": "刚刚摸完所有母系新机确定了 小杯——天玑9500s、骁龙8E 中杯——天玑9600M、骁龙8E5、2nm骁龙8E6 大杯——2nm天玑9600 Pro、2nm骁龙8E6 大大杯——2nm天玑9600 Pro、2nm骁龙8EE6",
@@ -30,8 +70,8 @@ window.phoneRadarAuto = {
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-09-05",
-      "time": "00:04",
-      "publishedAt": "2026-09-05T00:04:33.877Z",
+      "time": "04:26",
+      "publishedAt": "2026-09-05T04:26:26.454Z",
       "url": "https://weibo.com/6048569942/RgwUYsGD5",
       "image": "https://tvax4.sinaimg.cn/mw2000/006BlblIgy1igrd36i0ilj30xv0f5djx.jpg",
       "summary": "预言成真了家人们，本月Pro Max大乱斗： iPhone 18 Pro Max——A20 Pro/可变光圈/新ID Xiaomi 18 Pro Max——8EE6/徕卡新影像/背屏 华为 Mate90 Pro Max——9050 Pro/高动态影像 vivo X500 Pro Max——9600 Pro/高动态影像 OPPO Find X10 Pro M…",
@@ -50,8 +90,8 @@ window.phoneRadarAuto = {
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-09-05",
-      "time": "00:04",
-      "publishedAt": "2026-09-05T00:04:33.877Z",
+      "time": "04:26",
+      "publishedAt": "2026-09-05T04:26:26.454Z",
       "url": "https://weibo.com/6048569942/Rgwgo39kW",
       "image": "",
       "summary": "独家，iQOO 16确认搭载三星新一代M16发光材料+新一代 LEAD™显示技术，苹果折叠屏同款方案。 除了这个安卓全球首发的新方案，iQOO还将和三星显示强强联合，打造全球最好屏，iQOO 16也将会联合三星有“行业首个大动作”，快了快了👖",
@@ -70,8 +110,8 @@ window.phoneRadarAuto = {
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-09-05",
-      "time": "00:04",
-      "publishedAt": "2026-09-05T00:04:33.877Z",
+      "time": "04:26",
+      "publishedAt": "2026-09-05T04:26:26.454Z",
       "url": "https://weibo.com/6048569942/RgvFRq8rT",
       "image": "",
       "summary": "旗舰线上内置风扇、安卓阵营首个1:1方形前摄、双2亿ARRI联名影像、小屏最大8K电池等…… ↑耀子Magic9系列存在的一些亮点，配件还有Magic9 Pro Max的专业影像手柄+G500/G200增距镜，最长500mm超级望远镜，配色有爆米黄/开场白/幕布黑/橄榄青，苔青/影黑/银盐[二哈]",
@@ -82,23 +122,183 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "weibo-dc34c5548a91",
-      "title": "数码闲聊站：米板9 Pro Max都看到了吧，13.3英寸LCD巨屏，120W闪充，电池很…",
-      "source": "数码闲聊站",
-      "brand": "行业",
-      "model": "智能手机市场",
+      "id": "coolapk-user-6c016269eafd",
+      "title": "竹本青：【小米18 Fold 更多配色公布：黑/白金】 黑色：深邃内敛，一眼纯粹 暖金白：温润柔和，分外优雅 西野红：融合…",
+      "source": "竹本青",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
       "type": "爆料",
-      "trust": "高关注爆料源",
+      "trust": "高可信爆料",
       "date": "2026-09-05",
-      "time": "00:04",
-      "publishedAt": "2026-09-05T00:04:33.877Z",
-      "url": "https://weibo.com/6048569942/Rgq5k8dCS",
-      "image": "",
-      "summary": "米板9 Pro Max都看到了吧，13.3英寸LCD巨屏，120W闪充，电池很大，玄戒O3满血版，大尺寸全金属机身，散热肯定比折叠屏强，所以它能更好的发挥玄戒的性能，而且相对便宜很多[吃瓜]",
+      "time": "04:16",
+      "publishedAt": "2026-09-05T04:16:22.000Z",
+      "url": "https://www.coolapk.com/feed/73591541",
+      "image": "http://image.coolapk.com/feed/2026/0905/12/4248714_a47664fc_1778_9674_156@2000x2000.jpg",
+      "summary": "【小米18 Fold 更多配色公布：黑/白金】 黑色：深邃内敛，一眼纯粹 暖金白：温润柔和，分外优雅 西野红：融合暖调红棕底色 此前9月3日，卢伟冰爆料小米18 Fold 共提供四款配色，还将推出一个“很中国”的特别版本。他表示，该版本整体氛围感与已亮相的“西野红”截然不同。 #今日热点# #小米18Fold# #HyperOS4#",
       "tags": [
-        "行业",
+        "Xiaomi",
         "爆料",
-        "微博"
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "coolapk-user-83beb46b0fef",
+      "title": "JSCHEN小小狐：『小米 18 Fold 更多配色亮相：黑色 / 暖金白』 ◇「黑色」深邃内敛，一眼纯粹 ◇「暖金白」温润柔和，分外…",
+      "source": "JSCHEN小小狐",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-09-05",
+      "time": "03:28",
+      "publishedAt": "2026-09-05T03:28:30.000Z",
+      "url": "https://www.coolapk.com/feed/73590881",
+      "image": "http://image.coolapk.com/feed/2026/0905/11/4702274_7e3d6717_9306_1188_467@2000x2000.jpg",
+      "summary": "『小米 18 Fold 更多配色亮相：黑色 / 暖金白』 ◇「黑色」深邃内敛，一眼纯粹 ◇「暖金白」温润柔和，分外优雅 #今日热点# #小米18# #HyperOS4#",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-11a245adc01a",
+      "title": "索尼被曝将发布三款 E 卡口新镜头：600mm F6.3 与 400mm F4.5 均低于 1kg",
+      "source": "IT之家",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-05",
+      "time": "02:56",
+      "publishedAt": "2026-09-05T02:56:02.000Z",
+      "url": "https://www.ithome.com/0/998/692.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/9/63ef2af6-b2cc-499d-afbf-ec0362a6a878.jpg",
+      "summary": "IT之家 9 月 5 日消息，Fredmiranda 论坛上有人泄露了索尼的发布会信息，该消息已经过 SonyAlphaRumors 确认。 据称，索尼将在两到三周内发布三款镜头，其中包括两款重量不足 1kg 的超远摄定焦 G 大师镜头： FE 600mm f/6.3 GM OSS 镜头，售价约 3,800 美元 （现汇率约合 25,570 元人民币） F…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-372fe5a88284",
+      "title": "首发无黑色：消息称苹果首款折叠手机 iPhone Ultra 首发白色和深蓝色",
+      "source": "IT之家",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-05",
+      "time": "02:25",
+      "publishedAt": "2026-09-05T02:25:29.000Z",
+      "url": "https://www.ithome.com/0/998/681.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/9/d311b1bb-cdfa-4b68-9847-b5857382ed80.jpg?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 9 月 5 日消息，科技媒体 MacWorld 昨日（9 月 4 日）发布博文，报道称苹果首款折叠手机（上市后预估名为 iPhone Ultra）预估首发 2 种颜色， 包括银色 / 白色（silver）和深蓝色（dark blue）。 图源：MacWorld 颜色方面，消息称 iPhone Ultra 不会首发黑色（也称深灰色），其中深蓝色颜色…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-852e2ef0ee29",
+      "title": "竹本青：【小米发布并开源结构化数据大模型Xiaomi-TabLDM】 9月5日，小米正式发布 Xiaomi-TabLDM：…",
+      "source": "竹本青",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-09-05",
+      "time": "02:02",
+      "publishedAt": "2026-09-05T02:02:56.000Z",
+      "url": "https://www.coolapk.com/feed/73589756",
+      "image": "http://image.coolapk.com/feed/2026/0905/10/4248714_f267e136_3773_3284_511@1080x642.jpg",
+      "summary": "【小米发布并开源结构化数据大模型Xiaomi-TabLDM】 9月5日，小米正式发布 Xiaomi-TabLDM：通用表格数据基础大模型。 Xiaomi-TabLDM 以单一预训练模型、统一默认配置直接适配不同表格数据集，无需针对每个任务重新训练、调参或后置集成，即可完成分类与回归预测。 传统表格机器学习通常需要针对每一个新数据集重新训练、调参甚至集成模型…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-f320b2f63fc1",
+      "title": "苹果 iPhone 18 Pro / Max、iPhone Ultra 机模再曝光",
+      "source": "IT之家",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-05",
+      "time": "01:46",
+      "publishedAt": "2026-09-05T01:46:53.000Z",
+      "url": "https://www.ithome.com/0/998/672.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/9/09d599eb-fbe7-4767-83e0-38433c8e6dfe.png?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 9 月 5 日消息，科技媒体 AppleInsider 昨日（9 月 4 日）发布博文，分享了一组来自手机壳厂商的机模照片， 展示了苹果 iPhone 18 Pro、iPhone 18 Pro Max 以及苹果首款折叠手机（上市后预估名为 iPhone Ultra）。 从曝光的机模来看，相比较 iPhone 17 Pro 系列，iPhone 18…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-97f745ddf369",
+      "title": "竹本青：【iQOO16 被曝搭载8400mAh电池】 ▫️第六代骁龙8超级至尊版+独显芯 ▫️8400mAh电池 ▫️6.…",
+      "source": "竹本青",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-09-05",
+      "time": "01:26",
+      "publishedAt": "2026-09-05T01:26:29.000Z",
+      "url": "https://www.coolapk.com/feed/73589319",
+      "image": "http://image.coolapk.com/feed/2026/0905/09/4248714_618d3590_1587_7859_604@1439x875.jpg",
+      "summary": "【iQOO16 被曝搭载8400mAh电池】 ▫️第六代骁龙8超级至尊版+独显芯 ▫️8400mAh电池 ▫️6.85\"2K 165Hz新一代三星直屏 ▫️出厂自带抗反AR膜 ▫️50Mp OV50Q 1/1.3\"主摄 ▫️50Mp 中底潜望镜 ▫️50Mp 凑数超广角 ▫️vivo下放算法+风格化影调 ▫️双1115系扬声器｜0916系马达 ▫️超声波指…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-98e7aec41042",
+      "title": "消息称三星面对“业界存储涨价潮”逆势扩大 Galaxy A 系列中低端手机产能，以实现“薄利多销”",
+      "source": "IT之家",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-05",
+      "time": "00:50",
+      "publishedAt": "2026-09-05T00:50:59.000Z",
+      "url": "https://www.ithome.com/0/998/662.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/9/d5f3e6c7-7053-4c63-90df-5504bcc1cdb2.png?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 9 月 5 日消息，据韩媒“每日经济”报道，面对全球存储芯片价格持续上涨、众多手机厂商开始削减低利润率机型产量的情况，三星选择逆势扩大 Galaxy A 系列中低端手机的产能来争夺市场份额。 参考该媒体获得的一项三星内部生产计划显示，三星计划在今年 8 月至 11 月期间生产约 3,370 万台 Galaxy A 系列中低端手机，占同期计划生产的…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-73fa5685118d",
+      "title": "消息称谷歌正为旧款 Pixel 手机引入苹果 AirDrop 跨平台传输支持",
+      "source": "IT之家",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-05",
+      "time": "00:15",
+      "publishedAt": "2026-09-05T00:15:55.000Z",
+      "url": "https://www.ithome.com/0/998/654.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/9/e0406d48-de51-4067-97a9-32fab72f9a91.png?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 9 月 5 日消息，据外媒 AndroidAuthority 报道，继谷歌逐步为 Pixel 手机带来 Quick Share 与苹果 AirDrop 之间的跨平台传输支持后，近期又有 Pixel 7 和 Pixel 8 系列用户发现，自己的设备开始收到相关功能上线通知，这意味着谷歌正在扩大这项功能的覆盖范围。 IT之家注意到，谷歌去年秋季开始为…",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
       ]
     },
     {
@@ -202,49 +402,29 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-24d054511a99",
-      "title": "苹果现在才做折叠屏，是来得太晚，还是正好等到了技术成熟？",
-      "source": "知乎热榜",
+      "id": "newsnow-9446ff0a8f7a",
+      "title": "冷知识，买iPhone 现在的亏损比安卓高得多得多。一堆神人老是举例苹果二手可以卖得更贵，不看看买的时候也贵啊",
+      "source": "酷安热榜",
       "brand": "iPhone",
       "model": "iPhone 相关机型",
-      "type": "市场报告",
-      "trust": "媒体汇总",
+      "type": "爆料",
+      "trust": "高关注爆料源",
       "date": "2026-09-05",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.zhihu.com/question/2076754620832135160",
+      "url": "https://www.coolapk.com/feed/73589474",
       "image": "",
-      "summary": "苹果现在才做折叠屏，是来得太晚，还是正好等到了技术成熟？",
+      "summary": "冷知识，买iPhone 现在的亏损比安卓高得多得多。一堆神人老是举例苹果二手可以卖得更贵，不看看买的时候也贵啊",
       "tags": [
         "iPhone",
-        "市场报告",
+        "爆料",
         "NewsNow"
       ]
     },
     {
-      "id": "newsnow-92403cd8bbaf",
-      "title": "华为国行 5G 疑似回归，Mate90 系列入网，为何在此时选择回归？其 5G 回归有何技术突破创新？",
-      "source": "知乎热榜",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "市场报告",
-      "trust": "媒体汇总",
-      "date": "2026-09-05",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.zhihu.com/question/2078803707794297197",
-      "image": "",
-      "summary": "华为国行 5G 疑似回归，Mate90 系列入网，为何在此时选择回归？其 5G 回归有何技术突破创新？",
-      "tags": [
-        "Huawei",
-        "市场报告",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-942dd0239da4",
-      "title": "为什么手机卖不动了反而要涨价",
-      "source": "今日头条热榜",
+      "id": "newsnow-f01359491a67",
+      "title": "手机涨价 最先扛不住的竟是经销商",
+      "source": "百度热搜",
       "brand": "行业",
       "model": "智能手机市场",
       "type": "爆料",
@@ -252,9 +432,9 @@ window.phoneRadarAuto = {
       "date": "2026-09-05",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.toutiao.com/trending/7681631332354493990/",
+      "url": "https://www.baidu.com/s?wd=%E6%89%8B%E6%9C%BA%E6%B6%A8%E4%BB%B7+%E6%9C%80%E5%85%88%E6%89%9B%E4%B8%8D%E4%BD%8F%E7%9A%84%E7%AB%9F%E6%98%AF%E7%BB%8F%E9%94%80%E5%95%86",
       "image": "",
-      "summary": "为什么手机卖不动了反而要涨价",
+      "summary": "手机涨价 最先扛不住的竟是经销商",
       "tags": [
         "行业",
         "爆料",
@@ -682,26 +862,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-efb33da0dea6",
-      "title": "因苹果对质量要求极其严格，消息称折叠屏 iPhone Ultra 日产量截至上月底仅数百部",
-      "source": "IT之家",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-09-04",
-      "time": "13:28",
-      "publishedAt": "2026-09-04T13:28:30.000Z",
-      "url": "https://www.ithome.com/0/998/600.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/8/8ddc3127-6bd5-4325-a596-ac32c42ddeeb.jpg?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 9 月 4 日消息，据《日经亚洲》今天（4 日）援引消息人士称，由于苹果对质量控制的要求极为严格，备受期待的折叠屏 iPhone（暂称为 iPhone Ultra）初期日产量 截至 8 月底仅有“几百部” 。 目前，苹果正加紧提高产量。一名了解情况的供应链经理表示：“苹果对质量的要求非常高，在正式生产前又于 8 月增加了一轮试生产。但产量提升速度…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-231a7347d10b",
       "title": "Apple making just a few hundred iPhone Ultras per day, per report",
       "source": "9to5Mac",
@@ -717,46 +877,6 @@ window.phoneRadarAuto = {
       "summary": "We’re less than a week away from Apple announcing its first-ever foldable iPhone. A new supply chain report today says that Apple’s “extremely high quality control standards” have…",
       "tags": [
         "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "coolapk-user-27fef686ee1e",
-      "title": "竹本青：【消息称某国产芯片 3.1GHz主频下 单核跑分2084，预计归属华为麒麟9050系列】 9月4日，数码闲聊站最新…",
-      "source": "竹本青",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-09-04",
-      "time": "13:00",
-      "publishedAt": "2026-09-04T13:00:30.000Z",
-      "url": "https://www.coolapk.com/feed/73583577",
-      "image": "http://image.coolapk.com/feed/2026/0904/21/4248714_8b1c55c8_6829_1787_15@1438x1980.jpg",
-      "summary": "【消息称某国产芯片 3.1GHz主频下 单核跑分2084，预计归属华为麒麟9050系列】 9月4日，数码闲聊站最新爆料：国产芯片官方数据也出来了，3.1GHz主频下，GB6单核跑分2084，相较于前代提升12.4％。核心在于同等性能下，新架构大幅压低电压，功耗显著降低，能效大幅提升。 该博主在评论区补充称，纯物理性能肯定达不到骁龙8 Gen3，但是体验另说…",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
-      "id": "auto-a6330818e72e",
-      "title": "消息称 iQOO 16 确认搭载三星新一代 M16 发光材料，苹果折叠屏同款方案",
-      "source": "IT之家",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-09-04",
-      "time": "11:57",
-      "publishedAt": "2026-09-04T11:57:49.000Z",
-      "url": "https://www.ithome.com/0/998/582.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/9/cc9ab4d4-a328-4462-a2ba-a1a87faf21d2.png",
-      "summary": "IT之家 9 月 4 日消息，博主 @数码闲聊站 今日爆料，iQOO 16 确认搭载三星新一代 M16 发光材料 + 新一代 LEAD™显示技术，苹果折叠屏同款方案。 据其爆料，除了这个安卓全球首发的新方案，iQOO 还将和三星显示强强联合，打造全球最好屏，iQOO 16 也将会联合三星有 “行业首个大动作” 。 今年 7 月，该博主爆料某厂子系骁龙 8…",
-      "tags": [
-        "Samsung",
         "爆料",
         "自动抓取"
       ]
@@ -779,26 +899,6 @@ window.phoneRadarAuto = {
         "Samsung",
         "爆料",
         "自动抓取"
-      ]
-    },
-    {
-      "id": "coolapk-user-99733f7b4caf",
-      "title": "竹本青：这个机器现在好价是多少，上午看见视频平台的价格还可以，但是那个平台如果售后出问题，平台监管不到",
-      "source": "竹本青",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-09-04",
-      "time": "10:49",
-      "publishedAt": "2026-09-04T10:49:42.000Z",
-      "url": "https://www.coolapk.com/feed/73581690",
-      "image": "",
-      "summary": "这个机器现在好价是多少，上午看见视频平台的价格还可以，但是那个平台如果售后出问题，平台监管不到",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "酷安博主"
       ]
     },
     {

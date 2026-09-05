@@ -1,12 +1,12 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-09-05T00:04:33.877Z",
+  "updatedAt": "2026-09-05T04:26:26.454Z",
   "issueDate": "2026-09-05",
   "issue": "VOL.260905",
   "title": "手机情报日报",
-  "intro": "今日筛出 17 条重点，其中 8 条是重点爆料，包含 9 条 iPhone 相关、1 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 13 条重点，其中 8 条是重点爆料，包含 7 条 iPhone 相关、1 条官方确认、0 条参数线索。",
   "stats": {
-    "total": 17,
-    "iphone": 9,
+    "total": 13,
+    "iphone": 7,
     "leaks": 8,
     "official": 1,
     "specs": 0
@@ -18,47 +18,46 @@ window.phoneRadarDaily = {
       "hint": "机模、配色、影像、屏幕、电池和芯片线索先看。",
       "items": [
         {
-          "id": "auto-efb33da0dea6",
-          "title": "因苹果对质量要求极其严格，消息称折叠屏 iPhone Ultra 日产量截至上月底仅数百部",
+          "id": "auto-f320b2f63fc1",
+          "title": "苹果 iPhone 18 Pro / Max、iPhone Ultra 机模再曝光",
           "originalTitle": "",
           "source": "IT之家",
           "brand": "iPhone",
           "type": "爆料",
           "trust": "媒体汇总",
-          "date": "2026-09-04",
-          "time": "13:28",
-          "publishedAt": "2026-09-04T13:28:30.000Z",
-          "url": "https://www.ithome.com/0/998/600.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/8/8ddc3127-6bd5-4325-a596-ac32c42ddeeb.jpg?x-bce-process=image/format,f_auto",
+          "date": "2026-09-05",
+          "time": "01:46",
+          "publishedAt": "2026-09-05T01:46:53.000Z",
+          "url": "https://www.ithome.com/0/998/672.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/9/09d599eb-fbe7-4767-83e0-38433c8e6dfe.png?x-bce-process=image/format,f_auto",
           "verdict": "先看",
-          "takeaway": "IT之家 9 月 4 日消息，据《日经亚洲》今天（4 日）援引消息人士称，由于苹果对质量控制的要求极为严格，备受期待的折叠屏 iPhone（暂称为 iPhone Ultra）初期日产量 截至 8 月底仅有“几百部” 。 目前，苹果正加紧提高产量。一名了解情况的供应链经理表示：“苹果对质量的要求非常高，在正式生产前又于 8 月增加了一轮试生产。但产量提升速度…",
-          "detail": "IT之家 9 月 4 日消息，据《日经亚洲》今天（4 日）援引消息人士称，由于苹果对质量控制的要求极为严格，备受期待的折叠屏 iPhone（暂称为 iPhone Ultra）初期日产量 截至 8 月底仅有“几百部” 。 目前，苹果正加紧提高产量。一名了解情况的供应链经理表示：“苹果对质量的要求非常高，在正式生产前又于 8 月增加了一轮试生产。但产量提升速度…",
+          "takeaway": "IT之家 9 月 5 日消息，科技媒体 AppleInsider 昨日（9 月 4 日）发布博文，分享了一组来自手机壳厂商的机模照片， 展示了苹果 iPhone 18 Pro、iPhone 18 Pro Max 以及苹果首款折叠手机（上市后预估名为 iPhone Ultra）。 从曝光的机模来看，相比较 iPhone 17 Pro 系列，iPhone 18…",
+          "detail": "IT之家 9 月 5 日消息，科技媒体 AppleInsider 昨日（9 月 4 日）发布博文，分享了一组来自手机壳厂商的机模照片， 展示了苹果 iPhone 18 Pro、iPhone 18 Pro Max 以及苹果首款折叠手机（上市后预估名为 iPhone Ultra）。 从曝光的机模来看，相比较 iPhone 17 Pro 系列，iPhone 18…",
           "keyPoints": [
-            "屏幕形态",
-            "爆料来源"
+            "外观 / 配色 / 尺寸"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
-          "id": "newsnow-24d054511a99",
-          "title": "苹果现在才做折叠屏，是来得太晚，还是正好等到了技术成熟？",
+          "id": "auto-372fe5a88284",
+          "title": "首发无黑色：消息称苹果首款折叠手机 iPhone Ultra 首发白色和深蓝色",
           "originalTitle": "",
-          "source": "知乎热榜",
+          "source": "IT之家",
           "brand": "iPhone",
-          "type": "市场报告",
+          "type": "爆料",
           "trust": "媒体汇总",
           "date": "2026-09-05",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://www.zhihu.com/question/2076754620832135160",
-          "image": "",
+          "time": "02:25",
+          "publishedAt": "2026-09-05T02:25:29.000Z",
+          "url": "https://www.ithome.com/0/998/681.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/9/d311b1bb-cdfa-4b68-9847-b5857382ed80.jpg?x-bce-process=image/format,f_auto",
           "verdict": "先看",
-          "takeaway": "苹果现在才做折叠屏，是来得太晚，还是正好等到了技术成熟？",
-          "detail": "苹果现在才做折叠屏，是来得太晚，还是正好等到了技术成熟？",
+          "takeaway": "IT之家 9 月 5 日消息，科技媒体 MacWorld 昨日（9 月 4 日）发布博文，报道称苹果首款折叠手机（上市后预估名为 iPhone Ultra）预估首发 2 种颜色， 包括银色 / 白色（silver）和深蓝色（dark blue）。 图源：MacWorld 颜色方面，消息称 iPhone Ultra 不会首发黑色（也称深灰色），其中深蓝色颜色…",
+          "detail": "IT之家 9 月 5 日消息，科技媒体 MacWorld 昨日（9 月 4 日）发布博文，报道称苹果首款折叠手机（上市后预估名为 iPhone Ultra）预估首发 2 种颜色， 包括银色 / 白色（silver）和深蓝色（dark blue）。 图源：MacWorld 颜色方面，消息称 iPhone Ultra 不会首发黑色（也称深灰色），其中深蓝色颜色…",
           "keyPoints": [
-            "屏幕形态"
+            "爆料来源"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
@@ -73,8 +72,8 @@ window.phoneRadarDaily = {
           "type": "爆料",
           "trust": "高关注爆料源",
           "date": "2026-09-05",
-          "time": "00:04",
-          "publishedAt": "2026-09-05T00:04:33.877Z",
+          "time": "04:26",
+          "publishedAt": "2026-09-05T04:26:26.454Z",
           "url": "https://weibo.com/6048569942/RgvFRq8rT",
           "image": "",
           "verdict": "先看",
@@ -137,73 +136,74 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
-          "id": "auto-6ebcacf69de6",
-          "title": "三星 Galaxy S27 系列正测试高通第六代骁龙 8 超级至尊版，三区域版本并行验证",
+          "id": "coolapk-user-6c016269eafd",
+          "title": "竹本青：【小米18 Fold 更多配色公布：黑/白金】 黑色：深邃内敛，一眼纯粹 暖金白：温润柔和，分外优雅 西野红：融合…",
+          "originalTitle": "",
+          "source": "竹本青",
+          "brand": "Xiaomi",
+          "type": "爆料",
+          "trust": "高可信爆料",
+          "date": "2026-09-05",
+          "time": "04:16",
+          "publishedAt": "2026-09-05T04:16:22.000Z",
+          "url": "https://www.coolapk.com/feed/73591541",
+          "image": "http://image.coolapk.com/feed/2026/0905/12/4248714_a47664fc_1778_9674_156@2000x2000.jpg",
+          "verdict": "先看",
+          "takeaway": "【小米18 Fold 更多配色公布：黑/白金】 黑色：深邃内敛，一眼纯粹 暖金白：温润柔和，分外优雅 西野红：融合暖调红棕底色 此前9月3日，卢伟冰爆料小米18 Fold 共提供四款配色，还将推出一个“很中国”的特别版本。他表示，该版本整体氛围感与已亮相的“西野红”截然不同。 #今日热点# #小米18Fold# #HyperOS4#",
+          "detail": "【小米18 Fold 更多配色公布：黑/白金】 黑色：深邃内敛，一眼纯粹 暖金白：温润柔和，分外优雅 西野红：融合暖调红棕底色 此前9月3日，卢伟冰爆料小米18 Fold 共提供四款配色，还将推出一个“很中国”的特别版本。他表示，该版本整体氛围感与已亮相的“西野红”截然不同。 #今日热点# #小米18Fold# #HyperOS4#",
+          "keyPoints": [
+            "外观 / 配色 / 尺寸",
+            "爆料来源"
+          ],
+          "confidence": "可信度较高，但仍属于发布前线索。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "auto-98e7aec41042",
+          "title": "消息称三星面对“业界存储涨价潮”逆势扩大 Galaxy A 系列中低端手机产能，以实现“薄利多销”",
           "originalTitle": "",
           "source": "IT之家",
           "brand": "Samsung",
           "type": "爆料",
           "trust": "媒体汇总",
-          "date": "2026-09-04",
-          "time": "23:36",
-          "publishedAt": "2026-09-04T23:36:58.000Z",
-          "url": "https://www.ithome.com/0/998/643.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/9/5766c8b5-d5a1-4a82-9a01-e285a4e4021f.png?x-bce-process=image/format,f_auto",
+          "date": "2026-09-05",
+          "time": "00:50",
+          "publishedAt": "2026-09-05T00:50:59.000Z",
+          "url": "https://www.ithome.com/0/998/662.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/9/d5f3e6c7-7053-4c63-90df-5504bcc1cdb2.png?x-bce-process=image/format,f_auto",
           "verdict": "先看",
-          "takeaway": "IT之家 9 月 5 日消息，NotebookCheck 今日发现，三星电子正在对 Galaxy S27 系列进行关键芯片验证测试。 根据 NotebookCheck 提供的一份高通项目门户网站截图，三星正在测试的芯片型号为 SM8975，该芯片的正式名称为 Snapdragon 8 Elite Extreme Gen 6（第六代骁龙 8 超级至尊版）。…",
-          "detail": "IT之家 9 月 5 日消息，NotebookCheck 今日发现，三星电子正在对 Galaxy S27 系列进行关键芯片验证测试。 根据 NotebookCheck 提供的一份高通项目门户网站截图，三星正在测试的芯片型号为 SM8975，该芯片的正式名称为 Snapdragon 8 Elite Extreme Gen 6（第六代骁龙 8 超级至尊版）。…",
+          "takeaway": "IT之家 9 月 5 日消息，据韩媒“每日经济”报道，面对全球存储芯片价格持续上涨、众多手机厂商开始削减低利润率机型产量的情况，三星选择逆势扩大 Galaxy A 系列中低端手机的产能来争夺市场份额。 参考该媒体获得的一项三星内部生产计划显示，三星计划在今年 8 月至 11 月期间生产约 3,370 万台 Galaxy A 系列中低端手机，占同期计划生产的…",
+          "detail": "IT之家 9 月 5 日消息，据韩媒“每日经济”报道，面对全球存储芯片价格持续上涨、众多手机厂商开始削减低利润率机型产量的情况，三星选择逆势扩大 Galaxy A 系列中低端手机的产能来争夺市场份额。 参考该媒体获得的一项三星内部生产计划显示，三星计划在今年 8 月至 11 月期间生产约 3,370 万台 Galaxy A 系列中低端手机，占同期计划生产的…",
           "keyPoints": [
-            "芯片 / 性能"
+            "芯片 / 性能",
+            "成本 / 价格",
+            "爆料来源"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
-          "id": "auto-a6330818e72e",
-          "title": "消息称 iQOO 16 确认搭载三星新一代 M16 发光材料，苹果折叠屏同款方案",
+          "id": "auto-73fa5685118d",
+          "title": "消息称谷歌正为旧款 Pixel 手机引入苹果 AirDrop 跨平台传输支持",
           "originalTitle": "",
           "source": "IT之家",
-          "brand": "Samsung",
+          "brand": "Pixel",
           "type": "爆料",
           "trust": "媒体汇总",
-          "date": "2026-09-04",
-          "time": "11:57",
-          "publishedAt": "2026-09-04T11:57:49.000Z",
-          "url": "https://www.ithome.com/0/998/582.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/9/cc9ab4d4-a328-4462-a2ba-a1a87faf21d2.png",
-          "verdict": "先看",
-          "takeaway": "IT之家 9 月 4 日消息，博主 @数码闲聊站 今日爆料，iQOO 16 确认搭载三星新一代 M16 发光材料 + 新一代 LEAD™显示技术，苹果折叠屏同款方案。 据其爆料，除了这个安卓全球首发的新方案，iQOO 还将和三星显示强强联合，打造全球最好屏，iQOO 16 也将会联合三星有 “行业首个大动作” 。 今年 7 月，该博主爆料某厂子系骁龙 8…",
-          "detail": "IT之家 9 月 4 日消息，博主 @数码闲聊站 今日爆料，iQOO 16 确认搭载三星新一代 M16 发光材料 + 新一代 LEAD™显示技术，苹果折叠屏同款方案。 据其爆料，除了这个安卓全球首发的新方案，iQOO 还将和三星显示强强联合，打造全球最好屏，iQOO 16 也将会联合三星有 “行业首个大动作” 。 今年 7 月，该博主爆料某厂子系骁龙 8…",
-          "keyPoints": [
-            "屏幕形态",
-            "爆料来源"
-          ],
-          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "weibo-d7bbe86fc0e8",
-          "title": "数码闲聊站：预言成真了家人们，本月Pro Max大乱斗： iPhone 18 Pro Ma…",
-          "originalTitle": "",
-          "source": "数码闲聊站",
-          "brand": "Huawei",
-          "type": "爆料",
-          "trust": "高关注爆料源",
           "date": "2026-09-05",
-          "time": "00:04",
-          "publishedAt": "2026-09-05T00:04:33.877Z",
-          "url": "https://weibo.com/6048569942/RgwUYsGD5",
-          "image": "https://tvax4.sinaimg.cn/mw2000/006BlblIgy1igrd36i0ilj30xv0f5djx.jpg",
+          "time": "00:15",
+          "publishedAt": "2026-09-05T00:15:55.000Z",
+          "url": "https://www.ithome.com/0/998/654.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/9/e0406d48-de51-4067-97a9-32fab72f9a91.png?x-bce-process=image/format,f_auto",
           "verdict": "先看",
-          "takeaway": "预言成真了家人们，本月Pro Max大乱斗： iPhone 18 Pro Max——A20 Pro/可变光圈/新ID Xiaomi 18 Pro Max——8EE6/徕卡新影像/背屏 华为 Mate90 Pro Max——9050 Pro/高动态影像 vivo X500 Pro Max——9600 Pro/高动态影像 OPPO Find X10 Pro M…",
-          "detail": "预言成真了家人们，本月Pro Max大乱斗： iPhone 18 Pro Max——A20 Pro/可变光圈/新ID Xiaomi 18 Pro Max——8EE6/徕卡新影像/背屏 华为 Mate90 Pro Max——9050 Pro/高动态影像 vivo X500 Pro Max——9600 Pro/高动态影像 OPPO Find X10 Pro M…",
+          "takeaway": "IT之家 9 月 5 日消息，据外媒 AndroidAuthority 报道，继谷歌逐步为 Pixel 手机带来 Quick Share 与苹果 AirDrop 之间的跨平台传输支持后，近期又有 Pixel 7 和 Pixel 8 系列用户发现，自己的设备开始收到相关功能上线通知，这意味着谷歌正在扩大这项功能的覆盖范围。 IT之家注意到，谷歌去年秋季开始为…",
+          "detail": "IT之家 9 月 5 日消息，据外媒 AndroidAuthority 报道，继谷歌逐步为 Pixel 手机带来 Quick Share 与苹果 AirDrop 之间的跨平台传输支持后，近期又有 Pixel 7 和 Pixel 8 系列用户发现，自己的设备开始收到相关功能上线通知，这意味着谷歌正在扩大这项功能的覆盖范围。 IT之家注意到，谷歌去年秋季开始为…",
           "keyPoints": [
-            "影像硬件",
             "爆料来源"
           ],
-          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         }
@@ -214,6 +214,29 @@ window.phoneRadarDaily = {
       "title": "iPhone 重点",
       "hint": "不是硬件爆料，但和 iPhone 体验或路线有关。",
       "items": [
+        {
+          "id": "newsnow-9446ff0a8f7a",
+          "title": "冷知识，买iPhone 现在的亏损比安卓高得多得多。一堆神人老是举例苹果二手可以卖得更贵，不看看买的时候也贵啊",
+          "originalTitle": "",
+          "source": "酷安热榜",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "高关注爆料源",
+          "date": "2026-09-05",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://www.coolapk.com/feed/73589474",
+          "image": "",
+          "verdict": "先看",
+          "takeaway": "冷知识，买iPhone 现在的亏损比安卓高得多得多。一堆神人老是举例苹果二手可以卖得更贵，不看看买的时候也贵啊",
+          "detail": "冷知识，买iPhone 现在的亏损比安卓高得多得多。一堆神人老是举例苹果二手可以卖得更贵，不看看买的时候也贵啊",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        },
         {
           "id": "auto-9bbf43c61c96",
           "title": "iPhone 系统功能 / AI 体验相关消息",
@@ -259,75 +282,6 @@ window.phoneRadarDaily = {
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "影响拍照体验，买旗舰机时值得关注。",
           "action": "有具体参数就记录到参数库；没有参数就先收藏。"
-        },
-        {
-          "id": "coolapk-user-99733f7b4caf",
-          "title": "竹本青：这个机器现在好价是多少，上午看见视频平台的价格还可以，但是那个平台如果售后出问题，平台监管不到",
-          "originalTitle": "",
-          "source": "竹本青",
-          "brand": "iPhone",
-          "type": "爆料",
-          "trust": "高可信爆料",
-          "date": "2026-09-04",
-          "time": "10:49",
-          "publishedAt": "2026-09-04T10:49:42.000Z",
-          "url": "https://www.coolapk.com/feed/73581690",
-          "image": "",
-          "verdict": "先看",
-          "takeaway": "这个机器现在好价是多少，上午看见视频平台的价格还可以，但是那个平台如果售后出问题，平台监管不到",
-          "detail": "这个机器现在好价是多少，上午看见视频平台的价格还可以，但是那个平台如果售后出问题，平台监管不到",
-          "keyPoints": [
-            "成本 / 价格"
-          ],
-          "confidence": "可信度较高，但仍属于发布前线索。",
-          "impact": "影响购买预算，值得先看。",
-          "action": "有具体参数就记录到参数库；没有参数就先收藏。"
-        },
-        {
-          "id": "newsnow-6356b154a32d",
-          "title": "线下活动 | 全新 iPhone 发布在即，来与少数派一起看 Apple 发布会",
-          "originalTitle": "",
-          "source": "少数派热榜",
-          "brand": "iPhone",
-          "type": "评测",
-          "trust": "媒体汇总",
-          "date": "2026-09-05",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://sspai.com/post/114071",
-          "image": "",
-          "verdict": "扫一眼",
-          "takeaway": "线下活动 | 全新 iPhone 发布在即，来与少数派一起看 Apple 发布会",
-          "detail": "线下活动 | 全新 iPhone 发布在即，来与少数派一起看 Apple 发布会",
-          "keyPoints": [
-            "评测"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是实际体验内容，买前适合重点看缺点和取舍。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
-        {
-          "id": "newsnow-44b3be110379",
-          "title": "把「闪念胶囊」（Almost）放到 iPhone 锁屏",
-          "originalTitle": "",
-          "source": "少数派热榜",
-          "brand": "iPhone",
-          "type": "评测",
-          "trust": "媒体汇总",
-          "date": "2026-09-05",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://sspai.com/post/113219",
-          "image": "",
-          "verdict": "扫一眼",
-          "takeaway": "把「闪念胶囊」（Almost）放到 iPhone 锁屏",
-          "detail": "把「闪念胶囊」（Almost）放到 iPhone 锁屏",
-          "keyPoints": [
-            "评测"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是实际体验内容，买前适合重点看缺点和取舍。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         }
       ]
     },
@@ -336,6 +290,29 @@ window.phoneRadarDaily = {
       "title": "新机与官方发布",
       "hint": "能直接更新到参数库。",
       "items": [
+        {
+          "id": "coolapk-user-852e2ef0ee29",
+          "title": "竹本青：【小米发布并开源结构化数据大模型Xiaomi-TabLDM】 9月5日，小米正式发布 Xiaomi-TabLDM：…",
+          "originalTitle": "",
+          "source": "竹本青",
+          "brand": "Xiaomi",
+          "type": "爆料",
+          "trust": "高可信爆料",
+          "date": "2026-09-05",
+          "time": "02:02",
+          "publishedAt": "2026-09-05T02:02:56.000Z",
+          "url": "https://www.coolapk.com/feed/73589756",
+          "image": "http://image.coolapk.com/feed/2026/0905/10/4248714_f267e136_3773_3284_511@1080x642.jpg",
+          "verdict": "扫一眼",
+          "takeaway": "【小米发布并开源结构化数据大模型Xiaomi-TabLDM】 9月5日，小米正式发布 Xiaomi-TabLDM：通用表格数据基础大模型。 Xiaomi-TabLDM 以单一预训练模型、统一默认配置直接适配不同表格数据集，无需针对每个任务重新训练、调参或后置集成，即可完成分类与回归预测。 传统表格机器学习通常需要针对每一个新数据集重新训练、调参甚至集成模型…",
+          "detail": "【小米发布并开源结构化数据大模型Xiaomi-TabLDM】 9月5日，小米正式发布 Xiaomi-TabLDM：通用表格数据基础大模型。 Xiaomi-TabLDM 以单一预训练模型、统一默认配置直接适配不同表格数据集，无需针对每个任务重新训练、调参或后置集成，即可完成分类与回归预测。 传统表格机器学习通常需要针对每一个新数据集重新训练、调参甚至集成模型…",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "可信度较高，但仍属于发布前线索。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        },
         {
           "id": "newsnow-407703808a3b",
           "title": "摩托罗拉 edge 70 plus 发布：2 亿像素主摄+曲面屏",
@@ -358,82 +335,6 @@ window.phoneRadarDaily = {
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
-        {
-          "id": "auto-b1565f301ccf",
-          "title": "Galaxy S26 FE 折叠屏相关消息",
-          "originalTitle": "",
-          "source": "9to5Google",
-          "brand": "Samsung",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-09-04",
-          "time": "15:47",
-          "publishedAt": "2026-09-04T15:47:01.000Z",
-          "url": "https://9to5google.com/2026/09/04/deals-galaxy-s26-fe-amazon-gift-card-fold-8-ultra/",
-          "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/09/9to5Google-Sep-4-3.webp?w=1600",
-          "verdict": "可略过",
-          "takeaway": "Galaxy S26 FE 折叠屏相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
-          "detail": "Galaxy S26 FE 折叠屏相关消息。重点看折痕、铰链、厚度、屏幕可靠性和重量是否有实质改善。",
-          "keyPoints": [
-            "屏幕形态"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        }
-      ]
-    },
-    {
-      "id": "market",
-      "title": "行业趋势",
-      "hint": "看方向，不急着当购买依据。",
-      "items": [
-        {
-          "id": "coolapk-user-e285f1a18b38",
-          "title": "竹本青：其实，如果停一停也挺好，这代出的就不容易",
-          "originalTitle": "",
-          "source": "竹本青",
-          "brand": "OPPO",
-          "type": "爆料",
-          "trust": "高可信爆料",
-          "date": "2026-09-04",
-          "time": "16:45",
-          "publishedAt": "2026-09-04T16:45:31.000Z",
-          "url": "https://www.coolapk.com/feed/73586906",
-          "image": "",
-          "verdict": "扫一眼",
-          "takeaway": "其实，如果停一停也挺好，这代出的就不容易",
-          "detail": "其实，如果停一停也挺好，这代出的就不容易",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "可信度较高，但仍属于发布前线索。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
-        {
-          "id": "auto-b8fc490cf184",
-          "title": "Samsung 相关消息",
-          "originalTitle": "",
-          "source": "SamMobile",
-          "brand": "Samsung",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-09-04",
-          "time": "23:12",
-          "publishedAt": "2026-09-04T23:12:35.000Z",
-          "url": "https://www.sammobile.com/news/first-things-try-samsung-galaxy-s26-fe/",
-          "image": "https://www.sammobile.com/wp-content/uploads/2026/08/Now-Brief-custom-cards-1920x1011.jpg",
-          "verdict": "可略过",
-          "takeaway": "Samsung 相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
-          "detail": "Samsung 相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
-          "keyPoints": [
-            "成本 / 价格"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "影响购买预算，值得先看。",
-          "action": "有具体参数就记录到参数库；没有参数就先收藏。"
         }
       ]
     }
