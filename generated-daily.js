@@ -1,12 +1,12 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-09-05T10:34:25.497Z",
+  "updatedAt": "2026-09-05T15:12:27.364Z",
   "issueDate": "2026-09-05",
   "issue": "VOL.260905",
   "title": "手机情报日报",
-  "intro": "今日筛出 14 条重点，其中 8 条是重点爆料，包含 8 条 iPhone 相关、1 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 12 条重点，其中 8 条是重点爆料，包含 6 条 iPhone 相关、1 条官方确认、0 条参数线索。",
   "stats": {
-    "total": 14,
-    "iphone": 8,
+    "total": 12,
+    "iphone": 6,
     "leaks": 8,
     "official": 1,
     "specs": 0
@@ -41,6 +41,52 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
+          "id": "auto-586327ccee3c",
+          "title": "iPhone 折叠屏相关消息",
+          "originalTitle": "",
+          "source": "Android Central",
+          "brand": "iPhone",
+          "type": "评测",
+          "trust": "媒体汇总",
+          "date": "2026-09-05",
+          "time": "11:51",
+          "publishedAt": "2026-09-05T11:51:00.000Z",
+          "url": "https://www.androidcentral.com/phones/foldable-phones-101",
+          "image": "https://cdn.mos.cms.futurecdn.net/TafLmx5KoBTrqoJJ5RCciT-1280-80.jpg",
+          "verdict": "先看",
+          "takeaway": "iPhone 折叠屏相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
+          "detail": "iPhone 折叠屏相关消息。重点看折痕、铰链、厚度、屏幕可靠性和重量是否有实质改善。",
+          "keyPoints": [
+            "爆料来源"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "newsnow-db2aefd1f189",
+          "title": "苹果折叠手机价格",
+          "originalTitle": "",
+          "source": "微博热搜",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "待验证",
+          "date": "2026-09-05",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E6%8A%98%E5%8F%A0%E6%89%8B%E6%9C%BA%E4%BB%B7%E6%A0%BC%23&t=31&band_rank=8&Refer=top",
+          "image": "",
+          "verdict": "先看",
+          "takeaway": "苹果折叠手机价格",
+          "detail": "苹果折叠手机价格",
+          "keyPoints": [
+            "成本 / 价格"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
           "id": "auto-27fa85b2d670",
           "title": "iPhone 相关消息",
           "originalTitle": "",
@@ -58,29 +104,6 @@ window.phoneRadarDaily = {
           "detail": "iPhone 相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
           "keyPoints": [
             "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "auto-47bc83362389",
-          "title": "iPhone 折叠屏相关消息",
-          "originalTitle": "",
-          "source": "MacRumors",
-          "brand": "iPhone",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-09-04",
-          "time": "22:00",
-          "publishedAt": "2026-09-04T22:00:14.000Z",
-          "url": "https://www.macrumors.com/2026/09/04/foldable-iphone-likely-to-be-missing-these-features/",
-          "image": "https://images.macrumors.com/article-new/2026/09/Foldable-iPhone-Ultra-Still-Likely-to-Be-Missing-These-Five-Features-16x9-1.jpg",
-          "verdict": "先看",
-          "takeaway": "iPhone 折叠屏相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
-          "detail": "iPhone 折叠屏相关消息。重点看折痕、铰链、厚度、屏幕可靠性和重量是否有实质改善。",
-          "keyPoints": [
-            "成本 / 价格"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
@@ -111,25 +134,51 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
-          "id": "auto-4265afb02a07",
-          "title": "三星 Galaxy S27 手机首发：Exynos 2700 芯片跑分曝光，10 核 CPU 设计",
+          "id": "auto-f206e9e85d0b",
+          "title": "消息称某厂骁龙旗舰机电池确定 8400mAh，预计为 iQOO 16",
           "originalTitle": "",
           "source": "IT之家",
-          "brand": "Samsung",
+          "brand": "vivo",
           "type": "爆料",
           "trust": "媒体汇总",
           "date": "2026-09-05",
-          "time": "05:27",
-          "publishedAt": "2026-09-05T05:27:25.000Z",
-          "url": "https://www.ithome.com/0/998/735.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/9/b3039d3c-c906-4a8d-88a8-d1a7784b0feb.jpg?x-bce-process=image/format,f_auto",
+          "time": "14:00",
+          "publishedAt": "2026-09-05T14:00:42.000Z",
+          "url": "https://www.ithome.com/0/998/830.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/9/6fc24d7a-8ee0-464e-963d-bb3730385fac.png",
           "verdict": "先看",
-          "takeaway": "IT之家 9 月 5 日消息，科技媒体 sammyfans 昨日（9 月 4 日）发布博文，报道称三星 Exynos 2,700 工程样片 GeekBench 跑分曝光， 6.7.1 版本单核成绩为 4,328 分，多核成绩为 14,700 分。 IT之家注：上述跑分来自内部 Geekbench 6 跑分列表，在公开数据库中仅有 1 条 4 月上传的记录，…",
-          "detail": "IT之家 9 月 5 日消息，科技媒体 sammyfans 昨日（9 月 4 日）发布博文，报道称三星 Exynos 2,700 工程样片 GeekBench 跑分曝光， 6.7.1 版本单核成绩为 4,328 分，多核成绩为 14,700 分。 IT之家注：上述跑分来自内部 Geekbench 6 跑分列表，在公开数据库中仅有 1 条 4 月上传的记录，…",
+          "takeaway": "IT之家 9 月 5 日消息，博主 @数码闲聊站 今日爆料，骁龙 8EE6 旗舰机电池确定 8400mAh。结合该博主此前的爆料习惯，预计该机为 iQOO 16。 IT之家注意到，目前，高通两款骁龙 2nm 旗舰芯片正式命名已经曝光，该博主所说的骁龙 8EE6 预计为第六代骁龙 8 超级至尊版： SM8950—Snapdragon 8 Elite Gen6…",
+          "detail": "IT之家 9 月 5 日消息，博主 @数码闲聊站 今日爆料，骁龙 8EE6 旗舰机电池确定 8400mAh。结合该博主此前的爆料习惯，预计该机为 iQOO 16。 IT之家注意到，目前，高通两款骁龙 2nm 旗舰芯片正式命名已经曝光，该博主所说的骁龙 8EE6 预计为第六代骁龙 8 超级至尊版： SM8950—Snapdragon 8 Elite Gen6…",
           "keyPoints": [
-            "芯片 / 性能"
+            "电池 / 充电",
+            "芯片 / 性能",
+            "爆料来源"
           ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "auto-e494324d12c5",
+          "title": "消息称华为新机防窥屏采用独立 RGB 像素驱动，基本不影响显示素质",
+          "originalTitle": "",
+          "source": "IT之家",
+          "brand": "Huawei",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-09-05",
+          "time": "11:30",
+          "publishedAt": "2026-09-05T11:30:50.000Z",
+          "url": "https://www.ithome.com/0/998/813.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/9/4f06f43a-6e9b-445f-871d-5d9598a24dff.png?x-bce-process=image/format,f_auto",
+          "verdict": "先看",
+          "takeaway": "IT之家 9 月 5 日消息，博主 @数码闲聊站 今日爆料，华为新机搭载的 RGB OLED 防窥屏，采用独立 RGB 像素驱动，基本不影响显示素质。 IT之家从华为官网获悉， 华为 Mate XT 2 非凡大师的 16GB+1TB 规格可选“灵盾防窥屏”版本 ，同时紫色款的 16GB+2TB 规格则标配“灵盾防窥屏”。这也是华为首次在手机上提供“灵盾防窥…",
+          "detail": "IT之家 9 月 5 日消息，博主 @数码闲聊站 今日爆料，华为新机搭载的 RGB OLED 防窥屏，采用独立 RGB 像素驱动，基本不影响显示素质。 IT之家从华为官网获悉， 华为 Mate XT 2 非凡大师的 16GB+1TB 规格可选“灵盾防窥屏”版本 ，同时紫色款的 16GB+2TB 规格则标配“灵盾防窥屏”。这也是华为首次在手机上提供“灵盾防窥…",
+          "keyPoints": [
+            "屏幕形态",
+            "爆料来源"
+          ],
+          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
@@ -142,8 +191,8 @@ window.phoneRadarDaily = {
           "type": "爆料",
           "trust": "高关注爆料源",
           "date": "2026-09-05",
-          "time": "10:34",
-          "publishedAt": "2026-09-05T10:34:25.497Z",
+          "time": "15:12",
+          "publishedAt": "2026-09-05T15:12:27.364Z",
           "url": "https://weibo.com/6048569942/RgwUYsGD5",
           "image": "https://tvax4.sinaimg.cn/mw2000/006BlblIgy1igrd36i0ilj30xv0f5djx.jpg",
           "verdict": "先看",
@@ -156,53 +205,6 @@ window.phoneRadarDaily = {
           "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "weibo-a32a09bfee90",
-          "title": "数码闲聊站：独家，iQOO 16确认搭载三星新一代M16发光材料+新一代 LEAD™显示技…",
-          "originalTitle": "",
-          "source": "数码闲聊站",
-          "brand": "Samsung",
-          "type": "爆料",
-          "trust": "高关注爆料源",
-          "date": "2026-09-05",
-          "time": "10:34",
-          "publishedAt": "2026-09-05T10:34:25.497Z",
-          "url": "https://weibo.com/6048569942/Rgwgo39kW",
-          "image": "",
-          "verdict": "先看",
-          "takeaway": "独家，iQOO 16确认搭载三星新一代M16发光材料+新一代 LEAD™显示技术，苹果折叠屏同款方案。 除了这个安卓全球首发的新方案，iQOO还将和三星显示强强联合，打造全球最好屏，iQOO 16也将会联合三星有“行业首个大动作”，快了快了👖",
-          "detail": "独家，iQOO 16确认搭载三星新一代M16发光材料+新一代 LEAD™显示技术，苹果折叠屏同款方案。 除了这个安卓全球首发的新方案，iQOO还将和三星显示强强联合，打造全球最好屏，iQOO 16也将会联合三星有“行业首个大动作”，快了快了👖",
-          "keyPoints": [
-            "屏幕形态",
-            "爆料来源"
-          ],
-          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "newsnow-cfbe3bf67c82",
-          "title": "小米售后续集，店员私自取消售后寄回后，手机边框有磨损，跟拿去打灰了一样，摄像头全是指纹和细微划痕，屏幕贴的原厂膜被刮花了也不跟我说一声，6k的红米我替你们买了，这就是小米品牌售后态度",
-          "originalTitle": "",
-          "source": "酷安热榜",
-          "brand": "Xiaomi",
-          "type": "爆料",
-          "trust": "高关注爆料源",
-          "date": "2026-09-05",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://www.coolapk.com/feed/73589830",
-          "image": "",
-          "verdict": "先看",
-          "takeaway": "小米售后续集，店员私自取消售后寄回后，手机边框有磨损，跟拿去打灰了一样，摄像头全是指纹和细微划痕，屏幕贴的原厂膜被刮花了也不跟我说一声，6k的红米我替你们买了，这就是小米品牌售后态度",
-          "detail": "小米售后续集，店员私自取消售后寄回后，手机边框有磨损，跟拿去打灰了一样，摄像头全是指纹和细微划痕，屏幕贴的原厂膜被刮花了也不跟我说一声，6k的红米我替你们买了，这就是小米品牌售后态度",
-          "keyPoints": [
-            "屏幕形态"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         }
       ]
     },
@@ -213,7 +215,7 @@ window.phoneRadarDaily = {
       "items": [
         {
           "id": "newsnow-9446ff0a8f7a",
-          "title": "冷知识，买iPhone 现在的亏损比安卓高得多得多。一堆神人老是举例苹果二手可以卖得更贵，不看看买的时候也贵啊",
+          "title": "冷知识，买iPhone 现在的亏损比安卓高得多得多，而且保值率差不多得了。一堆神人老是举例苹果二手可以卖得更贵，不看看买的时候也贵啊",
           "originalTitle": "",
           "source": "酷安热榜",
           "brand": "iPhone",
@@ -225,8 +227,8 @@ window.phoneRadarDaily = {
           "url": "https://www.coolapk.com/feed/73589474",
           "image": "",
           "verdict": "先看",
-          "takeaway": "冷知识，买iPhone 现在的亏损比安卓高得多得多。一堆神人老是举例苹果二手可以卖得更贵，不看看买的时候也贵啊",
-          "detail": "冷知识，买iPhone 现在的亏损比安卓高得多得多。一堆神人老是举例苹果二手可以卖得更贵，不看看买的时候也贵啊",
+          "takeaway": "冷知识，买iPhone 现在的亏损比安卓高得多得多，而且保值率差不多得了。一堆神人老是举例苹果二手可以卖得更贵，不看看买的时候也贵啊",
+          "detail": "冷知识，买iPhone 现在的亏损比安卓高得多得多，而且保值率差不多得了。一堆神人老是举例苹果二手可以卖得更贵，不看看买的时候也贵啊",
           "keyPoints": [
             "爆料"
           ],
@@ -279,74 +281,35 @@ window.phoneRadarDaily = {
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "影响拍照体验，买旗舰机时值得关注。",
           "action": "有具体参数就记录到参数库；没有参数就先收藏。"
-        },
+        }
+      ]
+    },
+    {
+      "id": "market",
+      "title": "行业趋势",
+      "hint": "看方向，不急着当购买依据。",
+      "items": [
         {
-          "id": "auto-7a853f6835ff",
-          "title": "iPhone 影像能力相关消息",
+          "id": "coolapk-user-b071ac21ad43",
+          "title": "竹本青：【OPPO卓世杰：Find X10系列 将加入「调色盘」功能，支持人像肤色保护】 9月5日资讯，OPPO 高管卓世…",
           "originalTitle": "",
-          "source": "Android Authority",
-          "brand": "iPhone",
+          "source": "竹本青",
+          "brand": "OPPO",
           "type": "爆料",
-          "trust": "媒体汇总",
+          "trust": "高可信爆料",
           "date": "2026-09-05",
-          "time": "09:30",
-          "publishedAt": "2026-09-05T09:30:17.000Z",
-          "url": "https://www.androidauthority.com/google-photos-android-app-manual-stacks-how-to-3707900/",
-          "image": "https://www.androidauthority.com/wp-content/uploads/2026/09/google-photos-create-stack-button-android-app-2-scaled.jpg",
+          "time": "13:47",
+          "publishedAt": "2026-09-05T13:47:43.000Z",
+          "url": "https://www.coolapk.com/feed/73599337",
+          "image": "http://image.coolapk.com/feed/2026/0905/21/4248714_db4d9017_6062_0103_16@1439x669.jpg",
           "verdict": "扫一眼",
-          "takeaway": "iPhone 有系统功能或 AI 体验更新，适合关注后续是否影响日常使用。",
-          "detail": "iPhone 影像能力相关消息。重点看影像功能是否和新机硬件有关，如果只是拍摄案例或营销内容，参考价值会低一些。",
+          "takeaway": "【OPPO卓世杰：Find X10系列 将加入「调色盘」功能，支持人像肤色保护】 9月5日资讯，OPPO 高管卓世杰昨日确认，Find X10系列将加入「调色盘」功能，同时搭载独家人像肤色保护机制，用户进行调色操作时，依旧可以保留真实自然的人像肤色。 #今日热点# #ColorOS17# #OPPOFindX10#",
+          "detail": "【OPPO卓世杰：Find X10系列 将加入「调色盘」功能，支持人像肤色保护】 9月5日资讯，OPPO 高管卓世杰昨日确认，Find X10系列将加入「调色盘」功能，同时搭载独家人像肤色保护机制，用户进行调色操作时，依旧可以保留真实自然的人像肤色。 #今日热点# #ColorOS17# #OPPOFindX10#",
           "keyPoints": [
-            "影像硬件"
+            "外观 / 配色 / 尺寸"
           ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "影响拍照体验，买旗舰机时值得关注。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
-        {
-          "id": "newsnow-6356b154a32d",
-          "title": "线下活动 | 全新 iPhone 发布在即，来与少数派一起看 Apple 发布会",
-          "originalTitle": "",
-          "source": "少数派热榜",
-          "brand": "iPhone",
-          "type": "评测",
-          "trust": "媒体汇总",
-          "date": "2026-09-05",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://sspai.com/post/114071",
-          "image": "",
-          "verdict": "扫一眼",
-          "takeaway": "线下活动 | 全新 iPhone 发布在即，来与少数派一起看 Apple 发布会",
-          "detail": "线下活动 | 全新 iPhone 发布在即，来与少数派一起看 Apple 发布会",
-          "keyPoints": [
-            "评测"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是实际体验内容，买前适合重点看缺点和取舍。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
-        {
-          "id": "newsnow-44b3be110379",
-          "title": "把「闪念胶囊」（Almost）放到 iPhone 锁屏",
-          "originalTitle": "",
-          "source": "少数派热榜",
-          "brand": "iPhone",
-          "type": "评测",
-          "trust": "媒体汇总",
-          "date": "2026-09-05",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://sspai.com/post/113219",
-          "image": "",
-          "verdict": "扫一眼",
-          "takeaway": "把「闪念胶囊」（Almost）放到 iPhone 锁屏",
-          "detail": "把「闪念胶囊」（Almost）放到 iPhone 锁屏",
-          "keyPoints": [
-            "评测"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是实际体验内容，买前适合重点看缺点和取舍。",
+          "confidence": "可信度较高，但仍属于发布前线索。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         }
       ]
