@@ -1,5 +1,5 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-09-05T18:17:10.860Z",
+  "updatedAt": "2026-09-05T20:27:04.134Z",
   "news": [
     {
       "id": "weibo-286bb43382d2",
@@ -10,8 +10,8 @@ window.phoneRadarAuto = {
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-09-05",
-      "time": "18:17",
-      "publishedAt": "2026-09-05T18:17:10.860Z",
+      "time": "20:27",
+      "publishedAt": "2026-09-05T20:27:04.134Z",
       "url": "https://weibo.com/6048569942/RgGpWa9l3",
       "image": "",
       "summary": "周末更新一些izhan专属黑话： 影像：小底＜1/2\"、中底＝1/2\"±、大底＝1/1.4\"-1/1.5\"±、超大底＝1/1.3\"±、超级大底＝1/1.1\"±、入门级长焦微距＝30cm±、近距离长焦微距＝10-15cm±、双2亿＝2亿主摄+2亿长焦 马达：小马达＝0809-9595、相对大马达＝0815-7514-0816、超大马达＝0916系 屏幕：超清…",
@@ -30,8 +30,8 @@ window.phoneRadarAuto = {
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-09-05",
-      "time": "18:17",
-      "publishedAt": "2026-09-05T18:17:10.860Z",
+      "time": "20:27",
+      "publishedAt": "2026-09-05T20:27:04.134Z",
       "url": "https://weibo.com/6048569942/RgFb7qGqW",
       "image": "https://tvax2.sinaimg.cn/mw2000/006BlblIgy1igrs0o3e5nj30xv0fs43n.jpg",
       "summary": "咳咳，骁龙8EE6旗舰机电池确定8400mAh👖",
@@ -50,8 +50,8 @@ window.phoneRadarAuto = {
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-09-05",
-      "time": "18:17",
-      "publishedAt": "2026-09-05T18:17:10.860Z",
+      "time": "20:27",
+      "publishedAt": "2026-09-05T20:27:04.134Z",
       "url": "https://weibo.com/6048569942/Rgya65MCp",
       "image": "",
       "summary": "刚刚摸完所有母系新机确定了 小杯——天玑9500s、骁龙8E 中杯——天玑9600M、骁龙8E5、2nm骁龙8E6 大杯——2nm天玑9600 Pro、2nm骁龙8E6 大大杯——2nm天玑9600 Pro、2nm骁龙8EE6",
@@ -70,8 +70,8 @@ window.phoneRadarAuto = {
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-09-05",
-      "time": "18:17",
-      "publishedAt": "2026-09-05T18:17:10.860Z",
+      "time": "20:27",
+      "publishedAt": "2026-09-05T20:27:04.134Z",
       "url": "https://weibo.com/6048569942/RgwUYsGD5",
       "image": "https://tvax4.sinaimg.cn/mw2000/006BlblIgy1igrd36i0ilj30xv0f5djx.jpg",
       "summary": "预言成真了家人们，本月Pro Max大乱斗： iPhone 18 Pro Max——A20 Pro/可变光圈/新ID Xiaomi 18 Pro Max——8EE6/徕卡新影像/背屏 华为 Mate90 Pro Max——9050 Pro/高动态影像 vivo X500 Pro Max——9600 Pro/高动态影像 OPPO Find X10 Pro M…",
@@ -90,8 +90,8 @@ window.phoneRadarAuto = {
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-09-05",
-      "time": "18:17",
-      "publishedAt": "2026-09-05T18:17:10.860Z",
+      "time": "20:27",
+      "publishedAt": "2026-09-05T20:27:04.134Z",
       "url": "https://weibo.com/6048569942/Rgwgo39kW",
       "image": "",
       "summary": "独家，iQOO 16确认搭载三星新一代M16发光材料+新一代 LEAD™显示技术，苹果折叠屏同款方案。 除了这个安卓全球首发的新方案，iQOO还将和三星显示强强联合，打造全球最好屏，iQOO 16也将会联合三星有“行业首个大动作”，快了快了👖",
@@ -99,6 +99,26 @@ window.phoneRadarAuto = {
         "Samsung",
         "爆料",
         "微博"
+      ]
+    },
+    {
+      "id": "auto-f9431fe9c776",
+      "title": "Here’s how iPhone Ultra’s form factor could compare to other Apple products",
+      "source": "9to5Mac",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-05",
+      "time": "19:15",
+      "publishedAt": "2026-09-05T19:15:18.000Z",
+      "url": "https://9to5mac.com/2026/09/05/iphone-ultra-form-factor-comparison/",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/03/iphone-fold-mockup-red.jpg?quality=82&strip=all&w=1600",
+      "summary": "This month, Apple will be unveiling its first foldable iPhone – rumored to be called iPhone Ultra. It’s going to feature a 5.5-inch outer display and 7.6-inch inner display. In Ju…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
       ]
     },
     {
@@ -562,41 +582,21 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-9446ff0a8f7a",
-      "title": "冷知识，买iPhone 现在的亏损比安卓高得多得多，而且保值率差不多得了。一堆神人老是举例苹果二手可以卖得更贵，不看看买的时候也贵啊",
+      "id": "newsnow-f2e51e47364c",
+      "title": "已经摸过真机了，配置大差不差，但是超大杯我是真喜欢啊，但是还没见哪个网传图传对了[doge][doge]敬请期待下吧 #数码日常# #OPPO# #OPPOFindX10系列曝光#",
       "source": "酷安热榜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-09-05",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73589474",
+      "url": "https://www.coolapk.com/feed/73574191",
       "image": "",
-      "summary": "冷知识，买iPhone 现在的亏损比安卓高得多得多，而且保值率差不多得了。一堆神人老是举例苹果二手可以卖得更贵，不看看买的时候也贵啊",
+      "summary": "已经摸过真机了，配置大差不差，但是超大杯我是真喜欢啊，但是还没见哪个网传图传对了[doge][doge]敬请期待下吧 #数码日常# #OPPO# #OPPOFindX10系列曝光#",
       "tags": [
-        "iPhone",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-403dc5a2f37f",
-      "title": "曝iPhone18Pro灵动岛大瘦身",
-      "source": "微博热搜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "待验证",
-      "date": "2026-09-05",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://s.weibo.com/weibo?q=%23%E6%9B%9DiPhone18Pro%E7%81%B5%E5%8A%A8%E5%B2%9B%E5%A4%A7%E7%98%A6%E8%BA%AB%23&t=31&band_rank=25&Refer=top",
-      "image": "",
-      "summary": "曝iPhone18Pro灵动岛大瘦身",
-      "tags": [
-        "iPhone",
+        "OPPO",
         "爆料",
         "NewsNow"
       ]

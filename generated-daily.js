@@ -1,5 +1,5 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-09-05T18:17:10.860Z",
+  "updatedAt": "2026-09-05T20:27:04.134Z",
   "issueDate": "2026-09-05",
   "issue": "VOL.260905",
   "title": "手机情报日报",
@@ -35,6 +35,30 @@ window.phoneRadarDaily = {
           "detail": "IT之家 9 月 5 日消息，小米 18 Fold 中折叠手机将于 9 月 7 日 19 点在小米秋季旗舰新品发布会上发布。小米官方今日公布了新机“ 暖金白 ”“ 黑色 ”配色官图。 据介绍，小米 18 Fold“中折叠”手机采用极窄四等边 + 超椭圆大 R 角设计；后置跑道型 Deco + 侧边纯平包裹式中框。 综合IT之家此前报道，小米 18 Fold…",
           "keyPoints": [
             "外观 / 配色 / 尺寸"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "auto-f9431fe9c776",
+          "title": "iPhone 相关消息",
+          "originalTitle": "",
+          "source": "9to5Mac",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-09-05",
+          "time": "19:15",
+          "publishedAt": "2026-09-05T19:15:18.000Z",
+          "url": "https://9to5mac.com/2026/09/05/iphone-ultra-form-factor-comparison/",
+          "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/03/iphone-fold-mockup-red.jpg?quality=82&strip=all&w=1600",
+          "verdict": "先看",
+          "takeaway": "iPhone 相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
+          "detail": "iPhone 相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
+          "keyPoints": [
+            "屏幕形态",
+            "爆料来源"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
@@ -133,29 +157,6 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
-          "id": "auto-27fa85b2d670",
-          "title": "iPhone 相关消息",
-          "originalTitle": "",
-          "source": "MacRumors",
-          "brand": "iPhone",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-09-04",
-          "time": "22:26",
-          "publishedAt": "2026-09-04T22:26:17.000Z",
-          "url": "https://www.macrumors.com/guide/apple-september-2026-what-to-expect/",
-          "image": "https://images.macrumors.com/article-new/2026/08/iPhone-Ultra-Fold-Feature.jpg",
-          "verdict": "先看",
-          "takeaway": "iPhone 相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
-          "detail": "iPhone 相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
           "id": "coolapk-user-6c016269eafd",
           "title": "竹本青：小米18 Fold 更多配色公布：黑色 / 暖金白",
           "originalTitle": "",
@@ -212,29 +213,6 @@ window.phoneRadarDaily = {
       "hint": "不是硬件爆料，但和 iPhone 体验或路线有关。",
       "items": [
         {
-          "id": "newsnow-9446ff0a8f7a",
-          "title": "冷知识，买iPhone 现在的亏损比安卓高得多得多，而且保值率差不多得了。一堆神人老是举例苹果二手可以卖得更贵，不看看买的时候也贵啊",
-          "originalTitle": "",
-          "source": "酷安热榜",
-          "brand": "iPhone",
-          "type": "爆料",
-          "trust": "高关注爆料源",
-          "date": "2026-09-05",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://www.coolapk.com/feed/73589474",
-          "image": "",
-          "verdict": "先看",
-          "takeaway": "冷知识，买iPhone 现在的亏损比安卓高得多得多，而且保值率差不多得了。一堆神人老是举例苹果二手可以卖得更贵，不看看买的时候也贵啊",
-          "detail": "冷知识，买iPhone 现在的亏损比安卓高得多得多，而且保值率差不多得了。一堆神人老是举例苹果二手可以卖得更贵，不看看买的时候也贵啊",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
-        {
           "id": "auto-9bbf43c61c96",
           "title": "iPhone 系统功能 / AI 体验相关消息",
           "originalTitle": "",
@@ -256,6 +234,29 @@ window.phoneRadarDaily = {
           "confidence": "官方内容，可直接作为已确认信息记录。",
           "impact": "可信度高，但如果不是配置/价格消息，只需要扫一眼。",
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        },
+        {
+          "id": "auto-7bba239f7b9e",
+          "title": "iPhone 18 Pro 影像能力相关消息",
+          "originalTitle": "",
+          "source": "9to5Mac",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-09-04",
+          "time": "14:36",
+          "publishedAt": "2026-09-04T14:36:10.000Z",
+          "url": "https://9to5mac.com/2026/09/04/new-iphone-18-pro-report-details-flagship-camera-feature-and-more/",
+          "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/04/iphone-17-pro-silver-camera-plateau.jpg?quality=82&strip=all&w=1600",
+          "verdict": "先看",
+          "takeaway": "iPhone 有系统功能或 AI 体验更新，适合关注后续是否影响日常使用。",
+          "detail": "iPhone 18 Pro 影像能力相关消息。重点看影像功能是否和新机硬件有关，如果只是拍摄案例或营销内容，参考价值会低一些。",
+          "keyPoints": [
+            "影像硬件"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "影响拍照体验，买旗舰机时值得关注。",
+          "action": "有具体参数就记录到参数库；没有参数就先收藏。"
         }
       ]
     }
