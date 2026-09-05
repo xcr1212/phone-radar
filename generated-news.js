@@ -1,5 +1,5 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-09-05T04:26:26.454Z",
+  "updatedAt": "2026-09-05T10:34:25.497Z",
   "news": [
     {
       "id": "weibo-286bb43382d2",
@@ -10,8 +10,8 @@ window.phoneRadarAuto = {
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-09-05",
-      "time": "04:26",
-      "publishedAt": "2026-09-05T04:26:26.454Z",
+      "time": "10:34",
+      "publishedAt": "2026-09-05T10:34:25.497Z",
       "url": "https://weibo.com/6048569942/RgGpWa9l3",
       "image": "",
       "summary": "周末更新一些izhan专属黑话： 影像：小底＜1/2\"、中底＝1/2\"±、大底＝1/1.4\"-1/1.5\"±、超大底＝1/1.3\"±、超级大底＝1/1.1\"±、入门级长焦微距＝30cm±、近距离长焦微距＝10-15cm±、双2亿＝2亿主摄+2亿长焦 马达：小马达＝0809-9595、相对大马达＝0815-7514-0816、超大马达＝0916系 屏幕：超清…",
@@ -30,8 +30,8 @@ window.phoneRadarAuto = {
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-09-05",
-      "time": "04:26",
-      "publishedAt": "2026-09-05T04:26:26.454Z",
+      "time": "10:34",
+      "publishedAt": "2026-09-05T10:34:25.497Z",
       "url": "https://weibo.com/6048569942/RgFb7qGqW",
       "image": "https://tvax2.sinaimg.cn/mw2000/006BlblIgy1igrs0o3e5nj30xv0fs43n.jpg",
       "summary": "咳咳，骁龙8EE6旗舰机电池确定8400mAh👖",
@@ -50,8 +50,8 @@ window.phoneRadarAuto = {
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-09-05",
-      "time": "04:26",
-      "publishedAt": "2026-09-05T04:26:26.454Z",
+      "time": "10:34",
+      "publishedAt": "2026-09-05T10:34:25.497Z",
       "url": "https://weibo.com/6048569942/Rgya65MCp",
       "image": "",
       "summary": "刚刚摸完所有母系新机确定了 小杯——天玑9500s、骁龙8E 中杯——天玑9600M、骁龙8E5、2nm骁龙8E6 大杯——2nm天玑9600 Pro、2nm骁龙8E6 大大杯——2nm天玑9600 Pro、2nm骁龙8EE6",
@@ -70,8 +70,8 @@ window.phoneRadarAuto = {
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-09-05",
-      "time": "04:26",
-      "publishedAt": "2026-09-05T04:26:26.454Z",
+      "time": "10:34",
+      "publishedAt": "2026-09-05T10:34:25.497Z",
       "url": "https://weibo.com/6048569942/RgwUYsGD5",
       "image": "https://tvax4.sinaimg.cn/mw2000/006BlblIgy1igrd36i0ilj30xv0f5djx.jpg",
       "summary": "预言成真了家人们，本月Pro Max大乱斗： iPhone 18 Pro Max——A20 Pro/可变光圈/新ID Xiaomi 18 Pro Max——8EE6/徕卡新影像/背屏 华为 Mate90 Pro Max——9050 Pro/高动态影像 vivo X500 Pro Max——9600 Pro/高动态影像 OPPO Find X10 Pro M…",
@@ -90,8 +90,8 @@ window.phoneRadarAuto = {
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-09-05",
-      "time": "04:26",
-      "publishedAt": "2026-09-05T04:26:26.454Z",
+      "time": "10:34",
+      "publishedAt": "2026-09-05T10:34:25.497Z",
       "url": "https://weibo.com/6048569942/Rgwgo39kW",
       "image": "",
       "summary": "独家，iQOO 16确认搭载三星新一代M16发光材料+新一代 LEAD™显示技术，苹果折叠屏同款方案。 除了这个安卓全球首发的新方案，iQOO还将和三星显示强强联合，打造全球最好屏，iQOO 16也将会联合三星有“行业首个大动作”，快了快了👖",
@@ -102,28 +102,168 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "weibo-12386804bf8b",
-      "title": "数码闲聊站：旗舰线上内置风扇、安卓阵营首个1:1方形前摄、双2亿ARRI联名影像、小屏最大…",
-      "source": "数码闲聊站",
-      "brand": "HONOR",
-      "model": "HONOR 相关机型",
+      "id": "auto-7a853f6835ff",
+      "title": "Google Photos on Android just got an iPhone feature I’ve waited a year for — how to use it now",
+      "source": "Android Authority",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
       "type": "爆料",
-      "trust": "高关注爆料源",
+      "trust": "媒体汇总",
       "date": "2026-09-05",
-      "time": "04:26",
-      "publishedAt": "2026-09-05T04:26:26.454Z",
-      "url": "https://weibo.com/6048569942/RgvFRq8rT",
-      "image": "",
-      "summary": "旗舰线上内置风扇、安卓阵营首个1:1方形前摄、双2亿ARRI联名影像、小屏最大8K电池等…… ↑耀子Magic9系列存在的一些亮点，配件还有Magic9 Pro Max的专业影像手柄+G500/G200增距镜，最长500mm超级望远镜，配色有爆米黄/开场白/幕布黑/橄榄青，苔青/影黑/银盐[二哈]",
+      "time": "09:30",
+      "publishedAt": "2026-09-05T09:30:17.000Z",
+      "url": "https://www.androidauthority.com/google-photos-android-app-manual-stacks-how-to-3707900/",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2026/09/google-photos-create-stack-button-android-app-2-scaled.jpg",
+      "summary": "Manual! Photo! Stacks! Are! Here!",
       "tags": [
-        "HONOR",
+        "iPhone",
         "爆料",
-        "微博"
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-bfe7c946193a",
+      "title": "俞敏洪：打价格战永远不可能有长久发展前途，你只能做得比别人好",
+      "source": "IT之家",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-05",
+      "time": "08:10",
+      "publishedAt": "2026-09-05T08:10:05.000Z",
+      "url": "https://www.ithome.com/0/998/772.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/9/ba534124-3320-42f2-b286-05501428632f.jpg?x-bce-process=image/format,f_auto",
+      "summary": "9 月 5 日上午消息，2026 年亚布力论坛夏季年会于 9 月 4-6 日在成都举办。开幕式上，新东方教育科技集团董事长俞敏洪分享指出，全世界大概只有两种产品。 第一种，是创造出来的，人们从来没有用过的，而且还能打动人心的产品。 “乔布斯创造了苹果手机、智能手机，后来我们所有的智能手机只不过是追随者。”俞敏洪坦言，“当华为、小米等开始做智能手机的时候，苹…",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-a4667d03989a",
+      "title": "传音 TECNO 展示“0mm 边框”概念手机：双层玻璃隐藏屏幕黑边",
+      "source": "IT之家",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-05",
+      "time": "07:42",
+      "publishedAt": "2026-09-05T07:42:38.000Z",
+      "url": "https://www.ithome.com/0/998/756.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/9/220d773a-062c-4b13-94da-20fe3ff79406.jpg?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 9 月 5 日消息，科技媒体 GSMArena 昨日（9 月 4 日）发布博文，报道称在柏林召开的 IFA 2026 展会期间， 传音旗下品牌 TECNO 展示“0mm 显示边框”概念手机。 IT之家援引博文介绍，这里的“0mm 显示边框”主要是指屏幕外没有黑边，不过该媒体也指出，相比较主流手机， 这款概念手机的金属边框要更宽一些。 在结构方面，…",
+      "tags": [
+        "行业",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-9eecc99c9901",
+      "title": "小米 18 Fold 中折叠手机“暖金白”“黑色”配色官图公布，9 月 7 日发布",
+      "source": "IT之家",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-05",
+      "time": "07:15",
+      "publishedAt": "2026-09-05T07:15:33.000Z",
+      "url": "https://www.ithome.com/0/998/751.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/9/3c2169f5-2611-426f-9ab6-fa5075865e38.jpg",
+      "summary": "IT之家 9 月 5 日消息，小米 18 Fold 中折叠手机将于 9 月 7 日 19 点在小米秋季旗舰新品发布会上发布。小米官方今日公布了新机“ 暖金白 ”“ 黑色 ”配色官图。 据介绍，小米 18 Fold“中折叠”手机采用极窄四等边 + 超椭圆大 R 角设计；后置跑道型 Deco + 侧边纯平包裹式中框。 综合IT之家此前报道，小米 18 Fold…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-5e4810d0c39d",
+      "title": "摩托罗拉宽折叠手机设计草图曝光：横条后摄方案，无折痕屏幕",
+      "source": "IT之家",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-05",
+      "time": "06:38",
+      "publishedAt": "2026-09-05T06:38:12.000Z",
+      "url": "https://www.ithome.com/0/998/742.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/9/0c48bd57-7c4d-4155-a32a-92fef04e21e9.png?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 9 月 5 日消息，科技媒体 Android Headline 昨日（9 月 4 日）发布博文，分享了 3 张设计草图， 展示了摩托罗拉宽折叠手机，并透露该公司内部正在推进该手机项目。 在本次曝光的设计草图中，展示了摩托罗拉的大折叠（书本式折叠）、小折叠（翻盖式折叠屏）以及宽折叠三种折叠方案。IT之家附上相关图片如下： 外观方面，从曝光的设计草图…",
+      "tags": [
+        "行业",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-4265afb02a07",
+      "title": "三星 Galaxy S27 手机首发：Exynos 2700 芯片跑分曝光，10 核 CPU 设计",
+      "source": "IT之家",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-05",
+      "time": "05:27",
+      "publishedAt": "2026-09-05T05:27:25.000Z",
+      "url": "https://www.ithome.com/0/998/735.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/9/b3039d3c-c906-4a8d-88a8-d1a7784b0feb.jpg?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 9 月 5 日消息，科技媒体 sammyfans 昨日（9 月 4 日）发布博文，报道称三星 Exynos 2,700 工程样片 GeekBench 跑分曝光， 6.7.1 版本单核成绩为 4,328 分，多核成绩为 14,700 分。 IT之家注：上述跑分来自内部 Geekbench 6 跑分列表，在公开数据库中仅有 1 条 4 月上传的记录，…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-abb87f26d48b",
+      "title": "Samsung Galaxy S27 Pro, S27 Ultra certification reveals 60W charging speed",
+      "source": "Gizmochina",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-05",
+      "time": "05:24",
+      "publishedAt": "2026-09-05T05:24:48.000Z",
+      "url": "https://www.gizmochina.com/2026/09/05/samsung-galaxy-s27-pro-s27-ultra-3c-certified/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/08/Samsung-Galaxy-S27-Ultra-Render-2-300x200.jpg?x96852",
+      "summary": "For years, Samsung’s flagship phones have been limited to 45W fast charging, with the company sticking to the same charging speed across several generations. That finally changed…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-ddecbffba052",
+      "title": "iQOO 16 tipped to pack a huge 8,400 mAh battery",
+      "source": "Gizmochina",
+      "brand": "vivo",
+      "model": "vivo 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-05",
+      "time": "05:06",
+      "publishedAt": "2026-09-05T05:06:52.000Z",
+      "url": "https://www.gizmochina.com/2026/09/05/iqoo-16-battery-size-leak/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/09/iQOO-16-leaked-image--300x300.png?x96852",
+      "summary": "Reliable tipster Digital Chat Station has been consistently sharing details about the upcoming iQOO16. Recently, he revealed that the phone could feature one of the industry’s bes…",
+      "tags": [
+        "vivo",
+        "爆料",
+        "自动抓取"
       ]
     },
     {
       "id": "coolapk-user-6c016269eafd",
-      "title": "竹本青：【小米18 Fold 更多配色公布：黑/白金】 黑色：深邃内敛，一眼纯粹 暖金白：温润柔和，分外优雅 西野红：融合…",
+      "title": "竹本青：小米18 Fold 更多配色公布：黑色 / 暖金白",
       "source": "竹本青",
       "brand": "Xiaomi",
       "model": "Xiaomi 相关机型",
@@ -139,166 +279,6 @@ window.phoneRadarAuto = {
         "Xiaomi",
         "爆料",
         "酷安博主"
-      ]
-    },
-    {
-      "id": "coolapk-user-83beb46b0fef",
-      "title": "JSCHEN小小狐：『小米 18 Fold 更多配色亮相：黑色 / 暖金白』 ◇「黑色」深邃内敛，一眼纯粹 ◇「暖金白」温润柔和，分外…",
-      "source": "JSCHEN小小狐",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-09-05",
-      "time": "03:28",
-      "publishedAt": "2026-09-05T03:28:30.000Z",
-      "url": "https://www.coolapk.com/feed/73590881",
-      "image": "http://image.coolapk.com/feed/2026/0905/11/4702274_7e3d6717_9306_1188_467@2000x2000.jpg",
-      "summary": "『小米 18 Fold 更多配色亮相：黑色 / 暖金白』 ◇「黑色」深邃内敛，一眼纯粹 ◇「暖金白」温润柔和，分外优雅 #今日热点# #小米18# #HyperOS4#",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
-      "id": "auto-11a245adc01a",
-      "title": "索尼被曝将发布三款 E 卡口新镜头：600mm F6.3 与 400mm F4.5 均低于 1kg",
-      "source": "IT之家",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-09-05",
-      "time": "02:56",
-      "publishedAt": "2026-09-05T02:56:02.000Z",
-      "url": "https://www.ithome.com/0/998/692.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/9/63ef2af6-b2cc-499d-afbf-ec0362a6a878.jpg",
-      "summary": "IT之家 9 月 5 日消息，Fredmiranda 论坛上有人泄露了索尼的发布会信息，该消息已经过 SonyAlphaRumors 确认。 据称，索尼将在两到三周内发布三款镜头，其中包括两款重量不足 1kg 的超远摄定焦 G 大师镜头： FE 600mm f/6.3 GM OSS 镜头，售价约 3,800 美元 （现汇率约合 25,570 元人民币） F…",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-372fe5a88284",
-      "title": "首发无黑色：消息称苹果首款折叠手机 iPhone Ultra 首发白色和深蓝色",
-      "source": "IT之家",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-09-05",
-      "time": "02:25",
-      "publishedAt": "2026-09-05T02:25:29.000Z",
-      "url": "https://www.ithome.com/0/998/681.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/9/d311b1bb-cdfa-4b68-9847-b5857382ed80.jpg?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 9 月 5 日消息，科技媒体 MacWorld 昨日（9 月 4 日）发布博文，报道称苹果首款折叠手机（上市后预估名为 iPhone Ultra）预估首发 2 种颜色， 包括银色 / 白色（silver）和深蓝色（dark blue）。 图源：MacWorld 颜色方面，消息称 iPhone Ultra 不会首发黑色（也称深灰色），其中深蓝色颜色…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "coolapk-user-852e2ef0ee29",
-      "title": "竹本青：【小米发布并开源结构化数据大模型Xiaomi-TabLDM】 9月5日，小米正式发布 Xiaomi-TabLDM：…",
-      "source": "竹本青",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-09-05",
-      "time": "02:02",
-      "publishedAt": "2026-09-05T02:02:56.000Z",
-      "url": "https://www.coolapk.com/feed/73589756",
-      "image": "http://image.coolapk.com/feed/2026/0905/10/4248714_f267e136_3773_3284_511@1080x642.jpg",
-      "summary": "【小米发布并开源结构化数据大模型Xiaomi-TabLDM】 9月5日，小米正式发布 Xiaomi-TabLDM：通用表格数据基础大模型。 Xiaomi-TabLDM 以单一预训练模型、统一默认配置直接适配不同表格数据集，无需针对每个任务重新训练、调参或后置集成，即可完成分类与回归预测。 传统表格机器学习通常需要针对每一个新数据集重新训练、调参甚至集成模型…",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
-      "id": "auto-f320b2f63fc1",
-      "title": "苹果 iPhone 18 Pro / Max、iPhone Ultra 机模再曝光",
-      "source": "IT之家",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-09-05",
-      "time": "01:46",
-      "publishedAt": "2026-09-05T01:46:53.000Z",
-      "url": "https://www.ithome.com/0/998/672.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/9/09d599eb-fbe7-4767-83e0-38433c8e6dfe.png?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 9 月 5 日消息，科技媒体 AppleInsider 昨日（9 月 4 日）发布博文，分享了一组来自手机壳厂商的机模照片， 展示了苹果 iPhone 18 Pro、iPhone 18 Pro Max 以及苹果首款折叠手机（上市后预估名为 iPhone Ultra）。 从曝光的机模来看，相比较 iPhone 17 Pro 系列，iPhone 18…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "coolapk-user-97f745ddf369",
-      "title": "竹本青：【iQOO16 被曝搭载8400mAh电池】 ▫️第六代骁龙8超级至尊版+独显芯 ▫️8400mAh电池 ▫️6.…",
-      "source": "竹本青",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-09-05",
-      "time": "01:26",
-      "publishedAt": "2026-09-05T01:26:29.000Z",
-      "url": "https://www.coolapk.com/feed/73589319",
-      "image": "http://image.coolapk.com/feed/2026/0905/09/4248714_618d3590_1587_7859_604@1439x875.jpg",
-      "summary": "【iQOO16 被曝搭载8400mAh电池】 ▫️第六代骁龙8超级至尊版+独显芯 ▫️8400mAh电池 ▫️6.85\"2K 165Hz新一代三星直屏 ▫️出厂自带抗反AR膜 ▫️50Mp OV50Q 1/1.3\"主摄 ▫️50Mp 中底潜望镜 ▫️50Mp 凑数超广角 ▫️vivo下放算法+风格化影调 ▫️双1115系扬声器｜0916系马达 ▫️超声波指…",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
-      "id": "auto-98e7aec41042",
-      "title": "消息称三星面对“业界存储涨价潮”逆势扩大 Galaxy A 系列中低端手机产能，以实现“薄利多销”",
-      "source": "IT之家",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-09-05",
-      "time": "00:50",
-      "publishedAt": "2026-09-05T00:50:59.000Z",
-      "url": "https://www.ithome.com/0/998/662.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/9/d5f3e6c7-7053-4c63-90df-5504bcc1cdb2.png?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 9 月 5 日消息，据韩媒“每日经济”报道，面对全球存储芯片价格持续上涨、众多手机厂商开始削减低利润率机型产量的情况，三星选择逆势扩大 Galaxy A 系列中低端手机的产能来争夺市场份额。 参考该媒体获得的一项三星内部生产计划显示，三星计划在今年 8 月至 11 月期间生产约 3,370 万台 Galaxy A 系列中低端手机，占同期计划生产的…",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-73fa5685118d",
-      "title": "消息称谷歌正为旧款 Pixel 手机引入苹果 AirDrop 跨平台传输支持",
-      "source": "IT之家",
-      "brand": "Pixel",
-      "model": "Pixel 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-09-05",
-      "time": "00:15",
-      "publishedAt": "2026-09-05T00:15:55.000Z",
-      "url": "https://www.ithome.com/0/998/654.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/9/e0406d48-de51-4067-97a9-32fab72f9a91.png?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 9 月 5 日消息，据外媒 AndroidAuthority 报道，继谷歌逐步为 Pixel 手机带来 Quick Share 与苹果 AirDrop 之间的跨平台传输支持后，近期又有 Pixel 7 和 Pixel 8 系列用户发现，自己的设备开始收到相关功能上线通知，这意味着谷歌正在扩大这项功能的覆盖范围。 IT之家注意到，谷歌去年秋季开始为…",
-      "tags": [
-        "Pixel",
-        "爆料",
-        "自动抓取"
       ]
     },
     {
@@ -382,26 +362,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-407703808a3b",
-      "title": "摩托罗拉 edge 70 plus 发布：2 亿像素主摄+曲面屏",
-      "source": "酷安热榜",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-09-05",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73582603",
-      "image": "",
-      "summary": "摩托罗拉 edge 70 plus 发布：2 亿像素主摄+曲面屏",
-      "tags": [
-        "行业",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
       "id": "newsnow-9446ff0a8f7a",
       "title": "冷知识，买iPhone 现在的亏损比安卓高得多得多。一堆神人老是举例苹果二手可以卖得更贵，不看看买的时候也贵啊",
       "source": "酷安热榜",
@@ -422,9 +382,49 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-f01359491a67",
-      "title": "手机涨价 最先扛不住的竟是经销商",
-      "source": "百度热搜",
+      "id": "newsnow-cfbe3bf67c82",
+      "title": "小米售后续集，店员私自取消售后寄回后，手机边框有磨损，跟拿去打灰了一样，摄像头全是指纹和细微划痕，屏幕贴的原厂膜被刮花了也不跟我说一声，6k的红米我替你们买了，这就是小米品牌售后态度",
+      "source": "酷安热榜",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-09-05",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/73589830",
+      "image": "",
+      "summary": "小米售后续集，店员私自取消售后寄回后，手机边框有磨损，跟拿去打灰了一样，摄像头全是指纹和细微划痕，屏幕贴的原厂膜被刮花了也不跟我说一声，6k的红米我替你们买了，这就是小米品牌售后态度",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-24d66e5b661f",
+      "title": "运营商晒iPhone18售价",
+      "source": "微博热搜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "待验证",
+      "date": "2026-09-05",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://s.weibo.com/weibo?q=%23%E8%BF%90%E8%90%A5%E5%95%86%E6%99%92iPhone18%E5%94%AE%E4%BB%B7%23&t=31&band_rank=26&Refer=top",
+      "image": "",
+      "summary": "运营商晒iPhone18售价",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-cc1222ad0195",
+      "title": "陈丽君人走了手机落下了",
+      "source": "今日头条热榜",
       "brand": "行业",
       "model": "智能手机市场",
       "type": "爆料",
@@ -432,9 +432,9 @@ window.phoneRadarAuto = {
       "date": "2026-09-05",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.baidu.com/s?wd=%E6%89%8B%E6%9C%BA%E6%B6%A8%E4%BB%B7+%E6%9C%80%E5%85%88%E6%89%9B%E4%B8%8D%E4%BD%8F%E7%9A%84%E7%AB%9F%E6%98%AF%E7%BB%8F%E9%94%80%E5%95%86",
+      "url": "https://www.toutiao.com/trending/7680917677951139846/",
       "image": "",
-      "summary": "手机涨价 最先扛不住的竟是经销商",
+      "summary": "陈丽君人走了手机落下了",
       "tags": [
         "行业",
         "爆料",
@@ -442,23 +442,23 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-6ebcacf69de6",
-      "title": "三星 Galaxy S27 系列正测试高通第六代骁龙 8 超级至尊版，三区域版本并行验证",
-      "source": "IT之家",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
+      "id": "newsnow-1dee5a556441",
+      "title": "运营商晒iPhone18售价",
+      "source": "百度热搜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
       "type": "爆料",
       "trust": "媒体汇总",
-      "date": "2026-09-04",
-      "time": "23:36",
-      "publishedAt": "2026-09-04T23:36:58.000Z",
-      "url": "https://www.ithome.com/0/998/643.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/9/5766c8b5-d5a1-4a82-9a01-e285a4e4021f.png?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 9 月 5 日消息，NotebookCheck 今日发现，三星电子正在对 Galaxy S27 系列进行关键芯片验证测试。 根据 NotebookCheck 提供的一份高通项目门户网站截图，三星正在测试的芯片型号为 SM8975，该芯片的正式名称为 Snapdragon 8 Elite Extreme Gen 6（第六代骁龙 8 超级至尊版）。…",
+      "date": "2026-09-05",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.baidu.com/s?wd=%E8%BF%90%E8%90%A5%E5%95%86%E6%99%92iPhone18%E5%94%AE%E4%BB%B7",
+      "image": "",
+      "summary": "运营商晒iPhone18售价",
       "tags": [
-        "Samsung",
+        "iPhone",
         "爆料",
-        "自动抓取"
+        "NewsNow"
       ]
     },
     {
@@ -539,26 +539,6 @@ window.phoneRadarAuto = {
         "iPhone",
         "爆料",
         "自动抓取"
-      ]
-    },
-    {
-      "id": "coolapk-user-e285f1a18b38",
-      "title": "竹本青：其实，如果停一停也挺好，这代出的就不容易",
-      "source": "竹本青",
-      "brand": "OPPO",
-      "model": "OPPO 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-09-04",
-      "time": "16:45",
-      "publishedAt": "2026-09-04T16:45:31.000Z",
-      "url": "https://www.coolapk.com/feed/73586906",
-      "image": "",
-      "summary": "其实，如果停一停也挺好，这代出的就不容易",
-      "tags": [
-        "OPPO",
-        "爆料",
-        "酷安博主"
       ]
     },
     {
