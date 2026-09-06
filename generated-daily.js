@@ -1,12 +1,12 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-09-06T15:27:22.626Z",
+  "updatedAt": "2026-09-06T18:16:46.348Z",
   "issueDate": "2026-09-06",
   "issue": "VOL.260906",
   "title": "手机情报日报",
-  "intro": "今日筛出 13 条重点，其中 8 条是重点爆料，包含 7 条 iPhone 相关、1 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 13 条重点，其中 8 条是重点爆料，包含 8 条 iPhone 相关、1 条官方确认、0 条参数线索。",
   "stats": {
     "total": 13,
-    "iphone": 7,
+    "iphone": 8,
     "leaks": 8,
     "official": 1,
     "specs": 0
@@ -190,8 +190,8 @@ window.phoneRadarDaily = {
           "type": "爆料",
           "trust": "高关注爆料源",
           "date": "2026-09-06",
-          "time": "15:27",
-          "publishedAt": "2026-09-06T15:27:22.626Z",
+          "time": "18:16",
+          "publishedAt": "2026-09-06T18:16:46.348Z",
           "url": "https://weibo.com/6048569942/RgwUYsGD5",
           "image": "https://tvax4.sinaimg.cn/mw2000/006BlblIgy1igrd36i0ilj30xv0f5djx.jpg",
           "verdict": "先看",
@@ -233,6 +233,29 @@ window.phoneRadarDaily = {
           ],
           "confidence": "官方内容，可直接作为已确认信息记录。",
           "impact": "可信度高，但如果不是配置/价格消息，只需要扫一眼。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        },
+        {
+          "id": "newsnow-75e552e1bcdf",
+          "title": "如何评价据传 iPhone 18 Pro 9999 元起，Ultra 14999 元起，新增红色和蓝色款？",
+          "originalTitle": "",
+          "source": "知乎热榜",
+          "brand": "iPhone",
+          "type": "市场报告",
+          "trust": "媒体汇总",
+          "date": "2026-09-06",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://www.zhihu.com/question/2079613018694838243",
+          "image": "",
+          "verdict": "扫一眼",
+          "takeaway": "如何评价据传 iPhone 18 Pro 9999 元起，Ultra 14999 元起，新增红色和蓝色款？",
+          "detail": "如何评价据传 iPhone 18 Pro 9999 元起，Ultra 14999 元起，新增红色和蓝色款？",
+          "keyPoints": [
+            "市场报告"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "目前更像背景信息，对买手机影响不大。",
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         },
         {
@@ -308,29 +331,6 @@ window.phoneRadarDaily = {
             "爆料"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
-        {
-          "id": "coolapk-user-ca36bdca8b65",
-          "title": "竹本青：努比亚NaviX Ultra 全系512GB起步",
-          "originalTitle": "",
-          "source": "竹本青",
-          "brand": "Samsung",
-          "type": "爆料",
-          "trust": "高可信爆料",
-          "date": "2026-09-06",
-          "time": "01:52",
-          "publishedAt": "2026-09-06T01:52:35.000Z",
-          "url": "https://www.coolapk.com/feed/73604571",
-          "image": "http://image.coolapk.com/feed/2026/0906/09/4248714_b3f8d7cb_9553_6026_445@1438x348.jpg",
-          "verdict": "扫一眼",
-          "takeaway": "【倪飞：努比亚NaviX Ultra 全系512GB起步】 9月4日，努比亚倪飞宣布，NaviX Ultra全系512GB存储起步。 据此前预热，努比亚NaviX Ultra将搭载长鑫最高速率10667Mbps的LPDDR5X内存、三星满速运存与闪存。 #今日热点# #努比亚NaviXUltra#",
-          "detail": "【倪飞：努比亚NaviX Ultra 全系512GB起步】 9月4日，努比亚倪飞宣布，NaviX Ultra全系512GB存储起步。 据此前预热，努比亚NaviX Ultra将搭载长鑫最高速率10667Mbps的LPDDR5X内存、三星满速运存与闪存。 #今日热点# #努比亚NaviXUltra#",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "可信度较高，但仍属于发布前线索。",
           "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         }

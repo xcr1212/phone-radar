@@ -1,5 +1,5 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-09-06T15:27:22.626Z",
+  "updatedAt": "2026-09-06T18:16:46.348Z",
   "news": [
     {
       "id": "weibo-286bb43382d2",
@@ -10,8 +10,8 @@ window.phoneRadarAuto = {
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-09-06",
-      "time": "15:27",
-      "publishedAt": "2026-09-06T15:27:22.626Z",
+      "time": "18:16",
+      "publishedAt": "2026-09-06T18:16:46.348Z",
       "url": "https://weibo.com/6048569942/RgGpWa9l3",
       "image": "",
       "summary": "周末更新一些izhan专属黑话： 影像：小底＜1/2\"、中底＝1/2\"±、大底＝1/1.4\"-1/1.5\"±、超大底＝1/1.3\"±、超级大底＝1/1.1\"±、入门级长焦微距＝30cm±、近距离长焦微距＝10-15cm±、双2亿＝2亿主摄+2亿长焦 马达：小马达＝0809-9595、相对大马达＝0815-7514-0816、超大马达＝0916系 屏幕：超清…",
@@ -30,8 +30,8 @@ window.phoneRadarAuto = {
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-09-06",
-      "time": "15:27",
-      "publishedAt": "2026-09-06T15:27:22.626Z",
+      "time": "18:16",
+      "publishedAt": "2026-09-06T18:16:46.348Z",
       "url": "https://weibo.com/6048569942/RgFb7qGqW",
       "image": "https://tvax2.sinaimg.cn/mw2000/006BlblIgy1igrs0o3e5nj30xv0fs43n.jpg",
       "summary": "咳咳，骁龙8EE6旗舰机电池确定8400mAh👖",
@@ -50,8 +50,8 @@ window.phoneRadarAuto = {
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-09-06",
-      "time": "15:27",
-      "publishedAt": "2026-09-06T15:27:22.626Z",
+      "time": "18:16",
+      "publishedAt": "2026-09-06T18:16:46.348Z",
       "url": "https://weibo.com/6048569942/Rgya65MCp",
       "image": "",
       "summary": "刚刚摸完所有母系新机确定了 小杯——天玑9500s、骁龙8E 中杯——天玑9600M、骁龙8E5、2nm骁龙8E6 大杯——2nm天玑9600 Pro、2nm骁龙8E6 大大杯——2nm天玑9600 Pro、2nm骁龙8EE6",
@@ -70,8 +70,8 @@ window.phoneRadarAuto = {
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-09-06",
-      "time": "15:27",
-      "publishedAt": "2026-09-06T15:27:22.626Z",
+      "time": "18:16",
+      "publishedAt": "2026-09-06T18:16:46.348Z",
       "url": "https://weibo.com/6048569942/RgwUYsGD5",
       "image": "https://tvax4.sinaimg.cn/mw2000/006BlblIgy1igrd36i0ilj30xv0f5djx.jpg",
       "summary": "预言成真了家人们，本月Pro Max大乱斗： iPhone 18 Pro Max——A20 Pro/可变光圈/新ID Xiaomi 18 Pro Max——8EE6/徕卡新影像/背屏 华为 Mate90 Pro Max——9050 Pro/高动态影像 vivo X500 Pro Max——9600 Pro/高动态影像 OPPO Find X10 Pro M…",
@@ -90,8 +90,8 @@ window.phoneRadarAuto = {
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-09-06",
-      "time": "15:27",
-      "publishedAt": "2026-09-06T15:27:22.626Z",
+      "time": "18:16",
+      "publishedAt": "2026-09-06T18:16:46.348Z",
       "url": "https://weibo.com/6048569942/Rgwgo39kW",
       "image": "",
       "summary": "独家，iQOO 16确认搭载三星新一代M16发光材料+新一代 LEAD™显示技术，苹果折叠屏同款方案。 除了这个安卓全球首发的新方案，iQOO还将和三星显示强强联合，打造全球最好屏，iQOO 16也将会联合三星有“行业首个大动作”，快了快了👖",
@@ -99,6 +99,26 @@ window.phoneRadarAuto = {
         "Samsung",
         "爆料",
         "微博"
+      ]
+    },
+    {
+      "id": "coolapk-user-2fb613f018cb",
+      "title": "竹本青：【小米手环11 今日开售：首发澎湃OS 4，至长续航21天，首销289元起】 标准版 —— 289元 NFC版 —…",
+      "source": "竹本青",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-09-06",
+      "time": "17:09",
+      "publishedAt": "2026-09-06T17:09:03.000Z",
+      "url": "https://www.coolapk.com/feed/73616864",
+      "image": "http://image.coolapk.com/feed/2026/0907/01/4248714_f020190a_4541_9389_634@1967x4214.jpg",
+      "summary": "【小米手环11 今日开售：首发澎湃OS 4，至长续航21天，首销289元起】 标准版 —— 289元 NFC版 —— 339元 陶瓷版 —— 399元 全金属版 —— 399元 外观： ▫️薄至9.99mm｜轻至15.58g ▫️多彩金属中框｜Unibody全金属版本 ▫️同色系背板，曲线圆润 屏幕： ▫️1.72\" AMOLED屏｜2mm四等边 ▫️峰值…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "酷安博主"
       ]
     },
     {
@@ -362,26 +382,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "coolapk-user-ca36bdca8b65",
-      "title": "竹本青：努比亚NaviX Ultra 全系512GB起步",
-      "source": "竹本青",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-09-06",
-      "time": "01:52",
-      "publishedAt": "2026-09-06T01:52:35.000Z",
-      "url": "https://www.coolapk.com/feed/73604571",
-      "image": "http://image.coolapk.com/feed/2026/0906/09/4248714_b3f8d7cb_9553_6026_445@1438x348.jpg",
-      "summary": "【倪飞：努比亚NaviX Ultra 全系512GB起步】 9月4日，努比亚倪飞宣布，NaviX Ultra全系512GB存储起步。 据此前预热，努比亚NaviX Ultra将搭载长鑫最高速率10667Mbps的LPDDR5X内存、三星满速运存与闪存。 #今日热点# #努比亚NaviXUltra#",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
       "id": "auto-9bbf43c61c96",
       "title": "Apple announces changes to iOS in Brazil",
       "source": "Apple Newsroom",
@@ -562,6 +562,26 @@ window.phoneRadarAuto = {
       ]
     },
     {
+      "id": "newsnow-75e552e1bcdf",
+      "title": "如何评价据传 iPhone 18 Pro 9999 元起，Ultra 14999 元起，新增红色和蓝色款？",
+      "source": "知乎热榜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "市场报告",
+      "trust": "媒体汇总",
+      "date": "2026-09-06",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.zhihu.com/question/2079613018694838243",
+      "image": "",
+      "summary": "如何评价据传 iPhone 18 Pro 9999 元起，Ultra 14999 元起，新增红色和蓝色款？",
+      "tags": [
+        "iPhone",
+        "市场报告",
+        "NewsNow"
+      ]
+    },
+    {
       "id": "newsnow-a8cea722a726",
       "title": "“一吨旧手机提炼200克黄金”不实",
       "source": "百度热搜",
@@ -575,6 +595,26 @@ window.phoneRadarAuto = {
       "url": "https://www.baidu.com/s?wd=%E2%80%9C%E4%B8%80%E5%90%A8%E6%97%A7%E6%89%8B%E6%9C%BA%E6%8F%90%E7%82%BC200%E5%85%8B%E9%BB%84%E9%87%91%E2%80%9D%E4%B8%8D%E5%AE%9E",
       "image": "",
       "summary": "“一吨旧手机提炼200克黄金”不实",
+      "tags": [
+        "行业",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-834f37535ad2",
+      "title": "400元买块“塑料砖头”戒手机",
+      "source": "百度热搜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-06",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.baidu.com/s?wd=400%E5%85%83%E4%B9%B0%E5%9D%97%E2%80%9C%E5%A1%91%E6%96%99%E7%A0%96%E5%A4%B4%E2%80%9D%E6%88%92%E6%89%8B%E6%9C%BA",
+      "image": "",
+      "summary": "400元买块“塑料砖头”戒手机",
       "tags": [
         "行业",
         "爆料",
@@ -619,26 +659,6 @@ window.phoneRadarAuto = {
         "iPhone",
         "爆料",
         "自动抓取"
-      ]
-    },
-    {
-      "id": "coolapk-user-e349035d21aa",
-      "title": "竹本青：酷态科正式进军可穿戴移动科技领域",
-      "source": "竹本青",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-09-05",
-      "time": "15:52",
-      "publishedAt": "2026-09-05T15:52:11.000Z",
-      "url": "https://www.coolapk.com/feed/73601056",
-      "image": "http://image.coolapk.com/feed/2026/0905/23/4248714_9930c393_3527_5669_713@2000x1503.jpg",
-      "summary": "【酷态科正式进军可穿戴移动科技领域】 9月5日，人民日报《环球人物》报道，酷态科CUKTECH昨日亮相IFA 2026展会，展出首款可穿戴机器人原型机CUKTECH Power Exoskeleton Kit，正式从充电赛道进军可穿戴移动科技领域。 据介绍，这款轻量化下肢外骨骼重约2.5公斤，搭载运动意图识别技术，可适配多地形，电源支持互换复用。 ————…",
-      "tags": [
-        "行业",
-        "爆料",
-        "酷安博主"
       ]
     },
     {
