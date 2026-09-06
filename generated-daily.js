@@ -1,12 +1,12 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-09-06T04:37:37.842Z",
+  "updatedAt": "2026-09-06T10:54:45.364Z",
   "issueDate": "2026-09-06",
   "issue": "VOL.260906",
   "title": "手机情报日报",
-  "intro": "今日筛出 16 条重点，其中 8 条是重点爆料，包含 8 条 iPhone 相关、1 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 16 条重点，其中 8 条是重点爆料，包含 7 条 iPhone 相关、1 条官方确认、0 条参数线索。",
   "stats": {
     "total": 16,
-    "iphone": 8,
+    "iphone": 7,
     "leaks": 8,
     "official": 1,
     "specs": 0
@@ -17,6 +17,30 @@ window.phoneRadarDaily = {
       "title": "重点爆料",
       "hint": "机模、配色、影像、屏幕、电池和芯片线索先看。",
       "items": [
+        {
+          "id": "auto-ccb4e09461cb",
+          "title": "华为 Pura X Max 阔折叠手机新配色曝光：含波尔多红，采用纯色无花纹设计",
+          "originalTitle": "",
+          "source": "IT之家",
+          "brand": "Huawei",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-09-06",
+          "time": "08:04",
+          "publishedAt": "2026-09-06T08:04:25.000Z",
+          "url": "https://www.ithome.com/0/998/948.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/9/6d62cec2-cf8d-4caa-a76a-0bd1a6f42f59.jpg?x-bce-process=image/format,f_auto",
+          "verdict": "先看",
+          "takeaway": "IT之家 9 月 6 日消息， 华为 Pura X Max 阔折叠手机新配色外观曝光 ，消息称将在明天的 HarmonyOS 7 | HUAWEI Mate XT 2 及全场景新品发布会上正式亮相。 据博主 @摄影陈掌柜 透露， 右边的红色命名为波尔多红 。左边的颜色命名暂未揭秘，不过该博主透露其颜色偏蓝色多一点。 图片显示，为 Pura X Max 阔折…",
+          "detail": "IT之家 9 月 6 日消息， 华为 Pura X Max 阔折叠手机新配色外观曝光 ，消息称将在明天的 HarmonyOS 7 | HUAWEI Mate XT 2 及全场景新品发布会上正式亮相。 据博主 @摄影陈掌柜 透露， 右边的红色命名为波尔多红 。左边的颜色命名暂未揭秘，不过该博主透露其颜色偏蓝色多一点。 图片显示，为 Pura X Max 阔折…",
+          "keyPoints": [
+            "外观 / 配色 / 尺寸",
+            "爆料来源"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
         {
           "id": "newsnow-5d88e86eb588",
           "title": "除了折叠屏 iPhone，Apple 发布会还有哪些看点？",
@@ -33,29 +57,6 @@ window.phoneRadarDaily = {
           "verdict": "先看",
           "takeaway": "除了折叠屏 iPhone，Apple 发布会还有哪些看点？",
           "detail": "除了折叠屏 iPhone，Apple 发布会还有哪些看点？",
-          "keyPoints": [
-            "屏幕形态"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "newsnow-707b658ede0c",
-          "title": "UP主手搓iPhone折叠屏",
-          "originalTitle": "",
-          "source": "B站热搜",
-          "brand": "iPhone",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-09-06",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E6%89%8B%E6%90%93iPhone%E6%8A%98%E5%8F%A0%E5%B1%8F",
-          "image": "",
-          "verdict": "先看",
-          "takeaway": "UP主手搓iPhone折叠屏",
-          "detail": "UP主手搓iPhone折叠屏",
           "keyPoints": [
             "屏幕形态"
           ],
@@ -134,23 +135,24 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
-          "id": "auto-89994c725d55",
-          "title": "OPPO 卓世杰透露 Find X10 系列手机将新增色盘功能，支持独门人像肤色保护",
+          "id": "auto-4d06ff61ec68",
+          "title": "三星 Galaxy S27 Pro / Ultra 手机获 3C 认证，支持 60W 有线快充",
           "originalTitle": "",
           "source": "IT之家",
-          "brand": "OPPO",
+          "brand": "Samsung",
           "type": "爆料",
           "trust": "媒体汇总",
           "date": "2026-09-06",
-          "time": "02:13",
-          "publishedAt": "2026-09-06T02:13:37.000Z",
-          "url": "https://www.ithome.com/0/998/892.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/9/43b9324a-95ed-449a-a017-4e4b00cf6d75.png?x-bce-process=image/format,f_auto",
+          "time": "08:58",
+          "publishedAt": "2026-09-06T08:58:31.000Z",
+          "url": "https://www.ithome.com/0/998/996.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/9/615288e5-bcf2-4360-a985-ec482a217765.jpg?x-bce-process=image/format,f_auto",
           "verdict": "先看",
-          "takeaway": "IT之家 9 月 6 日消息，OPPO Find X10 系列旗舰手机已临近发布，OPPO Find 系列产品负责人卓世杰透露正密集筹备发布会。目前，系列新机已开启前瞻预热。 有网友询问，Find X10 系列手机能否推出相机调色盘功能。对此，卓世杰回应称： 调色盘安排了， 而且还有独门的人像肤色保护 ，不管怎么调，肤色都还是那么真实自然 目前， OPPO…",
-          "detail": "IT之家 9 月 6 日消息，OPPO Find X10 系列旗舰手机已临近发布，OPPO Find 系列产品负责人卓世杰透露正密集筹备发布会。目前，系列新机已开启前瞻预热。 有网友询问，Find X10 系列手机能否推出相机调色盘功能。对此，卓世杰回应称： 调色盘安排了， 而且还有独门的人像肤色保护 ，不管怎么调，肤色都还是那么真实自然 目前， OPPO…",
+          "takeaway": "IT之家 9 月 6 日消息，三星计划于明年年初推出四款高端旗舰手机，分别为 Galaxy S27、Galaxy S27+、Galaxy S27 Pro 和 Galaxy S27 Ultra。目前，这几款手机的大部分规格已经陆续曝光，而 Galaxy S27 Pro 的有线充电速度如今也浮出水面。 IT之家注意到，Galaxy S27 系列全系机型近日通过…",
+          "detail": "IT之家 9 月 6 日消息，三星计划于明年年初推出四款高端旗舰手机，分别为 Galaxy S27、Galaxy S27+、Galaxy S27 Pro 和 Galaxy S27 Ultra。目前，这几款手机的大部分规格已经陆续曝光，而 Galaxy S27 Pro 的有线充电速度如今也浮出水面。 IT之家注意到，Galaxy S27 系列全系机型近日通过…",
           "keyPoints": [
-            "影像硬件"
+            "电池 / 充电",
+            "芯片 / 性能"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
@@ -165,8 +167,8 @@ window.phoneRadarDaily = {
           "type": "爆料",
           "trust": "高关注爆料源",
           "date": "2026-09-06",
-          "time": "04:37",
-          "publishedAt": "2026-09-06T04:37:37.842Z",
+          "time": "10:54",
+          "publishedAt": "2026-09-06T10:54:45.364Z",
           "url": "https://weibo.com/6048569942/RgwUYsGD5",
           "image": "https://tvax4.sinaimg.cn/mw2000/006BlblIgy1igrd36i0ilj30xv0f5djx.jpg",
           "verdict": "先看",
@@ -189,8 +191,8 @@ window.phoneRadarDaily = {
           "type": "爆料",
           "trust": "高关注爆料源",
           "date": "2026-09-06",
-          "time": "04:37",
-          "publishedAt": "2026-09-06T04:37:37.842Z",
+          "time": "10:54",
+          "publishedAt": "2026-09-06T10:54:45.364Z",
           "url": "https://weibo.com/6048569942/Rgwgo39kW",
           "image": "",
           "verdict": "先看",
@@ -258,8 +260,8 @@ window.phoneRadarDaily = {
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         },
         {
-          "id": "newsnow-5c43b931f078",
-          "title": "曝iPhone18Pro灵动岛大瘦身",
+          "id": "newsnow-c2616d560e55",
+          "title": "iPhone18Pro售价曝光",
           "originalTitle": "",
           "source": "微博热搜",
           "brand": "iPhone",
@@ -268,47 +270,17 @@ window.phoneRadarDaily = {
           "date": "2026-09-06",
           "time": "",
           "publishedAt": "",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%9B%9DiPhone18Pro%E7%81%B5%E5%8A%A8%E5%B2%9B%E5%A4%A7%E7%98%A6%E8%BA%AB%23&t=31&band_rank=18&Refer=top",
+          "url": "https://s.weibo.com/weibo?q=%23iPhone18Pro%E5%94%AE%E4%BB%B7%E6%9B%9D%E5%85%89%23&t=31&band_rank=22&Refer=top",
           "image": "",
           "verdict": "扫一眼",
-          "takeaway": "曝iPhone18Pro灵动岛大瘦身",
-          "detail": "曝iPhone18Pro灵动岛大瘦身",
+          "takeaway": "iPhone18Pro售价曝光",
+          "detail": "iPhone18Pro售价曝光",
           "keyPoints": [
-            "爆料"
+            "成本 / 价格"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        }
-      ]
-    },
-    {
-      "id": "launch",
-      "title": "新机与官方发布",
-      "hint": "能直接更新到参数库。",
-      "items": [
-        {
-          "id": "auto-a61a1196a9dc",
-          "title": "珠海港珠澳大桥海关连查 4 起跨境客车司机藏匿旧手机进境案，合计查获旧手机 64 台",
-          "originalTitle": "",
-          "source": "IT之家",
-          "brand": "行业",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-09-05",
-          "time": "23:29",
-          "publishedAt": "2026-09-05T23:29:13.000Z",
-          "url": "https://www.ithome.com/0/998/854.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/9/61b76cd2-538e-42f9-94df-b4843f309f35.png?x-bce-process=image/format,f_auto",
-          "verdict": "扫一眼",
-          "takeaway": "IT之家 9 月 6 日消息，据“海关发布”公众号，近日，拱北海关所属港珠澳大桥海关连查 4 起跨境客车司机藏匿旧手机进境案，合计查获旧手机 64 台。 8 月 20 日 15 时许，海关关员在港珠澳大桥珠海公路口岸进境客车通道监管时，发现一辆粤澳两地牌客车机检图像异常。经进一步检查，关员在该车中控台、扶手箱、座椅下等多个位置共查获藏匿的旧手机 16 台。…",
-          "detail": "IT之家 9 月 6 日消息，据“海关发布”公众号，近日，拱北海关所属港珠澳大桥海关连查 4 起跨境客车司机藏匿旧手机进境案，合计查获旧手机 64 台。 8 月 20 日 15 时许，海关关员在港珠澳大桥珠海公路口岸进境客车通道监管时，发现一辆粤澳两地牌客车机检图像异常。经进一步检查，关员在该车中控台、扶手箱、座椅下等多个位置共查获藏匿的旧手机 16 台。…",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "中文源可以直接点开快读；看完只保留和购机有关的点。"
         }
       ]
     },
@@ -341,44 +313,44 @@ window.phoneRadarDaily = {
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         },
         {
-          "id": "newsnow-a59195694ef5",
-          "title": "只有华为手机有跳转广告吗？为什么弹幕全都是华为？华为这么可恶吗？#鸿蒙7#",
+          "id": "newsnow-01fbd07498c1",
+          "title": "每个人的想法果然不同，你也很难劝动别人，朋友让推荐手机，就问了问预算，他想5000多买小米17pro要不就4000多买小米17，问我有没有别的推荐，我觉得小米这涨价了溢价有点严重。",
           "originalTitle": "",
           "source": "酷安热榜",
-          "brand": "Huawei",
+          "brand": "Xiaomi",
           "type": "爆料",
           "trust": "高关注爆料源",
           "date": "2026-09-06",
           "time": "",
           "publishedAt": "",
-          "url": "https://www.coolapk.com/feed/73601068",
+          "url": "https://www.coolapk.com/feed/73598645",
           "image": "",
           "verdict": "先看",
-          "takeaway": "只有华为手机有跳转广告吗？为什么弹幕全都是华为？华为这么可恶吗？#鸿蒙7#",
-          "detail": "只有华为手机有跳转广告吗？为什么弹幕全都是华为？华为这么可恶吗？#鸿蒙7#",
+          "takeaway": "每个人的想法果然不同，你也很难劝动别人，朋友让推荐手机，就问了问预算，他想5000多买小米17pro要不就4000多买小米17，问我有没有别的推荐，我觉得小米这涨价了溢价有点严重。",
+          "detail": "每个人的想法果然不同，你也很难劝动别人，朋友让推荐手机，就问了问预算，他想5000多买小米17pro要不就4000多买小米17，问我有没有别的推荐，我觉得小米这涨价了溢价有点严重。",
           "keyPoints": [
             "爆料"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "impact": "影响购买预算，值得先看。",
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         },
         {
-          "id": "newsnow-96d378529c4e",
-          "title": "已经摸过真机了，配置大差不差，但是超大杯我是真喜欢啊，但是还没见哪个网传图传对了[doge][doge]敬请期待下吧 #数码日常# #OPPO# #OPPOFindX10系列曝光#",
+          "id": "newsnow-4867851a90ac",
+          "title": "[笑眼]手机圈：120hz足够了，165hz感知不强",
           "originalTitle": "",
           "source": "酷安热榜",
-          "brand": "OPPO",
+          "brand": "行业",
           "type": "爆料",
           "trust": "高关注爆料源",
           "date": "2026-09-06",
           "time": "",
           "publishedAt": "",
-          "url": "https://www.coolapk.com/feed/73574191",
+          "url": "https://www.coolapk.com/feed/73598238",
           "image": "",
           "verdict": "扫一眼",
-          "takeaway": "已经摸过真机了，配置大差不差，但是超大杯我是真喜欢啊，但是还没见哪个网传图传对了[doge][doge]敬请期待下吧 #数码日常# #OPPO# #OPPOFindX10系列曝光#",
-          "detail": "已经摸过真机了，配置大差不差，但是超大杯我是真喜欢啊，但是还没见哪个网传图传对了[doge][doge]敬请期待下吧 #数码日常# #OPPO# #OPPOFindX10系列曝光#",
+          "takeaway": "[笑眼]手机圈：120hz足够了，165hz感知不强",
+          "detail": "[笑眼]手机圈：120hz足够了，165hz感知不强",
           "keyPoints": [
             "爆料"
           ],
@@ -404,6 +376,29 @@ window.phoneRadarDaily = {
           "detail": "【倪飞：努比亚NaviX Ultra 全系512GB起步】 9月4日，努比亚倪飞宣布，NaviX Ultra全系512GB存储起步。 据此前预热，努比亚NaviX Ultra将搭载长鑫最高速率10667Mbps的LPDDR5X内存、三星满速运存与闪存。 #今日热点# #努比亚NaviXUltra#",
           "keyPoints": [
             "爆料"
+          ],
+          "confidence": "可信度较高，但仍属于发布前线索。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        },
+        {
+          "id": "coolapk-user-b071ac21ad43",
+          "title": "竹本青：【OPPO卓世杰：Find X10系列 将加入「调色盘」功能，支持人像肤色保护】 9月5日资讯，OPPO 高管卓世…",
+          "originalTitle": "",
+          "source": "竹本青",
+          "brand": "OPPO",
+          "type": "爆料",
+          "trust": "高可信爆料",
+          "date": "2026-09-05",
+          "time": "13:47",
+          "publishedAt": "2026-09-05T13:47:43.000Z",
+          "url": "https://www.coolapk.com/feed/73599337",
+          "image": "http://image.coolapk.com/feed/2026/0905/21/4248714_db4d9017_6062_0103_16@1439x669.jpg",
+          "verdict": "扫一眼",
+          "takeaway": "【OPPO卓世杰：Find X10系列 将加入「调色盘」功能，支持人像肤色保护】 9月5日资讯，OPPO 高管卓世杰昨日确认，Find X10系列将加入「调色盘」功能，同时搭载独家人像肤色保护机制，用户进行调色操作时，依旧可以保留真实自然的人像肤色。 #今日热点# #ColorOS17# #OPPOFindX10#",
+          "detail": "【OPPO卓世杰：Find X10系列 将加入「调色盘」功能，支持人像肤色保护】 9月5日资讯，OPPO 高管卓世杰昨日确认，Find X10系列将加入「调色盘」功能，同时搭载独家人像肤色保护机制，用户进行调色操作时，依旧可以保留真实自然的人像肤色。 #今日热点# #ColorOS17# #OPPOFindX10#",
+          "keyPoints": [
+            "外观 / 配色 / 尺寸"
           ],
           "confidence": "可信度较高，但仍属于发布前线索。",
           "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
