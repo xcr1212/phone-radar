@@ -1,11 +1,11 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-09-06T10:54:45.364Z",
+  "updatedAt": "2026-09-06T15:27:22.626Z",
   "issueDate": "2026-09-06",
   "issue": "VOL.260906",
   "title": "手机情报日报",
-  "intro": "今日筛出 16 条重点，其中 8 条是重点爆料，包含 7 条 iPhone 相关、1 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 13 条重点，其中 8 条是重点爆料，包含 7 条 iPhone 相关、1 条官方确认、0 条参数线索。",
   "stats": {
-    "total": 16,
+    "total": 13,
     "iphone": 7,
     "leaks": 8,
     "official": 1,
@@ -17,6 +17,29 @@ window.phoneRadarDaily = {
       "title": "重点爆料",
       "hint": "机模、配色、影像、屏幕、电池和芯片线索先看。",
       "items": [
+        {
+          "id": "newsnow-e75621fcf3b1",
+          "title": "iPhone18Pro 配色",
+          "originalTitle": "",
+          "source": "微博热搜",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "待验证",
+          "date": "2026-09-06",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://s.weibo.com/weibo?q=iPhone18Pro%20%E9%85%8D%E8%89%B2&t=31&band_rank=21&Refer=top",
+          "image": "",
+          "verdict": "先看",
+          "takeaway": "iPhone18Pro 配色",
+          "detail": "iPhone18Pro 配色",
+          "keyPoints": [
+            "外观 / 配色 / 尺寸"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
         {
           "id": "auto-ccb4e09461cb",
           "title": "华为 Pura X Max 阔折叠手机新配色曝光：含波尔多红，采用纯色无花纹设计",
@@ -167,8 +190,8 @@ window.phoneRadarDaily = {
           "type": "爆料",
           "trust": "高关注爆料源",
           "date": "2026-09-06",
-          "time": "10:54",
-          "publishedAt": "2026-09-06T10:54:45.364Z",
+          "time": "15:27",
+          "publishedAt": "2026-09-06T15:27:22.626Z",
           "url": "https://weibo.com/6048569942/RgwUYsGD5",
           "image": "https://tvax4.sinaimg.cn/mw2000/006BlblIgy1igrd36i0ilj30xv0f5djx.jpg",
           "verdict": "先看",
@@ -176,30 +199,6 @@ window.phoneRadarDaily = {
           "detail": "预言成真了家人们，本月Pro Max大乱斗： iPhone 18 Pro Max——A20 Pro/可变光圈/新ID Xiaomi 18 Pro Max——8EE6/徕卡新影像/背屏 华为 Mate90 Pro Max——9050 Pro/高动态影像 vivo X500 Pro Max——9600 Pro/高动态影像 OPPO Find X10 Pro M…",
           "keyPoints": [
             "影像硬件",
-            "爆料来源"
-          ],
-          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "weibo-a32a09bfee90",
-          "title": "数码闲聊站：独家，iQOO 16确认搭载三星新一代M16发光材料+新一代 LEAD™显示技…",
-          "originalTitle": "",
-          "source": "数码闲聊站",
-          "brand": "Samsung",
-          "type": "爆料",
-          "trust": "高关注爆料源",
-          "date": "2026-09-06",
-          "time": "10:54",
-          "publishedAt": "2026-09-06T10:54:45.364Z",
-          "url": "https://weibo.com/6048569942/Rgwgo39kW",
-          "image": "",
-          "verdict": "先看",
-          "takeaway": "独家，iQOO 16确认搭载三星新一代M16发光材料+新一代 LEAD™显示技术，苹果折叠屏同款方案。 除了这个安卓全球首发的新方案，iQOO还将和三星显示强强联合，打造全球最好屏，iQOO 16也将会联合三星有“行业首个大动作”，快了快了👖",
-          "detail": "独家，iQOO 16确认搭载三星新一代M16发光材料+新一代 LEAD™显示技术，苹果折叠屏同款方案。 除了这个安卓全球首发的新方案，iQOO还将和三星显示强强联合，打造全球最好屏，iQOO 16也将会联合三星有“行业首个大动作”，快了快了👖",
-          "keyPoints": [
-            "屏幕形态",
             "爆料来源"
           ],
           "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
@@ -258,29 +257,6 @@ window.phoneRadarDaily = {
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是实际体验内容，买前适合重点看缺点和取舍。",
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
-        {
-          "id": "newsnow-c2616d560e55",
-          "title": "iPhone18Pro售价曝光",
-          "originalTitle": "",
-          "source": "微博热搜",
-          "brand": "iPhone",
-          "type": "爆料",
-          "trust": "待验证",
-          "date": "2026-09-06",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://s.weibo.com/weibo?q=%23iPhone18Pro%E5%94%AE%E4%BB%B7%E6%9B%9D%E5%85%89%23&t=31&band_rank=22&Refer=top",
-          "image": "",
-          "verdict": "扫一眼",
-          "takeaway": "iPhone18Pro售价曝光",
-          "detail": "iPhone18Pro售价曝光",
-          "keyPoints": [
-            "成本 / 价格"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         }
       ]
     },
@@ -310,29 +286,6 @@ window.phoneRadarDaily = {
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
-        {
-          "id": "newsnow-01fbd07498c1",
-          "title": "每个人的想法果然不同，你也很难劝动别人，朋友让推荐手机，就问了问预算，他想5000多买小米17pro要不就4000多买小米17，问我有没有别的推荐，我觉得小米这涨价了溢价有点严重。",
-          "originalTitle": "",
-          "source": "酷安热榜",
-          "brand": "Xiaomi",
-          "type": "爆料",
-          "trust": "高关注爆料源",
-          "date": "2026-09-06",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://www.coolapk.com/feed/73598645",
-          "image": "",
-          "verdict": "先看",
-          "takeaway": "每个人的想法果然不同，你也很难劝动别人，朋友让推荐手机，就问了问预算，他想5000多买小米17pro要不就4000多买小米17，问我有没有别的推荐，我觉得小米这涨价了溢价有点严重。",
-          "detail": "每个人的想法果然不同，你也很难劝动别人，朋友让推荐手机，就问了问预算，他想5000多买小米17pro要不就4000多买小米17，问我有没有别的推荐，我觉得小米这涨价了溢价有点严重。",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "影响购买预算，值得先看。",
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         },
         {
@@ -376,29 +329,6 @@ window.phoneRadarDaily = {
           "detail": "【倪飞：努比亚NaviX Ultra 全系512GB起步】 9月4日，努比亚倪飞宣布，NaviX Ultra全系512GB存储起步。 据此前预热，努比亚NaviX Ultra将搭载长鑫最高速率10667Mbps的LPDDR5X内存、三星满速运存与闪存。 #今日热点# #努比亚NaviXUltra#",
           "keyPoints": [
             "爆料"
-          ],
-          "confidence": "可信度较高，但仍属于发布前线索。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
-        {
-          "id": "coolapk-user-b071ac21ad43",
-          "title": "竹本青：【OPPO卓世杰：Find X10系列 将加入「调色盘」功能，支持人像肤色保护】 9月5日资讯，OPPO 高管卓世…",
-          "originalTitle": "",
-          "source": "竹本青",
-          "brand": "OPPO",
-          "type": "爆料",
-          "trust": "高可信爆料",
-          "date": "2026-09-05",
-          "time": "13:47",
-          "publishedAt": "2026-09-05T13:47:43.000Z",
-          "url": "https://www.coolapk.com/feed/73599337",
-          "image": "http://image.coolapk.com/feed/2026/0905/21/4248714_db4d9017_6062_0103_16@1439x669.jpg",
-          "verdict": "扫一眼",
-          "takeaway": "【OPPO卓世杰：Find X10系列 将加入「调色盘」功能，支持人像肤色保护】 9月5日资讯，OPPO 高管卓世杰昨日确认，Find X10系列将加入「调色盘」功能，同时搭载独家人像肤色保护机制，用户进行调色操作时，依旧可以保留真实自然的人像肤色。 #今日热点# #ColorOS17# #OPPOFindX10#",
-          "detail": "【OPPO卓世杰：Find X10系列 将加入「调色盘」功能，支持人像肤色保护】 9月5日资讯，OPPO 高管卓世杰昨日确认，Find X10系列将加入「调色盘」功能，同时搭载独家人像肤色保护机制，用户进行调色操作时，依旧可以保留真实自然的人像肤色。 #今日热点# #ColorOS17# #OPPOFindX10#",
-          "keyPoints": [
-            "外观 / 配色 / 尺寸"
           ],
           "confidence": "可信度较高，但仍属于发布前线索。",
           "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
