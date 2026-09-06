@@ -1,5 +1,5 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-09-06T20:28:05.393Z",
+  "updatedAt": "2026-09-06T23:53:17.494Z",
   "news": [
     {
       "id": "weibo-286bb43382d2",
@@ -10,8 +10,8 @@ window.phoneRadarAuto = {
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-09-06",
-      "time": "20:28",
-      "publishedAt": "2026-09-06T20:28:05.393Z",
+      "time": "23:53",
+      "publishedAt": "2026-09-06T23:53:17.494Z",
       "url": "https://weibo.com/6048569942/RgGpWa9l3",
       "image": "",
       "summary": "周末更新一些izhan专属黑话： 影像：小底＜1/2\"、中底＝1/2\"±、大底＝1/1.4\"-1/1.5\"±、超大底＝1/1.3\"±、超级大底＝1/1.1\"±、入门级长焦微距＝30cm±、近距离长焦微距＝10-15cm±、双2亿＝2亿主摄+2亿长焦 马达：小马达＝0809-9595、相对大马达＝0815-7514-0816、超大马达＝0916系 屏幕：超清…",
@@ -30,8 +30,8 @@ window.phoneRadarAuto = {
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-09-06",
-      "time": "20:28",
-      "publishedAt": "2026-09-06T20:28:05.393Z",
+      "time": "23:53",
+      "publishedAt": "2026-09-06T23:53:17.494Z",
       "url": "https://weibo.com/6048569942/RgFb7qGqW",
       "image": "https://tvax2.sinaimg.cn/mw2000/006BlblIgy1igrs0o3e5nj30xv0fs43n.jpg",
       "summary": "咳咳，骁龙8EE6旗舰机电池确定8400mAh👖",
@@ -50,8 +50,8 @@ window.phoneRadarAuto = {
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-09-06",
-      "time": "20:28",
-      "publishedAt": "2026-09-06T20:28:05.393Z",
+      "time": "23:53",
+      "publishedAt": "2026-09-06T23:53:17.494Z",
       "url": "https://weibo.com/6048569942/Rgya65MCp",
       "image": "",
       "summary": "刚刚摸完所有母系新机确定了 小杯——天玑9500s、骁龙8E 中杯——天玑9600M、骁龙8E5、2nm骁龙8E6 大杯——2nm天玑9600 Pro、2nm骁龙8E6 大大杯——2nm天玑9600 Pro、2nm骁龙8EE6",
@@ -70,8 +70,8 @@ window.phoneRadarAuto = {
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-09-06",
-      "time": "20:28",
-      "publishedAt": "2026-09-06T20:28:05.393Z",
+      "time": "23:53",
+      "publishedAt": "2026-09-06T23:53:17.494Z",
       "url": "https://weibo.com/6048569942/RgwUYsGD5",
       "image": "https://tvax4.sinaimg.cn/mw2000/006BlblIgy1igrd36i0ilj30xv0f5djx.jpg",
       "summary": "预言成真了家人们，本月Pro Max大乱斗： iPhone 18 Pro Max——A20 Pro/可变光圈/新ID Xiaomi 18 Pro Max——8EE6/徕卡新影像/背屏 华为 Mate90 Pro Max——9050 Pro/高动态影像 vivo X500 Pro Max——9600 Pro/高动态影像 OPPO Find X10 Pro M…",
@@ -90,8 +90,8 @@ window.phoneRadarAuto = {
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-09-06",
-      "time": "20:28",
-      "publishedAt": "2026-09-06T20:28:05.393Z",
+      "time": "23:53",
+      "publishedAt": "2026-09-06T23:53:17.494Z",
       "url": "https://weibo.com/6048569942/Rgwgo39kW",
       "image": "",
       "summary": "独家，iQOO 16确认搭载三星新一代M16发光材料+新一代 LEAD™显示技术，苹果折叠屏同款方案。 除了这个安卓全球首发的新方案，iQOO还将和三星显示强强联合，打造全球最好屏，iQOO 16也将会联合三星有“行业首个大动作”，快了快了👖",
@@ -99,6 +99,46 @@ window.phoneRadarAuto = {
         "Samsung",
         "爆料",
         "微博"
+      ]
+    },
+    {
+      "id": "auto-5ec76f703225",
+      "title": "三防手机也要有背屏 + 增距镜？Blackview Xplore 6 亮相",
+      "source": "IT之家",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-06",
+      "time": "23:34",
+      "publishedAt": "2026-09-06T23:34:15.000Z",
+      "url": "https://www.ithome.com/0/999/062.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/9/908a969d-8260-401d-b079-cbd51d18861b.jpg",
+      "summary": "IT之家 9 月 7 日消息，据科技媒体 Notebookcheck 昨天报道，Blackview 在 IFA 2026 展会期间推出了 Xplore 6 三防手机，这款产品专为户外探险爱好者设计，拥有同类产品罕见的背屏，支持安装长焦增距镜头。 据介绍，这款手机的整体设计比较厚重，其厚度达到 18.2mm，重量 428g。该机正面配备 6.73 英寸 AM…",
+      "tags": [
+        "行业",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-86e046dec663",
+      "title": "HMD Key 2 手机曝光：搭紫光展锐 SC9863A 处理器、6.52 英寸 HD+ 面板",
+      "source": "IT之家",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-06",
+      "time": "23:14",
+      "publishedAt": "2026-09-06T23:14:32.000Z",
+      "url": "https://www.ithome.com/0/999/056.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/9/10340eaf-db86-4f81-9ab8-2b294579b20a.png?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 9 月 7 日消息，消息源 smashx_60 现已公布了 HMD Global 即将发布的 HMD Key 2 手机规格信息，该机搭载紫光展锐 SC9863A 处理器，定位低端。 参考爆料信息， HMD Key 2 可选黑 / 绿双色，搭载一块 6.52 英寸 1280x576 分辨率 60Hz LCD 面板 ，匹配 5MP 自拍摄像头；后置…",
+      "tags": [
+        "行业",
+        "爆料",
+        "自动抓取"
       ]
     },
     {
@@ -277,26 +317,6 @@ window.phoneRadarAuto = {
       "summary": "IT之家 9 月 6 日消息，今日，央视《身边的大循环》系列报道解码手机回收背后的资源大循环，回应了网上一直流传“一吨废旧手机能提炼 200 克黄金”的说法。 专家表示，网传说法偷换了概念：200 克黄金，对应的是一吨经过拆解分选、剔除外壳屏幕电池后的纯手机主板废料，并不是一吨完整废旧手机。完整手机包含外壳、屏幕、电池等部件，整体含金量会大幅缩水。而且 2…",
       "tags": [
         "行业",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-ccb4e09461cb",
-      "title": "华为 Pura X Max 阔折叠手机新配色曝光：含波尔多红，采用纯色无花纹设计",
-      "source": "IT之家",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-09-06",
-      "time": "08:04",
-      "publishedAt": "2026-09-06T08:04:25.000Z",
-      "url": "https://www.ithome.com/0/998/948.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/9/6d62cec2-cf8d-4caa-a76a-0bd1a6f42f59.jpg?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 9 月 6 日消息， 华为 Pura X Max 阔折叠手机新配色外观曝光 ，消息称将在明天的 HarmonyOS 7 | HUAWEI Mate XT 2 及全场景新品发布会上正式亮相。 据博主 @摄影陈掌柜 透露， 右边的红色命名为波尔多红 。左边的颜色命名暂未揭秘，不过该博主透露其颜色偏蓝色多一点。 图片显示，为 Pura X Max 阔折…",
-      "tags": [
-        "Huawei",
         "爆料",
         "自动抓取"
       ]
@@ -522,7 +542,27 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-e75621fcf3b1",
+      "id": "newsnow-d3054a400c21",
+      "title": "难以想象有一天，我居然会在酷安写一篇iPhone的文章。工作、孩子强度库库的上，思维也变得懒惰、僵化，以前写文章思如泉涌，现在只能用一周多的时间零零散散构思，不蹭热度，全文没有硬核的参数对比和严谨的对照实验，毕竟头部数码博主都给测完了。只想在喧嚣过后和大家聊一聊，在我的使用场景和主观视角下的Air。",
+      "source": "酷安热榜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-09-06",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/68295165",
+      "image": "",
+      "summary": "难以想象有一天，我居然会在酷安写一篇iPhone的文章。工作、孩子强度库库的上，思维也变得懒惰、僵化，以前写文章思如泉涌，现在只能用一周多的时间零零散散构思，不蹭热度，全文没有硬核的参数对比和严谨的对照实验，毕竟头部数码博主都给测完了。只想在喧嚣过后和大家聊一聊，在我的使用场景和主观视角下的Air。",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-16d0d23d0fc2",
       "title": "iPhone18Pro 配色",
       "source": "微博热搜",
       "brand": "iPhone",
@@ -532,7 +572,7 @@ window.phoneRadarAuto = {
       "date": "2026-09-06",
       "time": "",
       "publishedAt": "",
-      "url": "https://s.weibo.com/weibo?q=iPhone18Pro%20%E9%85%8D%E8%89%B2&t=31&band_rank=21&Refer=top",
+      "url": "https://s.weibo.com/weibo?q=iPhone18Pro%20%E9%85%8D%E8%89%B2&t=31&band_rank=25&Refer=top",
       "image": "",
       "summary": "iPhone18Pro 配色",
       "tags": [
@@ -562,9 +602,9 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-a8cea722a726",
-      "title": "“一吨旧手机提炼200克黄金”不实",
-      "source": "百度热搜",
+      "id": "newsnow-738297e97481",
+      "title": "挖眼案男孩操作手机完成报到",
+      "source": "今日头条热榜",
       "brand": "行业",
       "model": "智能手机市场",
       "type": "爆料",
@@ -572,9 +612,49 @@ window.phoneRadarAuto = {
       "date": "2026-09-06",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.baidu.com/s?wd=%E2%80%9C%E4%B8%80%E5%90%A8%E6%97%A7%E6%89%8B%E6%9C%BA%E6%8F%90%E7%82%BC200%E5%85%8B%E9%BB%84%E9%87%91%E2%80%9D%E4%B8%8D%E5%AE%9E",
+      "url": "https://www.toutiao.com/trending/7682558432876138022/",
       "image": "",
-      "summary": "“一吨旧手机提炼200克黄金”不实",
+      "summary": "挖眼案男孩操作手机完成报到",
+      "tags": [
+        "行业",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-fb0c3dec88d4",
+      "title": "手机涨价消费者为何不买账",
+      "source": "今日头条热榜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-06",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.toutiao.com/trending/7682319700168179718/",
+      "image": "",
+      "summary": "手机涨价消费者为何不买账",
+      "tags": [
+        "行业",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-b7dfa94a5d44",
+      "title": "折叠屏手机迎超级发布周",
+      "source": "今日头条热榜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-06",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.toutiao.com/trending/7682428380926444078/",
+      "image": "",
+      "summary": "折叠屏手机迎超级发布周",
       "tags": [
         "行业",
         "爆料",
@@ -595,6 +675,26 @@ window.phoneRadarAuto = {
       "url": "https://www.baidu.com/s?wd=400%E5%85%83%E4%B9%B0%E5%9D%97%E2%80%9C%E5%A1%91%E6%96%99%E7%A0%96%E5%A4%B4%E2%80%9D%E6%88%92%E6%89%8B%E6%9C%BA",
       "image": "",
       "summary": "400元买块“塑料砖头”戒手机",
+      "tags": [
+        "行业",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-a8cea722a726",
+      "title": "“一吨旧手机提炼200克黄金”不实",
+      "source": "百度热搜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-06",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.baidu.com/s?wd=%E2%80%9C%E4%B8%80%E5%90%A8%E6%97%A7%E6%89%8B%E6%9C%BA%E6%8F%90%E7%82%BC200%E5%85%8B%E9%BB%84%E9%87%91%E2%80%9D%E4%B8%8D%E5%AE%9E",
+      "image": "",
+      "summary": "“一吨旧手机提炼200克黄金”不实",
       "tags": [
         "行业",
         "爆料",
