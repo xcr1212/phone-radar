@@ -1,12 +1,12 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-09-06T18:16:46.348Z",
+  "updatedAt": "2026-09-06T20:28:05.393Z",
   "issueDate": "2026-09-06",
   "issue": "VOL.260906",
   "title": "手机情报日报",
-  "intro": "今日筛出 13 条重点，其中 8 条是重点爆料，包含 8 条 iPhone 相关、1 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 14 条重点，其中 8 条是重点爆料，包含 9 条 iPhone 相关、1 条官方确认、0 条参数线索。",
   "stats": {
-    "total": 13,
-    "iphone": 8,
+    "total": 14,
+    "iphone": 9,
     "leaks": 8,
     "official": 1,
     "specs": 0
@@ -190,8 +190,8 @@ window.phoneRadarDaily = {
           "type": "爆料",
           "trust": "高关注爆料源",
           "date": "2026-09-06",
-          "time": "18:16",
-          "publishedAt": "2026-09-06T18:16:46.348Z",
+          "time": "20:28",
+          "publishedAt": "2026-09-06T20:28:05.393Z",
           "url": "https://weibo.com/6048569942/RgwUYsGD5",
           "image": "https://tvax4.sinaimg.cn/mw2000/006BlblIgy1igrd36i0ilj30xv0f5djx.jpg",
           "verdict": "先看",
@@ -280,6 +280,29 @@ window.phoneRadarDaily = {
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是实际体验内容，买前适合重点看缺点和取舍。",
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        },
+        {
+          "id": "auto-7a853f6835ff",
+          "title": "iPhone 影像能力相关消息",
+          "originalTitle": "",
+          "source": "Android Authority",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-09-05",
+          "time": "09:30",
+          "publishedAt": "2026-09-05T09:30:17.000Z",
+          "url": "https://www.androidauthority.com/google-photos-android-app-manual-stacks-how-to-3707900/",
+          "image": "https://www.androidauthority.com/wp-content/uploads/2026/09/google-photos-create-stack-button-android-app-2-scaled.jpg",
+          "verdict": "扫一眼",
+          "takeaway": "iPhone 有系统功能或 AI 体验更新，适合关注后续是否影响日常使用。",
+          "detail": "iPhone 影像能力相关消息。重点看影像功能是否和新机硬件有关，如果只是拍摄案例或营销内容，参考价值会低一些。",
+          "keyPoints": [
+            "影像硬件"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "影响拍照体验，买旗舰机时值得关注。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         }
       ]
     },
@@ -289,31 +312,8 @@ window.phoneRadarDaily = {
       "hint": "看方向，不急着当购买依据。",
       "items": [
         {
-          "id": "newsnow-a9766b7a62bc",
-          "title": "怎么说也是万元手机，理性讨论下，会不会设计太简约了 #小米17ProMax# #HyperOS4# #REDMIK100ProMax#",
-          "originalTitle": "",
-          "source": "酷安热榜",
-          "brand": "Xiaomi",
-          "type": "爆料",
-          "trust": "高关注爆料源",
-          "date": "2026-09-06",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://www.coolapk.com/feed/73592276",
-          "image": "",
-          "verdict": "先看",
-          "takeaway": "怎么说也是万元手机，理性讨论下，会不会设计太简约了 #小米17ProMax# #HyperOS4# #REDMIK100ProMax#",
-          "detail": "怎么说也是万元手机，理性讨论下，会不会设计太简约了 #小米17ProMax# #HyperOS4# #REDMIK100ProMax#",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
-        {
-          "id": "newsnow-4867851a90ac",
-          "title": "[笑眼]手机圈：120hz足够了，165hz感知不强",
+          "id": "newsnow-0c57ff2b23cf",
+          "title": "[t耐克嘴]2025-2026年换了10台以上手机",
           "originalTitle": "",
           "source": "酷安热榜",
           "brand": "行业",
@@ -322,17 +322,40 @@ window.phoneRadarDaily = {
           "date": "2026-09-06",
           "time": "",
           "publishedAt": "",
-          "url": "https://www.coolapk.com/feed/73598238",
+          "url": "https://www.coolapk.com/feed/73612968",
           "image": "",
           "verdict": "扫一眼",
-          "takeaway": "[笑眼]手机圈：120hz足够了，165hz感知不强",
-          "detail": "[笑眼]手机圈：120hz足够了，165hz感知不强",
+          "takeaway": "[t耐克嘴]2025-2026年换了10台以上手机",
+          "detail": "[t耐克嘴]2025-2026年换了10台以上手机",
           "keyPoints": [
             "爆料"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        },
+        {
+          "id": "newsnow-fc06915fb2ef",
+          "title": "2020 年，回头看仍是机圈极具魔幻现实主义色彩的一年。厂商大喊 “5G 元年”，对换机用户而言却是 “涨价元年”—— 旗舰机型仿佛统一了口径，集体上调八百至一千的价格，携手迈入3999的时代。",
+          "originalTitle": "",
+          "source": "酷安热榜",
+          "brand": "行业",
+          "type": "爆料",
+          "trust": "高关注爆料源",
+          "date": "2026-09-06",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://www.coolapk.com/feed/70266966",
+          "image": "",
+          "verdict": "扫一眼",
+          "takeaway": "2020 年，回头看仍是机圈极具魔幻现实主义色彩的一年。厂商大喊 “5G 元年”，对换机用户而言却是 “涨价元年”—— 旗舰机型仿佛统一了口径，集体上调八百至一千的价格，携手迈入3999的时代。",
+          "detail": "2020 年，回头看仍是机圈极具魔幻现实主义色彩的一年。厂商大喊 “5G 元年”，对换机用户而言却是 “涨价元年”—— 旗舰机型仿佛统一了口径，集体上调八百至一千的价格，携手迈入3999的时代。",
+          "keyPoints": [
+            "成本 / 价格"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "影响购买预算，值得先看。",
+          "action": "有具体参数就记录到参数库；没有参数就先收藏。"
         }
       ]
     }

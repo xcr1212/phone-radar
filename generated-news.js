@@ -1,5 +1,5 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-09-06T18:16:46.348Z",
+  "updatedAt": "2026-09-06T20:28:05.393Z",
   "news": [
     {
       "id": "weibo-286bb43382d2",
@@ -10,8 +10,8 @@ window.phoneRadarAuto = {
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-09-06",
-      "time": "18:16",
-      "publishedAt": "2026-09-06T18:16:46.348Z",
+      "time": "20:28",
+      "publishedAt": "2026-09-06T20:28:05.393Z",
       "url": "https://weibo.com/6048569942/RgGpWa9l3",
       "image": "",
       "summary": "周末更新一些izhan专属黑话： 影像：小底＜1/2\"、中底＝1/2\"±、大底＝1/1.4\"-1/1.5\"±、超大底＝1/1.3\"±、超级大底＝1/1.1\"±、入门级长焦微距＝30cm±、近距离长焦微距＝10-15cm±、双2亿＝2亿主摄+2亿长焦 马达：小马达＝0809-9595、相对大马达＝0815-7514-0816、超大马达＝0916系 屏幕：超清…",
@@ -30,8 +30,8 @@ window.phoneRadarAuto = {
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-09-06",
-      "time": "18:16",
-      "publishedAt": "2026-09-06T18:16:46.348Z",
+      "time": "20:28",
+      "publishedAt": "2026-09-06T20:28:05.393Z",
       "url": "https://weibo.com/6048569942/RgFb7qGqW",
       "image": "https://tvax2.sinaimg.cn/mw2000/006BlblIgy1igrs0o3e5nj30xv0fs43n.jpg",
       "summary": "咳咳，骁龙8EE6旗舰机电池确定8400mAh👖",
@@ -50,8 +50,8 @@ window.phoneRadarAuto = {
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-09-06",
-      "time": "18:16",
-      "publishedAt": "2026-09-06T18:16:46.348Z",
+      "time": "20:28",
+      "publishedAt": "2026-09-06T20:28:05.393Z",
       "url": "https://weibo.com/6048569942/Rgya65MCp",
       "image": "",
       "summary": "刚刚摸完所有母系新机确定了 小杯——天玑9500s、骁龙8E 中杯——天玑9600M、骁龙8E5、2nm骁龙8E6 大杯——2nm天玑9600 Pro、2nm骁龙8E6 大大杯——2nm天玑9600 Pro、2nm骁龙8EE6",
@@ -70,8 +70,8 @@ window.phoneRadarAuto = {
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-09-06",
-      "time": "18:16",
-      "publishedAt": "2026-09-06T18:16:46.348Z",
+      "time": "20:28",
+      "publishedAt": "2026-09-06T20:28:05.393Z",
       "url": "https://weibo.com/6048569942/RgwUYsGD5",
       "image": "https://tvax4.sinaimg.cn/mw2000/006BlblIgy1igrd36i0ilj30xv0f5djx.jpg",
       "summary": "预言成真了家人们，本月Pro Max大乱斗： iPhone 18 Pro Max——A20 Pro/可变光圈/新ID Xiaomi 18 Pro Max——8EE6/徕卡新影像/背屏 华为 Mate90 Pro Max——9050 Pro/高动态影像 vivo X500 Pro Max——9600 Pro/高动态影像 OPPO Find X10 Pro M…",
@@ -90,8 +90,8 @@ window.phoneRadarAuto = {
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-09-06",
-      "time": "18:16",
-      "publishedAt": "2026-09-06T18:16:46.348Z",
+      "time": "20:28",
+      "publishedAt": "2026-09-06T20:28:05.393Z",
       "url": "https://weibo.com/6048569942/Rgwgo39kW",
       "image": "",
       "summary": "独家，iQOO 16确认搭载三星新一代M16发光材料+新一代 LEAD™显示技术，苹果折叠屏同款方案。 除了这个安卓全球首发的新方案，iQOO还将和三星显示强强联合，打造全球最好屏，iQOO 16也将会联合三星有“行业首个大动作”，快了快了👖",
@@ -342,26 +342,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-0c57a36499fa",
-      "title": "Huawei Mate XT 2’s privacy screen will be better than Galaxy S26 Ultra",
-      "source": "Huawei Central",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-09-06",
-      "time": "06:28",
-      "publishedAt": "2026-09-06T06:28:49.000Z",
-      "url": "https://www.huaweicentral.com/huawei-mate-xt-2s-privacy-screen-feature/",
-      "image": "",
-      "summary": "Huawei Mate XT 2’s privacy screen feature will bring a new technology to maintain content quality when enabled, unlike the Galaxy S26 Ultra. Tipster DigitalChatStation said the Ma…",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-f13b82fff736",
       "title": "Oppo Find X10, X10 Pro Max spotted with different Dimensity 9-series chipsets on Geekbench",
       "source": "Gizmochina",
@@ -462,8 +442,8 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-15e93db2c026",
-      "title": "小米售后续集，店员私自取消售后寄回后，手机边框有磨损，跟拿去打灰了一样，摄像头全是指纹和细微划痕，屏幕贴的原厂膜被刮花了也不跟我说一声，6k的红米我替你们买了，这就是小米品牌售后态度",
+      "id": "newsnow-25776081a443",
+      "title": "作为曾经的米粉给想入手的酷友一个忠告，刚算了一下账，小米 17ultra 目前销量 24 万多，折叠屏小众品类加上价格更贵，算他能有 20 万的销量，小米承诺硬件综合利润率不超过 5%，算他 手机10%卖一万赚一千，20 万台赚两亿，现在铺天盖地的软广别说数码博主了，连宝妈都接到单了，这两亿够不够营销费都不好说，真就赔钱赚吆喝，以小米的尿性后续大概率又是砍产品线的一次性买卖，更新维护就跟不上了，到时候的结果就是买的人大概率变米黑[捂脸]",
       "source": "酷安热榜",
       "brand": "Xiaomi",
       "model": "Xiaomi 相关机型",
@@ -472,9 +452,9 @@ window.phoneRadarAuto = {
       "date": "2026-09-06",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73589830",
+      "url": "https://www.coolapk.com/feed/73611765",
       "image": "",
-      "summary": "小米售后续集，店员私自取消售后寄回后，手机边框有磨损，跟拿去打灰了一样，摄像头全是指纹和细微划痕，屏幕贴的原厂膜被刮花了也不跟我说一声，6k的红米我替你们买了，这就是小米品牌售后态度",
+      "summary": "作为曾经的米粉给想入手的酷友一个忠告，刚算了一下账，小米 17ultra 目前销量 24 万多，折叠屏小众品类加上价格更贵，算他能有 20 万的销量，小米承诺硬件综合利润率不超过 5%，算他 手机10%卖一万赚一千，20 万台赚两亿，现在铺天盖地的软广别说数码博主了，连宝妈都接到单了，这两亿够不够营销费都不好说，真就赔钱赚吆喝，以小米的尿性后续大概率又是砍…",
       "tags": [
         "Xiaomi",
         "爆料",
@@ -482,8 +462,8 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-4867851a90ac",
-      "title": "[笑眼]手机圈：120hz足够了，165hz感知不强",
+      "id": "newsnow-17712dcd2879",
+      "title": "手残党换电池 电池拆卸电池胶实在扯不下来 把胶扯断了 只能用平头起子翘 结果太严重了直接燃了 为了保手机直接徒手扯掉电池 幸亏电池安上还能用 现在充电池都担惊受怕的 紧惕酷友手残的千万不要自己随意更换电池",
       "source": "酷安热榜",
       "brand": "行业",
       "model": "智能手机市场",
@@ -492,9 +472,9 @@ window.phoneRadarAuto = {
       "date": "2026-09-06",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73598238",
+      "url": "https://www.coolapk.com/feed/73611278",
       "image": "",
-      "summary": "[笑眼]手机圈：120hz足够了，165hz感知不强",
+      "summary": "手残党换电池 电池拆卸电池胶实在扯不下来 把胶扯断了 只能用平头起子翘 结果太严重了直接燃了 为了保手机直接徒手扯掉电池 幸亏电池安上还能用 现在充电池都担惊受怕的 紧惕酷友手残的千万不要自己随意更换电池",
       "tags": [
         "行业",
         "爆料",
@@ -502,41 +482,41 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-a9766b7a62bc",
-      "title": "怎么说也是万元手机，理性讨论下，会不会设计太简约了 #小米17ProMax# #HyperOS4# #REDMIK100ProMax#",
+      "id": "newsnow-0c57ff2b23cf",
+      "title": "[t耐克嘴]2025-2026年换了10台以上手机",
       "source": "酷安热榜",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
+      "brand": "行业",
+      "model": "智能手机市场",
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-09-06",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73592276",
+      "url": "https://www.coolapk.com/feed/73612968",
       "image": "",
-      "summary": "怎么说也是万元手机，理性讨论下，会不会设计太简约了 #小米17ProMax# #HyperOS4# #REDMIK100ProMax#",
+      "summary": "[t耐克嘴]2025-2026年换了10台以上手机",
       "tags": [
-        "Xiaomi",
+        "行业",
         "爆料",
         "NewsNow"
       ]
     },
     {
-      "id": "newsnow-dca7b09706c7",
-      "title": "说句实话，一直用华子，我看着也踏马生气，就华子现在系统分三六九等，功能分三六九等，甚至就现在曝光出来的芯片在同一代机型能三六九等到这么等级森严的程度，如果曝光的是真的，真的到了令人发指的程度了，高端品牌总不能只是自嗨为高端品牌啊，调性和做法也跟上来啊，整天要干翻果子，遥遥领先果子，到头来，只是嘴上喊口号，能不能落实到实际啊，别人一年卖了4000多万台，这是用真金白银投出来的，这也是在大家真正要花钱，用脚也知道怎么投票啊！唉，真的是无语#华为Mate80ProMax# #鸿蒙7# #华为PuraXView#",
+      "id": "newsnow-fc06915fb2ef",
+      "title": "2020 年，回头看仍是机圈极具魔幻现实主义色彩的一年。厂商大喊 “5G 元年”，对换机用户而言却是 “涨价元年”—— 旗舰机型仿佛统一了口径，集体上调八百至一千的价格，携手迈入3999的时代。",
       "source": "酷安热榜",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
+      "brand": "行业",
+      "model": "智能手机市场",
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-09-06",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73605300",
+      "url": "https://www.coolapk.com/feed/70266966",
       "image": "",
-      "summary": "说句实话，一直用华子，我看着也踏马生气，就华子现在系统分三六九等，功能分三六九等，甚至就现在曝光出来的芯片在同一代机型能三六九等到这么等级森严的程度，如果曝光的是真的，真的到了令人发指的程度了，高端品牌总不能只是自嗨为高端品牌啊，调性和做法也跟上来啊，整天要干翻果子，遥遥领先果子，到头来，只是嘴上喊口号，能不能落实到实际啊，别人一年卖了4000多万台，这是…",
+      "summary": "2020 年，回头看仍是机圈极具魔幻现实主义色彩的一年。厂商大喊 “5G 元年”，对换机用户而言却是 “涨价元年”—— 旗舰机型仿佛统一了口径，集体上调八百至一千的价格，携手迈入3999的时代。",
       "tags": [
-        "Huawei",
+        "行业",
         "爆料",
         "NewsNow"
       ]
@@ -782,26 +762,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-861b66d4655c",
-      "title": "Huawei Pura X View could be available for purchase on September 10",
-      "source": "Huawei Central",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-09-05",
-      "time": "09:42",
-      "publishedAt": "2026-09-05T09:42:02.000Z",
-      "url": "https://www.huaweicentral.com/huawei-pura-x-view-purchase-on-september-10/",
-      "image": "https://www.huaweicentral.com/wp-content/uploads/2026/08/PuraXView.jpg",
-      "summary": "Huawei Pura X View is also going to be a part of the September 7 launch event, though the purchase time could differ, and the first sale of this wide, flat-screen phone may begin…",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-7a853f6835ff",
       "title": "Google Photos on Android just got an iPhone feature I’ve waited a year for — how to use it now",
       "source": "Android Authority",
@@ -817,26 +777,6 @@ window.phoneRadarAuto = {
       "summary": "Manual! Photo! Stacks! Are! Here!",
       "tags": [
         "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-c26d8a40c47e",
-      "title": "Huawei Mate 90 RS Ultimate could bring back ceramic rear design",
-      "source": "Huawei Central",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-09-05",
-      "time": "07:34",
-      "publishedAt": "2026-09-05T07:34:15.000Z",
-      "url": "https://www.huaweicentral.com/huawei-mate-90-rs-ultimate-could-bring-back-ceramic-rear-design/",
-      "image": "https://www.huaweicentral.com/wp-content/uploads/2026/09/Mate-90-RS-sketch.jpg",
-      "summary": "Mate 90 RS Ultimate will be the high-end Huawei smartphone model, which is expected to bring back a ceramic rear panel. A new leak says the company will once again use a ceramic m…",
-      "tags": [
-        "Huawei",
         "爆料",
         "自动抓取"
       ]
