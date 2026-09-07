@@ -1,5 +1,5 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-09-07T18:43:28.388Z",
+  "updatedAt": "2026-09-07T22:49:51.046Z",
   "news": [
     {
       "id": "weibo-02c164783b0a",
@@ -10,8 +10,8 @@ window.phoneRadarAuto = {
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-09-07",
-      "time": "18:43",
-      "publishedAt": "2026-09-07T18:43:28.388Z",
+      "time": "22:49",
+      "publishedAt": "2026-09-07T22:49:51.046Z",
       "url": "https://weibo.com/6048569942/Rh0XkwIX5",
       "image": "",
       "summary": "华为Pura X View，阔直板这个价格怎么样？ 12GB+256GB——5999元 12GB+512GB——6999元 12GB+1TB——8499元",
@@ -30,8 +30,8 @@ window.phoneRadarAuto = {
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-09-07",
-      "time": "18:43",
-      "publishedAt": "2026-09-07T18:43:28.388Z",
+      "time": "22:49",
+      "publishedAt": "2026-09-07T22:49:51.046Z",
       "url": "https://weibo.com/6048569942/RgZwLcWb0",
       "image": "",
       "summary": "Pro Max影像大乱斗： ①50Mp 1/1.28\" LOFIC主摄+50Mp小底超广角+200Mp 1/1.4\"潜望长焦 ②200Mp 1/1.3\"高动态主摄+200Mp 1/1.56\"超广角+200Mp 1/1.56\"潜望长焦 ③200Mp 1/1.28\" LOFIC主摄+50Mp小底超广角+200Mp 1/1.56\"潜望长焦 ④200Mp 1/1.…",
@@ -50,8 +50,8 @@ window.phoneRadarAuto = {
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-09-07",
-      "time": "18:43",
-      "publishedAt": "2026-09-07T18:43:28.388Z",
+      "time": "22:49",
+      "publishedAt": "2026-09-07T22:49:51.046Z",
       "url": "https://weibo.com/6048569942/RgZ7Uou40",
       "image": "https://tvax1.sinaimg.cn/mw2000/006BlblIgy1iguyza6h5gj30r00d476c.jpg",
       "summary": "独家，iQOO16已确定9月内登场，这代虽没有改名Pro Max，但综合堆料规格也Pro Max级了： 满血骁龙8EE6/三星2K+165Hz M16定制屏/自研电竞芯片Q4/超大底全焦段影像/满配外围等等，👖首进9月旗舰大乱斗，给行业大旗舰上强度了",
@@ -59,6 +59,26 @@ window.phoneRadarAuto = {
         "Samsung",
         "爆料",
         "微博"
+      ]
+    },
+    {
+      "id": "auto-608c3f3cef33",
+      "title": "Samsung’s Privacy Display and TriFold merge in the Huawei Mate XT2",
+      "source": "9to5Google",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-07",
+      "time": "21:35",
+      "publishedAt": "2026-09-07T21:35:00.000Z",
+      "url": "https://9to5google.com/2026/09/07/samsungs-privacy-display-and-trifold-merge-in-the-huawei-mate-xt2/",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/09/huawei-mate-xt2-1.webp?w=1600",
+      "summary": "Huawei has unveiled its new Mate XT2 foldable, offering a tri-fold design that also implements Samsung’s Privacy Display feature from the Galaxy S26 Ultra. more…",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "自动抓取"
       ]
     },
     {
@@ -682,26 +702,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-8d055057b324",
-      "title": "Some Galaxy Z Fold 8 users report soft screen corners with way too much give",
-      "source": "Android Authority",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-09-07",
-      "time": "11:39",
-      "publishedAt": "2026-09-07T11:39:19.000Z",
-      "url": "https://www.androidauthority.com/samsung-galaxy-z-fold-8-soft-corners-3708274/",
-      "image": "https://www.androidauthority.com/wp-content/uploads/2026/08/Samsung-Galaxy-Z-Fold-8-3-scaled.jpg",
-      "summary": "Is this intended behavior or a defect?",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-ba1b09e8b5d2",
       "title": "HUAWEI’s answer to the iPhone Ultra? A slimmer tri-fold with a privacy screen",
       "source": "Android Authority",
@@ -1182,46 +1182,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-57677c971396",
-      "title": "作为曾经的米粉给想入手的酷友一个忠告，刚算了一下账，小米 17ultra 目前销量 24 万多，折叠屏小众品类加上价格更贵，算他能有 20 万的销量，小米承诺硬件综合利润率不超过 5%，算他 手机10%卖一万赚一千，20 万台赚两亿，现在铺天盖地的软广别说数码博主了，连宝妈都接到单了，这两亿够不够营销费都不好说，真就赔钱赚吆喝，以小米的尿性后续大概率又是砍产品线的一次性买卖，更新维护就跟不上了，到时候的结果就是买的人大概率变米黑[捂脸]",
-      "source": "酷安热榜",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-09-07",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73611765",
-      "image": "",
-      "summary": "作为曾经的米粉给想入手的酷友一个忠告，刚算了一下账，小米 17ultra 目前销量 24 万多，折叠屏小众品类加上价格更贵，算他能有 20 万的销量，小米承诺硬件综合利润率不超过 5%，算他 手机10%卖一万赚一千，20 万台赚两亿，现在铺天盖地的软广别说数码博主了，连宝妈都接到单了，这两亿够不够营销费都不好说，真就赔钱赚吆喝，以小米的尿性后续大概率又是砍…",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-5f5588255fc9",
-      "title": "手残党换电池 电池拆卸电池胶实在扯不下来 把胶扯断了 只能用平头起子翘 结果太严重了直接燃了 为了保手机直接徒手扯掉电池 幸亏电池安上还能用 现在充电池都担惊受怕的 紧惕酷友手残的千万不要自己随意更换电池",
-      "source": "酷安热榜",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-09-07",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73611278",
-      "image": "",
-      "summary": "手残党换电池 电池拆卸电池胶实在扯不下来 把胶扯断了 只能用平头起子翘 结果太严重了直接燃了 为了保手机直接徒手扯掉电池 幸亏电池安上还能用 现在充电池都担惊受怕的 紧惕酷友手残的千万不要自己随意更换电池",
-      "tags": [
-        "行业",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
       "id": "newsnow-d228aeaf1766",
       "title": "既然对比了友商，又是相同的价格起售，华子阔折叠卖了120万，理性讨论，一起预测下小米中折叠的销量会是多少？相同上市四个月的话，我猜能有华子一半销量，说错勿喷[笑哭] #小米18Fold# #HyperOS4# #华为PuraXMax#",
       "source": "酷安热榜",
@@ -1262,6 +1222,26 @@ window.phoneRadarAuto = {
       ]
     },
     {
+      "id": "newsnow-6283b526bca7",
+      "title": "多款手机集体涨价，有经销商称本以为会迎来抢购潮，结果询价者寥寥无几，哪里出了问题？",
+      "source": "知乎热榜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "市场报告",
+      "trust": "媒体汇总",
+      "date": "2026-09-07",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.zhihu.com/question/2078836573454459390",
+      "image": "",
+      "summary": "多款手机集体涨价，有经销商称本以为会迎来抢购潮，结果询价者寥寥无几，哪里出了问题？",
+      "tags": [
+        "行业",
+        "市场报告",
+        "NewsNow"
+      ]
+    },
+    {
       "id": "newsnow-c4412ea26404",
       "title": "华为新款折叠屏手机售价19999元起",
       "source": "今日头条热榜",
@@ -1277,26 +1257,6 @@ window.phoneRadarAuto = {
       "summary": "华为新款折叠屏手机售价19999元起",
       "tags": [
         "Huawei",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-99bc4899fe32",
-      "title": "折叠屏的“成人礼”来了吗",
-      "source": "今日头条热榜",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-09-07",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.toutiao.com/trending/7682772247149314074/",
-      "image": "",
-      "summary": "折叠屏的“成人礼”来了吗",
-      "tags": [
-        "行业",
         "爆料",
         "NewsNow"
       ]
