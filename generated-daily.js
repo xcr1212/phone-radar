@@ -1,14 +1,14 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-09-08T16:37:13.705Z",
+  "updatedAt": "2026-09-08T21:08:48.384Z",
   "issueDate": "2026-09-08",
   "issue": "VOL.260908",
   "title": "手机情报日报",
-  "intro": "今日筛出 10 条重点，其中 8 条是重点爆料，包含 8 条 iPhone 相关、0 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 15 条重点，其中 8 条是重点爆料，包含 10 条 iPhone 相关、1 条官方确认、0 条参数线索。",
   "stats": {
-    "total": 10,
-    "iphone": 8,
+    "total": 15,
+    "iphone": 10,
     "leaks": 8,
-    "official": 0,
+    "official": 1,
     "specs": 0
   },
   "sections": [
@@ -114,6 +114,29 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
+          "id": "auto-1a8b5fd46b28",
+          "title": "iPhone 相关消息",
+          "originalTitle": "",
+          "source": "MacRumors",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-09-08",
+          "time": "17:24",
+          "publishedAt": "2026-09-08T17:24:56.000Z",
+          "url": "https://www.macrumors.com/2026/09/08/apple-event-week-iphone-18-pro-cheat-sheet/",
+          "image": "",
+          "verdict": "先看",
+          "takeaway": "iPhone 相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
+          "detail": "iPhone 相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
           "id": "auto-7545736ecf34",
           "title": "iPhone 折叠屏相关消息",
           "originalTitle": "",
@@ -181,29 +204,89 @@ window.phoneRadarDaily = {
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
+        }
+      ]
+    },
+    {
+      "id": "iphone",
+      "title": "iPhone 重点",
+      "hint": "不是硬件爆料，但和 iPhone 体验或路线有关。",
+      "items": [
         {
-          "id": "auto-89b530772395",
-          "title": "iPhone 相关消息",
+          "id": "coolapk-user-3b1f11e17c8b",
+          "title": "竹本青：【iPhone 17系列 中国区最新销量曝光：周增约59.68万台，累计约4179.58万台】 9月8日，博主「R…",
           "originalTitle": "",
-          "source": "MacRumors",
+          "source": "竹本青",
           "brand": "iPhone",
           "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-09-07",
-          "time": "14:33",
-          "publishedAt": "2026-09-07T14:33:56.000Z",
-          "url": "https://www.macrumors.com/2026/09/07/iphone-18-pro-event-could-hit-apple-shares/",
-          "image": "https://images.macrumors.com/article-new/2026/08/apple-surprise-and-shine-event.jpg",
+          "trust": "高可信爆料",
+          "date": "2026-09-08",
+          "time": "11:24",
+          "publishedAt": "2026-09-08T11:24:09.000Z",
+          "url": "https://www.coolapk.com/feed/73646319",
+          "image": "http://image.coolapk.com/feed/2026/0908/19/4248714_4305d831_6648_6233_274@1270x1609.jpg",
           "verdict": "先看",
-          "takeaway": "iPhone 相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
-          "detail": "iPhone 相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
+          "takeaway": "【iPhone 17系列 中国区最新销量曝光：周增约59.68万台，累计约4179.58万台】 9月8日，博主「RD观测」发布第三方统计数据：截至2026年第35周，iPhone 17系列手机在中国市场累计销量约4179.58万台，周新增约59.68万台。 前几周数据如下： 截至 W34 —— 约4119.9万（周增62.74万） 截至 W33 —— 约4…",
+          "detail": "【iPhone 17系列 中国区最新销量曝光：周增约59.68万台，累计约4179.58万台】 9月8日，博主「RD观测」发布第三方统计数据：截至2026年第35周，iPhone 17系列手机在中国市场累计销量约4179.58万台，周新增约59.68万台。 前几周数据如下： 截至 W34 —— 约4119.9万（周增62.74万） 截至 W33 —— 约4…",
           "keyPoints": [
             "爆料"
           ],
+          "confidence": "可信度较高，但仍属于发布前线索。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        },
+        {
+          "id": "auto-9bbf43c61c96",
+          "title": "iPhone 系统功能 / AI 体验相关消息",
+          "originalTitle": "",
+          "source": "Apple Newsroom",
+          "brand": "iPhone",
+          "type": "官方",
+          "trust": "官方确认",
+          "date": "2026-09-08",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://www.apple.com/newsroom/2026/06/apple-announces-changes-to-ios-in-brazil/",
+          "image": "",
+          "verdict": "先看",
+          "takeaway": "iPhone 系统功能 / AI 体验相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
+          "detail": "iPhone 系统功能 / AI 体验相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
+          "keyPoints": [
+            "官方"
+          ],
+          "confidence": "官方内容，可直接作为已确认信息记录。",
+          "impact": "可信度高，但如果不是配置/价格消息，只需要扫一眼。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        }
+      ]
+    },
+    {
+      "id": "launch",
+      "title": "新机与官方发布",
+      "hint": "能直接更新到参数库。",
+      "items": [
+        {
+          "id": "newsnow-b93c061ae539",
+          "title": "华为 Pura X View 发布：售价 5999 元起",
+          "originalTitle": "",
+          "source": "酷安热榜",
+          "brand": "Huawei",
+          "type": "爆料",
+          "trust": "高关注爆料源",
+          "date": "2026-09-08",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://www.coolapk.com/feed/73625860",
+          "image": "",
+          "verdict": "先看",
+          "takeaway": "华为 Pura X View 发布：售价 5999 元起",
+          "detail": "华为 Pura X View 发布：售价 5999 元起",
+          "keyPoints": [
+            "成本 / 价格"
+          ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         }
       ]
     },
@@ -264,6 +347,52 @@ window.phoneRadarDaily = {
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
           "action": "中文源可以直接点开快读；看完只保留和购机有关的点。"
+        },
+        {
+          "id": "newsnow-50f691456f52",
+          "title": "荣耀 Magic 9 Pro Max 绿色版本泄露：“转塔”设计",
+          "originalTitle": "",
+          "source": "酷安热榜",
+          "brand": "HONOR",
+          "type": "爆料",
+          "trust": "高关注爆料源",
+          "date": "2026-09-08",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://www.coolapk.com/feed/73646084",
+          "image": "",
+          "verdict": "扫一眼",
+          "takeaway": "荣耀 Magic 9 Pro Max 绿色版本泄露：“转塔”设计",
+          "detail": "荣耀 Magic 9 Pro Max 绿色版本泄露：“转塔”设计",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        },
+        {
+          "id": "newsnow-249632d71b62",
+          "title": "华为的适配到底做的咋样啊？想买阔折，小米那个 D型，看的太难受了，但是看华为好像有些软件适配也不太行。有没有都买的人说一下，我主要用途看漫画（jm拷贝这种软件）还有看小说用的[流泪] #华为PuraXMax# #小米18Fold# #HyperOS4#",
+          "originalTitle": "",
+          "source": "酷安热榜",
+          "brand": "Huawei",
+          "type": "爆料",
+          "trust": "高关注爆料源",
+          "date": "2026-09-08",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://www.coolapk.com/feed/73646044",
+          "image": "",
+          "verdict": "扫一眼",
+          "takeaway": "华为的适配到底做的咋样啊？想买阔折，小米那个 D型，看的太难受了，但是看华为好像有些软件适配也不太行。有没有都买的人说一下，我主要用途看漫画（jm拷贝这种软件）还有看小说用的[流泪] #华为PuraXMax# #小米18Fold# #HyperOS4#",
+          "detail": "华为的适配到底做的咋样啊？想买阔折，小米那个 D型，看的太难受了，但是看华为好像有些软件适配也不太行。有没有都买的人说一下，我主要用途看漫画（jm拷贝这种软件）还有看小说用的[流泪] #华为PuraXMax# #小米18Fold# #HyperOS4#",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         }
       ]
     }
